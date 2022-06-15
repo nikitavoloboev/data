@@ -1,0 +1,61 @@
+# Package managers
+
+I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
+
+## Links
+
+- [Some nice comments on brew and nix package managers](https://www.alfredforum.com/topic/11856-crash-when-quicklook-previewing-url/)
+- [Entropic](https://github.com/entropic-dev/entropic) - Federated package registry for anything.
+- [The economics of package management](https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md) ([Lobsters](https://lobste.rs/s/4pyvag/economics_package_management))
+- [Topgrade](https://github.com/r-darwish/topgrade/) - Upgrade everything.
+- [Repology](https://repology.org/) - Monitors a huge number of package repositories and other sources comparing packages versions across them and gathering other information.
+- [Managing Developer Environments with Conda (2020)](https://interrupt.memfault.com/blog/conda-developer-environments)
+- [Developers shouldn't distribute their own software (2020)](https://lobste.rs/s/6ame3m/developers_shouldn_t_distribute_their)
+- [Spack](https://github.com/spack/spack) - Flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Docs](https://spack.readthedocs.io/en/latest/))
+- [rebuilderd](https://github.com/kpcyrd/rebuilderd) - Independent verification of binary packages - reproducible builds.
+- [dripip](https://github.com/prisma-labs/dripip) - Opinionated CLI for continuous delivery of npm packages.
+- [PRIVJS](https://privjs.com/) - Implement access control to your npm packages.
+- [distri](https://distr1.org/) - Linux distribution to research fast package management. ([Code](https://github.com/distr1/distri))
+- [My Year With GNU Guix (2020)](https://elais.codes/my-year-with-gnu-guix.html)
+- [What Is Guix Really? (2021)](https://www.ryanprior.com/posts/what-is-guix-really/)
+- [Linux package managers are slow (2019)](https://michael.stapelberg.ch/posts/2019-08-17-linux-package-managers-are-slow/) ([Lobsters](https://lobste.rs/s/tanpix/linux_package_managers_are_slow))
+- [pkgsrc](https://www.pkgsrc.org/) - Framework for building third-party software on NetBSD and other UNIX-like systems, currently containing over 22,500 packages.
+- [Conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem. ([Docs](https://docs.conda.io/en/latest/))
+- [Awesome Package Manager](https://github.com/damon-kwok/awesome-package-manager) - Package manager resources.
+- [ossmalware](https://github.com/jordan-wright/ossmalware) - Attempts to use dynamic analysis to find malware hosted on package managers.
+- [GoFish](https://gofi.sh/) - Cross-platform systems package manager, bringing the ease of use of Homebrew to Linux and Windows. ([Code](https://github.com/fishworks/gofish)) ([Fish Food](https://github.com/fishworks/fish-food))
+- [fpm](https://github.com/jordansissel/fpm) - Packaging made simple. Goal of fpm is to make it easy and quick to build packages such as rpms, debs, macOS packages, etc. ([Docs](https://fpm.readthedocs.io/en/latest/))
+- [The modern packager’s security nightmare (2021)](https://blogs.gentoo.org/mgorny/2021/02/19/the-modern-packagers-security-nightmare/) ([Lobsters](https://lobste.rs/s/zb1c4k/modern_packager_s_security_nightmare))
+- [Ask HN: What is the most complex concept you understand? (2021)](https://www.youtube.com/watch?v=iBaqOK75cho)
+- [UPM](https://github.com/replit/upm) - Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
+- [Version SAT: Climbing Out the Dependency Hell](https://research.swtch.com/version-sat)
+- [Deps](https://github.com/dropseed/deps) - Command line tool for staying on top of dependencies. It runs updates, automates pull requests, and keeps your local installations in check.
+- [There are (at least) two types of package managers (2021)](https://utcc.utoronto.ca/~cks/space/blog/tech/PackageManagersTwoTypes) ([Lobsters](https://lobste.rs/s/3usbqn/there_are_at_least_two_types_package))
+- [What’s in a package (2021)](https://hpc.guix.info/blog/2021/09/whats-in-a-package/) ([HN](https://news.ycombinator.com/item?id=28618074))
+- [binwrap](https://github.com/avh4/binwrap) - Distribute binaries via npm.
+- [version](https://github.com/bit101/version) - What version do I have of \_\_\_?
+- [rinstall](https://github.com/DanySpin97/rinstall) - Helper tool that installs software and additional data into the system.
+- [asdf](https://github.com/asdf-vm/asdf) - Manage multiple runtime versions with a single CLI tool, extendable via plugins.
+- [Code Galaxies Visualization](https://anvaka.github.io/pm/) - Combines visualizations of major software package managers. ([Code](https://github.com/anvaka/pm))
+- [Package management document library](https://github.com/andrew/package-managers)
+- [PackagingCon](https://packaging-con.org/) - Conference for package manager developers and packagers. ([Twitter](https://twitter.com/packagingcon)) ([2021 Schedule](https://pretalx.com/packagingcon-2021/schedule/#)) ([2021 Videos](https://www.youtube.com/playlist?list=PLl386dCR5QGQu7XhFaVTwEGoD7fLtnGQ7))
+- [Denxi](https://github.com/zyrolasting/denxi) - Programming model for distributing data. It reduces the cost of producing package managers, storefronts, operating systems, and CI/CD systems.
+- [Google: Distributing Software in a Massively Parallel Environment (2014)](https://www.usenix.org/sites/default/files/conference/protected-files/lisa_2014_talk.pdf)
+- [Hermit](https://cashapp.github.io/hermit/) - Manages isolated, self-bootstrapping sets of tools in software projects. ([Code](https://github.com/cashapp/hermit)) ([Lobsters](https://lobste.rs/s/leqj8z/hermit_manages_isolated_self)) ([Docs](https://cashapp.github.io/hermit/usage/get-started/))
+- [Scarf CLI](https://github.com/scarf-sh/scarf) - Environment manager and development tool powered by Nomia.
+- [Aura](https://github.com/fosskers/aura) - Secure, multilingual package manager for Arch Linux and the AUR.
+- [pakket](https://github.com/pakket-project/pakket) - The last package manager macOS will ever need. Simple, functional, and fast. ([API](https://github.com/pakket-project/api))
+- [5 Reasons to Try Guix in 2022](https://www.youtube.com/watch?v=7ZdMRLPZhFs)
+- [Mamba](https://github.com/mamba-org/mamba) - Fast Cross-Platform Package Manager. ([Docs](https://mamba.readthedocs.io/en/latest/index.html)) ([Micromamba](https://github.com/cjdoris/MicroMamba.jl))
+- [OPM](https://github.com/0xc0ffeec0de/opm) - apt-like systems package manager written in Rust for many operating systems packages.
+- [Guix](https://guix.gnu.org/) - Advanced distro and transactional package manager. ([HN](https://news.ycombinator.com/item?id=30488908))
+- [AFX](https://github.com/b4b4r07/afx) - Package manager for command-line tools and shell plugins. afx can allow us to manage almost all things available on GitHub, Gist and so on.
+- [Upt](https://github.com/sigoden/upt) - Universal Package-management Tool for Windows, macOS and Linux.
+- [mpm](https://github.com/kdeldycke/meta-package-manager) - Meta Package Manager. One CLI for all package managers.
+- [trdl](https://github.com/werf/trdl) - Universal package manager delivering new versions of your application from a trusted TUF repository. ([Web](https://trdl.dev/))
+- [pacaptr](https://github.com/rami3l/pacaptr) - Pacman-like syntax wrapper for many package managers.
+- [Switching from pyenv, rbenv, goenv and nvm to asdf](https://jinyuz.dev/posts/tips-and-tricks/Switching-from-pyenv,-rbenv,-goenv-and-nvm-to-asdf) ([HN](https://news.ycombinator.com/item?id=30917354))
+- [Grove](https://github.com/tristanisham/grove) - Modern package manager and software installer.
+- [binary-install](https://github.com/EverlastingBugstopper/binary-install) - Install binary applications via npm.
+- [Latest.cat](https://latest.cat/) - Find the latest version of your favorite software. ([Code](https://github.com/patrick91/latest.cat))
+- [emplace](https://github.com/tversteeg/emplace) - Command-line tool to mirror installed software on multiple machines.

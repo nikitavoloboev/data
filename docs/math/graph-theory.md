@@ -1,0 +1,66 @@
+---
+title: Graph theory
+---
+
+# [Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
+
+## Links
+
+- [Graphs (2019)](https://blog.yoshuawuyts.com/graphs/)
+- [Algebraic Property Graphs paper (2019)](https://arxiv.org/abs/1909.04881)
+- [vis-network](https://github.com/visjs/vis-network) - Display dynamic, automatically organised, customizable network views.
+- [ngraph](https://github.com/anvaka/ngraph) - Set of graph related algorithms. It can be used in a browser or on the server side.
+- [A detailed characterization of complex networks using Information Theory (2019)](https://www.nature.com/articles/s41598-019-53167-5)
+- [ngraph.path](https://github.com/anvaka/ngraph.path) - Fast path finding for arbitrary graphs.
+- [Rainbow Proof Shows Graphs Have Uniform Parts (2020)](https://www.quantamagazine.org/mathematicians-prove-ringels-graph-theory-conjecture-20200219/)
+- [MIDAS: Real-Time Streaming Anomaly Detection in Dynamic Graphs](https://github.com/bhatiasiddharth/MIDAS) ([HN](https://news.ycombinator.com/item?id=22802604))
+- [MIDAS in Go](https://github.com/steve0hh/midas) ([HN](https://news.ycombinator.com/item?id=23018153))
+- [Algebraic Graphs with Class](https://github.com/snowleopard/alga-paper)
+- [Learning an End-to-End Physical Layer with Computational Graphs](http://calebzulawski.com/projects/thesis/)
+- [ngraph.hde](https://github.com/anvaka/ngraph.hde) - High dimensional embedding of a graph and its layout.
+- [Representing Graphs by Knuth Trees (1974)](https://www.cs.virginia.edu/~jlp/75.knuth.trees.pdf) ([HN](https://news.ycombinator.com/item?id=23583547))
+- [Seven Trees in One - Andreas Blass (1994)](https://arxiv.org/abs/math/9405205)
+- [Comparison: growth (2020)](https://www.youtube.com/watch?v=1JDt5P5n75E&) - Examine how fast are various geometries/graphs/groups growing.
+- [Better geometry through graph theory (2018)](https://ideolalia.com/2018/08/28/artifex.html) ([HN](https://news.ycombinator.com/item?id=23671130))
+- [Introduction to Graph Theory](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
+- [Graph Theory Textbooks](https://archive.org/details/GraphTheoryTextbooks)
+- [Kosaraju's Algorithm for finding Strongly Connected Components (2020)](https://hassamuddin.com/blog/kosaraju/)
+- [A Practical Introduction to Graphs (Network Diagrams) (2020)](https://healeycodes.com/practical-intro-to-graphs/)
+- [Tronix - Visualize Graph Theory](http://pulzed.com/) ([HN](https://news.ycombinator.com/item?id=24050651))
+- [Efficient Graph Search](https://dl.acm.org/doi/fullHtml/10.1145/3424302.3424304)
+- [Graphs and C-sets I: What is a graph? (2020)](https://www.algebraicjulia.org/blog/post/2020/09/cset-graphs-1/)
+- [Computer Scientists Break Traveling Salesperson Record (2020)](https://www.quantamagazine.org/computer-scientists-break-traveling-salesperson-record-20201008/) ([HN](https://news.ycombinator.com/item?id=24720607))
+- [Cuckoo Cycle](https://github.com/tromp/cuckoo) - Memory-bound graph-theoretic proof-of-work system.
+- [GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS) - Graph algorithms in the language of linear algebra.
+- [GraphBLAS: A linear algebraic approach for portable graph algorithms (2020)](https://zenodo.org/record/4318870)
+- [GEMS Lab](https://gemslab.github.io/) - Graph Exploration and Mining at Scale. ([GitHub](https://github.com/GemsLab))
+- [SNAP](https://github.com/snap-stanford/snap) - Stanford Network Analysis Platform. ([Web](http://snap.stanford.edu/))
+- [DeepSNAP](httpsn://github.com/snap-stanford/deepsnap) - Python library assists deep learning on graphs.
+- [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis. ([Web](https://js.cytoscape.org/))
+- [React Cytoscape](https://github.com/plotly/react-cytoscapejs) - React component for Cytoscape.js network visualisations.
+- [Awesome Dynamic Graphs](https://github.com/domargan/awesome-dynamic-graphs)
+- [GraphScope](https://github.com/alibaba/GraphScope) - One-Stop Large-Scale Graph Computing System from Alibaba. ([Web](https://graphscope.io/))
+- [The Easiest Unsolved Problem in Graph Theory (2021)](https://medium.com/cantors-paradise/the-easiest-unsolved-problem-in-graph-theory-fa3a7f26181b)
+- [NGT](https://github.com/yahoojapan/NGT) - Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data.
+- [New Proof Reveals That Graphs with No Pentagons Are Fundamentally Different (2021)](https://www.quantamagazine.org/new-proof-reveals-that-graphs-with-no-pentagons-are-fundamentally-different-20210426/) ([HN](https://news.ycombinator.com/item?id=26943468))
+- [Geometric Deep Learning](https://geometricdeeplearning.com/) - Grids, Graphs, Groups, Geodesics, and Gauges. ([Tweet](https://twitter.com/PetarV_93/status/1387441776793882627)) ([Lectures](https://geometricdeeplearning.com/lectures/))
+- [Constructions in combinatorics via neural networks (2021)](https://arxiv.org/pdf/2104.14516.pdf) ([Tweet](https://twitter.com/wtgowers/status/1388458562775654401))
+- [Kite](https://erkal.github.io/kite/) - Interactive visualization tool for graph theory. ([Code](https://github.com/erkal/kite)) ([HN](https://news.ycombinator.com/item?id=28516064))
+- [Spaghetti](https://github.com/pysal/spaghetti) - Open-source Python library for the analysis of network-based spatial data. ([Web](https://pysal.org/spaghetti/))
+- [Graphs (2017)](https://lonami.dev/blog/graphs/)
+- [How do DAGs help to reduce bias in causal inference?](https://stats.stackexchange.com/questions/445578/how-do-dags-help-to-reduce-bias-in-causal-inference)
+- [Algorithms Course - Graph Theory Tutorial from a Google Engineer (2019)](https://www.youtube.com/watch?v=09_LlHjoEiY)
+- [Master thesis: Minimum degree ordering (2021)](https://opensourc.es/blog/master-thesis-minimum-degree-ordering/)
+- [How Big Data Carried Graph Theory into New Dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/) ([HN](https://news.ycombinator.com/item?id=28241398))
+- [Partition and Code: learning how to compress graphs (2021)](https://arxiv.org/abs/2107.01952) ([Code](https://github.com/gbouritsas/PnC))
+- [Ordering Movie Credits with Graph Theory](https://endcrawl.com/credits-ordering/) ([HN](https://news.ycombinator.com/item?id=29639968))
+- [Solving the Traveling Salesman Problem using Self-Organizing Maps](https://github.com/DiegoVicen/som-tsp)
+- [House of Graphs](https://hog.grinvin.org/)
+- [Graph Theory and Linear Algebra (2017)](https://www.math.utah.edu/~gustafso/s2017/2270/projects-2017/dylanJohnson/Dylan%20Johnson%20Graph%20Theory%20and%20Linear%20Algebra.pdf) ([HN](https://news.ycombinator.com/item?id=30455711))
+- [Spectral and Algebraic Graph Theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/)
+- [Spectral Graph Theory Book](https://bookstore.ams.org/cbms-92)
+- [Graph Notebook: easily query and visualize graphs](https://github.com/aws/graph-notebook)
+- [The Transformer Network for the Traveling Salesman Problem (2021)](https://arxiv.org/abs/2103.03012) ([Code](https://github.com/xbresson/TSP_Transformer))
+- [Elegant six-page proof reveals the emergence of random structure (2022)](https://www.quantamagazine.org/elegant-six-page-proof-reveals-the-emergence-of-random-structure-20220425/) ([HN](https://news.ycombinator.com/item?id=31162576))
+- [Ogma](https://resources.linkurious.com/ogma) - JavaScript library that can be leveraged to develop powerful, large-scale interactive graph visualizations. ([React Code](https://github.com/Linkurious/ogma-react))
+- [ngraph.graph](https://github.com/anvaka/ngraph.graph) - Graph data structure in JavaScript.

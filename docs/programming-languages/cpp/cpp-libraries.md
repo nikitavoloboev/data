@@ -1,0 +1,435 @@
+# C++ libraries
+
+## CLI
+
+- [cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser.
+- [FTXUI](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface.
+- [Command Interface](https://github.com/empirical-soft/command-interface) - Add a command-line interface to any C++ program. ([HN](https://news.ycombinator.com/item?id=28886328))
+- [Argh](https://github.com/adishavit/argh) - Minimalist argument handler.
+- [CLI11](https://github.com/CLIUtils/CLI11) - Command line parser for C++11.
+- [libcargs](https://github.com/likle/cargs) - Command line argument library for C/C++.
+
+## Test
+
+- [Catch2](https://github.com/catchorg/Catch2) - Modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later.
+- [Google Test](https://github.com/google/googletest) - Google Testing and Mocking Framework.
+- [utest.h](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++.
+- [Mutate](https://github.com/nlohmann/mutate_cpp) - C++ Mutation Test Environment.
+- [RapidCheck](https://github.com/emil-e/rapidcheck) - C++ framework for property based testing inspired by QuickCheck and other similar frameworks.
+- [doctest](https://github.com/doctest/doctest) - Fastest feature-rich C++11/14/17/20 single-header testing framework.
+- [UT](https://github.com/boost-ext/ut) - C++20 μ(micro)/Unit Testing Framework.
+- [Tau](https://github.com/jasmcaus/tau) - Micro Unit Test Framework for C/C++.
+
+## Concurrency
+
+- [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Fast C++ header-only library to help you quickly write parallel programs with complex task dependencies.
+- [Async++](https://github.com/Amanieu/asyncplusplus) - Lightweight concurrency framework for C++11.
+- [Thrust](https://github.com/thrust/thrust) - C++ parallel programming library which resembles the C++ Standard Library.
+
+## UI
+
+- [Dear ImGui](https://github.com/ocornut/imgui) - Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies. ([Awesome Dear ImGui](https://github.com/HankiDesign/awesome-dear-imgui))
+- [giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui.
+- [GuiLite](https://github.com/idea4good/GuiLite) - Smallest UI framework for all platform -- 5K lines code.
+- [Yue](https://github.com/yue/yue) - Library for creating native cross-platform GUI apps.
+- [MyGUI](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI.
+- [Plywood](https://github.com/arc80/plywood) - Cross-platform framework for building all kinds of C++ software. ([HN](https://news.ycombinator.com/item?id=23310341))
+- [Elements](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. ([HN](https://news.ycombinator.com/item?id=23743376))
+- [wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform GUI Library.
+- [Fast UI Draw](https://github.com/intel/fastuidraw) - Library that provides a higher performance Canvas interface. It is designed so that it always draws using a GPU. ([HN](https://news.ycombinator.com/item?id=25079266))
+
+## Web
+
+- [NFHTTP](https://github.com/spotify/NFHTTP) - Cross platform C++ HTTP framework.
+- [Drogon](https://github.com/an-tao/drogon) - C++14/17-based rapid HTTP and web application framework.
+- [Asio](http://think-async.com/Asio/) - Cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach. ([Code](https://github.com/chriskohlhoff/asio))
+- [Pistache](https://github.com/pistacheio/pistache) - High-performance REST Toolkit written in C++.
+- [Malloy](https://github.com/Tectu/malloy) - C++ library providing embeddable server & client components for both HTTP and WebSocket.
+- [Crow](https://github.com/CrowCpp/Crow) - Fast and Easy to use microframework for the web. ([Web](http://crowcpp.org/))
+- [Oat++](https://github.com/oatpp/oatpp) - Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
+- [libhttpserver](https://github.com/etr/libhttpserver) - C++ library for building high performance RESTful web servers.
+- [async-sockets-cpp](https://github.com/eminfedar/async-sockets-cpp) - Simple thread-based asynchronous TCP & UDP Socket classes in C++.
+- [mockturtle](https://github.com/lsils/mockturtle) - C++ logic network library.
+- [Wt](https://github.com/emweb/wt) - C++ Web Toolkit.
+- [Beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11.
+
+## Graphics
+
+- [Cinder](https://github.com/cinder/Cinder) - Peer-reviewed, free, open source C++ library for creative coding. ([Web](https://libcinder.org/)) ([Docs](https://libcinder.org/docs/index.html)) ([HN](https://news.ycombinator.com/item?id=26289200))
+- [Terathon Math Library](https://github.com/EricLengyel/Terathon-Math-Library) - C++ math library containing classes for vectors, matrices, quaternions, and elements of projective geometric algebra.
+- [VGC](https://github.com/vgc/vgc) - Next-Gen Graphic Design and 2D Animation. ([Web](https://www.vgc.io/))
+- [Yocto/GL](https://github.com/xelatihy/yocto-gl) - C++ Libraries for Data-Driven Physically-based Graphics. ([Docs](https://xelatihy.github.io/yocto-gl/)) ([HN](https://news.ycombinator.com/item?id=26582114))
+- [Methane Kit](https://github.com/egorodet/MethaneKit) - Easy to use modern 3D graphics rendering abstraction API and cross-platform application framework.
+- [Tahoma2D](https://github.com/tahoma2d/tahoma2d) - 2D and Stop Motion Animation Software. ([Web](https://tahoma2d.org/))
+- [gfx](https://github.com/gboisse/gfx) - Minimalist and easy to use graphics API built on top of Direct3D12/HLSL intended for rapid prototyping.
+- [bigger](https://github.com/yuki-koyama/bigger) - Prototype-oriented middleware library for 3D interactive applications.
+- [Treexy](https://github.com/facontidavide/Treexy) - Brutally fast, sparse, 3D Voxel Grid.
+- [neoGFX](https://github.com/i42output/neoGFX) - Cross-platform GPU-oriented C++ application/game framework. ([Web](https://neogfx.org/))
+- [NanoGUI](https://github.com/mitsuba-renderer/nanogui) - Minimalistic C++/Python GUI library for OpenGL, GLES2/3, Metal, and WebAssembly/WebGL.
+- [Anti-Grain Geometry](https://github.com/ghaerr/agg-2.6) - Open Source, 2D vector graphics library. Produces pixel images in memory from vectorial data.
+- [JNGL](https://github.com/jhasse/jngl) - Easy to use cross-platform 2D game library for C++.
+- [libpag](https://github.com/Tencent/libpag) - Real-time rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
+- [Alembic](https://github.com/alembic/alembic) - Open computer graphics interchange framework. ([Web](http://www.alembic.io/))
+- [TriMesh2](https://github.com/Forceflow/trimesh2) - C++ library and set of utilities for input, output, and basic manipulation of 3D triangle meshes.
+- [Skity](https://github.com/RuiwenTang/Skity) - Open-source 2D graphics library written in C++ using OpenGL and Vulkan.
+- [OpenMfx](https://github.com/eliemichel/OpenMfx) - Low-overhead mesh-processing plug-in API for cross-software procedural effects.
+
+## DB
+
+- [libpqxx](https://github.com/jtv/libpqxx) - Official C++ client API for PostgreSQL.
+- [SOCI](https://github.com/SOCI/soci) - C++ Database Access Library.
+- [taoPQ](https://github.com/taocpp/taopq) - C++ client library for PostgreSQL.
+- [Velox](https://github.com/facebookincubator/velox) - C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
+- [Supersonic](https://github.com/google/supersonic) - Ultra-fast, column oriented query engine library written in C++.
+- [SQLite ORM](https://github.com/fnc12/sqlite_orm) - Light header only library for modern C++.
+- [rocksdb](https://github.com/Level/rocksdb) - Pure C++ Node.js RocksDB binding. An abstract-leveldown compliant store.
+- [KVDK](https://github.com/pmem/kvdk) - Key-value store library implemented in C++ language.
+
+## Crypto
+
+- [OpenABE](https://github.com/zeutro/openabe) - Open source cryptographic library with attribute-based encryption implementations in C/C++.
+- [Crypto++](https://github.com/weidai11/cryptopp) - Free C++ class library of cryptographic schemes.
+- [AZTEC](https://github.com/AztecProtocol/barretenberg) - C++ elliptic curve library.
+
+## ML
+
+- [ML++](https://github.com/novak-99/MLPP) - Library created to revitalize C++ as a machine learning front end.
+
+## Math
+
+- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra. ([HN](https://news.ycombinator.com/item?id=30906376))
+- [Stan Math](https://github.com/stan-dev/math) - C++ template library for automatic differentiation of any order using forward, reverse, and mixed modes. It includes a range of built-in functions for probabilistic modeling, linear algebra, and equation solving.
+
+## Other
+
+- [{fmt}](https://github.com/fmtlib/fmt) - Modern formatting library.
+- [simdjson](https://github.com/lemire/simdjson) - Parsing gigabytes of JSON per second.
+- [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++.
+- [Folly](https://github.com/facebook/folly) - Library of C++14 components designed with practicality and efficiency in mind.
+- [jet-live](https://github.com/ddovod/jet-live) - C++ hot code reload for linux and macos.
+- [cpr](https://github.com/libcpr/cpr) - Curl for People, a spiritual port of Python Requests.
+- [argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++.
+- [lager](https://sinusoid.es/lager/) - C++ library to assist value-oriented design by implementing the unidirectional data-flow architecture.
+- [Immutable++](https://github.com/rsms/immutable-cpp) - Persistent immutable data structures providing practically O(1) for appends, updates and lookups.
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib) - C++ single-file header-only cross platform HTTP/HTTPS library.
+- [Proxygen](https://github.com/facebook/proxygen) - Collection of C++ HTTP libraries including an easy to use HTTP server.
+- [RESTinio](https://github.com/Stiffstream/restinio) - Header-only C++14 library that gives you an embedded HTTP/Websocket server.
+- [Enoki](https://github.com/mitsuba-renderer/enoki) - Structured vectorization and differentiation on modern processor architectures.
+- [Marl](https://github.com/google/marl) - Hybrid thread / fiber task scheduler written in C++ 11.
+- [Collection of succinct data structures](https://github.com/ot/succinct)
+- [Microsoft's C++ Standard Library](https://github.com/microsoft/STL)
+- [Quantum Library](https://github.com/bloomberg/quantum) - Full-featured and powerful C++ framework build on top of the Boost coroutine library.
+- [Wangle](https://github.com/facebook/wangle) - Framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
+- [Typeclasses in C++](https://github.com/TartanLlama/typeclasses) - Future C++ implementation of Rust-like trait objects with no boilerplate.
+- [Basic Development Environment](https://github.com/bloomberg/bde) - Set of foundational C++ libraries used at Bloomberg.
+- [BareMetalLib](https://github.com/kuanweeloong/BareMetalLib) - C++ support library for bare-metal programming.
+- [matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib.
+- [re2](https://github.com/google/re2) - Fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python.
+- [Boost.Hana](https://github.com/boostorg/hana) - Your standard library for metaprogramming.
+- [xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing.
+- [Choreograph](https://github.com/sansumbrella/Choreograph) - Simple, modern C++ animation and timing library.
+- [cppast](https://github.com/foonathan/cppast) - Library to parse and work with the C++ AST.
+- [thread-pool-cpp](https://github.com/inkooboo/thread-pool-cpp) - High performance C++11 thread pool.
+- [pytest-cpp](https://github.com/pytest-dev/pytest-cpp) - Use pytest's runner to discover and execute C++ tests.
+- [MFEM](https://github.com/mfem/mfem) - Lightweight, general, scalable C++ library for finite element methods.
+- [Backward-cpp](https://github.com/bombela/backward-cpp) - Beautiful stack trace pretty printer for C++.
+- [sparsehash](https://github.com/sparsehash/sparsehash) - C++ associative containers.
+- [tabulate](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++.
+- [stb](https://github.com/nothings/stb) - Single-file public domain libraries for C/C++.
+- [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - Modern cross-platform low-level graphics library and rendering framework.
+- [Loguru](https://github.com/emilk/loguru) - Lightweight C++ logging library.
+- [DFHack](https://github.com/DFHack/dfhack) - Dwarf Fortress memory access library, distributed with scripts and plugins implementing a wide variety of useful functions and tools.
+- [Tweeny](https://github.com/mobius3/tweeny) - Inbetweening library designed for the creation of complex animations for games and other beautiful interactive software.
+- [Work-Stealing Queue](https://github.com/tsung-wei-huang/work-stealing-queue)
+- [libff](https://github.com/scipr-lab/libff) - C++ library for finite fields and elliptic curves.
+- [REST client for C++](https://github.com/mrtazz/restclient-cpp)
+- [SDSL](https://github.com/simongog/sdsl-lite) - Succinct Data Structure Library.
+- [Acutest](https://github.com/mity/acutest) - Simple header-only C/C++ unit testing facility.
+- [Boost Multiprecision Library](https://github.com/boostorg/multiprecision) - Provides integer, rational, floating-point, complex and interval number types in C++ that have more range and precision than C++'s ordinary built-in types.
+- [Sentry SDK for C/C++](https://github.com/getsentry/sentry-native)
+- [scnlib](https://github.com/eliaskosunen/scnlib) - Modern C++ library for replacing scanf and std::istream.
+- [Plog](https://github.com/SergiusTheBest/plog) - Portable, simple and extensible C++ logging library.
+- [Nano](https://github.com/refnum/Nano) - C++ library for developing high-performance applications for macOS, iOS, tvOS, Android, Linux, and Microsoft Windows.
+- [span lite](https://github.com/martinmoene/span-lite) - C++20-like span for C++98, C++11 and later in a single-file header-only library.
+- [atomic_queue](https://github.com/max0x7ba/atomic_queue) - C++ lock-free queue.
+- [RTTR](https://github.com/rttrorg/rttr) - C++ Reflection Library.
+- [lager](https://github.com/arximboldi/lager) - C++ library for value-oriented design using the unidirectional data-flow architecture (Redux for C++).
+- [Heteroflow](https://github.com/Heteroflow/Heteroflow) - Header-only C++ library to help you quickly write concurrent CPU-GPU programs using task models.
+- [GEOS](https://github.com/libgeos/geos) - C++11 library for performing operations on two-dimensional vector geometries.
+- [subprocess.h](https://github.com/sheredom/subprocess.h) - Simple one header solution to launching processes and interacting with them for C and C++.
+- [OpenMesh](https://www.graphics.rwth-aachen.de/software/openmesh/) - Generic and efficient data structure for representing and manipulating polygonal meshes.
+- [Skia](https://github.com/google/skia) - Complete 2D graphic library for drawing Text, Geometries, and Images. ([Web](https://skia.org/))
+- [nbind](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript.
+- [Fiber Tasking Lib](https://github.com/RichieSams/FiberTaskingLib) - Library for enabling task-based multi-threading. It allows execution of task graphs with arbitrary dependencies.
+- [ozz-animation](https://github.com/guillaumeblanc/ozz-animation) - Open source c++ skeletal animation library and toolset.
+- [sqlpp11](https://github.com/rbock/sqlpp11) - Type safe embedded domain specific language for SQL queries and results in C++.
+- [Tiny Differentiable Simulator](https://github.com/google-research/tiny-differentiable-simulator) - Header-only C++ physics library with zero dependencies.
+- [Movable Feast Machine C++ reference implementation and simulator](https://github.com/DaveAckley/MFM)
+- [Fastor](https://github.com/romeric/Fastor) - Light-weight high performance tensor algebra framework for modern C++.
+- [FastNoise](https://github.com/Auburns/FastNoise) - Fast C++ Noise Library.
+- [libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library.
+- [Kodiak](https://github.com/nasa/Kodiak) - C++ library that implements a generic branch and bound algorithm for rigorous numerical approximations.
+- [cilantro](https://github.com/kzampog/cilantro) - Lean and fast C++ library for working with point cloud data, with emphasis given to the 3D case.
+- [Frozen](https://github.com/serge-sans-paille/frozen) - Header-only library that provides 0 cost initialization for immutable containers and various algorithms.
+- [fast_io](https://github.com/expnkx/fast_io) - C++ general-purpose exception-safe RAII I/O library based on C++ 20 Concepts. It is at least ten times faster than cstdio or iostream.
+- [LEAF](https://github.com/zajo/leaf) - Lightweight Error Augmentation Framework.
+- [nacro](https://github.com/mshockwave/nacro) - Better C/C++ macro extension. Implemented in Clang plugins. Inspired by Rust's macro system.
+- [Magic Enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code.
+- [Nameof](https://github.com/Neargye/nameof) - Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum.
+- [ALEX](https://github.com/microsoft/ALEX) - Library for building an in-memory, Adaptive Learned indEX. ([HN](https://news.ycombinator.com/item?id=23571741))
+- [cereal](https://github.com/USCiLab/cereal) - C++11 library for serialization.
+- [Boost C++ Libraries](https://github.com/boostorg/boost)
+- [ELFIO](https://github.com/serge1/ELFIO) - Header-only C++ library intended for reading and generating files in the ELF binary format.
+- [DataFrame](https://github.com/hosseinmoein/DataFrame) - C++ statistical library that provides an interface similar to Pandas package in Python. ([Reddit](https://www.reddit.com/r/cpp/comments/i3i19j/reclaiming_modern_c_as_the_tool_of_data_analysis/))
+- [structopt](https://github.com/p-ranav/structopt) - Parse command line arguments by defining a struct. ([HN](https://news.ycombinator.com/item?id=24182771))
+- [Derecho](https://github.com/Derecho-Project/derecho) - Open-source C++ distributed computing toolkit that provides strong forms of distributed coordination and consistency at RDMA speeds.
+- [Jungle](https://github.com/eBay/Jungle) - Embedded key-value storage library, based on a combined index of LSM-tree and copy-on-write (append-only) B+tree.
+- [NuRaft](https://github.com/eBay/NuRaft) - C++ implementation of Raft core logic as a replication library.
+- [Hyperscan](https://github.com/intel/hyperscan) - High-performance multiple regex matching library. ([Web](https://www.hyperscan.io/))
+- [libcu++](https://github.com/NVIDIA/libcudacxx) - NVIDIA C++ Standard Library.
+- [OpenR](https://github.com/facebook/openr) - Distributed platform for building autonomic network functions.
+- [Abseil](https://github.com/abseil/abseil-cpp) - Open-source collection of C++ code designed to augment the C++ standard library. ([How to contribute to Abseil with a visible performance gain](https://danlark.org/2020/01/12/how-to-contribute-to-abseil-with-a-visible-performance-gain/))
+- [semver](https://github.com/Neargye/semver) - Semantic Versioning for modern C++.
+- [Aleph](https://github.com/Pseudomanifold/Aleph) - Library for Exploring Persistent Homology.
+- [Terminal](https://github.com/jupyter-xeus/terminal) - Small header only C++ library for writing multiplatform terminal applications.
+- [Draco](https://github.com/lanl/Draco) - Object-oriented component library geared towards numerically intensive, radiation (particle) transport applications built for parallel computing hardware.
+- [cpu_features](https://github.com/google/cpu_features) - Cross platform C99 library to get cpu features at runtime.
+- [VSTGUI](https://github.com/steinbergmedia/vstgui) - User interface toolkit mainly for audio plug-ins.
+- [libunifex](https://github.com/facebookexperimental/libunifex) - Prototype implementation of the C++ sender/receiver async programming model.
+- [random](https://github.com/effolkronium/random) - Random for modern C++ with convenient API.
+- [fifo_map](https://github.com/nlohmann/fifo_map) - FIFO-ordered associative container for C++.
+- [TensorRT](https://github.com/NVIDIA/TensorRT) - C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
+- [Hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors.
+- [Non-Metric Space Library (NMSLIB)](https://github.com/nmslib/nmslib) - Efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
+- [Dyno](https://github.com/ldionne/dyno) - Runtime polymorphism done right.
+- [Geometry Central](https://github.com/nmwsharp/geometry-central) - Applied 3D geometry in C++, with a focus on surface meshes. ([Docs](https://geometry-central.net/))
+- [Bullet Physics SDK](https://github.com/StanfordVL/bullet3) - Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+- [lexy](https://github.com/foonathan/lexy) - C++ parser combinator library.
+- [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library. Zero-dependency C++ header-only parser combinator library for creating parsers according to a Parsing Expression Grammar (PEG).
+- [incbin](https://github.com/graphitemaster/incbin) - Include binary files in C/C++.
+- [uDepot](https://github.com/IBM/uDepot) - Multi-threaded, scalable, persistent store that is flash optimized by using a log-structured space allocation and GC framework.
+- [PDAL](https://github.com/PDAL/PDAL) - Point Data Abstraction Library. GDAL for point cloud data. ([Docs](https://pdal.io/))
+- [painless](https://github.com/sharkdp/painless) - Header-only C++ library that provides an easy way to use interactive parameters in your program.
+- [Embedded Template Library (ETL)](https://github.com/ETLCPP/etl) ([Web](https://www.etlcpp.com/))
+- [C++ B-tree](https://github.com/Kronuz/cpp-btree) - Modern C++ B-tree containers.
+- [Blitz++](https://github.com/blitzpp/blitz) - Multi-Dimensional Array Library for C++.
+- [ATen](https://github.com/zdevito/ATen) - TENsor library for C++11.
+- [AsyncFuture](https://github.com/benlau/asyncfuture) - Use QFuture like a Promise object.
+- [concurrencpp](https://github.com/David-Haim/concurrencpp) - C++ concurrency library.
+- [Build→It](https://github.com/AjayBrahmakshatriya/buildit) - Type based library framework for multi-stage imperative programming. ([Web](https://build-it.intimeand.space/))
+- [FLANN](https://github.com/mariusmuja/flann) - Fast Library for Approximate Nearest Neighbors.
+- [TVLLib](https://github.com/MorphStore/TVLLib) - Template Vector Library.
+- [Ceres Solver](https://github.com/ceres-solver/ceres-solver) - Open source C++ library for modeling and solving large, complicated optimization problems. ([Docs](http://ceres-solver.org/))
+- [sdbus-c++](https://github.com/Kistler-Group/sdbus-cpp) - High-level C++ D-Bus library for Linux designed to provide expressive, easy-to-use API in modern C++.
+- [DGtal](https://github.com/DGtal-team/DGtal) - Digital Geometry Tools and Algorithm Library. ([Web](https://dgtal.org/))
+- [libpy](https://github.com/quantopian/libpy) - Library to help you write amazing Python extensions in C++.
+- [cppcoro](https://github.com/andreasbuhr/cppcoro) - Library of C++ coroutine abstractions for the coroutines TS.
+- [DynaMix (Dynamic Mixins)](https://github.com/iboB/dynamix) - New take on polymorphism. It lets the user compose and modify polymorphic objects at run time in C++.
+- [maths](https://github.com/polymonster/maths) - Linear algebra library with vector swizzling, intersection tests and useful functions for games and graphics dev.
+- [Edlib](https://github.com/Martinsos/edlib) - Lightweight, super fast C/C++ (& Python) library for sequence alignment using edit (Levenshtein) distance.
+- [Corrade](https://github.com/mosra/corrade) - C++11/C++14 multiplatform utility library. ([Web](https://magnum.graphics/corrade/))
+- [Vineyard](https://github.com/alibaba/libvineyard) - In-memory immutable data manager. ([Docs](https://v6d.io/)) ([HN](https://news.ycombinator.com/item?id=25832831))
+- [Dionysus](https://github.com/mrzv/dionysus) - Library for computing persistent homology.
+- [Parallel Hashmap](https://github.com/greg7mdp/parallel-hashmap) - Family of header-only, very fast and memory-friendly hashmap and btree containers.
+- [Kimera](https://github.com/MIT-SPARK/Kimera) - C++ library for real-time metric-semantic simultaneous localization and mapping.
+- [libtensor](https://github.com/epifanovsky/libtensor) - C++ library for tensor computations.
+- [RadixSpline](https://github.com/learnedsystems/RadixSpline) - Read-only learned index structure that can be built in a single pass over sorted data.
+- [Minisketch](https://github.com/sipa/minisketch) - Optimized library for BCH-based set reconciliation.
+- [TiledArray](https://github.com/ValeevGroup/tiledarray) - Massively-parallel, block-sparse tensor framework written in C++.
+- [FBGEMM](https://github.com/pytorch/FBGEMM) - Low-precision, high-performance matrix-matrix multiplications and convolution library for server-side inference.
+- [Cista++](https://github.com/felixguendling/cista) - Simple C++ Serialization & Reflection. ([Web](https://cista.rocks/))
+- [Memkind](https://github.com/memkind/memkind) - User extensible heap manager built on top of jemalloc which enables control of memory characteristics and a partitioning of the heap between kinds of memory. ([Web](http://memkind.github.io/memkind/))
+- [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code.
+- [polylabel](https://github.com/mapbox/polylabel) - Fast algorithm for finding the pole of inaccessibility of a polygon (in JavaScript and C++).
+- [GBDT](https://github.com/yarny/gbdt) - High performance and full featured C++ implementation of Jerome H. Friedman's Gradient Boosting Decision Trees Algorithm and its modern offsprings.
+- [DSPatch](https://github.com/cross-platform/dspatch) - Refreshingly Simple C++ Dataflow Framework.
+- [libcuckoo](https://github.com/efficient/libcuckoo) - High-performance, concurrent hash table.
+- [libmprompt](https://github.com/koka-lang/libmprompt) - Robust multi-prompt delimited control and effect handlers in C/C++.
+- [IceCream-Cpp](https://github.com/renatoGarcia/icecream-cpp) - Little (single header) library to help with the print debugging on C++11 and forward.
+- [expected](https://github.com/TartanLlama/expected) - C++11/14/17 std::expected with functional-style extensions. ([Tweet](https://twitter.com/TartanLlama/status/1376915871956836359))
+- [monolish](https://github.com/ricosjp/monolish) - MONOlithic Liner equation Solvers for Highly-parallel architecture.
+- [EVE](https://github.com/jfalcou/eve) - Expressive Velocity Engine.
+- [Galois](https://github.com/KatanaGraph/katana) - C++ library designed to ease parallel programming, especially for applications with irregular parallelism.
+- [timemory](https://github.com/NERSC/timemory) - Timing + Memory + Hardware Counter Utilities for C / C++ / CUDA / Python.
+- [Casbin-CPP](https://github.com/casbin/casbin-cpp) - Authorization library that supports access control models like ACL, RBAC, ABAC in C/C++.
+- [SON-RPC-CXX](https://github.com/jsonrpcx/json-rpc-cxx) - JSON-RPC for modern C++.
+- [PTHash](https://github.com/jermp/pthash) - Fast and compact minimal perfect hash functions in C++.
+- [Zadeh](https://github.com/atom-community/zadeh) - Blazing fast library for fuzzy filtering, matching, and other fuzzy things.
+- [Workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. ([HN](https://news.ycombinator.com/item?id=27256686))
+- [AFF3CT](https://github.com/aff3ct/aff3ct) - Fast simulator and a library dedicated to the channel coding. ([Web](http://aff3ct.github.io/))
+- [Boost.Hof](https://github.com/boostorg/hof) - Higher-order functions for C++.
+- [aids](https://github.com/rexim/aids) - std replacement for C++.
+- [POCO (Portable Components)](https://github.com/pocoproject/poco) - Powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems. ([Web](https://pocoproject.org/))
+- [Operon](https://github.com/heal-research/operon) - C++ Large Scale Genetic Programming. ([Docs](https://operongp.readthedocs.io/en/latest/))
+- [CppCoro](https://github.com/lewissbaker/cppcoro) - Library of C++ coroutine abstractions for the coroutines TS.
+- [TinyGLTF](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library.
+- [Pipes](https://github.com/joboccara/pipes) - Small components for writing expressive code when working on collections.
+- [NamedType](https://github.com/joboccara/NamedType) - Implementation of strong types in C++.
+- [kari.hpp](https://github.com/BlackMATov/kari.hpp) - Experimental library for currying in C++17.
+- [cpp-lazy](https://github.com/MarcDirven/cpp-lazy) - Fast and easy lazy evaluation library.
+- [memory-allocators](https://github.com/mtrebi/memory-allocators) - Custom memory allocators in C++ to improve the performance of dynamic memory allocation.
+- [Vc](https://github.com/VcDevel/Vc) - Portable, zero-overhead C++ types for explicitly data-parallel programming.
+- [cinolib](https://github.com/mlivesu/cinolib) - Generic programming header only C++ library for processing polygonal and polyhedral meshes.
+- [ordered-map](https://github.com/Tessil/ordered-map) - C++ hash map and hash set which preserve the order of insertion.
+- [CIDLib](https://github.com/DeanRoddey/CIDLib) - General purpose C++ development environment.
+- [CrossWindow](https://github.com/alaingalvan/CrossWindow) - Cross platform system abstraction library written in C++ for managing windows and performing OS tasks. ([Web](https://alain.xyz/libraries/crosswindow))
+- [dr_libs](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C/C++.
+- [EASTL](https://github.com/electronicarts/EASTL) - Alternative C++ Standard Library From Electronic Arts. ([HN](https://news.ycombinator.com/item?id=28060700))
+- [Inja](https://github.com/pantor/inja) - Template Engine for Modern C++. ([HN](https://news.ycombinator.com/item?id=30190254))
+- [Reckless](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++.
+- [CPP-Libp2p](https://github.com/libp2p/cpp-libp2p) - C++17 implementation of libp2p.
+- [µReact](https://github.com/YarikTH/ureact) - Minimalistic reactive library for c++.
+- [Minicore](https://github.com/dnbaker/minicore) - Fast and memory-efficient clustering + coreset construction, including fast distance kernels for Bregman and f-divergences.
+- [EXOTica](https://github.com/ipab-slmc/exotica) - Extensible Optimization Framework. ([Docs](https://ipab-slmc.github.io/exotica/))
+- [subprocess](https://github.com/rajatjain1997/subprocess) - C++ high level library for running shell processes.
+- [HOT](https://github.com/speedskater/hot) - Height Optimized Trie.
+- [Okasaki](https://github.com/BartoszMilewski/Okasaki) - Functional data structures in C++.
+- [rlottie](https://github.com/Samsung/rlottie) - Platform independent standalone library that plays Lottie Animation.
+- [simdutf](https://github.com/simdutf/simdutf) - Unicode validation and transcoding at billions of characters per second. ([Talk](https://www.youtube.com/watch?v=H9NZtb7ykYs))
+- [Boost.PFR](https://github.com/boostorg/pfr) - std::tuple like methods for user defined types without any macro or boilerplate code.
+- [double-conversion](https://github.com/google/double-conversion) - Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
+- [FastNoise2](https://github.com/Auburn/FastNoise2) - Modular node graph based noise generation library using SIMD, C++17 and templates.
+- [TensorPipe](https://github.com/pytorch/tensorpipe) - Tensor-aware point-to-point communication primitive for machine learning.
+- [Rotor](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework.
+- [optional](https://github.com/TartanLlama/optional) - Single header implementation of std::optional with functional-style extensions and support for references.
+- [ZAB](https://github.com/Donald-Rupin/zab) - Asynchronous framework for building event-driven, multi-threaded programs.
+- [Ensmallen](https://github.com/mlpack/ensmallen) - High-quality C++ library for non-linear numerical optimization. ([Web](http://ensmallen.org/)) ([Docs](http://ensmallen.org/docs.html)) ([HN](https://news.ycombinator.com/item?id=29489613))
+- [Fleet](https://github.com/piantado/Fleet) - C++ library for programming language of thought models.
+- [MatX](https://github.com/NVIDIA/MatX) - Efficient C++17 GPU numerical computing library with Python-like syntax.
+- [oneMKL](https://github.com/oneapi-src/oneMKL) - Open-source implementation of the oneMKL Data Parallel C++ (DPC++) interface according to the oneMKL specification.
+- [mathiu.cpp](https://github.com/BowenFu/mathiu.cpp) - Simple computer algebra system in C++.
+- [Avendish](https://github.com/celtera/avendish) - Declarative, non-intrusive, compile-time C++ reflection.
+- [libossia](https://github.com/ossia/libossia) - Modern C++, cross-environment distributed object model for creative coding.
+- [RtAudio](https://github.com/thestk/rtaudio) - Set of C++ classes that provide a common API for real time audio input/output.
+- [RtMidi](https://github.com/thestk/rtmidi) - Set of C++ classes that provide a common API for real time MIDI input/output.
+- [HPX](https://github.com/STEllAR-GROUP/hpx) - C++ Standard Library for Parallelism and Concurrency.
+- [agrpc](https://github.com/npuichigo/agrpc) - Async GRPC with C++20 coroutine support.
+- [Marius](https://github.com/marius-team/marius) - Large scale embeddings on a single machine.
+- [Compute Library](https://github.com/ARM-software/ComputeLibrary) - Set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
+- [ahsohtoa](https://github.com/celtera/ahsohtoa) - Structure-of-array synthesis in C++20.
+- [LIEF](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats.
+- [AStarix](https://github.com/eth-sri/astarix) - Fast and Optimal Sequence-to-Graph Aligner.
+- [dtl](https://github.com/cubicdaiya/dtl) - Diff template library written by C++.
+- [TinyFSM](https://github.com/digint/tinyfsm) - Simple C++ finite state machine library.
+- [Tongrams](https://github.com/jermp/tongrams) - C++ library providing fast language model queries in compressed space.
+- [Autocomplete](https://github.com/jermp/autocomplete) - Efficient and effective query auto-completion in C++.
+- [Sexpresso](https://github.com/BitPuffin/sexpresso) - C++ centric s-expression parser library.
+- [baidu-allreduce](https://github.com/baidu-research/baidu-allreduce) - Small C++ library, demonstrating the ring allreduce and ring allgather techniques.
+- [HIP](https://github.com/ROCm-Developer-Tools/HIP) - C++ Heterogeneous-Compute Interface for Portability.
+- [SMACC](https://github.com/reelrbtx/SMACC) - Event-driven, asynchronous, behavioral state machine library for real-time ROS (Robotic Operating System) applications written in C++.
+- [refl-cpp](https://github.com/veselink1/refl-cpp) - Modern compile-time reflection library for C++ with support for overloads, templates, attributes and proxies.
+- [NymphRPC](https://github.com/MayaPosch/NymphRPC) - Compact, C++-based Remote Procedure Call (RPC) library.
+- [libgo](https://github.com/yyzybb537/libgo) - Go-style concurrency in C++11.
+- [xatlas](https://github.com/jpcy/xatlas) - Mesh parameterization / UV unwrapping library.
+- [ohm](https://github.com/csiro-robotics/ohm) - Efficient, extensible occupancy map supporting probabilistic occupancy, normal distribution transforms in CPU and GPU.
+- [Flecs](https://github.com/SanderMertens/flecs) - Fast entity component system (ECS) for C & C++.
+- [Caches](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation.
+- [SML](https://github.com/boost-ext/sml) - C++14 State Machine Library.
+- [Kokkos](https://github.com/kokkos/kokkos) - Programming model in C++ for writing performance portable applications targeting all major HPC platforms.
+- [CPPItertools](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library.
+- [libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++.
+- [asyncio](https://github.com/netcan/asyncio) - C++20 library to write concurrent code using the async/await syntax.
+- [CTPG](https://github.com/peter-winter/ctpg) - C++ Compile Time Parser Generator. ([HN](https://news.ycombinator.com/item?id=29454342))
+- [Binlog](https://github.com/morganstanley/binlog) - High performance C++ log library to produce structured binary logs.
+- [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++.
+- [ParlayLib](https://github.com/cmuparlay/parlaylib) - Toolkit for Programming Parallel Algorithms on Shared-Memory Multicore Machines.
+- [YACLib](https://github.com/YACLib/YACLib) - C++ library for concurrent tasks execution. ([Docs](https://yaclib.github.io/YACLib/))
+- [triSYCL](https://github.com/triSYCL/triSYCL) - Generic system-wide modern C++ for heterogeneous platforms with SYCL from Khronos Group.
+- [Xcdat](https://github.com/kampersanda/xcdat) - Fast compressed trie dictionary library.
+- [Poplar-trie](https://github.com/kampersanda/poplar-trie) - C++17 implementation of memory-efficient dynamic tries.
+- [eraft](https://github.com/eraft-io/eraft) - Generic raft library inspired etcd in C++.
+- [cpp-subprocess](https://github.com/arun11299/cpp-subprocess) - Subprocessing with modern C++.
+- [CPP-JWT](https://github.com/arun11299/cpp-jwt) - JSON Web Token library for C++.
+- [libkdtree++](https://github.com/nvmd/libkdtree) - C++ template container implementation of k-dimensional space sorting, using a kd-tree.
+- [promise-cpp](https://github.com/xhawk18/promise-cpp) - C++ promise/A+ library in JavaScript style.
+- [cocoyaxi](https://github.com/idealvin/cocoyaxi) - Go-style coroutine library in C++11 and more. ([Lobsters](https://lobste.rs/s/xx6to6/go_style_coroutine_library_c_11_from))
+- [ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - Fast multi-producer, multi-consumer lock-free concurrent queue for C++11.
+- [Ratas](https://github.com/jsnell/ratas) - Hierarchical timer wheel, for implementing timed event queues.
+- [Vectorscan](https://github.com/VectorCamp/vectorscan) - Portable fork of the high-performance regular expression matching library.
+- [Jinja2С++](https://github.com/jinja2cpp/Jinja2Cpp) - C++ implementation of the Jinja2 Python template engine.
+- [AMadeus](https://github.com/AmadeusITGroup/amc) - Collection of high performance C++ containers that can be chosen as drop-in replacements for std::vector and std::set.
+- [json2cpp](https://github.com/lefticus/json2cpp) - Compiles JSON into static constexpr C++ data structures with nlohmann::json API.
+- [RAJA](https://github.com/LLNL/RAJA) - Enables architecture and programming model portability for HPC applications.
+- [cpp-sort](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14.
+- [sol2](https://github.com/ThePhD/sol2) - C++ library binding to Lua.
+- [KDBindings](https://github.com/KDAB/KDBindings) - Reactive programming & data binding in C++.
+- [alpaka](https://github.com/alpaka-group/alpaka) - Abstraction Library for Parallel Kernel Acceleration.
+- [cpp-effects](https://github.com/maciejpirog/cpp-effects) - Effect handlers in C++.
+- [nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++.
+- [Multi-Protocol SPDZ](https://github.com/data61/MP-SPDZ) - Software to benchmark various secure multi-party computation (MPC) protocols such as SPDZ, SPDZ2k, MASCOT, Overdrive, BMR garbled circuits, Yao's garbled circuits.
+- [minicsv](https://github.com/shaovoon/minicsv) - C++ Minimalistic CSV Streams.
+- [two](https://github.com/hugoam/two) - C++ toolkit for rapid development of live graphical apps and games.
+- [fast_io](https://github.com/cppfastio/fast_io) - Significantly faster input/output for C++20.
+- [nanobind](https://github.com/wjakob/nanobind) - Seamless operability between C++17 and Python.
+- [thread-pool](https://github.com/DeveloperPaul123/thread-pool) - Simple, functional thread pool implementation using pure C++20.
+- [Maat](https://github.com/trailofbits/maat) - Open-source symbolic execution framework.
+- [mp-units](https://github.com/mpusz/units) - Compile-time enabled Modern C++ library that provides compile-time dimensional analysis and unit/quantity manipulation.
+- [CTTI](https://github.com/Manu343726/ctti) - Compile Time Type Information for C++.
+- [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
+- [loop_tool](https://github.com/facebookresearch/loop_tool) - Thin, highly portable toolkit for dense loop-based computation.
+- [fixed_string](https://github.com/unterumarmung/fixed_string) - C++17 string with fixed size.
+- [async_simple](https://github.com/alibaba/async_simple) - Simple, Light-Weight Asynchronous C++ Framework.
+- [Universal](https://github.com/stillwater-sc/universal) - Header-only C++ template library for universal number arithmetic.
+- [LodePNG](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
+- [PoseLib](https://github.com/vlarsson/PoseLib) - Minimal solvers for calibrated camera pose estimation.
+- [TOML++](https://github.com/marzer/tomlplusplus) - Header-only TOML config file parser and serializer for C++17.
+- [Easy3D](https://github.com/LiangliangNan/Easy3D) - Lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data.
+- [rangeless](https://github.com/ast-al/rangeless) - Library of higher-order functions for data manipulation.
+- [OpenDHT](https://github.com/savoirfairelinux/opendht) - Lightweight C++17 Distributed Hash Table implementation.
+- [Kokkos](https://github.com/kokkos/kokkos-kernels) - C++ Performance Portability Programming EcoSystem: Math Kernels - Provides BLAS, Sparse BLAS and Graph Kernels.
+- [BOUT++](https://github.com/boutproject/BOUT-dev) - Framework for writing fluid and plasma simulations in curvilinear geometry.
+- [HiGHS](https://github.com/ERGO-Code/HiGHS) - Linear optimization software.
+- [Voro++](https://github.com/chr1shr/voro) - Three-dimensional Voronoi cell library in C++.
+- [SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - C++ fully cross-platform BLE library designed for simplicity and ease of use.
+- [zstr](https://github.com/mateidavid/zstr) - C++ header-only ZLib wrapper.
+- [uvw](https://github.com/skypjack/uvw) - Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library.
+- [nanoprintf](https://github.com/charlesnicholson/nanoprintf) - Smallest public printf implementation for its feature set.
+- [fgt](https://github.com/gadomski/fgt) - Fast Gauss transforms.
+- [Coherent Point Drift (CPD)](https://github.com/gadomski/cpd) - C++ implementation of the Coherent Point Drift point set registration algorithm.
+- [lex](https://github.com/PG1003/lex) - C++ library for Lua style pattern matching.
+- [ADVobfuscator](https://github.com/andrivet/ADVobfuscator) - Obfuscation library based on C++11/14 and metaprogramming.
+- [manif](https://github.com/artivis/manif) - Small C++11 header-only library for Lie theory.
+- [sse4-strstr](https://github.com/WojciechMula/sse4-strstr) - SIMD-friendly algorithms for substring searching.
+- [Chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations.
+- [xorstr](https://github.com/JustasMasiulis/xorstr) - Heavily vectorized c++17 compile time string encryption.
+- [transwarp](https://github.com/bloomen/transwarp) - Header-only C++ library for task concurrency.
+- [Serdepp](https://github.com/injae/serdepp) - C++ serialize and deserialize adaptor library like rust serde.rs.
+- [KelCoro](https://github.com/kelbon/kelcoro) - C++20 coroutine library.
+- [Eventuals](https://github.com/3rdparty/eventuals) - C++ library for writing asynchronous computations out of continuations.
+- [Albany](https://github.com/sandialabs/Albany) - Implicit, unstructured grid, finite element code for the solution and analysis of multiphysics problems.
+- [match(it)](https://github.com/BowenFu/matchit.cpp) - Lightweight header-only pattern-matching library for C++17 with macro-free APIs.
+- [libassert](https://github.com/jeremy-rifkin/libassert) - Most over-engineered and overpowered C++ assertion library.
+- [MIPP](https://github.com/aff3ct/MIPP) - Portable and Open-source wrapper for vector intrinsic functions (SIMD) written in C++11.
+- [Flat](https://github.com/pubby/flat) - Flat containers for C++.
+- [AnyAny](https://github.com/kelbon/AnyAny) - C++20 library for comfortable and efficient dynamic polymorphism.
+- [RxCpp](https://github.com/ReactiveX/RxCpp) - Reactive Extensions for C++.
+- [userver](https://github.com/userver-framework/userver) - C++ Asynchronous Framework.
+- [Dash](https://github.com/baotonglu/dash) - Persistent memory friendly hashing index.
+- [Crab](https://github.com/seahorn/crab) - C++ Library for Building Program Static Analyses.
+- [HFSM2](https://github.com/andrew-gresyk/HFSM2) - High-Performance Hierarchical Finite State Machine Framework.
+- [cuCollections](https://github.com/NVIDIA/cuCollections) - Open-source, header-only library of GPU-accelerated, concurrent data structures.
+- [BS::thread_pool](https://github.com/bshoshany/thread-pool) - Fast, lightweight, and easy-to-use C++17 thread pool library.
+
+## Links
+
+- [Awesome HPP](https://github.com/p-ranav/awesome-hpp) - Curated list oGeneric raft library inspired etcd in C++.f awesome header-only C++ libraries.
+- [Desktop App Toolkit](https://github.com/desktop-app) - Set of C++ libraries for developing nice desktop applications (by Telegram).
+- [How to export C++ library](https://github.com/robotology/how-to-export-cpp-library) - OS-agnostic C++ library template in plain CMake.
+- [List of single-file C/C++ libraries](https://github.com/nothings/single_file_libs) ([HN](https://news.ycombinator.com/item?id=24892400))
+- [Sandboxed API](https://github.com/google/sandboxed-api) - Generates sandboxes for C/C++ libraries automatically. ([HN](https://news.ycombinator.com/item?id=29273530))
+- [The Art of C++](https://github.com/taocpp) - Collection of high-quality C++ libraries. ([Web](https://taocpp.github.io/))
+- [Conan](https://github.com/conan-io/conan) - Decentralized, open-source, C/C++ package manager. ([Web](https://conan.io/))
+- [hdoc](https://hdoc.io/) - Modern C++ documentation tool. ([HN](https://news.ycombinator.com/item?id=26038816)) ([Code](https://github.com/hdoc/hdoc))
+- [Mason](https://github.com/mapbox/mason) - Cross-platform, command-line package manager for C/C++ applications.
+- [Boost C++ Libraries](https://www.boost.org/) - Free peer-reviewed portable C++ source libraries. ([GitHub](https://github.com/boostorg))
+- [Kokkos](https://github.com/kokkos) - C++ Performance Portability Programming EcoSystem. ([HN](https://news.ycombinator.com/item?id=28987037))
+- [Boost C++ libraries packaged for build2 (2021)](https://build2.org/blog/build2-boost.xhtml) ([Lobsters](https://lobste.rs/s/f3nvif/boost_c_libraries_packaged_for_build2))
+- [Poac](https://github.com/poacpm/poac) - Package manager for C++, like Cargo for Rust. ([Web](https://poac.pm/))
+- [I don’t know which container to use (and at this point I’m too afraid to ask) (2022)](https://belaycpp.com/2022/02/02/i-dont-know-which-container-to-use-and-at-this-point-im-too-afraid-to-ask/) ([Lobsters](https://lobste.rs/s/njtzmv/i_don_t_know_which_container_use_at_this))
+- [Setting up a C++/Python project with pybind11 and CMake](https://github.com/smrfeld/cmake_cpp_pybind11_tutorial) - Tutorial for wrapping C++ library into Python using pybind11 and CMake.
+- [C++ Templates: How to Iterate through std:tuple: std:apply and More](https://www.cppstories.com/2022/tuple-iteration-apply/) ([HN](https://news.ycombinator.com/item?id=30332031))
+- [How to Use C++20 Modules with Bazel and Clang](https://buildingblock.ai/cpp20-modules-bazel) ([HN](https://news.ycombinator.com/item?id=30345701))
+- [cmake-init](https://github.com/friendlyanon/cmake-init) - Missing CMake project initializer.
+- [clang-tutor](https://github.com/banach-space/clang-tutor) - Example Clang plugins for C and C++.
+- [Conan Center](https://conan.io/center/) - Central Repository for C / C++ packages. ([Code](https://github.com/conan-io/conan-center-index))
+- [std::find() and memchr() Optimizations (2016)](https://gms.tf/stdfind-and-memchr-optimizations.html)

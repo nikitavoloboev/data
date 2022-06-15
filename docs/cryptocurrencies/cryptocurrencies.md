@@ -1,0 +1,286 @@
+# Cryptocurrencies
+
+I think [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md)/[NEAR](../databases/blockchain/near.md)/[AVAX](https://www.avax.network/)/[Dfinity](https://dfinity.org/) are interesting [distributed consensus systems for transacting assets and running code](https://twitter.com/levie/status/1461099049461981189) ([smart contracts](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)). I find privacy coins/contracts like ([Monero](monero.md)/[SRCT](https://scrt.network/)/[IronFish](https://ironfish.network/)) to be most interesting use cases of crypto right now. Especially considering the [amount of power governments have to cut you fully from traditional banking system](https://twitter.com/cyprianous/status/1493414970976980992). [There are no other constitutional rights in substance without freedom to transact.](https://twitter.com/sama/status/1495074449883762688)
+
+It's unfortunate that a lot of people/projects use these distributed ledgers as [ponzi schemes](https://twitter.com/eddyb_r/status/1451679543702478860) or [wash trading](https://twitter.com/smdiehl/status/1461301086363529219) or still use [super wasteful consensus systems](https://twitter.com/smdiehl/status/1350869944888664064) (like [Bitcoin](bitcoin.md)). Some [argue that blockchains are useless tech all together](https://news.ycombinator.com/item?id=30310317). Worst of all, many treat crypto as a [way to purely make money with no regulation](https://twitter.com/Carnage4Life/status/1524512164240797696) and that poisons interaction & discourse all around as they try to [sell you on the value of often worthless coins](https://twitter.com/eevee/status/1522284917698473984) and generally be annoying.
+
+I hold few coins only as a way to build unique apps, not for investment purposes (I think there are [better investments](../economy/investing.md) to be made that help move us to a [better future](../future/future.md)). I don't know what the world, that at least partly, starts to rely on passing state in decentralized way without any reversal of transactions. It seems hard to imagine how this can work well. But I am optimistic. I do think having powerful open source protocols is very powerful compared to the current status quo of opaque systems that only few humans have control of.
+
+From my research, [FTX](https://ftx.com/referrals#a=58425911) seemed to be the cheapest way to trade coins for FIAT but I maybe wrong. Ideally everyone moves to completely P2P marketplaces where fees are minimal and no one can block your ability to transact.
+
+## Interesting
+
+- [Monero](monero.md) - Secure, private, untraceable cryptocurrency.
+- [Iron Fish](https://ironfish.network/) - Private, anonymous, and easy to use cryptocurrency. ([Code](https://github.com/iron-fish/ironfish))
+- [MobileCoin](https://github.com/mobilecoinofficial/mobilecoin) - Private payments for mobile devices. ([Web](https://www.mobilecoin.com))
+- [Nano](nano.md) - Peer-to-peer digital currency with fast & cheap transactions. ([Benefits of Nano](https://www.reddit.com/r/nanocurrency/comments/ksz0hi/all_the_benefits_of_nano_summarized/))
+- [Cardano SL](https://cardanodocs.com/introduction/)
+- [Libra](libra.md)
+- [zcoin](https://github.com/zcoinofficial/zcoin) - Privacy-focused cryptocurrency.
+- [dcc](https://github.com/PaulGustafson/dcc) - Proof of concept for a blockchain with variable hash functions for ASIC resistance. Decentralized cryptocurrency.
+- [Celo](https://celo.org/) - Platform for fast, secure, stable digital payments. ([GitHub](https://github.com/celo-org)) ([Code](https://github.com/celo-org/celo-monorepo)) ([Celo Blockchain Code](https://github.com/celo-org/celo-blockchain))
+- [Reserve](https://reserve.org/) - Flexible pool of stablecoins designed to reduce risk through diversification and decentralized governance. ([HN](https://news.ycombinator.com/item?id=25899418))
+- [Bolt Labs](https://boltlabs.tech/) - Instant, cheap and private payments. ([GitHub](https://github.com/boltlabs-inc))
+- [Nimiq](https://www.nimiq.com/) - Simple, secure and censorship resistant cryptocurrency. ([Code](https://github.com/nimiq/core-rs-albatross))
+- [MobileCoin Fog](https://github.com/mobilecoinfoundation/fog) - Private payments for mobile devices. ([HN](https://news.ycombinator.com/item?id=26713953))
+- [Dagcoin](https://dagcoin.org/) - Cryptocurrency designed for using, not trading.
+- [Kitty Coin](https://kittycoin.cat/)
+- [sai](https://github.com/makerdao/sai) - Simple single-collateral stablecoin that is dependent on a trusted oracle address and has a kill-switch.
+
+## Notes
+
+- [The thing we call money is just an information system for labor allocation. What actually matters is making goods & providing services. We should look at currencies from an information theory standpoint. Whichever has least error & latency will win.](https://twitter.com/elonmusk/status/1349977642708168704)
+- [China launches digital yuan. Adopted by nations tired of SWIFT abuse. Suddenly US can’t impose sanctions. Shift from apathy to panic, like COVID. But DC can’t build. So they deputize private USD stablecoins. And that is how a digital dollar may be born.](https://twitter.com/jerallaire/status/1395722987966455811)
+- [Rich people buy tons very low and wait till it rises high sell all for tons of profit...Then retail investors get scared and sell there coins making it drop way further than what the rich guys took profit...Next they buy tons again at a even cheaper price and get a lot more coins for there money...Rises high again then Repeat......Vicious cycle but this is the little guys opportunity to get a leg up. Why we have to hold for years of cycles like this and then we lil guys come out on top.](https://www.reddit.com/r/solana/comments/prndpj/whats_going_on_with_the_whole_crypto_market/)
+- [Message to US and Western Policymakers on how to think about China's approach to crypto and blockchain. China opposes the Western system of values built on openness, transparency, privacy, free market competition and so forth.](https://twitter.com/BrendanEich/status/1441455390982479878)
+- [Chains that charge users more than 2-4x the bandwidth it takes to replicate a tx will fail.](https://twitter.com/aeyakovenko/status/1441904517939810313)
+- [Use a hardware wallet.](https://twitter.com/armaniferrante/status/1444023272836775937)
+- [One of the most obvious flaws in using blockchains for anything involving regular human beings is one I've not seen much discussion of: Regular human beings cannot protect their passwords, credentials or private keys. They just can't. The idea of encouraging anyone who doesn't have a deep understanding of personal information security to attach a sizable portion of their net worth to an irreversible "code is law" distributed system is utterly appalling.](https://twitter.com/simonw/status/1444071543902912513)
+- [Mercury Bank is great for dealing with DeFi, crypto, or NFTs](https://twitter.com/BankMercury/status/1453765293214474242)
+- [Even if tokens are securities, they are securities that fix everything the SEC has ruined in the public markets: 1. Networks launch before all value creation is captured by VCs. 2. Democratic ownership and user ownership and contributor ownership. 3. Fixes problems with stock options.](https://twitter.com/twobitidiot/status/1459497183217164290)
+- [One crypto application I'm fully convinced by is decentralized money: Money the government can't touch.](https://twitter.com/devonzuegel/status/1462138666520883208)
+- [Many crypto projects are thinly disguised securities sales, designed to skirt around regulation.](https://twitter.com/smdiehl/status/1465356549707251717)
+- [No one company or person should have unilateral control over our social and financial infrastructure on the internet. Crypto provides a viable technical path to actually achieve that in practice.](https://twitter.com/js_horne/status/1498731784393089033)
+- [Crypto"currencies" aren't currencies for very obvious reasons. They economics are deflationary, the transaction throughput doesn't scale, are too volatile to conduct commerce in and there's no mechanism for the volatility to ever subside.](https://twitter.com/smdiehl/status/1502938255326601218)
+- [The U.S. is not “behind China on crypto.” CBDCs are not crypto – they’re a government surveillance tool. Crypto creates freedom, it doesn’t destroy it.](https://twitter.com/RepTomEmmer/status/1509247510132502529)
+- [Always use a cold wallet to store your valuables. Never give out verification codes to anyone. Protect your information, don't give out your phone number or your personal email. Caller information is easy to spoof. Companies like Apple will never call you.](https://twitter.com/Serpent/status/1515545819197616131)
+- [It’s difficult for me to see a future where poorly regulated technology with built-in perverse financial incentives will magically result in fairer, more accessible systems.](https://twitter.com/Carnage4Life/status/1524512164240797696)
+- [Focus on: Public goods funding. Social recovery / multisig wallets. Reputation systems (could help a lot to fight scams!). PoS (solves energy issues). Scaling (reduces fees, makes non-financial apps viable).](https://twitter.com/VitalikButerin/status/1532369277000437761)
+
+## Links
+
+- [Cryptocurrency Icons](https://github.com/cjdowner/cryptocurrency-icons)
+- [Token Summit II - Cryptocurrency, Money, and the Future with Naval Ravikant](https://www.youtube.com/watch?v=few99D5WnRg)
+- [Crypto Code Watch](https://cryptocodewatch.com/#stars)
+- [Crypto readings](https://a16z.com/2018/02/10/crypto-readings-resources/)
+- [The Future of Crypto, Capitalism and Governance with Mike Maples and Alok Vasudev (2019)](https://overcast.fm/+LDKcZDbWI)
+- [Bitwise](https://www.bitwiseinvestments.com/) - Leading provider of index and beta cryptoasset funds.
+- [Gryphon](https://github.com/garethdmm/gryphon) - Open source software platform for building and running algorithmic trading strategies in cryptocurrency markets.
+- [The Quiet Master of Cryptocurrency - Nick Szabo (2017)](https://overcast.fm/+KebvPT3c8)
+- [Hard Problems in Cryptocurrency: Five Years Later (2019)](https://vitalik.ca/general/2019/11/22/progress.html) ([HN](https://news.ycombinator.com/item?id=21618079))
+- [Freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot.
+- [Kong](https://kong.cash/) - Physical crypto cash. ([Twitter](https://twitter.com/kongiscash))
+- [Awesome Cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics)
+- [Coinbase](https://www.coinbase.com/) - Digital currency exchange. ([GitHub](https://github.com/coinbase))
+- [CoinTracker](https://www.cointracker.io/) - Bitcoin Taxes, Crypto Portfolio & Prices.
+- [What Dan Romero Thinks About Basically Everything (2020)](https://overcast.fm/+LDKc8Lu8Y) ([Notes](https://danromero.org/venture-stories-podcast-interview.html))
+- [Crypto Technology Reddit](https://www.reddit.com/r/CryptoTechnology/)
+- [Publication of Cryptocurrency Enforcement Framework](https://www.justice.gov/opa/pr/attorney-general-william-p-barr-announces-publication-cryptocurrency-enforcement-framework) ([HN](https://news.ycombinator.com/item?id=24721051))
+- [CoinGecko](https://www.coingecko.com/en) - Cryptocurrency Prices & Market Capitalization. ([API](https://www.coingecko.com/api/documentations/v3))
+- [Crypto Market Structure 3.0 (2020)](https://arjun.af/crypto-market-structure)
+- [Linking Anonymous Transactions | Stanford Applied Crypto Group](https://crypto.stanford.edu/timings/) - Describe remote side-channel attacks on the privacy guarantees of anonymous cryptocurrencies.
+- [Mixing based privacy mechanisms are insufficient (2019)](https://mudit.blog/mixers-are-insufficient/)
+- [SignificantTrades](https://aggr.trade/) - Live cryptocurrency trades visualizer. ([Code](https://github.com/Tucsky/SignificantTrades))
+- [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Prices, Charts And Market Capitalizations.
+- [Crypto Ecosystems](https://github.com/electric-capital/crypto-ecosystems) - Taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems.
+- [Crytic-compile](https://github.com/crytic/crytic-compile) - Abstraction layer for smart contract build systems.
+- [Introduction to Cryptocurrencies (2020)](https://etherplan.com/2020/11/16/introduction-to-cryptocurrencies/13648/)
+- [Jesse](https://github.com/jesse-ai/jesse) - Advanced crypto trading framework which aims to simplify researching and defining trading strategies. ([Web](https://jesse.trade/))
+- [Valora](https://valoraapp.com/) - Mobile payments app that works worldwide. ([Code](https://github.com/celo-org/celo-monorepo/tree/master/packages/mobile))
+- [Coinbase Prime](https://primebroker.coinbase.com/) - Crypto solution for institutions.
+- [Endnotes on 2020: Crypto and Beyond](https://vitalik.ca/general/2020/12/28/endnotes.html) ([Tweet](https://twitter.com/VitalikButerin/status/1343366729427079169)) ([HN](https://news.ycombinator.com/item?id=25566963))
+- [CCXT](https://github.com/ccxt/ccxt) - CryptoCurrency eXchange Trading Library.
+- [Trezor Hardware Wallet](https://trezor.io/) - Safe place for your coins. ([Code](https://github.com/trezor/trezor-firmware))
+- [Bitcoin Suisse](https://www.bitcoinsuisse.com/) - Buy, sell and earn crypto assets with a regulated Swiss company.
+- [Cryptocurrency Investor Tools](https://github.com/f13end/Crypto-Investor-Tools)
+- [Know the difference! Inflation in fiat currency, proof-of-work, and proof-of-stake cryptocurrencies. (2021)](https://www.youtube.com/watch?v=ZW_DyWgGJV8)
+- [Bitcoin, Blockchain, and Cryptocurrency for Investment Professionals (2021)](https://www.cfainstitute.org/-/media/documents/article/rf-brief/rfbr-cryptoassets.ashx)
+- [Why we need wide adoption of social recovery wallets (2021)](https://vitalik.ca/general/2021/01/11/recovery.html) ([HN](https://news.ycombinator.com/item?id=25722131))
+- [What is Stablecoin? (2021)](https://medium.com/fleta-first-chain/what-is-stablecoin-a557e38da74)
+- [The Bit Short: Inside Crypto’s Doomsday Machine (2021)](https://crypto-anonymous-2021.medium.com/the-bit-short-inside-cryptos-doomsday-machine-f8dcf78a64d3) ([HN](https://news.ycombinator.com/item?id=25788409))
+- [Elrond and the New Crypto Spaces (2021)](https://marginalrevolution.com/marginalrevolution/2021/01/elrond-and-the-new-crypto-spaces.html) ([HN](https://news.ycombinator.com/item?id=25835871))
+- [Decrypt](https://decrypt.co/) - Your guide to Bitcoin, Ethereum & Web 3.0.
+- [Awesome crypto trading bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
+- [A mind-map of cryptocurrencies for crypto noobs (2021)](https://noobmaker.substack.com/p/a-quick-overview-of-cryptocurrencies)
+- [PancakeSwap](https://pancakeswap.finance/) - Decentralized trading protocol on Binance Smart Chain. ([Front End Code](https://github.com/pancakeswap/pancake-frontend)) ([GitHub](https://github.com/pancakeswap))
+- [Understanding Crypto (2021)](https://adam.mirror.xyz/Q-HIDLBN0lRy1ezLFI-Qj5JhLzHWRUgXF4cqwieQWXQ)
+- [NFTs are a dangerous trap (2021)](https://seths.blog/2021/03/nfts-are-a-dangerous-trap/)
+- [Cryptography behind the top cryptocurrencies](http://ethanfast.com/top-crypto.html) ([HN](https://news.ycombinator.com/item?id=26526108))
+- [Binance.US](https://www.binance.us/en/home) - Buy & Sell Crypto.
+- [NFTs and crypto-art, from a practicing artist, who thinks, on balance that (ultimately) it's a good idea (2021)](https://revdancatt.com/2021/03/23/nfts-crypto-art-what-is-is-from-an-artists-view)
+- [Alternatives to Proof of Work (PoW) (2021)](https://www.reddit.com/r/CryptoTechnology/comments/mdvdag/proof_of_what/)
+- [Balaji Interview (2021)](https://tim.blog/2021/03/24/balaji-srinivasan/)
+- [YouTube channels dedicated to technical analysis of various cryptocurrencies (2021)](https://www.reddit.com/r/CryptoTechnology/comments/mfiriu/are_there_any_recommended_youtube_channels/)
+- [Interesting cryptocurrencies that are not BTC or ETH (2021)](https://twitter.com/patrick_oshag/status/1376970262206427136)
+- [Wagyu](https://github.com/AleoHQ/wagyu) - Rust library for generating cryptocurrency wallets.
+- [Et tu, Signal? (2021)](https://www.stephendiehl.com/blog/signal.html) ([HN](https://news.ycombinator.com/item?id=26724237))
+- [Why Cryptocurrency Is A Giant Fraud (2021)](https://www.currentaffairs.org/2021/04/why-cryptocurrency-is-a-giant-fraud) ([HN](https://news.ycombinator.com/item?id=26885008))
+- [rate.sx](http://rate.sx/) - Console service for exploring (crypto)currencies exchange rates. ([Code](https://github.com/chubin/rate.sx))
+- [Binance Trading Bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot with trailing buy/sell strategy.
+- [ShapeShift](https://shapeshift.com/) - Offers global trading of a variety of digital assets.
+- [cointop](https://cointop.sh/) - Coin tracking for hackers. ([Code](https://github.com/miguelmota/cointop))
+- [FTX](https://ftx.com/en) - Cryptocurrency Derivatives Exchange. ([Sample Code](https://github.com/ftexchange/ftx)) ([API Docs](https://docs.ftx.us/#overview))
+- [The FTX Podcast](https://www.youtube.com/playlist?list=PLLDdsQN_5infQ9Ee-KPxcH3gvMIbymZEg) - Tristan Yver looks into the stories of emerging and established cryptocurrency companies and technologies.
+- [Phantom](https://phantom.app/) - Digital wallet reimagined for DeFi & NFTs. Supports Solana and Ethereum.
+- [Blockfolio](https://blockfolio.com/) - Buy, sell & track your Bitcoin, Ethereum, & more.
+- [Ask HN: What are the resources for curated insights on Bitcoin, Ethereum etc.? (2021)](https://news.ycombinator.com/item?id=27073238)
+- [Crypto fundamentals and NFTs (2021)](https://docs.google.com/presentation/d/1sUpk0gbvRQelH0MUIOqjNeGe8nwRH4mhrhDHmI6qh4M/edit#slide=id.g442eb61d9d_0_0)
+- [Beancounter](https://github.com/square/beancounter) - Utility to audit the balance of Hierarchical Deterministic (HD) wallets. Supports multisig + segwit wallets.
+- [Why Crypto Matters (and It’s a Lot More than Bitcoin) (2021)](https://raohacker.com/why-crypto-matters-and-its-a-lot-more-than-bitcoin/)
+- [Fireside Chat With Kevin Rose about Cryptocurrencies/Solana (2021)](https://www.youtube.com/watch?v=_8fDeEgUPsg)
+- [Proof-of-stake is inherently self-referential](https://github.com/stickfigure/blog/wiki/Proof-Of-Stake-Wears-No-Clothes) ([HN](https://news.ycombinator.com/item?id=27235668))
+- [The TIE](https://www.thetie.io/) - Data and Technology for Digital Assets. ([Research](https://research.thetie.io/))
+- [Ban Cryptocurrency to Fight Ransomware (2021)](https://www.wsj.com/articles/ban-cryptocurrency-to-fight-ransomware-11621962831) ([Tweet](https://twitter.com/leereiners/status/1397254301253345287))
+- [CryptoFees.info](https://cryptofees.info/) - Cryprocurrencies fee analyzer.
+- [All Cryptos by Year/Month](https://washingtonindependent.com/all-cryptos-by-year-month/)
+- [Rafiki](https://github.com/coilhq/rafiki) - Open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.
+- [Proof of stake will not save us (2021)](https://www.somethinginteresting.news/p/proof-of-stake-will-not-save-us) - Proof-of-stake doesn't eliminate costs it only makes them harder to reason about. ([Tweet](https://twitter.com/knifefight/status/1398063621251366915))
+- [Mango Markets](https://mango.markets/) - Decentralized, cross-margin trading. ([Code](https://github.com/blockworks-foundation/mango)) ([Daffy Durairaj Interview](https://www.youtube.com/watch?v=UjeKpc-Y31E))
+- [Index Coop](https://www.indexcoop.com/) - Community-led initiative focused on enabling the creation and adoption of crypto index primitives.
+- [binance-rs](https://github.com/wisespace-io/binance-rs) - Rust Library for the Binance API.
+- [Hedgehog](https://hedgehog.app/) - Cryptocurrency Portfolio Manager. ([HN](https://news.ycombinator.com/item?id=27550255))
+- [Coinbase Pro Recurring Buy Bot](https://github.com/queball99/CoinbasePro-Recurring-Buy) - Python app to automate buying cryptocurrency on the Coinbase Pro exchange. Runs in a Docker container for convenience.
+- [Credit in Crypto (2021)](http://jonkol.xyz/credit-in-crypto/)
+- [Blocknative](https://www.blocknative.com/) - Blockchain events before they happen.
+- [Onboard.js](https://www.blocknative.com/onboard) - Easily support the top wallets. ([React Onboard.js Hook](https://github.com/talentlessguy/use-onboard))
+- [Dollar-Cost Averaging Explained (2021)](https://www.youtube.com/watch?v=hQinhrtPLQc)
+- [The State of DEXes (2021)](https://adlrocha.substack.com/p/adlrocha-the-state-of-dexes)
+- [Cryptocurrency is like taking the worst parts of today's capitalist system (2021)](https://twitter.com/ummjackson/status/1415353984617914370) ([HN](https://news.ycombinator.com/item?id=27880432))
+- [Crypto Critics' Corner Podcast](https://cryptocriticscorner.com/)
+- [The Grant Williams Podcast: The Tether Discussion feat. Bennett Tomlin & George Noble (2021)](https://overcast.fm/+aAHsVOpDc)
+- [Building a trillion dollar crypto business (2021)](http://myprasanna.blogspot.com/2021/07/building-trillion-dollar-crypto-business.html)
+- [Enzyme Finance](https://enzyme.finance/) - On-chain Asset Management.
+- [CoinParticle](https://www.coinparticle.com/) - Cryptocurrency Visualizations & Prices.
+- [Trust Wallet Assets Info](https://github.com/trustwallet/assets) - Comprehensive, up-to-date collection of information about several thousands of crypto tokens.
+- [Particl.io](https://particl.io/) - Privacy Platform & Marketplace on Blockchain. Fully decentralized p2p marketplace.
+- [No, your cryptocurrency cannot work (2021)](https://gist.github.com/joepie91/daa93b9686f554ac7097158383b97838)
+- [The risks of staking for the long-term crypto environment (2021)](https://www.reddit.com/r/CryptoTechnology/comments/pnzv9o/the_risks_of_staking_for_the_longterm_crypto/)
+- [WalletLink](https://www.walletlink.org/#/) - Open protocol that lets users connect their mobile crypto wallets to your DApp.s ([Code](https://github.com/walletlink/walletlink))
+- [Bity](https://bity.com/) - Buy, sell, and trade crypto. ([GitHub](https://github.com/BitySA))
+- [The SEC is threatening Coinbase to protect the public - But NOT in the way that you think (2021)](https://twitter.com/ojuice_eth/status/1441406498186227720)
+- [Companies hiring in crypto (2021)](https://twitter.com/thebengoldberg/status/1441460405495234562)
+- [Why web 3 matters and why it can be problematic (2021)](https://twitter.com/lazerwalker/status/1442242288961290241) ([Tweet](https://twitter.com/kardonice/status/1442276766517694471)) ([Tweet](https://twitter.com/cdixon/status/1442201621266534402))
+- [Stablecoins, Stability, and Financial Inclusion (2021)](https://future.a16z.com/stablecoins-stability-and-financial-inclusion/) ([Tweet](https://twitter.com/katie_haun/status/1442557615318257683))
+- [Fell for phishing attack & lost my entire DeFi portfolio (2021)](https://twitter.com/Rebecca_Mqamelo/status/1443991647898021892)
+- [Coinbase Cloud](https://www.coinbase.com/cloud) - Infrastructure for companies to integrate into the cryptoeconomy, or build their own crypto apps. ([HN](https://news.ycombinator.com/item?id=28724734))
+- [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
+- [Cryptocurrencies’ Carbon Footprint Underestimated (2021)](https://blog.dshr.org/2021/10/cryptocurrencys-carbon-footprint.html) ([HN](https://news.ycombinator.com/item?id=28763485))
+- [Hummingbot](https://hummingbot.io/) - Open-source software that lets you build and run customizable trading strategies. Automate your cryptocurrency trading on centralized exchanges and decentralized protocols. ([Code](https://github.com/CoinAlpha/hummingbot))
+- [Bank of America's research report on the digital asset ecosystem titled: “Digital Assets Primer: Only the first inning”](https://twitter.com/PastryEth/status/1445565755534184452)
+- [Worries about NFTs (2021)](https://twitter.com/Pinboard/status/1445882937505771527)
+- [Ask HN: Practically accepting cryptocurrency for businesses without middlemen? (2021)](https://news.ycombinator.com/item?id=28795005)
+- [Your Money and Your Life - by Edward Snowden (2021)](https://edwardsnowden.substack.com/p/cbdcs) - Central Banks Digital Currencies will ransom our future. ([Tweet](https://twitter.com/Snowden/status/1446850805223591938))
+- [go-binance](https://github.com/adshao/go-binance) - Go SDK for Binance API.
+- [Personal finance tools for crypto to help people track yields, ownership, etc. across services (2021)](https://twitter.com/dksf/status/1447981378918748163)
+- [Dapper](https://www.meetdapper.com/) - Your account manager for all things Flow. ([Designing Dapper](https://medium.com/dapperlabs/designing-dapper-48c50fcfb063))
+- [Why Wallets Excite Me Again (2021)](https://ricburton.mirror.xyz/2FFEmghrC3_-jhQSRSIGr8s1LOmaJTEsdYFoxj4xKpQ) ([Tweet](https://twitter.com/ricburton/status/1452700629948764162))
+- [Matcha](https://matcha.xyz/) - Trade all DEXs at once. Finds you the best prices across exchanges and combines them into one trade. ([Twitter](https://twitter.com/matchaxyz))
+- [Staking Rewards](https://www.stakingrewards.com/) - Data provider for staking and crypto-growth tools.
+- [Crypto Cities (2021)](https://vitalik.ca/general/2021/10/31/cities.html) ([HN](https://news.ycombinator.com/item?id=29063335)) ([Tweet](https://twitter.com/VitalikButerin/status/1455043525809213443))
+- [CityCoins](https://www.citycoins.co/) - Give communities the power to improve and program their cities. ([Twitter](https://twitter.com/minecitycoins))
+- [Orca](https://www.orca.so/) - DEX for people, not programs. ([TS SDK](https://github.com/orca-so/typescript-sdk))
+- [How do liquidity pools work? (Uniswap, Curve, Balancer)](https://www.youtube.com/watch?v=cizLhxSKrAc&t=32s)
+- [Port Finance](https://port.finance/) - Lending protocol.
+- [Yield Farming Tutorials](https://www.youtube.com/playlist?list=PL-NLevh5gXjnb8N_k27bCZwYJC-pMcfnQ)
+- [Seb Montgomery - YouTube](https://www.youtube.com/c/SebMontgomery/playlists) - Trying to make the most simple explanations and videos on cryptocurrencies.
+- [Alongside](https://www.alongside.finance/) - Smart & simple way to invest in cryptoassets with indexes. ([Twitter](https://twitter.com/alongsidefi)) ([Tweet](https://twitter.com/AustinLDiamond/status/1455229850717990918))
+- [Report on Stablecoins (2021)](https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf) ([HN](https://news.ycombinator.com/item?id=29071895))
+- [TokenTax](https://tokentax.co/) - Calculate your crypto taxes and file your return.
+- [DefiLlama](https://defillama.com/) - DeFi Dashboard.
+- [Ask HN: Why crypto is rising so fast when its not creating value? (2021)](https://news.ycombinator.com/item?id=29135226)
+- [The intellectual incoherence of cryptoassets](https://www.stephendiehl.com/blog/crypto-absurd.html) ([HN](https://news.ycombinator.com/item?id=29141611))
+- [Capital.com](https://capital.com/) - Online Trading with Smart Investment App.
+- [THORChain](https://thorchain.org/) - Decentralized Liquidity Network.
+- [FTX Rust API](https://github.com/fabianboesiger/ftx) - Unofficial Rust API bindings for the FTX exchange.
+- [How an era of financial precarity set the stage for crypto (2021)](https://www.motherjones.com/politics/2021/11/who-goes-crypto-eth-bitcoin-etc-financialization-gamestop-class-wealth/) ([Tweet](https://twitter.com/smdiehl/status/1458841954066714629))
+- [ZUBR Exchange](https://zubr.io/) - Trade Crypto Perpetuals. Lowest 0.01% Commission and Great Tech. ([GitHub](https://github.com/zubr-exchange))
+- [XCAD Network](https://xcadnetwork.com/) - Global platform harnessing the power and value of Content Creator audiences via Creator tokenization.
+- [What CryptoCurrencies have you personally found legitimate use cases for? (2021)](https://www.reddit.com/r/CryptoCurrency/comments/qrwwpw/what_cryptocurrencies_have_you_personally_found/)
+- [Tokemak](https://www.tokemak.xyz/) - Utility for Sustainable DeFi Liquidity. ([Twitter](https://twitter.com/tokenreactor)) ([Article](https://medium.com/tokemak/introducing-tokemak-the-utility-for-sustainable-liquidity-8b99a4757301))
+- [Coinbase Pro client for Rust](https://github.com/inv2004/coinbase-pro-rs)
+- [Uniswap in 155 lines of code](https://www.reddit.com/r/CryptoTechnology/comments/qsuw6n/uniswap_in_155_lines_of_code/)
+- [Crypto Startup School](https://a16z.com/crypto-startup-school/)
+- [Use a burner and cold storage in order to not get your wallet stolen! (2021)](https://twitter.com/aeyakovenko/status/1460033960587632645)
+- [Securing Crypto with Gnosis Safe (2021)](https://medium.com/@mrkmcknz/securing-crypto-with-gnosis-safe-fd292eb99636) ([Tweet](https://twitter.com/mrkmcknz/status/1460371849875972096))
+- [Tips on keeping your crypto wallet safe (2021)](https://twitter.com/OrcatronEth/status/1457983343514030080)
+- [Cryptocurrencies: how regulators lost control (2021)](https://www.youtube.com/watch?v=CVsYMVHW17c) ([Tweet](https://twitter.com/SBF_FTX/status/1460658155101298690))
+- [70% of the volume in the top crypto exchanges is fraudulent wash trading (2021)](https://arxiv.org/abs/2108.10984) ([Tweet](https://twitter.com/smdiehl/status/1461301086363529219)) ([Reddit](https://www.reddit.com/r/Economics/comments/qx9z47/crypto_wash_trading_from_cornell_university/)) ([HN](https://news.ycombinator.com/item?id=29279146))
+- [10 years of whatever this has been (2021)](https://apenwarr.ca/log/20211117) ([HN](https://news.ycombinator.com/item?id=29261439))
+- [The Black Hole Effect of Uniswap on Algorithmic Stablecoins (2021)](https://ian.pw/posts/2021-01-17-black-hole-effect-of-uniswap-on-stablecoins)
+- [Understanding Compound protocol's interest rates (2020)](https://ian.pw/posts/2020-12-20-understanding-compound-protocols-interest-rates)
+- [Tally](https://tally.cash/) - Community owned & operated Web3 wallet. ([Code](https://github.com/tallycash/tally-extension))
+- [Crypto devs have predisposition towards anti-pattern design (2021)](https://twitter.com/kevinsekniqi/status/1461730535848431619)
+- [Gemini dollar (GUSD)](https://www.gemini.com/dollar) - 1:1 USD-backed stablecoin built by a secure, reliable, and regulated cryptocurrency exchange. ([Code](https://github.com/gemini/dollar)) ([Tweet](https://twitter.com/KyleLogiks/status/1462122551782653969))
+- [How to Get Into Crypto and Web3 as a Developer (2021)](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
+- [DarkFi](https://dark.fi/) - Anonymous DeFi network. ([Code](https://github.com/darkrenaissance/darkfi))
+- [Tuned](https://www.tuned.com/) - Build advanced crypto trading bots. ([HN](https://news.ycombinator.com/item?id=29318163))
+- [Jump Crypto](https://jumpcrypto.com/) - Building the next frontier in crypto infrastructure. ([Twitter](https://twitter.com/JumpCryptoHQ))
+- [Post-2016 crypto classics](https://twitter.com/mattigags/status/1463430142081093641)
+- [Crypto design challenges (2021)](https://paulstamatiou.com/crypto-design-challenges/)
+- [Snapshot](https://snapshot.org/#/) - Off-chain gasless multi-governance client. ([Code](https://github.com/snapshot-labs/snapshot)) ([GitHub](https://github.com/snapshot-labs)) ([Docs](https://docs.snapshot.org/)) ([Docs Code](https://github.com/snapshot-labs/snapshot-spaces)) ([Snapshot strategies](https://github.com/snapshot-labs/snapshot-strategies)) ([Snapshot hub](https://github.com/snapshot-labs/snapshot-hub))
+- [Proof of stake is a scam and the people promoting it are scammers (2021)](https://yanmaani.github.io/proof-of-stake-is-a-scam-and-the-people-promoting-it-are-scammers/) ([HN](https://news.ycombinator.com/item?id=29366310))
+- [tbDEX: A Liquidity Protocol White Paper](https://github.com/TBDev-54566975/white-paper/blob/main/whitepaper.pdf)
+- [Crypto world is an ecosystem being fueled by the “House Money Effect” (2021)](https://twitter.com/fintechjunkie/status/1466217991532650496)
+- [How to Become a Crypto Person: A Normie’s Guide (2021)](https://nymag.com/intelligencer/article/crypto-nft-twitter-discord-guide.html)
+- [The Case Against Crypto (2021)](https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto) ([HN](https://news.ycombinator.com/item?id=29471306))
+- [Decred](https://decred.org/) - Blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development. ([Code](https://github.com/decred/dcrd))
+- [Web3 is a Scam, Not a Revolution w/ Stephen Diehl (2021)](https://overcast.fm/+ZpQB4c9HM) ([Tweet](https://twitter.com/pedrouid/status/1469990498551185411))
+- [Cashio](https://cashio.app/) - Decentralized stablecoin fully backed by interest-bearing Saber USD liquidity provider tokens. ([Code](https://github.com/cashioapp/cashio))
+- [Optimal Routing for Constant Function Market Makers (2021)](https://stanford.edu/~guillean/papers/cfmm-routing.pdf) ([Code](https://github.com/angeris/cfmm-routing-code))
+- [The Crypto Syllabus](https://the-crypto-syllabus.com/)
+- [Greatest Collection of anything related to finance and crypto](https://github.com/sambacha/compendium)
+- [Questions about crypto, web3, and the surrounding ecosystem (2021)](https://twitter.com/dan_abramov/status/1474050849273958410)
+- [Web3 thoughts/arguments](https://twitter.com/AriDavidPaul/status/1474134130715762688)
+- [Emeris](https://emeris.com/) - Cross-chain DeFi.
+- [An Introduction to Automated Market Makers (2021)](https://www.machow.ski/posts/an_introduction_to_automated_market_makers/)
+- [How Crypto Derivatives Exchanges Prevent Bankruptcy (2021)](https://www.machow.ski/posts/how-crypto-derivatives-exchanges-prevent-bankruptcy/)
+- [A Beginners Guide to Crypto Derivatives (2021)](https://www.machow.ski/posts/a-beginners-guide-to-crypto-derivatives/)
+- [Interesting 2022 cryptocurrencies](https://twitter.com/adamscochran/status/1476652328736342023)
+- [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives)
+- [BEAM](https://beam.mw/) - Confidential Cryptocurrency and DeFi Platform. ([Code](https://github.com/BeamMW/beam))
+- [Arrow Protocol](https://arrowprotocol.com/#/) - Launch staking derivatives for the protocols you're already integrating with, redirecting yield to a different address. ([Code](https://github.com/arrowprotocol/arrow))
+- [Awesome critique of crypto / web3](https://github.com/rufuspollock/awesome-crypto-critique) ([HN](https://news.ycombinator.com/item?id=30398131))
+- [Theoretical Advances in AMM (Automated Market Maker) Understanding](https://fbifemboy.substack.com/p/theoretical-advances-in-amm-understanding) ([HN](https://news.ycombinator.com/item?id=30113170))
+- [Yanis Varoufakis on Crypto & the Left, and Techno-Feudalism (2022)](https://the-crypto-syllabus.com/yanis-varoufakis-on-techno-feudalism/)
+- [Cryptopunk](https://github.com/ayrat555/cryptopunk) - Hierarchical deterministic wallet for Elixir. ([Article](https://www.badykov.com/elixir/cryptopunk/))
+- [Basic Skill Tree for those looking to get into crypto](https://twitter.com/Darrenlautf/status/1434877372700901384)
+- [Ask HN: Does Anyone else working in a crypto company feel this is all a scam? (2022)](https://news.ycombinator.com/item?id=30268807)
+- [Binance Alpha Bot](https://github.com/duckdegen/apebot)
+- [David Rosenthal on cryptocurrencies (2022)](https://blog.dshr.org/2022/02/ee380-talk.html) ([HN](https://news.ycombinator.com/item?id=30310317))
+- [Zapper](https://zapper.fi/) - Manage your entire web3 portfolio from DeFi to NFTs and whatever comes next. ([Twitter](https://twitter.com/zapper_fi)) ([Tweet](https://twitter.com/medhakothari/status/1492602334601367556))
+- [Ask HN: What real world problem does cryptocurrency solve? (2022)](https://news.ycombinator.com/item?id=30329114)
+- [The Rabbit Hole Beneath the Crypto Couple Is Endless (2022)](https://www.vice.com/en/article/3ab78b/the-rabbithole-beneath-the-crypto-couple-is-endless)
+- [Tokenomics Resource List (2022)](https://twitter.com/packyM/status/1493990833397325824)
+- [There are no other constitutional rights in substance without freedom to transact](https://twitter.com/punk6529/status/1494444624630403083)
+- [Peer-to-peer (crypto) trading networks](https://github.com/taxmeifyoucan/p2p-trading) - Best practices for p2p trading groups.
+- [Token incentives are temporary, used to overcome the hardest part of creating new networks: getting through the “bootstrap” phase](https://twitter.com/cdixon/status/1495066587187093509)
+- [I was wrong, we need crypto (2022)](https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03) ([HN](https://news.ycombinator.com/item?id=30414842))
+- [Everstake](https://everstake.one/) - Staking Service Platform, Staking provider. ([Twitter](https://twitter.com/everstake_pool))
+- [How crypto exchanges enforce US sanctions](https://twitter.com/Brett_FTXUS/status/1500567182757011459)
+- [Stripe Crypto](https://stripe.com/en-gb-cy/use-cases/crypto) ([HN](https://news.ycombinator.com/item?id=30628677))
+- [Ninjabot](https://github.com/rodrigo-brito/ninjabot) - Fast cryptocurrency platform for trading bot in Go.
+- [Steakwallet](https://steakwallet.fi/) ([Tweet](https://twitter.com/stackhousehouse/status/1504416938386427908))
+- [Web3 critique academic research (2022)](https://www.zotero.org/groups/4600269/web3/library)
+- [Crypto is an unproductive bubble (2022)](https://alexkolchinski.com/2022/03/18/crypto-is-an-unproductive-bubble/) ([HN](https://news.ycombinator.com/item?id=30728856))
+- [Vitalik Buterin is worried about crypto's future (2022)](https://time.com/6158182/vitalik-buterin-ethereum-profile/) ([HN](https://news.ycombinator.com/item?id=30753404))
+- [Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots.
+- [Crypto Protocol Reading List](https://github.com/bryanhpchiang/protocol-reading-list)
+- [The Edited Latecomer’s Guide to Crypto (2022)](https://www.mollywhite.net/annotations/latecomers-guide-to-crypto#) ([HN](https://news.ycombinator.com/item?id=30804984)) ([Tweet](https://twitter.com/molly0xFFF/status/1507391218082328577))
+- [Unstoppable](https://unstoppable.money/) - Multi-wallet for Bitcoin, Ethereum, Binance Smart Chain and other emerging blockchains. ([iOS Code](https://github.com/horizontalsystems/unstoppable-wallet-ios))
+- [Synapse](https://synapseprotocol.com/landing) - DeFi's Multi-Chain Bridge.
+- [The Axie Infinity hack, what happened, and why people keep talking about bridges (2022)](https://blog.mollywhite.net/axie-hack/)
+- [The Infinite Exploitation Of Cryptocurrency (2022)](https://ez.substack.com/p/the-infinite-exploitation-of-cryptocurrency)
+- [The Simple English Argument Against Crypto](https://www.stephendiehl.com/blog/simple.html)
+- [Crypto Index Fund Bot](https://github.com/iloveitaly/crypto-index-fund-bot) - Bot which purchases a index of cryptocurrencies. A self-managed Vanguard VTI for crypto assets.
+- [Nebula Protocol](https://docs.neb.money/) - DeFi's flexible & efficient passive asset management protocol. ([Twitter](https://twitter.com/nebula_protocol)) ([Protocol Contracts](https://github.com/nebula-protocol/nebula-contracts))
+- [Enhanced crypto data](https://cybernetic.dev/) - Using Svelte.js and Three.js.
+- [If Wolf of Wall Street were about crypto](https://www.youtube.com/watch?v=KHEZCXfyxjU)
+- [Configurable Asset Privacy (CAP) protocol](https://github.com/EspressoSystems/cap) - Library in the Jellyfish ecosystem.
+- [Rube](https://github.com/fremantle-industries/rube) - Multi-chain DeFi development toolkit for Elixir.
+- [Coinbase Pay JavaScript SDK](https://github.com/coinbase/cbpay-js)
+- [On anti-crypto toxicity (2022)](https://blog.mollywhite.net/anti-crypto-toxicity/) ([HN](https://news.ycombinator.com/item?id=31094479))
+- [ApeCoin & the death of staking (2022)](https://cobie.substack.com/p/apecoin-and-the-death-of-staking?s=r) ([Tweet](https://twitter.com/cobie/status/1517086096173469697))
+- [Kindelia](https://github.com/Kindelia/Kindelia) - Efficient, secure cryptocomputer.
+- [tardis-dev](https://github.com/tardis-dev/tardis-node) - Convenient access to tick-level real-time and historical cryptocurrency market data via Node.js.
+- [Crypto Index Fund - Maybe](https://maybe.co/tools/crypto-index-fund)
+- [Early Ones](https://earlyones.co/) - Get rewarded for being early and adding value to new products and services in the crypto ecosystem. ([Twitter](https://twitter.com/earlyones))
+- [HN: UST Stablecoin Loses Dollar Peg (2022)](https://news.ycombinator.com/item?id=31321021)
+- [Cryptowatch](https://cryptowat.ch/) - Charting crypto markets in real time. ([GitHub](https://github.com/cryptowatch))
+- [Cautionary Tales from Cryptoland (2022)](https://hbr.org/2022/05/cautionary-tales-from-cryptoland)
+- [Computer Security 161 Cryptocurrency Lecture (2022)](https://www.youtube.com/watch?v=J9nv0Ol-R5Q)
+- [CryptoDevs Discord](https://discord.com/invite/5W5tVb3)
+- [Crypto Reading List](https://github.com/JumpCrypto/crypto-reading-list)
+- [Two thought experiments to evaluate automated stablecoins (2022)](https://vitalik.eth.limo/general/2022/05/25/stable.html) ([Tweet](https://twitter.com/VitalikButerin/status/1529850412760674304)) ([HN](https://news.ycombinator.com/item?id=31521261))
+- [Algorithmic stablecoins are provably impossible without continuous funding (2022)](https://fragileequilibrium.substack.com/p/algorithmic-stablecoins-are-provably?s=r) ([HN](https://news.ycombinator.com/item?id=31553704))
+- [Canonical Crypto](https://www.canonical.cc/) - Fund focused on investing in founders building infrastructure in web3/crypto. ([Tweet](https://twitter.com/ai/status/1532376867952631809))
+- [Celsius Appears insolvent, and it's taking the whole crypto market with it (2022)](https://twitter.com/jonwu_/status/1536476104986267648) ([HN](https://news.ycombinator.com/item?id=31734660))

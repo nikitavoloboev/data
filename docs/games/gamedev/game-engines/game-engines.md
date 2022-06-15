@@ -1,0 +1,150 @@
+# Game engines
+
+[Unreal Engine](unreal-engine.md), [Rapier](https://github.com/dimforge/rapier) & [Ebiten](https://ebiten.org/) are nice.
+
+## Interesting Engines
+
+- [Godot](https://github.com/godotengine/godot) - Free and open source 2D and 3D game engine. ([Web](https://godotengine.org/))
+- [microStudio](https://microstudio.dev/) - Learn programming, create games.
+- [Bevy](https://github.com/bevyengine/bevy) - Refreshingly simple data-driven game engine built in Rust.
+- [Ebiten](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library in Go. ([Web](https://ebiten.org/)) ([Ebiten in 2020](https://ebiten.org/blog/2020.html)) ([HN](https://news.ycombinator.com/item?id=25429375)) ([WORDLE clone using Go/Ebiten](https://www.youtube.com/watch?v=lZAB5ZEfc1Q)) ([furex - Flexbox layout for Ebiten](https://github.com/yohamta/furex))
+- [Love](https://love2d.org) ([Code](https://github.com/love2d/love))
+- [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - Awesome 3d engine for LÖVE.
+- [ggez](https://github.com/ggez/ggez)
+- [Amethyst](https://github.com/amethyst/amethyst) - Data-driven game engine written in Rust. ([Web](https://amethyst.rs/))
+- [boardgame.io](https://boardgame.io/) - State Management for Turn-Based Games. ([Code](https://github.com/boardgameio/boardgame.io))
+- [Xash3D FWGS Engine](https://github.com/FWGS/xash3d) - Custom Gold Source engine rewritten from scratch.
+- [Newton](https://github.com/hunterloftis/newton) - Playful, particle-based physics engine designed from the ground up for JavaScript.
+- [Noa](https://github.com/andyhall/noa) - Experimental voxel game engine.
+- [NPhysics](https://github.com/rustsim/nphysics) - 2D and 3D Real-Time Physics Engine for Rust. ([HN](https://news.ycombinator.com/item?id=23599318)) ([Web](https://nphysics.org/))
+- [Piston](https://github.com/PistonDevelopers/piston) - Modular game engine written in Rust. ([Web](https://www.piston.rs/)) ([GitHub](https://github.com/PistonDevelopers))
+- [GDevelop](https://github.com/4ian/GDevelop) - Open-source, cross-platform game engine designed to be used by everyone.
+- [Corona](https://github.com/coronalabs/corona) - Simple to learn and use 2D game engine developed by Corona Labs.
+- [VCMI](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III. ([Reddit](https://www.reddit.com/r/programming/comments/i5oyqz/heroes_of_might_and_magic_iii_engine_written_from/))
+- [Hex Engine](https://github.com/suchipi/hex-engine) - Modern 2D game engine for the browser. ([Web](https://hex-engine.dev/))
+- [RaZ](https://github.com/Razakhel/RaZ) - Modern & multiplatform 3D engine in C++17.
+- [Flex Engine](https://github.com/ajweeks/FlexEngine) - Personal game engine.
+- [Panda3D](https://github.com/panda3d/panda3d) - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU.
+- [ReactPhysics3D](https://github.com/DanielChappuis/reactphysics3d) - Open source C++ physics engine library that can be used in 3D simulations and games.
+- [Untold Engine](https://github.com/untoldengine/UntoldEngine) - Easy to use, open source, 3D game engine for iOS/macOS game development.
+- [Box2D](https://github.com/erincatto/box2d) - 2D physics engine for games.
+- [RG3D](https://github.com/mrDIMAS/rg3d) - 3D game engine written in Rust.
+- [ResidualVM](https://github.com/residualvm/residualvm) - 3D game interpreter.
+- [qengine](https://github.com/klaussilveira/qengine) - Retro game engine for developers that enjoy creating games like it's 1997.
+- [Filament](https://github.com/google/filament) - Real-time physically based rendering engine for Android, iOS, Linux, macOS, Windows, and WebGL.
+- [Peacock](https://github.com/maxdeviant/peacock) - Game engine for making beautiful games.
+- [qu3e](https://github.com/RandyGaul/qu3e) - Lightweight and Simple 3D Open Source Physics Engine in C++.
+- [Falltergeist](https://github.com/falltergeist/falltergeist) - Open source cross platform Fallout 2™ game engine written in C++ and SDL.
+- [Vault13](https://github.com/pingw33n/vault13) - Reimplementation of Fallout 2 engine in Rust.
+- [Minetest](https://github.com/minetest/minetest) - Free open-source voxel game engine with easy modding and game creation. ([Web](https://www.minetest.net/))
+- [Crow](https://github.com/lcnr/crow) - Simple pixel perfect 2D rendering engine in Rust. ([Akari - game built with Crow](https://github.com/lcnr/akari))
+- [Defold](https://defold.com/) - Ultimate game engine for web and mobile. ([Code](https://github.com/defold/defold)) ([HN](https://news.ycombinator.com/item?id=23232648)) ([Learn](https://defold.com/learn/))
+- [Grid](https://github.com/Planimeter/grid-sdk) - Game engine for Lua. Designed for multiplayer-first game experiences. ([Web](https://www.planimeter.org/grid-sdk/)) ([HN](https://news.ycombinator.com/item?id=23449224)) ([Discord](https://discord.gg/eK27SbG2wG))
+- [lgameframework](https://github.com/Planimeter/lgf) - Game development framework for Lua.
+- [Rizz](https://github.com/septag/rizz) - Tiny, multi-platform, and minimal game/app development framework, Written in C language.
+- [Spartan Engine](https://github.com/PanosK92/SpartanEngine) - Game engine with an emphasis on architectual quality and performance.
+- [CRYENGINE](https://github.com/CRYTEK/CRYENGINE/) - Powerful real-time game development platform created by Crytek. ([HN](https://news.ycombinator.com/item?id=23660099))
+- [24a2](https://github.com/jamesroutley/24a2) - Ultra-minimalist game engine. ([HN](https://news.ycombinator.com/item?id=23664814)) ([Web](https://24a2.routley.io/))
+- [OpenRA](https://www.openra.net/) - Open-source RTS game engine for games such as Command and Conquer. ([Code](https://github.com/OpenRA/OpenRA)) ([HN](https://news.ycombinator.com/item?id=31197091))
+- [Richter](https://github.com/cormac-obrien/richter) - Modern implementation of the Quake engine in Rust. ([Web](http://c-obrien.org/richter/))
+- [PlayCanvas](https://playcanvas.com/) - Fast and lightweight JavaScript game engine built on WebGL and glTF. ([Code](https://github.com/playcanvas/engine)) ([HN](https://news.ycombinator.com/item?id=24018097))
+- [Excalibur](https://github.com/excaliburjs/Excalibur) - Simple 2D HTML5 game engine written in TypeScript.
+- [pygame](https://github.com/pygame/pygame) - Free and Open Source cross-platform library for the development of multimedia applications like video games on Python. ([Web](https://www.pygame.org/news)) ([HN](https://news.ycombinator.com/item?id=24930615))
+- [GtkRadiant](https://github.com/TTimo/GtkRadiant) - Open-source, cross-platform level editor for id Tech based games. It comes with some map compilers and data authoring tools.
+- [Rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance. In Rust. ([Web](https://rapier.rs/)) ([JS SDK](https://github.com/dimforge/rapier.js))
+- [jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) - Complete 3D game development suite written purely in Java. ([Web](https://jmonkeyengine.org/))
+- [Dotrix](https://github.com/lowenware/dotrix) - 3D Game Engine written in Rust.
+- [Physics3D](https://github.com/ThePhysicsGuys/Physics3D) - 3D physics engine, written in C++.
+- [macroquad](https://github.com/not-fl3/macroquad) - Simple and easy to use game library for Rust programming language, heavily inspired by raylib.
+- [Skynet](https://github.com/cloudwu/skynet) - Lightweight online game framework which can be used in many other fields.
+- [Nazara Engine](https://github.com/DigitalPulseSoftware/NazaraEngine) - Fast, complete, cross-platform, object-oriented API which can help you in your daily developer life.
+- [Edyn](https://github.com/xissburg/edyn) - Real-time physics engine organized as an ECS.
+- [Frostbite Engine](https://www.ea.com/frostbite) - Most adopted platform for game development by EA.
+- [Halley](https://github.com/amzeratul/halley) - Lightweight game engine written in modern C++.
+- [Goodluck](https://github.com/piesku/goodluck) - Hackable template for creating small and fast browser games. ([Web](https://gdlck.com/))
+- [SuperTux](https://www.supertux.org/) - Open-source classic 2D jump'n run sidescroller game in a style similar to the original Super Mario games. ([Code](https://github.com/SuperTux/supertux))
+- [Flax Engine](https://github.com/FlaxEngine/FlaxEngine) - Multi-platform 3D game engine. ([Web](https://flaxengine.com/))
+- [Dragonglass](https://github.com/matthewjberger/dragonglass) - 3D game engine written in Rust and using Vulkan primarily for rendering.
+- [pmtech](https://github.com/polymonster/pmtech) - Lightweight, multi-platform, data-oriented game engine.
+- [3DWorld](https://github.com/fegennari/3DWorld) - 3D Procedural Game Engine Using OpenGL.
+- [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. ([Web](https://www.cocos.com/en/))
+- [ETEngine](https://github.com/Illation/ETEngine) - Real time 3D Game-Engine with a focus on space sim. Written in C++.
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ([Web](https://www.babylonjs.com/)) ([React Babylon.js](https://github.com/brianzinn/react-babylonjs))
+- [PursuedPyBear](https://github.com/ppb/pursuedpybear) - Python game engine. Exists to be an educational resource.
+- [Fluxus](http://www.pawfal.org/fluxus/) - 3D game engine for live-coding worlds into existence. ([HN](https://news.ycombinator.com/item?id=26130341))
+- [Keikan](https://github.com/slightknack/keikan) - Multithreaded photorealistic rendering engine that supports path-tracing, ray-marching, Photo Based Rendering (through a principled implementation), and more.
+- [Oak](https://github.com/oakmound/oak) - Pure Go game engine.
+- [Forgotten Server](https://github.com/otland/forgottenserver) - Free and open-source MMORPG server emulator written in C++.
+- [Our Machinery](https://ourmachinery.com/) - New Kind of Game Engine.
+- [Ferret](https://github.com/Rua/ferret) - Doom-compatible game engine.
+- [Wicked Engine](https://github.com/turanszkij/WickedEngine) - C++ game engine focusing on modern rendering techniques and performance. ([Web](https://wickedengine.net/))
+- [Permafrost Engine](https://github.com/eduard-permyakov/permafrost-engine) - OpenGL RTS game engine written in C.
+- [Quake3e](https://github.com/ec-/Quake3e) - Improved Quake III Arena engine.
+- [Pyxel](https://github.com/kitao/pyxel) - Retro game engine for Python.
+- [PuzzleScript](https://github.com/increpare/PuzzleScript) - Open Source HTML5 Puzzle Game Engine. ([Web](https://www.puzzlescript.net/))
+- [Box2D-Lite](https://github.com/erincatto/box2d-lite) - Small 2D physics engine. ([Web](https://box2d.org/))
+- [MxEngine](https://github.com/asc-community/MxEngine) - C++ open source 3D game engine.
+- [Flame](https://github.com/flame-engine/flame) - 2D game engine made on top of Flutter. ([Web](https://flame-engine.org/))
+- [Open 3D Engine (O3DE)](https://o3de.org/) - Open-source, real-time 3D development engine. ([Code](https://github.com/o3de/o3de)) ([HN](https://news.ycombinator.com/item?id=27751358))
+- [Taxman Engine](https://github.com/McDevon/taxman-engine) - Game Engine for Embedded Systems.
+- [Emerald](https://github.com/Bombfuse/emerald) - 2D rust game engine focused on portability.
+- [Vega Strike Space Simulation Engine](https://github.com/vegastrike/Vega-Strike-Engine-Source) - Allows a player to explore, trade, and fight in the vast open space.
+- [LittleJS](https://github.com/KilledByAPixel/LittleJS) - Lightweight 2D JavaScript game engine with a super fast WebGL rendering system.
+- [ezEngine](https://github.com/ezEngine/ezEngine) - Open source C++ game engine.
+- [Dagon](https://github.com/gecko0307/dagon) - 3D game engine for D. ([Web](https://gecko0307.github.io/dagon/))
+- [LambdaHack](https://github.com/LambdaHack/LambdaHack) - Haskell game engine library for roguelike dungeon crawlers.
+- [vengi](https://mgerhardy.github.io/engine/) - C++ voxel game engine and its tools. ([Code](https://github.com/mgerhardy/engine))
+- [Scion](https://github.com/grzi/scion) - Tiny 2D game engine built on top of wgpu, winit and legion.
+- [minicosm](https://github.com/jarcane/minicosm) - FP-oriented game engine inspired by universe.rkt, written in Clojurescript.
+- [Starframe](https://github.com/MoleTrooper/starframe) - 2D game engine for physics-y sidescrolling games.
+- [Lina Engine](https://github.com/inanevin/LinaEngine) - Open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
+- [Stage.js](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development.
+- [Storm](https://github.com/mooman219/storm) - 2D game engine designed for performance.
+- [Arcade](https://github.com/pythonarcade/arcade) - Easy to use Python library for creating 2D arcade games.
+- [Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine. ([Web](https://urho3d.io/))
+- [Kruger](https://github.com/BobbyAnguelov/KRG) - Game engine framework, basically an engine without a renderer.
+- [Rusty Engine](https://github.com/CleanCut/rusty_engine) - 2D game engine for learning Rust.
+- [Potato](https://github.com/potatoengine/potato) - Hobby C++ game engine.
+- [koi](https://github.com/kettle11/koi) - Game engine in Rust.
+- [Goluwa](https://github.com/CapsAdmin/goluwa) - Game engine, framework, a collection of utilities and experiments written in LuaJIT leveraging FFI.
+- [CosPlay](https://github.com/nivanov/cosplay) - 2D ASCII game engine written in Scala3. ([Web](https://cosplayengine.com/))
+- [ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+- [Kohi Engine](https://github.com/travisvroman/kohi) - Made as part of the Kohi Game Engine series on YouTube, where we make a game engine from the ground up using C and Vulkan.
+- [Exile](https://github.com/TheNumbat/Exile) - Handmade-style voxel engine & game.
+- [OGRE](https://github.com/OGRECave/ogre) - Scene-oriented, flexible 3D engine (C++, Python, C#, Java).
+- [Ducktape](https://github.com/DucktapeEngine/Ducktape) - Open source C++ 2D & 3D game engine that focuses on being fast, and powerful. ([Web](https://ducktapeengine.github.io/))
+- [2D Rigid body physics engine in TS](https://github.com/Sopiro/Physics)
+- [cannon-es](https://github.com/pmndrs/cannon-es) - Lightweight 3D physics engine written in JavaScript.
+- [Starlight.jl](https://github.com/jhigginbotham64/Starlight.jl) - Game engine written in Julia. ([HN](https://news.ycombinator.com/item?id=31648175))
+- [Amalgam Engine](https://github.com/Net5F/AmalgamEngine) - Engine for easily creating virtual worlds.
+
+## Physics engines
+
+- [MuJoCo](https://mujoco.org/) - Multi-Joint dynamics with Contact. A general purpose physics simulator. ([Code](https://github.com/deepmind/mujoco)) ([Article](https://deepmind.com/blog/announcements/mujoco)) ([HN](https://news.ycombinator.com/item?id=28906333)) ([Old Code](https://github.com/openai/mujoco-py)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/qaouds/n_deepmind_acquires_mujoco_makes_it_freely/))
+
+## Links
+
+- [A first-person engine in 265 lines](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
+- [Game Engine Black Book Wolfenstein 3D](http://fabiensanglard.net/gebbwolf3d/)
+- [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. ([Docs](https://bkaradzic.github.io/bgfx/index.html))
+- [Atelier Assets](https://github.com/amethyst/atelier-assets) - Asset management & processing framework for game engines.
+- [Game Engine learnings in Rust](https://github.com/tuzz/game-engine)
+- [Custom Game Engines: A Small Study (2020)](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74) ([HN](https://news.ycombinator.com/item?id=22965078))
+- [Making game engines is a waste of time - I probably won’t stop making them (2020)](https://benwiser.com/blog/Making-game-engines-is-a-waste-of-time---I-probably-won%E2%80%99t-stop-making-them.html) ([HN](https://news.ycombinator.com/item?id=23214621))
+- [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
+- [Designing a Physics Engine (2020)](https://blog.winter.dev/2020/designing-a-physics-engine/) ([HN](https://news.ycombinator.com/item?id=24016718))
+- [Game engines used for urban planning, architecture, automotive engineering firms, live music and events, filmmaking, etc. (2020)](https://twitter.com/aaronzlewis/status/1291889682788253696)
+- [Porting a c++ game engine to the web with emscripten (2020)](https://www.polymonster.co.uk/blog/porting-to-wasm-with-emscripten)
+- [The CRYENGINE Rendering Pipeline (2021)](https://www.youtube.com/watch?v=34S3onEr3r8)
+- [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF) ([Code](https://github.com/boksajak/brdf))
+- [Game Engine: How I Implemented Skeletal Animation (2021)](https://vladh.net/articles/game-engine-skeletal-animation.html) ([HN](https://news.ycombinator.com/item?id=26659295))
+- [Doom Engine source code review (2010)](https://fabiensanglard.net/doomIphone/doomClassicRenderer.php)
+- [Solving the Right Problems for Engine Programmers - Mike Acton (2017)](https://www.youtube.com/watch?v=4B00hV3wmMY)
+- [A Deep Dive into Nanite Virtualized Geometry (2021)](http://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf) ([Lobsters](https://lobste.rs/s/i2vpnd/deep_dive_into_nanite_virtualized))
+- [Game Engines on Steam: The Definitive Breakdown (2021)](https://www.gamedeveloper.com/business/game-engines-on-steam-the-definitive-breakdown) ([HN](https://news.ycombinator.com/item?id=28394818))
+- [How does a Game Engine work? An Overview (2016)](https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine) ([HN](https://news.ycombinator.com/item?id=29136429))
+- [How to make your own game engine (and why) (2021)](https://medium.com/@tglaiel/how-to-make-your-own-game-engine-and-why-ddf0acbc5f3)
+- [GitHub Collection: Game Engines](https://github.com/collections/game-engines) ([Reddit](https://www.reddit.com/r/gamedev/comments/qtwae3/githubs_collection_of_opensource_game_engines/))
+- [What interesting things are people making using a game engine that's not actually a game?](https://www.reddit.com/r/gamedev/comments/rpk7uh/what_interesting_things_are_people_making_using_a/)
+- [Game Engines as an Art Form — My 8+ Years of Developing and Maintaining My Own Engine (2021)](https://medium.com/@hajimehoshi/game-engines-as-an-art-form-f66c835c0a92) ([HN](https://news.ycombinator.com/item?id=29712457))
+- [Game Engine Devs Reddit](https://www.reddit.com/r/gameenginedevs/)

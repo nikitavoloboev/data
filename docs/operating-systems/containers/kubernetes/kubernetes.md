@@ -1,0 +1,767 @@
+---
+title: Kubernetes
+---
+
+# [Kubernetes](https://kubernetes.io/)
+
+[Ivan Velichko](https://iximiuz.com/en/) has lots of great posts on containers & k8s. [Beetle](https://github.com/Clivern/Beetle) & [Infra](https://github.com/infrahq/infra) are neat.
+
+[Kube-Hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) is nice as [Hetzner](https://www.hetzner.com/) has cheap servers.
+
+## Notes
+
+- Kubernetes runs pods that contain 1 to n docker containers. So if you have your apps in the form of docker images you are ready to go.
+- [The OpenShift guys like to make the analogy that Kubernetes is like Linux and that there are different distributions of it, OpenShift being one (like Red Hat).](https://www.reddit.com/r/devops/comments/94n994/for_those_of_you_who_use_kubernetes_how_the_hell/)
+- [Interacting with kubernetes feels very different and in a lot of ways it's almost an operating system for a super computer. You sort of forget how many computers and vms or whatever are out there and kubernetes handles a lot of the implementation details for you. Installing a lot of apps to the cloud is as simple as typing 'helm install jenkins' and waiting 5 minutes.](https://www.reddit.com/r/investing/comments/92becj/is_amazon_undervalued_with_the_huge_aws_earnings/)
+  - It's just a radically new way of dealing with 'the cloud'. And the thing that makes it especially threatening to aws is that it doesn't matter where it runs. Developing an app for kubernetes on aws or google cloud or azure or anything else is almost an identical experience. People are going to become very price sensitive because that's the only thing that distinguishes one kubernetes host from another (aside from the ease of installing a kubernetes cluster -- something which aws is fairly far behind on)
+- In general, the right question to ask yourself when designing Pods is, “Will these containers work correctly if they land on different machines?” If the answer is “no,” a Pod is the correct grouping for the containers. If the answer is “yes,” multiple Pods is probably the correct solution.
+- Ingress controller watches for `Ingress` resources in your cluster.
+- [Kubernetes (or whatever other container scheduler) might feel like overkill, but if all they do is force you to adopt a container-centric / 12-factor way of building your applications it was worth trying them. And once you've adopted that workflow it's a no-brainer to go from a single node to a cluster which will dynamically allocate the workloads it runs.](https://news.ycombinator.com/item?id=18495697)
+  - Running a small container cluster at work has even changed how I setup single-host projects in my spare time: I will build everything into a container, bind-mount whatever it might need, create a simple systemd unit that just runs / rms the docker container on start and stop. Bliss.
+- [After a couple years on kubernetes, there is a simple joy to a deployment process that looks like "scp binary server: && ssh server systemctl restart service", and takes 5s to complete.](https://twitter.com/dave_universetf/status/1216791280505774080)
+- [In K8S, I think the best is hand-on experience, do it and. you will understand why a certain thing has to do that way.](https://lobste.rs/s/waj0ky/what_are_you_doing_this_weekend#c_s4hcbh)
+- [Despite its reputation, Kubernetes is actually quite easy to master for simple use cases. And affordable enough for more complex ones.
+  The fundamental abstractions are as simple as they can be, representing concepts that you'd already be familiar with in a datacenter environment. A cluster has nodes (machines), and you can run multiple pods (which is the smallest deployable unit on the cluster) on each node. A pod runs various types of workloads such as web services, daemons, jobs and recurring jobs which are made available (to the cluster) as docker/container images. You can attach various types of storage to pods, front your services with load-balancers etc. All of the nouns in the previous paragraph are available as building blocks in Kubernetes. You build your complex system declaratively from these simpler parts.](https://news.ycombinator.com/item?id=28875764)
+- [Can edit a deployment or pod via `kubectl edit` and update the command to be `tail -f /dev/null`](https://www.reddit.com/r/kubernetes/comments/rcd3eh/endtoend_guide_to_kubectl_commands/)
+
+## Links
+
+- [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+- [What happens when I type kubectl run](https://github.com/jamiehannaford/what-happens-when-k8s) ([HN](https://news.ycombinator.com/item?id=22785652))
+- [Helm](https://helm.sh/) - Kubernetes package manager.
+- [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice)
+- [kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes.
+- [Draft](https://github.com/azure/draft) - Streamlined Kubernetes Development.
+- [Nix Kubernetes](https://github.com/xtruder/nix-kubernetes) - Kubernetes deployment manager written in Nix.
+- [Knative Serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute.
+- [Rancher Kubernetes](https://rancher.com/kubernetes/) - Complete container management platform. Makes it easy to run Kubernetes everywhere. ([Code](https://github.com/rancher/rancher))
+- [OpenShift](https://www.openshift.com/) - Enterprise-ready Kubernetes container platform with full-stack automated operations. ([GitHub](https://github.com/openshift)) ([assisted-service](https://github.com/openshift/assisted-service))
+- [Portainer](https://portainer.io) - Lighter than Rancher (for Docker).
+- [Kubernetes 101 (2018)](https://www.stavros.io/posts/kubernetes-101/)
+- [node-problem-detector](https://github.com/kubernetes/node-problem-detector) - Aims to make various node problems visible to the upstream layers in cluster management stack.
+- [go-kubectx](https://github.com/aca/go-kubectx) - 5x-10x faster alternative to kubectx. Uses client-go.
+- [Kubernetes for Sysadmins – Kelsey Hightower (2016)](https://www.youtube.com/watch?v=HlAXp0-M6SY)
+- [Kubernetes API conventions](https://github.com/kubernetes/community/blob/master/contributors/devel/api-conventions.md)
+- [Kubeval](https://github.com/garethr/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions.
+- [Let's encrypt with GKE instructions](https://github.com/ahmetb/gke-letsencrypt)
+- [Kubernetes for personal projects? No thanks! (2018)](http://carlosrdrz.es/kubernetes-for-small-projects/)
+- [Kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
+- [Terraform Kubernetes provider](https://github.com/terraform-providers/terraform-provider-kubernetes)
+- [KubeContext](https://github.com/turkenh/KubeContext) - Menu Bar App for Managing Kubernetes Contexts on Mac.
+- [Kubeapps](https://github.com/kubeapps/kubeapps) - Web-based UI for deploying and managing applications in Kubernetes clusters.
+- [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
+- [You might not need Kubernetes (2018)](https://blog.jessfraz.com/post/you-might-not-need-k8s/) - [HN](https://news.ycombinator.com/item?id=18495697)
+- [Kubespray](https://github.com/kubernetes-incubator/kubespray) - Deploy a Production Ready Kubernetes Cluster.
+- [Argo](https://github.com/argoproj/argo) - Container-native workflows for Kubernetes. ([Getting started](https://iamstoxe.com/posts/argo-getting-started/)) ([Templating](https://iamstoxe.com/posts/templating-with-argo/)) ([Argo Server](https://iamstoxe.com/posts/argo-server/)) ([Web](https://argoproj.github.io/)) ([Awesome](https://github.com/terrytangyuan/awesome-argo))
+- [Kazan](https://github.com/obmarg/kazan) - Kubernetes API client for Elixir.
+- [Maestro](https://github.com/maestrosdk/maestro) - Provides a declarative approach to building production-grade Kubernetes Operators covering the entire application lifecycle.
+- [kail](https://github.com/boz/kail) - Kubernetes log viewer.
+- [Kubernetes clusters for the hobbyist](https://github.com/hobby-kube/guide)
+- [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Open source Kubernetes kubelet implementation.
+- [Compose on Kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters.
+- [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
+- [Kubernetes Failure Stories](https://k8s.af/) - Compiled list of links to public failure stories related to Kubernetes. ([Code](https://github.com/hjacobs/kubernetes-failure-stories)) ([HN](https://news.ycombinator.com/item?id=26106080))
+- [Garden](https://github.com/garden-io/garden) - Development engine for Kubernetes, containers and serverless functions.
+- [Kubinception: using Kubernetes to run Kubernetes (2019)](https://www.ovh.com/fr/blog/kubinception-using-kubernetes-to-run-kubernetes/)
+- [Kubernetes Authentication Example](https://github.com/pusher/k8s-auth-example) - Code is provided verbatim as an example of how to connect to an OIDC provider and authenticate users before configuring their kubeconfig.
+- [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - Adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible.
+- [Goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
+- [k3s](https://github.com/ibuildthecloud/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb.
+- [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - SDK for building Kubernetes APIs using CRDs.
+- [k9s](https://github.com/derailed/k9s) - Provides a curses based terminal UI to interact with your Kubernetes clusters.
+- [Knative build](https://github.com/knative/build) - Kubernetes-native Build resource.
+- [Kubernetes as an API standard (2019)](https://www.cloudatomiclab.com/rustyk8s/)
+- [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+- [Awesome Kubernetes 2](https://github.com/run-x/awesome-kubernetes)
+- [Cerebral](https://github.com/containership/cerebral) - Kubernetes cluster autoscaler with pluggable metrics backends and scaling engines.
+- [Skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development.
+- [Talos](https://github.com/autonomy/talos) - Modern Linux distribution for Kubernetes.
+- [Kubernetes cleanup operator](https://github.com/lwolf/kube-cleanup-operator) - Kubernetes Operator to automatically delete completed Jobs and their Pods.
+- [Click](https://github.com/databricks/click) - Command Line Interactive Controller for Kubernetes. Its purpose is to manage a large number of Kubernetes clusters/objects quickly and efficiently.
+- [Kubectl Dashboard](https://github.com/bouk/kubectl-dashboard) - Sub-command for kubectl that will instantly make a Kubernetes dashboard available for you, without having to run anything in your cluster.
+- [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations.
+- [Kubewebhook](https://github.com/slok/kubewebhook) - Small Go framework to create external admission webhooks for Kubernetes.
+- [Submariner](https://github.com/rancher/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
+- [ko](https://github.com/google/ko) - Tool for building and deploying Golang applications to Kubernetes.
+- [Maybe You Don't Need Kubernetes (2019)](https://endler.dev/2019/maybe-you-dont-need-kubernetes/) ([HN](https://news.ycombinator.com/item?id=22034291))
+- [CLI for Amazon EKS](https://github.com/weaveworks/eksctl) - Simple CLI tool for creating clusters on EKS - Amazon's new managed Kubernetes service for EC2.
+- [Kubernetes controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Set of go libraries for building Controllers.
+- [k3d](https://github.com/zeerorg/k3s-in-docker) - Lightweight alternative to KinD for local development.
+- [Popeye](https://github.com/derailed/popeye) - Kubernetes cluster resource sanitizer.
+- [Kubernetes Test Infrastructure](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
+- [Katib](https://github.com/kubeflow/katib) - Hyperparameter Tuning on Kubernetes.
+- [Kapitan](https://github.com/deepmind/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things.
+- [How Airbnb Simplified the Kubernetes Workflow for 1000+ Engineers (2019)](https://www.infoq.com/news/2019/03/airbnb-kubernetes-workflow)
+- [Boosting your kubectl productivity (2019)](https://learnk8s.io/blog/kubectl-productivity/)
+- [Polaris](https://github.com/reactiveops/polaris) - Validation of best practices in your Kubernetes clusters.
+- [qlkube](https://github.com/qlkube/qlkube) - GraphQL api for Kubernetes.
+- [Typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution.
+- [Kontemplate](https://github.com/tazjin/kontemplate) - Extremely simple Kubernetes resource templates.
+- [OpenKruise/Kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes.
+- [Monday](https://github.com/eko/monday) - Dev tool for microservice developers that run local applications and/or forward some others from Kubernetes or over SSH.
+- [Ballista](https://github.com/andygrove/ballista) - PoC of distributed compute platform using Rust, Apache Arrow, and Kubernetes. [Article](https://andygrove.io/2019/07/announcing-ballista/)
+- [Octant](https://github.com/vmware/octant) - Web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+- [shipcat](https://github.com/Babylonpartners/shipcat) - Standardisation tool and security layer on top of kubernetes to config manage microservices.
+- [Okteto](https://github.com/okteto/okteto) - Rapidly iterate and test your applications by developing directly in your Kubernetes cluster.
+- [Fabrikate](https://github.com/microsoft/fabrikate) - Making GitOps with Kubernetes easier one component at a time.
+- [Seldon Core](https://github.com/SeldonIO/seldon-core) - Machine Learning Deployment for Kubernetes.
+- [Kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions.
+- [Conftest](https://github.com/instrumenta/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language.
+- [Kuma](https://github.com/Kong/kuma) - Universal Control Plane for your Service Mesh. ([Web](https://kuma.io/))
+- [Knative Eventing](https://github.com/knative/eventing) - Contains a work-in-progress eventing system that is designed to address a common need for cloud native development.
+- [Navigator](https://github.com/jetstack/navigator) - Kubernetes extension for managing common stateful services on Kubernetes.
+- [kube-aggregator](https://github.com/kubernetes/kube-aggregator) - Aggregator for Kubernetes-style API servers: dynamic registration, discovery summarization, secure proxy.
+- [Kubernetes Networking: Behind the scenes (2019)](https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb)
+- [Kubernetes Networking recommended reading list](https://github.com/nleiva/kubernetes-networking-links)
+- [service-catalog](https://github.com/kubernetes-sigs/service-catalog) - Consume services in Kubernetes using the Open Service Broker API.
+- [kuberNix](https://github.com/saschagrunert/kubernix) - Kubernetes development cluster bootstrapping with Nix packages.
+- [Autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes.
+- [Appsody](https://appsody.dev/) - Provides everything you need to iteratively develop applications, ready for deployment to Kubernetes environments.
+- [Gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push.
+- [Announcing Kubernetes Off-The-Shelf (KOTS) Software (2019)](https://blog.replicated.com/announcing-kots/)
+- [chaoskube](https://github.com/linki/chaoskube) - Periodically kills random pods in your Kubernetes cluster.
+- [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Simple service that listens to the Kubernetes API server and generates metrics about the state of the objects.
+- [Cloudflow](https://cloudflow.io/) - Enables you to quickly develop, orchestrate, and operate distributed streaming applications on Kubernetes.
+- [Clusterlint](https://github.com/digitalocean/clusterlint) - Best practices checker for Kubernetes clusters.
+- [An illustrated guide to Kubernetes Networking (2017)](https://itnext.io/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727)
+- [Bank Vaults](https://github.com/banzaicloud/bank-vaults) - Umbrella project which provides various tools for Vault to make using and operating Hashicorp Vault easier.
+- [RBAC Manager](https://github.com/FairwindsOps/rbac-manager) - Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
+- [inlets-operator](https://github.com/inlets/inlets-operator) - Your private Kubernetes Service, with a public endpoint.
+- [Chaos Mesh](https://github.com/pingcap/chaos-mesh) - Cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
+- [Grafana Tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes.
+- [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2019)](https://www.goodreads.com/book/show/50351477-kubernetes-best-practices)
+- [PoC to write integration tests in Go with Kubernetes by Gianluca Arbezzano (2019)](https://www.youtube.com/watch?v=Dt-pQSNfXlM)
+- [kubethanos](https://github.com/berkay-dincer/kubethanos) - Kills half of your randomly selected kubernetes pods.
+- [k3c](https://github.com/ibuildthecloud/k3c) - Local container engine designed to fill the same gap Docker does in the Kubernetes ecosystem.
+- [KubeNix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using nix.
+- [Playing With Kubernetes: Nix, Kind And Kubenix](https://github.com/gilligan/kind-kubenix)
+- [Postgres Operator](https://github.com/zalando/postgres-operator) - Creates and manages PostgreSQL clusters running in Kubernetes.
+- [Contour](https://github.com/projectcontour/contour) - Kubernetes ingress controller using Lyft's Envoy proxy.
+- [Roperator](https://github.com/psFried/roperator) - Lets you easily write Kubernetes Operators in Rust.
+- [Krustlet](https://github.com/krustlet/krustlet) - Kubernetes Kubelet in Rust for running WASM. ([Article](https://deislabs.io/posts/introducing-krustlet/)) ([Web](https://krustlet.dev/))
+- [WaeaveWorks](https://www.weave.works/) - Operate and manage production ready Kubernetes with Weave Kubernetes Platform.
+- [Gravity](https://github.com/gravitational/gravity) - Opinionated image-based Kubernetes packaging and management tools.
+- [kubenav](https://github.com/kubenav/kubenav) - Navigator for your Kubernetes clusters right in your pocket.
+- [Kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management. ([Web](https://kyverno.io/))
+- [Nirmata](https://www.nirmata.com/) - Unified management plane for all your Kubernetes clusters and workloads.
+- [Deep Dive into Kubernetes Internals for Builders and Operators (2020)](https://www.youtube.com/watch?v=3KtEAa7_duA)
+- [Rode](https://github.com/liatrio/rode) - Cloud native software supply chain.
+- [kube-monkey](https://github.com/asobti/kube-monkey) - Implementation of Netflix's Chaos Monkey for Kubernetes clusters.
+- [Crash Course in Kubernetes: blog series (2020)](https://blog.tilt.dev/2019/10/16/crash-course-kubernetes-overview.html)
+- [Fabio](https://github.com/fabiolb/fabio) - Fast, modern, zero-conf load balancing HTTP(S) and TCP router for deploying applications managed by consul.
+- [Rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes.
+- [Solo](https://www.solo.io/) - Next generation API gateway to connect, secure and control traffic to any application on any infrastructure.
+- [Gloo](https://github.com/solo-io/gloo) - Envoy-Powered API Gateway.
+- [Keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates. ([Web](https://keel.sh/))
+- [GLBC](https://github.com/kubernetes/ingress-gce) - Ingress controller for Google Cloud.
+- [Kube Profefe](https://github.com/profefe/kube-profefe) - Continuous profiling made easy in Kubernetes with profefe.
+- [Octant](https://github.com/vmware-tanzu/octant) - Web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+- [Kubernetes Dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters.
+- [Multi-tenancy](https://github.com/kubernetes-sigs/multi-tenancy) - Working place for multi-tenancy related proposals and prototypes.
+- [Kubevious](https://github.com/kubevious/kubevious) - Application centric Kubernetes UI.
+- [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. ([Examples](https://github.com/iximiuz/client-go-examples))
+- [Hubble](https://github.com/cilium/hubble) - Network, Service & Security Observability for Kubernetes.
+- [NATS Streaming Operator](https://github.com/nats-io/nats-streaming-operator) - Operator for managing NATS Streaming clusters running on Kubernetes.
+- [What is your favorite Kubernetes feature that nobody seems to know about? (2020)](https://www.reddit.com/r/kubernetes/comments/f9fque/what_is_your_favorite_kubernetes_feature_that/)
+- [Advanced Persistence Threats: The Future of Kubernetes Attacks (2020)](https://www.youtube.com/watch?v=CH7S5rE3j8w)
+- [Kubernetes Engine Samples](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples)
+- [How to use Open Virtual Networking with Kubernetes](https://github.com/ovn-org/ovn-kubernetes)
+- [RBACSYNC](https://github.com/cruise-automation/rbacsync) - Automatically sync groups into Kubernetes RBAC.
+- [Hub](https://github.com/cncf/hub) - Web-based application that enables finding, installing, and publishing packages and configurations for CNCF projects.
+- [apiserver](https://github.com/kubernetes/apiserver) - Library for writing a Kubernetes-style API server.
+- [Active-Monitor](https://github.com/keikoproj/active-monitor) - Kubernetes custom resource controller which enables deep cluster monitoring using Argo workflows.
+- [kube-capacity](https://github.com/robscott/kube-capacity) - Simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
+- [Kubelive](https://github.com/ameerthehacker/kubelive) - kubectl tool reinvented to be more reactive and interactive.
+- [Lens](https://github.com/lensapp/lens) - Kubernetes IDE. ([Web](https://k8slens.dev/))
+- [Rancher Kubernetes Engine (RKE)](https://github.com/rancher/rke) - Extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
+- [Prometheus Operator](https://github.com/coreos/prometheus-operator) - Creates/configures/manages Prometheus clusters atop Kubernetes.
+- [Rudr](https://github.com/oam-dev/rudr) - Kubernetes Implementation of the Open Application Model.
+- [k3sup](https://github.com/alexellis/k3sup) - Light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM.
+- [CRI-O](https://github.com/cri-o/cri-o) - OCI-based implementation of Kubernetes Container Runtime Interface.
+- [Linkerd](https://github.com/linkerd/linkerd2) - Service mesh for Kubernetes and beyond. ([Web](https://linkerd.io/))
+- [linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - World's best service mesh proxy.
+- [Predictive Horizontal Pod Autoscaler](https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler)
+- [Kubie](https://github.com/sbstp/kubie) - More powerful alternative to kubectx and kubens. ([Article](https://blog.sbstp.ca/introducing-kubie/))
+- [Crossplane](https://github.com/crossplane/crossplane) - Open source control plane to manage your infrastructure and applications the Kubernetes way. ([Web](https://crossplane.io/)) ([Runtime](https://github.com/crossplane/crossplane-runtime)) ([GitHub](https://github.com/crossplane))
+- [Terrajet](https://github.com/crossplane/terrajet) - Generate Crossplane Providers from any Terraform Provider.
+- [xgql](https://github.com/upbound/xgql) - GraphQL API for Crossplane.
+- [Upbound](https://www.upbound.io/) - Open source, production-ready, vendor-supported distribution of Crossplane.
+- [Kubernetes Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
+- [kube-prompt](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client featuring auto-complete.
+- [Kubernetes Custom Resource API Reference Docs generator](https://github.com/ahmetb/gen-crd-api-reference-docs)
+- [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service platform. It empowers you to provide or consume Kubernetes clusters at scale, on any platform or service provider.
+- [Anthos — Driving business agility and efficiency (2020)](https://cloud.google.com/blog/topics/anthos/anthos-for-aws-is-now-ga) ([HN](https://news.ycombinator.com/item?id=22951790))
+- [netshoot](https://github.com/nicolaka/netshoot) - Docker + Kubernetes network trouble-shooting swiss-army container.
+- [Domesticating Kubernetes: Kubernetes as home server on bare metal in 150 minutes (2020)](https://blog.quickbird.uk/domesticating-kubernetes-d49c178ebc41) ([HN](https://news.ycombinator.com/item?id=23040030))
+- [ktunnel](https://github.com/omrikiei/ktunnel) - Expose your local resources to kubernetes.
+- [Kubeletctl](https://github.com/cyberark/kubeletctl) - Client for kubelet.
+- [Coding a real-time dashboard for Kubernetes](https://learnk8s.io/real-time-dashboard)
+- [Build a Graph of Kubernetes API Objects in Go (2020)](https://cybernetist.com/2020/05/05/build-a-graph-of-kubernetes-api-objects-in-go/)
+- [Building a TODO API in Golang with Kubernetes (2020)](https://levelup.gitconnected.com/building-a-todo-api-in-golang-with-kubernetes-1ec593f85029)
+- [Permission manager](https://github.com/sighupio/permission-manager) - Enables a super-easy and user-friendly RBAC management for Kubernetes.
+- [kube-score](https://github.com/zegl/kube-score) - Tool that performs static code analysis of your Kubernetes object definitions.
+- [k3s](https://github.com/rancher/k3d) - Lightweight Kubernetes distribution by Rancher.
+- [10 common mistakes using kubernetes (2020)](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
+- [Goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right".
+- [Lokomotive](https://github.com/kinvolk/lokomotive) - Open source Kubernetes distribution that ships pure upstream Kubernetes.
+- [KFServing](https://github.com/kubeflow/kfserving) - Serverless Inferencing on Kubernetes.
+- [kube-backup](https://github.com/pieterlange/kube-backup) - Kubernetes resource state sync to git.
+- [Why is Kubernetes getting so popular? (2020)](https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/) ([HN](https://news.ycombinator.com/item?id=23354418))
+- [Sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization.
+- [microcks](https://github.com/microcks/microcks) - Kubernetes native tool for mocking and testing API and micro-services.
+- [Weave Kubernetes System Control - wksctl](https://github.com/weaveworks/wksctl) - Allows simple creation of a Kubernetes cluster given a set of IP addresses and an SSH key.
+- [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes.
+- [Kubernetes Metrics Server](https://github.com/kubernetes-sigs/metrics-server) - Scalable, efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+- [Source controller](https://github.com/fluxcd/source-controller) - Experimental source manager.
+- [Cluster API](https://github.com/kubernetes-sigs/cluster-api) - Kubernetes project to bring declarative, Kubernetes-style APIs to cluster creation, configuration, and management.
+- [Pulumi Kubernetes Resource Provider](https://github.com/pulumi/pulumi-kubernetes)
+- [aws-k8s-tester](https://github.com/aws/aws-k8s-tester) - Set of utilities and libraries for "testing" Kubernetes on AWS.
+- [Go FlagZ](https://github.com/mwitkow/go-flagz) - Dynamic, thread-safe flag variables that can be modified at runtime through etcd or Kubernetes.
+- [Argo CD](https://github.com/argoproj/argo-cd) - Declarative Continuous Delivery for Kubernetes. ([Example Apps](https://github.com/argoproj/argocd-example-apps))
+- [Kubernetes Basic Learning](https://github.com/knrt10/kubernetes-basicLearning) - Understand Kubernetes step by step. A simple repo for beginners.
+- [arkade](https://github.com/alexellis/arkade) - Kubernetes apps for developers.
+- [Continuous Deployment to Kubernetes with Gitea and Drone (2020)](https://christine.website/blog/drone-kubernetes-cd-2020-07-10)
+- [Lobsters: What has your experience with Kubernetes been like? (2020)](https://lobste.rs/s/kx1jj4/what_has_your_experience_with_kubernetes)
+- [Kubernetes External Secrets](https://github.com/godaddy/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes.
+- [A single-node Kubernetes cluster without virtualization or a container registry (2020)](https://notes.eatonphil.com/a-single-node-kubernetes-cluster-without-virtualization-or-a-container-registry.html)
+- [A Hacker’s Guide to Kubernetes Networking (2017)](https://thenewstack.io/hackers-guide-kubernetes-networking/)
+- [Multi-Cluster Kubernetes and Service Mesh Patterns (2020)](https://www.solo.io/blog/webinar-recap-multi-cluster-kubernetes-and-service-mesh-patterns/)
+- [Tools to use with the controller-runtime libraries](https://github.com/kubernetes-sigs/controller-tools)
+- [How to Create Ephemeral Environments using Crossplane and ArgoCD? (2020)](https://www.infracloud.io/blogs/how-to-create-ephemeral-environments-using-crossplane-and-argocd/)
+- [Gitpod](https://gitpod.io/) - Open-source Kubernetes application for automated and ready-to-code development environments that blends in your existing workflow. ([Article](https://www.gitpod.io/blog/opensource/)) ([Code](https://github.com/gitpod-io/gitpod)) ([Website Code](https://github.com/gitpod-io/website))
+- [HyScale](https://github.com/hyscale/hyscale) - Abstraction framework over Kubernetes. ([HN](https://news.ycombinator.com/item?id=24270669))
+- [Kubernetes: Make your services faster by removing CPU limits (2020)](https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/) ([HN](https://news.ycombinator.com/item?id=24351566))
+- [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS.
+- [Kubernetes YAML Generator](https://k8syaml.com/) ([HN](https://news.ycombinator.com/item?id=24419441))
+- [What we learned after a year on Kubernetes (2020)](https://about.gitlab.com/blog/2020/09/16/year-of-kubernetes/) ([HN](https://news.ycombinator.com/item?id=24498108)) ([Tweet](https://twitter.com/benskuhn/status/1306379191772946432))
+- [Awesome Kubernetes Resources](https://github.com/tomhuang12/awesome-k8s-resources)
+- [Reducing AWS data transfer cost — Going Multi-AZ to Single-AZ Kubernetes (2020)](https://lambda.grofers.com/reducing-aws-data-transfer-cost-kubernetes-from-multi-az-to-single-az-341d890553b6)
+- [kube-events-exporter](https://github.com/rhobs/kube-events-exporter) - Kubernetes events aggregator and exporter.
+- [Structured Merge and Diff](https://github.com/kubernetes-sigs/structured-merge-diff) - Test cases for Kubernetes "apply" operation.
+- [kubecolor](https://github.com/dty1er/kubecolor) - Colorize your kubectl output.
+- [MicroK8s](https://github.com/ubuntu/microk8s) - Small, fast, single-package Kubernetes for developers, IoT and edge. ([Web](https://microk8s.io/)) ([HN](https://news.ycombinator.com/item?id=24786646)) ([HN](https://news.ycombinator.com/item?id=27916178))
+- [Evolution of k8s worker nodes (2020)](https://thechief.io/c/abvijaykumar/evolution-k8s-worker-nodes/)
+- [Kiali](https://kiali.io/) - Service mesh observability and configuration. ([Kiali Operator](https://github.com/kiali/kiali-operator)) ([Kiali Front End](https://github.com/kiali/kiali-ui))
+- [KubeVirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines. ([Web](https://kubevirt.io/)) ([HN](https://news.ycombinator.com/item?id=27205617))
+- [Cluster Turndown](https://github.com/kubecost/cluster-turndown) - Automated turndown of Kubernetes clusters on specific schedules.
+- [Kubernetes Enhancements](https://github.com/kubernetes/enhancements)
+- [kubeaudit](https://github.com/Shopify/kubeaudit) - Command line tool and a Go package to audit Kubernetes clusters for various different security concerns.
+- [CustomResourceDefinitions Automatic Docs](https://doc.crds.dev/) ([Code](https://github.com/crdsdev/doc))
+- [Modernizing the Tech Stack for a B2B SaaS Product Running on Bare Metal (2020)](https://www.aislelabs.com/blog/2020/10/23/modernizing-the-tech-stack-for-a-b2b-saas-product-running-on-bare-metal/)
+- [BotKube](https://github.com/infracloudio/botkube) - App that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices. ([Docs](https://www.botkube.io/))
+- [Isopod](https://github.com/cruise-automation/isopod) - Expressive DSL and framework for Kubernetes configuration without YAML.
+- [Starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security tool kit.
+- [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark.
+- [kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters.
+- [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can) - Show who has RBAC permissions to perform actions on different resources in Kubernetes.
+- [kOps](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management.
+- [KubeLinter](https://github.com/stackrox/kube-linter) - Static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
+- [Gardener](https://github.com/gardener/gardener) - Deliver fully-managed clusters at scale everywhere with your own Kubernetes-as-a-Service. ([Web](https://gardener.cloud/))
+- [kraan](https://github.com/fidelity/kraan) - Building platforms on top of K8s. Helps you deploy and manage 'layers' on top of kubernetes.
+- [Certified Kubernetes Security Specialist resources](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
+- [Managing my personnal servers in 2020 with K3s](https://github.com/erebe/personal-server) ([HN](https://news.ycombinator.com/item?id=25001789)) ([Lobsters](https://lobste.rs/s/zopjay/managing_my_personal_server_2020))
+- [stern](https://github.com/stern/stern) - Multi pod and container log tailing for Kubernetes.
+- [Kubectl Code](https://github.com/kubernetes/kubectl)
+- [Sourcegraph on Kubernetes](https://github.com/sourcegraph/deploy-sourcegraph) - Deploy Sourcegraph to a Kubernetes cluster for large-scale code search and intelligence.
+- [Red Team KubeCTL Cheat Sheet](https://github.com/lightspin-tech/red-kube)
+- [Move2Kube](https://github.com/konveyor/move2kube) - Command-line tool that accelerates the process of re-platforming to Kubernetes/Openshift.
+- [Knatify](https://github.com/markusthoemmes/knatify) - Tool (or set of tools) that make it dead simple to migrate existing Kubernetes deployments into Knative Services.
+- [k0s](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes. ([HN](https://news.ycombinator.com/item?id=25117451))
+- [Headlamp](https://github.com/kinvolk/headlamp) - Easy-to-use and extensible Kubernetes web UI. ([Web](https://kinvolk.io/)) ([HN](https://news.ycombinator.com/item?id=25118870))
+- [kube-rs](https://github.com/clux/kube-rs) - Kubernetes client and futures controller runtime.
+- [Cloud Development Kit for Kubernetes](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming. ([Web](https://cdk8s.io/))
+- [How to get started contributing to Kubernetes (2020)](https://twitter.com/dims/status/1329400522890219520)
+- [BuildKit CLI for kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl) - Tool for building container images with your Kubernetes cluster.
+- [KubeVela](https://github.com/oam-dev/kubevela) - Easy-to-use tool that enables them to describe and ship their applications to Kubernetes with minimal effort. ([Docs](https://kubevela.io/#/en/quick-start))
+- [Swoll](https://github.com/criticalstack/swoll) - Suite of applications and APIs for monitoring kernel-level activity on a live Kubernetes cluster.
+- [illuminatio](https://github.com/inovex/illuminatio) - Tool for automatically testing kubernetes network policies.
+- [Metacontroller](https://github.com/metacontroller/metacontroller) - Add-on for Kubernetes that makes it easy to write and deploy custom controllers in the form of simple scripts.
+- [Karpenter](https://github.com/awslabs/karpenter) - Metrics-driven autoscaler built for Kubernetes and can run in any Kubernetes cluster anywhere.
+- [Kubectl Tricks](https://kuber.host/docs/kubectl_tricks)
+- [Kuber](https://kuber.host/) - Managed Kubernetes Cloud.
+- [Kubernetes Website Code](https://github.com/kubernetes/website)
+- [Open Service Mesh (OSM)](https://github.com/openservicemesh/osm) - Lightweight, extensible, Cloud Native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments. ([Web](https://openservicemesh.io/))
+- [A better Kubernetes from the ground up (2020)](https://blog.dave.tf/post/new-kubernetes/) ([HN](https://news.ycombinator.com/item?id=25243159)) ([Lobsters](https://lobste.rs/s/x2e6q5/better_kubernetes_from_ground_up))
+- [Bootstrap OpenFaaS Cloud for your team](https://github.com/openfaas/ofc-bootstrap)
+- [Kubernetes Examples](https://github.com/kubernetes/examples) - Contains a number of examples of how to run real applications with Kubernetes.
+- [k8s-openapi](https://github.com/Arnavion/k8s-openapi) - Rust bindings for the Kubernetes client API.
+- [Helm Chart Testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts.
+- [Amazon EKS Distro](https://github.com/aws/eks-distro) - Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
+- [Virtual Kubelet Provider for Systemd](https://github.com/miekg/vks)
+- [Isovalent](https://isovalent.com/) - eBPF-powered Cloud Native Networking & Security. ([GitHub](https://github.com/isovalent))
+- [Kubernetes Python Client](https://github.com/kubernetes-client/python)
+- [AWS Controllers for Kubernetes (ACK)](https://github.com/aws/aws-controllers-k8s) - Lets you define and use AWS service resources directly from Kubernetes.
+- [Learnings From Two Years of Kubernetes in Production (2020)](https://lambda.grofers.com/learnings-from-two-years-of-kubernetes-in-production-b0ec21aa2814)
+- [localizer](https://github.com/jaredallard/localizer) - No-frills local development tool for service developers working in Kubernetes.
+- [Velero](https://velero.io/) - Backup and migrate Kubernetes resources and persistent volumes. ([Code](https://github.com/vmware-tanzu/velero))
+- [kured](https://github.com/weaveworks/kured) - Kubernetes Reboot Daemon.
+- [version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for observing the current versions of images running in the cluster, as well as the latest available upstream.
+- [Octopod](https://github.com/typeable/octopod) - Open-source self-hosted solution for managing multiple deployments in a Kubernetes cluster in a user-friendly web interface.
+- [Argo Events](https://github.com/argoproj/argo-events) - Event-driven Workflow Automation Framework. ([Docs](https://argoproj.github.io/argo-events/))
+- [Pixie](https://pixielabs.ai/) - Kubernetes Monitoring, Application Debug Platform. ([Code](https://github.com/pixie-labs/pixie))
+- [Kubermatic](https://www.kubermatic.com/) - Enterprise Kubernetes Platform & Automated Multi-cloud Operations. ([Code](https://github.com/kubermatic/kubermatic))
+- [Kubelet Deep Dive: Writing a Kubelet in Rust (2020)](https://www.youtube.com/watch?v=idMf865wwD8)
+- [Image Builder](https://github.com/kubernetes-sigs/image-builder) - Cross provider Kubernetes image building utility.
+- [Kubernetes Template Project](https://github.com/kubernetes/kubernetes-template-project)
+- [kube-vip](https://github.com/plunder-app/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer.
+- [Akri](https://github.com/deislabs/akri) - Kubernetes Resource Interface for the Edge. ([Akri a Year Later](https://deislabs.io/posts/akri-a-year-later/))
+- [KubeEdge](https://kubeedge.io/en/) - Kubernetes Native Edge Computing Framework. ([Code](https://github.com/kubeedge/kubeedge))
+- [Picking a Kubernetes Orchestrator: Airflow, Argo, and Prefect (2020)](https://medium.com/arthur-engineering/picking-a-kubernetes-orchestrator-airflow-argo-and-prefect-83539ecc69b) ([HN](https://news.ycombinator.com/item?id=25455896))
+- [Operator SDK](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. ([Web](https://sdk.operatorframework.io/))
+- [Kubectl Sheetcheat](https://github.com/eon01/kubectl-SheetCheat)
+- [Gentle introduction to Kubernetes](https://github.com/eon01/kubernetes-workshop)
+- [Kubernetes is a container orchestration system, but that's not the point (2020)](https://nikhiljha.com/posts/kubernetes-intro/) ([Lobsters](https://lobste.rs/s/xdcrsa/kubernetes_is_container_orchestration))
+- [helm-docs](https://github.com/norwoodj/helm-docs) - Tool for automatically generating markdown documentation for helm charts.
+- [Kubecost](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes. ([Web](https://kubecost.com/)) ([GitHub](https://github.com/kubecost))
+- [Kubernetes Pondering (2020)](https://christine.website/blog/k8s-pondering-2020-12-31) ([Lobsters](https://lobste.rs/s/avqtvh/kubernetes_pondering))
+- [Accelerated Feedback Loops when Developing for Kubernetes with Conftest (2020)](https://reese.dev/accelerated-feedback-loops-when/)
+- [kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
+- [kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kuberntes yaml and json output to make it readable.
+- [Writing a Kubernetes CRD Controller in Rust (2019)](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html) ([HN](https://news.ycombinator.com/item?id=25704250))
+- [Lifting Developers’ Productivity with BuildKit CLI for kubectl (2021)](https://container-registry.com/posts/productivity-lift-buildkit-cli-for-kubectl/)
+- [ekz](https://github.com/chanwit/ekz) - EKS-D Kubernetes distribution for desktop.
+- [kustomize-controller](https://github.com/fluxcd/kustomize-controller) - Kubernetes operator, specialized in running continuous delivery pipelines for infrastructure and workloads defined with Kubernetes manifests and assembled with Kustomize.
+- [faas-netes](https://github.com/openfaas/faas-netes) - Kubernetes controller for OpenFaaS.
+- [Weave Scope](https://github.com/weaveworks/scope) - Troubleshooting & Monitoring for Docker & Kubernetes. ([Web](https://www.weave.works/oss/scope/))
+- [Kubernetes on Rails](https://kubernetesonrails.com/) - Premium training course to get you up-to-speed on deploying web applications using Kubernetes.
+- [apimachinery](https://github.com/kubernetes/apimachinery) - Scheme, typing, encoding, decoding, and conversion packages for Kubernetes and Kubernetes-like API objects.
+- [Marblerun](https://github.com/edgelesssys/marblerun) - Service mesh for confidential computing. Deploy, scale, and verify your confidential microservices on vanilla Kubernetes. 100% Go, 100% cloud native. ([Web](https://marblerun.sh/))
+- [Awesome Kubernetes Operators](https://github.com/operator-framework/awesome-operators)
+- [Suspicious pods](https://github.com/edrevo/suspicious-pods) - Prints a list of k8s pods that might not be working correctly.
+- [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - Intentionally vulnerable cluster environment to learn and practice Kubernetes security. ([Web](https://madhuakula.com/kubernetes-goat/about.html))
+- [Carvel](https://carvel.dev/) - Provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes.
+- [Kube-router](https://github.com/cloudnativelabs/kube-router) - Turnkey solution for Kubernetes networking with aim to provide operational simplicity and high performance. ([Web](https://www.kube-router.io/))
+- [cuebectl](https://github.com/cuebernetes/cuebectl) - Truly declarative kubernetes manifests via cuelang.
+- [Certified Kubernetes Security Specialist Study Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide)
+- [K3s Private Cluster](https://github.com/sagittaros/terraform-k3s-private-cloud) - Deploy full fledged K3s private clusters with Terraform.
+- [Scaling Kubernetes to 7,500 Nodes (2021)](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/) ([HN](https://news.ycombinator.com/item?id=25907312))
+- [Kubernetes API Visualized (2021)](https://twitter.com/iximiuz/status/1353045442087571456)
+- [Swift K8s Service Discovery](https://github.com/tuplestream/swift-k8s-service-discovery) - Discover pods of interest in a Kubernetes cluster as they become available.
+- [k8dash](https://github.com/indeedeng/k8dash) - Simple Kubernetes real time dashboard and management.
+- [Flux](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit. ([Web](https://fluxcd.io/))
+- [How to get to speak at KubeCon (2020)](https://blog.alexellis.io/how-to-speak-at-kubecon/)
+- [EdgeNet](https://edge-net.org/) - Kubernetes adapted for the network edge. It allows you to deploy applications to hundreds of nodes that are scattered across the internet. ([Code](https://github.com/EdgeNet-project/edgenet))
+- [Rancher](https://rancher.com/) - Enterprise Kubernetes Management. ([Website Code](https://github.com/rancher/ui)) ([GitHub](https://github.com/rancher))
+- [Kosko](https://kosko.dev/) - Organize Kubernetes manifests in JavaScript. ([Code](https://github.com/tommy351/kosko))
+- [sample-apiserver](https://github.com/kubernetes/sample-apiserver) - Demonstration of how to use the k8s.io/apiserver library to build a functional API server.
+- [Kubernetes 101 series retrospective, and a new book (2021)](https://www.jeffgeerling.com/blog/2021/kubernetes-101-series-retrospective-and-new-book)
+- [Kubernetes, Pods, Kubernetes Pod Concepts (2021)](https://releaseapp.io/blog/kubernetes-pods-advanced-concepts-explained)
+- [Helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot.
+- [GetIstio](https://github.com/tetratelabs/getistio) - Integration, and lifecycle management CLI tool that ensures the use of supported and trusted versions of Istio.
+- [Kubernetes Internals](https://github.com/shubheksha/kubernetes-internals) - Collection of resources that discuss the inner workings of Kubernetes.
+- [Serverless Kubernetes (2021)](https://cto.ai/blog/announcing-cto-ai-kubernetes-paas/) ([HN](https://news.ycombinator.com/item?id=26170612))
+- [monokube](https://github.com/stevelacy/monokube) - Monorepo deployment manager for k8s.
+- [A Kubernetes User's Guide to HashiCorp Nomad (2021)](https://www.hashicorp.com/blog/a-kubernetes-user-s-guide-to-hashicorp-nomad)
+- [GKE Autopilot: an nodeless and elastic Kubernetes cluster mode (2021)](https://cloud.google.com/blog/products/containers-kubernetes/introducing-gke-autopilot) ([HN](https://news.ycombinator.com/item?id=26252317))
+- [Google admits Kubernetes container tech is too complex (2021)](https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/) ([HN](https://news.ycombinator.com/item?id=26271470))
+- [Take a look at Nomad before jumping on Kubernetes (2021)](https://atodorov.me/2021/02/27/why-you-should-take-a-look-at-nomad-before-jumping-on-kubernetes/) ([HN](https://news.ycombinator.com/item?id=26291975))
+- [K8GB](https://www.k8gb.io/) - Kubernetes Global Balancer. ([Code](https://github.com/AbsaOSS/k8gb))
+- [Kubernetes Networking Book](https://www.oreilly.com/library/view/kubernetes-networking/9781492081647/) - Guide for anyone who wants to deploy, manage, or troubleshoot a production scale Kubernetes network.
+- [Jetstack Preflight](https://github.com/jetstack/preflight) - Automatically perform Kubernetes cluster configuration checks using Open Policy Agent (OPA).
+- [Argo Rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes.
+- [Exploring Kubernetes Operator Pattern (2021)](https://iximiuz.com/en/posts/kubernetes-operator-pattern/)
+- [kube-fledged](https://github.com/senthilrch/kube-fledged) - Kubernetes add-on for creating and managing a cache of container images directly on the worker nodes of a kubernetes cluster.
+- [Awesome Kubernetes Security](https://github.com/magnologan/awesome-k8s-security)
+- [Porter](https://www.getporter.dev/) - Fully-managed PaaS that lets teams automate DevOps. Deploy and manage apps within AWS, GCP, DO, and more. ([Code](https://github.com/porter-dev/porter)) ([Dashboard](https://dashboard.getporter.dev/login))
+- [Learnk8s](https://learnk8s.io/) - Kubernetes training company.
+- [Kubernetes deployment strategies explained](https://github.com/ContainerSolutions/k8s-deployment-strategies) ([Article](https://blog.container-solutions.com/kubernetes-deployment-strategies))
+- [kubectl-cost](https://github.com/kubecost/kubectl-cost) - CLI for determining the cost of Kubernetes workloads.
+- [Capsule](https://github.com/clastix/capsule) - Kubernetes Operator for multi-tenancy.
+- [Wrangler](https://github.com/rancher/wrangler) - Framework for wrapping clients, informers, listers into a simple usable controller pattern that promotes some good practices.
+- [Longhorn](https://longhorn.io/) - Cloud native distributed block storage for Kubernetes. ([Code](https://github.com/longhorn/longhorn))
+- [Kubernetes README](https://kubernetesreadme.com/) - What to Read to Learn More About Kubernetes. ([Code](https://github.com/chris-short/kubernetesreadme.com))
+- [Oxidizing the Kubernetes operator](https://www.pavel.cool/rust/rust-kubernetes-operators/)
+- [A detailed guide to SSO on Kubernetes](http://www.talkingquickly.co.uk/kubernetes-sso-a-detailed-guide) ([HN](https://news.ycombinator.com/item?id=26709628))
+- [KubePlus](https://github.com/cloud-ark/kubeplus) - CRD for CRDs to design multi-tenant platform services from Helm charts.
+- [Kubectl build](https://github.com/kvaps/kubectl-build) - Build dockerfiles directly in your Kubernetes cluster.
+- [KDash](https://github.com/kdash-rs/kdash) - Fast and simple dashboard for Kubernetes.
+- [Liqo](https://liqo.io/) - Platform to enable dynamic and decentralized resource sharing across Kubernetes clusters, either on-prem or managed. ([Code](https://github.com/liqotech/liqo))
+- [Exploring the Kubernetes API with Curl (2021)](https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html) ([HN](https://news.ycombinator.com/item?id=26800094))
+- [kubesql](https://github.com/Dentrax/kubesql) - Experimental tool to query K8s API using plain SQL.
+- [Tilt](https://tilt.dev/) - Multi-service dev environment for teams on Kubernetes. ([Code](https://github.com/tilt-dev/tilt))
+- [Datree](https://www.datree.io/) - Prevent Kubernetes misconfigurations. ([Code](https://github.com/datreeio/datree)) ([HN](https://news.ycombinator.com/item?id=28918850))
+- [AutoK3s](https://github.com/cnrancher/autok3s) - Fully certified Kubernetes offering, it can replace the "full-fat" K8s in some cases.
+- [Scaling Kubernetes with Assurance at Pinterest (2021)](https://medium.com/pinterest-engineering/scaling-kubernetes-with-assurance-at-pinterest-a23f821168da)
+- [Admission Control](https://github.com/elithrar/admission-control) - Helpful micro-framework for writing Kubernetes Admission Controllers.
+- [DirectCSI](https://github.com/minio/direct-csi) - Container Storage Interface (CSI) driver for direct attached storage.
+- [Karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration. ([HN](https://news.ycombinator.com/item?id=26951940))
+- [Fleet](https://github.com/rancher/fleet) - Manage large fleets of Kubernetes clusters.
+- [Prow](https://github.com/kubernetes/test-infra/tree/master/prow) - Kubernetes based CI/CD system.
+- [Fluent Bit Operator](https://github.com/kubesphere/fluentbit-operator)
+- [Devtron](https://devtron.ai/) - Software Delivery Workflow For Kubernetes. ([Code](https://github.com/devtron-labs/devtron))
+- [Native Kubernetes Continuous Delivery (2021)](https://www.reddit.com/r/kubernetes/comments/n2jy7f/native_kubernetes_continuous_delivery/)
+- [Rio](https://rio.io/) - Application Deployment Engine for Kubernetes. ([Code](https://github.com/rancher/rio))
+- [kim](https://github.com/rancher/kim) - Kubernetes Image Manager.
+- [node-disk-manager](https://github.com/openebs/node-disk-manager) - Kubernetes Storage Device Management.
+- [kcp](https://github.com/kcp-dev/kcp) - Minimal Kubernetes API server.
+- [Open Source funding, Kim and Rancher Desktop with Matt Farina (2021)](https://www.youtube.com/watch?v=l9j45bvv7Rk)
+- [Bare Metal Operator](https://github.com/metal3-io/baremetal-operator) - Bare metal host provisioning integration for Kubernetes.
+- [Ask HN: What do you think will come after Kubernetes? (2021)](https://news.ycombinator.com/item?id=27155526)
+- [Pinniped](https://github.com/vmware-tanzu/pinniped) - Easy, secure way to log in to your Kubernetes clusters. ([Web](https://pinniped.dev/))
+- [vcluster](https://github.com/loft-sh/vcluster) - Virtual Clusters For Kubernetes. ([Web](https://www.vcluster.com/))
+- [loft](https://loft.sh/) - Namespaces & Virtual Kubernetes Clusters For Engineering Teams. ([GitHub](https://github.com/loft-sh))
+- [Kubernetes Examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML. ([Web](https://k8s-examples.container-solutions.com/))
+- [How a Kubernetes Pod Gets an IP Address (2020)](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)
+- [Epinio](https://epinio.io/) - Opinionated platform that runs on Kubernetes and takes you from App to URL in one step. ([Code](https://github.com/epinio/epinio))
+- [Cyclonus](https://github.com/mattfenwick/cyclonus) - Tools for understanding, measuring, and applying network policies effectively in kubernetes.
+- [Kubernetes: The Universal Control Plane (2020)](https://blog.cedriccharly.com/post/20200426-kubernetes-the-universal-control-plane/)
+- [Falcosidekick](https://github.com/falcosecurity/falcosidekick) - Simple daemon to help you with Falco's outputs.
+- [Architecting Kubernetes clusters — choosing the best autoscaling strategy (2021)](https://learnk8s.io/kubernetes-autoscaling-strategies)
+- [netramesh](https://github.com/avito-tech/netramesh) - Ultra light service mesh for any orchestrator.
+- [Kubernetes and Docker - An Enterprise Guide (2020)](https://www.packtpub.com/product/kubernetes-and-docker-an-enterprise-guide/9781839213403) ([Code](https://github.com/PacktPublishing/Kubernetes-and-Docker-The-Complete-Guide))
+- [naml](https://github.com/kris-nova/naml) - Not another markup language. Framework for replacing Kubernetes YAML with Go.
+- [Calico](https://github.com/projectcalico/calico) - Open-source networking and security solution for Kubernetes. ([Web](https://www.projectcalico.org/))
+- [Sidero](https://www.sidero.dev/) - Bare metal provisioning system with support for Kubernetes Cluster API. ([Code](https://github.com/talos-systems/sidero))
+- [Orkestra](https://github.com/Azure/orkestra) - Cloud-native release orchestration and lifecycle management (LCM) platform for the fine-grained orchestration of inter-dependent helm charts and their dependencies.
+- [Treat Kubernetes clusters as cattle, not pets (2021)](https://zitadel.ch/blog/treat-clusters-as-cattle/) ([HN](https://news.ycombinator.com/item?id=27688203))
+- [Everything useful I know about kubectl](https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/) ([HN](https://news.ycombinator.com/item?id=27737064))
+- [Deckhouse Platform](https://github.com/deckhouse/deckhouse) - Operator which creates homogeneous Kubernetes clusters anywhere and fully manages them.
+- [Shell-operator](https://github.com/flant/shell-operator) - Tool for running event-driven scripts in a Kubernetes cluster.
+- [Kadalu Storage](https://kadalu.io/) - Lightweight Persistent storage solution for Kubernetes / OpenShift using GlusterFS in background. ([Code](https://github.com/kadalu/kadalu))
+- [SuperEdge](https://superedge.io/) - Open-source container management system for edge computing. It extends native Kubernetes to the edge in a non-intrusive way. ([Code](https://github.com/superedge/superedge))
+- [Krane](https://github.com/appvia/krane) - Kubernetes RBAC static Analysis & visualisation tool.
+- [We don’t use Kubernetes (2021)](https://ably.com/blog/no-we-dont-use-kubernetes) ([HN](https://news.ycombinator.com/item?id=27893482))
+- [KEDA](https://keda.sh/) - Kubernetes Event-driven Autoscaling. ([Code](https://github.com/kedacore/keda))
+- [E2E Framework](https://github.com/kubernetes-sigs/e2e-framework) - Experimental Go framework for E2E testing of Kubernetes cluster components.
+- [DevSpace](https://devspace.sh/) - Fastest Developer Tool for Kubernetes. ([Code](https://github.com/loft-sh/devspace))
+- [KubeArmor](https://kubearmor.com/) - Container-aware Runtime Security Enforcement System. ([Code](https://github.com/kubearmor/KubeArmor))
+- [External Secrets](https://github.com/external-secrets/external-secrets) - Kubernetes operator reads information from a third party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. ([Docs](https://external-secrets.io/))
+- [NSA Kubernetes Hardening Guidance (2021)](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF) ([HN](https://news.ycombinator.com/item?id=28050750)) ([HN](https://news.ycombinator.com/item?id=30692794))
+- [Two year update: Building an Open Source Marketplace for Kubernetes (2021)](https://blog.alexellis.io/kubernetes-marketplace-two-year-update/)
+- [Tools to Run Kubernetes Locally (2021)](https://yankee.dev/6-tools-to-run-kubernetes-locally) ([HN](https://news.ycombinator.com/item?id=28085741))
+- [Kanister](https://kanister.io/) - Extensible framework for application-level data management on Kubernetes. ([Code](https://github.com/kanisterio/kanister))
+- [A Deep Dive into Kubernetes External Traffic Policies (2018)](https://www.asykim.com/blog/deep-dive-into-kubernetes-external-traffic-policies)
+- [KUR8](https://github.com/oslabs-beta/KUR8) - Visual overview of Kubernetes architecture and Prometheus metrics.
+- [Harbormaster](https://gitlab.com/stavros/harbormaster) - Anti-Kubernetes for your personal server. ([HN](https://news.ycombinator.com/item?id=28231747))
+- [KubeSurvival](https://github.com/aporia-ai/kubesurvival) - Significantly reduce Kubernetes costs by finding the cheapest machine types that can run your workloads.
+- [A Kubernetes engineer's guide to mTLS (2021)](https://buoyant.io/mtls-guide/)
+- [Awesome Home Kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home.
+- [Civo Kubernetes](https://www.civo.com/) - Fast, Simple, Managed Kubernetes Service. ([GitHub](https://github.com/civo)) ([CLI](https://github.com/civo/cli))
+- [The Guide to Kubernetes Labels](https://blog.kubecost.com/blog/kubernetes-labels/) ([HN](https://news.ycombinator.com/item?id=28384121))
+- [Chart Releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases.
+- [Kubescape](https://github.com/armosec/kubescape) - First tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA. ([HN](https://news.ycombinator.com/item?id=28419103))
+- [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator) ([Code](https://github.com/learnk8s/kubernetes-instance-calculator-data))
+- [A visual guide on troubleshooting Kubernetes deployments (2021)](https://learnk8s.io/troubleshooting-deployments) ([Tweet](https://twitter.com/manekinekko/status/1434808198532370432))
+- [Kalm](https://github.com/kalmhq/kalm) - Ready to use internal tools for your Kubernetes cluster. ([Web](https://kalm.dev/))
+- [Kubernetes Best Practices 101](https://github.com/diegolnasc/kubernetes-best-practices)
+- [Shipwright](https://github.com/shipwright-io/build) - Extensible framework for building container images on Kubernetes.
+- [Kustomizer](https://github.com/stefanprodan/kustomizer) - Build, diff, apply, prune command-line utility for Kubernetes manifests and Kustomize overlays. Powered by Kubernetes server-side apply. ([Web](https://kustomizer.dev/))
+- [Flannel](https://github.com/flannel-io/flannel) - Simple and easy way to configure a layer 3 network fabric designed for Kubernetes.
+- [Kratix](https://github.com/syntasso/kratix) - Framework for building platforms on Kubernetes.
+- [Colima](https://github.com/abiosoft/colima) - Docker (and Kubernetes) on macOS with minimal setup.
+- [k8s-vault-webhook](https://github.com/OT-CONTAINER-KIT/k8s-vault-webhook) - Kubernetes webhook that can inject secrets into Kubernetes resources by connecting to multiple secret managers.
+- [kubeapply](https://github.com/segmentio/kubeapply) - Lightweight tool for git-based management of Kubernetes configs.
+- [Learning Kubernetes](https://github.com/codeaprendiz/kubernetes-kitchen)
+- [Kubernetes Control Plane with keepalived](https://github.com/clastix/kubelived)
+- [snoopy-operator](https://github.com/fennec-project/snoopy-operator) - Cloud Native Way for Pod Deep Inspection.
+- [Data scientists shouldn’t need to know Kubernetes (2021)](https://huyenchip.com/2021/09/13/data-science-infrastructure.html) ([HN](https://news.ycombinator.com/item?id=28649508))
+- [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering.
+- [Telepresence](https://github.com/telepresenceio/telepresence) - Fast, efficient local development for Kubernetes microservices. ([Web](https://www.telepresence.io/))
+- [Peirates](https://github.com/inguardians/peirates) - Kubernetes Penetration Testing tool. ([Web](https://www.inguardians.com/peirates/))
+- [Kangal](https://github.com/hellofresh/kangal) - Run performance tests in Kubernetes cluster with Kangal.
+- [KinK](https://github.com/Trendyol/kink) - Helper CLI that facilitates to manage KinD clusters as Kubernetes pods.
+- [hedge](https://github.com/flowerinthenight/hedge) - Distributed systems library for Kubernetes deployments built on top of spindle and Cloud Spanner.
+- [Tanzu Community Edition](https://github.com/vmware-tanzu/community-edition) - Fully-featured, easy to manage, Kubernetes platform for learners and users. ([Web](https://tanzucommunityedition.io/))
+- [Tanzu Framework](https://github.com/vmware-tanzu/tanzu-framework) - Set of building blocks to build atop of the Tanzu platform.
+- [Rancher Desktop](https://github.com/rancher-sandbox/rancher-desktop) - Open-source project to bring Kubernetes and container management to the desktop. ([Web](https://rancherdesktop.io/)) ([HN](https://news.ycombinator.com/item?id=28835690))
+- [Kubernetes Pod Inspector](https://github.com/wangjia184/pod-inspector)
+- [Deploy NATS on Kubernetes with Helm Charts](https://github.com/nats-io/k8s)
+- [kx](https://github.com/onatm/kx) - Interactively switch between kubernetes contexts without any external dependencies.
+- [Local Path Provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes.
+- [Cartographer](https://github.com/vmware-tanzu/cartographer) - Kubernetes native Choreographer. Allows users to configure K8s resources into re-usable Supply Chains that can be used to define all of the stages that an Application Workload must go through to get to an environment.
+- [Road to Secure Kubernetes](https://github.com/nsmith5/road-to-secure-kubernetes) - Tutorial on security hardening a containerized workload in Kubernetes.
+- [Kubernetes RBAC](https://github.com/alcideio/rbac-tool)
+- [Carina](https://github.com/carina-io/carina) - High performance and ops-free local storage for kubernetes.
+- [Kube-queue](https://github.com/kube-queue/kube-queue) - Designed to manage AI/ML and batch workloads in Kubernetes.
+- [KuberLogic](https://github.com/kuberlogic/kuberlogic) - Open-source platform that deploys and manages software on top of the Kubernetes cluster and turns infrastructure into a managed PaaS.
+- [Nomad vs. Kubernetes](https://www.nomadproject.io/docs/nomad-vs-kubernetes) ([HN](https://news.ycombinator.com/item?id=28875764))
+- [Inspektor Gadget](https://github.com/kinvolk/inspektor-gadget) - Collection of gadgets for debugging and introspecting Kubernetes applications using BPF.
+- [nfproxy](https://github.com/sbezverk/nfproxy) - Provide high performance and scalable kubernetes proxy supporting both ipv4 and ipv6.
+- [Rancher Webhook](https://github.com/rancher/webhook) - Validating admission webhook and mutating admission webhook for Kubernetes.
+- [Kubernetes cleanup](https://github.com/onfido/k8s-cleanup)
+- [Civo Kubernetes Marketplace](https://github.com/civo/kubernetes-marketplace) - Marketplace of Kubernetes applications available for quick and easy installation in to Civo Kubernetes clusters.
+- [Sieve](https://github.com/sieve-project/sieve) - Automated, Distributed Systems Testing for Kubernetes Controllers.
+- [Armada](https://github.com/G-Research/armada) - Multi-cluster batch queuing system for high-throughput workloads on Kubernetes. ([Web](https://armadaproject.io/))
+- [Automatically generated secrets for Kubernetes](https://github.com/mittwald/kubernetes-secret-generator) - Kubernetes controller for automatically generating and updating secrets.
+- [Buildpacks in a Pod](https://github.com/imjasonh/buildpack-in-a-pod) - Demonstrates running CNCF Buildpacks in a regular Kubernetes Pod.
+- [Networking and Kubernetes Book (2021)](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/) ([Twitter](https://twitter.com/NetworkAndK8s))
+- [Kubeconform](https://github.com/yannh/kubeconform) - Kubernetes manifests validation tool. Build it into your CI to validate your Kubernetes configuration.
+- [policy-server](https://github.com/kubewarden/policy-server) - Webhook server that evaluates WebAssembly policies to validate Kubernetes requests.
+- [Descheduler for Kubernetes](https://github.com/kubernetes-sigs/descheduler)
+- [Kubernetes in Action Book (2021)](https://www.manning.com/books/kubernetes-in-action-second-edition)
+- [Autocert](https://github.com/smallstep/autocert) - Kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers.
+- [Step Issuer](https://github.com/smallstep/step-issuer) - Certificate issuer for cert-manager using step certificates CA.
+- [Service Discovery in Kubernetes - Combining the Best of Two Worlds (2021)](https://iximiuz.com/en/posts/service-discovery-in-kubernetes/)
+- [LINSTOR](https://github.com/LINBIT/linstor-server) - High Performance Software-Defined Block Storage for container, cloud and virtualisation. Fully integrated with Docker, Kubernetes, Openstack, Proxmox etc.
+- [Piraeus Operator](https://github.com/piraeusdatastore/piraeus-operator) - Manages LINSTOR clusters in Kubernetes.
+- [pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes.
+- [kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) - Split Kubernetes YAMLs into files.
+- [kVDI](https://github.com/kvdi/kvdi) - Virtual Desktop Infrastructure running on Kubernetes.
+- [kubectl-select](https://github.com/n3wscott/kubectl-select) - kubectl extension to select from local config.
+- [Operator Lifecycle Manager](https://github.com/operator-framework/operator-lifecycle-manager) - Management framework for extending Kubernetes with Operators.
+- [k](https://github.com/rothgar/k) - Experimental wrapper for kubectl.
+- [kube-green](https://github.com/davidebianchi/kube-green) - Make your k8s clusters more green.
+- [Flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments). ([Web](https://flagger.app/))
+- [Hadron](https://github.com/hadron-project/hadron) - The Kubernetes native and CloudEvents native distributed event streaming, event orchestration & messaging platform.
+- [Caelus](https://github.com/Tencent/caelus) - Set of Kubernetes solutions for reusing idle resources of nodes by running extra batch jobs.
+- [Tricks](https://github.com/vitorenesduarte/tricks) - Run experiments effortlessly on top of Kubernetes.
+- [Sunstone](https://about.sunstone.dev/) - Deploy Kubernetes resources with ease.
+- [Kubernetes webhook certificate generator and patcher](https://github.com/jet/kube-webhook-certgen) - Tools to help with self signed cert generation for Kubernetes test environment.
+- [Watch and print changes in k8s](https://github.com/ibuildthecloud/wtfk8s)
+- [Argo CD Image Updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD.
+- [Clusternet](https://github.com/clusternet/clusternet) - Managing Your Clusters (including public, private, hybrid, edge, etc) as easily as Visiting the Internet.
+- [Build a Platform with KRM](https://github.com/askmeegs/build-a-platform-with-krm) - Build a platform with the Kubernetes resource model.
+- [Giant Swarm](https://www.giantswarm.io/) - Managed Kubernetes as a Service. ([GitHub](https://github.com/giantswarm))
+- [Loft](https://github.com/loft-sh/loft) - Namespace & Virtual Cluster Manager for Kubernetes.
+- [kubesec.io](https://kubesec.io/) - Security risk analysis for Kubernetes resources. ([Code](https://github.com/controlplaneio/kubesec))
+- [Control Plane](https://control-plane.io/) - Secure Kubernetes from supply-chain and runtime attacks with a zero trust, continuous security approach. ([GitHub](https://github.com/controlplaneio))
+- [Hacking Kubernetes Book](https://control-plane.io/hackingkubernetes/)
+- [Argo-CD Autopilot](https://github.com/argoproj-labs/argocd-autopilot) - Tool which offers an opinionated way of installing Argo-CD and managing GitOps repositories.
+- [Teresa](https://github.com/luizalabs/teresa) - Open source tool to deploy apps to Kubernetes clusters.
+- [Install a Kubernetes cluster on Hetzner in 5 minutes (7X cheaper than AWS)](https://github.com/vitobotta/hetzner-k3s) ([Reddit](https://www.reddit.com/r/devops/comments/qwpsna/install_a_kubernetes_cluster_on_hetzner_in_5/))
+- [Pulumi Kubernetes Deployments](https://github.com/vitobotta/pulumi-kubernetes-deployments) - Collection of Pulumi scripts I use to automate repetitive deployments of applications and services to Kubernetes.
+- [Kubei](https://github.com/Portshift/kubei) - Vulnerabilities scanning and CIS Docker benchmark tool that allows users to get an accurate and immediate risk assessment of their kubernetes clusters.
+- [Bovine](https://github.com/nickgerace/bovine) - Manage single node Rancher clusters with a single binary.
+- [Mirantis](https://www.mirantis.com/) - Data Center as-a-Service built on Kubernetes. ([GitHub](https://github.com/Mirantis))
+- [Kr8s](https://github.com/oslabs-beta/kr8s) - Docker/Kubernetes Visualization Tool.
+- [Kubernikus](https://github.com/sapcc/kubernikus) - Kubernetes as a Service for Openstack.
+- [Keppel](https://github.com/sapcc/keppel) - Multi-tenant container image registry.
+- [Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers)
+- [Building a bare-metal Kubernetes cluster on Raspberry Pi (2021)](https://anthonynsimon.com/blog/kubernetes-cluster-raspberry-pi/) ([HN](https://news.ycombinator.com/item?id=29306616))
+- [flagger-k6-webhook](https://github.com/grafana/flagger-k6-webhook) - Using k6 to do load testing of the canary before rolling out traffic.
+- [From Docker to Kubernetes using Minikube remotely (2021)](https://www.chevdor.com/post/2021/02/docker_to_k8s/)
+- [Argo CD Notifications](https://github.com/argoproj-labs/argocd-notifications)
+- [Certified Kubernetes Application Developer (CKAD) Crash Course](https://github.com/bmuschko/ckad-crash-course)
+- [KubeMQ](https://kubemq.io/) - Kubernetes Message Queue Broker Platform. ([Code](https://github.com/kubemq-io/kubemq-community))
+- [Kubedev](https://github.com/relferreira/kubedev) - Simpler and more powerful Kubernetes Dashboard.
+- [EKS Connector](https://github.com/aws/amazon-eks-connector) - Client-side agent that connects any Kubernetes cluster to AWS.
+- [APIClarity](https://github.com/apiclarity/apiclarity) - Reconstruct Open API Specifications from real-time workload traffic seamlessly. ([Web](https://apiclarity.io/))
+- [Service Mesh Interface](https://smi-spec.io/) - Standard interface for service meshes on Kubernetes. ([Spec](https://github.com/servicemeshinterface/smi-spec))
+- [Meshery](https://meshery.io/) - Service Mesh Manager. ([Code](https://github.com/meshery/meshery))
+- [Argo Workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes.
+- [tsk](https://github.com/adamgoose/tsk) - Quickly connect to your Kubernetes Cluster with Tailscale.
+- [Generically working with Kubernetes objects in Go (2021)](https://itnext.io/generically-working-with-kubernetes-resources-in-go-53bce678f887)
+- [Kubetools](https://github.com/collabnix/kubetools) - Curated List of Kubernetes Tools.
+- [Neco](https://github.com/cybozu-go/neco) - Project to build and maintain highly automated on-premise data centers using Kubernetes at the center of its system.
+- [audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs.
+- [kube-lineage](https://github.com/tohjustin/kube-lineage) - CLI tool to display all dependencies or dependents of an object in a Kubernetes cluster.
+- [AWS version of Kelsey's kubernetes-the-hard-way](https://github.com/prabhatsharma/kubernetes-the-hard-way-aws)
+- [Kubernetes at Home With K3s (2021)](https://blog.nootch.net/post/kubernetes-at-home-with-k3s/) ([Lobsters](https://lobste.rs/s/rhonjg/kubernetes_at_home_with_k3s))
+- [Admiralty](https://admiralty.io/) - System of Kubernetes controllers that intelligently schedules workloads across clusters. ([Code](https://github.com/admiraltyio/admiralty))
+- [Kubernetes on AWS](https://github.com/zalando-incubator/kubernetes-on-aws) - Deploying Kubernetes on AWS with CloudFormation and Ubuntu.
+- [Awesome Kubernetes Security](https://github.com/ksoclabs/awesome-kubernetes-security)
+- [cluster-api-state-metrics (CASM)](https://github.com/Daimler/cluster-api-state-metrics) - Service that listens to the Kubernetes API server and generates metrics about the state of custom resource objects related of Kubernetes Cluster API.
+- [Dataflow](https://github.com/argoproj-labs/argo-dataflow) - Kubernetes-native platform for executing large parallel data-processing pipelines.
+- [Fluid](https://github.com/fluid-cloudnative/fluid) - Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. ([Web](https://fluid-cloudnative.github.io/))
+- [Volcano](https://github.com/volcano-sh/volcano) - Batch system built on Kubernetes. ([Web](https://volcano.sh/en/))
+- [The Ultimate Kubectl Cheat Sheet](https://komodor.com/learn/the-ultimate-kubectl-cheat-sheet/)
+- [Kstone](https://github.com/tkestack/kstone) - etcd management platform.
+- [Okra](https://github.com/mumoshu/okra) - Hot-swap Kubernetes clusters while keeping your service up and running.
+- [Kubernetes Python Client](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous (AsyncIO) client library for the Kubernetes API.
+- [kspan](https://github.com/weaveworks-experiments/kspan) - Turning Kubernetes Events into spans. ([Tweet](https://twitter.com/bboreham/status/1372609182004883458))
+- [Kubernetes Cloudflare Sync](https://github.com/calebdoxsey/kubernetes-cloudflare-sync) - Run in your Kubernetes Cluster on GKE and sync DNS records on Cloudflare with your nodes IPs.
+- [Knative Docs](https://knative.dev/docs/) ([Code](https://github.com/knative/docs))
+- [CSI NFS driver](https://github.com/kubernetes-csi/csi-driver-nfs) - Allows Kubernetes to use NFS CSI volume on Linux node.
+- [simple-kubernetes-webhook](https://github.com/slackhq/simple-kubernetes-webhook) - Aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible.
+- [terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications.
+- [ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up.
+- [Cloudprober](https://github.com/cloudprober/cloudprober) - Active monitoring software to detect failures before your customers do. ([Docs](https://cloudprober.org/))
+- [Ketch](https://github.com/theketchio/ketch) - Application delivery framework that facilitates the deployment and management of applications on Kubernetes using a simple command line interface.
+- [Vault Secrets Operator](https://github.com/ricoberger/vault-secrets-operator) - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
+- [kubecfg](https://github.com/kubecfg/kubecfg) - Tool for managing Kubernetes resources as code.
+- [Kubergrunt](https://github.com/gruntwork-io/kubergrunt) - Standalone go binary with a collection of commands to fill in the gaps between Terraform, Helm, and Kubectl.
+- [provider-kubernetes](https://github.com/crossplane-contrib/provider-kubernetes) - Crossplane provider to provision and manage Kubernetes objects on (remote) Kubernetes clusters.
+- [kube-s3](https://github.com/freegroup/kube-s3) - Kubernetes pods used shared S3 storage.
+- [K8S-ObjectMatcher](https://github.com/banzaicloud/k8s-objectmatcher) - Go library which helps to match Kubernetes objects.
+- [Sidero Labs](https://www.siderolabs.com/) - Makers of Talos Linux: A modern OS for Kubernetes and Sidero Metal: simplifying bare metal Kubernetes. ([GitHub](https://github.com/talos-systems))
+- [k8sec](https://github.com/dtan4/k8sec) - CLI tool to manage Kubernetes Secrets easily.
+- [Mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes.
+- [Spawner](https://github.com/drifting-in-space/spawner) - Bridge between a web application and Kuberenetes. Allows a web application to create session-lived containers that serve WebSocket or HTTP connections.
+- [kwatch](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
+- [Bare-metal CSI Driver](https://github.com/dell/csi-baremetal) - CSI spec implementation to manage locally attached disks for Kubernetes.
+- [1 Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
+- [Crane](https://github.com/gocrane/crane) - Manages cloud resource on Kubernetes stack.
+- [Otomi](https://github.com/redkubes/otomi-core) - GitOps powered K8s app stack with developer self-service. ([Docs](https://otomi.io/docs/installation/))
+- [Havener](https://github.com/homeport/havener) - Swiss army knife for Kubernetes tasks.
+- [ktop](https://github.com/vladimirvivien/ktop) - top-like tool for your Kubernetes clusters.
+- [k8svent](https://github.com/atomist/k8svent) - Send Kubernetes pods as JSON to webhook endpoints.
+- [Web-based Kubernetes scheduler simulator](https://github.com/kubernetes-sigs/kube-scheduler-simulator)
+- [Kubernetes security](https://github.com/kabachook/k8s-security) - Kubernetes security notes and best practices.
+- [OpenYurt](https://github.com/openyurtio/openyurt) - Extending your native Kubernetes to edge. ([Web](https://openyurt.io/))
+- [RancherOS v2](https://github.com/rancher/os2) - Immutable Linux distribution built to run Rancher and it's corresponding Kubernetes distributions RKE2 and k3s.
+- [eBPF & Cilium Office Hours](https://github.com/isovalent/eCHO)
+- [Wave](https://github.com/wave-k8s/wave) - Kubernetes configuration tracking controller.
+- [Ask HN: Is it still worth learning Kubernetes in 2022?](https://news.ycombinator.com/item?id=29756204)
+- [Auto-portforward (apf)](https://github.com/ruoshan/autoportforward) - Bidirectional port-forwarding for docker and kubernetes.
+- [Podtato-head](https://github.com/podtato-head/podtato-head) - Prototypical cloud-native application built to colorfully demonstrate delivery scenarios using many different tools and services.
+- [Apache Camel K](https://github.com/apache/camel-k) - Lightweight integration platform, born on Kubernetes, with serverless superpowers. ([Docs](https://camel.apache.org/camel-k))
+- [KubExplorer](https://github.com/Pscheidl/kubexplorer) - Detects orphan configmaps and secrets in a Kubernetes cluster.
+- [Pleco](https://github.com/Qovery/pleco) - Automatically removes Cloud managed services and Kubernetes resources based on tags with TTL.
+- [OpenEBS](https://openebs.io/) - Kubernetes storage simplified. ([Code](https://github.com/openebs/openebs))
+- [Kusk](https://github.com/kubeshop/kusk) - Use OpenAPI to configure Kubernetes.
+- [System Upgrade Controller](https://github.com/rancher/system-upgrade-controller) - General-purpose, Kubernetes-native upgrade controller (for nodes).
+- [Kourier](https://github.com/knative-sandbox/net-kourier) - Purpose-built Knative Ingress implementation using just Envoy with no additional CRDs.
+- [JavaScript Kubernetes Client](https://github.com/kubernetes-client/javascript)
+- [Kubernetes Secrets Store CSI Driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver)
+- [Cilium CLI](https://github.com/cilium/cilium-cli) - CLI to install, manage & troubleshoot Kubernetes clusters running Cilium.
+- [TestKube](https://github.com/kubeshop/testkube) - Kubernetes-native framework for test definition and execution.
+- [Tracing the path of network traffic in Kubernetes (2022)](https://learnk8s.io/kubernetes-network-packets)
+- [Learnk8s Blog](https://learnk8s.io/blog)
+- [Kove](https://github.com/cmacrae/kove) - Watch your in cluster Kubernetes manifests for OPA policy violations and export them as Prometheus metrics.
+- [Reasons Kubernetes is so complex (2022)](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/) ([HN](https://news.ycombinator.com/item?id=30096674))
+- [Kubernetes Gateway API](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [Yatai](https://github.com/bentoml/Yatai) - Model serving at scale on Kubernetes.
+- [Minigun](https://github.com/wayfair-incubator/minigun) - Highly performant Kubernetes native HTTP benchmark tool written in Go.
+- [konfig](https://github.com/corneliusweig/konfig) - Helps to merge, split or import kubeconfig files.
+- [How To Call Kubernetes API using Go (2022)](https://iximiuz.com/en/posts/kubernetes-api-go-types-and-common-machinery/)
+- [kube-applier](https://github.com/box/kube-applier) - Enables automated deployment and declarative configuration for your Kubernetes cluster.
+- [Resource Explorer](https://github.com/dpetzold/kube-resource-explorer) - Explore your kube resource usage and allocation.
+- [kube-storage-version-migrator](https://github.com/kubernetes-sigs/kube-storage-version-migrator) - Migrates stored data in etcd to the latest storage version.
+- [Atlas](https://greenops.io/atlas/) - Deployment pipeline platform built on Argo CD.
+- [CNCF App Delivery TAG](https://github.com/cncf/tag-app-delivery)
+- [kube-oidc-proxy](https://github.com/jetstack/kube-oidc-proxy) - Reverse proxy to authenticate to managed Kubernetes API servers via OIDC.
+- [A Primer: Accessing services in Kubernetes (2022)](https://blog.alexellis.io/primer-accessing-kubernetes-services/) ([HN](https://news.ycombinator.com/item?id=30220291))
+- [kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers.
+- [kubectl-neat-diff](https://github.com/sh0rez/kubectl-neat-diff) - De-clutter your kubectl diff output using kubectl-neat.
+- [kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
+- [Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - Covers Kubernetes Environment with LABs: Kubectl, Pod, Deployment, Service, ConfigMap, ReplicaSet, PV, PVC, Secret, etc.
+- [k3OS](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
+- [Last Week in Kubernetes Development Newsletter](https://lwkd.info/) ([Code](https://github.com/kubernetes-sigs/lwkd))
+- [SMI SDK for Go](https://github.com/servicemeshinterface/smi-sdk-go) - Service Mesh Interface SDK for Go.
+- [KubeOrbit](https://kubeorbit.io/) - Test your application on Kubernetes in a brand new simple way. ([Code](https://github.com/teamcode-inc/kubeorbit))
+- [Trousseau](https://github.com/ondat/trousseau) - Store and access your secrets the Kubernetes native way with any external KMS.
+- [Machine API Operator](https://github.com/openshift/machine-api-operator) - Manages the lifecycle of specific purpose CRDs, controllers and RBAC objects that extend the Kubernetes API.
+- [Kuber](https://github.com/JuliaComputing/Kuber.jl) - Julia Kubernetes Client.
+- [kbrew](https://github.com/kbrew-dev/kbrew) - CLI tool for Kubernetes which makes installing any complex stack easy in one step.
+- [Zarf](https://github.com/defenseunicorns/zarf) - Kubernetes Air Gap Buddy.
+- [Kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing.
+- [Kubernetes based network emulation](https://github.com/google/kne)
+- [Gefyra](https://github.com/Schille/gefyra) - Blazingly-fast, rock-solid, local application development with Kubernetes.
+- [Digester](https://github.com/google/k8s-digester) - Resolves tags to digests for container and init container images in Kubernetes Pod and Pod template specs.
+- [kube-review](https://github.com/anderseknert/kube-review) - Create Kubernetes AdmissionReview requests from Kubernetes resources.
+- [ValidKube](https://validkube.com/) - Validate, Clean & Secure Your K8s YAML. ([Code](https://github.com/komodorio/validkube))
+- [KubeSphere](https://kubesphere.io/) - Open Source Enterprise Kubernetes Platform. ([Code](https://github.com/kubesphere/kubesphere))
+- [Kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Framework for launching and running end-to-end tests on Kubernetes.
+- [DETIK](https://github.com/bats-core/bats-detik) - DevOps e2e Testing in Kubernetes.
+- [Knative Reconciler Test](https://github.com/knative-sandbox/reconciler-test) - Behavior driven reconciler testing framework.
+- [KUTTL](https://github.com/kudobuilder/kuttl) - Designed for testing operators, however it can declaratively test any kubernetes objects.
+- [KET](https://github.com/riita10069/ket) - Simplest testing framework for Kubernetes controller.
+- [Pixie](https://px.dev/) - Kubernetes Monitoring, Application Debug Platform. ([Demos](https://github.com/pixie-io/pixie-demos))
+- [Reloaderai](https://github.com/stakater/Reloader) - Kubernetes controller to watch changes in ConfigMap and Secrets.
+- [Speed Limits for Rolling Restarts in Kubernetes (2021)](https://alexklibisz.com/2021/07/20/speed-limits-for-rolling-restarts-in-kubernetes.html)
+- [ktail](https://github.com/atombender/ktail) - Tool to easily tail Kubernetes logs.
+- [Kube-burner](https://github.com/cloud-bulldozer/kube-burner) - Tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects.
+- [Complete Kubernetes Tutorial for Beginners - YouTube (2020)](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC)
+- [How Kubernetes works under the hood with Docker Desktop (2022)](https://www.docker.com/blog/how-kubernetes-works-under-the-hood-with-docker-desktop/)
+- [TriggerMesh](https://github.com/triggermesh/triggermesh) - Open source event-driven integration platform powered by Kubernetes and Knative.
+- [kCTF](https://github.com/google/kctf) - Kubernetes-based infrastructure for CTF competitions.
+- [Using client-go: Writing Go clients for talking to Kubernetes (2022)](https://leanpub.com/using-client-go-season-1) ([Code](https://github.com/lucasepe/using-client-go))
+- [Robusta](https://home.robusta.dev/) - Kubernetes Troubleshooting and Automation Platform. ([Code](https://github.com/robusta-dev/robusta))
+- [Terrajet Template Provider](https://github.com/crossplane-contrib/provider-jet-template) - Crossplane provider that is built using Terrajet code generation tools and exposes XRM-conformant managed resources for the Template API.
+- [KoolKits](https://github.com/lightrun-platform/koolkits) - Opinionated, language-specific, batteries-included debug container images for Kubernetes.
+- [kubediff](https://github.com/arriqaaq/kubediff) - Kubernetes resource diff watcher, with the ability to send event notifications.
+- [The Future of Kubernetes (2022)](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022) ([HN](https://news.ycombinator.com/item?id=30660534))
+- [Certified Kubernetes Administrator Preparation Guide](https://github.com/leandrocostam/cka-preparation-guide)
+- [Akcess](https://github.com/viveksinghggits/akcess) - Share fine-grained access to your Kubernetes cluster temporarily.
+- [Monokle](https://github.com/kubeshop/monokle) - Desktop UI for managing k8s manifests.
+- [Linkerd-failover](https://github.com/linkerd/linkerd-failover) - Linkerd Failover Operator.
+- [Favorite tools you use to manage/work with Kubernetes? (2022)](https://www.reddit.com/r/kubernetes/comments/tiere3/what_are_your_favorite_tools_you_use_to/)
+- [Helm X Plugin](https://github.com/mumoshu/helm-x) - Treat any Kustomization or K8s manifests directory as a Helm chart.
+- [Kubernetes models in TypeScript](https://github.com/tommy351/kubernetes-models-ts)
+- [Helm Teller](https://github.com/SpectralOps/helm-teller) - Allows you to inject configuration and secrets from multiple providers into your chart while masking the secrets at the deployment.
+- [Problems with “graceful shutdown” in Kubernetes (2019)](https://philpearl.github.io/post/k8s_ingress/) ([HN](https://news.ycombinator.com/item?id=30771149))
+- [Pod Graceful Drain](https://github.com/foriequal0/pod-graceful-drain)
+- [Portieris](https://github.com/IBM/portieris) - Kubernetes Admission Controller for verifying image trust with Notary.
+- [Platform Aware Scheduling](https://github.com/intel/platform-aware-scheduling) - Enabling Kubernetes to make pod placement decisions with platform intelligence.
+- [Canary Deployment with Kubernetes and Istio (2022)](https://www.fpcomplete.com/blog/canary-deployment-istio/)
+- [Thundernetes](https://github.com/PlayFab/thundernetes) - Makes it easy to run your game servers on Kubernetes.
+- [Continuous profiling by Pyroscope (2022)](https://itnext.io/continuous-profiling-enabled-by-pyroscope-in-vald-c0ab3341de2e)
+- [jsPolicy](https://github.com/loft-sh/jspolicy) - Easier & Faster Kubernetes Policies using JavaScript or TypeScript.
+- [Furiko](https://github.com/furiko-io/furiko) - Cloud-native, enterprise-level cron and adhoc job platform for Kubernetes.
+- [Kubernetes Opex Analytics](https://github.com/rchakode/kube-opex-analytics) - Kubernetes Usage Analytics and Accounting for Cost Allocation and Capacity Planning.
+- [lifecycle-manager](https://github.com/keikoproj/lifecycle-manager) - Graceful AWS scaling event on Kubernetes using lifecycle hooks.
+- [Koordinator](https://github.com/koordinator-sh/koordinator) - QoS based scheduling system for hybrid orchestration workloads on Kubernetes, bringing workloads the best layout and status.
+- [KubeView](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer.
+- [Selkies](https://github.com/selkies-project/selkies) - Stateful Workload Operator.
+- [selinuxd](https://github.com/containers/selinuxd) - Daemon that has the purpose of installing and removing policies as they are laid in a specific directory.
+- [Kubernetes Rollout Operator](https://github.com/grafana/rollout-operator) - Coordinates the rollout of pods between different StatefulSets within a specific namespace.
+- [Operator Registry](https://github.com/operator-framework/operator-registry) - Runs in a Kubernetes or OpenShift cluster to provide operator catalog data to Operator Lifecycle Manager.
+- [Kubernetes API is a regular HTTP REST API. How to add a new request handler. (2022)](https://twitter.com/iximiuz/status/1510230271613976578)
+- [Working with Kubernetes API (2022)](https://iximiuz.com/en/series/working-with-kubernetes-api/) ([Tweet](https://twitter.com/iximiuz/status/1510275987086446594))
+- [Kubernetes Release Tooling](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components.
+- [StackRox Kubernetes Security Platform](https://github.com/stackrox/stackrox) - Performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
+- [Shipper](https://github.com/bookingcom/shipper) - Kubernetes native multi-cluster canary or blue-green rollouts using Helm.
+- [kaar](https://github.com/kris-nova/kaar) - Kubernetes Application Archive.
+- [Kubectl Grep](https://github.com/guessi/kubectl-grep) - Filter Kubernetes resources by matching their names.
+- [KubeKey](https://github.com/kubesphere/kubekey) - Open-source lightweight tool for deploying Kubernetes clusters.
+- [OPAL](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent.
+- [Service mesh for Kubernetes and beyond. gRPC API bindings repo for Linkerd 2.x.](https://github.com/linkerd/linkerd2-proxy-api)
+- [Kubernetes Cluster Federation](https://github.com/kubernetes-sigs/kubefed) - Allows you to coordinate the configuration of multiple Kubernetes clusters from a single set of APIs in a hosting cluster.
+- [Zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) - Language-agnostic dependency checker that keeps track of external dependencies across your project and ensure they're up-to-date.
+- [MPI Operator](https://github.com/kubeflow/mpi-operator) - Kubernetes Operator for MPI-based applications (distributed training, HPC, etc.).
+- [Node Feature Discovery Operator](https://github.com/kubernetes-sigs/node-feature-discovery-operator) - Operator for managing Node Feature Discovery deployment.
+- [Node Feature Discovery](https://github.com/kubernetes-sigs/node-feature-discovery) - Node feature discovery for Kubernetes.
+- [Kepler (Kubernetes-based Efficient Power Level Exporter)](https://github.com/sustainable-computing-io/kepler) - Uses eBPF to probe energy related system stats and exports as Prometheus metrics.
+- [Tekton TaskGroup Custom Task](https://github.com/openshift-pipelines/tekton-task-group) - Allows to group Task together as a Task.
+- [Container Runtime Interface (CRI)](https://github.com/kubernetes/cri-api) - Plugin interface which enables kubelet to use a wide variety of container runtimes.
+- [Kyma](https://kyma-project.io/) - Easy way to extend enterprise applications on Kubernetes. ([Code](https://github.com/kyma-project/kyma))
+- [kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum) - Summarize RBAC roles for the specified subject (ServiceAccount, User and Group).
+- [Beetle](https://github.com/Clivern/Beetle) - Kubernetes multi-cluster deployment automation service.
+- [Nubenetes: Awesome Kubernetes & Cloud](https://nubenetes.com/) ([Code](https://github.com/nubenetes/awesome-kubernetes))
+- [KubeRay](https://github.com/ray-project/kuberay) - Toolkit to run Ray applications on Kubernetes.
+- [GitOps recipe for Progressive Delivery with Flux v2, Flagger and Istio](https://github.com/stefanprodan/gitops-istio)
+- [kubert](https://github.com/olix0r/kubert) - Rust Kubernetes runtime helpers. Based on kube-rs.
+- [Stateless Kubernetes overlay networks with IPv6 (2021)](https://john-millikin.com/stateless-kubernetes-overlay-networks-with-ipv6)
+- [keptn](https://keptn.sh/) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications. ([Code](https://github.com/keptn/keptn))
+- [The Missing Kubernetes Type System (2022)](https://danielmangum.com/posts/the-missing-kubernetes-type-system/) ([HN](https://news.ycombinator.com/item?id=31062666))
+- [kpt](https://github.com/GoogleContainerTools/kpt) - Git-native, schema-aware, extensible client-side tool for packaging, customizing, validating, and applying Kubernetes resources.
+- [k8s_gateway](https://github.com/ori-edge/k8s_gateway) - CoreDNS plugin to resolve all types of external Kubernetes resources.
+- [kubectl-explore](https://github.com/keisku/kubectl-explore) - Better kubectl explain with the fuzzy finder.
+- [Kubent](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs.
+- [oom-bonker](https://github.com/patrickeasters/oom-bonker) - Delightfully silly way to be alerted when your Kubernetes containers run out of memory.
+- [punch](https://github.com/datapunchorg/punch) - Fully automated one-click experience for people to create Cloud and Kubernetes environment to run their Data Analytics workload like Apache Spark.
+- [Antrea](https://github.com/antrea-io/antrea) - Kubernetes networking based on Open vSwitch.
+- [kubewarden-controller](https://github.com/kubewarden/kubewarden-controller) - Manage admission policies in your Kubernetes cluster with ease.
+- [OpenFeature](https://openfeature.dev/) - Open standard for feature flags. ([Spec](https://github.com/open-feature/spec)) ([HN](https://news.ycombinator.com/item?id=31223429)) ([Community](https://github.com/open-feature/community))
+- [Plain Kubernetes Secrets are fine (2022)](https://www.macchaffee.com/blog/2022/k8s-secrets/) ([Lobsters](https://lobste.rs/s/diofsb/plain_kubernetes_secrets_are_fine))
+- [Kong Ingress Controller for Kubernetes (KIC)](https://github.com/Kong/kubernetes-ingress-controller)
+- [Don't Write Your Own Kubernetes YAML Generator (2022)](https://matduggan.com/tips-for-making-kubernetes-yaml-less-annoying/)
+- [Kube Dev Dashboard](https://prsh9.github.io/kubectl-dashboard/) - Dev Dashboard for Kubernetes. ([Code](https://github.com/prsh9/kubectl-dashboard))
+- [Deploying Kubernetes clusters in increasingly absurd languages (2022)](https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages) ([HN](https://news.ycombinator.com/item?id=31286279))
+- [kfmt](https://github.com/dippynark/kfmt) - Organizes Kubernetes manifests into a standard format.
+- [Kedro Airflow K8S Plugin](https://github.com/getindata/kedro-airflow-k8s) - Kedro Plugin to support running pipelines on Kubernetes using Airflow.
+- [Tekton Triggers](https://github.com/tektoncd/triggers) - Kubernetes Custom Resource Definition (CRD) controller that allows you to create Kubernetes resources based on information it extracts from event payloads.
+- [Envoy Gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway.
+- [Waiter](https://github.com/twosigma/waiter) - Runs, manages, and autoscales web services on Mesos and Kubernetes.
+- [Cook Scheduler](https://github.com/twosigma/Cook) - Fair job scheduler on Kubernetes and Mesos for batch workloads and Spark.
+- [Parca Agent](https://github.com/parca-dev/parca-agent) - Always-on sampling profiler that uses eBPF to capture raw profiling data with very low overhead.
+- [WTH! Who killed my pod - Whodunit? (2021)](https://suneeta-mall.github.io/2021/03/14/wth-who-killed-my-pod.html)
+- [Kubedog](https://github.com/werf/kubedog) - Library to watch and follow Kubernetes resources in CI/CD deploy pipelines.
+- [Kubernetes Networking Guide](https://k8s.networkop.co.uk/) ([Code](https://github.com/networkop/k8s-networking-guide))
+- [Manage multi-tenant clusters with Flux](https://github.com/fluxcd/flux2-multi-tenancy)
+- [RBAC-Police](https://github.com/PaloAltoNetworks/rbac-police) - Evaluate the RBAC permissions of service accounts, pods and nodes in Kubernetes clusters through policies written in Rego.
+- [k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) - Docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
+- [Kubernetes course](https://github.com/wardviaene/kubernetes-course)
+- [Minikube](https://minikube.sigs.k8s.io/docs/) - Quickly sets up a local Kubernetes cluster. ([HN](https://news.ycombinator.com/item?id=31509011))
+- [resource-metadata](https://github.com/kmodules/resource-metadata) - API for defining metadata about Kubernetes resources.
+- [Free Kubernetes](https://github.com/learnk8s/free-kubernetes) - List of Free Trials of Managed Kubernetes Services.
+- [ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.
+- [Astro CLI](https://github.com/astronomer/astro-cli) - CLI that makes it easy to create, test and deploy Airflow DAGs to Astronomer. ([Web](https://www.astronomer.io/)) ([GitHub](https://github.com/astronomer))
+- [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs? (2022)](https://news.ycombinator.com/item?id=31580763)
+- [Kritis](https://github.com/grafeas/kritis) - Deploy-time Policy Enforcer for Kubernetes applications.
+- [Stop Messing with Kubernetes Finalizers (2022)](https://martinheinz.dev/blog/74)
+- [Kubernetes Reference Docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs.
+- [Rego Style Guide](https://github.com/StyraInc/rego-style-guide)
+- [Rufio](https://github.com/tinkerbell/rufio) - Kubernetes controller for managing baseboard management state and actions.
+- [Eraser](https://github.com/Azure/eraser) - Cleaning up images from Kubernetes nodes.
+- [Multus CNI](https://github.com/k8snetworkplumbingwg/multus-cni) - Enables attaching multiple network interfaces to pods in Kubernetes.
+- [BYOH](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost) - Cluster API Infrastructure Provider for already-provisioned hosts running Linux.
+- [Etcd-Backup-Restore](https://github.com/gardener/etcd-backup-restore) - Collection of components to backup and restore the Etcd of a Kubernetes cluster.
+- [Pisanix](https://github.com/database-mesh/pisanix) - Modern database governance framework for Kubernetes. Pisanix adds SQL-aware traffic control, audit, security and extension abilities to help manage various databases in the Database Mesh way.
+- [Kube-Hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command.
+- [Kubernetes Off-The-Shelf (KOTS](https://github.com/replicatedhq/kots) - kubectl plugin and admin console to help manage Kubernetes Off-The-Shelf software. ([Web](https://kots.io/))
+- [kURL](https://github.com/replicatedhq/kURL) - Production-grade, airgapped Kubernetes installer combining upstream k8s with overlays and popular components. ([Web](https://kurl.sh/))
+- [Replicated](https://www.replicated.com/) - Enabling the delivery and management of modern on-prem Kubernetes applications. ([GitHub](https://github.com/replicatedhq))
+- [Harness CD](https://github.com/harness/harness-cd-community) - Modern self-service continuous delivery solution that allows developers to deploy, verify and automatically rollback Kubernetes and other cloud-native applications.
+- [Kubeflow Training Operator](https://github.com/kubeflow/training-operator) - Kubernetes custom resources that makes it easy to run distributed or non-distributed TensorFlow/PyTorch/Apache MXNet/XGBoost/MPI jobs on Kubernetes.
+- [Cluster capacity analysis framework](https://github.com/kubernetes-sigs/cluster-capacity)

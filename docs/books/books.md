@@ -1,0 +1,555 @@
+# Books
+
+I love reading & listening to new books and making notes on things I've read and learned.
+
+I keep [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev) lists of [books I am reading](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=currently-reading), [want to read in future](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=to-read) & ones I [want to read next](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=next).
+
+I also have bookshelves of books I [liked](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=favorite) & [read](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=read).
+
+Below are books I read (or listened) sorted by year I read them in. The books with links attached will lead to notes I made when reading the book. Books with 🌟 are my favorite.
+
+More books should be interactive and web first like [these notes](https://thebeginningofinfinity.xyz/).
+
+### 2019
+
+- 21 Lessons for the 21st Century 🌟
+- Brief Answers to the Big Questions 🌟
+- A Brief History of Time ([Review](https://www.goodreads.com/review/show/713887770))
+
+### 2016
+
+- Mind for Numbers 🌟 ([Review](https://www.goodreads.com/review/show/1223423349)) ([Notes](mind-for-numbers.md))
+- Flowers for Algernon 🌟 ([Review](https://www.goodreads.com/review/show/782624446))
+- Heart of a Dog 🌟 ([Review](https://www.goodreads.com/review/show/589165109))
+- You Don't Know JS: Up & Going ([Review](https://www.goodreads.com/review/show/1587216818))
+
+### 2015
+
+- Logical Reasoning: A First Course ([Review](https://www.goodreads.com/review/show/1389050373))
+- The Fable of the Dragon-Tyrant
+- The Little Prince 🌟 ([Review](https://www.goodreads.com/review/show/1206274538))
+- Understand - Ted Chiang 🌟
+
+### 2014
+
+- Roadside Picnic ([Review](https://www.goodreads.com/review/show/589176848))
+- A Thousand Tiny Failures: Memoirs of a Pickup Artist ([Review](https://www.goodreads.com/review/show/919954441))
+- The Last Question 🌟 ([Review](https://www.goodreads.com/review/show/935666315))
+
+### 2013
+
+- The Master and Margarita 🌟 ([Review](https://www.goodreads.com/review/show/583056473))
+
+### 2012
+
+- The Picture of Dorian Gray 🌟 ([Review](https://www.goodreads.com/review/show/485035652))
+
+## Unfinished
+
+- [Thinking fast and slow](thinking-fast-and-slow.md)
+- [Go in action](go-in-action.md)
+- [Artificial Intelligence: A Modern Approach](ai-modern-approach.md)
+- [Programming in Haskell](programming-in-haskell.md)
+- [Surely, you're joking Mr Feynman](surely-you-are-joking-mr-feynman.md)
+- [Mindstorms](mindstorms.md)
+- [Rich dad poor dad](rich-dad-poor-dad.md)
+- [Elements of programming interviews](elements-of-programming-interviews.md)
+- [Crafting interpreters](crafting-interpreters.md)
+- [Brave new world](brave-new-world.md)
+- [Cracking the coding interview](cracking-the-coding-interview.md)
+- [Code: hidden language of software](code-the-hidden-language.md)
+- [Eloquent ruby](eloquent-ruby.md)
+- Confident ruby
+- University physics with modern physics
+- The Yellow Wallpaper
+
+## Interesting authors
+
+- [Douglas Adams](https://www.goodreads.com/author/show/4.Douglas_Adams)
+- [Ted Chiang](https://www.goodreads.com/author/show/130698.Ted_Chiang)
+- [Alan Watts](https://www.goodreads.com/author/show/1501668.Alan_W_Watts)
+- [Jorge Luis Borges](https://www.goodreads.com/author/show/500.Jorge_Luis_Borges)
+- [Nikolay Nekrasov](https://www.goodreads.com/author/show/2143156.Nikolay_A_Nekrasov)
+- [HP Lovecraft](https://www.goodreads.com/author/show/9494.H_P_Lovecraft)
+- [Aleksandr Solzhenitisyn](https://www.goodreads.com/author/show/10420.Aleksandr_Solzhenitsyn)
+- [David Sedaris](https://www.goodreads.com/author/show/2849.David_Sedaris)
+- [Jorge Luis Borges](https://www.goodreads.com/author/show/500.Jorge_Luis_Borges)
+
+## Recommendations
+
+- [Ask HN: What are some books where the reader learns by building projects? (2020)](https://news.ycombinator.com/item?id=22299180)
+- [Gergely Orosz's reading list](https://blog.pragmaticengineer.com/my-reading-list/)
+- [Side Project books](https://books.makesideproject.com/)
+- [Derek Sivers's books read](https://sivers.org/book)
+- [Rahim's books read](https://rakh.im/bookshelf/)
+- [Books written in a style similar to SICP](https://lobste.rs/s/9o8lvk/books_written_style_similar_sicp)
+- [HN recommends (2017)](https://news.ycombinator.com/item?id=15629762)
+- [Check these books - master switch is interesting](https://news.ycombinator.com/item?id=14477851)
+- [Most meaningful books I read in 2016](http://blog.ncase.me/the-most-meaningful-books-i-read-in-2016/)
+- [Most mentioned programming books on Reddit](http://booksreddit.com/product-category/best-programming-books/)
+- [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
+- [Some more recommends](https://github.com/sapegin/ama/issues/5)
+- [Bret Victor’s favorite books](http://worrydream.com/#!/Links)
+- [AI books](http://www.allitebooks.com/?s=artificial)
+- [Lobsters - what are you reading (2018)](https://lobste.rs/s/xwr0lp/what_are_you_reading) ([2020](https://lobste.rs/s/oqksbh/what_are_you_reading_this_week))
+- [Ask HN - what are you reading](https://news.ycombinator.com/item?id=14859274)
+- [Math books](https://www.reddit.com/r/math/comments/6xmuhc/math_booksresources_to_pique_math_interest/)
+- [History books](https://www.reddit.com/r/AskHistorians/comments/1403l7/askhistorians_master_book_list_ii/)
+- [Good books for deep hacks](https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html)
+- [Some psychology books to read](https://www.reddit.com/r/booksuggestions/comments/5kslq8/-looking_for_psychology_literature_like_thinking/)
+- [Top programming books 2017](https://news.ycombinator.com/item?id=15878575)
+- [Many math books](https://www.reddit.com/r/math/comments/7i9t5y/book_recommendation_thread/)
+- [Psychonaut books](https://www.reddit.com/r/Psychonaut/comments/7kuhxx/what_are_some_must_read_books_for_this_sub/)
+- [Reading list](https://github.com/keithamus/reading-list)
+- [Pick three books you think every beginner to sci-fi should read, three for "veterans", and three for "experts".](https://www.reddit.com/r/printSF/comments/5mrj3a/pick_three_books_you_think_every_beginner_to/)
+- [Any book recommendations for building your own indie business?](https://www.indiehackers.com/forum/any-book-recommendations-for-building-your-own-indie-business-22a3f89d27)
+- [Books read by Radek](http://radex.io/books/)
+- [Bookicious](https://www.bookicious.com/collections/) - Favorite books of various founders.
+- [How long to read?](http://www.howlongtoreadthis.com)
+- [Ask HN: Recommendations on books and documentaries on tech companies/people?](https://news.ycombinator.com/item?id=17204467)
+- [Ask HN: What's one book that changed your life? (2018)](https://news.ycombinator.com/item?id=17168136)
+- [Looking for a dark scifi novel](https://www.reddit.com/r/printSF/comments/7mu8de/looking_for_a_dark_scifi_novel/)
+- [Three books every beginner to scifi should read](https://www.reddit.com/r/printSF/comments/5mrj3a/pick_three_books_you_think_every_beginner_to/)
+- [Good novels featuring mathematics and mathematical philosophy?](https://www.reddit.com/r/math/comments/5pgkpm/good_novels_featuring_mathematics_and/)
+- [Math-related pleasure reading books?](https://www.reddit.com/r/math/comments/569bxq/mathrelated_pleasure_reading_books/d8hgly1/)
+- [Ask HN: Non-tech books that have helped you grow professionally?](https://news.ycombinator.com/item?id=12415621)
+- [Ask HN: What are the best textbooks in your field of expertise? (2018)](https://news.ycombinator.com/item?id=18104814)
+- [What’s the best book you read in 2018?](https://twitter.com/farnamstreet/status/1074496799786713088)
+- [Some fiction books](https://paper.dropbox.com/doc/2019-02-19-Books-AX3Tl_vBkHsM6Fh9mn9pM0wOAg-Apo3mY7r8i0Bfsyt3lW7r)
+- [Books I Recommend (2019)](https://blog.jessfraz.com/post/books/)
+- [Miikka Koskinen's reading list](https://miikka.me/reading-list/)
+- [My Favourite Book Recommendations by catonmat](https://catonmat.net/archive?q=books)
+- [Hacker News Books](https://hackernewsbooks.com/) - Dozens of book recommendations delivered straight to your inbox.
+- [Ted Chiang's books + audiobooks](https://www.sffaudio.com/features/author-pages/ted-chiang/)
+- [Some fiction audiobook recommendations](https://www.reddit.com/r/audiobooks/comments/bz14cx/i_just_finished_the_dark_tower_series_which_was/)
+- [Alan Kay's Reading List](http://www.squeakland.org/resources/books/readingList.jsp)
+- [Ask HN: Recommend one book I need to read this summer? (2019)](https://news.ycombinator.com/item?id=20332455)
+- [Patrick Collison's bookshelf](https://patrickcollison.com/bookshelf)
+- [Recommendations from an audiobook addict](https://www.reddit.com/r/audible/comments/7znp6h/recommendations_from_an_addict/)
+- [HN: Alan Kay's answer to ‘what are some forgotten books programmers should read?’ (2019)](https://news.ycombinator.com/item?id=20653453)
+- [Ray Dalio’s Recommended Books: His Reading List](https://medium.com/@richardreeze/ray-dalios-recommended-books-his-reading-list-e839471ccc1d)
+- [Josh Wolfe's favorite books](https://twitter.com/wolfejosh/status/1087926885345054720?lang=en)
+- [What are the most indispensable books for indie hackers? (2019)](https://www.indiehackers.com/post/what-are-the-most-indispensable-books-for-indie-hackers-e2ec3a13e9) ([HN](https://news.ycombinator.com/item?id=21140052))
+- [Jared Palmer's favorite books](https://jaredpalmer.com/bookshelf/)
+- [Nice CS books/papers](https://news.ycombinator.com/item?id=21302131)
+- [Programming books that aren't boring](https://twitter.com/dan_abramov/status/1190762799338790913)
+- [Some Favorite Non-technical Books of Bjarne Stroustrup](http://www.stroustrup.com/literature.html) ([HN](https://news.ycombinator.com/item?id=21439192))
+- [The 50 Best Nonfiction Books of the Past 25 Years](https://slate.com/human-interest/2019/11/50-best-nonfiction-books.html)
+- [Books Samrat Singh read](https://samrat.me/bookshelf/)
+- [Lobsters: New books worth reading in 2019 ](https://lobste.rs/s/fbdghl/new_books_worth_reading_2019)
+- [Lobsters: Old books worth reading (2019)](https://lobste.rs/s/ro5gef/old_books_worth_reading)
+- [Ask HN: Books you plan to read in 2020?](https://news.ycombinator.com/item?id=21802452)
+- [Ask HN: Favorite Nonfiction Books of 2019?](https://news.ycombinator.com/item?id=21792158)
+- [Ask HN: Best books you read in the past decade? (2019)](https://news.ycombinator.com/item?id=21900498)
+- [What and How I read in 2019 by Christopher Schroeder](https://www.linkedin.com/pulse/what-how-i-read-2020-christopher-m-schroeder/)
+- [Books read in 2019 by arshia](https://twitter.com/arshia__/status/1081676410123513858)
+- [85 Best Business Books in 2020 for Entrepreneurs, Creatives & Professionals to Read (and Grow) (2020)](https://www.ryrob.com/best-business-books/)
+- [Naval’s Recommended Reading](https://www.navalmanack.com/navals-recommended-reading)
+- [Toby Shorin's Library](https://www.are.na/toby-shorin/toby-s-library)
+- [Books read by Mark McGranaghan](https://markmcgranaghan.com/books)
+- [Books read by James Somers](http://jsomers.net/#books)
+- [Ask HN: What are the best unknown books you have read? (2020)](https://news.ycombinator.com/item?id=22092108)
+- [Which book did you enjoy the most in 2019? 📚](https://twitter.com/mxstbr/status/1223646093306748928)
+- [Favorite books that almost nobody else knows or talks about (2019)](https://twitter.com/mckaywrigley/status/1120722846135640065)
+- [Rational Fiction books](https://www.goodreads.com/list/show/100705.Rational_Fiction)
+- [Top Fantasy Reads](https://topfantasyreads.com/) - Processed thousands of comments to determine top fantasy books the people of Reddit are reading. ([HN](https://news.ycombinator.com/item?id=22371436))
+- [On the shoulders of the giants (2020)](https://www.lpalmieri.com/posts/2020-03-08-on-the-shoulders-of-the-giants/) ([HN](https://news.ycombinator.com/item?id=22515743))
+- [Ask HN: Great fiction books that have had a positive impact on your life? (2020)](https://news.ycombinator.com/item?id=22718592)
+- [Books That Every Programmer Should Read (2020)](https://metaredux.com/posts/2020/03/27/the-books-that-every-programmer-should-read.html) ([Lobsters](https://lobste.rs/s/wqujvc/books_every_programmer_should_read))
+- [Nice web books (2020)](https://twitter.com/andy_matuschak/status/1246937718283624449)
+- [Reading List of Ben Congdon](https://benjamincongdon.me/books)
+- [Rafaël Garcia-Suarez's books read](http://consttype.org/books.html)
+- [Books I recommend to my software engineering students (2020)](http://web.eecs.utk.edu/~azh/blog/booksformystudents.html) ([HN](https://news.ycombinator.com/item?id=22962869))
+- [Calvin French-Owen's bookshelf](https://calv.info/bookshelf)
+- [Maksim Stepanenko's bookshelf](http://maksim.ms/books/)
+- [Austen Allred's reading list](https://austenallred.com/reading)
+- [107 books recommended by Patrick Collison](https://www.goodbooks.io/people/patrick-collison)
+- [Ask HN: Mind bending books to read and never be the same as before? (2020)](https://news.ycombinator.com/item?id=23151144)
+- [Tom MacWright's reading list](https://macwright.org/reading/)
+- [Which books have you read at least 3 times? (2020)](https://twitter.com/alexeyguzey/status/1264287735797465088)
+- [Kevin Rooke books](https://www.kevinrooke.com/books) - Explore the books recommended by the world's top investors, entrepreneurs, and thinkers.
+- [Julian Weisser's books](https://www.weisser.io/books/)
+- [AskReddit: What's your favourite book you've read and why? (2020)](https://www.reddit.com/r/AskReddit/comments/gqv5r6/whats_your_favourite_book_youve_read_and_why/)
+- [Ask HN: Best books under 200 pages for developers (2020)](https://news.ycombinator.com/item?id=23363595)
+- [Reading of David Blue](https://bilge.world/reading)
+- [Matthew Bunday's reading list](https://zencephalon.com/reading/)
+- [Luke Smith's personal library](https://lukesmith.xyz/library)
+- [Ask HN: Which books have you read more than once? (2020)](https://news.ycombinator.com/item?id=23467400)
+- [Ask HN: What, in your opinion, are the greatest and most useful textbooks? (2020)](https://news.ycombinator.com/item?id=23485477)
+- [Books I bought in 2019 but didn't read](https://taimur.me/posts/books-i-bought-in-2019-but-didn-t-read/)
+- [Amber Wilson's book reviews](https://amberwilson.co.uk/read)
+- [Michael Akilian's favorite books](https://akilian.com/books/)
+- [Nick Cammarata's bookshelf](http://nickcammarata.com/bookshelf)
+- [List of books on various topics](https://travmaturg.github.io/links/books.html)
+- [Bardia Pourvakil's favorite books](https://bardiapourvakil.com/favorites)
+- [Juvoni Beckford's bookshelf](https://juvoni.com/books)
+- [Nabeel Qureshi's favorite books](https://nabeelqu.co/Books)
+- [Sharif Shameem's Bookshelf](https://sharif.io/bookshelf/)
+- [Ask HN: Which book helped you understand the world? (2020)](https://news.ycombinator.com/item?id=23858599)
+- [Dan Romero's bookshelf](https://danromero.org/books/)
+- [Devine's curated list of books](https://wiki.xxiivv.com/site/readings.html)
+- [Books people (re)read (2020)](https://rauchg.com/2020/books-people-reread)
+- [89 books Paul Graham recommended](https://www.readthistwice.com/person/paul-graham)
+- [Best-Books.dev](https://www.best-books.dev/) - Best programming books, all in one place.
+- [Derek Sivers books read with notes](https://sive.rs/book)
+- [8 Science Fiction Books That Get Programming Right](https://www.tor.com/2020/08/14/8-science-fiction-books-that-get-programming-right/)
+- [Juanito Fatas Bookshelf](https://juanitofatas.com/bookshelf)
+- [Library of Merveilles](https://github.com/merveilles/Librarium)
+- [Patricia Mou Bookshelf](https://patriciamou.com/my-shelf)
+- [Brutality of Life Reading List](https://www.sonyasupposedly.com/brutality-books/) ([HN](https://news.ycombinator.com/item?id=24458522))
+- [Some good books](https://slate.host/haris/books)
+- [Abhinav Sarkar's books read](https://abhinavsarkar.net/readings/)
+- [Science Fiction Stories with Good Astronomy and Physics: A Topical Index](https://astrosociety.org/file_download/inline/621a63fc-04d5-4794-8d2b-38e7195056e9) ([HN](https://news.ycombinator.com/item?id=24686247))
+- [The 100 Best Fantasy Books of All Time](https://time.com/collection/100-best-fantasy-books/)
+- [Ian Vanagas's Reading List](https://ianvanagas.com/reading-list/)
+- [Maker Reads](https://makerreads.com/) ([News](https://news.makerreads.com/))
+- [Essential Reading for Startup CTOs](https://www.karllhughes.com/posts/reading-for-startup-ctos)
+- [Book Recommendations - Limitless Curiosity](https://limitlesscuriosity.com/book-recommendations/)
+- [Lex Fridman Library](https://lexfridmanlibrary.com/) - Library of book recommendations of all guests of the Lex Fridman Podcast.
+- [NPR's Best Books](https://apps.npr.org/best-books/) ([2020](https://apps.npr.org/best-books/#view=covers&year=2020))
+- [Founder Library Bookshelf](https://www.founderlibrary.com/bookshelf)
+- [Ask HN: Recommend books that give you insight into other professions (2020)](https://news.ycombinator.com/item?id=25317963)
+- [The Best Books of 2020](https://www.theguardian.com/books/2020/dec/06/the-best-books-of-2020-picked-by-our-acclaimed-guest-authors)
+- [The Best Books of 2020 2](https://kottke.org/20/12/the-best-books-of-2020)
+- [Great Books Program](https://tommycollison.com/greatbooks)
+- [A Map that Reflects the Territory](https://www.lesswrong.com/books) - Essays by the LessWrong community.
+- [My Favorite Books 2020](https://oleb.net/2020/favorite-books-2020/) ([HN](https://news.ycombinator.com/item?id=25595971))
+- [2020 booklist](https://danromero.org/2020-booklist.html)
+- [Lobsters: What books are you reading? (2021)](https://lobste.rs/s/yuwwrf/what_books_are_you_reading)
+- [Best Books I read in 2020](https://eriktorenberg.substack.com/p/best-books-i-read-in-2020)
+- [The Greatest Books of All Time](https://thegreatestbooks.org/) ([HN](https://news.ycombinator.com/item?id=25786569))
+- [Ask HN: What are some books where the reader learns by building projects? (2021)](https://news.ycombinator.com/item?id=26039706)
+- [My sci-fi novel recommendations (2021)](https://noahpinion.substack.com/p/my-sci-fi-novel-recommendations)
+- [Most Recommended Books](https://mostrecommendedbooks.com/) - Discover books recommended by the world's most influential people.
+- [Longest book you actually are delighted you read and think about very often?](https://twitter.com/ellegist/status/1377735648749182977)
+- [Ask HN: What is a good fictional universe to get immersed in? (2021)](https://news.ycombinator.com/item?id=27270776)
+- [Unhinged Women Fiction // Book Recs (2021)](https://www.youtube.com/watch?v=rNAfoCEmiXE&list=TLPQMjUwNTIwMjFg8xCFMewS1g&index=7)
+- [50 book recommendations (2021)](https://twitter.com/AliAbdaal/status/1392177777382670342)
+- [20 books to read in your 20s](https://twitter.com/warikoo/status/1398148280291250176)
+- [In search of the new (2021)](https://society.robinsloan.com/archive/in-search-of-the-new/)
+- [Reddit's Favorite Books](https://redditfavorites.com/books) ([HN](https://news.ycombinator.com/item?id=27697427))
+- [Books from which you forgot to take breaks (2021)](https://www.reddit.com/r/suggestmeabook/comments/oo20q1/looking_for_a_great_pageturner_what_book_had_you/)
+- [Sylvain Kerkour - Readings](https://kerkour.com/readings/)
+- [If you could only ever read three books, again and again, what would they be? (2021)](https://twitter.com/csallen/status/1425463270824026112)
+- [The Best Science Fiction and Fantasy Books of the Past Decade (2021)](https://www.npr.org/2021/08/18/1027159166/best-books-science-fiction-fantasy-past-decade) ([HN](https://news.ycombinator.com/item?id=28234433))
+- [The Best Books for Software Engineers](https://www.briansnotes.io/books/?sort=rating)
+- [Useful Spy Books (2021)](https://berthub.eu/articles/posts/useful-spy-books/)
+- [HackerNews Readings](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0) - 40,000 HackerNews book recommendations identified using NLP and deep learning. ([HN](https://news.ycombinator.com/item?id=28595967))
+- [The Most Influential Sci-Fi Books Of All Time (2021)](https://bookriot.com/the-most-influential-sci-fi-books-of-all-time/)
+- [Краткое содержание: лучшие новые рассказы на русском (2021)](https://daily.afisha.ru/specials/21348-kratkoe-soderzhanie-luchshie-novye-rasskazy-na-russkom-v-specproekte-afishi-daily/)
+- [Books you can’t put down (page-turners)? (2021)](https://www.reddit.com/r/suggestmeabook/comments/qasbyt/books_you_cant_put_down_pageturners/)
+- [Josh Wolfe's bookshelf](https://twitter.com/wolfejosh/status/1449731287594541065)
+- [What are your favorite books under 250 pages? (2021)](https://www.reddit.com/r/suggestmeabook/comments/qc2r4i/what_are_your_favorite_books_under_250_pages/)
+- [Best and most engaging Sci-Fi books (2021)](https://www.reddit.com/r/suggestmeabook/comments/qfdrhp/what_are_the_best_and_most_engaging_scifi_books/)
+- [Favorite weird short story collections (2021)](https://www.reddit.com/r/WeirdLit/comments/qh406m/what_are_your_favorite_weird_short_story/)
+- [Whats your favorite book? (2021)](https://www.reddit.com/r/suggestmeabook/comments/qma7aj/whats_your_favorite_book/)
+- [Best book you read lately? (2021)](https://twitter.com/Miles_Brundage/status/1459386999249399809)
+- [Books that are better than therapy (2021)](https://twitter.com/DRMacIver/status/1459481901505388546)
+- [Eric Button's Books Read](https://ericbutton.co/blog/books)
+- [Ask HN: Most interesting, mildly impractical, well-written books on software? (2021)](https://news.ycombinator.com/item?id=29306651)
+- [5 books I loved reading this year | Bill Gates](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2021) ([HN](https://news.ycombinator.com/item?id=29309758))
+- [Books that changed my career as a software engineer](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer) ([HN](https://news.ycombinator.com/item?id=29364892))
+- [Very very short book you read (< 150 pages) (2021)](https://twitter.com/patrick_oshag/status/1466137479661170688)
+- [Ask HN: What are some must read books? (2021)](https://news.ycombinator.com/item?id=29462663)
+- [Best fiction of 2021](https://www.theguardian.com/books/2021/dec/04/best-fiction-of-2021)
+- [Reddit Reads: Book reccomendations from Reddit](https://www.redditreads.com/)
+- [Radical Polish books to add to your reading list](https://www.calvertjournal.com/features/show/12858/queer-feminist-sci-fi-books-polish-literature) ([HN](https://news.ycombinator.com/item?id=29502396))
+- [Reading List • Timothy Andrew](https://0xc0d1.com/misc/reading/)
+- [To Read • Timothy Andrew](https://0xc0d1.com/misc/reading/toread/)
+- [19 book recommendations from the Ars staff (2021)](https://arstechnica.com/staff/2021/12/holiday-book-guide/)
+- [The 50 Best Books of Literary Journalism of the 21st Century](https://www.gq.com/story/50-best-literary-journalism-books)
+- [The best fantasy and sci-fi books of 2021](https://www.polygon.com/22822439/best-fantasy-books-sci-fi-2021)
+- [Best short story you've read (2021)](https://www.reddit.com/r/suggestmeabook/comments/rgy3h3/whats_the_best_short_story_youve_read_bonus/)
+- [Ask HN: Is there any fiction that's based on a world with different physics? (2021)](https://news.ycombinator.com/item?id=29587703)
+- [Best books you've read as an engineering manager or software engineer](https://twitter.com/GergelyOrosz/status/1470308287220527104)
+- [Ask HN: Life Changing Books? (2021)](https://news.ycombinator.com/item?id=29605394)
+- [Your favorite book that you read in 2021](https://www.reddit.com/r/suggestmeabook/comments/rkaok7/its_that_time_of_year_again_your_favorite_book/)
+- [The Ultimate Best Books of 2021 List](https://lithub.com/the-ultimate-best-books-of-2021-list/)
+- [The Best Books of 2021](https://kottke.org/21/12/the-best-books-of-2021)
+- [Books where you it makes you happy & excited when you learn they're a favorite of someone else](https://twitter.com/michael_nielsen/status/1473860703270309892)
+- [Best fiction book you read this year](https://twitrecos.top/tweets/1472652425806942217) ([Tweet](https://twitter.com/blprnt/status/1474140574643109891))
+- [Ask HN: What's the best book you read in 2021?](https://news.ycombinator.com/item?id=29668228)
+- [Best comedies you read (2021)](https://www.reddit.com/r/suggestmeabook/comments/rprsrm/best_comedy_youve_read/)
+- [Mind Expanding Books](https://books.vishnuks.com/) ([Code](https://github.com/hackerkid/Mind-Expanding-Books)) ([HN](https://news.ycombinator.com/item?id=29711042))
+- [Robert Miller's 2020 reading list](https://www.bertcmiller.com/2021/01/01/2020-reading-list.html)
+- [Books changed your life and stuck with you (2021)](https://www.reddit.com/r/suggestmeabook/comments/rrchnp/has_any_books_changed_your_life_and_stuck_with_you/)
+- [Books read in 2021](https://twitter.com/ManishEarth/status/1364969804562452480)
+- [What’s the most disturbing or scary book you ever read?](https://www.reddit.com/r/suggestmeabook/comments/rt5xeg/whats_the_most_disturbing_or_scary_book_you_ever/)
+- [Readers Pick the Best Book of the Past 125 Years](https://www.nytimes.com/interactive/2021/12/28/books/best-book-winners.html)
+- [What was your favorite book of 2021?](https://www.reddit.com/r/suggestmeabook/comments/rtnqd1/what_was_your_favourite_book_of_2021/)
+- [7 лучших книг 2021 года: выбор Егора Михайлова](https://daily.afisha.ru/brain/21955-7-luchshih-knig-2021-goda-vybor-egora-mihaylova/)
+- [Топ-5 книг 2021 года](https://www.youtube.com/watch?v=DNebclc1wj0)
+- [Best audio book experience you’ve had?](https://www.reddit.com/r/suggestmeabook/comments/s1k303/best_audio_book_experience_youve_had/)
+- [Best fiction books that are just beautifully written?](https://www.reddit.com/r/suggestmeabook/comments/s1muym/best_fiction_books_that_are_just_really/)
+- [Recommended books organized by country](https://fivebooks.com/category/world/)
+- [What is the most emotionally devastating book you’ve ever read? (2022)](https://www.reddit.com/r/suggestmeabook/comments/s5ivpt/what_is_the_most_emotionally_devastating_book/)
+- [Programming book list](http://danluu.com/programming-books/)
+- [Johnny Rodgers's reading list](https://johnnyrodgers.is/reading)
+- [Ask HN: What is one book you would recommend everyone to read? (2022)](https://news.ycombinator.com/item?id=30241190)
+- [Books you should read before you die (2022)](https://www.reddit.com/r/suggestmeabook/comments/srgbmy/books_you_should_read_before_you_die/)
+- [Ask HN: What Books Do You Recommend Reading for 2022?](https://news.ycombinator.com/item?id=30358326)
+- [Ask HN: What is your favorite fiction book? (2022)](https://news.ycombinator.com/item?id=30400572)
+- [Ask HN: Recommend a biography? (2022)](https://news.ycombinator.com/item?id=30405924)
+- [Peaceful books for someone in the middle of war](https://www.reddit.com/r/Fantasy/comments/t75z4r/peaceful_books_for_someone_in_the_middle_of_war/)
+- [What was your last 5 star read? (2022)](https://www.reddit.com/r/suggestmeabook/comments/t9xa3j/what_was_your_last_5_star_read/)
+- [Book or article you think about a lot that you don’t think anyone else in the replies will mention (2022)](https://twitter.com/nateliason/status/1501967452766457862)
+- [A non-standard book list for software developers](https://mihaiolteanu.me/books.html) ([HN](https://news.ycombinator.com/item?id=30651273))
+- [Suggest me your favorite book and I will read it](https://www.reddit.com/r/suggestmeabook/comments/tfc4jv/suggest_me_your_favourite_book_and_i_will_read_it/)
+- [Psychonaut's favorite books (2022)](https://www.reddit.com/r/Psychonaut/comments/thlorh/alright_people_drop_your_favorite_books_below_and/)
+- [Ask HN: What book changed your life? (2022)](https://news.ycombinator.com/item?id=30734709)
+- [50 Best Sci-Fi Books of All Time (2022)](https://www.esquire.com/entertainment/books/g39358054/best-sci-fi-books/)
+- [Suggest a book to someone who has lost all hope in the world (2022)](https://www.reddit.com/r/suggestmeabook/comments/tmkooe/suggest_a_book_to_someone_who_has_lost_all_hope/)
+- [Ask HN: Which book can attract anyone towards your field of study? (2022)](https://news.ycombinator.com/item?id=30822339)
+- [Best books on Science Fiction and Philosophy recommended by Eric Schwitzgebel](https://fivebooks.com/best-books/science-fiction-and-philosophy-eric-schwitzgebel/)
+- [Suggest three books that will make me like your favorite author (2022)](https://www.reddit.com/r/suggestmeabook/comments/tyc7c9/suggest_three_books_that_will_make_me_like_your/)
+- [Your last 10/10 read (2022)](https://www.reddit.com/r/suggestmeabook/comments/tyxoml/your_last_1010_read/)
+- [Saddest book you’ve ever read (fiction)](https://www.reddit.com/r/suggestmeabook/comments/u3kp3s/name_the_saddest_book_youve_ever_read_fiction/)
+- [Novels you think have great reread value (2022)](https://www.reddit.com/r/suggestmeabook/comments/u8l9fy/what_novels_do_you_think_have_really_great_reread/)
+- [Deep and Interesting Graphic Novels (2022)](https://www.reddit.com/r/suggestmeabook/comments/uga8k0/deep_and_interesting_graphic_novels/)
+- [Most interesting premise for book you've read? (2022)](https://www.reddit.com/r/suggestmeabook/comments/uhoeg1/whats_the_most_interesting_premise_for_a_book/)
+- [Ask HN: What are some good inspirational and uplifting books? (2022)](https://news.ycombinator.com/item?id=31353995)
+- [Marissa's bookshelf: favorites](https://m15y.com/bookshelf)
+- [Books by women that every man should read](https://www.theguardian.com/books/2022/may/28/books-by-women-that-every-man-should-read-chosen-by-ian-mcewan-salman-rushdie-richard-curtis-and-more)
+- [Ask HN: Books like “Crafting interpreters” or “The ray tracer challenge”? (2022)](https://news.ycombinator.com/item?id=31571734)
+- [Посоветуйте книгу, от которой вы не могли отлипнуть](https://twitter.com/whyyouvika/status/1533709166706995200)
+- [Ask HN: Which are the best open source books? (2022)](https://news.ycombinator.com/item?id=31712598)
+- [Ask HN: What is the best book you have read with the greatest impact on you? (2022)](https://news.ycombinator.com/item?id=31728760)
+- [Ask HN: What are the best short tech/engineering books you have read? (2022)](https://news.ycombinator.com/item?id=31713756)
+
+## Interesting Prose Books
+
+- [Alice's Adventures in Wonderland](https://www.cs.cmu.edu/~rgs/alice-I.html)
+
+## Notes
+
+- With Audible plans, you can do easy exchanges. Don’t love a book? Swap it for free, anytime.
+- [Kindle changed the way we read books and then… stopped there. I want social highlights, notes, flash cards, and fractal reading (each chapter summarized in 1 paragraph, expandable on several levels if you want to dig deeper)](https://twitter.com/Altimor/status/1003408586553294856)
+- [Some day you will be old enough to start reading fairy tales again.](https://www.reddit.com/r/RationalPsychonaut/comments/n2p74z/i_wish_great_geniuses_physicists_scientists_etc/)
+- [Read what you love until you love to read.](https://twitter.com/id_aa_carmack/status/1445424833181925376)
+- [I used to read a lot of old books growing up, and they were all different. And... being extremely online and reading contemporary things all day does have a sort of tunnel-vision effect. The way we live, the way we think, the way we talk. Go read a really old book from a different time, from a different place.](https://twitter.com/visakanv/status/1450889450532134917)
+- [Sometimes you have to read a book at the exact right time in your life for it to really click](https://twitter.com/noampomsky/status/1474948896803545091)
+
+## Links
+
+- [Awesome books](https://github.com/learn-anything/books)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) ([Code](https://github.com/EbookFoundation/free-programming-books))
+- [Ask HN: How do you read programming books?](https://news.ycombinator.com/item?id=15733745)
+- [Ask HN: 2018 Summer Reading List?](https://news.ycombinator.com/item?id=17513576)
+- [Thinking with Types LaTeX source](https://github.com/isovector/thinking-with-types) - Original source material for Thinking with Types: Type-Level Programming in Haskell book.
+- [Scribd](https://www.scribd.com/) - Books, audiobooks, and more for a fixed fee / month.
+- [Science Fiction, Fantasy & Horror Sub-Genres](http://www.worldswithoutend.com/resources_sub-genres.asp)
+- [Ask HN: What books changed the way you think about almost everything? (2019)](https://news.ycombinator.com/item?id=19087418)
+- [Awesome Programming Books](https://github.com/majikarp/awesome-programming-books)
+- [Libby](https://meet.libbyapp.com/) - Local library of thousands of ebooks and audiobooks.
+- [Why books don’t work (2019)](https://andymatuschak.org/books/) ([HN](https://news.ycombinator.com/item?id=24542224))
+- [BookBrowser](https://github.com/geek1011/BookBrowser) - Easy-to-use tool to generate a web-based ePub and PDF ebook browser.
+- [Now, what do I read?](https://nowwhatdoiread.com/) - Enter your favorite book and get a list of suggested books to read.
+- [How I Read (2018)](http://sirupsen.com/read/)
+- [The Most Abandoned Books on GoodReads (2019)](https://www.gwern.net/GoodReads) ([HN](https://news.ycombinator.com/item?id=21957798))
+- [What Should I Read Next?](https://www.whatshouldireadnext.com/)
+- [Reedsy](https://reedsy.com/) - Crafting beautiful books is at the heart of everything that Reedsy does.
+- [Ask HN: Are books worth it? (2020)](https://news.ycombinator.com/item?id=21955258)
+- [1,000 Free Audio Books](http://www.openculture.com/freeaudiobooks)
+- [Read This Twice](https://readthistwice.com/) - Books worth reading twice.
+- [Holloway](https://www.holloway.com/) - Knowledge you can rely on. Modern book publisher.
+- [JSTOR Open Content Books](https://www.jstor.org/open/) ([Search](https://www.jstor.org/action/doImageSearch))
+- [Public Books Database](https://www.publicbooks.org/public-books-database/)
+- [LibriVox](https://librivox.org/) - Free public domain audiobooks. ([HN](https://news.ycombinator.com/item?id=23558686))
+- [Standard Ebooks](https://standardebooks.org/ebooks/) ([HN](https://news.ycombinator.com/item?id=25138534)) ([GitHub](https://github.com/standardebooks))
+- [SafariBooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from Safari Books Online library.
+- [Crafting "Crafting Interpreters" (2020)](http://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/) ([HN](https://news.ycombinator.com/item?id=22788738))
+- [BookAuthority](https://bookauthority.org/) - Curates the books recommended by the world's most successful CEOs, business leaders and experts.
+- [Ask HN: How can I restore my concentration when reading? (2020)](https://news.ycombinator.com/item?id=22855070)
+- [Writing a Book with Pandoc, Make, and Vim (2020)](https://keleshev.com/my-book-writing-setup/) ([HN](https://news.ycombinator.com/item?id=22854332))
+- [Library JSON - A Proposal for a Decentralized Goodreads (2020)](https://tomcritchlow.com/2020/04/15/library-json/)
+- [Springer Link](https://link.springer.com/) - Over 10 million scientific documents at your fingertips.
+- [Python script to download all Springer books](https://github.com/alexgand/springer_free_books)
+- [The Tools I Use To Write Books (2018)](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/) ([HN](https://news.ycombinator.com/item?id=31394719))
+- [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) - Python based software to unpack Amazon / Kindlegen generated ebooks.
+- [How to write a programming book (2020)](https://www.aquicarattino.com/blog/how-write-programming-book/) ([HN](https://news.ycombinator.com/item?id=23281568))
+- [Most book clubs are doing it wrong (2017)](http://jsomers.net/blog/book-clubs) ([HN](https://news.ycombinator.com/item?id=23292749))
+- [Antilibrary](https://www.antilibrari.es/) - Space both for celebrating all sorts of amazing books, and exploring more broadly the idea of learning from the unknown.
+- [Hello, EPUB (2020)](https://wooorm.com/blog/hello-epub/) - Intro to the format.
+- [On Books](https://github.com/jlevy/on-books) - Collection of readings and notes on the past, present, and future of books.
+- [I won't buy ebooks anymore (2020)](https://dustri.org/b/i-wont-buy-ebooks-anymore.html) ([HN](https://news.ycombinator.com/item?id=23310430)) ([Lobsters](https://lobste.rs/s/znjrtl/i_won_t_buy_ebooks_anymore))
+- [Reading habits that changed my life (2020)](https://medium.com/@manjotpahwa/10-reading-habits-that-changed-my-life-5c7673bc34bc) ([HN](https://news.ycombinator.com/item?id=23308931))
+- [LibraryThing](https://www.librarything.com/) - Catalog your books online.
+- [Bookshop](https://bookshop.org/) - Buy books online. Support local bookstores.
+- [Kindle Highlights](https://github.com/daneden/kindle-highlights) - Vercel/Next.js app to render my Kindle highlights.
+- [How I made \$3,300 on a short niche philosophy book (2020)](https://theotherlifenow.com/how-i-made-3300-on-a-short-niche-philosophy-book/) ([HN](https://news.ycombinator.com/item?id=23502179))
+- [Collection of free books from Springer](https://hnarayanan.github.io/springer-books/) ([HN](https://news.ycombinator.com/item?id=23520545))
+- [Project Gutenberg](https://www.gutenberg.org/) - Library of over 60,000 free eBooks.
+- [GutenSearch](https://gutensearch.com/) - Full text search Project Gutenberg (60m paragraphs) . ([HN](https://news.ycombinator.com/item?id=25889420))
+- [Ask HN: How do you read long PDFs? (2020)](https://news.ycombinator.com/item?id=23535060)
+- [The Open Book Project](https://github.com/joeycastillo/The-Open-Book) - Open-source, DRM-free Kindle alternative. ([HN](https://news.ycombinator.com/item?id=23584885))
+- [Ask HN: How do you take notes when reading a book? (2020)](https://news.ycombinator.com/item?id=23596471)
+- [Readwise](https://readwise.io/) - Makes it easy to revisit and learn from your ebook & article highlights. ([GitHub](https://github.com/readwiseio))
+- [Penguin Random House](https://www.penguinrandomhouse.com/) - Committed to publishing great books, connecting readers and authors globally, and spreading the love of reading.
+- [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun) ([HN](https://news.ycombinator.com/item?id=23676862))
+- [HN: There’s no replacement for the thrill of browsing in a bookstore (2020)](https://news.ycombinator.com/item?id=23678230)
+- [Lessons and Regrets from My \$25000 Book Launch (2020)](https://www.swyx.io/writing/coding-career-launch/)
+- [Timeful Texts (2020)](https://numinous.productions/timeful/) ([Tweet](https://twitter.com/andy_matuschak/status/1288221180063694848))
+- [Future Text Publishing](https://futuretextpublishing.com/) - Collection of dreams for how we want text to evolve as well as how we understand our current textual infrastructures, how we view the history of writing, and much more.
+- [Literature Map](https://www.literature-map.com/) - Tourist Map of Literature.
+- [Making a modern ebook with Standard Ebooks](https://awarm.space/fast/standard-ebooks)
+- [Readng](https://readng.co/) - Global community of book lovers & readers. ([Beta](https://beta.readng.co/))
+- [GITenberg](https://www.gitenberg.org/) - Open source community for publishing ebooks in the public domain. ([HN](https://news.ycombinator.com/item?id=24028510))
+- [Highlights from books and articles](https://highlights.melanie-richards.com/)
+- [The Book is a Program](https://hyperlink.academy/courses/the-book-is-a-program/21) - Practical exploration in dual-publishing websites and printed books, using Pollen, LaTeX, and the Racket programming language.
+- [Write a Micro-Textbook](https://hyperlink.academy/courses/write-a-micro-textbook/14) - Write a complete first draft of a micro-textbook on a subject of your choice.
+- [3D Book Image CSS Generator](https://3d-book-css.netlify.app/) ([Code](https://github.com/scastiel/3d-book-image-css-generator))
+- [StoryGraph](https://thestorygraph.com/index.html) - Help you to surface the best books that fit your current mood.
+- [Great book covers](https://twitter.com/simonsarris/status/1294317092393582600)
+- [Gatsby Starter Book](https://github.com/SaraVieira/gatsby-starter-book) - Gatsby starter focused on simplicity to help you create books.
+- [How Chekhov invented the modern short story (2020)](https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story) ([HN](https://news.ycombinator.com/item?id=24380587))
+- [I Want to Fix Goodreads (2020)](http://prepend.com/culture/2020/09/fixing_goodreads.html) ([HN](https://news.ycombinator.com/item?id=24454221))
+- [DeDRM tools for ebooks](https://github.com/apprenticeharper/DeDRM_tools) - Remove DRM from ebooks. ([Fork](https://github.com/noDRM/DeDRM_tools))
+- [Writing a book: is it worth it? (2020)](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html) ([HN](https://news.ycombinator.com/item?id=24628549))
+- [Searchable Library of book summaries](https://blas.com/books/searchable-library/)
+- [The Book Trail](https://www.thebooktrail.com/) - Match your next read to your destination with The Literary Travel Agency.
+- [Chareads](https://chareads.com/) ([YouTube](https://www.youtube.com/c/Chareads/videos))
+- [IntechOpen](https://www.intechopen.com/) - Publisher of Open Access books. By scientists, for scientists.
+- [Open Textbook Library](https://open.umn.edu/opentextbooks/)
+- [How I Made \$30,000 on My First Self-Published Book (2020)](https://randallkanna.medium.com/how-i-made-30k-on-my-first-self-published-book-2f9073dc33e5)
+- [Readium](https://www.readium.co/) - Easier way to track reading habits.
+- [Write Useful Books](https://writeusefulbooks.com/) - Guide containing everything I know about how to design, test, and refine nonfiction books.
+- [Inventaire](https://inventaire.io/) - Collaborative resource mapper powered by open-knowledge, starting with books. ([Code](https://github.com/inventaire/inventaire))
+- [Five Books](https://fivebooks.com/) - Best Books Recommended by Leading Experts.
+- [3D Book Cover](https://3dbook.xyz/) - Create your 3D Book Cover, and embed it on your website. ([HN](https://news.ycombinator.com/item?id=24906487))
+- [Pollen](https://github.com/mbutterick/pollen) - Book-publishing system written in Racket. ([Docs](https://docs.racket-lang.org/pollen/)) ([Guide](https://github.com/fasiha/pollen-guide))
+- [How I read (2020)](https://www.spakhm.com/p/how-i-read)
+- [ibis](https://github.com/themsaid/ibis) - PHP tool that helps you write eBooks in markdown and convert to PDF.
+- [Writing a technical book: from idea to print (2020)](https://sararobinson.dev/2020/11/17/writing-a-technical-book.html) ([HN](https://news.ycombinator.com/item?id=25138216))
+- [Bit Better Book Club](https://books.bitbetter.club/)
+- [No Starch Press](https://nostarch.com/) - Publishing company, specializing in technical literature often geared towards the geek, hacker, and DIY subcultures.
+- [Fable](https://fable.co/) - Social reading club app.
+- [How I read books: a guide on how to learn (2020)](https://denzhadanov.com/how-i-read-books-a-guide-on-how-to-learn-a943123a4aeb) ([HN](https://news.ycombinator.com/item?id=25286870))
+- [Guide to Effective Reading](https://maartenvandoorn.nl/reading-guide/) ([HN](https://news.ycombinator.com/item?id=25302132))
+- [Nat Eliason's Roam books notes](https://roamresearch.com/#/app/NatsBrain/page/oCtf5BOXi)
+- [Ask HN: How do you decide what books to read? (2020)](https://news.ycombinator.com/item?id=25367016)
+- [BookDark](https://bookdark.com/) - Read over 56000 Free Books Online.
+- [Books Search with Typesense](https://books-search.typesense.org/) - Instantly search 28M books from OpenLibrary (by Internet Archive). ([HN](https://news.ycombinator.com/item?id=25414389)) ([Code](https://github.com/typesense/showcase-books-search))
+- [A Book Like Foo](https://abooklikefoo.com/escape/) - Powerful Book Recommendations. ([HN](https://news.ycombinator.com/item?id=25405259))
+- [Open Library](https://openlibrary.org/) - Open, editable library catalog, building towards a web page for every book ever published. ([Code](https://github.com/internetarchive/openlibrary)) ([Open Library Data Dumps](https://openlibrary.org/developers/dumps))
+- [Packt](https://www.packtpub.com/) - Programming Books, eBooks & Videos for Developers. ([GitHub](https://github.com/PacktPublishing))
+- [Paged.js](https://github.com/pagedjs/pagedjs) - Open-source library to display paginated content in the browser and to generate print books using web technology.
+- [Verso Books](https://www.versobooks.com/) - Largest independent, radical publishing house in the English-speaking world, publishing one hundred books a year.
+- [BookWyrm](https://bookwyrm.social/) - Federated GoodReads Replacement. ([Code](https://github.com/mouse-reeve/bookwyrm)) ([Article](https://wedistribute.org/2021/08/bookwyrm-is-the-federated-goodreads-replacement-i-didnt-know-i-needed/)) ([HN](https://news.ycombinator.com/item?id=28420580))
+- [The Most Popular College Books](https://www.degreequery.com/the-most-popular-college-books/) ([HN](https://news.ycombinator.com/item?id=25771181))
+- [Downpour](https://www.downpour.com/) - DRM Free Audiobooks. ([HN](https://news.ycombinator.com/item?id=25810675))
+- [Free Science Books](https://github.com/EbookFoundation/free-science-books/blob/master/free-science-books.md)
+- [Free Ebook Foundation](https://ebookfoundation.org/) - Making the world safe for free ebooks. ([GitHub](https://github.com/EbookFoundation))
+- [Approaching (Almost) Any Machine Learning Problem (2020)](https://www.goodreads.com/book/show/53928375-approaching-almost-any-machine-learning-problem) ([Article](https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur/)) ([Code](https://github.com/abhishekkrthakur/approachingalmost))
+- [ePubViewer](https://pgaskin.net/ePubViewer/) - ePub viewer with dictionary, themes, search, offline support, and more. ([Code](https://github.com/pgaskin/ePubViewer))
+- [Historical Dictionary of Science Fiction](https://sfdictionary.com/) ([HN](https://news.ycombinator.com/item?id=25934170))
+- [Old Book Illustrations](https://www.oldbookillustrations.com/)
+- [Shortform](https://www.shortform.com/) - World's Best Book Summaries.
+- [Book Marks Reviews](https://bookmarks.reviews/) - Book review aggregator.
+- [Literary Hub](https://lithub.com/) - Daily literary website highlighting the best in contemporary fiction, nonfiction, and criticism.
+- [The new reading stack (2020)](https://macwright.com/2020/12/24/the-new-reading-stack.html) ([HN](https://news.ycombinator.com/item?id=26035740))
+- [Goodreads Scraper](https://github.com/maria-antoniak/goodreads-scraper) - Python scripts can be used to collect book reviews and metadata from Goodreads.
+- [Reading Techniques](https://students.dartmouth.edu/academic-skills/learning-resources/learning-strategies/reading-techniques)
+- [Bookfeed.io](http://bookfeed.io/) - RSS Feed with New Releases from Your Favorite Authors.
+- [50 Great Classic Novels Under 200 Pages (2021)](https://lithub.com/50-great-classic-novels-under-200-pages/)
+- [Literary Hub](https://lithub.com/) - Daily literary website.
+- [The Art of Reading More Effectively and Efficiently](https://aliabdaal.com/read-more-effectively/) ([HN](https://news.ycombinator.com/item?id=26273735))
+- [Find Books](https://www.findbooks.co.uk/) - Generate search query links for books across a range of websites.
+- [worldmiao.two](https://www.worldmiao.com/) - Book search engine.
+- [How I self-published a professional paperback and eBook using LaTeX and Pandoc](http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc)
+- [Zeneca](https://www.zeneca.io/) - Share and discuss your favorite books. ([HN](https://news.ycombinator.com/item?id=26387444))
+- [Plex & Booksonic Audiobook Guide](https://github.com/seanap/Plex-Audiobook-Guide) - Walkthrough for optimal Audiobook experience using Plex.
+- [Ask HN: Do you read books regularly? Fiction or nonfiction? (2021)](https://news.ycombinator.com/item?id=26593122)
+- [The Ambiguous Utopia of Iain M. Banks](https://www.thenewatlantis.com/publications/the-ambiguous-utopia-of-iain-m-banks) ([HN](https://news.ycombinator.com/item?id=26612063))
+- [Storytel](https://www.storytel.com/) - Audiobooks in your iPhone or Android mobile.
+- [What Goodreads could have been (2021)](https://notfunatparties.substack.com/p/what-goodreads-could-have-been)
+- [Copybooks](https://www.copybooks.app/) - Books recommended by real people, not Amazon's robots. ([Code](https://github.com/tomjohnneill/copybooks))
+- [Pictures, Engravings and Extracts From Old Books](https://www.fromoldbooks.org/)
+- [Why has no one made a better Goodreads (2021)](https://uxdesign.cc/why-has-no-one-made-a-better-goodreads-dfc9cb9e149a) ([HN](https://news.ycombinator.com/item?id=26834833))
+- [How to Write a Technical Book (2021)](https://serhack.me/articles/how-to-write-technical-book/) ([HN](https://news.ycombinator.com/item?id=26831469)) ([Lobsters](https://lobste.rs/s/9mcwxo/writing_technical_book))
+- [Shepherd](https://shepherd.com/) - Discover The Best Books To Read. ([HN](https://news.ycombinator.com/item?id=26871660))
+- [Ask HN: How do you become an active reader and deep thinker? (2021)](https://news.ycombinator.com/item?id=26866463)
+- [Goodreads Datasets](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home) ([Code](https://github.com/MengtingWan/goodreads)) ([Reddit](https://www.reddit.com/r/Archiveteam/comments/mxccfp/the_goodreads_metadata_collection_retired_and_51/))
+- [Little Free Library](https://littlefreelibrary.org/) ([HN](https://news.ycombinator.com/item?id=27080639))
+- [Ask HN: How can I read faster? (2021)](https://news.ycombinator.com/item?id=27103792)
+- [Writing books is not really a good idea (2021)](https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors) ([HN](https://news.ycombinator.com/item?id=27106055))
+- [Writing a Programming Book in 2021](https://jmtirado.net/writing-a-programming-book-in-2021/) ([HN](https://news.ycombinator.com/item?id=27129518))
+- [Librimood](https://librimood.com/) - Find books based on your mood.
+- [Suggest Me A Book Reddit](https://www.reddit.com/r/suggestmeabook/)
+- [Writing a Technical Book (2021)](https://andregarzia.com/2021/04/writing-a-technical-book.html)
+- [Unbuch](https://github.com/mrtzh/unbuch) - Compile markdown into an HTML and PDF book based on Pandoc.
+- [So You Want to Write a Book](https://ed2592press.com/author/)
+- [How to Write a Programming Book (2021)](https://cscalfani.medium.com/how-to-write-a-programming-book-76ab4f8a7071) ([HN](https://news.ycombinator.com/item?id=27537626))
+- [Setanta Books](https://www.setantabooks.com/) - Rare and Collectable Photography and Books.
+- [IndieBound.org](https://www.indiebound.org/) - Find your local indie bookstore.
+- [Oku](https://oku.club/) - The companion app for your book shelf.
+- [A Book Apart](https://abookapart.com/) - Brief books for people who design, write, and code.
+- [Aleator Press](https://www.aleator.press/) - Computer-Generated Literature.
+- [640 Pages in 15 Months (2021)](https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/) ([Lobsters](https://lobste.rs/s/18uvjm/640_pages_15_months))
+- [So you want to self-publish books and courses on programming (2021)](https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/)
+- [Writing an iOS book: tools/process used (2021)](https://twitter.com/JordanMorgan10/status/1422189031547363328)
+- [The 4 Reading Levels: Different Ways To Read Different Books (2018)](https://www.thecuriousreader.in/features/reading-levels/)
+- [Apress](https://www.apress.com/) - Book publisher. ([GitHub](https://github.com/Apress))
+- [ЛитРес](https://www.litres.ru/) - Библиотека электронных книг – скачивай, читай и слушай. ([GitHub](https://github.com/Litres))
+- [How to Remember What You Read (2021)](https://fs.blog/2021/08/remember-books/) ([HN](https://news.ycombinator.com/item?id=28254378))
+- [How manager's handbook was written incorporating feedback using Notion/GoogleDoc (2021)](https://blog.alexmaccaw.com/the-managers-handbook-2/)
+- [Gnooks](https://www.gnooks.com/) - Discover new Books.
+- [Literature Map](https://www.literature-map.com/) - The Tourist Map of Literature.
+- [Ruby for ebook publishing (2021)](https://nts.strzibny.name/ruby-for-ebook-publishing/)
+- [Summarizing Books with Human Feedback](https://openai.com/blog/summarizing-books/) ([HN](https://news.ycombinator.com/item?id=28643335))
+- [73 Beautiful Books from the MIT Press Essential Knowledge Series](https://abakcus.com/seventy-three-beautiful-books-from-the-mit-press-essential-knowledge-series/)
+- [The Anarchist Library](https://theanarchistlibrary.org/special/index)
+- [Kevin's Book Notes](https://www.kevinslin.com/notes/ad075218-7dae-479b-8415-d54c10ef103e/)
+- [IndiePaper](https://indiepaper.me/) - Easy way to write and sell self-published books. ([HN](https://news.ycombinator.com/item?id=28775313))
+- [Z-Library](https://z-lib.org/) - World's largest ebook library.
+- [Z-Library Books](https://nl1lib.org/)
+- [Z-Library Articles](https://booksc.org/)
+- [Top Shelves | Goodreads](https://www.goodreads.com/shelf)
+- [Royal Road](https://www.royalroad.com/welcome) - Home of web fiction.
+- [Why did Dostoyevsky write Crime and Punishment? (2021)](https://www.theatlantic.com/magazine/archive/2021/11/dostoyevsky-crime-punishment-birmingham-sinner-saint/620175/) ([HN](https://news.ycombinator.com/item?id=28975061))
+- [Manning Deal of the Day](https://www.manning.com/dotd)
+- [So you want to write a technical book (2021)](http://terathon.com/blog/so-you-want-to-write-a-technical-book/) ([HN](https://news.ycombinator.com/item?id=29022499))
+- [Ytalki](https://ytalki.com/) - Find books in a foreign language according to your language level.
+- [The Internet Archive transforms access to books in a digital world (2021)](https://www.eff.org/deeplinks/2021/10/internet-archive-transforms-access-books-digital-world) ([HN](https://news.ycombinator.com/item?id=29043066))
+- [Philip K. Dick’s Novels Of The '50s Are Underrated And (Mostly) Untouched By Hollywood](https://neotextcorp.com/culture/philip-k-dicks-novels-of-the-50s-are-underrated-and-mostly-untouched-by-hollywood/)
+- [AutoBook](https://zachernuk.neocities.org/autobook/) - Procedural 3D book configurator. ([Tweet](https://twitter.com/zachernuk/status/1457767271418327045))
+- [BookNLP](https://github.com/booknlp/booknlp) - Natural language processing pipeline for books.
+- [London Review of Books](https://lrb.co.uk/)
+- [Kavita](https://www.kavitareader.com/) - Browse your Manga, Comics and Books.
+- [Tablo](https://tablo.com/) - Best place to create, print and publish a poetry book. ([Print](https://tablo.com/print))
+- [How I wrote my book](https://www.kevinwmcconnell.com/writing/how-i-wrote-my-book)
+- [BookStash](https://bookstash.io/) - Ideas from Top Books in 3m or less.
+- [Books.jl](https://github.com/rikhuijzer/Books.jl) - Create books with Julia. ([Template](https://github.com/JuliaBooks/BookTemplate)) ([Web](https://booktemplate.huijzer.xyz/))
+- [How to Write a Technical Book (2021)](https://cnr.sh/essays/how-to-write-a-technical-book)
+- [NPR Books: Book Reviews, Book News, and Author Interviews](https://www.npr.org/books)
+- [Things I learned writing my first technical book (2021)](https://blog.klipse.tech/book/2021/12/19/100-things-I-learned-with-data-oriented-programming.html) ([HN](https://news.ycombinator.com/item?id=29687935))
+- [Издательство «МИФ»](https://www.mann-ivanov-ferber.ru/)
+- [How James Clear is Writing His Next Book (2021)](https://every.to/superorganizers/how-james-clear-is-writing-his-next-book)
+- [How to easily read 50 books a year](https://www.ramoswriter.com/how-to-read-more/) ([HN](https://news.ycombinator.com/item?id=29905186))
+- [Thoth](https://github.com/thoth-pub/thoth) - Metadata management and dissemination system for Open Access books.
+- [Global Grey ebooks](https://www.globalgreyebooks.com/index.html) - Free public domain ebooks in PDf, ePub, mobi formats. ([HN](https://news.ycombinator.com/item?id=30352207))
+- [Standard Ebooks toolset for producing ebook files](https://github.com/standardebooks/tools)
+- [How a Book Is Made – Ink, Paper and a 200k-Pound Printer (2022)](https://www.nytimes.com/interactive/2022/02/19/books/how-a-book-is-made.html) ([HN](https://news.ycombinator.com/item?id=30407060))
+- [Booqsi](https://www.booqsi.com/) - Show HN: A more social, Amazon-free alternative to Goodreads. ([HN](https://news.ycombinator.com/item?id=30503197))
+- [Useful Books](https://www.usefulbooks.com/) - Community, process, and tools to help you write great nonfiction, from first idea to first edition.
+- [Indie bookshelves](https://macwright.com/2022/02/24/indie-bookshelves.html)
+- [SQL-Powered Reading List (2022)](https://charlieharrington.com/sql-powered-reading-list/)
+- [Audio Book Shelf](https://www.audiobookshelf.org/) - Self-hosted Audiobook Server. ([Code](https://github.com/advplyr/audiobookshelf)) ([HN](https://news.ycombinator.com/item?id=31727114))
+- [A Good Used Book](https://agoodusedbook.com/)
+- [ZLibrary Books](https://b-ok.xyz/)
+- [Litnerd](https://litnerd.com/) - Bringing Books to Life.
+- [From Idea to Self-published Book: 27 Writing and Book Marketing Tips (2022)](https://tealfeed.com/idea-self-published-book-27-writing-pyqst)
+- [Kepubify](https://github.com/pgaskin/kepubify) - Fast, standalone EPUB to Kobo EPUB conversion tool.
+- [Openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks.
+- [Librarian](https://github.com/portah/librarian) - Index, search, read ebooks - pdf, epub.
+- [Docland](https://github.com/mpazik/docland) - Application that allows a user to display, organize, search and store all the articles and ebooks a person has ever read, together with personal annotations and comments.
+- [How Neuromancer formed the Cyberpunk Aesthetics](https://sabukaru.online/articles/how-neuromancer-birthed-cyberpunk) ([HN](https://news.ycombinator.com/item?id=30918411))
+- [Goodreads book parser in NodeJS](https://github.com/shakogegia/goodreads-parser)
+- [I sold 640 copies of my book in one year (2022)](https://nts.strzibny.name/one-year-of-sales/) ([HN](https://news.ycombinator.com/item?id=31153963))
+- [Petar's Virtual Bookshelf](https://petargyurov.com/bookshelf/) ([HN](https://news.ycombinator.com/item?id=31293727)) ([Code](https://github.com/petargyurov/virtual-bookshelf))
+- [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action) - Track your reading using GitHub Actions.
+- [New York Review Books](https://www.nyrb.com/)
+- [Thomas' Book Notes](https://thomasmorales.com/book-notes)
+- [Kindle, ePub, and Amazon’s love of reinventing wheels (2022)](https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/) ([HN](https://news.ycombinator.com/item?id=31418791))
+- [14 Amazing Books Summarized in One Minute (Or Less) (2022)](https://www.youtube.com/watch?v=9-xTH7r_QNQ)
+- [DALL-E can bring fantasy novels to life. Each paragraph can be used to generate a unique set of vivid imagery on the fly](https://twitter.com/wenquai/status/1527312285152452608)
+- [Coffee Table Mags](https://coffeetablemags.de/)

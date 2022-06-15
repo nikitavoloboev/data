@@ -1,0 +1,117 @@
+---
+title: Prisma
+---
+
+# [Prisma](https://www.prisma.io/)
+
+I prefer using [EdgeDB](edgedb.md) for all my DB needs, it has a [better way to do queries](https://www.youtube.com/watch?v=WVRLim8A8-I&t=1906s).
+
+[Schemix](https://github.com/ridafkih/schemix) is neat.
+
+## Links
+
+- [Prisma code](https://github.com/prisma/prisma)
+- [Lift](https://github.com/prisma) - Declarative data modeling & database migrations.
+- [Prisma Framework Specifications](https://github.com/prisma/specs)
+- [Prisma 2.0 is Now in Beta: Type-safe Database Access with Prisma Client](https://www.prisma.io/blog/prisma-2-beta-b7bcl0gd8d8e) ([HN](https://news.ycombinator.com/item?id=22739121))
+- [Prisma Examples](https://github.com/prisma/prisma-examples) ([GraphQL Server Example](https://github.com/prisma/prisma-examples/tree/master/typescript/graphql))
+- [Prisma Client](https://github.com/prisma/prisma-client-js) - Type-safe database client for TypeScript & Node.js (ORM replacement).
+- [Prisma Docs](https://www.prisma.io/docs/) ([Code](https://github.com/prisma/prisma2-docs))
+- [nexus-schema-prisma](https://github.com/AhmedElywa/nexus-schema-prisma) - Prisma CRUD schema generator for database-backed GraphQL servers.
+- [nexus-plugin-prisma](https://github.com/graphql-nexus/nexus-plugin-prisma) - Plugin for Nexus that integrates Prisma.
+- [Kitze & Nikolas from Prisma discuss the future of Prisma and GraphQL](https://www.youtube.com/watch?v=SbPCWpb3-eA)
+- [NestJS Prisma Starter](https://github.com/fivethree-team/nestjs-prisma-starter) - Includes Graphql with Prisma Client, Passport-JWT authentication, Swagger Api and Docker.
+- [Prisma 2.0 Demo by Nikolas Burk (2020)](https://www.youtube.com/watch?v=AnJxKWQG_fM)
+- [Prisma 2.0: Confidence and productivity for your database (2020)](https://www.prisma.io/blog/announcing-prisma-2-n0v98rzc8br1) ([HN](https://news.ycombinator.com/item?id=23466834))
+- [Complete Introduction to Fullstack, Type-Safe GraphQL (feat. Next.js, Nexus, Prisma) (2020)](https://dev.to/prisma/complete-introduction-to-fullstack-type-safe-graphql-feat-next-js-nexus-prisma-c5)
+- [Prisma Engines](https://github.com/prisma/prisma-engines) - Collection of engines that power the core stack for Prisma.
+- [Prisma Language Support](https://github.com/prisma/language-tools)
+- [Awesome Prisma](https://github.com/catalinmiron/awesome-prisma)
+- [Nikolas Burk on Prisma 2 (2020)](https://overcast.fm/+N_6LdHvjk)
+- [Building a Modern Backend with TypeScript, PostgreSQL and Prisma (2020)](https://www.prisma.io/blog/modern-backend-1-tsjs1ps7kip1)
+- [Reddit built with Next, Prisma](https://github.com/nikolasburk/lireddit/) ([Original](https://github.com/benawad/lireddit))
+- [Prisma's Data Guide](https://dataguide.prisma.io/) - Educational articles to make databases more approachable. ([Code](https://github.com/prisma/dataguide))
+- [Prisma Client Go](https://github.com/prisma/prisma-client-go) - Typesafe database access for Go.
+- [TypeGraphQL & Prisma 2 integration](https://github.com/MichalLytek/typegraphql-prisma) - Prisma 2 generator to emit TypeGraphQL types and CRUD resolvers from your Prisma 2 schema.
+- [Nexus Shield](https://github.com/Sytten/nexus-shield) - Nexus plugin to ease the creation of the authorization layer.
+- [JavaScript interface for Prisma Schema DSL](https://github.com/amplication/prisma-schema-dsl)
+- [Prisma Codemods](https://github.com/prisma/codemods) - Collection of Codemods for Prisma.
+- [How to Run Prisma Studio in Production on Render.com](https://github.com/blitz-js/blitz/wiki/How-to-Run-Prisma-Studio-in-Production-on-Render.com)
+- [Prisma Migrate Preview - Database Migrations Simplified (2020)](https://www.prisma.io/blog/prisma-migrate-preview-b5eno5g08d0b)
+- [CDK API with GraphQL and Aurora Serverless PostgreSQL and Prisma](https://github.com/ryands17/graphql-api-cdk-serverless-postgres)
+- [prisma-schema-transformer](https://github.com/IBM/prisma-schema-transformer) - Prisma schema post-processor.
+- [Prisma fixtures CLI](https://github.com/getbigger-io/prisma-fixtures) - Prisma 2 Fixtures Management Tool.
+- [Prisma Studio](https://prisma.studio/) - IDE for your database.
+- [Nest Prisma CRUD](https://github.com/johannesschobel/nest-prisma-crud) - Example on how to create a CRUD Service for Prisma.
+- [Seeding Databases with Prisma (2021)](https://www.youtube.com/watch?v=2LwTUIqjbPo)
+- [Prisma ERD](https://prisma-erd.simonknott.de/) - Small tool to visualize Prisma schemas as Entity-Relationship Diagrams. ([Code](https://github.com/Skn0tt/prisma-erd))
+- [Prettier plugin for Prisma](https://github.com/umidbekk/prettier-plugin-prisma)
+- [NextJS with Prisma](https://github.com/chenkie/next-prisma) - Sample project shows how to use NextJS with Prisma.
+- [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) - Extend Prisma's findMany method to support Relay Cursor Connections.
+- [Prisma DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator) - Automatically generate a DBML schema from your Prisma Schema. ([Article](https://notiz.dev/blog/prisma-dbml-generator))
+- [Hassle-Free Database Migrations with Prisma Migrate (2021)](https://www.prisma.io/blog/prisma-migrate-ga-b5eno5g08d0b) ([HN](https://news.ycombinator.com/item?id=26480466))
+- [nexus-prisma](https://github.com/prisma/nexus-prisma) - Official Prisma plugin for Nexus.
+- [How to deploy Prisma in AWS Lambda with Serverless (2021)](https://dev.to/eddeee888/how-to-deploy-prisma-in-aws-lambda-with-serverless-1m76) ([Code](https://github.com/eddeee888/topic-prisma-aws-lambda-deployment))
+- [How to write tests for Prisma with Docker and Jest (2021)](https://dev.to/eddeee888/how-to-write-tests-for-prisma-with-docker-and-jest-593i) ([Code](https://github.com/eddeee888/topic-prisma-testing))
+- [Prisma – The Complete ORM for Node.js and TypeScript (2021)](https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb) ([HN](https://news.ycombinator.com/item?id=26887724))
+- [Trisma](https://github.com/alii/trisma) - Experimental way of creating a Prisma DMMF with TypeScript Decorators.
+- [Prisma Admin](https://github.com/paljs/prisma-admin) - Full-stack Prisma, GraphQL, Nexus, Apollo, and NextJS with Admin UI to control your Prisma DB.
+- [Pal.js](https://paljs.com/) - Start your NodeJs, Prisma, GraphQL, React project. ([GitHub](https://github.com/paljs))
+- [How to Spot Bottlenecks in DB Performance](https://www.prisma.io/dataguide/managing-databases/how-to-spot-bottlenecks-in-performance)
+- [Prisma + Serverless-Stack](https://github.com/millsp/prisma-serverless-stack)
+- [Using Prisma With PostgreSQL on DigitalOcean (2021)](https://www.youtube.com/watch?v=0EcgdCSPygM)
+- [GoPrisma](https://github.com/jensneuse/goprisma) - Go wrapper for prisma to turn databases into GraphQL APIs using Go.
+- [prisma-repl](https://github.com/egoist/prisma-repl) - REPL for Prisma databases.
+- [Prisma-AppSync](https://github.com/maoosi/prisma-appsync) - Converts your Prisma Schema into a full-blown GraphQL API for AWS AppSync. ([Docs](https://prisma-appsync.vercel.app/))
+- [Prisma Labs GitHub](https://github.com/prisma-labs)
+- [A Practical Introduction to Prisma (2021)](https://www.notion.so/A-Practical-Introduction-to-Prisma-2021-ccf00a066ef4432caeb03da179e38302) ([Code](https://github.com/nikolasburk/prisma-workshop))
+- [Prisma, Next.js & ISR: Building Speedy Web Apps](https://github.com/sampoder/prisma-day-2021)
+- [Prisma Day](https://www.prisma.io/day)
+- [Prismix](https://github.com/jamiepine/prismix) - Prisma schema mixer.
+- [Prismaliser](https://prismaliser.ovy.cloud/) - Visualise your Prisma schema. ([Code](https://github.com/Ovyerus/prismaliser))
+- [Cached Prisma](https://github.com/JoelLefkowitz/cached-prisma) - Prisma client abstraction that simplifies caching.
+- [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py) - Type-safe database access for Python.
+- [Build a Backend with Prisma in a TypeScript Node Project (2021)](https://egghead.io/courses/build-a-backend-with-prisma-in-a-typescript-node-project-ca6628d3)
+- [Set up a free PostgreSQL database on Supabase to use with Prisma (2021)](https://dev.to/prisma/set-up-a-free-postgresql-database-on-supabase-to-use-with-prisma-3pk6)
+- [Prisma Schema Examples](https://github.com/prisma/templates) - Ready-to-use Prisma schema examples.
+- [zod-prisma](https://github.com/anolilab/zod-prisma) - Helpful packages to work with prisma and zod.
+- [Prisma Documentation Generator](https://github.com/pantharshit00/prisma-docs-generator) - Automatically generate a reference from your Prisma Schema.
+- [Prisma project with Nix](https://github.com/pimeys/nix-prisma-example)
+- [Upload and display images using Prisma (2021)](https://mediajams.dev/post/upload-and-display-images-using-prisma)
+- [Prisma e2e Tests](https://github.com/prisma/e2e-tests) - Continuously tests Prisma Client on various operating systems, frameworks and platforms.
+- [Declarative Prisma Authorization layer](https://github.com/joindeed/prisma-auth)
+- [Prisma JSON Schema Generator](https://github.com/valentinpalkovic/prisma-json-schema-generator) - Generator, which takes a Prisma 2 schema.prisma and generates a JSON Schema.
+- [Prisma Entity Relationship Diagram Generator](https://github.com/keonik/prisma-erd-generator)
+- [Prisma TypeGraphQL Types Generator](https://github.com/YassinEldeeb/prisma-tgql-types-gen)
+- [Prisma Serverless Conference 2021 - YouTube](https://www.youtube.com/watch?v=fAcHR5dqt_4)
+- [Prisma Migrate: Deploy Migration with Docker (2021)](https://notiz.dev/blog/prisma-migrate-deploy-with-docker)
+- [Prisma Chats with Shanon Jackson - end-to-end type safety with Next.js and Prisma (2021)](https://www.youtube.com/watch?v=ur-SYNqADTY)
+- [Zod Prisma](https://github.com/CarterGrimmeisen/zod-prisma) - Custom Prisma generator that creates Zod schemas from your Prisma model.
+- [Transparent field-level encryption at rest for Prisma](https://github.com/47ng/prisma-field-encryption)
+- [Prisma Schema Builder](https://www.prismabuilder.io/) - Build your Prisma schema visually in this easy-to-use web based tool. ([Code](https://github.com/albingroen/prismabuilder.io))
+- [Improving the Prisma VS Code Extension with WebAssembly (2021)](https://www.prisma.io/blog/vscode-extension-prisma-rust-webassembly)
+- [prisma-fmt-wasm](https://github.com/prisma/prisma-fmt-wasm) - Build logic to package the prisma-fmt engine into a Node package as a WASM module.
+- [GraphQL-Schema-Generator for Prisma](https://github.com/prisma-korea/graphql-schema-generator)
+- [Prisma Data Platform](https://cloud.prisma.io/)
+- [Create Prisma Generator](https://github.com/YassinEldeeb/create-prisma-generator) - Get started developing your own Prisma generator by running a single command.
+- [Aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations.
+- [TypeScript, PostgreSQL, Prisma | Data Modeling, CRUD, Aggregates (2020)](https://www.prisma.io/blog/backend-prisma-typescript-orm-with-postgresql-data-modeling-tsjs1ps7kip1) ([Code](https://github.com/2color/real-world-grading-app))
+- [GraphQL Server with Authentication Prisma 2 and Nexus Schema](https://github.com/ryands17/nexus-auth)
+- [prisma-ast](https://github.com/MrLeebo/prisma-ast) - Abstract Syntax Tree for parsing schema.prisma files.
+- [Prima Client Rust](https://github.com/Brendonovich/prisma-client-rust)
+- [Prisma2Keystone](https://github.com/brookmg/prisma2keystone) - CLI to generate a starter schema for keystone-6 from a pre-existing prisma schema.
+- [Prisma-multi-tenant](https://github.com/Errorname/prisma-multi-tenant) - Use Prisma as a multi-tenant provider for your application.
+- [Schema-Based Multi-Tenancy with NestJS and Prisma (2020)](https://darioielardi.dev/schema-based-multi-tenancy-with-nestjs-and-prisma) ([Code](https://github.com/darioielardi/nestjs-prisma-multitenant))
+- [prisma-case-format](https://github.com/iiian/prisma-case-format) - Give your introspected schema.prisma sane naming conventions.
+- [Prisma Reflector](https://github.com/prisma/reflector) - Utilities for meta-level interactions with the Prisma toolkit in Node.js.
+- [prisma-redis-middleware](https://github.com/Asjas/prisma-redis-middleware) - Prisma Middleware for caching queries in Redis.
+- [NextJS Plugin for Prisma](https://github.com/prisma-labs/next-prisma-plugin) - Enables Hot Reloads for the Prisma Client.
+- [Database Schema Examples we strive to support in Prisma](https://github.com/prisma/database-schema-examples)
+- [Prisma + tRPC](https://github.com/SaraVieira/rssx)
+- [refract](https://github.com/cwqt/refract) - TypeScript SDK for Prisma.
+- [sb-prisma](https://github.com/aiji42/sb-prisma) - Library that uses REST API of Supabase directly from the Prisma client to process databases.
+- [Prisma tRPC Generator](https://github.com/omar-dulaimi/prisma-trpc-generator)
+- [Schemix](https://github.com/ridafkih/schemix) - Allows you to programmatically create Prisma schemas using TypeScript.
+- [Prisma 2 GraphQL](https://github.com/zackradisic/prisma2gql) - Code generator for Prisma schema files.
+- [Prisma JSON Server Generator](https://github.com/omar-dulaimi/prisma-json-server-generator) - Prisma generator that automates creating a JSON file that can be run as a server from your Prisma schema.
+- [Prisma Yup Generator](https://github.com/omar-dulaimi/prisma-yup-generator) - Prisma 2+ generator to emit Yup schemas from your Prisma schema.

@@ -1,0 +1,141 @@
+---
+title: AWS Lambda
+---
+
+# [AWS Lambda](https://aws.amazon.com/lambda/)
+
+[Serverless framework](https://www.serverless.com/) seems nice. [Netlify Edge Functions seem cheaper/better](https://twitter.com/swyx/status/1516508728274690054).
+
+## Notes
+
+- [I just reduced latency by \~ 10x by bumping memory from default to \~1GB. w/ provisioned concurrency brought the request time down to around 30ms w DDB](https://twitter.com/dabit3/status/1299846109448282112)
+
+## Links
+
+- [Writing AWS Lambda Functions in Rust](https://github.com/SilentByte/rust-lambda) ([Article](https://silentbyte.com/writing-aws-lambda-functions-in-rust))
+- [sqs-lambda](https://github.com/insanitybit/sqs-lambda) - Rust crate for writing AWS Lambdas that are triggered by SQS.
+- [WTF is AWS Lambda course (2020)](https://egghead.io/lessons/aws-wtf-is-aws-lambda)
+- [Create an AWS Lambda function from scratch (2020)](https://dev.to/tlakomy/create-an-aws-lambda-function-from-scratch-3fdd)
+- [AWSome Lambda Layers](https://github.com/mthenw/awesome-layers)
+- [5 reasons why you might use AWS Lambda for your next project (2020)](https://dev.to/tlakomy/5-reasons-why-you-might-use-aws-lambda-for-your-next-project-ik8)
+- [AWS SAM Local](https://aws.amazon.com/about-aws/whats-new/2017/08/introducing-aws-sam-local-a-cli-tool-to-test-aws-lambda-functions-locally/) - Allows you to run your serverless application locally for quick development and testing.
+- [python-lambda-layer-builder](https://github.com/tobilg/python-lambda-layer-builder) - Build tool for creating optimized Python AWS Lambda layers.
+- [Working with AWS Lambda and Chalice (2020)](https://papercup.dev/posts/working-with-aws-lambda-and-chalice/)
+- [Notes on AWS Lambda (2020)](https://twitter.com/scottdomes/status/1249787042797465600)
+- [AWS Lambda for Go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
+- [Apollo AWS Lambda with GraphQL subscriptions](https://github.com/michalkvasnicak/aws-lambda-graphql)
+- [Lambda Powertools](https://github.com/awslabs/aws-lambda-powertools) - Suite of utilities for AWS Lambda Functions that makes tracing with AWS X-Ray, structured logging and creating custom metrics asynchronously easier.
+- [Bash in AWS Lambda](https://github.com/gkrizek/bash-lambda-layer)
+- [AWS Lambda Go Api Proxy](https://github.com/awslabs/aws-lambda-go-api-proxy) - Makes it easy to run Golang APIs written with frameworks such as Gin with AWS Lambda and Amazon API Gateway.
+- [AWS Lambda Power Tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Step Functions state machine that helps you optimize your Lambda functions in a data-driven way.
+- [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime) ([HN](https://news.ycombinator.com/item?id=23352501))
+- [A Shared File System for Your Lambda Functions (2020)](https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/) ([HN](https://news.ycombinator.com/item?id=23543554))
+- [Chalice](https://github.com/aws/chalice) - Framework for writing serverless apps in python. It allows you to quickly create and deploy applications that use AWS Lambda.
+- [Chaos Lambda](https://github.com/artilleryio/chaos-lambda) - Serverless chaos monkey for AWS (runs on AWS Lambda).
+- [AWS CDK Made Simple: Run a Lambda function locally (2020)](https://tlakomy.com/run-cdk-lambda-function-locally)
+- [Building Your First Serverless Service With AWS Lambda Functions (2020)](https://css-tricks.com/building-your-first-serverless-service-with-aws-lambda-functions/)
+- [Introducing Direct Lambda Resolvers: AWS AppSync GraphQL APIs without VTL](https://aws.amazon.com/blogs/mobile/appsync-direct-lambda/)
+- [Cache AWS Lambda responses with Cloudflare (2020)](https://kylebarron.dev/blog/caching-lambda-functions-cloudflare)
+- [Debugging AWS Lambda Timeouts (2020)](https://lumigo.io/blog/debugging-aws-lambda-timeouts/)
+- [Show HN: AWS Lambda TypeScript Middleware](https://github.com/dbartholomae/lambda-middleware) ([Docs](https://dbartholomae.github.io/lambda-middleware/)) ([HN](https://news.ycombinator.com/item?id=24280237))
+- [Serverless ML Inference with AWS Lambda + Amazon EFS (2020)](https://medium.com/faun/setup-serverless-ml-inference-with-aws-lambda-efs-738546fa2e03)
+- [Lambda calculus and Graham’s number (2012)](https://mindsarentmagic.org/2012/11/22/lambda-graham/)
+- [Rust on AWS Lambda Using AWS CDK for Deployment](https://github.com/codetalkio/patterns-serverless-rust-minimal)
+- [The Complete AWS Lambda Handbook for Beginners (2020)](https://dashbird.io/blog/complete-aws-lambda-handbook-beginners-part-1/)
+- [AWS Lambda Extensions – In preview (2020)](https://aws.amazon.com/blogs/compute/introducing-aws-lambda-extensions-in-preview/) ([Tweet](https://twitter.com/dhruvsood/status/1314236371570024449))
+- [Building Bad Lambda (2020)](https://kohidave.dev/posts/building-bad-lambda/)
+- [golambda](https://github.com/rakyll/golambda) - AWS Lambda Go functions made easy.
+- [Determine prominent colors in a picture, your first AWS Lambda in Go (2020)](https://buddy.works/tutorials/determine-prominent-colors-in-a-picture-your-first-aws-lambda-in-go)
+- [Using AWS Lambda to sync an Elastic Load Balancer's Target Groups (2020)](https://emilenijssen.nl/6-aws-lambda-sync-elastic-load-balancer-target-groups/)
+- [AWS Lambda Runtime Interface Emulator](https://github.com/aws/aws-lambda-runtime-interface-emulator)
+- [Integration testing for AWS Lambda in Go with Docker-compose (2020)](https://buddy.works/tutorials/integration-testing-for-aws-lambda-in-go-with-docker-compose)
+- [Optimizing Lambda Cost with Multi-Threading (2020)](https://www.sentiatechblog.com/aws-re-invent-2020-day-3-optimizing-lambda-cost-with-multi-threading)
+- [AWS Lambda Extensions](https://github.com/aws-samples/aws-lambda-extensions) - Collection of sample extensions to help you get started with AWS Lambda Extensions.
+- [AWS Lambda Python Runtime Interface Client](https://github.com/aws/aws-lambda-python-runtime-interface-client)
+- [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) - AWS CDK Construct to build Node.js AWS lambdas using esbuild.
+- [aws-lambda-deploy](https://github.com/aws-samples/aws-lambda-deploy) - Collection of sample tools to enable canary deployments of AWS Lambda functions.
+- [Mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda & API Gateway support for ASGI.
+- [AWS Lambda Terraform Cookbook with working examples](https://github.com/nsriram/lambda-the-terraform-way) ([HN](https://news.ycombinator.com/item?id=25588898))
+- [lambda_decorators](https://github.com/dschep/lambda-decorators) - Collection of useful decorators for making AWS Lambda handlers.
+- [Optimizing Lambda functions packaged as container images (2021)](https://aws.amazon.com/blogs/compute/optimizing-lambda-functions-packaged-as-container-images/)
+- [AWS Lambda Power tools (Python)](https://github.com/awslabs/aws-lambda-powertools-python)
+- [Rust Runtime for AWS Lambda](https://github.com/lamedh-dev/aws-lambda-rust-runtime)
+- [Serverless TypeScript: A Complete Setup for AWS SAM Lambdas (2021)](https://evilmartians.com/chronicles/serverless-typescript-a-complete-setup-for-aws-sam-lambda)
+- [cdk-watch](https://github.com/teamplanes/cdk-watch) - CLI to watch and live-update your CDK Stack's Lambdas.
+- [re:Web](https://github.com/apparentorder/reweb) - Enables classic web applications to run on AWS Lambda.
+- [serverlessish](https://github.com/glassechidna/serverlessish) - Run the same Docker images in AWS Lambda and AWS ECS.
+- [AWS Lambda C++ Runtime](https://github.com/awslabs/aws-lambda-cpp) - C++ implementation of the lambda runtime API.
+- [subscriptionless](https://github.com/andyrichardson/subscriptionless) - Library for using GraphQL subscriptions with AWS Lambda.
+- [Serverless Full-Text Search with AWS Lambda and EFS (2021)](https://medium.com/@arsenyyankovski/serverless-full-text-search-with-aws-lambda-and-efs-cf24e1b6fe3b) ([Reddit](https://www.reddit.com/r/aws/comments/m2uzyv/serverless_fulltext_search_with_aws_lambda_and_efs/))
+- [PR Assigner](https://github.com/justeat/PRAssigner) - Swift AWS Lambda to automatically assign engineers to pull requests with a Slack integration.
+- [AWS Lambda Developer Guide](https://github.com/awsdocs/aws-lambda-developer-guide)
+- [How Lambda work? Cold starts? Firecracker? Container support? (2021)](https://www.youtube.com/watch?v=OOGV81YbuEo)
+- [Ask HN: Does anyone else find the AWS Lambda developer experience frustrating? (2021)](https://news.ycombinator.com/item?id=26855037)
+- [Why We Moved From Lambda to ECS (2021)](https://prismatic.io/blog/why-we-moved-from-lambda-to-ecs/)
+- [AWS Lambda performance optimization (2021)](https://betterdev.blog/aws-lambda-performance-optimization/)
+- [Llama](https://github.com/nelhage/llama) - CLI for outsourcing computation to Amazon Lambda.
+- [AWS Lambda Behind the Scenes](https://www.bschaatsbergen.com/behind-the-scenes-lambda) ([HN](https://news.ycombinator.com/item?id=27792951))
+- [Lambda-local](https://github.com/ashiina/lambda-local) - Lets you test NodeJS Amazon Lambda functions on your local machine, by providing a simplistic API and command-line tool.
+- [Modern Cloud](https://www.moderncloud.io/) - Browser-based serverless platform that lets developers build functions and endpoints in minutes. ([Code](https://github.com/ModernCloud/moderncloud))
+- [FireCracker internals: a deep dive inside the technology powering AWS Lambda (2021)](https://www.talhoffman.com/2021/07/18/firecracker-internals/)
+- [Performance monitoring for AWS Lambda (2021)](https://taavirehemagi.medium.com/performance-monitoring-for-aws-lambda-6d9eefb21716)
+- [Lambda GitHub Runner](https://github.com/nwestfall/lambda-github-runner) - Github Action Runner inside of Lambda - A Completely Serverless Solution.
+- [aws-websocket-handler](https://github.com/matrus2/aws-websocket-handler) - Module is created to handle AWS Lambda websocket actions as a one default handler.
+- [Abusing AWS Lambda to make an Aussie search engine (2021)](https://boyter.org/posts/abusing-aws-to-make-a-search-engine/) ([HN](https://news.ycombinator.com/item?id=28665395))
+- [Learn AWS Lambda](https://github.com/dwyl/learn-aws-lambda) - Learn how to use AWS Lambda to easily create infinitely scalable web services.
+- [An ideal DX for Rust on AWS Lambda? (2021)](https://github.com/aws-samples/serverless-rust-demo/issues/4)
+- [AWS Lambda Cold Start Times (2021)](https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for-all-languages-c1b441005fd1) ([HN](https://news.ycombinator.com/item?id=28838716))
+- [Running Rust on AWS Lambda on ARM64 (2021)](https://www.ballpointcarrot.net/posts/rust-arm-lambdas/)
+- [AWS Lambda runtimes](https://github.com/architect/lambda-runtimes) - Canonical list of AWS Lambda runtime identifiers and corresponding CPU architectures.
+- [Stream, Mutate and Sign Images with AWS Lambda and ECR (2021)](https://martin.baillie.id/wrote/stream-mutate-and-sign-images-with-aws-lambda-and-ecr/) ([Code](https://github.com/martinbaillie/ocistow))
+- [lambroll](https://github.com/fujiwara/lambroll) - Minimal deployment tool for AWS Lambda.
+- [Middy](https://github.com/middyjs/middy) - Simple middleware engine that allows you to simplify your AWS Lambda code when using Node.js.
+- [Klayers](https://github.com/keithrozario/Klayers) - Python Packages as AWS Lambda Layers.
+- [lmdrouter](https://github.com/aquasecurity/lmdrouter) - Go HTTP router library for AWS API Gateway-invoked Lambda Functions.
+- [aws-lambda-image](https://github.com/ysugimoto/aws-lambda-image) - Automatic image resize/reduce on AWS Lambda.
+- [API Gateway REST API: Step Functions direct integration – AWS CDK guide (2021)](https://dev.to/aws-builders/api-gateway-rest-api-step-functions-direct-integration-aws-cdk-guide-13c4)
+- [Implementing header-based API Gateway versioning with Amazon CloudFront (2021)](https://aws.amazon.com/blogs/compute/implementing-header-based-api-gateway-versioning-with-amazon-cloudfront/)
+- [Tips to prevent a serverless wreck (2021)](https://dev.to/aws-heroes/tips-to-prevent-a-serverless-wreck-15af)
+- [Serverless WarmUp Plugin](https://github.com/juanjoDiaz/serverless-plugin-warmup) - Keep your lambdas warm during winter.
+- [Fat Functions are an Anti-Pattern (2021)](https://blog.begin.com/posts/2021-12-01-fat-function-anti-pattern) ([Tweet](https://twitter.com/brianleroux/status/1466102082662899712))
+- [Make the most of AWS Lambda with Go](https://kevinmcconnell.gumroad.com/l/lambda-go-book/hn) ([HN](https://news.ycombinator.com/item?id=29441272))
+- [Mantil](https://github.com/mantil-io/mantil) - Build your AWS Lambda-based Go backends quicker than ever. ([Web](https://www.mantil.com/))
+- [lambda-web](https://github.com/hanabu/lambda-web) - Run Rust web frameworks on AWS Lambda.
+- [aws-lambda-decorators](https://github.com/gridsmartercities/aws-lambda-decorators) - Set of Python decorators to simplify AWS lambda development.
+- [Serverless - AWS Node.js Typescript](https://github.com/agwhi/serverless-cqrs-template)
+- [AWS Lambda Powertools TypeScript](https://github.com/awslabs/aws-lambda-powertools-typescript) - Suite of TypeScript utilities for AWS Lambda functions to ease adopting best practices such as tracing, structured logging, custom metrics, and more.
+- [Lambda-less outbound HTTP requests on AWS serverless (2022)](https://dev.to/aws-builders/lambda-less-outbound-http-requests-on-aws-serverless-41mf)
+- [AWS Lambda TS Example](https://github.com/Envek/aws-sam-typescript-layers-example)
+- [101 AWS Lambda tutorial for Go developers (2022)](https://blog.mantil.com/dummy-guide-to-aws-lambda-for-go-developers-63192b684898) ([HN](https://news.ycombinator.com/item?id=30205781)) ([Reddit](https://www.reddit.com/r/golang/comments/sxtel6/101_aws_lambda_tutorial_for_go_developers_api/))
+- [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions.
+- [Prisma + Lambda + CDK Sample](https://github.com/aws-samples/prisma-lambda-cdk) - Build and deploy a Lambda function with Prisma ORM by AWS Cloud Development Kit.
+- [AWS Lambda in Action Event-driven serverless applications Book (2016)](https://www.manning.com/books/aws-lambda-in-action) ([Code](https://github.com/danilop/AWS_Lambda_in_Action))
+- [Jessica Kerr on Observability and Honeycomb's Use of AWS Lambda for Retriever (2022)](https://www.infoq.com/podcasts/aws-lambda-custom-database-retriever/)
+- [Knative Lambda Runtimes](https://github.com/triggermesh/knative-lambda-runtime) - Running AWS Lambda Functions on Knative/Kubernetes Clusters.
+- [Optimizing Lambda Performance for Your Serverless Applications (2022)](https://dev.to/tlakomy/optimizing-lambda-performance-for-your-serverless-applications-44lo)
+- [Running AWS Lambda Custom Runtime in Knative](https://github.com/triggermesh/aws-custom-runtime)
+- [AWS Lambda Adapter](https://github.com/aws-samples/aws-lambda-adapter) - Run web applications on AWS Lambda.
+- [postinvoke](https://github.com/aidansteele/postinvoke) - Run in-process code after your Go-powered Lambda function has returned.
+- [apig-wsgi](https://github.com/adamchainz/apig-wsgi) - Wrap a WSGI application in an AWS Lambda handler function for running on API Gateway or an ALB.
+- [Build Serverless APIs with Node.js and AWS Lambda (2022)](https://blog.appsignal.com/2022/03/23/build-serverless-apis-with-nodejs-and-aws-lambda.html)
+- [ML Inference in Lambda Functions (2022)](https://bitesizedserverless.com/bite/ml-inference-in-lambda/)
+- [Running Cross-Account Workflows with AWS Step Functions and Amazon API Gateway (2022)](https://aws.amazon.com/blogs/compute/running-cross-account-workflows-with-aws-step-functions-and-amazon-api-gateway/) ([HN](https://news.ycombinator.com/item?id=30811980))
+- [Swift AWS Lambda Events](https://github.com/swift-server/swift-aws-lambda-events) - Designed to make building Lambda functions in Swift simple and safe.
+- [AWS Lambda Typing](https://github.com/MousaZeidBaker/aws-lambda-typing) - Type hints for AWS Lambda event, context and response objects.
+- [AWS Lambda Function URLs: Built-In HTTPS Endpoints for Lambda (2022)](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/) ([HN](https://news.ycombinator.com/item?id=30937433))
+- [aws-lambda-events](https://github.com/LegNeato/aws-lambda-events) - Rust event types for AWS Lambda.
+- [Cookiecutter SAM template for Lambda functions in Rust](https://github.com/aws-samples/cookiecutter-aws-sam-rust)
+- [Serverless Webpack](https://github.com/serverless-heaven/serverless-webpack) - Serverless Framework plugin to build your lambda functions with Webpack.
+- [serverless-layers](https://github.com/agutoli/serverless-layers) - Serverless.js plugin that implements AWS Lambda Layers which reduces drastically lambda size, warm-up and deployment time.
+- [Introducing multi-service deployments via Serverless Framework Compose (2022)](https://www.serverless.com/blog/serverless-framework-compose-multi-service-deployments)
+- [Automatically Detect Operational Issues in Lambda Functions with Amazon DevOps Guru for Serverless (2022)](https://aws.amazon.com/blogs/aws/automatically-detect-operational-issues-in-lambda-functions-with-amazon-devops-guru-for-serverless/)
+- [Running Containers on AWS Lambda (2022)](https://earthly.dev/blog/aws-lambda-docker/) ([HN](https://news.ycombinator.com/item?id=31182099))
+- [Holy Lambda](https://github.com/FieryCod/holy-lambda) - Extraordinary simple, performant, and extensible custom AWS Lambda runtime for Clojure.
+- [Best practices for optimizing Lambda functions (2022)](https://cloudash.dev/blog/best-practices-for-optimizing-lambda-functions) ([HN](https://news.ycombinator.com/item?id=31215328))
+- [Amazon Lambda Rust Library](https://github.com/rnag/rust.aws-cdk-lambda)
+- [Inline Image Previews with Sharp, BlurHash, and Lambda Functions (2022)](https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/)
+- [Accumulus](https://github.com/oslabs-beta/Accumulus) - AWS Lambda Monitoring and Visualization Tool.
+- [LALR](https://github.com/funnel-io/lalr) - Run lambdas through HTTP locally.
+- [runtime](https://github.com/serverless/runtime) - Collection of Open Telemetry collectors we use to instrument a variety of computing platforms.
+- [aws-exec](https://github.com/nathants/aws-exec) - Adhoc shell execution in aws lambda.
+- [Lamware](https://github.com/evilkiwi/lamware) - AWS Lambda Middleware Pattern (NodeJS).

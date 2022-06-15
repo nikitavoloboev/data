@@ -1,0 +1,112 @@
+---
+title: WebRTC
+---
+
+# [WebRTC](https://webrtc.org/)
+
+[Pion WebRTC](https://github.com/pion/webrtc) is nice lib. [This](https://www.youtube.com/watch?v=ogUuB--uhhw) is a nice intro.
+
+## Links
+
+- [PeerJS](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC. ([Web](https://peerjs.com/)) ([HN](https://news.ycombinator.com/item?id=25658704))
+- [WebRTC / PeerJS Audio Chat Demo](https://github.com/nwah/peerjs-audio-chat)
+- [Server for PeerJS](https://github.com/peers/peerjs-server)
+- [Pion WebRTC](https://github.com/pions/webrtc) - Pure Go implementation of the WebRTC API.
+- [GFile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC.
+- [Smoke](https://github.com/sinclairzx81/smoke) - Turns a Web Browser into a Web Server with WebRTC.
+- [Pion WebRTC](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API. ([Web](https://pion.ly/))
+- [Amazon Kinesis Video Streams C WebRTC SDK](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c) - Pure C WebRTC Client for Amazon Kinesis Video Streams. ([HN](https://news.ycombinator.com/item?id=21951692))
+- [simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video, voice, and data channels.
+- [WebRTC code samples](https://webrtc.github.io/samples/) ([Code](https://github.com/webrtc/samples)) ([HN](https://news.ycombinator.com/item?id=24473864))
+- [Web Wormhole: Peer authenticated WebRTC](https://github.com/saljam/webwormhole) - Let's you send files from one place to another. ([Web](https://webwormhole.io/)) ([Lobsters](https://lobste.rs/s/if50o1/web_wormhole))
+- [Pion](https://github.com/pion) - Modern and Cross Platform Stack for WebRTC. ([HN](https://news.ycombinator.com/item?id=23039348))
+- [RAWRTC](https://github.com/rawrtc/rawrtc) - WebRTC and ORTC library with a small footprint.
+- [webrtc-sdp](https://github.com/mozilla/webrtc-sdp) - Rust SDP parser for WebRTC.
+- [mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing.
+- [Abusing WebRTC to Reveal Coarse Location Data in Signal (2020)](https://medium.com/tenable-techblog/turning-signal-app-into-a-coarse-tracking-device-643eb4298447) ([HN](https://news.ycombinator.com/item?id=23251319))
+- [Pion SDP](https://github.com/pion/sdp) - Go implementation of the SDP.
+- [Janus WebRTC Server](https://janus.conf.meetecho.com/) ([HN](https://news.ycombinator.com/item?id=23372119)) ([Code](https://github.com/meetecho/janus-gateway))
+- [Anatomy of a WebRTC video conference (2020)](https://levelup.gitconnected.com/anatomy-of-a-webrtc-video-conference-f924ba0ba930)
+- [WebRTC iOS tutorial](https://github.com/jsharp83/WebRTC-iOS-tutorial)
+- [How do you create a video chat application? (2020)](https://blog.phuaxueyong.com/post/2020-06-15-how-to-make-a-video-chat-app/) ([HN](https://news.ycombinator.com/item?id=23522689))
+- [WebRTC Insertable Streams and server processing](https://github.com/pion/webrtc/tree/master/examples/insertable-streams) ([HN](https://news.ycombinator.com/item?id=23515629))
+- [Briefing](https://github.com/holtwick/briefing) - End-to-end encrypted anonymous group video chat.
+- [Remote Faces: Share webcam still images with PeerJS/WebRTC (2018)](https://medium.com/@dai_shi/remote-faces-share-webcam-still-images-with-peerjs-webrtc-a7ed5fe11e49)
+- [gRPC over WebRTC](https://github.com/jsmouret/grpc-over-webrtc) ([HN](https://news.ycombinator.com/item?id=23572660))
+- [A Study of WebRTC Security](https://webrtc-security.github.io/) ([Code](https://github.com/webrtc-security/webrtc-security.github.io))
+- [RecordRTC](https://recordrtc.org/) - WebRTC JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording. ([HN](https://news.ycombinator.com/item?id=23869752)) ([Code](https://github.com/muaz-khan/RecordRTC))
+- [WebRTC for the Curious](https://webrtcforthecurious.com/) ([HN](https://news.ycombinator.com/item?id=24323589)) ([Lobsters](https://lobste.rs/s/gxzwnx/webrtc_for_curious)) ([Code](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious))
+- [WebRTC iOS SDK Lets You Build WebRTC iOS App Easily (2020)](https://antmedia.io/how-to-use-webrtc-sdk-in-native-ios-app/)
+- [Ion SFU](https://github.com/pion/ion-sfu) - Go implementation of a WebRTC Selective Forwarding Unit.
+- [Building a WebRTC video and audio Broadcaster in Go using ION-SFU, and media devices (2020)](https://gabrieltanner.org/blog/broadcasting-ion-sfu)
+- [Simple WebRTC Tests](https://mozilla.github.io/webrtc-landing/) ([Code](https://github.com/mozilla/webrtc-landing))
+- [geckos.io](https://github.com/geckosio/geckos.io) - Offers real-time client/server communication over UDP using WebRTC and Node.js. ([Web](https://geckosio.github.io/))
+- [Peer Calls](https://github.com/peer-calls/peer-calls) - Group WebRTC peer to peer video calls for everyone written in Go and TypeScript. ([Web](https://peercalls.com/))
+- [RingRTC](https://github.com/signalapp/ringrtc) - Middleware library providing Signal Messenger applications with video and voice calling services built on top of WebRTC.
+- [aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio.
+- [WebRTC.rs](https://github.com/webrtc-rs/webrtc) - Pure Rust implementation of WebRTC API.
+- [WebRTC is now a W3C and IETF standard (2021)](https://web.dev/webrtc-standard-announcement/) ([HN](https://news.ycombinator.com/item?id=25933016))
+- [An architectural overview for WebRTC — A protocol for implementing video conferencing (2021)](https://eytanmanor.medium.com/an-architectural-overview-for-web-rtc-a-protocol-for-implementing-video-conferencing-e2a914628d0e)
+- [Kraken](https://github.com/MixinNetwork/kraken) - High performance WebRTC SFU implemented with pure Go.
+- [WebRTC for beginners; How calls work from the outside (2021)](https://itnext.io/webrtc-for-beginners-how-it-all-works-from-the-outside-3c806f582229)
+- [WebRTC Next Version Use Cases](https://w3c.github.io/webrtc-nv-use-cases/) ([Code](https://github.com/w3c/webrtc-nv-use-cases))
+- [Trystero](https://github.com/dmotz/trystero) - Serverless WebRTC matchmaking for painless P2P — Make any site multiplayer in a few lines — Use BitTorrent, IPFS, or Firebase.
+- [webrtc-unreliable](https://github.com/kyren/webrtc-unreliable) - Rust library which allows you to write a game server with browser based clients and UDP-like networking.
+- [Pear](https://github.com/sepfy/pear) - WebRTC Toolkit for IoT/Embedded Device. ([HN](https://news.ycombinator.com/item?id=26735423))
+- [RTSPtoWebRTC](https://github.com/deepch/RTSPtoWebRTC) - RTSP Stream to WebBrowser over WebRTC based on Pion.
+- [Pion Data Channels](https://github.com/pion/datachannel) - Go implementation of WebRTC Data Channels.
+- [Web RTC Tutorial in Rust+WASM](https://github.com/Charles-Schleich/WebRTC-in-Rust)
+- [libdatachannel](https://github.com/paullouisageneau/libdatachannel) - C/C++ WebRTC lightweight library.
+- [LiveKit](https://livekit.io/) - Open source infrastructure for real time audio and video. ([Docs](https://docs.livekit.io/)) ([GitHub](https://github.com/livekit)) ([Server Code](https://github.com/livekit/livekit-server)) ([HN](https://news.ycombinator.com/item?id=31447046))
+- [An Introduction to WebRTC Simulcast (2021)](https://blog.livekit.io/an-introduction-to-webrtc-simulcast-6c5f1f6402eb)
+- [The evolution of WebRTC 1.0. - Advancing WebRTC (2021)](https://blog.mozilla.org/webrtc/the-evolution-of-webrtc/) ([HN](https://news.ycombinator.com/item?id=28387531))
+- [Matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm. ([Intro](https://johanhelsing.studio/posts/introducing-matchbox)) ([Lobsters](https://lobste.rs/s/tdbwam/introducing_matchbox_painless_peer_peer))
+- [WebRTC-404 (2021)](https://speakerdeck.com/hellsquirrel/webrtc-404)
+- [SDP-Rust](https://github.com/webrtc-rs/sdp) - Pure Rust implementation of SDP.
+- [DTLS-Rust](https://github.com/webrtc-rs/dtls) - Pure Rust implementation of DTLS.
+- [ICE](https://github.com/webrtc-rs/ice) - Pure Rust implementation of ICE.
+- [WebRTC remote view](https://github.com/rviscarra/webrtc-remote-screen) - Stream a remote desktop screen directly to your browser. ([Article](https://viscarra.dev/post/webrtc-remote-screen/))
+- [WebRTC speech to text server](https://github.com/rviscarra/webrtc-speech-to-text) - Speech transcription on the browser using WebRTC and Google Speech. ([Article](https://viscarra.dev/post/webrtc-gspeech/))
+- [OvenPlayer](https://github.com/AirenSoft/OvenPlayer) - JavaScript-based WebRTC Player for OvenMediaEngine. It also supports LL-DASH, MPEG-DASH, and HLS. Open-Source HTML5 Player. ([Web](https://www.ovenmediaengine.com/ovenplayer))
+- [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) - Python interface to the WebRTC Voice Activity Detector.
+- [Examples WebRTC Applications](https://github.com/pion/example-webrtc-applications) - Examples of WebRTC applications that are large, or use 3rd party libraries.
+- [WebRTC peer-to-peer](https://github.com/js-platform/p2p) - JS library that makes it easy to manage RTC peer connections, streams and data channels.
+- [WebRTC connector for Yjs](https://github.com/yjs/y-webrtc)
+- [WebRTCStats](https://github.com/peermetrics/webrtc-stats) - Helps you collect stats for peer connections.
+- [Socket.IO P2P](https://github.com/socketio/socket.io-p2p) - Easy and reliable way to setup a WebRTC connection between peers and communicate using events.
+- [webrtc-swarm](https://github.com/mafintosh/webrtc-swarm) - Create a swarm of p2p connections using webrtc and a signalhub.
+- [Establish WebRTC connection without a signaling server using nothing but Web Push (2021)](https://jimmy.warting.se/2021/02/16/p2p-signal-with-webpush.html)
+- [WebRTC DataChannel in Rust](https://github.com/webrtc-rs/data)
+- [TestRTC](https://github.com/webrtc/testrtc) - Set of tests that can be easily run by a user to help diagnose WebRTC related issues.
+- [P2PT](https://github.com/subins2000/p2pt) - Simple WebRTC Peer 2 Peer connections using WebTorrent trackers as the signalling server.
+- [MiroTalk SFU](https://github.com/miroslavpejic85/mirotalksfu) - WebRTC with integrated SFU server. Video calls, messaging, screen sharing, recording and more.
+- [Open WebRTC Toolkit Media Server](https://github.com/open-webrtc-toolkit/owt-server)
+- [Open WebRTC Toolkit JavaScript SDK](https://github.com/open-webrtc-toolkit/owt-client-javascript)
+- [naia-socket](https://github.com/naia-rs/naia-socket) - Cross-platform (including Wasm!) sockets providing an unreliable & unordered network transport layer. Built on top of UDP & WebRTC.
+- [Explainer](https://github.com/pion/explainer) - Parses WebRTC Offers/Answers then provides summaries and suggestions.
+- [WebRTC Encoded Transform](https://github.com/w3c/webrtc-encoded-transform) - Proposal for an API that allows the insertion of user-defined processing steps in the pipeline that handles media in a WebRTC context.
+- [Python WebRTC](https://github.com/MarshalX/python-webrtc) - Python Extension that provides bindings to WebRTC M92.
+- [PeerData](https://github.com/vardius/peer-data) - Library for files, media streaming/sharing using WebRTC.
+- [Easy to use WebRTC data channels and media transport](https://github.com/murat-dogan/node-datachannel)
+- [libp2p-webrtc](https://github.com/wngr/libp2p-webrtc) - WebRTC transport for rust-libp2p for both native and WebAssembly (browser).
+- [WebRTC-HTTP ingestion protocol (WHIP)](https://www.ietf.org/archive/id/draft-ietf-wish-whip-01.html) ([HN](https://news.ycombinator.com/item?id=30342945))
+- [WISH, WHIP and Janus (2021)](https://www.meetecho.com/blog/whip-janus-part-ii/)
+- [SwiftyWebRTC](https://github.com/Ankit-Aggarwal/SwiftyWebRTC) - Swift Framework for WebRTC.
+- [WebRTC with Node.js: Building a Video Chat App](https://www.metered.ca/docs/Video-Calls/JavaScript/Building-a-Group-Video%E2%80%93Calling-Application/)
+- [Baresip WebRTC Demo](https://github.com/baresip/baresip-webrtc)
+- [Snowflake](https://github.com/keroserene/snowflake) - WebRTC Pluggable Transport.
+- [WHIP - WebRTC HTTP ingest protocol](https://github.com/wish-wg/webrtc-http-ingest-protocol)
+- [node-webrtc](https://github.com/node-webrtc/node-webrtc) - Node.js Native Addon that provides bindings to WebRTC.
+- [How and why Daily is using Rust for our WebRTC APIs (2022)](https://www.daily.co/blog/how-and-why-daily-is-using-rust-for-our-webrtc-apis/)
+- [Daily.co](https://www.daily.co/) - WebRTC video and audio APIs for every developer.
+- [WebRTC Remote Control](https://github.com/topheman/webrtc-remote-control) - Abstraction layer above peerjs that will let you be more productive at making WebRTC data channels based apps.
+- [Stunner](https://github.com/firefart/stunner) - Tool to test and exploit STUN, TURN and TURN over TCP servers.
+- [DetectRTC](https://github.com/muaz-khan/DetectRTC) - Is WebRTC Supported In Your Browser?
+- [Offline Browser Sync](https://github.com/pion/offline-browser-communication) - Demonstration of a browser connecting to Pion WebRTC without a signaling server.
+- [MockRTC](https://github.com/httptoolkit/mockrtc) - Powerful friendly WebRTC mock peer & proxy.
+- [How Your Video Calls Work (2022)](https://www.youtube.com/watch?v=ogUuB--uhhw)
+- [Weron](https://github.com/pojntfx/weron) - Peer-to-Peer VPN Based on WebRTC Written in Go. ([HN](https://news.ycombinator.com/item?id=31297917))
+- [Serverless peer to peer chat on WebRTC](https://github.com/michal-wrzosek/p2p-chat)
+- [STUNner](https://github.com/l7mp/stunner) - Kubernetes ingress gateway for WebRTC.
+- [WebRTC Nuts and Bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) ([HN](https://news.ycombinator.com/item?id=31548016))
+- [PeerLite](https://github.com/skyllo/peer-lite) - Lightweight WebRTC browser library that supports video, audio and data channels.

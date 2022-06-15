@@ -1,0 +1,399 @@
+---
+title: Node.js
+---
+
+# [Node.js](https://nodejs.org/en/)
+
+[Tao of Node](https://alexkondov.com/tao-of-node/) is useful. [Broken Promises](https://www.youtube.com/watch?v=XV-u_Ow47s0) is a great talk on JS promises.
+
+[H3](https://github.com/unjs/h3) is nice. I use [tsno](https://github.com/egoist/tsno) for running node.
+
+## Notes
+
+- [I use package.json scripts as entrypoints to custom JS scripts. Make is a build tool, not a meta-shellscript format.](https://news.ycombinator.com/item?id=26978206)
+- [`yarn upgrade-interactive --latest` to bulk choose which packages to upgrade to latest version.](https://twitter.com/debs_obrien/status/1399256756216381441)
+
+## Links
+
+- [Introduction to Node.js](https://nodejs.dev/)
+- [Node.Dev](https://node.dev/) - Latest Node.js content, news and updates in one place.
+- [Original presentation by Ryan Dahl on node.js](https://www.youtube.com/watch?v=ztspvPYybIY)
+- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+- [Supercharge your debugging experience for Node.js](https://medium.com/@wesharehoodies/supercharge-your-debugging-experience-for-node-js-3f0ddfaffbb2)
+- [ndb](https://github.com/trending) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
+- [What is the Node way?](http://thenodeway.io/introduction)
+- [Redbird](https://github.com/OptimalBits/redbird) - Modern reverse proxy for node.
+- [ncc](https://github.com/vercel/ncc) - Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
+- [TestCafe](https://github.com/DevExpress/testcafe) - Node.js tool to automate end-to-end web testing.
+- [ndb](https://github.com/GoogleChromeLabs/ndb) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
+- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js. ([Web](https://www.fastify.io/)) ([What Is Fastify?](https://www.youtube.com/watch?v=k1FSybMulVQ))
+- [fastify-plugin](https://github.com/fastify/fastify-plugin) - Plugin helper for Fastify.
+- [fastify-cli](https://github.com/fastify/fastify-cli) - Run a Fastify application with one command.
+- [Fastify Typescript Starter](https://github.com/inian/fastify-typescript-starter)
+- [fastify-reply-from](https://github.com/fastify/fastify-reply-from) - Fastify plugin to forward the current HTTP request to another server. HTTP2 to HTTP is supported too.
+- [Nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
+- [Node.js Fundamentals: Web Server Without Dependencies (2018)](https://blog.bloomca.me/2018/12/22/writing-a-web-server-node.html)
+- [node-sqlite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
+- [Pragmatic Modularity (2016)](https://mafinto.sh/blog/pragmatic-modularity.html)
+- [Stability first (2016)](https://mafinto.sh/blog/stability-first.html)
+- [David](https://github.com/alanshaw/david) - Node.js module that tells you when your package npm dependencies are out of date.
+- [httpie](https://github.com/lukeed/httpie) - Node.js HTTP client as easy as pie.
+- [Bull](https://github.com/optimalbits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
+- [depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies.
+- [Marble.js](https://github.com/marblejs/marble) - Functional reactive HTTP framework built on top of Node.js platform, TypeScript and RxJS.
+- [Nest](https://github.com/nestjs/nest) - Progressive Node.js framework for building efficient and scalable server-side applications, heavily inspired by Angular. ([Web](https://nestjs.com/)) ([Awesome](https://github.com/juliandavidmr/awesome-nestjs)) ([Nest framework TypeScript starter](https://github.com/nestjs/typescript-starter))
+- [Nest CLI](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications.
+- [Asynchronous Programming Library](https://github.com/metarhia/metasync) - Library of Asynchronous Programming Abstractions.
+- [Curated list of awesome developer tools for writing cross-platform Node.js code](https://github.com/bcoe/awesome-cross-platform-nodejs)
+- [Simple Git](https://github.com/steveukx/git-js) - Light weight interface for running git commands in any node.js application.
+- [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly.
+- [Debugging in 2017 with Node.js](https://www.youtube.com/watch?v=Xb_0awoShR8)
+- [np](https://github.com/sindresorhus/np) - Better npm publish.
+- [Using npm's `ls` command for Fun and Insight (2019)](https://dev.to/bnb/using-npms-ls-command-for-fun-and-insight-5he7)
+- [TSBB](https://github.com/jaywcjlove/tsbb) - Zero-config CLI for TypeScript node.js application development.
+- [NodeSource](https://nodesource.com/) - Low-impact monitoring for mission-critical Node.js applications.
+- [qnm](https://github.com/ranyitz/qnm) - Simple cli utility for querying the node_modules directory.
+- [isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs.
+- [fnm](https://github.com/Schniz/fnm) - Fast and simple Node.js version manager, built in native ReasonML.
+- [pacote](https://github.com/zkat/pacote) - Node.js library for downloading npm-compatible packages.
+- [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a Node.js module.
+- [stringio](https://github.com/rauschma/stringio) - Convert strings to Node.js streams and vice versa.
+- [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
+- [TaskBotJS](https://github.com/eropple/taskbotjs) - Best JavaScript/TypeScript job processing framework on the planet.
+- [Verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
+- [Node Serialport](https://github.com/serialport/node-serialport) - Access serial ports with JavaScript. Linux, OSX and Windows.
+- [RunKit](https://runkit.com/home) - Sandboxed JavaScript environment as notebooks.
+- [Velcro](https://github.com/ggoodman/velcro) - Suite of packages designed to bridge the runtime gap between browser development and the node package ecosystem.
+- [Autarky](https://github.com/pranshuchittora/autarky) - Liberating disk space from node_modules.
+- [pre-bundled](https://github.com/Raynos/pre-bundled) - Tool that pre bundles and re publishes npm dependencies.
+- [oclif](https://github.com/oclif/oclif) - Framework for building CLIs in Node.js
+- [Node.js Interview Questions](https://www.cheaki.com/nodejs/nodejs-interview-questions)
+- [SOLID: Introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io/)
+- [graffiti](https://github.com/cztomsik/graffiti) - Web-like GUI toolkit for node.js with minimal overhead. Lightweight, GPU-rendered alternative to electron.
+- [ls-engines](https://github.com/ljharb/ls-engines) - Determine if your dependency graph's stated "engines" criteria is met.
+- [relative-deps](https://github.com/mweststrate/relative-deps) - Installs local dependencies for optimal developer experience.
+- [Pug](https://github.com/pugjs/pug) - Robust, elegant, feature rich template engine for NodeJS.
+- [Nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js.
+- [Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)
+- [vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js.
+- [mock-fs](https://github.com/tschaub/mock-fs) - Allows Node's built-in fs module to be backed temporarily by an in-memory, mock file system.
+- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - One-liner node.js http-proxy middleware for connect, express and browser-sync.
+- [ThreadBox](https://github.com/sinclairzx81/threadbox) - Recursive Worker Threads in NodeJS.
+- [Helpful libraries and resources for building Node.js CLIs](https://github.com/sw-yx/cli-cheatsheet)
+- [Node.js Backend Architecture Typescript Project](https://github.com/afteracademy/nodejs-backend-architecture-typescript)
+- [react-blessed](https://github.com/Yomguithereal/react-blessed) - React custom renderer for the blessed library.
+- [v8-compile-cache](https://github.com/zertosh/v8-compile-cache) - Require hook for automatic V8 compile cache persistence.
+- [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
+- [node-cpp-skel](https://github.com/mapbox/node-cpp-skel) - Skeleton for bindings to C++ libraries for Node.js using node-addon-api.
+- [Domain-Driven Design w/ TypeScript & Node.js](https://khalilstemmler.com/courses/domain-driven-design-typescript/) ([Vinyl-Trading enterprise app built with Node.js + TypeScript using Domain-Driven Design](https://github.com/stemmlerjs/white-label))
+- [Official Docker Image for Node.js](https://github.com/nodejs/docker-node)
+- [Learn ES Modules in Node with Myles Borins (2020)](https://www.youtube.com/watch?v=qeCncjPWD1A)
+- [Node File Trace](https://github.com/vercel/nft) - Determine exactly which files (including node_modules) are necessary for the application runtime.
+- [Awesome npm scripts](https://github.com/RyanZim/awesome-npm-scripts)
+- [Emma](https://github.com/maticzav/emma-cli) - Terminal assistant to find and install node packages.
+- [v8-perf](https://github.com/thlorenz/v8-perf) - Notes and resources related to V8 and thus Node.js performance.
+- [VSCode Language Server - Node](https://github.com/microsoft/vscode-languageserver-node)
+- [tslog](https://github.com/fullstack-build/tslog) - Beautiful logging experience for Node.js with TypeScript support.
+- [Objection.js](https://github.com/Vincit/objection.js) - SQL-friendly ORM for Node.js.
+- [AWS Box](https://github.com/mozilla/awsbox) - Featherweight PaaS on top of Amazon EC2 for deploying node apps.
+- [Using Streams Efficiently in NodeJS (2020)](https://medium.com/swlh/using-streams-efficiently-in-nodejs-3ef0d9df7a0e)
+- [Native ESM in Node.js w/ require() fallbacks and support for all front end compilers (2020)](https://dev.to/mikeal_2/native-esm-in-node-js-w-require-fallbacks-and-support-for-all-front-end-compilers-2ded)
+- [fetch-h2](https://github.com/grantila/fetch-h2) - Fetch API implementation for Node.js using the built-in http, https and http2 packages without any compatibility layer.
+- [piscina](https://github.com/piscinajs/piscina) - Fast, efficient Node.js Worker Thread Pool implementation.
+- [Tinypool](https://github.com/Aslemammad/tinypool) - Fork of piscina. Fast, efficient Node.js Worker Thread Pool implementation.
+- [Objection.js](https://github.com/Vincit/objection.js/) - SQL-friendly ORM for Node.js.
+- [Build JavaScript applications with Node.js](https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/)
+- [Node.js Notes](https://igoradamenko.com/blog/v6/)
+- [How to stream file downloads in Node.js with Got (2020)](https://philna.sh/blog/2020/08/06/how-to-stream-file-downloads-in-Node-js-with-got/)
+- [orogene](https://github.com/orogene/orogene) - Next-generation platform and package manager for Node.js-compatible and frontend JavaScript projects.
+- [undici](https://github.com/nodejs/undici) - HTTP/1.1 client, written from scratch for Node.js.
+- [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible & lean implementation of core jQuery designed specifically for the server.
+- [Skia Canvas](https://github.com/samizdatco/skia-canvas) - Skia + Rust = Serverside Canvas for Node. ([HN](https://news.ycombinator.com/item?id=24364656))
+- [Intro to Node That You May Have Missed (2018)](https://itnext.io/an-intro-to-node-js-that-you-may-have-missed-b175ef4277f7)
+- [node-postgres](https://github.com/brianc/node-postgres) - Non-blocking PostgreSQL client for Node.js. Pure JavaScript and optional native libpq bindings.
+- [Docker best practices with Node (2020)](https://dev.to/nodepractices/docker-best-practices-with-node-js-4ln4)
+- [Performance Best Practices Using Express in Production](https://expressjs.com/en/advanced/best-practice-performance.html)
+- [Node.js' Tooling Group](https://github.com/nodejs/tooling) - Advancing Node.js as a framework for writing great tools.
+- [5 TILs about Node.js Fundamentals from the Node.js Design Patterns Book (2020)](https://dev.to/swyx/5-tils-about-node-js-fundamentals-from-the-node-js-design-patterns-book-4dh2)
+- [Promise Pool](https://github.com/supercharge/promise-pool) - Map-like, concurrent promise processing.
+- [Node CLI Automation](https://nodecli.com/) - Build Node.js Command-line Automation Dev-tools.
+- [Top 11 Node.js ORMs, Query Builders & Database Libraries in 2020](https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries-in-2020)
+- [npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Upgrades your package.json dependencies to the latest versions, ignoring specified versions.
+- [yarn-audit-fix](https://github.com/antongolub/yarn-audit-fix) - Apply npm audit fix logic to yarn.lock.
+- [@hapi/lab](https://github.com/hapijs/lab) - Node test utility.
+- [live-plugin-manager](https://github.com/davideicardi/live-plugin-manager) - Node.js module that allows you to install, uninstall and load any node package at runtime from npm registry.
+- [Run yarn/npm scripts with fzf (2020)](https://sancho.dev/blog/better-yarn-npm-run/)
+- [PnPm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. ([Docs](https://pnpm.io/motivation)) ([Web](https://pnpm.io/)) ([HN](https://news.ycombinator.com/item?id=30919487)) ([How it works](https://www.youtube.com/watch?v=r14BwUB6wZA))
+- [node-request-interceptor](https://github.com/mswjs/node-request-interceptor) - Low-level HTTP/HTTPS/XHR request interception library for Node.
+- [napi-rs](https://github.com/napi-rs/napi-rs) - Minimal library for building compiled NodeJS add-ons in Rust. ([Docs](https://napi.rs/)) ([Web Code](https://github.com/napi-rs/website)) ([Tweet](https://twitter.com/Brooooook_lyn/status/1458961303897141249))
+- [Template project for writing node package with napi-rs](https://github.com/napi-rs/package-template)
+- [esno](https://github.com/antfu/esno) - TypeScript/ESNext node runtime powered by esbuild.
+- [TypeScript Tools for Node.js](https://github.com/AviVahl/ts-tools)
+- [Learning Node.js internals](https://github.com/danbev/learning-nodejs)
+- [Boa](https://alibaba.github.io/pipcook/#/manual/intro-to-boa) - Call python functions from Node.
+- [Cliffy](https://github.com/drew-y/cliffy) - Framework For Interactive CLIs.
+- [localPorridge](https://github.com/johnletey/localPorridge) - Rip-off of localStorage for Node.
+- [Why does package-lock.json exist, and how does it work? (2020)](https://lucasfcosta.com/2020/10/17/lockfile-guide.html)
+- [NodeConf Remote](https://www.nodeconfremote.com/)
+- [node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
+- [totalist](https://github.com/lukeed/totalist) - Tiny utility to recursively list all (total) files in a directory.
+- [Hyperbee](https://github.com/mafintosh/hyperbee) - Append-only Btree running on a Hypercore.
+- [tinyhttp](https://github.com/talentlessguy/tinyhttp) - Tiny web framework as a replacement of Express.
+- [Awesome Node Native ESM modules](https://github.com/talentlessguy/awesome-node-esm)
+- [npm-diff](https://github.com/juliangruber/npm-diff) - Diff two versions of a node module.
+- [Esbuilt optimizer](https://github.com/remorses/vite-esbuild-optimizer) - Convert your dependencies to ESM bundles using esbuild.
+- [Why Node isn't exiting?](https://github.com/myndzi/wtfnode)
+- [fast-csv](https://github.com/C2FO/fast-csv) - Library for parsing and formatting CSVs or any other delimited value file in node.
+- [ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The Node.js cli interactive workflow.
+- [node-gyp](https://github.com/nodejs/node-gyp) - Cross-platform command-line tool written in Node.js for compiling native addon modules for Node.js.
+- [lockfile-lint](https://github.com/lirantal/lockfile-lint) - Lint an npm or yarn lockfile to analyze and detect security issues.
+- [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS.
+- [fastify-micro](https://github.com/47ng/fastify-micro) - Opinionated Node.js microservices framework built on Fastify.
+- [wsrun](https://github.com/hfour/wsrun) - Command runner for Yarn workspaces. Dependency aware.
+- [Bree](https://github.com/breejs/bree) - Best job scheduler for Node.js and JavaScript with cron, dates, ms, later, and human-friendly support.
+- [kevin-middleware](https://github.com/etsy/kevin-middleware) - Express middleware that makes developing javascript in a monorepo easier.
+- [nestjs-pgpromise](https://github.com/rubiin/nestjs-pgpromise) - Module for Utilizing Pg-promise with NestJS.
+- [byline](https://github.com/jahewson/node-byline) - Line-by-line Stream reader for node.js.
+- [PM2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer. ([Web](https://pm2.io/))
+- [keytar](https://github.com/atom/node-keytar) - Native Node module to get, add, replace, and delete passwords in system's keychain.
+- [npm-run-all](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or sequential.
+- [mock-require](https://github.com/boblauer/mock-require) - Simple, intuitive mocking of Node.js modules.
+- [NPM Trends](https://www.npmtrends.com/) - Compare NPM package downloads. ([Code](https://github.com/johnmpotter/npm-trends))
+- [gh-release](https://github.com/hypermodules/gh-release) - Create a github release for a node package.
+- [Our Journey to a High-Performance Node.js Library (2020)](https://hazelcast.com/blog/our-journey-to-a-high-performance-node-js-library/)
+- [Corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers.
+- [lazynpm](https://github.com/jesseduffield/lazynpm) - Simple terminal UI for npm commands, written in Go.
+- [Retes](https://github.com/kreteshq/retes) - Typed, Declarative, Data-Driven Routing for Node.js.
+- [node-glob](https://github.com/isaacs/node-glob) - Match files using the patterns the shell uses.
+- [Yarn Build](https://github.com/ojkelly/yarn.build) - Build and bundle your local packages like Bazel and Buck but for Yarn v2. ([Web](https://yarn.build/)) ([Introduction](https://www.owenkelly.com.au/posts/2020/yarn-build))
+- [yarn-deduplicate](https://github.com/atlassian/yarn-deduplicate) - Deduplication tool for yarn.lock files.
+- [The Node Experiment](https://cfsamson.github.io/book-exploring-async-basics/) - Exploring Async Basics with Rust. Aims to take a look at the why and how of concurrent programming. ([Code](https://github.com/cfsamson/book-exploring-async-basics))
+- [nbin](https://github.com/cdr/nbin) - Fast and robust node.js binary compiler.
+- [Similar NPM Packages](https://github.com/pastelsky/similar-npm-packages) - Similar packages suggestions for the NPM ecosystem.
+- [Roarr](https://github.com/gajus/roarr) - JSON logger for Node.js and browser.
+- [npm-upgrade](https://github.com/th0r/npm-upgrade) - Interactive CLI utility to easily update outdated NPM dependencies.
+- [Curveball](https://github.com/curveball/core) - Framework for building web services in Node.js. It fullfills a similar role to Express and it's heavily inspired by Koa.
+- [a12n-server](https://github.com/curveball/a12n-server) - Ready-to-go OAuth2 server for Node.js.
+- [pure-http](https://github.com/htdangkhoa/pure-http) - Simple web framework for Node.js with zero dependencies.
+- [Distributed Systems with Node.js: Building Enterprise-Ready Backend Services (2020)](https://lobste.rs/s/2gvhvd/distributed_systems_with_node_js)
+- [esbuild-node-tsc](https://github.com/a7ul/esbuild-node-tsc) - Build your Typescript Node.js projects using blazing fast esbuild.
+- [esbuild-runner](https://github.com/folke/esbuild-runner) - Super-fast on-the-fly transpilation of modern JS, TypeScript and JSX using esbuild.
+- [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable.
+- [Node Package Maintenance Team](https://github.com/nodejs/package-maintenance) - Discussion of helping with maintenance of key packages in the ecosystem.
+- [Minimal Node.js Docker Images built on Alpine Linux](https://github.com/mhart/alpine-node)
+- [got](https://github.com/sindresorhus/got) - Human-friendly and powerful HTTP request library for Node.js.
+- [NPM RFCs](https://github.com/npm/rfcs)
+- [Farrow](https://github.com/Lucifier129/farrow) - Functional-style web framework for node.js written by TypeScript.
+- [Celery.node](https://github.com/actumn/celery.node) - Celery task queue client/worker for nodejs.
+- [Pipe Streams in Node in the Right Way (2020)](https://komelin.com/articles/pipe-streams-node-right-way/)
+- [shargs (shell args)](https://github.com/Yord/shargs) - Library for building command-line argument parsers.
+- [NodeGui](https://github.com/nodegui/nodegui) - Build performant, native and cross-platform desktop applications with Node.js and CSS like styling. Powered by Qt. ([Web](https://docs.nodegui.org/))
+- [Profiling Node.js](https://github.com/StarpTech/profiling-nodejs) - Collection of articles and tools to efficiently profile Node.js.
+- [Zeronode](https://github.com/sfast/zeronode) - Minimal building block for NodeJS microservices.
+- [Amplication](https://github.com/amplication/amplication) - Instantly Generate Node.js Apps with GraphQL and REST API. ([Web](https://app.amplication.com/)) ([HN](https://news.ycombinator.com/item?id=25749492))
+- [canarist](https://github.com/xing/canarist) - Like npm link, but for workspaces / monorepos.
+- [Concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
+- [node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write native Node.js module using idiomatic Rust.
+- [tasksfile](https://github.com/pawelgalazka/tasksfile) - Minimalistic task runner for node.js.
+- [Node.js race conditions (2021)](https://www.nodejsdesignpatterns.com/blog/node-js-race-conditions/)
+- [fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs().
+- [Gluegun](https://github.com/infinitered/gluegun) - Delightful toolkit for building TypeScript-powered command-line apps.
+- [node-pty](https://github.com/microsoft/node-pty) - Fork pseudoterminals in Node.JS.
+- [LRT](https://github.com/dfilatov/lrt) - Scheduler for long-running tasks inside browsers and Node.JS.
+- [ReactXpress](https://github.com/gigantz/react-xpress) - React renderer to build Node.js server.
+- [Node.js 14 is over 20x faster than Python3.8 for fib(n)](https://jott.live/markdown/nodejs_vs_python_) ([HN](https://news.ycombinator.com/item?id=26079570))
+- [Using ES Modules (ESM) in Node.js: A Practical Guide (2021)](https://gils-blog.tayar.org/posts/using-jsm-esm-in-nodejs-a-practical-guide-part-1/) ([HN](https://news.ycombinator.com/item?id=26087220))
+- [Envalid](https://github.com/af/envalid) - Environment variable validation for Node.js.
+- [Express Typescript Boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - Delightful way to building a RESTful API with NodeJs & TypeScript.
+- [Bytenode](https://github.com/OsamaAbbas/bytenode) - Minimalist bytecode compiler for Node.js.
+- [rools](https://github.com/frankthelen/rools) - Small rule engine for Node.
+- [I finally escaped Node (and you can too) (2021)](https://acco.io/i-escaped-node) ([Lobsters](https://lobste.rs/s/eaaxsb/i_finally_escaped_node_you_can_too))
+- [LoopBack](https://loopback.io/) - Highly extensible Node.js and TypeScript framework for building APIs and microservices. ([Code](https://github.com/strongloop/loopback-next))
+- [Sending tuples from Node to Rust and back (2021)](https://www.fluvio.io/blog/2021/04/node-bindgen-tuples/)
+- [HugSql](https://github.com/carocad/hugsql) - Node.js library for embracing SQL.
+- [esmon](https://github.com/egoist/esmon) - Like nodemon but using esbuild.
+- [MikroORM](https://mikro-orm.io/) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. ([Code](https://github.com/mikro-orm/mikro-orm))
+- [Haf](https://github.com/BatuhanW/haf) - Fully typed, cross-platform, persistent config solution for your NodeJS projects with a great developer experience.
+- [nanoexpress](https://github.com/nanoexpress/nanoexpress) - Professional backend framework for Node.js.
+- [unimported](https://github.com/smeijer/unimported) - CLI utility that scans node/JavaScript projects to report dangling files and unused dependencies.
+- [boxednode](https://github.com/mongodb-js/boxednode) - Ship a JS file with Node.js in a box.
+- [caxa](https://github.com/leafac/caxa) - Package Node.js applications into executable binaries.
+- [Dependency Managers Don’t Manage Your Dependencies (2021)](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
+- [Specialist](https://github.com/fabiospampinato/specialist) - Library that helps you write tiny, fast, bundled and beautiful CLI apps that can automatically check for updates.
+- [Steno](https://github.com/typicode/steno) - Specialized fast async file writer.
+- [WebContainers: Run Node.js natively in the browser (2021)](https://blog.stackblitz.com/posts/introducing-webcontainers/) ([HN](https://news.ycombinator.com/item?id=27223012))
+- [envfile](https://github.com/bevry/envfile) - Parse and write environment files with Node.js.
+- [listr2](https://github.com/cenk1cenk2/listr2) - Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
+- [node-rs](https://github.com/napi-rs/node-rs) - Rust Node.js bindings.
+- [node-dev](https://github.com/fgnass/node-dev) - Zero-conf Node.js reloading.
+- [How to update all the Node dependencies to their latest version](https://flaviocopes.com/update-npm-dependencies/)
+- [nact](https://github.com/nactio/nact) - Node.js + actors. Redux but for the server. ([Web](https://nact.io/))
+- [Yalc](https://github.com/wclr/yalc) - Better workflow than npm | yarn link for package authors.
+- [Awesome NodeJS Security](https://github.com/lirantal/awesome-nodejs-security)
+- [Volt](https://www.voltpkg.com/) - Fastest Node.js Package Manager. ([Code](https://github.com/voltpkg/volt))
+- [workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser.
+- [esbuild-node-externals](https://github.com/pradel/esbuild-node-externals) - Esbuild plugin to easily exclude node modules during builds.
+- [Bema](https://github.com/prisma-labs/bema) - Delightful benchmarking for Node.js.
+- [Hammer](https://github.com/sinclairzx81/hammer) - Build Tool for Browser and Node Applications.
+- [Commander.js](https://github.com/tj/commander.js) - Node.js command-line interfaces made easy.
+- [AdonisJS](https://adonisjs.com/) - Fully featured web framework for Node.js. ([Code](https://github.com/adonisjs/core))
+- [flydrive](https://github.com/Slynova-Org/flydrive) - Framework-agnostic package which provides a powerful wrapper to manage file Storage in Node.js.
+- [Japa](https://github.com/thetutlage/japa) - Embedable test runner for Node.js.
+- [Lucid](https://github.com/adonisjs/lucid) - Official SQL ORM for AdonisJS.
+- [tinyhttp/jwt](https://github.com/tinyhttp/jwt) - JWT middleware for HTTP servers.
+- [TypeScript and native ESM on Node.js (2021)](https://2ality.com/2021/06/typescript-esm-nodejs.html)
+- [NPM audit: Broken by Design (2021)](https://overreacted.io/npm-audit-broken-by-design/) ([HN](https://news.ycombinator.com/item?id=27761334)) ([Tweet](https://twitter.com/dan_abramov/status/1412776197528997894)) ([Tweet](https://twitter.com/dan_abramov/status/1412376404738686984))
+- [Yarn 3.0: Performances, ESBuild, Better Patches (2021)](https://dev.to/arcanis/yarn-3-0-performances-esbuild-better-patches-e07) ([HN](https://news.ycombinator.com/item?id=28010309))
+- [Nodashka](https://github.com/borkdude/nodashka) - Babashka-like tool for Node.js.
+- [Non-blocking I/O and how Node uses it, in friendly terms (2021)](https://www.youtube.com/watch?v=wB9tIg209-8)
+- [Hello Yarn 2, Goodbye node_modules (2021)](https://freddixx.medium.com/hello-yarn-2-goodbye-node-modules-21d97afc1a75) ([HN](https://news.ycombinator.com/item?id=28122318))
+- [PureORM](https://github.com/craigmichaelmartin/pure-orm) - Node.js SQL toolkit for writing native SQL queries yielding pure business objects.
+- [stream-json](https://github.com/uhop/stream-json) - Micro-library of node.js stream components with minimal dependencies for creating custom data processors oriented on processing huge JSON files.
+- [Edge](https://github.com/edge-js/edge) - Node.js templating engine with fresh air.
+- [Poolifier](https://github.com/poolifier/poolifier) - Fast and small Node.js thread pool implementation.
+- [tasuku](https://github.com/privatenumber/tasuku) - Minimal task runner for Node.js.
+- [pathe](https://github.com/unjs/pathe) - Normalized paths for Node.js.
+- [Node Mono Library Template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions.
+- [Auto NPX](https://github.com/antfu/vscode-auto-npx) - Auto resolving local Node.js binaries in VS Code terminal.
+- [Ask HN: Why is Node.js hated so much? (2021)](https://news.ycombinator.com/item?id=28728591)
+- [parcel/watcher](https://github.com/parcel-bundler/watcher) - Native C++ Node module for querying and subscribing to filesystem events.
+- [FormData](https://github.com/octet-stream/form-data) - Spec-compliant FormData implementation for Node.js.
+- [Comedy](https://github.com/untu/comedy) - Node.js actor framework.
+- [fs-memoize](https://github.com/isaachinman/fs-memoize) - Simple, zero-dependency NodeJs filesystem memoizer.
+- [stream-http](https://github.com/jhiesey/stream-http) - Streaming node http in the browser.
+- [Moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js. ([Web](https://moleculer.services/)) ([Template](https://github.com/moleculerjs/moleculer-template-project-typescript))
+- [skr canvas](https://github.com/Brooooooklyn/canvas) - Google Skia binding to Node.js via Node-API, 0 System dependencies.
+- [Clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library with no runtime dependencies. ([Web](https://mael.dev/clipanion/))
+- [HyperExpress](https://github.com/kartikk221/hyper-express) - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood.
+- [CORS Anywhere](https://github.com/Rob--W/cors-anywhere) - NodeJS proxy which adds CORS headers to the proxied request.
+- [tsno](https://github.com/egoist/tsno) - `node` with typescript support, importing from URL, etc.
+- [Vite as Node.js runtime](https://github.com/antfu/vite-node)
+- [node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration.
+- [Supercharge Your Node.js with Rust (2021)](https://yieldcode.blog/supercharge-nodejs-with-rust/) ([HN](https://news.ycombinator.com/item?id=28976341))
+- [cli-ux](https://github.com/oclif/cli-ux) - CLI IO utilities.
+- [Better SSE](https://github.com/MatthewWid/better-sse) - Dead simple, dependency-less, spec-compliant server-side events implementation for Node, written in TypeScript.
+- [cache-interop](https://github.com/soluble-io/cache-interop) - Interoperable cache adapters for node and browsers.
+- [How to distribute pre-built node binaries (2021)](https://twitter.com/MylesBorins/status/1455552470411845632)
+- [Designing Error Messages and a Logging Strategy in Node.js (2021)](https://blog.appsignal.com/2021/11/03/designing-error-messages-and-a-logging-strategy-in-nodejs.html)
+- [await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch.
+- [formidable](https://github.com/node-formidable/formidable) - Node.js module for parsing form data, especially file uploads.
+- [thread-stream](https://github.com/pinojs/thread-stream) - Streaming way to send data to a Node.js Worker Thread.
+- [next-10](https://github.com/nodejs/next-10) - Discussion on strategic directions for next 10 years of Node.js.
+- [p4ssw0rd](https://github.com/Munkkeli/p4ssw0rd) - Hash passwords with SHA-256 + bcrypt in Node.js.
+- [A Guide to Load Testing Node.js APIs with Artillery (2021)](https://blog.appsignal.com/2021/11/10/a-guide-to-load-testing-nodejs-apis-with-artillery.html)
+- [find-my-way](https://github.com/delvedor/find-my-way) - Crazy fast HTTP router.
+- [fastest-validator](https://github.com/icebob/fastest-validator) - Fastest JS validator library for NodeJS | Browser | Deno.
+- [fast-gateway](https://github.com/BackendStack21/fast-gateway) - Super fast, framework agnostic Node.js API Gateway for the masses. ([Article](https://itnext.io/a-js-api-gateway-for-the-masses-a12fdb9e961c))
+- [Easily build NodeJS projects inside a docker container](https://gist.github.com/rain-1/2f5551e34f32b1ef3cd58d01478a4916) ([Lobsters](https://lobste.rs/s/cwhckf/easily_build_nodejs_projects_inside))
+- [Agenda](https://github.com/agenda/agenda) - Light-weight job scheduling library for Node.js.
+- [synchronous-worker](https://github.com/addaleax/synchronous-worker) - Run Node.js APIs synchronously.
+- [Base](https://github.com/base/base) - Foundation for creating modular, unit testable and highly pluggable, server-side node.js applications.
+- [node-safe](https://github.com/berstend/node-safe) - Make using Node.js safe again with Deno-like permissions.
+- [shrun](https://github.com/rylandg/shrun) - Test NodeJS CLI commands in isolated docker containers.
+- [Bottleneck](https://github.com/SGrondin/bottleneck) - Lightweight and zero-dependency Task Scheduler and Rate Limiter for Node.js and the browser.
+- [Follow Redirects](https://github.com/follow-redirects/follow-redirects) - Node.js module that automatically follows HTTP(S) redirects.
+- [ultrafetch](https://github.com/natemoo-re/ultrafetch) - node-fetch backed with an RFC-7234 compliant filesystem cache.
+- [gpkg](https://github.com/Schniz/gpkg) - Global Node binary manager written in Rust.
+- [How to deploy a NodeJS application using Fly.io (2021)](https://www.thisdot.co/blog/how-to-deploy-a-nodejs-application-using-fly-io)
+- [dats](https://github.com/immobiliare/dats) - Minimalistic zero-dependencies UDP/TCP statsd client for Node.js.
+- [WebAPI](https://github.com/astro-community/webapi) - Use Web APIs for Node.
+- [type-flag](https://github.com/privatenumber/type-flag) - CLI argument parser with first-class type support.
+- [next-chunk](https://github.com/grantila/next-chunk) - Asynchronously returns the next chunk in a Node.js readable stream.
+- [kv-orm/core](https://github.com/kv-orm/core) - Node.js ORM for key-value datastores.
+- [0x](https://github.com/davidmarkclements/0x) - Profile and generate an interactive flamegraph for a Node process with a single command.
+- [jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js.
+- [mlly](https://github.com/unjs/mlly) - Missing ECMAScript module utils for Node.js.
+- [siroc](https://github.com/unjs/siroc) - Zero-config but extensible framework for developing Node applications and libraries.
+- [Awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS.
+- [Level](https://leveljs.org/) - Node.js modules to build your very own database. ([GitHub](https://github.com/Level))
+- [subleveldown](https://github.com/Level/subleveldown) - Split a levelup database into sublevels with their own keyspace, encoding and events.
+- [tree-sitter-highlight](https://github.com/devongovett/tree-sitter-highlight) - Syntax highlighter for Node powered by Tree Sitter. Written in Rust.
+- [Node.js Integration Tests Best Practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices)
+- [Testcontainers Node](https://github.com/testcontainers/testcontainers-node) - NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers.
+- [node-cli-starter](https://github.com/coryrylan/node-cli-starter) - Minimal starter kit for building Node CLI applications with TypeScript.
+- [Node.js Addon Examples](https://github.com/nodejs/node-addon-examples)
+- [cleye](https://github.com/privatenumber/cleye) - Intuitive CLI development tool for Node.js.
+- [Youch](https://github.com/poppinss/youch) - Pretty error reporting for Node.js.
+- [rust-nodejs](https://github.com/patr0nus/rust-nodejs) - Embedding Node.js in Rust.
+- [Node.js Technical Steering Committee](https://github.com/nodejs/TSC)
+- [Debugging Node.js Libraries (2021)](https://maximomussini.com/posts/debugging-javascript-libraries/)
+- [make-fetch-happen](https://github.com/npm/make-fetch-happen) - Making fetch happen for npm.
+- [nconf](https://github.com/indexzero/nconf) - Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.
+- [napi.zig](https://github.com/evanwashere/napi.zig) - Tiny and fast node-api bindings for zig.
+- [pprof support for Node.js](https://github.com/google/pprof-nodejs)
+- [cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native.
+- [HN: Fetch API has landed into Node.js](https://news.ycombinator.com/item?id=30161626)
+- [Cloud Profiler: Node.js Client](https://github.com/googleapis/cloud-profiler-nodejs) - Adds support for Cloud Profiler to Node.js applications.
+- [snm](https://github.com/numToStr/snm) - Smol and simple node version manager written in rust.
+- [ShellJS](https://github.com/shelljs/shelljs) - Portable Unix shell commands for Node.js.
+- [Graceful Server](https://github.com/gquittet/graceful-server) - Tiny (~5k), KISS, dependency-free Node.JS library to make your API more graceful.
+- [replacestream](https://github.com/eugeneware/replacestream) - Node.js through stream that does basic streaming text search and replace and is chunk boundary friendly.
+- [Tumau](https://github.com/etienne-dldc/tumau) - Node HTTP framework written in Typescript.
+- [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
+- [NATS.js](https://github.com/nats-io/nats.js) - Node.js client for the NATS messaging system.
+- [manten](https://github.com/privatenumber/manten) - Lightweight testing library for Node.js.
+- [request-retry](https://github.com/FGRibreau/node-request-retry) - HTTP(s) request retry on recoverable errors.
+- [timecut](https://github.com/tungs/timecut) - Node.js program to record smooth movies of web pages with JavaScript animations.
+- [japa/runner](https://github.com/japa/runner) - API first tests runner for Node.js.
+- [Server-sent events for NodeJS](https://github.com/triblondon/node-sse-pubsub)
+- [tiny-typed-emitter](https://github.com/binier/tiny-typed-emitter) - Fully type-checked NodeJS EventEmitter.
+- [node-web-streams](https://github.com/gwicke/node-web-streams) - WhatWG web streams and utilities for node.js.
+- [napi-rs/dog](https://github.com/Brooooooklyn/dog) - Watch/compile/restart your Node.js application for developing.
+- [Mitm.js](https://github.com/moll/node-mitm) - Intercept and mock outgoing Node.js network TCP connections and HTTP requests for testing.
+- [Workshop on Node.js Streams](https://github.com/lmammino/streams-workshop)
+- [node-ipc](https://github.com/RIAEvangelist/node-ipc) - Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP.
+- [Netlify Zip it and Ship it](https://github.com/netlify/zip-it-and-ship-it) - Intelligently prepare Node.js Lambda functions for deployment.
+- [fetch() In Node.js Core: Why You Should Care (2022)](https://fusebit.io/blog/node-fetch/)
+- [reSolve](https://github.com/reimagined/resolve) - Full stack CQRS, DDD, Event Sourcing framework for Node.js.
+- [EvtStore](https://github.com/Seikho/evtstore) - Type-safe Event Sourcing and CQRS with Node.JS and TypeScript.
+- [tiny glob](https://github.com/terkelg/tiny-glob) - Tiny and extremely fast library to match files and folders using glob patterns.
+- [proxy-chain](https://github.com/apify/proxy-chain) - Programmable HTTP proxy server for Node.js.
+- [Node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js.
+- [Tao of Node - Design, Architecture & Best Practices (2022)](https://alexkondov.com/tao-of-node/)
+- [node-bluetooth](https://github.com/song940/node-bluetooth) - Bluetooth serial port communication for Node.js.
+- [DeAsync.js](https://github.com/abbr/deasync) - Turns async function into sync via JavaScript wrapper of Node event loop.
+- [Strom](https://github.com/lewisdiamond/stromjs) - Dependency-free stream utils for Node.js.
+- [synckit](https://github.com/rx-ts/synckit) - Perform async work synchronously in Node.js using worker_threads with first-class TypeScript support.
+- [Node "exports" field explanation](https://github.com/sheremet-va/dual-packaging)
+- [Better Queue for NodeJS](https://github.com/diamondio/better-queue)
+- [valienv](https://github.com/zoontek/valienv) - Simple environment variables validator for Node.js and web browsers.
+- [meta-fetcher](https://github.com/rocktimsaikia/meta-fetcher) - Simple metadata scrapper for node.js.
+- [Nightwatch.js](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API.
+- [cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions.
+- [nat-api](https://github.com/alxhotel/nat-api) - Fast port mapping with UPnP and NAT-PMP.
+- [watch-dependency-graph](https://github.com/front-of-house/watch-dependency-graph) - Small Node.js file watcher for watching dependency trees.
+- [deoptigate](https://github.com/thlorenz/deoptigate) - Investigates v8/Node.js function deoptimizations.
+- [node-http-proxy](https://github.com/http-party/node-http-proxy) - HTTP programmable proxying library that supports websockets. Suitable for implementing components such as reverse proxies and load balancers.
+- [NodeJS packages don't deserve your trust](https://josephg.com/blog/node-sandbox/) ([HN](https://news.ycombinator.com/item?id=30988034)) ([Lobsters](https://lobste.rs/s/ngzszd/nodejs_packages_don_t_deserve_your_trust))
+- [Web standard IO APIs implemented for NodeJS](https://github.com/web-std/io)
+- [c8](https://github.com/bcoe/c8) - Output coverage reports using Node.js' built in coverage.
+- [Node.js 18 Introduces Prefix-Only Core Modules (2022)](https://fusebit.io/blog/node-18-prefix-only-modules/)
+- [Nexe](https://github.com/nexe/nexe) - Create a single executable out of your node.js apps.
+- [express-session](https://github.com/expressjs/session) - Simple session middleware for Express.
+- [Node Clean Architecture Template](https://github.com/JamieLivingstone/node-clean-architecture)
+- [fs-spy](https://github.com/antfu/fs-spy) - Monitoring fs accessing for Node process.
+- [args-flags](https://github.com/souporserious/args-flags) - Simple command line argument parser for Node.
+- [Node.js Modules Team](https://github.com/nodejs/modules)
+- [Node Addon API Module](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++.
+- [Lad](https://github.com/ladjs/lad) - Node.js web framework.
+- [node-tap](https://github.com/tapjs/node-tap) - Test Anything Protocol tools for node.
+- [Piston](https://github.com/engineer-man/piston) - High performance general purpose code execution engine.
+- [Sort Package.json](https://github.com/keithamus/sort-package-json) - Sort an Object or package.json based on the well-known package.json keys.
+- [pnpm monorepo example](https://github.com/jkomyno/pnpm-monorepo-example) - Opinionated Node.js monorepo example with pnpm, turborepo, and jest.
+- [Which Monorepo is right for a Node.js backend? (2022)](https://medium.com/autodesk-tlv/lerna-has-gone-which-monorepo-is-right-for-a-node-js-backend-fc075cad51b0)
+- [busboy](https://github.com/mscdex/busboy) - Streaming parser for HTML form data for node.js.
+- [Node.js Design Patterns](https://www.nodejsdesignpatterns.com/) ([Code](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition))
+- [Node.js Diagnostics Working Group](https://github.com/nodejs/diagnostics)
+- [cjs-loader](https://github.com/esbuild-kit/cjs-loader) - Node.js loader for compiling ESM & TypeScript modules to CommonJS.
+- [esm-loader](https://github.com/esbuild-kit/esm-loader) - Node.js loader for compiling TypeScript modules to ESM.
+- [tsx](https://github.com/esbuild-kit/tsx) - Node.js runtime enhanced with esbuild for loading TypeScript & ESM.
+- [Node Task List](https://github.com/ruyadorno/ntl) - Interactive CLI to list and run package.json scripts.
+- [HatTip](https://github.com/hattipjs/hattip) - Like Express, but for the future.
+- [Sidewinder](https://github.com/sinclairzx81/sidewinder) - Type Safe Micro Services for Node.
+- [Lilconfig](https://github.com/antonk52/lilconfig) - Zero-dependency nodejs config seeker.
+- [mojo.js](https://github.com/mojolicious/mojo.js) - Real-time web framework for Node.js.
+- [better-logging](https://github.com/Olian04/better-logging) - Drop in replacement for the default logging methods of node.js.
+- [Functions Framework for Node.js](https://github.com/GoogleCloudPlatform/functions-framework-nodejs) - Open source FaaS (Function as a Service) framework based on Express for writing portable Node.js functions.
+- [milliparsec](https://github.com/tinyhttp/milliparsec) - Tiniest body parser in the universe. Built for modern Node.js
+- [lru-send](https://github.com/tinyhttp/lru-send) - LRU-based caching middleware for Node.js.
+- [Creating Node.js Docker images that build in 2 seconds (2022)](https://xmorse.xyz/blog/creating-node-js-docker-images-that-build-in-2-seconds-c428aec57fd44a9f93957bdf2ebf4f54)

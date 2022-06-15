@@ -1,0 +1,551 @@
+---
+title: Linux
+---
+
+# [Linux](https://github.com/torvalds/linux)
+
+[The Linux Programming Interface](https://man7.org/tlpi/) book seems nice so as the many resources [found here](https://twitter.com/bradfitz/status/1495066999587627011). [Cobbler](https://github.com/cobbler/cobbler) & [NixOS](nixos.md) seem nice.
+
+## Distributions
+
+- [Alpine Linux](https://www.alpinelinux.org/) - Security-oriented, lightweight Linux distribution based on musl libc and busybox. ([GitHub](https://github.com/alpinelinux))
+- [Ubuntu](https://ubuntu.com/) - Enterprise Open Source and Linux.
+- [Arch Linux](https://www.archlinux.org/) - Simple, lightweight distribution. ([Arch Linux Install Script](https://github.com/picodotdev/alis))
+- [KISS](https://k1ss.org/) ([Code](https://github.com/kisslinux/website)) ([HN](https://news.ycombinator.com/item?id=23255642))
+- [Snakeware](https://github.com/joshiemoore/snakeware) - Free Linux distro with a fully Python userspace. ([HN](https://news.ycombinator.com/item?id=23391380))
+- [Oasis](https://github.com/oasislinux/oasis) - Small statically-linked linux system. ([Lobsters](https://lobste.rs/s/n6ehna/oasis_small_statically_linked_linux))
+- [Liquorix](https://liquorix.net/) - Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. ([Why use it](https://github.com/zen-kernel/zen-kernel/issues/30#issuecomment-647045343))
+- [NixOS](nixos.md)
+- [Bedrock Linux](https://bedrocklinux.org/) - Meta Linux distribution which allows users to mix-and-match components from other, typically incompatible distributions.
+- [TinyCore Linux](http://tinycorelinux.net/) - Micro Core Linux, 12MB Linux GUI Desktop, Live, Frugal, Extendable. ([HN](https://news.ycombinator.com/item?id=25158736))
+- [HiFiBerryOS](https://github.com/hifiberry/hifiberry-os) - Minimal Linux distribution optimized for audio playback.
+- [Rocky Linux](https://rockylinux.org/) - Community-driven, enterprise-ready OS. ([Code](https://github.com/rocky-linux/rocky)) ([Website Code](https://github.com/rocky-linux/rockylinux.org)) ([Infrastructure](https://github.com/rocky-linux/infrastructure)) ([HN](https://news.ycombinator.com/item?id=25445725))
+- [Debian](https://www.debian.org/) ([Ultimate Debian Database](https://wiki.debian.org/UltimateDebianDatabase)) ([HN](https://news.ycombinator.com/item?id=25584695)) ([HN 2](https://news.ycombinator.com/item?id=25785925)) (Debian Reference)
+- [Fedora](https://getfedora.org/)
+- [Manjaro](https://manjaro.org/)
+- [Gentoo](https://www.gentoo.org/) - Highly flexible, source-based Linux distribution. ([Gentoo Packages](https://github.com/gentoo/gentoo))
+- [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
+- [Glacies](https://eltan.in.net/blog/2021/01/13/0/) - Linux distribution using Eltanin userspace.
+- [Lakka](https://github.com/libretro/Lakka-LibreELEC) - Lightweight Linux distribution that transforms a small computer into a full blown game console. ([Web](http://www.lakka.tv/))
+- [LibreELEC](https://github.com/LibreELEC/LibreELEC.tv) - Linux distribution for the award-winning Kodi software on popular mediacentre hardware. ([Web](https://libreelec.tv/))
+- [GoboLinux](https://www.gobolinux.org/) - Alternative Linux distribution which redefines the entire filesystem hierarchy. ([HN](https://news.ycombinator.com/item?id=26002251))
+- [Garuda Linux](https://garudalinux.org/) ([HN](https://news.ycombinator.com/item?id=26001738))
+- [Chimera Linux](https://chimera-linux.org/) - Linux distribution based on FreeBSD userland and LLVM. ([HN](https://news.ycombinator.com/item?id=27721283))
+- [CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances.
+- [Iglunix](https://iglunix.xyz/) - Linux (and other kernels) distro with no GNU components.
+- [GoboLinux](https://gobolinux.org/) - Redefining Linux filesystem hierarchy. ([HN](https://news.ycombinator.com/item?id=29714825))
+- [Minimal Linux Live](https://github.com/ivandavidov/minimal) - Tiny educational Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts. ([Web](http://minimal.idzona.com/#home))
+- [elementary OS](https://elementary.io/) - Thoughtful, capable, and ethical replacement for Windows and macOS. ([GitHub](https://github.com/elementary)) ([elementary OS is imploding (2022)](https://lunduke.substack.com/p/elementary-os-is-imploding?s=r)) ([HN](https://news.ycombinator.com/item?id=30611748))
+
+## WM
+
+- [i3](https://github.com/i3/i3) - Tiling WM. [Faster than xmonad](https://twitter.com/smdiehl/status/1323935455126106114).
+- [i3-gaps](https://github.com/Airblader/i3) - Tiling window manager for X11.
+- [XMonad](http://xmonad.org/) - Automated Tiling WM. ([HN](https://news.ycombinator.com/item?id=28793941))
+- [river](https://github.com/ifreund/river) - Dynamic tiling wayland compositor.
+- [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor.
+- [StumpWM](https://stumpwm.github.io/) - Tiling, keyboard driven X11 Window Manager written entirely in Common Lisp.
+- [Luke's build of dwm](https://github.com/LukeSmithxyz/dwm)
+
+## Launchers
+
+- [rofi](https://github.com/DaveDavenport/rofi) - Window switcher, application launcher and dmenu replacement.
+- [Albert](https://github.com/albertlauncher/albert) - Fast and flexible keyboard launcher. ([Web](https://albertlauncher.github.io/)) ([HN](https://news.ycombinator.com/item?id=31625407))
+
+## Games
+
+- [Wine](https://www.winehq.org/) - Compatibility layer capable of running Windows applications.
+- [Lutris](https://lutris.net/) - Open gaming platform for Linux.
+
+## Other
+
+- [Nix](../../package-managers/nix/nix.md) - Purely functional package manager.
+- [Thunar](https://wiki.archlinux.org/index.php/thunar) - Modern file manager.
+- [Mopidy](https://www.mopidy.com/) - Extensible music server.
+- [MPV](https://mpv.io/) - Free, open source, and cross-platform media player. ([Code](https://github.com/mpv-player/mpv)) ([HN](https://news.ycombinator.com/item?id=29867547))
+- [Tilix](https://github.com/gnunn1/tilix) - Tiling terminal emulator.
+- [fwupd](https://github.com/hughsie/fwupd) - Simple daemon to allow session software to update firmware.
+- [linux-inject](https://github.com/gaffe23/linux-inject) - Tool for injecting a shared object into a Linux process.
+- [xkeysnail](https://github.com/mooz/xkeysnail) - Keyboard remapping tool for X environment.
+- [Kinto](https://github.com/rbreaves/kinto/) - Mac-style shortcut keys for Linux and Windows. ([HN](https://news.ycombinator.com/item?id=26430240))
+- [Map2](https://github.com/shiro/map2) - Scripting language that allows complex key remapping on Linux.
+- [warpd](https://github.com/rvaiya/warpd) - Modal keyboard-driven virtual pointer.
+
+## Links
+
+- [Linux insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
+- [Linux Kernel Newbies](https://kernelnewbies.org/Documents)
+- [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
+- [Ricing Resources](https://rizonrice.github.io/resources)
+- [HN: Linux: IO without entering the kernel (2018)](https://news.ycombinator.com/item?id=18692376)
+- [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html) ([HN](https://news.ycombinator.com/item?id=25590079)) ([Lobsters](https://lobste.rs/s/exrsyz/linux_hardening_guide))
+- [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) ([Web](https://blkcipher.pl/the-practical-linux-hardening-guide/))
+- [libfuse](https://github.com/libfuse/libfuse) - Reference implementation of the Linux FUSE (Filesystem in Userspace) interface.
+- [Darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux. ([Web](https://www.darlinghq.org/)) ([HN](https://news.ycombinator.com/item?id=22700365)) ([HN 2](https://news.ycombinator.com/item?id=24683669)) ([HN](https://news.ycombinator.com/item?id=29813679))
+- [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+- [State of Linux on the MacBook Pro](https://github.com/Dunedan/mbp-2016-linux)
+- [Sampling CPU profiler for Linux similar to perf](https://github.com/nokia/not-perf)
+- [If you wanted to go from zero to Linux kernel hacker, what route would you take? (2019)](https://lobste.rs/s/b5clu3/if_you_wanted_go_from_zero_linux_kernel)
+- [instantbox](https://github.com/instantbox/instantbox) - Get a clean, ready-to-go Linux box in seconds.
+- [Simple KVM firmware](https://github.com/intel/rust-hypervisor-firmware) - Contains a simple KVM firmware that is designed to be launched from anything that supports loading ELF binaries and running them with the Linux kernel loading standard.
+- [Linux distros without systemd (2019)](https://ungleich.ch/en-us/cms/blog/2019/05/20/linux-distros-without-systemd/) ([HN](https://news.ycombinator.com/item?id=19960165))
+- [Show HN: ZeroHTTPd: A web server to teach Linux performance, with benchmarks](https://unixism.net/2019/04/linux-applications-performance-introduction/) ([HN](https://news.ycombinator.com/item?id=20081488))
+- [The Definitive Guide to Linux System Calls (2016)](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/) ([HN](https://news.ycombinator.com/item?id=23668186))
+- [The Linux Programming Interface](https://man7.org/tlpi/) - Detailed guide and reference for Linux and UNIX system programming.
+- [Karabinux](https://github.com/acheronfail/karabinux) - Attempt to port (as much as possible) the functionality of Karabiner Elements to Linux.
+- [syzkaller](https://github.com/google/syzkaller) - Unsupervised coverage-guided kernel fuzzer.
+- [What's the best approach to learn Linux and its internals? (2019)](https://lobste.rs/s/8qhpaa/what_s_best_approach_learn_linux_its)
+- [htop explained](https://peteris.rocks/blog/htop/) - Explanation of everything you can see in htop/top on Linux.
+- [BPF Compiler Collection (BCC)](https://github.com/iovisor/bcc) - Tools for BPF-based Linux IO analysis, networking, monitoring, and more.
+- [Linux Kernel Defence Map](https://github.com/a13xp0p0v/linux-kernel-defence-map)
+- [RustyBox](https://github.com/samuela/rustybox) - Free-range, non-GMO fork of busybox in 100% Rust. ([HN](https://news.ycombinator.com/item?id=21539815))
+- [Linux Systems Performance (2019)](https://www.usenix.org/conference/lisa19/presentation/gregg-linux) ([Lobsters](https://lobste.rs/s/udnu1m/linux_systems_performance))
+- [fscrypt](https://github.com/google/fscrypt) - Go tool for managing Linux filesystem encryption.
+- [Your Linux Toolbox: a box set of my free zines (2019)](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
+- [rustysd](https://github.com/KillingSpark/rustysd) - Minimal drop-in for (a subset of) the systemd init system in rust.
+- [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go.
+- [Embedded Linux course (2019)](https://www.youtube.com/playlist?list=PLMB3ddm5Yvh1H_e4IqXyFH25efrNYEDnP)
+- [heaptrack](https://github.com/KDE/heaptrack) - Heap memory profiler for Linux.
+- [u-root](https://github.com/u-root/u-root) - Fully Go userland with Linux bootloaders! u-root can create a root file system (initramfs) containing a busybox-like set of tools written in Go.
+- [ZFS on Linux](https://github.com/zfsonlinux/zfs) - Advanced file system and volume manager which was originally developed for Solaris and is now maintained by the OpenZFS community.
+- [Linux kernel scheduler (2015)](https://helix979.github.io/jkoo/post/os-scheduler/)
+- [Setting up a Linux Workstation for Software Development (2019)](https://tkainrad.dev/posts/setting-up-linux-workstation/)
+- [Boot your custom Kernel: Quick and dirty way (2018)](https://kernel.wtf/boot-your-kernel-with-qemu/)
+- [IBus](https://github.com/ibus/ibus) - Intelligent Input Bus for Linux/Unix.
+- [40 Linux Server Hardening Security Tips (2019)](https://www.cyberciti.biz/tips/linux-security.html)
+- [What Linux distro should I use for a hosted server (DO or AWS?) to run services from (go binaries and software)? (2020)](https://merveilles.town/@nikivi/103484869139753375)
+- ["Kernel hacking like it's 2020" - Russell Currey](https://www.youtube.com/watch?v=heib48KG-YQ)
+- [Various notes for my linux desktop projects by Devine](https://wiki.xxiivv.com/site/computer.html) ([Code](https://github.com/neauoire/linux-notebook))
+- [Using cgroups to limit I/O (2017)](https://andrestc.com/post/cgroups-io/)
+- [Linux Programming Interface book (2010)](http://man7.org/tlpi/)
+- [Linux and UNIX programming training and consulting by Michael Kerrisk](http://man7.org/training/index.html)
+- [Hotspot](https://github.com/KDAB/hotspot) - Linux perf GUI for performance analysis.
+- [Taffybar](https://github.com/taffybar/taffybar) - Gtk based status bar for tiling window managers such as XMonad.
+- [HN: Linux 5.6 is the most exciting kernel in years (2020)](https://news.ycombinator.com/item?id=22284232)
+- [Memory profiler for Linux](https://github.com/koute/memory-profiler)
+- [NEXTSPACE](https://github.com/trunkmaster/nextspace) - Desktop environment that brings a NeXTSTEP look and feel to Linux.
+- [GameMode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand.
+- [Linux Kernel Lectures and Labs](https://linux-kernel-labs.github.io/refs/heads/master/index.html) ([HN](https://news.ycombinator.com/item?id=22564665))
+- [Pretty and functional linux/unix desktop for former Mac users/Design freaks](https://github.com/milgra/tutorials/blob/master/pretty-and-functional-linux-destkop.md)
+- [Ask HN: How can a intermediate-beginner learn Unix/Linux and programming? (2020)](https://news.ycombinator.com/item?id=22649291)
+- [systemd](https://github.com/systemd/systemd) - System and Service Manager. ([Web](https://systemd.io/))
+- [Speeding up Linux disk encryption (2020)](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/) ([HN](https://news.ycombinator.com/item?id=22683750))
+- [Multipass](https://github.com/canonical/multipass) - Lightweight VM manager for Linux, Windows and macOS. It's designed for developers who want a fresh Ubuntu environment with a single command.
+- [A "living" Linux process with no memory](https://github.com/izabera/zeromaps) ([HN](https://news.ycombinator.com/item?id=22693805))
+- [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
+- [Subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
+- [nohang](https://github.com/hakavlad/nohang) - Sophisticated low memory handler for Linux.
+- [Firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox. Sandbox Linux Applications. ([HN](https://news.ycombinator.com/item?id=25052341)) ([HN](https://news.ycombinator.com/item?id=30820387))
+- [rust.ko](https://github.com/tsgates/rust.ko) - Minimal Linux kernel module written in rust.
+- [What's your distro, and how did you pick it? (2020)](https://lobste.rs/s/bu3ynt/what_s_your_distro_how_did_you_pick_it)
+- [Intermediate Linux command line tutorial (2017)](https://www.jayconrod.com/posts/103/intermediate-linux-command-line-tutorial)
+- [Operating Systems Without Systemd (2020)](https://annihilatormodule.com/2020-01-18/systemd-archives) ([HN](https://news.ycombinator.com/item?id=23047885))
+- [Hunting a Linux kernel bug (2020)](https://blog.twitter.com/engineering/en_us/topics/open-source/2020/hunting-a-linux-kernel-bug.html) ([HN](https://news.ycombinator.com/item?id=23005467))
+- [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor.
+- [systemd, 10 years later: a historical and technical retrospective (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/index.html) ([Lobsters](https://lobste.rs/s/hm13g1/systemd_10_years_later_historical)) ([HN](https://news.ycombinator.com/item?id=23062072))
+- [The CPU Cost of Networking on a Host (2020)](https://people.kernel.org/dsahern/the-cpu-cost-of-networking-on-a-host)
+- [Unikernels: The Next Stage of Linux's Dominance (2020)](https://dl.acm.org/doi/abs/10.1145/3317550.3321445) ([HN](https://news.ycombinator.com/item?id=23201174))
+- [The CPU Cost of Networking on a Host — David Ahern (2020)](https://people.kernel.org/dsahern/the-cpu-cost-of-networking-on-a-host)
+- [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF.
+- [Barrier](https://github.com/debauchee/barrier) - Share mouse and keyboard between computers. ([HN](https://news.ycombinator.com/item?id=30639181))
+- [Linux Productivity Tools (2019)](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf) ([HN](https://news.ycombinator.com/item?id=23229241))
+- [Using the KVM API](https://lwn.net/Articles/658511/)
+- [LWN.net](https://lwn.net/) - Reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities.
+- [KVM host in a few lines of code (2020)](https://zserge.com/posts/kvm/)
+- [My Arch Linux Setup (2020)](https://oneraynyday.github.io/dev/2020/04/26/My-Arch-Linux-Setup/)
+- [LKML.ORG](https://lkml.org/) - Linux Kernel Mailing List archive.
+- [lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script.
+- [Rampage](https://github.com/Hexorg/Rampage) - Linux memory scanner/editor written in python.
+- [Lobsters: Linux Sucks 2020](https://lobste.rs/s/jltpme/linux_sucks_2020) ([HN](https://news.ycombinator.com/item?id=23516322))
+- [sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions.
+- [TuxURLs](https://tuxurls.com/) - Simple Linux news aggregator.
+- [Linux Security Hardening and Other Tweaks (2020)](https://vez.mrsk.me/linux-hardening.html)
+- [Main Linux problems on the desktop (2020 edition)](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html) ([Lobsters](https://lobste.rs/s/hjigep/main_linux_problems_on_desktop_2020)) ([HN](https://news.ycombinator.com/item?id=23368115))
+- [ktrl](https://github.com/ItayGarin/ktrl) - Linux keyboard programming daemon. It aims to aid you in the never-ending quest of achieving the ultimate keybinding setup.
+- [Compilation of Linux server benchmarking scripts](https://github.com/haydenjames/bench-scripts)
+- [Why I Use Suckless Tools (2020)](https://christine.website/blog/why-i-use-suckless-tools-2020-06-05) ([Lobsters](https://lobste.rs/s/kpuj8p/why_i_use_suckless_tools)) ([HN](https://news.ycombinator.com/item?id=23438510))
+- [RTLinux](https://wiki.linuxfoundation.org/realtime/start) - Hard realtime real-time operating system microkernel that runs the entire Linux operating system as a fully preemptive process.
+- [Running Linux on my Macbook (2020)](https://djhworld.github.io/post/2020/06/07/running-linux-on-my-macbook/) ([HN](https://news.ycombinator.com/item?id=23453586))
+- [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/) ([Code](https://github.com/makelinux/linux_kernel_map/blob/master/srcxray.py)) ([HN](https://news.ycombinator.com/item?id=23452721)) ([Code](https://github.com/makelinux/linux_kernel_map))
+- [Wayfire](https://github.com/WayfireWM/wayfire) - 3D wayland compositor.
+- [Waysmoke](https://github.com/myfreeweb/waysmoke) - Upcoming desktop shell, built primarily for the Wayfire compositor.
+- [Weylus](https://github.com/H-M-H/Weylus) - Turns your tablet or smart phone into a graphic tablet/touch screen for your computer. ([HN](https://news.ycombinator.com/item?id=23443430))
+- [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process.
+- [pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions.
+- [Linux kernel crash utility](https://github.com/crash-utility/crash)
+- [Computers Barely Work - Interview with Linux Legend Greg Kroah-Hartman (2020)](https://www.youtube.com/watch?v=t9MjGziRw-c)
+- [Maloader](https://github.com/shinh/maloader) - Userland Mach-O loader for linux.
+- [Linux System calls table for several architectures](https://fedora.juszkiewicz.com.pl/syscalls.html) ([Code](https://github.com/hrw/syscalls-table))
+- [lpe](https://github.com/jollheef/lpe) - Collection of verified Linux kernel exploits.
+- [Linux Terminal Tools](https://github.com/ketancmaheshwari/lisa19/blob/master/LPT_LISA.pdf)
+- [Regolith](https://regolith-linux.org/) - Modern desktop environment designed to let you work faster by reducing unnecessary clutter and ceremony.
+- [Ward](https://github.com/B-Software/Ward) - Simple and and minimalistic server monitoring tool. ([HN](https://news.ycombinator.com/item?id=23711678))
+- [What to do after installing Arch Linux: My advice to a new user (2020)](https://toffelblog.xyz/tips/arch-postinstall/)
+- [Scaling Linux Services: Before accepting connections (2020)](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html) ([HN](https://news.ycombinator.com/item?id=23729072))
+- [How does Linux's display work?](https://unix.stackexchange.com/questions/596894/how-does-linuxs-display-work)
+- [Sandboxing in Linux with zero lines of code (2020)](https://blog.cloudflare.com/sandboxing-in-linux-with-zero-lines-of-code/) ([Lobsters](https://lobste.rs/s/wqiw5n/sandboxing_linux_with_zero_lines_code))
+- [Linux Impressions (2020)](https://jorin.me/linux-impressions/) ([Lobsters](https://lobste.rs/s/gepn5p/linux_impressions))
+- [Ask HN: Advanced Linux users, which distribution do you run? Why? (2020)](https://news.ycombinator.com/item?id=23816007)
+- [Pinephone – “Community Edition: PostmarketOS” Linux smartphone (2020)](https://store.pine64.org/product-category/pinephone/) ([HN](https://news.ycombinator.com/item?id=23849202))
+- [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux. ([HN](https://news.ycombinator.com/item?id=23880207))
+- [Low latency tuning guide](https://rigtorp.se/low-latency-guide/) ([HN](https://news.ycombinator.com/item?id=24027366))
+- [eBPF](https://ebpf.io/) ([HN](https://news.ycombinator.com/item?id=24138503))
+- [How the ARM32 Linux kernel decompresses (2020)](https://people.kernel.org/linusw/how-the-arm32-linux-kernel-decompresses)
+- [Xplain – Explaining X11 for the rest of us](https://magcius.github.io/xplain/article/) ([HN](https://news.ycombinator.com/item?id=24197528)) ([Code](https://github.com/magcius/xplain))
+- [Switching From i3 to Sway on Ubuntu 20.04 (2020)](https://www.autodidacts.io/switching-to-sway-wayland-from-i3-x11-ubuntu/) ([Lobsters](https://lobste.rs/s/zrfy2v/switching_from_i3_sway_on_ubuntu_20_04))
+- [Articles on BPF](https://lwn.net/Kernel/Index/#Berkeley_Packet_Filter)
+- [Lobsters: A Case against Wayland](https://lobste.rs/s/3ggfkc/case_against_wayland_2011)
+- [How the ARM32 kernel starts (2020)](https://people.kernel.org/linusw/how-the-arm32-kernel-starts)
+- [The design of lock_sock() in Linux kernel (2018)](https://medium.com/@c0ngwang/the-design-of-lock-sock-in-linux-kernel-69c3406e504b) ([Tweet](https://twitter.com/penberg/status/1296811744015384583))
+- [On Kernel-Bypass Networking and Programmable Packet Processing (2018)](https://medium.com/@penberg/on-kernel-bypass-networking-and-programmable-packet-processing-799609b06898)
+- [How Executables Work on Linux (2020)](https://www.youtube.com/watch?v=jR2hUhjcAXI)
+- [Aboriginal Linux](http://landley.net/aboriginal/documentation.html) - Toolkit for building custom virtual machines.
+- [Ventoy](https://github.com/ventoy/Ventoy) - Open source tool to create bootable USB drive for ISO/WIM/IMG/EFI files. ([Web](https://www.ventoy.net/en/index.html))
+- [Linux Kernel Modules Developments](https://github.com/AymenSekhri/LinuxKernelModulesDevelopments)
+- [Introduction to Linux commands and Shell scripting](https://github.com/learnbyexample/Linux_command_line)
+- [Linux From Scratch](http://www.linuxfromscratch.org/index.html) ([HN](https://news.ycombinator.com/item?id=24350738)) ([HN](https://news.ycombinator.com/item?id=30496018))
+- [The Linux development process: Is it worth the hassle? (2020)](https://blog.usejournal.com/the-linux-development-process-is-it-worth-the-hassle-4f09d7ff09a2)
+- [How to take back control of /etc/resolv.conf on Linux (2018)](https://www.ctrl.blog/entry/resolvconf-tutorial.html) ([HN](https://news.ycombinator.com/item?id=24390053))
+- [Introduction to Linux Server Administration](https://github.com/snori74/linuxupskillchallenge)
+- [How does `who` work on Linux? (2020)](https://gauthier.uk/blog/who/)
+- [Clean ALSA documentation](https://rendaw.gitlab.io/blog/2125f09a85f2.html) ([Lobsters](https://lobste.rs/s/vdb8ih/clean_alsa_documentation))
+- [An introduction to Linux kernel initcalls (2020)](https://www.collabora.com/news-and-blog/blog/2020/07/14/introduction-to-linux-kernel-initcalls/) ([Part 2](https://www.collabora.com/news-and-blog/blog/2020/09/25/initcalls-part-2-digging-into-implementation/))
+- [Unlocking eBPF power (2020)](https://devopsspiral.com/articles/linux/ebpf-unlock/)
+- [Linux interview questions](https://github.com/kylejohnson/linux-sysadmin-interview-questions/blob/master/test.md)
+- [Durability: Linux File APIs (2020)](https://www.evanjones.ca/durability-filesystem.html) ([HN](https://news.ycombinator.com/item?id=24758024))
+- [The Year of the Linux dissatisfaction (2020)](https://www.dedoimedo.com/computers/linux-year-of-dissatisfaction.html)
+- [Learning Linux Kernel internals](https://github.com/danbev/learning-linux-kernel)
+- [The Difficulties of Tracking Running Processes on Linux (2020)](https://natanyellin.com/posts/tracking-running-processes-on-linux/)
+- [Minimalistic rEFInd theme](https://github.com/EvanPurkhiser/rEFInd-minimal) - rEFInd is an easy to use boot manager for UEFI based systems.
+- [rEFInd EFI Boot Manager](https://github.com/agners/rEFInd)
+- [LFS, round #1 (2020)](https://www.geeklan.co.uk/?p=2620) ([Lobsters](https://lobste.rs/s/qngua4/lfs_round_1))
+- [Sysmon](https://github.com/MatthiasSchinzel/sysmon) - Graphical system monitor for linux.
+- [Linux Commands frequently used by Linux Sysadmins (2020)](https://haydenjames.io/linux-commands-frequently-used-by-linux-sysadmins-part-1/)
+- [Core Wayland protocol and libraries](https://github.com/wayland-project/wayland)
+- [Diving into /proc/[pid]/mem (2020)](https://blog.cloudflare.com/diving-into-proc-pid-mem/)
+- [Looking Glass](https://looking-glass.io/) - Open source application that allows the use of a KVM (Kernel-based Virtual Machine) configured for VGA PCI Pass-through without an attached physical monitor, keyboard or mouse. ([Code](https://github.com/gnif/LookingGlass))
+- [eBPF Summit 2020](https://ebpf.io/summit-2020/) ([HN](https://news.ycombinator.com/item?id=24934560))
+- [What's in a Linux executable? (2020)](https://fasterthanli.me/series/making-our-own-executable-packer/part-1) ([HN](https://news.ycombinator.com/item?id=24926925))
+- [Paru](https://github.com/Morganamilo/paru) - AUR helper and pacman wrapper.
+- [rkvm](https://github.com/htrefil/rkvm) - Virtual KVM switch for Linux machines.
+- [Are we Wayland yet?](https://arewewaylandyet.com/) ([Lobsters](https://lobste.rs/s/pmqmzs/are_we_wayland_yet)) ([Code](https://github.com/mpsq/arewewaylandyet))
+- [The Linux Commands Handbook](https://openbootcamps.com/the-linux-commands-handbook/) ([HN](https://news.ycombinator.com/item?id=24995352))
+- [Anatomy of a Binary Executable (2020)](https://oswalt.dev/2020/11/anatomy-of-a-binary-executable/) ([HN](https://news.ycombinator.com/item?id=24994522))
+- [Introduction to Linux interfaces for virtual networking (2018)](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking/)
+- [What is eBPF? | How eBPF works (2020)](https://gravitational.com/blog/what-is-ebpf/)
+- [Life and Death of a Linux Process (2020)](https://natanyellin.com/posts/life-and-death-of-a-linux-process/) ([HN](https://news.ycombinator.com/item?id=25001350))
+- [A Linux sysadmin's introduction to cgroups (2020)](https://www.redhat.com/sysadmin/cgroups-part-one) ([HN](https://news.ycombinator.com/item?id=25008941))
+- [Dash Dash](https://dashdash.io/) - Linux Man Pages. Resource for linux documentation and general programming with an emphasis on design. ([Lobsters](https://lobste.rs/s/un5vr9/superb_linux_documentation))
+- [Arch Conf 2020](https://media.ccc.de/c/arch-conf-2020) ([HN](https://news.ycombinator.com/item?id=25014421))
+- [OpenBMC](https://github.com/facebook/openbmc) - Open software framework to build a complete Linux image for a Board Management Controller (BMC).
+- [Keynote: Linus Torvalds in conversation with Dirk Hohndel (2020)](https://www.youtube.com/watch?v=H8Gd9t7FQqI)
+- [eBPF – The Future of Networking and Security (2020)](https://cilium.io/blog/2020/11/10/ebpf-future-of-networking/) ([HN](https://news.ycombinator.com/item?id=25048097))
+- [Linux kernel user’s and administrator’s guide](https://www.kernel.org/doc/html/latest/admin-guide/index.html)
+- [Debugging Linux Kernel with QEMU (2020)](https://blog.k3170makan.com/2020/11/linux-kernel-exploitation-0x0-debugging.html)
+- [Embedded Linux Conference Europe 2020](https://www.youtube.com/playlist?list=PLZjq3una5SrDeo4RM5UZyZTisSuLd_3gb)
+- [How to get root on Ubuntu 20.04 by pretending nobody’s /home (2020)](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE) ([HN](https://news.ycombinator.com/item?id=25053238))
+- [Linux Command One-Liners](https://linuxcommandlibrary.com/basic/oneliners.html) ([HN](https://news.ycombinator.com/item?id=25069452))
+- [Threads and fork(): think twice before mixing them (2009)](https://www.linuxprogrammingblog.com/threads-and-fork-think-twice-before-using-them)
+- [eBPF - Rethinking the Linux Kernel (2020)](https://www.youtube.com/watch?v=f-oTe-dmfyI)
+- [Linux App Summit 2020](https://www.youtube.com/watch?v=u8SI6AEwMnQ)
+- [Reasons to prefer Linux over Windows (2014)](https://github.com/nbeaver/why-linux-is-better) ([HN](https://news.ycombinator.com/item?id=25104828))
+- [My First Kernel Module: A Debugging Nightmare (2020)](https://reberhardt.com/blog/2020/11/18/my-first-kernel-module.html) ([HN](https://news.ycombinator.com/item?id=25153388))
+- [Moving from Macbook to Linux (2020)](https://monadical.com/posts/moving-to-linux-desktop.html) ([HN](https://news.ycombinator.com/item?id=25163685))
+- [Linux Observability with BPF Book (2019)](https://www.oreilly.com/library/view/linux-observability-with/9781492050193/) ([Code](https://github.com/bpftools/linux-observability-with-bpf))
+- [Winding down my Debian involvement (2019)](https://michael.stapelberg.ch/posts/2019-03-10-debian-winding-down/) ([HN](https://news.ycombinator.com/item?id=25170312))
+- [High System Load with Low CPU Utilization on Linux? (2020)](https://tanelpoder.com/posts/high-system-load-low-cpu-utilization-on-linux/)
+- [LinuxBoot](https://www.linuxboot.org/) - Replace specific firmware functionality with a Linux kernel and runtime. ([GitHub](https://github.com/linuxboot))
+- [LinuxBoot Book](https://github.com/linuxboot/book)
+- [Jailhouse](https://github.com/siemens/jailhouse) - Linux-based partitioning hypervisor.
+- [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
+- [Welder](https://github.com/pch/welder) - Set up your Linux server with plain shell scripts.
+- [Linux Kernel Documentation](https://www.kernel.org/doc/html/latest/)
+- [Linux Kernel Management Style](https://www.kernel.org/doc/html/latest/process/management-style.html)
+- [The State of Linux Debuggers](https://scattered-thoughts.net/writing/looking-for-debugger/) ([HN](https://news.ycombinator.com/item?id=25406541)) ([Lobsters](https://lobste.rs/s/g7ohej/state_linux_debuggers))
+- [Turn a $30 USB switch into a full-featured KVM](https://github.com/haimgel/display-switch)
+- [Entry-level Linux Ricing](https://aptrinh.js.org/manjaro-rice.html)
+- [Static calls in Linux 5.10 (2020)](https://blog.yossarian.net/2020/12/16/Static-calls-in-Linux-5-10) ([HN](https://news.ycombinator.com/item?id=25453663))
+- [eBPF is awesome (2020)](https://filipnikolovski.com/posts/ebpf/) ([HN](https://news.ycombinator.com/item?id=25490138))
+- [Linux Distribution Timeline](https://github.com/FabioLolix/LinuxTimeline)
+- [Asahi Linux](https://github.com/AsahiLinux) - Porting Linux to Apple Silicon macs. ([Twitter](https://twitter.com/AsahiLinux)) ([Web](https://asahilinux.org/)) ([HN](https://news.ycombinator.com/item?id=25649719)) ([Docs](https://github.com/asahilinux/docs/wiki))
+- [Community Chat #1 - Asahi Linux Project (2020)](https://www.youtube.com/watch?v=aMTfPSzrjXs)
+- [Running Debian on a 32MB RAM Single Core ARM SBC (2021)](https://blog.jmdawson.co.uk/lichee-nano-pi-will-it-run-debian/) ([Lobsters](https://lobste.rs/s/u6jote/lichee_nano_pi_32mb_ram_will_it_run_debian)) ([HN](https://news.ycombinator.com/item?id=25603254))
+- [GTK4 for Graphical User Interfaces](http://ssalewski.de/gtkprogramming.html) - Introduction into design and creation of graphical user interfaces using the GTK widget tool kit and the Nim programming language. ([HN](https://news.ycombinator.com/item?id=25621700))
+- [systemd user services (2021)](https://notes.neeasade.net/systemd-user-services.html) ([Lobsters](https://lobste.rs/s/sy8ulu/systemd_user_services))
+- [libseccomp](https://github.com/seccomp/libseccomp) - C library that provides an easy to use, platform independent, interface to the Linux Kernel's syscall filtering mechanism.
+- [When Amazon Switched from Sun to Linux](https://twitter.com/DanRose999/status/1347677573900242944) ([HN](https://news.ycombinator.com/item?id=25693618))
+- [Arch manual pages](https://man.archlinux.org/) ([Code](https://gitlab.archlinux.org/archlinux/archmanweb)) ([Search](https://man.archlinux.org/search)) ([Browse](https://man.archlinux.org/listing))
+- [XTerm: It's Better Than You Thought (2021)](https://aduros.com/blog/xterm-its-better-than-you-thought/) ([Lobsters](https://lobste.rs/s/pxsgmt/xterm_it_s_better_than_you_thought)) ([HN](https://news.ycombinator.com/item?id=25732862))
+- [Linux kernel modules in safe Rust](https://github.com/fishinabarrel/linux-kernel-module-rust)
+- [Rust KVM firmware](https://github.com/cloud-hypervisor/rust-hypervisor-firmware) - Designed to be launched from anything that supports loading ELF binaries and running them with the Linux kernel loading standard.
+- [RUA](https://github.com/vn971/rua) - Build tool for Arch Linux providing control, review and jailed build options.
+- [BPF and Go: Modern forms of introspection in Linux (2020)](https://medium.com/bumble-tech/bpf-and-go-modern-forms-of-introspection-in-linux-6b9802682223)
+- [KVM-VMI](https://github.com/KVM-VMI/kvm-vmi) - KVM-based Virtual Machine Introspection. ([Docs](https://kvm-vmi.github.io/kvm-vmi/master/))
+- [Network Performance in the Linux Kernel (2021)](https://fosdem.org/2021/schedule/event/network_performance_in_kernel/attachments/slides/4433/export/events/attachments/network_performance_in_kernel/slides/4433/chevallier_network_performance_in_the_linux_kernel.pdf)
+- [Should You Write a Wayland Compositor? (2021)](https://tudorr.ro/blog/technical/2021/01/26/the-wayland-experience/)
+- [wlroots](https://github.com/swaywm/wlroots) - Modular Wayland compositor library.
+- [Getting better at Linux with mini-projects (2020)](https://carltheperson.com/posts/10-things-linux) ([HN](https://news.ycombinator.com/item?id=26002335))
+- [Making Sense of The Audio Stack On Unix (2021)](https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html) ([Lobsters](https://lobste.rs/s/rsvg4s/making_sense_audio_stack_on_unix)) ([HN](https://news.ycombinator.com/item?id=26056588))
+- [The Wayland Protocol Book](https://wayland-book.com/)
+- [Linux memory management FAQ](http://landley.net/writing/memory-faq.txt)
+- [Using eBPF to uncover in-memory loading (2021)](https://blog.tofile.dev/2021/02/15/ebpf-01.html)
+- [2021: Year of the Linux Gaming Desktop](https://www.youtube.com/watch?v=pq1XqP4-qOo) ([Lobsters](https://lobste.rs/s/g02hnu/2021_year_linux_gaming_desktop))
+- [Traitor](https://github.com/liamg/traitor) - Linux privilege escalation made easy. ([HN](https://news.ycombinator.com/item?id=26224719))
+- [Linux Capabilities in a nutshell (2019)](https://k3a.me/linux-capabilities-in-a-nutshell/) ([Lobsters](https://lobste.rs/s/nnwjda/linux_capabilities_nutshell)) ([HN](https://news.ycombinator.com/item?id=26261310))
+- [systemd: Boot Loader Specification](https://systemd.io/BOOT_LOADER_SPECIFICATION/)
+- [Why bother between choosing of distros and desktops theme when the Linuxs they are similar and you can customize them? (2021)](https://www.reddit.com/r/linuxquestions/comments/lxt8pi/why_bother_between_choosing_of_distros_and/)
+- [Qubes-lite with KVM and Wayland (2021)](https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/)
+- [An Introduction to Linux Kernel Exploitation (2021)](https://pwning.systems/posts/an-introduction-to-kernel-exploitation-part1/)
+- [Buildroot](https://buildroot.org/) - Making Embedded Linux Easy. ([HN](https://news.ycombinator.com/item?id=26473632))
+- [Outrun](https://github.com/Overv/outrun) - Execute local command using processing power of another Linux machine. ([HN](https://news.ycombinator.com/item?id=26504131))
+- [Box86](https://github.com/ptitSeb/box86) - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices.
+- [Exploring Linux File System (2021)](https://muhammadraza.me/2021/Linux-FS/)
+- [What are people's current preferred tools for configuring a Linux server entirely out of a version control repository? (2021)](https://twitter.com/simonw/status/1377331955507765252)
+- [Fed up with the Mac, I spent six months with a Linux laptop (2021)](https://cfenollosa.com/blog/fed-up-with-the-mac-i-spent-six-months-with-a-linux-laptop-the-grass-is-not-greener-on-the-other-side.html) ([Lobsters](https://lobste.rs/s/pjkafl/fed_up_with_mac_i_spent_six_months_with)) ([HN](https://news.ycombinator.com/item?id=26677035))
+- [Arch Linux installer - guided, templates etc](https://github.com/archlinux/archinstall)
+- [Wayland Explorer](https://wayland.app/protocols/) - Wayland Protocol Documentation. ([Code](https://github.com/vially/wayland-explorer))
+- [Ask HN: Why is the Linux community struggling to implement hibernation? (2021)](https://news.ycombinator.com/item?id=26739220)
+- [The Motivation Behind Systemd](https://unixsheikh.com/articles/the-real-motivation-behind-systemd.html) ([HN](https://news.ycombinator.com/item?id=26767261))
+- [rund](https://github.com/rvolosatovs/rund) - Run arbitrary containerized Linux processes over gRPC with mTLS auth.
+- [ELKDAT](https://github.com/satoru-takeuchi/elkdat) - Easy linux kernel development and test tool.
+- [Graphene](https://github.com/oscarlab/graphene) - Linux-compatible Library OS for Multi-Process Applications. ([Web](https://grapheneproject.io/))
+- [I Implemented /dev/printerfact in Rust (2021)](https://christine.website/blog/dev-printerfact-2021-04-17) ([Lobsters](https://lobste.rs/s/n5trnx/how_i_implemented_dev_printerfact_rust)) ([HN](https://news.ycombinator.com/item?id=26845355))
+- [Kernel Recipes 2017 - Perf in Netflix - Brendan Gregg](https://www.youtube.com/watch?v=UVM3WX8Lq2k)
+- [How Linux Works Book](https://nostarch.com/howlinuxworks3)
+- [Awesome Wayland](https://github.com/natpen/awesome-wayland)
+- [Beyond process supervisors](http://catern.com/supervisors.html)
+- [An Interview With Linus Torvalds: Linux and Git (2021)](https://www.tag1consulting.com/blog/interview-linus-torvalds-linux-and-git)
+- [The Linux Documentation Project](https://tldp.org/docs.html) - Good, reliable documentation for the Linux operating system. ([HN](https://news.ycombinator.com/item?id=26991660))
+- [ArchWiki](https://wiki.archlinux.org/) - Arch Linux Wiki.
+- [Ask HN: What are the best maintained how-to sites for Linux? (2021)](https://news.ycombinator.com/item?id=26997498)
+- [Linux Hypervisor Setup (Libvirt/QEMU/KVM)](https://octetz.com/docs/2020/2020-05-06-linux-hypervisor-setup/) ([HN](https://news.ycombinator.com/item?id=27006354))
+- [BPF (Berkeley Packet Filter) Docs](https://www.kernel.org/doc/html/latest/bpf/index.html) - Technology used in certain computer operating systems for programs that need to, among other things, analyze network traffic.
+- [KVM Fuzz](https://github.com/klecko/kvm-fuzz) - Emulate and fuzz x86_64 binaries using KVM.
+- [BPF performance analysis at Netflix (2019)](https://www.youtube.com/watch?v=16slh29iN1g)
+- [Dropping cache didn’t drop cache (2021)](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html) ([HN](https://news.ycombinator.com/item?id=27086209))
+- [Praise for Alpine Linux (2021)](https://portal.drewdevault.com/2021/05/06/Praise-for-Alpine-Linux.gmi) ([HN](https://news.ycombinator.com/item?id=27104898))
+- [Linux Kernel Commit History Search](https://linux-commits-search.typesense.org/) - Instantly search 1M Linux Kernel Commit Messages using Typesense Search. ([Code](https://github.com/typesense/showcase-linux-commits-search))
+- [Alpine Conference](https://alpinelinux.org/conf/)
+- [Systemd: The Good Parts (2021)](https://christine.website/talks/systemd-the-good-parts-2021-05-16) ([Lobsters](https://lobste.rs/s/po98o2/systemd_good_parts)) ([HN](https://news.ycombinator.com/item?id=27175960))
+- [New service manager for Linux distributions (2021)](https://skarnet.com/projects/service-manager.html)
+- [Hummingbird](https://github.com/Sweets/hummingbird) - Lightning fast Linux init.
+- [File Descriptor Limits (2021)](http://0pointer.net/blog/file-descriptor-limits.html) ([Lobsters](https://lobste.rs/s/soircc/file_descriptor_limits)) ([HN](https://news.ycombinator.com/item?id=27215690))
+- [Fuzzing the Linux kernel (2021)](https://docs.google.com/presentation/d/19JaXHFMT-R2le6x-vPKw5D1Cxlw2aLtxHEIDwWBNXCQ/edit#slide=id.gda44520c30_7_54)
+- [Rust heads into the kernel? (2021)](https://lwn.net/Articles/853423/) ([HN](https://news.ycombinator.com/item?id=27248059))
+- [rbpf](https://github.com/qmonnet/rbpf) - Rust virtual machine and JIT compiler for eBPF programs.
+- [An Abridged Guide to the Enterprise Linux Landscape (2021)](https://www.linuxjournal.com/content/abridged-guide-enterprise-linux-landscape)
+- [My Linux machine setup](https://github.com/brpaz/my-linux-setup)
+- [A process murder mystery - a debugging story (2021)](https://blog.viraptor.info/post/a-process-murder-mystery-a-debugging-story)
+- [A Secure and Formally Verified Linux KVM Hypervisor (2021)](http://nieh.net/pubs/ieeesp2021_kvm.pdf)
+- [static-get](https://github.com/minos-org/minos-static) - Portable binaries for Linux.
+- [Using signalfd and pidfd to make signals less painful under Linux (2021)](https://unixism.net/2021/02/making-signals-less-painful-under-linux/)
+- [io_uring By Example: An Article Series (2020)](https://unixism.net/2020/04/io-uring-by-example-article-series/)
+- [LK Embedded Kernel](https://github.com/littlekernel/lk) - SMP-aware kernel designed for small systems ported to a variety of platforms and CPU architectures.
+- [io_uring is not an event system (2021)](https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/) ([HN](https://news.ycombinator.com/item?id=27540248))
+- [Linux Commands Cheat Sheet 2021](https://linuxguidehq.com/linux-commands-cheat-sheet/)
+- [Pulling GitHub into the Linux kernel process (2021)](https://lwn.net/SubscriberLink/860607/ef7cdf174ccbe54d/) ([HN](https://news.ycombinator.com/item?id=27611704))
+- [Introduction to eBPF (2021)](https://oswalt.dev/2021/01/introduction-to-ebpf/)
+- [Linux Network Examples](https://github.com/knorrie/network-examples)
+- [Avoiding Complexity with Systemd (2021)](https://mgdm.net/weblog/systemd/) ([HN](https://news.ycombinator.com/item?id=27649342)) ([Lobsters](https://lobste.rs/s/xxyjxl/avoiding_complexity_with_systemd))
+- [Understanding thread stack sizes and how alpine is different (2021)](https://ariadne.space/2021/06/25/understanding-thread-stack-sizes-and-how-alpine-is-different/)
+- [The 7 most used Linux namespaces (2021)](https://www.redhat.com/sysadmin/7-linux-namespaces)
+- [How To Add eBPF Observability To Your Product (2021)](https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html) ([HN](https://news.ycombinator.com/item?id=27722947))
+- [CVE-2021-22555: Turning \x00\x00 into 10000$ (2021)](https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html) ([HN](https://news.ycombinator.com/item?id=27842018))
+- [Introduction to CRIU and Live migration (2020)](https://www.talhoffman.com/2020/10/07/introduction-to-criu-and-live-migration/)
+- [Jumping into journald (2021)](https://artem.ist/blog/2021/06/29/jumping-into-journald.html)
+- [Native Journal Protocol](https://systemd.io/JOURNAL_NATIVE_PROTOCOL/)
+- [Let's talk about Wayland (2021)](https://www.dedoimedo.com/computers/wayland-2021.html) ([Lobsters](https://lobste.rs/s/gfasat/let_s_talk_about_wayland))
+- [systemd socket activation (2021)](https://mgdm.net/weblog/systemd-socket-activation/) ([Lobsters](https://lobste.rs/s/jmv1ql/systemd_socket_activation))
+- [Custom eBPF Helpers (2021)](https://nigeltao.github.io/blog/2021/custom-ebpf-helpers.html)
+- [Wiser](https://github.com/flouthoc/wiser) - Minimal hypervisor boots Linux VM. Written in C. ([HN](https://news.ycombinator.com/item?id=27917522))
+- [Mobian](https://mobian-project.org/) - Debian for Mobile. ([HN](https://news.ycombinator.com/item?id=27965416))
+- [Kernel Pwning with eBPF: a Love Story (2021)](https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story)
+- [bustd](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon for out-of-memory scenarios for Linux.
+- [buztd](https://github.com/vrmiguel/buztd) - Zig version of the original bustd project.
+- [oomd](https://github.com/facebookincubator/oomd) - Userspace Out-Of-Memory (OOM) killer for linux systems.
+- [Back to Linux (2021)](https://metaredux.com/posts/2021/07/31/back-to-linux.html) ([HN](https://news.ycombinator.com/item?id=28035940)) ([Lobsters](https://lobste.rs/s/a5gkkw/back_linux))
+- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/) ([Code](https://github.com/sysprog21/lkmpg)) ([HN](https://news.ycombinator.com/item?id=28283030))
+- [InitWare](https://github.com/InitWare/InitWare) - Fork of systemd. Allows you to manage services and system resources as logical entities called units. ([Lobsters](https://lobste.rs/s/jx3cr6/initware_systemd_fork_runs_on_openbsd_for))
+- [earlyoom](https://github.com/rfjakob/earlyoom) - Early OOM Daemon for Linux.
+- [docker-alpine](https://github.com/alpinelinux/docker-alpine) - Official Alpine Linux Docker image. Win at minimalism.
+- [Provision an Ubuntu-based EC2 instance with CDK (2021)](https://loige.co/provision-ubuntu-ec2-with-cdk/)
+- [DebConf21 Schedule](https://debconf21.debconf.org/schedule/)
+- [I switched from macOS to Linux after 15 years of Apple (2021)](https://markosaric.com/linux/) ([HN](https://news.ycombinator.com/item?id=28320404))
+- [PatchELF](https://github.com/NixOS/patchelf) - Small utility to modify the dynamic linker and RPATH of ELF executables.
+- [Ask HN: Why don’t you use Linux as your daily driver OS? (2021)](https://news.ycombinator.com/item?id=28366644)
+- [Switching to the i3 window manager (2021)](https://vincent.bernat.ch/en/blog/2021-i3-window-manager) ([Lobsters](https://lobste.rs/s/5jdjno/switching_i3_window_manager))
+- [Witchery](https://github.com/kaniini/witchery) - Build distroless images with alpine tools. ([Article](https://ariadne.space/2021/09/09/introducing-witchery-tools-for-building-distroless-images-with-alpine/))
+- [Use of eBPF in CPU Scheduler (2021)](https://linuxplumbersconf.org/event/11/contributions/954/) ([HN](https://news.ycombinator.com/item?id=28551568))
+- [sysz](https://github.com/joehillen/sysz) - fzf terminal UI for systemctl.
+- [BMC (BPF Memory Cache)](https://github.com/Orange-OpenSource/bmc-cache) - In-kernel cache based on eBPF.
+- [below](https://github.com/facebookincubator/below) - Time traveling resource monitor for modern Linux systems.
+- [PF_RING](https://github.com/ntop/PF_RING) - High-speed packet processing framework. ([Web](https://www.ntop.org/))
+- [SRE deep dive into Linux Page Cache](https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/)
+- [Authenticated Boot and Disk Encryption on Linux (2021)](http://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html) ([HN](https://news.ycombinator.com/item?id=28627077))
+- [Install Alpine Linux in chroot](https://github.com/alpinelinux/alpine-chroot-install)
+- [Btop++](https://github.com/aristocratos/btop) - Power resource monitor for Linux. ([HN](https://news.ycombinator.com/item?id=28634898)) ([Article](https://haydenjames.io/btop-the-htop-alternative/))
+- [A terminal case of Linux (2021)](https://fasterthanli.me/articles/a-terminal-case-of-linux)
+- [Toybox](https://github.com/landley/toybox) - All-in-one Linux command line. ([HN](https://news.ycombinator.com/item?id=28627433))
+- [Linux Kernel Module Cheat](https://github.com/cirosantilli/linux-kernel-module-cheat) - Perfect emulation setup to study and develop the Linux kernel.
+- [Inspecting coredumps like it's 2021](https://nixos.mayflower.consulting/blog/2021/09/06/coredumpctl/) ([HN](https://news.ycombinator.com/item?id=28596933))
+- [Stupid tricks with io_uring: a server that does zero syscalls per request (2021)](https://wjwh.eu/posts/2021-10-01-no-syscall-server-iouring.html)
+- [LXD](https://github.com/lxc/lxd) - Next generation system container and virtual machine manager. It offers a unified user experience around full Linux systems running inside containers or virtual machines. ([Web](https://linuxcontainers.org/lxd/))
+- [Linux perf Profiler UIs (2021)](https://www.markhansen.co.nz/profiler-uis/)
+- [Linux.org.ru](https://www.linux.org.ru/) - Русская информация об ОС Linux.
+- [Moving Google toward the mainline (2021)](https://lwn.net/SubscriberLink/871195/d7e9acf5894446e6/) ([HN](https://news.ycombinator.com/item?id=28767854))
+- [Dockerfile examples for containerized systemd](https://github.com/AkihiroSuda/containerized-systemd)
+- [Taming the BPF Superpowers (2021)](https://lwn.net/Articles/870269/) ([HN](https://news.ycombinator.com/item?id=28817794))
+- [Linux from scratch using virtual machines on a Apple Mac M1 laptop](https://philsyme.github.io/lfs-tw/)
+- [So You Want to Rust the Linux Kernel? (2021)](https://paulmck.livejournal.com/62436.html) ([HN](https://news.ycombinator.com/item?id=28826246))
+- [Memory-Model Recommendations for Rusting the Linux Kernel (2021)](https://paulmck.livejournal.com/65341.html)
+- [Beginner's Guide to eBPF Programming for Networking](https://github.com/lizrice/ebpf-networking)
+- [How does apt render its fancy progress bar? (2021)](https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html) ([HN](https://news.ycombinator.com/item?id=28850036))
+- [rust-vmm Community](https://github.com/rust-vmm/community) - Open-source project that empowers the community to build custom Virtual Machine Monitors (VMMs) and hypervisors.
+- [Learning Modern Linux](https://modern-linux.info/) - Handbook for the Cloud Native Practitioner. ([Code](https://github.com/mhausenblas/modern-linux.info)) ([Book](https://www.oreilly.com/library/view/learning-modern-linux/9781098108939/))
+- [pwru](https://github.com/cilium/pwru) - Packet, where are you? -- Linux kernel networking debugger.
+- [How a simple Linux kernel memory corruption bug can lead to complete system compromise (2021)](https://googleprojectzero.blogspot.com/2021/10/how-simple-linux-kernel-memory.html)
+- [Rust for Linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
+- [LinuxKit](https://github.com/linuxkit/linuxkit) - Toolkit for building custom minimal, immutable Linux distributions.
+- [Reasons to switch from Windows to Linux (2021)](https://www.lpi.org/blog/2021/10/05/eleven-reasons-switch-windows-linux) ([HN](https://news.ycombinator.com/item?id=28957211))
+- [live-bootstrap](https://github.com/fosslinux/live-bootstrap) - Use of a Linux initramfs to fully automate the bootstrapping process.
+- [Dropwatch](https://github.com/nhorman/dropwatch) - Diagnose problems in the Linux Networking stack. Diagnose where packets are getting dropped.
+- [Moving Google toward the mainline (2021)](https://lwn.net/Articles/871195/) ([HN](https://news.ycombinator.com/item?id=28767854))
+- [proot-rs](https://github.com/proot-me/proot-rs) - Rust implementation of PRoot, a ptrace-based sandbox.
+- [finit](https://github.com/troglobit/finit) - Fast init for Linux systems. ([Web](https://troglobit.com/projects/finit/))
+- [Core scheduling lands in Linux 5.14 (2021)](https://lwn.net/Articles/861251/) ([HN](https://news.ycombinator.com/item?id=29075423))
+- [Leaving Debian With Joey Hess (2021)](https://corecursive.com/leaving-debian/) ([HN](https://news.ycombinator.com/item?id=29081087))
+- [AppImage](https://appimage.org/) - Linux apps that run anywhere. ([Awesome](https://github.com/AppImage/awesome-appimage))
+- [Dynamic Kernel Module System (DKMS)](https://github.com/dell/dkms)
+- [PREVAIL](https://github.com/vbpf/ebpf-verifier) - Polynomial-Runtime EBPF Verifier using an Abstract Interpretation Layer.
+- [difuze](https://github.com/ucsb-seclab/difuze) - Fuzzer for Linux Kernel Drivers.
+- [Liblinux](https://github.com/matheusmoreira/liblinux) - C library that provides architecture-independent access to Linux system calls. ([HN](https://news.ycombinator.com/item?id=29158425))
+- [BPF Linker](https://github.com/aya-rs/bpf-linker) - Simple BPF static linker.
+- [NetNS Exec](https://github.com/johnae/netns-exec) - Simple command for executing a process within a Linux network namespace.
+- [Running a law firm on Linux (2021)](https://decoded.legal/blog/2021/11/running-a-law-firm-on-linux) ([HN](https://news.ycombinator.com/item?id=29199395))
+- [Holy Build Box](https://github.com/FooBarWidget/holy-build-box) - System for building "portable" binaries for Linux: binaries that work on pretty much any Linux distribution. ([Web](http://foobarwidget.github.io/holy-build-box/))
+- [Uroboros](https://github.com/evilsocket/uroboros) - GNU/Linux monitoring and profiling tool focused on single processes.
+- [Memit](https://github.com/liamg/memit) - Run binaries straight from memory in Linux.
+- [Kernel Maintainer Handbook](https://www.kernel.org/doc/html/latest/maintainer/index.html) - Manual for kernel maintainers.
+- [Miscellaneous eBPF Tooling](https://github.com/nccgroup/ebpf)
+- [scanmem](https://github.com/scanmem/scanmem) - Memory scanner for Linux.
+- [Debugging a Linux network stack crash via a single register value (2021)](https://blog.cloudflare.com/the-tale-of-a-single-register-value/?a) ([HN](https://news.ycombinator.com/item?id=29260464))
+- [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules (2021)](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
+- [Distro Chooser](https://distrochooser.de/) - Test to help you choose a suitable Linux distribution. ([Code](https://github.com/distrochooser/distrochooser))
+- [An intro to finding things in Linux (2021)](https://www.madebygps.com/an-intro-to-finding-things-in-linux/) ([HN](https://news.ycombinator.com/item?id=29292830))
+- [ipftrace2](https://github.com/YutaroHayakawa/ipftrace2) - Packet oriented Linux kernel function call tracer.
+- [Reliably allocating huge pages in Linux (2021)](https://mazzo.li/posts/check-huge-page.html) ([Lobsters](https://lobste.rs/s/upbigm/reliably_allocating_huge_pages_linux))
+- [Flatpak Is Not the Future (2021)](https://ludocode.com/blog/flatpak-is-not-the-future) ([Lobsters](https://lobste.rs/s/ljsx5r/flatpak_is_not_future)) ([HN](https://news.ycombinator.com/item?id=29316024))
+- [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux.
+- [Amazon Linux 2022](https://aws.amazon.com/linux/amazon-linux-2022/) ([HN](https://news.ycombinator.com/item?id=29343255))
+- [systemd by example (2021)](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
+- [pier](https://github.com/pier-cli/pier) - Linux script management CLI written in Rust.
+- [Digging into Linux namespaces (2021)](https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html)
+- [Autorandr and Keyd (2021)](https://www.crisidev.org/blog/autorandr/) - Automatic monitor handling and key mapping in Linux.
+- [Distrobox](https://github.com/89luca89/distrobox) - Use any Linux distribution inside your terminal.
+- [Unikernel Linux (2021)](https://www.youtube.com/watch?v=Hu268xq9gMk) ([Lobsters](https://lobste.rs/s/8puuif/unikernel_linux))
+- [Exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
+- [C++ in the Linux kernel (2021)](https://www.threatstack.com/blog/c-in-the-linux-kernel)
+- [Rust support in the Linux kernel (2021)](https://lkml.org/lkml/2021/12/6/461) ([HN](https://news.ycombinator.com/item?id=29485465))
+- [My First 5 Minutes On A Server; Or, Essential Security for Linux Servers (2013)](https://sollove.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers/)
+- [linuxbundles](https://github.com/mudler/linuxbundles) - Standalone, local-runnable binaries of popular linux distributions.
+- [Drgn: How the Linux kernel team at Facebook debugs the kernel at scale (2021)](https://developers.facebook.com/blog/post/2021/12/09/drgn-how-linux-kernel-team-meta-debugs-kernel-scale/) ([HN](https://news.ycombinator.com/item?id=29537594))
+- [Getting to know memblock (2021)](https://insecuremode.com/post/2021/12/14/getting-to-know-memblock.html)
+- [2021: Year of the Linux Gaming Desktop - Andrew Kelley](https://www.youtube.com/watch?v=pq1XqP4-qOo)
+- [LKRG](https://github.com/lkrg-org/lkrg) - Linux Kernel Runtime Guard. ([Web](https://lkrg.org/))
+- [crosvm](https://github.com/google/crosvm) - Virtual machine monitor (VMM) based on Linux’s KVM hypervisor, with a focus on simplicity, security, and speed.
+- [Linux Integration Services Automation (LISA)](https://github.com/microsoft/lisa) - Linux quality validation system. ([Docs](https://mslisa.readthedocs.io/en/main/))
+- [Amazon Linux 2022 - In Preview](https://github.com/amazonlinux/amazon-linux-2022)
+- [Notes on BPF and eBPF](https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/) ([HN](https://news.ycombinator.com/item?id=29772927))
+- [Musl-LFS](https://github.com/dslm4515/Musl-LFS) - Linux From Scratch using Musl as Libc.
+- [CMLFS](https://github.com/dslm4515/CMLFS) - Clang-Built Musl Linux From Scratch.
+- [Picosnitch](https://github.com/elesiuta/picosnitch) - Protect your privacy, see which processes make remote network connections. ([HN](https://news.ycombinator.com/item?id=29784941))
+- [My 2022 high-end Linux PC](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/) ([Lobsters](https://lobste.rs/s/ysqqhd/my_2022_high_end_linux_pc)) ([HN](https://news.ycombinator.com/item?id=29949012))
+- [systemd by example](https://systemd-by-example.com/) - Playground allows you to learn about systemd interactively, right from your browser. ([Article](https://seb.jambor.dev/posts/systemd-by-example-the-playground/))
+- [Linux-router](https://github.com/garywill/linux-router) - Set Linux as router in one command. Able to provide Internet, or create WiFi hotspot. Support transparent proxy (redsocks). Also useful for routing VM/containers.
+- [EDB](https://github.com/dylandreimerink/edb) - EBPF program debugger.
+- [Installing Every Arch Package (2022)](https://ta180m.exozy.me/posts/installing-every-arch-package/) ([HN](https://news.ycombinator.com/item?id=30160191))
+- [WebVM](https://webvm.io/) - Server-less virtual Linux environment running fully client-side in HTML5/WebAssembly. ([Code](https://github.com/leaningtech/webvm)) ([Article](https://leaningtech.com/webvm-server-less-x86-virtual-machines-in-the-browser/)) ([HN](https://news.ycombinator.com/item?id=30167403))
+- [archupd](https://github.com/c4rlo/archupd) - Arch Linux updater.
+- [bpfcov](https://github.com/elastic/bpfcov) - Source-code based coverage for eBPF programs actually running in the Linux kernel.
+- [The Beginner's Guide to eBPF](https://github.com/lizrice/ebpf-beginners)
+- [Missing Manuals - io_uring worker pool (2022)](https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/)
+- [On Building 30K Debian Packages (2022)](http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html) ([HN](https://news.ycombinator.com/item?id=30237483))
+- [Comprehensive Linux Cheatsheet](https://gto76.github.io/linux-cheatsheet/) ([Code](https://github.com/gto76/linux-cheatsheet))
+- [iotop](https://github.com/Tomas-M/iotop) - top utility for IO.
+- [vmsh](https://github.com/Mic92/vmsh) - Shell into a virtualized linux, with your own tools.
+- [A new wave of Linux applications (2022)](https://tuxphones.com/convergent-linux-phone-apps/) ([HN](https://news.ycombinator.com/item?id=30364337))
+- [PipeWire](https://pipewire.org/) - Aims to greatly improve handling of audio and video under Linux. ([HN](https://news.ycombinator.com/item?id=30372257))
+- [Linux Sysops Handbook](https://abarrak.gitbook.io/linux-sysops-handbook) ([HN](https://news.ycombinator.com/item?id=30430594))
+- [A Cursed Bug (2022)](https://blog.nelhage.com/post/a-cursed-bug/) ([Lobsters](https://lobste.rs/s/2tnmq5/cursed_bug))
+- [Fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid](https://gist.github.com/nicowilliams/a8a07b0fc75df05f684c23c18d7db234) ([HN](https://news.ycombinator.com/item?id=30502392))
+- [Efficient IO with io_uring (2019)](https://kernel.dk/io_uring.pdf)
+- [Wachy](https://github.com/rubrikinc/wachy) - Dynamic tracing profiler for Linux. UI for eBPF-based performance debugging. ([Web](https://rubrikinc.github.io/wachy/)) ([HN](https://news.ycombinator.com/item?id=30812988))
+- [tiptop](https://github.com/nschloe/tiptop) - Command-line system monitoring.
+- [Put an io_uring on it: Exploiting the Linux Kernel (2022)](https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel)
+- [Checking out the Linux kernel in under a second](https://github.com/Byron/gitoxide/discussions/349)
+- [Toward a better list iterator for the Linux kernel (2022)](https://lwn.net/SubscriberLink/887097/7ca69c6bfa3584c0/) ([HN](https://news.ycombinator.com/item?id=30631943))
+- [lxd-snapper](https://github.com/Patryk27/lxd-snapper) - LXD snapshots, automated.
+- [Linux Metrics Workshop](https://github.com/natict/linux-metrics)
+- [Linux on an M1 Mac (2022)](https://twitter.com/AsahiLinux/status/1504626783240736768) ([HN](https://news.ycombinator.com/item?id=30717758)) ([Article](https://asahilinux.org/2022/03/asahi-linux-alpha-release/)) ([HN](https://news.ycombinator.com/item?id=30729212))
+- [Linux Perf Examples](https://www.brendangregg.com/perf.html) ([HN](https://news.ycombinator.com/item?id=30710280))
+- [Pacoloco](https://github.com/anatol/pacoloco) - Caching proxy server for Arch Linux pacman.
+- [TuneD](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux.
+- [celun](https://github.com/celun/celun) - Customizable embedded Linux using Nix.
+- [Linux needs a explicitly defined userspace API](http://catern.com/linux_api.html)
+- [liburing](https://github.com/axboe/liburing) - io_uring library.
+- [Linux Privilege Escalation](https://tbhaxor.com/linux-privilege-escalation/)
+- [Netconsd](https://github.com/facebook/netconsd) - Receive and process logs from the Linux kernel.
+- [Linux SysOps Handbook](https://github.com/abarrak/linux-sysops-handbook) - Study notes for the common knowledge and tasks of Linux system admins.
+- [Buildroot](https://github.com/buildroot/buildroot) - Simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation.
+- [Buildroot dahliaOS](https://github.com/dahliaOS/buildroot)
+- [Egrets](https://github.com/ancat/egrets) - Proof of concept tool that uses eBPF, raw sockets, and kprobes to monitor egress traffic.
+- [HiGFXback (History of graphics backends)](https://github.com/caramelli/higfxback)
+- [NsJail](https://github.com/google/nsjail) - Process isolation tool for Linux. Utilizes Linux namespace subsystem, resource limits, and the seccomp-bpf syscall filters of the Linux kernel.
+- [Linux Security Hardening for Confidential Compute](https://github.com/intel/ccc-linux-guest-hardening)
+- [embedshim](https://github.com/fuweid/embedshim) - Provide task runtime implementation with pidfd and eBPF sched_process_exit tracepoint to manage deamonless container with low overhead.
+- [kconfig-hardened-check](https://github.com/a13xp0p0v/kconfig-hardened-check) - Tool for checking the security hardening options of the Linux kernel.
+- [eBPF Instruction Sets (2021)](https://pchaigno.github.io/bpf/2021/10/20/ebpf-instruction-sets.html)
+- [Fox Ear](https://github.com/KernelErr/foxear) - Linux process behavior trace tool powered by eBPF.
+- [MyLFS](https://github.com/krglaws/MyLFS) - Bash script to build my own Linux distro based on LFS + BLFS. ([Reddit](https://www.reddit.com/r/linux/comments/tuq1p3/i_made_this_bash_script_to_build_linux_from/))
+- [Automated Linux From Scratch](https://www.linuxfromscratch.org/alfs/)
+- [Booster](https://github.com/anatol/booster) - Specially crafted small root filesystem that mounted at the early stages of Linux OS boot process.
+- [Boopkit](https://github.com/kris-nova/boopkit) - Linux eBPF backdoor (TCP) for spawning reverse shells.
+- [How to diagnose a mysterious process that’s taking too much CPU, memory, IO, etc?](https://twitter.com/alexxubyte/status/1500881250201976832)
+- [kvmtool](https://github.com/kvmtool/kvmtool) - Lightweight tool for hosting KVM guests.
+- [KUtrace](https://github.com/dicksites/KUtrace) - Extremely low-overhead Linux kernel tracing facility for observing all
+  the execution time on all cores of a multi-core processor.
+- [Ask HN: Why is there no Linux distro that “just works” like macOS? (2022)](https://news.ycombinator.com/item?id=30966582)
+- [CoreOS Installer](https://github.com/coreos/coreos-installer) - Installer for CoreOS disk images.
+- [melange](https://github.com/chainguard-dev/melange) - Build APKs from source code.
+- [bpf](https://github.com/mildsunrise/node_bpf) - eBPF / libbpf bindings for Node.js.
+- [bpfcc](https://github.com/mildsunrise/node_bpfcc) - BPF Compiler Collection (BCC) frontend for Node.js.
+- [musl-dynamic](https://github.com/distroless/musl-dynamic) - Distroless image for running dynamically-linked musl binaries.
+- [Linux Hardware Database](https://linux-hardware.org/) ([HN](https://news.ycombinator.com/item?id=31014306))
+- [systeroid](https://github.com/orhun/systeroid) - More powerful alternative to sysctl with a terminal user interface.
+- [Where Linux's load average comes from in the kernel (2022)](https://utcc.utoronto.ca/~cks/space/blog/linux/LoadAverageWhereFrom) ([HN](https://news.ycombinator.com/item?id=31073145))
+- [Flatcar Container Linux](https://www.flatcar.org/) - Community Linux distribution designed for container workloads, with high security and low maintenance.
+- [Nebraska](https://github.com/kinvolk/nebraska) - Update manager for Flatcar Container Linux.
+- [Limbo](https://github.com/meme/limbo) - XNU in Linux userspace. Run macOS CLI tools natively on Linux. ([Tweet](https://twitter.com/oleavr/status/1516682078213087232))
+- [lrun](https://github.com/quark-zju/lrun) - Run programs on Linux with resources (ex. time, memory, network, device, syscall, etc.) limited.
+- [Xpid](https://github.com/kris-nova/xpid) - Linux Process Discovery. C Library, Go bindings, Runtime.
+- [RAUC](https://github.com/rauc/rauc) - Safe and secure software updates for embedded Linux. ([Web](https://rauc.io/))
+- [Linux Vendor Firmware Service (LVFS)](https://lvfs.readthedocs.io/en/latest/intro.html)
+- [deai](https://github.com/yshui/deai) - One-stop automation system for Linux.
+- [Alpine GNU C library (glibc) Docker image](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc)
+- [LDT](https://github.com/makelinux/ldt) - Linux Driver Template.
+- [Linux Accessibility: an unmaintained Mess (2022)](https://scribe.rip/@r.d.t.prater/linux-accessibility-an-unmaintained-mess-8fbf9decaf8a) ([Lobsters](https://lobste.rs/s/5pf4j6/linux_accessibility_unmaintained_mess))
+- [Linux for Networking Professionals Book (2021)](https://www.packtpub.com/product/linux-for-networking-professionals/9781800202399) ([Code](https://github.com/PacktPublishing/Linux-for-Networking-Professionals))
+- [Cobbler](https://github.com/cobbler/cobbler) - Linux installation server that allows for rapid setup of network installation environments.
+- [strace](https://github.com/strace/strace) - Diagnostic, debugging and instructional userspace utility for Linux.
+- [eBPF (extended Berkeley Packet Filter) Guide](https://github.com/mikeroyal/eBPF-Guide)
+- [Bad BPF](https://github.com/pathtofile/bad-bpf) - Collection of eBPF programs demonstrating bad behavior.
+- [libkrunfw](https://github.com/containers/libkrunfw) - Dynamic library bundling a Linux kernel in a convenient storage format.
+- [mempeek](https://github.com/gamozolabs/mempeek) - Command-line tool designed to peek around memory of a running Linux process.
+- [Async](https://github.com/romange/helio) - Modern framework for backend development based on io_uring Linux interface.
+- [How fast are Linux pipes anyway? (2022)](https://mazzo.li/posts/fast-pipes.html) ([HN](https://news.ycombinator.com/item?id=31592934)) ([Lobsters](https://lobste.rs/s/5dty6n/how_fast_are_linux_pipes_anyway))
+- [What’s new with io_uring (2022)](https://kernel.dk/axboe-kr2022.pdf)
+- [Kernel Recipes 2022](https://www.youtube.com/watch?v=v--rVT4RsCE)
+- [bpfd](https://github.com/redhat-et/bpfd) - Prototype networking bpf loader.
+- [collectd](https://github.com/collectd/collectd) - System statistics collection daemon.
+- [bpflock](https://github.com/linux-lock/bpflock) - eBPF driven security for locking and auditing Linux machines.
+- [traffico](https://github.com/leodido/traffico) - Shape your traffic the BPF way.

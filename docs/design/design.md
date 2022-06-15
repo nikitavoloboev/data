@@ -1,0 +1,240 @@
+# Design
+
+> Design is not just what it looks like and feels like. Design is how it works.
+
+I can't call myself a designer yet but I am learning.
+
+I do think design applies to everything I am doing. Even this wiki has some _design choices_ of how it can be structured. As the quote above says, it's not _how it looks like_, it's _how it works_.
+
+Thus I try to be conscious of how my design decisions affect what I do. I like to use [Sketch](https://www.sketchapp.com) and [Figma](https://www.figma.com) when designing things.
+
+## Notes
+
+- [A good way to make your interface look “designed” is to use a consistent space scale](https://twitter.com/siddharthkp/status/1264578950799523843)
+- [Don't design for average. If you want to make a great product, it needs to be great for someone.](https://twitter.com/linuz90/status/1275678185657716736)
+- [Design is about making things look a certain way. Not “make it look pretty” but “surface.” I have had many interactions with smart educated people (even designers!) whom seem to believe design is art, that design is mainly about surface (e.g. “a designer chair.”)](https://twitter.com/rsms/status/1305383261774905346)
+- [Opinions are not ideas. Opinions are not as important as ideas. Opinions are just opinions.](https://twitter.com/bchesky/status/1393305210563403776)
+- [Don’t know where to start a design? literally just copy the next closest thing and then …just keep going.](https://twitter.com/round/status/1407767068263403520)
+- [As Design tools and code are rapidly converging. Designers who can think like developers will have a leg up on everyone.](https://twitter.com/Ridderingand/status/1448680030108729348)
+- [Designing for dark mode is incredibly hard as an afterthought. If you plan to support dark mode, try designing it first and doing the light version after.](https://twitter.com/steveschoger/status/1453823790560026625)
+- [90% of design is just moving things around until it looks right](https://twitter.com/ormanclark/status/1493653136980033543)
+
+## Links
+
+- [Findguidelin](http://www.findguidelin.es/) - The fastest way to brand assets.
+- [Brand Style Guide Examples](https://saijogeorge.com/brand-style-guide-examples/)
+- [Intenion - ad by Apple](https://www.youtube.com/watch?v=LcGPI2tV2yY)
+- [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+- [Front End Design Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
+- [Lona](https://github.com/airbnb/Lona) - Tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
+- [Free Logos](https://github.com/arasatasaygin/openlogos) - Has some nice logos.
+- [Design Languages](https://design-languages.com/) - Curated library for design languages, design systems and front-end frameworks.
+- [Designing Fluid Interfaces (2018)](https://developer.apple.com/videos/play/wwdc2018/803/)
+- [Refactoring UI](https://refactoringui.com/) - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view. ([Book](https://www.refactoringui.com/book))
+- [Curated list of UI styleguides](https://github.com/streamich/awesome-styleguides)
+- [The ineffectiveness of lonely icons (2019)](https://mattwilcox.net/musing/the-ineffectiveness-of-icons)
+- [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) ([HN](https://news.ycombinator.com/item?id=19580860))
+- [Closing the loop with Design Intelligence (2018)](https://airbnb.design/the-evolution-of-tools/)
+- [Abstract Notebooks](https://www.abstract.com/) - Bring transparency to your design process. ([GitHub](https://github.com/goabstract))
+- [10 Year Challenge: How Popular Websites Have Changed (2019)](https://www.arun.is/blog/10-year-challenge/)
+- [Design Systems Repo](https://designsystemsrepo.com/) - Frequently updated collection of Design System examples, articles, tools and talks.
+- [Mike Bostock - Design is a Search Problem (2014)](https://www.youtube.com/watch?v=fThhbt23SGM)
+- [Little Big Details](http://littlebigdetails.com/) - Delightful UX Design.
+- [Whimsical](https://whimsical.com/) - Visual Workspace. Collaborate visually. Fast and delightful.
+- [Apply Pixels](https://applypixels.com/) - Industry Standard Design Resources.
+- [Firefox: The Evolution Of A Brand (2019)](https://blog.mozilla.org/opendesign/firefox-the-evolution-of-a-brand/)
+- [Labels are a last resort](https://refactoringui.com/previews/labels-are-a-last-resort/)
+- [UI Design](https://github.com/tipoqueno/UI-Design) - Curated list of useful resources related to User Interface Design.
+- [Rad Lines](https://github.com/msurguy/rad-lines) - Vector Generator Tool. ([Web](https://msurguy.github.io/rad-lines/))
+- [The best design resources for new designers (2019)](https://www.uigoodies.com/blog/the-best-resources-for-new-designers.html)
+- [Awesome Design](https://github.com/gztchan/awesome-design) - Focuses on collecting high quality resources and tools which can be used by UI/UX designers in daily work.
+- [Awesome Design 2](https://github.com/troyericg/awesome-design)
+- [Design Inspiration & Resources](https://github.com/emmawedekind/design-inspiration)
+- [How to design delightful dark themes (2019)](https://blog.superhuman.com/how-to-design-delightful-dark-themes-7b3da644ff1f)
+- [5 design principles for building your first portfolio](https://dribbble.com/stories/2019/10/21/5-design-principles-for-building-your-first-portfolio)
+- [The Definition of Design](https://rsms.me/eames-design/)
+- [Implementing Dark Mode in iOS 13 (2019)](https://instagram-engineering.com/instagram-darkmode-58802b43c0f2)
+- [Mind the gap, user centered design in large organizations with Luke Wroblewski (2019)](https://www.youtube.com/watch?v=mAiNdU1go1A)
+- [Space in Design Systems (2016)](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
+- [The power of good design: Dieter Rams’s ideology, engrained within Vitsœ](https://www.vitsoe.com/gb/about/good-design)
+- [Expect change in your design career. Choose growth.](https://www.abstract.com/blog/design-career-growth/)
+- [Open Doodles](https://www.opendoodles.com/) - Free Set of Sketchy Illustrations.
+- [Designing remotely at Doist](https://docs.google.com/presentation/d/1x-7E9sleXjyXzHxgjRn_q6LyalCUxTFsxIHcaiyv73s/edit#slide=id.p)
+- [SuperCreative](https://supercreative.design/) - Collaborate with super freelance designers.
+- [Motion Design course](https://www.learnsquared.com/courses/motion-design)
+- [Creating a brand to serve](https://medium.com/rekkiapp/creating-a-brand-to-serve-1b7fc84c55fa) - The story of REKKI and the design of our brand.
+- [What breaking interfaces taught me about building better interfaces - Hakim El Hattab (2019)](https://www.dotconferences.com/2019/12/hakim-el-hattab-what-breaking-interfaces-taught-me-about-building-better-interfaces)
+- [spark-joy](https://github.com/sw-yx/spark-joy) - Easy ways to add design flair, user delight, and whimsy to your product.
+- [All Design Conferences](https://www.alldesignconferences.com/) - Simple list of all design and front-end conferences for the year.
+- [How to apply for a design internship (2018)](https://vanschneider.com/apply-design-internship)
+- [Resources to improve drawing and visual thinking skills](https://illustrated.dev/resources/)
+- [Coding for Designers](https://codingfordesignersbook.com/) - Demystifying Code and Learning JavaScript. ([Code](https://github.com/derek-knox/Coding-For-Designers))
+- [Design tips for developers](https://paul.copplest.one/blog/design.html) ([HN](https://news.ycombinator.com/item?id=22126731))
+- [Daily UI](https://www.dailyui.co/) - Series of daily design challenges, design inspiration and neat surprise rewards.
+- [Best Design books I’ve ever read so far (2015)](http://artequalswork.com/posts/best-design-books-so-far/)
+- [On Design Thinking](https://nplusonemag.com/issue-35/reviews/on-design-thinking/) ([HN](https://news.ycombinator.com/item?id=22345760))
+- [The Design Graph (2020)](https://jxnblk.com/blog/design-graph/)
+- [DesignValley](https://www.designvalley.club/) - Ultimate design tool depository.
+- [Design Dictionary by Figma](https://www.figma.com/dictionary/)
+- [React Links for Designers](https://react.design/links/)
+- [Steve Schoger design tips](https://mobile.twitter.com/i/events/879086180909764608)
+- [Utopia](https://utopia.fyi/) - Elegantly scale type and space without breakpoints.
+- [unDraw Illustrations](https://undraw.co/illustrations)
+- [Humaaans](https://www.humaaans.com/) - Mix-&-match illustrations of people with a design library.
+- [Open Peeps](https://www.openpeeps.com/) - Hand-drawn illustration library.
+- [ImagineUI](https://imagineui.github.io/en/) - Tool that supports developing wireframes in a localized human-readable format. ([Code](https://github.com/imagineui/imagineui))
+- [Mozilla Design Journey](https://twitter.com/mart3ll/status/1240627746805604359)
+- [Abduzeedo](https://abduzeedo.com/) - Collective of individual writers sharing articles about design, photography, and UX.
+- [Mockuuups](http://mockuuups.studio/) - Instant mockup generator with more than 500 scenes.
+- [Resilient Web Design](https://resilientwebdesign.com/)
+- [The Shape of Design](https://shapeofdesignbook.com/)
+- [Blush](https://www.blush.design/) - Illustrations for everyone.
+- [Design Reading (2020)](http://mrmrs.cc/writing/design-reading/)
+- [Becoming a Creator](https://galshir.com/viewinsights) - Learn the most important lessons from my journey growing 700k+ followers on Instagram.
+- [Spotify Design](https://spotify.design/)
+- [Sidebar](https://sidebar.io/) - Five best design links, every day.
+- [Reading Design](https://www.readingdesign.org/index-1) - Online archive of critical writing about design.
+- [Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers)
+- [Blush](https://blush.design/) - Create, mix, and customize illustrations made by artists around the world.
+- [spark-joy](https://github.com/sw-yx/spark-joy) - Easy ways to add design flair, user delight, and whimsy to your product.
+- [Teleport](https://teleporthq.io/) - Create high-definition prototypes visually, generate the code in real-time, and deploy your user interface with one click. ([Article](https://medium.com/visualdevspace/getting-started-with-teleporthq-53a671ec56d5)) ([Code Generators](https://github.com/teleporthq/teleport-code-generators))
+- [Growth Design](https://growth.design/)
+- [Data Authoring Environments: An Overview (2018)](http://staging.dubberly.com/Data_Authoring_Environments/180702-An%20Overview%20of%20Data%20Authoring%20Environments/180702_Data_Authoring_Environments.pdf)
+- [Radical Design course](https://radicaldesigncourse.com/)
+- [What’s the design process at GDS? (2014)](https://gds.blog.gov.uk/2014/07/18/whats-the-design-process-at-gds/)
+- [Shooot](https://shooot.bourhaouta.com/) - Create amazing screenshots for you dribbble shots. ([Code](https://github.com/bourhaouta/shooot))
+- [Mental models for designers (2019)](https://dropbox.design/article/mental-models-for-designers) ([HN](https://news.ycombinator.com/item?id=23347540))
+- [gestalten](https://gestalten.com/) - Focus on the aesthetic, particularly that of graphic design.
+- [Design for Developers Workshop](https://frontendmasters.com/courses/design-for-developers/) ([Code](https://github.com/sdras/design-for-developers))
+- [Nodesign.dev](https://nodesign.dev/) - Tools and resources for non artistic developers. ([HN](https://news.ycombinator.com/item?id=23454557))
+- [Flat UI Elements Attract Less Attention and Cause Uncertainty (2017)](https://www.nngroup.com/articles/flat-ui-less-attention-cause-uncertainty/) ([Lobsters](https://lobste.rs/s/gapqze/flat_ui_elements_attract_less_attention))
+- [uizard](https://uizard.io/) - Fastest and easiest way to bring your ideas to life.
+- [Mockingbird](https://gomockingbird.com/home) - Mock up an application and show what's important: the idea, the information, the interaction.
+- [UI Design for Developers](https://designcode.io/ui-design-for-developers)
+- [UI Design Daily](https://uidesigndaily.com/) - Weekly free UI resources straight to your inbox.
+- [Sideway](http://looksideway.com/) - Find design inspiration from real life projects.
+- [Mobbin](https://mobbin.design/) - Latest Mobile Design Patterns.
+- [Apple Design Resources](https://developer.apple.com/design/resources/) ([HN](https://news.ycombinator.com/item?id=27139170))
+- [UCLAB](https://uclab.fh-potsdam.de/) - Visualization research group situated between design, computing, and the humanities.
+- [How to Draw a Compelling Data Interface (2019)](https://modus.medium.com/drawing-the-data-interface-fd9bb88f2932)
+- [What's That Size?](https://www.notion.so/What-s-That-Size-ffcb03538efc4d05bec4363cde43a0bd) - Screen info & mockups for many modern devices.
+- [Absurd Design](https://absurd.design/) - Free Surrealist Illustrations and Vector Art.
+- [Analysis of stripe.com page (2020)](https://twitter.com/coreyhainesco/status/1280566376596271104)
+- [Good Web Design](http://www.goodweb.design/) - Best landing pages, organized by section.
+- [Rora](https://rora.co/) - Design news and trends.
+- [Anima](https://www.animaapp.com/) - Design to code, automated.
+- [The Guide to Design](https://start.uxdesign.cc/)
+- [Themesberg](https://themesberg.com/) - Premium and Free Themes, Templates & UI Kits.
+- [Design Hunt](https://designhunt.us/) - Creative inspiration for everyone.
+- [Grid Systems in Graphic Design/Raster Systeme Fur Die Visuele Gestaltung by Josef Müller-Brockmann](https://www.goodreads.com/book/show/350962.Grid_Systems_in_Graphic_Design_Raster_Systeme_Fur_Die_Visuele_Gestaltung)
+- [Design Books by Womxn & People of Color](https://www.notion.so/Design-Books-by-Womxn-People-of-Color-efaffa5233cc44a8b3bebb2d0a2b038f)
+- [TTN Design Guidelines](https://github.com/TheThingsNetwork/lorawan-stack/blob/v3.9/DESIGN.md)
+- [LogoArchive](https://www.logoarchive.shop/) - Study of form language in logo design. ([IG](https://www.instagram.com/LogoArchive/))
+- [iA new site design (2020)](https://ia.net/topics/newsite)
+- [Six N. Five](https://sixnfive.com/) - Multidisciplinary Design Studio.
+- [Shift Nudge](https://shiftnudge.com/) - Interface Design Course.
+- [Neuralink Chip vector artwork](https://www.figma.com/community/file/882308473299123804)
+- [Mailbox UI](https://twitter.com/taylorlapeyre/status/1300589868603465733)
+- [To design and develop an interactive globe (2020)](https://stripe.com/blog/globe) ([HN](https://news.ycombinator.com/item?id=24350546))
+- [lookup.design](https://lookup.design/) - Find UI Design Examples.
+- [Disrespectful Design – Users aren’t stupid or lazy (2020)](https://somehowmanage.com/2020/09/13/disrespectful-design-users-arent-stupid-or-lazy/) ([HN](https://news.ycombinator.com/item?id=24461365))
+- [What do you think most of the non-designers you work with today still get wrong about design?](https://twitter.com/joulee/status/1305243609944346626)
+- [What's More to Design in a Chair (2020)](https://samanthaz.me/writing/what-s-more-to-design-in-a-chair)
+- [Contrast](https://www.contrast.app/) - Developer Handoff Reimagined. ([Blog](https://www.contrast.app/blog))
+- [How we created the illustration style for our partner products (2020)](https://booking.design/building-a-new-illustration-style-for-our-partner-products-808c32e5e16c)
+- [Intro to Web Design](https://rafaltomal.com/class/intro/)
+- [Adobe MAX Creativity Conference](https://max.adobe.com/)
+- [You don't know UI](https://github.com/MenaiAla/You-Dont-Know-UI) - Learn how to build universal, modern and scalable user interfaces.
+- [14 Patterns of Biophilic Design](https://www.terrapinbrightgreen.com/reports/14-patterns/)
+- [Startup Landing Templates](https://startuplanding.redq.io/) - Get Free React landing page every week.
+- [PatternPad](https://patternpad.com/) - Create beautiful patterns for presentations, social media or branding.
+- [InVision](https://www.invisionapp.com/) - Digital product design, workflow & collaboration.
+- [Canva](https://www.canva.com/) - Collaborate & Create Amazing Graphic Design for Free.
+- [Chasing the Pixel-Perfect Dream (2020)](https://joshwcomeau.com/css/pixel-perfection/) ([HN](https://news.ycombinator.com/item?id=25023282))
+- [Summary of My Work at Figma](https://rsms.me/work/figma/)
+- [The Merveilles Sensibility (2020)](https://wileywiggins.com/merveilles.html) - Solutioning for technological resilience.
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Free & open-source 2D sprite editor, made with the Godot Engine. ([Web](https://orama-interactive.itch.io/pixelorama))
+- [Designing User Interfaces Book](https://designingui.com/)
+- [Overlay](https://overlay-tech.com/) - Transform your design components into clean React, Vue and HTML components. Supports Figma & Sketch.
+- [Staff Design](https://staff.design/) - Conversations with high-impact individual contributors in product design.
+- [Goxel 3D Voxel Editor](https://goxel.xyz/) ([Code](https://github.com/guillaumechereau/goxel))
+- [UI Flowchart Cards](https://flowcards.io/) - Construct web pages with ease, using UI Flow Cards ―for website builders, designers and developers. ([HN](https://news.ycombinator.com/item?id=25384582))
+- [Fantasy UIs](https://www.pushing-pixels.org/fui/)
+- [Pixel Art to CSS](https://www.pixelartcss.com/) - Pixel art animation and drawing web app powered by React. ([Code](https://github.com/jvalen/pixel-art-react))
+- [Land Your Dream Design Job](https://www.holloway.com/b/land-your-dream-design-job) - Guide for product designers, from portfolio to interview to job offer.
+- [Screenlane](https://screenlane.com/) - Web & mobile UI design inspiration.
+- [State of Design in 2021](https://www.abstract.design/state-of-design)
+- [The Design Squiggle](https://thedesignsquiggle.com/) - Design process illustrated.
+- [archives.design](https://archives.design/) - Organized collection of graphic design related items that are available on the Internet Archives.
+- [Ouchhh](https://ouchhh.tv/) - German design studio.
+- [Interview with Rasmus Andersson](https://staff.design/rasmus-andersson)
+- [xLayers](https://xlayers.dev/#/home) - Generate code from your design. ([Code](https://github.com/xlayers/xlayers))
+- [Bloo Lo-Fi Wireframe Kit](https://bloouikit.com/)
+- [illlustrations](https://illlustrations.co/) - Open source illustrations kit.
+- [Alexander Christopher: Notes on the Synthesis of Form (1964)](https://monoskop.org/images/f/ff/Alexander_Christopher_Notes_on_the_Synthesis_of_Form.pdf) - Book about the process of design.
+- [Design Resources](https://github.com/MohamedYoussouf/Design-Resources) - Curated list of design resources from design templates, stock photos, icons, colors, and much more.
+- [Compute Cuter](https://computecuter.com/) - Guide to cute-ifying your computer. ([Lobsters](https://lobste.rs/s/mw6fgw/compute_cuter))
+- [Graphic Designers Have Always Loved Minimalism. But at What Cost? (2021)](https://eyeondesign.aiga.org/graphic-designers-have-always-loved-minimalism-but-at-what-cost/) ([HN](https://news.ycombinator.com/item?id=26859183))
+- [Hack Design](https://hackdesign.org/) - Design lessons for everyone, curated by top designers.
+- [Web Designer & Developer Toolkit](https://toolkit.addy.codes/) - Curated tools & resources for people who make websites.
+- [Root Illustrations](https://rootwireframekit.com/illustrations) - Beautiful illustration constructor for websites & apps.
+- [Skribbl](https://weareskribbl.com/) - Free, Hand-Drawn Illustrations.
+- [Базовые принципы проектирования](https://andreivoronin.github.io/design-basic)
+- [Design Regression](https://designregression.com/) - Journal publishing texts that are about design for reading and reading-related research.
+- [Playbook.com](https://www.playbook.com/) - Beautiful Cloud Storage Platform for Designers.
+- [Ask Playbook](https://askplaybook.com/) - Helps designers achieve their career goals.
+- [Embracing Design Constraints (2021)](https://adrianroselli.com/2021/05/embracing-design-constraints.html)
+- [How to critique a product's design (2021)](https://twitter.com/joulee/status/1407902488838119431)
+- [EasyLogic Studio](https://editor-core.easylogic.studio/) - Built using CSS and SVG to reduce the gap between web design and code. ([Code](https://github.com/easylogic/editor))
+- [There is a fundamental disconnect between the way designers and business people think. (2021)](https://twitter.com/andybudd/status/1411349258733867010)
+- [gridless.design](https://gridless.design/)
+- [The elements of product design (2021)](https://jamiemill.com/blog/elements-of-product-design/)
+- [Tricycle](https://tricycle.ai/) - Automation Tools for Designers. ([Automator and Fig Demo](https://twitter.com/jsngr/status/1435661063085858818))
+- [Design Vault](https://designvault.io/) - UI patterns & design inspiration from real products.
+- [Hicks](https://hicks.design/) - Graphic design, branding, illustration & iconography.
+- [Better in Black: Rethinking our Most Important Buttons | Spotify Design (2021)](https://spotify.design/article/better-in-black-rethinking-our-most-important-buttons)
+- [Designing a scalable design organization (2021)](https://www.mynameisjehad.com/designing-a-scalable-design-organization/)
+- [Figma's design and development process (2021)](https://twitter.com/skuwamoto/status/1235042668494741504)
+- [Design Principles](https://principles.design/) - Open source collection of Design Principles and methods. ([Code](https://github.com/benbrignell/principles.design))
+- [Doodle Ipsum](https://doodleipsum.com/) - Lorem ipsum of illustrations.
+- [Mechanic](https://mechanic.design/) - Open source framework that makes it easy to create custom, web-based design tools that export design assets right in your browser. ([Code](https://github.com/designsystemsinternational/mechanic))
+- [TryShape](https://tryshape.vercel.app/) - Create, Export, Share, and Use any Shapes of your choice. ([Code](https://github.com/TryShape/tryshape))
+- [Mucho](https://wearemucho.com/) - Branding, Packaging, and Graphic Design.
+- [The Future of Design AI: Interview with Sergey Kulinkovich (2021)](https://serokell.io/blog/the-future-of-design-ai)
+- [Globs Designer](https://www.globs.design/)
+- [Apps for collecting/organizing designs/images (2021)](https://twitter.com/jasonlong/status/1450805712309870598)
+- [Дизайн в Злых марсианах (2021)](https://teletype.in/@romanshamin/design-at-evil-martians) ([Tweet](https://twitter.com/strongeron/status/1450914217335349250))
+- [IKEA catalogue through the ages](https://ikeamuseum.com/en/digital/ikea-catalogues-through-the-ages/) ([HN](https://news.ycombinator.com/item?id=28997461))
+- [Lunacy](https://icons8.com/lunacy) - Figma-like design tool, not in Electron, in Avalonia.
+- [Interview with Frederique Matti (2021)](https://www.loversmagazine.com/interviews/frederique-matti)
+- [Lovers Magazine](https://www.loversmagazine.com/) - Online magazine for creative professionals. ([Twitter](https://twitter.com/theloversmag))
+- [Inclusive Web Design Checklist](https://github.com/Heydon/inclusive-design-checklist)
+- [Jony Ive's foral designs (2021)](https://www.fastcompany.com/90693444/jony-ives-first-major-design-since-leaving-apple-isnt-what-youd-expect)
+- [LibreSprite](https://libresprite.github.io/#!/) - Free and open source program for creating and animating your sprites. ([Code](https://github.com/LibreSprite/LibreSprite))
+- [Design for yourself! (Sometimes) (2021)](https://borism.medium.com/design-for-yourself-sometimes-7c9b8118fb63) - Individual creativity has a strong and positive impact on the design process.
+- [Web design & art history](https://webflow.com/web-design-art-history)
+- [Design Masterclass with the best designer I’ve ever met (Raphael Schaad with Cron Calendar) (2021)](https://www.youtube.com/watch?v=2MrNSjJFBBI) ([Tweet](https://twitter.com/raphaelschaad/status/1464262611806171143))
+- [App Store Award Winners 2021](https://apps.apple.com/story/id1591083005)
+- [The Essence of Software: Why Concepts Matter for Great Design (2021)](https://press.princeton.edu/books/hardcover/9780691225388/the-essence-of-software)
+- [Ask HN: Best self-starter resources to learn web design? (2021)](https://news.ycombinator.com/item?id=29428533)
+- [Inside Apple Park: first look at the design team shaping the future of tech (2021)](https://www.wallpaper.com/design/apple-park-behind-the-scenes-design-team-interview)
+- [James Dyson answers design questions from Twitter (2021)](https://www.youtube.com/watch?v=zFCFe38EIfE) ([HN](https://news.ycombinator.com/item?id=29564720))
+- [Noya](https://github.com/noya-app/noya) - Open interface design tool.
+- [How I Build (2021)](http://pketh.org/how-i-build.html) ([HN](https://news.ycombinator.com/item?id=29714510))
+- [Inclusive Design](https://www.nngroup.com/articles/inclusive-design/)
+- [IRA Design](https://iradesign.io/) - Free and open-source illustrations for your projects. ([HN](https://news.ycombinator.com/item?id=30332535))
+- [Penpot](https://penpot.app/) - Open-Source design & prototyping platform. ([Code](https://github.com/penpot/penpot)) ([HN](https://news.ycombinator.com/item?id=30407913))
+- [UI Gallery](https://ui.gallery/) ([Tweet](https://twitter.com/raunofreiberg/status/1496072815946219522))
+- [Product Designer Software Stack (2022)](https://twitter.com/jsngr/status/1501979905067737088)
+- [Light mode, Dark mode, and Gen-Z mode? (2022)](https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode) ([HN](https://news.ycombinator.com/item?id=30685587))
+- [Marvel](https://marvelapp.com/) - Rapid prototyping, testing and handoff for modern design teams.
+- [Tome](https://beta.tome.app/) - Storytelling tool for work.
+- [Who is hiring designers (2022)](https://twitter.com/jsngr/status/1507035119457951745)
+- [UI8](https://ui8.net/) - UI Design Resources, UI Kits, Wireframes, Icons and More.
+- [What’s the hello world of product design?](https://twitter.com/jsngr/status/1513516639039500288)
+- [When your portfolio is a brand in itself (2020)](https://vanschneider.com/blog/when-your-portfolio-is-a-brand-in-itself/)
+- [Design for Developers Book (2022)](https://www.manning.com/books/design-for-developers)
+- [Vectornator](https://www.vectornator.io/) - Create sophisticated illustrations, beautiful interface designs, amazing layouts. ([Twitter](https://twitter.com/vectornator)) ([GitHub](https://github.com/LinearityGmbH))
+- [Parametric Design course](https://github.com/FH-Potsdam/teaching-parametric-design)
+- [The design space in 2022 - Brief review & tools for the future](https://ninalimpi.com/posts/design-space-review-and-the-future)
+- [Magician](https://magician.design/) - Magical design tool powered by AI.

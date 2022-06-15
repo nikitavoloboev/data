@@ -1,0 +1,87 @@
+# Encryption
+
+## Notes
+
+- [XChaCha20-Poly1305 encyption seems nice.](https://twitter.com/reflectnotes/status/1412453321705656324)
+
+## Links
+
+- [How Quantum Computers Break Encryption | Shor's Algorithm Explained (2019)](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
+- [CyberChef](https://github.com/gchq/CyberChef) - Web app for encryption, encoding, compression and data analysis.
+- [Fixing Whisper with Waku (2019)](https://vac.dev/fixing-whisper-with-waku)
+- [Age](https://github.com/FiloSottile/age) - Simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. ([HN](https://news.ycombinator.com/item?id=21895671)) ([HN](https://news.ycombinator.com/item?id=28435613))
+- [rage](https://github.com/str4d/rage) - Rust implementation of the age tool.
+- [End-to-End Encryption in the Browser (2020)](https://blog.excalidraw.com/end-to-end-encryption/) ([HN](https://news.ycombinator.com/item?id=22663435))
+- [Microsoft SEAL](https://github.com/microsoft/SEAL) - Easy-to-use and powerful homomorphic encryption library. ([Web](https://www.microsoft.com/en-us/research/project/microsoft-seal/))
+- [E2E Encryption for Zoom Meetings (2020)](https://github.com/zoom/zoom-e2e-whitepaper/blob/master/zoom_e2e.pdf) ([Bizarre Design Choices in Zoom’s End-to-End Encryption (2020)](https://soatok.blog/2020/10/28/bizarre-design-choices-in-zooms-end-to-end-encryption/)) ([HN](https://news.ycombinator.com/item?id=24937298))
+- [So You Want to Build an End-to-End Encrypted Web App (2020)](https://www.zfnd.org/blog/so-you-want-an-e2e-encrypted-webapp/) ([HN](https://news.ycombinator.com/item?id=23426564))
+- [Cingulata](https://github.com/CEA-LIST/Cingulata) - Compiler toolchain and RTE for running C++ programs over encrypted data by means of fully homomorphic encryption techniques.
+- [baby's first hash encryption (2020)](https://www.thefragehaver.com/posts/encryptionone/)
+- [Ciphey](https://github.com/Ciphey/Ciphey) - Automated decryption tool. Input encrypted text, get the decrypted text back.
+- [Ask HN: Good Resources on Voice Encryption? (2020)](https://news.ycombinator.com/item?id=23712006)
+- [Intro to Fully Homomorphic Encryption (2020)](http://blog.higashi.tech/2020/06/16/fhe_01.html) ([HN](https://news.ycombinator.com/item?id=23721661))
+- [Exploring Fully Homomorphic Encryption (2020)](https://vitalik.ca/general/2020/07/20/homomorphic.html)
+- [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux) ([HN](https://news.ycombinator.com/item?id=24025478))
+- [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode. ([Lobsters](https://lobste.rs/s/2nalpm/split_files_into_encrypted_segments))
+- [This is how Signal protocol encrypts group messages](https://www.reddit.com/r/signal/comments/a2ogk2/this_is_how_signal_protocol_encrypts_group/)
+- [Tiny AES in C](https://github.com/kokke/tiny-AES-c) - Small and portable implementation of the AES ECB, CTR and CBC encryption algorithms written in C.
+- [Charm](https://github.com/charmbracelet/charm) - Includes a simple, powerful encryption interface.
+- [EU Draft Council Declaration Against Encryption (2020)](https://www.statewatch.org/media/1434/eu-council-draft-declaration-against-encryption-12143-20.pdf) ([HN](https://news.ycombinator.com/item?id=25028411)) ([Lobsters](https://lobste.rs/s/ydeb9n/eu_draft_declaration_against_encryption))
+- [A Furry’s Guide to End-to-End Encryption (2020)](https://soatok.blog/2020/11/14/going-bark-a-furrys-guide-to-end-to-end-encryption/) ([Lobsters](https://lobste.rs/s/mn1am1/going_bark_furry_s_guide_end_end))
+- [Keeping encryption elitist (2020)](https://blog.cerebralab.com/Keeping_encryption_elitist)
+- [Tomb](https://github.com/dyne/Tomb) - Open source system for easy encryption and backup of personal files.
+- [TinyMCE’s real-time collaboration solution is end-to-end encrypted (2021)](https://www.tiny.cloud/blog/real-time-collaboration-end-to-end-encryption/)
+- [libsignal-client](https://github.com/signalapp/libsignal-client) - Implementation of the Signal client protocol in Rust.
+- [How the Signal Protocol Works](https://livebook.manning.com/book/real-world-cryptography/chapter-10/v-10/1)
+- [Real-World Cryptography Book](https://livebook.manning.com/book/real-world-cryptography/welcome/v-10/)
+- [Hybrid Public Key Encryption](https://github.com/cfrg/draft-irtf-cfrg-hpke)
+- [What on Earth is this Encryption Scheme? (2021)](https://capnfabs.net/posts/wtf-encryption-scheme-synology-diskstation-nas/)
+- [rage-wasm](https://github.com/kanru/rage-wasm) - WebAssembly wrapper of the rage encryption library.
+- [SchnorrGate](https://github.com/lducas/SchnorrGate) - Testing Schnorr's factoring Claim in Sage.
+- [On the Feasibility of Secure Traceability in End-to-End Encrypted Messaging (2021)](https://nadim.computer/posts/2021-06-02-traceability.html)
+- [Fully Homomorphic Encryption (FHE)](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set. ([HN](https://news.ycombinator.com/item?id=27510902))
+- [kiss-crypto](https://www.npmjs.com/package/kiss-crypto) - Easily encrypt and decrypt messages. All the complexity is hidden behind the scenes.
+- [Awesome Homomorphic Encryption](https://github.com/jonaschn/awesome-he)
+- [Concrete](https://github.com/zama-ai/concrete) - Set of crates that implements Zama's variant of TFHE. In a nutshell, fully homomorphic encryption (FHE).
+- [Zama](https://zama.ai/) - End-to-end encryption for AI. ([GitHub](https://github.com/zama-ai))
+- [PQ Crypto Catalog](https://github.com/kriskwiatkowski/pqc) - Reference implementations of post-quantum cryptographic primitives.
+- [Up1](https://github.com/Upload/Up1) - Host that client-side encrypts images, text, and other data, and stores them, with the server knowing nothing about the contents.
+- [OCIcrypt Library](https://github.com/containers/ocicrypt) - OCI image spec implementation of container image encryption.
+- [ocicrypt-rs](https://github.com/containers/ocicrypt-rs) - Rust version of the containers/ocicrypt library.
+- [F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption (Extended Version) (2021)](https://arxiv.org/abs/2109.05371) ([Tweet](https://twitter.com/vj_chidambaram/status/1439222843665956870)) ([Tweet](https://twitter.com/Theophite/status/1438738713018699778))
+- [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) - Fastest JS implementation of secp256k1. Independently audited, high-security, 0-dependency ECDSA & Schnorr signatures.
+- [Double-Odd Elliptic Curves](https://doubleodd.group/front.html) ([HN](https://news.ycombinator.com/item?id=28736958))
+- [Mask Network](https://mask.io/) - Send encrypted posts to your friends, participate in cryptocurrencies lucky-draws, and share encrypted files on the platforms you are already using. ([Code](https://github.com/DimensionDev/Maskbook))
+- [libsecp256k1](https://github.com/bitcoin-core/secp256k1) - Optimized C library for ECDSA signatures and secret/public key operations on curve secp256k1. ([Python Lib](https://github.com/rustyrussell/secp256k1-py))
+- [Tanker](https://tanker.io/) - End-to-end encryption as a service. ([GitHub](https://github.com/TankerHQ))
+- [Electronic Health Certificates Spec](https://github.com/ehn-dcc-development/hcert-spec) - Proposal for encoding and signing the Electronic Health Certificate (HCERT).
+- [Authenticated Cipher MORUS (2016)](https://competitions.cr.yp.to/round3/morusv2.pdf) - Fast authenticated cipher for platforms without hardware AES acceleration. ([Zig Code](https://github.com/jedisct1/zig-morus))
+- [goRecrypt](https://github.com/SherLzp/goRecrypt) - Proxy Re-Encryption go implementation.
+- [WebPush](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
+- [Elliptic Curves - Computerphile (2018)](https://www.youtube.com/watch?v=NF1pwjL9-DE)
+- [An Introduction to the Arithmetic of Elliptic Curves (2021)](https://www.youtube.com/playlist?list=PLYpVTXjEi1oe1OeAllJpNhFoI4B7Ws8Yl)
+- [Secret](https://github.com/fabiospampinato/secret) - Simplest command to encrypt/decrypt a file, useful for committing encrypted ".env" files to version control, among other things.
+- [Trousseau](https://github.com/oleiade/trousseau) - Encrypted key-value store designed to be a simple, safe and trustworthy place for your data.
+- [EME for Go](https://github.com/rfjakob/eme) - EME (Encrypt-Mix-Encrypt) wide-block encryption for Go.
+- [Evervault](https://evervault.com/) - Encryption for developers. ([GitHub](https://github.com/evervault))
+- [Alchemy](https://github.com/cpeikert/ALCHEMY) - Language and Compiler for Homomorphic Encryption Made easY.
+- [Hashing is not encryption (2022)](https://eric.mann.blog/hashing-is-not-encryption/) ([HN](https://news.ycombinator.com/item?id=29855212))
+- [zooko-msg](https://github.com/publiusfederalist/zooko-msg) - Send encrypted and decrypted messages with verifiable keys and human readable names.
+- [A stick figure guide to the Advanced Encryption Standard (AES) (2009)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html) ([HN](https://news.ycombinator.com/item?id=30187633))
+- [rPGP](https://github.com/rpgp/rpgp) - Pure rust implementation of OpenPGP.
+- [Breaking 256-bit Elliptic Curve Encryption with a Quantum Computer (2022)](https://www.schneier.com/blog/archives/2022/02/breaking-245-bit-elliptic-curve-encryption-with-a-quantum-computer.html) ([Paper](https://avs.scitation.org/doi/pdf/10.1116/5.0073075))
+- [How Bitwarden encrypts your data (2022)](https://www.huy.rocks/everyday/02-22-2022-security-how-bitwarden-encrypts-your-data) ([Lobsters](https://lobste.rs/s/plnc1z/how_bitwarden_encrypts_your_data))
+- [TL;DR - Hybrid Public Key Encryption (2022)](https://www.franziskuskiefer.de/p/tldr-hybrid-public-key-encryption/) ([HN](https://news.ycombinator.com/item?id=30497897))
+- [A Deep dive into Ed25519 Signatures (2022)](https://cendyne.dev/posts/2022-03-06-ed25519-signatures.html) ([Lobsters](https://lobste.rs/s/dcs345/deep_dive_into_ed25519_signatures))
+- [Yopass](https://yopass.se/) - Secure sharing of secrets, passwords and files. ([Code](https://github.com/jhaals/yopass))
+- [The Noise Protocol Framework](https://noiseprotocol.org/noise.html) - Framework for crypto protocols based on Diffie-Hellman key agreement.
+- [TFHE](https://github.com/tfhe/tfhe) - Fast Fully Homomorphic Encryption Library over the Torus.
+- [blst](https://github.com/supranational/blst) - BLS12-381 signature library focused on performance and security. It is written in C and assembly.
+- [blst Verification](https://github.com/GaloisInc/BLST-Verification) - Specifications and correctness proofs for the blst BLS12-381 signature library.
+- [Crypter](https://github.com/HR/Crypter) - Innovative, convenient and secure encryption app.
+- [OPAQUE](https://github.com/novifinancial/opaque-ke) - Asymmetric password-authenticated key exchange protocol.
+- [akd](https://github.com/novifinancial/akd) - Implementation of an auditable key directory (also known as a verifiable registry).
+- [Ask HN: CLI Tool for File Encryption? (2022)](https://news.ycombinator.com/item?id=31204523)
+- [wage](https://github.com/str4d/wage) - WASM package and web app for encrypting and decrypting age-encrypted files, powered by rage. ([Web](https://rage-encry.pt/))
+- [Hands-on: X25519 Key Exchange](https://x25519.ulfheim.net/)
+- [TenSEAL](https://github.com/OpenMined/TenSEAL) - Library for doing homomorphic encryption operations on tensors.

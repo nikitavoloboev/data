@@ -1,0 +1,124 @@
+---
+title: Minecraft
+---
+
+# [Minecraft](https://www.minecraft.net/en-us/)
+
+## Notes
+
+- [Minecraft servers can serve as great private social networks for your friends.](https://news.ycombinator.com/item?id=29470565)
+
+## Links
+
+- [Minehut](https://minehut.com/) - Free Minecraft Server Hosting.
+- [MultiMC](https://github.com/MultiMC/MultiMC5) - Custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+- [Reverse Proxy + Cache for Minecraft](https://github.com/benjojo/mcod) - Minecraft servers that only run when people are playing on them.
+- [Stevenarella](https://github.com/iceiix/stevenarella) - Multi-protocol Minecraft-compatible client written in Rust.
+- [Go-MC](https://github.com/Tnze/go-mc) - Golang library of Minecraft protocol for creating bots or server.
+- [Docker image that provides a Minecraft Server that will automatically download selected version at startup](https://github.com/itzg/docker-minecraft-server)
+- [Minecraft made in CSS3D](https://github.com/Calada2/Minecraft)
+- [Feather](https://github.com/feather-rs/feather) - Experimental Minecraft server implementation written in Rust.
+- [The Book of Minecraft Modding](https://thebookofmodding.ml/) ([HN](https://news.ycombinator.com/item?id=23723058))
+- [Langcraft](https://github.com/SuperTails/langcraft) - Compiler from LLVM IR to Minecraft datapacks. ([Reddit](https://www.reddit.com/r/rust/comments/hx3we0/langcraft_the_llvm_target_for_minecraft_youve/)) ([HN](https://news.ycombinator.com/item?id=23955371))
+- [SpongeAPI](https://www.spongepowered.org/) - Minecraft plugin API. ([Code](https://github.com/SpongePowered/SpongeAPI))
+- [mcview](https://github.com/kbinani/mcview) - Minecraft: top-down 2D map viewer.
+- [Minecraft Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface. ([Web](https://overviewer.org/))
+- [CraftAssist](https://github.com/facebookresearch/craftassist) - Virtual assistant bot in Minecraft.
+- [Modrinth](https://modrinth.com/) - Mod distribution platform. Modern, easy to use, and built for modders. Currently supports Minecraft. ([API code](https://github.com/modrinth/labrinth)) ([GitHub](https://github.com/modrinth))
+- [fastnbt](https://github.com/owengage/fastnbt) - Fast parsing library for Minecraft's NBT and Anvil formats.
+- [MineRL](https://minerl.io/) - Towards AI in Minecraft.
+- [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Free, open-source modding API all of your favourite mods use.
+- [Containerized Minecraft Bedrock Dedicated Server with selectable version](https://github.com/itzg/docker-minecraft-bedrock-server)
+- [Minecraft HDL](https://github.com/itsFrank/MinecraftHDL) - Verilog synthesis flow for Minecraft redstone circuits.
+- [minecraft-data](https://github.com/PrismarineJS/minecraft-data) - Language independent module providing minecraft data for minecraft clients, servers and libraries. ([Docs](https://minecraft-data.prismarine.js.org/))
+- [Mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
+- [Dragonfly](https://github.com/df-mc/dragonfly) - Minecraft (Bedrock Edition) server software written in Go.
+- [Mojang API Documentation](https://mojang-api-docs.netlify.app/) ([Code](https://github.com/88/mojang-api-docs))
+- [Understanding Minecraft Performance (2011)](http://optifog.blogspot.com/2011/08/understanding-minecraft-performance.html)
+- [SniffCraft](https://github.com/adepierre/SniffCraft) - Simple C++ program to capture and display all traffic between a client and a server in minecraft.
+- [LiquidBounce](https://liquidbounce.net/) - Free Minecraft Forge Hacked Client. ([Code](https://github.com/CCBlueX/LiquidBounce))
+- [Craft](https://github.com/fogleman/Craft) - Simple Minecraft clone written in C using modern OpenGL (shaders). ([Web](https://www.michaelfogleman.com/projects/craft/))
+- [Minecraft Realms API in Node](https://github.com/revzim/mc-realms)
+- [Tuinity](https://github.com/Spottedleaf/Tuinity) - Fork of Paper Minecraft Server aimed at improving server performance at high playercounts.
+- [PaperMC](https://papermc.io/) - Next generation of Minecraft server, compatible with Spigot plugins and offering uncompromising performance. ([GitHub](https://github.com/PaperMC))
+- [Tailscale on NixOS: A New Minecraft Server in Ten Minutes (2021)](https://tailscale.com/blog/nixos-minecraft/) ([Lobsters](https://lobste.rs/s/yppnts/tailscale_on_nixos_new_minecraft_server)) ([HN](https://news.ycombinator.com/item?id=25843609))
+- [Worker Biomes](https://github.com/lspgn/worker-biomes) - Minecraft biomes map generator using Cloudflare Workers.
+- [GlobalWarming](https://github.com/nsporillo/GlobalWarming) - Server side global warming mechanics in Minecraft.
+- [AnotherCraft](https://github.com/CZDanol/AnotherCraft) - Minecraft clone. Visualisation of a procedurally generated voxel terrain.
+- [All is Cubes](https://github.com/kpreid/all-is-cubes) - Game engine for worlds made of cubical blocks.
+- [Minecraft, made in 48 hours](https://github.com/jdah/minecraft-weekend) ([Video](https://www.youtube.com/watch?v=4O0_-1NaWnY))
+- [EssentialsX](https://essentialsx.net/) - Essential plugin suite for Minecraft servers. ([Code](https://github.com/EssentialsX/Essentials))
+- [Minecraft Dev for IntelliJ](https://minecraftdev.org/) - Plugin for IntelliJ IDEA for Minecraft mod development. ([Code](https://github.com/minecraft-dev/MinecraftDev))
+- [pakkit](https://github.com/Heath123/pakkit) - Packet monitor for Minecraft.
+- [JSPrismarine](https://prismarine.dev/) - Dedicated Minecraft Bedrock Edition server written in TypeScript.
+- [minepkg](https://preview.minepkg.io/) - Package Manager For Minecraft. Open platform for mod & modpack sharing. ([Code](https://github.com/minepkg/minepkg))
+- [PolyMc](https://github.com/TheEpicBlock/PolyMc) - Making minecraft mods compatible with a vanilla client.
+- [PolyMC](https://github.com/PolyMC/PolyMC) - Custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC).
+- [I built a Neural Network in Minecraft](https://www.youtube.com/watch?v=7OdhtAiPfWY) ([Tweet](https://twitter.com/ykilcher/status/1382328460308271104))
+- [GANcraft](https://nvlabs.github.io/GANcraft/) - Unsupervised 3D Neural Rendering of Minecraft Worlds. ([HN](https://news.ycombinator.com/item?id=26833972))
+- [Create](https://github.com/Creators-of-Create/Create) - Mod offering a variety of tools and blocks for Building, Decoration and Aesthetic Automation.
+- [Apple M1 Minecraft Launcher](https://github.com/ezfe/minecraft-jar-command) - Download and run Minecraft without the Launcher.
+- [Velocity](https://github.com/VelocityPowered/Velocity) - Modern, next-generation Minecraft server proxy. ([Web](https://velocitypowered.com/))
+- [Amulet Map Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - Minecraft world editor and converter. ([Web](https://www.amuletmc.com/))
+- [Iris](https://github.com/IrisShaders/Iris) - Shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders.
+- [Flywheel](https://github.com/Jozufozu/Flywheel) - Modern engine for modded Minecraft.
+- [Minestom](https://github.com/Minestom/Minestom) - Lightweight and multi-threaded Minecraft server. ([Web](https://www.minestom.net/))
+- [Clojure meets Minecraft (Witchcraft/Glowstone) (2021)](https://www.youtube.com/watch?v=qgQwhc_DDSY)
+- [go-mcproto](https://github.com/BRA1L0R/go-mcproto) - Minecraft Protocol implementation in Go.
+- [minectl](https://github.com/dirien/minectl) - CLI for creating Minecraft (java or bedrock) server on different cloud provider.
+- [pyCraft](https://github.com/ammaraskar/pyCraft) - Modern, Python3-compatible, well-documented library for communication with a MineCraft server.
+- [Charm](https://svenhjol.github.io/Charm/) - Vanilla+ Minecraft mod inspired by Quark. ([Code](https://github.com/svenhjol/Charm))
+- [How we built an auto-scalable Minecraft server for 1000+ players (2021)](https://www.worldql.com/posts/2021-08-worldql-scalable-minecraft/) ([HN](https://news.ycombinator.com/item?id=28401224))
+- [Leafish](https://github.com/terrarier2111/Leafish) - Minecraft-like multi version client implemented in Rust.
+- [Mammoth](https://github.com/WorldQL/mammoth) - Horizontally scalable Minecraft server.
+- [Almost free serverless on-demand Minecraft server in AWS](https://github.com/doctorray117/minecraft-ondemand) ([HN](https://news.ycombinator.com/item?id=28454968))
+- [minecraft-render](https://github.com/co3moz/minecraft-render) - Minecraft block rendering with node.js.
+- [Elementa](https://github.com/Sk1erLLC/Elementa) - Simple, declarative GUI library for Minecraft.
+- [Sk1er](https://sk1er.club/) - High quality Minecraft Mods and services. ([Twitter](https://twitter.com/Sk1erLLC)) ([GitHub](https://github.com/Sk1erLLC))
+- [Minecraft Console Client](https://github.com/ORelio/Minecraft-Console-Client) - Lightweight app allowing you to connect to any Minecraft server, send commands and receive text messages in a fast and easy way.
+- [PufferPanel](https://github.com/PufferPanel/PufferPanel) - Open source game server management panel, designed for both small networks and game server providers. Supports Minecraft, Forge, Spigot, Sponge, Source Dedicated Servers. ([Web](https://www.pufferpanel.com/))
+- [packwiz](https://github.com/comp500/packwiz) - Command-line tool for creating Minecraft modpacks.
+- [witchcraft](https://github.com/lambdaisland/witchcraft) - Clojure API for manipulating Minecraft, based on Bukkit.
+- [Telecraft](https://github.com/telecraft/telecraft) - Pluggable Minecraft server bridge and administration tools.
+- [Obsidian](https://github.com/ObsidianMC/Obsidian) - C# implementation of the Minecraft server protocol. (.NET 5).
+- [PocketMine-MP](https://pmmp.io/) - Server software for Minecraft: Bedrock Edition written in PHP. ([Code](https://github.com/pmmp/PocketMine-MP))
+- [ServerTap](https://github.com/phybros/servertap) - REST API for Bukkit/Spigot/Paper Minecraft servers. ([Web](https://servertap.io/))
+- [BuildTheEarth](https://buildtheearth.net/) - Recreating the entire planet in Minecraft.
+- [Sheaves in Minecraft (2021)](https://quoteme.github.io/posts/sheaves_in_minecraft) ([HN](https://news.ycombinator.com/item?id=29055847))
+- [The metaverse is already here – it's Minecraft (2021)](https://clivethompson.medium.com/the-metaverse-is-already-here-its-minecraft-99c89ed8ba2) ([HN](https://news.ycombinator.com/item?id=29083271))
+- [lazymc](https://github.com/timvisee/lazymc) - Put your Minecraft server to rest when idle.
+- [The Metaverse Is Already Here — It’s Minecraft (2021)](https://debugger.medium.com/the-metaverse-is-already-here-its-minecraft-99c89ed8ba2)
+- [Run Minecraft on Apple Silicon](https://github.com/ezfe/m1craft)
+- [PGM](https://github.com/PGMDev/PGM) - PvP Game Manager for Minecraft. ([Docs](https://pgm.dev/))
+- [mojang-api](https://github.com/Electroid/mojang-api) - Bundle multiple Minecraft APIs into a single GET request.
+- [Replicating Minecraft World Generation in Python (2021)](https://towardsdatascience.com/replicating-minecraft-world-generation-in-python-1b491bc9b9a4)
+- [Three.js powered Minecraft skin viewer](https://bs-community.github.io/skinview3d/) ([Code](https://github.com/bs-community/skinview3d))
+- [Delta Client](https://github.com/stackotter/delta-client) - Open source rewrite of Minecraft Java Edition written in Swift for macOS. (([Web](https://delta.stackotter.dev/)))
+- [One decade later, Minecraft world generation is interesting again (2021)](https://dither8.xyz/blog/minecraft-cliffs-terrain/) ([HN](https://news.ycombinator.com/item?id=29446877))
+- [Very powerful 1Hz Minecraft CPU (2021)](https://www.youtube.com/watch?v=FDiapbD0Xfg) ([Lobsters](https://lobste.rs/s/isyomf/very_powerful_1hz_minecraft_cpu))
+- [mc-proxy](https://github.com/101arrowz/mc-proxy) - Fully functional proxy for online and offline-mode Minecraft servers.
+- [Mycelium](https://github.com/nikhiljha/mycelium) - Deploy planet-scale Minecraft server networks on Kubernetes.
+- [KubeJS](https://github.com/KubeJS-Mods/KubeJS) - Multi-modloader Minecraft mod which lets you create scripts in JavaScript. ([Web](https://kubejs.com/))
+- [KubeCraftAdmin](https://github.com/erjadi/kubecraftadmin) - Minecraft as a Kubernetes admin tool. ([Article](https://eric-jadi.medium.com/minecraft-as-a-k8s-admin-tool-cf16f890de42)) ([HN](https://news.ycombinator.com/item?id=29816972))
+- [Grakkit](https://github.com/grakkit/grakkit) - Modern JavaScript development environment for Minecraft.
+- [Hopper](https://github.com/tebibytemedia/hopper) - Minecraft mod manager for the terminal.
+- [Evocraft-py](https://github.com/real-itu/Evocraft-py) - Python interface for Minecraft built on gRPC.
+- [Hajime](https://github.com/Slackadays/Hajime) - Ultimate Minecraft server startup script.
+- [My thoughts on writing a Minecraft server from scratch in Bash](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/) ([HN](https://news.ycombinator.com/item?id=30347501)) ([Lobsters](https://lobste.rs/s/rbocxw/my_thoughts_on_writing_minecraft_server))
+- [Minecraft Modern](https://wiki.vg/Main_Page) - Reverse-engineering Minecraft.
+- [Minecraft compiled natively for  Silicon](https://github.com/raphtlw/m1necraft)
+- [Cuberite](https://cuberite.org/) - Lightweight, fast and extensible game server for Minecraft. ([Code](https://github.com/cuberite/cuberite))
+- [Minecraft High-Performance Redstone Server](https://github.com/MCHPR/MCHPRS)
+- [Minecraft XR](https://github.com/Sorenon/MCXR) - VR minecraft mod using OpenXR and fabric.
+- [GDLauncher](https://gdevs.io/) - Custom Minecraft Launcher. ([Code](https://github.com/gorilla-devs/GDLauncher))
+- [Minecraft:HACKED](https://github.com/LiveOverflow/minecraft-hacked) - Video series exploring various technical areas of Minecraft.
+- [wgpu-mc](https://github.com/wgpu-mc/wgpu-mc) - Rust-based replacement for the default Minecraft renderer.
+- [A Census of Minecraft Servers (2022)](https://blog.bithole.dev/mcmap.html) ([HN](https://news.ycombinator.com/item?id=31052254))
+- [Cobblestone-Classic](https://github.com/Patbox/Cobblestone-Classic) - Server for Minecraft Classic 0.30 written in Deno.
+- [Fabric](https://fabricmc.net/) - Lightweight, experimental modding toolchain for Minecraft.
+- [Hexalite Network](https://github.com/HexaliteNetwork/java-edition) - Modular Kotlin and Rust-based Minecraft: Java Edition network inspired by Mineclub, Origin Realms and Wynncraft.
+- [HMCL](https://github.com/huanghongxun/HMCL) - Minecraft Launcher which is multi-functional, cross-platform and popular.
+- [Ferium](https://github.com/theRookieCoder/ferium) - CLI Minecraft mod manager for mods from Modrinth, CurseForge, and Github Releases. ([Reddit](https://www.reddit.com/r/rust/comments/umcu1j/media_ferium_the_cli_minecraft_mod_manager/))
+- [Vane](https://github.com/oddlama/vane) - Immersive and lore friendly enhancements for vanilla Minecraft.
+- [Litematica](https://github.com/maruohon/litematica) - Modern client-side schematic mod for Minecraft.
+- [Create a Bot to Find Diamonds in Minecraft (2022)](https://mlabonne.github.io/blog/minecraft/) ([HN](https://news.ycombinator.com/item?id=31628436))

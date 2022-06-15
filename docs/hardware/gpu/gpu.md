@@ -1,0 +1,113 @@
+---
+title: GPU
+---
+
+# [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+
+## Links
+
+- [cuDF](https://github.com/rapidsai/cudf) - GPU DataFrame Library.
+- [ROCm](https://rocm.github.io/tensorflow.html) - Platform for GPU-Enabled HPC and Ultrascale Computing.
+- [W3C GPU for the Web Community Group](https://github.com/gpuweb/gpuweb)
+- [RAPIDS](https://rapids.ai/) - Open GPU Data Science.
+- [GPU hardware effects](https://github.com/Kobzol/hardware-effects-gpu) - Demonstration of various hardware effects on CUDA GPUs.
+- [Basis Universal GPU Texture Codec](https://github.com/BinomialLLC/basis_universal) ([Basis Universal Transcoders](https://github.com/KhronosGroup/Basis-Universal-Transcoders))
+- [NVIDIA GPU Monitoring Tools](https://github.com/NVIDIA/gpu-monitoring-tools)
+- [A Taste of GPU Compute (2020)](https://www.youtube.com/watch?v=eqkAaplKBc4) ([Slides](https://docs.google.com/presentation/d/1FRH81IW9RffkJjm6ILFZ7raCgFAUPXYYFXfiyKmhkx8/edit)) ([HN](https://news.ycombinator.com/item?id=22880502))
+- [KeOps](https://github.com/getkeops/keops) - Kernel Operations on the GPU, with autodiff, without memory overflows.
+- [3D Fluid](https://github.com/PWhiddy/Fat-Clouds) - GPU Fluid Simulation with Volumetric Rendering.
+- [Understanding Latency Hiding on GPUs (2016)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf) ([HN](https://news.ycombinator.com/item?id=23379709))
+- [Harlan](https://github.com/eholk/harlan) - Domain specific language for programming GPUs.
+- [Region-based memory management for expressive GPU programming (2015)](https://blog.theincredibleholk.org/papers/dissertation.pdf)
+- [Fast 2D rendering on GPU (2020)](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html) ([HN](https://news.ycombinator.com/item?id=23512897))
+- [Nyuzi Processor](https://github.com/jbush001/NyuziProcessor) - Experimental GPGPU processor hardware design focused on compute intensive tasks. It is optimized for use cases like deep learning and image processing.
+- [Reyes Rendering on the GPU (2015)](https://markussteinberger.net/papers/GPUReyes.pdf) ([HN](https://news.ycombinator.com/item?id=23572626))
+- [Compressed GPU texture formats – a review and compute shader decoders (2020)](https://themaister.net/blog/2020/08/12/compressed-gpu-texture-formats-a-review-and-compute-shader-decoders-part-1/)
+- [GPU Compute Basic Algorithms - MLIR](https://llvm.discourse.group/t/gpu-compute-basic-algorithms/1281)
+- [Which GPUs to get for deep learning (2020)](https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/) ([HN](https://news.ycombinator.com/item?id=24400603))
+- [KodeLife](https://hexler.net/products/kodelife) - Real-time GPU shader editor.
+- [Getting Started with GPU Computing in Anaconda (2017)](https://www.anaconda.com/blog/getting-started-with-gpu-computing-in-anaconda)
+- [gpu-distance-field](https://github.com/ryankaplan/gpu-distance-field) - TypeScript library for generating distance fields from 2d images on the GPU.
+- [Gradient Free Cloud GPUs](https://gradient.paperspace.com/free-gpu)
+- [Object Detection from 9 FPS to 650 FPS in 6 Steps (2020)](https://paulbridger.com/posts/video_analytics_pipeline_tuning/) ([HN](https://news.ycombinator.com/item?id=24738835))
+- [Object Detection at 1840 FPS with TorchScript, TensorRT and DeepStream (2020)](https://paulbridger.com/posts/video-analytics-deepstream-pipeline/) ([HN](https://news.ycombinator.com/item?id=24817173))
+- [GPU-Accelerated ODE Solving in R with Julia, the Language of Libraries (2020)](http://www.stochasticlifestyle.com/gpu-accelerated-ode-solving-in-r-with-julia-the-language-of-libraries/)
+- [Detect GPU](https://github.com/TimvanScherpenzeel/detect-gpu) - Classify GPU's based on their benchmark score in order to provide an adaptive experience.
+- [Moana Motunui Renderer on GPU (2020)](https://www.render-blog.com/2020/10/03/gpu-motunui/) ([HN](https://news.ycombinator.com/item?id=24833218)) ([Code](https://github.com/chellmuth/gpu-motunui))
+- [GPUs on a Raspberry Pi Compute Module 4 (2020)](https://www.youtube.com/watch?v=ikpgZu6kLKE)
+- [Installing the world’s worst video card (2020)](https://www.youtube.com/watch?v=2iURr3NBprc) ([Lobsters](https://lobste.rs/s/n45htv/installing_world_s_worst_video_card))
+- [Let’s build a video card](https://eater.net/vga) - Video series on how VGA signals work and building a circuit that provides the correct timing of sync signals so that a monitor recognizes the signal and displays an image stored on an EEPROM.
+- [NVIDIA Research](https://www.nvidia.com/en-us/research/) ([GitHub](https://github.com/NVlabs))
+- [Umpire](https://github.com/LLNL/Umpire) - Application-focused API for memory management on NUMA & GPU architectures.
+- [GPUVis](https://github.com/mikesart/gpuvis) - GPU Trace Visualizer.
+- [Cloud GPU Vendors](https://github.com/binga/cloud-gpus) - Compares on-demand GPU vendors to help Machine Learning practitioners pick their preferred platform.
+- [GPGPU-Sim](https://github.com/gpgpu-sim/gpgpu-sim_distribution) - Provides a detailed simulation model of contemporary NVIDIA GPUs running CUDA and/or OpenCL workloads.
+- [ArrayFire](https://github.com/arrayfire/arrayfire) - General purpose GPU library. ([Web](https://arrayfire.com/))
+- [AMD ROCm Platform Docs](https://rocmdocs.amd.com/en/latest/) - Open-source software development platform for HPC/Hyperscale-class GPU computing. ([Code](https://github.com/RadeonOpenCompute/ROCm))
+- [Dissecting the Apple M1 GPU (2021)](https://rosenzweig.io/blog/asahi-gpu-part-1.html) ([HN](https://news.ycombinator.com/item?id=25673631))
+- [Dissecting the Apple M1 GPU: Part 2 (2021)](https://rosenzweig.io/blog/asahi-gpu-part-2.html) ([HN](https://news.ycombinator.com/item?id=25873887))
+- [Asahi GPU](https://github.com/AsahiLinux/gpu) - Research for an open source graphics stack fo Apple M1.
+- [Understanding GPU caches (2021)](https://rastergrid.com/blog/gpu-tech/2021/01/understanding-gpu-caches/)
+- [Security of the Intel Graphics Stack (2021)](https://igor-blue.github.io/2021/02/10/graphics-part1.html)
+- [LambdaCube 3D](https://github.com/lambdacube3d/lambdacube-compiler) - Haskell-like purely functional domain specific language for programming the GPU. ([Web](http://lambdacube3d.com/))
+- [Apple GPU architecture docs and tools](https://github.com/dougallj/applegpu)
+- [GPA](https://github.com/Jokeren/GPA) - GPU Performance Advisor.
+- [Vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs. ([HN](https://news.ycombinator.com/item?id=26754351))
+- [Patterns and behaviors for GPU computing](https://github.com/moderngpu/moderngpu)
+- [Faster Rendering Using Hardware Acceleration (2021)](https://www.sublimetext.com/blog/articles/hardware-accelerated-rendering)
+- [NVTOP](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool.
+- [gpustat](https://github.com/wookayin/gpustat) - Simple command-line utility for querying and monitoring GPU status.
+- [The stack monoid revisited (2021)](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
+- [Hash Functions for GPU Rendering (2021)](https://www.reedbeta.com/blog/hash-functions-for-gpu-rendering/) ([HN](https://news.ycombinator.com/item?id=27244209))
+- [NVIDIA Merlin](https://github.com/NVIDIA-Merlin/Merlin) - Open source library providing end-to-end GPU-accelerated recommender systems.
+- [Inferrd](https://inferrd.com/) - GPU-Accelerated Inference Hosting. ([HN](https://news.ycombinator.com/item?id=27817137))
+- [GPU architecture types explained (2021)](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
+- [Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
+- [Triton](https://github.com/openai/triton) - Open-Source GPU Programming for Neural Networks. ([Article](https://openai.com/blog/triton/)) ([HN](https://news.ycombinator.com/item?id=27985594))
+- [How do GPUs avoid false sharing? (2021)](https://www.reddit.com/r/GraphicsProgramming/comments/pi74sd/how_do_gpus_avoid_false_sharing/)
+- [GDRCopy](https://github.com/NVIDIA/gdrcopy) - Low-latency GPU memory copy library based on NVIDIA GPUDirect RDMA technology.
+- [RealTime 3D Strange Attractors scout on GPU](https://github.com/BrutPitt/glChAoS.P)
+- [NCCL](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication.
+- [How to train large models on many GPUs? (2021)](https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html) ([HN](https://news.ycombinator.com/item?id=28657797))
+- [Gentle introduction to GPUs inner workings (2021)](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/) ([HN](https://news.ycombinator.com/item?id=28728138))
+- [Heterogeneous Systems Course: Meeting 2: SIMD processors and GPU architecture (2021)](https://www.youtube.com/watch?v=fO8Yw1pmyyc)
+- [Implementing a GPU-driven debug line renderer (2021)](https://www.gijskaerts.com/wordpress/?p=190)
+- [Rendering on the Apple M1 Max Chip (2021)](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html) ([HN](https://news.ycombinator.com/item?id=28994800)) ([Reddit](https://www.reddit.com/r/apple/comments/qfogld/the_m1max_is_the_fastest_gpu_we_have_ever/)) ([Tweet](https://twitter.com/yiningkarlli/status/1452783165970386945))
+- [Ask HN: Will there ever be a vendor agnostic GPU interface? (2021)](https://news.ycombinator.com/item?id=29058681)
+- [NVIDIA Omniverse Platform](https://developer.nvidia.com/nvidia-omniverse-platform) - Scalable, multi-GPU real-time reference development platform for 3D simulation and design collaboration. ([GitHub](https://github.com/NVIDIA-Omniverse))
+- [AmgX](https://github.com/NVIDIA/AMGX) - Distributed multigrid linear solver library on GPU.
+- [GPU Accelerated Non-rigid ICP for surface registration](https://github.com/wuhaozhe/pytorch-nicp)
+- [Ricks-Lab GPU Utilities](https://github.com/Ricks-Lab/gpu-utils) - Set of utilities for monitoring GPU performance and modifying control settings.
+- [Watchmen](https://github.com/Spico197/watchmen) - Simple and easy-to-use toolkit for GPU scheduling.
+- [GPU-Accelerated Lossless Compression Survey](https://github.com/dingwentao/GPU-lossless-compression)
+- [RMM](https://github.com/rapidsai/rmm) - RAPIDS Memory Manager.
+- [Easy Scalable Text Rendering on the GPU (2016)](https://medium.com/@evanwallace/easy-scalable-text-rendering-on-the-gpu-c3f4d782c5ac)
+- [Capuchin: Tensor-based GPU Memory Management for Deep Learning](https://dl.acm.org/doi/abs/10.1145/3373376.3378505) ([Review](https://www.bodunhu.com/blog/posts/paper-review-capuchin-tensor-based-gpu-memory-management-for-deep-learning/))
+- [Nvidia GPUs Enable Simulation of a Living Cell (2022)](https://blogs.nvidia.com/blog/2022/01/20/living-cell-simulation/) ([HN](https://news.ycombinator.com/item?id=30113837))
+- [Writing an open source GPU driver – without the hardware (2022)](https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/) ([HN](https://news.ycombinator.com/item?id=30107002))
+- [Human GPU Exercises](https://github.com/luruke/human-gpu)
+- [NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes.
+- [DietGPU](https://github.com/facebookresearch/dietgpu) - GPU-based lossless compression for numerical data.
+- [BGPQ: A Heap-Based Priority Queue Design for GPUs (2021)](https://dl.acm.org/doi/fullHtml/10.1145/3472456.3472463) ([Code](https://github.com/srush/torch-queue))
+- [NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Build and run containers leveraging NVIDIA GPUs.
+- [BabelStream](https://github.com/UoB-HPC/BabelStream) - Measure memory transfer rates to/from global device memory on GPUs.
+- [Tool for messing around with Apple GPU assembly](https://github.com/tellowkrinkle/mtl-gpu-asmcheck)
+- [Introduction to GPUs with OpenGL (2022)](https://engineering.monstar-lab.com/en/post/2022/03/01/Introduction-To-GPUs-With-OpenGL/) ([HN](https://news.ycombinator.com/item?id=30583905))
+- [Rasterization in One Weekend (2018)](https://tayfunkayhan.wordpress.com/2018/11/24/rasterization-in-one-weekend-part-i/)
+- [Encase](https://github.com/teoxoy/encase) - Provides a mechanism to lay out data into GPU buffers according to WGSL's memory layout rules.
+- [RadeonTop](https://github.com/clbr/radeontop) - View your GPU utilization, both for the total activity percent and individual blocks.
+- [Vast.ai](https://vast.ai/) - Rent GPU Servers for Deep Learning and AI. ([FAQ](https://vast.ai/faq/)) ([HN](https://news.ycombinator.com/item?id=30736459))
+- [nvitop](https://github.com/XuehaiPan/nvitop) - Interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management.
+- [Nvidia Hopper GPU Architecture and H100 Accelerator (2022)](https://www.anandtech.com/show/17327/nvidia-hopper-gpu-architecture-and-h100-accelerator-announced) ([HN](https://news.ycombinator.com/item?id=30767586))
+- [Nvidia Grace CPU](https://www.nvidia.com/en-us/data-center/grace-cpu/) ([HN](https://news.ycombinator.com/item?id=30768704))
+- [NVIDIA Warp](https://github.com/NVIDIA/warp) - Python framework for writing high-performance simulation and graphics code.
+- [nvblox](https://github.com/nvidia-isaac/nvblox) - Signed Distance Functions (SDFs) on NVIDIA GPUs.
+- [Sparse Voxel Octree (Vulkan Version)](https://github.com/AdamYuan/SparseVoxelOctree) - GPU SVO Builder using rasterization pipeline, a efficient SVO ray marcher and a simple SVO path tracer.
+- [Ask HN: How does a CPU communicate with a GPU? (2022)](https://news.ycombinator.com/item?id=30860259)
+- [GPU Top](https://github.com/rib/gputop) - GPU profiling tool.
+- [Jetson Nano Developer Kit | Getting Started](https://github.com/uburuntu/jetson-startup)
+- [GPU Performance API for AMD GPUs](https://github.com/GPUOpen-Tools/gpu_performance_api)
+- [A Driver on the GPU (2022)](https://www.basnieuwenhuizen.nl/a-driver-on-the-gpu/)
+- [wgpu-py](https://github.com/pygfx/wgpu-py) - Next generation GPU API for Python.
+- [NVIDIA Linux Open GPU Kernel Module Code](https://github.com/NVIDIA/open-gpu-kernel-modules) ([HN](https://news.ycombinator.com/item?id=31344981)) ([Article](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/))
+- [The Apple GPU and the impossible bug (2022)](https://rosenzweig.io/blog/asahi-gpu-part-5.html) ([HN](https://news.ycombinator.com/item?id=31367365))

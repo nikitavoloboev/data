@@ -1,0 +1,170 @@
+# Interviews
+
+[Your ultimate guide to interview preparation](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/) is an amazing guide that covers pretty much everything you need to know to prepare & pass a technical interview.
+
+[CodeSandbox](https://codesandbox.io/) or [Replit](https://replit.com/) are great platform for conducting live coding interviews for free.
+
+## Nice questions to ask
+
+- [What is the entire process for a one line change in code to make it to production?](https://twitter.com/jeremykahne/status/1469416655168196620)
+
+## Notes
+
+- [Never think that a job interview is a one-way interview. At least, personally, I always am interviewing the potential team as well. No, you don't have all the control as the interviewer.](https://twitter.com/jessfraz/status/989878115710263297)
+- [Under Satya Nadella, Microsoft has developed an "Alternative Interview Framework" that involves:](https://twitter.com/mjackson/status/1079502682807664640)
+  - 2 interviewers at a time
+  - sharing questions with candidates ahead of time
+  - working on actual problems the team is facing
+  - blind feedback
+- When trying to solve problems for understanding, don't blindly copy other's solutions. Read their solutions and take notes. Then reimplement from the notes.
+- [In my experience the best candidates speculate rather than giving up, ask appropriate clarifying questions, and take end-to-end ownership of each answer by synthesising disparate discussion into a coherent final explanation.](https://twitter.com/kieranmch/status/1215385877112815617)
+- [You don't need to know the answer (let's be honest, the interviewer didn't know it in details either) to actually talk about why the problem exists and what you understand about it.](https://news.ycombinator.com/item?id=24460286)
+- If you find someone who is capable of just getting things done and learning what they need to, that's all that matters. If they can google their way around and find the answer, then who cares what was in their brain the minute before, at the end of the day they solved the problem.
+- [Here's what I look for in an interview: 1. Clear communication. 2. The humility to say "I don't know". 3. Can discuss the tradeoffs of different approaches. 4. Seems excited to learn more and grow.](https://twitter.com/housecor/status/1383077932621557765)
+
+## Links
+
+- [My Tech Interviews Experience: Failures, Successes and Tips for you](https://patrickbalestra.com/blog/2018/08/06/my-tech-interviews-experience.html)
+- [How I landed offers from Microsoft, Amazon, and Twitter without an Ivy League degree](https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8)
+- [Data structures cheat sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b#file-the-technical-interview-cheat-sheet-md)
+- [Pramp](https://www.pramp.com/#/) - 1 hr online interviews where you interview someone and they interview you back.
+- [LeetCode](https://leetcode.com/) - Collection of 700+ interview coding challenges.
+- [Preparing for SRE interview](https://blog.balthazar-rouberol.com/preparing-the-sre-interview.html)
+- [Developer questions](https://github.com/ggomaeng/better-developer-quotes)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Complete computer science study plan to become a software engineer. ([HN](https://news.ycombinator.com/item?id=25445493))
+- [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
+- [The Coding Interview by Palantir](https://www.palantir.com/the-coding-interview/) - Great tips.
+- [How to ace a phone interview](https://www.palantir.com/2012/09/how-to-ace-a-phone-interview/)
+- [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews)
+- [Tech Interview Handbook](https://techinterviewhandbook.org/introduction) ([HN](https://news.ycombinator.com/item?id=20727126)) ([Code](https://github.com/yangshun/tech-interview-handbook)) ([HN](https://news.ycombinator.com/item?id=28280855))
+- [Interview Map](https://github.com/KieSun/InterviewMap) - A map that can help you make a better preparation for the next interview.
+- [Full stack Developer Interview Questions & Answers](https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers)
+- [Prepare for interview in 1 week advice](https://news.ycombinator.com/item?id=17755688)
+- [Everything you need to prepare for your technical interview](https://github.com/andreis/interview)
+- [HN: Google's interview system: it's not about solving the problem (2018)](https://news.ycombinator.com/item?id=18374938)
+- [Interviewing At Jane Street (2014)](https://blog.janestreet.com/interviewing-at-jane-street/)
+- [Ask HN: What should an ideal developer interview process look like? (2018)](https://news.ycombinator.com/item?id=18585677)
+- [Salary Negotiation: Make More Money, Be More Valued (2012)](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+- [Interview tips from Google Software Engineers (2019)](https://www.youtube.com/watch?v=XOtrOSatBoY)
+- [I interviewed at six top companies in Silicon Valley in six days, and stumbled into six job offers (2019)](https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996) ([HN](https://news.ycombinator.com/item?id=18942572))
+- [How NOT to hire a software engineer (2019)](http://tonsky.me/blog/hiring/) ([HN](https://news.ycombinator.com/item?id=19541617))
+- [30 seconds of interviews](https://30secondsofinterviews.org/) - Curated collection of common interview questions to help you prepare for your next interview. [Code](https://github.com/30-seconds/30-seconds-of-interviews).
+- [You've probably seen a bunch of rants on why "do thing with linked list" is a terrible interview question. I'd like to explain why "do thing with linked list" is an interview question in the first place. Buckle up everyone, it's time for some history](https://mobile.twitter.com/hillelogram/status/962424365819277312)
+- [Reverse interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
+- [How to get into FAANG tips (2019)](https://drive.google.com/file/d/1tbQ74E5noNGS3ZarqAUMoErPasosilj7/view)
+- [CS Interview study sheet](https://github.com/kimberli/interviews)
+- [What I Learned From Conducting 500 Technical Interviews, Pt. 1: The Interviewer Skills Ladder (2019)](https://www.holloway.com/s/trh-what-i-learned-from-conducting-500-technical-interviews-part-1)
+- [Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- [Basic DS and algo question collection](https://www.reddit.com/r/cscareerquestions/comments/dqkr7o/basic_ds_and_algo_question_collection/)
+- [How to ask interviewers great questions (2019)](https://medium.com/otta-blog/how-to-ask-interviewers-great-questions-3a0add17ba42)
+- [Interview questions with Java solutions](https://github.com/mission-peace/interview/wiki)
+- [Algorithms interviews: theory vs. practice](https://danluu.com/algorithms-interviews/) ([HN](https://news.ycombinator.com/item?id=21961174))
+- [Software Engineering Interview Preparation](https://orrsella.gitbooks.io/soft-eng-interview-prep/content/)
+- [Preparing for a Facebook/Google Software Engineer Interview (2016)](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/)
+- [Preparing For a System Architecture Interview (2016)](https://orrsella.com/2016/05/28/preparing-for-a-system-architecture-interview/)
+- [Interview advice for software engineers (2020)](https://twitter.com/ASpittel/status/1214979863683174400)
+- [107+ Coding Interview Problems with Detailed Solutions in Go](https://github.com/hoanhan101/algo)
+- [Curation of great Leetcode questions, categorized by topic/concept](https://github.com/fterh/leetcode-curation-topical)
+- [The dystopian world of software engineering interviews (2020)](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) ([HN](https://news.ycombinator.com/item?id=22331804)) ([Lobsters](https://lobste.rs/s/lhijk2/horrifically_dystopian_world_software))
+- [Levels of Seniority](https://roadmap.sh/guides/levels-of-seniority) - How to Step Up as a Junior, Mid Level or a Senior Developer. ([HN](https://news.ycombinator.com/item?id=22390878))
+- [HN: Google Interviewing Process for Software Developer Role in 2020](https://news.ycombinator.com/item?id=22405372)
+- [My Coding Interview Style](https://amy.dev/?p=783)
+- [Interview experience posts](https://blog.rampatra.com/category/interview/)
+- [How to Interview an Executive](http://delian.io/lessons-2)
+- [Perfect questions to ask in your job interview](https://www.keyvalues.com/culture-queries)
+- [The Eng Hiring Bar: What the hell is it? (2020)](http://blog.interviewing.io/the-eng-hiring-bar-what-the-hell-is-it/)
+- [Questions to ask at the end of a technical interview (2017)](https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview) ([HN](https://news.ycombinator.com/item?id=22841164))
+- [How To Interview Engineers When You’re Not Technical](https://www.greghausheer.com/articles/how-to-interview-engineers-when-youre-not-technical) ([Part 2](https://www.greghausheer.com/articles/how-to-interview-engineers-when-youre-not-technical-part-ii)) ([HN](https://news.ycombinator.com/item?id=22855122))
+- [Cockroach Labs Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process)
+- [Metaview](https://metaview.app/) - Personal interviewer coaching.
+- [De-Coding The Interview Process book (2020)](https://gumroad.com/l/aUVXY) ([Web](https://technicalinterviews.dev))
+- [My Job Interview at Google (2008)](https://catonmat.net/my-job-interview-at-google) ([HN](https://news.ycombinator.com/item?id=23123035)) ([Lobsters](https://lobste.rs/s/qlluuf/my_job_interview_at_google_2008))
+- [Cracking the Coding Career: Building an Exceptional Career from Code Newbie to Senior Developer (2020)](https://gumroad.com/l/bAZJq)
+- [Advice for practicing problems for interview](https://twitter.com/aarondjents/status/1266149438554169344)
+- [CodeInterview](https://codeinterview.netlify.app/) - Home made solution and personal self-learning project for online coding interviews. ([Code](https://github.com/areebbeigh/codeinterview-backend))
+- [How to prepare for a startup interview (2020)](https://blog.otta.com/how-to-prepare-for-a-startup-interview-heres-what-the-best-10-of-candidates-are-doing/)
+- [interviewing.io](https://interviewing.io/) - Anonymous technical interview practice. ([Article](http://blog.interviewing.io/interviewing-io-is-out-of-beta-anonymous-technical-interview-practice-for-all/)) ([HN](https://news.ycombinator.com/item?id=23418910))
+- [Storytelling tips for technical interviews (2020)](https://stanete.com/storytelling-tips-technical-interviews) ([HN](https://news.ycombinator.com/item?id=23516751))
+- [Ask HN: How does one have the mindset to study for coding interviews? (2020)](https://news.ycombinator.com/item?id=23665452)
+- [Tell candidates what to expect from your job interviews (2020)](https://jvns.ca/blog/2020/06/30/tell-candidates-what-to-expect-from-your-job-interviews/) ([HN](https://news.ycombinator.com/item?id=23698299)) ([Lobsters](https://lobste.rs/s/dclrux/tell_candidates_what_expect_from_your_job))
+- [On Interviewing Programmers (2020)](https://thecobraeffect.blogspot.com/2020/07/interviewing-programmers.html) ([HN](https://news.ycombinator.com/item?id=23771948))
+- [How Firebase Interviewed Software Engineers (2019)](https://startupandrew.com/posts/how-firebase-interviewed-software-engineers/)
+- [Tech sector job interviews assess anxiety, not software skills: study (2020)](https://news.ycombinator.com/item?id=23848039) ([HN](https://news.ycombinator.com/item?id=23848039))
+- [What I learned from doing over 60 technical interviews in 30 days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky) ([HN](https://news.ycombinator.com/item?id=24017555))
+- [How to conduct a System Design Interview (2020)](https://robertovitillo.com/how-to-conduct-a-system-design-interview/)
+- [The Technical Interview is an Ego Trip (2020)](https://blog.kowsheek.com/the-technical-interview-is-an-ego-trip/) ([HN](https://news.ycombinator.com/item?id=24447182))
+- [List of company wise questions available on Leetcode premium](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)
+- [Ask HN: What is a better approach to interviewing? (2020)](https://news.ycombinator.com/item?id=24454866)
+- [Rewriting the Technical Interview (2020)](https://aphyr.com/posts/353-rewriting-the-technical-interview) ([Lobsters](https://lobste.rs/s/cvi4vc/rewriting_technical_interview))
+- [Lessons interviewing 200+ engineers: the perfect process to manage tech debt (2020)](https://blog.stepsize.com/the-perfect-process-to-manage-tech-debt/)
+- [Ask Me This Instead](https://www.holloway.com/b/ask-me-this-instead) - Flip the Interview to Land Your Dream Job.
+- [What an interview with Steve Jobs feels like (intimidating personality) (2020)](https://www.youtube.com/watch?v=ecKgqJRvZ5M)
+- [Reversing the technical interview (2017)](https://aphyr.com/posts/340-reversing-the-technical-interview) ([HN](https://news.ycombinator.com/item?id=24735062))
+- [EPI Judge](https://github.com/adnanaziz/EPIJudge) - Companion to our book Elements of Programming Interviews.
+- [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) - Curated list of lists of technical interview questions.
+- [Everything you need to know to get the job](https://github.com/kdn251/interviews)
+- [Protips for tech interviewing, especially for big teams or orgs (2020)](https://twitter.com/devonbl/status/1318944166651613185)
+- [What to Ask as a Candidate – How to Go Deeper Than “What’s the Culture Like?” (2020)](https://firstround.com/review/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/)
+- [AlgoExpert](https://www.algoexpert.io/product) - Resource to prepare for coding interviews. Everything you need, in one streamlined platform.
+- [Interview Often, Fail Often (2020)](https://ffhex.xyz/posts/interview-often-fail-often/)
+- [Interviews.school](https://interviews.school/) - Complete interview preparation guide.
+- [What I Learned From Bombing My Technical Interview (2020)](https://dev.to/ceeoreo/what-i-learned-from-bombing-my-technical-interview-22b5)
+- [Technical Interviewer's Checklist (2020)](https://jeffchen.dev/posts/Technical-Interview-Checklist/)
+- [Interview advice that got me offers](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/) ([HN](https://news.ycombinator.com/item?id=25519718))
+- [Facebook senior software engineer interview: the only post you’ll need to read (2021)](https://daqo.medium.com/facebook-senior-software-engineer-interview-the-only-post-youll-need-to-read-e4604ff2336d) ([HN](https://news.ycombinator.com/item?id=25658098))
+- [Important criterias and what do you expect to see during interviews (2021)](https://www.reddit.com/r/reactjs/comments/kuden7/those_of_you_who_interview_and_hire_developers/)
+- [Technical Interviews at ReadMe (2021)](https://twitter.com/gkoberger/status/1349142084511436801) ([Thread its based off](https://news.ycombinator.com/item?id=24457170))
+- [Welder](https://www.getwelder.com/) - Record high-quality content remotely. ([HN](https://news.ycombinator.com/item?id=25869864))
+- [Exponent](https://www.tryexponent.com/) - Interview Prep for PM, Engineering, and More.
+- [How to Pass a Software Engineering Coding Interview (2021)](https://www.danhacks.com/software/software-engineering-coding-interview.html)
+- [Technical Interview Preparation Checklist (2019)](https://trekhleb.dev/blog/2019/technical-interview-preparation-checklist/)
+- [Unpacking Interview Questions (2021)](https://jacobian.org/series/unpacking-interview-questions/) - Series sharing some of the questions I use when I interview for technical roles.
+- [What are some of the interviewing standards that you developed over time as a candidate? (2021)](https://twitter.com/kefimochi/status/1361385405401026560)
+- [Ask HN: Is it crazy that software developers have to study for interviews? (2021)](https://news.ycombinator.com/item?id=26183380)
+- [Apple’s tech interview scope for junior position (2021)](https://twitter.com/krzyzanowskim/status/1363640961318985729) ([HN](https://news.ycombinator.com/item?id=26222733))
+- [Comprehensive list of tech interview questions](https://github.com/twowaits/SDE-Interview-Questions)
+- [Fabian Tamp's experience of interviewing (2020)](https://www.interviews.computer/post/fabian-tamp)
+- [Red Flags I Saw While Doing 60 Technical Interviews in 30 Days (2021)](https://meekg33k.dev/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days-ckm53wt5f00avscs13xf9fhcs) ([HN](https://news.ycombinator.com/item?id=26426602))
+- [Questions for potential employers](https://github.com/tBaxter/questions-for-employers)
+- [Why Senior Engineers Hate Coding Interviews (2020)](https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757) ([Lobsters](https://lobste.rs/s/tw2pdg/why_senior_engineers_hate_coding))
+- [Do you have a framework for good engineering interview questions? (2021)](https://lobste.rs/s/c1e5ii/do_you_have_framework_for_good)
+- [Technical interview methods pale in comparison to playing Factorio with someone (2021)](https://erikmcclure.com/blog/factorio-is-best-interview-we-have/) ([HN](https://news.ycombinator.com/item?id=26591966)) ([Lobsters](https://lobste.rs/s/nwvm1p/factorio_is_best_technical_interview_we))
+- [Senior and Above Interviews at Big Tech and Startups](https://blog.pragmaticengineer.com/tech-interviews/)
+- [Questions to ask in a job interview that reveal company culture (2021)](https://www.fastcompany.com/90622890/10-questions-to-ask-in-a-job-interview-that-will-really-expose-a-companys-culture)
+- [Avoiding Leetcode Anxiety](https://leetcodetherapy.com/leetcode-anxiety) ([HN](https://news.ycombinator.com/item?id=26988811))
+- [Why did you choose to end interview early? (2021)](https://twitter.com/engineering_bae/status/1394676304537133069)
+- [FB interview process (2021)](https://twitter.com/GergelyOrosz/status/1395752623144374279)
+- [Do's and Don'ts in a Job Interview (2021)](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/nmhdyb/dos_and_donts_in_a_job_interview/)
+- [Complete FAANG Interview Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+- [Have you ever had/given a really good interview? (2021)](https://lobste.rs/s/1bwpi8/have_you_ever_had_given_really_good)
+- [Intern interview questions (2021)](https://boyter.org/posts/intern-interview-questions/)
+- [Best questions you ask to figure out if you’re speaking to the right person for the role (2021)](https://twitter.com/harryhurst/status/1415089258218627072)
+- [Technical Interview Preparation - YouTube](https://www.youtube.com/playlist?list=PLJBO5eOxvWcAytirt2nBWvFyZogOFm-wA)
+- [How do you prepare for interviews with behavioral questions? (2021)](https://www.reddit.com/r/cscareerquestionsEU/comments/ovpt5y/how_do_you_prepare_for_interviews_with_behavioral/)
+- [The rise of never-ending job interviews (2021)](https://www.bbc.com/worklife/article/20210727-the-rise-of-never-ending-job-interviews) ([HN](https://news.ycombinator.com/item?id=28031782))
+- [20 common interview questions, what they really mean, and how to nail them](https://twitter.com/SahilBloom/status/1423971814443819009)
+- [Tips on doing better at tech interviews (2021)](https://twitter.com/AdamRackis/status/1370874399390367756)
+- [Code Interviews (2021)](https://alaiacano.github.io/interviews/2021/08/11/interviews.html) ([HN](https://news.ycombinator.com/item?id=28435372))
+- [Как провести техническое интервью (2021)](https://twitter.com/andrey_sitnik/status/1440953541091278849)
+- [What I Look for in Interviews (2021)](https://mt165.co.uk/blog/how-i-interview/)
+- [Interviewing Advice from the Other Side of the Table (2020)](https://theorangeduck.com/page/interviewing-advice-from-other-side-table)
+- [Notes on interviewing candidates](https://www.remnote.com/a/interview/617fc61068286e00169b947a)
+- [Don’t do interviews, do discussions](https://thinkingthrough.substack.com/p/dont-do-interviews-do-discussions) ([HN](https://news.ycombinator.com/item?id=29141983))
+- [Accepted and ghosted: interviewing for a leadership position at Stripe (2021)](https://news.ycombinator.com/item?id=29387264)
+- [What I learned about interviewing](https://lanie.dev/tech/interviewing/) ([HN](https://news.ycombinator.com/item?id=29392032))
+- [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview) ([Code](https://github.com/Chanda-Abdul/Grokking-the-Coding-Interview-Patterns))
+- [Interview success can depend on how you schedule interviews](https://tanayagrawal.substack.com/p/how-to-schedule-interviews) ([HN](https://news.ycombinator.com/item?id=29474274))
+- [An Algorithm for Passing Programming Interviews](https://malisper.me/an-algorithm-for-passing-programming-interviews/) ([HN](https://news.ycombinator.com/item?id=29775023))
+- [14 Patterns to Ace Any Coding Interview Question (2019)](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [The MEGA Interview Guide](https://github.com/danieldelcore/mega-interview-guide) - MEGA interview guide, JavaSciript, Front End, Comp Sci.
+- [Interview questions to ask your interviewer](https://daveceddia.com/interview-questions-to-ask-company/) ([HN](https://news.ycombinator.com/item?id=30278290))
+- [I’ve done 2,000 interviews. AMA](https://twitter.com/Suhail/status/1494150182392385536)
+- [Caltech's CS interview prep course](http://courses.cms.caltech.edu/cs11/material/interviews/) ([HN](https://news.ycombinator.com/item?id=30492262))
+- [Why coding interviews aren't all that bad (2022)](https://eli.thegreenplace.net/2022/why-coding-interviews-arent-all-that-bad/)
+- [Backend SWE interview questions](https://github.com/tamhoang1412/backend-swe-interview-questions)
+- [Ask HN: When did 7 interviews become “normal”? (2022)](https://news.ycombinator.com/item?id=30889019)
+- [Exit Interviews Are a Trap (2022)](https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/) ([HN](https://news.ycombinator.com/item?id=30908551))
+- [Brandon Rohrer's interviewing AMA/tips](https://twitter.com/_brohrer_/status/1513274151800389641)
+- [The best engineering interview question I've ever gotten (2022)](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/) ([HN](https://news.ycombinator.com/item?id=31065143))
+- [In defense of coding interviews](https://biggestfish.substack.com/p/in-defense-of-coding-interviews) ([HN](https://news.ycombinator.com/item?id=31544997))
+- [InterviewKit](https://interviewkit.co/) - All-in-one tool for research interviews that saves you up to 80% of time.

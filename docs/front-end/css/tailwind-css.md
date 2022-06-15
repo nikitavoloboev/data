@@ -1,0 +1,157 @@
+---
+title: Tailwind CSS
+---
+
+# [Tailwind CSS](https://tailwindcss.com/)
+
+[Tailwind UI](https://tailwindui.com/), [Meraki UI](https://merakiui.com/components/) & [TailwindCSS Radix](https://tailwindcss-radix.vercel.app/) have nice components. [UI Devtools](https://www.ui-devtools.com/) is useful tool.
+
+[UnoCSS](https://uno.antfu.me/) is a [nice alternative](https://antfu.me/posts/reimagine-atomic-css).
+
+## Notes
+
+- [You can get all the Tailwind JIT goodness you like just by adding a single script tag to the head of your document.](https://twitter.com/lukejacksonn/status/1393563736942825481)
+- [Tailwind is best used in incremental steps: 1. Flesh out the UI first. 2. Notice the emerging CSS class usage patterns. 3. Abstract components out. Last step involves pulling all classes into an actual CSS file.](https://twitter.com/mareksuscak/status/1437579098591739904)
+- [The key to TailwindCSS is to avoid putting too many classes in one string. Just use classnames to merge them for you.](https://twitter.com/_vojto/status/1486967748081201155)
+
+## Links
+
+- [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
+- [Typed Tailwind](https://github.com/dvkndn/typed.tw) - Brings types to TailwindCSS via TypeScript.
+- [Tailwind with React (2020)](http://ryanlanciaux.com/blog/2020/01/02/tailwind-with-react/)
+- [Introduction to Tailwind and the Utility first workflow](https://egghead.io/playlists/introduction-to-tailwind-and-the-utility-first-workflow-0b697b10)
+- [tailwindcss-classnames](https://github.com/christianalfoni/tailwindcss-classnames) - Functional typed classnames for TailwindCSS. ([Video](https://www.youtube.com/watch?v=U972QdOrc9c))
+- [Twin](https://github.com/ben-rogerson/twin.macro) - Use Tailwind classes within any CSS-in-JS library. ([HN](https://news.ycombinator.com/item?id=25286564))
+- [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - React-native style system based on TailwindCSS.
+- [tailwind-rn](https://github.com/vadimdemedes/tailwind-rn) - Use Tailwind CSS in React Native projects.
+- [Headwind](https://github.com/heybourn/headwind) - Opinionated Tailwind CSS class sorter for Visual Studio Code.
+- [Tailwind Colors](https://tailwind-colors.meidev.co) - Tailwind CSS color configration tool. ([Code](https://github.com/ameistad/tailwind-colors))
+- [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation) - Beautiful extension for TailwindCSS. ([Code](https://github.com/creativetimofficial/tailwind-starter-kit))
+- [Figma Kit for TailwindCSS](https://www.figma.com/community/file/768809027799962739) ([Code](https://github.com/impulse/tailwindcss-figma-kit))
+- [React Native Tailwind](https://github.com/MythicalFish/react-native-tailwind) - Functional CSS classes for React Native.
+- [TailwindCSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin)
+- [TailBlocks](https://mertjf.github.io/tailblocks/) - Ready-to-use Tailwind CSS blocks. ([Code](https://github.com/mertJF/tailblocks))
+- [Tailwind CSS Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Tailwind CSS plugin that adds variants for dark mode.
+- [The origin story of Tailwind (2020)](https://twitter.com/adamwathan/status/1289645193038192641) ([HN](https://news.ycombinator.com/item?id=24031290))
+- [Tailwind Gradient Designer](https://tailwind-gradient-designer.csspost.com/) ([Code](https://github.com/jenstornell/tailwind-gradient-designer))
+- [Tailwind Ink](https://tailwind.ink/) - AI color palette generator for TailwindCSS. ([HN](https://news.ycombinator.com/item?id=24397183)) ([Code](https://github.com/dmarman/dmarman.github.io))
+- [Tailwind Studio](https://tailwind-studio.com/)
+- [Beginner Tailwind](https://beginnertailwind.com/) - Make good looking designs quickly. All without a single line of custom CSS. ([Intro](https://learn.better.dev/courses/beginner-tailwind/384541-getting-started/1263040-intro))
+- [Tailwind UI React extension](https://chrome.google.com/webstore/detail/tailwind-ui-react/binfindfddkgfibeajgkmjioklcgigjn/related)
+- [Headless UI](https://headlessui.dev/) - Unstyled, fully accessible UI components. ([Code](https://github.com/tailwindlabs/headlessui)) ([Article](https://blog.tailwindcss.com/headless-ui-unstyled-accessible-ui-components))
+- [Kitwind](https://kitwind.io/) - Marketplace of fully responsive, multi-purpose UI kits, built with Tailwind CSS.
+- [Kometa UI Kit](https://kitwind.io/products/kometa) - Over 130 sections, built with TailwindCSS.
+- [Tailwind CSS Resources you wish you had (2020)](https://dev.to/tracycss/tailwind-css-resources-you-wish-you-had-3i18)
+- [Statik UI](https://statik.ly/) - Modern UI kit based on Tailwind CSS.
+- [Why Tailwind CSS (2020)](https://dev.to/swyx/why-tailwind-css-2o8f) ([Tweet](https://twitter.com/swyx/status/1312603851581652994))
+- [Tailwind Play](https://play.tailwindcss.com/) - Official Tailwind CSS playground. ([Intro article](https://blog.tailwindcss.com/introducing-tailwind-play)) ([Code](https://github.com/tailwindlabs/play.tailwindcss.com)) ([HN](https://news.ycombinator.com/item?id=31692267))
+- [Sidewind](https://github.com/survivejs/sidewind) - Tailwind but for state. ([Docs](https://sidewindjs.com/))
+- [Tailwind CSS Custom Forms](https://github.com/tailwindlabs/tailwindcss-custom-forms) - Better base for styling form elements with Tailwind CSS.
+- [Tailwind UI CSS Components](https://tailwindui.com/components) - Collection of professionally designed, pre-built, fully responsive HTML snippets you can drop into your Tailwind projects.
+- [Tailwindo](https://github.com/awssat/tailwindo) - Convert Bootstrap CSS code to Tailwind CSS code.
+- [Setup Emotion to use Tailwind classes in Next.js (2020)](https://codedaily.io/tutorials/187/Setup-Emotion-to-use-Tailwind-classes-in-Nextjs)
+- [Oceanwind](https://github.com/lukejacksonn/oceanwind) - Compiles tailwind shorthand into css at runtime.
+- [Prettier Plugin Tailwind](https://github.com/Acidic9/prettier-plugin-tailwind) - Sort tailwind classes in HTML with Prettier.
+- [UI Devtools for Tailwind CSS](https://ui-devtools.com/)
+- [Tailwind versus BEM (2020)](https://thoughtbot.com/blog/tailwind-versus-bem)
+- [TailwindCSS v2.0 (2020)](https://blog.tailwindcss.com/tailwindcss-v2) ([HN](https://news.ycombinator.com/item?id=25140604))
+- [tailwindcssinjs](https://github.com/Arthie/tailwindcssinjs) - Packages for using Tailwind CSS with CSS-in-JS.
+- [emotion-tailwind-preflight](https://github.com/flogy/emotion-tailwind-preflight) - Merge the shiny TailwindCSS base styles into your CSS-in-JS project.
+- [Tailwind Builder](https://tailwind.build/) - Create Tailwind templates in minutes.
+- [Tailwind Classes Sorter](https://github.com/Acidic9/tailwind-classes-sorter) - Sort tailwind classes in order of default plugins.
+- [I Love Tailwind (2020)](https://mxstbr.com/thoughts/tailwind/) ([HN](https://news.ycombinator.com/item?id=25332101))
+- [Windy](https://usewindy.com/) - Transform every element on any website to Tailwind CSS.
+- [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.
+- [tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography) - Plugin that provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don't control.
+- [Beamwind](https://github.com/kenoxa/beamwind) - Collection of packages to compile Tailwind CSS like shorthand syntax into CSS at runtime.
+- [Twind](https://github.com/tw-in-js/twind) - Smallest, fastest, most feature complete Tailwind-in-JS solution in existence. ([Web](https://twind.dev/))
+- [Twind CLI](https://github.com/tw-in-js/twind-cli)
+- [Blog – Tailwind CSS](https://blog.tailwindcss.com/) ([Code](https://github.com/tailwindlabs/blog.tailwindcss.com))
+- [Tailwind UI Kit](https://www.tailwind-kit.com/) - Beautiful and large components kit for TailwindCSS. ([Code](https://github.com/Charlie85270/tail-kit))
+- [Tailwind Tools](https://www.tailwind-tools.com/) - Tailwind CSS Tools For Developers.
+- [RustyWind](https://github.com/avencera/rustywind) - CLI for organizing Tailwind CSS classes.
+- [Tails](https://devdojo.com/tails) - TailwindCSS Page Creator.
+- [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons) - Unique collection of Copy & Paste TailwindCSS buttons.
+- [Tailwind CSS for Rails](https://github.com/rails/tailwindcss-rails) - Makes it easy to use this CSS framework with the asset pipeline.
+- [tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) - Plugin that provides a basic reset for form styles that makes form elements easy to override with utilities. ([Web](https://tailwindcss-forms.vercel.app/))
+- [DaisyUI](https://daisyui.com/) - Tailwind CSS Components. ([Code](https://github.com/saadeghi/daisyui)) ([HN](https://news.ycombinator.com/item?id=28004515))
+- [Tailwind Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/) ([Code](https://github.com/javisperez/tailwindcolorshades))
+- [Wicked Blocks](https://blocks.wickedtemplates.com/) - Tailwind Blocks ready to copy-paste. ([HN](https://news.ycombinator.com/item?id=25866949))
+- [Why Tailwind Isn't for Me (2021)](https://dev.to/jaredcwhite/why-tailwind-isn-t-for-me-5c90)
+- [Universal Tokens for Tailwind](https://tw-tokens.netlify.app/) - Use Tailwind tokens as CSS variables, SASS map, SASS variables, ES module, JSON & Common JS module. ([Code](https://github.com/itaditya/tw-universal-tokens))
+- [windicss](https://github.com/voorjaar/windicss) - Next generation tailwindcss compiler.
+- [Windi CSS for Vite](https://github.com/windicss/vite-plugin-windicss) - On-demand TailwindCSS.
+- [Windi CSS](https://github.com/windicss/windicss) - Next generation Tailwind CSS compiler. ([Docs](https://windicss.netlify.app/)) ([Docs Code](https://github.com/windicss/docs))
+- [Windi Analysis](https://github.com/windicss/windicss-analysis) - Visual analyzer for Windi CSS. ([Web](https://analysis-demo.windicss.org/#/))
+- [updrafts.app](https://updrafts.app/) - Design & Prototype with Tailwind CSS.
+- [Tailwindize](https://quoorex.com/tailwindize/) - Convert any color into a Tailwind one.
+- [Nightwind](https://github.com/jjranalli/nightwind) - Automatic, customizable, overridable Tailwind dark mode plugin. ([Web](https://nightwindcss.com/))
+- [Why I Don't Like Tailwind CSS (2021)](https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/) ([Lobsters](https://lobste.rs/s/15ti7c/why_i_don_t_like_tailwind_css))
+- [Tailwind CSS JIT](https://github.com/tailwindlabs/tailwindcss-jit) - Just-in-time compiler for Tailwind CSS.
+- [Tailwind CSS JIT + Rails without Webpacker](https://github.com/domchristie/tailwindcss-jit-rails)
+- [From semantic CSS to Tailwind - Refactoring the Netlify UI codebase (2021)](https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/)
+- [Kimia-UI](https://kimia-ui.vercel.app/) - Collection of UI Components for React built with Tailwind CSS. ([Code](https://github.com/enochndika/kimia-UI))
+- [Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component) - Create Tailwind CSS React components like styled components with class names on multiple lines and conditional class rendering.
+- [Tailwind UI: Now with React + Vue support (2021)](https://blog.tailwindcss.com/tailwind-ui-now-with-react-and-vue-support) ([Tweet](https://twitter.com/adamwathan/status/1382391188993478656))
+- [Building React + Vue support for Tailwind UI (2021)](https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui) ([HN](https://news.ycombinator.com/item?id=26784484))
+- [Using Tailwind CSS's Headless UI for React (2021)](https://www.youtube.com/watch?v=CkIixGA1LqI)
+- [tailbuild](https://github.com/calebporzio/tailbuild) - Simple command to build a Tailwind CSS file for your project (with JIT compiling and watching).
+- [Tailwind JIT as a CDN](https://github.com/beyondcode/tailwind-jit-api) - Use the full power of Tailwind CSS' new JIT compiler by including one script tag to your HTML. ([Demo](https://twitter.com/marcelpociot/status/1387513006351953920))
+- [Tailwind Mobile](https://github.com/tailwind-mobile/tailwind-mobile) - Mobile UI components made with Tailwind CSS. ([Web](https://tailwind-mobile.com/))
+- [Sexism, Racism, Toxic Positivity, and TailwindCSS (2021)](https://dev.to/cher/sexism-racism-toxic-positivity-and-tailwindcss-cil)
+- [Moving From Tailwind To CSS Variables (2021)](https://mikerogers.io/2021/05/12/moving-from-tailwind-to-css-variables)
+- [TailwindCSS Stimulus Components](https://github.com/excid3/tailwindcss-stimulus-components) - Set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
+- [eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage.
+- [Best way to structure your classes and markup when building UIs with Tailwind CSS (2021)](https://twitter.com/adamwathan/status/1399473267606528005)
+- [tailwindcss/aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Plugin that provides a composable API for giving elements a fixed aspect ratio.
+- [Tailwind CSS Tutorial for Beginners (2020)](https://www.youtube.com/watch?v=4wGmylafgM4)
+- [TailwindCSS Converter](https://tailwind-converter.netlify.app/) - Convert CSS To Tailwind. ([Code](https://github.com/stevezease/tailwind-converter))
+- [Coming to Terms with Tailwind (2021)](https://johanronsse.be/2021/07/07/coming-to-terms-with-tailwind/) ([HN](https://news.ycombinator.com/item?id=27762072))
+- [tailwindcss-capsize](https://github.com/stormwarning/tailwindcss-capsize) - Tailwind CSS utility classes for trimming whitespace above & below capital letters.
+- [tailwind-merge](https://github.com/dcastil/tailwind-merge) - Utility function to efficiently merge Tailwind CSS classes in JS without style conflicts.
+- [Destack](https://destack-page.vercel.app/) - Build landing pages visually right in your Next.js project. Deploy them zero further configuration. ([Code](https://github.com/LiveDuo/destack))
+- [Most well-known sites you know of that use Tailwind CSS? (2021)](https://twitter.com/adamwathan/status/1441541303372693504)
+- [Tailory](https://rareblocks.xyz/) - Customize your website with rare, unique Tailwind components that are guaranteed to be different from the crowd. ([Twitter](https://twitter.com/_rareblocks))
+- [Wicked Blocks](https://wickedblocks.dev/) - Ready Made Tailwind CSS blocks, for your next project.
+- [Tailwind class madness. Never again. (2021)](https://itnext.io/tailwind-class-madness-never-again-75ec6ebfd3a0)
+- [Discord-Inspired Dashboard with Tailwind CSS](https://github.com/fireship-io/tailwind-dashboard)
+- [Goodbye CSS Modules, Hello TailwindCSS](https://www.polytomic.com/blog-posts/goodbye-css-modules-hello-tailwindcss) ([HN](https://news.ycombinator.com/item?id=29109881))
+- [artis3n.tailscale](https://github.com/artis3n/ansible-role-tailscale) - Ansible role to install and enable a Tailscale node.
+- [Create a Responsive Navbar using React and Tailwind (2021)](https://dev.to/franciscomendes10866/create-a-responsive-navbar-using-react-and-tailwind-3768)
+- [You don't need SVG! Creating animated loaders for content with Tailwind CSS (2021)](https://dev.to/koddr/you-dont-need-svg-creating-animated-loaders-for-content-with-tailwind-css-2cf0)
+- [People creating awesome Tailwind content (2021)](https://twitter.com/adamwathan/status/1460411877893287938)
+- [TailwindCSS Radix](https://tailwindcss-radix.vercel.app/) - Utilities and variants for styling Radix state. ([Code](https://github.com/ecklf/tailwindcss-radix))
+- [Tailwind TS Generator](https://github.com/mathieutu/tailwind-ts) - Generate Tailwind type from your own configuration.
+- [Tailwind CSS v3.0 (2021)](https://tailwindcss.com/blog/tailwindcss-v3) ([HN](https://news.ycombinator.com/item?id=29501110)) ([Tweet](https://twitter.com/tailwindcss/status/1469011535569821702))
+- [What's new in Tailwind CSS v3.0? (2021)](https://www.youtube.com/watch?v=mSC6GwizOag)
+- [tailwindui-crawler](https://github.com/kiliman/tailwindui-crawler) - Will crawl the tailwindui.com website and download all the components to the ./output folder.
+- [Effortless typography, even in dark mode — Tailwind CSS Typography v0.5 (2021)](https://www.youtube.com/watch?v=GEYkwfYytAM)
+- [Rebuilding iOS 15 with Tailwind CSS (2021)](https://www.youtube.com/watch?v=eSzNNYk7nVU)
+- [Animate CSS - Tailwind CSS Plugin](https://github.com/bentzibentz/tailwindcss-animate.css)
+- [Box Shadows for TailwindCSS](https://manuarora.in/boxshadows)
+- [Palette Generator and API for Tailwind CSS](https://tailwind.simeongriggs.dev/) ([Code](https://github.com/SimeonGriggs/tailwind-css-palette-generator)) ([Article](https://www.simeongriggs.dev/using-the-tailwind-css-palette-generator-and-api))
+- [HyperUI](https://hyperui.dev/) - Open Source Tailwind CSS Components. ([Code](https://github.com/markmead/hyperui))
+- [TailwindCSS Animation Snippets](https://snippets.alexandru.so/) ([Code](https://github.com/Pondorasti/tailwindcss-snippets))
+- [TailwindCSS Dash Docset](https://github.com/godbout/tailwindcss-dash-docset)
+- [I used Tailwind for the U in CUBE CSS and I liked it (2022)](https://piccalil.li/blog/i-used-tailwind-for-the-u-in-cube-css-and-i-liked-it/)
+- [Flowrift](https://flowrift.com/) - Beautifully designed Tailwind CSS UI blocks - view / copy / customize. ([Code](https://github.com/n6ai/flowrift))
+- [Tailwind CSS the Right Way](https://twitter.com/adamwathan/status/1492529040275693571)
+- [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - Tailwind CSS plugin for creating beautiful animations.
+- [TailwindCSS Prettier Plugin](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+- [Alpine.js and Tailwind HTML setup (2022)](https://danielms.site/blog/alpine.js-and-tailwind-html-setup/)
+- [twd](https://github.com/kt3k/twd) - Simple tailwind like CLI tool for deno.
+- [Tailwind CSS Nested Groups plugin](https://github.com/AndyOGo/tailwindcss-nested-groups) - Adds support nested groups to the group variant for any level deep by scoping them.
+- [Tailwind CSS Theming](https://github.com/innocenzi/tailwindcss-theming) - Tailwind CSS plugin for client-side theming using CSS variables, with dark mode support.
+- [Tailwind CSS](https://github.com/houseabsolute/tailwindcss-to-rust) - CLI tool that takes a CSS generated by TailwindCSS and generates Rust code with all available class names and modifiers.
+- [tailwindcss-constants](https://github.com/leo/tailwindcss-constants) - Apply TailwindCSS utilities only if they match a constant.
+- [Meraki UI Tailwind CSS Components](https://merakiui.com/components/) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode. ([Code](https://github.com/merakiui/merakiui))
+- [Tailwind Labeled Groups](https://github.com/onmax/tailwindcss-labeled-groups) - Plugin that allows to create multiple groups utilities such as group-card or group-1 and works with Tailwind 3 features and all variations.
+- [Tailwind Admin Template](https://github.com/davidgrzyb/tailwind-admin-template) - Admin dashboard template built with Tailwind and Alpine.js.
+- [Lemon Design](https://github.com/albingroen/lemon-design-react) - React component library based on Tailwind CSS.
+- [Tailwind CSS Logical](https://github.com/stevecochrane/tailwindcss-logical) - CSS Logical Properties and Values plugin for Tailwind CSS.
+- [Tailwind CSS Plugin Starter](https://github.com/maizzle/tailwindcss-plugin-starter) - Boilerplate for Tailwind CSS plugins.
+- [Tailwind CSS OpenType](https://github.com/stormwarning/tailwindcss-opentype) - Tailwind CSS utility classes for advanced typographic features.
+- [Xtend UI](https://xtendui.com/) - Custom UI made easy with simplicity and total freedom. ([Code](https://github.com/xtendui/xtendui))
+- [Windy Radix Palette](https://github.com/brattonross/windy-radix-palette) - Tailwind preset for bringing Radix Colors palette to Tailwind.
+- [Tailwind Components Collection](https://github.com/unlight/tailwind-components)
+- [Tailwind Utopia](https://github.com/cwsdigital/tailwind-utopia) - TailwindCSS plugin to generate interpolated fluid typographic and spacing scales as created by the generator utopia.fyi.

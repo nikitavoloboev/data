@@ -1,0 +1,437 @@
+---
+title: Haskell
+---
+
+# [Haskell](https://www.haskell.org)
+
+[This](https://www.scs.stanford.edu/16wi-cs240h/) is a nice course. [Haskell Weekly](https://haskellweekly.news/) is nice newsletter to stay up to date. [Introduction to Haskell IO](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html) is a good entry to show what Haskell is about.
+
+[Haskell for Working Programmers](https://github.com/liftM/haskell-for-working-programmers) is a nice intro.
+
+## OSS Haskell Tools
+
+- [Wordle.hs](https://github.com/jakesco/wordle-hs) - Play Wordle on the command line.
+
+## Notes
+
+- [Kinds are the types of types. Typeclasses are more like predicates or relations between types.](https://www.reddit.com/r/haskell/comments/8cdiql/isnt_a_typeclass_just_a_type_of_a_type/)
+- The fewer type parameters in a class, the better. Can you turn any into associated types? Can you split the class into two classes? Can you hive off some of the parameters into a superclass?
+- Don't worry about strictness until it's time to optimize.
+- Intuition about optimization tends to be bad. Before profiling, limit yourself to reasoning about complexity classes.
+- Don't judge haskell based on these definitions. They appear strange and crazy, but when you actually do stuff most of them turn out to be quite intuitive.
+  - Advice is to ignore these things. Don't read a million monad tutorials. Just play around and code something, you don't have to understand the monad-definition before you can use the do-notation. Try to ignore them. After a while you get an intuition and then the definitions will make sense.
+- Objects are a way to generalize reusability and composability (Interheritance, Encapsulation, Polymorphism) Haskell goes down a different route of reusability and composability that draws more from math than from object models. The real benefit to learning haskell is learning to think in that way rather than an object oriented or imperative way.
+- In Haskell, you could say that the type system is a syntactic method for classifying program phrases according to the kinds of values they compute.
+- Because Haskell (usually) only evaluates into [WHNF](https://wiki.haskell.org/Weak_head_normal_form) if you produce data constructors while doing the infinite recursion you can use infinite recursion.
+- If, while forcing a thunk, you see the same thunk being forced again, you can report infinite recursion.
+- [GADTs](https://en.wikibooks.org/wiki/Haskell/GADT) might give you a radically simple way to express things that rudimentary type systems like Go's cant express.
+- Haskell's type system lets you express a lot of domain specific invariants and logic in a statically verifiable manner.
+- Go is as type safe as haskell, the language doesn't allow invalid operations on data types. What people mean with "weak" is often expressivity. Go's enums sucks and it doesn't have ADTs or generic.
+  - When people talk about strong type system, they usually just mean expressivity, not safety.
+- [Basic ideas that Haskell encourages](https://www.reddit.com/r/haskell/comments/ibys0m/how_did_haskell_boost_your_productivity_or_change/)
+  1. Purity
+  2. Well typed programs
+  3. Separation of IO and logic
+  4. Immutability
+  5. Data is "transformed" using functions and function compositions
+- [Haskell does not have return or statements, only expressions.](https://users.rust-lang.org/t/why-semicolons/25074/8)
+  - It has do-notation, which resembles statements if you don’t squint too hard. But Haskell has very few syntactic elements, so there is no need to worry about disambiguating between e.g. a; [b].c and a[b].c like there is in Rust.
+- [All values are immutable and all functions are pure in Haskell, with the one exception of I/O monads.](https://users.rust-lang.org/t/why-semicolons/25074/9)
+- [Cabal works better with Nix and it's one less abstraction layer to debug](https://twitter.com/GabriellaG439/status/1471691584877912064)
+
+## Links
+
+- [Edward Kmett - Why Haskell? (2021)](https://www.youtube.com/watch?v=kNIcbsyu4zI)
+- [A Gentle Introduction to Haskell (2000)](https://www.haskell.org/tutorial/)
+- [CIS 194: Introduction to Haskell (2016)](https://www.seas.upenn.edu/~cis194/fall16/) ([Code](https://github.com/byorgey/haskell-course))
+- [Haskell Programming Book](https://haskellbook.com/)
+- [Learn Haskell Path](https://github.com/bitemyapp/learnhaskell)
+- [Thinking with Types by Sandy Maguire](https://leanpub.com/thinking-with-types) ([Notes](https://abhinavsarkar.net/posts/twt-notes-1/))
+- [How I Learned to Stop Worrying and Love the Type System](http://reasonablypolymorphic.com/blog/love-types/)
+- [Simon Peyton Jones - Closer to Nirvana](https://www.youtube.com/watch?v=xmjvOLlCdFU)
+- [Curry-Howard-Lambek correspondence](https://wiki.haskell.org/Curry-Howard-Lambek_correspondence)
+- [Theoretical foundations](https://wiki.haskell.org/Category:Theoretical_foundations)
+- [FP course](https://github.com/data61/fp-course)
+- [Russian Haskell book FAQ](https://www.ohaskell.guide/haskell-faq.html)
+- [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
+- [Please Don't Learn Category Theory to Learn Haskell](https://jozefg.bitbucket.io/posts/2013-10-14-please-dont-learn-cat-theory.html)
+- [How do you guys get anything done?](https://www.reddit.com/r/haskell/comments/5wb5qw/how_do_you_guys_get_anything_done/)
+- [If Haskell is so great, why hasn't it taken over the world? And the curious case of Go.](https://pchiusano.github.io/2017-01-20/why-not-haskell.html)
+- [Haskell IDE Engine](https://github.com/haskell/haskell-ide-engine) - Engine for haskell ide-integration.
+- [Of Ideas and men](http://reasonablypolymorphic.com/blog/ideas-and-men/)
+- [What is the track to mastering Haskell and where would it lead me professionally?](https://www.quora.com/profile/Edward-Kmett)
+- [Nix and Haskell in production](https://github.com/Gabriel439/haskell-nix)
+- [Revisiting Combinators by Edward Kmett](https://www.youtube.com/watch?v=PA1Fc7DNKtA)
+- [Haskell Programming From First Principles - Follow-up Resources](https://github.com/pushcx/hpffp-resources) ([Solutions](https://github.com/Anton-Latukha/Haskell-Programming-From-First-Principles))
+- [Quchen's articles](https://github.com/quchen/articles)
+- [Haskell Design Patterns?](https://www.reddit.com/r/haskell/comments/5r271m/haskell_design_patterns/)
+- [Haskell companies](https://github.com/erkmos/haskell-companies) - Curated list of companies using Haskell in industry.
+- [Snack](https://github.com/nmattia/snack) - Nix-based incremental build tool for Haskell projects.
+- [What exactly makes the Haskell type system so revered (vs say, Java)?](https://softwareengineering.stackexchange.com/questions/279316/what-exactly-makes-the-haskell-type-system-so-revered-vs-say-java)
+- [HN: Introducing Haskell to a Company](https://news.ycombinator.com/item?id=18118874)
+- [Haskell's kind system - a primer](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
+- [Fused effects](https://github.com/robrix/fused-effects) - Fast, flexible, fused effect system for Haskell.
+- [Examples of Dependently-typed programs in Haskell](https://github.com/sweirich/dth)
+- [haskell-lsp](https://github.com/alanz/haskell-lsp) - Haskell library for the Microsoft Language Server Protocol.
+- [Lambda World 2018 - Opening Keynote by Edward Kmett](https://www.youtube.com/watch?v=HGi5AxmQUwU)
+- [Haskell Source Extensions](https://github.com/haskell-suite/haskell-src-exts) - Package for handling and manipulating Haskell source code.
+- [Haskeleton: a Haskell project skeleton](http://taylor.fausak.me/2014/03/04/haskeleton-a-haskell-project-skeleton/)
+- [Haskell ITMO course at CTDHaskell ITMO course at CTD](https://github.com/jagajaga/FP-Course-ITMO)
+- [Google's Haskell training: 101 and 102](https://github.com/google/haskell-trainings)
+- [brittany](https://github.com/lspitzner/brittany) - Haskell source code formatter.
+- [Stack](https://github.com/commercialhaskell/stack) - Cross-platform program for developing Haskell projects.
+- [List of Foundational Haskell Papers](https://github.com/cohomolo-gy/haskell-resources)
+- [hpack](https://github.com/sol/hpack) - Modern format for Haskell packages.
+- [Haskell Code Explorer](https://github.com/alexwl/haskell-code-explorer) - Web application for exploring and understanding Haskell codebases.
+- [static-haskell-nix](https://github.com/nh2/static-haskell-nix) - Easily build most Haskell programs into fully static Linux executables.
+- [Real World Haskell](http://book.realworldhaskell.org/read/)
+- [Real World Haskell updated to 2019](https://github.com/tssm/up-to-date-real-world-haskell)
+- [Higher-order Type-level Programming in Haskell (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/ho-haskell-5c8bb4918a4de.pdf) ([HN](https://news.ycombinator.com/item?id=19412667))
+- [Why Haskell?](https://github.com/github/semantic/blob/master/docs/why-haskell.md)
+- [Property-Based Testing in a Screencast Editor: Introduction (2019)](https://wickstrom.tech/programming/2019/03/02/property-based-testing-in-a-screencast-editor-introduction.html)
+- [Haskell Fan Site](http://www-cs-students.stanford.edu/~blynn/haskell/) ([HN](https://news.ycombinator.com/item?id=20255694))
+- [An opinionated beginner's guide to Haskell in mid 2019](https://github.com/theindigamer/not-a-blog/blob/master/opinionated-haskell-guide-2019.md)
+- [Why I (as of June 22 2019) think Haskell is the best general purpose language](http://www.philipzucker.com/why-i-as-of-june-22-2019-think-haskell-is-the-best-general-purpose-language-as-of-june-22-2019/)
+- [Ormolu](https://github.com/tweag/ormolu) - Formatter for Haskell source code. ([Announcement article](https://www.tweag.io/posts/2019-10-11-ormolu-first-release.html))
+- [Fourmolu](https://github.com/fourmolu/fourmolu) - Formatter for Haskell source code. Fork of Ormolu, with the intention to continue to merge upstream improvements.
+- [Koka](https://github.com/koka-lang/koka) - Function-oriented language with effect inference.
+- [Write You a Haskell](http://dev.stephendiehl.com/fun/) - Building a modern functional compiler from first principles.
+- [Write You a Haskell 2](https://github.com/JKTKops/Write-You-a-Haskell-2) - Continuation of Steven Diehl's Write You a Haskell.
+- [Verification with Refinement Types](https://ranjitjhala.github.io/CAV19-tutorial/00-outline.html)
+- [Hoogle](https://github.com/ndmitchell/hoogle) - Haskell API search engine.
+- [Haskell Papers](https://mitchellwrosen.github.io/haskell-papers/)
+- [Simon Peyton Jones how GHC type inference engine actually works (2019)](https://www.youtube.com/watch?v=x3evzO8O9e8)
+- [Chris Penner - Comonads by Example (2019)](https://www.youtube.com/watch?v=HOmOQnQGtPU&list=PLcAu_kKy-krxDD1WwRX_9rc0knAFK3nHs&index=7)
+- [Haskell Disappointment (2019)](https://gist.github.com/nrinaudo/b02d0d17f62b6babea60cb0b52ded287) ([Reddit](https://www.reddit.com/r/haskell/comments/cyfs94/someones_haskell_disappointment_gist_i_came_across/))
+- [MuniHac 2019: Making a Haskell IDE (2019)](https://www.youtube.com/watch?v=cijsaeWNf2E&list=PLxxF72uPfQVRdAsvj7THoys-nVj-oc4Ss) ([Slides](https://ndmitchell.com/downloads/slides-making_a_haskell_ide-07_sep_2019.pdf))
+- [ghcide](https://github.com/digital-asset/ghcide) - Library for building Haskell IDE tooling.
+- [llvm-hs](https://github.com/llvm-hs/llvm-hs) - Haskell bindings for LLVM.
+- [Releaser](https://github.com/domenkozar/releaser) - Automation of Haskell package release process.
+- [CodeWorld](https://github.com/google/codeworld) - Educational computer programming environment using Haskell.
+- [Summoner](https://github.com/kowainik/summoner) - Tool for scaffolding batteries-included production-level Haskell projects. ([Web](https://kowainik.github.io/projects/summoner))
+- ["Building Haskell Programs with Fused Effects" by Patrick Thomson (2019)](https://www.youtube.com/watch?v=vfDazZfxlNs)
+- [Haste Compiler](https://github.com/valderman/haste-compiler) - GHC-based Haskell to JavaScript compiler.
+- [What is Good About Haskell? (2019)](https://doisinkidney.com/posts/2019-10-02-what-is-good-about-haskell.html) ([HN](https://news.ycombinator.com/item?id=21145014))
+- [Learning Haskell is no harder than learning any other programming language (2019)](https://williamyaoh.com/posts/2019-10-05-you-are-already-smart-enough.html) ([HN](https://news.ycombinator.com/item?id=21170547)) ([Reddit](https://www.reddit.com/r/haskell/comments/ddsvbk/you_are_already_smart_enough_to_write_haskell/))
+- [Haskell eXchange 2019 talks](https://skillsmatter.com/conferences/11741-haskell-exchange-2019#skillscasts)
+- [Implementation of the Elm Architecture in Haskell with parallel side effects](https://github.com/lazamar/elm-architecture-haskell)
+- [Haskell in Production (2019)](http://felixmulder.com/writing/2019/10/05/Haskell-in-Production.html) ([HN](https://news.ycombinator.com/item?id=21282647))
+- [Beating Decades Of Optimized C With 80 Lines Of Haskell (2019)](https://chrispenner.ca/posts/wc) ([HN](https://news.ycombinator.com/item?id=21266201)) ([Lobsters](https://lobste.rs/s/l0lkyo/beating_decades_optimized_c_with_80_lines))
+- [Servant's type-level domain specific language (2019)](https://dev.to/bradparker/servant-s-type-level-domain-specific-language-52m8)
+- [Solutions to the Haskell Book exercises](https://github.com/kutyel/haskell-book) ([Solutions 2](https://github.com/yingw787/thehaskellbook))
+- [Runtime Support for Multicore Haskell](https://simonmar.github.io/bib/papers/multicore-ghc.pdf)
+- [GHC exercises](https://github.com/i-am-tom/haskell-exercises) - Little course to learn about some of the more obscure GHC extensions.
+- [Typing the technical interview (2017)](https://aphyr.com/posts/342-typing-the-technical-interview)
+- [Aelve Guide | Haskell](https://guide.aelve.com/haskell) - Wiki-like guide to Haskell ecosystem and community.
+- [rien](https://github.com/mrkgnao/rien) - Predictable Haskell development environments with Cabal and Nix.
+- [Confessions of a Used Programming Language Salesman Getting the Masses Hooked on Haskell](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.868&rep=rep1&type=pdf)
+- [Lambda World 2019 - Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
+- [Stay Tuned: Best Haskell Sources to Follow (2019)](https://serokell.io/blog/haskell-sources)
+- [A dead-simple web stack in Haskell (2019)](https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html) ([HN](https://news.ycombinator.com/item?id=21566546))
+- [simple-twitter](https://github.com/Gabriel439/simple-twitter) - Bare-bones Twitter clone implemented in a single file of Haskell deployed with Nix. ([HN](https://news.ycombinator.com/item?id=21599546)) ([Slides](https://github.com/Gabriel439/slides/blob/master/simple-twitter/slides.md))
+- [Boring Haskell Manifesto (2019)](https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto)
+- [HaskellR](https://github.com/tweag/HaskellR) - Full power of R in Haskell.
+- [A list of Haskell articles on good design, good testing (2019)](https://williamyaoh.com/posts/2019-11-24-design-and-testing-articles.html) ([PDF](https://github.com/oswald2/haskell_articles/blob/master/HaskellArticles_1_6.pdf))
+- [Is Haskell the functional end station or are there heavier drugs? (2019)](https://www.reddit.com/r/haskell/comments/e021oe/is_haskell_the_functional_end_station_or_are/)
+- [Dependently Typed Haskell in Industry (Experience Report) (2019)](https://www.youtube.com/watch?v=Q6PKdRDKcKA)
+- [Write Junior Code - A plea to Haskellers everywhere (2019)](https://www.parsonsmatt.org/2019/12/26/write_junior_code.html) ([Lobsters](https://lobste.rs/s/gdwjpc/plea_haskellers_everywhere_write_junior))
+- [The road to proficient Haskell (2020)](https://williamyaoh.com/posts/2020-01-11-road-to-proficient.html)
+- [Try the advanced stuff (2020)](https://williamyaoh.com/posts/2020-01-05-try-the-advanced-stuff.html)
+- [Design Patterns in Haskell (2010)](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
+- [Courting Haskell (2020)](https://honzajavorek.cz/blog/courting-haskell)
+- [Programming in Haskell book](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
+- [Static types are dangerously interesting](https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html) ([Lobsters](https://lobste.rs/s/6gzmym/static_types_are_dangerously))
+- [Let's Get Dangerous](https://www.reddit.com/r/haskell/comments/epkn0z/lets_get_dangerous/) ([Reddit](https://www.reddit.com/r/haskell/comments/epkn0z/lets_get_dangerous/))
+- [Functional Programming in Haskell (Stepik course notes) (2020)](https://hmemcpy.com/2020/01/functional-programming-in-haskell-stepik-course-notes-module-1/)
+- [Haskell Problems For a New Decade (2020)](http://www.stephendiehl.com/posts/decade.html) ([HN](https://news.ycombinator.com/item?id=22137120))
+- [Haskell performance checklist](https://github.com/haskell-perf/checklist)
+- [Setting up a Haskell development environment in minutes in Visual Studio Code (2020)](https://hmemcpy.com/2020/02/setting-up-a-haskell-development-environment-in-minutes-in-vscode/) ([Lobsters](https://lobste.rs/s/b1tltx/setting_up_haskell_development))
+- [Lessons learned from writing ShellCheck, GitHub’s now most starred Haskell project (2020)](https://www.vidarholen.net/contents/blog/?p=859) ([HN](https://news.ycombinator.com/item?id=22279585))
+- [What I wish I knew when learning Haskell](http://dev.stephendiehl.com/hask/) ([Code](https://github.com/sdiehl/wiwinwlh)) ([HN](https://news.ycombinator.com/item?id=22840211))
+- [Awesome Haskell Deep Learning](https://github.com/austinvhuang/awesome-haskell-deep-learning)
+- [Haskell Profile Highlight](https://github.com/Petrosz007/haskell-profile-highlight) - Color highlighting for Haskell profiling information.
+- [Story told by Type Errors](https://kodimensional.dev/type-errors)
+- [API design notes](https://gist.github.com/Gabriel439/563fa662f84e0a845c79775756cfce78) ([Video](https://www.twitch.tv/videos/581490043))
+- [Retrie](https://github.com/facebookincubator/retrie) - Powerful, easy-to-use codemodding tool for Haskell.
+- [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
+- [Learn You a Haskell for Great Good! (open-source)](https://learnyouahaskell.github.io/chapters.html) ([Code](https://github.com/learnyouahaskell/learnyouahaskell.github.io))
+- [Lessons in Managing Haskell Memory (2020)](https://tech.channable.com/posts/2020-04-07-lessons-in-managing-haskell-memory.html)
+- [Building a web app with functional programming - Haskell (2020)](https://blog.patchgirl.io/haskell/2020/03/08/haskell-part-I.html)
+- [haskell-language-server](https://github.com/haskell/haskell-language-server) - Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.
+- [Why Haskell Matters](https://github.com/thma/WhyHaskellMatters)
+- [Fast Fibonacci numbers using Monoids (2020)](http://www.haskellforall.com/2020/04/blazing-fast-fibonacci-numbers-using.html) ([HN](https://news.ycombinator.com/item?id=22946710))
+- [Permissive, then restrictive: learning how to design Haskell programs (2020)](https://williamyaoh.com/posts/2020-04-19-permissive-vs-restrictive.html)
+- [10 Reasons to Use Haskell (2020)](https://serokell.io/blog/10-reasons-to-use-haskell) ([Lobsters](https://lobste.rs/s/afq4js/10_reasons_use_haskell))
+- [Haskell Study Plan](https://github.com/soupi/haskell-study-plan)
+- [Examples of Incorrect Abstractions in Other Languages (2020)](https://www.reddit.com/r/haskell/comments/glz389/examples_of_incorrect_abstractions_in_other/) ([Lobsters](https://lobste.rs/s/ky2fu3/examples_incorrect_abstractions_non))
+- [Haskell Platform](https://github.com/haskell/haskell-platform) - Combination of the GHC compiler and core libraries, plus additional tools and libraries covering a range of common programming tasks.
+- [Stan](https://github.com/kowainik/stan) - Haskell static analyser. ([Talk](https://www.youtube.com/watch?v=wb5PLv6-e6I&list=PLBqWQH1MiwBSK9wuaATNS701c43VYVTuc&index=5))
+- [Software Design and Architecture in Haskell](https://github.com/graninas/software-design-in-haskell) - Structured set of materials. How to build real-world applications in Haskell. ([Other resources that are good, but not necessarry about Software Design](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf))
+- [The Pain Points of Haskell: A Practical Summary (2020)](https://dixonary.co.uk/blog/haskell/pain/) ([HN](https://news.ycombinator.com/item?id=23454352))
+- [nix-hs](https://github.com/pjones/nix-hs) - Thin layer over the existing Haskell infrastructure in nixpkgs which adds all of the tools needed for interactive development.
+- [Haskell for Imperative Programmers (2020)](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
+- [Haskell Zettelkasten](https://haskell.zettel.page/) - Seeks to be a comprehensive community-maintained knowledge-base for Haskell. ([Code](https://github.com/Kuratoro/haskell.zettel.page))
+- [Opening Ceremony & "Languages all the way down" by Rob Rix - ZuriHac 2020](https://www.youtube.com/watch?v=kCpQ4aTzlis) ([Code](https://github.com/robrix/languages-all-the-way-down))
+- [ZuriHac 2020](https://www.youtube.com/playlist?list=PLiU7KJ5_df6aZbNfh_TUJt-6w9N3rYkTX)
+- [Smuggler2](https://github.com/jrp2014/smuggler2) - Minimise haskell imports, make exports explicit.
+- [Alexis King - “Effects for Less” (2020)](https://www.youtube.com/watch?list=PLiU7KJ5_df6aZbNfh_TUJt-6w9N3rYkTX&v=0jI-AlWEwYI)
+- [A Generic Journey - Design Decisions about datatype-generic programming in Haskell (2020)](https://github.com/well-typed/gp-zurihac-2020/blob/master/GP.pdf)
+- [Linear types are merged in GHC (2020)](https://www.tweag.io/blog/2020-06-19-linear-types-merged/) ([Proposal](https://github.com/ghc-proposals/ghc-proposals/pull/111)) ([Lobsters](https://lobste.rs/s/lc20e3/linear_types_are_merged_ghc)) ([HN](https://news.ycombinator.com/item?id=23574072)) ([Drafts, notes](https://github.com/tweag/linear-types))
+- [GHC Proposals](https://github.com/ghc-proposals/ghc-proposals)
+- [Fundamental Haskell notes](https://blog.latukha.com/haskell-notes) ([Code](https://github.com/Anton-Latukha/haskell-notes))
+- [Haskell for a New Decade](http://dev.stephendiehl.com/new_decade.pdf) ([HN](https://news.ycombinator.com/item?id=23621080)) ([Talk](https://www.youtube.com/watch?v=B9_xAixGlmk)) ([Lobsters](https://lobste.rs/s/jbugyx/haskell_for_new_decade))
+- [IHP](https://ihp.digitallyinduced.com/) - Modern batteries-included Web Framework, built on top of Haskell and Nix. ([HN](https://news.ycombinator.com/item?id=23610527)) ([Code](https://github.com/digitallyinduced/ihp)) ([IHP Live Reloading: How it works](https://ihp.digitallyinduced.com/blog/2020-08-10-ihp-live-reloading.html)) ([Article](https://serokell.io/blog/ihp-interview))
+- [The power of IO in Haskell (2020)](https://www.47deg.com/blog/io-haskell/)
+- [JSON Parser 100% From Scratch in Haskell (only 111 lines) (2019)](https://www.youtube.com/watch?v=N9RUqGYuGfw)
+- [Learn Haskell in a couple of tweets (2020)](https://twitter.com/k0001/status/1277615394560360449)
+- [Kindness for Mean Girls: Primer on the cruel, tacit laws of type-level programming in Haskell (2020)](https://www.aymannadeem.com/haskell/2020/05/15/Kindness-for-Mean-Girls.html)
+- [Deploying statically-linked Haskell to Lambda (2020)](https://lazamar.github.io/deploying-statically-linked-haskell-to-lambda/)
+- [Retrie](https://github.com/facebookincubator/retrie/) - Powerful, easy-to-use codemodding tool for Haskell. ([Article](https://engineering.fb.com/open-source/retrie/))
+- [cabal-edit](https://github.com/sdiehl/cabal-edit) - Utility for managing Hackage dependencies from the command line.
+- [The Haskell Elephant in the Room](https://www.stephendiehl.com/posts/crypto.html) ([HN](https://news.ycombinator.com/item?id=23997667))
+- [How Haskell threads block (2020)](https://www.wjwh.eu/posts/2020-07-10-haskell-thread-blocked.html)
+- [Time Traveling In Haskell: How It Works And How To Use It (2020)](https://danilafe.com/blog/haskell_lazy_evaluation/)
+- [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
+- [A philosophical difference between Haskell and Lisp (2015)](https://chrisdone.com/posts/haskell-lisp-philosophy-difference/) ([HN](https://news.ycombinator.com/item?id=24031376))
+- [Haskell Implementors’ Workshop papers/talks (2020)](https://icfp20.sigplan.org/home/hiw-2020)
+- [Designing a React Hooks style TUI lib from scratch (2020)](https://www.youtube.com/watch?v=xiBSb0A_3SQ)
+- [hinc](https://serras.github.io/hinc/) - Haskell In New Clothes. Braces-and-parens syntax for your favorite language. ([HN](https://news.ycombinator.com/item?id=24090346)) ([Code](https://github.com/serras/hinc)) ([Why](https://github.com/serras/hinc/blob/master/why.md))
+- [Simon Peyton Jones - Elastic sheet-defined functions (2020)](https://www.youtube.com/watch?v=jH2Je6wUvPs&t)
+- [Haskell Love 2020 talks](https://www.youtube.com/playlist?list=PLBqWQH1MiwBSK9wuaATNS701c43VYVTuc) ([Web](https://haskell.love/)) ([Day 1](https://haskell.love/agenda-day-1/)) ([Day 2](https://haskell.love/agenda-day-2/))
+- [Haskel / Nix / hie / Stack template](https://github.com/Cmdv/haskell-nix-hie-template)
+- [ruHaskell](https://ruhaskell.org/) - Russian Haskell community. ([Code](https://github.com/ruHaskell/ruhaskell))
+- [Let’s write a Haskell Language Server plugin](https://github.com/pepeiborra/hls-tutorial)
+- [Haskell mini-patterns handbook](https://kowainik.github.io/posts/haskell-mini-patterns) ([Reddit](https://www.reddit.com/r/haskell/comments/ib9fe0/blog_post_haskell_minipatterns_handbook/)) ([HN](https://news.ycombinator.com/item?id=24196836))
+- [Describing Microservices using Modern Haskell (2020)](https://www.47deg.com/blog/mu-in-haskell-symposium/)
+- [Haskell MOOC](https://haskell.mooc.fi/material/)
+- [Design patterns in Haskell](https://gist.github.com/graninas/c71d2458d17bb8724b68dec6e38771c9)
+- [Building network actors with Node Framework](https://gist.github.com/graninas/9beb8df5d88dda5fa21c47ce9bcb0e16)
+- [Software Design Showcase Projects in Haskell](https://gist.github.com/graninas/49be74a21fbd58236bad28e1ce1eed94)
+- [Haskeller Competency Matrix](https://gist.github.com/graninas/833a9ff306338aefec7e543100c16ea1)
+- [What killed Haskell, could kill Rust, too (2020)](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b/c4e1b25cefe673a0c1d1bec4c24690121f31fa21) ([HN](https://news.ycombinator.com/item?id=24449927)) ([Lobsters](https://lobste.rs/s/hjgchi/what_killed_haskell_could_kill_rust_too))
+- [Haskell's Children (2020)](https://owenlynch.org/posts/2020-09-16-haskells-children/) ([HN](https://news.ycombinator.com/item?id=24565019)) ([Reddit](https://www.reddit.com/r/rust/comments/iyawej/haskells_children/))
+- [Understanding Haskell IO](https://github.com/Pauan/programming-notes/blob/master/JavaScript/Understanding%20Haskell's%20IO.rst)
+- [Haskell Vedanta](https://karma-engineering.com/lab/wiki/Haskell/Vedanta)
+- [JSON Parsing from Scratch in Haskell (2020)](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/)
+- [Fast Sudoku Solver in Haskell (2018)](https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-1/)
+- [Learn Haskell basics in 4 pull requests](https://github.com/kowainik/learn4haskell) ([Web](https://kowainik.github.io/projects/learn4haskell))
+- [Generalizing 'jq' and Traversal Systems using optics and standard monads (2020)](https://chrispenner.ca/posts/traversal-systems) ([HN](https://news.ycombinator.com/item?id=24710565))
+- [apply-refact](https://github.com/mpickering/apply-refact) - Refactor Haskell source files.
+- [Delivering with Haskell (2020)](https://medium.com/@fommil/delivering-with-haskell-a347d8359597) - Advice to teams that are interested in using Haskell, for the first time, to ship a project. ([Lobsters](https://lobste.rs/s/qeaqsu/delivering_with_haskell))
+- [Towards Tactic Metaprogramming in Haskell (2020)](https://reasonablypolymorphic.com/blog/towards-tactics/index.html) ([HN](https://news.ycombinator.com/item?id=24759649))
+- [Haskell: Monads. A 5-minute introduction (2020)](https://www.youtube.com/watch?v=_Gk_lwhJMzk)
+- [Channable - Bottlenecked on Haskell's text library (2020)](https://tech.channable.com/posts/2020-10-15-bottlenecked-on-haskells-text.html)
+- [LiquidHaskell](https://github.com/ucsd-progsys/liquidhaskell) - Liquid Types For Haskell.
+- [Why Fintech Companies Use Haskell (2020)](https://serokell.io/blog/functional-programming-in-fintech)
+- [cake-slayer](https://github.com/kowainik/cake-slayer) - Architecture of Haskell backend applications. ([Web](https://kowainik.github.io/projects/cake-slayer))
+- [Haskell Playground](https://github.com/g-r-a-n-t/haskell-playground) - Number of partially finished math-related projects in Haskell.
+- [Call stacks aren't really call stacks (2020)](https://0xd34df00d.me/posts/2020/08/callstacks.html)
+- [Statically safe dynamic typing a la Python (2019)](https://0xd34df00d.me/posts/2019/06/statically-safe-dynaming-typing.html)
+- [Refined types + dependent types = ♥️](https://github.com/0xd34df00d/refinedt)
+- [Intro to type-level programming in Haskell (2020)](http://matija.me/2020/07/04/haskell-type-lvl-programming-intro/)
+- [Haskell Fan Site](https://crypto.stanford.edu/~blynn/haskell/)
+- [Haskell: The Bad Parts (2020)](https://www.snoyman.com/blog/2020/10/haskell-bad-parts-1) ([Reddit](https://www.reddit.com/r/haskell/comments/jjl4hy/haskell_the_bad_parts_part_1/))
+- [Haskell: The Bad Parts, part 2 (2020)](https://www.snoyman.com/blog/2020/11/haskell-bad-parts-2) ([Lobsters](https://lobste.rs/s/lcvfey/haskell_bad_parts_part_2))
+- [Haskell exercises](https://github.com/neongreen/haskell-ex)
+- [Whole Haskell is Best Haskell (2020)](https://semantic.org/post/whole-haskell-is-best-haskell/) ([Reddit](https://www.reddit.com/r/haskell/comments/jmqow4/whole_haskell_is_best_haskell/))
+- [Haskell Foundation](https://haskell.foundation/) ([New Chapter For Haskell: The Haskell Foundation](https://haskell.foundation/whitepaper/)) ([Reddit AMA](https://www.reddit.com/r/haskell/comments/jnwg7i/haskell_foundation_ama/)) ([Announcement Talk](https://www.youtube.com/watch?v=MEmRarBL9kw)) ([Website Code](https://github.com/haskellfoundation/haskell.foundation)) ([Web Code](https://github.com/haskellfoundation/haskellfoundation.github.io))
+- [Real World Haskell](https://mmhaskell.com/real-world) ([HN](https://news.ycombinator.com/item?id=25005525))
+- [Haskell via Sokoban](https://haskell-via-sokoban.nomeata.de/)
+- [Consider Haskell (2020)](https://gilmi.me/blog/post/2020/04/28/consider-haskell)
+- [Learning Haskell by building a static blog generator](https://lhbg-book.link/) ([Code](https://github.com/soupi/learn-haskell-blog-generator)) ([HN](https://news.ycombinator.com/item?id=31664501))
+- [Haskell Proposal: Simplify Deriving (2020)](https://www.parsonsmatt.org/2020/11/10/simplifying_deriving.html)
+- [Pure destination-passing style in Linear Haskell (2020)](https://www.tweag.io/blog/2020-11-11-linear-dps/) ([HN](https://news.ycombinator.com/item?id=25075718))
+- [Haskell IDE Engine for Nix](https://github.com/Infinisil/all-hies) - Provides cached Nix builds for Haskell IDE Engine.
+- [How I learned Haskell (2017)](https://kseo.github.io/posts/2017-01-27-how-i-learned-haskell.html)
+- [Haskell Weekly](https://haskellweekly.news/) - Publishes curated news about the Haskell programming language. ([Code](https://github.com/haskellweekly/haskellweekly))
+- [Haddock](https://www.haskell.org/haddock/) - Haskell Documentation Tool. ([Code](https://github.com/haskell/haddock))
+- [Haskell Learning Resources](https://github.com/sassela/haskell-learning) - Opinionated list of resources for learning Haskell, from absolute (programming) beginner level to advanced.
+- [Haskell memoization and evaluation model (2020)](https://bor0.wordpress.com/2020/12/11/haskell-memoization-and-evaluation-model/)
+- [izuna](https://github.com/matsumonkie/izuna) - Enhances Haskell code review for Github.
+- [Foo to Bar: Naming Conventions in Haskell (2020)](https://kowainik.github.io/posts/naming-conventions)
+- [Try.do for recoverable errors in Haskell (2020)](https://chrisdone.com/posts/try-do/)
+- [Learnings from Solving Advent of Code 2020 in Haskell](https://notes.abhinavsarkar.net/2020/aoc-learnings) ([Reddit](https://www.reddit.com/r/haskell/comments/klspv9/learnings_from_solving_advent_of_code_2020_in/))
+- [Superpowered keyword args in Haskell (2020)](https://www.kovach.me/Superpowered_keyword_args_in_Haskell.html)
+- [Haskell doesn't have macros (2020)](https://chrisdone.com/posts/haskell-doesnt-have-macros/)
+- [Haskell Tips Twitter](https://twitter.com/HaskellTips) - Tips, tricks and hacks.
+- [ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC+musl for static executables.
+- [GHC 9.0, supporting linear types (2020)](https://discourse.haskell.org/t/glasgow-haskell-compiler-9-0-1-rc1-now-available/1706) ([HN](https://news.ycombinator.com/item?id=25582746))
+- [Verifying the Titular Properties of a Leftist Heap (2019)](https://dodisturb.me/posts/2019-10-03-Verifying-the-Titular-Properties-of-a-Leftist-Heap.html)
+- [Artyom's Haskell toolbox — a long list of tools/libraries I use](https://tek.brick.do/2f53d74a-1538-421a-b017-0155b1e164c6) ([Reddit](https://www.reddit.com/r/haskell/comments/kp9pg0/artyoms_haskell_toolbox_a_long_list_of/))
+- [Lessons Learned From A Year Of Writing Haskell (2021)](https://wespiser.com/posts/2021-01-03-Lessons-Learned-From-A-Year-Of-Haskell.html)
+- [The Evolution of a Haskell Programmer (2001)](http://willamette.edu/~fruehr/haskell/evolution.html) ([HN](https://news.ycombinator.com/item?id=25639717))
+- [graphmod](https://github.com/yav/graphmod) - Utility for displaying the module dependencies of Haskell programs.
+- [Haskell is a Bad Programming Language (2020)](https://blog.shitiomatic.tech/post/haskell-is-a-bad-programming-language/) ([HN](https://news.ycombinator.com/item?id=25699574)) ([Lobsters](https://lobste.rs/s/ny9at0/haskell_is_bad_programming_language))
+- [Next-gen Haskell Compilation Techniques with Csaba Hruska (2021)](https://www.youtube.com/watch?v=jyaR8E325ok)
+- [Haskell In Haskell](https://github.com/cronokirby/haskell-in-haskell) - Trying to write an understandable implementation of Haskell, in Haskell.
+- [Why Haskell is our first choice for building production software systems (2021)](https://www.foxhound.systems/blog/why-haskell-for-production/) ([HN](https://news.ycombinator.com/item?id=25726588))
+- [Maybe Considered Harmful (2021)](https://rpeszek.github.io/posts/2021-01-16-maybe-harmful.html)
+- [Teaching Haskell means teaching important concepts (2021)](http://www.lambdabytes.io/posts/teachinghaskell/)
+- [Haskell Code Spot](https://github.com/grin-compiler/haskell-code-spot) - Visual tool to spot odd runtime behavior of Haskell programs.
+- [ghc.nix](https://github.com/alpmestan/ghc.nix) - Nix (shell) expression for working on GHC.
+- [Glasgow Haskell Compiler (GHC)](https://www.haskell.org/ghc/) - State-of-the-art, open source, compiler and interactive environment for the functional language Haskell. ([Code](https://github.com/ghc/ghc))
+- [A Tour of Go in Haskell](https://a-tour-of-go-in-haskell.syocy.net/en_US/index.html) - How to write the concurrency section of A Tour of Go in Haskell. ([Code](https://github.com/syocy/a-tour-of-go-in-haskell))
+- [Building DSLs in Haskell](https://github.com/stoeffel/haskell-simple-dsl-examples) - Simple playground for DSLs in Haskell.
+- [Parsing With Haskell Parser Combinators](https://lettier.github.io/parsing-with-haskell-parser-combinators/) ([Code](https://github.com/lettier/parsing-with-haskell-parser-combinators))
+- [GHC 9.0 Reading Guide](https://takenobu-hs.github.io/downloads/haskell_ghc_reading_guide.pdf)
+- [Haskell for all: Folds are constructor substitution (2021)](https://www.haskellforall.com/2021/02/folds-are-constructor-substitution.html)
+- [Haskell Tutorial and Cookbook](https://leanpub.com/haskell-cookbook/read)
+- [Reflections On Using Haskell For My Startup (2021)](https://alistairb.dev/reflections-on-haskell-for-startup/) ([HN](https://news.ycombinator.com/item?id=26176940)) ([Lobsters](https://lobste.rs/s/yiwg7l/reflections_on_using_haskell_for_my))
+- [Type inference for Haskell](http://jeremymikkola.com/posts/2019_01_01_type_inference_intro.html)
+- [Why Learn Haskell?](https://crypto.stanford.edu/~blynn/haskell/why.html) ([HN](https://news.ycombinator.com/item?id=26300741))
+- [Haskell Executable Sizes (2021)](https://dfithian.github.io/2021/02/28/haskell-executable-sizes.html) ([Lobsters](https://lobste.rs/s/li8oyx/haskell_executable_sizes))
+- [Emily Pillmore – Hulk SMASH: re-imagining the Maybe-monad and its design space (2020)](https://www.youtube.com/watch?v=4aQlFMvKgdc)
+- [Prune Juice](https://github.com/dfithian/prune-juice) - Prune unused Haskell dependencies. ([Article](https://dfithian.github.io/2021/03/08/pruning-unused-haskell-dependencies.html))
+- [Nixkell](https://github.com/pwm/nixkell) - Get your Haskell projects up and running with no fuss using Nix.
+- [Supercharge your handles using phantom types (2021)](https://luctielen.com/posts/supercharge_your_handles_with_phantom_types/)
+- [ghc-lib](https://github.com/digital-asset/ghc-lib) - GHC API, decoupled from GHC versions.
+- [Algebraic Graphs with Class (2017)](https://eprint.ncl.ac.uk/file_store/production/239461/EF82F5FE-66E3-4F64-A1AC-A366D1961738.pdf) ([Lobsters](https://lobste.rs/s/kiqwsk/algebraic_graphs_with_class))
+- [Haskell in Depth (2021)](https://www.manning.com/books/haskell-in-depth) ([Code](https://github.com/bravit/hid-examples))
+- [An introduction to typeclass metaprogramming (2021)](https://lexi-lambda.github.io/blog/2021/03/25/an-introduction-to-typeclass-metaprogramming/)
+- [Combining folds using semigroups (2021)](https://luctielen.com/posts/combining_folds_using_semigroups/)
+- [Easy Haskell Language Server Nix](https://github.com/jkachmar/easy-hls-nix)
+- [Haskell's Dangerous Functions](https://github.com/NorfairKing/haskell-dangerous-functions) - Documentation about Haskell's dangerous functions and a hlint config file to forbid them.
+- [Haskell Tool Stack](https://github.com/commercialhaskell/stack-templates) - Project templates for stack new.
+- [GHC Whole Program Compiler and External STG IR tooling](https://github.com/grin-compiler/ghc-whole-program-compiler-project)
+- [Z.Haskell](https://z.haskell.world/) - Fast/Concise/Modern Haskell Engineering Toolkits. ([GitHub](https://github.com/ZHaskell)) ([HN](https://news.ycombinator.com/item?id=26720551))
+- [The Benefits of Learning Haskell (2021)](https://alistairb.dev/benefits-of-learning-haskell/) ([Lobsters](https://lobste.rs/s/fxc0j9/benefits_learning_haskell))
+- [Products and sums, named and anonymous (2021)](https://osa1.net/posts/2021-04-10-sums-and-products.html)
+- [Continued Fractions in Haskell (2021)](https://cdsmithus.medium.com/continued-fractions-haskell-equational-reasoning-property-testing-and-rewrite-rules-in-action-77a16d750e3f) ([HN](https://news.ycombinator.com/item?id=26872463))
+- [Type-guided development and garden paths (2021)](https://frasertweedale.github.io/blog-fp/posts/2021-05-12-types-garden-path.html)
+- [GADTs for Dummies](https://wiki.haskell.org/GADTs_for_dummies) ([HN](https://news.ycombinator.com/item?id=27172843))
+- [Simple Haskell Handbook](https://leanpub.com/simple-haskell-book) - Project-driven approach to practical Haskell development.
+- [Haskell challenges](https://github.com/effectfully-ou/haskell-challenges) - Code challenges to solve with Haskell.
+- [Getting started with Haskell projects using Scotty (2021)](https://www.stackbuilders.com/tutorials/haskell/getting-started-with-haskell-projects-using-scotty/)
+- [Haskell project template using Nix + Flakes + VSCode (HLS)](https://github.com/srid/haskell-template)
+- [Using dependent types to write proofs in Haskell (2021)](https://janmasrovira.gitlab.io/ascetic-slug/post/haskell-proofs/)
+- [Objects (2021)](https://jeremykhawaja.com/post/objects/)
+- [The Fixed Point: Recursion, Laziness, and Haskell's fix function (2021)](https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html)
+- [Understanding Haskell Features Through Their Desugaring (2020)](https://serokell.io/blog/haskell-to-core)
+- [Collection of Notes on GHC](https://ghc-compiler-notes.readthedocs.io/en/latest/) ([Code](https://github.com/myuon/ghc-compiler-notes))
+- [Wingman for Haskell](https://haskellwingman.dev/) - Focus on the important stuff; delegate the rest. ([HN](https://news.ycombinator.com/item?id=29605708))
+- [Cabal2nix](https://github.com/NixOS/cabal2nix) - Generate Nix build instructions from a Cabal file.
+- [Past and Present of Haskell: Interview with Simon Peyton Jones (2021)](https://serokell.io/blog/past-and-present-of-haskell)
+- [Introduction to GUI programming in Haskell – Vladislav Zavialov (2020)](https://www.youtube.com/watch?v=k1aq8ikO-8Q)
+- [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) ([Code](https://github.com/paulcavallaro/typeclassopedia))
+- [Haskell Social Fediverse Nodes](https://www.haskell.social/)
+- [Calling C++ from Haskell (2021)](https://luctielen.com/posts/calling_cpp_from_haskell/)
+- [Supercharge your handles using phantom types (2021)](https://luctielen.com/posts/supercharge_your_handles_with_phantom_types/)
+- [Combining folds using semigroups (2021)](https://luctielen.com/posts/combining_folds_using_semigroups/)
+- [Bridging a typed and an untyped world (2021)](https://blog.noredink.com/post/657844755189972992/bridging-a-typed-and-an-untyped-world)
+- [Composable Data Validation with Haskell (2021)](https://www.foxhound.systems/blog/composable-data-validation/)
+- [Extensible Effects in the van Laarhoven Free Monad (2016)](https://aaronlevin.ca/post/136494428283/extensible-effect-stacks-in-the-van-laarhoven-free) ([HN](https://news.ycombinator.com/item?id=27981020))
+- [fromMaybe is Just a fold (2021)](https://danso.ca/blog/frommaybe-is-just-a-fold/)
+- [time-ghc-modules](https://github.com/codedownio/time-ghc-modules) - Analyzes how long it takes GHC to compile your Haskell modules, broken down by phase.
+- [Haskell for the Elm Enthusiast (2021)](https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast) ([HN](https://news.ycombinator.com/item?id=28081960))
+- [A Brief Intro to Monad Transformers (2021)](https://blog.cofree.coffee/2021-08-05-a-brief-intro-to-monad-transformers/)
+- [Namespaced De Bruijn indices (2021)](https://www.haskellforall.com/2021/08/namespaced-de-bruijn-indices.html)
+- [Quick and dirty backpropagation in Haskell (2021)](https://mazzo.li/posts/haskell-backprop-short.html)
+- ["Propositions as Types" by Philip Wadler (2015)](https://www.youtube.com/watch?v=IOiZatlZtGU) ([Lobsters](https://lobste.rs/s/owiqyg/propositions_as_types_2015))
+- [Distributed Systems in Haskell](https://yager.io/Distributed/Distributed.html) ([HN](https://news.ycombinator.com/item?id=28228987))
+- [HIW 2021 - YouTube](https://www.youtube.com/playlist?list=PLyrlk8Xaylp6_QTmXGuRe3lShaRGaMtgc)
+- [An Introduction to Type Level Programming (2021)](https://rebeccaskinner.net/posts/2021-08-25-introduction-to-type-level-programming.html) ([HN](https://news.ycombinator.com/item?id=28466709))
+- [Syd's rules for sustainable Haskell](https://github.com/NorfairKing/syds-rules-for-sustainable-haskell)
+- [HyperHaskell](https://github.com/HeinrichApfelmus/hyper-haskell) - Strongly hyped Haskell interpreter.
+- [The Incomplete Guide to Lazy Evaluation (in Haskell)](https://apfelmus.nfshost.com/articles/lazy-eval.html)
+- [The Operational Monad Tutorial](https://apfelmus.nfshost.com/articles/operational-monad.html)
+- [Haskell Wiki](https://en.wikibooks.org/wiki/Haskell)
+- [Nested strict data in Haskell](http://h2.jaguarpaw.co.uk/posts/nested-strict-data/) ([Lobsters](https://lobste.rs/s/hxrzm8/nested_strict_data_haskell))
+- [H2 Wiki](http://h2.jaguarpaw.co.uk/) - Wiki dedicated to Haskell, styled in homage to The C2 Wiki.
+- [A Short Overview of Typed Template Haskell (2021)](https://serokell.io/blog/typed-template-haskell-overview)
+- [Thunks, Sharing, Laziness: The Haskell Heap Visualized – Joachim Breitner (2021)](https://www.youtube.com/watch?v=I4lnCG18TaY)
+- [Haskdogs](https://hackage.haskell.org/package/haskdogs) - Generate tags file for Haskell project and its nearest deps. ([Reddit](https://www.reddit.com/r/haskell/comments/q7yi2f/easy_way_to_locally_navigate_into_source_code_of/))
+- [tree-sitter-haskell](https://github.com/tree-sitter/tree-sitter-haskell) - Haskell grammar for tree-sitter.
+- [Induction without core-size blow-up (a.k.a. Large records: anonymous edition) (2021)](https://well-typed.com/blog/2021/10/large-records-part-2/)
+- [Tuning Haskell RTS for Kubernetes (2021)](https://blog.noredink.com/post/666020751977168896/tuning-haskell-rts-for-kubernetes-part-1)
+- [Type-checking plugins, Part I: Why write a type-checking plugin? (2021)](https://www.tweag.io/blog/2021-10-21-tcplugins-1/)
+- [Ode to a Streaming ByteString Or: Lazy I/O without Shooting Yourself in the Foot (2021)](https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html) ([HN](https://news.ycombinator.com/item?id=29007035))
+- [Dont Worry Be Happy (2021)](https://blog.cofree.coffee/2021-10-29-dont-worry-be-happy/) ([Lobsters](https://lobste.rs/s/d2f3ze/dont_worry_be_happy))
+- [Best practices on how to be efficient with Haskell in production](https://github.com/wasp-lang/haskell-handbook)
+- [Explanation of eliminating left recursion in Haskell parsers](https://github.com/glebec/left-recursion)
+- [Using Haskell for scientific computing (2021)](https://twitter.com/Electricfire13/status/1455947842690830339)
+- [Why Co–Star Uses Haskell](https://www.costarastrology.com/why-haskell) ([HN](https://news.ycombinator.com/item?id=29119787))
+- [Simple, type-safe string formatting in Haskell (2021)](https://danso.ca/blog/type-safe-printf/)
+- [Hard things to figure out in Haskell (2021)](https://twitter.com/trupill/status/1454871730888093698)
+- [Löb and möb: strange loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md) ([Reddit](https://www.reddit.com/r/haskell/comments/qq7tki/l%C3%B6b_and_m%C3%B6b_strange_loops_in_haskell/))
+- [All about `deriving` in GHC (2021)](https://www.youtube.com/watch?v=xQFon5b2ABg)
+- [Applying File Changes with fix and GADTs (2021)](https://dfithian.github.io/2021/11/12/applying-file-changes-with-fix-and-gadts.html)
+- [A Beginner's Guide to Haskell](https://serras.github.io/haskell-exchange-2021/slides#1)
+- [A Beginner's Guide to Haskell and its Ecosystem (2021)](https://serras.github.io/haskell-exchange-2021/slides#1)
+- [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems) ([Code](https://github.com/DrearyLisper/99-haskell-problems))
+- [Median Heaps in Haskell (2021)](https://www.micahcantor.com/blog/median-heap-haskell/)
+- [Solving a few Leetcode questions in Haskell (2021)](https://www.micahcantor.com/blog/haskell-leetcode/)
+- [Learn Haskell, without the bullshit](https://github.com/alpacaaa/zero-bullshit-haskell)
+- [The Varieties of the Haskelling Experience (2021)](https://www.tweag.io/blog/2021-11-25-varieties-of-haskelling-experience/)
+- [What's current best practice for starting a project with Haskell? (2021)](https://www.reddit.com/r/haskell/comments/r2rir2/whats_current_best_practice_for_starting_a/)
+- [Haskell's Type System Standing Alone: an unusual programming language](https://vitez.me/hts-language) ([Reddit](https://www.reddit.com/r/haskell/comments/r9w293/haskells_type_system_standing_alone_an_unusual/))
+- [Parsing Layout, or: Haskell's Syntax is a Mess (2021)](https://amelia.how/posts/parsing-layout.html)
+- [Using Haskell as my shell (2021)](https://las.rs/blog/haskell-as-shell.html)
+- [Demystifying the state monad](https://hugopeters.me/posts/13/)
+- [Functional in the wild: typeclasses](https://hugopeters.me/posts/12/)
+- [Getting acquainted with Lens (2020)](https://encodepanda.com/posts/2020-12-15-getting-acquainted-with-lens.html)
+- [Type-level sharing in Haskell, now (2021)](https://well-typed.com/blog/2021/12/type-level-sharing-now/) ([Reddit](https://www.reddit.com/r/haskell/comments/rieyxu/new_blog_post_typelevel_sharing_in_haskell_now/))
+- [Haskell Beginners 2022 Course](https://kodimensional.dev/course) ([Exercises](https://github.com/haskell-beginners-2022/exercises)) ([Plan](https://github.com/haskell-beginners-2022/course-plan)) ([Slides](https://slides.com/haskellbeginners2022/)) ([Videos](https://www.youtube.com/playlist?list=PLOJjn67NeYg9cWA4hyIWcxfaeX64pwo1c))
+- [Applying Type-Level and Generic Programming in Haskell (2018)](https://github.com/kosmikus/SSGEP)
+- [Embedding effect systems in Haskell (2014)](http://tomasp.net/academic/papers/haskell-effects/)
+- [Policeman](https://github.com/kowainik/policeman) - Haskell PVP adviser.
+- [Parser Combinators in Haskell (2021)](https://serokell.io/blog/parser-combinators-in-haskell) ([HN](https://news.ycombinator.com/item?id=29649071))
+- [Gil Mizrahi's Talks/Slides on Haskell](https://github.com/soupi/rfc)
+- [Advent of Haskell: Denotational Design](https://github.com/bolt12/advent-of-haskell-dd)
+- [Jupyter adaptation of Learn You a Haskell for Great Good](https://github.com/jamesdbrock/learn-you-a-haskell-notebook)
+- [Nix builds of Haskell Language Server](https://github.com/shajra/haskell-hls-nix)
+- [CS240H: Functional Systems in Haskell (2016)](https://www.scs.stanford.edu/16wi-cs240h/)
+- [Halive](https://github.com/lukexi/halive) - Live recompiler for Haskell.
+- [Software Development Languages: Haskell](https://www.fosskers.ca/en/blog/haskell-software-dev) ([HN](https://news.ycombinator.com/item?id=30152930))
+- [Introduction to Free Monads (2022)](https://serokell.io/blog/introduction-to-free-monads)
+- [What do we actually need to know to be fluent in Haskell? (2022)](https://www.reddit.com/r/haskell/comments/shrdk9/what_do_we_actually_need_to_know_to_be_fluent_in/)
+- [Haskell for the Elm Enthusiast (2021)](https://dev.to/noredink/haskell-for-the-elm-enthusiast-ckm)
+- [Haskell error messages: come on (2022)](https://www.thecodedmessage.com/posts/haskell-gripe/) ([HN](https://news.ycombinator.com/item?id=30369497))
+- [The Unreasonable Effectiveness of Haskell (2022)](https://medium.com/pragmatic-programmers/the-unreasonable-effectiveness-of-haskell-48d92c2fe266) ([Lobsters](https://lobste.rs/s/iiqlwa/unreasonable_effectiveness_haskell))
+- [Asynchronous Exceptions in Practice (2017)](https://simonmar.github.io/posts/2017-01-24-asynchronous-exceptions.html)
+- [The Voids Of Haskell](https://github.com/graninas/The-Voids-Of-Haskell) ([Lobsters](https://lobste.rs/s/o2yrfh/voids_haskell))
+- [Zürich Friends of Haskell](https://zfoh.ch/)
+- [ZuriHac 2022](https://zfoh.ch/zurihac2022/) ([Workshop](https://github.com/serras/zurihac-workshop))
+- [About that Reader trick (2022)](https://www.micahcantor.com/blog/about-that-reader-trick/)
+- [Failing in Haskell (2022)](https://jappie.me/failing-in-haskell.html) ([HN](https://news.ycombinator.com/item?id=30477630))
+- [Lambda Diagrams](https://github.com/polux/lambda-diagrams) - Animations of lambda term reduction sequences.
+- [Ask HN: Why would anyone choose Haskell to develop applications? (2022)](https://news.ycombinator.com/item?id=30577911)
+- [What is IO monad?](https://www.youtube.com/watch?v=fCoQb-zqYDI) ([HN](https://news.ycombinator.com/item?id=30596699))
+- [15 Resources to Help You Learn Haskell in 2022](https://serokell.io/blog/how-to-learn-haskell-in-10-minutes)
+- [Haskell Foundation Stability Working Group](https://github.com/haskellfoundation/stability)
+- [Thoughts on bootstrapping GHC (2018)](https://www.joachim-breitner.de/blog/748-Thoughts_on_bootstrapping_GHC)
+- [Filtering Unique Items from Heterogeneous Lists at Compile Time (2022)](https://blog.galowicz.de/2022/03/20/unique-heterogeneous-typelists/)
+- [Haskell Adventures: digging into the declarative approach (2022)](https://dmitrytsepelev.dev/haskell-adventures) ([Reddit](https://www.reddit.com/r/haskell/comments/tkpt4c/im_a_rubyist_and_try_to_learn_haskellheres_my/))
+- [Algebraic Data Types in Haskell (2022)](https://serokell.io/blog/algebraic-data-types-in-haskell) ([HN](https://news.ycombinator.com/item?id=30810769))
+- [Great Haskell code bases to study (2022)](https://twitter.com/hillelogram/status/1507806325304172546)
+- [Functional Programming for Physics Geeks (2022)](https://nostarch.com/functional-programming-physics-geeks) ([Reddit](https://www.reddit.com/r/haskell/comments/tpsbti/new_early_access_book_functional_programming_for/))
+- [More thoughts on the Expression Problem in Haskell (2018)](https://eli.thegreenplace.net/2018/more-thoughts-on-the-expression-problem-in-haskell/)
+- [GHCJS](https://github.com/ghcjs/ghcjs) - Haskell to JavaScript compiler that uses the GHC API.
+- [Haskell.org Website Code](https://github.com/haskell-infra/www.haskell.org)
+- [From Partitions to Wordle - Type Safety with Phantom Types (2022)](https://www.morrowm.com/posts/2022-04-04-phantom.html)
+- [Categorifier](https://github.com/con-kitty/categorifier) - Defining novel interpretations of Haskell programs.
+- [Applied Haskell Syllabus](https://www.fpcomplete.com/haskell/syllabus/)
+- [stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier.
+- [Generalizing Folds in Haskell (2022)](https://danilafe.com/blog/haskell_catamorphisms/)
+- [When Type Annotations Are Code Too (2022)](https://blog.polybdenum.com/2022/04/25/when-type-annotations-are-code-too.html) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/ubd90i/when_type_annotations_are_code_too/))
+- [So Long Surrogates: How We Moved to UTF-8 in Haskell (2022)](https://www.channable.com/tech/so-long-surrogatesa) ([HN](https://news.ycombinator.com/item?id=31181595))
+- [An opinionated beginner's guide to Haskell in mid-2019](https://typesanitizer.com/blog/haskell-opinions-2019.html)
+- [10 Commandments: Compiler in Haskell Edition (2018)](https://typesanitizer.com/blog/10-commandments.html)
+- [Failing in Haskell (2022)](https://jappie.me/failing-in-haskell.html)
+- [Haskell, Lua, and Fennel (2022)](http://jackkelly.name/blog/archives/2022/05/01/haskell_lua_and_fennel/)
+- [Companies That Use Haskell in Production (2022)](https://serokell.io/blog/top-software-written-in-haskell) ([HN](https://news.ycombinator.com/item?id=31247149))
+- [Introduction to Haskell IO (2013)](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html)
+- [Modularizing GHC (2022)](https://hsyl20.fr/home/files/papers/2022-ghc-modularity.pdf) ([Reddit](https://www.reddit.com/r/haskell/comments/uhdu4l/modularizing_ghc_paper/)) ([HN](https://news.ycombinator.com/item?id=31250141))
+- [Leksah](https://github.com/leksah/leksah) - Haskell IDE. ([Web](http://leksah.org/))
+- [Haskell for Working Programmers](https://github.com/liftM/haskell-for-working-programmers)
+- [Profiteur](https://github.com/jaspervdj/profiteur) - Visualizer for Haskell (GHC) prof files. ([Improving performance of your Haskell code with profiteur](https://medium.com/e-bot7-tech/improving-performance-of-your-haskell-code-with-profiteur-8d2e025b6779))
+- [Existential optics (2022)](https://www.tweag.io/blog/2022-05-05-existential-optics/)
+- [Haskell on a Shared-Memory Multiprocessor (2005)](https://simonmar.github.io/bib/papers/multiproc.pdf)
+- [Model Checking in Haskell, Part 1: Transition Systems and Invariants (2022)](https://benjaminselfridge.github.io/posts/2022-05-10-model-checking-1.html)
+- [How to lower an IR? (2022)](https://luctielen.com/posts/how-to-lower-an-ir/)
+- [Resources to make FP in Haskell click (2022)](https://www.reddit.com/r/haskell/comments/uu42qc/i_started_to_study_haskell_but_many_functional/)
+- [Direct Reflection for Free](https://github.com/joom/direct-reflection-for-free) - Using Data and Typeable to get a direct reflection system for free, when we're implementing a toy language in Haskell.
+- [Smooth, non-invasive Haskell Stack and Nix shell integration (2022)](https://www.tweag.io/blog/2022-06-02-haskell-stack-nix-shell/)
+- [Generate web forms from pure functions (2022)](https://www.haskellforall.com/2022/05/generate-web-forms-from-pure-functions.html)
+- [Unboxed types and primitive operations](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/primitives.html) ([Lobsters](https://lobste.rs/s/xxlvq8/unboxed_types_primitive_operations))
+- [Haskell WATs](https://github.com/NorfairKing/haskell-WAT) - Collection of Haskell's WATs.
+- [Diving into GCC Internals](https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html) ([HN](https://news.ycombinator.com/item?id=31731145))

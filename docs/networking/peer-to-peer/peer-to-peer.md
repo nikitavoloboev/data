@@ -1,0 +1,125 @@
+# Peer to peer
+
+[PeerTube](https://github.com/Chocobozzz/PeerTube) is a great P2P app to study.
+
+## Links
+
+- [Commonly asked questions about peer-to-peer networks & programs](https://github.com/noffle/p2p-faq/)
+- [The Peer-to-Peer Web - Paul Frazee](https://www.youtube.com/watch?v=-ep0ZIe6i10)
+- [P2P Projects List](https://github.com/moshest/p2p-index)
+- [Aether](https://github.com/nehbit/aether) - Peer-to-peer network of independent, self-moderated communities.
+- [Metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
+- [Moonad](https://github.com/moonad/Whitepaper) - Peer-to-Peer Operating System.
+- [libp2p](https://libp2p.io/) - Modular peer-to-peer networking stack (used by IPFS and others). ([GitHub](https://github.com/libp2p)) ([Code](https://github.com/libp2p/libp2p))
+- [go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go.
+- [go-libp2p-tor-transport](https://github.com/berty/go-libp2p-tor-transport) - go-libp2p transport targeting mainly \*nix platform.
+- [DTN Conf sketch notes from 2019 event](https://twitter.com/_lrlna/status/1129361644134567936)
+- [Wireline](https://www.wireline.io/#about) - Peer-to-peer network for open source applications.
+- [Cabal](https://cabal.chat/) - Experimental p2p community chat platform.
+- [Radicle](https://radicle.xyz/) - Peer-to-peer stack for building software together. ([GitHub](https://github.com/radicle-dev)) ([HN](https://news.ycombinator.com/item?id=25313010)) ([Lobsters](https://lobste.rs/s/6tbq79/radicle_peer_peer_stack_for_code)) ([[Brand Journey](https://twitter.com/brandonhaslegs/status/1334207549273419777)]) ([Client Tools](https://github.com/radicle-dev/radicle-client-tools))
+- [Radicle Link](https://github.com/radicle-dev/radicle-link) - Working repo for the second iteration of the Radicle code collaboration protocol and stack.
+- [Radicle Bins](https://github.com/radicle-dev/radicle-bins) - Collection of radicle binaries.
+- [Radicle Client Services](https://github.com/radicle-dev/radicle-client-services) - Services backing the Radicle client interfaces.
+- [Upstream](https://github.com/radicle-dev/radicle-upstream) - Desktop client for the radicle code collaboration and registry protocols.
+- [How it Works — Radicle Link (2020)](https://radicle.xyz/radicle-link.html) ([HN](https://news.ycombinator.com/item?id=24382589))
+- [List of peer-to-peer resources](https://github.com/kgryte/awesome-peer-to-peer)
+- [Crust](https://github.com/maidsafe/crust) - Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects.
+- [Yjs](https://github.com/yjs/yjs) - CRDT framework with a powerful abstraction of shared data. ([Docs](https://docs.yjs.dev/)) ([Demos](https://github.com/yjs/yjs-demos)) ([Docs Code](https://github.com/yjs/docs))
+- [PeerLinks](https://github.com/peerlinks/peerlinks) - Protocol for building "Distributed Secure IRC" (or distributed Slack if you wish).
+- [Ambients](https://github.com/aphelionz/ambients) - Peer-to-Peer Programs and Data.
+- [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Open source intelligent P2P based image and file distribution system.
+- [Javascript implementation of the Tor (or Tor like) anonymizer project (The Onion Router)](https://github.com/Ayms/node-Tor)
+- [Educating the next generation of the peer-to-peer community](https://accessp2p.xyz/)
+- [P2P Peer Discovery (2020)](https://jsantell.com/p2p-peer-discovery)
+- [Ouroboros](https://ouroboros.rocks/) - Decentralized packet networking rebuilt from the ground up. ([HN](https://news.ycombinator.com/item?id=22052416))
+- [Monadic](https://monadic.xyz/) - Group of technologists who in 2017, set out to re-imagine free and open source software collaboration.
+- [Hypermerge](https://github.com/automerge/hypermerge) - Node.js library for building p2p collaborative applications without any server infrastructure.
+- [Equilibrium](https://equilibrium.co/) - Build core infrastructure for the new distributed web.
+- [Flok](https://munshkr.github.io/flok/) - Web-based P2P collaborative editor for live coding music and graphics. ([Code](https://github.com/munshkr/flok))
+- [go-libp2p examples and tutorials](https://github.com/libp2p/go-libp2p-examples)
+- [Berty](https://github.com/berty/berty) - Secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network. ([Web](https://berty.tech/))
+- [Swarm](https://github.com/ethersphere/swarm) - Censorship resistant storage and communication infrastructure for a truly sovereign digital society.
+- [PushPin: Towards Production-Quality Peer-to-Peer Collaboration (2020)](https://martin.kleppmann.com/papers/pushpin-papoc20.pdf) ([Code](https://github.com/ept/pushpin-papoc))
+- [OrbitDB](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web. ([Web](https://orbitdb.org/)) ([HN](https://news.ycombinator.com/item?id=26310094))
+- [orbit-db-eventstore](https://github.com/orbitdb/orbit-db-eventstore) - Append-only log with traversable history. Useful for "latest N" use cases or as a message queue.
+- [Announcing the Beaker 1.0 Beta (2020)](https://beakerbrowser.com/2020/05/14/beaker-1-0-beta.html) ([HN](https://news.ycombinator.com/item?id=23182775))
+- [Hyperdrive v10 – a peer-to-peer filesystem (2020)](https://blog.hypercore-protocol.org/posts/announcing-hyperdrive-10/) ([HN](https://news.ycombinator.com/item?id=23180572)) ([Code](https://github.com/hypercore-protocol/hyperdrive))
+- [Hyperswarm](https://github.com/hyperswarm/hyperswarm) - Distributed networking stack for connecting peers.
+- [hyperswarm/dht](https://github.com/hyperswarm/dht) - DHT powering the HyperSwarm stack.
+- [Testground](https://github.com/testground/testground) - Platform for testing, benchmarking, and simulating distributed and p2p systems at scale. ([Docs](https://docs.testground.ai/))
+- [js-libp2p](https://github.com/libp2p/js-libp2p) - JavaScript Implementation of libp2p networking stack.
+- [hypercore-protocol-rs](https://github.com/Frando/hypercore-protocol-rs) - Rust implementation of the wire protocol of Hypercore.
+- [Earthstar](https://earthstar-project.org/) - Specification and JavaScript library for building online tools you can truly call your own. ([GitHub](https://github.com/earthstar-project)) ([Code](https://github.com/earthstar-project/earthstar)) ([react-earthstar](https://github.com/earthstar-project/react-earthstar)) ([Earthstar Replica Server for Glitch](https://github.com/earthstar-project/replica-server-glitch))
+- [go-libp2p-pubsub](https://github.com/libp2p/go-libp2p-pubsub) - PubSub implementation for go-libp2p.
+- [multifeed](https://github.com/kappa-db/multifeed) - Multi-writer hypercore.
+- [Data Terra Nemo talks](https://www.youtube.com/channel/UCp-7zAsouqg4LP4xULhYhcg/videos)
+- [flatend](https://github.com/lithdew/flatend) - Quickly build microservices using p2p networking in NodeJS/Go.
+- [Cozyroom](https://cozyroom.xyz/) - Free peer-to-peer spatial audio environments.
+- [TrustNet](https://cblgh.org/articles/trustnet.html) - Trust-based Moderation Systems.
+- [Farm](https://github.com/inkandswitch/farm) - Extensible, programmable environment with real-time and offline collaboration with other users and no mandatory infrastructure.
+- [Network Coding in P2P Networks (2020)](https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks) ([HN](https://news.ycombinator.com/item?id=24250739))
+- [Aether](https://getaether.net/) - Peer-to-peer ephemeral public communities.
+- [Beaker Social](https://github.com/beakerbrowser/social) - Peer-to-peer social media. A Beaker application.
+- [Textile](https://github.com/textileio/textile) - Connects and extends Libp2p, IPFS, and Filecoin.
+- [go-libp2p-kad-dht](https://github.com/libp2p/go-libp2p-kad-dht) - Kademlia DHT implementation on go-libp2p.
+- [Stealth](https://github.com/tholian-network/stealth) - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy. ([HN](https://news.ycombinator.com/item?id=24816376))
+- [rust-libp2p](https://github.com/libp2p/rust-libp2p) - Rust Implementation of libp2p networking stack.
+- [Alternative libp2p implementation in Rust](https://github.com/netwarps/libp2p-rs)
+- [Publish a Local Webserver using P2P network (2020)](https://support.diode.io/article/ss32engxlq)
+- [Toronto Mesh](https://tomesh.net/) - Help communities create better networks with open source and peer-to-peer technologies that promote digital literacy and privacy. ([GitHub](https://github.com/tomeshnet))
+- [Intro to P2P Indexing and Search](https://github.com/hypercore-protocol/p2p-indexing-and-search)
+- [p2p Git Portal](https://github.com/happybeing/p2p-git-portal-poc) - GitHub like portal which can be hosted on peer-to-peer or static storage, initially targeting Safe Network.
+- [Hyperbeam](https://github.com/mafintosh/hyperbeam) - 1-1 end-to-end encrypted internet pipe powered by Hyperswarm. ([HN](https://news.ycombinator.com/item?id=25407174))
+- [Nostr](https://github.com/fiatjaf/nostr) - Simple open protocol that is able to create a censorship-resistant global "social" network. ([Lobsters](https://lobste.rs/s/bxguql/nostr_notes_other_stuff_transmitted_by)) ([HN](https://news.ycombinator.com/item?id=29749061)) ([Intro](https://wiki.wellorder.net/post/nostr-intro/)) ([Lobsters](https://lobste.rs/s/mv74ka/nostr_introduction)) ([Awesome](https://github.com/aljazceru/awesome-nostr))
+- [Nauka](https://github.com/basantagoswami/nauka) - Decentralized social network using Nostr.
+- [QuantumGate](https://github.com/kareldonk/QuantumGate) - Peer-to-peer (P2P) communications protocol, library and API written in C++. ([Web](http://www.quantumgate.org/))
+- [Beaker browser](https://beakerbrowser.com/) - Experimental peer to peer web browser. ([HN](https://news.ycombinator.com/item?id=25753908))
+- [Probablistic P2P Content Moderation (2021)](https://generativist.falsifiable.com/metaverse/probablistic-p2p-content-moderation)
+- [Briar](https://briarproject.org/) - Secure messaging, anywhere. ([Twitter](https://twitter.com/BriarApp)) ([Tweet](https://twitter.com/andrestaltz/status/1497632169673506816))
+- [Drawbacks of P2P and a defense of Signal (2021)](https://changelog.complete.org/archives/10216-the-hidden-drawbacks-of-p2p-and-a-defense-of-signal) ([HN](https://news.ycombinator.com/item?id=25976439))
+- [P2P chat app with React & Gun.js](https://github.com/dabit3/react-p2p-messaging)
+- [pcp](https://github.com/dennis-tra/pcp) - Peer-to-Peer data transfer tool based on libp2p. ([HN](https://news.ycombinator.com/item?id=26124236))
+- [SonoBus](https://sonobus.net/) - Easy to use application for streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network. ([Code](https://github.com/essej/sonobus))
+- [Bittensor](https://github.com/opentensor/bittensor) - p2p-market which rewards the production of machine intelligence with a digital token called Tao.
+- [Introduction to libp2p](https://proto.school/introduction-to-libp2p)
+- [libp2p tutorial: Build a peer-to-peer app in Rust (2020)](https://blog.logrocket.com/libp2p-tutorial-build-a-peer-to-peer-app-in-rust/)
+- [Chamomile](https://github.com/cypherlink/chamomile) - Build a robust stable connection on p2p network.
+- [CypherLink](https://cypherlink.io/) - Building a new distributed security network. ([GitHub](https://github.com/cypherlink))
+- [TDN](https://github.com/cypherlink/TDN) - Trusted Distributed Network. (Also micro-framework for building blockchain-like DApp).
+- [ThreadDB](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p. ([Docs](https://docs.textile.io/threads/))
+- [Bamboo](https://github.com/AljoschaMeyer/bamboo) - Cryptographically secure, distributed, single-writer append-only log that supports transitive partial replication and local deletion of data.
+- [p2panda](https://p2panda.org/) - p2p communications protocol for playful, secure, data-efficient, offline- and local-first web apps. ([GitHub](https://github.com/p2panda)) ([Spec](https://github.com/p2panda/design-document))
+- [Freenet](https://freenetproject.org/index.html) - Peer-to-peer platform for censorship-resistant communication and publishing. ([HN](https://news.ycombinator.com/item?id=28587220))
+- [I2P Anonymous Network](https://geti2p.net/en/) - Privacy by design, people-powered network. It is a truly free and anonymizing Internet alternative.
+- [Dione](https://github.com/Dione-Software/dione) - Anonymize and encrypted messaging system build on top on a peer to peer layer.
+- [Backchannel](https://github.com/inkandswitch/backchannel) - Local-first address book.
+- [GGRS](https://github.com/gschup/ggrs) - Reimagination of GGPO, enabling P2P rollback networking in Rust. Rollback to the future.
+- [Atek Spork](https://github.com/atek-cloud/spork) - Command-line p2p sockets tool. ([HN](https://news.ycombinator.com/item?id=28915872)) ([Web](https://spork.sh/)) ([Tweet](https://twitter.com/pfrazee/status/1453113591939403780))
+- [Atek](https://atek.cloud/) - Open source peer-to-peer Home Cloud. ([GitHub](https://github.com/atek-cloud))
+- [Spork Beam](https://atek.cloud/blog/spork-beam) - Encrypted, Networked Pipes.Cloud.
+- [Building Collaborative P2P Applications with Autobase](https://github.com/hypercore-protocol/p2p-multiwriter-with-autobase)
+- [Peergos](https://peergos.org/) - p2p, secure file storage, social network and application protocol. ([GitHub](https://github.com/Peergos)) ([Code](https://github.com/Peergos/Peergos))
+- [Hyperswarm discovery stack](https://github.com/hyperswarm/discovery)
+- [Hyper-VCR](https://github.com/pfrazee/hyper-vcr) - p2p version-controlled repo (built on hypercore).
+- [Twitter without Twitter: Distributed apps in the browser (2021)](https://www.youtube.com/watch?v=YJ6hX_x4_tw)
+- [Phonon Network Specification](https://github.com/GridPlus/phonon-network) - Peer-to-peer network independent of the internet.
+- [qTox](https://qtox.github.io/) - Chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol. ([Code](https://github.com/qTox/qTox))
+- [Hyperswarm Relay](https://github.com/hyperswarm/dht-relay) - Relaying the Hyperswarm DHT over other transport protocols to bring decentralized networking to everyone.
+- [HSFW](https://github.com/pfrazee/hyper-sfw) - Dropbox-like p2p file syncing built on Hypercore's new multiwriter Autobase.
+- [Are we distributed yet?](https://arewedistributedyet.com/) - Let's make peer-to-peer a first-class part of the web. ([Code](https://github.com/arewedistributedyet/arewedistributedyet))
+- [PyGrid](https://github.com/OpenMined/PyGrid) - Peer-to-peer Platform for Secure, Privacy-preserving, Decentralized Data Science.
+- [MLDonkey](https://github.com/ygrek/mldonkey) - Cross-platform multi-network p2p daemon. ([Wiki](http://mldonkey.sourceforge.net/Main_Page))
+- [Tinfoil Chat](https://github.com/maqp/tfc) - Onion-routed, endpoint secure messaging system.
+- [Kademlia: A Peer-to-peer Information System. Based on the XOR Metric](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
+- [dht-rpc](https://github.com/mafintosh/dht-rpc) - Make RPC calls over a Kademlia based DHT.
+- [Ask HN: Why don't many video hosting companies adopt PeerTube or P2P? (2022)](https://news.ycombinator.com/item?id=30539791)
+- [Example for building a simple peer to peer application using Rust](https://github.com/zupzup/rust-peer-to-peer-example)
+- [Chord: A Scalable Peer-to-peer Lookup Protocol for Internet Applications](https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf) ([Code](https://github.com/arriqaaq/chord))
+- [Local-First SDK](https://github.com/cloudpeers/tlfs)
+- [Fritter](https://github.com/beakerbrowser/fritter) - Example application that demonstrates how to build peer-to-peer Web applications with Beaker Browser, Dat, and WebDB.
+- [Why Hypercore?](https://github.com/pfrazee/why-hypercore)
+- [go-libp2p-peerstore](https://github.com/libp2p/go-libp2p-peerstore) - Object to manage peers, their addresses, and other metadata about them.
+- [Async Wordle game solely on P2P](https://github.com/p2p-games/wordle)
+- [Web3 is just expensive P2P](https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/) ([HN](https://news.ycombinator.com/item?id=31396329))
+- [Aphrodite](https://github.com/tantaman/aphrodite) - Schema layer whose first goal is to make P2P & Local-First software development as easy as traditional development.
+- [Ataraxia](https://github.com/aholstenson/ataraxia) - P2P messaging over mesh networks for NodeJS and browsers.

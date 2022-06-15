@@ -1,0 +1,119 @@
+---
+title: TensorFlow
+---
+
+# [TensorFlow](https://www.tensorflow.org)
+
+[TensorFlow Hub](https://tfhub.dev/) is useful.
+
+## Links
+
+- [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+- [TensorFlow Learn](https://www.tensorflow.org/learn) ([Code](https://github.com/tensorflow/docs))
+- [Swift for TensorFlow](https://github.com/tensorflow/swift)
+- [TensorFlow & OpenAI Gym Tutorial: Behavioral Cloning!](https://www.youtube.com/watch?v=0rsrDOXsSeM)
+- [Classifying Text with Neural Networks and TensorFlow](https://github.com/dmesquita/understanding_tensorflow_nn)
+- [Deep Learning 2: Introduction to TensorFlow](https://www.youtube.com/watch?v=JO0LwmIlWw0)
+- [Tensorpack](https://github.com/tensorpack/tensorpack) - Neural Net Training Interface on TensorFlow.
+- [StyleGAN](https://github.com/NVlabs/stylegan) - Official TensorFlow Implementation.
+- [Ludwig](https://github.com/uber/ludwig) - Toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
+- [Pre-trained TensorFlow.js models](https://github.com/tensorflow/tfjs-models)
+- [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
+- [Easy-TensorFlow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow.
+- [TensorFlow Graphics](https://github.com/tensorflow/graphics)
+- [Blocksparse](https://github.com/openai/blocksparse) - Efficient GPU kernels for block-sparse matrix multiplication and convolution.
+- [TensorFlow.js converter](https://github.com/tensorflow/tfjs-converter) - Convert TensorFlow SavedModel and Keras models to TensorFlow.js.
+- [tfjs-node](https://github.com/tensorflow/tfjs-node) - TensorFlow backend for TensorFlow.js via Node.js
+- [Neural Structured Learning in TensorFlow](https://github.com/tensorflow/neural-structured-learning)
+- [TensorFlow Transform](https://github.com/tensorflow/transform) - Library for preprocessing data with TensorFlow.
+- [HN: Tensorflow 2.0 (2019)](https://news.ycombinator.com/item?id=21118018)
+- [TensorFlow 2.0 + Keras Overview for Deep Learning Researchers (2019)](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=PX6JvH4h0zyY)
+- [Swift for TensorFlow Models](https://github.com/tensorflow/swift-models)
+- [Tensors Fitting Perfectly](https://github.com/google-research/swift-tfp) - Invokes Swift compiler to lower your Swift code down to SIL (Swift intermediate representation), and use it to scan your code for assertions that pertain to shapes of tensors.
+- [Swift for TensorFlow](https://github.com/tensorflow/swift) - Next-generation platform for machine learning, incorporating the latest research across machine learning, compilers, differentiable programming, systems design, and beyond.
+- [Graph Nets](https://github.com/deepmind/graph_nets) - DeepMind's library for building graph networks in Tensorflow and Sonnet.
+- [tract](https://github.com/snipsco/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference.
+- [IREE](https://github.com/google/iree) - Experimental MLIR Execution Environment.
+- [For Your Ears Only: Personalizing Spotify Home with Machine Learning (2020)](https://labs.spotify.com/2020/01/16/for-your-ears-only-personalizing-spotify-home-with-machine-learning/?linkId=81072583)
+- [TensorFlow workshops](https://github.com/tensorflow/workshops) - Few exercises for use at events.
+- [TensorFlow Examples](https://github.com/tensorflow/examples)
+- [A Primer on TensorFlow 2.0 (2019)](https://www.debugmind.com/2019/04/07/a-primer-on-tensorflow-2-0/)
+- [Convert TensorFlow models to ONNX](https://github.com/onnx/tensorflow-onnx)
+- [TensorFlow-Slim](https://github.com/google-research/tf-slim) - Lightweight library for defining, training and evaluating complex models in TensorFlow.
+- [SwiftAI](https://github.com/fastai/swiftai) - Swift for TensorFlow's high-level API, modeled after fastai.
+- [Graph Convolutional Networks in TensorFlow](https://github.com/tkipf/gcn)
+- [TensorFlow SIG Addons](https://github.com/tensorflow/addons) - Useful extra functionality for TensorFlow 2.x maintained by SIG-addons.
+- [Learning to See in the Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) ([HN](https://news.ycombinator.com/item?id=22899495))
+- [TensorFlow Profiler](https://github.com/tensorflow/profiler) - Profiling and performance analysis tool for TensorFlow.
+- [TFRT: A New TensorFlow Runtime](https://github.com/tensorflow/runtime)
+- [Farewell, TensorFlow (2020)](https://mrry.github.io/2020/05/10/farewell-tensorflow.html) ([Twitter](https://twitter.com/ericjang11/status/1259882911282556928))
+- [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
+- [TensorFlow.js](https://github.com/tensorflow/tfjs) - WebGL accelerated JavaScript library for training and deploying ML models. ([Web](https://www.tensorflow.org/js/)) ([HN](https://news.ycombinator.com/item?id=23453308)) ([Examples](https://github.com/tensorflow/tfjs-examples))
+- [TensorFlow benchmarks](https://github.com/tensorflow/benchmarks) - Contains various TensorFlow benchmarks.
+- [Deep Learning Tutorials with Tensorflow](https://github.com/xiaohu2015/DeepLearning_tutorials)
+- [TensorFlow vs PyTorch (2020)](https://www.reddit.com/r/datascience/comments/h8smv7/tensorflow_vs_tensorflow_20_vs_pytorch/)
+- [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi (2020)](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/) ([HN](https://news.ycombinator.com/item?id=23593439))
+- [Sardonyx](https://github.com/s1ddok/Sardonyx) - Convert your ONNX models into Swift for TensorFlow or Metal Performance Shaders.
+- [pix2pix implementation using Swift for TensorFlow](https://github.com/s1ddok/pix2pix-s4tf)
+- [Learning to Cartoonize Using White-box Cartoon Representations](https://github.com/SystemErrorWang/White-box-Cartoonization)
+- [Deep Xi](https://github.com/anicolson/DeepXi) - Deep Learning Approach to A Priori SNR Estimation for speech enhancement.
+- [TF-Coder, a tool that writes tricky TensorFlow expressions (2020)](https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html) ([HN](https://news.ycombinator.com/item?id=24285910))
+- [TensorBoard](https://github.com/tensorflow/tensorboard) - Suite of web applications for inspecting and understanding your TensorFlow runs and graphs.
+- [Awesome TensorFlowJS](https://github.com/aaronhma/awesome-tensorflow-js)
+- [Tensorflow vs Scikit-learn (2020)](https://mljar.com/blog/tensorflow-vs-scikit-learn/)
+- [TensorFlow Scala](https://github.com/eaplatanios/tensorflow_scala) - TensorFlow API for the Scala Programming Language.
+- [TensorFlow Federated](https://github.com/tensorflow/federated) - Framework for implementing federated learning.
+- [Pipcook](https://github.com/alibaba/pipcook) - Front-End Algorithm Engineering Platform based on Tensorflow.js.
+- [TensorFlow Compression](https://github.com/tensorflow/compression) - Build your own ML models with end-to-end optimized data compression built in.
+- [Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading (2020)](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
+- [NSFW detection on the client-side via TensorFlow.js](https://github.com/infinitered/nsfwjs) ([Web](https://nsfwjs.com/))
+- [Trieste](https://github.com/secondmind-labs/trieste) - Bayesian optimization toolbox built on TensorFlow.
+- [Introduction to Swift for TensorFlow (2020)](https://www.youtube.com/watch?v=YSUFcX2dTjk) ([Slides](https://brettkoonce.com/talks/introduction-to-swift-tensorflow-2020/))
+- [Convolutional Neural Networks with Swift for TensorFlow](https://convolutionalneuralnetworkswithswift.com/)
+- [Swift for TensorFlow Models](https://github.com/tensorflow/swift-models)
+- [TensorFlow Model Garden](https://github.com/tensorflow/models) - Repository with a number of different implementations of state-of-the-art (SOTA) models and modeling solutions for TensorFlow users.
+- [Mac-optimized TensorFlow and TensorFlow Addons](https://github.com/apple/tensorflow_macos)
+- [TensorFlow binaries supporting AVX, FMA, SSE](https://github.com/lakshayg/tensorflow-build)
+- [Swift4TF](https://github.com/zaidalyafeai/Swift4TF) - Set of notebooks explaining swift for tensorflow optimized to run in Google Collaboratory.
+- [Siamese networks with Keras, TensorFlow, and Deep Learning (2020)](https://www.pyimagesearch.com/2020/11/30/siamese-networks-with-keras-tensorflow-and-deep-learning/)
+- [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
+- [checkmate](https://github.com/parasj/checkmate) - Training neural networks in TensorFlow 2.0 with 5x less memory.
+- [TensorFlow in Swift Handbook](https://github.com/huan/tensorflow-handbook-swift)
+- [Recursive custom gradients in TensorFlow (2020)](https://iza.ac/posts/2020/12/recursive-custom-gradients-in-tensorflow/)
+- [TensorFlow inferencing using WebAssembly and WASI (2020)](https://radu-matei.com/blog/tensorflow-inferencing-wasi/)
+- [React-Tensorflow](https://github.com/joshuaellis/react-tensorflow) - Tensorflow hooks for React.
+- [Mesh TensorFlow](https://github.com/tensorflow/mesh) - Language for distributed deep learning, capable of specifying a broad class of distributed tensor computations.
+- [TensorFlow 101: Introduction to Deep Learning](https://github.com/serengil/tensorflow-101)
+- [TensorFlow Lite Support](https://github.com/tensorflow/tflite-support) - Toolkit that helps users to develop ML and deploy TFLite models onto mobile / ioT devices.
+- [HN: Swift for TensorFlow Shuts Down (2021)](https://news.ycombinator.com/item?id=26117453) ([Lobsters](https://lobste.rs/s/fcnkvu/tensorflow_for_swift_has_been_deprecated))
+- [Tensorflow on open source GPUs (2020)](https://www.youtube.com/watch?v=KfDQb6xOkXg)
+- [PalletML](https://palletml.com/) - Deploy your TensorFlow models to mobile. Instantly. ([HN](https://news.ycombinator.com/item?id=26566817))
+- [Why is Tensorflow so hated on and PyTorch is the cool kids framework? (2021)](https://www.reddit.com/r/MachineLearning/comments/m3boyo/d_why_is_tensorflow_so_hated_on_and_pytorch_is/)
+- [CppFlow](https://github.com/serizba/cppflow) - Run TensorFlow models in C++ without installation and without Bazel.
+- [Why do practitioners still use regular TensorFlow? (2021)](https://www.reddit.com/r/MachineLearning/comments/msejyh/why_do_practitioners_still_use_regular_tensorflow/)
+- [Neural Network TensorFlow C API](https://github.com/Neargye/hello_tf_c_api)
+- [Adaptive Framework for On-device Recommendation (2021)](https://blog.tensorflow.org/2021/04/adaptive-framework-for-on-device-recommendation.html)
+- [Zero to Mastery Deep Learning with TensorFlow](https://github.com/mrdbourke/tensorflow-deep-learning)
+- [TensorFlow Ranking](https://github.com/tensorflow/ranking) - Learning to Rank in TensorFlow.
+- [GPflow](https://github.com/GPflow/GPflow) - Gaussian processes in TensorFlow.
+- [Learning TensorFlow.js Book (2021)](https://www.oreilly.com/library/view/learning-tensorflowjs/9781492090786/)
+- [TF/JAX Tutorials (2021)](https://www.kaggle.com/aakashnain/tf-jax-tutorials-part1)
+- [Scaling TensorFlow to 300 million predictions per second (2021)](https://arxiv.org/abs/2109.09541)
+- [TypedFlow](https://github.com/GU-CLASP/TypedFlow) - Typed, higher-order frontend to TensorFlow and a high-level library for deep-learning.
+- [TensorFlow RiemOpt](https://github.com/master/tensorflow-riemopt) - Library for manifold-constrained optimization in TensorFlow.
+- [TensorFlow aarch64](https://github.com/KumaTea/tensorflow-aarch64) - TensorFlow wheels (whl) for aarch64 / ARMv8 / ARM64.
+- [Transformer-in-Transformer](https://github.com/Rishit-dagli/Transformer-in-Transformer) - Implementation of Transformer in Transformer for image classification, attention inside local patches. ([HN](https://news.ycombinator.com/item?id=29439631))
+- [TensorFlow Serving](https://github.com/tensorflow/serving) - Flexible, high-performance serving system for machine learning models, designed for production environments.
+- [Advent of Code 2021 in pure TensorFlow](https://pgaleone.eu/tensorflow/2021/12/11/advent-of-code-tensorflow/) ([HN](https://news.ycombinator.com/item?id=29523094))
+- [TensorFlow Recommenders](https://github.com/tensorflow/recommenders) - Library for building recommender system models using TensorFlow.
+- [tensorboardX](https://github.com/lanpa/tensorboardX) - Write TensorBoard events with simple function call.
+- [CVNN](https://github.com/NEGU93/cvnn) - Library to help implement a complex-valued neural network (cvnn) using tensorflow as back-end.
+- [Simple Depth Estimation from Multiple Images in Tensorflow (2019)](https://ijdykeman.github.io/slam/2019/04/07/simple-depth-from-motion.html)
+- [TensorFlow Image Models](https://github.com/martinsbruveris/tensorflow-image-models) - TensorFlow port of PyTorch Image Models (timm) - image models with pretrained weights.
+- [TensorFlow Similarity](https://github.com/tensorflow/similarity) - Python package focused on making similarity learning quick and easy.
+- [TensorFlow Text](https://github.com/tensorflow/text) - Text processing in TensorFlow.
+- [Vision Transformer Cookbook with TensorFlow](https://github.com/taki0112/vit-tensorflow)
+- [Tensorflow Transformers](https://github.com/legacyai/tf-transformers) - State of the art faster Transformer with Tensorflow 2.0 ( NLP, Computer Vision, Audio ).
+- [TensorFlow Hub](https://tfhub.dev/) ([Code](https://github.com/tensorflow/tfhub.dev))
+- [TensorFlow Hub Models](https://github.com/tensorflow/hub)
+- [Middle-End Development with SvelteKit + TensorFlow.JS (2022)](https://cprimozic.net/blog/fullstack-sveltekit-recommendation-app-middle-end-development/)

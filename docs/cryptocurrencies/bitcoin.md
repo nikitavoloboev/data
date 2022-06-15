@@ -1,0 +1,194 @@
+---
+title: Bitcoin
+---
+
+# [Bitcoin](https://bitcoin.org/en/)
+
+Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/status/1350869944888664064) which made history for being the [first true digital cryptocurrency](https://bitcoin.org/bitcoin.pdf) (solved double spending issue in decentralized way). [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md) are a more efficient and more powerful versions of Bitcoin due to Bitcoin's [wasteful & slow transactions](https://www.youtube.com/watch?v=f0HC1Udk6-E) and [horrible PoW consensus algorithm](https://www.youtube.com/watch?v=bBC-nXj3Ng4). Hopefully soon [all energy wasting crypto mining gets banned](https://www.reddit.com/r/europe/comments/qriryh/sweden_asks_european_union_to_ban_cryptocurrency/).
+
+## Notes
+
+- [Bitcoin is both trust-minimized (even more than gold) yet quite unlike gold digital & easily transferable in its trust-minimized form. It's an unprecedentedly superior form of money, but like anything else new traded in a free market, its historical journey starts off volatile.](https://twitter.com/NickSzabo4/status/1328759197769502722)
+- [At this point, of all the things Bitcoin can do that other financial assets can't (pseudo-anonymous, extremely hard to confiscate, can be moved quasi instantaneously across borders, demonstrably finite supply, can be use as a settlement layer for large players, etc ...) the one aspect that I believe attracts people is "store of value". Many people contest that last property citing high volatility, and they're correct if your window is less than 4 years. But for folks who play the long game, supply and demand tells a very compelling story for Bitcoin.](https://news.ycombinator.com/item?id=25157946)
+- [Bitcoin is largely controlled by a small group of investors and miners](https://news.ycombinator.com/item?id=29008910)
+- [Doing a single bitcoin transaction has a larger carbon footprint than flying across the Atlantic](https://twitter.com/felixsalmon/status/1477582669194088448)
+
+## Links
+
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://textframe.app/examples/bitcoin) - Annotated white paper.
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. ([Web](https://bitcoinbook.info/))
+- [Bitcoin for laypeople (2018)](https://mafinto.sh/blog/bitcoin-for-laypeople.html)
+- [The Stories We Tell About Money](https://www.youtube.com/watch?v=ONvg9SbauMg)
+- [Bitcoin: "Failing to Scale" - Prague 2016](https://www.youtube.com/watch?v=bFOFqNKKns0)
+- [Bitcoin Resources](https://lopp.net/bitcoin.html)
+- [Bitcore Node](https://github.com/bitpay/bitcore) - Full stack for bitcoin and blockchain-based applications.
+- [nix-bitcoin](https://github.com/jonasnick/nix-bitcoin) - Nix packages and nixos modules with profiles for easily installing Bitcoin nodes and higher layer protocols.
+- [The History and Future of Bitcoin with Dan Held (2019)](https://overcast.fm/+LDKfCTO4U)
+- [Introducing SOPR: spent outputs to predict bitcoin lows and tops (2019)](https://medium.com/unconfiscatable/introducing-sopr-spent-outputs-to-predict-bitcoin-lows-and-tops-ceb4536b3b9)
+- [Tokenized](https://tokenized.com/) - Easiest and safest way to issue, manage and trade security and utility tokens on the Bitcoin SV network.
+- [Bitcoin Resources](https://dergigi.com/bitcoin/resources/)
+- [Mastering the Lightning Network book](https://github.com/lnbook/lnbook)
+- [Bitcoin SV](https://bitcoinsvdevelopers.com/) - Bitcoin with the original protocol. It can be used for money, but also as a development platform..
+- [btcwallet](https://github.com/btcsuite/btcwallet) - Secure bitcoin wallet daemon written in Go.
+- [Blockstream Satellite network](https://blockstream.com/satellite/) - Broadcasts the Bitcoin blockchain around the world 24/7 for free.
+- [Blockstream Satellite Receiver](https://github.com/Blockstream/satellite)
+- [State of Digital Assets: Keynote by Cathie Wood (2020)](https://www.youtube.com/watch?v=c50TMCKsktA&t=8s)
+- [SatoshiLabs Improvement Proposals](https://github.com/satoshilabs/slips)
+- [Polar](https://github.com/jamaljsr/polar) - One-click Bitcoin Lightning networks for local app development & testing.
+- [How we recovered over \$300K of Bitcoin](https://reperiendi.wordpress.com/2020/04/03/how-i-recovered-over-300k-of-bitcoin/) ([HN](https://news.ycombinator.com/item?id=22774057))
+- [MIT Bitcoin Expo 2020 - Bitcoin Core Devs Panel](https://www.youtube.com/watch?v=NKBjhSKxSi0)
+- [Rust language bindings for Bitcoin secp256k1 library](https://github.com/rust-bitcoin/rust-secp256k1)
+- [Bitcoin Indexer](https://github.com/dpc/rust-bitcoin-indexer) - Powerful & versatile Bitcoin Indexer, in Rust.
+- [Bitcoin Halving 2020](https://messari.io/bitcoin-halving-2020) ([HN](https://news.ycombinator.com/item?id=23146024))
+- [PoX: Proof of Transfer Mining with Bitcoin (2020)](https://blockstack.org/pox.pdf)
+- [Bitcoin for the Open-Minded Skeptic (2020)](https://www.paradigm.xyz/Bitcoin_For_The_Open_Minded_Skeptic.pdf)
+- [Neutrino](https://github.com/lightninglabs/neutrino) - Privacy-Preserving Bitcoin Light Client.
+- [bwt](https://github.com/shesek/bwt) - Lightweight HD wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
+- [Prism: Scaling Bitcoin by 10,000x](https://github.com/yangl1996/prism-rust) - Rust implementation.
+- [Bitcoin From Scratch (2020)](https://monokh.com/posts/bitcoin-from-scratch-part-1) ([HN](https://news.ycombinator.com/item?id=23728228))
+- [Bitcoin is more like ham radio than the early internet (2020)](http://jpkoning.blogspot.com/2020/07/bitcoin-is-more-like-ham-radio-than.html) ([HN](https://news.ycombinator.com/item?id=23823304))
+- [Bitcoin Information & Educational Resources](https://www.lopp.net/bitcoin-information.html)
+- [c-lightning](https://github.com/ElementsProject/lightning) - Lightning Network implementation in C. ([Rust bindings](https://github.com/laanwj/rust-clightning-rpc)) ([Go bindings](https://github.com/niftynei/glightning))
+- [Bitcoin Summer School 2016](https://bitcoinschool.gr/) ([Consensus](https://bitcoinschool.gr/slides/session3.pdf))
+- [Vapor](https://vapor.network/) - Decentralized Web over Bitcoinized HTTP. ([HN](https://news.ycombinator.com/item?id=24708161))
+- [Takeaways from MicroStrategy CEO 425 million investment into bitcoin (2020)](https://twitter.com/woonomic/status/1306853254685364225)
+- [Building on Bitcoin #1 — Isaac Morehouse (2020)](https://www.youtube.com/watch?v=4F4kWu_6vVE)
+- [What Comes Next. Building Bit.sv. (2020)](https://bit.sv/post/499dec5108b14e99d28b48b0c0dfcd5fe06edef43ad738d41f18264151aaf30d)
+- [This Month In Bitcoin Privacy](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/)
+- [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - Build your own Lightning Node on a RaspberryPi with a nice Display.
+- [Blockstream.info](https://blockstream.info/) - Bitcoin Explorer. ([Code](https://github.com/Blockstream/esplora))
+- [Electrum Server in Rust](https://github.com/romanz/electrs)
+- [Esplora](https://github.com/Blockstream/electrs) - Block chain index engine and HTTP API written in Rust based on romanz/electrs.
+- [What Bitcoin’s White Paper Got Right, Wrong and What We Still Don’t Know (2018)](https://www.coindesk.com/what-bitcoins-white-paper-got-right-wrong-and-what-we-still-dont-know) ([HN](https://news.ycombinator.com/item?id=24951616))
+- [Bitbo](https://bitbo.io/) - Real-Time Bitcoin Dashboard.
+- [Bitcoin at 12 (2020)](https://medium.com/@nic__carter/bitcoin-at-12-f6fce39cb9bb)
+- [Blockstream](https://blockstream.com/) - Bitcoin and digital asset infrastructure.
+- [Awesome Lightning Network](https://github.com/bcongdon/awesome-lightning-network)
+- [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - Desktop GUI for Bitcoin Core optimised to work with hardware wallets.
+- [Merkle trees in Git and Bitcoin (2020)](https://initialcommit.com/blog/git-bitcoin-merkle-tree)
+- [Chaincode Labs](https://chaincode.com/) - Exists to support Bitcoin.
+- [Notes and ideas for development work on Bitcoin Core](https://github.com/jonatack/bitcoin-development)
+- [HN: Bitcoin Price Hits All-Time High of $19,786, Topping 2017 Record (2020)](https://news.ycombinator.com/item?id=25255606)
+- [Scripts, tools & info for doing Bitcoin Core development and code review](https://github.com/fanquake/core-review)
+- [hal](https://github.com/stevenroose/hal) - Bitcoin companion. Command line tool that provides all kinds of Bitcoin-related utilities.
+- [btcd](https://github.com/btcsuite/btcd) - Alternative full node bitcoin implementation written in Go.
+- [Rust Bitcoin Library](https://github.com/rust-bitcoin/rust-bitcoin) - Library with support for de/serialization, parsing and executing on data structures and network messages related to Bitcoin.
+- [Michael Flaxman Research](https://www.michaelflaxman.com/)
+- [Lightning Node Management](https://openoms.gitbook.io/lightning-node-management/) - Beginner friendly resources to manage a routing node on the Lightning Network. ([Code](https://github.com/openoms/lightning-node-management))
+- [Bitcoin Tutorials](https://openoms.github.io/bitcoin-tutorials/) - Guides for the RaspiBlitz and Linux desktop. ([Code](https://github.com/openoms/bitcoin-tutorials))
+- [Bitcoin RPC Proxy](https://github.com/Kixunil/btc-rpc-proxy) - Finer-grained permission management for bitcoind.
+- [Brink](https://brink.dev/) - Exists to strengthen the Bitcoin protocol and network through fundamental research and development.
+- [Study Groups for bitcoin protocol developers](https://github.com/chaincodelabs/study-groups)
+- [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
+- [Lightning Network Curriculum](https://github.com/chaincodelabs/lightning-curriculum)
+- [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/) ([Forum Posts](https://satoshi.nakamotoinstitute.org/posts/))
+- [Bitcoin.org Website Code](https://github.com/bitcoin-dot-org/Bitcoin.org)
+- [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips)
+- [CLIFlix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
+- [Bitcoin Cash](https://www.bitcoincash.org/) - Experimental digital currency that enables instant payments to anyone, anywhere in the world. ([Code](https://github.com/Bitcoin-ABC/bitcoin-abc))
+- [What does BCH offer that Ethereum don't already offer? (2020)](https://www.reddit.com/r/btc/comments/keu3nw/what_does_bch_offer_that_ethereum_dont_already/)
+- [Teleport Transactions](https://github.com/bitcoin-teleport/teleport-transactions) - Software aiming to improve the privacy of bitcoin.
+- [Bitcoin Archive](http://towardsliberty.com/bitcoin)
+- [Data on how people rely on Bitcoin to escape high inflation, extortionate remittances, frozen accounts, sanctions, financial isolation (2020)](https://twitter.com/gladstein/status/1340835463620259841)
+- [Misconceptions about Bitcoin, and Where to Buy (2020)](https://www.lynalden.com/misconceptions-about-bitcoin/) ([Tweet](https://twitter.com/LynAldenContact/status/1326682327582433280))
+- [BlueWallet](https://bluewallet.io/) - Bitcoin wallet and Lightning wallet for iOS and Android. ([Code](https://github.com/BlueWallet/BlueWallet))
+- [LndHub](https://github.com/BlueWallet/LndHub) - Wrapper for Lightning Network Daemon. It provides separate accounts with minimum trust for end users. ([Web](http://lndhub.io/))
+- [Umbrel](https://github.com/getumbrel/umbrel) - Personal Bitcoin and Lightning node designed for everyone. ([Web](https://getumbrel.com/))
+- [Bisq](https://bisq.network/) - Safe, private and decentralized way to exchange bitcoin for national currencies and other digital assets. ([Code](https://github.com/bisq-network/bisq))
+- [Bitcoin is a disaster (2020)](https://www.metzdowd.com/pipermail/cryptography/2020-December/036510.html) ([HN](https://news.ycombinator.com/item?id=25597891)) ([Lobsters](https://lobste.rs/s/egqq29/bitcoin_is_disaster))
+- [Putting $400M of Bitcoin on your company balance sheet (2020)](https://www.singlelunch.com/2020/10/21/badeconomics-putting-400m-of-bitcoin-on-your-company-balance-sheet/) ([HN](https://news.ycombinator.com/item?id=25632757))
+- [Modeling Bitcoin Value with Scarcity (2019)](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)
+- [Bitcoin Stock-to-Flow Cross Asset Model (2020)](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)
+- [Bitcoin Disrupting Payment Clearing Houses w/ Jack Mallers (2021)](https://overcast.fm/+I6zHE4hug)
+- [Strike](https://beta.strike.me/) - Send money instantly, with no fees, anywhere in the world.
+- [bitcoin-p2p](https://github.com/stevenroose/rust-bitcoin-p2p) - Rust implementation of Bitcoin p2p protocol.
+- [Lightning Bitcoin Core](https://github.com/lbtcio/lbtc-core) - Fully decentralized Internet-of-value protocol for global payments.
+- [BRD](https://brd.com/) - Bitcoin wallet. ([Code](https://github.com/breadwallet/breadwallet-ios))
+- [Stacks](https://www.stacks.co/) - Smart contracts for Bitcoin. ([Code](https://github.com/blockstack/connect)) ([GitHub](https://github.com/blockstack)) ([Library Code](https://github.com/blockstack/connect)) ([Explorer](https://explorer.stacks.co/?chain=mainnet)) ([Explorer Code](https://github.com/hirosystems/explorer)) ([Docs](https://docs.stacks.co/)) ([Docs Code](https://github.com/stacks-network/docs))
+- [Smart contracts on Bitcoin (2021)](https://avc.com/2021/01/smart-contracts-on-bitcoin/) ([HN](https://news.ycombinator.com/item?id=25781645))
+- [Bitcoin Layer 2: Lightning Network Resources](https://www.lopp.net/lightning-information.html)
+- [Clarity Smart Contract Language](https://clarity-lang.org/) - Lisp-like Smart Contracts on Bitcoin. ([GitHub](https://github.com/clarity-lang))
+- [Revault](https://github.com/re-vault/revault-demo) - Multi-party Bitcoin vault architecture.
+- [Environmental cost of bitcoin (2021)](https://twitter.com/smdiehl/status/1350869944888664064) ([HN](https://news.ycombinator.com/item?id=25814795)) ([Reddit](https://www.reddit.com/r/nanocurrency/comments/kzr9ef/the_nano_community_will_enjoy_this_twitter_thread/))
+- [Bitcoin Treasuries](https://bitcointreasuries.org/)
+- [Is Bitcoin a Scam? (2021)](https://www.theguardian.com/news/audio/2021/jan/19/is-bitcoin-a-scam) ([HN](https://news.ycombinator.com/item?id=25831562))
+- [LNP/BP Standards Association](https://www.lnp-bp.org/) - Specifications, proposals and libraries for things which are not a part of Bitcoin Core / BIPs. ([GitHub](https://github.com/LNP-BP)) ([Intro](https://www.alzashop.com/lnp-bp-lightning-netowrk-and-bitcoin-protocols)) ([FAQ](https://github.com/LNP-BP/FAQ))
+- [LNP/BP Common Standards](https://github.com/LNP-BP/LNPBPs)
+- [RGB Con 0 - Day 1 (2020)](https://www.youtube.com/watch?v=BjFZuF_ZPMg)
+- [Bitcoin Pro](https://github.com/pandoracore/bitcoin-pro) - Professional bitcoin accounts & assets management.
+- [Pandora Core](https://pandoracore.com/) - Building Layer 2 and 3 technologies enabling scalable smart contracts and AI for Internet of value on top of Lightning Network and Bitcoin protocol. ([GitHub](https://github.com/pandoracore))
+- [lnp-node](https://github.com/LNP-BP/lnp-node) - Lightning Network Protocol Node.
+- [Descriptor wallet library](https://github.com/LNP-BP/descriptor-wallet) - Library for building descriptor-based bitcoin wallets.
+- [The widening gyre (2021)](https://laanwj.github.io/2021/01/21/decentralize.html) ([HN](https://news.ycombinator.com/item?id=25880727))
+- [Nakamoto](https://github.com/cloudhead/nakamoto) - Bitcoin light-client implementation in Rust.
+- [Bitcoin Resources](https://bitcoin-resources.com/)
+- [21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](https://21lessons.com/)
+- [Mempool](https://mempool.space/) - Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator. ([Code](https://github.com/mempool/mempool))
+- [Bitcoin and Pollution – The Definitive Answer (2021)](https://simon.medium.com/bitcoin-and-pollution-the-definitive-answer-a010b0826f2a) ([HN](https://news.ycombinator.com/item?id=26099530))
+- [End Bitcoin FUD](https://www.bitcoinwillnotboiltheocean.com/) ([Tweet](https://twitter.com/Melt_Dem/status/1361315412445720578))
+- [Mining Bitcoin with pencil and paper: 0.67 hashes per day (2014)](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html) ([HN](https://news.ycombinator.com/item?id=26146026))
+- [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning) - Bitcoin Lightning library written in Rust.
+- [BTC-Parachain](https://github.com/interlay/btc-parachain) - Trust-minimized bridge from Bitcoin to Polkadot.
+- [PolkaBTC](https://github.com/interlay/polkabtc-ui) - Trustless and open DeFi access for your Bitcoin.
+- [Bitcoin: The Postmodern Ponzi (2021)](https://www.stephendiehl.com/blog/ponzi.html)
+- [Bitcoin Is Time (2021)](https://dergigi.com/2021/01/14/bitcoin-is-time/) ([HN](https://news.ycombinator.com/item?id=26315923))
+- [The Lightning Lab](https://discord.com/invite/qEzTQMqJc7) - Discord to learn about building on Bitcoin and Lightning.
+- [Coldcore](https://github.com/jamesob/coldcore) - Trust-minimized Bitcoin wallet.
+- [Why Bitcoin Cash?](https://whybitcoincash.com/)
+- [Bitcoin Lightning Documentation](https://github.com/t-bast/lightning-docs)
+- [Bitcoin is not a Battery – it is a Sink (2021)](https://elad-verbin.medium.com/bitcoin-is-not-a-battery-it-is-a-sink-852db9669f20) ([HN](https://news.ycombinator.com/item?id=26611342))
+- [Lightning Network Hacksprint Wrap-Up (March 2021)](https://www.youtube.com/watch?v=cj-7hC0kksA)
+- [Casa](https://keys.casa/) - Secure Storage Solutions for Bitcoin.
+- [10x Security Bitcoin Guide](https://btcguide.github.io/) ([Code](https://github.com/btcguide/btcguide.github.io))
+- [BTCPay Server](https://btcpayserver.org/) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. ([Code](https://github.com/btcpayserver/btcpayserver))
+- [How 100% trustless Bitcoin lending app can work (2021)](https://twitter.com/muneeb/status/1379076213357039622)
+- [Breez](https://breez.technology/) - Lightning Fast Bitcoin Payments. ([Mobile Client Code](https://github.com/breez/breezmobile))
+- [myNode](https://github.com/mynodebtc/mynode) - Easiest way to run Bitcoin and Lightning.
+- [Lily Wallet](https://github.com/Lily-Technologies/lily-wallet) - Multisig Bitcoin Wallet. ([Web](https://lily-wallet.com/))
+- [coins](https://github.com/summa-tx/bitcoins-rs) - Bitcoin-oriented dev toolboxes for native and browser apps.
+- [Riemann](https://github.com/summa-tx/riemann) - Rapid prototyping transaction toolbox for Bitcoin-style chains.
+- [Ask HN: What do you think of Bitcoin? (2021)](https://news.ycombinator.com/item?id=27024667)
+- [An Analysis of Bitcoin's Throughput Bottlenecks](https://github.com/fresheneesz/bitcoinThroughputAnalysis) ([HN](https://news.ycombinator.com/item?id=27127644))
+- [We Use Coins](https://www.weusecoins.com/) ([Code](https://github.com/sunnankar/wuc-new))
+- [Bitcoin Is Civilization (2021)](https://bariweiss.substack.com/p/is-bitcoin-anarchy-or-civilization) ([Tweet](https://twitter.com/APompliano/status/1393230162649616387)) ([Summary](https://twitter.com/balajis/status/1393240816198426630))
+- [Bitcoin is not an asset that protects against inflation (2021)](https://www.reddit.com/r/investing/comments/ngamt2/can_we_please_throw_out_the_idea_that_bitcoin_is/)
+- [Fold](https://foldapp.com/) - Best Way to Earn Bitcoin Rewards.
+- [Sidecar Channels: For Onboarding A Billion People to Bitcoin, Lightning Is Needed (2021)](https://lightning.engineering/posts/2021-05-26-sidecar-channels/)
+- [Bitcoin Design](https://bitcoin.design/) - Open-source design for Bitcoin products. ([Guide](https://bitcoin.design/guide/)) ([GitHub](https://github.com/BitcoinDesign))
+- [A from-scratch tour of Bitcoin in Python (2021)](https://karpathy.github.io/2021/06/21/blockchain/) ([HN](https://news.ycombinator.com/item?id=27593772)) ([Code](https://github.com/karpathy/cryptos))
+- [Bitcoin myths: immutability, decentralisation, and the cult of “21 million” (2021)](https://davidgerard.co.uk/blockchain/2021/06/27/bitcoin-myths-immutability-decentralisation-and-the-cult-of-21-million/)
+- [Programming Bitcoin Network](https://jeiwan.net/posts/programming-bitcoin-network/)
+- [How to Destroy Bitcoin (2021)](https://www.stephendiehl.com/blog/destroy-bitcoin.html) ([HN](https://news.ycombinator.com/item?id=27824924))
+- [Bitcoin's gold rush was always an illusion (2021)](https://www.newstatesman.com/business/finance/2021/07/bitcoins-gold-rush-was-always-illusion) ([Tweet](https://twitter.com/ahcastor/status/1417842535809097731))
+- [Nice bitcoin/lightning/crypto open source projects (2021)](https://twitter.com/AlyssaHertig/status/1418359344819810306)
+- [Bitcoin, Currencies, and Fragility (2021)](https://arxiv.org/abs/2106.14204) ([Tweet](https://twitter.com/smdiehl/status/1418997418432073728)) ([HN](https://news.ycombinator.com/item?id=29726112))
+- [Agora](https://github.com/agora-org/agora/) - Sell Files on the Web using Bitcoin Lightning Network. ([Article](http://agora.download/files/blog/mvp.html)) ([HN](https://news.ycombinator.com/item?id=28092258))
+- [Bcoin](https://github.com/bcoin-org/bcoin) - Alternative implementation of the Bitcoin protocol, written in JavaScript and C/C++ for Node.js. ([Web](https://bcoin.io/)) ([Talk](https://www.youtube.com/watch?v=avTdLjXYsbo))
+- [Turing Machines on Bitcoin. Bitcoin Turing Complete Proofs (2021)](https://xiaohuiliu.medium.com/turing-machine-on-bitcoin-7f0ebe0d52b1) ([HN](https://news.ycombinator.com/item?id=28574546))
+- [Offline lightning PoS](https://github.com/arcbtc/LNURLPoS)
+- [Lightning Labs](https://lightning.engineering/) - Faster, cheaper, global layer two bitcoin. ([GitHub](https://github.com/lightninglabs))
+- [Lightning Network Flaws](https://github.com/davidshares/Lightning-Network) ([HN](https://news.ycombinator.com/item?id=28724648))
+- [Bitcoin is a Ponzi (2020)](https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html) ([HN](https://news.ycombinator.com/item?id=28781586))
+- [Len Sassaman and Satoshi: a Cypherpunk history (2021)](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10)
+- [BDK](https://github.com/bitcoindevkit/bdk) - Modern, lightweight, descriptor-based wallet library written in Rust.
+- [Bitcoin and the U.S. Fiscal Reckoning (2021)](https://nationalaffairs.com/publications/detail/bitcoin-and-the-us-fiscal-reckoning) ([HN](https://news.ycombinator.com/item?id=28896379))
+- [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - JavaScript Bitcoin library for node.js and browsers.
+- [Sapio](https://github.com/sapio-lang/sapio) - Framework for creating composable multi-transaction Bitcoin Smart Contracts.
+- [TokenSwap](https://tswap.io/#/) - AMM DEX running on BSV. ([Twitter](https://twitter.com/tswap_io))
+- [Mako](https://github.com/chjj/mako) - Full Bitcoin implementation in C. ([HN](https://news.ycombinator.com/item?id=29230068))
+- [Elastos](https://www.elastos.org/) - Web3, secured by Bitcoin hashpower. ([Twitter](https://twitter.com/ElastosInfo))
+- [Glide Finance](https://glidefinance.io/) - Frictionless finance. The Elastos AMM. ([GitHub](https://github.com/glide-finance))
+- [BitcoinBinary.org](https://bitcoinbinary.org/) - Repository of Reproducible Build Proofs for Bitcoin Projects.
+- [Hiro](https://www.hiro.so/) - Builds developer tools for Stacks. ([GitHub](https://github.com/hirosystems))
+- [Clarinet](https://github.com/hirosystems/clarinet) - Simple, modern and opinionated runtime for writing, testing and integrating Clarity Smart contracts.
+- [Understanding Bitcoin Lightning (2020)](https://martyjon.es/bitcoin/2020/09/06/understanding-lightning-1.html)
+- [During 2021 Bitcoin consumed 134 TWh in total](https://twitter.com/digieconomist/status/1477420461122375683) ([HN](https://news.ycombinator.com/item?id=29769892))
+- [An anatomy of Bitcoin price manipulation (2022)](https://www.singlelunch.com/2022/01/09/an-anatomy-of-bitcoin-price-manipulation/) ([HN](https://news.ycombinator.com/item?id=29966533))
+- [Lightning Loop](https://github.com/lightninglabs/loop) - Non-custodial service offered by Lightning Labs that makes it easy to move bitcoin into and out of the Lightning Network.
+- [Stacks 2.0](https://github.com/stacks-network/stacks-blockchain) ([HN](https://news.ycombinator.com/item?id=30333578))
+- [CoinPool: efficient off-chain payment pools for Bitcoin (2022)](https://coinpool.dev/v0.1.pdf) ([Tweet](https://twitter.com/lopp/status/1495768465373814790))
+- [Cryptonomicon: Among the Bitcoin maximalists (2022)](https://harpers.org/archive/2022/03/cryptonomicon-bitcoin-maximalists-miami/) ([HN](https://news.ycombinator.com/item?id=30468615))
+- [RoboSats](https://github.com/Reckless-Satoshi/robosats) - Simple and private bitcoin exchange.
+- [Bitcoin Implementation in Scala](https://github.com/bitcoin-s/bitcoin-s)
+- [Revault](https://github.com/revault/revaultd) - Bitcoin vault architecture for multi-party situations.
+- [The Bitcoin Investment Thesis Is Broken (2022)](https://www.iansbnr.com/the-bitcoin-investment-thesis-is-broken/) ([HN](https://news.ycombinator.com/item?id=31490789))

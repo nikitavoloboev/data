@@ -1,0 +1,286 @@
+# Investing
+
+I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](https://finance.yahoo.com/quote/VXUS/)) using [Interactive Brokers](https://ibkr.com/referral/nikita206) & [Trading212](https://trading212.com/).
+
+[Bogleheads' Guide to Investing Book](https://www.bogleheads.org/blog/portfolio/the-bogleheads-guide-to-investing/) is great intro. [Polygon.io](https://polygon.io/) seems to have nice APIs for getting financial market data. [Value investing seems hard to do](https://www.reddit.com/r/investing/comments/uizkxs/the_stock_market_is_a_total_joke/) thus I don't do much stock picking and focus on ETFs with historically good returns. [Time in the market beats timing the market](https://www.reddit.com/r/stocks/comments/ujwi0q/can_anyone_explain_this_market_in_simple_terms/).
+
+## Interesting ETFs
+
+- [VT](https://finance.yahoo.com/quote/vt/) - Vanguard Total World Stock Index Fund.
+- [VTI](https://finance.yahoo.com/quote/VTI/) - Vanguard Total Stock Market ETF.
+- [VOO](https://finance.yahoo.com/quote/VOO/) - Vanguard S&P 500 ETF. ([Reddit](https://www.reddit.com/r/stocks/comments/sxts24/what_would_you_do_if_you_inherited_a_million/hxtysn7/?context=3))
+- [VXUS](https://finance.yahoo.com/quote/VXUS/) - Vanguard Total Intl Stock Idx Fund.
+- [VWCE](https://finance.yahoo.com/quote/VWCE.DE/) - Vanguard FTSE All-World UCITS ETF USD Accumulation. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qv75by/investing_800_yearly_into_vusa_as_a_polish/))
+- [VBILX](https://finance.yahoo.com/quote/VBILX/) - Vanguard Intermediate-Term Bond Index Fund.
+- [VTSAX](https://finance.yahoo.com/quote/VTSAX/) - Vanguard Total Stock Market Index Fund Admiral.
+- [VTWAX](https://finance.yahoo.com/quote/VTWAX/) - Vanguard Total World Stock Index Fund Admiral.
+- [VASGX](https://finance.yahoo.com/quote/vasgx/) - Vanguard LifeStrategy Growth Fund Investor.
+- [VWINX](https://finance.yahoo.com/quote/vwinx/) - Vanguard Wellesley Income Fund Investor.
+- [S&P 500](https://finance.yahoo.com/quote/%5EGSPC/) - Tracking the performance of 500 large companies listed on stock exchanges in the United States.
+- [List of some](https://twitter.com/levelsio/status/1278035707412520968)
+
+## Notes
+
+- Don't try to time the market. Time in the market is better than timing the market.
+- If you want the theoretically highest return then get in immediately, because the only guaranteed way to on average increase your return is to be in the market for a longer period of time. If you're worried about volatility then accumulate your position over a week or a month at a set rate.
+- ISA investing is tax-free. Can use [Vanguard](https://www.vanguardinvestor.co.uk/investing-explained/stocks-shares-isa) for it.
+- [Welcome high-profile failures.](https://twitter.com/patio11/status/1296303522737033216)
+- [Volatility of the markets: Personally, I give it absolutely no respect at all. I do not give a shit about the world, news, politics, economy, COVID, all time highs, all time lows, V shape recovery, W shape recovery, wars, recessions, etc.](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/)
+  - Those things have absolutely no impact on how I invest. I am boring and I really don’t give a shit. As such, I’ll keep investing half of my pay every pay until I retire/die as my job is stable with high job security, I have a solid emergency fund that can cover 6 months worth of living expenses, I have no debt, and I have no expensive tastes/hobbies.
+  - Finally, I actually look forward to and hope for recessions and market crashes because I am a super long term investor. This allows me to buy more shit and reach my own financial goals quicker and I don’t care how greedy and/or selfish that sounds. I’m investing for me, my family, and future unborn generations.
+- [Invest in Index Funds every month and invest more when there is a market crash and recession.](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/)
+- Think like an investor and not a trader, one should aim to learn to think like a business man. That means thinking about customer value, customer experience, demographic changes and consumer behavior.
+  - Your portfolio as the literal portfolio of an active owner of multiple businesses. Since you can’t influence management, the point is not to kid yourself that you can do a better job than world class management. You’re just learning to spot them and attach your capital to their knowledge and skills. It also makes the hobby more fun, as you learn what good solutions to problems look like.
+- [QQQ index](https://www.investopedia.com/ask/answers/061715/what-qqq-etf.asp) has [nice returns](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/g2wyqab/)
+- [Don’t chase companies. Don’t move money to ride the hot company that month. Do your research, plan, and then wait. Check your evaluation and then execute.](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/)
+- [In a company, you have a board and you have shareholders. If you don't want the mould of a public company, you create or keep it as a private company. In a private company, you can do any of these employee stock options or buybacks or long term things, much as you can do with a public company, if you wanted to. The board and the shareholders have a similar sort of dynamic in both, but I would say the board of a private company invites less scrutiny, or at least less fully public scrutiny.](https://news.ycombinator.com/item?id=24456655)
+- [Historically accounts that trade more often do poorly. There are a variety of reasons for this, some of which might no longer apply with "zero cost" brokerage accounts. (I say zero cost, since some, like Robinhood sell their order stream). Ignoring the zero cost brokerage there are still costs with taxes. It also starts to get into market timing, which is very difficult to do. By holding onto a stock for the long term, owners are less likely to over react emotionally to good or bad news, allowing it to cloud their judgement. That having been said, if tomorrow you learn the stock has a serious, fundamental problem that effects it's core business, then selling it is a reasonable strategy. I believe this is the reason why Buffett dumped his holdings in the airline industry in March. It has since bounced back in price, but the fundamental issues of lower passengers remain, and likely will continue to remain for several years.](https://www.reddit.com/r/investing/comments/kbopcx/the_big_problem_with_this_and_other_big/)
+- [The line separating investment and speculation, which is never bright and clear, becomes blurred still further when most market participants have recently enjoyed triumphs. Nothing sedates rationality like large doses of effortless money.](https://www.reddit.com/r/investing/comments/kbgtbu/for_all_those_who_know_we_are_in_a_bubble_but/)
+- [The stock market is not the economy. The stock market consists disproportionately of medium and large companies. Different companies also depend on different markets, countries and supply chains.](https://www.reddit.com/r/AskEconomics/comments/mfms35/covid_brexit_and_now_the_suez_channel_blocked/)
+- [Just because a company is in an exciting industry doesn’t mean it’s a good investment. This is also a important thing to remember when investing in EV stocks.](https://www.reddit.com/r/stocks/comments/n392a4/twitter_twtr_has_done_basically_nothing_in_its/)
+- [The problem with buying things that you don't know how to value, is you don't know when to sell until it's too late.](https://www.reddit.com/r/investing/comments/n6dh3d/i_sold_every_share_i_own_today/)
+- [If total market index funds aren't a good investment over the next 30 years, then stock picking is likely to be even worse.](https://www.reddit.com/r/Bogleheads/comments/n8j145/is_there_strong_evidence_that_index_funds_will_be/)
+- [Short term market trends are less affected by earnings and more by market sentiment. Consistent earnings will make the price rise in the long run but stocks always go through highs and lows.](https://www.reddit.com/r/stocks/comments/ngcedr/can_anyone_explain_why_earnings_no_longer_matter/)
+- [Social media has permanently changed investor behavior in ways many professional investors haven't yet come to terms with.](https://twitter.com/morganhousel/status/1400503536555757575)
+- [VTWAX fund seems good](https://news.ycombinator.com/item?id=27747934)
+- [One of the best times to buy a stock is when a good company sells off on earnings due to investor overreaction. It requires a bit of digging and judgment to determine whether the selloff was justified or an overreaction, but it can be very profitable.](https://www.reddit.com/r/investing/comments/oz6a2y/trader_do_you_buy_stocks_right_after_a_large_drop/)
+- [You don’t get wealthy from “taking profit” every chance you get. You get wealthy by finding long term profitable companies that you buy in to and hold for years.](https://www.reddit.com/r/investing/comments/p0r3o4/time_to_take_aapl_gains_and_gtfo/)
+- [Wealthiest 10% of Americans own a record 89% of all U.S. stocks. Remember this next time a politician tries to point to the stock market as a sign of economic health.](https://twitter.com/JordanUhl/status/1454943968186097664)
+- [Always buy into a project and it’s fundamentals, ecosystem, growth potential. If the price goes up or down is irrelevant.](https://www.reddit.com/r/solana/comments/qlr599/how_you_decide_when_its_the_best_time_to_buy_sol/)
+- [Wall Street investing firms spend billions of dollars to decrease the latency between their computer systems by microseconds. The shorter the cables, the quicker they can make trades and squeeze money out of the market. That’s what you’re up against as an individual investor. You will not beat their teams of PhDs with state of the art equipment and algorithms. It’s best to buy the entire market and take your average returns.](https://www.reddit.com/r/Bogleheads/comments/tb2xc8/if_boglehead_philosophy_is_the_long_run_lazy/)
+- [Can liquidate gains from investing by moving tax free jurisdiction for 6 months and becoming fiscal resident there. Belgium has no capital gain tax if you can show that you weren't actively trading. Dubai is another option. Once you get the paper that you're a fiscal resident, sell your coins/stocks. You won't have to pay any tax. Open a brokerage account and invest that money in index funds (ETFs). You can then safely withdraw about 4% of your portfolio each year without jeopardizing it.](https://www.reddit.com/r/eupersonalfinance/comments/ufwen5/question_early_30s_about_200k_euros_looking_to/)
+- [Routing through IEX is retail's best bet for hitting a lit exchange and a fair price, but some brokers say they route through IEX and go through Citadel first.](https://www.reddit.com/r/investing/comments/uizkxs/the_stock_market_is_a_total_joke/)
+- [Money too much, borrow too easy. Not enough stuff, stuff now high price. Must make stuff not so high price. Must make money hard to borrow. Money hard to borrow, hard to run business, business get less money. Less employees, less spending, less economy. Soft landing win win, hard landing bad bad. What happen, nobody know.](https://www.reddit.com/r/stocks/comments/ujwi0q/can_anyone_explain_this_market_in_simple_terms/)
+
+## Links
+
+- [Bogleheads](https://www.bogleheads.org/) - Investing Advice and Info. ([HN](https://news.ycombinator.com/item?id=24023604))
+- [Bogleheads Wiki](https://www.bogleheads.org/wiki/Main_Page) - Great resource.
+- [Bogleheads Getting Started](https://www.bogleheads.org/wiki/Getting_started)
+- [Bogleheads Investment Philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)
+- [Lazy portfolios](https://www.bogleheads.org/wiki/Lazy_portfolios)
+- [Keith Rabois' investment criteria](https://twitter.com/rabois/status/934099022603747329)
+- [Seeking Alpha](https://seekingalpha.com/) - Crowd-sourced content service for financial markets.
+- [Here’s everything I’ve learned about angel investing in the past 8 years since I made my first one. I’ve invested in Cruise, Ginkgo Bioworks, Razorpay, Bird, and 100 more companies.](https://twitter.com/justinkan/status/1136751115632988160)
+- [Jack Bogle on Index Funds, Vanguard, and Investing Advice (2019)](https://www.youtube.com/watch?v=MLgn_kVKjCE)
+- [The Position of Fuck You by JL Collins](https://www.youtube.com/watch?v=eikbQPldhPY)
+- [JL Collins: "The Simple Path to Wealth" | Talks at Google (2018)](https://www.youtube.com/watch?v=T71ibcZAX3I)
+- [Josh Wolfe Discusses Innovative Investments (2019)](https://overcast.fm/+JVs6Yyeqg)
+- [Freetrade](https://freetrade.io/) - Commission free investing for UK/EU.
+- [How To Invest In Startups (2020)](https://blog.samaltman.com/how-to-invest-in-startups) ([HN](https://news.ycombinator.com/item?id=22035997))
+- [Fey](https://www.feyapp.com/) - Gives you the complete picture of your portfolio, with fast data entry, always-on risk analysis and more.
+- [Top companies by market cap](https://finviz.com/screener.ashx?o=-marketcap)
+- [How to start angel investing (2020)](https://medium.com/@juliadewahl/how-to-start-angel-investing-8f2eb779e96f)
+- [Investors Club](https://investors.club/) - Paid, members-only marketplace for serious buyers interested in proven businesses that aren't listed anywhere else.
+- [Tesla: the ’20s (2020)](https://jwmza.com/thoughts/tesla-the-20s/)
+- [Ask HN: How do I find investors? (2020)](https://news.ycombinator.com/item?id=22284025)
+- [A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom (2015)](https://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom/)
+- [Investment Memo: Earnest Fund 2 (2020)](https://earnestcapital.com/investment-memo-fund-2/)
+- [What’s up with China buying US debt? (2020)](https://www.reddit.com/r/OutOfTheLoop/comments/fj1avn/whats_up_with_china_buying_us_debt/)
+- [Advice on doing Real Estate investing](https://www.reddit.com/r/financialindependence/comments/fj33fa/the_best_financial_decision_i_ever_made/fkkqiw3)
+- [Ask HN: How should I invest \$200K in this market? (2020)](https://news.ycombinator.com/item?id=22623807)
+- [Ask HN: Introductory Books on the Stock Market? (2020)](https://news.ycombinator.com/item?id=22709843)
+- [Sequoia Capital podcast episode](https://overcast.fm/+FaxnVsu28) ([Part II](https://overcast.fm/+FaxleB3SE))
+- [Money For The Rest of Us](https://moneyfortherestofus.com/) - Trusted guide for those who manage their own money.
+- [Ask HN: Is now a good time to invest in ETFs? (2020)](https://news.ycombinator.com/item?id=22723957)
+- [Success of Warren Buffett's investing (2020)](https://www.reddit.com/r/investing/comments/frmj8x/warren_buffett/)
+- [Citadel](https://www.citadel.com/) - Leading investor in the world’s financial markets.
+- [Jane Street](https://www.janestreet.com/) - Quantitative trading firm with a unique focus on technology and collaborative problem solving.
+- [Two Sigma](https://www.twosigma.com/) - Investment firm.
+- [Two Sigma Ventures](https://twosigmaventures.com/) - Early-stage venture capital fund investing in transformative companies.
+- [Yahoo! Finance market data downloader](https://github.com/ranaroussi/yfinance)
+- [Tradologics](https://tradologics.com/) - Fastest way to go from idea to live-trading – bypassing all infrastructure headaches.
+- [Tradologics & The Future of Trading (2020)](https://aroussi.com/post/tradologics-the-future-of-trading)
+- [Investopedia](https://www.investopedia.com/) - Strives to empower every person to feel in control of their financial future.
+- [MoneyWeek playlists](https://www.youtube.com/user/MoneyWeekVideos/playlists) - Educational videos on finance/investing.
+- [Aswath Damodaran's teachings](http://pages.stern.nyu.edu/~adamodar/) ([YouTube](https://www.youtube.com/channel/UCLvnJL8htRR1T9cbSccaoVw/playlists))
+- [Alpaca](https://alpaca.markets/) - API for Stock Trading. ([Python Client](https://github.com/alpacahq/alpaca-trade-api-python))
+- [IEX Cloud](https://iexcloud.io/) - Easiest way to use financial data.
+- [Mutiny Investment Strategy](https://mutinyfund.com/about/)
+- [Antifragile Investing: How to Not Be a Turkey](https://taylorpearson.me/antifragile-investing/)
+- [Financial Modeling Prep](https://financialmodelingprep.com/) - Concept that informs you about stock markets information.
+- [Turning my obsession in the stock market into a side project (2020)](https://eduardosasso.co/blog/turning-my-obsession-in-the-stock-market-into-a-side-project/) ([HN](https://news.ycombinator.com/item?id=22870667))
+- [Bullish](https://bullish.email/) - Free daily email newsletter with information about the stock market. ([Code](https://github.com/eduardosasso/bullish))
+- [How do you find out about promising new companies? (2020)](https://www.reddit.com/r/investing/comments/g3pgax/how_do_you_find_out_about_promising_new_companies/)
+- [What is the best investing advice that you’ve ever been given? (2020)](https://www.reddit.com/r/investing/comments/g8eikm/what_is_the_best_investing_advice_that_youve_ever/)
+- [HN: How Do Insurance Companies Make Money (2020)](https://news.ycombinator.com/item?id=23040333)
+- [Dataset of VCs investing in seed and Series A+ rounds](https://unicorn-nest.com/dataset/) ([HN](https://news.ycombinator.com/item?id=23018805))
+- [How to get stock fundamentals data with Python (2020)](http://theautomatic.net/2020/05/05/how-to-download-fundamentals-data-with-python/) ([HN](https://news.ycombinator.com/item?id=23081595))
+- [Ask HN: I've saved up \$80k USD. What should I do with it? (2020)](https://news.ycombinator.com/item?id=23089445)
+- [Edgefolio](https://edgefolio.com/) - Platform connecting all key stakeholders in the Asset Management industry.
+- [HN: Have the Record Number of Investors in the Stock Market Lost Their Minds? (2020)](https://news.ycombinator.com/item?id=23200830)
+- [toro](https://gitlab.com/aenegri/toro) - Trade stocks from the command line with no commission. ([HN](https://news.ycombinator.com/item?id=23209142))
+- [Angel Investing: Start to Finish (2020)](https://www.holloway.com/b/angel-investing)
+- [Intelligent Investor book notes](https://wiki.harrison.dev/books/intelligent-investor.html)
+- [Seedtable](https://www.seedtable.com/) - Provides an analysis of technology in Europe and its impact on society.
+- [Returns-Based Style Analysis](https://www.badgerodon.com/rbsa)
+- [Blueprint Project](https://blueprint.dormroomfund.com/) - Masterclass by Dorm Room Fund aimed at empowering diverse investors and founders.
+- [Jeff Morris Jr. (Founder & Managing Partner at Chapter One) interview (2020)](https://thetakeoff.substack.com/p/jeff-morris-jr-edition-15)
+- [Numerai](https://numer.ai/) - AI-run, crowd-sourced hedge fund.
+- [FINVIZ](https://www.finviz.com/) - Stock screener for investors and traders, financial visualizations.
+- [How do I get better at following lesser known stocks? (2020)](https://www.reddit.com/r/investing/comments/gyax1h/how_do_i_get_better_at_following_lesser_known/)
+- [Fortune 500 companies](https://fortune.com/fortune500/) ([Parsed as CSV](https://github.com/cmusam/fortune500))
+- [S&P 500 Companies with Financial Information](https://datahub.io/core/s-and-p-500-companies) ([Code](https://github.com/datasets/s-and-p-500-companies))
+- [Investor's Field Guide](http://investorfieldguide.com/)
+- [How to not get ruined with Options (2020)](https://www.reddit.com/r/investing/comments/hdft5z/how_to_not_get_ruined_with_options_part_1_of_4/)
+- [Andrew Wilkinson & Tiny Capital Operating Manual (2020)](https://colinkeeley.com/blog/andrew-wilkinson-tiny-capital-operating-manual) ([HN](https://news.ycombinator.com/item?id=23739381))
+- [Charlie Songhurst – Lessons from Investing in 483 Companies (2020)](http://investorfieldguide.com/songhurst/) ([Tweet](https://twitter.com/patrick_oshag/status/1280889822404624384))
+- [Via by On Deck](https://via.beondeck.com/) - Get referred to breakout companies via top investors.
+- [Visual History Of The S&P 500](https://etfdb.com/history-of-the-s-and-p-500/)
+- [Software Stack Investing](https://softwarestackinvesting.com/)
+- [Robinhood and How to Lose Money (2020)](https://themargins.substack.com/p/robinhood-and-how-to-lose-money) ([HN](https://news.ycombinator.com/item?id=23894228))
+- [Ask HN: I have \$450K cash, what should I do to maximize my return? (2020)](https://news.ycombinator.com/item?id=24020899)
+- [Public.com](https://public.com/) - Social Investing App.
+- [Rolling funds explanation (2020)](https://github.com/cassidoo/stream-hooks-demo)
+- [Naval Ravikant on Investing](https://www.navalmanack.com/investing)
+- [Investing ft. Brianne Kimmel (worklife), Tyler Tringas (Earnest Capital), and Sunil Pai (AngelList) (2020)](https://www.youtube.com/watch?v=a6oxclPIaxs) ([Article](https://techcrunch.com/2020/08/05/gumroad-founder-sahil-lavingia-launches-new-seed-fund-in-collaboration-with-angellist/))
+- [Announcing Initialized Fund V (2020)](https://medium.com/initialized-capital/announcing-initialized-fund-v-ab34becf68c9)
+- [Advice on investing in fintech companies (2020)](https://twitter.com/arfrank/status/1297997387475099654)
+- [What is the best investing tip for beginner investors you wish you knew when you started? (2020)](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/)
+- [The Truth About "Trading Gurus" From a Hedge Fund Manager (2020)](https://www.youtube.com/watch?v=JfP4rVsmL_Q) ([Tweet](https://twitter.com/ossia/status/1300473889663995904))
+- [The Long-Term Stock Exchange Opens for Business (2020)](https://blog.ltse.com/the-long-term-stock-exchange-opens-for-business-38b13f51e87b) ([HN](https://news.ycombinator.com/item?id=24420177))
+- [HN: JPMorgan to trade shares of pre-IPO giants including SpaceX, Robinhood, Airbnb (2020)](https://news.ycombinator.com/item?id=24456655)
+- [Ask HN: What are your instruments for investment? (2020)](https://news.ycombinator.com/item?id=24539605)
+- [PG and Jessica (2020)](https://blog.samaltman.com/pg-and-jessica) ([HN](https://news.ycombinator.com/item?id=24590401))
+- [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
+- [Qlib](https://github.com/microsoft/qlib) - AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
+- [Favorite dividend stock/etf to invest in (2020)](https://www.reddit.com/r/investing/comments/j8quo5/favorite_dividend_stocketf_to_invest_in/)
+- [ARK Invest](https://ark-funds.com/) - Innovation ETFs.
+- [Reddit's Stock Threads Become a Must-Read on Wall Street (2020)](https://www.bloomberg.com/news/articles/2020-10-10/home-made-covid-vaccine-appeared-to-work-but-questions-remained) ([HN](https://news.ycombinator.com/item?id=24739458))
+- [Collection of stock market resources and tools](https://github.com/ckz8780/market-toolkit)
+- [LazyFA](https://www.lazyfa.com/) - Automated Fundamental Analysis.
+- [EliteQuant](https://github.com/EliteQuant/EliteQuant) - List of online resources for quantitative modeling, trading, portfolio management.
+- [How I failed my daughter and a simple path to wealth (2011)](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/)
+- [Investing with Vanguard for Europeans: 2020 update](https://jlcollinsnh.com/2020/04/22/investing-with-vanguard-for-europeans-2020-update/)
+- [The Swedish Investor videos](https://www.youtube.com/c/TheSwedishInvestor/videos)
+- [Robin Stocks](https://github.com/jmfernandes/robin_stocks) - Robinhood API Library. ([Docs](https://robin-stocks.readthedocs.io/en/latest/))
+- [pyrh](https://github.com/robinhood-unofficial/pyrh) - Python Framework to make trades with the unofficial Robinhood API.
+- [lbPy](https://github.com/blampe/IbPy) - Python API for the Interactive Brokers on-line trading system.
+- [How to Break into Startup Investing (2020)](https://eriktorenberg.substack.com/p/how-to-break-into-startup-investing)
+- [Awesome Investing](https://github.com/mr-karan/awesome-investing)
+- [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity.
+- [Save like a pessimist, invest like an optimist (2020)](https://www.collaborativefund.com/blog/save-like-a-pessimist-invest-like-an-optimist/) ([HN](https://news.ycombinator.com/item?id=25093308))
+- [TradingView](https://www.tradingview.com/) - Free Stock Charts, Stock Quotes and Trade Ideas.
+- [Vanguard Total World Stock ETF](https://investor.vanguard.com/etf/profile/VT) ([Reddit](https://www.reddit.com/r/IAmA/comments/k9b4g8/im_ray_daliofounder_of_bridgewater_associates_we/gf4ga79/))
+- [Ark ETF tracker](https://cathiesark.com/) ([HN](https://news.ycombinator.com/item?id=25421207))
+- [From Newbie to Pro Investor Guide (2020)](https://www.reddit.com/r/investing/comments/khg9sj/the_ultimate_fundamentals_guide_on_what_you_need/)
+- [What are your current undervalued stock picks? What are your stock picks for 2021?](https://www.reddit.com/r/investing/comments/kj20bp/what_are_your_current_undervalued_stock_picks/)
+- [Lyn Alden – Investment Strategy](https://www.lynalden.com/)
+- [The Grant Williams Podcast](https://ttmygh.podbean.com/)
+- [Trading 212](https://www.trading212.com/) - Invest in Stocks and ETFs for free. ([Community](https://community.trading212.com/))
+- [streetmerchant](https://github.com/jef/streetmerchant) - World's easiest, most powerful stock checker. ([Docs](https://jef.codes/streetmerchant/))
+- [Investing in Public: Non-Obvious Lessons from 100 Angel Investments (2021)](https://sacerdoti.substack.com/p/investing-in-public-non-obvious-lessons)
+- [How to Get Started with Investing (2020)](https://www.youtube.com/watch?v=gFQNPmLKj1k)
+- [What Is a Gamma Squeeze in the Context of Stock Trading? (2020)](https://www.swfinstitute.org/news/83341/what-is-a-gamma-squeeze-in-the-context-of-stock-trading) ([HN](https://news.ycombinator.com/item?id=25736025))
+- [Machine Learning for Factor Investing](http://www.mlfactor.com/) - Advanced modelling techniques applied to equity investment strategies that are built on firm characteristics. ([Code](https://github.com/shokru/mlfactor.github.io))
+- [Short squeeze explained (2021)](https://www.reddit.com/r/investing/comments/l3otq5/all_right_wtf_is_going_on_with_gme/)
+- [Fidelity Investments](https://www.fidelity.com/)
+- [Ask HN: What Are the Alternatives to Robinhood? (2021)](https://news.ycombinator.com/item?id=25946366)
+- [High Short Interest Stocks](https://www.highshortinterest.com/all/) ([HN](https://news.ycombinator.com/item?id=25950838))
+- [Robinhood Learn](https://learn.robinhood.com/library/) - Investing basics—in plain English.
+- [Why Robinhood disabled buys but not sells (2021)](https://stu2b50.dev/posts/why-robinhood-d3580b) ([HN](https://news.ycombinator.com/item?id=25979673))
+- [Ticker](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
+- [People Are Worried About Payment for Order Flow (2021)](https://www.bloomberg.com/opinion/articles/2021-02-05/robinhood-gamestop-saga-pressures-payment-for-order-flow)
+- [Reddit Stock Trends](https://github.com/iam-abbas/Reddit-Stock-Trends) - Fetch currently trending stocks on Reddit.
+- [vectorbt](https://github.com/polakowo/vectorbt) - Python library for backtesting and analyzing trading strategies at scale. ([Docs](https://polakowo.io/vectorbt/docs/index.html))
+- [MachineLearningStocks](https://github.com/robertmartin8/MachineLearningStocks) - Using python and scikit-learn to make stock predictions.
+- [Algorithmic Trading with Python (2020)](https://github.com/chrisconlan/algorithmic-trading-with-python)
+- [CheaperThanGuru](https://cheaperthanguru.com/) - Analyze Portfolios of Investment Gurus.
+- [Historically it's way better to invest at market close than at market open, most gains occur overnight (2021)](https://www.reddit.com/r/investing/comments/lhtodm/historically_its_way_better_to_invest_at_market/)
+- [Investing 101: Risk by Chamath Palihapitiya (2020)](https://twitter.com/chamath/status/1308073763842351104)
+- [Buffett FAQ](http://buffettfaq.com/) - Compendium of Q&A sessions with Warren Buffett.
+- [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Awesome stock market terminal that has been developed for fun.
+- [Are You Trading or Gambling? (2021)](https://investinglessons.substack.com/p/are-you-trading-or-gambling) ([HN](https://news.ycombinator.com/item?id=26283650))
+- [Investments you own that you believe have the highest chance of 10X'ing in 5-10 years (2021)](https://www.reddit.com/r/investing/comments/lu6i2t/investments_you_own_that_you_believe_have_the/)
+- [M1 Chart](https://m1chart.com/) - Stock market adjusted for the US-dollar money supply. ([HN](https://news.ycombinator.com/item?id=26128388))
+- [IB-insync](https://github.com/erdewit/ib_insync) - Python sync/async framework for Interactive Brokers API.
+- [xbbg](https://github.com/alpha-xone/xbbg) - Intuitive Bloomberg data API. ([Docs](https://xbbg.readthedocs.io/en/latest/))
+- [Backtesting.py](https://github.com/kernc/backtesting.py) - Backtest trading strategies with Python.
+- [pysystemtrade](https://github.com/robcarver17/pysystemtrade) - Systematic Trading in Python.
+- [Jack Clark - Grateful for Everything, Entitled to Nothing (2021)](https://podcasts.google.com/feed/aHR0cHM6Ly9pbnZlc3RsaWtldGhlYmVzdC5saWJzeW4uY29tL3Jzcw/episode/OWI4MmViNGEtZTQ0NS00NmY3LWJlZWQtZTBkODk4OTNhZmYw?ep=14)
+- [Why in the world would you own bonds? (2021)](https://www.bridgewater.com/research-and-insights/why-in-the-world-would-you-own-bonds-when) ([HN](https://news.ycombinator.com/item?id=26485756))
+- [Trading Signals](https://github.com/bennycode/trading-signals) - Technical indicators and overlays to run technical analysis with JavaScript / TypeScript.
+- [Investing wealth wisely (2021)](https://twitter.com/patrick_oshag/status/1376162837932998662)
+- [Reasons to casually angel invest (2021)](https://twitter.com/celinehalioua/status/1375947954255585281)
+- [Atelier Angels Pilot Program](https://www.notion.so/Atelier-Angels-Pilot-Program-f5f870f78c3b4cd2afaa6e033e69b46e) - Program where top creators learn to be successful angel investors. ([Tweet](https://twitter.com/ljin18/status/1375898032059908103))
+- [How do I begin investing? (2021)](https://www.reddit.com/r/leanfire/comments/mfe1f1/how_do_i_begin_investing/)
+- [Investing Reddit Wiki](https://www.reddit.com/r/investing/wiki/index)
+- [On Deck Investing](https://www.beondeck.com/investing) - Become a more informed investor and level up your portfolio. In 10 weeks.
+- [John Bogle's 10 Rules of Investing](https://www.youtube.com/watch?v=ItmmwvCBJqg) ([Reddit](https://www.reddit.com/r/Bogleheads/comments/mp2eve/john_bogles_10_rules_of_investing_founder_of/))
+- [Those who are leanfired or working towards it, how do you currently invest? (2021)](https://www.reddit.com/r/leanfire/comments/mpvk0o/those_who_are_leanfired_or_working_towards_it_how/)
+- [Why not go 100% vanguard target? (2021)](https://www.reddit.com/r/Bogleheads/comments/my6tux/why_not_go_100_vanguard_target/)
+- [Things to consider before putting on an options trade (2021)](https://www.reddit.com/r/options/comments/n13xal/things_to_consider_before_putting_on_an_options/)
+- [Value Investing in 2021 w/ Mohnish Pabrai](https://overcast.fm/+I6zEIwfLE)
+- [Explain why earnings no longer matter, and the entire market is just pump&dump after pump&dump? (2021)](https://www.reddit.com/r/stocks/comments/ngcedr/can_anyone_explain_why_earnings_no_longer_matter/)
+- [DealTeam](https://www.dealteam.com/) - Platform for professional investors.
+- [10 investing lessons from Stanley Druckenmiller (2021)](https://twitter.com/TrungTPhan/status/1397927107682914308)
+- [Free resources for the stock market (2021)](https://major.io/2021/04/22/free-resources-for-the-stock-market/)
+- [Posts on Options Trading](https://major.io/tags/options/)
+- [Republic](https://republic.co/) - Invest in Startups.
+- [Complex Adaptive Systems (Stonk Market) and How to Beat Them (2021)](https://www.youtube.com/watch?v=8QaP43sFO5A)
+- [finance-go](https://github.com/piquette/finance-go) - Financial markets data library implemented in go.
+- [My "Investment Mindset"](https://blog.pragmaticengineer.com/the-investment-mindset/)
+- [Simple Portfolio](https://simpleportfolio.app/) - Stock Portfolio Tracking for Long-term Investors.
+- [Beginner looking for guide/books to understand Vanguard's ETF (2021)](https://www.reddit.com/r/eupersonalfinance/comments/old7e0/beginner_looking_for_guidebooks_to_understand/)
+- [wikAPEdia](https://github.com/verymeticulous/wikAPEdia) - Central place for apes to learn about stonks.
+- [Large Cap Growth Stocks (FB, AMZN, AAPL, GOOGL, MSFT, TSLA) (2020)](https://www.youtube.com/watch?v=foqswJT3Spc)
+- [Positions, Profit and Loss (2021)](https://www.machow.ski/posts/2021-07-24-positions-profit-and-loss/)
+- [An Introduction to Limit Order Books (2021)](https://www.machow.ski/posts/2021-07-18-introduction-to-limit-order-books/)
+- [How does Angel Investing? (2021)](https://zachholman.com/posts/how-does-angel-investing)
+- [DueDilly](https://duedilly.io/) - Accuracy of Reddit Trading Ideas. ([HN](https://news.ycombinator.com/item?id=28244744))
+- [A primer on investing for designers and developers (2019)](https://brianlovin.com/writing/investing-for-designers-and-developers)
+- [What are some high risk high reward stocks that could explode in the next couple years? (2021)](https://www.reddit.com/r/stocks/comments/pi34nx/what_are_some_high_risk_high_reward_stocks_that/)
+- [pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars) - Market calendars to use with pandas for trading applications.
+- [exchange_calendars](https://github.com/gerrymanoim/exchange_calendars) - Calendars for various securities exchanges.
+- [Investments](https://github.com/KonishchevDmitry/investments) - Helps you with managing your investments.
+- [Cabal](https://getcabal.com/) - Help founders get more out of their investors and advisors. ([Twitter](https://twitter.com/GetCabal))
+- [Blankly](https://blankly.finance/) - Rapidly Build Quant Models Across Exchanges. ([Code](https://github.com/Blankly-Finance/Blankly)) ([GitHub](https://github.com/Blankly-Finance))
+- [Ask HN: How to start learning about investments (2021)](https://news.ycombinator.com/item?id=29056262)
+- [Goldman Sachs - Quantitative Strategies Research Notes](https://github.com/colejhudson/goldman-sachs-quantitative-strategies-research-notes)
+- [justETF](https://www.justetf.com/en/) - ETF portfolios made simple.
+- [Bankeronwheels.com](https://www.bankeronwheels.com/) - Index Investing for European and UK Investors. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qpeu1n/picking_a_bond_etf/))
+- [Ask HN: How do you find funds to invest in? (2021)](https://news.ycombinator.com/item?id=29161098)
+- [How to invest in ETFs w/ Cullen Roche (2021)](https://overcast.fm/+I6zEe-P5A)
+- [Understanding Candlestick Charts for Beginners (2015)](https://www.youtube.com/watch?v=1rwVV_8uUxc)
+- [Is Dollar-Cost Averaging Better Than Lump-Sum Investing? (2020)](https://www.youtube.com/watch?v=nCp2bZbaBdw)
+- [Portfolio Performance](https://www.portfolio-performance.info/en/) - Open source tool to calculate the overall performance of an investment portfolio - across all accounts. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qtc4p5/portfolio_tracker_for_degiro_users/))
+- [Arbitrage as a Shortest Path Problem (2021)](https://blog.skz.dev/arbitrage-as-a-shortest-path-problem)
+- [Stocketa](https://stocketa.com/) - Premium portfolio tracker for iOS. ([Twitter](https://twitter.com/StocketaApp))
+- [Degiro](https://www.degiro.com/) - Online Stock Trading. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qxc47l/summary_of_degiro_new_fee_schedule_from_20122021/))
+- [How ETFs work behind the scenes, rebalancing and preventing capital gains (2021)](https://www.reddit.com/r/investing/comments/qy7q2x/how_etfs_work_behind_the_scenes_rebalancing_and/)
+- [Portfolio Returns](https://github.com/ashchan/returns) - Financial app for macOS that helps you track your multiple investment or portfolios in one place.
+- [Cheapest apps to invest in S&P 500 (2021)](https://www.reddit.com/r/investing/comments/rol1ez/ive_got_10000_i_want_to_invest_in_the_sp_500_for/)
+- [Fundamental Analysis](https://github.com/JerBouma/FundamentalAnalysis) - Fully-fledged Fundamental Analysis package capable of collecting 20 years of Company Profiles, Financial Statements, Ratios and Stock Data of 20.000+ companies.
+- [Investing 100k in EU (2022)](https://www.reddit.com/r/eupersonalfinance/comments/rvt145/ive_saved_100k_what_to_do_now_im_lost/)
+- [What it Takes to Beat the Market (2021)](https://austinvernon.site/blog/earningalpha.html)
+- [I have never read a business plan or balance sheet](https://twitter.com/paulg/status/1492682253612113921) ([HN](https://news.ycombinator.com/item?id=30318634))
+- [What to know about the stock market (2007)](https://betterexplained.com/articles/what-you-should-know-about-the-stock-market/) ([HN](https://news.ycombinator.com/item?id=30329148))
+- [Tight Shorts](https://tightshorts.ru/) - Daily Short Sale Volume. Presents FINRA reports in a more visual form. ([Code](https://github.com/samgozman/tightshorts))
+- [Barchart.com](https://www.barchart.com/) - Commodity, Stock, and Currency Quotes, Charts, News & Analysis. ([Fetch Data Code](https://github.com/samgozman/barchart-dot-com))
+- [stonky](https://github.com/jkwill87/stonky) - Command line dashboard for monitoring stocks.
+- [Investing books](https://www.reddit.com/r/Bogleheads/comments/tdg583/im_getting_a_book_reading_list_together_so_far_i/)
+- [Investor Math and Statistics (2022)](https://www.reddit.com/r/Bogleheads/comments/tq0ii9/investor_math_and_statistics/)
+- [The one fund to hold in Roth IRA (2022)](https://www.reddit.com/r/Bogleheads/comments/tvac39/if_you_are_34_years_old_and_only_want_to_have_one/)
+- [Tools to use for long term investing (2022)](https://twitter.com/brian_lovin/status/1512144546896891910)
+- [IBKR Traders' Academy](https://tradersacademy.online/)
+- [Where to safely invest money for long term? (2022)](https://twitter.com/moizali/status/1512423716474560512)
+- [Solid blue chip stocks to buy (2022)](https://www.reddit.com/r/stocks/comments/tznfdl/30k_want_to_buy_some_blue_chips_what_do_you/)
+- [The Bogleheads' Guide to Investing Book](https://www.bogleheads.org/blog/portfolio/the-bogleheads-guide-to-investing/)
+- [Bogleheads Blog](https://www.bogleheads.org/blog/)
+- [What are the best books about investing, finance, or money management? (2022)](https://www.reddit.com/r/Bogleheads/comments/u0gpp4/what_are_the_best_books_about_investing_finance/)
+- [Tai](https://github.com/fremantle-industries/tai) - Composable, real time, market data and trade execution toolkit. Built with Elixir.
+- [Prop](https://github.com/fremantle-industries/prop) - Open and opinionated trading platform using productive & familiar open source libraries and tools for strategy research, execution and operation.
+- [Workbench](https://github.com/fremantle-industries/workbench) - Manage your trading operation across a distributed cluster.
+- [History](https://github.com/fremantle-industries/history) - Download and warehouse historical trading data.
+- [go-trader](https://github.com/robaho/go-trader) - Financial exchange written in Go, designed for algorithmic trading tests.
+- [Bazaar](https://github.com/fabianboesiger/bazaar) - Rust crate for algorithmic futures trading.
+- [quick_trade](https://github.com/VladKochetov007/quick_trade) - Convenient script for trading with python.
+- [Strike.Market](https://strike.market/) - Stock research website with next-gen alternative data. ([HN](https://news.ycombinator.com/item?id=31108379))
+- [Ask HN: What tech companies/industries will do well in a recession? (2022)](https://news.ycombinator.com/item?id=31180508)
+- [Automated Fundamental Analysis via Python](https://github.com/faizancodes/Automated-Fundamental-Analysis) - Python program rates stocks out of 100 based on valuation, profitability, growth, and price performance metrics, relative to sector.
+- [Where to put money during high inflation? (2022)](https://www.reddit.com/r/FIREUK/comments/uj7nky/with_inflation_predicted_to_hit_1025_by_the_end/)
+- [Quant-MELO-Portfolio](https://github.com/pranjanpr/Quant-MELO-Portfolio) - Bayesian based architecture to evaluate the optimal weights of different stocks in a portfolio according to Global Minimum Variance and Tangency optimization problem.
+- [mplfinance](https://github.com/matplotlib/mplfinance) - Financial Markets Data Visualization using Matplotlib.
+- [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations.
+- [Ask HN: How to invest savings? (2022)](https://news.ycombinator.com/item?id=31563463)
+- [Ask HN: Is the stock market's growth largely anything more than inflation? (2022)](https://news.ycombinator.com/item?id=31586325)

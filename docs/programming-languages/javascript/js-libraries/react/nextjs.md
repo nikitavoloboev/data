@@ -1,0 +1,375 @@
+---
+title: Next.js
+---
+
+# [Next.js](https://github.com/vercel/next.js)
+
+Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful features I find from NextJS into [Solid Start](https://github.com/solidjs/solid-start).
+
+## Example sites
+
+- [Next.js Commerce starter kit](https://nextjs.org/commerce)
+- [NextJS full stack starter](https://github.com/SaraVieira/next-fullstack-starter)
+- [Turborepo starter with pnpm (Remix/NextJS)](https://github.com/mcansh/turborepo-remix)
+- [Next.js + Tailwind CSS Netflix Redesign](https://github.com/lukef7fywmrp/netflix-redesign)
+- [Skill Recordings Projects](https://github.com/skillrecordings/products) - Using Turborepo and pnpm to create a monorepo working environment for multiple applications and a shared common core library.
+- [Open Source Raid Guild](https://github.com/OpenSourceRaidGuild/website) - Built with Next.js and the "T3 Stack". ([Tweet](https://twitter.com/hybrid_alex/status/1495053117687222275))
+- [Platforms Starter Kit](https://github.com/vercel/platforms) - Template for site builders and low-code tools.
+- [NextJS Starter with NextAuth, Tailwind & Prisma](https://github.com/SaraVieira/next-starter-template)
+- [React Dashboard Design](https://github.com/ofekashery/react-dashboard-design) - Implement of Vercel's Dashboard design in Next.js.
+- [zART-Stack](https://github.com/KATT/zart) - Zero-API, React [Native], & TypeScript.
+- [Collaborative drawing app built with Replicache](https://github.com/steveruizok/replisketch)
+- [Next.js with Tailwind, TypeScript and Jest setup](https://github.com/productbrew/next-productbrew-starter)
+- [NextJS + Supabase Instagram Clone](https://github.com/thomas-coldwell/nextjs-supabase-instagram-clone)
+- [Tottem](https://github.com/poulainv/tottem) - Library management made social. Built with NextJS/TailwindCSS/TS/Prisma.
+- [OctoLinker site](https://github.com/OctoLinker/octolinker.now.sh)
+- [Syntax.fm](https://github.com/wesbos/Syntax)
+- [Notion Blog](https://github.com/ijjk/notion-blog) - Next.js site using new SSG support with a Notion backed blog.
+- [Companies / Sites using NextJS](https://github.com/vercel/next.js/discussions/10640)
+- [NextJS official examples](https://github.com/vercel/next.js/tree/canary/examples)
+- [Next + TypeScript + Yarn monorepo](https://github.com/josephluck/next-typescript-monorepo)
+- [Next.js SDK for signing in with Auth0](https://github.com/auth0/nextjs-auth0)
+- [Next.js Medium style boilerplate blog](https://github.com/maxigimenez/next-medium-blog-boilerplate)
+- [Next + Netlify Starter](https://github.com/cassidoo/next-netlify-starter)
+- [Next + Netlify Markdown Blog Starter](https://github.com/cassidoo/next-netlify-blog-starter)
+- [Vault Docs](https://github.com/hashicorp/vault/tree/master/website) ([Web](https://www.vaultproject.io/))
+- [MDNEXT](https://github.com/domitriusclark/mdnext) - Opinionated starter for your MDX + Next.js needs.
+- [Egghead new NextJS front end](https://github.com/eggheadio/egghead-io-nextjs) ([Why move to Next.js](https://www.loom.com/share/26a31965cd6940f7a094d8210058b37f))
+- [Opinionated Next.js Starter with TypeScript, Tailwind, MDX, and decent SEO](https://github.com/joelhooks/next-typescript-tailwind-mdx-starter)
+- [Blog built using TypeScript/Next.js/Tailwind CSS/MDX Remote/Next SEO](https://github.com/BartoszJarocki/web-jarocki-me)
+- [Canvas-based arrows playground](https://github.com/steveruizok/arrows-playground)
+- [Next.js Advanced Starter](https://github.com/agcty/nextjs-advanced-starter) - Use Tailwind CSS, ESLint, Prettier & absolute imports instantly.
+- [chakra-next](https://github.com/47ng/chakra-next) - Opinionated design system for React, based on Chakra UI + Next.js.
+- [Next FullStack Starter](https://github.com/egoist/next-fullstack-starter) - Next.js + Prisma + TailwindCSS + (Type-)GraphQL. Serves as nice starting point for SaaS products.
+- [Next Starter Kit](https://github.com/kripod/next-starter-strict) - Strict Next.js starter with Tailwind CSS, TypeScript, ESLint and Prettier.
+- [Simple NextJS PWA boilerplate](https://github.com/ooade/NextSimpleStarter)
+- [Hasura NextJS Boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate)
+- [Next.js blog starter](https://github.com/JoseRFelix/nextjs-starter-blog)
+- [Virtual Event Starter Kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
+- [Next.js Examples](https://github.com/brunocrosier/nextexamples) - Explore all of the official Next.js examples.
+- [Dan Abramov's Blog in Next.js](https://github.com/condinoaljoseph/aljoseph.co) ([Tweet](https://twitter.com/rauchg/status/1361849656741793793))
+- [next-ignite](https://github.com/hipstersmoothie/next-ignite) - Flexible next.js based documentation website with content authoring in MDX.
+- [Next.js Incremental Static Regeneration with SWR](https://github.com/joe-bell/example-next-isr-with-swr) - Lightning fast static pages with ISR, instantly updated with SWR.
+- [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
+- [Next.js landing page template for SaaS products](https://next-startd.vercel.app/) ([Web](https://next-startd.vercel.app/))
+- [Next js Auth boilerplate](https://github.com/smakosh/auth-ts-next-boilerplate)
+- [Next.js + AWS S3 Upload](https://github.com/leerob/nextjs-aws-s3) - Example of a Next.js application allowing you to upload photos to an S3 bucket.
+- [Trello Clone](https://github.com/knowankit/trello-clone) - Built with Nextjs framework with Typescript and Chakra UI library with support from MongoDB.
+- [XState Next Boilerplate](https://github.com/mattpocock/xstate-next-boilerplate) - Performant, robust starting point for any React application.
+- [Create Next Stack](https://github.com/akd-io/create-next-stack) - Opinionated interactive CLI tool to easily set up the boilerplate of a new Next.js app.
+- [Liveblocks × Next.js](https://github.com/liveblocks/next-js-examples) - Shows how to use Liveblocks with Next.js.
+- [NextJS Starter Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+- [Supabase NextJS Auth](https://github.com/dabit3/supabase-nextjs-auth) - Magic Link Authentication and Route Controls with Supabase and Next.js.
+- [next-bucket](https://github.com/application-research/next-bucket) - Template to start a project easily with NextJS and Textile Buckets.
+- [graphlatte](https://github.com/graphlatte/graphlatte) - Next.js template with GraphQL, Urql, Prisma, Nexus and Tailwind.
+- [Nextjs-auth-prisma boilerplate](https://github.com/huv1k/nextjs-auth-prisma) - Build bleeding-edge full-stack applications using Next.js, GraphQL, TypeScript and Prisma.
+- [Giant Sur](https://github.com/soroushchehresa/giant-sur) - macOS Big Sur UI clone for the web built with React, Next.js, TypeScript, and Tailwind CSS. ([Web](https://giantsur.netlify.app/))
+- [Ultimate SAAS template](https://github.com/gmpetrov/utlimate-saas-js) - Typescript/Next.js/NextAuth.js/Prisma/Stripe/TailwindCSS/PostgreSQL. ([HN](https://news.ycombinator.com/item?id=28628615))
+- [TypeScript starter for Next.js](https://github.com/jpedroschmitz/typescript-nextjs-starter)
+- [Next PWA Template](https://github.com/mvllow/next-pwa-template) - Next.js progressive web app template.
+- [NextJS Monorepo](https://github.com/belgattitude/nextjs-monorepo-example) - Monorepo / workspaces concepts oriented around NextJS.
+- [Ask Me Anything](https://ama-prisma.vercel.app/) ([Code](https://github.com/2color/ama-prisma))
+- [Typescript + NextJS + React Native + GraphQL + Prisma](https://github.com/NoQuarterTeam/boilerplate)
+- [Awesome Links](https://github.com/prisma/awesome-links) - Source code for the tutorial series of three parts about building a Full Stack Web application With TypeScript, PostgreSQL, Next.js, Prisma & GraphQL.
+- [Tailwind NextJS Starter Blog](https://github.com/alaq/adrien.sh)
+- [NextJS Postgres Template](https://github.com/jimmylee/www-react-postgres)
+- [Next.js marketing website template for SaaS startups](https://github.com/Blazity/next-saas-starter)
+- [RainySystems Template Web App](https://github.com/RainySystems/RS-Webapp-Template-Nextjs) - Built with Next.js and Appwrite.
+- [NextJS Lite Example](https://github.com/shaneosullivan/NextJSLiteExample) - Server side only rendering.
+- [next-markdown](https://github.com/frouo/next-markdown) - Easily generate pages from markdown files in any Next.js project.
+- [THUBurrow](https://github.com/BobAnkh/THUBurrow) - Forum built by Next.js and Rocket.
+- [Materio](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Powerful & Comprehensive free Next.js React admin template based on MUI.
+- [Irvan Malik's NextJS Blog](https://github.com/irvanmalik48/blog)
+- [Image Gallery with Next.js, Supabase, and Tailwind CSS](https://github.com/leerob/image-gallery-supabase-tailwind-nextjs)
+- [Lightweight Next.js Portfolio site template](https://github.com/eggheadio/portfolio-template-and-challenge)
+- [Next.js site w/ a blank custom Nextra theme (w/Tailwind)](https://github.com/jaredpalmer/nextra-blank-custom-theme)
+
+## NextJS plugins
+
+- [Next SEO](https://github.com/garmeeh/next-seo) - Plugin that makes managing your SEO easier in Next.js projects.
+- [Next.js + MDX Enhanced](https://github.com/hashicorp/next-mdx-enhanced) - Enables MDX pages, layouts, and front matter.
+- [Zero Config PWA Plugin](https://github.com/shadowwalker/next-pwa) ([How to Create a PWA With Next.js in 10 Minutes](https://www.youtube.com/watch?v=ARNN_zmrwcw))
+- [next-translate](https://github.com/vinissimus/next-translate) - Tool to translate Next.js applications.
+- [next-i18next](https://github.com/isaachinman/next-i18next) - Easiest way to translate your NextJs apps. ([Video](https://www.youtube.com/watch?v=SJDYCw5KC7s))
+- [Netlify Next.js cache](https://github.com/pizzafox/netlify-cache-nextjs) - Cache the Next.js build folder in your Netlify builds.
+- [next-dark-mode](https://github.com/xeoneux/next-dark-mode) - Enable dark mode for Next.js.
+- [NextAuth](https://github.com/nextauthjs/next-auth) - Authentication library for Next.js projects. ([Web](https://next-auth.js.org/)) ([Example](https://github.com/nextauthjs/next-auth-example)) ([Docs Code](https://github.com/nextauthjs/docs)) ([Tweet](https://twitter.com/nextauthjs/status/1466085197653454851))
+- [next-optimized-images](https://github.com/cyrilwanner/next-optimized-images) - Automatically optimizes images used in next.js projects (jpeg, png, svg, webp and gif).
+- [next-session](https://github.com/hoangvvo/next-session) - Simple promise-based session middleware for Next.js, micro, Express, and more.
+- [next-connect](https://github.com/hoangvvo/next-connect) - Router and middleware layer for Next.js, Micro, or Node.js HTTP Server.
+- [next-iron-session](https://github.com/vvo/next-iron-session) - Next.js stateless session utility using signed and encrypted cookies to store data.
+- [next-unused](https://github.com/pacocoursey/next-unused) - Find unused files in your Next.js projects.
+- [next-img](https://github.com/humaans/next-img) - Next.js plugin for embedding optimized images.
+- [Next.js plugin for preact X](https://github.com/preactjs/next-plugin-preact)
+- [next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered pages.
+- [Netlify Next.js cache](https://github.com/pizzafox/netlify-cache-nextjs) - Cache the Next.js build folder in Netlify builds.
+- [next-boost](https://github.com/rjyo/next-boost) - Middleware which adds a disk cache layer to your SSR applications. Was built originally for Next.js SSR applications and can be used in any node.js http.Server based application.
+- [next-router-scroll](https://github.com/moxystudio/next-router-scroll) - Take control of when scroll is updated and restored in your Next.js projects.
+- [babel-plugin-superjson-next](https://github.com/blitz-js/babel-plugin-superjson-next) - Automatically transform your Next.js Pages to use SuperJSON.
+- [next-csrf](https://github.com/j0lv3r4/next-csrf) - CSRF mitigation for Next.js.
+- [next-transpile-modules](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node_modules.
+- [Next.js S3 Upload](https://github.com/ryanto/next-s3-upload) - Upload files from your Next.js app to S3.
+- [NextStripe](https://github.com/ynnoj/next-stripe) - Simplified server-side Stripe workflows in Next.js
+- [next-joi](https://github.com/codecoolture/next-joi) - Validate NEXT.js API Routes with joi.
+- [next-plugin-query-cache](https://github.com/ricokahler/next-plugin-query-cache) - Build-time query cache for Next.js. Works by creating an HTTP server during the build that caches responses.
+- [next-plugin-preval](https://github.com/ricokahler/next-plugin-preval) - Pre-evaluate async functions during builds and import them like JSON.
+- [next-api-decorators](https://github.com/storyofams/next-api-decorators) - Collection of decorators to create typed Next.js API routes, with easy request validation and transformation. ([Article](https://www.tpjnorton.com/blog/posts/awesome-next-js-api-routes-with-next-api-decorators))
+- [Next.js + Linaria](https://github.com/Mistereo/next-linaria)
+- [nextjs-multi-domain-locale](https://github.com/tomsoderlund/nextjs-multi-domain-locale) - Hosting multiple domains on the same Next.js site (while maintaining multiple languages and SSG).
+- [next-rpc](https://github.com/Janpot/next-rpc) - Makes exported functions from API routes accessible in the browser. Just import your API function and call it anywhere you want.
+- [next-runtime](https://github.com/smeijer/next-runtime) - All you need to handle POST requests, file uploads, and api requests, in getServerSideProps.
+- [next-useragent](https://github.com/tokuda109/next-useragent) - Parses browser user-agent strings for next.js.
+- [Next Opengraph Image](https://github.com/alvarlagerlof/next-opengraph-image) - Generate Open Graph images for Next.js on build.
+- [nextjs-breadcrumbs](https://github.com/NiklasMencke/nextjs-breadcrumbs) - Dynamic, highly customizable breadcrumbs component for Next.js.
+- [Essential Next.js Build Plugin](https://github.com/netlify/netlify-plugin-nextjs) - Build plugin to integrate Next.js seamlessly with Netlify.
+- [next-plugin-imagegen](https://github.com/huozhi/next-plugin-imagegen) - Next.js plugin turns jsx components as image.
+- [next-head-seo](https://github.com/catnose99/next-head-seo) - Light-weight SEO plugin for Next.js.
+- [Next.js drop-in analytics support](https://github.com/ian/analytics)
+- [next-composition](https://github.com/neet/next-composition) - Next.js utility for reusing getServerSideProps and getStaticProps logics. ([Reddit](https://www.reddit.com/r/nextjs/comments/qjkez7/github_neetnextcomposition_nextjs_utility_for/))
+- [next-router-query](https://github.com/KATT/next-router-query) - Drop-in alternative of `useRouter().query` that tries it's best to get the query params on the first mount.
+- [next-sanity](https://github.com/sanity-io/next-sanity) - Sanity.io toolkit for Next.js
+- [next-g11n](https://github.com/atilafassina/next-g11n) - Translate and localize your Next.js app smoothly.
+- [next-multilingual](https://github.com/Avansai/next-multilingual) - Opinionated end-to-end solution for Next.js applications that requires multiple languages.
+- [HappyKit Flags](https://github.com/happykit/flags) - Feature Flags for Next.js. ([Web](https://happykit.dev/))
+- [HappyAuth](https://github.com/happykit/auth-email) - Lightweight authentication specifically designed for Next.js.
+- [HappyKit Analytics](https://github.com/happykit/analytics) - Analytics specifically designed for Next.js.
+- [Next-Plausible](https://github.com/4lejandrito/next-plausible) - Simple integration for Plausible Analytics.
+- [NextAuth.js Adapters](https://github.com/nextauthjs/adapters) - Next-auth adapters that are maintained by the community to support any database.
+- [next/image loader for imgproxy (S3)](https://github.com/BitPatty/next-image-s3-imgproxy-loader)
+- [next-export-i18n](https://github.com/martinkr/next-export-i18n) - Internationalize (18n) next.js with true support for next export.
+- [next-compose-plugins](https://github.com/cyrilwanner/next-compose-plugins) - Cleaner API for enabling and configuring plugins for next.js.
+- [Next-Multipart](https://github.com/cstrnt/next-multipart) - Easy & Simple File Uploads for Next.js.
+- [next-layout](https://github.com/moxystudio/next-layout) - Add persistent and nested layouts to your Next.js projects in a declarative way.
+- [Next Page Layout](https://github.com/abergenw/next-page-layout) - Type safe, zero dependency layout solution with data fetching capabilities for Next.js.
+- [next-with-split](https://github.com/aiji42/next-with-split) - Plugin for split testing (A/B testing) in Next.js.
+- [next-static-paths](https://github.com/Schniz/next-static-paths) - Statically prevent 404s in your Next.js applications using TypeScript.
+- [nextjs-redirect](https://github.com/pablopunk/nextjs-redirect) - Redirect to any URL in NextJS both in client and server.
+- [Next.js API OG Image](https://github.com/neg4n/next-api-og-image) - Generate open-graph images dynamically in HTML or React using Next.js API Routes. Suitable for serverless environment.
+- [next-dx](https://github.com/souporserious/next-dx) - Enhance NextJS development with utilities for local and remote content.
+- [next-pagination](https://github.com/etchteam/next-pagination) - Best damn pagination component. For Next.js.
+- [Next Layout Loader](https://github.com/ceteio/next-layout-loader) - File-system based nested layouts for next.js.
+- [Next SuperJSON](https://github.com/remorses/next-superjson) - Automatically transform your Next.js Pages to use SuperJSON, without losing swc support.
+- [Next Super Performance](https://github.com/LukasBombach/next-super-performance) - Partial hydration for Next.js with Preact X.
+- [recma-nextjs-static-props](https://github.com/remcohaszing/recma-nextjs-static-props) - Expose top-level identifiers in Next.js app.js.
+- [Connected Next Router](https://github.com/danielr18/connected-next-router) - Redux binding for Next.js Router compatible with Next.js.
+
+## Notes
+
+- [getStaticProps is a reverse proxy. It's the simplest reverse proxy ever. It's a function, exported alongside your React component.](https://twitter.com/samselikoff/status/1298634466802446337)
+- [`export const config = { unstable_runtimeJS: false }`](https://twitter.com/muditameta/status/1301547155556052999) will allow to export a page with only HTML/CSS.
+- [Cache control headers on the response to revalidate NextJS routes. `res.setHeader(“cache-control”, “s-maxage=1, stale-while-revalidate=59”)`](https://twitter.com/leeerob/status/1402819071712841728)
+- [New Relic Next.js instrumentation](https://github.com/newrelic/newrelic-node-nextjs)
+- [Nested routes allow: 1. Your layout to preserve after navigation. 2. Subcomponents/routes to have lifecycles like the ability to load data. If your rooting tree is statically analyzable you can start fetching the nested routes data before navigation.](https://twitter.com/SachaGreif/status/1521663285061652480)
+
+## Links
+
+- [next-postgres](https://github.com/jimmylee/next-postgres) - React 16.4.2 + NextJS 7.0.2 + Emotion + Sequelize 4/Postgres + Passport Local Auth + Zeit or Heroku Deployment.
+- [Nice Boys™️ Product Boilerplate](https://github.com/nice-boys/product-boilerplate) - Quickly build new products and apps.
+- [So you want to build a web app? - Tim Neutkens (2019)](https://www.youtube.com/watch?v=WKJVXN2kMS8)
+- [Does NextJS will be soon obsolete?](https://www.reddit.com/r/reactjs/comments/au5z1u/does_nextjs_will_be_soon_obsolete/) - Great answer by main dev of next.js
+- [Redux wrapper for Next.js](https://github.com/kirill-konshin/next-redux-wrapper)
+- [Performance analysis: Next.js SSR on Node.js](https://docs.google.com/document/d/1zen4pq-zvJsvYk4yPZ9x-JB__GmBQ1sqLoP32YCYwIk/edit#)
+- [Introducing Create Next App (2019)](https://nextjs.org/blog/create-next-app)
+- [Persistent Layout Patterns in Next.js (2019)](https://adamwathan.me/2019/10/17/persistent-layout-patterns-in-nextjs/)
+- [Universal Next.js Route](https://github.com/brajevicm/next-universal-route)
+- [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs)
+- [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/)
+- [Static Generation / SSG Improvements](https://github.com/vercel/next.js/issues/9524)
+- [Next.js course](https://nextjscourse.com/oEEGG76l22UE8B77ovWn/)
+- [Next.js website source](https://github.com/vercel/next-site)
+- [Next.js Plugins](https://github.com/vercel/next-plugins)
+- [next-urql](https://github.com/FormidableLabs/next-urql) - Set of convenience utilities for using urql with NextJS.
+- [Next.js Apollo TypeScript pre-configured starter with great DX](https://github.com/borisowsky/nextjs-apollo-ts-starter)
+- [Mastering NextJS](https://masteringnextjs.com/) - Premiere video course for building production, server-side rendered applications with Next.js and React.
+- [NextJS/Reason/Tailwind Template](https://github.com/sgrove/nextjs-reason-urql)
+- [dotJS 2019 - Tim Neutkens - What to expect from a modern web framework?](https://www.dotconferences.com/2019/12/tim-neutkens-what-to-expect-from-a-modern-web-framework)
+- [Next & Apollo Example](https://github.com/adamsoffer/next-apollo-example)
+- [next-learn-demo](https://github.com/vercel/next-learn-demo) - Meant to be used with the Next.js tutorial on https://nextjs.org/learn.
+- [Next.js Starter with User Authentication/Authorization](https://github.com/rwieruch/nextjs-firebase-authentication)
+- [next-purgecss](https://github.com/lucleray/next-purgecss) - Nextjs + purgecss for faster websites.
+- [next-offline](https://github.com/hanford/next-offline) - Make your Next.js application work offline using service workers via Google's workbox.
+- [Next.js Stats GitHub Action](https://github.com/vercel/next-stats-action) - Downloads and runs project with provided configs gathering stats to compare branches.
+- [React ESI](https://github.com/dunglas/react-esi) - Blazing-fast Server-Side Rendering for React and Next.js.
+- [Server-side Only React with Next (2020)](https://webcloud.se/blog/2020-03-12-nextjs-without-client-side-react/) ([HN](https://news.ycombinator.com/item?id=22717900))
+- [Serverless NextJS](https://github.com/danielcondemarin/serverless-next.js) - Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components.
+- [next-aws-lambda-webpack-plugin](https://github.com/vincent-herlemont/next-aws-lambda-webpack-plugin) - Pack a compat layer between next.js serverless page and AWS Lambda.
+- [Next.js Static Props](https://pomb.us/nextjs-static-props/)
+- [Next.js Team AMA (2020)](https://hashnode.com/post/nextjs-team-ama-ask-us-anything-ck8q81sii002wems178vw6r5v)
+- [next-codegen](https://github.com/zackkrida/next-codegen) - Fast API route and page generation for Next.js projects.
+- [NextJS Default Template](https://github.com/ryyppy/nextjs-default) - Opinionated Boilerplate for NextJS, Tailwind and Reason.
+- [Getting started with Next.js, ZEIT Now, and Firebase (2020)](https://dev.to/benzguo/getting-started-with-next-js-now-firebase-4ejg)
+- [NextJS Tips](https://nextjstips.com/) - Collection of useful daily Next.js tips that will allow you to improve your skills.
+- [nookies](https://github.com/maticzav/nookies) - Collection of cookie helpers for Next.js
+- [Building a Markdown blog with Next 9.3 and Netlify (2020)](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.3-and-netlify/)
+- [Server-Side Rendered Real-time Web App with Next.js, AWS Amplify & GraphQL (2019)](https://dev.to/rakannimer/server-side-rendered-real-time-web-app-with-next-js-aws-amplify-graphql-2j49)
+- [Improve your SEO and Social Sharing Cards with Next.js (2020)](https://www.netlify.com/blog/2020/05/08/improve-your-seo-and-social-sharing-cards-with-next.js/)
+- [Next.js at Vercel (2020)](https://jamstack-toronto.now.sh/#0)
+- [Improved Next.js and Gatsby page load performance with granular chunking (2020)](https://web.dev/granular-chunking-nextjs/)
+- [Building my first Next.js app (2020)](https://www.youtube.com/watch?v=Z0FUBQPXHMA)
+- [Handy new features in Next.js 9.4 (2020)](https://www.netlify.com/blog/2020/05/18/handy-new-features-in-next.js-9.4/)
+- [TypeGraphQ, TypeORM & Next.js Boilerplate](https://github.com/tobiaslins/typesafety-from-db-to-frontend)
+- [aws-cognito-next](https://github.com/dferber90/aws-cognito-next) - Authentication helpers to enable usage of AWS Cognito in next.js applications.
+- [Creating a Next.js mono repository project with TypeScript](https://josephluck.co.uk/blog/next-typescript-monorepo/)
+- [NextJS + Preact Demo](https://github.com/developit/nextjs-preact-demo)
+- [2 Ways to Create Server-Rendered Routes Using Next.js and Netlify (2020)](https://www.netlify.com/blog/2020/06/10/2-ways-to-create-server-rendered-routes-using-next.js-and-netlify/)
+- [next-on-netlify](https://github.com/FinnWoelm/next-on-netlify) - Utility for hosting NextJS applications with Server-Side Rendering on Netlify.
+- [Next.js 101: What you should know (2020)](https://www.netlify.com/blog/2020/06/18/next.js-101-what-you-should-know/)
+- [Building my new website with Next.js, TailwindCSS, and Vercel (2020)](https://www.jplhomer.org/posts/how-built-new-website-nextjs-vercel-tailwind)
+- [How to contribute to Next.js (2020)](https://www.youtube.com/watch?v=WK-UFw0ZOIw)
+- [Data Fetching with NextJS: What I learned (2020)](https://blog.maximeheckel.com/posts/data-fetching-with-next-js)
+- [NextJS features overview by Tim (2020)](https://github.com/vercel/next.js/discussions/14953#discussioncomment-34938)
+- [What is Next.js Incremental Static (Re)Generation? (2020)](https://arunoda.me/blog/what-is-nextjs-issg)
+- [The Hitchhiker’s Guide to Next.js (2020)](https://medium.com/swlh/the-hitchhikers-guide-to-next-js-fd7aa14ae8d0)
+- [Building the Tailwind Blog with Next.js (2020)](https://blog.tailwindcss.com/building-the-tailwind-blog)
+- [Building a Fullstack Twitter Clone with Next.js and Prisma (2020)](https://kunal.sh/posts/building-a-fullstack-twitter-clone) ([Code](https://github.com/kunalgorithm/fullstack-twitter))
+- [Next.js 9.5](https://nextjs.org/blog/next-9-5) ([HN](https://news.ycombinator.com/item?id=23966936))
+- [Minimum Viable SaaS](https://github.com/jaredpalmer/minimum-viable-saas) - Feature-complete membership app in less than ~400 lines of code.
+- [Bison](https://github.com/echobind/bisonapp) - Full Stack JAMstack in-a-box.
+- [Authentication Patterns for Next.js (2020)](https://leerob.io/blog/nextjs-authentication)
+- [Building a Blog with Next.js and MDX (2020)](https://johnpolacek.com/building-a-blog-with-nextjs-and-mdx)
+- [Adding Dark Mode to a Next.js Site (2020)](https://johnpolacek.com/adding-dark-mode-to-nextjs-site)
+- [Next.js News newsletter](https://nextjsnews.com/)
+- [Next.js Conf](https://nextjs.org/conf) ([HN](https://news.ycombinator.com/item?id=24908729))
+- [Bulletproof Next](https://getstarted.sh/bulletproof-next) - Be an expert in Next.js.
+- [Blogging on Next.js: Generating static index pages](https://javacrisps.com/posts/nextjs-static-fun) ([HN](https://news.ycombinator.com/item?id=24558784))
+- [Quirrel](https://quirrel.dev/) - Job Queueing for Next.js x Vercel. ([Code](https://github.com/quirrel-dev/quirrel)) ([Awesome](https://github.com/quirrel-dev/awesome-quirrel))
+- [Create a Next.js RSS feed for your static website (2020)](https://robkendal.co.uk/blog/create-a-static-website-rss-feed-with-next.js)
+- [Replacing Create React App with the Next.js CLI (2020)](https://gist.github.com/tannerlinsley/65ac1f0175d79d19762cf06650707830)
+- [next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing.
+- [Next page tester](https://github.com/toomuchdesign/next-page-tester) - Enable DOM integration testing on Next.js pages.
+- [Debugging Next.JS (2020)](https://blog.codechem.com/debugging-nextjs)
+- [Next.js - The Data Story (2020)](https://dev.to/dabit3/next-js-the-data-story-2b0d)
+- [useQueryState for Next.js](https://github.com/47ng/next-usequerystate) - Like React.useState, but stored in the URL query string.
+- [Create a Next.js App Docs](https://nextjs.org/learn/basics/create-nextjs-app) ([Starter Code](https://github.com/vercel/next-learn-starter))
+- [next-placeholder](https://github.com/joe-bell/next-placeholder) - Roll-you-own placeholders for Next.js images.
+- [Next Apollo](https://github.com/adamsoffer/next-apollo) - Package for using Apollo within a Next.js application.
+- [next-google-fonts](https://github.com/joe-bell/next-google-fonts) - Tiny next/head helper for loading Google Fonts fast and asynchronously. ([Tweet](https://twitter.com/joebell_/status/1387430735896776711))
+- [Automatically optimize images on a Next.js MDX Blog (2020)](https://noahfleischmann.com/blog/next-image-optimization)
+- [Build a site from scratch with Next.js, TypeScript, Emotion and Netlify](https://egghead.io/playlists/build-a-blog-with-next-js-typescript-emotion-and-netlify-adcc)
+- [next-client-script](https://github.com/amannn/next-client-script) - Supercharge the performance of your Next.js apps by using a minimal client runtime.
+- [Next Crud](https://github.com/premieroctet/next-crud) - Helper library that creates CRUD API routes with one simple function based on a Prisma model for Next.js.
+- [React Server Components in Next.js](https://github.com/vercel/next-server-components)
+- [Updating Static Next.js Pages Instantly (2021)](https://joebell.co.uk/blog/updating-static-next-js-pages-instantly)
+- [Bedrock](https://bedrock.mxstbr.com/) - Modern full-stack Next.js & GraphQL boilerplate.
+- [next-gen](https://github.com/biowaffeln/next-gen) - Next.js Codebase Generator.
+- [Next.js Subscription Payments Starter](https://github.com/vercel/nextjs-subscription-payments)
+- [Learn Next.js in 10 Tweets (2021)](https://twitter.com/colbyfayock/status/1362407526222995456)
+- [Sign in With Apple Next JS (2020)](https://thesiddd.com/blog/apple-auth)
+- [How to manage database connections in NextJS? (2021)](https://www.reddit.com/r/nextjs/comments/lvri96/how_to_manage_database_connections/)
+- [Buidling a Realtime Chat App with Next.js, Ably, and Vercel](https://github.com/ably-labs/NextJS-chat-app)
+- [A simple approach to testing next.js apps](https://hobochild.com/posts/testing.html)
+- [Micro Frontends in NextJS with Webpack 5 (2021)](https://thekevinwang.com/2021/03/26/micro-frontends-nextjs/)
+- [Yarn Workspaces + XState + Next.js Template](https://github.com/with-heart/xstate-nextjs-workspaces-template)
+- [Terraform Next.js module for AWS](https://github.com/dealmore/terraform-aws-next-js)
+- [Terraform Next.js Image Optimization module for AWS](https://github.com/dealmore/terraform-aws-next-js-image-optimization)
+- [How to fix layout shifts to improve SEO in Next.js apps (2021)](https://blog.logrocket.com/fix-layout-shifts-improve-seo-next-js/)
+- [next-data-hooks](https://github.com/ricokahler/next-data-hooks) - Use getStaticProps and getServerSideProps as react hooks.
+- [Using Docker with Next.js (and Deploying with Google Cloud Run)](https://www.youtube.com/watch?v=Pd2tVxhFnO4)
+- [If you use Next.js, what is your favorite part about it? (2021)](https://twitter.com/heybereket/status/1378889849235775489)
+- [Difference between SSR, SSG, CSR and SPA (2021)](https://www.reddit.com/r/nextjs/comments/mot54n/difference_between_ssr_ssg_csr_and_spa/)
+- [How to make Next.js site more secure (2021)](https://twitter.com/leeerob/status/1381605537742254082)
+- [Transitioning Mailbrew from CRA to NextJS (2021)](https://francescodilorenzo.com/cra-to-nextjs)
+- [Next Remote Watch](https://github.com/hashicorp/next-remote-watch) - Decorated local server for next.js that enables reloads from remote data changes.
+- [What is Incremental Static Regeneration (ISR) with Next.js?](https://twitter.com/leeerob/status/1382400399949271040)
+- [next-password-protect](https://github.com/storyofams/next-password-protect) - Password protect your Next.js deployments.
+- [NextAuth.js TypeScript Example](https://github.com/nextauthjs/next-auth-typescript-example) - Example of how to use the NextAuth.js library to add authentication to a Next.js application with Typescript.
+- [A Complete Guide To Incremental Static Regeneration (ISR) With Next.js (2021)](https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/)
+- [4 techniques for structuring Next.js applications (2021)](https://blog.rstankov.com/structuring-next-js-application/)
+- [Portable apps with Go and Next.js (2021)](https://v0x.nl/articles/portable-apps-go-nextjs) ([Code](https://github.com/dstotijn/golang-nextjs-portable))
+- [next-test-api-route-handler](https://github.com/Xunnamius/next-test-api-route-handler) - Confidently unit test your Next.js API routes/handlers in an isolated Next.js-like environment.
+- [Generating a robots.txt in Next.js (2021)](https://mmazzarolo.com/blog/2021-04-27-nextjs-robots-txt/)
+- [How to build file upload forms on Next.js (2021)](https://betterprogramming.pub/how-to-build-file-upload-forms-on-next-js-c92ad41c63f2)
+- [Next.js: restrict pages to authenticated users (2021)](https://www.dmitry-ishkov.com/2021/05/restrict-nextjs-page-to-authenticated.html)
+- [Host a Next.js SSR app with real-time data on AWS Amplify (2021)](https://aws.amazon.com/blogs/mobile/host-a-next-js-ssr-app-with-real-time-data-on-aws-amplify/)
+- [A Complete Beginner's Guide to Next.js (2021)](https://welearncode.com/beginners-guide-nextjs/)
+- [How to embed Keystone + SQLite in a Next.js app](https://next.keystonejs.com/tutorials/embedded-mode-with-sqlite-nextjs)
+- [Building a SaaS Application with Next.js, Prisma, Auth0 and Stripe (2021)](https://egghead.io/blog/saas-app-with-nextjs-prisma-auth0-and-stripe)
+- [Avoid refetching data in NextJS when navigating (2021)](https://rasmussendev.medium.com/avoiding-refetching-data-in-nextjs-when-navigating-df673ef491f)
+- [Shallow Routing in Next.js (2021)](https://dev.to/netlify/shallow-routing-in-next-js-1dp9)
+- [How to Build a Fullstack App with Next.js, Prisma, and PostgreSQL (2021)](https://vercel.com/guides/nextjs-prisma-postgres)
+- [Full Stack Development with Next.js and Supabase (2021)](https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/)
+- [Playwright Next.js Example](https://github.com/dferber90/nextjs-playwright-example)
+- [Next.js 11 (2021)](https://nextjs.org/blog/next-11) ([HN](https://news.ycombinator.com/item?id=27517457))
+- [Next.js Live](https://nextjs.org/live) - Code in the browser. With your team. ([HN](https://news.ycombinator.com/item?id=27517440))
+- [Using Next.js and Vercel to instantly load a data-heavy website (2021)](https://tinloof.com/blog/using-next.js-and-vercel-to-instantly-load-a-data-heavy-website/)
+- [Refresh props from getServerSideProps in Next.js, mutate server props](https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/)
+- [Rewriting ctrl-v using Next.js (2021)](https://jzhao.xyz/posts/ctrlv-next/)
+- [The magic of react-query and supabase (2021)](https://dev.to/ankitjey/the-magic-of-react-query-and-supabase-1pom) ([Reddit](https://www.reddit.com/r/reactjs/comments/oa0hm4/wrote_a_piece_on_server_state_management_in_react/))
+- [Preact for Next (2021)](https://www.ebey.me/blog/preact-for-next)
+- [next-remote-refresh](https://github.com/souporserious/next-remote-refresh) - Enable Fast Refresh for remote data in NextJS.
+- [How I Built My Site with Next.js (2021)](https://www.delbaoliveira.com/blog/how-i-built-my-website-with-nextjs)
+- [Next.js Bundle Analysis Github Action](https://github.com/hashicorp/nextjs-bundle-analysis) - Github action that provides detailed bundle analysis on PRs for next.js apps.
+- [Next.js: The Ultimate Cheat Sheet To Page Rendering (2021)](https://guydumais.digital/blog/next-js-the-ultimate-cheat-sheet-to-page-rendering/)
+- [Workaround for \_next/data URLs throwing 404, for multiple Next.js Apps Running On Same Domain (2021)](https://arihantverma.com/posts/2021/07/18/workaround-nextjs-data-urls-same-domain-multiple-apps/)
+- [Next.js Cron](https://github.com/baulml/nextjs-cron) - Cron jobs with Github Actions for Next.js applications on Vercel.
+- [Running a Next.js Site on Cloudflare Pages (2021)](https://opstrace.com/blog/nextjs-on-cloudflare)
+- [Krabs](https://github.com/micheleriva/krabs) - Enterprise-ready Express.js middleware for serving thousands of different websites from a single Next.js instance. ([Web](https://micheleriva.github.io/krabs/))
+- [Real-World Next.js Book (2021)](https://www.packtpub.com/product/real-world-next-js/9781801073493) ([Code](https://github.com/PacktPublishing/Real-World-Next.js))
+- [Authentication Patterns for Next.js (2020)](https://www.youtube.com/watch?v=NSR_Y_rm_zU)
+- [next-intl](https://github.com/amannn/next-intl) - Minimal, but complete solution for managing translations, date, time and number formatting in Next.js apps. ([Article](https://www.thisdot.co/blog/next-js-adding-localization-with-next-intl))
+- [Authentication for NextJS with GraphQL & REST APIs and SSR (Server Side Rendering)](https://wundergraph.com/blog/authentication_for_nextjs_with_graphql_and_rest_apis_and_server_side_rendering)
+- [fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next.
+- [The Ultimate Guide To Firebase With Next.JS (2021)](https://blog.jarrodwatts.com/the-ultimate-guide-to-firebase-with-nextjs)
+- [What I struggled with Next.js using Firebase Hosting (and enable SSR) (2021)](https://dev.to/rowaxl/what-i-struggled-with-next-js-using-firebase-hosting-and-enable-ssr-4e67)
+- [From Firebase/Redis to MySQL with PlanetScale (2021)](https://leerob.io/blog/mysql-planetscale) ([Tweet](https://twitter.com/swyx/status/1436689311315890177))
+- [Cache Is Everything but Simple with Nextjs and React Query (2021)](https://blog.bam.tech/developer-news/cache-is-everything-but-simple-with-nextjs-and-react-query)
+- [Next.js Starters](https://nextjs-project-starters.vercel.app/)
+- [Next.js, Prisma, PlanetScale and Vercel (2021)](https://www.shadcn.com/next-prisma-planetscale-vercel) - Deploy your Next.js + Prisma app to PlanetScale and Vercel.
+- [Next.js API Routes validation using Middlewares and Yup](https://www.shadcn.com/validation-middleware)
+- [Using Postmark with NextAuth.js](https://www.shadcn.com/next-auth-postmark)
+- [Logging in Next.js (2020)](https://www.netlify.com/blog/2020/12/13/logging-in-next.js/)
+- [Building a Blog With Next.js and MDX (2021)](https://blog.jetbrains.com/webstorm/2021/10/building-a-blog-with-next-js-and-mdx/)
+- [Rakkas](https://github.com/rakkasjs/rakkasjs) - Lightning fast Next.js alternative powered by Vite. ([Web](https://rakkasjs.org/)) ([Reddit](https://www.reddit.com/r/reactjs/comments/q7xtcg/rakkas_nextjs_alternative_powered_by_vite/))
+- [How to build a portfolio website using Next.js, Chakra UI, Framer Motion, and Three.js (2021)](https://www.youtube.com/watch?v=bSMZgXzC9AA)
+- [Next.js X Prisma Workshop](https://github.com/m-abdelwahab/nextjs-prisma-workshop) - Build a full stack app using Next.js and Prisma.
+- [Next.js Cheat Sheet](https://gourav.io/blog/nextjs-cheatsheet)
+- [NextGraphQL.js](https://github.com/ian/next-graphql) - Zero-config GraphQL server for Next.js, supporting Vercel Serverless environment runtime.
+- [Next.js 12 (2021)](https://nextjs.org/blog/next-12) ([HN](https://news.ycombinator.com/item?id=29001721)) ([Tweet](https://twitter.com/vercel/status/1453029090106040321)) ([Keynote](https://www.youtube.com/watch?v=dMBYI7pTR4Q))
+- [How Next Middleware / Edge Functions work (2021)](https://twitter.com/ascorbic/status/1453431784205701121)
+- [Streaming in Next.js - Kara Erickson (2021)](https://www.youtube.com/watch?v=Nl4OwNhh2QI)
+- ["So You Think You Can Build A Dropdown?" — Pedro Duarte (2021)](https://www.youtube.com/watch?v=lY-RQjWeweo)
+- [Next.js 12 React Server Components Demo](https://github.com/vercel/next-rsc-demo)
+- [Next.js Conf 2021 - YouTube](https://www.youtube.com/playlist?list=PLBnKlKpPeagnJYpc5geAHU40ld5hk8i82)
+- [Vercel Examples](https://github.com/vercel/examples)
+- [Next.js - Replace React with Preact (2021)](https://darrenwhite.dev/blog/nextjs-replace-react-with-preact)
+- [Break Stuff Until it Works — Optimizing performance in NextJS (2021)](https://rasmussendev.medium.com/break-stuff-until-it-works-optimizing-performance-in-nextjs-1e1ad338e959)
+- [Integrate Storybook in a Next.js Application (2021)](https://egghead.io/courses/integrate-storybook-in-a-next-js-application-b6dd4df3)
+- [How to create a generic protected route in Next.js (2021)](https://shipsaas.com/blog/create-protected-route-nextjs)
+- [Guide to using images in Next.js (2021)](https://shipsaas.com/blog/guide-to-using-images-in-nextjs) ([Reddit](https://www.reddit.com/r/nextjs/comments/qqcj8u/guide_to_using_images_in_nextjs/))
+- [Code Walkthrough for Next.js / Tailwind / Prisma / PlanetScale App (2021)](https://www.youtube.com/watch?v=WZZFW5xDjJ4)
+- [React Server Components Roadmap for Next.js (2021)](https://github.com/vercel/next.js/discussions/31263)
+- [What are using getInitialProps for? (2021)](https://twitter.com/devknoll/status/1457422200324046852)
+- [Latest recommendation on CSS for a Next.js site (2021)](https://twitter.com/Gavmn/status/1459649806511460354)
+- [Production-Grade Next.js](https://production-grade-nextjs.vercel.app/) ([Code](https://github.com/Hendrixer/production-grade-nextjs))
+- [Open-Source Auth for NextJS (2021)](https://ory.dev/login-spa-react-nextjs-authentication-example-api-open-source/) ([HN](https://news.ycombinator.com/item?id=29329610))
+- [Let's build Twitter with (Next.js, Tailwind CSS, Firebase v9, NextAuth, Recoil) (2021)](https://www.youtube.com/watch?v=5Wak0iyGCrc) ([Code](https://github.com/lukef7fywmrp/twitter-clone))
+- [An Inconsistent Truth: Next.js and Type Safety (2021)](https://t3.gg/blog/posts/types-and-nextjs)
+- [NextJS with WebAssembly example](https://github.com/vercel/next.js/tree/canary/examples/with-webassembly)
+- [Build a SaaS product with Next.js, Supabase and Stripe (2021)](https://egghead.io/courses/build-a-saas-product-with-next-js-supabase-and-stripe-61f2bc20)
+- [Get started with Storybook and Next.js (2021)](https://storybook.js.org/blog/get-started-with-storybook-and-next-js/)
+- [next-router-mock](https://github.com/scottrippey/next-router-mock) - Mock implementation of the Next.js Router.
+- [pathpida](https://github.com/aspida/pathpida) - TypeScript friendly internal link client for Next.js, Nuxt.js and Sapper.
+- [Next.js Modal Routing (2022)](https://www.youtube.com/watch?v=P4W_LaotmNI) ([Code](https://github.com/ryanto/next-modal-routing))
+- [Most requested Next.js features (2022)](https://twitter.com/leeerob/status/1493775264869863429)
+- [Next.js 12.1: On-demand ISR, SWC support for styled-components, Relay, Jest (2022)](https://nextjs.org/blog/next-12-1) ([HN](https://news.ycombinator.com/item?id=30374819))
+- [On-Demand Incremental Static Regeneration](https://github.com/leerob/on-demand-isr)
+- [Putting test files in the pages folder in a Next.js app (2022)](https://www.benmvp.com/blog/putting-test-files-pages-folder-nextjs-app/) ([Tweet](https://twitter.com/sebastienlorber/status/1496170766043385859))
+- [next-graphql-server](https://github.com/zaiste/next-graphql-server) - Library for building production-grade GraphQL servers using Next.js with API Routes.
+- [Keystone Next Auth](https://github.com/OpenSaasAU/keystone-nextjs-auth)
+- [How to create a link preview with Next.js, Prisma and TailwindCSS (2022)](https://hashnode.com/post/how-to-create-a-link-preview-with-nextjs-prisma-and-tailwindcss-cl0phma0006fx2onvhgsbebry)
+- [Upgrading Next.js for instant performance improvements (2022)](https://vercel.com/blog/upgrading-nextjs-for-instant-performance-improvements)
+- [Nexus](https://github.com/oslabs-beta/Nexus) - NextJS VScode extension to visualize component tree. ([Web](https://nexus-js.com/)) ([Intro](https://levelup.gitconnected.com/introducing-nexus-a-component-tree-visualizer-for-next-js-1109f31e118e))
+- [Building a Marketing Platform with Next.js, Cloudflare, & Contentful (2022)](https://doordash.engineering/2022/02/22/building-a-marketing-engineering-platform-using-next-js-cloudflare-and-contentful/)
+- [Building an Image Gallery with Next.js, Supabase, and Tailwind CSS](https://leerob.io/blog/image-gallery-supabase-tailwind-nextjs) ([Tweet](https://twitter.com/leeerob/status/1508448572903198724))
+- [Vercel Style Guide](https://github.com/vercel/style-guide) - Home of Vercel's style guide, which includes configs for popular linting and styling tools.
+- [How DoorDash improved Web Page Performance and scaled with Next.JS (2022)](https://doordash.engineering/2022/03/29/improving-web-page-performance-at-doordash-throughserver-side-rendering-with-next-js/)
+- [Storybook Addon Next](https://github.com/RyanClementsHax/storybook-addon-next) - No config Storybook addon that makes Next.js features just work in Storybook.
+- [Vulcan Next](https://github.com/VulcanJS/vulcan-next) - Build GraphQL-based applications with Next.js. ([Docs](https://vulcan-next.vercel.app/))
+- [Rust and WebAssembly Serverless Functions in Vercel](https://thenewstack.io/rust-and-webassembly-serverless-functions-in-vercel/) ([Code](https://github.com/second-state/vercel-wasm-runtime))
+- [Generate Open Graph images for your static Next.js site (2020)](https://phiilu.com/generate-open-graph-images-for-your-static-next-js-site) ([Tweet](https://twitter.com/mattgperry/status/1515651942940303361))
+- [Picking the right rendering strategy in NextJS](https://twitter.com/housecor/status/1521100361213386757)
+- [Building a Mini Next.js (2022)](https://hire.jonasgalvez.com.br/2022/may/18/building-a-mini-next-js/)
+- [Building a Multi-Tenant Web App with Next.js (2022)](https://egoist.proselog.com/multi-tenant-nextjs-app)
+- [Next.js Layouts](https://nextjs.org/blog/layouts-rfc) - Nested routes and layouts, designed for Server Components. ([HN](https://news.ycombinator.com/item?id=31485073))
+- [High Performance Personalization with Next.js Middleware (2022)](https://www.plasmic.app/blog/nextjs-personalization) ([Reddit](https://www.reddit.com/r/nextjs/comments/ux22u0/high_performance_personalization_with_nextjs/))
+- [Next.js Routing and Layouts RFC tips](https://twitter.com/delba_oliveira/status/1529480318817669122)

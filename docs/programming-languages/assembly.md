@@ -1,0 +1,98 @@
+---
+title: Assembly
+---
+
+# [Assembly](http://en.wikipedia.org/wiki/Assembly_language)
+
+## Links
+
+- [Assembly Language for Beginners](https://yurichev.com/writings/AL4B-EN.pdf)
+- [Programmed Introduction to MIPS Assembly Language](https://chortle.ccsu.edu/AssemblyTutorial/index.html)
+- [MIPS Assembly Programming](http://www.robertwinkler.com/projects/mips_book/mips_book.html)
+- [Assembly Language Programming: Still Relevant Today (2015)](http://wilsonminesco.com/AssyDefense/) ([HN](https://news.ycombinator.com/item?id=21924591))
+- [Davis](https://kobzol.github.io/davis/) - x86 assembly debugger. ([Code](https://github.com/Kobzol/davis))
+- [Ask HN: What's the best resource for learning modern x64 assembly? (2020)](https://news.ycombinator.com/item?id=22279051)
+- [ARM GCC Inline Assembler Cookbook](http://www.ethernut.de/en/documents/arm-inline-asm.html)
+- [Getting started with bare-metal assembly (2020)](https://johv.dk/blog/bare-metal-assembly-tutorial.html) ([HN](https://news.ycombinator.com/item?id=22684881))
+- [Compiling to Assembly from Scratch (2020)](https://keleshev.com/compiling-to-assembly-from-scratch-the-book) ([Code](https://github.com/keleshev/compiling-to-assembly-from-scratch)) ([In Haskell](https://github.com/micahcantor/comp-to-assembly-from-scratch-hs))
+- [Interactive shell of assembly language(X86/X64) based on unicorn and keystone](https://github.com/cch123/asm-cli)
+- [Let's Learn x86-64 Assembly! (2020)](https://gpfault.net/posts/asm-tut-0.txt.html) ([HN](https://news.ycombinator.com/item?id=24195627))
+- [int 80h](http://int80h.org/) - Learn Assembly using OpenBSD as base OS.
+- [Assembly’s Perspective (2020)](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/)
+- [ASM Swift](https://github.com/NSExceptional/ASM-Swift) - Playground for learning Assembly language through Swift.
+- [Little Computer 3](http://littlecomputer3.com/) - Learn how to program in assembly on the web. ([Code](https://github.com/0x213F/littlecomputer3))
+- [How x86_64 addresses memory (2020)](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
+- [Hello "Hello world!" (2020)](https://blog.jfo.click/hello-hello-world/) ([Lobsters](https://lobste.rs/s/uoluir/hello_hello_world))
+- [Art of Assembly Language](https://www.cs.yale.edu/flint/cs422/doc/art-of-asm/pdf/)
+- [8086 microcode disassembled (2020)](https://www.reenigne.org/blog/8086-microcode-disassembled/) ([HN](https://news.ycombinator.com/item?id=24383648))
+- [Learn Assembly by Writing Entirely Too Many Brainfuck Compilers in Rust (2020)](https://github.com/pretzelhammer/rust-blog/blob/master/posts/too-many-brainfuck-compilers.md)
+- [Wrote some ARM (2019)](http://seenaburns.com/2019/04/17/wrote-some-arm/)
+- [Assembly Tutorials](https://www.assemblytutorial.com/) - Learn Z80 Assembly Programming.
+- [ARM and Thumb-2 Instruction Set Quick Reference](http://users.ece.utexas.edu/~valvano/Volume1/QuickReferenceCard.pdf)
+- [Advanced 6502 Assembly Programming for the Apple II (2020)](https://www.youtube.com/watch?v=WEliEAc3ZyA) ([Web](http://www.cs.columbia.edu/~sedwards/2020-vcfw-6502/))
+- [ARM Cortex-M33 Instruction Tracing Without a Debugger (2020)](https://interrupt.memfault.com/blog/instruction-tracing-mtb-m33)
+- [Apple M1 Assembly Language Hello World (2021)](https://smist08.wordpress.com/2021/01/08/apple-m1-assembly-language-hello-world/) ([HN](https://news.ycombinator.com/item?id=25786236))
+- [AMIE](https://github.com/NeatMonster/AMIE) - Minimalist Instruction Extender for the ARM architecture and IDA Pro.
+- [PLASMA](https://github.com/dschmenk/PLASMA) - Medium level programming language targeting the 8-bit 6502 processor.
+- [Babbage was a true genius (2006)](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BBabbage%20was%20a%20true%20genius%5D%5D) ([HN](https://lobste.rs/s/ovjvzl/babbage_was_true_genius))
+- [Why no one should use the AT&T syntax ever, for any reason, under any circumstances (2021)](https://elronnd.net/writ/2021-02-13_att-asm.html) ([Lobsters](https://lobste.rs/s/zifjgi/why_no_one_should_use_at_t_syntax_ever_for))
+- [Learning to Read x86 Assembly Language (2016)](http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language)
+- [Wiz](https://github.com/wiz-lang/wiz) - High-level assembly language for writing homebrew software for retro console platforms.
+- [How do computers work? (2021)](https://steveindusteves.substack.com/p/how-do-computers-work)
+- [How to Read Assembly Language (2021)](https://wolchok.org/posts/how-to-read-assembly-language/) ([HN](https://news.ycombinator.com/item?id=26311722))
+- [Top 10 Craziest Assembly Language Instructions (2021)](https://www.youtube.com/watch?v=Wz_xJPN7lAY)
+- [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
+- [How to Read ARM64 Assembly Language (2021)](https://wolchok.org/posts/how-to-read-arm64-assembly-language/)
+- [Easy 6502](http://skilldrick.github.io/easy6502/) - One-stop accessible tutorial on 6502 assembly language programming. ([Code](https://github.com/skilldrick/easy6502))
+- [swiftdasm](https://github.com/plotfi/swiftdasm) - arm64 disassembler written in Swift.
+- [Haruspex](https://github.com/can1357/haruspex) - Exploration of x86-64 ISA using speculative execution.
+- [Avoiding instruction cache misses (2019)](https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/)
+- [Assembly vs. intrinsics (2014)](https://danluu.com/assembly-intrinsics/) ([HN](https://news.ycombinator.com/item?id=26877076))
+- [How many x86 instructions are there? (2016)](https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/) ([HN](https://news.ycombinator.com/item?id=26889108))
+- [X86 Opcode and Instruction Reference](http://ref.x86asm.net/) ([Code](https://github.com/Barebit/x86reference))
+- [Branch predictor: How many "if"s are too many? Including x86 and M1 benchmarks! (2021)](https://blog.cloudflare.com/branch-predictor/) ([Tweet](https://twitter.com/majek04/status/1501491040322207746))
+- [Don't Use Inline Assembly](https://gcc.gnu.org/wiki/DontUseInlineAsm)
+- [Commodore’s Assemblers: Part 1: MOS Cross-Assembler](https://www.pagetable.com/?p=1520)
+- [Code in ARM Assembly: Registers explained (2021)](https://eclecticlight.co/2021/06/16/code-in-arm-assembly-registers-explained/) ([HN](https://news.ycombinator.com/item?id=27526155))
+- [Code in ARM Assembly: Working with pointers (2021)](https://eclecticlight.co/2021/06/21/code-in-arm-assembly-working-with-pointers/)
+- [Writing ARM64 Code for Apple Platforms](https://developer.apple.com/documentation/xcode/writing-arm64-code-for-apple-platforms) ([HN](https://news.ycombinator.com/item?id=27616018))
+- [Code in ARM Assembly: Conditional Loops (2021)](https://eclecticlight.co/2021/06/29/code-in-arm-assembly-conditional-loops/)
+- [Programming with 64-Bit ARM Assembly Language (2020)](https://www.apress.com/de/book/9781484258804) ([Code](https://github.com/below/HelloSilicon))
+- [Down to the silicon: how the Z80's registers are implemented (2014)](http://www.righto.com/2014/10/how-z80s-registers-are-implemented-down.html)
+- [Assembly Language and Computer Architecture (2018)](https://www.youtube.com/watch?v=L1ung0wil9Y)
+- [Reversing for dummies - x86 assembly and C code (2021)](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
+- [Uxn](https://wiki.xxiivv.com/site/uxn.html) - 8-bit virtual computer inspired by forth-machines, capable of running simple tools and games programmable in its own unique assembly language. ([Tutorial](https://compudanzas.net/uxn_tutorial.html)) ([Tweet](https://twitter.com/hundredrabbits/status/1418394255022645256)) ([Awesome](https://github.com/hundredrabbits/awesome-uxn)) ([Tweet](https://twitter.com/hundredrabbits/status/1449076985045549059)) ([Web](https://100r.co/site/uxn.html)) ([Learn Uxn](https://github.com/metasyn/learn-uxn))
+- [Three fundamental flaws of SIMD (2021)](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/)
+- [iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for .NET, Rust, Python, JavaScript.
+- [All about Global Offset Table (2021)](https://maskray.me/blog/2021-08-29-all-about-global-offset-table)
+- [Generating a QR code with only ARM Assembly](https://github.com/barrettotte/qr-asm) ([HN](https://news.ycombinator.com/item?id=28458818))
+- [Arm AArch64 Adds Memcpy() Instructions (2021)](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-a-profile-architecture-developments-2021) ([HN](https://news.ycombinator.com/item?id=28601386))
+- [Sail](https://www.cl.cam.ac.uk/~pes20/sail/) - Language for describing the instruction-set architecture (ISA) semantics of processors. ([Code](https://github.com/rems-project/sail))
+- [Art of Assembly Language Programming and HLA by Randall Hyde](https://www.randallhyde.com/AssemblyLanguage/www.artofasm.com/index.html)
+- [Zen of Assembly Language (1990)](https://github.com/jagregory/abrash-zen-of-asm)
+- [x86 assembly doesn’t have to be scary (2018)](https://blog.benjojo.co.uk/post/interactive-x86-bootloader-tutorial) ([HN](https://news.ycombinator.com/item?id=28770907))
+- [Minias](https://github.com/andrewchambers/minias) - Mini x86-64 assembler for fun and learning. ([HN](https://news.ycombinator.com/item?id=28884768))
+- [Binja Arm64 Disassembler](https://github.com/yrp604/bad64)
+- [Rappel](https://github.com/yrp604/rappel) - Linux-based assembly REPL for x86, amd64, armv7, and armv8.
+- [opv86](https://hikalium.github.io/opv86/) - Opcode / Instruction finder for x86_64. ([Code](https://github.com/hikalium/opv86))
+- [Comparing SIMD on x86-64 and arm64 (2021)](https://blog.yiningkarlli.com/2021/09/neon-vs-sse.html)
+- [Cheat sheet for x86-64 Unix systems programming](https://github.com/jstrieb/systems-programming-cheat-sheet)
+- [Famicom Party: Making NES Games in Assembly](https://famicom.party/book/) ([HN](https://news.ycombinator.com/item?id=29069095))
+- [ELF Science Part 1 (2021)](https://greatergoodest.github.io/post/elf_science_p1/)
+- [BLASFEO](https://github.com/giaf/blasfeo) - Basic linear algebra subroutines for embedded optimization.
+- [NASM](https://github.com/netwide-assembler/nasm) - Cross-platform x86 assembler with an Intel-like syntax. ([Web](https://nasm.us/))
+- [ASMREPL](https://github.com/tenderlove/asmrepl) - REPL for x86 assembly language. ([HN](https://news.ycombinator.com/item?id=29385006))
+- [The Fastest FizzBuzz Implementation (2021)](https://tech.marksblogg.com/fastest-fizz-buzz.html) ([HN](https://news.ycombinator.com/item?id=29413656)) ([Tweet](https://twitter.com/pcwalton/status/1466350917133889541))
+- [High throughput Fizz Buzz](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz) ([Tweet](https://twitter.com/danluu/status/1453820898876682258))
+- [Fast CSV Processing with SIMD (2021)](https://nullprogram.com/blog/2021/12/04/) ([HN](https://news.ycombinator.com/item?id=29439403))
+- [Program analysis for machine code](https://github.com/iximeow/yaxpeax-core)
+- [asmase](https://github.com/osandov/asmase) - REPL for assembly language using an LLVM backend.
+- [Writing a self-modifying x86 factorial program (2021)](https://brianstadnicki.github.io/posts/asm-self-modifying-factorial/) ([HN](https://news.ycombinator.com/item?id=29563027))
+- [NASM Assembly Language Tutorials](https://asmtutor.com/) ([HN](https://news.ycombinator.com/item?id=29784788))
+- [Jumping into the middle of an instruction is not as strange as it sounds (2022)](https://devblogs.microsoft.com/oldnewthing/20220111-00/?p=106144)
+- [strop](https://github.com/omarandlorraine/strop) Stochastically generates assembly language programs that compute a given function.
+- [x86-64](https://github.com/divipp/x86-64) - Runtime code generation for x86 64 bit machine code.
+- [The Art of Assembly Language Programming (1996)](http://www.phatcode.net/res/223/files/html/toc.html) ([HN](https://news.ycombinator.com/item?id=30575920))
+- [pclmulqdq Tricks (2020)](https://wunkolo.github.io/post/2020/05/pclmulqdq-tricks/)
+- [Guide to CPUs and assembly](https://github.com/hackclub/assembly)
+- [Assembly instructions distribution (2022)](https://www.cambus.net/assembly-instructions-distribution/) ([Lobsters](https://lobste.rs/s/gh2paa/assembly_instructions_distribution))

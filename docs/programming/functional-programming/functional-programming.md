@@ -1,0 +1,187 @@
+# Functional programming
+
+[Effekt](https://github.com/effekt-lang/effekt) seems like a neat language. [The Dao of Functional Programming](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf) is a nice read.
+
+## Notes
+
+- [A monad is an abstraction that can be used to parametrize code with the way how computations are sequenced. A monad can also be seen as design pattern, that sometimes makes your code more readable (and, more often, less readable).](https://binaryanalysisplatform.github.io/bap/api/master/Monads.Std.html)
+- Think of monads as of codification of imperative effectful computations in a more general way.
+- [Monads are a pattern of using types to encapsulate some data.](https://www.reddit.com/r/Clojure/comments/9cpyqc/should_i_learn_haskell_to_reveal_functional/)
+- [Ah, the functional paradigm. Your brain is screwing with you. You have to stop thinking about telling computer when to do things, you know, do this, then do this, then do this... let computer decide when to do what. Your brain is confused and is trying to tell computer in which order to do things, but did you ever think about the order when creating Excel spreadsheet with formulas? Clojure is like Excel. You focus on the formulas, and Clojure figures out order of execution.](https://www.reddit.com/r/Clojure/comments/9geecc/how_does_anyone_learn_this/)
+- [If you have a pure function that is deterministic, its entire call can be replaced with the output. This is referential transparency. If you store outputs in a cache and map inputs to cache locations, sometimes you avoid calling entirely by just hitting the cache. Referential transparency is the property being leveraged. Caching and mapping inputs is the implementation detail. Memoization is the name of this implemented behavior.](https://www.reddit.com/r/NixOS/comments/quqiqr/2022_devops_pipelines_be_like/)
+
+## Links
+
+- [List of FP Resources](http://themattchan.com/blog/fp-resources.html)
+- [Introduction to Functional Programming (2020)](https://serokell.io/blog/introduction-to-functional-programming)
+- [Teens and Functional Programming](https://jozefg.bitbucket.io/posts/2013-09-08-teens-and-fp.html)
+- [Conversations with a six-year-old on functional programming](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/) ([HN](https://news.ycombinator.com/item?id=22943749))
+- [FP Resources](https://github.com/allenleein/brains/projects/9?fullscreen=true)
+- [OOS is dead only if FP is dead](https://speakerdeck.com/staltz/oop-is-dead-only-if-fp-is-dead?slide=1)
+- [Total functional programming (ESFP) literature](https://github.com/mietek/total-functional-programming)
+- [Having an Effect by Oleg Kiselyov](https://www.youtube.com/watch?v=GhERMBT7u4w)
+- [Monads Demystified (2015)](http://blog.reverberate.org/2015/08/monads-demystified.html)
+- [Can functional programming be liberated from the von Neumann paradigm?](http://conal.net/blog/posts/can-functional-programming-be-liberated-from-the-von-neumann-paradigm) ([HN](https://news.ycombinator.com/item?id=18692470))
+- [COMP 212: Functional Programming Course (2019)](http://dlicata.web.wesleyan.edu/teaching/fp-s19/) - Purpose of this course is to introduce the theory and practice of functional programming (FP).
+- [Research papers / Functional pearls](https://wiki.haskell.org/Research_papers/Functional_pearls) - Functional pearls are elegant, instructive examples of functional programming.
+- [Effects bibliography](https://github.com/yallop/effects-bibliography) - Collaborative bibliography of work related to the theory and practice of computational effects.
+- [Flerp’s Guide to Functional Programming](https://github.com/jeppes/flerps-functional) - Collection of the resources I've found most useful when exploring the world of functional programming.
+- [George Wilson - The Extended Functor Family (2016)](https://www.youtube.com/watch?v=JZPXzJ5tp9w)
+- [Functional Programming for the Long Haul by Michael Snoyman (2019)](https://www.youtube.com/watch?v=DdR9q69se-I)
+- [Selective Applicative Functors](https://www.staff.ncl.ac.uk/andrey.mokhov/selective-functors.pdf) - Declare Your Effects Statically, Select Which to Execute Dynamically.
+- [What makes a function pure? (2018)](https://blog.kubukoz.com/what-makes-a-function-pure)
+- [Foundation of Functional Programming Course (2019)](https://github.com/julien-truffaut/fp-foundation)
+- [Theory of functional programming with Eric Normand (2019)](https://lispcast.com/theory-functional-programming-0003/)
+- [Applied Functional Programming Course](https://github.com/qfpl/applied-fp-course)
+- [Effects](https://github.com/stepchowfun/effects) - Brief exploration of the various approaches to modeling side effects in a purely functional programming language.
+- [Code and materials for book "Functional Design and Architecture" (2019)](https://github.com/graninas/Functional-Design-and-Architecture)
+- [Practical Functional Programming: Prelude (2018)](https://www.gasi.ch/blog/practical-functional-programming)
+- [Postmodern Programming](https://github.com/robrix/Postmodern-Programming/blob/master/Postmodern%20Programming.md) - Talk about declarative programming in and around imperative code: what, why, and how.
+- [The Science of Functional Programming book](https://github.com/winitzki/sofp/blob/master/sofp-src/sofp.pdf) ([HN](https://news.ycombinator.com/item?id=21093129))
+- [Foundation of functional programming course](https://github.com/fp-tower/foundation)
+- [Discrete Mathematics and Functional Programming book (2012)](http://cs.wheaton.edu/~tvandrun/dmfp/)
+- [TypeFunc](https://github.com/williamdemeo/TypeFunc) - Resources for type theory, functional programming, etc.
+- [Functional Programming Course](https://github.com/tonymorris/fp-course) - Structured according to a linear progression and uses the Haskell programming language to learn programming concepts pertaining to functional programming.
+- [Structure and Decomposition of Computer Programs book (2019)](https://github.com/isovector/structure-and-decomposition-of-computer-programs)
+- [Speaker Interview with Edward Kmett (2019)](https://confengine.com/functional-conf-2019/speaker/interview/edward-kmett)
+- [Why Isn't Functional Programming the Norm? – Richard Feldman (2019)](https://www.youtube.com/watch?v=QyJZzq0v7Z4) ([HN](https://news.ycombinator.com/item?id=21280429)) ([Lobsters](https://lobste.rs/s/dbsvr5/why_isn_t_functional_programming_norm))
+- [Purely Functional Data Structures by Chris Okasaki (1996)](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) ([OCaml Code](https://github.com/tianyicui/pfds-ocaml))
+- [A Type of Programming by Renzo Carbonara](https://atypeofprogramming.com/)
+- [3 examples of algebraic thinking (2019)](https://lispcast.com/3-examples-of-algebraic-thinking/)
+- [Functional Design and Architecture book (2021)](https://www.manning.com/books/functional-design-and-architecture) ([Reddit](https://www.reddit.com/r/haskell/comments/illft7/the_book_functional_design_and_architecture_is/)) ([Web](https://graninas.com/functional-design-and-architecture-book/))
+- [Sara Fransson: Functional lenses through a practical lens (2019)](https://www.youtube.com/watch?v=sFzuu676pFs)
+- [Algebraic structures: things i wish someone had explained about functional programming (2019)](https://jrsinclair.com/articles/2019/algebraic-structures-what-i-wish-someone-had-explained-about-functional-programming/) ([HN](https://news.ycombinator.com/item?id=21440932))
+- [MLKit](https://github.com/melsman/mlkit) - Standard ML Compiler and Toolkit.
+- [ICFP 2019 preprints/papers](https://github.com/llelf/icfp2019-papers)
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+- [A Glossary of Functional Programming](http://degoes.net/articles/fp-glossary)
+- [Functional programming design patterns by Scott Wlaschin (2014)](https://www.youtube.com/watch?v=E8I19uA-wGY)
+- [PhD Abstracts for functional programming (2020)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F66CECFC31BDB7D2790F39DE25426EEA/S0956796819000200a.pdf/phd_abstracts.pdf)
+- [Luka Jacobowitz—Monoids, Monoids, Monoids (2019)](https://www.youtube.com/watch?v=DJyhWAwmGqE)
+- [Selective Lambda Lifting (2019)](https://arxiv.org/abs/1910.11717)
+- [Recursion Scheme Talks](https://github.com/sellout/recursion-scheme-talk)
+- [Domain Modeling Made Functional - Scott Wlaschin (2017)](https://www.youtube.com/watch?v=Up7LcbGZFuo) ([Book](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/)) ([Code](https://github.com/chiroptical/domain-modeling-made-functional))
+- [The Implementation of Functional Programming Languages book (1987)](https://www.microsoft.com/en-us/research/uploads/prod/1987/01/slpj-book-1987-r90.pdf)
+- [Functional programming great resources](https://github.com/mmenestret/fp-resources)
+- [On the Expressive Power of Indexed Applicative and Monadic Structures (2018)](https://oxij.org/thesis/PhD/)
+- [Functional Programming for Domain-Specific Languages](http://www.cs.ox.ac.uk/jeremy.gibbons/publications/fp4dsls.pdf)
+- [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
+- [Effect Handlers via Generalised Continuations (2020)](http://homepages.inf.ed.ac.uk/slindley/papers/ehgc.pdf)
+- [The general value of typed functional programming lies in leaving no edge cases](https://np.reddit.com/r/scala/comments/en89or/when_should_i_use_cats_scalaz_instead_of_standard/fdxer1k/) ([HN](https://news.ycombinator.com/item?id=22403625))
+- [Developing Statically Typed Programming Language (2017)](https://blog.mgechev.com/2017/08/05/typed-lambda-calculus-create-type-checker-transpiler-compiler-javascript/) ([HN](https://news.ycombinator.com/item?id=21738891))
+- [Runners in action (2019)](http://math.andrej.com/2019/10/28/runners-in-action/)
+- [Seminaïve Evaluation for a Higher-Order Functional Language](https://www.cl.cam.ac.uk/~nk480/seminaive-datafun.pdf)
+- [Counting Immutable Beans (2020)](https://arxiv.org/pdf/1908.05647.pdf) - Reference Counting Optimized for Purely Functional Programming.
+- [What's the best functional language to learn over the next 30 days? (2020)](https://lobste.rs/s/hf3y19/what_s_best_functional_language_learn)
+- [Exercises for the course 'Functional Design by John A. De Goes'](https://github.com/jdegoes/functional-design)
+- [Breaking down "A monad is just a monoid in the category of endofunctors"](https://www.christianfscott.com/wtf-is-a-monad/)
+- [Chalmers Online Functional Programming Seminar Series](http://chalmersfp.org/)
+- [Ask HN: How to be fluent in functional language speak? (2020)](https://news.ycombinator.com/item?id=23078173)
+- [A Quick Look at Impredicativity (Simon Peyton Jones) (2020)](https://www.youtube.com/watch?v=ZuNMo136QqI)
+- [Purely Functional Data Structures and Monoids (2020)](https://doisinkidney.com/pdfs/purely-functional-data-structures-slides.pdf)
+- [Designing a functional programming language: Yatta (2020)](https://functional.blog/2020/05/25/designing-a-functional-programming-language-yatta/) ([HN](https://news.ycombinator.com/item?id=23307699))
+- [Malfunction](https://github.com/stedolan/malfunction) - High-performance, low-level untyped program representation, designed as a target for compilers of functional programming languages.
+- [Practical type inference for arbitrary-rank types (2007)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf)
+- [Monads in 15 minutes: Backtracking and Maybe (2007)](http://www.randomhacks.net/2007/03/12/monads-in-15-minutes/)
+- [Functional Code is Honest Code (2020)](https://michaelfeathers.silvrback.com/functional-code-is-honest-code) ([Lobsters](https://lobste.rs/s/lwopua/functional_code_is_honest_code))
+- [Talk: Denotational Design: from meanings to programs](https://github.com/conal/talk-2014-lambdajam-denotational-design)
+- [Functional Programming for Array-Based Parallelism (2020)](https://www.infoq.com/presentations/functional-programming-parallelism/) ([HN](https://news.ycombinator.com/item?id=23536190))
+- [Graham Hutton: Publications](http://www.cs.nott.ac.uk/~pszgmh/bib.html)
+- [Queensland Functional Programming Lab](https://qfpl.io/) ([GitHub](https://github.com/qfpl))
+- [List of useful resources to learn typed FP](https://github.com/dewey92/typed-fp-good-reads)
+- [Monads and Mom (2020)](https://twitchard.github.io/posts/2020-07-26-monads.html) ([Lobsters](https://lobste.rs/s/hkz1kh/monads_mom))
+- [Learn Functional Programming Design from Redux (2020)](https://pitayan.com/posts/redux-fp-design/) ([HN](https://news.ycombinator.com/item?id=24046631))
+- [Imperative functional programming (1992)](https://www.microsoft.com/en-us/research/wp-content/uploads/1993/01/imperative.pdf)
+- [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire (1991)](https://ris.utwente.nl/ws/portalfiles/portal/6142049/meijer91functional.pdf) ([Web](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.125))
+- [Monads, Explained Without Bullshit (2020)](https://www.boringcactus.com/2020/07/18/monads-without-the-bullshit.html)
+- [Is Haskell good for learning functional programming? (2020)](https://www.reddit.com/r/haskell/comments/ik9yqi/is_haskell_good_for_learning_functional/)
+- [Functional lessons learnt (2019)](https://manzanit0.github.io/functional%20programming/2019/08/23/functional-lessons.html)
+- [Algebra-Driven Design book](https://algebradriven.design/) - Elegant Software from Simple Building Blocks. ([Lobsters](https://lobste.rs/s/xs8vlo/algebra_driven_design))
+- [What is functional reactive programming](https://github.com/Pauan/programming-notes/blob/master/Signals.rst)
+- [Implement Box functional data structure](https://github.com/Pauan/programming-notes/blob/master/Boxes.rst)
+- [CS316 “Functional Programming” course (2020)](https://github.com/bobatkey/CS316-2020)
+- [Of Groups and Monads](https://garlandus.co/OfGroupsAndMonads.html) ([Lobsters](https://lobste.rs/s/zzcjr9/groups_monads))
+- [Compositional Podcast](https://www.compositional.fm/) - All about functional programming in practice.
+- [Understanding Combinators using Elm](https://discourse.elm-lang.org/t/understanding-combinators/6425)
+- [Objects in Functional Languages](https://journal.infinitenegativeutility.com/objects-in-functional-languages) ([Lobsters](https://lobste.rs/s/wa5vbs/objects_functional_languages)) ([HN](https://news.ycombinator.com/item?id=25258354))
+- [Functional Christmas](https://functional.christmas/)
+- [Lambda the Ultimate Pattern Factory](https://github.com/thma/LtuPatternFactory) - FP, Haskell, Typeclassopedia vs Software Design Patterns.
+- [Reconciling concepts from FP and OOP (2020)](https://thma.github.io/posts/2020-12-20-reconciling-fp-and-oop-concepts.html)
+- [Book of Monads](https://leanpub.com/book-of-monads/) - Provides a journey from the very first concepts, to the myriad of monads available to programmers, down to the categorical foundations. ([Code](https://github.com/JonathanLorimer/book-of-monads))
+- [Functional Pearl: It’s Easy As 1,2,3 (2021)](http://www.cs.nott.ac.uk/~pszgmh/123.pdf)
+- [Functional pearl: getting a quick fix on comonads (2015)](https://dl.acm.org/doi/10.1145/2887747.2804310) ([Code](https://github.com/kwf/GQFC))
+- [Fool's scriptum on functional programming](https://github.com/kongware/scriptum) - Course about purely functional programming in JavaScript based on the scriptum library.
+- [PhD research notes on using pure functional programming for implementing Agent-Based Simulations (ABS)](https://github.com/thalerjonathan/phd)
+- [Cube Composer](https://david-peter.de/cube-composer/) - Learn Functional Programming Visually. ([Code](https://github.com/sharkdp/cube-composer)) ([HN](https://news.ycombinator.com/item?id=26131075))
+- [Myth](https://github.com/silky/myth) - Type-and-example-driven program synthesis for functional programming languages.
+- [Profunctor Optics: Modular Data Accessors (2017)](https://mpickering.github.io/papers/profunctor-options.pdf)
+- [OCaml, Erlang, and Functional Programming with Leandro Ostera (2021)](https://www.youtube.com/watch?v=9qqyd7nQqnE)
+- [Functional Programming Slack](https://fpchat-invite.herokuapp.com/)
+- [Can continuation passing style code perform well? (2021)](http://funcall.blogspot.com/2021/04/can-continuation-passing-style-code.html) ([HN](https://news.ycombinator.com/item?id=26800745)) ([Lobsters](https://lobste.rs/s/ossum2/can_continuation_passing_style_code))
+- [Algebraic Types' Series Expansions (2021)](https://twitter.com/macrocephalopod/status/1366715423807397889)
+- [Implementing Functional Languages: Tutorial by Simon Peyton Jones and David Lester (2000)](https://www.microsoft.com/en-us/research/wp-content/uploads/1992/01/student.pdf) ([Code](https://github.com/themattchan/core))
+- [Domain Modeling Made Functional with Scott Wlaschin (2020)](https://www.youtube.com/watch?v=9QlhkQl0DSw) ([HN](https://news.ycombinator.com/item?id=27408440))
+- [Functors and Monads for People Who Have Read Too Many “Tutorials” (2021)](http://www.jerf.org/iri/post/2958) ([HN](https://news.ycombinator.com/item?id=27637779))
+- [The Y Combinator (Slight Return)](https://mvanier.livejournal.com/2897.html) ([HN](https://news.ycombinator.com/item?id=27673177))
+- [The mysterious Y combinator (2020)](https://bharathi.xyz/pl/the-mysterious-y-combinator.html)
+- [ICFP 2021 - Research Papers](https://icfp21.sigplan.org/track/icfp-2021-papers)
+- [A Functional Programming Language with Versions (2021)](https://arxiv.org/abs/2107.07301)
+- [Why is learning functional programming so damned hard? (2019)](https://cscalfani.medium.com/why-is-learning-functional-programming-so-damned-hard-bfd00202a7d1) ([HN](https://news.ycombinator.com/item?id=28188822))
+- [Review: Why FP Matters (Hughes) (2021)](https://cuddly-octo-palm-tree.com/posts/2021-03-07-review-whyfp/)
+- [Monad Tutorial](https://cuddly-octo-palm-tree.com/tags/monad-tutorial/)
+- [Monads are monoids in the category of endofunctors](https://sambernheim.com/#/blog/monads-are-monoids-in-the-category-of-endofunctors) ([HN](https://news.ycombinator.com/item?id=28466676))
+- [Functional programming is not popular because it is weird (2016)](https://probablydance.com/2016/02/27/functional-programming-is-not-popular-because-it-is-weird/) ([HN](https://news.ycombinator.com/item?id=28513703))
+- [List Homomorphisms and Parallelism](https://sigkill.dk/writings/par/lhomo.html) ([HN](https://news.ycombinator.com/item?id=28520476))
+- [Programs as Values, Part I : Intro & Compositionality](https://systemfw.org/posts/programs-as-values-I.html)
+- [Random Permutations and Sorting](https://apfelmus.nfshost.com/articles/random-permutations.html)
+- [Meta-learning and Monads (2021)](https://www.brunogavranovic.com/posts/2021-10-13-meta-learning-and-monads.html) ([Tweet](https://twitter.com/bgavran3/status/1448426672622129154))
+- [Functional Algorithms, Verified (2021)](https://functional-algorithms-verified.org/) ([HN](https://news.ycombinator.com/item?id=28884229))
+- [Std: Execution, Sender/Receiver, and the Continuation Monad (2021)](https://sdowney.org/index.php/2021/10/03/stdexecution-sender-receiver-and-the-continuation-monad/) ([HN](https://news.ycombinator.com/item?id=28894851))
+- [PCF](https://github.com/jozefg/pcf) - Tiny typed, higher-order functional language. Compiled to C.
+- [Functors, Applicatives, and Monads in Pictures (2013)](https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) ([HN](https://news.ycombinator.com/item?id=28916247))
+- [United Monoids (2018)](https://blogs.ncl.ac.uk/andreymokhov/united-monoids/) ([Code](https://github.com/snowleopard/united))
+- [Seemingly impossible functional programs (2007)](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/) ([HN](https://news.ycombinator.com/item?id=29033003))
+- [Distillation: extracting the essence of programs (2007)](https://dl.acm.org/doi/10.1145/1244381.1244391) - Transformation algorithm called distillation which can automatically transform higher-order functional programs into equivalent tail-recursive programs. ([Code](https://github.com/poitin/Distiller))
+- [On the correctness of monadic backward induction (2021)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/on-the-correctness-of-monadic-backward-induction/0F71FFE6AE1222E77F52341C695E366A) ([Tweet](https://twitter.com/CUP_JFP/status/1457060107087450115))
+- [What exactly is functional programming (and it's benefits)? (2021)](https://www.reddit.com/r/scala/comments/qs52h2/what_exactly_is_functional_programming_and_its/)
+- [Journal of Functional Programming](https://www.cambridge.org/core/journals/journal-of-functional-programming) ([Goes Open Access](https://www.cambridge.org/core/blog/2021/11/11/journal-of-functional-programming-moving-to-open-access/)) ([HN](https://news.ycombinator.com/item?id=29218202))
+- [Algebraic Data Types in 10 Minutes – Daniel Rogozin (2021)](https://www.youtube.com/watch?v=UqwLn2OyQ_E)
+- [The Decent Way to Learn Functional Programming (2012)](https://blog.oxij.org/2012/01/16/the-decent-way-to-learn-functional-programming/)
+- [Lightweight higher-kinded polymorphism](https://www.cl.cam.ac.uk/~jdy22/papers/lightweight-higher-kinded-polymorphism.pdf)
+- [Implementing a Functional Language with Graph Reduction (2021)](https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html)
+- [What's awesome about functional programming (2021)](https://thma.github.io/posts/2021-01-17-Whats-awesome-about-functional-programming.html)
+- [Why are imperative programs considered faster than their functional counterparts? (2021)](https://www.reddit.com/r/ProgrammingLanguages/comments/rsce6j/why_are_imperative_programs_considered_faster/)
+- [Provably space-efficient parallel functional programming (2022)](https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/) ([HN](https://news.ycombinator.com/item?id=29925513))
+- [Foundations of Functional Programming/The λ-cube](https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_%CE%BB-cube) ([HN](https://news.ycombinator.com/item?id=29948843))
+- [Functional Programming Papers Notes](https://github.com/i-am-tom/papers)
+- [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM) - Pure functional compile target that is lazy, non-garbage-collected and massively parallel. ([Reddit](https://www.reddit.com/r/haskell/comments/shewq7/hvm_a_nextgen_massively_parallel_betaoptimal/)) ([HN](https://news.ycombinator.com/item?id=30152714)) ([HN](https://news.ycombinator.com/item?id=30219452)) ([Lobsters](https://lobste.rs/s/zw8pgr/kindelia_hvm_massively_parallel_optimal))
+- [Eric Normand - Grokking Simplicity](https://freecontent.manning.com/eric-normand-grokking-simplicity/)
+- [What Color Is Your Monad (2022)](https://patrickthebold.github.io/posts/what-color-is-your-monad/) ([HN](https://news.ycombinator.com/item?id=30330909))
+- [Async/Await is really just a subset of monads and do-notation for imperative languages](https://www.reddit.com/r/haskell/comments/t3wumj/asyncawait_is_really_just_a_subset_of_monads_and/)
+- [How to Use Monads without Understanding Them (2022)](https://elbear.com/how-to-use-monads-without-understanding-them.html) ([Reddit](https://www.reddit.com/r/haskell/comments/t8pksp/how_to_use_monads_without_understanding_them/))
+- [Functional Manipulation of Bit Streams](http://user.it.uu.se/~pergu/papers/bitstreams.pdf)
+- [Does Rust prevent more logic bugs than statically-typed pure FP languages? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/teskx2/does_rust_prevent_more_logic_bugs_than/)
+- [The Reader Monad — Example & Motivation (2018)](https://engineering.dollarshaveclub.com/the-reader-monad-example-motivation-542c54ccfaa8)
+- [How side effects work in FP](https://chadnauseam.com/coding/random/how-side-effects-work-in-fp/) ([HN](https://news.ycombinator.com/item?id=30762281))
+- [Monads (2022)](https://blog.ploeh.dk/2022/03/28/monads/) ([Lobsters](https://lobste.rs/s/bip7oc/monads))
+- [Two Vexing Problems in Functional Programming (2022)](https://matthewbutterick.com/chron/two-vexing-problems-in-functional-progamming.html) ([HN](https://news.ycombinator.com/item?id=30878534))
+- [Functional Programming Is Boring](https://github.com/danieljharvey/functional-programming-is-boring) - Short course on Functional Programming in Typescript.
+- [Notes on Functional Programming and related topics](https://github.com/siraben/fp-notes)
+- [Theory and Applications of Lenses and Optics](https://github.com/bgavran/Lens_Resources)
+- [schmu](https://github.com/tjammer/schmu) - Small, mostly functional programming language which compiles to native code.
+- [A Taste of Roc — Richard Feldman (2021)](https://www.youtube.com/watch?v=6qzWm_eoUXM)
+- [Zilch](https://github.com/zilch-lang/zilch) - Statically-typed, low-level, functional programming language with some focus on runtime performance.
+- [At the boundaries, applications aren't functional (2022)](https://blog.ploeh.dk/2022/05/02/at-the-boundaries-applications-arent-functional/)
+- [Template for Hindley-Milner based languages](https://github.com/mbg/hindley-milner)
+- [Selective applicative functors](https://github.com/snowleopard/selective) - Abstraction between applicative functors and monads.
+- [Utrecht Advanced Functional Programming Summer School](https://uu-afp.github.io/)
+- [Functional Programming in Bologna](https://twitter.com/fpinbo)
+- [The Dao of Functional Programming (2022)](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf) ([Code](https://github.com/BartoszMilewski/DaoFP)) ([HN](https://news.ycombinator.com/item?id=31466441))
+- [Teika](https://github.com/teikalang/teika) - Functional programming language.
+- [Gren](https://github.com/gren-lang/compiler) - Functional programming language with carefully managed side-effects and a strong static type system. ([Web](https://gren-lang.org/)) ([Twitter](https://twitter.com/gren_lang))
+- [Grin](https://github.com/fizruk/simple-grin) - Simple functional language.
+- [Purely functional data structures in HVM](https://github.com/lac-dcc/wyvern)
+
+## Images
+
+![](https://i.imgur.com/nSrcdxd.png)

@@ -1,0 +1,45 @@
+# Bots
+
+## Links
+
+- [Bottender](https://github.com/Yoctol/bottender) - Framework for building conversational user interfaces.
+- [Messaging APIs](https://github.com/Yoctol/messaging-apis) - Mono repo which collects APIs needed for bot development.
+- [Hubot](https://github.com/hubotio/hubot) - Framework to build chat bots.
+- [DeepPavlov](https://github.com/deepmipt/DeepPavlov) - Open source library for deep learning end-to-end dialog systems and chatbots. ([Web](https://deeppavlov.ai/))
+- [Venom](https://github.com/orkestral/venom) - High-performance system developed with JavaScript to create a bot for WhatsApp.
+- [Virtual-Assistant](https://github.com/ritwik12/Virtual-Assistant) - Linux based Virtual assistant on Artificial Intelligence in C.
+- [Cloudflare Bot Analytics (2020)](https://blog.cloudflare.com/introducing-bot-analytics/)
+- [Hybrid Conversational Bot](https://github.com/JRC1995/Chatbot) - Based on both neural retrieval and neural generative mechanism with TTS.
+- [Joonbot](https://www.joonbot.com/) - No code free website bot maker.
+- [Polis](https://github.com/pol-is/polis) - AI powered sentiment gathering platform. More organic than surveys, less effort than focus groups.
+- [Awesome ChatOps](https://github.com/exAspArk/awesome-chatops)
+- [OpenChat](https://github.com/hyunwoongko/openchat) - Easy to use opensource chatting framework via neural networks.
+- [CSML (Conversational Standard Meta Language)](https://github.com/CSML-by-Clevy/csml-engine) - Domain-Specific Language designed for easily creating conversational experiences. ([Web](https://www.csml.dev/)) ([GitHub](https://github.com/CSML-by-Clevy))
+- [Chatty Goose](https://github.com/castorini/chatty-goose) - Python framework for conversational search.
+- [AWS Lex + AWS Lambda Example](https://github.com/Fallenstedt/aws-lex-lambda-example) - End goal is to communicate with an AWS Lex chatbot using HTTP.
+- [Juji](https://juji.io/) - Cognitive AI Chatbots. ([GitHub](https://github.com/juji-io))
+- [Blenderbot2](https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet) - Open source chatbot that builds long-term memory and searches the internet.
+- [VK Auto Reply Bot](https://github.com/EnjiRouz/VK-Auto-Reply-Bot) - VKontakte User Bot with scheduled message sending, NLU and managed responses.
+- [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - Advanced NodeJS WhatsApp library for chatbots with advanced features.
+- [Matt, the Clubhouse bot (2021)](https://knyar.net/stuff/matt-the-clubhouse-bot/) ([Code](https://github.com/knyar/housebot))
+- [Errbot](https://github.com/errbotio/errbot) - Chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation. ([Docs](https://errbot.readthedocs.io/en/latest/))
+- [Secret Santa App](https://secret-santa.team/) - Secret Santa bot for your Slack, Discord or Zoom.us team. ([Code](https://github.com/jolicode/secret-santa))
+- [Kairon](https://github.com/digiteinfotech/kairon) - Tool suite built on RASA to train and deploy your chatbots using advanced NLP.
+- [Xene](https://github.com/dempfi/xene) - Modern library with simple API to build great conversational bots.
+- [chatbot](https://github.com/kevwan/chatbot) - Fast responsive, machine learning, conversational dialog engine for creating chat bots, written in Go.
+- [Dialogflow](https://cloud.google.com/dialogflow/docs/) - Natural language understanding platform that makes it easy to design and integrate a conversational user interface. ([Python Client](https://github.com/googleapis/python-dialogflow))
+- [Gort](https://github.com/getgort/gort) - Chatbot framework designed from the ground up for chatops. ([Docs](https://guide.getgort.io/))
+- [Cyclone](https://github.com/top-gg/cyclone) - Pattern matching framework for detecting bots that behave exactly like or very similar to other bots.
+- [Thales](https://github.com/super-reality/Thales) - Open source autonomous agent for everyone. No coding required.
+- [ChatterBot](https://github.com/gunthercox/ChatterBot) - Machine learning, conversational dialog engine for creating chat bots. ([Docs](https://chatterbot.readthedocs.io/en/stable/))
+- [Torpedo](https://github.com/tb0hdan/torpedo) - Pluggable, multi-network asynchronous chat bot written in Go.
+- [Odd Eye](https://github.com/Xetera/odd-eye) - Detect bad bots trying to disguise themselves as humans.
+- [Bot Taxonomy: How do different kinds of automation on the internet coexist? (2021)](https://xetera.dev/bot-taxonomy/)
+- [Chatbots: Still dumb after all these years (2022)](https://mindmatters.ai/2022/01/will-chatbots-replace-the-art-of-human-conversation/) ([HN](https://news.ycombinator.com/item?id=29825612))
+- [“Chatbots: Still Dumb After All These Years” (2022)](https://statmodeling.stat.columbia.edu/2022/01/13/chatbots-still-dumb-after-all-these-years/) ([HN](https://news.ycombinator.com/item?id=29934335))
+- [How To Design A Chat Bot (2022)](https://blog.cofree.coffee/2022-02-14-how-to-design-a-chat-bot/)
+- [Botmaker](https://botmaker.com/en/) - Conversations to Grow Your Business. ([Dev Docs](https://botmaker.com/en/developers))
+- [BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Identify JavaScript bots, browser spoofing, virtual machines and much more.
+- [Bruxism](https://github.com/iopred/bruxism) - Chat bot for YouTube, Discord and IRC.
+- [SSR but Just for Bots (2022)](https://egoist.proselog.com/ssr-but-just-for-bots)
+- [Botway](https://github.com/abdfnx/botway) - Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.

@@ -1,0 +1,90 @@
+---
+title: Idris
+---
+
+# [Idris](https://www.idris-lang.org/)
+
+## Links
+
+- [The Power of Types in Idris (2019)](https://www.azavea.com/blog/2019/03/11/the-power-of-types-in-idris/)
+- [Idris koans](https://github.com/idris-hackers/idris-koans)
+- [Awesome Idris](https://github.com/joaomilho/awesome-idris)
+- [linear](https://github.com/vmchale/linear) - Profunctor optics for linear types.
+- [States](https://github.com/edwinb/States) - State machines in Idris.
+- [Blodwen](https://github.com/edwinb/Blodwen) - Prototype implementation of Idris 2.
+- [Idris 2](https://github.com/edwinb/Idris2) - Pre-alpha implementation of Idris 2, the successor to Idris.
+- [Edwin Brady - Idris 2 - Type-driven Development of Idris (2019)](https://www.youtube.com/watch?v=DRq2NgeFcO0)
+- [Software Foundations in Idris](https://github.com/idris-hackers/software-foundations)
+- [Typedefs](https://github.com/typedefs/typedefs) - Programming language-agnostic, algebraic data type definition language, written in Idris.
+- [Linearity and Erasure in Idris 2 (2020)](https://www.type-driven.org.uk/edwinb/linearity-and-erasure-in-idris-2.html)
+- [A game in a pure language (part 1): introduction and problems with Idris (2020)](https://flowing.systems/2020/01/13/a-game-in-a-pure-language-part-1-introduction-and-problems-with-idris.html)
+- [Linearity and Erasure in Idris 2 (2020)](https://www.type-driven.org.uk/edwinb/linearity-and-erasure-in-idris-2.html)
+- [Collection of Idris snippets](https://github.com/palladin/idris-snippets)
+- [Elba](https://github.com/elba/elba) - Package manager for Idris.
+- [Statebox's FSM-Oracle](https://github.com/statebox/fsm-oracle) - Finite state machines as graphs.
+- [Idris 2: Quantitative Type Theory in Action](https://www.type-driven.org.uk/edwinb/papers/idris2.pdf) ([Web](https://www.type-driven.org.uk/edwinb/idris-2-quantitative-type-theory-in-action.html))
+- [Self-hosted Idris 2](https://github.com/edwinb/Idris2-SH)
+- [Why is Idris 2 so much faster than Idris 1? (2020)](https://www.type-driven.org.uk/edwinb/why-is-idris-2-so-much-faster-than-idris-1.html) ([HN](https://news.ycombinator.com/item?id=23304081)) ([Reddit](https://www.reddit.com/r/dependent_types/comments/gqh74h/why_is_idris_2_so_much_faster_than_idris_1/))
+- [Scheme Workshop Keynote: Edwin Brady (2019)](https://www.youtube.com/watch?v=h9YAOaBWuIk)
+- [Type-Driven Development with Idris book](https://www.manning.com/books/type-driven-development-with-idris) ([Updates required](https://idris2.readthedocs.io/en/latest/typedd/typedd.html)) ([Code](https://github.com/JonathanLorimer/tdd-with-idris2))
+- [libc.idr](https://github.com/Hirrolot/libc.idr) - Bindings to the C standard library for Idris2.
+- [Edwin Brady Tells Us What's New in Idris 2 (2020)](https://www.youtube.com/watch?v=nbClauMCeds)
+- [A simple Parser Combinator library in Idris (2020)](https://timmyjose.github.io/docs/2020-09-19-parser-combinator-library-idris)
+- [Idris 2 Erlang](https:/Idris2-Erlang/github.com/chrrasmussen/Idris2-Erlang) - Erlang code generator for Idris 2. ([HN](https://news.ycombinator.com/item?id=24620090))
+- [Inigo](https://github.com/hayesgm/inigo) - Package manager for Idris 2 to help use and share Idris code.
+- [SPLV 2020](https://github.com/edwinb/SPLV20) - Course notes and supporting code for the Scottish Programming Language and Verification summer school course on "The Implementation of Idris 2".
+- [Metaprogramming in Idris (2020)](https://core.ac.uk/download/pdf/50528385.pdf)
+- [Idris, a language that will change the way you think about programming (2020)](https://crufter.com/idris-a-language-that-will-change-the-way-you-think-about-programming)
+- [idris2-elab-util](https://github.com/stefan-hoeck/idris2-elab-util) - Utilities and documentation for exploring idirs2's new elaborator reflection.
+- [idris2-sop](https://github.com/stefan-hoeck/idris2-sop) - Idris port of Haskell's sop-core and generic-sop libraries.
+- [Session types in Idris2](https://github.com/wenkokke/idris-sesh)
+- [Effectful Streaming For Idris](https://github.com/MarcelineVQ/idris2-streaming)
+- [Idris AOC (2020)](https://github.com/JoeyEremondi/aoc-2020-idris)
+- [Idrall](https://github.com/alexhumphreys/idrall) - Dhall bindings for Idris.
+- [What Is A Package Set (2020)](https://alexhumphreys.github.io/2020/12/03/what-is-a-package-set.html)
+- [idris-ide-client](https://github.com/meraymond2/idris-ide-client) - TypeScript library for communicating with an Idris IDE process.
+- [Interacting with Idris from Racket](https://github.com/david-christiansen/idris-interaction.rkt) - Racket library for interacting with Idris over the IDE protocol.
+- [Idris Ecosystem](https://github.com/xgrommx/idris-ecosystem) - List of popular libraries in the Idris ecosystem.
+- [SAE (Solver of All Equations)](https://github.com/DoctorRyner/sae) - Idris 2 build tool and a package manager.
+- [Idris 2 Template](https://github.com/alexhumphreys/hello-idris2)
+- [Idris 2 LSP](https://github.com/idris-community/idris2-lsp)
+- [Idris 2 VSCode Extension](https://github.com/bamboo/idris2-lsp-vscode)
+- [Idris 2 Effect](https://github.com/Russoul/Idris2-Effect) - Experimental effects library for Idris 2.
+- [Frex](https://github.com/frex-project/idris-frex) - Programming with equations using free extensions. ([Web](https://www.cl.cam.ac.uk/~jdy22/projects/frex/))
+- [Idris2-pkgs](https://github.com/claymager/idris2-pkgs) - Idris2 package repository for Nix.
+- [Idris version of Domain Modeling Made Functional Book](https://github.com/andorp/order-taking)
+- [Random proofs in Idris, Agda, and Coq](https://github.com/ionathanch/scraps)
+- [Katla](https://github.com/ohad/katla) - LaTeX code listing generator for Idris2.
+- [ITT in Idris](https://github.com/ziman/itt-idris) - Quantified dependent calculus with inference of all modalities, implemented in Idris 2.
+- [idris-data-frame](https://github.com/ziman/idris-data-frame) - Data frames for Idris 2.
+- [Idris2GL](https://github.com/ECburx/Idris2GL) - Graphics Library for Idris 2.
+- [TaPL implementation bits in Idris2](https://github.com/andorp/TaPL)
+- [idris-collections](https://github.com/polendri/idris-collections) - Verified data structures in Idris 2.
+- [idris2dart](https://github.com/bamboo/idris2dart) - Idris 2 code generator that outputs Dart code.
+- [Secrets of type driven program synthesis - Edwin Brady (2021)](https://www.youtube.com/watch?v=E7uSsL8r_mU)
+- [DepSec](https://github.com/simongregersen/DepSec) - Static Information-Flow Control in Idris.
+- [Idris WebAssembly CodeGen](https://github.com/SPY/idris-codegen-wasm)
+- [TyRE](https://github.com/kasiaMarek/TyRE) - Dependently-typed regex parser in Idris 2.
+- [idris2-eff](https://github.com/stefan-hoeck/idris2-eff) - Extensible, stack safe effects for Idris2.
+- [Katla](https://github.com/idris-community/katla) - LaTeX & HTML code listing generator for Idris2.
+- [Collie](https://github.com/ohad/collie) - Command line interface for Idris2 applications.
+- [idris2-streaming](https://github.com/stefan-hoeck/idris2-streaming) - IO streaming library for Idris2.
+- [Idris, make back end, in 15 minutes, reusable, concise](https://github.com/thautwarm/Quick-Backend)
+- [sirdi](https://github.com/eayus/sirdi) - Simple package manager for Idris 2.
+- [Nix project template for Idris2 JavaScript projects](https://github.com/srid/idris-js-template)
+- [idris2-nvim](https://github.com/ShinKage/idris2-nvim) - Simple configuration and extra tools for NVIM + LSP + Idris2.
+- [Functional Programming in Idris 2](https://github.com/stefan-hoeck/idris2-tutorial)
+- [Idris2 TLS](https://github.com/octeep/idris2-tls) - Portable idris2 implementation of TLS.
+- [idris2-http](https://github.com/octeep/idris2-http) - HTTP(s) client in idris.
+- [Idris2-Table](https://github.com/madman-bob/idris2-table) - Table library for Idris 2.
+- [Skyro](https://github.com/skyro-compiler/skyro) - Compiles programs written in Idris2 to Cairo and thereby enables high-level, pure functional programming for verifiable computation.
+- [idris2-prim](https://github.com/stefan-hoeck/idris2-prim) - Axioms and Propositions for Primitive Types in Idris2.
+- [Yaffle](https://github.com/edwinb/Yaffle) - Core language and API for dependently typed languages.
+- [Tree Sitter grammar for Idris 2](https://github.com/gwerbin/tree-sitter-idris2)
+- [Generating Idris2 code based on Dependent State Automata diagrams](https://github.com/CodingCellist/idris2-dsa-gen)
+- [Idris2 Hashable](https://github.com/Z-snails/Idris2-hashable) - Interface for types that can be hashed.
+- [Idv](https://github.com/mattpolzin/idv) - Idris Version Manager.
+- [TOML parser for Idris](https://github.com/cuddlefishie/toml-idr)
+- [LightClick](https://github.com/border-patrol/lightclick) - Linearly typed orchestration language for Systems-on-a-Chip Designs that supports lightweight dependent types in the form of domain-specific indexed-types.
+- [tyttp](https://github.com/kbertalan/tyttp) - Type safe experimental web framework for Idris2 targeting nodeJS.
+- [Newtype, Generic Interface Deriving in Idris](https://github.com/MarcelineVQ/idris2-newtype-deriving)

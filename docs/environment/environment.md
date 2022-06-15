@@ -1,0 +1,186 @@
+# Environment
+
+I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [minimize the damage I induce on our planet](https://twitter.com/dino_comics/status/1433485733101293576).
+
+All of that is not enough though unless a [global carbon tax is implemented](https://news.ycombinator.com/item?id=29349066) together with a [global ban / high tax on plastics](https://twitter.com/living_marble/status/1509545853966434306). [This](https://twitter.com/ben_j_todd/status/1494660872152784897) is a nice thread on effective way to tackle climate change. So as [this comment and the steps inside](https://www.reddit.com/r/worldnews/comments/tww01g/un_warns_earth_firmly_on_track_toward_an/i3i34t5/?utm_source=reddit&utm_medium=web2x&context=3). Also [cutting emissions is of utmost importance](https://twitter.com/Peters_Glen/status/1521384059745800193).
+
+We also need to focus all our efforts on [halting & reversing extinctions of animals and insects](https://twitter.com/TonyJuniper/status/1522094235365052416).
+
+## Notes
+
+- [Over 90% of climate scientists think global warming will be so severe by 2038 or so that we'll hit temperatures shown to be hot enough to wreck the basic crops humanity relies upon for decent survival.](https://twitter.com/ClimateBen/status/1279378054549250059)
+- [If we stop emissions tomorrow, the earth will remain around 1.2C above preindustrial temps. If we get to net-zero emissions by 2060 or so, we can still limit warming to well below 2C.](https://twitter.com/hausfath/status/1327121668851060738)
+- [Don't tell me you are committed to net-zero 2050. Tell me how you plan to reduce emissions by at least 3% of their current value during this year, next year, and every year after that until you actually get to zero.](https://twitter.com/RARohde/status/1441397729381519360)
+- [If we actually lived in a democracy, we'd halt climate breakdown.](https://twitter.com/ClimateHuman/status/1458272108266418176)
+- [The world dumps a jaw-dropping 17.6 billion pounds (8 billion kilograms) of new plastic into the oceans each year.](https://gizmodo.com/why-trying-to-clean-up-all-the-ocean-plastic-is-pointle-1848111529)
+- [Study detects a 60% drop in flying insect populations in 20 years! Halting & reversing this is going to require a huge effort on many levels. Reconnecting & expanding habitat will be a vital part of it.](https://twitter.com/TonyJuniper/status/1522094235365052416)
+
+## Links
+
+- [Albatross Film](https://www.albatrossthefilm.com/) - Eye opening film that shows the horrible impact of plastic use on the animals. The image of young albatross being fed plastic by its parent and then lying down in pain crying and eventually dying will stick with me for a long time.
+- [How to fight desertification and reverse climate change](https://www.ted.com/talks/allan_savory_how_to_green_the_world_s_deserts_and_reverse_climate_change#t-992223)
+- [Ask HN: What can be done to prevent a climate catastrophe? (2018)](https://news.ycombinator.com/item?id=18181503)
+- [Humanity has wiped out 60% of animal populations since 1970, report finds (2018)](https://www.theguardian.com/environment/2018/oct/30/humanity-wiped-out-animals-since-1970-major-report-finds)
+- [Dream](https://vimeo.com/187372244) - Beautiful animation video for the Wildlife Conservation Film Festival, four animals facing extinction tell their stories through the words of "I Dreamed a Dream".
+- [AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth?activetab=pivot1%3aprimaryr6) - Awards grants to projects that address four critical areas that are vital for building a sustainable future.
+- [Launch HN: Prometheus (YC W19) – Remove CO2 from Air and Turn It into Gasoline](https://news.ycombinator.com/item?id=19842240)
+- [HN: CO2 in the atmosphere just exceeded 415ppm for the first time in human history (2019)](https://news.ycombinator.com/item?id=19897250)
+- [Nature’s Dangerous Decline ‘Unprecedented’; Species Extinction Rates ‘Accelerating' (2019)](https://www.ipbes.net/news/Media-Release-Global-Assessment)
+- [The Deep Sea](https://neal.fun/deep-sea/)
+- [Measuring progress towards the Sustainable Development Goals](https://sdg-tracker.org/)
+- [The future is grim (2019)](https://medium.com/@cache_86525/the-future-is-grim-27ca6f7ab07b) ([HN](https://news.ycombinator.com/item?id=21957232))
+- [How to Stop Freaking Out and Tackle Climate Change (2020)](https://www.nytimes.com/2020/01/10/opinion/how-to-help-climate-change.html) ([Tweet](https://twitter.com/ayanaeliza/status/1216021205049839618))
+- [Personal list of interesting climate change & sustainability links](https://github.com/timothyclifford/planet-earth)
+- [Climatescape](https://climatescape.org/) - Open database of organizations leading the fight against climate change. ([Code](https://github.com/climatescape/climatescape.org))
+- [Climate.Careers](https://climate.careers/) - Work on solving climate change. Find a job in climate. Be a part of the solution.
+- [Stripe’s first negative emissions purchases (2020)](https://stripe.com/blog/first-negative-emissions-purchases)
+- [Source materials supporting Stripe's 2020 negative emissions purchases](https://github.com/stripe/negative-emissions-source-materials)
+- [Tomorrow](https://www.tmrow.com/) - Data Driven Climate Action.
+- [Pachama](https://pachama.com/) - Offset your Carbon Emissions with Verified Reforestation.
+- [Greyparrot](https://greyparrot.ai/) - Computer Vision for Waste Management.
+- [The Design Pathway](https://earth-regenerators.mn.co/posts/the-design-pathway-preface) - Book about what will need to happen if humanity is to intentionally avoid extinction.
+- [The rise and rise of Climate-tech (2020)](https://medium.com/@himanshu_99557/the-rise-and-rise-of-climate-tech-1c8e95da7c7b)
+- [Saildrone](https://www.saildrone.com/) - Redefining Ocean Data Collection.
+- [A thread of all things climate change, from history to core tenets and demands, from movement strategy & dynamics to hot takes (2019)](https://twitter.com/n_thanki/status/1159466969755729922)
+- [What can a technologist do about climate change? A personal view. (2015)](http://worrydream.com/ClimateChange/)
+- [Google Earth Timelapse](https://earthengine.google.com/timelapse/) ([HN](https://news.ycombinator.com/item?id=24005047))
+- [Planet](https://www.planet.com/) - Daily Satellite Imagery and Insights.
+- [It’s Time to Redefine What Sustainable Fishing Means (2020)](http://oceans.nautil.us/article/600/its-time-to-redefine-what-sustainable-fishing-means) ([HN](https://news.ycombinator.com/item?id=24156319))
+- [Oceans on Nautilus](http://oceans.nautil.us/) - Explore ocean science, conservation and culture.
+- [HN: Popular seafood species in sharp decline around the world (2020)](https://news.ycombinator.com/item?id=24199767)
+- [Emitwise](https://www.emitwise.com/) - Monitor & manage your carbon footprint.
+- [Future Planet](https://www.bbc.com/future/future-planet)
+- [The path to net zero – Climate Assembly UK full report](https://www.climateassembly.uk/report/)
+- [How Big Oil Misled the Public into Believing Plastic Would Be Recycled (2020)](https://www.npr.org/2020/09/11/897692090/how-big-oil-misled-the-public-into-believing-plastic-would-be-recycled) ([HN](https://news.ycombinator.com/item?id=24441979))
+- [Bubble barriers: a smart solution to plastic pollution](https://thegreatbubblebarrier.com/en/) ([HN](https://news.ycombinator.com/item?id=24480289))
+- [How Earth’s Climate Changes Naturally (and Why Things Are Different Now) (2020)](https://www.quantamagazine.org/how-earths-climate-changes-naturally-and-why-things-are-different-now-20200721/)
+- [Awesome Earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
+- [Protect.Earth](https://protect.earth/) - Start saving the planet today.
+- [Destination Earth](https://ec.europa.eu/digital-single-market/en/destination-earth-destine) - Developing a very high precision digital model of Earth.
+- [Permapeople](https://permapeople.org/) - Platform for permaculture people.
+- [Why I Am Building permapeople.org (2020)](https://permapeople.org/blog/2020/10/05/why-i-am-building-permapeople-org.html) ([HN](https://news.ycombinator.com/item?id=24696688))
+- [A Clear, Strong, and Thermally Insulated Transparent Wood for Energy Effcient Windows (2020)](https://www.fpl.fs.fed.us/documnts/pdf2020/fpl_2020_mi001.pdf)
+- [We Need To Take CO2 Out Of The Sky (2020)](https://www.orbuch.com/carbon-removal/)
+- [Recycling was a lie to sell more plastic, recycling industry veteran says (2020)](https://www.cbc.ca/documentaries/the-passionate-eye/recycling-was-a-lie-a-big-lie-to-sell-more-plastic-industry-experts-say-1.5735618) ([HN](https://news.ycombinator.com/item?id=24714880))
+- [Climate Change Datasets for Machine Learning (2020)](https://lionbridge.ai/datasets/11-best-climate-change-datasets-for-machine-learning/)
+- [Open Catalyst Project](https://opencatalystproject.org/) - Using AI to model and discover new catalysts to address the energy challenges posed by climate change. ([Code](https://github.com/Open-Catalyst-Project/ocp))
+- [The Climate Issue](https://parametric.press/issue-02/)
+- [Wren](https://projectwren.com/) - Offset your carbon footprint through a monthly subscription.
+- [This website is killing the planet (2020)](https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/) ([Lobsters](https://lobste.rs/s/senzpv/this_website_is_killing_planet))
+- [Website Carbon Calculator](https://www.websitecarbon.com/) - How is your website impacting the planet?
+- [Aerial](https://aerial.is/) - Your Climate Activity Companion.
+- [Mossy Earth](https://www.mossy.earth/) - Rewilding and Reforestation Membership.
+- [Thinking about climate change (2020)](https://st.im/thinking-about-climate-change/)
+- [Stripe Climate](https://stripe.com/climate) ([HN](https://news.ycombinator.com/item?id=24919006)) ([Tweet](https://twitter.com/lehrjulian/status/1321480088781815808))
+- [Climate CTO](https://climatecto.com/) - Become the CTO of a climate startup.
+- [Work on Climate](https://workonclimate.org/) - Help you find a way to contribute to climate action.
+- [HEATED](https://heated.world/) - Original reporting and analysis on the climate crisis at the top of your inbox every morning.
+- [Carbon Brief](https://www.carbonbrief.org/) - UK-based website designed to "improve the understanding of climate change, both in terms of the science and the policy response".
+- [Berkeley Earth](http://berkeleyearth.org/) - Source of reliable, independent, non-governmental, and unbiased scientific data and analysis of the highest quality.
+- [The Breakthrough Institute](https://thebreakthrough.org/) - Technological Solutions to Environmental Challenges.
+- [No one believes in climate change. Not really. (2020)](https://www.riknieu.com/no-one-believes-in-climate-change-not-really/)
+- [Preston-Werner Ventures](https://prestonwernerventures.com/) - Working on social justice, climate change, and technology.
+- [Global map of wind, weather, and ocean conditions](https://earth.nullschool.net/)
+- [Rewiring America](https://www.rewiringamerica.org/handbook) - Handbook for winning the climate fight.
+- [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) - Open technology projects sustaining stable climate, energy supply and vital natural resources. ([Web](https://opensustain.tech/))
+- [The Social Life of Forests (2020)](https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html) ([HN](https://news.ycombinator.com/item?id=25330549))
+- [Watershed](https://www.watershedclimate.com/) - Helping companies cut carbon.
+- [Johannes Ackva: An update to our thinking on climate change (2020)](https://www.effectivealtruism.org/articles/johannes-ackva-an-update-to-our-thinking-on-climate-change/)
+- [Climate Change AI](https://www.climatechange.ai/) - Tackling Climate Change with Machine Learning.
+- [Climate Change AI Directory](https://directory.climatechange.ai/) - Searchable list of people with experience and/or interest in doing impactful work at the intersection of climate change and machine learning.
+- [Climate Modeling Alliance](https://clima.caltech.edu/) - Alliance of scientists, engineers and applied mathematicians, dedicated to pioneering a new, data-informed approach to climate modeling. ([GitHub](https://github.com/CliMA))
+- [Pale Blue Dot](https://www.paleblue.vc/) - Climate-tech venture fund investing in companies that reduce and reverse the effects of climate change and prepare for a new world.
+- [The Ocean Cleanup](https://theoceancleanup.com/) - Developing technologies to rid the oceans of plastic.
+- [Data for Environmental Intelligence](https://github.com/rockita/Environmental_Intelligence)
+- [Carbon Dioxide Removal Primer](https://cdrprimer.org/) - Resource on the fundamentals of carbon dioxide removal and its role in addressing the climate crisis.
+- [Air Pollution Primer (2021)](https://www.babyfriendlyair.com/en/guides/air-pollution-primer/)
+- [Air Pollution - Our World in Data](https://ourworldindata.org/air-pollution)
+- [Project Vesta](https://www.projectvesta.org/) - Help reverse climate change by turning a trillion tonnes of CO2 into rock.
+- [The Extinction Clock](https://extinctionclock.org/) - Internet's authoritative source for end of world climate and extinction predictions.
+- [Awesome Open Atmospheric, Ocean, and Climate Science](https://github.com/pangeo-data/awesome-open-climate-science)
+- [The Climate Crisis Is Worse Than You Can Imagine. Here’s What Happens If You Try. (2021)](https://www.propublica.org/article/the-climate-crisis-is-worse-than-you-can-imagine-heres-what-happens-if-you-try)
+- [Sea Change Project](https://seachangeproject.com/)
+- [Code against Climate Change](https://github.com/daviddao/code-against-climate-change) - Curated list of tech projects against climate change.
+- [How to destroy the Earth (2003)](https://qntm.org/destroy)
+- [How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need by Bill Gates (2021)](https://www.goodreads.com/book/show/49007883)
+- [Will technology save us from climate change? (2021)](https://www.media.mit.edu/events/will-technology-save-us-from-climate-change/) ([HN](https://news.ycombinator.com/item?id=26262667))
+- [Google 2020 environmental report](https://blog.google/outreach-initiatives/sustainability/2020-environmental-report/)
+- [In the Atlantic Ocean, Subtle Shifts Hint at Dramatic Dangers (2021)](https://www.nytimes.com/interactive/2021/03/02/climate/atlantic-ocean-climate-change.html)
+- [Google for Startups Accelerator: Climate Change Accelerators](https://developers.google.com/community/accelerators/climate)
+- [We’re Hurtling Toward Global Suicide (2021)](https://newrepublic.com/article/161575/climate-change-effects-hurtling-toward-global-suicide)
+- [Three Most Important Graphs in Climate Change (2019)](https://globalecoguy.org/the-three-most-important-graphs-in-climate-change-e64d3f4ed76)
+- [Ask HN: What actions did you take against climate change? (2021)](https://news.ycombinator.com/item?id=26759758)
+- [Coalition for Rainforest Nations](https://www.rainforestcoalition.org/)
+- [How to Donate to Fight Climate Change (Effectively) (2020)](https://www.theatlantic.com/science/archive/2020/12/how-to-donate-to-fight-climate-change-effectively/617248/)
+- [Yale Environment 360](https://e360.yale.edu/) - Online magazine offering opinion, analysis, reporting, and debate on global environmental issues.
+- [Why has climate economics failed us? (2021)](https://noahpinion.substack.com/p/why-has-climate-economics-failed) ([Tweet](https://twitter.com/Noahpinion/status/1381830759883841539))
+- [We Are Living in a Climate Emergency, and We’re Going to Say So (2021)](https://www.scientificamerican.com/article/we-are-living-in-a-climate-emergency-and-were-going-to-say-so/) ([HN](https://news.ycombinator.com/item?id=26800003))
+- [Job board to work on problems like climate change and food insecurity](https://goodjobs.careers/) ([HN](https://news.ycombinator.com/item?id=26858935))
+- [Heirloom](https://medium.com/@heirloomcarbon/announcing-heirloom-275d16a06df6) - Low-cost approach to direct air capture via mineralization.
+- [So you want to build a carbon capture company (2021)](https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capture-company/) ([HN](https://news.ycombinator.com/item?id=27034988))
+- [David Wallace-Wells, climate alarmist and the author of The Uninhabitable Earth: Life After Warming AMA (2021)](https://www.reddit.com/r/collapse/comments/nd0ub6/im_david_wallacewells_climate_alarmist_and_the/)
+- [How to Kick-Start the Carbon Removal Market: Shopify’s Playbook (2021)](https://cdn.shopify.com/static/sustainability/How-to-Kick-Start-the-Carbon-Removal-Market_Shopifys-Playbook.pdf)
+- ['No One Is Safe': How the Heatwave Has Battered the Wealthy World (2021)](https://www.nytimes.com/2021/07/17/climate/heatwave-weather-hot.html) ([HN](https://news.ycombinator.com/item?id=27871261))
+- [Criteria for high-quality carbon dioxide removal](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWGG6f)
+- [The recycling myth: A plastic waste solution littered with failure (2021)](https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/) ([HN](https://news.ycombinator.com/item?id=28018057))
+- [Heimdal](https://www.heimdalccu.com/) - Carbon neutral cement. ([HN](https://news.ycombinator.com/item?id=28036927))
+- [How we’re making Dropbox data centers 100% carbon neutral (2021)](https://dropbox.tech/infrastructure/making-dropbox-data-centers-carbon-neutral)
+- [The emergence of heat and humidity too severe for human tolerance (2020)](https://advances.sciencemag.org/content/6/19/eaaw1838) ([HN](https://news.ycombinator.com/item?id=28136793))
+- [Climeworks](https://climeworks.com/) - Direct air capture to help reverse climate change. ([Twitter](https://twitter.com/Climeworks))
+- [Ask HN: What can I do to actively fight climate change? (2021)](https://news.ycombinator.com/item?id=28601257)
+- [Principles of Green Software Engineering](https://principles.green/) ([HN](https://news.ycombinator.com/item?id=28615321))
+- [What is coming is beyond most peoples comprehension, including journalists](https://twitter.com/MrMatthewTodd/status/1440237998117822467)
+- [Probable Futures](https://probablefutures.org/)
+- [Anything But Plastic](https://www.anythingbutplastic.co.uk/) - Alternatives to Plastic.
+- [CarbonPlan](https://carbonplan.org/) - Data and science for climate action. ([Twitter](https://twitter.com/carbonplanorg))
+- [We need to take CO2 out of the sky (2021)](https://www.orbuch.com/carbon-removal/) ([HN](https://news.ycombinator.com/item?id=28765742))
+- [Albedo](https://albedo.com/) - Aerial quality imagery - from space.
+- [Climate.gov](https://www.climate.gov/)
+- [Global Climate Report – September 2021](https://www.ncdc.noaa.gov/sotc/global/202109) ([HN](https://news.ycombinator.com/item?id=28865033))
+- [The climate disaster is here – this is what the future looks like (2021)](https://www.theguardian.com/environment/ng-interactive/2021/oct/14/climate-change-happening-now-stats-graphs-maps-cop26)
+- [Weather Spark](https://weatherspark.com/map) - The Weather Year Round Anywhere on Earth.
+- [World Resources Institute](https://www.wri.org/) ([GitHub](https://github.com/wri))
+- [Carbon-neutrality is a tale: the race for renewables is burning Europe's forests (2021)](https://www.theguardian.com/world/2021/jan/14/carbon-neutrality-is-a-fairy-tale-how-the-race-for-renewables-is-burning-europes-forests) ([HN](https://news.ycombinator.com/item?id=28928738))
+- [The Ocean Cleanup Dream of Scooping Plastic From the Seas Is Still Alive (2021)](https://gizmodo.com/the-dream-of-scooping-plastic-from-the-ocean-is-still-a-1847890573) ([Tweet](https://twitter.com/mollytaft/status/1450521824941518855))
+- [Why longtermism is the world’s most dangerous secular credo (2021)](https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo)
+- [Climate Realism (2021)](https://www.americanpurpose.com/blog/fukuyama/climate-realism/)
+- [Sustainable Energy without the Hot Air (Revised, Community Edition)](https://climate.lifeitself.us/without-hot-air/) ([HN](https://news.ycombinator.com/item?id=29056343))
+- [What 3°C of global warming looks like (2021)](https://www.economist.com/films/2021/10/30/this-is-what-3degc-of-global-warming-looks-like) ([HN](https://news.ycombinator.com/item?id=29070774)) ([Tweet](https://twitter.com/FinancialTimes/status/1455232381464502273))
+- [Citizen Spring](https://citizenspring.earth/) - Citizens coming together to rebuild local communities.
+- [What do we do to mitigate the effects of climate change and survive as a species?](https://twitter.com/lizthegrey/status/1457082124020838403)
+- [Cell-free chemoenzymatic starch synthesis from carbon dioxide (2021)](https://www.science.org/doi/10.1126/science.abh4049) - From carbon dioxide to starch—no plants required. ([Tweet](https://twitter.com/friedberg/status/1454482267707899909))
+- [Evergrow](https://evergrow.com/) - Carbon offtake company. ([Twitter](https://twitter.com/EvergrowHQ)) ([Tweet](https://twitter.com/EvergrowHQ/status/1458466979203797001))
+- [Treehugger](https://www.treehugger.com/) - Sustainability for All.
+- [Open Source Plastic Scanner](https://plasticscanner.com/) ([HN](https://news.ycombinator.com/item?id=29269584))
+- [Lessons learned after 5 years of climate tech entrepreneurship (2021)](https://oliviercorradi.com/blog/lessons-learned-climate-tech/) ([HN](https://news.ycombinator.com/item?id=29265216))
+- [Greening of the Earth mitigates surface warming (2020)](https://www.nasa.gov/feature/greening-of-the-earth-mitigates-surface-warming) ([HN](https://news.ycombinator.com/item?id=29335646))
+- [Why Carbon Taxes Work (2021)](https://timharford.com/2021/11/why-carbon-taxes-really-work/) ([HN](https://news.ycombinator.com/item?id=29349066))
+- [Three loud climate warning signals (2021)](https://www.axios.com/three-climate-warning-signals-9f930b4e-110a-4225-9eb9-c63a22993b82.html) ([HN](https://news.ycombinator.com/item?id=29552135))
+- [The quest to trap carbon in stone](https://www.wired.com/story/the-quest-to-trap-carbon-in-stone-and-beat-climate-change/) ([HN](https://news.ycombinator.com/item?id=29717389))
+- [How Bad Are Plastics for the Environment, Really? (2022)](https://www.theatlantic.com/science/archive/2022/01/plastic-history-climate-change/621033/)
+- [Climatiq Data Explorer](https://explorer.climatiq.io/) - Search Global Carbon Emission Factors. ([Code](https://github.com/climatiq/Open-Emission-Factors-DB))
+- [People need to hear the good news about climate change (2022)](https://www.slowboring.com/p/people-need-to-hear-the-good-news) - "Climate anxiety" isn't going to solve anything.
+- [Ikea’s Race for the Last of Europe’s Old-Growth Forest](https://newrepublic.com/article/165245/ikea-romania-europe-old-growth-forest) ([Tweet](https://twitter.com/alex_sammon/status/1493971018725138434))
+- [What's the most effective way to tackle climate change? (2022)](https://twitter.com/ben_j_todd/status/1494660872152784897)
+- [Amazon rainforest is losing its ability to recover from destruction (2022)](https://www.ft.com/content/9bb87474-49de-4ac1-92f0-cc291f789357) ([HN](https://news.ycombinator.com/item?id=30601329))
+- [Ask HN: Book recommendations for renewable energy and climate change? (2022)](https://news.ycombinator.com/item?id=30611900)
+- [Living Carbon](https://www.livingcarbon.com/) - Plants Enhanced for Carbon Capture and Storage. ([HN](https://news.ycombinator.com/item?id=30672841))
+- [Antarctic sea ice hits lowest minimum on record (2022)](https://www.nature.com/articles/d41586-022-00550-4) ([HN](https://news.ycombinator.com/item?id=30677466))
+- [AirMyne](https://www.airmyne.com/) - Capturing CO2 from air at industrial scale. ([HN](https://news.ycombinator.com/item?id=30712229))
+- [Google open sources solar atmospheric water generator](https://github.com/google/h2e_technical_documentation) ([HN](https://news.ycombinator.com/item?id=30714506))
+- [Institute of Computing for Climate Science](https://cambridge-iccs.github.io/)
+- [The Production Board](https://www.tpb.co/) - Reimagining systems of production across key markets.
+- [The Hidden Life of Trees: What They Feel, How They Communicate (2018)](https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/) ([HN](https://news.ycombinator.com/item?id=30738120))
+- [Awesome Sustainability Jobs](https://github.com/pogopaule/awesome-sustainability-jobs)
+- [We can do better than “same, but electric” (2022)](https://climateer.substack.com/p/better-than-fossil) ([HN](https://news.ycombinator.com/item?id=30838132))
+- [Climate Change 2022: Impacts, Adaptation and Vulnerability](https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_SummaryForPolicymakers.pdf)
+- [UN warns Earth 'firmly on track toward an unlivable world' (2022)](https://www.reddit.com/r/worldnews/comments/tww01g/un_warns_earth_firmly_on_track_toward_an/)
+- [Climate Change 2022: Mitigation of Climate Change](https://www.ipcc.ch/report/ar6/wg3/)
+- [I liked the idea of carbon offsets until I tried to explain it (2022)](https://climateer.substack.com/p/avoided-emissions) ([HN](https://news.ycombinator.com/item?id=30988390))
+- [Frontier](https://frontierclimate.com/) - Advance market commitment to accelerate carbon removal. ([Tweet](https://twitter.com/stripe/status/1513850236929822722))
+- [I finally understand methane lifetimes (2022)](https://climateer.substack.com/p/methane-lifetime?s=r) ([HN](https://news.ycombinator.com/item?id=31204302))
+- [A mental model for combating climate change (2022)](https://nanransohoff.com/A-mental-model-for-combating-climate-change-846be1769d374fa1b5b855407c93da66)
+- [Should cut emissions](https://twitter.com/Peters_Glen/status/1521384059745800193)
+- [Datasets APIs and open source projects related to Climate Change](https://github.com/KKulma/climate-change-data)
+- [Soil: The secret world beneath our feet is mind-blowing (2022)](https://www.theguardian.com/environment/2022/may/07/secret-world-beneath-our-feet-mind-blowing-key-to-planets-future) ([HN](https://news.ycombinator.com/item?id=31301928))
+- [Plastic Recycling Doesn't Work and Will Never Work (2022)](https://www.theatlantic.com/ideas/archive/2022/05/single-use-plastic-chemical-recycling-disposal/661141/) ([HN](https://news.ycombinator.com/item?id=31560225))

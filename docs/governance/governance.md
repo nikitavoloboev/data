@@ -1,0 +1,135 @@
+---
+title: Governance
+---
+
+# [Governance](https://en.wikipedia.org/wiki/Governance)
+
+It's hard to care about politics when [so much of it is empty words and empty dialogues](https://twitter.com/RoryStewartUK/status/1521092481479282689). Aside from constant lying and crafting false narratives, it's absurd that a lot of the people in power are over the age of 60. Such people can't in any reasonable way represent the views of the young or middle age people.
+
+## Notes
+
+- [Government should just get out of the way and not impede progress.](https://www.youtube.com/watch?v=lSD_vpfikbE)
+- [Digital technology is separating the citizens in all societies into two groups: the watchers and the watched.](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
+- [Once we searched Google, but now Google searches us. Once we thought of digital services as free, but now surveillance capitalists think of us as free.](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
+- [It is no longer enough to automate information flows about us; the goal now is to automate us. These processes are meticulously designed to produce ignorance by circumventing individual awareness and thus eliminate any possibility of self-determination. As one data scientist explained to me, “We can engineer the context around a particular behaviour and force change that way… We are learning how to write the music, and then we let the music make them dance.”](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
+- [Coordination, the ability for large groups of actors to work together for their common interest, is one of the most powerful forces in the universe. It can be improved in many ways:](https://vitalik.ca/general/2020/09/11/coordination.html)
+  - Faster spread of information.
+  - Better norms that identify what behaviors are classified as cheating along with more effective punishments.
+  - Stronger and more powerful organizations.
+  - Tools like smart contracts that allow interactions with reduced levels of trust.
+  - Governance technologies (voting, shares, decision markets...)
+- [If there is a blockchain based mobile voting App (with proper KYC of course), we won't have to wait for results, or have any questions on its validity. Privacy can be protected using a number of encryption mechanisms.](https://twitter.com/VitalikButerin/status/1324179944558059522)
+- [The "capitalism <-> socialism" opposition seems outdated. I prefer to think in terms of "centralization vs decentralization". Humans have evolved to perform best in small groups of less than 150 people. That's why wherever there's centralization and excessive heirarchy, there's inefficiency and underutilized human potential. Capitalist monopolies and socialist dictatorships are equally bad.](https://t.me/durov/151)
+- I think every citizen should have ability to live off the grid without having to pay any tax if he/she wants to. There should be tools available to grow your own food with ease in any environment. Purchases should be conducted in a global decentralized untraceable cryptocurrency. And there should be systems built where fraud (stealing) cannot happen from the government. Full accountability.
+- [Poverty is not a personal failure. It’s a government policy.](https://twitter.com/The_Acumen/status/1388276859532611589)
+- [Police don’t prevent crime. They show up after it happens. Crime prevention starts with funding social programs and creating opportunity.](https://twitter.com/mhdksafa/status/1408292548737699840)
+- [It's a common tactic of authoritarian governments. Criminalize normal behavior, don't enforce it so people get used to breaking said law as a matter of habit. Then when you need someone gone or discredited you just arrest them for any of the numerous crimes averages citizens commit everyday.](https://www.reddit.com/r/worldnews/comments/ppuuf6/under_pressure_from_russian_government_google/)
+- [The violence built into the system never counts as violence. But the violence of resistance is always considered violence.](https://twitter.com/zapatistarising/status/1439348242131689482)
+- [DAOs are perfectly designed tech brain VC bait. Imagine if we could replace the gross messy human business of making decisions with a system of clean computed votes cast by perfectly rational actors with compatible incentive systems. on the blockchain](https://twitter.com/isosteph/status/1441437320289341445)
+- [In DAOs, we often conflate leadership with centralization. The reality is decentralization comes from having many leaders, not zero leaders. To optimize for decentralization, DAOs need to create many pathways for contributors to become leaders.](https://twitter.com/chaserchapman/status/1441458730277629958)
+- [Governance means conflict. It also means resolution. Accept the former, focus on the latter, and trust your team. With transparency.](https://twitter.com/armaniferrante/status/1450878886535839745)
+- [Regulation is often better for the incumbents than the challengers.](https://twitter.com/benedictevans/status/1455531071588679689)
+- [Polls as easy as a tweet, civic engagement, allocating funds. Just need some DAO tools on this.](https://twitter.com/yanivgraph/status/1457104839620677632)
+- [Socialism and dictatorship fit together like two jigsaw puzzle pieces, because in practice communal ownership = state control](https://twitter.com/paulg/status/1460212725938900995)
+- [Taxes are best applied to (especially extravagant) consumption, whereas capital allocation taxes reduce goods & services output, so actually bad for the people. Probable capital allocation skill of heirs is lower than original creator, so I am in favor of an estate tax.](https://twitter.com/noahpinion/status/1460449757076226049)
+- [Idea: all government spending should be presented as $-per-taxpayer. 10 billion dollars in infra = $70 per taxpayer owed in future taxes.](https://twitter.com/justindross/status/1467566554728521731)
+- [Nothing is more permanent than a “temporary” government program.](https://twitter.com/elonmusk/status/1468685877970935809)
+- [The way I approach policy—what creates systemic risk to our country? My biggest concern is the demographic crisis: too few people having kids, causing fiscal insolvency. If that means subsidizing childcare & parental leave, then we have to do it.](https://twitter.com/nikitabier/status/1491847339715092521)
+- [The state will never be better than we require it to be.](https://twitter.com/Snowden/status/1493646944094371842)
+- [Democracy guarantees regular small revolutions instead of occasional big ones.](https://twitter.com/paulg/status/1509302933464178697)
+- [Corporate tax rates should 0%. All corporate profit is eventually subject to individual taxes: 1: Stock gains? Cap gains taxes. 2: Stock buy back? Cap gains taxes. 3: Dividends? Income tax. 4: Higher pay? Income tax. Companies would move their HQs and reshore boatloads of cash.](https://twitter.com/ikirigin/status/1525477426393821185)
+- [No taxes. Except a 99% inheritance tax for anything over $10m. Keep the money in the hands of people who've proven to be world-class capital allocators.](https://twitter.com/maccaw/status/1525483183071891457)
+
+## Links
+
+- [Decidim](https://github.com/decidim/decidim) - Participatory democracy framework, written in Ruby on Rails, originally developed for the Barcelona City government online and offline participation website.
+- ['The goal is to automate us': welcome to the age of surveillance capitalism (2019)](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
+- [Federalist](https://federalist.18f.gov/) - Publishing platform for modern, compliant government websites.
+- [Open State Foundation](https://openstate.eu/en/) - Open data for digital transparency.
+- [FreeSociety](https://www.freesociety.com/) - We are purchasing sovereignty from a government to create the world’s first Free Society.
+- [YC Request for Startups: Government 2.0](https://blog.ycombinator.com/request-for-startups-government-2-0/) ([HN](https://news.ycombinator.com/item?id=19993517))
+- [A Review of Contemporary E-voting: Requirements, Technology, Systems and Usability (2017)](https://pdfs.semanticscholar.org/e734/d63888d81075efa0402599ae4e43772cf2e7.pdf)
+- [Shuffling Public Keys (A Peer-to-peer Voting Algorithm)](http://vixra.org/pdf/1905.0239v1.pdf) ([HN](https://news.ycombinator.com/item?id=20067480))
+- [Vocdoni](https://vocdoni.io/) - Provides the necessary tools for your organization to reinvent what governance is. ([Lobsters](https://lobste.rs/s/qbceut/vocdoni_universally_verifiable_voting))
+- [Emergency Site](https://emergency-site.dev/) - Template for emergency information websites.
+- [ElectionGuard](https://github.com/microsoft/electionguard) - Open source software development kit (SDK) that makes voting more secure, transparent and accessible.
+- [Ask HN: How would you design an secure online voting system? (2020)](https://news.ycombinator.com/item?id=24994514)
+- [Ask HN: Instead of picking a party, why can’t we vote on issues (2020)](https://news.ycombinator.com/item?id=25021503)
+- [Why a land-value tax is inevitable (2020)](https://www.progress.org/articles/why-a-land-value-tax-is-inevitable) ([HN](https://news.ycombinator.com/item?id=25317896))
+- [Democracy Earth](https://democracy.earth/#/) - Governance for Digital Autonomous Organizations. ([Code](https://github.com/DemocracyEarth/dapp))
+- [Equality Protocol](https://github.com/DemocracyEarth/paper) - Probabilistic score for human identity over peer to peer networks.
+- [The Future of Democracy | Santiago Siri (2016)](https://www.youtube.com/watch?v=yGmGWZCE4h0)
+- [Ranked voting systems (2021)](https://www.elzear.de/posts/2021-01-10-polls)
+- [Vitalik Buterin on free speech and deplatforming (2021)](https://twitter.com/VitalikButerin/status/1348894400919703552)
+- [Change.org](https://www.change.org/) - World’s platform for change.
+- [Centralisation Is a Danger to Democracy (2021)](https://redecentralize.org/blog/2021/01/18/centralization-is-a-danger-to-democracy) ([HN](https://news.ycombinator.com/item?id=25828081))
+- [HN: What is Socialism? (2020)](https://news.ycombinator.com/item?id=25961455)
+- [The State of Democracy (2020)](https://pages.eiu.com/rs/753-RIQ-438/images/democracy-index-2020.pdf)
+- [democracyData](https://xmarquez.github.io/democracyData/) - Access and manipulate most available democracy datasets. ([Code](https://github.com/xmarquez/democracyData))
+- [How the Hell Do You Govern in a Complex World (2020)](https://howthehell.substack.com/p/govern-complex-world) ([HN](https://news.ycombinator.com/item?id=26138224))
+- [The most important part of modern government is database management (2021)](https://twitter.com/rcolvile/status/1361673425140543490) ([HN](https://news.ycombinator.com/item?id=26159540))
+- [CryptoBallot](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting. ([Web](https://cryptoballot.com/))
+- [Less than 20% of the world's population now live in a “free” country (2021)](https://freedomhouse.org/report/freedom-world/2021/democracy-under-siege) ([HN](https://news.ycombinator.com/item?id=26397819))
+- [The Design of Forms in Government departments](https://design-of-forms.online/)
+- [CitizenLab](https://github.com/CitizenLabDotCo/citizenlab) - Digital democracy platform that facilitates community participation and co-creation. ([Web](https://www.citizenlab.co/))
+- [Industries are held back the most by the government (2021)](https://twitter.com/orthonormalist/status/1378689088174256128)
+- [Against Hickelism (2021)](https://noahpinion.substack.com/p/against-hickelism) - Poverty is falling, and it isn't because of free-market capitalism. ([HN](https://news.ycombinator.com/item?id=26693052))
+- [Why Governments Fail (2021)](https://www.persuasion.community/p/-why-governments-fail) ([HN](https://news.ycombinator.com/item?id=26943269))
+- [Capitalism is better then socialism, even if Capitalism is the reason socialist societies failed. (2021)](https://www.reddit.com/r/IntellectualDarkWeb/comments/mzov5l/capitalism_is_better_then_socialism_even_if/)
+- [Dual Power App](https://dualpower.app/) - Platform that provides a framework for organizing toward a worker-owned economy, with tools for founding, funding, governance, and internal + external communications. ([Code](https://github.com/BSA-US/dual-power-app))
+- [Simple Verifiable Elections (2020)](https://samtay.github.io/posts/verifiable-elections)
+- [Why Nations Succeed (2020)](https://paul.copplest.one/blog/why-nations-succeed.html)
+- [Who is working on using blockchain for voting systems in political elections? (2021)](https://www.reddit.com/r/CryptoTechnology/comments/nnxs4q/is_anybody_working_on_voting_systems_for/)
+- [Network State with Balaji Srinivasan (2021)](https://ideas.beondeck.com/episodes/3-network-state-with-balaji-srinivasan?t=76m43s)
+- [Types of propaganda, propaganda techniques, and propaganda strategies (2017)](http://factmyth.com/types-of-propaganda-propaganda-techniques-and-propaganda-stratigies/) ([HN](https://news.ycombinator.com/item?id=27595043))
+- [The State of Democracy](https://state-of-democracy.vercel.app/) - Explore the State of Democracy, around the world. ([Code](https://github.com/sampoder/democracy))
+- [Ask HN: My country may be in the midst of a coup – how should I get prepared? (2021)](https://news.ycombinator.com/item?id=28008571)
+- [Minimum Viable Governance](https://github.com/github/MVG) - Repository-based approach for putting lightweight governance into free and open source projects.
+- [What’s in a license (2021)](https://syndis.is/2021/09/01/e-license)
+- [Crash Course Socialism](https://dessalines.github.io/essays/crash_course_socialism.html)
+- [Capitalism doesn’t work](https://dessalines.github.io/essays/capitalism_doesnt_work.html)
+- [Socialism FAQ](https://dessalines.github.io/essays/socialism_faq.html)
+- [Glossary of Socialist Terms](https://dessalines.github.io/essays/glossary_of_socialist_terms.html)
+- [Marxism Study Plan](https://dessalines.github.io/essays/dessalines_marxism_study_plan.html)
+- [Big Tech turned into accomplices of authoritarian regimes (2021)](https://twitter.com/navalny/status/1441065558267633666)
+- [Voting example based on MoonZoon and Solana](https://github.com/MartinKavik/voting-solana-moonzoon)
+- [Canada's nice green urban project (2021)](https://twitter.com/IDoTheThinking/status/1443636143707222019)
+- [Moov Watchman](https://oss.moov.io/watchman/) - Service which downloads, parses and indexes numerous trade, government and non-profit lists of blocked individuals and entities to comply with those regions laws. ([Code](https://github.com/moov-io/watchman))
+- [QuadraticVote.co](https://quadraticvote.co/) - Real-time Quadratic Voting dashboard to encourage mathematically optimal voting in democratic communities. ([Code](https://github.com/Anish-Agnihotri/quadratic-voting))
+- [Quadratic voting: The mathematical method that could offer a fairer way to vote](https://www.economist.com/christmas-specials/2021/12/18/the-mathematical-method-that-could-offer-a-fairer-way-to-vote) ([HN](https://news.ycombinator.com/item?id=29586658))
+- [Harberger Taxation has an elegant application that has been overlooked: Taxing Intellectual Property](https://ristret.com/s/ftmbkg/harberger_taxation_has_elegant)
+- [Zero-knowledge voting implementations (2021)](https://twitter.com/dwr/status/1458127746912047107)
+- [VotingWorks](https://www.voting.works/) - Nonpartisan nonprofit making elections more trustworthy with modern technology.
+- [Arlo](https://github.com/votingworks/arlo) - Web-based risk-limiting audit (RLA) tool used to conduct post-election audits in the United States.
+- [Freedom is not a goal, but a direction (2021)](https://edwardsnowden.substack.com/p/culturalrevolutions) ([Tweet](https://twitter.com/Snowden/status/1458903893052690433))
+- [Belenios](https://www.belenios.org/) - Verifiable online voting system. ([Code](https://github.com/glondu/belenios))
+- [Global Corruption Index](https://risk-indexes.com/global-corruption-index/)
+- [The Rules for Rulers (2016)](https://www.youtube.com/watch?v=rStL7niR7gs)
+- [RadicalxChange](https://www.radicalxchange.org/#message) - Social movement for next-generation political economies. ([Twitter](https://twitter.com/RadxChange))
+- [Autocracy Is Winning (2021)](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) ([HN](https://news.ycombinator.com/item?id=29229386))
+- [The Equal Vote Coalition](https://www.equal.vote/)
+- [STAR Voting in under five minutes](https://www.youtube.com/watch?v=aiQ9Z5sME00)
+- [Tax calculators](https://twitter.com/AlexSukhorukov_/status/1464254455038287877)
+- [Twilight of Democracy: The Seductive Lure of Authoritarianism (2020)](https://twitter.com/wolfejosh/status/1464619768648974348) ([Tweet](https://twitter.com/wolfejosh/status/1464619768648974348))
+- [Decentralized Voting Scheme](https://github.com/EDGDrummond/DeVo)
+- [The 2022 Geopolitical Reading List](https://encyclopediageopolitica.com/2021/12/19/the-2022-geopolitical-reading-list/)
+- [Direct versus indirect democracy (2022)](https://equilibria.club/direct-versus-indirect-democracy/)
+- [Postscript on the Societies of Control (1990)](https://theanarchistlibrary.org/library/gilles-deleuze-postscript-on-the-societies-of-control) ([HN](https://news.ycombinator.com/item?id=29921750))
+- [Society has a trust problem. More censorship will only make it worse (2022)](https://on.substack.com/p/society-has-a-trust-problem-more) ([HN](https://news.ycombinator.com/item?id=30092136)) ([Tweet](https://twitter.com/lulumeservey/status/1486801734110482434))
+- [Who Got It Right: Orwell or Huxley?](https://www.pairagraph.com/dialogue/07d855107abf428c97583312e1e738fe) ([HN](https://news.ycombinator.com/item?id=30107066))
+- [Есть ли будущее у наций? Лекция и ответы на вопросы (2022)](https://www.youtube.com/watch?v=8jAEZnSVMKA)
+- [What anti-imperialism means](https://twitter.com/davidallengreen/status/1496067931322699778)
+- [In our cashless society, we need to take digital jail seriously (2022)](https://thehub.ca/2022-02-22/howard-anglin-in-our-cashless-society-we-need-to-take-digital-jail-seriously/) ([HN](https://news.ycombinator.com/item?id=30435215))
+- [In most countries, Dictatorship is far from a distant memory (2022)](https://ourworldindata.org/democracies-age) ([HN](https://news.ycombinator.com/item?id=30455730))
+- [How to move from Dictatorship to Democracy (2013)](http://www.aeinstein.org/wp-content/uploads/2013/09/FDTD.pdf)
+- [Notes on Nationalism (1945)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/) ([HN](https://news.ycombinator.com/item?id=30575455))
+- [The Network State: How To Start a New Country , Srinivasan, Balaji (2022)](https://www.amazon.com/dp/B09VPKZR3G) ([Tweet](https://twitter.com/balajis/status/1504852745609637893))
+- [The user experience problems of quadratic voting (2022)](https://timdaub.github.io/2022/03/27/the-user-experience-problems-of-quadratic-voting/) ([HN](https://news.ycombinator.com/item?id=30822489))
+- [Corruption Has Shaped History. Why Do We Still Ignore It? (2022)](https://aeon.co/essays/corruption-has-shaped-history-why-do-we-still-ignore-it) ([HN](https://news.ycombinator.com/item?id=30865974))
+- [CONSUL](https://consulproject.org/en/) - Open Government and E-Participation Web Software. ([Code](https://github.com/consul/consul))
+- [The true purpose of propaganda (2022)](https://robkhenderson.substack.com/p/the-true-purpose-of-propaganda?s=r) ([HN](https://news.ycombinator.com/item?id=30962199))
+- [The New Governors: The People, Rules, and Processes Governing Online Speech](https://harvardlawreview.org/wp-content/uploads/2018/04/1598-1670_Online.pdf)
+- [PayPal's IndyMedia Wipeout (2022)](https://taibbi.substack.com/p/paypals-indymedia-wipeout?s=r) ([Tweet](https://twitter.com/samecwilliams/status/1521587066592710658))
+- [Books the government doesn't want me to read (2022)](https://www.reddit.com/r/suggestmeabook/comments/uite8o/books_the_government_doesnt_want_me_to_read/)
+- [Why Do Authoritarian Regimes Allow Citizens to Voice Opinions Publicly?](https://www.journals.uchicago.edu/doi/abs/10.1086/690303)
+- [PolicyKit](https://policykit.org/) - Toolkit for building governance in your online community. ([Code](https://github.com/policykit/policykit))

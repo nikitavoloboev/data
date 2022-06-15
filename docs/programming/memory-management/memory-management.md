@@ -1,0 +1,102 @@
+# Memory management
+
+## Notes
+
+- [Reference counting is a form of garbage collection](https://twitter.com/pcwalton/status/1457170874402967553)
+
+## Links
+
+- [What Every Programmer Should Know About Memory (2007)](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) ([Web](https://lwn.net/Articles/250967/))
+- [Memory Management Reference](https://www.memorymanagement.org/) - Resource for programmers and computer scientists interested in memory management and garbage collection.
+- [Memory Pool System](https://www.ravenbrook.com/project/mps/) - Flexible and adaptable memory manager. Among its many advantages are an incremental garbage collector with very low pause times, and an extremely robust implementation. ([Code](https://github.com/Ravenbrook/mps))
+- [A unified theory of garbage collection (2004)](https://www.researchgate.net/publication/221321424_A_unified_theory_of_garbage_collection) ([PDF](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf))
+- [Memory Bandwidth Napkin Math (2020)](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
+- [Isolation Alloc](https://github.com/struct/isoalloc) - New general purpose secure memory allocator that implements an isolation security strategy to mitigate memory safety issues.
+- [Broom](https://github.com/zesterer/broom) - Ergonomic tracing garbage collector that supports mark 'n sweep garbage collection.
+- [Writing a Memory Allocator (2019)](http://dmitrysoshnikov.com/compilers/writing-a-memory-allocator/) ([HN](https://news.ycombinator.com/item?id=25402841))
+- [Writing a Pool Allocator (2019)](http://dmitrysoshnikov.com/compilers/writing-a-pool-allocator/)
+- [Writing a Mark-Sweep Garbage Collector (2020)](http://dmitrysoshnikov.com/compilers/writing-a-mark-sweep-garbage-collector/)
+- [rpmalloc](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C.
+- [memleax](https://github.com/WuBingzheng/memleax) - Debugs memory leak of a running process by attaching it, without recompiling or restarting.
+- [An introduction to virtual memory (2020)](https://www.internalpointers.com/post/introduction-virtual-memory) ([HN](https://news.ycombinator.com/item?id=23096747))
+- [Visualizing memory management in Rust (2020)](https://deepu.tech/memory-management-in-rust/)
+- [Memory Allocators 101 - Write a simple memory allocator (2015)](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
+- [gperftools](https://github.com/gperftools/gperftools) - Collection of a high-performance multi-threaded malloc() implementation, plus some pretty nifty performance analysis tools.
+- [Memory Consistency Models: A Tutorial (2016)](https://www.cs.utexas.edu/~bornholt/post/memory-models.html) ([HN](https://news.ycombinator.com/item?id=23546316))
+- [The memory models that underlie programming languages (2016)](http://canonical.org/~kragen/memory-models/) ([HN](https://news.ycombinator.com/item?id=27455509))
+- [Modern garbage collection (2016)](https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e) - A look at the Go GC strategy.
+- [Virtual Memory Tricks (2017)](https://ourmachinery.com/post/virtual-memory-tricks/)
+- [Reference counting vs GC (2020)](https://twitter.com/mraleph/status/1305209967641796611)
+- [Memory allocator showdown (2020)](https://blog.janestreet.com/memory-allocator-showdown/)
+- [Understanding memory initialization patterns](http://tasvideos.org/Nach/MemoryInit.html)
+- [Custom Allocators Demystified (2020)](https://slembcke.github.io/2020/10/12/CustomAllocators.html) ([HN](https://news.ycombinator.com/item?id=24762840))
+- [MMTk](https://github.com/mmtk/mmtk-core) - Framework for the design and implementation of memory managers. In Rust.
+- [Quantifying the Performance of Garbage Collection vs. Explicit Memory Management (2005)](https://people.cs.umass.edu/~emery/pubs/gcvsmalloc.pdf)
+- [The Lost Art of Structure Packing](http://catb.org/esr/structure-packing/) - Technique for reducing the memory footprint of programs in compiled languages with C-like structures - manually repacking these declarations for reduced size.
+- [klox](https://github.com/dkopko/klox) - Proof-of-concept demonstration of O(1) garbage collection. ([HN](https://news.ycombinator.com/item?id=25161666)) ([Lobsters](https://lobste.rs/s/z96jmk/experimental_o_1_garbage_collector))
+- [herdtools7](https://github.com/herd/herdtools7) - Tool suite to test weak memory models.
+- [Sound Garbage Collection for C using Pointer Provenance (2020)](https://2020.splashcon.org/details/splash-2020-oopsla/52/Sound-Garbage-Collection-for-C-using-Pointer-Provenance)
+- [Memory Management in Lobster](https://aardappel.github.io/lobster/memory_management.html)
+- [Generational references faster than reference counting (2021)](https://vale.dev/blog/generational-references) ([Lobsters](https://lobste.rs/s/sglvcc/generational_references_2_3x_faster_than))
+- [When allocators are hoarding your precious memory (2021)](https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/)
+- [Writing a Simple Garbage Collector in C (2020)](https://maplant.com/gc.html) ([Lobsters](https://lobste.rs/s/dd8k4k/writing_simple_garbage_collector_c_2020))
+- [A look into Automatic Reference Counting (2021)](https://neelbakshi.medium.com/a-look-into-automatic-reference-counting-b17e9539d34f)
+- [Papers for heap memory analysis and leak detection (2021)](https://github.com/grin-compiler/ghc-whole-program-compiler-project/issues/5)
+- [Memory Management Landscape](https://github.com/plasma-umass/memory-landscape)
+- [Summarizing Garbage Collection (2016)](https://eschew.wordpress.com/2016/09/02/summarizing-gc/)
+- [Visualizing Garbage Collection Algorithms (2014)](https://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/)
+- [Baby's First Garbage Collector (2013)](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/) - Building simple mark-sweep garbage collector in C. ([Code](https://github.com/munificent/mark-sweep))
+- [Heapusage](https://github.com/d99kris/heapusage) - Find memory leaks in Linux and macOS applications.
+- [Slitter](https://github.com/backtrace-labs/slitter) - C- and Rust-callable slab allocator implemented primarily in Rust, with some C for performance or to avoid unstable Rust features.
+- [Mitigating Memory-Safety Bugs with Efficient Out-of-Process Integrity Checking (2021)](http://reports-archive.adm.cs.cmu.edu/anon/2021/CMU-CS-21-113.pdf)
+- [A 5x reduction in RAM usage with Zoekt memory optimizations (2021)](https://about.sourcegraph.com/blog/zoekt-memory-optimizations-for-sourcegraph-cloud/) ([HN](https://news.ycombinator.com/item?id=28237556))
+- [Friendship ended with the garbage collector (2021)](https://yorickpeterse.com/articles/friendship-ended-with-the-garbage-collector/) ([HN](https://news.ycombinator.com/item?id=28305762))
+- [Don’t forget about memory management — Go Time (2021)](https://overcast.fm/+GnKYmRs1E)
+- [DUMA](https://github.com/johnsonjh/duma) - Detect Unintended Memory Access. Red-Zone memory allocator.
+- [regalloc2](https://github.com/bytecodealliance/regalloc2) - New register allocator.
+- [Formalization of properties of a simple imperative, memory-safe language](https://github.com/arthuraa/memory-safe-language)
+- [mtrace](https://github.com/aclements/mtrace) - Version of QEMU modified to log memory accesses and other system events to help analyze and understand the memory access patterns and cache line behavior of operating system-level code.
+- [Memory Performance in a Nutshell](https://www.intel.com/content/www/us/en/developer/articles/technical/memory-performance-in-a-nutshell.html)
+- [Awesome Allocators](https://github.com/rain-1/awesome-allocators)
+- [Interesting Garbage Collection Patterns (2021)](https://blog.gceasy.io/2021/10/15/interesting-garbage-collection-patterns/)
+- [SuperMalloc](https://github.com/kuszmaul/SuperMalloc) - Super Fast Multithreaded malloc() for 64-bit Machines.
+- [Mimalloc](https://github.com/microsoft/mimalloc) - Compact general purpose allocator with excellent performance.
+- [Mimalloc: Free List Sharding in Action (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf) ([Lobsters](https://lobste.rs/s/4awecj/mimalloc_free_list_sharding_action))
+- [Garbage collection algorithms](https://twitter.com/pcwalton/status/1456518483315810308)
+- [Vizzy](https://github.com/zznop/vizzy) - Tool for profiling heap usage and memory management.
+- [GCGC : Garbage Collection Graph Collector](https://github.com/apple/GCGC)
+- [mem](https://github.com/smasher164/mem) - Memory allocator for Go.
+- [100LOC C impl of memset, that is faster than glibc's](https://github.com/nadavrot/memset_benchmark) ([HN](https://news.ycombinator.com/item?id=29197161))
+- [Debugging memory corruption: who the hell writes “2” into my stack? (2016)](https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2) ([HN](https://news.ycombinator.com/item?id=29215725))
+- [bustd](https://github.com/pop-os/bustd) - Lightweight process killer daemon for out-of-memory scenarios for Linux.
+- [What's a Memory Allocator Anyway? - Benjamin Feng (2021)](https://www.youtube.com/watch?v=vHWiDx_l4V0)
+- [The Garbage Collection Handbook: The art of automatic memory management (2020)](https://gchandbook.org/)
+- [memflow](https://github.com/memflow/memflow) - Physical memory introspection framework. ([Web](https://memflow.github.io/#/home))
+- [scanflow](https://github.com/memflow/scanflow) - Comprehensive memory scanning library based on memflow.
+- [tinyalloc](https://github.com/thi-ng/tinyalloc) - Replacement for malloc / free in unmanaged, linear memory situations, e.g. WASM and embedded devices.
+- [gcmodule](https://github.com/quark-zju/gcmodule) - Garbage collection for Rust inspired by CPython's gcmodule.
+- [Optimising memset and memcpy](https://twitter.com/nadavrot/status/1464364562409422852) ([HN](https://news.ycombinator.com/item?id=29359906))
+- [Deconstructing the Garbage-First Collector (2020)](https://users.cecs.anu.edu.au/~steveb/pubs/papers/g1-vee-2020.pdf)
+- [llmalloc](https://github.com/matthieu-m/llmalloc) - Low-latency malloc implementation.
+- [Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment (2021)](https://arxiv.org/abs/2110.01098) ([Lobsters](https://lobste.rs/s/dvwomq/does_bronze_garbage_collector_make_rust))
+- [Hardened malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems.
+- [An Empirical Lower Bound on the Overheads of Production Garbage Collectors (2021)](https://arxiv.org/pdf/2112.07880.pdf) ([Tweet](https://twitter.com/halvarflake/status/1471442159618437122))
+- [Fuite](https://github.com/nolanlawson/fuite) - CLI tool for finding memory leaks in web apps. ([Article](https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/)) ([HN](https://news.ycombinator.com/item?id=29593341))
+- [malloc-rs](https://github.com/suzusuzu/malloc-rs) - Implementation of malloc, realloc, calloc, and free in Rust.
+- [zig-gc](https://github.com/Hejsil/zig-gc) - Simple mark-and-sweep garbage collector written in Zig.
+- [Declarative memory management (2019)](https://fasterthanli.me/articles/declarative-memory-management) ([HN](https://news.ycombinator.com/item?id=29779827))
+- [Signals and Threads | Memory Management (2022)](https://signalsandthreads.com/memory-management/) ([Lobsters](https://lobste.rs/s/testaq/memory_management))
+- [HardsHeap](https://github.com/kaist-hacking/HardsHeap) - Universal and Extensible Framework for Evaluating Secure Allocators.
+- [CertiGC](https://github.com/CertiGraph/CertiGC) - Formally verified generational garbage collector.
+- [How Much Memory Is My Program Really Using? (2022)](https://blog.dnmfarrell.com/post/how-much-memory-is-my-program-really-using/)
+- [TinyGC (Tiny Garbage Collector)](https://github.com/ivmai/tinygc) - Implementation of the subset of API of the well-known Boehm-Demers-Weiser Conservative GC.
+- [The Tower of Weakenings: Memory Models For Everyone (2022)](https://gankra.github.io/blah/tower-of-weakenings/) ([Reddit](https://www.reddit.com/r/rust/comments/tx6h0m/the_tower_of_weakenings_memory_models_for_everyone/))
+- [Understanding Memory Allocation Size Limitations with Level Zero (2022)](https://jjfumero.github.io/posts/2022/04/understanding-memory-allocation-size-limitations-with-levelzero/)
+- [Implementing a safe garbage collector in Rust (2022)](https://coredumped.dev/2022/04/11/implementing-a-safe-garbage-collector-in-rust/) ([Reddit](https://www.reddit.com/r/rust/comments/u21w97/implementing_a_safe_garbage_collector_in_rust/)) ([HN](https://news.ycombinator.com/item?id=31166368))
+- [GC workbench](https://github.com/wingo/gcbench) - Workspace for experimenting with garbage collectors.
+- [Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)](https://atp.fm/205-chris-lattner-interview-transcript#gc) ([HN](https://news.ycombinator.com/item?id=31139610))
+- [Low-Latency, High-Throughput Garbage Collection (2022)](https://users.cecs.anu.edu.au/~steveb/pubs/papers/lxr-pldi-2022.pdf)
+- [Distilling the Real Cost of Production Garbage Collectors (2022)](https://users.cecs.anu.edu.au/~steveb/pubs/papers/lbo-ispass-2022.pdf) ([HN](https://news.ycombinator.com/item?id=31192261))
+- [Forgetting about the problem of memory (2022)](https://davmac.wordpress.com/2022/04/30/forgetting-about-the-problem-of-memory/) ([Lobsters](https://lobste.rs/s/3njgz4/forgetting_about_problem_memory))
+- [Memory safety for SerenityOS (2022)](https://awesomekling.github.io/Memory-safety-for-SerenityOS/)
+- [Benchmarking Malloc with Doom 3 (2022)](https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/)

@@ -1,0 +1,108 @@
+---
+title: Elm
+---
+
+# [Elm](https://elm-lang.org/)
+
+[Introduction to Elm](https://guide.elm-lang.org/) is a good read.
+
+## Links
+
+- [How to create modular Elm code that scales nicely with your app](https://github.com/evancz/elm-architecture-tutorial)
+- [elm-beam](https://kofi.sexy/blog/elm-beam)
+- [The Elm Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial/)
+- [Elm DevTools](https://github.com/opvasger/elm-devtools) - Tools for developing Elm programs.
+- [elm-language-server](https://github.com/elm-tooling/elm-language-server) - Language server implementation for Elm.
+- [ElmLS](https://github.com/elm-tooling/elm-language-client-vscode) - Bringing lightning fast Elm code analysis to vscode.
+- [Elm Compiler Written in Elm](https://github.com/elm-in-elm/compiler) ([HN](https://news.ycombinator.com/item?id=27808306))
+- [Single Page Application written in Elm](https://github.com/rtfeldman/elm-spa-example)
+- [Elm Puzzler](https://github.com/jwbrew/elm-puzzler) - Framework for creating puzzles & solutions written in Elm, to help newcomers learn the language and then move on to building their own puzzles.
+- [Awesome Elm](https://github.com/sporto/awesome-elm)
+- [elm-format](https://github.com/avh4/elm-format) - Formats Elm source code according to a standard set of rules based on the official Elm Style Guide.
+- [Elm Projects](https://github.com/elm/projects) - Curated collection of projects for folks looking to collaborate within the Elm ecosystem.
+- [Elm Core Libraries](https://github.com/elm/core)
+- [Learning Elm by porting a medium-sized web frontend from React (2019)](https://benhoyt.com/writings/learning-elm/) ([Lobsters](https://lobste.rs/s/3tnrdv/learning_elm_by_porting_medium_sized_web))
+- ["Writing Testable Elm" by Tessa Kelly (2019)](https://www.youtube.com/watch?v=rIxCwPPA-D8)
+- [The Elm Architecture (TEA) animation (2018)](https://medium.com/@l.mugnaini/the-elm-architecture-tea-animation-3efc555e8faf)
+- [The Syntax Cliff: Teaching syntax with Elm 0.19.1](https://elm-lang.org/news/the-syntax-cliff) ([HN](https://news.ycombinator.com/item?id=21312109))
+- [Building an Elm app from scratch video series (2019)](https://www.youtube.com/watch?v=-1ZA3G9k0Rw&list=PLGDf0elkI13EJ55MbwZd98scG7BKl_n-j)
+- [Elm Cheat Sheet](https://github.com/izdi/elm-cheat-sheet)
+- [Elm Cheat Sheet Visual](https://lucamug.github.io/elm-cheat-sheet/) ([Code](https://github.com/lucamug/elm-cheat-sheet))
+- [Elm Home Page source code](https://github.com/elm/elm-lang.org)
+- [The Biggest Problem with Elm (2019)](https://medium.com/@cscalfani/the-biggest-problem-with-elm-4faecaa58b77)
+- [A Farewell to FRP. Making signals unnecessary with The Elm Architecture (2016)](https://elm-lang.org/news/farewell-to-frp)
+- [Elm Companies](https://github.com/jah2488/elm-companies) - List of companies using Elm in production. ([HN](https://news.ycombinator.com/item?id=22244086))
+- [Elm Live](https://www.elm-live.com/) - Flexible dev server for Elm. Live reload included. ([Code](https://github.com/wking-io/elm-live))
+- [Elm News](https://elm-news.com/) - All elm news in one place. ([Code](https://github.com/oakesja/elm-news))
+- [Why I’m leaving Elm (2020)](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/) ([HN](https://news.ycombinator.com/item?id=22821447)) ([Lobsters](https://lobste.rs/s/bgs2z4/why_i_m_leaving_elm)) ([Reddit](https://www.reddit.com/r/elm/comments/fxui3o/why_im_leaving_elm/))
+- [Building a web app with functional programming - Elm (2020)](https://blog.patchgirl.io/elm/2020/03/02/elm-part-I.html)
+- [Elm Compiler](https://github.com/elm/compiler)
+- [elm-spa](https://github.com/ryannhg/elm-spa) - Single page apps made easy.
+- [Code generation with elm](https://rhg.dev/posts/code-generation/)
+- [SSR for hackers](https://rhg.dev/posts/ssr-for-hackers/)
+- [Single out elements using phantom types (2020)](https://jfmengels.net/single-out-elements-using-phantom-types/)
+- [Escher-in-Elm Workshop](https://github.com/einarwh/escher-workshop)
+- [Ellie](https://ellie-app.com/) - Elm Live Editor. ([Code](https://github.com/ellie-app/ellie))
+- [Beginning Elm](https://elmprogramming.com/) - Gentle introduction to Elm programming language.
+- [Evan Czaplicki - The life of a file (2017)](https://www.youtube.com/watch?v=XpDsk374LDE)
+- [Elm debug extension](https://github.com/kraklin/elm-debug-extension) - Browser extension, that is making your elm Debug.log output much easier to work with.
+- [Functional Programming in Elm](https://functional-programming-in-elm.netlify.app/)
+- [Issue #40: Functional programming in Elm (2020)](https://elmbits.com/issue-40-functional-programming/)
+- [Elm Bits](https://elmbits.com/) - Free weekly newsletter about Elm.
+- [Elm Shared State example](https://github.com/ohanhi/elm-shared-state) - Example for organizing large Single-Page Applications (SPAs) in Elm.
+- [elm-format](https://github.com/avh4/elm-format) - Formats Elm source code.
+- [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate TypeScript declaration files for your elm ports.
+- [History and current state of Elm (2020)](https://www.youtube.com/watch?v=vHI7XlgmYCg)
+- [How I Write Elm Applications (2020)](https://jezenthomas.com/how-i-write-elm-applications/)
+- [Finish with Elm Book, where too now? (2020)](https://discourse.elm-lang.org/t/finish-with-elm-book-where-too-now/6540)
+- [Can Elm compiler skip virtual DOM?](https://discourse.elm-lang.org/t/can-the-compiler-skip-virtual-dom/6300/)
+- [Combinators - Inverting Top-Down Transforms (2020)](https://functional.christmas/2020/10)
+- [elm-review](https://github.com/jfmengels/elm-review) - Analyzes Elm projects, to help find mistakes before your users find them.
+- [elm-review-common](https://github.com/jfmengels/elm-review-common) - Provides common linting rules for elm-review.
+- [Test-only values (2020)](https://jfmengels.net/test-only-values/)
+- [Elm at Rakuten (2021)](https://dev.to/lucamug/elm-6m8)
+- [Safe dead code removal in a pure functional language (2021)](https://jfmengels.net/safe-dead-code-removal/)
+- [elm-tooling](https://github.com/elm-tooling/elm-tooling-cli) - Manage Elm tools. ([Docs](https://elm-tooling.github.io/elm-tooling-cli/))
+- [The trickiest Elm bug I've ever seen (2021)](https://blog.realkinetic.com/the-trickiest-elm-bug-ive-ever-seen-988aff6cbbd7)
+- [Elm Koans](https://github.com/robertjlooby/elm-koans) - Set of koans for learning Elm.
+- [Calling Rust through Wasm from Elm (2020)](https://vleue.com/2020/07/wasm-elm/)
+- [Elm Weekly](http://www.elmweekly.nl/)
+- [Why we chose Elm for Humio’s web UI (2021)](https://www.humio.com/whats-new/blog/why-we-chose-elm-for-humio-s-web-ui) ([HN](https://news.ycombinator.com/item?id=26860919)) ([Lobsters](https://lobste.rs/s/cuxhio/why_we_chose_elm_for_humio_s_web_ui))
+- [Elm Designer](https://github.com/passiomatic/elm-designer) - Visual code generator for Elm UI.
+- [React to Elm Migration Guide (2021)](https://dev.to/jesterxl/react-to-elm-migration-guide-30np)
+- [Elm at NoRedInk (2021)](https://juliu.is/elm-at-noredink/)
+- [Elm UI Book](https://github.com/dtwrks/elm-ui-book) - Book that tells the story of the UI elements of your Elm application.
+- [Tail-call optimization in Elm (2021)](https://jfmengels.net/tail-call-optimization/)
+- [Measuring cognitive complexity with elm-review (2021)](https://jfmengels.net/cognitive-complexity/)
+- [Awesome Elm PLTD](https://github.com/pd-andy/awesome-elm-pltd) - Useful resources for programming language theory & development in Elm.
+- [elm2nix](https://github.com/cachix/elm2nix) - Convert an Elm project into Nix expressions.
+- [Elm Optimize, Level 2](https://github.com/mdgriffith/elm-optimize-level-2)
+- [elm-ts-interop init Command, Codec and Pipeline APIs, and docs site (2021)](https://incrementalelm.com/elm-ts-interop-improvements/)
+- [Incremental Elm](https://incrementalelm.com/) - Stop Learning Elm Best Practices The Hard Way.
+- [Using Fission with Elm - Part 1: Using Vite to manage Elm applications (2021)](https://dev.to/xeticode/using-fission-with-elm-part-1-using-vite-to-manage-elm-applications-4ahk)
+- [Elm Full-Stack](https://github.com/elm-fullstack/elm-fullstack) - Tool for developing web services and full-stack web applications.
+- [Comparing TypeScript and Elm's Type Systems](https://elm-radio.com/episode/ts-and-elm-type-systems/)
+- [Elm Radio Podcast](https://elm-radio.com/)
+- [Elm Decoder Koans](https://github.com/dillonkearns/elm-decoder-koans) - Learn about elm decoders by filling in the blanks in test cases.
+- [elm-publish-action](https://github.com/dillonkearns/elm-publish-action) - Publishes your elm package if you're on the main or master branch.
+- [Successes, and failures, optimizing Elm’s runtime (2021)](https://blogg.bekk.no/successes-and-failures-in-optimizing-elms-runtime-performance-c8dc88f4e623)
+- [Create Elm App](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
+- [Fixing a performance problem in Elm using Html.Lazy (2021)](https://blogg.bekk.no/fixing-a-performance-problem-in-elm-using-html-lazy-c4298b72500d) ([HN](https://news.ycombinator.com/item?id=29539453))
+- [Derw](https://github.com/eeue56/derw) - Elm-inspired language that transpiles to TypeScript. ([Lobsters](https://lobste.rs/s/ypvv4c/derw_elm_inspired_language_transpiles)) ([Why Derw](https://derw.substack.com/p/why-derw-an-elm-like-language-that)) ([Lobsters](https://lobste.rs/s/lxpjpd/why_derw_elm_like_language_compiles))
+- [Elm Tailwind Modules](https://github.com/matheus23/elm-tailwind-modules) - Generate Elm code for Tailwind Utilities and Components that purges using Elm's dead code elimination.
+- [elm-pair](https://github.com/jwoudenberg/elm-pair) - Artificial pair-programmer that helps you write Elm.
+- [Elm patterns](http://sporto.github.io/elm-patterns/) ([Code](https://github.com/sporto/elm-patterns))
+- [Elm vs HyperScript - A Wordle implemetation](https://dev.to/lucamug/elm-vs-hyperscript-2m3m)
+- [elm-review-bot](https://github.com/MartinSStewart/elm-review-bot) - Bot that uses elm-review to find common mistakes in packages.
+- [Tail recursion, but modulo cons (2022)](https://jfmengels.net/modulo-cons/)
+- [elm-watch](https://github.com/lydell/elm-watch) - Recompiles whenever your Elm files change and reloads the compiled JS in the browser.
+- [Elm-pair](https://elm-pair.com/)
+- [Elm Workshop](https://github.com/jgrenat/elm-workshop)
+- [elm-spec](https://github.com/brian-watkins/elm-spec) - Describe the behavior of Elm programs.
+- [Wordle clone in Elm](https://github.com/andimiller/haskle)
+- [Elm Project Template with Vite](https://github.com/duncanmalashock/elm-project-template)
+- [State of Elm 2022](https://state-of-elm.lamdera.app/)
+- [Elm Store Pattern](https://github.com/Janiczek/elm-store-pattern)
+- [Elm Value Graph](https://lydell.github.io/elm-value-graph/) - Show how every value in an Elm application depend on each other, as a graph. ([Code](https://github.com/lydell/elm-value-graph))
+- [Fixing vulnerabilities in Elm's virtual DOM (2022)](https://jfmengels.net/virtual-dom-security-patch/)
+- [Introduction to Elm Book](https://guide.elm-lang.org/) ([Code](https://github.com/evancz/guide.elm-lang.org))

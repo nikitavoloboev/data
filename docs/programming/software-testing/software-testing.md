@@ -1,0 +1,147 @@
+# Software testing
+
+## Notes
+
+- [My advice is never to start with unit tests. Start with integration tests and work your way backwards until it stops being worth your time.](https://twitter.com/buildsghost/status/1274240189485862912)
+- [I use TDD when the problem and desired API are both clearly defined. A lot of front-end work is more exploratory in nature, which can make writing tests up front quite challenging. Often (and perhaps even ideally), the desired UI and interactions aren't really set in stone.](https://twitter.com/andrewingram/status/1295335435900727297)
+- [Unit tests are a waste of time when building a product. The only thing that matters is that the product works for your users. The best way to verify that is with e2e tests.](https://twitter.com/mxstbr/status/1371828851811172359)
+- [Almost all the advice you hear about software testing is bad. It's either bad on its face or it leads to bad outcomes or it distracts by focusing on the wrong thing (usually tools).](https://twitter.com/searls/status/1393571227650908162)
+- [People love debating what percentage of which type of tests to write, but it's a distraction. Nearly zero teams write expressive tests that establish clear boundaries, run quickly & reliably, and only fail for useful reasons. Focus on that instead.](https://twitter.com/searls/status/1393385209089990659)
+- [We are moving away from data-testid completely in favor of accessibility attributes like role and aria-label to encourage better semantics and make tests be more human-like.](https://twitter.com/okonetchnikov/status/1461302342733766657)
+
+## Links
+
+- [Time Travelling and Fixing Bugs with Property-Based Testing (2019)](https://wickstrom.tech/programming/2019/11/17/time-travelling-and-fixing-bugs-with-property-based-testing.html)
+- [Awesome Testing](https://github.com/TheJambo/awesome-testing) - Curated list of testing software, extensions and resources.
+- [Software Testing: From Theory to Practice book](https://sttp.site/) - Covers the most important testing techniques needed to build high quality software systems.
+- [Stressgrid](https://gitlab.com/stressgrid/stressgrid) - Open-source cloud-native tool for load testing at the scale of millions of simulated devices.
+- [Storycap](https://github.com/reg-viz/storycap) - Storybook Addon, Save the screenshot image of your stories via puppeteer.
+- [React Screenshot Test](https://github.com/fwouts/react-screenshot-test) - Dead simple library to screenshot test React components.
+- [Baretest](https://github.com/volument/baretest) - Extremely fast and simple JavaScript test runner.
+- [fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript. ([Web](https://dubzzz.github.io/fast-check.github.com/))
+- [Puppeteer examples](https://github.com/checkly/puppeteer-examples) - Puppeteer Headless Chrome examples for real life use cases.
+- [Tips on testing React components](https://twitter.com/tlakomy/status/1229800529133477889)
+- [TestCheck.js](https://github.com/leebyron/testcheck-js) - Generative property testing for JavaScript.
+- [Awesome Software Testing](https://github.com/ligurio/awesome-software-quality)
+- [Rainforest](https://www.rainforestqa.com/) - Flexible software testing platform. ([CLI](https://github.com/rainforestapp/rainforest-cli))
+- [Puppetron](https://github.com/cheeaun/puppetron) - Headless Chrome Node API)-based rendering solution.
+- [Tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
+- [How We Test Vector (2020)](https://vector.dev/blog/how-we-test-vector/) - Survey of techniques we've found useful.
+- [puppeteer + dom-testing-library](https://github.com/testing-library/pptr-testing-library)
+- [How SQLite Is Tested](https://sqlite.org/testing.html) ([HN](https://news.ycombinator.com/item?id=29460240))
+- [Are Tests Necessary in TypeScript? (2020)](https://www.executeprogram.com/blog/are-tests-necessary-in-typescript) ([HN](https://news.ycombinator.com/item?id=22864598))
+- [Appium](https://github.com/appium/appium) - Automation for iOS, Android, and Windows Apps.
+- [Awesome Test Anything](https://github.com/sindresorhus/awesome-tap) - Useful resources for the Test Anything Protocol.
+- [Systematically Covering Input Structure](https://havrikov.github.io/publications/ase19-preprint.pdf)
+- [Compositional Testing of Internet Protocols](http://mcmil.net/pubs/SECDEV19.pdf)
+- [Testing sync at Dropbox (2020)](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
+- [How NASA does software testing and QA (2020)](https://www.functionize.com/blog/how-nasa-does-software-testing-and-qa/)
+- [Headless Recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
+- [Unit Testing at REKKI (2020)](https://eng.rekki.com/unit-testing-at-rekki/t.txt)
+- [Ideology (2015)](https://www.destroyallsoftware.com/talks/ideology) ([Lobsters](https://lobste.rs/s/zte1xm/ideology))
+- [Gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation. ([Web](https://gauge.org/))
+- [What are Unit Tests For? (2020)](https://ahuth.github.io/content/articles/what-are-unit-tests-for.html) ([Lobsters](https://lobste.rs/s/eb8xzu/what_are_unit_tests_for))
+- [Spark Joy by Running Fewer Tests (2020)](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
+- [The lazy programmer's guide to writing thousands of tests: An introduction to Property-Based Tests (2020)](https://www.youtube.com/watch?v=IYzDFHx6QPY)
+- [Against Testing (2020)](https://flak.tedunangst.com/post/against-testing) ([HN](https://news.ycombinator.com/item?id=23755339)) ([Lobsters](https://lobste.rs/s/fepvea/against_testing))
+- [Unit Testing is Overrated (2020)](https://tyrrrz.me/blog/unit-testing-is-overrated) ([HN](https://news.ycombinator.com/item?id=23778878)) ([HN](https://news.ycombinator.com/item?id=30942020))
+- [Implementing mutation testing in a niche language with Stryker (2020)](https://medium.com/att-israel/mutants-against-bugs-87f77a95aad)
+- [BrowserStack](https://www.browserstack.com/) - App & Browser Testing Made Easy.
+- [Karate](https://github.com/intuit/karate) - Open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework. ([HN](https://news.ycombinator.com/item?id=24176433))
+- [Thoughts on TDD (2020)](https://twitter.com/tlakomy/status/1295331095181918209)
+- [What’s wrong with snapshot tests (2019)](https://blog.sapegin.me/all/snapshot-tests/)
+- [Mutation Testing: A Tale of Two Suites (2020)](https://codeascraft.com/2020/08/17/mutation-testing-a-tale-of-two-suites/)
+- [In Testing, Scenarios Are King (2020)](https://devqa.io/scenarios-are-king/)
+- [Chaos Engineering book (2020)](https://www.manning.com/books/chaos-engineering) - Crash test your applications. ([Code](https://github.com/seeker89/chaos-engineering-book))
+- [Ian Cooper - TDD, Where Did It All Go Wrong (2017)](https://www.youtube.com/watch?v=EZ05e7EMOLM)
+- [Is TDD Dead? (2014)](https://martinfowler.com/articles/is-tdd-dead/) ([HN](https://news.ycombinator.com/item?id=24281195))
+- [Functional Programming and Property-Based Testing](http://janmidtgaard.dk/quickcheck/)
+- [How They Test](https://abhivaikar.github.io/howtheytest/#/) - Collection of public resources about how software companies test their software. ([Code](https://github.com/abhivaikar/howtheytest))
+- [Test smarter, not harder (2020)](https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/)
+- [TestDriven Courses](https://testdriven.io/) ([GitHub](https://github.com/testdrivenio))
+- [Anatomy of a Good Test (2020)](https://www.innoq.com/en/blog/anatomy-of-a-good-test/)
+- [Assertion Injection : Unit Test Design Pattern](http://redsymbol.net/articles/assertion-injection/)
+- [High-level Language Features and Testing](http://redsymbol.net/articles/high-level-lang-features-and-testing/)
+- [I/O Benchmark Suite](https://github.com/Algodev-github/S)
+- [Prefer Fakes Over Mocks (2020)](https://tyrrrz.me/blog/fakes-over-mocks) ([Lobsters](https://lobste.rs/s/7dwpye/prefer_fakes_over_mocks)) ([HN](https://news.ycombinator.com/item?id=24770954))
+- [Awesome Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools)
+- [Waldo](https://www.waldo.io/) - Create reliable automated mobile tests with no-code testing platform.
+- [OpenFaaS Puppeteer template](https://github.com/alexellis/openfaas-puppeteer-template) - Uses docker-puppeteer by buildkite to give you access to Puppeteer.
+- [Metamorphic Testing (2019)](https://www.hillelwayne.com/post/metamorphic-testing/)
+- [Role of testing in software development life cycle (2020)](https://abbyssoul.github.io/engineering/2020/11/02/no-time-for-testing.html)
+- [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices)
+- [Mugshot](https://github.com/NiGhTTraX/mugshot) - Node library for doing visual regression testing.
+- [Probabilistic flakiness: How do you test your tests? (2020)](https://engineering.fb.com/2020/12/10/developer-tools/probabilistic-flakiness/)
+- [Knapsack Pro](https://knapsackpro.com/) - Speed up your tests with optimal test suite parallelization. ([GitHub](https://github.com/KnapsackPro))
+- [Cross-Branch Testing (2020)](https://buttondown.email/hillelwayne/archive/cross-branch-testing/) ([Lobsters](https://lobste.rs/s/jd2giu/cross_branch_testing))
+- [Load testing is hard, and the tools are not great. But why? (2021)](https://ntietz.com/tech-blog/load-testing-is-hard-but-why/) ([HN](https://news.ycombinator.com/item?id=25641234))
+- [Ask HN: How should I test all potential combinations of user actions? (2021)](https://news.ycombinator.com/item?id=25647143)
+- [Teaching and Assessing Property-Based Testing (2021)](https://blog.brownplt.org/2021/01/10/property-based-testing.html)
+- [Does It Matter to Test-First or toTest-Last?](https://arxiv.org/pdf/1611.05994.pdf) ([Lobsters](https://lobste.rs/s/o9ozwn/does_it_matter_test_first_totest_last))
+- [Writing Environment-Agnostic Functional Acceptance Tests (2021)](https://www.jvt.me/posts/2021/01/18/agnostic-acceptance-tests/)
+- [Ruby Conf 12 - Boundaries by Gary Bernhardt](https://www.youtube.com/watch?v=yTkzNHF6rMs)
+- [Effective Property-Based Testing (2021)](https://blog.auxon.io/2021/02/01/effective-property-based-testing/) ([Lobsters](https://lobste.rs/s/2c3tnr/effective_property_based_testing)) ([HN](https://news.ycombinator.com/item?id=26017341))
+- [Mutation Driven Testing: When TDD Just Isn’t Good Enough (2021)](https://software.rajivprab.com/2021/02/04/mutation-driven-testing-when-tdd-just-isnt-good-enough/) ([HN](https://news.ycombinator.com/item?id=26024915))
+- [Problems with TDD (2009)](http://www.dalkescientific.com/writings/diary/archive/2009/12/29/problems_with_tdd.html) ([Lobsters](https://lobste.rs/s/crutbk/problems_with_tdd_2009))
+- [Make tests a part of your app (2021)](https://sobolevn.me/2021/02/make-tests-a-part-of-your-app)
+- [Using Relational Problems to Teach Property-Based Testing (2021)](https://www.youtube.com/watch?v=TXOl_NJo8GE)
+- [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open Source Test Case Management System. ([Web](https://kiwitcms.org/))
+- [Automated Testing with Specifications (2021)](https://www.youtube.com/watch?v=MLcNhc27Ghw)
+- [Core Concepts in Software Testing Workshop](https://github.com/jbelmont/software-testing-workshop)
+- [TDD: Getting Out of My Own Way (2021)](https://adamtuttle.codes/blog/2021/tdd-getting-out-of-my-own-way/)
+- [How to Test (2021)](https://matklad.github.io/2021/05/31/how-to-test.html)
+- [Testing in the Twenties (2021)](https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021)
+- [start-server-and-test](https://github.com/bahmutov/start-server-and-test) - Starts server, waits for URL, then runs test command; when the tests end, shuts down server.
+- [On the Diverse And Fantastical Shapes of Testing (2021)](https://martinfowler.com/articles/2021-test-shapes.html) ([Tweet](https://twitter.com/samnewman/status/1400426270803042305))
+- [TDD from the Factorio Team (2021)](https://factorio.com/blog/post/fff-366) ([HN](https://news.ycombinator.com/item?id=27549143))
+- [AtomicJar](https://www.atomicjar.com/) - Make integration testing easier for developers across the software development lifecycle.
+- [Rethinking Software Testing: Perspectives from the world of Hardware (2019)](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/) ([Lobsters](https://lobste.rs/s/ogt990/rethinking_software_testing)) ([HN](https://news.ycombinator.com/item?id=27795061))
+- [You should want to write unit tests and here is why (2021)](https://dev.to/jbszczepaniak/you-should-want-to-write-tests-and-here-is-why-4bi5)
+- [We need to talk about testing (2021)](https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/) ([HN](https://news.ycombinator.com/item?id=27970030))
+- [Property-based testing is not the same as partition testing (2021)](https://blog.ploeh.dk/2021/06/28/property-based-testing-is-not-the-same-as-partition-testing/)
+- [Choosing properties for property-based testing](https://fsharpforfunandprofit.com/posts/property-based-testing-2/)
+- [Growth Book](https://www.growthbook.io/) - Open Source A/B Testing Platform. ([Code](https://github.com/growthbook/growthbook)) ([HN](https://news.ycombinator.com/item?id=28088882))
+- [Ponicode](https://www.ponicode.com/) - Quick and easy unit testing.
+- [What is Property Based Testing? (2016)](https://hypothesis.works/articles/what-is-property-based-testing/) ([HN](https://news.ycombinator.com/item?id=28586932))
+- [We killed our end-to-end test suite (2021)](https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/) ([HN](https://news.ycombinator.com/item?id=28643848))
+- [Coverage is not strongly correlated with test suite effectiveness (2021)](https://neverworkintheory.org/2021/09/24/coverage-is-not-strongly-correlated-with-test-suite-effectiveness.html) ([HN](https://news.ycombinator.com/item?id=28642506))
+- [Good tests don't change (2021)](https://owengage.com/writing/2021-10-09-good-tests-dont-change/)
+- [The Fundamentals of Testing with Persistence Layers (2021)](https://www.infoq.com/articles/Testing-With-Persistence-Layers/)
+- [Skeleton And Principles For A Maintainable Test Suite (2021)](https://www.lpalmieri.com/posts/skeleton-and-principles-for-a-maintainable-test-suite/)
+- [Tests aren’t enough: Case study after adding type hints to urllib3 (2021)](https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3) ([HN](https://news.ycombinator.com/item?id=28907154))
+- [Testing Without Mocks: A Pattern Language (2018)](https://www.jamesshore.com/v2/blog/2018/testing-without-mocks)
+- [FlakyBot](https://www.flakybot.com/) - Flaky test management. ([HN](https://news.ycombinator.com/item?id=29028681))
+- [Awesome Testing Courses & Tutorials](https://github.com/upgundecha/awesome-testing-courses)
+- [Interpreting A/B test results: false positives and statistical significance (2021)](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) ([HN](https://news.ycombinator.com/item?id=29042562))
+- [CI::Queue](https://github.com/Shopify/ci-queue) - Distribute tests over many workers using a queue.
+- [Reflect](https://reflect.run/) - Automated Web Testing.
+- [Generate All the Things (2021)](https://matklad.github.io//2021/11/07/generate-all-the-things.html) ([Lobsters](https://lobste.rs/s/khbbac/generate_all_things))
+- [Tests in a box: Shipping your tests in a container for fun and profit - Federico Paolinelli (2020)](https://www.youtube.com/watch?v=QeQs5wRZ4ac&list=PLGN1AjiJJv0nelnAohIhyPdzpXd0IstM5&index=5)
+- [I test in prod (2021)](https://increment.com/testing/i-test-in-production/) ([HN](https://news.ycombinator.com/item?id=29313565))
+- [Argos](https://github.com/argos-ci/argos) - Automate visual regression testing. ([Web](https://www.argos-ci.com/))
+- [Gnomock](https://github.com/orlangure/gnomock) - Integration and end-to-end testing toolkit. It uses Docker to create temporary containers for application dependencies, setup their initial state and clean them up in the end.
+- [Automated, Targeted Testing of Property-Based Testing Predicates](https://cs.brown.edu/~sk/Publications/Papers/Published/nrsdwk-auto-targ-test-pbt-pred/)
+- [Testing (2021)](https://www.scattered-thoughts.net/writing/testing/)
+- [Overview of Property-Based Testing Functionality](https://github.com/jmid/pbt-frameworks)
+- [How the GNU coreutils are tested (2017)](https://www.pixelbeat.org/docs/coreutils-testing.html)
+- [Fast Test, Slow Test (2012)](https://www.youtube.com/watch?v=RAxiiRPHS9k)
+- [Destroy All Software - Software Testing](https://www.destroyallsoftware.com/screencasts/catalog)
+- [nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node.
+- [split_tests](https://github.com/leonid-shevtsov/split_tests) - Utility to split test files into parallel CI containers.
+- [Write Fewer Tests! From Automation to Autogeneration - David Khourshid (2019)](https://www.youtube.com/watch?v=tpNmPKjPSFQ)
+- [granularity of testing (2021)](https://eed3si9n.com/granularity-of-testing/)
+- [The argument against clearing the database between tests (2020)](https://calpaterson.com/against-database-teardown.html) ([HN](https://news.ycombinator.com/item?id=29764792))
+- [Favor real dependencies for unit testing (2022)](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/) ([Lobsters](https://lobste.rs/s/2btkdu/favor_real_dependencies_for_unit_testing))
+- [Kent](https://github.com/willkg/kent) - Fake Sentry server for local development, debugging, and integration testing.
+- [Gonkey](https://github.com/lamoda/gonkey) - Testing automation tool. Can bomb the service with prepared requests and check the responses.
+- [Ten-year experience in DBMS testing (2022)](https://dev.to/tarantool/ten-year-experience-in-dbms-testing-19ea)
+- [Three Rules of TDD](https://github.com/wix/tdd-katas)
+- [End to End CI Tests in Minutes with Netlify, Playwright & Github Actions (2021)](https://tone-row.com/blog/e2e-ci-testing-netlify-playwright-github-actions)
+- [How do you check quality of each release (2022)](https://twitter.com/GergelyOrosz/status/1507282293970325506)
+- [ZAP (Report Anything Protocol)](https://github.com/zaptst/zap) - Streamable structured interface for real time reporting of developer tools.
+- [How to run end-to-end tests 10x faster with firecracker (2022)](https://webapp.io/blog/github-actions-10x-faster-with-firecracker/)
+- [Ask HN: How do you keep track of software requirements and test them? (2022)](https://news.ycombinator.com/item?id=31083131)
+- [Storybook Test Runner](https://github.com/storybookjs/test-runner) - Turn stories into executable tests.
+- [Test Anything Protocol](http://testanything.org/)
+- [Eventsim](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
+- [Some thoughts on naming tests (2022)](https://blog.ploeh.dk/2022/06/13/some-thoughts-on-naming-tests/)

@@ -1,0 +1,91 @@
+---
+title: Vulkan API
+---
+
+# [Vulkan API](https://www.khronos.org/vulkan/)
+
+## Links
+
+- [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide) - One stop shop for getting started with the Vulkan API.
+- [Vulkan Tutorial](https://vulkan-tutorial.com/) ([Code](https://github.com/Overv/VulkanTutorial))
+- [Vulkan Tutorial in Rust](https://github.com/bwasty/vulkan-tutorial-rs)
+- [Rendy](https://github.com/amethyst/rendy) - Yet another Vulkan based rendering engine.
+- [Vulkan hardware database feature update (2020)](https://www.saschawillems.de/blog/2020/01/11/vulkan-hardware-database-feature-update/)
+- [Vulkano](https://github.com/vulkano-rs/vulkano) - Rust wrapper around the Vulkan graphics API.
+- [NVIDIA Vulkan Ray Tracing Tutorial](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/) ([Code](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR))
+- [Ash](https://github.com/MaikKlein/ash) - Vulkan bindings for Rust.
+- [NVK](https://github.com/maierfelix/nvk) - Vulkan API for JavaScript/TypeScript.
+- [AMD Open Source Driver for Vulkan](https://github.com/GPUOpen-Drivers/AMDVLK)
+- [clspv](https://github.com/google/clspv) - Prototype compiler for a subset of OpenCL C to Vulkan compute shaders.
+- [LegitEngine](https://github.com/Raikiri/LegitEngine) - Rendergraph-based graphical framework for Vulkan.
+- [DXVK](https://github.com/doitsujin/dxvk) - Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+- [Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan)
+- [VUDA](https://github.com/jgbit/vuda) - Header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications.
+- [Rust implementation of the Vulkan Tutorial](https://github.com/unknownue/vulkan-tutorial-rust)
+- [gfxreconstruct](https://github.com/LunarG/gfxreconstruct) - Graphics API Capture and Replay Tools for Reconstructing Graphics Application Behavior.
+- [Vulkan Samples](https://github.com/LunarG/VulkanSamples) - Collection of Vulkan C++ sample applications. ([Version 2](https://github.com/KhronosGroup/Vulkan-Samples))
+- [vpp](https://github.com/nyorain/vpp) - Modern C++ vulkan utility library.
+- [Yave](https://github.com/gan74/Yave) - Yet Another Vulkan Engine.
+- [RPi-VK-Driver](https://github.com/Yours3lf/rpi-vk-driver) - Low level GPU driver for the Broadcom Videocore IV GPU that implements a subset of the Vulkan standard. ([HN](https://news.ycombinator.com/item?id=23584415))
+- [Amber](https://github.com/google/amber) - Multi-API shader test framework.
+- [MoltenVK](https://github.com/KhronosGroup/MoltenVK) - Vulkan Portability implementation.
+- [Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - C++ Bindings for Vulkan.
+- [Writing an efficient Vulkan renderer (2020)](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/) ([HN](https://news.ycombinator.com/item?id=24368353))
+- [vkbind](https://github.com/mackron/vkbind) - Single file Vulkan API loader.
+- [Vulkan Ecosystem Components](https://github.com/KhronosGroup/Vulkan-Tools) - Provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and MacOS.
+- [Vulkan Kompute](https://github.com/EthicalML/vulkan-kompute) - Blazing fast, mobile-enabled, asynchronous and optimized for advanced GPU data processing usecases.
+- [renderer_prototype](https://github.com/aclysma/renderer_prototype) - Vulkan renderer built on top of atelier-assets. The objective of this repo is to build a scalable, flexible, data driven renderer.
+- [Vulkan Diagrams](https://github.com/David-DiGioia/vulkan-diagrams) - Diagrams showing relationships between Vulkan objects and how they're used.
+- [TAA-STAR](https://github.com/cg-tuwien/TAA-STAR) - C++/Vulkan Implementations of State of the Art Temporal Anti-Aliasing Techniques.
+- [vkvg](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library.
+- [Practical guide to graphics programming with Vulkan](https://vkguide.dev/) ([Code](https://github.com/vblanco20-1/vulkan-guide))
+- [Vulkan Ecosystem Tools](https://github.com/LunarG/VulkanTools) - Tools to aid in Vulkan development including useful layers, trace and replay, and tests.
+- [VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph) - Modern, cross platform, high performance scene graph library built upon Vulkan graphics/compute API. ([Web](https://vsg-dev.github.io/VulkanSceneGraph/))
+- [Vulkan-Headers](https://github.com/KhronosGroup/Vulkan-Headers) - Vulkan Header files and API registry.
+- [vulkan-renderer](https://github.com/inexorgame/vulkan-renderer) - New 3D game engine using modern C++ and Vulkan API.
+- [Vulkan Performance Layers](https://github.com/googlestadia/performance-layers) - Vulkan layers to measure pipeline performance and analyze frame times.
+- [Datoviz](https://github.com/datoviz/datoviz) - GPU interactive scientific data visualization with Vulkan. ([Docs](https://datoviz.org/))
+- [TTauri GUI library](https://github.com/ttauri-project/ttauri) - Low Latency GUI on top of Vulkan.
+- [Learn Vulkan](https://learnvulkan.com/) - Education platform for the graphics programming API known as Vulkan.
+- [Vulkan Validation Layers](https://github.com/KhronosGroup/Vulkan-ValidationLayers)
+- [Zink: Running OpenGL on top of Vulkan - Interview with Mike Blumenkrantz (2021)](https://boilingsteam.com/zink-running-opengl-on-top-of-vulkan-interview-with-mike-blumenkrantz/)
+- [Different techniques for order-independent transparency in Vulkan](https://github.com/nvpro-samples/vk_order_independent_transparency)
+- [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library. ([Web](https://gpuopen.com/vulkan-memory-allocator/)) ([HN](https://news.ycombinator.com/item?id=27903884))
+- [Simplified Vulkan Synchronization](https://github.com/Tobski/simple_vulkan_synchronization) - Single-header library with a simplified interface for Vulkan synchronization.
+- [Samples to illustrate Vulkan API on Android](https://github.com/googlesamples/android-vulkan-tutorials)
+- [vk-bootstrap](https://github.com/charles-lunarg/vk-bootstrap) - Vulkan bootstraping library.
+- [vulkan-zig](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig.
+- [Racket Vulkan](https://github.com/zyrolasting/racket-vulkan) - Vulkan API integration and utilities for Racket.
+- [Granite](https://github.com/Themaister/Granite) - Personal Vulkan renderer.
+- [Vulkan-ExtensionLayer](https://github.com/KhronosGroup/Vulkan-ExtensionLayer) - Layer providing Vulkan features when native support is unavailable.
+- [Vulkan API Specification and related tools](https://github.com/KhronosGroup/Vulkan-Docs)
+- [Descriptorless Rendering in Vulkan (2021)](https://msiglreith.gitbook.io/blog/descriptorless-rendering-in-vulkan)
+- [Shaderc](https://github.com/google/shaderc) - Collection of tools, libraries, and tests for Vulkan shader compilation.
+- [shaderc-rs](https://github.com/google/shaderc-rs) - Rust bindings for the shaderc library.
+- [kajiya](https://github.com/EmbarkStudios/kajiya) - Experimental real-time global illumination renderer made with Rust and Vulkan. ([Homegrown rendering with Rust
+  ](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)) ([HN](https://news.ycombinator.com/item?id=29626406)) ([HN](https://news.ycombinator.com/item?id=29711495))
+- [Toy renderer written in C using Vulkan to perform real-time ray tracing research](https://github.com/MomentsInGraphics/vulkan_renderer)
+- [VIL](https://github.com/nyorain/vil) - Vulkan in-app debugging layer.
+- [Physical based rendering with Vulkan using glTF 2.0 models](https://github.com/SaschaWillems/Vulkan-glTF-PBR)
+- [lahar](https://github.com/Ralith/lahar) - Async-oriented Vulkan helpers.
+- [vk-mem](https://github.com/gwihlidal/vk-mem-rs) - Rust bindings for AMD Vulkan Memory Allocator (VMA).
+- [vk-sync](https://github.com/gwihlidal/vk-sync-rs) - Simplified Vulkan synchronization logic, written in rust.
+- [caldera](https://github.com/sjb3d/caldera) - Vulkan and rust experiments, including a spectral path tracer using Vulkan ray tracing extensions.
+- [Rust & Vulkan test projects](https://github.com/sebbbi/rust_test)
+- [Vulkan Memory Model](https://github.com/KhronosGroup/Vulkan-MemoryModel)
+- [Vulkan Ecosystem Components](https://github.com/KhronosGroup/Vulkan-Loader)
+- [Vulkan & OpenGL CAD Mesh Shader Sample](https://github.com/nvpro-samples/gl_vk_meshlet_cadscene)
+- [How to write a Vulkan driver in 2022](https://www.collabora.com/news-and-blog/blog/2022/03/23/how-to-write-vulkan-driver-in-2022/) ([HN](https://news.ycombinator.com/item?id=30781942))
+- [Vulkan tutorial written in Rust using Ash](https://github.com/adrien-ben/vulkan-tutorial-rs)
+- [Vulkan Haskell](https://github.com/achirkin/vulkan) - Low-level low-overhead haskell bindings to vulkan API.
+- [Niagara](https://github.com/zeux/niagara) - Vulkan renderer written from scratch on stream.
+- [volk](https://github.com/zeux/volk) - Meta loader for Vulkan API.
+- [lava](https://github.com/liblava/liblava) - Modern and easy-to-use library for the Vulkan API.
+- [Sierra](https://github.com/arcana-engine/sierra) - Vulkan-lite GPU API.
+- [Zig vulkan renderer](https://github.com/Avokadoen/zig_vulkan)
+- [Vulkan Helpers](https://github.com/jpbruyere/vkhelpers) - Vulkan c helper library.
+- [Walnut](https://github.com/TheCherno/Walnut) - Simple application framework for Vulkan and Dear ImGui apps.
+- [vulkanalia](https://github.com/KyleMayes/vulkanalia) - Vulkan bindings for Rust.
+- [Primus-vk](https://github.com/felixdoerre/primus_vk) - Vulkan GPU-offloading layer.
+- [vkroots](https://github.com/Joshua-Ashton/vkroots) - Framework for writing Vulkan layers.
+- [Ray tracing glTF scene with Vulkan](https://github.com/nvpro-samples/vk_raytrace)

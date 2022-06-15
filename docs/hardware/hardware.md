@@ -1,0 +1,334 @@
+# Hardware
+
+[Digital Design and Computer Architecture course](https://safari.ethz.ch/digitaltechnik/spring2021/doku.php?id=start), [From Nand to Tetris](https://github.com/ghaiklor/nand-2-tetris) are great.
+
+[teenage engineering](https://teenage.engineering/) & [Apple](https://www.apple.com/) make gorgeous and functional devices.
+
+[Chisel](https://www.chisel-lang.org/) seems like an amazing framework for hardware designs.
+
+## Notes
+
+- [The next 20 years in semiconductors will be dominated by insanely large SIMD processors with massive stacked memory and network bandwidth.](https://twitter.com/aeyakovenko/status/1497462132400553989)
+
+## Links
+
+- [Eero](https://eero.com/) - WiFi router.
+- [Hardware effects](https://github.com/Kobzol/hardware-effects) - Demonstration of various hardware effects.
+- [LiteX](https://github.com/enjoy-digital/litex) - FPGA design/SoC builder that can be used to build cores, create SoCs and full FPGA designs. ([Template](https://github.com/sergachev/litex-template))
+- [Migen (Milkymist generator)](https://github.com/m-labs/migen) - Python toolbox for building complex digital hardware.
+- [The future of computing: a conversation with John Hennessy (Google I/O '18)](https://www.youtube.com/watch?v=Azt8Nc-mtKM)
+- [Awesome Firmware Security](https://github.com/PreOS-Security/awesome-firmware-security)
+- [FindChips](https://www.findchips.com/) ([HN](https://news.ycombinator.com/item?id=19110698)) - Get instant insight into any electronic component.
+- [Hackster](https://www.hackster.io/) - World's largest network for hardware & software developers.
+- [The Essential Guide To Electronics in Shenzhen (2016)](https://bunniefoo.com/bunnie/essential/essential-guide-shenzhen-web.pdf) ([HN](https://news.ycombinator.com/item?id=21817656))
+- [Adventures in reinventing interfaces / Suz Hinton (2019)](https://www.youtube.com/watch?v=AAFIJaxuHeg&list=PLXmT1r4krsTrR6khetJSVQqulyFbxmZNG)
+- [Learning hardware programming as a software engineer (2019)](https://blog.athrunen.dev/learning-hardware-programming-as-a-software-engineer/) ([HN](https://news.ycombinator.com/item?id=21878263))
+- [nMigen](https://github.com/m-labs/nmigen) - Refreshed Python toolbox for building complex digital hardware. ([HN](https://news.ycombinator.com/item?id=28955377))
+- [Glasgow Debug Tool](https://github.com/GlasgowEmbedded/glasgow) - Tool for exploring digital interfaces. ([HN](https://news.ycombinator.com/item?id=24101915))
+- [Everything I know about SSDs (2019)](http://kcall.co.uk/ssd/index.html) - Solid State Devices using NAND Flash, how they differ from Hard Drives, and how they affect file deletion and recovery. ([HN](https://news.ycombinator.com/item?id=22054600))
+- [CRAY-1 Computer System: Hardware Reference Manual (1977)](http://www.ed-thelen.org/comp-hist/CRAY-1-HardRefMan/CRAY-1-HRM.html)
+- [Cerebras CS-1](https://www.cerebras.net/product/) - Built from the ground up to accelerate deep learning in the data center.
+- [MIT 6.004: Computation Structures course](https://6004.mit.edu/web/fall19/resources/lectures) ([HN](https://news.ycombinator.com/item?id=22056567))
+- [Coding for SSDs](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
+- [hackrf](https://github.com/mossmann/hackrf) - Low cost software radio platform.
+- [Meshtastic](https://www.meshtastic.org/) - Open source hiking, pilot, skiing, Signal-App-extending GPS mesh communicator. ([Code](https://github.com/meshtastic/Meshtastic))
+- [Awesome Hardware Description Languages](https://github.com/drom/awesome-hdl)
+- [Tindie](https://www.tindie.com/) - Buy and Sell DIY hardware products.
+- [Ventilators 101: What They Do and How They Work (2020)](https://hackaday.com/2020/03/25/ventilators-101-what-they-do-and-how-they-work/)
+- [From the Transistor to the Web Browser](https://github.com/geohot/fromthetransistor)
+- [PID Without a PhD](https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf)
+- [How to flash an LED (2020)](https://mcla.ug/blog/how-to-flash-an-led.html) ([HN](https://news.ycombinator.com/item?id=22774098))
+- [Espressif Systems](https://www.espressif.com/) - Semiconductor company.
+- [LLHD: A Multi-level Intermediate Representation for Hardware Description Languages (2020)](https://arxiv.org/pdf/2004.03494.pdf)
+- [LLHD](https://github.com/fabianschuiki/llhd) - Low Level Hardware Description — A foundation for building hardware design tools. ([Web](http://www.llhd.io/))
+- [llhd-sim](https://github.com/fabianschuiki/llhd-sim) - LLHD reference simulator.
+- [moore](https://github.com/fabianschuiki/moore) - Hardware compiler based on LLHD.
+- [Let’s Make More Calm Technology (2019)](https://onezero.medium.com/meet-accent-352cfa95813a)
+- [Programming Parallel Computers course (2020)](http://ppc.cs.aalto.fi/)
+- [Nand to Tetris is a great course (2020)](https://mattsegal.dev/nand-to-tetris.html) ([Reddit](https://www.reddit.com/r/programming/comments/g2x6ux/nand_to_tetris_is_a_great_course_for_learning_how/))
+- [HAL](https://github.com/emsec/hal) - Hardware Analyzer.
+- [Playstation Architecture: A Practical Analysis ](https://copetti.org/projects/consoles/playstation/) ([HN](https://news.ycombinator.com/item?id=22932134))
+- [Breadbee](https://github.com/breadbee/breadbee) - Breadboard-able Cortex A7 dev board.
+- [Repository for Open Source Mouse Firmware and Hardware](https://github.com/biomurph/Mouse) ([HN](https://news.ycombinator.com/item?id=23041747))
+- [Hacking Together an E-ink Dashboard (2020)](https://healeycodes.com/hacking-together-an-e-ink-dashboard/) ([Lobsters](https://lobste.rs/s/gmyqqk/hacking_together_e_ink_dashboard))
+- [Shoumik's PhD Defense "Interfaces for Efficient Software Composition on Modern Hardware" (2020)](https://www.youtube.com/watch?v=qze_aB4dPDw)
+- [Bare Metal in a Cloud Native World (2020)](https://thenewstack.io/bare-metal-in-a-cloud-native-world/)
+- [My New Old Apple IIe Computer (2020)](https://www.charlieharrington.com/my-new-old-apple-iie-computer) ([HN](https://news.ycombinator.com/item?id=23167350))
+- [Computer Architecture - Introduction (2018)](https://oneraynyday.github.io/dev/2018/10/02/M151B/)
+- [Basics of hardware hacking](https://maldroid.github.io/hardware-hacking/) ([Code](https://github.com/maldroid/hardware-hacking))
+- [Building an IBM 3270 terminal controller (2020)](https://ajk.me/building-an-ibm-3270-terminal-controller)
+- [Pinebook Pro Six Months In (2020)](https://wiki.alopex.li/PinebookProSixMonthsIn) ([Lobsters](https://lobste.rs/s/rkfd2e/pinebook_pro_six_months))
+- [GoKey](https://github.com/f-secure-foundry/GoKey) - Bare metal Go smart card.
+- [USB-C is still a mess (2020)](https://www.androidauthority.com/state-of-usb-c-870996/) ([HN](https://news.ycombinator.com/item?id=23435805))
+- [Brilliant Hardware in the Valley of the Software Slump (2020)](https://craigmod.com/essays/software_slump/) ([HN](https://news.ycombinator.com/item?id=23497842))
+- [rio](https://github.com/SolidStateGroup/rio) - Open source library allowing you to create an internet connected LED wall.
+- [SkyWater Open Source PDK](https://github.com/google/skywater-pdk) - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node. ([HN](https://news.ycombinator.com/item?id=23524428))
+- [The Magnetic Amplifier –– A Lost Technology of the 1950s, anyone can build it](https://www.nutsvolts.com/magazine/article/the_magnetic_amplifier) ([HN](https://news.ycombinator.com/item?id=23548891))
+- [Jess Frazelle's gadgets](https://github.com/jessfraz/gadgets)
+- [Wireless is a trap (2020)](https://www.benkuhn.net/wireless/) ([Lobsters](https://lobste.rs/s/jfvkm1/wireless_is_trap)) ([HN](https://news.ycombinator.com/item?id=23589798))
+- [Domain-Specific Hardware Accelerators (2020)](https://cacm.acm.org/magazines/2020/7/245701-domain-specific-hardware-accelerators/fulltext) ([HN](https://news.ycombinator.com/item?id=23571297))
+- [ShinySDR](https://github.com/kpreid/shinysdr) - Software-defined radio receiver application built on GNU Radio with a web-based UI and plugins.
+- [Hardware Floating Point (2020)](https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/) ([HN](https://news.ycombinator.com/item?id=23600380))
+- [Xbox Architecture](https://www.copetti.org/projects/consoles/xbox/) ([HN](https://news.ycombinator.com/item?id=23657231))
+- [Build an 8-bit computer from scratch](https://eater.net/8bit)
+- [Recommendations for running a rack-mount server at home? (2020)](https://lobste.rs/s/chxutg/recommendations_for_running_rack_mount)
+- [Apple Lightning (2020)](https://nyansatan.github.io/lightning/) ([HN](https://news.ycombinator.com/item?id=23705546))
+- [Stack Computers: The New Wave](https://users.ece.cmu.edu/~koopman/stack_computers/index.html) ([Lobsters](https://lobste.rs/s/3gkfgn/stack_computers_new_wave))
+- [Commodore never made an Amiga Workbench smart watch OS, so I did instead (2020)](https://thedorkweb.substack.com/p/tales-from-the-dork-web-10) ([Lobsters](https://lobste.rs/s/24iut7/commodore_never_made_amiga_workbench))
+- [The Free and Open Source Silicon Foundation](https://fossi-foundation.org/)
+- [TinyPilot: Build a KVM Over IP for Under \$100 (2020)](https://mtlynch.io/tinypilot/) ([Lobsters](https://lobste.rs/s/j1xznn/tinypilot_build_kvm_over_ip_for_under_100)) ([HN](https://news.ycombinator.com/item?id=23927380))
+- [Socialism’s DIY Computer (2020)](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer) ([Lobsters](https://lobste.rs/s/jebrp8/socialism_s_diy_computer))
+- [Terminal Server on a Budget (2020)](https://blog.lasseter.org/posts/2020/07/terminal-server-on-a-budget/) ([HN](https://news.ycombinator.com/item?id=23915777))
+- [NixOS on ARM/PINE64 Pinebook Pro](https://nixos.wiki/wiki/NixOS_on_ARM/PINE64_Pinebook_Pro) ([Code](https://github.com/samueldr/wip-pinebook-pro))
+- [Hardware interrupts (2020)](https://www.youtube.com/watch?v=DlEa8kd7n3Q)
+- [Setting up a privacy-oriented Home Lab (2020)](https://wrt.nth.io/luke/home-lab) ([Lobsters](https://lobste.rs/s/900fd3/setting_up_privacy_oriented_home_lab))
+- [Home Network Overview (2020)](https://shipilev.net/labs/network-de/)
+- [Nintendo DS Architecture](https://www.copetti.org/projects/consoles/nintendo-ds/) ([HN](https://news.ycombinator.com/item?id=24195751))
+- [Digital Design and Computer Architecture course](https://safari.ethz.ch/digitaltechnik/spring2021/doku.php?id=start) ([2021 Lectures](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-iBn_sw_B63HtdbTNmphLc)) ([2020](https://safari.ethz.ch/digitaltechnik/spring2021/doku.php?id=start)) ([2020 Lectures](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2))
+- [SAFARI Research Group](https://safari.ethz.ch/) - Part of the Institute for High Performance Computing Systems in the Department of Computer Science at ETH Zurich. ([GitHub](https://github.com/CMU-SAFARI))
+- [Mantis: Reactive Programmable Switches](http://vincen.tl/files/mantis-sigcomm20.pdf)
+- [Computer Architecture Takeaways (2020)](https://venam.nixers.net/blog/programming/2020/08/24/computer-architecture.html)
+- [XLS: Accelerated HW Synthesis](https://github.com/google/xls) - - Aims to enable the rapid development of hardware IP that also runs as efficient host software via "software style" methodology. ([Docs](https://google.github.io/xls/))
+- [Home Lab Beginners guide (2020)](https://haydenjames.io/home-lab-beginners-guide-hardware/) ([HN](https://haydenjames.io/home-lab-beginners-guide-hardware/))
+- [Low-level details of the Zen 2 microarchitecture (2020)](https://www.agner.org/optimize/microarchitecture.pdf)
+- [Instructables](https://www.instructables.com/) - Community for people who like to make things.
+- [Programmable hardware with Andy Ray](https://overcast.fm/+hrS6lAIsM) ([Transcript](https://signalsandthreads.com/programmable-hardware/))
+- [FuseSoC](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development. ([FuseSoC standard core library](https://github.com/fusesoc/fusesoc-cores))
+- [Chips (Common Hardware for Interfaces, Processors and Systems) Alliance](https://chipsalliance.org/) - Develops high-quality, open source hardware designs relevant to silicon devices and FPGAs.
+- [Insanity 4004 – Experiments with the world's first microprocessor](http://insanity4004.blogspot.com/) ([HN](https://news.ycombinator.com/item?id=24440060))
+- [Teensy](https://www.pjrc.com/teensy/) - Complete USB-based microcontroller development system, in a very small footprint, capable of implementing many types of projects.
+- [HN: Nvidia to Acquire Arm for \$40B (2020)](https://news.ycombinator.com/item?id=24464807)
+- [WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi.
+- [The Hardware Lottery (2020)](https://arxiv.org/abs/2009.06489)
+- [Computers Are Hard: hardware with Greg Kroah-Hartman (2020)](https://medium.com/computers-are-hard/computers-are-hard-hardware-with-greg-kroah-hartman-4be2d31c3126)
+- [Hardware Hacking Experiments - Several ways to extract firmware on embedded devices](https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf)
+- [Ask HN: How to get into the chip industry? (2020)](https://news.ycombinator.com/item?id=24649959)
+- [Hardcaml](https://github.com/janestreet/hardcaml) - OCaml library for designing hardware.
+- [Chisel](https://github.com/freechipsproject/chisel3) - Hardware design language that facilitates advanced circuit generation and design reuse for both ASIC and FPGA digital logic designs. ([Web](https://www.chisel-lang.org/)) ([Chisel Bootcamp](https://github.com/freechipsproject/chisel-bootcamp)) ([Chisel Project Template](https://github.com/freechipsproject/chisel-template)) ([HN](https://news.ycombinator.com/item?id=27738281)) ([Clean Template](https://github.com/schoeberl/chisel-empty))
+- [chisel-circt](https://github.com/sifive/chisel-circt) - Library to compile Chisel circuits using LLVM/MLIR (CIRCT).
+- [Chipyard](https://github.com/ucb-bar/chipyard) - Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more.
+- [PyMTL](https://github.com/pymtl/pymtl3) - Open-source Python-based hardware generation, simulation, and verification framework with multi-level hardware modeling support.
+- [Freedom](https://github.com/sifive/freedom) - RTL created by SiFive for its Freedom E300 and U500 platforms.
+- [Berkeley Architecture Research](https://bar.eecs.berkeley.edu/) ([Code](https://github.com/ucb-bar))
+- [Running a Unix-like OS on a home-built CPU with a home-built C compiler (2020)](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/) ([HN](https://news.ycombinator.com/item?id=24680109))
+- [The History of the Microprocessor and the Personal Computer (2020)](https://www.techspot.com/article/874-history-of-the-personal-computer/)
+- [Accelerating Sparse Matrix-Matrix Multiplication with GPU Tensor Cores (2020)](https://arxiv.org/abs/2009.14600) ([HN](https://news.ycombinator.com/item?id=24681914))
+- [USB3: why it's a bit harder than USB2 (2020)](https://lab.ktemkin.com/post/why-is-usb3-harder/) ([HN](https://news.ycombinator.com/item?id=24704298))
+- [PS5 Teardown (2020)](https://www.youtube.com/watch?v=CaAY-jAjm0w) ([HN](https://news.ycombinator.com/item?id=24707924))
+- [Stratix V accelerator card from eBay (2020)](https://j-marjanovic.io/stratix-v-accelerator-card-from-ebay.html) ([HN](https://news.ycombinator.com/item?id=24748565))
+- [Ask HN: What is the best way to learn how to build your own hardware? (2020)](https://news.ycombinator.com/item?id=24743894)
+- [Sega Master System Architecture: A Practical Analysis](https://www.copetti.org/projects/consoles/master-system/) ([HN](https://news.ycombinator.com/item?id=24775305))
+- [Microfactory 02 | DIY Home Shop, Setting up the Workbench (2020)](https://l-o-o-s-e-d.net/microfactory-2)
+- [PC build for deep learning, generative art](https://pcpartpicker.com/list/DR7Z8J) ([Tweet](https://twitter.com/mrmrs_/status/1317660045165867009))
+- [Notes on building a deep learning PC (2020)](https://www.mrdbourke.com/notes-on-building-a-deep-learning-pc/)
+- [Microcontroller VGA Interface projects](http://tinyvga.com/) ([Lobsters](https://lobste.rs/s/zkx2hw/microcontroller_vga_interface_projects))
+- [blokdots](https://blokdots.com/) - Software to build interactive hardware prototypes without writing a line of code. ([HN](https://news.ycombinator.com/item?id=24825056))
+- [Implementing Machine Learning on Massively Parallel Hardware (2020)](https://www.ieee-edps.com/archives/2020/c/2.5Patrick.pdf)
+- [Turing Pi 2](https://turingpi.com/) - Compact ARM cluster with 32 Gb RAM. ([HN](https://news.ycombinator.com/item?id=24829768)) ([Docs](https://docs.turingpi.com/)) ([HN](https://news.ycombinator.com/item?id=31277233))
+- [Home Made Standing Desk Raspberry Pi Controller (2020)](https://timmyomahony.com/blog/home-made-standing-desk-raspberry-pi-controller)
+- [AMD](https://www.amd.com/en) - High-Performance Processors and Graphics. ([GitHub](https://github.com/amd))
+- [NVIDIA](https://www.nvidia.com/) - Designs graphics processing units.
+- [Xilinx](https://www.xilinx.com/) - Inventor of the FPGA, programmable SoCs. Develops highly flexible and adaptive processing platforms. Owned by AMD. ([HN](https://news.ycombinator.com/item?id=24906151)) ([GitHub](https://github.com/Xilinx))
+- [Have you considered buying used hardware? (2020)](https://www.0chris.com/consider-buying-used.html) ([Lobsters](https://lobste.rs/s/waupgh/have_you_considered_buying_used_hardware))
+- [Framework to understand RDMA](https://github.com/efficient/rdma_bench)
+- [Curated list of available fantasy consoles/computers](https://github.com/paladin-t/fantasy)
+- [Hardware-as-a-Service (2020)](https://diff.substack.com/p/hardware-as-a-service) ([HN](https://news.ycombinator.com/item?id=24943526))
+- [Is a billion-dollar worth of server lying on the ground (2020)](https://cerebralab.com/Is_a_billion-dollar_worth_of_server_lying_on_the_ground) ([HN](https://news.ycombinator.com/item?id=24966028))
+- [Lattice Semiconductor](https://www.latticesemi.com/en) - American manufacturer of high-performance programmable logic devices.
+- [Transistor 2N2222: all you need to know (2020)](https://www.oshardware.net/2n2222/)
+- [Open Source Hardware](https://www.oshardware.net/) - Makers and STEM tutorials.
+- [Chips Alliance](https://chipsalliance.org/) - Common Hardware for Interfaces, Processors and Systems. ([GitHub](https://github.com/chipsalliance))
+- [Hacker's Hardware Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
+- [What is a System-on-Chip (SoC), and why do we care if they are open source? (2020)](https://www.bunniestudios.com/blog/?p=5971) ([HN](https://news.ycombinator.com/item?id=25039013))
+- [Advanced System-on-Chip Design Lecture Notes (PDFs) (2016)](https://iis-people.ee.ethz.ch/~gmichi/asocd/lecturenotes/)
+- [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - Scala based HDL. Language to describe digital hardware. ([GitHub](https://github.com/SpinalHDL))
+- [AMD CDNA Architecture White paper (2020)](https://www.amd.com/system/files/documents/amd-cdna-whitepaper.pdf)
+- [reMarkable](https://remarkable.com/) - Next-generation paper tablet. ([Go CLI](https://github.com/juruen/rmapi)) ([HN](https://news.ycombinator.com/item?id=24295443)) ([HN 2](https://news.ycombinator.com/item?id=25124211)) ([Awesome reMarkable](https://github.com/reHackable/awesome-reMarkable))
+- [Quite the reMarkable Device (2021)](https://figbert.com/posts/remarkable-tablet/) ([Lobsters](https://lobste.rs/s/cdhgjg/quite_remarkable_device))
+- [Branch Prediction Is Not a Solved Problem: Measurements, Opportunities, and Future Directions (2019)](https://arxiv.org/abs/1906.08170)
+- [Hardware Debugging for Reverse Engineers (2020)](https://wrongbaud.github.io/posts/jtag-hdd/)
+- [Uniquely Identifying PCBs, Subassemblies, And Packaging (2020)](https://semiengineering.com/uniquely-identifying-pcbs-subassemblies-and-packaging/)
+- [Semiconductors: The Ultimate Bargaining Chip (2020)](https://www.youtube.com/watch?v=r6NUO_bymuA)
+- [DIY NAS: 2020 Edition](https://blog.briancmoses.com/2020/11/diy-nas-2020-edition.html)
+- [These are called opportunities (2020)](https://fabiensanglard.net/silicone/) ([HN](https://news.ycombinator.com/item?id=25285862))
+- [ChipWhisperer](https://github.com/newaetech/chipwhisperer) - Complete open-source toolchain for side-channel power analysis and glitching attacks. ([Docs](https://rtfm.newae.com/))
+- [Building a new C64 in 2020](https://www.youtube.com/watch?v=ZtpRdVTuHQw)
+- [A Modern Primer on Processing in Memory (2020)](https://arxiv.org/abs/2012.03112)
+- [Fast14 Technology: Design Technology for the Automation of Multi-Gigahertz Digital Logic](https://en.wikichip.org/w/images/d/d4/Fast14_Technology.pdf)
+- [Inside the Apple II (2020)](https://www.youtube.com/watch?v=r1VlrJboDMw)
+- [System Bus Radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware. ([HN](https://news.ycombinator.com/item?id=25452435))
+- [ChampSim](https://github.com/ChampSim/ChampSim) - Trace-based simulator for a microarchitecture study.
+- [Clockwork](https://github.com/dillonhuff/clockwork) - Polyhedral Analysis for Hardware Accelerators.
+- [ACE: Apple Type-C Port Controller Secrets (2020)](https://blog.t8012.dev/ace-part-1/) ([HN](https://news.ycombinator.com/item?id=25579286))
+- [MyHDL](https://github.com/myhdl/myhdl) - Design hardware with Python. ([Web](https://www.myhdl.org/))
+- [Morris Chang, Taiwan Semiconductor Manufacturing, Engineering Hero Lecture (2014)](https://www.youtube.com/watch?v=wEh3ZgbvBrE)
+- [Memory-Centric Computing Systems (2020)](https://www.youtube.com/watch?v=H3sEaINPBOE)
+- [Tenstorrent](https://www.tenstorrent.com/) - Scalable and Efficient Hardware for Deep Learning.
+- [AI Chip (ICs and IPs)](https://github.com/basicmi/AI-Chip) - List of ICs and IPs for AI, Machine Learning and Deep Learning.
+- [embedded-hal](https://github.com/rust-embedded/embedded-hal) - Hardware Abstraction Layer (HAL) for embedded systems.
+- [The Confusing World of USB (2020)](https://fabiensanglard.net/nousb/index.html) ([HN](https://news.ycombinator.com/item?id=25724014))
+- [ARM](https://www.arm.com/) - Architecting a Smarter World. ([GitHub](https://github.com/ARM-software))
+- [HwURLs](https://hwurls.com/) - Simple hardware news aggregator.
+- [Anatomy of a CNC Router (2020)](https://mattferraro.dev/posts/cnc-router) - Everything you need to know to design your own CNC router. ([HN](https://news.ycombinator.com/item?id=25829337))
+- [Bitbanged DVI on the RP2040 Microcontroller](https://github.com/Wren6991/picodvi)
+- [Examining a technology sample kit: IBM components from 1948 to 1986 (2021)](http://www.righto.com/2021/01/examining-technology-sample-kit-ibm.html)
+- [Principles of Semiconductor Devices](https://ecee.colorado.edu/~bart/book/book/contents.htm)
+- [Resources to make a smart speaker](https://github.com/voice-engine/make-a-smart-speaker)
+- [SparkFun OpenLog](https://github.com/sparkfun/OpenLog) - Open Source Hardware Datalogger. ([Web](https://www.sparkfun.com/products/13712))
+- [Jiga](https://www.jiga3d.com/) - Faster custom parts for hardware products. ([App](https://app.jiga3d.com/)) ([HN](https://news.ycombinator.com/item?id=26066276))
+- [Misoc](https://github.com/m-labs/misoc) - High performance and small footprint SoC based on Migen.
+- [A Primer on Analog Computing (2021)](https://blog.sigplan.org/2021/02/11/a-primer-on-analog-computing/)
+- [Cheap PCB](https://github.com/hardenedlinux/cheap-pcb) - Better understanding the current status of hardware supply chain. ([HN](https://news.ycombinator.com/item?id=26176964))
+- [Dumping the Super Game Boy 2 boot ROM (2015)](https://gekkio.fi/blog/2015/dumping-the-super-game-boy-2-boot-rom/)
+- [Teardown of a quartz crystal oscillator and the tiny IC inside (2021)](http://www.righto.com/2021/02/teardown-of-quartz-crystal-oscillator.html) ([HN](https://news.ycombinator.com/item?id=26206132))
+- [GreaseBoss](https://www.greaseboss.io/) - Real-time system to manage industrial greasing. ([HN](https://news.ycombinator.com/item?id=26240581))
+- [Building an E-Ink Laptop](https://alexsoto.dev/building-an-e-ink-laptop.html) ([HN](https://news.ycombinator.com/item?id=26245563))
+- [Seminar in Computer Architecture - ETH Zürich (2021)](https://safari.ethz.ch/architecture_seminar/spring2021/doku.php) ([Talks](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_awYdjmWVIUegsbY7TPGW4))
+- [Framework Laptop](https://frame.work/) - Upgradeable, repairable, and 100% yours. ([Intro](https://frame.work/blog/introducing-the-framework-laptop)) ([HN](https://news.ycombinator.com/item?id=26263508)) ([Lobsters](https://lobste.rs/s/hhqli7/introducing_framework_laptop))
+- [SparkFun Electronics](https://www.sparkfun.com/) - Manufactures and sells microcontroller development boards and breakout boards.
+- [Ask HN: Always on low power home server (2021)](https://news.ycombinator.com/item?id=26292660)
+- [I want a computer that I own (2021)](http://misc-stuff.terraaeon.com/articles/computer-i-own.html) ([HN](https://news.ycombinator.com/item?id=26393824))
+- [DIY Through Hole Plating of PCBs (2017)](https://blog.honzamrazek.cz/2017/10/diy-through-hole-plating-of-pcbs/)
+- [Cobalt](https://github.com/oxidecomputer/cobalt) - Collection of common Bluespec interfaces/modules.
+- [Flexible Internal Representation for RTL](https://github.com/chipsalliance/firrtl) ([Web](https://www.chisel-lang.org/firrtl/))
+- [LATTE: Languages, Tools, and Techniques for Accelerator Design](https://capra.cs.cornell.edu/latte21/) ([Code](https://github.com/cucapra/latte21))
+- [Capra](https://capra.cs.cornell.edu/) - Computer Architecture & Programming Abstractions Research Group. ([GitHub](https://github.com/cucapra))
+- [Calyx](https://capra.cs.cornell.edu/calyx/) - Compiler Infrastructure for Accelerator Generators. ([Code](https://github.com/cucapra/calyx))
+- [Dahlia](https://github.com/cucapra/dahlia) - Time-sensitive affine types for predictable hardware generation. ([Web](https://capra.cs.cornell.edu/dahlia/))
+- [ESP32-C6, a Wi-Fi 6 and Bluetooth 5 (LE) SoC (2021)](https://www.espressif.com/en/news/ESP32_C6) ([HN](https://news.ycombinator.com/item?id=26758050))
+- [Lobsters: Single board computers? (2021)](https://lobste.rs/s/wz9wt8/single_board_computers)
+- [DIY Split-Flap Display](https://github.com/scottbez1/splitflap) ([Web](https://scottbez1.github.io/splitflap/)) ([HN](https://news.ycombinator.com/item?id=26858741))
+- [MANUZOID](https://manuzoid.com/) - Search for Manual Online.
+- [Why making chips is so hard (2021)](https://www.youtube.com/watch?v=CkNn98WE5_k)
+- [The True Cost of Processor Manufacturing: TSMC 7nm (2021)](https://www.youtube.com/watch?v=tvVobTtgss0)
+- [Apples M1 Processor: The hardware behind the hype (2020)](https://www.youtube.com/watch?v=NH9kwje2k8U)
+- [Apple Silicon Hardware: SPRR and Guarded Exception Levels (GXF) (2021)](https://blog.svenpeter.dev/posts/m1_sprr_gxf/) ([HN](https://news.ycombinator.com/item?id=27078614))
+- [Adafruit](https://www.adafruit.com/) - Unique & fun DIY electronics and kits.
+- [DIY Air Quality Sensor](https://www.airgradient.com/diy/)
+- [What other hobbyist "small devices" are out there other than the RPi? (2021)](https://lobste.rs/s/uhrh3e/what_other_hobbyist_small_devices_are_out)
+- [Fixing Xilinx's Broken AXI-lite Design in VHDL (2021)](https://zipcpu.com/blog/2021/05/22/vhdlaxil.html)
+- [Oxide Computer](https://oxide.computer/) - Servers as they should be. ([HN](https://news.ycombinator.com/item?id=27294471)) ([Lobsters](https://lobste.rs/s/j27kjs/oxide_computer_hardware_photos_specs_now))
+- [Apple Has a Decade-long Lead in Wearables (2021)](https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables) ([HN](https://news.ycombinator.com/item?id=27321387))
+- [AMD Demonstrates Stacked 3D V-Cache Technology: 192 MB at 2 TB/SEC (2021)](https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming) ([HN](https://news.ycombinator.com/item?id=27350632))
+- [Denotational hardware design in Agda](https://github.com/conal/agda-hardware)
+- [Zero to ASIC Course](https://www.zerotoasiccourse.com/) - Learn how to make your own computer chips. ([YouTube](https://www.youtube.com/c/ZeroToASIC/videos))
+- [Cores that don’t count (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf) ([Tweet](https://twitter.com/supersat/status/1399877794834747395)) ([HN](https://news.ycombinator.com/item?id=27378624))
+- [Khadas](https://www.khadas.com/) - Shenzhen based hardware manufacturer.
+- [Hardware Memory Models (2021)](https://research.swtch.com/hwmm)
+- [HN: Apple and Intel first to use TSMC 3nm (2021)](https://news.ycombinator.com/item?id=27720140)
+- [Qualcomm](https://www.qualcomm.com/) - Semiconductor company.
+- [How Capacitive Soil Moisture Sensors Work (2021)](https://rbaron.net/blog/2021/04/05/How-capacitive-soil-moisture-sensors-work.html)
+- [Computing Performance on the Horizon (2021)](https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html) ([HN](https://news.ycombinator.com/item?id=27738312))
+- [TinyPICO](https://www.tinypico.com/) - World’s smallest, fully-featured ESP32 development board.
+- [Performance Speed Limits (2019)](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html) - How fast can it go?
+- [Building a Curve25519 Hardware Accelerator (2021)](https://www.bunniestudios.com/blog/?p=6140) ([HN](https://news.ycombinator.com/item?id=27845274))
+- [Ask HN: Which vintage computers do you find interesting? (2021)](https://news.ycombinator.com/item?id=27909934)
+- [Nothing](https://nothing.tech/) - Technology should fade into the background and feel like nothing.
+- [How does n-key rollover work? (2021)](https://www.youtube.com/watch?v=2lPzTU-3ONI)
+- [Pillars](https://github.com/pku-dasys/pillars) - Integrated CGRA design framework.
+- [Reverse Engineering the M1 (2021)](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf) ([HN](https://news.ycombinator.com/item?id=28079038))
+- [DIY Air Quality Sensor (2021)](https://benjamincongdon.me/blog/2021/08/08/DIY-Air-Quality-Sensor/) ([Lobsters](https://lobste.rs/s/2f4l7j/diy_air_quality_sensor))
+- [Cat Printer](https://github.com/rbaron/catprinter) - Portable thermal printer. ([HN](https://news.ycombinator.com/item?id=30804204))
+- [What scientists must know about hardware to write fast code (2021)](https://viralinstruction.com/posts/hardware/)
+- [Deviceplane](https://deviceplane.com/) - Securely access remote devices and servers.
+- [It's Time for Operating Systems to Rediscover Hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote) ([HN](https://news.ycombinator.com/item?id=28374523))
+- [Awesome Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification)
+- [Imagination](https://www.imaginationtech.com/) - Low-power high-performance embedded IP cores.
+- [Experiments on a $50 DIY air purifier (2020)](https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/) ([HN](https://news.ycombinator.com/item?id=28394752))
+- [JeeLabs Projects](https://jeelabs.org/w/projects/)
+- [Caravel](https://github.com/efabless/caravel) - Standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space. ([Docs](https://caravel-harness.readthedocs.io/en/latest/))
+- [Efabless.com](https://efabless.com/) - Rapid design implementation leveraging an automated digital design flow and full chip template. ([GitHub](https://github.com/efabless))
+- [Fault](https://github.com/Cloud-V/Fault) - Complete Open Source Design for Testing (DFT) Solution.
+- [NVC](https://github.com/nickg/nvc) - VHDL compiler and simulator.
+- [Crowd Supply](https://www.crowdsupply.com/) - Bring original, useful, respectful hardware to life.
+- [The Framework is the most exciting laptop I've ever used (2021)](https://pluralistic.net/2021/09/21/monica-byrne/#think-different) ([HN](https://news.ycombinator.com/item?id=28606962))
+- [The Analog Thing](https://the-analog-thing.org/) - Open source, educational, low-cost modern analog computer. ([HN](https://news.ycombinator.com/item?id=28614840))
+- [ChiselVerify](https://github.com/chiselverify/chiselverify) - Hardware Verification Library for Chisel.
+- [Digital Design with Chisel Book](https://github.com/schoeberl/chisel-book)
+- [Take a look inside Steam Deck (2021)](https://www.youtube.com/watch?v=Dxnr2FAADAs) ([Lobsters](https://lobste.rs/s/yrtqmu/take_look_inside_steam_deck))
+- [The Insane Innovation of TI Calculator Hobbyists (2021)](https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/) ([HN](https://news.ycombinator.com/item?id=28779621))
+- [Mac SE/30 odyssey (2021)](https://axio.ms/blog/2021/10/02/MacSE30.html) ([Lobsters](https://lobste.rs/s/qnpjma/mac_se_30_odyssey))
+- [Intel, Mobileye, and Smiling Curves (2017)](https://stratechery.com/2017/intel-mobileye-and-smiling-curves/) ([Tweet](https://twitter.com/Altimor/status/1447243413661921283))
+- [Practice Problems for Hardware Engineers (2021)](https://arxiv.org/abs/2110.06526) ([HN](https://news.ycombinator.com/item?id=28860308))
+- [Ask HN: What does one look for in a laptop these days? (2021)](https://news.ycombinator.com/item?id=28861949)
+- [Apple’s M1 Pro/Max is the second step in a major change in computing (2021)](https://twitter.com/stevesi/status/1450255227945242628)
+- [Architecture of Consoles | A Practical Analysis](https://www.copetti.org/writings/consoles/) ([Code](https://github.com/flipacholas/Architecture-of-consoles))
+- [PlayStation 3 Architecture](https://www.copetti.org/writings/consoles/playstation-3/) ([HN](https://news.ycombinator.com/item?id=28934624))
+- [Tesla Dojo White Paper (2021)](https://tesla-cdn.thron.com/static/SBY4B9_tesla-dojo-technology_OPNZ0M.pdf?xseo=&response-content-disposition=inline%3Bfilename%3D%22tesla-dojo-technology.pdf%22) - Guide to Tesla’s Configurable Floating Point Formats & Arithmetic. ([HN](https://news.ycombinator.com/item?id=28999206)) ([Tweet](https://twitter.com/Tesla/status/1452961309734096900))
+- [Teenage Engineering Computer-1 mini-ITX Chassis](https://teenage.engineering/products/computer-1) ([HN](https://news.ycombinator.com/item?id=29027328))
+- [hgdb](https://github.com/Kuree/hgdb) - Flexible hardware debugging framework. It offers runtime APIs to interact with the simulator.
+- [A History of Modern 64-bit Computing (2007)](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-64-bit.pdf)
+- [Titan M tools](https://github.com/quarkslab/titanm) - Tools we used in our research on the Google Titan M chip.
+- [How do hardware timers work? (2021)](https://www.youtube.com/watch?v=g_koa00MBLg) ([Reddit](https://www.reddit.com/r/programming/comments/qt2wr6/ben_eater_how_do_hardware_timers_work/))
+- [Exploring the Processing-in-Memory Paradigm for Future Computing Systems](https://safari.ethz.ch/projects_and_seminars/fall2021/doku.php?id=processing_in_memory) ([Tweet](https://twitter.com/el1goluj/status/1459864658123309058))
+- [Blacksmith – Rowhammer bit flips on all DRAM devices today despite mitigations](https://comsec.ethz.ch/research/dram/blacksmith/) ([HN](https://news.ycombinator.com/item?id=29229200))
+- [80386DX ISA single board microcomputer](https://alexandrugroza.ro/microelectronics/system-design/isa-80386dx-sbmc/index.html) ([HN](https://news.ycombinator.com/item?id=29273829))
+- [Ask HN: What’s the best TV to buy? (2021)](https://news.ycombinator.com/item?id=29343338)
+- [bazel_rules_hdl](https://github.com/hdl/bazel_rules_hdl) - Hardware Description Language (Verilog, VHDL, Chisel, nMigen, etc) with open tools (Yosys, Verilator, OpenROAD, etc) rules for Bazel.
+- [How to jailbreak an Amazon Echo Dot?](https://lobste.rs/s/qmoy4y/how_jailbreak_amazon_echo_dot)
+- [What's the best PC gaming setup these days? (2021)](https://twitter.com/aeyakovenko/status/1465017842915446787)
+- [Ask HN: Are there any 4K “dumb” televisions? (2021)](https://news.ycombinator.com/item?id=29382643)
+- [Scan of the Month - AirPods Evolution](https://scanofthemonth.com/)
+- [Miniature 3456 LED cube](https://willempennings.nl/miniature-3456-led-cube/)
+- [Apple Neural Engine Internal: From ML Algorithm to HW Registers (2021)](https://www.youtube.com/watch?v=1wvBDUnPNEo) ([HN](https://news.ycombinator.com/item?id=29483347))
+- [Cello](https://github.com/CIDARLAB/cello) - Genetic circuit design automation.
+- [Made To Spec: The Coming Age Of Prototyping As A Service (2021)](https://hackaday.com/2021/12/08/made-to-spec-the-coming-age-of-prototyping-as-a-service/)
+- [C64 OS: make a Commodore 64 feel fast and useful](http://c64os.com/) ([HN](https://news.ycombinator.com/item?id=29513318))
+- [Braun Audio](https://braun-audio.com/en-GB/) ([Tweet](https://twitter.com/jdsimcoe/status/1469023755867283459))
+- [Canon Cat Resources](http://www.canoncat.net/) ([HN](https://lobste.rs/s/10vgyo/canon_cat))
+- [Ten Lessons from Three Generations Shaped Google’s TPUv4i (2021)](https://www.gwern.net/docs/ai/2021-jouppi.pdf)
+- [Agile Hardware Design Course (2022)](https://classes.soe.ucsc.edu/cse293/Winter22/) ([Code](https://github.com/agile-hw/lectures))
+- [Ask HN: Resources for “Learning” Manufacturing? (2022)](https://news.ycombinator.com/item?id=29793770)
+- [Hardware Acceleration of Sparse and Irregular Tensor Computations of ML Models: A Survey and Insights (2020)](https://arxiv.org/abs/2007.00864)
+- [Nanometer-Scale Ge-Based Adaptable Transistors Providing Programmable Negative Differential Resistance Enabling Multivalued Logic (2021)](https://www.researchgate.net/publication/355683752_Nanometer-Scale_Ge-Based_Adaptable_Transistors_Providing_Programmable_Negative_Differential_Resistance_Enabling_Multivalued_Logic) ([Lobsters](https://lobste.rs/s/pcnryd/cpus_could_use_85_percent_fewer))
+- [How I built my own Sega Mega Drive hardware dev kit from scratch (2022)](https://nestenius.se/2022/01/18/how-i-built-my-own-sega-mega-drive-hardware-dev-kit-from-scratch/)
+- [Kineto](https://github.com/pytorch/kineto) - CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
+- [mmWave radar, you won't see it coming (2022)](https://www.joshhorne.com/mmwave-radar-and-ambient-computing/) ([HN](https://news.ycombinator.com/item?id=30172647)) ([Lobsters](https://lobste.rs/s/wdso60/mmwave_radar_you_won_t_see_it_coming))
+- [Failing to reach DDR4 bandwidth (2022)](https://unum.cloud/post/2022-01-29-ddr4/) ([HN](https://news.ycombinator.com/item?id=30178764))
+- [DRAM Errors in the Wild: A Large-Scale Field Study (2009)](http://www.cs.toronto.edu/~bianca/papers/sigmetrics09.pdf)
+- [Creating Camera Lenses with Stereolithography](https://formlabs.com/blog/creating-camera-lenses-with-stereolithography/) ([HN](https://news.ycombinator.com/item?id=30191570))
+- [Ask HN: Any piece of hardware that was more of game changer than you expected? (2022)](https://news.ycombinator.com/item?id=30231171)
+- [A look inside the chips that powered the landmark Polaroid SX-70 instant camera (2022)](http://www.righto.com/2022/02/a-look-inside-chips-that-powered.html) ([HN](https://news.ycombinator.com/item?id=30289648))
+- [The Semiconductor Ecosystem Explained (2022)](https://semiwiki.com/semiconductor-manufacturers/307494-the-semiconductor-ecosystem-explained/) ([HN](https://news.ycombinator.com/item?id=30264038))
+- [Penkesu Computer](https://github.com/penk/penkesu) - Homebrew Retro-style Laptop. ([Web](https://penkesu.computer/))
+- [Modified Microphone (2022)](https://seancoates.com/blogs/modified-microphone)
+- [Ask HN: What books are recommended to learn re semiconductors industry? (2022)](https://news.ycombinator.com/item?id=30398930)
+- [From Nand to Tetris](https://www.nand2tetris.org/) - Building a Modern Computer From First Principles. ([Code](https://github.com/ghaiklor/nand-2-tetris))
+- [Koika](https://github.com/mit-plv/koika) - Core Language for Rule-Based Hardware Design.
+- [Universal Chiplet Interconnect Express UCIe 1.0 Launched (2022)](https://www.servethehome.com/universal-chiplet-interconnect-express-ucie-1-0-launched/) ([HN](https://news.ycombinator.com/item?id=30538809))
+- [What you must know about Memory, Caches, and Shared Memory](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/parallel_distributed/2018/slides/pdf/memory2.pdf) ([HN](https://news.ycombinator.com/item?id=30549828))
+- [Pockit](https://pockit.ai/) - Tiny, powerful, modular computer. ([2022 Demo](https://www.youtube.com/watch?v=b3F9OtH2Xx4)) ([HN](https://news.ycombinator.com/item?id=30615959))
+- [SmartKnob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents. ([HN](https://news.ycombinator.com/item?id=30646371))
+- [Oxide at Home: Propolis says Hello (2022)](https://artemis.sh/2022/03/14/propolis-oxide-at-home-pt1.html) ([HN](https://news.ycombinator.com/item?id=30671447)) ([Lobsters](https://lobste.rs/s/jdqlyj/oxide_at_home_propolis_says_hello))
+- [A brief tour of the PDP-11, the most influential minicomputer of all time (2022)](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/) ([HN](https://news.ycombinator.com/item?id=30671391))
+- [Semiconductors are more than just processors and GPUs (2022)](https://blog.robertelder.org/semiconductor-example-uses/) ([HN](https://news.ycombinator.com/item?id=30711621))
+- [Trusted Firmware](https://www.trustedfirmware.org/) - Open Source Secure Software - Trusted Firmware.
+- [Mac Studio M1 Ultra Teardown (2022)](https://www.youtube.com/watch?v=IY0gRMpT4AY) ([HN](https://news.ycombinator.com/item?id=30735790))
+- [What ASML Has Next After EUV (2022)](https://www.youtube.com/watch?v=en7hhFJBrAI)
+- [What made the NES so interesting? (2022)](https://nicole.express/2022/the-nes-as-an-artifact.html) ([HN](https://news.ycombinator.com/item?id=30816668))
+- [PipelineC](https://github.com/JulianKemmerer/PipelineC) - C-like hardware description language (HDL) adding high level synthesis(HLS)-like automatic pipelining as a language construct/compiler feature.
+- [PDL](https://github.com/apl-cornell/PDL) - Hardware Pipeline Description Language.
+- [LDgraphy - Laser Direct Lithography](https://github.com/hzeller/ldgraphy) - Simple Laser Direct Lithography / Laser Direct Imaging for PCB manufacturing.
+- [Go THDL](https://github.com/m-kru/go-thdl) - Tool for easing the work with hardware description languages.
+- [SLEIGH Library](https://github.com/lifting-bits/sleigh) - SLEIGH is a language used to describe the semantics of instruction sets of general-purpose microprocessors.
+- [USB-C hubs and my slow descent into madness (2021)](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness.html) ([Reddit](https://www.reddit.com/r/hardware/comments/twuxtj/usbc_hubs_and_my_slow_descent_into_madness/)) ([HN](https://news.ycombinator.com/item?id=30911598))
+- [Bareflank PAL (Processor/Peripheral Abstraction Layer)](https://github.com/Bareflank/pal) - Bareflank Processor Abstraction Layer.
+- [Can You Do 7nm Chips Without EUV? (2022)](https://www.youtube.com/watch?v=Th4E-0VFaEA)
+- [Using Depdentent and Affine Types for robust FPGA programming](https://github.com/ryanorendorff/sbtb-2020-type-safe-fpga)
+- [mxiot](https://github.com/jaydcarlson/mxiot) - Low-cost hardware prototyping platform to help you explore switching small IoT projects from bare-metal.
+- [Pcb-rs](https://github.com/YJDoc2/pcb-rs) - Library to easily write software emulated hardware. ([HN](https://news.ycombinator.com/item?id=31024101))
+- [List of awesome open source hardware tools](https://github.com/aolofsson/awesome-hardware-tools)
+- [Awesome Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware)
+- [Framework Laptop Mainboard](https://github.com/FrameworkComputer/Mainboard) ([HN](https://news.ycombinator.com/item?id=31089677))
+- [Ask HN: What's the most stable form of digital storage? (2022)](https://news.ycombinator.com/item?id=31149427)
+- [Awesome Semiconductor Startups](https://github.com/aolofsson/awesome-semiconductor-startups)
+- [Omicron](https://github.com/oxidecomputer/omicron) - Oxide control plane.
+- [The X-Ray Tech That Reveals Chip Designs (2022)](https://spectrum.ieee.org/chip-x-ray)
+- [What scientists must know about hardware to write fast code](https://github.com/jakobnissen/hardware_introduction)
+- [The semiconductor bust – still coming? (2022)](https://asianometry.substack.com/p/the-semiconductor-bust-still-coming?s=r) ([HN](https://news.ycombinator.com/item?id=31264672))
+- [DuPont and “DuPont” connectors, and how to crimp them properly (2021)](http://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/)
+- [MEMS: The Second Silicon Revolution? (2022)](https://www.youtube.com/watch?v=RiRyap-EVg0)
+- [Retro-style Computer with a Modern Core](https://github.com/penk/MainboardTerminal)
+- [Framedeck](https://github.com/brickbots/framedeck) - Cyberdeck built with the framework mainboard.
+- [VoCore](https://vocore.io/) - Coin-Sized Linux Computer. ([HN](https://news.ycombinator.com/item?id=31395379))
+- [TSMC vs ASML: Who is the True Semiconductor King? (2022)](https://www.youtube.com/watch?v=0nguBmhSyX4)

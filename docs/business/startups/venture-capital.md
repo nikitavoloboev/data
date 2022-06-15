@@ -1,0 +1,160 @@
+---
+title: Venture Capital
+---
+
+# [Venture Capital](https://en.wikipedia.org/wiki/Venture_capital)
+
+Curious how [Sequoia VC](https://www.sequoiacap.com/our-companies/) is so successful. [Hyper](https://hyper.com/) seems like an amazing accelerator.
+
+## Notes
+
+- [Tons of cash in VC => founders have leverage => founders prefer to do 1st meetings over zoom, easier to parallel process more firms/create momentum => zoom is default for first meetings. In-person is saved for the end/close.](https://twitter.com/zebulgar/status/1376251459574976513)
+- [The biggest mistake you can make in venture is of omission, not commission.](https://twitter.com/faraaznishtar/status/1434297011164098569)
+- [If you take VC money, prepare to give up any values you might hold that are not aligned with turning that money into 10x for the benefit of the VCs. Don’t lie to yourself about being able to hold onto those values. You won’t.](https://twitter.com/ceejbot/status/1444055001437851650)
+- [Raising money from VCs & LPs is really like taking a loan with super high interest rates, using your personal reputation/credibility as a collateral. It’s not written in the contracts but as the size of your rounds/funds goes up, so does the size of the collateral.](https://twitter.com/xuezhao/status/1521548339732385794)
+
+## Links
+
+- [Startups Rejecting Venture Capital (2019)](https://www.nytimes.com/2019/01/11/technology/start-ups-rejecting-venture-capital.html) ([HN](https://news.ycombinator.com/item?id=18883410))
+- [Lessons From Keith Rabois Essay 1: How to become a Venture Capitalist](http://delian.io/lessons-1)
+- [How Do Venture Capitalists Make Decisions? (2017)](https://medium.com/vcdium/venture-capital-decision-making-c3258bc1b09c)
+- [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://medium.com/s/story/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7)
+- [The Guide to Raising Venture Capital](https://www.holloway.com/s/rn-rvc-e0_5)
+- [Lux Capital](https://www.luxcapital.com/) - Invests in emerging science and technology ventures at the outermost edges of what is possible.
+- [Root Ventures](https://www.root.vc/) - Seeding bold engineers.
+- [Fifty Years](https://www.fifty.vc/) - Entrepreneur-run early stage venture fund based in San Francisco. We invest in companies that inspire.
+- [Resources for the Venture Capital Industry](https://www.arnaudbonzom.com/resources-for-the-venture-capital-industry/)
+- [GV](https://www.gv.com/) - Backs founders who transform industries and create new ones.
+- [Village Global](https://www.villageglobal.vc/) - Early-stage venture capital firm backed by some of the world’s most successful entrepreneurs.
+- [Founders Fund](https://foundersfund.com/)
+- [Tiny Capital](https://www.tinycapital.com/) - We start, buy, and invest in wonderful internet businesses. ([HN](https://news.ycombinator.com/item?id=29376588))
+- [Bloomberg Beta](https://github.com/Bloomberg-Beta/Manual) - Early-stage venture firm backed by Bloomberg L.P., investing out of a \$75M fund focused broadly on the future of work.
+- [Index Ventures](http://www.indexventures.com/)
+- [What I learnt from raising £1m](https://medium.com/swlh/what-i-learnt-from-raising-1m-8f70df34c874)
+- [Upfront Ventures](https://upfront.com/)
+- [TinySeed](https://tinyseed.com/) - Year-long, remote accelerator designed for early-stage SaaS founders.
+- [2048 Ventures](https://www.2048.vc/) - Invest in exceptional founders building B2B and B2C companies differentiated through technology.
+- [Venture Capitalists Contacts](https://docs.google.com/spreadsheets/d/1c5zoCzjQKlzdDW-6cctRm71ZiCmLQ7EJFZJtp_6cbeI/edit?rm=minimal#gid=428940999) ([HN](https://news.ycombinator.com/item?id=22042111))
+- [FirstMark](https://firstmarkcap.com/) - Early stage VC.
+- [Emergent Ventures](https://www.mercatus.org/emergentventures) - New fellowship and grant program from the Mercatus Center, seeks to support entrepreneurs and brilliant minds with highly scalable, “zero to one” ideas for meaningfully improving society.
+- [Earnest Capital](https://earnestcapital.com/) - Provides early-stage funding, resources and a network of experienced advisors to founders building sustainable profitable businesses.
+- [Fuel Ventures](https://fuel.ventures/) - Early stage VC funding, London UK.
+- [Green Shares Capital](https://www.greenshorescapital.com/) - Invest in defensible technology businesses with exponential growth potential.
+- [U+I](https://www.uandiplc.com/) - Property developer and investor focused on regenerating overlooked and underestimated urban places.
+- [Paradigm](https://www.paradigm.xyz/) - Crypto-focused investment firm based in San Francisco.
+- [NFX](https://www.nfx.com/) - Venture firm that is transforming how true innovators are funded.
+- [Emergence Capital](https://www.emcap.com/) - Invest in people who change the way the world works.
+- [Building a Venture Career](https://either.co/how-to-work-in-vc-11835d51aaab)
+- [How VCs Make Money](https://vcstarterkit.substack.com/p/how-vcs-make-money) ([HN](https://news.ycombinator.com/item?id=21513771))
+- [Boldstart Ventures](https://www.boldstart.vc/)
+- [Sequoia Capital](https://www.sequoiacap.com/)
+- [How to become a Venture Capitalist](http://delian.io/lessons-1)
+- [Combine VC](http://combine.vc/) - Invests in design-forward companies.
+- [Homebrew](https://homebrew.co/)
+- [HeavyBit](https://www.heavybit.com/) - 9-month accelerator and fund helps seed and Series A developer and enterprise companies scale their go-to-market.
+- [Uncork Capital](https://uncorkcapital.com/) - Seed-stage venture firm that commits early, helps with the hard stuff, and sticks around.
+- [dtc.capital](https://www.dtc.capital/) - Fundamentals-Focused Investment Fund.
+- [Indie.vc](https://www.indie.vc/) - Program designed to fund and support founders on a path to profitability. ([Indie.vc Term sheet](https://github.com/indievc/terms))
+- [IA Ventures](http://www.iaventures.com/) - Early-stage venture capital firm.
+- [Cherry VC](https://www.cherry.vc/)
+- [Venture Capital - Silicon Valley Ponzi Scheme - Chamath Palihapitiya (2019)](https://www.youtube.com/watch?v=NVVsdlHslfI)
+- [Thrive Capital](http://thrivecap.com/) - Venture capital investment firm focused on internet and software investments.
+- [Hustle Fund](https://www.hustlefund.vc/)
+- [Bedrock](https://www.bedrockgroup.com/) - Global investment and advisory firm.
+- [How VC works - A Beginner's Guide (2020)](https://simplanations.substack.com/p/2-how-vc-works-a-beginners-guide) ([HN](https://news.ycombinator.com/item?id=23306572))
+- [A.Capital Ventures](https://acapital.com/)
+- [Founder Collective](https://www.foundercollective.com/)
+- [AirTree Ventures](https://www.airtree.vc/) - For Game-Changing Founders, First Round, Multiple Rounds. ([Links](https://linktr.ee/airtreevc))
+- [Examples of cold emails to VCs](https://twitter.com/paulbz/status/1271416616455192584)
+- [Cantos Ventures](http://cantos.vc/)
+- [Raising Money in Today's World (2020)](https://www.youtube.com/watch?v=SPpDJAo0n8g)
+- [Inovia Capital](https://www.inovia.vc/)
+- [Spark Capital](https://www.sparkcapital.com/)
+- [Pros and cons for raising VC money from WorldBrain perspective (2020)](https://twitter.com/BlackForestBoi/status/1252941374460243968)
+- [Shasta Ventures](https://shastaventures.com/)
+- [Accomplice](https://accomplice.co/) - Seed-led venture capital firm that embraces risk.
+- [Point Nine Capital](http://www.pointninecap.com/) - Berlin based Angel Venture Capital.
+- [The Venture Collective](https://www.theventurecollective.com/) - Empowering Founders Who Are Leaving a Legacy.
+- [Weekend Fund](https://weekend.fund/) - Early stage fund, backing your next favorite thing.
+- [Flybridge](https://www.flybridge.com/)
+- [Chapter One](https://chapterone.vc/) - Invest in early-stage startups who are passionate about the future of work, developer tools, and subscription businesses.
+- [Sahil Lavingia Rolling Fund](https://shl.vc/)
+- [Find a VC Job](http://vcjobs.kgbase.com/) ([HN](https://news.ycombinator.com/item?id=24072949))
+- [Raise less money (2020)](https://www.aaronkharris.com/raise-less-money) ([HN](https://news.ycombinator.com/item?id=24133146))
+- [Ludlow Ventures](https://www.ludlowventures.com/)
+- [Gelt VC](https://www.gelt.vc/)
+- [Babel Ventures](https://www.babel.ventures/)
+- [Pace Capital](https://www.pacecapital.com/)
+- [NEA](https://www.nea.com/)
+- [VC Guide](https://www.vcguide.co/) - Anonymous fund & investor partner reviews by founders for founders. ([HN](https://news.ycombinator.com/item?id=24491199))
+- [Atomico](https://www.atomico.com/) - European Venture Capital Firm.
+- [Alpha Bridge](https://www.alphabridge.vc/)
+- [Runa Capital](https://runacap.com/) - Global venture capital firm built by serial entrepreneurs that invests in early stage software startups.
+- [Mythos Capital](https://mythos.capital/) - Invest in crypto networks.
+- [Breaking into VC](https://breakinto.vc/)
+- [Pear VC](https://www.pear.vc/) - 0 to 1 Venture Capital partner.
+- [True Ventures](https://trueventures.com/)
+- [ARK Invest](https://ark-invest.com/)
+- [Placeholder](https://www.placeholder.vc/) - Venture capital firm that invests in open blockchain networks and Web3 services.
+- [Greylock Partners](https://greylock.com/) - Early partners of remarkable teams building companies that matter.
+- [Outlander Labs](https://www.outlanderlabs.com/) - Earliest investors in the best startups across the Southeast.
+- [Vista Equity Partners](https://www.vistaequitypartners.com/) - Market-Leading Investment Firm.
+- [Third Point](https://www.thirdpoint.com/)
+- [SV Angel](https://www.svangel.com/)
+- [Scrum Ventures](https://scrum.vc/)
+- [Baillie Gifford](https://www.bailliegifford.com/)
+- [Good Soil Investment](https://goodsoilinvestment.com/)
+- [Expa](https://expa.com/) - Network of entrepreneurs supporting founders through expertise, access & funding.
+- [Basis Set Ventures](https://www.basisset.ventures/) - Invests in early-stage technology companies.
+- [The Production Board](https://www.theproductionboard.com/) - Investment foundry focused on improving technologies in agriculture, food, and life sciences.
+- [Social Capital](https://www.socialcapital.com/)
+- [Spero Ventures](https://spero.vc/)
+- [Pace Capital](https://www.pacecapital.com/)
+- [Venture Capital Frameworks (2021)](https://docs.google.com/document/d/1-UiEeoiV0xBFVZgid63FRaph03OCmHzyEExubn63j0U/edit#) - Lessons learned, pattern matching, aphorisms, theories, and general worldview with respect to venture capital. ([Tweet](https://twitter.com/cpaik/status/1355641034726891521))
+- [Andreessen Horowitz](https://a16z.com/) - Venture capital firm in Silicon Valley, California.
+- [Abundant Capital (2021)](https://blog.aaronkharris.com/abundant-capital) ([HN](https://news.ycombinator.com/item?id=26226723))
+- [Distributed Capital (2021)](https://blog.aaronkharris.com/distributed-capital)
+- [If you could be an LP in any fund, what would it be? (2021)](https://twitter.com/austin_rief/status/1378378432384528385)
+- [FUSE](https://fuse.vc/) - Seattle Venture Capital.
+- [Founders' Co-op](https://www.founderscoop.com/) - Seattle Venture Capital.
+- [First Rays VC](https://www.firstraysvc.com/)
+- [Altair Capital](https://www.altair-cap.com/)
+- [Tango.vc](https://www.tango.vc/) - Venture capital fund investing in seed-stage ML and Robotics.
+- [OpenVC](https://www.openvc.app/) - All VC firms by thesis. Radically free and open. VC search engine.
+- [OS Fund](https://osfund.co/)
+- [Moxxie Ventures](https://www.moxxie.vc/)
+- [Bessemer Venture Partners](https://www.bvp.com/)
+- [chaotic.capital](https://chaotic.capital/)
+- [200+ Resources for Breaking into VC (2021)](https://gumroad.com/l/VC-resources)
+- [AngelList Venture](https://learn.angellist.com/) - Venture Education Center.
+- [Hyper](https://hyper.com/) - Early-stage venture firm inspired by the awesome community of makers and early adopters at Product Hunt. ([Article](https://www.producthunt.com/stories/product-hunt-meet-hyper))
+- [Unshackled Ventures](https://www.unshackledvc.com/) - Venture Fund for Immigrant Entrepreneurs.
+- [QiCapital](https://qicapital.org/) - Finding Gems in Crypto Space.
+- [Pillar VC](https://www.pillar.vc/)
+- [Petri VC](https://www.petri.bio/) - Bio + engineering capital, support, and connections.
+- [Is venture capital bad? (2021)](https://saas.transistor.fm/episodes/why-are-bootstrappers-hostile-towards-vcs)
+- [VCs are financing an economy of servants (2021)](https://sifted.eu/articles/servant-economy/) ([HN](https://news.ycombinator.com/item?id=28120173))
+- [Creandum](https://www.creandum.com/) - Leading European early-stage venture capital firm.
+- [New Layer Capital](https://www.newlayer.capital/) - Private investment firm that invests in cryptocurrencies, tokens, and blockchain companies.
+- [Calm Company Fund](https://calmfund.com/) - Ecosystem of founders and funders of profitable, sustainable, calm businesses. ([What We Invest In](https://calmfund.com/what-we-invest-in)) ([Tweet](https://twitter.com/tylertringas/status/1449425578436739072))
+- [Bowery Capital](https://bowerycap.com/) - Early-stage venture capital. ([Twitter](https://twitter.com/BoweryCapital))
+- [June Fund](https://june.fund/)
+- [The Sequoia Fund: Patient Capital for Building Enduring Companies (2021)](https://medium.com/sequoia-capital/the-sequoia-fund-patient-capital-for-building-enduring-companies-9ed7bcd6c7da) ([Tweet](https://twitter.com/sequoia/status/1452999422988718084)) ([HN](https://news.ycombinator.com/item?id=29000939))
+- [Variant](https://variant.fund/) - First-check crypto fund investing in the ownership economy. ([Twitter](https://twitter.com/variantfund)) ([Tweet](https://twitter.com/JasonYanowitz/status/1453435566666682374))
+- [Seven Seven Six](https://sevensevensix.com/) - Venture capital firm, founded by builders, built with software.
+- [An Engineer's View of Venture Capitalists (2001)](https://spectrum.ieee.org/an-engineers-view-of-venture-capitalists) ([HN](https://news.ycombinator.com/item?id=29187684))
+- [Tiger Global: How to Win (2021)](https://www.readthegeneralist.com/briefing/tiger-global) ([Tweet](https://twitter.com/mariogabriele/status/1459961594344050692))
+- [Long Journey Ventures](https://www.longjourney.vc/) - Early Stage Investing for the long-term. ([Twitter](https://twitter.com/LongJourneyVC)) ([Tweet](https://twitter.com/LeeJacobs/status/1460986903352602634))
+- [Five Books for Venture Capital (2022)](https://boyle.substack.com/p/five-books-for-venture-capital?r=22jxf&utm_campaign=post&utm_medium=web) ([Tweet](https://twitter.com/KTmBoyle/status/1479863375911915520))
+- [Ask Anything VC](https://www.askanything.vc/) - Search engine that only indexes VC blogs. ([Tweet](https://twitter.com/yoheinakajima/status/1489742685233582083))
+- [Vibe Capital](https://vibe.vc/) ([Tweet](https://twitter.com/ankurnagpal/status/1494862310044700675))
+- [Shrug VC](https://www.shrug.vc/)
+- [EU Micro VCs (2022)](https://twitter.com/matthewclifford/status/1496795340636368897)
+- [Sten Tamkivi](https://tamkivi.com/)
+- [Banana Capital](https://www.bananacapital.vc/) - Investing in global tech companies from pre-seed to pre-IPO. ([Twitter](https://twitter.com/BananaCap_))
+- [Voyager](https://www.voyagervc.com/) - Invests in early-stage climate technology companies creating the foundation of a decarbonized global economy. ([Twitter](https://twitter.com/VoyagerVC))
+- [Must reads in VC space (2022)](https://twitter.com/michellebkwok/status/1512445423364894726)
+- [a16z START](https://a16z.com/programs-a16z-start/) - Fuels founders at the earliest stages of company-building with 1:1 support, network introductions, and up to $1M in funding. ([Intro](https://a16z.com/2022/04/18/introducing-a6z-start/)) ([HN](https://news.ycombinator.com/item?id=31077047))
+- [The great VC pullback of 2022](https://mattturck.com/vcpullback/) ([HN](https://news.ycombinator.com/item?id=31202572))
+- [All In Syndicate](https://thesyndicate.com/allin)
+- [Day in the Life of a Hedge Fund Analyst](https://twitter.com/FabiusMercurius/status/1530596584789946369)

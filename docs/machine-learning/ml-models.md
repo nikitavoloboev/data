@@ -1,0 +1,100 @@
+# ML Models
+
+[Tangram](https://www.tangram.dev/), [PostgresML](https://github.com/postgresml/postgresml) & [ZenML](https://zenml.io/home) seem neat. Using [Cog](https://github.com/replicate/cog) to package ML models.
+
+## Links
+
+- [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures](https://github.com/astorfi/lip-reading-deeplearning)
+- [Cortex](https://github.com/cortexlabs/cortex) - API platform for machine learning engineers. ([Web](https://www.cortex.dev/))
+- [BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy. ([Docs](https://docs.bentoml.org/en/latest/))
+- [Lobe](https://lobe.ai/) - Helps you train machine learning models with a free, easy to use tool. ([Tweet](https://twitter.com/RamonGilabert/status/1320723711343923202)) ([HN](https://news.ycombinator.com/item?id=24944814))
+- [Algorithmia](https://algorithmia.com/) - Deploy Autoscaling ML Models using Serverless Microservices. ([GitHub](https://github.com/algorithmiaio))
+- [How to Deploy ML models with AWS Lambda (2020)](https://blog.verta.ai/blog/how-to-deploy-ml-models-with-aws-lambda)
+- [Verta](https://www.verta.ai/) - MLOps software supports model development, deployment, operations, monitoring.
+- [Guild AI](https://guild.ai/) - Experiment tracking, ML developer tools. ([Code](https://github.com/guildai/guildai))
+- [Neuralet](https://neuralet.com/) - Open-source platform for edge deep learning models on GPU, TPU, and more. ([Code](https://github.com/neuralet/neuralet))
+- [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
+- [What-If Tool](https://pair-code.github.io/what-if-tool/) - Visually probe the behavior of trained machine learning models, with minimal coding. ([Code](https://github.com/PAIR-code/what-if-tool))
+- [LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML) - Automatic model creation framework.
+- [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring. ([Web](https://evidentlyai.com/))
+- [MLCube](https://github.com/mlcommons/mlcube) - Project that reduces friction for machine learning by ensuring that models are easily portable and reproducible. ([Docs](https://mlcommons.github.io/mlcube/))
+- [Service Streamer](https://github.com/ShannonAI/service-streamer) - Boosting your Web Services of Deep Learning Applications.
+- [Shapash](https://github.com/MAIF/shapash) - Makes Machine Learning models transparent and understandable by everyone. ([Web](https://maif.github.io/shapash/)) ([HN](https://news.ycombinator.com/item?id=31710900))
+- [BudgetML: Deploy ML models on a budget](https://github.com/ebhy/budgetml) ([HN](https://news.ycombinator.com/item?id=25986346))
+- [Introducing Model Search: An Open Source Platform for Finding Optimal ML Models (2021)](https://ai.googleblog.com/2021/02/introducing-model-search-open-source.html)
+- [Model Search](https://github.com/google/model_search) - Framework that implements AutoML algorithms for model architecture search at scale.
+- [Embedding stores (2021)](https://nlathia.github.io/2021/03/Embeddings.html)
+- [Running ML models in a game (and in Wasm!) (2020)](https://vleue.com/2020/12/bevmnist/)
+- [Deep learning model compression (2021)](https://rachitsingh.com/deep-learning-model-compression/)
+- [ModelDB](https://github.com/VertaAI/modeldb) - Open Source ML Model Versioning, Metadata, and Experiment Management.
+- [Gradio](https://www.gradio.app/) - Generate an easy-to-use UI for your ML model, function, or API with only a few lines of code. ([Code](https://github.com/gradio-app/gradio))
+- [Awesome Model Quantization](https://github.com/htqin/awesome-model-quantization)
+- [Tracking the Performance of Your Machine Learning Models With MLflow (2021)](https://muttdata.ai/blog/2021/02/12/ml-flow.html)
+- [Counterfit](https://github.com/Azure/counterfit) - CLI that provides a generic automation layer for assessing the security of ML models.
+- [Convect](https://www.convect.ml/) - Instant Serverless Deployment of ML Models. ([HN](https://news.ycombinator.com/item?id=27303690))
+- [Using Argo to Train Predictive Models (2021)](https://flightaware.engineering/using-argo-to-train-predictive-models/) ([HN](https://news.ycombinator.com/item?id=27464445))
+- [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection. ([Docs](https://www.scikit-yb.org/en/latest/))
+- [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
+- [Tuning Model Performance (2021)](https://eng.uber.com/tuning-model-performance/)
+- [SHAP](https://github.com/slundberg/shap) - Game theoretic approach to explain the output of any machine learning model.
+- [Lazy Predict](https://github.com/shankarpandala/lazypredict) - Helps build a lot of basic models without much code and helps understand which models works better without any parameter tuning.
+- [How to Monitor Models (2020)](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)
+- [How to Serve Models (2020)](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/)
+- [StudioML](https://studio.ml/) - Python model management framework. ([Code](https://github.com/studioml/studio))
+- [MLapp](https://github.com/gurvindersingh/mlapp) - ML model serving app based on APIs.
+- [Machine Learning Hyperparameter Optimization with Argo (2021)](https://canvatechblog.com/machine-learning-hyperparameter-optimization-with-argo-a60d70b1fc8c)
+- [Snakepit](https://github.com/coqui-ai/snakepit) - Coqui's machine learning job scheduler.
+- [MLServer](https://github.com/SeldonIO/MLServer) - Inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more. ([Docs](https://mlserver.readthedocs.io/en/latest/))
+- [SpotML](https://www.spotml.io/) - Managed ML Training on Cheap AWS/GCP Spot Instances. ([HN](https://news.ycombinator.com/item?id=28738141))
+- [Mosaic ML](https://www.mosaicml.com/) - Making ML Training Efficient. ([Tweet](https://twitter.com/mattocko/status/1448492976045363200))
+- [RecoEdge](https://github.com/NimbleEdge/RecoEdge) - Deploy recommendation engines with Edge Computing.
+- [MLRun](https://github.com/mlrun/mlrun) - Open-Source MLOps Orchestration Framework.
+- [PrimeHub](https://github.com/InfuseAI/primehub) - Toil-free multi-tenancy machine learning platform in your Kubernetes cluster. ([Docs](https://docs.primehub.io/))
+- [MLeap](https://github.com/combust/mleap) - Deploy ML Pipelines to Production. ([Docs](https://combust.github.io/mleap-docs/))
+- [ServingMLFastCelery](https://github.com/jonathanreadshaw/ServingMLFastCelery) - Working example for serving a ML model using FastAPI and Celery.
+- [Cog](https://github.com/replicate/cog) - Containers for machine learning. ([HN](https://news.ycombinator.com/item?id=31105507)) ([Tweet](https://twitter.com/replicatehq/status/1516807943550873608))
+- [Explaining Machine Learning Models: A Non-Technical Guide to Interpreting SHAP Analyses (2021)](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
+- [Improving a Machine Learning System Is Hard (2021)](https://danshiebler.com/2021-11-06-ml-systems-1/)
+- [Removal-based explanations](https://github.com/iancovert/removal-explanations) - Lightweight implementation of removal-based explanations for ML models.
+- [Gordo](https://github.com/equinor/gordo) - Building thousands of models with timeseries data to monitor systems.
+- [Mosec](https://github.com/mosecorg/mosec) - Model Serving made Efficient in the Cloud.
+- [MLNotify](https://github.com/aporia-ai/mlnotify) - Add just 1 import line and MLNotify will let you know the second it's done.
+- [Build models like we build open-source software (2021)](https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html) ([HN](https://news.ycombinator.com/item?id=29487212))
+- [Deepchecks](https://github.com/deepchecks/deepchecks) - Python package for comprehensively validating your machine learning models and data with minimal effort.
+- [Auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer) - Automatic ML model optimization tool.
+- [runx](https://github.com/NVIDIA/runx) - Deep Learning Experiment Management.
+- [ML Console](https://mlconsole.com/) - Web app to train ML models, for free and client-side. ([HN](https://news.ycombinator.com/item?id=29716738))
+- [MMDeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework. ([Docs](https://mmdeploy.readthedocs.io/en/latest/))
+- [Wonnx](https://github.com/haixuanTao/wonnx) - Aimed at being an ONNX Provider for every GPU on all platforms written in 100% Rust.
+- [How to Build a Machine Learning Demo in 2022](https://nicjac.dev/posts/how-to-build-machine-learning-demo-in-2022/)
+- [Zetane Viewer](https://github.com/zetane/viewer) - ML models and internal tensors 3D visualizer.
+- [ONNX Model Zoo](https://github.com/onnx/models) - Collection of pre-trained, state-of-the-art models in the ONNX format.
+- [Model Zoo for MindSpore](https://github.com/mindspore-ai/models)
+- [Seldon](https://www.seldon.io/) - Machine Learning Deployment for Kubernetes. ([GitHub](https://github.com/SeldonIO))
+- [ORMB](https://github.com/kleveross/ormb) - Docker for Your ML/DL Models Based on OCI Artifacts.
+- [Spaces - Hugging Face](https://huggingface.co/spaces) ([Tweet](https://twitter.com/abidlabs/status/1505987504851197956))
+- [Nanit’s AI Development Process (2022)](https://engineering.nanit.com/nanits-ai-development-process-improve-your-model-quality-time-to-market-and-culture-b824cefcd75a)
+- [ailia SDK ML Models](https://github.com/axinc-ai/ailia-models)
+- [BentoML](https://www.bentoml.com/) - Simplify Model Deployment. ([GitHub](https://github.com/bentoml/))
+- [bentoctl](https://github.com/bentoml/bentoctl) - Fast model deployment with BentoML on cloud platforms.
+- [ModelCenter](https://github.com/OpenBMB/ModelCenter) - Efficient, Low-Resource, Distributed transformer implementation based on BMTrain.
+- [PostgresML](https://github.com/postgresml/postgresml) - End-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database. ([Web](https://postgresml.org/)) ([HN](https://news.ycombinator.com/item?id=31238396))
+- [UniLM AI](https://github.com/facebookresearch/data2vec_vision) - Pre-trained models across tasks (understanding, generation and translation), languages, and modalities.
+- [Domino](https://github.com/HazyResearch/domino) - Discover slices of data on which your models underperform.
+- [Merlin](https://github.com/gojek/merlin) - Kubernetes-friendly ML model management, deployment, and serving.
+- [Baseten](https://www.baseten.co/) - Build ML-powered applications. ([HN](https://news.ycombinator.com/item?id=31169193))
+- [Triton Inference Server](https://github.com/triton-inference-server/server) - Provides a cloud and edge inferencing solution optimized for both CPUs and GPUs.
+- [Feature Store](https://databricks.com/product/feature-store) - Feature store co-designed with a data platform and MLOps framework. ([Announcement](https://databricks.com/blog/2022/04/29/announcing-general-availability-of-databricks-feature-store.html))
+- [Auto-ViML](https://github.com/AutoViML/Auto_ViML) - Automatically Build Variant Interpretable ML models fast.
+- [Angel](https://github.com/Angel-ML/angel) - Flexible and Powerful Parameter Server for large-scale machine learning.
+- [Trainer](https://github.com/coqui-ai/Trainer) - General purpose model trainer, as flexible as it gets.
+- [onnxcustom](https://github.com/sdpython/onnxcustom) - Tutorial on how to convert machine learned models into ONNX.
+- [Vetiver](https://github.com/tidymodels/vetiver-python) - Version, share, deploy, and monitor models.
+- [Cloud TPU VMs are generally available (2022)](https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available) ([HN](https://news.ycombinator.com/item?id=31322379))
+- [NannyML](https://github.com/NannyML/nannyml) - Detecting silent model failure.
+- [Pydra - Pydantic and Hydra for configuration management of model training experiments (2022)](https://suneeta-mall.github.io/2022/03/15/hydra-pydantic-config-management-for-training-application.html)
+- [BlindAI](https://github.com/mithril-security/blindai) - Confidential AI inference server.
+- [Vertigo](https://vertigo.ai/) - AI for IoT & The Edge.
+- [Compair](https://github.com/rasbt/compair) - Model evaluation utilities.
+- [LightAutoML](https://github.com/sb-ai-lab/LightAutoML) - Fast and customizable framework for automatic ML model creation (AutoML).
+- [MLEM](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles. ([Web](https://mlem.ai/))

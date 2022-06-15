@@ -1,0 +1,386 @@
+# Startups
+
+> Take something that people do, and remove a step (or make that step very very easy). That's the key to a successful startup.
+
+> The best startup book is one you never open because you're too busy marketing and building your product.
+
+[YC Startup Directory](https://www.ycombinator.com/companies) is a nice thing to go over to get inspired for things to build.
+
+## Notes
+
+- [Put a price on it](https://www.youtube.com/watch?v=0CDXJ6bMkMY). And sell.
+- Another way to think about this, and the way we talk about this internally, is that we prefer to communicate through our products.
+- I wake up every morning and think about how I can put myself out of business. By that, I mean I think about every way another business can disrupt my profit margins and my current successes. By thinking about what they could do, I can do it myself and innovate my own business.
+- I need a higher level of certainty than investors do because my time is more valuable to me than their money is to them. Investors place bets in a portfolio of companies, but I only have one life.
+- The most important thing you can do is to get into an iteration cycle where you can measure the impact of your work, have a hypothesis about how making changes will affect those variables, and ship changes regularly. It doesn't even matter that much what the content is - it's the iteration of hypothesis, changes, and measurement that will make you better at a faster rate than anything else we have seen.
+- [Ask your users how they’d feel if they could no longer use your product. The group that answers ‘very disappointed’ will unlock product/market fit.](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
+- [When a startup launches, there have to be at least some users who really need what they're making — not just people who could see themselves using it one day, but who want it urgently. Usually this initial group of users is small, for the simple reason that if there were something that large numbers of people urgently needed and that could be built with the amount of effort a startup usually puts into a version one, it would probably already exist. Which means you have to compromise on one dimension: you can either build something a large number of people want a small amount, or something a small number of people want a large amount. Choose the latter. Not all ideas of that type are good startup ideas, but nearly all good startup ideas are of that type.](http://paulgraham.com/startupideas.html)
+- [In theory this sort of hill-climbing could get a startup into trouble. They could end up on a local maximum. But in practice that never happens. … The maxima in the space of startup ideas are not spiky and isolated. Most fairly good ideas are adjacent to even better ones.](http://www.paulgraham.com/growth.html)
+- [This batch of not disappointed users should not impact your product strategy in any way. They’ll request distracting features, present ill-fitting use cases and probably be very vocal, all before they churn out and leave you with a mangled, muddled roadmap. As surprising or painful as it may seem, don’t act on their feedback — it will lead you astray on your quest for product/market fit.](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
+  - Politely disregard those who would not be disappointed without your product. They are so far from loving you that they are essentially a lost cause.
+- [If you only double down on what users love, your product/market fit score won’t increase. If you only address what holds users back, your competition will likely overtake you.](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
+- To increase your product/market fit score, spend half your time doubling down on what users already love and the other half on addressing what’s holding others back.
+- [It is easier to ask for forgiveness than for permission.](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
+- [If you don’t have product-market fit, your startup is fucked. You probably don’t have it if: You aren’t growing. You have high churn. Your product is hard to sell. Customers don’t seem to care that much. Here are some simple steps to find product-market fit.](https://twitter.com/justinkan/status/1133822625090719744)
+- [Speed matters because frontier people like it and will go to the places where speed is possible. It maximizes their comparative advantage. If your field ceases to support speed, you’ll lose frontier people and stagnate.](https://marginalrevolution.com/marginalrevolution/2019/04/does-the-speed-of-production-matter.html)
+- [Under-valued skills of good startup founders: 1. Ability to create process 2. Writing clearly 3. Delaying gratification 4. Knowing when not to talk 5. Saying no to almost everything, but yes when it truly matters](https://mobile.twitter.com/AndyGCook/status/1134828886821416960)
+- [Things that founders often regret](https://twitter.com/lpolovets/status/1184628336124841984)
+- [Few founder superpowers: Knowing which questions to ask. Listening before talking. Speaking in analogies. Being able to take feedback. Uninterested in what competition is doing.](https://twitter.com/gregisenberg/status/1277287405008060416)
+- [The reason you don't see more startups in the hard sciences is not due to the lack of hybrid talent as this article surmises. It's because:](https://news.ycombinator.com/item?id=24208828)
+  1. VCs are reluctant to fund capital intensive startups that have time horizons for exits that are significantly longer than software based startups
+  2. The product lifecycle is so much longer, which makes it inherently much riskier. In many cases it can be years before you even get to the point where you can get real feedback on the business model.
+  3. There are often other considerations e.g. regulations or interactions with existing products, that are entirely outside of the control of the company that can significantly alter the likelihood of success.
+- [Produce an infoproduct (book, course, newsletter, etc) in domain X prior to a SaaS in domain X. Much quicker time to money. Gets your name out there and starts attracting happy customers. Teaches you business mechanics while paying you.](https://twitter.com/patio11/status/1301562880878239745)
+- [Startup advice:](https://twitter.com/gaganbiyani/status/1308062970057023489)
+  1. Focus. You're a small team; just do one thing well.
+  2. Weekly cadence. Build a growth team that meets weekly, instead of biweekly or quarterly.
+  3. Talk like your customer. Use their language, not yours.
+  4. Use less data. When you are small, obsessing over data is pointless.
+  5. Replace important debates with experiments and unimportant debates with decisions.
+- [Margins matter, even in the early days. \$24k/mo sounds good, but we never evaluated the COGS of this and how much it really cost us to produce our content. If we realized how low our margins were, we would have made many decisions differently. Watch your COGS.](https://twitter.com/Mat_Sherman/status/1313548708361859073)
+  - Don't hire people you don't have a absolute need for or people you don't know how to train. People are expensive, so if you hire them, make sure you have something for them to do, and you make sure they do it well. If either of those two are absent, you're wasting money.
+  - Your own emotional state will be thrusted onto your company whether you want it to or not. My emotions were the companies emotions. I should have had a wall, between what I felt and what people saw, but they were equal. This crushed the moral of the company, as well as my own.
+  - If things are too easy, look harder for problems. Business is not easy. It isn't meant to go smoothly. If it is, try to find the reason it's so easy, and give yourself reasons something could go wrong. Because, something always goes wrong eventually.
+  - Love what you do, and if you don't, be self aware. I didn't have a deep passion for PubLoft. Content was not my life's mission. We let Jason invest, and he wanted a huge outcome. but I knew pubLoft was not my life's work. Be self aware about this before you take money.
+  - Keep going. It's only a failure if I don't get back up and try again.
+- [The point of vesting is to exchange shares for value as the value in the form of work is provided over a period of time. In my company we just split all the shares evenly on day one with no vesting schedule.](https://news.ycombinator.com/item?id=25216709)
+- [If you launch and no one notices, launch again. We launched 3 times. - Brian Chesky](https://twitter.com/gregisenberg/status/1346628063983972353)
+- [Customer service is a big differentiator for a startup. Especially in the very beginning, when you have so few users that you can deliver extremely personalized service, and it's the CEO doing it.](https://twitter.com/SamGichuru/status/1376588000335962123)
+- [Product research is valuable, but if you can ship an MVP in the a similar time frame, do that instead. Real product data > everything else.](https://twitter.com/hemal/status/1382074186588332033)
+- [The faster a space is moving, the more you need to bet on the people than the product.](https://twitter.com/scottbelsky/status/1391437978401116166)
+- [Startups never get faster over time, only slower. Your accumulating advantages & inevitable success need to kick in before entropy swallows you.](https://twitter.com/petegilligan/status/1393361203485892610)
+- [Startups are awesome because even if you fail, you’ll still succeed by way of getting one of the best learning experiences of your life.](https://twitter.com/mckaywrigley/status/1395073768549015553)
+- [Clerky or Stripe Atlas are top choices to make LLC](https://twitter.com/hswolff/status/1397200309227855879)
+- [Startups should use their capital to eliminate risk. Pick the biggest problems and eliminate them one at a time.](https://twitter.com/JonErlichman/status/1399363160151318528)
+- [You are not your startup. Whatever happens to your startup will happen. But take care of yourself - you are important.](https://twitter.com/dunkhippo33/status/1399811072035418113)
+- [The public is never wrong. When people don't respond to what you do, they're telling you something loud and clear. You're just not listening.](https://twitter.com/jackbutcher/status/1399783270062174210)
+- [You do everything differently when you're an owner.](https://twitter.com/jackbutcher/status/1399571975459246082)
+- [The market you’re in will determine most of your growth.](https://www.reddit.com/r/SaaS/comments/nrjsao/im_40_years_old_and_i_finally_bootstrapped_a_saas/)
+- [Startup founders should prioritize mental health over 'growth at all costs'.](https://twitter.com/mkhundmiri/status/1407956908863115268)
+- [Two key areas to optimize for efficient SAAS: 1. Self service. 2. Managed hosting.](https://twitter.com/maccaw/status/1414970646342340623)
+- [Much of a startup's success comes down to distribution. If an investor can give you money AND distribution.... that's super compelling.](https://twitter.com/maccaw/status/1417473520867680264)
+- [Letting people go sucks but it’s part of the job for startup founders. Always show respect here. While it may not feel like it at the time it’s almost always better for both parties. Every employee I’ve ever let go moved onto a new role where they were more suited to succeed.](https://twitter.com/agazdecki/status/1417968015736332289)
+- [Work very hard but sustainably with as little stress as possible.](https://twitter.com/flybayer/status/1419280525425061890)
+- [B2B startup: its better to build for self-service from day 0. a) Forces you to make UX intuitive. b) Allows you to get bottoms up growth. c) You can access lower ACV use cases. Its harder than it seems to build out self-service post launch when you have live user demands.](https://twitter.com/immad/status/1421593560965656581)
+- [MVP should be usable (functional and reliable).](https://twitter.com/visakanv/status/536346231472013312)
+- [Starting a company is just taking something that used to annoy you every once in a while and spending every waking minute thinking about it.](https://twitter.com/gkoberger/status/1428138994294874115)
+- [Does this get better or worse as more people use it? Better? You're building a product. Worse? You're building a service.](https://twitter.com/Austen/status/1445610785388982277)
+- [Do whatever you think is right; if you end up successful you were right. Everything else are just opinions, ideas or noise. Take them, use them, ignore them. Your choice. You will only win in your own way.](https://twitter.com/andreasklinger/status/1449394745545998350)
+- [The longer you’re in the startup game the more you realize how big the gulf is between people who talk and people who execute.](https://twitter.com/yongfook/status/1449363950898876419)
+- [When a business model is well understood, we should be able to spend our time on what drives the metrics, not what they are.](https://twitter.com/evancharles/status/1450156809528889346)
+- [Startup ideas framework: What do you want that money can't buy?](https://twitter.com/maksim_s/status/1453818810851487771)
+- [Jeff Bezos’ advice for startups on how to spend their money: Pick the biggest problems and eliminate them one at a time.](https://twitter.com/JonErlichman/status/1454841337728090114)
+- [One excellent use for competitors: send your horrible prospective customers to them. When people ask me again and again (rudely) for a discount, after establishing we are not a good fit, I list out a bunch of Bannerbear competitors and tell them to take a look. Having awful customers is like death by a thousand cuts. Don’t tolerate abusive or passive aggressive BS in your customer support. Life is too short!](https://twitter.com/yongfook/status/1428356724528795657)
+- [Most impactful product advice: use your own product.](https://twitter.com/steren/status/1461573175733481473)
+- [Go slow until you have a great product. Then go fast. The economic efficiency gains from a great product compound everywhere. If you go fast too early, you will fail. Once you have nailed product, go so fast that it scares everyone. If you don’t go fast enough, you will fail.](https://twitter.com/laserlikemike/status/1458796718947024898)
+- [If you don’t have the right founders at the start, you’re dead. If you do and you doubt them when things get hard, you’re dead. Work with founders in which you have absolute faith and then back them no matter what — win or die, together.](https://twitter.com/laserlikemike/status/1474013084574306304)
+- [If you're not embarrassed by the first version of your product, you've launched too late.](https://news.ycombinator.com/item?id=30589374)
+- [Many young companies are slow/late to implement regular performance reviews - I always recommend they do sooner vs later.](https://twitter.com/Farshchi/status/1521124687375347713)
+- [Success in startups is directly proportional to the number of hard conversations you are willing to have.](https://twitter.com/davemorin/status/1528046691068170240)
+- [Many aspiring entrepreneurs get stuck trying to invent a new product to sell. It's a trap. 99.9% of successful businesses sell an established product in a new way.](https://twitter.com/mikebeckhamsm/status/1529660253692129280)
+
+## Links
+
+- [Stripe Atlas](https://stripe.com/atlas) - Everything you need to start an internet business.
+- [Think about Equity](http://foundersatwork.posthaven.com/think-about-equity)
+- [Index](https://index.co/) - Connecting startups, corporate brands, and investors.
+- [Startup Resources](http://startupresources.io) - Tightly curated lists of the best startup tools.
+- [Autopsy](http://autopsy.io) - Lessons Learned from Failed Tech Startups.
+- [Let's Crunch It](https://www.letscrunchit.com/) - Powerful, interactive calculators and planners.
+- [Startup Tracker](https://startuptracker.io/)
+- [Places to post your startup](https://github.com/mmccaff/PlacesToPostYourStartup)
+- [Guy Kawasaki: The Top 10 Mistakes of Entrepreneurs](https://www.youtube.com/watch?v=HHjgK6p4nrw)
+- [Ines Montani - How to Ignore Most Startup Advice and Build a Decent Software Business (2018)](https://www.youtube.com/watch?v=74AsJ7RET20)
+- [Run less software](https://www.intercom.com/blog/run-less-software/)
+- [Robert Vis (MessageBird): Bootstrapped & Profitable (2017)](https://www.youtube.com/watch?v=dxArUeYVaJQ)
+- [The Greatest Sales Deck I’ve Ever Seen (2016)](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
+- [Reflections from the last 2 years as a founder (2018)](https://canny.io/blog/reflections-two-year-founder/)
+- [Building our startup as digital nomads (2017)](https://canny.io/blog/building-startup-digital-nomads/)
+- [Tech Choices I Regret at Spectrum (2019)](https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/) ([HN](https://news.ycombinator.com/item?id=18924724))
+- [How Superhuman Built an Engine to Find Product/Market Fit (2018)](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
+  1. Segment to find your supporters and paint a picture of your high-expectation customers.
+  2. Analyze feedback to convert on-the-fence users into fanatics.
+  3. Build your roadmap by doubling down on what users love and addressing what holds others back.
+  4. Repeat the process and make the product/market fit score the most important metric.
+- [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7) ([HN](https://news.ycombinator.com/item?id=19105733))
+- [Startup CEO Reading List](https://github.com/AndySparks/captains-log/blob/master/resources/reading-lists/startup-ceo-reading-list.md)
+- [Steve Jobs on Apple Customer Experience and Innovation](https://www.youtube.com/watch?v=1SIeTmORl0E)
+- [Own the Demand (2018)](https://florentcrivello.com/index.php/2018/10/22/own-the-demand/)
+- [Blitzscaling with Microsoft CEO Satya Nadella and Greylock Partner Reid Hoffman (2018)](https://www.youtube.com/watch?v=HvO9G4h5vsc)
+- [Y Combinator Resources for Developers](http://ycombinator.dev/)
+- [Inside Apple's Factory: Software Design in the Age of Steve Jobs (2019)](https://www.youtube.com/watch?v=kl2Flp4oK-g)
+- [Ask HN: Pros and cons of working at a startup in 2019?](https://news.ycombinator.com/item?id=19236487)
+- [Cup & Leaf Cafe pt. 1: Why Would I Open a Cafe?](https://www.nateliason.com/blog/cup-leaf-cafe-1)
+- [Bell Curve](https://www.bellcurve.com/#what-we-offer) - Growth marketing agency.
+- [Awesome Indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money.
+- [How to start a startup: Lecture 10 - Culture (Brian Chesky, Alfred Lin)](https://www.youtube.com/watch?v=RfWgVWGEuGE)
+- [A Brief History Of Spotify: Gustav Söderström (2019)](https://www.youtube.com/watch?v=jTM7ZCKEUGM)
+- [Awesome Startup Resources](https://github.com/ahmadnassri/awesome-startup-resources)
+- [Debugging Your Startup: What to Do When Things Aren’t Working (2019)](https://www.atrium.co/blog/debugging-your-startup/)
+- [Does the speed of production matter?](https://marginalrevolution.com/marginalrevolution/2019/04/does-the-speed-of-production-matter.html)
+- [Carta](https://carta.com/) - Helps private companies, public companies, and investors manage their cap tables, valuations, investments, and equity plans.
+- [Establishing a company in Estonia](https://investinestonia.com/business-in-estonia/establishing-company/)
+- [B-corporation](https://bcorporation.net/) - Certified B Corporations are a new kind of business that balances purpose and profit.
+- [Why startups are hard — the math of venture capital returns tells the story](https://andrewchen.co/venture-capital-returns/)
+- [Ask HN: Starting Your Own LLC? (2019)](https://news.ycombinator.com/item?id=20009534)
+- [Stack on a budget (Free Tier Driven Development FTDD)](https://github.com/255kb/stack-on-a-budget) ([HN](https://news.ycombinator.com/item?id=27022075))
+- [Startup idea checklist (2019)](https://www.defmacro.org/2019/03/26/startup-checklist.html) ([HN](https://news.ycombinator.com/item?id=20254057))
+- [We Don’t Sell Saddles Here (2014)](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
+- [Monzo Business Accounts](https://monzo.com/business/)
+- [Big companies v. startups](https://danluu.com/startup-tradeoffs/)
+- [Ask HN: Best free compute and other resources for startups? (2019)](https://news.ycombinator.com/item?id=20225118)
+- [Founder Dating Ritual](https://github.com/rickyyean/founder-dating-ritual)
+- [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
+- [So much of what is written about growth is noise. Here are ten of the concepts I find myself coming back to over and over again (2019)](https://twitter.com/danhockenmaier/status/1145416117667500032)
+- [Netlify's culture & values](https://github.com/netlify/culture-handbook)
+- [Atrium](https://www.atrium.co/) - Better law firm for startups.
+- ["Facilitating Technology Change Through Cultural Change" by Grant Maki (2018)](https://www.youtube.com/watch?v=5WVXCy1Q88o)
+- [Kevin Systrom — Tactics, Books, and the Path to a Billion Users (2019)](https://www.youtube.com/watch?v=5x912QLs5uY)
+- [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite (2019)](https://firstround.com/review/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite/)
+- [GitLab Team Handbook](https://about.gitlab.com/handbook/) ([HN](https://news.ycombinator.com/item?id=31270407))
+- [Ask HN: How did your startup change after an exit? (2019)](https://news.ycombinator.com/item?id=21235776)
+- [Notion: Breakout Jobs Memo #1 (2019)](https://medium.com/the-spectrum/notion-breakout-jobs-memo-1-8ca346f97242)
+- [Ask HN: Successful one-person online businesses? (2019)](https://news.ycombinator.com/item?id=21332072)
+- [Founder Rewind](https://founderrewind.com/) - “Early Days” Interviews from World-Class Leaders.
+- [Data-Driven Approach to Uncover the Secrets of Billion Dollar Startups (2018)](https://medium.com/@alitamaseb/land-of-the-super-founders-a-data-driven-approach-to-uncover-the-secrets-of-billion-dollar-a69ebe3f0f45)
+- [The Holloway Syllabus on Company Culture](https://www.holloway.com/s/syllabus-company-culture)
+- [Sequencing Business Models: Can That SAAS Business Turn Into a Marketplace? (2019)](https://caseyaccidental.com/saas-marketplace/)
+- [Equity Compensation Guide](https://www.holloway.com/g/equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference. ([HN](https://news.ycombinator.com/item?id=22373906)) ([HN 2](https://news.ycombinator.com/item?id=10880726)) ([Code](https://github.com/jlevy/og-equity-compensation))
+- [Kevin Systrom and Mike Krieger – How to Build a Great Product (2019)](https://overcast.fm/+Lzu3n3SHk)
+- [What skills do founders find most crucial for running their businesses? (2019)](https://www.indiehackers.com/post/what-skills-do-founders-find-most-crucial-for-running-their-businesses-e95d99d9ff) ([HN](https://news.ycombinator.com/item?id=21587194))
+- [Our Startup Handbook](https://versionone.vc/startup-handbook/) ([HN](https://news.ycombinator.com/item?id=21641114))
+- [Ask HN: Quitting Big Tech, what is it like? (2019)](https://news.ycombinator.com/item?id=21645117)
+- [Road to Scale](https://roadtoscale.com/) - Curated knowledge library for every stage of your startup journey. From idea to scaling up.
+- [Startups and Uncertainty (2019)](http://reactionwheel.net/2019/11/startups-and-uncertainty.html)
+- [Starter Story](https://www.starterstory.com/) - Learn how people are starting successful businesses.
+- [The 24 Hour Startup Challenge](https://24hrstartup.com/)
+- [The Holloway Syllabus on Finding a Co-Founder](https://www.holloway.com/s/syllabus-finding-cofounder)
+- [How big companies got their first users](https://earlyusergrowth.com/startups/)
+- [Operations and Internal Communication Strategies For Effective CEOs (2019)](https://www.sametab.com/blog/operations-and-internal-communication-strategies-for-effective-ceos) ([HN](https://news.ycombinator.com/item?id=21742739))
+- [Knowing how to code is a trap (2019)](https://bramkanstein.com/codertrap/)
+- [Half of what separates successful entrepreneurs from non-successful ones is pure perseverance - Steve Jobs](https://twitter.com/JonErlichman/status/1206239739063537666)
+- [Working for a startup makes less sense (2019)](https://zainamro.com/notes/working-for-a-startup-makes-less-sense) ([HN](https://news.ycombinator.com/item?id=21868022))
+- [HN: Downsides to working at a tech giant (2019)](https://news.ycombinator.com/item?id=21865065)
+- [Ask HN: Which is the most successful one-person business you heard of in 2019?](https://news.ycombinator.com/item?id=21908577)
+- [Worker-in-the-loop Retrospective](https://akilian.com/2019/12/30/worker-in-the-loop-retrospective)
+- [My top essays/tweetstorms in 2019 on product/market fit, investing, KPIs, YouTubers, and more](https://andrewchen.co/top-essays-tweets-2019/)
+- [My Startup Name](https://mystartupname.com/) - Free and simple framework to name your next project, startup or business.
+- [Why Customer Network is the next big thing that every startup needs to master](https://alexiskold.net/2020/01/11/why-customer-network-is-the-next-big-thing-that-every-startup-needs-to-master/)
+- [Good businesses have margin (2020)](https://justinjackson.ca/margin)
+- [Haters (2020)](http://paulgraham.com/fh.html) ([HN](https://news.ycombinator.com/item?id=22018599))
+- [How startups can grow through a combination of optimization and innovation (4 parts)](https://andyjohns.co/part-1-a-single-minded-perspective-on-growth/)
+- [Work Is Work (2020)](https://codahale.com//work-is-work/)
+- [Your first 90 days as CTO or VP Engineering (2020)](https://lethain.com/first-ninety-days-cto-vpe/)
+- [Working for someone vs. doing your own thing (2020)](https://tik.dev/dilemma) ([HN](https://news.ycombinator.com/item?id=22048655))
+- [Startup Stash](https://startupstash.com/) - Curated directory of tools and resources to build your startup.
+- [Become an Indie Hacker](https://www.indiehackers.com/start)
+- [My Second Year as a Solo Developer (2020)](https://mtlynch.io/solo-developer-year-2/) ([HN](https://news.ycombinator.com/item?id=22201337))
+- [Company Memos list](https://sriramk.com/memos)
+- [The Next Feature Fallacy: The fallacy that the next new feature will suddenly make people use your product](https://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/)
+- [Notes on Paul Graham essays](https://docs.google.com/document/d/1QBW9b1j_j03ZCIrW5ZdBZEc5a1NrONOdKgEn9HnQxEU/edit)
+- [How I Built a Markdown Editor Earning \$1300/mo Profit — Inkdrop (2020)](https://dev.to/craftzdog/how-i-built-a-markdown-editor-earning-1300-mo-profit-inkdrop-4l6f)
+- [12 Signs You’re Working in a Feature Factory (2016)](https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory) ([HN](https://news.ycombinator.com/item?id=22335738))
+- [Ask HN: Monetize side project without registering a business? (2020)](https://news.ycombinator.com/item?id=22374360)
+- [YC Startup Resources](https://www.ycombinator.com/resources/)
+- [Ask HN: How to Do a Startup in 2020?](https://news.ycombinator.com/item?id=22375567)
+- [Hard Startups (2020)](https://blog.samaltman.com/hard-startups) ([HN](https://news.ycombinator.com/item?id=22425745))
+- [YC Startup Directory](https://www.ycombinator.com/companies/)
+- [Failory](https://www.failory.com/) - Content to help you build a profitable startup. ([Y Combinator Failed Startups](https://www.failory.com/blog/y-combinator-failures)) ([HN](https://news.ycombinator.com/item?id=24733189))
+- [You don’t need to work on hard problems (2020)](https://www.benkuhn.net/hard/) ([HN](https://news.ycombinator.com/item?id=22398118)) ([HN](https://news.ycombinator.com/item?id=28206991))
+- [Free Resources for Indie SaaS Devs](https://blog.saasify.sh/indie-saas-resources/)
+- [Founder's Guide to Building a Developer Tools Business](https://manifold.co/blog/founders-guide-developer-tools-sell-to-engineers) ([HN](https://news.ycombinator.com/item?id=21511411))
+- [How to be an Effective Executive](http://delian.io/lessons-3)
+- [Planning and Managing Layoffs (2020)](https://a16z.com/2020/03/31/planning-and-managing-layoffs/)
+- [How To Keep Your Company Alive – Observe, Orient, Decide and Act (2020)](https://steveblank.com/2020/04/01/the-ceo-playbook-for-keeping-your-company-alive/) ([HN](https://news.ycombinator.com/item?id=22756964))
+- [High Growth Handbook](http://growth.eladgil.com/)
+- [Wardley maps](https://medium.com/wardleymaps) - Topographical intelligence in business. ([As Book](https://github.com/andrewharmellaw/wardley-maps-book))
+- [Founder's Field Guide for Navigating Crisis (2020)](https://firstround.com/review/the-founders-field-guide-for-navigating-this-crisis-advice-from-recession-era-leaders-investors-and-ceos-currently-at-the-helm/) ([HN](https://news.ycombinator.com/item?id=22826354))
+- [Seven tough lessons from ten years in bootstrapped business (2018)](https://likewise.am/2018/12/01/seven-tough-lessons-from-ten-years-in-bootstrapped-business/)
+- [Forward Thinking Founders](https://forwardthinking.substack.com/)
+- [Startup Ideas (2019)](https://brndn.io/blog/2019/12/02/startup-ideas/)
+- [Emotional debt in startups](https://leowid.com/a-startup-debt-to-talk-about-more-emotional-debt/) ([HN](https://news.ycombinator.com/item?id=22875923))
+- [Term sheets explained](https://twitter.com/paigefinnn/status/1255208492312358912)
+- [Ask HN: Learning the business-side of things as a developer? (2020)](https://news.ycombinator.com/item?id=23050717)
+- [How to sell a B2B product (2020)](https://calv.info/how-to-sell-b2b) ([HN](https://news.ycombinator.com/item?id=23052001))
+- [Funnels for Startups: A Primer](https://www.startuphacks.vc/blog/2017/02/03/funnels-for-startups-a-primer)
+- [Startup financial models – Templates compared for SaaS (2020)](https://www.stephnass.com/blog/startup-financial-model) ([HN](https://news.ycombinator.com/item?id=23061796))
+- [Canny: How They Built A Startup While Traveling (\$500,000 / year in revenue) (2019)](https://www.youtube.com/watch?v=5W3oTG3F-Dw)
+- [Immigrant Founders](https://immigrantfounders.com/) ([Twitter](https://twitter.com/albertoarenaza/status/1258748180688232451))
+- [Surprising Things About Working at Well-Known Tech Unicorns (2020)](https://blog.pragmaticengineer.com/surprising-things-about-working-at-tech-unicorns/)
+- [Starting a company in Norway (2020)](https://eon.codes/blog/2020/04/07/Starting-a-company-in-norway/)
+- [Markets Are 10X Bigger Than Ever (2019)](http://blog.eladgil.com/2019/05/markets-are-10x-bigger-than-ever.html)
+- [Patio11's Law: The software economy is bigger than you think (2020)](https://secondbreakfast.co/patio11-s-law) ([HN](https://news.ycombinator.com/item?id=23162651))
+- [Startups, Write Changelogs (2020)](https://medium.com/linear-app/startups-write-changelogs-c6a1d2ff4820)
+- [Habits of High-Functioning Teams (2020)](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html) ([HN](https://news.ycombinator.com/item?id=23290943))
+- [Start House](https://starthouse.xyz/) - 600+ decks from the world's best startups. ([HN](https://news.ycombinator.com/item?id=23305196))
+- [Nobody talks about failure in Silicon Valley, yet 90% of startups fail. Story about failed startup (2020)](https://twitter.com/gaganbiyani/status/1265755248922157066)
+- [I wrote a SaaS product because the internet made me believe it'd make me rich (2020)](https://blog.stetsonblake.com/thoughts-on-learning-to-design-build-and-launch-a-saas-business/) ([HN](https://news.ycombinator.com/item?id=23343794))
+- [What is Aggregation Theory?](https://stratechery.com/aggregation-theory/)
+- [Maciej Ceglowski - Barely succeed! It's easier! (2013)](https://www.youtube.com/watch?v=5Vt8zqhHe_c)
+- [Satchel](https://satchel.com/) - Write SaaS buying guides. Test products in different SaaS categories, write reports about our findings, and then try to identify the best product for a typical early-stage startup.
+- [Better Wiki](https://www.notion.so/Better-Wiki-c9cb3d3509a64743ac85f9c192ab4ce1) - Curated directory of best practices from great companies.
+- [Ask HN: How bad should the code be in a startup? (2020)](https://news.ycombinator.com/item?id=23446627)
+- [Ask HN: Moving from a startup to a big co, what should I be aware of? (2020)](https://news.ycombinator.com/item?id=23455415)
+- [Co-Founder Expectations (2019)](https://tamplin.net/posts/cofounder-expectations/)
+- [How to design a product that can grow itself 10x in year (2020)](https://twitter.com/mikaelcho/status/1270743622619717632)
+- [Startup School](https://www.startupschool.org/library) - The Best Resource for Founders.
+- [Startup School for Future Founders](https://www.startupschool.org/future-founders) - Free, 6-week online course for aspiring startup founders.
+- [I quit my job at the start of the pandemic to launch a company. Here’s what I’ve learned in the first 90 days. (2020)](https://theprofile.substack.com/p/i-quit-my-job-at-the-start-of-the)
+- [Reflections on Being a Female Founder (2020)](https://tracy.posthaven.com/reflections-on-being-a-female-founder) ([HN](https://news.ycombinator.com/item?id=23602100))
+- [Conviction (2020)](https://medium.com/lux-capital/conviction-68b91ea64d0d) ([Tweet](https://twitter.com/peterjhebert/status/1276215060319203328))
+- [Mercury](https://mercury.com/) - Banking built for startups. ([GitHub](https://github.com/MercuryTechnologies))
+- [Ask HN: Best Bank for Startups? (2020)](https://news.ycombinator.com/item?id=23682511)
+- [Steve Blank Startup Tools](https://steveblank.com/tools-and-blogs-for-entrepreneurs/)
+- [Free Startup Resources](https://github.com/jasonnoahchoi/awesome-free-startup-resources)
+- [Awesome Startup](https://github.com/KrishMunot/awesome-startup) - Curated list of awesome books, videos, courses and resources about making a startup.
+- [The Entrepreneur's Roadmap - From Concept to IPO](https://www.nyse.com/entrepreneur)
+- [Notes on tech strategy](https://sriramk.com/strategy)
+- [Product Club](https://chapterone.vc/product-club/) - Product mentorship program for early-stage startups.
+- [Two Years to Make \$10 in Software Revenue (2020)](https://www.beamjobs.com/startups/2-years-to-make-10-dollars-in-software-revenue) ([HN](https://news.ycombinator.com/item?id=23791369))
+- [Startup canon](https://danromero.org/canon.html) - Reading list for people looking to make the jump into startups. ([Tweet](https://twitter.com/dwr/status/1224400041013432320))
+- [Starting a Company is Less Risky Than You Think (2020)](https://eriktorenberg.substack.com/p/starting-a-company-is-less-risky)
+- [Ask HN: Starting a SaaS business as non-technical founder (2020)](https://news.ycombinator.com/item?id=24021128)
+- [Ask HN: What are the least competitive consumer and enterprise markets? (2020)](https://news.ycombinator.com/item?id=24066842)
+- [YC Startup Library](https://www.ycombinator.com/library) ([HN](https://news.ycombinator.com/item?id=24072970))
+- [Anti-A/B-Test Framework](https://twitter.com/louisnicholls_/status/1279455083160391681)
+- [Start Small, Stay Small book notes](https://sive.rs/book/StartSmallStaySmall)
+- [10 Tips for Startup Founders (2020)](https://medium.com/@sophiaedm/10-tips-for-startup-founders-d6ed1c1a2d94)
+- [How to turn an important spreadsheet into a SaaS business (2020)](https://twitter.com/Tawheed/status/1294095453680795648)
+- [Top company flywheels](https://twitter.com/lennysan/status/1295743085243060224)
+- [How Uber grew so quickly (2020)](https://twitter.com/sgorlick/status/1295398477644664832)
+- [How to think about building a business from things like dev tools or OSS projects](https://twitter.com/jasoncwarner/status/1294641696257585152)
+- [Persisting as a solo founder (2020)](https://vishnu.tech/posts/persistence/) ([HN](https://news.ycombinator.com/item?id=24251403))
+- [How to Disrupt Network Effects. Making networks redundant is one way to (2020)](https://medium.com/breadcrumb/how-to-disrupt-network-effects-aeeb105c82b1)
+- [How to Create a Good Name for Your Business (2020)](https://toolbox.humandeluxe.com/good-business-name/)
+- [Trends.vc](https://join.trends.vc/#thanks) - Discover new markets and ideas. ([Join](https://join.trends.vc/))
+- [OKR Example Directory](https://soapboxhq.com/goal-examples) - Library of role-specific and personal development goal examples to inspire your employees.
+- [TLDW](https://usetldw.video/home.html) - Search inside of videos from YC, VCs and established founders. ([HN](https://news.ycombinator.com/item?id=24457893))
+- [The Sweaty Startup](https://sweatystartup.com/) - Resource for Entrepreneurs.
+- [Peter Thiel’s Stanford course notes (2012)](https://blakemasters.com/peter-thiels-cs183-startup)
+- [Stripe Atlas: Guide to Software as a Service, as a business (2020)](https://stripe.com/en-nl/atlas/guides/business-of-saas)
+- [MakeHub](https://makehub.io/) - Discover bootstrapped startups.
+- [Resources on product-market fit (2020)](https://www.indiehackers.com/post/any-resources-on-product-market-fit-10af7cca2b)
+- [Clearest sign of finding product-market fit is feeling "pull" from the market. How does it look like?](https://twitter.com/lennysan/status/1311350222883139584)
+- [How we built a \$1m ARR SaaS startup – Canny (2020)](https://canny.io/blog/how-we-built-a-1m-arr-saas-startup/) ([Tweet TLDR](https://twitter.com/sarahhum/status/1311364411702075394)) ([HN](https://news.ycombinator.com/item?id=24689339))
+- [FundedVentures](https://fundedventures.com/freeleads.html) - List of startups that just got funded.
+- [Jobs, Wozniak, Cook (Build, Sell, Scale) (2020)](http://blog.eladgil.com/2020/10/jobs-wozniak-cook-build-sell-scale.html)
+- [Boring Startup Stuff](https://boringstartupstuff.com/) - Kinda like a Harvard MBA sent weekly to your inbox.
+- [Forward Thinking City](https://www.forwardthinking.city/) - Experience the serendipity of the bay area, simply by opening up your computer.
+- [Capbase](https://capbase.com/) - Streamlines and automates many parts of your business, freeing up your time and capital to focus on growing your startup.
+- [Breaking down business models one flywheel at a time (2020)](https://theflywheel.substack.com/p/coming-soon)
+- [Zero to One: the book that built the future (2020)](https://www.blog.yesdelft.com/post/zero-to-one-the-book-that-built-the-future)
+- [Typical problems of technical founders (2018)](https://qotoqot.com/blog/blind-spots/)
+- [What you should know as a founder of a software company (2017)](https://qotoqot.com/blog/founder-skills/) ([HN](https://news.ycombinator.com/item?id=15512592))
+- [SaaS Manual](https://saasmanual.com/) - Learn how to build "Software as a Service" products from scratch.
+- [Founder Library](https://www.founderlibrary.com/) - Learning portal packed with hundreds of resources to help startup founders go further faster.
+- [I sold Baremetrics (2020)](https://baremetrics.com/blog/i-sold-baremetrics) ([HN](https://news.ycombinator.com/item?id=25045325)) ([Tweet](https://twitter.com/Shpigford/status/1326153473956716544))
+- [Awesome YCombinator](https://github.com/PolymerSearch/awesome-ycombinator) - Resources for maximizing your startup and business success.
+- [Finances needed to indie (2020)](https://twitter.com/yongfook/status/1328158466645475328) ([Tweet 2](https://twitter.com/shpigford/status/1328162960586452992))
+- [How to Name Startups (2020)](https://atay.me/posts/how-to-name-startups/)
+- [MicroConf](https://microconf.com/) - Trusted Community for Non-Venture Track SaaS Founders.
+- [Awesome Startup Deals](https://github.com/startupdeals/startupdeals)
+- [Practical Tips for IndieHackers (2020)](https://twitter.com/PierreDeWulf/status/1329765202095575041)
+- [Thread of successful founder stories](https://twitter.com/Mat_Sherman/status/1269439154284191744)
+- [That Startup Book](https://thatstartupbook.com/)
+- [My First Micro-SaaS, From 0–10 Customers (2018)](https://blog.rchase.com/my-first-saas-from-0-10-customers/) ([Tweet](https://twitter.com/_rchase_/status/1334647419003412484))
+- [Lessons for Early Stage Founders (2020)](https://calv.info/early-stage-lessons) ([HN](https://news.ycombinator.com/item?id=25321667))
+- [The Hardest Lessons for Startups to Learn (2006)](http://www.paulgraham.com/startuplessons.html)
+- [Startup Stock Options – Why A Good Deal Has Gone Bad (2019)](https://steveblank.com/2019/04/10/startup-stock-options-why-a-good-deal-has-gone-bad/)
+- [Founders of VC backed startups, are you genuinely happy? (2020)](https://www.reddit.com/r/startups/comments/khng2j/founders_of_vc_backed_startups_are_you_genuinely/)
+- [Ask HN: Is frugality underrated in startups? (2021)](https://news.ycombinator.com/item?id=25809852)
+- [The Minimalist Entrepreneur](https://sahillavingia.com/course) - Four-week cohort-based course.
+- [Startups with Extended Exercise Windows](https://github.com/holman/extended-exercise-windows)
+- [Linear: Building at the early stage. (2021)](https://medium.com/linear-app/building-at-the-early-stage-e79e696341db)
+- [My 2 Year Journey to $10K MRR (2021)](https://www.bannerbear.com/journey-to-10k-mrr/) ([HN](https://news.ycombinator.com/item?id=25929259))
+- [50 Questions to Find a Co-Founder and a Startup Idea](https://firstround.com/review/the-founder-dating-playbook-heres-the-process-i-used-to-find-my-co-founder/)
+- [The Relentless Jeff Bezos (2021)](https://stratechery.com/2021/the-relentless-jeff-bezos/) ([HN](https://news.ycombinator.com/item?id=26013953))
+- [8 things startups can do early on to optimize for focus & productivity (2021)](https://twitter.com/_shahedk/status/1359237833605619712)
+- [Startup advice that nobody tells you (2021)](https://twitter.com/sairaxashraf/status/1359007547655524355)
+- [Ask HN: Startup employees getting nothing after acquisition, is this normal? (2021)](https://news.ycombinator.com/item?id=26098882)
+- [Will it make the boat go faster? This question could also be vital for your early-stage team & company (2021)](https://twitter.com/shreyas/status/1365732851732209668)
+- [Course: How to Build a Community-led Product](https://communityled.typeform.com/to/kLQDDVWT) ([Tweet](https://twitter.com/gregisenberg/status/1364683626667982861))
+- [Companies that achieved scale with small teams (2021)](https://twitter.com/ankitkr0/status/1367700549982810114)
+- [Diagnose with data and treat with design (2021)](https://twitter.com/joulee/status/1367875690939346949)
+- [Letter to myself in late 2008](https://dalton.substack.com/p/letter-to-myself-in-late-2008)
+- [StartupToolchain](https://startuptoolchain.com/) - Curated list of startup tools in a single page.
+- [First 18 months of a startup (2021)](https://twitter.com/Suhail/status/1382351985584721926) ([HN](https://news.ycombinator.com/item?id=26808427))
+- [My startup failed, then I found out I was unemployable (2021)](https://davesullivan.is/my_startup_failed_then_i_found_out_i_was_unemployable.html) ([HN](https://news.ycombinator.com/item?id=26792876))
+- [Build a SaaS Platform with Stripe (2021)](https://jonmeyers.io/blog/build-a-saas-platform-with-stripe) ([Tweet](https://twitter.com/_dijonmusters/status/1387399124165677057))
+- [Small teams](https://stevepulec.com/posts/small/)
+- [Ask HN: How do I learn more about entrepreneurship/startups? (2021)](https://news.ycombinator.com/item?id=27205818)
+- [Paul Graham advice to startup founders (2021)](https://twitter.com/m_franceschetti/status/1395735041636974593)
+- [Working at a startup is overrated, both financially and emotionally (2021)](https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1##) ([HN](https://news.ycombinator.com/item?id=27245090))
+- [An Engineer's guide to Stock Options (2013)](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options/)
+- [How we grew Transistor to million dollar revenue (2021)](https://www.reddit.com/r/SaaS/comments/nrjsao/im_40_years_old_and_i_finally_bootstrapped_a_saas/)
+- [Qualities of great CEOs](https://twitter.com/noahkagan/status/1401965821430226951)
+- [Advice on building efficient startups](https://twitter.com/landforce/status/1409923677387374592)
+- [Y Combinator's Co-Founder Matching](https://www.startupschool.org/cofounder-matching) ([HN](https://news.ycombinator.com/item?id=27750298))
+- [Lessons of a startup engineer (2021)](https://twolfson.com/2021-06-24-lessons-of-a-startup-engineer)
+- [Knowledge hub for super-early stage entrepreneurs](https://therainforest.xyz/)
+- [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit) - How to build a category-killing company from the ground up.
+- [Startupy First Friends](https://www.notion.so/Startupy-First-Friends-05ff4b3ae7844fc0aa3c651c1b767332)
+- [Non-obvious signals your startup is hitting an inflection point](https://twitter.com/asanwal/status/1417985870473347078)
+- [The SaaS Org Chart (2021)](https://sacks.substack.com/p/the-saas-org-chart) ([HN](https://news.ycombinator.com/item?id=27950412))
+- [Ask HN: How did you establish and maintain relationships with your first users? (2021)](https://news.ycombinator.com/item?id=27959475)
+- [Greatest Hits: Mike Maples on Building Successful Startups and Venture Funds (2021)](https://overcast.fm/+a0Bo5yxQ8)
+- [Eric Migicovsky - How to Talk to Users (2019)](https://www.youtube.com/watch?v=MT4Ig2uqjTc) ([Transcript](https://www.ycombinator.com/library/6g-how-to-talk-to-users)) ([Tweet](https://twitter.com/jsjoeio/status/1422231455032250374)) ([Summary](https://blog.anatoly.tech/?go=all/konspekty-y-combinator-kak-govorit-s-polzovatelyami/))
+- [The rise of the one-person unicorn (2021)](https://www.nothingventured.com/the-rise-of-the-one-person-unicorn/) ([HN](https://news.ycombinator.com/item?id=28187204))
+- [How a big company might crush a startup (2021)](https://twitter.com/petergyang/status/1400820631080374280)
+- [Alex MacCaw, CEO of Clearbit: My Path as a Founder (2020)](https://www.youtube.com/playlist?list=PLiksA_rhPy7452h1UBSU1nZ6CmeBcRDRx)
+- [The five most common mistakes founders make in trying to find Product Market Fit (PMF) (2021)](https://johnwdanner.medium.com/the-five-most-common-mistakes-founders-make-in-trying-to-find-product-market-fit-pmf-7941836f24ef)
+- [AMA: I make $100K+ ARR from my microstartups (2021)](https://news.ycombinator.com/item?id=28561132)
+- [I started SaaS companies in 2013 and 2021 – how things have changed](https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/) ([HN](https://news.ycombinator.com/item?id=28601031))
+- [Compound Manual](https://withcompound.com/manual) - Curated library of wealth planning resources for startup founders and employees.
+- [Compound](https://withcompound.com/) - Wealth Management for Startup Founders and Employees.
+- [Five worst mistakes founders do when trying to find product market fit (2021)](https://twitter.com/jwdanner/status/1441076896742068239)
+- [What early business mistake will you never make again? (2021)](https://twitter.com/businessbarista/status/1441752884341874697)
+- [What niche industries still need much better software? (2021)](https://twitter.com/tylertringas/status/1443214561319038982)
+- [On Risk and Imagining the Future (2021)](https://www.nealkhosla.com/blog/on-risk-and-imagining-the-future)
+- [What's the best SaaS starter kit? (2021)](https://news.ycombinator.com/item?id=28774647)
+- [How to Evaluate Startup Offers (2021)](https://faingezicht.com/articles/2021/09/20/evaluating-startup-offers/)
+- [My Emotions as a CEO (2021)](https://ryancaldbeck.co/2021/10/08/my-emotions-as-a-ceo/) ([HN](https://news.ycombinator.com/item?id=28809195))
+- [Preferred tools and tech for running a startup](https://github.com/tashburn/stack)
+- [The SaaS Metrics That Matter (2021)](https://sacks.substack.com/p/the-saas-metrics-that-matter) ([Tweet](https://twitter.com/DavidSacks/status/1450147042429321219)) ([HN](https://news.ycombinator.com/item?id=28914470))
+- [Dividing equity between founders (2009)](https://cdixon.org/2009/08/23/dividing-equity-between-founders)
+- [How to Create a SaaS and Compete with the Big Players as a Solo Founder (2021)](https://www.mikealche.com/product-development/an-underdog-guide-to-creating-alternative-in-markets) ([HN](https://news.ycombinator.com/item?id=28917184))
+- [Cloudflare for SaaS for All (2021)](https://blog.cloudflare.com/cloudflare-for-saas-for-all-now-generally-available/) - One-stop shop for SaaS providers looking to provide fast load times, unparalleled redundancy, and the strongest security to their customers.
+- [YC Application Resources](https://www.ycprep.app/) - Videos, Tips, Interviews.
+- [Interviuu](https://www.interviuu.com/) - Mock Interviews for YC and ODX.
+- [Founderkit](https://founderkit.com/) - Reviews and Recommendations from Leading Startup Founders.
+- [How to turn chaos in startups into repeatable processes (2021)](https://twitter.com/dunkhippo33/status/1453604780996132865)
+- [Resources for growing SaaS startup (2021)](https://twitter.com/DanielZarick/status/1458093573581250571)
+- [Ask HN: What HN threads most influenced your thinking about startups? (2021)](https://news.ycombinator.com/item?id=29148698)
+- [Startups people are working on (2021)](https://twitter.com/FounderEric/status/1458138589284339716)
+- [How I helped build a profitable MVP over a weekend](https://mzrn.sh/2021/11/14/how-i-helped-build-a-profitable-mvp-over-a-weekend) ([HN](https://news.ycombinator.com/item?id=29230511))
+- [Ask HN: Great tools for solo SaaS founders? (2021)](https://news.ycombinator.com/item?id=29297229)
+- [Boards are dangerous to founder/CEOs (2021)](https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html) ([HN](https://news.ycombinator.com/item?id=29320078))
+- [Technical Co-founders' Guide to Equity Negotiations (2021)](https://omarish.com/equity-negotiation)
+- [How to go from being a super hot company to lucky to get acquired in less than 24 months (2021)](https://joefernandez.substack.com/p/how-to-go-from-being-a-super-hot)
+- [CEO’s job](https://twitter.com/anothercohen/status/1475268148207173634)
+- [CEO's job 2](https://twitter.com/theryanking/status/1475122757117653003)
+- [Roam's CEO mistakes (2021)](https://twitter.com/Conaw/status/1476090219321380865)
+- [Deel startup 2021 learnings](https://twitter.com/Bouazizalex/status/1475854552595374083)
+- [70 First Co-Founder Dates](https://abeclark.substack.com/p/70-first-co-founder-dates) ([HN](https://news.ycombinator.com/item?id=29781251))
+- [The Manual by Compound](https://manual.withcompound.com/) - Curated library of wealth planning resources for startup founders and employees.
+- [Importance of direct sales in growing revenue (2022)](https://twitter.com/nathanbarry/status/1482374302414426116)
+- [Focusing on go-to-market to grow startup (2022)](https://twitter.com/reinpk/status/1481639812012466182)
+- [Connecting People (2022)](https://aditya.rs/2022/01/24/connecting-people/)
+- [Startup tech stack I used to automate most admin](https://twitter.com/justindross/status/1499775084017373190)
+- [My Notes on the Lean Startup](https://www.kevinslin.com/notes/1da94030-c045-4002-8de0-67d35e6eee74/) ([HN](https://news.ycombinator.com/item?id=30754186))
+- [Ranking YC Companies with a Neural Net (2022)](https://evjang.com/2022/04/02/yc-rank.html) ([HN](https://news.ycombinator.com/item?id=30894490))
+- [Elon Musk's 2003 Stanford University Entrepreneurial Thought Leaders Lecture](https://www.youtube.com/watch?v=afZTrfvB2AQ)
+- [The Things We Did Not Do While Reaching $2M ARR (2022)](https://missiveapp.com/blog/the-things-we-did-not-do) ([HN](https://news.ycombinator.com/item?id=30935709))
+- [What software engineers can learn from the rapid collapse of Fast (2022)](https://newsletter.pragmaticengineer.com/p/the-scoop-fast) ([HN](https://news.ycombinator.com/item?id=30947595))
+- [On Deck’s Top 100 Companies of 2022](https://www.beondeck.com/post/on-decks-top-companies-2022)
+- [YC Vibe Check](https://ycvibecheck.com/) - Semantic search over every YC company ever. ([Code](https://github.com/thesephist/ycvibecheck))
+- [The Startup of You Book](https://www.startupofyou.com/)
+- [We Need a Middle Class for Startups (2022)](https://neilthanedar.com/we-need-a-middle-class-for-startups/) ([HN](https://news.ycombinator.com/item?id=31327219))
+- [How startup employees can protect themselves in a down market, questions to ask and metrics to know while evaluating startups to work at](https://youtu.be/ezOIBfZcwbQ?t=3515)
+- [I spent two years launching tiny projects (2022)](https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects) ([HN](https://news.ycombinator.com/item?id=31421364))
+- [Startups: Instead of thinking about whether you are “default alive” vs “default dead”, think about whether you are “default investable” vs “default uninvestable.”](https://twitter.com/DavidSacks/status/1528102541723979776)
+
+## Images
+
+![](https://i.imgur.com/KxbRBEn.png)
+
+> [Source](https://www.youtube.com/watch?v=jTM7ZCKEUGM)

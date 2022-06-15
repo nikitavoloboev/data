@@ -1,0 +1,101 @@
+---
+title: TLS
+---
+
+# [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+
+[Illustrated TLS Connection](https://tls.ulfheim.net/) & [Implementing a toy version of TLS 1.3](https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/) are useful.
+
+## Links
+
+- [duraconf](https://github.com/ioerror/duraconf) - Collection of hardened configuration files for SSL/TLS services.
+- [Lemur](https://github.com/Netflix/lemur) - Manages TLS certificate creation.
+- [Step Certificates](https://github.com/smallstep/certificates) - Online certificate authority and related tools for secure automated certificate management, so you can use TLS everywhere.
+- [TLS 1.3 Is Coming: Here's What You Need To Know To Be Prepared For It (2019)](https://www.forbes.com/sites/forbestechcouncil/2019/12/10/tls-1-3-is-coming-heres-what-you-need-to-know-to-be-prepared-for-it/)
+- [autocertdelegate](https://github.com/bradfitz/autocertdelegate) - Get LetsEncrypt TLS certs for internal-only TLS servers via a delegated golang.org/x/crypto/acme/autocert server.
+- [SwiftTLS](https://github.com/nsc/SwiftTLS) - TLS implementation in Swift.
+- [Illustrated TLS Connection](https://tls.ulfheim.net/) - Every byte of a TLS connection explained and reproduced. ([Code](https://github.com/syncsynchalt/illustrated-tls)) ([HN](https://news.ycombinator.com/item?id=24167873))
+- [SSLproxy](https://github.com/sonertari/SSLproxy) - Transparent SSL/TLS proxy for decrypting and diverting network traffic to other programs, such as UTM services, for deep SSL inspection.
+- [libtls-bearssl](https://sr.ht/%7Emcf/libtls-bearssl/) - Implementation of libtls on top of BearSSL.
+- [TLS Encrypted Client Hello (2020)](https://tlswg.org/draft-ietf-tls-esni/draft-ietf-tls-esni.html)
+- [IDontSpeakSSL](https://github.com/BishopFox/IDontSpeakSSL) - Simple tool based on sslyze to scan large scope and provide SSL/TLS vulnerabilities.
+- [crypto/tls in Go](https://github.com/cloudflare/tls-tris)
+- [OpenSSL](https://www.openssl.org/) - Robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols.
+- [BoringSSL](https://github.com/google/boringssl) - Fork of OpenSSL that is designed to meet Google's needs.
+- [Certigo](https://github.com/square/certigo) - Utility to examine and validate certificates to help with debugging SSL/TLS issues.
+- [TLS for the Browsers of the Internet of Old Things (2020)](https://oldvcr.blogspot.com/2020/11/fun-with-crypto-ancienne-tls-for.html)
+- [JARM](https://github.com/salesforce/jarm) - Active Transport Layer Security (TLS) server fingerprinting tool.
+- [secure-connections](https://github.com/lizrice/secure-connections) - Simple client and server for showing what's happening with certificates during TLS setup.
+- [iguanaTLS](https://github.com/alexnask/iguanaTLS) - Minimal, experimental TLS 1.2 implementation in Zig.
+- [Auditing for TLS certificates (Go code)](https://github.com/google/certificate-transparency-go)
+- [KEMTLS: Post-quantum TLS without signatures (2021)](https://blog.cloudflare.com/kemtls-post-quantum-tls-without-signatures/)
+- [Simple Go HTTPS/TLS Examples](https://github.com/denji/golang-tls)
+- [third-wheel](https://github.com/campbellC/third-wheel) - TLS man-in-the-middle proxy written in rust, with the aim of being lightweight and fast.
+- [SSLsplit](https://github.com/droe/sslsplit) - Transparent SSL/TLS interception. ([Web](https://www.roe.ch/SSLsplit))
+- [Is TLS Fast Yet?](https://istlsfastyet.com/)
+- [tlsfuzzer](https://github.com/tlsfuzzer/tlsfuzzer) - SSL and TLS protocol test suite and fuzzer.
+- [TLS Mastery](https://mwl.io/nonfiction/networking#tls) ([HN](https://news.ycombinator.com/item?id=26760032))
+- [mkcert.org](https://mkcert.org/) - Web service that allows you to build customised TLS trust stores. ([Code](https://github.com/Lukasa/mkcert))
+- [Feisty Duck](https://www.feistyduck.com/) - SSL/TLS and PKI training and books.
+- [Bulletproof TLS Newsletter](https://www.feistyduck.com/bulletproof-tls-newsletter/)
+- [mint](https://github.com/bifurcation/mint) - Minimal TLS 1.3 Implementation in Go.
+- [Contruno](https://github.com/dinosaure/contruno) - TLS termination proxy as a MirageOS.
+- [SSLyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
+- [NO STARTTLS](https://nostarttls.secvuln.info/) - Why TLS is better without STARTTLS. Security Analysis of STARTTLS in the Email Context. ([Lobsters](https://lobste.rs/s/nufm9m/no_starttls))
+- [View your browser's TLS fingerprint](https://tlsfingerprint.io/) ([HN](https://news.ycombinator.com/item?id=28251700))
+- [BoringSSL Rust](https://github.com/cloudflare/boring) - Bindings for the Rust programming language and TLS adapters for tokio and hyper built on top of it.
+- [Tracing SSL/TLS connections using eBPF (2021)](https://blog.px.dev/ebpf-openssl-tracing/) ([HN](https://news.ycombinator.com/item?id=28554754))
+- [SmackTLS](https://www.smacktls.com/) - State Machine Attacks.
+- [mod_md](https://github.com/icing/mod_md) - Let's Encrypt (ACME) in Apache httpd.
+- [TLS Tools for Humans](https://github.com/Brcrwilliams/tlstools)
+- [SSL Kill Switch 2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
+- [Provision TLS certificates for your internal Tailscale services (2021)](https://tailscale.com/blog/tls-certs/)
+- [Certifi](https://github.com/certifi/python-certifi) - Provides Mozilla's carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
+- [Staging TLS Certificates: Make every deployment a safe deployment (2021)](https://blog.cloudflare.com/staging-tls-certificate-every-deployment-safe-deployment/)
+- [Handshake Encryption: Endgame (an ECH update) (2021)](https://blog.cloudflare.com/handshake-encryption-endgame-an-ech-update/)
+- [Introducing SSL/TLS Recommender (2021)](https://blog.cloudflare.com/ssl-tls-recommender/) ([Tweet](https://twitter.com/paraacha/status/1448899607602384902))
+- [trustme](https://github.com/python-trio/trustme) - #1 quality TLS certs while you wait. ([Docs](https://trustme.readthedocs.io/en/latest/))
+- [go-tunnel](https://github.com/opencoff/go-tunnel) - TLS/SSL Tunnel - A modern STunnel replacement written in Go.
+- [Automating TLS certificate management in Docker (2021)](https://smallstep.com/blog/automate-docker-ssl-tls-certificates/)
+- [Mutual TLS (mTLS)](https://smallstep.com/hello-mtls) - Documentation on how to configure a broad array of technologies to perform mutual TLS. ([Code](https://github.com/smallstep/hello-mtls))
+- [s2n](https://github.com/aws/s2n-tls) - Implementation of the TLS/SSL protocols. ([Lobsters](https://lobste.rs/s/i1jdij/aws_s_implementation_tls_ssl))
+- [TLS-Attacker](https://github.com/tls-attacker/TLS-Attacker) - Java-based framework for analyzing TLS libraries.
+- [TLS Fingerprinting](https://github.com/LeeBrotherston/tls-fingerprinting)
+- [acme-rs](https://github.com/kariustobias/acme-rs) - ACME Client for Let's Encrypt written in Rust to request SSL/TLS certificates.
+- [TLS Poison](https://github.com/jmdx/TLS-poison) - Tool that allows for generic SSRF via TLS, as well as CSRF via image tags in most browsers.
+- [TLA+ Foundation](https://github.com/tlaplus/foundation)
+- [Wait-For-Them](https://github.com/shenek/wait-for-them) - Wait until TCP services are running.
+- [TLStunnel](https://github.com/roburio/tlstunnel) - TLS reverse proxy unikernel.
+- [Post-Quantum TLS without handshake signatures (2020)](https://thomwiggers.nl/publication/kemtls/) ([Code](https://github.com/thomwiggers/kemtls-experiment))
+- [Fighting TLS fingerprinting with Node.js](https://httptoolkit.tech/blog/tls-fingerprinting-node-js/) ([HN](https://news.ycombinator.com/item?id=29472624))
+- [Implementing TLS Encrypted Client Hello (2021)](https://guardianproject.info/2021/11/30/implementing-tls-encrypted-client-hello/) ([HN](https://news.ycombinator.com/item?id=29530811))
+- [Not-quite-so-broken TLS](https://nqsb.io/)
+- [cilium-certgen](https://github.com/cilium/certgen) - Convenience tool to generate and store certificates for Hubble Relay mTLS.
+- [TLSChecker](https://github.com/jbovet/tlschecker) - Rust TLS/SSL certificate expiration date from command-line checker.
+- [async-tls](https://github.com/async-rs/async-tls) - Async TLS/SSL streams using Rustls.
+- [async-native-tls](https://github.com/async-email/async-native-tls) - Asynchronous Native TLS.
+- [Ask HN: What's your solution for SSL on internal servers? (2022)](https://news.ycombinator.com/item?id=30272101)
+- [Transport Layer Security (5/6) (2022)](https://blog.bithole.dev/tls.html)
+- [The Illustrated TLS 1.3 Connection: Every Byte Explained](https://tls13.ulfheim.net/) ([Code](https://github.com/syncsynchalt/illustrated-tls13))
+- [Bulletproof TLS and PKI (2022)](https://www.feistyduck.com/books/bulletproof-tls-and-pki/) - Understanding and deploying SSL/TLS and PKI to secure servers and web applications.
+- [tls-scan](https://github.com/prbinu/tls-scan) - Internet scale, blazing fast SSL/TLS scanner ( non-blocking, event-driven ).
+- [tincan-tls](https://github.com/syncsynchalt/tincan-tls) - Clean room implementation of TLS 1.3.
+- [tls-listener](https://github.com/tmccombs/tls-listener) - Rust wrapper around a connection listener to support TLS.
+- [qtls](https://github.com/marten-seemann/qtls-go1-18) - Modified version of the standard library's TLS implementation, modified for the QUIC protocol.
+- [Cero](https://github.com/glebarez/cero) - Scrape domain names from SSL certificates of arbitrary hosts.
+- [Implementing a toy version of TLS 1.3 (2022)](https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/) ([HN](https://news.ycombinator.com/item?id=30782701))
+- [Feilich](https://github.com/Luukdegram/feilich) - Small, no dependency, TLS 1.3 implementation in Zig, for Zig.
+- [What is TLS fingerprinting? (2022)](https://fingerprintjs.com/blog/what-is-tls-fingerprinting-transport-layer-security/)
+- [GoSSL](https://github.com/yakuter/gossl) - Cross platform, easy to use SSL tool written with native Go.
+- [uTLS](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
+- [TLS Encrypted Client Hello](https://github.com/tlswg/draft-ietf-tls-esni)
+- [snid](https://github.com/AGWA/snid) - Lightweight proxy server that forwards TLS connections based on the server name indication (SNI) hostname.
+- [Ghostunnel](https://github.com/ghostunnel/ghostunnel) - Simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
+- [When eBPF meets TLS. Defeating TLS encryption with eBPF tricks (2022)](https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf) ([HN](https://news.ycombinator.com/item?id=31452286))
+- [Extracting TLS keys from an unwilling application (2020)](http://m1el.github.io/oculus-tls-extract/)
+- [hallucinate](https://github.com/SySS-Research/hallucinate) - One-stop TLS traffic inspection and manipulation using dynamic instrumentation.
+- [Mastering two way TLS](https://github.com/Hakky54/mutual-tls-ssl) - Tutorial of setting up Security for your API with one way authentication with TLS/SSL and mutual authentication.
+- [eCapture](https://github.com/ehids/ecapture) - Capture SSL/TLS text content without CA cert Using eBPF.
+- [proxyboi](https://github.com/svenstaro/proxyboi) - Super simple reverse proxy with TLS support.
+- [TLS Reconciler](https://github.com/shaj13/tlsreconciler) - Hitless TLS Certificate Rotation Reconciliation Library.
+- [TLS-Scanner](https://github.com/tls-attacker/TLS-Scanner) - Tool to assist pentesters and security researchers in the evaluation of TLS Server configurations.

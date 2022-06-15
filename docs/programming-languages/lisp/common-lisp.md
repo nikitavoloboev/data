@@ -1,0 +1,119 @@
+# Common Lisp
+
+## Links
+
+- [A Road to Common Lisp (2018)](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
+- [C. Schafmeister “Lessons Learned Implementing Common Lisp with LLVM” (2018)](https://www.youtube.com/watch?v=mbdXeRBbgDM)
+- [SICL](https://github.com/robert-strandh/SICL) - Fresh implementation of Common Lisp.
+- [Common Lisp tips](https://github.com/lisp-tips/lisp-tips)
+- [LISP/c (Lispy)](https://github.com/eratosthenesia/lispc) - Lisp(ish) to C Converter (designed for CLISP).
+- [Cons cells vs. Linked Lists (2020)](http://funcall.blogspot.com/2020/01/cons-cells-vs-linked-lists.html)
+- [ANSI Common Lisp](http://www.paulgraham.com/acl.html?viewfullsite=1) - Combines an introduction to Lisp programming, and a convenient, up-to-date reference manual for ANSI Common Lisp ([HN](https://news.ycombinator.com/item?id=22083507)).
+- [Modern, functional Common Lisp: Myths and tips (2020)](https://ambrevar.xyz/modern-common-lisp/) ([HN](https://news.ycombinator.com/item?id=22412148))
+- [Restarts in Common Lisp (2020)](https://sulami.github.io/posts/common-lisp-restarts/) ([HN](https://news.ycombinator.com/item?id=22747932))
+- [Valtan](https://github.com/cxxxr/valtan) - Common Lisp to JavaScript compiler. ([HN](https://news.ycombinator.com/item?id=22769346))
+- [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](https://leanpub.com/lovinglisp) ([Code](https://github.com/mark-watson/loving-common-lisp))
+- [ergolib](https://github.com/rongarret/ergolib) - Library designed to make programming in Common Lisp easier.
+- [Complete Idiot’s Guide to Common Lisp Packages (2003)](http://www.flownet.com/ron/packages.pdf)
+- [Learn Common Lisp in one month intervals](https://github.com/TomLisankie/Learning-Lisp)
+- [Parenscript](https://common-lisp.net/project/parenscript/) - Translator from an extended subset of Common Lisp to JavaScript.
+- [Slime](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs.
+- [Petalisp](https://github.com/marcoheisig/Petalisp) - Elegant High Performance Computing.
+- [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml) ([HN](https://news.ycombinator.com/item?id=23761346))
+- [Kai](https://github.com/komi1230/kai) - High-level plotter library for Common Lisp. ([HN](https://news.ycombinator.com/item?id=23757545))
+- [Common Lisp GUI Toolkits](https://lispcookbook.github.io/cl-cookbook/gui.html)
+- [Common Lisp: A Gentle Introduction to Symbolic Computation](https://www.cs.cmu.edu/~dst/LispBook/book.pdf)
+- [The Common Lisp Condition System Book (2020)](https://www.apress.com/us/book/9781484261330) ([HN](https://news.ycombinator.com/item?id=23843525)) ([HN 2](https://news.ycombinator.com/item?id=24867548))
+- [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) ([Lobsters](https://lobste.rs/s/gb566t/lisp_quickstart))
+- [Creating a Common Lisp implementation (2020)](https://www.youtube.com/watch?v=Wa81OJnlsoI) ([HN](https://news.ycombinator.com/item?id=24276881))
+- [Clasp](https://github.com/clasp-developers/clasp) - Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. ([Clasp: Common Lisp using LLVM and C++ for Molecular Metaprogramming (2015)](https://www.youtube.com/watch?v=8X69_42Mj-g))
+- [Cl-Cuda](https://github.com/takagi/cl-cuda) - Library to use NVIDIA CUDA in Common Lisp programs.
+- [iterate](https://common-lisp.net/project/iterate/) - Extensible iteration construct for Common Lisp.
+- [HexstreamSoft](https://www.hexstreamsoft.com/) - Public Domain Common Lisp R&D.
+- [Opinionated Common Lisp Resources 2020](https://gist.github.com/digikar99/a1925ad3249a431c9eecf09af2fdef8a)
+- [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
+- [Modern CI testing and packaging for Common Lisp](https://nyxt.atlas.engineer/article/continuous-testing-and-packaging.org)
+- [Archive of Lisp Machine](https://github.com/jrm-code-project/LISP-Machine) ([HN](https://news.ycombinator.com/item?id=25147970))
+- [Common LISP Parser & AST Viewer](https://github.com/littledivy/lisp-ast)
+- [Common Lisp Iteration (2020)](https://tailrecursion.com/~alan/Lisp/CommonLispIteration.html)
+- [SLY](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE.
+- [Common Lisp by Example](https://github.com/ashok-khanna/common-lisp-by-example/blob/main/Common%20Lisp%20by%20Example.pdf)
+- [Emacs For Common Lisp](https://github.com/susam/emacs4cl) - Tiny ~/.emacs for Common Lisp programming explained line-by-line.
+- [Portacle](https://portacle.github.io/) - Portable Common Lisp Development Environment.
+- [Cakelisp](https://github.com/makuto/cakelisp) - Performance-oriented Lisp-like language where I can have my cake, and eat it too. The goal is a metaprogrammable, hot-reloadable, non-garbage-collected language ideal for high performance, iteratively-developed programs (especially games).
+- [Trivia](https://github.com/guicho271828/trivia) - Pattern Matcher Compatible with Optima.
+- [Nile](https://github.com/damelang/nile) - Programming Language for Declarative Stream Processing in Media Applications.
+- [Common Lisp implementation of Google's protocol buffers](https://github.com/brown/protobuf)
+- [Debugging Lisp (2015)](https://malisper.me/category/debugging-common-lisp/) ([HN](https://news.ycombinator.com/item?id=25661701))
+- [data-lens](https://github.com/fiddlerwoaroof/data-lens) - Functional utilities for Common Lisp.
+- [docker-cl-example](https://github.com/fukamachi/docker-cl-example/) - Example projects to run/develop Common Lisp web application on Docker container.
+- [CLOG](https://github.com/rabbibotton/clog) - Common Lisp Omnificent GUI.
+- [Lisper.ru](http://lisper.ru/) - Russian Common Lisp Community. ([Code](https://github.com/archimag/rulisp))
+- [State of the Common Lisp ecosystem, 2020](https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/) ([HN](https://news.ycombinator.com/item?id=26065511))
+- [Coalton](https://github.com/stylewarning/coalton) - Dialect of ML embedded in Common Lisp.
+- [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/) ([HN](https://news.ycombinator.com/item?id=26493588))
+- [opticl](https://github.com/slyrus/opticl) - Image processing library for Common Lisp.
+- [Features of Common Lisp (2008)](http://random-state.net/features-of-common-lisp.html) ([Lobsters](https://lobste.rs/s/qqelbo/features_common_lisp_2008))
+- [Python vs Common Lisp, workflow and ecosystem (2019)](https://lisp-journey.gitlab.io/pythonvslisp/) ([HN](https://news.ycombinator.com/item?id=27011942))
+- [CL-REPL](https://github.com/koji-kojiro/cl-repl) - Full-featured REPL implementation designed to work with Roswell.
+- [Comparison of Common Lisp Testing Frameworks](https://sabracrolleton.github.io/testing-framework)
+- [JSCL](https://github.com/jscl-project/jscl) - Common Lisp to JavaScript compiler.
+- [cl-bodge](https://github.com/borodust/cl-bodge) - Feature-rich game framework for Common Lisp. ([Web](https://borodust.org/projects/cl-bodge/)) ([HN](https://news.ycombinator.com/item?id=27621014))
+- [Temperance](https://github.com/sjl/temperance) - Logic programming library for Common Lisp.
+- [Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps (2021)](https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html)
+- [Common Lisp Recipes](http://weitz.de/cl-recipes/)
+- [The Common Lisp Condition System - Beyond Exception Handling with Control Flow Mechanisms (2020)](https://www.apress.com/gp/book/9781484261330)
+- [Coalton](https://github.com/coalton-lang/coalton) - Efficient, statically typed functional programming language that supercharges Common Lisp. ([Article](https://coalton-lang.github.io/20211010-introducing-coalton/))
+- [Building Common Lisp Executables (2018)](https://susam.in/maze/building-common-lisp-executables.html)
+- [Learning Common Lisp to beat Java and Rust on a phone encoding problem](https://renato.athaydes.com/posts/revenge_of_lisp.html) ([HN](https://news.ycombinator.com/item?id=28721403))
+- [Radiance](https://github.com/Shirakumo/radiance) - Common Lisp web application environment. ([Web](https://shirakumo.github.io/radiance/))
+- [Optimising Common Lisp to try and beat Java and Rust on phone encoding 2/2 (2021)](https://renato.athaydes.com/posts/revenge_of_lisp-part-2.html) ([HN](https://news.ycombinator.com/item?id=28825307))
+- [DRAKMA](https://github.com/edicl/drakma) - HTTP client written in Common Lisp.
+- [Kina Knowledge, using Common Lisp extensively in their document processing stack (2021)](https://lisp-journey.gitlab.io/blog/lisp-interview-kina/) ([HN](https://news.ycombinator.com/item?id=28961987))
+- [Roswell](https://github.com/roswell/roswell) - Common Lisp environment setup Utility.
+- [Common Lisp code optimisation (2020)](https://write.as/loke/common-lisp-code-optimisation) ([HN](https://news.ycombinator.com/item?id=29140521))
+- [Dexador](https://github.com/fukamachi/dexador) - Fast HTTP client for Common Lisp.
+- [Learn Common Lisp by Example: GTK GUI with SBCL (2021)](https://blog.matthewdmiller.net/learn-common-lisp-by-example-gtk-gui-with-sbcl)
+- [Sketch](https://github.com/vydd/sketch) - Common Lisp environment for the creation of electronic art, visual design.
+- [Lessons learned after working one year as a Common Lisp Developer (2018)](https://cdagostino.io/posts/2018-03-28-one-year-common-lisp-developer-part-1-the-good.html) ([HN](https://news.ycombinator.com/item?id=29494255))
+- [One Reason Typeclasses Are Useful (2021)](https://coalton-lang.github.io/20211212-typeclasses/) ([HN](https://news.ycombinator.com/item?id=29532917))
+- [CEPL](https://github.com/cbaggers/cepl) - Lispy and REPL-friendly Common Lisp library for working with OpenGL. ([HN](https://news.ycombinator.com/item?id=29535450))
+- [Wookie](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server written in common lisp.
+- [Learn Common Lisp by Example: Qt GUI with EQL5 (2021)](https://blog.matthewdmiller.net/learn-common-lisp-by-example-qt-gui-with-eql5)
+- [cl4py](https://github.com/marcoheisig/cl4py) - Common Lisp for Python.
+- [Fast Generic Functions](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance.
+- [sb-simd](https://github.com/marcoheisig/sb-simd) - Convenient SIMD interface for SBCL.
+- [cl-mpi](https://github.com/marcoheisig/cl-mpi) - MPI bindings for Common Lisp with many useful extras.
+- [Building Setf (2022)](https://blog.veitheller.de/Building_Setf.html)
+- [Running Lisp in Production (2020)](https://www.grammarly.com/blog/engineering/running-lisp-in-production/) ([HN](https://news.ycombinator.com/item?id=30172641))
+- [Cleavir](https://github.com/s-expressionists/Cleavir) - Implementation-independent framework for creating Common Lisp compilers.
+- [CFFI](https://github.com/cffi/cffi) - Common Foreign Function Interface, purports to be a portable FFI for Common Lisp.
+- [Eclector](https://github.com/s-expressionists/Eclector) - Portable and extensible Common Lisp Reader.
+- [Cloture](https://github.com/ruricolist/cloture) - Clojure in Common Lisp. ([HN](https://news.ycombinator.com/item?id=31655574))
+- [CL21](https://github.com/cl21/cl21) - Common Lisp in the 21st Century.
+- [Arrows](https://github.com/Harleqin/arrows) - Implements threading macros, inspired by Clojure.
+- [cl-gserver](https://github.com/mdbergmann/cl-gserver) - Actor framework featuring actors and agents for easy access to state and asynchronous operations.
+- [Xecto](https://github.com/pkhuong/Xecto) - Regular array parallelism in CL.
+- [Comparison of Common Lisp Logging Libraries](https://sabracrolleton.github.io/logging-comparison.html)
+- [Common Lisp Cheat Sheet](https://github.com/ashok-khanna/lisp-notes)
+- [CL-JavaScript](https://github.com/akapav/js) - JavaScript compiler for Common Lisp.
+- [Alloy](https://github.com/Shirakumo/alloy) - User interface toolkit.
+- [Using SBCL Common Lisp as a Dynamic Library (2022)](https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html) ([HN](https://news.ycombinator.com/item?id=31054796))
+- [How to create a new Common Lisp project (with project generator) (2022)](https://www.youtube.com/watch?v=XFc513MJjos)
+- [Common Lisp Resources (2022)](https://lisp-journey.gitlab.io/resources/) ([HN](https://news.ycombinator.com/item?id=31120359))
+- [Tutorial Series to learn Common Lisp quickly](https://github.com/rabbibotton/clog/blob/main/LEARN.md) ([HN](https://news.ycombinator.com/item?id=31178737))
+- [Trial](https://github.com/Shirakumo/trial) - Game engine written in Common Lisp.
+- [srcweave](https://github.com/justinmeiners/srcweave) - Literate programming system for any language.
+- [Lem](https://github.com/lem-project/lem) - Common Lisp editor/IDE with high expansibility.
+- [Npt](https://github.com/nptcl/npt) - ANSI Common Lisp Programming Language.
+- [Common Lisp intermediate book recommendation (2022)](https://www.reddit.com/r/lisp/comments/uqgeit/common_lisp_intermediate_book_recommendation/)
+- [cl-losh](https://github.com/sjl/cl-losh) - Common Lisp utilities I use a lot.
+- [Serapeum](https://github.com/ruricolist/serapeum) - Conservative library of Common Lisp utilities.
+- [Alexandria](https://alexandria.common-lisp.dev/) - Reduce duplication of effort and improve portability of Common Lisp code.
+- [Overlord](https://github.com/ruricolist/overlord) - Build system in Common Lisp.
+- [cl-async](https://github.com/orthecreedence/cl-async) - Asynchronous IO library for Common Lisp.
+- [Woo](https://github.com/fukamachi/woo) - Fast non-blocking HTTP server on top of libev. Written in Common Lisp.
+- [cmd](https://github.com/ruricolist/cmd) - Utility for running external programs.
+- [Rove](https://github.com/fukamachi/rove) - Unit testing framework for Common Lisp applications.
+- [cl-notebook](https://github.com/inaimathi/cl-notebook) - Notebook-style in-browser editor for Common Lisp.
+- [kons-9](https://github.com/kaveh808/kons-9) - Common Lisp 3D graphics code.

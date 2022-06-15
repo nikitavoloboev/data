@@ -1,0 +1,54 @@
+# Windows
+
+## Links
+
+- [Using Windows 10 and the Surface Book 2 for Web Development (2018)](https://andrewbrookins.com/technology/using-windows-10-and-surface-book-2-for-web-development/)
+- [Fix Windows 10 Privacy](https://github.com/modzero/fix-windows-privacy) - Tool to disable privacy breaches on Windows 10.
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
+- [My super awesome Windows 10](https://github.com/NickSeagull/my-windows)
+- [Hazel Engine](https://github.com/TheCherno/Hazel) - Early-stage interactive application and rendering engine for Windows.
+- [Rust/WinRT Public Preview (2020)](https://blogs.windows.com/windowsdeveloper/2020/04/30/rust-winrt-public-preview/) ([HN](https://news.ycombinator.com/item?id=23033451)) ([Code](https://github.com/microsoft/winrt-rs))
+- [In Praise of AutoHotKey (2020)](https://www.hillelwayne.com/post/ahk/) ([HN](https://news.ycombinator.com/item?id=23156060)) ([Lobsters](https://lobste.rs/s/aqwsn5/praise_autohotkey))
+- [DirectX is coming to the Windows Subsystem for Linux (2020)](https://devblogs.microsoft.com/directx/directx-heart-linux/) ([HN](https://news.ycombinator.com/item?id=23241040)) ([Sasha Levin's take on it](https://lkml.org/lkml/2020/5/19/742))
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity.
+- [Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - Set of functions for Windows 10 fine-tuning and automating the routine tasks.
+- [WSL2 Install Tutorial (2020)](https://l-o-o-s-e-d.net/wsl2) ([Lobsters](https://lobste.rs/s/zatvvo/wsl2_installation_tutorial_for))
+- [WinApps for Linux](https://github.com/Fmstrat/winapps) - Run Windows apps in Linux as if they were a part of the native OS. ([HN](https://news.ycombinator.com/item?id=25021261))
+- [wslu](https://github.com/wslutilities/wslu) - Collection of utilities for WSL.
+- [Windows Subsystem for Linux: The lost potential (2020)](https://jmmv.dev/2020/11/wsl-lost-potential.html) ([HN](https://news.ycombinator.com/item?id=25154300))
+- [Fibratus](https://github.com/rabbitstack/fibratus) - Modern tool for the Windows kernel exploration and tracing. ([Web](https://www.fibratus.io/#/))
+- [ReactOS](https://reactos.org/) - Free Windows-compatible Operating System. ([Code](https://github.com/reactos/reactos))
+- [My Journey to Finally Ditching Windows for Good (2020)](https://news.ycombinator.com/item?id=25424225) ([HN](https://news.ycombinator.com/item?id=25424225))
+- [WinObjC](https://github.com/microsoft/WinObjC) - Objective-C for Windows.
+- [Developer and Power Users Tool List for Windows (2020)](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows) ([HN](https://news.ycombinator.com/item?id=25534258)) ([Lobsters](https://lobste.rs/s/mv3s2z/scott_hanselman_s_2021_ultimate))
+- [DirectX Headers](https://github.com/microsoft/DirectX-Headers) - Official DirectX headers available under an open source license.
+- [DirectX Developer Blog](https://devblogs.microsoft.com/directx/)
+- [Speakeasy](https://github.com/fireeye/speakeasy) - Windows kernel and user mode emulation.
+- [Rust for Windows](https://github.com/microsoft/windows-rs) - Lets you call any Windows API past, present, and future using code generated on the fly. ([HN](https://news.ycombinator.com/item?id=25862291))
+- [Creating my awesome Windows 10 dev setup (2021)](https://chimerical.ca/posts/creating-my-awesome-windows-10-dev-setup) ([HN](https://news.ycombinator.com/item?id=25965231))
+- [Switching to Windows (2021)](http://ignorethecode.net/blog/2021/02/02/switching_to_windows/) ([HN](https://news.ycombinator.com/item?id=26101078))
+- [Development on Windows is Painful (2021)](https://christine.website/blog/windows-pain-2021-03-03) ([Lobsters](https://lobste.rs/s/ibxmxb/development_on_windows_is_painful))
+- [Developing with Rust on Windows](https://docs.microsoft.com/en-us/windows/dev-environment/rust/)
+- [Windows 95 – How Does It Look Today?](https://dmitryelj.medium.com/windows-95-how-does-it-look-today-feda837922d9) ([HN](https://news.ycombinator.com/item?id=26676957))
+- [WSLg](https://github.com/microsoft/wslg) - Windows Subsystem for Linux GUI.
+- [If Microsoft Designed macOS (Concept)](https://www.youtube.com/watch?v=OtwHJwP-juo)
+- [Process Hacker](https://github.com/processhacker/processhacker) - Free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+- [Leaky Abstractions (2021)](https://textslashplain.com/2021/06/02/leaky-abstractions/) ([HN](https://news.ycombinator.com/item?id=27372292))
+- [Looking Glass](https://looking-glass.io/) - Run a Windows VM on Linux in a Window with Native Performance. ([HN](https://news.ycombinator.com/item?id=27870399))
+- [Windows 11 in React](https://github.com/blueedgetechno/windows11)
+- [WinFsp](https://github.com/billziss-gh/winfsp) - Windows File System Proxy. ([Web](http://www.secfs.net/winfsp/)) ([HN](https://news.ycombinator.com/item?id=28264408))
+- [Novus](https://github.com/novus-package-manager/novus) - Fast and efficient package manager for Windows. ([Web](https://www.novuspkg.com/))
+- [Windows 11: Just say no (2021)](https://www.computerworld.com/article/3633630/windows-11-just-say-no.html) ([HN](https://news.ycombinator.com/item?id=28554979))
+- [Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) - Scripts & programs I use to optimize and debloat my new Windows 10 installations.
+- [Proton-Caller](https://github.com/caverym/proton-caller) - Run any Windows program through Valve's Proton.
+- [Distrod](https://github.com/nullpo-head/wsl-distrod) - WSL2 Distros with Systemd.
+- [Ask HN: Why is building Windows apps so complicated (2021)](https://news.ycombinator.com/item?id=29529267)
+- [Bottles](https://usebottles.com/) - Easily run Windows software on Linux. ([Code](https://github.com/bottlesdevs/Bottles)) ([HN](https://news.ycombinator.com/item?id=29612976))
+- [Cassowary](https://github.com/casualsnek/cassowary) - Run Windows Apps on Linux using a VM as if they were native apps. ([HN](https://news.ycombinator.com/item?id=30214762))
+- [Neptune OS](https://github.com/cl91/NeptuneOS) - Windows NT personality for the seL4 microkernel. ([HN](https://news.ycombinator.com/item?id=30436993))
+- [Windows Defender is enough, if you harden it (2022)](https://0ut3r.space/2022/03/06/windows-defender/) ([HN](https://news.ycombinator.com/item?id=30580444))
+- [The Windows OS needs a change in priorities (2022)](https://den.dev/blog/windows-priority-shuffle/) ([HN](https://news.ycombinator.com/item?id=30747332))
+- [Using Windows after 15 years on Linux (2022)](https://duncanlock.net/blog/2022/04/06/using-windows-after-15-years-on-linux/) ([HN](https://news.ycombinator.com/item?id=30944438))
+- [How to Run Windows 11 on M1 Mac, for Free (2022)](https://osxdaily.com/2022/04/14/how-run-windows-11-m1-mac/)
+- [Free Lunch](https://github.com/auctors/free-lunch) - Curated list of free Windows software, online services and resources.
+- [Welcome to the M1 Windows project](https://amarioguy.github.io/m1windowsproject/) ([HN](https://news.ycombinator.com/item?id=31657591))

@@ -1,0 +1,83 @@
+---
+title: WireGuard
+---
+
+# [WireGuard](https://openwrt.org/docs/guide-user/services/vpn/wireguard)
+
+## Links
+
+- [WireGuard White Paper](https://www.wireguard.com/papers/wireguard.pdf)
+- [WireGuard clients](https://www.wireguard.com/install/)
+- [Go Implementation of WireGuard](https://github.com/WireGuard/wireguard-go)
+- [WireGuard iOS/macOS apps code](https://git.zx2c4.com/wireguard-ios)
+- [HN: WireGuard for MacOS (2019)](https://news.ycombinator.com/item?id=19186795)
+- [Missing Wireguard Documentation](https://github.com/pirate/wireguard-docs)
+- [Install and configure WireGuard on Raspberry Pi (and others)](https://github.com/adrianmihalko/raspberrypiwireguard)
+- [boringtun](https://github.com/cloudflare/boringtun) - Implementation of the WireGuard protocol designed for portability and speed.
+- [HN: WireGuard is in net-next (2019)](https://news.ycombinator.com/item?id=21741133)
+- [HN: WireGuard 1.0.0 (2020)](https://news.ycombinator.com/item?id=22724768)
+- [Getting Started with WireGuard](https://miguelmota.com/blog/getting-started-with-wireguard/) ([Lobsters](https://lobste.rs/s/zozvm1/getting_started_with_wireguard)) ([HN](https://news.ycombinator.com/item?id=22788584))
+- [Why not "Why not WireGuard?" (2020)](https://tailscale.com/blog/why-not-why-not-wireguard/) ([Lobsters](https://lobste.rs/s/y51k7h/why_not_why_not_wireguard)) ([HN](https://news.ycombinator.com/item?id=28897890))
+- [Building a WireGuard Jail with the FreeBSD's Standard Tools (2020)](https://genneko.github.io/playing-with-bsd/networking/freebsd-wireguard-jail/) ([HN](https://news.ycombinator.com/item?id=23004061))
+- [guard](https://github.com/stellarproject/guard) - GRPC server for managing wireguard tunnels.
+- [Subspace](https://github.com/subspacecommunity/subspace) - Simple WireGuard VPN server GUI. ([HN](https://news.ycombinator.com/item?id=23243248))
+- [wgcf](https://github.com/ViRb3/wgcf) - Generate WireGuard profile from Cloudflare Warp account.
+- [Success Wireguard stories?](https://www.reddit.com/r/WireGuard/comments/gqmnjq/success_stories/)
+- [wireguard-rs](https://github.com/WireGuard/wireguard-rs) - Rust Implementation of WireGuard.
+- [Simple WireGuard Docker network setup](https://www.eisfunke.com/article/docker-wireguard-systemd.html) ([HN](https://news.ycombinator.com/item?id=24583512))
+- [Create Wireguard configuration for hub and peers with ease](https://github.com/burghardt/easy-wg-quick) ([HN](https://news.ycombinator.com/item?id=24812199))
+- [dsnet](https://github.com/naggie/dsnet) - Simple command to manage a centralised wireguard VPN.
+- [Wireguard Bounce Server](https://gitlab.com/ncmncm/wireguard-bounce-server/) ([HN](https://news.ycombinator.com/item?id=25447805))
+- [IPv6 WireGuard Peering (2020)](https://fly.io/blog/ipv6-wireguard-peering/) ([HN](https://news.ycombinator.com/item?id=25513828))
+- [wireguard-manager](https://github.com/edomora97/wireguard-manager) - Build and manage a network of servers that provides a distributed VPN using wireguard.
+- [WireGuard: great protocol, but skip the Mac app (2020)](https://rachelbythebay.com/w/2020/12/24/wg/) ([Lobsters](https://lobste.rs/s/ns7pdp/wireguard_great_protocol_skip_mac_app)) ([Response](https://lists.zx2c4.com/pipermail/wireguard/2020-December/006226.html)) ([HN](https://news.ycombinator.com/item?id=25533263)) ([HN 2](https://news.ycombinator.com/item?id=25759477))
+- [WireGuard UI](https://github.com/EmbarkStudios/wg-ui) - Basic, self-contained management service for WireGuard with a self-serve web UI.
+- [My Automagic NixOS Wireguard Setup (2021)](https://christine.website/blog/my-wireguard-setup-2021-02-06)
+- [WireGuard Manager](https://github.com/complexorganizations/wireguard-manager) - Self-hosted Wireguard Manager.
+- [Kilo](https://github.com/squat/kilo) - Multi-cloud network overlay built on WireGuard and designed for Kubernetes. ([Web](https://kilo.squat.ai/))
+- [SSH and User-mode IP WireGuard (2021)](https://fly.io/blog/ssh-and-user-mode-ip-wireguard/) ([HN](https://news.ycombinator.com/item?id=26315695))
+- [tailscale-controller](https://github.com/davidsbond/tailscale-controller) - Kubernetes controller for managing the installation of Tailscale on individual nodes.
+- [Headscale](https://github.com/juanfont/headscale) - Open source implementation of the Tailscale coordination server. ([HN](https://news.ycombinator.com/item?id=28572013))
+- [innernet](https://github.com/tonarino/innernet) - Private network system that uses WireGuard under the hood. ([Article](https://blog.tonari.no/introducing-innernet))
+- [wgctl](https://github.com/apognu/wgctl) - WireGuard control utility.
+- [Ansible Wireguard Role](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
+- [Tutorial: Tailscale on AWS with Terraform (2021)](https://mediamachine.io/blog/tailscale-on-aws-with-terraform-tutorial/)
+- [Taildrop was kind of easy, actually (2021)](https://tailscale.com/blog/2021-06-taildrop-was-easy/) ([HN](https://news.ycombinator.com/item?id=27480281))
+- [Wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard-based mesh network. ([Web](https://wiretrustee.com/)) ([HN](https://news.ycombinator.com/item?id=27672715))
+- [The WireGuard VPN challenge of provisioning clients (2021)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WireGuardProvisioningChallenge) ([Lobsters](https://lobste.rs/s/fynvif/wireguard_vpn_challenge_provisioning))
+- [wg-meshconf](https://github.com/k4yt3x/wg-meshconf) - WireGuard full mesh configuration generator.
+- [Tailscale IP address by hostname with jq](https://gist.github.com/jc00ke/06ab088b9f889b551ef3fea7b970b97d)
+- [Autowire](https://github.com/elghazal-a/autowire) - Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.
+- [Tailscale at DeepSource (2021)](https://deepsource.io/blog/tailscale-at-deepsource/) ([Lobsters](https://lobste.rs/s/fbdiwx/tailscale_at_deepsource))
+- [WireGuard Easy](https://github.com/WeeJeWel/wg-easy) - Easiest way to run WireGuard VPN + Web-based Admin UI.
+- [Firezone](https://github.com/firezone/firezone) - Open-source WireGuard-based alternative to OpenVPN AS. ([HN](https://news.ycombinator.com/item?id=28683231)) ([Web](https://www.firezone.dev/)) ([HN](https://news.ycombinator.com/item?id=31539386))
+- [wg-access-server](https://github.com/Place1/wg-access-server) - All-in-one WireGuard VPN solution with a web UI. ([HN](https://news.ycombinator.com/item?id=28719488)) ([Active Fork](https://github.com/freifunkMUC/wg-access-server))
+- [Build A Portable Lab In The Cloud Using Tailscale, Terraform and DigitalOcean (2021)](https://rossedman.io/blog/computers/scale-homelab-with-tailscale/)
+- [Tailscale PAM Module](https://github.com/tailscale/pam) - Allows you to SSH using your Tailscale credentials.
+- [onetun](https://github.com/aramperes/onetun) - Cross-platform, user-space WireGuard port-forwarder that requires no system network configurations. ([HN](https://news.ycombinator.com/item?id=28884938))
+- [Why Not WireGuard (2020)](https://blog.ipfire.org/post/why-not-wireguard) ([HN](https://news.ycombinator.com/item?id=28896351))
+- [Terraform Provider Tailscale](https://github.com/davidsbond/terraform-provider-tailscale) - Terraform provider implementation for interacting with the Tailscale API.
+- [Taildrop](https://tailscale.com/kb/1106/taildrop/) - Feature that makes it easy to send files between your personal devices on a Tailscale network.
+- [Building WireGate: A WireGuard front to detect compromised keys (2021)](https://blog.thinkst.com/2021/11/building-wiregate-wireguard-front-to.html)
+- [Netmaker](https://github.com/gravitl/netmaker) - Platform for creating and managing fast, secure, and dynamic virtual overlay networks using WireGuard. ([Docs](https://netmaker.org/))
+- [WireGuard Portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection.
+- [wgsd](https://github.com/jwhited/wgsd) - CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics.
+- [WireGuard Endpoint Discovery and NAT Traversal using DNS-SD (2020)](https://www.jordanwhited.com/posts/wireguard-endpoint-discovery-nat-traversal/)
+- [wgctrl](https://github.com/WireGuard/wgctrl-go) - Enables control of WireGuard devices on multiple platforms.
+- [natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking.
+- [WireHole](https://github.com/IAmStoxe/wirehole) - Combination of WireGuard, Pi-hole, and Unbound in a docker-compose project.
+- [udppunch](https://github.com/yinheli/udppunch) - udp punch for wireguard, inspired by natpunch-go.
+- [Our User-Mode WireGuard Year · Fly (2022)](https://fly.io/blog/our-user-mode-wireguard-year/) ([HN](https://news.ycombinator.com/item?id=30275905))
+- [WireGuard Linux Code](https://github.com/WireGuard/wireguard-linux)
+- [wesher](https://github.com/costela/wesher) - WireGuard overlay mesh network manager.
+- [Automation for WireGuard VPN tunnels](https://github.com/whitequark/infra-vpn)
+- [WireGuard Web UI Code](https://github.com/ngoduykhanh/wireguard-ui)
+- [WireGuard Guide](https://github.com/mikeroyal/WireGuard-Guide)
+- [wireproxy](https://github.com/octeep/wireproxy) - Wireguard client that exposes itself as a socks5 proxy or tunnels. ([HN](https://news.ycombinator.com/item?id=30816135))
+- [WireGuard DNS Configuration for Systemd](https://www.procustodibus.com/blog/2022/03/wireguard-dns-config-for-systemd/) ([HN](https://news.ycombinator.com/item?id=30727893))
+- [esp_wireguard](https://github.com/trombik/esp_wireguard) - WireGuard Implementation for ESP-IDF.
+- [You may not need Cloudflare Tunnel. Linux is fine (2022)](https://kiwiziti.com/~matt/wireguard/) ([HN](https://news.ycombinator.com/item?id=30953744))
+- [Tailscale raises $100M to fix the Internet (2022)](https://tailscale.com/blog/series-b/) ([HN](https://news.ycombinator.com/item?id=31259950))
+- [Compare WireGuard Mesh Tools](https://github.com/HarvsG/WireGuardMeshes)
+- [wireguard_exporter](https://github.com/kbknapp/wireguard_exporter) - Prometheus exporter for WireGuard.
+- [WireGuard installer](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers.

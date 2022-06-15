@@ -1,0 +1,88 @@
+---
+title: Prometheus
+---
+
+# [Prometheus](https://prometheus.io/)
+
+## Links
+
+- [Thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
+- [Prometheus & Grafana docker-compose stack](https://github.com/vegasbrianc/prometheus)
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - High-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus. ([Web](https://victoriametrics.com/)) ([First look at performance comparison between InfluxDB IOx and VictoriaMetrics](https://medium.com/@VictoriaMetrics/first-look-at-perfomance-comparassion-between-influxdb-iox-and-victoriametrics-e590f847935b))
+- [Cortex](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
+- [Prometheus exporter for custom eBPF metrics](https://github.com/cloudflare/ebpf_exporter)
+- [Archiving Prometheus metrics with SOP](https://www.rapidloop.com/blog/prometheus-metrics-archiving.html)
+- [Awesome Prometheus](https://github.com/roaldnefs/awesome-prometheus)
+- [Prometheus Basics](https://github.com/yolossn/Prometheus-Basics) - Beginner friendly introduction to Prometheus. ([HN](https://news.ycombinator.com/item?id=23150860))
+- [Bot for Prometheus' Alertmanager](https://github.com/metalmatze/alertmanager-bot)
+- [How to Setup Prometheus Monitoring On Kubernetes Cluster (2019)](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/)
+- [Promxy](https://github.com/jacksontj/promxy) - Aggregating proxy to enable HA prometheus.
+- [process-exporter](https://github.com/ncabatoff/process-exporter) - Prometheus exporter that mines /proc to report on selected processes.
+- [Systems Monitoring with Prometheus and Grafana (2020)](https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/) ([HN](https://news.ycombinator.com/item?id=24126088))
+- [ExporterHub](https://exporterhub.io/) - Curated List of Prometheus Exporters. ([Code](https://github.com/NexClipper/exporterhub.io))
+- [Prometheus NATS Exporter](https://github.com/nats-io/prometheus-nats-exporter) - Prometheus exporter for NATS metrics.
+- [Prometheus Community Kubernetes Helm Charts](https://github.com/prometheus-community/helm-charts)
+- [PostgreSQL Prometheus Adapter](https://github.com/CrunchyData/postgresql-prometheus-adapter) - Remote storage adapter enabling Prometheus to use PostgreSQL as a long-term store for time-series metrics.
+- [PromCat](https://promcat.io/) - Resource catalog for enterprise-class Prometheus monitoring.
+- [Telegram bot for Prometheus alerting](https://github.com/inCaller/prometheus_bot)
+- [Alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager.
+- [Prometheus client for node.js](https://github.com/siimon/prom-client)
+- [Node exporter](https://github.com/prometheus/node_exporter) - Prometheus exporter for hardware and OS metrics exposed by NIX kernels, written in Go with pluggable metric collectors.
+- [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Open standard for transmitting metrics at scale, with support for both text representation and Protocol Buffers. ([Web](https://openmetrics.io/))
+- [Kvass](https://github.com/tkestack/kvass) - Provides a solution for Prometheus sharding.
+- [How to Setup Prometheus, Grafana and Loki on NixOS (2020)](https://christine.website/blog/prometheus-grafana-loki-nixos-2020-11-20) ([Lobsters](https://lobste.rs/s/cyufgo/how_setup_prometheus_grafana_loki_on))
+- [Promscale](https://github.com/timescale/promscale) - Open-source long-term store for Prometheus data designed for analytics.
+- [Prometheus Docs](https://prometheus.io/docs/introduction/overview/) ([Code](https://github.com/prometheus/docs))
+- [Awesome Prometheus Alerts](https://github.com/samber/awesome-prometheus-alerts)
+- [Understanding Prometheus Range Vectors (2021)](https://satyanash.net/software/2021/01/04/understanding-prometheus-range-vectors.html)
+- [Prometheus Exporter Toolkit](https://github.com/prometheus/exporter-toolkit) - Go library for Prometheus exporters.
+- [Get started with Prometheus with these three easy projects (2021)](https://grafana.com/blog/2021/01/08/get-started-with-prometheus-with-these-three-easy-projects/)
+- [Prometheus SQL](https://github.com/chop-dbhi/prometheus-sql) - Service that generates basic metrics for SQL result sets and exposing them as Prometheus metrics.
+- [promremote](https://github.com/m3dbx/prometheus_remote_client_golang) - Prometheus remote write client written in Go.
+- [Prometheus Explorer](https://github.com/spreadshirt/prometheus-explorer) - Lightweight metrics explorer for Prometheus, with a focus on on-the-fly analysis. ([Lobsters](https://lobste.rs/s/tkqcvo/lightweight_metrics_explorer_for))
+- [FiloDB](https://github.com/filodb/FiloDB) - Distributed, Prometheus-compatible, real-time, in-memory, massively scalable, multi-schema time series / event / operational database.
+- [kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes.
+- [bird_exporter](https://github.com/czerwonk/bird_exporter) - Metric exporter for bird routing daemon to use with Prometheus.
+- [Prometheus SQL Exporter](https://github.com/burningalchemist/sql_exporter)
+- [Prometheus and Aegis (2021)](https://christine.website/blog/aegis-prometheus-2021-04-05)
+- [karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
+- [pint](https://github.com/cloudflare/pint) - Prometheus rule linter.
+- [ML data and model drift in Prometheus and Grafana](https://boxkite.ml/en/latest/using/)
+- [Fly’s Prometheus Metrics](https://fly.io/blog/measuring-fly/) ([HN](https://news.ycombinator.com/item?id=27147482))
+- [Sloth](https://github.com/slok/sloth) - Easy and simple Prometheus SLO generator.
+- [Prometheus Example Queries](https://github.com/infinityworks/prometheus-example-queries)
+- [Pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone.
+- [A different and often better way to downsample your Prometheus metrics (2021)](https://blog.timescale.com/blog/a-different-and-often-better-way-to-downsample-your-prometheus-metrics/) ([HN](https://news.ycombinator.com/item?id=28957501))
+- [Writing a Prometheus exporter from IDE to deployed in 20 minutes (2021)](https://www.youtube.com/watch?v=2USCcDbbAZc)
+- [domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics.
+- [Google Cloud Managed Service for Prometheus (2021)](https://cloud.google.com/blog/products/operations/introducing-google-cloud-managed-service-for-prometheus) ([Tweet](https://twitter.com/rseroter/status/1460309366205153285))
+- [Prometheus Engine for GCP](https://github.com/GoogleCloudPlatform/prometheus-engine)
+- [script_exporter](https://github.com/ricoberger/script_exporter) - Prometheus exporter to execute scripts and collect metrics from the output or the exit status.
+- [promgrpc](https://github.com/piotrkowalczuk/promgrpc) - Prometheus instrumentation library for gRPC powered Go applications.
+- [Prometheus Stack Review (2022)](https://clux.github.io/probes/post/2022-01-11-prometheus-ecosystem/)
+- [Prometheus Plugin for Steampipe](https://github.com/turbot/steampipe-plugin-prometheus) - Use SQL to query instances, domains and more from Prometheus.
+- [Prometheus Rust client library](https://github.com/prometheus/client_rust)
+- [node-cert-exporter](https://github.com/amimof/node-cert-exporter) - Prometheus exporter for x509 certificates written in Go.
+- [Can I have a smaller Prometheus (2022)](https://wejick.wordpress.com/2022/01/29/can-i-have-a-smaller-prometheus/) ([Lobsters](https://lobste.rs/s/mdvdfy/can_i_have_smaller_prometheus))
+- [ecs_exporter](https://github.com/prometheus-community/ecs_exporter) - Prometheus exporter for Amazon Elastic Container Service (ECS).
+- [Prometheus exporter for EdgeRouter](https://github.com/chitoku-k/edgerouter-exporter)
+- [Krius](https://github.com/infracloudio/krius) - Tool to setup Prometheus, Thanos & friends across multiple clusters easily for scale.
+- [Scraper](https://github.com/arriqaaq/scraper) - Simple library to scrape and monitor multiple urls and provide prometheus metrics.
+- [Prometheus Development Dev Shell](https://github.com/roidelapluie/prometheus-nix-dev) - Nix flake to build & run Prometheus.
+- [Kube eagle](https://github.com/cloudworkz/kube-eagle) - Prometheus exporter created to provide a better overview of your resource allocation and utilization in a Kubernetes cluster.
+- [Grafana Mimir](https://grafana.com/oss/mimir/) - Horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. ([Code](https://github.com/grafana/mimir)) ([HN](https://news.ycombinator.com/item?id=30854734))
+
+- [Prometheus SQL Exporter](https://github.com/justwatchcom/sql_exporter) - Flexible SQL Exporter for Prometheus.
+- [prometheus-web](https://github.com/marigold-dev/prometheus-web) - Helpers to use the prometheus library with different web frameworks.
+- [Prometheus metric storage](https://github.com/cowprotocol/prometheus-metric-storage) - Derive macro to instantiate and register prometheus metrics without having to write tons of boilerplate code.
+- [Apache Exporter for Prometheus](https://github.com/Lusitaniae/apache_exporter)
+- [Prometheus Compliance Tests](https://github.com/prometheus/compliance) - Set of tests to check compliance with various Prometheus interfaces.
+- [prometheus-query](https://github.com/samber/prometheus-query-js) - JavaScript client for Prometheus query API.
+- [Nightingale](https://github.com/didi/nightingale) - Enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.
+- [Promviz](https://github.com/nghialv/promviz) - Visualize the traffic of your clusters in real time from Prometheus data.
+- [Fastly Exporter](https://github.com/fastly/fastly-exporter) - Prometheus exporter for the Fastly Real-time Analytics API.
+- [Gravel Gateway](https://github.com/sinkingpoint/prometheus-gravel-gateway) - Prometheus Push Gateway for FAAS applications.
+- [Tesla Prometheus Exporter](https://github.com/wywywywy/tesla-prometheus-exporter)
+- [CloudFlare Prometheus exporter](https://github.com/lablabs/cloudflare-exporter)
+- [Coroot-node-agent](https://github.com/coroot/coroot-node-agent) - Prometheus exporter based on eBPF that gathers comprehensive container metrics.
+- [smokeping_prober](https://github.com/SuperQ/smokeping_prober) - Prometheus style smokeping.

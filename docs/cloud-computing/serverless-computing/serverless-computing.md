@@ -1,0 +1,169 @@
+# Serverless computing
+
+Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functions](https://vercel.com/docs/concepts/functions/introduction) (NextJS) & [Cloudflare Workers](https://workers.cloudflare.com/) (Rust) for [serverless workloads](https://twitter.com/algo_luca/status/1464275828519448580).
+
+[Railway](https://railway.app/) & [Fly.io](https://fly.io/) are incredible platforms too. [Serverless Application Stack](https://jbrandhorst.com/post/serverless-application-stack/) is nice overview.
+
+## Notes
+
+- [What if a program was just running. There's no start or stop, just pause and resume. You can snapshot it at any time and restore that snapshot later. You can share or sync its state across multiple instances. The way you program this is like a REPL, not compiled files.](https://twitter.com/rsms/status/1389958973621563395)
+- [Testing locally isn't nice to have. It's table stakes for developer velocity. A dev without local feedback is slower. You don't want to be slower!](https://twitter.com/brianleroux/status/1399734769663971330)
+- [Give developers straight forward ways to express their intent, and let the platform quietly manage all the complexity this demands on their behalf.](https://twitter.com/philhawksworth/status/1452940698907553792)
+- [Edge caching (while cool) is not as necessary if you can just do compute on the edge (via fly in this case) and cache everything on the server (like the content itself). It's pretty sweet.](https://twitter.com/kentcdodds/status/1456232073111343104)
+
+## Links
+
+- [Fly](https://fly.io/) - Deploy app servers close to your users. ([flyctl - command-line interface for fly.io](https://github.com/superfly/flyctl)) ([GitHub](https://github.com/superfly/)) ([Docs](https://fly.io/docs/)) ([Docs Code](https://github.com/superfly/docs)) ([Article](https://christine.website/blog/fly.io-heroku-replacement)) ([HN](https://news.ycombinator.com/item?id=31390506)) ([Article](https://blog.hartleybrody.com/thoughts-on-flyio/)) ([HN](https://news.ycombinator.com/item?id=31413483))
+- [Introduction to serverless applications and databases](https://www.prisma.io/dataguide/serverless/what-is-serverless)
+- [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. ([HN](https://news.ycombinator.com/item?id=22512196)) ([Web](https://firecracker-microvm.github.io/)) ([HN](https://news.ycombinator.com/item?id=28893884))
+- [Firecracker: start a VM in less than a second (2021)](https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/) ([HN](https://news.ycombinator.com/item?id=25883253))
+- [fn](https://github.com/fnproject/fn) - Container native, cloud agnostic serverless platform.
+- [Architect](https://github.com/architect/architect) - The simplest, most powerful way to build serverless applications. ([Docs](https://arc.codes/))
+- [serverless-chrome](https://github.com/adieuadieu/serverless-chrome) - Run headless Chrome/Chromium on AWS Lambda (maybe Azure, & GCP later).
+- [Space Cloud](https://github.com/spaceuptech/space-cloud) - Open source, web server that provides instant Realtime APIs on any database of your choice.
+- [ƒun](https://github.com/vercel/fun) - Local serverless function λ development runtime.
+- [faast.js](https://faastjs.org/) - Serverless batch computing made simple.
+- [Introducing Serverless Pre-Rendering (SPR) (2019)](https://zeit.co/blog/serverless-pre-rendering)
+- [Netlify Functions](https://www.netlify.com/products/functions/) - Modern, scalable backend built into every Netlify account. No setup, servers, or ops required.
+- [Begin](https://begin.com/) - Create AWS serverless apps, APIs, and sites with databases, sessions, and full CI/CD. In ten seconds.
+- [Serverless components](https://github.com/serverless/components) - Easier way to build and share serverless applications w/ the Serverless Framework. ([HN](https://news.ycombinator.com/item?id=20600519))
+- [Fly runtime](https://github.com/superfly/fly) - Open source Javascript environment built to run Edge Applications. It gives developers powerful caching, content modification, and routing tools.
+- [Security Overview of AWS Lambda (2019)](https://d1.awsstatic.com/whitepapers/Overview-AWS-Lambda-Security.pdf)
+- [Rust, WebAssembly, and the future of Serverless by Steve Klabnik (2019)](https://www.youtube.com/watch?v=CMB6AlE1QuI&list=PLe9psSNJBf74yYiVXDXz8UnRnWf3NHzS-&index=16)
+- [Awesome Zeit](https://github.com/zeit/awesome-zeit)
+- [Fastly's new serverless compute environment gives you more power at the edge (2019)](https://www.fastly.com/blog/join-the-beta-new-serverless-compute-environment-at-the-edge)
+- [Serverless handbook for front end engineers](https://serverlesshandbook.dev/)
+- [Coding on the Edge – John Graham Cumming (2018)](https://www.youtube.com/watch?v=Ydu9qVUjh4Q)
+- [Pulumi Examples](https://github.com/pulumi/examples) - Contains examples of using Pulumi to build and deploy cloud applications and infrastructure.
+- [2019 in Review - rauchg](https://rauchg.com/2020/2019-in-review) ([HN](https://news.ycombinator.com/item?id=21965551))
+- [Cloudstate](https://github.com/cloudstateio/cloudstate) - Distributed State Management for Serverless.
+- [Deploy Your First Serverless Function Using JavaScript (2020)](https://dev.to/jlengstorf/deploy-your-first-serverless-function-using-javascript-1g4e)
+- [Cloud Run Button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click.
+- [Build a serverless website from scratch using S3, API Gateway, AWS Lambda, Go and Terraform (2019)](https://rogerwelin.github.io/aws/serverless/terraform/lambda/2019/03/18/build-a-serverless-website-from-scratch-with-lambda-and-terraform.html)
+- [Stateful Programming Models in Serverless Functions (2019)](https://www.youtube.com/watch?v=YUJjhnYIj4M)
+- [Azure Functions’ Durable Entities (2019)](https://medium.com/@cgillum/azure-functions-durable-entities-67db648d2f74)
+- [Jexia](https://www.jexia.com/en/) - Developer platform that helps you to build serverless API-driven applications in a fast and simple way.
+- [Running a serverless Go web application (2019)](https://bartfokker.com/posts/cloud-run)
+- [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS. ([Web](https://apex.sh/up/))
+- [Fauna](https://fauna.com/) - Database built for serverless, featuring native GraphQL.
+- [OpenFaaS](https://www.openfaas.com/) - Makes it simple to deploy both functions and existing code to Kubernetes. ([Code](https://github.com/openfaas/faas)) ([OpenFaaS - Run Containerized Functions On Your Own Terms](https://iximiuz.com/en/posts/openfaas-case-study/))
+- [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - Managed OpenFaaS for teams.
+- [Serverless](https://serverless.com/) - Serverless application framework powered by AWS Lambda. ([Code](https://github.com/serverless/serverless)) ([Cloud](https://www.serverless.com/cloud)) ([Cloud Code](https://github.com/serverless/cloud))
+- [Is Google Cloud Run really Knative? (2020)](https://ahmet.im/blog/cloud-run-is-a-knative/)
+- [Serverless Jetpack](https://github.com/FormidableLabs/serverless-jetpack) - Faster JavaScript packager for Serverless applications. ([Article](https://formidable.com/blog/2020/jetpack-trace-your-way-to-faster-and-smaller-serverless-packages/))
+- [Living On The Edge: Lazy Static Sites With Modern CDNs And Lambda (2020)](https://formidable.com/blog/2019/modern-cdns-lambda/)
+- [λ-NIC: Interactive Serverless Compute on Programmable SmartNICs (2019)](https://arxiv.org/pdf/1909.11958.pdf)
+- [snow](https://github.com/snowjs/cli) - CLI tool for dead-simple serverless Docker deployments on managed Kubernetes services. A self-hosted PaaS.
+- [Serverless-Dev-Tools](https://github.com/Theodo-UK/sls-dev-tools) - Developer Tools for the Serverless World - think Chrome Dev Tools but for Serverless.
+- [Weave Ignite](https://github.com/weaveworks/ignite) - Open source Virtual Machine (VM) manager with a container UX and built-in GitOps management.
+- [Faasm](https://github.com/lsds/Faasm) - High-performance stateful serverless runtime.
+- [What a typical serverless architecture looks like in AWS (2020)](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb) ([HN](https://news.ycombinator.com/item?id=23274668))
+- [Serverless vs traditional app architecture diagram](https://twitter.com/tucker_dev/status/1265035142336180225)
+- [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
+- [leaderboard-app](https://github.com/alexellis/leaderboard-app) - GitHub leaderboard for your organisation or repo (Serverless SPA).
+- [Webiny](https://github.com/webiny/webiny-js) - Platform for building serverless applications and API (Node.js, React, GraphQL). ([Web](https://www.webiny.com/))
+- [The rise of embarrassingly parallel serverless compute (2020)](https://davidwells.io/blog/rise-of-embarrassingly-parallel-serverless-compute)
+- [Serverless Workshop](https://github.com/DavidWells/serverless-workshop) - Open source serverless workshop. Ready to deploy serverless examples on AWS.
+- [StreamAlert](https://github.com/airbnb/streamalert) - Serverless, Realtime Data Analysis Framework.
+- [Koyeb](https://www.koyeb.com/) - Simple serverless processing workflows, on any cloud. ([HN](https://news.ycombinator.com/item?id=23488902))
+- [Cloud Functions for Firebase](https://github.com/firebase/functions-samples) ([Web](https://firebase.google.com/docs/functions))
+- [Serverless Visually Explained](https://serverless-visually-explained.com/)
+- [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - Enables containerd to manage containers as Firecracker microVMs.
+- [firecracker-go-sdk](https://github.com/firecracker-microvm/firecracker-go-sdk) - SDK in Go for the Firecracker microVM API.
+- [The Edge Computing Opportunity: It’s Not What You Think (2020)](https://blog.cloudflare.com/cloudflare-workers-serverless-week/)
+- [twilio-run](https://github.com/twilio-labs/twilio-run) - CLI tool to develop, debug and deploy Twilio Functions.
+- [Building a serverless hosting platform (2020)](https://blog.vtemian.com/post/serverless-hosting-platform/)
+- [Cloud Foundry CLI](https://github.com/cloudfoundry/cli)
+- [Building a Modern-Day Hit Counter (2020)](https://joshwcomeau.com/react/serverless-hit-counter/) - Shows how I use FaunaDB and serverless functions to use dynamic user-generated data in my static Gatsby site. ([HN](https://news.ycombinator.com/item?id=24617086))
+- [Serverless for data scientists (2019)](https://mike.place/2019/serverless-for-data-scientists/)
+- [Strategies Scalable Web Architecture](https://gist.github.com/erwindev/a6b28231f3c7798180925b82772f63df)
+- [Netlify Edge Handlers](https://www.netlify.com/products/edge/edge-handlers) - Run custom code right from the network edge with incredible performance.
+- [The Serverless Revolution Has Stalled (2020)](https://www.infoq.com/articles/serverless-stalled/) ([HN](https://news.ycombinator.com/item?id=24758772))
+- [Datadog Serverless Plugin](https://github.com/DataDog/serverless-plugin-datadog) - Serverless plugin to automagically instrument your Lambda functions with Datadog.
+- [Booster](https://github.com/boostercloud/booster) - High-level framework for TypeScript to build Serverless applications with built-in business-logic-level abstractions. ([Web](https://booster.cloud/))
+- [OpenWhisk](https://github.com/apache/openwhisk) - Serverless functions platform for building cloud applications. ([Web](https://openwhisk.apache.org/))
+- [faasd](https://github.com/openfaas/faasd) - OpenFaaS reimagined, but without the cost and complexity of Kubernetes. It runs on a single host with very modest requirements, making it fast and easy to manage.
+- [Announcing Netlify Background Functions (2020)](https://www.netlify.com/blog/2020/10/29/announcing-background-functions/)
+- [How to build a tool like Zapier using Lambda, SQS & DynamoDB (2020)](https://www.learnaws.org/2020/11/19/build-zapier-alternative/)
+- [Serverless-artillery](https://github.com/Nordstrom/serverless-artillery) - Combine serverless with artillery and you get serverless-artillery for instant, cheap, and easy performance testing at scale.
+- [Cloudash](https://github.com/cloudashdev/cloudash) - Monitoring and troubleshooting app for serverless architectures.
+- [Back to the '70s with Serverless (2020)](http://evrl.com/devops/cloud/2020/12/18/serverless.html) ([HN](https://news.ycombinator.com/item?id=25482410)) ([Lobsters](https://lobste.rs/s/9o4zsx/back_70s_with_serverless))
+- [Serverless Stack](https://serverless-stack.com/) - Building a Full-Stack App with Serverless and React. ([Code](https://github.com/AnomalyInnovations/serverless-stack-com))
+- [Serverless Workflow Specification](https://serverlessworkflow.io/) - Specification that defines a declarative and domain-specific workflow language for orchestrating events and services. ([Code](https://github.com/serverlessworkflow/specification))
+- [Serverless Express](https://github.com/vendia/serverless-express) - Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway.
+- [Serverless for Everyone Else (2021)](https://gumroad.com/l/serverless-for-everyone-else) ([HN](https://news.ycombinator.com/item?id=25792665))
+- [rusty-workers](https://github.com/losfair/rusty-workers) - Cloud-native distributed serverless workers platform.
+- [Seed](https://seed.run/) - Fully-Managed CI/CD Pipeline for Serverless. ([HN](https://news.ycombinator.com/item?id=25835280))
+- [Atmo](https://github.com/suborbital/atmo) - Build function-based web services using your favorite languages, powered by WebAssembly. ([Docs](https://atmo.suborbital.dev/))
+- [The State of the Serverless Art (2021)](https://medium.com/riselab/the-state-of-the-serverless-art-78a4f02951eb)
+- [Introduction to Serverless Go with OpenFaaS (2021)](https://www.youtube.com/watch?v=kFnTiRCYzCM)
+- [Modern, faster Netlify Functions: New bundler and JavaScript features (2021)](https://www.netlify.com/blog/2021/04/02/modern-faster-netlify-functions/)
+- [Serverless Land](https://serverlessland.com/) - Resources for learning about AWS serverless technology. ([Code](https://github.com/aws-samples/serverless-patterns))
+- [Serverless Patterns Collection](https://serverlessland.com/patterns) ([CLI](https://github.com/mhlabs/sam-patterns-cli))
+- [What challenges have you faced adopting serverless technologies? (2021)](https://twitter.com/flybayer/status/1381743417391255559)
+- [Building an OpenGraph image generation API with Cloudinary, Netlify Functions, and React](https://egghead.io/courses/building-an-opengraph-image-generation-api-with-cloudinary-netlify-functions-and-react-914e)
+- [Lift](https://github.com/getlift/lift) - Easily deploy well-designed serverless applications on AWS.
+- [vHive](https://github.com/ease-lab/vhive) - Open-source framework for serverless experimentation.
+- [Go SDK for Serverless Workflow](https://github.com/serverlessworkflow/sdk-go)
+- [The State of Serverless (2021)](https://www.datadoghq.com/state-of-serverless/)
+- [Second State](https://www.secondstate.io/) - Fast, safe, portable & serverless Rust on WebAssembly. ([GitHub](https://github.com/second-state))
+- [The Serverless Edge](https://www.theserverlessedge.com/) - Learn how serverless can transform your business model.
+- [Commandeer](https://getcommandeer.com/) - Desktop cloud management app - AWS S3, DynamoDB, Lambda. ([Code](https://github.com/commandeer/open))
+- [Serving dynamic website content with serverless architecture (2021)](https://acloudguru.com/blog/engineering/serving-dynamic-website-content-with-serverless-architecture)
+- [Serverless глазами инженера: “используешь, перестаешь программировать, становишься оператором Амазона” (2021)](https://m.habr.com/ru/company/rebrainme/blog/565078/)
+- [Netlify Lambda](https://github.com/netlify/netlify-lambda) - Optional tool that helps with building or locally developing Netlify Functions with a simple webpack/babel build step.
+- [Designing Our Serverless Engine: From Kubernetes to Nomad, Firecracker, and Kuma (2021)](https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma)
+- [Serverless Step Functions](https://github.com/serverless-operations/serverless-step-functions) - Serverless Framework plugin for AWS Step Functions.
+- [A Serverless Event Collector (2021)](https://www.ethanrosenthal.com/2021/07/20/serverless-event-collector/)
+- [Going Intergalactic with Serverless Functions on Netlify (2021)](https://sia.codes/posts/serverless-functions-netlify/)
+- [Deploy your own faasd appliance with cloud-init (2020)](https://blog.alexellis.io/deploy-serverless-faasd-with-cloud-init/)
+- [Running OpenFaas Pro on Linode K8s (feat. Aiven and Pulumi)](https://github.com/dirien/pulumi-aiven-openfaas)
+- [What Serverless Computing Is and Should Become (2021)](https://cacm.acm.org/magazines/2021/5/252179-what-serverless-computing-is-and-should-become/fulltext) ([Lobsters](https://lobste.rs/s/8bvgh9/what_serverless_computing_is_should))
+- [From Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Functional Containers (2021)](https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html)
+- [Firecracker: Lightweight Virtualization for Serverless Applications](https://www.usenix.org/conference/nsdi20/presentation/agache) ([Review](https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-for-serverless-applications.html))
+- [Cloudash](https://cloudash.dev/) - Monitoring and troubleshooting desktop app for serverless architectures. ([Twitter](https://twitter.com/cloudashdev))
+- [Viceroy](https://github.com/fastly/Viceroy) - Local testing for developers working with Compute@Edge.
+- [Faster, more reliable page loads with update to On-demand Builders (2021)](https://www.netlify.com/blog/2021/10/25/faster-more-reliable-page-loads-with-update-to-on-demand-builders/) ([Tweet](https://twitter.com/biilmann/status/1452755558306508800))
+- [Edge Functions – Vercel](https://vercel.com/features/edge-functions) ([Tweet](https://twitter.com/vercel/status/1453034541463916549)) ([Tweet](https://twitter.com/lcasdev/status/1453046218490253320))
+- [Improving long-running jobs for OpenFaaS users (2021)](https://www.openfaas.com/blog/long-running-jobs/)
+- [Serverless WebSockets at Scale | Simon Tabor (2020)](https://www.youtube.com/watch?v=lXNw2RTaD8g)
+- [Prisma Serverless Conference](https://www.prisma.io/serverless)
+- [fnrun](https://github.com/fnrun/fnrun) - Tools for building business functions and runners. ([Web](https://fnrun.dev/))
+- [The Unfulfilled Promise of Serverless (2021)](https://www.lastweekinaws.com/blog/the-unfulfilled-promise-of-serverless/) ([HN](https://news.ycombinator.com/item?id=29282824))
+- [OpenFaaS Function Store](https://github.com/openfaas/store) - Curated index of OpenFaaS functions which have been tested by the community.
+- [faas-provider](https://github.com/openfaas/faas-provider) - Backend provider interface for OpenFaaS.
+- [queue-worker for NATS Streaming](https://github.com/openfaas/nats-queue-worker) - Queue-worker for OpenFaaS with NATS Streaming.
+- [faas-cli](https://github.com/openfaas/faas-cli) - Official CLI for OpenFaaS.
+- [Fly Init](https://github.com/superfly/init-snapshot) - Public snapshot of Fly's init code. It powers every Firecracker microvm we run for our users.
+- [OpenFaaS Classic templates](https://github.com/openfaas/templates)
+- [Serverless Shell](https://github.com/crucial-project/serverless-shell) - Brings the power of shell scripting to the serverless world.
+- [Getting started with testing serverless applications (2021)](https://aws.amazon.com/blogs/compute/getting-started-with-testing-serverless-applications/)
+- [Why I minimize emulator use when developing serverless applications (2021)](https://twitter.com/edjgeek/status/1450841277130498051)
+- [fastlike](https://github.com/avidal/fastlike) - Run Fastly Compute@Edge Wasm programs on your own computer, powered by wasmtime.
+- [ChiselStrike](https://www.chiselstrike.com/) - Automated Serverless Backends. ([GitHub](https://github.com/chiselstrike))
+- [Fly Edge](https://github.com/superfly/edge) - Set of useful libraries for Edge Apps. Run locally, write tests, and integrate it into your deployment process.
+- [Netlify Labs](https://github.com/netlify/labs) - Documentation and samples for Netlify Labs features.
+- [Gigamono](https://www.gigamono.com/) - Secure Multi-Tenant Serverless Framework for Building Workspaces. ([GitHub](https://github.com/gigamono)) ([Code](https://github.com/gigamono/gigamono))
+- [Compute@Edge static content starter kit for Rust](https://github.com/fastly/compute-starter-kit-rust-static-content) - Speed up your websites with a Compute@Edge environment that demonstrates serving content from a static bucket, redirects, security and performance headers, and a 404 page.
+- [Serverless Data](https://www.serverless.com/cloud/docs/apps/data) - Super fast, automatically scalable datastore that's built in to Serverless Cloud. ([Utilities for Serverless Data](https://github.com/loreanvictor/serverless-cloud-data-utils))
+- [Inngest](https://www.inngest.com/) - Build serverless event-driven functions in minutes. ([Twitter](https://twitter.com/inngest))
+- [TriggerFlow](https://github.com/triggerflow/triggerflow) - Event-based Orchestration of Serverless Workflows.
+- [Serverless Monorepo Microservices Template](https://github.com/swarmion/template)
+- [Swarmion](https://github.com/swarmion/swarmion) - Set of tools to build and deploy type-safe Serverless microservices.
+- [Compute@Edge default starter kit for AssemblyScript](https://github.com/fastly/compute-starter-kit-assemblyscript-default)
+- [Serverless Rules](https://github.com/awslabs/serverless-rules) - Compilation of rules to validate infrastructure-as-code templates against recommended practices for serverless applications.
+- [Serverless Framework Hexagonal Template](https://github.com/serverlesspolska/serverless-hexagonal-template)
+- [Nitric Serverless Framework](https://nitric.io/) - Build Cloud-Native Apps Fast.
+- [Lumigo](https://lumigo.io/) - Serverless Monitoring and Troubleshooting Platform. ([CLI](https://github.com/lumigo-io/lumigo-CLI))
+- [Compute@Edge starter kit for JavaScript](https://github.com/fastly/compute-starter-kit-javascript-default)
+- [Serverless Rust Demo](https://github.com/aws-samples/serverless-rust-demo) - Simple serverless application built in Rust. It consists of an API Gateway backed by four Lambda functions and a DynamoDB table for storage.
+- [Supabase Functions Relay](https://github.com/supabase/functions-relay) - API gateway which is run before any edge function is invoked.
+- [After 5 years, I'm out of the serverless compute cult (2022)](https://dev.to/brentmitchell/after-5-years-im-out-of-the-serverless-compute-cult-3f6d)
+- [Serverless Application Stack (2021)](https://jbrandhorst.com/post/serverless-application-stack/)
+- [Edge Functions on Netlify Examples](https://edge-functions-examples.netlify.app/)
+- [Fastly Compute@Edge starter kit with Hono](https://github.com/honojs/compute-starter-kit)
+- [Demo of server-sent events with Netlify Edge Functions](https://github.com/ascorbic/sse-demo)
+- [Ask HN: Options for handling state at the edge? (2022)](https://news.ycombinator.com/item?id=31342436)
+- [AWS Serverless Samples](https://github.com/aws-samples/serverless-samples)
+- [fasttime](https://github.com/softprops/fasttime) - Lightweight Fastly Compute@Edge runtime for running and testing WASM applications locally.
+- [Upstash](https://upstash.com/) - Serverless Data for Redis and Kafka. ([GitHub](https://github.com/upstash)) ([Twitter](https://twitter.com/upstash)) ([CLI](https://github.com/upstash/cli))

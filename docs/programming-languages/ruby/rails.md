@@ -1,0 +1,170 @@
+---
+title: Rails
+---
+
+# [Rails](https://github.com/rails/rails)
+
+[Bullet Train Rails template](https://bullettrain.co/) seems nice.
+
+## Notes
+
+- [Render.com can host Rails code bases nicely](https://twitter.com/signalnerve/status/1462171434147532801)
+- [I found in Rails that my controllers stopped mapping 1:1 to my models very quickly, but rather mapped to the URL of the UI.](https://twitter.com/ryanflorence/status/1513210933442596864)
+
+## Links
+
+- [RailsConf 2019 - Rethinking the View Layer with Components by Joel Hawksley (2019)](https://www.youtube.com/watch?v=y5Z5a6QdA-M)
+- [dev.to source code](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow.
+- [Real World Rails](https://github.com/eliotsykes/real-world-rails) - Real World Rails applications and their open source codebases for developers to learn from.
+- [Production Rails](https://github.com/ankane/production_rails) - Best practices for running Rails in production.
+- [React-Rails](https://github.com/reactjs/react-rails) - Integrate React.js with Rails views and controllers, the asset pipeline, or webpacker.
+- [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love. ([Docs](https://docs.stimulusreflex.com/)) ([HN](https://news.ycombinator.com/item?id=25789703))
+- [Boring Rails](https://boringrails.com/)
+- [When Should You Not Use Rails? (2020)](http://codefol.io/posts/when-should-you-not-use-rails/) ([Lobsters](https://lobste.rs/s/khbupj/when_should_you_not_use_rails)) ([HN](https://news.ycombinator.com/item?id=24057715))
+- [Lobsters Rails Code](https://github.com/lobsters/lobsters)
+- [Introduction to Ruby on Rails Patterns and Anti-patterns (2020)](https://blog.appsignal.com/2020/08/05/introduction-to-ruby-on-rails-patterns-and-anti-patterns.html)
+- [How Shopify reduced storefront response times with a rewrite (2020)](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite) ([HN](https://news.ycombinator.com/item?id=24228651))
+- [A Site Reborn](https://calebhearth.com/a-site-reborn)
+- [Under Deconstruction: The State of Shopify’s Monolith (2020)](https://engineering.shopify.com/blogs/engineering/shopify-monolith) ([HN](https://news.ycombinator.com/item?id=24505467))
+- [Rails Concerns: To Concern Or Not To Concern (2020)](https://blog.appsignal.com/2020/09/16/rails-concers-to-concern-or-not-to-concern.html) ([HN](https://news.ycombinator.com/item?id=24503022))
+- [Rails Performance](https://github.com/igorkasyanchuk/rails_performance) - Monitor performance of you Rails applications.
+- [railsnew.io](https://railsnew.io/) - Simplest way to generate a new Rails app with (or without) all the bells and whistles.
+- [Rails Common WTFs](https://discuss.rubyonrails.org/t/frequently-wtfed-wtfs/74706)
+- [HatchBox](https://www.hatchbox.io/) - Build, deploy, and manage Rails apps.
+- [Guide to Reactive Rails](https://github.com/obie/guide-to-reactive-rails)
+- [Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide) - Community-driven Ruby on Rails style guide. ([Docs](https://rails.rubystyle.guide/)) ([RuboCop Rails](https://github.com/rubocop-hq/rubocop-rails))
+- [React on Rails](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails + rails/webpacker including server-side rendering of React.
+- [Ruby on Rails in a Week (2020)](https://www.simplethread.com/ruby-on-rails-in-a-week/) ([HN](https://news.ycombinator.com/item?id=24934581))
+- [How to GraphQL with Ruby, Rails, Active Record, and No N+1 (2020)](https://evilmartians.com/chronicles/how-to-graphql-with-ruby-rails-active-record-and-no-n-plus-one) ([HN](https://news.ycombinator.com/item?id=25037293))
+- [Introduction to Ruby on Rails Patterns and Anti-patterns (2020)](https://pragmaticpineapple.com/introduction-to-ruby-on-rails-patterns-and-anti-patterns/)
+- [Moving my serverless project to Ruby on Rails (2020)](https://frantic.im/back-to-rails) ([HN](https://news.ycombinator.com/item?id=25100397)) ([Lobsters](https://lobste.rs/s/apt5if/moving_my_serverless_project_ruby_on))
+- [Data pipelines in Ruby on Rails (2020)](https://coreym.info/data-pipelines-in-ruby-on-rails/)
+- [Matestack](https://matestack.io/) - Reactive UIs in pure Ruby. ([HN](https://news.ycombinator.com/item?id=25175172)) ([GitHub](https://github.com/matestack))
+- [Will Johnson Blog](https://williamjohnson.dev/) - Covers Rails development.
+- [Ruby on Rails: Still the Best Web App Framework for Most Teams (2020)](https://naildrivin5.com/blog/2020/11/23/rails-is-the-best-choice-for-most-teams.html) ([Lobsters](https://lobste.rs/s/unafsx/ruby_on_rails_still_best_web_app_framework))
+- [Rails & Next.js Project Skeleton](https://github.com/pch/rails-nextjs-docker-skeleton)
+- [Rails 6.1.0 (2020)](https://github.com/rails/rails/releases/tag/v6.1.0) ([HN](https://news.ycombinator.com/item?id=25364234))
+- [Encapsulating Ruby on Rails views (2020)](https://github.blog/2020-12-15-encapsulating-ruby-on-rails-views/)
+- [How I Upgrade Ruby on Rails (2020)](https://t27duck.com/posts/8-how-i-upgrade-ruby-on-rails) ([Lobsters](https://lobste.rs/s/ut2i1t/how_i_upgrade_ruby_on_rails))
+- [Rails Tutorial](https://www.railstutorial.org/)
+- [Rails Settings Cached](https://github.com/huacnlee/rails-settings-cached) - Global settings for your Rails application.
+- [Fie](https://github.com/raen79/fie) - Rails-centric frontend framework running over a permanent WebSocket connection.
+- [Kuby](https://getkuby.io/) - Convention over configuration approach for deploying Rails apps. ([Code](https://github.com/getkuby/kuby-core))
+- [Forest Admin in Rails](https://www.forestadmin.com/) - Provides an off-the-shelf administration panel based on a highly-extensible API plugged into your application.
+- [testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database.
+- [FastRuby.io](https://www.fastruby.io/) - Rails Upgrade Service.
+- [Engems](https://github.com/palkan/engems) - Rails component-based architecture on top of engines and gems.
+- [Tokenable](https://github.com/tokenable/tokenable-ruby) - Rails gem that allows API-only applications a way to authenticate users.
+- [Rails: Postgres Partial Indexing (2021)](https://www.johnnunemaker.com/rails-postgres-partial-indexing/)
+- [Active Record, Postgres, Rails, and time travel (2021)](https://evilmartians.com/chronicles/logidze-1-0-active-record-postgresql-rails-and-time-travel)
+- [Rails PG Extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
+- [Ruby on Rails View Patterns and Anti-patterns (2021)](https://blog.appsignal.com/2021/02/10/ruby-on-rails-view-patterns-and-anti-patterns.html)
+- [There's No Such Thing as a Free Gem: How to roll your own Twitter OAuth flow in Rails (2021)](https://blog.testdouble.com/posts/2021-02-11-theres-no-such-thing-as-a-free-gem/)
+- [Using Webpacker in Your Ruby on Rails Application — a Deep Dive (2021)](https://blog.appsignal.com/2021/02/17/using-webpacker-in-your-ruby-on-rails-app-deep-dive.html)
+- [A year of Rails (2021)](https://macwright.com/2021/02/18/a-year-of-rails.html)
+- [Passwordless](https://github.com/mikker/passwordless) - Authentication for your Rails app without the icky-ness of passwords.
+- [RailsAdmin](https://github.com/sferik/rails_admin) - Rails engine that provides an easy-to-use interface for managing your data.
+- [Bullet](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
+- [Rails Best Practices (2021)](https://www.youtube.com/watch?v=vw7PlBvLq9k)
+- [Prosopite](https://github.com/charkost/prosopite) - Rails N+1 queries auto-detection with zero false positives / false negatives.
+- [Turbo Native for iOS](https://www.driftingruby.com/episodes/turbo-native-for-ios)
+- [Drifting Ruby](https://www.driftingruby.com/) - Ruby on Rails Screencasts for Web Developers.
+- [My Ruby on Rails stack for side projects in 2021](https://www.mskog.com/posts/my-recommended-rails-stack-in-2021/)
+- [Rails: How to Reduce Friction at the Authorization Layer (2021)](https://www.johnnunemaker.com/rails-authorization/)
+- [Noticed](https://github.com/excid3/noticed) - Notifications for Ruby on Rails applications.
+- [GoRails](https://gorails.com/) - Learn Ruby on Rails.
+- [Rails Bytes](https://railsbytes.com/) - Templates to enrich your Ruby on Rails apps.
+- [Jumpstart Pro](https://jumpstartrails.com/) - Ruby on Rails SaaS Template.
+- [Why Write Rails View Tests (2021)](https://pragmaticpineapple.com/why-write-rails-view-tests/)
+- [How to Build a Web App with and without Rails Libraries (2021)](https://shopify.engineering/building-web-app-ruby-rails)
+- [What is a Rails model? (2021)](https://www.codewithjason.com/what-is-a-rails-model/)
+- [Rails Testing for Beginners](https://www.codewithjason.com/rails-testing-for-beginners/)
+- [Ruby on Rails Controller Patterns and Anti-patterns (2021)](https://blog.appsignal.com/2021/04/14/ruby-on-rails-controller-patterns-and-anti-patterns.html)
+- [Hotwire: Reactive Rails with no JavaScript? (2021)](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
+- [Dead simple Rails monitoring (2021)](http://tomrothe.de/posts/dead-simple-rails-monitoring.html)
+- [The room where it happens: How Rails gets made (2021)](https://schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made/) ([Lobsters](https://lobste.rs/s/j1gmob/room_where_it_happens_how_rails_gets_made))
+- [How I organize my Rails apps (2021)](https://www.codewithjason.com/organize-rails-apps/)
+- [Cells](https://github.com/trailblazer/cells) - View components for Ruby and Rails.
+- [Designing and Launching New Features in Rails (2021)](https://blog.engineyard.com/ruby-unbundled-design-and-launch-features-in-rails)
+- [Active Record Encryption in Rails 7 (2021)](https://hint.io/blog/Active-Record-Encryption)
+- [Kubernetes & Rails: The Definitive Guide (2021)](https://kubernetes-rails.com/)
+- [Rails 6 with Webpacker 6, Tailwind 2 with JIT, Postcss 8 and some default setup (2021)](https://nauman.medium.com/my-rails-project-default-setup-a577677703d2) ([HN](https://news.ycombinator.com/item?id=28188255))
+- [Ruby on Rails: View Components, Storybook and Tailwind - a match made in heaven? (2021)](https://finnian.io/blog/view-components-storybook-tailwind-the-holy-trinity/) ([HN](https://news.ycombinator.com/item?id=28344302))
+- [Rails Mini Profiler](https://github.com/hschne/rails-mini-profiler) - Performance profiling for Rails, made simple.
+- [From Paperclip to Active Storage: An incremental, zero-downtime approach (2021)](https://www.tokyodev.com/2021/03/23/paperclip-activestorage/)
+- [OpenSourceRails.org](https://opensourcerails.org/) - Curated list of great open-source Ruby on Rails applications. ([Code](https://github.com/opensourcerails-org/site))
+- [How to build a search engine with Ruby on Rails: Introducing the Whereable design pattern (2021)](https://blog.testdouble.com/posts/2021-09-09-how-to-build-a-search-engine-with-ruby-on-rails/) ([HN](https://news.ycombinator.com/item?id=28558884))
+- [Stripe::Rails](https://github.com/tansengming/stripe-rails) - Rails Engine for integrating with Stripe.
+- [Importmap for Rails](https://github.com/rails/importmap-rails) - Use ESM with importmap to manage modern JavaScript in Rails without transpiling or bundling.
+- [Propshaft](https://github.com/rails/propshaft) - Asset pipeline library for Rails. ([Intro](https://world.hey.com/dhh/introducing-propshaft-ee60f4f6)) ([Reddit](https://www.reddit.com/r/rails/comments/spwbmn/introducing_propshaft/))
+- [Active Event Store](https://github.com/palkan/active_event_store) - Rails Event Store in a more Rails way.
+- [Optimistic Locking in Rails REST APIs (2021)](https://blog.appsignal.com/2021/10/20/optimistic-locking-in-rails-rest-apis.html)
+- [Ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails.
+- [A Love Letter to Ruby and Rails (2021)](https://jmarchello.com/a-love-letter-to-ruby-and-rails) ([HN](https://news.ycombinator.com/item?id=28996172))
+- [AnyCable](https://anycable.io/) - Build lightning fast, reliable real-time applications with Ruby and Rails. ([GitHub](https://github.com/anycable)) ([Code](https://github.com/anycable/anycable))
+- [Esbuild Rails plugin](https://github.com/excid3/esbuild-rails)
+- [Example Rails + Docker app](https://github.com/nickjj/docker-rails-example)
+- [Packwerk](https://github.com/Shopify/packwerk) - Ruby gem used to enforce boundaries and modularize Rails applications.
+- [Bootsnap](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
+- [On Rails (2021)](https://marbiano.dev/into-remix/on-rails)
+- [rails.new](https://rails.new/) - From New Mac to Rails Development in 11 Minutes. ([Tweet](https://twitter.com/andrewculver/status/1470139230449913859))
+- [Devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails based on Warden.
+- [Rails 7.0: Fulfilling a vision (2021)](https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision) ([HN](https://news.ycombinator.com/item?id=29573607))
+- [From Node to Ruby on Rails (2021)](https://nikodunk.com/a-node-js-developer-discovers-rails/) ([HN](https://news.ycombinator.com/item?id=29577897))
+- [What's New in Rails 7 (2021)](https://blog.appsignal.com/2021/12/15/whats-new-in-rails7.html)
+- [Derailed Benchmarks](https://github.com/zombocom/derailed_benchmarks) - Series of things you can use to benchmark a Rails or Ruby app.
+- [Logidze](https://github.com/palkan/logidze) - Database changes log for Rails.
+- [Rails: Postgres Native Partitioning (2022)](https://www.johnnunemaker.com/rails-postgres-native-partitioning/)
+- [Rails Feature Flags: Now So Flippin' Easy You Won't Believe It (2021)](https://www.johnnunemaker.com/rails-feature-flags/)
+- [Arproxy](https://github.com/cookpad/arproxy) - Proxy between ActiveRecord and database adapter.
+- [Run Ordinary Rails Apps Globally (2021)](https://fly.io/blog/run-ordinary-rails-apps-globally/) ([HN](https://news.ycombinator.com/item?id=30083764))
+- [Rails and its Ruby dialect (2022)](https://solnic.codes/2022/02/02/rails-and-its-ruby-dialect/) ([Lobsters](https://lobste.rs/s/gjizyj/rails_is_not_written_ruby)) ([HN](https://news.ycombinator.com/item?id=30213778))
+- [Dynamic forms with Turbo (2022)](https://thoughtbot.com/blog/dynamic-forms-with-turbo)
+- [Don't make me think, or why I switched to Rails from JavaScript SPAs (2022)](https://reviewbunny.app/blog/dont-make-me-think-or-why-i-switched-to-rails-from-javascript-spas) ([HN](https://news.ycombinator.com/item?id=30206989))
+- [Lamby](https://github.com/customink/lamby) - Simple Rails & AWS Lambda Integration.
+- [Simply integrating Svelte into Rails (2021)](https://retro.cloud/simply-integrating-svelte-in-rails/)
+- [Turbo Streams Tic Tac Toe](https://www.youtube.com/watch?v=Zxs8tKIOKU4) ([Code](https://github.com/cjavdev/turbo-streams-tic-tac-toe))
+- [clearbnb - building a vacation rental platform (2021)](https://www.youtube.com/playlist?list=PLS6F722u-R6LoD3UN0EE_cKtHVG2EWn0t)
+- [Rails 7 application inside Docker on macOS (2022)](https://bpohoriletz.github.io/2022/01/19/rails-7-app-inside-docker-on-osx.html)
+- [Rails 7 on Docker demo application](https://github.com/ryanwi/rails7-on-docker) - Working Rails 7 demo application without JavaScript bundling, running in Docker. No node.js or webpack.
+- [Rails adds support for Fiber-safe ActiveRecord ConnectionPools (2022)](https://blog.saeloun.com/2022/02/23/rails-fiber-safe-connection-pools.html) ([HN](https://news.ycombinator.com/item?id=30454043))
+- [The In-depth Guide to ActiveRecord load_async in Rails 7 (2022)](https://pawelurbanek.com/rails-load-async)
+- [Rails 7 application inside Docker on macOS: Part two - database and Mutagen (2022)](https://bpohoriletz.github.io/2022/03/01/rails-7-app-inside-docker-on-osx-2.html)
+- [Turbo Rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app.
+- [Stimulus for Rails](https://github.com/hotwired/stimulus-rails)
+- [ViewComponent](https://github.com/github/view_component) - Framework for building reusable, testable & encapsulated view components in Ruby on Rails. ([Docs](https://viewcomponent.org/))
+- [Senior Rails developer AMA (2022)](https://www.reddit.com/r/rails/comments/tfm71l/i_am_a_senior_rails_engineer_ama_ask_me_anything/)
+- [Goldiloader](https://github.com/salsify/goldiloader) - Just the right amount of Rails eager loading.
+- [Mailkick](https://github.com/ankane/mailkick) - Email subscriptions for Rails.
+- [ActiveRecord::PostgresEnum](https://github.com/bibendi/activerecord-postgres_enum) - Adds migration and schema.rb support to PostgreSQL enum data types.
+- [ActiveInteraction](https://github.com/AaronLasseigne/active_interaction) - Manages application-specific business logic. It's an implementation of the command pattern in Ruby.
+- [TurboFlash](https://github.com/joshmn/turbo_flash) - Automagically include your flash messages in your Ruby on Rails Hotwire TurboStream responses.
+- [RSpec for Rails](https://github.com/rspec/rspec-rails)
+- [Rails-docker-box, or developing Rails within a dockerized environment (2022)](https://dev.to/palkan_tula/rails-docker-box-or-developing-rails-within-a-dockerized-environment-4min)
+- [Intro to Thread-Safety in Ruby on Rails (2022)](https://pawelurbanek.com/rails-thread-safety)
+- [User notifications with Rails, Noticed, and Hotwire (2022)](https://www.colby.so/posts/user-notifications-with-rails-noticed-and-hotwire)
+- [Bullet Train Rails Template](https://bullettrain.co/) ([Code](https://github.com/bullet-train-co/bullet_train)) ([Twitter](https://twitter.com/bullettrainco))
+- [Advanced topics in Rails (2022)](https://www.reddit.com/r/rails/comments/tok7of/what_would_you_consider_advanced_topics_in_rails/)
+- [Semantic Logger](https://github.com/reidmorrison/semantic_logger) - Feature rich logging framework, and replacement for existing Ruby & Rails loggers.
+- [Responders](https://github.com/heartcombo/responders) - Set of Rails responders to dry up your application.
+- [Hotwire::Livereload](https://github.com/kirillplatonov/hotwire-livereload) - Live reload for Hotwire Rails apps.
+- [Primer ViewComponents](https://github.com/primer/view_components) - ViewComponents for the Primer Design System.
+- [Brakeman](https://github.com/presidentbeef/brakeman) - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
+- [Ruby on Whales: Dockerizing Ruby and Rails development (2022)](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
+- [Hotrails](https://www.hotrails.dev/) - Learn modern Ruby on Rails with Hotwire.
+- [PgSearch](https://github.com/Casecommons/pg_search) - Builds ActiveRecord named scopes that take advantage of PostgreSQL’s full text search.
+- [Simplify Rails Views Using ViewComponents with Tailwind CSS and RSpec (2022)](https://stefcoetzee.com/rails-viewcomponent-rspec-tailwind)
+- [Lookbook](https://github.com/allmarkedup/lookbook) - Native development UI for ViewComponent.
+- [Rust on Nails: Full stack architecture for Rust web applications](https://cloak.software/blog/rust-on-nails/) ([Code](https://github.com/purton-tech/cloak))
+- [maybe_later](https://github.com/testdouble/maybe_later) - Run code after the current Rack response or Rails action completes.
+- [notifications-rails](https://github.com/jonhue/notifications-rails) - Flexible notification library supporting the delivery to external services, rendering in various environments, and user configuration by category.
+- [Performance at GitHub: deferring stats with rack.after_reply (2022)](https://github.blog/2022-04-11-performance-at-github-deferring-stats-with-rack-after_reply/)
+- [Ask HN: Is Ruby on Rails still relevant? (2022)](https://news.ycombinator.com/item?id=31170481)
+- [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+- [Rails Devs](https://railsdevs.com/) - Reverse job board for Ruby on Rails developers.
+- [20 in 20 Ruby on Rails challenge](https://github.com/Deanout/20in20)
+- [N1Loader](https://github.com/djezzzl/n1_loader) - Loader to solve N+1 issues for good. Highly recommended for GraphQL API.
+- [Hybrid development Docker Compose setup for Rails (2022)](https://nts.strzibny.name/hybrid-docker-compose-rails/)
+- [Ruby and Ruby on Rails bookmarks collection](https://github.com/dreikanter/ruby-bookmarks)
+- [Lograge](https://github.com/roidrage/lograge) - Taming Rails' Default Request Logging.
+- [Why We’re Sticking with Ruby on Rails at Gitlab (2022)](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/) ([HN](https://news.ycombinator.com/item?id=31726825))

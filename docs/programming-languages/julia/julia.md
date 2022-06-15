@@ -1,0 +1,143 @@
+---
+title: Julia
+---
+
+# [Julia](https://julialang.org/)
+
+## Notes
+
+- [What's interesting about Julia is that because the code is all Julia, it's really easy to dig in there and find potential bugs. The standard library functions can be accessed with @edit sum(1:5) and there you go, hack away. The easier it is to look at the code, the easier it is to find issues with it.](https://news.ycombinator.com/item?id=31396861)
+
+## Links
+
+- [XLA.jl](https://github.com/JuliaTPU/XLA.jl) - Julia on TPUs.
+- [Julia wrapper for TensorFlow](https://github.com/malmaud/TensorFlow.jl)
+- [Julio](https://github.com/dmjio/Julio) - Example of Julia embedded in Haskell.
+- [JuliaInterpreter](https://github.com/JuliaDebug/JuliaInterpreter.jl) - Interpreter for Julia code.
+- [IJulia](https://github.com/JuliaLang/IJulia.jl) - Julia kernel for Jupyter.
+- [A Julia interpreter and debugger (2019)](https://julialang.org/blog/2019/03/debuggers) ([HN](https://news.ycombinator.com/item?id=19455688))
+- [The Julia Express](https://github.com/bkamins/The-Julia-Express) - Concise Julia language introductory manual for programmers. ([PDF](http://bogumilkaminski.pl/files/julia_express.pdf))
+- [Learn Julia the Hard Way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way)
+- [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+- [Julia Docs](https://docs.julialang.org/en/v1/)
+- [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia/)
+- [Quantitative Economics with Julia (2019)](https://julia.quantecon.org/) - Lectures on quantitative economic modeling. ([Table of Contents](https://julia.quantecon.org/index_toc.html))
+- [JuliaDiff](https://www.juliadiff.org/) - Differentiation tools in Julia.
+- [Simon Danisch - Julia - A Compiler for the Future (2019)](https://www.youtube.com/watch?v=DCs0_T9BRp0)
+- [JuliaCon 2018 | Engineering Julia for Speed | Lionel Zoubritzky](https://www.youtube.com/watch?v=XWIZ_dCO6X8)
+- [JuliaCon 2019 | Cleaning Messy Data with Julia and Gen | Alex Lew](https://www.youtube.com/watch?v=vUxrtqY84AM)
+- [HN: Julia v1.3](https://news.ycombinator.com/item?id=21636661)
+- [JuliaLang: The Ingredients for a Composable Programming Language (2020)](https://white.ucc.asn.au/2020/02/09/whycompositionaljulia.html) ([HN](https://news.ycombinator.com/item?id=22288735))
+- [Julia website code](https://github.com/JuliaLang/www.julialang.org)
+- [Julia Virtual Meetup (2020)](https://www.youtube.com/watch?v=ZUrozPzNOtI)
+- [Pluto.jl](https://github.com/fonsp/Pluto.jl) - Lightweight reactive notebooks for Julia. ([HN](https://news.ycombinator.com/item?id=24281613))
+- [MIT: Computational thinking with Julia + application to the COVID-19 pandemic (2020)](https://github.com/mitmath/6S083)
+- [Set of IPython (Jupyter) notebooks to introduce the Julia programming language](https://github.com/daanhb/Julia-tutorial)
+- [OhMyREPL](https://github.com/KristofferC/OhMyREPL.jl) - Syntax highlighting and other enhancements for the Julia REPL.
+- [Tutorials on Topics in Julia Programming](https://github.com/johnmyleswhite/julia_tutorials) ([Tweet](https://twitter.com/johnmyleswhite/status/1264355256974168067))
+- [Why learn julia? (2020)](https://www.reddit.com/r/Julia/comments/gph8ob/why_learn_julia/)
+- [Julia Case Studies](https://juliacomputing.com/case-studies/)
+- [Administrative Scripting with Julia](https://github.com/ninjaaron/administrative-scripting-with-julia)
+- [The Fast Track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)
+- [JuliaLang Antipatterns (2020)](https://white.ucc.asn.au/2020/04/19/Julia-Antipatterns.html)
+- [Julia as a cli calculator (2020)](https://krasjet.com/rnd.wlk/julia/) ([HN](https://news.ycombinator.com/item?id=23414872))
+- [Julia By Example](https://juliabyexample.helpmanual.io/) ([Code](https://github.com/samuelcolvin/JuliaByExample))
+- [Implement Your Own Source To Source AD in ONE day (2020)](http://blog.rogerluo.me/2019/07/27/yassad/) ([HN](https://news.ycombinator.com/item?id=23489743))
+- [Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) - Contains recipes for building binaries for Julia packages using BinaryBuilder.jl.
+- [Grassmann.jl A\b 3x faster than Julia's StaticArrays.jl (2020)](https://discourse.julialang.org/t/grassmann-jl-a-b-3x-faster-than-julias-staticarrays-jl/41451?u=chakravala) ([HN](https://news.ycombinator.com/item?id=23529016))
+- [JuliaAcademy courses](https://juliaacademy.com/courses)
+- [JuliaCon](https://juliacon.org/) - Conference dedicated to the Julia programming language. ([Live](https://live.juliacon.org/)) ([Code](https://github.com/JuliaCon/www.juliacon.org))
+- [Julia for teaching optimization](https://michielstock.github.io/juliateaching/)
+- [Interactive notebooks ~ Pluto.jl | Fons van der Plas (2020)](https://www.youtube.com/watch?v=IAF8DjrQSSk)
+- [Julia 1.5 (2020)](https://julialang.org/blog/2020/08/julia-1.5-highlights/) ([HN](https://news.ycombinator.com/item?id=24039559))
+- [Flux – Accelerating Flux.jl with PyTorch kernels (2020)](https://fluxml.ai/2020/06/29/acclerating-flux-torch.html)
+- [Hands-On Design Patterns and Best Practices with Julia (2020)](https://www.packtpub.com/application-development/hands-design-patterns-julia-10) ([Code](https://github.com/PacktPublishing/Hands-on-Design-Patterns-and-Best-Practices-with-Julia))
+- [Julia High Performance](https://juliahighperformance.com/) - Optimizations, distributed computing, multithreading, and GPU programming with Julia 1.0 and beyond.
+- [Julia Quick Syntax Reference](https://link.springer.com/book/10.1007/978-1-4842-5190-4)
+- [JuliaCon2020: Julia is production ready](https://bkamins.github.io/julialang/2020/08/07/production-ready.html) ([HN](https://news.ycombinator.com/item?id=24082281)) ([Lobsters](https://lobste.rs/s/cyrgim/julia_is_production_ready))
+- [Julia: Are there any performance tips that are not mentioned in the docs?](https://www.reddit.com/r/Julia/comments/i8kdg1/are_there_any_performance_tips_that_are_not/)
+- [Sum Types in Julia and Rust (2020)](https://andreaskroepelin.de/blog/sum_types/) ([HN](https://news.ycombinator.com/item?id=24328071))
+- [Analyzing sources of compiler latency in Julia: method invalidations (2020)](https://julialang.org/blog/2020/08/invalidations/)
+- [Introduction to Computational Thinking using Julia language MIT course](https://computationalthinking.mit.edu/Fall20/) ([Videos](https://www.youtube.com/playlist?list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ)) ([Code](https://github.com/mitmath/18S191)) ([2021 Edition](https://computationalthinking.mit.edu/Spring21/))
+- [AlgebraicJulia](https://algebraicjulia.github.io/) - Bringing compositionality to technical computing. ([Blog](https://www.algebraicjulia.org/blog/))
+- [A History of Releasing Julia Packages (2020)](https://cdg.dev/tech/release-history/)
+- [Chris Rackauckas - SciML: How Language is Changing Scientific Research (2020)](https://www.youtube.com/watch?v=3hM7wn7iJ70)
+- [A quick introduction to data parallelism in Julia (2020)](https://juliafolds.github.io/data-parallelism/tutorials/quick-introduction/) ([HN](https://news.ycombinator.com/item?id=24700436))
+- [CSV Reader Benchmarks: Julia Reads CSVs 10-20x Faster than Python and R (2020)](https://juliacomputing.com/blog/2020/06/22/fast-csv.html) ([HN](https://news.ycombinator.com/item?id=24746057))
+- [The unreasonable effectiveness of the Julia programming language (2020)](https://arstechnica.com/science/2020/10/the-unreasonable-effectiveness-of-the-julia-programming-language/) ([HN](https://news.ycombinator.com/item?id=24729034))
+- [Example of Julia workflow using Docker and GitHub Actions](https://github.com/terasakisatoshi/MyWorkflow.jl)
+- [The accelerating adoption of Julia (2020)](https://lwn.net/SubscriberLink/834571/e8d7adc0d9b669bc/) ([HN](https://news.ycombinator.com/item?id=24839744))
+- [Why Does Julia Work So Well?](https://ucidatascienceinitiative.github.io/IntroToJulia/Html/WhyJulia) ([HN](https://news.ycombinator.com/item?id=24846033))
+- [Guide to distributed computing in Julia](https://github.com/juliohm/julia-distributed-computing)
+- [Julia: Dynamism and Performance Reconciled by Design (2018)](https://dl.acm.org/doi/pdf/10.1145/3276490) ([HN](https://news.ycombinator.com/item?id=24864087))
+- [Julia REPL tips and tricks (2019)](https://www.youtube.com/watch?v=EkgCENBFrAY)
+- [A review of the Julia language](https://danluu.com/julialang/)
+- [Thoughts on Julia after 2 weeks (2020)](https://liorsinai.github.io/coding/2020/12/15/julia-review.html)
+- [Julia2Nix](https://github.com/thomasjm/julia2nix) - Generate Nix expressions for building a Julia depot with a set of packages.
+- [Tutorial on Precompilation for Julia (2021)](https://julialang.org/blog/2021/01/precompile_tutorial/)
+- [Quick Overview of Julia language (2021)](https://algorithmsbook.com/files/appendix-g.pdf) ([HN](https://news.ycombinator.com/item?id=25719454))
+- [Julia adoption keeps climbing (2021)](https://www.hpcwire.com/2021/01/13/julia-update-adoption-keeps-climbing-is-it-a-python-challenger/) ([HN](https://news.ycombinator.com/item?id=25820457))
+- [JuliaFormatter](https://github.com/domluna/JuliaFormatter.jl) - Opinionated code formatter for Julia. ([Docs](https://domluna.github.io/JuliaFormatter.jl/dev/))
+- [Julia workshop for Data Science](https://github.com/crsl4/julia-workshop)
+- [Julia 1.6: what has changed since Julia 1.0? (2021)](https://www.oxinabox.net/2021/02/13/Julia-1.6-what-has-changed-since-1.0.html) ([HN](https://news.ycombinator.com/item?id=26132801))
+- [YASGuide](https://github.com/jrevels/YASGuide) - Yet Another Style Guide For Julia.
+- [Building a constraint programming solver in Julia (2019)](https://opensourc.es/blog/constraint-solver-1/)
+- [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
+- [Julia 1.6 Highlights (2021)](https://julialang.org/blog/2021/03/julia-1.6-highlights/) ([HN](https://news.ycombinator.com/item?id=26580926))
+- [Unreasonable Effectiveness of Multiple Dispatch (2019)](https://www.youtube.com/watch?app=desktop&v=kc9HwsxE1OY)
+- [Seam carving in Julia (by 3Blue1Brown) (2020)](https://www.youtube.com/watch?v=rpB6zQNsbQU)
+- [BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) - Concise and beautiful algorithms written in Julia.
+- [Blue: Style Guide for Julia](https://github.com/invenia/BlueStyle)
+- [Is Julia Really Fast? (2021)](https://medium.com/codex/is-julia-really-fast-12cd7caef96b) ([HN](https://news.ycombinator.com/item?id=27570591))
+- [Julia and the Reincarnation of Lisp (2020)](https://arnuldondata.medium.com/julia-and-the-reincarnation-of-lisp-f60cacd5822c) ([HN](https://news.ycombinator.com/item?id=27805059))
+- [Julia used Multiple Dispatch! It's Super Effective! (2021)](https://www.moll.dev/projects/effective-multi-dispatch/) ([HN](https://news.ycombinator.com/item?id=27901244)) ([Lobsters](https://lobste.rs/s/xqazh2/julia_used_multiple_dispatch_it_s_super))
+- [Julia2021 Workshop – Package development: improving engineering quality & latency](https://github.com/aviatesk/juliacon2021-workshop-pkgdev)
+- [Beautiful Makie](https://lazarusa.github.io/BeautifulMakie/) - High-performance, extendable, and multi-platform plotting ecosystem for the Julia programming language. ([Code](https://github.com/lazarusA/BeautifulMakie))
+- [Simulating Big Models in Julia with ModelingToolkit (2021)](https://www.youtube.com/watch?v=HEVOgSLBzWA)
+- [What's bad about Julia? (2021)](https://viralinstruction.com/posts/badjulia/) ([HN](https://news.ycombinator.com/item?id=27960865)) ([Lobsters](https://lobste.rs/s/xivnsc/what_s_bad_about_julia))
+- [Non-local compiler transformations in the presence of dynamic dispatch (2020)](https://www.youtube.com/watch?v=mQnSRfseu0c)
+- [Julia for Biologists | Elisabeth Roesch (2021)](https://www.youtube.com/watch?v=gRj7E5kYG1I) ([Code](https://github.com/ElisabethRoesch/Perspective_Julia_for_Biologists))
+- [FromPython](https://github.com/kskyten/FromPython.jl) - Python-to-Julia transpiler. Mainly intended for translating numerical code and wrapping Python packages to add multiple dispatch.
+- [Debugging in Julia - Two different ways (2021)](https://opensourc.es/blog/basics-debugging/)
+- [Machine Learning with Julia on AWS SageMaker (2021)](https://beta.datachef.co/blog/machine-learning-with-julia-on-aws-sagemaker/)
+- [GPU Programming in Julia (2021)](https://www.youtube.com/watch?v=aKRv-W9Eg8g) ([Code](https://github.com/maleadt/juliacon21-gpu_workshop))
+- [Julia Enhancement Proposals](https://github.com/JuliaLang/Juleps)
+- [Julia Data Science Book](https://juliadatascience.io/) ([Code](https://github.com/JuliaDataScience/JuliaDataScience))
+- [New features coming in Julia 1.7 (2021)](https://lwn.net/SubscriberLink/871486/e4ae97b79d72bb25/) ([HN](https://news.ycombinator.com/item?id=28753182))
+- [SciMLTutorials.jl](https://github.com/SciML/SciMLTutorials.jl) - Tutorials for Scientific Machine Learning and Differential Equations. ([Web](https://tutorials.sciml.ai/))
+- [Composability in Julia: Implementing Deep Equilibrium Models via Neural ODEs (2021)](https://julialang.org/blog/2021/10/DEQ/) ([HN](https://news.ycombinator.com/item?id=28945191))
+- [Exercises in avoiding common performance traps with Julia](https://github.com/AdvancedScientificComputingInJuliaWashU/Performance.jl)
+- [Implementing a fixed-bit-width string type in JuliaLang with LLVM (2021)](https://quinnj.hashnode.dev/inlinestringsjl-fun-with-primitive-types-and-llvm-in-julia)
+- [Concurrency in Julia (2021)](https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/) ([HN](https://news.ycombinator.com/item?id=29165123))
+- [Differentiable Programming with Julia by Mike Innes (2019)](https://www.youtube.com/watch?v=LjWzgTPFu14)
+- [Zero-to-Hero Julia workshop (2020)](https://github.com/Datseris/Zero2Hero-JuliaWorkshop) ([Video](https://www.youtube.com/watch?v=Fi7Pf2NveH0))
+- [Julia 1.7 Highlights (2021)](https://julialang.org/blog/2021/11/julia-1.7-highlights/) ([HN](https://news.ycombinator.com/item?id=29399844))
+- [GPU Programming with Julia course (2021)](https://github.com/omlins/julia-gpu-course)
+- [Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation (2021)](https://arxiv.org/abs/2109.01950) ([HN](https://news.ycombinator.com/item?id=29489628))
+- [Deep Learning with Julia book, using Flux.jl](https://deeplearningwithjulia.com/) ([Code](https://github.com/logankilpatrick/DeepLearningWithJulia))
+- [Bayesian Statistics with Julia and Turing](https://github.com/storopoli/Bayesian-Julia)
+- [The Comprehensive Julia Tutorials - YouTube](https://www.youtube.com/playlist?list=PLCXbkShHt01seTlnlVg6O7f6jKGTguFi7) ([Code](https://github.com/emmettgb/JuliaLessons))
+- [The Future of Machine Learning and why it looks a lot like Julia (2021)](https://towardsdatascience.com/the-future-of-machine-learning-and-why-it-looks-a-lot-like-julia-a0e26b51f6a6)
+- [10 things I love about Julia (2021)](https://trang.page/2021/12/28/10-things-i-love-about-julia/)
+- [Write custom Julia compiler passes in library code](https://twitter.com/ChrisRackauckas/status/1477274812460449793) ([Lobsters](https://lobste.rs/s/jqqslc/write_custom_julia_compiler_passes))
+- [Statistical Rethinking (2nd edition) with Julia](https://shmuma.github.io/rethinking-2ed-julia/) ([Code](https://github.com/Shmuma/rethinking-2ed-julia))
+- [HelloJulia.jl](https://github.com/ablaom/HelloJulia.jl) - Resources used by the author for a short Introduction to Julia workshop.
+- [Julia-on-Colab](https://github.com/Dsantra92/Julia-on-Colab) - Notebook for running Julia on Google Colab.
+- [State of Machine Learning in Julia (2022)](https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385) ([HN](https://news.ycombinator.com/item?id=29902846))
+- [The State of Julia | JuliaCon 2021](https://www.youtube.com/watch?v=IlFVwabDh6Q)
+- [A Tour of Julia - Erik Engheim (2021)](https://www.youtube.com/watch?v=wU6c8CDRXJE)
+- [Julia macros for beginners (2021)](https://jkrumbiegel.com/pages/2021-06-07-macros-for-beginners/)
+- [Juliaup](https://github.com/JuliaLang/juliaup) - Julia installer and version multiplexer.
+- [Why We Use Julia, 10 Years Later (2022)](https://julialang.org/blog/2022/02/10years/) ([HN](https://news.ycombinator.com/item?id=30337515))
+- [Optimizing Julia code (2022)](https://huijzer.xyz/posts/inference/)
+- [Julia 100 Exercises](https://github.com/RoyiAvital/Julia100Exercises) - Set of introductory exercises for Julia. Based on 100 NumPy Exercises.
+- [Some special cases of method dispatch in Julia (2022)](https://bkamins.github.io/julialang/2022/04/15/dispatch.html) ([HN](https://news.ycombinator.com/item?id=31259615))
+- [minGPT in Julia using Flux! (2022)](https://cancandan.github.io/julia/flux/machine-learning/2022/03/30/mingpt-julia.html)
+- [Julia for Economists Bootcamp, 2022](https://github.com/cpfiffer/julia-bootcamp-2022)
+- [The Julia language has a number of correctness flaws](https://yuri.is/not-julia/) ([HN](https://news.ycombinator.com/item?id=31396861)) ([Reddit](https://www.reddit.com/r/programming/comments/uqznl3/the_julia_language_has_a_number_of_correctness/))
+- [My Experiences with Julia](https://weissmann.pm/julialang/) ([HN](https://news.ycombinator.com/item?id=31402989))
+- [SciML Style Guide for Julia](https://github.com/SciML/SciMLStyle)
+- [Julia for Data Analysis Book (2022)](https://www.manning.com/books/julia-for-data-analysis)
+- [Building a transformer in Julia (2022)](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
+- [Julia parser for Lezer](https://github.com/lezer-parser/julia)
+- [StaticTools](https://github.com/brenhinkeller/StaticTools.jl) - Enabling StaticCompiler.jl-based compilation of (some) Julia code to standalone native binaries by avoiding GC allocations and llvmcall-ing all the things.

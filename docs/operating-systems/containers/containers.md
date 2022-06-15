@@ -1,0 +1,225 @@
+# Containers
+
+[Containers From Scratch](https://www.youtube.com/watch?v=8fi7uSYlOdc) is nice intro talk to containers. [Podman](https://podman.io/) is great.
+
+## Notes
+
+- [Running code in containers means I don't ever have to think about what version of Python/PostgreSQL/Redis/etc is supported by the stable release of the host operating system.](https://twitter.com/simonw/status/1463224255433220098)
+
+## Links
+
+- [Awesome containers](https://github.com/tcnksm/awesome-container)
+- [Virtual Machines and Containers (2019)](https://hacker-tools.github.io/virtual-machines/)
+- [Harbor](https://github.com/goharbor/harbor) - Open source trusted cloud native registry project that stores, signs, and scans content.
+- [Toast](https://github.com/stepchowfun/toast) - Containerize your development environment.
+- [Predictive CPU isolation of containers at Netflix (2019)](https://medium.com/netflix-techblog/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
+- [amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available.
+- [Libpod](https://github.com/containers/libpod) - Library used to create container pods. Home of Podman.
+- [CRFS: Container Registry Filesystem](https://github.com/google/crfs) - Read-only FUSE filesystem that lets you mount a container image, served directly from a container registry (such as gcr.io), without pulling it all locally first.
+- [rkt](https://github.com/rkt/rkt) - Pod-native container engine for Linux. It is composable, secure, and built on standards.
+- [Quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers.
+- [Vagga](https://github.com/tailhook/vagga) - Fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.
+- [Falco](https://github.com/falcosecurity/falco) - Container Native Runtime Security. ([Website](https://falco.org/))
+- [Complete Intro to Containers course (2020)](https://frontendmasters.com/courses/complete-intro-containers/)
+- [Container networking zine](https://twitter.com/b0rk/status/1232800388404760581)
+- [trivy](https://github.com/aquasecurity/trivy) - Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI.
+- [Open Container Initiative Runtime Specification](https://github.com/opencontainers/runtime-spec)
+- [Container Network Interface - networking for Linux containers](https://github.com/containernetworking/cni)
+- [Containers vs. Zones vs. Jails vs. VMs (2017)](https://blog.jessfraz.com/post/containers-zones-jails-vms/) ([HN](https://news.ycombinator.com/item?id=22797688))
+- [Lightweight containers using Linux user namespaces](https://github.com/arachsys/containers)
+- [Build and run containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/container-toolkit)
+- [fanal](https://github.com/aquasecurity/fanal) - Static Analysis Library for Containers.
+- [Complete intro to containers](https://btholt.github.io/complete-intro-to-containers/) ([Code](https://github.com/btholt/complete-intro-to-containers))
+- [go-init](https://github.com/pablo-ruth/go-init) - Minimal init system for containers with pre/post hooks.
+- [Borg: The Next Generation (2020)(https://www.eurosys2020.org/wp-content/uploads/2020/04/slides/49_muhammad_tirmazi_slides.pdf) ([HN](https://news.ycombinator.com/item?id=23033180))
+- [ingraind](https://github.com/redsift/ingraind) - Security monitoring agent built around RedBPF for complex containerized environments and endpoints.
+- [Linux containers in a few lines of code (2020)](https://zserge.com/posts/containers/) ([HN](https://news.ycombinator.com/item?id=23165157))
+- [You don't need an image to run a container (2020)](https://iximiuz.com/en/posts/you-dont-need-an-image-to-run-a-container/)
+- [libnetwork](https://github.com/moby/libnetwork) - Provides a native Go implementation for connecting containers.
+- [Programming inside a container (2020)](https://lemire.me/blog/2020/05/22/programming-inside-a-container/)
+- [Containers from first principles (2020)](https://fzakaria.com/2020/05/31/containers-from-first-principles.html) ([HN](https://news.ycombinator.com/item?id=23424136))
+- [Container technologies at Coinbase: Why Kubernetes is not part of our stack (2020)](https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c) ([HN](https://news.ycombinator.com/item?id=23460066))
+- [Kata Containers](https://github.com/kata-containers/kata-containers) - Open source container runtime, building lightweight virtual machines that seamlessly plug into the containers ecosystem.
+- [dumb-init](https://github.com/Yelp/dumb-init) - Simple process supervisor and init system designed to run as PID 1 inside minimal container environments (such as Docker).
+- [containerd](https://github.com/containerd/containerd) - Industry-standard container runtime with an emphasis on simplicity, robustness and portability. ([Web](https://containerd.io/)) ([Why and How to Use containerd from the Command Line](https://iximiuz.com/en/)) ([Web Code](https://github.com/containerd/containerd.io))
+- [Rust extensions for containerd](https://github.com/containerd/rust-extensions)
+- [Clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers.
+- [GCR Cleaner](https://github.com/sethvargo/gcr-cleaner) - Delete untagged image refs in Google Container Registry, as a service.
+- [Rootless Containers](https://rootlesscontaine.rs/)
+- [Linux Containers Forum](https://discuss.linuxcontainers.org/)
+- [LXD – next generation system container manager release 4.3 (2020)](https://discuss.linuxcontainers.org/t/lxd-4-3-has-been-released/8303) ([HN](https://news.ycombinator.com/item?id=23828920))
+- [AWS Containers Roadmap](https://github.com/aws/containers-roadmap) ([Web](https://aws.amazon.com/about-aws/whats-new/containers/))
+- [Nestybox](https://www.nestybox.com/) - Run Docker and Kubernetes in Containers. ([HN](https://news.ycombinator.com/item?id=24084758))
+- [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers.
+- [GitHub Container Registry (2020)](https://github.blog/2020-09-01-introducing-github-container-registry/) ([HN](https://news.ycombinator.com/item?id=24343937))
+- [Introduction to runc (2020)](https://danishpraka.sh/2020/07/24/introduction-to-runc.html) ([HN](https://news.ycombinator.com/item?id=24390101))
+- [Cloud Native Buildpacks](https://buildpacks.io/) - Transform your application source code into images that can run on any cloud. ([GitHub](https://github.com/buildpacks)) ([RFCs](https://github.com/buildpacks/rfcs))
+- [Bravetools](https://github.com/bravetools/bravetools/) - End-to-end System Container management platform. ([Docs](https://bravetools.github.io/bravetools/))
+- [Packer](https://www.packer.io/) - Build Automated Machine Images. ([Code](https://github.com/hashicorp/packer))
+- [floki](https://github.com/Metaswitch/floki) - Launch containers to help build your software. ([Easy, reproducible, and shareable development environments](https://pure-hack.com/posts/floki/))
+- [Implementing fast lightweight containers in Go with bst and btrfs (2020)](https://snai.pe/posts/lightweight-containers-part-1)
+- [gVisor](https://github.com/google/gvisor) - Application kernel for containers that provides efficient defense-in-depth anywhere. ([Web](https://gvisor.dev/))
+- [Bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool for Linux. ([HN](https://news.ycombinator.com/item?id=30823164))
+- [Singularity](https://github.com/hpcng/singularity) - Open source container platform designed to be simple, fast, and secure. ([Web](https://sylabs.io/singularity/))
+- [ContainerSSH](https://containerssh.github.io/) - SSH server that launches containers on demand. ([Code](https://github.com/ContainerSSH/containerssh.github.io))
+- [crun](https://github.com/containers/crun) - Fast and low-memory footprint OCI Container Runtime fully written in C.
+- [AF_GRAFT](https://github.com/upa/af-graft) - Grafting sockets from containers onto host network stacks.
+- [Tracee](https://github.com/aquasecurity/tracee) - Container and system tracing using eBPF.
+- [cAdvisor (Container Advisor)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+- [Building containers without Docker (2020)](https://blog.alexellis.io/building-containers-without-docker/) ([HN](https://news.ycombinator.com/item?id=24957887))
+- [ContainerLabs](https://containerlabs.kubedaily.com/) - Learn about containers. ([Code](https://github.com/sangam14/ContainerLabs))
+- [Practical Introduction to Container Security (2020)](https://cloudberry.engineering/article/practical-introduction-container-security/)
+- [DigitalOcean Container Registry](https://www.digitalocean.com/products/container-registry/) ([HN](https://news.ycombinator.com/item?id=24982524))
+- [AWS pre-announces public container image registry (2020)](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/) ([HN](https://news.ycombinator.com/item?id=24975195))
+- [Performance evaluation of containers and virtual machines (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.5693)
+- [Buildah](https://github.com/containers/buildah) - Tool that facilitates building Open Container Initiative (OCI) container images.
+- [Container networking is simple (2020)](https://iximiuz.com/en/posts/container-networking-is-simple/)
+- [Koyeb Serverless Engine: Docker Containers, Continuous Deployment of Functions (2020)](https://www.koyeb.com/blog/the-koyeb-serverless-engine-docker-containers-and-continuous-deployment-of-functions) ([HN](https://news.ycombinator.com/item?id=25070416))
+- [Linux Containers: What, Why, How](http://seenaburns.com/linux-containers-what-why-how/)
+- [Source-To-Image](https://github.com/openshift/source-to-image) - Toolkit and workflow for building reproducible container images from source code.
+- [Facts About Real-World Container Use – Datadog (2020)](https://www.datadoghq.com/container-report/)
+- [Containers the hard way: Gocker: A mini Docker written in Go](https://github.com/shuveb/containers-the-hard-way)
+- [nerdctl](https://github.com/AkihiroSuda/nerdctl) - Docker-compatible CLI for containerd.
+- [Trident](https://github.com/NetApp/trident) - Storage orchestrator for containers.
+- [PRoot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux. ([Web](https://proot-me.github.io/))
+- [Automation to run VMs based on vanilla Cloud Images on Firecracker (2020)](https://www.ongres.com/blog/automation-to-run-vms-based-on-vanilla-cloud-images-on-firecracker/)
+- [Toolbox](https://github.com/containers/toolbox) - Tool for Linux operating systems, which allows the use of containerized command line environments.
+- [Supercronic](https://github.com/aptible/supercronic) - Crontab-compatible job runner, designed specifically to run in containers.
+- [secrets-init](https://github.com/doitintl/secrets-init) - Minimalistic init system for containers with AWS/GCP secrets support.
+- [Understanding containers](https://www.redhat.com/en/topics/containers)
+- [Open Container Initiative](https://opencontainers.org/) - Open governance structure for the express purpose of creating open industry standards around container formats and runtimes.
+- [OCI Image Format Specification](https://github.com/opencontainers/image-spec)
+- [vas-quod](https://github.com/flouthoc/vas-quod) - Tiny minimal Linux container runtime written in Rust. ([HN](https://news.ycombinator.com/item?id=25550003))
+- [Testing Containers with Container Structure Test (2020)](https://reese.dev/testing-containers-with-container-structure-test/)
+- [Container Registry](https://container-registry.com/) - Dedicated Container Registry as a Service.
+- [NVIDIA container runtime](https://github.com/NVIDIA/nvidia-container-runtime)
+- [Minict](https://github.com/Ripolak/minict) - Minimal container runtime written in Go. Written for learning purposes.
+- [minicon](https://github.com/grycap/minicon) - Minimization of the filesystem for containers.
+- [grype](https://github.com/anchore/grype) - Vulnerability scanner for container images and filesystems.
+- [syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems.
+- [kbld](https://github.com/vmware-tanzu/carvel-kbld) - Seamlessly incorporates image building and image pushing into your development and deployment workflows. ([Web](https://carvel.dev/kbld/))
+- [MayaStor](https://github.com/openebs/Mayastor) - Cloud native declarative data plane in containers for containers.
+- [SkiffOS](https://github.com/skiffos/SkiffOS) - Lightweight & robust cross-compiled Linux distribution optimized for hosting containers.
+- [contained.af](https://contained.af/) - Game for learning about containers, capabilities, and syscalls. ([Code](https://github.com/genuinetools/contained.af))
+- [krunvm](https://github.com/slp/krunvm) - Manage lightweight VMs created from OCI images.
+- [Killing Containers at Scale (2021)](https://blog.repl.it/killing-containers-at-scale) ([HN](https://news.ycombinator.com/item?id=26007428))
+- [Buildpacks vs Dockerfiles](https://technology.doximity.com/articles/buildpacks-vs-dockerfiles) - Exploring the tradeoffs of building container images at scale. ([HN](https://news.ycombinator.com/item?id=26041099))
+- [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - Launch containers on demand. ([Web](https://containerssh.io/))
+- [Podman](https://podman.io/) - Tool for managing OCI containers and pods. ([Code](https://github.com/containers/podman)) ([HN](https://news.ycombinator.com/item?id=26101608)) ([HN](https://news.ycombinator.com/item?id=28376686)) ([4.0 release](https://podman.io/releases/2022/02/22/podman-release-v4.0.0.html)) ([HN](https://news.ycombinator.com/item?id=30433518))
+- [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
+- [cosign](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry. ([How to use](https://pradeepchhetri.xyz/til/cosign/))
+- [Compiling Containers - Dockerfiles, LLVM and BuildKit (2021)](https://blog.earthly.dev/compiling-containers-dockerfiles-llvm-and-buildkit/)
+- [Youki](https://github.com/utam0k/youki) - Experimental implementation of the oci-runtime in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/ng2zns/youki_a_container_runtime_in_rust_passed_all_the/)) ([Reddit](https://www.reddit.com/r/rust/comments/pweqkb/youki_a_container_runtime_written_in_rust_that/))
+- [Stargz Snapshotter](https://github.com/containerd/stargz-snapshotter) - Fast docker image distribution plugin for containerd, based on CRFS/stargz.
+- [Quark Container](https://github.com/QuarkContainer/Quark) - Secure container runtime with OCI interface.
+- [Inclavare Containers](https://github.com/alibaba/inclavare-containers) - Novel container runtime, aka confidential container, for cloud-native confidential computing and enclave runtime ecosystem. ([Web](https://inclavare-containers.io/en/))
+- [ContainerLab](https://github.com/srl-labs/containerlab) - Enables container-based networking labs. ([Docs](https://containerlab.srlinux.dev/))
+- [Making the Internet more secure one signed container at a time (2021)](https://security.googleblog.com/2021/05/making-internet-more-secure-one-signed.htoml)
+- [OCI Registry As Storage](https://github.com/deislabs/oras)
+- [crane](https://github.com/google/go-containerregistry/tree/main/cmd/crane) - Tool for interacting with remote images and registries.
+- [Ask HN: I need to learn to love containers – HN please show me the good side? (2021)](https://news.ycombinator.com/item?id=27310722)
+- [The 17 Ways to Run Containers on AWS (2021)](https://www.lastweekinaws.com/blog/the-17-ways-to-run-containers-on-aws/)
+- [FastFreeze](https://github.com/twosigma/fastfreeze) - Enables checkpoint/restore for applications running in Linux containers.
+- [Containerlab - your network-centric labs with a Docker UX (2021)](https://netdevops.me/2021/containerlab-your-network-centric-labs-with-a-docker-ux/)
+- [The Need for Slimmer Containers (2021)](https://iximiuz.com/en/posts/thick-container-vulnerabilities/) ([HN](https://news.ycombinator.com/item?id=27377560))
+- [Demystifying container networking (2017)](https://blog.mbrt.dev/posts/container-network/)
+- [RootlessKit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for implementing rootless containers.
+- [car](https://github.com/tetratelabs/car) - Like tar, but for containers.
+- [Life of a Container (2020)](https://indradhanush.github.io/blog/life-of-a-container/)
+- [Issues with containers on AWS (2021)](https://twitter.com/marknca/status/1433473464178909195)
+- [What Is a Container, After All? (2021)](https://iximiuz.com/en/posts/oci-containers/)
+- [HN: Podman, the open source Docker alternative ported to M1 (Apple Silicon) machines (2021)](https://news.ycombinator.com/item?id=28429650)
+- [Containers Don't Solve Everything (2021)](https://blog.deref.io/containers-dont-solve-everything/) ([HN](https://news.ycombinator.com/item?id=28483529))
+- [umoci](https://github.com/opencontainers/umoci) - Modifies Open Container images. ([Docs](https://umo.ci/))
+- [Occlum](https://occlum.io/) - Library OS empowering everyone to run every application in secure enclaves. ([Code](https://github.com/occlum/occlum))
+- [containrs](https://github.com/containers/containrs) - General purpose container library.
+- [Netavark](https://github.com/containers/netavark) - Rust based network stack for containers.
+- [Red Hat CodeReady Containers](https://developers.redhat.com/products/codeready-containers/overview) - Quickest way to get started building OpenShift clusters. ([Code](https://github.com/code-ready/crc))
+- [oci-runtime-tool](https://github.com/opencontainers/runtime-tools) - OCI Runtime Tools.
+- [Quadlet](https://github.com/containers/quadlet) - Opinionated tool for easily running podman system containers under systemd in an optimal way. ([Article](https://blogs.gnome.org/alexl/2021/10/12/quadlet-an-easier-way-to-run-system-containers/))
+- [s6 overlay](https://github.com/just-containers/s6-overlay) - Series of init scripts and utilities to ease creating Docker images using s6 as a process supervisor.
+- [Container security best practices: Ultimate guide (2021)](https://sysdig.com/blog/container-security-best-practices/) ([HN](https://news.ycombinator.com/item?id=28854478))
+- [OCI Distribution Specification](https://github.com/opencontainers/distribution-spec) - Defines an API protocol to facilitate and standardize the distribution of content.
+- [GoCSI](https://github.com/rexray/gocsi) - Container Storage Interface (CSI) library, client, and other helpful utilities created with Go.
+- [OCI Runtime, Image and Distribution Spec in Rust](https://github.com/containers/oci-spec-rs)
+- [Bitnami Containers](https://bitnami.com/stacks/containers)
+- [Security Checklist for Build Container Images](https://krol3.github.io/container-security-checklist/) ([Code](https://github.com/krol3/container-security-checklist))
+- [Anchore](https://anchore.com/) - Container Security Solutions For DevSecOps. ([GitHub](https://github.com/anchore))
+- [Direktiv](https://github.com/vorteil/direktiv) - Event-driven container orchestration engine, running on Kubernetes and Knative. ([Web](https://direktiv.io/))
+- [Navio](https://github.com/viniciusbds/navio) - Simple tool for creating and managing linux containers.
+- [Containers vs. Pods - Taking a Deeper Look (2021)](https://iximiuz.com/en/posts/containers-vs-pods/) ([HN](https://news.ycombinator.com/item?id=29055715))
+- [Multiple Containers On the Same Port without Reverse Proxy (2021)](https://iximiuz.com/en/posts/multiple-containers-same-port-reverse-proxy/)
+- [Journey From Containerization to Orchestration and Beyond (2021)](https://iximiuz.com/en/posts/journey-from-containerization-to-orchestration-and-beyond/)
+- [Porto](https://github.com/yandex/porto) - Linux container management system, developed by Yandex.
+- [Horust](https://github.com/FedericoPonzi/Horust) - Supervisor / init system written in rust and designed to be run inside containers.
+- [lockc](https://github.com/rancher-sandbox/lockc) - Making containers more secure with eBPF and Linux Security Modules (LSM).
+- [squish](https://github.com/queer/squish) - Experimental, rootless, Alpine-based container runtime.
+- [Scaling containers in AWS (2021)](https://www.vladionescu.me/posts/scaling-containers-in-aws/)
+- [Reasons to choose VMs over containers? (2021)](https://www.reddit.com/r/devops/comments/qvzrkm/are_there_any_reasons_to_choose_vms_over/)
+- [OCI Distribution in Rust](https://github.com/krustlet/oci-distribution) - Goal of this crate is to provide a way to pull WASM modules from a Docker registry.
+- [Learning Containers From The Bottom Up (2021)](https://iximiuz.com/en/posts/container-learning-path/) ([HN](https://news.ycombinator.com/item?id=29265061))
+- [P2P Container Image Distribution on IPFS With Containerd (2021)](https://medium.com/nttlabs/nerdctl-ipfs-975569520e3d) ([Tweet](https://twitter.com/TokunagaKohei/status/1463438249137827840))
+- [Nomad podman Driver](https://github.com/hashicorp/nomad-driver-podman) - Nomad taskdriver for podman containers.
+- [Anti-Patterns When Building Container Images (2021)](https://jpetazzo.github.io/2021/11/30/docker-build-container-images-antipatterns/) ([HN](https://news.ycombinator.com/item?id=29391858))
+- [Apptainer](https://github.com/apptainer/apptainer) - Open source container platform designed to be simple, fast, and secure.
+- [Rust Unshare](https://github.com/tailhook/unshare) - Low-level Linux containers creation library for rust.
+- [OpenRegistry](https://github.com/containerish/OpenRegistry) - Decentralized container registry fully compliant with OCI Distribution Specification.
+- [poCo](https://github.com/mudler/poco) - Create statically linked, portable binaries from container images.
+- [Luet](https://github.com/mudler/luet) - Container-based Package manager.
+- [Notation](https://github.com/notaryproject/notation) - Project to add signatures as standard items in the registry ecosystem.
+- [Community Attestation Service (CAS)](https://github.com/codenotary/cas) - Give any digital asset a meaningful, globally-unique, immutable identity that is authentic, verifiable, traceable from anywhere.
+- [The container throttling problem](https://danluu.com/cgroup-throttling/) ([HN](https://news.ycombinator.com/item?id=29612278)) ([HN](https://news.ycombinator.com/item?id=29690769))
+- [OCI Distribution Utility](https://github.com/deitch/ocidist) - Simple CLI for working with OCI distribution images.
+- [Container Storage Interface (CSI) Specification](https://github.com/container-storage-interface/spec)
+- [Container-to-Container Communication (2021)](https://www.miketheman.net/2021/12/28/container-to-container-communication/) ([HN](https://news.ycombinator.com/item?id=29716833))
+- [Containers 101: attach vs. exec - what's the difference? (2021)](https://iximiuz.com/en/posts/containers-101-attach-vs-exec/)
+- [Containers From Scratch • Liz Rice (2018)](https://www.youtube.com/watch?v=8fi7uSYlOdc) ([Sequel](https://www.youtube.com/watch?v=_TsSmSu57Zo))
+- [Sinker](https://github.com/plexsystems/sinker) - Tool to sync images from one container registry to another.
+- [Undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder.
+- [Speeding up LXC container pull by up to 3x (2022)](https://databricks.com/blog/2022/01/26/creating-a-faster-tar-extractor.html) ([HN](https://news.ycombinator.com/item?id=30166077))
+- [Writing a container in a few lines of Go code](https://github.com/lizrice/containers-from-scratch) ([In Rust](https://github.com/camerondurham/cfs-rs))
+- [The Road to OCIv2 Images: What's Wrong with Tar? (2019)](https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar) ([HN](https://news.ycombinator.com/item?id=30158032))
+- [Signing and verifying container images using a tool called cosign](https://github.com/colinbut/cosign-signing-container-images)
+- [Flintlock](https://github.com/weaveworks/flintlock) - Create and manage the lifecycle of MicroVMs, backed by containerd.
+- [Nydus](https://github.com/dragonflyoss/image-service) - Dragonfly image service, providing fast, secure and easy access to container images.
+- [Senpai](https://github.com/facebookincubator/senpai) - Automated memory sizing tool for container applications.
+- [guvnor](https://github.com/krystal/guvnor) - Handy tool for deploying containerised applications onto Linux hosts.
+- [Serverless Container Registry Proxy](https://github.com/ahmetb/serverless-registry-proxy) - Serverless reverse proxy for exposing container registries (GCR, Docker Hub, Artifact Registry etc) on custom domains.
+- [Run0](https://github.com/virt-do/run0) - Basic Rust OCI container runtime.
+- [cinf](https://github.com/mhausenblas/cinf) - Command line tool to view namespaces and cgroups, useful for low-level container prodding.
+- [LXC vs Docker: Which Container Platform Is Right for You? (2022)](https://earthly.dev/blog/lxc-vs-docker/)
+- [Escaping privileged containers for fun (2022)](https://pwning.systems/posts/escaping-containers-for-fun/) ([HN](https://news.ycombinator.com/item?id=30576335))
+- [Linux containers in 500 lines of code (2016)](https://blog.lizzie.io/linux-containers-in-500-loc.html) ([HN](https://news.ycombinator.com/item?id=30623372))
+- [Podman can transfer container images without a registry (2022)](https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry) ([HN](https://news.ycombinator.com/item?id=30678375))
+- [Build Containers the Hard Way](https://containers.gitbook.io/build-containers-the-hard-way/)
+- [Container Canary](https://github.com/NVIDIA/container-canary) - Tool for recording container requirements in a YAML manifest and then validating containers against that manifest.
+- [imgcrypt](https://github.com/containerd/imgcrypt) - OCI Image Encryption Package.
+- [Explore Container Images Without A Shell (2021)](https://www.journal.petrausch.info/post/2021/02/explore-container-image/)
+- [Ask HN: Who operates at scale without containers? (2022)](https://news.ycombinator.com/item?id=30767393)
+- [Podman TUI](https://github.com/containers/podman-tui) - Podman Terminal UI.
+- [Container Desktop](https://github.com/containers/desktop) - Manage different engine containers from a single UI and tray application.
+- [containers/common](https://github.com/containers/common)
+- [qemu-user-static](https://github.com/multiarch/qemu-user-static) - Enable an execution of different multi-architecture containers by QEMU and binfmt_misc.
+- [Symphony](https://github.com/marhkb/symphony) - Podman desktop application.
+- [x11docker](https://github.com/mviereck/x11docker) - Run GUI applications in Docker or podman containers.
+- [SPINUP](https://github.com/spinup-host/spinup) - Open source alternative to AWS RDS, Cloud SQL. Creates multiple containers through docker-compose.
+- [Firecracker microVM Init](https://github.com/alexellis/firecracker-init-lab) - Build a Firecracker microVM from a container image, starting a custom Go init process.
+- [LXC](https://github.com/lxc/lxc) - Well-known and heavily tested low-level Linux container runtime.
+- [Running a Container off the Host /usr/](https://0pointer.net/blog/running-an-container-off-the-host-usr.html)
+- [Reference implementation of the Cloud Native Buildpacks lifecycle](https://github.com/buildpacks/lifecycle)
+- [Podman Desktop Companion](https://iongion.github.io/podman-desktop-companion/) ([Code](https://github.com/iongion/podman-desktop-companion)) ([HN](https://news.ycombinator.com/item?id=31055475))
+- [Container Layer Analyzer](https://github.com/dcermak/container-layer-sizes) - Visualizer of container layer sizes.
+- [Stacker](https://github.com/project-stacker/stacker) - Build OCI images from a declarative format.
+- [TD-shim](https://github.com/confidential-containers/td-shim) - Confidential Containers Shim Firmware.
+- [Confidential Containers](https://github.com/confidential-containers) - Open source community working to enable cloud native confidential computing by leveraging Trusted Execution Environments to protect containers and data.
+- [image-rs](https://github.com/confidential-containers/image-rs) - Container Images Rust Crate.
+- [agent](https://github.com/benhid/go-agent) - Tiny web-server (reverse proxy) to run functions for every incoming HTTP request.
+- [Fetchit](https://github.com/redhat-et/fetchit) - Used to manage the life cycle and configuration of Podman containers.
+- [Containers from the Couch - YouTube](https://www.youtube.com/c/ContainersfromtheCouch/videos)
+- [Northstar](https://github.com/esrlabs/northstar) - Opinionated embedded container runtime prototype for Linux.
+- [Container Structure Tests](https://github.com/GoogleContainerTools/container-structure-test) - Validate the structure of your container images.
+- [Shifter](https://github.com/NERSC/shifter) - Linux Containers for HPC.
+- [OCI Artifacts](https://github.com/opencontainers/artifacts)
+- [atsi](https://github.com/queer/atsi) - Instant rootless Alpine shells.
+- [pflask](https://github.com/ghedo/pflask) - Lightweight process containers for Linux.
+- [podman-static](https://github.com/mgoltzsche/podman-static) - Static podman binaries and container images.

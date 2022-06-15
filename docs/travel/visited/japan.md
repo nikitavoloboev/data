@@ -1,0 +1,86 @@
+# Japan
+
+## Notes
+
+- [In Tokyo, if you have a two story house in a residential neighborhood, by right you can put a restaurant/bar/boutique/workshop inside the ground floor of your house! Gives the backstreets a totally different feel to walking through a US neighborhood with nothing but residences.](https://twitter.com/McReynoldsJoe/status/1525326684374941696)
+
+## Links
+
+- [Masashi Wakui's photos](http://masa-photo.tumblr.com/)
+- [Log of everything I ate and coffee I drank during my Tokyo 2019 trip](https://github.com/katmeister/tokyo-2019)
+- [Learning Japanese: Hiragana & Katakana (2020)](https://misha.brukman.net/blog/2020/01/learning-japanese-hiragana-and-katakana/)
+- [Ise-ji: Walk With Me](https://walkkumano.com/iseji/) - Notes on the coastal pilgrimage route in Mie Prefecture, Japan.
+- [Walk Kumano Kodo](https://walkkumano.com/) - Notes and tips on walking the Kumano Kodo UNESCO World Heritage pilgrimage routes.
+- [A visual chronicle of Tokyo's disappearing jazz bars (2016)](https://thevinylfactory.com/features/tokyo-jazz-joints-visual-chronicle/) ([HN](https://news.ycombinator.com/item?id=23666647))
+- [Japanese Language Learning Forum](https://questions.japanesecomplete.com/) ([HN](https://news.ycombinator.com/item?id=24025034))
+- [Japan's Brand New Bullet Train Is Earthquake-Proof (2020)](https://www.popularmechanics.com/science/a33372664/japan-new-bullet-train-shinkansen-earthquakes/) ([HN](https://news.ycombinator.com/item?id=24015707))
+- [How I Got my Japanese Permanent Residency (2020)](https://www.dampfkraft.com/how-i-got-my-japanese-pr.html) ([HN](https://news.ycombinator.com/item?id=24099252))
+- [How to Tokenize Japanese in Python](https://www.dampfkraft.com/nlp/how-to-tokenize-japanese.html)
+- [Moved to Tokyo](https://juanitofatas.com/fragments/moved-to-tokyo)
+- [Tokyo Jazz Site](https://tokyojazzsite.com/) - Guide to Jazz bars, clubs, cafes and shops in the Tokyo and Yokohama city areas.
+- [Beginner Japanese](https://brandur.org/fragments/beginner-japanese)
+- [Learn Japanese](https://www.tofugu.com/learn-japanese/) - Detailed Guide.
+- [Tofugu](https://www.tofugu.com/) - Japanese Culture & Language Blog.
+- [Learning How to Learn Japanese (2020)](https://zachdaniel.dev/learning-how-to-learn-japanese/) ([HN](https://news.ycombinator.com/item?id=24557961))
+- [Essential Japanese: The Mental Model](https://japanesecomplete.com/guide)
+- [Remote in Japan](https://github.com/remote-jp/remote-in-japan/blob/master/README.en.md) - Technology companies that allow remote work in Japan.
+- [Analyzing the Design of Unusual Japanese Butter Tableware (2020)](https://www.core77.com/posts/102355/Analyzing-the-Design-of-Unusual-Japanese-Butter-Tableware) ([HN](https://news.ycombinator.com/item?id=24814038))
+- [A Short History of Romaji (2020)](https://www.dampfkraft.com/romaji-history.html) ([HN](https://news.ycombinator.com/item?id=25108455))
+- [Why Japanese Web Design Is So Different – Cultural, Linguistic & Technical Factors (2013)](https://randomwire.com/why-japanese-web-design-is-so-different/) ([HN](https://news.ycombinator.com/item?id=25148942)) ([Reddit](https://www.reddit.com/r/programming/comments/t5gsaf/why_japanese_web_design_is_so_different_cultural/)) ([HN](https://news.ycombinator.com/item?id=30523955))
+- [NativShark](https://www.nativshark.com/) - Comprehensive all-in-one system for learning Japanese.
+- [Designing 2D graphics in the Japanese industry](https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-japan-from-the-late-70s) ([HN](https://news.ycombinator.com/item?id=25344354))
+- [Tagaini Jisho](https://www.tagaini.net/) - Free, open-source Japanese dictionary and kanji lookup tool. ([Code](https://github.com/Gnurou/tagainijisho))
+- [Research-Based Methods for Learning Japanese (2021)](https://japanesecomplete.com/articles/?p=1282)
+- [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/) - Exercises for practicing what is taught in Genki: An Integrated Course in Elementary Japanese. ([Code](https://github.com/SethClydesdale/genki-study-resources))
+- [Tokyo.dev](https://www.tokyodev.com/) - Software Developer Jobs in Japan.
+- [Kyoto, Japan (2020)](https://www.arun.is/blog/kyoto/)
+- [1980's Japan](https://www.youtube.com/watch?v=C_qi8XVP8W0) ([HN](https://news.ycombinator.com/item?id=26060833))
+- [Experience Japan Pictograms](https://experience-japan.info/)
+- [Kanji alive](https://kanjialive.com/) - Free study tool for reading and writing kanji. ([Code](https://github.com/kanjialive/kanji-data-media))
+- [Mini Tokyo 3D](https://minitokyo3d.com/) - Real-Time Tokyo Subway Map. ([HN](https://news.ycombinator.com/item?id=29765449))
+- [Японский язык? Сейчас объясню! (2020)](https://www.youtube.com/watch?v=pLNZtA2a4CM)
+- [Interview: Everything you have heard about Japan is True (2020)](https://hargup.medium.com/everything-you-have-heard-about-japan-is-true-901e0bbcee9b)
+- [Japan as seen through the lens of Marcio Kogan (2021)](https://www.wallpaper.com/design/explore-japan-with-marcio-kogan)
+- [Craig Mod - YouTube](https://www.youtube.com/c/CraigMod/videos) - Videos on Japan, Walking, Photograph, Literature.
+- [Nihongo](https://nihongo-app.com/) - Modern Japanese dictionary for iPhone and iPad.
+- [Reasons Not to Move to Japan (2021)](https://www.youtube.com/watch?v=nfpWAqK0YZE)
+- [Why Japan fell behind in the tech industry (2021)](https://www.youtube.com/watch?v=GqMSWuSeDPA)
+- [Japan's Fifth Generation Computer Systems: Success or Failure? (2021)](https://instadeq.com/blog/posts/japans-fifth-generation-computer-systems-success-or-failure/)
+- [The Animated History of Japan (2019)](https://www.youtube.com/watch?v=8Zwi3XXLci8)
+- [Haku](https://codeberg.org/wimvanderbauwhede/haku) - Toy functional programming language based on literary Japanese. ([HN](https://news.ycombinator.com/item?id=28624483))
+- [Japan breaks world record for fastest internet speed (2021)](https://www.freethink.com/technology/fastest-internet-speed) ([HN](https://news.ycombinator.com/item?id=28673726))
+- [GiNZA](https://github.com/megagonlabs/ginza) - Japanese NLP Library using spaCy as framework based on Universal Dependencies.
+- [List of Japanese inventions and discoveries](https://en.wikipedia.org/wiki/List_of_Japanese_inventions_and_discoveries)
+- [Why Japan Looks the Way it Does: Zoning (2021)](https://www.youtube.com/watch?v=wfm2xCKOCNk) ([HN](https://news.ycombinator.com/item?id=28838239))
+- [Being Japanese Documentary (2021)](https://letterboxd.com/film/being-japanese/)
+- [Life Where I'm From - YouTube](https://www.youtube.com/channel/UCqwxJts-6yF33rupyF_DCsA)
+- [Orthographic Gradients to Learn the Kanji (2021)](https://japanesecomplete.com/articles/?p=1512)
+- [Intuition for Japanese](https://japanesecomplete.com/articles/) - Learn Japanese, avoid the Struggle.
+- [Your Code Displays Japanese Wrong](https://heistak.github.io/your-code-displays-japanese-wrong/) ([HN](https://news.ycombinator.com/item?id=29022906))
+- [Why Tokyo Works (2021)](https://metropolisjapan.com/why-tokyo-works/) ([HN](https://news.ycombinator.com/item?id=29134481))
+- [Metropolis Japan](https://metropolisjapan.com/)
+- [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) - Browser extension to translate Japanese by hovering over words.
+- [Manga Translator](https://github.com/cameronkinsella/manga-translator) - Easy-to-use OCR and Japanese to English translation tool.
+- [The Economy of Japan: how a Superpower FELL from Grace in Four Decades (2021)](https://www.youtube.com/watch?v=pU_yyadYgG8)
+- [Japan’s curiously quiescent inflation rate (2021)](https://www.economist.com/finance-and-economics/2021/11/20/the-case-of-the-curiously-quiescent-inflation-rate) ([HN](https://news.ycombinator.com/item?id=29312300))
+- [Japan to implement bank-deposit-backed digital currency in 2022](https://asia.nikkei.com/Business/Finance/Japan-to-launch-bank-deposit-backed-digital-currency-in-2022) ([HN](https://news.ycombinator.com/item?id=29330819))
+- [Japan's Paper Culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998) ([HN](https://news.ycombinator.com/item?id=29709551))
+- [‘I go too far, too deep’: the Swiss wanderer who found the soul of Japan (2021)](https://www.theguardian.com/artanddesign/gallery/2021/dec/22/swiss-wanderer-soul-of-japan-werner-bischof)
+- [Tokyo: A big city that is also pleasant to live in (2021)](https://www.economist.com/special-report/2021/12/07/the-big-city-that-is-also-pleasant-to-live-in) ([HN](https://news.ycombinator.com/item?id=29755772))
+- [Sudachi for Transformers (chiTra)](https://github.com/WorksApplications/SudachiTra) - Japanese tokenizer for Transformers.
+- [Sudachi](https://github.com/WorksApplications/Sudachi) - Japanese morphological analyzer.
+- [Japanese Pronunciation 101: Devoicing (2021)](https://www.youtube.com/watch?v=iYQM7BhJJns)
+- [How Japan saved Tokyo's rail network from collapse (part 1, 1945-1982)](https://seungylee14.substack.com/p/how-japan-saved-tokyos-rail-network) ([HN](https://news.ycombinator.com/item?id=30228327))
+- [jpdb](https://jpdb.io/) - Japanese dictionary and spaced repetition system.
+- [Why Tokyo Is Insanely Well Designed (2022)](https://www.youtube.com/watch?v=zysL_lkdtys)
+- [Technicolor Tokyo](https://neocha.com/magazine/technicolor-tokyo/) ([HN](https://news.ycombinator.com/item?id=30818253))
+- [Awesome Japanese](https://github.com/yudataguy/Awesome-Japanese) - Curated list of Japanese language learning resources.
+- [Вторая Мировая война с точки зрения Японии. Почему Япония проиграла?](https://www.youtube.com/watch?v=eWrstRfalnw)
+- [Japan's Hometown Tax (2018)](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/) ([HN](https://news.ycombinator.com/item?id=31152365))
+- [Memento](https://github.com/ripose-jp/Memento) - mpv-based video player for studying Japanese.
+- [Japanese](https://github.com/gojp/japanese) - Go package for Japanese grammar.
+- [kana](https://github.com/gojp/kana) - Go library for converting hiragana to romaji, katakana to romaji, romaji to hiragana, and romaji to katakana.
+- [Nihongo.io](https://nihongo.io/) - Open source Japanese Dictionary written in Go. ([Code](https://github.com/gojp/nihongo))
+- [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/) ([HN](https://news.ycombinator.com/item?id=31428481))
+- [Animebook](https://animebook.github.io/) - In-browser video player for learning Japanese with subtitles. ([Code](https://github.com/animebook/animebook.github.io))
+- [Photography and Ikigai (2022)](https://www.lkazphoto.com/blog/photography-and-ikigai) ([HN](https://news.ycombinator.com/item?id=31579522))

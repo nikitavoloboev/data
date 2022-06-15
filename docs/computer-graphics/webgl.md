@@ -1,0 +1,108 @@
+# WebGL
+
+[WebGL2 Fundamentals](https://webgl2fundamentals.org/) is great read.
+
+## Links
+
+- [Learn WebGL](http://learnwebgl.brown37.net/)
+- [WebGL Overview](https://www.khronos.org/webgl/) ([Code](https://github.com/KhronosGroup/WebGL))
+- [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - Play with fluids in your browser (works even on mobile). [Code](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation).
+- [Workshop on WebGL and GLSL](https://github.com/mattdesl/workshop-webgl-glsl/)
+- [Love Cube](https://avin.github.io/sketches/086_love_cube.html)
+- [Sketches by Avin Grape](https://avin.github.io/sketches/)
+- [OGL](https://github.com/oframe/ogl) - Minimal WebGL framework.
+- [glas](https://github.com/infamous/glas) - WebGL in WebAssembly with AssemblyScript.
+- [Raw WebGL](https://alain.xyz/blog/raw-webgl) - Overview on how to write a WebGL application. Learn what key data structures and types are needed to draw in WebGL.
+- [Raw WebGL slides](https://nickdesaulniers.github.io/RawWebGL/#/7)
+- [How to Create the Apple Fifth Avenue Cube in WebGL (2019)](https://tympanus.net/codrops/2019/12/20/how-to-create-the-apple-fifth-avenue-cube-in-webgl/)
+- [Moments of Happiness](https://moments.epic.net/#home) - Series of WebGL experiments developed to make you smile.
+- [WebGL Quake 3 Renderer](https://github.com/toji/webgl-quake3)
+- [Time Chart](https://github.com/huww98/TimeChart) - Chart library specialized for large-scale time-series data, built on WebGL.
+- [webgl-plot](https://github.com/danchitnis/webgl-plot) - High-performance 2D graphs using native WebGL.
+- [surfman](https://github.com/servo/surfman) - Low-level, cross-platform Rust library for managing surfaces, blocks of image data in GPU memory.
+- [WebGL Fundamentals](https://webglfundamentals.org/) ([Code](https://github.com/gfxfundamentals/webgl-fundamentals))
+- [Ray Marching and Signed Distance Functions (2016)](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
+- [Webgl Programming Guide: Interactive 3D Graphics Programming with Webgl (2013)](https://www.goodreads.com/book/show/16269927-webgl-programming-guide)
+- [Bringing webgl to react - Paul Henschel (2020)](https://www.youtube.com/watch?v=YyqBdN71nFs)
+- [WebGL guide](https://xem.github.io/articles/webgl-guide.html) - Complete, summarized WebGL tutorial, with tiny interactive demos in each chapter. ([Code](https://github.com/xem/webgl-guide))
+- [WebGL map renderer written from scratch](https://github.com/tchayen/webgl-maps)
+- [TTF file parsing (2019)](https://tchayen.github.io/ttf-file-parsing)
+- [Brief explanation of WebGL (2018)](https://tchayen.github.io/brief-explanation-of-webgl)
+- [WebGL with Three.js Program](https://www.notion.so/WebGL-with-Three-js-Program-0d9a048f1a4e4573880f7de77b11789f)
+- [Barebones WebGL in 75 lines of code (2020)](https://avikdas.com/2020/07/08/barebones-webgl-in-75-lines-of-code.html) ([HN](https://news.ycombinator.com/item?id=23770711))
+- [Cool WebGL stuff (2020)](http://gfxprose.blogspot.com/2020/07/cool-webgl-stuff-2020-07-16.html)
+- [Advanced Creative Coding with WebGL and Shaders on top of ThreeJS (2020)](https://frontendmasters.com/courses/webgl-shaders/)
+- [Real-time rendering of water caustics (2020)](https://medium.com/@martinRenou/real-time-rendering-of-water-caustics-59cda1d74aa)
+- [OrigamiSimulator](https://github.com/amandaghassaei/OrigamiSimulator) - Realtime WebGL origami simulator. ([Web](https://origamisimulator.org/))
+- [Progressive Enhancement with WebGL and React (2020)](https://medium.com/14islands/progressive-enhancement-with-webgl-and-react-71cd19e66d4)
+- [WebGL Volume Raycaster](https://github.com/Twinklebear/webgl-volume-raycaster)
+- [glfx.js](https://github.com/evanw/glfx.js) - Image effects library for JavaScript using WebGL.
+- [TWGL](https://github.com/greggman/twgl.js) - Tiny WebGL helper Library.
+- [w-gl](https://github.com/anvaka/w-gl) - Simple WebGL renderer.
+- [Moonbridge](https://moonbridge.app/) - Simple and fun way to create your own WebGL experiment.
+- [gl-bench](https://github.com/munsocket/gl-bench) - WebGL performance monitor that showing percentage of GPU/CPU load.
+- [WebGL2 Fundamentals](https://webgl2fundamentals.org/) - WebGL2 from the ground up. No magic. ([Code](https://github.com/gfxfundamentals/webgl2-fundamentals))
+- [Lume](https://github.com/lume/lume) - Create CSS3D/WebGL applications declaratively with HTML. Give regular DOM elements shadow and lighting. ([Web](https://lume.io/))
+- [WebGL Fluid Dynamics: Reintegration Tracking (2020)](https://michaelmoroz.github.io/Reintegration-Tracking/)
+- [manyworlds](https://github.com/neefrehman/manyworlds) - Scifi-inspired study of signed distanced functions and noise fields in WebGL.
+- [WebGL Path Tracing](https://github.com/evanw/webgl-path-tracing) - Path tracing in GLSL using WebGL. ([Web](http://madebyevan.com/webgl-path-tracing/))
+- [ScatterGL](https://github.com/PAIR-code/scatter-gl) - Interactive 3D / 2D webgl-accelerated scatter plot point renderer. ([Web](https://pair-code.github.io/scatter-gl/))
+- [WebGL Signed Distance Function Mesher](https://github.com/tdhooper/glsl-marching-cubes) - Extract an STL from a glsl distance function.
+- [ROYGBIV](https://github.com/oguzeroglu/ROYGBIV) - 3D engine for the Web. Using WebGL.
+- [Rabbit Hole](https://github.com/vanruesc/rabbit-hole) - Volumetric terrain engine for WebGL.
+- [Regl](https://github.com/regl-project/regl) - Fast functional WebGL.
+- [RedCube.js](https://github.com/Reon90/redcube) - WebGL2 rendering library.
+- [High-level WebGL. Low-level tags. (2021)](https://hugodaniel.com/posts/high-level-webgl-low-level-tags/)
+- [WebGL State Diagram](https://webglfundamentals.org/webgl/lessons/resources/webgl-state-diagram.html) - Visual representation of most of WebGL's internal state.
+- [Infinite grid with just one square (2021)](https://hugodaniel.com/posts/infinite-grid-with-just-one-square/)
+- [SpectorJS](https://github.com/BabylonJS/Spector.js) - Explore and Troubleshoot your WebGL scenes with ease. ([Web](https://spector.babylonjs.com/))
+- [luma.gl](https://luma.gl/) - High-performance toolkit for WebGL-based data visualization. ([Code](https://github.com/visgl/luma.gl))
+- [Condition](https://github.com/FMS-Cat/condition) - 64KB WebGL Intro.
+- [Sahti](https://github.com/vuoro/sahti) - Write a WebGL 2 command, use it like a component.
+- [Sunny Land](https://github.com/passiomatic/sunny-land) - WebGL Playground platformer.
+- [WebGL 2.0 API Quick Reference Guide](https://www.khronos.org/files/webgl20-reference-guide.pdf)
+- [How to render outlines in WebGL (2021)](https://omar-shehata.medium.com/how-to-render-outlines-in-webgl-8253c14724f9) ([Code](https://github.com/OmarShehata/webgl-outlines))
+- [Real-Time Video Convolution using WebGL (2021)](https://magamig.github.io/posts/real-time-video-convolution-using-webgl/)
+- [Three Nebula](https://github.com/creativelifeform/three-nebula) - WebGL based 3D particle system engine for three. ([Web](https://three-nebula.org/))
+- [WebGL Lint](https://github.com/greggman/webgl-lint) - Checks your WebGL usage for common issues.
+- [ogl-tools](https://github.com/ayamflow/ogl-tools) - WebGL tools for use with the OGL library.
+- [WebGL-Memory](https://github.com/greggman/webgl-memory) - Library to track webgl-memory.
+- [Smooth WebGL Shader Transformations on Scroll](https://github.com/Faboolea/shaders-on-scroll)
+- [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
+- [PicoGL.js](https://github.com/tsherif/picogl.js) - Minimal WebGL 2 rendering library.
+- [nanogl](https://github.com/plepers/nanogl) - WebGL micro framework.
+- [Blub](https://github.com/Wumpf/blub) - 3D fluid simulation experiments in Rust, using WebGPU-rs.
+- [Porting WebGL Shaders to WebGPU (2021)](https://www.construct.net/en/blogs/ashleys-blog-2/porting-webgl-shaders-webgpu-1576) ([HN](https://news.ycombinator.com/item?id=29001270))
+- [React Vertex](https://github.com/sghall/react-vertex) - Hooks-based WebGL library for React. ([Docs](https://react-vertex.com/))
+- [regl-gpu-lines](https://github.com/rreusser/regl-gpu-lines) - Pure GPU instanced, screen-projected lines for regl.
+- [Phenomenon](https://github.com/vaneenige/phenomenon) - Fast 2kB low-level WebGL API.
+- [WebGL Water](http://madebyevan.com/webgl-water/) ([Code](https://github.com/evanw/webgl-water)) ([HN](https://news.ycombinator.com/item?id=29376037))
+- [MeshCat Python](https://github.com/rdeits/meshcat-python) - Python Bindings to the MeshCat WebGL viewer.
+- [MeshCat.jl](https://github.com/rdeits/MeshCat.jl) - Julia bindings to the MeshCat WebGL viewer.
+- [WebGLWorker](https://github.com/kripken/webgl-worker) - Lets you write WebGL code in a web worker, as if WebGL were implemented there.
+- [Hilo3D](https://github.com/hiloteam/Hilo3d) - 3D WebGL Rendering Engine.
+- [Canvas2DtoWebGL.js](https://github.com/jagenjo/Canvas2DtoWebGL) - Ports (almost) all Canvas2D functions to the GPU so it can be mixed with a WebGL canvas.
+- [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
+- [W](https://github.com/xem/W) - Micro WebGL2 framework with a ton of features. ([Docs](https://xem.github.io/W/))
+- [WebGL + Rust: Basic Water Tutorial (2019)](https://chinedufn.com/3d-webgl-basic-water-tutorial/) ([Code](https://github.com/chinedufn/webgl-water-tutorial))
+- [WebGL Profiler](https://github.com/figma/webgl-profiler) - GPU-side profiler for WebGL using EXT_disjoint_timer_query.
+- [Web Texture Tool](https://github.com/toji/web-texture-tool) - Texture loading utility for WebGL and WebGPU.
+- [VideoContext](https://github.com/bbc/VideoContext) - Experimental HTML5 & WebGL video composition and rendering API.
+- [PixiJS](https://pixijs.com/) - HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. ([Code](https://github.com/pixijs/pixijs)) ([Learning Pixi](https://github.com/kittykatattack/learningPixi))
+- [webgl-operate](https://github.com/cginternals/webgl-operate) - TypeScript based WebGL rendering framework.
+- [math.gl](https://github.com/uber-web/math.gl) - 3D/WebGL math library.
+- [Fake 3D Image Effect with WebGL](https://github.com/akella/fake3d) - Interactive "fake" 3D effect for images with plain WebGL.
+- [Drawing with circles](https://phqb.github.io/circle_drawing/) ([HN](https://news.ycombinator.com/item?id=30530376))
+- [WebGl 2D Scatterplot with Regl](https://github.com/flekschas/regl-scatterplot)
+- [WebGL Usage Patterns at Squarespace (2022)](https://engineering.squarespace.com/blog/2022/how-we-use-webgl-at-squarespace-877l9-8lyaw)
+- [Persepolis of ancient Persia rendered in WebGL](https://persepolis.getty.edu/) ([HN](https://news.ycombinator.com/item?id=30965352))
+- [glMatrix](https://github.com/toji/gl-matrix) - JavaScript Matrix and Vector library for High Performance WebGL apps.
+- [HTML GL](https://github.com/PixelsCommander/HTML-GL) - Solves "the slow DOM problem" by creating WebGL representations of DOM elements and hiding actual DOM after.
+- [G](https://github.com/antvis/g) - Powerful rendering engine implemented with Canvas2D / SVG / WebGL / WebGPU.
+- [Neuroglancer](https://github.com/google/neuroglancer) - WebGL-based viewer for volumetric data.
+- [Aladino](https://github.com/luruke/aladino) - Tiny dependency-free JS library that allows to enhance your site using "shader effects".
+- [CSS vs WebGL cubes](https://flak.tedunangst.com/post/css-vs-webgl-cubes)
+- [React Ape](https://github.com/raphamorim/react-ape) - React Renderer to build UI interfaces using canvas/WebGL.
+- [mugl](https://github.com/andykswong/mugl) - Micro WebGL Library for JavaScript and WebAssembly.
+- [Collection of WebGL sketches](https://github.com/yiwenl/Sketches)
+- [Earcut](https://github.com/mapbox/earcut) - Fastest and smallest JavaScript polygon triangulation library for your WebGL apps.

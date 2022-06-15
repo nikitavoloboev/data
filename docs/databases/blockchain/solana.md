@@ -1,0 +1,281 @@
+---
+title: Solana
+---
+
+# [Solana](https://solana.com/)
+
+> Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+
+Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. This [article](https://lu.ma/p/3nHEa7k5DABpzE6/The-Solana-Programming-Model) & [thread](https://twitter.com/ayushmenon_/status/1476294409205526534) are nice intro guides. [Anchor](https://book.anchor-lang.com/) is best framework.
+
+I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and [stake](https://www.reddit.com/r/solana/comments/soeadc/where_are_you_staking_your_solana/) some in FTX itself.
+
+If I need to use the coins, I transfer it to to [Glow Wallet](https://glow.app/) ([Phantom Wallet](https://phantom.app/) is nice too). Staking in [Marinade](https://marinade.finance/app/staking) is also great as you can use mSOL you get back in some [mSOL liquidity pool](https://marinade.finance/app/mnde) or [Solend](https://solend.fi) (not sure how useful that is) or some other way. If I need liquidity, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out. That is if I don't use FTX staking itself (it has issue of waiting for longer time to get funds back from unstaking).
+
+Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solana/comments/r2e6pj/hello_this_is_my_first_post_here_as_i_recently/hm4ebiy/), [Render Network](https://rendertoken.com/) is interesting too. [Raydium](https://beta.raydium.io/) looks like a great DeFi platform.
+
+I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md) including SOL as I am still trying to understand how truly useful this technology is. Thus far I see a clear use case for [Monero](../../cryptocurrencies/monero.md) to buy things safely that [government does not allow for whatever archaic reasons](../../drugs/psychedelics/psychedelics.md). I think this space moves very fast though so maybe something truly groundbreaking comes along. Perhaps it's [micro transactions](https://news.ycombinator.com/item?id=31386483) (currently not possible due to Mastercard/Visa monopoly on online transactions and their 3% fees).
+
+## Apps
+
+- [Holaplex](https://www.holaplex.com/) - Design and Host Your Metaplex NFT Storefront. ([Twitter](https://twitter.com/holaplex))
+- [Zoolana](https://www.zoolana.com/#/) - P2P meeting app built on Solana.
+- [Sollectify](https://sollectify.com/) - Fast and easy to use NFT marketplace on Solana blockchain.
+- [Synthetify](https://synthetify.io/) - Decentralized synthetic assets exchange.
+- [Star Atlas](https://staratlas.com/) - Grand strategy game of space exploration, territorial conquest, political domination, and more.
+- [Break Solana Game](https://break.solana.com/) - Consists of a 3 parts: a web client frontend, a web server backend, and an on-chain Solana program. ([Code](https://github.com/solana-labs/break))
+- [SolDate](https://www.soldate.org/) - Make love happen on Blockchain. Receive rewards on finding a match. ([Twitter](https://twitter.com/SolDate_org))
+
+## Notes
+
+- [I don’t think Solana is at war with ETH or any other blockchain - our community is just focused on building stuff people want and will use. Please minimize the toxicity and let’s focus on utility not price.](https://twitter.com/VinnyLingham/status/1434304520050249731)
+- [Can create a verifiable build for _any_ solana program via `anchor build --verifiable` and we have a (minimal) source verification registry at Anchor Project Serum](https://twitter.com/armaniferrante/status/1458490295708966918)
+- [Arweave is just another historical copy. Consensus doesn't care about any history that is older than the epoch, so there is no liveness dependency on AR.](https://twitter.com/aeyakovenko/status/1466535989963223041)
+- [solana-py does websockets](https://twitter.com/dj_d_sol/status/1466417431409213450)
+- You need to keep 0.02 SOL minimum to make a transaction. Best to keep ~ 0.1 SOL on the wallet.
+
+## Links
+
+- [A Starter Kit for New Solana Developer (2021)](https://hackmd.io/@ironaddicteddog/solana-starter-kit) ([Tweet](https://twitter.com/ironaddicteddog/status/1452845276864004105))
+- [Solana Code](https://github.com/solana-labs/solana)
+- [Solana Reddit](https://www.reddit.com/r/solana/)
+- [Solana Core Concepts](https://www.youtube.com/watch?v=4dNuMXBjpr0)
+- [Solana Scaling Potential](https://www.youtube.com/watch?v=FbCUHBhf-rU)
+- [Solana Season Hackathon](https://github.com/solana-labs/solana-season)
+- [Anchor](https://github.com/project-serum/anchor) - Framework for Solana's Sealevel runtime providing several convenient developer tools. ([Docs](https://project-serum.github.io/anchor/getting-started/introduction.html)) ([Anchor Book](https://book.anchor-lang.com/)) ([Anchor Book Code](https://github.com/project-serum/anchor-book))
+- [Summary of Solana, the tech, and why it is the future + comparison to other top projects (2021)](https://www.reddit.com/r/solana/comments/n0hyad/a_summary_of_solana_the_tech_and_why_it_is_the/)
+- [Solana vs Algorand (2021)](https://www.reddit.com/r/solana/comments/n1yc3j/solana_vs_algorand/)
+- [In Rust We Trust - Berkeley Packet Filter and Rust (2019)](https://www.youtube.com/watch?v=oBW2KJq3FnA)
+- [Programming on Solana - An Introduction (2021)](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
+- [Project Serum](https://projectserum.com/) - Decentralized exchange (DEX) and ecosystem that brings unprecedented speed and low transaction costs to decentralized finance. It is built on Solana and is completely permissionless. ([GitHub](https://github.com/project-serum)) ([Code](https://github.com/project-serum/serum-dex)) ([serum-ts](https://github.com/project-serum/serum-ts))
+- [Awesome Solana](https://github.com/paul-schaaf/awesome-solana)
+- [SPL Token UI](https://www.spl-token-ui.com/#/) - UI for the creation and management of SPL tokens. ([Code](https://github.com/paul-schaaf/spl-token-ui))
+- [Solana Beach](https://solanabeach.io/) - Search Solana blocks, accounts, transactions, programs and tokens.
+- [Solana Explorer](https://explorer.solana.com/) - Explorer for Solana clusters. ([Code](https://github.com/solana-labs/explorer))
+- [Solana White Paper](https://solana.com/solana-whitepaper.pdf) - New architecture for a high performance blockchain. ([Code](https://github.com/solana-labs/whitepaper))
+- [Solana Program Library](https://github.com/solana-labs/solana-program-library) - Collection of Solana-maintained on-chain programs.
+- [Solana GitHub](https://github.com/solana-labs)
+- [StableSwap](https://stableswap.pro/#/) - Adaptation of the Solana token-swap program implementing Curve's StableSwap invariant. ([Code](https://github.com/stableswap/stable-swap-program))
+- [Solana: The World's Fastest Blockchain (fireside chat at Node) (2021)](https://www.youtube.com/watch?v=uhrU0W4J05w)
+- [Promising new projects of SOL Ecosystem (2021)](https://twitter.com/CryptoGodJohn/status/1386370402264432640)
+- [Fireside Chat with Jeremy Allaire (2021)](https://www.youtube.com/watch?v=w1Us2kEvqIg)
+- [Is SOL the smart contract chain to beat? (2021)](https://www.youtube.com/watch?v=TS2mSjvE3Ok)
+- [Intro to the Solana Programming Model - Technical Workshop (2021)](https://www.youtube.com/watch?v=7Iitv5tMOMY)
+- [Hello world on Solana](https://github.com/solana-labs/example-helloworld)
+- [Pyth Workshop (2021)](https://www.youtube.com/watch?v=LjGXaMSPYDM)
+- [Programming Solana Smart Contracts | Hello World Anchor Tutorial (2021)](https://www.youtube.com/watch?v=oD1umX_DnUw)
+- [Programming Solana Smart Contracts | Intermediate Anchor Tutorial (2021)](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
+- [Solana Questions (2021)](https://twitter.com/baalazamon/status/1396486458324701189)
+- [Exploring the Solana Ecosystem (2021)](https://research.thetie.io/solana-ecosystem/)
+- [Step Finance](https://step.finance/) - Front page of Solana. Visualize, Analyze, Execute and Aggregate transactions across all Solana contracts in one place. ([Twitter](https://twitter.com/StepFinance_))
+- [Solana overview to average non technical reader (2021)](https://twitter.com/srinathariharan/status/1396916432202502152)
+- [Multicoin Capital: Technical Scalability Creates Social Scalability (2021)](https://multicoin.capital/2021/05/25/technical-scalability-creates-social-scalability/) ([Tweet](https://twitter.com/KyleSamani/status/1397602061932433411))
+- [Solana Season Hackathon](https://solana.com/solanaszn)
+- [Solana Ecosystem](https://solana.com/ecosystem) ([Code](https://github.com/solana-labs/ecosystem))
+- [Marinade](https://marinade.finance/) - Liquid staking protocol built on Solana. ([Marinade.finance on liquid staking](https://www.youtube.com/watch?v=WaLkb0K3zAE)) ([Discord](https://discord.com/invite/6EtUf4Euu6))
+- [Which validator to choose for SOL? (2021)](https://www.reddit.com/r/solana/comments/nplupv/when_staking_sol_on_solflare_how_do_i_know_which/)
+- [Solana Validators](https://www.validators.app/)
+- [Solana JavaScript API](https://github.com/solana-labs/solana-web3.js) ([Docs](https://solana-labs.github.io/solana-web3.js/)) ([Guide](https://docs.solana.com/developing/clients/javascript-api))
+- [Metaplex](https://www.metaplex.com/) - Own your own NFT storefront. ([Code](https://github.com/metaplex-foundation/metaplex)) ([Metaplex Program Library](https://github.com/metaplex-foundation/metaplex-program-library)) ([GitHub](https://github.com/metaplex-foundation)) ([JS SDK](https://github.com/metaplex-foundation/js-next))
+- [HAPI](https://solana.com/ecosystem/hapi) - Cross-chain protocol, aimed at creating new cybersecurity standards for DeFi market by providing real-time data on stolen funds and compromised wallets.
+- [First impressions of Rust programming on Solana (2021)](https://brson.github.io/2021/06/08/rust-on-solana)
+- [Is Solana the Ethereum Killer? w/ Anatoly Yakovenko (2021)](https://www.youtube.com/watch?v=qYH6J4sE7hs)
+- [HN: Solana completes $314M private token sale (2021)](https://news.ycombinator.com/item?id=27496778)
+- [Where to stake SOL (2021)](https://www.reddit.com/r/solana/comments/oaauuh/where_to_stake_sol/)
+- [Shinobi Systems' Solana Proof of Stake + Proof of History Primer](https://www.shinobi-systems.com/primer.html) ([Reddit](https://www.reddit.com/r/solana/comments/olb116/solana_proof_of_stake_proof_of_history_explained/))
+- [Shinobi Systems](https://www.shinobi-systems.com/) - Has the best returns across all Solana validators with 0% commission and one of the best voting records.
+- [On-chain Perpetual Futures (2021)](https://ga245xphr2gqozusv7cppabb3icnf7i3rk3ltndg6tpmnoeoq6bq.arweave.net/MDXO3eeOjQdmkq_E94Ah2gTS_RuKtrm0ZvTexriOh4M)
+- [An introduction to the Solana Name Service](https://docs.bonfida.org/help/an-introduction-to-the-solana-name-service)
+- [Stake Pools in Solana explained (2021)](https://twitter.com/solana/status/1418602302697611265)
+- [How to best stake Solana (2021)](https://www.reddit.com/r/solana/comments/orva8d/what_would_you_do/)
+- [Socean](https://www.socean.fi/) - Stake with the best validators, secure the network, and take part in the Solana DeFi ecosystem. ([Tweet](https://twitter.com/SoceanFinance/status/1421152202039590912))
+- [solana/wallet-adapter](https://github.com/solana-labs/wallet-adapter) - Modular TypeScript wallet adapters and components for Solana applications.
+- [Solanart](https://solanart.io/) - Discover, collect and trade NFTs.
+- [Solana.py](https://github.com/michaelhly/solana-py) - Solana Python SDK.
+- [Solsea](https://solsea.io/) - Open NFT Marketplace on Solana.
+- [Quarry](https://github.com/QuarryProtocol/quarry) - Open protocol for launching liquidity mining programs on Solana. ([Web](https://app.quarry.so/))
+- [solana-go](https://github.com/streamingfast/solana-go) - Go library for the Solana Blockchain.
+- [solana-go](https://github.com/gagliardetto/solana-go) - Go library to interface with Solana JSON RPC and WebSocket interfaces.
+- [Solana App Scaffold](https://github.com/solana-labs/dapp-scaffold) - Scaffolding for a dapp built on Solana.
+- [Solana Token Registry](https://github.com/solana-labs/token-list) - Package that allows application to query for list of tokens.
+- [Assert Balances](https://github.com/project-serum/assert-balances) - Safety hatch for aborting transactions with unexpected balance changes.
+- [WalletKit](https://github.com/GokiProtocol/walletkit) - React library that allows a Solana dApp to display a modal for connecting wallets. ([Web](https://walletkit.goki.so/)) ([Twitter](https://twitter.com/GokiProtocol)) ([Tweet](https://twitter.com/0xGoki/status/1471167946412019716))
+- [use-solana](https://github.com/saber-hq/saber-common/tree/master/packages/use-solana) - Solana frontend library and TypeScript SDK.
+- [Sharding vs No Sharding fireside chat: NEAR Protocol & Solana (2019)](https://www.youtube.com/watch?v=ZyIxWutfZ-U)
+- [PsyOptions](https://psyoptions.io/) - American style options protocol built on the Solana blockchain. ([Docs](https://docs.psyoptions.io/)) ([Twitter](https://twitter.com/PsyOptions))
+- [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom (2021)](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) ([Tweet](https://twitter.com/dabit3/status/1438227504007979011))
+- [Jet Protocol](https://www.jetprotocol.io/) - Decentralized lending on Solana. ([Code](https://github.com/jet-lab/jet-v1))
+- [1sol protcol](https://github.com/1sol-io/1sol-protocol) - Innovative Cross-Chain DeFi Aggregator on SOLANA and more.
+- [Solana tutorials](https://github.com/agjell/sol-tutorials)
+- [Wormhole Token Bridge](https://wormholebridge.com/#/) - Allows you to seamlessly transfer tokenized assets across Solana and Ethereum. ([Tweet](https://twitter.com/wormholecrypto/status/1438940760548667393))
+- [Minimal Solana BPF program template](https://github.com/mvines/solana-bpf-program-template)
+- [P2P Wallet | Solana](https://solana.com/ecosystem/p2p)
+- [Learning How to Build on Solana (2021)](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
+- [Merkle Distributor](https://github.com/saber-hq/merkle-distributor) - Smart contract that distributes a balance of tokens according to a Merkle root.
+- [Saber](https://saber.so/) - Stable swapping between stablecoins and other identical assets. ([GitHub](https://github.com/saber-hq)) ([How Saber Became the Biggest DeFi App on Solana](https://www.youtube.com/watch?v=LzUWP_JUX4Q)) ([How it started](https://www.youtube.com/watch?v=uGhqALj8IrA))
+- [Solana Go SDK](https://github.com/portto/solana-go-sdk)
+- [Goki](https://github.com/GokiProtocol/goki) - Suite of programs for Solana key management and security. ([Web](https://goki.so/#/)) ([CLI](https://github.com/GokiProtocol/goki-cli))
+- [Setting up a Solana Bigtable Instance](https://github.com/solana-labs/solana-bigtable)
+- [DeployDAO Migrator](https://github.com/DeployDAO/migrator) - Program for deploying and upgrading programs.
+- [Solana Founder Anatoly Yakovenko on scaling the blockchain to warp speed (2021)](https://overcast.fm/+JyEyaW_w)
+- [Solana Twitter List](https://twitter.com/i/lists/1426205888205918214) ([Tweet](https://twitter.com/joemccann/status/1448501295753531400))
+- [Create Solana Dapp with Next.JS](https://github.com/thuglabs/create-dapp-solana-nextjs)
+- [SolGuard](https://www.solguard.io/) - NFT verifications for Solana. ([Twitter](https://twitter.com/solguard_io)) ([Code](https://github.com/solguard-org/sg-verification))
+- [Easy SPL](https://github.com/solstar-tech/easy-spl) - Making tokens on Solana easy.
+- [Alon](https://lithdew.github.io/alon/) - IDE which allows for developers to rapidly build, iterate, test, and deploy decentralized apps and assets on Solana right from their browser. ([Code](https://github.com/lithdew/alon))
+- [sol-wallet-adapter](https://github.com/project-serum/sol-wallet-adapter) - Library to allow Solana dApps to use third-party wallets to sign transactions.
+- [Solana: How to send custom instructions via instruction data (2021)](https://dev.to/cogoo/solana-how-to-send-custom-instructions-via-instruction-data-4g9g)
+- [captain](https://github.com/saber-hq/captain) - Version control and key management for Solana programs.
+- [Solana CEO Advice on SOL staking (2021)](https://www.reddit.com/r/solana/comments/qch4cu/when_you_ask_for_tips_about_staking_and_the_ceo/)
+- [SPL Token Wallet](https://github.com/project-serum/spl-token-wallet) - Example Solana wallet with support for SPL tokens and Serum integration.
+- [How to Build and Deploy a Solana Smart Contract (2021)](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)
+- [Treat Toolbox](https://github.com/theskeletoncrew/treat-toolbox) - Generative NFT Utility for Candy Machine / Solana.
+- [What do you do with your stables on Solana? (2021)](https://twitter.com/Melt_Dem/status/1453127401848774658)
+- [Solana dev tips (2021)](https://twitter.com/exploresolands/status/1453155153343696896)
+- [Solend](https://solend.fi/) - Lend and borrow on Solana. ([GitHub](https://github.com/solendprotocol)) ([Explained](https://www.youtube.com/watch?v=qiOUgh7b8ng))
+- [Squads](https://sqds.io/) - One app for all your DAO needs. ([Twitter](https://twitter.com/squads_dapp))
+- [Program deploys in Solana](https://jstarry.notion.site/Program-deploys-29780c48794c47308d5f138074dd9838)
+- [Solana Staking (2021)](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/)
+- [Francium](https://francium.io/) - DeFi Yield Strategy Platform.
+- [3 Epic Solana Apps mSOL, Marinade.finance, PORT, Port.finance, & ORCA, Orca.so (2021)](https://www.youtube.com/watch?v=2UdKaktBvKQ)
+- [Deep Dive: Marinade Finance: Solana Liquid Staking, 6.6% APY plus Lending, DeFi Farming, & More (2021)](https://www.youtube.com/watch?v=aOWvlL1ColA&t=1s)
+- [How to bridge across assets from Ethereum to Solana using Phantom, Metamask, and the Wormhole (2021)](https://www.youtube.com/watch?v=OBme9dR031s)
+- [Jupiter Aggregator](https://jup.ag/) - Best swap aggregator on Solana. ([Twitter](https://twitter.com/jupiterexchange)) ([Video](https://www.youtube.com/watch?v=WzqXOPB_WPc)) ([Tweet](https://twitter.com/JupiterExchange/status/1479665798947880963))
+- [Solscan](https://solscan.io/) - User-friendly and real-time update Scanning Tool for Solana.
+- [SolTricks](https://soltricks.io/) - Create all kinds of Solana Tricks.
+- [Anchor Example: Escrow Program](https://github.com/ironaddicteddog/anchor-escrow)
+- [Anchor Example: Token Swap AMM](https://github.com/ironaddicteddog/anchor-amm)
+- [Bonfida](https://bonfida.org/#/) - Full product suite that bridges the gap between Serum, Solana and the user. ([Twitter](https://twitter.com/bonfida)) ([Docs](https://docs.bonfida.org/collection/v/help/))
+- [AnchorPy](https://github.com/kevinheavey/anchorpy) - Python client for Anchor. It allows you to interact with Anchor programs using Python.
+- [Solana.Swift](https://github.com/ajamaica/Solana.Swift) - Open source library on pure swift for Solana protocol.
+- [Solana Tutorial - Create Your Own Token and NFT (2021)](https://www.youtube.com/watch?v=L4WWQzOBNIg)
+- [How to Anchor: An introduction to the Anchor Framework (2021)](https://www.youtube.com/watch?v=FmdPAwsqJC4)
+- [Sonar](https://sonar.watch/) - Track your Yield Farming and Liquidity Pool performance on Solana blockchain.
+- [Atrix](https://www.atrix.finance/) - Serum AMM that allows you to easily create liquidity pools and farms.
+- [RunNode.com](https://runnode.com/) - Fastest RPC Endpoints on Solana.
+- [Rendering the Metaverse on Solana (Jules Urbach - CEO, OTOY)](https://www.youtube.com/watch?v=mVFeohWusPU)
+- [Neon EVM](https://neon-labs.org/) - Enables dApp developers to use Ethereum tooling to scale and get access to liquidity on Solana. ([Docs](https://github.com/neonlabsorg/neon-evm.docs)) ([Code](https://github.com/neonlabsorg/neon-evm)) ([Twitter](https://twitter.com/neonlabsorg))
+- [Solana Security Workshop](https://github.com/neodyme-labs/neodyme-breakpoint-workshop) ([Web](https://workshop.neodyme.io/))
+- [Solana PoC Framework](https://github.com/neodyme-labs/solana-poc-framework) - Framework for creating PoC's for Solana Smart Contracts in a painless and intuitive way.
+- [Solana Smart Contracts: Common Pitfalls and How to Avoid Them (2021)](https://blog.neodyme.io/posts/solana_common_pitfalls)
+- [Drift](https://www.drift.trade/) - Lightning-fast and scalable perpetual futures DEX. ([Protocol Code](https://github.com/drift-labs/protocol-v1)) ([Example Bots](https://github.com/drift-labs/example-bots)) ([Twitter](https://twitter.com/DriftProtocol))
+- [sol-rayz](https://github.com/NftEyez/sol-rayz) - Package to simplify parsing NFTs on Solana.
+- [Best Solana Code -> Test Environment (2021)](https://twitter.com/dhof/status/1458798167676358657)
+- [serum-crank](https://github.com/sol-farm/serum-crank) - Performance and cost optimized serum-dex crank that allows combining multiple market cranking instructions into a single transaction.
+- [Tulip Protocol](https://tulip.garden/) - Efficient Solana Yield Aggregator. ([GitHub](https://github.com/sol-farm))
+- [Solana JSON-RPC caching server](https://github.com/zubr-exchange/cacherpc)
+- [Solana Breakpoint Conference](https://solana.com/breakpoint) ([Reddit](https://www.reddit.com/r/solana/comments/qpjlmm/solana_breakpoint_2021_events_starts_november_8/))
+- [Secretum](https://secretum.io/) - Secure Messaging & Trading dapp on Solana.
+- [Lava Cash](https://lava.cash/) - Decentralized Privacy Preservation Protocol built on Solana. ([Reddit](https://www.reddit.com/r/solana/comments/qtp7xh/is_it_possible_to_mask_sol_address_for_receiving/))
+- [NFT Armory](https://www.nftarmory.me/) - Simple tool to display, mint, and modify your Metaplex NFTs. ([Code](https://github.com/ilmoi/nft-armory))
+- [Writing Smart Contracts on Solana with Anchor (2021)](https://www.youtube.com/watch?v=cvW8EwGHw8U) ([Tweet](https://twitter.com/armaniferrante/status/1460281186501070848))
+- [Solana and rollups (2021)](https://twitter.com/pencilflip/status/1460075605668495366)
+- [Solana Transaction Fees (2021)](https://jstarry.notion.site/Transaction-Fees-f09387e6a8d84287aa16a34ecb58e239)
+- [Solana Shadow](https://github.com/hubble-markets/solana-shadow) - Adds shadows to solana on-chain accounts for off-chain processing.
+- [Awesome Solana NFTs](https://github.com/ilmoi/awesome-solana-nfts)
+- [How Solana could reach 1 billion users in the next five years | Interview with Solana Labs CEO (2021)](https://www.youtube.com/watch?v=qAehzKsDOd4)
+- [Anatoly Yakovenko Reflects on Solana’s Breakout Year (2021)](https://cryptobriefing.com/anatoly-yakovenko-reflects-solanas-breakout-year/) ([Tweet](https://twitter.com/dreamsofdefi/status/1460637884248215555))
+- [Virtual Machines: Interoperability and Maximalism (2021)](https://www.youtube.com/watch?v=JPIBBhtkZBE)
+- [solana/solidity](https://github.com/solana-labs/solana-solidity.js) - Compile, deploy, and use Solidity contracts on Solana. ([Tweet](https://twitter.com/aeyakovenko/status/1460981759378477057))
+- [Key learnings from Solana dev (2021)](https://twitter.com/pirosb3/status/1460679770396520448)
+- [Using PDAs and SPL Token in Anchor (2021)](https://medium.com/@pirosb3/using-pdas-and-spl-token-in-anchor-and-solana-df05c57ccd04) ([Code](https://github.com/PirosB3/SafePaySolana))
+- [Resources for learning Solana (2021)](https://twitter.com/pencilflip/status/1451949960065335302)
+- [Zeta Markets](https://zeta.markets/) - DeFi Options built on Solana.
+- [The Barrelling Wave of Collateral: Lending Cycles and the Crypto Revolution (2021)](https://www.youtube.com/watch?v=mR0Ya71GOO0)
+- [vipers](https://github.com/saber-hq/vipers) - Assorted checks and validations for writing safer Solana programs.
+- [Why You Should Build Your DeFi Dapp Using Anchor (2021)](https://www.youtube.com/watch?v=725ddOvfWjk)
+- [anchor-go](https://github.com/gagliardetto/anchor-go) - Generate Go clients from anchor IDLs for Solana blockchain programs.
+- [Solana Validator 101: Transaction Processing (2021)](https://jito-labs.medium.com/solana-validator-101-transaction-processing-90bcdc271143)
+- [All the different parts of a Solana transaction](https://twitter.com/pencilflip/status/1463284754841681920)
+- [Mango v3 Client Library](https://github.com/blockworks-foundation/mango-client-v3)
+- [Solana Cookbook](https://solanacookbook.com/recipes/getting-started.html#install-web3js) ([Code](https://github.com/solana-dev-adv/solana-cookbook))
+- [Where to get best yield on mSOL (marinade) without impermanent loss risk? (2021)](https://www.reddit.com/r/solana/comments/r46s4o/where_to_get_best_yield_on_msol_marinade_without/)
+- [metaplex-auth](https://github.com/nftstorage/metaplex-auth) - Client library for nft.storage designed for metaplex NFT uploads.
+- [What to do with mSOL you get? (2021)](https://www.reddit.com/r/solana/comments/r6ml5h/first_step_stake_sol_in_marinade_2nd_step_msol_to/)
+- [Strata Protocol Protocol](https://strata-beige.vercel.app/) - Lets you effortlessly create Social Tokens and communities of Social Tokens (Collectives) on Solana. ([Code](https://github.com/StrataFoundation/strata))
+- [Katana](https://katana.so/) - Yield Generation Protocol for Solana.
+- [How to audit Solana smart contracts (2021)](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach-56a434f6c9ed)
+- [Solana Safety 101](https://github.com/The-Great-Ape/solana-safety-101) - Community maintained phishing and scams list to for safety and delightful Solana experience.
+- [Metaplex JavaScript SDK](https://github.com/metaplex-foundation/js)
+- [Solana Onboarding](https://github.com/ilmoi/solana-onboarding)
+- [Amman](https://github.com/metaplex-foundation/amman) - Modern mandatory toolbelt to help test solana SDK libraries and apps on a locally running validator.
+- [Solana Developer Resources](https://great-atmosphere-22a.notion.site/Solana-Developer-Resources-267371c95fae42d3ab608f3e4de9aa04)
+- [Solana account validations](https://twitter.com/simplyianm/status/1470206090864332806)
+- [Confidential Token Program](https://github.com/solana-labs/spl-zk-token) - Enables confidential (not anonymous) transfers of SPL Tokens.
+- [Chest](https://www.chest.fi/) - Passive Yield Booster DeFi protocol.
+- [Solana without Proof of History (2021)](https://notes.ethereum.org/@dankrad/BJywSZY9t)
+- [Port Finance Loan Liquidator](https://github.com/port-finance/liquidator)
+- [Apricot](https://app.apricot.one/) - Lending protocol on Solana. ([Twitter](https://twitter.com/ApricotFinance))
+- [Solana Program Registry](https://github.com/DeployDAO/solana-program-registry) - Verified registry of open source Solana programs.
+- [Solana Program Index](https://github.com/DeployDAO/solana-program-index) - Index of verified checksums and IDLs of Anchor programs uploaded to the Solana Program Registry.
+- [How I wrote my first Solana contract (2021)](https://twitter.com/redacted_noah/status/1475208069969756166)
+- [Octane](https://github.com/solana-labs/octane) - Gasless transaction relayer for Solana.
+- [Step-by-step guide to Solana development (2021)](https://twitter.com/ayushmenon_/status/1476294409205526534)
+- [saber-periphery](https://github.com/saber-hq/saber-periphery) - Peripheral contracts for interacting with Saber.
+- [sail](https://github.com/saber-hq/sail) - React library for Solana account management and transaction handling.
+- [Lido for Solana](https://github.com/ChorusOne/solido) - Lido DAO-governed liquid staking protocol for the Solana blockchain.
+- [Common Security Exploits on Solana](https://github.com/project-serum/sealevel-attacks)
+- [Venko](https://github.com/VenkoApp/venko) - Rails for real time finance on Solana.
+- [Solana Bootcamp Lectures](https://github.com/jarry-xiao/solana-bootcamp-lectures)
+- [solsim](https://github.com/cavaunpeu/solsim) - Solana complex systems simulator.
+- [Solana Pay](https://solanapay.com/) - New standard for decentralized payments. ([Code](https://github.com/solana-labs/solana-pay)) ([Article](https://solana.com/news/solana-pay-announcement)) ([HN](https://news.ycombinator.com/item?id=30166632))
+- [Wormhole $320M Ether exploit (2022)](https://twitter.com/samczsun/status/1489044939732406275) ([HN](https://news.ycombinator.com/item?id=30186894)) ([Reddit](https://www.reddit.com/r/ethereum/comments/sj68rz/heres_how_98k_eth_was_stolen_on_solana_explained/)) ([Reddit](https://www.reddit.com/r/solana/comments/sj7ba7/heres_how_98k_eth_was_stolen_on_solana_explained/)) ([HN](https://news.ycombinator.com/item?id=30196343))
+- [Glow Wallet](https://glow.app/) - Store, send, receive, stake, and swap tokens on the Solana blockchain directly on your phone. ([Twitter](https://twitter.com/glowwallet)) ([Tweet](https://twitter.com/danqing_liu/status/1491417720143101952))
+- [Reactor Wallet](https://github.com/marc2332/reactor-wallet) - Non-custodial cross-platform wallet for Solana.
+- [Sundial](https://github.com/port-finance/sundial) - Yield tokenizer program on Solana.
+- [Streamflow](https://github.com/streamflow-finance/js-sdk) - Streaming payments protocol built on Solana.
+- [Mango Markets V3 - Decentralized Margin Trading](https://github.com/blockworks-foundation/mango-v3)
+- [Where are you staking your Solana? (2022)](https://www.reddit.com/r/solana/comments/soeadc/where_are_you_staking_your_solana/)
+- [Sell Your SOL](https://github.com/mvines/sys) - Provides tracking from acquisition through disposal of SOL from staking, voting, and validator transaction fee/rent rewards.
+- [defi-yield-ts](https://github.com/jet-lab/defi-yield-ts) - Library for fetching the latest rates from Solana-centric lending protocols, with the goal of supporting every active protocol.
+- [Cash-settled European options protocol on Solana](https://github.com/0xTomoyo/anchor-options)
+- [Orion Protocol](https://github.com/RohanKapurDEV/orion) - Protocol for recurring and scheduled payments on Solana.
+- [Solana Staking Guide (2022)](https://medium.com/@Cogent_Crypto/solana-staking-guide-part-2-advance-staking-strategies-335337b77ec9) ([Reddit](https://www.reddit.com/r/solana/comments/syqkvp/solana_staking_guide_part_2_advanced_staking/))
+- [Solana Validator Setup](https://github.com/Shadowy-Super-Coder-DAO/Solana-Validator-Setup-Equinix) - Novice friendly walkthrough and collection of community knowledge of how to set up a Solana Validator.
+- [Solana AccountsDB Plugin for Kafka](https://github.com/Blockdaemon/solana-accountsdb-plugin-kafka)
+- [Trdelník](https://github.com/Ackee-Blockchain/trdelnik) - Testing framework for Solana programs written in Anchor.
+- [The Solana Programming Model (2022)](https://lu.ma/p/3nHEa7k5DABpzE6/The-Solana-Programming-Model) ([Tweet](https://twitter.com/VictorPontis/status/1498881837049036802))
+- [How Solana NFTs Differ from Ethereum (2021)](https://lu.ma/p/yfM8WI50zBghS9w/How-Solana-NFTs-Differ-from-Ethereum)
+- [How to Find the Solana NFT’s Someone Owns (2021)](https://lu.ma/p/hJyaa2S3ExuvmK8/How-to-Find-the-Solana-NFTs-Someone-Owns)
+- [In-EVM Solana "Light Client" State Verification](https://github.com/NilFoundation/evm-solana-verification)
+- [Solana Indexer](https://github.com/holaplex/solana-indexer) - Index Solana data using accountsdb.
+- [Raydium](https://raydium.io/) - Next-level liquidity. Friction-less yield. Light-speed swaps. ([UI Code](https://github.com/raydium-io/raydium-ui)) ([SDK](https://github.com/raydium-io/raydium-sdk)) ([Tutorial](https://www.youtube.com/watch?v=OaTPDlG6J5E)) ([Beta](https://beta.raydium.io/))
+- [Solana Ping API](https://github.com/solana-labs/solana-ping-api)
+- [anchor-client-gen](https://github.com/kklas/anchor-client-gen) - Generate typescript Solana web3 clients from anchor IDLs.
+- [Orca](https://www.orca.so/) - Easiest place to exchange cryptocurrency on Solana. ([Discord](https://discord.orca.so/))
+- [Chainlink Solana Starter Kit](https://github.com/smartcontractkit/solana-starter-kit)
+- [Swap API for Solana - Jupiter Doc](https://docs.jup.ag/jupiter-api/swap-api-for-solana) ([Tweet](https://twitter.com/JupiterExchange/status/1507359195523592195))
+- [Whiteboard Series with NEAR | Ep: 2 Anatoly Yakovenko from Solana (2019)](https://www.youtube.com/watch?v=rKGhbC6Uync)
+- [Expo, React Native & Solana Web3 Boilerplate](https://github.com/jferrer/solacademy-wallet)
+- [Solana Auditing and Security Resources](https://github.com/0xsanny/solsec)
+- [security.txt for Solana Contracts](https://github.com/neodyme-labs/solana-security-txt)
+- [Geyser plugins for Solana](https://github.com/rpcpool/solana-geyser-park)
+- [Solana AccountsDB Connector](https://github.com/ckamm/solana-accountsdb-connector)
+- [SolDev](https://soldev.app/)
+- [Anchor Test UI](https://github.com/0xPratik/anchor-UI) - User Interface for calling a program's instructions.
+- [Shank](https://github.com/metaplex-foundation/shank) - Extracts IDL from Solana Rust contracts.
+- [Solana Workbench](https://github.com/workbenchapp/solana-workbench) - Your one-stop shop for developing on Solana.
+- [DeployDAO Verified Program Builder](https://github.com/DeployDAO/verified-programs-builder) - Runs Solana builds of GitHub repos, emitting program artifacts as results.
+- [Solana Playground](https://beta.solpg.io/) ([Code](https://github.com/solana-playground/solana-playground)) ([Tweet](https://twitter.com/jamesrp13/status/1527800392502808576))
+- [Solana AccountsDB Plugin Postgres](https://github.com/solana-labs/solana-accountsdb-plugin-postgres) - Implements a plugin storing account data to a PostgreSQL database to illustrate how a plugin can be developed to work with Solana validators using the Plugin Framework.
+- [Monolithic vs Modular blockchain debate with Solana founder (2022)](https://youtu.be/35_rr8Vf-4k?t=27635)
+- [Glow JS](https://github.com/luma-team/glow-js) - Integrate the Glow Solana Wallet into your dApp.
+- [Solana Development Course](https://github.com/Unboxed-Software/solana-course)
+- [New Solana NFT Standard](https://github.com/glow-xyz/nftoken)
+- [Sugar](https://github.com/metaplex-foundation/sugar) - Candy Machine Rust CLI. ([HN](https://news.ycombinator.com/item?id=31302395))
+- [Cronos](https://github.com/cronos-so/cronos) - Automate on-chain programs and schedule transactions directly with the Solana validator network. ([Web](https://www.cronos.so/))
+- [solana-deployer](https://github.com/acheroncrypto/solana-deployer) - Deploy your Solana programs during high load.
+- [Mogami](https://github.com/kin-labs/mogami) - Next generation API and SDK for Solana.
+- [Autopilot](https://github.com/Accrue-Finance/autopilot) - Moves your money around to get you the best yield in Solana.
+- [Proof of concept program for compressing NFTs](https://github.com/jarry-xiao/candyland)
+- [Jet V2](https://github.com/jet-lab/jet-v2) - Implementation of the Jet Protocol V2 programs for Solana.
+- [Gem Farm](https://github.com/gemworks/gem-farm) - Configurable staking for NFT Projects on Solana. ([Web](https://www.gemfarm.gg/))
+- [Consider increasing fees for writable accounts](https://github.com/solana-labs/solana/issues/21883) ([Tweet](https://twitter.com/aeyakovenko/status/1529088076810625025))
+- [Build your own store with Solana Pay](https://buildspace.so/p/build-solana-pay-store) ([Code](https://github.com/buildspace/solana-pay-starter))
+- [Cardinal Protocol](https://www.cardinal.so/) - Offers numerous methods to customize the expiry and transferrability of the issued NFT.
+- [Solita](https://github.com/metaplex-foundation/solita) - Genrates an SDK API from solana contract IDL.
+- [Wonka JS](https://github.com/wonka-labs/wonka-js) - Easiest way to mint Metaplex's Candy Machine NFTs with APIs.
+- [Most underrated builders on Solana (2022)](https://twitter.com/IcedKnife/status/1529667972880551937)
+- [The Zeitgeist Podcast](https://overcast.fm/itunes1626229000/the-zeitgeist) - Brian Friel and the Phantom team highlight the founders, developers, and designers who are pushing Web3 forward.
+- [idl-macro](https://github.com/saber-hq/idl-macro) - Generates an Anchor CPI crate from a JSON IDL.
+- [tulipv2-sdk](https://github.com/sol-farm/tulipv2-sdk) - Rust SDK for tulip v2 vaults and v1 lending instructions.

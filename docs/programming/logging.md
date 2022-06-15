@@ -1,0 +1,71 @@
+# Logging
+
+## Links
+
+- [StatsD](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation.
+- [statsd-vis](https://github.com/rapidloop/statsd-vis) - Standalone StatsD server with built-in visualization.
+- [OpenTracing](https://opentracing.io/) - Vendor-neutral APIs and instrumentation for distributed tracing.
+- [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - Open source server agent to help you collect metrics from your stacks, sensors and systems. ([Code](https://github.com/influxdata/telegraf))
+- [log.c](https://github.com/rxi/log.c) - Simple logging library implemented in C99.
+- [OpenTelemetry](https://opentelemetry.io/) - Provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application. ([OpenTelemetry Specification](https://github.com/open-telemetry/opentelemetry-specification)) ([Web Code](https://github.com/open-telemetry/opentelemetry.io)) ([Awesome](https://github.com/magsther/awesome-opentelemetry))
+- [The logging framework isn't a bottleneck, and other lies your laptop tells you (2020)](https://tech.davis-hansson.com/p/tower/) ([Lobsters](https://lobste.rs/s/od1ehi/logging_framework_isn_t_bottleneck_other))
+- [Logstash](https://github.com/elastic/logstash) - Transport and process your logs, events, or other data.
+- [Fluent Bit](https://github.com/fluent/fluent-bit) - Fast Log Processor and Forwarder for Linux, Embedded Linux, MacOS and BSD.
+- [GoAccess](https://github.com/allinurl/goaccess) - Real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser. ([Docker image](https://github.com/hectorm/docker-goaccess))
+- [StatsD Metrics Export Specification](https://github.com/b/statsd_spec)
+- [Loglizer](https://github.com/logpai/loglizer) - Machine learning-based log analysis toolkit for automated anomaly detection.
+- [DTXLoggingInfra](https://github.com/wix/DTXLoggingInfra) - Logging infrastructure for Apple platforms.
+- [Good Logging (2020)](https://henrikwarne.com/2020/07/23/good-logging/) ([Lobsters](https://lobste.rs/s/d8dk4r/good_logging))
+- [Monitoring demystified: A guide for logging, tracing, metrics (2020)](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics) ([HN](https://news.ycombinator.com/item?id=24006697))
+- [Metrictank](https://github.com/grafana/metrictank) - Multi-tenant timeseries platform that can be used as a backend or replacement for Graphite.
+- [EventNative](https://github.com/ksensehq/eventnative) - Open-source data collection framework.
+- [Phuslu/Log](https://github.com/phuslu/log) - Structured Logging for Humans.
+- [Logs and Time Series are not the same (2020)](https://www.philipotoole.com/logs-and-time-series-are-not-the-same/)
+- [Tracing at Slack: Thinking in Causal Graphs (2020)](https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/)
+- [slog](https://github.com/monzo/slog) - Go library for capturing structured log information.
+- [Logging Levels: What They Are & How to Choose Them](https://sematext.com/blog/logging-levels/) ([Lobsters](https://lobste.rs/s/xilpkm/logging_levels_what_they_are_how_choose))
+- [bunyan-rs](https://github.com/LukeMathWalker/bunyan) - CLI to pretty print logs in bunyan format. A Rust port of the original JavaScript bunyan CLI.
+- [Data Logging: Sampling versus Profiling (2020)](https://medium.com/whylabs/data-logging-sampling-versus-profiling-96fa8997f5f5)
+- [How to Write Unit Tests for Logging (2020)](https://principal-it.eu/2020/11/unit-tests-for-logging/) ([HN](https://news.ycombinator.com/item?id=25057372))
+- [Backend logging options (2020)](https://twitter.com/frankdilo/status/1339485218881748992)
+- [Glean SDK](https://github.com/mozilla/glean) - Modern cross-platform telemetry. ([Docs](https://mozilla.github.io/glean/book/index.html))
+- [Logflare](https://logflare.app/) - Cloudflare, Vercel & Elixir Logging. ([Code](https://github.com/Logflare/logflare))
+- [Flog](https://github.com/mingrammer/flog) - Fake log generator for common log formats.
+- [Stuff your logs (2021)](https://engineering.backtrace.io/2021-01-11-stuff-your-logs/)
+- [Logsuck](https://github.com/JackBister/logsuck) - Easy log aggregation, indexing and searching.
+- [Ekanite](https://github.com/ekanite/ekanite) - High-performance syslog server with built-in text search.
+- [The Ultimate Guide To Python Logging (2021)](https://khashtamov.com/en/ultimate-guide-to-python-logging/)
+- [My Logging Best Practices (2020)](https://tuhrig.de/my-logging-best-practices/)
+- [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector) - Offers a vendor-agnostic implementation on how to receive, process and export telemetry data.
+- [Data Logging: Sampling versus Profiling (2020)](https://whylabs.ai/blog/posts/data-logging-sampling-versus-profiling)
+- [Stuff Your Logs (2021)](https://pvk.ca/Blog/2021/01/11/stuff-your-logs/) ([HN](https://news.ycombinator.com/item?id=26510530))
+- [How GitHub Actions renders large-scale logs (2021)](https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/)
+- [Grafana Agent](https://github.com/grafana/agent) - Prometheus Metrics, Loki Logs, and Tempo Traces, optimized for Grafana Cloud.
+- [Why and how GitHub is adopting OpenTelemetry (2021)](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/) ([HN](https://news.ycombinator.com/item?id=27294890))
+- [Logging is important (2021)](https://gcollazo.com/logging-is-important/)
+- [NanoLog](https://github.com/PlatformLab/NanoLog) - Extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
+- [pq](https://github.com/iximiuz/pq) - Parse and Query log files as time series.
+- [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice log files on the command line.
+- [Ostracon](https://github.com/nathanieltornow/ostracon) - Distributed “persistence-first” shared log.
+- [exo](https://github.com/deref/exo) - Process manager & log viewer for dev. ([Web](https://exo.deref.io/))
+- [errorpush](https://github.com/hauxir/errorpush) - Minimalist Sentry alternative using PostgreSQL.
+- [Apache Flume](https://flume.apache.org/) - Distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. ([Minimalist Guide to Flume](https://tech.marksblogg.com/minimalist-guide-tutorial-flume.html))
+- [Monika](https://github.com/hyperjumptech/monika) - Command line application to monitor every part of your web app using a simple JSON configuration file. Get alert not only when your site is down but also when it's slow. ([Web](https://monika.hyperjump.tech/))
+- [My Logging Best Practices (2020)](https://tuhrig.de/my-logging-best-practices/) ([HN](https://news.ycombinator.com/item?id=28759492))
+- [Uptrace](https://uptrace.dev/) - Cost-effective tracing solution that helps you monitor, understand, and optimize complex distributed systems. ([Code](https://github.com/uptrace/uptrace))
+- [Logs and tracing: not just for production, local development too (2021)](https://incident.io/blog/tracing) ([HN](https://news.ycombinator.com/item?id=29187250))
+- [Sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems.
+- [Do Not Log (2020)](https://sobolevn.me/2020/03/do-not-log) ([HN](https://news.ycombinator.com/item?id=29810389))
+- [Logging is a code smell (2022)](https://dave.autonoma.ca/blog/2022/01/08/logging-code-smell/) ([HN](https://news.ycombinator.com/item?id=29869000)) ([Lobsters](https://lobste.rs/s/lucopv/logging_is_code_smell))
+- [The Cost of Logging in 2022](https://www.nearform.com/blog/the-cost-of-logging-in-2022/)
+- [LNAV](https://github.com/tstack/lnav) - Log file navigator.
+- [Tango](https://github.com/roma-glushko/tango) - Tool to get insights from the server access logs.
+- [Logging at Twitter (2021)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated) ([HN](https://news.ycombinator.com/item?id=30393683))
+- [Metrics For Your Web Application's Dashboards (2022)](https://sirupsen.com/metrics)
+- [sugarjazy](https://github.com/chmouel/sugarjazy) - Parse JSON logs nicely.
+- [Good log management services (2022)](https://twitter.com/buildsghost/status/1508572689820127233)
+- [All your metrics belong to influx (2022)](https://hannes.robur.coop/Posts/Monitoring)
+- [magic-trace](https://github.com/janestreet/magic-trace) - Collects and displays high-resolution traces of what a process is doing. ([HN](https://news.ycombinator.com/item?id=31121319))
+- [Bioyino](https://github.com/avito-tech/bioyino) - StatsD server written in Rust.
+- [Refinery](https://github.com/honeycombio/refinery) - Trace-aware sampling proxy. It collects spans emitted by your application, gathers them into traces, and examines them as a whole.
+- [Sagan](https://github.com/quadrantsec/sagan) - Open source high performance, real-time log analysis & correlation engine.

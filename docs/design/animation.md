@@ -1,0 +1,81 @@
+# Animation
+
+[Framer Motion](https://www.framer.com/motion/), [Manim](https://github.com/Elteoremadebeethoven/AnimationsWithManim) & [AutoAnimate](https://auto-animate.formkit.com/) are great.
+
+## Links
+
+- [Alexander Perrin](https://alexanderperrin.com.au/) - Has a passion for meticulous dynamics, detailed digital rendering techniques and cats.
+- [Balloon animation](https://alexanderperrin.com.au/triangles/ballooning/)
+- [Manim](https://github.com/3b1b/manim) - Mathematical Animation Engine made by Grant Sanderson. ([HN](https://news.ycombinator.com/item?id=24926947)) ([HN](https://news.ycombinator.com/item?id=26498527)) ([Manim Community](https://www.manim.community/)) ([Community Fork](https://github.com/ManimCommunity/manim)) ([Manim.js](https://github.com/JazonJiao/Manim.js)) ([Docs](https://3b1b.github.io/manim/index.html)) ([HN](https://news.ycombinator.com/item?id=28245277)) ([Learn Manim - Full Course for Beginners](https://www.youtube.com/watch?v=KHGoFDB-raE)) ([HN](https://news.ycombinator.com/item?id=30658390)) ([Tutorial](https://www.youtube.com/watch?v=vUIfNN6Bs_4)) ([Stepping through Manim's render loop](https://www.youtube.com/watch?v=yKCwh-X5Ckg)) ([HN](https://news.ycombinator.com/item?id=31636657))
+- [Loom](https://iorama.studio/looom) - Hand drawn animation tool on iPad.
+- [React-spring visualizer](https://react-spring-visualizer.com/) - Missing visualizer for your react-spring UI animations.
+- [Mobile First Animation in React | Alexandra Holachek (2019)](https://www.youtube.com/watch?v=laPsceJ4tTY) ([Code](https://github.com/aholachek/mobile-first-animation))
+- [What's the most powerful and developer-friendly React animation library?](https://github.com/aholachek/react-animation-comparison)
+- [Physics-Based Animation book](https://iphys.wordpress.com/2020/01/12/free-textbook-physics-based-animation/)
+- [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation) - Most useful tools and data for creating web animations.
+- [How to Turn a Procreate Drawing into a Web Animation (2020)](https://css-tricks.com/how-to-turn-a-procreate-drawing-into-a-web-animation/)
+- [Animation worklet: the 4 missing features (2020)](https://inventingwithmonster.io/20200203-animationworklet-the-missing-pieces/)
+- [The ultimate guide to proper use of animation in UX (2018)](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
+- [Pose](https://galshir.com/pose/) - Simple web app for character posing.
+- [Lottie](http://airbnb.io/lottie/#/) - Use after effects animations in web and native apps. ([Code](https://github.com/airbnb/lottie)) ([Lottie for iOS, macOS](https://github.com/airbnb/lottie-ios)) ([HN](https://news.ycombinator.com/item?id=29634114))
+- [Ke-Sen Huang's research on animation synthesis, animation summarization, and motion retrieval](https://kesen.realtimerendering.com/)
+- [Rive](https://rive.app/) - Bring your apps and games to life with real-time animation. ([Beta](https://beta.rive.app/))
+- [Hashflag Gallery Animations](https://hashflaggallery.com/)
+- [WeightShift](https://weightshift.io/) - Maya plugin for animator friendly, physically-based character animation.
+- [FlowBetween](https://github.com/Logicalshift/flowbetween) - Tool for creating animations. ([Web](https://flowbetween.app/))
+- [History of animation](https://history-of-animation.webflow.io/)
+- [Filmstrip](https://filmstrip.berryscript.com/) - Animate keyframes and get CSS. ([Code](https://github.com/barhatsor/filmstrip))
+- [Pencil2D Animation](https://github.com/pencil2d/pencil) - Easy, intuitive tool to make 2D hand-drawn animations. ([Web](https://www.pencil2d.org/))
+- [VPaint](https://www.vpaint.org/) - Experimental vector graphics and 2D animation editor. ([Code](https://github.com/dalboris/vpaint))
+- [AnimXYZ](https://github.com/ingram-projects/animxyz) - Composable CSS animation toolkit. ([Web](https://animxyz.com/))
+- [Shingo Tamagawa - Three Minutes, Three Years: Making Puparia (2021)](https://www.youtube.com/watch?v=VKsG3E7TLl4)
+- [Watch 20+ Oscar-Qualified Animation Shorts For Free (2021)](https://www.cartoonbrew.com/awards/watch-at-least-15-oscar-qualified-animation-shorts-for-free-online-201173.html)
+- [Cartoon Brew](https://www.cartoonbrew.com/) - Animation News, Animated Cartoons.
+- [35 Years of Pixar Moments! | Pixar (2021)](https://www.youtube.com/watch?v=X3AcXraOW_k)
+- [Jitter](https://jitter.video/) - Motion design, made simple.
+- [Pixar in a Box: the art of storytelling](https://www.khanacademy.org/humanities/hass-storytelling/storytelling-pixar-in-a-box) ([HN](https://news.ycombinator.com/item?id=26163982))
+- [Looom Tools](https://github.com/mattdesl/looom-tools) - Suite of JavaScript-based tools for parsing and rendering Looom animation software files.
+- [30 Minutes of Relaxing Visuals from Studio Ghibli](https://www.youtube.com/watch?v=z9Ug-3qhrwY)
+- [Transforming animation with machine learning (2021)](https://medium.com/embarkstudios/transforming-animation-with-machine-learning-27ac694590c)
+- [Monster Mash: New Sketch-Based Modeling and Animation Tool](https://github.com/google/monster-mash)
+- [Animated Engines](http://animatedengines.com/) ([HN](https://news.ycombinator.com/item?id=26368939))
+- [Motion One](https://motion.dev/) - Web Animations API for everyone. ([HN](https://news.ycombinator.com/item?id=28616043)) ([Performance guide](https://motion.dev/guides/performance))
+- [Clean Slate Demo Scene (2021)](https://www.youtube.com/watch?v=O3T1-nadehU)
+- [How to Create Mathematical Animations like 3Blue1Brown Using Python (2021)](https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1)
+- [Animation of Electric Machines](http://people.ece.umn.edu/users/riaz/animations/listanimations.html)
+- [Motion Representations for Articulated Animation (2021)](https://arxiv.org/abs/2104.11280) ([Code](https://github.com/snap-research/articulated-animation))
+- [GKIDS Films](https://gkids.com/) - Distributor of remarkable international animations.
+- [Learn Framer Motion in 10 Tweets (2021)](https://twitter.com/willjohnsonio/status/1396857844973064202)
+- [Tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine.
+- [Catsuka](https://www.catsuka.com/) - Website about animation.
+- [The Math behind Animations - Beautiful Trigonometry (2021)](https://www.youtube.com/watch?v=-lF7sSTelOg)
+- [Improvements to the Web Animations API DX](https://motion.dev/guides/waapi-improvements)
+- [Animation Is Eating The World (2019)](http://www.michaeldempsey.me/animation/) ([Tweet](https://twitter.com/mhdempsey/status/1151533880412909570))
+- [The Real Story of Pixar (2021)](https://spectrum.ieee.org/the-real-story-of-pixar) ([HN](https://news.ycombinator.com/item?id=28053810))
+- [LottieFiles](https://lottiefiles.com/) - Lightweight, scalable animations for your website and apps. ([GitHub](https://github.com/LottieFiles)) ([Twitter](https://twitter.com/LottieFiles))
+- [Code vs Data Driven Displacement (2021)](https://theorangeduck.com/page/code-vs-data-driven-displacement) ([Code](https://github.com/orangeduck/Motion-Matching))
+- [Animation using Vite + Vue 3 + Tailwind CSS Talk](https://github.com/callumacrae/animation-talk-demo)
+- [Bringing back Cartoon Modern, a rare animation artbook (2021)](https://animationobsessive.substack.com/p/our-treat-to-you) ([HN](https://news.ycombinator.com/item?id=29075386))
+- [Towards an animation smoothness metric (2021)](https://web.dev/smoothness/)
+- [MakeItTalk: Speaker-Aware Talking-Head Animation (2020)](https://people.umass.edu/~yangzhou/MakeItTalk/) ([Code](https://github.com/czczup/URST)) ([Code](https://github.com/adobe-research/MakeItTalk))
+- [Free Practical Guide to Web Animation](https://tilda.education/en/web-animation-course)
+- [Editor and Presenter for Manim Generated Content](https://github.com/ManimCommunity/manim_editor)
+- [Learn React Animations by Creating a Stripe inspired Menu](https://www.mikealche.com/software-development/learn-react-animations-by-creating-a-stripe-inspired-menu)
+- [Simplicial Fluid on triangle meshes](https://yhesper.github.io/projects/2_project_simpfluid/)
+- [Haiku Animator](https://www.haikuanimator.com/) - Design tool for creating Lottie animations and interactive web components. ([Code](https://github.com/HaikuTeam/animator))
+- [midori](https://github.com/aeroheim/midori) - Library for animating image backgrounds in websites using WebGL.
+- [ossos](https://github.com/sketchpunklabs/ossos) - Character Animation Library.
+- [GreenSock](https://greensock.com/) - Professional-grade animation for the modern web. ([Code](https://github.com/greensock/GSAP))
+- [Animatize](https://animatize.com/) - Drag a character with your mouse to create an animation. ([Code](https://github.com/panphora/animatize))
+- [The Art of LUCA](https://disney-studios-awards.s3.amazonaws.com/luca/books/flipH45pEt23wR/index.html)
+- [Disney Filmmaking Process](https://disneyanimation.com/process/) ([HN](https://news.ycombinator.com/item?id=30241966))
+- [Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation (2021)](https://arxiv.org/abs/2109.10595) ([Code](https://github.com/YuanxunLu/LiveSpeechPortraits))
+- [Excalidraw Claymate](https://dai-shi.github.io/excalidraw-claymate/) - Tool based on Excalidraw to create stop motion animations and slides. ([Code](https://github.com/dai-shi/excalidraw-claymate))
+- [Любимые Мультфильмы](https://twitter.com/sienduk/status/1495706117489446916)
+- [Ask HN: How to quickly animate system sketches and 2D diagrams? (2022)](https://news.ycombinator.com/item?id=30631993)
+- [Animation course with Manim](https://github.com/Elteoremadebeethoven/AnimationsWithManim)
+- [animate-presence](https://github.com/natemoo-re/animate-presence) - Effortless element entrance/exit animations.
+- [GSAP - GreenSock](https://greensock.com/gsap/) - Onal-grade JavaScript animation for the modern web. ([Tweet](https://twitter.com/cassiecodes/status/1512367969703444481))
+- [Animation. For everyone.](https://www.eatmy.art/) - Create hand-drawn GIFs on paper.
+- [MotionScape](https://github.com/GetStream/motionscape-app) - Animations playground as a developer.
+- [Craft cutting-edge UIs with Framer Motion](https://samselikoff.com/framer-motion-course)

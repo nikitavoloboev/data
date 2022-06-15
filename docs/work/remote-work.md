@@ -1,0 +1,157 @@
+# Remote work
+
+## Notes
+
+- [Remote work tip: Leave a Zoom open that anyone on the team can drop by during some predictable hours. No specific agenda.](https://twitter.com/dksf/status/1308799667153432576)
+- [Running a Remote Company ≠ Working From Home. It means the freedom to set your own work hours, work from anywhere (cafes, travel, co-working) and live where you want.](https://twitter.com/awilkinson/status/1317911134704340992)
+- [Normalize recess for adults. Walking away from my computer to explore the neighborhood at some point between 1p - 3p has done more for me than any corporate mental health app ever.](https://twitter.com/emhaasch/status/1369408335313780743)
+- [Remote work rewards writers.](https://twitter.com/shl/status/1381603968489381896)
+- [Companies mandating company-wide time off days, where EVERYBODY at the company takes the same day off (hoping to help with burnout/pandemic breathing room) is helpful.](https://twitter.com/lara_hogan/status/1382087784974798849)
+- [Just because you work from home, doesn’t mean you have to be available 24/7 for work.](https://twitter.com/catalinmpit/status/1388809429806686213)
+- [Remote work has tons of benefits, but a dangerous disadvantage that isn't talked about enough is that the internet can start to replace your real-life social circles. Really important to combat that, or you can start taking things here way too seriously.](https://twitter.com/adamwathan/status/1395835514473877508)
+- [Unless you are regularly meeting up in the office in person, only time zone matters. And then once you go outside the same time zone (+/- 3 hours), you need to design everything for full async.](https://twitter.com/balajis/status/1421855752688336903)
+- [Firm-wide remote work causes a shift to async communication (not more meetings) and makes workers’ collaboration network more siloed.](https://twitter.com/ylongqi/status/1435985696892678148)
+- [I don’t know if I would ever be able to readjust back to the non-remote-first office work. It just feels natural to hop to a plane (train, car) and get somewhere without skipping a beat of your work. To have it safely detached from the matters of physical presence and geography.](https://twitter.com/inazarova/status/1442751094111838208)
+- [The third founder with a remote team sharing the same story: An engineer they hired did great on the interviews but worked unexplainably slow day to day. When pairing: they worked fast. They stopped pairing: slowed down. Turns out, the person had a second job in all cases.](https://twitter.com/GergelyOrosz/status/1445854500443537414)
+- [Steve Jobs and I became close friends. We went for long walks at Castle Rock State Park, shared meals and wide-ranging conversations about life and design. We bounced ideas off each other. Sometimes he would start a conversation with "Here's a crazy idea...", and the idea would go back and forth and evolve into a serious discussion, or occasionally a workable design. Steve listened to me and challenged me. His support at Apple allowed me to made a difference in the world](https://focusmark.hashnode.dev/what-worries-me-about-remote-work)
+- [Linear does nice all team bake/cook together over zoom once a quarter](https://twitter.com/karrisaarinen/status/1453821275307077646)
+- [A single in person meeting with a coworker brought me closer to them than a year of weekly zoom 1:1s. claiming there’s no difference feels delusional to me.](https://twitter.com/gem_ray/status/1455218628358402048)
+- [Meetings create alignment. The minute after a meeting you start drifting. Drift is higher in low-trust environments. Too many (long) meetings are a sign of dysfunctional organizations. Either there is no trust, no alignment, or neither.](https://twitter.com/cpojer/status/1516745858741862406)
+- [If calls and meetings would work I'd do them but it's always chit chat and after call absolutely nothing practical happens. A chat message is much faster/better/async.](https://twitter.com/levelsio/status/1518514157272068096)
+- [The eight hour work day and two day weekend is obsolete. We should expect at most a six hour work day and at least three days off for every four days of work.](https://twitter.com/stevanzetti/status/1520974703820742658)
+
+## Links
+
+- [Remote Habits](http://remotehabits.com/)
+- [Remote Teams](https://medium.com/@beccadownes/remote-teams-45038339ac68)
+- [Basecamp doesn’t employ anyone in San Francisco, but now we pay everyone as though all did](https://m.signalvnoise.com/basecamp-doesnt-employ-anyone-in-san-francisco-but-now-we-pay-everyone-as-though-all-did-3ee87013cfc2)
+- [Remote Jobs Spreadsheet](https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/edit#gid=366809548)
+- [Teleport App](https://sundial.teleport.org/) - Get an overview of your group's locations, timezones and working hours.
+- [Ask HN: What are the biggest challenges preventing startups from hiring remote?](https://news.ycombinator.com/item?id=17021655) - [Mitchell Hashimoto's comment was great](https://news.ycombinator.com/item?id=17022563)
+- [Thoughts on Remote Communication](https://blog.danlew.net/2018/07/19/hear-me-talkin-to-ya-thoughts-on-remote-communication/)
+- [How to travel and work as a remote software developer (2019)](https://www.youtube.com/watch?v=Mt16aoEzSsU)
+- [How remote work may impact our brains and what to do about it (2019)](https://leowid.com/remote-work-loneliness-brain-damage/)
+- [Ask HN: Sources of remote dev work with minimal human interaction? (2019)](https://news.ycombinator.com/item?id=19767428)
+- [HN: WeWork Files for IPO (2019)](https://news.ycombinator.com/item?id=19781549)
+- [Why aren’t more companies remote-first?](https://upside.fm/the-future-of-work-is-here-so-why-arent-more-companies-remote-first/) ([HN](https://news.ycombinator.com/item?id=20103935))
+- [Why Everyone Loves Remote Work (2019)](https://usefyi.com/remote-work-report/) ([HN](https://news.ycombinator.com/item?id=20745808))
+- [Ask HN: Cons of Being on a Remote/Distributed Team? (2019)](https://news.ycombinator.com/item?id=21020168)
+- [Sid Sijbrandij: “People don’t want to commute; they just don’t want to miss out” (2019)](https://nohq.co/blog/sid-sijbrandij-people-dont-want-to-commute-they-ju/) ([HN](https://news.ycombinator.com/item?id=21123910))
+- [Asynchronous Communication: The Real Reason Remote Workers Are More Productive (2019)](https://doist.com/blog/asynchronous-communication/) ([HN](https://news.ycombinator.com/item?id=21268162))
+- [Lobsters: What Most Remote Companies Don’t Tell You About Remote Work (2019)](https://lobste.rs/s/falb03/what_most_remote_companies_don_t_tell_you)
+- [NoHQ](https://nohq.co/) - Learn how to build a great remote team.
+- [RemoteHub](https://remotehub.io/) - Remote Jobs and Companies.
+- [Remote only manifesto](https://remoteonly.org/)
+- [Breather](https://breather.com/) - Modern workspace, all to yourself - for hours, days or months.
+- [My experience as a remote worker (2019)](https://www.joshwcomeau.com/posts/remote-work/)
+- [The remote worker’s guide to self-care (2019)](https://blog.astropad.com/remote-worker-self-care/)
+- [Remote](https://remote.com/) - Take care of global payroll, benefits, compliance and taxes, so you can focus on your people.
+- [Firstbase](https://www.firstbasehq.com/) - All-in-one provisioning for companies to set up their remote workers at home.
+- [Open Offices Inhibit Remote Work (2020)](https://blog.eldrid.ge/2020/02/18/open-offices-inhibiut-remote-work/) ([Lobsters](https://lobste.rs/s/lfwdz8/open_offices_inhibit_remote_work))
+- [Why fully distributed is by far the best way to run a software team (2020)](https://medium.com/red-planet-labs/why-fully-distributed-is-by-far-the-best-way-to-run-a-software-team-d99abfc0c700)
+- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/)
+- [Ask HN: Recommendations for Working from Home? (2020)](https://news.ycombinator.com/item?id=22549300)
+- [Work in the Time of Corona (2020)](https://blog.alicegoldfuss.com/work-in-the-time-of-corona/)
+- [Guide to Managing Remote Teams](https://knowyourteam.com/m/managing_remote_teams)
+- [NoOffice](https://nooffice.org/) - Definitive guide to working remotely. ([Code](https://github.com/Nozbe/NoOffice.org))
+- [Remote work starter guide for employees: how to adjust to work-from-home](https://about.gitlab.com/company/culture/all-remote/remote-work-starter-guide/)
+- [Holloway Guide to Remote Work](https://www.holloway.com/g/remote-work/about) - Comprehensive Guide to building, managing, and adapting to working with distributed teams.
+- [Remote work wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
+- [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork)
+- [Homenauts – Resources for explorers who stay at home during Covid-19](https://www.homenauts.com/) ([HN](https://news.ycombinator.com/item?id=22679663))
+- [Our list of free software for remote work](https://puri.sm/posts/our-essential-list-of-free-software-for-remote-work/) ([HN](https://news.ycombinator.com/item?id=22698299))
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
+- [Remote Work - a guide to ensuring quality video conferencing (2020)](https://dev.to/stripe/remote-work-a-guide-to-ensuring-quality-video-conferencing-55fi)
+- [Established remote companies](https://github.com/yanirs/established-remote)
+- [Pangian](https://pangian.com/) - Find the best curated & verified remote jobs at reputable companies.
+- [HN: Half of American workers would rather work from home forever (2020)](https://news.ycombinator.com/item?id=22864827)
+- [Nomad Tips](https://tinyletter.com/nomadtips) - Mailing list for sharing tips and resources for digital nomads. ([Code](https://github.com/georgemandis/remote-working-list))
+- [Andreas Klinger on How To Go Remote (2020)](https://overcast.fm/+LDKdiXgwE)
+- [REMOTE Livestream Q&A with Jason Fried and David Heinemeier Hansson (2020)](https://www.youtube.com/watch?v=KPKOVT4vZD4)
+- [HN: Twitter Will Allow Employees to Work at Home Forever (2020)](https://news.ycombinator.com/item?id=23155647)
+- [What you think is bad about remote work, can, well, actually be good (2020)](https://thorstenball.com/blog/2020/05/22/what-you-think-is-bad-about-remote-work-can-actually-be-good/)
+- [There](https://there.so/) - Talk within your remote team. Hold a key and talk to a teammate anytime, while respecting their focus.
+- [Ask HN: If you could work remote where would you live? (2020)](https://news.ycombinator.com/item?id=23294799)
+- [Software will eat software in a remote-first world (2020)](https://themargins.substack.com/p/software-will-eat-software-in-a-remote) ([HN](https://news.ycombinator.com/item?id=23297463))
+- [Beyond Remote (2020)](https://vimota.me/writing/beyond-remote) ([HN](https://news.ycombinator.com/item?id=23297888))
+- [Techniques for setting boundaries around your remote job (2019)]https://capnfabs.net/posts/techniques-for-setting-boundaries-around-your-remote-job/)
+- [27 Tips For Running Successful Remote Meetings (2020)](https://blog.sli.do/remote-meetings-tips/)
+- [Written communication is remote work super power (2020)](https://snir.dev/blog/remote-async-communication/) ([HN](https://news.ycombinator.com/item?id=23577228))
+- [Remote First at Quora (2020)](https://www.quora.com/q/quora/Remote-First-at-Quora) ([HN](https://news.ycombinator.com/item?id=23646164))
+- [10 stages of working remotely (2020)](https://twitter.com/sytses/status/1278370350338699265)
+- [Remote Year](https://www.remoteyear.com/) - Work and Travel Abroad Programs for Professionals.
+- [Ask HN: How do you deal with social isolation while working from home? (2020)](https://news.ycombinator.com/item?id=23722523)
+- [Ask HN: Should a remote employee’s salary be tied to their physical location? (2020)](https://news.ycombinator.com/item?id=23927974)
+- [Remote Workers](https://remoteworkers.dev/) - Hire from a global talent pool of remote workers.
+- [Ask HN: Newly Remote Workers – Where Are You Moving? (2020)](https://news.ycombinator.com/item?id=24152096)
+- [Remote work predictions (2020)](https://twitter.com/chris_herd/status/1294590291761037312)
+- [Ask HN: How do you switch off from work, particularly when WFH? (2020)](https://news.ycombinator.com/item?id=24196433)
+- [Remoteleaf](https://remoteleaf.com/) - Receive hand-picked remote jobs delivered straight to your inbox.
+- [Why do so many people want us back in the office? (2020)](https://paulitaylor.com/2020/09/12/why-do-so-many-people-want-us-back-in-the-office/) ([HN](https://news.ycombinator.com/item?id=24452280))
+- [Remotive](https://remotive.com/) - Remote Jobs in Programming, Support, Design and more. ([Becoming Remotive.com](https://blog.remotive.com/remotive-dot-com/))
+- [Remote Technology Jobs by Standard Resume](https://standardresume.co/remote-jobs)
+- [Getting noticed as a remote engineer (2020)](https://triplebyte.com/blog/getting-noticed-as-a-remote-engineer-and-why-it-matters/) ([HN](https://news.ycombinator.com/item?id=24702397))
+- [Slite Remote Coaching](https://slite.com/remote-chat) - Schedule a 30 min chat to untangle remote work.
+- [We Work Remotely](https://weworkremotely.com/) - Remote jobs in design, programming, marketing and more.
+- [RemoteOK](https://remoteok.io/) - Remote Jobs in Programming, Design, Sales and more. ([Open Startup](https://remoteok.io/open)) ([HN](https://news.ycombinator.com/item?id=28873956))
+- [FreshRemote.work](https://freshremote.work/) - Fresh Remote Jobs Anywhere.
+- [Remote Work Jobs](https://remoteworkjobs.io/) - Simple remote work jobs board.
+- [Remotely People](https://remotelypeople.com/) - Worldwide Remote jobs in design, marketing, programming.
+- [Workaline.com](https://workaline.com/) - Remote job board.
+- [Remote team bonding ideas (2020)](https://twitter.com/louispilfold/status/1320740516053590016)
+- [onsite.fun](https://onsite.fun/) - Online activities for remote teams.
+- [Remote Clan](https://remoteclan.com/) - Connect with remote workers to shape the future of work. ([News Feed](https://remoteclan.com/news-feed))
+- [Building Team Culture, Gitlab-Style (2020)](https://aboutsnack.com/blog/informal-communication-in-remote-work)
+- [To find great remote employees, prioritize candidates with strong writing skills (2020)](https://youteam.io/blog/3-remote-productivity-hacks-we-wish-we-knew-from-day-one/) ([HN](https://news.ycombinator.com/item?id=25120207))
+- [The guide on 1-on-1 meetings for remote teams (2020)](https://nohq.co/blog/guide-to-1-on-1-meetings-in-remote-teams/)
+- [Teamflow](https://www.teamflowhq.com/) - Feel like a team again. Virtual office for your team to hang out in.
+- [Ask HN: Anyone else burnt out due to extended lockdown and work-from-home? (2021)](https://news.ycombinator.com/item?id=25833639)
+- [Why Working from Home Will Stick](https://nbloom.people.stanford.edu/sites/g/files/sbiybj4746/f/why_wfh_stick1_0.pdf) ([HN](https://news.ycombinator.com/item?id=25882704))
+- [Ask HN: Team fun event ideas during WFH? (2021)](https://news.ycombinator.com/item?id=26080163)
+- [Ask HN: How to stay focused and motivated working from home? (2021)](https://news.ycombinator.com/item?id=26343950)
+- [Working from Home at Monzo - One Year Later (2021)](https://www.youtube.com/watch?v=nDZTAzr-aCI)
+- [A look into the work from home experience (2021)](https://miro.com/blog/remote-work-survey/)
+- [The Future of Remote Work is the Opposite of Lonely (2021)](https://annehelen.substack.com/p/the-future-of-remote-work-is-the)
+- [I hope work from home continues (2021)](https://www.ryanmercer.com/ryansthoughts/2021/4/6/some-of-the-reasons-i-hope-work-from-home-continues-and-i-never-have-to-return-to-an-office) ([HN](https://news.ycombinator.com/item?id=26712524))
+- [Best Practices for Remote Software Engineering (2021)](https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext) ([HN](https://news.ycombinator.com/item?id=26944628))
+- [2021 GitLab Remote Work Report](https://about.gitlab.com/remote-work-report/)
+- [Arc](https://arc.dev/) - Easiest way to find remote developer jobs.
+- [Predictions on remote work (2021)](https://twitter.com/marcusradell/status/1388501184172937223)
+- [Ask HN: How to negotiate continuing to work remotely? (2021)](https://news.ycombinator.com/item?id=27123553)
+- [Remotebear](https://remotebear.io/) - Best remote jobs at leading tech companies. ([Code](https://github.com/remotebear-io/remotebear)) ([Article](https://mmazzarolo.com/blog/2021-05-01-open-sourcing-remotebear/))
+- [What if remote work didn’t mean working from home? (2021)](https://www.newyorker.com/culture/cultural-comment/remote-work-not-from-home) ([HN](https://news.ycombinator.com/item?id=27275318))
+- [Remotists.com](https://remotists.com/) - Top Remote jobs every week.
+- [Top 100 Remote Jobs](https://remotists.com/top100_remotejobs/)
+- [Employees are quitting instead of giving up working from home (2021)](https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home) ([HN](https://news.ycombinator.com/item?id=27353672))
+- [Ask HN: What hardware/furniture/hack greatly improved your WFH setup? (2021)](https://news.ycombinator.com/item?id=27445877)
+- [The work-from-home future is destroying bosses' brains (2021)](https://ez.substack.com/p/the-work-from-home-future-is-destroying) ([HN](https://news.ycombinator.com/item?id=27461970))
+- [The future of the office is the clubhouse (2021)](https://app.mailbrew.com/s/newsletter/W1uyntRDIwk1)
+- [I went to the office for the first time. I hated it (2021)](https://www.reddit.com/r/cscareerquestions/comments/oosru6/i_went_to_the_office_for_the_first_time_i_fucking/) ([HN](https://news.ycombinator.com/item?id=27979964))
+- [I built a business that lets me live on the beach full time (2021)](https://www.expatsoftware.com/Articles/guy-on-the-beach-with-a-laptop.html) ([HN](https://news.ycombinator.com/item?id=28027138))
+- [Effective remote meetings (2021)](https://twitter.com/jlengstorf/status/1433815603295371265)
+- [Ways of Working (2020)](http://bugra.github.io/posts/2020/4/26/ways-of-working/)
+- [8 ideas we use for building a great culture in a distributed team (2021)](https://twitter.com/nathanbarry/status/1440358547372457987)
+- [Living on a ranch (2021)](https://twitter.com/Julian/status/1444010018261463040)
+- [Ask HN: Why a 4-day workweek don't get traction or a major movement? (2021)](https://news.ycombinator.com/item?id=28768039)
+- [Remote Job Benefit Ideas](https://twitter.com/levelsio/status/1445993277497380865)
+- [State of Digital Nomads](https://nomadlist.com/digital-nomad-statistics) ([HN](https://news.ycombinator.com/item?id=28798484))
+- [Polar Signals Remote Work Benefits](https://twitter.com/rothgar/status/1446867332748300288)
+- [HN: Amazon will allow many employees to work remotely indefinitely (2021)](https://news.ycombinator.com/item?id=28831031)
+- [WorkAdventure](https://workadventu.re/) - Collaborative web application (virtual office) presented as a 16-bit RPG video game. ([Code](https://github.com/thecodingmachine/workadventure))
+- [Volley](https://www.volleyapp.com/) - Async video messaging built for remote work.
+- [Best way to structure income when switching tax residency often (2021)](https://twitter.com/andreasklinger/status/1451160171699441670)
+- [Remote-first work is taking over the rich world – research hints at why (2021)](https://www.economist.com/finance-and-economics/2021/10/30/remote-first-work-is-taking-over-the-rich-world) ([HN](https://news.ycombinator.com/item?id=29034159))
+- [Productive tools for remote teams](https://github.com/CKGrafico/remote-teams)
+- [High Fidelity Remote Communication (2021)](https://olivierlacan.com/posts/high-fidelity-remote-communication/)
+- [The Future of Work at Cloudflare (2021)](https://blog.cloudflare.com/the-future-of-work-at-cloudflare/)
+- [Remote work will break the US monopoly on global talent (2021)](https://devonzuegel.com/post/remote-work-will-break-the-us-monopoly-on-talent) ([HN](https://news.ycombinator.com/item?id=29150674)) ([Tweet](https://twitter.com/devonzuegel/status/1457762388153966597))
+- [The Cities Best Facilitating Remote Work: A Global Index (2021)](https://sweetspotpr.com/wp-content/uploads/WorkMotion/MDPW/Copenhagen.pdf) ([HN](https://news.ycombinator.com/item?id=29181554))
+- [The Rise of the Decentralized Startup (2021)](https://elizabethyin.com/2021/09/19/the-rise-of-the-decentralized-startup/) ([HN](https://news.ycombinator.com/item?id=29427413))
+- [Ask HN: Has remote work made you move to a new location or consider it? (2021)](https://news.ycombinator.com/item?id=29724108)
+- [Company retreat/offsite location startups](https://twitter.com/LauraBehrensWu/status/1505704558789464066)
+- [Ask HN: Good books on managing a hybrid/remote team? (2022)](https://news.ycombinator.com/item?id=30956245)
+- [Ask HN: Has remote work made you procrastinate more? (2022)](https://news.ycombinator.com/item?id=31058930)
+- [How to spot great remote jobs](https://andreschweighofer.com/career/how-to-spot-great-remote-jobs-the-joel-test-for-remote-work/) ([HN](https://news.ycombinator.com/item?id=31059770))
+- [Ask HN: Is Hybrid Working a Ruse? (2022)](https://news.ycombinator.com/item?id=31122002)
+- [Airbnb’s design to live and work anywhere (2022)](https://news.airbnb.com/airbnbs-design-to-live-and-work-anywhere/) ([HN](https://news.ycombinator.com/item?id=31200650))
+- [Starlink for RVs](https://www.starlink.com/rv) ([HN](https://news.ycombinator.com/item?id=31486083))

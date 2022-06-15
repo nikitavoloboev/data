@@ -1,0 +1,181 @@
+---
+title: Vue.js
+---
+
+# [Vue.js](https://vuejs.org)
+
+[Vitesome](https://github.com/alvarosabu/vitesome) is a nice template. [Villus](https://github.com/logaretm/villus) is nice Vue GraphQL client. [tRPC-Nuxt](https://github.com/wobsoriano/trpc-nuxt) seems pretty great too.
+
+## Built with Vue
+
+- [Nuxt 3 PWA](https://github.com/kevinmarrec/nuxt-pwa-module) - Zero config PWA solution for Nuxt 3.
+- [Nuxt 3 Minimal Starter with ESLint](https://github.com/Diizzayy/n3-starter)
+- [Nuxt.js Hacker News](https://github.com/nuxt/hackernews)
+- [Travel App, Native-like Page Transitions](https://github.com/sdras/page-transitions-travelapp)
+- [Vue Advanced Chat](https://github.com/antoine92190/vue-advanced-chat) - Beautiful chat rooms component made with Vue.js.
+- [Official Vue.js Blog](https://github.com/vuejs/blog)
+- [Discord Clone](https://github.com/SOKHUONG/discord-clone)
+- [Vue Minesweeper](https://github.com/antfu/vue-minesweeper)
+- [VueTube](https://github.com/Frontesque/VueTube) - Open source YouTube client.
+- [VuePress Home Page](https://github.com/imfing/vuepress-homepage) - Elegant & friendly homepage (bio, tech portfolio, resume, doc...) template with Markdown and VuePress.
+- [Nuxt 3 + Medium (n3dium)](https://github.com/danielroe/n3dium)
+
+## Notes
+
+- [Enable custom formatters in Chrome DevTools when debugging Vue 3. The experience is on another level.](https://twitter.com/haoqunjiang/status/1442056332463333387)
+- [vdom and reactive are not opposite paradigms. They are apples and oranges. Vue is vdom _and_ reactive. You can take Vue's reactive parts and pair it with other rendering mechanisms, e.g. `lit-html` We can also theoretically compile Vue templates into Solid-like output, while still using Vue's own reactive system. Or still using the same reactive system, but just walk the DOM and make it reactive.](https://twitter.com/youyuxi/status/1528531307604545536)
+
+## Links
+
+- [Plans for the Next Iteration of Vue.js (2018)](https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf)
+- [Vue RFCs](https://github.com/vuejs/rfcs) - RFCs for substantial changes / feature additions to Vue core.
+- [Vue's Darkest Day (2019)](https://dev.to/danielelkington/vue-s-darkest-day-3fgh#0)
+- [vue-next](https://github.com/vuejs/vue-next) - V3 rewrite of Vue.js
+- [Design Principles of Vue 3.0 by Evan You (2019)](https://www.youtube.com/watch?v=WLpLYhnGqPA)
+- [Vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js
+- [Build a DEV.TO clone with Nuxt new fetch (2020)](https://nuxtjs.org/blog/build-dev-to-clone-with-nuxt-new-fetch)
+- [Zipe](https://github.com/pikax/zipe) - Vite + SSR.
+- [Building a real-time patient monitoring system with Go and Vue](https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/) ([HN](https://news.ycombinator.com/item?id=23051242))
+- [Just in time compilation technique for server-side rendering](https://github.com/SmallComfort/vue-ssr-jit)
+- [VueUse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities. ([Web](https://vueuse.js.org/)) ([GitHub](https://github.com/vueuse))
+- [Starter for Vite + VueUse + TypeScript](https://github.com/antfu/vite-vueuse-starter)
+- [The process: Making Vue 3 (2020)](https://increment.com/frontend/making-vue-3/)
+- [30 Days of Vue](https://github.com/fullstackio/30-days-of-vue)
+- [Vue Stripe Checkout](https://github.com/jofftiquez/vue-stripe-checkout)
+- [Awesome Vue 3](https://github.com/blacksonic/awesome-vue-3)
+- [Vue Styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - Isolated Vue component development environment with a living style guide.
+- [Trying Vue.js for the First Time (2020)](https://www.youtube.com/watch?v=3OhLUYNw0TI)
+- [Vue.js 3 (2020)](https://github.com/vuejs/vue-next/releases/tag/v3.0.0) ([HN](https://news.ycombinator.com/item?id=24518295)) ([Video](https://www.youtube.com/watch?v=Vp5ANvd88x0))
+- [vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables. ([Web](https://pikax.me/vue-composable/))
+- [Ream](https://github.com/ream/ream) - Full-stack framework for building web apps, powered by Vue 3.
+- [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator. ([Awesome VuePress](https://github.com/vuepress/awesome-vuepress))
+- [VuePress 2](https://github.com/vuepress/vuepress-next) ([Web](https://v2.vuepress.vuejs.org/))
+- [Using State Machines in Vue.js with XState (2020)](https://frontstuff.io/using-state-machines-in-vuejs-with-xstate)
+- [swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
+- [What Vue.js Does Better Than React (2020)](https://hswolff.com/blog/what-vuejs-does-better-than-react/)
+- [Things I Don’t Like about Vue.js (as a React engineer) (2020)](https://hswolff.com/blog/things-i-dont-like-about-vuejs-as-a-react-engineer/)
+- [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.
+- [Equal UI](https://quatrochan.github.io/Equal/) - Vue 3 components library with 30+ components based on TypeScript and personal design system. ([Code](https://github.com/quatrochan/Equal))
+- [Element Plus](https://github.com/element-plus/element-plus) - Vue.js 3.0 UI Library.
+- [vue-gtag](https://github.com/MatteoGabriele/vue-gtag) - Global Site Tag plugin for Vue.
+- [Vue Telemetry](https://vuetelemetry.com/) - Discover websites made with Nuxt.js.
+- [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite Starter Template.
+- [Vuejs Amsterdam](https://vuejs.amsterdam/) - Online Conference.
+- [Volar](https://github.com/johnsoncodehk/volar) - Faster and more accurate TypeScript support of Vue 3.
+- [Vue Essentials Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
+- [Vue Mastery](https://www.vuemastery.com/) - Ultimate Learning Resource for Vue.js Developers.
+- [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation for Vite.
+- [VueDX](https://github.com/znck/vue-developer-experience) - Collection of tools for Vue ecosystem.
+- [Vue Chemistry](https://github.com/antfu/vue-chemistry) - Reactified JavaScript functions for Vue.
+- [vueuse/head](https://github.com/vueuse/head) - Document head manager for Vue 3. SSR ready.
+- [Vue Native](https://vue-native.io/) - Framework to build cross platform native mobile apps using JavaScript. ([Code](https://github.com/GeekyAnts/vue-native-core)) ([HN](https://news.ycombinator.com/item?id=25927184))
+- [Nuxt Build Optimizations](https://github.com/loonpwn/nuxt-build-optimisations) - Nuxt.js module to automatically make your builds faster.
+- [Vite Experience with Nuxt 2](https://github.com/nuxt/vite)
+- [The Ultimate Nuxt API Setup (2020)](https://hire.jonasgalvez.com.br/2020/feb/22/the-ultimate-nuxt-api-setup/)
+- [Awesome Nuxt.js](https://github.com/nuxt-community/awesome-nuxt)
+- [vue-dts-gen](https://github.com/egoist/vue-dts-gen) - Generate `d.ts` from `.vue` files.
+- [Windi CSS for Nuxt.js](https://github.com/windicss/nuxt-windicss-module)
+- [Create Nuxt App](https://github.com/nuxt/create-nuxt-app) - Create a Nuxt.js project in seconds.
+- [Pinia](https://github.com/posva/pinia) - Intuitive, type safe and flexible Store for Vue. ([Docs](https://pinia.esm.dev/introduction.html))
+- [Nuxt Speedkit](https://github.com/GrabarzUndPartner/nuxt-speedkit) - Module for NuxtJS. Takes over the lighthouse performance optimization of your generated website. ([Docs](https://nuxt-speedkit.grabarzundpartner.dev/))
+- [Typed Vuex](https://github.com/danielroe/typed-vuex) - Strongly-typed store accessor for vanilla Vuex.
+- [Composable Vue - Anthony Fu (2021)](https://www.youtube.com/watch?v=IMJjP6edHd0)
+- [Vue Demi](https://github.com/vueuse/vue-demi) - Creates Universal Library for Vue 2 & 3.
+- [Scaling Your Vue Components for Mid-Large Size Apps (2021)](https://harlanzw.com/blog/scale-your-vue-components/)
+- [Building a Vue Auto Component Importer (2020)](https://harlanzw.com/blog/vue-automatic-component-imports/)
+- [Naive UI](https://github.com/TuSimple/naive-ui) - Vue 3 Component Library. ([Web](https://www.naiveui.com/en-US/os-theme))
+- [Petite-Vue](https://github.com/vuejs/petite-vue) - 5kb subset of Vue optimized for progressive enhancement. ([HN](https://news.ycombinator.com/item?id=27719290))
+- [vue-to-react](https://github.com/egoist/vue-to-react) - Turn a Vue component into a React component.
+- [Oruga](https://github.com/oruga-ui/oruga) - Lightweight library of UI components for Vue.js without CSS framework dependency. ([Web](https://oruga.io/))
+- [Vue Konva](https://github.com/konvajs/vue-konva) - JavaScript library for drawing complex canvas graphics using Vue.
+- [Vue Query](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue.
+- [Vant](https://github.com/youzan/vant) - Mobile UI Components built on Vue.
+- [Nuxt](https://nuxtjs.org/) - Hybrid Vue Framework. ([Code](https://github.com/nuxt/framework)) ([Nuxt 3 Public Beta Launch with Q&A](https://www.youtube.com/watch?v=kXHuaCNfYEY)) ([Docs](https://v3.nuxtjs.org/getting-started/quick-start))
+- [iles](https://github.com/ElMassimo/iles) - Islands of interactivity with Vue in Vite.js.
+- [Nuxt 3 Starter](https://github.com/productfrontenddeveloper/nuxt3-app) - Nuxt3, Tailwindcss, Sass, Headless UI, Vue.
+- [Vue Bleeding Edge](https://github.com/aldy505/vue-bleeding-edge) - Aiming to simulate Nuxt 3 without using Nuxt.
+- [Vue 3 + Vite template](https://github.com/reinink/tailwindui-modal-example)
+- [Is Nuxt 3 ready?](https://isnuxt3ready.owln.ai/) ([Code](https://github.com/owlnai/isnuxt3ready))
+- [Async with Composition API (2021)](https://antfu.me/posts/async-with-composition-api)
+- [Nuxt 3 Minimal Starter](https://github.com/kenny-io/Nuxt3-Tailwind-Supabase-Demo) - Uses Tailwind/Supabase.
+- [Arco Design Vue](https://github.com/arco-design/arco-design-vue)
+- [nuxt3-supabase](https://github.com/wobsoriano/nuxt3-supabase) - Nuxt 3 module and composables for Supabase.
+- [Vitesse for Nuxt 3](https://github.com/antfu/vitesse-nuxt3)
+- [Nano Stores Vue](https://github.com/nanostores/vue) - Vue integration for Nano Stores, a tiny state manager with many atomic tree-shakable stores.
+- [Moon](https://github.com/ulissesferreira/moon) - Lightweight Vue 3 component library.
+- [Vue Stripe.js](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js.
+- [Vuestic UI](https://vuestic.dev/) - Vue.js 3.0 UI Framework. ([Code](https://github.com/epicmaxco/vuestic-ui))
+- [Explore Nuxt Modules](https://modules.nuxtjs.org/) ([Code](https://github.com/nuxt/modules))
+- [Vue 3 Spring](https://github.com/ismail9k/vue3-spring) - Spring-physics based animation library, and more.
+- [Things you wish Vue docs explained better (2021)](https://twitter.com/youyuxi/status/1466065644487528449)
+- [Create a GraphQL Powered Vue 3 Application (2021)](https://egghead.io/courses/create-a-graphql-powered-vue-3-application-8152749d)
+- [nuxt-delay-hydration](https://github.com/harlan-zw/nuxt-delay-hydration) - Improve your Nuxt.js Google Lighthouse score by delaying hydration.
+- [Harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3. ([Docs](https://harlemjs.com/guide/introduction/getting-started.html#installation))
+- [Vuetiful](https://github.com/andrewcourtice/vuetiful) - Component framework written on top of the Vue reactive library.
+- [voe](https://github.com/yisar/voe) - 3kb subset of Vue optimized for progressive enhancement.
+- [vue-typegen](https://github.com/Akryum/vue-typegen) - Generate types for TypeScript Vue components libraries.
+- [VueJS Interview Questions](https://github.com/sudheerj/vuejs-interview-questions)
+- [Vue Components as Custom Elements (2021)](https://maximomussini.com/posts/vue-custom-elements/)
+- [Typed Router for Nuxt 3](https://github.com/victorgarciaesgi/nuxt-typed-router)
+- [Vurian Wizard](https://github.com/mayashavin/vurian-wizard) - Wizard Vue component on Vue 3 and state machine.
+- [nuxtjs/partytown](https://github.com/nuxt-community/partytown-module) - Partytown integration for Nuxt.
+- [Lodash for Nuxt](https://github.com/cipami/nuxt-lodash)
+- [Vue 3 as the New Default (2022)](https://blog.vuejs.org/posts/vue-3-as-the-new-default.html) ([HN](https://news.ycombinator.com/item?id=30251115))
+- [FormKit](https://github.com/formkit/formkit) - Form authoring framework for Vue developers. ([Web](https://formkit.com/)) ([HN](https://news.ycombinator.com/item?id=31367543))
+- [TSConfigs for Vue projects to extend](https://github.com/vuejs/tsconfig)
+- [Algolia module for Nuxt](https://github.com/nuxt-community/algolia-module)
+- [Nuxt Starter Templates](https://github.com/nuxt/starter) - Quickly get started with a minimal Nuxt starter template.
+- [Nuxt Supabase](https://github.com/larbish/supabase-module) - Supabase module for Nuxt.
+- [Nuxt Strapi](https://github.com/nuxt-community/strapi-module) - Strapi Module for Nuxt.
+- [vue-bind-once](https://github.com/danielroe/vue-bind-once) - Tiny, SSR-safe directive for binding random data to an element.
+- [Nuxt3 + URQL + SSR](https://github.com/bicouy0/nuxt3-urql)
+- [Nuxt 3 Starter](https://github.com/xiaoluoboding/nuxt3-starter) - Better Nuxt 3 starter template.
+- [nuxt-gql](https://github.com/Diizzayy/nuxt-gql) - Minimal GraphQL Client + Code Generation for Nuxt 3.
+- [Vue Use Motion](https://github.com/vueuse/motion) - Vue Composables putting your components in motion.
+- [Vue Router](https://github.com/vuejs/router)
+- [Short introduction into Vue](https://vue-intro-workshop.vercel.app/1) ([Code](https://github.com/smakosh/Vue-intro-workshop))
+- [Pinia Plugin Persist](https://github.com/Seb-L/pinia-plugin-persist) - Persist pinia state data in sessionStorage or other storages.
+- [Inkline](https://www.inkline.io/) - Vue.js UI UX DX Library. ([Code](https://github.com/inkline/inkline))
+- [Islands Architecture in Vue with Máximo Mussini (2021)](https://pca.st/gtrkm8oc)
+- [nuxt-directus](https://github.com/Intevel/nuxt-directus) - Easily connect your Nuxt3 application to your directus server.
+- [Easily integrate Firebase into your Nuxt project](https://github.com/nuxt-community/firebase-module)
+- [nuxt-feed-module](https://github.com/maciejpedzich/nuxt-feed-module) - Nuxt 3 compatible module for generating RSS feeds.
+- [Vue Composable Starter](https://github.com/Tahul/vue-composable-starter) - Minimalist starting point for your next Vue 3 composable.
+- [Blitzar](https://github.com/CyCraft/blitzar) - Generate Vue Forms and Data-tables fast with a simple JSON-like syntax.
+- [Magnetar](https://github.com/CyCraft/magnetar) - Framework-agnostic syncing solution that auto-connects any DB/API with your local data store and has optimistic-UI built in.
+- [Quasar Framework](https://github.com/quasarframework/quasar) - Build high-performance VueJS user interfaces in record time. ([Web](https://quasar.dev/))
+- [unplugin-vue-define-options](https://github.com/sxzz/unplugin-vue-define-options) - Introduce a macro in script setup, defineOptions, to use Options API in script setup.
+- [Veaury](https://github.com/devilwjp/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible.
+- [Vue Starport](https://github.com/antfu/vue-starport) - Shared component across routes with animations.
+- [v-shared-element](https://github.com/justintaddei/v-shared-element) - Declarative shared-element transitions for Vue.js.
+- [Vite Plugin Vue](https://github.com/underfin/vite-plugin-vue2)
+- [Vite Integration For Go](https://github.com/torenware/vite-go) - Simple module that lets you serve your Vue 3 project from a Go-based web server.
+- [Minimal GraphQL Client + Code Generation for Nuxt](https://github.com/Diizzayy/nuxt-graphql-client)
+- [Vue Stripe Menu](https://github.com/oleksiikhr/vue-stripe-menu) - Creating a navigation menu with animations like on Stripe.
+- [Vue Devtools](https://devtools.vuejs.org/) - Browser devtools extension for debugging Vue.js applications. ([Code](https://github.com/vuejs/devtools))
+- [Villus](https://github.com/logaretm/villus) - Tiny and fast GraphQL client for Vue.js.
+- [vee-validate](https://github.com/logaretm/vee-validate) - Form Validation for Vue.js.
+- [vue-adaptive-utils](https://github.com/logaretm/vue-adaptive-utils) - Deliver empathetic experiences to your users by adapting to their capabilities.
+- [Vuetify](https://vuetifyjs.com/en/) - Material Design Framework for Vue.js. ([Code](https://github.com/vuetifyjs/vuetify)) ([Awesome](https://github.com/vuetifyjs/awesome-vuetify))
+- [Vue Virtual Scroller](https://github.com/Akryum/vue-virtual-scroller) - Blazing fast scrolling of any amount of data.
+- [Origin.js](https://github.com/originjs/origin.js) - Simple and powerful Vue.js web application framework that provides a complete set of web project solutions based on Vue.js.
+- [Dashibase](https://github.com/Dashibase/dashibase) - No-code tool to build user dashboards supported by Supabase.
+- [Vue Schema.org for Automated Google Rich Results](https://github.com/harlan-zw/vue-schema-org)
+- [Why Vue doesn’t need time slicing / concurrent mode](https://github.com/vuejs/rfcs/issues/89#issuecomment-546988615) ([Tweet](https://twitter.com/AdamRackis/status/1518278855550713856))
+- [Floating Vue](https://github.com/Akryum/floating-vue) - Easy tooltips, popovers, dropdown, menus... for Vue.
+- [Vite Plugin Vue Inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser automatically.
+- [vuensight](https://github.com/martinascharrer/vuensight) - Visualize Vue.js component relationships and communication channels, i.e. props, events and slots.
+- [Nuxt UI](https://github.com/nuxt/ui) - Unified UI and Design Kit for the Nuxt.
+- [Splitpanes](https://github.com/antoniandre/splitpanes) - VueJS reliable, simple and touch-ready panes splitter / resizer.
+- [Nuxt Content](https://github.com/nuxt/content) - File based Headless CMS for modern websites built with Nuxt. ([Docs](https://content.nuxtjs.org/))
+- [Vitesome](https://github.com/alvarosabu/vitesome) - Simple opinionated Vue Starter Template with Vite.js.
+- [Nuxt Image](https://github.com/nuxt/image) - Optimized Images for Nuxt.
+- [Vue k bar](https://github.com/bytebase/vue-kbar) - Extensible command+k interface for Vue 3 applications.
+- [Server functions RPC in client for Nuxt 3](https://github.com/antfu/nuxt-server-fn)
+- [tRPC-Nuxt](https://github.com/wobsoriano/trpc-nuxt) - End-to-end typesafe APIs with tRPC.io in Nuxt applications.
+- [Vue3 Composition API: watchEffect vs. watch (2022)](https://blog.openreplay.com/vue3-composition-api-watcheffect-vs-watch)
+- [SlimeForm](https://github.com/LittleSound/slimeform) - Form state management and validation for Vue3.
+- [The Nuxt Web (2022)](https://twitter.com/Atinux/status/1532405883929608197)
+- [Anthony Fu - Vue, Vite, Vitest, UnoCSS (2022)](https://www.youtube.com/watch?v=At91HkUmAY0)
+- [Vitesse Lite](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
+- [Vue Flow](https://github.com/bcakmakoglu/vue-flow) - Highly customizable Flowchart component for Vue 3.

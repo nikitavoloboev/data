@@ -1,0 +1,70 @@
+---
+title: APL
+---
+
+# [APL](<https://en.wikipedia.org/wiki/APL_(programming_language)>)
+
+## Links
+
+- [Try APL](https://tryapl.org/) - APL is an array-oriented programming language that will change the way you think about problems and data. ([HN](https://news.ycombinator.com/item?id=27460887))
+- [J for C Programmers](https://www.jsoftware.com/help/jforc/contents.htm) ([HN](https://news.ycombinator.com/item?id=23412724))
+- [Implementing a bignum calculator - Rob Pike (2014)](https://www.youtube.com/watch?v=PXoG0WX0r_E)
+- [My Life with Array Languages (2005)](http://webdocs.cs.ualberta.ca/~smillie/Jpage/MyLife.pdf)
+- [Lessons from APL, a “lost” language (2014)](https://blog.benjojo.co.uk/post/2014-05-26-APL-the-lost-language.md)
+- [Beating C with Dyalog APL: wc](https://ummaycoc.github.io/wc.apl/)
+- [APL and J (2015)](https://crypto.stanford.edu/~blynn/c/apl.html) ([HN](https://news.ycombinator.com/item?id=21792763))
+- [Kenneth E. Iverson: An Autobiographical Essay (2004)](http://archive.vector.org.uk/trad/v234/iverson.pdf) ([HN](https://news.ycombinator.com/item?id=21855821))
+- [Functional Programming in Joy and K (2005)](http://archive.vector.org.uk/art10000360)
+- [Language as an intellectualtool: From hieroglyphicsto APL (1991)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.6185&rep=rep1&type=pdf)
+- [April](https://github.com/phantomics/april) - APL programming language (a subset thereof) compiling to Common Lisp. ([HN](https://news.ycombinator.com/item?id=22225136))
+- [APL a Day](https://www.sacrideo.us/tag/apl-a-day/)
+- [Ode to J](https://zserge.com/posts/j/)
+- [Is APL Dead? Not anymore (2020)](https://www.sacrideo.us/is-apl-dead/) ([HN](https://news.ycombinator.com/item?id=23055793)) ([HN](https://news.ycombinator.com/item?id=28929709))
+- [A Dictionary of APL (1987)](https://www.jsoftware.com/papers/APLDictionary1.htm) ([Lobsters](https://lobste.rs/s/niyjrs/dictionary_apl)) ([PDF](http://www.softwarepreservation.org/projects/apl/Books/ADICTIONARYOFAPL))
+- [APL Since 1978](https://dl.acm.org/doi/pdf/10.1145/3386319) ([HN](https://news.ycombinator.com/item?id=23510433)) ([Video](https://www.pldi21.org/prerecorded_hopl.2.html)) ([HN](https://news.ycombinator.com/item?id=29106109))
+- [APL In Exposition by K. E. Iverson (1972)](http://www.softwarepreservation.org/projects/apl/Papers/197201_APL%20In%20Exposition_320-3010.pdf)
+- [An APL Machine (1970)](https://www.slac.stanford.edu/pubs/slacreports/reports07/slac-r-114.pdf) ([Lobsters](https://lobste.rs/s/zfwv49/apl_machine_1970))
+- [Compiling APL to JavaScript](http://archive.vector.org.uk/art10501160) ([Lobsters](https://lobste.rs/s/4c5joc/compiling_apl_javascript))
+- [J Notation as a Tool of Thought (2020)](https://www.hillelwayne.com/post/j-notation/) ([Lobsters](https://lobste.rs/s/uh4hl2/j_notation_as_tool_thought)) ([HN](https://news.ycombinator.com/item?id=24166260))
+- [BQN](https://mlochbaum.github.io/BQN/) - APL Variant from Marshall Lochbaum. ([HN](https://news.ycombinator.com/item?id=24167804))
+- [A look at the J language: the fine line between genius and insanity (2012)](https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/) ([HN](https://news.ycombinator.com/item?id=24177126))
+- [Convolutional Neural Networks in APL (2019)](https://dl.acm.org/doi/pdf/10.1145/3315454.3329960)
+- [NumPy another Iverson Ghost (2018)](https://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/) ([HN](https://news.ycombinator.com/item?id=24176985))
+- [MicroKanren in J: an Embedding of the Relational Paradigm in an Array Language with Rank-Polymorphic Unification (2020)](http://minikanren.org/workshop/2020/minikanren-2020-paper2.pdf) ([Lobsters](https://lobste.rs/s/qcrdly/microkanren_j_embedding_relational))
+- [April, an APL Compiler for Common Lisp](https://www.youtube.com/watch?v=AUEIgfj9koc) ([HN](https://news.ycombinator.com/item?id=24434717))
+- [Co-dfns](https://github.com/Co-dfns/Co-dfns) - High-performance, Reliable, and Parallel APL.
+- [Notation as a Tool of Thought - Kenneth E. Iverson (1979)](https://www.jsoftware.com/papers/tot.htm) ([PDF](https://www.eecg.utoronto.ca/~jzhu/csc326/readings/iverson.pdf)) ([HN](https://news.ycombinator.com/item?id=28937268))
+- [J one-page interpreter fragment (1992)](https://code.jsoftware.com/wiki/Essays/Incunabulum) ([HN](https://news.ycombinator.com/item?id=25902615))
+- [J Books](https://code.jsoftware.com/wiki/Books)
+- [APL Problem Solving Competition](https://dyalogaplcompetition.com/)
+- [Elementary Functions (1966)](https://www.jsoftware.com/papers/Elementary_Functions.pdf) - Book that uses APL to illustrate mathematics.
+- [Algebra: An Algorithmic Treatment](https://www.jsoftware.com/books/pdf/algebra.pdf)
+- [Does APL Need a Type System? (2018)](https://www.youtube.com/watch?v=z8MVKianh54)
+- [APL Seeds](https://www.dyalog.com/apl-seeds-user-meetings/aplseeds21.htm) - Event for those just starting their APL journey.
+- [APLcart](https://aplcart.info/) - Find your way in APL. ([Code](https://github.com/abrudz/aplcart))
+- [APL Style: Patterns/Anti-patterns](https://sway.office.com/b1pRwmzuGjqB30On) ([Lobsters](https://lobste.rs/s/3cscix/apl_style_patterns_anti_patterns))
+- [Some thoughts on APLs (real or imagined) beauty, and the value of very concise languages](https://twitter.com/zverok/status/1395444520116969476) ([Lobsters](https://lobste.rs/s/dgegjp/some_thoughts_on_apls_real_imagined))
+- [APL – a Glimpse of Heaven (2006)](http://archive.vector.org.uk/art10011550)
+- [Vector, the Journal of the British APL Association](http://archive.vector.org.uk/)
+- [From Competitive Programming to APL](https://corecursive.com/065-competitive-coding-with-conor-hoekstra/) ([HN](https://news.ycombinator.com/item?id=27380431))
+- [BQN](https://github.com/mlochbaum/BQN) - APL-like programming language. Self-hosted. ([Web](https://mlochbaum.github.io/BQN/))
+- [BQN in C](https://github.com/dzaima/CBQN)
+- [Let's build a simple interpreter for APL (2020)](https://mathspp.com/blog/lsbasi-apl-part1) ([HN](https://news.ycombinator.com/item?id=27728071))
+- [J language code](https://github.com/jsoftware/jsource)
+- [Jelly](https://github.com/DennisMitchell/jellylanguage) - Recreational programming language inspired by J. ([HN](https://news.ycombinator.com/item?id=27800057))
+- [Useful math to understand APL languages (2021)](https://www.reddit.com/r/apljk/comments/ooqn1j/what_topics_from_mathematics_are_usefull_for/)
+- [Learn APL with Neural Networks - YouTube](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM)
+- [Learning APL](https://xpqz.github.io/learnapl/intro.html) ([HN](https://news.ycombinator.com/item?id=28092097))
+- ["The J Programming Language" by Tracy Harms (2013)](https://www.youtube.com/watch?v=RWYkx6-L04Q)
+- [APL.jl](https://github.com/shashi/APL.jl) - APL in Julia.
+- [An Implementation of J – Incunabulum (2008)](https://www.jsoftware.com/ioj/iojATW.htm) ([HN](https://news.ycombinator.com/item?id=28491562))
+- [I got the J language working on OpenBSD (2021)](https://briancallahan.net/blog/20210911.html) ([Lobsters](https://lobste.rs/s/w3ohim/i_got_j_language_working_on_openbsd))
+- [APL Compiler targeting a Typed Array Intermediate Language](https://github.com/melsman/apltail) ([Lobsters](https://lobste.rs/s/bpq8vp/apl_compiler_standard_ml_compiling_typed))
+- [The Origins of APL - 1974](https://www.youtube.com/watch?v=8kUQWuK1L4w)
+- [ivy](https://github.com/robpike/ivy) - APL-like calculator.
+- [rjj](https://github.com/sourcefrog/rsj) - Learning J by writing an interpreter.
+- [ok](https://github.com/sgreben/ok) - OCaml implementation of the K 2.0 array programming language.
+- [Mastering Dyalog APL (2009)](https://www.dyalog.com/uploads/documents/MasteringDyalogAPL.pdf) ([HN](https://news.ycombinator.com/item?id=30453919))
+- [Fixing APL’s trigonometric notation (2022)](https://outerproduct.net/2022-03-07_death-to-%E2%97%8B.html)
+- [I language](https://github.com/mlochbaum/ILanguage) - Generalizes the array and functional capabilities of the array-programming language J to deal with a much broader variety of data structures.
+- [Why APL is worth knowing (2022)](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing) ([HN](https://news.ycombinator.com/item?id=30870868))

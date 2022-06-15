@@ -1,0 +1,127 @@
+# Travel
+
+I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=PLfO1QINjvak9KoBetr7ThGHVB2owBLH1C) travel vlog (it's in Russian). What's amazing is how he mixes in atmospheric music with nice edits of both the city and his standup and voice audios of people he talked to.
+
+[Here](https://open.spotify.com/track/2k750ut7R7B2M2oWZtE2jC) is a nice song to listen to when walking some new city in evening.
+
+## Notes
+
+- Visiting subreddits of cities/countries you are going to as well as the respective `AskA..` communities is great way to know about a place. [AskARussian](https://www.reddit.com/r/AskARussian/) is one such subreddit, it links to more similar subreddits in the sidebar.
+- [You can use the minus syntax to exclude results in Google Maps.](https://twitter.com/conradev/status/1376219194010656769)
+- [Freedom is the new flex. International travel > Car. One suitcase > Wardrobe. Location independence > Mortgage. Freedom to move > Material items. Self fulfillment > Social approval.](https://twitter.com/AlexNapierNomad/status/1513233187123699718)
+
+## Links
+
+- [These photos are why I’m trapped in Tokyo forever now](https://medium.com/@damjancvetkovdimitrov/these-photos-are-why-i-m-trapped-in-tokyo-forever-now-1a0ea980bcc5)
+- [Traveling with Less Fatigue](https://medium.com/@bebraw/traveling-with-less-fatigue-40c5cfd3aebe)
+- [Travel Is No Cure for the Mind](https://medium.com/personal-growth/travel-is-no-cure-for-the-mind-e449d3109d71)
+- [Awesome Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
+- [Some travel notes by a nomad](https://github.com/mrtnzlml/meta/blob/master/travel.md)
+- [Ask HN: Cheap places to live with a good intellectual atmosphere?](https://news.ycombinator.com/item?id=18164189)
+- [Pod Room](https://www.podroom.com/) - Bite-sized Luxury Hotel (SF only) but pretty awesome.
+- [Engineer's Guide to US Visas (2014)](http://blog.sourcing.io/visa-guide)
+- [Where is the best place for nightlife you’ve traveled to? (2018)](https://www.reddit.com/r/solotravel/comments/9xk3tp/where_is_the_best_place_for_nightlife_youve/)
+- [Sonder](https://www.sonder.com/) - Beautiful spaces built for travel and life.
+- [Common](https://www.common.com/) - Private rooms and beautiful shared spaces in friendly homes.
+- [Travel photos are underrated (2019)](https://devonzuegel.com/post/travel-photos-are-underrated) ([HN](https://news.ycombinator.com/item?id=30782578))
+- [Hipcamp](https://www.hipcamp.com/) - Everywhere you want to camp.
+- [trippy](https://trippy.netlify.com/) - Tiny and fast travel planner.
+- [Rekka Bellum and Devine Lu Linvega, Hundred Rabbits - XOXO Festival (2019)](https://www.youtube.com/watch?v=BW32yUEymvU)
+- [Visalogy](https://visalogy.com/) - Visa Requirements and Passport Information.
+- [Gradient Retreat Center](https://gradientretreat.com/) - Place for writers, makers, and code writers to take a week away from their regular lives to focus on creative work.
+- [City Roads](https://anvaka.github.io/city-roads/) - Renders every single road within a city. ([Code](https://github.com/anvaka/city-roads)) ([HN](https://news.ycombinator.com/item?id=27410317))
+- [The most atmospheric city you've visited? (2020)](https://www.reddit.com/r/solotravel/comments/fyfz0l/the_most_atmospheric_city_youve_visited/)
+- [What are the most social cities for solo travelers? (2020)](https://www.reddit.com/r/solotravel/comments/g5jloo/what_are_the_most_social_cities_for_solo_travelers/)
+- [The Death of Couchsurfing? (2020)](https://medium.com/@jameshopest/the-death-of-couchsurfing-a87d9537edf2) ([HN](https://news.ycombinator.com/item?id=23211495))
+- [Hundred Rabbits — off the grid](https://100r.co/site/off_the_grid.html)
+- [Aero](https://aero.com/) - Luxury Semi-Private Jets.
+- [Drive & Listen](https://driveandlisten.herokuapp.com/) - Drive through cities in the browser while listening to local radio stations. ([HN](https://news.ycombinator.com/item?id=23543043))
+- [Tea With Strangers](http://www.teawithstrangers.com/) - Community organization that's all about making our cities feel more like neighborhoods by breaking the barriers between strangers.
+- [WindowSwap](https://window-swap.com/) - View someone's window somewhere in the world. ([HN](https://news.ycombinator.com/item?id=23815460))
+- [Kibbo](https://www.kibbo.com/) - Community pioneering a new kind of flexible and affordable housing model on the West Coast.
+- [The Fantasy and the Cyberpunk Futurism of Singapore (2020)](https://www.wired.com/story/opinion-the-fantasy-and-the-cyberpunk-futurism-of-singapore/) ([HN](https://news.ycombinator.com/item?id=24022222))
+- [Travels of Juanito Fatas](https://juanitofatas.com/travels)
+- [Ideas of where to move from SF (2020)](https://twitter.com/justinkan/status/1295204370519175170)
+- [Passport Index](https://www.passportindex.org/)
+- [Duffel](https://duffel.com/) - Powerful and intuitive tools for starting and growing a travel business. Search, book, and manage flights across more than 20 airlines.
+- [Gowalla](https://go.gowalla.com/) - Social Game in the Real World.
+- [Omio](https://www.omio.com/) - Search, Compare & Buy Cheap Bus, Train & Flight Tickets.
+- [90 day Finn](https://www.helsinkibusinesshub.fi/90-day-finn/) - Helsinki Relocation Package: City as a Service. ([HN](https://news.ycombinator.com/item?id=25003999))
+- [GetYourGuide](https://www.getyourguide.com/discovery/) - Book Things To Do, Attractions, and Tours.
+- [Cohabs](https://cohabs.com/) - Private Room Rentals in Beautiful Shared Houses.
+- [Thruhikes](https://thruhikes.net/) - Growing list of long distance hikes around the world. ([HN](https://news.ycombinator.com/item?id=25568856))
+- [Slow TV Map](https://slowtvmap.com/) - Take a relaxing virtual trip.
+- [Random Street View](https://randomstreetview.com/) - Images from all over the world.
+- [Duffel](https://duffel.com/) - API to sell flights online. Search, book, and sell flights on a developer-friendly platform complete with the extras you need — from seat selection to checked bags.
+- [City Guesser](https://virtualvacation.us/guess) - Can you guess what city you're in?
+- [Second Citizenships, Residencies, and/or Temporary Relocation (2021)](https://www.lesswrong.com/posts/jHnFBHrwiNb5xvLBM/second-citizenships-residencies-and-or-temporary-relocation) ([HN](https://news.ycombinator.com/item?id=26210179))
+- [City Walks](https://citywalks.live/) - Take a virtual walk through a famous city.
+- [Reddit Travel Wiki](https://www.reddit.com/r/travel/wiki/index)
+- [Reddit Solo Travel Wiki](https://www.reddit.com/r/solotravel/wiki/index)
+- [GeoGuessr](https://www.geoguessr.com/) - Geography game which takes you on a journey around the world and challenges your ability to recognize your surroundings.
+- [Ask HN: Those who quit their jobs to travel the world, how did it go? (2021)](https://news.ycombinator.com/item?id=26407560)
+- [Where is everyone going to travel to when the world opens up again? (2021)](https://www.reddit.com/r/solotravel/comments/m4cpmg/where_is_everyone_going_to_travel_to_when_the/)
+- [What is the most useful piece of travel kit you've bought or been gifted? (2021)](https://www.reddit.com/r/solotravel/comments/maj6w1/what_is_the_most_useful_piece_of_travel_kit_youve/)
+- [Ask HN: Digital Nomads: What's Your Setup? (2021)](https://news.ycombinator.com/item?id=26567980)
+- [Advice as a new full-time digital nomad (2021)](https://www.reddit.com/r/digitalnomad/comments/me30te/need_advice_as_a_new_fulltime_digital_nomad/)
+- [First long solo trip (Female) - possible destinations (2021)](https://www.reddit.com/r/solotravel/comments/mfyjws/first_long_solo_trip_female_possible_destinations/)
+- [Long term visas](https://longtermvisas.com/) - Travel decisions, simplified.
+- [Best country in Latin America to enjoy Nature? (2021)](https://www.reddit.com/r/solotravel/comments/mjuwsd/best_country_in_latin_america_to_enjoy_nature/)
+- [What is the best English speaking country to leanfire in your opinion? (2021)](https://www.reddit.com/r/leanfire/comments/mnq41m/what_is_the_best_english_speaking_country_to/)
+- [Tripadvisor](https://www.tripadvisor.com/) - Read Reviews, Compare Prices & Book.
+- [I booked my cheapest one-month trip (2021)](https://benbernardblog.com/how-i-booked-my-absolutely-cheapest-one-month-trip-ever/) ([HN](https://news.ycombinator.com/item?id=26982370))
+- [The Hoxton](https://thehoxton.com/) - Open House Hotels in London, Europe and USA.
+- [Camp Hox](https://thehoxton.com/camp-hox/) - Van trips.
+- [You get to create your own list of what you believe are the Seven Wonders of the World. What are they? (2021)](https://www.reddit.com/r/solotravel/comments/nac1ao/you_get_to_create_your_own_list_of_what_you/)
+- [What destination can you travel to repeatedly without ever getting tired of it? (2021)](https://www.reddit.com/r/solotravel/comments/nckve0/what_destination_can_you_travel_to_repeatedly/)
+- [Other than bars and restaurants, what do you do solo traveling? (2021)](https://www.reddit.com/r/solotravel/comments/ngdwup/other_than_bars_and_restaurants_what_do_you_do/)
+- [Flightradar24](https://www.flightradar24.com/) - Live Flight Tracker.
+- [Airbnb 2021](https://www.airbnb.com/2021)
+- [Numbeo](https://www.numbeo.com/cost-of-living/) - Largest cost of living database.
+- [Compare Countries By Tax Rates](https://thebanks.eu/compare-countries-by-tax-rates) ([Comment](https://news.ycombinator.com/item?id=27433423))
+- [Inexpensive Countries Where $2k/Month Buys the Good Life (2021)](https://www.moneycrashers.com/inexpensive-countries-2k-month-low-cost-living/) ([HN](https://news.ycombinator.com/item?id=27468779))
+- [Dtravel](https://www.dtravel.com/) - Community Owned Home Sharing with Lower Fees.
+- [Travis](https://www.travistravis.co/) - Like Pinterest for Travel Planning.
+- [Beach Nearby](https://beachnearby.com/) - Discover the best beaches near you.
+- [Ukio](https://www.stayukio.com/) - Beautifully designed, curated apartments with everything you need.
+- [TripIt](https://www.tripit.com/web) - Highest-rated trip planner and flight tracker.
+- [AllTrails](https://www.alltrails.com/) - Trail Guides & Maps for Hiking, Camping, and Running.
+- [What country surprised you? (2021)](https://www.reddit.com/r/AskAnAmerican/comments/ov71j5/european_here_what_country_surprised_you/)
+- [Good places for Kiteboarding](https://twitter.com/maccaw/status/1424458825206276101)
+- [Expat Briefing](https://www.expatbriefing.com/)
+- [86 перелетов за год. Что я научился всегда брать с собой в поездку. (2017)](https://www.youtube.com/watch?v=2QURN-BJWHI)
+- [There are six internet links on my office on wheels. Seven when Starlink arrives (2021)](https://ghuntley.com/internet/) - How I put together a vehicle with the best internet connectivity in Australia. ([HN](https://news.ycombinator.com/item?id=28593698))
+- [Perito](https://perito-burrito.com/) - Куда поехать в путешествие.
+- [Lonely Planet](https://www.lonelyplanet.com/) - Travel Guides & Travel Information - Lonely Planet.
+- [The longest possible train travel in the world](https://www.reddit.com/r/MapPorn/comments/po1ggb/the_longest_possible_train_travel_in_the_world/)
+- [Ask HN: What is your story of immigrating to another country? (2021)](https://news.ycombinator.com/item?id=28808468)
+- [Rome2rio](https://www.rome2rio.com/) - Discover how to get anywhere.
+- [CanITravel](https://canitravel.net/) - Covid entry requirements to any destination.
+- [Hewell App](https://hewellapp.com/) - Travel app powered by WikiData. ([HN](https://news.ycombinator.com/item?id=29144207))
+- [Awesome Immigration](https://github.com/acacess/awesome-immigration) - Awesome list of long-term visas.
+- [Airheart](https://airheart.com/) - Trip Planner, for Solo Travelers and Groups.
+- [Future of travel (2021)](https://twitter.com/bchesky/status/1457904388366692354)
+- [Location History Visualizer](https://locationhistoryvisualizer.com/heatmap/) - Tool for visualizing your complete, consolidated, collected Google Location History. ([Code](https://github.com/theopolisme/location-history-visualizer))
+- [Longest possible train journey in the world](https://twitter.com/Locati0ns/status/1470041690492657673)
+- [The longest train journey – in 2021](https://jonworth.eu/the-longest-train-journey-in-the-world/) ([HN](https://news.ycombinator.com/item?id=29570640)) ([HN](https://news.ycombinator.com/item?id=29682578))
+- [Страны мира где-то почти как свой](https://twitter.com/mighty_shield/status/1283386813223182336)
+- [Stylish maps of sleeper train routes](http://www.night-trains.com/)
+- [If Airbnb could launch anything in 2022, what would it be?](https://twitter.com/bchesky/status/1477764672640073728)
+- [Ask HN: Does the world need a “passport equality” movement? (2022)](https://news.ycombinator.com/item?id=30243302)
+- [Luke Hefson's travel links](https://github.com/lukehefson/travel)
+- [What is the best city to live in for people in their early-to-mid 20s?](https://twitter.com/kylascan/status/1503056412901101579)
+- [Back Of Your Hand](https://backofyourhand.com/) - Game that tests how well you know your local area. ([HN](https://news.ycombinator.com/item?id=30733339))
+- [Welcome To My Garden](https://welcometomygarden.org/) - Not-for-profit network of citizens offering free camping spots in their gardens to slow travellers. ([Code](https://github.com/WelcometoMyGarden/welcometomygarden))
+- [Unbundling Airbnb (2022)](https://www.peterfabor.com/posts/unbundling-airbnb) ([HN](https://news.ycombinator.com/item?id=30855187))
+- [The Safest Low-Tax Countries in the World](https://www.youtube.com/watch?v=SleuUmzZ9S4)
+- [Small World](https://smallworld.kiwi/) - Stay in touch with your friends around the world. ([Code](https://github.com/devonzuegel/smallworld))
+- [Flight Penguin](https://flightpenguin.com/) - Taking the Pain out of Flight Search. ([HN](https://news.ycombinator.com/item?id=30920891))
+- [Van life (cancer edition) finale](https://imgur.com/gallery/prUy1Kt) ([HN](https://news.ycombinator.com/item?id=30983714))
+- [Nomad Passport Index: The World's Best Passports](https://nomadcapitalist.com/nomad-passport-index/)
+- [Why Not All Passports are Created Equal (2022)](https://www.youtube.com/watch?v=Qpi1OlRmFIM)
+- [Explore World](https://www.explordle.com/map/wor) - Guess where you are based on video feed. ([HN](https://news.ycombinator.com/item?id=30970911))
+- [Places with "bad reputations" you enjoyed? (2022)](https://www.reddit.com/r/solotravel/comments/u2kav6/places_with_bad_reputations_you_enjoyed/)
+- [My 10 Favorite Countries (After Visiting Them All) (2022)](https://www.youtube.com/watch?v=dYQYL1TCKMY)
+- [Kindred](https://livekindred.com/) - Members-only Home Swapping Network. ([Twitter](https://twitter.com/live_kindred))
+- [Лучшие страны для эмиграции вместо Грузии и Турции (2022)](https://www.youtube.com/watch?v=M7IJRWxpqB0)
+- [Apps recommendations that will improve your solo travels (2022)](https://www.reddit.com/r/solotravel/comments/ui9qss/some_apps_recommendations_that_will_improve_your/)

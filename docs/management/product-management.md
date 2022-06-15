@@ -1,0 +1,97 @@
+# Product Management
+
+## Notes
+
+- [Toyota's decision-making principle: Instead of depending on hierarchy, the people who are closest to what’s happening make decisions](https://twitter.com/david_perell/status/1298436779725320192)
+- [The road to hell is paved with special features for special customers.](https://twitter.com/mostalive/status/1415983044935274506)
+- [Minimalism in product design isn't about minimizing the product. It's about minimizing what's going on in the head of the person using it.](https://twitter.com/bob_burrough/status/1133452727525171200)
+- [You never win in product by doing more, you win in product by doing more with less.](https://twitter.com/BrianNorgard/status/1442143121286914057)
+- [Every product org should have at least one senior+ engineer who isn’t beholden to a roadmap and who just goes around making little quality of life improvements everywhere.](https://twitter.com/aweary/status/1517493894543552513)
+
+## Links
+
+- [15 Things You Should Know About Product Managers (2019)](https://medium.com/@johnpcutler/15-things-you-should-know-about-product-managers-f488513d246)
+- [HN: Product-building articles by PMs at major tech companies (2019)](https://news.ycombinator.com/item?id=19047384)
+- [Roadmap](https://www.roadmap.com/) - Community of Product Managers.
+- [What seven years at Airbnb taught me about building a company (2019)](https://medium.com/@lennysan/what-seven-years-at-airbnb-taught-me-about-building-a-company-e1d035d49c56)
+- [Why “Standups” are Useless and How to Run Great Product Team Meetings (2019)](https://medium.com/unusual-ventures/why-standups-are-useless-and-how-to-run-great-product-team-meetings-278f000ea64f)
+- [Product Therapy](https://www.youtube.com/channel/UCpT8mlqE8ylJWAU4IwhlSLQ/videos)
+- [Becoming a Product designer: requirements](https://paper.dropbox.com/published/Becoming-a-Product-designer-requirements--A0PVM2RsR_29DRQYM6HzbbB5Bg-T2TC8MP45MlCG7sqrPhofQw)
+- [Fawkes](https://github.com/intuit/fawkes) - Fetch, parse, categorize, summarize user reviews.
+- [Why you should build features users don't ask for (2020)](https://pitch.com/blog/why-you-should-develop-features-people-dont-ask-for)
+- [The Product Frameworks Behind Superhuman (2020)](https://www.nfx.com/post/superhuman-product-frameworks/)
+- [How Tailwind team prioritizes working on issues (2020)](https://public.3.basecamp.com/p/toAcDMxu8Fvq2yMfd2azTuaV)
+- [Product Work Beyond Product-Market Fit (2020)](https://www.reforge.com/blog/product-work-beyond-product-market-fit)
+- [High Agency explained (2020)](https://twitter.com/shreyas/status/1276956836856393728)
+- [Products Are Functions (2018)](http://www.feltpresence.com/functions.html)
+- [LightCat](https://www.lightcat.io/) - Product Management Tool for Data Driven Product Managers.
+- [50 Short Product Lessons (2020)](https://cutle.fish/blog/50-product-lessons)
+- [Product Channel Fit Will Make or Break Your Growth Strategy (2017)](https://brianbalfour.com/essays/product-channel-fit-for-growth)
+- [Jumping into Product Management (2019)](https://www.martzoukos.com/posts/jumping-into-product-management)
+- ["Product surface area" problem explained (2020)](https://twitter.com/amontalenti/status/1281940587843813376)
+- [Overcoming impostor syndrome, introducing growth to an org, and how to partner with your Data Scientist (2019)](https://www.lennyrachitsky.com/p/this-week-overcoming-impostor-syndrome)
+- [Best active technology product managers (2020)](https://twitter.com/patrick_oshag/status/1294319157148889089)
+- [Five things I believe now about product work (2020)](https://twitter.com/shreyas/status/1296306987886505985)
+- [Awesome Product Management](https://github.com/dend/awesome-product-management)
+- [15 principles for product work (2020)](https://twitter.com/shreyas/status/1313539331563298817)
+- [Resources for Learning Product Management (2020)](https://informedpm.com/posts/product-manager-resources)
+- [Cloudflare Product Management Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-product-management-assignment)
+- [Personal knowledge management for product managers](https://twitter.com/osamakhn/status/1317968591279411200)
+- [ProdPad](https://www.prodpad.com/) - Product Management Software.
+- [Zest](https://hellozest.io/) - Give your users an easy way to leave instant visual feedback.
+- [Secrets of the best product teams (2020)](https://st.im/secrets-of-the-best-product-teams/)
+- [Products should be “slick”, not just viable (2020)](https://herman.bearblog.dev/mvp-vs-slc/)
+- [Productboard](https://www.productboard.com/) - Customer-driven product management tool. ([API](https://developer.productboard.com/))
+- [Understand users, have a strategy, take the time to build an amazing & delightful product VS Just build, ship quick & often, experiment, assess user reactions, learn, repeat (2020)](https://twitter.com/shreyas/status/1337852929101815808)
+- [Giving design or product feedback advice (2020)](https://twitter.com/joulee/status/1338575853609861121)
+- [The Beautiful Mess 2020](https://johnpcutler.github.io/tbm2020/) - Weekly posts on product management.
+- [The Product Manager’s Guide to the Strategy (2020)](https://nfng.pro/2020/05/08/strategy/)
+- [Product Notion](https://productnotion.co/) - Product Management Templates library in Notion.
+- [Escaping the Roadmap Trap (2021)](https://productcrunch.substack.com/p/escaping-the-roadmap-trap)
+- [Decisions, Decisions or Why Baskets of Options Dominate (2019)](https://medium.com/@kentbeck_7670/decisions-decisions-or-why-baskets-of-options-dominate-9ac63658b593)
+- [Miro's Product Alignment Approach (2021)](https://farbod.substack.com/p/miros-product-alignment-approach)
+- [My product is my garden](https://herman.bearblog.dev/my-product-is-my-garden/) ([HN](https://news.ycombinator.com/item?id=26012189))
+- [How to Break into Product Management (2019)](https://blog.awaxman.com/how-to-break-into-product-management)
+- [Source of a lot of bad product decisions](https://twitter.com/danhockenmaier/status/1363203012815020032)
+- [Product Manager's Guide](https://gumroad.com/l/WGHXJ/sp33u1d)
+- [The Tools Don't Matter (2021)](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter) - Why are product managers so obsessed with tools? ([Tweet](https://twitter.com/jasoncwarner/status/1366431102408122369))
+- [Product Lessons](https://www.productlessons.xyz/) - Actionable lessons to accelerate your career.
+- [1-Pager Product requirements document](https://docs.google.com/document/d/1541V32QgSwyCFWxtiMIThn-6n-2s7fVWztEWVa970uo/edit#)
+- [What is the best way to write a PRD?](https://www.vindhyac.com/posts/best-prd-templates-from-companies-we-adore/)
+- [Building Products at Airbnb (2021)](https://newsletter.bringthedonuts.com/p/building-products-at-airbnb)
+- [Linear Method - Practices for Building](https://linear.app/method)
+- [A letter to our future Lead Product Manager, Growth](https://www.notion.so/A-letter-to-our-future-Lead-Product-Manager-Growth-94937a4a80c94a87a7ccb9ce648935c8)
+- [Why your organization needs product principles](https://slack.design/articles/why-your-organization-needs-product-principles/)
+- [Ask HN: Good resources to become a better Product Manager? (2021)](https://news.ycombinator.com/item?id=26856691)
+- [Lenny's Job Board](https://pallet.xyz/list/lennys-jobs) - Job board, specializing in product-building roles. ([Tweet](https://twitter.com/lennysan/status/1384530146330222599))
+- [What are the most remarkable “small wins” that you’ve seen products ship? (2021)](https://twitter.com/rauchg/status/1380641625995546626)
+- [A Product Engineer’s Guide to Platform Engineers (2019)](https://rinaarts.medium.com/stupid-baboons-stubborn-elephants-c33412541bb1) ([HN](https://news.ycombinator.com/item?id=26935504))
+- [Product vs. Project Teams (2021)](https://svpg.com/product-vs-project-teams/) ([Tweet](https://twitter.com/cagan/status/1387119286989197314))
+- [Competitive Analysis For Product Engineers (2021)](https://staysaasy.com/product/2021/05/02/competition.html)
+- [14 habits of highly effective Product Managers (2021)](https://twitter.com/lennysan/status/1389611792741986305)
+- [Ask HN: How do you generally build a product? (2021)](https://news.ycombinator.com/item?id=27057978)
+- [Keylitic](https://www.keylitic.com/) - Discover product trends in your industry.
+- [Compass](https://www.usecompass.app/) - Complete toolkit for product managers using Linear.
+- [Building Products at Stripe (2021)](https://newsletter.bringthedonuts.com/p/building-products-at-stripe) ([HN](https://news.ycombinator.com/item?id=27194976))
+- [What to product managers do (2021)](https://twitter.com/gbrl_dick/status/1394824941640437760)
+- [What I think makes a good product manager (2021)](https://twitter.com/anothercohen/status/1394829612408926213)
+- [The Product Folks](https://www.theproductfolks.com/) - Community of Product Managers and enthusiasts.
+- [Rituals for hypergrowth: An inside look at how YouTube scaled](https://coda.io/@shishir/rituals-for-hypergrowth-an-inside-look-at-how-youtube-scaled)
+- [Planning & estimating large-scale software projects (2021)](https://tomrussell.co.uk/writing/2021/07/19/estimating-large-scale-software-projects.html) ([Lobsters](https://lobste.rs/s/howzf7/planning_estimating_large_scale))
+- [Prioritizing everything is prioritizing nothing (2021)](https://blog.drgriffin.com.au/posts/2021-07-12-prioritizing-everything-is-prioritizing-nothing.html) ([HN](https://news.ycombinator.com/item?id=27942321))
+- [What’s something that product managers do that annoys or frustrates you?](https://twitter.com/lennysan/status/1420773875705544715)
+- [What I've learned transitioning from a founder to product manager](https://www.theproductslice.com/p/what-ive-learned-transitioning-from) ([HN](https://news.ycombinator.com/item?id=28220027))
+- [We Ship Every Week (2021)](https://pitch.com/blog/every-week) ([HN](https://news.ycombinator.com/item?id=28233743))
+- [Key principles to guide the new product development process (2021)](https://twitter.com/fibery_io/status/1441375124909961219)
+- [Product Design Basics – A toolkit of concepts and frameworks](https://modelthinkers.com/playbook/product-design-basics)
+- [What Type of Job is This: My First Year as Chief Product Officer (2021)](https://caseyaccidental.com/chief-product-officer-first-year)
+- [Simple Product Management Tricks (2021)](https://jacobian.org/2021/oct/20/simple-pm-tricks/) ([HN](https://news.ycombinator.com/item?id=29068652))
+- [A product management reading list (2021)](https://mikehudack.substack.com/p/a-product-management-reading-list)
+- [Product Manager Software Stack (2022)](https://twitter.com/lennysan/status/1501978181695246346)
+- [The hardest thing about engineering is requirements (2022)](https://jaybs.medium.com/the-hardest-thing-about-engineering-is-requirements-28a6a70c4db4) ([HN](https://news.ycombinator.com/item?id=30631571))
+- [Strategy is not X (2022)](https://www.umr.io/blog/strategy-is-not-x) ([HN](https://news.ycombinator.com/item?id=30719787))
+- [PM interview resources (2022)](https://twitter.com/lennysan/status/1513623140269580292)
+- [Buzzfeed Product Design Documentation](https://github.com/buzzfeed/design)
+- [Questions to ask for creating 'user stories'](https://twitter.com/lauraklein/status/1520908876790468609)
+- [10 metrics every PM should know like the back of their hand](https://twitter.com/aakashg0/status/1528165714196152320)
+- [Stripe's model of product-led, developer-centric growth (2022)](https://lethain.com/stripe-product-led-developer-centric-growth/)

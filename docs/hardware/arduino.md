@@ -1,0 +1,50 @@
+# Arduino
+
+## Links
+
+- [Arduino command line interface in Go](https://github.com/arduino/arduino-cli)
+- [Dark Arduino Theme](https://github.com/jeffThompson/DarkArduinoTheme)
+- [Arduino](https://github.com/arduino/Arduino) - Open-source physical computing platform based on a simple I/O board and a development environment that implements the Processing/Wiring language.
+- [Servo Library for Arduino](https://github.com/arduino-libraries/Servo)
+- [Arduino Reference](https://www.arduino.cc/reference/en/) ([Code](https://github.com/arduino/reference-en))
+- [Arduino core for the ESP32](https://github.com/espressif/arduino-esp32)
+- [Arduino FIDO2 Authenticator](https://en.ovcharov.me/2020/06/29/uru-card-arduino-fido2-authenticator/) ([HN](https://news.ycombinator.com/item?id=23676006))
+- [Commanduino Library](https://github.com/croningp/commanduino) - Tools to control Arduino boards seamlessly from Python.
+- [Arduino emulator](https://github.com/ghewgill/emulino)
+- [Arduino MIDI Library](https://github.com/FortySevenEffects/arduino_midi_library) - Adds MIDI I/O communications to an Arduino board.
+- [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE) - ArduinoBLE library for Arduino.
+- [Arduino video tutorials](https://arduino-tutorials.net/) ([Code](https://github.com/BasOnTech/Arduino-Beginners-EN))
+- [8x8x8 LED cube powered by an arduino](https://github.com/itsharryle/LED_CUBE)
+- [Arduino Pro IDE](https://github.com/arduino/arduino-pro-ide) - Arduino IDE for advanced users and developers.
+- [ATtiny Core](https://github.com/SpenceKonde/ATTinyCore) - Arduino core for ATtiny 1634, 828, x313, x4, x41, x5, x61, x7 and x8.
+- [Wasmino = WASM and Arduino – Running Arduino Code in Browser (2020)](https://blog.yifangu.com/2020/12/30/wasmino-wasm-arduino-running-arduino-code-in-browser/) ([HN](https://news.ycombinator.com/item?id=25581081))
+- [Sinter](https://github.com/source-academy/sinter) - Implementation of the Source Virtual Machine Language intended for microcontroller platforms like an Arduino.
+- [Mozzi](https://sensorium.github.io/Mozzi/) - Sound synthesis library for Arduino.
+- [Arduino Language Server](https://github.com/arduino/arduino-language-server)
+- [Arduino Tools extension for VS Code](https://github.com/arduino/vscode-arduino-tools)
+- [What is like Arduino but more powerful? (2021)](https://www.reddit.com/r/embedded/comments/ly1pkl/what_is_like_arduino_but_more_powerful/)
+- [Why I don’t ‘do’ Arduino (2021)](http://www.mattmillman.com/why-i-dont-do-arduino/) ([Lobsters](https://lobste.rs/s/x0jdod/why_i_don_t_do_arduino))
+- [ArduinoFake](https://github.com/FabioBatSilva/ArduinoFake) - Arduino mocking made easy.
+- [WebSockets_Generic](https://github.com/khoih-prog/WebSockets_Generic) - WebSocket Server and Client for Arduino.
+- [Arduino IDE 2.0 beta (2021)](https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/) ([HN](https://news.ycombinator.com/item?id=27123410))
+- [JeeLib](https://github.com/jeelabs/jeelib) - Arduino IDE: Ports, RF12, and RF69 drivers from JeeLabs.
+- [Monitoring my home's air quality (CO2, PM2.5, Temp/Humidity) with AirGradient's DIY sensor (2021)](https://www.jeffgeerling.com/blog/2021/airgradient-diy-air-quality-monitor-co2-pm25)
+- [ArduinoCore-API](https://github.com/arduino/ArduinoCore-API) - Hardware independent layer of the Arduino cores.
+- [SoftWire](https://github.com/stevemarple/SoftWire) - Software I2C implementation for Arduino and other Wiring-type environments.
+- [Arduino core for ESP8266 WiFi chip](https://github.com/esp8266/Arduino)
+- [TinyGSM](https://github.com/vshymanskyy/TinyGSM) - Small Arduino library for GSM modules, that just works.
+- [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - JSON library for Arduino and embedded C++. Simple and efficient.
+- [ESP8266 Deauther Version 2](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning.
+- [Wokwi](https://wokwi.com/) - Online Arduino and ESP32 Simulator.
+- [Fetch for Arduino](https://github.com/instanceofMA/arduino-fetch) - High level HTTP Request Library that gives you a JavaScript fetch like API.
+- [Arduino 6502 Controller](https://github.com/billziss-gh/arduino-6502ctl)
+- [Seeeduino XIAO - Arduino Microcontroller - SAMD21 Cortex M0+](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html) ([corne-xiao](https://github.com/lehmanju/corne-xiao))
+- [Surfboard](https://sfbd.is/) - CodeSandbox for Arduino.
+- [Arduino Library Manager list](https://github.com/arduino/library-registry)
+- [Arduino Cryptography Library](https://github.com/rweather/arduinolibs)
+- [Sbus](https://github.com/bolderflight/sbus) - Arduino and CMake library for communicating with SBUS receivers and servos.
+- [AVR Arduino Zig](https://github.com/FireFox317/avr-arduino-zig)
+- [TaskManagerIO](https://github.com/davetcc/TaskManagerIO) - Task, event, scheduling, and interrupt marshalling library for Arduino and mbed boards.
+- [Running Julia bare-metal on an Arduino](https://seelengrab.github.io/articles/Running%20Julia%20baremetal%20on%20an%20Arduino/) ([HN](https://news.ycombinator.com/item?id=31481895))
+- [STM32LowPower](https://github.com/stm32duino/STM32LowPower) - Arduino Low Power library for STM32.
+- [Arduino IDE 2.x](https://github.com/arduino/arduino-ide)

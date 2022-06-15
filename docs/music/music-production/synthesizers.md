@@ -1,0 +1,92 @@
+---
+title: Synthesizers
+---
+
+# [Synthesizers](https://en.wikipedia.org/wiki/Synthesizer)
+
+## Interesting
+
+- [Behringer RD-9 Rhythm Designer](https://www.behringer.com/product.html)
+
+## Links
+
+- [Modular Mayhem - From Zero To Techno](https://www.youtube.com/watch?v=nGaVBCnkKng)
+- [Make Noise 0-COAST Semi-Modular Synth Demo](https://www.youtube.com/watch?v=5FW8QYt6bio)
+- [Subharmonicon](https://www.moogmusic.com/products/subharmonicon) - Semi-modular polyrhythmic analog synthesizer that employs a 6-tone sound engine and multi-layered clock generator. ([Introduction](https://www.youtube.com/watch?v=VaxSc8XJb9A))
+- [Moog Synthesizers](https://www.moogmusic.com/) - Hand-crafted analog synthesizers.
+- [Matrixsynth](https://www.matrixsynth.com/) - Everything synth.
+- [OTTO](https://github.com/OTTO-project/OTTO) - Sampler, Sequencer, Multi-engine synth and effects - in a box. ([Docs](https://otto-project.github.io/docs/))
+- [Organelle](https://www.critterandguitari.com/organelle) - Makes it easy to explore new sounds and experiment with new ways of making music.
+- [Reverse engineering the OP-1 drum patch (2020)](https://schollz.com/blog/op1/) ([HN](https://news.ycombinator.com/item?id=23211467))
+- [Love Hulten](https://www.lovehulten.com/) - Designs tiny synthesizers.
+- [PLANTYFLUTESIZER being explored by Pico and Verdi](https://twitter.com/_bichopalo_/status/1248919043161182209)
+- [M8](https://dirtywave.com/) - Portable synthesizer and sequencer. ([Demo](https://www.youtube.com/watch?v=DCFJ-3QfqZA))
+- [Helm](https://tytel.org/helm/) - Free polyphonic synth with lots of modulation. ([Code](https://github.com/mtytel/helm))
+- [DIY SYNTH VCO: How to build an analog oscillator core from scratch (2020)](https://www.youtube.com/watch?v=QBatvo8bCa4)
+- [Patchcab](https://github.com/spectrome/patchcab) - Modular Eurorack style synthesizer made with Web Audio. ([Web](https://patch.cab/))
+- [Synth Kitchen](https://synth.kitchen/) - In-browser modular synthesis with Web Audio and Web MIDI. ([Code](https://github.com/spencerudnick/synth.kitchen))
+- [WASM Synth](https://timdaub.github.io/wasm-synth/) - Synthesizer built from scratch in C++ and made available on the web through WebAssembly.
+- [NTS-1](https://www.korg.com/us/products/dj/nts_1/) - Programmable Synthesizer Kit. ([HN](https://news.ycombinator.com/item?id=25950502))
+- [Web Synth and Digial Audio Workstation](https://notes.ameo.design/) ([Code](https://github.com/Ameobea/web-synth))
+- [How to synthesise electronic noise into musical sound](https://twitter.com/BBCArchive/status/1358788928505933824)
+- [SwiftSynth](https://github.com/GrantJEmerson/SwiftSynth) - Synthesizer written entirely in Swift with Apple's new AVAudioSourceNode. ([Article](https://medium.com/better-programming/building-a-synthesizer-in-swift-866cd15b731))
+- [alles](https://github.com/bwhitman/alles) - Many-speaker distributed mesh synthesizer that responds to control signals over WiFi.
+- [Making A Synthesizer Using Python](https://www.reddit.com/r/Python/comments/lw50ne/making_a_synthesizer_using_python/)
+- [Synth Playground](https://learningsynths.ableton.com/en/playground)
+- [Synth Modes](https://synthmodes.com/) - Mobile-friendly cheat sheets for synthesizer modules. ([Code](https://github.com/boourns/synthmodes))
+- [Fragment Audio Server](https://github.com/grz0zrg/fas) - C Pixels-based graphical audio synthesizer implemented as a WebSocket server.
+- [WASM SYNTH, or, how music taught me the beauty of math (2020)](https://timdaub.github.io/2020/02/19/wasm-synth/#f1) ([HN](https://news.ycombinator.com/item?id=27276400))
+- [Ask HN: Introduction to Analog Synthesizers](https://news.ycombinator.com/item?id=27822489)
+- [Bespoke Synth](https://www.bespokesynth.com/) - Open-source software modular synthesizer. ([HN](https://news.ycombinator.com/item?id=28529672))
+- [Canvas](https://github.com/nhthn/canvas) - Visual additive synthesizer that is controlled by editing an image.
+- [MiniSynth Pi](https://github.com/rsta2/minisynth) - Virtual analog synthesizer for Raspberry Pi.
+- [Mt32-pi](https://github.com/dwhinham/mt32-pi) - Bare metal Roland MT-32 emulator. ([HN](https://news.ycombinator.com/item?id=28727084))
+- [Scout](https://github.com/oskitone/scout) - 3D-printed, Arduino-compatible, 17-key mono synth. ([Web](https://www.oskitone.com/product/scout-synth))
+- [Oskitone](https://www.oskitone.com/) - DIY Synthesizers. ([GitHub](https://github.com/oskitone))
+- [The Signal State](https://signalstate.io/) - Game about making modular synths. ([Tweet](https://twitter.com/notch/status/1449855636842311680))
+- [I built an analog synthesizer from scratch. Here is how I did it. (2021)](https://www.youtube.com/watch?v=PATlf0W3m7k)
+- [OctaSine](https://github.com/greatest-ape/OctaSine) - VST2 frequency modulation synthesizer written in Rust.
+- [Reverse-engineering the Yamaha DX7 synthesizer's sound chip from die photos (2021)](https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html) ([Tweet](https://twitter.com/kenshirriff/status/1459572903213613056)) ([HN](https://news.ycombinator.com/item?id=29211401))
+- [The Yamaha DX7 synthesizer's clever exponential circuit, reverse-engineered (2021)](https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7_28.html) ([HN](https://news.ycombinator.com/item?id=29370875))
+- [What Makes It Sound ’80s? Yamaha DX7 Electric Piano Sound](https://meganlavengood.com/wp-content/uploads/2019/09/Lavengood-2019-%E2%80%9CWhat-Makes-It-Sound-%E2%80%9980s%E2%80%9D-The-Yamaha-DX7-Electr.pdf) ([Tweet](https://twitter.com/kenshirriff/status/1459579767410216963))
+- [libfmsynth](https://github.com/Themaister/libfmsynth) - C library which implements an FM synthesizer.
+- [TinySoundFont](https://github.com/schellingb/TinySoundFont) - SoundFont2 synthesizer library in a single C/C++ file.
+- [Kiro Synth](https://github.com/chris-zen/kiro-synth) - Modular sound synthesizer written in Rust.
+- [The Father of the Digital Synthesizer](https://priceonomics.com/the-father-of-the-digital-synthesizer/)
+- [Yamaha DX7 chip reverse-engineering, part 4: how algorithms are implemented (2021)](http://www.righto.com/2021/12/yamaha-dx7-chip-reverse-engineering.html) ([HN](https://news.ycombinator.com/item?id=29515087))
+- [teoperator](https://github.com/schollz/teoperator) - Make OP-1 and OP-Z drum and synth patches from any sound. ([Web](https://teoperator.com/))
+- [tune](https://github.com/Woyten/tune) - Make xenharmonic music and create synthesizer tuning files for microtonal scales.
+- [OxiSynth](https://github.com/PolyMeilex/OxiSynth) - Pure rust soundfont synthesizer.
+- [FluidSynth](https://github.com/FluidSynth/fluidsynth) - Cross-platform, real-time software synthesizer based on the Soundfont 2 specification.
+- [Shaden](https://github.com/brettbuddin/shaden) - Modular audio synthesizer.
+- [Implicit neural differentiable FM synthesizer](https://github.com/andreasjansson/fmsynth)
+- [Fragment](https://www.fsynth.com/) - Real-time audiovisual live coding environment. ([Code](https://github.com/grz0zrg/fsynth))
+- [List of open-source synths](https://github.com/Atarity/diy-synths)
+- [Digital Audio Synthesizer in Rust (2022)](https://0xc45.com/blog/digital-audio-synthesizer-in-rust/)
+- [discoDSP OB-Xd](https://github.com/reales/OB-Xd) - Virtual Analog Oberheim AAX / AU / VST / VST3 based synthesizer.
+- [Xephys](https://github.com/suhr/xephys) - Microtonal digital waveguide synthesier.
+- [Vital](https://github.com/mtytel/vital) - Spectral warping wavetable synthesizer.
+- [Pilot](https://github.com/hundredrabbits/Pilot) - UDP synthesizer designed to be controlled externally. Created as a companion application to the livecoding environment ORCA.
+- [Ensembles](https://github.com/SubhadeepJasu/Ensembles) - Digital arranger workstation powered by FluidSynth.
+- [Roland 50 Studio](https://roland50.studio/) ([HN](https://news.ycombinator.com/item?id=30638634))
+- [Typebeat](https://typebeat.kofi.sexy/) - Keyboard-controlled music sequencer, sampler, and synth. ([Code](https://github.com/kofigumbs/typebeat))
+- [Sonicware Liven 8bit Warps](https://sonicware.jp/products/liven-8bit-warps)
+- [Kiro Studio](https://github.com/chris-zen/kiro-studio) - Learning on how to build real-time audio software for music production using the Rust programming language.
+- [Stargate DAW](https://github.com/stargateaudio/stargate) - Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor.
+- [Diffsynth - a Differentiable Musical Synthesizer in PyTorch](https://github.com/hyakuchiki/diffsynth)
+- [MiniDexed](https://github.com/probonopd/MiniDexed) - Dexed FM synthesizer similar to DX7 running on bare metal Raspberry Pi. ([HN](https://news.ycombinator.com/item?id=31062237))
+- [DIY Modular Synth (2021)](https://loophole-letters.vercel.app/diy-modular-synth)
+- [TX–6 - teenage engineering](https://teenage.engineering/products/tx-6) ([Reddit](https://www.reddit.com/r/synthesizers/comments/u8noc6/new_teenage_engineering_mixer_is_smaller_than/))
+- [Syntakt](https://www.elektron.se/products/syntakt/) - 12 Track Drum Computer and Synthesizer.
+- [Mini-Synth](https://github.com/alelouis/mini-synth) - Mini-synthesizer with modular philosophy built from scratch in Python.
+- [What's an "unpopular opinion" you have about a synth, synth manufacturer, or just the world of synths overall? (2022)](https://www.reddit.com/r/synthesizers/comments/umkmvb/whats_an_unpopular_opinion_you_have_about_a_synth/)
+- [Synthesizers Reddit Wiki](https://www.reddit.com/r/synthesizers/wiki/index)
+- [OP-1 field](https://news.ycombinator.com/item?id=31350896)
+- [Mika Micro](https://github.com/tesselode/mika-micro) - Small, expressive subtractive synthesizer.
+- [eurorack-blocks](https://github.com/ohmtech-rdi/eurorack-blocks) - Software to Hardware Prototyping for Eurorack using C++, Max/Gen~ or Faust.
+- [VoiceOfFaust](https://github.com/magnetophon/VoiceOfFaust) - Turns any monophonic sound into a synthesizer, preserving the pitch and spectral dynamics of the input.
+- [Polyend](https://polyend.com/) - Enjoyable musical instruments. ([Twitter](https://twitter.com/madeinpolyend)) ([Beta Testing](https://github.com/polyend/TrackerBetaTesting))
+- [NESizer2](https://github.com/Jaffe-/NESizer2) - Synthesizer based on the 2A03 (NES APU).
+- [Plugin Boutique](https://www.pluginboutique.com/) - VST Plugins, Synth Presets, Effects, Virtual Instruments, Music.
+- [JSSynth](https://iamschulz.github.io/js-synth/) - Synthesizer PWA written in JS. ([Code](https://github.com/iamschulz/js-synth))
+- [Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin.

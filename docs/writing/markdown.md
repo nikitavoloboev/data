@@ -1,0 +1,136 @@
+# Markdown
+
+[goldmark](https://github.com/yuin/goldmark) is a nice markdown parser in Go.
+
+## Notes
+
+- You can use relative paths in markdown links.
+- Don't add extra space after heading as it is unnecessary.
+- In referencing titles to jump to in readme, lowercase them. **i.e. `[Contributing](#contributing)`**. Lose the punctuation in the end in the link.
+- Can use `<details>` & `<summary>` to make readmes more readable & hiding info behind a clickable dropdown. ([Example](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)) ([Example 2](https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f))
+
+## Links
+
+- [micromark](https://github.com/micromark/micromark) - New, tiny, and fast, markdown parser written in TypeScript.
+- [Mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown IDE.
+- [markdown-wasm](https://github.com/rsms/markdown-wasm) - Markdown parser and HTML generator implemented in WebAssembly.
+- [TakeNote](https://github.com/taniarascia/takenote) - Web-based note-taking app with GitHub sync and Markdown support.
+- [mdtoc](https://github.com/tallclair/mdtoc) - Markdown table-of-contents generator.
+- [HTMDX](https://github.com/michael-klein/htmdx) - Lightweight runtime for mdx-like markdown.
+- [textlint](https://github.com/textlint/textlint) - Pluggable natural language linter for text and markdown. ([Web](https://textlint.github.io/))
+- [markdown-print-tools](https://github.com/Clikengo/markdown-print-tools) - Tools to nicely print markdown document (vscode extension, markdown it extension, pdf generation).
+- [markdown-table](https://github.com/wooorm/markdown-table) - Markdown tables, with alignment.
+- [gdocs2md](https://github.com/mangini/gdocs2md) - Simple Google Apps script to convert a properly formatted Google Drive Document to markdown.
+- [MarkdownAttributedString](https://github.com/chockenberry/MarkdownAttributedString) - Adding Markdown support to NSAttributedString.
+- [From Markdown to Video](https://www.videopuppet.com/docs/script/) ([HN](https://news.ycombinator.com/item?id=22718854))
+- [6 Things Markdown Got Wrong (2020)](https://www.swyx.io/writing/markdown-mistakes/) ([HN](https://news.ycombinator.com/item?id=22776108))
+- [markmap-lib](https://markmap.js.org/) - Convert Markdown to a Mind Map. ([HN](https://news.ycombinator.com/item?id=22831015)) ([Code](https://github.com/gera2ld/markmap-lib))
+- [h2m](http://tinyambition.com/h2m/) - Tool for converting HTML to Markdown, like html2markdown. ([Code](https://github.com/island205/h2m))
+- [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - Convert HTML to Markdown. Even works with whole websites.
+- [Typesetting Markdown (2020)](https://dave.autonoma.ca/blog/2019/05/22/typesetting-markdown-part-1/)
+- [Marked](https://github.com/markedjs/marked) - Markdown parser and compiler. Built for speed.
+- [react-remark](https://github.com/ChristianMurphy/react-remark) - React component and hook to use remark to render markdown.
+- [note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes.
+- [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files, sync external docs/src code & make better docs.
+- [Markdown Links](https://github.com/tchayen/markdown-links) - Command that displays a graph of local links between markdown files.
+- [Customizing pandoc to generate beautiful pdf and epub from markdown (2019)](https://learnbyexample.github.io/tutorial/ebook-generation/customizing-pandoc/)
+- [Customizing pandoc to generate pdf and epub from GitHub style markdown (2020)](https://learnbyexample.github.io/customizing-pandoc/) ([Lobsters](https://lobste.rs/s/zgsdgg/customizing_pandoc_generate_pdf_epub))
+- [Python Markdown Generator](https://github.com/Nicceboy/python-markdown-generator) - Python library for generating HTML sanitised Markdown documents.
+- [Glow](https://github.com/charmbracelet/glow) - Markdown reader for the terminal with a TUI and encrypted cloud stash. ([HN](https://news.ycombinator.com/item?id=24810312))
+- [ByteMD](https://github.com/bytedance/bytemd) - Hackable Markdown editor component built with Svelte. ([Web](https://bytedance.github.io/bytemd/))
+- [koino](https://github.com/kivikakk/koino) - CommonMark + GFM compatible Markdown parser and renderer.
+- [The Story Behind Markdown (2020)](https://capiche.com/e/markdown-history) - How plain text got formatting, styled like classic emails. ([HN](https://news.ycombinator.com/item?id=24860615))
+- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser done right. Fast and easy to extend.
+- [lezer-markdown](https://github.com/lezer-parser/markdown) - Incremental Markdown (CommonMark, in fact) parser that integrates well with the Lezer parser system.
+- [Madoko](https://github.com/koka-lang/madoko) - Fast Scholarly Markdown Processor.
+- [Paste Markdown objects](https://github.com/github/paste-markdown) - Paste spreadsheet cells as a Markdown table.
+- [bibtex-markdown](https://github.com/kyledewey/bibtex-markdown) - Hack to integrate BibTeX into markdown in a way that is independent of the markdown parser.
+- [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc.go) - Easy TOC creation for GitHub README.md.
+- [godown](https://github.com/mattn/godown) - Convert HTML into Markdown.
+- [marks](https://github.com/isamert/marks) - Simple and fast search-engine like tool for org/markdown files.
+- [kramdown](https://github.com/gettalong/kramdown) - Fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.
+- [Openleaf](https://github.com/werner-duvaud/openleaf-markdown-pdf) - Markdown editor for generating PDF.
+- [cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C.
+- [CommonMark](https://commonmark.org/) - Strongly defined, highly compatible specification of Markdown.
+- [lmt](https://github.com/driusan/lmt) - Literate markdown tangle.
+- [Markdown to Google Doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive.
+- [remark-vdom](https://github.com/remarkjs/remark-vdom) - Plugin to compile Markdown to Virtual DOM.
+- [Remark](https://remark.js.org/) - Markdown processor powered by plugins. ([GitHub](https://github.com/remarkjs)) ([Code](https://github.com/remarkjs/remark))
+- [Awesome Remark](https://github.com/remarkjs/awesome-remark)
+- [markdownlint](https://github.com/DavidAnson/markdownlint) - Node.js style checker and lint tool for Markdown/CommonMark files.
+- [CommonMark](https://github.com/MichaelHatherly/CommonMark.jl) - CommonMark-compliant parser for Julia.
+- [Blackfriday](https://github.com/russross/blackfriday) - Markdown processor implemented in Go.
+- [StrictMark: Markdown Refactored](http://doc.replicated.cc/^Wiki/strictmark.sm)
+- [MD4C](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
+- [mdast](https://github.com/syntax-tree/mdast) - Markdown Abstract Syntax Tree format.
+- [remark-rehype](https://github.com/remarkjs/remark-rehype) - Plugin to transform from Markdown (remark) to HTML (rehype).
+- [MUME](https://github.com/shd101wyy/mume) - Powerful markdown tool.
+- [Concordant Markdown Editor](https://github.com/concordant/c-markdown-editor) - CRDT based collaborative markdown editor. ([Web](https://concordant.io/))
+- [Yarner](https://github.com/mlange-42/yarner) - Language-independent Literate Programming tool for Markdown. ([Docs](https://mlange-42.github.io/yarner/))
+- [prosemd](https://github.com/kitten/prosemd-lsp) - Experimental proofreading and linting language server for markdown files.
+- [Zeta Note](https://github.com/artempyanykh/zeta-note) - Markdown LSP server for easy note-taking with cross-references and diagnostics.
+- [Python-Markdown](https://github.com/Python-Markdown/markdown) - Python implementation of markdown.
+- [Markdown Lint](https://github.com/markdownlint/markdownlint) - Tool to check markdown files and flag style issues.
+- [StackEdit](https://stackedit.io/) - In-browser Markdown editor. ([Code](https://github.com/benweet/stackedit))
+- [HackMD](https://hackmd.io/) - Collaborative Markdown Knowledge Base.
+- [CodiMD](https://github.com/hackmdio/codimd) - Real time collaborative markdown notes on all platforms.
+- [GitHub Action - Markdown link check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
+- [How to build a Markdown editor using Electron, ReactJS, Vite, CodeMirror, and Remark (2021)](https://www.youtube.com/watch?v=gxBis8EgoAg)
+- [Inkdrop](https://www.inkdrop.app/) - Note-taking App with Robust Markdown Editor.
+- [PDF to Markdown converter](https://pdf2md.morethan.io/) ([Code](https://github.com/jzillmann/pdf-to-markdown))
+- [simple-markdown](https://github.com/Khan/simple-markdown) - JavaScript markdown parsing, made simple.
+- [Improving The Accessibility Of Your Markdown (2021)](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/)
+- [Markmap](https://github.com/dundalek/markmap) - JavaScript component that will visualize your markdown documents as mindmaps.
+- [Swift Markdown](https://github.com/apple/swift-markdown) - Swift package for parsing, building, editing, and analyzing Markdown documents. ([Tweet](https://twitter.com/ChristianSelig/status/1455222872125935619))
+- [SwiftMarkdownBuilder](https://github.com/DoccZz/SwiftMarkdownBuilder) - resultBuilder support for swift-markdown.
+- [UXMD](https://github.com/lobau/uxmd) - Collaborative markdown for designing state flows.
+- [deno-gfm](https://github.com/lucacasonato/deno-gfm) - Server-side GitHub Flavored Markdown rendering for Deno.
+- [md-toc](https://github.com/zeusdeux/md-toc) - Generate a GitHub compatible table of contents from headings in a markdown file.
+- [markdown-link-check](https://github.com/tcort/markdown-link-check) - Checks that all of the hyperlinks in a markdown text to determine if they are alive or dead.
+- [Markdown Transform](https://github.com/accordproject/markdown-transform) - Library for Markdown Transformations and Markdown Templates.
+- [markdown-it-texmath](https://github.com/goessner/markdown-it-texmath) - Support TeX math equations with your Markdown documents.
+- [Markdownosaur](https://github.com/christianselig/Markdownosaur) - Leverages Apple's Swift-based Markdown parser to output NSAttributedString.
+- [Mmark](https://github.com/mmarkdown/mmark) - Powerful markdown processor written in Go, geared towards writing IETF documents.
+- [RunMD](https://github.com/broofa/runmd) - Executable markdown files.
+- [Prose](https://github.com/HGHimself/prose) - Turning your markdown into lovely HTML.
+- [markdown-clj](https://github.com/yogthos/markdown-clj) - Markdown parser in Clojure. ([Making markdown-clj babashka-compatible](https://blog.michielborkent.nl/markdown-clj-babashka-compatible.html))
+- [MDBook Link-Check](https://github.com/Michael-F-Bryan/mdbook-linkcheck) - Backend for mdbook which will check your links for you.
+- [MDBook EPUB Backend](https://github.com/Michael-F-Bryan/mdbook-epub)
+- [Noteworthy](https://github.com/SeaDve/Noteworthy) - Modern, Fast, and Version-Controlled Markdown Notes App.
+- [safe-marked](https://github.com/azu/safe-marked) - Markdown to HTML using marked and DOMPurify.
+- [markdown-function](https://github.com/azu/markdown-function) - Markdown builder functions.
+- [tree-sitter-markdown](https://github.com/MDeiml/tree-sitter-markdown) - Markdown parser for tree-sitter.
+- [Specify theme context for images in Markdown (2021)](https://github.blog/changelog/2021-11-24-specify-theme-context-for-images-in-markdown/)
+- [md-block](https://github.com/LeaVerou/md-block) - Custom element for rendering stylable (light DOM) Markdown. ([Article](https://lea.verou.me/2021/11/on-yak-shaving-and-md-block-an-html-element-for-markdown/))
+- [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown.
+- [mdsh](https://github.com/zimbatm/mdsh) - Markdown shell pre-processor.
+- [markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx) - Most lightweight, customizable React markdown component.
+- [Learn about advanced markdown techniques](https://github.com/DavidWells/advanced-markdown)
+- [mdast-util-from-markdown](https://github.com/syntax-tree/mdast-util-from-markdown) - mdast utility to parse markdown.
+- [Readwise Note Extractor](https://github.com/elchead/readwise-note-extractor) - Extract highlights from a given (markdown) file and uploads them to Readwise.
+- [Microdown](https://github.com/pillar-markup/Microdown) - Cleaned and simpler markdown but with more powerful features such as extensions.
+- [mdproof](https://github.com/leroycep/mdproof) - Standalone markdown to PDF converter.
+- [hast-util-to-mdast](https://github.com/syntax-tree/hast-util-to-mdast) - Utility to transform hast (HTML) to mdast (markdown).
+- [markdown-it-py](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python.
+- [mdv](https://github.com/Mermade/mdv) - Markdown (link/image) validator.
+- [Thoughts On Markdown (2022)](https://www.smashingmagazine.com/2022/02/thoughts-on-markdown/) ([Tweet](https://twitter.com/kmelve/status/1494688125980798978)) ([HN](https://news.ycombinator.com/item?id=30395130)) ([Lobsters](https://lobste.rs/s/wcrsg3/thoughts_on_markdown)) ([Tweet](https://twitter.com/film_girl/status/1495721258029363203))
+- [Marko](https://github.com/frostming/marko) - Markdown parser with high extensibility.
+- [SwiftCommonMark](https://github.com/gonzalezreal/SwiftCommonMark) - Parse and create CommonMark documents in Swift.
+- [MkPosters](https://github.com/patrick-kidger/mkposters) - Make posters from Markdown files.
+- [Memos.pub](https://memos.pub/) - Publishes Markdown files instantly without any setup. ([Code](https://github.com/thien-do/memos-pub))
+- [embedmd](https://github.com/campoy/embedmd) - Embed code into markdown and keep everything in sync.
+- [Awesome Lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists.
+- [docsQL](https://github.com/peterbe/docsql) - Getting an overview over your Markdown file in your Jamstack site.
+- [tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter.
+- [Clarktown](https://github.com/askonomm/clarktown) - Zero-dependency, pure-Clojure Markdown parser.
+- [Swift MarkdownKit](https://github.com/objecthub/swift-markdownkit) - Framework for parsing and transforming text in Markdown format written in Swift 5 for macOS, iOS, and Linux.
+- [Graph Docs CLI](https://github.com/mattpocock/graph-docs-cli) - Revolutionize your docs using knowledge graphs built from Markdown.
+- [CommonMark.js](https://github.com/commonmark/commonmark.js) - CommonMark parser and renderer in JavaScript.
+- [book-summary](https://github.com/dvogt23/book-summary) - Automatically creates a SUMMARY.md file for your book (mdbook/gitbook).
+- [md](https://github.com/am-kantox/md) - Stream-aware markdown parser with custom syntax setting.
+- [github-md](https://github-md.com/) - Markdown parser API for GitHub. SWR for 2 days with revalidation every 5 minutes. ([Code](https://github.com/jacob-ebey/github-md))
+- [LetsMarkdown.com](https://letsmarkdown.com/) - Write Markdown. Together. ([Code](https://github.com/Cveinnt/LetsMarkdown.com))
+- [Free Markdown to HTML Converter](https://markdowntohtml.com/)
+- [Markdown-Tag](https://github.com/MarketingPipeline/Markdown-Tag) - Add Markdown to any HTML using a \<md\> tag.
+- [discord-markdown](https://github.com/brussell98/discord-markdown) - Markdown parser for Discord messages.
+- [present](https://github.com/terror/present) - Put some shell in your markdown.

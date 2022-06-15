@@ -1,0 +1,177 @@
+# Cryptography
+
+## Notes
+
+- [The megatrend in cryptography of the 2010s was elliptic curves, pairings and general purpose ZKPs/SNARKs. The megatrend of the 2020s will be (in addition to broad adoption of the above) lattices, LWE, multilinear maps, homomorphic encryption, MPC and obfuscation.](https://twitter.com/VitalikButerin/status/1248704356758753281)
+
+## Links
+
+- [Making Private Communication Simple - Moxie Marlinspike](https://www.youtube.com/watch?v=kp-b8iTZqzM)
+- [trezor-crypto](https://github.com/trezor/trezor-crypto) - Heavily optimized cryptography algorithms for embedded devices.
+- [emmy](https://github.com/xlab-si/emmy) - Library for zero-knowledge proof based applications (like anonymous credentials).
+- [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
+- [LibHydrogen](https://github.com/jedisct1/libhydrogen) - Lightweight, secure, easy-to-use crypto library suitable for constrained environments.
+- [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
+- [Asymmetric Cryptography: Works Like Magic](https://dominictarr.com/post/106497926352/asymmetric-cryptography-works-like-magic)
+- [saltpack](https://github.com/keybase/saltpack) - Modern crypto messaging format. ([HN](https://news.ycombinator.com/item?id=23174421))
+- [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
+- [Keybase](https://keybase.io) - Secure groups, files, and chat for everyone.
+- [Signal](https://signal.org) - Secure messenger.
+- [Cryptocoding](https://github.com/veorq/cryptocoding) - Guidelines for low-level cryptography software.
+- [Constant-Time Toolkit](https://github.com/pornin/CTTK)
+- [Tink](https://github.com/google/tink) - Multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+- [Ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust.
+- [dalek cryptography](https://github.com/dalek-cryptography) - Fast, safe, pure-rust elliptic curve cryptography.
+- [Trillian](https://github.com/google/trillian) - Transparent, highly scalable and cryptographically verifiable data store. ([Examples](https://github.com/google/trillian-examples))
+- [Intuitive Advanced Cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
+- [Elliptic Curve Cryptography Explained (2019)](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/) ([HN](https://news.ycombinator.com/item?id=27301651))
+- [The Latest Developments in Cryptography Webinar](https://www.youtube.com/watch?v=eQdkZRLD09M)
+- [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
+- [A Graduate Course in Applied Cryptography (2020)](https://toc.cryptobook.us/) ([HN](https://news.ycombinator.com/item?id=22013751)) ([HN 2](https://news.ycombinator.com/item?id=22980003))
+- [BLAKE3 (in Rust)](https://github.com/BLAKE3-team/BLAKE3) - Cryptographic hash function. ([HN](https://news.ycombinator.com/item?id=27959029))
+- [BLAKE3 (rewrite in Go)](https://github.com/lukechampine/blake3)
+- [BLAKE3 (in JS)](https://github.com/connor4312/blake3) - Hashing for JavaScript: native Node bindings (where available) and WebAssembly.
+- [BLAKE3 reference specification](https://github.com/BLAKE3-team/BLAKE3-specs)
+- [Real world crypto talks](https://flak.tedunangst.com/post/real-world-crypto-talks)
+- [awesome-mpc](https://github.com/rdragos/awesome-mpc) - Curated list of multi party computation resources and links.
+- [Basic Intro to Lattices in Cryptography (2020)](https://qvault.io/2020/01/23/very-basic-intro-to-lattices-in-cryptography/)
+- [SwiftCrypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms. ([Article](https://swift.org/blog/crypto/))
+- [Fiat-Crypto](https://github.com/mit-plv/fiat-crypto) - Cryptographic Primitive Code Generation by Fiat.
+- [CIRCL](https://github.com/cloudflare/circl) - Cloudflare Interoperable Reusable Cryptographic Library. ([Article](https://blog.cloudflare.com/introducing-circl/)) ([Pairings in CIRCL](https://blog.cloudflare.com/circl-pairings-update/))
+- [cosign](https://github.com/osresearch/cosign) - Cooperative RSA signatures.
+- [Practical Cryptography for Developers book](https://cryptobook.nakov.com/) ([Code](https://github.com/nakov/Practical-Cryptography-for-Developers-Book))
+- [Cryptopals](https://cryptopals.com/) - Collection of 48 exercises that demonstrate attacks on real-world crypto. ([Solutions in Go](https://github.com/0xfe/cryptopals)) ([Solutions in Python](https://github.com/georgeroman/cryptopals))
+- [Intuitive Advanced Cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
+- [Intuitive Understanding of Quantum Computation and Post-Quantum Cryptography](https://github.com/cryptosubtlety/postquantumcrypto)
+- [Cofactor Explained: Clearing Elliptic Curves' dirty little secret (2020)](http://loup-vaillant.fr/tutorials/cofactor)
+- [Move Fast and Roll Your Own Crypto. Quick Look at the Confidentiality of Zoom Meetings (2020)](https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/)
+- [Monocypher](https://github.com/LoupVaillant/Monocypher) - Easy to use, easy to deploy crypto library. ([Article](http://loup-vaillant.fr/articles/implementing-elligator))
+- [Learning fast elliptic-curve cryptography in JS (2020)](https://paulmillr.com/posts/noble-secp256k1-fast-ecc/)
+- [SHISHUA: The Fastest Pseudo-Random Generator In the World (2020)](https://espadrine.github.io/blog/posts/shishua-the-fastest-prng-in-the-world.html) ([HN](https://news.ycombinator.com/item?id=22907539))
+- [RSA implementation in pure Rust](https://github.com/RustCrypto/RSA)
+- [Cryptography I course](https://www.coursera.org/learn/crypto)
+- [Basic implementations of standard cryptography algorithms, like AES and SHA-1](https://github.com/B-Con/crypto-algorithms)
+- [Botan](https://github.com/randombit/botan) - Crypto and TLS for Modern C++.
+- [Understanding Cryptography book](http://www.crypto-textbook.com/)
+- [Ask HN: Keybase Alternatives? (2020)](https://news.ycombinator.com/item?id=23103386)
+- [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources)
+- [Basic Intro To Elliptic Curve Cryptography (2020)](https://qvault.io/2020/09/17/very-basic-intro-to-elliptic-curve-cryptography/) ([HN](https://news.ycombinator.com/item?id=23370009)) ([HN 2](https://news.ycombinator.com/item?id=26134240))
+- [How Not to Learn Cryptography (2014)](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/) ([HN](https://news.ycombinator.com/item?id=23384227))
+- [Encrypted Systems Lab](http://esl.cs.brown.edu/) - Research lab in the Computer Science Department at Brown University.
+- [Snow](https://github.com/mcginty/snow) - Rust implementation of the Noise Protocol Framework.
+- [Real-World Cryptography book (2020)](https://www.manning.com/books/real-world-cryptography) ([Why I’m Writing A Book On Cryptography](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)) ([HN](https://news.ycombinator.com/item?id=23743218))
+- [How To Learn Cryptography as a Programmer (2020)](https://soatok.blog/2020/06/10/how-to-learn-cryptography-as-a-programmer/)
+- [Cifra](https://github.com/ctz/cifra) - Collection of cryptographic primitives targeted at embedded use.
+- [sjcl](http://bitwiseshiftleft.github.io/sjcl/) - Stanford Javascript Crypto Library. ([Web](http://bitwiseshiftleft.github.io/sjcl/)) ([HN](https://news.ycombinator.com/item?id=23524662))
+- [Sodium](https://github.com/jedisct1/libsodium) - Modern, easy-to-use software library for encryption, decryption, signatures, password hashing and more. ([Docs](https://doc.libsodium.org/))
+- [libsodium.js](https://github.com/jedisct1/libsodium.js) - Sodium crypto library compiled to WebAssembly and pure JavaScript using Emscripten, with automatically generated wrappers to make it easy to use in web applications.
+- [Finite Fields (2020)](https://btcclj.com/posts-output/2020-04-21-finite-fields/) ([Lobsters](https://lobste.rs/s/tuawd2/finite_fields))
+- [Really low latency multipliers and cryptographic puzzles (2020)](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/)
+- [A Gentle Introduction to Verifiable Delay Functions](https://adlrocha.substack.com/p/adlrocha-a-gentle-introduction-to) ([HN](https://news.ycombinator.com/item?id=23667575))
+- [Keyoxide](https://keyoxide.org/) - Privacy-friendly platform to establish your decentralized identity. ([Article](https://yarmo.eu/post/keyoxide)) ([Lobsters](https://lobste.rs/s/2ab63g/launching_keyoxide_org)) ([Code](https://codeberg.org/keyoxide/keyoxide-web/src/branch/main/content/about.md))
+- [Low latency multipliers and cryptographic puzzles (2020)](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/) ([HN](https://news.ycombinator.com/item?id=23725921))
+- [Cryptography is not Magic (2020)](http://loup-vaillant.fr/articles/crypto-is-not-magic) ([Lobsters](https://lobste.rs/s/huvle5/cryptography_is_not_magic))
+- [Cryptography Dispatches: Registries Considered Harmful (2020)](https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/) ([Lobsters](https://lobste.rs/s/4eku7g/cryptography_dispatches_registries))
+- [The Joy of Cryptography](https://joyofcryptography.com/) ([HN](https://news.ycombinator.com/item?id=24310842)) ([Twitter](https://twitter.com/JoyOfCrypto))
+- [A history of elliptic curves in tweets (2020)](https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html)
+- [Learning fast elliptic-curve cryptography in JS (2020)](https://paulmillr.com/posts/noble-secp256k1-fast-ecc/)
+- [Absolute Minimum Every Engineer Must Know About Authentication and Encryption](https://www.ldelossa.is/blog/absolute-minimum-cryptography/)
+- [Cute Cryptography Stories (2020)](https://www.cryptologie.net/article/506/cute-cryptography-stories/)
+- [Cryptography Dispatches](https://buttondown.email/cryptography-dispatches/archive) - Longer form discussion of the cryptography engineering topics.
+- [Small portable Elliptic-Curve Diffie-Hellman in C](https://github.com/kokke/tiny-ECDH-c)
+- [Branca](https://github.com/tuupola/branca-spec) - Authenticated and encrypted API tokens using modern crypto. ([Web](https://branca.io/))
+- [jsHashes](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
+- [The EMV Standard: Break, Fix, Verify (2020)](https://arxiv.org/abs/2006.08249)
+- [CRISP & CHIP implementation in C++](https://github.com/shapaz/CRISP)
+- [Arithmetic Statistics for Elliptic Curves](https://github.com/Multramate/ArithmeticStatistics)
+- [Quantum Hardening Cryptographic Protocols](https://cupdev.net/blog/014_quantumhardening.html)
+- [Pairing-Based Cryptography Notes](https://crypto.stanford.edu/pbc/)
+- [Pairing-Based Cryptography - Ben Lynn’s PhD Dissertation](https://crypto.stanford.edu/pbc/thesis.html)
+- [MIRACL Core](https://github.com/miracl/core) - Multi-lingual and architecturally agnostic Cryptographic library that supports elliptic curve cryptography, pairing-friendly curve cryptography, RSA, AES symmetric encryption and hash functions.
+- [SCIPR Lab](http://www.scipr-lab.org/) - Multi-institutional academic collaboration of researchers seeking to bring to practice cryptographic proof systems that provide succinct integrity and privacy.
+- [Preventing impossible game levels using cryptography (2020)](https://robertheaton.com/preventing-impossible-game-levels-using-cryptography/)
+- [Indistinguishability Obfuscation from Well-Founded Assumptions (2020)](https://www.quantamagazine.org/computer-scientists-achieve-crown-jewel-of-cryptography-20201110/) ([HN](https://news.ycombinator.com/item?id=25046738))
+- [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources)
+- [Cryptol](https://github.com/GaloisInc/cryptol) - Language of Cryptography. Was designed by Galois for the NSA Laboratory for Advanced Cybersecurity Research as a public standard for specifying cryptographic algorithms. ([Web](https://cryptol.net/index.html))
+- [Courses on distributed systems and elliptic curve cryptography (2020)](https://martin.kleppmann.com/2020/11/18/distributed-systems-and-elliptic-curves.html)
+- [Implementing Curve25519/X25519: A Tutorial on Elliptic Curve Cryptography](https://martin.kleppmann.com/papers/curve25519.pdf)
+- [wasm-crypto](https://github.com/jedisct1/wasm-crypto) - WebAssembly (via AssemblyScript) set of cryptographic primitives for building authentication and key exchange protocols.
+- [Everything Crypto](https://github.com/zademn/EverythingCrypto) - Collection of notebooks covering different algorithms and concepts from cryptography.
+- [How Rainbow Tables work](http://kestas.kuliukas.com/RainbowTables/)
+- [Cryptography in Layman's Terms (2020)](https://portabella.io/blog/2020-11-16-crypto-in-laymans-terms/)
+- [Cryptographic Wear-Out for Symmetric Encryption (2020)](https://soatok.blog/2020/12/24/cryptographic-wear-out-for-symmetric-encryption/) ([Lobsters](https://lobste.rs/s/2m20u4/cryptographic_wear_out_for_symmetric))
+- [A Decade of Lattice Cryptography (2016)](http://web.eecs.umich.edu/~cpeikert/pubs/lattice-survey.pdf)
+- [Session Protocol: Technical implementation details (2020)](https://getsession.org/session-protocol-technical-information/) ([HN](https://news.ycombinator.com/item?id=25690036))
+- [Streaming Merkle Proofs in Binary Numeral Trees (2021)](https://eprint.iacr.org/2021/038)
+- [Mercurial Signatures](https://github.com/burkh4rt/Mercurial-Signatures)
+- [Crypto Dictionary Book](https://nostarch.com/crypto-dictionary) ([Code](https://github.com/cryptodictionary/newstuff))
+- [Applied Cryptology Lab (NaCl)](https://www.ntnu.edu/iik/nacl-lab)
+- [Cryptography Resources](https://tjerandsilde.no/resources/)
+- [NuCypher](https://www.nucypher.com/) - Cryptographic Infrastructure for Privacy-Preserving Applications. ([Code](https://github.com/nucypher/nucypher)) ([GitHub](https://github.com/nucypher/))
+- [FROST: Flexible Round-Optimized Schnorr Threshold Signatures - Chelsea Komlo (2021)](https://www.youtube.com/watch?v=ReN0kMzDFro)
+- [Crackpot Cryptography and Security Theater (2021)](https://soatok.blog/2021/02/09/crackpot-cryptography-and-security-theater/) ([Lobsters](https://lobste.rs/s/eext9b/crackpot_cryptography_security_theater))
+- [Lobsters: Resources for crypto fundamentals? (2021)](https://lobste.rs/s/edpwke/resources_for_crypto_fundamentals)
+- [keys.pub](https://keys.pub/) - Cryptographic key management. ([Code](https://github.com/keys-pub/keys))
+- [hacspec](https://github.com/hacspec/hacspec) - Specification language for cryptography primitives. ([Web](https://hacspec.github.io/))
+- [Actually, You Are Rolling Your Own Crypto (2021)](https://galois.com/blog/2021/03/actually-you-are-rolling-your-own-crypto/) ([Lobsters](https://lobste.rs/s/vi6chi/actually_you_are_rolling_your_own_crypto))
+- [ZenGo Research](https://www.zengo.com/research/) - Goal is to take threshold cryptography all the way from theory to your mobile device (or any consumer software/hardware). ([GitHub](https://github.com/ZenGo-X))
+- [Cryptofuzz](https://github.com/guidovranken/cryptofuzz) - Differential cryptography fuzzing.
+- [Cryptography and how to deal with man-in-the-middle attacks in JavaScript](https://blog.sessionstack.com/how-javascript-works-cryptography-how-to-deal-with-man-in-the-middle-mitm-attacks-bf8fc6be546c) ([HN](https://news.ycombinator.com/item?id=26979300))
+- [RELIC](https://github.com/relic-toolkit/relic) - Modern cryptographic meta-toolkit with emphasis on efficiency and flexibility.
+- [Arbitrary Code Execution in the Universal Turing Machine (2021)](https://arxiv.org/abs/2105.02124) ([HN](https://news.ycombinator.com/item?id=27104125))
+- [CrySyS Lab](https://www.crysys.hu/) - Laboratory of Cryptography and System Security.
+- [Hacker's guide to deep-learning side-channel attacks: the theory (2021)](https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-the-theory/)
+- [Cryptography from the Ground Up (2021)](https://cmdli.github.io/crypto/)
+- [Crypto Gotchas](https://github.com/SalusaSecondus/CryptoGotchas) - Collection of common (interesting) cryptographic mistakes.
+- [How I Learned Symmetric-Key Cryptanalysis (2021)](https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html) ([HN](https://news.ycombinator.com/item?id=27406888))
+- [Public key cryptography: OpenSSH private keys (2021)](https://www.thedigitalcatonline.com/blog/2021/06/03/public-key-cryptography-openssh-private-keys/)
+- [Nova](https://github.com/microsoft/Nova) - Recursive SNARKs without trusted setup.
+- [You Really Shouldn't Roll Your Own Crypto: Empirical Study of Vulnerabilities in Cryptographic Libs (2021)](https://arxiv.org/pdf/2107.04940.pdf) ([Lobsters](https://lobste.rs/s/qan9eo/you_really_shouldn_t_roll_your_own_crypto))
+- [Fine Grained Dataflow Tracking with Proximal Gradients (2021)](https://arxiv.org/abs/1909.03461) ([Code](https://github.com/gryan11/PGA))
+- [mcl](https://github.com/herumi/mcl) - Portable and fast pairing-based cryptography library.
+- [ecgen](https://github.com/J08nY/ecgen) - Tool for generating Elliptic curve domain parameters.
+- [Conditionally-Perfect Secrecy and a Provably-Secure Randomized Cipher (1992)](https://crypto.ethz.ch/publications/files/Maurer92b.pdf)
+- [Minisign](https://github.com/jedisct1/minisign) - Dead simple tool to sign files and verify digital signatures. ([Web](https://jedisct1.github.io/minisign/))
+- [Minisign in Zig](https://github.com/jedisct1/zig-minisign)
+- [Signify](https://github.com/aperezdc/signify) - OpenBSD tool to signs and verify signatures on files. Portable version.
+- [O(1) Labs](https://www.o1labs.org/) - Using cryptography and cryptocurrency to build computing systems that put people back in control of their digital lives. ([GitHub](https://github.com/o1-labs))
+- [Bugs in our Pockets: The Risks of Client-Side Scanning (2021)](https://www.cs.columbia.edu/~smb/papers/bugs21.pdf) ([Tweet](https://twitter.com/SteveBellovin/status/1448808323378294786)) ([Lobsters](https://lobste.rs/s/a3taal/bugs_our_pockets_risks_client_side)) ([Article](https://www.lightbluetouchpaper.org/2021/10/15/bugs-in-our-pockets/))
+- [Cracking Random Number Generators Using Machine Learning (2021)](https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/) ([HN](https://news.ycombinator.com/item?id=28886698))
+- [A Graduate Course in Applied Cryptography (2020)](https://toc.cryptobook.us/book.pdf) ([HN](https://news.ycombinator.com/item?id=28918554))
+- [HACL\*](https://github.com/project-everest/hacl-star) - Formally verified cryptographic library written in F\*.
+- [Threema: Three Strikes, You’re Out (2021)](https://soatok.blog/2021/11/05/threema-three-strikes-youre-out/) ([Lobsters](https://lobste.rs/s/fxrzbw/threema_three_strikes_you_re_out))
+- [Lightweight Cryptography](https://csrc.nist.gov/Projects/Lightweight-Cryptography) ([HN](https://news.ycombinator.com/item?id=29137897))
+- [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) - RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data.
+- [Drand](https://github.com/drand/drand) - Distributed Randomness Beacon Daemon. ([Web](https://drand.love/))
+- [Jasmin](https://github.com/jasmin-lang/jasmin) - Workbench for high-assurance and high-speed cryptography. ([Wiki](https://github.com/jasmin-lang/jasmin/wiki))
+- [An Illustrated Guide to Elliptic Curve Cryptography Validation (2021)](https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/) ([HN](https://news.ycombinator.com/item?id=29397243))
+- [starkex-lib](https://github.com/dydxprotocol/starkex-lib) - Cryptographic functions for dYdX.
+- [Kryptology](https://github.com/coinbase/kryptology) - Coinbase's advanced cryptography library. ([Article](https://blog.coinbase.com/meet-kryptology-coinbases-open-source-cryptography-library-b5f22854f3f7)) ([HN](https://news.ycombinator.com/item?id=29545399))
+- [NCC Group’s Cryptopals Guided Tour (2021)](https://research.nccgroup.com/2021/12/10/announcing-ncc-groups-cryptopals-guided-tour/) ([HN](https://news.ycombinator.com/item?id=29510624))
+- [WASI Cryptography APIs](https://github.com/WebAssembly/wasi-crypto)
+- [Lecture notes for Chris Peikert's graduate-level Theory of Cryptography course](https://github.com/cpeikert/TheoryOfCryptography)
+- [An intensive introduction to cryptography](https://intensecrypto.org/public/index.html) ([Notes](https://github.com/boazbk/crypto))
+- [Casual code review of MetaMask’s crypto (2022)](https://blog.cryptographyengineering.com/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/) ([Lobsters](https://lobste.rs/s/9juhqi/extremely_casual_code_review_metamask_s))
+- [EasyCrypt](https://github.com/EasyCrypt/easycrypt) - Computer-Aided Cryptographic Proofs.
+- [Pseudorandom Number Generation using LFSR (2022)](https://arpitbhayani.me/blogs/lfsr)
+- [lokey](https://github.com/jpf/lokey) - Tool that makes it easy to work with and convert between cryptographic key formats.
+- [Oblivious Message Retrieval (2021)](https://eprint.iacr.org/2021/1256)
+- [SHA-256 Project](https://github.com/oconnor663/sha256_project) - Learn how hash functions work by implementing one yourself. ([HN](https://news.ycombinator.com/item?id=30809352))
+- [The Joy Of Duplexes (2022)](https://codahale.com//the-joy-of-duplexes/)
+- [Keychain-PKCS11](https://github.com/kenh/keychain-pkcs11) - Shared library that implements a PKCS#11 interface to the Apple Security framework.
+- [liblithium](https://github.com/teslamotors/liblithium) - Lightweight and portable cryptography library.
+- [Researchers Identify ‘Master Problem’ Underlying All Cryptography (2022)](https://www.quantamagazine.org/researchers-identify-master-problem-underlying-all-cryptography-20220406/) ([HN](https://news.ycombinator.com/item?id=30934721))
+- [Secret Colors: A Gentle Introduction to Cryptography](https://roundrobin.pub/pages/secret-colors-announcement)
+- [Web Cryptography API Examples](https://github.com/diafygi/webcrypto-examples)
+- [Elliptic Curve Cryptography: A Basic Introduction (2020)](https://blog.boot.dev/cryptography/elliptic-curve-cryptography/) ([HN](https://news.ycombinator.com/item?id=31040571))
+- [LibHydrogen](https://github.com/jedisct1/libhydrogen) - Lightweight, secure, easy-to-use crypto library suitable for constrained environments.
+- [Awesome TSS](https://github.com/ZenGo-X/awesome-tss) - Curated list of distributed key generation and threshold signatures implementations.
+- [Explaining Yao's Garbled Circuits (2022)](https://cronokirby.com/posts/2022/05/explaining-yaos-garbled-circuits/)
+- [Themes from Real World Crypto 2022](https://blog.trailofbits.com/2022/05/03/themes-from-real-world-crypto-2022/)
+- [Coze](https://github.com/Cyphrme/Coze) - Cryptographic JSON messaging specification designed for human readability.
+- [Some Cryptography Books I Like (2022)](https://cronokirby.com/posts/2022/05/some-cryptography-books-i-like/) ([HN](https://news.ycombinator.com/item?id=31385182))
+- [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
+- [Crypto means cryptography (2022)](https://pluralistic.net/2022/05/12/crypto-means-cryptography/)
+- [Guidance for Choosing an Elliptic Curve Signature Algorithm in 2022](https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/)
+- [Google open sourced PSP (hardware cryptographic offload) (2022)](https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source) ([HN](https://news.ycombinator.com/item?id=31437033))
+- [Ask HN: Best book on modern cryptography? (2022)](https://news.ycombinator.com/item?id=31533041)

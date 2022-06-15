@@ -1,0 +1,305 @@
+# Security
+
+I use [1Password](../macOS/apps/1password.md) password manager for saving all my passwords, various other credentials and private notes and it has been a lifesaver thus far. Having a unique password for all my accounts and using 2FA wherever available means I should be quite safe in case any of my accounts gets breached or the password gets leaked.
+
+## Notes
+
+- [SolarWinds supply chain attack: SolarWinds were pushing the malware in updates. The malware itself is your standard DLL injection that establishes C2 and then allows them to come in and install further tools on it. They pushed it to everyone via update and made it look authentic by leveraging SolarWind's token-based authentication in the update process. Delivered through a trusted code signed agent, the software goes to a central management server on your network that is used to inventory and manage network infrastructure. Also whoever did this would have vetted the exploit by running it against all known anti-malware and log analysis systems to ensure it wasn't flagged, there are great videos that show how to obfuscate code to get past signature based detection and this was attack was certainly planned out and not using off the shelf exploit kits that would detected](https://www.reddit.com/r/technology/comments/kda9pl/alleged_russian_solarwinds_hack_probably_an_11_on/)
+
+## Links
+
+- [Lynis](https://github.com/CISOfy/lynis) - Security auditing and hardening tool, for UNIX-based systems.
+- [Theo De Raadt presented "Pledge: A new security technology in OpenBSD"](https://www.youtube.com/watch?v=F_7S1eqKsFk) - Great talk.
+- [SeKey](https://github.com/ntrippar/sekey) - Use Touch ID / Secure Enclave for SSH Authentication.
+- [DEF CON 26 - Christopher Domas - GOD MODE UNLOCKED Hardware Backdoors in redacted x86 (2018)](https://www.youtube.com/watch?v=jmTwlEh8L7g)
+- [SOPS](https://github.com/mozilla/sops) - Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
+- [ClusterFuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure which finds security and stability issues in software.
+- [Some security related notes](https://github.com/jaybosamiya/security-notes)
+- [RAMBleed](https://rambleed.com/) - Reading Bits in Memory Without Accessing Them.
+- [Sliver](https://github.com/BishopFox/sliver) - General purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS.
+- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - Information Security Reference That Doesn't Suck.
+- [Messaging Layer Security (MLS)](https://messaginglayersecurity.rocks/) - Security layer for encrypting messages in groups of size two to many.
+- [Molasses](https://github.com/trailofbits/molasses) - Rust implementation of the Message Layer Security group messaging protocol.
+- [mkcert](https://github.com/FiloSottile/mkcert) - Simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [Boulder](https://github.com/letsencrypt/boulder) - ACME-based CA, written in Go.
+- [If you were tasked to conduct a security audit on a server/database-backed web app, where would you start? (2019)](https://dev.to/ben/if-you-were-tasked-to-conduct-a-security-audit-on-a-server-database-backed-web-app-where-would-you-start-573o)
+- [Resilience engineering papers](https://github.com/lorin/resilience-engineering)
+- [How Monzo security team handle secrets (2019)](https://monzo.com/blog/2019/10/11/how-our-security-team-handle-secrets)
+- [HoneyTrap](https://github.com/honeytrap/honeytrap) - Extensible and opensource system for running, monitoring and managing honeypots.
+- [Flan Scan](https://github.com/cloudflare/flan) - Lightweight network vulnerability scanner.
+- [SSL/TLS Deployment Best Practices - Ivan Ristic (2017)](https://www.youtube.com/watch?v=AYNtH7JMlAQ)
+- [Hardenize](https://www.hardenize.com/) - Meet the new standard for network and security configuration monitoring.
+- [american fuzzy lop](https://github.com/google/AFL) - Security-oriented fuzzer.
+- [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
+- [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - Finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
+- [camo](https://github.com/atmos/camo) - HTTP proxy to route images through SSL. Making insecure assets look secure.
+- [Vault](https://github.com/hashicorp/vault) - Tool for secrets management, encryption as a service, and privileged access management. ([Web](https://www.vaultproject.io/))
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [OSS-Fuzz](https://github.com/google/oss-fuzz) - Continuous Fuzzing for Open Source Software.
+- [Wifiphisher](https://wifiphisher.org/) - Rogue Access Point framework for conducting red team engagements or Wi-Fi security testing. ([Code](https://github.com/wifiphisher/wifiphisher))
+- [crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib, but written in Go.
+- [Redirect attack on Shadowsocks stream ciphers](https://github.com/edwardz246003/shadowsocks)
+- [Dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more.
+- [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers.
+- [disclose.io](https://disclose.io/) - Cross-industry, vendor-agnostic standardization project for safe harbor† best practices to enable good-faith security research. ([Code](https://github.com/disclose/disclose)) ([GitHub](https://github.com/disclose))
+- [Awesome Zero trust](https://github.com/pomerium/awesome-zero-trust) - Curated collection of awesome resources for the zero-trust security model.
+- [CS 253 Web Security (2019)](https://web.stanford.edu/class/cs253/) ([Videos](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-))
+- [vaulted](https://github.com/miquella/vaulted) - Spawning and storage of secure environments.
+- [Destructive Farm](https://github.com/DestructiveVoice/DestructiveFarm) - Exploit farm for attack-defense CTF competitions.
+- [Panther](https://github.com/panther-labs/panther) - Cloud-native platform for detecting threats with log data, improving cloud security posture, and conducting investigations.
+- [bettercap](https://github.com/bettercap/bettercap) - Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
+- [security.txt](https://securitytxt.org/) - Proposed standard which allows websites to define security policies.
+- [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go.
+- [Security Engineering - A Guide to Building Dependable Distributed Systems](https://www.cl.cam.ac.uk/~rja14/book.html) ([HN](https://news.ycombinator.com/item?id=22785498))
+- [Michal Zalewski's security tools/articles](https://lcamtuf.coredump.cx/)
+- [Smashing The Stack For Fun And Profit](http://www-inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf)
+- [CS 161: Computer Security (2020)](http://www-inst.eecs.berkeley.edu/~cs161/sp20/)
+- [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility.
+- [Awesome Object Capabilities and Capability-based Security](https://github.com/dckc/awesome-ocap)
+- [Brim](https://github.com/brimsec/brim) - Open source desktop application for security and network specialists.
+- [testssl.sh](https://github.com/drwetter/testssl.sh) - Command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as some cryptographic flaws.
+- [AFL++](https://github.com/AFLplusplus/AFLplusplus) - Fuzzing framework. ([Web](https://aflplus.plus/))
+- [Awake Security](https://awakesecurity.com/) - Advanced Network Traffic Analysis Solution.
+- [A Defender’s Guide For Rootkit Detection: Episode 1 – Kernel Drivers (2020)](https://labs.jumpsec.com/2020/04/20/a-defenders-guide-for-rootkit-detection-episode-1-kernel-drivers/?preview=true)
+- [OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware.
+- [Hacker tools on Go](https://github.com/dreddsa5dies/goHackTools)
+- [Ask HN: Any good FOSS alternative to Google's reCAPTCHA? (2020)](https://news.ycombinator.com/item?id=23089599)
+- [SnapPass](https://github.com/pinterest/snappass) - Share passwords securely.
+- [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - Seamless ssh-agent for YubiKeys. ([HN](https://news.ycombinator.com/item?id=23130053))
+- [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+- [Web Security Basics](https://github.com/vasanthk/web-security-basics)
+- [A Guide to Threat Modelling for Developers (2020)](https://martinfowler.com/articles/agile-threat-modelling.html)
+- [The SSO Wall of Shame](https://sso.tax/) - List of vendors that treat single sign-on as a luxury feature, not a core security requirement.
+- [Black Hat Go book](https://nostarch.com/blackhatgo) ([Code](https://github.com/blackhat-go/bhg))
+- [How to Become a Hacker (2020)](https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html) ([HN](https://news.ycombinator.com/item?id=23377186)) ([Lobsters](https://lobste.rs/s/lsrbch/how_become_hacker))
+- [Web Security 101: Cross-Site Scripting (XSS) Attacks](https://victorzhou.com/blog/xss/)
+- [Ask HN: How does your company manage its encryption keys? (2020)](https://news.ycombinator.com/item?id=23390966)
+- [Password Manager Resources](https://github.com/apple/password-manager-resources) - Place for creators of password managers to collaborate on resources to make password management better for everyone.
+- [A Well-Known URL for Changing Passwords](https://wicg.github.io/change-password-url/) ([Code](https://github.com/WICG/change-password-url))
+- [Learn Security Engineering](https://github.com/veeral-patel/learn-security-engineering)
+- [Zebra Crossing: an easy-to-use digital safety checklist](https://github.com/narwhalacademy/zebra-crossing)
+- [Best practices for managing & storing secrets like API keys and other credentials (2020)](https://blog.gitguardian.com/secrets-api-management/) ([Reddit](https://www.reddit.com/r/programming/comments/h7kmff/best_practices_for_managing_storing_secrets_like/)) ([HN](https://news.ycombinator.com/item?id=23500462))
+- [gopass](https://github.com/gopasspw/gopass) - Password manager for the command line written in Go.
+- [Rosetta](https://github.com/polydawn/rosetta) - Simple, scriptable file encryption tool.
+- [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/) ([Code](https://github.com/mozilla/ssl-config-generator))
+- [OWASP Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery.
+- [tl;dr sec Newsletter](https://tldrsec.com/)
+- [Flipper Zero](https://flipperzero.one/) - Tamagochi for Hackers. ([HN](https://news.ycombinator.com/item?id=23996733)) ([HN](https://news.ycombinator.com/item?id=26405919)) ([Flipper Android App](https://github.com/Flipper-Zero/Flipper-Android-App)) ([Firmware](https://github.com/flipperdevices/flipperzero-firmware)) ([Awesome](https://github.com/djsime1/awesome-flipperzero)) ([Twitter](https://twitter.com/flipper_zero)) ([Read and replay hotel key cards](https://twitter.com/runasand/status/1529047968875167744))
+- [Security@ Conference](https://www.hackerone.com/security-at)
+- [I'm Open Sourcing the Have I Been Pwned Code Base (2020)](https://www.troyhunt.com/im-open-sourcing-the-have-i-been-pwned-code-base/) ([HN](https://news.ycombinator.com/item?id=24079682))
+- [Security Research from the Microsoft Security Response Center](https://github.com/microsoft/MSRC-Security-Research)
+- [Researchers can duplicate keys from the sounds they make in locks (2020)](https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks) ([HN](https://news.ycombinator.com/item?id=24205833))
+- [DEF CON](https://defcon.org/) - Hacking Conference.
+- [Threat modelling case study: bicycles (2020)](http://calpaterson.com/bicycle-threat-model.html) ([Lobsters](https://lobste.rs/s/v1egoc/threat_modelling_case_study_bicycles))
+- [GTFOBins](https://gtfobins.github.io/) - Curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions. ([Code](https://github.com/GTFOBins/GTFOBins.github.io)) ([Lobsters](https://lobste.rs/s/qtb9da/gtfobins)) ([HN](https://news.ycombinator.com/item?id=28849101))
+- [MinTOTP](https://github.com/susam/mintotp) - Minimal TOTP generator written in Python. ([Lobsters](https://lobste.rs/s/fzkwum/minimal_totp_generator_20_lines_python))
+- [Information Security Requires Strongly-Typed Actors and Theories (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3418003)
+- [Intercepting Zoom's encrypted data with BPF (2020)](https://confused.ai/posts/intercepting-zoom-tls-encryption-bpf-uprobes)
+- [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - List of useful payloads and bypass for Web Application Security and Pentest/CTF.
+- [Bypassing ESP32 Encrypted Secure Boot (2020)](https://raelize.com/posts/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/)
+- [F-Secure Labs](https://labs.f-secure.com/) - Cyber security research and development.
+- [Hacking Apple (2020)](https://samcurry.net/hacking-apple/) ([HN](https://news.ycombinator.com/item?id=24718078))
+- [Penetration Testing Tools](https://github.com/IoT-PTv/List-of-Tools)
+- [Chamber](https://github.com/segmentio/chamber) - CLI for managing secrets. Currently it does so by storing secrets in SSM Parameter Store, an AWS service for storing secrets.
+- [Cyber Security Resources](https://github.com/The-Art-of-Hacking/h4cker) ([Web](https://h4cker.org/))
+- [HowToHunt](https://github.com/KathanP19/HowToHunt) - Some Tutorials and Things to Do while Hunting Particular Vulnerability.
+- [EarlyBird](https://github.com/americanexpress/earlybird) - Sensitive data detection tool capable of scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more.
+- [Awesome Hacking](https://github.com/jekil/awesome-hacking) - Curated list of hacking tools for hackers, pentesters and security researchers. ([Web](https://awesomehacking.org/))
+- [HashiCorp Boundary (2020)](https://www.boundaryproject.io/) - Simple and secure remote access — to any system anywhere based on trusted identity. ([Code](https://github.com/hashicorp/boundary)) ([Announcement](https://www.hashicorp.com/blog/hashicorp-boundary)) ([HN](https://news.ycombinator.com/item?id=24778073))
+- [mc2](https://github.com/mc2-project/mc2) - Multiparty Collaboration + Coopetition projects.
+- [Google Security Research](https://github.com/google/security-research) - Hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google.
+- [Timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.
+- [XSStrike](https://github.com/s0md3v/XSStrike) - Advanced XSS Detection Suite.
+- [GHunt](https://github.com/mxrch/GHunt) - Investigate Google Accounts with emails.
+- [HideAndSec](https://hideandsec.sh/) - Group of cybersecurity enthusiasts.
+- [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) - Collection of high value information on specific application security topics. ([Code](https://github.com/OWASP/CheatSheetSeries))
+- [Tricks for penetration testing](https://github.com/kmkz/Pentesting)
+- [Malware Source Code Collection](https://github.com/vxunderground/MalwareSourceCode)
+- [Research code & papers from members of vx-underground](https://github.com/vxunderground/VXUG-Papers)
+- [Passguard](https://passguard.app/) - Decentralised and 100% secure password manager. ([Code](https://github.com/passguardapp/passguardapp.github.io))
+- [Web Hacker's Weapons](https://github.com/hahwul/WebHackersWeapons) - Collection of cool tools used by Web hackers.
+- [Crowdsec](https://github.com/crowdsecurity/crowdsec) - Modern behavior detection system, written in Go. ([Web](https://crowdsec.net/))
+- [Awesome Security](https://github.com/sbilly/awesome-security)
+- [A Researcher’s Guide to Some Legal Risks of Security Research (2020)](https://clinic.cyber.harvard.edu/files/2020/10/Security_Researchers_Guide-2.pdf)
+- [Spacehuhn Technologies](https://spacehuhn.tech/) - Open Source Hacking Tools. ([GitHub](https://github.com/SpacehuhnTech))
+- [Security features of musl](https://dustri.org/b/security-features-of-musl.html) ([Lobsters](https://lobste.rs/s/yfsbbl/security_features_musl))
+- [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
+- [Infection Monkey](https://github.com/guardicore/monkey) - Open source security tool for testing a data center's resiliency to perimeter breaches and internal server infection.
+- [Clean up your digital hygiene (2020)](https://luminousmen.com/post/clean-up-your-digital-hygiene)
+- [OSS Security Scorecards](https://github.com/ossf/scorecard)
+- [Gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit. ([Web](https://getgophish.com/))
+- [OpenEDR](https://github.com/ComodoSecurity/openedr) - Free and open source platform allows you to analyze what’s happening across your entire environment at base-security-event level.
+- [MITRE open source](http://mitre.github.io/) ([GitHub](https://github.com/mitre))
+- [r2c](https://r2c.dev/) - Enforcing code guardrails on every commit. ([GitHub](https://github.com/returntocorp/))
+- [Awesome Security Feeds](https://github.com/mrtouch93/awesome-security-feed)
+- [Neurax](https://github.com/redcode-labs/Neurax) - Library for constructing self-spreading binaries.
+- [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources. ([Web](https://cloudcustodian.io/))
+- [Depix](https://github.com/beurtschipper/Depix) - Tool for recovering passwords from pixelized screenshots. ([HN](https://news.ycombinator.com/item?id=25326450))
+- [Honest Security](https://honest.security/) - Guide to endpoint security and device management that doesn't erode your values. ([Code](https://github.com/kolide/honest.security))
+- [Metasploit](https://metasploit.com/) - Penetration testing framework. ([Code](https://github.com/rapid7/metasploit-framework))
+- [Awesome CTF (Capture The Flag)](https://github.com/apsdehal/awesome-ctf)
+- [Quarkslab](https://quarkslab.com/) - Software and security services.
+- [Security Christmas](https://security.christmas/)
+- [HackTricks](https://book.hacktricks.xyz/) - Penetration testing hacks/tricks. ([Code](https://github.com/carlospolop/hacktricks))
+- [Machine Learning for Security Course](https://security.kiwi/docs/introduction/)
+- [Drata](https://drata.com/) - Put SOC 2 Compliance On Autopilot.
+- [Escaping VirtualBox 6.1 (2021)](https://secret.club/2021/01/14/vbox-escape.html) ([HN](https://news.ycombinator.com/item?id=25795731))
+- [Our Dumb Security Questionnaire (2021)](https://hangar.tech/posts/our-dsq/) ([HN](https://news.ycombinator.com/item?id=25793230))
+- [The SOC2 Starting Seven (2020)](https://latacora.micro.blog/2020/03/12/the-soc-starting.html) ([HN](https://news.ycombinator.com/item?id=25800791))
+- [Ask HN: Where can I start learning about hacking? (2021)](https://news.ycombinator.com/item?id=25793969)
+- [Awesome Open Policy Agent](https://github.com/anderseknert/awesome-opa)
+- [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap) - Beginner pen-testing start guide.
+- [Heap-based buffer overflow in Sudo (2021)](https://www.openwall.com/lists/oss-security/2021/01/26/3) ([Lobsters](https://lobste.rs/s/efsvqu/heap_based_buffer_overflow_sudo_cve_2021))
+- [Ask HN: Any tips for a programmer wanting to switch into security? (2021)](https://news.ycombinator.com/item?id=26056136)
+- [Free CyberSecurity Professional Development Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)
+- [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security)
+- [GitHub Learning Lab: Security Strategy Essentials](https://lab.github.com/githubtraining/security-strategy-essentials)
+- [Darkbit](https://darkbit.io/) - Cloud-native security built for your business.
+- [What hardware and software should I use for a self hosted home security system? (2021)](https://www.reddit.com/r/selfhosted/comments/mjmojl/what_hardware_and_software_should_i_use_for_a/)
+- [CALDERA](https://github.com/mitre/caldera) - Scalable Automated Adversary Emulation Platform.
+- [Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
+- [Hack The Box](https://www.hackthebox.eu/) - Hacking Training For The Best. Individuals & Companies.
+- [Pentesting: What I should have done (2021)](https://diablohorn.com/2021/04/24/pentesting-what-i-should-have-done/)
+- [A future without passwords (2021)](https://blog.google/technology/safety-security/a-simpler-and-safer-future-without-passwords/) ([HN](https://news.ycombinator.com/item?id=27064116))
+- [Introduction to Security Good Practices (2021)](https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html) ([HN](https://news.ycombinator.com/item?id=27099025))
+- [resync](https://resync.gg/) - Curate, monitor, and derive signal from the world's attack surface.
+- [Aqua Security](https://www.aquasec.com/) - Full lifecycle security for containers and cloud-native applications. ([GitHub](https://github.com/aquasecurity))
+- [Starting Up Security](https://scrty.io/) - Collection of information security essays and links to help growing teams manage risks.
+- [How We Protect Pinners’ Passwords (2021)](https://medium.com/pinterest-engineering/how-we-protect-pinners-passwords-e769135734d)
+- [An Incomplete List of Practical Security for Mortals (2021)](https://ludovicianul.github.io/2021/07/06/incomplete-list-of-security/)
+- [Secretless Broker](https://github.com/cyberark/secretless-broker) - Secure your apps by making them Secretless.
+- [Probably Are Gonna Need It: Application Security Edition (2021)](https://jacobian.org/2021/jul/8/appsec-pagnis/)
+- [Cybersecurity and the curse of binary thinking (2021)](https://www.philvenables.com/post/cybersecurity-and-the-curse-of-binary-thinking) ([HN](https://news.ycombinator.com/item?id=27800442))
+- [zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation.
+- [Learnings from looking for NSO Group's spyware on phones (2021)](https://twitter.com/billmarczak/status/1416801439402262529)
+- [Mobile Verification Toolkit (MVT)](https://github.com/mvt-project/mvt) - Forensic tool to look for signs of infection in smartphone devices. ([HN](https://news.ycombinator.com/item?id=27876165))
+- [Abertay Hacksoc Wiki](https://wiki.hacksoc.co.uk/) ([Code](https://github.com/AbertayHackers/gitbook-wiki))
+- [The Insecurity Industry (2021)](https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal) - The greatest danger to national security has become the companies that claim to protect it. ([HN](https://news.ycombinator.com/item?id=27965746))
+- [Canonicalization Attacks Against MACs and Signatures (2021)](https://soatok.blog/2021/07/30/canonicalization-attacks-against-macs-and-signatures/) ([Lobsters](https://lobste.rs/s/felalp/canonicalization_attacks_against_macs))
+- [Elkeid](https://github.com/bytedance/Elkeid) - Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture.
+- [One Bad Apple (2021)](https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html) ([HN](https://news.ycombinator.com/item?id=28110159))
+- [Sniptt](https://www.sniptt.com/) - The secret manager built for developers. ([Code](https://github.com/sniptt-official/ots)) ([CLI](https://github.com/sniptt-official/snip))
+- [go-tuf](https://github.com/theupdateframework/go-tuf) - Go implementation of The Update Framework (TUF), a framework for securing software update systems.
+- [Another free CA as an alternative to Let's Encrypt (2021)](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/) ([HN](https://news.ycombinator.com/item?id=28244246))
+- [RBAC like it was meant to be (2021)](https://tailscale.com/blog/rbac-like-it-was-meant-to-be/)
+- [Secure Software Development Fundamentals Courses](https://openssf.org/edx-courses/) ([Code](https://github.com/ossf/secure-sw-dev-fundamentals))
+- [Blocksec CTFs](https://github.com/openblocksec/blocksec-ctfs) - Curated list of blockchain security Capture the Flag (CTF) competitions.
+- [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust.
+- [OWASP Top 10 2021](https://owasp.org/Top10/) - Nonprofit foundation that works to improve the security of software. ([Code](https://github.com/OWASP/Top10/)) ([HN](https://news.ycombinator.com/item?id=28467397))
+- [Secure Mobile Networking Lab](https://www.seemoo.tu-darmstadt.de/) ([GitHub](https://github.com/seemoo-lab))
+- [Microsoft ruined passwords, now aims for a passwordless future (2021)](https://puri.sm/posts/microsoft-ruined-passwords-now-aims-for-a-passwordless-future/) ([HN](https://news.ycombinator.com/item?id=28598894))
+- [Machine Learning Security / Adversarial Machine Learning PhD seminar (2021)](https://github.com/unica-mlsec/mlsec) ([Web](https://unica-mlsec.github.io/mlsec/))
+- [PASETO: Platform-Agnostic Security Tokens](https://github.com/paseto-standard/paseto-spec) - Everything you love about JOSE (JWT, JWE, JWS) without any of the many design deficits that plague the JOSE standards.
+- [Salus (Security Automation as a Lightweight Universal Scanner)](https://github.com/coinbase/salus) - Tool for coordinating the execution of security scanners.
+- [LimeLighter](https://github.com/Tylous/Limelighter) - Tool for generating fake code signing certificates or signing real ones.
+- [cocert](https://github.com/Dentrax/cocert) - Split and distribute your private keys securely amongst untrusted network.
+- [Awesome Google VRP Writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups)
+- [Open Source Security Foundation (OpenSSF)](https://openssf.org/) ([GitHub](https://github.com/ossf)) ([Reviews](https://github.com/ossf/security-reviews))
+- [Allstar](https://github.com/ossf/allstar) - GitHub App installed on organizations or repositories to set and enforce security policies.
+- [WAFW00F](https://github.com/EnableSecurity/wafw00f) - Web Application Firewall Fingerprinting Tool.
+- [Analyzing the Mario Themed Malware (2021)](https://serhack.me/articles/analyzing-mario-malware-en/)
+- [Keyscope](https://github.com/SpectralOps/keyscope) - Key and secret workflow (validation, invalidation, etc.) tool built in Rust.
+- [SpectralOps](https://spectralops.io/) - Automated Code Security for Modern Teams. ([GitHub](https://github.com/SpectralOps))
+- [sizeof(cat)](https://sizeof.cat/)
+- [Profian](https://www.profian.com/) - Proven security for the untrusted cloud.
+- [Security is a layered approach. No single layer alone can protect us. (2021)](https://twitter.com/migueldeicaza/status/1448655100759592969)
+- [Trustworthy Computing in 2021](https://ariadne.space/2021/10/19/trustworthy-computing-in-2021/) ([HN](https://news.ycombinator.com/item?id=28929261))
+- [Terrascan](https://github.com/accurics/terrascan) - Static code analyzer for Infrastructure as Code.
+- [SLSA (Supply-chain Levels for Software Artifacts)](https://slsa.dev/) - Security framework from source to service, giving anyone working with software a common language for increasing levels of software security and supply chain integrity. ([Code](https://github.com/slsa-framework/slsa))
+- [Modern security stack (2021)](https://twitter.com/zackkanter/status/1416780099081359363)
+- [Notary](https://github.com/notaryproject/notary) - Aims to make the internet more secure by making it easy for people to publish and verify content.
+- [Sigstore](https://sigstore.dev/) - New standard for signing, verifying and protecting software. ([GitHub](https://github.com/sigstore)) ([Web Code](https://github.com/sigstore/sigstore-website))
+- [Rekor](https://github.com/sigstore/rekor) - Fulfills the signature transparency role of sigstore's software signing infrastructure.
+- [Keylime](https://keylime.dev/) - Bootstrap & Maintain Trust on the Edge / Cloud and IoT. ([Code](https://github.com/keylime/keylime))
+- [fulcio](https://github.com/sigstore/fulcio) - Sigstore WebPKI.
+- [Trojan Source Attacks](https://trojansource.codes/) - Attack the encoding of source code files to inject vulnerabilities. ([HN](https://news.ycombinator.com/item?id=29062982)) ([Code](https://github.com/nickboucher/trojan-source))
+- [Ask HN: Is the ISO 27001 certification worth it? (2021)](https://news.ycombinator.com/item?id=29094889)
+- [CNCF Security Technical Advisory Group](https://github.com/cncf/tag-security) - Secure access, policy control, privacy, auditing, explainability and more.
+- [Klaro](https://heyklaro.com/) - Privacy and security tool for your website. ([Code](https://github.com/kiprotect/klaro)) ([Comment](https://news.ycombinator.com/item?id=29122187))
+- [Never update anything (2021)](https://blog.kronis.dev/articles/never-update-anything) ([Lobsters](https://lobste.rs/s/ypzaht/never_update_anything)) ([HN](https://news.ycombinator.com/item?id=29106159))
+- [Nym Privacy Platform](https://github.com/nymtech/nym) - Provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials. ([Web](https://nymtech.net/))
+- [Living Off Trusted Sites](https://lots-project.com/) - List of legitimate domains that can be abused by attackers. ([Tweet](https://twitter.com/mrd0x/status/1459210707321380874))
+- [I hate password rules (2021)](https://www.schneier.com/blog/archives/2021/11/why-i-hate-password-rules.html) ([HN](https://news.ycombinator.com/item?id=29239587))
+- [TruffleHog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place. ([Web](https://trufflesecurity.com/))
+- [trufflehog3](https://github.com/feeltheajf/trufflehog3) - Enhanced version of the truffleHog scanner.
+- [Accidentally a hacker (2020)](https://www.vladionescu.me/posts/how-i-became-a-hacker/)
+- [How Monzo protects its most sensitive secrets from the most determined attackers (2021)](https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets) ([HN](https://news.ycombinator.com/item?id=29265760))
+- [Web Attack Cheat Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
+- [Software security paper list](https://github.com/AdaLogics/software-security-paper-list)
+- [LunaSec](https://github.com/lunasec-io/lunasec) - End-to-end security system designed to protect your application by transparently encrypting sensitive data, from browser to database. ([Docs](https://www.lunasec.io/docs/))
+- [certinfo](https://github.com/pete911/certinfo) - Print x509 certificate info.
+- [Notes and writeups on CTFs](https://github.com/abhaynayar/obsidian)
+- [ZLint](https://github.com/zmap/zlint) - X.509 Certificate Linter focused on Web PKI standards and requirements.
+- [Exploiting the Qualcomm NPU (neural processing unit) kernel driver (2021)](https://securitylab.github.com/research/qualcomm_npu/)
+- [In-House CA](https://github.com/paurkedal/inhca) - Simple online X.509 certificate authority.
+- [Caido](https://caido.io/) - Lightweight Web Security Auditing Toolkit.
+- [Personal Zero-Trust HashiCorp Vault](https://github.com/eidam/personal-zero-trust-hashicorp-vault) ([Tweet](https://twitter.com/adam_janis/status/1463591750069538818))
+- [extrude](https://github.com/liamg/extrude) - Scan binaries for missing security features, information disclosure and more.
+- [Barbican](https://github.com/openstack/barbican) - ReST API designed for the secure storage, provisioning and management of secrets, including in OpenStack environments.
+- [Cryptr](https://github.com/adobe/cryptr) - GUI for Hashicorp's Vault.
+- [Cloud Service Provider security mistakes](https://github.com/SummitRoute/csp_security_mistakes)
+- [ACMEd](https://github.com/breard-r/acmed) - ACME (RFC 8555) client daemon. Allows to automate X.509 certificates signing by a Certification Authority (CA).
+- [A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution (2021)](https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html) ([HN](https://news.ycombinator.com/item?id=29568625))
+- [Cache Poisoning at Scale (2021)](https://youst.in/posts/cache-poisoning-at-scale/)
+- [acmetool](https://github.com/hlandau/acmetool) - Automatic certificate acquisition tool for ACME (Let's Encrypt).
+- [My Infosec Awesome](https://github.com/pe3zx/my-infosec-awesome) - Curated list of awesome links, resources and tools on infosec related topics.
+- [HubbleStack](https://github.com/hubblestack/hubble) - Modular, open-source security compliance framework.
+- [Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
+- [objection](https://github.com/sensepost/objection) - Runtime Mobile Exploration.
+- [Inspektor](https://github.com/poonai/inspektor) - Access control layer for all your data sources. It act as gaurdian and enforces access polices to all your data sources. ([Lobsters](https://lobste.rs/s/bpw4hd/github_poonai_inspektor_centralized))
+- [wholeaked](https://github.com/utkusen/wholeaked) - File-sharing tool that allows you to find the responsible person in case of a leakage.
+- [Perfect Blue's CTF Writeups](https://github.com/perfectblue/ctf-writeups)
+- [Awesome Real-time Communications hacking & pentesting resources](https://github.com/EnableSecurity/awesome-rtc-hacking)
+- [Splunk Security Content](https://github.com/splunk/security_content)
+- [Collection of macOS and iOS security resources.](https://github.com/kai5263499/osx-security-awesome)
+- [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening)
+- [SentryPeer](https://github.com/SentryPeer/SentryPeer) - Distributed list of bad actor IP addresses and phone numbers collected via a SIP Honeypot. ([Web](https://sentrypeer.org/)) ([HN](https://news.ycombinator.com/item?id=30220208))
+- [Witness](https://github.com/testifysec/witness) - Pluggable framework for software supply chain security.
+- [Top 10 web hacking techniques of 2021](https://portswigger.net/research/top-10-web-hacking-techniques-of-2021) ([HN](https://news.ycombinator.com/item?id=30284022))
+- [Awesome Executable Packing](https://github.com/dhondta/awesome-executable-packing)
+- [Secman](https://secman.dev/) - Human-friendly and amazing secrets manager. ([GitHub](https://github.com/scmn-dev))
+- [My password sharing mini-project (2022)](https://herman.bearblog.dev/thinking-about-passwords/) ([HN](https://news.ycombinator.com/item?id=30320694))
+- [Never use text pixelation to redact sensitive information (2022)](https://bishopfox.com/blog/unredacter-tool-never-pixelation) ([HN](https://news.ycombinator.com/item?id=30350626)) ([Code](https://github.com/BishopFox/unredacter))
+- [Almost every publicly available CVE PoC](https://github.com/trickest/cve)
+- [Threat Modeling: A Practical Guide for Development Teams Book](https://www.oreilly.com/library/view/threat-modeling/9781492056546/)
+- [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything)
+- [Exploring content of X.509 certificates](https://relational-pipes.globalcode.info/v_0/examples-asn1-x509.xhtml)
+- [Medusa](https://github.com/jonasvinther/medusa) - CLI tool for importing and exporting Hashicorp Vault secrets.
+- [Security for package maintainers (2022)](https://sethmlarson.dev/blog/security-for-package-maintainers) ([Lobsters](https://lobste.rs/s/dcgzcw/security_for_package_maintainers))
+- [Awesome Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) - Asset Discovery is the initial phase of any security assessment engagement, be it offensive or defensive.
+- [NSA Network Infrastructure Security Guidance](https://media.defense.gov/2022/Mar/01/2002947139/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDANCE_20220301.PDF) ([HN](https://news.ycombinator.com/item?id=30573749))
+- [Who's Attacking My Server? (2022)](https://bastian.rieck.me/blog/posts/2022/server/) ([HN](https://news.ycombinator.com/item?id=30661852))
+- [Keyhouse](https://github.com/bytedance/keyhouse) - Skeleton of general-purpose Key Management System written in Rust.
+- [Pouch](https://github.com/sunshinejr/Pouch) - Secret management tool written in Swift.
+- [bom (Bill of Materials)](https://github.com/kubernetes-sigs/bom) - Create SPDX-compliant Bill of Materials.
+- [OSSF Security Tooling](https://github.com/ossf/wg-security-tooling)
+- [EnvKey](https://www.envkey.com/) - End-To-End Encrypted Environments. ([Code](https://github.com/envkey/envkey))
+- [How we secure Monzo’s banking platform (2022)](https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform) ([HN](https://news.ycombinator.com/item?id=30876527))
+- [relic](https://github.com/sassoftware/relic) - Multi-tool and server for package signing and working with hardware security modules (HSMs).
+- [Trickest](https://trickest.com/) - Workflow-powered solution for Bug Bounty, Pentesting, SecOps.
+- [Secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
+- [Dotenv Vault](https://github.com/dotenv-org/dotenv-vault) - Securely syncs secrets and app configuration across your machines, environments, and team members.
+- [Starbase](https://github.com/JupiterOne/starbase) - Graph-based security analysis for everyone.
+- [Random Mosaic – Detecting unauthorized physical access with beans, lentils and colored rice (2021)](https://dys2p.com/en/2021-12-tamper-evident-protection.html)
+- [HackerOne](https://www.hackerone.com/) - Hacker-Powered Security, Bug Bounties, and Pentests. ([Go Client](https://github.com/liamg/hackerone))
+- [Grapl](https://www.graplsecurity.com/) - Graph platform for Detection and Response. ([Code](https://github.com/grapl-security/grapl))
+- [PARSEC](https://github.com/parallaxsecond/parsec) - Open-source initiative to provide a common API to hardware security and cryptographic services in a platform-agnostic way.
+- [SecurityZines](https://securityzines.com/)
+- [Fugue](https://www.fugue.co/) - Cloud Infrastructure Security & Compliance from Code to Runtime. ([GitHub](https://github.com/fugue))
+- [Curiefense](https://github.com/curiefense/curiefense) - Unified, open source platform protecting cloud native applications.
+- [amber](https://github.com/fpco/amber) - Manage secret values in-repo via public key cryptography.
+- [secrets](https://github.com/sirwart/secrets) - Command-line tool to prevent committing secret keys into your source code.
+- [Certify](https://github.com/johanbrandhorst/certify) - Automatic client and server certificate distribution and maintenance.
+- [IOTA Stronghold](https://github.com/iotaledger/stronghold.rs) - Secret management engine written in rust.
+- [Package Analysis](https://github.com/ossf/package-analysis) - Components to aid in the analysis of open source packages, in particular to look for malicious software.
+- [Teller](https://tlr.dev/) - Secrets management tool for developers built in Go - never leave your command line for secrets. ([Code](https://github.com/SpectralOps/teller))
+- [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security)
+- [Awesome Cyber Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
+- [Awesome Application Security Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist)
+- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
+- [Session](https://getsession.org/) - Onion routing based messenger. ([Code](https://github.com/oxen-io/session-desktop))
+- [Software Supply-Chain Security Reading List](https://github.com/chainguard-dev/ssc-reading-list)
+- [Publications from Trail of Bits](https://github.com/trailofbits/publications)
+- [Awesome Secure Computation](https://github.com/Jamie-Cui/awesome-secure-computation) - Paper summary for cryptography-based secure computation papers.
+- [Project Zero](https://googleprojectzero.blogspot.com/) - Team of security researchers at Google who study zero-day vulnerabilities in the hardware and software systems. ([Docs and Tools](https://github.com/googleprojectzero/p0tools))
+- [Hertzbleed Attack](https://www.hertzbleed.com/) - New family of side-channel attacks: frequency side channels. ([HN](https://news.ycombinator.com/item?id=31743110)) ([Code](https://github.com/FPSG-UIUC/hertzbleed))

@@ -1,0 +1,635 @@
+# Other things I find interesting
+
+Here are some _other_ things that I find interesting that don't have a category or I can't think of a category for them.
+
+## General resources
+
+- [Todd Davies's uni notes](https://todddavies.co.uk/#Notes)
+- [Various things to learn](https://github.com/gyuho/learn)
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. ([HN](https://news.ycombinator.com/item?id=27643054))
+- [ChALkeR's notes](https://github.com/ChALkeR/notes)
+
+## Music instruments
+
+- [Theremin](http://en.wikipedia.org/wiki/Theremin)
+  - [Carolina Eyck - Painting for theremin and voice](https://www.youtube.com/watch?v=hGo2ZQuBJKQ)
+
+## Cute
+
+- [Qwest?](https://imgur.com/gallery/L4gtu0o)
+
+## Nice music clips
+
+- [Mujuice - Время](https://www.youtube.com/watch?v=Ly04np1yOYE)
+- [Ólafur Arnalds, Josin - The Bottom Line](https://www.youtube.com/watch?v=2uPnDp-O6pI)
+
+## Notes
+
+- Specify a pick point for delivery if I won't be home during the delivery time.
+- [The profile picture is the logo for your Twitter brand. Pick a unique picture that's recognizable from a distance, and don't change it. It'll stand out in a pile of mentions and allow busy accounts to notice and remember you.](https://twitter.com/naval/status/1062020468725571584)
+- Wrap Google queries with complex chars in `""`. i.e. google for `"set -x" zsh` instead of `set -x zsh`.
+- [Bad-faith behavior by a _single person_ can seriously drain gumption.](https://twitter.com/andy_matuschak/status/1378762483440050177)
+- [It is difficult to get a person to understand something, when their salary depends on their not understanding it.](https://twitter.com/awilkinson/status/1381620877146562568)
+- [When your existence outside the workplace is devoid of meaning, you’ll confuse your place of work with your entire life.](https://twitter.com/dvassallo/status/1386831102359179264)
+- Play stupid games win stupid prizes.
+- [Social consensus is not the same thing as truth.](https://twitter.com/balajis/status/1398245943128956936)
+- [Stop coming to overarching conclusions](https://twitter.com/tszzl/status/1445163212572401674)
+- [Girls just want one thing and it’s a home surrounded by nature with giant open windows and a backyard full of trees and japanese style seating arrangements and and in home-library and babies to read books to and it’s disgusting.](https://twitter.com/rawmilkhoney/status/1451728076203651077)
+- [I love how being an adult is just saying "But after this week things will slow down a bit again" to yourself until you die](https://twitter.com/kramski/status/1148338745600598016)
+- [Don’t fight the system. Use the system to change the system.](http://www.federicopereiro.com/system/)
+- ["If there is a God, he will have to beg for my forgiveness." - A phrase carved into a concentration camp cell by a Jewish Prisoner](https://twitter.com/apmassaro3/status/1495872953766010883)
+- [Hope never stopped tragedy from happening. Hope is just something we kid ourselves with because we’re scared and we don’t want to see what is right in front of our eyes.](https://twitter.com/apmassaro3/status/1495872953766010883)
+- [There’s nothing in the world more powerful than a good story. Nothing can stop it. No enemy can defeat it.](https://twitter.com/hardmaru/status/1499935502937505792)
+- [It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.](https://www.reddit.com/r/Economics/comments/toozub/perspective_russia_is_threatening_a_move_that/)
+- [Never overestimate a man who underestimates himself](https://twitter.com/ryancohen/status/1478144538757808138)
+
+## Other
+
+- [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
+- [Hashicorp principles](https://www.hashicorp.com/our-principles)
+- [Minimums](http://minimums.com/) - Interesting possessions of interesting people.
+- [The Atlas](https://www.theatlas.com/) - Search charts.
+- [SV Dictionary](http://svdictionary.com/)
+- [Ask HN: What's the best documentation you've ever read?](https://news.ycombinator.com/item?id=17399340)
+- [1Password for Open Source Projects](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project.
+- [Awesome answers](https://github.com/cyberglot/awesome-answers)
+- [Upspin](https://github.com/upspin/upspin)
+  - [The Upspin manifesto: On the ownership and sharing of data](https://commandcenter.blogspot.nl/2017/10/the-upspin-manifesto-on-ownership-and.html)
+  - [Rob Pike's talk on it](https://www.youtube.com/watch?v=H74R1eNsAHY)
+- [Casper](https://casper.com/) - Seems like a good mattress.
+- [What are your hobbies?](https://lobste.rs/s/fx3enz/what_are_your_hobbies)
+- [Ask HN: What did you learn the hard way?](https://news.ycombinator.com/item?id=18132736)
+- [Svelte](https://hn.svelte.technology/top/1) - Neat HN implementation in Svelte tech.
+- [console.love](https://www.console.love/) - Collection of funny, quirky and lovely console messages from around the web.
+- [Open MCT](https://github.com/nasa/openmct) - Web based mission control framework.
+- [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - Wysiwyg editor built using ReactJS and DraftJS libraries.
+- [Aminal](https://github.com/liamg/aminal) - Golang terminal emulator from scratch.
+- [Ask HN: What are your “brain hacks” that help you manage every day situations? (2018)](https://news.ycombinator.com/item?id=18588727)
+- [Kialo](https://www.kialo.com/) - Easy to use, yet powerful tool to engage in thoughtful discussion, understand different points of view, and help with collaborative decision-making.
+- [WikiExtractor](https://github.com/attardi/wikiextractor) - Tool for extracting plain text from Wikipedia dumps.
+- [Ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal.
+- [Ask HN: Where should I start as a 34-year-old switching to software as a career? (2019)](https://news.ycombinator.com/item?id=19343521)
+- [Documentation for being an Artsy Engineer](https://github.com/artsy/README)
+- [Cai & Jo](https://caiandjo.com/) - Premium paper goods brand.
+- [Laws, Theories, Principles and Patterns that developers will find useful](https://github.com/dwmkerr/hacker-laws)
+- [Glitch](https://glitch.com/) - Friendly community where everyone can discover and create the best stuff on the web.
+- [YLD](https://www.yld.io/) - We help our clients move from a culture of delivery to a culture of learning through our expertise in software engineering, design, training and open-source.
+- [Internet of Humans Project](https://edgeryders.eu/c/ioh) - Quest to understand how we the people, who contribute towards building the evolution of the Internet and our digital technologies, actively build a better future against a backdrop of massive social, economic, ecological and political challenges.
+- [Calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework.
+- [David Stainton's reading lists](https://github.com/david415/reading_lists)
+- [Notion Community](https://www.notion.so/Notion-Community-04f306fbf59a413fae15f42e2a1ab029)
+- [Python wrapper for Wikipedia](https://github.com/martin-majlis/Wikipedia-API)
+- [Code samples from Eli Bendersky's blog](https://github.com/eliben/code-for-blog)
+- [Awesome Developer Relations resources](https://github.com/devrelcollective/awesome-devrel)
+- [VeoLuz](https://github.com/jaredly/veoluz) - Visualize the paths of millions of light rays through reflection, refraction and diffusion.
+- [Historical Memos](https://sriramk.com/memos)
+- [A letter from your future colleague, Alex](https://www.reaktor.com/blog/a-letter-from-your-future-colleague-alex/)
+- [Killed by Google](https://killedbygoogle.com/) ([Code](https://github.com/codyogden/killedbygoogle))
+- [Dominik's moving dots animation-generator](https://dominik.ws/art/movingdots/)
+- [My Personal Linklog (2019)](http://msaavedra.com/posts/my-personal-linklog/)
+- [Lobsters: What's your notebook setup like? (2019)](https://lobste.rs/s/rcaj6p/what_s_your_notebook_setup_like)
+- [All time most upvoted posts on HN](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=&sort=byPopularity&type=story)
+- [Curated list for when naming things is done right](https://github.com/gruhn/awesome-naming)
+- [Effortless Customer Support (2019)](https://missiveapp.com/blog/effortless-customer-support)
+- [Tinode Instant Messaging Server](https://github.com/tinode/chat) - Backend in Go; iOS, Android, web, command line clients; chatbots.
+- [Markdeep](https://casual-effects.com/markdeep/) - Technology for writing plain text documents that will look good in any web browser, whether local or remote.
+- [A/B Street](https://github.com/dabreegster/abstreet) - Traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers. ([HN](https://news.ycombinator.com/item?id=21763636))
+- [ImTui](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface.
+- [22120](https://github.com/dosyago/22120) - Archivist browser controller that caches everything you browse, a library server with full text search to serve your archive.
+- [Find yourself a hobby](http://findyourselfahobby.com/) ([HN](https://news.ycombinator.com/item?id=21877900))
+- [Avataaars generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars.
+- [Awesome CSV](https://github.com/secretGeek/AwesomeCSV)
+- [Guide To Using Reverse Image Search For Investigations (2019)](https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/)
+- [The “No Code” Delusion (2020)](https://www.alexhudson.com/2020/01/13/the-no-code-delusion/) ([HN](https://news.ycombinator.com/item?id=22033827))
+- [The Hacker Classics](http://jsomers.net/hn/) ([HN](https://news.ycombinator.com/item?id=22004066)) ([Code](https://github.com/jsomers/hacker-classics))
+- [Products I Wish Existed, 2020 Edition](http://blog.eladgil.com/2020/01/products-i-wish-existed-2020-edition.html) ([HN](https://news.ycombinator.com/item?id=21969774))
+- [Amazing Developers On YouTube](https://github.com/ErikCH/DevYouTubeList)
+- [Unofficial Apple Archive](https://www.applearchive.org/) ([HN](https://news.ycombinator.com/item?id=22066177))
+- [Stuff I learnt in 2019](http://bollu.github.io/#stuff-i-learnt-in-2019) ([HN](https://news.ycombinator.com/item?id=21884543))
+- [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) - Free stock photography, video and Illustration websites.
+- [Women Make](https://womenmake.com/) - Community created so we have a place to chat with other women entrepreneurs, help each other out and have fun. ([HN](https://news.ycombinator.com/item?id=22128385))
+- [How To Search Twitter Like a Pro (2020)](https://mailbrew.com/blog/twitter-advanced-search)
+- [Nucoll](https://github.com/jdevoo/nucoll) - Command-line tool written in Go. It can be used to retrieve data from Twitter.
+- [Various tips & tricks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
+- [Over 500 Top PDFs posted to Hacker News in 2019](https://getpolarized.io/2020/01/19/over-500-top-pdf-posted-to-hacker-news-2019.html)
+- [Collection of essays and papers I find to be interesting](https://github.com/dmvaldman/library)
+- [SpiderFoot](https://github.com/smicallef/spiderfoot) - Most complete OSINT collection and reconnaissance tool.
+- [Best of 2019 in Tech Talks (2020)](https://medium.com/@copyconstruct/best-of-2019-in-tech-talks-bac697c3ee13)
+- [FOSDEM video recordings](https://video.fosdem.org/2020/) - Recordings for other years available too.
+- [tart](https://github.com/jtdaugherty/tart) - Draw ASCII art in the terminal with your mouse.
+- [Shiki](https://github.com/octref/shiki) - Beautiful Syntax Highlighter.
+- [Spotifyd](https://github.com/Spotifyd/spotifyd) - Open source Spotify client running as a UNIX daemon.
+- [Kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
+- [RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
+- [butler-cli](https://github.com/benawad/butler-cli) - Prettier for File Structures.
+- [matterbridge](https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix and more with REST API.
+- [The Law of Conservation of Complexity (1984)](http://nomodes.com/Larry_Tesler_Consulting/Complexity_Law.html) ([HN](https://news.ycombinator.com/item?id=22375331))
+- [Bytepack](https://bytepack.io/) - Helps you package and deliver software products to developers and enterprises.
+- [Broadcaster](https://github.com/encode/broadcaster) - Helps you develop realtime streaming functionality in by providing a simple broadcast API onto a number of different backend services.
+- [Sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer.
+- [Open Standards](http://www.open-std.org/) - Holds a number of web pages for groups producing open standards.
+- [Bit](https://github.com/teambit/bit) - Platform for collaborating on components.
+- [tuf](https://github.com/theupdateframework/tuf) - Framework for securing software update systems.
+- [Collection of hacks and one-off scripts](https://github.com/tomnomnom/hacks)
+- [Cue](https://github.com/cue-lang/cue) - Validate and define text-based and dynamic configuration. ([Web](https://cuelang.org/)) ([Cuetorials](https://cuetorials.com/)) ([Playground](https://cuelang.org/play/)) ([How CUE Wins (2021)](https://blog.cedriccharly.com/post/20210523-how-cue-wins/)) ([HN](https://news.ycombinator.com/item?id=28915655)) ([Tweet](https://twitter.com/mattklein123/status/1508945951192363008))
+- [phonograph](https://github.com/Rich-Harris/phonograph) - Stream large audio files without the dreaded 'DOMException: play() can only be initiated by a user gesture' error.
+- [Source code to all the tutorials on emulator101.com](https://github.com/kpmiller/emulator101)
+- [Loss functions for image segmentation](https://github.com/JunMa11/SegLoss)
+- [DataWig](https://github.com/awslabs/datawig) - Learns Machine Learning models to impute missing values in tables.
+- [LLDB](https://github.com/DerekSelander/LLDB) - Collection of LLDB aliases/regexes and Python scripts to aid in your debugging sessions.
+- [zeitgeist](https://github.com/daneden/zeitgeist) - Tiny Mac app for keeping an eye on your ZEIT Now deployments.
+- [Project Lovelace](https://projectlovelace.net/) - Bunch of free scientific programming problems.
+- [Utopian developer's manifesto](https://github.com/cristaloleg/awesome-manifesto)
+- [Webcodesk](https://github.com/webcodesk/webcodesk-srv) - Web Application Builder.
+- [Backstage](https://github.com/spotify/backstage) - Open platform for building developer portals. ([Web](https://backstage.io/))
+- [Ask HN: Best Stripe Alternatives? (2020)](https://news.ycombinator.com/item?id=22596082)
+- [Incrementally Correct Personal Websites](https://brianlovin.com/overthought/incrementally-correct-personal-websites)
+- [Mumble](https://github.com/mumble-voip/mumble) - Open-Source, Low Latency, High Quality Voice Chat. ([Web](https://www.mumble.info/)) ([HN](https://news.ycombinator.com/item?id=27648915))
+- [Performous](https://performous.org/) - Open-source music and rhythm game. ([Code](https://github.com/performous/performous))
+- [Next generation Plex Desktop/Embedded Client](https://github.com/plexinc/plex-media-player)
+- [Modern Day Jobs](https://moderndayjobs.com/#home) - 100 modern ways to make money online.
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [HN: Boids](https://news.ycombinator.com/item?id=22709780)
+- [Eric Wastl - Advent of Code: Behind The Scenes (2019)](https://www.youtube.com/watch?v=gibVyxpi-qA)
+- [MapFilterFold](https://mapfilterfold.com/) - Meta book recommendations from Ask Hacker News threads.
+- [Within](https://gowithin.co/) - Leadership community for women in design.
+- [Invenia Labs](https://www.invenia.ca/labs/) ([GitHub](https://github.com/invenia))
+- [WAPI Radio](https://wapi.fm/) - Ephemeral live radio station that will air for only 24 hours.
+- [Awesome Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification)
+- [gray-matter](https://github.com/jonschlinkert/gray-matter) - Parse front-matter from a string or file.
+- [Year of the Meteor](https://desert.glass/)
+- [live-stream-radio](https://github.com/torch2424/live-stream-radio) - 24/7 live stream video radio station CLI / API.
+- [RationalWiki](https://rationalwiki.org/wiki/Main_Page)
+- [Bonhams](https://www.bonhams.com/) - Privately owned international auction house.
+- [Treendly](https://treendly.com/) - Discover and monitor rapidly growing trends. ([HN](https://news.ycombinator.com/item?id=22777397))
+- [Disaster planning for less crazy folk](https://lcamtuf.coredump.cx/prep/)
+- [Culture & Empire - Digital Revolution](https://hintjens.gitbooks.io/culture-empire/content/index.html)
+- [Introduction to Permaculture](https://open.oregonstate.education/permaculture/front-matter/introduction/)
+- [A Pattern Language](http://www.iwritewordsgood.com/apl/set.htm)
+- [Spire](https://github.com/epiccastle/spire) - Pragmatic provisioning using clojure.
+- [StarCharter](https://github.com/dcf21/star-charter) - Command-line tool for producing vector-graphics charts of the night sky in SVG, PDF and PNG formats. ([HN](https://news.ycombinator.com/item?id=22796038))
+- [PushPin](https://github.com/automerge/pushpin) - Collaborative corkboard app.
+- [Photoshop C++ Recipes](https://sonictk.github.io/ps_cpp_recipes/)
+- [Subreddit Finder](https://valohai.com/subreddit-finder/)
+- [zr](https://github.com/jackdoe/zr) - Offline and serverless stackoverflow search with low memory footprint.
+- [Design + Code](https://designcode.io/) - Learn to design & code apps.
+- [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [Two Factor Auth](https://twofactorauth.org/) - List of websites and whether or not they support 2FA. ([Code](https://github.com/2factorauth/twofactorauth))
+- [Another Google-like Go short link service](https://github.com/kellegous/go)
+- [process-viewer](https://github.com/GuillaumeGomez/process-viewer) - Process viewer GUI in rust.
+- [Cowbird](http://cowbird.com/) - Public library of human experience.
+- [Redsand](https://redsand.io/) - Find partners for software projects. ([HN](https://news.ycombinator.com/item?id=22840728))
+- [The illusion of understanding](https://meaningness.com/understanding)
+- [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) ([HN](https://news.ycombinator.com/item?id=16184255))
+- [WhyTheName](https://wiki.debian.org/WhyTheName) ([HN](https://news.ycombinator.com/item?id=22790623))
+- [Heavy Fish Design](http://heavyfishdesign.com/) - JSON-like language for designing and layout of parts for laser cutters or CNC routers. ([Code](https://github.com/dustismo/heavyfishdesign))
+- [Your statement is correct but misses the point](http://nibblestew.blogspot.com/2020/04/your-statement-is-100-correct-but.html) ([HN](https://news.ycombinator.com/item?id=22854475))
+- [CodeCrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
+- [Ask HN: Why did you leave tech industry? (2020)](https://news.ycombinator.com/item?id=22876241)
+- [Kui](https://github.com/IBM/kui) - Hybrid command-line/UI development experience for cloud-native development.
+- [Finding Your Passion as a Developer (2020)](https://blog.saasify.sh/finding-your-passion-as-a-developer/)
+- [Ask HN: What's an unsolved problem in your field? (2020)](https://news.ycombinator.com/item?id=22899131)
+- [Tech Links](https://gist.github.com/cellularmitosis/1f55f9679f064bcff02905acb44ca510)
+- [Ask HN: Why is Bluetooth so unreliable? (2020)](https://news.ycombinator.com/item?id=22904442)
+- [Deriving Compositional Random Generators (2020)](http://www.cse.chalmers.se/~mista/assets/pdf/ifl19.pdf)
+- [Program Sketching with Live Bidirectional Evaluation (2020)](https://arxiv.org/pdf/1911.00583.pdf)
+- [Dissecting Widening: Separating Termination from Information](https://jorgenavas.github.io/papers/isolated-widening-APLAS19.pdf)
+- [DuckDuckGo Instant Answers](https://github.com/duckduckgo/zeroclickinfo-fathead)
+- [JackTrip](https://github.com/jacktrip/jacktrip) - Multi-machine audio network performance over the Internet.
+- [Collection of Quotes](https://wiki.xxiivv.com/site/quotes.html)
+- [Collection of Mirrors](https://wiki.xxiivv.com/site/mirrors.html) - Collection of various notes on topics.
+- [Rules of thumb for a 1x developer (2020)](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html) ([Lobsters](https://lobste.rs/s/yjayyw/rules_thumb_for_1x_developer)) ([HN](https://news.ycombinator.com/item?id=23029489))
+- [GNU poke](http://www.jemarch.net/poke) - Interactive, extensible editor for binary data.
+- [Jeremy Kun's short essays](https://github.com/j2kun/essays)
+- [Healthchecks](https://healthchecks.io/) - Simple and Effective Cron Job Monitoring. ([Code](https://github.com/healthchecks/healthchecks))
+- [Neutralino](https://github.com/neutralinojs/neutralinojs) - Lightweight and portable application development framework. It lets you develop cross-platform applications using JavaScript/TypeScript, HTML and CSS.
+- [Capiche](https://capiche.com/) - Community of people who care about software to do that together.
+- [Ask HN: What are you favorite developer-efficiency protips (2020)](https://news.ycombinator.com/item?id=23118940)
+- [Maker.js](https://maker.js.org/) - JavaScript library for creating and sharing modular line drawings for CNC and laser cutters. ([Code](https://github.com/microsoft/maker.js))
+- [Meta thread of great twitter threads](https://twitter.com/eriktorenberg/status/1250313333707665409)
+- [What’s the most coolest technology you have ever worked on? (2020)](https://lobste.rs/s/4jkef2/what_s_most_coolest_technology_you_have)
+- [Ask HN: How to stop anxiety from too many choices? (2020)](https://news.ycombinator.com/item?id=23131966)
+- [qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code.
+- [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity) - Visualize your HackerNews Activity.
+- [HackerNews Trends](https://showcase.metamate.io/hackernews-trends) - Visualize any topic on Hacker News. ([HN](https://news.ycombinator.com/item?id=23166442))
+- [Uncrate](https://uncrate.com/) - Objects of desire.
+- [Adaptive multiphase flow through porous media](https://harishnarayanan.org/research/porous-flow/)
+- [Academic research of Harish Narayanan](https://harishnarayanan.org/research/)
+- [Horrifying PDF Experiments](https://github.com/osnr/horrifying-pdf-experiments)
+- [The Lonely Work of Moderating Hacker News](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news) ([HN](https://news.ycombinator.com/item?id=20643052)) ([HN 2](https://news.ycombinator.com/item?id=25048415))
+- [HN Dark Mode](https://jgthms.com/hacker-news-dark-mode/) ([Code](https://github.com/jgthms/hacker-news-dark-mode/)) ([HN](https://news.ycombinator.com/item?id=23203347))
+- [How we’ve evolved on-call at Monzo (2020)](https://monzo.com/blog/how-weve-evolved-on-call-at-monzo)
+- [Sci-fi interfaces](https://scifiinterfaces.com/)
+- [Ask HN: Is there still a place for native desktop apps? (2020)](https://news.ycombinator.com/item?id=23211851)
+- [What is a control system anyway? (2020)](https://feltrac.co/control/2020/01/12/simple-control-systems.html) ([HN](https://news.ycombinator.com/item?id=23222019))
+- [Favorite smells](https://twitter.com/rsms/status/1262764905871994881)
+- [Lunchclub](https://lunchclub.ai/) - Smart introductions to relevant people. Curated 1:1 professional connections.
+- [Suggest Subreddit](https://github.com/nikaspran/suggest-subreddit) - Recommend subreddits based on what the user is already subscribed to.
+- [No-Code MVP](https://nocodemvp.com/) - Fast and cost-effective way to build and validate your startup ideas, without any code.
+- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - List of strings which have a high probability of causing issues when used as user-input data. ([HN](https://news.ycombinator.com/item?id=23291458))
+- [Tiny Bluetooth LE Library](https://github.com/intel-iot-devkit/tinyb)
+- [Makerpad Community](https://community.makerpad.co/c/introductions)
+- [EnterpriseReady SaaS Feature Guides](https://www.enterpriseready.io/#)
+- [Solutioning for technological resilience](http://wileywiggins.com/merveilles.html)
+- [Stylus](https://github.com/mmastrac/stylus) - Lightweight status page for home infrastructure.
+- [libtakeover](https://github.com/tihmstar/libtakeover) - Call functions in a remote process using Mach API.
+- [Duc](https://github.com/zevv/duc) - Collection of tools for indexing, inspecting and visualizing disk usage.
+- [July](https://july.ac/) - Modern A/C.
+- [Best Free Things](https://github.com/PullJosh/best-free-things)
+- [kube-plex](https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster.
+- [Foundation](https://withfoundation.com/) - Using the power of the internet and crypto to bring totally new revenue streams and forms of ownership to art, design, and any creative output.
+- [Collection of awesome resources for geeks and software crafters](https://github.com/MorganGeek/bookmarks)
+- [Jason Orendorff's talks](https://github.com/jorendorff/talks)
+- [How to Make Google Docs Look Like Dropbox Paper (2019)](https://medium.com/s/story/how-to-make-google-docs-look-like-dropbox-paper-787dff91fd2f)
+- [Simplifier](https://simplifier.neocities.org/) ([HN](https://news.ycombinator.com/item?id=23351488))
+- [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - Tool for anonymizing photographs taken at protests. ([Code](https://github.com/everestpipkin/image-scrubber))
+- [The aesthetics of science fiction spaceship design (2010)](https://uwspace.uwaterloo.ca/handle/10012/4935) ([HN](https://news.ycombinator.com/item?id=23379831))
+- [WiFi Card](https://wifi.dev.bdw.to/) - Print a QR code for connecting to your WiFi. ([Code](https://github.com/bndw/wifi-card))
+- [Ask HN: How do I reach making \$1-1.5k/mo in 13 months? (2020)](https://news.ycombinator.com/item?id=23427689)
+- [TinyInst](https://github.com/googleprojectzero/TinyInst) - Lightweight dynamic instrumentation library.
+- [counts](https://github.com/nnethercote/counts) - A tool for ad hoc profiling.
+- [Quantified Self (QS) Ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis.
+- [Youtube MP3 Downloader](https://github.com/ytb2mp3/youtube-mp3-downloader) - Extract music from YouTube videos.
+- [hookshot](https://github.com/brianloveswords/hookshot) - Listen for webhooks, run some tasks.
+- [Most tech content is bullshit (2020)](https://www.aleksandra.codes/tech-content-consumer) ([HN](https://news.ycombinator.com/item?id=23448489)) ([Lobsters](https://lobste.rs/s/ykpwro/most_tech_content_is_bullshit))
+- [Universally Unique Lexicographically Sortable Identifier spec](https://github.com/ulid/spec)
+- [Shairplay](https://github.com/juhovh/shairplay) - Apple airplay and raop protocol server.
+- [gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive (curl/wget fails because of the security notice).
+- [Basecamp Policies, Terms, and Legal Stuff](https://basecamp.com/about/policies) ([Code](https://github.com/basecamp/policies))
+- [skill-tree](https://github.com/nikomatsakis/skill-tree) - Tool for rendering "skill trees", currently using graphviz.
+- [unFTP](https://github.com/bolcom/unFTP) - FTP(S) server with a couple of twists written in Rust.
+- [Zenoh](http://zenoh.io/) - Zero Overhead, Pub/Sub, Store, Query, and Compute Protocol. ([Code](https://github.com/eclipse-zenoh/zenoh))
+- [Replicache](https://replicache.dev/) - Easy Offline-First for Existing Applications. ([Code](https://github.com/rocicorp/replicache)) ([Design](https://github.com/rocicorp/replicache/blob/master/design.md)) ([Tweet](https://twitter.com/replicache/status/1359690468892626944)) ([Tweet](https://twitter.com/dpeeky/status/1451701841847222273)) ([Tweet](https://twitter.com/aboodman/status/1410441402366922762))
+- [Engineering Ladders](https://github.com/bmoeskau/engineering-ladders) - Collection of engineering ladders for reference and inspiration.
+- [Practical tips that can help you be evaluated more fairly during performance review (2018)](https://twitter.com/mekkaokereke/status/1027552459873378304)
+- [Tonari](https://tonari.no/) - Open doorway to another place, enabling you to be together and communicate naturally, just like you're really there. ([GitHub](https://github.com/tonarino))
+- [Show HN: What did you make during lockdown? (2020)](https://news.ycombinator.com/item?id=23592788)
+- [Why do we see illusions? - Mark Changizi (2013)](https://www.youtube.com/watch?v=1xcvWSeZPbw)
+- [AutoEQ](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses.
+- [Important things to do better at work](https://twitter.com/_dte/status/1274806242712616962)
+- [Cameo](https://www.cameo.com/) - Get personalized messages from your favorite celebrities. ([HN](https://news.ycombinator.com/item?id=23603679))
+- [Some links](https://travmaturg.github.io/links/misc.html)
+- [Posters, drawings on programming](https://github.com/corkami/pics)
+- [Louis Pilfold's learning repo](https://github.com/lpil/learning)
+- [List of online communities to find programming partners](https://twitter.com/jsjoeio/status/1276911919845310465)
+- [clasp](https://github.com/google/clasp) - Develop Apps Script projects locally using clasp (Command Line Apps Script Projects).
+- [Unim.Press](https://unim.press/) - Reddit front-page reader in the style of The New York Times. ([HN](https://news.ycombinator.com/item?id=23658721)) ([Code](https://github.com/thesephist/unim.press))
+- [Tiny Apps](https://tinyapps.org/) - Aging catalog of tiny, well-made software.
+- [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/) ([HN](https://news.ycombinator.com/item?id=23730865))
+- [Visuals of Earth](https://visualsofearth.com/) - Gorgeous, minimal mobile wallpapers. ([Wallpapers](https://visualsofearth.com/wallpapers/))
+- [Creating My Own Personal Micropub Client (2020)](https://www.jvt.me/posts/2020/06/28/personal-micropub-client/)
+- [The Frink is Good, the Unit is Evil (2020)](https://www.hillelwayne.com/post/frink/) ([Lobsters](https://lobste.rs/s/1awrik/frink_is_good_unit_is_evil))
+- [Do not remain nameless to yourself (1966)](https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/) ([HN](https://news.ycombinator.com/item?id=23808400))
+- [Ask HN: Concepts the modern tech industry falsely believes it invented? (2020)](https://news.ycombinator.com/item?id=23814645)
+- [Refined Hacker News extension](https://github.com/plibither8/refined-hacker-news) - Interface tweaks and features to make the HN experience better. ([HN](https://news.ycombinator.com/item?id=23804469))
+- [Getting Started with Core Bluetooth (2020)](https://ditto.live/blog/posts/getting-started-with-core-bluetooth)
+- [E.gg](https://e.gg/) - Creative app.
+- [NASA Systems Engineering Handbook](https://www.nasa.gov/connect/ebooks/nasa-systems-engineering-handbook)
+- [Storj](https://storj.io/) - Decentralized Cloud Storage. ([Code](https://github.com/storj/storj)) ([Website Code](https://github.com/storj/storj.io))
+- [Block Party](https://www.blockpartyapp.com/) - Consumer app to solve online harassment and put you back in control.
+- [Product Club](https://chalkapp.com/productclub) - Community for product people and investors.
+- [Anduril](https://www.anduril.com/)
+- [HN: Del.icio.us (2020)](https://news.ycombinator.com/item?id=23984503)
+- [Point](https://www.point.app/) - Do it all debit card.
+- [Screenshot Essays](https://www.screenshotessays.com/) - All that's fit to print on a single iPhone screenshot.
+- [Tales of the Autistic Developer - Senior Developer (2020)](https://dev.to/baweaver/tales-of-the-autistic-developer-senior-developer-3l0c) ([Lobsters](https://lobste.rs/s/jtupzd/tales_autistic_developer_senior))
+- [Friendly ambitious nerd](https://gumroad.com/l/friendlynerdbook) - Collection of essays, blogposts and twitter threads by @visakanv.
+- [I could do that in a weekend!](https://danluu.com/sounds-easy/)
+- [locals](https://locals.com/) - Build your community. Control your destiny. Make money from subscriptions. Own your data. Leverage your network.
+- [Webflow University](https://university.webflow.com/) - Learn web design with free video courses and tutorials.
+- [The Math of Card Shuffling (2018)](https://fredhohman.com/card-shuffling/) ([HN](https://news.ycombinator.com/item?id=24069999))
+- [Gen Z Mafia](https://genzmafia.com/) - Community of young builders. We make new experiences.
+- [What Hacker News says Extension](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're browsing. ([HN](https://news.ycombinator.com/item?id=24048786))
+- [Reddit Today’s Top Communities](https://www.reddit.com/subreddits/leaderboard/)
+- [TwikTwok](https://twiktwok.github.io/) - Twitter x TikTok. ([HN](https://news.ycombinator.com/item?id=24096328))
+- [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step) ([HN](https://news.ycombinator.com/item?id=18360847))
+- [Unveil](https://github.com/sheshbabu/unveil) - Simple feature flag service written using ActixWeb, SQLx and React.
+- [Arcan](https://github.com/letoram/arcan) - Powerful development framework for creating virtually anything from user interfaces for specialized embedded applications all the way to full-blown standalone desktop environments.
+- [Open Standards Are Simple](https://portal.mozz.us/gemini/ebc.li/posts/open-standards-are-simple.gmi) ([Lobsters](https://lobste.rs/s/byslqk/open_standards_are_simple))
+- [100+ No Code Resources](https://trello.com/b/A4OmiAWb/100-no-code-resources)
+- [Mystery of superior Leeuwenhoek microscope solved after 350 years (2018)](https://phys.org/news/2018-03-mystery-superior-leeuwenhoek-microscope-years.html) ([HN](https://news.ycombinator.com/item?id=24171536))
+- [Picking Locks with Audio Technology (2020)](https://cacm.acm.org/news/246744-picking-locks-with-audio-technology/fulltext) ([HN](https://news.ycombinator.com/item?id=24172385))
+- [Opus Audio Codec – FAQ](https://wiki.xiph.org/index.php?title=OpusFAQ) ([HN](https://news.ycombinator.com/item?id=24173285))
+- [Wavey](https://hector.me/wavey) - Set of vibrant wallpapers.
+- [Handmade Community](https://handmade.network/home) - Community for Self-Rolled Performant Software. ([Manifesto](https://handmade.network/manifesto)) ([HN](https://news.ycombinator.com/item?id=24184688))
+- [Speeding up development: a collection of tips](https://www.avanderlee.com/optimization/speeding-up-development-a-collection-of-tips/)
+- [Juanito Fatas's Fragments](https://juanitofatas.com/fragments)
+- [SoftwareIdeas](https://www.softwareideas.io/) - Hand-picked, validated SaaS ideas delivered straight to your inbox.
+- [The Map of Control Theory](https://www.redbubble.com/shop/ap/55089837)
+- [An Ecology of Mind](http://www.anecologyofmind.com/thefilm.html) ([HN](https://news.ycombinator.com/item?id=24184414))
+- [Diversify Tech](https://www.diversifytech.co/) - Collection of resources for underrepresented people in tech.
+- [Tildes](https://gitlab.com/tildes/tildes) - Non-profit community site. ([Web](https://tildes.net/))
+- [Jam](https://jam.dev/) - Comment and react directly on the pages of your product.
+- [Partitions](https://www.partitions.io/) - Threaded group chat, for the software industry.
+- [SecureDrop](https://securedrop.org/) - Share and accept documents securely.
+- [Fakepixels](https://fakepixels.com/) ([Newsletter](https://fakepixels.substack.com/))
+- [BKYD](http://bkyd.community/) - Kickstart Any Side Project.
+- [The Violet Society](https://www.thevioletsociety.com/) - Technology Peer Mentorship.
+- [Cuppa](https://www.getcuppa.io/) - 1-1 virtual coffees with top tech talent sourced from Twitter. ([HN](https://news.ycombinator.com/item?id=24244721))
+- [Patrick Collison's Questions](https://patrickcollison.com/questions) ([HN](https://news.ycombinator.com/item?id=24256676))
+- [Glowing Bear](https://www.glowing-bear.org/) - WeeChat web frontend.
+- [Nord Themes](https://www.nordtheme.com/) - Arctic, north-bluish color palette.
+- [K-Stash](https://k-stash.com/) - Search engine for your useful links – for devs and researchers. ([HN](https://news.ycombinator.com/item?id=24314403))
+- [tilde.town](https://tilde.town/) - Intentional digital community for making art, socializing, and learning. ([HN](https://news.ycombinator.com/item?id=31375646))
+- [press play to pause your thoughts](https://pressplaytopauseyourthoughts.com/)
+- [Recess](https://takearecess.com/) - Help people feel calm, focused, and creative despite the world around them.
+- [Big Desk Energy](https://www.bigdeskenergy.com/)
+- [Most-favorited Hacker News posts](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis) ([HN](https://news.ycombinator.com/item?id=24351073))
+- [Tiny Factories](https://tinyfactories.space/) - Tribe of indie makers helping each other to ship products.
+- [Ask HN: What is your favorite motto? (2020)](https://news.ycombinator.com/item?id=24436135)
+- [Ask HN: How are online communities established? (2020)](https://news.ycombinator.com/item?id=24442569)
+- [SVALT Cooling Dock for macbooks](https://svalt.com/products/cooling-dock)
+- [Rumin](https://getrumin.com/) - Mind map for online learning resources.
+- [Makani](https://github.com/google/makani) - Project to develop a commercial-scale airborne wind turbine. ([HN](https://news.ycombinator.com/item?id=24456613))
+- [Area 120 by Google](https://area120.google.com/) - Google’s in-house incubator.
+- [Biohack Stack](https://biohackstack.com/) - Discover the daily regimens of the most notable biohackers, scientists, athletes, entrepreneurs, and more.
+- [IndieHackers TV](https://indiehackers.tv/)
+- [A Few Rules](https://www.collaborativefund.com/blog/a-few-rules/) ([HN](https://news.ycombinator.com/item?id=24583109))
+- [How to Get Promoted (2020)](https://defmacro.substack.com/p/how-to-get-promoted) ([HN](https://news.ycombinator.com/item?id=24618707))
+- [Google Trends](https://trends.google.com/trends/) - Explore what the world is searching.
+- [Big Heads](https://bigheads.io/) - Easily generate avatars for your projects. ([Code](https://github.com/RobertBroersma/bigheads))
+- [What's a rule that was implemented somewhere that massively backfired?](https://twitter.com/TrungTPhan/status/1311300651645767682)
+- [No Code Founders](https://nocodefounders.com/)
+- [TypeLit.io](https://www.typelit.io/) - Practice typing by retyping entire classic novels. ([HN](https://news.ycombinator.com/item?id=24696658))
+- [Hexatope](https://hexatope.io/) - Design your own unique jewellery.
+- [Buy For Life](https://www.buyforlifeproducts.com/) - Find durable and sustainable products that are made to last. ([HN](https://news.ycombinator.com/item?id=24707407))
+- [Calligrapher](https://www.calligrapher.ai/) - Realistic computer-generated handwriting.
+- [Find Guidelines](https://findguidelin.es/) - Fastest way to brand assets.
+- [Celestial](https://github.com/gocelestial/Celestial) - Micropub client for an average user opting in to the IndieWeb.
+- [Perfectly Cut Screams](https://twitter.com/AAAAAGGHHHH)
+- [Neverthink](https://neverthink.tv/) - Watch Memes & Funny Videos.
+- [Sunday Sites](https://sundaysites.cafe/) - Place to write code and socialize. A couple of sundays a month, we meet on Zoom and write HTML for around two hours.
+- [How does a gas pump know to shut itself off? (1981)](https://www.straightdope.com/21341412/how-does-a-gas-pump-know-to-shut-itself-off) ([HN](https://news.ycombinator.com/item?id=24741029))
+- [Hacker News Lists](https://news.ycombinator.com/lists) - Top HN users/threads/..
+- [Fonoster](https://github.com/fonoster/fonoster) - Open Source Twilio Alternative. Engage with your customer with voice or messaging with a single easy-to-use platform. ([Docs](https://fonoster.github.io/fonos/)) ([Web](https://fonoster.com/)) ([HN](https://news.ycombinator.com/item?id=31229642))
+- [Nuclei](https://github.com/projectdiscovery/nuclei) - Fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
+- [hncheck](https://github.com/brandur/hncheck) - Simple app that checks to see if something under one of your domains has been submitted to HN, and emails you if it has. ([Runner](https://github.com/brandur/hncheck-runner))
+- [pure JS WiFi QR Code Generator](https://qifi.org/)
+- [Synapse Wireless](https://www.synapsewireless.com/) - Empowering Intelligent Industrial Facilities.
+- [Markdown Emoji Codes](https://github.com/ikatyang/emoji-cheat-sheet)
+- [Hacker News Day](https://hackernewsday.com/)
+- [What if we had Local-First Software? (2020)](https://adlrocha.substack.com/p/adlrocha-what-if-we-had-local-first) ([HN](https://news.ycombinator.com/item?id=24790170))
+- [100 Rabbits Themes](https://github.com/hundredrabbits/Themes) - Application themes and tools used across the Hundred Rabbits Ecosystem.
+- [Sharkle](https://sharkle.com/) - Generator of random awesomeness.
+- [Diagon](https://arthursonzogni.com/Diagon/) - Interactive ASCII art diagram generators. ([Code](https://github.com/ArthurSonzogni/Diagon)) ([HN](https://news.ycombinator.com/item?id=29635165))
+- [Ask HN: What did you purchase that measurably improved your quality of life? (2020)](https://news.ycombinator.com/item?id=24819254)
+- [critcmp](https://github.com/BurntSushi/critcmp) - Command line tool for comparing benchmarks run by Criterion.
+- [Best of Show HN](https://bestofshowhn.com/)
+- [TreeCard](https://www.treecard.org/) - Wooden debit card that plants trees. ([HN](https://news.ycombinator.com/item?id=25621401))
+- [Moderating a 220k Developer Community (2020)](https://dev.to/swyx/moderating-a-220k-developer-community-3doj)
+- [Mold](https://github.com/rui314/mold) - Modern Linker. ([Lobsters](https://lobste.rs/s/t9gvtg/mold_modern_linker)) ([HN](https://news.ycombinator.com/item?id=26233244))
+- [Stedi](https://stedi.com/) - Build automated EDI solutions that integrate with any business system. ([Twitter](https://twitter.com/stedi)) ([Tweet](https://twitter.com/zackkanter/status/1466509584005144577))
+- [gorush](https://github.com/appleboy/gorush) - Push notification server written in Go.
+- [Lessons from six months at Shopify (2020)](https://alexdanco.com/2020/10/23/six-lessons-from-six-months-at-shopify/) ([HN](https://news.ycombinator.com/item?id=24876665))
+- [itty.bitty.site](http://itty.bitty.site/) - Tool to create links that contain small sites. ([Code](https://github.com/alcor/itty-bitty/))
+- [Sharkle](https://thesharkle.netlify.app/) - Generator of random awesomeness.
+- [Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)](https://github.com/tpn/pdfs)
+- [The Thought Emporium YouTube](https://www.youtube.com/c/thethoughtemporium/videos) - Science channel.
+- [Trustpilot](https://www.trustpilot.com/) - Consumer review website.
+- [Wardley Maps Community Hub](https://github.com/wardley-maps-community/awesome-wardley-maps) - Wardley Mapping is a technique that helps you examine your environment, identify upcoming changes and properly choose your actions.
+- [OnlineWardleyMaps](https://onlinewardleymaps.com/) - Draw Wardley Maps in seconds.
+- [Spotify Export](https://github.com/karlicoss/spotifyexport) - Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON.
+- [Code Explorer](https://code-explorer.bypaulshen.com/) - Exploration of using space and semantics to help us read and understand code.
+- [ix.io](http://ix.io/) - command line pastebin.
+- [Devine's bookmarks](https://wiki.xxiivv.com/site/bookmarks.html)
+- [mandible](https://github.com/Imgur/mandible) - Ready-to-deploy uploader that you can run on AWS EC2 or Heroku. It accepts an image via a REST interface and returns information about a file.
+- [Anya Taylor-Joy: inside my beauty bag (2020)](https://www.youtube.com/watch?v=HjniMU1IgHE)
+- [Paper Computing](https://wiki.xxiivv.com/site/paper_computing.html)
+- [ByteDance](https://www.bytedance.com/en/) ([GitHub](https://github.com/bytedance))
+- [How do Spotify Codes work? (2020)](https://boonepeter.github.io/posts/2020-11-10-spotify-codes/) ([Part 2](https://boonepeter.github.io/posts/spotify-codes-part-2/))
+- [Sharkle](https://showus.netlify.app/) - Generator of random awesomeness.
+- [Vas3k Club](https://vas3k.club/) - No bullshit IT community with private membership. ([Code](https://github.com/vas3k/vas3k.club))
+- [Gossip’s Web](https://gossipsweb.net/) - Link collection. Costs 1\$ to submit link.
+- [Beth Harmon - Alone (2020)](https://www.youtube.com/watch?v=YzeRik5yEBY)
+- [Ask HN: How do you stimulate your creativity on a day like today? (2020)](https://news.ycombinator.com/item?id=25170661)
+- [The Fable of the Dragon-Tyrant story](https://www.nickbostrom.com/fable/dragon.html)
+- [Stack Exchange Data Explorer](https://data.stackexchange.com/)
+- [Desktop environment in the browser](https://x.dustinbrett.com/) ([Code](https://github.com/DustinBrett/x))
+- [Templatemaker](https://www.templatemaker.nl/en/) - Create and download custom sized papercraft and packaging templates.
+- [How to carve spoons](https://oppenlab.net/cr/spoons/)
+- [Inferno](https://github.com/jonhoo/inferno) - Rust port of FlameGraph.
+- [Mirage](https://github.com/RCayre/mirage) - Powerful and modular framework dedicated to the security analysis of wireless communications.
+- [Bytepack](https://github.com/dashbitco/bytepack_archive) - Helps you package and deliver software products to developers and enterprises. ([Shut down announcement](https://twitter.com/josevalim/status/1334549051296112641))
+- [drgn](https://github.com/osandov/drgn) - Scriptable debugger library.
+- [wtf_wikipedia](https://github.com/spencermountain/wtf_wikipedia) - Parse data from wikipedia.
+- [Wikipedia is in some trouble (2019)](http://blog.spencermounta.in/2019/wikipedias-in-trouble/index.html)
+- [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
+- [STORROR](https://www.storror.com/) - Pro parkour team. ([Twitter](https://twitter.com/StorrorParkour))
+- [Billionaires Build (2020)](http://paulgraham.com/ace.html) ([HN](https://news.ycombinator.com/item?id=25302527))
+- [Are we yet?](https://wiki.mozilla.org/Areweyet) ([HN](https://news.ycombinator.com/item?id=25326401))
+- [ShapeWorks](https://github.com/SCIInstitute/ShapeWorks) - Open-source software that learns population-specific shape parameterization directly from user data. ([Docs](http://sciinstitute.github.io/ShapeWorks/))
+- [Gum Spy](https://gumspy.com/) - Analyze bestselling Gumroad products in seconds.
+- [Lagstack](https://lagstack.com/) - Modern way to sell your expertise, research, and data. Landing page + Airtable + Gumroad = 💜.
+- [OnlyFams](https://www.onlyfams.co/) - Set up a private community for any use case.
+- [Airbnb.org](https://www.airbnb.org/) - Gives grants to nonprofits that connect people to temporary housing, resources, and specialized support in times of crisis.
+- [Awesome Tiny](https://github.com/nijaru/awesome-tiny) - Awesome list for tiny implementations.
+- [No CS Degree](https://www.nocsdegree.com/) - Inspiring stories from developers without CS degrees. ([HN](https://news.ycombinator.com/item?id=25375206))
+- [Herbie](https://herbie.uwplse.org/) - Optimize floating-point expressions for accuracy. ([Code](https://github.com/herbie-fp/herbie)) ([How Herbie Happened](https://pavpanchekha.com/blog/how-herbie.html)) ([Demo](http://herbie.uwplse.org/demo/))
+- [perf-load](https://github.com/dvyukov/perf-load) - What do traditional profilers (like perf and pprof) sample: real time or CPU time?
+- [Programming links](https://github.com/pawroman/links)
+- [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw) ([HN](https://news.ycombinator.com/item?id=25441592))
+- [Carnegie Mellon Textiles Lab](https://textiles-lab.github.io/) ([GitHub](https://github.com/textiles-lab))
+- [Product Wars](https://productwars.phantombuster.com/) - Follow your launch on Product Hunt.
+- [Field of Memes](https://fieldofmemes.com/)
+- [Fathom](https://github.com/yeslogic/fathom) - Declarative data definition language for formally specifying binary data formats.
+- [Things You're Allowed to Do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/) ([HN](https://news.ycombinator.com/item?id=25513713))
+- [Flask-State](https://github.com/yoobool/flask-state) - Display machine state using Python 3 with Flask.
+- [I wired my tree with 500 LED lights and calculated their 3D coordinates (2020)](https://www.youtube.com/watch?v=TvlpIojusBE) ([HN](https://news.ycombinator.com/item?id=25528260)) ([Code](https://github.com/standupmaths/xmastree2020))
+- [TechStack](https://techstack-logos.web.app/) - Easy way to visualize your tech stack as logos. ([Code](https://github.com/erangeles/techstack))
+- [Ask HN: What Lived Up to the Hype? (2020)](https://news.ycombinator.com/item?id=25525457)
+- [Inside the Whale: An Interview with an Anonymous Amazonian (2020)](https://logicmag.io/commons/inside-the-whale-an-interview-with-an-anonymous-amazonian/)
+- [Looking Glass Factory](https://lookingglassfactory.com/) - World's Leading Holographic Display.
+- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) ([HN](https://news.ycombinator.com/item?id=25550685))
+- [Dark Mountain Manifesto](https://dark-mountain.net/)
+- [10 significant lies you're told about the world: On startups, writing, and your career (2021)](https://twitter.com/Julian/status/1348001394104537089)
+- [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS.
+- [Library of Babel](https://libraryofbabel.info/) - Project towards a universal library.
+- [DevDojo](https://devdojo.com/) - Dev Community.
+- [Listen to Wikipedia](http://listen.hatnote.com/) - Live, generative music from Wikipedia edits. ([Code](https://github.com/hatnote/listen-to-wikipedia))
+- [We’re All Preppers Now (2021)](http://www.liveliketheworldisdying.com/2021/01/11/were-all-preppers-now/) ([Tweet](https://merveilles.town/web/statuses/105556647630728276))
+- [Be My Eyes](https://www.bemyeyes.com/) - See the world together. ([HN](https://news.ycombinator.com/item?id=25793163))
+- [Cheat Sheets](https://cheatsheets.xyz/) - Searchable site of hints and tips. ([Code](https://github.com/spences10/cheat-sheets))
+- [Paul Stamatiou: Stuff I use](https://paulstamatiou.com/stuff-i-use/)
+- [checksec.py](https://github.com/Wenzel/checksec.py) - Simple tool to verify the security properties of your binaries. Based on LIEF.
+- [Gnod](https://www.gnod.com/) - Global Network Of Discovery.
+- [Awesome-Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheat sheets for popular programming languages, frameworks and development tools. ([Code](https://github.com/LeCoupa/awesome-cheatsheets))
+- [Josh Comeau's Code Snippets](https://www.joshwcomeau.com/snippets/)
+- [How Simulations Work](https://www.anuncommonlab.com/articles/how-simulations-work/)
+- [DogeHouse](https://dogehouse.tv/) - Home for voice conversations. ([Code](https://github.com/benawad/dogehouse)) ([Video](https://www.youtube.com/watch?v=hy-EhJ_tTQo))
+- [Jam](https://jam.systems/) - Audio space for chatting, brainstorming, debating, jamming, micro-conferences and more. ([HN](https://news.ycombinator.com/item?id=26131123))
+- [LibreTime](https://libretime.org/) - Open source radio automation and broadcasting solution. ([Code](https://github.com/libretime/libretime))
+- [Craigslist](https://craigslist.org/)
+- [Draw an iceberg and see how it will float](https://joshdata.me/iceberger.html) ([Lobsters](https://lobste.rs/s/gqnal1/draw_iceberg_see_how_it_will_float)) ([HN](https://news.ycombinator.com/item?id=26201160))
+- [Awesome status pages](https://github.com/ivbeg/awesome-status-pages)
+- [Call a Dev](https://calladev.com/) - Pay Stack Overflow users $1/min for live programming help. ([HN](https://news.ycombinator.com/item?id=26226805))
+- [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines)
+- [WikiLeaks](https://wikileaks.org/) - Publishes news leaks and classified media provided by anonymous sources.
+- [Open MPI](https://www.open-mpi.org/) - Open Source High Performance Computing. ([Code](https://github.com/open-mpi/ompi))
+- [Plain Text Protocols](https://blainsmith.com/articles/plain-text-protocols/) ([HN](https://news.ycombinator.com/item?id=26263085))
+- [ImportYeti](https://www.importyeti.com/) - Find Quality Suppliers.
+- [Sacra](https://sacra.com/) - Your backchannel to the secondary markets.
+- [Easiest way to make $9,000 every month (2021)](https://twitter.com/ImSamThompson/status/1367557220469211144)
+- [Ask HN: Where does one search development advice these days? (2021)](https://news.ycombinator.com/item?id=25485171)
+- [It's time to build: A New World's Fair (2021)](https://www.cameronwiese.com/blog/worlds-fair) ([HN](https://news.ycombinator.com/item?id=26481373))
+- [Girl Survival Guide Related Subs](https://www.reddit.com/r/TheGirlSurvivalGuide/wiki/index)
+- [Executive Assistant help for CEO (2021)](https://twitter.com/ChristineCarril/status/1378557962667495427)
+- [Grit](https://github.com/climech/grit) - Multitree-based personal task manager.
+- [Glob Editor](https://globs-steveruiz.vercel.app/) - Globs-based vector editor. ([Code](https://github.com/steveruizok/globs))
+- [Awesome Forensics](https://github.com/cugu/awesome-forensics)
+- [DevRel Collective](https://devrelcollective.fun/) - Place forsharing information, resources, and encouragement among the Developer Relations community. ([Code](https://github.com/devrelcollective/devrelcollective.fun))
+- [Awesome DevRel](https://github.com/devrelcollective/awesome-devrel)
+- [Maze Generator in Go in WebAssembly](http://frigidriver.com/mazes/) ([Lobsters](https://lobste.rs/s/kwzuqn/maze_generator_go_webassembly))
+- [flowkit](https://flowkit.vercel.app/) - Simple online flow chart editor. ([Code](https://github.com/egoist/flowkit))
+- [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)
+- [Ask HN: What is your favorite daily-use object? (2021)](https://news.ycombinator.com/item?id=26934770)
+- [AtJSON](https://github.com/CondeNast/atjson) - Living content format for annotating content.
+- [Swimlanes.io](https://swimlanes.io/) - Generated editable sequence diagrams. ([HN](https://news.ycombinator.com/item?id=26956728))
+- [Diagwiz Playground](https://diagwiz.io/playground/) - Diagrams as code. ([Code](https://github.com/kjagiello/diagwiz))
+- [Awesome HN](https://github.com/bminusl/awesome-hackernews) - Curated list of FOSS tools to improve the Hacker News experience.
+- [BenchExec](https://github.com/sosy-lab/benchexec) - Framework for Reliable Benchmarking and Resource Measurement.
+- [How to Map Nothing (2021)](https://placesjournal.org/article/how-to-map-nothing/)
+- [Cognitive Medium](http://cognitivemedium.com/slow) - List of marvellous projects which human beings have undertaken that took an exceptionally long time.
+- [Changes at Basecamp (2021)](https://world.hey.com/jason/changes-at-basecamp-7f32afc5) ([HN](https://news.ycombinator.com/item?id=26944192)) ([HN 2](https://news.ycombinator.com/item?id=26998127)) ([Tweet](https://twitter.com/ItsTheBrandi/status/1388219837097283588))
+- [imagededup](https://github.com/idealo/imagededup) - Python package that simplifies the task of finding exact and near duplicates in an image collection.
+- [readme.so](https://readme.so/) - Simple editor allows you to quickly add and customize all the sections you need for your project's readme. ([Code](https://github.com/katherinepeterson/readme.so))
+- [Ultimate "What Do You Hoard" thread & Wiki link (2021)](https://www.reddit.com/r/DataHoarder/comments/ne6j3s/the_ultimate_what_do_you_hoard_thread_wiki_link/)
+- [Ask HN: Favorite purchases of last two years? (2021)](https://news.ycombinator.com/item?id=27219759)
+- [The Expanse UI Design (2021)](https://www.hudsandguis.com/home/2021/theexpanse) ([HN](https://news.ycombinator.com/item?id=27287912)) ([HN](https://news.ycombinator.com/item?id=27451484))
+- [Beaver](https://github.com/Clivern/Beaver) - Real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
+- [Everyday Experiments](https://everydayexperiments.com/) - Ways to enhance our interactions with space and improve our everyday lives.
+- [Invisible Roommates](https://everydayexperiments.com/invisible-roommates)
+- [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting)
+- [Oh My BackEnd](https://github.com/bzick/oh-my-backend) - Что нужно знать бекенд-разработчику Web приложений.
+- [Discount for Student Dev](https://github.com/AchoArnold/discount-for-student-dev) - List of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students.
+- [Awesome Data Hoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools.
+- [Tech coops list](https://github.com/hng/tech-coops)
+- [Muck Rack](https://muckrack.com/) - Search for journalists, monitor news, and build reports.
+- [Internet in a Box](http://internet-in-a-box.org/) ([HN](https://news.ycombinator.com/item?id=27568332)) ([Code](https://github.com/iiab/iiab))
+- [Mindat.org](https://www.mindat.org/) - Largest open database of minerals, rocks, and meteorites. ([HN](https://news.ycombinator.com/item?id=27575453))
+- [Free Dev Stuff](https://freestuff.dev/) - List of free stuff or services for developer by developer to use. ([Code](https://github.com/hilmanski/freeStuffDev))
+- [diffsitter](https://github.com/afnanenayet/diffsitter) - tree-sitter based AST difftool to get meaningful semantic diffs.
+- [Mystic Symbolic Creature](https://www.mysticsymbolic.art/)
+- [Creative Commons Media](https://github.com/shime/creative-commons-media) - Curated list of resources that provide media licensed under Creative Commons licenses.
+- [PAGNIs: Probably Are Gonna Need Its (2021)](https://simonwillison.net/2021/Jul/1/pagnis/) ([HN](https://news.ycombinator.com/item?id=27703299))
+- [Meetdown](https://meetdown.app/) - Place to join groups of people with shared interests. ([Code](https://github.com/MartinSStewart/meetdown))
+- [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/) ([HN](https://news.ycombinator.com/item?id=27817519))
+- [My serverless, headless, Micropub-powered, personal website (2021)](https://barryfrost.com/2021/07/vibrancy)
+- [A Solarpunk Manifesto](http://www.re-des.org/a-solarpunk-manifesto/) ([HN](https://news.ycombinator.com/item?id=27868913))
+- [The online data that's being deleted (2021)](https://www.bbc.com/future/article/20210715-the-online-data-thats-being-deleted)
+- [Permacomputing](http://viznut.fi/texts-en/permacomputing.html)
+- [Aether](https://aetherdiamonds.com/) - Sustainable Diamonds Made from Air.
+- [Go Play 2](https://github.com/openairplay/goplay2) - Airplay 2 Receiver written in Go.
+- [Aeratron Ceiling Fans](https://aeratron.com/) - World's Most Eco Efficient Fans.
+- [Solar Protocol](https://github.com/alexnathanson/solar-protocol) - System for load balancing and serving content based on photovoltaic logic.
+- [Alternative Front Ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).
+- [World Flag Search](https://mame.github.io/world-flag-search/en/) ([Code](https://github.com/mame/world-flag-search))
+- [Data Secrets Lox](https://www.datasecretslox.com/index.php)
+- [static.wiki](http://static.wiki/) - Read-only Wikipedia using a 43GB SQLite file. ([HN](https://news.ycombinator.com/item?id=28012829)) ([Code](https://github.com/segfall/static-wiki))
+- [We Still Don’t Get Things Done (2021)](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) ([HN](https://news.ycombinator.com/item?id=28010716))
+- [Boltline](https://www.boltline.org/) - Collaborative guidebook for climbers.
+- [OpenSanctions.org](https://github.com/pudo/opensanctions) - Open database of international sanctions data, persons of interest and politically exposed persons.
+- [Few semi-controversial things I believe](https://twitter.com/ShaanVP/status/1364621955647893504)
+- [Overthinking (2021)](https://kerkour.com/blog/overthinking/) ([HN](https://news.ycombinator.com/item?id=28158435))
+- [Well There's Your Problem | Episode 54: Gulf State Vanity Projects (2021)](https://www.youtube.com/watch?v=PW6lg-7L7yk)
+- [Open questions for Bellingcat technical contributors](https://github.com/bellingcat/open-questions) - Difficult, long-term projects that would contribute to open source investigations at Bellingcat and for other investigators around the world.
+- [Gnod](https://www.gnod.com/) - The Global Network Of Discovery.
+- [Thingtesting](https://thingtesting.com/) - Discover and learn more about modern brands. ([Twitter](https://twitter.com/thingtesting_))
+- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) - Traverses hyperlinks on Wikipedia to find the least number of clicks it takes to navigate between any 2 pages. ([Code](https://github.com/jwngr/sdow)) ([HN](https://news.ycombinator.com/item?id=28595821))
+- [Monadium.org](https://monadium.org/) - Help programmers achieve their career goals throughout their entire careers.
+- [The World’s Greatest Freediver](https://www.gq.com/story/freediver-alexey-molchanov-profile) ([HN](https://news.ycombinator.com/item?id=28652367))
+- [The Value of In-House Expertise](https://danluu.com/in-house/) ([HN](https://news.ycombinator.com/item?id=28691676)) ([Lobsters](https://lobste.rs/s/t35wtl/value_house_expertise))
+- [CivBoot: a civilizational bootstrapper](https://github.com/civboot/civboot) ([Tweet](https://merveilles.town/web/statuses/107038809041856242))
+- [Behind the Screens Book](https://jpeguin.gumroad.com/l/jOLcS) - Exploring the app dev journey and app developers' stories.
+- [Primal Survivor](https://www.primalsurvivor.net/) - Practical and sensible prepping advice for all.
+- [FMHYedit Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) ([Code](https://github.com/nbats/FMHYedit))
+- [My Experience with Leverage Research (2021)](https://medium.com/@zoecurzi/my-experience-with-leverage-research-17e96a8e540b) ([Tweet](https://twitter.com/CurziRose/status/1448067915375386628))
+- [Legitimacy Lost (2021)](https://li.substack.com/p/legitimacy-lost) ([Tweet](https://twitter.com/ljin18/status/1449440177190051849))
+- [Thing that everyone in your field knows and nobody in your industry talks about because it would lead to general chaos](https://twitter.com/mykola/status/1198719315589160960)
+- [Beyond Smart (2021)](http://paulgraham.com/smart.html) ([HN](https://news.ycombinator.com/item?id=28947558))
+- [Open secrets about Hacker News (2021)](https://bengtan.com/blog/open-secrets-hacker-news/) ([HN](https://news.ycombinator.com/item?id=29024032))
+- [Friends with Benefits](https://www.fwb.help) - Digital cornerstone between technology and culture communities. ([Twitter](https://twitter.com/fwbtweets))
+- [List of hypothetical technologies - Wikipedia](https://en.wikipedia.org/wiki/List_of_hypothetical_technologies)
+- [Switchyards](https://switchyards.com/) - Neighborhood Work Club. ([Twitter](https://twitter.com/switchyards))
+- [Open Microscopy List](https://github.com/HohlbeinLab/OpenMicroscopy) - List of projects and resources related to open microscopy.
+- [The Staff Engineer's Path Book](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
+- [Track Awesome List](https://www.trackawesomelist.com/) - Track your Favorite Github Awesome Repo.
+- [daily.dev](https://daily.dev/) - Homepage Every Developer Deserves. ([Code](https://github.com/dailydotdev/daily))
+- [Awesome GraphViz](https://github.com/CodeFreezr/awesome-graphviz)
+- [\_why's Estate](https://viewsourcecode.org/why/) ([HN](https://news.ycombinator.com/item?id=29142915))
+- [Beyond Based And Cringe](https://donotresearch.net/posts/beyond-based-and-cringe)
+- [Equinor](https://www.equinor.com/) - Petroleum refining company. ([GitHub](https://github.com/equinor))
+- [Introduction to the Oil and Gas Sector (2015)](https://www.youtube.com/watch?v=k4cVxGndh9g)
+- [My Hacker News knowledge assimilation stack (2021)](https://abishekmuthian.com/my-hacker-news-knowledge-assimilation-stack/) ([HN](https://news.ycombinator.com/item?id=29217485))
+- [The Orwell Foundation](https://www.orwellfoundation.com/)
+- [Любимые цветы](https://twitter.com/elisavetaaaaaaa/status/1460637107790266378)
+- [Slant](https://www.slant.co/) - Product recommendation community. ([Discord](https://discord.com/invite/0dNv9Dc5KvI2cY54))
+- [Sandro's cheat sheet](https://github.com/SuperSandro2000/cheat-sheet)
+- [TuneIn](https://tunein.com/) - Free Internet Radio.
+- [Beliefs about how things are and how they should be (2018)](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md)
+- [EmojiMix](https://tikolu.net/emojimix/) ([HN](https://news.ycombinator.com/item?id=29305546))
+- [HackerNews Toolkit in Rust (CLI/API)](https://github.com/scastiel/hn)
+- [SuperTunnel](https://supertunnel.app/) - Educational tool that simulates a hole through Earth. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/r3xe9g/find_out_whats_on_the_other_side_of_the_world/)) ([Code](https://github.com/vsueiro/supertunnel))
+- [Wikipedia as the data source: taming the irregular (2021)](https://zverok.github.io/blog/2021-11-30-irregular1.html)
+- [Lens Calculator](https://www.jvsg.com/calculators/cctv-lens-calculator/) - Calculate CCTV camera lens focal length, pixel density and camera zones in 3D.
+- [TXQR](https://github.com/divan/txqr) - Transfer data via animated QR codes.
+- [Emoji to Scale](https://javier.xyz/emoji-to-scale/) ([HN](https://news.ycombinator.com/item?id=29425735)) ([Code](https://github.com/javierbyte/emoji-to-scale))
+- [Awesome Hacker News](https://github.com/cheeaun/awesome-hacker-news) ([HN](https://news.ycombinator.com/item?id=29440467))
+- [You Can't Buy Integration (2021)](https://martinfowler.com/articles/cant-buy-integration.html) ([HN](https://news.ycombinator.com/item?id=29478375))
+- [Lexiscore – a nutritional label for food for thought](https://paulbricman.com/thoughtware/lexiscore)
+- [Ask HN: Favorite Thing Built to Last? (2021)](https://news.ycombinator.com/item?id=29510819)
+- [Archive of Our Own](https://archiveofourown.org/) - Fan-created, fan-run, nonprofit, noncommercial archive for transformative fanworks, like fanfiction, fanart, fan videos, and podfic.
+- [meguca](https://github.com/bakape/meguca) - Anonymous realtime imageboard focused on high performance, free speech and transparent moderation.
+- [WaveDrom](https://wavedrom.com/) - Digital timing diagram rendering engine. ([Code](https://github.com/wavedrom/wavedrom))
+- [Ask HN: Did you deliberatively develop any new hobby in recent years? (2021)](https://news.ycombinator.com/item?id=29662464)
+- [Ask HN: Show your failed projects and share a lesson you learned (2021)](https://news.ycombinator.com/item?id=29673707)
+- [Ask HN: Have you found something you love to do? If yes how? (2021)](https://news.ycombinator.com/item?id=29685021)
+- [Practical Markup Language (PML)](https://www.pml-lang.dev/index.html)
+- [The Best Things and Stuff of 2021](http://blog.fogus.me/2021/12/27/the-best-things-and-stuff-of-2021/) ([HN](https://news.ycombinator.com/item?id=29702698))
+- [What are some simple ways you can make yourself more attractive? (2021)](https://www.reddit.com/r/AskMen/comments/rqntta/what_are_some_simple_ways_you_can_make_yourself/)
+- [Ask Hacker News Weekly](https://www.daemonology.net/hn-weekly-ask/)
+- [Ask HN: What’s the most outrageous belief you’re confident is true? (2021)](https://news.ycombinator.com/item?id=29733026)
+- [Ask HN: Favorite/Classic HN threads of all time (2022)](https://news.ycombinator.com/item?id=29759993)
+- [Что сейчас происходит в Афганистане и как мировое сообщество может помочь афганкам?](https://twitter.com/mikaprikamskaya/status/1477598846851203072)
+- [Awesome List of Awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)
+- [Awesome Self-Reference](https://github.com/aztek/awesome-self-reference) - Curated list of examples of self-reference in art, science, and technology. ([HN](https://news.ycombinator.com/item?id=29873177))
+- [The Last Question - Isaac Asimov](https://www.physics.princeton.edu/ph115/LQ.pdf)
+- [endoflife.date](https://endoflife.date/) - Informative site with EoL dates of everything. ([Code](https://github.com/endoflife-date/endoflife.date))
+- [Ladies, What’s a hard to swallow pill you’ve learned over the years?](https://www.reddit.com/r/AskWomen/comments/s4ynef/ladies_whats_a_hard_to_swallow_pill_youve_learned/)
+- [What’s your most irrational belief (doesn’t have to be a conviction)?](https://www.reddit.com/r/RationalPsychonaut/comments/sbfr1n/whats_your_most_irrational_belief_doesnt_have_to/)
+- [ASAPP](https://www.asapp.com/) - Delight customers AND radically increase productivity. ([Twitter](https://twitter.com/asapp))
+- [How to Mislead with Facts](https://consilienceproject.org/how-to-mislead-with-facts/) ([HN](https://news.ycombinator.com/item?id=30158269))
+- [Low-tech Lab](https://wiki.lowtechlab.org/wiki/Accueil)
+- [Cool ice formations my friend discovered on his deck this morning](https://twitter.com/CJF_NC/status/1490093486330322949) ([HN](https://news.ycombinator.com/item?id=30233630))
+- [Heuristics that almost always work (2022)](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work) ([HN](https://news.ycombinator.com/item?id=30264082))
+- [Catppuccin Theme](https://github.com/catppuccin/catppuccin) - Soothing pastel theme for the high-spirited.
+- [Made in Nigeria](https://github.com/acekyd/made-in-nigeria) - Curation of awesome tools and projects built by Nigerian developers.
+- [Investigations ← Forensic Architecture](https://forensic-architecture.org/)
+- [Ask HN: What are your contrarian views? (2022)](https://news.ycombinator.com/item?id=30322001)
+- [Test your shape rotation skills](https://0xf00ff00f.github.io/rotator/) ([Code](https://github.com/0xf00ff00f/rotator)) ([HN](https://news.ycombinator.com/item?id=30408434))
+- [Snowboarding for Geeks: An Ultimate Guide (2018)](https://www.xfive.co/blog/snowboarding-ultimate-guide/) ([HN](https://news.ycombinator.com/item?id=30408158))
+- [Disaster planning for regular folks: level-headed prepping tips](https://lcamtuf.coredump.cx/prep/index-old.shtml)
+- [Ask HN: Single person creations that have stood the test of time (2022)](https://news.ycombinator.com/item?id=30500188)
+- [What are the hard pills to swallow?](https://www.reddit.com/r/AskMen/comments/t6j7l1/what_are_the_hard_pills_to_swallow/)
+- [Collections: How the Weak Can Win – A Primer on Protracted War (2022)](https://acoup.blog/2022/03/03/collections-how-the-weak-can-win-a-primer-on-protracted-war/)
+- [The Most Useful Rope Knots for the Average Person to Know](https://daveroot.neocities.org/knots/)
+- [14 science fiction stories in under 6 minutes (2022)](https://www.youtube.com/watch?v=iQGl-ffVtaM)
+- [Vibe, Mood, Energy (2022)](https://www.thedriftmag.com/vibe-mood-energy/) ([HN](https://news.ycombinator.com/item?id=30677537))
+- [What's my place in the world population?](https://population.io/) ([HN](https://news.ycombinator.com/item?id=30708217))
+- [MicroDiscount](https://www.microdiscount.website/) - Directory of tech & software discounts for students, teachers & hobbyists. ([Code](https://github.com/cliffordfajardo/micro-discounts))
+- [What is the most right-wing / left-wing artistic works that you enjoy and appreciate](https://twitter.com/jh_swanson/status/1507868153040314370)
+- [mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library.
+- [Mephisto](https://mephisto.ai/) - Tools for managing crowdsourcing tasks from the inception through to data packaging for research use. ([Code](https://github.com/facebookresearch/Mephisto))
+- [I Heart Microscopes (2022)](https://www.hillelwayne.com/post/microscopy/) ([HN](https://news.ycombinator.com/item?id=30882754))
+- [Ask HN: Share your personal site (2022)](https://news.ycombinator.com/item?id=30934529)
+- [Researchers Found Puberty Blockers Didn’t Improve Trans Kids’ Mental Health (2022)](https://jessesingal.substack.com/p/researchers-found-puberty-blockers) ([HN](https://news.ycombinator.com/item?id=30948461))
+- [GPAC](https://gpac.wp.imt.fr/) - Modular Multimedia framework for packaging, streaming and playing your favorite content. ([Code](https://github.com/gpac/gpac))
+- [best-of](https://github.com/best-of-lists/best-of) - Discover best-of lists with awesome open-source projects on all kinds of topics.
+- [Manifold Markets](https://manifold.markets/) - Lets anyone create a prediction market on any topic. ([Code](https://github.com/manifoldmarkets/manifold))
+- [The real Dune](https://www.youtube.com/watch?v=R0krUthYxF4)
+- [Animated Knots](https://www.animatedknots.com/) - Learn how to tie knots with step-by-step animation.
+- [Find Wikipedia photos needed near you](https://wikishootme.toolforge.org/) ([HN](https://news.ycombinator.com/item?id=31575909))
+- [The bleak spectacle of the Amber Heard-Johnny Depp trial (2022)](https://www.readthepresentage.com/p/johnny-depp-amber-heard?s=r) ([Tweet](https://twitter.com/RottenInDenmark/status/1532396377526915075))
+- [Mime](https://mime.nathanferns.xyz/) - Edit and Generate Memes. ([Code](https://github.com/nathanielfernandes/mime))
+- [Apple Supplier List](https://www.apple.com/supplier-responsibility/pdf/Apple-Supplier-List.pdf) ([HN](https://news.ycombinator.com/item?id=31655629))
+- [Who's afraid of amber heard? (2022)](https://internetprincess.substack.com/p/whos-afraid-of-amber-heard) ([Tweet](https://twitter.com/WeekesPrincess/status/1535358513194704897))
+- [circumflex](https://github.com/bensadeh/circumflex) - Command line tool for browsing Hacker News in your terminal.

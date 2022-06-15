@@ -1,0 +1,243 @@
+---
+title: Docker
+---
+
+# [Docker](https://www.docker.com/)
+
+[DockerSlim](https://github.com/docker-slim/docker-slim) is useful. Seems everyone is moving to [containerd](https://github.com/containerd/containerd) or [Colima](https://github.com/abiosoft/colima) now.
+
+## Links
+
+- [Docker Docs](https://docs.docker.com/) ([Code](https://github.com/docker/docker.github.io))
+- [Introduction to Docker (2013)](https://www.youtube.com/watch?v=Q5POuMHxW-0)
+- [sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for docker engine.
+- [Understanding Docker, Containers and Safer Software Delivery](https://www.sitepoint.com/docker-containers-software-delivery/)
+- [Docker 101](https://github.com/Citrix-TechSpecialist/Docker-101)
+- [Intro to Docker slides (2014)](http://jdlm.info/ds-docker-demo)
+- [Dokku](https://github.com/dokku/dokku) - Docker-powered PaaS that helps you build and manage the lifecycle of applications.
+- [dive](https://github.com/wagoodman/dive) - Tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
+- [Scratch Node.js Docker Images](https://github.com/astefanutti/scratch-node)
+- [Testing Databases with Docker (2015)](https://ericchiang.github.io/post/testing-dbs-with-docker/)
+- [Jess Frazelle's dockerfiles](https://github.com/jessfraz/dockerfiles)
+- [Docker Containers on the Desktop (2015)](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/)
+- [Minimal Ubuntu base image modified for Docker-friendliness](https://github.com/phusion/baseimage-docker)
+- [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
+- [dry](https://github.com/moncho/dry) - Terminal application to manage Docker and Docker Swarm.
+- [docui](https://github.com/skanehira/docui) - TUI Client for Docker Written in Go.
+- [Watchtower](https://github.com/v2tec/watchtower) - Automatically update running Docker containers.
+- [Kraken](https://github.com/uber/kraken) - P2P docker registry capable of distributing TBs of data in seconds.
+- [HN: Goodbye Docker and Thanks for All the Fish (2019)](https://news.ycombinator.com/item?id=19351236)
+- [Tini](https://github.com/krallin/tini) - Tiny but valid `init` for containers.
+- [browserless](https://github.com/joelgriffith/browserless) - Chrome as a service in docker. Bring your own cloud or hardware..
+- [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell.
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple terminal UI for docker and docker-compose, written in Go with the gocui library.
+- [docker-gen](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data.
+- [Intro Guide to Dockerfile Best Practices (2019)](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/) ([HN](https://news.ycombinator.com/item?id=20381388))
+- [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics.
+- [DockerSlim](https://github.com/docker-slim/docker-slim) - Minify and Secure Docker containers.
+- ["Distroless" Docker Images](https://github.com/GoogleContainerTools/distroless) - Language focused docker images, minus the operating system.
+- [Docker Registry Client for Go apps](https://github.com/heroku/docker-registry-client)
+- [tsuru](https://github.com/tsuru/tsuru) - Open source, extensible and Docker-based Platform as a Service.
+- [tsuru-client](https://github.com/tsuru/tsuru-client) - Command line for application developers on tsuru.
+- [Deploying Go servers with Docker (2014)](https://blog.golang.org/docker)
+- [Create the smallest and secured golang docker image based on scratch (2018)](https://medium.com/@chemidy/create-the-smallest-and-secured-golang-docker-image-based-on-scratch-4752223b7324)
+- [HN: What Exactly is Docker? (2020)](https://news.ycombinator.com/item?id=22212206)
+- [runq](https://github.com/gotoz/runq) - Run regular Docker images in KVM/Qemu.
+- [BuildKit](https://github.com/moby/buildkit) - Concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit.
+- [Docker Images : Part I - Reducing Image Size (2020)](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
+- [docker-squash](https://github.com/jwilder/docker-squash) - Squash docker images to make them smaller.
+- [dregsy](https://github.com/xelalexv/dregsy) - Lets you sync Docker images between registries, public or private.
+- [Curated list of Docker Compose samples](https://github.com/docker/awesome-compose)
+- [Dockercraft](https://github.com/docker/dockercraft) - Simple Minecraft Docker client, to visualize and manage Docker containers.
+- [Harbour](https://github.com/rrroyal/Harbour) - Docker/Portainer client for iOS (and iPadOS) written in SwiftUI.
+- [into-docker](https://github.com/into-docker/into-docker) - Lets you build and run applications relying on common frameworks or build tools without ever having to write another Dockerfile.
+- [Docker CE](https://github.com/docker/docker-ce) - Hosts open source components of Docker CE products.
+- [Docker 101: A basic web-server displaying hello world (2020)](https://ashishb.net/tech/docker-101-a-basic-web-server-displaying-hello-world/) ([Lobsters](https://lobste.rs/s/2shdx5/docker_101_basic_web_server_displaying))
+- [magicpak](https://github.com/coord-e/magicpak) - Build minimal docker images without static linking. ([HN](https://news.ycombinator.com/item?id=22859993))
+- [DevOps with Docker](https://devopswithdocker.com/) - Introductory course to Docker and docker-compose. ([Code](https://github.com/docker-hy/docker-hy.github.io))
+- [Bollard](https://github.com/fussybeaver/bollard) - Asynchronous rust client library for the docker API.
+- [Docker EE Operational Checklist](https://github.com/nicolaka/checklist)
+- [Bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash.
+- [Why strace doesn't work in Docker (2020)](https://jvns.ca/blog/2020/04/29/why-strace-doesnt-work-in-docker/) ([HN](https://news.ycombinator.com/item?id=23065994))
+- [Udemy Course Docker Mastery](https://www.bretfisher.com/courses/) - Build, test, deploy containers with the best mega-course on Docker, Kubernetes, Compose, Swarm and Registry using DevOps. ([Code](https://github.com/BretFisher/udemy-docker-mastery))
+- [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([HN](https://news.ycombinator.com/item?id=23465087)) ([Code](https://github.com/caprover/caprover))
+- [Deploy](https://github.com/zenclabs/deploy) - Step-by-step, open-source tool for easy Docker deployments to AWS.
+- [Swarmlet](https://github.com/swarmlet/swarmlet) - Self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
+- [Collection of delicious docker recipes](https://github.com/vimagick/dockerfiles)
+- [Gocker: Docker implemented in 1.3k lines of Go (2020)](https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/) ([HN](https://news.ycombinator.com/item?id=23558853))
+- [Docker CLI plugin for Amazon ECS](https://github.com/docker/ecs-plugin) ([Article](https://www.infoq.com/news/2020/07/docker-ecs-plugin/)) ([HN](https://news.ycombinator.com/item?id=23962120))
+- [Docker-type runtime, written in 100% Python](https://github.com/tonybaloney/mocker)
+- [Understanding Docker Visually (2020)](https://dev.to/aurelievache/understanding-docker-part-1-retrieve-pull-images-3ccn)
+- [Docket](https://github.com/bloomberg/docket) - Tool to make running test suites easier, using docker-compose.
+- [Docker Roadmap](https://github.com/docker/roadmap)
+- [Docker Sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development.
+- [Docker Sync Boilerplate](https://github.com/EugenMayer/docker-sync-boilerplate)
+- [Penguins in Docker - A Tutorial on Why We Use Docker (2020)](https://www.ezzeddinabdullah.com/posts/penguins-in-docker-a-tutorial-on-why-we-use-docker)
+- [Dockerfile Security Best Practices (2020)](https://cloudberry.engineering/article/dockerfile-security-best-practices/) ([HN](https://news.ycombinator.com/item?id=24776771)) ([Code](https://github.com/gbrindisi/dockerfile-security))
+- [It's Time to Forget About Docker (2020)](https://martinheinz.dev/blog/35) ([Lobsters](https://lobste.rs/s/kj6vtn/it_s_time_say_goodbye_docker))
+- [Smaller Docker Images Using Multi-Stage Builds (2020)](https://codesalad.dev/blog/smaller-docker-images-using-multi-stage-builds-8)
+- [Reproducible docker containers (2019)](https://corpix.dev/2019/02/reproducible-docker-containers.html)
+- [Docker Repull](https://github.com/jdevelop/repull) - Tool to restart a Docker container with a newer version of an image used by the container.
+- [Registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker.
+- [selfdock](https://github.com/anordal/selfdock) - Sandbox for process and filesystem isolation, like Docker, but without its hard problems.
+- [Docker for macOS bug reports](https://github.com/docker/for-mac)
+- [Docker CLI](https://github.com/docker/cli)
+- [Docker Compose](https://github.com/docker/compose) - Tool for defining and running multi-container Docker applications. ([Docs](https://docs.docker.com/compose/))
+- [Clair scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan.
+- [Preparing for the Docker Hub Rate Limits (2020)](https://inlets.dev/blog/2020/10/29/preparing-docker-hub-rate-limits.html)
+- [Jobs as a Service (JaaS)](https://github.com/alexellis/jaas) - Run jobs (tasks/one-shot containers) on Docker Swarm.
+- [pkger](https://github.com/wojciechkepka/pkger) - Package building tool utilizing Docker written in Rust.
+- [Docker App](https://github.com/docker/app) - Cloud Native application packaging framework with which developers and devops can build, share, and run a set of microservices as a single entity.
+- [Dockter](https://github.com/oslabs-beta/Dockter) - Low-overhead, open-source Docker log management tool. ([HN](https://news.ycombinator.com/item?id=25115210))
+- [Docker Compose CLI](https://github.com/docker/compose-cli) - Makes it easy to run Docker containers and Docker Compose applications in the cloud.
+- [Reusable development containers with Docker Compose and Dip (2020)](https://evilmartians.com/chronicles/reusable-development-containers-with-docker-compose-and-dip) ([HN](https://news.ycombinator.com/item?id=25124542))
+- [DIP](https://github.com/bibendi/dip) - Docker Interaction Process. Command-line utility that gives the "native" interaction with applications configured with Docker Compose.
+- [Transitioning from Docker to Podman (2020)](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/) ([HN](https://news.ycombinator.com/item?id=25165195))
+- [duct](https://github.com/erikh/duct) - Docker-compose alike functionality directly from Go, for integration testing.
+- [Please Contain Yourself](https://github.com/dylanlrrb/Please-Contain-Yourself) - Docker tutorial written for people who don't actually know Docker already.
+- [Towards a Strong Mental Model of Docker (2020)](https://blog.andrewray.me/towards-a-strong-mental-model-of-docker/)
+- [Dockerfile best practices](https://github.com/hexops/dockerfile) ([HN](https://news.ycombinator.com/item?id=25619319))
+- [Docker Getting Started Tutorial](https://github.com/docker/getting-started)
+- [Run More Stuff in Docker (2020)](https://jonathan.bergknoff.com/journal/run-more-stuff-in-docker/)
+- [Docker Compose: a nice way to set up a dev environment (2021)](https://jvns.ca/blog/2021/01/04/docker-compose-is-nice/)
+- [whaler](https://github.com/treebeardtech/whaler) - Visual disk-usage analyzer for docker images.
+- [It’s time to switch to Docker BuildKit (2021)](https://pythonspeed.com/articles/docker-buildkit/) ([Lobsters](https://lobste.rs/s/zh18id/it_s_time_switch_docker_buildkit))
+- [Envase](https://envase-website.vercel.app/) - Removes the pain from running apps using docker by providing an amazing developer experience. ([Code](https://github.com/ameerthehacker/envase))
+- [Doko](https://github.com/egoist/doko) - Docker-based development dependency manager.
+- [zapp](https://github.com/cpuguy83/zapp) - Tool to interact with Docker registry objects.
+- [Hardening Docker and Kubernetes with seccomp (2021)](https://martinheinz.dev/blog/41)
+- [Speed up pip downloads in Docker with BuildKit’s new caching (2021)](https://pythonspeed.com/articles/docker-cache-pip-downloads/)
+- [Docker Hub Tool](https://github.com/docker/hub-tool) - CLI tool for interacting with the Docker Hub.
+- [App Platform sample Docker application](https://github.com/digitalocean/sample-dockerfile)
+- [Dazzle](https://github.com/gitpod-io/dazzle) - Experimental Docker image builder which builds independent layers.
+- [Cleanup Docker (2021)](https://hanami.run/blog/posts/cleanup-docker/)
+- [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html) ([HN](https://news.ycombinator.com/item?id=26446337))
+- [Why We Don’t Use Docker (2021)](https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html) ([Lobsters](https://lobste.rs/s/dsk7m1/why_we_don_t_use_docker_we_don_t_need_it)) ([HN](https://news.ycombinator.com/item?id=26472452))
+- [The worst so-called “best practice” for Docker (2021)](https://pythonspeed.com/articles/security-updates-in-docker/) ([Lobsters](https://lobste.rs/s/rji8ex/worst_so_called_best_practice_for_docker))
+- [Docker without Docker (2021)](https://fly.io/blog/docker-without-docker/) ([HN](https://news.ycombinator.com/item?id=26746280))
+- [The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/) ([Code](https://github.com/fhsinchy/docker-handbook-projects))
+- [Don’t leak your Docker image’s build secrets (2021)](https://pythonspeed.com/articles/docker-build-secrets/)
+- [Write a Good Dockerfile in 19 'Easy' Steps (2021)](https://jkutner.github.io/2021/04/26/write-good-dockerfile.html)
+- [Rocker](https://github.com/daikimiura/rocker) - Minimal docker implementation for educational purposes.
+- [Better Dockerfiles (2021)](https://ols.wtf/2021/04/09/better-dockerfiles.html)
+- [Docker-ls](https://github.com/mayflower/docker-ls) - Set of CLI tools for browsing and manipulating docker registries.
+- [Cheapest, lowest-effort way to run 2 docker containers in a reliable way](https://twitter.com/grhmc/status/1398262987606089736)
+- [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
+- [File Permissions: A painful side of Docker (2019)](https://blog.gougousis.net/file-permissions-the-painful-side-of-docker/) ([HN](https://news.ycombinator.com/item?id=27311619))
+- [Diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry. ([Docs](https://crazymax.dev/diun/))
+- [Best Practices Around Creating Production Ready Web Apps with Docker Compose (2021)](https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose) ([HN](https://news.ycombinator.com/item?id=27359081))
+- [Docker is a compiler (2021)](https://matt-rickard.com/docker-is-a-compiler/) ([Lobsters](https://lobste.rs/s/tkfrqc/docker_is_compiler))
+- [Execute Docker Containers as QEMU MicroVMs (2021)](https://mergeboard.com/blog/2-qemu-microvm-docker/) ([HN](https://news.ycombinator.com/item?id=27530074))
+- [xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers.
+- [Pumba](https://github.com/alexei-led/pumba) - Chaos testing command line tool for Docker containers.
+- [kool](https://github.com/kool-dev/kool) - Makes using Docker for local development easier, simpler, faster, and better. ([Web](https://kool.dev/))
+- [Ask HN: As a solo founder, what are the reasons not to use Docker? (2021)](https://news.ycombinator.com/item?id=27872642)
+- [Use the same Dockerfile for both local development and production with multi-stage builds (2021)](https://blog.atulr.com/docker-local-production-image/)
+- [Docker container security cheat sheet](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/) ([HN](https://news.ycombinator.com/item?id=28043198))
+- [Docker Layer Caching in GitHub Actions](https://github.com/satackey/action-docker-layer-caching)
+- [Linux is dead, long-live Docker monoculture (2021)](https://antranigv.am/weblog_en/posts/2021-08-13-13-37/) ([Lobsters](https://lobste.rs/s/c2pqd3/linux_is_dead_long_live_docker)) ([HN](https://news.ycombinator.com/item?id=28264054))
+- [Which validations do you run between "docker build" and "kubectl apply"? (2021)](https://twitter.com/ahmetb/status/1432407849318039554)
+- [Docker with IPv6 and Network Isolation (2021)](https://battlepenguin.com/tech/docker-with-ipv6-and-network-isolation/)
+- [An Overview of Docker Desktop Alternatives (2021)](https://matt-rickard.com/docker-desktop-alternatives/) ([HN](https://news.ycombinator.com/item?id=28379556))
+- [Migrating from Docker to Podman (2021)](https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/) ([Lobsters](https://lobste.rs/s/sizjqf/migrating_from_docker_podman)) ([HN](https://news.ycombinator.com/item?id=28413470))
+- [Docker in Production: Lessons from the Trenches](https://github.com/kuiblog/docker-books/blob/master/Docker%20in%20Production%20-%20Lessons%20from%20the%20Trenches.pdf)
+- [How Docker broke in half (2021)](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html) ([HN](https://news.ycombinator.com/item?id=28459145))
+- [qemu-user-static (qus)](https://github.com/dbhi/qus) - Compilation of utilities, examples and references to build and execute OCI images (aka docker images) for foreign architectures using QEMU's user-mode emulation. ([Docs](https://dbhi.github.io/qus/))
+- [Are Dockerfiles good enough? (2021)](https://matduggan.com/are-dockerfiles-good-enough/) ([Lobsters](https://lobste.rs/s/ttqi4c/are_dockerfiles_good_enough))
+- [Podman Compose](https://github.com/containers/podman-compose) - Script to run docker-compose.yml using podman.
+- [Using Podman with BuildKit, the better Docker image builder (2021)](https://pythonspeed.com/articles/podman-buildkit/) ([Lobsters](https://lobste.rs/s/yawpxa/using_podman_with_buildkit_better_docker))
+- [testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Go library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
+- [Testcontainers-rs](https://github.com/testcontainers/testcontainers-rs) - Library for integration-testing against docker containers from within Rust.
+- [Build docker images with Nix](https://github.com/rvolosatovs/nix-docker-example)
+- [kontain.me](https://github.com/imjasonh/kontain.me) - Serves Docker container images generated on-demand at the time they are requested.
+- [Play With Docker](https://labs.play-with-docker.com/) - Simple, interactive and fun playground to learn Docker. ([Code](https://github.com/play-with-docker/play-with-docker))
+- [Reproducible Computational Environments Using Containers: Introduction to Docker](https://carpentries-incubator.github.io/docker-introduction/) ([Code](https://github.com/carpentries-incubator/docker-introduction))
+- [The hunt for a better Dockerfile (2021)](https://matduggan.com/the-hunt-for-a-better-dockerfile/) ([Lobsters](https://lobste.rs/s/jfcnvn/hunt_for_better_dockerfile))
+- [Docuum](https://github.com/stepchowfun/docuum) - LRU eviction of Docker images.
+- [Docker Socket Proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts.
+- [Lazytainer](https://github.com/vmorganp/Lazytainer) - Docker container lazy loading.
+- [docker-amend](https://gitlab.com/notpushkin/docker-amend) - Amend Docker images by running a command in a separate layer.
+- [Docker Scan](https://github.com/docker/scan-cli-plugin) - Command Line Interface to run vulnerability detection on your Dockerfiles and Docker images.
+- [Crane](https://github.com/InfuseAI/crane) - Easy-to-use and beautiful desktop application helps you build manage your docker images.
+- [Docker Compose Specification](https://compose-spec.io/) ([Code](https://github.com/compose-spec/compose-ref)) ([Spec Code](https://github.com/compose-spec/compose-spec))
+- [Containernet](https://github.com/containernet/containernet) - Mininet fork adding support for container-based (e.g. Docker) emulated hosts. ([Web](https://containernet.github.io/))
+- [From Docker Container to Bootable Linux Disk Image (2021)](https://iximiuz.com/en/posts/from-docker-container-to-bootable-linux-disk-image/) ([Code](https://github.com/iximiuz/docker-to-linux))
+- [go-dockerfile](https://github.com/dekkagaijin/go-dockerfile) - Utilities for interacting with Dockerfiles.
+- [The Case of the Failed Docker Connection](https://mysteries.wizardzines.com/docker-connection.html)
+- [regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
+- [Composerize](https://www.composerize.com/) - Turns docker run commands into docker-compose files. ([Code](https://github.com/magicmark/composerize))
+- [Use docker image tagging to speedup the builds (2021)](https://dev.to/istarkov/use-docker-image-tagging-to-speedup-the-builds-3n4m)
+- [Docker Registry Helm Chart](https://github.com/twuni/docker-registry.helm)
+- [compose-go](https://github.com/compose-spec/compose-go) - Go reference library for parsing and loading Compose files as specified by the Compose specification.
+- [Anchore Engine](https://github.com/anchore/anchore-engine) - Service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification.
+- [Small Docker Images (2021)](https://mattglei.ch/blog/small-docker-images)
+- [dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker.
+- [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
+- [docker-companion](https://github.com/mudler/docker-companion) - Squash and unpack Docker images, in Go.
+- [duuh](https://github.com/philpep/duuh) - Aims to build docker images with unattended upgrades, i.e. with fixables CVEs fixed.
+- [Ofelia](https://github.com/mcuadros/ofelia) - Docker job scheduler (aka. crontab for docker).
+- [Create docker image on Apple Silicon M1 Mac (2021)](https://lakhan.me/blog/create-docker-image-on-apple-silicon-m1-mac)
+- [dlayer](https://github.com/orisano/dlayer) - Docker layer analyzer.
+- [dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers.
+- [Docker Buildkit Pulumi Provider](https://github.com/MaterializeInc/pulumi-docker-buildkit)
+- [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Works by building and extracting a rootfs from a Dockerfile, and then merging that filesystem with a small minimal kernel that runs in RAM.
+- [Optimizing Docker image size and why it matters (2022)](https://contains.dev/blog/optimizing-docker-image-size)
+- [contains.dev](https://contains.dev/) - See what's in your Docker. Explore your images, view their files, layers and dependencies.
+- [Narwhal](https://github.com/yourbase/narwhal) - Simplistic wrapper around the Docker Go API.
+- [A faster dockerTools.buildImage prototype (2021)](https://lewo.abesis.fr/posts/nix-build-container-image/)
+- [Dozzle](https://dozzle.dev/) - Log viewer for Docker. ([Code](https://github.com/amir20/dozzle))
+- [Docker for Mac - Docker Machine / Vagrant / Ansible](https://github.com/stenh0use/docker-machine-for-mac)
+- [ch](https://github.com/camerondurham/ch) - Docker config and shell manager for ~using~ misusing containers as dev environments.
+- [swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm.
+- [manifest-tool](https://github.com/estesp/manifest-tool) - Command line tool to create and query container image manifest list/indexes.
+- [doko](https://github.com/abdfnx/doko) - Docker you know but with TUI.
+- [udocker](https://github.com/indigo-dc/udocker) - Basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
+- [How to optimize the security, size and build speed of Docker images (2022)](https://www.augmentedmind.de/2022/02/20/optimize-docker-image-security/) ([HN](https://news.ycombinator.com/item?id=30406076))
+- [Awesome Docker Security](https://github.com/myugan/awesome-docker-security)
+- [Dockerfiler](https://github.com/jbergknoff/Dockerfiler) - Declaratively manage images built from a set of Dockerfiles.
+- [docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - Command-line utility to wait for other docker images to be started while using docker-compose.
+- [Miniboss](https://github.com/afroisalreadyinu/miniboss) - Python application for locally running a collection of interdependent docker services. ([HN](https://news.ycombinator.com/item?id=30528167))
+- [Just Say No To `:Latest` (2022)](https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/) ([HN](https://news.ycombinator.com/item?id=30576443))
+- [docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3 compatible storage.
+- [Dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start.
+- [Run Nomad from a Docker container](https://github.com/multani/docker-nomad)
+- [Docker Registry Proxy](https://github.com/rpardini/docker-registry-proxy) - HTTPS Proxy for Docker providing centralized configuration and caching of any registry.
+- [bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
+- [Dockerized](https://github.com/datastack-net/dockerized) - Run CLI tools without installation. ([HN](https://news.ycombinator.com/item?id=30627202))
+- [Mastering the Docker cache (2022)](https://contains.dev/blog/mastering-docker-cache)
+- [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Run commands within ethereal docker containers.
+- [cri-dockerd](https://github.com/Mirantis/cri-dockerd) - Adapter provides a shim for Docker Engine that lets you control Docker via the Kubernetes Container Runtime Interface.
+- [Guide on how to make Docker images even smaller (2022)](https://symflower.com/en/company/blog/2022/complete-guide-on-shrinking-container-images/)
+- [Docker Registry UI](https://github.com/Quiq/docker-registry-ui)
+- [Dockerfile Dependency graph](https://po3rin.github.io/dockerdot/) - Shows Dockerfile dependency graph. Useful to understand how build Dockerfile. ([Code](https://github.com/po3rin/dockerdot))
+- [apko](https://github.com/chainguard-dev/apko) - Build OCI images using APK directly without Dockerfile.
+- [Check if image tag exists in Container Registry (GitHub) (2022)](https://renehernandez.io/snippets/check-image-tag-container-registry/)
+- [Go Plugin Helpers](https://github.com/docker/go-plugins-helpers) - Go helper packages to extend the Docker Engine.
+- [Terraform Provider for Docker](https://github.com/kreuzwerker/terraform-provider-docker)
+- [Best service that has a one-click deployment of an app with a Dockerfile (2022)](https://twitter.com/jlongster/status/1505926055042981892)
+- [OCI Image Builder](https://github.com/openshift/imagebuilder) - Builds Dockerfile using the Docker client (with squashing! and secrets!).
+- [Running GUI apps within Docker containers (2022)](https://www.trickster.dev/post/running-gui-apps-within-docker-containers/) ([HN](https://news.ycombinator.com/item?id=30810410))
+- [`COPY –chmod` reduced the size of my container image by 35% (2022)](https://blog.vamc19.dev/posts/dockerfile-copy-chmod/) ([HN](https://news.ycombinator.com/item?id=30808945)) ([Lobsters](https://lobste.rs/s/6i3lci/copy_chmod_reduced_size_my_container)) ([Reddit](https://www.reddit.com/r/programming/comments/toptrr/copy_chmod_reduced_the_size_of_my_container_image/))
+- [Automation with Docker for CI/CD Workflows](https://github.com/BretFisher/allhands22) - GitHub Actions automation examples with Docker.
+- [Docker optimization guide: 8 tricks to optimize your Docker image size (2022)](https://www.augmentedmind.de/2022/02/06/optimize-docker-image-size/)
+- [Good Karma Kit](https://github.com/ArchiveBox/good-karma-kit) - Docker Compose bundle to run on servers with spare CPU, RAM, disk, and bandwidth to help the world. Includes Tor, ArchiveWarrior, BOINC, and more. ([HN](https://news.ycombinator.com/item?id=30830808))
+- [testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Allows using docker containers for functional and integration testing.
+- [Dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services.
+- [dockprom](https://github.com/stefanprodan/dockprom) - Monitoring solution for Docker hosts and containers with Prometheus, Grafana, cAdvisor, NodeExporter and alerting with AlertManager.
+- [go-metrics](https://github.com/docker/go-metrics) - Package for metrics collection in Docker projects.
+- [Docker Compose Buildkite Plugin](https://github.com/buildkite-plugins/docker-compose-buildkite-plugin) - Buildkite plugin that lets you build, run and push build steps using Docker Compose.
+- [docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic) - Magic shim for Docker credential helpers.
+- [Dockerfile Utilities](https://github.com/rcjsuen/dockerfile-utils) - Library and command line interface for formatting and linting Dockerfiles.
+- [Docker Official Image packaging for Docker](https://github.com/docker-library/docker)
+- [Docker From Scratch Workshop](https://github.com/Fewbytes/rubber-docker)
+- [ttl.sh](https://ttl.sh/) - Anonymous & ephemeral (and free) Docker image registry. ([Code](https://github.com/replicatedhq/ttl.sh))
+- [Gitpod Workspace Images](https://github.com/gitpod-io/workspace-images) - Ready-to-use Docker images for gitpod.io workspaces.
+- [Drone Docker](https://github.com/drone-plugins/drone-docker) - Drone plugin for publishing Docker images using Docker-in-Docker.
+- [Docker Extensions SDK](https://github.com/docker/extensions-sdk)
+- [buildg](https://github.com/ktock/buildg) - Tool to interactively debug Dockerfile based on BuildKit. ([Article](https://medium.com/nttlabs/buildg-a48bc851c1bb))
+- [Dockit](https://github.com/ekristen/dockit) - Docker Registry Authentication Made Simple.
+- [Fly Machines: An API for Fast-Booting VMs (2022)](https://fly.io/blog/fly-machines/) ([HN](https://news.ycombinator.com/item?id=31496744))
+- [dock](https://news.ycombinator.com/item?id=31625086) - Alternative way to use Docker without Dockerfiles. ([Code](https://github.com/0rion3/dock)) ([HN](https://news.ycombinator.com/item?id=31625086))
+- [docker-show-context](https://github.com/pwaller/docker-show-context) - Show where time is wasted during the context upload of `docker build`.
+- [Dockerfile+](https://github.com/edrevo/dockerfile-plus) - New commands for Dockerfile.
+- [go-crond](https://github.com/webdevops/go-crond) - Cron daemon written in Go (for eg. usage in docker images).

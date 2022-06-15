@@ -1,0 +1,164 @@
+---
+title: Erlang
+---
+
+# [Erlang](https://www.erlang.org/)
+
+## Notes
+
+- [Actors do not an Erlang make. What makes an Erlang: Isolation. A crash in an actor cannot bring down other actors. Cannot bring down the runtime. In Go `panic` crashes the program. In Erlang "panic" crashes an actor, and... that's it. Monitoring. The above makes an important property of the system: a process can be monitored, and when it dies you can be guaranteed to receive a message that it died, and why. This lets you build things like supervision trees that are impossible/hard/ineffecient(chose two) in other languages.](https://news.ycombinator.com/item?id=28015016)
+
+## Links
+
+- [Getting Started With Erlang](https://erlang.org/doc/getting_started/users_guide.html)
+- [Awesome Erlang](https://github.com/drobakowski/awesome-erlang)
+- [Syn](https://github.com/ostinelli/syn) - Global Process Registry and Process Group manager for Erlang.
+- [ErlPort](https://github.com/hdima/erlport) - Connect Erlang to other languages.
+- [Gradualizer](https://github.com/josefs/Gradualizer) - Gradual Type System for Erlang.
+- [Rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions. ([Introducing Rustler Precompiled](https://dashbit.co/blog/rustler-precompiled))
+- [Ten Years of Erlang (2019)](https://ferd.ca/ten-years-of-erlang.html) ([HN](https://news.ycombinator.com/item?id=20382126))
+- [Learn you some Erlang book](https://learnyousomeerlang.com/content)
+- [Relx](https://github.com/erlware/relx) - Sane, simple release creation for Erlang.
+- [Rebar3](https://github.com/erlang/rebar3) - Erlang build tool that makes it easy to compile and test Erlang applications and releases. ([Web](http://rebar3.org/)) ([Plugin Template](https://github.com/vkatsuba/rebar3_plugin)) ([Article](https://medium.com/erlang-battleground/the-rebar3-plugin-a-simple-rebar3-template-to-fast-build-your-plugins-71ab0129456b))
+- [Erlang/OTP](https://github.com/erlang/otp) - Programming language and runtime system for building massively scalable soft real-time systems with requirements on high availability.
+- [Enigma VM](https://github.com/archseer/enigma) - Simple Erlang VM implementation in Rust.
+- [ErlangRT](https://github.com/kvakvs/ErlangRT) - Attempt to make Erlang runtime (BEAM emulator) in Rust.
+- [BEAM VM Wisdoms (2019)](http://beam-wisdoms.clau.se/en/latest/) - In-depth knowledge such as VM internals, memory layout, opcodes etc. ([HN](https://news.ycombinator.com/item?id=26889048))
+- [Adopting Erlang](https://adoptingerlang.org/) - Ongoing effort to gather all the resources that will help you use Erlang in a business. ([HN](https://news.ycombinator.com/item?id=28940337))
+- [Lumen](https://github.com/lumen/lumen) - New compiler and runtime for BEAM languages.
+- [Études for Erlang book](http://www.r-5.org/files/books/computers/languages/erlang/erlang/David_Eisenberg-Etudes_for_Erlang-EN.pdf) - Companion exercises for introducing Erlang. ([Code](https://github.com/oreillymedia/etudes-for-erlang))
+- [Spawned Shelter](http://spawnedshelter.com/) - Collection of the best articles, videos and books for learning Erlang.
+- [Stuff Goes Bad: Erlang in Anger book](https://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war. ([Code](https://github.com/heroku/erlang-in-anger))
+- [AtomVM](https://github.com/bettio/AtomVM) - Tiny Erlang VM. ([HN](https://news.ycombinator.com/item?id=24185963))
+- [Anton Lavrik - A Reflection on Building the WhatsApp Server - Code BEAM 2018](https://www.youtube.com/watch?v=LJx6mUEFAqQ)
+- [erlexec](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
+- [Hex](https://hex.pm/) - Package manager for the Erlang ecosystem. ([Code](https://github.com/hexpm/hex))
+- [Blog from the Erlang/OTP team](http://blog.erlang.org/)
+- [Erlang Language Server Protocol Implementation](https://github.com/erlang-ls/erlang_ls)
+- [Advent of Code 2019 done in Erlang videos](https://www.youtube.com/watch?v=TqzBchjZw4Q)
+- [Erlang Programming Language - Computerphile (2019)](https://www.youtube.com/watch?v=SOqQVoVai6s)
+- [History of Erlang](https://dl.acm.org/doi/abs/10.1145/1238844.1238850)
+- [A History of the Erlang VM (2011)](http://www.erlang-factory.com/upload/presentations/389/EFSF11-ErlangVM.pdf)
+- [Matching binary patterns with Erlang](https://dev.to/l1x/matching-binary-patterns-11kh) ([Lobsters](https://lobste.rs/s/3a9e2a/matching_binary_patterns_with_erlang))
+- [Erlang/OTP 23](https://www.erlang.org/news/140) ([HN](https://news.ycombinator.com/item?id=23166554))
+- [Optimising for Concurrency: Comparing and contrasting the BEAM and JVM virtual machines (2020)](https://www.erlang-solutions.com/blog/optimising-for-concurrency-comparing-and-contrasting-the-beam-and-jvm-virtual-machines.html) ([HN](https://news.ycombinator.com/item?id=23168119))
+- [A Peek Inside the Erlang Compiler (2012)](https://prog21.dadgum.com/127.html) ([HN](https://news.ycombinator.com/item?id=23465128))
+- [Erlang Coding Standards & Guidelines](https://github.com/Inaka/erlang_guidelines)
+- [Program Development Using Erlang - Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
+- [Erlang/OTP Volume I: A Concurrent World](https://books.altenwald.com/book/en-erlang-i)
+- [Functional Programming in Erlang](https://www.futurelearn.com/courses/functional-programming-erlang) - Learn the theory and practice of functional programming in Erlang, through practical exercises and suggested projects.
+- [Erlang/OTP Tutorials](https://www.youtube.com/playlist?list=PLtxpRMx6AFTHLMhDaamt7twDaRj_qcrM5)
+- [escript](http://erlang.org/doc/man/escript.html) - Provides support for running short Erlang programs without having to compile them first, and an easy way to retrieve the command-line arguments.
+- [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook/) ([HN](https://news.ycombinator.com/item?id=17003897))
+- [Erlang dbg Intro (2020)](https://antranigv.am/weblog_en/posts/erlang-dbg-intro/) ([Lobsters](https://lobste.rs/s/sisfuf/erlang_dbg_intro))
+- [Concurrency In The Erlang VM (2020)](https://www.skcript.com/svr/concurrency-in-the-erlang-vm/)
+- [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html) ([HN](https://news.ycombinator.com/item?id=24173111))
+- [Avoiding GenServer bottlenecks (2018)](https://www.cogini.com/blog/avoiding-genserver-bottlenecks/)
+- [Scaling Erlang Developer Experience at WhatsApp (2020)](https://codesync.global/uploads/media/activity_slides/0001/03/f2292f201aa6b04db8c4e0b9cfa191dd07c9ee14.pdf) ([HN](https://news.ycombinator.com/item?id=24443128))
+- [Implement BeamAsm – A JIT for Erlang/OTP](https://github.com/erlang/otp/pull/2745) ([HN](https://news.ycombinator.com/item?id=24441841))
+- [SpawnFest](https://spawnfest.github.io/) - Annual free online BEAM-related development competition.
+- [Property-Based Testing with PropEr, Erlang, and Elixir](https://pragprog.com/titles/fhproper/property-based-testing-with-proper-erlang-and-elixir/)
+- [A Pipeline Made of Airbags (2020)](https://ferd.ca/a-pipeline-made-of-airbags.html) ([Lobsters](https://lobste.rs/s/uuex13/pipeline_made_airbags))
+- [Caramel](https://github.com/AbstractMachinesLab/caramel) - Erlang backend to the OCaml compiler. ([Introducing Caramel](https://www.erlang-solutions.com/blog/introducing-caramel-an-erlang-backend-for-the-ocaml-compiler-that-provides-a-fast-type-checker-for-beam-based-technologies.html)) ([Web](https://caramel.run/)) ([HN](https://news.ycombinator.com/item?id=25169324)) ([HN 2](https://news.ycombinator.com/item?id=26354017))
+- [Elli](https://github.com/elli-lib/elli) - Erlang web server for HTTP APIs.
+- [A brief introduction to BEAM (2020)](https://blog.erlang.org/a-brief-BEAM-primer/) ([HN](https://news.ycombinator.com/item?id=24837640))
+- [The BEAM marches forward (2020)](https://underjord.io/the-beam-marches-forward.html)
+- [LFE](https://github.com/rvirding/lfe) - Lisp Flavoured Erlang. Lisp for those who want to build distributed applications. ([Web](https://lfe.io/))
+- [Erlang Ecosystem Foundation](http://www.erlef.org/) - Supporting the BEAM community.
+- [Erlang: A first look at the JIT (2020)](https://blog.erlang.org/a-first-look-at-the-jit/) ([HN](https://news.ycombinator.com/item?id=24989682)) ([Lobsters](https://lobste.rs/s/pb2vis/erlang_first_look_at_jit))
+- [Why Typing Erlang is Hard: Standard Erlang (2020)](https://abstractmachines.dev/posts/am012-why-typing-erlang-is-hard.html)
+- [system_monitor](https://github.com/klarna-incubator/system_monitor) - BEAM VM monitoring and introspection application that helps troubleshooting live systems.
+- [Chasing a Performance Regression with Erlang/OTP 22 (2020)](https://tech.nextroll.com/blog/dev/2020/11/03/chasing-a-perf-regression-erlang.html)
+- [Pyrlang](https://github.com/Pyrlang/Pyrlang) - Drop-in Erlang node implementation in Python 3.5, implementing a network Erlang node protocol.
+- [Planet Erlang](http://www.planeterlang.com/) - Meta blog that collects posts from the blogs of various Erlang developers and contributors. ([Code](https://github.com/stevenproctor/planet-erlang))
+- [erlfmt](https://github.com/WhatsApp/erlfmt) - Automated code formatter for Erlang.
+- [erlang-systemd](https://github.com/hauleth/erlang-systemd) - Simple library for notifying systemd about process state.
+- [The Erlangelist](https://www.theerlangelist.com/) - Erlang related musings. ([Code](https://github.com/sasa1977/erlangelist))
+- [erlang-questions](http://erlang.org/mailman/listinfo/erlang-questions) - General Erlang/OTP discussions.
+- [eflame](https://github.com/proger/eflame) - Flame Graphs for Erlang.
+- [Gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, HTTP/2 and Websocket.
+- [Sesterl](https://github.com/gfngfn/Sesterl) - ML-inspired typed Erlang.
+- [Quartz](https://github.com/OhadRau/Quartz) - Statically typed, concurrent programming language for the BEAM VM based on the actor model.
+- [kerl](https://github.com/kerl/kerl) - Easy building and installing of Erlang/OTP instances.
+- [Erlang Dead Code Cleaner](https://github.com/AdRoll/rebar3_hank) ([Article](https://tech.nextroll.com/blog/dev/2021/01/06/erlang-rebar3-hank.html))
+- [Poolboy](https://github.com/devinus/poolboy) - Hunky Erlang worker pool factory.
+- [Gproc](https://github.com/uwiger/gproc) - Extended process registry for Erlang.
+- [A few notes on message passing (2021)](http://blog.erlang.org/message-passing/) ([HN](https://news.ycombinator.com/item?id=26514476))
+- ["Systems that run forever self-heal and scale" by Joe Armstrong (2013)](https://www.youtube.com/watch?v=cNICGEwmXLU)
+- [BPE: Business Process Engine](https://github.com/synrc/bpe) ([Web](https://bpe.n2o.dev/))
+- [Bitcask](https://github.com/basho/bitcask) - Log-Structured Hash Table for Fast Key/Value Data.
+- [Erlang/OTP 24 Highlights (2021)](https://blog.erlang.org/My-OTP-24-Highlights/) ([HN](https://news.ycombinator.com/item?id=27128994))
+- [Erlang Solutions](https://www.erlang-solutions.com/) - Scalable Distributed Technology.
+- [My Road to Erlang (2008)](https://prog21.dadgum.com/22.html)
+- [ERLUP](https://github.com/tsloughter/erlup) - Manage multiple Erlang installs with per directory configuration.
+- [hackney](https://github.com/benoitc/hackney) - HTTP client library in Erlang.
+- [The Development of Erlang (1997)](https://fermatslibrary.com/s/the-development-of-erlang) ([HN](https://news.ycombinator.com/item?id=27365883))
+- [Cowlib](https://github.com/ninenines/cowlib) - Support library for manipulating Web protocols.
+- [Erlang Enhancement Process](https://github.com/erlang/eep) ([Web](https://www.erlang.org/erlang-enhancement-proposals/))
+- [Beam Community](https://beam-community.org/) ([GitHub](https://github.com/beam-community))
+- [Concuerror](https://concuerror.com/) - Stateless model checking tool for Erlang programs.
+- [Death, Children, and OTP (2021)](https://furlough.merecomplexities.com/elixir/otp/2021/06/28/death-children-and-otp.html)
+- [Detecting Oxbow Code in Erlang Codebases with the Highest Degree of Certainty (2021)](https://arxiv.org/abs/2107.08699)
+- [Syn](https://github.com/ostinelli/syn) - Global Process Registry and Process Group manager for Erlang and Elixir.
+- [Decentralized ETS Counters for Better Scalability (2021)](https://blog.erlang.org/scalable-ets-counters/)
+- [erl_dist](https://github.com/sile/erl_dist) - Rust Implementation of Erlang Distribution Protocol.
+- [Why Erlang?](https://www.fredrikholmqvist.com/posts/why-erlang/) ([HN](https://news.ycombinator.com/item?id=28365911)) ([Lobsters](https://lobste.rs/s/ibd5bw/why_erlang))
+- [Guide to Tracing in Erlang](http://stratus3d.com/blog/2021/08/24/guide-to-tracing-in-erlang/)
+- [FancyFlow](https://github.com/fenollp/fancyflow) - Experimental Erlang library to bring convenience of things like the elixir pipe operator into Erlang.
+- [CauDEr](https://github.com/mistupv/cauder) - Causal-Consistent Reversible Debugger for Erlang.
+- [jsone](https://github.com/sile/jsone) - Erlang JSON library.
+- [ETC](https://github.com/vrnithinkumar/ETC) - Erlang Type Checker Prototype Based on Bidirectional Typechecking.
+- [WhatsApp scaled to 1B users with only 50 engineers](https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion) ([HN](https://news.ycombinator.com/item?id=28985169))
+- [Erlang Forums](https://erlangforums.com/)
+- [Languages, and about languages, on the BEAM](https://github.com/llaisdy/beam_languages)
+- [The Many-to-One Parallel Signal Sending Optimization - Erlang/OTP (2021)](https://www.erlang.org/blog/parallel-signal-sending-optimization/)
+- [Announcing the new erlang.org (2021)](https://www.erlang.org/news/151)
+- [Decentralized ETS Counters for Better Scalability (2021)](https://www.erlang.org/blog/scalable-ets-counters/)
+- [erldb](https://github.com/erldb/erldb) - ORM implementation in Erlang.
+- [Nova](https://github.com/novaframework/nova) - Web framework for Erlang. ([Web](http://www.novaframework.org/)) ([HN](https://news.ycombinator.com/item?id=30111578))
+- [Erlang: The Movie (2012)](https://www.youtube.com/watch?v=xrIjfIjssLE)
+- [Erlang: The Movie II: The Sequel (2013)](https://www.youtube.com/watch?v=rRbY3TMUcgQ)
+- [100 Years of Erlang | Quinn Wilton (2021)](https://www.youtube.com/watch?v=y8-9yZlye30)
+- [Leveled](https://github.com/martinsumner/leveled) - Simple Erlang Key-Value store based on the concept of Log-Structured Merge Trees.
+- [Apns4erl](https://github.com/inaka/apns4erl) - Apple Push Notification Server for Erlang.
+- [PGO](https://github.com/erleans/pgo) - Erlang Postgres client and connection pool.
+- [efmt](https://github.com/sile/efmt) - Erlang code formatter.
+- [Everything you need to know to start contributing to Erlang (2021)](https://medium.com/erlang-battleground/all-you-need-to-know-to-start-contributing-to-erlang-2fcd5748319e)
+- [A Tour of Curve25519 in Erlang (2020)](https://research.nccgroup.com/wp-content/uploads/2020/02/A_Tour_of_Curve25519_in_Erlang-1.pdf) ([HN](https://news.ycombinator.com/item?id=29591882))
+- [Ram](https://github.com/ostinelli/ram) - In-memory distributed KV store for Erlang and Elixir.
+- [Thoas](https://github.com/lpil/thoas) - Blazing fast JSON parser and generator in pure Erlang.
+- [Why I Program in Erlang (2012)](https://www.evanmiller.org/why-i-program-in-erlang.html)
+- [Erlang/OTP profiling: fprof (2022)](https://medium.com/erlang-battleground/erlang-otp-profiling-fprof-b3a1b92e43e3)
+- [Erlang Patterns of Concurrency](https://github.com/duomark/epocxy)
+- [Beam Bloggers Webring](https://beambloggers.com/) - Webring for bloggers in the BEAM Ecosystem (Erlang, Elixir, Gleam, LFE, etc). ([Code](https://github.com/lawik/beambloggers))
+- [Erlings](https://github.com/lambdaclass/erlings) - Small exercises to get you used to reading and writing Erlang code.
+- [Erlang zlist](https://github.com/egobrain/zlist) - Lazy sequences library.
+- [equery](https://github.com/egobrain/equery) - Library for PostgreSQL SQL generation.
+- [ExRated](https://github.com/grempe/ex_rated) - Elixir OTP GenServer with the naughty name that allows you to rate-limit calls to any service that requires it.
+- [Zotonic](http://zotonic.com/) - Erlang Web Framework & CMS. ([Code](https://github.com/zotonic/zotonic))
+- [gpb](https://github.com/tomas-abrahamsson/gpb) - Google Protobuf implementation for Erlang.
+- [Erlang online resources](https://gist.github.com/macintux/6349828)
+- [codec-beam](https://github.com/kofigumbs/codec-beam) - Generate Erlang VM byte code from Haskell.
+- [How private are Erlang private functions? (2018)](https://medium.com/about-erlang/how-private-are-erlang-private-functions-36382c6abfa4)
+- [Erlang Handbook](https://github.com/esl/erlang-handbook)
+- [power_shell](https://github.com/WhatsApp/power_shell) - Advanced system-wide Erlang shell capabilities. Evaluates Erlang code loaded from the module debug information, or source file.
+- [Erlang Image Manipulation Process](https://github.com/processone/eimp)
+- [erlperf](https://github.com/max-au/erlperf) - Collection of tools useful for Erlang profiling, tracing, memory analysis and more. Scalability and performance inspection.
+- [spg](https://github.com/max-au/spg) - Scalable Process Groups.
+- [argparse](https://github.com/max-au/argparse) - Command line parser for Erlang.
+- [spell1](https://github.com/rvirding/spell1) - LL(1) parser generator for Erlang and LFE.
+- [Type-Based Optimizations in the JIT (2022)](https://www.erlang.org/blog/type-based-optimizations-in-the-jit/)
+- [Eir Project](https://github.com/eirproject/eir) - Erlang compiler and IR implemented in Rust.
+- [Introducing Rebar3 TypEr (2022)](https://tech.nextroll.com/blog/dev/2022/04/27/rebar3-typer.html)
+- [erl_ast](https://github.com/sile/erl_ast) - Rust library for working with Abstract Syntax Trees of Erlang programs.
+- [WhatsApp Raft](https://github.com/WhatsApp/waraft) - Erlang implementation of RAFT from WhatsApp.
+- [Erlang grammar for tree-sitter](https://github.com/the-mikedavis/tree-sitter-erlang)
+- [erl_rpc](https://github.com/sile/erl_rpc) - Erlang RPC Client for Rust.
+- [Partisan](https://github.com/lasp-lang/partisan) - Flexible, TCP-based membership system for Erlang/Elixir.
+- [Is Erlang an albatross to Elixir adoption? (2022)](https://news.ycombinator.com/item?id=31314274)
+- [nuntius](https://github.com/2Latinos/nuntius) - Erlang/OTP library to mock registered processes.
+- [Erlang/OTP 25.0 Release (2022)](https://www.erlang.org/news/157) ([HN](https://news.ycombinator.com/item?id=31421961))
+- [Ironclad](https://github.com/kvakvs/Ironclad) - Erlang type checker.
+- [beamcode](https://github.com/sile/beamcode) - Rust library to encode / decode Erlang BEAM instructions.
+- [The How and Why of Fitting Things Together - Joe Armstrong (2013)](https://www.youtube.com/watch?v=ed7A7r6DBsM)
+- [The hunt for a cluster-killer Erlang bug (2021)](https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81) ([HN](https://news.ycombinator.com/item?id=31746090))

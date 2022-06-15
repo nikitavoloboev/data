@@ -1,0 +1,75 @@
+---
+title: Automata theory
+---
+
+# [Automata theory](https://en.wikipedia.org/wiki/Automata_theory)
+
+## Links
+
+- [Particle Life - A Game of Life Made of Particles (2018)](https://www.youtube.com/watch?v=Z_zmZ23grXE) ([GitHub](https://github.com/HackerPoet/Particle-Life))
+- [Game of life with particles (in JS)](https://github.com/fnky/particle-life)
+- [Terra](https://github.com/rileyjshaw/terra) - JS library for simple biological simulations and cellular automata.
+- [Lenia](https://github.com/Chakazul/Lenia) - 2D cellular automata with continuous space, time and states. It produces a huge variety of interesting life forms.
+- [Conway's game of life, in parallel](https://jlpaca.github.io/toybox/4-conway/index.html)
+- [Conway's Game of Life in Go](https://github.com/healeycodes/conways-game-of-life)
+- [Implementations of Game of Life in different languages](https://github.com/domoritz?tab=repositories&q=gameoflife)
+- [Implementation of logical functions in the Game of Life](http://www.rennard.org/alife/CollisionBasedRennard.pdf)
+- [Finding Mona Lisa in the Game of Life](https://kevingal.com/blog/mona-lisa-gol.html)
+- [A Life in Games: John Horton Conway (2015)](https://www.quantamagazine.org/john-conways-life-in-games-20150828/)
+- [Wasm Game Of Life](https://github.com/gus3inov/wasm-game-of-life) - Game of life with WebAssembly.
+- [Life in life](https://www.youtube.com/watch?v=xP5-iIeKXE8) ([HN](https://news.ycombinator.com/item?id=22849264))
+- [Inventing Game of Life (John Conway)](https://www.youtube.com/watch?v=R9Plq-D1gEk)
+- [Rule 30 and Game of Life](https://github.com/elliotwaite/rule-30-and-game-of-life)
+- [Pebble-Intervals Automata and FO2 with Two Orders∗ (Extended Version) (2019)](https://arxiv.org/pdf/1912.00171.pdf)
+- [Life](https://github.com/zntfdr/Life) - Swift implementation of Conway's Game of Life.
+- [Remembering John Conway's FRACTRAN (2020)](http://raganwald.com/2020/05/03/fractran.html) ([HN](https://news.ycombinator.com/item?id=23142232))
+- [Game of Life in one Ruby statement inspired by APL (2020)](https://zverok.github.io/blog/2020-05-16-ruby-as-apl.html) ([HN](https://news.ycombinator.com/item?id=23208431))
+- [Build a digital clock in Conway's Game of Life](https://codegolf.stackexchange.com/questions/88783/build-a-digital-clock-in-conways-game-of-life)
+- [Growing Neural Cellular Automata (2020)](https://distill.pub/2020/growing-ca/)
+- [Game of Life on Metal (2020)](https://cutting.io/posts/game-of-life-on-metal/) ([Code](https://github.com/dcutting/GameOfLifeOnMetal))
+- [Tock](https://github.com/ND-CSE-30151/tock) - Theory Of Computing toolKit. Can simulate the automata taught in standard theory of computation courses.
+- [Game of Life Web](https://herebeseaswines.net/game-of-life/)
+- [Accretor Cellular Automata (2018)](https://softologyblog.wordpress.com/2018/01/12/accretor-cellular-automata/)
+- [Eye Computer: Turning Vision into a Programmable Computer (2010)](https://humanfactorylab.com/uploads/8/3/4/4/83445868/changizi_eyecomputer_presspiece.pdf) ([Tweet](https://twitter.com/MarkChangizi/status/1271129027781234690))
+- [The Game of Life – Emergence in Generative Art (2020)](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art) ([HN](https://news.ycombinator.com/item?id=23840295))
+- [conwayste](https://github.com/conwayste/conwayste) - Multiplayer Conway's Game of Life.
+- [Cellular automata as convolutional neural networks (2020)](https://arxiv.org/abs/1809.02942) ([HN](https://news.ycombinator.com/item?id=24130849))
+- [What is that scarf? (2019)](https://csvoss.com/cellular-automaton-scarf)
+- [The Recursive Universe (2020)](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/) ([HN](https://news.ycombinator.com/item?id=24323011)) ([Lobsters](https://lobste.rs/s/kvujjm/recursive_universe))
+- [Build a working game of Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life) ([Lobsters](https://lobste.rs/s/lcgb1l/build_working_game_tetris_conway_s_game))
+- [Let’s build a computer in Conway's game of life (2020)](https://www.youtube.com/watch?v=Kk2MH9O4pXY)
+- [Building a computer in Conway's game of life (2020)](https://www.nicolasloizeau.com/gol-computer) ([HN](https://news.ycombinator.com/item?id=24831268))
+- [Cellular Automaton in Haskell (I). Conway's Game of Life](https://herebeseaswines.net/essays/2020-10-22-conways-game-of-life-in-haskell)
+- [Cellular Christmas Tree (2018)](https://dodisturb.me/posts/2018-01-28-Cellular-Christmas-Tree.html)
+- [Simulating Fluid Dynamics with Cellular Automata (1986)](https://content.wolfram.com/uploads/sites/34/2020/07/cellular-automaton-fluids-theory.pdf) ([HN](https://news.ycombinator.com/item?id=25756813))
+- [Fast Python implementation of Conway's game of life and other cellular automata](https://github.com/thearn/game-of-life)
+- [Breaking a Degenerate Hyper-Dimensional Game of Life (2021)](https://blog.jle.im/entry/degenerate-hyper-dimensional-game-of-life.html)
+- [Self-Organising Textures](https://distill.pub/selforg/2021/textures/) - Neural Cellular Automata Model of Pattern Formation. ([HN](https://news.ycombinator.com/item?id=26112959))
+- [List of amazing cellular automata projects (2021)](https://twitter.com/GalaxyKate/status/1361354915742892039)
+- [Minkovski Cellular Automata Simulator](https://dmishin.github.io/minkovski-ca/) ([Code](https://github.com/dmishin/minkovski-ca))
+- [Get a Life](http://crypto.stanford.edu/~blynn/haskell/life.html)
+- [Create your own cellular automata](http://aperocky.com/cellular-automata/) ([HN](https://news.ycombinator.com/item?id=26466275)) ([Code](https://github.com/Aperocky/cellular-automata))
+- [Self-reproducing cellular automata (2021)](https://www.johndcook.com/blog/2021/05/03/self-reproducing-cellular-automata/)
+- [WebGL Cellular Automata](https://github.com/benpm/webgl-cellular-automata) - Multi-state 8-neighbor totalistic 2D cellular automata simulation written in WebGL, with support for random rule generation.
+- [Adversarial Reprogramming of Neural Cellular Automata (2021)](https://distill.pub/selforg/2021/adversarial/) ([HN](https://news.ycombinator.com/item?id=27068236))
+- [Conway’s Game of Life in SwiftUI](https://github.com/martinlexow/GameOfLife)
+- [Understanding Multiple Neighborhood Cellular Automata (2021)](https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/) ([HN](https://news.ycombinator.com/item?id=27287184))
+- [VulkanAutomata](https://github.com/Slackermanz/VulkanAutomata) - GPU-Accelerated Cellular Automata Render Engine using the Vulkan API.
+- [Computational Hierarchy of Elementary Cellular Automata (2021)](https://arxiv.org/abs/2108.00415)
+- [Simple Rust implementation of Conway's Game of Life](https://github.com/brundonsmith/life)
+- [WebGPU Compute Cellular Automata](https://github.com/dawidgorny/webgpu-cca)
+- [CellularAutomata](https://github.com/MartinuzziFrancesco/CellularAutomata.jl) - Cellular automata creation and analysis tools in Julia.
+- [Learning Graph Cellular Automata (2021)](https://arxiv.org/abs/2110.14237) ([Tweet](https://twitter.com/riceasphait/status/1453731163592290306)) ([Code](https://github.com/danielegrattarola/GNCA))
+- [Cellular Automata in F# (2020)](https://isthisit.nz/posts/2020/cellular-automata-in-fsharp/) ([HN](https://news.ycombinator.com/item?id=29133075))
+- [Lifeee](https://github.com/scastiel/lifeee-rs) - Conway’s Game of Life with an infinite zoomable grid. ([HN](https://news.ycombinator.com/item?id=29203502))
+- [Life Simulation Written in Rust](https://joelthelion.github.io/life_web/demo/) ([Code](https://github.com/joelthelion/life_web))
+- [Lisp in Conway's Game of Life](https://github.com/woodrush/lisp-in-life)
+- [Cellular Automata (2017)](https://plato.stanford.edu/entries/cellular-automata/) ([HN](https://news.ycombinator.com/item?id=29779403))
+- [A Lisp Interpreter Implemented in Conway’s Game of Life (2022)](https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html)
+- [29-year-old Conway conjecture settled (2022)](https://cp4space.hatsya.com/2022/01/14/conway-conjecture-settled/) ([HN](https://news.ycombinator.com/item?id=29955780))
+- [Conway's Game of Life implementations for Native/Emscripten](https://github.com/gifnksm/game-of-life-rs)
+- [List of life-like cellular automata](https://conwaylife.com/wiki/List_of_Life-like_cellular_automata) ([HN](https://news.ycombinator.com/item?id=30402290))
+- [On the Concept of Motion (2022)](https://writings.stephenwolfram.com/2022/03/on-the-concept-of-motion/)
+- [Buttons as Finite Automata](https://web.stanford.edu/class/archive/cs/cs103/cs103.1142/button-fsm/) ([HN](https://news.ycombinator.com/item?id=30775365))
+- [Conway's Game of Life: Mathematics and Construction](https://conwaylife.com/book/) ([Code](https://github.com/nathanieljohnston/game-of-life-book))
+- [Conway's Game of Life – Mathematics and Construction](https://conwaylife.com/book/conway_life_book.pdf) ([HN](https://news.ycombinator.com/item?id=31000502))

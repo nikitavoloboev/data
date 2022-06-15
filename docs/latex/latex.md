@@ -1,0 +1,146 @@
+---
+title: LaTeX
+---
+
+# [LaTeX](https://www.latex-project.org/)
+
+LaTeX is an amazing typesetting language that I mostly use to markup various mathematical formulas. I am currently learning more about it and try to use it here in the wiki too with [KaTex](https://plugins.gitbook.com/plugin/katex) plugin.
+
+For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text.md) and [LateXTools](https://github.com/SublimeText/LaTeXTools) plugin.
+
+## Links
+
+- [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf)
+- [Neat typesetting](http://tullo.ch/static/cambridge/TimeSeriesMonteCarlo-LectureNotes.pdf)
+- [Mathpix](https://mathpix.com/) - Convert images of math and handwriting into LaTeX and text instantly. ([GitHub](https://github.com/Mathpix)) ([HN](https://news.ycombinator.com/item?id=31510341))
+- [My LaTeX Workflow: latexmk, ShareLaTeX, and StackEdit (2015)](https://jeremykun.com/2015/01/10/my-latex-workflow-latexmk-sharelatex-and-stackedit/)
+- [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - LaTeX code for making neural networks diagrams.
+- [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
+- [How I'm able to take notes in mathematics lectures using LaTeX and Vim (2019)](https://castel.dev/post/lecture-notes-1/) ([HN](https://news.ycombinator.com/item?id=19448678)) ([HN](https://news.ycombinator.com/item?id=29143707))
+- [Managing LaTeX lecture notes](https://github.com/gillescastel/university-setup)
+- [Engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
+- [LaTeX3 Development Repository](https://github.com/latex3/latex3) - Contains development material for LaTeX3.
+- [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - Clean pandoc LaTeX template to convert your markdown files to PDF or LaTeX.
+- [KaTeX](https://katex.org/) - Fastest math typesetting library for the web. ([Code](https://github.com/KaTeX/KaTeX)) ([HN](https://news.ycombinator.com/item?id=24742518))
+- [arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) - Easily clean the LaTeX code of your paper to submit to arXiv.
+- [HN: LaTeX Workflow on iPad](https://news.ycombinator.com/item?id=20180015)
+- [arxiv-style](https://github.com/kourgeorge/arxiv-style) - Latex style and template for paper preprints (based on NIPS style).
+- [Image to Latex (2019)](https://www.wandb.com/articles/image-to-latex)
+- [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
+- [The Great, Big List of LATEX Symbols](https://www.rpi.edu/dept/arc/training/latex/LaTeX_symbols.pdf)
+- [BayesNet](https://github.com/jluttine/tikz-bayesnet) - TikZ library for drawing Bayesian networks, graphical models and (directed) factor graphs in LaTeX.
+- [LaTeX.Online](https://latexonline.cc/) - Open source service where anyone can build a PDF from GIT repository with TeX files. ([Code](https://github.com/aslushnikov/latex-online))
+- [Polymath](https://jwmza.com/polymath/) - Markup Language for Everything. ([HN](https://news.ycombinator.com/item?id=22278932))
+- [Detexify](http://detexify.kirelabs.org/classify.html) - LaTeX Handwritten Symbol Recognition. ([HN](https://news.ycombinator.com/item?id=22356361))
+- [TexLab](https://github.com/latex-lsp/texlab) - Implementation of the Language Server Protocol for LaTeX.
+- [Metropolis](https://github.com/matze/mtheme) - Modern LaTeX Beamer theme.
+- [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - WYSIWYG Browser-based LaTeX Editor. ([HN](https://news.ycombinator.com/item?id=21710105))
+- [LaTeX Tips](https://jaydaigle.net/latex/)
+- [Biber](https://github.com/plk/biber) - Backend processor for BibLaTeX.
+- [Blank starter LaTeX code for writing papers and slides](https://github.com/tonyduan/paper-template)
+- [LaTeX.css](https://latex.now.sh/) - Make your website look like a LaTeX document. ([HN](https://news.ycombinator.com/item?id=23282207)) ([Code](https://github.com/vincentdoerig/latex-css))
+- [LatexCSS](https://davidrzs.github.io/latexcss/) - Nearly Classless CSS file to give html a latex-like look. ([Code](https://github.com/davidrzs/latexcss))
+- [Have you ever asked yourself “how did research get done before LateX?” (2020)](https://threadreaderapp.com/thread/1262489387767480322.html) ([HN](https://news.ycombinator.com/item?id=23338742))
+- [LaTeX.js](https://github.com/michael-brade/LaTeX.js) - LaTeX to HTML5 translator using a PEG.js parser.
+- [Flexible LaTeX Article Environment](https://github.com/sylvainhalle/PaperShell)
+- [mdbook-latex](https://github.com/lbeckman314/mdbook-latex) - An mdbook backend for generating LaTeX and PDF documents.
+- [LaTeXML](https://github.com/brucemiller/LaTeXML) - TeX and LaTeX to XML/HTML/ePub/MathML translator.
+- [TikZiT](https://tikzit.github.io/) - Graphical tool for rapidly creating graphs and string diagrams using PGF/TikZ. ([Code](https://github.com/tikzit/tikzit))
+- [LaTeX to HTML5](https://github.com/smarr/latex-to-html5) - Scripts for Latex to HTML5 conversion.
+- [LaTeX Typesetting](https://fedoramagazine.org/latex-typesetting-part-1/) ([Lobsters](https://lobste.rs/s/kf9e9m/latex_typesetting_part_1))
+- [Papers](https://github.com/store2be/pape-rs) - LaTeX template to PDF generation web service written in Rust.
+- [Collection of LaTeX templates used for research, courses](https://github.com/dustinvtran/latex-templates)
+- [handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex. ([HN](https://news.ycombinator.com/item?id=24347131))
+- [LaTeX News](https://www.latex-project.org/news/)
+- [TeX FAQ](http://www.texfaq.org/index)
+- [LuaTeX](http://www.luatex.org/) - Extended version of pdfTeX using Lua as an embedded scripting language.
+- [What is the future of TeX?](http://www.texfaq.org/FAQ-TeXfuture)
+- [TikZ.net](https://tikz.net/) - Graphics with TikZ in LaTeX. ([HN](https://news.ycombinator.com/item?id=28260875))
+- [TikZ](https://github.com/PetarV-/TikZ) - Complete collection of my PGF/TikZ figures. I will do my best to keep it updated as soon as new figures are published.
+- [Research Logbook](https://github.com/JJGO/research-logbook) - Simple yet powerful LaTeX template for research notebook with modular components and a wide variety of tools.
+- [LyX](https://www.lyx.org/) - Document Processor. ([HN](https://news.ycombinator.com/item?id=24820428)) ([Code](https://github.com/cburschka/lyx))
+- [kaobook](https://github.com/fmarotta/kaobook) - LaTeX class for books, reports or theses.
+- [Tectonic](https://github.com/tectonic-typesetting/tectonic) - Modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. ([Web](https://tectonic-typesetting.github.io/en-US/)) ([Lobsters](https://lobste.rs/s/05fsrm/tectonic_typesetting_system))
+- [Tectonic in Rust](https://github.com/crlf0710/tectonic) - Rewriting LaTeX in Pure Rust. ([HN](https://news.ycombinator.com/item?id=25328874))
+- [XymosTeX](https://github.com/xymostech/XymosTeX) - Attempt to build an implementation of TeX in Rust.
+- [InstaTeX](https://instatex.vercel.app/) - Minimal TeX equation editor in the browser.
+- [SpanDeX](https://github.com/rust-spandex/spandex) - Modern alternative to LaTeX written in Rust. ([Docs](https://rust-spandex.github.io/))
+- [PyLaTeX](https://github.com/JelteF/PyLaTeX) - Python library for creating and compiling LaTeX files or snippets. ([Docs](https://jeltef.github.io/PyLaTeX/current/))
+- [Examples for the usage of LaTeX](https://github.com/MartinThoma/LaTeX-examples)
+- [TeX: A Branch in Desktop Publishing Evolution (2018-2019)](https://www.walden-family.com/ieee/texhistory.html)
+- [Python2LaTeX](https://github.com/jsleb333/python2latex) - Python to LaTeX converter.
+- [MiKTeX](https://miktex.org/) - Modern C/C++ implementation of TeX & Friends. ([Code](https://github.com/MiKTeX/miktex))
+- [Top LaTeX Fonts](https://r2src.github.io/top10fonts/)
+- [TeXMe](https://github.com/susam/texme) - Lightweight JavaScript utility to create self-rendering Markdown + LaTeX documents. ([Web](https://susam.github.io/texme/)) ([Demo](https://susam.github.io/texme/examples/demo.html))
+- [Arara](https://gitlab.com/islandoftex/arara) - TeX automation tool based on rules and directives. ([HN](https://news.ycombinator.com/item?id=26211705))
+- [LaTeX Complete – Figma Plugin](https://www.figma.com/community/plugin/793023817364007801/LaTeX-Complete) - Typeset mathematics right in your designs.
+- [GitHub LaTeX Action](https://github.com/xu-cheng/latex-action) - GitHub Action to compile LaTeX documents.
+- [Generating ePub from LaTeX (2021)](https://minireference.com/blog/generating-epub-from-latex/) ([HN](https://news.ycombinator.com/item?id=26356903))
+- [LearnLaTeX.org](https://www.learnlatex.org/en/) - Place to learn LaTeX online. ([HN](https://news.ycombinator.com/item?id=26497557))
+- [Overleaf](https://www.overleaf.com/) - Online LaTeX Editor. ([Code](https://github.com/overleaf/overleaf))
+- [fiziko](https://github.com/jemmybutton/fiziko) - MetaPost library initially written to automate some elements of black and white illustrations for a physics textbook.
+- [acmart](https://github.com/borisveytsman/acmart) - ACM consolidated LaTeX styles.
+- [LaTeX Best Practices](https://github.com/simonharrer/latex-best-practices)
+- [TeXmacs and the Art of Mathematical Writing](https://texmacs.github.io/notes/docs/art-of-math-writing.html) ([HN](https://news.ycombinator.com/item?id=27024260))
+- [HaTeX](https://github.com/Daniel-Diaz/HaTeX) - Haskell library that implements the LaTeX syntax, plus some abstractions on top.
+- [finl is not LaTeX – Reinventing LaTeX for the twenty-first century](https://www.finl.xyz/) ([Lobsters](https://lobste.rs/s/udu5oe/finl_is_not_latex_reinventing_latex_for))
+- [Expanding TeX's \newif (2021)](https://mht.wtf/post/tex/)
+- [The LaTeX Font Catalogue](https://tug.org/FontCatalogue/)
+- [Muboard](https://muboard.net/) - Mathematics Chalkboard With LaTeX and Markdown Support. ([Code](https://github.com/susam/muboard)) ([HN](https://news.ycombinator.com/item?id=28033005))
+- [Image to LaTeX](https://github.com/kingyiusuen/image-to-latex) - Convert images of LaTex math equations into LaTex code. ([Tweet](https://twitter.com/srush_nlp/status/1423038589517148164))
+- [Upmath](https://upmath.me/) - Markdown & LaTeX Online Editor. ([Code](https://github.com/parpalak/upmath.me))
+- [Lunamark](https://github.com/jgm/lunamark) - Lua library for conversion between markup formats.
+- [Markdown](https://github.com/Witiko/markdown) - Package for converting and rendering markdown documents in TeX.
+- [pgfplots](https://github.com/pgf-tikz/pgfplots) - Create normal/logarithmic plots in two and three dimensions for LaTeX/TeX/ConTeXt.
+- [PGF](https://github.com/pgf-tikz/pgf) - TeX macro package for generating graphics. ([Manual](https://pgf-tikz.github.io/pgf/pgfmanual.pdf))
+- [Simplified LNCS Template](https://github.com/latextemplates/LNCS) - Improved Lecture Notes in Computer Science (LNCS) template.
+- [LTeX Language Server](https://github.com/valentjn/ltex-ls) - LSP language server for LanguageTool with support for LaTeX, Markdown, and others. ([Docs](https://valentjn.github.io/vscode-ltex/))
+- [katex-rs](https://github.com/xu-cheng/katex-rs) - Rust bindings to KaTeX.
+- [Show Your Work](https://github.com/rodluger/showyourwork) - Fully reproducible, open source scientific articles in LaTeX.
+- [web2js](https://github.com/kisonecat/web2js) - Pascal compiler that targets WebAssembly, designed specifically to compile TeX so it can be run inside the browser.
+- [TikZJax](https://tikzjax.com/) - Converts script tags (containing TikZ code) into SVGs. ([Code](https://github.com/kisonecat/tikzjax))
+- [Ant](https://github.com/groupoid/ant) - New typesetting system. Resembles TeX, but improves the internal language, which is ML dialect with rich domain-specific features for typesetting.
+- [Asiatic pTeX](https://github.com/clerkma/ptex-ng)
+- [ClutTeX](https://github.com/minoki/cluttex) - Process LaTeX document without cluttering your directory.
+- [LaTeX Input for Impatient Scholars (2021)](https://karthinks.com/software/latex-input-for-impatient-scholars/) ([HN](https://news.ycombinator.com/item?id=29131928))
+- [LaTeXPad](https://www.latexpad.dev/) - Minimalist LaTeX scratch pad with symbol autocompletion and instant previews. ([Code](https://github.com/cmoog/latexpad))
+- [LaTeX Run](https://github.com/aclements/latexrun) - Fits LaTeX into a modern build environment.
+- [Symbolic-math-HaTeX](https://github.com/leftaroundabout/Symbolic-math-HaTeX) - Convenient Haskell syntax for writing in LaTeX math expressions.
+- [NotebookToLaTeX.jl](https://github.com/davibarreira/NotebookToLaTeX.jl) - Julia package for converting your Pluto and Jupyter Notebooks into beautiful Latex.
+- [LaTeX Cookbook](https://latex-cookbook.net/) - Collection of LaTeX recipes. ([HN](https://news.ycombinator.com/item?id=29672872))
+- [How to write LaTeX without writing LaTeX](https://jarbus.net/blog/write-latex-without-latex/) ([HN](https://news.ycombinator.com/item?id=29687840))
+- [Beamer](https://github.com/josephwright/beamer) - LaTeX class for producing presentations.
+- [Blogging with TikZ (2021)](https://lukasschwab.me/blog/gen/blogging-with-tikz.html)
+- [Examples of how to create colorful, annotated equations in Latex using Tikz](https://github.com/synercys/annotated_latex_equations)
+- [CTAN](https://ctan.org/) - Comprehensive TeX Archive Network.
+- [Annotated example of how to make annotated equations in LaTeX using TikZ](https://github.com/st--/annotated_latex_equations)
+- [pylatexenc](https://github.com/phfaist/pylatexenc) - Simple LaTeX parser providing latex-to-unicode and unicode-to-latex conversion.
+- [Bibolamazi](https://github.com/phfaist/bibolamazi) - Prepare consistent and uniform BibTeX files for your LaTeX documents.
+- [latex-parser](https://github.com/siefkenj/latex-parser) - Generate an AST and beautify LaTeX code.
+- [blacktex](https://github.com/nschloe/blacktex) - Cleans up your LaTeX files.
+- [minted](https://github.com/gpoore/minted) - Highlighted source code for LaTeX.
+- [mdbook-katex](https://github.com/lzanini/mdbook-katex) - Preprocessor for mdBook, rendering LaTex equations to HTML at build time.
+- [biblatex](https://github.com/plk/biblatex) - Sophisticated bibliography system for LaTeX users.
+- [CircuiTikZ](https://github.com/circuitikz/circuitikz) - CircuiTikZ TeX/LaTeX package for drawing circuits.
+- [tikzsd](https://github.com/anthonyywangmath/tikzsd) - Haskell program used to generate LaTeX code for string diagrams.
+- [pix2tex](https://github.com/lukas-blecher/LaTeX-OCR) - Using a ViT to convert images of equations into LaTeX code.
+- [Real-time LaTeX Using Vim or Neovim](https://ejmastnak.github.io/tutorials/vim-latex/intro.html) ([Reddit](https://www.reddit.com/r/vim/comments/tt62lm/tutorial_a_vimbased_workflow_for_efficient_latex/))
+- [PythonTeX](https://github.com/gpoore/pythontex) - Execute Python and other code in LaTeX documents, or typeset it with syntax highlighting.
+- [latexindent.pl](https://github.com/cmhughes/latexindent.pl) - Perl script to add indentation (leading horizontal space) to LaTeX files.
+- [TeX Live](https://tug.org/texlive/) - TeX Users Group.
+- [Tufte Algorithms Book Template](https://github.com/sisl/tufte_algorithms_book) - Template for textbooks in the same style as Algorithms for Optimization.
+- [MTTeX](https://github.com/wilbowma/mttex) - LaTeX package for formatting meta-theory.
+- [TinyTeX](https://github.com/yihui/tinytex) - Lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live.
+- [Galley of Tikz drawings](https://github.com/walmes/Tikz)
+- [Neat LaTeX tricks (2022)](https://twitter.com/gpxl_/status/1511922614842761216)
+- [Template for LaTeX-based Network Diagrams](https://github.com/mbugert/latex-network-diagram-template)
+- [LaTeX2e Kernel Code](https://github.com/latex3/latex2e)
+- [Nix configuration for building LaTeX documents](https://github.com/dnadales/nix-latex-template)
+- [Alternatives to TikZ for making diagrams](https://twitter.com/heidiann360/status/1524667888111656960)
+- [HEVEA](https://github.com/maranget/hevea) - Fast LaTeX to HTML translator.
+- [I hate LaTeX. I love LaTeX.](https://commutative.xyz/~miguelmurca/blog/x/illihl.html) ([HN](https://news.ycombinator.com/item?id=31490136))
+- [Exploring Nix Flakes: Build LaTeX Documents Reproducibly (2021)](https://flyx.org/nix-flakes-latex/)
+- [unified-latex](https://github.com/siefkenj/unified-latex) - Utilities for parsing and manipulating LaTeX ASTs with the Unified.js framework.
+- [TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) - LaTeX support for the IntelliJ platform by JetBrains.
+- [How I make beautiful GRAPHS and PLOTS using LaTeX (2022)](https://www.youtube.com/watch?v=5jmIHOWpEg0)
+- [Render LaTeX in React apps](https://github.com/harunurhan/react-latex-next)

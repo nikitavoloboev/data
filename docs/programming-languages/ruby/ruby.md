@@ -1,0 +1,134 @@
+# Ruby
+
+[Try Ruby](https://try.ruby-lang.org/) is nice intro.
+
+## Links
+
+- [Ruby is nice, but what makes great?](https://www.reddit.com/r/ruby/comments/8ysh41/ruby_is_nice_but_what_makes_great/)
+- [Clean code ruby](https://github.com/uohzxela/clean-code-ruby) - Clean Code concepts adapted for Ruby.
+- [Using Ruby in 2019](https://jasoncharnes.com/using-ruby-in-2019/)
+- [Sorbet](https://sorbet.org/) - Fast, powerful type checker designed for Ruby. ([Code](https://github.com/sorbet/sorbet)) ([HN](https://news.ycombinator.com/item?id=28013797)) ([Article](https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby)) ([HN](https://news.ycombinator.com/item?id=30833555))
+- [Referral](https://github.com/testdouble/referral) - Scan for definitions and references in your Ruby code.
+- [Artichoke](https://github.com/artichoke/artichoke) - Ruby made with Rust.
+- [Artichoke Ruby Playground](https://artichoke.run/) ([Code](https://github.com/artichoke/playground))
+- [rubyfmt](https://github.com/penelopezone/rubyfmt) - Ruby Autoformatter.
+- [Ruby Next](https://github.com/ruby-next/ruby-next) - Transpiler for Ruby. ([HN](https://news.ycombinator.com/item?id=23078609))
+- [Rutie](https://github.com/danielpclark/rutie) - Integrate Ruby with your Rust application. Or integrate Rust with your Ruby application.
+- [ruruby](https://github.com/sisshiki1969/ruruby) - Alternative Ruby implementation by Rust.
+- [How to Fix Slow Code in Ruby (2020)](https://engineering.shopify.com/blogs/engineering/how-fix-slow-code-ruby) ([HN](https://news.ycombinator.com/item?id=23182127))
+- [The Ruby Bibliography](https://rubybib.org/) - Academic writing on the Ruby programming language. ([Code](https://github.com/rubybib/rubybib.org))
+- [Exploring Metaprogramming in Ruby (2020)](https://www.halcyon.hr/posts/exploring-metaprogramming-in-ruby/) ([Reddit](https://www.reddit.com/r/ruby/comments/gzsf5y/exploring_metaprogramming_in_ruby/))
+- [Why's Poignant Guide to Ruby](http://poignant.guide/)
+- [TruffleRuby](https://github.com/oracle/truffleruby) - GraalVM high-performance implementation of the Ruby programming language built by Oracle Labs.
+- [A silly thing you can do with the Ruby parser](https://penelope.zone/2019/12/22/a-silly-thing-you-can-do-with-the-ruby-parser.html) ([Lobsters](https://lobste.rs/s/op8zo4/silly_thing_you_can_do_with_ruby_parser))
+- [Ruby Method Overloading (2020)](https://lucaguidi.com/2020/07/22/ruby-method-overloading/) ([Lobsters](https://lobste.rs/s/gqsbka/ruby_method_overloading))
+- [RBS](https://github.com/ruby/rbs) - Type Signature for Ruby. ([Article](https://developer.squareup.com/blog/the-state-of-ruby-3-typing/)) ([HN](https://news.ycombinator.com/item?id=23989738)) ([Lobsters](https://lobste.rs/s/ujkglz/state_ruby_3_typing))
+- [IRB](https://github.com/ruby/irb) - Interactive Ruby.
+- [Http.rb is Great (2018)](https://janko.io/httprb-is-great/)
+- [Fast Ruby](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Common Ruby idioms.
+- [Effective Debugging of Memory Leaks in Ruby (2020)](http://stratus3d.com/blog/2020/08/11/effective-debugging-of-memory-leaks-in-ruby/)
+- [Ruby modules in-depth (2019)](https://www.brainstobytes.com/ruby-modules/)
+- [Proportional dispatching using Ruby (2020)](https://medium.com/rubycademy/proportional-dispatching-using-ruby-378afbdeb32d)
+- [Modern Ruby Serializers (2020)](https://vasilakisfil.social/blog/2020/01/20/modern-ruby-serializers/)
+- [Ruby Antipatterns](https://www.alchemists.io/articles/ruby_antipatterns/) ([Lobsters](https://lobste.rs/s/duiirg/ruby_antipatterns))
+- [Puma](https://github.com/puma/puma) - Ruby/Rack web server built for concurrency. ([Web](https://puma.io/))
+- [Ruby 3.0 Preview 1 (2020)](https://www.ruby-lang.org/en/news/2020/09/25/ruby-3-0-0-preview1-released/) ([HN](https://news.ycombinator.com/item?id=24593093))
+- [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/preface.html) ([Code](https://github.com/learnbyexample/learn_ruby_oneliners)) ([HN](https://news.ycombinator.com/item?id=24637797))
+- [RuboCop](https://github.com/rubocop-hq/rubocop) - Ruby static code analyzer and formatter, based on the community Ruby style guide. ([Docs](https://docs.rubocop.org/rubocop/1.0/index.html))
+- [Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide) - Community-driven Ruby coding style guide. ([Web](https://rubystyle.guide/))
+- [RuboCop Performance](https://github.com/rubocop-hq/rubocop-performance) - Extension of RuboCop focused on code performance checks.
+- [RuboCop RSpec](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files.
+- [Shopify Ruby Style Guide](https://github.com/Shopify/ruby-style-guide)
+- [Context on STM in Ruby (2020)](https://chrisseaton.com/truffleruby/ruby-stm/) ([HN](https://news.ycombinator.com/item?id=24921657))
+- [Error handling with Monads in Ruby (2020)](http://nywkap.com/programming/either-monads-ruby.html)
+- [Why's (Poignant) Guide to Ruby (2004)](https://poignant.guide/book/chapter-2.html) ([HN](https://news.ycombinator.com/item?id=25043544)) ([Web](https://poignant.guide/book/)) ([Article](https://github.com/readme/featured/why-the-lucky-stiff)) ([Reddit](https://www.reddit.com/r/programming/comments/qfn5ln/what_we_can_learn_from_why_the_long_lost_open/))
+- [Ruby Refinements Have One Good Use Case (2020)](http://www.soulcutter.com/articles/ruby-refinements-have-one-good-use-case.html)
+- [rspec-core](https://github.com/rspec/rspec-core) - RSpec runner and formatters.
+- [My Beef With RuboCop (2020)](https://www.rubypigeon.com/posts/my-beef-with-rubocop/) ([Lobsters](https://lobste.rs/s/wgi0rn/my_beef_with_rubocop)) ([HN](https://news.ycombinator.com/item?id=25147990))
+- [RubyConf 2020](https://www.alchemists.io/articles/ruby_conf_2020/)
+- [Bazel Ruby Rules](https://github.com/coinbase/rules_ruby)
+- [TypeProf](https://github.com/ruby/typeprof) - Experimental type-level Ruby interpreter for testing and understanding Ruby code.
+- [Ruby Code Examples Vs. Python Code Examples (2020)](https://www.connerjensen.com/blog/ruby-code-examples)
+- [Inspecting the Contents of a Ruby Gem (2020)](https://batsov.com/articles/2020/12/16/inspecting-the-contents-of-a-ruby-gem/)
+- [Learn Sorbet in Y minutes (2020)](https://jdkaplan.dev/blog/learn-sorbet-in-y-minutes/)
+- [Polished Ruby Programming book](https://github.com/PacktPublishing/Polished-Ruby-Programming)
+- [Ruby 3.0.0 RC1 Released (2020)](https://www.ruby-lang.org/en/news/2020/12/20/ruby-3-0-0-rc1-released/) ([HN](https://news.ycombinator.com/item?id=25494789))
+- [Ruby 3.0 and the new FiberScheduler interface (2020)](http://www.wjwh.eu/posts/2020-12-28-ruby-fiber-scheduler-c-extension.html) ([HN](https://news.ycombinator.com/item?id=25560894))
+- [Ruby Books](https://planetruby.github.io/books/)
+- [Ruby 3, Concurrency and the Ecosystem (2021)](https://kirshatrov.com/2021/01/06/ruby-concurrency-and-ecosystem/) ([HN](https://news.ycombinator.com/item?id=25690212))
+- [lib-ruby-parser](https://github.com/lib-ruby-parser/lib-ruby-parser) - Ruby parser written in Rust.
+- [Ruby Reference](https://rubyreferences.github.io/rubyref/) - Ruby Programming Language Reference. ([Code](https://github.com/rubyreferences/rubyref))
+- [Ractors (2021)](https://brandur.org/nanoglyphs/018-ractors)
+- [Diffy](https://github.com/samg/diffy) - Easy Diffing With Ruby.
+- [Why Wasn't Ruby 3 Faster? (2021)](https://www.fastruby.io/blog/ruby/performance/why-wasnt-ruby-3-faster.html) ([HN](https://news.ycombinator.com/item?id=26096340))
+- [Ruby Garbage Collection Deep Dive: Tri-Color Mark and Sweep (2021)](https://jemma.dev/blog/gc-mark-and-sweep) ([HN](https://news.ycombinator.com/item?id=26182796))
+- [Functional Options in Ruby (2021)](https://dmathieu.com/articles/development/ruby-functional-options/)
+- [Standard Ruby](https://github.com/testdouble/standard) - Ruby style guide, linter, and formatter. ([1.0 release](https://blog.testdouble.com/posts/2021-03-04-announcing-standard-ruby-1.0/)) ([HN](https://news.ycombinator.com/item?id=26352977))
+- [Resilience in Ruby: Shell Commands (2021)](https://www.johnnunemaker.com/resilience-in-ruby-shell-commands/)
+- [Ruby Garbage Collection Deep Dive (2021)](https://jemma.dev/blog/gc-internal)
+- [frum](https://github.com/TaKO8Ki/frum) - Fast and modern Ruby version manager written in Rust.
+- [JRuby](https://github.com/jruby/jruby) - Implementation of Ruby on the JVM. ([Web](https://www.jruby.org/))
+- [Cloudtasker](https://github.com/keypup-io/cloudtasker) - Background jobs for Ruby using Google Cloud Tasks.
+- [Introducing dry-files (2021)](https://dry-rb.org/news/2021/05/04/introducing-dry-files/)
+- [Ruby Garbage Collection Deep Dive: Compaction (2021)](https://jemma.dev/blog/gc-compaction)
+- [Ruby Weekly](https://rubyweekly.com/) - Free, once–weekly e-mail round-up of Ruby news and articles.
+- [Ruby Garbage Collection with Jemma Issroff (2021)](https://railswithjason.simplecast.com/episodes/093-garbage-collection-with-jemma-issroff)
+- [Ruby's Top Exception Classes](https://www.exceptionalcreatures.com/bestiary.html)
+- [Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/c/) ([HN](https://news.ycombinator.com/item?id=27172483))
+- [I Love Ruby](https://i-love-ruby.gitlab.io/) - Get started with the greatest programming language made for humans.
+- [Rhizome](https://github.com/chrisseaton/rhizome) - JIT for Ruby, implemented in pure Ruby. ([HN](https://news.ycombinator.com/item?id=27581257))
+- [Exceptional Ruby Book](https://store.avdi.codes/#NWtnk) - Definitive guide to exceptions and failure handling in Ruby.
+- [Fullstaq Ruby](https://fullstaqruby.org/) - Ruby, optimized for production. ([HN](https://news.ycombinator.com/item?id=27865776))
+- [Benchmarking your Ruby with time_up (2021)](https://blog.testdouble.com/posts/2021-07-19-benchmarking-your-ruby-with-time_up/)
+- [Suture](https://github.com/testdouble/suture) - Ruby gem that helps you refactor your legacy code. ([HN](https://news.ycombinator.com/item?id=28424217))
+- [The Future Shape of Ruby Objects (2021)](https://chrisseaton.com/truffleruby/rubykaigi21/)
+- [Ruby type conversion (2021)](https://kddnewton.com/2021/09/09/ruby-type-conversion.html)
+- [Ruby Packer](https://github.com/pmq20/ruby-packer) - Distribute your Ruby code as a compiled binary. ([HN](https://news.ycombinator.com/item?id=28601055))
+- [TenderJIT](https://github.com/tenderlove/tenderjit) - JIT for Ruby that is written in Ruby. ([HN](https://news.ycombinator.com/item?id=28613682))
+- [Stamping Out Overflow Checks in Ruby (2021)](https://chrisseaton.com/truffleruby/stamping-out-overflow-checks/) ([HN](https://news.ycombinator.com/item?id=28661051))
+- [Proposal to Merge YJIT into Ruby (2021)](https://bugs.ruby-lang.org/issues/18229) ([HN](https://news.ycombinator.com/item?id=28691048))
+- [ruby-build](https://github.com/rbenv/ruby-build) - Command-line utility that makes it easy to install virtually any version of Ruby, from source.
+- [YJIT](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby. ([Article](https://shopify.engineering/yjit-just-in-time-compiler-cruby)) ([HN](https://news.ycombinator.com/item?id=28874283)) ([HN](https://news.ycombinator.com/item?id=28938446))
+- [Embracing Infinite Loops with Ruby and Polyphony (2021)](https://noteflakes.com/articles/2021-10-14-embracing-infinite-loops)
+- [A Compositional Approach to Optimizing the Performance of Ruby Apps (2021)](https://noteflakes.com/articles/2021-10-05-a-compositional-approach-to-ruby-performance)
+- [Rufo](https://github.com/ruby-formatter/rufo) - Ruby Formatter.
+- [Async Ruby (2021)](https://brunosutic.com/blog/async-ruby)
+- [Explaining Ruby Fibers (2021)](https://noteflakes.com/articles/2021-10-20-explaining-ruby-fibers) ([HN](https://news.ycombinator.com/item?id=29036818))
+- [Writing Go in Ruby with Ruby Next (2021)](https://evilmartians.com/chronicles/a-no-go-fantasy-writing-go-in-ruby-with-ruby-next) ([HN](https://news.ycombinator.com/item?id=29170736))
+- [The Ruby Compiler Survey](https://ruby-compilers.com/)
+- [Programming with Something (2021)](https://tomstu.art/programming-with-something)
+- [The Ruby Compiler Survey - Rubinius](https://ruby-compilers.com/rubinius/) - Metacircular implementation of Ruby. ([HN](https://news.ycombinator.com/item?id=29178232))
+- [Ruby vs. Python comes down to the for loop (2021)](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html) ([HN](https://news.ycombinator.com/item?id=29199810))
+- [Future of Ruby – AST Tooling (2019)](https://dev.to/baweaver/future-of-ruby-ast-tooling-9i1)
+- [Learning Ruby from a JavaScript background](https://github.com/gauthamchandra/learning-ruby-from-js)
+- [Where is Ruby Headed in 2021?](https://bignerdranch.com/blog/where-is-ruby-headed-in-2021/) ([HN](https://news.ycombinator.com/item?id=29272682))
+- [Natalie](https://github.com/seven1m/natalie) - Unique Ruby implementation, compiled to C++. ([Web](https://natalie-lang.org/)) ([HN](https://news.ycombinator.com/item?id=29660883))
+- [Ruby 3.1 (2021)](https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/) ([HN](https://news.ycombinator.com/item?id=29682920)) ([Lobsters](https://lobste.rs/s/ssmdf4/ruby_3_1_0_released))
+- [Ruby: How to Run a Rack app in a Background Thread (2022)](https://www.johnnunemaker.com/ruby-rack-background-thread/)
+- [Ruby Structs (2021)](https://www.alchemists.io/articles/ruby_structs/) ([Lobsters](https://lobste.rs/s/ct0tpf/ruby_structs))
+- [Reek](https://github.com/troessner/reek) - Code smell detector for Ruby.
+- [TryRuby](https://try.ruby-lang.org/) - Learn programming with Ruby. ([Code](https://github.com/ruby/TryRuby))
+- [Why I love Ruby (2022)](https://dev.to/asterite/why-i-love-ruby-part-1-20h2) ([Lobsters](https://lobste.rs/s/f9syni/why_i_love_ruby))
+- [Ruby Best Practices List](https://github.com/hexdevs/ruby-best-practices-list)
+- [Ruby Fiber Scheduler (2022)](https://brunosutic.com/blog/ruby-fiber-scheduler)
+- [mruby](https://mruby.org/) - Lightweight implementation of the Ruby language complying with part of the ISO standard. ([Code](https://github.com/mruby/mruby))
+- [mruby-zig](https://github.com/dantecatalfamo/mruby-zig) - mruby bindings for zig.
+- [Ruby Together](https://rubytogether.org/) - Community funded developer infrastructure. ([HN](https://news.ycombinator.com/item?id=30622186))
+- [Pipelining without pipes (2022)](https://thoughtbot.com/blog/pipelining-without-pipes-in-ruby)
+- [What makes Ruby's blocks great (2022)](https://maxlap.dev/blog/2022/02/10/what-makes-ruby-blocks-great.html)
+- [How to make a templating language in ruby](https://dorianmarie.fr/template/1.html) ([Lobsters](https://lobste.rs/s/nzjf01/how_make_templating_language_part_1))
+- [ruby.wasm](https://github.com/kateinoigakukun/ruby.wasm) - Collection of WebAssembly ports of the CRuby.
+- [Fisk](https://github.com/tenderlove/fisk) - Pure Ruby assembler.
+- [Parser](https://github.com/whitequark/parser) - Ruby parser.
+- [Thanos](https://github.com/redneckbeard/thanos) - Ruby -> Go at the snap of your fingers.
+- [Please stop calling it "magic" (2017)](https://zverok.space/blog/2017-10-22-stop-magic.html) ([Lobsters](https://lobste.rs/s/3odol5/please_stop_calling_it_magic))
+- [Ruby 3.2 preview 1 with support for WASM compilation (2022)](https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/) ([HN](https://news.ycombinator.com/item?id=30947793))
+- [Why Ruby Has Symbols (2022)](https://dmitrytsepelev.dev/why-has-ruby-symbols) ([HN](https://news.ycombinator.com/item?id=31024363))
+- [Opal](https://github.com/opal/opal) - Ruby to JavaScript source-to-source compiler.
+- [Ruby grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-ruby)
+- [Fasterer](https://github.com/DamirSvrtan/fasterer) - Make your Rubies go faster with this command line tool.
+- [Standing on the shoulders of giants and leaky abstractions (2022)](https://honeyryderchuck.gitlab.io/httpx/2022/05/04/standing-on-the-shoulders-of-giants-and-leaky-abstractions.html)
+- [Embedding Truffle Languages (2022)](https://nirvdrum.com/2022/05/09/truffle-language-embedding.html)
+- [Making the Ruby interpreter run a program written in a natural language (2022)](https://dmitrytsepelev.dev/natural-language-programming-with-ruby)
+- [Learning Ruby: a resource list](https://github.com/fpsvogel/learn-ruby-and-cs)
+- [Rlang](https://github.com/ljulliar/rlang) - Ruby-like language compiled to WebAssembly.

@@ -1,0 +1,254 @@
+# C
+
+## Notes
+
+- [Notes on learning/using C.](https://lobste.rs/s/b5xwwg/what_are_you_doing_this_weekend#c_1kh5sd)
+- [C models an assembly wildly different from modern x86, often informs you of errors by just setting shared globals you have to know to check, and has huge amounts of magic wrapped up in libc. There's so many ways that C does things behind your back.](https://twitter.com/BlueSpaceCanary/status/1417800133001891840)
+
+## Links
+
+- [Principles for C programming](http://drewdevault.com/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html)
+- [Understanding pointers](http://drewdevault.com/2016/05/28/Understanding-pointers.html)
+- [c4](https://github.com/rswier/c4) - C in four functions. ([HN](https://news.ycombinator.com/item?id=22353532))
+- [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
+- [One year of C (2018)](https://floooh.github.io/2018/06/02/one-year-of-c.html)
+  https://floooh.github.io/2018/06/02/one-year-of-c.html
+- [Building C programs](http://seenaburns.com/building-c-programs/)
+- [Tiny Garbage Collector](https://github.com/orangeduck/tgc) - Tiny Garbage Collector for C.
+- [Awesome C](https://github.com/kozross/awesome-c) - Curated list of awesome C frameworks, libraries, resources and other shiny things.
+- [Awesome C 2](https://github.com/uhub/awesome-c)
+- [9cc small C compiler](https://github.com/rui314/9cc)
+- [picol, a Tcl interpreter in 550 lines of C code (2007)](http://oldblog.antirez.com/post/picol.html)
+- [Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc)](https://github.com/ivmai/bdwgc)
+- [Clang documentation](https://clang.llvm.org/docs/index.html)
+- [libaco](https://github.com/hnes/libaco) - Blazing fast and lightweight C asymmetric coroutine library.
+- [C-Reduce](https://github.com/csmith-project/creduce) - Tool that takes a large C or C++ program that has a property of interest (such as triggering a compiler bug) and automatically produces a much smaller C/C++ program that has the same property.
+- [bic](https://github.com/hexagonal-sun/bic) - C interpreter and API explorer. ([HN](https://news.ycombinator.com/item?id=20950865))
+- [clang](https://github.com/llvm-mirror/clang) - Compiler front-end for the C family of languages (C, C++, Objective-C, and Objective-C++) which is built as part of the LLVM compiler infrastructure project.
+- [rcc](https://github.com/jyn514/rcc) - C compiler written in Rust, with a focus on good error messages.
+- [Post modern C tooling (2019)](http://renesd.blogspot.com/2019/09/post-modern-c-tooling.html)
+- [Small C Compilers](https://bootstrapping.miraheze.org/wiki/Main_Page#Small_C_Compilers) ([HN](https://news.ycombinator.com/item?id=21210087))
+- [Learn C and C++ Programming](https://www.cprogramming.com/)
+- [Small C Compiler](https://github.com/rui314/8cc) - Intended to support all C11 language features while keeping the code as small and simple as possible.
+- [All Algorithms implemented in C](https://github.com/TheAlgorithms/C)
+- [CodeChecker](https://github.com/Ericsson/codechecker) - Analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang Tidy.
+- [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html) ([HN](https://news.ycombinator.com/item?id=21794327))
+- [gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C. ([HN](https://news.ycombinator.com/item?id=21841368))
+- [To become a good C programmer](http://fabiensanglard.net/c/) ([HN](https://news.ycombinator.com/item?id=22325088))
+- [Development of the C Language (1993)](https://www.bell-labs.com/usr/dmr/www/chist.html) ([Lobsters](https://lobste.rs/s/hba9nn/development_c_language_1993)) ([PDF](https://www.bell-labs.com/usr/dmr/www/chist.pdf))
+- [Ask HN: How do I learn C properly? (2020)](https://news.ycombinator.com/item?id=22519876)
+- [HN: Static Analysis in GCC 10 (2020)](https://news.ycombinator.com/item?id=22711391)
+- [“C is not how the computer works” can lead to inefficient code (2019)](https://words.steveklabnik.com/c-is-not-how-the-computer-works-can-lead-to-inefficient-code) ([HN](https://news.ycombinator.com/item?id=21355463))
+- [Write a C interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it..
+- [tree-sitter-c](https://github.com/tree-sitter/tree-sitter-c) - C grammar for tree-sitter. Adapted from this C99 grammar.
+- [Awesome Clang](https://github.com/ingve/awesome-clang)
+- [Tell HN: C Experts Panel – Ask us anything about C (2020)](https://news.ycombinator.com/item?id=22865357)
+- [Embedding Binary Objects in C](https://flak.tedunangst.com/post/embedding-binary-objects-in-c) ([HN](https://news.ycombinator.com/item?id=22888318))
+- [Implementing a LLVM Micro C compiler in Haskell](https://blog.josephmorag.com/posts/mcc0/) ([HN](https://news.ycombinator.com/item?id=27394857))
+- [Why should I have written ZeroMQ in C, not C++ (2012)](http://250bpm.com/blog:4)
+- [Awesome C](https://github.com/Bfgeshka/awesome-c)
+- [Verified sequential malloc/free](https://www.cs.princeton.edu/~appel/papers/memmgr.pdf) ([HN](https://news.ycombinator.com/item?id=23046356))
+- [Fat pointers in C using libcello](http://libcello.org/learn/a-fat-pointer-library) ([HN](https://news.ycombinator.com/item?id=23016001))
+- [Embracing modularity with Meson (2020)](https://brennan.io/2020/05/08/meson/)
+- [Some Were Meant for C - The Endurance of an Unmanageable Language (2017)](https://www.cs.kent.ac.uk/people/staff/srk21/research/papers/kell17some-preprint.pdf) ([Lobsters](https://lobste.rs/s/o0xtns/some_were_meant_for_c)) ([HN](https://news.ycombinator.com/item?id=26300199))
+- [Developing a programming language in C (2020)](https://www.youtube.com/playlist?list=PLvdK1vRmp8wMzH4w_8sQ30NKU3Bt4Cc-M)
+- [Mass (Meta Assembly) Language](https://github.com/grassator/mass) - Compiler for a new language focusing on compile-time execution and no LLVM dependency.
+- [Implementing simple cooperative threads in C (2020)](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/) ([HN](https://news.ycombinator.com/item?id=23293642))
+- [c2go](https://github.com/elliotchance/c2go) - Tool for transpiling C to Go.
+- [cpkg](https://github.com/vmchale/cpkg) - Build tool for C with a particular emphasis on cross compilation. It is configured using Dhall.
+- [C Internals](http://www.avabodh.com/cin/cin.html) ([HN](https://news.ycombinator.com/item?id=23376357))
+- [C-Reduce](https://github.com/csmith-project/creduce) - Tool that takes a large C or C++ program that has a property of interest (such as triggering a compiler bug) and automatically produces a much smaller C/C++ program that has the same property. ([Web](http://embed.cs.utah.edu/creduce/))
+- [C-Vise](https://github.com/marxin/cvise) - Super-parallel Python port of the C-Reduce.
+- [C implementation of Tic-Tac-Toe in a single call to printf](https://github.com/carlini/printf-tac-toe) ([HN](https://news.ycombinator.com/item?id=23445546)) ([Reddit](https://www.reddit.com/r/programming/comments/gy8igu/tictactoe_in_a_single_call_to_printf_in_c/))
+- [How the most upvoted C question was another question (2020)](https://bowero.nl/blog/2020/06/09/how-the-most-upvoted-c-question-was-another-question/) ([Lobsters](https://lobste.rs/s/m34tye/how_most_upvoted_c_question_was_another))
+- [LLDB Debugger](https://lldb.llvm.org/) - Next generation, high-performance debugger.
+- [Dumbindent: When 93% of the Time was Spent in Clang-Format (2020)](https://nigeltao.github.io/blog/2020/dumbindent.html) ([Lobsters](https://lobste.rs/s/xau5m4/dumbindent_when_93_time_was_spent_clang))
+- [C is archaic (2019)](https://birb007.github.io/blog/2019/12/15/c-is-archaic.html)
+- [Linux kernel coding style in C](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
+- [Constantine](https://github.com/rizsotto/Constantine) - Toy project to learn how to write Clang plugin.
+- [Tiny C Compiler](https://bellard.org/tcc/) ([HN](https://news.ycombinator.com/item?id=23617461))
+- [C performance mystery: delete unused string constant (2020)](https://news.ycombinator.com/item?id=23633583)
+- [C's main() is one of the places where Unix's user and kernel APIs differ](https://utcc.utoronto.ca/~cks/space/blog/unix/MainKernelAndUserAPI) ([Lobsters](https://lobste.rs/s/pdiisx/c_s_main_is_one_places_where_unix_s_user))
+- [Standard C loop idioms (2020)](https://dannas.name/standard-c-loop-idioms)
+- [Why the C Language Will Never Stop You from Making Mistakes (2020)](https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you)
+- [Can we do better than our C compiler?](https://briancallahan.net/blog/20200812.html) ([HN](https://news.ycombinator.com/item?id=24139943))
+- [Cyclone](https://cyclone.thelanguage.org/) - Safe dialect of C.
+- [C Code Archive Network](http://ccodearchive.net/) ([Code](https://github.com/rustyrussell/ccan))
+- [do {...} while (0) in macros (2014)](https://www.pixelstech.net/article/1390482950-do-%7B-%7D-while-%280%29-in-macros) ([Lobsters](https://lobste.rs/s/whezna/do_while_0_macros))
+- [Simple C Compiler](https://www.simple-cc.org/)
+- [Verifiable C (2020)](https://softwarefoundations.cis.upenn.edu/vc-current/)
+- [Rust-style futures in C (2020)](https://axelforsman.tk/2020/08/24/rust-style-futures-in-c.html)
+- [The problem with C compatibility in C++ (2020)](https://cor3ntin.github.io/posts/c/) ([Lobsters](https://lobste.rs/s/e27sea/problem_with_c)) ([HN](https://news.ycombinator.com/item?id=24352258))
+- [Essential C (2003)](http://cslibrary.stanford.edu/101/EssentialC.pdf) ([HN](https://news.ycombinator.com/item?id=24356246)) ([HN](https://news.ycombinator.com/item?id=30566118))
+- [Modern C](https://modernc.gforge.inria.fr/) ([HN](https://news.ycombinator.com/item?id=24361469)) ([Lobsters](https://lobste.rs/s/01brvr/modern_c))
+- [C FAQ](http://www.c-faq.com/)
+- [Massacring C Pointers (2018)](https://wozniak.ca/blog/2018/06/25/1/index.html) ([HN](https://news.ycombinator.com/item?id=24376622)) ([Lobsters](https://lobste.rs/s/gim6hg/massacring_c_pointers_2018))
+- [C’s Biggest Mistake (2009)](https://digitalmars.com/articles/C-biggest-mistake.html) ([Lobsters](https://lobste.rs/s/3nebjo/c_s_biggest_mistake_2009))
+- [Defer Reference Implementation for C](https://gustedt.gitlabpages.inria.fr/defer/) ([HN](https://news.ycombinator.com/item?id=24643034))
+- [Chibicc](https://github.com/rui314/chibicc) - Small C Compiler. ([HN](https://news.ycombinator.com/item?id=24676851))
+- [Loading CSV File at the Speed Limit of the NVMe Storage (2020)](https://liuliu.me/eyes/loading-csv-file-at-the-speed-limit-of-the-nvme-storage/) ([Lobsters](https://lobste.rs/s/zksa0f/loading_csv_file_at_speed_limit_nvme))
+- [What Makes C Hard to Compile (2020)](https://www.reddit.com/r/ProgrammingLanguages/comments/j3j4s9/what_makes_c_hard_to_compile/)
+- [malloc as a service (2020)](https://wingolog.org/archives/2020/10/13/malloc-as-a-service)
+- [The Lemon Parser Generator](https://sqlite.org/src/doc/trunk/doc/lemon.html) - LALR parser generator for C.
+- [How Does a C Debugger Work? (2014)](https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work) ([HN](https://news.ycombinator.com/item?id=24814854))
+- [SheLLVM](https://github.com/SheLLVM/SheLLVM) - Collection of LLVM transform and analysis passes to write shellcode in regular C.
+- [Defining C macros the right way (2020)](https://bowero.nl/blog/2020/10/25/defining-c-macros-the-right-way/) ([Lobsters](https://lobste.rs/s/ubh34r/defining_c_macros_right_way))
+- [Hundred year mistakes (2020)](https://ericlippert.com/2020/02/27/hundred-year-mistakes/) ([Lobsters](https://lobste.rs/s/f3grxk/hundred_year_mistakes))
+- [MazuCC](https://github.com/jserv/MazuCC) - Minimalist C compiler with x86_64 code generation.
+- [shecc](https://github.com/jserv/shecc) - Self-hosting and educational C compiler.
+- [AMaCC](https://github.com/jserv/amacc) - Small C Compiler generating ELF executable Arm architecture, supporting JIT execution.
+- [How to C (as of 2016)](https://matt.sh/howto-c)
+- [Demystifying malloc (2020)](https://river.codes/demystifying-malloc/)
+- [Past, Present and Future of Effective C (2020)](https://research.nccgroup.com/2020/11/10/past-present-and-future-of-effective-c/)
+- [C compiler written in Go](https://github.com/DQNEO/8cc.go)
+- [ZetZ](https://github.com/aep/zz) - Formally Verified Dialect of C. ([Article](https://www.infoq.com/news/2020/02/zz-formal-verified-c-dialect/))
+- [Editing the C Standard (2020)](https://thephd.github.io/editing-the-c-standard) ([HN](https://news.ycombinator.com/item?id=25086673))
+- [C Is Not Dependency Free (2020)](https://prilik.com/blog/post/c-is-not-dependency-free/)
+- [Best aspects of C language (2020)](https://blog.joren.ga/programming/best-of-c) ([HN](https://news.ycombinator.com/item?id=25124012)) ([Lobsters](https://lobste.rs/s/hjrgrk/best_aspects_c_language))
+- [C3 Language Compiler](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language. ([HN](https://news.ycombinator.com/item?id=27876570))
+- [Coccinelle](https://github.com/coccinelle/coccinelle) - Allows programmers to easily write some complex style-preserving source-to-source transformations on C source code, like for instance to perform some refactorings.
+- [rcc](https://github.com/wbowling/rcc) - Basic c compiler written in rust.
+- [Writing a C Compiler (2017)](https://norasandler.com/2017/11/29/Write-a-Compiler.html) ([Code](https://github.com/nlsandler/write_a_c_compiler))
+- [What is your favorite C programming trick?](https://stackoverflow.com/questions/599365/what-is-your-favorite-c-programming-trick) ([HN](https://news.ycombinator.com/item?id=25176531))
+- [Linus Torvalds' good taste argument for linked lists, explained](https://github.com/mkirchner/linked-list-good-taste) ([HN](https://news.ycombinator.com/item?id=25326552))
+- [DragonFFI](https://github.com/aguinet/dragonffi) - C Foreign Function Interface (FFI) library written in C++ and based on Clang/LLV.
+- [PureCTypes](https://github.com/aguinet/purectypes) - Pure-python package to describe portable C structures.
+- [Now you C me, now you don't, part two: exploiting the in-between (2020)](https://securitylab.github.com/research/now-you-c-me-part-two)
+- [Data Structures and Algorithms in C (implementations and notes)](https://github.com/f0lg0/c-ds-algos)
+- [Getting started with C programming a lightning-fast start for absolute beginners (2020)](https://not.cafe/2020/10/12/getting-started-with-c-programming.html) ([HN](https://news.ycombinator.com/item?id=25442165))
+- [C-Toy](https://github.com/anael-seghezzi/CToy) - Interactive C coding environment.
+- [cproc](https://github.com/michaelforney/cproc) - C11 compiler using QBE as a backend. ([HN](https://news.ycombinator.com/item?id=28242024))
+- [Cosmopolitan Libc](https://justine.lol/cosmopolitan/index.html) - Build-once run-anywhere C library. ([Code](https://github.com/jart/cosmopolitan)) ([HN](https://news.ycombinator.com/item?id=25556286)) ([HN 2](https://justine.lol/cosmopolitan/)) ([HN 3](https://news.ycombinator.com/item?id=26273960)) ([Actually Portable Executable](https://justine.storage.googleapis.com/ape.html)) ([Lobsters](https://lobste.rs/s/xnqpyp/cosmopolitan_c_library))
+- [Learn C](https://www.learn-c.org/) - Free Interactive C Tutorial.
+- [Why mmap is faster than system calls (2019)](https://sasha-f.medium.com/why-mmap-is-faster-than-system-calls-24718e75ab37) ([HN](https://news.ycombinator.com/item?id=25701959))
+- [CxGo](https://github.com/gotranspile/cxgo) - Tool for translating C source code to Go.
+- [Wanager](https://github.com/Wafelack/wng) - Package manager and project manager for the C & C++ programming languages.
+- [B. Harvey's Intro to C (2007)](https://inst.eecs.berkeley.edu//~cs61c/resources/HarveyNotesC1-3.pdf)
+- [lcc](https://github.com/drh/lcc) - Retargetable Compiler for ANSI C. ([Web](https://drh.github.io/lcc/))
+- [C Compiler/Parser written in Rust](https://github.com/thepowersgang/rust-cc)
+- [c2goasm](https://github.com/minio/c2goasm) - C to Go Assembly.
+- [List of C static analysis tools](https://github.com/csvitlik/static_analysis_tools)
+- [Q3VM](https://github.com/jnz/q3vm) - Single file (vm.c) bytecode virtual machine/interpreter for C-language input.
+- [How does Clang 2.7 hold up in 2021?](https://gist.github.com/zeux/3ce4fcc3a43072b4315abde95319ecb6) ([HN](https://news.ycombinator.com/item?id=25976855))
+- [Developing mathematical software in C (2021)](https://fredrikj.net/blog/2021/01/developing-mathematical-software-in-c/)
+- [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/) ([HN](https://news.ycombinator.com/item?id=26085373))
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/) ([Code](https://github.com/beejjorgensen/bgc)) ([PDF](http://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf)) ([HN](https://news.ycombinator.com/item?id=26911399))
+- [Obfuscated Tiny C Compiler](https://bellard.org/otcc/) ([HN](https://news.ycombinator.com/item?id=26141124))
+- [Angelix](http://angelix.io/) - Semantics-based test-driven automated program repair tool for C programs. ([Code](https://github.com/mechtaev/angelix))
+- [Inline and Sideline Approaches for Low-Cost Memory Safety in C (2021)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-954.html)
+- [Checked C](https://github.com/microsoft/checkedc) - Adds static and dynamic checking to C to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses. ([HN](https://news.ycombinator.com/item?id=26190403))
+- [ELF: symbol lookup via DT_HASH (2017)](https://flapenguin.me/elf-dt-hash)
+- [Actually Portable Executables (2021)](https://ahgamut.github.io/c/2021/02/27/ape-cosmo/) ([HN](https://news.ycombinator.com/item?id=26292166))
+- [Rust, Zig, and the Futility of "Replacing" C (2021)](https://gavinhoward.com/2021/02/rust-zig-and-the-futility-of-replacing-c/) ([Lobsters](https://lobste.rs/s/1iiifg/rust_zig_futility_replacing_c))
+- [Git's list of banned C functions](https://github.com/git/git/blob/master/banned.h) ([HN](https://news.ycombinator.com/item?id=26347867))
+- [Microsoft's list of banned C functions](https://github.com/x509cert/banned/blob/master/banned.h) ([HN](https://news.ycombinator.com/item?id=26353025))
+- [Aro](https://github.com/Vexu/arocc) - C compiler written in Zig. ([HN](https://news.ycombinator.com/item?id=30214485))
+- [Half of curl’s vulnerabilities are C mistakes (2021)](https://daniel.haxx.se/blog/2021/03/09/half-of-curls-vulnerabilities-are-c-mistakes/) ([Lobsters](https://lobste.rs/s/3efzcx/half_curl_s_vulnerabilities_are_c)) ([HN](https://news.ycombinator.com/item?id=26396323))
+- [C's removal of `gets` could have been done better (2021)](https://quuxplusone.github.io/blog/2021/03/12/gets-considered-harmful-duh/)
+- [Compile times, and why "the obvious" might not be so (2021)](https://rachelbythebay.com/w/2021/03/24/comp/) ([Lobsters](https://lobste.rs/s/ounjyq/compile_times_why_obvious_might_not_be_so))
+- [CBMC](https://github.com/diffblue/cbmc) - Bounded Model Checker for C and C++ programs. ([Web](http://www.cprover.org/cbmc/))
+- [Type-safe generic data structures in C (2020)](https://iafisher.com/blog/2020/06/type-safe-generics-in-c)
+- [Modern C and What We Can Learn from It (2021)](https://www.youtube.com/watch?v=QpAhX-gsHMs) ([HN](https://news.ycombinator.com/item?id=27059976))
+- [The price of dynamic memory: Allocation (2020)](https://johnysswlab.com/the-price-of-dynamic-memory-allocation/)
+- [The Byte Order Fiasco (2021)](https://justine.lol/endian.html) ([Lobsters](https://lobste.rs/s/celegm/byte_order_fiasco))
+- [snmalloc](https://github.com/microsoft/snmalloc) - High-performance allocator.
+- [Practical Design Patterns: Opaque Pointers and Objects in C (2021)](https://interrupt.memfault.com/blog/opaque-pointers) ([Lobsters](https://lobste.rs/s/zkpczs/practical_design_patterns_opaque))
+- [Movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - Compile C into only mov instructions. ([HN](https://news.ycombinator.com/item?id=27202801)) ([HN](https://news.ycombinator.com/item?id=28176410))
+- [Undefined behavior in C is a reading error (2021)](https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/) ([Lobsters](https://lobste.rs/s/zmxvml/undefined_behavior_c_is_reading_error))
+- [lacc](https://github.com/larmel/lacc) - Simple, self-hosting C compiler.
+- [RefinedC: Automating the Foundational Verification of C Code with Refined Ownership Types (2021)](https://plv.mpi-sws.org/refinedc/paper.pdf) ([HN](https://news.ycombinator.com/item?id=27265329))
+- [Modern C for C++ Peeps (2019)](https://floooh.github.io/2019/09/27/modern-c-for-cpp-peeps.html)
+- [Libdill: Structured Concurrency for C (2016)](http://libdill.org/structured-concurrency.html) ([HN](https://news.ycombinator.com/item?id=27357295))
+- [Goodbye C++, Hello C (2021)](https://momentsingraphics.de/ToyRenderer1KeepItSimple.html) ([HN](https://news.ycombinator.com/item?id=27637266))
+- [CompCert](https://github.com/AbsInt/CompCert) - Formally-verified C compiler. ([Web](https://compcert.org/)) ([HN](https://news.ycombinator.com/item?id=27648735))
+- [When static makes your C code 10 times faster (2021)](https://mazzo.li/posts/c-performance-anecdote.html) ([HN](https://news.ycombinator.com/item?id=27729377)) ([Lobsters](https://lobste.rs/s/puknrj/when_static_makes_your_c_code_10_times))
+- [Goodbye C developers: The future of programming with certified program synthesis (2021)](https://gopiandcode.uk/logs/log-certified-synthesis.html) ([Lobsters](https://lobste.rs/s/yl1klr/goodbye_c_developers_future_programming))
+- [Macros on Steroids, Or: How Can Pure C Benefit From Metaprogramming (2021)](https://hirrolot.github.io/posts/macros-on-steroids-or-how-can-pure-c-benefit-from-metaprogramming.html)
+- [CGuard: Efficient Spatial Safety for C (2021)](https://arxiv.org/pdf/2107.10533.pdf)
+- [IOCCC](http://www.ioccc.org/) - The International Obfuscated C Code Contest. ([Winners](http://www.ioccc.org/winners.html))
+- [Performance vs Programming Effort between Rust and C on Multicore Architectures: Case Study in N-Body (2021)](https://arxiv.org/abs/2107.11912)
+- [Strict memcpy() bounds checking for the kernel (2021)](https://lwn.net/SubscriberLink/864521/d704bdcced0c5c60/) ([HN](https://news.ycombinator.com/item?id=28015263))
+- [strcpy: a niche function you don't need (2021)](https://nullprogram.com/blog/2021/07/30/) ([Lobsters](https://lobste.rs/s/3fxmpq/strcpy_niche_function_you_don_t_need))
+- [#ifdef Considered Harmful, or Portability Experience with C News (1992)](http://www.literateprogramming.com/ifdefs.pdf)
+- [Ocean](https://github.com/riicchhaarrd/ocean) - Programming language lik C that compiles into a x86 ELF executable. ([HN](https://news.ycombinator.com/item?id=28048528))
+- [The (too) many pitfalls of VLA in C (2021)](https://blog.joren.ga/vla-bad)
+- [The Descent to C (2013)](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) ([HN](https://news.ycombinator.com/item?id=28378627))
+- [Progress on C23 (2021)](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting) ([HN](https://news.ycombinator.com/item?id=28423793)) ([Lobsters](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting))
+- [pycparser](https://github.com/eliben/pycparser) - Complete C99 parser in pure Python.
+- [PackCC](https://github.com/arithy/packcc) - Parser generator for C.
+- [Why is C Faster Than My Language? (2021)](https://www.youtube.com/watch?v=vFB0Ot-ZdIM)
+- [Elements of C Style](https://www.teamten.com/lawrence/style/)
+- [pcpp](https://github.com/ned14/pcpp) - C99 preprocessor written in pure Python.
+- [Fast character case conversion (or how to compress sparse arrays)](https://github.com/apankrat/notes/tree/master/fast-case-conversion) ([HN](https://news.ycombinator.com/item?id=28854808))
+- [Proposal to add constexpr to C (2021)](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2851.pdf) ([HN](https://news.ycombinator.com/item?id=28861672))
+- [rust-cexpr](https://github.com/jethrogb/rust-cexpr) - C expression parser and evaluator.
+- [When to Use Goto](https://beej.us/guide/bgc/html/split/goto.html) ([HN](https://news.ycombinator.com/item?id=28943153))
+- [There is no 'printf' (2021)](https://www.netmeister.org/blog/return-printf.html) ([HN](https://news.ycombinator.com/item?id=28931457))
+- [Comparing the c ffi overhead on various programming languages](https://github.com/dyu/ffi-overhead)
+- [55GiB/s FizzBuzz](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz) ([HN](https://news.ycombinator.com/item?id=29031488)) ([Lobsters](https://lobste.rs/s/ploajb/high_throughput_fizz_buzz_31gib_fizz_buzz))
+- [In C, how do you know if the dynamic allocation succeeded?](https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/) ([HN](https://news.ycombinator.com/item?id=29123678))
+- [cc65](https://github.com/cc65/cc65) - Freeware C compiler for 6502 based systems. ([Docs](https://cc65.github.io/doc/))
+- [Beware of fast-math (2021)](https://simonbyrne.github.io/notes/fastmath/) ([HN](https://news.ycombinator.com/item?id=29201473))
+- [A Simple, Possibly Correct LR Parser for C11 (2017)](https://hal.archives-ouvertes.fr/hal-01633123/document)
+- [Pointers in C / C++ [Full Course] (2020)](https://www.youtube.com/watch?v=zuegQmMdy8M)
+- [Smaller C](https://github.com/alexfru/SmallerC) - Simple and small single-pass C compiler.
+- [Comprehensive guide to 50 years of evolution of strict C programming](https://github.com/agavrel/42_CheatSheet) ([HN](https://news.ycombinator.com/item?id=29347623))
+- [Some obscure C features (2019)](https://multun.net/obscure-c-features.html) ([Lobsters](https://lobste.rs/s/p0vejb/some_obscure_c_features))
+- [Writing a register based VM in less than 125 lines of C code (2021)](https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c) ([HN](https://news.ycombinator.com/item?id=29492183))
+- [Ogma](https://github.com/nasa/ogma) - Tool to facilitate the integration of safe runtime monitors into other systems. Extends Copilot, a high-level runtime verification framework that generates hard real-time C99 code.
+- [Type-Safe Printf For C](https://github.com/moehriegitt/vastringify) ([HN](https://news.ycombinator.com/item?id=29528571))
+- [Lang-C](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust.
+- [Why Is C Faster Than Java (2009)](https://marc.info/?l=git&m=124111702609723&w=2) ([HN](https://news.ycombinator.com/item?id=29659266))
+- [Almost Always Unsigned (2022)](https://graphitemaster.github.io/aau/) ([HN](https://news.ycombinator.com/item?id=29766658))
+- [C Runtime Overhead (2015)](http://ryanhileman.info/posts/lib43) ([HN](https://news.ycombinator.com/item?id=29783585))
+- [Ridiculously fast feature flags (2021)](https://engineering.backtrace.io/2021-12-19-bounded-dynamicism-with-cross-modifying-code/) ([Lobsters](https://lobste.rs/s/hgzqs6/ridiculously_fast_feature_flags))
+- [CIL](https://github.com/cil-project/cil) - C Intermediate Language.
+- [C structures and padding and sizeof (2022)](https://subethasoftware.com/2022/01/18/c-structures-and-padding-and-sizeof/) ([Lobsters](https://lobste.rs/s/ooxh7n/c_structures_padding_sizeof))
+- [Centralizing Resource Cleanup Paths in C](https://elektron.sigsegv.ch/articles/1/centralizing-resource-cleanup-paths-in-c/) ([Lobsters](https://lobste.rs/s/jkx47x/centralizing_resource_cleanup_paths_c))
+- [Finding the average of two unsigned integers without overflow (2022)](https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223) ([HN](https://news.ycombinator.com/item?id=30252263))
+- [PyClibrary](https://github.com/MatthieuDartiailh/pyclibrary) - C parser and bindings automation for Python.
+- [Running C unit tests with pytest (2022)](https://p403n1x87.github.io/running-c-unit-tests-with-pytest.html)
+- [A Formal Model of Checked C (2022)](https://arxiv.org/abs/2201.13394) ([HN](https://news.ycombinator.com/item?id=30321535))
+- [C meeting is over. C23 added the following (2022)](https://twitter.com/__phantomderp/status/1494801365297676293) ([HN](https://news.ycombinator.com/item?id=30395016))
+- [I wrote the least-C C program I could (2022)](https://briancallahan.net/blog/20220220.html) ([HN](https://news.ycombinator.com/item?id=30412654))
+- [C Portability Lessons from Weird Machines (2018)](https://begriffs.com/posts/2018-11-15-c-portability.html) ([HN](https://news.ycombinator.com/item?id=30417802))
+- [Moving the Linux Kernel to Modern C (2022)](https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/) ([HN](https://news.ycombinator.com/item?id=30459634)) ([Lobsters](https://lobste.rs/s/hl5ty0/moving_kernel_modern_c)) ([Reddit](https://www.reddit.com/r/programming/comments/t1mjwn/linus_torvalds_prepares_to_move_the_linux_kernel/))
+- [Debugging with GDB (2022)](https://felix-knorr.net/blog/using_gdb_directly.html) ([HN](https://news.ycombinator.com/item?id=30512302))
+- [Debugging with GDB](https://www.sourceware.org/gdb/current/onlinedocs/gdb.html) ([HN](https://news.ycombinator.com/item?id=30737509))
+- [CMOC](http://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - 6809 cross-compiler for a C-like language.
+- [C Arrays Are Not Pointers (2021)](https://lovesegfault.com/posts/c-arrays-are-not-pointers/)
+- [To Save C, We Must Save ABI (2022)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi) ([HN](https://news.ycombinator.com/item?id=30660528))
+- [A flexible, lightweight, spin-lock barrier (2022)](https://nullprogram.com/blog/2022/03/13/)
+- [C Isn't A Programming Language Anymore (2022)](https://gankra.github.io/blah/c-isnt-a-language/) ([Lobsters](https://lobste.rs/s/w9sotc/c_isn_t_programming_language_anymore)) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/tg55ow/c_isnt_a_programming_language_anymore_faultlore/)) ([Tweet](https://twitter.com/Gankra_/status/1504208394802061326)) ([Reddit](https://www.reddit.com/r/rust/comments/tp37m4/c_isnt_a_programming_language_anymore_faultlore/))
+- [Quirks of C](https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01)
+- [SubC](https://github.com/qeedquan/gosubc) - Simple subset of C originally written by Nils Holms for teaching newcomers how to write a compiler.
+- [c2go](https://github.com/goplus/c2go) - Convert C to Go.
+- [Implementing cosine in C from scratch (2020)](https://austinhenley.com/blog/cosine.html) ([HN](https://news.ycombinator.com/item?id=30844872))
+- [Writing a C Compiler Book](https://nostarch.com/writing-c-compiler) ([Article](https://norasandler.com/2022/03/29/Write-a-C-Compiler-the-Book.html))
+- [Kate's C AMA (2022)](https://twitter.com/thingskatedid/status/1510451564749619203)
+- [Haskell C Compiler](https://github.com/NunoDasNeves/haskell-c-compiler) - Learning Haskell for the first time and using it to write a simple C compiler.
+- [I wrote a peephole optimizer for QBE (2022)](https://briancallahan.net/blog/20220330.html) ([Lobsters](https://lobste.rs/s/jztimq/i_wrote_peephole_optimizer_for_qbe))
+- [When FFI Function Calls Beat Native C (2018)](https://nullprogram.com/blog/2018/05/27/) ([HN](https://news.ycombinator.com/item?id=30895444))
+- [Advanced Optimization and New Capabilities of GCC 11](https://documentation.suse.com/sbp/server-linux/pdf/SBP-GCC-11_color_en.pdf)
+- [Tiny C Projects](https://github.com/francisrstokes/tiny-c-projects) - Collection of small C projects - usually a minimal example of something interesting.
+- [Old C code – how to upgrade it? (2022)](https://news.ycombinator.com/item?id=30957273)
+- [Minipeg](https://ach.srht.site/minipeg) - Parser generator for C.
+- [C72](https://github.com/vegesm/c72) - Port of the earliest C compiler to x86 (2021). ([HN](https://news.ycombinator.com/item?id=30981549))
+- [C17 compiler written from scratch in C](https://github.com/lasarus/C-Compiler)
+- [Neatcc](https://github.com/aligrudi/neatcc) - Small arm/x86(-64) C compiler.
+- [C-implemented C compiler](https://github.com/bobrippling/ucc-c-compiler)
+- [A blog that is a single executable binary (2022)](https://www.andreinc.net/2022/04/10/a-blog-that-is-a-single-executable-binary) ([HN](https://news.ycombinator.com/item?id=31081049))
+- [Tiny C Compiler](https://github.com/mirror/tinycc) - Smallest ANSI C compiler.
+- [Awesome tooling for Bazel users of the C language family](https://github.com/hedronvision/bazel-compile-commands-extractor)
+- [The Lost Art of Structure Packing (2014)](http://www.catb.org/esr/structure-packing/) ([HN](https://news.ycombinator.com/item?id=31182449))
+- [Self-hosting C compiler](https://github.com/kukrimate/cc3)
+- [Minimal C compiler in x86 assembly](https://github.com/oriansj/stage0/blob/master/stage2/cc_x86.s) ([HN](https://news.ycombinator.com/item?id=31244150))
+- [Set of minimal dependency bootstrap binaries](https://github.com/oriansj/stage0) - Goal of creating a bootstrapping path to a C compiler capable of compiling GCC, with only the explicit requirement of a single 1 KByte binary or less.
+- [A game for learning C operator precedence](https://www.devever.net/~hl/cprec) ([Lobsters](https://lobste.rs/s/4z37uj/game_for_learning_c_operator_precedence))
+- [4 integers are enough to write a Snake Game (2022)](https://www.andreinc.net/2022/05/01/4-integers-are-enough-to-write-a-snake-game) ([Lobsters](https://lobste.rs/s/o80uoz/4_integers_are_enough_write_snake_game))
+- [A lock-free, concurrent, generic queue in 32 bits (2022)](https://nullprogram.com/blog/2022/05/14/) ([HN](https://news.ycombinator.com/item?id=31384602))
+- [Logging C Functions (2022)](https://justine.lol/ftrace/) ([Lobsters](https://news.ycombinator.com/item?id=31443198))
+- [Linux and Tiny C Compiler in the browser (2022)](https://ja.nsommer.dk/articles/linux-and-tiny-c-compiler-in-the-browser-part-one.html)
+- [All About Libpas, Phil's Super Fast Malloc](https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md) ([HN](https://news.ycombinator.com/item?id=31581727))
+- [Pretty-Printable Enumerations in Pure C (2022)](https://hirrolot.github.io/posts/pretty-printable-enumerations-in-pure-c.html)
+- [Psyche-C](https://github.com/ltcmelo/psychec) - Compiler frontend for the C programming language.

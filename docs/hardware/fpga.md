@@ -1,0 +1,105 @@
+---
+title: Field-programmable gate array
+---
+
+# [Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+
+## Links
+
+- [FPGA design for Software Engineers (2019)](https://www.walknsqualk.com/post/014-tiny-fpga-bx/) ([HN](https://news.ycombinator.com/item?id=21277580))
+- [FPGAs Have the Wrong Abstraction (2019)](https://www.cs.cornell.edu/~asampson/blog/fpgaabstraction.html)
+- [no-OS](https://github.com/analogdevicesinc/no-OS) - Software drivers for systems without OS.
+- [nextpnr](https://github.com/YosysHQ/nextpnr) - Portable FPGA place and route tool.
+- [Highlights from FPGA 2020](https://johnwickerson.wordpress.com/2020/02/27/highlights-from-fpga-2020/) ([HN](https://news.ycombinator.com/item?id=22439021))
+- [Compressing deep neural networks on FPGAs to binary and ternary precision with hls4ml (2020)](https://arxiv.org/pdf/2003.06308.pdf)
+- [LitePCIe](https://github.com/enjoy-digital/litepcie) - Provides a small footprint and configurable PCIe core.
+- [Cook FPGA](https://github.com/lastweek/fpga_readings) - Collection of useful resources and links rather than a thorough FPGA tutorial.
+- [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/) ([HN](https://news.ycombinator.com/item?id=23513152))
+- [YoWASP](https://yowasp.org/) - Unofficial WebAssembly-based packages for Yosys, nextpnr, and more.
+- [Silice](https://github.com/sylefeb/Silice) - Language for hardcoding Algorithms into FPGA hardware.
+- [Repurposing FPGA-based Products as Development Kits](https://geeklan.co.uk/files/ossg16072020-repurposing_obsolete_fpga_and_dev_kits.pdf) ([Lobsters](https://lobste.rs/s/bprw37/repurposing_fpga_based_products_as))
+- [The History, Status, and Future of FPGAs (2020)](https://queue.acm.org/detail.cfm?id=3411759) ([HN](https://news.ycombinator.com/item?id=23927992))
+- [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards) ([Lobsters](https://lobste.rs/s/uqc8vi/cheap_fpga_development_boards))
+- [Build your own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA) ([HN](https://news.ycombinator.com/item?id=24252737)) ([HN](https://news.ycombinator.com/item?id=31557041))
+- [FPGA based mobile phone: Creating a truly open and trustable mobile communications device (2019)](https://www.youtube.com/watch?v=KuNB4ocZDXA)
+- [Reverse-engineering the first FPGA chip, the XC2064 (2020)](http://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
+- [FireSim](https://github.com/firesim/firesim) - Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation.
+- [Are FPGAs More Secure Than Processors? (2020)](https://semiengineering.com/are-fpgas-more-secure-than-processors/)
+- [Conway's Game of Life on FPGA (2020)](https://k155la3.blog/2020/10/09/conways-game-of-life-on-fpga/) ([HN](https://news.ycombinator.com/item?id=27402485))
+- [Analogue Duo](https://www.analogue.co/duo/) - FPGA Based TurboGrafx-16/PC Engine Clone. ([HN](https://news.ycombinator.com/item?id=24802193))
+- [Dream Machine: MiSTer FPGA (2020)](https://felixleger.com/posts/20201018-misterfpga/)
+- [FPGAwars](https://fpgawars.github.io/) - Exploring the Open Side of the FPGAs. ([HN](https://news.ycombinator.com/item?id=24940201)) ([GitHub](https://github.com/FPGAwars))
+- [AutoFPGA](https://github.com/ZipCPU/autofpga) - Utility for Composing FPGA designs from Peripherals.
+- [WB2AXIP](https://github.com/ZipCPU/wb2axip) - Bus interconnects, bridges, and other components.
+- [Gisselquist Technology](https://zipcpu.com/about/gisselquist-technology.html) - Offering services specializing in both embedded and FPGA solutions as well as digital signal processing solutions.
+- [Project Oxide](https://github.com/daveshah1/prjoxide) - Documenting Lattice's 28nm FPGA parts.
+- [FPGA Interchange](https://github.com/SymbiFlow/python-fpga-interchange) - Python interface to FPGA interchange format.
+- [fpga-vt52](https://github.com/AndresNavarro82/vt52-fpga) - Serial terminal implemented on a FPGA. ([HN](https://news.ycombinator.com/item?id=25014323))
+- [FPGAs could replace GPUs in many deep learning applications (2020)](https://bdtechtalks.com/2020/11/09/fpga-vs-gpu-deep-learning/)
+- [OrangeCrab](https://github.com/gregdavill/OrangeCrab) - ECP5 FPGA Feather development board.
+- [OrangeCrab example projects](https://github.com/gregdavill/OrangeCrab-examples)
+- [VexRiscv](https://github.com/SpinalHDL/VexRiscv) - FPGA friendly 32 bit RISC-V CPU implementation.
+- [LiteX-Hub](https://github.com/litex-hub) - Collaborative FPGA projects around LiteX.
+- [FPGA 101 lessons/labs](https://github.com/litex-hub/fpga_101)
+- [FPGA Hackathon & Conference](https://fpgahackathon.com/)
+- [FPGA Tomu workshop](https://workshop.fomu.im/en/latest/) ([Code](https://github.com/im-tomu/fomu-workshop))
+- [FPGA as a service](https://github.com/Xilinx/FPGA_as_a_Service)
+- [Xilinx Run Time for FPGA](https://github.com/Xilinx/XRT)
+- [Finn](https://github.com/Xilinx/finn) - Fast, Scalable Quantized Neural Network Inference on FPGAs.
+- [Project F - FPGA Development Blog](https://projectf.io/) ([SystemVerilog designs](https://github.com/projf/projf-explore))
+- [openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Universal utility for programming FPGA.
+- [Learning FPGA, yosys, nextpnr, and RISC-V](https://github.com/BrunoLevy/learn-fpga)
+- [Corundum](https://github.com/corundum/corundum) - Open-source, high-performance FPGA-based NIC.
+- [UPduino 3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0) - FPGA dev board that's cheap, simple and supported by OSS toolchain. ([HN](https://news.ycombinator.com/item?id=25720531))
+- [Cheap FPGA Development Boards](https://www.joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
+- [Exploring FPGA Graphics (2020)](https://projectf.io/posts/fpga-graphics/) ([HN](https://news.ycombinator.com/item?id=25998154))
+- [Digital Design for FPGAs, with free tools](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Home_EN)
+- [FPGA NTP Server](https://research.wand.net.nz/hardware/ntp.php)
+- [FPGA Developer Tutorials](https://www.fpgatutorial.com/)
+- [Related Projects of Open Source FPGA Foundation](https://github.com/os-fpga/open-source-fpga-resource)
+- [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) - Open project that aims to recreate various classic computers, game consoles and arcade machines, using modern hardware. ([HN](https://news.ycombinator.com/item?id=26772151))
+- [Architecture All Access: Modern FPGA Architecture (2021)](https://www.youtube.com/watch?v=EVy4KEj9kZg)
+- [Lessons learned while building an ASIC design (2021)](https://zipcpu.com/blog/2021/03/06/asic-lsns.html)
+- [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) - FPGA-based ISA video card specifically designed to emulate certain old video standards.
+- [HRT](https://github.com/gatecat/hrt) - Proof-of-concept of loading a modified FPGA design without losing state, using the partial reconfiguration-like features of the ECP5.
+- [FPGA Hell (2017)](https://zipcpu.com/blog/2017/05/19/fpga-hell.html)
+- [Reticle: A Virtual Machine for Programming Modern FPGAs (2021)](https://www.cs.cornell.edu/~asampson/media/papers/reticle-pldi2021.pdf) ([Tweet](https://twitter.com/lukego/status/1393495710671282177))
+- [iCEBreaker FPGA](https://github.com/icebreaker-fpga/icebreaker) - Low cost, open-source educational FPGA development board.
+- [RapidWright](https://github.com/Xilinx/RapidWright) - Build Customized FPGA Implementations for Vivado. ([Web](http://www.rapidwright.io/))
+- [captouch](https://github.com/stnolting/captouch) - Capacitive Buttons for any FPGA.
+- [FPGA Torture](https://github.com/stnolting/fpga_torture) - Technology-agnostic FPGA stress-test: maximum logic utilization and high dynamic power consumption.
+- [A Dive into the Sipeed Tang FPGA (2021)](https://justanotherelectronicsblog.com/?p=986)
+- [Reduceron](https://github.com/tommythorn/Reduceron) - High performance FPGA softcore for running lazy functional programs, complete with hardware garbage collection.
+- [Partial implementation of Knuth's MMIX processor (FPGA softcore)](https://github.com/tommythorn/fpgammix)
+- [hls4ml](https://github.com/fastmachinelearning/hls4ml) - Machine learning in FPGAs using HLS. ([Docs](https://fastmachinelearning.org/hls4ml/))
+- [Charbel](https://github.com/m1kal/charbel) - Write synthesizable FPGA code with Clojure syntax.
+- [Renesas enters FPGA market with the first ultra-low-power, low-cost family (2021)](https://www.renesas.com/us/en/about/press-room/renesas-enters-fpga-market-first-ultra-low-power-low-cost-family-addressing-low-density-high-volume) ([HN](https://news.ycombinator.com/item?id=29261574))
+- [fpga_puf](https://github.com/stnolting/fpga_puf) - Technology-agnostic Physical Unclonable Function (PUF) hardware module for any FPGA.
+- [PiDRAM: A Holistic End-to-end FPGA-based Framework for Processing-in-DRAM (2021)](https://arxiv.org/abs/2111.00082) ([Code](https://github.com/CMU-SAFARI/PiDRAM))
+- [Retrocomputing with Clash: Haskell for FPGA Hardware Design](https://unsafeperform.io/retroclash/) ([HN](https://news.ycombinator.com/item?id=29313350))
+- [Quicklogic FPGA Toolchain](https://github.com/QuickLogic-Corp/quicklogic-fpga-toolchain) - Open Source FPGA toolchain and documentation for QuickLogic devices and eFPGA IP.
+- [FPGA Design Elements](http://fpgacpu.ca/fpga/) - Self-contained online book containing a library of FPGA design elements and related coding/design guides. ([Code](https://github.com/laforest/FPGADesignElements))
+- [FPGA Advent Calendar (2021)](https://twitter.com/willflux/status/1465268154733637633) ([HN](https://news.ycombinator.com/item?id=29613850))
+- [Potato Processor](https://github.com/skordal/potato) - Simple RISC-V processor written in VHDL for use in FPGAs.
+- [Project Apicula](https://github.com/YosysHQ/apicula) - Bitstream documentation for Gowin FPGAs.
+- [Apio](https://github.com/FPGAwars/apio) - Open source ecosystem for open FPGA boards.
+- [Ice Studio](https://icestudio.io/) - Visual editor for open FPGA boards. ([Code](https://github.com/FPGAwars/icestudio))
+- [Project Tang](https://github.com/mmicko/prjtang) - Documenting the Anlogic FPGA bit-stream format.
+- [FPGA 101 - Workshop materials](https://github.com/mmicko/fpga101-workshop)
+- [Multiplication with FPGA DSPs (2021)](https://projectf.io/posts/multiplication-fpga-dsps/)
+- [FPGA board constraints](https://github.com/hdl/constraints) - Constraint files for Hardware Description Language (HDL) designs targeting FPGA boards. ([Docs](https://hdl.github.io/constraints/))
+- [SURF](https://github.com/slaclab/surf) - Huge VHDL library for FPGA development.
+- [openwifi](https://github.com/open-sdr/openwifi) - Linux mac80211 compatible full-stack IEEE802.11/Wi-Fi design based on SDR (Software Defined Radio).
+- [FPGA Interchange format to enable interoperable FPGA tooling (2022)](https://opensource.googleblog.com/2022/02/FPGA%20Interchange%20format%20to%20enable%20interoperable%20FPGA%20tooling.html) ([HN](https://news.ycombinator.com/item?id=30317317))
+- [FPGA interchange schema definitions](https://github.com/chipsalliance/fpga-interchange-schema)
+- [Where Lions Roam: Haskell & Hardware on the VELDT](https://github.com/standardsemiconductor/VELDT-getting-started)
+- [Clear](https://groupgets.com/campaigns/1003-clear-the-open-source-fpga-asic-by-chipignite) - Open Source FPGA ASIC. ([HN](https://news.ycombinator.com/item?id=30437021))
+- [ML models on FPGA with Tensil and Ultra96 (2022)](https://k155la3.blog/2022/03/06/tensil-tutorial-for-ultra96-v2/)
+- [FPGA Clock Configuration Device Driver for Linux](https://github.com/ikwzm/fclkcfg)
+- [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA) - Open-source FPGA IP Generator.
+- [LUNA](https://github.com/greatscottgadgets/luna) - USB multitool + Amaranth HDL framework for monitoring, hacking, and developing USB devices.
+- [Simplifying FPGA management in Docker](https://github.com/inaccel/docker)
+- [FPGA Awesome list](https://github.com/FPGA-Systems/fpga-awesome-list)
+- [w11](https://github.com/wfjm/w11) - PDP-11/70 CPU core and SoC.
+- [Noasic](https://github.com/noasic/noasic) - Open-source VHDL library for FPGA design.
+- [ Raw Filtering of JSON Data on FPGAs (2022)](https://arxiv.org/abs/2205.05464)

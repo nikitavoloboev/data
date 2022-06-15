@@ -1,0 +1,97 @@
+---
+title: Scheme
+---
+
+# [Scheme](https://call-cc.org/)
+
+[The Little Typer](https://thelittletyper.com/) is a [nice book](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/).
+
+## Links
+
+- [The Scheme Programming Language book](https://www.scheme.com/tspl4/)
+- [Gambit](https://github.com/gambit/gambit) - Efficient implementation of the Scheme programming language.
+- [Writing a Scheme to x86 compiler by following Abdulaziz Ghuloum's "An Incremental Approach to Compiler Construction"](https://github.com/mrnugget/scheme_x86)
+- [Chez Scheme](https://github.com/cisco/ChezScheme) - Supports all standard features of Scheme, including first-class procedures, proper treatment of tail calls, continuations, user-defined records, libraries, exceptions, and hygienic macro expansion.
+- [Zabavno x86 emulator](https://github.com/weinholt/zabavno) - x86 emulator in Scheme.
+- [Toski](https://kennethfriedman.org/projects/toski/) - Prototype new debugging tool for Scheme.
+- [Scheme fatigue (2020)](https://hyper.dev/blog/yet-another-scheme.html)
+- [Advanced Scheme: Some Naughty Bits](https://people.csail.mit.edu/jhbrown/scheme/)
+- [Akku.scm](https://akkuscm.org/) - Scheme package manager. ([Code](https://gitlab.com/akkuscm/akku))
+- [Nanopass Compiler Library](https://github.com/nanopass/nanopass-framework-scheme) - Embedded DSL for writing compilers in Scheme.
+- [Irken Compiler](https://github.com/samrushing/irken-compiler) - Statically typed variant of Scheme. Or a lisp-like variant of ML.
+- [Gerbil Scheme](https://cons.io/) - Opinionated dialect of Scheme designed for Systems Programming, with a state of the art macro and module system on top of the Gambit runtime. ([Code](https://github.com/vyzo/gerbil)) ([Lobsters](https://lobste.rs/s/c29wn2/gerbil_scheme)) ([HN](https://news.ycombinator.com/item?id=20585637))
+- [pontiff](https://github.com/sylphbio/pontiff) - Haskell-style build system for chicken scheme.
+- [Fibers](https://github.com/wingo/fibers) - Facility that provides Go-like concurrency for Guile Scheme, in the tradition of Concurrent ML.
+- [Practical Chicken Scheme with Emacs: hello-world webserver (2017)](https://www.youtube.com/watch?v=eXB3I3S3vJc)
+- [The evolution of a Scheme programmer (2020)](https://erkin.party/blog/200715/evolution/) ([Lobsters](https://lobste.rs/s/ao7qpz/evolution_scheme_programmer))
+- [Awesome Scheme](https://github.com/schemedoc/awesome-scheme)
+- [Awesome Scheme 2](https://github.com/theodesp/awesome-scheme)
+- [A New R6RS Scheme Compiler (2019)](https://weinholt.se/articles/new-r6rs-compiler/) ([Lobsters](https://lobste.rs/s/6gbneg/new_r6rs_scheme_compiler))
+- [STklos](https://stklos.net/index.html) - Free Scheme system mostly compliant with the languages features defined in R7RS small.
+- [A Simple Scheme Compiler (1997)](https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271) ([HN](https://news.ycombinator.com/item?id=24257488))
+- [Planet Scheme](http://www.scheme.dk/planet/) - Community Scheme Blog.
+- [CHICKEN Scheme wiki](https://wiki.call-cc.org/)
+- [CHICKEN User's Manual](http://wiki.call-cc.org/man/5/The%20User%27s%20Manual)
+- [Scheme C FFI](https://github.com/Mathieu-Desrochers/Schemings) ([HN](https://news.ycombinator.com/item?id=23860977))
+- [SICP done in Scheme](https://github.com/kana/sicp)
+- [Loko Scheme](https://scheme.fail/) - Optimizing R6RS Scheme compiler.
+- [Unsyntax](https://www.unsyntax.org/) - Sane implementation of R7RS Scheme. ([Lobsters](https://lobste.rs/s/xszs7d/unsyntax_sane_implementation_r7rs))
+- [s7 Scheme](https://ccrma.stanford.edu/software/snd/snd/s7.html) - Scheme implementation intended as extension language for other applications. ([HN](https://news.ycombinator.com/item?id=24687031))
+- [Cyclone Scheme](https://github.com/justinethier/cyclone) - Brand-new compiler that allows practical application development using R7RS Scheme. ([Web](https://justinethier.github.io/cyclone/)) ([HN](https://news.ycombinator.com/item?id=24696939))
+- [SRFIs for Chez Scheme](https://github.com/arcfide/chez-srfi)
+- [Compiling Scheme to C with flat closure conversion](http://matt.might.net/articles/compiling-scheme-to-c/)
+- [Bibliography of Scheme-related Research](https://github.com/schemedoc/bibliography)
+- [scheme.rs](https://github.com/isamert/scheme.rs) - Simple yet comprehensive scheme interpreter in rust.
+- [Functional Geometry with Gambit Scheme and Raylib](https://github.com/georgjz/functional-geometry-gambit-scheme) - Implementation based in Peter Henderson's paper "Functional Geometry".
+- [Guile Scheme](https://www.gnu.org/software/guile/) - General-purpose, high-level programming language.
+- [Lokke](https://github.com/lokke-org/lokke) - Clojure for Guile.
+- [pfds](https://github.com/ijp/pfds) - Set of purely functional data structures written in R6RS Scheme.
+- [Sin's Scheme Compiler](https://github.com/sinistersnare/SinScheme) - Mostly working compiler from some non-standards compliant Scheme to LLVM IR. Written for a compilers class.
+- [QSCM - A tiny bootstrapped Scheme](https://c9x.me/qscm/)
+- [Tehila](https://github.com/sgrove/tehila) - 3D engine for Scheme.
+- [steel](https://github.com/mattwparas/steel) - Embedded scheme interpreter in Rust.
+- [Gauche](https://github.com/shirok/Gauche) - Scheme Scripting Engine.
+- [A love letter to s7 Scheme (2016)](https://carloscarrasco.com/love-letter-to-s7-scheme/)
+- [Using Scheme to Find the Median of Two Sorted Integer Lists (2021)](https://www.erichgrunewald.com/posts/using-scheme-to-find-the-median-of-two-sorted-integer-lists/) ([HN](https://news.ycombinator.com/item?id=27403666))
+- [The Seasoned Schemer Book](https://mitpress.mit.edu/books/seasoned-schemer-second-edition) ([Code](https://github.com/pkrumins/the-seasoned-schemer))
+- [Thoughts on Racket & Chez Scheme](https://beautifulracket.com/appendix/racket-and-chez-scheme.html) ([Lobsters](https://lobste.rs/s/rtfpg6/thoughts_on_racket_chez_scheme))
+- [LispPad](http://lisppad.objecthub.net/) - Lightweight Scheme IDE on macOS and iOS.
+- [TmpLisp](https://github.com/tdp2110/TmpLisp) - Implementation of Scheme in C++ Template Metaprogramming.
+- [10 ways GNU Guile is 10x better (2021)](https://www.draketo.de/software/guile-10x.html)
+- [Snap is Scheme disguised as Scratch](https://people.eecs.berkeley.edu/~bh/snap/baby3.pdf) ([HN](https://news.ycombinator.com/item?id=28337196))
+- [HN: Chicken Scheme (2021)](https://news.ycombinator.com/item?id=28397785)
+- [BiwaScheme](https://github.com/biwascheme/biwascheme) - Scheme interpreter written in JavaScript. ([Web](https://www.biwascheme.org/))
+- [Exploring Scheme implementations for API programming coming from Node.js, Go (2019)](https://taoofmac.com/space/blog/2019/06/20/2310)
+- [Ribbit](https://github.com/udem-dlteam/ribbit) - Small and portable Scheme implementation with AOT and incremental compilers that fits in 4K.
+- [Scheme-to-C](https://github.com/akeep/scheme-to-c) - Tiny nanopass compiler for compiling a small subset of Scheme to C.
+- [Scheme-to-LLVM](https://github.com/akeep/scheme-to-llvm)
+- [Normalization-by-evaluation in miniKanren](https://github.com/webyrd/normalization-by-evaluation)
+- [schemeCompiler](https://github.com/mhuesch/schemeCompiler) - Compiler for a subset of Scheme in Haskell.
+- [Write You a Scheme in Haskell](https://github.com/write-you-a-scheme-v2/scheme) ([Web](https://www.wespiser.com/writings/wyas/home.html))
+- [Interactive Scheme Primer, written in Scheme](https://github.com/webyrd/scheme-primer)
+- [A small scheme VM, compiler, and REPL in 4k (2021)](https://dl.acm.org/doi/10.1145/3486606.3486783) ([HN](https://news.ycombinator.com/item?id=29348033))
+- [Scheme interpreter in C](https://github.com/TectonicFury/CSCMIC) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/r3zpgc/a_barely_usable_interpreter_for_a_subset_of/))
+- [MIT Scheme on Apple Silicon (2021)](https://kennethfriedman.org/thoughts/2021/mit-scheme-on-apple-silicon/) ([HN](https://news.ycombinator.com/item?id=29707604))
+- [VLISP: A Verified Implementation of Scheme (1993)](http://mirror.informatimago.com/scheme/repository.readscheme.org/ftp/papers/vlisp-lasc/vlisp.pdf) ([HN](https://news.ycombinator.com/item?id=29728783))
+- [Lambda Quest](https://lambda.quest/) - Interactive Scheme environment with Canvas. ([Code](https://github.com/katspaugh/lambda.quest))
+- [TinyScheme R7](https://github.com/RodionGork/tinyscheme) - Small Scheme language implementation written in C language.
+- [R7RS Scheme Implementation in WebAssembly](https://github.com/PollRobots/scheme) ([HN](https://news.ycombinator.com/item?id=29773927))
+- [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) ([F# Code](https://github.com/pangwa/write-yourself-a-scheme-doc))
+- [lviv](https://github.com/kwantam/lviv) - Stack-based RPN functional programming language. Written in Scheme.
+- [Waffle](https://github.com/playXE/waffle-scheme) - Simple Scheme implementation with bytecode VM.
+- [Fiddle](https://github.com/maxsnew/modal-scheme) - Scheme-like CBPV language with Racket Interoperability.
+- [agda2scheme](https://github.com/jespercockx/agda2scheme) - Agda backend for Chez Scheme.
+- [The Reasoned Schemer Book (2018)](https://mitpress.mit.edu/books/reasoned-schemer-second-edition) ([Code](https://github.com/TheReasonedSchemer2ndEd/CodeFromTheReasonedSchemer2ndEd))
+- [Haskeme](https://github.com/jumper149/haskeme) - Compiler translates Scheme source code written with I-Expressions (indented expressions) into S-Expressions (symbolic expressions).
+- [Bob](https://github.com/eliben/bobscheme) - Implementation of Scheme in Python and C++.
+- [Braces](https://github.com/certainty/braces) - Toy scheme compiler and VM in rust.
+- [miniKanren with symbolic constraints](https://github.com/webyrd/miniKanren-with-symbolic-constraints)
+- [miniKanren with symbolic constraints with better performance](https://github.com/webyrd/faster-miniKanren)
+- [tinyKanren](https://github.com/yinwang0/tinyKanren) - Simplified version of the original miniKanren.
+- [CLP(Rosette) on top of miniKanren](https://github.com/chansey97/clprosette-miniKanren)
+- [FLISP](https://github.com/fjames86/flisp) - Scheme-like Lisp interpreter that can also run as an operating system.
+- [Schism](https://github.com/schism-lang/schism) - Compiler from Scheme to WebAssembly.
+- [thunderchez](https://github.com/ovenpasta/thunderchez) - Libraries for Chez Scheme productivity.
+- [The Little Typer](https://thelittletyper.com/) ([Review](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/))
+- [Scheme interpreter in Scala](https://github.com/rami3l/yascm)
+- [Scheje](https://github.com/turbopape/scheje) - Scheme in Clojure.

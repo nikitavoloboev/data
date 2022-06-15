@@ -1,0 +1,129 @@
+---
+title: LLVM
+---
+
+# [LLVM](https://llvm.org/)
+
+## Links
+
+- [Vellvm](https://www.cis.upenn.edu/~stevez/vellvm/) - Verifying the LLVM.
+- [Vellvm: Verifying the LLVM - Steve Zdancewic (2018)](https://www.youtube.com/watch?v=q6gSC3OxB_8) - Great intro to LLVM.
+- [Code Generation with llvm-hs by Stephen Diehl (2018)](https://www.youtube.com/watch?v=wn-xW3g8jXY)
+- [Souper](https://github.com/google/souper) - Superoptimizer for LLVM IR. ([HN](https://news.ycombinator.com/item?id=26020879))
+- [Mull](https://github.com/mull-project/mull) - Mutation testing system built on top of LLVM.
+- [LLVM Tutorial: Table of Contents](https://llvm.org/docs/tutorial/)
+- [Compiler basics (3): LLVM (2019)](http://notes.eatonphil.com/compiler-basics-llvm.html)
+- [CodeGen](https://github.com/pdziepak/codegen) - Experimental wrapper over LLVM for generating and compiling code at run-time.
+- [LLVM backend for the Accelerate Array Language](https://github.com/AccelerateHS/accelerate-llvm)
+- [kaleidoscope-rs](https://github.com/beam2d/kaleidoscope-rs) - LLVM tutorial implementation in Rust with llvm-sys.
+- [Compiler basics (3): LLVM (2019)](http://notes.eatonphil.com/compiler-basics-llvm.html)
+- [Let's Write an LLVM Specializer for Python (2019)](http://dev.stephendiehl.com/numpile/) ([HN](https://news.ycombinator.com/item?id=21268287))
+- [2019 LLVM Developers’ Meeting: E. Christopher & J. Doerfert “Introduction to LLVM”](https://www.youtube.com/watch?v=J5xExRGaIIY)
+- [LLVM Tutor](https://github.com/banach-space/llvm-tutor) - Collection of self-contained reference LLVM passes. It's a tutorial that targets novice and aspiring LLVM developers.
+- [LLVM Discourse](https://llvm.discourse.group/)
+- [LLVM Discord](https://discordapp.com/invite/xS7Z362)
+- [LLVM for Grad Students (2015)](https://www.cs.cornell.edu/~asampson/blog/llvm.html) ([step-by-step tutorial for building an LLVM sample pass](https://github.com/abenkhadra/llvm-pass-tutorial))
+- [Quala](https://github.com/sampsyo/quala) - Type Qualifiers for LLVM/Clang.
+- [haybale](https://github.com/PLSysSec/haybale) - Symbolic execution of LLVM IR, written in Rust.
+- [2019 EuroLLVM Developers’ Meeting: V. Bridgers & F. Piovezan “LLVM IR Tutorial - Phis, GEPs ...”](https://www.youtube.com/watch?v=m8G_S5LwlTo)
+- [Beyond debug information: Improving program reconstruction in LLDB using C++ modules (2019)](https://odr.chalmers.se/handle/20.500.12380/300037)
+- [LLVM source code](https://github.com/llvm-mirror/llvm)
+- [Generating Verified LLVM from Isabelle/HOL](https://drops.dagstuhl.de/opus/volltexte/2019/11077/pdf/LIPIcs-ITP-2019-22.pdf)
+- [Snel: SQL Native Execution for LLVM (2020)](https://arxiv.org/abs/2002.09449) ([HN](https://news.ycombinator.com/item?id=22404004))
+- [Clang](http://clang.llvm.org/) - C language family frontend for LLVM. ([Docs](http://clang.llvm.org/docs/index.html))
+- [Alive2](https://github.com/AliveToolkit/alive2) - Automatic verification of LLVM optimizations. ([Paper](https://www.cs.utah.edu/~regehr/alive2-pldi21.pdf))
+- [Micro C, Part 3: Generating LLVM (2020)](https://blog.josephmorag.com/posts/mcc3/)
+- [jitmap](https://github.com/fsaintjacques/jitmap) - Small library providing an execution engine for logical binary expressions on bitmaps.
+- [LLVM Explore](https://github.com/mkitzan/llvm-explore) - Notes created while studying LLVM compiler infrastructure in preparation for compiler engineer job and onsite interview.
+- [Joseph Groff & Chris Lattner “Swift's High-Level IR: A Case Study..." (2015)](https://www.youtube.com/watch?v=Ntj8ab-5cvE)
+- [Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators (2019)](https://www.youtube.com/watch?v=yCd3CzGSte8)
+- [Cilk](https://github.com/maekawatoshiki/cilk) - Toy Compiler Infrastructure influenced by LLVM written in Rust.
+- [Make LLVM fast again (2020)](https://nikic.github.io/2020/05/10/Make-LLVM-fast-again.html) ([Reddit](https://www.reddit.com/r/cpp/comments/gh3huh/make_llvm_fast_again/)) ([HN](https://news.ycombinator.com/item?id=23137345))
+- [Mapping High Level Constructs to LLVM IR](https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io/en/latest/README.html) ([Code](https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir))
+- [KLEE LLVM Execution Engine](https://klee.github.io/) - Symbolic virtual machine built on top of LLVM. ([HN](https://news.ycombinator.com/item?id=23283706))
+- [Anselm](https://github.com/trailofbits/anselm) - Tool that allows you to describe and detect patterns of bad behavior in function calls.
+- [pitchfork](https://github.com/PLSysSec/haybale-pitchfork) - Verifying constant-time code with symbolic execution.
+- [PhASAR](https://github.com/secure-software-engineering/phasar) - LLVM-based Static Analysis Framework. ([Web](https://phasar.org/))
+- [cclyzer](https://github.com/plast-lab/cclyzer) - Tool for analyzing LLVM bitcode using Datalog.
+- [Vellvm](https://github.com/vellvm/vellvm) - Coq formalization of the semantics of (a subset of) the LLVM compiler IR.
+- [Writing an LLVM Optimization (2020)](https://www.youtube.com/watch?v=MagR2KY8MQI)
+- [KLEE](https://github.com/klee/klee) - Symbolic virtual machine built on top of the LLVM compiler infrastructure.
+- [ALLVM Research Project](https://publish.illinois.edu/allvm-project/) - All software components — except a small set needed for bootstrapping — are represented in a virtual instruction set instead of native machine code.
+- [Run LLVM Assembly in the Browser](http://kripken.github.io/llvm.js/demo.html) ([HN](https://news.ycombinator.com/item?id=24097446))
+- [Compiling a Higher-Order Smart Contract Language to LLVM](https://arxiv.org/pdf/2008.05555.pdf) ([Tweet](https://twitter.com/maqstik/status/1294170007891566593))
+- [The Dynamic Runtime Inlining (DRTI)](https://github.com/drti/drti) - With this project it is possible to take the output from an LLVM compiler such as clang and allow selected parts of the code to recompile themselves at runtime.
+- [Understanding static single assignment forms (2020)](https://blog.yossarian.net/2020/10/23/Understanding-static-single-assignment-forms)
+- [LLVM tutorial in Rust language](https://github.com/jauhien/iron-kaleidoscope)
+- [A tutorial on how to write a compiler using LLVM (2020)](https://tomassetti.me/a-tutorial-on-how-to-write-a-compiler-using-llvm/)
+- [cargo-llvm-lines](https://github.com/dtolnay/cargo-llvm-lines) - Count lines of LLVM IR per generic function.
+- [QBE vs. LLVM](https://c9x.me/compile/doc/llvm.html) ([HN](https://news.ycombinator.com/item?id=25273907))
+- [Infrastructure for ML - Driven Optimizations in LLVM](https://github.com/google/ml-compiler-opt)
+- [LLVM Project Blog](https://blog.llvm.org/)
+- [A Complete Guide to LLVM for Programming Language Creators (2020)](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/) ([HN](https://news.ycombinator.com/item?id=25539797))
+- [The Architecture of Open Source Applications: LLVM](http://www.aosabook.org/en/llvm.html) ([Reddit](https://www.reddit.com/r/programming/comments/ku9xza/the_architecture_of_open_source_applications_llvm/))
+- [Enzyme](https://github.com/wsmoses/Enzyme) - High-Performance Automatic Differentiator of LLVM. ([Docs](https://enzyme.mit.edu/))
+- [DebugIR](https://github.com/vaivaswatha/debugir) - Debugging LLVM-IR Files.
+- [Dumbo: LLVM-based Dumb Obfuscator (2019)](https://www.babush.me/dumbo-llvm-based-dumb-obfuscator.html)
+- [LLVM Meets Code Property Graphs (2021)](https://blog.llvm.org/posts/2021-02-23-llvm-meets-code-property-graphs/)
+- [LLVM Project Blog](https://blog.llvm.org/)
+- [revng](https://github.com/revng/revng) - Static binary translator. Given a input ELF binary for one of the supported architectures, it will analyze it and emit an equivalent LLVM IR.
+- [PolyTracker](https://github.com/trailofbits/polytracker) - LLVM-based instrumentation tool for universal taint analysis.
+- [A look at LLVM - comparing clamp implementations (2021)](https://secret.club/2021/04/09/std-clamp.html) ([HN](https://news.ycombinator.com/item?id=26753872))
+- [Speedbuilding LLVM/Clang in 5 minutes (2021)](https://www.cambus.net/speedbuilding-llvm-clang-in-5-minutes/)
+- [Building LLVM in 90 seconds using Amazon Lambda (2021)](https://blog.nelhage.com/post/building-llvm-in-90s/) ([Lobsters](https://lobste.rs/s/pruijn/building_llvm_90_seconds_using_amazon))
+- [eBPF assembly with LLVM (2020)](https://qmonnet.github.io/whirl-offload/2020/04/12/llvm-ebpf-asm/)
+- [Alive2: Bounded Translation Validation for LLVM (2021)](https://www.cs.utah.edu/~regehr/alive2-pldi21.pdf)
+- [llvm-deobfuscator](https://github.com/RPISEC/llvm-deobfuscator) - Performs the inverse operation of the control flow flattening pass performed by LLVM-Obfuscator. ([Article](https://rpis.ec/blog/dissection-llvm-obfuscator-p1/))
+- [LLVM MinGW](https://github.com/mstorsjo/llvm-mingw) - LLVM/Clang/LLD based mingw-w64 toolchain.
+- [Design issues in LLVM IR (2021)](https://www.npopov.com/2021/06/02/Design-issues-in-LLVM-IR.html)
+- [Can memcpy be implemented in LLVM IR? (2021)](https://nhaehnle.blogspot.com/2021/06/can-memcpy-be-implemented-in-llvm-ir.html?m=1)
+- [Clang and LLVM Tutorial](https://github.com/lijiansong/clang-llvm-tutorial) - AST Interpreter, Function Pointer Analysis, Value Range Analysis, Data-Flow Analysis, Andersen Pointer Analysis, LLVM Backend.
+- [LLVM Internals: The Bitcode Format (2021)](https://blog.yossarian.net/2021/07/19/LLVM-internals-part-1-bitcode-format)
+- [A Journey to Understand LLVM-IR (2021)](https://un-devs.github.io/low-level-exploration/journey-to-understanding-llvm-ir/#)
+- [Can we directly execute LLVM-IR?](https://news.ycombinator.com/item?id=28052929)
+- [Learning Almost Nothing About LLVM (2021)](https://bellmar.medium.com/learning-almost-nothing-about-llvm-e6aea9b243d9) ([HN](https://news.ycombinator.com/item?id=28438296))
+- [Whole Program LLVM in Go](https://github.com/SRI-CSL/gllvm) - Drop-in replacement for wllvm, that builds the bitcode in parallel, and is faster.
+- [The select story (2021)](https://aqjune.github.io/posts/2021-10-4.the-select-story.html) - Story about the removal of a compiler optimization that had been in LLVM for a long time.
+- [LLVM 13.0.0 (2021)](https://releases.llvm.org/13.0.0/docs/ReleaseNotes.html) ([HN](https://news.ycombinator.com/item?id=28760685))
+- [llvm-pretty](https://github.com/elliottt/llvm-pretty) - LLVM pretty printer inspired by the Haskell LLVM binding.
+- [Generating relocatable code for ARM processors (2021)](https://blog.llvm.org/posts/2021-10-01-generating-relocatable-code-for-arm-processors/) ([HN](https://news.ycombinator.com/item?id=28830650))
+- [llvmlite](https://github.com/numba/llvmlite) - Lightweight LLVM Python Binding for Writing JIT Compilers. ([Docs](https://llvmlite.readthedocs.io/en/latest/))
+- [gem5-SALAM (System Architecture for LLVM-based Accelerator Modeling)](https://github.com/TeCSAR-UNCC/gem5-SALAM) - Novel system architecture designed to enable LLVM-based modeling and simulation of custom hardware accelerators.
+- [mlir-hs](https://github.com/google/mlir-hs) - Haskell bindings for MLIR.
+- [Make LLVM fast again (2020)](https://www.npopov.com/2020/05/10/Make-LLVM-fast-again.html)
+- [Building a Distribution of LLVM](https://llvm.org/docs/BuildingADistribution.html)
+- [How to learn compilers: LLVM Edition (2021)](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/) ([HN](https://news.ycombinator.com/item?id=29112482))
+- [llvm-reduce (2021)](https://blog.regehr.org/archives/2109)
+- [2021 LLVM Developers' Meeting](https://llvm.swoogo.com/2021devmtg/1538015)
+- [manyclangs](https://github.com/elfshaker/manyclangs) - Project enabling you to run any commit of clang within a few seconds, without having to build it.
+- [LLVM relicensing update and call for help (2021)](https://blog.llvm.org/posts/2021-11-18-relicensing-update/) ([HN](https://news.ycombinator.com/item?id=29292516)) ([Lobsters](https://lobste.rs/s/uxuudg/llvm_relicensing_update_call_for_help))
+- [Remill](https://github.com/lifting-bits/remill) - Library for lifting of x86, amd64, and aarch64 machine code to LLVM bitcode.
+- [mollusc](https://github.com/woodruffw/mollusc) - Pure-Rust libraries for parsing, interpreting, and analyzing LLVM.
+- [“LLVM-Libc” C Standard Library](https://llvm.org/docs/Proposals/LLVMLibC.html) ([HN](https://news.ycombinator.com/item?id=29447533))
+- [llvm-deno](https://github.com/littledivy/llvm-deno) - LLVM bindings for Deno.
+- [Building an Operating System from Scratch with LLVM (2021)](https://www.youtube.com/watch?v=DYaqzEbU0Vk)
+- [Pedigree](https://github.com/compor/Pedigree) - LLVM dependence graphs.
+- [llvm-sys.rs](https://github.com/tari/llvm-sys.rs) - Rust bindings to LLVM's C API.
+- [Crellvm](https://github.com/snu-sf/crellvm) - Verified Credible Compilation for LLVM.
+- [llvm-c-search](https://github.com/alt-romes/llvm-c-search) - Terminal interface to search the LLVM-C API.
+- [Instrew](https://github.com/aengelke/instrew) - High performance LLVM-based dynamic binary instrumentation framework.
+- [bruh](https://github.com/NinjaLikesCheez/bruh) - Tool to make LLVM IR more human readable.
+- [Summus](https://github.com/igor84/summus) - Simple compiler frontend using LLVM as backend. Can easily be used as a starting point for any kind of compiler.
+- [Taming Undefined Behavior in LLVM (2017)](https://www.cs.utah.edu/~regehr/papers/undef-pldi17.pdf)
+- [Fracture](https://github.com/draperlaboratory/fracture) - Architecture-independent decompiler to LLVM IR.
+- [Reducing WebAssembly size by exploring all executions in LLVM (2022)](https://leaningtech.com/reducing-webassembly-size-by-exploring-all-executions-in-llvm/) ([HN](https://news.ycombinator.com/item?id=30686919))
+- [FileCheck](https://github.com/llvm-swift/FileCheck) - Standalone Swift version of LLVM's flexible pattern matching file verifier.
+- [Lanai, the mystery CPU architecture in LLVM](https://q3k.org/lanai.html) ([Lobsters](https://lobste.rs/s/jtjrnc/lanai_mystery_cpu_architecture_llvm)) ([HN](https://news.ycombinator.com/item?id=30757889))
+- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds (2022)](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864)
+- [Apple LLVM fork](https://github.com/apple/llvm-project)
+- [LLVM Guide](https://github.com/mikeroyal/LLVM-Guide)
+- [McSema](https://github.com/lifting-bits/mcsema) - Framework for lifting x86, amd64, aarch64, sparc32, and sparc64 program binaries to LLVM bitcode.
+- [Peephole Optimizer (For QBE): Studying the LLVM and GCC Optimizers (2022)](https://briancallahan.net/blog/20220417.html)
+- [Whole Program LLVM](https://github.com/travitch/whole-program-llvm) - Wrapper script to build whole-program LLVM bitcode files.
+- [PochiVM](https://github.com/sillycross/PochiVM) - JIT (just-in-time) code-generation framework backed by LLVM and a novel baseline compiler.
+- [Guide to Performance Debugging LLVM-based Programs (2022)](https://www.youtube.com/watch?v=lDFE-QtSIfg)
+- [Writing an LLVM-IR compiler in Rust](https://github.com/ucarion/llvm-rust-getting-started)
+- [Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM.
+- [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM (2022)](https://blog.regehr.org/archives/2148)
+- [Formal-Methods-Based Bugfinding for LLVM’s AArch64 Back End (2022)](https://blog.regehr.org/archives/2265) ([HN](https://news.ycombinator.com/item?id=31642147))
+- [Caffeine](https://github.com/insufficiently-caffeinated/caffeine) - Symbolic execution engine that interprets LLVM IR.

@@ -1,0 +1,190 @@
+# Documentation
+
+Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to write. [Markdoc](https://markdoc.io/) & [nbdoc](https://twitter.com/HamelHusain/status/1507383929774305282) look nice too.
+
+[React Docs](https://beta.reactjs.org/) is a great example of what great docs are. I love their illustrations.
+
+## Examples of nice docs
+
+- [Linear Guide](https://linear.app/docs)
+- [React Docs](https://beta.reactjs.org/)
+- [Netlify Docs](https://docs.netlify.com/)
+- [Vue Docs](https://vuejs.org/) ([Code](https://github.com/vuejs/docs))
+- [Fly Docs](https://fly.io/docs/) ([Code](https://github.com/superfly/docs))
+- [Hoppscotch Docs](https://docs.hoppscotch.io/) ([Code](https://github.com/hoppscotch/docs))
+- [Next MDX](https://www.next-mdx.org/)
+- [Algolia Docs](https://www.algolia.com/doc/)
+- [Cloudflare Workers](https://developers.cloudflare.com/workers/) ([Code](https://github.com/cloudflare/workers-docs-engine)) ([Article](https://blog.cloudflare.com/new-and-improved-workers-docs/))
+- [Cloudflare Docs](https://developers.cloudflare.com/docs/) - Nice overview page. ([Code](https://github.com/cloudflare/cloudflare-docs))
+- [TSDX](https://tsdx.io)
+- [Meilisearch Docs](https://docs.meilisearch.com/) ([Code](https://github.com/meilisearch/documentation))
+- [Parcel 2 docs](https://v2.parceljs.org/) ([Code](https://github.com/parcel-bundler/website))
+- [Shields.io readme](https://github.com/badges/shields) - Clear instructions on how to start working on the project, contributing guidelines pointing to a tutorial, coding guidelines and even a high-level code walkthrough.
+- [inDinero Help Center in Notion](https://support.indinero.com/inDinero-Help-Center-465343520bbe4af19f3b0144b70a1192) - Easy example of doing help/docs for company in Notion.
+- [Formik Docs](https://formik.org/blog/new-docs) - NextJS + Notion + TailwindCSS + AlgoliaSearch.
+- [Monzo](https://docs.monzo.com/#introduction)
+- [Expo](https://docs.expo.io/)
+- [Apollo](https://www.apollographql.com/docs/) - Lovely search.
+- [Prolens nice ASCII diagrams](https://twitter.com/kowainik/status/1316297938667220992)
+- [Rome Toolchain](https://rome.tools/) - Nice sidebar with table of contents + search.
+- [PlanetScale Docs](https://docs.planetscale.com/) ([Code](https://github.com/planetscale/docs))
+- [Datadog Docs](https://docs.datadoghq.com/) ([Code](https://github.com/DataDog/documentation))
+- [Strapi Docs](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html) ([Code](https://github.com/strapi/documentation))
+- [Increase API Reference](https://increase.com/documentation#api-reference)
+- [Stacks Docs](https://docs.stacks.co/) ([Code](https://github.com/stacks-network/docs))
+- [Nebula Docs](https://docs.neb.money/)
+
+## Notes
+
+- [Top two mistakes in documentation:](https://twitter.com/dan_abramov/status/1083472984252260352)
+  1. Assuming people know everything
+  2. Assuming people are stupid
+- [If asked a question twice, respond the 3rd time with a URL.](https://ben.balter.com/2020/08/14/tools-of-the-trade/)
+- [When done right your documentation is also part of your support, marketing, and even sales.](https://twitter.com/ianstormtaylor/status/1376601005597544448)
+- [Documentation and processes are super important -- don't go for too long without documenting everything -- even at the expense of it being half-baked, and this should be the task of many people are your company. It will save everyone time in the long run.](https://twitter.com/dunkhippo33/status/1453604800180809741)
+- [Your company has a poor documentation culture. Things are slow because people don’t know how things works. Managers start micromanaging because work is slow. Leadership issues mandates. No one likes mandates, but that isn’t the problem. It was poor communication the whole time.](https://twitter.com/bryanl/status/1458160056680189958)
+- [Building something isn't very useful if you don't take the time to explain it to people.](https://twitter.com/armaniferrante/status/1473699131243773967)
+- [Every policy or process doc I write now has a section called “Reasons to Revisit.” It is essentially a reverse success criteria. Rather than a short list of things I would expect to see if the policy was successful.](https://news.ycombinator.com/item?id=30394344)
+- [Better docs tips: onboarding a core engineer, conducting user research, building conceptual visualizations with a dedicated product team throughout](https://twitter.com/jutanium/status/1528514940440612865)
+
+## Links
+
+- [Beautiful Docs](https://github.com/PharkMillups/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
+- [Ask HN: Is there a better way to document complex software architectures? (2018)](https://news.ycombinator.com/item?id=18508284) -
+- [Docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [Write the Docs](https://www.writethedocs.org/) - Global community of people who care about documentation. ([Code](https://github.com/writethedocs/www))
+- [Documentation Guide](https://www.writethedocs.org/guide/index.html) - Gathers the collective wisdom of the Write the Docs community around best practices for creating software documentation.
+- [Lobsters: What does your company use for documentation? (2019)](https://lobste.rs/s/6jc9qj/what_does_your_company_use_for)
+- [GitDocs](https://github.com/timberio/gitdocs) - Easy to use, SEO-friendly, beautiful documentation that lives in your git repo.
+- [A Rubric for Open Source Documentation (2019)](https://naildrivin5.com/blog/2019/08/23/a-rubric-for-open-source-documentation.html)
+- [Ask HN: What is key to good technical documentation? (2019)](https://news.ycombinator.com/item?id=20909783)
+- [Slab](https://slab.com/) - Simple, scalable wiki that knocks down silos. ([HN](https://news.ycombinator.com/item?id=24824063))
+- [How to remove condescending language from documentation (2019)](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
+- [Rich docs with Storybook MDX (2019)](https://medium.com/storybookjs/rich-docs-with-storybook-mdx-61bc145ae7bc)
+- [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust.
+- [mdbook-generate-summary](https://github.com/younata/mdbook-generate-summary) - Tool to generate an mdBook SUMMARY.md page.
+- [The Knowledge: Towards a Culture of Engineering Documentation](https://www.usenix.org/node/197471)
+- [We Need a New Document Markup Language - Here is Why (2019)](https://dev.to/practicalprogramming/we-need-a-new-document-markup-language---here-is-why-5d4c)
+- [Devhints](https://devhints.io/) - TL;DR for documentation. ([Code](https://github.com/rstacruz/cheatsheets))
+- [Metadoc](https://beta.metadoc.io/) - Online documentation platform where developers collaborate and learn from shared inline notes, bookmarks and comments.
+- [Ask HN: How does your company keep track of lessons learned? (2020)](https://news.ycombinator.com/item?id=22297780)
+- [Technical Writing Courses for Engineers by Google](https://developers.google.com/tech-writing) ([HN](https://news.ycombinator.com/item?id=22652241))
+- [Almanac](https://almanac.io/) - Workspace for your team's knowledge.
+- [MkDocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+- [Docz](https://github.com/doczjs/docz) - Makes it easy to write and publish beautiful interactive documentation for your code. ([Web](https://www.docz.site/))
+- [gatsby-starter-docz](https://github.com/doczjs/gatsby-starter-docz) - Gatsby starter with Docz and a blog for your documentation.
+- [Stripe Docs interactive example](https://stripe.com/docs/payments/integration-builder)
+- [Artifact](https://github.com/vitiral/artifact) - Simple, linkable and trackable design documentation tool for everybody.
+- [Gatsby theme for your knowledge base or help center](https://github.com/mlent/gatsby-theme-help-center)
+- [Read the Docs](https://readthedocs.com/) - Spend your time on writing high quality documentation, not on the tools to make your documentation work.
+- [cheatset](https://github.com/Kapeli/cheatset) - Generate cheat sheets for Dash.
+- [Doctocat](https://primer.style/doctocat/) - Gatsby theme for creating Primer documentation sites. ([Code](https://github.com/primer/doctocat))
+- [Docup](https://docup.now.sh/) - Single JavaScript file that fetches Markdown file and renders it as a beautiful one-page documentation. ([Code](https://github.com/egoist/docup))
+- [RFCs and asynchronous-first culture (2020)](https://notes.eatonphil.com/rfcs-and-asynchronous-first-culture.html)
+- [Today’s Javascript, from an outsider’s perspective (2020)](http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/) ([Lobsters](https://lobste.rs/s/1qmlfh/today_s_javascript_from_outsider_s)) ([HN](https://news.ycombinator.com/item?id=23306382))
+- [What could be improved in the documentation process? (2020)](https://lobste.rs/s/2f463g/what_could_be_improved_documentation)
+- [Add a “contrib” directory to your projects (2020)](https://drewdevault.com/2020/06/06/Add-a-contrib-directory.html) ([Lobsters](https://lobste.rs/s/mqoacf/add_contrib_directory_your_projects))
+- [Nextra](https://github.com/shuding/nextra) - Next.js based documentation site generator. 0 line of code needed, just write Markdown. ([Docs](https://nextra.vercel.app/)) ([Tweet](https://twitter.com/jaredpalmer/status/1408137147715031045))
+- [Writing inclusive documentation](https://developers.google.com/style/inclusive-documentation)
+- [Google developer documentation style guide](https://developers.google.com/style)
+- [ReadMe](https://readme.com/) - Beautiful, personalized, interactive docs.
+- [Favorite docs collection (and why) (2020)](https://twitter.com/dan_abramov/status/1280949739534630919)
+- [Ask HN: How do you learn new libraries without much documentation? (2020)](https://news.ycombinator.com/item?id=23800590)
+- [Design Docs at Google (2020)](https://www.industrialempathy.com/posts/design-docs-at-google/) ([HN](https://news.ycombinator.com/item?id=23915521))
+- [Outline](https://www.getoutline.com/) - Open, extensible, wiki for your team built using React and Node.js ([Code](https://github.com/outline/outline))
+- [Why Write ADRs (2020)](https://github.blog/2020-08-13-why-write-adrs/) ([HN](https://news.ycombinator.com/item?id=24146594))
+- [I Love MDN, or the cult of the free in action (2020)](https://www.quirksmode.org/blog/archives/2020/08/i_love_mdn_or_t.html) ([HN](https://news.ycombinator.com/item?id=24159244))
+- [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record) - ADR is document that captures an important architectural decision made along with its context and consequences.
+- [docsify](https://docsify.js.org/#/) - Magical documentation site generator. ([Code](https://github.com/docsifyjs/docsify/)) ([Awesome](https://github.com/docsifyjs/awesome-docsify))
+- [Just the Docs](https://github.com/pmarsceill/just-the-docs) - Modern, high customizable, responsive Jekyll theme for documention with built-in search.
+- [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - Vite plugin for React. It is very suitable for document site and React UI development environment.
+- [The Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - Various templates & tips on writing high-quality documentation that people want to read.
+- [Smooth Doc](https://github.com/gregberge/smooth-doc) - Ready to use documentation theme for Gatsby.
+- [Furo](https://github.com/pradyunsg/furo) - Clean customizable theme for Sphinx.
+- [MyST](https://myst-parser.readthedocs.io/en/latest/) - Fully-functional markdown flavor and parser for Sphinx. ([Code](https://github.com/executablebooks/MyST-Parser))
+- [DocuAPI](https://github.com/bep/docuapi) - Beautiful multilingual API documentation theme for Hugo.
+- [Make a readme](https://www.makeareadme.com/) - Explains what a readme is, what the benefits are, and what makes for a good readme. ([Code](https://github.com/dguo/make-a-readme))
+- [On Apple's Piss-Poor Documentation (2020)](https://www.caseyliss.com/2020/11/10/on-apples-pisspoor-documentation) ([HN](https://news.ycombinator.com/item?id=25046691))
+- [Tips about making quality engineering documentation (2020)](https://twitter.com/levwalkin/status/1327440814604124160)
+- [Pycco](https://github.com/pycco-docs/pycco) - Literate-style documentation generator.
+- [How to write good documentation (2020)](https://victoria.dev/blog/how-to-write-good-documentation/)
+- [The career-changing art of reading the docs (2021)](https://acloudguru.com/blog/engineering/the-career-changing-art-of-reading-the-docs)
+- [DocSearch](https://docsearch.algolia.com/) - Search made for documentation by Algolia. ([Code](https://github.com/algolia/docsearch)) ([Configs](https://github.com/algolia/docsearch-configs))
+- [A Framework for Writing Better Documentation](https://documentation.divio.com/) ([HN](https://news.ycombinator.com/item?id=26002656))
+- [Improving Usability by Writing Documentation (2021)](https://wbond.net/thoughts/improving_usability_by_writing_documentation)
+- [What nobody tells you about documentation (2017)](https://www.youtube.com/watch?v=t4vKPhjcMZg)
+- [paradoc](https://github.com/jordwalke/paradoc) - One Click Docs.
+- [Ask HN: How to write documentation for a medium size engineering org? (2021)](https://news.ycombinator.com/item?id=26334164)
+- [Dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX. ([Web](https://dokz.site/))
+- [Ask HN: How Do You Write Documentation (2021)](https://news.ycombinator.com/item?id=26446692)
+- [Ask HN: How do I improve boring README page? (2021)](https://news.ycombinator.com/item?id=26537805)
+- [Docuowl](https://github.com/docuowl/docuowl) - Generates a static single-page documentation from Markdown files.
+- [The Grand Unified Theory of Documentation](https://diataxis.fr/) ([HN](https://news.ycombinator.com/item?id=26824743)) ([Code](https://github.com/evildmp/diataxis-documentation-framework))
+- [Writing Docs at Amazon (2019)](https://blog.usejournal.com/writing-docs-at-amazon-e025808616bd)
+- [Word usage guidance and alternative terms](https://developers.google.com/style/word-list) ([HN](https://news.ycombinator.com/item?id=26860227))
+- [Why programmers don’t write documentation (2021)](https://kislayverma.com/programming/why-programmers-dont-write-documentation/) ([HN](https://news.ycombinator.com/item?id=27007105))
+- [Docusaurus 2 Beta (2021)](https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta) ([HN](https://news.ycombinator.com/item?id=27132485))
+- [Common Documentation Mistakes and How to Avoid Them (2021)](https://glebbahmutov.com/blog/common-documentation-mistakes-and-how-to-avoid-them/)
+- [The case for Continuous Documentation (2021)](https://www.virtuallifestyle.nl/2021/04/the-case-for-continuous-documentation/) ([HN](https://news.ycombinator.com/item?id=27411574))
+- [Archbee](https://www.archbee.io/) - Documentation Tool for your Team and Product.
+- [Explaining Code using ASCII Art (2019)](https://blog.regehr.org/archives/1653)
+- [Useful and useless code comments (2021)](https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/) ([HN](https://news.ycombinator.com/item?id=27542319))
+- [Ask HN: What software do you use to gather requirements? (2021)](https://news.ycombinator.com/item?id=27615562)
+- [Bikeshed](https://github.com/tabatkins/bikeshed) - Preprocessor for anyone writing specifications that converts source files into actual specs.
+- [Library](https://nyt-library-demo.herokuapp.com/) - Collaborative documentation site, powered by Google Docs. ([Code](https://github.com/nytimes/library))
+- [Making world-class docs takes effort (2021)](https://daniel.haxx.se/blog/2021/09/04/making-world-class-docs-takes-effort/) ([Lobsters](https://lobste.rs/s/wt6orw/making_world_class_docs_takes_effort))
+- [Writing Well-Documented Code - Learn from Examples (2021)](https://codecatalog.org/2021/09/04/well-documented-code.html) ([HN](https://news.ycombinator.com/item?id=28416269))
+- [Writing class documentation (2021)](https://rant.gulbrandsen.priv.no/udoc/writing-class-documetation)
+- [When does your team write release notes? (2021)](https://twitter.com/housecor/status/1442457214627631104)
+- [Writing Engineering Guidelines](https://dgryski.medium.com/writing-engineering-guidelines-24fdda53a3f0)
+- [Docs for Developers: An Engineer’s Field Guide to Technical Writing Book](https://docsfordevelopers.com/)
+- [SveltePress](https://sveltepress.geopjr.dev/) - Documentation tool built on top of SvelteKit. ([Code](https://github.com/GeopJr/SveltePress))
+- [Q&A: How We Document Software Projects (2020)](https://embeddedartistry.com/blog/2020/06/08/qa-how-we-document-software-projects/)
+- [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works. ([Web](https://squidfunk.github.io/mkdocs-material/))
+- [Almanac for Public Documentation](https://get.almanac.io/for/public-documentation) - Let anyone suggest changes to technical & community docs.
+- [Computers can be understood (2020)](https://blog.nelhage.com/post/computers-can-be-understood/)
+- [Doctave](https://github.com/Doctave/doctave) - Batteries-included developer documentation site generator.
+- [Documentation could be so much better (2021)](https://buttondown.email/hillelwayne/archive/documentation-could-be-so-much-better/)
+- [Best developer doc examples (2021)](https://twitter.com/alexellisuk/status/1458776636040560648)
+- [Documenting Architecture Decisions (2011)](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
+- [Ask HN: What are you using for public documentation these days? (2021)](https://news.ycombinator.com/item?id=29264374)
+- [How to Comment Your Code (2021)](https://matt-rickard.com/how-to-comment-your-code/)
+- [Fundoc](https://github.com/CSSSR/fundoc) - Language agnostic documentation generator. Written in Rust.
+- [Best practices for writing code comments (2021)](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/) ([HN](https://news.ycombinator.com/item?id=29671450))
+- [Template for the Read the Docs tutorial](https://github.com/readthedocs/tutorial-template)
+- [EventCatalog](https://eventcatalog.dev/) - Discover, Explore and Document your Event Driven Architectures. ([Code](https://github.com/boyney123/eventcatalog))
+- [Text-Runner](https://github.com/kevgo/text-runner) - Agile documentation tool that helps create living end-user readable documentation.
+- [Writing better release notes](https://simonwillison.net/2022/Jan/31/release-notes/)
+- [Keeping documentation in sync with source code (2022)](https://cerbos.dev/blog/keeping-documentation-in-sync-with-source-code) ([HN](https://news.ycombinator.com/item?id=30161756))
+- [Tagref](https://github.com/stepchowfun/tagref) - Helps you maintain cross-references in your code.
+- [What are you using to write your company handbook?](https://twitter.com/DanielleMorrill/status/1493336798021316610)
+- [docsify-cli](https://github.com/docsifyjs/docsify-cli) - Magical documentation generator.
+- [My favorite things about working at companies with a culture of writing](https://founder-fodder.ghost.io/writing-cultures-win/) ([HN](https://news.ycombinator.com/item?id=30361655))
+- [Ask HN: How do you manage your companies knowledge base? (2022)](https://news.ycombinator.com/item?id=30371723)
+- [HonKit](https://github.com/honkit/honkit) - Building beautiful books using Markdown - Fork of GitBook.
+- [The Death of Process (2022)](https://bellmar.medium.com/the-death-of-process-cdb0151a41fe) ([HN](https://news.ycombinator.com/item?id=30394344))
+- [Low-Effort, High-Value Documentation (2021)](https://alexklibisz.com/2021/03/07/low-effort-high-value-documentation.html)
+- [Organisational Scaling Knowledge Management Tips (2022)](https://twitter.com/yoz/status/1498395923453386756)
+- [docs.page](https://docs.page/) - Create an instant Open Source docs page with zero configuration. ([Code](https://github.com/invertase/docs.page))
+- [docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch.
+- [VuePress theme - Gitbook inspired](https://github.com/cyrilf/vuepress-theme-book)
+- [nbdoc: Authoring With Notebooks](https://outerbounds.github.io/nbdoc-docusaurus/) ([Code](https://github.com/outerbounds/nbdoc-docusaurus)) ([Tweet](https://twitter.com/HamelHusain/status/1507383929774305282))
+- [doc-builder](https://github.com/huggingface/doc-builder) - Package used to build the documentation of our Hugging Face repos.
+- [Vale](https://github.com/marc2332/vale) - Static documentation generator, designed for speed, simplicity and readability.
+- [Paradox](https://github.com/lightbend/paradox) - Markdown documentation tool for software projects.
+- [Vercel has nice changelog](https://twitter.com/mschoening/status/1514635315117367302)
+- [StrictDoc](https://github.com/strictdoc-project/strictdoc) - Software for writing technical requirements specifications.
+- [SourceDocs](https://github.com/SourceDocs/SourceDocs) - Generate Markdown documentation from source code.
+- [doctree](https://github.com/sourcegraph/doctree) - First-class library docs tool for every language. ([Video](https://www.youtube.com/watch?v=jfaZnb9A69g)) ([Tweet](https://twitter.com/slimsag/status/1527129196731871233))
+- [Squeak](https://github.com/PostHog/squeak) - Q&A widget for your docs.
+- [changelogen](https://github.com/unjs/changelogen) - Beautiful Changelogs using Conventional Commits.
+- [docs-searchbar.js](https://github.com/meilisearch/docs-searchbar.js) - Front-end search bar for documentation with Meilisearch.
+- [Spacebook](https://spacebook.app/) - Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS. ([Code](https://github.com/broeker/spacebook))
+- [Markdoc](https://markdoc.io/) - Powerful, flexible, Markdown-based authoring framework. By Stripe. ([Code](https://github.com/markdoc/markdoc)) ([HN](https://news.ycombinator.com/item?id=31341083)) ([Tweet](https://twitter.com/wooorm/status/1524685332058456072))
+- [How to Make a Docs Site: Shortcuts for Busy Devs](https://github.com/jablonskidev/how-to-make-a-docs-site)
+- [How do you create documentation websites today? (2022)](https://twitter.com/mxstbr/status/1526584813301313536)
+- [What Fields](https://whatfields.com/) - Way to quickly write & share documentation for anything (API, database etc).
+- [Useful resources for folks building docs in open source](https://twitter.com/rachelnabors/status/1533856532571594758)
+- [Mintlify](https://www.mintlify.com/) - Continuous Documentation Platform. ([GitHub](https://github.com/mintlify)) ([Writer](https://www.mintlify.com/writer)) ([Writer Code](https://github.com/mintlify/writer)) ([HN](https://news.ycombinator.com/item?id=31740724))
+- [Write documentation first, then build](https://reproof.app/blog/document-first-then-build) ([HN](https://news.ycombinator.com/item?id=31735939))
+- [Docco](https://github.com/jashkenas/docco) - Quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.

@@ -1,0 +1,159 @@
+---
+title: Decentralization
+---
+
+# [Decentralization](http://en.wikipedia.org/wiki/Decentralization)
+
+## Notes
+
+- [The hardest problem in censorship resistance is the challenge of getting humans to split their stake between many independent validators. Defi is going to drive censorship resistance, and is really our only hope of achieving a truly censorship resistant global network.](https://twitter.com/aeyakovenko/status/1388148048639905792)
+- [Decentralization is a quantifiable measurable thing. It’s: 1. Cost to censor. 2. Cost to destroy all replicas. Any chain that charges users above 4x the hardware costs to provide decentralization will get passed by a cheaper and faster and more decentralized network.](https://twitter.com/aeyakovenko/status/1441904519877566466)
+- [Decentralized technical systems do not necessarily produce decentralized political power.](https://twitter.com/keikreutler/status/1442438737678544896)
+- [The economic reward function is very important. As long as there are uncapped returns, centralization is inevitable.](https://twitter.com/BlackForestBoi/status/1442444302408470530)
+- [Web1: content distributed to users. Web2: content produced by users and distributed to users. Web3: content produced by users and distributed to users on user controlled platforms.](https://twitter.com/ArthurB/status/1444620432280330241)
+- [Web 3: People create + People profit](https://twitter.com/levelsio/status/1453712519919403016)
+- [Decentralization doesn't mean the absence of leaders but the abundance of them.](https://twitter.com/Echecrates/status/1458589782427279366)
+- [The most important (and least understood) change of the millennium thus far is that decentralisation and incentives have given _sovereignty_ to machines. We now build machines that nobody can turn off. They live unto themselves.](https://twitter.com/samecwilliams/status/1463389066100154368)
+- [In web2, you are just borrowing things — until the actual owners change their mind.](https://twitter.com/cdixon/status/1470374120055615488)
+- [Core requirements for a 'metaverse': 1. Composable: built from untrusted parts. 2. Open: like the web, no single owner. 3. Multiplayer-capable. Everything else (3D, VR, ownership models, etc.) is related but not core to what makes the 'metaverse' concept different.](https://twitter.com/kettlecorn/status/1499061977833955329)
+
+## Links
+
+- [The Decentralized Web Primer](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/)
+- [The end of the cloud: A truly serverless web - A fireside chat with Viktor Charypar and Paul Frazee](https://www.youtube.com/watch?v=YFzr6vSNrrc)
+- [Ask HN: Recommendations for Peer to Peer Frameworks (2018)](https://news.ycombinator.com/item?id=16785878)
+- [Blockstack](https://blockstack.org/) - New Internet for Decentralized Apps.
+- [Cleargraph](https://github.com/dsys/cleargraph) - Multi-purpose GraphQL runtime for decentralized applications (dApps) and wallets.
+- [Why We Need Web 3.0](https://breakermag.com/why-we-need-web-3-0/)
+- [Manyverse](https://www.manyver.se/) - Social network off the grid. ([HN](https://news.ycombinator.com/item?id=28607995))
+- [Early days in the Manyverse](https://staltz.com/early-days-in-the-manyverse.html)
+- [Why I'm excited about decentralized social networks](https://tinysubversions.com/notes/decentralized-social-networks/)
+- [Ask HN: Is it worth getting into distributed systems after 12 years full stack? (2018)](https://news.ycombinator.com/item?id=18370749)
+- [Lux](https://github.com/LUX-Core/lux) - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage).
+- [Decentralisation: the next big step for the world wide web](https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle)
+- [ProtoSchool](https://proto.school/#/) - Interactive tutorials on decentralized web protocols.
+- [Decentralized data structures tutorial](https://proto.school/#/data-structures/01)
+- [Decentraland Marketplace](https://decentraland.org/) - Fully decentralized and open market where you can discover, buy, sell, and manage your parcels of LAND.
+- [ditCraft](https://ditcraft.io/) - Dit is the decentralized git. Distributed and democratic governance for software projects.
+- [Local-first software: you own your data, in spite of the cloud](https://blog.acolyer.org/2019/11/20/local-first-software/) ([HN](https://news.ycombinator.com/item?id=21581444))
+- [Protocols, Not Platforms: A Technological Approach to Free Speech (2019)](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
+- [The ecosystem is moving - Moxie (2019)](https://www.youtube.com/watch?v=Nj3YFprqAr8)
+- [GUN](https://github.com/amark/gun) - Realtime, decentralized, offline-first, graph protocol to sync the web. ([Web](https://gun.eco/))
+- [Towards decentralized code collaboration](https://radicle.xyz/towards-decentralized-code-collaboration.html)
+- [SAFE Network Primer](https://primer.safenetwork.org/) - Introductory guide to the world's first fully autonomous data and communications network.
+- [cjdns](https://github.com/cjdelisle/cjdns) - Encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
+- [Yggdrasil](https://yggdrasil-network.github.io/) - Early-stage implementation of a fully end-to-end encrypted IPv6 network. ([Code](https://github.com/yggdrasil-network/yggdrasil-go)) ([HN](https://news.ycombinator.com/item?id=27577201)) ([HN](https://news.ycombinator.com/item?id=30156551))
+- [AutoDapp](https://github.com/autodapp/autodapp) - Instantly decentralize your web app.
+- [Everest](https://everest.link/) - Universally shared projects registry. ([Projects](https://everest.link/projects/)) ([Code](https://github.com/graphprotocol/everest))
+- [Infura](https://infura.io/) - Ethereum & IPFS APIs. Develop now on Web 3.0.
+- [Aragon](https://aragon.org/) - Gives internet communities unprecedented power to organize around shared values and resources.
+- [73 and Web3](https://github.com/sagmom3/73-and-web3)
+- [Crypto Anarchy Wiki](https://cryptoanarchy.wiki/) ([Code](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io))
+- [IPLD](https://ipld.io/) - Data model of the content-addressable web. ([GitHub](https://github.com/ipld)) ([Code](https://github.com/ipld/ipld))
+- [Resources about the general concepts around decentralization (2020)](https://merveilles.town/@jrc03c/104823469834829652)
+- [Our Networks](https://ournetworks.ca/) - Conference about the past, present, and future of building our own network infrastructures.
+- [Coordination, Good and Bad (2020)](https://vitalik.ca/general/2020/09/11/coordination.html) ([HN](https://news.ycombinator.com/item?id=24449629))
+- [The unrealized potential of federation (2020)](https://drewdevault.com/2020/09/20/The-potential-of-federation.html) ([HN](https://news.ycombinator.com/item?id=24534148))
+- [Spritely](https://spritelyproject.org/) - Project to level up the federated social web. ([Lobsters](https://lobste.rs/s/whaf2t/spritely))
+- [Filecoin](https://filecoin.io/) - Decentralized storage network for humanity's most important information. ([Tweet](https://twitter.com/smdiehl/status/1318143467613192194)) ([What Information Should we be Preserving in Filecoin?](https://blog.archive.org/2020/10/22/what-information-should-we-be-preserving-in-filecoin/)) ([Review](https://www.reddit.com/r/Arweave/comments/m14o0a/disappointed_by_filecoin/)) ([How storage and retrieval deals work on Filecoin](https://filecoin.io/blog/posts/how-storage-and-retrieval-deals-work-on-filecoin/)) ([GitHub](https://github.com/filecoin-project)) ([Community](https://github.com/filecoin-project/community)) ([Docs](https://github.com/filecoin-project/fvm-project))
+- [Venus](https://github.com/filecoin-project/venus) - Filecoin Full Node Implementation in Go. ([Web](https://venus.filecoin.io/))
+- [Lotus](https://github.com/filecoin-project/lotus) - Implementation of the Filecoin Distributed Storage Network.
+- [Forest](https://github.com/ChainSafe/forest) - Rust Filecoin Node Implementation.
+- [witnet-rust](https://github.com/witnet/witnet-rust) - Open source implementation of the Witnet Decentralized Oracle Network protocol written in Rust.
+- [Awesome distributed, decentralized, p2p apps or tools](https://github.com/croqaz/awesome-decentralized)
+- [Maybe we shouldn't want a fully decentralized web (2020)](https://withblue.ink/2020/11/12/maybe-we-shouldnt-want-a-fully-decentralized-web.html) ([HN](https://news.ycombinator.com/item?id=25312854))
+- [Thinking About Decentralized Communities (2020)](https://gurlic.com/root/thinking-about-decentralized-communities) ([HN](https://news.ycombinator.com/item?id=25409715))
+- [Awesome anti-censorship](https://github.com/danoctavian/awesome-anti-censorship)
+- [Decentralized Social Networking Ecosystem Review by Twitter (2021)](https://ipfs.io/ipfs/QmdFrru4PyHzXGZztEPnYToBR3QovD7fkC1HSyty22LzfD) ([HN](https://news.ycombinator.com/item?id=25861436))
+- [Decentralized Websites](https://github.com/unstoppabledomains/decentralized-websites) - Resources on building decentralized websites.
+- [Ask HN: Truly successful applications based on decentralized networks? (2021)](https://news.ycombinator.com/item?id=26206504)
+- [Awesome Decentralized Web](https://github.com/gdamdam/awesome-decentralized-web)
+- [Decentralization Off The Shelf](https://decentpatterns.xyz/) - Patterns for decentralized protocols and applications. ([Code](https://github.com/simplysecure/dots-patterns)) ([Web Code](https://github.com/simplysecure/dots-website))
+- [The Most Important Scarce Resource is Legitimacy (2021)](https://vitalik.ca/general/2021/03/23/legitimacy.html) ([Reddit](https://www.reddit.com/r/ethereum/comments/mbph0b/the_most_important_scarce_resource_is_legitimacy/)) ([HN](https://news.ycombinator.com/item?id=26560626))
+- [Ouinet](https://github.com/equalitie/ouinet) - Library to enable decentralized web requests.
+- [Edge & Node](https://edgeandnode.com/) - Initial team behind The Graph. We create and support protocols and dApps that empower individuals and move humanity forward.
+- [Starting a new digital identity (2021)](https://k3tan.com/starting-a-new-digital-identity) ([HN](https://news.ycombinator.com/item?id=26888067))
+- [Resources to learn DeFi from 0 (2021)](https://twitter.com/stevegraham/status/1387121989672919040)
+- [Flamingo DAO](https://flamingodao.xyz/) - NFT-focused DAO that aims to explore emerging investment opportunities for ownable, blockchain-based assets.
+- [Yatima](https://github.com/yatima-inc/yatima) - Programming language for the decentralized web. ([HN](https://news.ycombinator.com/item?id=27425941))
+- [Decentralized identity](https://github.com/dabit3/decentralized-identity) - Authentication system built with Ceramic & IDX.
+- [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+- [Data layout and schema agreement on Hypercore protocol (2021)](https://paulfrazee.medium.com/data-layout-and-schema-agreement-on-hypercore-protocol-9b84c2c4e38b)
+- [Smart Contract Programmer - YouTube](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
+- [Reconnected (2021)](https://reallifemag.com/reconnected/) - Decentralizing the internet alone won’t lift it above politics or save it from corporate co-optation.
+- [Distributed Press](https://distributed.press/) - Magazine about the digital commons, telling stories about people building the web as a shared resource.
+- [Web3 Is a Stupid Idea (2020)](https://timdaub.github.io/2020/09/08/web3/) ([HN](https://news.ycombinator.com/item?id=28457762))
+- [The Value Chain of the Open Metaverse (2021)](https://www.notboring.co/p/the-value-chain-of-the-open-metaverse)
+- [EU Funding for Dev Tools for the Decentralized Web (2021)](https://httptoolkit.tech/blog/developer-tools-decentralized-web/) ([HN](https://news.ycombinator.com/item?id=28537841))
+- [SimpleX chat](https://simplex.chat/) - Private, decentralized, no global identities. ([Code](https://github.com/simplex-chat/simplex-chat)) ([GitHub](https://github.com/simplex-chat))
+- [The Defiant](https://thedefiant.io/) - Defi News, Daily Briefings, DeFi Interviews and Defi Recaps.
+- [Helium](https://www.helium.com/) - Peer-to-peer wireless network. ([Twitter](https://twitter.com/helium)) ([Summary](https://twitter.com/MessariCrypto/status/1438512856199139336)) ([GitHub](https://github.com/helium)) ([Improvement Proposals](https://github.com/helium/HIP)) ([Helium Wallet in Rust](https://github.com/helium/helium-wallet-rs))
+- [Helium Vote](https://heliumvote.com/) - Straw poll website that enables a simple straw-poll for Helium related initiatives. ([Code](https://github.com/helium/helium-vote)) ([Tweet](https://twitter.com/helium/status/1458072811512086531))
+- [Helium Gateway](https://github.com/helium/gateway-rs) - Service designed to run on Linux-based LoRaWAN gateways.
+- [Lokinet](https://github.com/oxen-io/lokinet) - Anonymous, decentralized and IP based overlay network for the internet. ([Web](https://lokinet.org/))
+- [Project Liberty](https://www.projectliberty.io/) - Building a more equitable civic architecture for the next generation of the web. ([GitHub](https://github.com/LibertyDSNP))
+- [The role of decentralization, China/US break down & more with Bestie Guestie Balaji Srinivasan (2021)](https://www.youtube.com/watch?v=B2iNXMiGEms) ([Tweet](https://twitter.com/balajis/status/1441632885643960321))
+- [What is Web3? The Decentralized Internet of the Future Explained (2021)](https://www.freecodecamp.org/news/what-is-web3/)
+- [Good reads on Web 3 (2021)](https://twitter.com/campbelljbaron/status/1442251471689379841)
+- [Web3 – A Vision for a Decentralized Web (2021)](https://blog.cloudflare.com/what-is-web3/) ([HN](https://news.ycombinator.com/item?id=28717910)) ([Tweet](https://twitter.com/signalnerve/status/1443932304586412038))
+- [Cloudflare Distributed Web Gateways: Unlocking the Web3 Metaverse (2021)](https://blog.cloudflare.com/announcing-web3-gateways/) ([HN](https://news.ycombinator.com/item?id=28717926))
+- [How open lost to closed in Web 2 — and how Web 3 can bring open back (2021)](https://twitter.com/cdixon/status/1444422178192068611)
+- [Tox](https://tox.chat/) - Decentralized and Encrypted Instant Messaging. ([HN](https://news.ycombinator.com/item?id=28758545))
+- [Most thought provoking ideas on Web 3, NFTs, tokens (2021)](https://twitter.com/rohit_jindal29/status/1445625922770505741)
+- [Web3 Jobs](https://web3.career/) - Blockchain, Smart Contract and Crypto Jobs.
+- [The Rise of Micro-Economies (2021)](https://coopahtroopa.mirror.xyz/gWY6Kfebs9wHdfoZZswfiLTBVzfKiyFaIwNf2q8JpgI)
+- [Web3 architecture and how it compares to traditional web apps (2021)](https://thenewstack.io/web3-architecture-and-how-it-compares-to-traditional-web-apps/) ([HN](https://news.ycombinator.com/item?id=28800818))
+- [Cwtch](https://cwtch.im/) - Decentralized, Surveillance Resistant Infrastructure. ([Lobsters](https://lobste.rs/s/iftp1p/cwtch_decentralized_surveillance))
+- [Bluesky](https://blueskyweb.org/) - Building a Social Web. ([Twitter](https://twitter.com/bluesky)) ([Discord](https://discord.com/invite/gugTcDrb))
+- [Web3 Devs and Builders Twitter](https://twitter.com/i/lists/1433448123142115329)
+- [Should Your Next Company Be a DAO? (2021)](https://www.coss.community/cossc/should-your-next-company-be-a-dao-2o44)
+- [web3 Policy - Andreessen Horowitz](https://a16z.com/web3-policy/)
+- [A Legal Framework for Decentralized Autonomous Organizations (2021)](https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf) ([Tweet](https://twitter.com/milesjennings/status/1453080226179608577))
+- [What Even Is A DAO (2021)](https://www.youtube.com/watch?v=IooTahsgXTs)
+- [Chris Dixon and Naval Ravikant — The Wonders of Web3, How to Pick the Right Hill to Climb, Finding the Right Amount of Crypto Regulation, Friends with Benefits, and the Untapped Potential of NFTs (2021)](https://overcast.fm/+KebvA5eGA)
+- [Keyko](https://www.keyko.io/) - Create Unstoppable Digital Ecosystems.
+- [Criticizing Web 3 focus on money making (2021)](https://twitter.com/Foone/status/1455601328479092739)
+- [Web 3 summary](https://twitter.com/andymewborn/status/1455649863249498113)
+- [Which classic web property would make great sense re-imagined in web3 terms (token + DAO with community incentives) (2021)](https://twitter.com/sriramk/status/1457063383992176643)
+- [Fission](https://fission.codes/) - Bringing decentralized web tech to all devs by solving today’s challenges. ([Twitter](https://twitter.com/FISSIONcodes)) ([CLI & server](https://github.com/fission-suite/fission))
+- [Web3 Ecosystem Overview (2021)](https://twitter.com/yb_effect/status/1458129586428932103)
+- [Notes on Web3: Meager counterweight to the growing hype (2021)](https://society.robinsloan.com/archive/notes-on-web3/) ([Tweet](https://twitter.com/rich_harris/status/1458815995523514372)) ([HN](https://news.ycombinator.com/item?id=29270718))
+- [On falling down the rabbit hole (web3) (2021)](https://mirror.xyz/theodorachu.eth/TJU1w2Z49KvzcrKnPEwJodTvBDWLLyjtWKXvhrFz1Rs) ([Tweet](https://twitter.com/chu_onthis/status/1459619112003555328))
+- [locutus](https://github.com/freenet/locutus) - Distributed, decentralized, key-value store in which keys are cryptographic contracts that determine what values are valid under that key. ([HN](https://news.ycombinator.com/item?id=30979002))
+- [Web3 is about networks — new kinds defined by ownership (2021)](https://twitter.com/natemodi/status/1459963479637385221)
+- [Web3 Podcast - How Miguel Piedrafita Shipped 160 Apps By 19 Years Old, Pivoted To Web3 and How You Can Get Started In It Too](https://web3.career/podcast/miguel-piedrafita)
+- [Why Web3 is going to be transformational (composing state) (2021)](https://twitter.com/jaltma/status/1459967934046953475)
+- [Decentralized Woo Hoo (2021)](https://www.stephendiehl.com/blog/decentralized-woo.html) ([HN](https://news.ycombinator.com/item?id=29240785))
+- [DIDKit](https://github.com/spruceid/didkit) - Cross-platform toolkit for decentralized identity. ([Docs](https://spruceid.dev/docs/didkit/))
+- [SSI](https://github.com/spruceid/ssi) - Core Verifiable Credential and Decentralized Identifier functionality in Rust.
+- [Decentralised Tech & the Future of Organising (2021)](https://richdecibels.substack.com/p/9-decentralised-tech-and-the-future) ([Tweet](https://twitter.com/RichDecibels/status/1461698873974575106))
+- [The web3 stack (2021)](https://twitter.com/dabit3/status/1462169151041064966)
+- [Webb](https://www.webb.tools/) - Multi-chain privacy hub for blockchains. ([GitHub](https://github.com/webb-tools)) ([Code](https://github.com/webb-tools/protocol-solidity))
+- [Measuring the Web3.0 Stack (2021)](https://www.youtube.com/watch?v=yylsaXz00_g)
+- [An Engineer's Hype-Free Observations on Web3 (and Its Possibilities) (2021)](https://www.psl.com/feed-posts/web3-engineer-take) ([HN](https://news.ycombinator.com/item?id=29321987))
+- [Web3 is Bullshit (2021)](https://www.stephendiehl.com/blog/web3-bullshit.html) ([Tweet](https://twitter.com/smdiehl/status/1467165516695539716)) ([HN](https://news.ycombinator.com/item?id=29442441))
+- [Is Web3 anything? (2021)](https://www.chris-granger.com/2021/12/09/is-web3-anything/) ([HN](https://news.ycombinator.com/item?id=29506914))
+- [What web3 projects are you most excited about (2021)](https://twitter.com/rrhoover/status/1469691069675847688)
+- [Web3 is going just great](https://web3isgoinggreat.com/) - Timeline of some of 2021's greatest hits in cryptocurrencies, NFTs, and other web3 projects. ([Code](https://github.com/molly/web3-is-going-great))
+- [The Web3 Fraud (2021)](https://www.usenix.org/publications/loginonline/web3-fraud) ([Tweet](https://twitter.com/ncweaver/status/1471668214480334851)) ([HN](https://news.ycombinator.com/item?id=29587469)) ([Lobsters](https://lobste.rs/s/wcggoi/web3_fraud))
+- [Why Web3? (2021)](https://avc.com/2021/12/why-web3/) ([HN](https://news.ycombinator.com/item?id=29727420))
+- [Web3 is centralized (2022)](https://blog.wesleyac.com/posts/web3-centralized) ([HN](https://news.ycombinator.com/item?id=29766497))
+- [A not so gentle intro to web3 (2021)](https://www.kooslooijesteijn.net/blog/web3) ([HN](https://news.ycombinator.com/item?id=29779159))
+- [My First Impressions of Web3 (2022)](https://moxie.org/2022/01/07/web3-first-impressions.html) ([HN](https://news.ycombinator.com/item?id=29845208)) ([Tweet](https://twitter.com/brian_armstrong/status/1479636294326177793)) ([Tweet](https://twitter.com/gakonst/status/1479804315636219904)) ([Reddit](https://www.reddit.com/r/programming/comments/rytqmz/my_first_impressions_of_web3/)) ([Vitalik's Response](https://www.reddit.com/r/ethereum/comments/ryk3it/my_first_impressions_of_web3/)) ([HN](https://news.ycombinator.com/item?id=29853800))
+- [Some people want to run their own servers (2022)](https://staltz.com/some-people-want-to-run-their-own-servers.html) ([HN](https://news.ycombinator.com/item?id=29856757))
+- [On Web3 Infrastructure (2022)](https://mirror.xyz/suzuha.eth/vb5E5lhzmPTcpxOJcz6Q211TDgSvoFwDLA6JSM1V37Q) ([HN](https://news.ycombinator.com/item?id=29860489))
+- [DDP: Decentralisation Design Principles](https://github.com/thisisbullish/ddp)
+- [Protocol Labs Research](https://github.com/protocol/research)
+- [dokieli](https://dokie.li/) - Client side editor for decentralized article publishing, annotations and social interactions. ([Code](https://github.com/linkeddata/dokieli))
+- [Web3 is centralized and inefficient (2022)](https://www.neelc.org/posts/web3-centralized/) ([HN](https://news.ycombinator.com/item?id=30774457))
+- [Fluence Project](https://fluence.network/) - Peer-to-peer computing protocol and licensing system. ([Code](https://github.com/fluencelabs/fluence))
+- [Twitter Bluesky: A Self-Authenticating Social Protocol (2022)](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol) ([Tweet](https://twitter.com/bluesky/status/1511811080879702019)) ([HN](https://news.ycombinator.com/item?id=30937578))
+- [Witter Bluesky community repo](https://github.com/blueskyCommunity/aozora)
+- [Decentraland Awesome Repository](https://github.com/decentraland-scenes/Awesome-Repository) - Links to examples and tutorials to help you get started building Decentraland scenes and other content.
+- [Decentralization for Web3 Builders: Principles, Models, How (2022)](https://future.a16z.com/web3-decentralization-models-framework-principles-how-to/) ([Tweet](https://twitter.com/milesjennings/status/1512106060898660352))
+- [Tailscale CEO Avery Pennarun on rebuilding the internet (2022)](https://frontier.is/newsletters/networking-opportunity/)
+- [Open Data Fabric](https://github.com/open-data-fabric/open-data-fabric) - Open protocol for decentralized exchange and transformation of data. ([Docs](https://docs.kamu.dev/odf/))
+- [Four Decentralization Protocols: Introduction to decentralization protocols using JavaScript](https://leanpub.com/four-decentralisation-protocols)
+- [Decentralized Society: Finding Web3's Soul (2022)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) ([Tweet](https://twitter.com/VitalikButerin/status/1524393952522096640))
+- [20 Web 3 podcast episodes of 2022](https://twitter.com/MishadaVinci/status/1530907361749049345)
+- [Web5](https://developer.tbd.website/projects/web5/) - Building an extra decentralized web that puts you in control of your data and identity.

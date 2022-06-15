@@ -1,0 +1,147 @@
+---
+title: JSON
+---
+
+# [JSON](https://www.json.org)
+
+[Quicktype](https://quicktype.io/) is nice tool for building models from JSON.
+
+## Notes
+
+- [I wish JSON.parse had an option to allow comments and trailing commas. There's a whole world of config files in companies that the built in platform can't handle. Installing jsonc or json5 is one of the first things I do everywhere.](https://twitter.com/ElliottZ/status/1442524500365508616)
+
+## Links
+
+- [Transform a glob of text into structured JSON](https://transform.isthe.link/?)
+- [Spectral](https://github.com/stoplightio/spectral) - Flexible JSON linter with out of the box support for OpenAPI v2 and v3.
+- [Ajv](https://github.com/epoberezkin/ajv) - Fastest JSON Schema Validator.
+- [jtc](https://github.com/ldn-softdev/jtc) - JSON processing utility.
+- [JSMN](https://github.com/zserge/jsmn) - World fastest JSON parser/tokenizer.
+- [jqplay](https://jqplay.org/) - Playground for jq, written in Go. ([Code](https://github.com/jingweno/jqplay))
+- [Verify JSON](https://github.com/yusufnb/verify-json) - Library to verify JSON structure easily using a lightweight JSON schema syntax. ([HN](https://news.ycombinator.com/item?id=22885527))
+- [How (not) to sign a JSON object (2019)](https://latacora.micro.blog/2019/07/24/how-not-to.html)
+- [jq](https://github.com/stedolan/jq) - Command-line JSON processor. ([Internals](https://github.com/stedolan/jq/wiki/Internals:-introduction))
+- [ijq](https://sr.ht/~gpanders/ijq/) - Interactive jq tool. ([Lobsters](https://lobste.rs/s/grp58v/ijq_interactive_jq))
+- [jq-repl](https://github.com/ashb/jqrepl) - REPL to make exploring data with JQ easier.
+- [pdiffjson](https://github.com/jlevy/pdiffjson) - Diff JSON the easy way.
+- [Type Safety with JSON Subschema (2019)](https://arxiv.org/pdf/1911.12651.pdf)
+- [flatted](https://github.com/WebReflection/flatted) - Fast and minimal circular JSON parser.
+- [jqview](https://github.com/fiatjaf/jqview) - Simple native GUI for inspecting JSON with jq. ([HN](https://news.ycombinator.com/item?id=23433290))
+- [ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet.
+- [Building a high performance JSON parser (2020)](https://dave.cheney.net/high-performance-json.html) ([HN](https://news.ycombinator.com/item?id=23662540))
+- [A Journey building a fast JSON parser and full JSONPath, Oj for Go](https://github.com/ohler55/ojg/blob/master/design.md)
+- [The Rise and Rise of JSON (2017)](https://twobithistory.org/2017/09/21/the-rise-and-rise-of-json.html) ([HN](https://news.ycombinator.com/item?id=23914743))
+- [Common JSON patterns in Haskell, Rust, and TypeScript (2020)](https://codetalk.io/posts/2020-04-05-common-json-patterns-in-haskell-rust-and-javascript.html)
+- [Project Cambria: Translate your data with lenses (2020)](https://www.inkandswitch.com/cambria.html) ([Tweet](https://www.instagram.com/archer.nick/))
+- [Cambria](https://github.com/inkandswitch/cambria) - JavaScript/Typescript library for converting JSON data between related schemas.
+- [YYJSON](https://github.com/ibireme/yyjson) - High performance JSON library written in ANSI C.
+- [RapidJSON](https://github.com/Tencent/rapidjson) - Fast JSON parser/generator for C++ with both SAX/DOM style API.
+- [query-json](https://github.com/davesnx/query-json) - Faster and simpler implementation of jq in Reason Native. ([Article](https://sancho.dev/blog/cross-compile-query-json/))
+- [json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations.
+- [wernicke](https://github.com/latacora/wernicke) - Redaction tool for structured data.
+- [BetterThanJson](https://wiki.alopex.li/BetterThanJson) ([Lobsters](https://lobste.rs/s/s9rbxf/betterthanjson))
+- [Hjson](https://hjson.github.io/) - User interface for JSON.
+- [JSON Parsing Test Suite](https://github.com/nst/JSONTestSuite)
+- [Mendoza](https://github.com/sanity-io/mendoza) - Differ for structured documents (JSON). ([Article](https://www.sanity.io/blog/mendoza)) ([HN](https://news.ycombinator.com/item?id=24943775))
+- [JMESPath](https://jmespath.org/) - Query language for JSON. ([go-jmespath](https://github.com/jmespath/go-jmespath))
+- [Nesting levels for JSON parsers](https://github.com/lovasoa/bad_json_parsers) - Documenting how JSON parsers of several programming languages deal with deeply nested structures.
+- [TypeBox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript.
+- [gron](https://github.com/tomnomnom/gron) - Make JSON greppable. ([HN](https://news.ycombinator.com/item?id=25006277))
+- [JSON Schema \$Ref Parser](https://github.com/APIDevTools/json-schema-ref-parser) - Parse, Resolve, and Dereference JSON Schema \$ref pointers.
+- [Benchmarking JSON Parsers (OJ vs SimdJson) (2020)](https://www.mayerdan.com/ruby/2020/11/15/benchmarking-JSON-parser)
+- [jose](https://github.com/panva/jose) - Universal "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK with no dependencies.
+- [JSON Schema Viewer](http://jlblcc.github.io/json-schema-viewer/) - JavaScript tool for visualizing json-schemas. ([Code](https://github.com/jlblcc/json-schema-viewer))
+- [JQL](https://github.com/yamafaktory/jql) - JSON Query Language CLI tool.
+- [Jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data.
+- [Parsing JSON at the CLI: A Practical Introduction to jq and more (2020)](https://sequoia.makes.software/parsing-json-at-the-cli-a-practical-introduction-to-jq-and-more/) ([HN](https://news.ycombinator.com/item?id=25498364))
+- [json-rules-engine](https://github.com/CacheControl/json-rules-engine) - Rules engine expressed in JSON.
+- [JSON Editor](https://json-editor.github.io/json-editor/) - JSON Schema Based Editor. ([Code](https://github.com/json-editor/json-editor))
+- [On the complexity of JSON serialization (2020)](https://einarwh.wordpress.com/2020/05/08/on-the-complexity-of-json-serialization/) ([HN](https://news.ycombinator.com/item?id=25870793))
+- [JSON-LD Schema](https://github.com/mulesoft-labs/json-ld-schema) - Simple schema validation for linked data.
+- [Build a JSON Schema with functions](https://github.com/wittydeveloper/functional-json-schema)
+- [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. ([HN](https://news.ycombinator.com/item?id=30302933))
+- [JSONLint](https://jsonlint.com/) - JSON Validator. ([Code](https://github.com/circlecell/jsonlint.com)) ([CLI](https://github.com/zaach/jsonlint))
+- [JSON With Commas and Comments (2021)](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html) ([HN](https://news.ycombinator.com/item?id=26224255))
+- [HuJSON](https://github.com/tailscale/hujson) - JSON for Humans (comments and trailing commas).
+- [An Exploration of JSON Interoperability Vulnerabilities (2021)](https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities)
+- [Understanding JSON Schema](https://json-schema.org/understanding-json-schema/) ([Code](https://github.com/json-schema-org/understanding-json-schema))
+- [quicktype](https://app.quicktype.io/) - Instantly parse JSON in any language. ([Tweet](https://twitter.com/steipete/status/1380860288791117835)) ([Web](https://quicktype.io/))
+- [JsonLogic](https://jsonlogic.com/) - Build complex rules and share them as JSON. ([HN](https://news.ycombinator.com/item?id=27306263))
+- [JsQuery](https://github.com/postgrespro/jsquery) - JSON query language with GIN indexing support.
+- [BSON](http://bsonspec.org/) - Binary JSON. ([Code](https://github.com/mongodb/bsonspec.org))
+- [Noise](https://github.com/pipedown/noise) - JSON full text and ad-hoc query engine with example-based query syntax. ([Web](https://noisesearch.org/))
+- [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq)
+- [jsonmatic](https://jsonmatic.com/) - Transform a CSV into a JSON and vice versa. ([Code](https://github.com/erikmartinjordan/jsonmatic))
+- [Extracting Objects Recursively with Jq](https://til.simonwillison.net/jq/extracting-objects-recursively) ([HN](https://news.ycombinator.com/item?id=28026712))
+- [An Introduction to JQ (2021)](https://earthly.dev/blog/jq-select/) ([HN](https://news.ycombinator.com/item?id=28297232))
+- [JSON Joy](https://github.com/streamich/json-joy) - JSON utilities. Libraries for collaborative editing with OT and CRDT approaches.
+- [JSON Schema bundling formalized (2021)](https://json-schema.org/blog/posts/bundling-json-schema-compound-documents) ([HN](https://news.ycombinator.com/item?id=28479464))
+- [Awesome JSON Schema](https://github.com/jviotti/awesome-jsonschema)
+- [Zod to JSON Schema](https://github.com/StefanTerdell/zod-to-json-schema)
+- [JSON5](https://json5.org/) - JSON for Humans. ([Code](https://github.com/json5/json5)) ([HN](https://news.ycombinator.com/item?id=28668282))
+- [Parsing JSON is a Minefield](http://seriot.ch/projects/parsing_json.html) ([HN](https://news.ycombinator.com/item?id=28826600))
+- [Hyperjump](https://json-schema.hyperjump.io/) - JSON Schema Validator. ([Code](https://github.com/hyperjump-io/json-schema-validator))
+- [JSON Schema for Humans](https://github.com/coveooss/json-schema-for-humans) - Quickly generate a beautiful static HTML or Markdown page documenting a JSON schema.
+- [Parsing Gigabytes of JSON per Second (2020)](https://arxiv.org/abs/1902.08318) ([HN](https://news.ycombinator.com/item?id=28941207))
+- [JSON-RPC server for Go](https://github.com/swaggest/jsonrpc/) ([Article](https://dev.to/vearutop/json-rpc-2-0-with-swagger-ui-2h3g))
+- [MistQL](https://github.com/evinism/mistql) - Miniature embeddable query language for JSON-like structures, built for embedding within applications. ([Web](https://www.mistql.com/))
+- [JSONiq](https://www.jsoniq.org/) - JSON Query Language. ([HN](https://news.ycombinator.com/item?id=29159343))
+- [EEL](https://github.com/Comcast/eel) - Simple proxy service to forward JSON events and transform or filter them along the way.
+- [jtd-infer](https://github.com/jsontypedef/json-typedef-infer) - CLI tool that generates JSON Typedef schemas from example data.
+- [JSON Type Definition](https://jsontypedef.com/) - Easy-to-learn, portable, and standardized way to describe the shape of your JSON data. ([GitHub](https://github.com/jsontypedef))
+- [GROQ](https://groq.dev/) - Query language for JSON documents. ([JS lib](https://github.com/sanity-io/groq-js)) ([Spec](https://github.com/sanity-io/GROQ))
+- [Command-line tool for converting anything to JSON](https://github.com/antonmedv/eat)
+- [any-json](https://github.com/any-json/any-json) - Convert (almost) anything to JSON.
+- [Jet](https://github.com/ChrisPenner/jet) - Structural editor for JSON values.
+- [JSON Web Proofs Spec](https://github.com/json-web-proofs/json-web-proofs)
+- [jet](https://github.com/borkdude/jet) - CLI to transform between JSON, EDN and Transit, powered with a minimal query language.
+- [JSON Can Be Faster Than Binary (2021)](https://www.tbray.org/ongoing/When/202x/2021/12/03/Filtering-Lessons) ([Lobsters](https://lobste.rs/s/kqycne/json_can_be_faster_than_binary))
+- [Mappings](https://www.stedi.com/docs/mappings) - Tool that maps JSON documents from one structure to another. ([Tweet](https://twitter.com/tlakomy/status/1470374323999453185))
+- [dyff](https://github.com/homeport/dyff) - diff tool for YAML files, and sometimes JSON.
+- [JSON-S](https://github.com/brillout/json-s) - Same as JSON but with added support for Date, undefined, NaN, Infinity, and RegExp.
+- [toml2json](https://github.com/woodruffw/toml2json) - Small CLI for converting TOML to JSON.
+- [Deserializing JSON Fast (2020)](https://blog.datalust.co/deserializing-json-really-fast/) ([HN](https://news.ycombinator.com/item?id=29750062))
+- [jo](https://github.com/jpmens/jo) - Small utility to create JSON objects. ([Article](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/)) ([HN](https://news.ycombinator.com/item?id=30224063))
+- [jq kung fu](https://www.jqkungfu.com/) - jq playground, written in WebAssembly. ([Code](https://github.com/robertaboukhalil/jqkungfu))
+- [Analyzing large JSON files via partial JSON parsing (2022)](https://datastation.multiprocess.io/blog/2022-01-06-analyzing-large-json-files-via-partial-json-parsing.html)
+- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer. ([HN](https://news.ycombinator.com/item?id=29861043))
+- [json-tui](https://github.com/ArthurSonzogni/json-tui) - JSON terminal UI made in C++.
+- [yajsv](https://github.com/neilpa/yajsv) - Yet Another JSON Schema Validator CLI.
+- [Learn jq with incremental exercises](https://github.com/andreamazza89/jq-exercises)
+- [jfmt](https://github.com/scruffystuffs/jfmt.rs) - Fast JSON Auto-Formatter.
+- [JSON-LD is ideal for Cloud Native technologies (2022)](https://ariadne.space/2022/02/11/json-ld-is-ideal-for-cloud-native-technologies/)
+- [JLess](https://pauljuliusmartinez.github.io/) - Command-line JSON viewer. ([HN](https://news.ycombinator.com/item?id=30273940)) ([Code](https://github.com/PaulJuliusMartinez/jless)) ([Web](https://jless.io/))
+- [ijq](https://github.com/gpanders/ijq) - Interactive jq tool.
+- [jd](https://github.com/josephburnett/jd) - CLI and Go library for diffing and patching JSON values.
+- [What's the Difference: JSON diff and patch](https://github.com/terminusdb/technical-blogs/blob/main/blogs/json_diff_and_patch.md) ([HN](https://news.ycombinator.com/item?id=30362025))
+- [xq](https://github.com/MiSawa/xq) - JQ reimplemented purely in Rust.
+- [JSON-Patch](https://github.com/Starcounter-Jack/JSON-Patch) - Lean and mean JavaScript implementation of the JSON-Patch standard. Update JSON documents using delta patches.
+- [jsonwatch](https://github.com/dbohdan/jsonwatch) - Track changes in JSON data from the command line.
+- [JSON grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-json)
+- [JSON Visio](https://jsonvisio.com/) - Visualize your JSON into interactive graphs. ([Code](https://github.com/AykutSarac/jsonvisio.com))
+- [Understanding jq's reduce function (2022)](https://qmacro.org/2022/03/25/understanding-jq-s-reduce-function/)
+- [GJSON Playground](https://gjson.dev/) - GJSON provides a fast and simple way to search a JSON document. ([Code](https://github.com/tidwall/gjson-play))
+- [Jaggr](https://github.com/rs/jaggr) - Command line tool to aggregate in real time a series of JSON logs.
+- [JSON API Normalize](https://github.com/dbrekalo/json-api-normalize) - Simple way to traverse datasets based on JSON API specification. Lightweight JS library with simple and powerful API.
+- [JSON Schema Test Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - Language agnostic test suite for the JSON Schema specifications.
+- [The fastest tools for querying large JSON datasets](https://colab.research.google.com/github/dcmoura/spyql/blob/master/notebooks/json_benchmark.ipynb) ([HN](https://news.ycombinator.com/item?id=31004563))
+- [JSON Hero](https://jsonhero.io/) - Beautiful JSON viewer. ([Code](https://github.com/jsonhero-io/jsonhero-web))
+- [JSONata](https://github.com/jsonata-js/jsonata) - JSON query and transformation language. ([Web](https://jsonata.org/))
+- [jsonpack](https://github.com/rgcl/jsonpack) - Compression algorithm for JSON.
+- [edit-json](https://github.com/grantila/edit-json) - Edit JSON text in-place for a minimal diff.
+- [Zq: An Easier (and Faster) Alternative to Jq](https://www.brimdata.io/blog/introducing-zq/) ([HN](https://news.ycombinator.com/item?id=31166956))
+- [jaq](https://github.com/01mf02/jaq) - jq clone focused on correctness, speed, and simplicity.
+- [gq](https://github.com/hherman1/gq) - jq but using go instead. ([HN](https://news.ycombinator.com/item?id=31181898))
+- [An Introduction to JQ (2022)](https://earthly.dev/blog/jq-select/)
+- [Converting strings to objects with jq (2022)](https://qmacro.org/blog/posts/2022/05/06/converting-strings-to-objects-with-jq/) ([Lobsters](https://lobste.rs/s/qi5tge/converting_strings_objects_with_jq))
+- [Bunker](https://github.com/digital-loukoum/bunker) - Fast and compact JSON alternative to store and share data in a binary format with a friendly API.
+- [JSON Patch](http://jsonpatch.com/) ([HN](https://news.ycombinator.com/item?id=31301627))
+- [jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
+- [JDOT](https://github.com/saulpw/jdot) - JSON minus Notation plus Macros.
+- [JSON object values into CSV with jq (2022)](https://qmacro.org/blog/posts/2022/05/19/json-object-values-into-csv-with-jq/)
+- [Working with JSON in Various Shells (2022)](https://blog.kellybrazil.com/2022/05/19/working-with-json-in-various-shells/)
+- [JSON Forms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms. ([HN](https://news.ycombinator.com/item?id=31498533)) ([Web](https://jsonforms.io/))
+- [JSON Operational Transformation (JOT)](https://github.com/JoshData/jot)
+- [Why JSON Isn’t A Good Configuration Language (2018)](https://www.lucidchart.com/techblog/2018/07/16/why-json-isnt-a-good-configuration-language/) ([HN](https://news.ycombinator.com/item?id=31660372))
+- [JSON Diff Kit](https://github.com/RexSkz/json-diff-kit) - Better JSON differ & viewer.
+- [JSON Scheme 2 MD](https://github.com/RalfG/jsonschema2md) - Convert JSON Schemas to simple, human-readable Markdown documentation.

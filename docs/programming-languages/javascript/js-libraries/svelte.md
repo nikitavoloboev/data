@@ -1,0 +1,272 @@
+---
+title: Svelte
+---
+
+# [Svelte](https://svelte.dev/)
+
+[SvelteKit on the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge) is nice starter. Use [Imagetools](https://github.com/JonasKruckenberg/imagetools/) for optimizing images for use with Svelte.
+
+[Svelte Query](https://sveltequery.vercel.app/) is great for requests. [Marko](https://markojs.com/) is a nice alternative to Svelte that's also [compiler based](https://www.youtube.com/watch?v=dOgnQ9SuKYk&t=7555s). I personally use [SolidJS](../js-libraries/solid.md) for all my web apps/sites.
+
+## Example sites
+
+- [SvelteKit, running on the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge)
+- [swyxkit](https://github.com/sw-yx/swyxkit) - Opinionated blog starter for SvelteKit + Tailwind + Netlify.
+- [Svelte with Cloudflare Workers](https://github.com/lukeed/pages-fullstack)
+- [Elianiva](https://elianiva.me/) ([Code](https://github.com/elianiva/elianiva.me))
+- [SvelteKit RealWorld App](https://github.com/sveltejs/realworld)
+- [Mac OS Monterey Web](https://macos.vercel.app/) ([Code](https://github.com/puruvj/macos-web))
+- [Webstone](https://github.com/WebstoneHQ/webstone) - Svelte/SvelteKit/GraphQL/Prisma.
+- [Kevin Pennekamp](https://crinkles.io/) ([Code](https://github.com/crinklesio/crinkles.io))
+- [Speedskating](https://github.com/spiegelgraphics/speedskating) - Olympia speedskating animation.
+- [Todo With Svelte](https://github.com/appwrite/demo-todo-with-svelte) - Demo example for integrating between Appwrite & Svelte.
+- [Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit.
+- [Storyblok Sveltekit example](https://github.com/jbruxelle/storyblok-sveltekit-example) - Using Sveltekit with Storyblok as a headless CMS. Queries are made using GraphQL and the kitQL library from jycouet.
+- [SvelteKit and Vendure Commerce example](https://github.com/spences10/sveltekit-vendure-commerce)
+- [Turbocharger template with Svelte, Tailwind, and TurboSQL](https://github.com/trevyn/turbocharger-template)
+
+## Notes
+
+- [Svelte & Cloudflare Workers have been an amazing match for a very long time.](https://twitter.com/lukeed05/status/1450200444202991618)
+- [SvelteKit supports Netlify Edge Functions. Update your packages, add `edge: true` and you're good to go.](https://twitter.com/ascorbic/status/1516904817762914307)
+- [I usually create ‘components’, ‘stores’ folders under the lib folder. Then you can reference ‘$lib/components/something.svelte’ etc in your imports.](https://www.reddit.com/r/sveltejs/comments/uiv34e/if_lib_folder_can_do_the_same_that_components/)
+
+## Links
+
+- [Svelte 3: Rethinking reactivity (2019)](https://svelte.dev/blog/svelte-3-rethinking-reactivity)
+- [Rich Harris - Rethinking reactivity (2019)](https://www.youtube.com/watch?v=AdNJ3fydeao)
+- [Sapper](https://sapper.svelte.dev/) - Framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing. [Code](https://github.com/sveltejs/sapper).
+- [Awesome Svelte resources](https://github.com/ryanatkn/awesome-svelte-resources)
+- [Svelte Language Server](https://github.com/UnwrittenFun/svelte-language-server)
+- [Deploy Svelte with ZEIT Now](https://zeit.co/guides/deploying-svelte-with-zeit-now)
+- [Sapper: Towards the ideal web app framework (2017)](https://svelte.dev/blog/sapper-towards-the-ideal-web-app-framework)
+- [10-tweet Svelte crash course](https://twitter.com/hexrcs/status/1185186492982943744)
+- [react-svelte](https://github.com/Rich-Harris/react-svelte) - Use Svelte components inside a React app.
+- [Svelte RFCs](https://github.com/sveltejs/rfcs)
+- [Svelte Code](https://github.com/sveltejs/svelte)
+- [The Return of 'Write Less, Do More' by Rich Harris (2019)](https://www.youtube.com/watch?v=BzX4aTRPzno)
+- [Let’s Learn Svelte (with Rich Harris) — Learn With Jason (2019)](https://www.youtube.com/watch?v=ogXETl_I0Dg)
+- [SSG](https://github.com/sw-yx/ssg) - Svelte Site Generator. why try this? because sapper has a lot of setup, and isn't great at pipelining data.
+- [svelvet](https://github.com/jakedeichert/svelvet) - CLI svelte compiler & watcher that works with snowpack.
+- [Optimistic, Offline-First Apps with Svelte and Amplify DataStore (2020)](https://www.swyx.io/writing/svelte-amplify-datastore)
+- [Svelte Preprocess](https://github.com/sveltejs/svelte-preprocess) - Svelte preprocessor with baked in support for common used preprocessors.
+- [Lobsters: Svelte is unappealing (2020)](https://lobste.rs/s/d6yta7/svelte_is_unappealing)
+- [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS.
+- [Svelte DevTools](https://github.com/RedHatter/svelte-devtools) - Extension that allows inspection of Svelte component hierarchy and state in the Firefox and Chrome developer tools.
+- [Svelte Compiler Handbook](https://lihautan.com/the-svelte-compiler-handbook/) ([HN](https://news.ycombinator.com/item?id=22784153))
+- [Why Svelte is our choice for a large web project in 2020](https://github.com/feltcoop/why-svelte)
+- [Svelte SSR example](https://github.com/PierBover/svelte-ssr-example)
+- [Tan Li Hau: The Svelte Compiler (2020)](https://www.youtube.com/watch?v=e2pGS1eqja8)
+- [svelte-grid](https://github.com/vaheqelyan/svelte-grid) - Responsive, draggable and resizable grid layout, for Svelte.
+- [MDsveX](https://github.com/pngwn/MDsveX) - Markdown preprocessor for Svelte. ([Docs](https://mdsvex.pngwn.io/docs/)) ([Playground](https://mdsvex.pngwn.io/playground/))
+- [Routify](https://github.com/sveltech/routify) - Routes for Svelte, automated by your file structure. ([Web](https://routify.dev/))
+- [Svelte Language Tools](https://github.com/sveltejs/language-tools) - Contains a library implementing the Language Server Protocol (LSP).
+- [Svelte Society Day 2020: Rich Harris: Frequently Asked Questions](https://www.youtube.com/watch?v=luM5uobewhA)
+- [Trying out Svelte: Building My First App (2020)](https://www.youtube.com/watch?v=kVBStFS9hcg)
+- [This site is now written in Svelte (2020)](https://pgjones.dev/blog/svelte-rewrite-2020/)
+- [Svelte Society](https://sveltesociety.dev/) ([Code](https://github.com/svelte-society/sveltesociety.dev))
+- [Grouper component for Svelte (2020)](https://pace.dev/blog/2020/02/01/grouper-component-for-svelte-by-mat-ryer.html)
+- [Svelte Actions for Progressive Enhancement in 100 Seconds (2020)](https://www.youtube.com/watch?v=Q6dzy_IIB1s)
+- [Svelte Recipes](https://svelte.recipes/)
+- [How Svelte code is different from React (2020)](https://twitter.com/lihautan/status/1280532033693839361)
+- [Svelte and TypeScript (2020)](https://svelte.dev/blog/svelte-and-typescript) ([Lobsters](https://lobste.rs/s/bu8ker/svelte_3_typescript)) ([HN](https://news.ycombinator.com/item?id=23907383))
+- [What is Svelte](https://gist.github.com/Rich-Harris/0f910048478c2a6505d1c32185b61934)
+- [Will it Scale? - Finding Svelte's Inflection Point](https://github.com/halfnelson/svelte-it-will-scale)
+- [Svelte Native](https://github.com/halfnelson/svelte-native) - Create Mobile applications using native widgets via Svelte Svelte and NativeScript.
+- [Optimizing Svelte Applications (2020)](https://www.syntaxsuccess.com/viewarticle/optimizing-svelte-applications)
+- [Try Svelte (2020)](https://marcradziwill.com/blog/why-you-should-try-svelte/) ([HN](https://news.ycombinator.com/item?id=24564670))
+- [Layer Cake](https://github.com/mhkeller/layercake) - Framework for mostly-reusable graphics with svelte.
+- [Svelte Summit](https://sveltesummit.com/) - Free whole-day online event. ([Code](https://github.com/svelte-society/svelte-summit-2020)) ([Video](https://www.youtube.com/watch?v=vHHLLJA0b70))
+- [What I've Learned about Svelte, Tailwind, FastAPI over the Past 10 Days (2020)](https://geoff.tuxpup.com/posts/stock_toolkit_4/)
+- [REPLicant](https://github.com/pngwn/REPLicant) - Svelte Summit 2020 talk.
+- [Rich Harris: Futuristic Web Development (2020)](https://www.youtube.com/watch?v=qSfdtmcZ4d0)
+- [svelte-ssr-worker](https://github.com/lukeed/svelte-ssr-worker) - Quick demo for rendering Svelte server-side (SSR), but within a Cloudflare Worker.
+- [Svelte for Sites, React for Apps (2020)](https://www.swyx.io/svelte-sites-react-apps/)
+- [Notes on porting GraphQL client to Svelte from React (2020)](https://twitter.com/AdamRackis/status/1321997627110707200)
+- [Svelte Actions](https://github.com/sw-yx/svelte-actions)
+- [Why Svelte is Like Rust (2020)](https://hugotunius.se/2020/08/15/why-svelte-is-like-rust.html)
+- [JungleJS](https://github.com/junglejs/junglejs) - Jamstack static site framework for Svelte. ([Web](https://www.junglejs.org/))
+- [Malina.js](https://github.com/malinajs/malinajs) - Builds your web-application to use it without framework on frontend side. Inspired by Svelte.
+- [Svelte-Awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons.
+- [Svelte + TailwindCSS 2.0 + RollupJS starter](https://github.com/breadthe/svelte-tailwind2-starter)
+- [Store-based router for Svelte](https://github.com/zyxd/svelte-store-router)
+- [Svelte Stories](https://github.com/geoffrich/svelte-stories) - Svelte implementation of an Instagram Stories-like component.
+- [svelthree](https://github.com/vatro/svelthree) - Svelte powered three.js development. ([Web](https://svelthree.dev/)) ([Tweet](https://twitter.com/vatro_vrbanic/status/1287052921591529475))
+- [What's new in Svelte (Dec 2020)](https://svelte.dev/blog/whats-new-in-svelte-december-2020) ([HN](https://news.ycombinator.com/item?id=25288043))
+- [How Does Svelte Actually Work? (2019)](https://dev.to/zev/how-does-svelte-actually-work-part-1-j9m)
+- [svelte-loadable](https://github.com/kaisermann/svelte-loadable) - Dynamically load a svelte component.
+- [svite](https://github.com/dominikg/svite) - Svelte integration for vite.
+- [Prettier for Svelte 3 components](https://github.com/sveltejs/prettier-plugin-svelte) - Format your svelte components using prettier.
+- [esbuild-svelte](https://github.com/EMH333/esbuild-svelte) - Plugin to compile svelte components for bundling with esbuild.
+- [Awesome Svelte](https://github.com/TheComputerM/awesome-svelte)
+- [Svelte DND Action](https://github.com/isaacHagoel/svelte-dnd-action) - Action based drag and drop container for Svelte.
+- [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) - Compile Svelte components.
+- [Svelte Hooks](https://github.com/devongovett/svelte-hooks) - Experiment to shim the React Hooks API in Svelte.
+- [sveltejs/gl](https://github.com/sveltejs/gl) - Declarative WebGL scene graphs inside Svelte.
+- [Why are React component libraries so complicated compared to Svelte? (2021)](https://gradientdescent.de/sharing-components/)
+- [Pancake](https://pancake-charts.surge.sh/) - Charts for Svelte apps. ([Code](https://github.com/Rich-Harris/pancake))
+- [Svelte Routing](https://github.com/EmilTholin/svelte-routing) - Declarative Svelte routing library with SSR support.
+- [svelte-windicss-preprocess](https://github.com/windicss/svelte-windicss-preprocess) - Svelte Preprocessor to compile tailwindcss at build time.
+- [sveld](https://github.com/IBM/sveld) - Generate TypeScript definitions for your Svelte components.
+- [Svelte Relay](https://github.com/kesne/svelte-relay) - Easily use GraphQL in Svelte, powered by the production-ready Relay runtime.
+- [Svelte SPA Router](https://github.com/ItalyPaleAle/svelte-spa-router) - Router for Svelte 3 applications, specifically optimized for Single Page Applications (SPA).
+- [Svelte NodeGUI](https://github.com/nodegui/svelte-nodegui) - Lightweight Electron alternative with native UI. ([HN](https://news.ycombinator.com/item?id=26361423)) ([Web](https://svelte.nodegui.org/))
+- [Comparing Svelte and React (2021)](https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript/) ([HN](https://news.ycombinator.com/item?id=26571391))
+- [SvelteKit](https://github.com/sveltejs/kit) - Fastest way to build Svelte apps. ([Web](https://kit.svelte.dev/)) ([HN](https://news.ycombinator.com/item?id=26557886))
+- [SvelteKit, TypeScript and TailwindCSS Template](https://github.com/Dan1ve/Sveltekit-Typescript-TailwindCSS-Jit)
+- [Svelte + TS + Vite Template](https://github.com/PuruVJ/macos-web-svelte-dock)
+- [Felte](https://github.com/pablo-abc/felte) - Form library for Svelte. ([Web](https://felte.dev/))
+- [SvelteFire](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps.
+- [Add Tailwind CSS to Svelte CLI tool](https://github.com/svelte-add/tailwindcss)
+- [Svelte Adders](https://github.com/svelte-add/svelte-adders) - Collection of composable commands to add functionality to Svelte.
+- [Dynamic, smooth animations in Svelte](https://twitter.com/DerekNguyen10/status/1381908660406820869)
+- [Why Typescript and Svelte are a match made in heaven (2021)](https://www.sanity.io/guides/using-typescript-with-svelte)
+- [micro-graphql-svelte](https://github.com/arackaf/micro-graphql-svelte) - Light and simple GraphQL Svelte client with extensible, composable cache invalidation.
+- [Notus Svelte](https://github.com/creativetimofficial/notus-svelte) - Free Tailwind CSS UI Kit and Admin.
+- [svelte-adapter](https://github.com/pngwn/svelte-adapter) - Use Svelte components with Vue and React.
+- [Vue RFCs](https://github.com/vuejs/rfcs)
+- [ESLint plugin for Svelte v3 components](https://github.com/sveltejs/eslint-plugin-svelte3)
+- [Up and running with Svelte 3 (2021)](https://egghead.io/courses/getting-started-with-svelte-3-05a8541a)
+- [svelte-local-storage-store](https://github.com/joshnuss/svelte-local-storage-store) - Adds pub/sub to localStorage.
+- [Svelte for the Experienced React Dev (2021)](https://css-tricks.com/svelte-for-the-experienced-react-dev/)
+- [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the Carbon Design System. ([Docs](https://carbon-svelte.vercel.app/))
+- [Sveltekit Starter](https://github.com/navneetsharmaui/sveltekit-starter) - Starter project created with Sveltekit, Typescript, Tailwindcss, Postcss, SCSS, Husky, ESLint, Prettier, Storybook, and Jest.
+- [Svelte + Capacitor](https://github.com/drannex42/svelte-capacitor) - Build hybrid mobile apps using Svelte and CapacitorJS with live reloading on Android and iOS.
+- [PostgreSQL, PostgREST and Svelte are a bliss to develop with](https://webgma.co.il/Articles/rapid-prototyping-with-postgrest-and-svelte/en/)
+- [Svelte - Web App Development Reimagined • Mark Volkmann (2021)](https://www.youtube.com/watch?v=4CGzFwHoD0A&list=PLEx5khR4g7PKSASVAXXiAhkyx02_OeruP)
+- [macOS Web: Why I moved from React to Svelte (2021)](https://dev.to/puruvj/macos-web-why-i-moved-from-react-to-svelte-4mkp) ([Tweet](https://twitter.com/puruvjdev/status/1431965546916896770))
+- [vite-plugin-pages](https://github.com/aldy505/vite-plugin-pages-svelte) - File system based routing for Svelte applications using Vite.
+- [Writing a Svelte Store with TypeScript (2021)](https://javascript.plainenglish.io/writing-a-svelte-store-with-typescript-22fa1c901a4)
+- [slocation](https://github.com/varbhat/slocation) - Reactive Svelte Location Store.
+- [Backend-Only Authentication With Sapper & Firebase Admin (2021)](https://www.marek.page/backend-only-authentication-with-sapper-firebase-admin/)
+- [5 Things I Like In Svelte More Than React (2021)](https://www.youtube.com/watch?v=3fLwkhkYdHM)
+- [Svelte and SvelteKit - Why We Love It and Why You Should Try It (2021)](https://www.youtube.com/watch?v=KJ-qMlZnMCE)
+- [Awesome examples of SvelteKit in the wild](https://github.com/janosh/awesome-svelte-kit)
+- [URQL Svelte Template Project](https://github.com/JoviDeCroock/urql-svelte-kit)
+- [React Hooks in Svelte](https://github.com/joshnuss/react-hooks-in-svelte)
+- [Starter for Svelte Kit and the Ory Stack](https://github.com/MicLeey/sveltekit-ory-starter)
+- [lihautan - YouTube](https://www.youtube.com/c/lihautan/videos) - Sharing tips on Svelte, React, CSS.
+- [Compile Svelte in your head](https://lihautan.com/compile-svelte-in-your-head/)
+- [Contributing to Svelte - Implement {#key}](https://lihautan.com/contributing-to-svelte-implement-key-block/)
+- [WebJeda - YouTube](https://www.youtube.com/c/WebJeda/videos)
+- [Would you use Sveltekit for production? (2021)](https://www.reddit.com/r/sveltejs/comments/qt14c6/would_you_use_sveltekit_for_production/)
+- [svelte-select](https://github.com/rob-balfre/svelte-select) - Select/autocomplete component for Svelte apps. With support for grouping, filtering, async and more.
+- [adapter-cloudflare](https://www.npmjs.com/package/@sveltejs/adapter-cloudflare) - Adapter for building SvelteKit applications on Cloudflare Pages with Workers integration. ([Tweet](https://twitter.com/lukeed05/status/1461417536151457795))
+- [Svelte Summit Spring 2021](https://www.youtube.com/watch?v=fnr9XWvjJHw)
+- [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) - Official Svelte plugin for Vite.
+- [My Svelte Code Ordering Style (2021)](https://bjornlu.com/blog/my-svelte-code-ordering-style)
+- [Using Apollo Client in Sapper (2020)](https://bjornlu.com/blog/using-apollo-client-in-sapper)
+- [SvelteKit is now fully supported in WebContainers (2021)](https://blog.stackblitz.com/posts/sveltekit-supported-in-webcontainers/)
+- [Svelte Cubed](https://svelte-cubed.vercel.app/) - Power of Three.js in Svelte. ([HN](https://news.ycombinator.com/item?id=29310150)) ([Code](https://github.com/rich-harris/svelte-cubed)) ([Tweet](https://twitter.com/thecamjackson/status/1462970068984217606)) ([Getting Started Code](https://stackblitz.com/edit/sveltekit-vqtrge?file=src%2Froutes%2Findex.svelte)) ([Talk](https://www.youtube.com/watch?v=qD6Pmp45sO4)) ([Tweet](https://twitter.com/Rich_Harris/status/1466800729272823814))
+- [Svelte FSM](https://github.com/kenkunz/svelte-fsm) - Tiny, expressive finite state machines for svelte. ([Examples](https://github.com/kenkunz/svelte-fsm/wiki/Examples))
+- [Svelte Summit Fall 2021](https://www.youtube.com/watch?v=1Df-9EKvZr0)
+- [NOVAS](https://github.com/NOVASland/NOVAS) - Build tool that lets developers easily set up Svelte applications in a Deno runtime.
+- [cloudflare-workers-svelte](https://github.com/hazcod/cloudflare-workers-svelte) - Example repository for running a sveltejs/sveltekit website on Cloudflare Workers.
+- [Introduction to Svelte Actions (2021)](https://blog.logrocket.com/svelte-actions-introduction/)
+- [How to use a Rust WebAssembly module in Svelte with Web Workers (2021)](https://martyjon.es/webassembly/rust/svelte/2021/11/28/svelte-wasm-workers-how-to.html)
+- [Svelte's lifecycle methods can be used anywhere (2021)](https://geoffrich.net/posts/svelte-lifecycle-examples/)
+- [svelte-forms](https://github.com/chainlist/svelte-forms) - Svelte forms validation made easy.
+- [Houdini](https://github.com/HoudiniGraphQL/houdini) - Disappearing GraphQL client for Sapper and SvelteKit. ([Web](https://www.houdinigraphql.com/)) ([Reddit](https://www.reddit.com/r/sveltejs/comments/tkbwf2/houdini_the_graphql_client_just_got_a_serious/))
+- [svelte-popperjs](https://github.com/bryanmylee/svelte-popperjs) - Popper for Svelte with actions, no wrapper components required.
+- [svelte-previous](https://github.com/bryanmylee/svelte-previous) - Svelte stores that remember previous values.
+- [Build an App with SvelteKit and Tailwind CSS (2021)](https://www.youtube.com/watch?v=YipaPr4Aex8)
+- [The many meanings of $ in Svelte (2021)](https://geoffrich.net/posts/svelte-$-meanings/) ([Reddit](https://www.reddit.com/r/sveltejs/comments/rfi89x/the_many_meanings_of_in_svelte/))
+- [The Future of Svelte (Interview with Rich Harris) (2021)](https://www.youtube.com/watch?v=uQntFkK8Z54)
+- [Code for Svelte official sites](https://github.com/sveltejs/sites)
+- [Renderless Svelte Components](https://github.com/stephane-vanraes/renderless-svelte)
+- [svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Svelte port of Headless UI components. ([Reddit](https://www.reddit.com/r/sveltejs/comments/rn1de7/announcing_complete_svelte_port_of_headless_ui_an/))
+- [Svemix](https://github.com/svemix/svemix) - Full-Stack addition to SvelteKit. Write your server code inside svelte files, handle sessions, forms and SEO easily. ([Docs](https://svemix.com/docs/getting-started/installation))
+- [Svelte Kit Cookie Session](https://github.com/pixelmund/svelte-kit-cookie-session)
+- [Let's learn SvelteKit by building a static Markdown blog from scratch (2021)](https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog)
+- [Geoff Rich's 2021 Svelte Posts](https://twitter.com/geoffrich_/status/1475968586405404677)
+- [SSWR](https://github.com/ConsoleTVs/sswr) - Svelte stale while revalidate (SWR) data fetching strategy.
+- [Svelte MultiSelect](https://github.com/janosh/svelte-multiselect) - Keyboard-friendly, zero-dependency multi-select Svelte component.
+- [SWR-like data fetching in Svelte (2021)](https://crinkles.io/writing/data-fetching-swr-svelte)
+- [Svelte Query](https://github.com/SvelteStack/svelte-query) - Performant and powerful remote data synchronization for Svelte.
+- [My Evaluation of SvelteKit for Full-Stack Web App Development (2022)](https://cprimozic.net/blog/trying-out-sveltekit/) ([HN](https://news.ycombinator.com/item?id=29806385))
+- [Svelte Animation Creator](https://danielsharkov.github.io/animation-creator/) - CSS animation keyframer. ([Code](https://github.com/DanielSharkov/animation-creator))
+- [Svelte Router](https://github.com/DanielSharkov/svelte-router) - Simple and easy to use svelte router.
+- [Template for building basic applications with Svelte](https://github.com/sveltejs/template)
+- [Svelte Vite TailwindCSS Template](https://github.com/Lukem121/svelte-vite-tailwind-template)
+- [Accelerating Svelte's Development (2022)](https://svelte.dev/blog/accelerating-sveltes-development)
+- [svelte-jester](https://github.com/mihar-22/svelte-jester) - Jest transformer for Svelte - compile your components before importing them into tests.
+- [О, кинчик (2022)](https://habr.com/en/post/647321/)
+- [TaleNote](https://github.com/d4rekanguok/talenote) - Storybook-esque component directory, embed right into SvelteKit.
+- [svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
+- [threlte](https://github.com/grischaerbe/threlte) - Three.js component library for svelte.
+- [svelte-wasm](https://github.com/tobiasbernet/svelte-wasm) - Example project that how WebAssembly and Svelte could work together.
+- [parcel-plugin-svelte](https://github.com/DeMoorJasper/parcel-plugin-svelte) - Parcel plugin that enables svelte support.
+- [Implementing A Svelte Store In Rust (2022)](https://daveceddia.com/svelte-store-in-rust/) ([Code](https://github.com/dceddia/electron-napi-svelte-store)) ([Reddit](https://www.reddit.com/r/sveltejs/comments/sse0ih/i_built_a_writable_svelte_store_in_rust/))
+- [wasm-svelte](https://github.com/SohumB/wasm-svelte) - Proof-of-concept application showing integration between rust signals and svelte stores.
+- [tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io in SvelteKit applications. ([Example](https://github.com/icflorescu/trpc-sveltekit-example))
+- [Sitemap generator for Svelte](https://github.com/bartholomej/svelte-sitemap) - Small helper which scans your Svelte routes and generates static sitemap.xml.
+- [Metawrite](https://github.com/koodeau/metawrite) - Appwrite SDK with ready to go components for Svelte / SvelteKit.
+- [Why I wouldn't recommend Svelte JS to a fellow CTO (2022)](https://www.reddit.com/r/sveltejs/comments/sw11gc/why_i_wouldnt_recommend_svelte_js_to_a_fellow_cto/)
+- [Custom Svelte Store: Higher Order Store (2022)](https://www.youtube.com/watch?v=p1aPfVyZ1IY) ([Reddit](https://www.reddit.com/r/sveltejs/comments/sxm8m7/higherorder_store_borrowing_a_functional/))
+- [SvelteKit and the "Client pattern" (2022)](https://retro.cloud/sveltekit-and-the-client-pattern/)
+- [Building a real-time websocket app using SvelteKit (2022)](https://www.inngest.com/blog/building-a-realtime-websocket-app-using-sveltekit)
+- [Design Patterns for Building Reusable Svelte Components (2022)](https://render.com/blog/svelte-design-patterns)
+- [Svelte parser for ESLint](https://github.com/ota-meshi/svelte-eslint-parser)
+- [Svelte Inview](https://github.com/maciekgrzybek/svelte-inview) - Svelte action that monitors an element enters or leaves the viewport.
+- [Weekly Svelte - YouTube](https://www.youtube.com/playlist?list=PLLnpHn493BHF-Onm1MQgKC1psvW-rJuYi)
+- [VKSUI](https://github.com/sveltevk/VKSUI) - Библиотека адаптивных Svelte-компонентов.
+- [Snel](https://github.com/crewdevio/Snel) - Cybernetical framework for svelte applications in Deno.
+- [Svelte Adapter Deno](https://github.com/pluvial/svelte-adapter-deno) - Adapter for SvelteKit apps that generates a standalone Deno server.
+- [Creating a RSS feed with Sanity and Svelte Kit (2022)](https://ghostdev.xyz/posts/creating-a-rss-feed-with-sanity-and-svelte-kit)
+- [svelte-file-dropzone](https://github.com/thecodejack/svelte-file-dropzone) - Svelte component for file upload.
+- [Render your Svelte code blocks in MDSveX](https://github.com/mattjennings/mdsvexamples)
+- [graph-paper](https://github.com/graph-paper-org/graph-paper) - Svelte component library optimized for data visualizations and data apps.
+- [svelte-code-input](https://github.com/stordahl/svelte-code-input) - Simple text input that behaves like a code editor.
+- [svelte-tags-input](https://github.com/agustinl/svelte-tags-input) - Fully customizable Svelte component to enter tags.
+- [svelte-tiny-virtual-list](https://github.com/skayo/svelte-tiny-virtual-list) - Tiny but mighty list virtualization library for Svelte, with zero dependencies.
+- [Svelte Material UI](https://sveltematerialui.com/) ([Code](https://github.com/hperrin/svelte-material-ui))
+- [SvelteUI](https://github.com/Brisklemonade/svelteui) - Component library for building fully functional & accessible web applications.
+- [Svelte Writable Derived](https://github.com/PixievoltNo1/svelte-writable-derived) - Two-way data-transforming stores for Svelte.
+- [Awesome SvelteKit](https://github.com/one-aalam/awesome-svelte-kit)
+- [Made with Svelte](https://madewithsvelte.com/)
+- [Carbon Icons Svelte](https://carbon-icons-svelte.onrender.com/) - Carbon Design System SVG icons as Svelte components. ([Code](https://github.com/carbon-design-system/carbon-icons-svelte))
+- [Svelte Infinite Loading](https://github.com/skayo/svelte-infinite-loading) - Infinite scroll component for Svelte apps.
+- [SvelteKit Component Library](https://github.com/rodneylab/sveltekit-components)
+- [Svelte i18next](https://github.com/NishuGoel/svelte-i18next) - Internationalization for svelte framework. Based on i18next ecosystem.
+- [SvelteKit SVG Plugin](https://github.com/poppa/sveltekit-svg) - Makes it possible to import SVG files as Svelte components, inline SVG code or urls.
+- [Rich Harris - The Road to SvelteKit 1.0 (2022)](https://www.youtube.com/watch?v=s6a1pbTVcUs)
+- [KitDocs](https://kit-docs.svelteness.dev/docs/getting-started/introduction) - Documentation integration for SvelteKit. ([Code](https://github.com/svelteness/kit-docs))
+- [Thoughts on maturity of Svelte/SvelteKit (2022)](https://twitter.com/htmleverything/status/1515000240134242309)
+- [Sveltin](https://github.com/sveltinio/sveltin) - Smartest Way to Build SvelteKit powered static websites. ([Web](https://sveltin.io/))
+- [Svelte-Splitpanes](https://github.com/orefalo/svelte-splitpanes) - Create resizable view panels in Svelte 3, a radical new approach to building user interfaces.
+- [Simplify data fetching in SvelteKit with page endpoints (2022)](https://baptiste.devessier.fr/writing/simplify-data-fetching-in-sveltekit-with-page-endpoints/)
+- [How to use Serverless Cloud with SvelteKit (2022)](https://www.serverless.com/blog/how-to-use-serverless-cloud-with-sveltekit)
+- [Svelte Reveal](https://github.com/DaveKeehl/svelte-reveal) - Svelte action that leverages the Intersection Observer API to trigger reveal on scroll transitions.
+- [Svelte-intl-precompile](https://github.com/cibernox/svelte-intl-precompile) - i18n library for Svelte.js that analyzes your keys at build time for max performance and minimal footprint.
+- [Svelte Package template](https://github.com/Tropix126/sveltekit-package-template) - Barebones project that provides the essentials for writing highly-optimized, reusable packages in Svelte.
+- [Svelte Markdown](https://github.com/pablo-abc/svelte-markdown) - Markdown parser that renders into Svelte Components.
+- [Bookit](https://github.com/leveluptuts/bookit) - UI component explorer designed specifically for Svelte Kit.
+- [Svelte IntelliJ IDE Plugin](https://github.com/tomblachut/svelte-intellij)
+- [Svelte Persistent store](https://github.com/MacFJA/svelte-persistent-store) - Svelte store that keep its value through pages and reloads.
+- [SvelteKitAuth](https://github.com/Dan6erbond/sk-auth) - Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization.
+- [Square Svelte Store](https://github.com/square/svelte-store) - Builds upon Svelte's default store behavior to empower your app to reactively respond to asynchronous data.
+- [Svelte Error Boundary](https://github.com/CrownFramework/svelte-error-boundary)
+- [Svelte component to render markdown](https://github.com/ssssota/svelte-exmarkdown)
+- [Svelte Portal](https://github.com/romkor/svelte-portal) - Svelte component for rendering outside the DOM of parent component.
+- [SvelteKit Embed components](https://github.com/spences10/sveltekit-embed)
+- [Svelte(Kit) TypeScript Showcase + general TypeScript tips](https://github.com/ivanhofer/sveltekit-typescript-showcase)
+- [Plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend. ([Web](https://plenti.co/))
+- [Svelte Notifications](https://github.com/beyonk-adventures/svelte-notifications) - Svelte toast notifications component that can be used in any JS application.
+- [Svelte SortableJS](https://github.com/jhubbardsf/svelte-sortablejs)
+- [Svelte Subscribe](https://github.com/bryanmylee/svelte-subscribe) - Subscribe to non top-level stores in your Svelte template.
+- [Svelte WebSocket Store](https://github.com/arlac77/svelte-websocket-store) - Svelte store with a WebSocket backend.
+- [SvelteKit with Tailwind CSS (2021)](https://linu.us/sveltekit-with-tailwindcss-v3)
+- [Vite Svelte plugin to remove console logs in prod](https://github.com/jhubbardsf/vite-plugin-svelte-console-remover)
+- [Svelte Range Slider (with pips)](https://github.com/simeydotme/svelte-range-slider-pips) - Multi-Thumb, Accessible, Beautiful Range Slider with Pips.
+- [Svelcro](https://github.com/oslabs-beta/Svelcro) - Svelte DevTool with a focus on rendering.
+- [Flowbite-Svelte](https://github.com/themesberg/flowbite-svelte) - Official Flowbite component library for Svelte. All interactivities are handled by Svelte. ([Web](https://flowbite-svelte.com/))
+- [Event Calendar](https://github.com/vkurko/calendar) - Full-sized drag & drop JavaScript event calendar with resource view in Svelte.
+- [Is Svelte good choice for large apps? (2022)](https://www.reddit.com/r/sveltejs/comments/v189j6/is_svelte_good_choice_for_large_apps/)
+- [svelvg](https://github.com/metonym/svelvg) - Convert SVG files into Svelte components with TypeScript definitions.
+- [Svelte Reactive Debugger](https://github.com/unlocomqx/svelte-reactive-debugger) - Easily monitor svelte reactive statements.
+- [Svelte Hub Docs Components](https://github.com/huggingface/hub-docs)
+- [Svelvet](https://github.com/oslabs-beta/Svelvet) - Lightweight Svelte component library for building interactive node-based flow diagrams. ([Web](https://svelvet.io/)) ([HN](https://news.ycombinator.com/item?id=31595822))
+- [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) - Advanced Frontend Platform for eCommerce based on Sveltekit.
+- [Svelte French Toast](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte.
+- [Attractions](https://illright.github.io/attractions/) - Pretty cool UI kit for Svelte. ([Code](https://github.com/illright/attractions))
+- [Svelte for Beginners Course (2021)](https://www.udemy.com/course/svelte-for-beginners/)

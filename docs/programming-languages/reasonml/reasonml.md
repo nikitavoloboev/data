@@ -1,0 +1,92 @@
+---
+title: ReasonML
+---
+
+# [ReasonML](https://reasonml.github.io)
+
+## Example Sites
+
+- [v3.ocaml.org](https://github.com/ocaml/v3.ocaml.org) - Next implementation of ocaml.org, built on OCaml, ReScript, NextJS, and Tailwind.
+- [alexfedoseev.com](https://github.com/alexfedoseev/alexfedoseev.com)
+
+## Links
+
+- [Exploring ReasonML](http://reasonmlhub.com/exploring-reasonml/toc.html)
+- [genType](https://github.com/cristianoc/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
+- [Here’s why ReasonReact is the best way to write React](https://medium.freecodecamp.org/psst-heres-why-reasonreact-is-the-best-way-to-write-react-5088d434d035)
+- [Formality](https://github.com/alexfedoseev/re-formality) - Reasonable form validation tool for reason-react.
+- [ReasonML: Strict, powerful and forgiving (2018)](https://news.ycombinator.com/item?id=18414084)
+- [Migrating Isolate to ReasonML + React (2018)](http://seenaburns.com/2018/07/02/migrating-isolate-to-reason-react/)
+- [Relit](https://github.com/cyrus-/relit) - Hygienic typed literal macros (TLMs) for Reason.
+- [Revery](https://github.com/bryphe/revery) - Native, high-performance, cross-platform desktop apps - built with Reason.
+- [Esy](https://esy.sh/) - Simple workflow for native Reason and OCaml. ([HN](https://news.ycombinator.com/item?id=18967693))
+- [pesy](https://github.com/esy/pesy) - Project configuration for esy.
+- [Reason Native](https://github.com/facebookexperimental/reason-native) - Testing, printing, coloring, and other tools to effectively write native Reason code.
+- [Odoc](https://github.com/ocaml/odoc) - Documentation compiler for OCaml and Reason.
+- [odoc2docset](https://github.com/jfeser/odoc2docset) - Create Dash docsets from Odoc generated documentation.
+- [BsReact](https://github.com/eldh/bs-react) - Fork of ReasonReact adapted to work with Hooks and Context.
+- [Reason OCaml Language Reference](https://github.com/jordwalke/reasonml-manual)
+- [Reason Design Patterns](https://github.com/ostera/reason-design-patterns) - Unofficial collection of "design patterns" for Reason and OCaml.
+- [Revery](https://github.com/revery-ui/revery) - Native, high-performance, cross-platform desktop apps - built with Reason! ([HN](https://news.ycombinator.com/item?id=18994837))
+- [ReasonML - React as first intended (2018)](https://www.imaginarycloud.com/blog/reasonml-react-as-first-intended/)
+- [Creating a CLI with Reason native (2019)](https://rolflekang.com/creating-a-cli-with-reason-native)
+- [RED](https://github.com/reasonml/red) - Better UX for OCamlDebug. Works with Ocaml and Reason code.
+- [The Birth of React and Reason with Jordarn Walke (2019)](https://overcast.fm/+Q5fSfHCDs)
+- [Reason Language Server](https://github.com/jaredly/reason-language-server) - Implements the Language Server Protocol for Reason.
+- [Js_of_ocaml and BuckleScript (2019)](https://www.javierchavarri.com/js_of_ocaml-and-bucklescript/)
+- [Journey to Trait-like behaviour in ReasonML/OCaml (2019)](https://gustavoaguiar.dev/journey-trait-like-behavior-reasonml/)
+- [Reason bindings for React Native](https://github.com/reasonml-community/reason-react-native) - Write your React Native apps with Reason.
+- [ReasonReact Example App](https://github.com/ostera/my-reason-react-app)
+- [Reason Project Ideas](https://github.com/jordwalke/reason-project-ideas)
+- [React Advanced Reason Workshop (2019)](https://github.com/nikgraf/2019-10-reason-workshop)
+- [How to write a library for BuckleScript and Native (2019)](https://tech.ahrefs.com/how-to-write-a-library-for-bucklescript-and-native-22f45e5e946d)
+- [Nit](https://nit.sketch.sh/) - Better ReasonML playground.
+- [Sketch.sh](https://github.com/Sketch-sh/sketch-sh) - Online Code Editor and ReasonML community.
+- [ReasonML Forum](https://reasonml.chat/)
+- [Notes and samples for understanding the basics of ReasonML](https://github.com/parkerziegler/reason-basics)
+- [Jordan Walke - React to the Future (2019)](https://www.youtube.com/watch?v=5fG_lyNuEAw)
+- [Reason Native](https://reason-native.com/) - Libraries for building and testing native Reason programs.
+- [Towards an Open, Reason(ML)able Web by Parker Ziegler (2019)](https://www.youtube.com/watch?v=ItASl4SdPO0)
+- [Ben Anderson - Investing in Testing with Reason (2019)](https://www.youtube.com/watch?v=Um-c6gDuLWw)
+- [Youxi Li - The Cyborg Future: Melding a Rust/Wasm Core with a ReasonReact UI (2019)](https://www.youtube.com/watch?v=nY_fslpJmdE)
+- [Navigating Reason](https://github.com/jordwalke/navigating-reason) - Overview of Reason tooling options for the curious.
+- [Bryan Phelps - Making Windows Development Reasonable (2019)](https://www.youtube.com/watch?v=UDz-IqwAzIs)
+- [Sean Grove - Building Real Systems in Reason (Native) (2019)](https://www.youtube.com/watch?v=Lv2QCq6ZBPs)
+- [Ricky Vetter - Why React is just better in Reason (2019)](https://www.youtube.com/watch?v=i9Kr9wuz24g)
+- [Hongbo Zhang - Building a High Performance JavaScript Compiler (2019)](https://www.youtube.com/watch?v=iWEQjvGGiTA)
+- [Spin](https://github.com/tmattio/spin) - Project scaffolding tool and set of templates for Reason and OCaml.
+- [Fullstack Reason Demo](https://github.com/yawaramin/fullstack-reason) - Demo project that shows a fullstack ReasonML/OCaml app–native binary + webapp.
+- [Restack: Full-Stack ReasonML](https://github.com/dysinger/restack) - Tutorial series on using the ReasonML language to build MirageOS unikernels and user-facing applications with tools like Reason-React.
+- [Constrainable Variants (2019)](https://sketch.sh/s/Dp92enDNQu78XV51Lekohn/)
+- [reasonml.org](https://reasonml.org/) - Better Documentation Platform for Reason. ([Code](https://github.com/reason-association/reasonml.org))
+- [How to Render Data from a GraphQL API in ReasonReact (2020)](https://joeprevite.com/render-data-graphql-api-reasonreact)
+- [HN: Reason React 0.8 (2020)](https://news.ycombinator.com/item?id=23168483)
+- [BuckleScript Monorepo example](https://github.com/anmonteiro/bucklescript-monorepo)
+- [reanalyze](https://github.com/reason-association/reanalyze) - Program analysis for Reason and OCaml projects targeting JS (bucklescript) as well as native code (dune).
+- [If you think ReasonML compiles to JS, you are wrong (2019)](https://baturin.org/blog/if-you-think-reasonml-compiles-to-js-you-are-wrong/)
+- [Ulrik Strid - Reason Native Web (2020)](https://www.youtube.com/watch?v=t-sWyMqxsD0)
+- [Gabriel Nordeborn - ReasonRelay Demo (2020)](https://www.youtube.com/watch?v=fjbV0-OGuf4)
+- [ReScript](https://rescript-lang.org/) - Compiled language to JS. ([Code](https://github.com/rescript-lang/rescript-compiler))
+- [ReScript Docs](https://rescript-lang.org/docs/latest) ([Code](https://github.com/reason-association/rescript-lang.org))
+- [Easy cross compilation using esy [Reason/OCaml] (2020)](https://discuss.ocaml.org/t/ann-easy-cross-compilation-using-esy/6612)
+- [ReScript Syntax](https://github.com/rescript-lang/syntax) - ReScript parser & printer.
+- [Rust ReScript Demo](https://github.com/shakacode/rust-rescript-demo)
+- [bsconfig.json](https://github.com/idkjs/bsconfig.json) - Quickly create an opinionated bsconfig.json.
+- [Rescript Editor Support](https://github.com/rescript-lang/rescript-editor-support) - Command line to support editor integration for Rescript.
+- [Reason on multicore OCaml](https://github.com/ManasJayanth/reason-on-multicore)
+- [I Switched from TypeScript to ReScript (2021)](https://medium.com/att-israel/how-i-switched-from-typescript-to-rescript-637aa5ef8d3) ([HN](https://news.ycombinator.com/item?id=25845147))
+- [Melange](https://github.com/melange-re/melange) - Mixture of tooling combined to produce JS from OCaml / Reason.
+- [Melange Basic Template](https://github.com/melange-re/melange-basic-template)
+- [Creating an Observable Subject in ReScript (2021)](https://erikras.com/blog/observable-subject-in-rescript)
+- [Why ReScript? (2021)](https://twitter.com/BenLesh/status/1422932189952491522)
+- [graphql-ppx](https://github.com/reasonml-community/graphql-ppx) - GraphQL language primitives for ReScript/ReasonML written in ReasonML. ([Web](https://graphql-ppx.com/))
+- [Ancestor](https://github.com/rescriptbr/ancestor) - UI primitives for ReScript and React.
+- [Reason Native UI Discord](https://discord.com/invite/UvQ2cFn)
+- [Rescript React Boilerplate](https://github.com/persianturtle/rescript-react-boilerplate)
+- [From TypeScript To ReScript (2022)](https://www.greyblake.com/blog/from-typescript-to-rescript/) ([HN](https://news.ycombinator.com/item?id=29903631))
+- [From Object-Oriented JS to Functional ReScript (2021)](https://fullsteak.dev/posts/from-oop-javascript-to-functional-rescript)
+- [Full-stack ReScript. Architecture Overview (2021)](https://fullsteak.dev/posts/fullstack-rescript-architecture-overview)
+- [ReScript grammar for Tree-sitter](https://github.com/nkrkv/tree-sitter-rescript)
+- [ReScript JSON Typed Strongly (2021)](https://fullsteak.dev/posts/rescript-json-typed-strongly)
+- [Exploring ReScript on Deno (2022)](https://practicalrescript.com/exploring-rescript-on-deno/)
+- [ReScript vs TypeScript: Building a Concurrent Queue library (2022)](https://practicalrescript.com/rescript-vs-typescript-concurrent-queue/)

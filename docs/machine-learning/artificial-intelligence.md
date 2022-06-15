@@ -1,0 +1,144 @@
+# Artificial intelligence
+
+I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI) as it gives a nice overview of what symbiosis of AI with humans can look like. Language models like [DALL·E](https://openai.com/blog/dall-e/) are fascinating. I want to be able to have a voice assistant that 'knows me' and I can asks question too that is actually good. [LA](../ideas/learn-anything.md) is a tool I am building that can eventually solve this problem as LA will know in a lot of detail which knowledge do you actually have. No other company is tracking this.
+
+[On the Measure of Intelligence](https://twitter.com/alexkowsik/status/1518602848421961730) is a good read.
+
+## Notes
+
+- [Best part of I, Robot is how it consistently presents robots doing undesirable things not as AI “gone evil” or “run amok” but implications of their programming that humans did not anticipate, which must be understood and fixed like any other engineering problem.](https://twitter.com/lexi_lambda/status/1464269135169339393)
+- [It’s not neurons, CPUs or Chinese Room inhabitants who understand, it’s the causal structure implemented by them.](https://twitter.com/Plinz/status/1536249438154330115)
+
+## Links
+
+- [What worries me about AI (2018)](https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704)
+- [Tomaso Poggio: Brains, Minds, and Machines (2019)](https://overcast.fm/+OcVf8HZ4Y)
+- [Amy Webb on Artificial Intelligence, Humanity, and the Big Nine (2019)](https://overcast.fm/+JCCrJC4)
+- [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) - Independent research and deliberative body with a mission to ensure data and AI work for people and society.
+- [OpenAI Charter](https://openai.com/charter/) - Describes the principles we use to execute on OpenAI’s mission.
+- [Google AI Education Resources](https://ai.google/education/) ([HN](https://news.ycombinator.com/item?id=20493947))
+- [AI DEBATE : Yoshua Bengio | Gary Marcus (2019)](https://www.youtube.com/watch?v=EeqwFjqFvJA) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/eezv6l/nai_debate_2019_yoshua_bengio_vs_gary_marcus/))
+- [Google Research: Looking Back at 2019, and Forward to 2020 and Beyond](https://ai.googleblog.com/2020/01/google-research-looking-back-at-2019.html)
+- [CS221: Artificial Intelligence: Principles and Techniques (2020)](https://stanford-cs221.github.io/autumn2019/)
+- [Awful AI](https://github.com/daviddao/awful-ai) - Curated list to track current scary usages of AI - hoping to raise awareness. ([HN](https://news.ycombinator.com/item?id=24701327))
+- [Building AGI: Promising Approaches, Remaining Milestones, and Likely Obstacles | Yoshua Bengio (2019)](https://www.youtube.com/watch?v=IU9cQ1JdC7Y)
+- [Abstraction and Reasoning Corpus (ARC)](https://github.com/fchollet/ARC) - Contains the ARC task data, as well as a browser-based interface for humans to try their hand at solving the tasks manually.
+- [HN: John Carmack: I’m going to work on artificial general intelligence (2020)](https://news.ycombinator.com/item?id=21530860)
+- [Superintelligence](https://idlewords.com/talks/superintelligence.htm) - The Idea That Eats Smart People. ([Talk](https://www.youtube.com/watch?v=kErHiET5YPw))
+- [Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims (2020)](https://arxiv.org/abs/2004.07213)
+- [Common Sense Comes Closer to Computers (2020)](https://www.quantamagazine.org/common-sense-comes-to-computers-20200430/) ([HN](https://news.ycombinator.com/item?id=23065073))
+- [The quest for artificial intelligence - A History of ideas and achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf)
+- [On the Measure of Intelligence (2019)](https://arxiv.org/pdf/1911.01547.pdf)
+- [Bored Humans](https://boredhumans.com/) - 40 fun artificial intelligence (AI) pages you can use for free.
+- [AI – the no bullshit approach (2020)](https://blog.piekniewski.info/2020/06/08/ai-the-no-bullshit-approach/)
+- [Stanford DAWN](https://dawn.cs.stanford.edu//) - Five-year research project to democratize AI by making it dramatically easier to build AI-powered applications.
+- [AI Research, Replicability and Incentives (2020)](https://dennybritz.com/blog/ai-replication-incentives/)
+- [Environmental drivers of systematicity and generalization in a situated agent (2019)](https://arxiv.org/abs/1910.00571)
+- [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/)
+- [Skynet Today](https://www.skynettoday.com/) - Dedicated to providing accessible and informed coverage of the latest AI news and trends.
+- [DeepMind AI reading list (2020)](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf) ([HN](https://news.ycombinator.com/item?id=23662067))
+- [Using Artificial Intelligence to Augment Human Intelligence (2017)](https://distill.pub/2017/aia/)
+- [Why general artificial intelligence will not be realized (2020)](https://www.nature.com/articles/s41599-020-0494-4) ([HN](https://news.ycombinator.com/item?id=23793108))
+- [AI Myths](https://www.aimyths.org/) - Tackle 8 of the most insidious myths, misconceptions and inaccuracies about AI. ([Tweet](https://twitter.com/djleufer/status/1288423369327681536))
+- [Manifold Computing](https://manifoldcomputing.com/) - Open, distributed research group working on significantly improving learning systems and applying them to the toughest problems humanity faces.
+- [The role of AI in coding (2020)](https://blog.repl.it/codingai)
+- [Papers with Annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations)
+- [AI Paygrades](https://aipaygrad.es/) - Statistics of industry job offers in Artificial Intelligence.
+- [CS50 Introduction to Artificial Intelligence with Python (2020)](https://www.youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv) ([Notes](http://stribny.name/blog/2020/10/artificial-intelligence-in-python))
+- [Mathematical Theory of Artificial Intelligence course (2020)](http://homepages.math.uic.edu/~lreyzin/f20_mcs548/)
+- [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp) ([HN](https://news.ycombinator.com/item?id=24809374)) ([In OCaml](https://github.com/tautologico/paip-ocaml))
+- [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial)
+- [Simple ML algorithms implemented in Python 3, TensorFlow 2, and Keras by George Hotz](https://github.com/geohot/ai-notebooks)
+- [SISL (Stanford Intelligent Systems Laboratory)](http://sisl.stanford.edu/) ([GitHub](https://github.com/sisl))
+- [AI Expert Roadmap](https://i.am.ai/roadmap) ([Code](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)) ([HN](https://news.ycombinator.com/item?id=25010114))
+- [Secondmind](https://www.secondmind.ai/) - Decisions by people, empowered by AI.
+- [Architecture For Discovering Computational Consciousness (2020)](https://matt.sh/ai-please)
+- [The Institute for Ethical AI & Machine Learning](https://ethical.institute/) ([GitHub](https://github.com/EthicalML))
+- [dair.ai](https://dair.ai/) - Democratizing Artificial Intelligence Research, Education, and Technologies. ([GitHub](https://github.com/dair-ai))
+- [Mila](https://mila.quebec/en/) - Quebec Artificial Intelligence Institute. ([GitHub](https://github.com/mila-iqia))
+- [EleutherAI](https://www.eleuther.ai/) - Grassroots AI research group aimed at democratizing and open sourcing AI research. ([GitHub](https://github.com/EleutherAI))
+- [Artificial Intelligence Wiki](https://docs.paperspace.com/machine-learning/)
+- [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
+- [State of the Art AI](https://www.stateoftheart.ai/) - Open-data and free platform built by the research community to facilitate the collaborative development of AI. ([Concepts](https://www.stateoftheart.ai/concepts))
+- [OpenCog](https://github.com/opencog/opencog) - Framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI). In Scheme.
+- [2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020)
+- [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM) ([Code](https://github.com/abhshkdz/ai-deadlines))
+- [FACET](https://github.com/BCG-Gamma/facet) - Open source library for human-explainable AI.
+- [Sony AI Research Code](https://github.com/sony/ai-research-code)
+- [AI Achievements](https://achievements.ai/) - Growing Timeline of AI Milestones.
+- [Complexity No Bar to AI](https://www.gwern.net/Complexity-vs-AI) ([HN](https://news.ycombinator.com/item?id=26216238))
+- [Facebook AI Performance Evaluation Platform](https://github.com/facebook/FAI-PEP)
+- [Google Research: Looking Back at 2020, and Forward to 2021](https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html)
+- [Chatting with Google’s DeepMind about the future of AI (2021)](https://stackoverflow.blog/2021/03/02/podcast-317-deepmind-google-ai-deep-learning-muzero/)
+- [Moore's Law for Everything (2021)](https://moores.samaltman.com/) ([HN](https://news.ycombinator.com/item?id=26480981))
+- [How We Built A Context-Specific Bidding System for Etsy Ads (2021)](https://codeascraft.com/2021/03/23/how-we-built-a-context-specific-bidding-system-for-etsy-ads/)
+- [Most fears about technology are really fears about capitalism](https://twitter.com/jackiehluo/status/1377325259779674112)
+- [Why Computers Won’t Make Themselves Smarter (2021)](https://www.newyorker.com/culture/annals-of-inquiry/why-computers-wont-make-themselves-smarter)
+- [This AI Learns From Its Dreams | Two Minute Papers (2018)](https://www.youtube.com/watch?v=gvjCu7zszbQ) ([Paper](https://arxiv.org/abs/1803.10122))
+- [Replika](https://replika.ai/) - AI companion who cares.
+- [Replika.ai Research Papers, Posters, Slides & Datasets](https://github.com/lukalabs/replika-research)
+- [From Zero to AI Research Scientist full resources guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
+- [Francois Chollet - Intelligence and Generalization (2021)](https://www.youtube.com/watch?v=J0p_thJJnoo)
+- [Your Favorite AI Podcasts / Blogs / Newsletters / YouTube Channels? (2021)](https://www.reddit.com/r/MachineLearning/comments/mwwftu/d_your_favorite_ai_podcasts_blogs_newsletters/)
+- [We were promised Strong AI, but instead we got metadata analysis (2021)](https://calpaterson.com/metadata.html) ([HN](https://news.ycombinator.com/item?id=26941332))
+- [Is your AI project a nonstarter? (2018)](https://medium.com/hackernoon/ai-reality-checklist-be34e2fdab9) - Check(list) to help you avoid the pain of learning the hard way.
+- [The Coming AI Hackers (2021)](https://www.belfercenter.org/publication/coming-ai-hackers)
+- [Silicon Valley AI Lab](https://svail.github.io/)
+- [Facebook AI Research](https://ai.facebook.com/)
+- [MUM: A new AI milestone for understanding information (2021)](https://blog.google/products/search/introducing-mum/)
+- [Intel ISL (Intel Intelligent Systems Lab)](http://vladlen.info/lab/) ([GitHub](https://github.com/intel-isl))
+- [Biases in AI Systems (2021)](https://queue.acm.org/detail.cfm?id=3466134)
+- [Anthropic AI](https://www.anthropic.com/) - Building Reliable, Interpretable, and Steerable AI Systems. ([HN](https://news.ycombinator.com/item?id=27318153))
+- [Coral](https://coral.ai/) - Complete toolkit to build products with local AI. ([GitHub](https://github.com/google-coral))
+- [PAIR – Google Research](https://research.google/teams/brain/pair/) - Human-centered research and design to make AI partnerships productive, enjoyable, and fair.
+- [The Impossibility of Automating Ambiguity (2021)](https://direct.mit.edu/artl/article/doi/10.1162/artl_a_00336/101872/The-Impossibility-of-Automating-Ambiguity) ([Tweet](https://twitter.com/tanepiper/status/1400562951162040321))
+- [A Breakdown of AI Chip Companies (2021)](https://geohot.github.io/blog/jekyll/update/2021/06/13/a-breakdown-of-ai-chip-companies.html)
+- [The Ethics of AI (2021)](https://www.vimarsh.info/blog/ethics-of-ai/)
+- [Allen Institute for AI](https://allenai.org/) ([GitHub](https://github.com/allenai))
+- [Scaling Hypothesis - The path to Artificial General Intelligence? (2021)](https://johanneshage.substack.com/p/scaling-hypothesis-the-path-to-artificial)
+- [Fast and flexible: Human program induction in abstract reasoning tasks (2021)](https://arxiv.org/abs/2103.05823) ([Tweet](https://twitter.com/todd_gureckis/status/1420768433277386760))
+- [Tesla AI Day (2021)](https://youtu.be/j0z4FweCy4M?t=2853) ([HN](https://news.ycombinator.com/item?id=28240882))
+- [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/) - Summarize the history of AI since March 2020.
+- [The UK AI Strategy: are we listening to the experts? (2021)](https://datasciencesection.org/2021/09/13/the-uk-ai-strategy-are-we-listening-to-the-experts/) ([Tweet](https://twitter.com/stianwestlake/status/1440633819548164098))
+- [Awesome Edge AI](https://github.com/rcmalli/awesome-edge-ai)
+- [ContinualAI](http://www.continualai.org/) - Non-profit Research Organization and Open Community on Continual Learning for AI. ([GitHub](https://github.com/ContinualAI))
+- [Resources for Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
+- [Responsible-AI-Widgets](https://github.com/microsoft/responsible-ai-widgets) - Responsible AI user interfaces for Fairlearn, interpret-community, and Error Analysis, as well as foundational building blocks that they rely on.
+- [Notes on Artificial Intelligence](http://frnsys.com/notes/ai/) ([Code](https://github.com/frnsys/ai_notes))
+- [Using AI to accelerate scientific discovery - Demis Hassabis (2021)](https://www.youtube.com/watch?v=sm-VkgVX-2o)
+- [Just Ask for Generalization (2021)](https://evjang.com/2021/10/23/generalization.html) ([Tweet](https://twitter.com/karpathy/status/1452312576331862023))
+- [Short Story on AI: Forward Pass (2021)](http://karpathy.github.io/2021/03/27/forward-pass/) ([Tweet](https://twitter.com/karpathy/status/1452312582216376341))
+- [Solving Math Word Problems (2021)](https://openai.com/blog/grade-school-math/) ([HN](https://news.ycombinator.com/item?id=29042256))
+- [Training Verifiers to Solve Math Word Problems (2021)](https://arxiv.org/abs/2110.14168) ([Article](https://openai.com/blog/grade-school-math/)) ([HN](https://news.ycombinator.com/item?id=29042256)) ([Tweet](https://twitter.com/sama/status/1454191236210839555))
+- [Pathways: A next-generation AI architecture (2021)](https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/)
+- [Strong AI Requires Autonomous Building of Composable Models (2021)](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/)
+- [Fast indoor 2D localization using ceiling lights (2021)](https://www.a1k0n.net/2021/01/22/indoor-localization.html)
+- [Shannon entropy in the context of machine learning and AI (2018)](https://medium.com/swlh/shannon-entropy-in-the-context-of-machine-learning-and-ai-24aee2709e32)
+- [An argument for the impossibility of machine intelligence (2021)](https://arxiv.org/abs/2111.07765)
+- [Sea AI Lab](https://sail.sea.com/) ([GitHub](https://github.com/sail-sg))
+- [Ask HN: What are the early signs of singularity? (2021)](https://news.ycombinator.com/item?id=29343774)
+- [Aligning AI With Shared Human Values (2020)](https://arxiv.org/abs/2008.02275) ([Code](https://github.com/hendrycks/ethics))
+- [100 Lessons from 1 Year of AI Research (2021)](https://jetnew.io/blog/2021/100-lessons/)
+- [DeepMind's Player of Games, a general-purpose game algorithm (2021)](https://arxiv.org/abs/2112.03178) ([HN](https://news.ycombinator.com/item?id=29481665))
+- [The future of artificial intelligence is self-organizing and self-assembling (2021)](https://sebastianrisi.com/self_assembling_ai/) ([HN](https://news.ycombinator.com/item?id=29568370))
+- [What Does It Mean for AI to Understand? (2021)](https://www.quantamagazine.org/what-does-it-mean-for-ai-to-understand-20211216/) ([HN](https://news.ycombinator.com/item?id=29578687))
+- [Frontiers in Collective Intelligence: A Workshop Report (2021)](https://arxiv.org/abs/2112.06864)
+- [Literature for the self-taught AI practitioner](https://github.com/camoverride/lit)
+- [AI Now Institute](https://ainowinstitute.org/) - Research institute dedicated to examining the social and political implications of artificial intelligence. ([Twitter](https://twitter.com/ainowinstitute))
+- [Modular AI](https://www.modular.ai/) - AI infrastructure to power the world.
+- [Neural nets are not “slightly conscious,” and AI PR can do with less hype (2022)](https://lastweekin.ai/p/conscious-ai) ([HN](https://news.ycombinator.com/item?id=30408924))
+- [Yann LeCun on a vision to make AI systems learn and reason like animals and humans (2022)](https://ai.facebook.com/blog/yann-lecun-advances-in-ai-research) ([Tweet](https://twitter.com/ylecun/status/1496555825199988739))
+- [Deep learning is hitting a wall? (2022)](https://nautil.us/deep-learning-is-hitting-a-wall-14467/) ([HN](https://news.ycombinator.com/item?id=30622300))
+- [Anatomy of an AI System](https://anatomyof.ai/)
+- [The singularity is close? (2022)](https://mkaic.substack.com/p/the-singularity-is-very-close?s=r) ([HN](https://news.ycombinator.com/item?id=30871775))
+- [AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting (2021)](https://arxiv.org/abs/2103.14023) ([Code](https://github.com/Khrylx/AgentFormer))
+- [Off Belief Learning (2022)](https://ai.facebook.com/blog/teaching-ai-to-be-more-collaborative-with-humans-without-learning-directly-from-them/)
+- [The Future of Artificial Intelligence with Sam Harris and Eric Schmidt (2022)](https://overcast.fm/+KhqGdr4kI)
+- [On the Measure of Intelligence (2019)](https://arxiv.org/abs/1911.01547) ([Tweet](https://twitter.com/alexkowsik/status/1518602848421961730))
+- [NumGLUE](https://github.com/allenai/numglue) - Suite of Fundamental yet Challenging Mathematical Reasoning Tasks.
+- [Gato – A Generalist Agent (2022)](https://arxiv.org/abs/2205.06175) ([HN](https://news.ycombinator.com/item?id=31415478))
+- [Reliance on metrics is a fundamental challenge for AI: Patterns (2022)](<https://www.cell.com/patterns/fulltext/S2666-3899(22)00056-3>)
+- [Awesome Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai)
+- [Artificial Intelligence for Beginners - A Curriculum](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All.
+- [Why I will no longer engage in philosophical discussions about conscious AI/superintelligent machines (2022)](https://twitter.com/GiadaPistilli/status/1530136739959951361) ([TL;DR](https://twitter.com/tomgara/status/1535735266543017989))
+- [Discussion between Google engineer and their conversational AI model](https://twitter.com/tomgara/status/1535716256585859073)

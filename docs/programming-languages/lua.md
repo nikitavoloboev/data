@@ -1,0 +1,131 @@
+---
+title: Lua
+---
+
+# [Lua](https://www.lua.org)
+
+[Fennel](https://github.com/bakpakin/Fennel) is interesting.
+
+## Notes
+
+- [Lua was created explicitly to be an embedded scripting language. It's evolution has very tightly focused on that usage, and that continues to be the most common way it is used. It's language as library, a small, pure ANSI C library with no external dependencies. It's easy to include in a project and extend, while remaining a powerful, expressive language that performs well. It's fantastic for that purpose.](https://www.reddit.com/r/lua/comments/hg9g3p/if_someone_asks_me_why_lua_i_show_him_this_link/)
+- [Lua is a language I really want to love. I like the emphasis on simplicity and minimalism, and the Scheme-like semantics, which mix imperative and functional styles, really hits a sweet spot IMO. LuaJIT is a crazy impressive feat of software engineering. However, there are some specific issues which hold Lua back IMO. First, as LuaJIT author Mike Pall famously noted, the Lua authors constantly break compatibility between releases. Lua is really several different, incompatible languages (Lua 5.1, 5.2, etc). LuaJIT is still at Lua 5.1, IIRC. Second, there are a bunch of minor nitpicks (1-based-indexing, anyone?) which turn off a bunch of people. Lastly, because Lua is so minimal and focused on portability, people end up reimplementing their own abstractions (such as object systems) from scratch, further fracturing the ecosystem. I think there's a space for a new project, which takes LuaJIT as a starting point and addresses some of the issues I described. It would also be great if this hypothetical new language had better support for Unicode and concurrency.](https://news.ycombinator.com/item?id=23851393)
+
+## Links
+
+- [Luau](https://luau-lang.org/) - Fast, small, safe, gradually typed embeddable scripting language derived from Lua. ([Code](https://github.com/Roblox/luau)) ([HN](https://news.ycombinator.com/item?id=29097692))
+- [Luacheck](https://github.com/luarocks/luacheck) - Tool for linting and static analysis of Lua code.
+- [Fennel](https://fennel-lang.org/) - Programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system. ([Code](https://github.com/bakpakin/Fennel)) ([Rationale](https://fennel-lang.org/rationale)) ([Lobsters](https://lobste.rs/s/6bphbw/fennel_programming_language_rationale)) ([HN](https://news.ycombinator.com/item?id=24390904)) ([FennelConf](https://conf.fennel-lang.org/)) ([Fennel: The Practical Lisp](https://www.mattroelle.com/fennel-the-practical-lisp))
+- [rlua](https://github.com/kyren/rlua) - High level bindings between Rust and Lua.
+- [How to Lua and C - a short novel (2018)](https://sepisoad.com/blog/how%20to%20lua%20and%20c%20-%20a%20short%20novel.html)
+- [Code Formatter for Lua](https://github.com/trixnz/lua-fmt) - Pretty-printer for Lua code, written in TypeScript and deeply inspired by prettier.
+- [Lua VM in pure Go](https://github.com/Shopify/go-lua)
+- [GopherLua](https://github.com/yuin/gopher-lua) - VM and compiler for Lua in Go.
+- [Awesome Lua](https://github.com/LewisJEllis/awesome-lua)
+- [Embedding Lua Tutorial](https://github.com/davepoo/EmbeddingLuaTutorial)
+- [Lunatic Python](https://github.com/bastibe/lunatic-python) - Two-way bridge between Python and Lua.
+- [Interesting things about the Lua interpreter (2020)](https://thesephist.com/posts/lua/)
+- [Interactive Lua development with Fennel (2018)](https://technomancy.us/189) ([Lobsters](https://lobste.rs/s/1xlmb3/interactive_lua_development_with_fennel))
+- [LuaJIT](https://github.com/LuaJIT/LuaJIT) - Just-In-Time (JIT) compiler for the Lua programming language. ([Web](http://luajit.org/))
+- [LuaJIT Bytecode Optimizations](http://wiki.luajit.org/Optimizations)
+- [Lua in Rust](https://github.com/lonng/lua-rs) - Pure Rust implementation of Lua compiler.
+- [Typed Lua](https://github.com/andremm/typedlua) - Optional Type System for Lua.
+- [Teal](https://github.com/teal-language/tl) - Compiler for Teal, a typed dialect of Lua.
+- [pprint.lua](https://github.com/jagt/pprint.lua) - Lua pretty printer.
+- [Using Lua As A Serialization Format (2020)](https://mkhan45.github.io/2020/06/16/using-lua-as-a-serialization-format.html) ([HN](https://news.ycombinator.com/item?id=23539332)) ([Lobsters](https://lobste.rs/s/dttksl/using_lua_as_serialization_format))
+- [Lua Integration (2020)](https://mkhan45.github.io/2020/06/12/lua-integration.html)
+- [LuaJIT Language Toolkit](https://github.com/franko/luajit-lang-toolkit) - Implementation of the Lua programming language written in Lua itself.
+- [Antifennel](https://git.sr.ht/~technomancy/antifennel) - Turn Lua code into Fennel code.
+- [HN: Lua 5.4.0 (2020)](https://news.ycombinator.com/item?id=23686297)
+- [Languages that compile to Lua](https://github.com/hengestone/lua-languages)
+- [Making the Fennel compiler self-hosting with another compiler (2020)](https://technomancy.us/192)
+- [How to Plan a Luau: Augmenting Lua’s Syntax With Types (2020)](https://medium.com/roblox-tech-blog/how-to-plan-a-luau-augmenting-luas-syntax-with-types-7751a790f0d8) ([HN](https://news.ycombinator.com/item?id=24448364))
+- [Croissant](https://github.com/giann/croissant) - Lua REPL and debugger implemented in Lua.
+- [Fengari](https://github.com/fengari-lua/fengari) - Lua for the Browser. ([Web](https://fengari.io/)) ([HN](https://news.ycombinator.com/item?id=30404104))
+- [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide)
+- [busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
+- [RxLua](https://github.com/bjornbytes/RxLua) - Reactive Extensions for Lua.
+- [LTUI](https://github.com/tboox/ltui) - Cross-platform terminal ui library based on Lua.
+- [Raymarching with Fennel and LÖVE (2020)](https://andreyorst.gitlab.io/posts/2020-10-15-raymarching-with-fennel-and-love/)
+- [Moonshine](https://github.com/gamesys/moonshine) - Lightweight Lua VM for the browser.
+- [A Look at the Design of Lua (2018)](https://cacm.acm.org/magazines/2018/11/232214-a-look-at-the-design-of-lua/fulltext) ([HN](https://news.ycombinator.com/item?id=18327661))
+- [lua-fsm](https://github.com/unindented/lua-fsm) - Simple finite-state machine implementation for Lua.
+- [plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - All the lua functions I don't want to write twice.
+- [LuaUnit](https://github.com/bluebird75/luaunit) - Popular unit-testing framework for Lua, with an interface typical of xUnit libraries.
+- [LuaFormatter](https://github.com/Koihik/LuaFormatter) - Reformats your Lua source code.
+- [Heart](https://github.com/Hyperspace-Logistics/heart) - High performance Lua web server with a simple, powerful API.
+- [Lua, a misunderstood language (2021)](https://andregarzia.com/2021/01/lua-a-misunderstood-language.html) ([Lobsters](https://lobste.rs/s/novtvd/lua_misunderstood_language)) ([HN](https://news.ycombinator.com/item?id=25796852))
+- [Lua and Python (2020)](https://lwn.net/Articles/812122/) ([HN](https://news.ycombinator.com/item?id=25794374)) ([Lobsters](https://lobste.rs/s/2lpxqj/lua_python))
+- [luapower](https://luapower.com/) - LuaJIT distribution. ([GitHub](https://github.com/luapower))
+- [Penlight](https://github.com/lunarmodules/Penlight) - Useful pure Lua modules, focusing on input data handling, functional programming and OS path management.
+- [StyLua](https://github.com/JohnnyMorganz/StyLua) - Opinionated Lua code formatter.
+- [Full Moon](https://github.com/Kampfkarren/full-moon) - Lossless Lua 5.1 parser.
+- [Ravi](https://github.com/dibyendumajumdar/ravi) - Dialect of Lua, featuring limited optional static typing, JIT and AOT compilers. ([Web](http://ravilang.github.io/))
+- [LuaJIT compiler explorer](https://luajit.me/) ([Code](https://github.com/rapidlua/luajit.me))
+- [LadyLua](https://github.com/tongson/LadyLua) - Batteries-included static Lua 5.1 interpreter. ([HN](https://news.ycombinator.com/item?id=26738006))
+- [TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Write Lua with TypeScript. ([Web](https://typescripttolua.github.io/))
+- [debugger.lua](https://github.com/slembcke/debugger.lua) - Simple, embedabble CLI debugger for Lua.
+- [Terra](https://terralang.org/) - Low-level system programming language meta-programmed from Lua. ([HN](https://news.ycombinator.com/item?id=27334065)) ([Code](https://github.com/terralang/terra))
+- [Lua Language Server](https://github.com/sumneko/lua-language-server)
+- [Lua Patterns Viewer](https://gitspartv.github.io/lua-patterns/) - Tool for inspecting, analyzing and learning Lua patterns. ([Code](https://github.com/GitSparTV/lua-patterns))
+- [liter](https://github.com/ok-nick/liter) - Powerful Luau library for enhanced Rust-like iterators.
+- [lua-lru](https://github.com/starius/lua-lru) - LRU cache in Lua.
+- [utf8.lua](https://github.com/Stepets/utf8.lua) - Pure Lua 5.3 regex library.
+- [Lua-QuickCheck](https://github.com/luc-tielen/lua-quickcheck) - Property based testing in Lua, inspired by the original QuickCheck.
+- [MoonScript](https://moonscript.org/) - Language that compiles to Lua. ([Code](https://github.com/leafo/moonscript))
+- [Lua Code](https://github.com/lua/lua)
+- [Concurrent LUA Executor](https://github.com/kelindar/lua) - Concurrent LUA executor that is designed to keep running a same (but updateable) set of scripts over a long period of time.
+- [Zua](https://github.com/squeek502/zua) - Implementation of Lua 5.1 in Zig, for learning purposes.
+- [lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache) - Lua-land LRU Cache based on LuaJIT FFI.
+- [Python and Lua (2019)](https://brmmm3.github.io/posts/2019/07/28/python_and_lua/) ([HN](https://news.ycombinator.com/item?id=28814141))
+- [Lua Functional](https://github.com/luafun/luafun) - High-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind. ([Docs](https://luafun.github.io/))
+- [LuaJIT Unix syscall FFI](https://github.com/justincormack/ljsyscall)
+- [Hematita Da Lua](https://github.com/danii/hematita) - Memory safe Lua interpreter.
+- [LuaJIT Garbage Collector Design Doc](http://wiki.luajit.org/New-Garbage-Collector)
+- [f-strings](https://github.com/hishamhm/f-strings) - String interpolation for Lua.
+- [Lua Filters](https://github.com/pandoc/lua-filters) - Collection of lua filters for pandoc.
+- [StackTracePlus](https://github.com/ignacio/StackTracePlus) - Provides enhanced stack traces for Lua.
+- [Teliva](https://github.com/akkartik/teliva) - Fork of Lua 5.1 to encourage end-user programming. ([HN](https://news.ycombinator.com/item?id=29231563))
+- [checks](https://github.com/fab13n/checks) - Runtime argument type checking API for Lua.
+- [Lua Async Await](https://github.com/ms-jpq/lua-async-await) - Async Await in 90 lines of code.
+- [luastatic](https://github.com/ers35/luastatic) - Build a standalone executable from a Lua program.
+- [Links on how Lua works behind the scenes](https://github.com/edubart/nelua-lang/wiki/Useful-Links-for-Research)
+- [Lua Finite State Machine](https://github.com/kyleconroy/lua-state-machine) - Finite state machine lua micro framework.
+- [lua2c](https://github.com/davidm/lua2c) - Converts Lua 5.1 source code to C code.
+- [Lua in Rust](https://github.com/cjneidhart/lua-in-rust) - Lua programming language, implemented in Rust.
+- [Lua: Good, bad, and ugly parts (2012)](http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts) ([HN](https://news.ycombinator.com/item?id=29659336))
+- [Luerl](https://github.com/rvirding/luerl) - Implementation of Lua in Erlang. ([HN](https://news.ycombinator.com/item?id=29703949))
+- [Writing a minimal Lua implementation with a virtual machine from scratch in Rust (2021)](https://notes.eatonphil.com/lua-in-rust.html) ([Lobsters](https://lobste.rs/s/wlpgc3/writing_minimal_lua_implementation_with)) ([Code](https://github.com/eatonphil/lust)) ([HN](https://news.ycombinator.com/item?id=29952516))
+- [lua-ts](https://github.com/ahuth/lua-ts) - TypeScript implementation of minimal Lua.
+- [lua-yaml](https://github.com/exosite/lua-yaml) - LUA YAML parser.
+- [JSON.lua](https://github.com/jiyinyiyong/json-lua) - JSON encoder/decoder.
+- [lua-feels](https://github.com/paigeruten/lua-feels) - Lua REPL that gives you a feel for its internals.
+- [Lua in 100 Seconds (2022)](https://www.youtube.com/watch?v=jUuqBZwwkQw)
+- [Fullmoon](https://github.com/pkulchenko/fullmoon) - Fast and minimalistic web framework based on Redbean web server.
+- [lua-pb](https://github.com/Neopallium/lua-pb) - Lua Protocol Buffers.
+- [Catwell's Lua playground](https://github.com/catwell/cw-lua) - Store the various Open Source tools, algorithms and libraries I write in Lua.
+- [Luar](https://github.com/Malien/luar) - Lua interpreter / JIT compiler.
+- [Lua Devirtualization (2022)](https://ferib.dev/blog.php?l=post/Lua_Devirtualization_Part_1_Introduction) ([HN](https://news.ycombinator.com/item?id=30475616))
+- [luna](https://github.com/cbrewster/luna) - Node.js bindings to Lua.
+- [Why Python is more popular than Lua (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/tfurkb/if_lua_is_faster_and_smaller_than_python_while/)
+- [NattLua](https://github.com/CapsAdmin/NattLua) - Superset of LuaJIT that adds a structural typesystem.
+- [Luar](https://github.com/stevedonovan/luar) - Lua reflection bindings for Go.
+- [RapidJSON bindings for Lua](https://github.com/xpol/lua-rapidjson)
+- [GoLua](https://github.com/arnodel/golua) - Lua compiler / runtime in Go.
+- [WebAssembly Lua](https://github.com/ysugimoto/webassembly-lua) - Write and compile WebAssembly code with Lua.
+- [binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer.
+- [JSON.lua](https://github.com/rxi/json.lua) - Lightweight JSON library for Lua.
+- [Lua HTTP](https://github.com/daurnimator/lua-http) - HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server.
+- [LOOM](https://github.com/cloudflare/loom) - Easier to read LuaJIT dumps.
+- [wasm2lua](https://github.com/SwadicalRag/wasm2lua) - Converting WASM into Lua.
+- [lua.go](https://github.com/zxh0/lua.go) - Toy Lua 5.3 implementation written in Go.
+- [inspect.lua](https://github.com/kikito/inspect.lua) - Human-readable representation of Lua tables.
+- [Luacheck](https://github.com/mpeterv/luacheck) - Tool for linting and static analysis of Lua code.
+- [MiniLua](https://github.com/edubart/minilua) - Lua contained in a single header to be bundled in C/C++ applications with ease.
+- [Lume](https://github.com/rxi/lume) - Lua functions geared towards game dev.
+- [LDoc](https://github.com/lunarmodules/LDoc) - Lua Documentation Tool.
+- [Hive](https://github.com/hackerer1c/hive) - Lua microservices framework written in Rust.
+- [lua-graph](https://github.com/chen0040/lua-graph) - Graph algorithms in Lua.
+- [Clue](https://github.com/ClueLang/Clue) - C/Rust like programming language that compiles into Lua code.
+- [Standalone tree sitter bindings for the Lua language](https://github.com/euclidianAce/ltreesitter)
+- [Gooa](https://github.com/gooac/gooac) - Lua Preprocessor written in Go.

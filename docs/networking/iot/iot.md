@@ -1,0 +1,94 @@
+# Internet of things
+
+## Links
+
+- [Stephen Marcus - Scaling companies with IoT products people want](https://www.youtube.com/watch?v=QokRyWPxE10&t=5s)
+- [RNode](https://unsigned.io/projects/rnode/) - Integrated, long-range data-radio that uses raw LoRa modulation in a variety of frequency bands.
+- [TinyGo](https://github.com/aykevl/tinygo) - Go compiler for small devices, based on LLVM.
+- [Particle Store](https://store.particle.io/) - Many cool IOT products to buy.
+- [TinyFPGA](https://tinyfpga.com/) - New series of low-cost, open-source FPGA boards in a tiny form factor.
+- [IOT + Sensors (with security)](https://www.youtube.com/watch?v=MM2AxeACt9Q)
+- [Lacuna](http://lacuna.space/) - Low-cost, simple and reliable global connections to sensors and mobile equipment.
+- [Tock](https://github.com/tock/tock) - Secure embedded operating system for Cortex-M based microcontrollers. ([Web](https://www.tockos.org/))
+- [Arm Mbed Command Line Interface](https://github.com/ARMmbed/mbed-cli)
+- [IoT Standards and Protocols](https://www.postscapes.com/internet-of-things-protocols/)
+- [Shodan](https://www.shodan.io/) - Search engine for Internet-connected devices. ([Learning Shodan through katas](https://github.com/ninoseki/shodan-dojo)) ([HN](https://news.ycombinator.com/item?id=28665256))
+- [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) - Alternative firmware for ESP8266 based devices like iTead Sonoff with web UI, rules and timers, OTA updates, custome device templates and sensors support.
+- [Dumbass Home 2.0. (2019)](https://vas3k.com/blog/dumbass_home/) - Internet of Things. How to Automate Your Rented Box Today.
+- [Amazon FreeRTOS](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers.
+- [Senet](https://www.senetco.com/) - Cloud-based network connectivity platforms for the on demand build-out and management of the Internet of Things.
+- [AWS IoT Things Graph (2019)](https://aws.amazon.com/blogs/aws/now-available-aws-iot-things-graph/)
+- [TDengine](https://github.com/taosdata/TDengine) - Open-source big data platform designed and optimized for the Internet of Things (IoT). ([Web](https://tdengine.com/)) ([Awesome](https://github.com/taosdata/awesome-tdengine))
+- [WebThings Gateway](https://github.com/mozilla-iot/gateway) - Web of Things gateway.
+- [Web of Things (WoT) Thing Description](https://w3c.github.io/wot-thing-description/) ([Code](https://github.com/w3c/wot-thing-description))
+- [Liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
+- [Arm Mbed OS](https://www.mbed.com/en/platform/mbed-os/) - Free, open-source embedded operating system designed specifically for the "things" in the Internet of Things.
+- [Edge Impulse](https://www.edgeimpulse.com/) - Enables developers to create the next generation of intelligent device solutions with embedded Machine Learning.
+- [ESP8266 series chips](http://esp8266.net/) - system-on-chip (SoC) which integrates a 32-bit Tensilica microcontroller, standard digital peripheral interfaces, antenna switches, RF balun & more.
+- [Packet Broker](https://www.packetbroker.org/) - Neutral and open Internet of Things packet broker allowing IoT operators to interoperate according to the open principles of the internet. ([Client](https://github.com/packetbroker/pb)) ([Go API](https://github.com/packetbroker/go-api)) ([API](https://github.com/packetbroker/api))
+- [IoT Device examples (2020)](https://www.reddit.com/r/IOT/comments/encwbz/cool_iot_devices/)
+- [Zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Allows you to use your Zigbee devices without the vendors bridge or gateway.
+- [Core Scenic Library](https://github.com/boydm/scenic) - Client application library written directly on the Elixir/Erlang/OTP stack. Primarily aimed at fixed screen connected devices (IoT).
+- [Practical difference between Xbee,ble,mqtt,lorawan (2020)](https://www.reddit.com/r/IOT/comments/griwf0/practical_difference_between_xbeeblemqttlorawan/)
+- [Zigbee adapter add-on for Mozilla WebThings Gateway](https://github.com/mozilla-iot/zigbee-adapter)
+- [EVE](https://www.lfedge.org/projects/eve/) - Aims to do for the IoT edge what Android did for mobile by creating an open edge computing engine that enables the development, orchestration and security of cloud-native and legacy applications on distributed edge compute nodes.
+- [Adam](https://github.com/lf-edge/adam) - Reference implementation of an LF-Edge API-compliant Controller.
+- [rtlamr](https://github.com/bemasher/rtlamr) - rtl-sdr receiver for Itron ERT compatible smart meters operating in the 900MHz ISM band.
+- [Nerves Platform](https://www.nerves-project.org/) - Open-source platform and infrastructure you need to build, deploy, and securely manage your fleet of IoT devices at speed and scale. ([Code](https://github.com/nerves-project/nerves)) ([HN](https://news.ycombinator.com/item?id=24184603)) ([Talk](https://github.com/mtrudel/talks/blob/main/2020-07-Toronto-Elixir-Night-Nerves.pdf)) ([HN](https://news.ycombinator.com/item?id=30213016))
+- [Nerves Livebook Firmware](https://github.com/fhunleth/nerves_livebook) - Lets you try out the Nerves projects on real hardware without needing to build anything.
+- [Espressif IoT Development Framework](https://github.com/espressif/esp-idf)
+- [Towards Secure IoT Programming in Haskell](http://nachivpn.me/haski.pdf)
+- [Octopi](https://octopi.chalmers.se/) - Research effort for creating an environment in which secure internet-of-things can be developed.
+- [Connected Home over IP](https://github.com/project-chip/connectedhomeip) - Working Group to develop and promote the adoption of a new, royalty-free connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet. ([Web](https://www.connectedhomeip.com/))
+- [RT-Thread](https://github.com/RT-Thread/rt-thread) - Open source IoT operating system. ([Web](https://www.rt-thread.io/))
+- [Amazon Sidewalk Privacy and Security Whitepaper](https://m.media-amazon.com/images/G/01/sidewalk/privacy_security_whitepaper_final.pdf) ([HN](https://news.ycombinator.com/item?id=24565259))
+- [Introducing Twilio Microvisor IoT Platform (2020)](https://www.twilio.com/blog/introducing-microvisor)
+- [IoT Pentesting](https://www.iotpentest.com/)
+- [Awesome Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
+- [Universal Radio Hacker (URH)](https://github.com/jopohl/urh) - Investigate Wireless Protocols Like A Boss.
+- [Automated irrigation system](https://github.com/PatrickHallek/automated-irrigation-system) - Open source application to water plants automatically.
+- [EMQ X Broker](https://www.emqx.io/) - Scalable and Reliable Real-time MQTT Message Broker for IoT in 5G Era.
+- [EMQ X Kuiper](https://www.emqx.io/products/kuiper) - SQL based IoT rule engine running at resource constrained edge devices. ([Code](https://github.com/emqx/kuiper))
+- [IoTGoat](https://github.com/OWASP/IoTGoat) - Deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices. ([Web](https://owasp.org/www-project-internet-of-things/))
+- [MCUNet: Tiny Deep Learning on IoT Devices (2020)](https://hanlab.mit.edu/projects/tinyml/mcunet/) ([Code](https://github.com/mit-han-lab/mcunet))
+- [Zigbee Alliance](https://zigbeealliance.org/) - Standard-bearer of the open IoT.
+- [Zigbee-lua](https://github.com/hwhw/zigbee-lua) - Zigbee coordinator and tools for LuaJIT.
+- [IoT Security at home (2020)](https://security.christmas/2020/16)
+- [IoT: Internet-Optional Things (2021)](https://seancoates.com/blogs/internet-optional-things)
+- [PagerDuty for Things - An interesting IoT project (2019)](https://rounakdatta.github.io/posts/pagerduty-for-iot/)
+- [IoT Exploitation Learning Kit](https://www.attify-store.com/products/iot-exploitation-learning-kit)
+- [JerryScript](https://github.com/jerryscript-project/jerryscript) - JavaScript engine for the Internet of Things. ([Web](https://jerryscript.net/))
+- [balena](https://www.balena.io/) - Complete IoT fleet management platform. ([GitHub](https://github.com/balenalabs))
+- [FieldKit](https://www.fieldkit.org/) - Friendly, reliable, low-cost tools to monitor and advocate for the world around you.
+- [AI on the edge device](https://github.com/jomjol/AI-on-the-edge-device) - Example of Artificial Intelligence (AI) calculations on a very cheap hardware.
+- [Ockam](https://github.com/ockam-network/ockam) - End-to-end encrypted messaging and mutual authentication between cloud services and edge devices. ([Web](https://www.ockam.io/))
+- [Inside SimpliSafe Alarm System (2021)](https://medium.com/tenable-techblog/inside-simplisafe-alarm-system-291a8c3e4d89)
+- [The S in IoT is for Security](https://puri.sm/posts/the-s-in-iot-is-for-security/) ([HN](https://news.ycombinator.com/item?id=26540007))
+- [Zabbix](https://www.zabbix.com/) - Enterprise-Class Open Source Network Monitoring Solution.
+- [HStreamDB](https://hstream.io/) - Streaming database built for IoT data storage and real-time processing. ([Code](https://github.com/hstreamdb/hstream/))
+- [Cellular connectivity for IoT (2021)](https://blog.toit.io/cellular-connectivity-for-iot-78dfe2026720)
+- [Memfault](https://memfault.com/) - End-to-end observability for your connected devices.
+- [Nordic Semiconductor](https://www.nordicsemi.com/)
+- [Building a DIY Smart Doorbell (2021)](https://buzzert.net/posts/2021-05-09-doorbell) ([HN](https://news.ycombinator.com/item?id=27669924))
+- [IoT for Beginners - A Curriculum](https://github.com/microsoft/IoT-For-Beginners)
+- [Blues Wireless](https://blues.io/) - Fastest path to build cellular IoT products. ([HN](https://news.ycombinator.com/item?id=28051005))
+- [Mainflux](https://www.mainflux.com/) - Modern, scalable, secure, open-source, and patent-free IoT cloud platform written in Go. ([Code](https://github.com/mainflux/mainflux)) ([GitHub](https://github.com/mainflux))
+- [NimbleEdge](https://www.nimbleedge.ai/) - Edge computing solution for all your needs. ([GitHub](https://github.com/NimbleEdge))
+- [Elevate IoT platform](https://www.technocreatives.com/elevate-iot-som) - Utilizing Rust and GraphQL to enable nimble and effective IoT solutions for real problems.
+- [IoT Nixie Tubes (2021)](https://bert.org/2021/11/16/iot-nixie-tubes/) ([HN](https://news.ycombinator.com/item?id=29244225))
+- [Rust IoT Radio Abstraction(s)](https://github.com/rust-iot/radio-hal)
+- [Toit](https://toit.io/) - IoT software platform for the ESP32.
+- [aws-iot-device-sdk-go](https://github.com/seqsense/aws-iot-device-sdk-go) - Implements AWS IoT presigned WebSockets dialer and AWS IoT features.
+- [Synpse](https://synpse.net/) - IoT fleet management software. ([Go Client](https://github.com/synpse-hq/synpse-go))
+- [SpringQL](https://github.com/SpringQL/SpringQL) - Open-source stream processor for IoT devices and in-vehicle computers.
+- [ESP-IoT-Solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library. IoT Device Drivers, Documentations And Solutions.
+- [EMQ](https://www.emqx.com/en) - Modern Data Infrastructure for IoT. ([GitHub](https://github.com/emqx)) ([Twitter](https://twitter.com/EMQTech))
+- [thin-edge.io](https://thin-edge.io/) - Open edge framework for lightweight IoT devices. ([Code](https://github.com/thin-edge/thin-edge.io))
+- [Seeed Studio Bazaar](https://www.seeedstudio.com/) - IoT Hardware enabler.
+- [Nexus](https://github.com/mobius-home/nexus) - Centralized server for collecting IoT metric data for Elixir/Nerves devices using Mobius.
+- [Azure IoT SDK for Rust](https://github.com/damienpontifex/azure-iot-sdk-rs) - Self developed library to interact with Azure IoT Hub using MQTT protocol.
+- [GridDB](https://github.com/griddb/griddb) - Database for IoT with both NoSQL interface and SQL Interface.
+- [Coding Up an IoT PCB Design (2022)](https://www.geocene.com/tech/hardware/2022/05/03/coding-up-an-iot-pcb-design) ([HN](https://news.ycombinator.com/item?id=31255179))
+- [Uplink](https://github.com/bytebeamio/uplink) - Utility to receive commands from and efficiently send data to an IoT Backend.
+- [Apple2idiot](https://github.com/equant/apple2idiot) - General purpose ESP32 IoT board for the Apple IIe. ([HN](https://news.ycombinator.com/item?id=31302297))
+- [carrier](https://github.com/devguardio/carrier) - Secure edge access overlay network for IoT devices.

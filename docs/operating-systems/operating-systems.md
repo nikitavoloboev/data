@@ -1,0 +1,364 @@
+# Operating systems
+
+I love using [macOS](../macOS/macOS.md) as my personal OS.
+
+And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-managers/nix/nix.md).
+
+[MIT OS Engineering](https://pdos.csail.mit.edu/6.S081/2020/schedule.html) (with [code](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)) & [Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com) courses are great. Many more nice resources can be [found here](https://twitter.com/bradfitz/status/1495066999587627011).
+
+## Interesting OSes
+
+- [MirageOS](https://github.com/mirage/mirage) - Library operating system that constructs unikernels. ([Docs](https://docs.mirage.io/)) ([Docs code](https://github.com/mirage/docs)) ([mirage-solo5](https://github.com/mirage/mirage-solo5)) ([The road ahead for MirageOS in 2021](https://hannes.robur.coop/Posts/NGI)) ([MirageOS 4.0](https://mirage.io/blog/announcing-mirage-40)) ([HN](https://news.ycombinator.com/item?id=30840571)) ([Examples of simple MirageOS apps](https://github.com/mirage/mirage-skeleton))
+- [QubesOS](https://www.qubes-os.org/) - Reasonably secure operating system. ([Lobsters](https://lobste.rs/s/nh3vfk/qubes_os_reasonably_secure_operating))
+- [Plan 9](https://9p.io/plan9/) ([Plan 9 C Compiler for RISC-V](https://www.youtube.com/watch?v=LHJqdXGb0uc)) ([Talk](https://spacepub.space/w/1605f200-ea8a-49e6-a0e5-92f6bc509dbe))
+- [Fuchsia](fuchsia-os.md)
+- [DahliaOS](https://dahliaos.io/) - Modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS. ([GitHub](https://github.com/dahlia-os)) ([HN](https://news.ycombinator.com/item?id=24976732)) ([Pangolin Desktop UI](https://github.com/dahlia-os/pangolin-desktop)) ([ISO releases](https://github.com/dahliaOS/releases))
+- [Redox](https://github.com/redox-os/redox) - Unix-like Operating System written in Rust. ([Web](https://www.redox-os.org/)) ([Kernel Code](https://github.com/redox-os/kernel))
+- [Toddler](https://github.com/zhengruohuang/toddler) - Well-designed usable and portable microkernel OS.
+- [OS67](https://github.com/SilverRainZ/OS67) - Unix-like toy kernel.
+- [SerenityOS](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers. ([Web](http://serenityos.org/)) ([Year 3 in review](https://serenityos.org/happy/3rd/)) ([HN](https://news.ycombinator.com/item?id=28817599)) ([HN](https://news.ycombinator.com/item?id=29270776)) ([Interview with Creator](https://corecursive.com/serenity-os-with-andreas-kling/)) ([HN](https://news.ycombinator.com/item?id=30214371))
+- [Resea](https://github.com/nuta/resea) - Microkernel-based hackable operating system. ([Implementing Resea GUI](https://seiya.me/resea-gui-1-poring-cairo))
+- [Rux](https://github.com/sorpaas/rux) - Hobbyist microkernel written in Rust, featuring a capability-based system similar to seL4.
+- [redshirt](https://github.com/tomaka/redshirt) - Experiment to build some kind of operating-system-like environment where executables are all in WASM and are loaded from an IPFS-like decentralized network.
+- [Spectrum OS](https://spectrum-os.org/) - Declarative, reproducible, compartmentalized Linux. ([Developer manual](https://spectrum-os.org/doc/developer-manual.html)) ([Discussions](https://spectrum-os.org/lists/hyperkitty/list/discuss@spectrum-os.org/)) ([HN](https://news.ycombinator.com/item?id=28530861))
+- [mikado](https://github.com/cavedweller/mikado) - RISC-V Experimental OS.
+- [mkernel](https://github.com/arjun024/mkernel) - Minimalist kernel which prints "my first kernel" on the screen and then hangs. ([HN](https://news.ycombinator.com/item?id=22087701))
+- [Barebones](https://github.com/fwsGonzo/barebones) - Barebones multiboot kernel for beginners.
+- [xv6](https://github.com/mit-pdos/xv6-public) - Re-implementation of Dennis Ritchie's and Ken Thompson's simple, Unix-like teaching operating system. ([PDF](https://pdos.csail.mit.edu/6.828/2020/xv6/book-riscv-rev1.pdf)) ([HN](https://news.ycombinator.com/item?id=22511569)) ([HN](https://news.ycombinator.com/item?id=24567993)) ([Lobsters](https://lobste.rs/s/wwexe9/xv6_simple_unix_like_teaching_operating)) ([xv6 explained](https://github.com/YehudaShapira/xv6-explained))
+- [xv6 for RISC-V](https://github.com/mit-pdos/xv6-riscv)
+- [Orange Slice](https://github.com/gamozolabs/orange_slice) - Research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost.
+- [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - Open source Virtual Machine Monitor (VMM) that runs on top of KVM.
+- [RancherOS](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers.
+- [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket) - Free and open-source Linux-based operating system meant for hosting containers.
+- [XNU kernel](https://github.com/apple/darwin-xnu) - Part of the Darwin operating system for use in macOS and iOS operating systems.
+- [Haiku](https://github.com/haiku/haiku) - Open-source operating system that specifically targets personal computing. ([HN](https://news.ycombinator.com/item?id=23469209)) ([Haiku Community](https://discuss.haiku-os.org/))
+- [Pebble](https://github.com/IsaacWoods/pebble) - Microkernel and userspace written in Rust, with first-class message passing.
+- [seL4 microkernel](https://github.com/seL4/seL4) ([Article](https://microkerneldude.wordpress.com/2020/04/07/the-sel4-foundation-what-and-why/)) ([HN](https://news.ycombinator.com/item?id=22801864)) ([Web](https://sel4.systems/))
+- [Barebones amd64 kernel built using 9front](https://github.com/majiru/barebones9)
+- [RustyHermit](https://github.com/hermitcore/libhermit-rs) - Rust-based, lightweight unikernel.
+- [Distaff](https://github.com/GuildOfWeavers/distaff) - Zero-knowledge virtual machine written in Rust.
+- [zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust.
+- [9front](http://9front.org/) ([Lobsters](https://lobste.rs/s/n5zmtt/9front_plan9_haters_released))
+- [lilith](https://github.com/ffwff/lilith) - POSIX-like x86-64 kernel and userspace written in Crystal.
+- [Genode](https://genode.org/index) - Operating System Framework.
+- [Shrine](https://github.com/minexew/Shrine) - TempleOS distro for heretics.
+- [Subgraph OS](https://subgraph.com/) - Desktop computing and communications platform that is designed to be resistant to network-borne exploit and malware attacks. ([Handbook](https://github.com/subgraph/sgos_handbook))
+- [Mezzano](https://github.com/froggey/Mezzano) - Operating system written in Common Lisp. ([HN](https://news.ycombinator.com/item?id=26051255))
+- [Collapse OS](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology. ([HN](https://news.ycombinator.com/item?id=21182628)) ([Web](http://collapseos.org/))
+- [LegoOS](https://github.com/WukLab/LegoOS) - Disseminated, Distributed OS for Hardware Resource Disaggregation.
+- [CuBitOS](https://github.com/docandrew/CuBit) - General-purpose, formally-verified, 64-bit operating system in SPARK/Ada for x86-64.
+- [Demikernel](https://github.com/demikernel/demikernel) - Library operating system architecture designed for use with kernel-bypass I/O devices.
+- [Drone](https://www.drone-os.com/) - Embedded Operating System for writing real-time applications in Rust. ([drone-core](https://github.com/drone-os/drone-core)) ([CLI](https://github.com/drone-os/drone))
+- [Manticore](https://github.com/manticoreos/manticore) - Research operating system, written in Rust. ([Web](https://manticoreos.io/))
+- [CyanOS](https://github.com/AymenSekhri/CyanOS) - x86 monolithic kernel operating system, coded in C++ 17 and few lines of x86 Assembly.
+- [ChaiOS](https://github.com/ChaiSoft/ChaiOS) - Modular multi-platform hobby OS. Hybrid kernel, largely monolithic. Kernel C library is dynamically linked.
+- [Tails](https://tails.boum.org/) - Portable operating system that protects against surveillance and censorship. ([Intro](https://tilvids.com/videos/watch/44aa73c5-ac76-4b6c-9de3-9b87f9980482))
+- [EmuTOS](https://github.com/emutos/emutos) - Free operating system for Atari ST computers, and more. ([Web](https://emutos.sourceforge.io/))
+- [HalideOS](https://github.com/DSC-KIIT/project-halide) - Experimental operating system written entirely from scratch. It supports a basic shell with some commands including a command line calculator.
+- [Biscuit](https://pdos.csail.mit.edu/projects/biscuit.html) - Monolithic, POSIX-subset operating system kernel in Go. ([HN](https://news.ycombinator.com/item?id=24572370)) ([Code](https://github.com/mit-pdos/biscuit))
+- [illumos](https://illumos.org/) - Unix operating system which provides next-generation features for downstream distributions, including advanced system debugging, next generation filesystem, networking, and virtualization options. ([Rise and Development of illumos](https://www.youtube.com/watch?v=-zRN7XLCRhc)) ([Full disk space on an illumos VM](https://www.mdaverde.com/posts/illumos-full-disk-space/))
+- [Managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O. ([Fully Asynchronous OS Based on Modern C++ - Alexander Grinten (2020)](https://github.com/managarm/managarm))
+- [EggOS](https://github.com/icexin/eggos) - Go unikernel running on x86 bare metal. ([HN](https://news.ycombinator.com/item?id=24856767))
+- [KnightOS](https://github.com/KnightOS/KnightOS) - Third-party operating system for TI calculators.
+- [eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - Teaching operating system written in Rust. ([Web](https://rwth-os.github.io/eduOS-rs/))
+- [Stupid Operating System](https://github.com/sos-os/kernel) - Simple, tiny toy OS implemented in Rust.
+- [Theseus OS](https://github.com/theseus-os/Theseus) - New OS written from scratch in Rust to experiment with novel OS structure, better state management, and how to shift OS responsibilities like resource management into the compiler. ([HN](https://news.ycombinator.com/item?id=25741729))
+- [TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. ([Web](https://templeos.org/)) ([TempleOS on real hardware](https://www.youtube.com/watch?v=ygZNVbBcJ4I))
+- [CactusOS](https://github.com/Remco123/CactusOS) - Simple operating system that is aimed to not be anything like linux.
+- [Zephyr](https://github.com/zephyrproject-rtos/zephyr) - New generation, scalable, optimized, secure RTOS for multiple hardware architectures. ([Docs](https://docs.zephyrproject.org/latest/))
+- [Cosmos](https://github.com/CosmosOS/Cosmos) - Operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more. ([Web](https://www.gocosmos.org/))
+- [MollenOS](https://github.com/Meulengracht/MollenOS) - Modern operating system that is built with focus on abstraction and a modular design.
+- [Azure RTOS ThreadX](https://github.com/azure-rtos/threadx) - Advanced real-time operating system (RTOS) is designed specifically for deeply embedded applications.
+- [HelenOS](https://github.com/HelenOS/helenos) - Portable microkernel-based multiserver operating system written from scratch. ([Web](http://www.helenos.org/))
+- [Pure Rust x86_64 bootloader and kernel](https://github.com/gamozolabs/chocolate_milk)
+- [bootloader](https://github.com/rust-osdev/bootloader) - Experimental x86 bootloader written in Rust and inline assembly.
+- [Cyjon](https://github.com/Blackend/Cyjon) - Simple, clean, multi-tasking operating system written in pure assembly language for 64-bit processors from the AMD64 family.
+- [Contiki](https://github.com/contiki-os/contiki) - Open source operating system that runs on tiny low-power microcontrollers.
+- [OSv](http://osv.io/) - Modular unikernel designed to run applications securely on micro-VMs . ([Code](https://github.com/cloudius-systems/osv)) ([HN](https://news.ycombinator.com/item?id=25397525)) ([HN 2](https://news.ycombinator.com/item?id=25405672))
+- [Rumprun](https://github.com/rumpkernel/rumprun) - Uses rump kernels to provide the Rumprun unikernel. Rumprun works on not only on hypervisors such as KVM and Xen, but also on bare metal.
+- [Rump Kernels](http://rumpkernel.org/) - Enable you to build the software stack you need without forcing you to reinvent the wheels.
+- [mOS](https://github.com/MQuy/mos) - Unix-like operating system developed from scratch and aims to POSIX compliant.
+- [pdp7-unix](https://github.com/DoctorWkt/pdp7-unix) - Project to resurrect Unix on the PDP-7 from a scan of the original assembly code.
+- [core-os-riscv](https://github.com/skyzh/core-os-riscv) - xv6-like operating system on RISC-V with multi-core support.
+- [rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
+- [dgOS](https://github.com/doug65536/dgos)
+- [Eltanin](https://eltan.in.net/) - Free, simple, and complete general-purpose operating system.
+- [skiftOS](https://github.com/skiftOS/skift) - Simple, handmade, operating system with a graphical user interface. ([Web](https://skiftos.org/))
+- [ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more. ([HN](https://news.ycombinator.com/item?id=25779930))
+- [Pluto](https://github.com/ZystemOS/pluto) - x86 kernel written in Zig.
+- [LeOS Kernel](https://github.com/lowenware/leos-kernel) - Kernel project for operating system for ARM 64bit (AArch64) written in Rust. ([Web](https://lowenware.com/leos/))
+- [RustyHermit](https://github.com/hermitcore/rusty-hermit) - Rust-based, lightweight unikernel. ([Article](https://rust-osdev.com/showcase/rusty-hermit/))
+- [Jehanne](https://github.com/JehanneOS/jehanne) - Simple operating system. ([Web](http://jehanne.io/pages/overview.html))
+- [Mimosa](https://github.com/udem-dlteam/mimosa) - Operating system consists of a minimal kernel built on C++ and Scheme.
+- [daintree](https://github.com/kivikakk/daintree) - ARMv8-A operating system, plus a UEFI bootloader, all written in Zig.
+- [AROS](http://www.aros.org/) - Lightweight, efficient, and flexible desktop operating system. ([HN](https://news.ycombinator.com/item?id=26250504))
+- [M3](https://github.com/TUD-OS/M3) - Microkernel-based system for heterogeneous manycores.
+- [vanadinite](https://github.com/repnop/vanadinite) - RISC-V OS written in Rust.
+- [Tetris-OS](https://github.com/jdah/tetris-os) - Operating system that only plays Tetris. ([HN](https://news.ycombinator.com/item?id=26883645)) ([Video](https://www.youtube.com/watch?v=FaILnmUYS_U))
+- [Helium](https://github.com/mszoek/helium) - BSD-based OS project that aims to provide an experience like and some compatibility with macOS.
+- [Harvey](https://github.com/Harvey-OS/harvey) - Distributed operating system. ([Web](https://harvey-os.org/))
+- [TypOS](https://github.com/msp-strath/TypOS) - Operating system for typechecking processes.
+- [KolibriOS](http://www.kolibrios.org/en/) - Tiny yet incredibly powerful and fast operating system. ([HN](https://news.ycombinator.com/item?id=27249075))
+- [Kerla](https://github.com/nuta/kerla) - Monolithic kernel in Rust, aiming for Linux ABI compatibility. ([HN](https://news.ycombinator.com/item?id=28986229)) ([Writing a Linux-compatible kernel in Rust](https://seiya.me/writing-linux-clone-in-rust)) ([HN](https://news.ycombinator.com/item?id=28997668)) ([Lobsters](https://lobste.rs/s/axeb5x/nuta_kerla_new_operating_system_kernel))
+- [rustboot](https://github.com/haileysome/rustboot) - Tiny 32 bit kernel written in Rust.
+- [mycelium](https://github.com/hawkw/mycelium) - Hobby OS in Rust.
+- [WINIX OS](https://github.com/halfer53/winix) - UNIX-style Operating System for the Waikato RISC Architecture Microprocessor. ([HN](https://news.ycombinator.com/item?id=27647079))
+- [Aquila OS](https://github.com/thethumbler/Aquila) - Complete Operating System (kernel + system) that is designed to be POSIX compliant and mostly ISA transparent. ([Web](https://aquilaos.com/))
+- [FuzixOS](https://github.com/EtchedPixels/FUZIX) - Because Small Is Beautiful.
+- [Mongoose](https://hg.sr.ht/~icefox/mongoose/) - Small toy OS with no memory protection. ([Lobsters](https://lobste.rs/s/4kv3qc/mongoose_small_toy_os_with_no_memory))
+- [Node Replicated Kernel](https://github.com/vmware-labs/node-replicated-kernel) - Research OS kernel for x86-64 (amd64) machines written in rust. ([Web](https://nrkernel.systems/)) ([Book](https://nrkernel.systems/book/))
+- [Multics](https://multicians.org/) - Pioneering operating system, commonly considered the "progenitor" of the UNIX operating system. ([Code](https://github.com/dancrossnyc/multics))
+- [Tilck](https://github.com/vvaltchev/tilck) - Tiny Linux-Compatible Kernel.
+- [Airyx OS](http://airyx.org/) - BSD-based OS project that aims to provide an experience like and some compatibility with macOS. ([Code](https://github.com/mszoek/airyx)) ([HN](https://news.ycombinator.com/item?id=28068542)) ([Lobsters](https://lobste.rs/s/jsvcu3/airyx_os)) ([HN](https://news.ycombinator.com/item?id=28087092))
+- [Lemon OS](https://lemonos.org/) - UNIX-like 64-bit operating system written in C++. ([Code](https://github.com/LemonOSProject/LemonOS))
+- [Pumpkin OS](https://pmig96.wordpress.com/2021/09/08/pumpkin-os/) - x64 port/re-implementation of PalmOS. ([Lobsters](https://lobste.rs/s/m8mhb1/pumpkin_os))
+- [SteinsOS](https://github.com/0x59616e/SteinsOS) - Operating system featuring non-preemptive single-threaded kernel targeting on armv8.
+- [EmbassyOS](https://github.com/Start9Labs/embassy-os) - Graphical operating system for running self-hosted software. ([Web](https://start9.com/))
+- [Singularity](https://codingkaiser.blog/2021/07/23/operating-systems-are-more-exciting-than-you-think/) - Microsoft’s Experimental OS. ([HN](https://news.ycombinator.com/item?id=28816876))
+- [Tupai Kernel](https://github.com/tupai-os/kernel)
+- [Deus](https://github.com/tupai-os/deus) - Portable kernel written in Rust.
+- [Funk](https://github.com/smimram/funk) - Functional kernel written in OCaml.
+- [liumOS](https://github.com/hikalium/liumos) - Toy operating system which supports NVDIMM natively.
+- [Tofita](https://github.com/GreenteaOS/Tofita) - All-new kernel for the Greentea OS.
+- [RISC-V OS in Rust](https://github.com/sgmarz/osblog)
+- [RedLeaf](https://github.com/mars-research/redleaf) - Research operating system developed from scratch in Rust to explore the impact of language safety on operating system organization.
+- [Kwast](https://github.com/kwast-os/kwast) - Rust operating system running WebAssembly as userspace in ring 0.
+- [seL4 Core Platform](https://github.com/BreakawayConsulting/sel4cp) - Simple operating system for the seL4 microkernel.
+- [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) - Operating system targeting x86 and ARMv7.
+- [Genesis](https://github.com/abhaynayar/genesis) - Minimal OS written in Jack.
+- [Nanos](https://nanos.org/) - Kernel designed to run only one application in virtualized environment. ([HN](https://news.ycombinator.com/item?id=29429489)) ([Code](https://github.com/nanovms/nanos))
+- [ZealOS](https://github.com/Zeal-Operating-System/ZealOS) - Modernized, professional fork of the 64-bit Temple Operating System.
+- [GrapheneOS](https://grapheneos.org/) - Private and secure mobile OS. ([GitHub](https://github.com/GrapheneOS))
+- [Florence OS](https://github.com/FlorenceOS/Florence) - Renaissance of Operating Systems in Zig.
+- [BRUTAL](https://brutal.smnx.sh/) - Operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering. ([Code](https://github.com/brutal-org/brutal))
+- [Embox](https://github.com/embox/embox) - Modular and configurable OS for embedded applications.
+- [TinyOS](https://github.com/tinyos/tinyos-main) - Open source, BSD-licensed operating system designed for low-power wireless devices.
+- [ZygOS](https://github.com/ix-project/zygos) - Achieving Low Tail Latency for Microsecond-scale Networked Tasks.
+- [IX](https://github.com/ix-project/ix) - Protected dataplane operating system project. ([Web](http://ix-project.github.io/ix/))
+- [Minimal bare metal kernel in Swift](https://github.com/spevans/swift-project1)
+- [Cleese](https://github.com/jtauber/cleese) - Functioning operating system written almost entirely in Python.
+- [Tifflin](https://github.com/thepowersgang/rust_os) - OS kernel written in rust. Non POSIX.
+- [Vinix](https://github.com/vlang/vinix) - Modern, fast, and useful operating system in the V programming language.
+- [Aero](https://github.com/Andy-Python-Programmer/aero) - Experimental, Unix-like OS written in Rust.
+- [MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system optimized for E Ink displays.
+- [Essence](https://nakst.gitlab.io/essence) - Desktop operating system built from scratch. ([HN](https://news.ycombinator.com/item?id=29950740)) ([Code](https://gitlab.com/nakst/essence))
+- [Twizzler](https://github.com/twizzler-operating-system/twizzler) - Research operating system designed to explore novel programming models for new memory hierarchy designs.
+- [Phantom](https://github.com/dzavalishin/phantomuserland) - Persistent Operating System. ([HN](https://news.ycombinator.com/item?id=30283864))
+- [xv7](https://github.com/imtsuki/xv7) - Operating System in 100% Pure Rust.
+- [gokvm](https://github.com/bobuhiro11/gokvm) - KVM based tiny x86 hypervisor written in pure Go, which can boot Linux.
+- [rkernel](https://github.com/littledivy/rkernel) - Minimal x86_64 Rust OS kernel.
+- [ValkyrieOS](https://github.com/aesophor/valkyrie) - UNIX-like hobby kernel built from scratch in C++20.
+- [etheryal Kernel](https://github.com/etheryalOS/etheryal-kernel) - Open Source Rust kernel; Runs WASM and WASI as lightweight containers.
+- [Stardust Oxide](https://github.com/StardustOS/stardust-oxide) - Rust-based Unikernel. ([Reddit](https://www.reddit.com/r/rust/comments/ta85iy/stardust_oxide_i_wrote_a_unikernel_in_rust_for_my/))
+- [Lua RTOS](https://github.com/whitecatboard/Lua-RTOS-ESP32) - Real-time operating system designed to run on embedded systems, with minimal requirements of FLASH and RAM memory.
+- [Inferno](https://www.vitanuova.com/inferno/) - Small operating system for building cross platform distributed systems. ([HN](https://news.ycombinator.com/item?id=30714509))
+- [Makatea](https://trustworthy.systems/projects/TS/makatea) - Qubes-like OS on seL4.
+- [MOROS](https://github.com/vinc/moros) - Obscure Rust Operating System.
+- [House](https://github.com/dls/house) - Haskell Operating System. ([Video](https://www.youtube.com/watch?v=ZXGQL-qkNWY))
+- [Zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig.
+- [My first OS built from scratch](https://github.com/ilobilo/kernel)
+
+## Notes
+
+- [Kernels are virtual machines and we write far better systems when we’re aware of what the VM underneath our programs is going to do to translate our use of memory, files, sockets and threads into things that happen in hardware](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)
+- [We have moved away from a world of shared libraries, filesystems, and UNIX users and permissions into a world of shared-nothing (no shared memory, no shared filesystem), capabilities, new and extremely aggressive attack vectors, and a need to compartmentalize and virtualize at more fundamental layers even if it comes at a performance penalty. You can't retrofit a microkernel-like abstraction on top of Linux. At the same time, a lot of the features you need for a shared multi-user system are basically cruft for modern mobile, single-user systems with little use for shared resources (not saying they're not shared; it's just that you can no longer trust apps installed in the user system so expecting apps to behave nicely is out of the window). The new wave of OSes embraces formal correctness when possible, JIT, garbage-collected application programming languages, tightly-enforced resource boundaries, deny-by-default security models, provably-safe system programming languages (Rust and whatever else will come), immutability and copy-on-write at the cost of filesystem space, and secure memory abstractions for more RAM.](https://news.ycombinator.com/item?id=27280567)
+- [The modern operating system only implemented 2 metaphors for builders to extend: the file and the application. What if they also implemented “event”, “place”, “person”, “feed” abstractly: letting tools that the user invites into their life collaboratively extend those core connected metaphors as well?](https://twitter.com/adamtowerz/status/1443505907208392707)
+
+## Links
+
+- [Introduction to Operating Systems](http://pages.cs.wisc.edu/~bart/537/lecturenotes/titlepage.html)
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) ([HN](https://news.ycombinator.com/item?id=26051386))
+- [mirageOS](https://mirage.io/) - A programming framework for building type-safe, modular systems. ([Web Code](https://github.com/mirage/mirage-www))
+- [OS Dev](https://wiki.osdev.org/Main_Page) ([Tutorials](https://wiki.osdev.org/Tutorials)) ([Beginner Mistakes](https://wiki.osdev.org/Beginner_Mistakes))
+- [Raspberry Pi OS](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi.
+- [Create OS from scratch](https://github.com/cfenollosa/os-tutorial)
+- [How to Make a Computer Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) ([Code](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System))
+- [Plan 9 from User Space](https://github.com/9fans/plan9port) - Port of many Plan 9 libraries and programs to Unix.
+- [Plan 9 from Bell Labs (1995)](https://css.csail.mit.edu/6.824/2014/papers/plan9.pdf)
+- [Unik](https://github.com/solo-io/unik) - Unikernel & MicroVM Compilation and Deployment Platform.
+- [SPDK](https://spdk.io/) - Storage Performance Development Kit Provides a set of tools and libraries for writing high performance, scalable, user-mode storage applications.
+- [Writing an OS in Rust](https://os.phil-opp.com/) ([Code](https://github.com/phil-opp/blog_os)) ([Code](https://github.com/emk/toyos-rs)) ([SnakeOS](https://github.com/trusch/snakeos))
+- [intermezzOS kernel](https://github.com/intermezzOS/kernel) - Hobby operating system, in Rust.
+- [The intermezzOS book](http://intermezzos.github.io/book/) ([Code](https://github.com/intermezzOS/book))
+- [Write your own Operating System (2017)](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
+- [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch. A book for self-learner. ([Code](https://github.com/tuhdo/os01))
+- [Introducing Mercury OS (2019)](https://medium.com/@jasonyuan/introducing-mercury-os-f4de45a04289)
+- [BootOS](https://github.com/nanochess/bootOS) - Monolithic operating system in 512 bytes of x86 machine code. ([HN](https://news.ycombinator.com/item?id=20569438))
+- [Ask HN: Recommended resources to learn the Linux kernel and OS theory? (2019)](https://news.ycombinator.com/item?id=20809666)
+- [Soso](https://github.com/ozkl/soso) - Simple unix-like operating system written in Nasm assembly and mostly in C.
+- [swieros](https://github.com/rswier/swieros) - Tiny and fast Unix-ish kernel (based on xv6), compiler, and userland for fun, education, and research.
+- [A dream of an ultimate OS (1995)](http://okmij.org/ftp/papers/DreamOSPaper.html) ([HN](https://news.ycombinator.com/item?id=20754592))
+- [Input/Output Subsystem in Singularity Operating System (2011)](http://students.mimuw.edu.pl/~md234040/master.pdf)
+- [Commute talk: How to start building an OS? (2019)](https://www.youtube.com/watch?v=fqllFKjEZAo)
+- [Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com) ([HN](https://news.ycombinator.com/item?id=21446079))
+- [Mu: Sketching out a minimal system programming language (2019)](http://akkartik.name/post/mu-2019-2) ([Lobsters](https://lobste.rs/s/e39f2x/mu_sketching_out_minimal_system))
+- [ioping](https://github.com/koct9i/ioping) - Simple disk I/0 latency measuring tool.
+- [Awesome eBPF](https://github.com/zoidbergwill/awesome-ebpf) - BPF, as in Berkeley Packet Filter, is an in-kernel virtual machine running programs passed from user space.
+- [What are required knowledge in order to build an OS? (2020)](https://www.reddit.com/r/osdev/comments/egzwa0/what_are_required_knowledge_in_order_to_build_an/)
+- [Krabs](https://github.com/ellbrid/krabs) - x86 bootloader written in Rust.
+- [oreboot](https://github.com/oreboot/oreboot) - Fork of coreboot, with C removed, written in Rust.
+- [MIT Operating Systems Engineering course using RISC-V (2020)](https://pdos.csail.mit.edu/6.828/2020/schedule.html)
+- [fectl](https://github.com/fafhrd91/fectl) - Client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems.
+- [1001 Ways of Implementing a System Call (2019)](https://x86.lol/generic/2019/07/04/kernel-entry.html)
+- [How I Switched To Plan 9 (2019)](http://helpful.cat-v.org/Blog/2019/12/03/0/)
+- [Operating Systems course notes (2013)](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
+- [Computer Simulation and History](http://simh.trailing-edge.com/) ([Code](https://github.com/simh/simh))
+- [HiddenVM](https://github.com/aforensics/HiddenVM) - Use any desktop OS without leaving a trace.
+- [Programmer's critique of missing structure of operating systems (2020)](http://blog.rfox.eu/en/Programmer_s_critique_of_missing_structure_of_oper.html)
+- [LeetCode OS Questions](https://leetcode.com/discuss/interview-question/operating-system?currentPage=1&orderBy=most_votes&query=)
+- [DLS: Functional Foundations for Operating Systems course (2018)](https://blogs.cs.st-andrews.ac.uk/csblog/2018/01/24/dls-functional-foundations-for-operating-systems/)
+- [System Programming course](http://cs241.cs.illinois.edu/coursebook/) - High-quality, open-source introductory systems programming textbook. ([Code](https://github.com/illinois-cs241/coursebook))
+- [Green Threads Explained in Rust](https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/) ([Code](https://github.com/cfsamson/example-greenthreads)) ([Reddit](https://www.reddit.com/r/rust/comments/bzp0cz/green_threads_explained_in_200_lines_of_rust/))
+- [Solo5](https://github.com/Solo5/solo5) - Sandboxed execution environment for unikernels.
+- [Mbox](https://pdos.csail.mit.edu/archive/mbox/) - Lightweight sandboxing mechanism that any user can use without special privileges in commodity operating systems. ([Code](https://github.com/tsgates/mbox))
+- [Awesome Plan9](https://github.com/henesy/awesome-plan9)
+- [Albatross](https://github.com/hannesm/albatross) - Orchestrate and manage MirageOS unikernels with Solo5.
+- [Design of Operating Systems Course (2020)](https://tc.gts3.org/cs3210/2020/spring/info.html) - Using RustOS. ([Lab](https://tc.gts3.org/cs3210/2020/spring/lab.html)) ([Code](https://github.com/sslab-gatech/cs3210-rustos-public))
+- [Little book about OS development](https://littleosbook.github.io/) ([Code](https://github.com/cstack/osdev))
+- [Green Threads Explained](https://c9x.me/articles/gthreads/intro.html) ([HN](https://news.ycombinator.com/item?id=14439615))
+- [Fibers under the magnifying glass (2018)](http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
+- [Notes on the Plan 9 3rd Edition Kernel Source](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.5409&rep=rep1&type=pdf) ([Lobsters](https://lobste.rs/s/tnm3rc/notes_on_plan_9_3rd_edition_kernel_source))
+- [Tutorial - Write a System Call (2016)](https://brennan.io/2016/11/14/kernel-dev-ep3/)
+- [Zub VM](https://github.com/nilq/zub-vm) - Super-fast, stack-based virtual machine for dynamic languages.
+- [Genode Operating System Framework Foundations](https://genode.org/documentation/genode-foundations-20-05.pdf)
+- [The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language (2019)](https://pdos.csail.mit.edu/papers/biscuit:thesis.pdf)
+- [Sol — a sunny little virtual machine (2012)](https://rsms.me/sol-a-sunny-little-virtual-machine) ([HN](https://news.ycombinator.com/item?id=23437511))
+- [OS Development Tutorials](http://www.osdever.net/tutorials/)
+- [Bran's Kernel Development Tutorial](http://www.osdever.net/bkerndev/Docs/intro.htm)
+- [Modern Operating Systems 3rd edition book](http://stst.elia.pub.ro/news/SO/Modern%20Operating%20System%20-%20Tanenbaum.pdf) - 4th edition available too.
+- [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/) ([HN](https://news.ycombinator.com/item?id=23611081))
+- [The OS Classics (2020)](https://www.allthingsdistributed.com/2020/07/the-os-classics.html)
+- [Operating System Design: The Xinu Approach](https://xinu.cs.purdue.edu/)
+- [Operating Systems Design & Implementation MINIX Book](<http://index-of.es/EBooks/Operating%20Systems%20Design%20&%20Implementation%203rd%20Edition(1).pdf>)
+- [The Evolution and Future of Hypervisors (2017)](https://medium.com/@penberg/the-evolution-and-future-of-hypervisors-999f568f9a5d)
+- [A Text-Based Desktop Environment](https://vtm.netxs.online/) ([HN](https://news.ycombinator.com/item?id=24243521)) ([Code](https://github.com/netxs-group/VTM))
+- [Tales of the Tail: Hardware, OS, and Application-level Sources of Tail Latency](https://syslab.cs.washington.edu/papers/latency-socc14.pdf)
+- [Beginner resource for OSdev](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+- [SBTCVM (Simple Balanced Ternary Computer Virtual Machine)](https://sbtcvm.blogspot.com/) - Project focused on providing virtual machines based around balanced ternary computers.
+- [The Cost of Software-Based Memory Management Without Virtual Memory (2020)](https://arxiv.org/pdf/2009.06789.pdf) ([Tweet](https://twitter.com/AndrewCMyers/status/1306057485741109258)) ([HN](https://news.ycombinator.com/item?id=24503773))
+- [Writing an x86 bootloader in Rust that can launch vmlinux](https://vmm.dev/en/rust/krabs.md) ([HN](https://news.ycombinator.com/item?id=24514100))
+- [From Zero to main(): How to Write a Bootloader from Scratch (2020)](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch) ([HN](https://news.ycombinator.com/item?id=24635383))
+- [SerenityOS: The second year (2020)](http://serenityos.org/happy/2nd/) ([Lobsters](https://lobste.rs/s/rkx214/serenityos_second_year))
+- [OSDI '21 Call for Papers](https://www.usenix.org/conference/osdi21/call-for-papers)
+- [Tibru](https://github.com/tibru/tibru) - Alternative to the nonsense that is the Urbit project. ([Lobsters](https://lobste.rs/s/klltdm/tibru_tibru_alternative_nonsense_is))
+- [Re-Thinking the Desktop OS (2020)](https://twitter.com/patrickc/status/1316475471203360769) ([HN](https://news.ycombinator.com/item?id=24783387))
+- [Why mmap is faster than system calls (2019)](https://medium.com/@sasha_f/why-mmap-is-faster-than-system-calls-24718e75ab37)
+- [Brief Retrospective on the Sprite Network Operating System](https://web.stanford.edu/~ouster/cgi-bin/spriteRetrospective.php)
+- [CS 140: Operating Systems course (2020)](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php)
+- [Tarides](https://tarides.com/) - Building functional systems. Commercial support on MirageOS and Irmin.
+- [Return to Plan 9 (2020)](https://boxbase.org/entries/2020/nov/1/return-to-plan9/)
+- [Programs are a prison: Rethinking the building blocks of computing interfaces](https://djrobstep.com/posts/programs-are-a-prison) ([HN](https://news.ycombinator.com/item?id=24999103))
+- [POSIX write() is not atomic in the way that you might like (2020)](https://utcc.utoronto.ca/~cks/space/blog/unix/WriteNotVeryAtomic)
+- [Guided linking: dynamic linking without the costs (2020)](https://dl.acm.org/doi/abs/10.1145/3428213)
+- [Awesome Operating System Stuff](https://github.com/jubalh/awesome-os)
+- [Awesome Operating Systems](https://github.com/penberg/awesome-os)
+- [Lobsters: What should a new OS have? (2020)](https://lobste.rs/s/jr4crd/what_should_new_os_have)
+- [16-Bit Virtual Machine in JavaScript (2020)](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b) ([Code](https://github.com/LowLevelJavaScript/16-Bit-Virtual-Machine))
+- [Jonathan Blow on how an operating system should work (2020)](https://www.youtube.com/watch?v=k0uE_chSnV8)
+- [Systems with JT - YouTube](https://www.youtube.com/user/giard321) - YouTube channel doing first impression reviews of amateur operating systems.
+- [Vulnerable Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - WIP "Vulnerable by Design" kext for iOS/macOS to play & learn OS kernel exploitation. ([Web](https://fuzzing.science/vulnerable-kext/))
+- [RVM 1.5](https://github.com/rcore-os/RVM1.5) - Type-1.5 hypervisor written in Rust.
+- [OpenRC](https://github.com/OpenRC/openrc) - Dependency-based init system that works with the system-provided init program, normally /sbin/init.
+- [Examples of OS / system limits](https://github.com/lorin/awesome-limits)
+- [Think OS](http://greenteapress.com/thinkos/) - Brief Introduction to Operating Systems. ([Code](https://github.com/AllenDowney/ThinkOS))
+- [Rust OSDev](https://rust-osdev.com/) - Operating System Development in Rust. ([GitHub](https://github.com/rust-osdev))
+- [Martian Computing Course](https://davis68.github.io/martian-computing/) - Explain and navigate the technical layout of Urbit OS. ([Code](https://github.com/davis68/martian-computing)) ([Lobsters](https://lobste.rs/s/6fddwp/cs_498mc_martian_computing))
+- [Roll your own toy UNIX-clone OS](http://www.jamesmolloy.co.uk/tutorial_html/) ([Known Bugs](https://wiki.osdev.org/James_Molloy's_Tutorial_Known_Bugs))
+- [Awesome Virtualization](https://github.com/Wenzel/awesome-virtualization) - Curated list of awesome resources about virtualization.
+- [pyvmidbg](https://github.com/Wenzel/pyvmidbg) - LibVMI-based GDB server, implemented in Python.
+- [libmicrovmi](https://github.com/Wenzel/libmicrovmi) - Cross-platform unified interface on top of hypervisor's VMI APIs.
+- [crosvm](https://github.com/dgreid/crosvm) - Chrome OS Virtual Machine Monitor.
+- [DTB parser implementing notes (2021)](https://kivikakk.ee/2021/02/13/dtb-parser-implementing-notes/)
+- [SerenityOS - Writing a full chain exploit (2021)](https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html)
+- [I quit my job to focus on SerenityOS full time (2021)](https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/) ([HN](https://news.ycombinator.com/item?id=27317655)) ([Lobsters](https://lobste.rs/s/lsumm4/i_quit_my_job_focus_on_serenityos_full_time))
+- [Write Your Own 64-bit Operating System Kernel From Scratch](https://github.com/davidcallanan/os-series)
+- [Rust VM](https://github.com/atul-g/rust_vm) - Virtual Machine written in Rust to emulate the LC3 computer (Little Computer 3).
+- [What are Ring 0 and Ring 3 in the context of operating systems?](https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-the-context-of-operating-systems)
+- [User mode VS Kernel mode (2017)](https://medium.com/@SagiDana/kernel-mode-vs-user-mode-784a5b1f4911)
+- [Domain/OS Design Principles (1989)](http://bitsavers.org/pdf/apollo/014962-A00_Domain_OS_Design_Principles_Jan89.pdf)
+- [Build your own: linker in Rust](https://github.com/andrewhalle/byo-linker) ([Reddit](https://www.reddit.com/r/rust/comments/mdtsk5/build_your_own_linker/))
+- [The Distributed Operating System Void with Kubernetes (2021)](https://nivenly.com/lib/2021-04-02-operating-system-interface/) ([Reddit](https://www.reddit.com/r/kubernetes/comments/miw0og/the_distributed_operating_system_void_with/))
+- [Microkernel.info](http://www.microkernel.info/) - List of active free, open source microkernel projects.
+- [Fish in a Barrel: an insider’s retrospective of the SOSP’09 multikernel paper (2021)](https://www.sigops.org/2021/fish-in-a-barrel-an-insiders-retrospective-of-the-sosp09-multikernel-paper/)
+- [QEMU internals](https://airbus-seclab.github.io/qemu_blog/) ([Code](https://github.com/airbus-seclab/qemu_blog)) ([HN](https://news.ycombinator.com/item?id=26941744))
+- [Unikraft: Fast, Specialized Unikernels the Easy Way (2021)](https://arxiv.org/abs/2104.12721) ([HN](https://news.ycombinator.com/item?id=26954547))
+- [Torvalds: Shared libraries are not a good thing in general (2021)](https://lore.kernel.org/lkml/CAHk-=whs8QZf3YnifdLv57+FhBi5_WeNTG1B-suOES=RcUSmQg@mail.gmail.com/) ([HN](https://news.ycombinator.com/item?id=27009044))
+- [Sigil OS post-mortem report](https://portal.mozz.us/gemini/gemini.spam.works/~emery/devlog/sigil-report.gmi) ([Lobsters](https://lobste.rs/s/fwlxjd/sigil_os_post_mortem_report))
+- [Loose ideas for operating systems (2021)](https://sporks.space/2021/05/09/loose-ideas-for-operating-systems/)
+- [An Incremental Path Towards a Safer OS Kernel (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s09-li.pdf)
+- [Urbit: The good, the bad, and the insane (2021)](https://wejn.org/2021/02/urbit-good-bad-insane/) ([HN](https://news.ycombinator.com/item?id=27268462)) ([Lobsters](https://lobste.rs/s/prlffn/urbit_good_bad_insane))
+- [Overview: Capability Computation](http://www.erights.org/elib/capability/overview.html)
+- [Ask HN: How are you using unikernels? (2021)](https://news.ycombinator.com/item?id=27301210)
+- [Sudo](https://github.com/sudo-project/sudo) - Program designed to allow a sysadmin to give limited root privileges to users and log root activity.
+- [I wrote a linker everyone can understand (2021)](https://briancallahan.net/blog/20210609.html) ([HN](https://news.ycombinator.com/item?id=27444647))
+- [The Wrong Way to Switch Operating Systems on Your Server (2021)](https://figbert.com/posts/wrong-way-to-switch-server-os/) ([Lobsters](https://lobste.rs/s/ofcfbq/wrong_way_switch_operating_systems_on))
+- [Programming thought experiment: stuck in a room with a PC without an OS](https://www.reddit.com/r/programming/comments/9x15g/programming_thought_experiment_stuck_in_a_room/c0ewj2c/)
+- [x86 Bare Metal Examples](https://github.com/cirosantilli/x86-bare-metal-examples) - Minimal operating systems, learn x86 system programming. ([HN](https://news.ycombinator.com/item?id=27654257))
+- [iceoryx](https://github.com/eclipse-iceoryx/iceoryx) - Inter-process-communication middleware that enables virtually limitless data transmissions at constant time. ([Web](https://iceoryx.io/v1.0.1/))
+- [Operating Systems Notes (2010)](https://andrewharvey4.wordpress.com/2010/07/31/operating-systems-notes/)
+- [uhyve](https://github.com/hermitcore/uhyve) - Minimal hypervisor for RustyHermit.
+- [Guix: A most advanced operating system](https://ambrevar.xyz/guix-advance/) ([HN](https://news.ycombinator.com/item?id=28239410))
+- [Let's build an LC-3 Virtual Machine (2021)](https://www.rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/)
+- [The operating system: should there be one?](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.715.9197&rep=rep1&type=pdf) ([HN](https://news.ycombinator.com/item?id=28440490))
+- [MIT CSAIL Parallel and Distributed Operating Systems Group](https://pdos.csail.mit.edu/) ([GitHub](https://github.com/mit-pdos))
+- [NOVA Microhypervisor](http://hypervisor.org/) - Microhypervisor combines microkernel and hypervisor functionality and provides an extremely small trusted computing base for user applications and virtual machines running on top of it. ([Code](https://github.com/udosteinberg/NOVA))
+- [We need to reinvent our OSes (2021)](https://twitter.com/_adamwiggins_/status/1443855384859582464)
+- ["Static Linking Considered Harmful" Considered Harmful](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/) ([Lobsters](https://lobste.rs/s/gzna8a/static_linking_considered_harmful)) ([HN](https://news.ycombinator.com/item?id=28736238))
+- [Synthesis: An efficient implementation of fundamental operating system services (1992)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.4871&rep=rep1&type=pdf) ([Review](https://www.youtube.com/watch?v=2a5UpBGcJDw))
+- [Urbit](https://github.com/urbit/urbit) - Personal server stack built from scratch. It has an identity layer (Azimuth), virtual machine (Vere), and operating system (Arvo). ([Web](https://urbit.org/)) ([HN](https://news.ycombinator.com/item?id=28742537))
+- [Plan 9 Desktop Guide](https://pspodcasting.net/dan/blog/2019/plan9_desktop.html) ([Lobsters](https://lobste.rs/s/rgch76/plan_9_desktop_guide)) ([HN](https://news.ycombinator.com/item?id=28745148))
+- [Writing a “bare metal” operating system for Raspberry Pi 4](https://www.rpi4os.com/) ([Code](https://github.com/isometimes/rpi4-osdev)) ([HN](https://news.ycombinator.com/item?id=28774022))
+- [OSv Unikernel — Optimizing Guest OS to Run Stateless and Serverless Apps in the Cloud (2021)](https://www.p99conf.io/session/osv-unikernel-optimizing-guest-os-to-run-stateless-and-serverless-apps-in-the-cloud/) ([HN](https://news.ycombinator.com/item?id=28812305))
+- [Bootstrapping a kernel with UEFI using Zig](https://github.com/stakach/uefi-bootstrap)
+- [xsys](https://github.com/rsms/xsys) - Well-defined system API for abstracting the OS platform.
+- [pylddwrap](https://github.com/Parquery/pylddwrap) - Python 3 wrapper around ldd \*nix utility to determine shared libraries of a program.
+- [Pilot: An Operating System for a Personal Computer (1980)](https://courses.cs.washington.edu/courses/cse550/20au/papers/CSE550.Pilot.pdf) ([HN](https://news.ycombinator.com/item?id=28920913))
+- [Rust OS comparison](https://github.com/flosse/rust-os-comparison) - Comparison of operating systems written in Rust.
+- [OS synchronization techniques resources (2021)](https://twitter.com/johnregehr/status/1451355617583460355)
+- [Signals and Threads | What is an Operating System? (2021)](https://signalsandthreads.com/what-is-an-operating-system/)
+- [A fork() in the road (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
+- [Make It Go Faster! How We Sped Up OS Provisioning On Bare Metal at Scale (2021)](https://metal.equinix.com/blog/make-it-go-faster-how-we-sped-up-os-provisioning-on-bare-metal-at-scale/)
+- [Why not to whitelist operating system user agents (2021)](https://www.neelc.org/posts/chase-how-not-to-design-a-website/) ([HN](https://news.ycombinator.com/item?id=29224182))
+- [The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems (2021)](https://www.micahlerner.com/2021/11/09/the-demikernel-datapath-os-architecture-for-microsecond-scale-datacenter-systems.html)
+- [TinyLFU: A Highly Efficient Cache Admission Policy (2015)](https://arxiv.org/abs/1512.00727)
+- [Comparison of Operating System Complexity (2020)](https://pspodcasting.net/dan/blog/2020/complexity.pdf) ([HN](https://news.ycombinator.com/item?id=29362274))
+- [Virtual Machine Showdown: Stack Versus Registers (2005)](https://www.usenix.org/legacy/events%2Fvee05%2Ffull_papers/p153-yunhe.pdf)
+- [OPS](https://github.com/nanovms/ops) - Build and run nanos unikernels.
+- [The big idea around unikernels (2021)](https://changelog.com/posts/the-big-idea-around-unikernels) ([HN](https://news.ycombinator.com/item?id=29427449))
+- [MicroV](https://github.com/Bareflank/MicroV) - Micro hypervisor for running micro VMs.
+- [Bootloader exploration](https://github.com/eatonphil/bootloaders)
+- [boxen](https://github.com/carlmontanari/boxen) - Put your network operating systems in a box.
+- [awesome OS](https://github.com/zriyans/awesome-OS)
+- [The World of Vintage Operating Systems](https://winworldpc.com/library/operating-systems) ([HN](https://news.ycombinator.com/item?id=29781325))
+- [MiniVM](https://github.com/FastVM/minivm) - Zero-dependency cross-language runtime on par with LuaJIT and C. ([HN](https://news.ycombinator.com/item?id=29850562))
+- [What goes into making an OS to be Unix compliant certified?](https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified) ([Lobsters](https://lobste.rs/s/tilteq/what_goes_into_making_os_be_unix_compliant))
+- [MIT 6.S081 – Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html) ([HN](https://news.ycombinator.com/item?id=30094376)) ([Code](https://github.com/PKUFlyingPig/MIT6.S081-2020fall))
+- [FlexSC: Flexible System Call Scheduling with Exception-Less System Calls](https://www.usenix.org/legacy/events/osdi10/tech/full_papers/Soares.pdf) ([Summary](https://catern.com/flexsc.html)) ([Lobsters](https://lobste.rs/s/ihm1l7/summary_flexsc_paper))
+- [What is a Process? (Operating Systems)](https://sequentialread.com/what-is-a-process/)
+- [dyld](https://github.com/apple-oss-distributions/dyld) - Dynamic link editor. ([Tweet](https://twitter.com/davidecci/status/1490920286086070274))
+- [Unikraft](https://unikraft.org/) - Automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. ([Code](https://github.com/unikraft/unikraft)) ([kraft - Define, configure, build, and run Unikraft unikernel applications](https://github.com/unikraft/kraft))
+- [systemfd](https://github.com/mitsuhiko/systemfd) - Development helper utility for helping with auto reloading for projects supporting systemd socket activation.
+- [Let's write an OS which can run on RISC-V in Rust from scratch](https://github.com/rcore-os/rCore-Tutorial-v3)
+- [MilvusVisor](https://github.com/RIKEN-RCCS/MilvusVisor) - Thin-hypervisor that runs on aarch64 CPUs.
+- [State of art for unikernels](https://github.com/seeker89/unikernels) ([HN](https://news.ycombinator.com/item?id=30358036))
+- [RSM](https://github.com/rsms/rsm) - Rsms's smol machine — a virtual computer hobby project.
+- [Osdev Notes](https://github.com/dreamos82/Osdev-Notes)
+- [Bootloader Basics (2022)](https://notes.eatonphil.com/bootloader-basics.html)
+- [Ask HN: What is the oldest, still supported OS? (2022)](https://news.ycombinator.com/item?id=30505219)
+- [CS Course: Design and Implementation of Operating Systems (2021)](https://www.cs.yale.edu/flint/cs422/index.html)
+- [Qemantra](https://github.com/pspiagicw/qemantra) - Tool for creating and running QEMU Virtual Machines.
+- [x86-64 VMM for seL4: Security Analysis and Requirements](https://www.trustworthy.systems/projects/TS/makatea_reqts.pdf)
+- [OSBuild](https://github.com/osbuild/osbuild) - Build-Pipelines for Operating System Artifacts. ([Web](https://www.osbuild.org/))
+- [Writing a Simple Operating System – From Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) ([HN](https://news.ycombinator.com/item?id=30800715))
+- [PCLSRing: Keeping Process State Modular](http://fare.tunes.org/tmp/emergent/pclsr.htm) ([HN](https://news.ycombinator.com/item?id=30800414))
+- [IPC-Bench](https://github.com/goldsborough/ipc-bench) - Benchmarks for Inter-Process-Communication Techniques.
+- [libtree](https://github.com/haampie/libtree) - ldd as a tree.
+- [Hivemind](https://github.com/DarthSim/hivemind) - Process manager for Procfile-based applications. Procfile is a simple format to specify types of processes your application provides.
+- [Resources to learn OS concepts (2022)](https://twitter.com/bradfitz/status/1495066999587627011)
+- [Dynamic Tracing Guide](https://illumos.org/books/dtrace/bookinfo.html)
+- [dryad](https://github.com/m4b/dryad) - Almost-parallel, semi-functioning, dynamic linker experiment, written in Rust.
+- [A Policy-Free System-Call Layer For The Hedron Microhypervisor](https://github.com/phip1611/diplomarbeit-impl) - Runtime system in Rust for a microkernel that enables unmodified Linux applications. ([Reddit](https://www.reddit.com/r/rust/comments/tyza70/ive_written_a_runtime_system_in_rust_for_a/))
+- [System paper reading notes](https://github.com/pentium3/sys_reading)
+- [sbctl](https://github.com/Foxboron/sbctl) - Secure Boot Manager.
+- [bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
+- [Cannoli](https://github.com/MarginResearch/cannoli) - High-performance QEMU memory and instruction tracing.

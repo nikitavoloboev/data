@@ -1,0 +1,43 @@
+# 3D Printing
+
+## Links
+
+- [ShapeWays](https://www.shapeways.com/) - Upload 3D model, choose materials and get the thing.
+- [libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling. ([Web](https://libfive.com/))
+- [Formlabs](https://formlabs.com/) - Powerful, affordable 3D printers for professionals.
+- [Fiber](https://www.desktopmetal.com/) - Industrial-grade, continuous fiber composites, printed from your desktop.
+- [Origin](https://www.origin.io) - Manufacturing-grade printer that enables additive mass production of end-use parts.
+- [Klipper](https://github.com/KevinOConnor/klipper) - 3d-printer firmware. It combines the power of a general purpose computer with one or more micro-controllers.
+- [Pepr3D](https://github.com/tomasiser/pepr3d) - Intuitive, free, and open-source 3D painting tool for coloring models intended for colorful 3D printing.
+- [A Tale of Two 3D Printers (2020)](https://blog.jessfraz.com/post/a-tale-of-two-3d-printers/)
+- [Voron 2 CoreXY 3D Printer design](https://github.com/VoronDesign/Voron-2)
+- [VORON Design](http://vorondesign.com/) - No-compromise 3D printer. ([Docs](https://docs.vorondesign.com/)) ([Docs Code](https://github.com/VoronDesign/Voron-Documentation))
+- [Ask HN: Why are there no open source 2d printers? (2020)](https://news.ycombinator.com/item?id=24786721)
+- [Marlin 3D Printer Firmware](https://github.com/MarlinFirmware/Marlin)
+- [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - Takes 3D models (STL, OBJ, AMF) and converts them into G-code instructions for FFF printers or PNG layers for mSLA 3D printers.
+- [3D printing boats is becoming standard practice (2020)](https://www.3dprintingmedia.network/3d-printing-boats-is-becoming-standard-practice/) ([HN](https://news.ycombinator.com/item?id=25492406))
+- [OctoPrint](https://octoprint.org/) - Snappy web interface for your 3D printer. ([Code](https://github.com/OctoPrint/OctoPrint))
+- [Multi-metal 4D printing with a desktop electrochemical 3D printer (2019)](https://www.nature.com/articles/s41598-019-40774-5)
+- [printinator](https://github.com/jessfraz/printinator) - macOS menu bar for 3D printers.
+- [Zine Machine](https://hibred.pmvabf.org/zine-machine) - Compact 3D-printed block printing press. ([HN](https://news.ycombinator.com/item?id=26270251))
+- [OpenScan](https://github.com/OpenScanEu/OpenScan) - All you need to build your 3D Scanner.
+- [A house 3D printed from raw earth](https://www.itsnicethat.com/news/tecla-house-mario-cucinella-wasp-architecture-270421) ([HN](https://news.ycombinator.com/item?id=26954712))
+- [MyMiniFactory](https://www.myminifactory.com/) - Discover STL files for 3D printing ideas and high-quality 3D printer models.
+- [How I set up my 3D Printer](https://github.com/geerlingguy/3d-printing)
+- [Rapid Prototyping with a $100 Inkjet Printer (2021)](https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3) ([HN](https://news.ycombinator.com/item?id=27254480))
+- [Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI 3D printer by Prusa Research.
+- [Prusa3D](https://www.prusa3d.com/) - Open-Source 3D printers by Josef Prusa. ([GitHub](https://github.com/prusa3d))
+- [Anatomy of a CNC Router (2021)](https://mattferraro.dev/posts/cnc-router)
+- [Debunking LIES about 3D printed concrete houses (2021)](https://www.youtube.com/watch?v=sz1LM9kwRLY) ([Reddit](https://www.reddit.com/r/videos/comments/qc3ueb/debunking_lies_about_3d_printed_concrete_houses/))
+- [Things I would like to 3D print](https://jmtd.net/log/3d_print_list/) ([HN](https://news.ycombinator.com/item?id=29121318))
+- [Printrun](https://github.com/kliment/Printrun) - Pronterface, Pronsole, and Printcore - Pure Python 3d printing host software.
+- [CuraEngine](https://github.com/Ultimaker/CuraEngine) - C++ console application for 3D printing GCode generation.
+- [PUMA](https://github.com/TadPath/PUMA) - 3D Printed Microscope.
+- [Slic3r](https://slic3r.org/) - Open source 3D printing toolbox. ([Code](https://github.com/slic3r/Slic3r))
+- [Wasp 3D-prints eco-homes from local raw earth for $1K (2021)](https://www.youtube.com/watch?v=4MLJs1KRa0Y) ([Tweet](https://merveilles.town/web/statuses/107743030112072919))
+- [MicroscoPy](https://github.com/IBM/MicroscoPy) - Open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing. ([Article](https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf))
+- [Open5x: Accessible 5-axis 3D printing and conformal slicing (2022)](https://arxiv.org/abs/2202.11426) ([Code](https://github.com/FreddieHong19/Open5x))
+- [Making 3D printing truly 3D (2022)](https://phys.org/news/2022-04-3d.html) ([HN](https://news.ycombinator.com/item?id=31142051))
+- [Great 3D printers (2022)](https://twitter.com/fatih/status/1521048072322748417)
+- [Hob3l](https://github.com/moehriegitt/hob3l) - 100x Faster Slicing of SCAD Files for 3D Printing.
+- [PositronV3](https://github.com/KRALYN/PositronV3) - Upside-down, fast, portable, and compact 3D printer.

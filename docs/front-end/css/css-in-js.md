@@ -1,0 +1,61 @@
+# CSS in JS
+
+[UnoCSS](https://github.com/unocss/unocss) is nice.
+
+## Links
+
+- [Linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library.
+- [Tachyons React App](https://github.com/tachyons-css/tachyons-styled-react) - Tachyons implemented with emotion and styled-system. Sits on create-react-app.
+- [xstyled](https://github.com/smooth-code/xstyled) - Consistent theme based CSS for styled-components. ([Web](https://xstyled.dev/))
+- [Treat](https://github.com/seek-oss/treat) - Themeable, statically extracted CSS‑in‑JS with near‑zero runtime.
+- [reshadow](https://github.com/lttb/reshadow) - Markup and styles that feel right.
+- [Goober](https://github.com/cristianbote/goober) - Less than 1KB css-in-js solution.
+- [styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises.
+- [CSS-Zero](https://github.com/CraigCav/css-zero) - Zero-runtime CSS-in-JS.
+- [The unseen performance costs of modern CSS-in-JS libraries in React apps (2019)](https://calendar.perfplanet.com/2019/the-unseen-performance-costs-of-css-in-js-in-react-apps/)
+- [Max Stoiber - CSS in JS evolution (2019)](https://www.youtube.com/watch?v=75kmPj_iUOA)
+- [Styled Components, Styled Systems and How They Work (2019)](https://rangle.io/blog/styled-components-styled-systems-and-how-they-work/)
+- [styled-breakpoints](https://github.com/mg901/styled-breakpoints) - Simple and powerful tool for creating breakpoints in styled components and emotion.
+- [@compiled/css-in-js](https://github.com/atlassian-labs/compiled-css-in-js) - Typescript first CSS in JS library that compiles away to nothing.
+- [Every Layout](https://github.com/danscan/react-every-layout) - React + styled-components implementations of the layouts from every-layout.dev
+- [Glaze](https://github.com/kripod/glaze) - CSS-in-JS framework for building approachable design systems.
+- [Nyan CSS](https://github.com/nyancss/nyancss) - Write plain CSS while reaping benefits of CSS-in-JS.
+- [Stitches](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. ([Web](https://stitches.dev/)) ([Twitter](https://twitter.com/stitchesjs)) ([Tweet](https://twitter.com/chriscoyier/status/1448667998500409348))
+- [Performance comparison of css approaches](https://github.com/jantimon/css-framework-performance)
+- [Introducing stitches - atomic CSS-IN-JS inspired by Tailwind CSS (2020)](https://www.youtube.com/watch?v=uCiWfQMUUEw)
+- [mystical](https://github.com/dburles/mystical) - Small CSS-in-JS library for atomised constraint based design.
+- [otion](https://github.com/kripod/otion) - Atomic CSS-in-JS with a featherweight runtime.
+- [CSS to JS](https://github.com/SaraVieira/css-to-js) - Transform between CSS, JS Objects and JSX props.
+- [cxs](https://github.com/cxs-css/cxs) - Fast af css-in-js in 0.7kb.
+- [Stiches](https://github.com/modulz/stitches) - Near-zero runtime, server-side rendering, multi-variant support, and best-in-class developer experience. ([Web](https://stitches.dev/)) ([Talk](https://www.youtube.com/watch?v=S_N6At_5BJM))
+- [Fela](https://github.com/robinweser/fela) - State-Driven Styling in JavaScript. ([Docs](https://github.com/robinweser/fela))
+- [Reverse Engineering Styled Components (2020)](https://makersden.io/blog/reverse-engineering-styled-components)
+- [clsx](https://github.com/lukeed/clsx) - Tiny utility for constructing `className` strings conditionally.
+- [Stylewars](https://github.com/sunesimonsen/stylewars) - Tiny CSS in JS library that requires no tooling.
+- [Rosebox](https://github.com/rosebox/rosebox) - CSS in Typescript. ([Web](https://www.rosebox.dev/))
+- [System Props](https://github.com/roginfarrer/system-props) - Inspired by styled-system, a responsive, theme-based style props for building design systems with React. ([Web](https://system-props.com/))
+- [The styled-components happy path (2021)](https://www.joshwcomeau.com/css/styled-components/)
+- [CSS-in-TS research analysis](https://github.com/andreipfeiffer/css-in-js)
+- [theme-in-css](https://github.com/pveyes/theme-in-css) - Type-safe CSS custom properties (CSS variables) for theming purpose.
+- [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript. ([Talk](https://www.youtube.com/watch?v=23VqED_kO2Q)) ([Theming a React Application with Vanilla Extract](https://formidable.com/blog/2021/vanilla-extract/))
+- [Stitches Zigzag](https://github.com/garand/stitches-zigzag) - Tailwind inspired tools to build fast with Stitches.
+- [Stylin](https://github.com/sultan99/stylin) - Build-time CSS library that offers an elegant way to style React components.
+- [Sprinkles](https://github.com/seek-oss/vanilla-extract/tree/master/packages/sprinkles) - Zero-runtime atomic CSS framework for vanilla-extract.
+- [Fower](https://github.com/forsigner/fower) - Utility-first CSS in JS library for rapid UI development.
+- [Demystifying styled-components (2021)](https://www.joshwcomeau.com/react/demystifying-styled-components/)
+- [Tagged Template Literals - The Magic Behind Styled Components (2021)](https://dev.to/dekel/tagged-template-literals-the-magic-behind-styled-components-2f2c)
+- [taddy](https://github.com/lttb/taddy) - Compile-time Atomic CSS-in-JS.
+- [CSS Modules-in-CSS Module Scripts (2021)](https://daverupert.com/2021/08/css-modules-in-css-modules/)
+- [UnoCSS](https://github.com/antfu/unocss) - Instant on-demand atomic CSS engine. ([Web](https://unocss.antfu.me/)) ([Reimagine Atomic CSS](https://antfu.me/posts/reimagine-atomic-css)) ([unocss-preset-typography](https://github.com/ydcjeff/unocss-preset-typography))
+- [UnoCSS Interactive Docs](https://uno.antfu.me/?s=)
+- [tss-react](https://github.com/garronej/tss-react) - makeStyles is dead, long live makeStyles.
+- [Griffel](https://github.com/microsoft/griffel) - CSS-in-JS with ahead-of-time compilation.
+- [vanilla-classnames](https://github.com/Amareis/vanilla-classnames) - Better classnames utility for vanilla-extract.
+- [freestyler](https://github.com/streamich/freestyler) - 5th generation CSS-in-JS library.
+- [Stitches Mixins](https://github.com/joe-bell/stitches-mixins) - Shorthand utils for Stitches.
+- [Token CSS](https://github.com/tokencss/tokencss)
+- [split-classnames](https://github.com/remorses/split-classnames) - Splits long className attributes to make them more readable.
+- [TypeScript language service plugin for CSS Modules](https://github.com/mrmckeb/typescript-plugin-css-modules)
+- [Rainbow Sprinkles](https://github.com/wayfair-incubator/rainbow-sprinkles) - Dynamic, theme-driven, style props for vanilla-extract.
+- [Comptime CSS](https://github.com/Mokshit06/comptime-css)
+- [CSS(SCSS/SASS) to vanilla-extract](https://css-to-vanilla-extract.netlify.app/) - Generate vanilla-extract typescript file from the CSS (SCSS/SASS) file.

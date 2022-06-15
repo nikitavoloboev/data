@@ -1,0 +1,627 @@
+# TypeScript libraries
+
+I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my TS libraries which I then publish with [kanpai](https://github.com/egoist/kanpai). [ncu](https://github.com/raineorshine/npm-check-updates) is nice for updating packages. [Rush stack](https://github.com/microsoft/rushstack) + [pnpm](https://pnpm.io/) are amazing.
+
+[tsup](https://tsup.egoist.sh/) is great too for bundling TS libs.
+
+## DB
+
+- [SchemaRT](https://github.com/codemariner/schemart) - Generate TypeScript runtime types from your database schema.
+- [joist-ts](https://github.com/stephenh/joist-ts) - TypeScript ORM for Postgres.
+- [atdatabases](https://github.com/ForbesLindesay/atdatabases) - TypeScript clients for databases that prevent SQL Injection. ([Web](https://www.atdatabases.org/))
+- [Mammoth](https://github.com/Ff00ff/mammoth) - Type-safe Postgres query builder for TypeScript.
+- [Schemats](https://github.com/vramework/schemats) - Postgres to TypeScript Interfaces and Enums. ([HN](https://news.ycombinator.com/item?id=27570058))
+- [sql-dsl](https://github.com/aldy505/sql-dsl) - SQL DSL for your Node App.
+- [IDB-Keyval](https://github.com/jakearchibald/idb-keyval) - Super-simple-small promise-based keyval store implemented with IndexedDB.
+- [squid](https://github.com/andywer/squid) - SQL tagged template strings and schema definitions for JavaScript & TypeScript.
+- [KVS](https://github.com/azu/kvs) - Lightweight key-value storage library for Browser, Node.js, and In-Memory.
+- [Kysely](https://github.com/koskimas/kysely) - Type-safe typescript SQL query builder.
+- [Keydb](https://github.com/DjDeveloperr/Keydb) - Simple Key-value storage module with support for multiple database backends.
+- [shapes/core](https://github.com/punchcard/shapes) - Type-safe DSLs and ORMs for TypeScript.
+- [pg-magic](https://github.com/danielrearden/pg-magic) - TypeScript type generator for PostgreSQL queries.
+- [Potygen](https://github.com/ivank/potygen) - Postgres SQL Parser and type generator.
+- [sqltyper](https://github.com/akheron/sqltyper) - TypeScript types for raw PostgreSQL queries.
+- [Owl](https://github.com/quirrel-dev/owl) - High-performance, redis-backed job queueing library originally built for Quirrel.
+- [Cuery](https://github.com/Schniz/cuery) - Composable SQL query builder using template literals.
+- [pg-to-ts](https://github.com/danvk/pg-to-ts) - Generate TypeScript interface definitions from your Postgres schema. ([Example App](https://github.com/danvk/crudely-typed))
+- [gokv](https://github.com/esm-dev/gokv) - Global Key-Value store for serverless at edge that is built on top of Cloudflare edge network. Druable, low-latency, and easy to use.
+- [postgres-schema-ts](https://github.com/nettofarah/postgres-schema-ts) - Convert Postgres schemas into TypeScript interfaces.
+- [lru-ttl-cache](https://github.com/rafikalid/lru-ttl-cache) - Super fast Optimized in memory LRU and TTL cache. Can store permanent entries too.
+- [cachu](https://github.com/azurydev/cachu) - Simple, Minimalistic KV Cache.
+- [IndexedDB KeyStore](https://github.com/fission-suite/keystore-idb) - In-browser key management with IndexedDB and the Web Crypto API.
+- [Rapid-CG](https://github.com/CGamesPlay/rapid-cg) - Database access layer that relies on code generation to provide a strongly-typed database client.
+- [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. ([TypeORM naming strategies](https://github.com/tonivj5/typeorm-naming-strategies)) ([TypeORM Tutorial](https://www.youtube.com/watch?v=sNosL578ECo))
+- [Safe-TypeORM](https://github.com/samchon/safe-typeorm) - TypeORM helper library enhancing safety in the compilation level.
+
+## Web
+
+- [tRPC](https://github.com/trpc/trpc) - TypeScript toolkit for building end-to-end typesafe APIs. ([Web](https://trpc.io/)) ([Tutorial](https://www.youtube.com/watch?v=Lam0cYOEst8)) ([HN](https://news.ycombinator.com/item?id=31285827))
+- [typed-rest-client](https://github.com/microsoft/typed-rest-client) - Lightweight REST and HTTP client optimized for use with TypeScript with generics and async await.
+- [Ts.ED](https://github.com/TypedProject/tsed) - Node.js and TypeScript Framework on top of Express/Koa.js.
+- [Axios-Fetch](https://github.com/lifeomic/axios-fetch) - WebAPI Fetch implementation backed by an Axios client.
+- [Voby](https://github.com/fabiospampinato/voby) - High-performance framework for writing web apps.
+- [Candid](https://github.com/danieldietrich/candid) - Unopinionated, frameworkless JavaScript library for building web applications.
+- [Deepkit](https://github.com/deepkit/deepkit-framework) - High-Performance TypeScript Framework. ([Web](https://deepkit.io/)) ([HN](https://news.ycombinator.com/item?id=31663298))
+- [Chemin](https://github.com/etienne-dldc/chemin) - Type-safe pattern builder & route matching library written in TypeScript.
+- [FRANXX](https://github.com/egoist/franxx) - Vanilla JavaScript router that works everywhere.
+- [Unrouted](https://github.com/harlan-zw/unrouted) - Minimal, composable router built for speed, portability and DX.
+- [mande](https://github.com/posva/mande) - Simple, light and extensible wrapper around fetch with smart defaults.
+- [swrr](https://github.com/maraisr/swrr) - Stale While Revalidated Resources — keeps data fast.
+- [Presencejs](https://github.com/yomorun/presencejs) - JavaScript library that allows you to build real-time web applications quickly, the server is built atop of YoMo.
+- [micromorph](https://github.com/natemoo-re/micromorph) - Very tiny library for diffing DOM nodes.
+- [routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
+- [ts-elmish](https://github.com/iyegoroff/ts-elmish) - Elmish architecture in Typescript.
+- [blockdom](https://github.com/ged-odoo/blockdom) - Fast virtual DOM library.
+- [Zodios](https://github.com/ecyrbe/zodios) - TypeScript HTTP client with zod validation.
+- [teeny-request](https://github.com/googleapis/teeny-request) - Like request, but tiny. Fetch under the hood.
+- [mini-throttle](https://github.com/github/mini-throttle) - Small JavaScript throttle & debounce implementation.
+- [Express Zod API](https://github.com/RobinTail/express-zod-api) - Typescript library to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
+- [Spot](https://github.com/airtasker/spot) - Concise, developer-friendly way to describe your API contract.
+- [PostHTML Render](https://github.com/posthtml/posthtml-render) - Render PostHTMLTree to HTML/XML.
+- [Ionic](https://ionic.io/) - Enterprise App Development & Delivery Platform. ([Code](https://github.com/ionic-team/ionic-framework)) ([Twitter](https://twitter.com/Ionicframework)) ([Tweet](https://twitter.com/93alan/status/1512587338962116611))
+- [htstream](https://github.com/qnighy/htstream) - Streaming HTTP parser.
+- [Frugal](https://github.com/PaulBlanche/frugal) - Web framework with resource sparing in mind. ([Web](https://frugal.deno.dev/))
+- [ApiDOM](https://github.com/swagger-api/apidom) - Semantic parser for API specifications.
+- [ChiselStrikeai](https://github.com/chiselstrike/chiselstrike) - Modern backend development framework for JavaScript/TypeScript applications.
+- [Boost.ts](https://github.com/mathigon/boost.js) - DOM, events and animations library for modern browsers.
+- [gaxios](https://github.com/googleapis/gaxios) - HTTP request client that provides an axios like interface over top of node-fetch. Super lightweight. Supports proxies and all sorts of other stuff.
+- [Exegesis OpenAPI Engine](https://github.com/exegesis-js/exegesis) - Tools for implementing server-side OpenAPI 3.0.0.
+
+## GraphQL
+
+- [GraphQL Query Builder](https://github.com/atulmy/gql-query-builder) - Simple helper function to generate GraphQL queries using plain JavaScript Objects (JSON).
+
+## Test
+
+- [TS auto mock](https://github.com/Typescript-TDD/ts-auto-mock) - Typescript transformer to unlock automatic mock creation for interfaces and classes.
+- [intermock](https://github.com/google/intermock) - Mocking library to create mock objects and JSON for TypeScript interfaces via Faker.
+- [Typical Data](https://github.com/davidtkramer/typical-data) - Test data factory written in TypeScript.
+- [Nano Spy](https://github.com/ai/nanospy) - Tiny Node.js library to spy and mock methods in tests with great TypeScript support.
+- [tinyspy](https://github.com/Aslemammad/tinyspy) - Minimal fork of nanospy, with more features.
+- [test-data-bot](https://github.com/jackfranklin/test-data-bot) - Generate fake yet realistic looking data for your unit tests.
+- [Interface-Forge](https://github.com/Goldziher/interface-forge) - Graceful mock-data and fixtures generation using TypeScript.
+- [Axon](https://github.com/oslabs-beta/axon) - Aids developers with Express.js based applications to autogenerate integration tests and Postman Collections by extracting RESTful API endpoints from your source code.
+- [uncreate](https://github.com/johannschopplich/uncreate) - Minimal, type-safe REST client using JS proxies.
+- [TSArch](https://github.com/ts-arch/ts-arch) - Architecture unit test framework for Typescript.
+
+## Auth
+
+- [jwt-cache](https://github.com/ForbesLindesay/jwt-cache) - Cache an async function for generating a JSON Web Token.
+
+## Animation
+
+- [Motion Signals](https://github.com/tanvesh01/motion-signals) - Wrapper over Motion One.
+
+## Math
+
+- [Fermat.ts](https://github.com/mathigon/fermat.js) - Mathematics and statistics library for TypeScript.
+
+## CLI
+
+- [cmd-ts](https://github.com/Schniz/cmd-ts) - Type-driven command line argument parser, with awesome error reporting.
+- [Pero](https://github.com/h-a-n-a/pero) - Easy to use route-based tool for building large-scale command-line interfaces.
+- [terminal-columns](https://github.com/privatenumber/terminal-columns) - Render readable tables in the terminal.
+- [Soly](https://github.com/mdbetancourt/soly) - Powerful framework for building command-line apps with typescript.
+- [Clii](https://github.com/sigoden/clii) - Write some functions, JSDoc it, clii automatically turns it into a cli.
+
+## Crypto
+
+- [noble-ed25519](https://github.com/paulmillr/noble-ed25519) - Fastest JS implementation of ed25519 / ristretto255. High-security, auditable, 0-dependency EDDSA signatures and public keys.
+- [Serenity Tools](https://github.com/SerenityNotes/serenity-tools) - Collection of tools to build secure Apps.
+- [opaque-ts](https://github.com/cloudflare/opaque-ts) - TypeScript library for OPAQUE Asymmetric Password-Authenticated Key Exchange Protocol.
+- [charm.js](https://github.com/jedisct1/charm.js) - Tiny, self-contained cryptography library, implementing authenticated encryption and keyed hashing.
+
+## Error
+
+- [ts-pojo-error](https://github.com/skarab42/ts-pojo-error) - Type safe pojo error will help you to easily create typed and serializable error.
+
+## Other
+
+- [ow](https://github.com/sindresorhus/ow) - Argument type validation.
+- [ts-toolbelt](https://github.com/pirix-gh/ts-toolbelt) - Higher type safety for TypeScript.
+- [morphic-ts](https://github.com/sledorze/morphic-ts) - Adresses the pain of writing and maintaining derived code for business logic.
+- [ts-results](https://github.com/vultix/ts-results) - TypeScript implementation of Rust's Result object.
+- [TSDataStructure](https://github.com/Slashmsu/TSDataStructure) - Collection of data structures(LinkedList, DoubleLinkedList, Stack, Queue, Dictionary and etc...) for TypeScript.
+- [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript. ([Functional TypeScript With fp-ts](https://functional.christmas/2020/12)) ([eslint-plugin-fp-ts](https://github.com/buildo/eslint-plugin-fp-ts)) ([Cheat Sheet](https://github.com/inato/fp-ts-cheatsheet)) ([Learn fp-ts](https://github.com/zanza00/learn-fp-ts))
+- [fp-ts-contrib](https://github.com/gcanti/fp-ts-contrib) - Community driven utility package for fp-ts.
+- [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding. ([Web](https://gcanti.github.io/io-ts/))
+- [typescript-utilities-guide](https://github.com/typescript-cheatsheets/typescript-utilities-cheatsheet) - List of typescript helper libraries.
+- [tsdef](https://github.com/joonhocho/tsdef) - TypeScript common pattern shortcut definitions / utility gist library.
+- [ts-auto-guard](https://github.com/usabilityhub/ts-auto-guard) - Generate type guard functions from TypeScript interfaces.
+- [ts-adt](https://github.com/pfgray/ts-adt) - Generate Algebraic Data Types and pattern matchers.
+- [ts-mockito](https://github.com/NagRock/ts-mockito) - Mocking library for TypeScript.
+- [class-validator](https://github.com/typestack/class-validator) - Validation made easy using TypeScript decorators.
+- [List](https://github.com/funkia/list) - Immutable list with unmatched performance and a comprehensive functional API.
+- [Photon](https://github.com/prisma/photonjs) - Type-safe database client for TypeScript & Node.js (ORM replacement).
+- [ts-essentials](https://github.com/krzkaczor/ts-essentials) - All basic TypeScript types in one place.
+- [ts-transformer-keys](https://github.com/kimamula/ts-transformer-keys) - TypeScript custom transformer which enables to obtain keys of given type.
+- [ts-prune](https://github.com/nadeesha/ts-prune) - Find unused exports in a typescript project.
+- [byots](https://github.com/basarat/byots) - Bring your own TypeScript with more internal definitions.
+- [is](https://github.com/sindresorhus/is) - Type check values.
+- [sql-ts](https://github.com/rmp135/sql-ts) - Generate TypeScript types from a SQL database.
+- [Mostly ORMless](https://github.com/jawj/mostly-ormless) - Ergonomic Postgres from TypeScript.
+- [Unionize](https://github.com/pelotom/unionize) - Boilerplate-free functional sum types in TypeScript.
+- [zod](https://github.com/vriad/zod) - Typescript-first schema validation with static type inference.
+- [myzod](https://github.com/davidmdm/myzod) - Schema Validation with typescript type inference.
+- [utility-types](https://github.com/piotrwitek/utility-types) - Collection of utility types, complementing TypeScript built-in mapped types and aliases.
+- [fetcher-ts](https://github.com/YBogomolov/fetcher-ts) - Type-safe wrapper around Fetch API.
+- [gretchen](https://github.com/truework/gretchen) - Making fetch happen in TypeScript.
+- [matechs-effect](https://github.com/mikearnaldi/matechs-effect) - Fully-fledged functional effect system for typescript with a rich standard library.
+- [Funval](https://github.com/neuledge/funval) - Minimalist library for data validation using functions interfaces.
+- [tsParticles](https://github.com/matteobruni/tsparticles) - Lightweight TypeScript library for creating particles.
+- [Clack](https://github.com/reasonink/clack) - Modern keyboard shortcut library written in Typescript.
+- [fx-ts](https://github.com/briancavalier/fx-ts) - Computational environments and effects for TypeScript.
+- [Gostek](https://github.com/typeofweb/functional-orm) - 100% typesafe SQL querybuilder.
+- [connection-string](https://github.com/vitaly-t/connection-string) - Advanced URL Connection String parser.
+- [Purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript.
+- [monocle-ts](https://github.com/gcanti/monocle-ts) - Functional optics: a (partial) porting of Scala monocle.
+- [ts-interface-checker](https://github.com/gristlabs/ts-interface-checker) - Runtime library to validate data against TypeScript interfaces.
+- [ts-mysql-plugin](https://github.com/segmentio/ts-mysql-plugin) - : A typescript language service plugin that gives superpowers to SQL tagged template literals.
+- [hyper-ts](https://github.com/gcanti/hyper-ts) - Type safe middleware architecture for HTTP servers.
+- [PgTyped](https://github.com/adelsz/pgtyped) - Makes it possible to use raw SQL in TypeScript with guaranteed type-safety.
+- [Zapatos](https://github.com/jawj/zapatos) - Zero-Abstraction Postgres for TypeScript. ([Docs](https://jawj.github.io/zapatos/))
+- [tagged-ts](https://github.com/joshburgess/tagged-ts) - Tagged unions code generation library for discriminating tastes.
+- [Monads](https://github.com/hqoss/monads) - Type safe Option, Result, and Either types; inspired by Rust.
+- [typecheck.macro](https://github.com/vedantroy/typecheck.macro) - Easy (and fast) typescript validation library/macro. Automatically generation validation functions for Typescript types.
+- [typed-assert](https://github.com/elierotenberg/typed-assert) - Typesafe TS assertion library.
+- [TS Pattern](https://github.com/gvergnaud/ts-pattern) - Complete Pattern Matching library for TypeScript, with smart type inference.
+- [TSyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for TypeScript/JavaScript for constructor injection.
+- [tslib](https://github.com/microsoft/tslib) - Runtime library for TypeScript helpers.
+- [NeverThrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript. ([Chaining Failable Tasks](https://gdelgado.ca/chaining-failable-tasks.html#title))
+- [TypeORM fixtures CLI](https://github.com/RobinCK/typeorm-fixtures) - Allows you to create a ton of fixtures/fake data for use while developing or testing your project.
+- [ts-union](https://github.com/twop/ts-union) - ADT sum type in typescript.
+- [Kiss-ORM](https://github.com/Seb-C/kiss-orm) - ORM for TypeScript with no query-builder, supporting full SQL queries. ([HN](https://news.ycombinator.com/item?id=24363493))
+- [Decoder](https://github.com/MarcCoquand/Decoder) - Powerful, well tested, data decoder for Typescript.
+- [openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs.
+- [Conditional Type Checks](https://github.com/dsherret/conditional-type-checks) - Types for testing TypeScript types.
+- [ts-simple-type](https://github.com/runem/ts-simple-type) - Relationship type checker functions for Typescript types.
+- [newtype-ts](https://github.com/gcanti/newtype-ts) - Implementation of newtypes in TypeScript.
+- [fluent-builder](https://github.com/develohpanda/fluent-builder) - Typed, fluent builder for generating fixtures in Typescript.
+- [xstate-codegen](https://github.com/mattpocock/xstate-codegen) - Gives you 100% type-safe usage of XState in Typescript.
+- [useFsmReducer](https://github.com/mattpocock/use-fsm-reducer) - useReducer for state machine enthusiasts.
+- [tydoc](https://github.com/jasonkuhrt/tydoc) - TypeScript documenter that meets you where you are.
+- [Setset](https://github.com/jasonkuhrt/setset) - Powerful Incremental Type-driven Settings Engine.
+- [Suub](https://github.com/etienne-dldc/suub) - Simple pub/sub written in TypeScript.
+- [typescript-vscode-sh-plugin](https://github.com/aeschli/typescript-vscode-sh-plugin) - TypeScript plugin that proves richer semantic highlighing.
+- [oazapfts](https://github.com/cellular/oazapfts) - Generate TypeScript clients to tap into OpenAPI servers.
+- [pattern-matching-ts](https://github.com/nrdlab/pattern-matching-ts) - Pattern matching in TypeScript.
+- [txstate](https://github.com/devanshj/txstate) - Effort to statically type xstate.
+- [RemoteData type](https://github.com/devexperts/remote-data-ts) - ADT (algebraic data type) for typing remote data.
+- [Predicate Domain Specific Language](https://github.com/ryardley/pdsl) - Expressive declarative toolkit for composing predicates in TypeScript or JavaScript. ([Docs](https://pdsl.dev/))
+- [True Myth](https://github.com/true-myth/true-myth) - Library for safer and smarter error- and "nothing"-handling in TypeScript.
+- [appy](https://github.com/contactlab/appy) - Functional wrapper around Fetch API.
+- [Barrels](https://github.com/bencoveney/barrelsby) - Automatic TypeScript barrels (index.ts files) for your entire code base.
+- [optics-ts](https://github.com/akheron/optics-ts) - Type-safe, ergonomic, polymorphic optics for TypeScript.
+- [set-fns](https://github.com/haydn/set-fns) - Utility library for working with sets.
+- [logging-ts](https://github.com/gcanti/logging-ts) - Composable loggers for TypeScript.
+- [typescript-is](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
+- [typed-query-selector](https://github.com/g-plane/typed-query-selector) - Better typed `querySelector` and `querySelectorAll`.
+- [typeofweb/schema](https://github.com/typeofweb/schema) - Lightweight and extensible library for data validation with full support for TypeScript.
+- [Typical](https://github.com/KiaraGrouwstra/typical) - Playground for type-level primitives in TypeScript.
+- [typelevel-ts](https://github.com/gcanti/typelevel-ts) - Type level programming in TypeScript.
+- [Type Zoo](https://github.com/pelotom/type-zoo) - Menagerie of useful type operators for TypeScript.
+- [REST Services for Typescript](https://github.com/thiagobustamante/typescript-rest) - Lightweight annotation-based expressjs extension for typescript.
+- [elm-ts](https://github.com/gcanti/elm-ts) - Porting of The Elm Architecture to TypeScript featuring fp-ts, RxJS and React.
+- [ts-union-tools](https://github.com/naruaway/ts-union-tools) - Set of minimal utilities to work with union types and tagged unions in TypeScript.
+- [ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript.
+- [prex](https://github.com/rbuckton/prex) - Asynchronous coordination for JavaScript and TypeScript.
+- [Purifree](https://github.com/nythrox/purifree) - Pointfree type-safe functional programming library for TypeScript - with do notation, HKTs, generic lifts and more.
+- [valita](https://github.com/badrap/valita) - Typesafe validation & parsing library for TypeScript.
+- [Tick-Knock](https://github.com/mayakwd/tick-knock) - Small and powerful, type-safe and easy-to-use Entity-Component-System (ECS) library written in TypeScript.
+- [gridstack.js](https://github.com/gridstack/gridstack.js) - Mobile-friendly modern Typescript library for dashboard layout and creation. ([Web](https://gridstackjs.com/))
+- [SheetQuery](https://github.com/vlucas/sheetquery) - Query Builder/ORM for Google Sheets.
+- [immutability-helper](https://github.com/kolodny/immutability-helper) - Mutate a copy of data without changing the original source.
+- [nom-ts](https://github.com/hasparus/nom-ts) - TypeScript nominal-typing helpers.
+- [generic-type-guard](https://github.com/mscharley/generic-type-guard) - Type safe, composable type guards for TypeScript.
+- [type-plus](https://github.com/unional/type-plus) - Additional types and types adjusted utilities for TypeScript.
+- [DDD](https://github.com/node-ts/ddd) - Domain Driven Design framework for software simplicity in node.
+- [ts-checked-fsm](https://github.com/tableau/ts-checked-fsm) - TypeScript library providing compile-time checking for state machine transitions.
+- [resolvers](https://github.com/react-hook-form/resolvers) - Validation resolvers: Zod, Yup, Joi, Superstruct, Vest, class-validator, io-ts, and nope.
+- [json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas.
+- [meros](https://github.com/maraisr/meros) - Fast utility that makes reading multipart responses simple.
+- [storage](https://github.com/ngneat/storage) - Various implementation of storage which implements API similar to the 'localStorage.'.
+- [mswjs/data](https://github.com/mswjs/data) - Data modeling and relation library for testing JavaScript applications.
+- [WolfECS](https://github.com/EnderShadow8/wolf-ecs) - Powerful, lightweight Entity Component System framework written in Typescript.
+- [typed-regex](https://github.com/phenax/typed-regex) - TypeScript library for type-safe regex for named capture groups.
+- [JSON bond](https://github.com/kossnocorp/json-bond) - Type-safe JSON strings.
+- [Cockatiel](https://github.com/connor4312/cockatiel) - Resilience and transient-fault-handling library.
+- [ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate Zod schemas from Typescript types/interfaces.
+- [native](https://github.com/okikio/native) - Initiative which aims to make it easy to create complex, light-weight, and performant web applications using modern JS API's.
+- [prelude-ts](https://github.com/emmanueltouzery/prelude-ts) - TypeScript library which aims to make functional programming concepts accessible and productive in TypeScript.
+- [Euclid.ts](https://github.com/mathigon/euclid.js) - Typescript library for 2D geometry.
+- [Superstruct](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
+- [async-off](https://github.com/rauschma/async-off) - Make asynchronous TypeScript code synchronous.
+- [Earl](https://github.com/earl-js/earl) - Ergonomic, modern and type-safe assertion library for TypeScript. ([Web](https://earljs.dev/))
+- [FS Capacitor](https://github.com/mike-marcacci/fs-capacitor) - Filesystem-bufferred, passthrough stream that buffers indefinitely rather than propagate backpressure from downstream consumers.
+- [rustic](https://github.com/franeklubi/rustic) - TypeScript library providing emulation of Rust's Option and Result types. ([Reddit](https://www.reddit.com/r/typescript/comments/oy17ym/rustic_a_typescript_library_providing_rusts/))
+- [log-editor](https://github.com/antfu/log-editor) - Use your editor to inspect the log instead of scrolling the congested terminal.
+- [text-unicode](https://github.com/ottypes/text-unicode) - Unicode text OT implementation.
+- [optimistic-state](https://github.com/perceived-dev/optimistic-state) - Optimistic state with rollbacks and race condition handling.
+- [ts-mixer](https://github.com/tannerntannern/ts-mixer) - Small TypeScript library that provides tolerable Mixin functionality.
+- [PointerTracker](https://github.com/GoogleChromeLabs/pointer-tracker) - Track mouse/touch/pointer events for a given element.
+- [Yield Machine](https://github.com/RoyalIcing/yieldmachine) - Define State Machines using Generator Functions.
+- [KBar](https://github.com/timc1/kbar) - Add a fast, portable, and extensible command+k interface to your site. ([Web](https://kbar.vercel.app/)) ([Tweet](https://twitter.com/timcchang/status/1437393810049359872))
+- [Postel](https://github.com/timc1/postel) - Tiny library for building tooltips, flyovers, menus and more in React. ([Article](https://www.timcchang.com/posts/postel))
+- [pattern-matching](https://github.com/Dkendal/pattern-match.js) - Provides pattern matching features typically found in functional languages like Elixir/Erlang, ML, F#, etc.
+- [H3](https://github.com/unjs/h3) - Minimal HTTP framework built for high performance and portability.
+- [Zerva](https://github.com/holtwick/zerva) - Minimal event driven web service infrastructure. ([Module Template](https://github.com/holtwick/zerva-umami))
+- [Zeed Library](https://github.com/holtwick/zeed) - Simple TS/JS Foundation Library.
+- [UCAST](https://github.com/stalniy/ucast) - Universal Conditions AST. ([Examples](https://github.com/stalniy/casl-examples))
+- [ts](https://github.com/mmkal/ts) - Monorepo of typescript projects.
+- [urlpack](https://github.com/daangn/urlpack) - Pure JavaScript toolkit for data URLs (MessagePack, Base58 and Base62).
+- [miette](https://github.com/gabrielcsapo/miette) - Fancy upgrade to console.log.
+- [construct-js](https://github.com/francisrstokes/construct-js) - Library for creating byte level data structures.
+- [yieldparser](https://github.com/RoyalIcing/yieldparser) - Parse using JavaScript generator functions — it’s like components for parsing.
+- [tsafe](https://github.com/garronej/tsafe) - Missing TypeScript builtins.
+- [better-typescript-lib](https://github.com/uhyo/better-typescript-lib) - Better TypeScript standard library.
+- [class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
+- [Funfix](https://github.com/funfix/funfix) - Functional Programming Library for JavaScript, TypeScript.
+- [typeconv](https://github.com/grantila/typeconv) - Convert between JSON Schema, TypeScript, GraphQL, Open API and SureType.
+- [multicloud-jwt](https://github.com/joaomilho/multicloud-jwt) - JWT that works both on AWS and GCP's KMS.
+- [ts-extras](https://github.com/sindresorhus/ts-extras) - Essential utilities for TypeScript projects.
+- [Cacheables](https://github.com/grischaerbe/cacheables) - Simple in-memory cache written in Typescript with automatic cache invalidation and an elegant syntax.
+- [Spatial Keyboard Navigation](https://github.com/danilowoz/spatial-keyboard-navigation) - Visual hierarchy approach to navigate through selectable elements on a page. ([Article](https://danilowoz.com/blog/spatial-keyboard-navigation)) ([HN](https://news.ycombinator.com/item?id=28895961))
+- [OpenCensus](https://github.com/census-instrumentation/opencensus-node) - Stats collection and distributed tracing framework.
+- [Config Validator Policy](https://github.com/GoogleCloudPlatform/policy-library) - Library of constraint templates and sample constraints for Forseti Config Validator.
+- [safety-match](https://github.com/suchipi/safety-match) - Rust-style pattern matching for TypeScript.
+- [tsutils](https://github.com/ajafff/tsutils) - Utility functions for working with typescript's AST.
+- [as-typed](https://github.com/lbguilherme/as-typed) - Static TypeScript types from a literal JSONSchema type.
+- [fast-sort](https://github.com/snovakovic/fast-sort) - Blazing fast array sorting with TypeScript support.
+- [NativeScript plugins](https://github.com/NativeScript/plugins)
+- [Trie](https://github.com/shortwave/trie) - Fast trie implementation for TypeScript.
+- [Effect-TS](https://github.com/Effect-TS/core) - Fully-fledged functional effect system for typescript with a rich standard library.
+- [Effect-TS - Query](https://github.com/Effect-TS/query) - Efficient pipelining, batching, and caching to any data source (port of zio-query).
+- [Effect-TS - Schema](https://github.com/Effect-TS/schema) - Next Gen Data Modelling.
+- [Typanion](https://github.com/arcanis/typanion) - Static and runtime type assertion library with no dependencies.
+- [maath](https://github.com/pmndrs/maath) - Math helpers for the rest of us.
+- [Typed-Emitter](https://github.com/andywer/typed-emitter) - Strictly typed event emitter interface for TypeScript.
+- [parser-ts](https://github.com/gcanti/parser-ts) - String parser combinators for TypeScript.
+- [koan-chunked](https://github.com/koaninc/koan-chunked) - Helper functions to create and apply chunks.
+- [XActor](https://github.com/statelyai/xactor) - Actor model implementation for JavaScript and TypeScript, heavily inspired by Akka.
+- [typescript-monads](https://github.com/patrickmichalina/typescript-monads) - Write safer TypeScript using Maybe, List, Result, and Either monads.
+- [Splide](https://github.com/Splidejs/splide) - Lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
+- [Decoders](https://github.com/nvie/decoders) - Elegant and battle-tested validation library for type-safe input data for TypeScript.
+- [B+ tree](https://github.com/qwertie/btree-typescript) - B+ trees are ordered collections of key-value pairs, sorted by key.
+- [Arcsecond](https://github.com/francisrstokes/arcsecond) - Zero Dependency Parser Combinator Library for JS Based on Haskell's Parsec.
+- [Freehold](https://github.com/tcoulter/freehold) - Library to help users gain freehold of their data, using in-browser cryptography coupled with the power of popular crypto wallets.
+- [cancelable-promise](https://github.com/alkemics/CancelablePromise) - Simple Cancelable Promise.
+- [pkg-types](https://github.com/unjs/pkg-types) - Node.js utilities and TypeScript definitions for package.json and tsconfig.json.
+- [vscode-textbuffer](https://github.com/microsoft/vscode-textbuffer) - Text buffer used in VS Code/Monaco.
+- [TS-Collection](https://github.com/always-maap/TS-Collection) - Performant Algorithms and Data-Structures for the Web & NodeJS. ([Docs](https://ts-collection.vercel.app/docs/overview))
+- [tldraw/intersect](https://github.com/tldraw/intersect) - 2D intersection utilities for TLDraw and maybe you, too.
+- [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - Opinionated, fully type-safe, lightweight localization library for TypeScript and JavaScript projects with no external dependencies.
+- [queueable](https://github.com/slikts/queueable) - Convert streams to async iterables.
+- [sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript) - Decorators and some other features for sequelize.
+- [tiny-invariant](https://github.com/alexreardon/tiny-invariant) - Takes a value, and if the value is falsy then the invariant function will throw.
+- [tinykeys](https://github.com/jamiebuilds/tinykeys) - Tiny (~400 B) & modern library for keybindings.
+- [Algebraify](https://github.com/Protowalker/algebraify) - Algebraic effects library for JS and TS using generators.
+- [defu](https://github.com/unjs/defu) - Assign default properties, recursively.
+- [FxTS](https://github.com/marpple/FxTS) - Functional library for TypeScript/JavaScript programmers. ([Web](https://fxts.dev/))
+- [tsconfck](https://github.com/dominikg/tsconfck) - Utility to find and parse tsconfig files without depending on typescript.
+- [proxy-compare](https://github.com/dai-shi/proxy-compare) - Compare two objects using accessed properties with Proxy.
+- [fnts](https://github.com/drizzer14/fnts) - Minimal Functional Programming Utilities for TypeScript & JavaScript. ([Docs](https://drizzer14.github.io/fnts/))
+- [Crunker](https://github.com/jackedgson/crunker) - Simple way to merge or concatenate audio files with the Web Audio API.
+- [static-path](https://github.com/garybernhardt/static-path) - Uses the type system to prevent 404s at compile time.
+- [ts-belt](https://github.com/mobily/ts-belt) - Fast, modern, and practical utility library for FP in TypeScript. ([Docs](https://mobily.github.io/ts-belt/api/array))
+- [std](https://github.com/micheleriva/std) - Some Haskell Prelude functions in TS.
+- [async-sema](https://github.com/vercel/async-sema) - Semaphore using `async` and `await`.
+- [Suretype](https://github.com/grantila/suretype) - Typesafe JSON (Schema) validator.
+- [Already](https://github.com/grantila/already) - Utility functions for promises; finally, map, filter, etc.
+- [Commonly](https://github.com/commonlyjs/commonly) - Modern utility library for JavaScript/TypeScript.
+- [rian](https://github.com/maraisr/rian) - Effective tracing for the edge and origins.
+- [Foy](https://github.com/zaaack/foy) - Simple, light-weight, type-friendly and modern task runner for general purpose.
+- [fp-ts-std](https://github.com/samhh/fp-ts-std) - Missing pseudo-standard library for fp-ts. Supports both modern browsers and Node.
+- [deep-proxy](https://github.com/qiwi/deep-proxy) - Deep proxy implementation for TypeScript.
+- [ts-runtime](https://github.com/fabiandev/ts-runtime) - Runtime Type Checks for TypeScript. ([Playground](https://fabiandev.github.io/ts-runtime/))
+- [Dastal](https://github.com/havelessbemore/dastal) - Data structures & algorithms implementations in TypeScript.
+- [base64-arraybuffer](https://github.com/niklasvh/base64-arraybuffer) - Encode/decode base64 data into ArrayBuffers.
+- [ts-shift](https://github.com/fwouts/ts-shift) - Generate efficient, TypeScript-friendly value validators from TypeScript types.
+- [logger](https://github.com/lvkdotsh/logger) - Zero dependency, light-weight, blazing fast customizable logging library.
+- [pacote](https://github.com/PacoteJS/pacote) - Box of goodies, in TypeScript.
+- [refa](https://github.com/RunDevelopment/refa) - Library for finite automata and regular expressions in the context of JS RegExp.
+- [msagl-js](https://github.com/msaglJS/msagl-js) - JavaScript graph layout library.
+- [Curved Arrows](https://github.com/dragonman225/curved-arrows) - Draw S-curved arrows between points or shapes.
+- [ufo](https://github.com/unjs/ufo) - URL utils for humans.
+- [murmurhash-es](https://github.com/unjs/murmurhash-es) - ESM version of murmurhash v2 and v3.
+- [Repeater.js](https://github.com/repeaterjs/repeater) - Missing constructor for creating safe async iterators.
+- [pattern-select](https://github.com/fatih-erikli/pattern-select) - Simple pattern matching in Typescript. ([Article](https://fatih-erikli.com/pattern-matching-in-typescript.html))
+- [scanner](https://github.com/101arrowz/scanner) - Document scanning from scratch.
+- [penpal](https://github.com/Aaronius/penpal) - Promise-based library for securely communicating with iframes via postMessage.
+- [unconfig](https://github.com/antfu/unconfig) - Universal solution for loading configurations.
+- [od](https://github.com/strong-roots-capital/od) - Nice date library.
+- [memoize](https://github.com/strong-roots-capital/memoize) - Higher-order memoization function.
+- [Rallie](https://github.com/ralliejs/rallie) - Library that helps users implement decentralized front-end micro service architecture.
+- [tree-visit](https://github.com/dabbott/tree-visit) - Tree traversal library.
+- [filespy](https://github.com/alloc/filespy) - Spy on files.
+- [pubble](https://github.com/crinklesio/pubble) - TypeScript implementation of event-driven proxy state.
+- [DIGL](https://github.com/crinklesio/digl) - JavaScript Directed Graph auto-layout algorithm.
+- [concurrently.macro](https://github.com/cometkim/concurrently.macro) - Transforms your async function to be run concurrently much as possible.
+- [Routz](https://github.com/schorfES/routz) - Define your SPA routes in a single source of truth - use them everywhere.
+- [predicate](https://github.com/devanshj/sthir/tree/main/packages/predicate) - eDSL to write typed predicates.
+- [Elderform](https://github.com/JoshuaAmaju/elderform) - Form creation made easy, backed by state machines.
+- [zod-to-ts](https://github.com/sachinraja/zod-to-ts) - Generate TypeScript types from your Zod schema.
+- [Typed Inject](https://github.com/nicojs/typed-inject) - Type safe dependency injection for TypeScript.
+- [p](https://github.com/antfu/p) - Tools for handling promises.
+- [Sunflake](https://github.com/lvkdotsh/sunflake) - Zero dependency, lightweight, snowflake generator.
+- [glob-bus](https://github.com/JamieMason/glob-bus) - 249 byte pub/sub event bus with namespaced wildcard support.
+- [bar-of-progress](https://github.com/badrap/bar-of-progress) - Small, easy & zero-dependency progress bar component.
+- [Entity](https://github.com/expo/entity) - Privacy-aware data layer for defining, caching, and authorizing access to application data models. ([Tweet](https://twitter.com/JI/status/1479626819863138306?s=20))
+- [perfect-cursors](https://github.com/steveruizok/perfect-cursors) - Perfect interpolation for animated multiplayer cursors. Used in tldraw.
+- [reactive-fs](https://github.com/Akryum/reactive-fs) - Reactive filesystem interface based on Vue 3 reactivity system.
+- [Omick](https://github.com/brielov/omick) - Tiny, type-safe pick and omit functions.
+- [Publer](https://github.com/brielov/publer) - Tiny, type-safe pubsub library.
+- [Typed](https://github.com/brielov/typed) - Smallest runtime type-checking library ever made.
+- [rsts](https://github.com/brielov/rsts) - Naive port of Rust's Result and Option types written in TypeScript.
+- [Union Types](https://github.com/practical-fp/union-types) - Typescript library for creating discriminating union types.
+- [spectacles-ts](https://github.com/anthonyjoeseph/spectacles-ts) - Practical Optics • Unfancy monocle-ts.
+- [Falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
+- [SDF-2D](https://github.com/schmelczerandras/sdf-2d) - Graphics library to enable the real-time rendering of 2D signed distance fields on the web.
+- [Tsconfig Type](https://github.com/harrysolovay/tsconfig-type) - Always up-to-date tsconfig.json type, transformed from its JSON Schema Store definition.
+- [aribb24](https://github.com/monyone/aribb24.js) - HTML5 subtitle renderer.
+- [TinyBase](https://github.com/tinyplex/tinybase) - Tiny, reactive JavaScript library for structured state and tabular data. ([Web](https://tinybase.org/)) ([HN](https://news.ycombinator.com/item?id=29945748))
+- [Danfo.js](https://github.com/javascriptdata/danfojs) - JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data. ([Docs](https://danfo.jsdata.org/))
+- [Algolia Filters Query Builder](https://github.com/khaledosama999/algolia-filter-query-builder) - Parser for having a structured way for querying algolia similar to well known ODMs or ORMS.
+- [bitstream](https://github.com/astronautlabs/bitstream) - Powerful bitstream library for TypeScript. ([HN](https://news.ycombinator.com/item?id=30061181))
+- [c12](https://github.com/unjs/c12) - Smart Config Loader.
+- [Dialogic](https://github.com/ArthurClemens/dialogic) - Manage dialogs and notifications.
+- [Offset Polygon](https://github.com/Stanko/offset-polygon) - Small, no dependency library for offsetting polygons.
+- [TS Expect](https://github.com/TypeStrong/ts-expect) - Checks values in TypeScript match expectations.
+- [observable-fns](https://github.com/andywer/observable-fns) - Light-weight observable implementation and functional utilities in TypeScript.
+- [Colormath.js](https://github.com/scientific-dev/colormath.js) - Color conversion and color manipulation library written in typescript for Node.js, Deno and Browser.
+- [simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - Simplex noise implementation in JavaScript/TypeScript.
+- [until](https://github.com/open-draft/until) - Gracefully handle Promises using async/await without try/catch.
+- [outvariant](https://github.com/open-draft/outvariant) - Type-safe implementation of invariant with positionals.
+- [EventEmitter](https://github.com/open-draft/strict-event-emitter) - Mirror that restricts emitting/handling events other than specified in an interface.
+- [ts-regexp](https://github.com/EvolveYourMind/ts-regexp) - Regular expressions matching at compile time with TypeScript.
+- [sanitize-url](https://github.com/braintree/sanitize-url)
+- [typescript-rtti](https://github.com/rezonant/typescript-rtti) - Emits Typescript metadata for use at runtime.
+- [principia.ts](https://github.com/0x706b/principia.ts) - TypeScript functional programming.
+- [Behavior Graph](https://github.com/yahoo/bgjs) - Software architecture and state management library.
+- [Effection](https://github.com/thefrontside/effection) - Framework for Node and the browser that makes building concurrent systems easy to get right.
+- [Pintora](https://github.com/hikerpig/pintora) - Extensible JavaScript text-to-diagrams library that works in both browser and Node.js.
+- [muse-js](https://github.com/urish/muse-js) - Muse 1, Muse 2, and Muse S EEG Headset JavaScript Library (using Web Bluetooth).
+- [Human-ID](https://github.com/RienNeVaPlus/human-id) - Generates human readable identifier strings by chaning common (short) words of the english language.
+- [opentelemetry-instrumentations-js](https://github.com/justindsmith/opentelemetry-instrumentations-js) - JavaScript extensions for the OpenTelemetry project.
+- [Resize Observer](https://github.com/juggle/resize-observer) - Polyfills the ResizeObserver API.
+- [Effector History](https://github.com/Kelin2025/effector-history) - Utility library that implements undo/redo feature for you.
+- [ts-dependent-types](https://github.com/yoav-lavi/ts-dependent-types) - Experimental collection of dependent type definitions in TypeScript.
+- [ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility.
+- [jsSHA](https://github.com/Caligatio/jsSHA) - TypeScript/JavaScript streaming implementation of the complete Secure Hash Standard (SHA) family.
+- [miniplex](https://github.com/hmans/miniplex) - Joyfully minimal riff on ECS with a focus on Developer Experience.
+- [Telescopic Text](https://github.com/jackyzha0/telescopic-text) - Open-source library to help with creating expandable text.
+- [ZenJSON](https://github.com/etienne-dldc/zenjson) - Parse and serialize special types into JSON-compatible data.
+- [literal-parser](https://github.com/etienne-dldc/literal-parser) - Small library to parse JavaScript array/object literal.
+- [Simultan](https://github.com/terkelg/simultan) - Simultaneously run an async function on any iterable with limited concurrency.
+- [mrmime](https://github.com/lukeed/mrmime) - Tiny (2.8kB) and fast utility for getting a MIME type from an extension or filename.
+- [zod-plugins](https://github.com/anatine/zod-plugins) - Plugins and utilities for Zod.
+- [unionfs](https://github.com/streamich/unionfs) - Use multiple fs modules at once.
+- [tiny-decoders](https://github.com/lydell/tiny-decoders) - Type-safe data decoding for the minimalist.
+- [js-libp2p-bootstrap](https://github.com/libp2p/js-libp2p-bootstrap) - JavaScript libp2p Implementation of the railing process of a Node through a bootstrap peer list.
+- [expressive-glob](https://github.com/Borrus-sudo/expressive-glob) - Write glob patterns in super expressive and an easy way.
+- [exponential-backoff](https://github.com/coveooss/exponential-backoff) - Utility that allows retrying a function with an exponential delay between attempts.
+- [Transform a JSON Schema to Yup Schema](https://github.com/ritchieanesco/json-schema-yup-transform)
+- [Rimbu](https://github.com/rimbu-org/rimbu) - TypeScript library focused on immutable, performant, and type-safe collections and other tools.
+- [parallel-park](https://github.com/suchipi/parallel-park) - Parallel/concurrent async work, optionally using multiple processes.
+- [screenshot](https://github.com/xataio/screenshot) - Zero-dependency browser-native way to take screenshots powered by the native web MediaDevices API.
+- [quadtree-ts](https://github.com/timohausmann/quadtree-ts) - Store and retrieve Rectangles, Circles and Lines in a recursive 2D quadtree.
+- [KitQL](https://github.com/jycouet/kitql) - Set of tools, helping you building efficient apps in a fast way.
+- [dolla bill](https://github.com/levibostian/dollabill-apple) - Easily work with Apple in-app purchases.
+- [await-less](https://github.com/danii/await-less)
+- [circular_buffer_js](https://github.com/StoneCypher/circular_buffer_js) - Fast TS/JS implementation of a circular buffer (aka ring queue, cyclic list, etc.).
+- [Excalidraw Libraries](https://github.com/excalidraw/excalidraw-libraries)
+- [pheno](https://github.com/suchipi/pheno) - Simple, lightweight at-runtime type checking functions, with full TypeScript support. ([Tweet](https://twitter.com/suchipi/status/1497776602565918720))
+- [tsm](https://github.com/matthiasferch/tsm) - TypeScript vector and matrix math library.
+- [boolean](https://github.com/thenativeweb/boolean) - Converts lots of things to boolean.
+- [magic-string-extra](https://github.com/antfu/magic-string-extra) - Extended magic-string with extra utilities.
+- [Sceneify](https://github.com/Brendonovich/sceneify) - Easiest way to control OBS from JavaScript.
+- [event](https://github.com/denosaurs/event) - Strictly typed event emitter with asynciterator support.
+- [ultimate/vault](https://github.com/ultimatecourses/vault) - Typed localStorage and sessionStorage utility with data structure and prefix support.
+- [ESP-TypeScript](https://github.com/skittleson/ESP-TypeScript) - Transpile TypeScript to Espruino flavor of JavaScript for ESP8266/ESP32 microcontrollers template project.
+- [Viselect](https://github.com/Simonwep/selection) - Simple and lightweight library to add a visual way of selecting elements, just like on your Desktop.
+- [secure-webhooks](https://github.com/quirrel-dev/secure-webhooks) - Secure signature-based authentication helper for webhooks.
+- [BlueLibs](https://github.com/bluelibs/bluelibs) - Collection of open-source software solutions designed for the modern web and enterprise scale.
+- [proto-arrows](https://github.com/krismuniz/proto-arrows) - Utility functions for drawing beautiful arrows using cubic bezier paths.
+- [Squirrelly](https://github.com/squirrellyjs/squirrelly) - Modern, configurable, and blazing fast template engine implemented in JavaScript.
+- [Quagga2](https://github.com/ericblade/quagga2) - Advanced barcode-scanner written in JavaScript and TypeScript.
+- [Freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js) - Library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or triggered manually.
+- [Iti](https://github.com/molszanski/iti) - 1kB IoC container for Typescript/JavaScript with a focus on async flow.
+- [Optimal](https://github.com/milesj/optimal) - Build, validate, and transform values with immutable typed schemas.
+- [collectable](https://github.com/frptools/collectable) - High-performance, persistent, immutable, functional data structures.
+- [Guards](https://github.com/sniptt-official/guards) - Comprehensive collection of type guards for JavaScript and TypeScript; Inspired by Elixir.
+- [striff](https://github.com/alexmacarthur/striff) - Real simple string diffing.
+- [io-ts-strings](https://github.com/jessekelly881/io-ts-strings) - String types for io-ts.
+- [Event Bus](https://github.com/trutoo/event-bus) - Typesafe cross-platform pubsub event bus ensuring reliable communication.
+- [Tiny WASI](https://github.com/qrdate/tinywasi) - Tiny WASI runtime written in TypeScript. ([HN](https://news.ycombinator.com/item?id=30693936))
+- [unimport](https://github.com/unjs/unimport) - Unified utils for auto importing APIs in modules.
+- [JSON Schema Typed](https://github.com/jrylan/json-schema-typed) - JSON Schema TypeScript definitions with complete inline documentation.
+- [device-detector-js](https://github.com/etienne-martin/device-detector-js) - Precise user agent parser and device detector written in TypeScript.
+- [tswhy](https://github.com/kitsonk/tswhy) - Community effort to enrich TypeScript diagnostics.
+- [vConsole](https://github.com/Tencent/vConsole) - Lightweight, extendable front-end developer tool for mobile web page.
+- [Boxed](https://github.com/swan-io/boxed) - Utility types for functional TypeScript.
+- [Cucumber Screenplay](https://github.com/cucumber/screenplay.js) - Library to ease implementation of the Screenplay pattern with CucumberJS.
+- [DeepmergeTS](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information.
+- [cursor-chat](https://github.com/jackyzha0/cursor-chat) - Lightweight cursor chat à la Figma for digital co-existing + presence.
+- [streaming-iterables](https://github.com/reconbot/streaming-iterables) - Swiss army knife for async iterables. Designed to replace your streams.
+- [dom-chef](https://github.com/vadimdemedes/dom-chef) - Build DOM elements using JSX automatically.
+- [Javelin](https://github.com/3mcd/javelin) - TypeScript ECS and multiplayer game development toolkit.
+- [Got Scraping](https://github.com/apify/got-scraping) - HTTP client made for scraping based on got.
+- [Adze](https://github.com/AJStacy/adze) - Library for shaping your JavaScript logs.
+- [vk-js](https://github.com/VKCOM/vkjs) - VK shared JS libs.
+- [ast-node-finder](https://github.com/rajasegar/ast-node-finder) - AST Node Find api automatically generated from code.
+- [tst-reflect](https://github.com/Hookyns/tst-reflect) - Advanced TypeScript runtime reflection system.
+- [parse-openapi](https://github.com/webpro/parse-openapi) - OpenAPI v3 parser.
+- [node-interval-tree](https://github.com/ShieldBattery/node-interval-tree) - Interval Tree data structure.
+- [Floggy](https://github.com/jasonkuhrt/floggy) - Universal structured event-oriented logging for libraries & applications.
+- [Functionless](https://github.com/sam-goodwin/functionless) - TypeScript plugin that transforms TypeScript code into Service-to-Service (aka. "functionless") integrations.
+- [get-tsconfig](https://github.com/privatenumber/get-tsconfig) - Find and parse the tsconfig.json file from a directory path.
+- [user-flow](https://github.com/push-based/user-flow) - CLI to write and run user-flows in typesript without boilerplate.
+- [ts-bus](https://github.com/ryardley/ts-bus) - Lightweight JavaScript/TypeScript event bus to help manage your application architecture.
+- [transformer-open-graph](https://github.com/donavon/transformer-open-graph) - Extracts Open Graph metadata from a URL and create an HTML preview.
+- [Merge anything](https://github.com/mesqueeb/merge-anything) - Merge objects & other types recursively. Fully TypeScript supported.
+- [is What?](https://github.com/mesqueeb/is-what) - Simple & small JS type check functions. It's fully TypeScript supported.
+- [Case anything](https://github.com/mesqueeb/case-anything) - 14 case changing functions.
+- [TS Plus std lib](https://github.com/ts-plus/stdlib)
+- [expressive-ts](https://github.com/IMax153/expressive-ts) - Functional programming library designed to simplify building complex regular expressions.
+- [graphics-ts](https://github.com/gcanti/graphics-ts) - Functional bindings for the HTML Canvas API.
+- [Effect-TS - Printer](https://github.com/Effect-TS/printer)
+- [Json Function](https://github.com/aykutkardas/Json-Function) - Allows you to use methods such as schema, innerJoin, where, limit, select, orderBy on JSON data.
+- [astx](https://github.com/codemodsquad/astx) - Structural search and replace for JavaScript and TypeScript.
+- [psd](https://github.com/webtoon/psd) - Blazing fast, zero-dependency PSD parser for the web and Node.js.
+- [Redo](https://github.com/re-do/re-po) - Set of devtools that make it easier to build and test JS/TS. ([Docs](https://redo.dev/docs/model/intro/))
+- [Immerhin](https://github.com/webstudio-is/immerhin) - Send patches around to keep the system in sync.
+- [typed-struct](https://github.com/sarakusha/typed-struct) - TypeScript utility library for creating objects that store their properties in a buffer for serialization/deserialization.
+- [remote-ui](https://github.com/Shopify/remote-ui) - Allows you to create custom component APIs in JavaScript that can be used to render UI from a context other than the UI thread, like a web worker.
+- [martha](https://github.com/selfawarestudio/martha) - Tiny collection of convenient JavaScript utilities.
+- [tson](https://github.com/skarab42/tson) - Type Safe Object Notation & Validation.
+- [TypeStream](https://github.com/scopashq/typestream) - Next-generation data transformation framework for TypeScript that puts developer experience first.
+- [unmeta](https://github.com/unjs/unmeta) - Simple tools for interacting with HTML metadata tags.
+- [Scene.js](https://github.com/daybrush/scenejs) - JavaScript & CSS timeline-based animation library.
+- [Scena](https://github.com/daybrush/scena) - Component that represents the timeline of Scene.js. You can control time, properties, and items.
+- [egjs-agent](https://github.com/naver/egjs-agent) - Extracts browser and operating system information from the user agent string or user agent object(userAgentData).
+- [Qufl](https://github.com/Mahamed-Belkheir/qufl) - JWT authentication library that supports refresh tokens.
+- [ts-macros](https://github.com/GoogleFeud/ts-macros) - Custom typescript transformer which implements function macros.
+- [CronosJS](https://github.com/jaclarke/cronosjs) - Cron based task scheduler for node and the browser, with extended syntax and timezone support.
+- [Schemawax](https://github.com/michaljanocko/schemawax) - Tiny typed data decoder—get to the DNA of your data.
+- [hmans/signal](https://github.com/hmans/signal) - Signals represent distinct signals -- or events -- that allow interested parties to add callbacks to them that will be evoked whenever the signal is emitted.
+- [fly-node-api](https://github.com/remorses/fly-node-api) - Type safe API client for the Fly.io Graphql API.
+- [Struct Vec](https://github.com/moomoolive/struct-vec) - JavaScript array-like containers for multithreading.
+- [mem](https://github.com/sindresorhus/mem) - Memoize functions - An optimization used to speed up consecutive function calls by caching the result of calls with identical input.
+- [paintkit](https://github.com/seanchas116/paintkit) - UI components and utilities for graphics editors or similar apps.
+- [Monadic Event Stream](https://github.com/mostjs/core) - High-performance reactive event stream programming that powers Most.
+- [lazy](https://github.com/ricokahler/lazy) - Small, useful set of methods for lazy iteration of iterables.
+- [untyped](https://github.com/unjs/untyped) - Generate types and markdown from a config object.
+- [scroll-snap](https://github.com/lucafalasco/scroll-snap) - Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behavior.
+- [Google Maps JavaScript API Loader](https://github.com/googlemaps/js-api-loader) - Load the Google Maps JavaScript API script dynamically.
+- [sum-types](https://github.com/unsplash/sum-types) - Safe, ergonomic, non-generic sum types in TypeScript.
+- [tsPEG](https://github.com/EoinDavey/tsPEG) - PEG Parser Generator for TypeScript.
+- [InversifyJS](https://github.com/inversify/InversifyJS) - Powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+- [flocky](https://github.com/devoxa/flocky) - Utility library with clarity and efficiency at the core. 0 dependencies.
+- [trace-mapping](https://github.com/jridgewell/trace-mapping) - Trace the original position through a source map.
+- [TypeScript-JSON](https://github.com/samchon/typescript-json) - 2x faster JSON stringify function with only one line.
+- [Delta](https://github.com/quilljs/delta) - Simple, yet expressive format that can be used to describe contents and changes.
+- [Result](https://github.com/badrap/result) - TypeScript result type taking cues from Rust's Result and Haskell's Either types.
+- [OpenRPC Client JS](https://github.com/open-rpc/client-js) - Browser-compatible JSON-RPC client with multiple transports.
+- [LZ-UTF8](https://github.com/rotemdan/lzutf8.js) - High-performance JavaScript string compression library.
+- [flat-drop-files](https://github.com/placemark/flat-drop-files) - Normalize the DataTransferItems interface from a drop event.
+- [Injectable TS](https://github.com/raveclassic/injectable-ts) - Purely-functional strictly-typed IoC/DI for TypeScript.
+- [Scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code.
+- [TypeScript JSON Decoder](https://github.com/tskj/typescript-json-decoder) - Library for decoding untrusted data as it comes in to your system, inspired by elm-json-decode.
+- [Network Idle](https://github.com/SupremeTechnopriest/network-idle) - Detect when the browser's network requests are idle.
+- [immer-yjs](https://github.com/sep2/immer-yjs) - Combine immer & y.js.
+- [InfluxDB JS](https://github.com/influxdata/influxdb-client-js)
+- [ts-case-convert](https://github.com/RossWilliams/ts-case-convert) - Convert between camelCase and snake_case while preserving typescript information.
+- [Starbeam](https://github.com/wycats/starbeam) - Library for building reactive data systems that integrate natively with UI frameworks such as React, Vue, Svelte or Ember. ([HN](https://news.ycombinator.com/item?id=31234147))
+- [factoria](https://github.com/phanan/factoria) - Simplistic model factory for Node/JavaScript.
+- [oxide.ts](https://github.com/traverse1984/oxide.ts) - Rust's Option\<T\> and Result\<T, E\>, implemented for TypeScript.
+- [typesafe-utils](https://github.com/ivanhofer/typesafe-utils) - Collection of a few small lightweight typesafe utilities.
+- [Layr](https://github.com/layrjs/layr) - Dramatically simplify full‑stack development.
+- [ZXing](https://github.com/zxing-js/library) - Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
+- [YFS](https://github.com/motifland/yfs) - Synchronize text files between the browser and the file system using the File System Access API and Yjs.
+- [spring-easing](https://github.com/okikio/spring-easing) - Quick and easy spring animation.
+- [copycat](https://github.com/snaplet/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
+- [Optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options for TypeScript and Deno.
+- [Turbo Query](https://github.com/StudioLambda/TurboQuery) - Lightweight asynchronous data management.
+- [hi18n](https://github.com/wantedly/hi18n) - Message internationalization meets immutability and type-safety.
+- [FortuneSheet](https://github.com/ruilisi/fortune-sheet) - Drop-in JS spreadsheet library that provides rich features like Excel and Google Sheets.
+- [Yooda](https://github.com/ooade/yooda) - 600b validation library with custom handlers and messages.
+- [TypePipe](https://github.com/afresquet/typepipe) - Library to create pipelines with contexts and strong type checking.
+- [AutoAnimate](https://github.com/formkit/auto-animate) - Zero-config, drop-in animation utility that adds smooth transitions to your web app. ([Web](https://auto-animate.formkit.com/))
+- [AMQP-client.js](https://github.com/cloudamqp/amqp-client.js) - AMQP 0-9-1 TypeScript client both for Node.js and browsers (using WebSocket).
+- [Hilbert.ts](https://github.com/mathigon/hilbert.js) - TypeScript library for expression parsing, simplification, and MathML rendering.
+- [QR Code Styling](https://github.com/kozakdenys/qr-code-styling) - Automatically generate your styled QR code in your web app. ([Web](https://qr-code-styling.com/))
+- [StableLib](https://github.com/StableLib/stablelib) - Stable library of useful TypeScript/JavaScript code.
+- [JSON Infer Types](https://github.com/jsonhero-io/json-infer-types) - Infers the type and format of JSON values.
+- [TSTL](https://github.com/samchon/tstl) - Standard Template Library, migrated from C++.
+- [munum](https://github.com/andykswong/munum) - Micro 3D Math Library for JavaScript and WebAssembly.
+- [Scroll Snap Carousel](https://github.com/Grsmto/scroll-snap-carousel) - Helper to enhance the native CSS Scroll Snap experience.
+- [QR Scanner](https://github.com/nimiq/qr-scanner) - Lightweight JavaScript QR Code Scanner.
+- [vali-guard](https://github.com/lforst/vali-guard) - Somewhat flexible validation library that guarantees TypeScript type-safety.
+- [proxy-hooks](https://github.com/Borrus-sudo/proxy-hooks) - Zero dependency JS proxy wrapper for ease of use with first class TS support.
+- [Emery](https://github.com/Thinkmill/emery) - Polish for the rough parts of TypeScript.
+- [jsx-view](https://github.com/colelawrence/jsx-view)
+- [better-ajv-errors](https://github.com/apideck-libraries/better-ajv-errors) - Human-friendly JSON Schema validation for APIs.
+- [iterate-all](https://github.com/suchipi/iterate-all) - Converts an iterable, iterable of Promises, or async iterable into a Promise of an Array.
+- [convert-units](https://github.com/convert-units/convert-units) - Elegant way to convert quantities between different units.
+- [timsy](https://github.com/christianalfoni/timsy) - Agnostic functional state machine with epic type support.
+- [sim-ecs](https://github.com/NSSTC/sim-ecs) - Type-based, Components-first ECS, which is optimized for simulation needs. Will run in NodeJS and the browser.
+- [h3-typebox](https://github.com/kevinmarrec/h3-typebox) - Schema validation utilities for h3, using typebox & ajv.
+- [p-props](https://github.com/sindresorhus/p-props) - Like Promise.all() but for Map and Object.
+- [ts-poet](https://github.com/stephenh/ts-poet) - TypeScript code generator that is a fancy wrapper around template literals.
+- [WRP](https://github.com/pbkit/wrp-ts) - TypeScript Implementation of Webview/Worker Request Protocol.
+
+## Links
+
+- [TypeScout](https://wongmjane.com/typescout) - Search TS types. ([Code](https://github.com/wongmjane/typescout))
+- [TypeSearch](https://microsoft.github.io/TypeSearch/) - Search TS types. ([Code](https://github.com/Microsoft/TypeSearch))
+- [TypeScript library starter](https://github.com/alexjoverm/typescript-library-starter) - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more.
+- [check-dts](https://github.com/ai/check-dts) - Unit tests for TypeScript definitions in your JS open source library.
+- [LiTScript](https://github.com/johtela/litscript) - Documentation generation tool that draws inspiration from literate programming.
+- [tsup](https://github.com/egoist/tsup) - Bundle your TypeScript library with no config, powered by esbuild. ([Web](https://tsup.egoist.sh/))
+- [Awesome Template Literal Types](https://github.com/ghoullier/awesome-template-literal-types)
+- [docs-ts](https://github.com/gcanti/docs-ts) - Zero-config documentation tool for TypeScript projects.
+- [tsd](https://github.com/SamVerschueren/tsd) - Check TypeScript type definitions.
+- [Grok](https://github.com/ui-js/grok) - Turns a TypeScript declaration file into a beautiful, readable, web page.
+- [my-ts-lib](https://github.com/egoist/ts-lib-starter) - Minimal TypeScript library starter.
+- [typescript-npm-package-template](https://github.com/ryansonshine/typescript-npm-package-template) - Template to kickstart creating a Node.js module using TypeScript and VSCode.
+- [typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown) - Plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
+- [TypeScript Module Loader](https://github.com/lukeed/tsm)
+- [bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for JavaScript/TypeScript/JSX library. ([Article](https://huozhi.im/post/create-a-zero-config-bundler))
+- [Generate readme from TypeScript](https://github.com/LinusU/ts-readme-generator) - Generate API documentation straight into the readme file from TypeScript typings.
+- [TSDX Monorepo Example/Playground](https://github.com/jaredpalmer/tsdx-monorepo)
+- [npm-dts](https://github.com/vytenisu/npm-dts) - Generates single dts file for bundling TypeScript NPM packages.
+- [ts2ocaml](https://github.com/ocsigen/ts2ocaml) - Generate OCaml bindings from TypeScript definitions via the TypeScript compiler API.
+- [Tangerine monorepo](https://github.com/mmazzarolo/tangerine-monorepo) - Fast TypeScript-based Node.js monorepo setup powered by esbuild.
+- [What would you use to publish/build a TypeScript package (i.e. publish on npm) today? (2021)](https://twitter.com/jsjoeio/status/1458807179708796931)
+- [Type-Safe Event Emitter in TypeScript (2021)](https://danilafe.com/blog/typescript_typesafe_events/)
+- [type-predicates-generator](https://github.com/d-kimuson/type-predicates-generator) - Tool to automatically generate type predicates functions from type definitions.
+- [OpenAPI Typescript Codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - Node.js library that generates Typescript clients based on the OpenAPI specification.
+- [DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools) - Infrastructure for DefinitelyTyped.
+- [ts-lib-starter](https://github.com/Borrus-sudo/ts-lib-starter) - Finest quality ts-lib-starter with insane defaults.
+- [ts-node-starter](https://github.com/bennycode/ts-node-starter)
+- [structured-types](https://github.com/ccontrols/structured-types) - Collection of libraries using the Typescript Compiler API to generate "structured" type information from jsdoc and typescript files.
+- [typejuice](https://github.com/galvez/typejuice) - Documentation generator for TypeScript Declaration Files inspired by godoc.
+- [kanpai](https://github.com/egoist/kanpai) - Better way to publish npm packages.
+- [unpkg origin server](https://github.com/unpkg/origin)
+- [eszip](https://github.com/denoland/eszip) - Utility that can download JavaScript and TypeScript module graphs and store them locally in a special zip file.
+- [syncpack](https://github.com/JamieMason/syncpack) - Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces.
+- [TypeScript Internal Types](https://github.com/nonara/ts-expose-internals) - Expose TypeScript internal types by simply adding a development dependency.
+- [TS Creator](https://github.com/HearTao/ts-creator) - Code generator to generate TypeScript code generator from TypeScript code.
+- [dotalias](https://github.com/open-draft/dotalias) - Single configuration for path aliases to reuse across all your tools (TypeScript, webpack, Jest, etc.).
+- [ts-standard](https://github.com/standard/ts-standard) - Typescript style guide, linter, and formatter using StandardJS.
+- [get-packages](https://github.com/egoist/get-packages) - Get packages from a monorepo (pnpm, yarn, npm, lerna).
+- [tsync](https://github.com/Wulf/tsync) - Synchronize rust and typescript types.
+- [run-ts](https://github.com/etienne-dldc/run-ts) - Tools to use Typescript files as npm scripts.
+- [convert-to-dts](https://github.com/suchipi/convert-to-dts) - Converts the source code for any .js or .ts file into the equivalent .d.ts code TypeScript would generate.
+- [publib](https://github.com/cdklabs/publib) - Unified toolchain for publishing libraries to popular package managers.
+- [ts-eager](https://github.com/bustle/ts-eager) - Fast TypeScript runner using esbuild for eager compilation.
+- [ts-starter](https://github.com/antfu/ts-starter) - Starter template for typescript with node.
+- [JSON to TS](https://github.com/MariusAlch/json-to-ts) - Convert JSON object to typescript interfaces.
+- [docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS. Works for Node and on the Browser. ([Docs](https://docx.js.org/#/))
+- [Stardazed Web Streams Implementation](https://github.com/stardazed/sd-streams)
+- [Tsify](https://github.com/madonoharu/tsify) - Library for generating TypeScript definitions from rust code.
+- [query-registry](https://github.com/velut/node-query-registry) - Query the npm registry for packuments, manifests, packages and download counts.
+- [Easiest way today to build a library in typescript and publish it on npm in all formats people use (2022)](https://twitter.com/oleg008/status/1510006191296061441)
+- [dtsgenerator](https://github.com/horiuchi/dtsgenerator) - TypeScript d.ts file generate from JSON Schema file.
+- [package-bundler](https://github.com/benduran/package-bundler) - CLI for compiling and bundling your TypeScript to ESM & CJS, with deep exports support.
+- [package-check](https://github.com/skypackjs/package-check) - Quality score checker for npm packages.
+- [TypeScript Definitions to Markdown](https://github.com/skarab42/ts-to-md) - VS Code extension that helps you to export your TypeScript definitions in Markdown format.
+- [rev-dep](https://github.com/jayu/rev-dep) - File dependency debugging tool for TypeScript projects.
+- [Semantic Versioning for TypeScript Types Spec](https://www.semver-ts.org/) ([Code](https://github.com/typed-ember/semver))
+- [npx link](https://github.com/privatenumber/link) - Safer version of npm link.
+- [Anton Gilgur's TS library template](https://github.com/agilgur5/ts-library-base)
+- [FP-TS resources](https://github.com/newswim/wtfp-ts)
+- [SemVer for TS in Practice](https://v5.chriskrycho.com/journal/semver-for-ts-in-practice/)
+- [Wireit](https://github.com/google/wireit) - Upgrades your npm scripts to make them smarter and more efficient.
+- [Misusing TypeScript Assertion Functions for Fun and Profit (2022)](https://v5.chriskrycho.com/journal/misusing-typescript-assertion-functions-for-fun-and-profit/)
+- [pkgroll](https://github.com/privatenumber/pkgroll) - Zero-config JS bundler for ESM, CommonJS, and .d.ts outputs.
+- [tsukuru](https://github.com/d-fischer/tsukuru) - Build a TypeScript package that's compatible with both CommonJS and ES Modules.
+- [changelogd](https://github.com/harlan-zw/changelogd) - Aggressively find a packages changelog (or releases) between versions.
+- [module-extractor](https://github.com/aleclarson/module-extractor) - Extract a JS/TS module and its dependencies into a new package.
+- [DocGraph](https://github.com/souporserious/docgraph) - Topological documentation generator for JavaScript with first-class support for React.
+- [TypeScript SQL tagged template plugin](https://github.com/frigus02/typescript-sql-tagged-template-plugin) - TypeScript server plugin that adds type checking for SQL queries tagged with an sql function.
+- [suppress-ts-errors](https://github.com/kawamataryo/suppress-ts-errors) - CLI tool to add comments to suppress typescript type errors.
+- [TypeScript Module Toolkit](https://github.com/tsmodule/tsmodule) - Toolkit for developing pure ESM TypeScript packages that target any platform (browser, Node, etc.).
+- [Typehead](https://github.com/mapbox/typehead) - Thin wrapper around ESBuild that makes it refreshingly simple to develop NPM packages using TypeScript.
+- [mkdist](https://github.com/unjs/mkdist) - Lightweight file-to-file transpiler.
+- [Template: TypeScript Module](https://github.com/lukeed/typescript-module)
+- [detective-typescript](https://github.com/dependents/detective-typescript) - Get the dependencies of a TypeScript module.

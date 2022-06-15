@@ -1,0 +1,185 @@
+---
+title: Web performance
+---
+
+# [Web performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
+
+Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) tests to see web page performance. I love using [Solid](../programming-languages/javascript/js-libraries/solid.md) for building both web apps and static sites. I try and use [lean and efficient frameworks/APIs](https://twitter.com/slightlylate/status/1517163057780195331) whenever I can.
+
+[Local databases that persist not just data but UI is neat concept](https://twitter.com/devongovett/status/1526225850739347458). [Calibre](https://calibreapp.com/) seems nice too. [This series](https://twitter.com/tigt_/status/1503755985667698696) is a nice read.
+
+## Notes
+
+- Don't ever underestimate the cost performance of cache misses.
+- [Bundle size is not your main performance problem (most likely). As long as the cache headers are ok and hosted in a CDN, you are good. Worry about expensive renders or unnecessary network calls before fine-tuning bundle size.](https://twitter.com/scinos/status/1419535719811399683)
+- [Page speed factors and how to increase it: 1. User's Network: deploy to edge, move code to server for smaller bundles. 2. Server Network and Code: fast regional DBs, caching. 3. Asset Waterfall: Load in parallel, don't chain. 4. Parse/eval: move code to server for smaller bundles.](https://twitter.com/ryanflorence/status/1479111475683737610)
+- [Cache dashboard data in Redis on server instead of react-query in the browser. Revalidate it after requests (on an interval so you don't overwork it with high traffic). Expire + push into the cache after writes. Backend investment will yield far greater perf than client.](https://twitter.com/ryanflorence/status/1499160939589173248)
+- [Often times a “slow” website is literally because it is loading megabytes of 3rd party crap when the app logic itself can be <200kb using any framework. That 5kb you save by not having to use a state management lib is insignificant compared to these. The difference made by choice of framework is insignificant if the payload is dominated by 3rd party bloat.](https://twitter.com/youyuxi/status/1509422910020075521)
+- [Have database and app hosted off the same region as each other.](https://twitter.com/buildsghost/status/1517573869858525184)
+- [Few things will teach you more about web development than running your web app through WebPageTest, and working to fix everything that sucks.](https://twitter.com/slightlylate/status/1519690020449177600)
+
+## Links
+
+- [Rendering on the Web (2019)](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
+- [Web Performance Mini Series: Animations (2019)](https://www.youtube.com/watch?v=ohc8ejzSn48)
+- [tachometer](https://github.com/Polymer/tachometer) - Statistically rigorous benchmark runner for the web.
+- [Idle Until Urgent (2018)](https://philipwalton.com/articles/idle-until-urgent/)
+- [bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
+- [Ask HN: How to performance test React webapps for rendering speed regressions? (2019)](https://news.ycombinator.com/item?id=19969308)
+- [Performance metrics for blazingly fast web apps (2019)](https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps-ec12efa26bcb)
+- [webhint](https://github.com/webhintio/hint) - Hinting engine for the web. ([Web](https://webhint.io/))
+- [Latency](https://latency.apex.sh/) - Global latency testing tool.
+- [Ilya Grigorik | performance.now().reject(reasons) (2019)](https://www.youtube.com/watch?v=vtIfVPtN6io)
+- [You Don't Need](https://github.com/you-dont-need/You-Dont-Need.com) - People choose popular projects, often not because it applies to their problems.
+- [Treo](https://treo.sh/) - Page Speed Monitoring.
+- [Front-End Performance Checklist (2020)](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
+- [Perf Tooling](https://github.com/stefanjudis/perf-tooling) - List of performance analysis, monitoring and optimization tools.
+- [Keeping 100% Lighthouse score around the world - Leonardo Zizzamia (2020)](https://www.youtube.com/watch?v=fg7N14Fq1gM)
+- [Calibre](https://calibreapp.com/) - Monitor and audit web performance. Make meaningful improvements where it matters.
+- [Web bloat](http://danluu.com/web-bloat/)
+- [Falco](https://getfal.co/) - Helps you monitor, analyze, and optimize your websites. ([Code](https://github.com/theodo/falco))
+- [Monitoring Performance with the PageSpeed Insights API (2020)](https://dev.to/addyosmani/monitoring-performance-with-the-pagespeed-insights-api-33k7)
+- [Sitespeed.io](https://www.sitespeed.io/) - Set of open source tools that makes it easy to monitor and measure the performance of your web site.
+- [Measuring React app performance (2019)](https://www.debugbear.com/blog/measuring-react-app-performance)
+- [Profiling React performance with React 16 and Chrome Devtools (2017)](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)
+- [Firefox Profiler](https://profiler.firefox.com/) - Web app for Firefox performance analysis.
+- [Do’s and Don’ts for Performance Teams (2020)](https://medium.com/@ricomariani/dos-and-don-ts-for-performance-teams-7f52c41b5355)
+- [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
+- [Jank Free](http://jankfree.org/) - Resources to make web silky smooth.
+- [Visualizing Performance with Flame Graphs (2017)](https://www.youtube.com/watch?v=D53T1Ejig1Q)
+- [Awesome performance testing collection](https://github.com/andriisoldatenko/awesome-performance-testing)
+- [go-ycsb](https://github.com/pingcap/go-ycsb) - Go port of Yahoo! Cloud Serving Benchmark.
+- [List of functions which you can use to replace moment.js + ESLint Plugin](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+- [Meaningful Availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
+- [ReBench](https://github.com/smarr/ReBench) - Execute and Document Benchmarks Reproducibly.
+- [import-size](https://github.com/mweststrate/import-size) - Measure the real, minified, tree-shaken impact of individual imports into your app.
+- [Reflections on software performance (2020)](https://blog.nelhage.com/post/reflections-on-performance/) ([HN](https://news.ycombinator.com/item?id=22400329))
+- [Fixing memory leaks in web applications (2019)](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
+- [In-Browser Performance Linting With Feature Policies (2020)](https://timkadlec.com/remembers/2020-02-20-in-browser-performance-linting-with-feature-policies/)
+- [Effective Profiling in Google Chrome (2020)](https://blog.appsignal.com/2020/02/20/effective-profiling-in-google-chrome.html)
+- [bundle-wizard](https://github.com/aholachek/bundle-wizard) - Easy insight into the JS loaded by a web app.
+- [Fast Software, the Best Software](https://craigmod.com/essays/fast_software/)
+- [Image CDNs can save 40-80% on image byte sizes by automating best practices](https://twitter.com/addyosmani/status/1232983718353981440)
+- [Web Performance Working Group](https://www.w3.org/webperf/) ([Code](https://github.com/w3c/web-performance))
+- [Why We Started Putting Unpopular Assets in Memory](https://blog.cloudflare.com/why-we-started-putting-unpopular-assets-in-memory/) ([Lobsters](https://lobste.rs/s/ka92bs/why_we_started_putting_unpopular_assets))
+- [Statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins.
+- [I’ve gone to great lengths for this silence](https://k1ss.org//blog/20191004a) ([Lobsters](https://lobste.rs/s/fpdafj/i_ve_gone_great_lengths_for_this_silence))
+- [storybook-addon-performance](https://github.com/atlassian-labs/storybook-addon-performance) - Storybook addon to help better understand and debug performance for React components.
+- [The Tail At Scale - Jeff Dean (2013)](https://dl.acm.org/doi/abs/10.1145/2408776.2408794)
+- [Building This Website (2020)](https://joshbradley.me/building-this-website/)
+- [Performance Resources](https://github.com/mfleming/performance-resources)
+- [PackWatch](https://github.com/mcataford/packwatch) - Keep an eye on your packages' footprint.
+- [Annie Sullivan - Understanding Cumulative Layout Shift (2020)](https://www.youtube.com/watch?v=zIJuY-JCjqw&list=PLSmH2HL6l9pwQmSgpKFtWiISOXua3zq8I&index=15&t=0s)
+- [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
+- [Package Phobia](https://packagephobia.now.sh/) - Find the cost of adding a new dependency to your project. ([Code](https://github.com/styfle/packagephobia))
+- [WebPageTest](https://www.webpagetest.org/) - Test a website's performance. ([Code](https://github.com/WPO-Foundation/webpagetest))
+- [WebPageTest API Wrapper for NodeJS](https://github.com/WebPageTest/webpagetest-api)
+- [Monitor your web page's total memory usage with `performance.measureMemory()`](https://web.dev/monitor-total-page-memory-usage/) ([HN](https://news.ycombinator.com/item?id=22860859))
+- [cliff](https://github.com/jonhoo/cliff) - Find the load at which a benchmark falls over.
+- [Build Size Watcher](https://github.com/codechecks/build-size-watcher) - Keep your build size in check and detect when it gets too big.
+- [Guide to Chrome's performance profiler (2020)](https://www.youtube.com/watch?v=KWM5wxlDuis)
+- [Server-Side Rendering is a Thiel Truth (2020)](https://timr.co/server-side-rendering-is-a-thiel-truth) ([Lobsters](https://lobste.rs/s/m3oacg/server_side_rendering_is_thiel_truth)) ([HN](https://news.ycombinator.com/item?id=23016635))
+- [Lighthouse CI Diff](https://googlechrome.github.io/lighthouse-ci/viewer/)
+- [Automating Web Perf measurement with Puppeteer](https://github.com/addyosmani/puppeteer-webperf)
+- [Web Vitals](https://web.dev/vitals/) - Essential metrics for a healthy site. ([Article](https://blog.chromium.org/2020/05/introducing-web-vitals-essential-metrics.html)) ([HN](https://news.ycombinator.com/item?id=23081509)) ([Extension](https://github.com/GoogleChrome/web-vitals-extension)) ([Code](https://github.com/GoogleChrome/web-vitals))
+- [The Cost of Javascript Frameworks (2020)](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/) ([HN](https://news.ycombinator.com/item?id=23114742))
+- [0x10 Rules](http://fabiensanglard.net/ilike/index.html)
+- [Fast or Slow](https://www.fastorslow.com/) - Global speed profiler. ([HN](https://news.ycombinator.com/item?id=23119701))
+- [Benchmark.js](https://github.com/bestiejs/benchmark.js) - Robust benchmarking library that supports high-resolution timers & returns statistically significant results.
+- [Perfume.js](https://github.com/Zizzamia/perfume.js) - Web performance library for measuring all User-centric performance metrics. ([Docs](https://zizzamia.github.io/perfume/))
+- [How Khan Academy Successfully Handled 2.5x Traffic in a Week (2020)](http://engineering.khanacademy.org/posts/handling-2x-traffic-in-a-week.htm) ([HN](https://news.ycombinator.com/item?id=23168998))
+- [Quicklink](https://getquick.link/) - Drop-in solution for sites to prefetch links based on what is in the user's viewport. ([Code](https://github.com/GoogleChromeLabs/quicklink/)) ([Article](https://web.dev/quicklink/))
+- [Serve Videos Instead of GIFs (2020)](https://www.dannyguo.com/blog/serve-videos-instead-of-gifs/) ([Lobsters](https://lobste.rs/s/x44a92/serve_videos_instead_gifs)) ([HN](https://news.ycombinator.com/item?id=23207019))
+- [Why NetNewsWire Is Fast (2020)](https://inessential.com/2020/05/18/why_netnewswire_is_fast) ([HN](https://news.ycombinator.com/item?id=23286362))
+- [The Website Obesity Crisis (2015)](https://idlewords.com/talks/website_obesity.htm)
+- [5 Common Mistakes Teams Make When Tracking Performance (2020)](https://calibreapp.com/blog/common-mistakes-in-tracking-speed)
+- [Modern Script Loading (2019)](https://jasonformat.com/modern-script-loading/)
+- [AMP](https://amp.dev/) - Web component framework to easily create user-first web experiences. ([Code](https://github.com/ampproject/amp.dev))
+- [Everything You Have to Know About Core Web Vitals (2020)](https://calibreapp.com/blog/core-web-vitals)
+- [Set and Meet Speed Budgets (2020)](https://calibreapp.com/blog/set-and-meet-speed-budgets)
+- [Is WebP really better than JPEG? (2020)](https://siipo.la/blog/is-webp-really-better-than-jpeg) ([Lobsters](https://lobste.rs/s/pky9aa/is_webp_really_better_than_jpeg))
+- [Everything Addy Osmani Hates About JavaScript (2020)](https://dev.to/ben/everything-addy-osmani-hates-about-javascript-5cb)
+- [An introduction to Web Performance and the Critical Rendering Path (2018)](https://medium.com/free-code-camp/an-introduction-to-web-performance-and-the-critical-rendering-path-ce1fb5029494)
+- [Tooling.Report](https://bundlers.tooling.report/) - Quick way to determine the best build tool for your next web project. ([Code](https://github.com/GoogleChromeLabs/tooling.report/)) ([Tweet](https://twitter.com/brianleroux/status/1278016843056218114))
+- [Speedlify](https://speedlify.netlify.app/ssg/) - Benchmark Static Site Generator web sites over time (ordered by Lighthouse scores). ([Article](https://www.zachleat.com/web/speedlify/))
+- [Is my host fast yet?](https://ismyhostfastyet.com/) - Leaderboard of hosting providers' TTFB performance. ([Code](https://github.com/rviscomi/ismyhostfastyet))
+- [web-vitals-reporter](https://github.com/treosh/web-vitals-reporter) - Tiny (800 B) utility to simplify web vitals reporting.
+- [Perf Track](https://perf-track.web.app/) - Tracking framework performance at scale. ([Code](https://github.com/GoogleChromeLabs/perf-track))
+- [Wikipedia's JavaScript initialisation on a budget (2020)](https://phabricator.wikimedia.org/phame/live/7/post/175/wikipedia_s_javascript_initialisation_on_a_budget/) ([Lobsters](https://lobste.rs/s/dckdjb/wikipedia_s_javascript_initialisation))
+- [Web Design Guidelines for Low Bandwidth](http://www.aptivate.org/webguidelines/Guidelines.html)
+- [Environmental web design & use tips](https://floss.social/@alcinnz/104390993016046404)
+- [How Fast Should Your Load? (2020)](https://medium.com/firebase-developers/how-fast-should-your-site-load-cfb14be48e8b)
+- [radEventListener: Client-side Framework Performance (2020)](https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/) ([HN](https://news.ycombinator.com/item?id=24279434))
+- [Tune The Web](https://www.tunetheweb.com/) - Make your website better today.
+- [The Ultimate Guide to Web Performance (2020)](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
+- [Performance Observer](https://github.com/sumup-oss/performance-observer) - Generic interface for PerformanceObserver API.
+- [Getting Postmark’s Lighthouse Performance Score to 100 (2020)](https://wildbit.com/blog/2020/09/30/getting-postmark-lighthouse-performance-score-to-100)
+- [Speedlify](https://www.speedlify.dev/) - Benchmark web pages over time. ([Code](https://github.com/zachleat/speedlify)) ([Article](https://www.zachleat.com/web/speedlify/))
+- [Sitejoy](https://www.sitejoy.dev/) - Fast & responsive websites that will bring you joy.
+- [A Bit of Performance (2019)](https://www.kizu.ru/a-bit-of-performance/)
+- [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions.
+- [Next.js Analytics](https://nextjs.org/analytics) - Provides your Real Experience Score through data from actual visitors. ([HN](https://news.ycombinator.com/item?id=24908819))
+- [Request Metrics](https://requestmetrics.com/) - Website performance monitoring.
+- [Low Hanging Fruits in Frontend Performance Optimization (2020)](https://pawelurbanek.com/frontend-performance-optimization)
+- [The Core Web Vitals hype train (2020)](https://sylormiller.com/posts/2020/core-web-vitals/) ([Tweet](https://twitter.com/ksylor/status/1327363260295897088))
+- [How we improved the Lighthouse score of our landing page to 96 (2020)](https://blog.checklyhq.com/how-we-improved-the-lighthouse-score-of-our-landing-page-to-96/)
+- [1MB Club](https://1mb.club/) - Collection of performance-focused web pages found across the internet. ([HN](https://news.ycombinator.com/item?id=25151773)) ([Code](https://github.com/bradleytaunt/1mb-club))
+- [250kb Club](https://250kb.club/) ([Code](https://github.com/nkoehring/250kb-club)) ([HN](https://news.ycombinator.com/item?id=25176663))
+- [Optimizing Your Web App 100x is Like Adding 99 Servers (2020)](https://lukerissacher.com/blog/optimizing_your_web_app) ([HN](https://news.ycombinator.com/item?id=25165752))
+- [require-so-slow](https://github.com/GoogleCloudPlatform/require-so-slow) - `require`s taking too much time? Profile 'em.
+- [Awesome web performance list](https://github.com/geldmacher/awesome-performance)
+- [Why is the Google Cloud UI so slow? (2020)](https://www.debugbear.com/blog/slow-google-cloud-ui) ([HN](https://news.ycombinator.com/item?id=25357409))
+- [Measuring page performance with Puppeteer & Playwright](https://theheadless.dev/posts/basics-performance/)
+- [Third-Party Web](https://www.thirdpartyweb.today/) - Data on third party entities and their impact on the web. ([Code](https://github.com/patrickhulce/third-party-web))
+- [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations/)
+- [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+- [Lighthouse Parade](https://github.com/cloudfour/lighthouse-parade) - Node.js command line tool that crawls a domain and gathers lighthouse performance data for every page.
+- [How we improved our website's performance (2021)](https://www.smashingmagazine.com/2021/01/smashingmag-performance-case-study/) ([HN](https://news.ycombinator.com/item?id=25874595))
+- [SpeedHub](https://www.speedhub.org/) - Information Source for Web Performance.
+- [Making GitHub’s new homepage fast and performant (2021)](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/) ([HN](https://news.ycombinator.com/item?id=25959646))
+- [JavaScript performance beyond bundle size (2021)](https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/)
+- [Speed Is the Killer Feature (2021)](https://bdickason.com/posts/speed-is-the-killer-feature/) ([HN](https://news.ycombinator.com/item?id=26312516))
+- [The Performance Inequality Gap, 2021](https://infrequently.org/2021/03/the-performance-inequality-gap/)
+- [Who has the fastest F1 website in 2021?](https://jakearchibald.com/2021/f1-perf-part-1/)
+- [Fixing a slow site iteratively (2021)](https://css-tricks.com/fixing-a-slow-site-iteratively/)
+- [10 things I learned making the fastest site in the world (2016)](https://medium.com/hackernoon/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
+- [Improving performance at scale (2021)](https://www.notion.so/Improving-performance-at-scale-432a23dc5607416cafb5f82360e5f157)
+- [Google I/O AMA: Web runtime performance (2021)](https://events.google.com/io/session/fa14e5ee-a3e2-408c-b0fc-6a8f427411d5?lng=en)
+- [How to not get sucked into performance micro-optimization territory (2021)](https://twitter.com/JoshWComeau/status/1397559162477895681)
+- [HTML and CSS techniques to reduce your JavaScript (2020)](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/) ([HN](https://news.ycombinator.com/item?id=27388691))
+- [Instant Vitals](https://vitals.dev/) - Simple tools to track and improve your Web Vitals scores. ([Code](https://github.com/InstantDomain/instant-vitals))
+- [How to Eliminate Render-Blocking Resources: a Deep Dive (2021)](https://sia.codes/posts/render-blocking-resources/)
+- [Low Bandwidth Images (2021)](https://opguides.info/posts/lowbandwidthimages/)
+- [bundlesize2](https://github.com/siddharthkp/bundlesize2) - Keep your bundle size in check.
+- [Explore JavaScript Dependencies With Lighthouse Treemap (2021)](https://sia.codes/posts/lighthouse-treemap/)
+- [My Challenge to the Web Performance Community (2021)](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/)
+- [Notes on optimizing color library (2021)](https://twitter.com/andrey_sitnik/status/1445829975316123650)
+- [The Art of Deception, Lighthouse Score Edition (2021)](https://www.zachleat.com/web/lighthouse-deception/)
+- [Measure user flows with Lighthouse (2021)](https://web.dev/lighthouse-user-flows/)
+- [Small Bundles, Fast Pages: What To Do With Too Much JavaScript (2021)](https://calibreapp.com/blog/bundle-size-optimization) ([Tweet](https://twitter.com/benschwarz/status/1455757843412389892))
+- [Building an effective Image Component (2021)](https://web.dev/image-component/)
+- [Web Test Runner Performance](https://github.com/coryrylan/web-test-runner-performance) - Small plugin for @web/test-runner that enables performance testing including checking module bundle size, tree-shaking and custom element rendering.
+- [PageSpeed Insights](https://pagespeed.web.dev/) - Help you better measure and optimize your page and site quality. ([Article](https://web.dev/whats-new-pagespeed-insights/)) ([Tweet](https://twitter.com/addyosmani/status/1460515430204801031))
+- [Awesome Bundle Size](https://github.com/kristerkari/awesome-bundle-size) - Awesome list of tools and techniques to make your web bundle size smaller and your web apps load faster.
+- [Memory leaks: the forgotten side of web performance (2022)](https://nolanlawson.com/2022/01/05/memory-leaks-the-forgotten-side-of-web-performance/) ([Lobsters](https://lobste.rs/s/zzawym/memory_leaks_forgotten_side_web)) ([HN](https://news.ycombinator.com/item?id=29821899))
+- [Garie](https://garie.netlify.app/) - Open source toolkit to monitor web performance. ([Code](https://github.com/boyney123/garie))
+- [Unlighthouse](https://unlighthouse.dev/) - Scan your entire website with Google Lighthouse. ([Code](https://github.com/harlan-zw/unlighthouse))
+- [Towards a Unified Theory of Web Performance (2022)](https://infrequently.org/2022/03/a-unified-theory-of-web-performance/)
+- [When To Fetch](https://twitter.com/ryanflorence/status/1498847523150053376)
+- [Your SSR is slow & your dev tools are lying to you (2022)](https://dev.to/mlrawlings/your-ssr-is-slow-your-devtools-are-lying-to-you-3056) ([Reddit](https://www.reddit.com/r/javascript/comments/tkflwp/your_ssr_is_slow_your_devtools_are_lying_to_you/))
+- [WebPageTest-API-Recipes](https://github.com/WebPageTest/WebPageTest-API-Recipes) - Collection of useful recipes for the WebPageTest API.
+- [Performance insights panel](https://twitter.com/jecfish/status/1509849613473226752)
+- [Optimising Largest Contentful Paint (2022)](https://csswizardry.com/2022/03/optimising-largest-contentful-paint/)
+- [Coach](https://github.com/sitespeedio/coach) - Helps you find performance problems on your web page.
+- [Early Hints: How Cloudflare Can Improve Website Load Times by 30% (2021)](https://blog.cloudflare.com/early-hints/) ([Tweet](https://twitter.com/addyosmani/status/1513215570644152325))
+- [AutoWebPerf](https://github.com/GoogleChromeLabs/AutoWebPerf) - Flexible and scalable framework for running web performance audits with arbitrary audit tools.
+- [Making the world’s fastest website, and other mistakes (2022)](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na)
+- [Hydration is pure overhead (2022)](https://www.builder.io/blog/hydration-is-pure-overhead) ([HN](https://news.ycombinator.com/item?id=31101271)) ([Tweet](https://twitter.com/mhevery/status/1516844814792224770))
+- [BundleMon](https://github.com/LironEr/bundlemon) - Monitor your bundle size.
+- [A Gentle Introduction to SSR (2022)](https://hire.jonasgalvez.com.br/2022/apr/30/a-gentle-introduction-to-ssr/) ([HN](https://news.ycombinator.com/item?id=31224226))
+- [The state of responsiveness on the web (2022)](https://www.youtube.com/watch?v=Mizzbsvv8Os)
+- [Heydon Pickering: Please Disable JavaScript To View This Site (2021)](https://www.youtube.com/watch?v=ga_byUbqvCc)
+- [Don't fight the browser preload scanner (2022)](https://web.dev/preload-scanner/)
+- [Local-First Software (2019)](https://www.inkandswitch.com/local-first/) - You own your data, in spite of the cloud. ([HN](https://news.ycombinator.com/item?id=31594613))
+- [The Real Cost of UI Components (2019)](https://betterprogramming.pub/the-real-cost-of-ui-components-6d2da4aba205)
+- [Making the world’s fastest website, and other mistakes (2022)](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na) ([Tweet](https://twitter.com/tigt_/status/1503755985667698696))

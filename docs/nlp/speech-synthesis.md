@@ -1,0 +1,77 @@
+# Speech synthesis
+
+[TorToiSe](https://github.com/neonbjb/tortoise-tts) & [15.ai](https://15.ai/) are nice.
+
+## Links
+
+- [Deepvoice3 PyTorch](https://github.com/r9y9/deepvoice3_pytorch) - PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models.
+- [WaveNet vocoder](https://github.com/r9y9/wavenet_vocoder) - Can generate high quality raw speech samples conditioned on linguistic or acoustic features.
+- [Papercup](https://www.papercup.com/) - Translate your content into other languages with a voice that sounds like yours.
+- [WaveNet implementation in Keras](https://github.com/basveeling/wavenet)
+- [nv-wavenet](https://github.com/NVIDIA/nv-wavenet) - CUDA reference implementation of autoregressive WaveNet inference.
+- [PyTorch implementation of Tacotron speech synthesis model](https://github.com/r9y9/tacotron_pytorch)
+- [Yet another WaveNet implementation in PyTorch](https://github.com/golbin/WaveNet)
+- [Flowtron](https://github.com/NVIDIA/flowtron) - Auto-regressive flow-based generative network for text to speech synthesis.
+- [A highly efficient, real-time text-to-speech system deployed on CPUs (2020)](https://ai.facebook.com/blog/a-highly-efficient-real-time-text-to-speech-system-deployed-on-cpus/) ([HN](https://news.ycombinator.com/item?id=23193967))
+- [Sonatic](https://www.sonantic.io/) - Emotionally Expressive Text to Speech.
+- [GAN-based Mel-Spectrogram Inversion Network for Text-to-Speech Synthesis](https://github.com/descriptinc/melgan-neurips)
+- [Ask HN: My wife might lose the ability to speak in 3 weeks – how to prepare? (2020)](https://news.ycombinator.com/item?id=23490115)
+- [DiffWave](https://github.com/lmnt-com/diffwave) - Fast, high-quality neural vocoder and waveform synthesizer.
+- [Voice Conversion with Non-Parallel Data](https://github.com/andabi/deep-voice-conversion)
+- [Speech Synthesis Papers](https://github.com/xcmyz/speech-synthesis-paper)
+- [VoiceFilter](https://github.com/mindslab-ai/voicefilter) - Unofficial PyTorch implementation of Google AI's VoiceFilter system. ([Web](http://swpark.me/voicefilter/))
+- [ForwardTacotron](https://github.com/as-ideas/ForwardTacotron) - Generating speech in a single forward pass without any attention. ([Web](https://as-ideas.github.io/ForwardTacotron/))
+- [HiFi-GAN](https://github.com/jik876/hifi-gan) - Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis.
+- [Parakeet](https://github.com/PaddlePaddle/Parakeet) - Text-to-speech toolKIT (supporting WaveFlow, ClariNet, WaveNet, Deep Voice 3, Transformer TTS and FastSpeech).
+- [pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python.
+- [SOVA TTS](https://github.com/sovaai/sova-tts) - Speech syntthesis solution based on Tacotron 2 architecture.
+- [eSpeak NG](https://github.com/espeak-ng/espeak-ng) - Open source speech synthesizer that supports more than hundred languages and accents.
+- [PRiSM SampleRNN](https://github.com/rncm-prism/prism-samplernn) - Neural sound synthesis with TensorFlow 2.
+- [Flite](https://github.com/festvox/flite) - Small fast portable speech synthesis system.
+- [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech (2020)](https://arxiv.org/abs/2006.04558) ([Code](https://github.com/rishikksh20/FastSpeech2)) ([Code](https://github.com/AppleHolic/FastSpeech2))
+- [Neural Granular Sound Synthesis](https://adrienchaton.github.io/neural_granular_synthesis/) ([Code](https://github.com/adrienchaton/neural_granular_synthesis))
+- [CLEESE](https://github.com/creamlab/cleese) - Combinatorial Expressive Speech Engine.
+- [LVCNet: Efficient Condition-Dependent Modeling Network for Waveform Generation](https://github.com/ZENGZHEN-TTS/LVCNet)
+- [LightSpeech: Lightweight and Fast Text to Speech with Neural Architecture Search (2021)](https://arxiv.org/abs/2102.04040) ([Code](https://github.com/rishikksh20/LightSpeech))
+- [A Survey on Neural Speech Synthesis (2021)](https://arxiv.org/abs/2106.15561) ([Code](https://github.com/tts-tutorial/survey))
+- [Binaural Speech Synthesis](https://github.com/facebookresearch/BinauralSpeechSynthesis) - Code to train a mono-to-binaural neural sound renderer.
+- [NN-SVS](https://github.com/r9y9/nnsvs) - Neural network-based singing voice synthesis library for research.
+- [Larynx](https://github.com/rhasspy/larynx) - End to end text to speech system using gruut and onnx, 50 voices, 9 languages.
+- [WellSaid Labs](https://wellsaidlabs.com/) - Voice Narration. Simplified.
+- [Neural Wave shaping Synthesis](https://github.com/ben-hayes/neural-waveshaping-synthesis) - Efficient neural audio synthesis in the waveform domain. ([Article](https://benhayes.net/projects/nws/))
+- [Catch-A-Waveform: Learning to Generate Audio from a Single Short Example](https://galgreshler.github.io/Catch-A-Waveform/) ([Code](https://github.com/galgreshler/Catch-A-Waveform))
+- [TFGAN: Time and Frequency Domain Based Generative Adversarial Network for High-fidelity Speech Synthesis (2020)](https://arxiv.org/abs/2011.12206) ([Code](https://github.com/rishikksh20/TFGAN))
+- [EdiTTS: Score-based Editing for Controllable Text-to-Speech](https://github.com/neosapience/EdiTTS)
+- [PortaSpeech: Portable and High-Quality Generative Text-to-Speech (2021)](https://arxiv.org/abs/2109.15166) ([Code](https://github.com/keonlee9420/PortaSpeech))
+- [Speech Resynthesis from Discrete Disentangled Self-Supervised Representations (2021)](https://arxiv.org/abs/2104.00355) ([Code](https://github.com/facebookresearch/speech-resynthesis))
+- [Neural Lexicon Reader: Reduce Pronunciation Errors in End-to-end TTS by Leveraging External Textual Knowledge (2021)](https://arxiv.org/abs/2110.09698) ([Code](https://github.com/mutiann/neural-lexicon-reader))
+- [Grail-rs](https://github.com/Dimev/grail-rs) - Rust speech synth.
+- [RAVE: A variational autoencoder for fast and high-quality neural audio synthesis (2021)](https://arxiv.org/abs/2111.05011) ([Code](https://github.com/caillonantoine/RAVE))
+- [WaveFlow: A Compact Flow-based Model for Raw Audio (2020)](https://arxiv.org/abs/1912.01219) ([Code](https://github.com/L0SG/WaveFlow))
+- [VoiceFixer](https://github.com/haoheliu/voicefixer_main) - Framework for general speech restoration.
+- [TTS-RS](https://github.com/ndarilek/tts-rs) - High-level Text-To-Speech (TTS) interface supporting various backends.
+- [Speech synthesis using AVSpeechSynthesizer (2021)](https://cornerbit.tech/speech-synthesis-using-avspeechsynthesizer/)
+- [Towards Lightweight Controllable Audio Synthesis with Conditional Implicit Neural Representations (2021)](https://arxiv.org/abs/2111.08462) ([Code](https://github.com/janzuiderveld/continuous-audio-representations))
+- [TTS](https://github.com/coqui-ai/TTS) - Library for advanced Text-to-Speech generation. ([Web](https://coqui.ai/)) ([HN](https://news.ycombinator.com/item?id=29786132))
+- [YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone](https://github.com/Edresson/YourTTS)
+- [SubSync](https://github.com/sc0ty/subsync) - Subtitle Speech Synchronizer. ([Overview](http://sc0ty.pl/2019/04/subsync-synchronize-movie-subtitles-with-audio-track/)) ([HN](https://news.ycombinator.com/item?id=29794153))
+- [Meta-StyleSpeech : Multi-Speaker Adaptive Text-to-Speech Generation (2021)](https://arxiv.org/abs/2106.03153) ([Code](https://github.com/keonlee9420/StyleSpeech))
+- [NATSpeech](https://github.com/NATSpeech/NATSpeech) - Non-Autoregressive Text-to-Speech Framework.
+- [VocBench: A Neural Vocoder Benchmark for Speech Synthesis (2021)](https://arxiv.org/abs/2112.03099) ([Code](https://github.com/facebookresearch/vocoder-benchmark))
+- [TransformerTTS](https://github.com/as-ideas/TransformerTTS) - Text-to-Speech Transformer in TensorFlow 2.
+- [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
+- [Neural Instrument Cloning from very few samples (2022)](https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6) ([Code](https://github.com/erl-j/neural-instrument-cloning))
+- [MLP Singer: Towards Rapid Parallel Korean Singing Voice Synthesis (2021)](https://arxiv.org/abs/2106.07886) ([Code](https://github.com/neosapience/mlp-singer))
+- [IMS Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Toolkit to train state-of-the-art Speech Synthesis models.
+- [BDDM: Bilateral Denoising Diffusion Models for Fast and High-quality Speech Synthesis (2022)](https://github.com/tencent-ailab/bddm)
+- [Deep Learning for Emotional Text-to-speech](https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts) - Summary on our attempts at using Deep Learning approaches for Emotional Text to Speech.
+- [Nix-TTS](https://github.com/rendchevi/nix-tts) - Incredibly Lightweight End-to-End Text-to-Speech Model via Non End-to-End Distillation.
+- [xVA Synth](https://github.com/DanRuta/xVA-Synth) - Machine learning based speech synthesis Electron app, with voices from specific characters from video games.
+- [Bandwidth Extension is All You Need (2021)](https://ieeexplore.ieee.org/document/9413575) ([Code](https://github.com/brentspell/hifi-gan-bwe))
+- [TorToiSe](https://github.com/neonbjb/tortoise-tts) - Multi-voice TTS system trained with an emphasis on quality.
+- [Multi-band MelGAN: Faster Waveform Generation for High-Quality Text-to-Speech (2020)](https://arxiv.org/abs/2005.05106) ([Code](https://github.com/AppleHolic/multiband_melgan))
+- [UnivNet: A Neural Vocoder with Multi-Resolution Spectrogram Discriminators for High-Fidelity Waveform Generation (2021)](https://arxiv.org/abs/2106.07889) ([Code](https://github.com/mindslab-ai/univnet))
+- [TikTok TTS](https://weilbyte.github.io/tiktok-tts/) - Generate the funny TiKTok lady voice (& more) in your browser. ([Code](https://github.com/Weilbyte/tiktok-tts))
+- [TikTok Text-to-speech API](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API.
+- [Unreal Speech](https://unrealspeech.com/) - Text-to-Speech API. Better & 8x Cheaper than AWS.
+- [15.ai](https://15.ai/) - Natural TTS with minimal viable data. ([HN](https://news.ycombinator.com/item?id=31711118))

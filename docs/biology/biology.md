@@ -1,0 +1,123 @@
+# Biology
+
+## Notes
+
+- The body is always trying to maintain homeostasis by either allowing or removing certain particles/molecules/chemicals/compounds/..
+- [We must form the habit ... of viewing the shape of a given cell, tissue, or organ not as a static feature but as a phase, transitory or terminal, in a continuous chain of transformations; as a cross section through a stream of processes proceeding in time.](https://twitter.com/drmichaellevin/status/1267563603894218754)
+- [Neurons do not divide, so when a neuron dies, the body has no mechanism to replace it. Peripheral nervous system has the capacity for regeneration and repair, while the central nervous system does not. However, this means that the peripheral neuron must survive the trauma being inflicted, as if the damage is severe or close to the cell body, it may die. However, if the cell body remains intact, then severed axons of peripheral nerves can be regenerated.](https://www.reddit.com/r/Foregen/comments/tt7hgq/i_had_learned_in_high_school_biology_classes_that/)
+- [If nerve cells could never reproduce, you would never regain feeling after you skinned your knees, but you do. From what I understand, nerve damage to the brain and spine are irreparable. The spine and brain nerves are called CNS (central nervous system) and the nerves in your skin, bones and soft tissues are called PNS (peripheral nervous system.).](https://www.reddit.com/r/Foregen/comments/tt7hgq/i_had_learned_in_high_school_biology_classes_that/)
+- [Nerve cells have axons, which are long tails that allow their synapses to be very far from the nerve body. In the case of our sensory nerves, those axons can be over a meter long. Imagine a touch receptor on your fingertip. That touch receptor connects to a synapse that's connected to an axon that runs all the way up your arm and into your spine, where the nerve body is located. If the axon is cut, the nerve cell itself does not die. This is why body parts that are reattached are capable of regaining sensation: the actual nerve itself has not died; it simply needs to regrow its axons. This growth is slow, iirc on the order of a centimeter a month, but it happens. This is also why spinal injuries are so devastating; because there, the bodies of nerve cells are being destroyed.](https://www.reddit.com/r/Foregen/comments/tt7hgq/i_had_learned_in_high_school_biology_classes_that/)
+
+## Links
+
+- [The Secret Life of Plankton](https://www.youtube.com/watch?v=xFQ_fO2D7f0)
+- [What Bodies Think About: Bioelectric Computation Outside the Nervous System - NeurIPS 2018](https://www.youtube.com/watch?v=RjD1aLm4Thg) - Incredible research. ([HN](https://news.ycombinator.com/item?id=18736698))
+- [Ask HN: Can we write a programming language for biology? (2019)](https://news.ycombinator.com/item?id=18847253)
+- [Awesome Bio Datasets](https://github.com/OpenGene/awesome-bio-datasets)
+- [Kappa](https://kappalanguage.org/) - Rule-based language for modeling systems of interacting agents. While its current development is primarily motivated by molecular systems biology, its range of applications is quite broad.
+- [KaSim](https://github.com/Kappa-Dev/KaSim) - Stochastic simulator for rule-based models written in Kappa. KaSa is a static analyser for Kappa models.
+- [BioJulia](https://biojulia.net/) - Julialang community for biologists and bioinformaticians, working to create great modern software packages for computing with biological data.
+- [Rob Reid - the dark side of gene editing and synthetic biology (2019)](https://overcast.fm/+RxHEOdXhc)
+- [New universe of miniproteins is upending cell biology and genetics (2019)](https://www.sciencemag.org/news/2019/10/new-universe-miniproteins-upending-cell-biology-and-genetics?rss=1) ([HN](https://news.ycombinator.com/item?id=21284770))
+- [Biology is Eating the World: A Manifesto (2019)](https://a16z.com/2019/10/28/biology-eating-world-a16z-manifesto/) ([HN](https://news.ycombinator.com/item?id=21385796))
+- [Ask HN: Getting started in biology with a software background (2019)](https://news.ycombinator.com/item?id=21408415)
+- [A natural biomolecule has been measured acting like a quantum wave for the first time (2019)](https://www.technologyreview.com/s/614688/a-natural-biomolecule-has-been-measured-acting-in-a-quantum-wave-for-the-first-time/) ([Paper](https://arxiv.org/abs/1910.14538))
+- [KEGG PATHWAY](https://www.genome.jp/kegg/pathway.html) - Collection of manually drawn pathway maps representing our knowledge on the molecular interaction, reaction and relation networks.
+- [Hand drawn chart of all the metabolic pathways in the body](https://www.reddit.com/r/interestingasfuck/comments/cgitgc/hand_drawn_chart_of_all_the_metabolic_pathways_in/)
+- [2019 - The Year in Biology](https://www.quantamagazine.org/quantas-year-in-biology-2019-20191223/)
+- [Synthetic Biology One course](https://syntheticbiology1.com/)
+- [Accelerating Photosynthesis](http://rubyplants.com/) ([HN](https://news.ycombinator.com/item?id=21999208))
+- [Algorithmic Botany](http://algorithmicbotany.org/) ([HN](https://news.ycombinator.com/item?id=27379780))
+- [The Algorithmic Beauty of Plants (1990)](http://algorithmicbotany.org/papers/#abop) ([PDF](http://algorithmicbotany.org/papers/abop/abop.pdf)) ([HN](https://news.ycombinator.com/item?id=25476545)) ([Code](https://github.com/arendsee/lsystems))
+- [the Node](https://thenode.biologists.com/) - Community site for and by developmental biologists.
+- [Quantum Biology - How Plants Use Quantum Mechanics (2020)](https://www.youtube.com/watch?v=Zc9Xk99gCr4)
+- [HN: If the heart is a muscle, why doesn't it ever get tired?](https://news.ycombinator.com/item?id=22643333)
+- [Zhang Lab](https://zlab.bio/) - Studies biological diversity to discover systems and processes that may be harnessed for the improvement of human health.
+- [Entropy and life](https://en.wikipedia.org/wiki/Entropy_and_life) ([HN](https://news.ycombinator.com/item?id=22849554))
+- [The Secret Lives of Fungi (2020)](https://www.newyorker.com/magazine/2020/05/18/the-secret-lives-of-fungi) ([HN](https://news.ycombinator.com/item?id=23149203))
+- [What happens in our brain when we feel an emotion (especially fear, anxiety)](https://www.reddit.com/r/neuroscience/comments/gksen6/what_happen_in_our_brain_when_we_feel_an_emotion/)
+- [Formal Systems in Biology](https://github.com/prathyvsh/formal-systems-in-biology) - Collection of resources that apply formal systems to model biological processes.
+- [MBARI's Bioinspiration Lab](https://www.bioinspirationlab.org/)
+- [bioRxiv.org](https://www.biorxiv.org/) - Preprint server for Biology.
+- [Modeling Life](https://link.springer.com/book/10.1007/978-3-319-59731-7) - The Mathematics of Biological Systems.
+- [Why Are Plants Green? To Reduce the Noise in Photosynthesis (2020)](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/) ([HN](https://news.ycombinator.com/item?id=23998793))
+- [Cell Biology by the Numbers](http://book.bionumbers.org/)
+- [Haseloff Lab](https://haseloff.plantsci.cam.ac.uk/) - Synthetic Biology for engineering plant growth.
+- [When Two Bacteria Become One (2020)](https://www.udel.edu/udaily/2020/september/eleftherios-papoutsakis-bacterial-fusion/) ([HN](https://news.ycombinator.com/item?id=24354888))
+- [Trefle Botanical API](https://github.com/treflehq/trefle-api) ([HN](https://news.ycombinator.com/item?id=24451320)) ([Web](https://trefle.io/))
+- [When Plants Go to War](http://nautil.us/issue/90/something-green/when-plants-go-to-war-rp) ([HN](https://news.ycombinator.com/item?id=24702588))
+- [Adaptive optics/lattice light-sheet microscope (2018)](https://www.electrooptics.com/news/harvard-team-develops-adaptive-opticslattice-light-sheet-microscope)
+- [Drosophila Cell Division on Lattice Light Sheet Microscope](https://vimeo.com/202222028)
+- [Mushroom spores spreading in the wind](https://twitter.com/TechAmazing/status/1316395969215369216)
+- [Cell Press](https://www.cell.com/) - Publisher of biomedical journals.
+- [Cell Signaling Technologies – Most detailed 3D model of human cells (2020)](http://www.digizyme.com/cst_landscapes.html) ([HN](https://news.ycombinator.com/item?id=25055908))
+- [Building a chemical blueprint for human blood (2020)](https://www.nature.com/articles/d41586-020-03122-6)
+- [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/) ([HN](https://news.ycombinator.com/item?id=25136422))
+- [Biochemical Pathways](https://www.roche.com/sustainability/philanthropy/science_education/pathways.htm) - Provide an overview of the chemical reactions of cells in various species and organs.
+- [Dr. Najeeb Medical Lectures](https://www.drnajeeblectures.com/)
+- [Fungi’s Lessons for Adapting to Life on a Damaged Planet (2020)](https://lithub.com/fungis-lessons-for-adapting-to-life-on-a-damaged-planet/)
+- [Handbook of Biological Statistics](http://www.biostathandbook.com/)
+- [American Society for Microbiology](https://asm.org/)
+- [Mushrooms, Russia and History Book (1957)](https://github.com/squidsoup/mushrooms-russia-history-ebook)
+- [A single cell slime mold makes decisions without a central nervous system](https://www.tum.de/nc/en/about-tum/news/press-releases/details/36462/) ([HN](https://news.ycombinator.com/item?id=26285926))
+- [How many mutations does the average human have, if <1 what % of people have at least 1 mutation present? (2021)](https://www.reddit.com/r/askscience/comments/lxhyi3/how_many_mutations_does_the_average_human_have_if/)
+- [Human Body 2.0 Project](https://newhumanbody.com/) - Idea that every part of the body should be easily replaceable in case something goes wrong.
+- [The Database of Useful Biological Numbers](https://bionumbers.hms.harvard.edu/search.aspx) ([HN](https://news.ycombinator.com/item?id=26576173))
+- [Photosynthesis microetched print](https://www.gregadunn.com/product/photosynthesis-microetched-print/)
+- [Scientists create simple synthetic cell (2021)](https://www.nist.gov/news-events/news/2021/03/scientists-create-simple-synthetic-cell-grows-and-divides-normally) ([HN](https://news.ycombinator.com/item?id=26632004))
+- [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/index.html)
+- [Cell Size and Scale](https://learn.genetics.utah.edu/content/cells/scale/)
+- [How a carnivorous mushroom poisons its prey (2021)](https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/) ([HN](https://news.ycombinator.com/item?id=26745892))
+- [There’s no such thing as a tree (phylogenetically) (2021)](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
+- [Journey to the Microcosmos](https://www.youtube.com/c/microcosmos/videos) ([Twitter](https://twitter.com/journeytomicro))
+- [Awesome Synthetic Biology](https://github.com/websemantics/awesome-synthetic-biology)
+- [Computationally Designed Organisms With Josh Bongard & Michael Levin (2021)](https://www.youtube.com/watch?v=86krKgoEzGQ)
+- [How Slime Molds Remember Where They Ate (2021)](https://www.scientificamerican.com/article/how-slime-molds-remember-where-they-ate/)
+- [Translational stem cell therapy: vascularized skin grafts in skin repair and regeneration (2021)](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-02752-2)
+- [Imaging The Human Body With Muons](https://www.science20.com/tommaso_dorigo/imaging_the_human_body_with_muons-254294) ([Reddit](https://www.reddit.com/r/Physics/comments/nokdun/imaging_the_human_body_with_muons/))
+- [Lab Cultures: An Interview with an Anonymous Biologist (2019)](https://logicmag.io/nature/lab-cultures-an-interview-with-an-anonymous-biologist/)
+- [Toward a More Accurate 3D Atlas of C. elegans Neurons (2021)](https://www.biorxiv.org/content/10.1101/2021.06.09.447813v1) ([Tweet](https://twitter.com/tegmark/status/1403343302263455749))
+- [Mike Levin on electrifying insights into how bodies form (2019)](https://wyss.harvard.edu/news/mike-levin-on-electrifying-insights-into-how-bodies-form/) ([HN](https://news.ycombinator.com/item?id=27819791))
+- [Platelets (Thrombocytes) | The Cell Pieces That Lack Nucleus](https://www.youtube.com/watch?v=X_8OTtdnE7w)
+- [Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures (2020)](https://www.goodreads.com/book/show/52668915-entangled-life) ([Summary](https://twitter.com/paraschopra/status/1419295390730317828))
+- [Emergence of growth and dormancy from a kinetic model of the Escherichia coli central carbon metabolism (2021)](https://www.biorxiv.org/content/10.1101/2021.07.21.453212v1) ([Tweet](https://twitter.com/yusuke_himeoka/status/1418257186476630016))
+- [Please, enough with the dead butterflies (2017)](https://www.emilydamstra.com/please-enough-dead-butterflies/) ([HN](https://news.ycombinator.com/item?id=27948008))
+- [Alison Pollack's Marin Mushrooms Photos](https://www.instagram.com/marin_mushrooms/)
+- [What Slime Knows](https://orionmagazine.org/article/what-slime-knows/)
+- [Three-dimensional geometry controls division symmetry in stem cell colonies (2021)](https://journals.biologists.com/jcs/article/134/14/jcs255018/271082/Three-dimensional-geometry-controls-division) - Explore how embryonic stem cells control their size after cell division. ([Tweet](https://twitter.com/AgChaigne/status/1420733129602523136))
+- [MRC LMCB at UCL](https://www.ucl.ac.uk/lmcb/) - Develops new molecular understandings of cell function. ([Twitter](https://twitter.com/MRC_LMCB))
+- [Biologists Rethink the Logic Behind Cells’ Molecular Signals (2021)](https://www.quantamagazine.org/biologists-rethink-the-logic-behind-cells-molecular-signals-20210916/) ([HN](https://news.ycombinator.com/item?id=28553158))
+- [Visually appealing biology science fiction (2021)](https://twitter.com/LauraDeming/status/1438267984934424576)
+- [Awesome Bioreactors](https://github.com/taivop/awesome-bioreactors)
+- [Walking Trees, Parasitic Flowers, and Other Remarkable Plants](https://thereader.mitpress.mit.edu/walking-trees-parasitic-flowers-remarkable-plants-illustrated-guide/) ([HN](https://news.ycombinator.com/item?id=28619550))
+- [Syllabus: Advanced Biological Statistics II (2018)](https://petrelharp.github.io/bio_610B/syllabus.html) ([Code](https://github.com/petrelharp/bio_610B))
+- [Short graduate population biology course](https://github.com/petrelharp/popbio)
+- [Analogies between Biology and Deep Learning (2021)](http://colah.github.io/notes/bio-analogies/) ([Tweet](https://twitter.com/ch402/status/1444769243568898048))
+- [Conception](https://conception.bio/) - Turning stem cells into human eggs. ([HN](https://news.ycombinator.com/item?id=29040823)) ([Article](https://www.technologyreview.com/2021/10/28/1038172/conception-eggs-reproduction-vitro-gametogenesis/))
+- [OpenWorm](https://openworm.org/) - Open-source project dedicated to creating a virtual C. elegans nematode in a computer. ([Code](https://github.com/openworm/OpenWorm)) ([HN](https://news.ycombinator.com/item?id=29045198))
+- [The secret lives of cells – as never seen before](https://www.nature.com/articles/d41586-021-02904-w) ([HN](https://news.ycombinator.com/item?id=29123843))
+- [How to Synbio](https://github.com/TimothyStiles/how-to-synbio) - Resources I always recommend to new synthetic biologists.
+- [Poly](https://github.com/TimothyStiles/poly) - Go package for engineering organisms.
+- [Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology (1972)](https://www.goodreads.com/en/book/show/493746)
+- [BMC Biology](https://bmcbiol.biomedcentral.com/) ([Twitter](https://twitter.com/BMCBiology))
+- [BMC, research in progress](https://www.biomedcentral.com/)
+- [There’s no such thing as a tree (phylogenetically)](https://eukaryotewritesblog.com/2021/05/02/) ([HN](https://news.ycombinator.com/item?id=29621646))
+- [OneZoom Tree of Life Explorer](https://www.onezoom.org/)
+- [SynBioHub](https://github.com/SynBioHub/synbiohub) - Web application enabling users and software to browse, upload, and share synthetic biology designs. ([Docs](https://wiki.synbiohub.org/))
+- [The Year in Biology (2021)](https://www.quantamagazine.org/the-year-in-biology-20211221/) ([Video](https://www.youtube.com/watch?v=1tOx_Vh5diE))
+- [Научные сенсации 2021: пересадка носа в колено, пульт от сердца, имплант от грусти / Илья Колмановский](https://www.youtube.com/watch?v=ta93_HOnu-8)
+- [The Century of Biology | Elliot Hershberg](https://centuryofbio.substack.com/)
+- [Bioicons](https://bioicons.com/) - High quality science illustrations. ([Code](https://github.com/duerrsimon/bioicons)) ([Tweet](https://twitter.com/ATinyGreenCell/status/1491657282438017031))
+- [Anja Health](https://anjahealth.com/) - Freezing stem cells at birth for future health. ([HN](https://news.ycombinator.com/item?id=30305959))
+- [Biological Anchors: A Trick That Might Or Might Not Work (2022)](https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might)
+- [Largest bacterium ever discovered has unexpectedly complex cells (2022)](https://www.science.org/content/article/largest-bacterium-ever-discovered-has-unexpectedly-complex-cells) ([HN](https://news.ycombinator.com/item?id=30454045))
+- [Detailed simulation of complete minimal cellular life](<https://www.cell.com/cell/fulltext/S0092-8674(21)01488-4>) ([HN](https://news.ycombinator.com/item?id=30474256))
+- [Cell Browser](https://a9.io/gramstract/) ([Tweet](https://twitter.com/maxkriegers/status/1465187926157918210))
+- [Symmetry found in biology](https://twitter.com/evoluchico/status/1503307804043583488)
+- [A journey to the center of our cells](https://www.newyorker.com/magazine/2022/03/07/a-journey-to-the-center-of-our-cells) ([HN](https://news.ycombinator.com/item?id=30713797))
+- [Understanding the collective intelligence of cells (2022)](https://www.youtube.com/watch?v=MdOHSUMb214) ([Tweet](https://twitter.com/drmichaellevin/status/1506970875890962441))
+- [Ask HN: Which algorithms based on biological ideas do you know? (2022)](https://news.ycombinator.com/item?id=30955837)
+- [SciDraw](https://www.scidraw.io/) - Free repository of high quality drawings of animals, scientific setups.
+- [BioDigital](https://www.biodigital.com/) - Interactive 3D Anatomy.
+- [Rhea](https://www.rhea-db.org/) - Knowledge base for bio-chemical transformations and transport reactions.
+- [Glycowork](https://github.com/BojarLab/glycowork) - Package for processing and analyzing glycans and their role in biology.
