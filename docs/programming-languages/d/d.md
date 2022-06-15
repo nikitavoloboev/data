@@ -36,3 +36,4 @@ title: D
 - [Using the GCC Static Analyzer on the D Programming Language (2022)](https://dlang.org/blog/2022/01/14/using-the-gcc-static-analyzer-on-the-d-programming-language/)
 - [Inochi2D](https://github.com/Inochi2D/inochi2d) - Library for real time 2D puppet animation and the reference implementation of the Inochi2D Puppet standard.
 - [LDC](https://github.com/ldc-developers/ldc) - LLVM-based D Compiler.
+- [Let's learn D game programming development](https://www.youtube.com/playlist?list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-) ([HN](https://news.ycombinator.com/item?id=31725028))
