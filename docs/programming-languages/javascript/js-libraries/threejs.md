@@ -122,3 +122,4 @@ title: Three.js
 - [vfx](https://github.com/hmans/vfx) - Visual effects library for react-three-fiber.
 - [Modern ThreeJS with Vite (2022)](https://www.youtube.com/watch?v=TiWRM3J5FlI)
 - [react-three/rapier](https://github.com/pmndrs/react-three-rapier) - Rapier physics in React.
+- [SSPT in ThreeJS](https://github.com/Domenicobrz/SSPT-in-threejs) - Uses only screen-space information through ray marching to recreate the lighting of a scene, and denoises it with the SVGF algorithm.

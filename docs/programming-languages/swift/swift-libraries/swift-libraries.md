@@ -1163,6 +1163,7 @@
 - [Tarscape](https://github.com/kayembi/Tarscape) - Swift package for creating and extracting Tar files.
 - [SwiftCSV](https://github.com/swiftcsv/SwiftCSV) - CSV parser for Swift.
 - [UserDefault](https://github.com/juliand665/UserDefault) - Swifty User Defaults thanks to Property Wrappers.
+- [Protected](https://github.com/nerdsupremacist/Protected) - API for Reads and Writes protected via Phantom types.
 
 ## Other (not lib)
 
