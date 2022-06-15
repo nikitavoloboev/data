@@ -365,3 +365,4 @@ title: ML Libraries
 - [mmap.ninja](https://github.com/hristo-vrigazov/mmap.ninja) - Library for storing your datasets in memory-mapped files, which leads to a dramatic speedup in the training time. Accelerate the iteration over your machine learning dataset by up to 20 times.
 - [geomloss](https://github.com/jeanfeydy/geomloss) - Geometric loss functions between point clouds, images and volumes.
 - [morphsnakes](https://github.com/pmneila/morphsnakes) - Implementation of the Morphological Snakes for image segmentation. Supports 2D images and 3D volumes.
+- [HyperLib](https://github.com/nalexai/hyperlib) - Common Neural Network components in the hyperbolic space (using the Poincare model).

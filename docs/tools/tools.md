@@ -718,3 +718,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Ask HN: Honest thoughts on no-code or low-code solutions? (2022)](https://news.ycombinator.com/item?id=31508130)
 - [Ask HN: What fun have you had with tech recently? (2022)](https://news.ycombinator.com/item?id=31505959)
 - [Ask HN: Is there a truly solid low-code to build Twitter or Reddit clone? (2022)](https://news.ycombinator.com/item?id=31555252)
+- [Best tools for a entrepreneur (2022)](https://twitter.com/heyeaslo/status/1536944095569989633)

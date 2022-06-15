@@ -275,6 +275,7 @@
 ## Error
 
 - [rescue](https://github.com/idmitrievsky/rescue) - Type-safe exceptions for Python.
+- [python-tblib](https://github.com/ionelmc/python-tblib) - Serialization library for Exceptions and Tracebacks.
 
 ## Embedded
 
