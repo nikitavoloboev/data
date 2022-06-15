@@ -113,3 +113,6 @@
 - [Overlord](https://github.com/ruricolist/overlord) - Build system in Common Lisp.
 - [cl-async](https://github.com/orthecreedence/cl-async) - Asynchronous IO library for Common Lisp.
 - [Woo](https://github.com/fukamachi/woo) - Fast non-blocking HTTP server on top of libev. Written in Common Lisp.
+- [cmd](https://github.com/ruricolist/cmd) - Utility for running external programs.
+- [Rove](https://github.com/fukamachi/rove) - Unit testing framework for Common Lisp applications.
+- [cl-notebook](https://github.com/inaimathi/cl-notebook) - Notebook-style in-browser editor for Common Lisp.

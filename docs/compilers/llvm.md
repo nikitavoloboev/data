@@ -126,3 +126,4 @@ title: LLVM
 - [Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM.
 - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM (2022)](https://blog.regehr.org/archives/2148)
 - [Formal-Methods-Based Bugfinding for LLVM’s AArch64 Back End (2022)](https://blog.regehr.org/archives/2265) ([HN](https://news.ycombinator.com/item?id=31642147))
+- [Caffeine](https://github.com/insufficiently-caffeinated/caffeine) - Symbolic execution engine that interprets LLVM IR.

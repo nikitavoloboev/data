@@ -33,3 +33,4 @@ title: Automated theorem proving
 - [Pocket-Prover](https://github.com/advancedresearch/pocket_prover) - Fast, brute force, automatic theorem prover for first order logic.
 - [homotopy-rs](https://github.com/homotopy-io/homotopy-rs) - Proof assistant allows the construction of composite morphisms in a finitely-generated semistrict n-category, via a point-and-click user interface.
 - [Proof Assistant Demos](https://github.com/tlringer/proof-demos)
+- [Incredible Proof Machine](https://github.com/nomeata/incredible) - Non-textual interactive theorem prover. ([Web](http://incredible.pm/))

@@ -172,3 +172,4 @@
 - [Benjamin Moore Paints as CSS Colors](https://bm.wesbos.com/) ([Code](https://github.com/wesbos/benjamin-moore-css))
 - [How to pick the least wrong colors (2022)](https://matthewstrom.com/writing/how-to-pick-the-least-wrong-colors/)
 - [Ambient](https://ambient-rvx.web.app/) - Generate contrast-safe colors for UI/UX. ([Code](https://github.com/kevintyj/ambient))
+- [Primer Prism](https://primer.style/prism/) - Tool for creating and maintaining cohesive, consistent, and accessible color palettes. ([Code](https://github.com/primer/prism))
