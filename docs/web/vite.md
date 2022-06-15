@@ -4,6 +4,8 @@ title: Vite
 
 # [Vite](https://vitejs.dev/)
 
+> Build tool that aims to provide a faster and leaner development experience for modern web projects
+
 [tinypages](https://github.com/Borrus-sudo/tinypages) seems nice.
 
 ## Links
@@ -72,3 +74,13 @@ title: Vite
 - [vite-vercel](https://github.com/egoist/vite-vercel) - Adding Vercel middleware support to your Vite project.
 - [vite-plugin-environment](https://github.com/ElMassimo/vite-plugin-environment) - Easily expose environment variables in Vite.js.
 - [vavite](https://github.com/cyco130/vavite) - Develop server-side applications with Vite.
+- [Webfont DL - Vite plugin](https://github.com/feat-agency/vite-plugin-webfont-dl) - Make your Vite site load faster & boost SEO performance.
+- [Vite Code](https://github.com/vitejs/vite)
+- [Problems with shipping ESM only in production](https://twitter.com/AdamRackis/status/1334494401440206849)
+- [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping in Vite.
+- [Awesome Vite](https://github.com/vitejs/awesome-vite)
+- [Vite SSR Plugin](https://github.com/brillout/vite-plugin-ssr)
+- [Develop with Vite](https://www.youtube.com/watch?v=xx8gEHet6n8)
+- [Vite: Rethinking Frontend Tooling](https://portal.gitnation.org/contents/vite-rethinking-frontend-tooling)
+- [Vite Build explained](https://patak.dev/vite/build.html)
+- [vite-plugin-macro](https://github.com/viteland/vite-plugin-macro)

@@ -40,3 +40,4 @@ title: Unity
 - [2 Years of Learning Game Development in Unity (2022)](https://www.youtube.com/watch?v=8fcy0_FQ_OA)
 - [Ultraleap Unity Plugin](https://github.com/ultraleap/UnityPlugin) - Build Unity applications using Ultraleap's hand tracking technology.
 - [Reverse Engineering a Unity Game (2022)](https://jf.id.au/blog/reverse-engineering-a-unity-game)
+- [C++ Rendering Plugin example for Unity](https://github.com/Unity-Technologies/NativeRenderingPlugin)

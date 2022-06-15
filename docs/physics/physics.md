@@ -313,3 +313,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [James Clerk Maxwell - A Sense of Wonder - Documentary](https://www.youtube.com/watch?v=ANIkxDm8bF4)
 - [Please, don't build another Large Hadron Collider (2022)](https://bigthink.com/hard-science/large-hadron-collider-economics/) ([HN](https://news.ycombinator.com/item?id=31651086))
 - [Lithium - Periodic Table of Videos (2016)](https://www.youtube.com/watch?v=LfS10ArXTBA)
+- [preCICE](https://github.com/precice/precice) - Coupling library for partitioned multi-physics simulations, including, but not restricted to fluid-structure interaction and conjugate heat transfer simulations. ([Web](https://precice.org/))

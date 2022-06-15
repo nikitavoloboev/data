@@ -74,3 +74,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [Life does flash before your eyes, when you die](https://hyperallergic.com/720694/science-confirms-that-life-flashes-before-the-eyes-upon-death/)
 - [What are your views on Afterlife after doing psychedelics?](https://www.reddit.com/r/Psychonaut/comments/tzq0ze/what_are_your_views_on_afterlife_after_doing/)
 - [Такой я жить не хочу (2022)](https://holod.media/2022/05/03/elderly-suicide/) ([Tweet](https://twitter.com/holodmedia/status/1521488107211829251))
+- [Cheat sheet for if I'm gone](https://thoughtscollected.tech/posts/for-when-im-gone/) ([HN](https://news.ycombinator.com/item?id=31748553))

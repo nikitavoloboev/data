@@ -1,8 +1,8 @@
 # Static sites
 
-I used [Hugo](hugo.md) once for generating static sites which I then published with [Netlify](https://www.netlify.com/). Currently I use [Remix](../../programming-languages/javascript/js-libraries/react/remix.md)/[NextJS](../../programming-languages/javascript/js-libraries/react/nextjs.md) for all my sites.
+I currently use [SolidJS](../../programming-languages/javascript/js-libraries/solid.js) for all my websites published on [Netlify](https://www.netlify.com/).
 
-[tinypages](https://github.com/Borrus-sudo/tinypages), [Eleventy](eleventy.md) & [Lume](https://github.com/lumeland/lume) look like nice static site generators.
+[tinypages](https://github.com/Borrus-sudo/tinypages), [Eleventy](eleventy.md), [Hugo](hugo.md), [Capri](https://capri.build/) & [Lume](https://github.com/lumeland/lume) look like nice static site generators.
 
 I liked [this article](https://sabrinajewson.org/blog/building-this-site) on building a minimal static site generator in Rust.
 
@@ -72,7 +72,7 @@ I liked [this article](https://sabrinajewson.org/blog/building-this-site) on bui
 - [Radish](https://github.com/jakelazaroff/radish) - Delightful React-based static site generator that outputs plain HTML & CSS.
 - [Markata](https://markata.dev/) - Plugins all the way down static site generator. ([Code](https://github.com/WaylonWalker/markata))
 - [Zine](https://github.com/zineland/zine) - Simple and opinionated tool to build your own magazine.
-- [Capri](https://capri.build/) - Build static sites with interactive islands. ([Code](https://github.com/capri-js/capri))
+- [Capri](https://capri.build/) - Build static sites with interactive islands. ([Code](https://github.com/capri-js/capri)) ([GitHub](https://github.com/capri-js))
 
 ## Notes
 

@@ -89,3 +89,4 @@ title: Synthesizers
 - [NESizer2](https://github.com/Jaffe-/NESizer2) - Synthesizer based on the 2A03 (NES APU).
 - [Plugin Boutique](https://www.pluginboutique.com/) - VST Plugins, Synth Presets, Effects, Virtual Instruments, Music.
 - [JSSynth](https://iamschulz.github.io/js-synth/) - Synthesizer PWA written in JS. ([Code](https://github.com/iamschulz/js-synth))
+- [Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin.

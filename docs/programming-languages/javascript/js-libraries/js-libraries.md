@@ -126,6 +126,7 @@
 - [JSVerify](https://github.com/jsverify/jsverify) - Property-based checking. Like QuickCheck.
 - [brittle](https://github.com/davidmarkclements/brittle) - TAP test runner built for modern times.
 - [fake-timers](https://github.com/sinonjs/fake-timers) - Fake setTimeout and friends (collectively known as "timers"). Useful in your JavaScript tests.
+- [esmock](https://github.com/iambumblehead/esmock) - Provides native ESM import mocking for unit tests.
 
 ## Graphics
 

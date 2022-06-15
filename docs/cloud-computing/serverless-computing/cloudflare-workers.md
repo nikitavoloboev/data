@@ -174,3 +174,5 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [HyperDurable](https://github.com/ticket-bridge/hyper-durable) - Simple and useful Durable Object abstraction.
 - [worker-prolog](https://github.com/guregu/worker-prolog) - Serverless Prolog for Cloudflare Workers.
 - [Instructions of Hands On Labs Cloudflare Connect 2022](https://github.com/cf-tme/connect_2022_labs)
+- [Export your Cloudflare Workers KV namespaces to SQLite for querying](https://github.com/stevenpack/cloudflare-workers-kv-export)
+- [Expanding the Cloudflare Workers Observability Ecosystem (2021)](https://blog.cloudflare.com/observability-ecosystem/)

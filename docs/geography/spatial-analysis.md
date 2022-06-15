@@ -213,3 +213,6 @@ title: Spatial analysis
 - [Tilekiln](https://github.com/pnorman/tilekiln) - PostGIS-based vector tile generator.
 - [Martin](https://github.com/maplibre/martin) - PostGIS vector tiles server suitable for large databases. Written in Rust using Actix web framework.
 - [Docker recipe for GeoServer](https://github.com/kartoza/docker-geoserver)
+- [Mapchete](https://github.com/ungarj/mapchete) - Tile-based geodata processing using rasterio & Fiona.
+- [label_centerlines](https://github.com/ungarj/label_centerlines) - Python tool to extract smoothed centerlines from polygons.
+- [EOX](https://eox.at/) - Geospatial engineering and service company based in Austria. ([Twitter](https://twitter.com/eox_a))

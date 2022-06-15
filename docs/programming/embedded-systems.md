@@ -189,3 +189,4 @@
 - [resym](https://github.com/ergrelet/resym) - Cross-platform tool that allows browsing and extracting C and C++ type declarations from PDB files.
 - [Umka](https://github.com/vtereshkov/umka-lang) - Statically typed embeddable scripting language. ([HN](https://news.ycombinator.com/item?id=31718181))
 - [KVED](https://github.com/marcelobarrosalmeida/kved) - Simple key/value database implementation for microcontrollers.
+- [Microvium](https://github.com/coder-mike/microvium) - Ultra-compact, embeddable scripting engine for microcontrollers for executing a useful subset of the JavaScript language, with a focus on small size and ease of use.

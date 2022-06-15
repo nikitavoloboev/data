@@ -1956,6 +1956,10 @@
 - [sha1dir](https://github.com/dtolnay/sha1dir) - Checksum of a directory tree.
 - [synqueue](https://github.com/kvark/synqueue) - Experimental queue to be used in multi-threaded scenarios, like the task processors.
 - [clap-sys](https://github.com/glowcoil/clap-sys) - Rust bindings for the CLAP audio plugin API.
+- [Rust I18n](https://github.com/longbridgeapp/rust-i18n) - Crate for loading localized text from a set of YAML mapping files.
+- [tracing-logfmt](https://github.com/EmbarkStudios/tracing-logfmt) - Logfmt formatter for tracing-subscriber.
+- [fast-bernoulli](https://github.com/fitzgen/fast-bernoulli) - Efficient sampling with uniform probability.
+- [hcl-rs](https://github.com/martinohmann/hcl-rs) - HCL serializer/deserializer for rust.
 
 ## Cargo Plugins
 

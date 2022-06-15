@@ -338,6 +338,7 @@
 - [OpenTelemetry for Haskell](https://github.com/iand675/hs-opentelemetry) ([Tweet](https://twitter.com/iand675/status/1466060148754063363))
 - [binrep](https://github.com/raehik/binrep) - Useful, efficient, precise binary schema modelling in Haskell.
 - [log](https://github.com/scrive/log) - Structured logging solution.
+- [Boltzmann Brain](https://github.com/maciej-bendkowski/boltzmann-brain) - Haskell library and set of standalone applications meant for random generation of combinatorial structures.
 
 ## Notes
 

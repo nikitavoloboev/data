@@ -233,6 +233,7 @@ title: GitHub actions
 - [GH Find Current PR](https://github.com/jwalton/gh-find-current-pr) - GitHub Action for finding the Pull Request (PR) associated with the current SHA.
 - [TurboRepo Github Artifacts action](https://github.com/felixmosh/turborepo-gh-artifacts) - Allows you use Github artifacts as TurboRepo remote cache server.
 - [Commitlint Github Action](https://github.com/wagoid/commitlint-github-action) - Lints Pull Request commits with commitlint.
+- [Create GH Release action](https://github.com/taiki-e/create-gh-release-action) - GitHub Action for creating GitHub Releases based on changelog.
 
 ## Go
 

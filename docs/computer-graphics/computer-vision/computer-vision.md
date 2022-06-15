@@ -792,3 +792,5 @@
 - [ARF: Artistic Radiance Fields (2022)](https://www.cs.cornell.edu/projects/arf/) ([Code](https://github.com/Kai-46/ARF-svox2))
 - [Patch2Pix: Epipolar-Guided Pixel-Level Correspondences (2020)](https://arxiv.org/abs/2012.01909) ([Code](https://github.com/GrumpyZhou/patch2pix))
 - [Translating Images into Maps (2022)](https://arxiv.org/abs/2110.00966) ([Code](https://github.com/avishkarsaha/translating-images-into-maps))
+- [Instances as Queries (2021)](https://arxiv.org/abs/2105.01928) ([Code](https://github.com/hustvl/QueryInst))
+- [OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction (2022)](https://arxiv.org/abs/2203.07977) ([Code](https://github.com/wenbin-lin/OcclusionFusion))

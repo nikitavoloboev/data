@@ -123,3 +123,4 @@
 - [Kid fighting for his life](https://twitter.com/jani__gee/status/1521269627946418184)
 - [Funny Russian jokes](https://twitter.com/rdu1ya/status/1463517877026316297)
 - [TIMOTHEEEEE CHALAMET CALL ME BY YOUR NAME](https://www.youtube.com/shorts/vfHMyNmAH3o)
+- [Ну и пожалуйста, ну и не нужно...](https://www.youtube.com/watch?v=pTZaNHZGsQo)

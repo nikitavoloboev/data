@@ -34,7 +34,6 @@ title: Vue.js
 - [Design Principles of Vue 3.0 by Evan You (2019)](https://www.youtube.com/watch?v=WLpLYhnGqPA)
 - [Vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js
 - [Build a DEV.TO clone with Nuxt new fetch (2020)](https://nuxtjs.org/blog/build-dev-to-clone-with-nuxt-new-fetch)
-- [Vite](https://github.com/vitejs/vite) - Opinionated web dev build tool that serves your code via native ES Module imports during dev and bundles it with Rollup for production. ([Tweet](https://twitter.com/HerrBertling/status/1334433014038847488)) ([Tweet 2](https://twitter.com/AdamRackis/status/1334494401440206849)) ([vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths)) ([Awesome](https://github.com/vitejs/awesome-vite)) ([Vite SSR Plugin](https://github.com/brillout/vite-plugin-ssr)) ([Develop with Vite](https://www.youtube.com/watch?v=xx8gEHet6n8)) ([Vite: Rethinking Frontend Tooling](https://portal.gitnation.org/contents/vite-rethinking-frontend-tooling)) ([Vite Build explained](https://patak.dev/vite/build.html)) ([vite-plugin-macro](https://github.com/viteland/vite-plugin-macro))
 - [Zipe](https://github.com/pikax/zipe) - Vite + SSR.
 - [Building a real-time patient monitoring system with Go and Vue](https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/) ([HN](https://news.ycombinator.com/item?id=23051242))
 - [Just in time compilation technique for server-side rendering](https://github.com/SmallComfort/vue-ssr-jit)
