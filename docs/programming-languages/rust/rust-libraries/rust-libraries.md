@@ -1954,6 +1954,8 @@
 - [tracing-timing](https://github.com/jonhoo/tracing-timing) - Inter-event timing metrics on top of tracing.
 - [runtime_injector](https://github.com/TehPers/runtime_injector) - Runtime dependency injection in Rust.
 - [sha1dir](https://github.com/dtolnay/sha1dir) - Checksum of a directory tree.
+- [synqueue](https://github.com/kvark/synqueue) - Experimental queue to be used in multi-threaded scenarios, like the task processors.
+- [clap-sys](https://github.com/glowcoil/clap-sys) - Rust bindings for the CLAP audio plugin API.
 
 ## Cargo Plugins
 

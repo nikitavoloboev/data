@@ -820,3 +820,4 @@ title: Rust
 - [Rust Async Cancellation: A Case Study (2022)](https://smallcultfollowing.com/babysteps/blog/2022/06/13/async-cancellation-a-case-study-of-pub-sub-in-mini-redis/)
 - [Flavors of enums with Rust bindgen (2022)](https://www.mdaverde.com/posts/rust-bindgen-enum/) ([HN](https://news.ycombinator.com/item?id=31726608))
 - [Everything Is Broken: Shipping Rust-Minidump at Mozilla (2022)](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/) ([HN](https://news.ycombinator.com/item?id=31740768))
+- [Async I/O in Depth: Thread Pools, Radix Trees, Channels and More - High Performance HTTP Web Servers (2022)](https://www.youtube.com/watch?v=fdxhcDne2Ww)

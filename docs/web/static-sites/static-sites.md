@@ -72,6 +72,7 @@ I liked [this article](https://sabrinajewson.org/blog/building-this-site) on bui
 - [Radish](https://github.com/jakelazaroff/radish) - Delightful React-based static site generator that outputs plain HTML & CSS.
 - [Markata](https://markata.dev/) - Plugins all the way down static site generator. ([Code](https://github.com/WaylonWalker/markata))
 - [Zine](https://github.com/zineland/zine) - Simple and opinionated tool to build your own magazine.
+- [Capri](https://capri.build/) - Build static sites with interactive islands. ([Code](https://github.com/capri-js/capri))
 
 ## Notes
 

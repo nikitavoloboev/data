@@ -88,3 +88,4 @@ title: Synthesizers
 - [Polyend](https://polyend.com/) - Enjoyable musical instruments. ([Twitter](https://twitter.com/madeinpolyend)) ([Beta Testing](https://github.com/polyend/TrackerBetaTesting))
 - [NESizer2](https://github.com/Jaffe-/NESizer2) - Synthesizer based on the 2A03 (NES APU).
 - [Plugin Boutique](https://www.pluginboutique.com/) - VST Plugins, Synth Presets, Effects, Virtual Instruments, Music.
+- [JSSynth](https://iamschulz.github.io/js-synth/) - Synthesizer PWA written in JS. ([Code](https://github.com/iamschulz/js-synth))

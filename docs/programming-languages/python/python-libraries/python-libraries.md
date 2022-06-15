@@ -270,6 +270,7 @@
 - [pytest-memray](https://github.com/bloomberg/pytest-memray) - Pytest plugin for easy integration of memray.
 - [marbles](https://github.com/twosigma/marbles) - Read better test failures.
 - [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
+- [ReFrame](https://github.com/reframe-hpc/reframe) - Powerful Python framework for writing and running portable regression tests and benchmarks for HPC systems.
 
 ## Error
 

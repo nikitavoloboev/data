@@ -296,6 +296,7 @@
 - [SwiftHttp](https://github.com/BinaryBirds/swift-http) - Awesome Swift HTTP library to rapidly create communication layers with API endpoints.
 - [EasyNetworking](https://github.com/onmyway133/EasyNetworking) - Easy networking with chainable type safe Future.
 - [RealHTTP](https://github.com/immobiliare/RealHTTP) - Lightweight yet powerful async/await based client-side HTTP library made in Swift.
+- [Akka HTTP](https://github.com/akka/akka-http) - Streaming-first HTTP server/module of Akka.
 - [FlyingFox](https://github.com/swhitty/FlyingFox) - Lightweight, HTTP server written in Swift using async/await.
 - [Apexy](https://github.com/RedMadRobot/apexy-ios) - Library for organizing a network layer in a project.
 - [Hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift.

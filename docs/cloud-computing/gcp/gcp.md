@@ -102,3 +102,4 @@ title: Google Cloud
 - [GroupSync: Cloud SQL IAM Database Authentication for Groups](https://github.com/GoogleCloudPlatform/cloud-sql-iam-db-authn-groups)
 - [Cloud SQL Connector for Python Drivers](https://github.com/GoogleCloudPlatform/cloud-sql-python-connector)
 - [Google Cloud Platform Pricing and Cost Calculator](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator) - Calculate estimated monthly costs of Google Cloud Platform products and resources via YAML files and Linux CLI program.
+- [CI for Data in BigQuery CLI utility](https://github.com/GoogleCloudPlatform/ci-for-data-in-bigquery)

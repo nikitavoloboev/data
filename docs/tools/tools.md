@@ -214,6 +214,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Help Scout](https://www.helpscout.com/) - Simple Customer Service Software and Education.
 - [IT Tools](https://it-tools.tech/) - Handy tools for developers. ([Code](https://github.com/CorentinTh/it-tools))
 - [mdck](https://github.com/ctm/mdck) - Reports broken links found within md files.
+- [ADia](https://github.com/pylover/adia) - ASCII diagram language & generator for UML sequence diagram.
 - [Coverr](http://www.coverr.co/) - Beautiful, free videos for your homepage.
 - [Mural](https://mural.co/) - Digital workspace for visual collaboration.
 - [OneModel](https://www.onemodel.app/) - Diagramming Tool for Software Engineers.

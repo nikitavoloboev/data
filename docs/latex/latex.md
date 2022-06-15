@@ -143,3 +143,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [unified-latex](https://github.com/siefkenj/unified-latex) - Utilities for parsing and manipulating LaTeX ASTs with the Unified.js framework.
 - [TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) - LaTeX support for the IntelliJ platform by JetBrains.
 - [How I make beautiful GRAPHS and PLOTS using LaTeX (2022)](https://www.youtube.com/watch?v=5jmIHOWpEg0)
+- [Render LaTeX in React apps](https://github.com/harunurhan/react-latex-next)

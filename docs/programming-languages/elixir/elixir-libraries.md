@@ -204,6 +204,7 @@
 - [MixInstallExamples](https://github.com/wojtekmach/mix_install_examples) - Collection of simple Elixir scripts that are using Mix.install/2.
 - [JsonDiffEx](https://github.com/olafura/json_diff_ex) - Diff and patch for JSON in Elixir, works really well and is really fast.
 - [Pexelmatch](https://github.com/user-docs/pexelmatch) - Pure Elixir port of Pixelmatch.
+- [Honey Potion](https://github.com/lac-dcc/honey-potion) - Writing eBPF with Elixir.
 
 ## Links
 

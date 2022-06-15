@@ -227,6 +227,7 @@ useEffect(() => {
 - [Don't use useEffect for fire-and-forget effects. Use it for synchronization. Execute effects in event handlers.](https://twitter.com/DavidKPiano/status/1521922758581448705)
 - [If you hate useEffect, it's probably because you should be using React Query](https://twitter.com/t3dotgg/status/1528518570845646848)
 - [If you have an effect that needs to be executed when your app starts, it's definitely okay to execute it _outside_ the component, and _not_ in useEffect](https://twitter.com/DavidKPiano/status/1533798980596940800)
+- [The Provider in React context is optional](https://twitter.com/DavidKPiano/status/1535976454353215489)
 
 ## Links
 

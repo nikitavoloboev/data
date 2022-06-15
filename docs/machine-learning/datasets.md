@@ -174,3 +174,4 @@
 - [Awesome Training Data](https://github.com/diffgram/awesome-training-data)
 - [MIDI Dataset](https://github.com/craffel/midi-dataset) - Code for creating a dataset of MIDI ground truth.
 - [Labelbox](https://labelbox.com/) - Fastest way to annotate data to build and ship computer vision applications. ([Code](https://github.com/Labelbox/labelbox))
+- [Bamboo](https://github.com/Davidzhangyuanhan/Bamboo) - Mega-scale and information-dense dataset for classification and detection pre-training.

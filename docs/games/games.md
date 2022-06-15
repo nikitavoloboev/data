@@ -162,6 +162,7 @@ Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.lea
 - [feiok](https://github.com/dacousb/feiok) - Vibrant, isometric, multiplayer-centric farming game written in Go.
 - [Legend of Lua](https://github.com/kyleschaub/legend-of-lua) - Open-source Love2D Zelda-like game, currently in development.
 - [Solaris](https://github.com/solaris-games/solaris) - HTML5 game of strategy, intrigue and galactic conquest.
+- [Attacke!](https://github.com/iamschulz/attacke) - Simple two-player fighting game.
 
 ## Awesome games (other)
 

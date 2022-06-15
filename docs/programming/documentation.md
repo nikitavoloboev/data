@@ -187,3 +187,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Useful resources for folks building docs in open source](https://twitter.com/rachelnabors/status/1533856532571594758)
 - [Mintlify](https://www.mintlify.com/) - Continuous Documentation Platform. ([GitHub](https://github.com/mintlify)) ([Writer](https://www.mintlify.com/writer)) ([Writer Code](https://github.com/mintlify/writer)) ([HN](https://news.ycombinator.com/item?id=31740724))
 - [Write documentation first, then build](https://reproof.app/blog/document-first-then-build) ([HN](https://news.ycombinator.com/item?id=31735939))
+- [Docco](https://github.com/jashkenas/docco) - Quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.

@@ -144,3 +144,4 @@ title: JSON
 - [JSON Operational Transformation (JOT)](https://github.com/JoshData/jot)
 - [Why JSON Isn’t A Good Configuration Language (2018)](https://www.lucidchart.com/techblog/2018/07/16/why-json-isnt-a-good-configuration-language/) ([HN](https://news.ycombinator.com/item?id=31660372))
 - [JSON Diff Kit](https://github.com/RexSkz/json-diff-kit) - Better JSON differ & viewer.
+- [JSON Scheme 2 MD](https://github.com/RalfG/jsonschema2md) - Convert JSON Schemas to simple, human-readable Markdown documentation.

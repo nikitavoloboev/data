@@ -437,3 +437,4 @@ Awesome List
 - [Jasper](https://jasperapp.io/) - Flexible and powerful issue reader for GitHub. ([Code](https://github.com/jasperapp/jasper))
 - [Generate changelog for GitHub](https://github.com/antfu/changelogithub)
 - [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too.
+- [markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers.
