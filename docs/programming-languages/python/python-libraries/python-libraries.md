@@ -311,7 +311,6 @@
 - [sorcery](https://github.com/alexmojaki/sorcery) - Dark magic delights in Python.
 - [sktime](https://github.com/alan-turing-institute/sktime) - scikit-learn compatible Python toolbox for learning with time series and panel data.
 - [Incremental](https://github.com/twisted/incremental) - Library for versioning your Python projects.
-- [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python.
 - [Modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code.
 - [Thorn](https://github.com/robinhood/thorn) - Webhook framework for Python, focusing on flexibility and ease of use, both when getting started and when maintaining a production system.
 - [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python. ([How to use Flask with gevent (uWSGI and Gunicorn editions)](https://iximiuz.com/en/posts/flask-gevent-tutorial/))

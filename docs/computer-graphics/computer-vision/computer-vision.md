@@ -794,3 +794,5 @@
 - [Translating Images into Maps (2022)](https://arxiv.org/abs/2110.00966) ([Code](https://github.com/avishkarsaha/translating-images-into-maps))
 - [Instances as Queries (2021)](https://arxiv.org/abs/2105.01928) ([Code](https://github.com/hustvl/QueryInst))
 - [OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction (2022)](https://arxiv.org/abs/2203.07977) ([Code](https://github.com/wenbin-lin/OcclusionFusion))
+- [CogView: Mastering Text-to-Image Generation via Transformers (2021)](https://arxiv.org/abs/2105.13290) ([Code](https://github.com/THUDM/CogView2))
+- [All in One: Exploring Unified Video-Language Pre-training (2022)](https://arxiv.org/abs/2203.07303) ([Code](https://github.com/showlab/all-in-one))

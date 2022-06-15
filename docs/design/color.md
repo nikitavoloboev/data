@@ -1,6 +1,6 @@
 # Color
 
-[Gradients](https://meshy.uxie.io/), [Hypercolor](https://hypercolor.dev/) & [Huetone](https://huetone.ardov.me/) are great.
+[Gradients](https://meshy.uxie.io/), [Hypercolor](https://hypercolor.dev/), [Huetone](https://huetone.ardov.me/) & [Prism](https://primer.style/prism/) are useful.
 
 ## Nice gradients
 

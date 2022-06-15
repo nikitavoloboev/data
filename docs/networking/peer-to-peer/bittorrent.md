@@ -120,3 +120,4 @@ title: BitTorrent
 - [Seedbox](https://github.com/jfroment/seedbox) - Docker-powered seedbox with persistent data and more cool stuff.
 - [Peercloud](https://github.com/jhiesey/peercloud) - Decentralized web hosting over WebTorrent.
 - [BitRemote](https://github.com/tatsuz0u/BitRemote) - BitTorrent client remote app for Apple platforms built with SwiftUI & TCA.
+- [Bittrickle](https://github.com/cronokirby/bittrickle) - UDP bitTorrent tracker in Rust.

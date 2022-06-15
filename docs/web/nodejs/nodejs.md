@@ -6,7 +6,7 @@ title: Node.js
 
 [Tao of Node](https://alexkondov.com/tao-of-node/) is useful. [Broken Promises](https://www.youtube.com/watch?v=XV-u_Ow47s0) is a great talk on JS promises.
 
-[H3](https://github.com/unjs/h3) is nice. I use [tsno](https://github.com/egoist/tsno) for running node.
+[H3](https://github.com/unjs/h3) is nice. I use [tsno](https://github.com/egoist/tsno) for running node. [tsx](https://github.com/esbuild-kit/tsx) is nice too.
 
 ## Notes
 

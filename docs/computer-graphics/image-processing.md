@@ -1,6 +1,6 @@
 # Image processing
 
-[IPX](https://github.com/unjs/ipx) is nice image proxy. [sharp](https://github.com/lovell/sharp) is nice JS lib for image processing.
+[IPX](https://github.com/unjs/ipx) is nice image proxy. [scikit-image](https://github.com/scikit-image/scikit-image) & [sharp](https://github.com/lovell/sharp) are nice libs for image processing.
 
 ## Links
 
@@ -185,3 +185,4 @@
 - [imgdiff](https://github.com/AskAlexSharov/imgdiff) - Calculate similarity of 2 images. Supports: jpeg, png.
 - [Polaroid](https://github.com/Daggy1234/polaroid) - Hyper Fast and safe image manipulation library for python . Powered by rust.
 - [LibRaw](https://github.com/LibRaw/LibRaw) - Library for reading and processing of RAW digicam images.
+- [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python.
