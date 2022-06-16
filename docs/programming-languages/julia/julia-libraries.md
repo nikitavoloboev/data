@@ -202,6 +202,7 @@
 ## NLP
 
 - [NLPModelsJuMP](https://github.com/JuliaSmoothOptimizers/NLPModelsJuMP.jl) - Create NLPModels with JuMP.
+- [Spacy.jl](https://github.com/joshday/Spacy.jl) - Lightweight wrapper of the amazing spaCy Python package.
 
 ## Biology
 

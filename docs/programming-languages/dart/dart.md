@@ -47,3 +47,4 @@ title: Dart
 - [Bones_API](https://github.com/Colossus-Services/bones_api) - Simple and easy API framework, with routes and HTTP Server.
 - [Logger](https://github.com/leisim/logger) - Small, easy to use and extensible logger which prints beautiful logs.
 - [Requests](https://github.com/jossef/requests) - Dart library to make HTTP requests.
+- [gRPC Dart](https://github.com/grpc/grpc-dart) - Dart language implementation of gRPC.

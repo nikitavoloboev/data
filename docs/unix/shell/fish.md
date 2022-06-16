@@ -30,3 +30,4 @@ title: Fish Shell
 - [HN: Fish 3.4.0](https://news.ycombinator.com/item?id=30734072)
 - [fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous in Fish.
 - [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - Fish Shell Framework.
+- [Fish Shell 3.5.0 (2022)](https://fishshell.com/docs/current/relnotes.html#fish-3-5-0-released-june-16-2022) ([HN](https://news.ycombinator.com/item?id=31768405))

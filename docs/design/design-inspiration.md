@@ -374,6 +374,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Mathias Quintero](https://quintero.io/)
 - [Bytes.Zone](https://bytes.zone/)
 - [Alex Grebenyuk](https://kean.blog/)
+- [Michal Zalobny](https://michalzalobny.com/) ([Code](https://github.com/javusScriptus/creativeprojects))
 - [Alex Tomlinson](https://alexlinks.glitch.me/)
 - [Brandon Smith](https://www.brandons.me/) ([Code](https://github.com/brundonsmith/website))
 - [Jack McDade](https://jackmcdade.com/)

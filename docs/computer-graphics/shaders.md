@@ -87,3 +87,4 @@ title: Shaders
 - [CrossShader](https://github.com/alaingalvan/CrossShader) - Tool for cross compiling shaders. Convert between GLSL, HLSL, Metal Shader Language, or older versions of GLSL.
 - [Shader examples](https://github.com/danielscherzer/SHADER)
 - [Shader translation benchmark (2022)](http://kvark.github.io/naga/shader/2022/02/17/shader-translation-benchmark.html)
+- [Shaders Playground](https://book-of-shaders-playground.vercel.app/) - From "The Book Of Shaders". ([Code](https://github.com/javusScriptus/book-of-shaders-playground))

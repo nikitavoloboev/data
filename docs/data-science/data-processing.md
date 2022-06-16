@@ -113,3 +113,4 @@
 - [gosquito](https://github.com/livelace/gosquito) - Pluggable tool for data gathering, data processing and data transmitting to various destinations.
 - [DLT](https://github.com/scale-vector/dlt) - Enables simple python-native data pipelining for data professionals.
 - [PipeRider](https://github.com/InfuseAI/piperider) - Toolkit for detecting data issues across pipelines that works with CI systems for continuous data quality assessment.
+- [airflint](https://github.com/feluelle/airflint) - Enforce Best Practices for all your Airflow DAGs.

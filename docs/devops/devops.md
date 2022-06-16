@@ -189,3 +189,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Delivery CLI](https://github.com/chef-boneyard/delivery-cli) - Command line tool for the workflow capabilities in Chef Automate.
 - [Spin Cycle](https://github.com/square/spincycle) - Automate and expose complex infrastructure tasks to teams and services.
 - [A review of Accelerate: The Science of Lean Software and DevOps (2022)](https://keunwoo.com/notes/accelerate-devops/)
+- [sake](https://github.com/alajmo/sake) - Command runner for local and remote hosts.

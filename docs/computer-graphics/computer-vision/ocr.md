@@ -38,3 +38,4 @@ title: Optical character recognition
 - [meme_finder](https://github.com/mwaitzman/meme_finder) - Find locally-saved memes via their meme text using OCR. Written in Rust.
 - [Veryfi OCR API](https://veryfi.com/receipt-ocr-api/) - OCR API for Real-Time Data Extraction from Receipts & Invoices. ([Node SDK](https://github.com/veryfi/veryfi-nodejs))
 - [ocrit](https://github.com/insidegui/ocrit) - Command-line utility for performing OCR using Apple's Vision framework.
+- [Tesseract WASM](https://github.com/robertknight/tesseract-wasm) - WebAssembly build of the Tesseract OCR engine for use in the browser and Node.

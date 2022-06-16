@@ -241,3 +241,4 @@ title: Docker
 - [docker-show-context](https://github.com/pwaller/docker-show-context) - Show where time is wasted during the context upload of `docker build`.
 - [Dockerfile+](https://github.com/edrevo/dockerfile-plus) - New commands for Dockerfile.
 - [go-crond](https://github.com/webdevops/go-crond) - Cron daemon written in Go (for eg. usage in docker images).
+- [SWIRL](https://github.com/cuigh/swirl) - Web UI for Docker, focused on swarm cluster.

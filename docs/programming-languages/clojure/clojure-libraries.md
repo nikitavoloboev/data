@@ -235,6 +235,7 @@
 - [Clojask](https://github.com/clojure-finance/clojask) - Clojure data frame with parallel computing on larger-than-memory datasets.
 - [Schema](https://github.com/plumatic/schema) - Clojure(Script) library for declarative data description and validation.
 - [Carve](https://github.com/borkdude/carve) - Carve out the essentials of your Clojure app.
+- [Muotti](https://github.com/esuomi/muotti) - Graph based value transformer library which aims to solve value transformation.
 
 ## Links
 

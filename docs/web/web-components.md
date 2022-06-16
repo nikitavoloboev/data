@@ -101,3 +101,4 @@ title: Web Components
 - [LS-Element](https://github.com/lsegurado/ls-element) - Web Components with TSX.
 - [hy-push-state](https://github.com/hydecorp/push-state) - Web component that lets you turn web pages into web apps.
 - [Web Components Course | Learn to Create Web Components](https://frontendmasters.com/courses/web-components/)
+- [Macaron](https://macaron-elements.com/) - Design tool to visually create Web Components. ([Code](https://github.com/macaron-elements/macaron))

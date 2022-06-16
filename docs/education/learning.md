@@ -222,3 +222,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Ask HN: How deep do you go? (2022)](https://news.ycombinator.com/item?id=31480764)
 - [Re-Compile](https://recompile-ai.netlify.app/)
 - [The Free Learning List](https://freelearninglist.org/)
+- [Ask HN: What has melted your brain recently? (2022)](https://news.ycombinator.com/item?id=31764041)

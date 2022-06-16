@@ -8,6 +8,10 @@ title: Vite
 
 [tinypages](https://github.com/Borrus-sudo/tinypages) seems nice.
 
+## Notes
+
+- Can add `--force` to force refresh vite cache. Like `pnpm run dev --force`.
+
 ## Links
 
 - [vite-on-swc](https://github.com/iheyunfei/vite-on-swc)

@@ -186,3 +186,4 @@
 - [Polaroid](https://github.com/Daggy1234/polaroid) - Hyper Fast and safe image manipulation library for python . Powered by rust.
 - [LibRaw](https://github.com/LibRaw/LibRaw) - Library for reading and processing of RAW digicam images.
 - [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python.
+- [scivision](https://github.com/alan-turing-institute/scivision) - Toolkit for Scientific Image Analysis.

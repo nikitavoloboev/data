@@ -509,3 +509,4 @@ for i, _ in enumerate(nums):
 - [Python Cheat Sheet](https://github.com/AbdulMalikDev/PythonCheatSheet)
 - [The strange relationship between objects, functions, generators and coroutines](https://www.packt.com/bizarre-python/)
 - [Illustrating the duality of closures and objects (2022)](https://dev.to/yonkeltron/illustrating-the-duality-of-closures-and-objects-2nfm) ([Lobsters](https://lobste.rs/s/ajgdnb/illustrating_duality_closures_objects))
+- [IPython pdb](https://github.com/gotcha/ipdb) - Integration of IPython pdb.

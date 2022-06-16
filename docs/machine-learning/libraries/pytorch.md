@@ -414,3 +414,4 @@ title: PyTorch
 - [Lightning EcoSystem CI](https://github.com/PyTorchLightning/ecosystem-ci) - Automated Testing for Lightning EcoSystem Projects.
 - [Run PyTorch models in the browser using ONNX.js](https://github.com/elliotwaite/pytorch-to-javascript-with-onnx-js)
 - [torchsnapshot](https://github.com/facebookresearch/torchsnapshot) - Light-weight library for adding fault tolerance to large-scale PyTorch distributed training workloads.
+- [PyTorch Project Template](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)

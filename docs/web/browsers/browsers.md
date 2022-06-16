@@ -231,3 +231,5 @@
 - [How browsers work](https://taligarsiel.com/Projects/howbrowserswork1.htm)
 - [How does the browser render a web page?](https://twitter.com/alexxubyte/status/1534201516063461376)
 - [Vytal](https://github.com/z0ccc/Vytal) - Browser extension that utilizes the chrome.debugger API to mock device data that could otherwise reveal information about you. ([Web](https://vytal.io/))
+- [py-webengine](https://github.com/nathants/py-webengine) - Browser testing should be easy.
+- [CrowdWise](https://github.com/UseCrowdWise/crowdwise) - Chrome extension that adds to your browsing experience by showing you relevant discussions about your current web page from Hacker News and Reddit.

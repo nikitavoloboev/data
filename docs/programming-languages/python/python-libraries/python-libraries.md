@@ -894,6 +894,7 @@
 - [Markus](https://github.com/willkg/markus) - Python library for generating metrics.
 - [Orderbook](https://github.com/bmoscon/orderbook) - Fast L2/L3 orderbook data structure, in C, for Python.
 - [Flor](https://github.com/DCSO/flor) - Bloom filter implementation in Python.
+- [QOI](https://github.com/kodonnell/qoi) - Python wrapper around QOI ("Quite OK Image" image format).
 
 ## Notes
 

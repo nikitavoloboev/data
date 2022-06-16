@@ -53,3 +53,4 @@ title: ClojureScript
 - [ClojureScript REPL](https://clojurescript.io/) ([Code](https://github.com/arichiardi/replumb))
 - [Glogi](https://github.com/lambdaisland/glogi) - ClojureScript logging library based on goog.log.
 - [okulary](https://github.com/funcool/okulary) - Fast Atom and DerivedAtom for ClojureScript.
+- [AWS + Go + ClojureScript](https://github.com/nathants/aws-gocljs)
