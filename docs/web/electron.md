@@ -4,14 +4,16 @@ title: Electron
 
 # [Electron](https://electronjs.org/)
 
-[React Tauri](https://github.com/mdtanrikulu/react-tauri) seems like an interesting alternative for building cross platform apps.
-
-I prefer to build things natively with [SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md) but when I do use Electron, I use [Vite-SolidJS-Electron](https://github.com/ch99q/vite-solid-electron) template to get things started.
+I prefer to build things natively with [SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md) but when I do need a cross platform desktop app, I prefer using [Wails](../programming-languages/go/go-libraries/wails.md) as it's much lighter.
 
 ## OSS apps
 
 - [Actual](https://github.com/actualbudget/actual) - Budgeting app. Local first architecture.
 - [Twizzle](https://github.com/kitze/twizzle) - Desktop app for Twitter DM & composing tweets from the menubar.
+
+## Nice templates
+
+- [Vite-SolidJS-Electron](https://github.com/ch99q/vite-solid-electron)
 
 ## Notes
 

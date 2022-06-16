@@ -160,6 +160,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Nil Coalescing](https://nilcoalescing.com/index.html)
 - [Niko Matsakis](https://smallcultfollowing.com/babysteps/)
 - [Cmdr Coriander](https://commandercoriander.net/)
+- [Ryan Kaplan](https://www.rykap.com/)
 
 ## Notes
 

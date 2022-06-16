@@ -197,6 +197,7 @@
 - [Programming languages](docs/programming-languages/programming-languages.md)
   - [Go](docs/programming-languages/go/go.md)
     - [Go libraries](docs/programming-languages/go/go-libraries/go-libraries.md)
+      - [Wails](docs/programming-languages/go/go-libraries/wails.md)
   - [Python](docs/programming-languages/python/python.md)
     - [Python libraries](docs/programming-languages/python/python-libraries/python-libraries.md)
       - [Django](docs/programming-languages/python/python-libraries/django.md)

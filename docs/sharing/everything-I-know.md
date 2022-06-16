@@ -11,6 +11,7 @@ Page of things I consider myself knowledgeable of. Similar in spirit to [Dan's p
 - [Cloudflare Workers](../cloud-computing/serverless-computing/cloudflare-workers.md) & [Cloudflare R2](https://developers.cloudflare.com/r2/): Looking into using it as distributed cache & small data store. [Hono](https://github.com/honojs/hono) seem like a nice library for workers. Cloudflare in general has great web services I like using.
 - [Swift](../programming-languages/swift/swift.md) & [SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md): Build all native apps with them.
 - [TS](../programming-languages/typescript/typescript.md) & [Deno](../web/deno.md): Use TS in all my web apps. Also exploring Deno for writing small scripts/automations.
+- [Nix](../package-managers/nix/nix.md): Use it as my main package manager.
 
 ## My Workflow
 

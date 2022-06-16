@@ -2046,6 +2046,10 @@
 - [cargo-criterion](https://github.com/bheisler/cargo-criterion) - Cargo extension for running Criterion.rs benchmarks.
 - [cargo-public-api](https://github.com/Enselic/cargo-public-api) - List and diff the public API of Rust library crates between releases and commits.
 
+## Notes
+
+- [`cargo udeps` tries to uncover unused dependencies](https://news.ycombinator.com/item?id=31764015)
+
 ## Links
 
 - [Docs.rs](https://docs.rs/) - Search rust packages. ([Code](https://github.com/rust-lang/docs.rs))

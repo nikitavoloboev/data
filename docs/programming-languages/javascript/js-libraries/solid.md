@@ -100,3 +100,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Solid Hotkeys](https://github.com/alekangelov/solid-hotkeys) - Hotkeys library for solid that adds only 2 event listeners.
 - [How to Deploy SolidJS (2022)](https://dev.to/brittneypostma/how-to-deploy-solidjs-4hoi)
 - [Solid Service API](https://github.com/solidjs/solid-service-api) - Code that powers Solid Service API on Cloudflare Workers.
+- [Opinionated Vite Starter Template](https://github.com/olgam4/bat)

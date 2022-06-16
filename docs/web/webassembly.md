@@ -31,7 +31,7 @@ title: WebAssembly
 - [WASI](https://wasi.dev/) - WebAssembly System Interface. ([Code](https://github.com/WebAssembly/WASI)).
 - [wasi-rust](https://github.com/bytecodealliance/wasi) - WASI API Bindings for Rust.
 - [Lucet](https://github.com/fastly/lucet) - Sandboxing WebAssembly Compiler.
-- [Wasmer](https://github.com/wasmerio/wasmer) - Leading WebAssembly Runtime supporting WASI and JavaScript. ([Web](https://wasmer.io/))
+- [Wasmer](https://github.com/wasmerio/wasmer) - Leading WebAssembly Runtime supporting WASI and JavaScript. ([Web](https://wasmer.io/)) ([HN](https://news.ycombinator.com/item?id=31768936))
 - [WebAssembly Playground](http://ast.run/)
 - [Wasmer is taking WebAssembly beyond the browser (2019)](https://overcast.fm/+HZUfSYn4E)
 - [Wasmer](https://github.com/wasmerio/python-ext-wasm) - Python extension to run WebAssembly binaries.

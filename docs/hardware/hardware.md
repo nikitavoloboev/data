@@ -333,3 +333,4 @@
 - [VoCore](https://vocore.io/) - Coin-Sized Linux Computer. ([HN](https://news.ycombinator.com/item?id=31395379))
 - [TSMC vs ASML: Who is the True Semiconductor King? (2022)](https://www.youtube.com/watch?v=0nguBmhSyX4)
 - [How fast can a 6502 transfer memory (2022)](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
+- [The computers are fast, but you don't know it (2022)](http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1/) ([HN](https://news.ycombinator.com/item?id=31769294))

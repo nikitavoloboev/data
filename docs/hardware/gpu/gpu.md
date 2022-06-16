@@ -111,3 +111,4 @@ title: GPU
 - [wgpu-py](https://github.com/pygfx/wgpu-py) - Next generation GPU API for Python.
 - [NVIDIA Linux Open GPU Kernel Module Code](https://github.com/NVIDIA/open-gpu-kernel-modules) ([HN](https://news.ycombinator.com/item?id=31344981)) ([Article](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/))
 - [The Apple GPU and the impossible bug (2022)](https://rosenzweig.io/blog/asahi-gpu-part-5.html) ([HN](https://news.ycombinator.com/item?id=31367365))
+- [Voronoi Diagrams on the GPU (2016)](https://www.rykap.com/graphics/skew/2016/02/25/voronoi-diagrams/)

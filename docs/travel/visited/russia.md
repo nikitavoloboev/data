@@ -577,3 +577,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [ещенепознер – до и во время войны / вДудь (2022)](https://www.youtube.com/watch?v=mh-7jvePXF4) ([Tweet](https://twitter.com/pevchikh/status/1535606989568585728)) ([Tweet](https://twitter.com/eg_fedorov/status/1535609595749605380))
 - [Russia Block List](https://rblist.info/) - See how top world companies react to Russia invasion. ([Code](https://github.com/veelenga/rblist.info))
 - [Руслан Белый: «Это не защищает тебя от отмены тебя» (2022)](https://www.youtube.com/watch?v=faH4AMDRAlc)
+- [Яшин – быть против Путина, но оставаться в России (2022)](https://www.youtube.com/watch?v=F4wk0zuN2Bs)

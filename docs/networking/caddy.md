@@ -56,3 +56,4 @@ title: Caddy
 - [Caddy v2.5.0 (2022)](https://github.com/caddyserver/caddy/releases/tag/v2.5.0) ([HN](https://news.ycombinator.com/item?id=31170280))
 - [Caddy Security](https://github.com/greenpau/caddy-security) - Security App and Plugin for Caddy.
 - [Caddy-NATS](https://github.com/codegangsta/caddy-nats) - Caddy module that adds support for nats.io pub/sub request and reply.
+- [How to serve a static site using Caddy](https://ellen.dev/serve-static-site-using-caddy.html)

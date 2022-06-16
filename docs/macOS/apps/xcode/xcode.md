@@ -113,3 +113,4 @@ title: Xcode
 - [Color themes for Xcode, TextMate and Terminal App](https://www.codethemes.net/)
 - [Xbase](https://github.com/tami5/xbase) - Xcode Neovim Replacement-ish.
 - [FengNiao](https://github.com/onevcat/FengNiao) - Command line tool for cleaning unused resources in Xcode.
+- [XCSnippets](https://github.com/MarcoEidinger/XCSnippets) - Swift package to provide type-safe interaction with (user-defined) Xcode Code Snippets.
