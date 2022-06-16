@@ -520,3 +520,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [PostgreSQL hooks documentation](https://github.com/taminomara/psql-hooks)
 - [Case-insensitive pattern matching in PostgreSQL (2022)](https://www.cybertec-postgresql.com/en/case-insensitive-pattern-matching-in-postgresql/)
 - [Convergence](https://github.com/returnString/convergence) - Set of tools for writing servers that speak PostgreSQL's wire protocol.
+- [pgq](https://github.com/mergestat/pgq) - Go library for using Postgres as a job queue.

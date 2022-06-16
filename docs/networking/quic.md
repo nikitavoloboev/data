@@ -4,7 +4,7 @@ title: QUIC
 
 # [QUIC](https://quicwg.org/)
 
-[This intro](https://www.youtube.com/watch?v=HnDsMehSSY4) & [QUIC Cloudflare doc](https://cloudflare-quic.com/) are great.
+[This article](https://www.youtube.com/watch?v=HnDsMehSSY4) & [QUIC Cloudflare doc](https://cloudflare-quic.com/) are great.
 
 ## Links
 
@@ -54,3 +54,4 @@ title: QUIC
 - [Intro to the QUIC Transport Protocol (2021)](https://www.youtube.com/watch?v=HnDsMehSSY4)
 - [QUIC | Cloudflare](https://cloudflare-quic.com/)
 - [Network Simulator for QUIC benchmarking](https://github.com/marten-seemann/quic-network-simulator)
+- [How Facebook Is Bringing QUIC to Billions (2022)](https://www.infoq.com/presentations/facebook-quic-http3/)

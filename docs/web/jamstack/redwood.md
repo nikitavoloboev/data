@@ -6,6 +6,10 @@ title: Redwood
 
 > Opinionated, full stack, serverless JAMstack web application framework
 
+## Example sites
+
+- [Stripe Superstore](https://github.com/redwoodjs/example-store-stripe) - Redwood Example Store with Stripe Checkout Integration.
+
 ## Links
 
 - [Redwood code](https://github.com/redwoodjs/redwood) ([HN](https://news.ycombinator.com/item?id=22537944))

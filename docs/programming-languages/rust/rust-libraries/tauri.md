@@ -13,3 +13,4 @@ title: Tauri
 - [Tauri plugin positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Helps position your Tauri windows at well-known locations.
 - [Tauri Plugin GraphQL](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Plugin for Tauri that enables type-safe IPC through GraphQL.
 - [Tauri GitHub Action](https://github.com/tauri-apps/tauri-action) - Builds your Web application as a Tauri native binary for MacOS, Linux and Windows.
+- [HN: Tauri Version 1 (2022)](https://news.ycombinator.com/item?id=31764015)

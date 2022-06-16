@@ -435,3 +435,4 @@ title: Haskell
 - [Unboxed types and primitive operations](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/primitives.html) ([Lobsters](https://lobste.rs/s/xxlvq8/unboxed_types_primitive_operations))
 - [Haskell WATs](https://github.com/NorfairKing/haskell-WAT) - Collection of Haskell's WATs.
 - [Diving into GCC Internals](https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html) ([HN](https://news.ycombinator.com/item?id=31731145))
+- [Beginner's guide to Haskell optimization](https://github.com/frizensami/haskell-optimization)
