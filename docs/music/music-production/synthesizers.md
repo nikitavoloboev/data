@@ -90,3 +90,4 @@ title: Synthesizers
 - [Plugin Boutique](https://www.pluginboutique.com/) - VST Plugins, Synth Presets, Effects, Virtual Instruments, Music.
 - [JSSynth](https://iamschulz.github.io/js-synth/) - Synthesizer PWA written in JS. ([Code](https://github.com/iamschulz/js-synth))
 - [Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin.
+- [OpenDeck MIDI Platform](https://github.com/shanteacontrols/OpenDeck) - Software and hardware platform for simpler building of MIDI controllers with support for DMX.

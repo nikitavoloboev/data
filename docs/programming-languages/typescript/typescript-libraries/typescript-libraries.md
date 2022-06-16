@@ -548,6 +548,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [p-props](https://github.com/sindresorhus/p-props) - Like Promise.all() but for Map and Object.
 - [ts-poet](https://github.com/stephenh/ts-poet) - TypeScript code generator that is a fancy wrapper around template literals.
 - [WRP](https://github.com/pbkit/wrp-ts) - TypeScript Implementation of Webview/Worker Request Protocol.
+- [JSON BinPack](https://github.com/jviotti/jsonbinpack) - Open-source binary JSON serialization format with a strong focus on space efficiency.
 
 ## Links
 

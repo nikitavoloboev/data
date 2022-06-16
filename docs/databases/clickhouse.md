@@ -29,4 +29,4 @@ title: ClickHouse
 - [Daisy](https://github.com/datablade-io/daisy) - Open-source column-oriented and streaming time series database management system built on top of ClickHouse.
 - [ClickHouse data source for Grafana](https://github.com/grafana/clickhouse-datasource)
 - [Lesser Known Features of ClickHouse (2022)](https://pradeepchhetri.xyz/clickhouselesserknownfeatures/) ([HN](https://news.ycombinator.com/item?id=31561780))
-- [No, QuestDB is not Faster than ClickHouse (2022)](https://telegra.ph/No-QuestDB-is-not-Faster-than-ClickHouse-06-15)
+- [No, QuestDB is not Faster than ClickHouse (2022)](https://telegra.ph/No-QuestDB-is-not-Faster-than-ClickHouse-06-15) ([HN](https://news.ycombinator.com/item?id=31767858))

@@ -234,6 +234,7 @@ title: GitHub actions
 - [TurboRepo Github Artifacts action](https://github.com/felixmosh/turborepo-gh-artifacts) - Allows you use Github artifacts as TurboRepo remote cache server.
 - [Commitlint Github Action](https://github.com/wagoid/commitlint-github-action) - Lints Pull Request commits with commitlint.
 - [Create GH Release action](https://github.com/taiki-e/create-gh-release-action) - GitHub Action for creating GitHub Releases based on changelog.
+- [Update GitHub Actions Permissions](https://github.com/pkgdeps/update-github-actions-permissions) - Update GitHub Actions's permissions automatically.
 
 ## Go
 

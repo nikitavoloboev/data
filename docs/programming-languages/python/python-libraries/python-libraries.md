@@ -895,6 +895,7 @@
 - [Orderbook](https://github.com/bmoscon/orderbook) - Fast L2/L3 orderbook data structure, in C, for Python.
 - [Flor](https://github.com/DCSO/flor) - Bloom filter implementation in Python.
 - [QOI](https://github.com/kodonnell/qoi) - Python wrapper around QOI ("Quite OK Image" image format).
+- [Proto Plus for Python](https://github.com/googleapis/proto-plus-python) - Beautiful, idiomatic protocol buffers in Python.
 
 ## Notes
 

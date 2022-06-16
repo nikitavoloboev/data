@@ -75,3 +75,4 @@
 - [TikTok Text-to-speech API](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API.
 - [Unreal Speech](https://unrealspeech.com/) - Text-to-Speech API. Better & 8x Cheaper than AWS.
 - [15.ai](https://15.ai/) - Natural TTS with minimal viable data. ([HN](https://news.ycombinator.com/item?id=31711118))
+- [JDC-PitchExtractor](https://github.com/yl4579/PitchExtractor) - Deep Neural Pitch Extractor for Voice Conversion and TTS Training.

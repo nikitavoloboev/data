@@ -69,3 +69,4 @@
 - [Bioyino](https://github.com/avito-tech/bioyino) - StatsD server written in Rust.
 - [Refinery](https://github.com/honeycombio/refinery) - Trace-aware sampling proxy. It collects spans emitted by your application, gathers them into traces, and examines them as a whole.
 - [Sagan](https://github.com/quadrantsec/sagan) - Open source high performance, real-time log analysis & correlation engine.
+- [CT Woodpecker](https://github.com/letsencrypt/ct-woodpecker) - Tool to monitor a certificate transparency log for operational problems.

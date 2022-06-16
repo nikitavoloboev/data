@@ -10,6 +10,10 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 
 [Bun](https://bun.sh/) seems like a nice competitor to Deno.
 
+## OSS Deno apps
+
+- [Deno Chat](https://github.com/denoland/showcase_chat) - Minimal chat platform template. It uses Fresh + Supabase + twind + BroadcastChannel API on Deno Deploy.
+
 ## Notes
 
 - [module entry point is mod.ts, application entry point is main.ts](https://discord.com/channels/684898665143206084/689420767620104201/967754431540129812)

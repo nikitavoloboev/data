@@ -521,3 +521,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Case-insensitive pattern matching in PostgreSQL (2022)](https://www.cybertec-postgresql.com/en/case-insensitive-pattern-matching-in-postgresql/)
 - [Convergence](https://github.com/returnString/convergence) - Set of tools for writing servers that speak PostgreSQL's wire protocol.
 - [pgq](https://github.com/mergestat/pgq) - Go library for using Postgres as a job queue.
+- [Search Replica](https://github.com/pg2es/search-replica) - Uses postgres logical replication protocol to subscribe and receive any updates almost in real time.

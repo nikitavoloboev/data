@@ -305,6 +305,7 @@
 - [Catalytic](https://github.com/Jasperav/Catalytic) - ScyllaDB and Cassandra Object-Relation Mapper.
 - [duckdb-rs](https://github.com/wangfenjin/duckdb-rs) - Ergonomic bindings to duckdb for Rust.
 - [rust-kv](https://github.com/zshipko/rust-kv) - Embedded key/value store for Rust built on sled.
+- [sqlite-cache](https://github.com/losfair/sqlite-cache) - SQLite-based on-disk cache for Rust.
 
 ## Video
 
@@ -534,6 +535,7 @@
 - [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) - Based on merkle tree, but the exposed interface cannot export merkle tree.
 - [group](https://github.com/zkcrypto/group) - Elliptic curve group traits and utilities.
 - [Snowstorm](https://github.com/black-binary/snowstorm) - Minimalistic encryption protocol for rust async streams/packets, based on noise protocol and snow.
+- [Linear-Time Sumcheck](https://github.com/arkworks-rs/sumcheck) - Rust library that implements the sumcheck protocol.
 
 ## Linux
 
@@ -1960,6 +1962,8 @@
 - [tracing-logfmt](https://github.com/EmbarkStudios/tracing-logfmt) - Logfmt formatter for tracing-subscriber.
 - [fast-bernoulli](https://github.com/fitzgen/fast-bernoulli) - Efficient sampling with uniform probability.
 - [hcl-rs](https://github.com/martinohmann/hcl-rs) - HCL serializer/deserializer for rust.
+- [Pulsar](https://github.com/streamnative/pulsar-rs) - Rust Client library for Apache Pulsar.
+- [downcast-rs](https://github.com/marcianx/downcast-rs) - Rust enums are great for types where all variations are known beforehand.
 
 ## Cargo Plugins
 
@@ -2040,6 +2044,7 @@
 - [cargo-minimal-versions](https://github.com/taiki-e/cargo-minimal-versions) - Cargo subcommand for proper use of -Z minimal-versions.
 - [cargo-vet](https://github.com/bholley/cargo-vet) - Supply-chain security for Rust.
 - [cargo-criterion](https://github.com/bheisler/cargo-criterion) - Cargo extension for running Criterion.rs benchmarks.
+- [cargo-public-api](https://github.com/Enselic/cargo-public-api) - List and diff the public API of Rust library crates between releases and commits.
 
 ## Links
 

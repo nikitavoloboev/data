@@ -27,6 +27,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [GitHub OCaml](https://github.com/tmcgilchrist/ocaml-gitlab)
 - [GitHub Haskell](https://github.com/phadej/github)
 - [GitHub R](https://github.com/r-lib/gh)
+- [GitHub Scala](https://github.com/47degrees/github4s)
 - [GitHub Gists Python](https://github.com/softvar/simplegist) - Advanced python wrapper for Github Gist API.
 - [Hacker News](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.

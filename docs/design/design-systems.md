@@ -192,3 +192,4 @@
 - [Awesome design language system](https://github.com/DragorWW/awesome-design-language-system)
 - [Why most design systems implode (2022)](https://storybook.js.org/blog/why-most-design-systems-implode/)
 - [Shopify Design Foundations](https://github.com/Shopify/foundational-design-system-proto) - Prototype for a foundational design system at Shopify.
+- [Design Tokens Technical Reports](https://tr.designtokens.org/) ([Code](https://github.com/design-tokens/community-group))
