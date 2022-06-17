@@ -10,6 +10,8 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 
 [You should not use a blockchain unless you critically need finality in a shared context with a lot of other financial applications like exchanges, stable coin providers. If you don't need that, don't use a blockchain.](https://youtu.be/35_rr8Vf-4k?t=27635)
 
+[Dark Forest](https://zkga.me/) is a [unique game built on top of blockchain](https://twitter.com/larsiusprime/status/1537181872572485632).
+
 ## Consensus algorithms
 
 - PoW: The more hashing power the more trust worthy.

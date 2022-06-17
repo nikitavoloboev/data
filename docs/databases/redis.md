@@ -155,3 +155,4 @@ title: Redis
 - [Redis Analysis - Part 1: Threading model (2021)](https://www.romange.com/2021/12/09/redis-analysis-part-1-threading-model/)
 - [Redis PubSub](https://github.com/soundxyz/redis-pubsub) - Full type-safe Redis PubSub with Zod.
 - [RedisRaft](https://github.com/RedisLabs/redisraft) - Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.
+- [Docker and Redis - a curious beginner’s walkthrough (2022)](http://blog.miranti.net.br/redis-getting-started)

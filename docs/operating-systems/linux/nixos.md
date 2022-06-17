@@ -66,6 +66,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Jeremy Schlatter](https://github.com/jeremyschlatter/nixpkgs)
 - [sioodmy](https://github.com/sioodmy/nixdots)
 - [Subin Kim](https://github.com/sudosubin/nixos-config)
+- [Norbert Melzer](https://github.com/NobbZ/nixos-config)
 
 ## Nix configs (macOS)
 

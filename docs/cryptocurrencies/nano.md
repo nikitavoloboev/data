@@ -31,3 +31,4 @@ title: Nano
 - [Feeless](https://github.com/feeless/feeless) - Nano cryptocurrency node, wallet, tools, and Rust crate.
 - [svelte-nano-donate](https://github.com/small-tech/svelte-nano-donate) - Nano donation component built using Svelte.
 - [Nano & Digital Cash w/ Patrick Luberus by When The Music Stops (2021)](https://anchor.fm/when-the-music-stops/episodes/Nano--Digital-Cash-w-Patrick-Luberus-e15db6b)
+- [Payment gateway for NANO](https://github.com/accept-nano/accept-nano)

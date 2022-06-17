@@ -242,6 +242,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Motor Admin](https://www.getmotoradmin.com/) - No-Code Admin Panel. ([Code](https://github.com/motor-admin/motor-admin))
 - [SpatialChat](https://spatial.chat/) - In-person virtual meetings.
 - [Over](https://www.madewithover.com/) - Makes beautiful design, easy.
+- [Text Cleaner](https://textcleaner.net/) - Text Formatter, Text Formatting Online.
 - [Swirly](https://swirly.dev/) - Marble diagram generator. ([Code](https://github.com/timdp/swirly))
 - [Kiwix](https://www.kiwix.org/en/) - Lets you access free knowledge – even offline.
 - [Universe](https://onuniverse.com/) - Website builder made for your iPhone. Build your brand from your hand with the GRID. ([Twitter](https://twitter.com/onuniverse))

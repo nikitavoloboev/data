@@ -482,3 +482,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Как стать iOS-разработчиком и быстро выучить Swift (2022)](https://skillbox.ru/media/code/kak-vyuchit-swift-i-stat-iosrazrabotchikom-poshagovyy-plan-ot-roadmap-do-sobesedovaniy/)
 - [2022 Apple Design Award Finalists](https://developer.apple.com/design/awards/)
 - [react-xib](https://github.com/EvanBacon/react-xib) - React for Apple Interface Builder. This is useful for creating complex Apple Launch Screens (Splash Screens).
+- [Nimble's iOS Templates](https://github.com/nimblehq/ios-templates)

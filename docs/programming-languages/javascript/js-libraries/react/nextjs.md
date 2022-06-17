@@ -8,6 +8,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 
 ## Example sites
 
+- [NextJS, Tailwind, TRPC, Prisma, and NextAuth Starter](https://github.com/copleykj/NextJS-Ultimate-Starter)
 - [Next.js Commerce starter kit](https://nextjs.org/commerce)
 - [NextJS full stack starter](https://github.com/SaraVieira/next-fullstack-starter)
 - [Turborepo starter with pnpm (Remix/NextJS)](https://github.com/mcansh/turborepo-remix)

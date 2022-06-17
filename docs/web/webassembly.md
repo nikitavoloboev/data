@@ -321,3 +321,5 @@ title: WebAssembly
 - [How Lunatic Brings Erlang's Principles to WebAssembly (2022)](https://www.youtube.com/watch?v=M2B7VKFeF7o) ([Transcript](https://serokell.io/blog/lunatic-with-bernard-kolobara)) ([HN](https://news.ycombinator.com/item?id=31569482))
 - [Tarmac](https://github.com/madflojo/tarmac) - Framework for building distributed services with Web Assembly. ([Docs](https://tarmac.gitbook.io/tarmac/))
 - [Rust+ WASM implementation of a beamformer in spectral analysis](https://github.com/ma3103yd-s/beamformer-wasm)
+- [WebAssembly Components and wasmCloud Actors: A Glimpse of the Future (2022)](https://wasmcloud.com/blog/webassembly_components_and_wasmcloud_actors_a_glimpse_of_the_future/)
+- [Building a web application with Rust and WebAssembly (2022)](https://kerkour.com/web-application-with-rust-and-webassembly)

@@ -753,7 +753,6 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Ristretto](https://github.com/dgraph-io/ristretto) - High performance memory-bound Go cache.
 - [Watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications easy way in Go. ([CQRS implementation in Watermill](https://watermill.io/docs/cqrs/))
 - [Aero](https://github.com/aerogo/aero) - High-performance web server for Go.
-- [rain](https://github.com/cenkalti/rain) - BitTorrent client and library in Go.
 - [Jet](https://github.com/go-jet/jet) - Type safe SQL Builder for Go with automatic scan to desired arbitrary object structure.
 - [ent](https://github.com/ent/ent) - Simple, yet powerful entity framework for Go, that makes it easy to build and maintain applications with large data-models. ([Web](https://entgo.io/)) ([Docs](https://entgo.io/docs/getting-started)) ([GraphQL setup](https://github.com/a8m/ent-graphql-example)) ([entcache](https://github.com/ariga/entcache)) ([ent-contrib](https://github.com/ent/contrib)) ([ogent - Ent Extension to integrate ogen](https://github.com/ariga/ogent))
 - [Muon](https://github.com/ImVexed/muon) - Lightweight alternative to Electron written in Golang in about ~300 LoC, using Ultralight instead of Chromium.
@@ -1691,6 +1690,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [async-buffer](https://github.com/woorui/async-buffer) - Generic Asynchronous data buffer with Automatic and Manual flushing.
 - [Tasqueue](https://github.com/kalbhor/Tasqueue) - Simple, customizable distributed job/worker in Go.
 - [Itogami](https://github.com/alphadose/itogami) - Fast and memory efficient thread-pool in Go.
+- [profiler](https://github.com/knadh/profiler) - Simple wrapper over Go runtime/pprof for running multiple concurrent profiles and dumping results to files.
+- [trie](https://github.com/shivamMg/trie) - Trie implementation in Go meant for auto-completion use cases. Supports Levenshtein distance search.
 
 ## Links
 

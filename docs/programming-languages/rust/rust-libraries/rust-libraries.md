@@ -2046,6 +2046,7 @@
 - [cargo-vet](https://github.com/bholley/cargo-vet) - Supply-chain security for Rust.
 - [cargo-criterion](https://github.com/bheisler/cargo-criterion) - Cargo extension for running Criterion.rs benchmarks.
 - [cargo-public-api](https://github.com/Enselic/cargo-public-api) - List and diff the public API of Rust library crates between releases and commits.
+- [cargo-doc2readme](https://github.com/msrd0/cargo-doc2readme) - Cargo subcommand to create a readme file containing the rustdoc comments from your code.
 
 ## Notes
 

@@ -163,6 +163,8 @@ Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.lea
 - [Legend of Lua](https://github.com/kyleschaub/legend-of-lua) - Open-source Love2D Zelda-like game, currently in development.
 - [Solaris](https://github.com/solaris-games/solaris) - HTML5 game of strategy, intrigue and galactic conquest.
 - [Attacke!](https://github.com/iamschulz/attacke) - Simple two-player fighting game.
+- [OpenGOAL](https://github.com/open-goal/jak-project) - Custom Lisp language developed by Naughty Dog. ([Web](https://open-goal.github.io/))
+- [Rust Game Ports](https://github.com/64kramsystem/rust-game-ports) - Ports of open source games to Rust, using different pure-Rust game engines.
 
 ## Awesome games (other)
 

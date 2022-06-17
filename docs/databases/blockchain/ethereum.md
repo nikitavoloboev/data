@@ -84,7 +84,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [The hitchhiker’s guide to Ethereum (2020)](https://www.wslyvh.com/ethereum-guide/) ([HN](https://news.ycombinator.com/item?id=23770109))
 - [Ethereum Foundation Blog](https://blog.ethereum.org/)
 - [The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum (2020)](https://www.goodreads.com/book/show/50175330)
-- [Dark Forest](https://zkga.me/) - Fully-decentralized RTS built on ethereum with zk-SNARKs. ([v0.3 summary](https://twitter.com/darkforest_eth/status/1295067861665423365)) ([Blog](https://blog.zkga.me/)) ([Code](https://github.com/darkforest-eth/darkforest-v0.3)) ([Announcement](https://blog.zkga.me/announcing-darkforest))
+- [Dark Forest](https://zkga.me/) - Fully-decentralized RTS built on ethereum with zk-SNARKs. ([v0.3 summary](https://twitter.com/darkforest_eth/status/1295067861665423365)) ([Blog](https://blog.zkga.me/)) ([Code](https://github.com/darkforest-eth/darkforest-v0.3)) ([Announcement](https://blog.zkga.me/announcing-darkforest)) ([Explained](https://twitter.com/larsiusprime/status/1537181872572485632))
 - [Solidity Template](https://github.com/PaulRBerg/solidity-template) - To be used when building a new solidity project from scratch.
 - [Create Eth App](https://github.com/PaulRBerg/create-eth-app)
 - [Buidler](https://buidler.dev/) - Task runner for Ethereum smart contract developers. ([Code](https://github.com/nomiclabs/buidler))

@@ -163,6 +163,6 @@
 - [Ourspace](https://github.com/ZeroDAO/ourspace) - Decentralized social networks and reputation systems.
 - [Tim Urban on political discourse + Keith Rabois on early-stage investing in 2022](https://www.youtube.com/watch?v=ivDwzBYsED4)
 - [instantgram](https://github.com/theus/instantgram) - Bookmarklet for download photos in Instagram.
-- [Farcaster](https://www.farcaster.xyz/) - Sufficiently decentralized social network. It is an open protocol that can support many clients, just like email. ([Twitter](https://twitter.com/farcaster_xyz)) ([Article](https://www.shawkisukkar.com/2022/farcaster))
+- [Farcaster](https://www.farcaster.xyz/) - Sufficiently decentralized social network. It is an open protocol that can support many clients, just like email. ([Twitter](https://twitter.com/farcaster_xyz)) ([Article](https://www.shawkisukkar.com/2022/farcaster)) ([Farcaster Search](https://searchcaster.xyz/)) ([Farcaster Search Code](https://github.com/gskril/farcaster-search))
 - [retrospring](https://retrospring.net/) - Q/A based social network. ([Code](https://github.com/Retrospring/retrospring))
 - [Movim](https://movim.eu/) - Social and chat platform that act as a web frontend for the XMPP protocol. ([Code](https://github.com/movim/movim))

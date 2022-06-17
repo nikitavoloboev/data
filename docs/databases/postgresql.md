@@ -117,7 +117,7 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [How does MVCC (Multi-Version Concurrency Control) work (2020)](https://vladmihalcea.com/how-does-mvcc-multi-version-concurrency-control-work/)
 - [Looking Back at Postgres (2019)](https://arxiv.org/abs/1901.01973) ([HN](https://news.ycombinator.com/item?id=23529954)) ([Notes](https://brandur.org/nanoglyphs/013-remote))
 - [The Postgres and Illustra Codelines](https://dl.acm.org/doi/pdf/10.1145/3226595.3226623)
-- [Citus](https://github.com/citusdata/citus) - Distributed PostgreSQL extension for multi-tenant and real-time analytics workloads. ([Web](https://www.citusdata.com/)) ([GitHub](https://github.com/citusdata))
+- [Citus](https://github.com/citusdata/citus) - Distributed PostgreSQL extension for multi-tenant and real-time analytics workloads. ([Web](https://www.citusdata.com/)) ([GitHub](https://github.com/citusdata)) ([HN](https://news.ycombinator.com/item?id=31770348))
 - [Postgres...as an App? (2020)](https://bytes.yingw787.com/posts/2020/06/15/postgres_as_app_1/) ([Lobsters](https://lobste.rs/s/ir2uyk/postgres_as_app))
 - [PostgreSQL query JIT (2020)](https://solovyov.net/blog/2020/postgresql-query-jit/)
 - [PgBouncer](https://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL. ([Code](https://github.com/pgbouncer/pgbouncer))
@@ -506,7 +506,7 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Speeding up sort performance in Postgres 15 (2022)](https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/) ([HN](https://news.ycombinator.com/item?id=31444558))
 - [Instant Heatmap with pg_featureserv (2022)](https://www.crunchydata.com/blog/instant-heatmap-with-pg_featureserv) ([HN](https://news.ycombinator.com/item?id=31436039))
 - [PostgreSQL Anonymizer: Privacy by Design for Postgres (2022)](https://www.postgresql.org/about/news/postgresql-anonymizer-10-privacy-by-design-for-postgres-2452/)
-- [Neon](https://github.com/neondatabase/neon) - Serverless open source alternative to AWS Aurora Postgres. ([Web](https://neon.tech/)) ([HN](https://news.ycombinator.com/item?id=31536827))
+- [Neon](https://github.com/neondatabase/neon) - Serverless open source alternative to AWS Aurora Postgres. ([Web](https://neon.tech/)) ([HN](https://news.ycombinator.com/item?id=31536827)) ([Why](https://neon.tech/blog/hello-world/))
 - [Postgres Docker Container Migration Cheat Sheet (2022)](https://garrit.xyz/posts/2022-05-31-database-server-migration-cheat-sheet)
 - [Pigsty](https://github.com/Vonng/pigsty) - Battery-Included Open-Source PostgreSQL Distribution.
 - [Restore PostgreSQL database running in Docker Container (2021)](https://estebanborai.com/notes/docker-postgresql-restore-database)

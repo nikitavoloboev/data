@@ -88,7 +88,7 @@
 - [reg-suit](https://reg-viz.github.io/reg-suit/) - Visual Regression Testing tool. ([Code](https://github.com/reg-viz/reg-suit)) ([CLI Code](https://github.com/reg-viz/reg-cli)) ([Report UI Code](https://github.com/reg-viz/reg-cli-report-ui))
 - [Goose&Duck – Фронтендер на заводе Tesla | Олег Исонен (2022)](https://www.youtube.com/watch?v=h2pQtRSzMSc)
 - [The 60 Hottest Front-end Tools of 2021](https://css-tricks.com/hottest-front-end-tools-in-2021/)
-- [Component Encyclopedia | Storybook](https://storybook.js.org/showcase) - Reference thousands of components from leading UI engineering teams.
+- [Component Encyclopedia | Storybook](https://storybook.js.org/showcase) - Reference thousands of components from leading UI engineering teams. ([Article](https://storybook.js.org/blog/component-encyclopedia/))
 - [Smart Interface Design Patterns – 100 Smart Interface Design Patterns & Live Examples. 6h Video + UX Training. (2022)](https://smart-interface-design-patterns.com/)
 - [Interaction Testing with Storybook (2022)](https://storybook.js.org/blog/interaction-testing-with-storybook/) ([Reddit](https://www.reddit.com/r/reactjs/comments/t0fe4a/storybook_interaction_testing_in_beta/))
 - [Claymorphism: Will It Stick Around? UI Trends (2022)](https://www.smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/) ([HN](https://news.ycombinator.com/item?id=30852884))

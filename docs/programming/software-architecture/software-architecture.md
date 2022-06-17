@@ -243,3 +243,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Ask HN: Why aren't code diagram generating tools more common? (2022)](https://news.ycombinator.com/item?id=31620002)
 - [Evolutionary Architecture](https://github.com/alextanhongpin/evolutionary-architecture) - Collection of best practices when designing an server-side and client-side architecture.
 - [Learnings from clean architecture](https://github.com/alextanhongpin/clean-architecture-learn)
+- [The cost of convenience (2022)](https://surma.dev/things/cost-of-convenience/)

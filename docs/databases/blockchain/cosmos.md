@@ -19,3 +19,4 @@ title: Cosmos
 - [Cosmos Interchain Security](https://github.com/cosmos/interchain-security)
 - [Cosmos.nix](https://github.com/informalsystems/cosmos.nix) - Nix Integration with Cosmos Projects.
 - [CosmWasm Plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses.
+- [did](https://github.com/mingderwang/did) - Blockchain application built using Cosmos SDK and Tendermint and generated with Starport.

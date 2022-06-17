@@ -273,3 +273,4 @@ title: HTTP
 - [Boomer](https://github.com/myzhan/boomer) - Better load generator for locust, written in Go.
 - [waitehr](https://github.com/gajus/waitehr) - CLI program that waits for HTTP response and retries request until the expected response is received.
 - [A Cloudflare view of HTTP usage trends (2022)](https://blog.cloudflare.com/cloudflare-view-http3-usage/)
+- [HTTP/3 Deep Dive (2020)](https://ably.com/topic/http3)

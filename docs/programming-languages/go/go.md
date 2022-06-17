@@ -802,3 +802,4 @@ if err != nil {
 - [Making Quamina Faster (2022)](https://www.tbray.org/ongoing/When/202x/2022/06/10/Quamina-Optimizing)
 - [Go Template Preview](https://gotemplate.io/) - Quick test and visualize your Go templates live. ([HN](https://news.ycombinator.com/item?id=31713654))
 - [Go grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-go)
+- [Advanced Go Fuzzing Techniques (2022)](https://blog.fuzzbuzz.io/writing-effective-go-fuzz-tests/)

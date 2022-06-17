@@ -523,6 +523,8 @@
 - [FastList](https://github.com/elegantchaos/FastList) - Bare-bones replacement for SwiftUI List, intended to work around some of List's performance issues.
 - [NavigationSearchBarModifier](https://github.com/stleamist/NavigationSearchBarModifier) - Clean way to attach a search bar with a scope bar in SwiftUI.
 - [FrameUp](https://github.com/ryanlintott/FrameUp) - Reframing SwiftUI Views. A collection of tools to help with layout.
+- [PureduxSwiftUI](https://github.com/KazaiMazai/PureduxSwiftUI) - SwiftUI bindings to connect UI to PureduxStore.
+- [SwiftyUIKit](https://github.com/KazaiMazai/SwiftyUIKit) - Featherweight lib for building an autolayout-powered UIView layout in a clean SwiftUI-style.
 
 ## Test
 

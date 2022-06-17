@@ -522,3 +522,4 @@ all: unset
 - [Star Wars Scene Transition Effects in CSS (2022)](https://codersblock.com/blog/star-wars-scene-transition-effects-in-css/)
 - [finder](https://github.com/antonmedv/finder) - CSS Selector Generator.
 - [CSS box-sizing (2022)](https://garden.bradwoods.io/notes/css-box-sizing)
+- [Complex vs Compound Selectors (2022)](https://www.miriamsuzanne.com/2022/06/15/complex-compound/) ([Tweet](https://twitter.com/TerribleMia/status/1537222094827663360))

@@ -636,3 +636,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems (2022)](https://www.micahlerner.com/2022/06/04/data-parallel-actors-a-programming-model-for-scalable-query-serving-systems.html)
 - [Cache made consistent: Meta’s cache invalidation solution](https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/) ([HN](https://news.ycombinator.com/item?id=31671252))
 - [JOIN: The Ultimate Projection (2022)](https://justinjaffray.com/join-the-ultimate-projection/) ([Lobsters](https://lobste.rs/s/upp2o1/join_ultimate_projection))
+- [Seeing is Believing: A Client-Centric Specification of Database Isolation (2022)](http://muratbuffalo.blogspot.com/2022/06/seeing-is-believing-client-centric.html)

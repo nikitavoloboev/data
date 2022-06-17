@@ -254,7 +254,7 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [JOY5](https://github.com/nareix/joy5) - AV Toolkit.
 - [Snickers](https://github.com/snickers/snickers) - Open source alternative to the video cloud encoding services.
 - [Video Transcoding API](https://github.com/video-dev/video-transcoding-api) - Agnostic API to transcode media assets across different cloud services.
-- [Recut](https://getrecut.com/) - Remove Silence From Your Videos Automatically.
+- [Recut](https://getrecut.com/) - Remove Silence From Your Videos Automatically. ([HN](https://news.ycombinator.com/item?id=31767830))
 - [LightTwist](http://lighttwist.io/) - iOS app that turns your room into a customizable virtual video studio.
 - [OpenHD](https://github.com/OpenHD/Open.HD) - HD video, UAV telemetry, audio, and RC control. ([HN](https://news.ycombinator.com/item?id=27298422))
 - [TubeNotes](https://tubenotes.xyz/) - Annotate and Loop Videos.

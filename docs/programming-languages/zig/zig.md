@@ -123,3 +123,4 @@ title: Zig
 - [Minimal example showing how HTML5's canvas, WASM memory and Zig can interact](https://github.com/daneelsan/minimal-zig-wasm-canvas)
 - [Uber Uses Zig (2022)](https://jakstys.lt/2022/how-uber-uses-zig/) ([HN](https://news.ycombinator.com/item?id=31478562)) ([Lobsters](https://lobste.rs/s/l9ghdb/how_zig_is_used_at_uber))
 - [Zig PyPI distribution](https://github.com/ziglang/zig-pypi) - Zig programming language, packaged for PyPI. Lets you run Zig code from Python easily. ([Tweet](https://twitter.com/simonw/status/1528742284241408001))
+- [Mixins in Zig](https://igor84.github.io/blog/mixins-in-zig/) ([HN](https://news.ycombinator.com/item?id=31765551))

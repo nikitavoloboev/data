@@ -38,3 +38,4 @@
 - [bliss](https://github.com/sporto/bliss) - Experiment on making a micro web framework for Gleam.
 - [Hackney](https://github.com/gleam-lang/hackney) - Make requests to HTTP servers with Hackney.
 - [yak](https://github.com/hayleigh-dot-dev/gleam-yak) - Small embeddable scripting language for Gleam.
+- [The future of friendly functional programming, Talking about Gleam language (2022)](https://open.spotify.com/episode/5kQbDiLY65Ujn1ymnugsX4)

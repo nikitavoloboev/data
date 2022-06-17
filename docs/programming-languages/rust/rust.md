@@ -822,3 +822,4 @@ title: Rust
 - [Everything Is Broken: Shipping Rust-Minidump at Mozilla (2022)](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/) ([HN](https://news.ycombinator.com/item?id=31740768))
 - [Async I/O in Depth: Thread Pools, Radix Trees, Channels and More - High Performance HTTP Web Servers (2022)](https://www.youtube.com/watch?v=fdxhcDne2Ww)
 - [How to make Rust leak memory (also: how to make it stop) (2022)](https://fly.io/blog/rust-memory-leak/) ([Lobsters](https://lobste.rs/s/7fbu8o/how_make_rust_leak_memory_also_how_make_it))
+- [Implementing strace in Rust (2022)](https://jakobwaibel.com/2022/06/06/ptrace/)

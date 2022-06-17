@@ -358,3 +358,5 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [AWS CDK](https://
 - [Amazon EKS Blueprints for CDK](https://github.com/aws-quickstart/cdk-eks-blueprints)
 - [Graviton 3: First Impressions (2022)](https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/) ([HN](https://news.ycombinator.com/item?id=31548989))
 - [AWS Datadog Forwarders Terraform module](https://github.com/terraform-aws-modules/terraform-aws-datadog-forwarders) - Terraform module which creates resources to forward logs and metrics to Datadog on AWS.
+- [Learn Amazon SageMaker Book (2021)](https://www.packtpub.com/product/learn-amazon-sagemaker-second-edition/9781801817950) ([Code](https://github.com/PacktPublishing/Learn-Amazon-SageMaker-second-edition))
+- [dns53](https://github.com/purpleclay/dns53) - Dynamic DNS within Amazon Route53. Expose your EC2 quickly, easily and privately.

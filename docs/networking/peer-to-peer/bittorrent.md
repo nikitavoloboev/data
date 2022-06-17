@@ -4,7 +4,7 @@ title: BitTorrent
 
 # [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
 
-[Transmission](https://transmissionbt.com/) is a great BitTorrent client.
+[Transmission](https://transmissionbt.com/) is a great BitTorrent client. [rain](https://github.com/cenkalti/rain) is nice BitTorrent Go client/lib.
 
 ## Torrent sites
 
@@ -121,3 +121,4 @@ title: BitTorrent
 - [Peercloud](https://github.com/jhiesey/peercloud) - Decentralized web hosting over WebTorrent.
 - [BitRemote](https://github.com/tatsuz0u/BitRemote) - BitTorrent client remote app for Apple platforms built with SwiftUI & TCA.
 - [Bittrickle](https://github.com/cronokirby/bittrickle) - UDP bitTorrent tracker in Rust.
+- [rain](https://github.com/cenkalti/rain) - BitTorrent client and library in Go.

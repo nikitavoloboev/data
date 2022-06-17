@@ -70,7 +70,7 @@
 - [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/) ([HN](https://news.ycombinator.com/item?id=22346532))
 - [Automatic peephole optimizer for Cranelift JIT compiler](https://github.com/jubitaneja/codegen)
 - [Let's Build A Simple Interpreter](https://github.com/rspivak/lsbasi)
-- [Introduction to Static Analysis - An Abstract Interpretation Perspective (2020)](https://mitpress.mit.edu/books/introduction-static-analysis)
+- [Introduction to Static Analysis - An Abstract Interpretation Perspective (2020)](https://mitpress.mit.edu/books/introduction-static-analysis) ([Simple Abstract Interpreter Code](https://github.com/sree314/simple-abstract-interpreter))
 - [Zig cc: A drop-in replacement for GCC/Clang (2020)](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html) ([HN](https://news.ycombinator.com/item?id=22679138)) ([Lobsters](https://lobste.rs/s/dw9qyv/zig_cc_powerful_drop_replacement_for_gcc)) ([HN](https://news.ycombinator.com/item?id=27872596))
 - [Basics of Compiler Design (2000)](http://hjemmesider.diku.dk/~torbenm/Basics/) ([HN](https://news.ycombinator.com/item?id=21778546)) ([PDF](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf))
 - [Modern Compiler Implementation in ML book (1998)](https://www.cs.princeton.edu/~appel/modern/ml/) ([In Rust](https://github.com/antoyo/tiger-rs)) ([In Haskell](https://github.com/tdp2110/HaskellTiger))

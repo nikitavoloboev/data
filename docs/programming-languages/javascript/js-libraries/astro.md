@@ -6,6 +6,7 @@ title: Astro
 
 ## OSS Astro sites
 
+- [Astro Starter Kit: Minimal](https://github.com/mattrothenberg/1kx-astro)
 - [Astro - Ink](https://github.com/one-aalam/astro-ink) - Crisp, minimal, personal blog theme for Astro.
 
 ## Links

@@ -217,3 +217,4 @@ title: Spatial analysis
 - [label_centerlines](https://github.com/ungarj/label_centerlines) - Python tool to extract smoothed centerlines from polygons.
 - [EOX](https://eox.at/) - Geospatial engineering and service company based in Austria. ([Twitter](https://twitter.com/eox_a))
 - [Rust-Geohash](https://github.com/georust/geohash) - Rust library for Geohash algorithm.
+- [Allmaps viewer](https://viewer.allmaps.org/) ([Code](https://github.com/allmaps/viewer))

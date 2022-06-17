@@ -209,3 +209,4 @@ title: OCaml libraries
 - [Reusable Effect-Based Components](https://github.com/RedPRL/algaeff)
 - [opam-nix](https://github.com/tweag/opam-nix) - Turn opam-based OCaml projects into Nix derivations.
 - [Esperanto](https://github.com/dinosaure/esperanto) - Build-once run-anywhere OCaml programs.
+- [opam-ci](https://github.com/ocurrent/opam-repo-ci) - OCurrent pipeline for testing submissions to opam-repository.

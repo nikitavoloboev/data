@@ -896,6 +896,7 @@
 - [Flor](https://github.com/DCSO/flor) - Bloom filter implementation in Python.
 - [QOI](https://github.com/kodonnell/qoi) - Python wrapper around QOI ("Quite OK Image" image format).
 - [Proto Plus for Python](https://github.com/googleapis/proto-plus-python) - Beautiful, idiomatic protocol buffers in Python.
+- [Kuyruk](https://github.com/cenkalti/kuyruk) - Simple task queue for Python.
 
 ## Notes
 
@@ -1051,3 +1052,4 @@
 - [Pyroma](https://github.com/regebro/pyroma) - Rate your Python packages package friendliness.
 - [Pyan3](https://github.com/davidfraser/pyan) - Python module that performs static analysis of Python code to determine a call dependency graph between functions and methods.
 - [dumb-pypi](https://github.com/chriskuehl/dumb-pypi) - PyPI generator, backed entirely by static files.
+- [Bundling binary tools in Python wheels (2022)](https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/) ([HN](https://news.ycombinator.com/item?id=31776873))

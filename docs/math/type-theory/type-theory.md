@@ -210,3 +210,4 @@ title: Type Theory
 - [Fωμ type checker and compiler](https://github.com/polytypic/f-omega-mu)
 - [Hindley–Milner Type inferencing in C](https://github.com/nmhancock/type-inferencing)
 - [Mélitte](https://github.com/adrieng/melitte) - Toy implementation of Martin-Löf Type Theory.
+- [Type inference from scratch (2019)](https://github.com/kritzcreek/fby19) ([Video](https://www.youtube.com/watch?v=ytPAlhnAKro))

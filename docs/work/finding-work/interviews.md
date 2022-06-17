@@ -169,3 +169,4 @@
 - [In defense of coding interviews](https://biggestfish.substack.com/p/in-defense-of-coding-interviews) ([HN](https://news.ycombinator.com/item?id=31544997))
 - [InterviewKit](https://interviewkit.co/) - All-in-one tool for research interviews that saves you up to 80% of time.
 - [Amazon Behavioral Interview](https://github.com/tombetthauser/amazon-behavioral-interview)
+- [Free Peer-to-Peer Mock Interviews](https://www.hackpack.io/mock-interviews)
