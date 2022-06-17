@@ -298,3 +298,4 @@ useEffect(() => {
 - [Questions around useEffect hook (2022)](https://twitter.com/dan_abramov/status/1526584624159555584)
 - [Synchronizing with Effects](https://beta-reactjs-org-git-effects-fbopensource.vercel.app/learn/synchronizing-with-effects) ([Tweet](https://twitter.com/dan_abramov/status/1528420593686745091))
 - [Goodbye, useEffect: David Khourshid (2022)](https://www.youtube.com/watch?v=HPoC-k7Rxwo)
+- [Rapini](https://github.com/rametta/rapini) - OpenAPI to React Query & Axios.

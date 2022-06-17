@@ -491,3 +491,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Teleforking a process onto a different computer (2020)](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/) ([HN](https://news.ycombinator.com/item?id=22987747)) ([Code](https://github.com/trishume/telefork)) ([HN](https://news.ycombinator.com/item?id=31574624))
 - [Awesome Low Latency](https://github.com/penberg/awesome-low-latency)
 - [ranpha](https://github.com/JohnTitor/ranpha) - Generate QR code of your Wi-Fi network.
+- [WiFi Exploitation Framework](https://github.com/D3Ext/WEF)

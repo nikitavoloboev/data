@@ -190,3 +190,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Spin Cycle](https://github.com/square/spincycle) - Automate and expose complex infrastructure tasks to teams and services.
 - [A review of Accelerate: The Science of Lean Software and DevOps (2022)](https://keunwoo.com/notes/accelerate-devops/)
 - [sake](https://github.com/alajmo/sake) - Command runner for local and remote hosts.
+- [Nomad Helper](https://github.com/seatgeek/nomad-helper) - Useful tools for working with Hashicorp Nomad at scale.

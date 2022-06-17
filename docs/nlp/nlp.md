@@ -596,3 +596,4 @@
 - [MSCTD: A Multimodal Sentiment Chat Translation Dataset](https://aclanthology.org/2022.acl-long.186/) ([Code](https://github.com/XL2248/MSCTD))
 - [Auto-Lambda: Disentangling Dynamic Task Relationships (2022)](https://arxiv.org/abs/2202.03091) ([Code](https://github.com/lorenmt/auto-lambda))
 - [Concepts in Neural Networks for NLP](https://github.com/neulab/nn4nlp-concepts)
+- [DinkyTrain](https://github.com/princeton-nlp/DinkyTrain) - Princeton NLP's pre-training library based on fairseq with DeepSpeed kernel integration.

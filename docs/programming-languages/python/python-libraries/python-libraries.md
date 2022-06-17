@@ -897,6 +897,7 @@
 - [QOI](https://github.com/kodonnell/qoi) - Python wrapper around QOI ("Quite OK Image" image format).
 - [Proto Plus for Python](https://github.com/googleapis/proto-plus-python) - Beautiful, idiomatic protocol buffers in Python.
 - [Kuyruk](https://github.com/cenkalti/kuyruk) - Simple task queue for Python.
+- [TreeValue](https://github.com/opendilab/treevalue) - Tree-nested data structure.
 
 ## Notes
 

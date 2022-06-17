@@ -367,3 +367,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nixbench](https://github.com/boredom101/nixbench) - Analyze Nix derivations.
 - [Using Nix as package manager experiences (2022)](https://twitter.com/CompuIves/status/1533021281108606976)
 - [Nix as shell](https://github.com/brainrake/nixsh)
+- [Nixago](https://github.com/nix-community/nixago) - Generate configuration files using Nix.
