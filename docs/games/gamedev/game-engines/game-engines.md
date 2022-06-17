@@ -117,6 +117,7 @@
 - [cannon-es](https://github.com/pmndrs/cannon-es) - Lightweight 3D physics engine written in JavaScript.
 - [Starlight.jl](https://github.com/jhigginbotham64/Starlight.jl) - Game engine written in Julia. ([HN](https://news.ycombinator.com/item?id=31648175))
 - [Amalgam Engine](https://github.com/Net5F/AmalgamEngine) - Engine for easily creating virtual worlds.
+- [Stride](https://github.com/stride3d/stride) - Open-source C# game engine for realistic rendering and VR. ([Web](https://www.stride3d.net/))
 
 ## Physics engines
 

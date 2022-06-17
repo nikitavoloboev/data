@@ -1,12 +1,12 @@
 # Analytics
 
-I find analytics that is not actionable in any way a waste of time. For example, checking the Insights Traffic pane on GitHub on your own repos to see how many people viewed your repo or cloned it.
+Analytics if implemented should be actionable and in no way impact the performance of the app. i.e [Netlify](https://www.netlify.com/products/analytics/) or [Google Analytics](https://developers.google.com/tag-platform/tag-manager/server-side/intro) but done on server side and not on the client.
 
-Well implemented analytics will let you see how to optimize your system to serve some end goals better and for that you need data. As well as know from where the traffic is coming from.
+I try to not waste time and even block pages like Insights Traffic pane on GitHub so as to not waste time viewing useless vanity stats.
 
-If analytics are used, it's best to implement them server side with something like [Netlify](https://www.netlify.com/products/analytics/) so as to not send unnecessary JS to the client and keep pages light.
+Well implemented analytics together with proper logging/tracing should let you let you view user journeys of your app, which parts of the app are barely used and see how you can improve.
 
-[umami](https://umami.is/) seems nice for analytics. [Product Analytics from Scratch](https://tmfarrell.github.io/writing/2022/04/26/product_analytics_from_scratch/) is a nice read. [Databend](https://github.com/datafuselabs/databend) seems great for more serious data processing needs.
+[PostHog](https://github.com/PostHog/posthog) & [umami](https://umami.is/) seem nice for analytics. [Product Analytics from Scratch](https://tmfarrell.github.io/writing/2022/04/26/product_analytics_from_scratch/) is a nice read. [Databend](https://github.com/datafuselabs/databend) seems great for more serious data processing needs.
 
 ## Notes
 

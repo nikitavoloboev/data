@@ -339,3 +339,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [graphql-request-profiler](https://github.com/Econify/graphql-request-profiler) - Easy to use GraphQL performance analysis utility for tracing resolver execution time.
 - [SpecNews](https://specnewspod.com/) - Podcast delivering the latest highlights from the GraphQL Working Group. ([Twitter](https://twitter.com/SpecNewsPod))
 - [GraphQL Composite Schemas Working Group](https://github.com/graphql/composite-schemas-wg)
+- [Shyft](https://github.com/chriskalmar/shyft) - Server-side framework for building powerful GraphQL APIs.

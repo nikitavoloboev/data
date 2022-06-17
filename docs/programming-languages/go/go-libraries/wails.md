@@ -10,3 +10,4 @@ title: Wails
 
 - [Building Desktop Applications using Wails (2021)](https://www.youtube.com/watch?v=13Ufa9i8cFo)
 - [HN: Wails (2022)](https://news.ycombinator.com/item?id=31764773)
+- [Awesome Wails](https://github.com/wailsapp/awesome-wails)

@@ -73,3 +73,4 @@
 - [The Big Six Matrix Factorizations (2022)](https://nhigham.com/2022/05/18/the-big-six-matrix-factorizations/) ([HN](https://news.ycombinator.com/item?id=31421745))
 - [Ask HN: Best beginner friendly linear algebra book? (2022)](https://news.ycombinator.com/item?id=31707163)
 - [The Philosophy of Linear Algebra (2021)](https://sigfyg.medium.com/the-philosophy-of-linear-algebra-ac2d9ce14619) ([HN](https://news.ycombinator.com/item?id=31710501))
+- [Lie Algebra Cheatsheet](https://github.com/norlab-ulaval/cheatsheet_LieAlgebra)

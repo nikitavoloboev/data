@@ -397,3 +397,5 @@ title: Node.js
 - [milliparsec](https://github.com/tinyhttp/milliparsec) - Tiniest body parser in the universe. Built for modern Node.js
 - [lru-send](https://github.com/tinyhttp/lru-send) - LRU-based caching middleware for Node.js.
 - [Creating Node.js Docker images that build in 2 seconds (2022)](https://xmorse.xyz/blog/creating-node-js-docker-images-that-build-in-2-seconds-c428aec57fd44a9f93957bdf2ebf4f54)
+- [node-temp](https://github.com/bruce/node-temp) - Temporary File, Directory, and Stream support for Node.js.
+- [Natural](https://github.com/jesusvilla/natural) - Fastest Framework for NodeJS. Written in pure ES6+.

@@ -176,3 +176,4 @@
 - [Labelbox](https://labelbox.com/) - Fastest way to annotate data to build and ship computer vision applications. ([Code](https://github.com/Labelbox/labelbox))
 - [Bamboo](https://github.com/Davidzhangyuanhan/Bamboo) - Mega-scale and information-dense dataset for classification and detection pre-training.
 - [The How2 Dataset](https://srvk.github.io/how2-dataset/) - Multimodal collection of instructional videos with English subtitles. ([Code](https://github.com/srvk/how2-dataset))
+- [Unity Dataset Insights](https://github.com/Unity-Technologies/datasetinsights) - Python package for downloading, parsing and analyzing synthetic datasets generated using the Unity Perception package.

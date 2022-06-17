@@ -43,3 +43,5 @@
 - [Tutorial on building your own CPU, in Verilog](https://github.com/hughperkins/cpu-tutorial)
 - [OH!](https://github.com/aolofsson/oh) - Verilog library for ASIC and FPGA designers.
 - [Metron C++ to Verilog Tutorial](https://aappleby.github.io/Metron/tutorial/)
+- [OpenVAF](https://sr.ht/~dspom/OpenVAF/) - Modern VerilogA compiler focused on compact modelling.
+- [Veriloggen](https://github.com/PyHDI/veriloggen) - Mixed-Paradigm Hardware Construction Framework.

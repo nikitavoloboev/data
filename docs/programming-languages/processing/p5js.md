@@ -31,3 +31,4 @@ title: p5.js
 - [p5.fab](https://github.com/machineagency/p5.fab) - P5.js library for 3D printing.
 - [Port to p5.js of Nature of Code examples](https://github.com/nature-of-code/noc-examples-p5.js)
 - [p5 template](https://github.com/datorpulcins/p5-template) - p5 in instance mode + Vite + TS.
+- [p5 React Renderer](https://github.com/adiman9/p5-react-renderer)

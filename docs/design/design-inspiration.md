@@ -393,6 +393,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Francesco Agosti](https://fragosti.com/) ([Code](https://github.com/fragosti/blog))
 - [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))
 - [Ernest Ojeh](https://ernestojeh.com/)
+- [Erik Kennedy](https://erikdkennedy.com/)
 - [Daniel Duan](https://duan.ca/) ([Code](https://github.com/dduan/duan.ca))
 - [Fabrizio Rinaldi](https://fabriziorinaldi.com/)
 - [Milen Dzhumerov](https://milen.me/)

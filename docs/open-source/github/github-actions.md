@@ -4,7 +4,7 @@ title: GitHub actions
 
 # [GitHub actions](https://github.com/features/actions)
 
-[GitHub Actions by Example](https://www.actionsbyexample.com/) is great intro. [act](https://github.com/nektos/act) is useful for locally testing actions.
+[GitHub Actions by Example](https://www.actionsbyexample.com/) is great intro. [act](https://github.com/nektos/act) is useful for locally testing actions. [This TS action template](https://github.com/actions/typescript-action) is great.
 
 ## Other
 
@@ -291,6 +291,10 @@ title: GitHub actions
 ## Web
 
 - [Cloudflare Pages GitHub Action](https://github.com/cloudflare/pages-action) - GitHub Action for creating Cloudflare Pages deployments.
+
+## WASM
+
+- [setup-emsdk](https://github.com/mymindstorm/setup-emsdk) - Actions step downloads emsdk and installs a version of Emscripten.
 
 ## TS
 

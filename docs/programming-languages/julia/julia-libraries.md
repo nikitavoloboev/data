@@ -106,6 +106,7 @@
 - [DeepQLearning](https://github.com/JuliaPOMDP/DeepQLearning.jl) - Implementation of the Deep Q-learning algorithm to solve MDPs.
 - [DiffRules](https://github.com/JuliaDiff/DiffRules.jl) - Simple shared suite of common derivative definitions.
 - [HuggingFaceHub.jl](https://github.com/cjdoris/HuggingFaceHub.jl) - Julia package to interact with the Hugging Face Hub.
+- [Hopfields.jl](https://github.com/yuehhua/Hopfields.jl) - Modern Hopfield layer implementations in Julia.
 
 ## Math
 

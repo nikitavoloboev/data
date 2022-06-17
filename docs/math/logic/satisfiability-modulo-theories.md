@@ -55,3 +55,4 @@ title: Satisfiability modulo theories
 - [DRSAT](https://github.com/danielschemmel/drsat) - Daniel's Rusty SAT solver.
 - [SATurne](https://github.com/jdrprod/SATurne) - Purely functional verified SAT solver which produces proofs.
 - [SMT Lean](https://github.com/ufmg-smite/lean-smt) - Tactics for discharging Lean goals into SMT solvers.
+- [CreuSAT](https://github.com/sarsko/CreuSAT) - Formally verified SAT solver written in Rust.

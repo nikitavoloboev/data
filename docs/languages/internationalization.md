@@ -44,3 +44,4 @@
 - [SimplyTranslate](https://simplytranslate.org/) - Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. ([Web Code](https://codeberg.org/SimpleWeb/SimplyTranslate-Web/src/branch/master/api.md)) ([Example Go CLI using it](https://github.com/fedeztk/got))
 - [Kotoba](https://github.com/top-gg/kotoba) - Re-organize your translations into multiple files and turn them into typescript declarations.
 - [i18nifty](https://github.com/etalab/i18nifty) - Type-safe internationalization and translation React library.
+- [Translators](https://github.com/UlionTse/translators) - Library which aims to bring free, multiple, enjoyable translation to individuals and students in Python.

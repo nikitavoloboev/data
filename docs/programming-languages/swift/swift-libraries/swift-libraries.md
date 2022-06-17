@@ -342,6 +342,7 @@
 - [Vapor Routing](https://github.com/pointfreeco/vapor-routing) - Routing library for Vapor with a focus on type safety, composition and URL generation.
 - [PacketProcessor](https://github.com/dannys42/SwiftPacketProcessor) - Type-safe packet processor framework in Swift.
 - [Swift LibP2P](https://github.com/swift-libp2p/swift-libp2p) - Swift implementation of libp2p, a modular & extensible networking stack.
+- [APNSwift](https://github.com/swift-server-community/APNSwift) - HTTP/2 APNS library built on AsyncHTTPClient.
 
 ## WASM
 
