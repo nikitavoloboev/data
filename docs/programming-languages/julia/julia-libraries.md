@@ -632,6 +632,7 @@
 - [TOML.jl](https://github.com/JuliaLang/TOML.jl) - Fast TOML parser for TOML 1.0 written in Julia.
 - [DecisionTree.jl](https://github.com/JuliaAI/DecisionTree.jl) - Julia implementation of Decision Tree (CART) and Random Forest algorithms.
 - [QuantizedArrays](https://github.com/zgornel/QuantizedArrays.jl) - Array quantization and compression.
+- [GraphPlot](https://github.com/JuliaGraphs/GraphPlot.jl) - Graph visualization for Julia.
 
 ## Links
 

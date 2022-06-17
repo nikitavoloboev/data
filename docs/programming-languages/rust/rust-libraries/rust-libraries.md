@@ -1966,6 +1966,8 @@
 - [downcast-rs](https://github.com/marcianx/downcast-rs) - Rust enums are great for types where all variations are known beforehand.
 - [faketty](https://github.com/dtolnay/faketty) - Wrapper to exec a command in a pty, even if redirecting the output.
 - [globiter](https://github.com/Xuanwo/globiter) - Turn glob range and set into Iterator.
+- [loco.rs](https://github.com/KiwiTalk/loco.rs) - Loco Protocol Wrapper for Rust.
+- [Quick Pool](https://github.com/Astro36/qp) - High Performance Async Generic Pool.
 
 ## Cargo Plugins
 

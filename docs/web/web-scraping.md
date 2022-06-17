@@ -203,3 +203,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Web scraping with Python open knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project) ([HN](https://news.ycombinator.com/item?id=31531694))
 - [Web scraping Proxy Library for Scrapy](https://github.com/reanalytics-databoutique/advanced-scrapy-proxies) ([HN](https://news.ycombinator.com/item?id=31561409))
 - [SLRP](https://github.com/nfx/slrp) - Rotating open proxy multiplexer.
+- [Node.js web scraper](https://github.com/get-set-fetch/scraper)

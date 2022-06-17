@@ -522,3 +522,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Convergence](https://github.com/returnString/convergence) - Set of tools for writing servers that speak PostgreSQL's wire protocol.
 - [pgq](https://github.com/mergestat/pgq) - Go library for using Postgres as a job queue.
 - [Search Replica](https://github.com/pg2es/search-replica) - Uses postgres logical replication protocol to subscribe and receive any updates almost in real time.
+- [PostgreSQL-wheel](https://github.com/michelp/postgresql-wheel) - Python wheel for Linux containing a complete, self-contained, locally installable PostgreSQL database server.

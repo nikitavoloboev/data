@@ -266,3 +266,4 @@ And these Discord servers:
 - [Sqwok](https://sqwok.im/) - Social chat alternative to Twitter and Reddit. ([HN](https://news.ycombinator.com/item?id=31160302))
 - [Ask HN: Do you feel overwhelmed by the amount of information? (2022)](https://news.ycombinator.com/item?id=31185038)
 - [Why do you waste so much time on the internet? (2022)](https://zan.bearblog.dev/why-i-waste-time/) ([HN](https://news.ycombinator.com/item?id=31285969))
+- [Ask HN: What news subscription is worth it? (2022)](https://news.ycombinator.com/item?id=31780355)

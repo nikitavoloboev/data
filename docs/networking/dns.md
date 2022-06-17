@@ -225,3 +225,4 @@ title: DNS
 - [DNS Toys](https://www.dns.toys/) - DNS server that offers useful utilities and services over the DNS protocol. ([Code](https://github.com/knadh/dns.toys)) ([Lobsters](https://lobste.rs/s/baxd5m/useful_utilities_toys_over_dns)) ([HN](https://news.ycombinator.com/item?id=31704789))
 - [GoDNS](https://github.com/TimothyYe/godns) - Dynamic DNS (DDNS) client tool.
 - [aardvark-dns](https://github.com/containers/aardvark-dns) - Authoritative DNS server for A/AAAA container records. Forwards other request to host's /etc/resolv.conf.
+- [Pion mDNS](https://github.com/pion/mdns) - Go implementation of mDNS.

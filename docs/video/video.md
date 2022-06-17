@@ -373,3 +373,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Make Compelling Videos That Go Viral - Marques Brownlee (2022)](https://www.masterclass.com/sessions/classes/make-compelling-videos-that-go-viral?promo_id=mkbhd)
 - [Filmot](https://filmot.com/) - Subtitle and Video Metadata Search Engine.
 - [GPU-accelerated video decoding (2022)](https://scalibq.wordpress.com/2022/06/11/gpu-accelerated-video-decoding/) ([HN](https://news.ycombinator.com/item?id=31704740))
+- [Vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. ([Docs](https://vimejs.com/))

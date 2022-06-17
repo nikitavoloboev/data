@@ -59,3 +59,4 @@
 - [Concise Encoding](https://concise-encoding.org/) - Secure data format for a modern world. ([HN](https://news.ycombinator.com/item?id=31475779))
 - [BIPF (Binary In-Place Format) Spec](https://github.com/ssbc/bipf-spec) - Binary format designed for in-place (without parsing) reads, with schemaless json-like semantics.
 - [New UUID Formats (2022)](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html) ([HN](https://news.ycombinator.com/item?id=31715119))
+- [UTF8.XYZ](https://utf8.xyz/) - Quick web app for fetching Unicode characters without extra fluff. ([Code](https://github.com/sethmlarson/utf8.xyz))

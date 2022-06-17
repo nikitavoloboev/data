@@ -230,3 +230,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podbabble](https://podbabble.com/) - Podcast discussion happens here. ([HN](https://news.ycombinator.com/item?id=31527544))
 - [Cast](https://cast-iu.pages.dev/) - Podcast listening progressive web app with all-around automated quality assurance. ([Code](https://github.com/aabounegm/cast))
 - [Ask HN: Why is Lex Fridman so successful with his “tech” podcasts? (2022)](https://news.ycombinator.com/item?id=31777328)
+- [Podcast RSS for Node](https://github.com/maxnowack/node-podcast) - Fast and simple Podcast RSS generator/builder for Node projects. Supports enclosures and GeoRSS.
