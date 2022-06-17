@@ -6,6 +6,8 @@ When I go out for long times, especially when it's sunny, I apply [some sunscree
 
 I try and never touch my face with dirty hands together with minimizing frowning. I am overall quite happy so that part is easy.
 
+- [Skin Care Addiction subreddit](https://www.reddit.com/r/SkincareAddiction/) is great to read.
+
 ## Interesting
 
 - [InstaNatural Vitamin C](https://www.reddit.com/r/SkincareAddiction/comments/snoem9/which_moisture_is_best_i_have_sensitive/)
@@ -42,3 +44,5 @@ I try and never touch my face with dirty hands together with minimizing frowning
 - [What skincare tip completely transformed your skin? (2021)](https://www.reddit.com/r/SkincareAddiction/comments/rl5g9s/misc_what_skincare_tip_completely_transformed/)
 - [How to treat ice pick acne scars](https://www.youtube.com/watch?v=bCSptjnwIiw)
 - [Is Sunscreen the New Margarine?](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/) - Current guidelines for sun exposure are unhealthy and unscientific.
+- [Hyram - YouTube](https://www.youtube.com/c/Hyram/videos) - Passionate about teaching you about skin care.
+- [Let's Talk Vitamin C & Its Benefits (2021)](https://www.youtube.com/watch?v=2SvyLprrdYw)

@@ -550,6 +550,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-poet](https://github.com/stephenh/ts-poet) - TypeScript code generator that is a fancy wrapper around template literals.
 - [WRP](https://github.com/pbkit/wrp-ts) - TypeScript Implementation of Webview/Worker Request Protocol.
 - [JSON BinPack](https://github.com/jviotti/jsonbinpack) - Open-source binary JSON serialization format with a strong focus on space efficiency.
+- [Tinkoff Utils](https://github.com/Tinkoff/utils.js) - Fast, small and purely functional utility library.
 
 ## Links
 

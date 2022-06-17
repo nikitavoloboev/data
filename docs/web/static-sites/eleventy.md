@@ -6,6 +6,7 @@ title: Eleventy
 
 ## Templates
 
+- [Eleventy Plus Vite](https://github.com/matthiasott/eleventy-plus-vite)
 - [Henry Desroches's Eleventy template](https://github.com/xdesro/welcome-traveler)
 - [Eleventy Duo](https://github.com/yinkakun/eleventy-duo) - Minimal and beautiful Eleventy theme for personal blogs.
 
