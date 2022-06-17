@@ -1168,6 +1168,7 @@
 - [UserDefault](https://github.com/juliand665/UserDefault) - Swifty User Defaults thanks to Property Wrappers.
 - [Protected](https://github.com/nerdsupremacist/Protected) - API for Reads and Writes protected via Phantom types.
 - [SemanticVersion](https://github.com/SwiftPackageIndex/SemanticVersion) - Represent semantic versions like "1.0.0" or "1.2.3-beta1" (SemVer) in Swift.
+- [LDSwiftEventSource](https://github.com/launchdarkly/swift-eventsource) - Server-sent events (SSE) client implementation in Swift.
 
 ## Other (not lib)
 

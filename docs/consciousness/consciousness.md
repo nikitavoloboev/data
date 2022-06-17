@@ -81,3 +81,4 @@ I practice self reflection (via journaling) & meditation (walks in nature) to ge
 - [What’s So Hard About Understanding Consciousness? (2022)](https://nautil.us/whats-so-hard-about-understanding-consciousness-13877/) ([HN](https://news.ycombinator.com/item?id=30190875))
 - [Consciousness is supported by near-critical slow cortical electrodynamics (2022)](https://www.pnas.org/content/119/7/e2024455119) ([HN](https://news.ycombinator.com/item?id=30350261))
 - [The Surprisingly Sophisticated Mind of an Insect (2022)](https://www.noemamag.com/the-surprisingly-sophisticated-mind-of-an-insect/) ([HN](https://news.ycombinator.com/item?id=31483462))
+- [Field theories of consciousness](http://www.scholarpedia.org/article/Field_theories_of_consciousness)
