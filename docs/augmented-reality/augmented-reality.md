@@ -42,3 +42,4 @@
 - [Compass Mode. Hold the phone up for AR, down for compass](https://twitter.com/AndrewHartAR/status/1499061786565386243)
 - [Portal-ble: make augmented reality apps that are hands-on interactive](https://portalble.cs.brown.edu/)
 - [AR Art Attractors](https://github.com/ynagatomo/ARArtAttractors) - Minimal iOS app that displays 3D graphic art in AR.
+- [General-purpose, long-context autoregressive modeling with Perceiver AR (2022)](https://arxiv.org/abs/2202.07765) ([Code](https://github.com/google-research/perceiver-ar))

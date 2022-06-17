@@ -177,3 +177,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Export your Cloudflare Workers KV namespaces to SQLite for querying](https://github.com/stevenpack/cloudflare-workers-kv-export)
 - [Expanding the Cloudflare Workers Observability Ecosystem (2021)](https://blog.cloudflare.com/observability-ecosystem/)
 - [Cloudflare, Serverless, Platforms and more w/ Sunil (2022)](https://www.youtube.com/watch?v=BiZgYAQRiS0)
+- [wkrk](https://github.com/giovannibenussi/wkrk) - Lightweight framework for CloudFlare Workers.

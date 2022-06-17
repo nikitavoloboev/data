@@ -507,3 +507,4 @@ I want to:
 - [Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground (2022)](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/) ([HN](https://news.ycombinator.com/item?id=31507132))
 - [GitNoter](https://github.com/git-noter/gitnoter) - Open source, markdown-based, self-hosted note taking web app. ([Web](https://gitnoter.com/login)) ([HN](https://news.ycombinator.com/item?id=31580045))
 - [Ask HN: Why are there no good note taking apps (2022)](https://news.ycombinator.com/item?id=31645045)
+- [SiYuan](https://b3log.org/siyuan/en/) - Local-first personal knowledge management system, support fine-grained block-level reference and Markdown WYSIWYG. ([Code](https://github.com/siyuan-note/siyuan))

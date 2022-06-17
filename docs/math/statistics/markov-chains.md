@@ -28,3 +28,4 @@
 - [Generic markov chain implementation in Rust](https://github.com/aatxe/markov)
 - [IOHMM](https://github.com/Mogeng/IOHMM) - Python package of Input-Output Hidden Markov Model.
 - [marc](https://github.com/maxhumber/marc) - Markov chain generator for Python and/or Swift.
+- [hmmlearn](https://github.com/hmmlearn/hmmlearn) - Hidden Markov Models in Python, with scikit-learn like API.

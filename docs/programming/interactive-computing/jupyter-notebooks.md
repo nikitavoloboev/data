@@ -43,6 +43,7 @@ title: Jupyter Notebooks
 - [SQLite kernel for JupyterLite running in the browser](https://github.com/jupyterlite/xeus-sqlite-kernel)
 - [Emblaze](https://github.com/cmudig/emblaze) - Interactive Jupyter notebook widget for visually comparing embedding spaces.
 - [JupyterLab S3 Browser](https://github.com/IBM/jupyterlab-s3-browser) - JupyterLab extension for browsing S3-compatible object storage.
+- [Jupyter Splitview](https://github.com/kolibril13/jupyter-splitview) - Making before/after image sliders in JupyterLab.
 
 ## Links
 

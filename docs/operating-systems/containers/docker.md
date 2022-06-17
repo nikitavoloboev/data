@@ -242,3 +242,4 @@ title: Docker
 - [Dockerfile+](https://github.com/edrevo/dockerfile-plus) - New commands for Dockerfile.
 - [go-crond](https://github.com/webdevops/go-crond) - Cron daemon written in Go (for eg. usage in docker images).
 - [SWIRL](https://github.com/cuigh/swirl) - Web UI for Docker, focused on swarm cluster.
+- [Process Compose](https://github.com/F1bonacc1/process-compose) - Simple and flexible scheduler and orchestrator to manage non-containerized applications.

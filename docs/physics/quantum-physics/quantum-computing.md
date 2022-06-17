@@ -166,3 +166,4 @@ title: Quantum computing
 - [Unitary Fund](https://unitaryhack.dev/) - Helping create a quantum technology ecosystem that benefits the most people. ([Twitter](https://twitter.com/unitaryfund))
 - [Awesome Qiskit presentations](https://github.com/qiskit-community/qiskit-presentations)
 - [Qiskit Machine Learning](https://github.com/Qiskit/qiskit-machine-learning) - Quantum Machine Learning.
+- [Quantum Algorithm Implementations for Beginners (2022)](https://dl.acm.org/doi/10.1145/3517340) ([HN](https://news.ycombinator.com/item?id=31775580))

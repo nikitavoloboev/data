@@ -550,3 +550,4 @@ title: Linux
 - [bpflock](https://github.com/linux-lock/bpflock) - eBPF driven security for locking and auditing Linux machines.
 - [traffico](https://github.com/leodido/traffico) - Shape your traffic the BPF way.
 - [CoverBee](https://github.com/dylandreimerink/coverbee) - Code coverage collection tool for eBPF programs.
+- [distri](https://github.com/distr1/distri) - Linux distribution to research fast package management.

@@ -37,6 +37,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Tyler Hobbs](https://tylerxhobbs.com/)
 - [Marc Edwards](https://dribbble.com/bjango) - Developer of iStats Menu for mac.
 - [Malik Thomas](http://malikthomas.co.uk/)
+- [Grace J](https://www.instagram.com/illustrator_grace_j/)
 - [Matt Mills](https://www.instagram.com/mattmillsart/)
 - [Alexander Käßner](http://www.alexkaessner.de/) - Amazing logos.
 - [Dmitry Markov](https://www.instagram.com/dcim.ru/)

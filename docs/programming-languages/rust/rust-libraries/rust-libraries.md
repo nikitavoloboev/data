@@ -1964,6 +1964,7 @@
 - [hcl-rs](https://github.com/martinohmann/hcl-rs) - HCL serializer/deserializer for rust.
 - [Pulsar](https://github.com/streamnative/pulsar-rs) - Rust Client library for Apache Pulsar.
 - [downcast-rs](https://github.com/marcianx/downcast-rs) - Rust enums are great for types where all variations are known beforehand.
+- [faketty](https://github.com/dtolnay/faketty) - Wrapper to exec a command in a pty, even if redirecting the output.
 
 ## Cargo Plugins
 

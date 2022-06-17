@@ -201,3 +201,4 @@
 - [Easy History - YouTube](https://www.youtube.com/c/EasyHistory/videos)
 - [Why Did Hitler Invade The Soviet Union?](https://www.youtube.com/watch?v=d9vuxteqAis)
 - [ЗОЛОТО: История жадности / Простые вещи](https://www.youtube.com/watch?v=6YmWCbgZuts)
+- [Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/) ([HN](https://news.ycombinator.com/item?id=31775486))

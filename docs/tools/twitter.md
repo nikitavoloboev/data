@@ -201,5 +201,5 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [Tweak New Twitter](https://github.com/insin/tweak-new-twitter/) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline.
 - [Static twitter embed](https://ianmuchina.com/blog/12-tweet-embed/) ([Lobsters](https://lobste.rs/s/owbvhi/static_twitter_embed))
 - [Twitter Video Downloader](https://twitter-video-download.com/)
-- [memory.lol](https://github.com/travisbrown/memory.lol) - Tiny web service that provides historical information about social media accounts.
+- [memory.lol](https://github.com/travisbrown/memory.lol) - Tiny web service that provides historical information about social media accounts. ([Private](https://github.com/travisbrown/memory.lol-private))
 - [ornithology](https://github.com/jonhoo/ornithology) - Tool that parses your Twitter archive and highlights interesting data from it.

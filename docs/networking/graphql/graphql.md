@@ -340,3 +340,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [SpecNews](https://specnewspod.com/) - Podcast delivering the latest highlights from the GraphQL Working Group. ([Twitter](https://twitter.com/SpecNewsPod))
 - [GraphQL Composite Schemas Working Group](https://github.com/graphql/composite-schemas-wg)
 - [Shyft](https://github.com/chriskalmar/shyft) - Server-side framework for building powerful GraphQL APIs.
+- [Turbulette](https://github.com/turbulette/turbulette) - Batteries-included framework to build high performance, fully async GraphQL APIs.
