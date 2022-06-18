@@ -4,7 +4,7 @@ title: Nootropics
 
 # [Nootropics](http://en.wikipedia.org/wiki/Nootropic)
 
-Sleep, exercise & and proper nutrition are the most important things you can do for ultimate mental performance combined with focused mindfulness.
+[Sleep](../sleep/sleep.md), [exercise](../fitness/fitness.md) & and proper [nutrition](../health/nutrition/nutrition.md) are the most important things you can do for ultimate mental performance combined with focused mindfulness.
 
 There are also [few nootropics you can take to in some way boost your mental ability and focus](https://www.reddit.com/r/Nootropics/comments/ub5i2d/what_is_the_most_interesting_nootropic_or_most/).
 
@@ -32,3 +32,4 @@ There are also [few nootropics you can take to in some way boost your mental abi
 - [Favorite Nootropics for Energy (2022)](https://www.reddit.com/r/Nootropics/comments/ucpfz3/favorite_nootropics_for_energy/)
 - [What are some supplements to eliminate brain fog? (2022)](https://www.reddit.com/r/Nootropics/comments/us2qgr/what_are_some_supplements_to_eliminate_brain_fog/)
 - [Troof on Nootropics (2022)](https://astralcodexten.substack.com/p/link-troof-on-nootropics?s=r) ([HN](https://news.ycombinator.com/item?id=31424905))
+- [What medication raises neuroplasicity? (2022)](https://www.reddit.com/r/Nootropics/comments/vf03lu/what_medication_raises_neuroplasicity/)
