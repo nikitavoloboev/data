@@ -120,6 +120,7 @@
 - [zlog](https://github.com/candrewlee14/zlog) - Zero-allocation log library for Zig.
 - [mustache-zig](https://github.com/batiati/mustache-zig) - Logic-less templates for Zig.
 - [Cuckoo Filter](https://github.com/kristoff-it/zig-cuckoofilter) - Production-ready Cuckoo Filters for any C ABI compatible target.
+- [Zort](https://github.com/alichraghi/zort) - Implementation of 13 sorting algorithms in Zig.
 
 ## Links
 
