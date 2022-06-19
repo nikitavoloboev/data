@@ -154,7 +154,7 @@
 - [Why Lisp?](https://atlas.engineer/technical-article/why-lisp.org) ([HN](https://news.ycombinator.com/item?id=29202021))
 - [Autumn Lisp Game Jam 2021 Postmortem](https://wiki.alopex.li/ALGJ2021Postmortem)
 - [Slick](https://github.com/pcostanza/slick) - Lisp/Scheme-style s-expression surface syntax for the Go programming language, with a few additional features.
-- [Bass](https://github.com/vito/bass) - Low-fidelity Lisp dialect for running cacheable commands and delivering reproducible artifacts. ([HN](https://news.ycombinator.com/item?id=29722417))
+- [Bass](https://github.com/vito/bass) - Low-fidelity Lisp dialect for running cacheable commands and delivering reproducible artifacts. ([HN](https://news.ycombinator.com/item?id=29722417)) ([Tweet](https://twitter.com/bitfield/status/1537121007198212098))
 - [KamilaLisp](https://github.com/kspalaiologos/kamilalisp) - Lazily evaluated, functional, flexible and concise Lisp.
 - [Neil: Bohemian Rhapsody for Five Channels (2021)](https://good-place.org/posts/rhapsody.html)
 - [Symbolics Virtual Lisp Machine (C version)](https://github.com/hanshuebner/vlm)

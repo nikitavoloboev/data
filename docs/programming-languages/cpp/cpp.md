@@ -343,3 +343,4 @@ Never wrote C++, [Rust](../rust/rust.md) is much [better for new code](https://n
 - [A Garbage-Collected Heap in C++, Shaped Like Typed Python (2022)](https://www.oilshell.org/blog/2022/05/gc-heap.html)
 - [Retrofitting Temporal Memory Safety on C++ (2022)](https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html) ([HN](https://news.ycombinator.com/item?id=31558796))
 - [Modern C++ Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+- [Tiny C++ Interpreter](https://github.com/treefrogframework/cpi)

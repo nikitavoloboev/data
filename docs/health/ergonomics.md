@@ -29,6 +29,7 @@ I use [HAG Capisco chair](https://twitter.com/rsms/status/1521765828303245313) I
 
 ## Setups
 
+- [Table next to coffee machine](https://twitter.com/fatih/status/1538494449143140353)
 - [1](https://twitter.com/kieranmch/status/1240407709658361859)
 - [2](https://twitter.com/MengTo/status/1240743981325189121)
 - [Fullstack Shack - Office Tour](https://www.youtube.com/watch?v=HPOq3QJz_7s) ([Twitter](https://twitter.com/wesbos/status/1243528348032172033))

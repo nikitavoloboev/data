@@ -4,7 +4,8 @@ title: Ray tracing
 
 # [Ray tracing](<https://en.wikipedia.org/wiki/Ray_tracing_(graphics)>)
 
-[This](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/) is nice intro.
+[This](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/) is nice intro. [Hybrid Rendering
+](https://github.com/diharaw/hybrid-rendering) is nice code to study.
 
 ## Links
 
@@ -89,7 +90,7 @@ title: Ray tracing
 - [Peter Shirley Ray Tracing (in C++ 17)](https://github.com/define-private-public/PSRayTracing)
 - [Simulating the Colors of the Sky](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/simulating-sky)
 - [Hybrid Ray Tracer in Go](https://github.com/KevinTchokodeu/Hybrid-Ray-Tracer)
-- [Hybrid Rendering](https://github.com/diharaw/HybridRendering) - Vulkan sample that demonstrates a Rasterization and Ray Tracing Hybrid Rendering Pipeline.
+- [Hybrid Rendering](https://github.com/diharaw/hybrid-rendering) - Vulkan sample that demonstrates a Rasterization and Ray Tracing Hybrid Rendering Pipeline. ([Tweet](https://twitter.com/diharaw94/status/1442277672399384582))
 - [Ray Tracing with POV-Ray: 25 scenes in 25 days (2013)](https://github.com/spcask/pov-ray-tracing) ([HN](https://news.ycombinator.com/item?id=29513332))
 - [Raytracing diamonds (2021)](https://11011110.github.io/blog/2021/12/23/raytracing-diamonds.html) ([HN](https://news.ycombinator.com/item?id=29695281))
 - [VXCT](https://github.com/Helliaca/VXCT) - OpenGL-based Implementation of Cyril Crassins Voxel Cone Tracing.

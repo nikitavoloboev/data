@@ -306,6 +306,7 @@
 - [duckdb-rs](https://github.com/wangfenjin/duckdb-rs) - Ergonomic bindings to duckdb for Rust.
 - [rust-kv](https://github.com/zshipko/rust-kv) - Embedded key/value store for Rust built on sled.
 - [sqlite-cache](https://github.com/losfair/sqlite-cache) - SQLite-based on-disk cache for Rust.
+- [PartiQL Rust](https://github.com/partiql/partiql-lang-rust) - Collection of crates to provide Rust support for the PartiQL query language.
 
 ## Video
 
@@ -572,6 +573,7 @@
 - [gpio-cdev](https://github.com/rust-embedded/gpio-cdev) - Rust interface to the Linux GPIO Character Device API (/dev/gpiochip...).
 - [aya-log](https://github.com/aya-rs/aya-log) - Logging library for eBPF programs.
 - [nbd-rs](https://github.com/mdlayher/nbd-rs) - Asynchronous Rust client and server implementation of the Network Block Device (NBD) protocol.
+- [rust-systemd](https://github.com/jmesmon/rust-systemd) - Rust interface to systemd c apis.
 
 ## Embedded
 
@@ -1968,6 +1970,7 @@
 - [globiter](https://github.com/Xuanwo/globiter) - Turn glob range and set into Iterator.
 - [loco.rs](https://github.com/KiwiTalk/loco.rs) - Loco Protocol Wrapper for Rust.
 - [Quick Pool](https://github.com/Astro36/qp) - High Performance Async Generic Pool.
+- [btree](https://github.com/nimrodshn/btree) - Persistent B+Tree (clustered index) implementation in Rust.
 
 ## Cargo Plugins
 

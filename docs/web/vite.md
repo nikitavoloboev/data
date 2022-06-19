@@ -90,3 +90,4 @@ title: Vite
 - [vite-plugin-macro](https://github.com/viteland/vite-plugin-macro)
 - [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) - Vite plugin to transform SVGs into React components.
 - [Compile Markdown to Vue component](https://github.com/antfu/vite-plugin-vue-markdown)
+- [vite-plugin-pages-sitemap](https://github.com/jbaubree/vite-plugin-pages-sitemap)

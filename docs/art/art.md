@@ -398,6 +398,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Antonio Palmerini](https://www.artlimited.net/18637)
 - [Florian](https://www.instagram.com/analoguevibez/)
 - [Fritz Henle](https://www.holdenluntz.com/artists/fritz-henle/)
+- [Dima Ermuzevich](https://www.instagram.com/ermuzevichphoto/)
 - [Ivan Bideac](https://www.ivanbideac.com/)
 - [Luke Beard](https://www.instagram.com/lukesbeard/)
 - [Richard Avedon](https://www.avedonfoundation.org/the-work)

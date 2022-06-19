@@ -58,3 +58,4 @@ title: Caddy
 - [Caddy-NATS](https://github.com/codegangsta/caddy-nats) - Caddy module that adds support for nats.io pub/sub request and reply.
 - [How to serve a static site using Caddy](https://ellen.dev/serve-static-site-using-caddy.html)
 - [File Sharing with Caddy & MinIO (2022)](https://tech.marksblogg.com/caddy-https-minio.html)
+- [Analyze Caddy logs with Clickhouse (2022)](https://abdullin.com/analyze-caddy-logs-with-clickhouse/)

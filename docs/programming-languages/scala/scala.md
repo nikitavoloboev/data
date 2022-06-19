@@ -164,3 +164,4 @@ title: Scala
 - [Tree sitter grammar for Scala 2/3](https://github.com/susliko/tree-sitter-scala)
 - [You already know Monad(ic) stuff](https://blog.sake.ba/en/posts/programming/monads.html)
 - [New in Scala 3](https://github.com/bjornregnell/new-in-Scala3) - Quick tour of selected new stuff in Scala 3.
+- [Moving From Akka To ZIO: Experiences And Comparisons by Jan Ypma (2022)](https://www.youtube.com/watch?v=WvaO62TD8L0)

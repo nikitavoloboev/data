@@ -156,3 +156,4 @@ title: Coq
 - [Formal proof of the Odd Order Theorem in Coq](https://github.com/math-comp/odd-order)
 - [Paramcoq](https://github.com/coq-community/paramcoq) - Coq plugin providing commands for generating parametricity statements.
 - [Gaia](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics in Coq.
+- [Rupicola](https://github.com/mit-plv/rupicola) - Relation compilation for performance-critical applications.

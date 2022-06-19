@@ -18,3 +18,4 @@ title: ZeroMQ
 - [Nanomsg](https://github.com/thehydroimpulse/nanomsg.rs) - Modern messaging library that is the successor to ZeroMQ.
 - [zmq4](https://github.com/pebbe/zmq4) - Go interface to ZeroMQ version 4.
 - [FlatRPC](https://github.com/GothAck/FlatRPC) - C++ RPC library built upon FlatBuffers and ZeroMQ.
+- [zmq4](https://github.com/go-zeromq/zmq4) - Pure-Go implementation of ZeroMQ-4.
