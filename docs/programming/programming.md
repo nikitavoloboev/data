@@ -82,7 +82,7 @@
 - [Writing good bug reports](https://pspdfkit.com/blog/2016/writing-good-bug-reports/)
 - [Tips for reading new codebases](https://blog.safia.rocks/post/170269021619/tips-for-reading-new-codebases)
 - [Engineering Principles at Monzo](https://monzo.com/blog/2018/06/29/engineering-principles/)
-- [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things. ([HN](https://news.ycombinator.com/item?id=23935943))
+- [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things. ([HN](https://news.ycombinator.com/item?id=23935943)) ([HN](https://news.ycombinator.com/item?id=31793030))
 - [Fish Design Principles](https://fishshell.com/docs/current/design.html)
 - [List of resources about programming practices for writing safety-critical software](https://github.com/stanislaw/awesome-safety-critical)
 - [In Pursuit of Production Minimalism](https://brandur.org/minimalism)

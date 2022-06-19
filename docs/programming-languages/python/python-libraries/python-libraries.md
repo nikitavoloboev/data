@@ -590,7 +590,7 @@
 - [xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets.
 - [pmdarima](https://github.com/alkaline-ml/pmdarima) - Statistical library designed to fill the void in Python's time series analysis capabilities.
 - [perfplot](https://github.com/nschloe/perfplot) - Performance analysis for Python.
-- [Bolt](https://github.com/dblalock/bolt) - Algorithm for compressing vectors of real-valued data and running mathematical operations directly on the compressed representations.
+- [Bolt](https://github.com/dblalock/bolt) - Algorithm for compressing vectors of real-valued data and running mathematical operations directly on the compressed representations. ([HN](https://news.ycombinator.com/item?id=31792206))
 - [MPIRE](https://github.com/Slimmer-AI/mpire) - Python package for easy multiprocessing, but faster than multiprocessing.
 - [Pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python. ([Docs](https://pint.readthedocs.io/en/stable/)) ([HN](https://news.ycombinator.com/item?id=28413252))
 - [Audiomentations](https://github.com/iver56/audiomentations) - Python library for audio data augmentation.

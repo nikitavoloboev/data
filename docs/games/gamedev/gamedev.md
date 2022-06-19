@@ -267,3 +267,4 @@
 - [SideFX](https://www.sidefx.com/) - Houdini - 3D modeling, animation, VFX, look development, lighting and rendering. ([GitHub](https://github.com/sideeffects))
 - [Writing is a single-player game (2022)](https://www.otherlife.co/singleplayer/) ([HN](https://news.ycombinator.com/item?id=31733513))
 - [Game Design Mimetics (Or, What Happened To Game Design?) (2022)](https://blog.kylekukshtel.com/game-design-mimetics) ([HN](https://news.ycombinator.com/item?id=31725506))
+- [Citybound – A city building game using actor-based distributed simulation](https://aeplay.org/citybound) ([HN](https://news.ycombinator.com/item?id=31794872))

@@ -373,3 +373,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [ttf2mesh](https://github.com/fetisov/ttf2mesh) - Standalone library for TrueType font tessellation. Allows to load ttf-file and convert its glyphs to 2D or 3D mesh objects without rasterization.
 - [Tips on designing monospace font](https://twitter.com/joeltalksdesign/status/1531296706792415234)
 - [Rust Font Tools](https://github.com/simoncozens/rust-font-tools) - Collection of Rust crates for building OpenType fonts.
+- [Bunny Fonts](https://fonts.bunny.net/about) - Faster & GDPR friendly Fonts. ([HN](https://news.ycombinator.com/item?id=31798311))

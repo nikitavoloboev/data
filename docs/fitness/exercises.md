@@ -17,3 +17,4 @@
 - [DAREBEE 1700+ Workouts](https://darebee.com/workouts) - 1700+ 1-sheet workouts on a clean, no-nonsense website. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/qr4z4o/1700_1sheet_workouts_on_a_clean_nononsense_website/)) ([HN](https://news.ycombinator.com/item?id=29403113))
 - [How much time on average do you exercise in a week?](https://news.ycombinator.com/item?id=29769623)
 - [6 Best Mobility Exercises for Longevity](https://www.wellandgood.com/best-mobility-exercises-for-longevity/)
+- [Is there a book about how exercise is awesome without diet culture references? (2022)](https://www.reddit.com/r/suggestmeabook/comments/vfi50j/is_there_a_book_about_how_exercise_is_awesome/)

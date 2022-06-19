@@ -94,3 +94,4 @@
 - [Nice newsletter services](https://twitter.com/SaraSoueidan/status/1517943394449907712)
 - [Mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app.
 - [Taco Digest](https://tacodigest.com/) - Personal email digest from your favorite sources.
+- [What's your favorite newsletter? (2022)](https://twitter.com/heyeaslo/status/1538522004684345344)

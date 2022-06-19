@@ -379,3 +379,4 @@
 - [What is your favorite thing about math? (2022)](https://www.reddit.com/r/math/comments/vbhtzn/what_is_your_favorite_thing_about_math/)
 - [Daniel Quillen's Math Notebooks](http://www.claymath.org/publications/quillen-notebooks) - Detailed notes of his day-to-day mathematical research.
 - [What's the most difficult mathematical concept you've encountered and had to understand so far? (2022)](https://www.reddit.com/r/math/comments/vfc87g/whats_the_most_difficult_mathematical_concept/)
+- [Ask HN: How to learn mathematical proofs from scratch? (2022)](https://news.ycombinator.com/item?id=31800081)

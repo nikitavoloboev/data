@@ -78,3 +78,5 @@ The [interview](https://www.thetwentyminutevc.com/podcast/ian-lee/) with [Ian](h
 - [DAOs seem more like a bug than a feature](https://twitter.com/GergelyOrosz/status/1531391308757094400)
 - [Why DAOs Will Replace Venture Capital (2022)](https://www.thetwentyminutevc.com/podcast/ian-lee/)
 - [Syndicate](https://syndicate.io/) - Building the Investing Infrastructure for Web3. ([Twitter](https://twitter.com/SyndicateDAO))
+- [Different DAO compensation models (2022)](https://twitter.com/owocki/status/1537089818605170688)
+- [How to allocate work efficiently in DAOs?](https://twitter.com/spengrah/status/1537825584520249345)
