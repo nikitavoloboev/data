@@ -14,3 +14,4 @@ title: Tauri
 - [Tauri Plugin GraphQL](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Plugin for Tauri that enables type-safe IPC through GraphQL.
 - [Tauri GitHub Action](https://github.com/tauri-apps/tauri-action) - Builds your Web application as a Tauri native binary for MacOS, Linux and Windows.
 - [HN: Tauri Version 1 (2022)](https://news.ycombinator.com/item?id=31764015)
+- [Example project of a Tauri app using SvelteKit to build the front end](https://github.com/Stijn-B/tauri-sveltekit-example)

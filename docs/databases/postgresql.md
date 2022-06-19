@@ -523,3 +523,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pgq](https://github.com/mergestat/pgq) - Go library for using Postgres as a job queue.
 - [Search Replica](https://github.com/pg2es/search-replica) - Uses postgres logical replication protocol to subscribe and receive any updates almost in real time.
 - [PostgreSQL-wheel](https://github.com/michelp/postgresql-wheel) - Python wheel for Linux containing a complete, self-contained, locally installable PostgreSQL database server.
+- [How to simplify working with PostgreSQL time-series data (2022)](https://www.timescale.com/blog/introducing-hyperfunctions-new-sql-functions-to-simplify-working-with-time-series-data-in-postgresql/)

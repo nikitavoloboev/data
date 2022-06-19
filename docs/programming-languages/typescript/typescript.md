@@ -270,6 +270,7 @@ title: TypeScript
 - [Advanced TypeScript - YouTube](https://www.youtube.com/playlist?list=PLIvujZeVDLMx040-j1W4WFs1BxuTGdI_b)
 - [type-trident](https://github.com/anuraghazra/type-trident) - Curated list of advanced type level madness.
 - [TypeScript runtime comparisons](https://github.com/privatenumber/ts-runtime-comparison)
+- [You Might Be Using Typescript Wrong (2022)](https://www.youtube.com/watch?v=RmGHnYUqQ4k)
 
 ## Images
 

@@ -1697,6 +1697,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [trie](https://github.com/shivamMg/trie) - Trie implementation in Go meant for auto-completion use cases. Supports Levenshtein distance search.
 - [Validate](https://github.com/gookit/validate) - Generic Go data validate and filter tool library.
 - [rope](https://github.com/deadpixi/rope) - Persistent rope in Go.
+- [Spaniel](https://github.com/senseyeio/spaniel) - Time span handling for Go.
 
 ## Links
 

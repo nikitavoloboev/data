@@ -122,3 +122,4 @@ title: BitTorrent
 - [BitRemote](https://github.com/tatsuz0u/BitRemote) - BitTorrent client remote app for Apple platforms built with SwiftUI & TCA.
 - [Bittrickle](https://github.com/cronokirby/bittrickle) - UDP bitTorrent tracker in Rust.
 - [rain](https://github.com/cenkalti/rain) - BitTorrent client and library in Go.
+- [Mabel](https://github.com/smmr-software/mabel) - Fancy BitTorrent client for the terminal.

@@ -294,6 +294,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Buttondown](https://buttondown.email/) - Easiest way to run your newsletter in markdown.
 - [Transloadit](https://transloadit.com/) - File Uploading, Conversion & Processing for websites/apps.
 - [Quest AI](https://www.quest.ai/) - Design to live web pages automatically with nocode.
+- [Graphviz to ASCII converter using Graph::Easy](https://dot-to-ascii.ggerganov.com/) ([Code](https://github.com/ggerganov/dot-to-ascii))
 - [Refermo](https://refermo.co/) - Referral software for SaaS running on Paddle.
 - [FreeScout](https://freescout.net/) - Free self-hosted Zendesk & Help Scout alternative.
 - [Dala](https://dala.craftedbygc.com/) - Ask Dala to instantly find anything or anyone from any workplace system.

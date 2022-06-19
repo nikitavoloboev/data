@@ -234,3 +234,4 @@ title: SwiftUI
 - [What's New In SwiftUI for iOS Cheat Sheet - WWDC22](https://github.com/bigmountainstudio/What-is-new-in-SwiftUI)
 - [Navigation Backport](https://github.com/johnpatrickmorgan/NavigationBackport) - Backported SwiftUI navigation APIs introduced in WWDC22.
 - [Atmos](https://github.com/dejager/atmos) - SwiftUI proof-of-concept which adds rain to a view's background.
+- [Variable Type in SwiftUI](https://github.com/philipcdavis/VariableType)

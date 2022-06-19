@@ -606,6 +606,7 @@
 ## Math
 
 - [Matft](https://github.com/jjjkkkjjj/Matft) - Numpy-like library in Swift. Function name and usage is similar to Numpy.
+- [NumberKit](https://github.com/objecthub/swift-numberkit) - Advanced numeric data types for Swift 5, including BigInt, Rational, and Complex numbers.
 
 ## Other
 
@@ -1171,6 +1172,7 @@
 - [SemanticVersion](https://github.com/SwiftPackageIndex/SemanticVersion) - Represent semantic versions like "1.0.0" or "1.2.3-beta1" (SemVer) in Swift.
 - [LDSwiftEventSource](https://github.com/launchdarkly/swift-eventsource) - Server-sent events (SSE) client implementation in Swift.
 - [HaishinKit](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
+- [Lotsawa](https://github.com/val-lang/Lotsawa) - Swift implementation of the MARPA algorithms.
 
 ## Other (not lib)
 
