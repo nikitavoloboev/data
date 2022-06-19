@@ -508,3 +508,4 @@ I want to:
 - [GitNoter](https://github.com/git-noter/gitnoter) - Open source, markdown-based, self-hosted note taking web app. ([Web](https://gitnoter.com/login)) ([HN](https://news.ycombinator.com/item?id=31580045))
 - [Ask HN: Why are there no good note taking apps (2022)](https://news.ycombinator.com/item?id=31645045)
 - [SiYuan](https://b3log.org/siyuan/en/) - Local-first personal knowledge management system, support fine-grained block-level reference and Markdown WYSIWYG. ([Code](https://github.com/siyuan-note/siyuan))
+- [Building a Memex (with Ruby) by Andrew Louis (2018)](https://www.youtube.com/watch?v=DFWxvQn4cf8)

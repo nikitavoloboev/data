@@ -285,6 +285,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Cloves | "Don't Forget About Me" | Me Before You Soundtrack](https://www.youtube.com/watch?v=82CdBc0-Umw)
 - [Tanir & Tyomcha - Потеряли пацана (Acoustic Live)](https://www.youtube.com/watch?v=vjLFjFPc1lE)
 - [The Lumineers - Scotland (Live on KEXP)](https://www.youtube.com/watch?v=EaA7PUoKgFo)
+- [Therr Maitz, Gruppa Skryptonite — Natural Blues (LAB с Антоном Беляевым)](https://www.youtube.com/watch?v=3wgEI5_H9uc)
 
 ## Links
 
