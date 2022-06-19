@@ -191,3 +191,4 @@
 - [KVED](https://github.com/marcelobarrosalmeida/kved) - Simple key/value database implementation for microcontrollers.
 - [Microvium](https://github.com/coder-mike/microvium) - Ultra-compact, embeddable scripting engine for microcontrollers for executing a useful subset of the JavaScript language, with a focus on small size and ease of use.
 - [Books or resources for learning Bluetooth (2022)](https://www.reddit.com/r/embedded/comments/ved0vy/books_or_resources_for_learning_bluetooth/)
+- [PlatformIO](https://platformio.org/) - Professional collaborative platform for embedded development. ([Code](https://github.com/platformio/platformio-core))

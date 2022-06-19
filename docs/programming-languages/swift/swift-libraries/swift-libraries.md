@@ -525,6 +525,7 @@
 - [FrameUp](https://github.com/ryanlintott/FrameUp) - Reframing SwiftUI Views. A collection of tools to help with layout.
 - [PureduxSwiftUI](https://github.com/KazaiMazai/PureduxSwiftUI) - SwiftUI bindings to connect UI to PureduxStore.
 - [SwiftyUIKit](https://github.com/KazaiMazai/SwiftyUIKit) - Featherweight lib for building an autolayout-powered UIView layout in a clean SwiftUI-style.
+- [LightChart](https://github.com/pichukov/LightChart) - Lightweight SwiftUI package with line charts implementation.
 
 ## Test
 

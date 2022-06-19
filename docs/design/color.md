@@ -174,3 +174,5 @@
 - [Ambient](https://ambient-rvx.web.app/) - Generate contrast-safe colors for UI/UX. ([Code](https://github.com/kevintyj/ambient))
 - [Primer Prism](https://primer.style/prism/) - Tool for creating and maintaining cohesive, consistent, and accessible color palettes. ([Code](https://github.com/primer/prism))
 - [Accelerating GitHub theme creation with color tooling (2022)](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
+- [Color Thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just JavaScript. Works in the browser and in Node.
+- [Gradient Avatars](https://avatars.jakerunzer.com/) - Generate a gradient profile image based on some text. ([Code](https://github.com/coffee-cup/gradient-avatars))

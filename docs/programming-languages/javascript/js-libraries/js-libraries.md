@@ -954,6 +954,7 @@
 - [wild-wild-utils](https://github.com/ehmicky/wild-wild-utils) - Functional utilities using object property paths with wildcards and regexps.
 - [pattern-match-2d.js](https://github.com/kaya3/pattern-match-2d) - Algorithm for fast 2D pattern-matching with wildcards.
 - [reachable-url](https://github.com/Kikobeats/reachable-url) - Given an URL, it resolves as fast as possible, performing a GET without downloading the body.
+- [urllib](https://github.com/node-modules/urllib) - Request HTTP(s) URLs in a complex world.
 
 ## Links
 

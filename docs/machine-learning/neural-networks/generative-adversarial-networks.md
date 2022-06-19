@@ -211,3 +211,4 @@ title: Generative adversarial networks
 - [In&Out : Diverse Image Outpainting via GAN Inversion (2021)](https://arxiv.org/abs/2104.00675) ([Code](https://github.com/yccyenchicheng/InOut))
 - [StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2 (2022)](https://universome.github.io/stylegan-v) ([Code](https://github.com/universome/stylegan-v))
 - [Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing (2022)](https://arxiv.org/abs/2206.08357) ([Code](https://github.com/adobe-research/sam_inversion))
+- [Parallel WaveGAN implementation with PyTorch](https://github.com/kan-bayashi/ParallelWaveGAN)

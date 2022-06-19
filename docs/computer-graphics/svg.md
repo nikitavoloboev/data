@@ -153,3 +153,4 @@
 - [SVGator](https://www.svgator.com/) - Free SVG Animation Creator Online - No Coding.
 - [SVG Generator](https://svg-generator.netlify.app/) - Online SVG Graphics Generation with the ability to export to SVG. ([Code](https://github.com/Fannon/svg-generator))
 - [SVG Spinners](https://github.com/n3r4zzurr0/svg-spinners)
+- [React Sketch Canvas](https://github.com/vinothpandian/react-sketch-canvas) - Freehand vector drawing component for React using SVG as canvas.

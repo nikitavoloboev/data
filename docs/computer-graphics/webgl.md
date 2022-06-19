@@ -109,3 +109,4 @@
 - [Shader blob](https://portfolio2022.michalzalobny.com/projects/shader-blob)
 - [Drop unveil](https://portfolio2022.michalzalobny.com/projects/drop-unveil)
 - [WebGL and GLSL projects 2022](https://portfolio2022.michalzalobny.com/)
+- [Cosmos](https://github.com/cosmograph-org/cosmos) - GPU-accelerated force graph layout and rendering.

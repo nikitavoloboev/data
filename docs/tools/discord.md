@@ -61,6 +61,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 
 ## Libraries
 
+- [Discordeno](https://github.com/discordeno/discordeno) - Discord API library for Deno.
 - [Slshx](https://github.com/mrbbot/slshx) - Strongly-typed Discord commands on Cloudflare Workers.
 - [Harmony](https://github.com/harmonyland/harmony) - Easy to use Discord API Library for Deno.
 - [Songbird](https://github.com/serenity-rs/songbird) - Async Rust library for the Discord voice API.

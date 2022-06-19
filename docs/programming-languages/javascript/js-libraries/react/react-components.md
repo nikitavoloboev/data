@@ -319,6 +319,8 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [lil UI components](https://lil.rishimohan.me/) ([Code](https://github.com/rishimohan/lil-ui))
 - [Formation](https://formation.fyi/) - 20+ react-based UI components. ([Code](https://github.com/joshdschneider/formation))
 - [Frogress](https://github.com/junhoyeo/frogress) - Line Progress Bar UI for React. Natural color gradients & Coherent border rounding.
+- [react-easy-crop](https://github.com/ValentinH/react-easy-crop) - React component to crop images/videos with easy interactions.
+- [React-CMD-K](https://github.com/albingroen/react-cmdk) - Fast, accessible, and pretty command palette for React.
 
 ## Links
 

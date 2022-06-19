@@ -72,6 +72,7 @@
 - [Actor](https://github.com/sunny/actor) - Composable Ruby service objects.
 - [Alba](https://github.com/okuramasafumi/alba) - Fastest JSON serializer for Ruby.
 - [Shale](https://github.com/kgiszczak/shale) - Ruby object mapper and serializer for JSON, YAML and XML. ([HN](https://news.ycombinator.com/item?id=31567755))
+- [dry-effects](https://github.com/dry-rb/dry-effects) - Algebraic effects in Ruby.
 
 ## Links
 
