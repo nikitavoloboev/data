@@ -1170,6 +1170,7 @@
 - [Protected](https://github.com/nerdsupremacist/Protected) - API for Reads and Writes protected via Phantom types.
 - [SemanticVersion](https://github.com/SwiftPackageIndex/SemanticVersion) - Represent semantic versions like "1.0.0" or "1.2.3-beta1" (SemVer) in Swift.
 - [LDSwiftEventSource](https://github.com/launchdarkly/swift-eventsource) - Server-sent events (SSE) client implementation in Swift.
+- [HaishinKit](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
 
 ## Other (not lib)
 

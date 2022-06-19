@@ -46,3 +46,4 @@ title: Bevy Engine
 - [bevy_dioxus](https://github.com/JunichiSugiura/bevy_dioxus) - Write Cross-platform application with React-like decralative UI framework and scalable ECS architecture all in Rust.
 - [bvy](https://github.com/cart/bvy) - Make Bevy more ergonomic.
 - [leafwing_input_manager](https://github.com/Leafwing-Studios/leafwing_input_manager) - Straightforward stateful input manager for the Bevy game engine.
+- [bevy_editor_pls](https://github.com/jakobhellermann/bevy_editor_pls) - Adds debug tools to your bevy game.

@@ -134,3 +134,4 @@
 - [Rlang](https://github.com/ljulliar/rlang) - Ruby-like language compiled to WebAssembly.
 - [Ruby LSP](https://github.com/Shopify/ruby-lsp) - Implementation of the LSP specification for Ruby.
 - [Code I like (I): Domain-driven boldness (2022)](https://world.hey.com/jorge/code-i-like-i-domain-driven-boldness-71456476)
+- [monoruby](https://github.com/sisshiki1969/monoruby) - Ruby implementation with a fast JIT compiler written in Rust.

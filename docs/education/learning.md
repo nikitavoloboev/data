@@ -223,3 +223,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Re-Compile](https://recompile-ai.netlify.app/)
 - [The Free Learning List](https://freelearninglist.org/)
 - [Ask HN: What has melted your brain recently? (2022)](https://news.ycombinator.com/item?id=31764041)
+- [Ask HN: Have you had success with improving your reading speed? (2022)](https://news.ycombinator.com/item?id=31798938)

@@ -208,3 +208,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [bakelite](https://github.com/alicebob/bakelite) - Pure Go SQLite file exporter.
 - [SQLite 3 Fiddle](https://sqlite.org/fiddle/) ([HN](https://news.ycombinator.com/item?id=31518618))
 - [Generating a GraphQL API from schema using SQLite](https://github.com/WilhelmBerggren/graphql-service-from-schema)
+- [The Design of SQLite4](https://sqlite.org/src4/doc/trunk/www/design.wiki) ([HN](https://news.ycombinator.com/item?id=31785170))

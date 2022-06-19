@@ -362,6 +362,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## DB
 
+- [KissSQL](https://github.com/VinGarcia/ksql) - Simple and Powerful Go SQL Library.
 - [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - Flexible and powerful SQL string builder library plus a zero-config ORM.
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go.
 - [sqlingo](https://github.com/lqs/sqlingo) - Lightweight DSL & ORM which helps you to write SQL in Go.
@@ -709,7 +710,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [jobs](https://github.com/albrow/jobs) - Persistent and flexible background jobs library for go.
 - [tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
 - [go-guerrilla](https://github.com/flashmob/go-guerrilla) - Mini SMTP server written in golang.
-- [Fyne](https://github.com/fyne-io/fyne) - Easy to use UI toolkit and app API written in Go.
+- [Fyne](https://github.com/fyne-io/fyne) - Cross-platform GUI toolkit written in Go. ([Web](https://fyne.io/)) ([HN](https://news.ycombinator.com/item?id=31785556))
 - [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go.
 - [Logrus](https://github.com/Sirupsen/logrus) - Structured, pluggable logging for Go.
 - [AwGo](https://github.com/deanishe/awgo) - Go library for Alfred workflows.

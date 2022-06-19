@@ -628,3 +628,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [mkdist](https://github.com/unjs/mkdist) - Lightweight file-to-file transpiler.
 - [Template: TypeScript Module](https://github.com/lukeed/typescript-module)
 - [detective-typescript](https://github.com/dependents/detective-typescript) - Get the dependencies of a TypeScript module.
+- [ts-serve](https://github.com/ayame113/ts-serve) - Transpile TypeScript on the fly and deliver it from your server as ES Modules.

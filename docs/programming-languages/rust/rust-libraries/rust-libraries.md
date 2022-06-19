@@ -1971,6 +1971,7 @@
 - [loco.rs](https://github.com/KiwiTalk/loco.rs) - Loco Protocol Wrapper for Rust.
 - [Quick Pool](https://github.com/Astro36/qp) - High Performance Async Generic Pool.
 - [btree](https://github.com/nimrodshn/btree) - Persistent B+Tree (clustered index) implementation in Rust.
+- [command-fds](https://github.com/google/command-fds) - Rust library for passing arbitrary file descriptors when spawning child processes.
 
 ## Cargo Plugins
 

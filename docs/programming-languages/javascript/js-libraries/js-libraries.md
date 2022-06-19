@@ -955,6 +955,7 @@
 - [pattern-match-2d.js](https://github.com/kaya3/pattern-match-2d) - Algorithm for fast 2D pattern-matching with wildcards.
 - [reachable-url](https://github.com/Kikobeats/reachable-url) - Given an URL, it resolves as fast as possible, performing a GET without downloading the body.
 - [urllib](https://github.com/node-modules/urllib) - Request HTTP(s) URLs in a complex world.
+- [Bertin.js](https://github.com/neocarto/bertin) - JavaScript library for visualizing geospatial data and make thematic maps for the web.
 
 ## Links
 
