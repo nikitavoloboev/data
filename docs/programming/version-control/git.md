@@ -549,3 +549,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [git-download](https://github.com/akiradeveloper/git-download) - Download a single file from a Git repository.
 - [sema](https://github.com/sharpvik/sema) - Semantic commit tool.
 - [Ask HN: Why are Git submodules so bad? (2022)](https://news.ycombinator.com/item?id=31792303)
+- [git-pile](https://github.com/keith/git-pile) - Stacked diff support for GitHub workflows.
