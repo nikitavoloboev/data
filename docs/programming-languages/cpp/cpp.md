@@ -344,3 +344,4 @@ Never wrote C++, [Rust](../rust/rust.md) is much [better for new code](https://n
 - [Retrofitting Temporal Memory Safety on C++ (2022)](https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html) ([HN](https://news.ycombinator.com/item?id=31558796))
 - [Modern C++ Programming](https://github.com/federico-busato/Modern-CPP-Programming)
 - [Tiny C++ Interpreter](https://github.com/treefrogframework/cpi)
+- [Comprehensive list of differences between C and C++](https://docs.google.com/document/d/16B36r0HksR0LqQAGLA1syYCtZvYaVC0hEF2D00ZAd0o/mobilebasic)
