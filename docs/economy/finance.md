@@ -206,3 +206,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Inflation is structural](https://twitter.com/Trinhnomics/status/1534046184032964609)
 - [Nordigen](https://nordigen.com/en/) - Free banking data & premium insights.
 - [Stripe Apps](https://stripe.com/docs/stripe-apps) - Lets you embed custom user experiences directly in the Stripe Dashboard and orchestrate the Stripe API. ([Code](https://github.com/stripe/stripe-apps))
+- [ExpatFIRE Reddit](https://www.reddit.com/r/ExpatFIRE/)

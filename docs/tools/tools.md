@@ -286,6 +286,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Twist](https://twist.com/) - Async messaging for the flexible future of work. ([Twitter](https://twitter.com/TwistWork)) ([Tweet](https://twitter.com/bkaneMN/status/1458843005843124228))
 - [Taplink](https://taplink.cc/) - Multilinks and micro landing pages for Instagram.
 - [Orbit](https://github.com/gulien/orbit) - Cross-platform task runner for executing commands and generating files from templates.
+- [Root](https://rootapp.com/) - Community Talk in One Place. ([Twitter](https://twitter.com/therootapp))
 - [Paysly](https://paysly.io/) - Verifiable Payments in a single API call.
 - [Gaupol](https://otsaloma.io/gaupol/) - Editor for text-based subtitles. ([Code](https://github.com/otsaloma/gaupol))
 - [Coder](https://github.com/coder/coder) - Creates remote development machines so you can develop your code from anywhere.

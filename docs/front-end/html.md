@@ -271,3 +271,4 @@ Hi<div>oh no break</div>
 - [Lucid](https://github.com/chrisdone/lucid) - Clear to write, read and edit DSL for writing HTML.
 - [HTML5 Parser](https://github.com/kovidgoyal/html5-parser) - Fast C based HTML 5 parsing for python.
 - [hast-util-from-html](https://github.com/syntax-tree/hast-util-from-html) - hast utility that turns HTML into a syntax tree.
+- [Media Element Syncer](https://github.com/tjenkinson/media-element-syncer) - Synchronize two or more HTML5 media elements.

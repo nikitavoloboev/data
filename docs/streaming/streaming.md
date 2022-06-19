@@ -72,7 +72,7 @@ Here are tools I use for streaming:
 - [webrtcsink](https://github.com/centricular/webrtcsink) - All-batteries included GStreamer WebRTC producer.
 - [Overpass](https://github.com/GOATS2K/overpass) - Self-hosted video live streaming app. ([HN](https://news.ycombinator.com/item?id=29572310))
 - [A few things I’ve learned about livestreaming (2020)](https://dantepfer.com/blog/?p=1005) ([HN](https://news.ycombinator.com/item?id=29883969))
-- [Ping](https://ping.t3.gg/) - Better way to stream with friends. ([Tweet](https://twitter.com/jlengstorf/status/1490456619620061184))
+- [Ping](https://ping.gg/) - Better way to stream with friends. ([Tweet](https://twitter.com/jlengstorf/status/1490456619620061184)) ([Twitter](https://twitter.com/pingdotgg))
 - [Twincy](https://github.com/goncy/twincy) - See all chat messages and click one to feature it on the stream.
 - [OBS Plugin: Background Removal](https://github.com/royshil/obs-backgroundremoval)
 - [Stream your audio](https://streamyouraudio.com/) - Live stream audio from your computer to this website as easily as possible. ([Code](https://github.com/schollz/streamyouraudio))

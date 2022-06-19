@@ -1698,6 +1698,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Validate](https://github.com/gookit/validate) - Generic Go data validate and filter tool library.
 - [rope](https://github.com/deadpixi/rope) - Persistent rope in Go.
 - [Spaniel](https://github.com/senseyeio/spaniel) - Time span handling for Go.
+- [Techan](https://github.com/sdcoffey/techan) - Technical analysis library for Go.
 
 ## Links
 
