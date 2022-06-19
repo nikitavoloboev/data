@@ -233,3 +233,4 @@ title: SwiftUI
 - [VStack, HStack and ZStack explained](https://www.reddit.com/r/SwiftUI/comments/vd2x14/vstack_hstack_and_zstack_explained_putting_in_all/)
 - [What's New In SwiftUI for iOS Cheat Sheet - WWDC22](https://github.com/bigmountainstudio/What-is-new-in-SwiftUI)
 - [Navigation Backport](https://github.com/johnpatrickmorgan/NavigationBackport) - Backported SwiftUI navigation APIs introduced in WWDC22.
+- [Atmos](https://github.com/dejager/atmos) - SwiftUI proof-of-concept which adds rain to a view's background.

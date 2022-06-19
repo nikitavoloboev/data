@@ -40,3 +40,4 @@ title: Automatic differentiation
 - [dCpp](https://github.com/ZigaSajovic/dCpp) - Automatic differentiation in C++. Infinite differentiability of conditionals, loops, recursion and all things C++.
 - [ad-delcont](https://github.com/ocramz/ad-delcont) - Reverse-mode automatic differentiation with delimited continuations.
 - [Dynamic Automatic Differentiation in Rust](https://github.com/exbibyte/dynagrad)
+- [The simple essence of automatic differentiation](https://github.com/conal/talk-2018-essence-of-ad)

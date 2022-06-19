@@ -14,3 +14,4 @@ I want to try build a [SolidJS](../programming-languages/javascript/js-libraries
 - [Docusaurus TypeDoc API Plugin](https://github.com/milesj/docusaurus-plugin-typedoc-api) - Provides source code API documentation powered by TypeDoc.
 - [Docusaurus OpenAPI Doc Generator](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs)
 - [Docusaurus draw.io plugin](https://github.com/xiguaxigua/docusaurus-plugin-drawio)
+- [Offline / Local Search for Docusaurus](https://github.com/cmfcmf/docusaurus-search-local)

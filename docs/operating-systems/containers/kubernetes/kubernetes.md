@@ -765,3 +765,4 @@ title: Kubernetes
 - [Harness CD](https://github.com/harness/harness-cd-community) - Modern self-service continuous delivery solution that allows developers to deploy, verify and automatically rollback Kubernetes and other cloud-native applications.
 - [Kubeflow Training Operator](https://github.com/kubeflow/training-operator) - Kubernetes custom resources that makes it easy to run distributed or non-distributed TensorFlow/PyTorch/Apache MXNet/XGBoost/MPI jobs on Kubernetes.
 - [Cluster capacity analysis framework](https://github.com/kubernetes-sigs/cluster-capacity)
+- [kubectl-images](https://github.com/chenjiandongx/kubectl-images) - Show container images used in the cluster.

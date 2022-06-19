@@ -258,3 +258,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Send emails using Cloudflare Worker, for free](https://github.com/proselog/email-api)
 - [enmime](https://github.com/jhillyerd/enmime) - MIME mail encoding and decoding package for Go.
 - [letterparser](https://github.com/mat-sz/letterparser) - Isomorphic e-mail parser (with MIME support) written in TypeScript.
+- [unsubscan](https://github.com/LGUG2Z/unsubscan) - Tool to help you find unsubscribe links in your emails.

@@ -548,3 +548,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git Switch and Restore: an Improved User Experience (2020)](https://tanzu.vmware.com/developer/blog/git-switch-and-restore-an-improved-user-experience/)
 - [git-download](https://github.com/akiradeveloper/git-download) - Download a single file from a Git repository.
 - [sema](https://github.com/sharpvik/sema) - Semantic commit tool.
+- [Ask HN: Why are Git submodules so bad? (2022)](https://news.ycombinator.com/item?id=31792303)

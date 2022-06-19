@@ -368,3 +368,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Using Nix as package manager experiences (2022)](https://twitter.com/CompuIves/status/1533021281108606976)
 - [Nix as shell](https://github.com/brainrake/nixsh)
 - [Nixago](https://github.com/nix-community/nixago) - Generate configuration files using Nix.
+- [nix-nomad](https://github.com/tristanpemble/nix-nomad) - Generate HashiCorp Nomad JSON job files with Nix using NixOS modules.
+- [relocatable.nix](https://github.com/Ninlives/relocatable.nix) - Nix bundler that produces relocatable deployment script for nix store paths.

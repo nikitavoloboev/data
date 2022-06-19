@@ -83,6 +83,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## Test
 
+- [Goblin](https://github.com/franela/goblin) - Minimal and Beautiful Go testing framework.
 - [is](https://github.com/matryer/is) - Professional lightweight testing mini-framework for Go.
 - [gotest.tools](https://github.com/gotestyourself/gotest.tools) - Collection of packages to augment the go testing package and support common patterns.
 - [go-cmp](https://github.com/google/go-cmp) - Package for equality of Go values.
@@ -1693,6 +1694,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Itogami](https://github.com/alphadose/itogami) - Fast and memory efficient thread-pool in Go.
 - [profiler](https://github.com/knadh/profiler) - Simple wrapper over Go runtime/pprof for running multiple concurrent profiles and dumping results to files.
 - [trie](https://github.com/shivamMg/trie) - Trie implementation in Go meant for auto-completion use cases. Supports Levenshtein distance search.
+- [Validate](https://github.com/gookit/validate) - Generic Go data validate and filter tool library.
 
 ## Links
 

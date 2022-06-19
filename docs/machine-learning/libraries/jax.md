@@ -47,3 +47,4 @@ title: JAX
 - [Infinite Recommendation Networks (∞-AE) in JAX](https://github.com/noveens/infinite_ae_cf)
 - [Differential Programming with JAX course](https://ericmjl.github.io/dl-workshop/) ([Code](https://github.com/ericmjl/dl-workshop))
 - [Algorithms for Privacy-Preserving Machine Learning in JAX](https://github.com/deepmind/jax_privacy)
+- [Connex](https://github.com/leonard-gleyzer/connex) - Small JAX library built on Equinox whose aim is to incorporate artificial analogues of biological neural network attributes into deep learning research and architecture design.

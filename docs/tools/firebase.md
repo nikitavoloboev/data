@@ -73,3 +73,4 @@ I like the real time aspect of Firebase but not sure how well it can scale for m
 - [Firebase to Supabase Migration Guide](https://github.com/supabase-community/firebase-to-supabase)
 - [Firekiq](https://github.com/dahal/firekiq) - Sidekiq alternative with Firebase Functions.
 - [Python Client for Google Cloud Firestore](https://github.com/googleapis/python-firestore)
+- [Fireschema](https://github.com/yarnaimo/fireschema) - Strongly typed Firestore framework for TypeScript.
