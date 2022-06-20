@@ -39,3 +39,4 @@
 - [Hackney](https://github.com/gleam-lang/hackney) - Make requests to HTTP servers with Hackney.
 - [yak](https://github.com/hayleigh-dot-dev/gleam-yak) - Small embeddable scripting language for Gleam.
 - [The future of friendly functional programming, Talking about Gleam language (2022)](https://open.spotify.com/episode/5kQbDiLY65Ujn1ymnugsX4)
+- [howdy](https://github.com/mikeyjones/howdy) - Simple API on top of the Mist web server.

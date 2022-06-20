@@ -524,3 +524,4 @@ all: unset
 - [CSS box-sizing (2022)](https://garden.bradwoods.io/notes/css-box-sizing)
 - [Complex vs Compound Selectors (2022)](https://www.miriamsuzanne.com/2022/06/15/complex-compound/) ([Tweet](https://twitter.com/TerribleMia/status/1537222094827663360))
 - [Mobile-First CSS: Is It Time for a Rethink? (2022)](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/) ([HN](https://news.ycombinator.com/item?id=31802823))
+- [Elly Loel CSS Reset](https://gist.github.com/EllyLoel/4ff8a6472247e6dd2315fd4038926522) ([Tweet](https://twitter.com/ellyloel/status/1538752447560110080))

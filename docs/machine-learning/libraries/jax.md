@@ -6,6 +6,10 @@ title: JAX
 
 [Differential Programming with JAX course](https://ericmjl.github.io/dl-workshop/) is nice. [Meta Optimal Transport](https://github.com/facebookresearch/meta-ot) is nice JAX repo to run/study.
 
+## Notes
+
+- [JAX is more like NumPy with Autograd, Jit, and TPU/GPU support](https://twitter.com/rasbt/status/1538903583365681152)
+
 ## Links
 
 - [audax](https://github.com/SarthakYadav/audax) - Home for audio ML in JAX. Has common features, learnable frontends, pretrained supervised and self-supervised models.
@@ -48,3 +52,5 @@ title: JAX
 - [Differential Programming with JAX course](https://ericmjl.github.io/dl-workshop/) ([Code](https://github.com/ericmjl/dl-workshop))
 - [Algorithms for Privacy-Preserving Machine Learning in JAX](https://github.com/deepmind/jax_privacy)
 - [Connex](https://github.com/leonard-gleyzer/connex) - Small JAX library built on Equinox whose aim is to incorporate artificial analogues of biological neural network attributes into deep learning research and architecture design.
+- [Rax](https://github.com/google/rax) - Composable Learning to Rank using JAX.
+- [JaX is faster than PyTorch but harder to debug](https://twitter.com/kevin_zakka/status/1538634474107314176)

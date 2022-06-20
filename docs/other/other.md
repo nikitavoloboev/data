@@ -633,3 +633,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Apple Supplier List](https://www.apple.com/supplier-responsibility/pdf/Apple-Supplier-List.pdf) ([HN](https://news.ycombinator.com/item?id=31655629))
 - [Who's afraid of amber heard? (2022)](https://internetprincess.substack.com/p/whos-afraid-of-amber-heard) ([Tweet](https://twitter.com/WeekesPrincess/status/1535358513194704897))
 - [circumflex](https://github.com/bensadeh/circumflex) - Command line tool for browsing Hacker News in your terminal.
+- [What’s a scam that’s become so normalized that we don’t realize it’s a scam anymore?](https://twitter.com/LizzieCosmos/status/1537427575957606401)

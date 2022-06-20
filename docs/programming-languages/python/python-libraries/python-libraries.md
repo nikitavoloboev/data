@@ -107,6 +107,7 @@
 - [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) - Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models.
 - [TensorAnnotations](https://github.com/deepmind/tensor_annotations) - Annotating tensor shapes using Python types.
 - [AgentPy](https://github.com/JoelForamitti/agentpy) - Open-source framework for the development and analysis of agent-based models in Python.
+- [autotst](https://github.com/jmkuebler/auto-tst) - AutoML Two-Sample Test. ([Tweet](https://twitter.com/jonas_kubler/status/1538872507540856832))
 
 ## Biology
 

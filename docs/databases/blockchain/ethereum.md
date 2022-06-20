@@ -632,3 +632,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [OpenZeppelin Contracts for Cairo](https://github.com/OpenZeppelin/cairo-contracts) - Library for secure smart contract development written in Cairo for StarkNet, a decentralized ZK Rollup.
 - [Starklings](https://github.com/onlydustxyz/starklings) - Interactive tutorial to get you up and running with Starknet.
 - [EthTx](https://github.com/EthTx/ethtx) - Python package with core transaction decoding functions.
+- [Warp](https://github.com/NethermindEth/warp) - Bringing Solidity to StarkNet at warp speed.

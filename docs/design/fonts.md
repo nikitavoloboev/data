@@ -120,6 +120,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [mononoki](http://madmalik.github.io/mononoki/) - Font for programming and code review. ([Code](https://github.com/madmalik/mononoki))
 - [Apfel Grotezk](https://fontesk.com/apfel-grotezk-font/) ([Tweet](https://twitter.com/jamesm/status/1534262545162420230))
 - [undefined medium](https://undefined-medium.com/) - Free and open-source pixel grid-based monospace typeface. ([Code](https://github.com/andirueckel/undefined-medium))
+- [Magnat Poster fonts](https://fonts.ilovetypography.com/fonts/studio-ren%C3%A9-bieder/magnat-poster) ([Tweet](https://twitter.com/ilovetypography/status/1538807228102193152))
 
 ## Links
 
@@ -374,3 +375,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Tips on designing monospace font](https://twitter.com/joeltalksdesign/status/1531296706792415234)
 - [Rust Font Tools](https://github.com/simoncozens/rust-font-tools) - Collection of Rust crates for building OpenType fonts.
 - [Bunny Fonts](https://fonts.bunny.net/about) - Faster & GDPR friendly Fonts. ([HN](https://news.ycombinator.com/item?id=31798311))
+- [Internet Archive scans of logotype books](https://twitter.com/bao_t_nguyen/status/1538647087587373056)

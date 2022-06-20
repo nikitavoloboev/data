@@ -191,3 +191,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [A review of Accelerate: The Science of Lean Software and DevOps (2022)](https://keunwoo.com/notes/accelerate-devops/)
 - [sake](https://github.com/alajmo/sake) - Command runner for local and remote hosts.
 - [Nomad Helper](https://github.com/seatgeek/nomad-helper) - Useful tools for working with Hashicorp Nomad at scale.
+- [Interval](https://interval.com/) - Batteries-included approach to building rich internal tools directly in your app’s backend codebase. ([Twitter](https://twitter.com/useinterval)) ([Explained](https://twitter.com/alexarena/status/1537116909199446016))

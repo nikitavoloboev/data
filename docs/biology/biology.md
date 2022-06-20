@@ -121,3 +121,5 @@
 - [BioDigital](https://www.biodigital.com/) - Interactive 3D Anatomy.
 - [Rhea](https://www.rhea-db.org/) - Knowledge base for bio-chemical transformations and transport reactions.
 - [Glycowork](https://github.com/BojarLab/glycowork) - Package for processing and analyzing glycans and their role in biology.
+- [The Century of Biology | Elliot Hershberg](https://centuryofbio.substack.com/)
+- [Markus Deserno - A Physicist's View on Biological Membranes (2022)](https://www.youtube.com/watch?v=Hh_LxkDJxe8)

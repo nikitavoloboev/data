@@ -142,3 +142,4 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 - [Artificial Intelligence for Beginners - A Curriculum](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All.
 - [Why I will no longer engage in philosophical discussions about conscious AI/superintelligent machines (2022)](https://twitter.com/GiadaPistilli/status/1530136739959951361) ([TL;DR](https://twitter.com/tomgara/status/1535735266543017989))
 - [Discussion between Google engineer and their conversational AI model](https://twitter.com/tomgara/status/1535716256585859073)
+- [Where I agree and disagree with Eliezer (2022)](https://www.lesswrong.com/posts/CoZhXrhpQxpy9xw9y/where-i-agree-and-disagree-with-eliezer)

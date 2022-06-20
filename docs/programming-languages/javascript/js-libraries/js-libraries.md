@@ -4,7 +4,6 @@
 
 ## Web Dev frameworks
 
-- [Next.js](https://github.com/vercel/next.js) - Framework for server-rendered or statically-exported React apps.
 - [Solid](https://www.solidjs.com/) - Declarative, efficient, and flexible JavaScript library for building user interfaces. ([Code](https://github.com/solidjs/solid)) ([Website Code](https://github.com/solidjs/solid-site)) ([Awesome](https://github.com/one-aalam/awesome-solid-js)) ([HN](https://news.ycombinator.com/item?id=29388296))
 - [San](https://github.com/baidu/san) - Flexible JavaScript component framework.
 - [hapi](https://hapijs.com/) - Rich framework for building applications and services.
@@ -40,6 +39,7 @@
 - [Glimmer](https://glimmerjs.com/) - Fast and light-weight UI components for the web. ([Code](https://github.com/glimmerjs/glimmer.js))
 - [Glimmer VM](https://github.com/glimmerjs/glimmer-vm) - Flexible, low-level rendering pipeline for building a "live" DOM from Handlebars templates that can subsequently be updated cheaply when data changes.
 - [frint](https://github.com/frintjs/frint) - Modular JavaScript framework for building scalable and reactive applications.
+- [Next.js](https://github.com/vercel/next.js) - Framework for server-rendered or statically-exported React apps.
 - [Nano Router](https://github.com/sunesimonsen/nano-router) - Framework agnostic minimalistic router with a focus on named routes.
 - [tiny-request-router](https://github.com/berstend/tiny-request-router) - Fast, generic and type safe router (match request method and path).
 - [Synergy](https://github.com/defx/synergy) - Tiny runtime library for building web user interfaces. ([HN](https://news.ycombinator.com/item?id=25677272))
@@ -76,6 +76,7 @@
 - [hdot](https://github.com/willmartian/hdot) - Zero-dependency, buildless, terse, and type-safe way to write HTML in JavaScript.
 - [SurveyJS](https://github.com/surveyjs/survey-library) - JavaScript Survey and Form Library. ([Web](https://surveyjs.io/))
 - [Helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers.
+- [Reactif](https://github.com/keva-dev/reactif) - Fast 5kB reactive & elegant functional library for rapidly building modern UIs on the web.
 
 ## Animation
 
@@ -956,6 +957,7 @@
 - [reachable-url](https://github.com/Kikobeats/reachable-url) - Given an URL, it resolves as fast as possible, performing a GET without downloading the body.
 - [urllib](https://github.com/node-modules/urllib) - Request HTTP(s) URLs in a complex world.
 - [Bertin.js](https://github.com/neocarto/bertin) - JavaScript library for visualizing geospatial data and make thematic maps for the web.
+- [EDTF.js](https://github.com/inukshuk/edtf.js) - Extended Date Time Format (ISO 8601-2 / EDTF) Parser for JavaScript.
 
 ## Links
 

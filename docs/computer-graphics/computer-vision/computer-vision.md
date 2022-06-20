@@ -800,3 +800,4 @@
 - [Solving Inefficiency of Self-supervised Representation Learning (2021)](https://arxiv.org/abs/2104.08760) ([Code](https://github.com/wanggrun/triplet))
 - [NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination (2021)](https://arxiv.org/abs/2106.01970) ([Code](https://github.com/google/nerfactor))
 - [Trending in 3D Vision](https://github.com/dragonlong/Trending-in-3D-Vision)
+- [ShapeFormer: Transformer-based Shape Completion via Sparse Representation (2022)](https://shapeformer.github.io/) ([Code](https://github.com/QhelDIV/ShapeFormer))

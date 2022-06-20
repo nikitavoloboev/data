@@ -6,7 +6,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 
 [gmailctl](https://github.com/mbrt/gmailctl) is a useful tool for setting up email filters. I use [Postmark Email Templates](https://github.com/wildbit/postmark-templates) often.
 
-[MJML](https://mjml.io/), [Maizzle](https://maizzle.com/) & [Brail](https://github.com/sinclairnick/brail) are nice for writing out email templates. [Postal](https://github.com/postalserver/postal) is great too.
+[MJML](https://mjml.io/), [Maizzle](https://maizzle.com/) & [Brail](https://github.com/sinclairnick/brail) are nice for writing out email templates. [Postal](https://github.com/postalserver/postal) is great too. [Postmark](https://postmarkapp.com/) is [great for sending transactional emails fast](https://twitter.com/chatsidhartha/status/1538634467455148033).
 
 I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/status/1528861135717683201) is an example of a good one.
 

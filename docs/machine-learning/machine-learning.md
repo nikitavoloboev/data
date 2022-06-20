@@ -845,3 +845,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Latent World Models For Intrinsically Motivated Exploration (2020)](https://arxiv.org/abs/2010.02302) ([Code](https://github.com/htdt/lwm))
 - [Prioritized Training on Points that are Learnable, Worth Learning, and Not Yet Learnt (2022)](https://arxiv.org/abs/2206.07137) ([Code](https://github.com/OATML/RHO-Loss))
 - [Self-Supervised Learning from Images: Up-to-date reading list](https://github.com/wvangansbeke/Self-Supervised-Learning-Overview)
+- [How robust are pre-trained models to distribution shift? (2022)](https://arxiv.org/abs/2206.08871)
+- [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge (2022)](https://arxiv.org/abs/2206.08853) ([Code](https://github.com/MineDojo/MineDojo))

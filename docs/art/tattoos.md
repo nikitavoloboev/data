@@ -4,7 +4,7 @@
 
 - [“tattoos are supposed to mean something” yea they mean i’m hot and sexy](https://twitter.com/justcaem/status/1371275010669678592)
 
-## Favorite artists
+## Interesting artists
 
 - [Sasha Tattooing](https://www.bysashatattooing.com/) ([Barcelona](https://sashatattooingbarcelona.com/))
 - [Kyle Stacher](https://www.instagram.com/thiefhands)
@@ -14,7 +14,5 @@
 - [Sasha Hain](https://www.instagram.com/ianhain/)
 - [mus.tattoo](https://www.instagram.com/mus.tattoo/)
 - [Alisa Sayapina](https://www.instagram.com/sayapski/)
-
-## Interesting artists
-
 - [Jon Black](https://www.instagram.com/jon._.black/)
+- [Jerome](https://www.instagram.com/sztuka_wojny/)

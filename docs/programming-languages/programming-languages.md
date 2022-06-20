@@ -381,3 +381,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [A Pattern Language for the LIMITS Community (2022)](https://computingwithinlimits.org/2022/papers/limits22-final-Schuler.pdf)
 - [Awesome low level programming languages](https://github.com/robertmuth/awesome-low-level-programming-languages)
 - [Inko](https://github.com/YorickPeterse/inko) - Statically-typed, safe, object-oriented programming languages for writing concurrent programs.
+- [wastebin](https://wastebin-pkue.onrender.com/) - Minimal pastebin shamelessly copied from bin. ([Code](https://github.com/matze/wastebin))

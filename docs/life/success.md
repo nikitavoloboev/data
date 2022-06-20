@@ -55,6 +55,7 @@ Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523
 - [If your work doesn't feel like a game you're gonna get smoked by the people actually having fun.](https://twitter.com/Pavel_Asparagus/status/1522245904136347649)
 - [At critical moments, you can raise the aspirations of other people significantly, especially when they are relatively young, simply by suggesting they do something more important and ambitious than what they might have in mind.](https://twitter.com/jamescham/status/1528245556589383680)
 - [Never underestimate the man who overestimates himself.](https://twitter.com/Austen/status/1528947017749188609)
+- [When something is important enough, you do it even if the odds are not in your favor.](https://twitter.com/heyeaslo/status/1538884390092058624)
 
 ## Links
 

@@ -114,3 +114,4 @@
 - [Pegen](https://github.com/we-like-parsers/pegen) - Parser generator used in CPython to produce the parser used by the interpreter. It allows to produce PEG parsers from a description of a formal Grammar.
 - [lezer/generator](https://github.com/lezer-parser/generator) - Parser generator for the lezer incremental parser.
 - [tree-sitter-viewer](https://github.com/shi-yan/tree-sitter-viewer) - Rust lib to visualize tree-sitter syntax tree.
+- [go tree-sitter](https://github.com/smacker/go-tree-sitter) - Go bindings for tree-sitter.

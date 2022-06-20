@@ -121,3 +121,4 @@ Might give it a go sometime.
 - [A vision of a multi-threaded Emacs (2022)](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/) ([HN](https://news.ycombinator.com/item?id=31559818))
 - [Who Needs Modern Emacs? (2022)](https://batsov.com/articles/2022/06/01/who-needs-modern-emacs/) ([Lobsters](https://lobste.rs/s/nkea9j/who_needs_modern_emacs))
 - [Why Emacs has Buffers](https://www.masteringemacs.org/article/why-emacs-has-buffers)
+- [Rational Emacs](https://github.com/SystemCrafters/rational-emacs) - Sensible starting point for hacking your own Emacs configuration.

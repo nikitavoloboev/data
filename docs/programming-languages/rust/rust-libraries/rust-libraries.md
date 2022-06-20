@@ -632,6 +632,7 @@
 - [Orkhon](https://github.com/vertexclique/orkhon) - ML Inference Framework and Server Runtime.
 - [kornia-rs](https://github.com/kornia/kornia-rs) - Low level implementations for computer vision in Rust.
 - [cervo](https://github.com/EmbarkStudios/cervo) - Wrapper around tract used for ML workloads in our games.
+- [Rust NEAT](https://github.com/TLmaK0/rustneat) - NeuroEvolution of Augmenting Topologies.
 
 ## macOS
 

@@ -36,3 +36,4 @@
 - [What’s the worst leadership advice you’ve heard?](https://twitter.com/jmwind/status/1493569303030816770)
 - [Swinging the Pendulum principle](https://twitter.com/BrandonMChu/status/1502312471461249030)
 - [Levels of Technical Leadership (2022)](https://dr-knz.net/levels-of-technical-leadership.html)
+- [Awesome Data Leadership](https://github.com/ronikobrosly/awesome-data-leadership)

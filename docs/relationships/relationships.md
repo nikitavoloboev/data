@@ -251,3 +251,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [Men, what makes you want to seriously date a girl? (2022)](https://www.reddit.com/r/AskMen/comments/usz6xg/men_what_makes_you_want_to_seriously_date_a_girl/)
 - [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship) ([HN](https://news.ycombinator.com/item?id=31562478))
 - [Feeld](https://feeld.co/) - Dating app for the open–minded to meet like–minded. ([Links](https://linktr.ee/feeldco))
+- [6 фильмов о любви в непростое время](https://www.wonderzine.com/wonderzine/entertainment/movies/263037-films)
