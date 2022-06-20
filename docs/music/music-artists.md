@@ -286,6 +286,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Tanir & Tyomcha - Потеряли пацана (Acoustic Live)](https://www.youtube.com/watch?v=vjLFjFPc1lE)
 - [The Lumineers - Scotland (Live on KEXP)](https://www.youtube.com/watch?v=EaA7PUoKgFo)
 - [Therr Maitz, Gruppa Skryptonite — Natural Blues (LAB с Антоном Беляевым)](https://www.youtube.com/watch?v=3wgEI5_H9uc)
+- [Gruppa Skryptonite, Therr Maitz 一 Podruga / LAB с Антоном Беляевым](https://www.youtube.com/watch?v=_2S70chBJ0k)
 
 ## Links
 
