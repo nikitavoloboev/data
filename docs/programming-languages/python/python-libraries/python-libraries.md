@@ -106,6 +106,7 @@
 - [pomegranate](https://github.com/jmschrei/pomegranate) - Fast, flexible and easy to use probabilistic modelling in Python.
 - [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) - Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models.
 - [TensorAnnotations](https://github.com/deepmind/tensor_annotations) - Annotating tensor shapes using Python types.
+- [AgentPy](https://github.com/JoelForamitti/agentpy) - Open-source framework for the development and analysis of agent-based models in Python.
 
 ## Biology
 
@@ -1054,3 +1055,4 @@
 - [Pyan3](https://github.com/davidfraser/pyan) - Python module that performs static analysis of Python code to determine a call dependency graph between functions and methods.
 - [dumb-pypi](https://github.com/chriskuehl/dumb-pypi) - PyPI generator, backed entirely by static files.
 - [Bundling binary tools in Python wheels (2022)](https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/) ([HN](https://news.ycombinator.com/item?id=31776873))
+- [onepm](https://github.com/frostming/onepm) - Picks the right Python package manager for you.

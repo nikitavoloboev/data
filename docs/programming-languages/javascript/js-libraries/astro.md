@@ -32,3 +32,4 @@ title: Astro
 - [Astro RFC](https://github.com/withastro/rfcs) - Ideas, suggestions, and formal RFC proposals for the Astro project.
 - [astro-ixmage](https://github.com/readonlychild/astro-ixmage) - Ixmage component for Astro.
 - [How to deploy an Astro site (2022)](https://www.netlify.com/blog/how-to-deploy-astro/)
+- [Astro components and configurations collection](https://github.com/JulianCataldo/astro)

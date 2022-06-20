@@ -73,3 +73,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [Ask HN: How can you buy high quality healthcare? (2022)](https://news.ycombinator.com/item?id=31530176)
 - [Paloma](https://www.palomahealth.com/) - Online Medical Practice Focused on Hypothyroidism.
 - [Ceiling Air Purifier](https://www.jefftk.com/p/ceiling-air-purifier)
+- [The Truth About Dentistry (2019)](https://www.theatlantic.com/magazine/archive/2019/05/the-trouble-with-dentistry/586039/) ([HN](https://news.ycombinator.com/item?id=31790226))

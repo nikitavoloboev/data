@@ -38,3 +38,4 @@ title: Unreal Engine
 - [Recreatig The Lord Of The Rings Doors of Durin in Unreal Engine 5 (2022)](https://80.lv/articles/recreatig-the-lord-of-the-rings-doors-of-durin-in-unreal-engine-5/)
 - [OpenVDB and NanoVDB in Unreal](https://github.com/eidosmontreal/unreal-vdb) - Unreal plugin that can read OpenVDB and NanoVDB files in Unreal.
 - [Niagara Fluids](https://dev.epicgames.com/community/learning/tutorials/orJv/welcome-to-niagara-fluids) - Tools designed to add grid-based simulation to Unreal Engine, including the ability to directly simulate gas and water effects.
+- [Bupaku](https://github.com/Ludea/bupaku) - Build and package Unreal Engine from source.

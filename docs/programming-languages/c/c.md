@@ -252,3 +252,4 @@
 - [All About Libpas, Phil's Super Fast Malloc](https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md) ([HN](https://news.ycombinator.com/item?id=31581727))
 - [Pretty-Printable Enumerations in Pure C (2022)](https://hirrolot.github.io/posts/pretty-printable-enumerations-in-pure-c.html)
 - [Psyche-C](https://github.com/ltcmelo/psychec) - Compiler frontend for the C programming language.
+- [Testing and building C projects with Zig (2022)](https://renato.athaydes.com/posts/testing-building-c-with-zig.html)

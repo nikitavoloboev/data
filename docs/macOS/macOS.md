@@ -268,3 +268,6 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Create macOS or Linux virtual machines (2022)](https://developer.apple.com/videos/play/wwdc2022/10002/) ([HN](https://news.ycombinator.com/item?id=31645000))
 - [Quick look at user-mode file systems on macOS Ventura (2022)](https://threedots.ovh/blog/2022/06/quick-look-at-user-mode-file-systems-on-macos-ventura/) ([Lobsters](https://lobste.rs/s/bm0ifk/quick_look_at_user_mode_file_systems_on))
 - [Quick Tip: Enable Touch ID for sudo](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/)
+- [macOS-Login-Items](https://github.com/puffyCid/macos-loginitems) - Simple macOS LoginItems parser (and library) written in Rust.
+- [macOS-fseventsd](https://github.com/puffyCid/macos-fseventsd) - Simple macOS File System Events Disk Log Stream (FsEventsd) parser (and library) written in Rust.
+- [macOS-launchd](https://github.com/puffyCid/macos-launchd) - Simple macOS launchd parser (and library) written in Rust.

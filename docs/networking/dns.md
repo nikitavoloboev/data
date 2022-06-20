@@ -226,3 +226,5 @@ title: DNS
 - [GoDNS](https://github.com/TimothyYe/godns) - Dynamic DNS (DDNS) client tool.
 - [aardvark-dns](https://github.com/containers/aardvark-dns) - Authoritative DNS server for A/AAAA container records. Forwards other request to host's /etc/resolv.conf.
 - [Pion mDNS](https://github.com/pion/mdns) - Go implementation of mDNS.
+- [Wordle over DNS](https://github.com/dgl/wordle-dns)
+- [Resolvers](https://github.com/trickest/resolvers) - Most exhaustive list of reliable DNS resolvers.

@@ -798,3 +798,5 @@
 - [All in One: Exploring Unified Video-Language Pre-training (2022)](https://arxiv.org/abs/2203.07303) ([Code](https://github.com/showlab/all-in-one))
 - [Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization (2022)](https://arxiv.org/abs/2203.13167) ([Code](https://github.com/srvCodes/continual_learning_with_vit))
 - [Solving Inefficiency of Self-supervised Representation Learning (2021)](https://arxiv.org/abs/2104.08760) ([Code](https://github.com/wanggrun/triplet))
+- [NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination (2021)](https://arxiv.org/abs/2106.01970) ([Code](https://github.com/google/nerfactor))
+- [Trending in 3D Vision](https://github.com/dragonlong/Trending-in-3D-Vision)

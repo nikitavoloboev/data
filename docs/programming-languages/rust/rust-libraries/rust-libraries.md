@@ -2191,3 +2191,4 @@
 - [Rust CI with GitHub Actions](https://github.com/BamPeers/rust-ci-github-actions-workflow)
 - [Deps.rs](https://deps.rs/) - Keep your dependencies up-to-date. ([Code](https://github.com/deps-rs/deps.rs))
 - [Rust FFI Omnibus](https://github.com/shepmaster/rust-ffi-omnibus) - Collection of examples of using code written in Rust from other languages.
+- [Aeneas](https://github.com/sonmarcho/aeneas) - Verification toolchain for Rust programs.
