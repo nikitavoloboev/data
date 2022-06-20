@@ -323,3 +323,4 @@ title: WebAssembly
 - [Rust+ WASM implementation of a beamformer in spectral analysis](https://github.com/ma3103yd-s/beamformer-wasm)
 - [WebAssembly Components and wasmCloud Actors: A Glimpse of the Future (2022)](https://wasmcloud.com/blog/webassembly_components_and_wasmcloud_actors_a_glimpse_of_the_future/)
 - [Building a web application with Rust and WebAssembly (2022)](https://kerkour.com/web-application-with-rust-and-webassembly)
+- [Notes: Notes on WebAssembly (2022)](http://neugierig.org/software/blog/2022/06/wasm-notes.html)

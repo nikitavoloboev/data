@@ -39,3 +39,4 @@ Love [VanMoof](https://www.vanmoof.com/) bikes.
 - [3 upgrades to the VanMoof S3 which significantly enhanced my experience (2022)](https://www.reddit.com/r/vanmoofbicycle/comments/v192xa/3_upgrades_to_the_s3_which_significantly_enhanced/)
 - [Specialized](https://www.specialized.com/) - Bicycle Components.
 - [Tips for mountain biking](https://twitter.com/Jason/status/1535344810801868800)
+- [Reasons to tour by bicycle](https://kk.org/thetechnium/reasons-to-tour-by-bicycle/) ([HN](https://news.ycombinator.com/item?id=31797686))

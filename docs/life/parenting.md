@@ -78,3 +78,4 @@
 - [Ask HN: It's 2022. Where should I direct the youths to learn about programming?](https://news.ycombinator.com/item?id=31209644)
 - [Life without kids? (2022)](https://www.reddit.com/r/AskMenOver30/comments/uhshf8/life_without_kids/)
 - [The One Parenting Decision That Really Matters (2022)](https://www.theatlantic.com/ideas/archive/2022/05/parenting-decisions-dont-trust-your-gut-book-excerpt/629734/)
+- [Parents’ trauma leaves biological traces in children (2022)](https://www.scientificamerican.com/article/how-parents-rsquo-trauma-leaves-biological-traces-in-children/) ([HN](https://news.ycombinator.com/item?id=31793682))

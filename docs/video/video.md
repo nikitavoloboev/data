@@ -374,3 +374,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Filmot](https://filmot.com/) - Subtitle and Video Metadata Search Engine.
 - [GPU-accelerated video decoding (2022)](https://scalibq.wordpress.com/2022/06/11/gpu-accelerated-video-decoding/) ([HN](https://news.ycombinator.com/item?id=31704740))
 - [Vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. ([Docs](https://vimejs.com/))
+- [Уличная магия сравнения кодеков. Раскрываем секреты (2019)](https://habr.com/ru/post/451664/)

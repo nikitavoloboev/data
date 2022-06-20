@@ -82,3 +82,4 @@ I practice self reflection (via journaling) & meditation (walks in nature) to ge
 - [Consciousness is supported by near-critical slow cortical electrodynamics (2022)](https://www.pnas.org/content/119/7/e2024455119) ([HN](https://news.ycombinator.com/item?id=30350261))
 - [The Surprisingly Sophisticated Mind of an Insect (2022)](https://www.noemamag.com/the-surprisingly-sophisticated-mind-of-an-insect/) ([HN](https://news.ycombinator.com/item?id=31483462))
 - [Field theories of consciousness](http://www.scholarpedia.org/article/Field_theories_of_consciousness)
+- [Consciousness is not computation (2022)](https://joe-antognini.github.io/ml/consciousness) ([HN](https://news.ycombinator.com/item?id=31791126))

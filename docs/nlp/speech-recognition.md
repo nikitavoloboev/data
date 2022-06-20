@@ -26,7 +26,7 @@ title: Speech recognition
 - [Porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [Eesen](https://github.com/srvk/eesen) - End-to-End Speech Recognition using Deep RNN Models and WFST-based Decoding.
 - [Ask HN: Is there any work being done in speech-to-code with deep learning? (2020)](https://news.ycombinator.com/item?id=23497756)
-- [Silero Models](https://github.com/snakers4/silero-models) - Pre-trained STT models and benchmarks made embarrassingly simple.
+- [Silero Models](https://github.com/snakers4/silero-models) - Pre-trained STT models and benchmarks made embarrassingly simple. ([HN](https://news.ycombinator.com/item?id=31807201))
 - [High-quality pre-trained speech-to-text models now available on Torch Hub](https://pytorch.org/hub/snakers4_silero-models_stt/) ([HN](https://news.ycombinator.com/item?id=24565831))
 - [Wavenet For Speech Denoising](https://github.com/drethage/speech-denoising-wavenet) - Neural network for end-to-end speech denoising, as described in: "A Wavenet For Speech Denoising".
 - [Vosk](https://github.com/wzhd/vosk-rs) - Speech recognition toolkit with state-of-the-art accuracy and low latency in Rust.

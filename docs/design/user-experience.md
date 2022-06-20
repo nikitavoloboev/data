@@ -183,3 +183,4 @@
 - [Optimizing For Feelings (2022)](https://browsercompany.substack.com/p/optimizing-for-feelings) ([HN](https://news.ycombinator.com/item?id=31654751))
 - [Want to be great at UX research? Take a cue from cultural anthropology (2022)](https://stackoverflow.blog/2022/06/10/want-to-be-great-at-ux-research-take-a-cue-from-cultural-anthropology-ep-451/)
 - [The Most Satisfying Checkbox](https://www.andy.works/words/the-most-satisfying-checkbox) ([HN](https://news.ycombinator.com/item?id=31781110))
+- [We need a flow chart editor that doesn't give you carpal tunnel (2022)](https://www.scottantipa.com/why-knotend) ([HN](https://news.ycombinator.com/item?id=31804429))
