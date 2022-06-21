@@ -824,3 +824,4 @@ title: Rust
 - [How to make Rust leak memory (also: how to make it stop) (2022)](https://fly.io/blog/rust-memory-leak/) ([Lobsters](https://lobste.rs/s/7fbu8o/how_make_rust_leak_memory_also_how_make_it))
 - [Implementing strace in Rust (2022)](https://jakobwaibel.com/2022/06/06/ptrace/)
 - [ra-multiplex](https://github.com/pr2502/ra-multiplex) - Multiplex server for rust-analyzer, allows multiple LSP clients (editor windows) to share a single rust-analyzer instance per cargo workspace.
+- [Unsafe code highlighting with rust-analyzer (2022)](https://veykril.github.io/posts/semantic-unsafe/)

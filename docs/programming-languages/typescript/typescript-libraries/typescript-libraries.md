@@ -67,6 +67,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [gaxios](https://github.com/googleapis/gaxios) - HTTP request client that provides an axios like interface over top of node-fetch. Super lightweight. Supports proxies and all sorts of other stuff.
 - [Exegesis OpenAPI Engine](https://github.com/exegesis-js/exegesis) - Tools for implementing server-side OpenAPI 3.0.0.
 - [aspida](https://github.com/aspida/aspida) - TypeScript friendly HTTP client wrapper for the browser and node.js.
+- [Purity](https://github.com/tatomyr/purity) - Declarative State & DOM Manager.
 
 ## GraphQL
 

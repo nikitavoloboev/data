@@ -212,3 +212,4 @@ title: Generative adversarial networks
 - [StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2 (2022)](https://universome.github.io/stylegan-v) ([Code](https://github.com/universome/stylegan-v))
 - [Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing (2022)](https://arxiv.org/abs/2206.08357) ([Code](https://github.com/adobe-research/sam_inversion))
 - [Parallel WaveGAN implementation with PyTorch](https://github.com/kan-bayashi/ParallelWaveGAN)
+- [Rethinking training of 3D GANs](https://universome.github.io/perf-gan) ([Code](https://github.com/universome/perf-gan))

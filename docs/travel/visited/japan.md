@@ -84,3 +84,4 @@
 - [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/) ([HN](https://news.ycombinator.com/item?id=31428481))
 - [Animebook](https://animebook.github.io/) - In-browser video player for learning Japanese with subtitles. ([Code](https://github.com/animebook/animebook.github.io))
 - [Photography and Ikigai (2022)](https://www.lkazphoto.com/blog/photography-and-ikigai) ([HN](https://news.ycombinator.com/item?id=31579522))
+- [UX based designs of Japan that makes life easier](https://twitter.com/richardker/status/1535570110114541569)

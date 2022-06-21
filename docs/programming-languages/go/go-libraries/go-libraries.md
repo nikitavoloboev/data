@@ -643,6 +643,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [try](https://github.com/dsnet/try) - Simplified error handling in Go.
 - [oerrs](https://github.com/OneOfOne/oerrs) - Adds an ErrorList with optional stack traces.
 - [Errors](https://github.com/alextanhongpin/errors) - Better domain errors with Go.
+- [merry](https://github.com/ansel1/merry) - Go errors with stacktrace and context.
 
 ## Other
 
@@ -1699,6 +1700,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [rope](https://github.com/deadpixi/rope) - Persistent rope in Go.
 - [Spaniel](https://github.com/senseyeio/spaniel) - Time span handling for Go.
 - [Techan](https://github.com/sdcoffey/techan) - Technical analysis library for Go.
+- [flume](https://github.com/ThalesGroup/flume) - Structured, leveled logging with global, runtime reconfiguration.
 
 ## Links
 

@@ -579,3 +579,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Руслан Белый: «Это не защищает тебя от отмены тебя» (2022)](https://www.youtube.com/watch?v=faH4AMDRAlc)
 - [Яшин – быть против Путина, но оставаться в России (2022)](https://www.youtube.com/watch?v=F4wk0zuN2Bs)
 - [Путин. Миллер. Газпром (2022)](https://www.youtube.com/watch?v=YSbHR1Z_mZ8)
+- [Epic scale of Russia's military corruption](https://twitter.com/chriso_wiki/status/1539019204267057153)

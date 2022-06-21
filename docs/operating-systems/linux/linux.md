@@ -551,3 +551,4 @@ title: Linux
 - [traffico](https://github.com/leodido/traffico) - Shape your traffic the BPF way.
 - [CoverBee](https://github.com/dylandreimerink/coverbee) - Code coverage collection tool for eBPF programs.
 - [distri](https://github.com/distr1/distri) - Linux distribution to research fast package management.
+- [Pipes, deadlocks, and strace annoyingly fixing them (2022)](https://changelog.complete.org/archives/10388-pipes-deadlocks-and-strace-annoyingly-fixing-them)

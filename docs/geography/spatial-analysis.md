@@ -218,3 +218,4 @@ title: Spatial analysis
 - [EOX](https://eox.at/) - Geospatial engineering and service company based in Austria. ([Twitter](https://twitter.com/eox_a))
 - [Rust-Geohash](https://github.com/georust/geohash) - Rust library for Geohash algorithm.
 - [Allmaps viewer](https://viewer.allmaps.org/) ([Code](https://github.com/allmaps/viewer))
+- [On leaving Mapbox after 12 years (2022)](https://trashmoon.com/blog/2022/reflections-on-12-years-at-mapbox/) ([HN](https://news.ycombinator.com/item?id=31812401))

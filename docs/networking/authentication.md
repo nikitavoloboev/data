@@ -239,3 +239,4 @@
 - [SAML Jackson](https://github.com/boxyhq/jackson) - SAML SSO service designed as an OAuth 2.0 flow. Integrate SAML with just a few lines of code.
 - [Apple Passkey](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys) ([HN](https://news.ycombinator.com/item?id=31643917))
 - [Is "acceptably non-dystopian" self-sovereign identity even possible? (2022)](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
+- [diridp: replace access keys with public key crypto (2022)](https://stephank.nl/p/2022-06-20-diridp-replace-access-keys-with-public-key-crypto.html) ([Lobsters](https://lobste.rs/s/x2ytct/diridp_replace_access_keys_with_public))

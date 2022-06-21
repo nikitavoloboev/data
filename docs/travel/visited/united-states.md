@@ -148,3 +148,5 @@ I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mear
 - [How to Stack Tax Benefits for Even More Savings (2021)](https://www.madfientist.com/stack-tax-benefits/)
 - [FreeWorld](https://www.joinfreeworld.com/) - Aims to end generational poverty and recidivism through economic mobility. ([Tweet](https://twitter.com/Austen/status/1530614256898408448))
 - [Chesa Boudin Recall: How San Francisco Became a Failed City (2022)](https://www.theatlantic.com/ideas/archive/2022/06/how-san-francisco-became-failed-city/661199/)
+- [Are there any areas in the U.S. that have a European vibe? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/vgukxm/are_there_any_areas_in_the_us_that_have_a/)
+- [In your opinion, what do certain American cities represent? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/vhcet9/in_your_opinion_what_do_certain_american_cities/)

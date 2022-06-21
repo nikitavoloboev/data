@@ -288,3 +288,4 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Blog engine in Deno](https://github.com/Xe/xn--g28h)
 - [Proselog](https://proselog.com/) - Open Blogging Platform. ([Code](https://github.com/proselog/proselog))
 - [Twenty years of my blog (2022)](https://simonwillison.net/2022/Jun/12/twenty-years/) ([HN](https://news.ycombinator.com/item?id=31727464))
+- [Old-school blogging, retro computers, and decentralization (2022)](https://andregarzia.com/2022/05/Old-school-blogging-retro-computers-and-decentralisation.html) ([Lobsters](https://lobste.rs/s/m5d4xo/old_school_blogging_retro_computers))

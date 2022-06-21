@@ -50,3 +50,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [Who do we spend time with across our lifetime? (2020)](https://ourworldindata.org/time-with-others-lifetime) ([HN](https://news.ycombinator.com/item?id=25385833))
 - [gotz](https://github.com/merschformann/gotz) - CLI time zone info.
 - [What time works for you?](https://time.antfu.me/) - Time scheduler for multiple time zones. ([Code](https://github.com/antfu/what-time))
+- [We have 3 space dimensions but only one dimension of time. Why is there just one time? What would happen if there were more time dimensions?](https://twitter.com/martinmbauer/status/1538476301614567424)

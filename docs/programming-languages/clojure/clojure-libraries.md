@@ -236,6 +236,7 @@
 - [Schema](https://github.com/plumatic/schema) - Clojure(Script) library for declarative data description and validation.
 - [Carve](https://github.com/borkdude/carve) - Carve out the essentials of your Clojure app.
 - [Muotti](https://github.com/esuomi/muotti) - Graph based value transformer library which aims to solve value transformation.
+- [Mate](https://github.com/green-coder/mate) - Useful functions, some of which I wish were in the Clojure standard library.
 
 ## Links
 

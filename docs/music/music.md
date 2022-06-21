@@ -217,3 +217,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [What's the best use of music in film or TV?](https://twitter.com/benallenwf/status/1531206341188108290)
 - [Dear Spotify, can we just get table of songs?](https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs/) ([HN](https://news.ycombinator.com/item?id=31618092))
 - [Ricky's personal music library of non-copyrighted music](https://drive.google.com/drive/folders/1YzDtwj6my5hHU7eknGg1BtPpaTyQWmDz) ([Tweet](https://twitter.com/RickleVR/status/1538188755982372864))
+- [Electronic Sound](https://electronicsound.co.uk/) - Electronic music magazine.
