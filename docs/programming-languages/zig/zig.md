@@ -125,3 +125,4 @@ title: Zig
 - [Zig PyPI distribution](https://github.com/ziglang/zig-pypi) - Zig programming language, packaged for PyPI. Lets you run Zig code from Python easily. ([Tweet](https://twitter.com/simonw/status/1528742284241408001))
 - [Mixins in Zig](https://igor84.github.io/blog/mixins-in-zig/) ([HN](https://news.ycombinator.com/item?id=31765551))
 - [Learn Zig by examples](https://zig-by-example.github.io/) ([Code](https://github.com/zig-by-example/zig-by-example.github.io))
+- [Paid Zig Stream (2022)](https://www.youtube.com/watch?v=eIX9zER9vjY)
