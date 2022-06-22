@@ -804,3 +804,4 @@
 - [Awesome Prompting Papers in Computer Vision](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision)
 - [EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation (2022)](https://arxiv.org/abs/2203.13254) ([Code](https://github.com/tjiiv-cprg/EPro-PnP))
 - [GenDR: A Generalized Differentiable Renderer (2022)](https://arxiv.org/abs/2204.13845) ([Code](https://github.com/Felix-Petersen/gendr))
+- [Elucidating the Design Space of Diffusion-Based Generative Models (2022)](https://arxiv.org/abs/2206.00364) ([Code](https://github.com/crowsonkb/k-diffusion))
