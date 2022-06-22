@@ -847,3 +847,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Self-Supervised Learning from Images: Up-to-date reading list](https://github.com/wvangansbeke/Self-Supervised-Learning-Overview)
 - [How robust are pre-trained models to distribution shift? (2022)](https://arxiv.org/abs/2206.08871)
 - [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge (2022)](https://arxiv.org/abs/2206.08853) ([Code](https://github.com/MineDojo/MineDojo))
+- [MLOPs Primer](https://github.com/dair-ai/MLOPs-Primer) - Collection of resources to learn about MLOPs.

@@ -59,3 +59,4 @@
 - [Rainbow Sprinkles](https://github.com/wayfair-incubator/rainbow-sprinkles) - Dynamic, theme-driven, style props for vanilla-extract.
 - [Comptime CSS](https://github.com/Mokshit06/comptime-css)
 - [CSS(SCSS/SASS) to vanilla-extract](https://css-to-vanilla-extract.netlify.app/) - Generate vanilla-extract typescript file from the CSS (SCSS/SASS) file.
+- [Airbnb's Trip to Linaria (2022)](https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12)

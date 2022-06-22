@@ -146,3 +146,4 @@
 - [Eventsim](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
 - [Some thoughts on naming tests (2022)](https://blog.ploeh.dk/2022/06/13/some-thoughts-on-naming-tests/)
 - [Awesome Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing)
+- [“Don’t Mock What You Don’t Own” in 5 Minutes (2022)](https://hynek.me/articles/what-to-mock-in-5-mins/)

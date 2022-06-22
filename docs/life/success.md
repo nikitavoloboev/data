@@ -1,6 +1,6 @@
 # Success
 
-Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523998943150083) and doing what you love.
+Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523998943150083), doing what you love & [sharing what you learned](https://twitter.com/NavalismHQ/status/1539192654264782849).
 
 ## Notes
 

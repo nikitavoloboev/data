@@ -12,7 +12,7 @@ I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and [
 
 If I need to use the coins, I transfer it to to [Glow Wallet](https://glow.app/) ([Phantom Wallet](https://phantom.app/) is nice too). Staking in [Marinade](https://marinade.finance/app/staking) is also great as you can use mSOL you get back in some [mSOL liquidity pool](https://marinade.finance/app/mnde) or [Solend](https://solend.fi) (not sure how useful that is) or some other way. If I need liquidity, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out. That is if I don't use FTX staking itself (it has issue of waiting for longer time to get funds back from unstaking).
 
-Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solana/comments/r2e6pj/hello_this_is_my_first_post_here_as_i_recently/hm4ebiy/), [Render Network](https://rendertoken.com/) is interesting too. [Raydium](https://beta.raydium.io/) looks like a great DeFi platform.
+Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solana/comments/r2e6pj/hello_this_is_my_first_post_here_as_i_recently/hm4ebiy/), [Render Network](https://rendertoken.com/) is interesting too. [Raydium](https://beta.raydium.io/) looks like a great DeFi platform. [NFToken](https://nftoken.so/) is [nice for minting NFTs](https://twitter.com/VictorPontis/status/1538982084080979969).
 
 I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md) including SOL as I am still trying to understand how truly useful this technology is. Thus far I see a clear use case for [Monero](../../cryptocurrencies/monero.md) to buy things safely that [government does not allow for whatever archaic reasons](../../drugs/psychedelics/psychedelics.md). I think this space moves very fast though so maybe something truly groundbreaking comes along. Perhaps it's [micro transactions](https://news.ycombinator.com/item?id=31386483) (currently not possible due to Mastercard/Visa monopoly on online transactions and their 3% fees).
 
@@ -261,7 +261,7 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Monolithic vs Modular blockchain debate with Solana founder (2022)](https://youtu.be/35_rr8Vf-4k?t=27635)
 - [Glow JS](https://github.com/luma-team/glow-js) - Integrate the Glow Solana Wallet into your dApp.
 - [Solana Development Course](https://github.com/Unboxed-Software/solana-course)
-- [New Solana NFT Standard](https://github.com/glow-xyz/nftoken)
+- [NFToken](https://nftoken.so/) - Simple, inexpensive Solana NFT Standard. ([Code](https://github.com/glow-xyz/nftoken)) ([Tweet](https://twitter.com/VictorPontis/status/1538982084080979969))
 - [Sugar](https://github.com/metaplex-foundation/sugar) - Candy Machine Rust CLI. ([HN](https://news.ycombinator.com/item?id=31302395))
 - [Cronos](https://github.com/cronos-so/cronos) - Automate on-chain programs and schedule transactions directly with the Solana validator network. ([Web](https://www.cronos.so/))
 - [solana-deployer](https://github.com/acheroncrypto/solana-deployer) - Deploy your Solana programs during high load.
@@ -279,3 +279,4 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [The Zeitgeist Podcast](https://overcast.fm/itunes1626229000/the-zeitgeist) - Brian Friel and the Phantom team highlight the founders, developers, and designers who are pushing Web3 forward.
 - [idl-macro](https://github.com/saber-hq/idl-macro) - Generates an Anchor CPI crate from a JSON IDL.
 - [tulipv2-sdk](https://github.com/sol-farm/tulipv2-sdk) - Rust SDK for tulip v2 vaults and v1 lending instructions.
+- [Formfunction](https://formfunction.xyz/) - Solana NFT marketplace designed for independent artists and creators. ([Twitter](https://twitter.com/formfunction))

@@ -178,3 +178,5 @@ title: Genomics
 - [starfish](https://github.com/spacetx/starfish) - Scalable pipelines for image-based transcriptomics.
 - [alv](https://github.com/arvestad/alv) - View your DNA or protein multiple-sequence alignments right at your command line.
 - [New CRISPR-based map ties every human gene to its function (2022)](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609) ([HN](https://news.ycombinator.com/item?id=31695881))
+- [fgbio](https://github.com/fulcrumgenomics/fgbio) - Tools for working with genomic and high throughput sequencing data.
+- [Dagr](https://github.com/fulcrumgenomics/dagr) - Task and pipeline execution system for directed acyclic graphs to support scientific, and more specifically, genomic analysis workflows.

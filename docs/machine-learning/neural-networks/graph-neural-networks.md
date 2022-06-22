@@ -119,3 +119,4 @@
 - [Sampling for Heterogeneous GNNs](https://github.com/Eurus-Holmes/Heterogeneous_Sampling)
 - [TensorFlow implementations of Graph Neural Networks](https://github.com/microsoft/tf-gnn-samples)
 - [gtrick](https://github.com/sangyx/gtrick) - Bag of Tricks for Graph Neural Networks.
+- [How Airbnb is using Graph Convolutional Networks in production (2022)](https://medium.com/airbnb-engineering/graph-machine-learning-at-airbnb-f868d65f36ee)

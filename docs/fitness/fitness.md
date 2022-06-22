@@ -8,6 +8,8 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 
 [Sergey Kharkow](https://www.instagram.com/sergeykharkow/) has the ideal body type in my eyes but it's a lot of effort to get/maintain it. [Fitness Wiki](https://thefitness.wiki/) is a [great read](https://www.reddit.com/r/leangains/comments/uwqhu1/how_do_i_go_from_skinny_fat_to_a_lean_build/).
 
+[Andy Galpin's interview](https://www.youtube.com/watch?v=IAnhFUUCq6c&t=500s) is insightful.
+
 ## Notes
 
 - Exercise helps make better use of the foods you are eating and produces the hormones you need to think clearly.
@@ -67,3 +69,4 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [How to Walk (12 miles a day)](https://walkingtheworld.substack.com/p/how-to-walk-12-miles-a-day?s=r) ([HN](https://news.ycombinator.com/item?id=31250001))
 - [How do I go from skinny fat to a lean build?](https://www.reddit.com/r/leangains/comments/uwqhu1/how_do_i_go_from_skinny_fat_to_a_lean_build/)
 - [How to Do a Handstand: Get Your First Handstand in 30 Days (2022)](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)
+- [Dr. Andy Galpin: How to Build Strength, Muscle Size & Endurance | Huberman Lab Podcast (2022)](https://www.youtube.com/watch?v=IAnhFUUCq6c)

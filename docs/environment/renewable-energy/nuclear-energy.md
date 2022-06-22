@@ -4,7 +4,7 @@ title: Nuclear energy
 
 # [Nuclear energy](https://en.wikipedia.org/wiki/Nuclear_power)
 
-Nuclear energy [gets a bad reputation but its the future of renewable energy](https://twitter.com/Austen/status/1516932518288629760). Would love to invest & learn more about it.
+Nuclear energy [gets a bad reputation but its the future of renewable energy](https://twitter.com/Austen/status/1516932518288629760). High chance [fusion is likely and will be achieved by 2040](https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion).
 
 ## Notes
 
@@ -67,3 +67,4 @@ Nuclear energy [gets a bad reputation but its the future of renewable energy](ht
 - [How to Keep 600 Kilograms of Kazakh Highly Enriched Uranium Safe (2022)](https://warontherocks.com/2022/04/project-sapphire-how-to-keep-600-tons-of-kazakh-highly-enriched-uranium-safe/) ([HN](https://news.ycombinator.com/item?id=30902890))
 - [First Light (Oxford University spinout) achieves nuclear fusion](https://firstlightfusion.com/media/fusion) ([HN](https://news.ycombinator.com/item?id=30917750))
 - [The Quest for Fusion Energy (2022)](https://inference-review.com/article/the-quest-for-fusion-energy) ([HN](https://news.ycombinator.com/item?id=31540846))
+- [Your Book Review: The Future Of Fusion Energy (2022)](https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion) - Primer on fusion and why it's likely we achieve it by 2040.

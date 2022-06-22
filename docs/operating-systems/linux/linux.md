@@ -552,3 +552,5 @@ title: Linux
 - [CoverBee](https://github.com/dylandreimerink/coverbee) - Code coverage collection tool for eBPF programs.
 - [distri](https://github.com/distr1/distri) - Linux distribution to research fast package management.
 - [Pipes, deadlocks, and strace annoyingly fixing them (2022)](https://changelog.complete.org/archives/10388-pipes-deadlocks-and-strace-annoyingly-fixing-them)
+- [Linux Kernel Development Book (2003)](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/Linux/Linux%20Kernel%20Development,%203rd%20Edition.pdf)
+- [Linux Block IO: Introducing Multi-queue SSD Access on Multi-core Systems](https://kernel.dk/blk-mq.pdf)

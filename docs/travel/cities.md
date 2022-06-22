@@ -5,6 +5,7 @@
 - [Rough draft of my campaign platform: More bikes. More trees. More housing. End car dependency. End lawns. End conforming new construction to neighborhood character oh my god we have enough historic stuff just give a new generation a chance to try their hand.](https://twitter.com/zachklein/status/1440780815131033600)
 - [A developed country is not a place where the poor have cars. It’s where the rich use public transportation.](https://twitter.com/zachklein/status/1457012008730120201)
 - [Mixed-use (housing on top of stores) is good.](https://twitter.com/jake_gotta/status/1466189950135640065)
+- [Big parks are good for long walks/runs/bikes. I think if I built a city I would make a connected network of linear parks covering the whole city (plus some big ones), and enforce a rule that every single point in the city must be within 500m of the network.](https://twitter.com/VitalikButerin/status/1539341115232493575)
 
 ## Links
 

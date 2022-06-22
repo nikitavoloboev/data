@@ -102,6 +102,7 @@ It includes:
 - [The Lunar Society](https://anchor.fm/dwarkeshpatel) - Host Dwarkesh Patel interviews economists, scientists, and philosophers about their big ideas.
 - [SmartLess](https://www.smartless.com/) - Comedy podcast hosted by Sean Hayes, Jason Bateman & Will Arnett. ([Twitter](https://twitter.com/SmartLess?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor))
 - [Up Only](https://uponly.tv/) - Crypto podcast with Cobie & Ledger. ([Twitter](https://twitter.com/uponlytv))
+- [Huberman Lab](https://hubermanlab.com/)
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 

@@ -12,6 +12,8 @@ I try to maximize my [happiness](../life/happiness.md) and quality of life throu
 
 These health focuses are part of my [life rules](../focusing/rules.md).
 
+Like listening to [Andrew Huberman](https://www.youtube.com/c/AndrewHubermanLab/videos) & [Rhonda Patrick](https://www.youtube.com/c/FoundMyFitness/videos) for health tips.
+
 ## Notes
 
 - [Great comment on staying healthy](https://www.reddit.com/r/longevity/comments/7hwgo7/for_people_in_their_young_or_middle_ages_now_who/).
@@ -74,3 +76,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [Paloma](https://www.palomahealth.com/) - Online Medical Practice Focused on Hypothyroidism.
 - [Ceiling Air Purifier](https://www.jefftk.com/p/ceiling-air-purifier)
 - [The Truth About Dentistry (2019)](https://www.theatlantic.com/magazine/archive/2019/05/the-trouble-with-dentistry/586039/) ([HN](https://news.ycombinator.com/item?id=31790226))
+- [Andrew Huberman - YouTube](https://www.youtube.com/c/AndrewHubermanLab/videos)

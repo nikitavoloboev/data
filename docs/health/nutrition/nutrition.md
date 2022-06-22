@@ -4,7 +4,9 @@
 
 Knowing this, I eat [whole food, plant based diet](foods.md) & [supplementing](supplements.md) where necessary.
 
-I only drink water and tea with occasional coffee. No sugar in food/drinks. I love exploring [new and interesting vegan recipes](recipes.md).
+I try drink only water/tea with occasional coffee. No added sugar in food/drinks. I love exploring [new and interesting vegan recipes](recipes.md).
+
+[Rhonda Patrick's interview](https://www.youtube.com/watch?v=XcvhERcZpWw&t=582s) is insightful.
 
 ## Notes
 
@@ -87,3 +89,4 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. I lo
 - [Tips on getting your gut healthier (2022)](https://www.reddit.com/r/nutrition/comments/swv9rn/does_anyone_have_any_tips_on_getting_your_gut/)
 - [Interesting facts about food/nutrition](https://www.reddit.com/r/nutrition/comments/t3lfwh/what_are_the_most_mind_blowing_or_interesting/)
 - [Everything is apparently unhealthy. What are you supposed to eat?](https://www.reddit.com/r/nutrition/comments/vbnl0i/everything_is_apparently_unhealthy_what_are_you/)
+- [Dr. Rhonda Patrick: Micronutrients for Health & Longevity (2022)](https://www.youtube.com/watch?v=XcvhERcZpWw)

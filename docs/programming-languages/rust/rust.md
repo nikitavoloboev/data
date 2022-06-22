@@ -827,3 +827,4 @@ title: Rust
 - [Unsafe code highlighting with rust-analyzer (2022)](https://veykril.github.io/posts/semantic-unsafe/)
 - [Experimenting with Rust in Chromium](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md) ([HN](https://news.ycombinator.com/item?id=31830020))
 - [lockbud](https://github.com/BurtonQin/lockbud) - Statically detect deadlocks bugs for Rust.
+- [Passing small types by value vs by reference comparison](https://twitter.com/TartanLlama/status/1539307295632691200)

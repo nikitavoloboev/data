@@ -65,3 +65,4 @@ Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/
 - [Vintage clothes thread](https://twitter.com/mountainscrave/status/1521834975406043136)
 - [Clothes inspiration thread (2022)](https://twitter.com/EmilybyNight/status/1526698797471891456)
 - [SHEIN](https://www.shein.com/) ([Not good for environment](https://www.youtube.com/watch?v=U4km0Cslcpg))
+- [Men's slim fit t shirt suggestions](https://twitter.com/anothercohen/status/1539445530698326018)

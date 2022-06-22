@@ -134,3 +134,4 @@
 - [Markdown-Tag](https://github.com/MarketingPipeline/Markdown-Tag) - Add Markdown to any HTML using a \<md\> tag.
 - [discord-markdown](https://github.com/brussell98/discord-markdown) - Markdown parser for Discord messages.
 - [present](https://github.com/terror/present) - Put some shell in your markdown.
+- [femark](https://github.com/benwis/femark) - Markdown to HTML compiler and Syntax Highlighter, built using Rust's pulldown-cmark and tree-sitter-highlight crates. ([Article](https://benw.is/posts/compiling-markdown))

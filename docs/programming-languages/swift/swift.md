@@ -298,3 +298,4 @@ title: Swift
 - [ARC in Swift: Basics and beyond - WWDC21](https://developer.apple.com/videos/play/wwdc2021/10216/)
 - [plSwift](https://plswift.com/) - Swift Conference in Central Europe. ([Twitter](https://twitter.com/swift_pl))
 - [Swift interop from Frida](https://github.com/frida/frida-swift-bridge)
+- [Understanding the "some" and "any" keywords in Swift 5.7 (2022)](https://swiftsenpai.com/swift/understanding-some-and-any/)

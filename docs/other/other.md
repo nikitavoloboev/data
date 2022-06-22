@@ -141,7 +141,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Project Lovelace](https://projectlovelace.net/) - Bunch of free scientific programming problems.
 - [Utopian developer's manifesto](https://github.com/cristaloleg/awesome-manifesto)
 - [Webcodesk](https://github.com/webcodesk/webcodesk-srv) - Web Application Builder.
-- [Backstage](https://github.com/spotify/backstage) - Open platform for building developer portals. ([Web](https://backstage.io/))
+- [Backstage](https://github.com/backstage/backstage) - Open platform for building developer portals. ([Web](https://backstage.io/)) ([Actions](https://github.com/backstage/actions))
 - [Ask HN: Best Stripe Alternatives? (2020)](https://news.ycombinator.com/item?id=22596082)
 - [Incrementally Correct Personal Websites](https://brianlovin.com/overthought/incrementally-correct-personal-websites)
 - [Mumble](https://github.com/mumble-voip/mumble) - Open-Source, Low Latency, High Quality Voice Chat. ([Web](https://www.mumble.info/)) ([HN](https://news.ycombinator.com/item?id=27648915))
@@ -635,3 +635,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [circumflex](https://github.com/bensadeh/circumflex) - Command line tool for browsing Hacker News in your terminal.
 - [What’s a scam that’s become so normalized that we don’t realize it’s a scam anymore?](https://twitter.com/LizzieCosmos/status/1537427575957606401)
 - [Permacomputing Wiki](https://permacomputing.net/) ([HN](https://news.ycombinator.com/item?id=31828615))
+- [What's a scam that's become so normalized that we don't even realize it's a scam anymore?](https://twitter.com/austin_rief/status/1539280043796582400)

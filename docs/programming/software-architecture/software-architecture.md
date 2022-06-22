@@ -244,3 +244,5 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Evolutionary Architecture](https://github.com/alextanhongpin/evolutionary-architecture) - Collection of best practices when designing an server-side and client-side architecture.
 - [Learnings from clean architecture](https://github.com/alextanhongpin/clean-architecture-learn)
 - [The cost of convenience (2022)](https://surma.dev/things/cost-of-convenience/)
+- [Tools for managing (i.e. analysing and enforcing) the architecture of your code base](https://twitter.com/gunnarmorling/status/1539247911544008707)
+- [Blackbird: A reference architecture for local-first connected mobile apps (2022)](https://blog.metaobject.com/2022/06/blackbird-simple-reference-architecture.html)

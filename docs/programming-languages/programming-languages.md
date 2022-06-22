@@ -2,7 +2,7 @@
 
 There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-math-to-machine.html) that goes over how one program can be written in different languages from the most abstract level of Math to Haskell to C to Assembly to actual machine code.
 
-[Crafting Interpreters](https://craftinginterpreters.com/) is an amazing book. [Exercism](https://exercism.org/) is a nice tool for language practice.
+[Crafting Interpreters](https://craftinginterpreters.com/) is an [amazing book](https://chidiwilliams.com/post/crafting-interpreters-a-review/). [Exercism](https://exercism.org/) is a nice tool for language practice.
 
 ## Notes
 

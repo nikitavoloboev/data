@@ -162,6 +162,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Cmdr Coriander](https://commandercoriander.net/)
 - [Ryan Kaplan](https://www.rykap.com/)
 - [Artem Tyurin](https://agentcooper.io/)
+- [Chidi Williams](https://chidiwilliams.com/)
 
 ## Notes
 

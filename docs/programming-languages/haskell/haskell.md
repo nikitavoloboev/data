@@ -438,3 +438,4 @@ title: Haskell
 - [Beginner's guide to Haskell optimization](https://github.com/frizensami/haskell-optimization)
 - [MHC](https://github.com/bydriv/mhc) - Minimal Haskell Compiler.
 - [Awesome Learning Haskell](https://github.com/tweag/awesome-learning-haskell)
+- [Variance and Subtyping (2021)](https://1computer1.github.io/posts/variance-and-subtyping/)

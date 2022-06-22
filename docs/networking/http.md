@@ -4,7 +4,7 @@ title: HTTP
 
 # [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
-[Caddy](https://caddyserver.com/) is great. [HTTPie](https://github.com/httpie/httpie) & [HTTP Toolkit](https://httptoolkit.tech/) are useful.
+[Caddy](https://caddyserver.com/) is great. [HTTPie](https://github.com/httpie/httpie) & [HTTP Toolkit](https://httptoolkit.tech/) are useful. [HTTP Docs](https://httpwg.org/specs/) has nice overview.
 
 [Status code summary](https://twitter.com/tlakomy/status/1528499152472129536) ([as cats](https://http.cat/)):
 
@@ -274,3 +274,5 @@ title: HTTP
 - [waitehr](https://github.com/gajus/waitehr) - CLI program that waits for HTTP response and retries request until the expected response is received.
 - [A Cloudflare view of HTTP usage trends (2022)](https://blog.cloudflare.com/cloudflare-view-http3-usage/)
 - [HTTP/3 Deep Dive (2020)](https://ably.com/topic/http3)
+- [HTTP Documentation](https://httpwg.org/specs/) - All the HTTP core specs + extensions, neatly filed on a single page.
+- [Yet More New HTTP Specs (2022)](https://www.mnot.net/blog/2022/06/08/http-extensions)

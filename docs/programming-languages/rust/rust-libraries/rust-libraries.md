@@ -166,6 +166,7 @@
 - [HTTP Body](https://github.com/hyperium/http-body) - Asynchronous HTTP body trait.
 - [FeignHTTP](https://github.com/dxx/feignhttp) - Declarative HTTP client for rust.
 - [Tokamak](https://github.com/jkelleyrtp/tokamak) - Simple WebFramework for real time apps.
+- [hyper-reverse-proxy](https://github.com/felipenoris/hyper-reverse-proxy) - Simple reverse proxy for use with Hyper and Tokio.
 
 ## WASM
 

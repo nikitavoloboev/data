@@ -370,3 +370,4 @@ title: Reinforcement learning
 - [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem (2022)](https://arxiv.org/abs/2205.14953) ([HN](https://news.ycombinator.com/item?id=31628359))
 - [Reinforcement Learning with Neural Radiance Fields (2022)](https://arxiv.org/abs/2206.01634) ([Web](https://dannydriess.github.io/nerf-rl/))
 - [Recurrent Model-Free RL Can Be a Strong Baseline for Many POMDPs (2022)](https://arxiv.org/abs/2110.05038) ([Code](https://github.com/twni2016/pomdp-baselines))
+- [Offline RL for Natural Language Generation with Implicit Language Q Learning](https://sea-snell.github.io/ILQL_site/) ([Code](https://github.com/Sea-Snell/Implicit-Language-Q-Learning))

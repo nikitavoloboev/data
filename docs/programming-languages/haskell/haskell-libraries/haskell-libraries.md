@@ -72,6 +72,7 @@
 - [on-error](https://github.com/Simspace/on-error) - Clearly-delineated error-handling.
 - [annotated-exception](https://github.com/parsonsmatt/annotated-exception) - Provides a special AnnotatedException type which allows you to decorate Haskell exceptions with additional information.
 - [safe-exceptions](https://github.com/fpco/safe-exceptions) - Safe, consistent, and easy exception handling.
+- [Errata](https://github.com/1Computer1/errata) - Extremely customizable error pretty printer that can handle many kinds of error formatting.
 
 ## Graphics
 
@@ -340,6 +341,8 @@
 - [binrep](https://github.com/raehik/binrep) - Useful, efficient, precise binary schema modelling in Haskell.
 - [log](https://github.com/scrive/log) - Structured logging solution.
 - [Boltzmann Brain](https://github.com/maciej-bendkowski/boltzmann-brain) - Haskell library and set of standalone applications meant for random generation of combinatorial structures.
+- [Parser combinators](https://github.com/mrkkrp/parser-combinators) - Lightweight package providing commonly useful parser combinators.
+- [Hectoparsec](https://github.com/1Computer1/hectoparsec) - Flexible and powerful parser combinators for Haskell.
 
 ## Notes
 

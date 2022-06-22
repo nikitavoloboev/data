@@ -88,3 +88,4 @@ title: Idris
 - [LightClick](https://github.com/border-patrol/lightclick) - Linearly typed orchestration language for Systems-on-a-Chip Designs that supports lightweight dependent types in the form of domain-specific indexed-types.
 - [tyttp](https://github.com/kbertalan/tyttp) - Type safe experimental web framework for Idris2 targeting nodeJS.
 - [Newtype, Generic Interface Deriving in Idris](https://github.com/MarcelineVQ/idris2-newtype-deriving)
+- [idris2-filepath](https://github.com/stefan-hoeck/idris2-filepath) - Unix style file paths in Idris2.

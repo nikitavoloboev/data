@@ -102,3 +102,4 @@ title: Lean
 - [Lean Ipld](https://github.com/yatima-inc/Ipld.lean) - Lean4 implementation of the IPLD format.
 - [Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/)
 - [Lake](https://github.com/leanprover/lake) - Lean 4 build system and package manager with configuration files written in Lean.
+- [Lean-Chat](https://github.com/zhangir-azerbayev/lean-chat) - OpenAI Codex-powered chat interface for translating natural language theorem statements into Lean mathlib.

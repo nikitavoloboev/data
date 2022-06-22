@@ -298,3 +298,4 @@
 - [Friends don’t let friends train small diffusion models (2022)](https://nonint.com/2022/05/04/friends-dont-let-friends-train-small-diffusion-models/) ([HN](https://news.ycombinator.com/item?id=31513714))
 - [Physicists are building neural networks out of vibrations, voltages and lasers (2022)](https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/) ([HN](https://news.ycombinator.com/item?id=31579873))
 - [Techniques for Training Large Neural Networks (2022)](https://openai.com/blog/techniques-for-training-large-neural-networks/) ([HN](https://news.ycombinator.com/item?id=31682887))
+- [How fast can we perform a forward pass? (2022)](https://bounded-regret.ghost.io/how-fast-can-we-perform-a-forward-pass/) - How fast can you run a transformer model? ([Tweet](https://twitter.com/JacobSteinhardt/status/1539286865500438528))
