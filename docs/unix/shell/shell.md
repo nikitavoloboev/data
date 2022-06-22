@@ -26,7 +26,7 @@ All active variables can be seen by running `env`.
 
 ## Links
 
-- [Effective Shell](https://effective-shell.com/) ([Code](https://github.com/dwmkerr/effective-shell))
+- [Effective Shell](https://effective-shell.com/) ([Code](https://github.com/dwmkerr/effective-shell)) ([HN](https://news.ycombinator.com/item?id=31830676))
 - [Explain Shell](https://explainshell.com/) - Enter a command to see help text for each arg. ([HN](https://news.ycombinator.com/item?id=31559065))
 - [Introduction to POSIX Shell](http://drewdevault.com/2018/02/05/Introduction-to-POSIX-shell.html)
 - [Yoshua's notes](https://yoshuawuyts.gitbooks.io/knowledge/content/unix/shell.html)

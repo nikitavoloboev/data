@@ -47,7 +47,7 @@ title: QUIC
 - [SNOCAT](https://github.com/microsoft/snocat) - Framework for forwarding streams across authenticated, encrypted QUIC tunnels, from a tunnel aggregator to a dynamic set of clients.
 - [TUIC](https://github.com/EAimTY/tuic) - Delicately-TUICed high-performance proxy built on top of the QUIC protocol.
 - [QUICHE](https://github.com/google/quiche) - Google's production-ready implementation of QUIC, HTTP/2, HTTP/3, and related protocols and tools.
-- [Illustrated QUIC Connection: Every byte explained](https://github.com/syncsynchalt/illustrated-quic)
+- [Illustrated QUIC Connection: Every byte explained](https://quic.ulfheim.net/) ([Code](https://quic.ulfheim.net/)) ([HN](https://news.ycombinator.com/item?id=31817144))
 - [P2P-WebTransport](https://github.com/w3c/p2p-webtransport) - Interface to create and manage QUIC streams.
 - [DNS over Dedicated QUIC Connections](https://www.rfc-editor.org/rfc/rfc9250.html) ([HN](https://news.ycombinator.com/item?id=31380142))
 - [qsocks](https://github.com/net-byte/qsocks) - Socks5 proxy over QUIC.

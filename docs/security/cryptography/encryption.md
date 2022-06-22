@@ -85,3 +85,4 @@
 - [wage](https://github.com/str4d/wage) - WASM package and web app for encrypting and decrypting age-encrypted files, powered by rage. ([Web](https://rage-encry.pt/))
 - [Hands-on: X25519 Key Exchange](https://x25519.ulfheim.net/)
 - [TenSEAL](https://github.com/OpenMined/TenSEAL) - Library for doing homomorphic encryption operations on tensors.
+- [MEGA: Malleable Encryption Goes Awry](https://mega-awry.io/) ([HN](https://news.ycombinator.com/item?id=31829130))

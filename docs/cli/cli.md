@@ -135,3 +135,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Best practices for inclusive CLIs (2022)](https://seirdy.one/posts/2022/06/10/cli-best-practices/) ([Lobsters](https://lobste.rs/s/zsazbu/best_practices_for_inclusive_clis)) ([HN](https://news.ycombinator.com/item?id=31709317))
 - [tuc](https://github.com/riquito/tuc) - When cut doesn’t cut it. ([HN](https://news.ycombinator.com/item?id=31726472))
 - [linebyline](https://github.com/pylover/linebyline) - Command line text processor.
+- [Viddy](https://github.com/sachaos/viddy) - Modern watch command. Time machine and pager etc. ([HN](https://news.ycombinator.com/item?id=31829343))

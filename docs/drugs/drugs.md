@@ -70,3 +70,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Movies with accurate“drug trip sequences”](https://www.reddit.com/r/MovieSuggestions/comments/u3q6ux/movies_with_accuratedrug_trip_sequences/)
 - [Open Drug Discovery Toolkit (ODDT)](https://github.com/oddt/oddt) - Modular and comprehensive toolkit for use in cheminformatics, molecular modeling etc.
 - [Isomorphic Labs](https://www.isomorphiclabs.com/) - Reimagining the entire drug discovery process from first principles with an AI-first approach. ([Twitter](https://twitter.com/IsomorphicLabs))
+- [What's PCP "Angel Dust" Addiction Like? 5 Years Sober](https://www.youtube.com/watch?v=9cNgrvRlLOk)

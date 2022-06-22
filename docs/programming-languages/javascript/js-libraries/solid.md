@@ -102,3 +102,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Solid Service API](https://github.com/solidjs/solid-service-api) - Code that powers Solid Service API on Cloudflare Workers.
 - [Opinionated Vite Starter Template](https://github.com/olgam4/bat)
 - [Solid Custom Scrollbars](https://github.com/diragb/solid-custom-scrollbars)
+- [SolidJS: Reactivity Unchained – Ryan Carniato (2022)](https://www.youtube.com/watch?v=UhGV8yYnvQE)

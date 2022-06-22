@@ -410,6 +410,7 @@
 - [cuCollections](https://github.com/NVIDIA/cuCollections) - Open-source, header-only library of GPU-accelerated, concurrent data structures.
 - [BS::thread_pool](https://github.com/bshoshany/thread-pool) - Fast, lightweight, and easy-to-use C++17 thread pool library.
 - [Dem Bones](https://github.com/electronicarts/dem-bones) - Automated algorithm to extract the linear blend skinning (LBS) from a set of example poses.
+- [cubeb](https://github.com/mozilla/cubeb) - Cross platform audio library.
 
 ## Links
 

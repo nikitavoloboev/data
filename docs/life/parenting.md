@@ -79,3 +79,4 @@
 - [Life without kids? (2022)](https://www.reddit.com/r/AskMenOver30/comments/uhshf8/life_without_kids/)
 - [The One Parenting Decision That Really Matters (2022)](https://www.theatlantic.com/ideas/archive/2022/05/parenting-decisions-dont-trust-your-gut-book-excerpt/629734/)
 - [Parents’ trauma leaves biological traces in children (2022)](https://www.scientificamerican.com/article/how-parents-rsquo-trauma-leaves-biological-traces-in-children/) ([HN](https://news.ycombinator.com/item?id=31793682))
+- [Suggest me a book that will convince me to change my mind about having children](https://www.reddit.com/r/suggestmeabook/comments/vho0x6/please_suggest_me_a_book_that_will_convince_me_to/)

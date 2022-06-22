@@ -4,7 +4,7 @@ I keep a list of [games I want to play](https://www.grouvee.com/user/nikivi/shel
 
 I also keep a list of [all games I have played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) with a [list of my favorite games](https://www.grouvee.com/user/nikivi/shelves/53363-favorite/?num=25) I've played. I also [share thoughts on some games I played](https://www.grouvee.com/user/nikivi/reviews/).
 
-Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.leagueoflegends.com/en-gb/) on iPad. If I ever make a small game, [itch.io](https://itch.io/) seems like a nice marketplace.
+Recently I mostly just play [chess](chess.md) games on the phone, [Wild Rift](https://wildrift.leagueoflegends.com/en-gb/) on iPad or various games on PS5. If I ever make a small game, [itch.io](https://itch.io/) seems like a nice marketplace.
 
 ## Awesome Online games
 

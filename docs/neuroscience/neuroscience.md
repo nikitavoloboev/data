@@ -131,6 +131,7 @@ The way our brains take input from different senses (eyes, touch) and then decid
 - [You can trick your brain into thinking an object is your real hand and experience pain response](https://twitter.com/Imposter_Edits/status/1528888787388223488)
 - [NiChord](https://github.com/paulcbogdan/NiChord) - Python package for visualizing functional connectivity data.
 - [The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses (2022)](https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/) ([HN](https://news.ycombinator.com/item?id=31800684))
+- [Does one simple rule underlie learning in the brain? (2022)](https://actu.epfl.ch/news/does-one-simple-rule-underlie-learning-in-the-brai/) ([HN](https://news.ycombinator.com/item?id=31819980))
 
 ## Images
 

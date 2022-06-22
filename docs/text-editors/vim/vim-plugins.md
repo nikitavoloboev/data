@@ -81,6 +81,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [vim-floaterm](https://github.com/voldikss/vim-floaterm) - Use nvim/vim's builtin terminal in the floating/popup window.
 - [WakaTime](https://github.com/wakatime/vim-wakatime) - Automatic time tracking.
 - [Dash](https://github.com/rizzatti/dash.vim) - Search Dash app.
+- [Hydra.nvim](https://github.com/anuvyklack/hydra.nvim) - Bind a bunch of key bindings together.
 - [iron.nvim](https://github.com/hkupty/iron.nvim) - Interactive Repl Over Neovim.
 - [Leap.nvim](https://github.com/ggandor/leap.nvim) - Motion plugin that keeps you in the zone.
 - [vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - Plugin designed to make you better at vim by creating a game to practice basic movements in.

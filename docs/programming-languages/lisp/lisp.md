@@ -195,3 +195,4 @@
 - [Ask HN: What does a developer need to know to build their own Lisp from scratch? (2022)](https://news.ycombinator.com/item?id=31547765)
 - [hlisp](https://github.com/static-clouds/hlisp) - Lisp interpreter, written in Haskell.
 - [The First Lisp Compiler](https://texdraft.github.io/lisp-compiler/internals.html) ([HN](https://news.ycombinator.com/item?id=31582494))
+- [Learn Lisp The Hard Way](https://github.com/thephoeron/LLTHW)

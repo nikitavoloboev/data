@@ -209,4 +209,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [SQLite 3 Fiddle](https://sqlite.org/fiddle/) ([HN](https://news.ycombinator.com/item?id=31518618))
 - [Generating a GraphQL API from schema using SQLite](https://github.com/WilhelmBerggren/graphql-service-from-schema)
 - [The Design of SQLite4](https://sqlite.org/src4/doc/trunk/www/design.wiki) ([HN](https://news.ycombinator.com/item?id=31785170))
-- [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
+- [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations) ([HN](https://news.ycombinator.com/item?id=31824030))

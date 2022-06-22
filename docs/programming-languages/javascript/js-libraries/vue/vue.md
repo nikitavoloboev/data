@@ -180,3 +180,4 @@ title: Vue.js
 - [Vitesse Lite](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
 - [Vue Flow](https://github.com/bcakmakoglu/vue-flow) - Highly customizable Flowchart component for Vue 3.
 - [Vue Tips Collection](https://michaelnthiessen.com/vue-tips-collection)
+- [Vue Use State Effect](https://github.com/lukasborawski/vue-use-state-effect) - Fast and small library, built on top of the native Vue.js API that will provide a safe and sharable (across the app) state for your local composables and functions.

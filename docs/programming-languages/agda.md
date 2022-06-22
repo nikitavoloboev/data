@@ -97,3 +97,4 @@ title: Agda
 - [Formal verification of byzantine fault tolerant consensus in Agda](https://github.com/oracle/bft-consensus-agda)
 - [Agda Synthetic Domain Theory](https://github.com/jonsterling/agda-synthetic-domain-theory)
 - [Experiments with higher-order abstract syntax in Agda](https://github.com/arthuraa/agda-hoas-playground)
+- [Linear.agda](https://github.com/metaborg/linear.agda) - Agda library for programming with separation logic, based on proof-relevant separation algebras.

@@ -219,3 +219,4 @@ title: Spatial analysis
 - [Rust-Geohash](https://github.com/georust/geohash) - Rust library for Geohash algorithm.
 - [Allmaps viewer](https://viewer.allmaps.org/) ([Code](https://github.com/allmaps/viewer))
 - [On leaving Mapbox after 12 years (2022)](https://trashmoon.com/blog/2022/reflections-on-12-years-at-mapbox/) ([HN](https://news.ycombinator.com/item?id=31812401))
+- [Map Projection Transitions](https://www.jasondavies.com/maps/transition/) ([HN](https://news.ycombinator.com/item?id=31808785))

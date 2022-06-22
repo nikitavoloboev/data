@@ -437,3 +437,4 @@ title: Haskell
 - [Diving into GCC Internals](https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html) ([HN](https://news.ycombinator.com/item?id=31731145))
 - [Beginner's guide to Haskell optimization](https://github.com/frizensami/haskell-optimization)
 - [MHC](https://github.com/bydriv/mhc) - Minimal Haskell Compiler.
+- [Awesome Learning Haskell](https://github.com/tweag/awesome-learning-haskell)

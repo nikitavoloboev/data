@@ -568,6 +568,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Autodiff](https://github.com/pbenner/autodiff) - Numerical library for Go. Supports automatic differentiation.
 - [go3d](https://github.com/ungerik/go3d) - Performance oriented vector and matrix math package for 2D and 3D graphics.
 - [go-moremath](https://github.com/aclements/go-moremath) - Assortment of more specialized math routines for Go.
+- [gambas](https://github.com/jpoly1219/gambas) - Data analysis tool for Go. Similar to the famous Python library pandas.
 
 ## Biology
 
@@ -1701,6 +1702,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Spaniel](https://github.com/senseyeio/spaniel) - Time span handling for Go.
 - [Techan](https://github.com/sdcoffey/techan) - Technical analysis library for Go.
 - [flume](https://github.com/ThalesGroup/flume) - Structured, leveled logging with global, runtime reconfiguration.
+- [goforit](https://github.com/stripe/goforit) - Feature flags client library for Go.
 
 ## Links
 

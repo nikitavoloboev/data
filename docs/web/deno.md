@@ -274,3 +274,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Kitson Kelly's "Deno on the Edge" (2022)](https://www.youtube.com/watch?v=G_2AgdgEbkI)
 - [ytdl_core](https://github.com/DjDeveloperr/ytdl_core) - YouTube Video Downloader module for Deno using Web Streams API.
 - [wasmbuild](https://github.com/denoland/wasmbuild) - Tiny build tool for Deno and wasm_bindgen.
+- [HN: Deno raises $21M (2022)](https://news.ycombinator.com/item?id=31827387)

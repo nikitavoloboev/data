@@ -526,3 +526,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [How to simplify working with PostgreSQL time-series data (2022)](https://www.timescale.com/blog/introducing-hyperfunctions-new-sql-functions-to-simplify-working-with-time-series-data-in-postgresql/)
 - [Using Edge Functions in Supabase: A complete guide (2022)](https://blog.logrocket.com/using-edge-functions-supabase-complete-guide/)
 - [How to Find and Stop Running Queries on PostgreSQL (2022)](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/) ([HN](https://news.ycombinator.com/item?id=31809394))
+- [How we made data aggregation on PostgreSQL better and faster (2022)](https://www.timescale.com/blog/how-we-made-data-aggregation-better-and-faster-on-postgresql-with-timescaledb-2-7/) ([HN](https://news.ycombinator.com/item?id=31823592))

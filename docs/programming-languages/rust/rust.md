@@ -825,3 +825,5 @@ title: Rust
 - [Implementing strace in Rust (2022)](https://jakobwaibel.com/2022/06/06/ptrace/)
 - [ra-multiplex](https://github.com/pr2502/ra-multiplex) - Multiplex server for rust-analyzer, allows multiple LSP clients (editor windows) to share a single rust-analyzer instance per cargo workspace.
 - [Unsafe code highlighting with rust-analyzer (2022)](https://veykril.github.io/posts/semantic-unsafe/)
+- [Experimenting with Rust in Chromium](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md) ([HN](https://news.ycombinator.com/item?id=31830020))
+- [lockbud](https://github.com/BurtonQin/lockbud) - Statically detect deadlocks bugs for Rust.

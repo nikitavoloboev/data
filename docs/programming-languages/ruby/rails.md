@@ -168,3 +168,4 @@ title: Rails
 - [Ruby and Ruby on Rails bookmarks collection](https://github.com/dreikanter/ruby-bookmarks)
 - [Lograge](https://github.com/roidrage/lograge) - Taming Rails' Default Request Logging.
 - [Why We’re Sticking with Ruby on Rails at Gitlab (2022)](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/) ([HN](https://news.ycombinator.com/item?id=31726825))
+- [Avo](https://avohq.io/) - Configuration-based, no-maintenance, extendable Ruby on Rails admin. ([Code](https://github.com/avo-hq/avo)) ([HN](https://news.ycombinator.com/item?id=31824877))

@@ -156,3 +156,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Remix MDX](https://github.com/kentcdodds/remix-mdx)
 - [Remix Directory](https://remix.directory/) - Find the Remix stack that works for you. Or add your own. ([Code](https://github.com/nshki/remix-directory))
 - [Remix Routers](https://github.com/brophdawg11/remix-routers) - Collection of UI library implementations of the Remix Router.
+- [NextJS Data Patterns are Bad? I'm Coming Around To Remix... (2022)](https://www.youtube.com/watch?v=d6lKEV_3kxQ)

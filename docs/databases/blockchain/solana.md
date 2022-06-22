@@ -18,7 +18,7 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 
 ## Apps
 
-- [Holaplex](https://www.holaplex.com/) - Design and Host Your Metaplex NFT Storefront. ([Twitter](https://twitter.com/holaplex))
+- [Holaplex](https://www.holaplex.com/) - Design and Host Your Metaplex NFT Storefront. ([Twitter](https://twitter.com/holaplex)) ([Code](https://github.com/holaplex/holaplex))
 - [Zoolana](https://www.zoolana.com/#/) - P2P meeting app built on Solana.
 - [Sollectify](https://sollectify.com/) - Fast and easy to use NFT marketplace on Solana blockchain.
 - [Synthetify](https://synthetify.io/) - Decentralized synthetic assets exchange.

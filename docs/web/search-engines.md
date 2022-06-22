@@ -239,3 +239,5 @@
 - [SPLADE: sparse neural search](https://github.com/naver/splade)
 - [Lyra](https://github.com/nearform/lyra) - Fast, in-memory, full-text search engine written in TypeScript.
 - [Presearch](https://www.presearch.io/) - Decentralized Search Engine. ([Search](https://presearch.com/))
+- [How to declutter Google's search results page](https://mmazzarolo.com/blog/2022-06-19-making-google-search-less-annoying/) ([Lobsters](https://lobste.rs/s/ikghaw/how_declutter_google_s_search_results))
+- [A look at search engines with their own indexes (2021)](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/) ([HN](https://news.ycombinator.com/item?id=31820149))

@@ -277,3 +277,4 @@ title: React Native
 - [zeego](https://github.com/nandorojo/zeego) - Beautiful, native menus for React Native + Web, inspired by Radix UI.
 - [React Navigation Bottom Sheet](https://github.com/th3rdwave/react-navigation-bottom-sheet) - Bottom sheet navigator for React Navigation.
 - [React Native Zephyr](https://github.com/FormidableLabs/react-native-zephyr) - TailwindCSS-inspired styling library for React Native.
+- [React Native Performance](https://github.com/Shopify/react-native-performance) - Performance measurement for your React Native apps.

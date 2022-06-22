@@ -271,6 +271,7 @@ title: TypeScript
 - [type-trident](https://github.com/anuraghazra/type-trident) - Curated list of advanced type level madness.
 - [TypeScript runtime comparisons](https://github.com/privatenumber/ts-runtime-comparison)
 - [You Might Be Using Typescript Wrong (2022)](https://www.youtube.com/watch?v=RmGHnYUqQ4k)
+- [Just](https://github.com/sonnyt/just) - Zero config TypeScript build and development toolkit. ([HN](https://news.ycombinator.com/item?id=31814927))
 
 ## Images
 

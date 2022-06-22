@@ -35,7 +35,7 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Pounce](https://git.causal.agency/pounce/about/) - Multi-client, TLS-only IRC bouncer. ([Lobsters](https://lobste.rs/s/aezalh/pounce_new_irc_bouncer))
 - [HN: Many IRC servers (2020)](https://news.ycombinator.com/item?id=22892015)
 - [RobustIRC](https://robustirc.net/) - IRC without netsplits.
-- [Oragono](https://github.com/oragono/oragono) - Modern IRC server written in Go. ([HN](https://news.ycombinator.com/item?id=23113323))
+- [Ergo](https://github.com/ergochat/ergo) - Modern IRC server written in Go. ([HN](https://news.ycombinator.com/item?id=23113323)) ([Web](https://ergo.chat/)) ([HN](https://news.ycombinator.com/item?id=31832115))
 - [Synchronous Text (2019)](http://exple.tive.org/blarg/2019/04/26/synchronous-text/)
 - [Convos](https://convos.chat/) - Simplest way to use IRC in your browser. ([Code](https://github.com/Nordaaker/convos)) ([Article](https://serhack.me/articles/convos-web-client-persistent-irc/))
 - [Modern IRC Client Protocol](https://modern.ircdocs.horse/) ([Code](https://github.com/ircdocs/modern-irc))
