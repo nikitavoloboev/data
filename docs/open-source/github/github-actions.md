@@ -235,6 +235,7 @@ title: GitHub actions
 - [Commitlint Github Action](https://github.com/wagoid/commitlint-github-action) - Lints Pull Request commits with commitlint.
 - [Create GH Release action](https://github.com/taiki-e/create-gh-release-action) - GitHub Action for creating GitHub Releases based on changelog.
 - [Update GitHub Actions Permissions](https://github.com/pkgdeps/update-github-actions-permissions) - Update GitHub Actions's permissions automatically.
+- [Reviewpad GitHub Action](https://github.com/reviewpad/action) - GitHub action to supercharge your pull requests workflows.
 
 ## Go
 
@@ -527,3 +528,4 @@ title: GitHub actions
 - [A beginner’s guide to CI/CD and automation on GitHub (2022)](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
 - [GitHub Actions Playground](https://github.com/embano1/aktion)
 - [What's your favorite GitHub Action that not enough people know about?](https://twitter.com/martinwoodward/status/1536650478724988929)
+- [GitHub action to update dependencies](https://gist.github.com/giuseppeg/0ef7da2cb168ee4e3bb669b823fd0f67)

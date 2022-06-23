@@ -379,7 +379,7 @@ title: Rust
 - [Rust Careers](https://rust.careers/) - Find your next Rust job.
 - [Rust for Data-Intensive Computation (2020)](https://github.com/frankmcsherry/blog/blob/master/posts/2020-06-09.md)
 - [cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - Cache the dependencies of your Rust project and speed up your Docker builds. ([Article](https://www.lpalmieri.com/posts/fast-rust-docker-builds/))
-- [Zero To Production In Rust](https://www.zero2prod.com/) - Opinionated introduction to backend development. ([Code](https://github.com/LukeMathWalker/zero-to-production)) ([HN](https://news.ycombinator.com/item?id=27405395))
+- [Zero To Production In Rust](https://www.zero2prod.com/) - Opinionated introduction to backend development. ([Code](https://github.com/LukeMathWalker/zero-to-production)) ([HN](https://news.ycombinator.com/item?id=27405395)) ([Code](https://github.com/0xAlcibiades/zero2prod))
 - [So you want to write object oriented Rust (2020)](https://blog.darrien.dev/posts/so-you-want-to-object/)
 - [A practical guide to async in Rust (2020)](https://blog.logrocket.com/a-practical-guide-to-async-in-rust/)
 - [Why Dark didn't choose Rust (2020)](https://blog.darklang.com/why-dark-didnt-choose-rust/) ([Lobsters](https://lobste.rs/s/sjclgv/why_dark_didn_t_choose_rust)) ([HN](https://news.ycombinator.com/item?id=24991848))
@@ -828,3 +828,4 @@ title: Rust
 - [Experimenting with Rust in Chromium](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md) ([HN](https://news.ycombinator.com/item?id=31830020))
 - [lockbud](https://github.com/BurtonQin/lockbud) - Statically detect deadlocks bugs for Rust.
 - [Passing small types by value vs by reference comparison](https://twitter.com/TartanLlama/status/1539307295632691200)
+- [Jon Gjengset | All Things Rust | Rust For Rustaceans (2022)](https://www.youtube.com/watch?v=xO2xyBfhKDY)

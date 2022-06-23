@@ -89,3 +89,4 @@ title: Vulkan API
 - [Primus-vk](https://github.com/felixdoerre/primus_vk) - Vulkan GPU-offloading layer.
 - [vkroots](https://github.com/Joshua-Ashton/vkroots) - Framework for writing Vulkan layers.
 - [Ray tracing glTF scene with Vulkan](https://github.com/nvpro-samples/vk_raytrace)
+- [Vuh](https://github.com/Glavnokoman/vuh) - Vulkan-based GPGPU computing framework.

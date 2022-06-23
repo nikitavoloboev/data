@@ -309,3 +309,4 @@ zz
 - [Neovim 0.7 Release (2022)](https://github.com/neovim/neovim/releases/tag/v0.7.0) ([HN](https://news.ycombinator.com/item?id=31039569))
 - [Learn Neovim The Practical Way (2021)](https://alpha2phi.medium.com/learn-neovim-the-practical-way-8818fcf4830f) ([Code](https://github.com/alpha2phi/neovim-for-beginner))
 - [nvim-oxi](https://github.com/noib3/nvim-oxi) - Rust bindings to all things Neovim.
+- [Neovim -- First Lua Config (2022)](https://www.twitch.tv/videos/1509074736)

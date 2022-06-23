@@ -288,7 +288,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Storj](https://storj.io/) - Decentralized Cloud Storage. ([Code](https://github.com/storj/storj)) ([Website Code](https://github.com/storj/storj.io))
 - [Block Party](https://www.blockpartyapp.com/) - Consumer app to solve online harassment and put you back in control.
 - [Product Club](https://chalkapp.com/productclub) - Community for product people and investors.
-- [Anduril](https://www.anduril.com/)
+- [Anduril](https://www.anduril.com/) ([Palmer Luckey on Anduril](https://www.youtube.com/watch?v=nK0NfL2M5L4))
 - [HN: Del.icio.us (2020)](https://news.ycombinator.com/item?id=23984503)
 - [Point](https://www.point.app/) - Do it all debit card.
 - [Screenshot Essays](https://www.screenshotessays.com/) - All that's fit to print on a single iPhone screenshot.

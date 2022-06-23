@@ -97,3 +97,4 @@ title: Phoenix framework
 - [Media Storage and CDN with Phoenix and Elixir (2022)](http://lofi.limo/blog/media-storage-and-cdn-with-phoenix-and-elixir)
 - [How LiveView got rid of dangling processes in tests (2022)](https://www.germanvelasco.com/blog/how-live-view-got-rid-of-dangling-processes-in-tests)
 - [A Guide to Phoenix LiveView Assigns (2022)](https://blog.appsignal.com/2022/06/14/a-guide-to-phoenix-liveview-assigns.html)
+- [LiveView in Rust](https://github.com/njaremko/liveview-rust)

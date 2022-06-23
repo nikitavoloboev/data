@@ -268,3 +268,4 @@
 - [Writing is a single-player game (2022)](https://www.otherlife.co/singleplayer/) ([HN](https://news.ycombinator.com/item?id=31733513))
 - [Game Design Mimetics (Or, What Happened To Game Design?) (2022)](https://blog.kylekukshtel.com/game-design-mimetics) ([HN](https://news.ycombinator.com/item?id=31725506))
 - [Citybound – A city building game using actor-based distributed simulation](https://aeplay.org/citybound) ([HN](https://news.ycombinator.com/item?id=31794872))
+- [LinuxGSM](https://linuxgsm.com/) - Command-line tool for quick, simple deployment and management of Linux dedicated game servers. ([Code](https://github.com/GameServerManagers/LinuxGSM))

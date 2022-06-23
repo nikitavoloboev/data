@@ -592,6 +592,7 @@
 - [Neural Prompt Search](https://github.com/Davidzhangyuanhan/NOAH) - Searching prompt modules for parameter-efficient transfer learning.
 - [makemore](https://github.com/karpathy/makemore) - Most accessible way of tinkering with a GPT - one hackable script.
 - [DALL-E Playground](https://github.com/saharmor/dalle-playground) - Playground for DALL-E enthusiasts to tinker with the open-source version of OpenAI's DALL-E, based on DALL-E Mini.
+- [Craiyon](https://www.craiyon.com/) - AI model drawing images from any prompt. Formerly DALL-E mini.
 - [Contrastive Learning for Natural Language Processing](https://github.com/ryanzhumich/Contrastive-Learning-NLP-Papers)
 - [MSCTD: A Multimodal Sentiment Chat Translation Dataset](https://aclanthology.org/2022.acl-long.186/) ([Code](https://github.com/XL2248/MSCTD))
 - [Auto-Lambda: Disentangling Dynamic Task Relationships (2022)](https://arxiv.org/abs/2202.03091) ([Code](https://github.com/lorenmt/auto-lambda))
@@ -599,3 +600,6 @@
 - [DinkyTrain](https://github.com/princeton-nlp/DinkyTrain) - Princeton NLP's pre-training library based on fairseq with DeepSpeed kernel integration.
 - [Pretrained Language Models](https://github.com/huawei-noah/Pretrained-Language-Model)
 - [BERT-of-Theseus: Compressing BERT by Progressive Module Replacing (2020)](https://arxiv.org/abs/2002.02925) ([Code](https://github.com/JetRunner/BERT-of-Theseus))
+- [YaLM 100B](https://github.com/yandex/YaLM-100B) - GPT-like neural network for generating and processing text by Yandex. ([HN](https://news.ycombinator.com/item?id=31846593))
+- [Pathways Autoregressive Text-to-Image model (Parti)](https://github.com/google-research/parti) - Autoregressive text-to-image generation model that achieves high-fidelity photorealistic image generation and supports content-rich synthesis involving complex compositions and world knowledge. ([Web](https://parti.research.google/)) ([HN](https://news.ycombinator.com/item?id=31839193))
+- [How Imagen Actually Works (2022)](https://www.assemblyai.com/blog/how-imagen-actually-works/)

@@ -247,3 +247,5 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Tools for managing (i.e. analysing and enforcing) the architecture of your code base](https://twitter.com/gunnarmorling/status/1539247911544008707)
 - [Blackbird: A reference architecture for local-first connected mobile apps (2022)](https://blog.metaobject.com/2022/06/blackbird-simple-reference-architecture.html)
 - [W, X, and Z: The Layers of a System (2022)](https://medium.com/@yonatanzunger/w-x-and-z-the-layers-of-a-system-568cf6b1477c)
+- [Diagrams as Code 2.0 • Simon Brown (2021)](https://www.youtube.com/watch?v=Za1-v4Zkq5E) ([HN](https://news.ycombinator.com/item?id=31807021))
+- [Target: Hardening the Registers (2022)](https://tech.target.com/blog/hardening-the-registers) ([HN](https://news.ycombinator.com/item?id=31849488))

@@ -180,3 +180,5 @@ title: Genomics
 - [New CRISPR-based map ties every human gene to its function (2022)](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609) ([HN](https://news.ycombinator.com/item?id=31695881))
 - [fgbio](https://github.com/fulcrumgenomics/fgbio) - Tools for working with genomic and high throughput sequencing data.
 - [Dagr](https://github.com/fulcrumgenomics/dagr) - Task and pipeline execution system for directed acyclic graphs to support scientific, and more specifically, genomic analysis workflows.
+- [FASTQ ME](https://github.com/nh13/fqme)
+- [GenStore: A High-Performance and Energy-Efficient In-Storage Computing System for Genome Sequence Analysis (2022)](https://arxiv.org/abs/2202.10400) ([Video](https://www.youtube.com/watch?v=cYz-6GVCVRk))

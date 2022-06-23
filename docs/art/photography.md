@@ -221,3 +221,6 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Humans being confounded by color photography (2022)](https://www.laphamsquarterly.org/roundtable/new-look-same-great-look) ([HN](https://news.ycombinator.com/item?id=31404489))
 - [Where do you share your photos now? (2022)](https://twitter.com/rsms/status/1526599598239690752)
 - [Obscura](https://obscura.camera/) - Pro camera features, for everyone.
+- [Red Dot Forum Camera Talk: Leica Noctilux Lenses (2021)](https://www.youtube.com/watch?v=4C6ngV_UTvM)
+- [Leica M Lens System with Peter Karbe (2020)](https://www.youtube.com/watch?v=mZ1xM7qVSXo)
+- [rphotos](https://github.com/kaj/rphotos) - Photo manager web app, written in rust.

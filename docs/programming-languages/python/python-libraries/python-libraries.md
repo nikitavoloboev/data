@@ -273,6 +273,7 @@
 - [marbles](https://github.com/twosigma/marbles) - Read better test failures.
 - [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [ReFrame](https://github.com/reframe-hpc/reframe) - Powerful Python framework for writing and running portable regression tests and benchmarks for HPC systems.
+- [Pretend](https://github.com/alex/pretend) - Library to make stubbing with Python easier.
 
 ## Error
 
@@ -1058,3 +1059,4 @@
 - [dumb-pypi](https://github.com/chriskuehl/dumb-pypi) - PyPI generator, backed entirely by static files.
 - [Bundling binary tools in Python wheels (2022)](https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/) ([HN](https://news.ycombinator.com/item?id=31776873))
 - [onepm](https://github.com/frostming/onepm) - Picks the right Python package manager for you.
+- [Mapping the world of Python package management (2022)](https://enigma.com/blog/post/mapping-the-world-of-package-management) ([HN](https://news.ycombinator.com/item?id=31837996))

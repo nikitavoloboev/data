@@ -167,6 +167,8 @@
 - [FeignHTTP](https://github.com/dxx/feignhttp) - Declarative HTTP client for rust.
 - [Tokamak](https://github.com/jkelleyrtp/tokamak) - Simple WebFramework for real time apps.
 - [hyper-reverse-proxy](https://github.com/felipenoris/hyper-reverse-proxy) - Simple reverse proxy for use with Hyper and Tokio.
+- [Samael](https://github.com/njaremko/samael) - SAML2 library for Rust.
+- [ructe](https://github.com/kaj/ructe) - Rust Compiled Templates with static-file handling.
 
 ## WASM
 
@@ -1975,6 +1977,8 @@
 - [Quick Pool](https://github.com/Astro36/qp) - High Performance Async Generic Pool.
 - [btree](https://github.com/nimrodshn/btree) - Persistent B+Tree (clustered index) implementation in Rust.
 - [command-fds](https://github.com/google/command-fds) - Rust library for passing arbitrary file descriptors when spawning child processes.
+- [procspawn](https://github.com/mitsuhiko/procspawn) - Like thread::spawn but for processes.
+- [built](https://github.com/lukaslueg/built) - Provides a crate with information from the time it was built.
 
 ## Cargo Plugins
 
@@ -2057,6 +2061,7 @@
 - [cargo-criterion](https://github.com/bheisler/cargo-criterion) - Cargo extension for running Criterion.rs benchmarks.
 - [cargo-public-api](https://github.com/Enselic/cargo-public-api) - List and diff the public API of Rust library crates between releases and commits.
 - [cargo-doc2readme](https://github.com/msrd0/cargo-doc2readme) - Cargo subcommand to create a readme file containing the rustdoc comments from your code.
+- [cargo_metadata](https://github.com/oli-obk/cargo_metadata) - Structured access to the output of cargo metadata. Usually used from within a cargo-\* executable.
 
 ## Notes
 

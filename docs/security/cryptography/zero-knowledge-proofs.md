@@ -99,3 +99,5 @@ title: Zero knowledge proofs
 - [nuid.zk](https://github.com/NuID/zk) - Cross-platform zero knowledge proofs.
 - [Setup Ceremony for Universal SNARKs](https://github.com/anoma/trusted-setup-ceremony)
 - [ZK Basics Cheat sheet](https://github.com/baro77/ZKbasicsCS)
+- [sppark](https://github.com/supranational/sppark) - Zero-knowledge template library.
+- [Zerokit](https://github.com/vacp2p/zerokit) - Set of Zero Knowledge modules, written in Rust and designed to be used in other system programming environments.

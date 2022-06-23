@@ -122,3 +122,4 @@ title: Minecraft
 - [Vane](https://github.com/oddlama/vane) - Immersive and lore friendly enhancements for vanilla Minecraft.
 - [Litematica](https://github.com/maruohon/litematica) - Modern client-side schematic mod for Minecraft.
 - [Create a Bot to Find Diamonds in Minecraft (2022)](https://mlabonne.github.io/blog/minecraft/) ([HN](https://news.ycombinator.com/item?id=31628436))
+- [Hopper](https://github.com/BRA1L0R/hopper-rs) - Fast, configurable, lightweight Reverse Proxy for Minecraft.

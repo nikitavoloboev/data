@@ -438,3 +438,6 @@ Awesome List
 - [Generate changelog for GitHub](https://github.com/antfu/changelogithub)
 - [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too.
 - [markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers.
+- [Reviewpad](https://github.com/reviewpad/reviewpad) - Open-source tool to automate pull request workflows.
+- [spr](https://github.com/getcord/spr) - Command-line tool for submitting and updating GitHub Pull Requests from local Git commits that may be amended and rebased.
+- [Crocodile](https://www.crocodile.dev/) - Better code review for GitHub. ([HN](https://news.ycombinator.com/item?id=31841215))

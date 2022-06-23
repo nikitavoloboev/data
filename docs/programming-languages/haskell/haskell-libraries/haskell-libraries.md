@@ -343,6 +343,9 @@
 - [Boltzmann Brain](https://github.com/maciej-bendkowski/boltzmann-brain) - Haskell library and set of standalone applications meant for random generation of combinatorial structures.
 - [Parser combinators](https://github.com/mrkkrp/parser-combinators) - Lightweight package providing commonly useful parser combinators.
 - [Hectoparsec](https://github.com/1Computer1/hectoparsec) - Flexible and powerful parser combinators for Haskell.
+- [envparse](https://github.com/supki/envparse) - Parse environment variables.
+- [aeson-match-qq](https://github.com/supki/aeson-match-qq) - Declarative JSON matchers.
+- [Haskell Paddle](https://github.com/domenkozar/paddle) - Haskell API for Paddle payments.
 
 ## Notes
 

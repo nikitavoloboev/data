@@ -346,3 +346,4 @@ Never wrote C++, [Rust](../rust/rust.md) is much [better for new code](https://n
 - [Tiny C++ Interpreter](https://github.com/treefrogframework/cpi)
 - [Comprehensive list of differences between C and C++](https://docs.google.com/document/d/16B36r0HksR0LqQAGLA1syYCtZvYaVC0hEF2D00ZAd0o/mobilebasic)
 - [Retrofitting Temporal Memory Safety on C++ (2022)](https://v8.dev/blog/retrofitting-temporal-memory-safety-on-c++) ([HN](https://news.ycombinator.com/item?id=31762574))
+- [Which concerns of the game dev industry does C++ committee NOT address? (2022)](https://www.reddit.com/r/cpp/comments/vhxyzx/which_concerns_of_the_game_dev_industry_does_the/)

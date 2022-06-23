@@ -48,6 +48,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegraphist](https://github.com/xamut/telegraphist) - Telegram Bot API on Go.
 - [Pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework for Python. ([Docs](https://docs.pyrogram.org/))
 - [gramme.rs](https://github.com/Lonami/grammers) - Set of Rust libraries to interact with Telegram's API.
+- [grammersthon](https://github.com/Marekkon5/grammersthon) - Turn Grammers into a user friendly framework.
 - [teloxide](https://github.com/teloxide/teloxide) - Elegant Telegram bots framework for Rust.
 - [Rust Telegram Bot Library](https://github.com/telegram-rs/telegram-bot)
 - [telegram-bot-simple](https://github.com/fizruk/telegram-bot-simple) - Easy to use library for building Telegram bots in Haskell.

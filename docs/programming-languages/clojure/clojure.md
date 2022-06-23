@@ -233,3 +233,4 @@ title: Clojure
 - [Web application using Component, Ring, Compojure, and Selmer connected to a local SQLite database](https://github.com/seancorfield/usermanager-example)
 - [ClojureDocs](https://clojuredocs.org/) - Community-Powered Clojure Documentation and Examples. ([Code](https://github.com/zk/clojuredocs)) ([HN](https://news.ycombinator.com/item?id=31585585))
 - [What does `identical?` do? (2022)](https://quanttype.net/posts/2022-06-15-what-does-identical-do.html)
+- [An introduction to deep code-walking macros with Clojure (2013)](https://blog.fogus.me/2013/07/17/an-introduction-to-deep-code-walking-macros-with-clojure/) ([HN](https://news.ycombinator.com/item?id=31828658))

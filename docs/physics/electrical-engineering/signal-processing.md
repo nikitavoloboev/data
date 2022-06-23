@@ -58,3 +58,4 @@ title: Signal processing
 - [SigPy](https://github.com/mikgroup/sigpy) - Python package for signal processing, with emphasis on iterative methods.
 - [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach (2022)](https://www.youtube.com/watch?v=0me3guauqOU) ([HN](https://news.ycombinator.com/item?id=31301401))
 - [Think DSP – Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) ([Code](https://github.com/AllenDowney/ThinkDSP))
+- [Digital Signals Theory book and source materials](https://github.com/bmcfee/dstbook)

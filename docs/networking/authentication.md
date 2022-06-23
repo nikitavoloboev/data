@@ -161,7 +161,7 @@
 - [NetAuth](https://github.com/netauth/netauth) - Easy to deploy, easy to use authentication and identity provider. ([Web](https://www.netauth.org/))
 - [OAuth2AuthCodePKCE client](https://github.com/BitySA/oauth2-auth-code-pkce) - OAuth 2.0 client that ONLY supports the Authorization Code flow with PKCE support.
 - [localfirst/auth](https://github.com/local-first-web/auth) - Provides decentralized authentication and authorization for team collaboration, using a secure chain of cryptographic signatures.
-- [Guide to Web Authentication](https://webauthn.guide/) ([Tweet](https://twitter.com/alexellisuk/status/1444614757407936512))
+- [Guide to Web Authentication](https://webauthn.guide/) ([Tweet](https://twitter.com/alexellisuk/status/1444614757407936512)) ([HN](https://news.ycombinator.com/item?id=31836922))
 - [Webauthn-rs](https://github.com/kanidm/webauthn-rs) - Implementation of webauthn components for Rustlang servers.
 - [Access Temporary Authentication (2021)](https://blog.cloudflare.com/announcing-access-temporary-authentication/)
 - [jwt-cli](https://github.com/clarketm/jwt-cli) - Command line tool for working with JSON Web Tokens (JWT).

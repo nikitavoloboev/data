@@ -123,3 +123,4 @@ title: BitTorrent
 - [Bittrickle](https://github.com/cronokirby/bittrickle) - UDP bitTorrent tracker in Rust.
 - [rain](https://github.com/cenkalti/rain) - BitTorrent client and library in Go.
 - [Mabel](https://github.com/smmr-software/mabel) - Fancy BitTorrent client for the terminal. ([Lobsters](https://lobste.rs/s/sas6jh/mabel_fancy_bittorrent_client_for))
+- [WebTorrent CLI](https://github.com/webtorrent/webtorrent-cli) - Streaming torrent client. For the command line.

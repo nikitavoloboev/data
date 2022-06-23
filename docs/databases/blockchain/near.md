@@ -28,3 +28,4 @@ title: NEAR Protocol
 - [NEAR NFT-Tutorial](https://github.com/near-examples/nft-tutorial)
 - [Examples for building on the NEAR blockchain](https://github.com/near-examples)
 - [NEAR Lands](https://github.com/vgrichina/near-lands) - Decentralized 2D multiverse project in development using NEAR protocol.
+- [stats.gallery](https://stats.gallery/) - Big & fun NEAR account analytics. ([Code](https://github.com/NEAR-Edu/stats.gallery))

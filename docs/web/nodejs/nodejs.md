@@ -400,3 +400,5 @@ title: Node.js
 - [node-temp](https://github.com/bruce/node-temp) - Temporary File, Directory, and Stream support for Node.js.
 - [Natural](https://github.com/jesusvilla/natural) - Fastest Framework for NodeJS. Written in pure ES6+.
 - [avvio](https://github.com/fastify/avvio) - Asynchronous bootstrapping of Node applications.
+- [tinysh](https://github.com/antonmedv/tinysh) - Tiny spawn wrapper for Node.js.
+- [Hagana](https://github.com/yaakov123/hagana) - NodeJS runtime protection for supply chain attacks.

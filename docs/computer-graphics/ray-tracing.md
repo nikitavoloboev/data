@@ -116,3 +116,4 @@ title: Ray tracing
 - [State of the Art in Monte Carlo Ray Tracing for Realistic Image Synthesis (2001)](https://cseweb.ucsd.edu/~viscomp/classes/cse274/wi18/readings/course29sig01.pdf)
 - [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - Open-source web app to simulate the reflection and refraction of light. ([Code](https://github.com/ricktu288/ray-optics))
 - [Ray tracing in WebGL](https://github.com/EnixCoda/3)
+- [CUDA Pathtracer](https://github.com/jan-van-bergen/GPU-Raytracer) - GPU Ray tracer from scratch in C++/CUDA.

@@ -63,7 +63,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [ksqlDB](https://ksqldb.io/) - Event streaming database purpose-built for stream processing applications. ([HN](https://news.ycombinator.com/item?id=21589670)) ([Code](https://github.com/confluentinc/ksql))
 - [OmniSciDB](https://github.com/omnisci/omniscidb) - Open source SQL-based, relational, columnar database engine that leverages the full performance and parallelism of modern hardware.
 - [Sonnerie](https://github.com/njaard/sonnerie) - Simple timeseries database.
-- [Dolt](https://github.com/dolthub/dolt) - Git for Data. SQL database that you can fork, clone, branch, merge. ([HN](https://news.ycombinator.com/item?id=26370572)) ([Web](https://www.dolthub.com/))
+- [Dolt](https://github.com/dolthub/dolt) - Git for Data. SQL database that you can fork, clone, branch, merge. ([HN](https://news.ycombinator.com/item?id=26370572)) ([Web](https://www.dolthub.com/)) ([HN](https://news.ycombinator.com/item?id=31847416))
 - [Crux](https://github.com/juxt/crux) - Open source document database with bitemporal graph queries. ([Website](https://opencrux.com/)) ([Article](https://jorin.me/crux-as-general-purpose-database/)) ([HN](https://news.ycombinator.com/item?id=23493163))
 - [LokiJS](https://github.com/techfort/LokiJS) - Document oriented database written in JavaScript.
 - [terrier](https://github.com/cmu-db/terrier) - Carnegie Mellon's new database system project that is replacing [Peloton](https://github.com/cmu-db/peloton).
@@ -639,3 +639,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Seeing is Believing: A Client-Centric Specification of Database Isolation (2022)](http://muratbuffalo.blogspot.com/2022/06/seeing-is-believing-client-centric.html)
 - [Common DB schema change mistakes (2022)](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
 - [Let's Remix Distributed Database Design! (2022)](https://www.youtube.com/watch?v=rNmZZLant9o)
+- [SchemaSpy](https://schemaspy.org/) - Database Documentation Built Easy. ([Code](https://github.com/schemaspy/schemaspy))

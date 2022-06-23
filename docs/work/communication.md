@@ -195,3 +195,5 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [Ask HN: Where do you go for discourse? (2022)](https://news.ycombinator.com/item?id=31582270)
 - [Советы по знакомству тред](https://twitter.com/M0rtyMerr/status/1533816456827260928)
 - [RetroTool](https://retrotool.io/) - Online, remote retrospectives made easy.
+- [flat.social](https://flat.social/) - Fun video meeting app with 2D physics and proximity chat. ([HN](https://news.ycombinator.com/item?id=31833415))
+- [Crucial Conversations: Tools for Talking When Stakes Are High by Kerry Patterson](https://www.goodreads.com/book/show/15014.Crucial_Conversations)

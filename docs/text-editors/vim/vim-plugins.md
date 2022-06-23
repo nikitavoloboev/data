@@ -324,3 +324,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nvim-rs](https://github.com/KillTheMule/nvim-rs) - Rust library for neovim clients.
 - [Max's neovim config](https://github.com/max397574/NeovimConfig)
 - [SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) - Neovim Lua plugin providing access to the SchemaStore catalog.
+- [Volt](https://github.com/vim-volt/volt) - Meta-level vim package manager.

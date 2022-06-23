@@ -112,3 +112,4 @@
 - [Ghidra Stack Strings](https://github.com/SamL98/GhidraStackStrings) - Hacky scripts to fixup stack strings in Ghidra's decompiler.
 - [decomp](https://github.com/decomp/decomp) - Components of a decompilation pipeline.
 - [Ghidra Snippets](https://github.com/HackOvert/GhidraSnippets) - Python snippets for Ghidra's Program and Decompiler APIs.
+- [SLEIGH](https://github.com/black-binary/sleigh) - Rust port of Ghidra's SLEIGH decompiler. Allows you to decompile or translate machine code for multiple architectures.

@@ -510,3 +510,5 @@ for i, _ in enumerate(nums):
 - [The strange relationship between objects, functions, generators and coroutines](https://www.packt.com/bizarre-python/)
 - [Illustrating the duality of closures and objects (2022)](https://dev.to/yonkeltron/illustrating-the-duality-of-closures-and-objects-2nfm) ([Lobsters](https://lobste.rs/s/ajgdnb/illustrating_duality_closures_objects))
 - [IPython pdb](https://github.com/gotcha/ipdb) - Integration of IPython pdb.
+- [Python to Rust transpiler](https://github.com/konchunas/pyrs)
+- [Introducing PyScript (summary of PyCon keynote) (2022)](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/) ([HN](https://news.ycombinator.com/item?id=31843996))

@@ -210,3 +210,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [Generating a GraphQL API from schema using SQLite](https://github.com/WilhelmBerggren/graphql-service-from-schema)
 - [The Design of SQLite4](https://sqlite.org/src4/doc/trunk/www/design.wiki) ([HN](https://news.ycombinator.com/item?id=31785170))
 - [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations) ([HN](https://news.ycombinator.com/item?id=31824030))
+- [sqlite-lines](https://github.com/asg017/sqlite-lines) - SQLite extension for reading lines from a file or blob.

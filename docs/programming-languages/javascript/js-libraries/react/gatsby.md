@@ -4,6 +4,8 @@ title: Gatsby JS
 
 # [Gatsby JS](https://www.gatsbyjs.org/)
 
+[No longer good](https://twitter.com/tannerlinsley/status/1539848277641666560) compared to alternatives.
+
 ## Nice example sites
 
 - [Juliette's personal website](https://github.com/juliettepretot/juliette.sh)

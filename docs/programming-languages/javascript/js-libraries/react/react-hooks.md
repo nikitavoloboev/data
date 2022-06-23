@@ -299,3 +299,4 @@ useEffect(() => {
 - [Synchronizing with Effects](https://beta-reactjs-org-git-effects-fbopensource.vercel.app/learn/synchronizing-with-effects) ([Tweet](https://twitter.com/dan_abramov/status/1528420593686745091))
 - [Goodbye, useEffect: David Khourshid (2022)](https://www.youtube.com/watch?v=HPoC-k7Rxwo)
 - [Rapini](https://github.com/rametta/rapini) - OpenAPI to React Query & Axios.
+- [You Might Not Need an Effect](https://beta.reactjs.org/learn/you-might-not-need-an-effect) ([Tweet](https://twitter.com/dan_abramov/status/1539735073947373568))

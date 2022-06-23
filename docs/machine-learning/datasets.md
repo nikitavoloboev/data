@@ -178,3 +178,5 @@
 - [The How2 Dataset](https://srvk.github.io/how2-dataset/) - Multimodal collection of instructional videos with English subtitles. ([Code](https://github.com/srvk/how2-dataset))
 - [Unity Dataset Insights](https://github.com/Unity-Technologies/datasetinsights) - Python package for downloading, parsing and analyzing synthetic datasets generated using the Unity Perception package.
 - [ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection (2022)](https://arxiv.org/abs/2203.09509) ([Code](https://github.com/microsoft/TOXIGEN))
+- [Perceptual Image Processing ALgorithms (PIPAL)](https://www.jasongt.com/projectpages/pipal.html) ([Code](https://github.com/HaomingCai/PIPAL-dataset))
+- [Hover](https://github.com/phurwicz/hover) - Label data at scale. Fun and precision included.

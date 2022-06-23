@@ -54,3 +54,4 @@ title: JAX
 - [Connex](https://github.com/leonard-gleyzer/connex) - Small JAX library built on Equinox whose aim is to incorporate artificial analogues of biological neural network attributes into deep learning research and architecture design.
 - [Rax](https://github.com/google/rax) - Composable Learning to Rank using JAX.
 - [JaX is faster than PyTorch but harder to debug](https://twitter.com/kevin_zakka/status/1538634474107314176)
+- [JAX Meta Learning](https://github.com/tristandeleu/jax-meta-learning) - Collection of meta-learning algorithms in JAX.

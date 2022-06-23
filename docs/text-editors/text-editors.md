@@ -90,7 +90,6 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 ## Web
 
 - [ProseMirror](https://prosemirror.net/) - Toolkit for building rich-text editors on the web. ([Code](https://github.com/ProseMirror/prosemirror)) ([Developer Tools for ProseMirror](https://github.com/d4rkr00t/prosemirror-dev-tools)) ([View Component](https://github.com/ProseMirror/prosemirror-view)) ([Utils library for ProseMirror](https://github.com/atlassian/prosemirror-utils)) ([prosemirror-markdown](https://github.com/ProseMirror/prosemirror-markdown)) ([ProseMirror Examples](https://github.com/ccorcos/prosemirror-examples)) ([ProseMirror now a TS project](https://discuss.prosemirror.net/t/prosemirror-is-now-a-typescript-project/4624))
-- [ProseMirror Vim](https://github.com/replit/codemirror-vim)
 - [CodeMirror Interact](https://github.com/replit/codemirror-interact) - CodeMirror extension that lets you interact with different values (clicking, dragging, etc).
 - [Pragmatic ProseMirror guide](https://github.com/PierBover/prosemirror-cookbook)
 - [rich-markdown-editor](https://github.com/outline/rich-markdown-editor) - React and Prosemirror based editor that powers Outline and can also be used for displaying content in a read-only fashion.

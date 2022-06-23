@@ -73,6 +73,7 @@
 - [TriMesh2](https://github.com/Forceflow/trimesh2) - C++ library and set of utilities for input, output, and basic manipulation of 3D triangle meshes.
 - [Skity](https://github.com/RuiwenTang/Skity) - Open-source 2D graphics library written in C++ using OpenGL and Vulkan.
 - [OpenMfx](https://github.com/eliemichel/OpenMfx) - Low-overhead mesh-processing plug-in API for cross-software procedural effects.
+- [Mesh2SDF](https://github.com/wang-ps/mesh2sdf) - Converts an input mesh to a signed distance field (SDF).
 
 ## DB
 
@@ -411,6 +412,7 @@
 - [BS::thread_pool](https://github.com/bshoshany/thread-pool) - Fast, lightweight, and easy-to-use C++17 thread pool library.
 - [Dem Bones](https://github.com/electronicarts/dem-bones) - Automated algorithm to extract the linear blend skinning (LBS) from a set of example poses.
 - [cubeb](https://github.com/mozilla/cubeb) - Cross platform audio library.
+- [Polygeist](https://github.com/llvm/Polygeist) - C/C++ frontend for MLIR. Also features polyhedral optimizations, parallel optimizations, and more.
 
 ## Links
 

@@ -278,3 +278,4 @@ title: React Native
 - [React Navigation Bottom Sheet](https://github.com/th3rdwave/react-navigation-bottom-sheet) - Bottom sheet navigator for React Navigation.
 - [React Native Zephyr](https://github.com/FormidableLabs/react-native-zephyr) - TailwindCSS-inspired styling library for React Native.
 - [React Native Performance](https://github.com/Shopify/react-native-performance) - Performance measurement for your React Native apps.
+- [React Native 0.69 (2022)](https://reactnative.dev/blog/2022/06/21/version-069) ([HN](https://news.ycombinator.com/item?id=31845423)) ([Tweet](https://twitter.com/reactnative/status/1539721762232930304))

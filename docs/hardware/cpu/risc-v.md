@@ -177,3 +177,4 @@ title: RISC-V
 - [RISC V Emulator](https://github.com/LowLevelJavaScript/RISC-V-Emulator)
 - [riscv-rt](https://github.com/rust-embedded/riscv-rt) - Minimal runtime / startup for RISC-V CPU's.
 - [RISC-V Toolchain Conventions](https://github.com/riscv-non-isa/riscv-toolchain-conventions)
+- [ESP32-C5: Espressif’s First Dual-Band Wi-Fi 6 MCU (2022)](https://www.espressif.com/en/news/ESP32-C5) ([HN](https://news.ycombinator.com/item?id=31837479))

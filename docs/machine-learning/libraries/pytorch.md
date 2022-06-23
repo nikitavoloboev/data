@@ -415,3 +415,5 @@ title: PyTorch
 - [Run PyTorch models in the browser using ONNX.js](https://github.com/elliotwaite/pytorch-to-javascript-with-onnx-js)
 - [torchsnapshot](https://github.com/facebookresearch/torchsnapshot) - Light-weight library for adding fault tolerance to large-scale PyTorch distributed training workloads.
 - [PyTorch Project Template](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)
+- [PyTorch Model Compare](https://github.com/AntixK/PyTorch-Model-Compare) - Tiny package to compare two neural networks in PyTorch.
+- [PyEPO (PyTorch-based End-to-End Predict-and-Optimize Tool)](https://github.com/khalil-research/PyEPO) - Python-based, open-source software that supports modeling and solving predict-and-optimize problems with the linear objective function.

@@ -71,7 +71,6 @@ title: Prometheus
 - [Prometheus Development Dev Shell](https://github.com/roidelapluie/prometheus-nix-dev) - Nix flake to build & run Prometheus.
 - [Kube eagle](https://github.com/cloudworkz/kube-eagle) - Prometheus exporter created to provide a better overview of your resource allocation and utilization in a Kubernetes cluster.
 - [Grafana Mimir](https://grafana.com/oss/mimir/) - Horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. ([Code](https://github.com/grafana/mimir)) ([HN](https://news.ycombinator.com/item?id=30854734))
-
 - [Prometheus SQL Exporter](https://github.com/justwatchcom/sql_exporter) - Flexible SQL Exporter for Prometheus.
 - [prometheus-web](https://github.com/marigold-dev/prometheus-web) - Helpers to use the prometheus library with different web frameworks.
 - [Prometheus metric storage](https://github.com/cowprotocol/prometheus-metric-storage) - Derive macro to instantiate and register prometheus metrics without having to write tons of boilerplate code.
@@ -86,3 +85,4 @@ title: Prometheus
 - [CloudFlare Prometheus exporter](https://github.com/lablabs/cloudflare-exporter)
 - [Coroot-node-agent](https://github.com/coroot/coroot-node-agent) - Prometheus exporter based on eBPF that gathers comprehensive container metrics.
 - [smokeping_prober](https://github.com/SuperQ/smokeping_prober) - Prometheus style smokeping.
+- [prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.

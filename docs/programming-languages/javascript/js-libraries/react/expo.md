@@ -47,3 +47,4 @@ title: Expo
 - [EAS monorepo example](https://github.com/byCedric/eas-monorepo-example) - Enterprise-ready Expo Application Service monorepo with code sharing.
 - [Hooks for React Native web and Expo](https://github.com/EvanBacon/react-native-web-hooks)
 - [OneSignal Expo Plugin](https://github.com/OneSignal/onesignal-expo-plugin) - Allows you to use OneSignal without leaving the managed workflow.
+- [Expo App Clip Plugin](https://github.com/bndkt/react-native-app-clip) - Expo Config Plugin that generates an App Clip for iOS apps built with Expo.

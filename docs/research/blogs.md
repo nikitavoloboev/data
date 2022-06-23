@@ -163,6 +163,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Ryan Kaplan](https://www.rykap.com/)
 - [Artem Tyurin](https://agentcooper.io/)
 - [Chidi Williams](https://chidiwilliams.com/)
+- [Joe Fabisevich](https://build.ms/)
 
 ## Notes
 

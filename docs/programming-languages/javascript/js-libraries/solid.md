@@ -103,3 +103,5 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Opinionated Vite Starter Template](https://github.com/olgam4/bat)
 - [Solid Custom Scrollbars](https://github.com/diragb/solid-custom-scrollbars)
 - [SolidJS: Reactivity Unchained – Ryan Carniato (2022)](https://www.youtube.com/watch?v=UhGV8yYnvQE)
+- [JavaScript UI Compilers: Comparing Svelte and Solid (2019)](https://ryansolid.medium.com/javascript-ui-compilers-comparing-svelte-and-solid-cbcba2120cea)
+- [Thinking Granular: How is SolidJS so Performant? (2021)](https://dev.to/ryansolid/thinking-granular-how-is-solidjs-so-performant-4g37)

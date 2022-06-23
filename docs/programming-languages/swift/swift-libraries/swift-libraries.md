@@ -608,6 +608,7 @@
 
 - [Matft](https://github.com/jjjkkkjjj/Matft) - Numpy-like library in Swift. Function name and usage is similar to Numpy.
 - [NumberKit](https://github.com/objecthub/swift-numberkit) - Advanced numeric data types for Swift 5, including BigInt, Rational, and Complex numbers.
+- [FirebladeMath](https://github.com/fireblade-engine/math) - Dependency free, lightweight, fast math library for 2D and 3D vectors, quaternions and matrices in Swift with (optional) SIMD support.
 
 ## Other
 
@@ -1175,6 +1176,8 @@
 - [HaishinKit](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
 - [Lotsawa](https://github.com/val-lang/Lotsawa) - Swift implementation of the MARPA algorithms.
 - [Boutique](https://github.com/mergesort/Boutique) - Simple but powerful persistence library, and more.
+- [KDTree](https://github.com/Bersaelor/KDTree) - Swift implementation of a k-dimensional binary space partitioning tree.
+- [Algolia Search Swift](https://github.com/algolia/algoliasearch-client-swift) - Fully-featured and blazing-fast Swift API client to interact with Algolia.
 
 ## Other (not lib)
 
@@ -1245,3 +1248,5 @@
 - [Awesome Swift Async Await](https://github.com/artemnovichkov/awesome-swift-async-await) - Hand-curated list of Swift async/await resources.
 - [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML) - Generate UML class diagrams from swift code with this Command Line Interface (CLI) and Swift Package.
 - [Apple Platform SDK API Differences, with Swift support](https://sdk.news/) ([Code](https://github.com/sdk-news/sdk-news))
+- [SwiftLintPlugin](https://github.com/lukepistrol/SwiftLintPlugin) - SPM Plugin for SwiftLint.
+- [SwiftPackageList](https://github.com/FelixHerrmann/swift-package-list) - Command-line tool to generate a JSON, PLIST, Settings.bundle or PDF file with all used SPM-dependencies of an Xcode project or workspace.

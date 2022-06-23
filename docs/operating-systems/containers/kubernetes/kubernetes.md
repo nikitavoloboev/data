@@ -767,3 +767,4 @@ title: Kubernetes
 - [Cluster capacity analysis framework](https://github.com/kubernetes-sigs/cluster-capacity)
 - [kubectl-images](https://github.com/chenjiandongx/kubectl-images) - Show container images used in the cluster.
 - [Don't use Kubernetes yet (2022)](https://matt-rickard.com/dont-use-kubernetes-yet/) ([HN](https://news.ycombinator.com/item?id=31795160))
+- [OpenELB](https://openelb.io/) - Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization. ([Code](https://github.com/openelb/openelb))

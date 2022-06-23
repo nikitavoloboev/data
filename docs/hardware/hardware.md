@@ -335,3 +335,5 @@
 - [How fast can a 6502 transfer memory (2022)](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
 - [The computers are fast, but you don't know it (2022)](http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1/) ([HN](https://news.ycombinator.com/item?id=31769294))
 - [Big List of ABI Resources](https://github.com/lenary/abis)
+- [Designing Billions of Circuits with Code (2022)](https://asianometry.substack.com/p/designing-billions-of-circuits-with) ([HN](https://news.ycombinator.com/item?id=31838690))
+- [HDMI Firewall](https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md) ([HN](https://news.ycombinator.com/item?id=31828193))

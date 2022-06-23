@@ -33,3 +33,4 @@ title: Astro
 - [astro-ixmage](https://github.com/readonlychild/astro-ixmage) - Ixmage component for Astro.
 - [How to deploy an Astro site (2022)](https://www.netlify.com/blog/how-to-deploy-astro/)
 - [Astro components and configurations collection](https://github.com/JulianCataldo/astro)
+- [Astro + eleventy-img](https://github.com/Princesseuh/astro-eleventy-img) - Tiny script and component intended to be used with Astro for generating images with eleventy-img.

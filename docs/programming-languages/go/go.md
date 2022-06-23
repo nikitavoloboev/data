@@ -804,3 +804,4 @@ if err != nil {
 - [Go grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-go)
 - [Advanced Go Fuzzing Techniques (2022)](https://blog.fuzzbuzz.io/writing-effective-go-fuzz-tests/)
 - [Surprising result while transpiling C to Go (2022)](https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/) ([HN](https://news.ycombinator.com/item?id=31818960))
+- [Learn Go by fixing tiny incorrect programs](https://github.com/soypat/gopherlings)

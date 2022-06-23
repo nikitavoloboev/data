@@ -19,3 +19,4 @@ title: ZeroMQ
 - [zmq4](https://github.com/pebbe/zmq4) - Go interface to ZeroMQ version 4.
 - [FlatRPC](https://github.com/GothAck/FlatRPC) - C++ RPC library built upon FlatBuffers and ZeroMQ.
 - [zmq4](https://github.com/go-zeromq/zmq4) - Pure-Go implementation of ZeroMQ-4.
+- [TMQ](https://github.com/cetra3/tmq) - Rust ZeroMQ bindings for Tokio.

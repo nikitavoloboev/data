@@ -235,3 +235,6 @@ title: SwiftUI
 - [Navigation Backport](https://github.com/johnpatrickmorgan/NavigationBackport) - Backported SwiftUI navigation APIs introduced in WWDC22.
 - [Atmos](https://github.com/dejager/atmos) - SwiftUI proof-of-concept which adds rain to a view's background.
 - [Variable Type in SwiftUI](https://github.com/philipcdavis/VariableType)
+- [Flow Grid in SwiftUI](https://maxr.dev/blog/flow-grid-in-swiftui)
+- [MVCS](https://github.com/mergesort/MVCS) - Simple, Familiar, Yet Powerful Architecture for building SwiftUI Apps.
+- [Model View Controller Store: Reinventing MVC for SwiftUI with Boutique (2022)](https://build.ms/2022/06/22/model-view-controller-store/)

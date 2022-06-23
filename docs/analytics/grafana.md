@@ -25,3 +25,5 @@ title: Grafana
 - [Grafana Tokio Console Data Source](https://github.com/grafana/grafana-tokio-console-datasource)
 - [End-to-End Monitoring with Grafana Cloud with Minimal Effort (2022)](https://martinheinz.dev/blog/72)
 - [Grafana OnCall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration. ([Article](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)) ([HN](https://news.ycombinator.com/item?id=31740902))
+- [Kubernetes Grafana Dashboards](https://github.com/dotdc/grafana-dashboards-kubernetes) - Set of modern Grafana dashboards for Kubernetes.
+- [JSON API data source for Grafana](https://github.com/marcusolsson/grafana-json-datasource)

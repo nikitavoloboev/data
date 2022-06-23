@@ -123,3 +123,4 @@
 - [Web3 is just expensive P2P](https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/) ([HN](https://news.ycombinator.com/item?id=31396329))
 - [Aphrodite](https://github.com/tantaman/aphrodite) - Schema layer whose first goal is to make P2P & Local-First software development as easy as traditional development.
 - [Ataraxia](https://github.com/aholstenson/ataraxia) - P2P messaging over mesh networks for NodeJS and browsers.
+- [P2P super collider](https://github.com/socketsupply/p2p-supercollider)

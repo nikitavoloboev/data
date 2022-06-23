@@ -631,3 +631,5 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Template: TypeScript Module](https://github.com/lukeed/typescript-module)
 - [detective-typescript](https://github.com/dependents/detective-typescript) - Get the dependencies of a TypeScript module.
 - [ts-serve](https://github.com/ayame113/ts-serve) - Transpile TypeScript on the fly and deliver it from your server as ES Modules.
+- [typescript-type-def](https://github.com/dbeckwith/rust-typescript-type-def) - Generate TypeScript type definitions for Rust types.
+- [Levitate](https://github.com/grafana/levitate) - Tool for helping to understand APIs exported and consumed by NPM packages (or any TypeScript code).

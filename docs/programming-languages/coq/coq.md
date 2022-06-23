@@ -157,3 +157,5 @@ title: Coq
 - [Paramcoq](https://github.com/coq-community/paramcoq) - Coq plugin providing commands for generating parametricity statements.
 - [Gaia](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics in Coq.
 - [Rupicola](https://github.com/mit-plv/rupicola) - Relation compilation for performance-critical applications.
+- [Coherence space semantics for linear logic in Coq](https://github.com/clayrat/coherence-spaces)
+- [Computability in Constructive Type Theory in Coq](https://github.com/yforster/coq-synthetic-computability)

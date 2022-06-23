@@ -44,3 +44,4 @@ I love reading these journals:
 - [10 Questions to Process Before you Wrap a Year](https://www.instagram.com/p/CYHYXOoL1DF/)
 - [Benefits of a daily diary and topic journals](https://sive.rs/dj)
 - [Linked](https://uselinked.com/) - Daily journaling without distraction. ([Code](https://github.com/lostdesign/linked))
+- [Observations on 6 years of journaling (2022)](https://herman.bearblog.dev/years-of-journaling/)

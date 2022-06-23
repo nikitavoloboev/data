@@ -132,4 +132,4 @@ title: Formal verification
 - [Formal Methods for DeFi Developers](https://github.com/WilfredTA/formal-methods-curriculum)
 - [Yatima](https://github.com/yatima-inc/yatima-lang) - Verifiable computing language.
 - [VeriFast](https://github.com/verifast/verifast) - Research prototype tool for modular formal verification of C and Java programs.
-- [Introduction to Pragmatic Formal Modeling](https://elliotswart.github.io/pragmaticformalmodeling/)
+- [Introduction to Pragmatic Formal Modeling](https://elliotswart.github.io/pragmaticformalmodeling/) ([Code](https://github.com/ElliotSwart/pragmaticformalmodeling))

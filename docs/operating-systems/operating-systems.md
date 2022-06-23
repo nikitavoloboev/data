@@ -157,6 +157,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [House](https://github.com/dls/house) - Haskell Operating System. ([Video](https://www.youtube.com/watch?v=ZXGQL-qkNWY))
 - [Zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig.
 - [My first OS built from scratch](https://github.com/ilobilo/kernel)
+- [owlOS](https://github.com/Talon396/owlOS) - Free UNIX-like operating system written in Rust.
 
 ## Notes
 

@@ -134,6 +134,8 @@ title: Obsidian
 - [Obsidian Supercharged](https://github.com/austrianKangaroo/obsidian-supercharged) - Plugin for obsidian that simplifies the use of mathematical symbols in LaTeX.
 - [Booksidian](https://github.com/MichaBrugger/booksidian_plugin) - Brings your Goodreads data to Obsidian.
 - [Obsidian Wielder](https://github.com/victorb/obsidian-wielder) - Clojure inside your Obsidian documents.
+- [Obsidian Better Code Block](https://github.com/stargrey/obsidian-better-codeblock) - Add title, line number to Obsidian code block.
+- [GitHub Publisher](https://github.com/obsidianMkdocs/obsidian-github-publisher) - Plugin to easily publish note to GitHub.
 
 ## Themes
 
@@ -189,3 +191,4 @@ title: Obsidian
 - [What clever Obsidian tricks have you found? (2022)](https://www.reddit.com/r/ObsidianMD/comments/uaxzhf/what_clever_obsidian_tricks_have_you_found/)
 - [Modular CSS Layout for Obsidian](https://github.com/efemkay/obsidian-modular-css-layout)
 - [Molecular Notes: Practice](https://reasonabledeviations.com/2022/06/12/molecular-notes-part-2/) - Discussing the practical implementation of Molecular Notes in Obsidian.
+- [How I set and track goals using Obsidian (2021)](https://marcus.se.net/how-i-set-and-track-goals-in-obsidian/)

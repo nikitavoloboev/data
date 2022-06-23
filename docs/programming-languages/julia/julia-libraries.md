@@ -107,6 +107,7 @@
 - [DiffRules](https://github.com/JuliaDiff/DiffRules.jl) - Simple shared suite of common derivative definitions.
 - [HuggingFaceHub.jl](https://github.com/cjdoris/HuggingFaceHub.jl) - Julia package to interact with the Hugging Face Hub.
 - [Hopfields.jl](https://github.com/yuehhua/Hopfields.jl) - Modern Hopfield layer implementations in Julia.
+- [SciML Docs](https://docs.sciml.ai/dev/) ([Code](https://github.com/SciML/SciMLDocs))
 
 ## Math
 
@@ -634,6 +635,8 @@
 - [DecisionTree.jl](https://github.com/JuliaAI/DecisionTree.jl) - Julia implementation of Decision Tree (CART) and Random Forest algorithms.
 - [QuantizedArrays](https://github.com/zgornel/QuantizedArrays.jl) - Array quantization and compression.
 - [GraphPlot](https://github.com/JuliaGraphs/GraphPlot.jl) - Graph visualization for Julia.
+- [GR.jl](https://github.com/jheinen/GR.jl) - Plotting for Julia based on GR, a framework for visualization applications.
+- [MemoizedMethods.jl](https://github.com/peterahrens/MemoizedMethods.jl) - Methodwise memoization for Julia.
 
 ## Links
 

@@ -179,3 +179,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Cloudflare, Serverless, Platforms and more w/ Sunil (2022)](https://www.youtube.com/watch?v=BiZgYAQRiS0)
 - [wkrk](https://github.com/giovannibenussi/wkrk) - Lightweight framework for CloudFlare Workers.
 - [dlock](https://github.com/losfair/dlock) - Distributed-Lock-as-a-Service implemented on Cloudflare Durable Objects.
+- [Cloudflare Workers Postgres Client](https://github.com/bubblydoo/cloudflare-workers-postgres-client) - Connect to a Postgres database from a Cloudflare Worker, using Cloudflare Tunnel.

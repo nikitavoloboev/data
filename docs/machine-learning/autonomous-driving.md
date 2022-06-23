@@ -70,3 +70,4 @@
 - [BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers (2022)](https://arxiv.org/abs/2203.17270) ([Code](https://github.com/zhiqi-li/BEVFormer))
 - [Dataset Governance Policy (DGP)](https://github.com/TRI-ML/dgp) - ML Dataset Governance Policy for Autonomous Vehicle Datasets.
 - [HelixNet Toolbox](https://github.com/romainloiseau/HelixNet) - Dataset presented in the "Online Segmentation of LiDAR Sequences: Dataset and Algorithm" paper.
+- [Nocturne](https://github.com/facebookresearch/nocturne) - 2D driving simulator, built in C++ for speed and exported as a Python library.

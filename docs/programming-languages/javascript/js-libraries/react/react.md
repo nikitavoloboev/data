@@ -330,3 +330,4 @@ Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for a
 - [Aspect](https://dev.aspect.app/) - Visual IDE for React. ([HN](https://news.ycombinator.com/item?id=27040224)) ([HN](https://news.ycombinator.com/item?id=31364081))
 - [How performance was improved on React Docs (2022)](https://twitter.com/dan_abramov/status/1529677207869825024)
 - [Million + React](https://github.com/aidenybai/million-react) - Write the same modern React with a faster Virtual DOM.
+- [What is the recommended way to load data for React 18?](https://www.reddit.com/r/reactjs/comments/vi6q6f/what_is_the_recommended_way_to_load_data_for/iddrjue/) ([Tweet](https://twitter.com/dan_abramov/status/1539800912134291456))

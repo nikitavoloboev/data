@@ -247,6 +247,7 @@ Below is a list of extensions I use.
 - [Typescript Destructure](https://marketplace.visualstudio.com/items?itemName=tusaeff.vscode-typescript-destructure-plugin) - Set of source actions which significantly simplify object destructuring. ([Code](https://github.com/tusaeff/vscode-typescript-destructure-plugin))
 - [TypeScript Error Translator](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator) - TypeScript errors, translated for humans.
 - [Turbo Console Log](https://github.com/Chakroun-Anas/turbo-console-log) - Make debugging much easier by automating the operation of writing meaningful log message.
+- [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support. ([Code](https://github.com/microsoft/vscode-typescript-next))
 
 ## DB
 

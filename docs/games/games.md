@@ -330,3 +330,4 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [KaTrain](https://github.com/sanderland/katrain) - Improve your Baduk skills by training with KataGo.
 - [Ask HN: Favorite open source game? (2022)](https://news.ycombinator.com/item?id=31590724)
 - [Bit Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS, written using Cocoa and Mach kernel APIs.
+- [Nostalgia Time: MMO's You Whole Heartedly miss (2022)](https://www.reddit.com/r/MMORPG/comments/vifhq1/nostalgia_time_mmos_you_whole_heartedly_miss/)

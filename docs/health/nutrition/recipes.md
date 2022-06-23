@@ -99,3 +99,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Carlsbad Cravings](https://carlsbadcravings.com/) - Healthy & Indulgent Dinner & Slow Cooker Recipes.
 - [Chez Grater](https://github.com/dfithian/chez-grater) - Scrape and parse recipe blogs to skip the ads.
 - [A New Way to Cook Pasta?](https://www.seriouseats.com/how-to-cook-pasta-salt-water-boiling-tips-the-food-lab)
+- [Cloud Native Community Cookbook](https://github.com/cncf/cloud-native-community-cookbook)

@@ -39,3 +39,4 @@ I share some [recipes I like](recipes.md).
 - [100R — cooking](https://100r.co/site/cooking.html) ([Tweet](https://merveilles.town/web/statuses/107732201204446822))
 - [Cooking for Engineers](http://www.cookingforengineers.com/) ([HN](https://news.ycombinator.com/item?id=30797907))
 - [Learn how to master the art of baking the programmer way](https://github.com/hendricius/the-bread-code)
+- [What kitchen gadgets or appliances actually get used in your home?](https://twitter.com/jesslynnrose/status/1539896328993521665)

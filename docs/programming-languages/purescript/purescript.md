@@ -57,3 +57,4 @@ title: PureScript
 - [PureScript Spec Discovery](https://github.com/purescript-spec/purescript-spec-discovery)
 - [ResourceT](https://github.com/robertdp/purescript-resourcet) - Monad transformer for automated cleanup of resources at the end of execution.
 - [PureShell](https://github.com/cgohla/pureshell) - Compile PureScript to shell scripts.
+- [PureScript Deno](https://github.com/njaremko/purescript-deno) - Deno bindings for PureScript.

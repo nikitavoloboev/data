@@ -161,6 +161,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [GitBook](https://www.gitbook.com/)
 - [Websmyth](https://websmyth.co/)
 - [Finch](https://tryfinch.com/)
+- [Blink Industries](https://www.blinkindustries.tv/)
 - [Rekki](https://rekki.com/)
 - [Dala](https://dala.craftedbygc.com/)
 - [IStories](https://istories.media/en/)

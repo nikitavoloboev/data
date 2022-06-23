@@ -28,3 +28,4 @@ Can easily tell that it's an all day event as it won't have time stamps shown be
 - [BetterTouchTool management in JavaScript](https://github.com/Worie/btt)
 - [GoldenChaos-BTT](https://goldenchaos.net/goldenchaos-btt.html) - Replacement Touch Bar UI for BetterTouchTool.
 - [What you can do with BetterTouchTool (2021)](https://www.reddit.com/r/MacOS/comments/nke8g6/bettertouchtool_is_one_of_the_most_worthit/)
+- [BetterTouchTool users, what are your game changer set ups? What can’t you live without? (2022)](https://www.reddit.com/r/macapps/comments/vi6g1c/bettertouchtool_users_what_are_your_game_changer/)

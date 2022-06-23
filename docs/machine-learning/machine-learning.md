@@ -848,3 +848,6 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [How robust are pre-trained models to distribution shift? (2022)](https://arxiv.org/abs/2206.08871)
 - [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge (2022)](https://arxiv.org/abs/2206.08853) ([Code](https://github.com/MineDojo/MineDojo))
 - [MLOPs Primer](https://github.com/dair-ai/MLOPs-Primer) - Collection of resources to learn about MLOPs.
+- [Are wider nets better given the same number of parameters? (2020)](https://arxiv.org/abs/2010.14495) ([Code](https://github.com/google-research/wide-sparse-nets))
+- [Brandon Amos's presentation slides](https://github.com/bamos/presentations)
+- [Ethical Principles for Web Machine Learning](https://webmachinelearning.github.io/ethical-webmachinelearning/) ([Code](https://github.com/webmachinelearning/ethical-webmachinelearning))

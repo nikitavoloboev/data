@@ -47,3 +47,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [Rust SDK for 1Password Connect](https://github.com/bsodmike/connect-sdk-rust)
 - [op-js](https://github.com/1Password/op-js) - JS library powered by the 1Password CLI.
 - [gopass](https://github.com/aviau/gopass) - Pass implementation in Go.
+- [1Password for VS Code](https://github.com/1Password/op-vscode)

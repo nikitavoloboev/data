@@ -42,3 +42,4 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 - [Guild](https://beta.guild.host/) - Attend and host events.
 - [Luma](https://lu.ma/home) - Helps you foster meaningful relationships within your community through events, newsletters, and insights.
 - [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda)
+- [Awesome How to Run Events](https://github.com/redthreadsnet/awesome-how-to-run-events)

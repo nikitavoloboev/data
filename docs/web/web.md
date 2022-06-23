@@ -431,3 +431,4 @@
 - [First-party cookie recipes (2022)](https://web.dev/first-party-cookie-recipes/)
 - [Specifying Spring '83 (2022)](https://www.robinsloan.com/lab/specifying-spring-83/)
 - [The End of Localhost (2022)](https://dx.tips/the-end-of-localhost) ([HN](https://news.ycombinator.com/item?id=31669762))
+- [Ask HN: Does anybody still use bookmarking services? (2022)](https://news.ycombinator.com/item?id=31848210)

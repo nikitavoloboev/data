@@ -959,6 +959,8 @@
 - [Bertin.js](https://github.com/neocarto/bertin) - JavaScript library for visualizing geospatial data and make thematic maps for the web.
 - [EDTF.js](https://github.com/inukshuk/edtf.js) - Extended Date Time Format (ISO 8601-2 / EDTF) Parser for JavaScript.
 - [neodrag](https://github.com/PuruVJ/neodrag) - Lightweight multi-framework libraries for draggability on the web.
+- [object-hash](https://github.com/puleos/object-hash) - Generate hashes from JS objects in node and the browser.
+- [Proxly](https://github.com/pshihn/proxly) - Proxy any list of objects or functions to a single entity.
 
 ## Links
 

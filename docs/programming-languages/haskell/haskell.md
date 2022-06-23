@@ -440,3 +440,4 @@ title: Haskell
 - [Awesome Learning Haskell](https://github.com/tweag/awesome-learning-haskell)
 - [Variance and Subtyping (2021)](https://1computer1.github.io/posts/variance-and-subtyping/)
 - [The list of monoids pattern (2022)](https://blog.ocharles.org.uk/posts/2022-06-22-list-of-monoids-pattern.html)
+- [Incremental builds for Haskell with Bazel (2022)](https://www.tweag.io/blog/2022-06-23-haskell-module/) ([HN](https://news.ycombinator.com/item?id=31847594))
