@@ -280,3 +280,4 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [idl-macro](https://github.com/saber-hq/idl-macro) - Generates an Anchor CPI crate from a JSON IDL.
 - [tulipv2-sdk](https://github.com/sol-farm/tulipv2-sdk) - Rust SDK for tulip v2 vaults and v1 lending instructions.
 - [Formfunction](https://formfunction.xyz/) - Solana NFT marketplace designed for independent artists and creators. ([Twitter](https://twitter.com/formfunction))
+- [Solana Mobile](https://solanamobile.com/) - Its time for crypto to go mobile. ([Twitter](https://twitter.com/Solanamobile)) ([Tweet](https://twitter.com/steveluscher/status/1540035190998720512))

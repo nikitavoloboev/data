@@ -1,6 +1,6 @@
 # Germany
 
-Quite sad that it seems [majority of Germany government appears to be fully bought off](https://twitter.com/ViolavonCramon/status/1535621476707098624) by [Russia](russia.md). Not mentioning their idiotic decisions to phase out nuclear and [become fully dependent on Russian gas](https://twitter.com/micsolana/status/1538960802782228480).
+Quite sad that it seems [majority of Germany government appears to be fully bought off](https://twitter.com/ViolavonCramon/status/1535621476707098624) by [Russia](russia.md). Not mentioning their unwise decisions to phase out nuclear and [become fully dependent on Russian gas](https://twitter.com/micsolana/status/1538960802782228480).
 
 Aside from those geopolitical failures, Germany seems like a nice place to live in if you ignore the super high taxes. Berlin is [one of](visited.md) my favorite cities to visit.
 

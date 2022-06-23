@@ -104,3 +104,5 @@ title: Google Cloud
 - [Google Cloud Platform Pricing and Cost Calculator](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator) - Calculate estimated monthly costs of Google Cloud Platform products and resources via YAML files and Linux CLI program.
 - [CI for Data in BigQuery CLI utility](https://github.com/GoogleCloudPlatform/ci-for-data-in-bigquery)
 - [Security Response Automation](https://github.com/GoogleCloudPlatform/security-response-automation) - Take automated actions against threats and vulnerabilities.
+- [Google Cloud Run, Satisfaction, and Scalability with Steren Giannini (2022)](https://overcast.fm/+RWDXAOH-s)
+- [Building Serverless Applications with Google Cloud Run (2020)](https://wietsevenema.eu/cloud-run-book/)

@@ -56,3 +56,4 @@ Some maybe interesting supplements I don't take routinely but tried.
 - [Ask HN: What supplements do you take? (2021)](https://news.ycombinator.com/item?id=26384702)
 - [Taking multi vitamins still a waste of money, or no? (2022)](https://www.reddit.com/r/nutrition/comments/ueu9q8/taking_multi_vitmains_still_a_waste_of_money_or_no/)
 - [Vitamin D and Depression (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/) ([HN](https://news.ycombinator.com/item?id=31306177))
+- [Vitamin D, FOXO3a, and Sirtuin1 in Hashimoto's Thyroiditis and Differentiated Thyroid Cancer](https://www.frontiersin.org/articles/10.3389/fendo.2018.00527/full) ([Tweet](https://twitter.com/_DaCon/status/1540038927121276928))

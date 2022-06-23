@@ -238,3 +238,4 @@ title: SwiftUI
 - [Flow Grid in SwiftUI](https://maxr.dev/blog/flow-grid-in-swiftui)
 - [MVCS](https://github.com/mergesort/MVCS) - Simple, Familiar, Yet Powerful Architecture for building SwiftUI Apps.
 - [Model View Controller Store: Reinventing MVC for SwiftUI with Boutique (2022)](https://build.ms/2022/06/22/model-view-controller-store/)
+- [SwiftUI for Mac 2022](https://troz.net/post/2022/swiftui-mac-2022/)
