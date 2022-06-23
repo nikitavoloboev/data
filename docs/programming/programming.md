@@ -563,3 +563,4 @@
 - [Search over 2000 manually curated technical deep-dives related to programming](https://abyteofcoding.com/search/)
 - [1x Engineer](https://1x.engineer/) ([HN](https://news.ycombinator.com/item?id=31568895)) ([Code](https://github.com/cutenode/1x.engineer))
 - [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries)
+- [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/) ([HN](https://news.ycombinator.com/item?id=31836974))

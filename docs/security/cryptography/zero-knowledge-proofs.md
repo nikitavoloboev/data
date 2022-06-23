@@ -98,3 +98,4 @@ title: Zero knowledge proofs
 - [zk-Crush](https://www.zkcrush.xyz/) - Tell your crush you like them with zero-knowledge. ([Code](https://github.com/amirgamil/zk-crush))
 - [nuid.zk](https://github.com/NuID/zk) - Cross-platform zero knowledge proofs.
 - [Setup Ceremony for Universal SNARKs](https://github.com/anoma/trusted-setup-ceremony)
+- [ZK Basics Cheat sheet](https://github.com/baro77/ZKbasicsCS)

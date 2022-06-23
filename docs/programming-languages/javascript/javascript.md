@@ -455,3 +455,4 @@ if (
 - [ECMAScript Explicit Resource Management](https://github.com/tc39/proposal-explicit-resource-management)
 - [JavaScript: The New Toys Book](https://thenewtoys.dev/)
 - [Server Rendering in JavaScript Series](https://dev.to/ryansolid/series/13734)
+- [Ecma International approves ECMAScript 2022: What’s new?](https://2ality.com/2022/06/ecmascript-2022.html)

@@ -1174,6 +1174,7 @@
 - [LDSwiftEventSource](https://github.com/launchdarkly/swift-eventsource) - Server-sent events (SSE) client implementation in Swift.
 - [HaishinKit](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
 - [Lotsawa](https://github.com/val-lang/Lotsawa) - Swift implementation of the MARPA algorithms.
+- [Boutique](https://github.com/mergesort/Boutique) - Simple but powerful persistence library, and more.
 
 ## Other (not lib)
 
