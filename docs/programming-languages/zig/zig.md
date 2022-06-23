@@ -56,7 +56,7 @@ title: Zig
 - [Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun (2021)](https://kevinlynagh.com/rust-zig/) ([Lobsters](https://lobste.rs/s/eppfav/why_i_rewrote_my_rust_keyboard_firmware))
 - [Memory-mapped IO registers in zig (2021)](https://scattered-thoughts.net/writing/mmio-in-zig/) ([Lobsters](https://lobste.rs/s/46xhdl/memory_mapped_io_registers_zig))
 - [Zig, Parser Combinators - and Why They're Awesome (2021)](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
-- [How Safe Is Zig?](https://scattered-thoughts.net/writing/how-safe-is-zig/) ([Lobsters](https://lobste.rs/s/v5y4jb/how_safe_is_zig)) ([HN](https://news.ycombinator.com/item?id=26537693))
+- [How Safe Is Zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig/) ([Lobsters](https://lobste.rs/s/v5y4jb/how_safe_is_zig)) ([HN](https://news.ycombinator.com/item?id=26537693)) ([HN](https://news.ycombinator.com/item?id=31850347))
 - [Zig Playground](https://zig-play-a9lwj.ondigitalocean.app/) - Online Zig compiler inspired by Go and Rust. ([Code](https://github.com/gsquire/zig-play))
 - [zigdoc](https://github.com/g-w1/zigdoc) - zig -> docs.
 - [zig.run](https://zig.run/) - Run and play with Zig source code. ([Code](https://github.com/jlauman/zig.run))
