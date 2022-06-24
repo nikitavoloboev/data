@@ -603,3 +603,4 @@
 - [YaLM 100B](https://github.com/yandex/YaLM-100B) - GPT-like neural network for generating and processing text by Yandex. ([HN](https://news.ycombinator.com/item?id=31846593))
 - [Pathways Autoregressive Text-to-Image model (Parti)](https://github.com/google-research/parti) - Autoregressive text-to-image generation model that achieves high-fidelity photorealistic image generation and supports content-rich synthesis involving complex compositions and world knowledge. ([Web](https://parti.research.google/)) ([HN](https://news.ycombinator.com/item?id=31839193))
 - [How Imagen Actually Works (2022)](https://www.assemblyai.com/blog/how-imagen-actually-works/)
+- [First impressions of DALL-E, generating images from text (2022)](https://simonwillison.net/2022/Jun/23/dall-e/) ([Lobsters](https://lobste.rs/s/kvnlpf/first_impressions_dall_e_generating))

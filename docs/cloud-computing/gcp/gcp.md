@@ -107,3 +107,4 @@ title: Google Cloud
 - [Google Cloud Run, Satisfaction, and Scalability with Steren Giannini (2022)](https://overcast.fm/+RWDXAOH-s)
 - [Building Serverless Applications with Google Cloud Run (2020)](https://wietsevenema.eu/cloud-run-book/)
 - [BigQuery Emulator](https://github.com/goccy/bigquery-emulator) - Provides a way to launch a BigQuery server on your local machine for testing and development.
+- [Lifecycle of a container on Cloud Run (2021)](https://cloud.google.com/blog/topics/developers-practitioners/lifecycle-container-cloud-run)

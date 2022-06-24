@@ -158,3 +158,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Reasons for Abondonments During Checkout](https://twitter.com/_TommyMason/status/1533375546817658882)
 - [Headless Commerce with Nuxt 3, Shopify, and TailwindCSS](https://github.com/Baroshem/nuxt-shopify-tailwind)
 - [GAÂLA](https://gaala.com/) - Slow-fashion brand bringing you timeless apparel crafted by skilled European artisans. ([IG](https://www.instagram.com/gaalaparis/))
+- [Double import explained (2022)](https://www.youtube.com/watch?v=ydtWQE8vJ7w)
