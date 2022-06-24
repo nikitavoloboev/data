@@ -188,3 +188,4 @@
 - [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python.
 - [scivision](https://github.com/alan-turing-institute/scivision) - Toolkit for Scientific Image Analysis.
 - [Digital Image Processing Implementations](https://github.com/tesfagabir/Digital-Image-Processing)
+- [Fighting JPEG color banding (2022)](https://uploadcare.com/blog/fighting-jpeg-color-banding/)

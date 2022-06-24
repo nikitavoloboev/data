@@ -69,3 +69,4 @@
 - [VFX Fractal Toolkit](https://github.com/jtomori/vft) - Set of tools for generating fractal and generative art.
 - [The Mandelbrot Set (2022)](https://www.sotr.blog/articles/mandelbrot)
 - [Newton's fractal](https://github.com/alordash/newton-fractal) - Drawing Newton's fractal using js, wasm, SIMD commands, threads and GPU.
+- [SwiftUI Fractals](https://github.com/Zeta611/SwiftUI-Fractals) - Sierpinski carpet, triangle, and a fractal tree using SwiftUI.

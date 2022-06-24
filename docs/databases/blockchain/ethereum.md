@@ -102,7 +102,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Solidity](https://github.com/ethereum/solidity) - Contract-Oriented Programming Language. ([Docs](https://solidity.readthedocs.io/))
 - [EVM Opcodes](https://github.com/wolflo/evm-opcodes) - Quick reference for EVM opcodes.
 - [Eth2 News](https://eth2.news)
-- [Lido](https://lido.fi/) - Liquid staking solution for Ethereum. ([Introducing Lido](https://medium.com/lido-finance/introducing-lido-ca193431c82)) ([Discord](https://discord.gg/vgdPfhZ))
+- [Lido](https://lido.fi/) - Liquid staking solution for Ethereum. ([Introducing Lido](https://medium.com/lido-finance/introducing-lido-ca193431c82)) ([Discord](https://discord.gg/vgdPfhZ)) ([JS SDK](https://github.com/lidofinance/lido-js-sdk))
 - [Matter Labs](https://matter-labs.io/) - Unchaining Ethereum with Zero-Knowledge Proofs.
 - [zkSync](https://zksync.io/) - Secure, scalable crypto payments. Fully trustless, secure, user-centric protocol for scaling payments and smart contracts on Ethereum. ([Code](https://github.com/matter-labs/zksync))
 - [Ethereum wallet application for Ledger Blue and Nano S](https://github.com/LedgerHQ/app-ethereum)

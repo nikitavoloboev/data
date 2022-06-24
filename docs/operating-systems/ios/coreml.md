@@ -19,3 +19,4 @@
 - [CoreMLHelpers](https://github.com/hollance/CoreMLHelpers) - Types and functions that make it a little easier to work with Core ML in Swift.
 - [CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Converted CoreML Models Zoo.
 - [CoreGANContainer](https://github.com/john-rocky/CoreGANContainer) - Test your Core ML image generation Models.
+- [What’s new in CoreML](https://quindarius.com/articles/whats-new-in-coreml/index.html)

@@ -123,4 +123,4 @@
 - [SSHConsole](https://github.com/jimstudt/SSHConsole) - Provides an SSH listener to your server which allows you to ssh commands to your server and receive the response back to your terminal.
 - [How to Store an SSH Key on a Yubikey (2022)](https://xeiaso.net/blog/yubikey-ssh-key-storage) ([HN](https://news.ycombinator.com/item?id=31556130))
 - [Russh](https://github.com/warp-tech/russh) - Rust SSH client & server library.
-- [Tailscale SSH (2022)](https://tailscale.com/blog/tailscale-ssh/) ([HN](https://news.ycombinator.com/item?id=31837115))
+- [Tailscale SSH (2022)](https://tailscale.com/blog/tailscale-ssh/) ([HN](https://news.ycombinator.com/item?id=31837115)) ([Lobsters](https://lobste.rs/s/y9ewni/introducing_tailscale_ssh))af

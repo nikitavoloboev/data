@@ -126,3 +126,4 @@ title: Zig
 - [Mixins in Zig](https://igor84.github.io/blog/mixins-in-zig/) ([HN](https://news.ycombinator.com/item?id=31765551))
 - [Learn Zig by examples](https://zig-by-example.github.io/) ([Code](https://github.com/zig-by-example/zig-by-example.github.io))
 - [Paid Zig Stream (2022)](https://www.youtube.com/watch?v=eIX9zER9vjY)
+- [Testing Zig for embedded development (2022)](https://www.kuon.ch/post/2022-06-22-zig-embed/)
