@@ -84,3 +84,4 @@ title: Blender
 - [b3dsdf](https://github.com/williamchange/b3dsdf) - Blender signed distance functions. Toolkit of 2D/3D signed distance functions and sdf/vector operator nodegroups(130+) for Blender 2.83+. Also available as an addon which adds a menu in the shader editor.
 - [Blender themes](https://github.com/williamchange/blender-themes)
 - [Blender CLI Rendering](https://github.com/yuki-koyama/blender-cli-rendering) - Blender Python scripts for rendering images directly from command-line interface.
+- [Notes on learning Blender](https://tendigits.space/site/blender.html)

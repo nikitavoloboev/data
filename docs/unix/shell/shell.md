@@ -237,3 +237,4 @@ All active variables can be seen by running `env`.
 - [Writing Unit-Tests and Mocks for UNIX Shells (2022)](https://poisel.info/posts/2022-05-10-shell-unit-tests/)
 - [asciinema-edit](https://github.com/cirocosta/asciinema-edit) - Auxiliary tools for dealing with ASCIINEMA casts.
 - [PaSh](https://github.com/binpash/pash) - Light-touch Data-Parallel Shell Processing.
+- [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma/)

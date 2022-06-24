@@ -667,3 +667,5 @@
 - [Julia on HPC systems](https://github.com/hlrs-tasc/julia-on-hpc-systems) - Information on how to set up Julia on HPC systems.
 - [Julia TagBot](https://github.com/JuliaRegistries/TagBot) - Creates tags, releases, and changelogs for your Julia packages when they're registered.
 - [Julia Packages Twitter](https://twitter.com/JuliaPackages) - Feed of newly created and updated Julia packages.
+- [Julia Package Setup Tutorial (2021)](https://bjack205.github.io/tutorial/2021/07/16/julia_package_setup.html)
+- [Guide to Artifacts in Julia (2022)](https://www.juliafordatascience.com/artifacts/)

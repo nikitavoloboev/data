@@ -71,3 +71,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Open Drug Discovery Toolkit (ODDT)](https://github.com/oddt/oddt) - Modular and comprehensive toolkit for use in cheminformatics, molecular modeling etc.
 - [Isomorphic Labs](https://www.isomorphiclabs.com/) - Reimagining the entire drug discovery process from first principles with an AI-first approach. ([Twitter](https://twitter.com/IsomorphicLabs))
 - [What's PCP "Angel Dust" Addiction Like? 5 Years Sober](https://www.youtube.com/watch?v=9cNgrvRlLOk)
+- [What are all the natural drugs? (2022)](https://www.reddit.com/r/Drugs/comments/vj9v46/what_are_all_the_natural_drugs/)

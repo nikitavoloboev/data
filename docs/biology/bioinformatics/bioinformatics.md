@@ -220,3 +220,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [glosim](https://github.com/lab-cosmo/glosim) - Python package to compute similarities between molecules and structures.
 - [Bioontologies](https://github.com/biopragmatics/bioontologies) - Unified access to biomedical ontologies.
 - [PyBioPAX](https://github.com/indralab/pybiopax) - Python implementation of the BioPAX object model.
+- [AIMNet](https://github.com/aiqm/aimnet) - Atoms In Molecules Neural Network Potential.
