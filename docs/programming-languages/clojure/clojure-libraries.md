@@ -33,6 +33,7 @@
 - [hato](https://github.com/gnarroway/hato) - HTTP client for Clojure, wrapping JDK 11's HttpClient.
 - [Etaoin](https://github.com/clj-commons/etaoin) - Pure Clojure Webdriver protocol implementation.
 - [Integrant](https://github.com/weavejester/integrant) - Clojure (and ClojureScript) micro-framework for building applications with data-driven architecture.
+- [http-server](https://github.com/babashka/http-server) - Serve static assets.
 
 ## DB
 

@@ -102,6 +102,7 @@
 - [Backpack](https://backpack.github.io/) - Skyscanner's Design System. ([iOS Code](https://github.com/Skyscanner/backpack-ios)) ([Code](https://github.com/Skyscanner/backpack))
 - [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra) - Open Source Admin Template for Chakra UI & React.
 - [AriaKit](https://ariakit.org/) - Toolkit for building accessible web apps with React. ([Twitter](https://twitter.com/ariakitjs))
+- [ENS Design System](https://github.com/ensdomains/thorin) - Design system for ENS built with React and styled-components.
 
 ## Notes
 

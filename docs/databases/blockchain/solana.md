@@ -132,7 +132,7 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Treat Toolbox](https://github.com/theskeletoncrew/treat-toolbox) - Generative NFT Utility for Candy Machine / Solana.
 - [What do you do with your stables on Solana? (2021)](https://twitter.com/Melt_Dem/status/1453127401848774658)
 - [Solana dev tips (2021)](https://twitter.com/exploresolands/status/1453155153343696896)
-- [Solend](https://solend.fi/) - Lend and borrow on Solana. ([GitHub](https://github.com/solendprotocol)) ([Explained](https://www.youtube.com/watch?v=qiOUgh7b8ng))
+- [Solend](https://solend.fi/) - Lend and borrow on Solana. ([GitHub](https://github.com/solendprotocol)) ([Explained](https://www.youtube.com/watch?v=qiOUgh7b8ng)) ([TS SDK](https://github.com/solendprotocol/solend-sdk))
 - [Squads](https://sqds.io/) - One app for all your DAO needs. ([Twitter](https://twitter.com/squads_dapp))
 - [Program deploys in Solana](https://jstarry.notion.site/Program-deploys-29780c48794c47308d5f138074dd9838)
 - [Solana Staking (2021)](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/)
@@ -281,3 +281,4 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [tulipv2-sdk](https://github.com/sol-farm/tulipv2-sdk) - Rust SDK for tulip v2 vaults and v1 lending instructions.
 - [Formfunction](https://formfunction.xyz/) - Solana NFT marketplace designed for independent artists and creators. ([Twitter](https://twitter.com/formfunction))
 - [Solana Mobile](https://solanamobile.com/) - Its time for crypto to go mobile. ([Twitter](https://twitter.com/Solanamobile)) ([Tweet](https://twitter.com/steveluscher/status/1540035190998720512))
+- [Solana Phone future plans (2022)](https://twitter.com/RobinCordini/status/1540278990992203778)

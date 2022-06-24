@@ -71,3 +71,4 @@
 - [Dataset Governance Policy (DGP)](https://github.com/TRI-ML/dgp) - ML Dataset Governance Policy for Autonomous Vehicle Datasets.
 - [HelixNet Toolbox](https://github.com/romainloiseau/HelixNet) - Dataset presented in the "Online Segmentation of LiDAR Sequences: Dataset and Algorithm" paper.
 - [Nocturne](https://github.com/facebookresearch/nocturne) - 2D driving simulator, built in C++ for speed and exported as a Python library.
+- [Autonomous Driving Data Framework (ADDF)](https://github.com/awslabs/autonomous-driving-data-framework)

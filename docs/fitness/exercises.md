@@ -18,3 +18,4 @@
 - [How much time on average do you exercise in a week?](https://news.ycombinator.com/item?id=29769623)
 - [6 Best Mobility Exercises for Longevity](https://www.wellandgood.com/best-mobility-exercises-for-longevity/)
 - [Is there a book about how exercise is awesome without diet culture references? (2022)](https://www.reddit.com/r/suggestmeabook/comments/vfi50j/is_there_a_book_about_how_exercise_is_awesome/)
+- [‘Anti-hunger’ molecule forms after exercise, scientists discover (2022)](https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html) ([HN](https://news.ycombinator.com/item?id=31858063))

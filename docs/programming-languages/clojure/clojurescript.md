@@ -4,6 +4,10 @@ title: ClojureScript
 
 # [ClojureScript](https://github.com/clojure/clojurescript)
 
+## OSS apps
+
+- [atemoia](https://github.com/souenzzo/atemoia) - Simple full-stack Clojure app.
+
 ## Links
 
 - [ReactNYC - ClojureScript: A Great Place for React - Jorge Colindres (2018)](https://www.youtube.com/watch?v=81_p6PSu064)

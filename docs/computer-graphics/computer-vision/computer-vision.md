@@ -816,3 +816,4 @@
 - [The Probabilistic Normal Epipolar Constraint for Frame-To-Frame Rotation Optimization under Uncertain Feature Positions (2022)](https://arxiv.org/abs/2204.02256) ([Code](https://github.com/tum-vision/pnec))
 - [3D Moments from Near-Duplicate Photos (2022)](https://arxiv.org/abs/2205.06255) ([Code](https://github.com/google-research/3d-moments))
 - [Prototypical Contrastive Language Image Pretraining (2022)](https://arxiv.org/abs/2206.10996) ([Code](https://github.com/megvii-research/protoclip))
+- [NeRV: Neural Representations for Videos (2021)](https://haochen-rye.github.io/NeRV/) ([Code](https://github.com/haochen-rye/NeRV))

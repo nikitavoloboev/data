@@ -57,7 +57,7 @@
 
 ## Web
 
-- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server)) ([Tutorial For Beginners](https://github.com/programatik29/axum-tutorial)) ([Rust + Axum + Prisma template](https://github.com/aaronleopold/axum-graphql-prisma)) ([Axum, Tokio, Tower, Hyper, Serde template](https://github.com/joelparkerhenderson/demo-rust-axum))
+- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server)) ([Tutorial For Beginners](https://github.com/programatik29/axum-tutorial)) ([Rust + Axum + Prisma template](https://github.com/aaronleopold/axum-graphql-prisma)) ([Axum, Tokio, Tower, Hyper, Serde template](https://github.com/joelparkerhenderson/demo-rust-axum)) ([Axum_database_Sessions](https://github.com/AscendingCreations/AxumSessions))
 - [Rouille](https://github.com/tomaka/rouille) - Rust web micro-framework.
 - [hyper](https://github.com/hyperium/hyper) - Fast and correct HTTP implementation for Rust. ([Web](https://hyper.rs/)) ([Hyper's Vision](https://seanmonstar.com/post/678179333918097408/hypers-vision))
 - [Typed HTTP Headers from hyper](https://github.com/hyperium/headers)
@@ -388,12 +388,14 @@
 - [four](https://github.com/mwalczyk/four) - 4-dimensional renderer.
 - [muge](https://github.com/andykswong/muge) - Minimal, Modular, Multiplatform Graphics Engine in Rust and WebAssembly.
 - [glyphon](https://github.com/grovesNL/glyphon) - Fast, simple 2D text rendering for wgpu.
+- [NVTX](https://github.com/simbleau/nvtx) - Safe Rust FFI binding for the NVIDIA Tools Extension SDK.
 
 ## Games
 
 - [Tetra](https://github.com/17cupsofcoffee/tetra) - Simple 2D game framework written in Rust.
 - [Emergent AI](https://github.com/PsichiX/emergent) - Toolset for producing emergent gameplay for games written in Rust.
 - [Renet](https://github.com/lucaspoffo/renet) - Collection of rust crates to create Server/Client networked games.
+- [Collider](https://github.com/SergiusIW/collider-rs) - Rust library for continuous 2D collision detection, for use with game developement.
 
 ## GraphQL
 
@@ -1979,6 +1981,7 @@
 - [command-fds](https://github.com/google/command-fds) - Rust library for passing arbitrary file descriptors when spawning child processes.
 - [procspawn](https://github.com/mitsuhiko/procspawn) - Like thread::spawn but for processes.
 - [built](https://github.com/lukaslueg/built) - Provides a crate with information from the time it was built.
+- [noisy_float-rs](https://github.com/SergiusIW/noisy_float-rs) - Rust library for checked floating point operations.
 
 ## Cargo Plugins
 

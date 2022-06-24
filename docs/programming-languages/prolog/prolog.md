@@ -65,3 +65,4 @@ title: Prolog
 - [Web Prolog](https://github.com/Web-Prolog/swi-web-prolog) - SWI-Prolog implementation of Web Prolog.
 - [Ask HN: What are some interesting examples of Prolog? (2022)](https://news.ycombinator.com/item?id=31210466)
 - [Stabilizer: Statistically Sound Performance Evaluation](https://github.com/ccurtsinger/stabilizer)
+- [Simply Logical - Intelligent Reasoning by Example](https://book.simply-logical.space/src/simply-logical.html) ([Code](https://github.com/simply-logical/simply-logical))

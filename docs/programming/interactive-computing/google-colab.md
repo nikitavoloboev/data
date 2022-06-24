@@ -15,3 +15,4 @@ title: Google Colab
 - [Google Colab features you may have missed (2021)](https://www.youtube.com/watch?v=rNgswRZ2C1Y)
 - [Awesome colab notebooks collection for ML experiments](https://github.com/amrzv/awesome-colab-notebooks)
 - [ML Visual Art Colabs](https://github.com/dvschultz/ml-art-colabs)
+- [Reverse Engineering Google Colab (2022)](https://dagshub.com/blog/reverse-engineering-google-colab/) ([HN](https://news.ycombinator.com/item?id=31851031))

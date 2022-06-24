@@ -343,6 +343,8 @@
 - [PacketProcessor](https://github.com/dannys42/SwiftPacketProcessor) - Type-safe packet processor framework in Swift.
 - [Swift LibP2P](https://github.com/swift-libp2p/swift-libp2p) - Swift implementation of libp2p, a modular & extensible networking stack.
 - [APNSwift](https://github.com/swift-server-community/APNSwift) - HTTP/2 APNS library built on AsyncHTTPClient.
+- [URLEncoder](https://github.com/chriseidhof/URLCodable)
+- [curl-swift](https://github.com/khoi/curl-swift) - Opinionated libcurl wrapper for Swift.
 
 ## WASM
 
@@ -1178,6 +1180,7 @@
 - [Boutique](https://github.com/mergesort/Boutique) - Simple but powerful persistence library, and more.
 - [KDTree](https://github.com/Bersaelor/KDTree) - Swift implementation of a k-dimensional binary space partitioning tree.
 - [Algolia Search Swift](https://github.com/algolia/algoliasearch-client-swift) - Fully-featured and blazing-fast Swift API client to interact with Algolia.
+- [AnyAsyncSequence](https://github.com/vsanthanam/AnyAsyncSequence) - Type-Erased Existential Generic AsyncSequence Values in Swift.
 
 ## Other (not lib)
 
@@ -1250,3 +1253,4 @@
 - [Apple Platform SDK API Differences, with Swift support](https://sdk.news/) ([Code](https://github.com/sdk-news/sdk-news))
 - [SwiftLintPlugin](https://github.com/lukepistrol/SwiftLintPlugin) - SPM Plugin for SwiftLint.
 - [SwiftPackageList](https://github.com/FelixHerrmann/swift-package-list) - Command-line tool to generate a JSON, PLIST, Settings.bundle or PDF file with all used SPM-dependencies of an Xcode project or workspace.
+- [Scipio](https://github.com/evandcoleman/Scipio) - Tool that takes existing Swift packages, binary frameworks, or CocoaPods, compiles them into XCFrameworks and delivers them as a single Swift package.

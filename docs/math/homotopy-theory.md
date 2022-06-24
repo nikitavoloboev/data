@@ -48,3 +48,4 @@ title: Homotopy theory
 - [Spartan implementation of H.O.T.T.](https://github.com/Trebor-Huang/Down-The-Path)
 - [HoTT notes](https://github.com/lemastero/hott-wiki)
 - [Introduction to Homotopy Type Theory (LMFI 2022)](https://github.com/herbelin/LMFI-HoTT)
+- [Timeline of “foundational” advances in homotopy theory? (2022)](https://mathoverflow.net/questions/424853/timeline-of-foundational-advances-in-homotopy-theory) ([HN](https://news.ycombinator.com/item?id=31845898))

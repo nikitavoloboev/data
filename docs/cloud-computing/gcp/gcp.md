@@ -106,3 +106,4 @@ title: Google Cloud
 - [Security Response Automation](https://github.com/GoogleCloudPlatform/security-response-automation) - Take automated actions against threats and vulnerabilities.
 - [Google Cloud Run, Satisfaction, and Scalability with Steren Giannini (2022)](https://overcast.fm/+RWDXAOH-s)
 - [Building Serverless Applications with Google Cloud Run (2020)](https://wietsevenema.eu/cloud-run-book/)
+- [BigQuery Emulator](https://github.com/goccy/bigquery-emulator) - Provides a way to launch a BigQuery server on your local machine for testing and development.

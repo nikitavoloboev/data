@@ -202,3 +202,4 @@ title: SQL
 - [Essential elements of high performance applications: SQL indexes (2022)](https://www.foxhound.systems/blog/essential-elements-of-high-performance-sql-indexes/)
 - [A Gentle(-ish) Introduction to Worst-Case Optimal Joins (2022)](http://justinjaffray.com/a-gentle-ish-introduction-to-worst-case-optimal-joins/)
 - [SQL Style Guide](https://www.sqlstyle.guide/) - Consistent code style guide for SQL to ensure legible and maintainable projects. ([Code](https://github.com/treffynnon/sqlstyle.guide))
+- [SQL tricks and concepts you didn't know about - Aleksandra Sikora (2022)](https://www.youtube.com/watch?v=QoCGmvVCqto)

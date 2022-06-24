@@ -185,3 +185,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Making the world’s fastest website, and other mistakes (2022)](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na) ([Tweet](https://twitter.com/tigt_/status/1503755985667698696))
 - [Interaction to Next Paint (2022)](https://imkev.dev/inp)
 - [Components are Pure Overhead (2021)](https://dev.to/this-is-learning/components-are-pure-overhead-hpm)
+- [You’re probably using Lighthouse wrong: How we got tricked by a single magic number (2022)](https://dev.to/vue-storefront/youre-probably-using-lighthouse-wrong-how-we-got-tricked-by-a-single-magic-number-1laj)

@@ -258,3 +258,4 @@
 - [Entity Resolution: The most common data science challenge](https://docs.magniv.io/tutorials/entity-resolution) ([HN](https://news.ycombinator.com/item?id=31585405))
 - [What is the 'Bible' of Data Science? (2022)](https://www.reddit.com/r/datascience/comments/v6sv06/what_is_the_bible_of_data_science/)
 - [Aqueduct](https://github.com/aqueducthq/aqueduct) - Prediction Infrastructure for Data Scientists.
+- [DagsHub](https://dagshub.com/) - Open Source Data Science Collaboration.

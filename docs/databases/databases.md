@@ -640,3 +640,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Common DB schema change mistakes (2022)](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
 - [Let's Remix Distributed Database Design! (2022)](https://www.youtube.com/watch?v=rNmZZLant9o)
 - [SchemaSpy](https://schemaspy.org/) - Database Documentation Built Easy. ([Code](https://github.com/schemaspy/schemaspy))
+- [Percona Community](http://percona.community/) - Community hub for installing, running, optimizing, and learning everything around databases and software architectures. ([Code](https://github.com/percona/community))

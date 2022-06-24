@@ -361,3 +361,4 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [AWS CDK](https://
 - [Learn Amazon SageMaker Book (2021)](https://www.packtpub.com/product/learn-amazon-sagemaker-second-edition/9781801817950) ([Code](https://github.com/PacktPublishing/Learn-Amazon-SageMaker-second-edition))
 - [dns53](https://github.com/purpleclay/dns53) - Dynamic DNS within Amazon Route53. Expose your EC2 quickly, easily and privately.
 - [Getting started with AWS Graviton](https://github.com/aws/aws-graviton-getting-started)
+- [YACE](https://github.com/nerdswords/yet-another-cloudwatch-exporter) - AWS CloudWatch to Prometheus exporter.

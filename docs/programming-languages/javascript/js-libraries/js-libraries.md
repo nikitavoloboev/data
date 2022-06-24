@@ -961,6 +961,7 @@
 - [neodrag](https://github.com/PuruVJ/neodrag) - Lightweight multi-framework libraries for draggability on the web.
 - [object-hash](https://github.com/puleos/object-hash) - Generate hashes from JS objects in node and the browser.
 - [Proxly](https://github.com/pshihn/proxly) - Proxy any list of objects or functions to a single entity.
+- [nanoutils](https://github.com/nanoutils/nanoutils) - Tiniest FP-friendly JavaScript utils library.
 
 ## Links
 
@@ -1041,3 +1042,4 @@
 - [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 - [publint](https://publint.bjornlu.com/) - Lint packaging errors. Ensure compatibility across environments. ([Code](https://github.com/bluwy/publint))
 - [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
+- [parse-imports](https://github.com/TomerAberbach/parse-imports) - Blazing fast ES module imports parser.

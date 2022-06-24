@@ -554,3 +554,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [DALL-E can bring fantasy novels to life. Each paragraph can be used to generate a unique set of vivid imagery on the fly](https://twitter.com/wenquai/status/1527312285152452608)
 - [Coffee Table Mags](https://coffeetablemags.de/)
 - [New Tolkien book: The Fall of Númenor to be published (2022)](https://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/) ([HN](https://news.ycombinator.com/item?id=31845968))
+- [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Python3 script to download archive.org books in PDF format.

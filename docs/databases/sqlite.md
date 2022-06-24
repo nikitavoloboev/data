@@ -211,3 +211,8 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [The Design of SQLite4](https://sqlite.org/src4/doc/trunk/www/design.wiki) ([HN](https://news.ycombinator.com/item?id=31785170))
 - [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations) ([HN](https://news.ycombinator.com/item?id=31824030))
 - [sqlite-lines](https://github.com/asg017/sqlite-lines) - SQLite extension for reading lines from a file or blob.
+- [Building a remote SQLite explorer](https://ricardoanderegg.com/posts/sqlite-remote-explorer-gui/)
+- [litequeue](https://github.com/litements/litequeue) - Queue implemented on top of SQLite.
+- [litedict](https://github.com/litements/litedict) - SQLite as a Python dictionary.
+- [litexplore](https://github.com/litements/litexplore) - Python web app that lets you explore remote SQLite databases over SSH connections without having to copy the full DB or manually use the CLI.
+- [What would SQLite look like if written in Rust? (2021)](https://medium.com/the-polyglot-programmer/what-would-sqlite-would-look-like-if-written-in-rust-part-0-4fc192368984)

@@ -169,3 +169,6 @@ title: Rails
 - [Lograge](https://github.com/roidrage/lograge) - Taming Rails' Default Request Logging.
 - [Why We’re Sticking with Ruby on Rails at Gitlab (2022)](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/) ([HN](https://news.ycombinator.com/item?id=31726825))
 - [Avo](https://avohq.io/) - Configuration-based, no-maintenance, extendable Ruby on Rails admin. ([Code](https://github.com/avo-hq/avo)) ([HN](https://news.ycombinator.com/item?id=31824877))
+- [Lockbox](https://github.com/ankane/lockbox) - Modern encryption for Ruby and Rails.
+- [Tomo](https://github.com/mattbrictson/tomo) - Friendly CLI for deploying Rails apps.
+- [Motion](https://github.com/unabridged/motion) - Reactive frontend UI components for Rails in pure Ruby.

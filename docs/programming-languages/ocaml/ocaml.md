@@ -14,7 +14,7 @@ title: OCaml
 
 - [Getting Started with OCaml in 2021](https://lambdafoo.com/posts/2021-10-29-getting-started-with-ocaml.html)
 - [Learn OCaml](https://ocaml-sf.org/learn-ocaml-public/) - Web Application for Learning OCaml. ([Code](https://github.com/ocaml-sf/learn-ocaml))
-- [OCaml Programming: Correct + Efficient + Beautiful Book (2021)](https://cs3110.github.io/textbook/cover.html) - Textbook on functional programming and data structures in OCaml. ([Lectures](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)) ([Tweet](https://twitter.com/avsm/status/1448972909863636993))
+- [OCaml Programming: Correct + Efficient + Beautiful Book (2021)](https://cs3110.github.io/textbook/cover.html) - Textbook on functional programming and data structures in OCaml. ([Lectures](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)) ([Tweet](https://twitter.com/avsm/status/1448972909863636993)) ([HN](https://news.ycombinator.com/item?id=31848178))
 - [Introduction to OCaml (2018)](https://blog.baturin.org/introduction-to-ocaml.html)
 - [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html) ([HN](https://news.ycombinator.com/item?id=22408664)) ([HN](https://news.ycombinator.com/item?id=27972900)) ([Code](https://github.com/cs3110/textbook))
 - [Dune](https://github.com/ocaml/dune) - Composable build system for OCaml.

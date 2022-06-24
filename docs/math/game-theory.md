@@ -14,3 +14,5 @@
 - [Game Theory Through Examples](https://www.maa.org/sites/default/files/pdf/ebooks/GTE_sample.pdf)
 - [Game Theory Cheat Sheet](https://github.com/cheat-sheets/game-theory-cheat-sheet)
 - [Game Gym](https://github.com/gavento/gamegym) - Game theory framework with examples and algorithms.
+- [Learning Mixed Strategies in Trajectory Games (2022)](https://arxiv.org/abs/2205.00291) ([Code](https://github.com/lassepe/LiftedTrajectoryGames.jl))
+- [TensorGames.jl](https://github.com/4estlaine/TensorGames.jl) - Computing mixed-strategy Nash Equilibria for games involving multiple players.

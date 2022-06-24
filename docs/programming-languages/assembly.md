@@ -97,3 +97,4 @@ title: Assembly
 - [Guide to CPUs and assembly](https://github.com/hackclub/assembly)
 - [Assembly instructions distribution (2022)](https://www.cambus.net/assembly-instructions-distribution/) ([Lobsters](https://lobste.rs/s/gh2paa/assembly_instructions_distribution))
 - [elf.js](https://github.com/tsoding/elf.js) - Project to learn ELF format.
+- [The curious tale of a fake Carrier.app (2022)](https://googleprojectzero.blogspot.com/2022/06/curious-case-carrier-app.html)

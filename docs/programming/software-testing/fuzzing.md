@@ -91,3 +91,4 @@ title: Fuzzing
 - [DeepState](https://github.com/trailofbits/deepstate) - Unit test-like interface for fuzzing and symbolic execution.
 - [Variation of american fuzzy lop for testing compilers](https://github.com/agroce/afl-compiler-fuzzer)
 - [Centipede](https://github.com/google/centipede) - Distributed fuzzing engine.
+- [Fuzzing rust-minidump for Embarrassment and Crashes - Part 2 (2022)](https://hacks.mozilla.org/2022/06/fuzzing-rust-minidump-for-embarrassment-and-crashes/) ([Lobsters](https://lobste.rs/s/jgsegj/fuzzing_rust_minidump_for_embarrassment))

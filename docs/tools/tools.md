@@ -235,6 +235,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [nomnoml](https://www.nomnoml.com/) - Tool for drawing UML diagrams based on a simple syntax. ([Code](https://github.com/skanaar/nomnoml))
 - [Pace](https://pace.dev/) - Minimalist project management tool.
 - [QRImage](https://hughchen.github.io/qr_image/) - Web app to generate QR codes with images. ([Code](https://github.com/HughChen/qr_image)) ([HN](https://news.ycombinator.com/item?id=30162233))
+- [MUI Toolpad](https://github.com/mui/mui-toolpad) - Open source, Low-code internal tool builder.
 - [Pika](https://pika.rishimohan.me/) - Create beautiful screenshots quickly. ([Code](https://github.com/rishimohan/pika)) ([HN](https://news.ycombinator.com/item?id=30611657))
 - [Legend](https://legendapp.com/) ([HN](https://news.ycombinator.com/item?id=28447499))
 - [Meta Meme](https://metameme.app/) - Video and Image Meme Maker. ([HN](https://news.ycombinator.com/item?id=28329444))
@@ -595,6 +596,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [NeuraCache](https://neuracache.com/) - Take notes & highlights, clip articles & screenshots using your favorite tool.
 - [Uncrustify](https://github.com/uncrustify/uncrustify) - Source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 - [SAO](https://github.com/saojs/sao) - Futuristic scaffolding tool. ([Docs](https://saojs.org/))
+- [Mattermost](https://mattermost.com/) - Open Source Collaboration for Developers. ([Server Code](https://github.com/mattermost/mattermost-server)) ([HN](https://news.ycombinator.com/item?id=31858829))
 - [Perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome. ([Web](https://perfetto.dev/))
 - [GitHub Pages URL Shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages. ([HN](https://news.ycombinator.com/item?id=25110879))
 - [projen](https://github.com/projen/projen) - Project generator. Define and maintain complex project configuration through code.

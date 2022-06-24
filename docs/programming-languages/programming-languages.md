@@ -382,3 +382,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Awesome low level programming languages](https://github.com/robertmuth/awesome-low-level-programming-languages)
 - [Inko](https://github.com/YorickPeterse/inko) - Statically-typed, safe, object-oriented programming languages for writing concurrent programs.
 - [wastebin](https://wastebin-pkue.onrender.com/) - Minimal pastebin shamelessly copied from bin. ([Code](https://github.com/matze/wastebin))
+- [Well Done: A Sentinel Value (2013)](http://journal.stuffwithstuff.com/2013/04/17/well-done/)
+- [Emerge](https://github.com/glato/emerge) - Code analysis tool to gather insights about source code structure, metrics, dependencies and complexity of software projects.

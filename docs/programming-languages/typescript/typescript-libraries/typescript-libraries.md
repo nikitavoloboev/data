@@ -553,6 +553,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [JSON BinPack](https://github.com/jviotti/jsonbinpack) - Open-source binary JSON serialization format with a strong focus on space efficiency.
 - [Tinkoff Utils](https://github.com/Tinkoff/utils.js) - Fast, small and purely functional utility library.
 - [lexure](https://github.com/1Computer1/lexure) - Parser and utilities for non-technical user input.
+- [fn.obs](https://github.com/mihar-22/fn-obs) - Tiny (750B minzipped) library for creating reactive observables via functions.
 
 ## Links
 

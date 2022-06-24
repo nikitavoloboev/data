@@ -73,3 +73,4 @@ title: Automata theory
 - [Buttons as Finite Automata](https://web.stanford.edu/class/archive/cs/cs103/cs103.1142/button-fsm/) ([HN](https://news.ycombinator.com/item?id=30775365))
 - [Conway's Game of Life: Mathematics and Construction](https://conwaylife.com/book/) ([Code](https://github.com/nathanieljohnston/game-of-life-book))
 - [Conway's Game of Life – Mathematics and Construction](https://conwaylife.com/book/conway_life_book.pdf) ([HN](https://news.ycombinator.com/item?id=31000502))
+- [convoca](https://github.com/williamgilpin/convoca) - Predict and analyze cellular automata using convolutional neural networks.

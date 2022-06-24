@@ -48,3 +48,4 @@
 - [Running Julia bare-metal on an Arduino](https://seelengrab.github.io/articles/Running%20Julia%20baremetal%20on%20an%20Arduino/) ([HN](https://news.ycombinator.com/item?id=31481895))
 - [STM32LowPower](https://github.com/stm32duino/STM32LowPower) - Arduino Low Power library for STM32.
 - [Arduino IDE 2.x](https://github.com/arduino/arduino-ide)
+- [ESP32-targz](https://github.com/tobozo/ESP32-targz) - Arduino library to unpack/uncompress tar, gz, and tar.gz files on ESP32 and ESP8266.

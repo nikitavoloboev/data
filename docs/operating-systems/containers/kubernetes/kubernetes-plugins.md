@@ -53,6 +53,7 @@
 - [kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect) - Kubectl plugin to list pod containers' status.
 - [kubectl-decoder](https://github.com/flavio/kubectl-decoder) - Kubectl pluging that decodes Kubernetes Secrets - done with WebAssembly and WASI.
 - [kubectl-kubewarden](https://github.com/flavio/kubectl-kubewarden) - Experimental kubectl plugin that interacts with a Kubewarden instance deployed on top of a Kubernetes cluster.
+- [Open Feature Operator](https://github.com/open-feature/open-feature-operator) - Kubernetes native operator that allows you to expose feature flags to your applications.
 
 ## Operators
 

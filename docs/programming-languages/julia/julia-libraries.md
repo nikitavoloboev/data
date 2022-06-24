@@ -282,6 +282,7 @@
 - [ErrorTypes](https://github.com/jakobnissen/ErrorTypes.jl) - Rust-like error types in Julia.
 - [InteractiveErrors.jl](https://github.com/MichaelHatherly/InteractiveErrors.jl) - Interactive error messages for the Julia REPL.
 - [Try.jl](https://github.com/tkf/Try.jl) - Zero-overhead and debuggable error handling.
+- [AbbreviatedStackTraces.jl](https://github.com/BioTurboNick/AbbreviatedStackTraces.jl)
 
 ## WASM
 
@@ -637,6 +638,7 @@
 - [GraphPlot](https://github.com/JuliaGraphs/GraphPlot.jl) - Graph visualization for Julia.
 - [GR.jl](https://github.com/jheinen/GR.jl) - Plotting for Julia based on GR, a framework for visualization applications.
 - [MemoizedMethods.jl](https://github.com/peterahrens/MemoizedMethods.jl) - Methodwise memoization for Julia.
+- [PikaParser.jl](https://github.com/LCSB-BioCore/PikaParser.jl) - Pure Julia implementation of pika parser.
 
 ## Links
 
@@ -664,3 +666,4 @@
 - [Julia Compiler Plugins](https://github.com/JuliaCompilerPlugins)
 - [Julia on HPC systems](https://github.com/hlrs-tasc/julia-on-hpc-systems) - Information on how to set up Julia on HPC systems.
 - [Julia TagBot](https://github.com/JuliaRegistries/TagBot) - Creates tags, releases, and changelogs for your Julia packages when they're registered.
+- [Julia Packages Twitter](https://twitter.com/JuliaPackages) - Feed of newly created and updated Julia packages.

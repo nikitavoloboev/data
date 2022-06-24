@@ -108,6 +108,7 @@
 - [TensorAnnotations](https://github.com/deepmind/tensor_annotations) - Annotating tensor shapes using Python types.
 - [AgentPy](https://github.com/JoelForamitti/agentpy) - Open-source framework for the development and analysis of agent-based models in Python.
 - [autotst](https://github.com/jmkuebler/auto-tst) - AutoML Two-Sample Test. ([Tweet](https://twitter.com/jonas_kubler/status/1538872507540856832))
+- [Roerich](https://github.com/HSE-LAMBDA/roerich) - Python library of change point detection algorithms for time series.
 
 ## Biology
 
@@ -902,6 +903,7 @@
 - [Kuyruk](https://github.com/cenkalti/kuyruk) - Simple task queue for Python.
 - [TreeValue](https://github.com/opendilab/treevalue) - Tree-nested data structure.
 - [picologging](https://github.com/microsoft/picologging) - High-performance logging library for Python.
+- [Comma](https://github.com/jlumbroso/comma) - Python CSV Library for Humans.
 
 ## Notes
 

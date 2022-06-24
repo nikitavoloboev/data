@@ -213,3 +213,5 @@ title: Generative adversarial networks
 - [Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing (2022)](https://arxiv.org/abs/2206.08357) ([Code](https://github.com/adobe-research/sam_inversion))
 - [Parallel WaveGAN implementation with PyTorch](https://github.com/kan-bayashi/ParallelWaveGAN)
 - [Rethinking training of 3D GANs](https://universome.github.io/perf-gan) ([Code](https://github.com/universome/perf-gan))
+- [BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations (2022)](https://nv-tlabs.github.io/big-datasetgan/) ([Code](https://github.com/nv-tlabs/bigdatasetgan_code))
+- [The ArtBench Dataset: Benchmarking Generative Models with Artworks (2022)](https://arxiv.org/abs/2206.11404) ([Code](https://github.com/liaopeiyuan/artbench))

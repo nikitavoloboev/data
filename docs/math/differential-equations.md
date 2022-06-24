@@ -40,3 +40,4 @@ title: Differential equations
 - [PyTorch Implementation of Differentiable SDE Solvers](https://github.com/google-research/torchsde)
 - [Probabilistic Numerics for Differential Equations | Nathanael Bosch (2021)](https://www.youtube.com/watch?v=EMFl6ytP3iQ)
 - [heyoka.py](https://github.com/bluescarni/heyoka.py) - Python library for ODE integration via Taylor's method and LLVM.
+- [DifferentiableTrajectoryOptimization.jl](https://github.com/lassepe/DifferentiableTrajectoryOptimization.jl) - Differentiable trajectory optimization in Julia.

@@ -510,6 +510,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-sqlla](https://github.com/mackee/go-sqlla) - Type safe, reflect free, generative SQL Builder.
 - [Tickler](https://github.com/GoodJobTech/tickler) - Enqueue and process the jobs in the background.
 - [Cache](https://github.com/gookit/cache) - Generic cache use and cache manage.
+- [dbump](https://github.com/cristalhq/dbump) - Go database schema migrator library.
 
 ## ML
 

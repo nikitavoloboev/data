@@ -3,6 +3,7 @@
 ## Notes
 
 - [Aimovig & Ajovi can help remove migraines](https://twitter.com/olgaserhi/status/1453765604217790470)
+- [LASIK Eye Surgery is great](https://shubhamjain.co/2022/06/23/lasik-eye-surgery-experience/)
 
 ## Links
 
