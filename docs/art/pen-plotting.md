@@ -26,3 +26,4 @@
 - [svg2gcode](https://github.com/schollz/svg2gcode) - Converts SVG to gcode for pen plotters.
 - [Overengineered Japanese Mechanical Pencils](https://www.youtube.com/watch?v=PESa3Du3udY) ([HN](https://news.ycombinator.com/item?id=31024600))
 - [This Arduino Pen Plotter Is Built For Speed (2022)](https://hackaday.com/2022/06/19/this-arduino-pen-plotter-is-built-for-speed/)
+- [BrachioGraph](https://www.brachiograph.art/index.html) - Cheapest, simplest possible pen-plotter. ([HN](https://news.ycombinator.com/item?id=31864209))

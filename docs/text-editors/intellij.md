@@ -15,6 +15,7 @@ Don't use it any more as I don't write Java/Kotlin and love VS Code.
 
 ## Nice themes
 
+- [GitHub](https://github.com/bhushan/github-theme-for-jetbrains)
 - [Monokai](https://darekkay.com/blog/monokai-theme-intellij/)
 - [Alabaster](https://github.com/tonsky/intellij-alabaster) - Simple white theme.
 - [Catppuccin for JetBrains IDEs](https://github.com/catppuccin/jetbrains)

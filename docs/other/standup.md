@@ -45,3 +45,4 @@
 - [Greatest standup bits of all-time (2022)](https://www.reddit.com/r/Standup/comments/ttwekb/greatest_bits_of_alltime/)
 - [What's your favorite stand-up comedy bit of all time? (2022)](https://twitter.com/brad_frost/status/1509858744469016577)
 - [Recommendations on books for people who want to be comedians (2022)](https://www.reddit.com/r/Standup/comments/ugahf8/any_recommendations_on_books_for_people_who_want/)
+- [Legendary Comedian Bill Burr — Fear{less} with Tim Ferriss (2022)](https://www.youtube.com/watch?v=RG0cjYbXxME)
