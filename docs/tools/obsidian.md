@@ -4,6 +4,28 @@ title: Obsidian
 
 # [Obsidian](https://obsidian.md/)
 
+Use [Minimal theme](https://github.com/kepano/obsidian-minimal) with these as CSS snippet:
+
+```css
+/* make cursor stop blinking in VIM mode  */
+.CodeMirror-cursor,
+div.CodeMirror-cursor,
+.cm-fat-cursor,
+.cm-animate-fat-cursor,
+.cm-fat-cursor-mark,
+.cm-cursor {
+  visibility: visible !important;
+}
+
+/* remove all visual noise (buttons, sidebar) */
+.side-dock-ribbon.mod-left.is-collapsed {
+  display: none;
+}
+.view-actions {
+  display: none;
+}
+```
+
 ## Plugins
 
 - [Dual](https://github.com/Psionica/dual-obsidian-client) - Skilled virtual assistant for Obsidian. ([Article](https://paulbricman.com/thoughtware/dual))
