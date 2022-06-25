@@ -7,6 +7,7 @@ title: Google Cloud
 ## Connecting to CloudSQL from Go
 
 1. [Connecting to Cloud SQL (Postgres) from a Go web app](https://github.com/GoogleCloudPlatform/golang-samples/blob/main/cloudsql/postgres/database-sql/README.md)
+2. [Connect using the Cloud SQL Auth proxy](https://cloud.google.com/sql/docs/postgres/connect-admin-proxy)
 
 ## Links
 
@@ -112,3 +113,5 @@ title: Google Cloud
 - [Building Serverless Applications with Google Cloud Run (2020)](https://wietsevenema.eu/cloud-run-book/)
 - [BigQuery Emulator](https://github.com/goccy/bigquery-emulator) - Provides a way to launch a BigQuery server on your local machine for testing and development.
 - [Lifecycle of a container on Cloud Run (2021)](https://cloud.google.com/blog/topics/developers-practitioners/lifecycle-container-cloud-run)
+- [Database migration via Cloud SQL Proxy for Cloud SQL in Google Compute Engine VM (2022)](https://www.hairizuan.com/database-migration-via-cloud-sql-proxy-for-cloud-sql-in-google-compute-engine-vm/)
+- [Securely connecting external tools to your GCP SQL database (2020)](https://trevor.io/blog/securely-connecting-external-tools-to-your-gcp-sql-database/)

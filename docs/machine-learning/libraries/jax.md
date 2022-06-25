@@ -6,6 +6,8 @@ title: JAX
 
 [Differential Programming with JAX course](https://ericmjl.github.io/dl-workshop/) is nice. [Meta Optimal Transport](https://github.com/facebookresearch/meta-ot) is nice JAX repo to run/study.
 
+[Robert Lange](https://github.com/RobertTLange) has nice JAX repos.
+
 ## Notes
 
 - [JAX is more like NumPy with Autograd, Jit, and TPU/GPU support](https://twitter.com/rasbt/status/1538903583365681152)
@@ -55,3 +57,4 @@ title: JAX
 - [Rax](https://github.com/google/rax) - Composable Learning to Rank using JAX.
 - [JaX is faster than PyTorch but harder to debug](https://twitter.com/kevin_zakka/status/1538634474107314176)
 - [JAX Meta Learning](https://github.com/tristandeleu/jax-meta-learning) - Collection of meta-learning algorithms in JAX.
+- [Gymnax](https://github.com/RobertTLange/gymnax) - RL Environments in JAX.
