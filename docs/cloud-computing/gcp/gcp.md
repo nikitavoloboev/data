@@ -4,6 +4,10 @@ title: Google Cloud
 
 # [Google Cloud](https://cloud.google.com/)
 
+## Connecting to CloudSQL from Go
+
+1. [Connecting to Cloud SQL (Postgres) from a Go web app](https://github.com/GoogleCloudPlatform/golang-samples/blob/main/cloudsql/postgres/database-sql/README.md)
+
 ## Links
 
 - [Cloud Tasks](https://cloud.google.com/tasks) - Asynchronous task execution.

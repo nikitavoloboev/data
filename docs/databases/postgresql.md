@@ -527,6 +527,6 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Using Edge Functions in Supabase: A complete guide (2022)](https://blog.logrocket.com/using-edge-functions-supabase-complete-guide/)
 - [How to Find and Stop Running Queries on PostgreSQL (2022)](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/) ([HN](https://news.ycombinator.com/item?id=31809394))
 - [How we made data aggregation on PostgreSQL better and faster (2022)](https://www.timescale.com/blog/how-we-made-data-aggregation-better-and-faster-on-postgresql-with-timescaledb-2-7/) ([HN](https://news.ycombinator.com/item?id=31823592))
-- [PostgreSQL Upgrades are hard (2022)](https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html) ([Lobsters](https://lobste.rs/s/6bidxx/postgresql_upgrades_are_hard))
+- [PostgreSQL Upgrades are hard (2022)](https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html) ([Lobsters](https://lobste.rs/s/6bidxx/postgresql_upgrades_are_hard)) ([HN](https://news.ycombinator.com/item?id=31873063))
 - [Custom SQL functions for data analytics in PostgreSQL (2022)](https://www.timescale.com/blog/how-to-write-better-queries-for-time-series-data-analysis-using-custom-sql-functions/)
 - [Postgres Indexes, Selectivity, and Statistics (2022)](https://www.crunchydata.com/blog/indexes-selectivity-and-statistics)

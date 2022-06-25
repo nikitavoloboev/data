@@ -192,3 +192,4 @@ title: Obsidian
 - [Modular CSS Layout for Obsidian](https://github.com/efemkay/obsidian-modular-css-layout)
 - [Molecular Notes: Practice](https://reasonabledeviations.com/2022/06/12/molecular-notes-part-2/) - Discussing the practical implementation of Molecular Notes in Obsidian.
 - [How I set and track goals using Obsidian (2021)](https://marcus.se.net/how-i-set-and-track-goals-in-obsidian/)
+- [Obsidian Help](https://help.obsidian.md/Obsidian/Index)
