@@ -24,9 +24,18 @@ div.CodeMirror-cursor,
 .view-actions {
   display: none;
 }
+.titlebar-button {
+  display: none;
+}
+.workspace-ribbon {
+  display: none;
+}
+.status-bar {
+  display: none;
+}
 ```
 
-![](https://pbs.twimg.com/media/FWHjsdgWIAAwF0g?format=jpg&name=4096x4096)
+![](https://pbs.twimg.com/media/FWHswCFWYAArKUW?format=jpg&name=4096x4096)
 
 ## Plugins
 
