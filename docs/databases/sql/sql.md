@@ -203,3 +203,4 @@ title: SQL
 - [A Gentle(-ish) Introduction to Worst-Case Optimal Joins (2022)](http://justinjaffray.com/a-gentle-ish-introduction-to-worst-case-optimal-joins/)
 - [SQL Style Guide](https://www.sqlstyle.guide/) - Consistent code style guide for SQL to ensure legible and maintainable projects. ([Code](https://github.com/treffynnon/sqlstyle.guide))
 - [SQL tricks and concepts you didn't know about - Aleksandra Sikora (2022)](https://www.youtube.com/watch?v=QoCGmvVCqto)
+- [SQL Habit](https://www.sqlhabit.com/) - Practical SQL course.
