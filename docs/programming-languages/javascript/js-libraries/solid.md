@@ -12,7 +12,7 @@ Using Solid for all my web apps and static sites. Love how it takes all the best
 
 [Hope UI](https://hope-ui.com/) is nice component library. [Motion One for Solid](https://motion.dev/solid/quick-start) is great for animations.
 
-My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](https://github.com/learn-anything/learn-anything/tree/main/web) are OSS & built with Solid.
+My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](https://github.com/learn-anything/learn-anything/) are OSS & built with Solid.
 
 ## OSS apps
 

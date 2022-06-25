@@ -19,7 +19,7 @@
 - [Pose](https://galshir.com/pose/) - Simple web app for character posing.
 - [Lottie](http://airbnb.io/lottie/#/) - Use after effects animations in web and native apps. ([Code](https://github.com/airbnb/lottie)) ([Lottie for iOS, macOS](https://github.com/airbnb/lottie-ios)) ([HN](https://news.ycombinator.com/item?id=29634114))
 - [Ke-Sen Huang's research on animation synthesis, animation summarization, and motion retrieval](https://kesen.realtimerendering.com/)
-- [Rive](https://rive.app/) - Bring your apps and games to life with real-time animation. ([Beta](https://beta.rive.app/))
+- [Rive](https://rive.app/) - Bring your apps and games to life with real-time animation. ([Beta](https://beta.rive.app/)) ([Discord](https://discord.com/invite/FGjmaTr))
 - [Hashflag Gallery Animations](https://hashflaggallery.com/)
 - [WeightShift](https://weightshift.io/) - Maya plugin for animator friendly, physically-based character animation.
 - [FlowBetween](https://github.com/Logicalshift/flowbetween) - Tool for creating animations. ([Web](https://flowbetween.app/))

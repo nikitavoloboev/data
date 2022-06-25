@@ -806,3 +806,4 @@ if err != nil {
 - [Surprising result while transpiling C to Go (2022)](https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/) ([HN](https://news.ycombinator.com/item?id=31818960))
 - [Learn Go by fixing tiny incorrect programs](https://github.com/soypat/gopherlings)
 - [Go Patterns - Fanning](https://seh.dev/concy0/)
+- [Go Course: Master the fundamentals and advanced features](https://www.karanpratapsingh.com/courses/go) ([Code](https://github.com/karanpratapsingh/go-course/))

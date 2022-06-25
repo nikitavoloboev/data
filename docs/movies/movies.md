@@ -111,3 +111,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Similar movies to Blade Runner (2022)](https://www.reddit.com/r/bladerunner/comments/vf28qk/just_watched_blade_runner_i_know_im_super_late/)
 - [What is the saddest movie you've ever seen? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/vfmphf/what_is_the_saddest_movie_youve_ever_seen/)
 - [5 star comedy recs (2022)](https://www.reddit.com/r/Letterboxd/comments/vhq709/have_you_ever_rated_a_pure_comedy_film_5_stars/)
+- [Animated movies for adults with interesting art style (2022)](https://www.reddit.com/r/MovieSuggestions/comments/vjkvuu/animated_movies_for_adults_with_interesting_art/)

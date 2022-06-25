@@ -209,3 +209,4 @@ I enjoy watching [great chess games](https://lichess.org/games) & listening to [
 - [Weiawaga](https://github.com/Heiaha/Weiawaga) - UCI chess engine written in Rust.
 - [Learning Chess at 40](https://nautil.us/learning-chess-at-40-4614/) ([HN](https://news.ycombinator.com/item?id=31433914))
 - [berserk](https://github.com/ZackClements/berserk) - Python client for the Lichess API.
+- [What are the differences between the top chess engines?](https://www.reddit.com/r/chess/comments/vjqsk5/what_are_the_differences_between_the_top_chess/)
