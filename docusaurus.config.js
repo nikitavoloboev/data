@@ -25,7 +25,7 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
           // Please change this to your repo.
-          editUrl: "https://github.nikitavoloboev/knowledge/tree/main/",
+          editUrl: "https://github.com/nikitavoloboev/knowledge/tree/main/",
         },
         blog: false,
         theme: {
