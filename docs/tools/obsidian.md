@@ -4,7 +4,7 @@ title: Obsidian
 
 # [Obsidian](https://obsidian.md/)
 
-Use [Minimal theme](https://github.com/kepano/obsidian-minimal) with these as CSS snippet:
+Use [Minimal theme](https://github.com/kepano/obsidian-minimal) with this CSS snippet:
 
 ```css
 /* make cursor stop blinking in VIM mode  */
@@ -25,6 +25,8 @@ div.CodeMirror-cursor,
   display: none;
 }
 ```
+
+![](https://pbs.twimg.com/media/FWHjsdgWIAAwF0g?format=jpg&name=4096x4096)
 
 ## Plugins
 
