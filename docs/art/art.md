@@ -329,6 +329,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Peter McKinnon](https://www.instagram.com/petermckinnon/)
 - [Michal Pelka](https://www.instagram.com/michalpelka/) - Beautiful photos of waves.
 - [Tobias van Schneider](https://unsplash.com/@vanschneider/)
+- [Jakob LR](https://www.instagram.com/jakob_lr/) ([Web](https://www.jakoblr.com/))
 - [Artem Sapegin](https://unsplash.com/@sapegin)
 - [Annie Spratt](https://www.instagram.com/anniespratt/)
 - [André Josselin](https://www.instagram.com/josselin/) ([Charleen Weiss in Paris](https://www.behance.net/gallery/77340901/Charleen-Weiss-in-Paris))
@@ -353,6 +354,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Agnieszka Pałuk](https://www.instagram.com/wietrznica/)
 - [Petri Levälahti](https://www.berdu.org/)
 - [Teemu](https://www.instagram.com/teemu.jpeg/)
+- [Erik Witsoe](https://www.instagram.com/ewitsoe/)
 - [Christoph Zoubek](http://www.christophzoubek.com/portraits) ([Interview](https://www.sceniusgallery.com/journal/behind-the-lens-christoph-zoubek)) ([Reddit](https://www.reddit.com/user/chris_zou))
 - [TJ Holowaychuk](http://tjholowaychuk.com/)
 - [Joey MacLennan](https://www.instagram.com/joeymaclennan/)

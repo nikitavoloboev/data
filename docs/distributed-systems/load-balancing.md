@@ -52,3 +52,4 @@ title: Load balancing
 - [Data Center Layer-4 Load Balancer Simulator](https://github.com/ZhiyuanYaoJ/SimLB)
 - [Chproxy](https://github.com/ContentSquare/chproxy) - ClickHouse HTTP proxy and load balancer.
 - [Mallob](https://github.com/domschrei/mallob) - Malleable Load Balancer. Multitasking Agile Logic Blackbox. Award-winning SAT solving for the cloud.
+- [sangfroid](https://github.com/arindas/sangfroid) - Load balanced threadpool.

@@ -335,6 +335,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [GO JWT Middleware](https://github.com/auth0/go-jwt-middleware) - Middleware for Go Programming Language to check for JWTs on HTTP requests.
 - [go.pkt](https://github.com/ghedo/go.pkt) - Go libraries for capturing, injecting, filtering, encoding and decoding network packets.
 - [Ghost](https://github.com/mash/ghost) - Build REST APIs from structs using Generics.
+- [fir](https://github.com/adnaan/fir) - Go library to build reactive apps.
 
 ## GraphQL
 
@@ -647,6 +648,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [oerrs](https://github.com/OneOfOne/oerrs) - Adds an ErrorList with optional stack traces.
 - [Errors](https://github.com/alextanhongpin/errors) - Better domain errors with Go.
 - [merry](https://github.com/ansel1/merry) - Go errors with stacktrace and context.
+- [Errors](https://github.com/nicolasparada/go-errs) - Create constant sentinel errors with errors.Is support.
 
 ## Other
 

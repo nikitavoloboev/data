@@ -156,3 +156,4 @@
 - [Assembler Simulator](https://github.com/exuanbo/assembler-simulator) - Simulator of 8-bit CPU using the "Samphire" Microprocessor Simulator instruction set.
 - [Y86 Emulator](https://y86.js.org/) - Y86 pipeline CPU simulator in JavaScript. ([Code](https://github.com/shuding/y86))
 - [CPUs, cloud VMs, and noisy neighbors: the limits of parallelism (2022)](https://pythonspeed.com/articles/cpu-limits-to-speed/)
+- [The TRUTH of TSMC 5nm: Claimed Density vs Reality (2022)](https://www.angstronomics.com/p/the-truth-of-tsmc-5nm) ([Reddit](https://www.reddit.com/r/hardware/comments/vknv0k/angstronomics_the_truth_of_tsmc_5nm/))

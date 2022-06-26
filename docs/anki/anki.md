@@ -74,3 +74,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Ankify](https://ankify.krxiang.com/) - Converts notes to Anki cards. ([HN](https://news.ycombinator.com/item?id=31294306))
 - [Copy notes](https://github.com/Arthur-Milchior/anki-copy-note) - Copy cards, either as new cards, or preserving intervals, ease, etc., from the original card.
 - [Ask HN: Anyone using Anki/Spaced-repetition successfully? (2022)](https://news.ycombinator.com/item?id=31872982)
+- [Memcode](https://www.memcode.com/) - Spaced-repetition: for coders and scientists. ([Code](https://github.com/lakesare/memcode))

@@ -92,3 +92,4 @@ Cities like Shanghai and Guangzhou fascinate me, would love to live there one da
 - [All-In Summit: Claire Cormier Thielke on China + Q&A with Flexport's Ryan Petersen (2022)](https://www.youtube.com/watch?v=dTF-KtYWl5Q)
 - [Understanding Chinese Civilization (2022)](https://www.youtube.com/watch?v=Kf8XIxX7NEs)
 - [CCP’s massacre of thousands of students and peaceful demonstrators at Tiananmen Square](https://twitter.com/gladstein/status/1532854301298569217)
+- [Automated prejudice in China](https://twitter.com/paulmozur/status/1540997238192832512)

@@ -1985,6 +1985,8 @@
 - [mayda](https://github.com/fralalonde/mayda) - Fast Rust integer compression using SIMD.
 - [dipstick](https://github.com/fralalonde/dipstick) - Configurable metrics toolkit for Rust applications.
 - [async_zip](https://github.com/Majored/rs-async-zip) - Asynchronous ZIP archive reading/writing crate.
+- [reborrow](https://github.com/sarah-ek/reborrow) - Emulate reborrowing for user types.
+- [generational-lru](https://github.com/arindas/generational-lru) - Generational arena based LRU Cache implementation in 100% safe rust.
 
 ## Cargo Plugins
 

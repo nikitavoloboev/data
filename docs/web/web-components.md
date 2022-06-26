@@ -102,3 +102,4 @@ title: Web Components
 - [hy-push-state](https://github.com/hydecorp/push-state) - Web component that lets you turn web pages into web apps.
 - [Web Components Course | Learn to Create Web Components](https://frontendmasters.com/courses/web-components/)
 - [Macaron](https://macaron-elements.com/) - Design tool to visually create Web Components. ([Code](https://github.com/macaron-elements/macaron))
+- [Wokwi Elements](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.

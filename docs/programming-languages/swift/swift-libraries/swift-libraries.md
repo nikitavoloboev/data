@@ -1256,3 +1256,4 @@
 - [SwiftLintPlugin](https://github.com/lukepistrol/SwiftLintPlugin) - SPM Plugin for SwiftLint.
 - [SwiftPackageList](https://github.com/FelixHerrmann/swift-package-list) - Command-line tool to generate a JSON, PLIST, Settings.bundle or PDF file with all used SPM-dependencies of an Xcode project or workspace.
 - [Scipio](https://github.com/evandcoleman/Scipio) - Tool that takes existing Swift packages, binary frameworks, or CocoaPods, compiles them into XCFrameworks and delivers them as a single Swift package.
+- [Async State Machine](https://github.com/twittemb/AsyncStateMachine) - Structure an application thanks to state machines.

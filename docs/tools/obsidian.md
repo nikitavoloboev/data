@@ -226,3 +226,4 @@ div.CodeMirror-cursor,
 - [Molecular Notes: Practice](https://reasonabledeviations.com/2022/06/12/molecular-notes-part-2/) - Discussing the practical implementation of Molecular Notes in Obsidian.
 - [How I set and track goals using Obsidian (2021)](https://marcus.se.net/how-i-set-and-track-goals-in-obsidian/)
 - [Obsidian Help](https://help.obsidian.md/Obsidian/Index)
+- [Shimmering Obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow for various enhancements of Obsidian.

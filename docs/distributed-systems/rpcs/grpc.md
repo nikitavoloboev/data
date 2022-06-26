@@ -117,3 +117,4 @@ title: gRPC
 - [Why gRPC is great (2022)](https://twitter.com/kelseyhightower/status/1529573644262727680)
 - [Connect](https://github.com/bufbuild/connect-go) - Slim library for building browser and gRPC-compatible HTTP APIs. ([Article](https://buf.build/blog/connect-a-better-grpc)) ([HN](https://news.ycombinator.com/item?id=31584555)) ([Tweet](https://twitter.com/wallyqs/status/1532239194927484928))
 - [Interactive gRPC API Documentation](https://gendocu-demo.web.app/) ([Code](https://github.com/gendocu-com/grpc-docs))
+- [The Story of Why We Migrate to gRPC and How We Go About It - Matthias Grüter, Spotify (2019)](https://www.youtube.com/watch?v=fMq3IpPE3TU)

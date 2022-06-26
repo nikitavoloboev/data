@@ -134,3 +134,4 @@ I try to spend as much [time with family and loved ones](https://ourworldindata.
 - [What events have clearly split your life into before/after, ranked by how unique they are to you?](https://twitter.com/dan_abramov/status/1536909318473322496)
 - [Mitochondria and the Origin of Eukaryotes (2022)](https://knowablemagazine.org/article/living-world/2022/mitochondria-origin-eukaryotes) ([HN](https://news.ycombinator.com/item?id=31789045))
 - [At a bare minimum, every man should at least know how to \_\_](https://www.reddit.com/r/AskMen/comments/vi6mn7/at_a_bare_minimum_every_man_should_at_least_know/)
+- [Life is not short](https://dkb.show/post/life-is-not-short) ([HN](https://news.ycombinator.com/item?id=31885137))
