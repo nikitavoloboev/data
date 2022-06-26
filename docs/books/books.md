@@ -556,3 +556,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Coffee Table Mags](https://coffeetablemags.de/)
 - [New Tolkien book: The Fall of Númenor to be published (2022)](https://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/) ([HN](https://news.ycombinator.com/item?id=31845968))
 - [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Python3 script to download archive.org books in PDF format.
+- [Flowers for Algernon (1965)] | Hacker News](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf) ([HN](https://news.ycombinator.com/item?id=31875692))

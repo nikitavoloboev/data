@@ -555,3 +555,4 @@ title: Linux
 - [Pipes, deadlocks, and strace annoyingly fixing them (2022)](https://changelog.complete.org/archives/10388-pipes-deadlocks-and-strace-annoyingly-fixing-them)
 - [Linux Kernel Development Book (2003)](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/Linux/Linux%20Kernel%20Development,%203rd%20Edition.pdf)
 - [Linux Block IO: Introducing Multi-queue SSD Access on Multi-core Systems](https://kernel.dk/blk-mq.pdf)
+- [rdb](https://github.com/tchajed/rdb) - Linux debugger written in Rust.

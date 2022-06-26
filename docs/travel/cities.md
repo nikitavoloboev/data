@@ -54,3 +54,4 @@
 - [50 Reasons Why Everyone Should Want More Walkable Streets](https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets)
 - [Great cities have great business & land lord relationships (2022)](https://twitter.com/McReynoldsJoe/status/1536811067992678400)
 - [Four story buildings, narrow streets, wide sidewalks, and lots of trees](https://twitter.com/maxdubler/status/1539654169661157376)
+- [The most livable cities (2022)](https://www.economist.com/graphic-detail/2022/06/22/the-worlds-most-liveable-cities) ([HN](https://news.ycombinator.com/item?id=31873404))

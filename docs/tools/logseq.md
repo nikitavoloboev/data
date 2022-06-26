@@ -31,3 +31,4 @@ title: Logseq
 - [OpenAI GPT3 plugin](https://github.com/briansunter/logseq-plugin-gpt3-openai) - Plugin for GPT-3 AI assisted note taking in Logseq.
 - [Block Navigation](https://github.com/KerfuffleV2/logseq-plugin-blocknav) - Quick block navigation shortcuts for Logseq.
 - [Let's build a decentralized social network together with Logseq](https://briansunter.com/graph/#/page/logseq-social)
+- [Publish your Second Brain online with Logseq Guide](https://briansunter.com/graph/#/page/logseq-getting-started) ([HN](https://news.ycombinator.com/item?id=31876843))

@@ -266,6 +266,7 @@
 - [Wave](https://github.com/jtrivedi/Wave) - Spring-based animation engine for iOS that makes it easy to create fluid, interruptible animations that feel great.
 - [AnimationPlanner](https://github.com/PimCoumans/AnimationPlanner) - Chain multiple UIView animations without endlessly nesting in completion closures.
 - [SplitSheet](https://github.com/aheze/SplitSheet) - Split sheet made with UIScrollView.
+- [UIPiPView](https://github.com/uakihir0/UIPiPView) - UIView that is capable of Picture-in-Picture (PiP) in iOS.
 
 ## macOS
 
@@ -1181,6 +1182,7 @@
 - [KDTree](https://github.com/Bersaelor/KDTree) - Swift implementation of a k-dimensional binary space partitioning tree.
 - [Algolia Search Swift](https://github.com/algolia/algoliasearch-client-swift) - Fully-featured and blazing-fast Swift API client to interact with Algolia.
 - [AnyAsyncSequence](https://github.com/vsanthanam/AnyAsyncSequence) - Type-Erased Existential Generic AsyncSequence Values in Swift.
+- [ConcurrencyPlus](https://github.com/ChimeHQ/ConcurrencyPlus) - Utilities for working with Swift Concurrency.
 
 ## Other (not lib)
 

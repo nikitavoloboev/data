@@ -271,3 +271,5 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [macOS-Login-Items](https://github.com/puffyCid/macos-loginitems) - Simple macOS LoginItems parser (and library) written in Rust.
 - [macOS-fseventsd](https://github.com/puffyCid/macos-fseventsd) - Simple macOS File System Events Disk Log Stream (FsEventsd) parser (and library) written in Rust.
 - [macOS-launchd](https://github.com/puffyCid/macos-launchd) - Simple macOS launchd parser (and library) written in Rust.
+- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon. ([HN](https://news.ycombinator.com/item?id=31878876))
+- [Hardening macOS (2022)](https://www.bejarano.io/hardening-macos/) ([HN](https://news.ycombinator.com/item?id=31864974))

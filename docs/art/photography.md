@@ -224,3 +224,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Red Dot Forum Camera Talk: Leica Noctilux Lenses (2021)](https://www.youtube.com/watch?v=4C6ngV_UTvM)
 - [Leica M Lens System with Peter Karbe (2020)](https://www.youtube.com/watch?v=mZ1xM7qVSXo)
 - [rphotos](https://github.com/kaj/rphotos) - Photo manager web app, written in rust.
+- [Nikon Z9 Disassembly And Teardown (2022)](https://kolarivision.com/nikon-z9-disassembly-and-teardown/)

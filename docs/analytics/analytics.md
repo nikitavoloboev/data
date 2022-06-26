@@ -103,3 +103,4 @@ Well implemented analytics together with proper logging/tracing should let you l
 - [In-Memory Analytics with Apache Arrow (2022)](https://www.packtpub.com/product/in-memory-analytics-with-apache-arrow/9781801071031) ([Code](https://github.com/PacktPublishing/In-Memory-Analytics-with-Apache-Arrow-))
 - [Objectiv](https://github.com/objectiv/objectiv-analytics) - Open-source product analytics infrastructure with a generic event taxonomy. ([Web](https://objectiv.io/)) ([HN](https://news.ycombinator.com/item?id=31432859))
 - [Snowplow](https://github.com/snowplow/snowplow) - Enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP.
+- [dbt Product Analytics](https://github.com/mjirv/dbt_product_analytics) ([HN](https://news.ycombinator.com/item?id=31877959))

@@ -218,3 +218,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Dear Spotify, can we just get table of songs?](https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs/) ([HN](https://news.ycombinator.com/item?id=31618092))
 - [Ricky's personal music library of non-copyrighted music](https://drive.google.com/drive/folders/1YzDtwj6my5hHU7eknGg1BtPpaTyQWmDz) ([Tweet](https://twitter.com/RickleVR/status/1538188755982372864))
 - [Electronic Sound](https://electronicsound.co.uk/) - Electronic music magazine.
+- [Polaris](https://github.com/agersant/polaris) - Music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
+- [Best desktop speakers? (2022)](https://twitter.com/maccaw/status/1540289166440792064)

@@ -159,3 +159,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [After millennia of expansion, the world has passed ‘peak agricultural land’ (2022)](https://ourworldindata.org/peak-agriculture-land) ([HN](https://news.ycombinator.com/item?id=31570698))
 - [Ask HN: SWE who started an organic farm in Europe, where did you go? (2022)](https://news.ycombinator.com/item?id=31619263)
 - [Pipedream Labs](https://i.pipedreamlabs.co/) - Making 30 second delivery times possible this decade w/ underground pipes. ([Twitter](https://twitter.com/pipedream_labs)) ([Tweet](https://twitter.com/thegarrettscott/status/1516499134576046087))
+- [Most of the world’s grain is not eaten by humans (2022)](https://www.economist.com/graphic-detail/2022/06/23/most-of-the-worlds-grain-is-not-eaten-by-humans) ([HN](https://news.ycombinator.com/item?id=31877373))

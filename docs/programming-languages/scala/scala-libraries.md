@@ -200,3 +200,4 @@
 - [zio-akka-quickstart](https://github.com/ScalaConsultants/zio-akka-quickstart.g8) - Giter8 template for a fully functional, ready to deploy microservice ZIO, Akka HTTP and Slick.
 - [Generate native-image binaries with sbt](https://github.com/scalameta/sbt-native-image)
 - [typelevel-nix](https://github.com/typelevel/typelevel-nix) - Development tools for Typelevel projects.
+- [Demos for ScalablyTyped](https://github.com/ScalablyTyped/Demos)

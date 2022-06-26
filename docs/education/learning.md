@@ -226,3 +226,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Ask HN: Have you had success with improving your reading speed? (2022)](https://news.ycombinator.com/item?id=31798938)
 - [Ask HN: What are examples of common beliefs conclusively invalidated by data? (2022)](https://news.ycombinator.com/item?id=31835795)
 - [What you wish someone would’ve told you as a young woman in her 20s?](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/vhiare/what_you_wish_someone_wouldve_told_you_as_a_young/)
+- [Ask HN: Any certification that is worth it? Legitimately helped your career? (2022)](https://news.ycombinator.com/item?id=31874802)

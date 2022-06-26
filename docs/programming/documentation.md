@@ -110,7 +110,7 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [How to write good documentation (2020)](https://victoria.dev/blog/how-to-write-good-documentation/)
 - [The career-changing art of reading the docs (2021)](https://acloudguru.com/blog/engineering/the-career-changing-art-of-reading-the-docs)
 - [DocSearch](https://docsearch.algolia.com/) - Search made for documentation by Algolia. ([Code](https://github.com/algolia/docsearch)) ([Configs](https://github.com/algolia/docsearch-configs))
-- [A Framework for Writing Better Documentation](https://documentation.divio.com/) ([HN](https://news.ycombinator.com/item?id=26002656))
+- [Framework for Writing Better Documentation](https://documentation.divio.com/) ([HN](https://news.ycombinator.com/item?id=26002656)) ([HN](https://news.ycombinator.com/item?id=31874436))
 - [Improving Usability by Writing Documentation (2021)](https://wbond.net/thoughts/improving_usability_by_writing_documentation)
 - [What nobody tells you about documentation (2017)](https://www.youtube.com/watch?v=t4vKPhjcMZg)
 - [paradoc](https://github.com/jordwalke/paradoc) - One Click Docs.
@@ -189,3 +189,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Write documentation first, then build](https://reproof.app/blog/document-first-then-build) ([HN](https://news.ycombinator.com/item?id=31735939))
 - [Docco](https://github.com/jashkenas/docco) - Quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
 - [Rain of Change](https://github.com/Contentrain/rain-of-change) - Contentrain NuxtJS and TailwindCSS Changelog template.
+- [Distributed](https://godistributed.org/) - Build a knowledge base, ask questions and stay in sync with your team all while doing it asynchronously. ([Code](https://github.com/m3o/distributed))

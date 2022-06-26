@@ -157,3 +157,4 @@ title: Redis
 - [RedisRaft](https://github.com/RedisLabs/redisraft) - Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.
 - [Docker and Redis - a curious beginner’s walkthrough (2022)](http://blog.miranti.net.br/redis-getting-started)
 - [Redis vs. KeyDB vs. Dragonfly vs. Skytable (2022)](https://news.ycombinator.com/item?id=31796311)
+- [Go Rate Limiter interface for Redis](https://github.com/sethvargo/go-redisstore)

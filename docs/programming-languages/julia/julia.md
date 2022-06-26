@@ -141,3 +141,4 @@ title: Julia
 - [Building a transformer in Julia (2022)](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
 - [Julia parser for Lezer](https://github.com/lezer-parser/julia)
 - [StaticTools](https://github.com/brenhinkeller/StaticTools.jl) - Enabling StaticCompiler.jl-based compilation of (some) Julia code to standalone native binaries by avoiding GC allocations and llvmcall-ing all the things.
+- [Why I still recommend Julia (2022)](https://huijzer.xyz/posts/recommend/) ([HN](https://news.ycombinator.com/item?id=31880394)) ([Lobsters](https://lobste.rs/s/p5t6j3/why_i_still_recommend_julia))

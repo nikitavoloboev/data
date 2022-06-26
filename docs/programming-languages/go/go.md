@@ -807,3 +807,4 @@ if err != nil {
 - [Learn Go by fixing tiny incorrect programs](https://github.com/soypat/gopherlings)
 - [Go Patterns - Fanning](https://seh.dev/concy0/)
 - [Go Course: Master the fundamentals and advanced features](https://www.karanpratapsingh.com/courses/go) ([Code](https://github.com/karanpratapsingh/go-course/))
+- [We Halved Go Monorepo CI Build Time (2022)](https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/) ([HN](https://news.ycombinator.com/item?id=31882512))

@@ -124,3 +124,4 @@ title: Apache Kafka
 - [BroadwayKafka](https://github.com/dashbitco/broadway_kafka) - Broadway connector for Kafka.
 - [CMAK](https://github.com/yahoo/CMAK) - Tool for managing Apache Kafka clusters.
 - [kt](https://github.com/fgeller/kt) - Kafka tool that likes JSON.
+- [Kafka Proxy](https://github.com/grepplabs/kafka-proxy) - Proxy connections to Kafka cluster. Connect through SOCKS Proxy, HTTP Proxy or to cluster running in Kubernetes.

@@ -90,3 +90,4 @@ I try drink only water/tea with occasional coffee. No added sugar in food/drinks
 - [Interesting facts about food/nutrition](https://www.reddit.com/r/nutrition/comments/t3lfwh/what_are_the_most_mind_blowing_or_interesting/)
 - [Everything is apparently unhealthy. What are you supposed to eat?](https://www.reddit.com/r/nutrition/comments/vbnl0i/everything_is_apparently_unhealthy_what_are_you/)
 - [Dr. Rhonda Patrick: Micronutrients for Health & Longevity (2022)](https://www.youtube.com/watch?v=XcvhERcZpWw)
+- [Eat, Drink, and Be Healthy Book](https://www.goodreads.com/en/book/show/5579) ([Tweet](https://twitter.com/paraschopra/status/1541035832739770368))

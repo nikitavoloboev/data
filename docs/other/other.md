@@ -636,3 +636,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [What’s a scam that’s become so normalized that we don’t realize it’s a scam anymore?](https://twitter.com/LizzieCosmos/status/1537427575957606401)
 - [Permacomputing Wiki](https://permacomputing.net/) ([HN](https://news.ycombinator.com/item?id=31828615))
 - [What's a scam that's become so normalized that we don't even realize it's a scam anymore?](https://twitter.com/austin_rief/status/1539280043796582400)
+- [Enclave: An Unpickable Lock](https://ominoushum.com/lock/) ([HN](https://news.ycombinator.com/item?id=31880108))

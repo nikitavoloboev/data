@@ -186,3 +186,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [Plastic Recycling Doesn't Work and Will Never Work (2022)](https://www.theatlantic.com/ideas/archive/2022/05/single-use-plastic-chemical-recycling-disposal/661141/) ([HN](https://news.ycombinator.com/item?id=31560225))
 - [Tackling Climate Change with Machine Learning (2019)](https://arxiv.org/abs/1906.05433) ([Tweet](https://twitter.com/alex_lacoste_/status/1538509424398041089))
 - [Polyformer](https://github.com/Reiten966/Polyformer) - Open-source project that aims to recycle plastics into FDM filaments.
+- [AI-guided robots are ready to sort recyclables](https://spectrum.ieee.org/ai-guided-robots-are-ready-to-sort-your-recyclables) ([HN](https://news.ycombinator.com/item?id=31877672))

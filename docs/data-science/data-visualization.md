@@ -6,6 +6,10 @@
 
 - [America’s Highest Earners And Their Taxes Revealed](https://projects.propublica.org/americas-highest-incomes-and-taxes-revealed/)
 
+## Notes
+
+- [Next time you want to lie with data, use areas. Next time you see a chart with areas, know you’re being lied to.](https://twitter.com/swombat/status/1541029081264832513)
+
 ## Links
 
 - [Vega](http://vega.github.io/) - Declarative format for creating, saving, and sharing visualization designs. ([Code](https://github.com/vega/vega))

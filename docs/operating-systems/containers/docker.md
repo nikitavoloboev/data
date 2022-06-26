@@ -245,3 +245,4 @@ title: Docker
 - [Process Compose](https://github.com/F1bonacc1/process-compose) - Simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [Why new Macs break your Docker build, and how to fix it (2022)](https://pythonspeed.com/articles/docker-build-problems-mac/)
 - [drone-gc](https://github.com/drone/drone-gc) - Garbage collection of unused docker resources.
+- [Docker Credential Helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores.

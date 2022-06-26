@@ -139,3 +139,4 @@ title: AWS Lambda
 - [runtime](https://github.com/serverless/runtime) - Collection of Open Telemetry collectors we use to instrument a variety of computing platforms.
 - [aws-exec](https://github.com/nathants/aws-exec) - Adhoc shell execution in aws lambda.
 - [Lamware](https://github.com/evilkiwi/lamware) - AWS Lambda Middleware Pattern (NodeJS).
+- [Blambda](https://github.com/jmglov/blambda) - Custom runtime for AWS Lambda that lets you write functions using Babashka.

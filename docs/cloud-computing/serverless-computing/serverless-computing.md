@@ -168,3 +168,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [fasttime](https://github.com/softprops/fasttime) - Lightweight Fastly Compute@Edge runtime for running and testing WASM applications locally.
 - [Upstash](https://upstash.com/) - Serverless Data for Redis and Kafka. ([GitHub](https://github.com/upstash)) ([Twitter](https://twitter.com/upstash)) ([CLI](https://github.com/upstash/cli))
 - [Serverless at Stedi - Learnings and Best Practices - Marek Kuczynski (2022)](https://www.youtube.com/watch?v=9V0QlkTwXvU)
+- [fnapi](https://github.com/fnapi/fnapi) - Convert a function to an API. TypeScript backend framework, focused on removing boilerplates.

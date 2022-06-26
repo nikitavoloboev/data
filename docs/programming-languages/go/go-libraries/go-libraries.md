@@ -1705,6 +1705,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Techan](https://github.com/sdcoffey/techan) - Technical analysis library for Go.
 - [flume](https://github.com/ThalesGroup/flume) - Structured, leveled logging with global, runtime reconfiguration.
 - [goforit](https://github.com/stripe/goforit) - Feature flags client library for Go.
+- [logf](https://github.com/mr-karan/logf) - Minimal logging library for Go.
+- [tstruct](https://github.com/josharian/tstruct) - Generate template FuncMap helpers to construct struct literals within a Go template.
 
 ## Links
 

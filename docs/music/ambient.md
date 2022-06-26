@@ -38,3 +38,4 @@ Most if not all songs in my [Focus](https://open.spotify.com/playlist/0ESjwZeTcH
 - [Noisedash](https://github.com/KevinThomas0/noisedash) - Self-hostable web tool for generating ambient noises.
 - [Nightwave Plaza](https://plaza.one/) - Online Vaporwave Radio.
 - [Lofi.co](https://lofi.co/) - Relax & Focus. ([HN](https://news.ycombinator.com/item?id=31470928))
+- [Earth.fm](https://earth.fm/) - Like Spotify, but for natural soundscapes.

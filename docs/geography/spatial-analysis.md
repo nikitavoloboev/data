@@ -222,3 +222,4 @@ title: Spatial analysis
 - [Map Projection Transitions](https://www.jasondavies.com/maps/transition/) ([HN](https://news.ycombinator.com/item?id=31808785))
 - [gdal3.js](https://gdal3.js.org/) - Convert raster and vector geospatial data to various formats and coordinate systems entirely in the browser. ([Code](https://github.com/bugra9/gdal3.js))
 - [Tangram ES](https://github.com/tangrams/tangram-es) - C++ library for rendering 2D and 3D maps from vector data using OpenGL ES.
+- [Geospatial deep learning with TorchGeo (2022)](https://pytorch.org/blog/geospatial-deep-learning-with-torchgeo/)

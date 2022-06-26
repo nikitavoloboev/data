@@ -550,3 +550,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [sema](https://github.com/sharpvik/sema) - Semantic commit tool.
 - [Ask HN: Why are Git submodules so bad? (2022)](https://news.ycombinator.com/item?id=31792303)
 - [git-pile](https://github.com/keith/git-pile) - Stacked diff support for GitHub workflows.
+- [Dangit, Git?](https://dangitgit.com/en) ([HN](https://news.ycombinator.com/item?id=31875953))

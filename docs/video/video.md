@@ -376,3 +376,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. ([Docs](https://vimejs.com/))
 - [Уличная магия сравнения кодеков. Раскрываем секреты (2019)](https://habr.com/ru/post/451664/)
 - [playerx](https://github.com/playerxo/playerx) - Media Player Web Component.
+- [Vimeo Player API](https://github.com/vimeo/player.js) - Interact with and control an embedded Vimeo Player.

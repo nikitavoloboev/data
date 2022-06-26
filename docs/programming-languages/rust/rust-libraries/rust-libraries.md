@@ -1982,6 +1982,9 @@
 - [procspawn](https://github.com/mitsuhiko/procspawn) - Like thread::spawn but for processes.
 - [built](https://github.com/lukaslueg/built) - Provides a crate with information from the time it was built.
 - [noisy_float-rs](https://github.com/SergiusIW/noisy_float-rs) - Rust library for checked floating point operations.
+- [mayda](https://github.com/fralalonde/mayda) - Fast Rust integer compression using SIMD.
+- [dipstick](https://github.com/fralalonde/dipstick) - Configurable metrics toolkit for Rust applications.
+- [async_zip](https://github.com/Majored/rs-async-zip) - Asynchronous ZIP archive reading/writing crate.
 
 ## Cargo Plugins
 
@@ -2203,3 +2206,4 @@
 - [Deps.rs](https://deps.rs/) - Keep your dependencies up-to-date. ([Code](https://github.com/deps-rs/deps.rs))
 - [Rust FFI Omnibus](https://github.com/shepmaster/rust-ffi-omnibus) - Collection of examples of using code written in Rust from other languages.
 - [Aeneas](https://github.com/sonmarcho/aeneas) - Verification toolchain for Rust programs.
+- [What is `Box<str>` and how is it different from `String` in Rust? (2022)](https://mahdi.blog/rust-box-str-vs-string/) ([HN](https://news.ycombinator.com/item?id=31859643))

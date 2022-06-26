@@ -48,3 +48,5 @@
 - [The Dark Side of Electric Cars (2022)](https://www.youtube.com/watch?v=2_T5DgsO0jc)
 - [I saw a cool truck today (2022)](https://theap.substack.com/p/i-saw-a-cool-truck-today?s=r) ([HN](https://news.ycombinator.com/item?id=31309595))
 - [Flexport](https://www.flexport.com/) - Technology Platform for Global Logistics.
+- [3D Diagrams of London Underground Stations](https://www.ianvisits.co.uk/articles/3d-maps-of-every-underground-station-ab-14630/) ([HN](https://news.ycombinator.com/item?id=31881625))
+- [The fragmented nature of modern-day railways (2022)](https://hackaday.com/2022/06/23/grain-stuck-in-the-ukraine-the-fragmented-nature-of-modern-day-railways/) ([HN](https://news.ycombinator.com/item?id=31857210))

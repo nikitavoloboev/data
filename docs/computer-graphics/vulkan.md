@@ -90,3 +90,4 @@ title: Vulkan API
 - [vkroots](https://github.com/Joshua-Ashton/vkroots) - Framework for writing Vulkan layers.
 - [Ray tracing glTF scene with Vulkan](https://github.com/nvpro-samples/vk_raytrace)
 - [Vuh](https://github.com/Glavnokoman/vuh) - Vulkan-based GPGPU computing framework.
+- [Fossilize](https://github.com/ValveSoftware/Fossilize) - Serialization format for various persistent Vulkan object types.

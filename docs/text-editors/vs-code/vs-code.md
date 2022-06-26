@@ -80,3 +80,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [VSCodium](https://vscodium.com/) - Open Source Binaries of VSCode. ([Code](https://github.com/VSCodium/vscodium)) ([HN](https://news.ycombinator.com/item?id=31604932))
 - [Visual Studio Code Community Discussions](https://github.com/microsoft/vscode-discussions)
 - [Monaco VSCode API](https://github.com/CodinGame/monaco-vscode-api) - NPM module that implements the VSCode api and redirects calls to Monaco editor.
+- [Vim for VSCode](https://vimforvscode.com/) - Learn to use Vim inside your favorite editor.
