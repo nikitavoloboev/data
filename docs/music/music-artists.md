@@ -292,3 +292,4 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 ## Links
 
 - [Artists like Nile Frahm](https://www.reddit.com/r/NilsFrahm/comments/rddpb7/artists_like_nile_frahm/)
+- [Which rap artists do you think are the best at using their voice as an expressive instrument?](https://www.reddit.com/r/hiphopheads/comments/vk2ld3/which_rap_artists_do_you_think_are_the_best_at/)

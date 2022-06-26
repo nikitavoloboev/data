@@ -16,3 +16,4 @@ title: esbuild
 - [esrun](https://github.com/digital-loukoum/esrun) - Simple wrapper around esbuild to execute a Typescript file.
 - [esbuild-serve](https://github.com/nativew/esbuild-serve) - Serve with live reload for esbuild.
 - [esbuild-plugin-raw](https://github.com/hannoeru/esbuild-plugin-raw) - Esbuild plugin for raw import.
+- [Build an esbuild plugin (2022)](https://www.youtube.com/watch?v=O7U-b9knR6U)

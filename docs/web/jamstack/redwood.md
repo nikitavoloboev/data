@@ -30,3 +30,4 @@ title: Redwood
 - [Example Todo app written with Redwood](https://github.com/redwoodjs/example-todo)
 - [Redwood Startup Showcase: v1 Launch Week (2022)](https://www.youtube.com/watch?v=B0CP0aAePsI) ([Tweet](https://twitter.com/swyx/status/1512843957947932675))
 - [RedwoodJS Intro (2022)](https://www.youtube.com/watch?v=m_3I9mufZfs)
+- [RedwoodJS Discord](https://discord.com/invite/redwoodjs)
