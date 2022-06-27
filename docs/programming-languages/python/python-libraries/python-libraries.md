@@ -300,6 +300,7 @@
 - [Kombu](https://github.com/celery/kombu) - Messaging library for Python.
 - [FastAPI](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. ([Modern APIs with FastAPI course](https://github.com/talkpython/modern-apis-with-fastapi)) ([FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator)) ([FastAPI Auth](https://github.com/Kludex/fastapi-authorization)) ([Getting started with GraphQL in Python with FastAPI and Ariadne](https://blog.yezz.me/blog/Getting-started-with-GraphQL-in-Python-with-FastAPI-and-Ariadne)) ([JWT Auth](https://github.com/IndominusByte/fastapi-jwt-auth)) ([FastAPI Real World App](https://github.com/nsidnev/fastapi-realworld-example-app)) ([MeiliSearch FastAPI](https://github.com/sanders41/meilisearch-fastapi))
 - [Starlette](https://github.com/encode/starlette) - Little ASGI framework that shines. ([Docs](https://www.starlette.io/))
+- [Xpresso](https://github.com/adriangb/xpresso) - Composable, flexible and performant ASGI web framework ([Docs](https://xpresso-api.dev/))
 - [Poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [POT: Python Optimal Transport](https://github.com/PythonOT/POT) - Provide several solvers for optimization problems related to Optimal Transport for signal, image processing and machine learning.
 - [Pampy](https://github.com/santinic/pampy) - Pattern Matching for Python you always dreamed of.
