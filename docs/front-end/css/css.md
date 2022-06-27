@@ -527,3 +527,4 @@ all: unset
 - [Elly Loel CSS Reset](https://gist.github.com/EllyLoel/4ff8a6472247e6dd2315fd4038926522) ([Tweet](https://twitter.com/ellyloel/status/1538752447560110080))
 - [PostCSS Media Minmax](https://github.com/postcss/postcss-media-minmax) - Writing simple and graceful Media Queries.
 - [Defensive CSS](https://defensivecss.dev/) - Practical CSS and design tips that helps in building future-proof user interfaces. ([Twitter](https://twitter.com/DefensiveCSS))
+- [Create Diagonal Layouts Like It's 2020](https://9elements.com/blog/pure-css-diagonal-layouts/)

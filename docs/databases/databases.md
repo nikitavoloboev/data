@@ -641,3 +641,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Let's Remix Distributed Database Design! (2022)](https://www.youtube.com/watch?v=rNmZZLant9o)
 - [SchemaSpy](https://schemaspy.org/) - Database Documentation Built Easy. ([Code](https://github.com/schemaspy/schemaspy))
 - [Percona Community](http://percona.community/) - Community hub for installing, running, optimizing, and learning everything around databases and software architectures. ([Code](https://github.com/percona/community))
+- [Things to know about databases (2022)](https://architecturenotes.co/things-you-should-know-about-databases/) ([HN](https://news.ycombinator.com/item?id=31895623))

@@ -170,3 +170,4 @@
 - [Parsing R code: Freedom of expression is not always a good idea (2012)](https://shape-of-code.com/2012/02/29/parsing-r-code-freedom-of-expression-is-not-always-a-good-idea/) ([HN](https://news.ycombinator.com/item?id=31736794))
 - [furrr](https://github.com/DavisVaughan/furrr) - Apply Mapping Functions in Parallel using Futures.
 - [Tutorial: An Introduction to Futureverse for Parallel Processing in R](https://github.com/HenrikBengtsson/future-tutorial-user2022)
+- [causact](https://github.com/flyaflya/causact) - R package to accelerate Bayesian analytics workflows.

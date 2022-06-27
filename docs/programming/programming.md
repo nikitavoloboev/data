@@ -565,3 +565,4 @@
 - [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries)
 - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/) ([HN](https://news.ycombinator.com/item?id=31836974))
 - [The Grug Brained Developer](https://grugbrain.dev/) - Layman's guide to thinking like the self-aware smol brained.
+- [Ask HN: What tone to use in code review suggestions? (2022)](https://news.ycombinator.com/item?id=31858604)

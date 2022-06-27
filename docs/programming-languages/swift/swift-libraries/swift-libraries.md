@@ -267,6 +267,7 @@
 - [AnimationPlanner](https://github.com/PimCoumans/AnimationPlanner) - Chain multiple UIView animations without endlessly nesting in completion closures.
 - [SplitSheet](https://github.com/aheze/SplitSheet) - Split sheet made with UIScrollView.
 - [UIPiPView](https://github.com/uakihir0/UIPiPView) - UIView that is capable of Picture-in-Picture (PiP) in iOS.
+- [KeyboardToolbar](https://github.com/simonbs/KeyboardToolbar) - Add tools above your keyboard with iOS-like keyboard buttons.
 
 ## macOS
 

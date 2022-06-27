@@ -238,6 +238,7 @@
 - [Carve](https://github.com/borkdude/carve) - Carve out the essentials of your Clojure app.
 - [Muotti](https://github.com/esuomi/muotti) - Graph based value transformer library which aims to solve value transformation.
 - [Mate](https://github.com/green-coder/mate) - Useful functions, some of which I wish were in the Clojure standard library.
+- [Dom Top](https://github.com/aphyr/dom-top) - Unorthodox control flow, for Clojurists with masochistic sensibilities.
 
 ## Links
 
@@ -261,3 +262,4 @@
 - [Quickdoc](https://github.com/borkdude/quickdoc) - Quick and minimal API doc generation for Clojure.
 - [build.edn](https://github.com/liquidz/build.edn) - Make your Clojure library build process easy.
 - [exoscale tools.project](https://github.com/exoscale/tools.project) - Helpers to work with our tools.deps projects.
+- [clj-depend](https://github.com/clj-depend/clj-depend) - Clojure namespace dependency analyzer.

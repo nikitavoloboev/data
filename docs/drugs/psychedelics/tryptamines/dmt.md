@@ -92,3 +92,4 @@ I love all [tryptamines](tryptamines.md) but am yet to breakthrough on DMT. [Man
 - [DMT has been found in the human brain, cerebrospinal fluid, lungs](https://www.reddit.com/r/Psychonaut/comments/ttabbh/dmt_not_proven_to_be_in_human_brain/)
 - [Those that have done DMT: Do you believe in God?](https://www.reddit.com/r/Psychonaut/comments/tx65ce/those_that_have_done_dmt_do_you_believe_in_god/)
 - ["Jungle Spice" - Mystery Alkaloids of Mimosa Root Bark](https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=1115)
+- [What is the Highest Level of DMT?](https://www.youtube.com/watch?v=FwrUHtTtjO8)

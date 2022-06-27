@@ -127,7 +127,7 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Common Documentation Mistakes and How to Avoid Them (2021)](https://glebbahmutov.com/blog/common-documentation-mistakes-and-how-to-avoid-them/)
 - [The case for Continuous Documentation (2021)](https://www.virtuallifestyle.nl/2021/04/the-case-for-continuous-documentation/) ([HN](https://news.ycombinator.com/item?id=27411574))
 - [Archbee](https://www.archbee.io/) - Documentation Tool for your Team and Product.
-- [Explaining Code using ASCII Art (2019)](https://blog.regehr.org/archives/1653)
+- [Explaining Code using ASCII Art (2019)](https://blog.regehr.org/archives/1653) ([HN](https://news.ycombinator.com/item?id=31891226))
 - [Useful and useless code comments (2021)](https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/) ([HN](https://news.ycombinator.com/item?id=27542319))
 - [Ask HN: What software do you use to gather requirements? (2021)](https://news.ycombinator.com/item?id=27615562)
 - [Bikeshed](https://github.com/tabatkins/bikeshed) - Preprocessor for anyone writing specifications that converts source files into actual specs.
@@ -190,3 +190,5 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Docco](https://github.com/jashkenas/docco) - Quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
 - [Rain of Change](https://github.com/Contentrain/rain-of-change) - Contentrain NuxtJS and TailwindCSS Changelog template.
 - [Distributed](https://godistributed.org/) - Build a knowledge base, ask questions and stay in sync with your team all while doing it asynchronously. ([Code](https://github.com/m3o/distributed))
+- [How do do docs for your projects?](https://twitter.com/DavidKPiano/status/1541397415516831744)
+- [Identifying content gaps in our documentation](https://blog.cloudflare.com/identifying-content-gaps/)

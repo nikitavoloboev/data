@@ -338,3 +338,4 @@
 - [Designing Billions of Circuits with Code (2022)](https://asianometry.substack.com/p/designing-billions-of-circuits-with) ([HN](https://news.ycombinator.com/item?id=31838690))
 - [HDMI Firewall](https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md) ([HN](https://news.ycombinator.com/item?id=31828193))
 - [Ask HN: Are there any companies that are doing interesting work in hardware? (2022)](https://news.ycombinator.com/item?id=31854931)
+- [Awesome Open Source Hardware](https://github.com/aolofsson/awesome-opensource-hardware)

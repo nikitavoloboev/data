@@ -59,3 +59,4 @@ title: PureScript
 - [PureShell](https://github.com/cgohla/pureshell) - Compile PureScript to shell scripts.
 - [PureScript Deno](https://github.com/njaremko/purescript-deno) - Deno bindings for PureScript.
 - [purescript-ssrs](https://github.com/PureFunctor/purescript-ssrs) - Stack-safe recursion schemes on dissectible data structures.
+- [PsKt](https://github.com/csicar/pskt) - Kotlin-backend for PureScript.

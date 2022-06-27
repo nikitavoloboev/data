@@ -68,6 +68,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Exegesis OpenAPI Engine](https://github.com/exegesis-js/exegesis) - Tools for implementing server-side OpenAPI 3.0.0.
 - [aspida](https://github.com/aspida/aspida) - TypeScript friendly HTTP client wrapper for the browser and node.js.
 - [Purity](https://github.com/tatomyr/purity) - Declarative State & DOM Manager.
+- [response-multipart](https://github.com/tom-sherman/response-multipart) - Standards-inspired multipart/\* parsing. It's like response.text() but for multipart bodies.
+- [uttp](https://github.com/sachinraja/uttp) - Write your request handlers once, run anywhere.
 
 ## GraphQL
 
@@ -634,3 +636,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-serve](https://github.com/ayame113/ts-serve) - Transpile TypeScript on the fly and deliver it from your server as ES Modules.
 - [typescript-type-def](https://github.com/dbeckwith/rust-typescript-type-def) - Generate TypeScript type definitions for Rust types.
 - [Levitate](https://github.com/grafana/levitate) - Tool for helping to understand APIs exported and consumed by NPM packages (or any TypeScript code).
+- [pkg-exports](https://github.com/antfu/pkg-exports) - Get exports of an local npm package.

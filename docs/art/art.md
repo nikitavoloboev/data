@@ -312,6 +312,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Luke](https://www.instagram.com/watchluke/) ([Web](https://www.watchluke.com/))
 - [Gosse Bouma](https://www.instagram.com/gosse_bouma/)
 - [Michael Kenna](https://www.artsy.net/artist/michael-kenna)
+- [Martina Matencio](https://www.instagram.com/lalovenenoso/)
 - [Noah Kalina](https://www.instagram.com/noahkalina/)
 - [Simen Johan](http://www.simenjohan.com/x/index.html)
 - [Brandon Woelfel](http://www.brandonwoelfel.com/photography-1/)

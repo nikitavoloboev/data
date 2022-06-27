@@ -20,6 +20,7 @@
 - [MainArgs](https://github.com/com-lihaoyi/mainargs) - Small, dependency-free library for command line argument parsing in Scala.
 - [decline](https://github.com/bkirwi/decline) - Composable command-line parser for Scala.
 - [zio-cli](https://github.com/zio/zio-cli) - Rapidly build powerful command-line applications powered by ZIO.
+- [zio-tui](https://github.com/kitlangton/zio-tui) - Library for creating interactive terminal user interfaces.
 
 ## FP
 
@@ -201,3 +202,4 @@
 - [Generate native-image binaries with sbt](https://github.com/scalameta/sbt-native-image)
 - [typelevel-nix](https://github.com/typelevel/typelevel-nix) - Development tools for Typelevel projects.
 - [Demos for ScalablyTyped](https://github.com/ScalablyTyped/Demos)
+- [scala-interactive-update](https://github.com/kitlangton/scala-interactive-update) - Update your Scala dependencies (both libraries and plugins) interactively.

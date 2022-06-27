@@ -127,3 +127,4 @@ title: Zig
 - [Learn Zig by examples](https://zig-by-example.github.io/) ([Code](https://github.com/zig-by-example/zig-by-example.github.io))
 - [Paid Zig Stream (2022)](https://www.youtube.com/watch?v=eIX9zER9vjY)
 - [Testing Zig for embedded development (2022)](https://www.kuon.ch/post/2022-06-22-zig-embed/)
+- [An Intro to Zig's checkAllAllocationFailures (2022)](https://www.ryanliptak.com/blog/zig-intro-to-check-all-allocation-failures/)

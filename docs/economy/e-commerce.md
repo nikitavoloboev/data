@@ -160,3 +160,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [GAÂLA](https://gaala.com/) - Slow-fashion brand bringing you timeless apparel crafted by skilled European artisans. ([IG](https://www.instagram.com/gaalaparis/))
 - [Double import explained (2022)](https://www.youtube.com/watch?v=ydtWQE8vJ7w)
 - [Burrow](https://www.burrow.com/) - Custom Furniture & Sectional Sofas. ([Twitter](https://twitter.com/hiburrow))
+- [Shopify CLI](https://github.com/Shopify/cli) - Build apps, themes, and hydrogen storefronts for Shopify.

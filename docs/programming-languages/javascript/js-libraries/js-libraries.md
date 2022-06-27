@@ -962,6 +962,7 @@
 - [object-hash](https://github.com/puleos/object-hash) - Generate hashes from JS objects in node and the browser.
 - [Proxly](https://github.com/pshihn/proxly) - Proxy any list of objects or functions to a single entity.
 - [nanoutils](https://github.com/nanoutils/nanoutils) - Tiniest FP-friendly JavaScript utils library.
+- [Slidy](https://github.com/Valexr/Slidy) - Simple, configurable, nested & reusable sliding action script with templates, animations, easings & some useful plugins.
 
 ## Links
 

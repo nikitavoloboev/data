@@ -418,3 +418,4 @@ title: PyTorch
 - [PyTorch Model Compare](https://github.com/AntixK/PyTorch-Model-Compare) - Tiny package to compare two neural networks in PyTorch.
 - [PyEPO (PyTorch-based End-to-End Predict-and-Optimize Tool)](https://github.com/khalil-research/PyEPO) - Python-based, open-source software that supports modeling and solving predict-and-optimize problems with the linear objective function.
 - [Parti - PyTorch](https://github.com/lucidrains/parti-pytorch) - Implementation of Parti, Google's pure attention-based text-to-image neural network, in PyTorch.
+- [OpenMMLab](https://github.com/open-mmlab/mmflow) - Open source optical flow toolbox based on PyTorch.

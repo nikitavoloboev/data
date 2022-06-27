@@ -817,3 +817,6 @@
 - [3D Moments from Near-Duplicate Photos (2022)](https://arxiv.org/abs/2205.06255) ([Code](https://github.com/google-research/3d-moments))
 - [Prototypical Contrastive Language Image Pretraining (2022)](https://arxiv.org/abs/2206.10996) ([Code](https://github.com/megvii-research/protoclip))
 - [NeRV: Neural Representations for Videos (2021)](https://haochen-rye.github.io/NeRV/) ([Code](https://github.com/haochen-rye/NeRV))
+- [MT-YOLOv6](https://github.com/meituan/YOLOv6) - Single-stage object detection framework dedicated to industrial applications.
+- [Fast Point Transformer (2022)](https://arxiv.org/abs/2112.04702) ([Code](https://github.com/POSTECH-CVLab/FastPointTransformer))
+- [FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation (2022)](https://arxiv.org/abs/2204.01587) ([Code](https://github.com/sohyun-l/fifo))

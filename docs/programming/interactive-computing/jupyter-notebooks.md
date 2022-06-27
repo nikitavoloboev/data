@@ -207,3 +207,4 @@ title: Jupyter Notebooks
 - [ipywidgets-jsonschema](https://github.com/ssciwr/ipywidgets-jsonschema) - Widget generator for your Jupyter notebooks.
 - [How to create a dashboard in Python with Jupyter Notebook (2022)](https://mljar.com/blog/dashboard-python-jupyter-notebook/) ([HN](https://news.ycombinator.com/item?id=31736164))
 - [jupyter-lsp](https://github.com/jupyter-server/jupyter-lsp) - Multi-Language Server WebSocket proxy extension for jupyter_server.
+- [REPL Python programming and debugging with IPython (2022)](https://lukeplant.me.uk/blog/posts/repl-python-programming-and-debugging-with-ipython/)

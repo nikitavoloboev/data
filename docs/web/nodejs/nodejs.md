@@ -403,3 +403,4 @@ title: Node.js
 - [tinysh](https://github.com/antonmedv/tinysh) - Tiny spawn wrapper for Node.js.
 - [Hagana](https://github.com/yaakov123/hagana) - NodeJS runtime protection for supply chain attacks.
 - [QuickReader](https://github.com/EtherDream/QuickReader) - Ultra-high performance stream reader for browser and Node.js.
+- [kleur](https://github.com/lukeed/kleur) - Fastest Node.js library for formatting terminal text with ANSI colors.

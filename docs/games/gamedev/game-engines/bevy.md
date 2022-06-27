@@ -47,3 +47,4 @@ title: Bevy Engine
 - [bvy](https://github.com/cart/bvy) - Make Bevy more ergonomic.
 - [leafwing_input_manager](https://github.com/Leafwing-Studios/leafwing_input_manager) - Straightforward stateful input manager for the Bevy game engine.
 - [bevy_editor_pls](https://github.com/jakobhellermann/bevy_editor_pls) - Adds debug tools to your bevy game.
+- [big-brain](https://github.com/zkat/big-brain) - Utility AI library for games, built for the Bevy Game Engine.

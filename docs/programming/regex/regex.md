@@ -101,3 +101,4 @@ Match all that don't have notes or twitter in input
 - [Web tool to evaluate rust regular expressions](https://2fd.github.io/rust-regex-playground/) ([Code](https://github.com/2fd/rust-regex-playground))
 - [super-regex](https://github.com/sindresorhus/super-regex) - Make a regular expression time out if it takes too long to execute.
 - [patterns-finder](https://github.com/benouinirachid/patterns-finder) - Simple, Fast, Powerful and Easily extensible python package for extracting patterns from text, with over than 60 predefined Regular Expressions.
+- [Utilties for the Developer. Regex, HTTP echo. Diffing](https://utils.zest.dev/regex) ([Code](https://github.com/zestcreative/utility))

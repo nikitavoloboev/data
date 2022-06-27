@@ -852,3 +852,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Brandon Amos's presentation slides](https://github.com/bamos/presentations)
 - [Ethical Principles for Web Machine Learning](https://webmachinelearning.github.io/ethical-webmachinelearning/) ([Code](https://github.com/webmachinelearning/ethical-webmachinelearning))
 - [MLC](https://github.com/mlc-ai/mlc-en) - Machine Learning Compiler.
+- [Golan Levin's lectures](https://github.com/golanlevin/lectures)

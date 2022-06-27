@@ -155,3 +155,4 @@
 - [Ask HN: Is Hybrid Working a Ruse? (2022)](https://news.ycombinator.com/item?id=31122002)
 - [Airbnb’s design to live and work anywhere (2022)](https://news.airbnb.com/airbnbs-design-to-live-and-work-anywhere/) ([HN](https://news.ycombinator.com/item?id=31200650))
 - [Starlink for RVs](https://www.starlink.com/rv) ([HN](https://news.ycombinator.com/item?id=31486083))
+- [Ask HN: How is the remote vs in-person trend looking? (2022)](https://news.ycombinator.com/item?id=31894877)

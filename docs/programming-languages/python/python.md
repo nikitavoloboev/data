@@ -513,3 +513,4 @@ for i, _ in enumerate(nums):
 - [Python to Rust transpiler](https://github.com/konchunas/pyrs)
 - [Introducing PyScript (summary of PyCon keynote) (2022)](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/) ([HN](https://news.ycombinator.com/item?id=31843996))
 - [Don't let dicts spoil your code (2020)](https://roman.pt/posts/dont-let-dicts-spoil-your-code/) ([Lobsters](https://lobste.rs/s/gzemqn/don_t_let_dicts_spoil_your_code)) ([HN](https://news.ycombinator.com/item?id=31879015))
+- [What's New in Python 3.11? (2022)](https://deepsource.io/blog/python-3-11-whats-new/) ([HN](https://news.ycombinator.com/item?id=31888624))

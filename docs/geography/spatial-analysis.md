@@ -223,3 +223,5 @@ title: Spatial analysis
 - [gdal3.js](https://gdal3.js.org/) - Convert raster and vector geospatial data to various formats and coordinate systems entirely in the browser. ([Code](https://github.com/bugra9/gdal3.js))
 - [Tangram ES](https://github.com/tangrams/tangram-es) - C++ library for rendering 2D and 3D maps from vector data using OpenGL ES.
 - [Geospatial deep learning with TorchGeo (2022)](https://pytorch.org/blog/geospatial-deep-learning-with-torchgeo/)
+- [STAC](https://stacspec.org/en) - SpatioTemporal Asset Catalogs.
+- [stactools](https://github.com/stac-utils/stactools) - High-level command line tool and Python library for working with STAC. It is based on PySTAC.

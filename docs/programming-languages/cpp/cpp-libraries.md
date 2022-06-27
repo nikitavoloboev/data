@@ -414,6 +414,7 @@
 - [Dem Bones](https://github.com/electronicarts/dem-bones) - Automated algorithm to extract the linear blend skinning (LBS) from a set of example poses.
 - [cubeb](https://github.com/mozilla/cubeb) - Cross platform audio library.
 - [Polygeist](https://github.com/llvm/Polygeist) - C/C++ frontend for MLIR. Also features polyhedral optimizations, parallel optimizations, and more.
+- [hashmap.h](https://github.com/sheredom/hashmap.h) - Simple one header hashmap implementation for C/C++.
 
 ## Links
 

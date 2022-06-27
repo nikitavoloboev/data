@@ -8,6 +8,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 
 ## Example sites
 
+- [NextJS + tRPC + TailwindCSS + TS + Prisma + NextAuth](https://github.com/nexxeln/create-t3-app)
 - [NextJS, Tailwind, TRPC, Prisma, and NextAuth Starter](https://github.com/copleykj/NextJS-Ultimate-Starter)
 - [Next.js Commerce starter kit](https://nextjs.org/commerce)
 - [NextJS full stack starter](https://github.com/SaraVieira/next-fullstack-starter)
@@ -374,3 +375,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Next.js Layouts](https://nextjs.org/blog/layouts-rfc) - Nested routes and layouts, designed for Server Components. ([HN](https://news.ycombinator.com/item?id=31485073))
 - [High Performance Personalization with Next.js Middleware (2022)](https://www.plasmic.app/blog/nextjs-personalization) ([Reddit](https://www.reddit.com/r/nextjs/comments/ux22u0/high_performance_personalization_with_nextjs/))
 - [Next.js Routing and Layouts RFC tips](https://twitter.com/delba_oliveira/status/1529480318817669122)
+- [Why I Use NextJS For ALL My Backends (2022)](https://www.youtube.com/watch?v=2cB5Fh46Vi4)

@@ -254,3 +254,5 @@
 - [Psyche-C](https://github.com/ltcmelo/psychec) - Compiler frontend for the C programming language.
 - [Testing and building C projects with Zig (2022)](https://renato.athaydes.com/posts/testing-building-c-with-zig.html)
 - [ClangIR (CIR)](https://github.com/facebookincubator/clangir) - New high-level IR for clang.
+- [Assertions should be more debugger-oriented (2022)](https://nullprogram.com/blog/2022/06/26/)
+- [Adding Modules to C in 10 Lines of Code](https://nwcpp.org/talks/2022/modules_in_c.pdf) ([HN](https://news.ycombinator.com/item?id=31881413))

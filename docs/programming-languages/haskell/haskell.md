@@ -441,3 +441,5 @@ title: Haskell
 - [Variance and Subtyping (2021)](https://1computer1.github.io/posts/variance-and-subtyping/)
 - [The list of monoids pattern (2022)](https://blog.ocharles.org.uk/posts/2022-06-22-list-of-monoids-pattern.html)
 - [Incremental builds for Haskell with Bazel (2022)](https://www.tweag.io/blog/2022-06-23-haskell-module/) ([HN](https://news.ycombinator.com/item?id=31847594))
+- [Lenses](https://www.fpcomplete.com/haskell/tutorial/lens/) ([HN](https://news.ycombinator.com/item?id=31890781))
+- [defaultable-map: An Applicative wrapper for Maps (2022)](https://www.haskellforall.com/2022/06/defaultable-map-applicative-wrapper-for.html) ([Lobsters](https://lobste.rs/s/fcbvdo/defaultable_map_applicative_wrapper_for))

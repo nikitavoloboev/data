@@ -189,3 +189,4 @@
 - [scivision](https://github.com/alan-turing-institute/scivision) - Toolkit for Scientific Image Analysis.
 - [Digital Image Processing Implementations](https://github.com/tesfagabir/Digital-Image-Processing)
 - [Fighting JPEG color banding, or how to compress JPEG even more without artifacts (2022)](https://uploadcare.com/blog/fighting-jpeg-color-banding/) ([HN](https://news.ycombinator.com/item?id=31846284))
+- [Image Processing with WebGL](https://medium.com/eureka-engineering/image-processing-with-webgl-c2af552e8df0)

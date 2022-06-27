@@ -1825,3 +1825,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [mdox](https://github.com/bwplotka/mdox) - Format your docs; autogenerate from flags or Go structs or even generate versioned website directly from markdown.
 - [Mostly automatic Go dependency updates with GitHub Actions (2022)](https://brandur.org/fragments/mostly-automatic-deps)
 - [Makego](https://github.com/bufbuild/makego) - Makefile setup for our Go projects.
+- [gody](https://github.com/guiferpa/gody) - Lightweight struct validator for Go.

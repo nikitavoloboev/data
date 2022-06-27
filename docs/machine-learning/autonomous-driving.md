@@ -72,3 +72,4 @@
 - [HelixNet Toolbox](https://github.com/romainloiseau/HelixNet) - Dataset presented in the "Online Segmentation of LiDAR Sequences: Dataset and Algorithm" paper.
 - [Nocturne](https://github.com/facebookresearch/nocturne) - 2D driving simulator, built in C++ for speed and exported as a Python library.
 - [Autonomous Driving Data Framework (ADDF)](https://github.com/awslabs/autonomous-driving-data-framework)
+- [Autoware](https://github.com/autowarefoundation/autoware) - Open-source software stack for self-driving vehicles, built on the Robot Operating System (ROS).

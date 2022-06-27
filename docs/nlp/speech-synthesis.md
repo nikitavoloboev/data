@@ -77,3 +77,4 @@
 - [15.ai](https://15.ai/) - Natural TTS with minimal viable data. ([HN](https://news.ycombinator.com/item?id=31711118))
 - [JDC-PitchExtractor](https://github.com/yl4579/PitchExtractor) - Deep Neural Pitch Extractor for Voice Conversion and TTS Training.
 - [Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech (2021)](https://arxiv.org/abs/2105.06337) ([Code](https://github.com/WelkinYang/GradTTS))
+- [Publicly Available Emotional Speech Dataset (ESD) for Speech Synthesis and Voice Conversion](https://github.com/HLTSingapore/Emotional-Speech-Data)

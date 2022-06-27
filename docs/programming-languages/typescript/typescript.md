@@ -272,6 +272,8 @@ title: TypeScript
 - [TypeScript runtime comparisons](https://github.com/privatenumber/ts-runtime-comparison)
 - [You Might Be Using Typescript Wrong (2022)](https://www.youtube.com/watch?v=RmGHnYUqQ4k)
 - [Just](https://github.com/sonnyt/just) - Zero config TypeScript build and development toolkit. ([HN](https://news.ycombinator.com/item?id=31814927))
+- [Learning TypeScript Book](https://www.learningtypescript.com/) ([Web Code](https://github.com/LearningTypeScript/site))
+- [Extreme Explorations of TypeScript's Type System](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system) ([HN](https://news.ycombinator.com/item?id=31898420))
 
 ## Images
 

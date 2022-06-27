@@ -327,3 +327,4 @@ title: WebAssembly
 - [Weave](https://evmar.github.io/weave/) - Viewer for WebAssembly .wasm files, like an interactive objdump. ([Code](https://github.com/evmar/weave))
 - [The State of WebAssembly 2022](https://blog.scottlogic.com/2022/06/20/state-of-wasm-2022.html) ([HN](https://news.ycombinator.com/item?id=31808227))
 - [WebAssembly Everywhere (2022)](https://byrnemluke.com/posts/webassembly)
+- [WebAssembly and C++ (2022)](http://neugierig.org/software/blog/2022/06/wasm-c++.html) ([HN](https://news.ycombinator.com/item?id=31890894))

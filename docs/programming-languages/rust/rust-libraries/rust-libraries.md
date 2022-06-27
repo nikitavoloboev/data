@@ -1987,6 +1987,7 @@
 - [async_zip](https://github.com/Majored/rs-async-zip) - Asynchronous ZIP archive reading/writing crate.
 - [reborrow](https://github.com/sarah-ek/reborrow) - Emulate reborrowing for user types.
 - [generational-lru](https://github.com/arindas/generational-lru) - Generational arena based LRU Cache implementation in 100% safe rust.
+- [keypath](https://github.com/cmyr/keypath) - Strongly typed references to arbitrarily nested fields.
 
 ## Cargo Plugins
 
@@ -2209,3 +2210,4 @@
 - [Rust FFI Omnibus](https://github.com/shepmaster/rust-ffi-omnibus) - Collection of examples of using code written in Rust from other languages.
 - [Aeneas](https://github.com/sonmarcho/aeneas) - Verification toolchain for Rust programs.
 - [What is `Box<str>` and how is it different from `String` in Rust? (2022)](https://mahdi.blog/rust-box-str-vs-string/) ([HN](https://news.ycombinator.com/item?id=31859643))
+- [Type-checked keypaths in Rust (2021)](http://www.cmyr.net/blog/keypaths.html) ([HN](https://news.ycombinator.com/item?id=31890394))
