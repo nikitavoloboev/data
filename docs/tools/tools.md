@@ -727,3 +727,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Ask HN: Is there a truly solid low-code to build Twitter or Reddit clone? (2022)](https://news.ycombinator.com/item?id=31555252)
 - [Best tools for a entrepreneur (2022)](https://twitter.com/heyeaslo/status/1536944095569989633)
 - [Dans Tools](https://www.danstools.com/) - Collection of various tools that I have found helpful for many years.
+- [Ask HN: What tools are you a 10/10 on? (2022)](https://news.ycombinator.com/item?id=31914087)

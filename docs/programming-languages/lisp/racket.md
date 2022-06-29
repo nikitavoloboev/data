@@ -131,3 +131,5 @@ title: Racket
 - [package-analysis](https://github.com/jackfirth/package-analysis) - Racket package for analyzing the Racket package ecosystem.
 - [koyo](https://github.com/Bogdanp/koyo) - Web development toolkit for Racket.
 - [Examples of the nice parts of Racket](https://github.com/ruliana/racket-examples)
+- [with-cache](https://github.com/bennn/with-cache) - Simple, filesystem-based caching for Racket.
+- [Zordoz](https://github.com/bennn/zordoz) - Manipulating racket bytecode.

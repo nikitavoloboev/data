@@ -116,3 +116,4 @@ title: Google Cloud
 - [Database migration via Cloud SQL Proxy for Cloud SQL in Google Compute Engine VM (2022)](https://www.hairizuan.com/database-migration-via-cloud-sql-proxy-for-cloud-sql-in-google-compute-engine-vm/)
 - [Securely connecting external tools to your GCP SQL database (2020)](https://trevor.io/blog/securely-connecting-external-tools-to-your-gcp-sql-database/)
 - [Google Datastore](https://github.com/kitsonk/google-datastore) - APIs that allow interfacing to Google Datastore on GCP from Deno.
+- [GCP Project Operator](https://github.com/openshift/gcp-project-operator) - Responsible for creating and destroying projects and service accounts in GCP.

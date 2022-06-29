@@ -3,6 +3,7 @@
 ## Interesting
 
 - [Andrew Schulz](https://www.youtube.com/user/TheAndrewSchulz)
+- [Romesh Ranganathan](https://www.romeshranganathan.co.uk/)
 - [Rachman Blake](https://www.youtube.com/channel/UCtWGFVhBV6AJfa1xsnQLidw)
 - [Ваня Усович](https://www.youtube.com/channel/UC1uS4JFcc8KXZVoBSh3XVHA)
 - [Сергей Орлов](https://www.youtube.com/channel/UCpFTWZY9jyTdcpu7zpXGA_A)
@@ -10,6 +11,10 @@
 
 ## Funny
 
+- [Romesh Ranganathan's Controversial Opinions](https://www.youtube.com/watch?v=tv7QNtzUqbw)
+- [Romesh Ranganathan's Reveals his Real Name](https://www.youtube.com/watch?v=5vSaEMXtXEY)
+- [The Difficulty of Choosing Ice Cream - Romesh Ranganathan](https://www.youtube.com/watch?v=B6oBioC44ds)
+- [Romesh Ranganathan Does Couples Therapy](https://www.youtube.com/watch?v=kAAPGuikkxk)
 - [Ваня Усович "ЕЩЕ ОДИН ДЕНЬ" 2020](https://www.youtube.com/watch?v=yh6NYuc9gC0)
 - [Сергей Орлов "АРТИСТ"](https://www.youtube.com/watch?v=uSdqkFAiJkQ&t=1s)
 - [Сергей Орлов - Про спортзалы](https://www.youtube.com/watch?v=KW9knOePgmU)
