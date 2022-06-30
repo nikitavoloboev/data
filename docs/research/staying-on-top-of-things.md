@@ -267,3 +267,5 @@ And these Discord servers:
 - [Ask HN: Do you feel overwhelmed by the amount of information? (2022)](https://news.ycombinator.com/item?id=31185038)
 - [Why do you waste so much time on the internet? (2022)](https://zan.bearblog.dev/why-i-waste-time/) ([HN](https://news.ycombinator.com/item?id=31285969))
 - [Ask HN: What news subscription is worth it? (2022)](https://news.ycombinator.com/item?id=31780355)
+- [Ask HN: Any viable alternatives to Google News? (2022)](https://news.ycombinator.com/item?id=31911319)
+- [The Speed Report • Which news website is the fastest?](https://legiblenews.com/speed) ([HN](https://news.ycombinator.com/item?id=31910622))

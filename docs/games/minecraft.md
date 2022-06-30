@@ -124,3 +124,4 @@ title: Minecraft
 - [Create a Bot to Find Diamonds in Minecraft (2022)](https://mlabonne.github.io/blog/minecraft/) ([HN](https://news.ycombinator.com/item?id=31628436))
 - [Hopper](https://github.com/BRA1L0R/hopper-rs) - Fast, configurable, lightweight Reverse Proxy for Minecraft.
 - [Learning to Play Minecraft with Video PreTraining (VPT) (2022)](https://openai.com/blog/vpt/)
+- [Player Analytics](https://github.com/plan-player-analytics/Plan) - Player Analytics plugin for Minecraft Server platforms.

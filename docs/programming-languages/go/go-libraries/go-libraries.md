@@ -1711,6 +1711,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [tstruct](https://github.com/josharian/tstruct) - Generate template FuncMap helpers to construct struct literals within a Go template.
 - [EGo](https://github.com/edgelesssys/ego) - Framework for building confidential apps in Go.
 - [go-nanoid](https://github.com/jaevor/go-nanoid) - Nano ID in Go -- very fast and efficient ID generator.
+- [skipmap](https://github.com/zhangyunhao116/skipmap) - High-performance, scalable concurrent sorted map based on skip-list. Up to 10x faster than sync.Map in the typical pattern.
+- [Twilio Go](https://github.com/twilio/twilio-go) - Go package for communicating with the Twilio API.
 
 ## Links
 

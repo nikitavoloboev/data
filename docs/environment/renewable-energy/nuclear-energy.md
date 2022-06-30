@@ -69,3 +69,4 @@ Nuclear energy [gets a bad reputation but its the future of renewable energy](ht
 - [The Quest for Fusion Energy (2022)](https://inference-review.com/article/the-quest-for-fusion-energy) ([HN](https://news.ycombinator.com/item?id=31540846))
 - [Your Book Review: The Future Of Fusion Energy (2022)](https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion) - Primer on fusion and why it's likely we achieve it by 2040.
 - [Is nuclear fusion for energy generation capable of the things its advocates claim? (2022)](https://www.reddit.com/r/AskPhysics/comments/vig4bg/is_nuclear_fusion_for_energy_generation_capable/)
+- [Ask HN: Can you both take climate change seriously and against nuclear energy? (2022)](https://news.ycombinator.com/item?id=31921132)

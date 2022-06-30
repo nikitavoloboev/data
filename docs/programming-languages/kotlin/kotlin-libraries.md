@@ -73,6 +73,7 @@
 - [Orbit](https://github.com/orbit/orbit) - Virtual actor framework for building distributed systems.
 - [konform](https://github.com/konform-kt/konform) - Portable validations for Kotlin.
 - [gRPC-Kotlin](https://github.com/grpc/grpc-kotlin) - Kotlin gRPC implementation. HTTP/2 based RPC.
+- [Kotlin Dataframe](https://github.com/Kotlin/dataframe) - Typesafe in-memory structured data processing for JVM.
 
 ## Links
 

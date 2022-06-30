@@ -102,3 +102,4 @@
 - [Papanasi](https://github.com/CKGrafico/papanasi) - UI library to use cross Frameworks.
 - [TanStack](https://tanstack.com/) - High Quality Open-Source Software for Web Developers. ([Code](https://github.com/TanStack/tanstack.com))
 - [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+- [How to implement Hexagonal architecture in front end](https://github.com/juanm4/hexagonal-architecture-frontend)

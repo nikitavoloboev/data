@@ -28,3 +28,4 @@ title: RxJS
 - [system.reactive - What are the Hot and Cold observables?](https://stackoverflow.com/questions/2521277/what-are-the-hot-and-cold-observables)
 - [RX Use](https://github.com/streamich/rx-use) - RxJS DOM sensors.
 - [rxooks](https://github.com/benlesh/rxooks) - Library of RxJS-related hooks.
+- [rxjs-spy](https://github.com/cartant/rxjs-spy) - Debugging library for RxJS.

@@ -223,3 +223,4 @@
 - [atsi](https://github.com/queer/atsi) - Instant rootless Alpine shells.
 - [pflask](https://github.com/ghedo/pflask) - Lightweight process containers for Linux.
 - [podman-static](https://github.com/mgoltzsche/podman-static) - Static podman binaries and container images.
+- [Notes on running containers with bubblewrap (2022)](https://jvns.ca/blog/2022/06/28/some-notes-on-bubblewrap/)

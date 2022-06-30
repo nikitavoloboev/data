@@ -99,3 +99,5 @@ title: WebSocket
 - [Libwebsockets](https://github.com/warmcat/libwebsockets) - Simple-to-use, pure C library providing client and server for http/1, http/2, websockets, MQTT and other protocols in a security-minded, lightweight, configurable, scalable and flexible way. ([Web](https://libwebsockets.org/))
 - [Zig WebSocket server](https://github.com/karlseguin/websocket.zig)
 - [kuiperbelt](https://github.com/kuiperbelt/kuiperbelt) - Proxy server that converts WebSocket to HTTP/1.x.
+- [Fanout WebSockets Compute@Edge Demo](https://github.com/fastly/fanout-compute-js-demo)
+- [Ask HN: How do you scale WebSocket? (2022)](https://news.ycombinator.com/item?id=31925145)

@@ -158,3 +158,4 @@ title: Redis
 - [Docker and Redis - a curious beginner’s walkthrough (2022)](http://blog.miranti.net.br/redis-getting-started)
 - [Redis vs. KeyDB vs. Dragonfly vs. Skytable (2022)](https://news.ycombinator.com/item?id=31796311)
 - [Go Rate Limiter interface for Redis](https://github.com/sethvargo/go-redisstore)
+- [walrus](https://github.com/coleifer/walrus) - Lightweight Python utilities for working with Redis.

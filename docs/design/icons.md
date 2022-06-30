@@ -137,3 +137,4 @@
 - [Untitled UI Icons](https://www.untitledui.com/icons) - Ultimate Figma icon library.
 - [Pixelarticons](https://pixelarticons.com/) - Beautiful open-source pixel-art icons. ([Code](https://github.com/halfmage/pixelarticons))
 - [Majesticons](https://www.majesticons.com/) - Versatile, beautiful, and scalable iconset. 760 icons each in line and solid style.
+- [SF Symbols SVG Library](https://github.com/g-a-v-i-n/sf-symbols)

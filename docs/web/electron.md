@@ -68,3 +68,4 @@ I prefer to build things natively with [SwiftUI](../programming-languages/swift/
 - [Svelte Electron Boilerplate](https://github.com/ptkdev-boilerplate/svelte-electron-boilerplate)
 - [Vite + SolidJS + Electron boilerplate](https://github.com/ch99q/vite-solid-electron)
 - [Electron + Vite + React + Sass + boilerplate](https://github.com/electron-vite/electron-vite-react)
+- [Making a better auto updating prompt for Electron apps](https://twitter.com/vadimdemedes/status/1542235011188805634)

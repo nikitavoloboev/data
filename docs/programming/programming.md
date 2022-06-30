@@ -566,3 +566,4 @@
 - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/) ([HN](https://news.ycombinator.com/item?id=31836974))
 - [The Grug Brained Developer](https://grugbrain.dev/) - Layman's guide to thinking like the self-aware smol brained.
 - [Ask HN: What tone to use in code review suggestions? (2022)](https://news.ycombinator.com/item?id=31858604)
+- [What Metric to Use When Benchmarking? (2022)](https://tratt.net/laurie/blog/2022/what_metric_to_use_when_benchmarking.html)

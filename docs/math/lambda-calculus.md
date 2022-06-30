@@ -93,3 +93,4 @@ Is logical theory of computable functions.
 - [Benchmarking various normalization algorithms for the lambda calculus](https://github.com/Guest0x0/normalization-bench)
 - [Untyped lambda calculus, written in Haskell](https://github.com/cpubot/untyped)
 - [Telomare](https://github.com/sfultong/stand-in-language) - Simple total pure functional language, eventually to have powerful static checking and optimization.
+- [LSTS: Large Scale Type Systems](https://github.com/andrew-johnson-4/LSTS) - Categorical view of Typed Lambda Calculus with flexible Soundness guarantees.

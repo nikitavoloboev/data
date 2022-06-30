@@ -270,3 +270,4 @@ title: Svelte
 - [Svelte French Toast](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte.
 - [Attractions](https://illright.github.io/attractions/) - Pretty cool UI kit for Svelte. ([Code](https://github.com/illright/attractions))
 - [Svelte for Beginners Course (2021)](https://www.udemy.com/course/svelte-for-beginners/)
+- [svelte-gesture](https://github.com/wobsoriano/svelte-gesture) - Library that lets you bind richer mouse and touch events to any component or view.

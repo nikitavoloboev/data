@@ -122,6 +122,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [undefined medium](https://undefined-medium.com/) - Free and open-source pixel grid-based monospace typeface. ([Code](https://github.com/andirueckel/undefined-medium))
 - [Magnat Poster fonts](https://fonts.ilovetypography.com/fonts/studio-ren%C3%A9-bieder/magnat-poster) ([Tweet](https://twitter.com/ilovetypography/status/1538807228102193152))
 - [Approach](https://emtype.net/fonts/approach) - Modern approximation to the early grotesques.
+- [Figtree](https://github.com/erikdkennedy/figtree) - Friendly, simple geometric sans serif font.
 
 ## Links
 

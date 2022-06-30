@@ -529,3 +529,4 @@ all: unset
 - [Defensive CSS](https://defensivecss.dev/) - Practical CSS and design tips that helps in building future-proof user interfaces. ([Twitter](https://twitter.com/DefensiveCSS))
 - [Create Diagonal Layouts Like It's 2020](https://9elements.com/blog/pure-css-diagonal-layouts/)
 - [Whirl](https://whirl.netlify.app/) - CSS loading animations with minimal effort. ([Code](https://github.com/jh3y/whirl))
+- [Anthony Fu's 100 days](https://100.antfu.me/) - 100-day project of exploring design, compform, and new things. ([Code](https://github.com/antfu/100))

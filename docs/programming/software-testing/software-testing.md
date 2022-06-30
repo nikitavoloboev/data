@@ -147,3 +147,4 @@
 - [Some thoughts on naming tests (2022)](https://blog.ploeh.dk/2022/06/13/some-thoughts-on-naming-tests/)
 - [Awesome Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing)
 - [“Don’t Mock What You Don’t Own” in 5 Minutes (2022)](https://hynek.me/articles/what-to-mock-in-5-mins/)
+- [Ask HN: Do you load test your applications? If so, how? (2022)](https://news.ycombinator.com/item?id=31912525)

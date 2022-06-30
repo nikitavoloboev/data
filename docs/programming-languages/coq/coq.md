@@ -159,3 +159,4 @@ title: Coq
 - [Rupicola](https://github.com/mit-plv/rupicola) - Relation compilation for performance-critical applications.
 - [Coherence space semantics for linear logic in Coq](https://github.com/clayrat/coherence-spaces)
 - [Computability in Constructive Type Theory in Coq](https://github.com/yforster/coq-synthetic-computability)
+- [Deriving](https://github.com/arthuraa/deriving) - Generic instances for Coq inductive types.

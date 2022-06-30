@@ -181,3 +181,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [dlock](https://github.com/losfair/dlock) - Distributed-Lock-as-a-Service implemented on Cloudflare Durable Objects.
 - [Cloudflare Workers Postgres Client](https://github.com/bubblydoo/cloudflare-workers-postgres-client) - Connect to a Postgres database from a Cloudflare Worker, using Cloudflare Tunnel.
 - [r2-image-worker](https://github.com/yusukebe/r2-image-worker) - Store and Deliver images with R2 backend Cloudflare Workers.
+- [MitM at the Edge: Abusing Cloudflare Workers (2022)](https://blog.christophetd.fr/abusing-cloudflare-workers/)

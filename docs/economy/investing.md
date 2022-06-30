@@ -287,3 +287,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [How to build baby Berkshire Hathaway and pay 0% capital gains tax (2022)](https://twitter.com/SievaKozinsky/status/1538884673539031040)
 - [Оптимизация долгосрочного портфеля акций](https://github.com/WLM1ke/poptimizer)
 - [QuantResearch](https://github.com/letianzj/QuantResearch) - Quantitative analysis, strategies and backtests.
+- [Ask HN: Do you trust solo entrepreneurs? (2022)](https://news.ycombinator.com/item?id=31930460)

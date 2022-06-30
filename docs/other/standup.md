@@ -15,6 +15,7 @@
 - [Romesh Ranganathan's Reveals his Real Name](https://www.youtube.com/watch?v=5vSaEMXtXEY)
 - [The Difficulty of Choosing Ice Cream - Romesh Ranganathan](https://www.youtube.com/watch?v=B6oBioC44ds)
 - [Romesh Ranganathan Does Couples Therapy](https://www.youtube.com/watch?v=kAAPGuikkxk)
+- [Romesh Ranganathan on his Wife](https://www.youtube.com/watch?v=IUF2eXXOI5Q)
 - [Ваня Усович "ЕЩЕ ОДИН ДЕНЬ" 2020](https://www.youtube.com/watch?v=yh6NYuc9gC0)
 - [Сергей Орлов "АРТИСТ"](https://www.youtube.com/watch?v=uSdqkFAiJkQ&t=1s)
 - [Сергей Орлов - Про спортзалы](https://www.youtube.com/watch?v=KW9knOePgmU)

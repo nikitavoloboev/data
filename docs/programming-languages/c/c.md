@@ -256,3 +256,5 @@
 - [ClangIR (CIR)](https://github.com/facebookincubator/clangir) - New high-level IR for clang.
 - [Assertions should be more debugger-oriented (2022)](https://nullprogram.com/blog/2022/06/26/)
 - [Adding Modules to C in 10 Lines of Code](https://nwcpp.org/talks/2022/modules_in_c.pdf) ([HN](https://news.ycombinator.com/item?id=31881413))
+- [OpenBSD has two new C compilers: chibicc and kefir (2022)](https://briancallahan.net/blog/20220629.html) ([HN](https://news.ycombinator.com/item?id=31930718))
+- [Goblint](https://github.com/goblint/analyzer) - Static analysis framework for C.

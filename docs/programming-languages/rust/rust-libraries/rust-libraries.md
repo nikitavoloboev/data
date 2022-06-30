@@ -390,6 +390,7 @@
 - [muge](https://github.com/andykswong/muge) - Minimal, Modular, Multiplatform Graphics Engine in Rust and WebAssembly.
 - [glyphon](https://github.com/grovesNL/glyphon) - Fast, simple 2D text rendering for wgpu.
 - [NVTX](https://github.com/simbleau/nvtx) - Safe Rust FFI binding for the NVIDIA Tools Extension SDK.
+- [Softbuffer](https://github.com/john01dav/softbuffer) - Integrates with the raw-window-handle crate to allow writing to a window in a cross-platform way.
 
 ## Games
 

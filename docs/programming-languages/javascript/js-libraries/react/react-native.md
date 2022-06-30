@@ -24,6 +24,7 @@ title: React Native
 - [React Native with Storybook template](https://github.com/dannyhw/react-native-storybook-starter)
 - [Smoothly Animated ToDo App built with React Native](https://github.com/craftzdog/react-native-animated-todo)
 - [Rive Animated App](https://github.com/lklima/rive-animated-app) - React Native animated app with reanimated + expo and Rive an amazing tool for interactive icons and shapes animation.
+- [RN Transitions](https://github.com/lklima/rn-transitions) - React Native animated app with reanimated + expo.
 
 ## Notes
 
@@ -279,3 +280,5 @@ title: React Native
 - [React Native Zephyr](https://github.com/FormidableLabs/react-native-zephyr) - TailwindCSS-inspired styling library for React Native.
 - [React Native Performance](https://github.com/Shopify/react-native-performance) - Performance measurement for your React Native apps.
 - [React Native 0.69 (2022)](https://reactnative.dev/blog/2022/06/21/version-069) ([HN](https://news.ycombinator.com/item?id=31845423)) ([Tweet](https://twitter.com/reactnative/status/1539721762232930304))
+- [Reassure](https://github.com/callstack/reassure) - Performance testing companion for React and React Native.
+- [FlashList](https://github.com/Shopify/flash-list) - Fast & performant React Native list. No more blank cells.

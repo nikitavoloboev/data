@@ -35,7 +35,7 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [Ripcord](https://cancel.fm/ripcord/) - Desktop chat client for Slack (and Discord).
 - [Slack’s \$25 Billion Dollar Secret Sauce (2015)](https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908)
 - [Creating a Slack app that uses fewer resources (2020)](https://kofi.sexy/blog/slack-app-fewer-resources) ([HN](https://news.ycombinator.com/item?id=24743790))
-- [Shrugs.app](https://shrugs.app/) - Integrate macOS into your Slack experience.
+- [Shrugs.app](https://shrugs.app/) - Native Slack client for macOS. ([HN](https://news.ycombinator.com/item?id=31926594))
 - [How Riot Games Uses Slack (2020)](https://technology.riotgames.com/news/how-riot-games-uses-slack)
 - [How Unstack is running their Slack community (2020)](https://buildwithusers.substack.com/p/a-peek-into-how-unstack-is-running)
 - [Snack](https://aboutsnack.com/) - Video Chat Roulette for Slack.

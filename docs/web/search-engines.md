@@ -243,3 +243,4 @@
 - [A look at search engines with their own indexes (2021)](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/) ([HN](https://news.ycombinator.com/item?id=31820149))
 - [Learning-To-Rank: Sorting Search Results (2022)](https://tech.olx.com/learning-to-rank-sorting-search-results-b21a8bd48808)
 - [Brave Search Goggles](https://github.com/brave/goggles-quickstart) - Alter search rankings with rules and filters. ([HN](https://news.ycombinator.com/item?id=31837986))
+- [Awesome Hacker Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines)

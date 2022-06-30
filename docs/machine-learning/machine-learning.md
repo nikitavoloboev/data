@@ -853,3 +853,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Ethical Principles for Web Machine Learning](https://webmachinelearning.github.io/ethical-webmachinelearning/) ([Code](https://github.com/webmachinelearning/ethical-webmachinelearning))
 - [MLC](https://github.com/mlc-ai/mlc-en) - Machine Learning Compiler.
 - [Golan Levin's lectures](https://github.com/golanlevin/lectures)
+- [RevBiFPN: The Fully Reversible Bidirectional Feature Pyramid Network (2022)](https://arxiv.org/abs/2206.14098) ([Code](https://github.com/CerebrasResearch/RevBiFPN))
+- [Pen and paper exercises in machine learning](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) ([Paper](https://arxiv.org/abs/2206.13446)) ([HN](https://news.ycombinator.com/item?id=31913057))

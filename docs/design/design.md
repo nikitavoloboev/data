@@ -240,3 +240,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Magician](https://magician.design/) - Magical design tool powered by AI.
 - [The Case for Design Engineers (2022)](https://blog.jim-nielsen.com/2022/the-case-for-design-engineers/)
 - [The Ones by CW&T](http://theones.cwandt.com/)
+- [What are the most common mistakes developers make when implementing designs you hand off?](https://twitter.com/steveschoger/status/1542528755951861762)

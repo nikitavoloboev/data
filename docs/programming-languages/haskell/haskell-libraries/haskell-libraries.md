@@ -394,3 +394,4 @@
 - [Flora](https://github.com/flora-pm/flora-server) - Package index for the Haskell ecosystem.
 - [Tie](https://github.com/scarf-sh/tie) - Allows generation of Haskell server stubs from OpenAPI (v 3.x) specifications.
 - [Chameleon Type Debugger](https://chameleon.typecheck.me/) - Tool to make solving type errors in Haskell simple and fun.
+- [Which type-safe database library should you use? (2019)](https://www.williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html)

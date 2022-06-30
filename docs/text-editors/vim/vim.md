@@ -310,3 +310,4 @@ zz
 - [Learn Neovim The Practical Way (2021)](https://alpha2phi.medium.com/learn-neovim-the-practical-way-8818fcf4830f) ([Code](https://github.com/alpha2phi/neovim-for-beginner))
 - [nvim-oxi](https://github.com/noib3/nvim-oxi) - Rust bindings to all things Neovim.
 - [Neovim -- First Lua Config (2022)](https://www.twitch.tv/videos/1509074736)
+- [Vim 9.0 Released (2022)](https://www.vim.org/vim90.php) ([HN](https://news.ycombinator.com/item?id=31907883))

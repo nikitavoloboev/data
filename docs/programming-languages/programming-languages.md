@@ -384,3 +384,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [wastebin](https://wastebin-pkue.onrender.com/) - Minimal pastebin shamelessly copied from bin. ([Code](https://github.com/matze/wastebin))
 - [Well Done: A Sentinel Value (2013)](http://journal.stuffwithstuff.com/2013/04/17/well-done/)
 - [Emerge](https://github.com/glato/emerge) - Code analysis tool to gather insights about source code structure, metrics, dependencies and complexity of software projects.
+- [What's a condition system and why do you want one? (2011)](http://axisofeval.blogspot.com/2011/04/whats-condition-system-and-why-do-you.html) ([Lobsters](https://lobste.rs/s/q8lz7a/what_s_condition_system_why_do_you_want_one))

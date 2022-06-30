@@ -551,3 +551,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Ask HN: Why are Git submodules so bad? (2022)](https://news.ycombinator.com/item?id=31792303)
 - [git-pile](https://github.com/keith/git-pile) - Stacked diff support for GitHub workflows.
 - [Dangit, Git?](https://dangitgit.com/en) ([HN](https://news.ycombinator.com/item?id=31875953))
+- [Improve Git monorepo performance with a file system monitor (2022)](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/) ([HN](https://news.ycombinator.com/item?id=31924554))

@@ -97,3 +97,4 @@
 - [CI Free Tier Showdown (2022)](https://earthly.dev/blog/ci-comparison/)
 - [goldboot](https://github.com/goldboot/goldboot) - Provisioning bare-metal with CI.
 - [Scribe](https://github.com/grafana/scribe) - Framework to write flexible CI pipelines in Go that have consistent behavior when ran locally or in a CI server.
+- [Ask HN: CI in 2022](https://news.ycombinator.com/item?id=31911923)

@@ -328,3 +328,4 @@ title: WebAssembly
 - [The State of WebAssembly 2022](https://blog.scottlogic.com/2022/06/20/state-of-wasm-2022.html) ([HN](https://news.ycombinator.com/item?id=31808227))
 - [WebAssembly Everywhere (2022)](https://byrnemluke.com/posts/webassembly)
 - [WebAssembly and C++ (2022)](http://neugierig.org/software/blog/2022/06/wasm-c++.html) ([HN](https://news.ycombinator.com/item?id=31890894))
+- [wasmedge-bindgen](https://github.com/second-state/wasmedge-bindgen) - Let WebAssembly's exported function support more data types for its parameters and return values.
