@@ -158,6 +158,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig.
 - [My first OS built from scratch](https://github.com/ilobilo/kernel)
 - [owlOS](https://github.com/Talon396/owlOS) - Free UNIX-like operating system written in Rust.
+- [ScratchOS](https://github.com/scratchnative/scratchOS) - Basic operating system written in Scratch3.
 
 ## Notes
 

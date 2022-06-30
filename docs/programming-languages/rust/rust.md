@@ -831,3 +831,4 @@ title: Rust
 - [Jon Gjengset | All Things Rust | Rust For Rustaceans (2022)](https://www.youtube.com/watch?v=xO2xyBfhKDY)
 - [Deadlock-free Mutexes and Directed Acyclic Graphs (2022)](https://bertptrs.nl/2022/06/23/deadlock-free-mutexes-and-directed-acyclic-graphs.html) ([Lobsters](https://lobste.rs/s/ggosbz/deadlock_free_mutexes_directed_acyclic))
 - [Rust 1.62.0 (2022)](https://blog.rust-lang.org/2022/06/30/Rust-1.62.0.html) ([HN](https://news.ycombinator.com/item?id=31935116))
+- [Many modes: a GATs pattern (2022)](https://smallcultfollowing.com/babysteps/blog/2022/06/27/many-modes-a-gats-pattern/)

@@ -269,7 +269,7 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [rollup-plugin-deno](https://github.com/egoist/rollup-plugin-deno) - Create a bundle for Deno runtime.
 - [nat](https://github.com/oakserver/nat) - Server side rendering framework for Deno CLI and Deploy.
 - [Ryan Dahl's "My Dream Stack" at RemixConf 2022](https://www.youtube.com/watch?v=3NR9Spj0DmQ)
-- [Fresh](https://fresh.deno.dev/) - Next-gen web framework. ([HN](https://news.ycombinator.com/item?id=31720110)) ([HN](https://news.ycombinator.com/item?id=31908170))
+- [Fresh](https://fresh.deno.dev/) - Next-gen web framework. ([HN](https://news.ycombinator.com/item?id=31720110)) ([HN](https://news.ycombinator.com/item?id=31908170)) ([Lobsters](https://lobste.rs/s/i8itpn/fresh_new_full_stack_web_framework_for))
 - [Deno-Redlock](https://github.com/oslabs-beta/Deno-Redlock) - Deno's first lightweight, secure distributed lock manager utilizing the Redlock algorithm.
 - [Luca Casonato on "Writing Typescript Libraries for Deno, Node, and the Browser" (2022)](https://www.youtube.com/watch?v=91sGi9Gkxjg)
 - [Kitson Kelly's "Deno on the Edge" (2022)](https://www.youtube.com/watch?v=G_2AgdgEbkI)

@@ -127,3 +127,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Apps recommendations that will improve your solo travels (2022)](https://www.reddit.com/r/solotravel/comments/ui9qss/some_apps_recommendations_that_will_improve_your/)
 - [Vitalik's 40-liter backpack travel guide (2022)](https://vitalik.ca/general/2022/06/20/backpack.html) ([Tweet](https://twitter.com/VitalikButerin/status/1538900395707228160)) ([HN](https://news.ycombinator.com/item?id=31811758))
 - [Airalo](https://www.airalo.com/) - Local and regional eSIMs for travellers.
+- [List of countries by tax rates - Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_tax_rates)

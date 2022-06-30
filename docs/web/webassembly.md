@@ -323,7 +323,7 @@ title: WebAssembly
 - [Rust+ WASM implementation of a beamformer in spectral analysis](https://github.com/ma3103yd-s/beamformer-wasm)
 - [WebAssembly Components and wasmCloud Actors: A Glimpse of the Future (2022)](https://wasmcloud.com/blog/webassembly_components_and_wasmcloud_actors_a_glimpse_of_the_future/)
 - [Building a web application with Rust and WebAssembly (2022)](https://kerkour.com/web-application-with-rust-and-webassembly)
-- [Notes: Notes on WebAssembly (2022)](http://neugierig.org/software/blog/2022/06/wasm-notes.html)
+- [Notes on WebAssembly (2022)](https://neugierig.org/software/blog/2022/06/wasm-notes.html) ([Lobsters](https://lobste.rs/s/rct12m/notes_on_webassembly))
 - [Weave](https://evmar.github.io/weave/) - Viewer for WebAssembly .wasm files, like an interactive objdump. ([Code](https://github.com/evmar/weave))
 - [The State of WebAssembly 2022](https://blog.scottlogic.com/2022/06/20/state-of-wasm-2022.html) ([HN](https://news.ycombinator.com/item?id=31808227))
 - [WebAssembly Everywhere (2022)](https://byrnemluke.com/posts/webassembly)

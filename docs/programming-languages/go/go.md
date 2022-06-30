@@ -809,3 +809,4 @@ if err != nil {
 - [Go Course: Master the fundamentals and advanced features](https://www.karanpratapsingh.com/courses/go) ([Code](https://github.com/karanpratapsingh/go-course/))
 - [We Halved Go Monorepo CI Build Time (2022)](https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/) ([HN](https://news.ycombinator.com/item?id=31882512))
 - [Awesome Go Education](https://mehdihadeli.github.io/awesome-go-education/) ([Code](https://github.com/mehdihadeli/awesome-go-education))
+- [Small Tables with Go generics (2022)](https://www.tbray.org/ongoing/When/202x/2022/06/25/Small-Tables) ([HN](https://news.ycombinator.com/item?id=31890672))

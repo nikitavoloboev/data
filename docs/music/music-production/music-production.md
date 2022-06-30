@@ -385,3 +385,6 @@
 - [AI Audio Startups](https://github.com/csteinmetz1/ai-audio-startups) - Community list of startups working with AI in audio and music technology.
 - [OpenTuner](https://opentuner.org/) - Extensible framework for program autotuning. ([Code](https://github.com/jansel/opentuner))
 - [Music Modeling and Music Generation with Deep Learning](https://github.com/AI-Guru/music-generation-research)
+- [End-to-end Music Remastering System Using Self-supervised and Adversarial Training (2022)](https://arxiv.org/abs/2202.08520) ([Code](https://github.com/jhtonyKoo/e2e_music_remastering_system))
+- [slab](https://github.com/DrMarc/slab) - Easy manipulation of sounds and psychoacoustic experiments in Python.
+- [Symbolic Music Generation with Diffusion Models](https://github.com/magenta/symbolic-music-diffusion)

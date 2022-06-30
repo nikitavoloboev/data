@@ -370,3 +370,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nixago](https://github.com/nix-community/nixago) - Generate configuration files using Nix.
 - [nix-nomad](https://github.com/tristanpemble/nix-nomad) - Generate HashiCorp Nomad JSON job files with Nix using NixOS modules.
 - [relocatable.nix](https://github.com/Ninlives/relocatable.nix) - Nix bundler that produces relocatable deployment script for nix store paths.
+- [Nixpacks beat Buildpacks by almost two minutes](https://twitter.com/JustJake/status/1542316666666614784)
+- [Throwaway development environments with Nix (2022)](https://monospacedmonologues.com/2022/06/throwaway-development-environments-with-nix/) ([Lobsters](https://lobste.rs/s/0pp4wv/throwaway_development_environments))

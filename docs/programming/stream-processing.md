@@ -40,3 +40,4 @@
 - [StreamX](https://github.com/streamxhub/streamx) - Make stream processing easier.
 - [Debezium](https://debezium.io/) - Change data capture for a variety of databases. ([Web](https://github.com/debezium/debezium))
 - [Tigris](https://github.com/tigrisdata/tigris) - Modern, scalable backend for building real-time websites and apps. ([Web](https://www.tigrisdata.com/))
+- [The Dodgy State of Delivery Guarantees (2022)](https://www.youtube.com/watch?v=QmpBOCvY8mY) - Summarizing a decades worth of stream processing delivery guarantee misconceptions and bugs.

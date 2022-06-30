@@ -98,3 +98,4 @@ title: Agda
 - [Agda Synthetic Domain Theory](https://github.com/jonsterling/agda-synthetic-domain-theory)
 - [Experiments with higher-order abstract syntax in Agda](https://github.com/arthuraa/agda-hoas-playground)
 - [Linear.agda](https://github.com/metaborg/linear.agda) - Agda library for programming with separation logic, based on proof-relevant separation algebras.
+- [Review: A Very Elementary Introduction to Sheaves](https://reasonablypolymorphic.com/blog/sheafs/index.html)

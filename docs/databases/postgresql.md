@@ -531,3 +531,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Custom SQL functions for data analytics in PostgreSQL (2022)](https://www.timescale.com/blog/how-to-write-better-queries-for-time-series-data-analysis-using-custom-sql-functions/)
 - [Postgres Indexes, Selectivity, and Statistics (2022)](https://www.crunchydata.com/blog/indexes-selectivity-and-statistics)
 - [Refurb](https://github.com/ConferOpenSource/refurb) - Library for building PostgreSQL database migration software.
+- [Citus data SIGMOD white paper notes (2022)](https://viggy28.dev/article/my-notes-on-citus-data/)

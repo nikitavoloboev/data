@@ -148,3 +148,4 @@ title: JSON
 - [Summing and grouping values with jq (2022)](https://qmacro.org/blog/posts/2022/06/16/summing-and-grouping-values-with-jq/)
 - [Don't use JSON for configuration changed by humans. It needs comments.](https://twitter.com/directxman12/status/1538229544330465280)
 - [Understanding jq's SQL style operators JOIN and INDEX (2022)](https://qmacro.org/blog/posts/2022/06/23/understanding-jq's-sql-style-operators-join-and-index/)
+- [ajv-cli](https://github.com/ajv-validator/ajv-cli) - Command-line interface for Ajv JSON Validator.

@@ -95,3 +95,4 @@ title: Scheme
 - [The Little Typer](https://thelittletyper.com/) ([Review](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/))
 - [Scheme interpreter in Scala](https://github.com/rami3l/yascm)
 - [Scheje](https://github.com/turbopape/scheje) - Scheme in Clojure.
+- [Going from Python to Guile Scheme](http://www.draketo.de/proj/py2guile/) ([Lobsters](https://lobste.rs/s/mvmbcv/going_from_python_guile_scheme))

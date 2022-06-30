@@ -229,3 +229,5 @@
 - [Cranelift, Part 4: A New Register Allocator (2022)](https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/)
 - [My other database is a compiler (2022)](https://blog.chiselstrike.com/my-other-database-is-a-compiler-10fd527a4d78)
 - [Fast page maps for JIT (2022)](https://kazlauskas.me/entries/fast-page-maps-for-jit)
+- [Toolchains adventures - Q2 2022](https://www.cambus.net/toolchains-adventures-q2-2022/)
+- [QBE Notes](https://wiki.alopex.li/QbeNotes) ([Lobsters](https://lobste.rs/s/je3o8m/qbe_notes))

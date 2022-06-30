@@ -229,3 +229,4 @@ title: DNS
 - [Wordle over DNS](https://github.com/dgl/wordle-dns)
 - [Resolvers](https://github.com/trickest/resolvers) - Most exhaustive list of reliable DNS resolvers.
 - [Ferret: Automatically finding RFC compliance bugs in DNS nameservers (2022)](https://blog.apnic.net/2022/06/24/ferret-automatically-finding-rfc-compliance-bugs-in-dns-nameservers/)
+- [tolower() in bulk at speed (2022)](https://dotat.at/@/2022-06-27-tolower-swar.html)

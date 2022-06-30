@@ -68,3 +68,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [TunnelKit](https://github.com/passepartoutvpn/tunnelkit) - VPN client library for Apple platforms.
 - [Pangolin](https://github.com/xitongsys/pangolin) - VPN written in Go.
 - [Smart VPN client](https://github.com/networkop/smart-vpn-client)
+- [Experimental post-quantum safe VPN tunnels (2022)](https://mullvad.net/en/blog/2022/6/27/experimental-post-quantum-safe-vpn-tunnels/)

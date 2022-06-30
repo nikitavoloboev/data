@@ -6,6 +6,7 @@ I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me fo
 
 - [Purple Voodoo" Purple Black Tea Cake](https://yunnansourcing.com/products/purple-voodoo-purple-black-tea-cake-spring-2018)
 - [Lapsang souchong](https://en.wikipedia.org/wiki/Lapsang_souchong)
+- [Pu'er](https://en.wikipedia.org/wiki/Pu%27er_tea)
 
 ## Notes
 

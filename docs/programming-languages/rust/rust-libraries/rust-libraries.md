@@ -2214,3 +2214,5 @@
 - [Aeneas](https://github.com/sonmarcho/aeneas) - Verification toolchain for Rust programs.
 - [What is `Box<str>` and how is it different from `String` in Rust? (2022)](https://mahdi.blog/rust-box-str-vs-string/) ([HN](https://news.ycombinator.com/item?id=31859643))
 - [Type-checked keypaths in Rust (2021)](http://www.cmyr.net/blog/keypaths.html) ([HN](https://news.ycombinator.com/item?id=31890394))
+- [time_it: a Case Study in Rust Macros](https://notes.iveselov.info/programming/time_it-a-case-study-in-rust-macros) ([Lobsters](https://lobste.rs/s/oigsld/time_it_case_study_rust_macros))
+- [(Ab)using Rust traits to write silly things (2022)](https://ihatereality.space/08-abusing-rust-traits-to-write-silly-things/)

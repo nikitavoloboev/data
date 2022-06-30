@@ -176,3 +176,4 @@
 - [Google open sourced PSP (hardware cryptographic offload) (2022)](https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source) ([HN](https://news.ycombinator.com/item?id=31437033))
 - [Ask HN: Best book on modern cryptography? (2022)](https://news.ycombinator.com/item?id=31533041)
 - [Visualizing Elliptic Curves](https://curves.ulfheim.net/) ([HN](https://news.ycombinator.com/item?id=31769059))
+- [Elligator](https://elligator.org/) - Hiding cryptographic key exchange as random noise. ([Lobsters](https://lobste.rs/s/wj0g3o/elligator_hiding_cryptographic_key))

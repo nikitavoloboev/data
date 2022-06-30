@@ -139,6 +139,8 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [CodeMirror View](https://github.com/codemirror/view) - DOM view component for the CodeMirror code editor.
 - [highlighted-code](https://github.com/WebReflection/highlighted-code) - Textarea builtin extend to automatically provide code highlights based on one of the languages available via highlight.js.
 - [Verbum](https://github.com/ozanyurtsever/verbum) - Fully flexible text editor based on lexical framework. ([HN](https://news.ycombinator.com/item?id=31822619))
+- [Svelte Lexical](https://github.com/umaranis/svelte-lexical) - Rich text editor for Svelte based on lexical.
+- [Lexical Vue](https://github.com/wobsoriano/lexical-vue) - Extensible Vue 3 web text-editor based on Lexical.
 
 ## Notes
 
