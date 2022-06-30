@@ -109,6 +109,7 @@
 - [AgentPy](https://github.com/JoelForamitti/agentpy) - Open-source framework for the development and analysis of agent-based models in Python.
 - [autotst](https://github.com/jmkuebler/auto-tst) - AutoML Two-Sample Test. ([Tweet](https://twitter.com/jonas_kubler/status/1538872507540856832))
 - [Roerich](https://github.com/HSE-LAMBDA/roerich) - Python library of change point detection algorithms for time series.
+- [tftb](https://github.com/scikit-signal/tftb) - Python module for time-frequency analysis.
 
 ## Biology
 
@@ -904,6 +905,7 @@
 - [TreeValue](https://github.com/opendilab/treevalue) - Tree-nested data structure.
 - [picologging](https://github.com/microsoft/picologging) - High-performance logging library for Python.
 - [Comma](https://github.com/jlumbroso/comma) - Python CSV Library for Humans.
+- [numerizer](https://github.com/jaidevd/numerizer) - Python module to convert natural language numerics into ints and floats.
 
 ## Notes
 

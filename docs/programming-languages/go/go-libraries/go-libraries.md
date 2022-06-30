@@ -1709,6 +1709,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [goforit](https://github.com/stripe/goforit) - Feature flags client library for Go.
 - [logf](https://github.com/mr-karan/logf) - Minimal logging library for Go.
 - [tstruct](https://github.com/josharian/tstruct) - Generate template FuncMap helpers to construct struct literals within a Go template.
+- [EGo](https://github.com/edgelesssys/ego) - Framework for building confidential apps in Go.
+- [go-nanoid](https://github.com/jaevor/go-nanoid) - Nano ID in Go -- very fast and efficient ID generator.
 
 ## Links
 

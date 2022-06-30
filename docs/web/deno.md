@@ -13,6 +13,7 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 ## OSS Deno apps
 
 - [Deno Chat](https://github.com/denoland/showcase_chat) - Minimal chat platform template. It uses Fresh + Supabase + twind + BroadcastChannel API on Deno Deploy.
+- [Meet Me](https://github.com/denoland/meet-me) - Calendly clone in Deno.
 
 ## Notes
 

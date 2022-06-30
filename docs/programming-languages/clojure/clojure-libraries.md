@@ -66,6 +66,8 @@
 - [DataLinguist](https://github.com/simongray/datalinguist) - Stanford CoreNLP in idiomatic Clojure.
 - [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) - Clojure high performance data processing system.
 - [GoodGuesser](https://github.com/drcode/good-guesser) - Approximate a single numerical value using arbitrary input data, given human-labeled examples.
+- [Bayadera](https://github.com/uncomplicate/bayadera) - High-performance Bayesian Data Analysis on the GPU in Clojure.
+- [Neanderthal](https://github.com/uncomplicate/neanderthal) - Fast Clojure Matrix Library.
 
 ## GraphQL
 

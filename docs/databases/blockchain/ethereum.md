@@ -635,3 +635,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Warp](https://github.com/NethermindEth/warp) - Bringing Solidity to StarkNet at warp speed.
 - [Real World Trade Protocol](https://www.rwtp.org/) - Peer-to-peer protocol for buying and selling off-chain goods on Ethereum. ([Code](https://github.com/rwtp/rwtp))
 - [FastSSZ](https://github.com/ferranbt/fastssz) - Fast Ethereum2.0 SSZ encoder/decoder.
+- [Foundry Cheatsheet](https://github.com/dabit3/foundry-cheatsheet)

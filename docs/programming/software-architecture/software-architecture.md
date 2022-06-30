@@ -251,3 +251,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Target: Hardening the Registers (2022)](https://tech.target.com/blog/hardening-the-registers) ([HN](https://news.ycombinator.com/item?id=31849488))
 - [Companies Using RFCs or Design Docs and Examples of These (2022)](https://blog.pragmaticengineer.com/rfcs-and-design-docs/)
 - [Revisiting the principles of data-oriented programming (2022)](https://blog.klipse.tech/dop/2022/06/22/principles-of-dop.html) ([HN](https://news.ycombinator.com/item?id=31858077))
+- [System Design Bytes for Enthusiasts](https://github.com/codersguild/System-Design)

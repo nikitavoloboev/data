@@ -347,6 +347,7 @@
 - [APNSwift](https://github.com/swift-server-community/APNSwift) - HTTP/2 APNS library built on AsyncHTTPClient.
 - [URLEncoder](https://github.com/chriseidhof/URLCodable)
 - [curl-swift](https://github.com/khoi/curl-swift) - Opinionated libcurl wrapper for Swift.
+- [MicroClient](https://github.com/otaviocc/MicroClient) - Simple and lightweight network client.
 
 ## WASM
 

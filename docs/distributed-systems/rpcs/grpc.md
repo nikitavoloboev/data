@@ -118,3 +118,4 @@ title: gRPC
 - [Connect](https://github.com/bufbuild/connect-go) - Slim library for building browser and gRPC-compatible HTTP APIs. ([Article](https://buf.build/blog/connect-a-better-grpc)) ([HN](https://news.ycombinator.com/item?id=31584555)) ([Tweet](https://twitter.com/wallyqs/status/1532239194927484928))
 - [Interactive gRPC API Documentation](https://gendocu-demo.web.app/) ([Code](https://github.com/gendocu-com/grpc-docs))
 - [The Story of Why We Migrate to gRPC and How We Go About It - Matthias Grüter, Spotify (2019)](https://www.youtube.com/watch?v=fMq3IpPE3TU)
+- [gRPC Websocket Proxy](https://github.com/tmc/grpc-websocket-proxy) - Proxy to transparently upgrade grpc-gateway streaming endpoints to use websockets.

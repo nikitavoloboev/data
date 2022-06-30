@@ -73,3 +73,4 @@ title: Protocol buffers
 - [Proto2http](https://github.com/kodiiing/proto2http) - Protocol Buffers to HTTP client code generator/converter.
 - [APBuf (Algebraic Protocol Buffers)](https://github.com/gfngfn/apbuf) - Compiler that generates decoders/encoders from a single configuration file that specifies the data format.
 - [Aleka](https://github.com/miguelabate/aleka) - Schema agnostic protobuf decoder tool.
+- [protoc-gen-apidocs](https://github.com/tmc/protoc-gen-apidocs) - Simple and customizable protoc generator that translates .proto files into clean and readable markdown format.

@@ -820,3 +820,4 @@
 - [MT-YOLOv6](https://github.com/meituan/YOLOv6) - Single-stage object detection framework dedicated to industrial applications.
 - [Fast Point Transformer (2022)](https://arxiv.org/abs/2112.04702) ([Code](https://github.com/POSTECH-CVLab/FastPointTransformer))
 - [FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation (2022)](https://arxiv.org/abs/2204.01587) ([Code](https://github.com/sohyun-l/fifo))
+- [Nettle Magic Project](https://github.com/nettlep/magic) - Scanner for decks of cards with bar codes printed on card edges.

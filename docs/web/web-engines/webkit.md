@@ -29,3 +29,4 @@ title: WebKit
 - [New WebKit Features in Safari 15.5 (2022)](https://webkit.org/blog/12669/new-webkit-features-in-safari-15-5/) ([HN](https://news.ycombinator.com/item?id=31400969))
 - [Concurrent JavaScript: It can work! (2017)](https://webkit.org/blog/7846/concurrent-javascript-it-can-work/)
 - [News from WWDC22: WebKit Features in Safari 16 Beta](https://webkit.org/blog/12824/news-from-wwdc-webkit-features-in-safari-16-beta/) ([HN](https://news.ycombinator.com/item?id=31644622))
+- [WebKit's positions on emerging web specifications](https://github.com/WebKit/standards-positions)

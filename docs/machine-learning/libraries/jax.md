@@ -58,3 +58,4 @@ title: JAX
 - [JaX is faster than PyTorch but harder to debug](https://twitter.com/kevin_zakka/status/1538634474107314176)
 - [JAX Meta Learning](https://github.com/tristandeleu/jax-meta-learning) - Collection of meta-learning algorithms in JAX.
 - [Gymnax](https://github.com/RobertTLange/gymnax) - RL Environments in JAX.
+- [Pax](https://github.com/google/paxml) - Framework to configure and run machine learning experiments on top of Jax.

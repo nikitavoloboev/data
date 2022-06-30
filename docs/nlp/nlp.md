@@ -606,3 +606,4 @@
 - [First impressions of DALL-E, generating images from text (2022)](https://simonwillison.net/2022/Jun/23/dall-e/) ([Lobsters](https://lobste.rs/s/kvnlpf/first_impressions_dall_e_generating))
 - [Meta is inviting researchers to pick apart the flaws in its version of GPT-3 (2022)](https://www.technologyreview.com/2022/05/03/1051691/meta-ai-large-language-model-gpt3-ethics-huggingface-transparency/) ([HN](https://news.ycombinator.com/item?id=31897101))
 - ['Making Moves' In DALL·E mini (2022)](https://www.thejaymo.net/2022/06/19/250-making-moves-in-dalle-mini/)
+- [min(DALL·E)](https://github.com/kuprel/min-dalle) - Minimal implementation of DALL·E Mini. It has been stripped to the bare essentials necessary for doing inference, and converted to PyTorch.

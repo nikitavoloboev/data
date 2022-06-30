@@ -493,3 +493,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [ranpha](https://github.com/JohnTitor/ranpha) - Generate QR code of your Wi-Fi network.
 - [WiFi Exploitation Framework](https://github.com/D3Ext/WEF)
 - [Terabit Ethernet - Wikipedia](https://en.wikipedia.org/wiki/Terabit_Ethernet)
+- [Retina](https://github.com/stanford-esrg/retina) - Network analysis framework that supports 100+ Gbps traffic analysis on a single server with no specialized hardware.

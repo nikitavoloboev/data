@@ -78,3 +78,4 @@
 - [JDC-PitchExtractor](https://github.com/yl4579/PitchExtractor) - Deep Neural Pitch Extractor for Voice Conversion and TTS Training.
 - [Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech (2021)](https://arxiv.org/abs/2105.06337) ([Code](https://github.com/WelkinYang/GradTTS))
 - [Publicly Available Emotional Speech Dataset (ESD) for Speech Synthesis and Voice Conversion](https://github.com/HLTSingapore/Emotional-Speech-Data)
+- [Mimic 3](https://github.com/MycroftAI/mimic3) - Fast local neural text to speech engine for Mycroft.

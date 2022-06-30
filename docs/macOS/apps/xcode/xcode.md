@@ -115,3 +115,4 @@ title: Xcode
 - [FengNiao](https://github.com/onevcat/FengNiao) - Command line tool for cleaning unused resources in Xcode.
 - [XCSnippets](https://github.com/MarcoEidinger/XCSnippets) - Swift package to provide type-safe interaction with (user-defined) Xcode Code Snippets.
 - [Xcode Project Organization (2022)](https://www.chimehq.com/blog/xcode-project-organization) ([Tweet](https://twitter.com/mattie/status/1537467445790789632))
+- [Multiliner](https://github.com/aheze/Multiliner) - Xcode source extension to expand lengthy lines.

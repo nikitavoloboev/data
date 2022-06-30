@@ -1989,6 +1989,7 @@
 - [reborrow](https://github.com/sarah-ek/reborrow) - Emulate reborrowing for user types.
 - [generational-lru](https://github.com/arindas/generational-lru) - Generational arena based LRU Cache implementation in 100% safe rust.
 - [keypath](https://github.com/cmyr/keypath) - Strongly typed references to arbitrarily nested fields.
+- [Rust Radix Trie](https://github.com/michaelsproul/rust_radix_trie) - Fast generic radix trie implemented in Rust.
 
 ## Cargo Plugins
 

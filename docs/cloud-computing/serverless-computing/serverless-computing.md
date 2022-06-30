@@ -170,3 +170,5 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Serverless at Stedi - Learnings and Best Practices - Marek Kuczynski (2022)](https://www.youtube.com/watch?v=9V0QlkTwXvU)
 - [fnapi](https://github.com/fnapi/fnapi) - Convert a function to an API. TypeScript backend framework, focused on removing boilerplates.
 - [Hydrogen on Netlify Edge Functions](https://github.com/netlify/hydrogen-platform)
+- [Serverless background job experiment](https://github.com/joshnuss/vercel-serverless-jobs)
+- [Edge Runtime](https://edge-runtime.vercel.app/) - Toolkit for developing, testing, and defining the runtime Web APIs for Edge infrastructure. ([Code](https://github.com/vercel/edge-runtime))
