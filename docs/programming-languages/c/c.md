@@ -259,3 +259,4 @@
 - [OpenBSD has two new C compilers: chibicc and kefir (2022)](https://briancallahan.net/blog/20220629.html) ([HN](https://news.ycombinator.com/item?id=31930718))
 - [Goblint](https://github.com/goblint/analyzer) - Static analysis framework for C.
 - [Kefir C compiler](https://github.com/protopopov1122/kefir) - Implementation of C17 language compiler from scratch.
+- [Polymorphism through Typeclasses / Interface / Traits in C](https://github.com/TotallyNotChase/typeclass-interface-pattern)
