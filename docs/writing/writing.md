@@ -288,3 +288,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Writing better by answering why, what, how](https://eugeneyan.com/writing/writing-docs-why-what-how/) ([HN](https://news.ycombinator.com/item?id=31711071))
 - [Writing One Sentence per Line](https://sive.rs/1s) ([HN](https://news.ycombinator.com/item?id=31808093))
 - [Ask HN: How to level up your technical writing? (2022)](https://news.ycombinator.com/item?id=31859040)
+- [Brevity 500](https://brevity500.com/) - Short games to help you become a powerful writer. ([HN](https://news.ycombinator.com/item?id=31921830))

@@ -516,3 +516,4 @@ for i, _ in enumerate(nums):
 - [What's New in Python 3.11? (2022)](https://deepsource.io/blog/python-3-11-whats-new/) ([HN](https://news.ycombinator.com/item?id=31888624))
 - [My Python testing style guide](https://blog.thea.codes/my-python-testing-style-guide/) ([Lobsters](https://lobste.rs/s/9983uh/my_python_testing_style_guide))
 - [Blip](https://github.com/bjpop/blip) - Bytecode compiler for Python 3.
+- [Multiprocessing in Python: The Complete Guide (2022)](https://superfastpython.com/multiprocessing-in-python/)

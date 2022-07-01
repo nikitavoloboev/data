@@ -4,7 +4,7 @@ title: SQL
 
 # [SQL](http://en.wikipedia.org/wiki/SQL)
 
-[dsq](https://github.com/multiprocessio/dsq) is neat. [SQL Indexing and Tuning book](https://use-the-index-luke.com/) has many tips. [GlueSQL](https://github.com/gluesql/gluesql) seems nice too.
+[dsq](https://github.com/multiprocessio/dsq) is neat. [SQL Indexing and Tuning book](https://use-the-index-luke.com/) has many tips. [PRQL](https://prql-lang.org/) & [GlueSQL](https://github.com/gluesql/gluesql) seem nice too.
 
 [Arctype](https://arctype.com/) is a nice tool.
 

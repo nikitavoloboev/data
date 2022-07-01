@@ -262,3 +262,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Designing macOS menu bar extras](https://bjango.com/articles/designingmenubarextras/)
 - [Tips – Preview the Mac app people forget about](https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about) ([HN](https://news.ycombinator.com/item?id=31315110))
 - [App Fair](https://appfair.app/) - Catalog browser for discovering & installing macOS apps. ([Code](https://github.com/App-Fair/App))
+- [What's new in AppKit (2022)](https://mackuba.eu/notes/wwdc22/whats-new-in-appkit/)

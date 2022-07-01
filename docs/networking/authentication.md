@@ -241,3 +241,5 @@
 - [Is "acceptably non-dystopian" self-sovereign identity even possible? (2022)](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
 - [diridp: replace access keys with public key crypto (2022)](https://stephank.nl/p/2022-06-20-diridp-replace-access-keys-with-public-key-crypto.html) ([Lobsters](https://lobste.rs/s/x2ytct/diridp_replace_access_keys_with_public))
 - [Ask HN: What do you use to build auth? (2022)](https://news.ycombinator.com/item?id=31919548)
+- [Why Passkeys Will Be Simpler and More Secure Than Passwords (2022)](https://tidbits.com/2022/06/27/why-passkeys-will-be-simpler-and-more-secure-than-passwords/)
+- [Awesome IAM](https://github.com/kdeldycke/awesome-iam)

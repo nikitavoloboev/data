@@ -259,3 +259,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [enmime](https://github.com/jhillyerd/enmime) - MIME mail encoding and decoding package for Go.
 - [letterparser](https://github.com/mat-sz/letterparser) - Isomorphic e-mail parser (with MIME support) written in TypeScript.
 - [unsubscan](https://github.com/LGUG2Z/unsubscan) - Tool to help you find unsubscribe links in your emails. ([HN](https://news.ycombinator.com/item?id=31786324))
+- [My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails (2022)](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/)

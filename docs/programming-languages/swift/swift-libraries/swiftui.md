@@ -240,3 +240,4 @@ title: SwiftUI
 - [Model View Controller Store: Reinventing MVC for SwiftUI with Boutique (2022)](https://build.ms/2022/06/22/model-view-controller-store/)
 - [SwiftUI for Mac 2022](https://troz.net/post/2022/swiftui-mac-2022/)
 - [SwiftUI Backports](https://github.com/shaps80/SwiftUIBackports) - Collection of SwiftUI backports to make your iOS development easier.
+- [SwiftUI Index](https://mackuba.eu/swiftui/changelog)
