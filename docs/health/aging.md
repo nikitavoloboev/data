@@ -104,3 +104,4 @@ I personally don't plan to live for long once my body starts truly breaking down
 - [On Aging Alone (2021)](https://thewalrus.ca/on-aging-alone/) ([HN](https://news.ycombinator.com/item?id=31454286))
 - [Scientists Discover Ways of Making Old Blood New Again](https://news.cuanschutz.edu/news-stories/scientists-discover-ways-of-making-old-blood-new-again) ([HN](https://news.ycombinator.com/item?id=31636246))
 - [Wild turtles age slowly, and some basically don’t age at all (2022)](https://www.futurity.org/turtles-aging-lifespans-2758992-2/) ([HN](https://news.ycombinator.com/item?id=31881557))
+- [Ask HN: Why not have reverse life insurance that rewards longevity? (2022)](https://news.ycombinator.com/item?id=31948168)
