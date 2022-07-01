@@ -322,6 +322,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [react-easy-crop](https://github.com/ValentinH/react-easy-crop) - React component to crop images/videos with easy interactions.
 - [React-CMD-K](https://github.com/albingroen/react-cmdk) - Fast, accessible, and pretty command palette for React.
 - [React Lottie Player](https://github.com/mifi/react-lottie-player) - Fully declarative React Lottie player.
+- [React Keyboard Navigator](https://github.com/zheeeng/react-keyboard-navigator) - Suite of React components and hook for selecting sibling components through the keyboard.
 
 ## Links
 

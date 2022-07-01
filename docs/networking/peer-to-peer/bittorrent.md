@@ -126,3 +126,4 @@ title: BitTorrent
 - [WebTorrent CLI](https://github.com/webtorrent/webtorrent-cli) - Streaming torrent client. For the command line.
 - [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers.
 - [WebTorrent Hybrid](https://github.com/webtorrent/webtorrent-hybrid) - Streaming torrent client (with WebRTC support in Node.js).
+- [VueTorrent](https://github.com/WDaan/VueTorrent) - Sleekest looking WEBUI for qBittorrent made with VueJS.

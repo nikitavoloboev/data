@@ -1188,6 +1188,7 @@
 - [Algolia Search Swift](https://github.com/algolia/algoliasearch-client-swift) - Fully-featured and blazing-fast Swift API client to interact with Algolia.
 - [AnyAsyncSequence](https://github.com/vsanthanam/AnyAsyncSequence) - Type-Erased Existential Generic AsyncSequence Values in Swift.
 - [ConcurrencyPlus](https://github.com/ChimeHQ/ConcurrencyPlus) - Utilities for working with Swift Concurrency.
+- [Algorithms on Sequences](https://github.com/fwcd/swift-algorithms-on-sequences) - Various string search algorithms for Swift.
 
 ## Other (not lib)
 

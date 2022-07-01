@@ -966,6 +966,7 @@
 - [cloneable-readable](https://github.com/mcollina/cloneable-readable) - Clone a Readable stream, safely.
 - [ASTq](https://github.com/rse/astq) - Abstract Syntax Tree (AST) Query Engine. ([HN](https://news.ycombinator.com/item?id=31929700))
 - [virtual-scroll](https://github.com/ayamflow/virtual-scroll) - Low-level library to create custom scroll behaviors.
+- [lazyfill](https://github.com/nuxodin/lazyfill) - Polyfills on demand.
 
 ## Links
 
