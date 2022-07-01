@@ -33,6 +33,9 @@ div.CodeMirror-cursor,
 .status-bar {
   display: none;
 }
+.view-header-title {
+  display: none;
+}
 ```
 
 ![](https://pbs.twimg.com/media/FWHswCFWYAArKUW?format=jpg&name=4096x4096)
