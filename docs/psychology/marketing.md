@@ -182,6 +182,7 @@ One way to do launches with possible virality is rewarding people who retweet wi
 - [Of Chickens and Pigs - The Dilemma of Creator Self Promotion (2021)](https://dev.to/this-is-learning/of-chickens-and-pigs-the-dilemma-of-creator-self-promotion-51ea)
 - [Ask HN: Best dev tool pitches of all time? (2022)](https://news.ycombinator.com/item?id=31782200)
 - [Reflio](https://github.com/Reflio-com/reflio) - Create a referral program without breaking the bank.
+- [Ask HN: Where and how do you find your early adoptors? (2022)](https://news.ycombinator.com/item?id=31930935)
 
 ## Images
 

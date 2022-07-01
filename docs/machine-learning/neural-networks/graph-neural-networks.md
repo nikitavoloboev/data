@@ -122,3 +122,4 @@
 - [How Airbnb is using Graph Convolutional Networks in production (2022)](https://medium.com/airbnb-engineering/graph-machine-learning-at-airbnb-f868d65f36ee)
 - [Foundations of Graph Neural Networks online course](https://zakjost.ck.page/gnn)
 - [Basics of Graph Neural Networks](https://www.graphneuralnets.com/p/basics-of-gnns/)
+- [Local Augmentation for Graph Neural Networks (2021)](https://arxiv.org/abs/2109.03856) ([Code](https://github.com/SongtaoLiu0823/LAGNN))

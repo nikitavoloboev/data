@@ -119,3 +119,4 @@ title: gRPC
 - [Interactive gRPC API Documentation](https://gendocu-demo.web.app/) ([Code](https://github.com/gendocu-com/grpc-docs))
 - [The Story of Why We Migrate to gRPC and How We Go About It - Matthias Grüter, Spotify (2019)](https://www.youtube.com/watch?v=fMq3IpPE3TU)
 - [gRPC Websocket Proxy](https://github.com/tmc/grpc-websocket-proxy) - Proxy to transparently upgrade grpc-gateway streaming endpoints to use websockets.
+- [Go gRPC Middleware for Sentry](https://github.com/johnbellone/grpc-middleware-sentry)

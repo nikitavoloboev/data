@@ -605,6 +605,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Readwise Reader](https://readwise.io/read) - First read-it-later app built for power readers. ([Tweet](https://twitter.com/homsiT/status/1435715039508500485))
 - [Pinry](https://github.com/pinry/pinry) - Tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. ([Docs](https://docs.getpinry.com/))
 - [Shaark](https://github.com/MarceauKa/shaark) - Self-hosted platform to keep and share your content: web links, posts, passwords and pictures. All of your data can be private, public or both and can be browsed by tags or all-in-one search.
+- [Likwid](https://github.com/RRZE-HPC/likwid) - Simple to install and use toolsuite of command line applications and a library for performance oriented programmers.
 
 ## Notes
 

@@ -964,6 +964,7 @@
 - [nanoutils](https://github.com/nanoutils/nanoutils) - Tiniest FP-friendly JavaScript utils library.
 - [Slidy](https://github.com/Valexr/Slidy) - Simple, configurable, nested & reusable sliding action script with templates, animations, easings & some useful plugins.
 - [cloneable-readable](https://github.com/mcollina/cloneable-readable) - Clone a Readable stream, safely.
+- [ASTq](https://github.com/rse/astq) - Abstract Syntax Tree (AST) Query Engine.
 
 ## Links
 
