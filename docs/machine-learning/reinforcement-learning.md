@@ -372,3 +372,4 @@ title: Reinforcement learning
 - [Recurrent Model-Free RL Can Be a Strong Baseline for Many POMDPs (2022)](https://arxiv.org/abs/2110.05038) ([Code](https://github.com/twni2016/pomdp-baselines))
 - [Offline RL for Natural Language Generation with Implicit Language Q Learning](https://sea-snell.github.io/ILQL_site/) ([Code](https://github.com/Sea-Snell/Implicit-Language-Q-Learning))
 - [Flow](https://github.com/flow-project/flow) - Computational framework for deep RL and control experiments for traffic microsimulation.
+- [AlgebraicRL.jl](https://github.com/bakirtzisg/AlgebraicRL.jl) - Julia library for composing Markov decision processes (MDPs) and their agents compositionally.

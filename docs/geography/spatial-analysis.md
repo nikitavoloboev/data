@@ -225,3 +225,4 @@ title: Spatial analysis
 - [Geospatial deep learning with TorchGeo (2022)](https://pytorch.org/blog/geospatial-deep-learning-with-torchgeo/)
 - [STAC](https://stacspec.org/en) - SpatioTemporal Asset Catalogs.
 - [stactools](https://github.com/stac-utils/stactools) - High-level command line tool and Python library for working with STAC. It is based on PySTAC.
+- [Finding climbing locations with a ConvNet and web map tiles](http://michaelskaug.com/crag_finder/) ([Code](https://github.com/mikeskaug/crag-finder))

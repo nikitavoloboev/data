@@ -117,3 +117,4 @@ title: TensorFlow
 - [TensorFlow Hub](https://tfhub.dev/) ([Code](https://github.com/tensorflow/tfhub.dev))
 - [TensorFlow Hub Models](https://github.com/tensorflow/hub)
 - [Middle-End Development with SvelteKit + TensorFlow.JS (2022)](https://cprimozic.net/blog/fullstack-sveltekit-recommendation-app-middle-end-development/)
+- [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization)

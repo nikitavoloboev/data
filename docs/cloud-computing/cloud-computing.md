@@ -1,6 +1,6 @@
 # Cloud computing
 
-Like using [fly.io](https://fly.io/) for serverless workloads. For personal servers I use [Hetzner](https://www.hetzner.com/) with [unlimited traffic and gigabit uplink](https://news.ycombinator.com/item?id=30055054). [OVHcloud](https://www.ovhcloud.com/en-ie/) is nice too.
+Like using [fly.io](https://fly.io/) for serverless workloads. For personal servers I use [Hetzner](https://www.hetzner.com/) with [unlimited traffic and gigabit uplink](https://news.ycombinator.com/item?id=30055054). [OVHcloud](https://www.ovhcloud.com/en-ie/) is nice too. Had horrendous experience with [GCP](gcp/gcp.md)/[AWS](aws/aws.md) so avoid using it.
 
 ## ML
 

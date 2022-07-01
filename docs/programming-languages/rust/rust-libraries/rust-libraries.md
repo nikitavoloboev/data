@@ -391,6 +391,7 @@
 - [glyphon](https://github.com/grovesNL/glyphon) - Fast, simple 2D text rendering for wgpu.
 - [NVTX](https://github.com/simbleau/nvtx) - Safe Rust FFI binding for the NVIDIA Tools Extension SDK.
 - [Softbuffer](https://github.com/john01dav/softbuffer) - Integrates with the raw-window-handle crate to allow writing to a window in a cross-platform way.
+- [flo_draw](https://github.com/Logicalshift/flo_draw) - 2D rendering libraries for Rust and FlowBetween.
 
 ## Games
 
@@ -1991,6 +1992,7 @@
 - [generational-lru](https://github.com/arindas/generational-lru) - Generational arena based LRU Cache implementation in 100% safe rust.
 - [keypath](https://github.com/cmyr/keypath) - Strongly typed references to arbitrarily nested fields.
 - [Rust Radix Trie](https://github.com/michaelsproul/rust_radix_trie) - Fast generic radix trie implemented in Rust.
+- [KString](https://github.com/cobalt-org/kstring) - String optimized for map keys.
 
 ## Cargo Plugins
 

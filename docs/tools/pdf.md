@@ -67,3 +67,4 @@
 - [Let's write a PDF file (2015)](https://speakerdeck.com/ange/lets-write-a-pdf-file)
 - [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit).
 - [img2pdf](https://github.com/myollie/img2pdf) - Losslessly convert raster images to PDF.
+- [Boxes and Glue](https://github.com/speedata/boxesandglue) - PDF typesetting library/backend in the spirit of TeX's algorithms.

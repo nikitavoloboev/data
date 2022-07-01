@@ -17,3 +17,5 @@ title: tRPC
 - [I Deleted HALF My Backend Code With tRPC (2022)](https://www.youtube.com/watch?v=PYUqYcPMPeQ)
 - [Solid-tRPC Demo](https://github.com/TheoBr/solid-trpc)
 - [Let's Learn tRPC (2022)](https://www.youtube.com/watch?v=GryES84SSEU)
+- [tRPC Chrome](https://github.com/jlalmes/trpc-chrome) - Chrome extension adapter for tRPC.
+- [Build a Blog With the T3 Stack - tRPC, TypeScript, Next.js, Prisma & Zod (2022)](https://www.youtube.com/watch?v=syEWlxVFUrY)

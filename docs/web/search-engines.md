@@ -244,3 +244,4 @@
 - [Learning-To-Rank: Sorting Search Results (2022)](https://tech.olx.com/learning-to-rank-sorting-search-results-b21a8bd48808)
 - [Brave Search Goggles](https://github.com/brave/goggles-quickstart) - Alter search rankings with rules and filters. ([HN](https://news.ycombinator.com/item?id=31837986))
 - [Awesome Hacker Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines)
+- [Similari](https://github.com/insight-platform/Similari) - In-memory similarity search engine with parallellized data processing.

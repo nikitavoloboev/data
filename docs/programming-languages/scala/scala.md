@@ -165,3 +165,4 @@ title: Scala
 - [You already know Monad(ic) stuff](https://blog.sake.ba/en/posts/programming/monads.html)
 - [New in Scala 3](https://github.com/bjornregnell/new-in-Scala3) - Quick tour of selected new stuff in Scala 3.
 - [Moving From Akka To ZIO: Experiences And Comparisons by Jan Ypma (2022)](https://www.youtube.com/watch?v=WvaO62TD8L0)
+- [Tooling Talks - The Scala Cross Platform Story (2022)](https://www.tooling-talks.com/episode-12)

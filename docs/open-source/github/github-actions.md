@@ -237,6 +237,7 @@ title: GitHub actions
 - [Update GitHub Actions Permissions](https://github.com/pkgdeps/update-github-actions-permissions) - Update GitHub Actions's permissions automatically.
 - [Reviewpad GitHub Action](https://github.com/reviewpad/action) - GitHub action to supercharge your pull requests workflows.
 - [Check JSON Schema](https://github.com/python-jsonschema/check-jsonschema) - JSON Schema CLI and pre-commit hook built on jsonschema.
+- [Push Protected](https://github.com/CasperWA/push-protected) - GitHub Action to push newly created commit(s) to a protected branch, waiting for status checks to succeed.
 
 ## Go
 

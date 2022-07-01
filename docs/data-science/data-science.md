@@ -260,3 +260,4 @@
 - [Aqueduct](https://github.com/aqueducthq/aqueduct) - Prediction Infrastructure for Data Scientists.
 - [DagsHub](https://dagshub.com/) - Open Source Data Science Collaboration.
 - [Kaggle Past Competitions](https://ndres.me/kaggle-past-solutions/) - Sortable and searchable compilation of solutions to past Kaggle competitions. ([Code](https://github.com/EliotAndres/kaggle-past-solutions))
+- [Hedgehog Lab](https://hlab.app/) - Run, compile and execute JavaScript for Scientific Computing and Data Visualization. ([Code](https://github.com/Hedgehog-Computing/hedgehog-lab))

@@ -101,3 +101,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [A New Way to Cook Pasta?](https://www.seriouseats.com/how-to-cook-pasta-salt-water-boiling-tips-the-food-lab)
 - [Cloud Native Community Cookbook](https://github.com/cncf/cloud-native-community-cookbook)
 - [Pestle](https://apps.apple.com/au/app/pestle-kitchen-recipe-book/id1574776971) - Save & Manage Recipes. ([Twitter](https://twitter.com/pestlechef))
+- [10 tastiest Ukrainian dishes](https://ukraineworld.org/articles//ukraine-explained/eat-ukraine-10-tastiest-ukrainian-dishes)

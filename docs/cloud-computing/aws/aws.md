@@ -4,7 +4,9 @@ title: AWS
 
 # [AWS](https://aws.amazon.com/)
 
-AWS has a [generous free tier](https://aws.amazon.com/free/). [AWS CDK](https://github.com/aws/aws-cdk), [Digger](https://digger.dev/) & [ts2asl](https://github.com/Stedi/ts2asl) are nice. [SLIC Starter](https://github.com/fourTheorem/slic-starter) seems great as AWS serverless starter.
+AWS has a [nice free tier](https://aws.amazon.com/free/). [AWS CDK](https://github.com/aws/aws-cdk), [Digger](https://digger.dev/) & [ts2asl](https://github.com/Stedi/ts2asl) are nice. [SLIC Starter](https://github.com/fourTheorem/slic-starter) seems great as AWS serverless starter.
+
+Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horrendous experience. From now on, I avoid AWS/GCP fully because not only is their UI horrendous, it's pricing is insane too.
 
 ## Interesting
 

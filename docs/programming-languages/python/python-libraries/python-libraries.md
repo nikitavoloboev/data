@@ -61,6 +61,7 @@
 - [OpenAPI Spec validator](https://github.com/p1c2u/openapi-spec-validator)
 - [Uplink](https://github.com/prkumar/uplink) - Declarative HTTP Client for Python.
 - [aiorwlock](https://github.com/aio-libs/aiorwlock) - Read/Write Lock - synchronization primitive for asyncio.
+- [Nitro](https://github.com/h2oai/nitro) - Simplest way to build web apps using Python. No Javascript/HTML/CSS coding.
 
 ## ML
 
@@ -1064,3 +1065,4 @@
 - [Bundling binary tools in Python wheels (2022)](https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/) ([HN](https://news.ycombinator.com/item?id=31776873))
 - [onepm](https://github.com/frostming/onepm) - Picks the right Python package manager for you.
 - [Mapping the world of Python package management (2022)](https://enigma.com/blog/post/mapping-the-world-of-package-management) ([HN](https://news.ycombinator.com/item?id=31837996))
+- [Logging in Python Like a Pro](https://guicommits.com/how-to-log-in-python-like-a-pro/) ([HN](https://news.ycombinator.com/item?id=31945564))

@@ -106,3 +106,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [JavaScript UI Compilers: Comparing Svelte and Solid (2019)](https://ryansolid.medium.com/javascript-ui-compilers-comparing-svelte-and-solid-cbcba2120cea)
 - [Thinking Granular: How is SolidJS so Performant? (2021)](https://dev.to/ryansolid/thinking-granular-how-is-solidjs-so-performant-4g37)
 - [Solid Valtio](https://github.com/wobsoriano/solid-valtio) - State management in Solid with valtio.
+- [ReScript SolidJS](https://github.com/Fattafatta/rescript-solidjs)

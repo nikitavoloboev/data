@@ -376,3 +376,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [High Performance Personalization with Next.js Middleware (2022)](https://www.plasmic.app/blog/nextjs-personalization) ([Reddit](https://www.reddit.com/r/nextjs/comments/ux22u0/high_performance_personalization_with_nextjs/))
 - [Next.js Routing and Layouts RFC tips](https://twitter.com/delba_oliveira/status/1529480318817669122)
 - [Why I Use NextJS For ALL My Backends (2022)](https://www.youtube.com/watch?v=2cB5Fh46Vi4)
+- [Next.js 12.2: Middleware, On-Demand ISR, and Edge API Routes / SSR (2022)](https://www.youtube.com/watch?v=bQqN0fK3Gjg)

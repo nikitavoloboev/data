@@ -185,3 +185,4 @@
 - [The Most Satisfying Checkbox](https://www.andy.works/words/the-most-satisfying-checkbox) ([HN](https://news.ycombinator.com/item?id=31781110))
 - [We need a flow chart editor that doesn't give you carpal tunnel (2022)](https://www.scottantipa.com/why-knotend) ([HN](https://news.ycombinator.com/item?id=31804429))
 - [UX Tip: Classify your Interactions into Obvious/Easy/Possible (2022)](https://blog.willgrant.org/2022/06/27/classify-interactions-obvious-easy-possible.html) ([Lobsters](https://lobste.rs/s/bftjrg/ux_tip_classify_your_interactions_into))
+- [UI/UX Learning Resources](https://github.com/hendurhance/ui-ux)

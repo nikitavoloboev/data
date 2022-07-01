@@ -171,3 +171,4 @@
 - [furrr](https://github.com/DavisVaughan/furrr) - Apply Mapping Functions in Parallel using Futures.
 - [Tutorial: An Introduction to Futureverse for Parallel Processing in R](https://github.com/HenrikBengtsson/future-tutorial-user2022)
 - [causact](https://github.com/flyaflya/causact) - R package to accelerate Bayesian analytics workflows.
+- [generics](https://github.com/r-lib/generics) - Common generic methods.

@@ -116,3 +116,4 @@ What's wild to me is just how few people can write code. Some say it's [~ 30M](h
 - [Agora Flat Online Classroom](https://flat.whiteboard.agora.io/en/) ([Code](https://github.com/netless-io/flat))
 - [Building e-learning applications with Daily (2022)](https://www.daily.co/blog/building-e-learning-applications-with-daily/)
 - [PrairieLearn](https://github.com/PrairieLearn/PrairieLearn) - Online problem-driven learning system for creating homeworks and tests.
+- [Ask HN: If you’ve considered homeschooling, what’s stopping you? (2022)](https://news.ycombinator.com/item?id=31947895)

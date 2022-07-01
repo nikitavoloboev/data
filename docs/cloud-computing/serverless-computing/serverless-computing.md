@@ -172,3 +172,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Hydrogen on Netlify Edge Functions](https://github.com/netlify/hydrogen-platform)
 - [Serverless background job experiment](https://github.com/joshnuss/vercel-serverless-jobs)
 - [Edge Runtime](https://edge-runtime.vercel.app/) - Toolkit for developing, testing, and defining the runtime Web APIs for Edge infrastructure. ([Code](https://github.com/vercel/edge-runtime))
+- [Lagon](https://lagon.app/) - Deploy Serverless Functions at the Edge. ([Code](https://github.com/lagonapp/serverless))

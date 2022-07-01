@@ -99,3 +99,5 @@
 - [LightAutoML](https://github.com/sb-ai-lab/LightAutoML) - Fast and customizable framework for automatic ML model creation (AutoML).
 - [MLEM](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles. ([Web](https://mlem.ai/))
 - [Serving ML at the Speed of Rust (2022)](http://shvbsle.in/serving-ml-at-the-speed-of-rust/) ([HN](https://news.ycombinator.com/item?id=31853269))
+- [Sematic](https://github.com/sematic-ai/sematic) - Open-source ML pipeline development toolkit.
+- [ML Platform Workshop](https://github.com/aporia-ai/mlplatform-workshop) - Example code for a basic ML Platform based on Pulumi, FastAPI, DVC, MLFlow and more.

@@ -4,6 +4,10 @@ title: Google Cloud
 
 # [Google Cloud](https://cloud.google.com/)
 
+Avoid GCP now because it's pricing is insane. I got billed 70 euro for empty Postgres database that I held for 2 weeks only and made 0 hits too. I get that you [rent a full virtual machine](https://www.reddit.com/r/googlecloud/comments/9uramg/cloud_sql_cost_too_high_how_to_optimize/) but it's still a rip off. Actually of opinion now that both AWS and GCP is trash and should be avoided.
+
+Looking into [Railway](https://railway.app/) & [Cloudflare](https://www.cloudflare.com/en-gb/) now for any cloud compute I want to do.
+
 ## Connecting to CloudSQL from Go
 
 1. [Connecting to Cloud SQL (Postgres) from a Go web app](https://github.com/GoogleCloudPlatform/golang-samples/blob/main/cloudsql/postgres/database-sql/README.md)

@@ -104,3 +104,4 @@ title: Lean
 - [Lake](https://github.com/leanprover/lake) - Lean 4 build system and package manager with configuration files written in Lean.
 - [Lean-Chat](https://github.com/zhangir-azerbayev/lean-chat) - OpenAI Codex-powered chat interface for translating natural language theorem statements into Lean mathlib.
 - [Lean Game Maker](https://github.com/mpedramfar/Lean-game-maker) - Library renders structured Lean files into an interactive game with a JS Lean server running on the browser.
+- [Lean formalization of parts of Martin Liebeck's "A concise introduction to pure mathematics"](https://github.com/ImperialCollegeLondon/m1fexplained)

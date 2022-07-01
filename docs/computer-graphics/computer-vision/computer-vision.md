@@ -822,3 +822,6 @@
 - [FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation (2022)](https://arxiv.org/abs/2204.01587) ([Code](https://github.com/sohyun-l/fifo))
 - [Nettle Magic Project](https://github.com/nettlep/magic) - Scanner for decks of cards with bar codes printed on card edges. ([HN](https://news.ycombinator.com/item?id=31922682))
 - [Image Quality Assessment using Contrastive Learning (2021)](https://arxiv.org/abs/2110.13266) ([Code](https://github.com/pavancm/CONVIQT))
+- [Denoised MDPs: Learning World Models Better Than The World Itself (2022)](https://ssnl.github.io/denoised_mdp/) ([Code](https://github.com/facebookresearch/denoised_mdp))
+- [Sparse Instance Activation for Real-Time Instance Segmentation (2022)](https://arxiv.org/abs/2203.12827) ([Code](https://github.com/hustvl/SparseInst))
+- [Referring Image Matting (2022)](https://arxiv.org/abs/2206.05149) ([Code](https://github.com/JizhiziLi/RIM))

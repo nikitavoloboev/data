@@ -56,3 +56,4 @@ title: Satisfiability modulo theories
 - [SATurne](https://github.com/jdrprod/SATurne) - Purely functional verified SAT solver which produces proofs.
 - [SMT Lean](https://github.com/ufmg-smite/lean-smt) - Tactics for discharging Lean goals into SMT solvers.
 - [CreuSAT](https://github.com/sarsko/CreuSAT) - Formally verified SAT solver written in Rust. ([Lobsters](https://lobste.rs/s/glcgko/creusat_formally_verified_sat_solver))
+- [CaDiCaL Simplified Satisfiability Solver](https://github.com/arminbiere/cadical)

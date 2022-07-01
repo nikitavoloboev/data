@@ -11,6 +11,7 @@ title: Svelte
 ## Example sites
 
 - [SvelteKit, running on the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge)
+- [SvelteKit Commerce](https://github.com/vercel/sveltekit-commerce)
 - [swyxkit](https://github.com/sw-yx/swyxkit) - Opinionated blog starter for SvelteKit + Tailwind + Netlify.
 - [Svelte with Cloudflare Workers](https://github.com/lukeed/pages-fullstack)
 - [Elianiva](https://elianiva.me/) ([Code](https://github.com/elianiva/elianiva.me))

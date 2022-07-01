@@ -125,3 +125,4 @@ title: BitTorrent
 - [Mabel](https://github.com/smmr-software/mabel) - Fancy BitTorrent client for the terminal. ([Lobsters](https://lobste.rs/s/sas6jh/mabel_fancy_bittorrent_client_for))
 - [WebTorrent CLI](https://github.com/webtorrent/webtorrent-cli) - Streaming torrent client. For the command line.
 - [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers.
+- [WebTorrent Hybrid](https://github.com/webtorrent/webtorrent-hybrid) - Streaming torrent client (with WebRTC support in Node.js).

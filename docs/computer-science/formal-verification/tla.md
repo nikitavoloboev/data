@@ -10,8 +10,8 @@ title: TLA+
 
 ## Links
 
+- [Learn TLA+](https://www.learntla.com/) ([HN](https://news.ycombinator.com/item?id=19661329)) ([Intro](https://www.hillelwayne.com/post/learntla/))
 - [TLA+ Proof Manager](https://github.com/tlaplus/tlapm) - General-purpose formal specification language that is particularly useful for describing concurrent and distributed systems. ([Web](https://tla.msr-inria.inria.fr/tlaps/content/Home.html))
-- [TLA+ guide](https://learntla.com/introduction/) ([HN](https://news.ycombinator.com/item?id=19661329))
 - [tla+rust](https://github.com/spacejam/tla-rust) - Writing correct lock-free and distributed stateful systems in Rust, assisted by TLA+.
 - [Practical TLA+ by Hillel Wayne (2018)](https://lamport.azurewebsites.net/tla/practical-tla.html?back-link=learning.html) ([Code](https://github.com/Apress/practical-tla-plus))
 - [Using TLA+ for fun and profit in the development of Elasticsearch - Yannick Welsch (2019)](https://www.youtube.com/watch?v=qYDcbcOVurc) ([HN](https://news.ycombinator.com/item?id=21003470))

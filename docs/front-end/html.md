@@ -64,6 +64,7 @@ Hi<div>oh no break</div>
 ## Links
 
 - [HTML reference](https://htmlreference.io/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/) ([Twitter](https://twitter.com/htmlstandard))
 - [DOM Enlightenment](http://domenlightenment.com/) - Exploring the relationship between JavaScript and the modern HTML DOM.
 - [Virtual DOM is pure overhead (2018)](https://svelte.dev/blog/virtual-dom-is-pure-overhead) ([HN](https://news.ycombinator.com/item?id=19950253)) ([HN](https://news.ycombinator.com/item?id=27675371))
 - [Folding the DOM (2019)](https://www.joshwcomeau.com/posts/folding-the-dom/)
@@ -272,3 +273,4 @@ Hi<div>oh no break</div>
 - [HTML5 Parser](https://github.com/kovidgoyal/html5-parser) - Fast C based HTML 5 parsing for python.
 - [hast-util-from-html](https://github.com/syntax-tree/hast-util-from-html) - hast utility that turns HTML into a syntax tree.
 - [Media Element Syncer](https://github.com/tjenkinson/media-element-syncer) - Synchronize two or more HTML5 media elements.
+- [tabbable](https://github.com/focus-trap/tabbable) - Find descendants of a DOM node that are in the tab order.

@@ -93,3 +93,4 @@ Cities like Shanghai and Guangzhou fascinate me, would love to live there one da
 - [Understanding Chinese Civilization (2022)](https://www.youtube.com/watch?v=Kf8XIxX7NEs)
 - [CCP’s massacre of thousands of students and peaceful demonstrators at Tiananmen Square](https://twitter.com/gladstein/status/1532854301298569217)
 - [Automated prejudice in China](https://twitter.com/paulmozur/status/1540997238192832512)
+- [How Hong Kong became a police state (2022)](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state) ([HN](https://news.ycombinator.com/item?id=31946528))

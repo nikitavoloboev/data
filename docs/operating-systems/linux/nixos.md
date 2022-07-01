@@ -233,3 +233,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS cheat sheet / tutorial](https://github.com/brainrake/nixos-tutorial)
 - [NixOS: Confederation (2022)](https://myme.no/posts/2022-06-14-nixos-confederation.html) ([Lobsters](https://lobste.rs/s/azzlvx/nixos_confederation))
 - [Config for the Community aarch64 NixOS box](https://github.com/nix-community/aarch64-build-box)
+- [ak-nix](https://github.com/aakropotkin/ak-nix) - Various `nix` and NixOS extensions.

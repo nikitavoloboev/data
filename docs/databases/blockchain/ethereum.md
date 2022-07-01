@@ -636,3 +636,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Real World Trade Protocol](https://www.rwtp.org/) - Peer-to-peer protocol for buying and selling off-chain goods on Ethereum. ([Code](https://github.com/rwtp/rwtp))
 - [FastSSZ](https://github.com/ferranbt/fastssz) - Fast Ethereum2.0 SSZ encoder/decoder.
 - [Foundry Cheatsheet](https://github.com/dabit3/foundry-cheatsheet)
+- [Awesome zkEVM](https://github.com/LuozhuZhang/awesome-zkevm) - zkEVM is a Fully EVM compatible and zk friendly virtual machine.
+- [The Franchiser](https://uniswaplabs.notion.site/uniswaplabs/The-Franchiser-768dd0e188eb4323957c6e919c09491b) - Smart contract design which would allow large holders of Compound-style voting tokens to selectively delegate portions of their voting power to third parties. ([Code](https://github.com/NoahZinsmeister/franchiser))

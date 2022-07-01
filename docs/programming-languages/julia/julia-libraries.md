@@ -639,6 +639,11 @@
 - [GR.jl](https://github.com/jheinen/GR.jl) - Plotting for Julia based on GR, a framework for visualization applications.
 - [MemoizedMethods.jl](https://github.com/peterahrens/MemoizedMethods.jl) - Methodwise memoization for Julia.
 - [PikaParser.jl](https://github.com/LCSB-BioCore/PikaParser.jl) - Pure Julia implementation of pika parser.
+- [DynamicGrids](https://github.com/cesaraustralia/DynamicGrids.jl) - Grid-based simulations in Julia.
+- [DimensionalData](https://github.com/rafaqz/DimensionalData.jl) - Named dimensions and indexing for julia arrays and other data.
+- [Rasters](https://github.com/rafaqz/Rasters.jl) - Defines common types and methods for reading, writing and manipulating rasterized spatial data.
+- [Flatten](https://github.com/rafaqz/Flatten.jl) - Flatten nested Julia objects to tuples, and reconstruct them later.
+- [ModelParameters](https://github.com/rafaqz/ModelParameters.jl) - Easy, standardised parameter get/set for heterogeneous or nested immutable models.
 
 ## Links
 

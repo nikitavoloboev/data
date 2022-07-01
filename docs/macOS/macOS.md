@@ -273,3 +273,6 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [macOS-launchd](https://github.com/puffyCid/macos-launchd) - Simple macOS launchd parser (and library) written in Rust.
 - [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon. ([HN](https://news.ycombinator.com/item?id=31878876))
 - [Hardening macOS (2022)](https://www.bejarano.io/hardening-macos/) ([HN](https://news.ycombinator.com/item?id=31864974))
+- [macholib](https://github.com/ronaldoussoren/macholib) - Analyze and edit Mach-O headers, the executable format used by macOS.
+- [rust-macho](https://github.com/flier/rust-macho) - Mach-O File Format Parser for Rust.
+- [os-signpost](https://github.com/explosion/os-signpost) - Wrapper for the macOS signpost API.

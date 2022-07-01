@@ -186,3 +186,4 @@ title: Terraform
 - [AsCode](https://github.com/mcuadros/ascode) - Terraform Alternative Syntax.
 - [Terraform Provider dotenv](https://github.com/jrhouston/terraform-provider-dotenv) - Convenience provider for reading `.env` files in Terraform.
 - [Complete Terraform Course - From Beginner to Pro (2022)](https://www.youtube.com/watch?v=7xngnjfIlK4)
+- [Infracost VSCode Extension](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor.

@@ -241,6 +241,7 @@
 - [Muotti](https://github.com/esuomi/muotti) - Graph based value transformer library which aims to solve value transformation.
 - [Mate](https://github.com/green-coder/mate) - Useful functions, some of which I wish were in the Clojure standard library.
 - [Dom Top](https://github.com/aphyr/dom-top) - Unorthodox control flow, for Clojurists with masochistic sensibilities.
+- [Clojure Heap](https://github.com/clojure-finance/clojure-heap) - Pure Clojure implementation of heap.
 
 ## Links
 

@@ -32,3 +32,4 @@ title: Logseq
 - [Block Navigation](https://github.com/KerfuffleV2/logseq-plugin-blocknav) - Quick block navigation shortcuts for Logseq.
 - [Let's build a decentralized social network together with Logseq](https://briansunter.com/graph/#/page/logseq-social)
 - [Publish your Second Brain online with Logseq Guide](https://briansunter.com/graph/#/page/logseq-getting-started) ([HN](https://news.ycombinator.com/item?id=31876843))
+- [Logseq Graph Analysis](https://github.com/trashhalo/logseq-graph-analysis) - Learn more about the relationships between between your notes using network analysis algorithms.

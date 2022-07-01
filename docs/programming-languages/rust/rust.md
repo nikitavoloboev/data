@@ -4,7 +4,7 @@ title: Rust
 
 # [Rust](https://www.rust-lang.org/en-US/)
 
-[Rust Book](https://doc.rust-lang.org/book/) & [Rust in Action](https://www.manning.com/books/rust-in-action) are great. [Rust for JS Devs](https://rustforjs.dev) & [Zero To Prod](https://www.zero2prod.com/index.html) are nice too. You can also use [this brief starter guide](https://github.com/jondot/rust-how-do-i-start).
+[Rust Book](https://doc.rust-lang.org/book/) & [Rust in Action](https://www.manning.com/books/rust-in-action) are great. [Rust for JS Devs](https://rustforjs.dev) & [Zero To Prod](https://www.zero2prod.com/index.html) ([good notes](https://bitemyapp.com/blog/notes-on-zero2prod-rust/)) are nice too. You can also use [this brief starter guide](https://github.com/jondot/rust-how-do-i-start).
 
 ## Templates
 
@@ -379,7 +379,7 @@ title: Rust
 - [Rust Careers](https://rust.careers/) - Find your next Rust job.
 - [Rust for Data-Intensive Computation (2020)](https://github.com/frankmcsherry/blog/blob/master/posts/2020-06-09.md)
 - [cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - Cache the dependencies of your Rust project and speed up your Docker builds. ([Article](https://www.lpalmieri.com/posts/fast-rust-docker-builds/))
-- [Zero To Production In Rust](https://www.zero2prod.com/) - Opinionated introduction to backend development. ([Code](https://github.com/LukeMathWalker/zero-to-production)) ([HN](https://news.ycombinator.com/item?id=27405395)) ([Code](https://github.com/0xAlcibiades/zero2prod))
+- [Zero To Production In Rust](https://www.zero2prod.com/) - Opinionated introduction to backend development. ([Code](https://github.com/LukeMathWalker/zero-to-production)) ([HN](https://news.ycombinator.com/item?id=27405395)) ([Code](https://github.com/0xAlcibiades/zero2prod)) ([Notes](https://bitemyapp.com/blog/notes-on-zero2prod-rust/))
 - [So you want to write object oriented Rust (2020)](https://blog.darrien.dev/posts/so-you-want-to-object/)
 - [A practical guide to async in Rust (2020)](https://blog.logrocket.com/a-practical-guide-to-async-in-rust/)
 - [Why Dark didn't choose Rust (2020)](https://blog.darklang.com/why-dark-didnt-choose-rust/) ([Lobsters](https://lobste.rs/s/sjclgv/why_dark_didn_t_choose_rust)) ([HN](https://news.ycombinator.com/item?id=24991848))
