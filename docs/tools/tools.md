@@ -182,6 +182,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [CommandBar](https://www.commandbar.com/) - Searchbar, with one big difference. Its results include commands.
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 - [Remark42](https://github.com/umputun/remark42) - Self-hosted, lightweight and simple (yet functional) comment engine, which doesn't spy on users. ([Web](https://remark42.com/))
+- [Deprank](https://github.com/codemix/deprank) - Use PageRank to find the most important files in your codebase.
 - [Visualization of Google's autocomplete](https://anvaka.github.io/vs)
 - [Todool](https://todool.handmade.network/) - Full blown environment for managing large trees of task lists. ([HN](https://news.ycombinator.com/item?id=31567016))
 - [Code Climate](https://codeclimate.com/) - Empower Engineering Excellence with Data.

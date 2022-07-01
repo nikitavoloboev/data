@@ -268,6 +268,7 @@
 - [SplitSheet](https://github.com/aheze/SplitSheet) - Split sheet made with UIScrollView.
 - [UIPiPView](https://github.com/uakihir0/UIPiPView) - UIView that is capable of Picture-in-Picture (PiP) in iOS.
 - [KeyboardToolbar](https://github.com/simonbs/KeyboardToolbar) - Add tools above your keyboard with iOS-like keyboard buttons.
+- [SwiftyProvisioningProfile](https://github.com/Sherlouk/SwiftProvisioningProfile) - Parse iOS mobile provisioning files into Swift models.
 
 ## macOS
 
@@ -532,6 +533,7 @@
 - [SwiftyUIKit](https://github.com/KazaiMazai/SwiftyUIKit) - Featherweight lib for building an autolayout-powered UIView layout in a clean SwiftUI-style.
 - [LightChart](https://github.com/pichukov/LightChart) - Lightweight SwiftUI package with line charts implementation.
 - [buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect.
+- [Dockable](https://github.com/getsidetrack/swiftui-dockable) - SwiftUI component for launching custom picture-in-picture experiences.
 
 ## Test
 

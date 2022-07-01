@@ -77,6 +77,7 @@ Below is a list of extensions I use.
 - [Stepsize](https://marketplace.visualstudio.com/items?itemName=Stepsize.stepsize) - Issue tracker in IDE. ([Web](https://www.stepsize.com/)) ([Twitter](https://twitter.com/StepsizeHQ))
 - [Simple REST Client](https://github.com/HoangNguyen17193/vscode-simple-rest-client) - Easy to examine your API’s responses directly within Visual Studio Code. Send requests to verify your API.
 - [Postcode](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode) - API client to test and create HTTP/s requests. ([Code](https://github.com/rohinivsenthil/postcode))
+- [VSC Codio](https://github.com/codegps/vsc-codio) - Record VS Code events with an audio commentary and subtitles to play back at a later time.
 - [Preview.js](https://previewjs.com/) - Preview UI components in your IDE instantly. ([Code](https://github.com/fwouts/previewjs))
 - [Test Explorer UI](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer) - Run your tests in the Sidebar. ([Code](https://github.com/hbenl/vscode-test-explorer))
 - [Anycode](https://github.com/microsoft/vscode-anycode) - Tree-sitter-based language extension.

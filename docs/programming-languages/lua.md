@@ -129,3 +129,4 @@ title: Lua
 - [Clue](https://github.com/ClueLang/Clue) - C/Rust like programming language that compiles into Lua code.
 - [Standalone tree sitter bindings for the Lua language](https://github.com/euclidianAce/ltreesitter)
 - [Gooa](https://github.com/gooac/gooac) - Lua Preprocessor written in Go.
+- [LuaSocket](https://github.com/lunarmodules/luasocket) - Network support for the Lua language.
