@@ -4,7 +4,7 @@
 
 I [share](../sharing/sharing.md) most things on [Twitter](https://twitter.com/nikitavoloboev), [Instagram](https://instagram.com/nikitavoloboev) & [Reddit](https://www.reddit.com/user/nikivi).
 
-I do monthly reflections on life here. Comes as part of [my newsletter](https://buttondown.email/nikitavoloboev).
+<!-- I do monthly reflections on life here. Comes as part of [my newsletter](https://buttondown.email/nikitavoloboev). -->
 
 ## 2022
 
