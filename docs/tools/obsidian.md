@@ -1,5 +1,6 @@
 ---
 title: Obsidian
+aliases: [Obsidan]
 ---
 
 # [Obsidian](https://obsidian.md/)

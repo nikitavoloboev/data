@@ -66,7 +66,7 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [AppUpdater](https://github.com/mxcl/AppUpdater) - Simple app-updater for macOS, checks your GitHub releases for a binary asset once a day and silently updates your app.
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - Screensaver inspired by Apple's Event on October 30, 2018.
 - [How macOS versions evolved and changed over the time](https://www.reddit.com/r/MacOS/comments/bc1lvk/how_macos_versions_evolved_and_changed_over_the/)
-- [PureDarwin](https://github.com/PureDarwin/PureDarwin) - Community project to make Darwin more usable. ([HN](https://news.ycombinator.com/item?id=23799331))
+- [PureDarwin](https://github.com/PureDarwin/PureDarwin) - Community project to make Darwin more usable. ([HN](https://news.ycombinator.com/item?id=23799331)) ([Web](http://www.puredarwin.org/)) ([HN](https://news.ycombinator.com/item?id=31943198))
 - [Curated list of shell commands and tools specific to macOS](https://github.com/herrbischoff/awesome-macos-command-line)
 - [The new Mac Pro is a design remix (2019)](https://www.arun.is/blog/mac-pro/)
 - [BlockBlock](https://www.objective-see.com/products/blockblock.html) - Continually monitors common persistence locations and displays an alert whenever a persistent component is added to the OS.

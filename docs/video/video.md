@@ -377,3 +377,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Уличная магия сравнения кодеков. Раскрываем секреты (2019)](https://habr.com/ru/post/451664/)
 - [playerx](https://github.com/playerxo/playerx) - Media Player Web Component.
 - [Vimeo Player API](https://github.com/vimeo/player.js) - Interact with and control an embedded Vimeo Player.
+- [svtplay-dl](https://github.com/spaam/svtplay-dl) - Command-line program to download videos from some streaming sites. ([Web](https://svtplay-dl.se/))
