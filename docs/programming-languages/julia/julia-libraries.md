@@ -644,6 +644,7 @@
 - [Rasters](https://github.com/rafaqz/Rasters.jl) - Defines common types and methods for reading, writing and manipulating rasterized spatial data.
 - [Flatten](https://github.com/rafaqz/Flatten.jl) - Flatten nested Julia objects to tuples, and reconstruct them later.
 - [ModelParameters](https://github.com/rafaqz/ModelParameters.jl) - Easy, standardised parameter get/set for heterogeneous or nested immutable models.
+- [LibGEOS.jl](https://github.com/JuliaGeo/LibGEOS.jl) - Julia package for manipulation and analysis of planar geometric objects.
 
 ## Links
 

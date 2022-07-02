@@ -168,3 +168,5 @@
 - [PBS SpaceTime](https://www.pbsspacetime.com/) ([HN](https://news.ycombinator.com/item?id=31444573))
 - [Stars in distant galaxies are typically more massive (2022)](https://nbi.ku.dk/english/news/news22/new-discovery-about-distant-galaxies-stars-are-heavier-than-we-thought/) ([HN](https://news.ycombinator.com/item?id=31540540))
 - [A Guide to Smartphone Astrophotography](https://spacemath.gsfc.nasa.gov/SMBooks/AstrophotographyV1.pdf) ([HN](https://news.ycombinator.com/item?id=31847457))
+- [JWQL](https://github.com/spacetelescope/jwql) - James Webb Space Telescope Quicklook Application.
+- [JWST Calibration Pipeline](https://github.com/spacetelescope/jwst) - Python library for science observations from the James Webb Space Telescope.

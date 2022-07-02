@@ -150,6 +150,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [macOS Push Tester App](https://github.com/rakutentech/macos-push-tester) - Allows you to send push notifications through APNS (Apple Push Notification Service) and receive them on a device.
 - [MiaoYan](https://github.com/tw93/MiaoYan) - Lightweight Markdown app to help you write great sentences.
 - [Pinboarding](https://github.com/otaviocc/Pinboarding) - Pinboard client for macOS in SwiftUI and Combine.
+- [Later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click.
 
 ## Other interesting apps
 

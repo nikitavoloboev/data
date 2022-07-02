@@ -41,3 +41,4 @@
 - [I Asked 100 YouTubers What The BEST Anime Ever Made Is... (2022)](https://www.youtube.com/watch?v=D5iOt8pVw2A) ([Tweet](https://twitter.com/TheAn1meMan/status/1525914159153442816))
 - [Anime List](https://github.com/An3sha/Anime-List) - Includes anime series and movies of all genres.
 - [Mangal](https://github.com/metafates/mangal) - Manga Browser & Downloader.
+- [Awesome Anime Research](https://github.com/SerialLain3170/AwesomeAnimeResearch)

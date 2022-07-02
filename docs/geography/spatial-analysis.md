@@ -226,3 +226,6 @@ title: Spatial analysis
 - [STAC](https://stacspec.org/en) - SpatioTemporal Asset Catalogs.
 - [stactools](https://github.com/stac-utils/stactools) - High-level command line tool and Python library for working with STAC. It is based on PySTAC.
 - [Finding climbing locations with a ConvNet and web map tiles](http://michaelskaug.com/crag_finder/) ([Code](https://github.com/mikeskaug/crag-finder))
+- [GeoJSONTables](https://github.com/visr/GeoJSONTables.jl) - Read GeoJSON spatial files to tables.
+- [GDAL.jl](https://github.com/JuliaGeo/GDAL.jl) - Thin Julia wrapper for GDAL - Geospatial Data Abstraction Library.
+- [ArchGDAL](https://github.com/yeesian/ArchGDAL.jl) - High level API for GDAL - Geospatial Data Abstraction Library.

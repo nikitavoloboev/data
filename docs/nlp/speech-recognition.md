@@ -135,3 +135,4 @@ title: Speech recognition
 - [SpeechT5: Unified-Modal Encoder-Decoder Pre-Training for Spoken Language Processing (2021)](https://arxiv.org/abs/2110.07205) ([Code](https://github.com/microsoft/SpeechT5))
 - [pyctcdecode](https://github.com/kensho-technologies/pyctcdecode) - Fast and lightweight python-based CTC beam search decoder for speech recognition.
 - [Avocodo: Generative Adversarial Network for Artifact-free Vocoder (2022)](https://arxiv.org/abs/2206.13404) ([Code](https://github.com/rishikksh20/Avocodo-pytorch))
+- [Squeezeformer](https://github.com/upskyy/Squeezeformer) - PyTorch implementation of "Squeezeformer: An Efficient Transformer for Automatic Speech Recognition".
