@@ -119,3 +119,4 @@
 - [kons-9](https://github.com/kaveh808/kons-9) - Common Lisp 3D graphics code.
 - [Snakes](https://github.com/BnMcGn/snakes) - Python-like generators for Common Lisp.
 - [MAGICL](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp.
+- [Sheeple](https://github.com/zkat/sheeple) - Dynamic, CLOS-like, Delegative Prototype-based Object-Oriented Programming Framework.

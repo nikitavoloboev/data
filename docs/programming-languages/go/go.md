@@ -530,7 +530,7 @@ if err != nil {
 - [Awesome Go Workshops](https://github.com/amit-davidson/awesome-golang-workshops)
 - [Pipeline Pattern in Go (2021)](https://ketansingh.me/posts/pipeline-pattern-in-go-part-1/)
 - [Fixed/Variable-length encoding in Go (2021)](https://nakabonne.dev/posts/binary-encoding-go/)
-- [Notes on structured concurrency, or: Go statement considered harmful (2018)](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) ([Lobsters](https://lobste.rs/s/8msejg/notes_on_structured_concurrency_go))
+- [Notes on structured concurrency, or: Go statement considered harmful (2018)](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) ([Lobsters](https://lobste.rs/s/8msejg/notes_on_structured_concurrency_go)) ([HN](https://news.ycombinator.com/item?id=31955334))
 - [Benchmarks in Go can be surprising (2021)](https://leveluppp.ghost.io/benchmarks-in-go-can-be-surprising/) ([Reddit](https://www.reddit.com/r/golang/comments/oem1uo/benchmarks_in_go_can_be_surprising/))
 - [Copyfighter](https://github.com/jmhodges/copyfighter) - Statically analyzes Go code and reports functions that are passing large structs by value.
 - [Updating the Go Memory Model (2021)](https://research.swtch.com/gomm) ([HN](https://news.ycombinator.com/item?id=27810459))

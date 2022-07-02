@@ -33,3 +33,8 @@ title: Logseq
 - [Let's build a decentralized social network together with Logseq](https://briansunter.com/graph/#/page/logseq-social)
 - [Publish your Second Brain online with Logseq Guide](https://briansunter.com/graph/#/page/logseq-getting-started) ([HN](https://news.ycombinator.com/item?id=31876843))
 - [Logseq Graph Analysis](https://github.com/trashhalo/logseq-graph-analysis) - Learn more about the relationships between between your notes using network analysis algorithms.
+- [Logseq Banners plugin](https://github.com/sawhney17/logseq-banners-plugin) - Enliven your Logseq Workspace with gorgeous, custom, notion style page banners and icons.
+- [Automatic Linker](https://github.com/sawhney17/logseq-automatic-linker) - Plugin to automatically create links while typing.
+- [Logseq Schrödinger](https://github.com/sawhney17/logseq-schrodinger) - Plugin to export pages in Logseq to Hugo.
+- [Logseq Calendars](https://github.com/sawhney17/logseq-calendars-plugin)
+- [PDF Export](https://github.com/sawhney17/logseq-pdf-export) - Plugin to export the current page as your own custom styled PDF.
