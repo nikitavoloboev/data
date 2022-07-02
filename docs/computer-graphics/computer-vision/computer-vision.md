@@ -825,3 +825,4 @@
 - [Denoised MDPs: Learning World Models Better Than The World Itself (2022)](https://ssnl.github.io/denoised_mdp/) ([Code](https://github.com/facebookresearch/denoised_mdp))
 - [Sparse Instance Activation for Real-Time Instance Segmentation (2022)](https://arxiv.org/abs/2203.12827) ([Code](https://github.com/hustvl/SparseInst))
 - [Referring Image Matting (2022)](https://arxiv.org/abs/2206.05149) ([Code](https://github.com/JizhiziLi/RIM))
+- [Voxel-MAE: Masked Autoencoders for Pre-training Large-scale Point Clouds (2022)](https://arxiv.org/abs/2206.09900) ([Code](https://github.com/chaytonmin/Voxel-MAE))

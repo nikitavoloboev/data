@@ -268,6 +268,7 @@ title: GitHub actions
 - [Rust Release Binary](https://github.com/rust-build/rust-build.action) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions.
 - [Cargo install action](https://github.com/baptiste0928/cargo-install) - GitHub action for cache-efficient Rust crates installation.
 - [Awesome Rust Actions](https://github.com/actions-rs/awesome-rust-actions)
+- [Install Rust Toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain.
 
 ## Python
 
