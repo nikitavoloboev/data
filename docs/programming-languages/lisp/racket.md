@@ -133,3 +133,4 @@ title: Racket
 - [Examples of the nice parts of Racket](https://github.com/ruliana/racket-examples)
 - [with-cache](https://github.com/bennn/with-cache) - Simple, filesystem-based caching for Racket.
 - [Zordoz](https://github.com/bennn/zordoz) - Manipulating racket bytecode.
+- [Ray tracing with Racket](https://github.com/nikofeyn/ray-tracing-with-racket)

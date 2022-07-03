@@ -1069,3 +1069,4 @@
 - [Mapping the world of Python package management (2022)](https://enigma.com/blog/post/mapping-the-world-of-package-management) ([HN](https://news.ycombinator.com/item?id=31837996))
 - [Logging in Python Like a Pro](https://guicommits.com/how-to-log-in-python-like-a-pro/) ([HN](https://news.ycombinator.com/item?id=31945564))
 - [PyScaffold](https://pyscaffold.org/en/stable/) - Project generator for bootstrapping high-quality Python packages. ([Code](https://github.com/pyscaffold/pyscaffold))
+- [unearth](https://github.com/frostming/unearth) - Utility to fetch and download python packages.

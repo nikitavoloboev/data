@@ -123,6 +123,8 @@
 - [Cuckoo Filter](https://github.com/kristoff-it/zig-cuckoofilter) - Production-ready Cuckoo Filters for any C ABI compatible target.
 - [Zort](https://github.com/alichraghi/zort) - Implementation of 13 sorting algorithms in Zig.
 - [audiometa](https://github.com/squeek502/audiometa) - Audio metadata/tag reading library written in Zig.
+- [Metron](https://github.com/briangold/metron) - Zig library for writing micro-benchmarks.
+- [Vortex](https://github.com/briangold/vortex) - Structured concurrency in Zig.
 
 ## Links
 

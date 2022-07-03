@@ -339,7 +339,7 @@ if (
 - [Kataw](https://github.com/kataw/kataw) - Insane fast JavaScript toolchain.
 - [JS Tooling not in JS](https://github.com/RobinCsl/awesome-js-tooling-not-in-js) - Curated list of JavaScript tooling not written in JavaScript. ([HN](https://news.ycombinator.com/item?id=26872457))
 - [How Slow is JavaScript Really? JavaScript vs C++ (Data Structures & Optimization) (2021)](https://www.youtube.com/watch?v=WLwTlC1R2sY)
-- [Duktape](https://github.com/svaarala/duktape) - Embeddable Javascript engine with a focus on portability and compact footprint.
+- [Duktape](https://github.com/svaarala/duktape) - Embeddable Javascript engine with a focus on portability and compact footprint. ([Web](https://duktape.org/))
 - [JavaScript for Data Science](http://js4ds.org/) ([Code](https://github.com/software-tools-in-javascript/js4ds/)) ([HN](https://news.ycombinator.com/item?id=26931296))
 - [FIBJS](https://github.com/fibjs/fibjs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [A JavaScript optimizing compiler (2021)](https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071)

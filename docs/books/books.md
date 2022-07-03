@@ -316,6 +316,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Ask HN: What is the best book you have read with the greatest impact on you? (2022)](https://news.ycombinator.com/item?id=31728760)
 - [Ask HN: What are the best short tech/engineering books you have read? (2022)](https://news.ycombinator.com/item?id=31713756)
 - [What are the scariest books you’ve ever read, ones that genuinely scared you?](https://www.reddit.com/r/suggestmeabook/comments/vk5mky/what_are_the_scariest_books_youve_ever_read_ones/)
+- [Ask HN: Which book would you pick to re-read for the rest of your life? (2022)](https://news.ycombinator.com/item?id=31968169)
 
 ## Interesting Prose Books
 

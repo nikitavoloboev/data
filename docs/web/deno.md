@@ -277,3 +277,5 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [wasmbuild](https://github.com/denoland/wasmbuild) - Tiny build tool for Deno and wasm_bindgen.
 - [HN: Deno raises $21M (2022)](https://news.ycombinator.com/item?id=31827387)
 - [Fast](https://github.com/danteissaias/fast) - Small (<200L) web framework.
+- [Deno Deploy Rust Template](https://github.com/yoav-lavi/deno-deploy-rust-template)
+- [Neko](https://github.com/load1n9/neko) - Frame buffer deno module built on top of mini_fb with canvas api implementation and a webgpu renderer.

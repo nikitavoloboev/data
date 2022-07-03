@@ -172,3 +172,5 @@
 - [Tutorial: An Introduction to Futureverse for Parallel Processing in R](https://github.com/HenrikBengtsson/future-tutorial-user2022)
 - [causact](https://github.com/flyaflya/causact) - R package to accelerate Bayesian analytics workflows.
 - [generics](https://github.com/r-lib/generics) - Common generic methods.
+- [fastmatrix](https://github.com/faosorios/fastmatrix) - Fast computation of some matrices useful in statistics.
+- [NetCoMi](https://github.com/stefpeschel/NetCoMi) - Network Comparison for Microbial Compositional Data.

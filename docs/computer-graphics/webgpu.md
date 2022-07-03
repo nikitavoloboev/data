@@ -63,3 +63,4 @@ title: WebGPU
 - [wgsl_to_wgpu](https://github.com/ScanMountGoat/wgsl_to_wgpu) - Generate typesafe Rust bindings for wgsl shaders in wgpu.
 - [The Case for Use.GPU (2022)](https://acko.net/blog/the-case-for-use-gpu/)
 - [Real-Time Position-Based Crowd Simulation in WebGPU](https://github.com/wayne-wu/webgpu-crowd-simulation)
+- [WebGPU on WASM via Emscripten](https://github.com/juj/wasm_webgpu)

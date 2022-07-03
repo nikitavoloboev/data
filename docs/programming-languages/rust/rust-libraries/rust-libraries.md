@@ -583,6 +583,7 @@
 - [aya-log](https://github.com/aya-rs/aya-log) - Logging library for eBPF programs.
 - [nbd-rs](https://github.com/mdlayher/nbd-rs) - Asynchronous Rust client and server implementation of the Network Block Device (NBD) protocol.
 - [rust-systemd](https://github.com/jmesmon/rust-systemd) - Rust interface to systemd c apis.
+- [SELinux](https://github.com/koutheir/selinux) - Flexible Mandatory Access Control for Linux.
 
 ## Embedded
 
@@ -1869,7 +1870,7 @@
 - [packed_struct.rs](https://github.com/hashmismatch/packed_struct.rs) - Bit-level packing and unpacking for Rust.
 - [moro](https://github.com/nikomatsakis/moro) - Experiments with structured concurrency in Rust.
 - [unicycle](https://github.com/udoprog/unicycle) - Scheduler for driving a large number of futures.
-- [fs2](https://github.com/danburkert/fs2-rs) - Extended utilities for working with files and filesystems in Rust.
+- [fs4](https://github.com/al8n/fs4-rs) - Extended utilities for working with files and filesystems in Rust.
 - [Corundum](https://github.com/NVSL/Corundum) - Persistent Memory Programming Library in Rust.
 - [serde-this-or-that](https://github.com/rnag/serde-this-or-that) - Custom deserialization for fields that can be specified as multiple types.
 - [linemux](https://github.com/jmagnuson/linemux) - Asynchronous tailing library in Rust.

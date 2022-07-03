@@ -1718,6 +1718,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Twilio Go](https://github.com/twilio/twilio-go) - Go package for communicating with the Twilio API.
 - [Filter](https://github.com/gookit/filter) - Filtering, sanitizing, and conversion of Go data.
 - [Art](https://github.com/recoilme/art) - Adaptive Radix Tree done right.
+- [typesense-go](https://github.com/typesense/typesense-go) - Go client for the Typesense API.
+- [slice_map](https://github.com/legougames/slice_map) - Designed to impove the performance for the case that you need to hold a large map in memory.
 
 ## Links
 

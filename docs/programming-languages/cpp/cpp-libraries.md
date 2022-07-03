@@ -416,6 +416,7 @@
 - [Polygeist](https://github.com/llvm/Polygeist) - C/C++ frontend for MLIR. Also features polyhedral optimizations, parallel optimizations, and more.
 - [hashmap.h](https://github.com/sheredom/hashmap.h) - Simple one header hashmap implementation for C/C++.
 - [CacheLib](https://github.com/facebook/CacheLib) - Pluggable in-process caching engine to build and scale high performance services.
+- [ztd.text](https://github.com/soasis/text) - Premiere library for handling text in different encoding forms and reducing transcoding bugs in your C++ software.
 
 ## Links
 

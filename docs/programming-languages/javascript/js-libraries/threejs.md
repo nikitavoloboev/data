@@ -124,3 +124,4 @@ title: Three.js
 - [react-three/rapier](https://github.com/pmndrs/react-three-rapier) - Rapier physics in React.
 - [SSPT in ThreeJS](https://github.com/Domenicobrz/SSPT-in-threejs) - Uses only screen-space information through ray marching to recreate the lighting of a scene, and denoises it with the SVGF algorithm.
 - [Three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg) - Flexible, memory compact, fast and dynamic CSG implementation on top of three-mesh-bvh.
+- [Three.js Screen Space Reflections](https://github.com/0beqz/screen-space-reflections)

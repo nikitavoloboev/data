@@ -46,3 +46,4 @@ title: NestJS
 - [NestJs CRUD for RESTful APIs](https://github.com/nestjsx/crud)
 - [Nest GraphQL GraphQL Yoga driver](https://github.com/charlypoly/graphql-yoga-nestjs)
 - [Template repository for TypeScript backend server using NestJS/TypeORM](https://github.com/samchon/backend)
+- [Prisma NestJS GraphQL](https://github.com/unlight/prisma-nestjs-graphql) - Generate object types, inputs, args, etc. from prisma schema file for usage with @nestjs/graphql module.

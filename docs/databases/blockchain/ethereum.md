@@ -639,3 +639,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Awesome zkEVM](https://github.com/LuozhuZhang/awesome-zkevm) - zkEVM is a Fully EVM compatible and zk friendly virtual machine.
 - [The Franchiser](https://uniswaplabs.notion.site/uniswaplabs/The-Franchiser-768dd0e188eb4323957c6e919c09491b) - Smart contract design which would allow large holders of Compound-style voting tokens to selectively delegate portions of their voting power to third parties. ([Code](https://github.com/NoahZinsmeister/franchiser))
 - [Interesting Eth Smart Contracts](https://github.com/fiveoutofnine/cool-contracts/) ([Tweet](https://twitter.com/fiveoutofnine/status/1543289800123420674))
+- [Seaport](https://github.com/ProjectOpenSea/seaport) - Marketplace protocol for safely and efficiently buying and selling NFTs.

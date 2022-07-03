@@ -121,3 +121,4 @@
 - [Dirsh](https://github.com/christian-blades-cb/dirsh) - Consistent hashing of directories, respects your gitignore.
 - [blight](https://github.com/trailofbits/blight) - Framework for instrumenting build tools.
 - [Improve Build Times in Less Time by Zac Sweers (2022)](https://www.youtube.com/watch?v=CkKtCuqqxHs) ([Slides](https://speakerdeck.com/zacsweers/improve-build-times-in-less-time))
+- [drone-cache](https://github.com/meltwater/drone-cache) - Drone plugin for caching current workspace files between builds to reduce your build times.
