@@ -128,3 +128,4 @@ title: LLVM
 - [Formal-Methods-Based Bugfinding for LLVM’s AArch64 Back End (2022)](https://blog.regehr.org/archives/2265) ([HN](https://news.ycombinator.com/item?id=31642147))
 - [Caffeine](https://github.com/insufficiently-caffeinated/caffeine) - Symbolic execution engine that interprets LLVM IR.
 - [Clang IR (CIR): New IR for Clang](https://facebookincubator.github.io/clangir/) ([HN](https://news.ycombinator.com/item?id=31904624)) ([Lobsters](https://lobste.rs/s/sbiat6/clang_ir_cir_new_ir_for_clang))
+- [LLVM/SPIR-V Bi-Directional Translator](https://github.com/KhronosGroup/SPIRV-LLVM-Translator)

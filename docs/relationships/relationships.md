@@ -253,3 +253,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [Feeld](https://feeld.co/) - Dating app for the open–minded to meet like–minded. ([Links](https://linktr.ee/feeldco))
 - [6 фильмов о любви в непростое время](https://www.wonderzine.com/wonderzine/entertainment/movies/263037-films)
 - [What do you as a man actually want in a woman?](https://www.reddit.com/r/AskMen/comments/viqbpr/if_you_were_to_be_extremely_honest_with_yourself/)
+- [HN: Advice in helping find a partner](https://news.ycombinator.com/item?id=31961992)

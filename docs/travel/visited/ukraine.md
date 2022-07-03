@@ -6,6 +6,8 @@ It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [
 
 I hope Russia stops [unlawfully occupying and harassing Ukraine](https://twitter.com/mdmitri91/status/1534316819481300997) and pays for the damage it inflicted on the country. Ukraine should be fully integrated into Europe and be rebuilt. I wish more people in politics had the charisma and effectiveness to lead as Zelensky.
 
+On bright side, it does appear that Russia [fully lost out on its objectives in this war](https://www.reddit.com/r/CredibleDefense/comments/vpq9ab/credibledefense_daily_megathread_july_02_2022/iem8scz/?utm_source=reddit&utm_medium=web2x&context=3) which hopefully deters further offensive actions against other peaceful countries like Taiwan. It's still bizarre to me how ineffective dictatorships are still so common. I am trying my best to try and give everyone the tools to get the financial ability to leave these oppressive countries and contribute their skills meaningfully in places that actually respect them as human beings with rights. For all its warts, [EU](europe.md) to me appears to be this place.
+
 ## Links
 
 - [Kasta](https://kasta.ua/) - Online Ukraine shop.

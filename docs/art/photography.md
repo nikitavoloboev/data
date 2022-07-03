@@ -114,7 +114,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [The best science images of 2020](https://www.nature.com/immersive/d41586-020-03436-5/index.html)
 - [Вычислительная фотография 2.0 (2020)](https://jejeya.pictures/future_of_photography)
 - [George Jejeya Photography Blog](https://jejeya.pictures/blog)
-- [darktable](https://www.darktable.org/) - Open source photography workflow application and raw developer. ([Code](https://github.com/darktable-org/darktable))
+- [darktable](https://www.darktable.org/) - Open source photography workflow application and raw developer. ([Code](https://github.com/darktable-org/darktable)) ([4.0 release](https://www.darktable.org/2022/07/darktable-4.0.0-released/)) ([HN](https://news.ycombinator.com/item?id=31960962))
 - [LibrePhotos](https://github.com/LibrePhotos/librephotos) - Self-Hosted Google Photos Alternative. ([HN](https://news.ycombinator.com/item?id=25588712))
 - [Awesome Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
 - [iCloud Photos Downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - Command-line tool to download photos from iCloud.

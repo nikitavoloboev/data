@@ -229,3 +229,4 @@ title: Spatial analysis
 - [GeoJSONTables](https://github.com/visr/GeoJSONTables.jl) - Read GeoJSON spatial files to tables.
 - [GDAL.jl](https://github.com/JuliaGeo/GDAL.jl) - Thin Julia wrapper for GDAL - Geospatial Data Abstraction Library.
 - [ArchGDAL](https://github.com/yeesian/ArchGDAL.jl) - High level API for GDAL - Geospatial Data Abstraction Library.
+- [MapComplete](https://mapcomplete.osm.be/) - Small and easy OpenStreetMap editor. ([Code](https://github.com/pietervdvn/MapComplete))

@@ -336,6 +336,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go.pkt](https://github.com/ghedo/go.pkt) - Go libraries for capturing, injecting, filtering, encoding and decoding network packets.
 - [Ghost](https://github.com/mash/ghost) - Build REST APIs from structs using Generics.
 - [fir](https://github.com/adnaan/fir) - Go library to build reactive apps.
+- [Copper](https://github.com/gocopper/copper) - Go toolkit complete with everything you need to build web apps. ([HN](https://news.ycombinator.com/item?id=31958823)) ([Web](https://gocopper.dev/))
 
 ## GraphQL
 

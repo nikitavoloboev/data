@@ -2,11 +2,11 @@
 
 Love Europe. Specifically how varied the culture can be in such short distances together with beautiful and practical [cities that focus on humans over cars](https://twitter.com/ryanoferguson/status/1521745658855792645).
 
-I am not too fond of how high the tax is for many EU countries though given the benefits you get for this tax money aren't often as great in my opinion. I'd love to be able to dedicate what portion of my tax goes where.
+I am not too fond of how high the tax is for many EU countries though given the benefits you get for this tax money aren't transparent at all. I'd love to be able to dedicate what portion of my tax goes where.
 
 There are [many nice EU countries with lower tax](https://www.youtube.com/watch?v=qnUa3BZLoSA) though that you can work from.
 
-I am also curious how you can make EU political system more efficient, right now it seems incredibly messy. I am not sure how to [stop the stagnation of EU financially](https://twitter.com/zebulgar/status/1525201411641856001).
+I am also curious how you can make EU political system more efficient, right now it seems incredibly messy. I am also not sure how to [stop the stagnation of EU financially](https://twitter.com/zebulgar/status/1525201411641856001). I think focusing on removing useless guardrails to do entrepreneurship with better access to local funding will go a long way in accelerating building more value everywhere. It's also quite unfortunate that US and China are the only countries that are focused on building companies in the space industry. 
 
 So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](united-kingdom.md) (think it [might be part of EU again](https://twitter.com/DanielLambert29/status/1532991072158220288)). Want to move to [Portugal](portugal.md) or [Georgia](georgia.md) next.
 
