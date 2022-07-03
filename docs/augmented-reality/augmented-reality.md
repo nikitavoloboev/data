@@ -1,5 +1,7 @@
 # Augmented Reality
 
+[Spatial canvases](https://twitter.com/softspaceninja/status/1536695800935370752) are exciting. Just need proper hardware.
+
 ## Links
 
 - [Lightform](https://lightform.com/) - Design Tools for Projection.
@@ -43,3 +45,4 @@
 - [Portal-ble: make augmented reality apps that are hands-on interactive](https://portalble.cs.brown.edu/)
 - [AR Art Attractors](https://github.com/ynagatomo/ARArtAttractors) - Minimal iOS app that displays 3D graphic art in AR.
 - [General-purpose, long-context autoregressive modeling with Perceiver AR (2022)](https://arxiv.org/abs/2202.07765) ([Code](https://github.com/google-research/perceiver-ar))
+- [SoftspaceAR Spatial Canvas Prototype](https://twitter.com/softspaceninja/status/1536695800935370752)

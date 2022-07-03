@@ -30,6 +30,7 @@
 - [Keep the decisions you're making visible and discoverable. When it's done well, all the other work is a lot easier.](https://twitter.com/RobStuttaford/status/1466080210907017220)
 - [It’s easy to be the nice manager that just says things that keep people happy. The only one unhappy is the future manager who gets the fun job of having to catch up on real feedback to help people grow.](https://twitter.com/buritica/status/1467193690837950470)
 - [I'm consistently surprised by how the single act of doing this as an eng manager or product manager makes incredible waves: Send an email explaining what your team did the past 1-2 weeks, what your plans are for the next period, blockers & lessons learned.](https://twitter.com/GergelyOrosz/status/1515394850224549898)
+- [Performance will always fall to the minimum acceptable level](https://twitter.com/austen/status/1543260128727539712)
 
 ## Links
 

@@ -389,3 +389,4 @@
 - [slab](https://github.com/DrMarc/slab) - Easy manipulation of sounds and psychoacoustic experiments in Python.
 - [Symbolic Music Generation with Diffusion Models](https://github.com/magenta/symbolic-music-diffusion)
 - [Mozart](https://github.com/aashrafh/Mozart) - Optical music recognition (OMR) system. Converts sheet music to a machine-readable version.
+- [Ask HN: AI-Generated Music? (2022)](https://news.ycombinator.com/item?id=31968456)
