@@ -99,3 +99,4 @@ title: Agda
 - [Experiments with higher-order abstract syntax in Agda](https://github.com/arthuraa/agda-hoas-playground)
 - [Linear.agda](https://github.com/metaborg/linear.agda) - Agda library for programming with separation logic, based on proof-relevant separation algebras.
 - [Review: A Very Elementary Introduction to Sheaves](https://reasonablypolymorphic.com/blog/sheafs/index.html)
+- [serre-finiteness](https://github.com/CMU-HoTT/serre-finiteness)

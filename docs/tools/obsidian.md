@@ -173,6 +173,8 @@ div.CodeMirror-cursor,
 - [Obsidian Wielder](https://github.com/victorb/obsidian-wielder) - Clojure inside your Obsidian documents.
 - [Obsidian Better Code Block](https://github.com/stargrey/obsidian-better-codeblock) - Add title, line number to Obsidian code block.
 - [GitHub Publisher](https://github.com/obsidianMkdocs/obsidian-github-publisher) - Plugin to easily publish note to GitHub.
+- [Obsidian GPT](https://github.com/jmilldotdev/obsidian-gpt) - Text completions via GPT-J.
+- [Obsidian Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Grabs information from Wikipedia for a topic and brings it into Obsidian notes.
 
 ## Themes
 

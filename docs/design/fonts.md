@@ -123,6 +123,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Magnat Poster fonts](https://fonts.ilovetypography.com/fonts/studio-ren%C3%A9-bieder/magnat-poster) ([Tweet](https://twitter.com/ilovetypography/status/1538807228102193152))
 - [Approach](https://emtype.net/fonts/approach) - Modern approximation to the early grotesques.
 - [Figtree](https://github.com/erikdkennedy/figtree) - Friendly, simple geometric sans serif font.
+- [Inter Tight](https://github.com/rsms/inter-tight) - Specialized version of Inter with tighter spacing.
 
 ## Links
 

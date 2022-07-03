@@ -101,6 +101,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 ## Math
 
 - [Fermat.ts](https://github.com/mathigon/fermat.js) - Mathematics and statistics library for TypeScript.
+- [matrix-ts](https://github.com/jacob-alford/matrix-ts) - fp-ts style mathematics library featuring: linear algebra, numerical methods, polynomials, and statistics.
 
 ## CLI
 

@@ -92,3 +92,4 @@ title: Vite
 - [Compile Markdown to Vue component](https://github.com/antfu/vite-plugin-vue-markdown)
 - [vite-plugin-pages-sitemap](https://github.com/jbaubree/vite-plugin-pages-sitemap)
 - [Vite setup catalogue](https://github.com/sapphi-red/vite-setup-catalogue) - Contains several example of Vite setups.
+- [HN: Vite (2022)](https://news.ycombinator.com/item?id=31967420)

@@ -813,3 +813,4 @@ if err != nil {
 - [gotraceui](https://github.com/dominikh/gotraceui) - Efficient frontend for Go execution traces.
 - [Nancy](https://github.com/sonatype-nexus-community/nancy) - Tool to check for vulnerabilities in your Go dependencies, powered by Sonatype OSS Index.
 - [go-graph](https://github.com/kallsyms/go-graph) - Searching Go code with a graph database. ([Using Graphs to Search for Code](https://nickgregory.me/post/2022/07/02/go-code-as-a-graph/))
+- [What to forget when coming to Go from other languages? (2022)](https://www.reddit.com/r/golang/comments/vprvyh/what_to_forget_when_coming_to_golang_from_other/)

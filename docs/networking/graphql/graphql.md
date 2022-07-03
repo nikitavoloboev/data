@@ -341,3 +341,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [GraphQL Composite Schemas Working Group](https://github.com/graphql/composite-schemas-wg)
 - [Shyft](https://github.com/chriskalmar/shyft) - Server-side framework for building powerful GraphQL APIs.
 - [Turbulette](https://github.com/turbulette/turbulette) - Batteries-included framework to build high performance, fully async GraphQL APIs.
+- [GraphQL Binary](https://github.com/esseswann/graphql-binary) - GraphQL binary protocol for smaller network traffic and parsing performance.

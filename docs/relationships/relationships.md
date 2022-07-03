@@ -142,6 +142,7 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [I think maybe one part of breakups people underestimate is how people in love develop their own sort of language and a rich shared world of characters and motifs. & then when the relationship ends there’s a special loneliness in realizing you’ll never speak that language again.](https://twitter.com/jzux/status/1526346570127532039)
 - [People did not tend to develop romantic interest in partners whose attributes matched their a priori ideal preferences.](https://twitter.com/robinhanson/status/1530953923112091648)
 - [In an argument with a loved one, “winning” is often losing. You have to let go of trying to win and instead try to understand. As soon as you stop trying to win, that’s the moment you find win/win.](https://news.ycombinator.com/item?id=31625095)
+- [Love doesn't just sit there, like a stone, it has to be made, like bread; remade all the time, made new.](https://twitter.com/UrsulaBot/status/1543208520249536512)
 
 ## Links
 

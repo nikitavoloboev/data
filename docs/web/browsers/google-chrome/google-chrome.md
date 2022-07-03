@@ -95,3 +95,4 @@ And here are Chrome extensions I use:
 - [Jiffy Reader](https://www.jiffyreader.com/) - Chrome Extension for Bionic Reading on ANY website. ([Code](https://github.com/ansh/bionic-reading))
 - [Google Chrome for AWS Lambda as a layer](https://github.com/shelfio/chrome-aws-lambda-layer) - 45 MB Google Chrome to fit inside AWS Lambda Layer compressed with Brotli.
 - [Chroxy](https://github.com/holsee/chroxy) - Headless Chrome as a Service.
+- [Chrome Extension Boilerplate with React + Vite + TypeScript](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)

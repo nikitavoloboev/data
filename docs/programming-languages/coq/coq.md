@@ -160,3 +160,4 @@ title: Coq
 - [Coherence space semantics for linear logic in Coq](https://github.com/clayrat/coherence-spaces)
 - [Computability in Constructive Type Theory in Coq](https://github.com/yforster/coq-synthetic-computability)
 - [Deriving](https://github.com/arthuraa/deriving) - Generic instances for Coq inductive types.
+- [Coq LSP](https://github.com/ejgallego/coq-lsp) - Language Server Protocol for Coq.

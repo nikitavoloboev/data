@@ -52,3 +52,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [What time works for you?](https://time.antfu.me/) - Time scheduler for multiple time zones. ([Code](https://github.com/antfu/what-time))
 - [We have 3 space dimensions but only one dimension of time. Why is there just one time? What would happen if there were more time dimensions?](https://twitter.com/martinmbauer/status/1538476301614567424)
 - [Suggest me a book that involves Time Travel as the major plotline](https://www.reddit.com/r/suggestmeabook/comments/vl2bbr/suggest_me_a_book_that_involves_time_travel_as/)
+- [Does time exist all at once or are things happening as we experience them?](https://www.reddit.com/r/AskPhysics/comments/vpynx8/does_time_exist_all_at_once_or_are_things/)

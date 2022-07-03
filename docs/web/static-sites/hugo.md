@@ -84,3 +84,4 @@ title: Hugo
 - [Hugo Bookshop Starter](https://github.com/CloudCannon/hugo-bookshop-starter) - Starter template for a new Hugo site using Bookshop.
 - [A Hugo Survival Guide (2022)](https://janert.me/guides/hugo-survival-guide/)
 - [SQLite FTS5-based search engine for Hugo pages](https://github.com/fazalmajid/fts5index)
+- [code-server, Caddy, Tailscale, and Hugo = My ultimate dev environment (2022)](https://chrisshort.net/code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment/)

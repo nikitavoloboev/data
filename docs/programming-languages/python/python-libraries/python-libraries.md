@@ -908,6 +908,7 @@
 - [Comma](https://github.com/jlumbroso/comma) - Python CSV Library for Humans.
 - [numerizer](https://github.com/jaidevd/numerizer) - Python module to convert natural language numerics into ints and floats.
 - [compose](https://github.com/mentalisttraceur/python-compose) - Classic compose, with all the Pythonic features.
+- [snake-egg](https://github.com/egraphs-good/snake-egg) - Python bindings for egg.
 
 ## Notes
 

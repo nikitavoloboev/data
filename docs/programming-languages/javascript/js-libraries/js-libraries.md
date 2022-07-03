@@ -968,6 +968,7 @@
 - [virtual-scroll](https://github.com/ayamflow/virtual-scroll) - Low-level library to create custom scroll behaviors.
 - [lazyfill](https://github.com/nuxodin/lazyfill) - Polyfills on demand.
 - [retry](https://github.com/tim-kos/node-retry) - Abstraction for exponential and custom retry strategies for failed operations.
+- [JointJS](https://github.com/clientIO/joint) - Flexible JavaScript library for building interactive SVG-based diagrams and visual applications.
 
 ## Links
 

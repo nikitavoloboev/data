@@ -166,3 +166,4 @@
 - [Farcaster](https://www.farcaster.xyz/) - Sufficiently decentralized social network. It is an open protocol that can support many clients, just like email. ([Twitter](https://twitter.com/farcaster_xyz)) ([Article](https://www.shawkisukkar.com/2022/farcaster)) ([Farcaster Search](https://searchcaster.xyz/)) ([Farcaster Search Code](https://github.com/gskril/farcaster-search))
 - [retrospring](https://retrospring.net/) - Q/A based social network. ([Code](https://github.com/Retrospring/retrospring))
 - [Movim](https://movim.eu/) - Social and chat platform that act as a web frontend for the XMPP protocol. ([Code](https://github.com/movim/movim))
+- [cohost](https://cohost.org/rc/welcome) - New social media platform built from the ground up. ([Twitter](https://twitter.com/cohost_org))

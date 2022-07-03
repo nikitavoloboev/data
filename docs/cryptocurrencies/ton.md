@@ -15,3 +15,4 @@ title: TON
 - [Free TON Community](https://freeton.org/main)
 - [Everscale Docs](https://docs.tonalliance.org/)
 - [TON Blockchain Test Network — files and resources](https://test.ton.org/)
+- [TON JS Client](https://github.com/tonwhales/ton)

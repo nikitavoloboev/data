@@ -860,3 +860,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Awesome Active Learning](https://github.com/SupeRuier/awesome-active-learning)
 - [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) ([Code](https://github.com/chiphuyen/dmls-book))
 - [The Berkeley Crossword Solver](https://bair.berkeley.edu/blog/2022/05/20/crosswords/)
+- [MLC](https://github.com/mlc-ai/mlc-zh) - Machine Learning Compiler.
+- [Recommender System on MovieLens dataset](https://github.com/rposhala/Recommender-System-on-MovieLens-dataset)
