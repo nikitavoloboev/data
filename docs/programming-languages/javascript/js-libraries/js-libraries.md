@@ -969,6 +969,7 @@
 - [lazyfill](https://github.com/nuxodin/lazyfill) - Polyfills on demand.
 - [retry](https://github.com/tim-kos/node-retry) - Abstraction for exponential and custom retry strategies for failed operations.
 - [JointJS](https://github.com/clientIO/joint) - Flexible JavaScript library for building interactive SVG-based diagrams and visual applications.
+- [Toposort](https://github.com/marcelklehr/toposort) - Topologically sort directed acyclic graphs (such as dependency lists) in JS.
 
 ## Links
 

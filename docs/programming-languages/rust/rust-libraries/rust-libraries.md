@@ -620,6 +620,8 @@
 - [salty](https://github.com/ycrypto/salty) - Ed25519 signatures for microcontrollers.
 - [esp8266-wifi-serial](https://github.com/alekseysidorov/esp8266-wifi-serial) - Driver to work with the esp8266 module over the serial port.
 - [embuild](https://github.com/esp-rs/embuild) - Build support for embedded Rust: Cargo integration with other embedded build ecosystems & tools, like PlatformIO, CMake and kconfig.
+- [stm32wlxx-hal](https://github.com/stm32-rs/stm32wlxx-hal) - Hardware abstraction layer for the stm32wl series chips written in rust.
+- [w5500-rs](https://github.com/newAM/w5500-rs) - Embedded rust support for the Wiznet W5500 SPI internet offload chip.
 
 ## ML
 
@@ -2003,6 +2005,7 @@
 - [BzTree](https://github.com/Lagrang/bztree-rs) - Concurrent B-tree implementation for Rust based on paper BzTree: A High-Performance Latch-free Range Index for Non-Volatile Memory.
 - [tributary-rs](https://github.com/streamlet-dev/tributary-rs) - Streaming reactive and dataflow graphs in Rust.
 - [Rust-HyperLogLog](https://github.com/jedisct1/rust-hyperloglog) - HyperLogLog implementation in Rust, with bias correction.
+- [toml-cfg](https://github.com/jamesmunns/toml-cfg) - Procedural macro for configuring constant values across crates.
 
 ## Cargo Plugins
 

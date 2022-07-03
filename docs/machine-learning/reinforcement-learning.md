@@ -374,3 +374,4 @@ title: Reinforcement learning
 - [Flow](https://github.com/flow-project/flow) - Computational framework for deep RL and control experiments for traffic microsimulation.
 - [AlgebraicRL.jl](https://github.com/bakirtzisg/AlgebraicRL.jl) - Julia library for composing Markov decision processes (MDPs) and their agents compositionally.
 - [Ivy Gym](https://github.com/unifyai/gym) - Fully differentiable RL environments, written in Ivy.
+- [RL agent using private and shared world models](https://github.com/neureal/neureal-ai-agent)
