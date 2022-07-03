@@ -28,6 +28,7 @@ Some maybe interesting supplements I don't take routinely but tried.
 
 - [Pregnant women taking 1,000 mg of the omega-3 DHA had 50% fewer early preterm births than women given 200 mg. The high dose DHA also reduced feeding issues and genitourinary and neurologic problems in infants (randomized controlled trial).](https://twitter.com/foundmyfitness/status/1397251661618352133)
 - [Recent study suggests anti inflammatory meds contribute to chronic pain by preventing an inflammatory process that resets the pain baseline. We have been using these for decades and didn’t catch this. This should make you nervous about playing Guinea pig.](https://twitter.com/karnagraha/status/1528490268546068480)
+- [Iron is needed in the electron transport chain as a component of cytochrome C oxidase. If fewer iron molecules are being prioritized for creating this enzyme, then less oxygen will be reduced at a time. The rest of the Krebs cycle can be in an optimal state but the cycle can only go as fast as the electron transport chain will allow it. I imagine that given a deficiency, the human body will prioritize iron formation in the blood over creating new cytochrome C oxidase since transporting oxygen to cells is more important than running the Krebs cycle at full speed.](https://news.ycombinator.com/item?id=31968114)
 
 ## Links
 
@@ -57,3 +58,4 @@ Some maybe interesting supplements I don't take routinely but tried.
 - [Taking multi vitamins still a waste of money, or no? (2022)](https://www.reddit.com/r/nutrition/comments/ueu9q8/taking_multi_vitmains_still_a_waste_of_money_or_no/)
 - [Vitamin D and Depression (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/) ([HN](https://news.ycombinator.com/item?id=31306177))
 - [Vitamin D, FOXO3a, and Sirtuin1 in Hashimoto's Thyroiditis and Differentiated Thyroid Cancer](https://www.frontiersin.org/articles/10.3389/fendo.2018.00527/full) ([Tweet](https://twitter.com/_DaCon/status/1540038927121276928))
+- [Why does iron deficiency cause fatigue, even in the absence of anemia?](https://twitter.com/tony_breu/status/1543311124560592898) ([HN](https://news.ycombinator.com/item?id=31968114))

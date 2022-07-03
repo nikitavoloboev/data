@@ -910,6 +910,7 @@
 - [numerizer](https://github.com/jaidevd/numerizer) - Python module to convert natural language numerics into ints and floats.
 - [compose](https://github.com/mentalisttraceur/python-compose) - Classic compose, with all the Pythonic features.
 - [snake-egg](https://github.com/egraphs-good/snake-egg) - Python bindings for egg.
+- [Red Engine](https://github.com/Miksus/red-engine) - Modern scheduling library for Python. ([Docs](https://red-engine.readthedocs.io/en/stable/index.html)) ([HN](https://news.ycombinator.com/item?id=31969345))
 
 ## Notes
 

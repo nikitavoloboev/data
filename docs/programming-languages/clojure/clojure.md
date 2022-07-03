@@ -235,3 +235,4 @@ title: Clojure
 - [What does `identical?` do? (2022)](https://quanttype.net/posts/2022-06-15-what-does-identical-do.html)
 - [An introduction to deep code-walking macros with Clojure (2013)](https://blog.fogus.me/2013/07/17/an-introduction-to-deep-code-walking-macros-with-clojure/) ([HN](https://news.ycombinator.com/item?id=31828658))
 - [Things about Clojure or tooling, you found out way too late (2022)](https://www.reddit.com/r/Clojure/comments/vprp5i/things_about_clojure_or_tooling_you_found_out_way/)
+- [Bebo](https://github.com/borkdude/bebo) - Run Clojure scripts on Deno.
