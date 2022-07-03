@@ -172,3 +172,4 @@
 - [R3M: A Universal Visual Representation for Robot Manipulation (2022)](https://arxiv.org/abs/2203.12601) ([Code](https://github.com/facebookresearch/r3m))
 - [MCAP](https://github.com/foxglove/mcap) - Modular, performant, and serialization-agnostic container file format for pub/sub messages, primarily intended for use in robotics applications. ([Web](https://mcap.dev/))
 - [Ask HN: What happened to robots taking all our jobs? (2022)](https://news.ycombinator.com/item?id=31879805)
+- [Robotic Exploration Lab](https://roboticexplorationlab.org/) ([GitHub](https://github.com/RoboticExplorationLab))

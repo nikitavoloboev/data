@@ -109,6 +109,10 @@
 - [Hopfields.jl](https://github.com/yuehhua/Hopfields.jl) - Modern Hopfield layer implementations in Julia.
 - [SciML Docs](https://docs.sciml.ai/dev/) ([Code](https://github.com/SciML/SciMLDocs))
 - [Kinetic.jl](https://github.com/vavrines/Kinetic.jl) - Universal modeling and simulation of fluid dynamics upon machine learning.
+- [SymbolicNumericIntegration.jl](https://github.com/SciML/SymbolicNumericIntegration.jl) - Hybrid symbolic/numerical integration package that works on the Julia Symbolics expressions.
+- [BlockSystems.jl](https://github.com/hexaeder/BlockSystems.jl) - Express input-output-systems / block-systems with the help of ModelingToolkit.jl.
+- [Metaheuristics](https://github.com/jmejia8/Metaheuristics.jl) - High performance metaheuristics for optimization purely coded in Julia.
+- [Integrals.jl](https://github.com/SciML/Integrals.jl) - Common interface for quadrature and numerical integration for the SciML scientific machine learning organization.
 
 ## Math
 
@@ -650,6 +654,13 @@
 - [Pollen.jl](https://github.com/lorenzoh/Pollen.jl) - Format-independent document generation tool built for interactive work.
 - [Interfaces](https://github.com/rafaqz/Interfaces.jl) - Macros to define and impolement interfaces, to ensure they are checked and correct.
 - [StructuralEquationModels.jl](https://github.com/StructuralEquationModels/StructuralEquationModels.jl) - Fast and flexible Structural Equation Modelling Framework.
+- [ComponentArrays.jl](https://github.com/jonniedie/ComponentArrays.jl) - Arrays with arbitrarily nested named components.
+- [ConcreteStructs.jl](https://github.com/jonniedie/ConcreteStructs.jl) - Make non-concrete structs concrete without the boilerplate of adding type parameters.
+- [SimulationLogs.jl](https://github.com/jonniedie/SimulationLogs.jl) - Signal logging and scoping for DifferentialEquations.jl simulations.
+- [ConstructiveGeometry](https://github.com/plut/ConstructiveGeometry.jl) - Algorithms and syntax for building CSG objects within Julia.
+- [Altro.jl](https://github.com/RoboticExplorationLab/Altro.jl) - Implementation of the Augmented Lagrangian TRajectory Optimizer (ALTRO) solver.
+- [StructuralIdentifiability.jl](https://github.com/SciML/StructuralIdentifiability.jl) - Julia package for assessing structural parameter identifiability of parametric ODE models, both local and global.
+- [SignalAnalysis.jl](https://github.com/org-arl/SignalAnalysis.jl) - Signal analysis toolbox for Julia.
 
 ## Links
 
