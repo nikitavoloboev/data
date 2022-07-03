@@ -34,3 +34,4 @@ There are also [few nootropics you can take to in some way boost your mental abi
 - [Troof on Nootropics (2022)](https://astralcodexten.substack.com/p/link-troof-on-nootropics?s=r) ([HN](https://news.ycombinator.com/item?id=31424905))
 - [What medication raises neuroplasicity? (2022)](https://www.reddit.com/r/Nootropics/comments/vf03lu/what_medication_raises_neuroplasicity/)
 - [Nootropics I've Tried For Brain Fog , ranked. (long covid brain fog)](https://www.reddit.com/r/Nootropics/comments/vjnbqc/nootropics_ive_tried_for_brain_fog_ranked_long/)
+- [What are some methods shown to increase IQ? (2022)](https://www.reddit.com/r/Nootropics/comments/vqh9z7/what_are_some_methods_shown_to_increase_iq/)

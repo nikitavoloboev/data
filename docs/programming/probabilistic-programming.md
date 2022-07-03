@@ -51,3 +51,4 @@ title: Probabilistic programming
 - [Conditional Diffusion Probabilistic Model for Speech Enhancement](https://github.com/neillu23/CDiffuSE) - Leverages recent advances in diffusion probabilistic models, and proposes a novel speech enhancement algorithm.
 - [MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic PL based on pattern matching and constraint propagation, 148 examples.
 - [PPL Bench](https://github.com/facebookresearch/pplbench) - Evaluation Framework for Probabilistic Programming Languages. ([Docs](https://pplbench.org/docs/introduction))
+- [On Fast Sampling of Diffusion Probabilistic Models (2021)(https://arxiv.org/abs/2106.00132) ([Code](https://github.com/FengNiMa/FastDPM_pytorch))

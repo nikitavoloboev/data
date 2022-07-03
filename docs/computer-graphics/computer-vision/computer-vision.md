@@ -831,3 +831,4 @@
 - [Oriented RepPoints for Aerial Object Detection (2022)](https://arxiv.org/abs/2105.11111v4) ([Code](https://github.com/LiWentomng/OrientedRepPoints))
 - [Reliable Visual Question Answering: Abstain Rather Than Answer Incorrectly (2022)](https://arxiv.org/abs/2204.13631) ([Code](https://github.com/facebookresearch/reliable_vqa))
 - [EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications (2022)](https://arxiv.org/abs/2206.10589) ([Code](https://github.com/mmaaz60/EdgeNeXt))
+- [Awesome Visual Diffusion Models](https://github.com/Xiefan-Guo/Awesome-Visual-Diffusion-Models)

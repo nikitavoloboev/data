@@ -91,3 +91,4 @@ title: Vulkan API
 - [Ray tracing glTF scene with Vulkan](https://github.com/nvpro-samples/vk_raytrace)
 - [Vuh](https://github.com/Glavnokoman/vuh) - Vulkan-based GPGPU computing framework.
 - [Fossilize](https://github.com/ValveSoftware/Fossilize) - Serialization format for various persistent Vulkan object types.
+- [SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) - Lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.

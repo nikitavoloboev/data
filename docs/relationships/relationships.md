@@ -255,3 +255,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [6 фильмов о любви в непростое время](https://www.wonderzine.com/wonderzine/entertainment/movies/263037-films)
 - [What do you as a man actually want in a woman?](https://www.reddit.com/r/AskMen/comments/viqbpr/if_you_were_to_be_extremely_honest_with_yourself/)
 - [HN: Advice in helping find a partner](https://news.ycombinator.com/item?id=31961992)
+- [Scenes from an Open Marriage (2022)](https://www.theparisreview.org/blog/2022/06/29/scenes-from-an-open-marriage/)

@@ -167,6 +167,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Online Spirograph Tool](https://nathanfriend.io/inspiral-web/) ([HN](https://news.ycombinator.com/item?id=31526908))
 - [LogSnag](https://logsnag.com/) - Real-time feed of events for your projects.
 - [Git.io](https://git.io/) - URL shortener by GitHub.
+- [Miter Meeting Tools](https://miter.co/)
 - [Kukkee](https://www.kukkee.com/) - Open source Doodle alternative. ([Code](https://github.com/Kukkee/Kukkee)
 - [FormSG](https://github.com/opengovsg/FormSG) - Form builder for the Singapore Government.
 - [SkyOffice](https://sky-office.co/) - Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus. ([Code](https://github.com/kevinshen56714/SkyOffice))

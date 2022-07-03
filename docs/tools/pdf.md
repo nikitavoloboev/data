@@ -69,3 +69,4 @@
 - [img2pdf](https://github.com/myollie/img2pdf) - Losslessly convert raster images to PDF.
 - [Boxes and Glue](https://github.com/speedata/boxesandglue) - PDF typesetting library/backend in the spirit of TeX's algorithms.
 - [TinyWow](https://tinywow.com/) - Free PDF, Video, Image & Other Online Tools.
+- [s3-ocr: Extract text from PDF files stored in an S3 bucket (2022)](https://simonwillison.net/2022/Jun/30/s3-ocr/)

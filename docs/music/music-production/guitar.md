@@ -46,3 +46,5 @@
 - [Set List](http://setlist-app.surge.sh/) - Home to all your guitar chords, in your browser. ([Code](https://github.com/arogyakoirala/setlist))
 - [Neural network emulator for guitar amplifiers](https://github.com/sdatkinson/neural-amp-modeler)
 - [Ultimate Guitar Tabs](https://www.ultimate-guitar.com/) ([Scraper](https://github.com/jers0/ultimate-guitar-scraper))
+- [Design lessons from guitar pedals](https://uxdesign.cc/5-design-lessons-from-guitar-pedals-782d41f07d1b) ([HN](https://news.ycombinator.com/item?id=31948881))
+- [Online Tuner: Guitar, Bass Guitar & Ukulele Tuner](https://muted.io/tuner/)

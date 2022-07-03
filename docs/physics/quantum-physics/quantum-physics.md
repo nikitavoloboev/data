@@ -105,3 +105,4 @@
 - [Is it because of quantum decoherence that people and objects don't behave like waves in the macro world?](https://www.reddit.com/r/quantum/comments/v1f47k/is_it_because_of_quantum_decoherence_that_people/)
 - [Quantum particles can feel the effects of gravitational fields (2022)](http://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html) ([HN](https://news.ycombinator.com/item?id=31630528))
 - [The quantum ‘boomerang’ effect has been seen for the first time (2022)](https://www.newscientist.com/article/2323871-physicists-have-made-a-quantum-boomerang-for-the-first-time/)
+- [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab) ([HN](https://news.ycombinator.com/item?id=31968280))

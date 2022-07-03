@@ -111,6 +111,7 @@
 - [autotst](https://github.com/jmkuebler/auto-tst) - AutoML Two-Sample Test. ([Tweet](https://twitter.com/jonas_kubler/status/1538872507540856832))
 - [Roerich](https://github.com/HSE-LAMBDA/roerich) - Python library of change point detection algorithms for time series.
 - [tftb](https://github.com/scikit-signal/tftb) - Python module for time-frequency analysis.
+- [PyPOTS](https://github.com/WenjieDu/PyPOTS) - Python Toolbox for Data Mining on Partially-Observed Time Series.
 
 ## Biology
 

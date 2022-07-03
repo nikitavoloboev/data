@@ -862,3 +862,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [The Berkeley Crossword Solver](https://bair.berkeley.edu/blog/2022/05/20/crosswords/)
 - [MLC](https://github.com/mlc-ai/mlc-zh) - Machine Learning Compiler.
 - [Recommender System on MovieLens dataset](https://github.com/rposhala/Recommender-System-on-MovieLens-dataset)
+- [Awesome Radar Perception](https://github.com/ZHOUYI1023/awesome-radar-perception) - Curated list of radar datasets, detection, tracking and fusion.

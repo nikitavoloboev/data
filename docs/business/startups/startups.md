@@ -380,6 +380,7 @@
 - [I spent two years launching tiny projects (2022)](https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects) ([HN](https://news.ycombinator.com/item?id=31421364))
 - [Startups: Instead of thinking about whether you are “default alive” vs “default dead”, think about whether you are “default investable” vs “default uninvestable.”](https://twitter.com/DavidSacks/status/1528102541723979776)
 - [How We built a $1M ARR open source SaaS (2022)](https://plausible.io/blog/open-source-saas) ([HN](https://news.ycombinator.com/item?id=31857069))
+- [Launch YC](https://www.ycombinator.com/launches) - Launchpad of YC startups.
 
 ## Images
 
