@@ -812,3 +812,4 @@ if err != nil {
 - [Small Tables with Go generics (2022)](https://www.tbray.org/ongoing/When/202x/2022/06/25/Small-Tables) ([HN](https://news.ycombinator.com/item?id=31890672))
 - [gotraceui](https://github.com/dominikh/gotraceui) - Efficient frontend for Go execution traces.
 - [Nancy](https://github.com/sonatype-nexus-community/nancy) - Tool to check for vulnerabilities in your Go dependencies, powered by Sonatype OSS Index.
+- [go-graph](https://github.com/kallsyms/go-graph) - Searching Go code with a graph database. ([Using Graphs to Search for Code](https://nickgregory.me/post/2022/07/02/go-code-as-a-graph/))

@@ -159,3 +159,4 @@ title: Redis
 - [Redis vs. KeyDB vs. Dragonfly vs. Skytable (2022)](https://news.ycombinator.com/item?id=31796311)
 - [Go Rate Limiter interface for Redis](https://github.com/sethvargo/go-redisstore)
 - [walrus](https://github.com/coleifer/walrus) - Lightweight Python utilities for working with Redis.
+- [Redis-Shake](https://github.com/alibaba/RedisShake) - Tool for synchronizing data between two redis databases.

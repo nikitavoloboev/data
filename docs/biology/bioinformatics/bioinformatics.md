@@ -221,3 +221,5 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Bioontologies](https://github.com/biopragmatics/bioontologies) - Unified access to biomedical ontologies.
 - [PyBioPAX](https://github.com/indralab/pybiopax) - Python implementation of the BioPAX object model.
 - [AIMNet](https://github.com/aiqm/aimnet) - Atoms In Molecules Neural Network Potential.
+- [BigBIO: Biomedical Datasets](https://github.com/bigscience-workshop/biomedical) - Tools for curating biomedical training data for large-scale language modeling.
+- [molcloud](https://github.com/whitead/molcloud) - Make a bunch of molecules.

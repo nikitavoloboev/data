@@ -828,3 +828,5 @@
 - [Voxel-MAE: Masked Autoencoders for Pre-training Large-scale Point Clouds (2022)](https://arxiv.org/abs/2206.09900) ([Code](https://github.com/chaytonmin/Voxel-MAE))
 - [Contrastive Boundary Learning for Point Cloud Segmentation (2022)](https://arxiv.org/abs/2203.05272) ([Code](https://github.com/LiyaoTang/contrastBoundary))
 - [Scaling up Kernels in 3D CNNs (2022)](https://arxiv.org/abs/2206.10555) ([Code](https://github.com/dvlab-research/LargeKernel3D))
+- [Oriented RepPoints for Aerial Object Detection (2022)](https://arxiv.org/abs/2105.11111v4) ([Code](https://github.com/LiWentomng/OrientedRepPoints))
+- [Reliable Visual Question Answering: Abstain Rather Than Answer Incorrectly (2022)](https://arxiv.org/abs/2204.13631) ([Code](https://github.com/facebookresearch/reliable_vqa))

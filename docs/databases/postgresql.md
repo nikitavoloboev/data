@@ -533,3 +533,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Refurb](https://github.com/ConferOpenSource/refurb) - Library for building PostgreSQL database migration software.
 - [Citus data SIGMOD white paper notes (2022)](https://viggy28.dev/article/my-notes-on-citus-data/)
 - [Dashibase](https://dashibase.com/) - No-code dashboards with Supabase. ([Insert](https://dashibase.com/insert)) ([Insert Code](https://github.com/Dashibase/dashibase-insert)) ([Code](https://github.com/Dashibase/dashibase))
+- [pgenv](https://github.com/theory/pgenv) - PostgreSQL binary manager.

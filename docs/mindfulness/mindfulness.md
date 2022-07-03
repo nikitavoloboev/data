@@ -64,3 +64,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [You can only respond to what you notice](https://every.to/superorganizers/you-can-only-respond-to-what-you-notice)
 - [Ask HN: In these uncertain times, how do you handle anxiousness (2022)](https://news.ycombinator.com/item?id=31775411)
 - [My awakening moment about how smartphones fragment our attention span (2022)](https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/) ([HN](https://news.ycombinator.com/item?id=31874846))
+- [Ask HN: What exactly is a mindfulness meditation? (2022)](https://news.ycombinator.com/item?id=31965367)

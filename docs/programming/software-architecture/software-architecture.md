@@ -253,3 +253,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Revisiting the principles of data-oriented programming (2022)](https://blog.klipse.tech/dop/2022/06/22/principles-of-dop.html) ([HN](https://news.ycombinator.com/item?id=31858077))
 - [System Design Bytes for Enthusiasts](https://github.com/codersguild/System-Design)
 - [Domain Driven Design (2022)](https://www.youtube.com/watch?v=MC_dS5G1jqw)
+- [Improving distributed caching performance and efficiency at Pinterest (2022)](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b) ([HN](https://news.ycombinator.com/item?id=31954518))

@@ -172,3 +172,4 @@ title: Rails
 - [Lockbox](https://github.com/ankane/lockbox) - Modern encryption for Ruby and Rails.
 - [Tomo](https://github.com/mattbrictson/tomo) - Friendly CLI for deploying Rails apps.
 - [Motion](https://github.com/unabridged/motion) - Reactive frontend UI components for Rails in pure Ruby.
+- [StoreModel](https://github.com/DmitryTsepelev/store_model) - Work with JSON-backed attributes as ActiveRecord-ish models.

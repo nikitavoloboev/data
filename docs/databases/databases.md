@@ -643,3 +643,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Percona Community](http://percona.community/) - Community hub for installing, running, optimizing, and learning everything around databases and software architectures. ([Code](https://github.com/percona/community))
 - [Things to know about databases (2022)](https://architecturenotes.co/things-you-should-know-about-databases/) ([HN](https://news.ycombinator.com/item?id=31895623))
 - [GeoPub: A Multi-Model Database (2022)](https://inqlab.net/2022-07-01-geopub-a-multi-model-database.html)
+- [DBPack](https://github.com/CECTC/dbpack) - DB proxy for distributed transaction, read write splitting and sharding! Support any language! It can be deployed as a sidecar in a pod.

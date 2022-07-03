@@ -907,6 +907,7 @@
 - [picologging](https://github.com/microsoft/picologging) - High-performance logging library for Python.
 - [Comma](https://github.com/jlumbroso/comma) - Python CSV Library for Humans.
 - [numerizer](https://github.com/jaidevd/numerizer) - Python module to convert natural language numerics into ints and floats.
+- [compose](https://github.com/mentalisttraceur/python-compose) - Classic compose, with all the Pythonic features.
 
 ## Notes
 
@@ -1066,3 +1067,4 @@
 - [onepm](https://github.com/frostming/onepm) - Picks the right Python package manager for you.
 - [Mapping the world of Python package management (2022)](https://enigma.com/blog/post/mapping-the-world-of-package-management) ([HN](https://news.ycombinator.com/item?id=31837996))
 - [Logging in Python Like a Pro](https://guicommits.com/how-to-log-in-python-like-a-pro/) ([HN](https://news.ycombinator.com/item?id=31945564))
+- [PyScaffold](https://pyscaffold.org/en/stable/) - Project generator for bootstrapping high-quality Python packages. ([Code](https://github.com/pyscaffold/pyscaffold))

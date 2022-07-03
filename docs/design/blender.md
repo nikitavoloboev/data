@@ -85,3 +85,4 @@ title: Blender
 - [Blender themes](https://github.com/williamchange/blender-themes)
 - [Blender CLI Rendering](https://github.com/yuki-koyama/blender-cli-rendering) - Blender Python scripts for rendering images directly from command-line interface.
 - [Notes on learning Blender](https://tendigits.space/site/blender.html)
+- [Chemicals in Blender](https://github.com/patrickfuller/blender-chemicals) - Draws chemicals in Blender using common input formats (smiles, molfiles, cif files, etc.).

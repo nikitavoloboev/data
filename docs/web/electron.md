@@ -14,6 +14,7 @@ I prefer to build things natively with [SwiftUI](../programming-languages/swift/
 ## Nice templates
 
 - [Vite-SolidJS-Electron](https://github.com/ch99q/vite-solid-electron)
+- [Vite-Vue-Electron](https://github.com/electron-vite/electron-vite-vue)
 
 ## Notes
 

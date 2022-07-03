@@ -103,3 +103,4 @@ Match all that don't have notes or twitter in input
 - [patterns-finder](https://github.com/benouinirachid/patterns-finder) - Simple, Fast, Powerful and Easily extensible python package for extracting patterns from text, with over than 60 predefined Regular Expressions.
 - [Utilties for the Developer. Regex, HTTP echo. Diffing](https://utils.zest.dev/regex) ([Code](https://github.com/zestcreative/utility))
 - [Swift Regex](https://swiftregex.com/) - Online tool to learn, build and test Swift Regex Regex and Regex Builder. ([Code](https://github.com/SwiftFiddle/swiftregex))
+- [regexparam](https://github.com/lukeed/regexparam) - Tiny (394B) utility that converts route patterns into RegExp.

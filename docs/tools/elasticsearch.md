@@ -70,3 +70,4 @@ title: Elasticsearch
 - [Building a Recommender with Apache Spark & Elasticsearch](https://github.com/IBM/elasticsearch-spark-recommender)
 - [Elastic Agent](https://github.com/elastic/elastic-agent) - Single, unified way to add monitoring for logs, metrics, and other types of data to a host.
 - [What is the difference between Lucene and Elasticsearch](https://stackoverflow.com/questions/27793721/what-is-the-difference-between-lucene-and-elasticsearch/27793910#27793910)
+- [pino-elasticsearch](https://github.com/pinojs/pino-elasticsearch) - Load pino logs into Elasticsearch.

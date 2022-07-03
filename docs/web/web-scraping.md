@@ -205,3 +205,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [SLRP](https://github.com/nfx/slrp) - Rotating open proxy multiplexer.
 - [Node.js web scraper](https://github.com/get-set-fetch/scraper)
 - [WarcDB](https://github.com/Florents-Tselai/WarcDB) - Web crawl data as SQLite databases. ([HN](https://news.ycombinator.com/item?id=31799147))
+- [How to scrape Zillow with Python and Scrapy (2022)](https://www.trickster.dev/post/how-to-scrape-zillow-with-python-and-scrapy/)

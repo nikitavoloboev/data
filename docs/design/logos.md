@@ -1,5 +1,9 @@
 # Logos
 
+## Notes
+
+- [The thing they don’t want you to know about logo design is that you just write the word in a shitload of fonts until something cool happens and then you’re in business.](https://twitter.com/kevintwohy/status/1543300070535077888)
+
 ## Links
 
 - [Names, Brands & Products by Pieratt](http://pieratt.com/)

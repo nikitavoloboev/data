@@ -87,3 +87,5 @@
 - [Thread on the early days of 3D modelling (2022)](https://twitter.com/delaneykingrox/status/1518033756460044288)
 - [Colorful](https://www.colorful.app/) - 3D Virtual Photo Studio. ([Twitter](https://twitter.com/colorful_app_)) ([Tweet](https://twitter.com/0xca0a/status/1519695476114833411))
 - [Web CAD / Part Designer](http://web-cad.org/) - Parametric 2D and 3D modeler written in pure JS. ([Code](https://github.com/xibyte/jsketcher))
+- [Shadow Editor](https://github.com/tengge1/ShadowEditor) - Cross-platform 3D scene editor based on ThreeJS, Go and MongoDB for desktop and web.
+- [GhostSCAD](https://github.com/ljanyst/ghostscad) - Enables you to programatically build complex 3D models in Go and render them in OpenSCAD.

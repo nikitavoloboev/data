@@ -379,3 +379,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Bunny Fonts](https://fonts.bunny.net/) - Faster & GDPR friendly Fonts. ([HN](https://news.ycombinator.com/item?id=31798311))
 - [Internet Archive scans of logotype books](https://twitter.com/bao_t_nguyen/status/1538647087587373056)
 - [Emtype Foundry](https://emtype.net/)
+- [Discrete Typography Tool](https://discrete-typography.netlify.app/) - Understand and generate x-height and cap-height in CSS.

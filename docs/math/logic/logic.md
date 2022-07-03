@@ -81,3 +81,4 @@
 - [Grothendieck's Approach to Equality (2022)](https://www.ma.ic.ac.uk/~buzzard/xena/pdfs/grothendieck_equality.pdf)
 - [Goedel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements (2003)](https://arxiv.org/abs/cs/0309048)
 - [SHACL: A Description Logic in Disguise (2021)](https://arxiv.org/abs/2108.06096)
+- [Open Logic Project](http://builds.openlogicproject.org/) ([HN](https://news.ycombinator.com/item?id=31960219))

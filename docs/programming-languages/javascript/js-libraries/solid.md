@@ -107,3 +107,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Thinking Granular: How is SolidJS so Performant? (2021)](https://dev.to/ryansolid/thinking-granular-how-is-solidjs-so-performant-4g37)
 - [Solid Valtio](https://github.com/wobsoriano/solid-valtio) - State management in Solid with valtio.
 - [ReScript SolidJS](https://github.com/Fattafatta/rescript-solidjs)
+- [Solid Cache](https://github.com/LXSMNSYC/solid-cache) - Resource caching in SolidJS.

@@ -420,3 +420,4 @@ title: PyTorch
 - [Parti - PyTorch](https://github.com/lucidrains/parti-pytorch) - Implementation of Parti, Google's pure attention-based text-to-image neural network, in PyTorch.
 - [OpenMMLab](https://github.com/open-mmlab/mmflow) - Open source optical flow toolbox based on PyTorch.
 - [simpleT5](https://github.com/Shivanandroy/simpleT5) - Quickly train T5/mT5/byT5 models in just 3 lines of code.
+- [ngp_pl](https://github.com/kwea123/ngp_pl) - Instant-ngp (only NeRF) in pytorch+cuda trained with pytorch-lightning (high quality with high speed).

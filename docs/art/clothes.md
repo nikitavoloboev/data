@@ -66,3 +66,4 @@ Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/
 - [Clothes inspiration thread (2022)](https://twitter.com/EmilybyNight/status/1526698797471891456)
 - [SHEIN](https://www.shein.com/) ([Not good for environment](https://www.youtube.com/watch?v=U4km0Cslcpg))
 - [Men's slim fit t shirt suggestions](https://twitter.com/anothercohen/status/1539445530698326018)
+- [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker) ([HN](https://news.ycombinator.com/item?id=31957210))

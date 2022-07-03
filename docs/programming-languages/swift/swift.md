@@ -299,3 +299,4 @@ title: Swift
 - [plSwift](https://plswift.com/) - Swift Conference in Central Europe. ([Twitter](https://twitter.com/swift_pl))
 - [Swift interop from Frida](https://github.com/frida/frida-swift-bridge)
 - [Understanding the "some" and "any" keywords in Swift 5.7 (2022)](https://swiftsenpai.com/swift/understanding-some-and-any/)
+- [Porting Graphing Calculator from C++ to Swift (2022)](https://www.swift.org/blog/graphing-calculator/) ([HN](https://news.ycombinator.com/item?id=31945478))

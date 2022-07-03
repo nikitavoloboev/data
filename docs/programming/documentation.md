@@ -192,3 +192,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Distributed](https://godistributed.org/) - Build a knowledge base, ask questions and stay in sync with your team all while doing it asynchronously. ([Code](https://github.com/m3o/distributed))
 - [How do do docs for your projects?](https://twitter.com/DavidKPiano/status/1541397415516831744)
 - [Identifying content gaps in our documentation](https://blog.cloudflare.com/identifying-content-gaps/)
+- [An engineer’s tips for writing documentation devs love (2022)](https://thenewstack.io/an-engineers-best-tips-for-writing-documentation-devs-love/) ([HN](https://news.ycombinator.com/item?id=31945863))

@@ -542,6 +542,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-sciter](https://github.com/sciter-sdk/go-sciter) - Go bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development.
 - [bimg](https://github.com/h2non/bimg) - Go package for fast high-level image processing powered by libvips C library.
 - [twodeeparticles](https://github.com/blizzy78/twodeeparticles) - Engine-agnostic 2D particle system simulator for Go.
+- [polyred](https://github.com/polyred/polyred) - 3D Graphics in Go.
 
 ## WASM
 
@@ -1715,6 +1716,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-nanoid](https://github.com/jaevor/go-nanoid) - Nano ID in Go -- very fast and efficient ID generator.
 - [skipmap](https://github.com/zhangyunhao116/skipmap) - High-performance, scalable concurrent sorted map based on skip-list. Up to 10x faster than sync.Map in the typical pattern.
 - [Twilio Go](https://github.com/twilio/twilio-go) - Go package for communicating with the Twilio API.
+- [Filter](https://github.com/gookit/filter) - Filtering, sanitizing, and conversion of Go data.
 
 ## Links
 
@@ -1832,3 +1834,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Mostly automatic Go dependency updates with GitHub Actions (2022)](https://brandur.org/fragments/mostly-automatic-deps)
 - [Makego](https://github.com/bufbuild/makego) - Makefile setup for our Go projects.
 - [gody](https://github.com/guiferpa/gody) - Lightweight struct validator for Go.
+- [selfupdate](https://github.com/minio/selfupdate) - Build self-updating Go programs.

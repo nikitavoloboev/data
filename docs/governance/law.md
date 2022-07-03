@@ -48,3 +48,4 @@
 - [Technical FAQ on the Digital Markets Act (2022)](https://matrix.org/blog/2022/03/30/technical-faq-on-the-digital-markets-act)
 - [Discussion | Law and Pop Culture: Better Call Saul (2017)](https://www.youtube.com/watch?v=nAspHeyHyiQ)
 - [Developer's Guide to SaaS Compliance (2022)](https://www.courier.com/blog/the-developers-guide-to-saas-compliance/) ([HN](https://news.ycombinator.com/item?id=31728693))
+- [What do lawyers do? (2022)](https://nihal.bearblog.dev/what-do-lawyers-do/) ([HN](https://news.ycombinator.com/item?id=31959666))

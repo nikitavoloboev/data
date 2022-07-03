@@ -123,3 +123,4 @@ title: Raspberry Pi
 - [Ask HN: Does anyone use a Raspberry Pi as your main computer? (2022)](https://news.ycombinator.com/item?id=31191817)
 - [Best Raspberry Pi Projects (2022)](https://www.tomshardware.com/features/best-raspberry-pi-projects) ([HN](https://news.ycombinator.com/item?id=31246337))
 - [Run your home on a Raspberry Pi (2022)](https://changelog.com/podcast/489) ([HN](https://news.ycombinator.com/item?id=31388870))
+- [Ask HN: What cool projects do you suggest I build with a Raspberry Pi 2W (2022)](https://news.ycombinator.com/item?id=31960322)

@@ -104,3 +104,4 @@ title: Field-programmable gate array
 - [Noasic](https://github.com/noasic/noasic) - Open-source VHDL library for FPGA design.
 - [ Raw Filtering of JSON Data on FPGAs (2022)](https://arxiv.org/abs/2205.05464)
 - [EVEREST](https://github.com/cbalint13/e-verest) - e-Versatile Research Stick for peoples.
+- [FPGAs in Client Compute Hardware (2022)](https://queue.acm.org/detail.cfm?id=3512327) ([HN](https://news.ycombinator.com/item?id=31958603))

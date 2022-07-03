@@ -15,3 +15,4 @@ I want to try build a [SolidJS](../programming-languages/javascript/js-libraries
 - [Docusaurus OpenAPI Doc Generator](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs)
 - [Docusaurus draw.io plugin](https://github.com/xiguaxigua/docusaurus-plugin-drawio)
 - [Offline / Local Search for Docusaurus](https://github.com/cmfcmf/docusaurus-search-local)
+- [T-rex](https://github.com/stegaBOB/t-rex) - Script for inserting a new page in a number-indexed Docusaurus directory.

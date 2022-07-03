@@ -608,3 +608,4 @@
 - ['Making Moves' In DALL·E mini (2022)](https://www.thejaymo.net/2022/06/19/250-making-moves-in-dalle-mini/)
 - [min(DALL·E)](https://github.com/kuprel/min-dalle) - Minimal implementation of DALL·E Mini. It has been stripped to the bare essentials necessary for doing inference, and converted to PyTorch.
 - [Awesome Document Similarity Measures](https://github.com/malteos/awesome-document-similarity)
+- [RETRO Is Blazingly Fast (2022)](http://mitchgordon.me/ml/2022/07/01/retro-is-blazing.html)

@@ -144,7 +144,7 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [AWS CLI Cheat Sheet](https://github.com/eon01/AWS-CheatSheet)
 - [Vantage](https://www.vantage.sh/) - Alternative AWS console, focused on user experience and cost transparency. ([HN](https://news.ycombinator.com/item?id=25750807)) ([GitHub](https://github.com/vantage-sh))
 - [Pacu](https://github.com/RhinoSecurityLabs/pacu) - AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
-- [aws-nuke](https://github.com/rebuy-de/aws-nuke) - Remove all resources from an AWS account.
+- [aws-nuke](https://github.com/rebuy-de/aws-nuke) - Remove all resources from an AWS account. ([HN](https://news.ycombinator.com/item?id=31962014))
 - [superwerker](https://github.com/superwerker/superwerker) - Automates the setup of an AWS Cloud environment with prescriptive best practices.
 - [AWS as a Framework (2021)](https://medium.com/galvanize/aws-as-a-framework-9abd2b1f6dc1)
 - [Moto](https://github.com/spulec/moto) - Mock AWS Services.

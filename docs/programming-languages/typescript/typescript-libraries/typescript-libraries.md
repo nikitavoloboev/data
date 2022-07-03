@@ -88,6 +88,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Axon](https://github.com/oslabs-beta/axon) - Aids developers with Express.js based applications to autogenerate integration tests and Postman Collections by extracting RESTful API endpoints from your source code.
 - [uncreate](https://github.com/johannschopplich/uncreate) - Minimal, type-safe REST client using JS proxies.
 - [TSArch](https://github.com/ts-arch/ts-arch) - Architecture unit test framework for Typescript.
+- [wait-for-expect](https://github.com/TheBrainFamily/wait-for-expect) - Wait for expectation to be true, useful for integration and end to end testing.
 
 ## Auth
 

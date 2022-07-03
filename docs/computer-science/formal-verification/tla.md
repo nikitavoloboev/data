@@ -10,7 +10,7 @@ title: TLA+
 
 ## Links
 
-- [Learn TLA+](https://www.learntla.com/) ([HN](https://news.ycombinator.com/item?id=19661329)) ([Intro](https://www.hillelwayne.com/post/learntla/)) ([HN](https://news.ycombinator.com/item?id=31952643)) ([Code](https://github.com/hwayne/learntla-v2))
+- [Learn TLA+](https://www.learntla.com/) ([HN](https://news.ycombinator.com/item?id=19661329)) ([Intro](https://www.hillelwayne.com/post/learntla/)) ([HN](https://news.ycombinator.com/item?id=31952643)) ([Code](https://github.com/hwayne/learntla-v2)) ([Lobsters](https://lobste.rs/s/za68nh/announcing_learn_tla))
 - [TLA+ Proof Manager](https://github.com/tlaplus/tlapm) - General-purpose formal specification language that is particularly useful for describing concurrent and distributed systems. ([Web](https://tla.msr-inria.inria.fr/tlaps/content/Home.html))
 - [tla+rust](https://github.com/spacejam/tla-rust) - Writing correct lock-free and distributed stateful systems in Rust, assisted by TLA+.
 - [Practical TLA+ by Hillel Wayne (2018)](https://lamport.azurewebsites.net/tla/practical-tla.html?back-link=learning.html) ([Code](https://github.com/Apress/practical-tla-plus))
@@ -58,3 +58,4 @@ title: TLA+
 - [TLA+ Specification of Flexible Paxos](https://github.com/fpaxos/fpaxos-tlaplus)
 - [Fixing a MongoDB Replication Protocol Bug with TLA+ (2019)](http://tla.msr-inria.inria.fr/kuppe/2019conf/06%20-%20William%20Schultz%20-%20Strangeloop%20TLA+%20Conference%202019%20Talk.pdf)
 - [TLA+ Video Course (2021)](https://lamport.azurewebsites.net/video/videos.html)
+- [Using TLA+ to understand Xen vchan (2019)](http://roscidus.com/blog/blog/2019/01/01/using-tla-plus-to-understand-xen-vchan/) ([Code](https://github.com/talex5/spec-vchan))

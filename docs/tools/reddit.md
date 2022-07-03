@@ -81,3 +81,4 @@ title: Reddit
 - [Reddit Discovery](https://anvaka.github.io/redsim/) - Discover similar subreddits. ([Code](https://github.com/anvaka/redsim))
 - [GummySearch](https://gummysearch.com/) - Audience Research for Reddit. ([HN](https://news.ycombinator.com/item?id=31720251))
 - [ReScrapper](https://github.com/psantheus/ReScrapper) - Telegram Bot for Reddit Scraping. ([Reddit](https://www.reddit.com/r/TelegramBots/comments/vipjlo/rescrapper_reddit_scraper_that_saves_to_telegram/))
+- [List of Active Reddit Alternatives](https://r.nf/r/RedditAlternatives/comments/oioeot/list_of_active_reddit_alternatives_v7/) ([HN](https://news.ycombinator.com/item?id=31955479))

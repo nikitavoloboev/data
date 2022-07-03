@@ -657,6 +657,7 @@
 - [DmgWiz](https://github.com/citruz/dmgwiz) - Extract filesystem data from DMG files.
 - [mach2](https://github.com/JohnTitor/mach2) - Rust interface to the user-space API of the Mach 3.0 kernel exposed in /usr/include/mach that underlies macOS and is linked via libSystem.
 - [hv](https://github.com/cloud-hypervisor/hypervisor-framework) - High level Rust bindings for Hypervisor Framework.
+- [macos-emond](https://github.com/puffyCid/macos-emond) - Simple library to parse macOS Emond files.
 
 ## Macros
 
@@ -1995,6 +1996,7 @@
 - [KString](https://github.com/cobalt-org/kstring) - String optimized for map keys.
 - [lldb](https://github.com/endoli/lldb.rs) - Higher level LLDB bindings for Rust built on lldb-sys.
 - [async-lock](https://github.com/smol-rs/async-lock) - Async synchronization primitives.
+- [lens-rs](https://github.com/TOETOE55/lens-rs) - Lens implemented in rust.
 
 ## Cargo Plugins
 
@@ -2220,3 +2222,4 @@
 - [Type-checked keypaths in Rust (2021)](http://www.cmyr.net/blog/keypaths.html) ([HN](https://news.ycombinator.com/item?id=31890394))
 - [time_it: a Case Study in Rust Macros](https://notes.iveselov.info/programming/time_it-a-case-study-in-rust-macros) ([Lobsters](https://lobste.rs/s/oigsld/time_it_case_study_rust_macros))
 - [(Ab)using Rust traits to write silly things (2022)](https://ihatereality.space/08-abusing-rust-traits-to-write-silly-things/)
+- [Making a Rust crate compile faster (2022)](https://www.youtube.com/watch?v=pMiqRM5ooNw) ([Reddit](https://www.reddit.com/r/rust/comments/vph52i/making_a_rust_crate_compile_faster_video/))

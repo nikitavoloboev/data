@@ -228,6 +228,7 @@
 ## Physics
 
 - [SolidStateDetectors.jl](https://github.com/JuliaPhysics/SolidStateDetectors.jl) - Julia package for fast 2D and 3D simulation of Solid State Detectors.
+- [OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl) - High performance differential equation solvers for ordinary differential equations, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML).
 
 ## Graphics
 
@@ -645,6 +646,9 @@
 - [Flatten](https://github.com/rafaqz/Flatten.jl) - Flatten nested Julia objects to tuples, and reconstruct them later.
 - [ModelParameters](https://github.com/rafaqz/ModelParameters.jl) - Easy, standardised parameter get/set for heterogeneous or nested immutable models.
 - [LibGEOS.jl](https://github.com/JuliaGeo/LibGEOS.jl) - Julia package for manipulation and analysis of planar geometric objects.
+- [Pollen.jl](https://github.com/lorenzoh/Pollen.jl) - Format-independent document generation tool built for interactive work.
+- [Interfaces](https://github.com/rafaqz/Interfaces.jl) - Macros to define and impolement interfaces, to ensure they are checked and correct.
+- [StructuralEquationModels.jl](https://github.com/StructuralEquationModels/StructuralEquationModels.jl) - Fast and flexible Structural Equation Modelling Framework.
 
 ## Links
 

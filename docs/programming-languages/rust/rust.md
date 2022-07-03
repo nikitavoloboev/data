@@ -833,3 +833,4 @@ title: Rust
 - [Rust 1.62.0 (2022)](https://blog.rust-lang.org/2022/06/30/Rust-1.62.0.html) ([HN](https://news.ycombinator.com/item?id=31935116))
 - [Many modes: a GATs pattern (2022)](https://smallcultfollowing.com/babysteps/blog/2022/06/27/many-modes-a-gats-pattern/)
 - [Best book after the official Rust book? (2022)](https://www.reddit.com/r/rust/comments/vptd32/best_book_after_the_official_rust_book/)
+- [rfcbot](https://github.com/rust-lang/rfcbot-rs) - Manages asynchronous decision making on Rust issues and PRs.
