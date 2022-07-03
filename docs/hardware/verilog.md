@@ -45,3 +45,4 @@
 - [Metron C++ to Verilog Tutorial](https://aappleby.github.io/Metron/tutorial/)
 - [OpenVAF](https://sr.ht/~dspom/OpenVAF/) - Modern VerilogA compiler focused on compact modelling.
 - [Veriloggen](https://github.com/PyHDI/veriloggen) - Mixed-Paradigm Hardware Construction Framework.
+- [OpenOFDM](https://github.com/jhshi/openofdm) - Sythesizable, modular Verilog implementation of 802.11 OFDM decoder.

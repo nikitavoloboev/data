@@ -16,6 +16,7 @@
 - [Don't listen to haters and nonconstructive feedback. Pay attention to genuine feedback and learn from it](https://twitter.com/EricRWeinstein/status/1387219408645361665).
 - Surround myself with people that inspire me & I can trust to do good. Be my true self. Inspire others. Do things that bring joy and energize me.
 - Create art. Meet people (friendly reach out). See places. Be inspired. Reuse work & ideas. Do what I love. Value myself, my work and freedom to create anything I truly care about anywhere on Earth.
+- Well being of my family/partner/animals above all. Highest quality food and bed for everyone.
 - Be consistent. Start early. Done > Perfect. [Do the simplest thing](https://www.youtube.com/watch?v=4ihL32g0IMQ). Solve problems. Take/do things slowly and methodically. [Enjoy the process](https://nikiv.dev/likes#quotes).
 - Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done. Complete my [6 life habits](habits.md).
 - [Don't judge/hate anyone](https://www.goodreads.com/quotes/7684047-hate-is-like-a-poison-you-make-for-your-enemy). Attempt to see another person's point of view. [Be kind](https://twitter.com/ainhoamarzol/status/1393691237107093505). Show love & empathy. Self love. [No ego](../consciousness/ego.md).
