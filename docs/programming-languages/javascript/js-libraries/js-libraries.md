@@ -967,6 +967,7 @@
 - [ASTq](https://github.com/rse/astq) - Abstract Syntax Tree (AST) Query Engine. ([HN](https://news.ycombinator.com/item?id=31929700))
 - [virtual-scroll](https://github.com/ayamflow/virtual-scroll) - Low-level library to create custom scroll behaviors.
 - [lazyfill](https://github.com/nuxodin/lazyfill) - Polyfills on demand.
+- [retry](https://github.com/tim-kos/node-retry) - Abstraction for exponential and custom retry strategies for failed operations.
 
 ## Links
 

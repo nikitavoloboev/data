@@ -74,6 +74,7 @@
 - [konform](https://github.com/konform-kt/konform) - Portable validations for Kotlin.
 - [gRPC-Kotlin](https://github.com/grpc/grpc-kotlin) - Kotlin gRPC implementation. HTTP/2 based RPC.
 - [Kotlin Dataframe](https://github.com/Kotlin/dataframe) - Typesafe in-memory structured data processing for JVM.
+- [Meilisearch for Kotlin](https://github.com/auguwu/meilisearch-kt) - Type-safe and Kotlin Coroutine-based client for Meilisearch.
 
 ## Links
 

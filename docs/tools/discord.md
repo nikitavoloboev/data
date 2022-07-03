@@ -58,6 +58,8 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Vulcan](https://github.com/Vulcan-Discord-Bot/Vulcan) - Multi-purpose discord bot built with discord.js.
 - [QiskitBot](https://github.com/infiniteregrets/QiskitBot) - Discord bot that allows you to execute Quantum Circuits, look up the IBMQ Qiskit's Documentation, and search questions on the Quantum Computing StackExchange.
 - [Sentry → Discord](https://github.com/IanMitchell/sentrydiscord.dev) - Forward Sentry notifications to your Discord server.
+- [Apple Updates](https://github.com/Minh-Ton/apple-updates) - Discord bot for pushing notifications about new Apple OS updates.
+- [Fish](https://github.com/Benricheson101/anti-phishing-bot) - Discord bot for deleting Steam/Discord phishing links.
 
 ## Libraries
 

@@ -337,6 +337,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Ghost](https://github.com/mash/ghost) - Build REST APIs from structs using Generics.
 - [fir](https://github.com/adnaan/fir) - Go library to build reactive apps.
 - [Copper](https://github.com/gocopper/copper) - Go toolkit complete with everything you need to build web apps. ([HN](https://news.ycombinator.com/item?id=31958823)) ([Web](https://gocopper.dev/))
+- [dead-letter-queue](https://github.com/ranjanrak/dead-letter-queue) - Tiny go package to manage HTTP requests with dead letter management/retry. Based on go-redis.
 
 ## GraphQL
 

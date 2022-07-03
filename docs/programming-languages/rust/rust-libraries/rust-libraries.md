@@ -1994,6 +1994,7 @@
 - [Rust Radix Trie](https://github.com/michaelsproul/rust_radix_trie) - Fast generic radix trie implemented in Rust.
 - [KString](https://github.com/cobalt-org/kstring) - String optimized for map keys.
 - [lldb](https://github.com/endoli/lldb.rs) - Higher level LLDB bindings for Rust built on lldb-sys.
+- [async-lock](https://github.com/smol-rs/async-lock) - Async synchronization primitives.
 
 ## Cargo Plugins
 

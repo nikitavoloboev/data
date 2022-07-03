@@ -826,3 +826,5 @@
 - [Sparse Instance Activation for Real-Time Instance Segmentation (2022)](https://arxiv.org/abs/2203.12827) ([Code](https://github.com/hustvl/SparseInst))
 - [Referring Image Matting (2022)](https://arxiv.org/abs/2206.05149) ([Code](https://github.com/JizhiziLi/RIM))
 - [Voxel-MAE: Masked Autoencoders for Pre-training Large-scale Point Clouds (2022)](https://arxiv.org/abs/2206.09900) ([Code](https://github.com/chaytonmin/Voxel-MAE))
+- [Contrastive Boundary Learning for Point Cloud Segmentation (2022)](https://arxiv.org/abs/2203.05272) ([Code](https://github.com/LiyaoTang/contrastBoundary))
+- [Scaling up Kernels in 3D CNNs (2022)](https://arxiv.org/abs/2206.10555) ([Code](https://github.com/dvlab-research/LargeKernel3D))

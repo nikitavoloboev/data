@@ -165,6 +165,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Attacke!](https://github.com/iamschulz/attacke) - Simple two-player fighting game.
 - [OpenGOAL](https://github.com/open-goal/jak-project) - Custom Lisp language developed by Naughty Dog. ([Web](https://open-goal.github.io/))
 - [Rust Game Ports](https://github.com/64kramsystem/rust-game-ports) - Ports of open source games to Rust, using different pure-Rust game engines.
+- [ToCenter](https://github.com/silentsokolov/tocenter) - Video game written in Rust using the ggez engine and the ECS library.
 
 ## Awesome games (other)
 
