@@ -458,3 +458,4 @@ if (
 - [Ecma International approves ECMAScript 2022: What’s new?](https://2ality.com/2022/06/ecmascript-2022.html)
 - [JS Functions - The Ultimate Guide](https://jsfunctions.io/)
 - [JS Module Blocks](https://github.com/tc39/proposal-js-module-blocks) ([Web](https://tc39.es/proposal-js-module-blocks/))
+- [Ask HN: Why is everything in JavaScript changing so fast? (2022)](https://news.ycombinator.com/item?id=31969958)

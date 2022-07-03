@@ -1719,7 +1719,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Filter](https://github.com/gookit/filter) - Filtering, sanitizing, and conversion of Go data.
 - [Art](https://github.com/recoilme/art) - Adaptive Radix Tree done right.
 - [typesense-go](https://github.com/typesense/typesense-go) - Go client for the Typesense API.
-- [slice_map](https://github.com/legougames/slice_map) - Designed to impove the performance for the case that you need to hold a large map in memory.
+- [slice_map](https://github.com/legougames/slice_map) - Designed to improve the performance for the case that you need to hold a large map in memory.
+- [reactor-go](https://github.com/jjeffcaii/reactor-go) - Go implementation for reactive-streams.
+- [RSocket-go](https://github.com/rsocket/rsocket-go)
 
 ## Links
 

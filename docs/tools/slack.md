@@ -85,3 +85,4 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [Rootly](https://rootly.com/) - Manage incidents directly from Slack. ([HN](https://news.ycombinator.com/item?id=31653985))
 - [slacker](https://github.com/velveteer/slacker) - Haskell library for building Slack apps in Socket Mode.
 - [Tiny Slack bot client using the web socket mode](https://github.com/ikawaha/slackbot)
+- [Ask HN: How do you ensure everyone on the team is heard on Slack? (2022)](https://news.ycombinator.com/item?id=31943016)

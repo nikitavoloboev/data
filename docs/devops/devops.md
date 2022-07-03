@@ -192,3 +192,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [sake](https://github.com/alajmo/sake) - Command runner for local and remote hosts.
 - [Nomad Helper](https://github.com/seatgeek/nomad-helper) - Useful tools for working with Hashicorp Nomad at scale.
 - [Interval](https://interval.com/) - Batteries-included approach to building rich internal tools directly in your app’s backend codebase. ([Twitter](https://twitter.com/useinterval)) ([Explained](https://twitter.com/alexarena/status/1537116909199446016))
+- [Wander](https://github.com/robinovitch61/wander) - Terminal application for Nomad by HashiCorp.

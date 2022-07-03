@@ -166,3 +166,4 @@ title: Scala
 - [New in Scala 3](https://github.com/bjornregnell/new-in-Scala3) - Quick tour of selected new stuff in Scala 3.
 - [Moving From Akka To ZIO: Experiences And Comparisons by Jan Ypma (2022)](https://www.youtube.com/watch?v=WvaO62TD8L0)
 - [Tooling Talks - The Scala Cross Platform Story (2022)](https://www.tooling-talks.com/episode-12)
+- [Effect-Oriented Programming: Creating Reliable Systems with Scala 3 and ZIO 2](https://github.com/EffectOrientedProgramming/book)

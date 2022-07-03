@@ -123,3 +123,4 @@
 - [Foundations of Graph Neural Networks online course](https://zakjost.ck.page/gnn)
 - [Basics of Graph Neural Networks](https://www.graphneuralnets.com/p/basics-of-gnns/)
 - [Local Augmentation for Graph Neural Networks (2021)](https://arxiv.org/abs/2109.03856) ([Code](https://github.com/SongtaoLiu0823/LAGNN))
+- [Awesome Expressive GNN](https://github.com/mengliu1998/awesome-expressive-gnn)

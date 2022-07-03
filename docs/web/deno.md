@@ -279,3 +279,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Fast](https://github.com/danteissaias/fast) - Small (<200L) web framework.
 - [Deno Deploy Rust Template](https://github.com/yoav-lavi/deno-deploy-rust-template)
 - [Neko](https://github.com/load1n9/neko) - Frame buffer deno module built on top of mini_fb with canvas api implementation and a webgpu renderer.
+- [denoio](https://github.com/syumai/denoio) - Go package to bind Deno and Go(Wasm)'s I/O interfaces.

@@ -238,6 +238,7 @@ title: GitHub actions
 - [Reviewpad GitHub Action](https://github.com/reviewpad/action) - GitHub action to supercharge your pull requests workflows.
 - [Check JSON Schema](https://github.com/python-jsonschema/check-jsonschema) - JSON Schema CLI and pre-commit hook built on jsonschema.
 - [Push Protected](https://github.com/CasperWA/push-protected) - GitHub Action to push newly created commit(s) to a protected branch, waiting for status checks to succeed.
+- [Sync S3 Bucket](https://github.com/jakejarvis/s3-sync-action) - GitHub Action to sync a directory with a remote S3 bucket.
 
 ## Go
 

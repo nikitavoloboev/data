@@ -104,3 +104,4 @@
 - [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [How to implement Hexagonal architecture in front end](https://github.com/juanm4/hexagonal-architecture-frontend)
 - [Reimagining front-end web development with htmx and hyperscript (2022)](https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript) ([HN](https://news.ycombinator.com/item?id=31949621))
+- [TanStack Table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids for React, Solid, Vue, Svelte and TS/JS. ([Web](https://tanstack.com/table/v8))

@@ -49,3 +49,4 @@ title: Observability
 - [How We Built Alert Rules, Runbooks, and Dashboards to Observe Our Observability Tool (2022)](https://www.timescale.com/blog/how-we-built-alert-rules-runbooks-and-dashboards-to-observe-our-observability-tool/)
 - [Duo](https://github.com/duo-rs/duo) - Easy-to-use observability solution that provides both logging and tracing capabilities for Rust applications.
 - [Observables](https://github.com/maverick-js/observables) - Tiny (850B) and fast reactive observables library via functions. ([HN](https://news.ycombinator.com/item?id=31884038))
+- [O11y toolkit](https://o11y.tools/) - Set of utilities that help you debug, augment, and manage your open source observability stack. ([Code](https://github.com/o11ydev/oy-toolkit))

@@ -241,3 +241,4 @@ title: SwiftUI
 - [SwiftUI for Mac 2022](https://troz.net/post/2022/swiftui-mac-2022/) ([HN](https://news.ycombinator.com/item?id=31967965))
 - [SwiftUI Backports](https://github.com/shaps80/SwiftUIBackports) - Collection of SwiftUI backports to make your iOS development easier.
 - [SwiftUI Index](https://mackuba.eu/swiftui/changelog)
+- [SwiftUI for Mac Big Sur](https://github.com/trozware/swiftui-mac-2022)

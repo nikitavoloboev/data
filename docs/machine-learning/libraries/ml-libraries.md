@@ -280,7 +280,7 @@ title: ML Libraries
 - [Latte](https://github.com/karnwatcharasupat/latte) - Cross-framework Python Package for Evaluation of Latent-based Generative Models.
 - [Raster Vision](https://github.com/azavea/raster-vision) - Open source framework for deep learning on satellite and aerial imagery.
 - [SPEAR](https://github.com/decile-team/spear) - Semi-Supervised Data Programming for Data Efficient Machine Learning.
-- [Ivy](https://github.com/unifyai/ivy) - Unified machine learning framework, enabling framework-agnostic functions, layers and libraries.
+- [Ivy](https://github.com/unifyai/ivy) - Unified machine learning framework, enabling framework-agnostic functions, layers and libraries. ([Web](https://lets-unify.ai/))
 - [NeuralForecast](https://github.com/Nixtla/neuralforecast) - Python library for time series forecasting with deep learning models.
 - [pythae](https://github.com/clementchadebec/benchmark_VAE) - Library for Variational Autoencoder benchmarking.
 - [Pyraug](https://github.com/clementchadebec/pyraug) - Data Augmentation with Variational Autoencoders.
@@ -367,3 +367,4 @@ title: ML Libraries
 - [HyperLib](https://github.com/nalexai/hyperlib) - Common Neural Network components in the hyperbolic space (using the Poincare model).
 - [Lite.Ai.ToolKit](https://github.com/DefTruth/lite.ai.toolkit) - C++ toolkit of awesome AI models.
 - [RecZilla](https://github.com/naszilla/reczilla) - Metalearning for algorithm selection on Recommender Systems.
+- [EdgeML](https://github.com/microsoft/EdgeML) - Machine learning algorithms for edge devices developed at Microsoft Research India.

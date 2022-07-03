@@ -108,6 +108,7 @@
 - [HuggingFaceHub.jl](https://github.com/cjdoris/HuggingFaceHub.jl) - Julia package to interact with the Hugging Face Hub.
 - [Hopfields.jl](https://github.com/yuehhua/Hopfields.jl) - Modern Hopfield layer implementations in Julia.
 - [SciML Docs](https://docs.sciml.ai/dev/) ([Code](https://github.com/SciML/SciMLDocs))
+- [Kinetic.jl](https://github.com/vavrines/Kinetic.jl) - Universal modeling and simulation of fluid dynamics upon machine learning.
 
 ## Math
 

@@ -2000,6 +2000,9 @@
 - [async-lock](https://github.com/smol-rs/async-lock) - Async synchronization primitives.
 - [lens-rs](https://github.com/TOETOE55/lens-rs) - Lens implemented in rust.
 - [filetime](https://github.com/alexcrichton/filetime) - Accessing file timestamps in a platform-agnostic fashion in Rust.
+- [BzTree](https://github.com/Lagrang/bztree-rs) - Concurrent B-tree implementation for Rust based on paper BzTree: A High-Performance Latch-free Range Index for Non-Volatile Memory.
+- [tributary-rs](https://github.com/streamlet-dev/tributary-rs) - Streaming reactive and dataflow graphs in Rust.
+- [Rust-HyperLogLog](https://github.com/jedisct1/rust-hyperloglog) - HyperLogLog implementation in Rust, with bias correction.
 
 ## Cargo Plugins
 

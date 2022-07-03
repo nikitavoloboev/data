@@ -220,3 +220,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [SQLite Code of Ethics](https://sqlite.org/codeofethics.html) ([HN](https://news.ycombinator.com/item?id=31886687))
 - [Trong ORM](https://github.com/trong-orm/trong-orm) - Build reactive interfaces on top of SQLite for any platform with any framework or lib.
 - [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated) ([HN](https://news.ycombinator.com/item?id=31908186))
+- [Extending SQLite with Rust](https://ricardoanderegg.com/posts/extending-sqlite-with-rust/) ([Code](https://github.com/polyrand/rust-sqlite-ext-example))

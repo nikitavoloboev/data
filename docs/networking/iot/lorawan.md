@@ -104,3 +104,4 @@ title: LoRaWAN
 - [TTGO-T-Beam](https://github.com/LilyGO/TTGO-T-Beam)
 - [N: Notkia – A Linux phone with LoRa+WiFi+BT connectivity](https://www.hackster.io/reimunotmoe/notkia-f6e772)
 - [LoRa Mesh Network Node](https://github.com/brucemack/WARS-Birdhouse)
+- [LoRa / LoRaWAN + TTN for MicroPython (ESP32)](https://github.com/fantasticdonkey/uLoRa)

@@ -256,3 +256,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [What do you as a man actually want in a woman?](https://www.reddit.com/r/AskMen/comments/viqbpr/if_you_were_to_be_extremely_honest_with_yourself/)
 - [HN: Advice in helping find a partner](https://news.ycombinator.com/item?id=31961992)
 - [Scenes from an Open Marriage (2022)](https://www.theparisreview.org/blog/2022/06/29/scenes-from-an-open-marriage/)
+- [Мы Расстались. Какими будут отношения через 10 лет: Тиндер, полиамория, одиночество в сети (2022)](https://www.youtube.com/watch?v=MZYb5JzQGE8)

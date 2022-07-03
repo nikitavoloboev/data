@@ -208,3 +208,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Stripe Apps](https://stripe.com/docs/stripe-apps) - Lets you embed custom user experiences directly in the Stripe Dashboard and orchestrate the Stripe API. ([Code](https://github.com/stripe/stripe-apps))
 - [ExpatFIRE Reddit](https://www.reddit.com/r/ExpatFIRE/)
 - [Lessons you learned about money and personal finance?](https://twitter.com/ankurnagpal/status/1541417358815789057)
+- [greeks](https://github.com/streamlet-dev/greeks) - Library for modeling financial instruments using lazy and/or streaming graphs.

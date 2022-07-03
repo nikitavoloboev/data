@@ -22,6 +22,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Synergies](https://github.com/lukasbach/synergies) - Create a performant distributed context state by synergyzing atomar context pieces and composing reusable state logic.
 - [Create React State](https://github.com/mfbx9da4/create-react-state) - React state management you already know how to use.
 - [Exome](https://github.com/Marcisbee/exome) - State manager for deeply nested states.
+- [Micro-observables](https://github.com/BeTomorrow/micro-observables) - Simple Observable library that can be used for easy state management in React applications.
 
 ## DB
 
@@ -207,6 +208,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [react-use-event-hook](https://github.com/scottrippey/react-use-event-hook) - Same as React's useCallback, but returns a stable reference.
 - [useAsyncMemo](https://github.com/awmleer/use-async-memo) - React hook for generating async memoized data.
 - [use-transition-effect](https://github.com/piotr-oles/use-transition-effect) - Run long effects without blocking the main thread.
+- [Charlie Tango Hooks](https://github.com/charlie-tango/hooks)
 
 ## Code
 
