@@ -59,3 +59,4 @@ title: JAX
 - [JAX Meta Learning](https://github.com/tristandeleu/jax-meta-learning) - Collection of meta-learning algorithms in JAX.
 - [Gymnax](https://github.com/RobertTLange/gymnax) - RL Environments in JAX.
 - [Pax](https://github.com/google/paxml) - Framework to configure and run machine learning experiments on top of Jax.
+- [SymPy2Jax](https://github.com/google/sympy2jax) - Turn SymPy expressions into trainable JAX expressions.

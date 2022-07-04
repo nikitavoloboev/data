@@ -121,3 +121,4 @@ Looking into [Railway](https://railway.app/) & [Cloudflare](https://www.cloudfla
 - [Securely connecting external tools to your GCP SQL database (2020)](https://trevor.io/blog/securely-connecting-external-tools-to-your-gcp-sql-database/)
 - [Google Datastore](https://github.com/kitsonk/google-datastore) - APIs that allow interfacing to Google Datastore on GCP from Deno.
 - [GCP Project Operator](https://github.com/openshift/gcp-project-operator) - Responsible for creating and destroying projects and service accounts in GCP.
+- [pubsub_sendmail](https://github.com/GoogleCloudPlatform/cloud-pubsub-sendmail) - Send emails from Google Cloud Pub/Sub events.

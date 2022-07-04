@@ -194,6 +194,7 @@
 - [pg8000](https://github.com/tlocke/pg8000) - Pure-Python PostgreSQL Driver.
 - [iopath](https://github.com/facebookresearch/iopath) - Python library that provides common I/O interface across different storage backends.
 - [cloudpathlib](https://github.com/drivendataorg/cloudpathlib) - Python pathlib-style classes for cloud storage services such as Amazon S3, Azure Blob Storage, and Google Cloud Storage.
+- [sql-metadata](https://github.com/macbre/sql-metadata) - Uses tokenized query returned by python-sqlparse and generates query metadata.
 
 ## GUI
 
@@ -911,6 +912,8 @@
 - [compose](https://github.com/mentalisttraceur/python-compose) - Classic compose, with all the Pythonic features.
 - [snake-egg](https://github.com/egraphs-good/snake-egg) - Python bindings for egg.
 - [Red Engine](https://github.com/Miksus/red-engine) - Modern scheduling library for Python. ([Docs](https://red-engine.readthedocs.io/en/stable/index.html)) ([HN](https://news.ycombinator.com/item?id=31969345))
+- [Pyslvs-UI](https://github.com/KmolYuan/Pyslvs-UI) - GUI-based (PyQt5) tool used to design 2D linkage mechanism.
+- [FlowKit](https://github.com/whitews/FlowKit) - Intuitive Python toolkit for flow cytometry analysis and visualization, with full support for the GatingML 2.0 standard.
 
 ## Notes
 

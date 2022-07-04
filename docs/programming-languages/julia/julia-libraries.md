@@ -113,6 +113,7 @@
 - [BlockSystems.jl](https://github.com/hexaeder/BlockSystems.jl) - Express input-output-systems / block-systems with the help of ModelingToolkit.jl.
 - [Metaheuristics](https://github.com/jmejia8/Metaheuristics.jl) - High performance metaheuristics for optimization purely coded in Julia.
 - [Integrals.jl](https://github.com/SciML/Integrals.jl) - Common interface for quadrature and numerical integration for the SciML scientific machine learning organization.
+- [SymbolicControlSystems](https://github.com/JuliaControl/SymbolicControlSystems.jl) - C-code generation and an interface between ControlSystems.jl and SymPy.j.
 
 ## Math
 
@@ -261,6 +262,7 @@
 - [Oxygen](https://github.com/ndortega/Oxygen.jl) - Micro-framework built on top of the HTTP.jl library. ([Article](https://forem.julialang.org/ndortega/oxygenjl-a-breath-of-fresh-air-for-programming-web-apps-in-julia-454d)) ([HN](https://news.ycombinator.com/item?id=31639788))
 - [HypertextLiteral.jl](https://github.com/JuliaPluto/HypertextLiteral.jl) - Julia library for the string interpolation of HTML and SVG.
 - [Pages.jl](https://github.com/EricForgy/Pages.jl) - Simple way to create and interact with web pages.
+- [Toolips.jl](https://github.com/ChifiSource/Toolips.jl) - Fast, asynchronous, low-memory, full-stack, and reactive web-development framework always written in pure Julia.
 
 ## Test
 

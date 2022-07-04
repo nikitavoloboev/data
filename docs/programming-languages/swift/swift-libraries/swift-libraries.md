@@ -269,6 +269,7 @@
 - [UIPiPView](https://github.com/uakihir0/UIPiPView) - UIView that is capable of Picture-in-Picture (PiP) in iOS.
 - [KeyboardToolbar](https://github.com/simonbs/KeyboardToolbar) - Add tools above your keyboard with iOS-like keyboard buttons.
 - [SwiftyProvisioningProfile](https://github.com/Sherlouk/SwiftProvisioningProfile) - Parse iOS mobile provisioning files into Swift models.
+- [Inkable](https://github.com/adamwulf/Inkable) - Improve working with Apple pencil.
 
 ## macOS
 
@@ -349,6 +350,10 @@
 - [URLEncoder](https://github.com/chriseidhof/URLCodable)
 - [curl-swift](https://github.com/khoi/curl-swift) - Opinionated libcurl wrapper for Swift.
 - [MicroClient](https://github.com/otaviocc/MicroClient) - Simple and lightweight network client.
+
+## GraphQL
+
+- [Pioneer](https://github.com/d-exclaimation/pioneer) - GraphQL for Vapor.
 
 ## WASM
 

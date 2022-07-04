@@ -560,3 +560,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Flowers for Algernon (1965)] | Hacker News](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf) ([HN](https://news.ycombinator.com/item?id=31875692))
 - [Generating Children’s Stories Using GPT-3 and DALL·E (2022)](https://www.surgehq.ai//blog/generating-childrens-stories-using-gpt-3-and-dall-e) ([HN](https://news.ycombinator.com/item?id=31915334))
 - [Pirate Library Mirror](http://pilimi.org/) - Preserving 7TB of books (that are not in Libgen). ([Intro](http://pilimi.org/blog-introducing.html)) ([HN](https://news.ycombinator.com/item?id=31970805))
+- [Which fictional universe would you rather live in? (2022)](https://www.reddit.com/r/scifi/comments/vqs0z8/which_fictional_universe_would_you_rather_live_in/)

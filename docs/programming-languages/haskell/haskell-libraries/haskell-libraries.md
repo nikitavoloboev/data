@@ -348,6 +348,7 @@
 - [Haskell Paddle](https://github.com/domenkozar/paddle) - Haskell API for Paddle payments.
 - [streaming](https://github.com/haskell-streaming/streaming) - Optimized general monad transformer for streaming applications, with a simple prelude of functions.
 - [text-show](https://github.com/RyanGlScott/text-show) - Efficient conversion of values into Text.
+- [k3](https://github.com/awkward-squad/ki) - Lightweight structured-concurrency library.
 
 ## Notes
 

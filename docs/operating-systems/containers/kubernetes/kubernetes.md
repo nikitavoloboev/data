@@ -770,3 +770,5 @@ title: Kubernetes
 - [OpenELB](https://openelb.io/) - Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization. ([Code](https://github.com/openelb/openelb))
 - [Ask HN: What is your Kubernetes nightmare? (2022)](https://news.ycombinator.com/item?id=31892384)
 - [Paralus](https://github.com/paralus/paralus) - All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.
+- [HTPC powered by k3s](https://github.com/fabito/htk8s)
+- [Managing Kubernetes without loosing your cool (2022)](https://marcusnoble.co.uk/2022-07-04-managing-kubernetes-without-loosing-your-cool/)

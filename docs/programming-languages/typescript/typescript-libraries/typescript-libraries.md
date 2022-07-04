@@ -559,6 +559,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Tinkoff Utils](https://github.com/Tinkoff/utils.js) - Fast, small and purely functional utility library.
 - [lexure](https://github.com/1Computer1/lexure) - Parser and utilities for non-technical user input.
 - [fn.obs](https://github.com/mihar-22/fn-obs) - Tiny (750B minzipped) library for creating reactive observables via functions.
+- [fastest-levenshtein](https://github.com/ka-weihe/fastest-levenshtein) - Fastest implementation of Levenshtein distance in JS/TS.
 
 ## Links
 
@@ -640,3 +641,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [typescript-type-def](https://github.com/dbeckwith/rust-typescript-type-def) - Generate TypeScript type definitions for Rust types.
 - [Levitate](https://github.com/grafana/levitate) - Tool for helping to understand APIs exported and consumed by NPM packages (or any TypeScript code).
 - [pkg-exports](https://github.com/antfu/pkg-exports) - Get exports of an local npm package.
+- [remark-typescript-tools](https://github.com/phryneas/remark-typescript-tools) - Two remark plugins to use TypeScript code with remark, to generate better documentation.

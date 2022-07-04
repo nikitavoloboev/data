@@ -203,7 +203,7 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [hasql-queue](https://github.com/jfischoff/hasql-queue) - Module that utilizes PostgreSQL to implement a durable queue for efficently processing payloads. ([Introducing hasql-queue](http://jfischoff.github.io/blog/introducing-hasql-queue.html))
 - [tmp-postgres](https://github.com/jfischoff/tmp-postgres) - Create temporary postgres instances. ([Keeping Database Tests Fast with `tmp-postgres`](http://jfischoff.github.io/blog/keeping-database-tests-fast.html)) ([Faster Database Testing with the New `tmp-postgres`](http://jfischoff.github.io/blog/faster-database-testing.html))
 - [DbSchema](https://github.com/db-schema/core) - Opinionated database schema management tool that lets you maintain your DB schema with a single ruby file.
-- [Apache Age](https://github.com/bitnine-oss/AgensGraph-Extension) - Graph Extension for PostgreSQL. ([Web](https://age.apache.org/)) ([HN](https://news.ycombinator.com/item?id=26345755))
+- [Apache Age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL. ([Web](https://age.apache.org/)) ([HN](https://news.ycombinator.com/item?id=26345755))
 - [Bucardo.org](https://bucardo.org/) - PostgreSQL tools for Replication, Monitoring, and Productivity.
 - [Re-Introducing Hash Indexes in PostgreSQL (2021)](https://hakibenita.com/postgresql-hash-index)
 - [postgresql-hll](https://github.com/citusdata/postgresql-hll) - PostgreSQL extension adding HyperLogLog data structures as a native data type.
@@ -534,3 +534,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Citus data SIGMOD white paper notes (2022)](https://viggy28.dev/article/my-notes-on-citus-data/)
 - [Dashibase](https://dashibase.com/) - No-code dashboards with Supabase. ([Insert](https://dashibase.com/insert)) ([Insert Code](https://github.com/Dashibase/dashibase-insert)) ([Code](https://github.com/Dashibase/dashibase))
 - [pgenv](https://github.com/theory/pgenv) - PostgreSQL binary manager.
+- [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for the Mac.

@@ -554,3 +554,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Improve Git monorepo performance with a file system monitor (2022)](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/) ([HN](https://news.ycombinator.com/item?id=31924554))
 - [Things I wish everyone knew about Git (2022)](https://blog.plover.com/2022/06/29/) ([HN](https://news.ycombinator.com/item?id=31923429))
 - [agec](https://github.com/aca/agec) - Store, manage and share secrets in git repository based on age.
+- [Git Grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.

@@ -169,6 +169,7 @@
 - [hyper-reverse-proxy](https://github.com/felipenoris/hyper-reverse-proxy) - Simple reverse proxy for use with Hyper and Tokio.
 - [Samael](https://github.com/njaremko/samael) - SAML2 library for Rust.
 - [ructe](https://github.com/kaj/ructe) - Rust Compiled Templates with static-file handling.
+- [backon](https://github.com/Xuanwo/backon) - Retry futures in backoff without effort.
 
 ## WASM
 
@@ -2006,6 +2007,8 @@
 - [tributary-rs](https://github.com/streamlet-dev/tributary-rs) - Streaming reactive and dataflow graphs in Rust.
 - [Rust-HyperLogLog](https://github.com/jedisct1/rust-hyperloglog) - HyperLogLog implementation in Rust, with bias correction.
 - [toml-cfg](https://github.com/jamesmunns/toml-cfg) - Procedural macro for configuring constant values across crates.
+- [bitpacking](https://github.com/quickwit-oss/bitpacking) - SIMD algorithms for integer compression via bitpacking. This crate is a port of a C library called simdcomp.
+- [metaheuristics-nature](https://github.com/KmolYuan/metaheuristics-nature-rs) - Collection of nature-inspired meta-heuristic algorithms.
 
 ## Cargo Plugins
 
@@ -2232,3 +2235,4 @@
 - [time_it: a Case Study in Rust Macros](https://notes.iveselov.info/programming/time_it-a-case-study-in-rust-macros) ([Lobsters](https://lobste.rs/s/oigsld/time_it_case_study_rust_macros))
 - [(Ab)using Rust traits to write silly things (2022)](https://ihatereality.space/08-abusing-rust-traits-to-write-silly-things/)
 - [Making a Rust crate compile faster (2022)](https://www.youtube.com/watch?v=pMiqRM5ooNw) ([Reddit](https://www.reddit.com/r/rust/comments/vph52i/making_a_rust_crate_compile_faster_video/))
+- [rust-demangle.c](https://github.com/LykenSol/rust-demangle.c) - C port of the Rust symbol demangler.

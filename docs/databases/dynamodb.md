@@ -96,3 +96,4 @@ title: DynamoDB
 - [dynamodb_lock](https://crates.io/crates/dynamodb_lock) - Distributed lock backed by DynamoDB.
 - [Amazon DynamoDB Design Patterns](https://github.com/aws-samples/amazon-dynamodb-design-patterns)
 - [How to ensure cross-region data integrity with Amazon DynamoDB global tables (2022)](https://www.stedi.com/blog/how-to-ensure-cross-region-data-integrity-with-amazon-dynamodb-global-tables)
+- [Serverless Go Demo](https://github.com/aws-samples/serverless-go-demo) - Consists of an API Gateway backed by four Lambda functions and a DynamoDB table for storage.

@@ -331,3 +331,5 @@ title: WebAssembly
 - [wasmedge-bindgen](https://github.com/second-state/wasmedge-bindgen) - Let WebAssembly's exported function support more data types for its parameters and return values.
 - [A fast in-place interpreter for WebAssembly (2022)](https://arxiv.org/abs/2205.01183)
 - [Virgil](https://github.com/titzer/virgil) - Fast and lightweight programming language that compiles to WASM. ([HN](https://news.ycombinator.com/item?id=31954053))
+- [Wacko](https://github.com/MierenManz/wacko) - WebAssembly Compiler.
+- [Brian Sletten: The Whole WebAssembly Enchilada (2022)](https://www.youtube.com/watch?v=J3hK7O5Oc2Y)

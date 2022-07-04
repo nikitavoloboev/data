@@ -1,6 +1,6 @@
 # Authentication
 
-[Biscuit](https://www.biscuitsec.org/) & [Hanko](https://www.hanko.io/) seem neat.
+[Passkeys](https://developer.apple.com/passkeys/), [Biscuit](https://www.biscuitsec.org/) & [Hanko](https://www.hanko.io/) seem neat.
 
 ## Notes
 
@@ -243,3 +243,5 @@
 - [Ask HN: What do you use to build auth? (2022)](https://news.ycombinator.com/item?id=31919548)
 - [Why Passkeys Will Be Simpler and More Secure Than Passwords (2022)](https://tidbits.com/2022/06/27/why-passkeys-will-be-simpler-and-more-secure-than-passwords/)
 - [Awesome IAM](https://github.com/kdeldycke/awesome-iam)
+- [OAuth2 client for Node and browsers](https://github.com/badgateway/oauth2-client)
+- [Passkeys (2022)](https://www.imperialviolet.org/2022/07/04/passkeys.html)

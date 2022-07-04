@@ -74,3 +74,4 @@ I like the real time aspect of Firebase but not sure how well it can scale for m
 - [Firekiq](https://github.com/dahal/firekiq) - Sidekiq alternative with Firebase Functions.
 - [Python Client for Google Cloud Firestore](https://github.com/googleapis/python-firestore)
 - [Fireschema](https://github.com/yarnaimo/fireschema) - Strongly typed Firestore framework for TypeScript.
+- [Nhost](https://nhost.io/) - Open Source Firebase Alternative with GraphQL. ([HN](https://news.ycombinator.com/item?id=24929732)) ([Code](https://github.com/nhost/nhost)) ([CLI](https://github.com/nhost/cli))

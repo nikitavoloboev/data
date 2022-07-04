@@ -15,7 +15,7 @@ title: ActivityPub
 - [Guide for new ActivityPub implementers (2020)](https://socialhub.activitypub.rocks/t/guide-for-new-activitypub-implementers/479)
 - [Epicyon](https://epicyon.net/) - ActivityPub protocol compliant federated social network server.
 - [Lemmy](https://join-lemmy.org/) - Link aggregator for the fediverse. Alternative to Reddit. ([Code](https://github.com/LemmyNet/lemmy)) ([HN](https://news.ycombinator.com/item?id=23664067)) ([Communities](https://dev.lemmy.ml/communities)) ([Lemmy UI code](https://github.com/LemmyNet/lemmy-ui)) ([HN](https://news.ycombinator.com/item?id=28453165)) ([HN](https://news.ycombinator.com/item?id=29266003)) ([HN](https://news.ycombinator.com/item?id=31712332))
-- [ForgeFed](https://github.com/forgefed/forgefed) - Extension to ActivityPub for web-based Git services federation.
+- [ForgeFed](https://github.com/forgefed/forgefed) - Extension to ActivityPub for web-based Git services federation. ([Web](https://forgefed.org/)) ([Lobsters](https://lobste.rs/s/2dpmxy/forgefed_federation_protocol_for))
 - [ActivityPub spec](https://w3c.github.io/activitypub/) ([Code](https://github.com/w3c/activitypub))
 - [Issues with ActivityPub (2020)](https://lobste.rs/s/ig0vsd/ask_does_lobster_have_any_plan_join#c_p6gfj9)
 - [Fediverse in 2020](https://fediverse.party/en/post/fediverse-in-2020) ([HN](https://news.ycombinator.com/item?id=25849533))
@@ -39,3 +39,4 @@ title: ActivityPub
 - [Activitypub-Federation](https://github.com/LemmyNet/activitypub-federation-rust) - High-level framework for ActivityPub federation in Rust, extracted from Lemmy.
 - [Littr](https://littr.me/) - Link aggregator inspired by Reddit and HN using ActivityPub federation. ([HN](https://news.ycombinator.com/item?id=31785966))
 - [Presenting Activitypub-Rust crate from Lemmy](https://lemmy.ml/post/341718)
+- [openEngiadina: From ActivityPub to XMPP (2021)](https://inqlab.net/2021-11-12-openengiadina-from-activitypub-to-xmpp.html)

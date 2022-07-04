@@ -434,3 +434,5 @@
 - [Ask HN: Does anybody still use bookmarking services? (2022)](https://news.ycombinator.com/item?id=31848210)
 - [Webmention Spec](https://www.w3.org/TR/webmention/) - Simple way to notify any URL when you mention it on your site.
 - [SPAs: theory versus practice (2022)](https://nolanlawson.com/2022/06/27/spas-theory-versus-practice/) ([HN](https://news.ycombinator.com/item?id=31896769))
+- [Web Platform Tests RFCs](https://github.com/web-platform-tests/rfcs)
+- [RNA](https://github.com/chialab/rna) - Bundler, a server and a test runner for modern modules and applications.

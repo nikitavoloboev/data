@@ -159,3 +159,4 @@
 - [Good books on statistics (2022)](https://www.reddit.com/r/statistics/comments/u8quta/education_i_am_looking_for_good_books_on/)
 - [rethinking](https://github.com/rmcelreath/rethinking) - Statistical Rethinking course and book package.
 - [Topics In Modern Statistical Learning (UPenn, 2022 Spring)](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning)
+- [Kelly criterion - Wikipedia](https://en.wikipedia.org/wiki/Kelly_criterion)

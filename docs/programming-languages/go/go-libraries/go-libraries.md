@@ -140,6 +140,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [cover](https://github.com/nikandfor/cover) - Go cover tool for maximum productivity.
 - [testcase](https://github.com/adamluzsi/testcase) - Opinionated testing framework based on BDD principles.
 - [gotestlist](https://github.com/crazy-max/gotestlist) - List tests in the given Go packages.
+- [rpctestgen](https://github.com/lightclient/rpctestgen) - Test fixture generator for the execution layer JSON-RPC API.
 
 ## Web
 
@@ -1841,3 +1842,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gody](https://github.com/guiferpa/gody) - Lightweight struct validator for Go.
 - [selfupdate](https://github.com/minio/selfupdate) - Build self-updating Go programs.
 - [Test parallelization in Go: Understanding the t.Parallel() method (2022)](https://engineering.mercari.com/en/blog/entry/20220408-how_to_use_t_parallel/)
+- [Nicer struct literals in Go templates (2022)](https://commaok.xyz/post/tstruct/)

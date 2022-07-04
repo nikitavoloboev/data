@@ -241,3 +241,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [The Case for Design Engineers (2022)](https://blog.jim-nielsen.com/2022/the-case-for-design-engineers/)
 - [The Ones by CW&T](http://theones.cwandt.com/)
 - [What are the most common mistakes developers make when implementing designs you hand off?](https://twitter.com/steveschoger/status/1542528755951861762)
+- [Open Design](https://opendesign.dev/) - Read and display data from designs. Using code. ([SDK Code](https://github.com/opendesigndev/open-design-sdk))

@@ -81,3 +81,5 @@
 - [Parents’ trauma leaves biological traces in children (2022)](https://www.scientificamerican.com/article/how-parents-rsquo-trauma-leaves-biological-traces-in-children/) ([HN](https://news.ycombinator.com/item?id=31793682))
 - [Suggest me a book that will convince me to change my mind about having children](https://www.reddit.com/r/suggestmeabook/comments/vho0x6/please_suggest_me_a_book_that_will_convince_me_to/)
 - [Ask HN: What's the biggest problem you face as a parent? (2022)](https://news.ycombinator.com/item?id=31913454)
+- [Ask HN: How to keep my daughter busy while tickling her curiosity (2022)](https://news.ycombinator.com/item?id=31965616)
+- [Ask HN: First-time dad-to-be. What do you wish you'd known back then? (2022)](https://news.ycombinator.com/item?id=31976803)

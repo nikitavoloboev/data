@@ -326,3 +326,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Max's neovim config](https://github.com/max397574/NeovimConfig)
 - [SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) - Neovim Lua plugin providing access to the SchemaStore catalog.
 - [Volt](https://github.com/vim-volt/volt) - Meta-level vim package manager.
+- [tasks.nvim](https://github.com/GustavoKatel/tasks.nvim) - Task runner/manager for Neovim.

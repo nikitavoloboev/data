@@ -174,7 +174,7 @@
 - [googler](https://github.com/jarun/googler) - Google from the terminal.
 - [DuckDuckGo as a TTY](https://duckduckgo.com/tty/) ([HN](https://news.ycombinator.com/item?id=28938265))
 - [Recoll](https://www.lesbonscomptes.com/recoll/) - Desktop full-text search tool. ([HN](https://news.ycombinator.com/item?id=28950947))
-- [Qdrant](https://qdrant.tech/) - Vector Search Engine. ([Code](https://github.com/qdrant/qdrant))
+- [Qdrant](https://qdrant.tech/) - Vector Search Engine. ([Code](https://github.com/qdrant/qdrant)) ([GitHub](https://github.com/qdrant)) ([Twitter](https://twitter.com/qdrant_engine))
 - [Trie in JavaScript: the data structure behind autocomplete (2021)](https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete) ([HN](https://news.ycombinator.com/item?id=29078919))
 - [We need more boutique search engines (2021)](https://sariazout.mirror.xyz/7gSSTJ96SEyvXeljymglO3zN4H6DCgVnrNZq8_2NX1A) ([HN](https://news.ycombinator.com/item?id=29130017))
 - [liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser and search engine.
@@ -245,3 +245,4 @@
 - [Brave Search Goggles](https://github.com/brave/goggles-quickstart) - Alter search rankings with rules and filters. ([HN](https://news.ycombinator.com/item?id=31837986))
 - [Awesome Hacker Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines)
 - [Similari](https://github.com/insight-platform/Similari) - In-memory similarity search engine with parallellized data processing.
+- [SearXNG](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. ([Docs](https://docs.searxng.org/))

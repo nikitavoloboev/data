@@ -8,7 +8,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 
 ## Example sites
 
-- [NextJS + tRPC + TailwindCSS + TS + Prisma + NextAuth](https://github.com/nexxeln/create-t3-app)
+- [NextJS + tRPC + TailwindCSS + TS + Prisma + NextAuth](https://github.com/t3-oss/create-t3-app)
 - [NextJS, Tailwind, TRPC, Prisma, and NextAuth Starter](https://github.com/copleykj/NextJS-Ultimate-Starter)
 - [Next.js Commerce starter kit](https://nextjs.org/commerce)
 - [NextJS full stack starter](https://github.com/SaraVieira/next-fullstack-starter)

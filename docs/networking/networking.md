@@ -495,3 +495,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Terabit Ethernet - Wikipedia](https://en.wikipedia.org/wiki/Terabit_Ethernet)
 - [Retina](https://github.com/stanford-esrg/retina) - Network analysis framework that supports 100+ Gbps traffic analysis on a single server with no specialized hardware.
 - [Spring '83](https://github.com/robinsloan/spring-83) - Speculative new protocol.
+- [TraceVis](https://github.com/wikicensorship/tracevis) - Traceroute with any packet. Visualize the routes. Discover Middleboxes and Firewalls.
+- [Skupper](https://github.com/skupperproject/skupper) - Enables cloud communication by enabling you to create a Virtual Application Network.

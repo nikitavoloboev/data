@@ -247,7 +247,6 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 
 ## Tools
 
-- [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for the Mac.
 - [TablePlus](https://tableplus.com/) - Modern, native, and friendly GUI tool for relational databases. ([HN](https://news.ycombinator.com/item?id=22908224)) ([Issues](https://github.com/TablePlus/TablePlus))
 - [SQLiteStudio](https://github.com/pawelsalawa/sqlitestudio) - Free, open source, multi-platform SQLite database manager.
 - [litecli](https://github.com/dbcli/litecli) - Command-line client for SQLite databases that has auto-completion and syntax highlighting.
@@ -307,6 +306,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Antares SQL](https://antares-sql.app/) - Modern, fast and productivity driven SQL client with a focus in UX. ([Code](https://github.com/antares-sql/antares))
 - [Jugglr](https://github.com/oslabs-beta/Jugglr) - Test data management tool that enables reliable testing with a Docker containerized database.
 - [data-diff](https://github.com/datafold/data-diff) - Efficiently diff rows across two different databases.
+- [Malewicz](https://github.com/mgramin/malewicz) - Hackable GUI SQL-manager written in SQL itself.
 
 ## Notes
 

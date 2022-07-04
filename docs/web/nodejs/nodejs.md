@@ -405,3 +405,4 @@ title: Node.js
 - [QuickReader](https://github.com/EtherDream/QuickReader) - Ultra-high performance stream reader for browser and Node.js.
 - [kleur](https://github.com/lukeed/kleur) - Fastest Node.js library for formatting terminal text with ANSI colors.
 - [Working with the file system on Node.js (2022)](https://2ality.com/2022/06/nodejs-file-system.html)
+- [Snowflake-UUID](https://github.com/rakheyl/snowflake-uuid) - Twitter's Snowflake generator for NodeJS.

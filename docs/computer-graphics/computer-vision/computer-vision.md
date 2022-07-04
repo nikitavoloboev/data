@@ -832,3 +832,5 @@
 - [Reliable Visual Question Answering: Abstain Rather Than Answer Incorrectly (2022)](https://arxiv.org/abs/2204.13631) ([Code](https://github.com/facebookresearch/reliable_vqa))
 - [EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications (2022)](https://arxiv.org/abs/2206.10589) ([Code](https://github.com/mmaaz60/EdgeNeXt))
 - [Awesome Visual Diffusion Models](https://github.com/Xiefan-Guo/Awesome-Visual-Diffusion-Models)
+- [Vision Transformer Adapter for Dense Predictions (2022)](https://arxiv.org/abs/2205.08534) ([Code](https://github.com/czczup/ViT-Adapter))
+- [Activating More Pixels in Image Super-Resolution Transformer (2022)](https://arxiv.org/abs/2205.04437) ([Code](https://github.com/XPixelGroup/HAT))

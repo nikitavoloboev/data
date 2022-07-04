@@ -558,3 +558,5 @@ title: Linux
 - [rdb](https://github.com/tchajed/rdb) - Linux debugger written in Rust.
 - [Dismember](https://github.com/liamg/dismember) - Command-line toolkit for Linux that can be used to scan the memory of all processes.
 - [Live-patching security vulnerabilities inside the Linux kernel with eBPF Linux Security Module (2022)](https://blog.cloudflare.com/live-patch-security-vulnerabilities-with-ebpf-lsm/)
+- [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux.
+- [A Journey into the Linux Scheduler (2022)](https://blog.maxgio.me/posts/linux-scheduler-journey/) ([HN](https://news.ycombinator.com/item?id=31975901))

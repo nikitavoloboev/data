@@ -148,3 +148,4 @@
 - [Awesome Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing)
 - [“Don’t Mock What You Don’t Own” in 5 Minutes (2022)](https://hynek.me/articles/what-to-mock-in-5-mins/)
 - [Ask HN: Do you load test your applications? If so, how? (2022)](https://news.ycombinator.com/item?id=31912525)
+- [Unit and Integration Tests (2022)](https://matklad.github.io//2022/07/04/unit-and-integration-tests.html) ([Lobsters](https://lobste.rs/s/0behmc/unit_integration_tests))

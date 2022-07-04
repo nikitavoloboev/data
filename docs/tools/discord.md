@@ -63,6 +63,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 
 ## Libraries
 
+- [Cordless](https://github.com/TomerRon/cordless) - Declarative Discord bot framework. Build your first bot in 5 minutes with 3 lines of code.
 - [Discordeno](https://github.com/discordeno/discordeno) - Discord API library for Deno.
 - [Slshx](https://github.com/mrbbot/slshx) - Strongly-typed Discord commands on Cloudflare Workers.
 - [Harmony](https://github.com/harmonyland/harmony) - Easy to use Discord API Library for Deno.
@@ -174,3 +175,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Discord Previews](https://discordpreviews.com/) - Your #1 source for the latest Discord news. ([Code](https://github.com/NurMarvin/discordpreviews.com))
 - [Discord Resources](https://discordresources.com/) - Constantly updated list of the most useful Discord Resources. ([Code](https://github.com/Discord-Resources-Wiki/Discord-Resources-Wiki))
 - [Discord Welcome Action](https://github.com/lolPants/discord-welcome-action) - Action to keep channel content in-sync with Markdown based templates.
+- [Google Form to Discord](https://github.com/Iku/Google-Forms-to-Discord) - Quick way to automatically send Google Form responses to a Discord channel.

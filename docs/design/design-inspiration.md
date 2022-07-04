@@ -385,6 +385,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [David Wells](https://davidwells.io/) ([Code](https://github.com/DavidWells/davidwells.io))
 - [Hoang Vo](https://hoangvvo.com/)
 - [Will Boyd](https://codersblock.com/)
+- [Krijn Rijshouwer](https://www.krijnrijshouwer.com/)
 - [Fabian Fett](https://fabianfett.de/)
 - [Louie Mantia](http://louiemantia.com/)
 - [Unai Mengual](https://owln.ai/)
