@@ -2,6 +2,8 @@
 
 [Equals](https://equals.app/), [Tably](https://tably.com/), [DataStation](https://datastation.multiprocess.io/), [Datasette](https://datasette.io/) are neat. Want to learn [Numpy](../programming-languages/python/python-libraries/numpy.md) and [scikit-learn](https://scikit-learn.org/stable/) libraries more.
 
+[Python for Data Analysis](https://wesmckinney.com/book/) is a good read.
+
 ## Notes
 
 - [If you can solve a problem with a simple heuristic, do that. Sometimes you don't need machine learning.](https://www.reddit.com/r/datascience/comments/8ljwo8/what_is_surprisingly_useful_to_know_as_a_data/)
@@ -230,7 +232,7 @@
 - [Data Science from Scratch Book](https://github.com/joelgrus/data-science-from-scratch)
 - [Corteza](https://cortezaproject.org/) - Open-source Low-Code Platform and Salesforce alternative. ([GitHub](https://github.com/cortezaproject)) ([Server Code](https://github.com/cortezaproject/corteza-server))
 - [Learning From Data - Online Course](https://home.work.caltech.edu/telecourse.html) ([Code](https://github.com/niuers/Learning-From-Data-A-Short-Course)) ([Solutions](https://github.com/ppaquay/Learning-from-Data-Solutions))
-- [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+- [Python for Data Analysis](https://wesmckinney.com/book/) ([HN](https://news.ycombinator.com/item?id=31957908))
 - [Guess the daily Wordle in one try using the tweet distribution (2022)](https://www.kaggle.com/benhamner/wordle-1-6) ([HN](https://news.ycombinator.com/item?id=30101456))
 - [Kedro-Viz](https://github.com/kedro-org/kedro-viz) - Visualise your Kedro data pipelines.
 - [Datasette Desktop for macOS](https://datasette.io/desktop) ([Code](https://github.com/simonw/datasette-app))

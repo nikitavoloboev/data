@@ -1840,3 +1840,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Makego](https://github.com/bufbuild/makego) - Makefile setup for our Go projects.
 - [gody](https://github.com/guiferpa/gody) - Lightweight struct validator for Go.
 - [selfupdate](https://github.com/minio/selfupdate) - Build self-updating Go programs.
+- [Test parallelization in Go: Understanding the t.Parallel() method (2022)](https://engineering.mercari.com/en/blog/entry/20220408-how_to_use_t_parallel/)

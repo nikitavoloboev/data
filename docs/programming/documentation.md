@@ -193,3 +193,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [How do do docs for your projects?](https://twitter.com/DavidKPiano/status/1541397415516831744)
 - [Identifying content gaps in our documentation](https://blog.cloudflare.com/identifying-content-gaps/)
 - [An engineer’s tips for writing documentation devs love (2022)](https://thenewstack.io/an-engineers-best-tips-for-writing-documentation-devs-love/) ([HN](https://news.ycombinator.com/item?id=31945863))
+- [Keep calm and use the runbook](https://www.cortex.io/post/keep-calm-and-use-the-runbook) ([HN](https://news.ycombinator.com/item?id=31973859))

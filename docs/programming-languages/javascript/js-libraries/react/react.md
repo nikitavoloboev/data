@@ -48,6 +48,7 @@ Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for a
 - [JSX has a syntax to support generics.](https://twitter.com/0xca0a/status/1386435628737335296)
 - [Make your React app feel faster: use the onMouseDown event handler instead of onClick. Only do it for non destructive things (like tabs).](https://twitter.com/auchenberg/status/1503491230876897282)
 - [React unfortunately doesn’t have runtime fast paths that the compiler can generate fast code for.](https://twitter.com/AdamRackis/status/1524763878034448392)
+- [React devs: if your app logic is super simple and only requires fetching + displaying data (CRUD), the only state management you really need is React Query + maybe useState. Consider state management libraries when the logic gets more exciting than that.](https://twitter.com/DavidKPiano/status/1543623610249748480)
 
 ## Links
 

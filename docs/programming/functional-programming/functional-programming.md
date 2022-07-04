@@ -53,7 +53,7 @@
 - [Algebraic structures: things i wish someone had explained about functional programming (2019)](https://jrsinclair.com/articles/2019/algebraic-structures-what-i-wish-someone-had-explained-about-functional-programming/) ([HN](https://news.ycombinator.com/item?id=21440932))
 - [MLKit](https://github.com/melsman/mlkit) - Standard ML Compiler and Toolkit.
 - [ICFP 2019 preprints/papers](https://github.com/llelf/icfp2019-papers)
-- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ([HN](https://news.ycombinator.com/item?id=31944352))
 - [A Glossary of Functional Programming](http://degoes.net/articles/fp-glossary)
 - [Functional programming design patterns by Scott Wlaschin (2014)](https://www.youtube.com/watch?v=E8I19uA-wGY)
 - [PhD Abstracts for functional programming (2020)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F66CECFC31BDB7D2790F39DE25426EEA/S0956796819000200a.pdf/phd_abstracts.pdf)

@@ -559,4 +559,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Python3 script to download archive.org books in PDF format.
 - [Flowers for Algernon (1965)] | Hacker News](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf) ([HN](https://news.ycombinator.com/item?id=31875692))
 - [Generating Children’s Stories Using GPT-3 and DALL·E (2022)](https://www.surgehq.ai//blog/generating-childrens-stories-using-gpt-3-and-dall-e) ([HN](https://news.ycombinator.com/item?id=31915334))
-- [Pirate Library Mirror](http://pilimi.org/) - Preserving 7TB of books (that are not in Libgen). ([Intro](http://pilimi.org/blog-introducing.html))
+- [Pirate Library Mirror](http://pilimi.org/) - Preserving 7TB of books (that are not in Libgen). ([Intro](http://pilimi.org/blog-introducing.html)) ([HN](https://news.ycombinator.com/item?id=31970805))

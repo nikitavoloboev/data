@@ -86,3 +86,4 @@ title: Chemistry
 - [xtb](https://github.com/grimme-lab/xtb) - Semiempirical Extended Tight-Binding Program Package.
 - [PENSA](https://github.com/drorlab/pensa) - Protein Ensemble Analysis.
 - [Torsional Diffusion for Molecular Conformer Generation (2022)](https://arxiv.org/abs/2206.01729) ([Code](https://github.com/gcorso/torsional-diffusion))
+- [Recreating one of the weirdest reactions](https://www.youtube.com/watch?v=LL3kVtc-4vY)

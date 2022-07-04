@@ -274,3 +274,4 @@ Hi<div>oh no break</div>
 - [hast-util-from-html](https://github.com/syntax-tree/hast-util-from-html) - hast utility that turns HTML into a syntax tree.
 - [Media Element Syncer](https://github.com/tjenkinson/media-element-syncer) - Synchronize two or more HTML5 media elements.
 - [tabbable](https://github.com/focus-trap/tabbable) - Find descendants of a DOM node that are in the tab order.
+- [Two levels of customising \<selectmenu\> (2022)](https://hidde.blog/custom-select-with-selectmenu/)

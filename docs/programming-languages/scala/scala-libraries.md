@@ -203,3 +203,4 @@
 - [typelevel-nix](https://github.com/typelevel/typelevel-nix) - Development tools for Typelevel projects.
 - [Demos for ScalablyTyped](https://github.com/ScalablyTyped/Demos)
 - [scala-interactive-update](https://github.com/kitlangton/scala-interactive-update) - Update your Scala dependencies (both libraries and plugins) interactively.
+- [Getting Started with Scala.js and Vite | Let´s talk about Scala 3 (2022)](https://www.youtube.com/watch?v=dv7fPmgFTNA)

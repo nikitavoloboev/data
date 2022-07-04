@@ -645,3 +645,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [GeoPub: A Multi-Model Database (2022)](https://inqlab.net/2022-07-01-geopub-a-multi-model-database.html)
 - [DBPack](https://github.com/CECTC/dbpack) - DB proxy for distributed transaction, read write splitting and sharding! Support any language! It can be deployed as a sidecar in a pod.
 - [Arana](https://github.com/arana-db/arana) - Cloud Native Database Proxy. It can also be deployed as a Database mesh sidecar.
+- [GitLab is splitting database into Main and CI (2022)](https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/) ([HN](https://news.ycombinator.com/item?id=31956871))

@@ -639,3 +639,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Enclave: An Unpickable Lock](https://ominoushum.com/lock/) ([HN](https://news.ycombinator.com/item?id=31880108))
 - [Ask HN: How do I earn a small amount of money to sustain myself as a developer? (2022)](https://news.ycombinator.com/item?id=31908797)
 - [H I Sutton - YouTube](https://www.youtube.com/c/HISuttonCovertShores/videos)
+- [HN Notify.xyz](https://hnnotify.xyz/) - Subscribe to Your Hacker News Feed. ([HN](https://news.ycombinator.com/item?id=31970303))
