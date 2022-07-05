@@ -270,3 +270,5 @@
 - [Citybound – A city building game using actor-based distributed simulation](https://aeplay.org/citybound) ([HN](https://news.ycombinator.com/item?id=31794872))
 - [LinuxGSM](https://linuxgsm.com/) - Command-line tool for quick, simple deployment and management of Linux dedicated game servers. ([Code](https://github.com/GameServerManagers/LinuxGSM))
 - [Tiger](https://github.com/agersant/tiger) - Graphical tool for generating spritesheets and metadata about the animation and hitboxes they contain.
+- [What is the most fun game mechanic that you have ever played that you think you can also implement?](https://www.reddit.com/r/gamedev/comments/vrnt26/what_is_the_most_fun_game_mechanic_that_you_have/)
+- [Tantan - YouTube](https://www.youtube.com/c/Tantandev/videos) ([GitHub](https://github.com/TanTanDev))

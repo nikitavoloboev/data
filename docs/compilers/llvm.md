@@ -129,3 +129,4 @@ title: LLVM
 - [Caffeine](https://github.com/insufficiently-caffeinated/caffeine) - Symbolic execution engine that interprets LLVM IR.
 - [Clang IR (CIR): New IR for Clang](https://facebookincubator.github.io/clangir/) ([HN](https://news.ycombinator.com/item?id=31904624)) ([Lobsters](https://lobste.rs/s/sbiat6/clang_ir_cir_new_ir_for_clang))
 - [LLVM/SPIR-V Bi-Directional Translator](https://github.com/KhronosGroup/SPIRV-LLVM-Translator)
+- [Lazification of Function Arguments](https://github.com/lac-dcc/wyvern) - Automatic conversion of call by value into call by need in the LLVM IR.

@@ -100,3 +100,4 @@ title: Agda
 - [Linear.agda](https://github.com/metaborg/linear.agda) - Agda library for programming with separation logic, based on proof-relevant separation algebras.
 - [Review: A Very Elementary Introduction to Sheaves](https://reasonablypolymorphic.com/blog/sheafs/index.html)
 - [serre-finiteness](https://github.com/CMU-HoTT/serre-finiteness)
+- [Vehicle Formalization](https://github.com/vehicle-lang/vehicle-formalisation) - Agda formalization of a core subset of the Vehicle language and a normalization procedure from the higher order language.

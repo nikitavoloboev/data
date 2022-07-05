@@ -317,6 +317,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Ask HN: What are the best short tech/engineering books you have read? (2022)](https://news.ycombinator.com/item?id=31713756)
 - [What are the scariest books you’ve ever read, ones that genuinely scared you?](https://www.reddit.com/r/suggestmeabook/comments/vk5mky/what_are_the_scariest_books_youve_ever_read_ones/)
 - [Ask HN: Which book would you pick to re-read for the rest of your life? (2022)](https://news.ycombinator.com/item?id=31968169)
+- [Books where the character goes insane with power](https://www.reddit.com/r/Fantasy/comments/vr5347/im_looking_for_a_book_where_the_character_goes/)
 
 ## Interesting Prose Books
 

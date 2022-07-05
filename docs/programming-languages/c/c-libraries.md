@@ -36,7 +36,7 @@
 - [TinyGL](https://github.com/C-Chads/tinygl) - Penultimate portable graphics library.
 - [raygui](https://github.com/raysan5/raygui) - Simple and easy-to-use immediate-mode GUI library. ([HN](https://news.ycombinator.com/item?id=30813000))
 - [Ferox](https://github.com/c-krit/ferox) - Lightweight 2D collision detection and physics library written in C.
-- [gk](https://github.com/recp/gk) -🎥 Graphics Kernel: flexible, highly configurable, extensible render engine (real time + offline).
+- [gk](https://github.com/recp/gk) - Graphics Kernel: flexible, highly configurable, extensible render engine (real time + offline).
 - [AssetKit](https://github.com/recp/AssetKit) - Modern 2D/3D - Importer • Exporter • Util - Library.
 
 ## Test
@@ -160,3 +160,4 @@
 - [Rax](https://github.com/antirez/rax) - ANSI C radix tree implementation.
 - [libhelper](https://github.com/h3adshotzz/libhelper) - Library for parsing Image4 and Mach-O formats, and working with Files and LZFSE/LZSS compression.
 - [Quiet](https://github.com/quiet/quiet) - Transmit data with sound. Includes binaries for soundcards and .wav files.
+- [SIMDComp](https://github.com/lemire/simdcomp) - Simple C library for compressing lists of integers using binary packing.

@@ -257,3 +257,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [HN: Advice in helping find a partner](https://news.ycombinator.com/item?id=31961992)
 - [Scenes from an Open Marriage (2022)](https://www.theparisreview.org/blog/2022/06/29/scenes-from-an-open-marriage/)
 - [Мы Расстались. Какими будут отношения через 10 лет: Тиндер, полиамория, одиночество в сети (2022)](https://www.youtube.com/watch?v=MZYb5JzQGE8)
+- [What did you learn from your first serious relationship Gents?](https://www.reddit.com/r/AskMen/comments/vrfgo0/what_did_you_learn_from_your_first_serious/)

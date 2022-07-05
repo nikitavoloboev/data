@@ -381,3 +381,4 @@
 - [What's the most difficult mathematical concept you've encountered and had to understand so far? (2022)](https://www.reddit.com/r/math/comments/vfc87g/whats_the_most_difficult_mathematical_concept/)
 - [Ask HN: How to learn mathematical proofs from scratch? (2022)](https://news.ycombinator.com/item?id=31800081)
 - [The Mathematical Universe - Max Tegmark (2007)](https://arxiv.org/abs/0704.0646)
+- [What was the most remarkable mathematical achievement of the past 50 years? (2022)](https://www.reddit.com/r/math/comments/vrmr5n/what_was_the_most_remarkable_mathematical/)

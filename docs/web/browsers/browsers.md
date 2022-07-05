@@ -237,3 +237,4 @@
 - [Using JavaScript to fill localStorage to its maximum capacity (2022)](https://mmazzarolo.com/blog/2022-06-26-filling-local-storage-programmatically/)
 - [Vite Plugin Web Extension](https://github.com/aklinker1/vite-plugin-web-extension) - Vite plugin for bundling Chrome/Browser Extensions.
 - [Web Extensions (sys)](https://github.com/web-extensions-rs/web-extensions-sys) - Rust library that provides WebExtension API WASM bindings.
+- [Ladybird Web Browser](https://github.com/awesomekling/ladybird) - Browser using the SerenityOS LibWeb engine with a Qt GUI.

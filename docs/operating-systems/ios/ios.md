@@ -127,6 +127,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Pegboard](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor) - Creative workspace with node-based editor built-in. Purely written in SwiftUI.
 - [Hour Blocks](https://github.com/jtsaeed/Hour-Blocks) - Effortlessly take control of your day with Hour Blocks: Day Planner for iOS and macOS.
 - [Life Progress](https://github.com/tienphaw/LifeProgress) - Friendly reminder that you're not gonna live forever.
+- [Yattee](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS, macOS and tvOS.
 
 ## Other
 

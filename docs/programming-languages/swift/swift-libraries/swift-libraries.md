@@ -350,6 +350,7 @@
 - [URLEncoder](https://github.com/chriseidhof/URLCodable)
 - [curl-swift](https://github.com/khoi/curl-swift) - Opinionated libcurl wrapper for Swift.
 - [MicroClient](https://github.com/otaviocc/MicroClient) - Simple and lightweight network client.
+- [Embassy](https://github.com/envoy/Embassy) - Super lightweight async HTTP server in pure Swift.
 
 ## GraphQL
 

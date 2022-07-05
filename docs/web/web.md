@@ -410,7 +410,7 @@
 - [Arcade](https://www.arcade.software/) - Create Interactive Product Demos.
 - [oEmbed](https://oembed.com/) - Format for allowing an embedded representation of a URL on third party sites. ([Code](https://github.com/iamcal/oembed))
 - [remark-oembed](https://github.com/agentofuser/remark-oembed) - Converts URLs surrounded by newlines into embeds.
-- [WinterCG](https://wintercg.org/) - Web-interoperable Runtimes Community Group. ([Code](https://github.com/wintercg/www))
+- [WinterCG](https://wintercg.org/) - Web-interoperable Runtimes Community Group. ([Code](https://github.com/wintercg/www)) ([FAQ](https://wintercg.org/faq)) ([Meetings](https://github.com/wintercg/admin))
 - [Atomic Router](https://github.com/Kelin2025/atomic-router) - Platform-agnostic router that does not break your architecture.
 - [What's new for the web platform (2022)](https://www.youtube.com/watch?v=5b4YcLB4DVI)
 - [Component Party](https://component-party.dev/) - Web component JS frameworks overview by their syntax and features. ([Code](https://github.com/matschik/component-party))

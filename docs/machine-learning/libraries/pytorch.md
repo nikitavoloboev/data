@@ -422,3 +422,4 @@ title: PyTorch
 - [simpleT5](https://github.com/Shivanandroy/simpleT5) - Quickly train T5/mT5/byT5 models in just 3 lines of code.
 - [ngp_pl](https://github.com/kwea123/ngp_pl) - Instant-ngp (only NeRF) in pytorch+cuda trained with pytorch-lightning (high quality with high speed).
 - [PyTorch time series](https://github.com/okrasolar/pytorch-timeseries) - PyTorch implementations of neural networks for time series classification.
+- [DiffMat](https://github.com/mit-gfx/diffmat) - PyTorch-based differentiable material graph library for procedural material capture.

@@ -396,3 +396,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Airdropr](https://www.airdropr.com/) - Bulk send crypto and NFTs without code.
 - [Web3 Social & Building w/Lens Protocol (2022)](https://eda.hashnode.dev/web3-social-and-building-withlens-protocol)
 - [Where to use a blockchain in non-financial applications? (2022)](https://vitalik.ca/general/2022/06/12/nonfin.html)
+- [Web3 Foundation Grants Program](https://github.com/w3f/Grants-Program)

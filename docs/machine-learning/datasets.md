@@ -180,3 +180,5 @@
 - [ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection (2022)](https://arxiv.org/abs/2203.09509) ([Code](https://github.com/microsoft/TOXIGEN))
 - [Perceptual Image Processing ALgorithms (PIPAL)](https://www.jasongt.com/projectpages/pipal.html) ([Code](https://github.com/HaomingCai/PIPAL-dataset))
 - [Hover](https://github.com/phurwicz/hover) - Label data at scale. Fun and precision included.
+- [How do you share big datasets with your team and others? (2022)](https://www.reddit.com/r/MachineLearning/comments/vr6iy5/d_how_do_you_share_big_datasets_with_your_team/)
+- [Simulacra Aesthetic Captions](https://github.com/JD-P/simulacra-aesthetic-captions) - Dataset of over 238000 synthetic images generated with AI models such as CompVis latent GLIDE and Stable Diffusion from over forty thousand user submitted prompts.

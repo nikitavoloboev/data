@@ -93,3 +93,7 @@ I love all [tryptamines](tryptamines.md) but am yet to breakthrough on DMT. [Man
 - [Those that have done DMT: Do you believe in God?](https://www.reddit.com/r/Psychonaut/comments/tx65ce/those_that_have_done_dmt_do_you_believe_in_god/)
 - ["Jungle Spice" - Mystery Alkaloids of Mimosa Root Bark](https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=1115)
 - [What is the Highest Level of DMT?](https://www.youtube.com/watch?v=FwrUHtTtjO8)
+- [DMT Direct Emesh Vaping Simplified](https://www.youtube.com/watch?v=5-NMpgBMHj8)
+- [How do I smoke Freebase DMT/5MeoDMT form?](https://www.reddit.com/r/5MeODMT/comments/mrbeeo/how_do_i_smoke_freebase_form/)
+- [Best e-vape for a DMT breakthrough in one hit](https://www.youtube.com/watch?v=gHW6FeuhSjA)
+- [DMT Vaporizers in Europe](https://www.reddit.com/r/DMT/comments/kmlcuy/vaporizers_in_europe/)

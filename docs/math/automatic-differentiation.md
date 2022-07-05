@@ -41,3 +41,4 @@ title: Automatic differentiation
 - [ad-delcont](https://github.com/ocramz/ad-delcont) - Reverse-mode automatic differentiation with delimited continuations.
 - [Dynamic Automatic Differentiation in Rust](https://github.com/exbibyte/dynagrad)
 - [The simple essence of automatic differentiation](https://github.com/conal/talk-2018-essence-of-ad)
+- [TinyAD](https://github.com/patr-schm/TinyAD) - C++ header-only library for second-order automatic differentiation.

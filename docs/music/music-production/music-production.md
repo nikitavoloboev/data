@@ -390,3 +390,4 @@
 - [Symbolic Music Generation with Diffusion Models](https://github.com/magenta/symbolic-music-diffusion)
 - [Mozart](https://github.com/aashrafh/Mozart) - Optical music recognition (OMR) system. Converts sheet music to a machine-readable version.
 - [Ask HN: AI-Generated Music? (2022)](https://news.ycombinator.com/item?id=31968456)
+- [Trane-Music](https://github.com/trane-project/trane-music) - Courses in music designed to be used with Trane.

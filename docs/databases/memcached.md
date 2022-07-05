@@ -23,3 +23,4 @@ title: Memcached
 - [memcache-async](https://github.com/vavrusa/memcache-async) - No-frills async memcached client for Rust.
 - [lua-resty-memcached](https://github.com/openresty/lua-resty-memcached) - Lua memcached client driver for the ngx_lua based on the cosocket API.
 - [Dragonflydb](https://github.com/dragonflydb/dragonfly) - Modern replacement for Redis and Memcached. ([HN](https://news.ycombinator.com/item?id=31560547)) ([Web](https://dragonflydb.io/))
+- [Memcache Swift](https://github.com/moritzsternemann/memcache-swift) - Non-blocking, event-driven Swift client for Memcached built on SwiftNIO.

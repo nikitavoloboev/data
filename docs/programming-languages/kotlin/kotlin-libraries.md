@@ -75,6 +75,9 @@
 - [gRPC-Kotlin](https://github.com/grpc/grpc-kotlin) - Kotlin gRPC implementation. HTTP/2 based RPC.
 - [Kotlin Dataframe](https://github.com/Kotlin/dataframe) - Typesafe in-memory structured data processing for JVM.
 - [Meilisearch for Kotlin](https://github.com/auguwu/meilisearch-kt) - Type-safe and Kotlin Coroutine-based client for Meilisearch.
+- [KaMP Kit](https://github.com/touchlab/KaMPKit) - Collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform.
+- [Kermit](https://github.com/touchlab/Kermit) - Kotlin Multiplatform centralized logging utility.
+- [CrashKiOS](https://github.com/touchlab/CrashKiOS) - Crash reporting for Kotlin/Native iOS applications.
 
 ## Links
 
@@ -84,3 +87,4 @@
 - [Kotlin for JavaScript](https://kotlinlang.org/docs/js-overview.html) ([HN](https://news.ycombinator.com/item?id=30817065))
 - [Kotlin Multiplatform Libraries](https://github.com/AAkira/Kotlin-Multiplatform-Libraries)
 - [Knit tool](https://github.com/Kotlin/kotlinx-knit) - Kotlin source code documentation management tool.
+- [KDoctor](https://github.com/Kotlin/kdoctor) - Command-line tool that helps to set up the environment for Kotlin Multiplatform Mobile app development.

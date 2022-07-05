@@ -159,3 +159,4 @@ I am currently using builtin MacBook keyboard and love it. I love the low key tr
 - [MVKB • Synth](https://mvkb.com/synth/)
 - [Building my first mechanical keyboard (2022)](https://not-matthias.github.io/posts/mechanical-keyboard/) ([HN](https://news.ycombinator.com/item?id=31451889))
 - [Using custom macropad with a keyboard for font designs](https://twitter.com/rsms/status/1532488827708637184)
+- [Keyboard Awesome](https://github.com/qmk/keyboard_awesome)

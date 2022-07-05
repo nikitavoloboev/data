@@ -50,7 +50,7 @@ title: Speech recognition
 - [Lyra: A New Very Low-Bitrate Codec for Speech Compression (2021)](https://ai.googleblog.com/2021/02/lyra-new-very-low-bitrate-codec-for.html)
 - [Parrot.PY](https://github.com/chaosparrot/parrot.py) - Computer interaction using audio and speech recognition.
 - [SpeechBrain Toolkit](https://github.com/speechbrain/speechbrain) - PyTorch-based Speech Toolkit. ([Web](https://speechbrain.github.io/))
-- [Vosk API](https://github.com/alphacep/vosk-api) - Offline open source speech recognition toolkit.
+- [Vosk API](https://github.com/alphacep/vosk-api) - Offline open source speech recognition toolkit. ([Rust API](https://github.com/Bear-03/vosk-rs))
 - [Lyra](https://github.com/google/lyra) - Very Low-Bitrate Codec for Speech Compression.
 - [lasr](https://github.com/sooftware/lasr) - PyTorch Lightning implementation of Automatic Speech Recognition.
 - [Speech Recognition from Scratch](https://colab.research.google.com/drive/1aFgzrUv3udM_gNJNUoLaHIm78QHtxdIz?usp=sharing)

@@ -106,3 +106,4 @@ title: Lean
 - [Lean Game Maker](https://github.com/mpedramfar/Lean-game-maker) - Library renders structured Lean files into an interactive game with a JS Lean server running on the browser.
 - [Lean formalization of parts of Martin Liebeck's "A concise introduction to pure mathematics"](https://github.com/ImperialCollegeLondon/m1fexplained)
 - [Experimenting with Lean 4](https://github.com/AdrienChampion/experimentalean4)
+- [Proof artifact co-training on Lean mathlib](https://github.com/jesse-michael-han/lean-step-public)

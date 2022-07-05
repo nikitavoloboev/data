@@ -7,6 +7,8 @@ I enjoy watching [great chess games](https://lichess.org/games) & listening to [
 
 [Gotham Chess](https://www.youtube.com/c/GothamChess/videos), [Eric Rosen](https://www.youtube.com/user/RosenChess/videos) and [Daniel Naroditsky](https://www.youtube.com/channel/UCHP9CdeguNUI-_nBv_UXBhw/videos) have lots of videos to learn Chess from + enjoyable commentary.
 
+The way I am trying to improve aside from watching/analyzing some high rated chess games is to analyze my own games with [latest version of Stockfish](https://www.reddit.com/r/chess/comments/vp5kbu/psa_you_can_use_an_external_engine_with_lichess/). Use [ChessRetriever.com](https://www.chessretriever.com/) to transfer my Chess.com games to Lichess for deeper analysis.
+
 ## Nice players
 
 - [Ding Liren](https://www.chess.com/players/ding-liren) ([Video](https://www.youtube.com/watch?v=P9OHO9yRaeE))
@@ -32,6 +34,8 @@ I enjoy watching [great chess games](https://lichess.org/games) & listening to [
 ## Interesting openings
 
 - [Ruy Lopez](https://www.reddit.com/r/chess/comments/r8qdqq/can_someone_explain_why_the_ruy_lopez_is_so/)
+- [Danish Gambit](https://en.wikipedia.org/wiki/Danish_Gambit)
+- [Anna Cramling Asks The Candidates ”What Is The Most Fun Chess Opening”](https://www.youtube.com/watch?v=cTMnKiA5BTs)
 
 ## Notes
 
@@ -212,3 +216,5 @@ I enjoy watching [great chess games](https://lichess.org/games) & listening to [
 - [What are the differences between the top chess engines?](https://www.reddit.com/r/chess/comments/vjqsk5/what_are_the_differences_between_the_top_chess/)
 - [How to build a chess engine](https://www.chessengines.org/) ([HN](https://news.ycombinator.com/item?id=31964685))
 - [Chess Beginners Reddit](https://www.reddit.com/r/chessbeginners/)
+- [ChessRetriever.com](https://www.chessretriever.com/) - Retrieves your chess.com games so you can analyze them on Lichess. ([Reddit](https://www.reddit.com/r/chess/comments/vrqdvp/i_made_a_website_that_retrieves_your_chesscom/))
+- [You can use an external engine with Lichess (2022)](https://www.reddit.com/r/chess/comments/vp5kbu/psa_you_can_use_an_external_engine_with_lichess/)

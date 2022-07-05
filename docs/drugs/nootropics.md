@@ -16,6 +16,10 @@ There are also [few nootropics you can take to in some way boost your mental abi
 - [Modafinil](https://psychonautwiki.org/wiki/Modafinil)
 - [Armodafinil](https://psychonautwiki.org/wiki/Armodafinil)
 
+## Notes
+
+- [For BDNF supplements I suggest Gingko Extract, Lion's Mane, 7,8-dihydroxyflavone and Dihexa, in order of weakest to strongest.](https://www.reddit.com/r/Nootropics/comments/vrjti6/are_there_drugs_that_can_make_your_ability_tro/)
+
 ## Links
 
 - [Reddit wiki](https://www.reddit.com/r/Nootropics/wiki/index)
@@ -35,3 +39,4 @@ There are also [few nootropics you can take to in some way boost your mental abi
 - [What medication raises neuroplasicity? (2022)](https://www.reddit.com/r/Nootropics/comments/vf03lu/what_medication_raises_neuroplasicity/)
 - [Nootropics I've Tried For Brain Fog , ranked. (long covid brain fog)](https://www.reddit.com/r/Nootropics/comments/vjnbqc/nootropics_ive_tried_for_brain_fog_ranked_long/)
 - [What are some methods shown to increase IQ? (2022)](https://www.reddit.com/r/Nootropics/comments/vqh9z7/what_are_some_methods_shown_to_increase_iq/)
+- [Are there drugs that can make your ability tro learn things to similar to a child's brain?](https://www.reddit.com/r/Nootropics/comments/vrjti6/are_there_drugs_that_can_make_your_ability_tro/)

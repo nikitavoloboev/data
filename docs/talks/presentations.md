@@ -56,3 +56,4 @@
 - [tlsides](https://www.tlslides.com/) - Create slides using tldraw. ([Code](https://github.com/nimeshnayaju/tlslides))
 - [Template for RevealJS talk slides using Pug, KaTeX, Stylus, CoffeeScript, SVG Tiler, SVG.js](https://github.com/edemaine/reveal-pug-talk)
 - [slipshow](https://github.com/panglesd/slipshow) - Engine for displaying slips, the next-gen version of slides.
+- [Mockoops](https://mockoops.mohitya.dev/) - Create beautiful video mockups from templates withing seconds. ([Code](https://github.com/Just-Moh-it/Mockoops))

@@ -209,3 +209,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [ExpatFIRE Reddit](https://www.reddit.com/r/ExpatFIRE/)
 - [Lessons you learned about money and personal finance?](https://twitter.com/ankurnagpal/status/1541417358815789057)
 - [greeks](https://github.com/streamlet-dev/greeks) - Library for modeling financial instruments using lazy and/or streaming graphs.
+- [Free invoice builder](https://app.freeinvoicebuilder.com/)

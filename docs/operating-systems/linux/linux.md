@@ -560,3 +560,4 @@ title: Linux
 - [Live-patching security vulnerabilities inside the Linux kernel with eBPF Linux Security Module (2022)](https://blog.cloudflare.com/live-patch-security-vulnerabilities-with-ebpf-lsm/)
 - [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux.
 - [A Journey into the Linux Scheduler (2022)](https://blog.maxgio.me/posts/linux-scheduler-journey/) ([HN](https://news.ycombinator.com/item?id=31975901))
+- [Linux Kernel vs DPDK: HTTP Performance Showdown (2022)](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)

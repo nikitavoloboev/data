@@ -283,3 +283,4 @@ title: React Native
 - [Reassure](https://github.com/callstack/reassure) - Performance testing companion for React and React Native.
 - [FlashList](https://github.com/Shopify/flash-list) - Fast & performant React Native list. No more blank cells.
 - [React Native Modalfy](https://github.com/colorfy-software/react-native-modalfy) - Modal citizen of React Native.
+- [Is RN even worth it? (2022)](https://www.reddit.com/r/reactnative/comments/vrc05g/is_rn_even_worth_it/)

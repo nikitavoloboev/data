@@ -121,3 +121,4 @@
 - [Catfs](https://github.com/kahing/catfs) - Cache AnyThing file system written in Rust.
 - [Rust FUSE library for server, virtio-fs and vhost-user-fs](https://github.com/cloud-hypervisor/fuse-backend-rs)
 - [dbs-fuse](https://github.com/openanolis/dbs-fuse) - Utilities for tokio/tokio-uring based async IO.
+- [afs](https://github.com/viant/afs) - Abstract File Storage.

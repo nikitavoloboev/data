@@ -834,3 +834,4 @@
 - [Awesome Visual Diffusion Models](https://github.com/Xiefan-Guo/Awesome-Visual-Diffusion-Models)
 - [Vision Transformer Adapter for Dense Predictions (2022)](https://arxiv.org/abs/2205.08534) ([Code](https://github.com/czczup/ViT-Adapter))
 - [Activating More Pixels in Image Super-Resolution Transformer (2022)](https://arxiv.org/abs/2205.04437) ([Code](https://github.com/XPixelGroup/HAT))
+- [PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies (2022)](https://arxiv.org/abs/2206.04670) ([Code](https://github.com/guochengqian/PointNeXt))

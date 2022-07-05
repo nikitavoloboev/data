@@ -19,3 +19,4 @@
 - [DroneSploit](https://github.com/dhondta/dronesploit) - Drone pentesting framework console.
 - [Pixy](https://pixy.com/) - Snap's Mini Drone Camera.
 - [Quadcopter](https://github.com/arnaudhe/quadcopter) - DIY quadcopter based on ESP32-WROOM.
+- [Drone based wheel-ruts semantic segmentation](https://github.com/SmartForest-no/wheelRuts_semanticSegmentation)

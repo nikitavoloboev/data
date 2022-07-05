@@ -83,6 +83,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## Test
 
+- [Endly](https://github.com/viant/endly) - End to end functional test and automation framework.
 - [Goblin](https://github.com/franela/goblin) - Minimal and Beautiful Go testing framework.
 - [is](https://github.com/matryer/is) - Professional lightweight testing mini-framework for Go.
 - [gotest.tools](https://github.com/gotestyourself/gotest.tools) - Collection of packages to augment the go testing package and support common patterns.
@@ -339,6 +340,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [fir](https://github.com/adnaan/fir) - Go library to build reactive apps.
 - [Copper](https://github.com/gocopper/copper) - Go toolkit complete with everything you need to build web apps. ([HN](https://news.ycombinator.com/item?id=31958823)) ([Web](https://gocopper.dev/))
 - [dead-letter-queue](https://github.com/ranjanrak/dead-letter-queue) - Tiny go package to manage HTTP requests with dead letter management/retry. Based on go-redis.
+- [Moonshot](https://github.com/spy16/moonshot) - Boilerplate Go library for quickly setting up web backend.
 
 ## GraphQL
 
@@ -515,6 +517,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Tickler](https://github.com/GoodJobTech/tickler) - Enqueue and process the jobs in the background.
 - [Cache](https://github.com/gookit/cache) - Generic cache use and cache manage.
 - [dbump](https://github.com/cristalhq/dbump) - Go database schema migrator library.
+- [dsunit](https://github.com/viant/dsunit) - Datastore Testibility.
 
 ## ML
 
@@ -1723,6 +1726,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [slice_map](https://github.com/legougames/slice_map) - Designed to improve the performance for the case that you need to hold a large map in memory.
 - [reactor-go](https://github.com/jjeffcaii/reactor-go) - Go implementation for reactive-streams.
 - [RSocket-go](https://github.com/rsocket/rsocket-go)
+- [xunsafe](https://github.com/viant/xunsafe) - Faster Go reflection.
+- [Toolbox](https://github.com/viant/toolbox) - Go utility library.
+- [Trie](https://github.com/viant/ptrie) - Prefix tree implementation in go.
 
 ## Links
 

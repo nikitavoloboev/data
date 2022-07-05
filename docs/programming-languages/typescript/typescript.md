@@ -273,6 +273,7 @@ title: TypeScript
 - [You Might Be Using Typescript Wrong (2022)](https://www.youtube.com/watch?v=RmGHnYUqQ4k)
 - [Just](https://github.com/sonnyt/just) - Zero config TypeScript build and development toolkit. ([HN](https://news.ycombinator.com/item?id=31814927))
 - [Learning TypeScript Book](https://www.learningtypescript.com/) ([Web Code](https://github.com/LearningTypeScript/site))
+- [Learning TypeScript | Projects](https://www.learningtypescript.com/projects) - Hands-on real world projects that will help you exercise your knowledge of TypeScript. ([Code](https://github.com/LearningTypeScript/projects))
 - [Extreme Explorations of TypeScript's Type System](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system) ([HN](https://news.ycombinator.com/item?id=31898420))
 
 ## Images

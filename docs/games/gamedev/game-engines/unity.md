@@ -41,3 +41,4 @@ title: Unity
 - [Ultraleap Unity Plugin](https://github.com/ultraleap/UnityPlugin) - Build Unity applications using Ultraleap's hand tracking technology.
 - [Reverse Engineering a Unity Game (2022)](https://jf.id.au/blog/reverse-engineering-a-unity-game)
 - [C++ Rendering Plugin example for Unity](https://github.com/Unity-Technologies/NativeRenderingPlugin)
+- [Runity](https://github.com/TanTanDev/runity) - Highly experimental Rust implementation for Unity.

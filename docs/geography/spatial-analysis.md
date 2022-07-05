@@ -204,7 +204,7 @@ title: Spatial analysis
 - [Course materials for: Geospatial Data Science](https://github.com/mszell/geospatialdatascience)
 - [gps-share](https://github.com/zeenix/gps-share) - Utility to share your GPS device on local network.
 - [pg_featureserv](https://github.com/CrunchyData/pg_featureserv) - Lightweight RESTful Geospatial Feature Server for PostGIS in Go.
-- [Felt](https://felt.com/) - Best way to make maps on the internet. ([Tweet](https://twitter.com/felt/status/1531666570732154880)) ([Twitter](https://twitter.com/felt))
+- [Felt](https://felt.com/) - Best way to make maps on the internet. ([Tweet](https://twitter.com/felt/status/1531666570732154880)) ([Twitter](https://twitter.com/felt)) ([HN](https://news.ycombinator.com/item?id=31982959))
 - [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analytics for Python.
 - [Real-time Map](https://github.com/asynkron/realtimemap-go) - Displays real-time positions of public transport vehicles in Helsinki. Showcase for Proto.Actor - an ultra-fast distributed actors solution.
 - [node-gdal](https://github.com/naturalatlas/node-gdal) - Node.js bindings for GDAL (Geospatial Data Abstraction Library).
@@ -230,3 +230,4 @@ title: Spatial analysis
 - [GDAL.jl](https://github.com/JuliaGeo/GDAL.jl) - Thin Julia wrapper for GDAL - Geospatial Data Abstraction Library.
 - [ArchGDAL](https://github.com/yeesian/ArchGDAL.jl) - High level API for GDAL - Geospatial Data Abstraction Library.
 - [MapComplete](https://mapcomplete.osm.be/) - Small and easy OpenStreetMap editor. ([Code](https://github.com/pietervdvn/MapComplete))
+- [getSpatialData](https://github.com/16EAGLE/getSpatialData) - R package making it easy to query, preview, download and preprocess multiple kinds of spatial data via R.

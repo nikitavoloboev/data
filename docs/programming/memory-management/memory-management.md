@@ -101,3 +101,4 @@
 - [Memory safety for SerenityOS (2022)](https://awesomekling.github.io/Memory-safety-for-SerenityOS/)
 - [Benchmarking Malloc with Doom 3 (2022)](https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/)
 - [Elise](https://github.com/wusyong/Fur-Elise) - Concurrent garbage collection crate based on shifgrethor.
+- [shifgrethor](https://github.com/withoutboats/shifgrethor) - Define an API for precise, tracing garbage collection in Rust which upholds all of Rust's safety guarantees.

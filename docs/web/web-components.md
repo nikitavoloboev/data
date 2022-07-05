@@ -103,3 +103,4 @@ title: Web Components
 - [Web Components Course | Learn to Create Web Components](https://frontendmasters.com/courses/web-components/)
 - [Macaron](https://macaron-elements.com/) - Design tool to visually create Web Components. ([Code](https://github.com/macaron-elements/macaron))
 - [Wokwi Elements](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
+- [media-chrome](https://github.com/muxinc/media-chrome) - Fully customizable media player controls using web components (native custom elements). ([Web](https://www.media-chrome.org/))

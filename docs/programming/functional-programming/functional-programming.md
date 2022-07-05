@@ -181,6 +181,7 @@
 - [Gren](https://github.com/gren-lang/compiler) - Functional programming language with carefully managed side-effects and a strong static type system. ([Web](https://gren-lang.org/)) ([Twitter](https://twitter.com/gren_lang))
 - [Grin](https://github.com/fizruk/simple-grin) - Simple functional language.
 - [Purely functional data structures in HVM](https://github.com/lac-dcc/wyvern)
+- [Awesome Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
 
 ## Images
 

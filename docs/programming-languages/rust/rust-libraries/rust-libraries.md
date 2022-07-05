@@ -2009,6 +2009,9 @@
 - [toml-cfg](https://github.com/jamesmunns/toml-cfg) - Procedural macro for configuring constant values across crates.
 - [bitpacking](https://github.com/quickwit-oss/bitpacking) - SIMD algorithms for integer compression via bitpacking. This crate is a port of a C library called simdcomp.
 - [metaheuristics-nature](https://github.com/KmolYuan/metaheuristics-nature-rs) - Collection of nature-inspired meta-heuristic algorithms.
+- [AVIF-Serialize](https://github.com/kornelski/avif-serialize) - Minimal pure Rust AVIF writer (bring your own AV1 payload).
+- [memmapix](https://github.com/al8n/memmapix) - Cross-platform Rust API for memory mapped IO.
+- [measureme](https://github.com/rust-lang/measureme) - Support crate for rustc's self-profiling feature.
 
 ## Cargo Plugins
 
@@ -2092,6 +2095,7 @@
 - [cargo-public-api](https://github.com/Enselic/cargo-public-api) - List and diff the public API of Rust library crates between releases and commits.
 - [cargo-doc2readme](https://github.com/msrd0/cargo-doc2readme) - Cargo subcommand to create a readme file containing the rustdoc comments from your code.
 - [cargo_metadata](https://github.com/oli-obk/cargo_metadata) - Structured access to the output of cargo metadata. Usually used from within a cargo-\* executable.
+- [cargo-select](https://github.com/LoipesMas/cargo-select) - Cargo subcommand to easily run targets/examples/tests.
 
 ## Notes
 

@@ -160,6 +160,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [CatsCheatSheet](https://github.com/alhassy/CatsCheatSheet) - Listing of common theorems in elementary category theory.
 - [Formalization of Category Theory in Agda](https://github.com/bgavran/Agda_Category_Theory)
 - [Dialectica](https://github.com/vcvpaiva/Dialectica) - 2022 AMS MRC on Applied Category Theory.
+- [A Sensible Introduction to Category Theory (2022)](https://www.youtube.com/watch?v=yAi3XWCBkDo)
 
 ## Images
 

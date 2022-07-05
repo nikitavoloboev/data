@@ -157,3 +157,4 @@ On bright side, it does appear that Russia [fully lost out on its objectives in 
 - [Inhuman horror Russia's inflicting on Ukraine](https://twitter.com/GlasnostGone/status/1535665137423622144)
 - [Intense (and hellish) scenes from Lysychansk](https://twitter.com/Mike_Eckel/status/1536222623394410497)
 - [Подоляк и Жданов в Киеве | Что будет с Россией и Украиной? (2022)](https://www.youtube.com/watch?v=C2Tv7ZpsK0s)
+- [War in Ukraine - YouTube](https://www.youtube.com/channel/UCP2QApi8G2TKc8NZmeDWSUg/videos)

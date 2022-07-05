@@ -137,3 +137,4 @@
 - [What’s the best lossless image format? (2021)](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl) ([HN](https://news.ycombinator.com/item?id=31657006))
 - [Survey of 3D Compression and Streaming](https://github.com/tovacinni/awesome-3d-compression)
 - [compress.js](https://github.com/alextanhongpin/compress.js) - Simple JavaScript based client-side image compression algorithm.
+- [Python-LZ4](https://github.com/python-lz4/python-lz4) - LZ4 bindings for Python.

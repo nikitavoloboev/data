@@ -245,3 +245,4 @@
 - [Awesome IAM](https://github.com/kdeldycke/awesome-iam)
 - [OAuth2 client for Node and browsers](https://github.com/badgateway/oauth2-client)
 - [Passkeys (2022)](https://www.imperialviolet.org/2022/07/04/passkeys.html)
+- [fido2-lib](https://github.com/webauthn-open-source/fido2-lib) - Node.js library for performing FIDO 2.0 / WebAuthn server functionality.
