@@ -12,7 +12,7 @@ Having said that, the worst thing about living in Russia is a certain sense of u
 
 I don't want to be some armchair analyst though and I genuinely don't know a lot. The west lies a lot and have their own sophisticated propaganda machines for crafting out new 'current thing' narratives. So I just try to live my life and build great tools that hopefully accelerate the [future](../../future/future.md) where all countries are free from oppression.
 
-I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220152839) I fancy and use daily. For political updates, there's many accounts I like. [Max Seddon](https://twitter.com/maxseddon) does nice summaries often.
+I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220152839) I fancy and use daily. For political updates, there's many accounts I like. [Michael Kofman](https://twitter.com/KofmanMichael) & [Max Seddon](https://twitter.com/maxseddon) do nice summaries often.
 
 ## Notes
 

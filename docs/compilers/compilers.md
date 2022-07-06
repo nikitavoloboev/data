@@ -231,3 +231,4 @@
 - [Fast page maps for JIT (2022)](https://kazlauskas.me/entries/fast-page-maps-for-jit)
 - [Toolchains adventures - Q2 2022](https://www.cambus.net/toolchains-adventures-q2-2022/)
 - [QBE Notes](https://wiki.alopex.li/QbeNotes) ([Lobsters](https://lobste.rs/s/je3o8m/qbe_notes))
+- [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)

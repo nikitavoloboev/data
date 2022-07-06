@@ -640,3 +640,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: How do I earn a small amount of money to sustain myself as a developer? (2022)](https://news.ycombinator.com/item?id=31908797)
 - [H I Sutton - YouTube](https://www.youtube.com/c/HISuttonCovertShores/videos)
 - [HN Notify.xyz](https://hnnotify.xyz/) - Subscribe to Your Hacker News Feed. ([HN](https://news.ycombinator.com/item?id=31970303))
+- [Perun - YouTube](https://www.youtube.com/channel/UCC3ehuUksTyQ7bbjGntmx3Q/videos)
+- [War on the Rocks](https://warontherocks.com/)

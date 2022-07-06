@@ -2,7 +2,7 @@
 
 It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders [miscalculated decisions](https://overcast.fm/+bbjkhwBVQ) to try and maintain a [stronghold on oil/gas exports](https://www.youtube.com/watch?v=Eo6w5R6Uo8Y) in EU. Instead of [wasting lives](https://twitter.com/MaximEristavi/status/1513576913431941135) on [waging war](https://www.youtube.com/watch?v=DBah5HNknLM) on both its neighbors and its own citizens, it would be great if everyone focused on improving the well being of the population.
 
-[Here](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/?context=3) is a nice comment with resources to stay informed regarding Ukraine.
+[CredibleDefense](https://www.reddit.com/r/CredibleDefense/) has nice daily discussion threads on status of the war. And [Here](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/?context=3) is a nice comment with more resources. I collect many links I found of interest in Links section too.
 
 I hope Russia stops [unlawfully occupying and harassing Ukraine](https://twitter.com/mdmitri91/status/1534316819481300997) and pays for the damage it inflicted on the country. Ukraine should be fully integrated into Europe and be rebuilt. I wish more people in politics had the charisma and effectiveness to lead as Zelensky.
 
@@ -157,4 +157,4 @@ On bright side, it does appear that Russia [fully lost out on its objectives in 
 - [Inhuman horror Russia's inflicting on Ukraine](https://twitter.com/GlasnostGone/status/1535665137423622144)
 - [Intense (and hellish) scenes from Lysychansk](https://twitter.com/Mike_Eckel/status/1536222623394410497)
 - [Подоляк и Жданов в Киеве | Что будет с Россией и Украиной? (2022)](https://www.youtube.com/watch?v=C2Tv7ZpsK0s)
-- [War in Ukraine - YouTube](https://www.youtube.com/channel/UCP2QApi8G2TKc8NZmeDWSUg/videos)
+- [Myths & Claims of the Russia-Ukraine War - Claims, Feints, and Bioweapons (2022)](https://www.youtube.com/watch?v=6x0O_oObJBU)
