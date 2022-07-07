@@ -231,3 +231,4 @@ title: DNS
 - [Ferret: Automatically finding RFC compliance bugs in DNS nameservers (2022)](https://blog.apnic.net/2022/06/24/ferret-automatically-finding-rfc-compliance-bugs-in-dns-nameservers/)
 - [tolower() in bulk at speed (2022)](https://dotat.at/@/2022-06-27-tolower-swar.html)
 - [A DNS name compression algorithm (2022)](https://dotat.at/@/2022-07-01-dns-compress.html)
+- [cacheable-lookup](https://github.com/szmarczak/cacheable-lookup) - Cacheable dns.lookup(…) that respects TTL.

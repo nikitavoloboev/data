@@ -663,6 +663,7 @@
 - [Altro.jl](https://github.com/RoboticExplorationLab/Altro.jl) - Implementation of the Augmented Lagrangian TRajectory Optimizer (ALTRO) solver.
 - [StructuralIdentifiability.jl](https://github.com/SciML/StructuralIdentifiability.jl) - Julia package for assessing structural parameter identifiability of parametric ODE models, both local and global.
 - [SignalAnalysis.jl](https://github.com/org-arl/SignalAnalysis.jl) - Signal analysis toolbox for Julia.
+- [Deductive.jl](https://github.com/ctrekker/Deductive.jl) - Package for expressing and proving zeroth order and first order logical statements and theorems symbolically in Julia.
 
 ## Links
 

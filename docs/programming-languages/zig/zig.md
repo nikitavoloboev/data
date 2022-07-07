@@ -128,3 +128,4 @@ title: Zig
 - [Paid Zig Stream (2022)](https://www.youtube.com/watch?v=eIX9zER9vjY)
 - [Testing Zig for embedded development (2022)](https://www.kuon.ch/post/2022-06-22-zig-embed/)
 - [An Intro to Zig's checkAllAllocationFailures (2022)](https://www.ryanliptak.com/blog/zig-intro-to-check-all-allocation-failures/)
+- [Zig Common Tasks](https://renatoathaydes.github.io/zig-common-tasks/) - Collection of Zig code snippets for some of the most common tasks.

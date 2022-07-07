@@ -46,3 +46,4 @@
 - [OpenVAF](https://sr.ht/~dspom/OpenVAF/) - Modern VerilogA compiler focused on compact modelling.
 - [Veriloggen](https://github.com/PyHDI/veriloggen) - Mixed-Paradigm Hardware Construction Framework.
 - [OpenOFDM](https://github.com/jhshi/openofdm) - Sythesizable, modular Verilog implementation of 802.11 OFDM decoder.
+- [sv2chisel](https://github.com/ovh/sv2chisel) - Verilog to Chisel translator.

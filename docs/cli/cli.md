@@ -136,3 +136,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [tuc](https://github.com/riquito/tuc) - When cut doesn’t cut it. ([HN](https://news.ycombinator.com/item?id=31726472))
 - [linebyline](https://github.com/pylover/linebyline) - Command line text processor.
 - [Viddy](https://github.com/sachaos/viddy) - Modern watch command. Time machine and pager etc. ([HN](https://news.ycombinator.com/item?id=31829343))
+- [cronlocker](https://github.com/viafintech/cronlocker) - Command line tool to allow running cronjobs on multiple hosts while ensuring that it only runs once at a time.

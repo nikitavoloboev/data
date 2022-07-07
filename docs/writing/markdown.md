@@ -137,3 +137,4 @@
 - [femark](https://github.com/benwis/femark) - Markdown to HTML compiler and Syntax Highlighter, built using Rust's pulldown-cmark and tree-sitter-highlight crates. ([Article](https://benw.is/posts/compiling-markdown))
 - [zero-md](https://github.com/zerodevx/zero-md) - Ridiculously simple zero-config markdown displayer.
 - [remark-language-server](https://github.com/remarkjs/remark-language-server) - Language server to lint and format markdown files with remark.
+- [Redcarpet](https://github.com/vmg/redcarpet) - Ruby library for Markdown processing.

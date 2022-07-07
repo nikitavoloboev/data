@@ -103,6 +103,8 @@
 - [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra) - Open Source Admin Template for Chakra UI & React.
 - [AriaKit](https://ariakit.org/) - Toolkit for building accessible web apps with React. ([Twitter](https://twitter.com/ariakitjs))
 - [ENS Design System](https://github.com/ensdomains/thorin) - Design system for ENS built with React and styled-components.
+- [NeoPOP](https://github.com/CRED-CLUB/neopop-web) - CRED's inbuilt library for using NeoPOP components in your web app.
+- [Baklava](https://github.com/Trendyol/baklava) - Design system provided by Trendyol to create a consistent UI/UX for app users.
 
 ## Notes
 

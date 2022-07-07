@@ -4,6 +4,7 @@
 
 ## Web
 
+- [Quart](https://github.com/pallets/quart) - Async Python micro framework for building web applications.
 - [Robyn](https://github.com/sansyrox/robyn) - Async python web server written in rust.
 - [Xpresso](https://github.com/adriangb/xpresso) - Composable Python ASGI web framework.
 - [aiosonic](https://github.com/sonic182/aiosonic) - Very fast Python asyncio http client.
@@ -1076,3 +1077,4 @@
 - [PyScaffold](https://pyscaffold.org/en/stable/) - Project generator for bootstrapping high-quality Python packages. ([Code](https://github.com/pyscaffold/pyscaffold))
 - [unearth](https://github.com/frostming/unearth) - Utility to fetch and download python packages.
 - [promypy](https://github.com/Kludex/promypy) - Progressive type annotation without regression.
+- [PoetryUp](https://github.com/MousaZeidBaker/poetryup) - Updates dependencies and bumps their version in both poetry.lock as well as in pyproject.toml file.

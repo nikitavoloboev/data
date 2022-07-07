@@ -327,3 +327,5 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) - Neovim Lua plugin providing access to the SchemaStore catalog.
 - [Volt](https://github.com/vim-volt/volt) - Meta-level vim package manager.
 - [tasks.nvim](https://github.com/GustavoKatel/tasks.nvim) - Task runner/manager for Neovim.
+- [Basic Stable IDE config for Neovim](https://github.com/LunarVim/nvim-basic-ide)
+- [mason.nvim](https://github.com/williamboman/mason.nvim) - Lightweight package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.

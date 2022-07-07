@@ -54,6 +54,7 @@
 
 - [IOWOW](https://github.com/Softmotions/iowow) - C11 persistent key/value storage based on skip list data structure. ([Web](https://iowow.io/))
 - [hashmap](https://github.com/DavidLeeds/hashmap) - Templated type-safe hashmap implementation in C using open addressing and linear probing for collision resolution.
+- [libyang](https://github.com/CESNET/libyang) - YANG data modelling language parser and toolkit written (and providing API) in C.
 
 ## Math
 

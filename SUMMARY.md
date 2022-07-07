@@ -240,6 +240,7 @@
       - [Ember](docs/programming-languages/javascript/js-libraries/ember.md)
       - [Astro](docs/programming-languages/javascript/js-libraries/astro.md)
       - [SolidJS](docs/programming-languages/javascript/js-libraries/solid.md)
+      - [Bun](docs/programming-languages/javascript/bun.md)
   - [TypeScript](docs/programming-languages/typescript/typescript.md)
     - [TypeScript libraries](docs/programming-languages/typescript/typescript-libraries/typescript-libraries.md)
   - [Scala](docs/programming-languages/scala/scala.md)

@@ -48,3 +48,5 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [Diving into BoardGameGeek (2022)](https://jvanelteren.github.io/blog/2022/01/19/boardgames.html) ([HN](https://news.ycombinator.com/item?id=30040739))
 - [piecepackr](https://github.com/piecepackr/piecepackr) - Board Game Graphics in R.
 - [The top 50 most discussed board games on Reddit (2022)](https://www.reddit.com/r/boardgames/comments/vpmi7y/the_top_50_most_discussed_board_games_on_reddit/)
+- [Ask HN: What's your favorite board game? (2022)](https://news.ycombinator.com/item?id=32004522)
+- [Interesting new board game mechanics (2022)](https://www.reddit.com/r/boardgames/comments/vt7lkw/fresh_euro_mechanics_in_the_last_few_years/)

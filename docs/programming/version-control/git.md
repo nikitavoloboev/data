@@ -555,3 +555,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Things I wish everyone knew about Git (2022)](https://blog.plover.com/2022/06/29/) ([HN](https://news.ycombinator.com/item?id=31923429))
 - [agec](https://github.com/aca/agec) - Store, manage and share secrets in git repository based on age.
 - [Git Grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
+- [Is it time to look past Git? (2022)](https://dev.to/yonkeltron/is-it-time-to-look-past-git-ah4) ([Lobsters](https://lobste.rs/s/yi97jn/is_it_time_look_past_git))

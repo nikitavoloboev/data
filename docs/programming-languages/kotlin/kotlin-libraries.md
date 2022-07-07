@@ -88,3 +88,4 @@
 - [Kotlin Multiplatform Libraries](https://github.com/AAkira/Kotlin-Multiplatform-Libraries)
 - [Knit tool](https://github.com/Kotlin/kotlinx-knit) - Kotlin source code documentation management tool.
 - [KDoctor](https://github.com/Kotlin/kdoctor) - Command-line tool that helps to set up the environment for Kotlin Multiplatform Mobile app development.
+- [Template project you can clone and use as a basis for your own Kotlin based microservices](https://github.com/sksamuel/samstack)

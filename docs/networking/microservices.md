@@ -113,3 +113,4 @@
 - [Kalix.io](https://www.kalix.io/) - High performance microservices and APIs. ([Article](https://www.kalix.io/blog/kalix-move-to-the-cloud-extend-to-the-edge-go-beyond))
 - [Orion](https://github.com/carousell/Orion) - Small lightweight framework written around grpc/protobuf with the aim to shorten time to build microservices.
 - [Architecture design for microservice](https://github.com/alextanhongpin/full-stack-microservice)
+- [How to Improve Your Monolith Before Transitioning to Microservices (2022)](https://semaphoreci.com/blog/monolith-microservices) ([HN](https://news.ycombinator.com/item?id=32000598))

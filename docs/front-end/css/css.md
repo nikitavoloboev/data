@@ -8,7 +8,7 @@ title: CSS
 
 Often use [these CSS loaders](https://uiball.com/loaders/). [Open Props](https://open-props.style/) are amazing. Trying out new features now from recent [State of CSS](https://www.youtube.com/watch?v=Xy9ZXRRgpLk).
 
-Recently been loving using [UnoCSS](https://uno.antfu.me/).
+Recently been loving using [UnoCSS](https://uno.antfu.me/). [Be the browser’s mentor, not its micromanager](https://www.youtube.com/watch?v=5uhIiI9Ld5M) is a must watch on building responsive websites.
 
 ## Nice templates
 
@@ -526,7 +526,7 @@ all: unset
 - [Mobile-First CSS: Is It Time for a Rethink? (2022)](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/) ([HN](https://news.ycombinator.com/item?id=31802823))
 - [Elly Loel CSS Reset](https://gist.github.com/EllyLoel/4ff8a6472247e6dd2315fd4038926522) ([Tweet](https://twitter.com/ellyloel/status/1538752447560110080))
 - [PostCSS Media Minmax](https://github.com/postcss/postcss-media-minmax) - Writing simple and graceful Media Queries.
-- [Defensive CSS](https://defensivecss.dev/) - Practical CSS and design tips that helps in building future-proof user interfaces. ([Twitter](https://twitter.com/DefensiveCSS))
+- [Defensive CSS](https://defensivecss.dev/) - Practical CSS and design tips that helps in building future-proof user interfaces. ([Twitter](https://twitter.com/DefensiveCSS)) ([HN](https://news.ycombinator.com/item?id=31984951))
 - [Create Diagonal Layouts Like It's 2020](https://9elements.com/blog/pure-css-diagonal-layouts/)
 - [Whirl](https://whirl.netlify.app/) - CSS loading animations with minimal effort. ([Code](https://github.com/jh3y/whirl))
 - [Anthony Fu's 100 days](https://100.antfu.me/) - 100-day project of exploring design, compform, and new things. ([Code](https://github.com/antfu/100))

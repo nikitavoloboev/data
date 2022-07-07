@@ -641,3 +641,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Interesting Eth Smart Contracts](https://github.com/fiveoutofnine/cool-contracts/) ([Tweet](https://twitter.com/fiveoutofnine/status/1543289800123420674))
 - [Seaport](https://github.com/ProjectOpenSea/seaport) - Marketplace protocol for safely and efficiently buying and selling NFTs.
 - [Gas Optimizations in Solidity](https://github.com/kadenzipfel/gas-optimizations)
+- [Turbo ETH](https://github.com/turbo-eth/turbo-eth) - Ethereum dApp Build System; with a suite of tools to start building production ready dApps today.
+- [Explaining Ethereum's consensus mechanism after The Merge (2022)](https://0xfoobar.substack.com/p/ethereum-proof-of-stake) ([HN](https://news.ycombinator.com/item?id=32012352))

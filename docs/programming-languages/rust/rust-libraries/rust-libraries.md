@@ -2012,6 +2012,8 @@
 - [AVIF-Serialize](https://github.com/kornelski/avif-serialize) - Minimal pure Rust AVIF writer (bring your own AV1 payload).
 - [memmapix](https://github.com/al8n/memmapix) - Cross-platform Rust API for memory mapped IO.
 - [measureme](https://github.com/rust-lang/measureme) - Support crate for rustc's self-profiling feature.
+- [Foreign Vec](https://github.com/DataEngineeringLabs/foreign_vec) - Zero-cost abstraction to store either [Vec\<T\>] or an immutable region aligned with T allocated by an external allocator.
+- [etherparse](https://github.com/JulianSchmid/etherparse) - Rust library for parsing ethernet & ethernet using protocols.
 
 ## Cargo Plugins
 
@@ -2096,6 +2098,7 @@
 - [cargo-doc2readme](https://github.com/msrd0/cargo-doc2readme) - Cargo subcommand to create a readme file containing the rustdoc comments from your code.
 - [cargo_metadata](https://github.com/oli-obk/cargo_metadata) - Structured access to the output of cargo metadata. Usually used from within a cargo-\* executable.
 - [cargo-select](https://github.com/LoipesMas/cargo-select) - Cargo subcommand to easily run targets/examples/tests.
+- [Cargo Commander](https://github.com/adaptive-simon/cargo-commander) - Simple way of running commands.
 
 ## Notes
 

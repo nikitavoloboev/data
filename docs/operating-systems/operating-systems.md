@@ -160,6 +160,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [owlOS](https://github.com/Talon396/owlOS) - Free UNIX-like operating system written in Rust.
 - [ScratchOS](https://github.com/scratchnative/scratchOS) - Basic operating system written in Scratch3.
 - [CrabOS](https://github.com/haileys/crabos) - Hobby operating system written in Rust.
+- [WasabiOS](https://github.com/hikalium/wasabi) - Web browser + OS in Rust.
 
 ## Notes
 

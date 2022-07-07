@@ -835,3 +835,8 @@
 - [Vision Transformer Adapter for Dense Predictions (2022)](https://arxiv.org/abs/2205.08534) ([Code](https://github.com/czczup/ViT-Adapter))
 - [Activating More Pixels in Image Super-Resolution Transformer (2022)](https://arxiv.org/abs/2205.04437) ([Code](https://github.com/XPixelGroup/HAT))
 - [PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies (2022)](https://arxiv.org/abs/2206.04670) ([Code](https://github.com/guochengqian/PointNeXt))
+- [GMFlow: Learning Optical Flow via Global Matching (2022)](https://arxiv.org/abs/2111.13680) ([Code](https://github.com/haofeixu/gmflow))
+- [Vector-quantized Image Modeling with Improved VQGAN (2021)](https://arxiv.org/abs/2110.04627) ([JAX Code](https://github.com/patil-suraj/vit-vqgan))
+- [Learned Vertex Descent: A New Direction for 3D Human Model Fitting (2022)](https://arxiv.org/abs/2205.06254) ([Code](https://github.com/enriccorona/LVD))
+- [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors (2022)](https://arxiv.org/abs/2207.02696) ([Code](https://github.com/WongKinYiu/yolov7))
+- [AITViewer](https://github.com/eth-ait/aitviewer) - Set of tools to visualize and interact with sequences of 3D data.

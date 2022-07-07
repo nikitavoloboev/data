@@ -423,3 +423,4 @@ title: PyTorch
 - [ngp_pl](https://github.com/kwea123/ngp_pl) - Instant-ngp (only NeRF) in pytorch+cuda trained with pytorch-lightning (high quality with high speed).
 - [PyTorch time series](https://github.com/okrasolar/pytorch-timeseries) - PyTorch implementations of neural networks for time series classification.
 - [DiffMat](https://github.com/mit-gfx/diffmat) - PyTorch-based differentiable material graph library for procedural material capture.
+- [Torchsort](https://github.com/teddykoker/torchsort) - Fast, differentiable sorting and ranking in PyTorch.

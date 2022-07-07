@@ -74,3 +74,5 @@ title: Protocol buffers
 - [APBuf (Algebraic Protocol Buffers)](https://github.com/gfngfn/apbuf) - Compiler that generates decoders/encoders from a single configuration file that specifies the data format.
 - [Aleka](https://github.com/miguelabate/aleka) - Schema agnostic protobuf decoder tool.
 - [protoc-gen-apidocs](https://github.com/tmc/protoc-gen-apidocs) - Simple and customizable protoc generator that translates .proto files into clean and readable markdown format.
+- [ts-proto-common-types](https://github.com/paralin/ts-proto-common-types) - TypeScript generated with ts-proto for the google/protobuf types.
+- [ProtoScript](https://github.com/tatethurston/ProtoScript) - Protobuf runtime and code generation tool for JavaScript and TypeScript.

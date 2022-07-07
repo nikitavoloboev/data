@@ -60,12 +60,14 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Sentry → Discord](https://github.com/IanMitchell/sentrydiscord.dev) - Forward Sentry notifications to your Discord server.
 - [Apple Updates](https://github.com/Minh-Ton/apple-updates) - Discord bot for pushing notifications about new Apple OS updates.
 - [Fish](https://github.com/Benricheson101/anti-phishing-bot) - Discord bot for deleting Steam/Discord phishing links.
+- [CRBT](https://crbt.app/) - Multipurpose verified Discord bot that's minimalistic and easy to use.
 
 ## Libraries
 
 - [Cordless](https://github.com/TomerRon/cordless) - Declarative Discord bot framework. Build your first bot in 5 minutes with 3 lines of code.
 - [Discordeno](https://github.com/discordeno/discordeno) - Discord API library for Deno.
 - [Slshx](https://github.com/mrbbot/slshx) - Strongly-typed Discord commands on Cloudflare Workers.
+- [Purplet](https://github.com/CRBT-Team/Purplet) - Simple framework to build modern Discord apps.
 - [Harmony](https://github.com/harmonyland/harmony) - Easy to use Discord API Library for Deno.
 - [Songbird](https://github.com/serenity-rs/songbird) - Async Rust library for the Discord voice API.
 - [Discord Rust](https://github.com/twilight-rs/twilight)

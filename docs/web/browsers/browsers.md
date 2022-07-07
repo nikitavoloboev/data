@@ -238,3 +238,5 @@
 - [Vite Plugin Web Extension](https://github.com/aklinker1/vite-plugin-web-extension) - Vite plugin for bundling Chrome/Browser Extensions.
 - [Web Extensions (sys)](https://github.com/web-extensions-rs/web-extensions-sys) - Rust library that provides WebExtension API WASM bindings.
 - [Ladybird Web Browser](https://github.com/awesomekling/ladybird) - Browser using the SerenityOS LibWeb engine with a Qt GUI.
+- [Andy Bell – Be the browser’s mentor, not its micromanager (2022)](https://www.youtube.com/watch?v=5uhIiI9Ld5M) ([Slides](https://heypresents.com/downloads/conference/2022/andy-bell.pdf)) ([Tweet](https://twitter.com/hankchizljaw/status/1544310058497998850))
+- [Vite web extension template. Setup with React, Typescript and TailwindCSS](https://github.com/JohnBra/vite-web-extension)

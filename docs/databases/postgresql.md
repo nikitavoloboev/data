@@ -535,3 +535,5 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Dashibase](https://dashibase.com/) - No-code dashboards with Supabase. ([Insert](https://dashibase.com/insert)) ([Insert Code](https://github.com/Dashibase/dashibase-insert)) ([Code](https://github.com/Dashibase/dashibase))
 - [pgenv](https://github.com/theory/pgenv) - PostgreSQL binary manager.
 - [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for the Mac.
+- [pgs2](https://github.com/michelp/pgs2) - Postgres extension for S2 spherical geometry.
+- [InfluxDB Line Protocol Listener for PostgreSQL](https://github.com/timescale/pg_influx)

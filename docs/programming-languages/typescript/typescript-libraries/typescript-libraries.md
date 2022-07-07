@@ -642,3 +642,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Levitate](https://github.com/grafana/levitate) - Tool for helping to understand APIs exported and consumed by NPM packages (or any TypeScript code).
 - [pkg-exports](https://github.com/antfu/pkg-exports) - Get exports of an local npm package.
 - [remark-typescript-tools](https://github.com/phryneas/remark-typescript-tools) - Two remark plugins to use TypeScript code with remark, to generate better documentation.
+- [clean-pkg-json](https://github.com/privatenumber/clean-pkg-json) - Script to remove unnecessary properties from package.json on prepublish hook.

@@ -567,3 +567,4 @@
 - [The Grug Brained Developer](https://grugbrain.dev/) - Layman's guide to thinking like the self-aware smol brained.
 - [Ask HN: What tone to use in code review suggestions? (2022)](https://news.ycombinator.com/item?id=31858604)
 - [What Metric to Use When Benchmarking? (2022)](https://tratt.net/laurie/blog/2022/what_metric_to_use_when_benchmarking.html)
+- [Why DRY is the most over-rated programming principle (2022)](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/) ([HN](https://news.ycombinator.com/item?id=32010699))

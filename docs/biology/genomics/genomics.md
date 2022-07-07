@@ -182,3 +182,4 @@ title: Genomics
 - [Dagr](https://github.com/fulcrumgenomics/dagr) - Task and pipeline execution system for directed acyclic graphs to support scientific, and more specifically, genomic analysis workflows.
 - [FASTQ ME](https://github.com/nh13/fqme)
 - [GenStore: A High-Performance and Energy-Efficient In-Storage Computing System for Genome Sequence Analysis (2022)](https://arxiv.org/abs/2202.10400) ([Video](https://www.youtube.com/watch?v=cYz-6GVCVRk))
+- [A time-resolved, multi-symbol molecular recorder via sequential genome editing (2022)](https://www.nature.com/articles/s41586-022-04922-8)

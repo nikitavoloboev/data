@@ -4,6 +4,8 @@
 
 [Marko](https://github.com/marko-js/marko), [Qwik](https://github.com/BuilderIO/qwik) & [Bud](https://github.com/livebud/bud) (love the CLI for file generation) seem nice too.
 
+[Be the browser’s mentor, not its micromanager](https://www.youtube.com/watch?v=5uhIiI9Ld5M) is a great talk on making websites.
+
 ## Notes
 
 - Amazing thing about the web is the fact that clients (browsers) and servers can interact in complex ways without the client knowing anything beforehand about the server and the resources it hosts.

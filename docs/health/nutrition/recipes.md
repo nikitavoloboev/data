@@ -28,6 +28,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Homemade custard recipe](https://www.bbcgoodfood.com/recipes/homemade-custard)
 - [Premium Ceylon Cinnamon Rolls](https://www.youtube.com/watch?v=fyvMDqlfNPc)
 - [Lemon Blueberry Cake](https://carlsbadcravings.com/lemon-blueberry-cake/) ([Tweet](https://twitter.com/ferrisjabr/status/1528513907232415745))
+- [Шакшука — израильская яичница](https://www.youtube.com/watch?v=FSJeOFjO5SE)
 
 ## Links
 
@@ -103,3 +104,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Pestle](https://apps.apple.com/au/app/pestle-kitchen-recipe-book/id1574776971) - Save & Manage Recipes. ([Twitter](https://twitter.com/pestlechef))
 - [10 tastiest Ukrainian dishes](https://ukraineworld.org/articles//ukraine-explained/eat-ukraine-10-tastiest-ukrainian-dishes)
 - [Erica Cooks](https://ericaxu.github.io/quantified-chef/)
+- [Eda.ru - YouTube](https://www.youtube.com/c/edaru/videos)

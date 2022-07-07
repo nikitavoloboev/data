@@ -182,3 +182,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Cloudflare Workers Postgres Client](https://github.com/bubblydoo/cloudflare-workers-postgres-client) - Connect to a Postgres database from a Cloudflare Worker, using Cloudflare Tunnel.
 - [r2-image-worker](https://github.com/yusukebe/r2-image-worker) - Store and Deliver images with R2 backend Cloudflare Workers.
 - [MitM at the Edge: Abusing Cloudflare Workers (2022)](https://blog.christophetd.fr/abusing-cloudflare-workers/)
+- [D1 Console](https://github.com/isaac-mcfadyen/d1-console) - Full query console for Cloudflare's D1 database product.
