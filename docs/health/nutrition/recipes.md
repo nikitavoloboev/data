@@ -29,6 +29,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Premium Ceylon Cinnamon Rolls](https://www.youtube.com/watch?v=fyvMDqlfNPc)
 - [Lemon Blueberry Cake](https://carlsbadcravings.com/lemon-blueberry-cake/) ([Tweet](https://twitter.com/ferrisjabr/status/1528513907232415745))
 - [Шакшука — израильская яичница](https://www.youtube.com/watch?v=FSJeOFjO5SE)
+- [Medovik](https://www.reddit.com/r/food/comments/vt64dj/homemade_my_first_attempt_at_medovik_an_eastern/)
 
 ## Links
 

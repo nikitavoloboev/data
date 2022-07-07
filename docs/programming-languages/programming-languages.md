@@ -386,3 +386,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Emerge](https://github.com/glato/emerge) - Code analysis tool to gather insights about source code structure, metrics, dependencies and complexity of software projects.
 - [What's a condition system and why do you want one? (2011)](http://axisofeval.blogspot.com/2011/04/whats-condition-system-and-why-do-you.html) ([Lobsters](https://lobste.rs/s/q8lz7a/what_s_condition_system_why_do_you_want_one))
 - [Thoughts on infectious systems: async/await and pure](https://www.reddit.com/r/ProgrammingLanguages/comments/vofiyv/thoughts_on_infectious_systems_asyncawait_and_pure/) ([Lobsters](https://lobste.rs/s/jnm7jz/thoughts_on_infectious_systems_async))
+- [Jai vs Odin systems programming languages (Non-spicy takes!) (2022)](https://www.youtube.com/watch?v=M763xHjsPk4)

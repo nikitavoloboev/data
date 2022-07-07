@@ -382,3 +382,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Internet Archive scans of logotype books](https://twitter.com/bao_t_nguyen/status/1538647087587373056)
 - [Emtype Foundry](https://emtype.net/)
 - [Discrete Typography Tool](https://discrete-typography.netlify.app/) - Understand and generate x-height and cap-height in CSS.
+- [Fluid Typography and Layouts with Andy Bell (2022)](https://www.youtube.com/watch?v=7X8R_KVB3uc)

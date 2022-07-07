@@ -300,3 +300,4 @@ title: Swift
 - [Swift interop from Frida](https://github.com/frida/frida-swift-bridge)
 - [Understanding the "some" and "any" keywords in Swift 5.7 (2022)](https://swiftsenpai.com/swift/understanding-some-and-any/)
 - [Porting Graphing Calculator from C++ to Swift (2022)](https://www.swift.org/blog/graphing-calculator/) ([HN](https://news.ycombinator.com/item?id=31945478))
+- [How to Achieve Dynamic Dispatch Using Generic Protocols in Swift 5.7 (2022)](https://swiftsenpai.com/swift/dynamic-dispatch-with-generic-protocols/)

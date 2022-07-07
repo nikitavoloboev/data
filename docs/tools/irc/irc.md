@@ -77,3 +77,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Matrix gateway for IRC](https://github.com/progval/matrix2051) - Connect to Matrix from your favorite IRC client.
 - [Limnoria](https://github.com/progval/Limnoria) - Robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins.
 - [ergochat/irc-go](https://github.com/ergochat/irc-go) - Libraries to help with IRC development in Go.
+- [SourceHut is committed to making IRC better (2022)](https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/) ([Lobsters](https://lobste.rs/s/oim6aa/sourcehut_is_committed_making_irc_better))

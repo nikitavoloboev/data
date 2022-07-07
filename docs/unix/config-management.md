@@ -63,3 +63,4 @@
 - [Recode](https://github.com/recode-sh/cli) - CLI to create remote development environments in your cloud provider account easily.
 - [Validate Your YAML (with CUE) (2022)](https://earthly.dev/blog/yaml-validate-and-lint-cue-lang/)
 - [YAMLLint](https://github.com/adrienverge/yamllint) - Linter for YAML files.
+- [Ketolang](https://github.com/pushtorefresh/ketolang) - Future of general purpose Сonfiguration languages. Side-effect-less dialect of Kotlin.

@@ -315,3 +315,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Lithium - Periodic Table of Videos (2016)](https://www.youtube.com/watch?v=LfS10ArXTBA)
 - [preCICE](https://github.com/precice/precice) - Coupling library for partitioned multi-physics simulations, including, but not restricted to fluid-structure interaction and conjugate heat transfer simulations. ([Web](https://precice.org/))
 - [Ask HN: What is a nature of a magnetic field](https://news.ycombinator.com/item?id=31968099)
+- [What would change if the speed of light was not constant in all reference frames](https://www.reddit.com/r/AskPhysics/comments/vtcrrn/what_would_change_if_the_speed_of_light_was_not/)

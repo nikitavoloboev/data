@@ -863,3 +863,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [MLC](https://github.com/mlc-ai/mlc-zh) - Machine Learning Compiler.
 - [Recommender System on MovieLens dataset](https://github.com/rposhala/Recommender-System-on-MovieLens-dataset)
 - [Awesome Radar Perception](https://github.com/ZHOUYI1023/awesome-radar-perception) - Curated list of radar datasets, detection, tracking and fusion.
+- [MLGO: A Machine Learning Framework for Compiler Optimization (2022)](https://ai.googleblog.com/2022/07/mlgo-machine-learning-framework-for.html)
