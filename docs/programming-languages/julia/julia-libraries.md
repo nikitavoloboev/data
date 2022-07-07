@@ -236,6 +236,10 @@
 - [SolidStateDetectors.jl](https://github.com/JuliaPhysics/SolidStateDetectors.jl) - Julia package for fast 2D and 3D simulation of Solid State Detectors.
 - [OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl) - High performance differential equation solvers for ordinary differential equations, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML).
 
+## Chemistry
+
+- [ChemistryFeaturization.jl](https://github.com/Chemellia/ChemistryFeaturization.jl) - Interface for modular, flexible, invertible featurization of atomic structures for machine learning purposes.
+
 ## Graphics
 
 - [FreeTypeAbstraction](https://github.com/JuliaGraphics/FreeTypeAbstraction.jl) - Draw text into a Matrix.
@@ -664,6 +668,7 @@
 - [StructuralIdentifiability.jl](https://github.com/SciML/StructuralIdentifiability.jl) - Julia package for assessing structural parameter identifiability of parametric ODE models, both local and global.
 - [SignalAnalysis.jl](https://github.com/org-arl/SignalAnalysis.jl) - Signal analysis toolbox for Julia.
 - [Deductive.jl](https://github.com/ctrekker/Deductive.jl) - Package for expressing and proving zeroth order and first order logical statements and theorems symbolically in Julia.
+- [CanonicalTraits](https://github.com/thautwarm/CanonicalTraits.jl) - Full-featured traits in Julia.
 
 ## Links
 

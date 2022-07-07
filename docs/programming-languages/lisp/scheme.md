@@ -4,7 +4,7 @@ title: Scheme
 
 # [Scheme](https://call-cc.org/)
 
-[The Little Typer](https://thelittletyper.com/) is a [nice book](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/).
+[The Little Typer](https://thelittletyper.com/) is a [nice book](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/). [Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html) is nice summary.
 
 ## Links
 
@@ -96,3 +96,6 @@ title: Scheme
 - [Scheme interpreter in Scala](https://github.com/rami3l/yascm)
 - [Scheje](https://github.com/turbopape/scheje) - Scheme in Clojure.
 - [Going from Python to Guile Scheme](http://www.draketo.de/proj/py2guile/) ([Lobsters](https://lobste.rs/s/mvmbcv/going_from_python_guile_scheme))
+- [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html) ([Lobsters](https://lobste.rs/s/akvnzg/scheme_primer))
+- [MIT Scheme Documentation](https://groups.csail.mit.edu/mac/ftpdir/scheme-7.5/7.5.17/doc-html/)
+- [The Why of Y](https://dreamsongs.com/Files/WhyOfY.pdf)

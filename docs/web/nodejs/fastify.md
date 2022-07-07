@@ -64,3 +64,4 @@ title: Fastify
 - [Effect TS Fastify](https://github.com/tcmlabs/effect-ts-fastify)
 - [fastify/hotwire](https://github.com/fastify/fastify-hotwire) - Use the Hotwire pattern with Fastify.
 - [fastify/fast-json-stringify-compiler](https://github.com/fastify/fast-json-stringify-compiler) - Build and manage the fast-json-stringify instances for the fastify framework.
+- [fastify/deepmerge](https://github.com/fastify/deepmerge) - Merges the enumerable properties of two or more objects deeply.

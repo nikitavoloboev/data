@@ -40,3 +40,4 @@ My DB of choice for all projects. Sits on top of [Postgres](postgresql.md) but h
 - [Full-stack EdgeDB + Next.js application](https://github.com/colinhacks/edgedb-nextjs-blog)
 - [EdgeDB Blog](https://www.edgedb.com/blog)
 - [Colin McDonnell - Zod, tRPC, EdgeDB (2022)](https://www.youtube.com/watch?v=WVRLim8A8-I)
+- [EdgeDB MCU sandbox](https://github.com/edgedb/mcu-sandbox) - Sandbox for playing with EdgeDB and the EdgeQL query builder.

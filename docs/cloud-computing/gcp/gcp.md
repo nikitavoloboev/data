@@ -123,3 +123,4 @@ Looking into [Railway](https://railway.app/) & [Cloudflare](https://www.cloudfla
 - [GCP Project Operator](https://github.com/openshift/gcp-project-operator) - Responsible for creating and destroying projects and service accounts in GCP.
 - [pubsub_sendmail](https://github.com/GoogleCloudPlatform/cloud-pubsub-sendmail) - Send emails from Google Cloud Pub/Sub events.
 - [bqtail](https://github.com/viant/bqtail) - BigQuery Google Storage Based Data Loader.
+- [Networking 101 GCP sheet](https://github.com/jesuispy/networking-101-gcp-sheet)

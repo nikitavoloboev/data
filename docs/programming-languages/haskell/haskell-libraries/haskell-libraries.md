@@ -350,6 +350,7 @@
 - [streaming](https://github.com/haskell-streaming/streaming) - Optimized general monad transformer for streaming applications, with a simple prelude of functions.
 - [text-show](https://github.com/RyanGlScott/text-show) - Efficient conversion of values into Text.
 - [k3](https://github.com/awkward-squad/ki) - Lightweight structured-concurrency library.
+- [PyF](https://github.com/guibou/PyF) - Haskell library for string interpolation and formatting.
 
 ## Notes
 

@@ -55,3 +55,4 @@ title: Cypress
 - [Real World Testing with Cypress](https://learn.cypress.io/) ([Code](https://github.com/cypress-io/cypress-realworld-testing))
 - [Cypress Chrome Recorder](https://github.com/cypress-io/cypress-chrome-recorder) - Export Cypress Tests from Google Chrome DevTools' Recorder.
 - [Cypress Snapshot](https://github.com/cypress-io/snapshot) - Adds value / object / DOM element snapshot testing support to Cypress test runner.
+- [Cypress Parallel](https://github.com/tgamauf/cypress-parallel) - GitHub action allows you to easily execute Cypress tests in parallel without the use of Cypress Dashboard.

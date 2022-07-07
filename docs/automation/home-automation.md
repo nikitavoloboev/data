@@ -72,3 +72,4 @@
 - [rusty-home](https://github.com/eigenein/rusty-home) - Hobby set of «smart home» microservices.
 - [Explore Matter, the new smart home standard, in Home Assistant (2022)](https://www.home-assistant.io/blog/2022/05/29/matter-in-home-assistant-workshop-announcement/)
 - [Useful Home Assistant tech (2022)](https://twitter.com/wesbos/status/1537796659534512129)
+- [My Preferred Smart Home Vendors (2022)](https://chrisx.xyz/blog/my-preferred-smart-home-vendors/)

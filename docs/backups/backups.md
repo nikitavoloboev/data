@@ -88,3 +88,4 @@ For programming, [Walrus](https://github.com/Clivern/Walrus) seems nice.
 - [bacup](https://github.com/galeone/bacup) - Easy-to-use backup tool designed for servers - written in Rust.
 - [Correct Backups Require Filesystem Snapshots (2022)](https://cyounkins.medium.com/correct-backups-require-filesystem-snapshots-23062e2e7a15) ([HN](https://news.ycombinator.com/item?id=31401151))
 - [Hoard](https://github.com/Shadow53/hoard) - Program for backing up files from across a filesystem into a single directory and restoring them later. ([Docs](https://hoard.rs/))
+- [Immutable backups so simple that unborkable](https://github.com/nathants/backup) ([Lobsters](https://lobste.rs/s/qfva1e/immutable_backups_so_simple_unborkable))

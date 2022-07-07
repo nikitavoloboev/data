@@ -51,3 +51,4 @@ title: Kotlin
 - [Crash course on the Kotlin compiler (2022)](https://hinchman-amanda.medium.com/crash-course-on-the-kotlin-compiler-1-frontend-parsing-phase-9898490d922b)
 - [Toying with Kotlin's Context Receivers (2022)](https://blog.frankel.ch/kotlin-context-receivers/) ([HN](https://news.ycombinator.com/item?id=31388883))
 - [Kotlin Native Xcode Support](https://github.com/touchlab/xcode-kotlin) - Allows debugging of Kotlin code running in an iOS application, directly from Xcode.
+- [Kotlin Analysis Server](https://github.com/fwcd/kotlin-analysis-server) - Language server prototype using the new Kotlin analysis API.

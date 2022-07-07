@@ -192,6 +192,7 @@
 - [WASM Timer](https://github.com/tomaka/wasm-timer) - Abstraction over std::time::Instant and tokio_timer that works on WASM.
 - [WABT-RS](https://github.com/pepyakin/wabt-rs) - WABT bindings for Rust.
 - [Rust Open Policy Agent SDK](https://github.com/matrix-org/rust-opa-wasm) - Crate to use OPA policies compiled to WASM.
+- [cargo component](https://github.com/bytecodealliance/cargo-component) - Cargo subcommand for creating WebAssembly components based on the component model proposal.
 
 ## GUI
 
@@ -547,6 +548,7 @@
 - [group](https://github.com/zkcrypto/group) - Elliptic curve group traits and utilities.
 - [Snowstorm](https://github.com/black-binary/snowstorm) - Minimalistic encryption protocol for rust async streams/packets, based on noise protocol and snow.
 - [Linear-Time Sumcheck](https://github.com/arkworks-rs/sumcheck) - Rust library that implements the sumcheck protocol.
+- [Classic McEliece](https://github.com/Colfenor/classic-mceliece-rust) - Safe pure-rust implementation of the Classic McEliece post-quantum scheme.
 
 ## Linux
 
@@ -2014,6 +2016,8 @@
 - [measureme](https://github.com/rust-lang/measureme) - Support crate for rustc's self-profiling feature.
 - [Foreign Vec](https://github.com/DataEngineeringLabs/foreign_vec) - Zero-cost abstraction to store either [Vec\<T\>] or an immutable region aligned with T allocated by an external allocator.
 - [etherparse](https://github.com/JulianSchmid/etherparse) - Rust library for parsing ethernet & ethernet using protocols.
+- [bv-rs](https://github.com/tov/bv-rs) - Bit-vectors and bit-slices for Rust.
+- [weak-table](https://github.com/tov/weak-table-rs) - Weak hash maps and sets for Rust.
 
 ## Cargo Plugins
 

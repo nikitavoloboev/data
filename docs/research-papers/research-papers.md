@@ -190,3 +190,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Sci-Hub X Now](https://github.com/gchenfc/sci-hub-now) - Free access to academic papers with just a single click.
 - [Paperlib](https://github.com/GeoffreyChen777/paperlib) - Open-source simple academic paper management tool for computer science. ([Web](https://paperlib.app/en/))
 - [What specific scientific paper you can link to most contradicted your prior belief and made you 180° to a new one? (2022)](https://twitter.com/nickcammarata/status/1543942927952580608)
+- [Papers for Software Engineers](https://github.com/facundoolano/software-papers/)

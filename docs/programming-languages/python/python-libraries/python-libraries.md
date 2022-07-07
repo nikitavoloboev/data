@@ -188,7 +188,7 @@
 - [Ibis BigQuery](https://github.com/ibis-project/ibis-bigquery) - BigQuery backend for Ibis.
 - [Arrowdantic](https://github.com/jorgecarleitao/arrowdantic) - Small Python library backed by a mature Rust implementation of Apache Arrow.
 - [static_ondisk_kv](https://github.com/rom1504/static-ondisk-kv) - Simple and fast implementation of a static on disk kv, in python.
-- [SQLGlot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler.
+- [SQLGlot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler. ([HN](https://news.ycombinator.com/item?id=31981568))
 - [sqlakeyset](https://github.com/djrobstep/sqlakeyset) - Keyset-based paging for SQLAlchemy (both ORM and core).
 - [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [sqlvalidator](https://github.com/David-Wobrock/sqlvalidator) - SQL queries formatting, syntactic and semantic validation.
@@ -238,6 +238,10 @@
 - [PyStan](https://github.com/stan-dev/pystan) - Python interface to Stan, a package for Bayesian inference.
 - [Statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 - [TriMap](https://github.com/eamid/trimap) - Large-scale Dimensionality Reduction Using Triplets.
+
+## Physics
+
+- [solid_dmft](https://github.com/TRIQS/solid_dmft) - Versatile python wrapper to perform DFT+DMFT calculations utilizing the TRIQS software library.
 
 ## Linux
 
@@ -915,6 +919,8 @@
 - [Red Engine](https://github.com/Miksus/red-engine) - Modern scheduling library for Python. ([Docs](https://red-engine.readthedocs.io/en/stable/index.html)) ([HN](https://news.ycombinator.com/item?id=31969345))
 - [Pyslvs-UI](https://github.com/KmolYuan/Pyslvs-UI) - GUI-based (PyQt5) tool used to design 2D linkage mechanism.
 - [FlowKit](https://github.com/whitews/FlowKit) - Intuitive Python toolkit for flow cytometry analysis and visualization, with full support for the GatingML 2.0 standard.
+- [Magniv](https://github.com/MagnivOrg/magniv-core) - Python-decorator based job orchestration platform. Avoid responsibility handoffs by abstracting infra and DevOps.
+- [k-Medoids](https://github.com/kno10/python-kmedoids) - Fast K-Medoids clustering in Python with FasterPAM.
 
 ## Notes
 

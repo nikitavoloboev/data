@@ -815,3 +815,4 @@ if err != nil {
 - [go-graph](https://github.com/kallsyms/go-graph) - Searching Go code with a graph database. ([Using Graphs to Search for Code](https://nickgregory.me/post/2022/07/02/go-code-as-a-graph/))
 - [What to forget when coming to Go from other languages? (2022)](https://www.reddit.com/r/golang/comments/vprvyh/what_to_forget_when_coming_to_golang_from_other/)
 - [Ask HN: Should I learn Rust or Go? (2022)](https://news.ycombinator.com/item?id=31976407)
+- [PocketBase](https://github.com/pocketbase/pocketbase) - Open source Go backend. ([Web](https://pocketbase.io/))

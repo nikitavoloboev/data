@@ -100,3 +100,4 @@ title: TLS
 - [TLS Reconciler](https://github.com/shaj13/tlsreconciler) - Hitless TLS Certificate Rotation Reconciliation Library.
 - [TLS-Scanner](https://github.com/tls-attacker/TLS-Scanner) - Tool to assist pentesters and security researchers in the evaluation of TLS Server configurations.
 - [TLSX](https://github.com/projectdiscovery/tlsx) - Fast and configurable TLS grabber focused on TLS based data collection and analysis.
+- [Bertie](https://github.com/cryspen/bertie) - Minimal, high-assurance implementation of TLS 1.3 written in subset of Rust called hacspec.

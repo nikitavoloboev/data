@@ -20,3 +20,5 @@ title: Cosmos
 - [Cosmos.nix](https://github.com/informalsystems/cosmos.nix) - Nix Integration with Cosmos Projects.
 - [CosmWasm Plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses.
 - [did](https://github.com/mingderwang/did) - Blockchain application built using Cosmos SDK and Tendermint and generated with Starport.
+- [Cosmos Rust](https://github.com/cosmos/cosmos-rust) - Commonly shared rust resources related to the Cosmos ecosystem.
+- [Regen Ledger](https://github.com/regen-network/regen-ledger) - Distributed ledger for ecology built on top of the cosmos-sdk.

@@ -773,3 +773,4 @@ title: Kubernetes
 - [HTPC powered by k3s](https://github.com/fabito/htk8s)
 - [Managing Kubernetes without loosing your cool (2022)](https://marcusnoble.co.uk/2022-07-04-managing-kubernetes-without-loosing-your-cool/)
 - [Plural](https://www.plural.sh/) - Multi-cloud, multi-prem application deployments for kubernetes in minutes. ([Code](https://github.com/pluralsh/plural))
+- [mirrord](https://mirrord.dev/) - Lets you easily mirror traffic from your Kubernetes cluster to your development environment. ([Code](https://github.com/metalbear-co/mirrord)) ([mirrord internals - hooking libc functions in Rust and fixing bugs](https://metalbear.co/blog/mirrord-internals-hooking-libc-functions-in-rust-and-fixing-bugs/))

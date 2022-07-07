@@ -382,3 +382,5 @@
 - [Ask HN: How to learn mathematical proofs from scratch? (2022)](https://news.ycombinator.com/item?id=31800081)
 - [The Mathematical Universe - Max Tegmark (2007)](https://arxiv.org/abs/0704.0646)
 - [What was the most remarkable mathematical achievement of the past 50 years? (2022)](https://www.reddit.com/r/math/comments/vrmr5n/what_was_the_most_remarkable_mathematical/)
+- [June Huh, High School Dropout, Wins the Fields Medal (2022)](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
+- [Fields Medals 2022](https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2022) ([HN](https://news.ycombinator.com/item?id=31994289))

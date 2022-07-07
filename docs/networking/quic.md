@@ -56,3 +56,4 @@ title: QUIC
 - [Network Simulator for QUIC benchmarking](https://github.com/marten-seemann/quic-network-simulator)
 - [How Facebook Is Bringing QUIC to Billions (2022)](https://www.infoq.com/presentations/facebook-quic-http3/)
 - [A Quick Look at QUIC Censorship (2022)](https://ooni.org/post/2022-quick-look-quic-censorship/) ([HN](https://news.ycombinator.com/item?id=31805087))
+- [QUIC Version 2](https://github.com/quicwg/quic-v2)

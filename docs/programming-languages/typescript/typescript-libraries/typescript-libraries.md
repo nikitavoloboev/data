@@ -560,6 +560,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [lexure](https://github.com/1Computer1/lexure) - Parser and utilities for non-technical user input.
 - [fn.obs](https://github.com/mihar-22/fn-obs) - Tiny (750B minzipped) library for creating reactive observables via functions.
 - [fastest-levenshtein](https://github.com/ka-weihe/fastest-levenshtein) - Fastest implementation of Levenshtein distance in JS/TS.
+- [JSON-LD Streaming Parser](https://github.com/rubensworks/jsonld-streaming-parser.js) - Fast and lightweight streaming JSON-LD parser for JavaScript.
 
 ## Links
 

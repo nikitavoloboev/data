@@ -99,3 +99,4 @@ title: Assembly
 - [elf.js](https://github.com/tsoding/elf.js) - Project to learn ELF format.
 - [The curious tale of a fake Carrier.app (2022)](https://googleprojectzero.blogspot.com/2022/06/curious-case-carrier-app.html)
 - [Some Assembly Required - Approachable introduction to assembly](https://github.com/hackclub/some-assembly-required)
+- [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language) ([Lobsters](https://lobste.rs/s/okp72g/creating_language_using_only_assembly))

@@ -1729,6 +1729,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [xunsafe](https://github.com/viant/xunsafe) - Faster Go reflection.
 - [Toolbox](https://github.com/viant/toolbox) - Go utility library.
 - [Trie](https://github.com/viant/ptrie) - Prefix tree implementation in go.
+- [Go Cache](https://github.com/sethvargo/go-cache) - Cache implementations in Go, with support for generics.
 
 ## Links
 

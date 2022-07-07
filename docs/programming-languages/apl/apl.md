@@ -68,3 +68,4 @@ title: APL
 - [Fixing APL’s trigonometric notation (2022)](https://outerproduct.net/2022-03-07_death-to-%E2%97%8B.html)
 - [I language](https://github.com/mlochbaum/ILanguage) - Generalizes the array and functional capabilities of the array-programming language J to deal with a much broader variety of data structures.
 - [Why APL is worth knowing (2022)](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing) ([HN](https://news.ycombinator.com/item?id=30870868))
+- [Fast.ai APL study group notes](https://github.com/fastai/apl-study)

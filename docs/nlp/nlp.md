@@ -610,5 +610,5 @@
 - [Awesome Document Similarity Measures](https://github.com/malteos/awesome-document-similarity)
 - [RETRO Is Blazingly Fast (2022)](http://mitchgordon.me/ml/2022/07/01/retro-is-blazing.html)
 - [LightOn](https://lighton.ai/) - Unlock Extreme-Scale Machine Intelligence. Most repos are focused on the use of photonic hardware. ([GitHub](https://github.com/lightonai))
-- [Minerva: Solving Quantitative Reasoning Problems with Language Models (2022)](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)
+- [Minerva: Solving Quantitative Reasoning Problems with Language Models (2022)](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html) ([Paper](https://arxiv.org/abs/2206.14858))
 - [winkNLP](https://github.com/winkjs/wink-nlp) - Developer friendly Natural Language Processing. ([Docs](https://winkjs.org/wink-nlp/))

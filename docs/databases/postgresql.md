@@ -537,3 +537,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for the Mac.
 - [pgs2](https://github.com/michelp/pgs2) - Postgres extension for S2 spherical geometry.
 - [InfluxDB Line Protocol Listener for PostgreSQL](https://github.com/timescale/pg_influx)
+- [Postgres Locking: When is it Concerning? (2022)](https://www.crunchydata.com/blog/postgres-locking-when-is-it-concerning)

@@ -1196,6 +1196,7 @@
 - [AnyAsyncSequence](https://github.com/vsanthanam/AnyAsyncSequence) - Type-Erased Existential Generic AsyncSequence Values in Swift.
 - [ConcurrencyPlus](https://github.com/ChimeHQ/ConcurrencyPlus) - Utilities for working with Swift Concurrency.
 - [Algorithms on Sequences](https://github.com/fwcd/swift-algorithms-on-sequences) - Various string search algorithms for Swift.
+- [Swift Unidirectional Flow](https://github.com/mecid/swift-unidirectional-flow) - Unidirectional flow implemented using the latest Swift Generics and Swift Concurrency features.
 
 ## Other (not lib)
 

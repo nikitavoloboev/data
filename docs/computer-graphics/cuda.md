@@ -41,3 +41,4 @@ title: CUDA
 - [GPUMD](https://github.com/brucefan1983/GPUMD) - Graphics Processing Units Molecular Dynamics.
 - [Some CUDA programming fun with Julia (2022)](https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html) ([HN](https://news.ycombinator.com/item?id=31298218))
 - [CUDA Samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit.
+- [How CUDA Programming Works (2022)](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41487/) ([HN](https://news.ycombinator.com/item?id=31983460))

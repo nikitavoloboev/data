@@ -79,3 +79,4 @@
 - [Animation. For everyone.](https://www.eatmy.art/) - Create hand-drawn GIFs on paper.
 - [MotionScape](https://github.com/GetStream/motionscape-app) - Animations playground as a developer.
 - [Craft cutting-edge UIs with Framer Motion](https://samselikoff.com/framer-motion-course)
+- [How to Animate Multiplayer Cursors (2022)](https://liveblocks.io/blog/how-to-animate-multiplayer-cursors) ([HN](https://news.ycombinator.com/item?id=31987713))

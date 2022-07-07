@@ -643,3 +643,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Perun - YouTube](https://www.youtube.com/channel/UCC3ehuUksTyQ7bbjGntmx3Q/videos)
 - [War on the Rocks](https://warontherocks.com/)
 - [What modern SciFi content do you think people will look back at as “classics”? (2022)](https://www.reddit.com/r/scifi/comments/vt95xu/what_modern_scifi_content_do_you_think_people/)
+- [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/) ([HN](https://news.ycombinator.com/item?id=31996235))
+- [The Checklist Manifesto Book](http://atulgawande.com/book/the-checklist-manifesto/)

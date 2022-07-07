@@ -105,3 +105,4 @@ title: LoRaWAN
 - [N: Notkia – A Linux phone with LoRa+WiFi+BT connectivity](https://www.hackster.io/reimunotmoe/notkia-f6e772)
 - [LoRa Mesh Network Node](https://github.com/brucemack/WARS-Birdhouse)
 - [LoRa / LoRaWAN + TTN for MicroPython (ESP32)](https://github.com/fantasticdonkey/uLoRa)
+- [Meshtastic](https://www.meshtastic.org/) - Encrypted communications platform for the Lora RF protocol. ([Code](https://github.com/meshtastic/Meshtastic)) ([Docs](https://meshtastic.org/docs/about)) ([HN](https://news.ycombinator.com/item?id=32016142))
