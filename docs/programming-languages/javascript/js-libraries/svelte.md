@@ -274,3 +274,4 @@ title: Svelte
 - [Svelte for Beginners Course (2021)](https://www.udemy.com/course/svelte-for-beginners/)
 - [svelte-gesture](https://github.com/wobsoriano/svelte-gesture) - Library that lets you bind richer mouse and touch events to any component or view.
 - [eslint-plugin-svelte](https://github.com/ota-meshi/eslint-plugin-svelte) - ESLint plugin for Svelte.
+- [svelte-fuse-rx](https://github.com/AlexWarnes/svelte-fuse-rx) - Fusing Svelte and RxJS with simple actions and pipeable stores.

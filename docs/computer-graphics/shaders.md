@@ -90,3 +90,4 @@ title: Shaders
 - [Shaders Playground](https://book-of-shaders-playground.vercel.app/) - From "The Book Of Shaders". ([Code](https://github.com/javusScriptus/book-of-shaders-playground))
 - [shame](https://github.com/RayMarch/shame) - Shader EDSL for writing render and compute pipelines in rust.
 - [Shades](https://github.com/phaazon/shades) - Rust EDSL for shading languages.
+- [Spatula](https://lamina-spatula.vercel.app/) - Create beautiful shader materials in the browser and generate your JavaScript. ([Code](https://github.com/AlexWarnes/lamina-spatula))

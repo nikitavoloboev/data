@@ -867,3 +867,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Supporting GPU-accelerated Machine Learning with Kubernetes and Nix (2022)](https://canvatechblog.com/supporting-gpu-accelerated-machine-learning-with-kubernetes-and-nix-7c1da8e42f61)
 - [Transfer Learning with Deep Tabular Models (2022)](https://arxiv.org/abs/2206.15306) ([Code](https://github.com/LevinRoman/tabular-transfer-learning))
 - [Speech Denoising in the Waveform Domain with Self-Attention (2022)](https://arxiv.org/abs/2202.07790) ([Code](https://github.com/NVIDIA/CleanUNet))
+- [SetVAE: Learning Hierarchical Composition for Generative Modeling of Set-Structured Data (2021)](https://arxiv.org/abs/2103.15619) ([Code](https://github.com/jw9730/setvae))
