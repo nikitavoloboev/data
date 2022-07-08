@@ -1,8 +1,8 @@
 # Programming languages
 
-There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-math-to-machine.html) that goes over how one program can be written in different languages from the most abstract level of Math to Haskell to C to Assembly to actual machine code.
+There is a [great article](https://briansteffens.github.io/2017/02/20/from-math-to-machine.html) that goes over how one program can be written in different languages from the most abstract level of Math to Haskell to C to Assembly to actual machine code.
 
-[Crafting Interpreters](https://craftinginterpreters.com/) is an [amazing book](https://chidiwilliams.com/post/crafting-interpreters-a-review/). [Exercism](https://exercism.org/) is a nice tool for language practice.
+[Crafting Interpreters](https://craftinginterpreters.com/) is an [amazing book](https://chidiwilliams.com/post/crafting-interpreters-a-review/). [Exercism](https://exercism.org/) is a nice tool for language practice. I think [Execute Program](https://www.executeprogram.com/) is currently the best way to learn your first programming language. The interactiveness of it's teaching is incredible. I used it to teach my smaller brother & sister coding by helping them as they did all the exercises. We then went on to use the knowledge of JS/TS to build games & Minecraft mods together on [Replit](https://replit.com/).
 
 I dislike languages with semicolons a lot which is why I prefer [Swift](swift/swift.md) (native GUI) /[Go](go/go.md) (servers/CLI) / [TS](typescript/typescript.md) (browsers/scripting) over any other language right now. [Rust](rust/rust.md) is too slow to compile and also too noisy with syntax. I find Go/Swift plenty fast when I need speed although wish it was less boilerplaity. If I do want to do some embedded code, I'd probably use [Zig](zig/zig.md) as it's much simpler than Rust and has no GC too. Although even there, [TinyGo](https://tinygo.org/) is enough I think. [Julia](julia/julia.md) looks nice for any kind of heavy data processing code / ML.
 
