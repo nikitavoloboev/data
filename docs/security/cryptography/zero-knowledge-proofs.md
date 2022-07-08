@@ -102,3 +102,4 @@ title: Zero knowledge proofs
 - [sppark](https://github.com/supranational/sppark) - Zero-knowledge template library.
 - [Zerokit](https://github.com/vacp2p/zerokit) - Set of Zero Knowledge modules, written in Rust and designed to be used in other system programming environments.
 - [Cairo Bulletproofs](https://github.com/Lev-Stambler/bulletproof-cairo) - Zero knowledge proof system which allow for short inner product, range, shuffle, and arithmetic circuit proofs.
+- [RISC Zero Rust Starter](https://github.com/risc0/risc0-rust-starter) - Minimal starting project for zero-knowledge software development.

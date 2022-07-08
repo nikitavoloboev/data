@@ -973,6 +973,8 @@
 - [Toposort](https://github.com/marcelklehr/toposort) - Topologically sort directed acyclic graphs (such as dependency lists) in JS.
 - [Pool](https://github.com/ricokahler/pool) - Like Promise.all but you can specify how many concurrent tasks you want at once.
 - [Chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library.
+- [ky-universal](https://github.com/sindresorhus/ky-universal) - Use Ky in both Node.js and browsers.
+- [90's Cursor Effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript.
 
 ## Links
 

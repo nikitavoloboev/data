@@ -122,3 +122,4 @@
 - [Rust FUSE library for server, virtio-fs and vhost-user-fs](https://github.com/cloud-hypervisor/fuse-backend-rs)
 - [dbs-fuse](https://github.com/openanolis/dbs-fuse) - Utilities for tokio/tokio-uring based async IO.
 - [afs](https://github.com/viant/afs) - Abstract File Storage.
+- [elmerfs](https://github.com/scality/elmerfs) - File system that leverage Conflict Free Replicated Data Type CRDT on top of AntidoteDB to be eventually consistent in a active-active geo distributed scenario.

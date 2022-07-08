@@ -41,3 +41,4 @@ title: MobX
 - [Understanding MobX](https://github.com/jeromepl/understanding-mobx) - Minimalist implementation of MobX to better understand its inner workings.
 - [Intro to MobX-State-Tree and MobX-React (2022)](https://www.loom.com/share/9e3afe0547824e42bada06191e891ae1)
 - [Mobx Persist Store](https://github.com/quarrant/mobx-persist-store) - Persist and rehydrate observable properties in mobx store.
+- [mst-effect](https://github.com/Runjuu/mst-effect) - Designed to be used with MobX-State-Tree to create asynchronous actions using RxJS.

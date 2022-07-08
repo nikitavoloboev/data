@@ -75,6 +75,7 @@
 - [Lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure.
 - [Plusinia](https://github.com/vlaaad/plusinia) - Solution to N+1 problem in Lacinia.
 - [hicgql](https://github.com/timrichardt/hicgql) - GraphQL in Clojure data structures, Hiccup style.
+- [Phrag](https://github.com/ykskb/phrag) - GraphQL API from an RDBMS Connection.
 
 ## CLI
 

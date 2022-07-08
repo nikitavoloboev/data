@@ -157,3 +157,4 @@
 - [SVGPS](https://svgps.app/) - Converts your icons into a single JSON file that is ready to use in your frontend or mobile projects. ([Code](https://github.com/aykutkardas/svgps.app))
 - [svg-path-morph](https://github.com/Minibrams/svg-path-morph) - Smoothly interpolate between variations of SVG paths.
 - [Mini SVG data: URI](https://github.com/tigt/mini-svg-data-uri) - Small, efficient encoding of SVG data URIs for CSS, HTML, etc.
+- [Heazy](https://heazy.studio/) - Generate stylish SVG design assets with ease. ([Code](https://github.com/MaximBuz/heazy-svg-creator))

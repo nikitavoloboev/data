@@ -6,7 +6,7 @@ There is a [great article](https://briansteffens.github.io/2017/02/20/from-math-
 
 I dislike languages with semicolons a lot which is why I prefer [Swift](swift/swift.md) (native GUI) / [Go](go/go.md) (servers/CLI) / [TS](typescript/typescript.md) (browsers/scripting) over any other language right now. [Rust](rust/rust.md) is too slow to compile and also too noisy with syntax. I find Go/Swift plenty fast when I need speed although wish Go was less boilerplaity. If I do want to do some embedded code, I'd probably use [Zig](zig/zig.md) as it's much simpler than Rust and has no GC too. Although even there, [TinyGo](https://tinygo.org/) is enough I think. [Julia](julia/julia.md) looks nice for any kind of heavy data processing code / ML.
 
-[OCaml](ocaml/ocaml.md) seems interesting as a language to do some type theory research in. Has fast compile types and smart inferency type system. Same for [Agda](agda.md)/[Coq](coq/coq.md)/[Idris](idris/idris.md). [Unison](unison.md) has some novel ideas to learn from too.
+[OCaml](ocaml/ocaml.md) seems interesting as a language to do some [type theory](../math/type-theory/type-theory.md) research in. Has fast compile types and smart inferency type system. Same for [Agda](agda.md)/[Coq](coq/coq.md)/[Idris](idris/idris.md). [Unison](unison.md) has some novel ideas to learn from too.
 
 ## Notes
 

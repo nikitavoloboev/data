@@ -52,6 +52,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [Nick Nisi](https://github.com/nicknisi/dotfiles) - Vim, zsh, git, homebrew, neovim.
 - [Aiden Scandella](https://github.com/ascandella/dotfiles)
 - [ThePrimeagen](https://github.com/ThePrimeagen/.dotfiles)
+- [Folke Lemaitre](https://github.com/folke/dot)
 
 ## Links
 

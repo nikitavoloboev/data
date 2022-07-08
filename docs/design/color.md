@@ -178,3 +178,4 @@
 - [Gradient Avatars](https://avatars.jakerunzer.com/) - Generate a gradient profile image based on some text. ([Code](https://github.com/coffee-cup/gradient-avatars))
 - [Color.js](https://colorjs.io/) - Color conversion & manipulation library by the editors of the CSS Color specifications. ([Code](https://github.com/LeaVerou/color.js)) ([Article](https://svgees.us/blog/colorjs-release.html)) ([Article](https://lea.verou.me/2022/06/releasing-colorjs/))
 - [Easing Gradients](https://larsenwork.com/easing-gradients/) ([Code](https://github.com/larsenwork/larsenwork.github.io/))
+- [Better Color Tools](https://better-color-tools.pages.dev/) - Color parser and better color manipulation through the power of science. Uses Oklab/Oklch for better color operations.

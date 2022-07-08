@@ -31,7 +31,7 @@
 - [coro](https://github.com/r-lib/coro) - Coroutines for R.
 - [purrr](https://github.com/tidyverse/purrr) - Functional programming toolkit for R. ([Web](https://purrr.tidyverse.org/))
 - [ggplot2](https://github.com/tidyverse/ggplot2) - Implementation of the Grammar of Graphics in R.
-- [Tidyverse](https://www.tidyverse.org/) - Opinionated collection of R packages designed for data science. ([GitHub](https://github.com/tidyverse))
+- [Tidyverse](https://www.tidyverse.org/) - Opinionated collection of R packages designed for data science. ([GitHub](https://github.com/tidyverse)) ([Web Code](https://github.com/tidyverse/tidyverse.org))
 - [Programming R at native speed using Haskell (2020)](https://www.tweag.io/blog/2015-09-08-programming-r-at-native-speed-in-haskell/) ([HN](https://news.ycombinator.com/item?id=24981356))
 - [jqr](https://github.com/ropensci/jqr) - R interface to jq, a JSON processor.
 - [Plotly](https://github.com/ropensci/plotly) - Interactive graphing library for R.

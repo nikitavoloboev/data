@@ -351,6 +351,7 @@
 - [text-show](https://github.com/RyanGlScott/text-show) - Efficient conversion of values into Text.
 - [k3](https://github.com/awkward-squad/ki) - Lightweight structured-concurrency library.
 - [PyF](https://github.com/guibou/PyF) - Haskell library for string interpolation and formatting.
+- [FFmpeg light](https://github.com/acowley/ffmpeg-light) - Minimal bindings to the FFmpeg library.
 
 ## Notes
 
