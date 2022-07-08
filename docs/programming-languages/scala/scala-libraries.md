@@ -176,6 +176,7 @@
 - [Staged Program Analyzers](https://github.com/Kraks/sai) - Improving the performance of static analysis by meta-programming/multi-stage programming.
 - [Play JSON](https://github.com/playframework/play-json) - Powerful Scala JSON library, originally developed by the Play team.
 - [kantan.csv](https://github.com/nrinaudo/kantan.csv) - CSV handling library for Scala.
+- [Foursquare Fsq.io](https://github.com/foursquare/fsqio) - All of Foursquare's open source code in a single repo.
 
 ## Links
 
