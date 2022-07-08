@@ -158,3 +158,4 @@
 - [svg-path-morph](https://github.com/Minibrams/svg-path-morph) - Smoothly interpolate between variations of SVG paths.
 - [Mini SVG data: URI](https://github.com/tigt/mini-svg-data-uri) - Small, efficient encoding of SVG data URIs for CSS, HTML, etc.
 - [Heazy](https://heazy.studio/) - Generate stylish SVG design assets with ease. ([Code](https://github.com/MaximBuz/heazy-svg-creator))
+- [ASCIIToSVG](https://github.com/asciitosvg/asciitosvg) - Create beautiful SVG diagrams from ASCII art.
