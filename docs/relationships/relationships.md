@@ -52,6 +52,8 @@ With respect to talking to new people and continuing and maintaining interest in
 
 I also share [my thoughts on finding romantic partners](seduction.md). One fun thing to do with your partner is to do a [fictional character test and guess who got who for a show](https://twitter.com/dan_abramov/status/1523104608973103104).
 
+[The grass is greener where you water it, but the soil has to be fertile](https://www.reddit.com/r/Divorce/comments/qsdymo/the_grass_is_greener_where_you_water_it/). Say and show love to people you love. Sometimes, you have to know when to let go and quit.
+
 ## Notes
 
 - [All Too Well](https://www.youtube.com/watch?v=tollGa3S0o8) clip/film is a nice overview of narcissistic relationship.
@@ -258,3 +260,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [Scenes from an Open Marriage (2022)](https://www.theparisreview.org/blog/2022/06/29/scenes-from-an-open-marriage/)
 - [Мы Расстались. Какими будут отношения через 10 лет: Тиндер, полиамория, одиночество в сети (2022)](https://www.youtube.com/watch?v=MZYb5JzQGE8)
 - [What did you learn from your first serious relationship Gents?](https://www.reddit.com/r/AskMen/comments/vrfgo0/what_did_you_learn_from_your_first_serious/)
+- [Divorce Reddit](https://www.reddit.com/r/Divorce/)
