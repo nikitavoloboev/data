@@ -8,6 +8,8 @@ title: TypeScript
 
 [TypeScript Error Translator](https://github.com/mattpocock/ts-error-translator) is nice.
 
+Run/bundle TS with [Bun](../javascript/bun.md).
+
 ## Notes
 
 - TypeScript can figure the return type out by looking at the return statements, so we can also optionally leave this off in many cases

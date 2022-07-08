@@ -4,6 +4,10 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 
 [Crafting Interpreters](https://craftinginterpreters.com/) is an [amazing book](https://chidiwilliams.com/post/crafting-interpreters-a-review/). [Exercism](https://exercism.org/) is a nice tool for language practice.
 
+I dislike languages with semicolons a lot which is why I prefer [Swift](swift/swift.md) (native GUI) /[Go](go/go.md) (servers/CLI) / [TS](typescript/typescript.md) (browsers/scripting) over any other language right now. [Rust](rust/rust.md) is too slow to compile and also too noisy with syntax. I find Go/Swift plenty fast when I need speed although wish it was less boilerplaity. If I do want to do some embedded code, I'd probably use [Zig](zig/zig.md) as it's much simpler than Rust and has no GC too. Although even there, [TinyGo](https://tinygo.org/) is enough I think. [Julia](julia/julia.md) looks nice for any kind of heavy data processing code / ML.
+
+[OCaml](ocaml/ocaml.md) seems interesting as a language to do some type theory research in. Has fast compile types and smart inferency type system. Same for [Agda](agda.md)/[Coq](coq/coq.md)/[Idris](idris/idris.md). [Unison](unison.md) has some novel ideas to learn from too.
+
 ## Notes
 
 - [I have a very concrete approach for creating categorical models/semantics for PLs. I express the syntax as a GADT, wrap it with a free(r) monad, then work with the resulting kleisli category.](https://twitter.com/tangled_zans/status/1441434927149420547)

@@ -108,3 +108,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Solid Valtio](https://github.com/wobsoriano/solid-valtio) - State management in Solid with valtio.
 - [ReScript SolidJS](https://github.com/Fattafatta/rescript-solidjs)
 - [Solid Cache](https://github.com/LXSMNSYC/solid-cache) - Resource caching in SolidJS.
+- [SolidJS Package Monorepo Starter](https://github.com/solidjs-community/monorepo-starter)
