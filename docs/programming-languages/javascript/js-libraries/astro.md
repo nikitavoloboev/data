@@ -35,3 +35,4 @@ title: Astro
 - [Astro components and configurations collection](https://github.com/JulianCataldo/astro)
 - [Astro + eleventy-img](https://github.com/Princesseuh/astro-eleventy-img) - Tiny script and component intended to be used with Astro for generating images with eleventy-img.
 - [Astro Open Graph Image](https://github.com/Kendy205/astro-og-image) - Astro integration to generate static Open Graph images, at build time.
+- [Astro Auto Import](https://github.com/delucis/astro-auto-import) - Auto-import components in Astro projects.

@@ -518,6 +518,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Cache](https://github.com/gookit/cache) - Generic cache use and cache manage.
 - [dbump](https://github.com/cristalhq/dbump) - Go database schema migrator library.
 - [dsunit](https://github.com/viant/dsunit) - Datastore Testibility.
+- [Instorage](https://github.com/nickname76/instorage) - Simple, easy to use database for faster development of small projects and MVPs in Go. Uses Badger as a storage.
 
 ## ML
 
@@ -1730,6 +1731,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Toolbox](https://github.com/viant/toolbox) - Go utility library.
 - [Trie](https://github.com/viant/ptrie) - Prefix tree implementation in go.
 - [Go Cache](https://github.com/sethvargo/go-cache) - Cache implementations in Go, with support for generics.
+- [Repeater](https://github.com/nickname76/repeater) - Go library for creating repeating function calls.
 
 ## Links
 

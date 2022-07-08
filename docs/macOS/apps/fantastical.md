@@ -43,3 +43,4 @@ I often switch between `Week` and `Month` views.
 - [gocal](https://github.com/apognu/gocal) - Fast (and opinionated) ICAL parser in Go.
 - [print_google_calendar_availability](https://github.com/epierson9/print_google_calendar_availability) - Python script which prints out a summary of your free slots from your Google calendar(s) so you can paste into a scheduling email.
 - [rrule-go](https://github.com/teambition/rrule-go) - Go library for working with recurrence rules for calendar dates.
+- [go-ical](https://github.com/emersion/go-ical) - iCalendar library for Go.

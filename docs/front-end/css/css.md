@@ -532,3 +532,4 @@ all: unset
 - [Anthony Fu's 100 days](https://100.antfu.me/) - 100-day project of exploring design, compform, and new things. ([Code](https://github.com/antfu/100))
 - [CSS Value Processing (2020)](https://ru.ariarzer.dev/articles/2020/css-value-processing.html)
 - [Shader-like holographic effects with CSS (2022)](https://robbowen.digital/wrote-about/css-blend-mode-shaders/) ([HN](https://news.ycombinator.com/item?id=32016391))
+- [Bramus Van Damme | The CSS Cascade, a deep dive (2022)](https://www.youtube.com/watch?v=zEPXyqj7pEA)

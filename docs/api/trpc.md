@@ -20,3 +20,4 @@ title: tRPC
 - [tRPC Chrome](https://github.com/jlalmes/trpc-chrome) - Chrome extension adapter for tRPC.
 - [Build a Blog With the T3 Stack - tRPC, TypeScript, Next.js, Prisma & Zod (2022)](https://www.youtube.com/watch?v=syEWlxVFUrY)
 - [rspc](https://github.com/oscartbeaumont/rspc) - Blazing fast and easy to use TRPC-like server for Rust.
+- [tRPC + Bun](https://github.com/sachinraja/trpc-bun)

@@ -134,6 +134,7 @@
 - [Lumen 2D](https://github.com/Domenicobrz/Lumen-2D) - 2D javascript renderer using web workers.
 - [Blurry](https://github.com/Domenicobrz/Blurry) - Simulating depth of field with particles on a shader.
 - [Window.js](https://github.com/windowjs/windowjs) - Open-source JavaScript runtime for desktop graphics programming. ([HN](https://news.ycombinator.com/item?id=29874029))
+- [glsl-tone-map](https://github.com/dmnsgn/glsl-tone-map) - Collection of tone mapping functions available both as ES modules strings and as GLSL files for use with glslify.
 
 ## State management
 

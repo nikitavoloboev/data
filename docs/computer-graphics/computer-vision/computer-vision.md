@@ -840,3 +840,4 @@
 - [Learned Vertex Descent: A New Direction for 3D Human Model Fitting (2022)](https://arxiv.org/abs/2205.06254) ([Code](https://github.com/enriccorona/LVD))
 - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors (2022)](https://arxiv.org/abs/2207.02696) ([Code](https://github.com/WongKinYiu/yolov7))
 - [AITViewer](https://github.com/eth-ait/aitviewer) - Set of tools to visualize and interact with sequences of 3D data.
+- [Object-Compositional Neural Implicit Surfaces](https://wuqianyi.top/objectsdf/) ([Code](https://github.com/QianyiWu/objsdf))

@@ -231,3 +231,4 @@
 - [Real-Time Polygonal-Light Shading with Linearly Transformed Cosines](https://eheitzresearch.wordpress.com/415-2/) ([Code](https://github.com/YuqiaoZhang/LTC))
 - [Multi-platform experiments in framebuffer drawing performance (2021)](http://nuclear.mutantstargoat.com/blog/100-fbperf_experiments.html)
 - [Basic fact all graphics coders should know](https://twitter.com/keenanisalive/status/1529490555893428226)
+- [Interactive Surface Flow in Taichi](https://github.com/yhesper/TaichiSimplicialFluid)

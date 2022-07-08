@@ -443,3 +443,4 @@ title: Haskell
 - [Incremental builds for Haskell with Bazel (2022)](https://www.tweag.io/blog/2022-06-23-haskell-module/) ([HN](https://news.ycombinator.com/item?id=31847594))
 - [Lenses](https://www.fpcomplete.com/haskell/tutorial/lens/) ([HN](https://news.ycombinator.com/item?id=31890781))
 - [defaultable-map: An Applicative wrapper for Maps (2022)](https://www.haskellforall.com/2022/06/defaultable-map-applicative-wrapper-for.html) ([Lobsters](https://lobste.rs/s/fcbvdo/defaultable_map_applicative_wrapper_for))
+- [Parsing with Haskell (2022)](https://serokell.io/blog/lexing-with-alex) ([HN](https://news.ycombinator.com/item?id=31986811))

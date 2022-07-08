@@ -25,3 +25,4 @@
 - [Busy Doing Nothing by Rek & Devine](https://hundredrabbits.itch.io/busy-doing-nothing)
 - [Zen and the Art of Boat Building (2014)](https://www.yachtmollymawk.com/2014/11/zen-and-the-art-of-boat-building/)
 - [Lürssen Yachts](https://www.lurssen.com/en/)
+- [Starlink Maritime](https://www.starlink.com/maritime) - High-speed, low-latency internet with up to 350 Mbps download while at sea. ([HN](https://news.ycombinator.com/item?id=32018218))

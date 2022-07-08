@@ -16,6 +16,7 @@ title: Chrome DevTools
 - [ChromeDevTools has CSS Animations inspector](https://twitter.com/addyosmani/status/1447079452987387905)
 - [Can hide scripts/assets loaded by extensions from your network tab, put "-scheme:chrome-extension" in the filter input box](https://twitter.com/threepointone/status/1446064032407080966)
 - [You can dynamically insert console.logs without touching your code. Just right-click on the line and choose "logpoint", enter the variables you want to log and hit Enter.](https://twitter.com/marvinhagemeist/status/1527356830757933058)
+- [Holding the shift key while hovering over a request on Chrome DevTools will highlight the initiator in green and dependencies in red.](https://twitter.com/guaca/status/1544967782206431234)
 
 ## Links
 

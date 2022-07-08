@@ -168,3 +168,4 @@ Companies that do [location-based pay bands](https://twitter.com/kyleve/status/1
 - [Ask HN: Recommend employers with positive social impact (2022)](https://news.ycombinator.com/item?id=31518945)
 - [Ask HN: How do you find meaningful jobs? (2022)](https://news.ycombinator.com/item?id=31586518)
 - [Ask HN: Do people want a LinkedIn alternative? (2022)](https://news.ycombinator.com/item?id=31736853)
+- [RemoteFriendly](https://remotefriendly.com/) - Find a Remote Job Today. ([HN](https://news.ycombinator.com/item?id=32019598))

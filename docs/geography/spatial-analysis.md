@@ -231,3 +231,4 @@ title: Spatial analysis
 - [ArchGDAL](https://github.com/yeesian/ArchGDAL.jl) - High level API for GDAL - Geospatial Data Abstraction Library.
 - [MapComplete](https://mapcomplete.osm.be/) - Small and easy OpenStreetMap editor. ([Code](https://github.com/pietervdvn/MapComplete))
 - [getSpatialData](https://github.com/16EAGLE/getSpatialData) - R package making it easy to query, preview, download and preprocess multiple kinds of spatial data via R.
+- [Priceless](https://priceless.zottelig.ch/) - Simple map showing public and free facilities and offers near you. ([Code](https://github.com/ToastHawaii/priceless-map))

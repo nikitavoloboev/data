@@ -648,3 +648,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Arana](https://github.com/arana-db/arana) - Cloud Native Database Proxy. It can also be deployed as a Database mesh sidecar.
 - [GitLab is splitting database into Main and CI (2022)](https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/) ([HN](https://news.ycombinator.com/item?id=31956871))
 - [Starting from Zero: Build an LSM Database with 500 Lines of Code (2021)](https://www.alibabacloud.com/blog/starting-from-zero-build-an-lsm-database-with-500-lines-of-code_598114)
+- [Closing the B-tree vs. LSM-tree Write Amplification Gap on Modern Storage Hardware with Built-in Transparent Compression (2021)](https://arxiv.org/abs/2107.13987)

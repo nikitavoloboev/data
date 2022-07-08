@@ -557,3 +557,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git Grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
 - [Is it time to look past Git? (2022)](https://dev.to/yonkeltron/is-it-time-to-look-past-git-ah4) ([Lobsters](https://lobste.rs/s/yi97jn/is_it_time_look_past_git))
 - [What Comes After Git (2022)](https://matt-rickard.com/what-comes-after-git/) ([HN](https://news.ycombinator.com/item?id=31984450))
+- [GitDB](https://github.com/gogitdb/gitdb) - Distributed embeddable database on top of Git. ([HN](https://news.ycombinator.com/item?id=31987240))

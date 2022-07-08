@@ -59,3 +59,4 @@ title: Caddy
 - [How to serve a static site using Caddy](https://ellen.dev/serve-static-site-using-caddy.html)
 - [File Sharing with Caddy & MinIO (2022)](https://tech.marksblogg.com/caddy-https-minio.html)
 - [Analyze Caddy logs with Clickhouse (2022)](https://abdullin.com/analyze-caddy-logs-with-clickhouse/)
+- [Deep dive into Caddy web server](https://sourcegraph.com/notebooks/Tm90ZWJvb2s6MTM2Nw==) ([Lobsters](https://lobste.rs/s/11jyv6/deep_dive_into_caddy_web_server))

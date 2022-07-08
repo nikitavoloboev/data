@@ -171,6 +171,10 @@
 - [ructe](https://github.com/kaj/ructe) - Rust Compiled Templates with static-file handling.
 - [backon](https://github.com/Xuanwo/backon) - Retry futures in backoff without effort.
 
+## Auth
+
+- [Dacquiri](https://github.com/resyncgg/dacquiri) - Strong, compile-time enforced authorization framework for rust applications. ([Tweet](https://twitter.com/InsanityBit/status/1545157199311187968))
+
 ## WASM
 
 - [Smithy](https://github.com/rbalicki2/smithy) - Framework for building WebAssembly apps in Rust.
@@ -549,6 +553,7 @@
 - [Snowstorm](https://github.com/black-binary/snowstorm) - Minimalistic encryption protocol for rust async streams/packets, based on noise protocol and snow.
 - [Linear-Time Sumcheck](https://github.com/arkworks-rs/sumcheck) - Rust library that implements the sumcheck protocol.
 - [Classic McEliece](https://github.com/Colfenor/classic-mceliece-rust) - Safe pure-rust implementation of the Classic McEliece post-quantum scheme.
+- [stream ciphers](https://github.com/RustCrypto/stream-ciphers) - Collection of stream cipher algorithms.
 
 ## Linux
 
@@ -2018,6 +2023,7 @@
 - [etherparse](https://github.com/JulianSchmid/etherparse) - Rust library for parsing ethernet & ethernet using protocols.
 - [bv-rs](https://github.com/tov/bv-rs) - Bit-vectors and bit-slices for Rust.
 - [weak-table](https://github.com/tov/weak-table-rs) - Weak hash maps and sets for Rust.
+- [RiteRaft](https://github.com/ritelabs/riteraft) - Raft framework, for regular people.
 
 ## Cargo Plugins
 
@@ -2103,6 +2109,7 @@
 - [cargo_metadata](https://github.com/oli-obk/cargo_metadata) - Structured access to the output of cargo metadata. Usually used from within a cargo-\* executable.
 - [cargo-select](https://github.com/LoipesMas/cargo-select) - Cargo subcommand to easily run targets/examples/tests.
 - [Cargo Commander](https://github.com/adaptive-simon/cargo-commander) - Simple way of running commands.
+- [cargo-run-bin](https://github.com/dustinblackman/cargo-run-bin) - Build, cache, and run binaries scoped in Cargo.toml rather than installing globally.
 
 ## Notes
 

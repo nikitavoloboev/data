@@ -83,3 +83,4 @@ title: Reddit
 - [ReScrapper](https://github.com/psantheus/ReScrapper) - Telegram Bot for Reddit Scraping. ([Reddit](https://www.reddit.com/r/TelegramBots/comments/vipjlo/rescrapper_reddit_scraper_that_saves_to_telegram/))
 - [List of Active Reddit Alternatives](https://r.nf/r/RedditAlternatives/comments/oioeot/list_of_active_reddit_alternatives_v7/) ([HN](https://news.ycombinator.com/item?id=31955479))
 - [insta_reddit](https://github.com/suryashekharc/insta_reddit) - Download posts from a subreddit.
+- [tgreddit](https://github.com/raine/tgreddit) - Get a feed of your favorite subreddits to Telegram.

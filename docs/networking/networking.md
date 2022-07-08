@@ -497,3 +497,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Spring '83](https://github.com/robinsloan/spring-83) - Speculative new protocol.
 - [TraceVis](https://github.com/wikicensorship/tracevis) - Traceroute with any packet. Visualize the routes. Discover Middleboxes and Firewalls.
 - [Skupper](https://github.com/skupperproject/skupper) - Enables cloud communication by enabling you to create a Virtual Application Network.
+- [Best Router/Access Point Option if money not part of equation for larger home? (2022)](https://www.reddit.com/r/HomeKit/comments/ubjsfh/best_routeraccess_point_option_if_money_not_part/)

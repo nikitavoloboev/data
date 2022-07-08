@@ -561,6 +561,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [fn.obs](https://github.com/mihar-22/fn-obs) - Tiny (750B minzipped) library for creating reactive observables via functions.
 - [fastest-levenshtein](https://github.com/ka-weihe/fastest-levenshtein) - Fastest implementation of Levenshtein distance in JS/TS.
 - [JSON-LD Streaming Parser](https://github.com/rubensworks/jsonld-streaming-parser.js) - Fast and lightweight streaming JSON-LD parser for JavaScript.
+- [Cookies](https://github.com/mswjs/cookies) - Manage request/response cookies in the environments where those are not supported.
 
 ## Links
 

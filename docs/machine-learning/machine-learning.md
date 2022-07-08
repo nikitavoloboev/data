@@ -865,3 +865,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Awesome Radar Perception](https://github.com/ZHOUYI1023/awesome-radar-perception) - Curated list of radar datasets, detection, tracking and fusion.
 - [MLGO: A Machine Learning Framework for Compiler Optimization (2022)](https://ai.googleblog.com/2022/07/mlgo-machine-learning-framework-for.html) ([HN](https://news.ycombinator.com/item?id=32007695))
 - [Supporting GPU-accelerated Machine Learning with Kubernetes and Nix (2022)](https://canvatechblog.com/supporting-gpu-accelerated-machine-learning-with-kubernetes-and-nix-7c1da8e42f61)
+- [Transfer Learning with Deep Tabular Models (2022)](https://arxiv.org/abs/2206.15306) ([Code](https://github.com/LevinRoman/tabular-transfer-learning))
+- [Speech Denoising in the Waveform Domain with Self-Attention (2022)](https://arxiv.org/abs/2202.07790) ([Code](https://github.com/NVIDIA/CleanUNet))

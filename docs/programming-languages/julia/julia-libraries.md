@@ -669,6 +669,8 @@
 - [SignalAnalysis.jl](https://github.com/org-arl/SignalAnalysis.jl) - Signal analysis toolbox for Julia.
 - [Deductive.jl](https://github.com/ctrekker/Deductive.jl) - Package for expressing and proving zeroth order and first order logical statements and theorems symbolically in Julia.
 - [CanonicalTraits](https://github.com/thautwarm/CanonicalTraits.jl) - Full-featured traits in Julia.
+- [OrderedCollections.jl](https://github.com/JuliaCollections/OrderedCollections.jl) - Julia implementation of associative containers that preserve insertion order.
+- [Clarabel.jl](https://github.com/oxfordcontrol/Clarabel.jl) - Interior Point Conic Optimization for Julia.
 
 ## Links
 

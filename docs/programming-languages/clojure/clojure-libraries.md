@@ -243,6 +243,7 @@
 - [Mate](https://github.com/green-coder/mate) - Useful functions, some of which I wish were in the Clojure standard library.
 - [Dom Top](https://github.com/aphyr/dom-top) - Unorthodox control flow, for Clojurists with masochistic sensibilities.
 - [Clojure Heap](https://github.com/clojure-finance/clojure-heap) - Pure Clojure implementation of heap.
+- [Interceptor](https://github.com/exoscale/interceptor) - Small Interceptor lib for clojure.
 
 ## Links
 
