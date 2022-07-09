@@ -130,7 +130,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 
 - [Typewolf](https://www.typewolf.com) - What's trending in type. ([Site of the day](https://www.typewolf.com/site-of-the-day))
 - [Google Fonts](https://fonts.google.com) ([Code](https://github.com/google/fonts))
-- [Programming Fonts](http://app.programmingfonts.org/) - Test drive over 50 free programming fonts.
+- [Programming Fonts](http://app.programmingfonts.org/) - Test drive over 50 free programming fonts. ([HN](https://news.ycombinator.com/item?id=32032029))
 - [Guide to Only the Best Open-Source Typefaces](https://beautifulwebtype.com/) ([Code](https://github.com/ubuwaits/beautiful-web-type))
 - [Inter typeface family](https://rsms.me/inter/)
 - [Google Noto Fonts](https://www.google.com/get/noto/)

@@ -104,3 +104,4 @@ Match all that don't have notes or twitter in input
 - [Utilties for the Developer. Regex, HTTP echo. Diffing](https://utils.zest.dev/regex) ([Code](https://github.com/zestcreative/utility))
 - [Swift Regex](https://swiftregex.com/) - Online tool to learn, build and test Swift Regex Regex and Regex Builder. ([Code](https://github.com/SwiftFiddle/swiftregex))
 - [regexparam](https://github.com/lukeed/regexparam) - Tiny (394B) utility that converts route patterns into RegExp.
+- [AutoRegex](https://www.autoregex.xyz/) - Convert from English to RegEx with Natural Language Processing. ([HN](https://news.ycombinator.com/item?id=32032134))
