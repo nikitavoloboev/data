@@ -1,8 +1,10 @@
 # Germany
 
-Quite sad that it seems [majority of Germany government appears to be fully bought off](https://twitter.com/ViolavonCramon/status/1535621476707098624) by [Russia](russia.md). Not mentioning their unwise decisions to phase out nuclear and [become fully dependent on Russian gas](https://twitter.com/micsolana/status/1538960802782228480).
+Quite sad that [Germany government](https://twitter.com/ViolavonCramon/status/1535621476707098624) decided to appease [Russia](russia.md) with its policies of [minimal military help to Ukraine](https://www.reddit.com/r/worldnews/comments/vuru3u/ukraine_cant_have_natostyle_security_guarantees/) due to fear of getting cut off from Russia's gas supply. It's the only reason the war was allowed to happen in the first place.
 
-Aside from those geopolitical failures, Germany seems like a nice place to live in if you ignore the super high taxes. Berlin is [one of](visited.md) my favorite cities to visit.
+What's even more tragic is that some [minor political 'green party' managed to ban off nuclear in Germany](https://twitter.com/mark_lynas/status/1545345583262695424). I hope things change and change soon because further reliance on non EU made energy sources means no good prosperous future for whole of EU. There's lots of fascinating research happening to [solve fusion](https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion) so will see. Current situation is [truly tragic](https://twitter.com/micsolana/status/1538960802782228480).
+
+Aside from those geopolitical failures, Germany seems like a nice place to live in if you ignore the super high taxes. Berlin is [one of](visited.md) my favorite cities to visit. The food and people there are amazing.
 
 ## Notes
 
