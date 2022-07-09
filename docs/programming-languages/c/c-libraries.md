@@ -38,6 +38,7 @@
 - [Ferox](https://github.com/c-krit/ferox) - Lightweight 2D collision detection and physics library written in C.
 - [gk](https://github.com/recp/gk) - Graphics Kernel: flexible, highly configurable, extensible render engine (real time + offline).
 - [AssetKit](https://github.com/recp/AssetKit) - Modern 2D/3D - Importer • Exporter • Util - Library.
+- [HAGL](https://github.com/tuupola/hagl) - Hardware Agnostic Graphics Library for embedded.
 
 ## Test
 
@@ -59,6 +60,7 @@
 ## Math
 
 - [Calcium](https://github.com/fredrik-johansson/calcium) - Exact real and complex numbers in C.
+- [OpenLibm](https://github.com/JuliaMath/openlibm) - High quality, portable, standalone C mathematical library.
 
 ## Crypto
 

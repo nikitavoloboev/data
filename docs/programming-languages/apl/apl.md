@@ -69,3 +69,4 @@ title: APL
 - [I language](https://github.com/mlochbaum/ILanguage) - Generalizes the array and functional capabilities of the array-programming language J to deal with a much broader variety of data structures.
 - [Why APL is worth knowing (2022)](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing) ([HN](https://news.ycombinator.com/item?id=30870868))
 - [Fast.ai APL study group notes](https://github.com/fastai/apl-study)
+- [APL and Array Programming (2022)](https://forums.fast.ai/t/apl-array-programming/97188) ([HN](https://news.ycombinator.com/item?id=32026647))

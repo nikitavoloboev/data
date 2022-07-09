@@ -187,3 +187,5 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Components are Pure Overhead (2021)](https://dev.to/this-is-learning/components-are-pure-overhead-hpm)
 - [You’re probably using Lighthouse wrong: How we got tricked by a single magic number (2022)](https://dev.to/vue-storefront/youre-probably-using-lighthouse-wrong-how-we-got-tricked-by-a-single-magic-number-1laj)
 - [Rethinking Server-Timing As A Critical Monitoring Tool (2022)](https://www.smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/)
+- [Awesome WPO](https://awesome-wpo.netlify.app/) - Curated list of Web Performance Optimization. ([Code](https://github.com/davidsonfellipe/awesome-wpo))
+- [Awesome Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget)

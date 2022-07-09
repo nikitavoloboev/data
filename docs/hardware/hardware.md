@@ -340,3 +340,4 @@
 - [Awesome Open Source Hardware](https://github.com/aolofsson/awesome-opensource-hardware)
 - [Linear Address Spaces: Unsafe at any speed (2022)](https://queue.acm.org/detail.cfm?id=3534854) ([HN](https://news.ycombinator.com/item?id=31924849)) ([Lobsters](https://lobste.rs/s/mpea9b/linear_address_spaces))
 - [Ask HN: Can competitors catch up to Apple Silicon? (2022)](https://news.ycombinator.com/item?id=31975600)
+- [DigitalJS](https://github.com/tilk/digitaljs) - Teaching-focused digital circuit simulator.

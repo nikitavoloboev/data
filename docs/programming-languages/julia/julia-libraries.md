@@ -118,6 +118,7 @@
 ## Math
 
 - [DifferentialEquations](https://github.com/JuliaDiffEq/DifferentialEquations.jl) - Julia suite for high-performance solvers of differential equations.
+- [DiffEqDocs](https://github.com/SciML/DiffEqDocs.jl) - Documentation for the DiffEq differential equations and scientific machine learning (SciML) ecosystem.
 - [IterativeSolvers](https://github.com/JuliaMath/IterativeSolvers.jl) - Iterative algorithms for solving linear systems, eigensystems, and singular value problems.
 - [JuMP](https://github.com/JuliaOpt/JuMP.jl) - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear). ([Article](https://opensource.googleblog.com/2021/10/jump-modeling-language-for-mathematical-optimization.html))
 - [Multivariate Statistics](https://github.com/JuliaStats/MultivariateStats.jl) - Julia package for multivariate statistics and data analysis (e.g. dimension reduction).
@@ -206,6 +207,7 @@
 - [Multivariate Polynomials](https://github.com/JuliaAlgebra/MultivariatePolynomials.jl) - Interface for manipulating multivariate polynomials.
 - [Krylov.jl](https://github.com/JuliaSmoothOptimizers/Krylov.jl) - Julia Basket of Hand-Picked Krylov Methods.
 - [SuiteSparseGraphBLAS.jl](https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl) - Fast, general sparse linear algebra and graph computation package, based on SuiteSparse:GraphBLAS.
+- [SpecialFunctions.jl](https://github.com/JuliaMath/SpecialFunctions.jl) - Special mathematical functions in Julia.
 
 ## NLP
 

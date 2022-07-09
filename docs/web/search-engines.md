@@ -246,3 +246,4 @@
 - [Awesome Hacker Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines)
 - [Similari](https://github.com/insight-platform/Similari) - In-memory similarity search engine with parallellized data processing.
 - [SearXNG](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. ([Docs](https://docs.searxng.org/))
+- [Build your own Search Engine (2022)](http://wiby.me/about/guide.html) ([Code](https://github.com/wibyweb/wiby)) ([HN](https://news.ycombinator.com/item?id=32027177))

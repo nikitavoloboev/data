@@ -1853,3 +1853,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Test parallelization in Go: Understanding the t.Parallel() method (2022)](https://engineering.mercari.com/en/blog/entry/20220408-how_to_use_t_parallel/)
 - [Nicer struct literals in Go templates (2022)](https://commaok.xyz/post/tstruct/)
 - [How to use GoString in Go (2022)](https://articles.orsinium.dev/p/notes-go/gostring)
+- [Go generics are not bad (2022)](https://lemire.me/blog/2022/07/08/go-generics-are-not-bad/) ([HN](https://news.ycombinator.com/item?id=32027855))

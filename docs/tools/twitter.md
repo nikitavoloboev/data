@@ -204,3 +204,4 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [memory.lol](https://github.com/travisbrown/memory.lol) - Tiny web service that provides historical information about social media accounts. ([Private](https://github.com/travisbrown/memory.lol-private))
 - [ornithology](https://github.com/jonhoo/ornithology) - Tool that parses your Twitter archive and highlights interesting data from it.
 - [Who Unfollowed Me on Twitter App](https://t.co/ntMla1yp4e)
+- [Twitter BotStarter template](https://github.com/luvi/botstarter)

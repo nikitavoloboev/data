@@ -375,3 +375,4 @@ title: Reinforcement learning
 - [AlgebraicRL.jl](https://github.com/bakirtzisg/AlgebraicRL.jl) - Julia library for composing Markov decision processes (MDPs) and their agents compositionally.
 - [Ivy Gym](https://github.com/unifyai/gym) - Fully differentiable RL environments, written in Ivy.
 - [RL agent using private and shared world models](https://github.com/neureal/neureal-ai-agent)
+- [Popular Model-free Reinforcement Learning Algorithms](https://github.com/quantumiracle/Popular-RL-Algorithms)

@@ -179,3 +179,4 @@ title: RISC-V
 - [RISC-V Toolchain Conventions](https://github.com/riscv-non-isa/riscv-toolchain-conventions)
 - [ESP32-C5: Espressif’s First Dual-Band Wi-Fi 6 MCU (2022)](https://www.espressif.com/en/news/ESP32-C5) ([HN](https://news.ycombinator.com/item?id=31837479))
 - [RISC-V Is Getting MSIs (2022)](https://blog.stephenmarz.com/2022/06/30/msi/)
+- [Simple RISC V core for teaching](https://github.com/tilk/riscv-simple-sv)

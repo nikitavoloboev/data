@@ -29,3 +29,4 @@ title: Service workers
 - [Add a Service Worker to Your Site](https://css-tricks.com/add-a-service-worker-to-your-site/)
 - [Full Video Buffer with Service Workers](https://github.com/titoBouzout/ServiceWorkerFullVideoBuffer)
 - [Progress indicators/bars using Streams, Service Workers, and Fetch APIs](https://github.com/AnthumChris/fetch-progress-indicators)
+- [Wayne](https://github.com/jcubic/wayne) - Service Worker Routing library for in browser HTTP requests.

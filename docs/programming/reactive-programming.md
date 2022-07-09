@@ -31,3 +31,4 @@ title: Reactive programming
 - [General Theory of Reactivity](https://github.com/kriskowal/gtor)
 - [Scramjet](https://github.com/scramjetorg/framework-js) - Simple reactive stream programming framework in TypeScript.
 - [Hands-on Introduction to Fine-Grained Reactivity (2021)](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)
+- [Awesome Observables](https://github.com/sindresorhus/awesome-observables)

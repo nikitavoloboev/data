@@ -352,6 +352,7 @@
 - [k3](https://github.com/awkward-squad/ki) - Lightweight structured-concurrency library.
 - [PyF](https://github.com/guibou/PyF) - Haskell library for string interpolation and formatting.
 - [FFmpeg light](https://github.com/acowley/ffmpeg-light) - Minimal bindings to the FFmpeg library.
+- [YieldFSM](https://github.com/tilk/yieldfsm) - DSL for describing finite state machines in Clash.
 
 ## Notes
 

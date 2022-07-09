@@ -13,7 +13,7 @@ title: Optical character recognition
 - [Awesome OCR](https://github.com/kba/awesome-ocr)
 - [Scale Document](https://scale.com/document) - Secure platform for document processing.
 - [Easy OCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai. ([HN](https://news.ycombinator.com/item?id=23768869))
-- [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - Adds an OCR text layer to scanned PDF files, allowing them to be searched.
+- [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - Adds an OCR text layer to scanned PDF files, allowing them to be searched. ([Docs](https://ocrmypdf.readthedocs.io/en/latest/index.html))
 - [OCR with Keras, TensorFlow, and Deep Learning (2020)](https://www.pyimagesearch.com/2020/08/17/ocr-with-keras-tensorflow-and-deep-learning/)
 - [What's so hard about PDF text extraction? (2020)](https://filingdb.com/b/pdf-text-extraction) ([HN](https://news.ycombinator.com/item?id=24460142))
 - [FilingDB](https://filingdb.com/) - Database of extracted and structured text from European company filings. Optimised for quant investors.

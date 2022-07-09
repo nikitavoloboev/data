@@ -921,6 +921,7 @@
 - [FlowKit](https://github.com/whitews/FlowKit) - Intuitive Python toolkit for flow cytometry analysis and visualization, with full support for the GatingML 2.0 standard.
 - [Magniv](https://github.com/MagnivOrg/magniv-core) - Python-decorator based job orchestration platform. Avoid responsibility handoffs by abstracting infra and DevOps.
 - [k-Medoids](https://github.com/kno10/python-kmedoids) - Fast K-Medoids clustering in Python with FasterPAM.
+- [python-atomicwrites](https://github.com/untitaker/python-atomicwrites) - Powerful Python library for atomic file writes.
 
 ## Notes
 

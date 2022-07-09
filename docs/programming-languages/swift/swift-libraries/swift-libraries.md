@@ -1272,3 +1272,4 @@
 - [Scipio](https://github.com/evandcoleman/Scipio) - Tool that takes existing Swift packages, binary frameworks, or CocoaPods, compiles them into XCFrameworks and delivers them as a single Swift package.
 - [Async State Machine](https://github.com/twittemb/AsyncStateMachine) - Structure an application thanks to state machines.
 - [SPISearch](https://github.com/heckj/SPISearch) - App (macOS & iOS) to explore the search results from Swift Package Index.
+- [Swift Distributed Actors on Fly.io](https://github.com/PopFlamingo/hello-fly-distributed-actors)

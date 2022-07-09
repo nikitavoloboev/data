@@ -183,3 +183,5 @@ title: Genomics
 - [FASTQ ME](https://github.com/nh13/fqme)
 - [GenStore: A High-Performance and Energy-Efficient In-Storage Computing System for Genome Sequence Analysis (2022)](https://arxiv.org/abs/2202.10400) ([Video](https://www.youtube.com/watch?v=cYz-6GVCVRk))
 - [A time-resolved, multi-symbol molecular recorder via sequential genome editing (2022)](https://www.nature.com/articles/s41586-022-04922-8)
+- [Single-cell data structures in TileDB](https://github.com/TileDB-Inc/tiledbsc)
+- [Hierarchical progressive learning of cell identities in single-cell data](https://github.com/lcmmichielsen/scHPL)

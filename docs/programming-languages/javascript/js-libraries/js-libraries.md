@@ -975,6 +975,8 @@
 - [Chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library.
 - [ky-universal](https://github.com/sindresorhus/ky-universal) - Use Ky in both Node.js and browsers.
 - [90's Cursor Effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript.
+- [Spacetime](https://github.com/spencermountain/spacetime) - Lightweight JS timezone library.
+- [ELK](https://github.com/kieler/elkjs) - ELK's layout algorithms for JavaScript.
 
 ## Links
 

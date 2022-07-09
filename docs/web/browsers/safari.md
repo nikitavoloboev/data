@@ -72,3 +72,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [:focus-visible is shipping in Safari/WebKit (2022)](https://blogs.igalia.com/mrego/2022/04/08/focus-visible-is-shipping-in-safari-webkit/)
 - [Problems Debugging iOS Safari from Mac (2022)](https://steve.dignam.xyz/2022/04/10/trouble-with-safari-ios-debugging/)
 - [Web Push for Safari (2022)](https://developer.apple.com/videos/play/wwdc2022/10098/) ([HN](https://news.ycombinator.com/item?id=31718068))
+- [Example Expo project using the Safari Extension Config Plugin](https://github.com/andrew-levy/rn-extension-plugin-example)
