@@ -2025,6 +2025,7 @@
 - [weak-table](https://github.com/tov/weak-table-rs) - Weak hash maps and sets for Rust.
 - [RiteRaft](https://github.com/ritelabs/riteraft) - Raft framework, for regular people.
 - [tiny-actor](https://github.com/jvdwrf/tiny-actor) - Minimal actor framework for Rust.
+- [sized-chunks](https://github.com/bodil/sized-chunks) - Efficient sized chunk datatypes for immutable.rs.
 
 ## Cargo Plugins
 

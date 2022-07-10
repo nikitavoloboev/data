@@ -56,6 +56,7 @@
 - [iterrr](https://github.com/hamidb80/iterrr) - Functional-style, lazy-like, extensible iterator library.
 - [NICO](https://github.com/ftsf/nico) - Game Framework in Nim inspired by Pico-8.
 - [threading](https://github.com/nim-lang/threading) - New atomics, thread primitives, channels and atomic refcounting.
+- [Microparsec](https://github.com/schneiderfelipe/microparsec) - Fast parser combinator library with excellent error messages.
 
 ## Links
 

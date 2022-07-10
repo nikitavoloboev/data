@@ -12,3 +12,5 @@ title: Bun
 - [bun-dependencies](https://github.com/Jarred-Sumner/bun-dependencies) - Separate repository for bun's dependencies to simplify contributing to Bun.
 - [Bao.js](https://github.com/mattreid1/baojs) - Fast, minimalist web framework for the Bun JavaScript runtime.
 - [Bun + Vite + TS (test)](https://github.com/bluwy/bun-vite-ts-test)
+- [siopao](https://github.com/wobsoriano/siopao) - Minimal routing library designed to sit on top of Bun's fast HTTP server.
+- [Create Bun Boilerplates](https://github.com/guocaoyi/create-bun) - Scaffolding your bun project boilerplate.

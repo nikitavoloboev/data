@@ -42,3 +42,4 @@ title: Automatic differentiation
 - [Dynamic Automatic Differentiation in Rust](https://github.com/exbibyte/dynagrad)
 - [The simple essence of automatic differentiation](https://github.com/conal/talk-2018-essence-of-ad)
 - [TinyAD](https://github.com/patr-schm/TinyAD) - C++ header-only library for second-order automatic differentiation.
+- [Betty](https://github.com/leopard-ai/betty) - Automatic differentiation library for generalized meta-learning and multilevel optimization.

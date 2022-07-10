@@ -142,6 +142,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [testcase](https://github.com/adamluzsi/testcase) - Opinionated testing framework based on BDD principles.
 - [gotestlist](https://github.com/crazy-max/gotestlist) - List tests in the given Go packages.
 - [rpctestgen](https://github.com/lightclient/rpctestgen) - Test fixture generator for the execution layer JSON-RPC API.
+- [httpexpect](https://github.com/gavv/httpexpect) - Concise, declarative, and easy to use end-to-end HTTP and REST API testing for Go.
 
 ## Web
 
@@ -1734,6 +1735,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Repeater](https://github.com/nickname76/repeater) - Go library for creating repeating function calls.
 - [Wastebasket](https://github.com/Bios-Marcel/wastebasket) - Go library allowing you to move files into your trashbin.
 - [fig](https://github.com/kkyr/fig) - Minimalist Go configuration library.
+- [graph](https://github.com/dominikbraun/graph) - Generic library for creating graph data structures and performing operations on them.
 
 ## Links
 

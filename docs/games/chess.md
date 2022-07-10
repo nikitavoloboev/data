@@ -218,3 +218,4 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Chess Beginners Reddit](https://www.reddit.com/r/chessbeginners/)
 - [ChessRetriever.com](https://www.chessretriever.com/) - Retrieves your chess.com games so you can analyze them on Lichess. ([Reddit](https://www.reddit.com/r/chess/comments/vrqdvp/i_made_a_website_that_retrieves_your_chesscom/))
 - [You can use an external engine with Lichess (2022)](https://www.reddit.com/r/chess/comments/vp5kbu/psa_you_can_use_an_external_engine_with_lichess/)
+- [Irwin](https://github.com/clarkerubber/irwin) - AI that learns cheating patterns, marks cheaters, and assists moderators in assessing potential cheaters. ([HN](https://news.ycombinator.com/item?id=32047230))

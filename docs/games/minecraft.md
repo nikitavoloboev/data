@@ -125,3 +125,4 @@ title: Minecraft
 - [Hopper](https://github.com/BRA1L0R/hopper-rs) - Fast, configurable, lightweight Reverse Proxy for Minecraft.
 - [Learning to Play Minecraft with Video PreTraining (VPT) (2022)](https://openai.com/blog/vpt/)
 - [Player Analytics](https://github.com/plan-player-analytics/Plan) - Player Analytics plugin for Minecraft Server platforms.
+- [ManaDrop](https://github.com/Iltotore/ManaDrop) - Gradle plugin for Minecraft development.

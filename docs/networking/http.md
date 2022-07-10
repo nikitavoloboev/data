@@ -276,3 +276,4 @@ title: HTTP
 - [HTTP/3 Deep Dive (2020)](https://ably.com/topic/http3)
 - [HTTP Documentation](https://httpwg.org/specs/) - All the HTTP core specs + extensions, neatly filed on a single page.
 - [Yet More New HTTP Specs (2022)](https://www.mnot.net/blog/2022/06/08/http-extensions)
+- [Verifiable Credentials HTTP API](https://w3c-ccg.github.io/vc-api/) ([Code](https://github.com/w3c-ccg/vc-api))

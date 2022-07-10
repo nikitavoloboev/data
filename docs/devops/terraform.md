@@ -187,3 +187,4 @@ title: Terraform
 - [Terraform Provider dotenv](https://github.com/jrhouston/terraform-provider-dotenv) - Convenience provider for reading `.env` files in Terraform.
 - [Complete Terraform Course - From Beginner to Pro (2022)](https://www.youtube.com/watch?v=7xngnjfIlK4)
 - [Infracost VSCode Extension](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor.
+- [Pulumi & Terraform, which one did you prefer and why? (2022)](https://www.reddit.com/r/devops/comments/vvcle7/for_those_who_tried_both_pulumi_terraform_which/)

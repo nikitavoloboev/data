@@ -51,3 +51,4 @@ Aside from those geopolitical failures, Germany seems like a nice place to live 
 - [How I would start my next startup in Germany without a GmbH (2020)](https://richventures.com/posts/how-i-would-start-my-next-startup-in-germany-without-a-gmbh) ([HN](https://news.ycombinator.com/item?id=31601638))
 - [Youth Cultures in East Germany 1985 / Stasi (East German Secret Police)](https://twitter.com/psychotronica_/status/1533839573108903939) ([HN](https://news.ycombinator.com/item?id=31667247))
 - [Germany, rearmament, and Ukraine - "Why 100 billion Euro may not fix the German military" (2022)](https://www.youtube.com/watch?v=8jDUVtUA7rg)
+- [Simple Germany](https://www.simplegermany.com/) - English content to empower internationals to beat German bureaucracy.

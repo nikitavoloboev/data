@@ -232,3 +232,4 @@ title: DNS
 - [tolower() in bulk at speed (2022)](https://dotat.at/@/2022-06-27-tolower-swar.html)
 - [A DNS name compression algorithm (2022)](https://dotat.at/@/2022-07-01-dns-compress.html)
 - [cacheable-lookup](https://github.com/szmarczak/cacheable-lookup) - Cacheable dns.lookup(…) that respects TTL.
+- [Apple NextDNS Configuration Profile](https://apple.nextdns.io/)

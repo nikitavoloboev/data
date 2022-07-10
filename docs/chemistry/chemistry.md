@@ -87,3 +87,5 @@ title: Chemistry
 - [PENSA](https://github.com/drorlab/pensa) - Protein Ensemble Analysis.
 - [Torsional Diffusion for Molecular Conformer Generation (2022)](https://arxiv.org/abs/2206.01729) ([Code](https://github.com/gcorso/torsional-diffusion))
 - [Recreating one of the weirdest reactions](https://www.youtube.com/watch?v=LL3kVtc-4vY)
+- [cclib](https://github.com/cclib/cclib) - Python library that provides parsers for output files of computational chemistry packages.
+- [overreact](https://github.com/geem-lab/overreact) - Create and analyze chemical microkinetic models built from computational chemistry data.

@@ -137,3 +137,4 @@
 - [monoruby](https://github.com/sisshiki1969/monoruby) - Ruby implementation with a fast JIT compiler written in Rust.
 - [State Machines in Ruby: An Introduction (2022)](https://blog.appsignal.com/2022/06/22/state-machines-in-ruby-an-introduction.html) ([HN](https://news.ycombinator.com/item?id=31834418))
 - [Ruby Evolution: a brief list of new significant features](https://rubyreferences.github.io/rubychanges/evolution.html)
+- [Ruby parser and LSP in Rust](https://github.com/qnighy/rbbardiche)

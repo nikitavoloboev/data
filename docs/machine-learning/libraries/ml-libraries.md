@@ -369,4 +369,4 @@ title: ML Libraries
 - [RecZilla](https://github.com/naszilla/reczilla) - Metalearning for algorithm selection on Recommender Systems.
 - [EdgeML](https://github.com/microsoft/EdgeML) - Machine learning algorithms for edge devices developed at Microsoft Research India.
 - [Quaterion](https://github.com/qdrant/quaterion) - Framework for fine-tuning similarity learning models.
-- [SecretFlow](https://github.com/secretflow/secretflow) - Unified framework for privacy-preserving data analysis and machine learning.
+- [SecretFlow](https://github.com/secretflow/secretflow) - Python Library for learning (Structure and Parameter), inference (Probabilistic and Causal), and simulations in Bayesian Networks.

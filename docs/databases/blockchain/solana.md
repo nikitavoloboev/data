@@ -283,3 +283,4 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Solana Mobile](https://solanamobile.com/) - Its time for crypto to go mobile. ([Twitter](https://twitter.com/Solanamobile)) ([Tweet](https://twitter.com/steveluscher/status/1540035190998720512))
 - [Solana Phone future plans (2022)](https://twitter.com/RobinCordini/status/1540278990992203778)
 - [apr (Anchor Program Registry)](https://www.apr.dev/) ([Code](https://github.com/coral-xyz/apr-ui))
+- [micro-sol-signer](https://github.com/paulmillr/micro-sol-signer) - Create, sign & decode Solana transactions with minimum deps.
