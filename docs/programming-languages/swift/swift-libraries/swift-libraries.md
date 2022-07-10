@@ -270,6 +270,7 @@
 - [KeyboardToolbar](https://github.com/simonbs/KeyboardToolbar) - Add tools above your keyboard with iOS-like keyboard buttons.
 - [SwiftyProvisioningProfile](https://github.com/Sherlouk/SwiftProvisioningProfile) - Parse iOS mobile provisioning files into Swift models.
 - [Inkable](https://github.com/adamwulf/Inkable) - Improve working with Apple pencil.
+- [YetAnotherSwipeToDismiss](https://github.com/PimCoumans/YetAnotherSwipeToDismiss) - Dismissable view controller supporting Auto Layout and dynamic height.
 
 ## macOS
 

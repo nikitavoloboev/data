@@ -594,7 +594,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Building data-centric apps with a reactive relational database (2022)](https://riffle.systems/essays/prelude/) ([Tweet](https://twitter.com/nschiefer/status/1499075134715531266)) ([Tweet](https://twitter.com/geoffreylitt/status/1499083601387864069)) ([Tweet](https://twitter.com/devongovett/status/1526225850739347458))
 - [How does database indexing work?](https://stackoverflow.com/questions/1108/how-does-database-indexing-work) ([HN](https://news.ycombinator.com/item?id=30594233))
 - [Database Naming Convention](https://github.com/RootSoft/Database-Naming-Convention)
-- [RepliByte](https://github.com/Qovery/replibyte) - Tool to seed your dev database with real data. ([HN](https://news.ycombinator.com/item?id=31165538))
+- [RepliByte](https://github.com/Qovery/replibyte) - Tool to seed your dev database with real data. ([HN](https://news.ycombinator.com/item?id=31165538)) ([HN](https://news.ycombinator.com/item?id=32047535))
 - [Amazon Aurora: Design Considerations + On Avoiding Distributed Consensus for I/Os, Commits, and Membership Changes (2022)](https://muratbuffalo.blogspot.com/2022/03/amazon-aurora-design-considerations-and.html?m=1)
 - [SQL/NoSQL DB Guide](https://github.com/mikeroyal/SQL-NoSQL-Guide)
 - [IMDBench](https://github.com/edgedb/imdbench) - Benchmarking ORMs with realistic queries.

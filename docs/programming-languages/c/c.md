@@ -260,3 +260,4 @@
 - [Goblint](https://github.com/goblint/analyzer) - Static analysis framework for C.
 - [Kefir C compiler](https://github.com/protopopov1122/kefir) - Implementation of C17 language compiler from scratch.
 - [Polymorphism through Typeclasses / Interface / Traits in C](https://github.com/TotallyNotChase/typeclass-interface-pattern)
+- [Practical design patterns in C](https://github.com/huawenyu/Design-Patterns-in-C)

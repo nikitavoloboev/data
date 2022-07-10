@@ -10,6 +10,7 @@ title: Bevy Engine
 - [Rust Invaders](https://github.com/jeremychone-channel/rust-invaders) - Simple Rust game with the Bevy Engine.
 - [QQ Party](https://github.com/alanpoon/qq_party) - Multiplayer browser game build with Bevy and Wasmcloud as backend.
 - [Gardum](https://github.com/gardum-game/gardum) - Battle arena made with Bevy.
+- [Snake Game in Bevy](https://github.com/marcusbuffett/bevy_snake)
 
 ## Links
 

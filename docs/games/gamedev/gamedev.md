@@ -274,3 +274,5 @@
 - [Tantan - YouTube](https://www.youtube.com/c/Tantandev/videos) ([GitHub](https://github.com/TanTanDev))
 - [Reverse Engineering Dark Souls 3 Networking (2022)](https://timleonard.uk/2022/05/29/reverse-engineering-dark-souls-3-networking) ([Lobsters](https://lobste.rs/s/i8iitz/reverse_engineering_dark_souls_3)) ([HN](https://news.ycombinator.com/item?id=31982898))
 - [An Overview of Kandria's Development with Lisp (2022)](https://reader.tymoon.eu/article/413) ([HN](https://news.ycombinator.com/item?id=32043026))
+- [Triangle Grids in Games (2022)](https://kvachev.com/blog/posts/triangular-grid/) ([HN](https://news.ycombinator.com/item?id=32045779))
+- [Fog for Top-Down Games (2022)](https://kvachev.com/blog/posts/fog-for-topdown-games/)

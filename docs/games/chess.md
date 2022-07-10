@@ -219,3 +219,10 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [ChessRetriever.com](https://www.chessretriever.com/) - Retrieves your chess.com games so you can analyze them on Lichess. ([Reddit](https://www.reddit.com/r/chess/comments/vrqdvp/i_made_a_website_that_retrieves_your_chesscom/))
 - [You can use an external engine with Lichess (2022)](https://www.reddit.com/r/chess/comments/vp5kbu/psa_you_can_use_an_external_engine_with_lichess/)
 - [Irwin](https://github.com/clarkerubber/irwin) - AI that learns cheating patterns, marks cheaters, and assists moderators in assessing potential cheaters. ([HN](https://news.ycombinator.com/item?id=32047230))
+- [Cute Chess](https://github.com/cutechess/cutechess) - Graphical user interface, command-line interface and a library for playing chess.
+- [Chesshound](https://github.com/grchristensen/chesshound) - Rust library and cli tool that is intended for analyzing player patterns within any set of games.
+- [Chess Tactics CLI](https://github.com/marcusbuffett/chess-tactics-cli) - Practice some chess tactics in your terminal.
+- [Chess Madra](https://chessmadra.com/) ([Code](https://github.com/marcusbuffett/chess-trainer-site))
+- [command-line-chess](https://github.com/marcusbuffett/command-line-chess) - Python program to play chess against an AI in the terminal.
+- [How useless is memorizing openings, as an amateur Lichess player? (2022)](https://mbuffett.com/posts/chess-openings-useless/)
+- [Generating Chess Puzzles Fast with Rust and Stockfish (2022)](https://mbuffett.com/posts/generating_chess_puzzles/)

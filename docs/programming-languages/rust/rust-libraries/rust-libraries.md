@@ -2256,3 +2256,4 @@
 - [(Ab)using Rust traits to write silly things (2022)](https://ihatereality.space/08-abusing-rust-traits-to-write-silly-things/)
 - [Making a Rust crate compile faster (2022)](https://www.youtube.com/watch?v=pMiqRM5ooNw) ([Reddit](https://www.reddit.com/r/rust/comments/vph52i/making_a_rust_crate_compile_faster_video/))
 - [rust-demangle.c](https://github.com/LykenSol/rust-demangle.c) - C port of the Rust symbol demangler.
+- [Beginner's Guide to Error Handling in Rust (2022)](https://www.sheshbabu.com/posts/rust-error-handling/) ([HN](https://news.ycombinator.com/item?id=32045704))

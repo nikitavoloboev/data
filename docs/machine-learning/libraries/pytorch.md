@@ -424,3 +424,4 @@ title: PyTorch
 - [PyTorch time series](https://github.com/okrasolar/pytorch-timeseries) - PyTorch implementations of neural networks for time series classification.
 - [DiffMat](https://github.com/mit-gfx/diffmat) - PyTorch-based differentiable material graph library for procedural material capture.
 - [Torchsort](https://github.com/teddykoker/torchsort) - Fast, differentiable sorting and ranking in PyTorch.
+- [FL_PyTorch](https://github.com/burlachenkok/flpytorch) - Optimization Research Simulator for Federated Learning.

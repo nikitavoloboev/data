@@ -159,3 +159,4 @@
 - [Mini SVG data: URI](https://github.com/tigt/mini-svg-data-uri) - Small, efficient encoding of SVG data URIs for CSS, HTML, etc.
 - [Heazy](https://heazy.studio/) - Generate stylish SVG design assets with ease. ([Code](https://github.com/MaximBuz/heazy-svg-creator))
 - [ASCIIToSVG](https://github.com/asciitosvg/asciitosvg) - Create beautiful SVG diagrams from ASCII art.
+- [picosvg](https://github.com/googlefonts/picosvg) - Helps simplify SVG files. Intended for use as part of a font build.

@@ -182,3 +182,4 @@
 - [Hover](https://github.com/phurwicz/hover) - Label data at scale. Fun and precision included.
 - [How do you share big datasets with your team and others? (2022)](https://www.reddit.com/r/MachineLearning/comments/vr6iy5/d_how_do_you_share_big_datasets_with_your_team/)
 - [Simulacra Aesthetic Captions](https://github.com/JD-P/simulacra-aesthetic-captions) - Dataset of over 238000 synthetic images generated with AI models such as CompVis latent GLIDE and Stable Diffusion from over forty thousand user submitted prompts.
+- [Audio Dataset Project](https://github.com/LAION-AI/audio-dataset) - Audio Dataset for training CLAP and other models.
