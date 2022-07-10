@@ -102,3 +102,4 @@ title: WebSocket
 - [Fanout WebSockets Compute@Edge Demo](https://github.com/fastly/fanout-compute-js-demo)
 - [Ask HN: How do you scale WebSocket? (2022)](https://news.ycombinator.com/item?id=31925145)
 - [Libp2p WebSocket transport for Cloudflare WebSockets](https://github.com/alanshaw/cf-libp2p-ws-transport)
+- [Deno Websocket](https://github.com/ryo-ma/deno-websocket) - Simple WebSocket library like ws of node.js library for deno.

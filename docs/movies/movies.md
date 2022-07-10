@@ -115,3 +115,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Kanopy](https://www.kanopy.com/en/) - Stream Classic Cinema, Indie Film and Top Documentaries. ([HN](https://news.ycombinator.com/item?id=31882374))
 - [What's a current movie that you think people will see in 20 or 30 years that you think was "way ahead of its time"? (2022)](https://www.reddit.com/r/Letterboxd/comments/vrqm60/whats_a_current_movie_that_you_think_people_will/)
 - [r/letterboxd favorite movies list](https://letterboxd.com/tim04/list/r-letterboxd-favorite-movies-list/) ([Reddit](https://www.reddit.com/r/Letterboxd/comments/vs51hx/rletterboxd_favorite_movies_list/))
+- [What was the last film you watched that instantly became on of the best you’ve ever watched? (2022)](https://www.reddit.com/r/Letterboxd/comments/vv2sgh/what_was_the_last_film_you_watched_that_instantly/)

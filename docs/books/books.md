@@ -318,6 +318,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [What are the scariest books you’ve ever read, ones that genuinely scared you?](https://www.reddit.com/r/suggestmeabook/comments/vk5mky/what_are_the_scariest_books_youve_ever_read_ones/)
 - [Ask HN: Which book would you pick to re-read for the rest of your life? (2022)](https://news.ycombinator.com/item?id=31968169)
 - [Books where the character goes insane with power](https://www.reddit.com/r/Fantasy/comments/vr5347/im_looking_for_a_book_where_the_character_goes/)
+- [Books that are very similar to the show Stranger Things? (2022)](https://www.reddit.com/r/suggestmeabook/comments/vvjsrp/books_that_are_very_similar_to_the_show_stranger/)
 
 ## Interesting Prose Books
 

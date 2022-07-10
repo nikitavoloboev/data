@@ -418,6 +418,7 @@
 - [CacheLib](https://github.com/facebook/CacheLib) - Pluggable in-process caching engine to build and scale high performance services.
 - [ztd.text](https://github.com/soasis/text) - Premiere library for handling text in different encoding forms and reducing transcoding bugs in your C++ software.
 - [uni-algo](https://github.com/uni-algo/uni-algo) - Unicode Algorithms Implementation for C/C++.
+- [CTAsm](https://github.com/garc0/CTAsm) - Compile Time Assembler for C++. ([Lobsters](https://lobste.rs/s/j1h2mv/compile_time_assembler_for_c_with_nasm))
 
 ## Links
 

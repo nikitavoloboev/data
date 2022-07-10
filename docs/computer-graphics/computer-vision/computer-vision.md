@@ -841,3 +841,5 @@
 - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors (2022)](https://arxiv.org/abs/2207.02696) ([Code](https://github.com/WongKinYiu/yolov7))
 - [AITViewer](https://github.com/eth-ait/aitviewer) - Set of tools to visualize and interact with sequences of 3D data.
 - [Object-Compositional Neural Implicit Surfaces](https://wuqianyi.top/objectsdf/) ([Code](https://github.com/QianyiWu/objsdf))
+- [Awesome Egocentric Vision](https://github.com/Sid2697/awesome-egocentric-vision)
+- [MonoScene: Monocular 3D Semantic Scene Completion (2022)](https://cv-rits.github.io/MonoScene/) ([Code](https://github.com/cv-rits/MonoScene))

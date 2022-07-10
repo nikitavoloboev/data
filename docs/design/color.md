@@ -179,3 +179,4 @@
 - [Color.js](https://colorjs.io/) - Color conversion & manipulation library by the editors of the CSS Color specifications. ([Code](https://github.com/LeaVerou/color.js)) ([Article](https://svgees.us/blog/colorjs-release.html)) ([Article](https://lea.verou.me/2022/06/releasing-colorjs/))
 - [Easing Gradients](https://larsenwork.com/easing-gradients/) ([Code](https://github.com/larsenwork/larsenwork.github.io/))
 - [Better Color Tools](https://better-color-tools.pages.dev/) - Color parser and better color manipulation through the power of science. Uses Oklab/Oklch for better color operations.
+- [colornamer](https://github.com/stitchfix/colornamer) - Given a color, return a hierarchy of names.

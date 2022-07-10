@@ -391,3 +391,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [What's a condition system and why do you want one? (2011)](http://axisofeval.blogspot.com/2011/04/whats-condition-system-and-why-do-you.html) ([Lobsters](https://lobste.rs/s/q8lz7a/what_s_condition_system_why_do_you_want_one))
 - [Thoughts on infectious systems: async/await and pure](https://www.reddit.com/r/ProgrammingLanguages/comments/vofiyv/thoughts_on_infectious_systems_asyncawait_and_pure/) ([Lobsters](https://lobste.rs/s/jnm7jz/thoughts_on_infectious_systems_async))
 - [Jai vs Odin systems programming languages (Non-spicy takes!) (2022)](https://www.youtube.com/watch?v=M763xHjsPk4)
+- [Multimethods, Global Scope, and Monkey-Patching (2012)](http://journal.stuffwithstuff.com/2012/06/12/multimethods-global-scope-and-monkey-patching/)

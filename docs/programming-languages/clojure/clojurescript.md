@@ -58,3 +58,4 @@ title: ClojureScript
 - [Glogi](https://github.com/lambdaisland/glogi) - ClojureScript logging library based on goog.log.
 - [okulary](https://github.com/funcool/okulary) - Fast Atom and DerivedAtom for ClojureScript.
 - [AWS + Go + ClojureScript](https://github.com/nathants/aws-gocljs)
+- [shadow-grove](https://github.com/thheller/shadow-grove) - ClojureScript system to build browser based frontends.

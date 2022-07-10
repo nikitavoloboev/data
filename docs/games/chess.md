@@ -43,7 +43,7 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 
 ## Links
 
-- [Lichess](https://lichess.org/) - Free online chess game server focused on real time gameplay and ease of use. ([Code](https://github.com/ornicar/lila/)) ([Costs](https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview)) ([HN](https://news.ycombinator.com/item?id=29955204))
+- [Lichess](https://lichess.org/) - Free online chess game server focused on real time gameplay and ease of use. ([Code](https://github.com/ornicar/lila/)) ([Costs](https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview)) ([HN](https://news.ycombinator.com/item?id=29955204)) ([GitHub](https://github.com/lichess-org/)) ([HN](https://news.ycombinator.com/item?id=32045763))
 - [Lc0](https://github.com/LeelaChessZero/lc0) - UCI-compliant chess engine designed to play chess via neural network, specifically those of the LeelaChessZero project. ([Web](https://lczero.org/))
 - [Improved chess game compression (2018)](https://lichess.org/blog/Wqa7GiAAAOIpBLoY/developer-update-275-improved-game-compression) ([HN](https://news.ycombinator.com/item?id=22519777))
 - [Play variations of chess games](https://pippinbarr.github.io/chesses/)

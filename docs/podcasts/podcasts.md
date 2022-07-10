@@ -104,6 +104,7 @@ It includes:
 - [Up Only](https://uponly.tv/) - Crypto podcast with Cobie & Ledger. ([Twitter](https://twitter.com/uponlytv))
 - [Huberman Lab](https://hubermanlab.com/)
 - [Geopolitics Decanted by Silverado](https://geopolitics-decanted.simplecast.com/)
+- [Oxide and Friends](https://podbay.fm/p/oxide-and-friends)
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 
@@ -165,6 +166,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - Basic audio editing is easy to learn. You can use free tools like GarageBand and Audacity.
 - Podcasts are not necessarily live. You can edit out the parts that go off topic.
 - Can use a mirror for podcast interviews. Can look nice like [here](https://www.youtube.com/watch?v=ecKgqJRvZ5M).
+- [All podcasts should have transcripts.](https://twitter.com/molly0xFFF/status/1545954156455886850)
 
 ## Links
 
@@ -234,3 +236,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Ask HN: Why is Lex Fridman so successful with his “tech” podcasts? (2022)](https://news.ycombinator.com/item?id=31777328)
 - [Podcast RSS for Node](https://github.com/maxnowack/node-podcast) - Fast and simple Podcast RSS generator/builder for Node projects. Supports enclosures and GeoRSS.
 - [podcast](https://github.com/njaremko/podcast) - Command line podcast manager and player.
+- [Podbay](https://podbay.fm/) - Fastest and easiest podcast player designed for the web.

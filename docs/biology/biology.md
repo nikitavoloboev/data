@@ -124,3 +124,4 @@
 - [The Century of Biology | Elliot Hershberg](https://centuryofbio.substack.com/)
 - [Markus Deserno - A Physicist's View on Biological Membranes (2022)](https://www.youtube.com/watch?v=Hh_LxkDJxe8)
 - [Artificial Photosynthesis in the Absence of Light (2022)](https://www.nature.com/articles/s43016-022-00530-x) ([HN](https://news.ycombinator.com/item?id=31867921))
+- [I should have loved biology (2022)](https://jsomers.net/i-should-have-loved-biology/) ([HN](https://news.ycombinator.com/item?id=32035054))

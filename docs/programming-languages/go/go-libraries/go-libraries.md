@@ -1732,6 +1732,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Trie](https://github.com/viant/ptrie) - Prefix tree implementation in go.
 - [Go Cache](https://github.com/sethvargo/go-cache) - Cache implementations in Go, with support for generics.
 - [Repeater](https://github.com/nickname76/repeater) - Go library for creating repeating function calls.
+- [Wastebasket](https://github.com/Bios-Marcel/wastebasket) - Go library allowing you to move files into your trashbin.
+- [fig](https://github.com/kkyr/fig) - Minimalist Go configuration library.
 
 ## Links
 

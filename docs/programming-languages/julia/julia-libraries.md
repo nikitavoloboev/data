@@ -673,6 +673,7 @@
 - [CanonicalTraits](https://github.com/thautwarm/CanonicalTraits.jl) - Full-featured traits in Julia.
 - [OrderedCollections.jl](https://github.com/JuliaCollections/OrderedCollections.jl) - Julia implementation of associative containers that preserve insertion order.
 - [Clarabel.jl](https://github.com/oxfordcontrol/Clarabel.jl) - Interior Point Conic Optimization for Julia.
+- [MathOptSetDistances](https://github.com/matbesancon/MathOptSetDistances.jl) - Distances to sets for MathOptInterface.
 
 ## Links
 

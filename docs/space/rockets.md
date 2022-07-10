@@ -25,3 +25,4 @@
 - [No one knows why the most used spacecraft propulsion system works (2022)](https://twitter.com/lougrims/status/1516013489722216450) ([HN](https://news.ycombinator.com/item?id=31070721))
 - [A helicopter will try to catch a rocket booster mid-air (2022)](https://spectrum.ieee.org/rocket-booster-rocket-lab) ([HN](https://news.ycombinator.com/item?id=31075075))
 - [How do you power a rocket engine? (2022)](https://everydayastronaut.com/rocket-engine-cycles/) ([HN](https://news.ycombinator.com/item?id=31215149))
+- [Ignition: An Informal History of Liquid Rocket Propellants (1972)](https://library.sciencemadness.org/library/books/ignition.pdf)

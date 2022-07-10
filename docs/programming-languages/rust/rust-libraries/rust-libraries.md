@@ -1377,7 +1377,7 @@
 - [Live Reload](https://github.com/porglezomp-misc/live-reloading-rs) - Live reloading for Rust programming.
 - [Iftree](https://github.com/evolutics/iftree) - Include many files in your Rust code for self-contained binaries.
 - [Ariadne](https://github.com/zesterer/ariadne) - Fancy error diagnostics & reporting crate.
-- [Chumsky](https://github.com/zesterer/chumsky) - Friendly parser combinator crate that makes writing LL(1) parsers with error recovery easy.
+- [Chumsky](https://github.com/zesterer/chumsky) - Friendly parser combinator crate that makes writing LL(1) parsers with error recovery easy. ([Lobsters](https://lobste.rs/s/o0qf9n/zesterer_chumsky_parser_library_for))
 - [async-backplane](https://github.com/irrustible/async-backplane) - Easy, Erlang-inspired fault-tolerance framework for Rust Futures.
 - [Eventuals](https://github.com/edgeandnode/eventuals) - Eventually consistent values for Rust.
 - [cargo-profile](https://github.com/kdy1/cargo-profile) - Profiling rust program made easy.

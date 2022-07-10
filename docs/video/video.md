@@ -379,3 +379,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Vimeo Player API](https://github.com/vimeo/player.js) - Interact with and control an embedded Vimeo Player.
 - [svtplay-dl](https://github.com/spaam/svtplay-dl) - Command-line program to download videos from some streaming sites. ([Web](https://svtplay-dl.se/))
 - [YouBit](https://github.com/MeViMo/youbit) - Using YouTube as a free file hosting service.
+- [ddfi](https://github.com/Mr-Z-2697/ddfi-rife) - Clumsy video auto duplication remove and frame interpolate script.
