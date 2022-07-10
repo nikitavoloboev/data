@@ -105,3 +105,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Ask HN: How to break anxiety/fear-avoidance cycle? (2022)](https://news.ycombinator.com/item?id=31408431)
 - [Ask HN: What's your greatest enjoyment in life? (2022)](https://news.ycombinator.com/item?id=31462773)
 - [How to increase your happiness over time?](https://twitter.com/nickcammarata/status/1543560881543548928)
+- [Quit Your Job (2022)](https://palladiummag.com/2022/01/06/quit-your-job/)

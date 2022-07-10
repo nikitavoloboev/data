@@ -81,3 +81,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [Visual Studio Code Community Discussions](https://github.com/microsoft/vscode-discussions)
 - [Monaco VSCode API](https://github.com/CodinGame/monaco-vscode-api) - NPM module that implements the VSCode api and redirects calls to Monaco editor.
 - [Vim for VSCode](https://vimforvscode.com/) - Learn to use Vim inside your favorite editor.
+- [The Visual Studio Code Server](https://code.visualstudio.com/blogs/2022/07/07/vscode-server) ([HN](https://news.ycombinator.com/item?id=32024882))

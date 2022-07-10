@@ -376,3 +376,4 @@ title: Reinforcement learning
 - [Ivy Gym](https://github.com/unifyai/gym) - Fully differentiable RL environments, written in Ivy.
 - [RL agent using private and shared world models](https://github.com/neureal/neureal-ai-agent)
 - [Popular Model-free Reinforcement Learning Algorithms](https://github.com/quantumiracle/Popular-RL-Algorithms)
+- [Designing Arithmetic Circuits with Deep Reinforcement Learning (2022)](https://developer.nvidia.com/blog/designing-arithmetic-circuits-with-deep-reinforcement-learning/)

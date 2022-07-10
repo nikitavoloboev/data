@@ -86,3 +86,4 @@
 - [Apphud](https://apphud.com/) - More than analytics for iOS and Android in-app subscriptions. ([SDK Code](https://github.com/apphud/ApphudSDK))
 - [Billing systems are a nightmare for engineers (2022)](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers) ([HN](https://news.ycombinator.com/item?id=31424450))
 - [Best resources (books, articles, etc) on pricing and packaging products (2022)](https://twitter.com/patrick_oshag/status/1538890809742876674)
+- [Designing a better pricing page (2022)](https://www.smashingmagazine.com/2022/07/designing-better-pricing-page/) ([HN](https://news.ycombinator.com/item?id=32012175))

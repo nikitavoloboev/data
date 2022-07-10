@@ -59,3 +59,4 @@ Some maybe interesting supplements I don't take routinely but tried.
 - [Vitamin D and Depression (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/) ([HN](https://news.ycombinator.com/item?id=31306177))
 - [Vitamin D, FOXO3a, and Sirtuin1 in Hashimoto's Thyroiditis and Differentiated Thyroid Cancer](https://www.frontiersin.org/articles/10.3389/fendo.2018.00527/full) ([Tweet](https://twitter.com/_DaCon/status/1540038927121276928))
 - [Why does iron deficiency cause fatigue, even in the absence of anemia?](https://twitter.com/tony_breu/status/1543311124560592898) ([HN](https://news.ycombinator.com/item?id=31968114))
+- [Find out where your supplements are made & sourced](https://shop.nootritious.com/) ([HN](https://news.ycombinator.com/item?id=32029625))

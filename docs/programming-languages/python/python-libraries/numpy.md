@@ -39,3 +39,4 @@ title: NumPy
 - [Bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C.
 - [Numpy beginner tutorial](https://github.com/rougier/numpy-tutorial)
 - [NumPy Financial](https://github.com/numpy/numpy-financial) - Standalone package of the NumPy financial functions.
+- [Numpy is absurd](https://gist.github.com/Moelf/59d6312c51c250ba251125e54bea7282) ([HN](https://news.ycombinator.com/item?id=32036712))

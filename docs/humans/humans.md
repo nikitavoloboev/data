@@ -8,6 +8,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 
 ## Interesting interviews
 
+- [Tools & Craft Podcast: Andy Matuschak](https://www.youtube.com/watch?v=bcrcaTuvpBk)
 - [DevOps Chat with HashiCorp's CTO](https://www.youtube.com/watch?v=iV5doaYReyU)
 - [Jeff Bezos At The Economic Club Of Washington (2018)](https://www.youtube.com/watch?v=xv_vkA0jsyo)
 - [Linus Torvalds (2018)](https://www.youtube.com/watch?v=pQWj2Fgxdrc&t=927s)

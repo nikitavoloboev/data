@@ -837,3 +837,4 @@ title: Rust
 - [The last two years in Miri (2022)](https://www.ralfj.de/blog/2022/07/02/miri.html)
 - [Data Engineering in Rust (2022)](https://www.statcan.gc.ca/en/data-science/network/engineering-rust) ([Lobsters](https://lobste.rs/s/wr9d37/data_engineering_rust))
 - [A Pleasing Symmetry in Rust](https://v5.chriskrycho.com/journal/pleasing-symmetry-in-rust/) ([Lobsters](https://lobste.rs/s/910rhi/pleasing_symmetry_rust_how_enums_structs))
+- [Optimized enum sizes in Rust (2017)](https://adeschamps.github.io/enum-size) ([HN](https://news.ycombinator.com/item?id=32013205))

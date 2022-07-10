@@ -23,3 +23,4 @@
 - [Visual Center](https://javier.xyz/visual-center/) - Tool that will find the visual center of your images / logos. ([Code](https://github.com/javierbyte/visual-center))
 - [Generative logo design](https://components.ai/notes/logo) ([Code](https://github.com/components-ai/logo))
 - [VectorWiki](https://vectorwiki.com/) - Download 1000's of free SVG brand logos.
+- [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else) ([HN](https://news.ycombinator.com/item?id=32040506))

@@ -184,3 +184,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [MitM at the Edge: Abusing Cloudflare Workers (2022)](https://blog.christophetd.fr/abusing-cloudflare-workers/)
 - [D1 Console](https://github.com/isaac-mcfadyen/d1-console) - Full query console for Cloudflare's D1 database product.
 - [wjson](https://github.com/azurydev/wjson) - Configure Wrangler in the format of your choice.
+- [Support for WASI on Cloudflare Workers (2022)](https://blog.cloudflare.com/announcing-wasi-on-workers/)

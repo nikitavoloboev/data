@@ -262,3 +262,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails (2022)](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/)
 - [Mimestream](https://mimestream.com/) - Native macOS email client for Gmail.
 - [Kanmail](https://kanmail.io/) - Email client that functions like a kanban board. ([Code](https://github.com/Oxygem/Kanmail))
+- [Ask HN: How are you hosting email for your startup employees? (2022)](https://news.ycombinator.com/item?id=32029769)

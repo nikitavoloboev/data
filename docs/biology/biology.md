@@ -1,5 +1,7 @@
 # Biology
 
+[I should have loved biology](https://jsomers.net/i-should-have-loved-biology/) is a [great article](https://news.ycombinator.com/item?id=32035054).
+
 ## Notes
 
 - The body is always trying to maintain homeostasis by either allowing or removing certain particles/molecules/chemicals/compounds/..

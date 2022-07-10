@@ -273,4 +273,4 @@
 - [What is the most fun game mechanic that you have ever played that you think you can also implement?](https://www.reddit.com/r/gamedev/comments/vrnt26/what_is_the_most_fun_game_mechanic_that_you_have/)
 - [Tantan - YouTube](https://www.youtube.com/c/Tantandev/videos) ([GitHub](https://github.com/TanTanDev))
 - [Reverse Engineering Dark Souls 3 Networking (2022)](https://timleonard.uk/2022/05/29/reverse-engineering-dark-souls-3-networking) ([Lobsters](https://lobste.rs/s/i8iitz/reverse_engineering_dark_souls_3)) ([HN](https://news.ycombinator.com/item?id=31982898))
-- [An Overview of Kandria's Development with Lisp (2022)](https://reader.tymoon.eu/article/413)
+- [An Overview of Kandria's Development with Lisp (2022)](https://reader.tymoon.eu/article/413) ([HN](https://news.ycombinator.com/item?id=32043026))

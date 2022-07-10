@@ -96,6 +96,6 @@ title: Scheme
 - [Scheme interpreter in Scala](https://github.com/rami3l/yascm)
 - [Scheje](https://github.com/turbopape/scheje) - Scheme in Clojure.
 - [Going from Python to Guile Scheme](http://www.draketo.de/proj/py2guile/) ([Lobsters](https://lobste.rs/s/mvmbcv/going_from_python_guile_scheme))
-- [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html) ([Lobsters](https://lobste.rs/s/akvnzg/scheme_primer))
+- [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html) ([Lobsters](https://lobste.rs/s/akvnzg/scheme_primer)) ([HN](https://news.ycombinator.com/item?id=32010490))
 - [MIT Scheme Documentation](https://groups.csail.mit.edu/mac/ftpdir/scheme-7.5/7.5.17/doc-html/)
 - [The Why of Y](https://dreamsongs.com/Files/WhyOfY.pdf)

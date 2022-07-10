@@ -335,3 +335,4 @@ Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for a
 - [The new wave of React state management (2022)](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/) ([HN](https://news.ycombinator.com/item?id=31959289))
 - [Awesome Preact](https://github.com/preactjs/awesome-preact)
 - [React on the Edge](https://github.com/vercel-labs/react-on-the-edge) - Server-rendered React using Vercel Edge Functions.
+- [Aspect](https://sample-code.aspect.app/) - Copy React code from any site. ([HN](https://news.ycombinator.com/item?id=32037740))

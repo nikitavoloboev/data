@@ -220,3 +220,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Electronic Sound](https://electronicsound.co.uk/) - Electronic music magazine.
 - [Polaris](https://github.com/agersant/polaris) - Music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [Best desktop speakers? (2022)](https://twitter.com/maccaw/status/1540289166440792064)
+- [Books That Changed How I Hear Music](https://tedgioia.substack.com/p/12-books-that-changed-how-i-heard) ([HN](https://news.ycombinator.com/item?id=32025521))

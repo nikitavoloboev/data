@@ -613,4 +613,4 @@
 - [Minerva: Solving Quantitative Reasoning Problems with Language Models (2022)](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html) ([Paper](https://arxiv.org/abs/2206.14858))
 - [winkNLP](https://github.com/winkjs/wink-nlp) - Developer friendly Natural Language Processing. ([Docs](https://winkjs.org/wink-nlp/))
 - [Facebook Low Resource (FLoRes) MT Benchmark](https://github.com/facebookresearch/flores)
-- [Using GPT-3 to explain how code works (2022)](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/) ([Lobsters](https://lobste.rs/s/znogyz/using_gpt_3_explain_how_code_works))
+- [Using GPT-3 to explain how code works (2022)](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/) ([Lobsters](https://lobste.rs/s/znogyz/using_gpt_3_explain_how_code_works)) ([HN](https://news.ycombinator.com/item?id=32036224))
