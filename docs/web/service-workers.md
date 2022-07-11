@@ -30,3 +30,4 @@ title: Service workers
 - [Full Video Buffer with Service Workers](https://github.com/titoBouzout/ServiceWorkerFullVideoBuffer)
 - [Progress indicators/bars using Streams, Service Workers, and Fetch APIs](https://github.com/AnthumChris/fetch-progress-indicators)
 - [Wayne](https://github.com/jcubic/wayne) - Service Worker Routing library for in browser HTTP requests.
+- [Random notes around service workers development and testing (2022)](https://mmazzarolo.com/blog/2022-06-18-service-workers-tips-and-tricks/)

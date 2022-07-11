@@ -1,6 +1,6 @@
 # Python libraries
 
-[atoti](https://github.com/atoti/project-template) & [Cookiecutter Poetry](https://github.com/fpgmaas/cookiecutter-poetry) templates seem nice. [Robyn](https://github.com/sansyrox/robyn) seems like a nice web library.
+[atoti](https://github.com/atoti/project-template), [Cookiecutter Poetry](https://github.com/fpgmaas/cookiecutter-poetry) & [AllenAI](https://github.com/allenai/python-package-template) templates seem nice. [Robyn](https://github.com/sansyrox/robyn) seems like a nice web library.
 
 ## Web
 
@@ -923,6 +923,7 @@
 - [Magniv](https://github.com/MagnivOrg/magniv-core) - Python-decorator based job orchestration platform. Avoid responsibility handoffs by abstracting infra and DevOps.
 - [k-Medoids](https://github.com/kno10/python-kmedoids) - Fast K-Medoids clustering in Python with FasterPAM.
 - [python-atomicwrites](https://github.com/untitaker/python-atomicwrites) - Powerful Python library for atomic file writes.
+- [Simplemma](https://github.com/adbar/simplemma) - Simple multilingual lemmatizer for Python.
 
 ## Notes
 

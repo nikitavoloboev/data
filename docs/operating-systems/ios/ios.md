@@ -489,3 +489,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Post a screenshot of your iOS screen](https://twitter.com/elizalian/status/1541951924815032320)
 - [iOS News](https://github.com/lgreydev/ios_news)
 - [WWDCLounges](https://github.com/roblack/WWDCLounges) - Archive of questions asked during WWDC Lounges.
+- [Getting started with mocking networking in UI-tests on iOS (2022)](https://augmentedcode.io/2022/07/11/getting-started-with-mocking-networking-in-ui-tests-on-ios/)

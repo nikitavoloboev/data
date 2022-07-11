@@ -13,3 +13,4 @@
 - [Yoga for Neck and Shoulder Relief](https://www.youtube.com/watch?v=SedzswEwpPw)
 - [10 min Evening Yoga Stretch - Bedtime Yoga for Beginners](https://www.youtube.com/watch?v=ChHxbJuUR9Q)
 - [Down Dog](https://www.downdogapp.com/) - Great Yoga Anywhere.
+- [What is something you wish your yoga studio had?](https://www.reddit.com/r/yoga/comments/vvyita/what_is_something_you_wish_your_yoga_studio_had/)

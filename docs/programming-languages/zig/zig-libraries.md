@@ -137,3 +137,5 @@
 - [zig-build-repos](https://github.com/marler8997/zig-build-repos) - Enables build.zig files to depend on git repositories.
 - [Zig Async Demo](https://github.com/andrewrk/zig-async-demo) - Comparing concurrent code example programs between other languages and Zig.
 - [Minimal Web Assembly example using Zig's build system](https://github.com/meheleventyone/zig-wasm-test)
+- [ABI Zig <> TypeScript](https://gist.github.com/rasmusmerzin/b514e3416311c9acf4dbc3d1911e1ad3) - Passing strings between Zig and TypeScript.
+- [What's the 'ziggy' way to pass a readable stream to a function? (2022)](https://www.reddit.com/r/Zig/comments/vk4o4a/whats_the_ziggy_way_to_pass_a_readable_stream_to/)
