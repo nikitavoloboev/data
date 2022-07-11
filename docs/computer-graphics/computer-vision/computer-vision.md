@@ -843,3 +843,4 @@
 - [Object-Compositional Neural Implicit Surfaces](https://wuqianyi.top/objectsdf/) ([Code](https://github.com/QianyiWu/objsdf))
 - [Awesome Egocentric Vision](https://github.com/Sid2697/awesome-egocentric-vision)
 - [MonoScene: Monocular 3D Semantic Scene Completion (2022)](https://cv-rits.github.io/MonoScene/) ([Code](https://github.com/cv-rits/MonoScene))
+- [Visual Prompt Tuning (2022)](https://arxiv.org/abs/2203.12119) ([Code](https://github.com/KMnP/vpt))

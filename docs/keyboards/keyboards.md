@@ -161,3 +161,4 @@ I am currently using builtin MacBook keyboard and love it. I love the low key tr
 - [Using custom macropad with a keyboard for font designs](https://twitter.com/rsms/status/1532488827708637184)
 - [Keyboard Awesome](https://github.com/qmk/keyboard_awesome)
 - [I built a keyboard PCB and wrote firmware for it in Rust (2022)](https://www.reddit.com/r/MechanicalKeyboards/comments/vtlujd/i_built_a_keyboard_pcb_and_wrote_firmware_for_it/)
+- [Simple Keyboard](https://github.com/hodgef/simple-keyboard) - JavaScript Virtual Keyboard - Customizable, responsive and lightweight.

@@ -353,6 +353,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Tutone](https://github.com/newrelic/tutone) - Generate Go types from GraphQL schema introspection.
 - [go-graphql](https://github.com/mjarkk/go-graphql) - Different approach to making graphql servers in Go.
 - [fluentgraphql](https://github.com/mergestat/fluentgraphql) - Fluent GraphQL client library in Go.
+- [graphql](https://github.com/shurcooL/graphql) - GraphQL client implementation.
 
 ## Flag parsing
 
@@ -1736,6 +1737,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Wastebasket](https://github.com/Bios-Marcel/wastebasket) - Go library allowing you to move files into your trashbin.
 - [fig](https://github.com/kkyr/fig) - Minimalist Go configuration library.
 - [graph](https://github.com/dominikbraun/graph) - Generic library for creating graph data structures and performing operations on them.
+- [cpy3](https://github.com/go-python/cpy3) - Go bindings to the CPython-3 API.
+- [py4go](https://github.com/tliron/py4go) - Tight bidirectional integration between Go and Python.
 
 ## Links
 

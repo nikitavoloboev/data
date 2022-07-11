@@ -275,3 +275,4 @@ title: Svelte
 - [svelte-gesture](https://github.com/wobsoriano/svelte-gesture) - Library that lets you bind richer mouse and touch events to any component or view.
 - [eslint-plugin-svelte](https://github.com/ota-meshi/eslint-plugin-svelte) - ESLint plugin for Svelte.
 - [svelte-fuse-rx](https://github.com/AlexWarnes/svelte-fuse-rx) - Fusing Svelte and RxJS with simple actions and pipeable stores.
+- [Svelte Bun Adapter](https://github.com/gornostay25/svelte-adapter-bun)

@@ -66,3 +66,4 @@ title: Fastify
 - [fastify/fast-json-stringify-compiler](https://github.com/fastify/fast-json-stringify-compiler) - Build and manage the fast-json-stringify instances for the fastify framework.
 - [fastify/deepmerge](https://github.com/fastify/deepmerge) - Merges the enumerable properties of two or more objects deeply.
 - [Fastify Type Provider for Typebox](https://github.com/fastify/fastify-type-provider-typebox)
+- [fastify/autoload](https://github.com/fastify/fastify-autoload) - Convenience plugin for Fastify that loads all plugins found in a directory and automatically configures routes matching the folder structure.

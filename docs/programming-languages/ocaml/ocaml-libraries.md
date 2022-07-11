@@ -199,6 +199,7 @@ title: OCaml libraries
 - [ocaml-alg](https://github.com/smimram/ocaml-alg) - Algebraic structures in OCaml.
 - [Kai](https://github.com/RedPRL/kai) - Library for handling compiler diagnostics and span-associated metadata.
 - [midi](https://github.com/lelomtf/midi) - Experimenting with midi in OCaml.
+- [gen_js_api](https://github.com/LexiFi/gen_js_api) - Easy OCaml bindings for JavaScript libraries.
 
 ## Links
 

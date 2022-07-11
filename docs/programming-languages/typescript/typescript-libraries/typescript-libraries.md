@@ -563,6 +563,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [JSON-LD Streaming Parser](https://github.com/rubensworks/jsonld-streaming-parser.js) - Fast and lightweight streaming JSON-LD parser for JavaScript.
 - [Cookies](https://github.com/mswjs/cookies) - Manage request/response cookies in the environments where those are not supported.
 - [Sigma](https://github.com/norskeld/sigma) - TypeScript parser combinator library for building fast and convenient parsers.
+- [ffmpeggy](https://github.com/mekwall/ffmpeggy) - Minimal yet powerful wrapper for FFmpeg and FFprobe.
+- [jsonup](https://github.com/tani/jsonup) - Zero dependency compile-time JSON parser written in TypeScript.
 
 ## Links
 

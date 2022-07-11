@@ -26,7 +26,7 @@ title: Optical character recognition
 - [Solving direct text extraction from PDFs (2021)](https://www.sensible.so/blog/solving-direct-text-extraction-from-pdfs)
 - [MMOCR](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection, Recognition and Understanding Toolbox.
 - [In-Browser OCR](https://ian-nai.github.io/In-Browser-OCR/) ([HN](https://news.ycombinator.com/item?id=28015442))
-- [Project Naptha](https://projectnaptha.com/) - Highlight, copy and translate text from any image in the browser.
+- [Project Naptha](https://projectnaptha.com/) - Highlight, copy and translate text from any image in the browser. ([HN](https://news.ycombinator.com/item?id=32051736))
 - [Extract Table](https://extract-table.com/) - API for extracting a table from an image. ([Code](https://github.com/vegarsti/extract-table))
 - [Amazon Textract](https://aws.amazon.com/textract/) - Easily extract printed text, handwriting, and data from any document. ([Code Samples](https://github.com/aws-samples/amazon-textract-code-samples))
 - [CalamariOCR](https://github.com/Calamari-OCR/calamari) - Line based ATR Engine based on OCRopy.

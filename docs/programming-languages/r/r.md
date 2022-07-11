@@ -174,3 +174,4 @@
 - [generics](https://github.com/r-lib/generics) - Common generic methods.
 - [fastmatrix](https://github.com/faosorios/fastmatrix) - Fast computation of some matrices useful in statistics.
 - [NetCoMi](https://github.com/stefpeschel/NetCoMi) - Network Comparison for Microbial Compositional Data.
+- [R vs. Python for Data Science](https://github.com/matloff/R-vs.-Python-for-Data-Science)

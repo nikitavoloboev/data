@@ -256,3 +256,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Improving distributed caching performance and efficiency at Pinterest (2022)](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b) ([HN](https://news.ycombinator.com/item?id=31954518))
 - [Gitlab Architecture Overview](https://docs.gitlab.com/ee/development/architecture.html) ([HN](https://news.ycombinator.com/item?id=31971684))
 - [Ask HN: Resources on learning System Design (back end/data engineering)? (2022)](https://news.ycombinator.com/item?id=32014658)
+- [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)

@@ -868,3 +868,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Transfer Learning with Deep Tabular Models (2022)](https://arxiv.org/abs/2206.15306) ([Code](https://github.com/LevinRoman/tabular-transfer-learning))
 - [Speech Denoising in the Waveform Domain with Self-Attention (2022)](https://arxiv.org/abs/2202.07790) ([Code](https://github.com/NVIDIA/CleanUNet))
 - [SetVAE: Learning Hierarchical Composition for Generative Modeling of Set-Structured Data (2021)](https://arxiv.org/abs/2103.15619) ([Code](https://github.com/jw9730/setvae))
+- [MIT: Deep Learning for Art, Aesthetics, and Creativity (2022)](https://ali-design.github.io/deepcreativity/)
+- [500 AI Machine learning Deep learning Computer vision NLP Projects with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)

@@ -393,3 +393,4 @@
 - [Trane-Music](https://github.com/trane-project/trane-music) - Courses in music designed to be used with Trane.
 - [Piano Trainer](https://github.com/ZaneH/piano-trainer) - Learn to play the piano at your own pace through various modes of practice.
 - [SheetAble](https://sheetable.net/) - Self-hosted music sheet organizer. ([Code](https://github.com/SheetAble/SheetAble))
+- [Partitura](https://github.com/CPJKU/partitura) - Python package for handling modern staff notation of music.

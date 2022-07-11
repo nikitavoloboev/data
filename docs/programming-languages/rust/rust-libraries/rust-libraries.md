@@ -2104,7 +2104,7 @@
 - [cargo-trace](https://github.com/dvc94ch/cargo-trace) - Flamegraphing tool for perf events.
 - [build-info](https://github.com/danielschemmel/build-info) - Collects build-information of your Rust crate.
 - [cargo-minimal-versions](https://github.com/taiki-e/cargo-minimal-versions) - Cargo subcommand for proper use of -Z minimal-versions.
-- [cargo-vet](https://github.com/bholley/cargo-vet) - Supply-chain security for Rust.
+- [cargo-vet](https://github.com/bholley/cargo-vet) - Supply-chain security for Rust. ([Docs](https://mozilla.github.io/cargo-vet/))
 - [cargo-criterion](https://github.com/bheisler/cargo-criterion) - Cargo extension for running Criterion.rs benchmarks.
 - [cargo-public-api](https://github.com/Enselic/cargo-public-api) - List and diff the public API of Rust library crates between releases and commits.
 - [cargo-doc2readme](https://github.com/msrd0/cargo-doc2readme) - Cargo subcommand to create a readme file containing the rustdoc comments from your code.
@@ -2112,6 +2112,7 @@
 - [cargo-select](https://github.com/LoipesMas/cargo-select) - Cargo subcommand to easily run targets/examples/tests.
 - [Cargo Commander](https://github.com/adaptive-simon/cargo-commander) - Simple way of running commands.
 - [cargo-run-bin](https://github.com/dustinblackman/cargo-run-bin) - Build, cache, and run binaries scoped in Cargo.toml rather than installing globally.
+- [cargo-i18n](https://github.com/kellpossible/cargo-i18n) - Rust Cargo sub-command and libraries to extract and build localization resources to embed in your application/library.
 
 ## Notes
 

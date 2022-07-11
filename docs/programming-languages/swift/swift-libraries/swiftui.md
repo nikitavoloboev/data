@@ -242,3 +242,4 @@ title: SwiftUI
 - [SwiftUI Backports](https://github.com/shaps80/SwiftUIBackports) - Collection of SwiftUI backports to make your iOS development easier.
 - [SwiftUI Index](https://mackuba.eu/swiftui/changelog)
 - [SwiftUI for Mac Big Sur](https://github.com/trozware/swiftui-mac-2022)
+- [Introducing NavigationPath in SwiftUI (2022)](https://www.gfrigerio.com/introducing-navigationpath-in-swiftui/) ([Code](https://github.com/gualtierofrigerio/SwiftUI4))

@@ -650,3 +650,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Starting from Zero: Build an LSM Database with 500 Lines of Code (2021)](https://www.alibabacloud.com/blog/starting-from-zero-build-an-lsm-database-with-500-lines-of-code_598114)
 - [Closing the B-tree vs. LSM-tree Write Amplification Gap on Modern Storage Hardware with Built-in Transparent Compression (2021)](https://arxiv.org/abs/2107.13987)
 - [Log Structured Merge Trees (2015)](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/)
+- [Code in database vs. code in application (2022)](https://brandur.org/fragments/code-database-vs-app) ([Lobsters](https://lobste.rs/s/mr71g6/code_database_vs_code_application))

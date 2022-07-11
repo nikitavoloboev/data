@@ -115,3 +115,4 @@
 - [lezer/generator](https://github.com/lezer-parser/generator) - Parser generator for the lezer incremental parser.
 - [tree-sitter-viewer](https://github.com/shi-yan/tree-sitter-viewer) - Rust lib to visualize tree-sitter syntax tree.
 - [go tree-sitter](https://github.com/smacker/go-tree-sitter) - Go bindings for tree-sitter.
+- [tree-sitter-embedded-template](https://github.com/tree-sitter/tree-sitter-embedded-template) - Tree-sitter grammar for embedded template languages like ERB, EJS.

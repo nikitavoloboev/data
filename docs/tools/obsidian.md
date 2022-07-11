@@ -175,6 +175,7 @@ div.CodeMirror-cursor,
 - [GitHub Publisher](https://github.com/obsidianMkdocs/obsidian-github-publisher) - Plugin to easily publish note to GitHub.
 - [Obsidian GPT](https://github.com/jmilldotdev/obsidian-gpt) - Text completions via GPT-J.
 - [Obsidian Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Grabs information from Wikipedia for a topic and brings it into Obsidian notes.
+- [Obsidian OCR](https://github.com/MohrJonas/obsidian-ocr) - Allows you to search for text in your images and PDFs. ([Reddit](https://www.reddit.com/r/ObsidianMD/comments/vvqfqj/presenting_obsidian_ocr/))
 
 ## Themes
 

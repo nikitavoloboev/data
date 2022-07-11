@@ -62,7 +62,8 @@
 - [OpenAPI Spec validator](https://github.com/p1c2u/openapi-spec-validator)
 - [Uplink](https://github.com/prkumar/uplink) - Declarative HTTP Client for Python.
 - [aiorwlock](https://github.com/aio-libs/aiorwlock) - Read/Write Lock - synchronization primitive for asyncio.
-- [Nitro](https://github.com/h2oai/nitro) - Simplest way to build web apps using Python. No Javascript/HTML/CSS coding.
+- [Nitro](https://github.com/h2oai/nitro) - Simplest way to build web apps using Python. No JavaScript/HTML/CSS coding.
+- [HTTPX OAuth](https://github.com/frankie567/httpx-oauth) - Async OAuth client using HTTPX.
 
 ## ML
 

@@ -35,7 +35,7 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Render](https://render.com/) - Unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.
 - [Mutable](https://mutable.io/) - Public Edge Cloud.
 - [Zeet](https://zeet.co/) - Run your code.
-- [Railway](https://railway.app/) - Develop code in a cloud that feels local. When you're ready, deploy from anywhere. ([GitHub](https://github.com/railwayapp)) ([Starters](https://github.com/railwayapp/starters)) ([CLI](https://github.com/railwayapp/cli)) ([Jake Cooper - Railway](https://www.youtube.com/watch?v=0YLNrvy_F70))
+- [Railway](https://railway.app/) - Develop code in a cloud that feels local. When you're ready, deploy from anywhere. ([GitHub](https://github.com/railwayapp)) ([Starters](https://github.com/railwayapp/starters)) ([CLI](https://github.com/railwayapp/cli)) ([Jake Cooper - Railway](https://www.youtube.com/watch?v=0YLNrvy_F70)) ([Awesome](https://github.com/railwayapp/awesome-railway))
 - [Flightcontrol](https://flightcontrol.dev/) - Full stack deploy platform that runs on your own cloud.
 - [Deta](https://www.deta.sh/) - Build your apps in hours, deploy them in seconds. ([Deta Space](https://deta.space/)) ([GitHub](https://github.com/deta)) ([Awesome](https://github.com/deta/awesome-deta))
 

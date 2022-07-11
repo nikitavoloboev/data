@@ -317,3 +317,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Ask HN: What is a nature of a magnetic field](https://news.ycombinator.com/item?id=31968099)
 - [What would change if the speed of light was not constant in all reference frames](https://www.reddit.com/r/AskPhysics/comments/vtcrrn/what_would_change_if_the_speed_of_light_was_not/)
 - [Physicists discover a “family” of robust, superconducting graphene structures (2022)](https://news.mit.edu/2022/superconducting-graphene-family-0708) ([HN](https://news.ycombinator.com/item?id=32036523))
+- [Deep Learning for Physics Research](https://deeplearningforphysicsresearchbook.github.io/deep-learning-physics/) ([Code](https://github.com/DeepLearningForPhysicsResearchBook/deep-learning-physics))
