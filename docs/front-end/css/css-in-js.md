@@ -60,3 +60,4 @@
 - [Comptime CSS](https://github.com/Mokshit06/comptime-css)
 - [CSS(SCSS/SASS) to vanilla-extract](https://css-to-vanilla-extract.netlify.app/) - Generate vanilla-extract typescript file from the CSS (SCSS/SASS) file.
 - [Airbnb's Trip to Linaria (2022)](https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12)
+- [CSS Out JS](https://github.com/siddharthkp/css-out-js) - Author styles collocated in JS, pull them out into static CSS on build. No runtime dependency.

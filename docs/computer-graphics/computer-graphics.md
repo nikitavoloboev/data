@@ -232,3 +232,4 @@
 - [Multi-platform experiments in framebuffer drawing performance (2021)](http://nuclear.mutantstargoat.com/blog/100-fbperf_experiments.html)
 - [Basic fact all graphics coders should know](https://twitter.com/keenanisalive/status/1529490555893428226)
 - [Interactive Surface Flow in Taichi](https://github.com/yhesper/TaichiSimplicialFluid)
+- [Visualizing Delaunay Triangulation (2022)](https://ianthehenry.com/posts/delaunay/)
