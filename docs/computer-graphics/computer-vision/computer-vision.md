@@ -844,3 +844,5 @@
 - [Awesome Egocentric Vision](https://github.com/Sid2697/awesome-egocentric-vision)
 - [MonoScene: Monocular 3D Semantic Scene Completion (2022)](https://cv-rits.github.io/MonoScene/) ([Code](https://github.com/cv-rits/MonoScene))
 - [Visual Prompt Tuning (2022)](https://arxiv.org/abs/2203.12119) ([Code](https://github.com/KMnP/vpt))
+- [Unified Implicit Neural Stylization (2022)](https://arxiv.org/abs/2204.01943) ([Code](https://github.com/VITA-Group/INS))
+- [3D-Aware Semantic-Guided Generative Model for Human Synthesis (2021)](https://arxiv.org/abs/2112.01422) ([Code](https://github.com/zhangqianhui/3DSGAN))

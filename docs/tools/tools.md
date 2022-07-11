@@ -79,7 +79,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Texts](https://texts.com/) - One inbox. All your texts.
 - [Wire](https://wire.com/en/) - Modern day collaboration meets the most advanced security and superior user experience. ([Code](https://github.com/wireapp/wire))
 - [Commento](https://commento.io/) - Fast, privacy-focused commenting platform.
-- [Raindrop](https://raindrop.io/) - All-in-one bookmark manager.
+- [Raindrop](https://raindrop.io/) - All-in-one bookmark manager. ([Desktop Code](https://github.com/raindropio/desktop))
 - [Cosign](https://cosign.co/login)
 - [Parca](https://www.parca.dev/) - Open Source infrastructure-wide continuous profiling. ([Code](https://github.com/parca-dev/parca))
 - [Sonix](https://sonix.ai/) - Transcribe videos from [Zoom](https://sonix.ai/how-to-transcribe-a-zoom-meeting).

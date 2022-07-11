@@ -20,3 +20,4 @@
 - [Microbiology from A to Z explained - Micropia](https://www.micropia.nl/en/discover/microbiology/mycelium/)
 - [Compostable fungi-based replacement for styrofoam](https://www.soma.eco/our-materials) ([HN](https://news.ycombinator.com/item?id=31165988))
 - [Fungal Tree of Life poster](http://group.szbk.u-szeged.hu/sysbiol/nagy-laszlo-lab-poster.html) ([Tweet](https://twitter.com/laszlognagy/status/1522471810809450496))
+- [Shrooly](https://shrooly.com/) - Smart mushroom growing device for beginners. ([HN](https://news.ycombinator.com/item?id=32055924))

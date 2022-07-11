@@ -405,6 +405,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Ivan Bideac](https://www.ivanbideac.com/)
 - [Luke Beard](https://www.instagram.com/lukesbeard/)
 - [Richard Avedon](https://www.avedonfoundation.org/the-work)
+- [Nick Yashika](https://www.instagram.com/nickyashika/)
 - [George Jejeya](https://www.instagram.com/gerudes/)
 - [Baurjan Bismildin](https://www.instagram.com/bbismildin/)
 - [Eva Milkonskaya](https://www.instagram.com/evamilkonskaya/)

@@ -818,3 +818,4 @@ if err != nil {
 - [PocketBase](https://github.com/pocketbase/pocketbase) - Open source real time Go backend in one file. ([Web](https://pocketbase.io/)) ([HN](https://news.ycombinator.com/item?id=32013330))
 - [What’s new in Go 1.19? (2022)](https://blog.carlmjohnson.net/post/2022/golang-119-new-features/)
 - [Go memory ballast: How I learnt to stop worrying and love the heap (2018)](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap/)
+- [Implementing a simple jq clone in Go, and basics of Go memory profiling (2022)](https://notes.eatonphil.com/implementing-a-jq-clone-in-go.html)

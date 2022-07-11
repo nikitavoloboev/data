@@ -60,3 +60,4 @@ title: JAX
 - [Gymnax](https://github.com/RobertTLange/gymnax) - RL Environments in JAX.
 - [Pax](https://github.com/google/paxml) - Framework to configure and run machine learning experiments on top of Jax.
 - [SymPy2Jax](https://github.com/google/sympy2jax) - Turn SymPy expressions into trainable JAX expressions.
+- [JAX Typing](https://github.com/google/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.

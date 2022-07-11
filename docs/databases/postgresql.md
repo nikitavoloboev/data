@@ -539,3 +539,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [InfluxDB Line Protocol Listener for PostgreSQL](https://github.com/timescale/pg_influx)
 - [Postgres Locking: When is it Concerning? (2022)](https://www.crunchydata.com/blog/postgres-locking-when-is-it-concerning)
 - [Коллекция готовых SQL запросов для PostgreSQL](https://github.com/rin-nas/postgresql-patterns-library)
+- [Postgres 15 improves UNIQUE and NULL (2022)](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null) ([HN](https://news.ycombinator.com/item?id=32053293))

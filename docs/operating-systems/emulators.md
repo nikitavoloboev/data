@@ -70,3 +70,4 @@
 - [Play!](https://github.com/jpd002/Play-) - PlayStation2 emulator. ([Web](https://purei.org/))
 - [Padme core](https://github.com/alexlren/padme-core) - Cross-platform gameboy emulator engine.
 - [Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator.
+- [Goodboy](https://github.com/Engil/Goodboy) - Pure OCaml Gameboy emulator.

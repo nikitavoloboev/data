@@ -170,3 +170,5 @@
 - [A Guide to Smartphone Astrophotography](https://spacemath.gsfc.nasa.gov/SMBooks/AstrophotographyV1.pdf) ([HN](https://news.ycombinator.com/item?id=31847457))
 - [JWQL](https://github.com/spacetelescope/jwql) - James Webb Space Telescope Quicklook Application.
 - [JWST Calibration Pipeline](https://github.com/spacetelescope/jwst) - Python library for science observations from the James Webb Space Telescope.
+- [James Webb Space Telescope's photos](https://twitter.com/hankgreen/status/1546340969750183936)
+- [In Our Time, The Death of Stars](https://www.bbc.co.uk/programmes/m0018128)

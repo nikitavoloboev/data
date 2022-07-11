@@ -206,3 +206,4 @@
 - [Tasks, lists, and promises](http://rachelbythebay.com/w/2022/05/19/priority/) ([Lobsters](https://lobste.rs/s/h7v6xg/tasks_lists_promises))
 - [High performance individuals and teams](https://pablasso.com/high-performance-individuals-and-teams/)
 - [Awesome Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy)
+- [The Engineering Manager | James Stanier](https://theengineeringmanager.substack.com/)

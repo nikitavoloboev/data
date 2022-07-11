@@ -444,6 +444,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Sarah Park](https://sei0.github.io/) ([Code](https://github.com/sei0/sei0.github.io))
 - [Victor Zhou](https://victorzhou.com/) ([Code](https://github.com/vzhou842/victorzhou.com))
 - [Zeno Rocha](https://zenorocha.com/) ([Code](https://github.com/zenorocha/zenorocha.com)) ([Tweet](https://twitter.com/zenorocha/status/1458810192607408131))
+- [Oleg Drofa](https://hellodrofa.xyz/)
 - [Reed Rosenbluth](https://reedrosenbluth.com/)
 - [Jonnie Hallman](https://destroytoday.com/)
 - [Chance Strickland](https://chance.dev/)

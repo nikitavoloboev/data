@@ -41,6 +41,10 @@
 - [GraphQL Kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - Libraries for running GraphQL in Kotlin.
 - [Nadel](https://github.com/atlassian-labs/nadel) - GraphQL DSL and execution engine for distributed schemas.
 
+## Android
+
+- [emo](https://github.com/cgspine/emo) - Speed up android development.
+
 ## Other
 
 - [Arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library. ([Web](https://arrow-kt.io/))

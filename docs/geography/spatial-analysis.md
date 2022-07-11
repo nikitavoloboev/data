@@ -232,3 +232,4 @@ title: Spatial analysis
 - [MapComplete](https://mapcomplete.osm.be/) - Small and easy OpenStreetMap editor. ([Code](https://github.com/pietervdvn/MapComplete))
 - [getSpatialData](https://github.com/16EAGLE/getSpatialData) - R package making it easy to query, preview, download and preprocess multiple kinds of spatial data via R.
 - [Priceless](https://priceless.zottelig.ch/) - Simple map showing public and free facilities and offers near you. ([Code](https://github.com/ToastHawaii/priceless-map))
+- [Mapy.cz](https://en.mapy.cz/) - Lesser Known but Awesome Maps. ([HN](https://news.ycombinator.com/item?id=32046130))
