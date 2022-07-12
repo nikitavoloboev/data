@@ -89,3 +89,7 @@ title: Chemistry
 - [Recreating one of the weirdest reactions](https://www.youtube.com/watch?v=LL3kVtc-4vY)
 - [cclib](https://github.com/cclib/cclib) - Python library that provides parsers for output files of computational chemistry packages.
 - [overreact](https://github.com/geem-lab/overreact) - Create and analyze chemical microkinetic models built from computational chemistry data.
+- [ccinput](https://github.com/cyllab/ccinput) - Computational Chemistry Input Generator.
+- [CalcUS](https://github.com/cyllab/CalcUS) - Quantum Chemistry Web Platform.
+- [Legault Research Group](https://cyl.recherche.usherbrooke.ca/) - Investigating hypervalent iodine chemistry and organometallic catalysis to develop new synthetic methodologies with lower environmental impact. ([Twitter](https://twitter.com/CYL_Lab))
+- [Time Machine](https://github.com/proteneer/timemachine) - High-performance differentiable molecular dynamics, docking and optimization engine.

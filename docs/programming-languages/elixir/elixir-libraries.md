@@ -61,6 +61,7 @@
 - [Spear](https://github.com/NFIBrokerage/spear) - Sharp EventStoreDB 20+ client backed by Mint.
 - [Yesql](https://github.com/lpil/yesql) - Elixir library for using SQL.
 - [Etso](https://github.com/evadne/etso) - Ecto 3 adapter allowing use of Ecto schemas held in ETS tables.
+- [Triplex](https://github.com/ateliware/triplex) - Simple and effective way to build multitenant applications on top of Ecto.
 
 ## Test
 

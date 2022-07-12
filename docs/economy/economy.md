@@ -161,3 +161,4 @@
 - [Inflation, part 1: On shelter futures (2022)](https://jbconsulting.substack.com/p/on-shelter-futures-part-1) ([HN](https://news.ycombinator.com/item?id=31700182))
 - [The Fed has made a historic mistake on inflation (2022)](https://www.economist.com/leaders/2022/04/23/why-the-federal-reserve-has-made-a-historic-mistake-on-inflation) ([HN](https://news.ycombinator.com/item?id=31728560))
 - [What books do you need to read, if you plan on being an economist? (2022)](https://www.reddit.com/r/AskEconomics/comments/vkzvfv/what_books_do_you_need_to_read_if_you_plan_on/)
+- [Why Sri Lanka is having an economic crisis (2022)](https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic) ([Tweet](https://twitter.com/Noahpinion/status/1546719140227911681))

@@ -2026,6 +2026,7 @@
 - [RiteRaft](https://github.com/ritelabs/riteraft) - Raft framework, for regular people.
 - [tiny-actor](https://github.com/jvdwrf/tiny-actor) - Minimal actor framework for Rust.
 - [sized-chunks](https://github.com/bodil/sized-chunks) - Efficient sized chunk datatypes for immutable.rs.
+- [bnum](https://github.com/isaacholt100/bnum) - Arbitrary precision, fixed-size signed and unsigned integer types for Rust: BInt and BUint.
 
 ## Cargo Plugins
 

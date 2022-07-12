@@ -846,3 +846,4 @@
 - [Visual Prompt Tuning (2022)](https://arxiv.org/abs/2203.12119) ([Code](https://github.com/KMnP/vpt))
 - [Unified Implicit Neural Stylization (2022)](https://arxiv.org/abs/2204.01943) ([Code](https://github.com/VITA-Group/INS))
 - [3D-Aware Semantic-Guided Generative Model for Human Synthesis (2021)](https://arxiv.org/abs/2112.01422) ([Code](https://github.com/zhangqianhui/3DSGAN))
+- [Text2LIVE: Text-Driven Layered Image and Video Editing (2022)](https://text2live.github.io/) ([HN](https://news.ycombinator.com/item?id=32043235))

@@ -90,6 +90,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TSArch](https://github.com/ts-arch/ts-arch) - Architecture unit test framework for Typescript.
 - [wait-for-expect](https://github.com/TheBrainFamily/wait-for-expect) - Wait for expectation to be true, useful for integration and end to end testing.
 - [fs-fixture](https://github.com/privatenumber/fs-fixture) - Easily create test fixtures at a temporary file-system path.
+- [hanbi](https://github.com/43081j/hanbi) - Small and simple library for stubbing and spying on methods and functions in JavaScript tests.
 
 ## Auth
 

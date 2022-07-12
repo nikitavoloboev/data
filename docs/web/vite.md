@@ -93,3 +93,4 @@ title: Vite
 - [vite-plugin-pages-sitemap](https://github.com/jbaubree/vite-plugin-pages-sitemap)
 - [Vite setup catalogue](https://github.com/sapphi-red/vite-setup-catalogue) - Contains several example of Vite setups.
 - [HN: Vite (2022)](https://news.ycombinator.com/item?id=31967420)
+- [vite-plugin-wasm](https://github.com/Menci/vite-plugin-wasm) - Add WebAssembly ESM integration to Vite and support `wasm-pack` generated modules.

@@ -64,3 +64,4 @@ title: Graph theory
 - [Elegant six-page proof reveals the emergence of random structure (2022)](https://www.quantamagazine.org/elegant-six-page-proof-reveals-the-emergence-of-random-structure-20220425/) ([HN](https://news.ycombinator.com/item?id=31162576))
 - [Ogma](https://resources.linkurious.com/ogma) - JavaScript library that can be leveraged to develop powerful, large-scale interactive graph visualizations. ([React Code](https://github.com/Linkurious/ogma-react))
 - [ngraph.graph](https://github.com/anvaka/ngraph.graph) - Graph data structure in JavaScript.
+- [Papers on Graph Analytics, Mining, and Learning](https://github.com/chenxuhao/ReadingList)

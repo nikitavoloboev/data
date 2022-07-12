@@ -128,6 +128,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Hour Blocks](https://github.com/jtsaeed/Hour-Blocks) - Effortlessly take control of your day with Hour Blocks: Day Planner for iOS and macOS.
 - [Life Progress](https://github.com/tienphaw/LifeProgress) - Friendly reminder that you're not gonna live forever.
 - [Yattee](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS, macOS and tvOS.
+- [Code App](https://github.com/thebaselab/codeapp) - Building a full-fledged code editor for iPad.
 
 ## Other
 

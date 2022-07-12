@@ -213,3 +213,4 @@ title: OCaml libraries
 - [opam-nix](https://github.com/tweag/opam-nix) - Turn opam-based OCaml projects into Nix derivations.
 - [Esperanto](https://github.com/dinosaure/esperanto) - Build-once run-anywhere OCaml programs.
 - [opam-ci](https://github.com/ocurrent/opam-repo-ci) - OCurrent pipeline for testing submissions to opam-repository.
+- [opam2nix](https://github.com/timbertson/opam2nix) - Generate nix expressions from opam packages.

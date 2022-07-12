@@ -374,3 +374,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Throwaway development environments with Nix (2022)](https://monospacedmonologues.com/2022/06/throwaway-development-environments-with-nix/) ([Lobsters](https://lobste.rs/s/0pp4wv/throwaway_development_environments))
 - [Nix post-build-hook queue](https://github.com/newAM/nix-post-build-hook-queue)
 - [Nix packaging, the heretic way (2022)](https://zimbatm.com/notes/nix-packaging-the-heretic-way) ([Lobsters](https://lobste.rs/s/iwnnya/nix_packaging_heretic_way))
+- [Nix-wrangle](https://github.com/timbertson/nix-wrangle) - Wrangle your nix dependencies.

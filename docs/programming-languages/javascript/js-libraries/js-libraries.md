@@ -977,6 +977,7 @@
 - [90's Cursor Effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript.
 - [Spacetime](https://github.com/spencermountain/spacetime) - Lightweight JS timezone library.
 - [ELK](https://github.com/kieler/elkjs) - ELK's layout algorithms for JavaScript.
+- [multiaddr](https://github.com/multiformats/js-multiaddr) - JavaScript implementation of multiaddr.
 
 ## Links
 

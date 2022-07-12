@@ -153,3 +153,5 @@ I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mear
 - [Ask HN: Europe to East Coast, does it make sense to move at 50? (2022)](https://news.ycombinator.com/item?id=31873504)
 - [Why America can’t build (2022)](https://palladiummag.com/2022/06/09/why-america-cant-build/) ([HN](https://news.ycombinator.com/item?id=31890048))
 - [taxsim.app](https://taxsim.app/) - Interactive US Individual Income Tax simulator. ([Code](https://github.com/tmm1/taxsim.app)) ([HN](https://news.ycombinator.com/item?id=31925871))
+- [USA Trade in Goods with European Union](https://www.census.gov/foreign-trade/balance/c0003.html)
+- [US Export and Import Statistics](https://www.census.gov/foreign-trade/index.html)
