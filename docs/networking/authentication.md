@@ -247,3 +247,4 @@
 - [Passkeys (2022)](https://www.imperialviolet.org/2022/07/04/passkeys.html)
 - [fido2-lib](https://github.com/webauthn-open-source/fido2-lib) - Node.js library for performing FIDO 2.0 / WebAuthn server functionality.
 - [Logto](https://logto.io/) - Helps you build the sign-in experience and user identity within minutes. ([Code](https://github.com/logto-io/logto))
+- [Barricade](https://github.com/purton-tech/barricade) - Docker container that implements logon and registration forms for your application.

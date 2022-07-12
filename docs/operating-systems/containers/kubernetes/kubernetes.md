@@ -775,3 +775,4 @@ title: Kubernetes
 - [Plural](https://www.plural.sh/) - Multi-cloud, multi-prem application deployments for kubernetes in minutes. ([Code](https://github.com/pluralsh/plural))
 - [mirrord](https://mirrord.dev/) - Lets you easily mirror traffic from your Kubernetes cluster to your development environment. ([Code](https://github.com/metalbear-co/mirrord)) ([mirrord internals - hooking libc functions in Rust and fixing bugs](https://metalbear.co/blog/mirrord-internals-hooking-libc-functions-in-rust-and-fixing-bugs/))
 - [HyperShift OpenShift](https://github.com/openshift/hypershift) - Clusters with hosted control planes.
+- [kube-job](https://github.com/h3poteto/kube-job) - Run one off job on kubernetes from the command line tool.

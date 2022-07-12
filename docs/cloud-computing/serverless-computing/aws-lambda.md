@@ -141,3 +141,4 @@ title: AWS Lambda
 - [Lamware](https://github.com/evilkiwi/lamware) - AWS Lambda Middleware Pattern (NodeJS).
 - [Blambda](https://github.com/jmglov/blambda) - Custom runtime for AWS Lambda that lets you write functions using Babashka.
 - [serverless-http](https://github.com/dougmoscrop/serverless-http) - Use your existing middleware framework (e.g. Express, Koa) in AWS Lambda.
+- [Deploy Go API to AWS Lambda](https://github.com/thiskevinwang/api-lambda-aurora-go)

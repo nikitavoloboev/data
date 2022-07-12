@@ -96,7 +96,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) - Automatically switch your Mac between light and dark modes based on the ambient light sensor.
 - [Nuage](https://github.com/lbrndnr/nuage-macos) - Native SoundCloud app for macOS, written in SwiftUI.
 - [OpenHaystack](https://github.com/seemoo-lab/openhaystack) - App for tracking personal Bluetooth devices via Apple's massive Find My network.
-- [Script Kit](https://www.scriptkit.com/) - Automate Anything. ([Code](https://github.com/johnlindquist/kit))
+- [Script Kit](https://www.scriptkit.com/) - Automate Anything. ([Code](https://github.com/johnlindquist/kit)) ([Use Script Kit to Automate Your Daily Workflows](https://www.youtube.com/watch?v=zu_g17ePajA))
 - [Vitals](https://github.com/hmarr/vitals) - Tiny macOS process monitor.
 - [Patchman](https://github.com/PraneetNeuro/Patchman) - MacOS application to test APIs with HTTP methods (Decluttered Postman).
 - [System Color Picker](https://sindresorhus.com/system-color-picker) - macOS color picker as an app with more features. ([Code](https://github.com/sindresorhus/System-Color-Picker))

@@ -197,6 +197,7 @@
 - [iopath](https://github.com/facebookresearch/iopath) - Python library that provides common I/O interface across different storage backends.
 - [cloudpathlib](https://github.com/drivendataorg/cloudpathlib) - Python pathlib-style classes for cloud storage services such as Amazon S3, Azure Blob Storage, and Google Cloud Storage.
 - [sql-metadata](https://github.com/macbre/sql-metadata) - Uses tokenized query returned by python-sqlparse and generates query metadata.
+- [redis-pydict](https://github.com/Narasimha1997/redis-pydict) - Python dictionary that uses Redis as in-memory storage backend to facilitate distributed computing applications development.
 
 ## GUI
 

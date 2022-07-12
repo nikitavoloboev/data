@@ -150,3 +150,4 @@ title: JSON
 - [Understanding jq's SQL style operators JOIN and INDEX (2022)](https://qmacro.org/blog/posts/2022/06/23/understanding-jq's-sql-style-operators-join-and-index/)
 - [ajv-cli](https://github.com/ajv-validator/ajv-cli) - Command-line interface for Ajv JSON Validator.
 - [JSON-LD](https://json-ld.org/) - JSON for Linking Data. ([Parser Code](https://github.com/rubensworks/jsonld-context-parser.js))
+- [jqgo](https://github.com/eatonphil/jqgo) - Variations on experimental Go clones of jq.

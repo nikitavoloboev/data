@@ -182,3 +182,4 @@ title: Vue.js
 - [Vue Use State Effect](https://github.com/lukasborawski/vue-use-state-effect) - Fast and small library, built on top of the native Vue.js API that will provide a safe and sharable (across the app) state for your local composables and functions.
 - [Unplugin Vue Components](https://github.com/antfu/unplugin-vue-components) - On-demand components auto importing for Vue.
 - [Collection of Vue.js challenges](https://vuejs-challenges.netlify.app/) ([Code](https://github.com/webfansplz/vuejs-challenges))
+- [Vue Compiler in Rust](https://github.com/HerringtonDarkholme/vue-compiler)

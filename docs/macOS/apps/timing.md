@@ -2,7 +2,7 @@
 title: Timing
 ---
 
-# [Timing](https://timingapp.com/?lang=en)
+# [Timing](https://timingapp.com/)
 
 I once used Timing app to fully automate tracking time I spend on my computer.
 

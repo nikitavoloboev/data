@@ -308,6 +308,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Jugglr](https://github.com/oslabs-beta/Jugglr) - Test data management tool that enables reliable testing with a Docker containerized database.
 - [data-diff](https://github.com/datafold/data-diff) - Efficiently diff rows across two different databases.
 - [Malewicz](https://github.com/mgramin/malewicz) - Hackable GUI SQL-manager written in SQL itself.
+- [Go Database Code Generator](https://github.com/telkomdev/go-dbcodegen) - Tool is to help you generate schema migrations and CRUD code in Go from an entity definition in form of JSON.
 
 ## Notes
 

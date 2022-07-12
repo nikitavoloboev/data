@@ -209,3 +209,4 @@ title: Jupyter Notebooks
 - [jupyter-lsp](https://github.com/jupyter-server/jupyter-lsp) - Multi-Language Server WebSocket proxy extension for jupyter_server.
 - [REPL Python programming and debugging with IPython (2022)](https://lukeplant.me.uk/blog/posts/repl-python-programming-and-debugging-with-ipython/)
 - [Jupyter React](https://github.com/datalayer/jupyter-react) - React.js components to create reactive data products compatible with the Jupyter ecosystem.
+- [Jupyter Server](https://github.com/jupyter-server/jupyter_server) - Backend—i.e. core services, APIs, and REST endpoints—to Jupyter web applications.

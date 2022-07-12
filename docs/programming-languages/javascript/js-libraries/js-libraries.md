@@ -978,6 +978,7 @@
 - [Spacetime](https://github.com/spencermountain/spacetime) - Lightweight JS timezone library.
 - [ELK](https://github.com/kieler/elkjs) - ELK's layout algorithms for JavaScript.
 - [multiaddr](https://github.com/multiformats/js-multiaddr) - JavaScript implementation of multiaddr.
+- [file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer/Uint8Array/ArrayBuffer.
 
 ## Links
 
