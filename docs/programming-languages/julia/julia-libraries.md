@@ -208,6 +208,7 @@
 - [Krylov.jl](https://github.com/JuliaSmoothOptimizers/Krylov.jl) - Julia Basket of Hand-Picked Krylov Methods.
 - [SuiteSparseGraphBLAS.jl](https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl) - Fast, general sparse linear algebra and graph computation package, based on SuiteSparse:GraphBLAS.
 - [SpecialFunctions.jl](https://github.com/JuliaMath/SpecialFunctions.jl) - Special mathematical functions in Julia.
+- [RandomVariables](https://github.com/ManuelStapper/RandomVariables.jl) - Julia package for random variables, some transformations and probabilities.
 
 ## NLP
 

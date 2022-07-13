@@ -225,3 +225,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Leica M Lens System with Peter Karbe (2020)](https://www.youtube.com/watch?v=mZ1xM7qVSXo)
 - [rphotos](https://github.com/kaj/rphotos) - Photo manager web app, written in rust.
 - [Nikon Z9 Disassembly And Teardown (2022)](https://kolarivision.com/nikon-z9-disassembly-and-teardown/) ([HN](https://news.ycombinator.com/item?id=31877173))
+- [iCloud Shared Album Scraper](https://github.com/ghostops/ICloud-Shared-Album) - Library for scraping data off public iCloud shared albums.

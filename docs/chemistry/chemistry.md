@@ -93,3 +93,4 @@ title: Chemistry
 - [CalcUS](https://github.com/cyllab/CalcUS) - Quantum Chemistry Web Platform.
 - [Legault Research Group](https://cyl.recherche.usherbrooke.ca/) - Investigating hypervalent iodine chemistry and organometallic catalysis to develop new synthetic methodologies with lower environmental impact. ([Twitter](https://twitter.com/CYL_Lab))
 - [Time Machine](https://github.com/proteneer/timemachine) - High-performance differentiable molecular dynamics, docking and optimization engine.
+- [Chemiscope](https://github.com/lab-cosmo/chemiscope) - Interactive structure/property explorer for materials and molecules. ([Web](https://chemiscope.org/))

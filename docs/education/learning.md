@@ -229,3 +229,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Ask HN: Any certification that is worth it? Legitimately helped your career? (2022)](https://news.ycombinator.com/item?id=31874802)
 - [Ask HN: Can I see your cheat sheet? (2022)](https://news.ycombinator.com/item?id=31928736)
 - [Trane](https://github.com/trane-project/trane) - Automated system for learning complex skills. ([CLI](https://github.com/trane-project/trane-cli))
+- [Ask HN: What is the most complex topic you understand? (2022)](https://news.ycombinator.com/item?id=32083653)

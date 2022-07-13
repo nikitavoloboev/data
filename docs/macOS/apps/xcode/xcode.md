@@ -117,3 +117,4 @@ title: Xcode
 - [Xcode Project Organization (2022)](https://www.chimehq.com/blog/xcode-project-organization) ([Tweet](https://twitter.com/mattie/status/1537467445790789632))
 - [Multiliner](https://github.com/aheze/Multiliner) - Xcode source extension to expand lengthy lines.
 - [Update your Xcode project with the latest Swift Package dependencies](https://github.com/getsidetrack/action-xcodeproj-spm-update)
+- [localized-strings-symbols](https://github.com/iKenndac/localized-strings-symbols) - SPM and Xcode build plugin for creating Swift symbols for localized string keys.

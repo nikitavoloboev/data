@@ -155,3 +155,4 @@ Learning to build [startups](startups/startups.md).
 - [Ask HN: 6-hour workdays more important than 4-day workweeks IMO (2022)](https://news.ycombinator.com/item?id=31445355)
 - [Ask HN: What is the best jurisdiction for internationally distributed teams? (2022)](https://news.ycombinator.com/item?id=31620700)
 - [Lessons learned from selling a startup](https://twitter.com/ankurnagpal/status/1542547761094090752)
+- [Ask HN: Examples of large acquisitions that did not ruin the acquired company? (2022)](https://news.ycombinator.com/item?id=32070747)

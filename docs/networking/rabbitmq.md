@@ -36,3 +36,4 @@ title: RabbitMQ
 - [buneary](https://github.com/dominikbraun/buneary) - Easy-to-use CLI client for RabbitMQ.
 - [bunnicula](https://github.com/nomnom-insights/nomnom.bunnicula) - Clojure framework for building RabbitMQ consumers and publishers.
 - [Pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library.
+- [RabbitMQ 3.11 Feature Preview: Super Streams (2022)](https://blog.rabbitmq.com/posts/2022/07/rabbitmq-3-11-feature-preview-super-streams/) ([HN](https://news.ycombinator.com/item?id=32088219))

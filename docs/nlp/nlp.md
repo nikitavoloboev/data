@@ -615,3 +615,4 @@
 - [Facebook Low Resource (FLoRes) MT Benchmark](https://github.com/facebookresearch/flores)
 - [Using GPT-3 to explain how code works (2022)](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/) ([Lobsters](https://lobste.rs/s/znogyz/using_gpt_3_explain_how_code_works)) ([HN](https://news.ycombinator.com/item?id=32036224))
 - [Awesome Topic Models](https://github.com/jonaschn/awesome-topic-models)
+- [Introducing The World’s Largest Open Multilingual Language Model: BLOOM](https://bigscience.huggingface.co/blog/bloom)

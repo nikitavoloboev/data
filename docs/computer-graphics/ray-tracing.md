@@ -117,3 +117,4 @@ title: Ray tracing
 - [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - Open-source web app to simulate the reflection and refraction of light. ([Code](https://github.com/ricktu288/ray-optics))
 - [Ray tracing in WebGL](https://github.com/EnixCoda/3)
 - [CUDA Pathtracer](https://github.com/jan-van-bergen/GPU-Raytracer) - GPU Ray tracer from scratch in C++/CUDA.
+- [Path tracer in rust](https://github.com/coreylowman/teeracer)

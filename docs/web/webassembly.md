@@ -333,3 +333,4 @@ title: WebAssembly
 - [Virgil](https://github.com/titzer/virgil) - Fast and lightweight programming language that compiles to WASM. ([HN](https://news.ycombinator.com/item?id=31954053))
 - [Wacko](https://github.com/MierenManz/wacko) - WebAssembly Compiler.
 - [Brian Sletten: The Whole WebAssembly Enchilada (2022)](https://www.youtube.com/watch?v=J3hK7O5Oc2Y)
+- [Tell HN: We are trying to get tail calls into the WebAssembly standard (2022)](https://news.ycombinator.com/item?id=32069418) ([Lobsters](https://lobste.rs/s/wdtojd/fantastic_tail_calls_how_implement_them))

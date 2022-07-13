@@ -633,6 +633,7 @@
 
 ## ML
 
+- [dfdx](https://github.com/coreylowman/dfdx) - Strongly Typed Auto Grad in Rust.
 - [autograph](https://github.com/charles-r-earp/autograph) - Machine Learning Library for Rust.
 - [Neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
 - [Juice](https://github.com/spearow/juice) - Hacker's Machine Learning Engine.

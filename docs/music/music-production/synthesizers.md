@@ -92,3 +92,4 @@ title: Synthesizers
 - [Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin.
 - [OpenDeck MIDI Platform](https://github.com/shanteacontrols/OpenDeck) - Software and hardware platform for simpler building of MIDI controllers with support for DMX.
 - [HexoSynth](https://github.com/WeirdConstructor/HexoSynth) - Hexagonal modular synthesizer.
+- [Supply chain issues are killing synth companies (2022)](https://www.synthtopia.com/content/2022/07/12/supply-chain-issues-are-killing-synth-companies-and-making-it-impossible-to-ship-new-designs/) ([HN](https://news.ycombinator.com/item?id=32086740))

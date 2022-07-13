@@ -90,3 +90,4 @@ For programming, [Walrus](https://github.com/Clivern/Walrus) seems nice.
 - [Hoard](https://github.com/Shadow53/hoard) - Program for backing up files from across a filesystem into a single directory and restoring them later. ([Docs](https://hoard.rs/))
 - [Immutable backups so simple that unborkable](https://github.com/nathants/backup) ([Lobsters](https://lobste.rs/s/qfva1e/immutable_backups_so_simple_unborkable))
 - [Advice needed for backing up and hosting large amount of files (2022)](https://news.ycombinator.com/item?id=31996612)
+- [Restic Backup Docker Container](https://github.com/lobaro/restic-backup-docker)

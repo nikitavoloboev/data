@@ -193,3 +193,8 @@
 - [Books or resources for learning Bluetooth (2022)](https://www.reddit.com/r/embedded/comments/ved0vy/books_or_resources_for_learning_bluetooth/)
 - [PlatformIO](https://platformio.org/) - Professional collaborative platform for embedded development. ([Code](https://github.com/platformio/platformio-core))
 - [LogicAnalyzer](https://github.com/gusmanb/logicanalyzer) - Cheap 24 channel logic analyzer with 100Msps, 32k samples deep, edge triggers and pattern triggers.
+- [Lobaro-CoAP](https://github.com/lobaro/lobaro-coap) - Complete CoAP Implementation in C.
+- [Lobaro CoAP for Go](https://github.com/lobaro/coap-go)
+- [FreeRTOS-rust](https://github.com/lobaro/FreeRTOS-rust) - Rust crate for FreeRTOS.
+- [Go-CoAP](https://github.com/plgd-dev/go-coap) - Implementation of CoAP Server & Client in Go.
+- [Lovem](https://github.com/kratenko/lovem) - Low overhead virtual embedded machine.

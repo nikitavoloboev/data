@@ -92,3 +92,4 @@
 - [Uplink](https://github.com/bytebeamio/uplink) - Utility to receive commands from and efficiently send data to an IoT Backend.
 - [Apple2idiot](https://github.com/equant/apple2idiot) - General purpose ESP32 IoT board for the Apple IIe. ([HN](https://news.ycombinator.com/item?id=31302297))
 - [carrier](https://github.com/devguardio/carrier) - Secure edge access overlay network for IoT devices.
+- [Lobaro.com](https://www.lobaro.com/) - German startup specialized on full-stack industrial IoT development. ([GitHub](https://github.com/lobaro))

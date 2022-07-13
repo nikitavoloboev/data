@@ -238,3 +238,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Anthony Fu's contribution guide](https://github.com/antfu/contribute)
 - [Creative commons and open source](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:digital-information/xcae6f4a7ff015e7d:digital-copyright-and-licenses/a/creative-commons-and-open-source)
 - [Don't be that open-source user, don't be me (2022)](https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/) ([Lobsters](https://lobste.rs/s/cfed7x/don_t_be_open_source_user_don_t_be_me))
+- [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work) ([HN](https://news.ycombinator.com/item?id=32071137))

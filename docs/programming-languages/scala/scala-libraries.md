@@ -178,6 +178,7 @@
 - [kantan.csv](https://github.com/nrinaudo/kantan.csv) - CSV handling library for Scala.
 - [Foursquare Fsq.io](https://github.com/foursquare/fsqio) - All of Foursquare's open source code in a single repo.
 - [Scala-fx](https://github.com/47deg/TBD) - Effects library for Scala 3 that introduces structured concurrency and an abilities system to describe pure functions and programs.
+- [DUCT](https://github.com/justinhj/duct) - Scala 3 category theory and functional programming library.
 
 ## Links
 

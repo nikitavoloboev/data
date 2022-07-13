@@ -65,3 +65,4 @@ title: Graph theory
 - [Ogma](https://resources.linkurious.com/ogma) - JavaScript library that can be leveraged to develop powerful, large-scale interactive graph visualizations. ([React Code](https://github.com/Linkurious/ogma-react))
 - [ngraph.graph](https://github.com/anvaka/ngraph.graph) - Graph data structure in JavaScript.
 - [Papers on Graph Analytics, Mining, and Learning](https://github.com/chenxuhao/ReadingList)
+- [Force Directed Graph](https://github.com/jonobr1/force-directed-graph) - GPU supercharged attraction-graph visualizations built on top of Three.js.

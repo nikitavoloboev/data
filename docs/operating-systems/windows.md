@@ -52,3 +52,4 @@
 - [How to Run Windows 11 on M1 Mac, for Free (2022)](https://osxdaily.com/2022/04/14/how-run-windows-11-m1-mac/)
 - [Free Lunch](https://github.com/auctors/free-lunch) - Curated list of free Windows software, online services and resources.
 - [Welcome to the M1 Windows project](https://amarioguy.github.io/m1windowsproject/) ([HN](https://news.ycombinator.com/item?id=31657591))
+- [Ask HN: Has anyone here worked on the Windows kernel? (2022)](https://news.ycombinator.com/item?id=32076677)

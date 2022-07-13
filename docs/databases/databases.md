@@ -653,3 +653,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Log Structured Merge Trees (2015)](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/)
 - [Code in database vs. code in application (2022)](https://brandur.org/fragments/code-database-vs-app) ([Lobsters](https://lobste.rs/s/mr71g6/code_database_vs_code_application))
 - [Dimensional Modeling Techniques - Kimball Group](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/)
+- [ClickBench — Benchmark For Analytical DBMS (Snowflake, Druid, Redshift)](https://benchmark.clickhouse.com/) ([HN](https://news.ycombinator.com/item?id=32084571))

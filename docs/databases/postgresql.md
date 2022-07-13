@@ -541,3 +541,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Коллекция готовых SQL запросов для PostgreSQL](https://github.com/rin-nas/postgresql-patterns-library)
 - [Postgres 15 improves UNIQUE and NULL (2022)](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null) ([HN](https://news.ycombinator.com/item?id=32053293))
 - [Postgres Full-Text Search: A Search Engine in a Database (2021)](https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database) ([HN](https://news.ycombinator.com/item?id=32059566))
+- [PostgreSQL 14 Internals Book](https://postgrespro.com/community/books/internals) ([HN](https://news.ycombinator.com/item?id=32088316))

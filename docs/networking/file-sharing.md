@@ -117,3 +117,4 @@
 - [Statikk](https://github.com/paulirish/statikk) - Simple and secure server for static files.
 - [Parsec](https://github.com/Scille/parsec-cloud) - Open source Dropbox-like file sharing with full client encryption.
 - [Dufs](https://github.com/sigoden/dufs) - File server that supports static serving, uploading, searching, accessing control, webdav.
+- [kipp](https://github.com/uhthomas/kipp) - Flexible file storage server.

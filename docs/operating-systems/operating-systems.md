@@ -162,6 +162,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [CrabOS](https://github.com/haileys/crabos) - Hobby operating system written in Rust.
 - [WasabiOS](https://github.com/hikalium/wasabi) - Web browser + OS in Rust.
 - [MnemOS](https://github.com/tosc-rs/mnemos) - Small operating system in Rust.
+- [zigux](https://github.com/czapek1337/zigux) - Attempt to write a (semi) functional OS in Zig.
 
 ## Notes
 

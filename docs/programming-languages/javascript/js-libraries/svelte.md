@@ -25,6 +25,7 @@ title: Svelte
 - [Storyblok Sveltekit example](https://github.com/jbruxelle/storyblok-sveltekit-example) - Using Sveltekit with Storyblok as a headless CMS. Queries are made using GraphQL and the kitQL library from jycouet.
 - [SvelteKit and Vendure Commerce example](https://github.com/spences10/sveltekit-vendure-commerce)
 - [Turbocharger template with Svelte, Tailwind, and TurboSQL](https://github.com/trevyn/turbocharger-template)
+- [Svelte Encrypted SPA](https://github.com/Greenheart/svelte-encrypted-spa) - Easily create private, encrypted single page applications with Svelte and PageCrypt.
 
 ## Notes
 

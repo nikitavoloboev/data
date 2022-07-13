@@ -40,3 +40,4 @@ title: Optical character recognition
 - [ocrit](https://github.com/insidegui/ocrit) - Command-line utility for performing OCR using Apple's Vision framework.
 - [Tesseract WASM](https://github.com/robertknight/tesseract-wasm) - WebAssembly build of the Tesseract OCR engine for use in the browser and Node.
 - [tinyocr](https://github.com/jackrusher/tinyocr) - Tiny command line OCR utility for recent versions of MacOS.
+- [Our search for the best OCR tool (2019)](https://source.opennews.org/articles/so-many-ocr-options/) ([HN](https://news.ycombinator.com/item?id=32053525))

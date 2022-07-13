@@ -288,3 +288,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Оптимизация долгосрочного портфеля акций](https://github.com/WLM1ke/poptimizer)
 - [QuantResearch](https://github.com/letianzj/QuantResearch) - Quantitative analysis, strategies and backtests.
 - [Ask HN: Do you trust solo entrepreneurs? (2022)](https://news.ycombinator.com/item?id=31930460)
+- [Inflation-Adjusted Stock Charts](https://totalrealreturns.com/) ([HN](https://news.ycombinator.com/item?id=32081943))

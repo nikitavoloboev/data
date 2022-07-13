@@ -925,6 +925,7 @@
 - [k-Medoids](https://github.com/kno10/python-kmedoids) - Fast K-Medoids clustering in Python with FasterPAM.
 - [python-atomicwrites](https://github.com/untitaker/python-atomicwrites) - Powerful Python library for atomic file writes.
 - [Simplemma](https://github.com/adbar/simplemma) - Simple multilingual lemmatizer for Python.
+- [Sparse](https://github.com/pydata/sparse) - Sparse multi-dimensional arrays for the PyData ecosystem.
 
 ## Notes
 
