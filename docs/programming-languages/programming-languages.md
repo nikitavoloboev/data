@@ -352,7 +352,7 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Ott](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi.
 - [PL Papers You Might Love Newsletter](https://newsletter.papersyoumightlove.pl/)
 - [ogma](https://github.com/kdr-aus/ogma) - Scripting language focused on processing tabular data.
-- [massCode](https://github.com/massCodeIO/massCode) - Free and open source code snippets manager for developers.
+- [massCode](https://github.com/massCodeIO/massCode) - Free and open source code snippets manager for developers. ([Web](https://masscode.io/))
 - [CodeImage](https://codeimage.dev/) - Create elegant screenshots of your source code. ([Code](https://github.com/riccardoperra/codeimage))
 - [Course on Metaprogramming](https://github.com/namin/metaprogramming)
 - [Germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code.

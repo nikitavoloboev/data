@@ -187,3 +187,4 @@
 - [UX Tip: Classify your Interactions into Obvious/Easy/Possible (2022)](https://blog.willgrant.org/2022/06/27/classify-interactions-obvious-easy-possible.html) ([Lobsters](https://lobste.rs/s/bftjrg/ux_tip_classify_your_interactions_into))
 - [UI/UX Learning Resources](https://github.com/hendurhance/ui-ux)
 - [Curated list for UI/UX Designers](https://github.com/gregjw/ui-ux)
+- [50+ practical UI/UX design tips](https://twitter.com/erikdkennedy/status/1328771593934290944)

@@ -82,3 +82,4 @@
 - [Goedel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements (2003)](https://arxiv.org/abs/cs/0309048)
 - [SHACL: A Description Logic in Disguise (2021)](https://arxiv.org/abs/2108.06096)
 - [Open Logic Project](http://builds.openlogicproject.org/) ([HN](https://news.ycombinator.com/item?id=31960219))
+- [Formalizations of Gödel's Ontological Proof of God's Existence](https://github.com/FormalTheology/GoedelGod)

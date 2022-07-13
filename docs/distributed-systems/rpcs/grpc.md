@@ -45,7 +45,7 @@ title: gRPC
 - [grpcbin](https://github.com/moul/grpcbin) - httpbin like for gRPC.
 - [gRPC UI](https://github.com/fullstorydev/grpcui) - Interactive web UI for gRPC, along the lines of postman.
 - [GripMock](https://github.com/tokopedia/gripmock) - Mock server for GRPC services.
-- [Kreya](https://kreya.app/) - gRPC GUI client. It makes calling gRPC APIs easy. ([Docs](https://kreya.app/docs/getting-started)) ([Issues](https://github.com/riok/Kreya))
+- [Kreya](https://kreya.app/) - gRPC GUI client. It makes calling gRPC APIs easy. ([Docs](https://kreya.app/docs/getting-started)) ([Issues](https://github.com/riok/Kreya)) ([HN](https://news.ycombinator.com/item?id=32066569))
 - [gRPC Channels](https://github.com/fullstorydev/grpchan) - Channels for gRPC: custom transports.
 - [grpc-testing](https://github.com/ryoya-fujimoto/grpc-testing) - Testing and helper tool for grpc server, using cuelang and grpcurl.
 - [gun](https://github.com/Qv2ray/gun) - Toy gRPC Tunnel over CloudFlare.

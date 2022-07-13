@@ -172,3 +172,5 @@
 - [JWST Calibration Pipeline](https://github.com/spacetelescope/jwst) - Python library for science observations from the James Webb Space Telescope.
 - [James Webb Space Telescope's photos](https://twitter.com/hankgreen/status/1546340969750183936)
 - [In Our Time, The Death of Stars](https://www.bbc.co.uk/programmes/m0018128)
+- [James Webb first images – complete set of high resolution shots now live (2022)](https://webbtelescope.org/news/news-releases?Collection=First%20Images) ([HN](https://news.ycombinator.com/item?id=32071020))
+- [Deepest infrared image of universe (2022)](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet/) ([HN](https://news.ycombinator.com/item?id=32062849))

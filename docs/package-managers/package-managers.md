@@ -59,3 +59,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [binary-install](https://github.com/EverlastingBugstopper/binary-install) - Install binary applications via npm.
 - [Latest.cat](https://latest.cat/) - Find the latest version of your favorite software. ([Code](https://github.com/patrick91/latest.cat))
 - [emplace](https://github.com/tversteeg/emplace) - Command-line tool to mirror installed software on multiple machines.
+- [Huber](https://github.com/innobead/huber) - Package Manager for GitHub repos.

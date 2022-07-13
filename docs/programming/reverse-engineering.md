@@ -113,3 +113,4 @@
 - [decomp](https://github.com/decomp/decomp) - Components of a decompilation pipeline.
 - [Ghidra Snippets](https://github.com/HackOvert/GhidraSnippets) - Python snippets for Ghidra's Program and Decompiler APIs.
 - [SLEIGH](https://github.com/black-binary/sleigh) - Rust port of Ghidra's SLEIGH decompiler. Allows you to decompile or translate machine code for multiple architectures.
+- [0x](https://github.com/mcy/0x) - Like xxd but colorful.

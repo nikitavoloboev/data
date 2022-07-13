@@ -366,6 +366,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Alex Robertson](https://www.behance.net/alexr)
 - [Simon Sarris](https://www.instagram.com/simonsarris/)
 - [Jack Sharp](https://www.jacksharp.co.uk/)
+- [Sasha Mehta](https://www.instagram.com/sashamehta2/) ([Twitter](https://twitter.com/sashamehta02))
 - [Karolina Szczur](https://fox.exposure.co/)
 - [Cole Rise](https://www.instagram.com/colerise/) ([Web](http://www.colerise.com/))
 - [Mona Kuhn](https://www.monakuhn.com/portfolio/works/)

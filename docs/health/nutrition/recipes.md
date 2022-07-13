@@ -106,3 +106,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [10 tastiest Ukrainian dishes](https://ukraineworld.org/articles//ukraine-explained/eat-ukraine-10-tastiest-ukrainian-dishes)
 - [Erica Cooks](https://ericaxu.github.io/quantified-chef/)
 - [Eda.ru - YouTube](https://www.youtube.com/c/edaru/videos)
+- [Mela](https://mela.recipes/) - Simple, elegant and modern recipe manager for iOS and macOS that syncs with iCloud.

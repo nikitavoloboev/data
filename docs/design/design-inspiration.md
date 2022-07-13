@@ -72,6 +72,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Abstract](https://www.abstract.com/)
 - [Swipe Files](https://www.swipefiles.co/)
 - [Draftsend](https://draftsend.com/)
+- [Foundation](https://foundation.app/)
 - [taotajima](http://taotajima.jp/works/waxing-moon/) - Amazing transitions.
 - [TANMU LABS](https://tanmulabs.com/) - Pretty awesome color palette.
 - [The Disconnect](https://thedisconnect.co/)

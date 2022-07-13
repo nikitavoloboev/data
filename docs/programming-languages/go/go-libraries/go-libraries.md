@@ -1861,3 +1861,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Nicer struct literals in Go templates (2022)](https://commaok.xyz/post/tstruct/)
 - [How to use GoString in Go (2022)](https://articles.orsinium.dev/p/notes-go/gostring)
 - [Go generics are not bad (2022)](https://lemire.me/blog/2022/07/08/go-generics-are-not-bad/) ([HN](https://news.ycombinator.com/item?id=32027855))
+- [go-rocket-update](https://github.com/mouuff/go-rocket-update) - Easy to use and modular library to make self updating Go programs.

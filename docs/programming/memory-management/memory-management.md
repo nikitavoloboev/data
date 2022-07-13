@@ -7,7 +7,7 @@
 ## Links
 
 - [What Every Programmer Should Know About Memory (2007)](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) ([Web](https://lwn.net/Articles/250967/))
-- [Memory Management Reference](https://www.memorymanagement.org/) - Resource for programmers and computer scientists interested in memory management and garbage collection.
+- [Memory Management Reference](https://www.memorymanagement.org/) - Resource for programmers and computer scientists interested in memory management and garbage collection. ([HN](https://news.ycombinator.com/item?id=32067559))
 - [Memory Pool System](https://www.ravenbrook.com/project/mps/) - Flexible and adaptable memory manager. Among its many advantages are an incremental garbage collector with very low pause times, and an extremely robust implementation. ([Code](https://github.com/Ravenbrook/mps))
 - [A unified theory of garbage collection (2004)](https://www.researchgate.net/publication/221321424_A_unified_theory_of_garbage_collection) ([PDF](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf))
 - [Memory Bandwidth Napkin Math (2020)](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
