@@ -126,3 +126,4 @@ title: Apache Kafka
 - [kt](https://github.com/fgeller/kt) - Kafka tool that likes JSON.
 - [Kafka Proxy](https://github.com/grepplabs/kafka-proxy) - Proxy connections to Kafka cluster. Connect through SOCKS Proxy, HTTP Proxy or to cluster running in Kubernetes.
 - [System Design: Why is Kafka fast? (2022)](https://www.youtube.com/watch?v=UNUz1-msbOM)
+- [Simplifying Redpanda Raft implementation (2022)](https://redpanda.com/blog/simplifying-raft-replication-in-redpanda)

@@ -277,3 +277,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [rust-macho](https://github.com/flier/rust-macho) - Mach-O File Format Parser for Rust.
 - [os-signpost](https://github.com/explosion/os-signpost) - Wrapper for the macOS signpost API.
 - [macOS: App sandboxing via sandbox-exec (2020)](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html) ([HN](https://news.ycombinator.com/item?id=31973232))
+- [macschema](https://github.com/progrium/macschema) - Toolchain for generating JSON definitions of Apple APIs.

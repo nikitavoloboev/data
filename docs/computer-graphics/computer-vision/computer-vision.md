@@ -847,3 +847,4 @@
 - [Unified Implicit Neural Stylization (2022)](https://arxiv.org/abs/2204.01943) ([Code](https://github.com/VITA-Group/INS))
 - [3D-Aware Semantic-Guided Generative Model for Human Synthesis (2021)](https://arxiv.org/abs/2112.01422) ([Code](https://github.com/zhangqianhui/3DSGAN))
 - [Text2LIVE: Text-Driven Layered Image and Video Editing (2022)](https://text2live.github.io/) ([HN](https://news.ycombinator.com/item?id=32043235))
+- [HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction (2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.pdf) ([Code](https://github.com/ZikangZhou/HiVT))

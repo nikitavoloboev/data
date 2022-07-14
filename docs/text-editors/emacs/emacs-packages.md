@@ -41,3 +41,4 @@
 - [Ecaml](https://github.com/janestreet/ecaml) - Writing Emacs plugin in OCaml.
 - [Elegant Emacs](https://github.com/rougier/elegant-emacs) - Minimal consistent vanilla Emacs (i.e. no package) and yet elegant.
 - [Modern Org Style](https://github.com/minad/org-modern)
+- [Denote (denote.el)](https://protesilaos.com/emacs/denote) - Simple Emacs Zettelkasten. ([HN](https://news.ycombinator.com/item?id=32066513))

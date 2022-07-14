@@ -67,7 +67,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Glyph](https://github.com/zackradisic/glyph) - Personal code editor built with Rust + OpenGL.
 - [freja](https://github.com/saikyun/freja) - Self-modifiable text editor implemented in Janet.
 - [Lapce](https://github.com/lapce/lapce) - Open source code editor inspired by Xi-editor. ([HN](https://news.ycombinator.com/item?id=29549173)) ([Reddit](https://www.reddit.com/r/rust/comments/rg3k9o/lightningfast_and_powerful_code_editor_written_in/)) ([Web](https://lapce.dev/)) ([Reddit](https://www.reddit.com/r/rust/comments/t550wy/lapce_open_source_code_editor_inspired_by_xieditor/)) ([HN](https://news.ycombinator.com/item?id=30708505))
-- [Zed](https://zed.dev/) - Lightning-fast, collaborative code editor written in Rust (Atom team). ([HN](https://news.ycombinator.com/item?id=29566960))
+- [Zed](https://zed.dev/) - Lightning-fast, collaborative code editor written in Rust (Atom team). ([HN](https://news.ycombinator.com/item?id=29566960)) ([GitHub](https://github.com/zed-industries)) ([Feedback](https://github.com/zed-industries/feedback))
 - [MarkupEditor](https://github.com/stevengharris/MarkupEditor) - WYSIWYG editing for SwiftUI and UIKit apps.
 - [cl-editor](https://github.com/nenadpnc/cl-editor) - Lightweight text editor built with svelte, TypeScript.
 - [Ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.

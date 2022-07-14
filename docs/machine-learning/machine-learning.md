@@ -872,3 +872,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [500 AI Machine learning Deep learning Computer vision NLP Projects with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 - [Deep Learning Curriculum](https://github.com/jacobhilton/deep_learning_curriculum)
 - [Diffusion models](https://github.com/InFoCusp/diffusion_models) - Minimal standalone example of diffusion model.
+- [Perceiver IO: A General Architecture for Structured Inputs & Outputs (2021)](https://arxiv.org/abs/2107.14795) ([Code](https://github.com/minqukanq/perceiver-io))
+- [ML code generation vs. coding by hand: what we think programming will look like (2022)](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future) ([HN](https://news.ycombinator.com/item?id=32098144))

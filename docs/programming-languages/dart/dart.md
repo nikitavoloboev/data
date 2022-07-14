@@ -48,3 +48,4 @@ title: Dart
 - [Logger](https://github.com/leisim/logger) - Small, easy to use and extensible logger which prints beautiful logs.
 - [Requests](https://github.com/jossef/requests) - Dart library to make HTTP requests.
 - [gRPC Dart](https://github.com/grpc/grpc-dart) - Dart language implementation of gRPC.
+- [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) - Fast, minimalistic backend framework for Dart.

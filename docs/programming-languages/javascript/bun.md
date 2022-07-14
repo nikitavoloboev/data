@@ -14,6 +14,7 @@ title: Bun
 - [Bun + Vite + TS (test)](https://github.com/bluwy/bun-vite-ts-test)
 - [siopao](https://github.com/wobsoriano/siopao) - Minimal routing library designed to sit on top of Bun's fast HTTP server.
 - [Create Bun Boilerplates](https://github.com/guocaoyi/create-bun) - Scaffolding your bun project boilerplate.
-- [Awesome bun](https://github.com/hisamafahri/awesome-bun)
+- [Awesome Bun](https://github.com/hisamafahri/awesome-bun)
+- [Awesome Bun 2](https://github.com/one-aalam/awesome-bun)
 - [Jarred Sumner Interview (2022)](https://youtu.be/FOsJ4JfpSRU?t=4463)
 - [bun-utilities](https://github.com/xHyroM/bun-utilities) - Bindings for useful functions for bun.

@@ -930,6 +930,9 @@
 - [Pixie](https://github.com/treeform/pixie-python) - Full-featured 2D graphics library for Python.
 - [pyTooling](https://github.com/pyTooling/pyTooling) - Collection of arbitrary useful classes, decorators, meta-classes and exceptions.
 - [pyloudnorm](https://github.com/csteinmetz1/pyloudnorm) - Flexible audio loudness meter in Python.
+- [datatree](https://github.com/xarray-contrib/datatree) - Implementation of a tree-like hierarchical data structure for xarray.
+- [pint-xarray](https://github.com/xarray-contrib/pint-xarray) - Interface for using pint with xarray, providing convenience accessors.
+- [xgcm](https://github.com/xgcm/xgcm) - General Circulation Model Postprocessing with xarray.
 
 ## Notes
 
@@ -1093,3 +1096,4 @@
 - [unearth](https://github.com/frostming/unearth) - Utility to fetch and download python packages.
 - [promypy](https://github.com/Kludex/promypy) - Progressive type annotation without regression.
 - [PoetryUp](https://github.com/MousaZeidBaker/poetryup) - Updates dependencies and bumps their version in both poetry.lock as well as in pyproject.toml file.
+- [Python for Scientists](https://github.com/TomNicholas/Python-for-Scientists)

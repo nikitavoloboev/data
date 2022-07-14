@@ -100,3 +100,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [OpenBSD 7.1 (2022)](https://www.openbsd.org/index.html) ([HN](https://news.ycombinator.com/item?id=31109046))
 - [Customizing NetBSD boot banners (2022)](https://www.cambus.net/customizing-netbsd-boot-banners/)
 - [How I would sell OpenBSD as a salesperson (2022)](https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html) ([HN](https://news.ycombinator.com/item?id=31839692))
+- [Porting OpenBSD pledge() to Linux (2022)](https://justine.lol/pledge/) ([Lobsters](https://lobste.rs/s/rnjdx8/porting_openbsd_pledge_linux)) ([HN](https://news.ycombinator.com/item?id=32096801))

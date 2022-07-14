@@ -381,3 +381,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [YouBit](https://github.com/MeViMo/youbit) - Using YouTube as a free file hosting service.
 - [ddfi](https://github.com/Mr-Z-2697/ddfi-rife) - Clumsy video auto duplication remove and frame interpolate script.
 - [Playable](https://github.com/wix/playable) - Embed a video player into your web application. ([Docs](https://wix.github.io/playable/))
+- [Lintel](https://github.com/dukebw/lintel) - Python module to decode video frames directly, using the FFmpeg C API.

@@ -53,3 +53,4 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [Ask HN: What stack for a multiplayer board game? (2022)](https://news.ycombinator.com/item?id=32054857)
 - [What's your weirdest board game "headcanon"? (2022)](https://www.reddit.com/r/boardgames/comments/vxzdci/whats_your_weirdest_board_game_headcanon/)
 - [Fari](https://fari.app/) - Free and Open-Source Virtual Tabletop. ([Code](https://github.com/fariapp/fari-app))
+- [What's a game you've been on the fence about buying? (2022)](https://www.reddit.com/r/boardgames/comments/vyymye/whats_a_game_youve_been_on_the_fence_about_buying/)

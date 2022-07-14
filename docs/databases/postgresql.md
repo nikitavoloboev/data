@@ -543,3 +543,5 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postgres Full-Text Search: A Search Engine in a Database (2021)](https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database) ([HN](https://news.ycombinator.com/item?id=32059566))
 - [PostgreSQL 14 Internals Book](https://postgrespro.com/community/books/internals) ([HN](https://news.ycombinator.com/item?id=32088316))
 - [Postgres Indexing: When Does BRIN Win? (2022)](https://www.crunchydata.com/blog/postgres-indexing-when-does-brin-win) ([HN](https://news.ycombinator.com/item?id=32089947))
+- [PQ](https://github.com/malthe/pq) - Simple transactional queue for PostgreSQL written in Python.
+- [PostgreSQL views and materialized views and how they influenced TimescaleDB (2022)](https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/) ([HN](https://news.ycombinator.com/item?id=32097663))

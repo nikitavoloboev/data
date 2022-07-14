@@ -630,6 +630,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-uring](https://github.com/godzie44/go-uring) - Linux io_uring for Go.
 - [libseccomp-go](https://github.com/seccomp/libseccomp-golang) - Easy to use, platform independent, interface to the Linux Kernel's syscall filtering mechanism.
 - [go-evdev](https://github.com/holoplot/go-evdev) - Go support for the Linux evdev interface.
+- [Go Landlock](https://github.com/landlock-lsm/go-landlock) - Go library for the Linux Landlock sandboxing feature.
 
 ## Apple
 

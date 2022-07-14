@@ -281,6 +281,7 @@ title: GitHub actions
 - [maturin-action](https://github.com/messense/maturin-action) - GitHub Action to install and run a custom maturin command.
 - [pyright-action](https://github.com/jakebailey/pyright-action) - GitHub action for pyright.
 - [actions-poetry](https://github.com/abatilo/actions-poetry) - GitHub Actions for Python projects using poetry.
+- [gh-action-sigstore-python](https://github.com/trailofbits/gh-action-sigstore-python) - GitHub Action that uses sigstore-python to sign Python packages.
 
 ## JS
 
@@ -389,6 +390,7 @@ title: GitHub actions
 
 - [Scala Steward](https://github.com/scala-steward-org/scala-steward-action) - Github Action to launch Scala Steward in your repository.
 - [Setup Scala](https://github.com/olafurpg/setup-scala) - GitHub Action to install Java via Jabba and sbt.
+- [Sbt Dependency Submission](https://github.com/scalacenter/sbt-dependency-submission) - GitHub Action to submit the dependency graph of an sbt build to the Dependency Submission API.
 
 ## Electron
 

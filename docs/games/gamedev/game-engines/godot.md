@@ -72,3 +72,4 @@ title: Godot
 - [GDScript and Godot client for real-time Phoenix Framework Channels](https://github.com/alfredbaudisch/GodotPhoenixChannels)
 - [Godex](https://github.com/GodotECS/godex) - Godot Engine ECS library.
 - [Making Advanced GUI Applications with Godot (2020)](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b) ([Lobsters](https://lobste.rs/s/uka8eq/making_advanced_gui_applications_with))
+- [It’s time to make that indie C# game in Godot (2022)](https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470) ([HN](https://news.ycombinator.com/item?id=32096575))
