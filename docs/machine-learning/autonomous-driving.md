@@ -74,3 +74,4 @@
 - [Autonomous Driving Data Framework (ADDF)](https://github.com/awslabs/autonomous-driving-data-framework)
 - [Autoware](https://github.com/autowarefoundation/autoware) - Open-source software stack for self-driving vehicles, built on the Robot Operating System (ROS).
 - [LaserMix for Semi-Supervised LiDAR Semantic Segmentation (2022)](https://ldkong.com/LaserMix) ([Code](https://github.com/ldkong1205/LaserMix))
+- [HN: Andrej Karpathy leaves Tesla (2022)](https://news.ycombinator.com/item?id=32089013)

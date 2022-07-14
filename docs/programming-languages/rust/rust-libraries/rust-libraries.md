@@ -554,6 +554,7 @@
 - [Linear-Time Sumcheck](https://github.com/arkworks-rs/sumcheck) - Rust library that implements the sumcheck protocol.
 - [Classic McEliece](https://github.com/Colfenor/classic-mceliece-rust) - Safe pure-rust implementation of the Classic McEliece post-quantum scheme.
 - [stream ciphers](https://github.com/RustCrypto/stream-ciphers) - Collection of stream cipher algorithms.
+- [ed25519-speccheck](https://github.com/novifinancial/ed25519-speccheck) - Test cases for EdDSA signature verification edge cases.
 
 ## Linux
 
@@ -2028,6 +2029,7 @@
 - [tiny-actor](https://github.com/jvdwrf/tiny-actor) - Minimal actor framework for Rust.
 - [sized-chunks](https://github.com/bodil/sized-chunks) - Efficient sized chunk datatypes for immutable.rs.
 - [bnum](https://github.com/isaacholt100/bnum) - Arbitrary precision, fixed-size signed and unsigned integer types for Rust: BInt and BUint.
+- [lockfree-cuckoohash](https://github.com/datenlord/lockfree-cuckoohash) - Rust implementation of lock free cuckoo hashmap.
 
 ## Cargo Plugins
 

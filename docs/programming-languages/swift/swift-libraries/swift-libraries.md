@@ -543,6 +543,7 @@
 - [Dockable](https://github.com/getsidetrack/swiftui-dockable) - SwiftUI component for launching custom picture-in-picture experiences.
 - [RepresentableKit](https://github.com/yumemi-inc/RepresentableKit) - Use UIKit views inside SwiftUI, including Xcode Previews.
 - [Kuru](https://github.com/zalazara/Kuru) - iOS library for SDDUI (Server Data Driven UI) in SwiftUI.
+- [SwiftUILayouts](https://github.com/apptekstudios/SwiftUILayouts) - Collection of native SwiftUI layouts.
 
 ## Test
 

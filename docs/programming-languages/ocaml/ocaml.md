@@ -54,6 +54,7 @@ title: OCaml
 - [Retrofitting Parallelism onto OCaml (2020)](https://arxiv.org/abs/2004.11663) ([Article](https://discuss.ocaml.org/t/multicore-update-april-2020-with-a-preprint-paper/5630))
 - [Notes and findings from our OCaml benchmarking adventures](https://github.com/ocaml-bench/notes)
 - [MinCaml compiler implemented in Rust](https://github.com/osa1/mincaml)
+- [wowcaml](https://github.com/femtomc/wowcaml) - Extending mincaml with "fun" PL ideas.
 - [modern-ocaml](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling.
 - [Unreal world OCaml](https://ocaml-book.baturin.org/) - Introductory book on OCaml. ([Code](https://github.com/dmbaturin/ocaml-book))
 - [OCaml Forum](https://discuss.ocaml.org/)

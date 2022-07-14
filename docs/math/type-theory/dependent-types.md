@@ -77,3 +77,4 @@ title: Dependent types
 - [Castle Bravo: Experimental HoTT Implementation](https://github.com/forked-from-1kasper/bravo)
 - [Magmide](https://github.com/magmide/magmide) - Dependently-typed proof language intended to make provably correct bare metal code possible for working software engineers.
 - [TeenyTT](https://github.com/TOTBWF/teenytt) - Small, didactic proof assistant designed around dependent type theory.
+- [pistachio](https://github.com/femtomc/pistachio) - Small, nutty dependently typed language.

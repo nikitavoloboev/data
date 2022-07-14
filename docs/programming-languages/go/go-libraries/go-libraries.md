@@ -1739,6 +1739,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [graph](https://github.com/dominikbraun/graph) - Generic library for creating graph data structures and performing operations on them.
 - [cpy3](https://github.com/go-python/cpy3) - Go bindings to the CPython-3 API.
 - [py4go](https://github.com/tliron/py4go) - Tight bidirectional integration between Go and Python.
+- [Marshmallow](https://github.com/PerimeterX/marshmallow) - JSON unmarshalling library for flexible use cases like some known and some unknown fields, or prevention of data loss. ([Reddit](https://www.reddit.com/r/golang/comments/vxxs7y/marshmallow_a_json_unmarshalling_library_for/))
 
 ## Links
 

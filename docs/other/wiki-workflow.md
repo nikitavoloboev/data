@@ -178,6 +178,7 @@ I want to:
 - [Magnus's Brain](https://kmaasrud.com/brain/)
 - [Abhinav's Notes](https://notes.abhinavsarkar.net/)
 - [Hugo Cisneros](https://hugocisneros.com/notes/)
+- [McCoy R. Becker](https://femtomc.github.io/)
 - [Rosano Garden](https://rosano.hmm.garden/)
 - [Matt Titmus TIL](https://github.com/clockworksoul/today-i-learned)
 - [Scott Spence's Garden](https://scottspence.com/garden)
