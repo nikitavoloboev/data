@@ -926,6 +926,7 @@
 - [python-atomicwrites](https://github.com/untitaker/python-atomicwrites) - Powerful Python library for atomic file writes.
 - [Simplemma](https://github.com/adbar/simplemma) - Simple multilingual lemmatizer for Python.
 - [Sparse](https://github.com/pydata/sparse) - Sparse multi-dimensional arrays for the PyData ecosystem.
+- [PyCM](https://github.com/sepandhaghighi/pycm) - Multi-class confusion matrix library in Python.
 
 ## Notes
 

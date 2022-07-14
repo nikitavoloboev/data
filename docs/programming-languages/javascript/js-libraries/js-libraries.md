@@ -979,6 +979,8 @@
 - [ELK](https://github.com/kieler/elkjs) - ELK's layout algorithms for JavaScript.
 - [multiaddr](https://github.com/multiformats/js-multiaddr) - JavaScript implementation of multiaddr.
 - [file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer/Uint8Array/ArrayBuffer.
+- [rdflib.js](https://github.com/linkeddata/rdflib.js) - Linked Data API for JavaScript.
+- [array-keyed-map](https://github.com/anko/array-keyed-map) - JS data structure, like Map, but the keys are arrays.
 
 ## Links
 

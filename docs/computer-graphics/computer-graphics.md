@@ -233,3 +233,4 @@
 - [Basic fact all graphics coders should know](https://twitter.com/keenanisalive/status/1529490555893428226)
 - [Interactive Surface Flow in Taichi](https://github.com/yhesper/TaichiSimplicialFluid)
 - [Visualizing Delaunay Triangulation (2022)](https://ianthehenry.com/posts/delaunay/)
+- [stdg](https://github.com/calebwin/stdg) - 2D graphics in any programming language with just print statements.

@@ -60,3 +60,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Ask HN: Beating depression with or without anti-depressants? (2022)](https://news.ycombinator.com/item?id=30923701)
 - [Тюрьма травмы: когнитивные искажения в чрезвычайной ситуации (2022)](https://www.youtube.com/watch?v=WOUcSv7A8_0)
 - [Ask HN: Have You Burned Out? (2022)](https://news.ycombinator.com/item?id=31642123)
+- [Depressing movies that’ll choke you (2022)](https://www.reddit.com/r/MovieSuggestions/comments/vy4ndu/depressing_movies_thatll_choke_you/)

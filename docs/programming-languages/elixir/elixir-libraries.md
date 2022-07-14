@@ -34,6 +34,7 @@
 - [Hologram](https://github.com/bartblast/hologram) - Full stack isomorphic Elixir web framework that can be used on top of Phoenix.
 - [EasyHTML](https://github.com/wojtekmach/easyhtml) - Makes it easy to work with HTML in Elixir.
 - [Riptide](https://github.com/ironbay/riptide) - Elixir framework for creating real time applications.
+- [LetMe](https://github.com/woylie/let_me) - Authorization library for Elixir.
 
 ## DB
 

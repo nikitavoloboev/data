@@ -133,6 +133,7 @@ The way our brains take input from different senses (eyes, touch) and then decid
 - [The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses (2022)](https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/) ([HN](https://news.ycombinator.com/item?id=31800684))
 - [Does one simple rule underlie learning in the brain? (2022)](https://actu.epfl.ch/news/does-one-simple-rule-underlie-learning-in-the-brai/) ([HN](https://news.ycombinator.com/item?id=31819980))
 - [NeuroKit2](https://github.com/neuropsychology/NeuroKit) - Python Toolbox for Neurophysiological Signal Processing.
+- [Ten Percent of the Brain Myth](https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth) ([HN](https://news.ycombinator.com/item?id=32072530))
 
 ## Images
 

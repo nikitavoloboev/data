@@ -676,6 +676,7 @@
 - [Clarabel.jl](https://github.com/oxfordcontrol/Clarabel.jl) - Interior Point Conic Optimization for Julia.
 - [MathOptSetDistances](https://github.com/matbesancon/MathOptSetDistances.jl) - Distances to sets for MathOptInterface.
 - [RecipesPipeline](https://github.com/JuliaPlots/RecipesPipeline.jl) - Utilities for processing recipes.
+- [Banyan Julia](https://github.com/banyan-team/banyan-julia) - Suite of libraries for processing big data with familiar Julia APIs.
 
 ## Links
 

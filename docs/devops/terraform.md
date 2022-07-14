@@ -188,3 +188,4 @@ title: Terraform
 - [Complete Terraform Course - From Beginner to Pro (2022)](https://www.youtube.com/watch?v=7xngnjfIlK4)
 - [Infracost VSCode Extension](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor.
 - [Pulumi & Terraform, which one did you prefer and why? (2022)](https://www.reddit.com/r/devops/comments/vvcle7/for_those_who_tried_both_pulumi_terraform_which/)
+- [Pluralith CLI](https://github.com/Pluralith/pluralith-cli) - Tool to visualize your Terraform state and automate infrastructure documentation.

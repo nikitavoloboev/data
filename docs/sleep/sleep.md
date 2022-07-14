@@ -61,3 +61,4 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [Helio Sleep](https://www.heliosleep.com/) - One-stop portal for sleep apnea. ([HN](https://news.ycombinator.com/item?id=30767471))
 - [Why Do We Die Without Sleep? (2022)](https://www.quantamagazine.org/why-do-we-die-without-sleep-20220322/)
 - [Why do we get tired and how does sleep fix it?](https://www.reddit.com/r/askscience/comments/ussma3/why_do_we_get_tired_and_how_does_sleep_fix_it/)
+- [The effects of sleep debt (2022)](https://www.nytimes.com/2022/06/24/health/sleep-debt-health.html) ([HN](https://news.ycombinator.com/item?id=32089964))

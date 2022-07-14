@@ -188,3 +188,4 @@
 - [UI/UX Learning Resources](https://github.com/hendurhance/ui-ux)
 - [Curated list for UI/UX Designers](https://github.com/gregjw/ui-ux)
 - [50+ practical UI/UX design tips](https://twitter.com/erikdkennedy/status/1328771593934290944)
+- [The History of User Interfaces](https://history.user-interface.io/) ([HN](https://news.ycombinator.com/item?id=32092804))

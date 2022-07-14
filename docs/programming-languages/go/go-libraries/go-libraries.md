@@ -143,6 +143,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gotestlist](https://github.com/crazy-max/gotestlist) - List tests in the given Go packages.
 - [rpctestgen](https://github.com/lightclient/rpctestgen) - Test fixture generator for the execution layer JSON-RPC API.
 - [httpexpect](https://github.com/gavv/httpexpect) - Concise, declarative, and easy to use end-to-end HTTP and REST API testing for Go.
+- [Gremlins](https://github.com/k3rn31/gremlins) - Mutation testing tool for Go.
 
 ## Web
 
@@ -1740,6 +1741,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [cpy3](https://github.com/go-python/cpy3) - Go bindings to the CPython-3 API.
 - [py4go](https://github.com/tliron/py4go) - Tight bidirectional integration between Go and Python.
 - [Marshmallow](https://github.com/PerimeterX/marshmallow) - JSON unmarshalling library for flexible use cases like some known and some unknown fields, or prevention of data loss. ([Reddit](https://www.reddit.com/r/golang/comments/vxxs7y/marshmallow_a_json_unmarshalling_library_for/))
+- [filclient](https://github.com/application-research/filclient) - Standalone client library for interacting with the filecoin storage network.
 
 ## Links
 

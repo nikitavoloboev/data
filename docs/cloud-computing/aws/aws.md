@@ -364,3 +364,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [dns53](https://github.com/purpleclay/dns53) - Dynamic DNS within Amazon Route53. Expose your EC2 quickly, easily and privately.
 - [Getting started with AWS Graviton](https://github.com/aws/aws-graviton-getting-started)
 - [YACE](https://github.com/nerdswords/yet-another-cloudwatch-exporter) - AWS CloudWatch to Prometheus exporter.
+- [SSO Sync](https://github.com/awslabs/ssosync) - Populate AWS SSO directly with your G Suite users and groups using either a CLI or AWS Lambda.

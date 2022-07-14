@@ -119,6 +119,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Serenity Tools](https://github.com/SerenityNotes/serenity-tools) - Collection of tools to build secure Apps.
 - [opaque-ts](https://github.com/cloudflare/opaque-ts) - TypeScript library for OPAQUE Asymmetric Password-Authenticated Key Exchange Protocol.
 - [charm.js](https://github.com/jedisct1/charm.js) - Tiny, self-contained cryptography library, implementing authenticated encryption and keyed hashing.
+- [noble-bls12-381](https://github.com/paulmillr/noble-bls12-381) - Fastest JS implementation of BLS12-381. Auditable, secure, 0-dependency aggregated signatures & pairings.
 
 ## Error
 
@@ -567,6 +568,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Sigma](https://github.com/norskeld/sigma) - TypeScript parser combinator library for building fast and convenient parsers.
 - [ffmpeggy](https://github.com/mekwall/ffmpeggy) - Minimal yet powerful wrapper for FFmpeg and FFprobe.
 - [jsonup](https://github.com/tani/jsonup) - Zero dependency compile-time JSON parser written in TypeScript.
+- [p-signal](https://github.com/astoilkov/p-signal) - Simple way to cancel promises.
 
 ## Links
 

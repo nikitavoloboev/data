@@ -126,3 +126,4 @@
 - [Awesome Expressive GNN](https://github.com/mengliu1998/awesome-expressive-gnn)
 - [Pure Transformers are Powerful Graph Learners (2022)](https://arxiv.org/abs/2207.02505) ([Code](https://github.com/jw9730/tokengt))
 - [Transformers Generalize DeepSets and Can be Extended to Graphs and Hypergraphs (2021)](https://arxiv.org/abs/2110.14416) ([Code](https://github.com/jw9730/hot))
+- [Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs (2020)](https://arxiv.org/abs/2006.11468) ([Code](https://github.com/GemsLab/H2GCN))

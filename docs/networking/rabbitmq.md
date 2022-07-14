@@ -37,3 +37,4 @@ title: RabbitMQ
 - [bunnicula](https://github.com/nomnom-insights/nomnom.bunnicula) - Clojure framework for building RabbitMQ consumers and publishers.
 - [Pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library.
 - [RabbitMQ 3.11 Feature Preview: Super Streams (2022)](https://blog.rabbitmq.com/posts/2022/07/rabbitmq-3-11-feature-preview-super-streams/) ([HN](https://news.ycombinator.com/item?id=32088219))
+- [What I wish someone would have told me about using RabbitMQ (2020)](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/) ([HN](https://news.ycombinator.com/item?id=32091550))

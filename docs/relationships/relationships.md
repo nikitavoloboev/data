@@ -261,3 +261,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [Мы Расстались. Какими будут отношения через 10 лет: Тиндер, полиамория, одиночество в сети (2022)](https://www.youtube.com/watch?v=MZYb5JzQGE8)
 - [What did you learn from your first serious relationship Gents?](https://www.reddit.com/r/AskMen/comments/vrfgo0/what_did_you_learn_from_your_first_serious/)
 - [Divorce Reddit](https://www.reddit.com/r/Divorce/)
+- [A hookup app for the emotionally mature (2022)](https://www.newyorker.com/culture/annals-of-inquiry/feeld-dating-app-sex) ([HN](https://news.ycombinator.com/item?id=32066255))

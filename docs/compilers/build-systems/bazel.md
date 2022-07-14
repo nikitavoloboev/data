@@ -56,3 +56,4 @@ title: Bazel
 - [Example repository for how to setup a bazel build that uses rust on iOS and Android](https://github.com/keith/bazel-rust-mobile-demo)
 - [Bazel rules for JavaScript](https://github.com/aspect-build/rules_js) - High-performance Bazel rules for running NodeJS tools and building JavaScript projects.
 - [How Bazel Works (2022)](https://sluongng.hashnode.dev/bazel-caching-explained-pt-1-how-bazel-works)
+- [Stardoc](https://github.com/bazelbuild/stardoc) - Documentation generator for Bazel build rules written in Starlark.

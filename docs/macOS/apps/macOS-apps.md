@@ -209,6 +209,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Sleeve](https://replay.software/sleeve) - Now playing on your Desktop. ([Tweet](https://twitter.com/brian_lovin/status/1529866374654283781))
 - [Graphing Calculator 4](https://apps.apple.com/nl/app/graphing-calculator-4/id522175477)
 - [TinkerTool](http://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
+- [Homerow](https://www.homerow.app/) - Navigate macOS like a pro.
 
 ## Links
 

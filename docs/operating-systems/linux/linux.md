@@ -563,3 +563,4 @@ title: Linux
 - [Linux Kernel vs DPDK: HTTP Performance Showdown (2022)](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
 - [What are your favorite Rust-powered Linux programs? (2022)](https://www.reddit.com/r/rust/comments/vssgj0/what_are_your_favorite_rustpowered_linux_programs/)
 - [My business card runs Linux](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard) ([HN](https://news.ycombinator.com/item?id=32077823))
+- [tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd.
