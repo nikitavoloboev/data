@@ -398,6 +398,7 @@
 - [NVTX](https://github.com/simbleau/nvtx) - Safe Rust FFI binding for the NVIDIA Tools Extension SDK.
 - [Softbuffer](https://github.com/john01dav/softbuffer) - Integrates with the raw-window-handle crate to allow writing to a window in a cross-platform way.
 - [flo_draw](https://github.com/Logicalshift/flo_draw) - 2D rendering libraries for Rust and FlowBetween.
+- [raw-window-handle](https://github.com/rust-windowing/raw-window-handle) - Common windowing interoperability library for Rust.
 
 ## Games
 
@@ -2030,6 +2031,8 @@
 - [sized-chunks](https://github.com/bodil/sized-chunks) - Efficient sized chunk datatypes for immutable.rs.
 - [bnum](https://github.com/isaacholt100/bnum) - Arbitrary precision, fixed-size signed and unsigned integer types for Rust: BInt and BUint.
 - [lockfree-cuckoohash](https://github.com/datenlord/lockfree-cuckoohash) - Rust implementation of lock free cuckoo hashmap.
+- [stack_dst](https://github.com/thepowersgang/stack_dst-rs) - Inline (aka stack-allocated) dynamically-sized types, and collections of dynamically-sized types using the same logic.
+- [econf](https://github.com/YushiOMOTE/econf) - Loads environment variables into your structs in one shot.
 
 ## Cargo Plugins
 

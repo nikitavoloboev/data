@@ -397,3 +397,6 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Web3 Social & Building w/Lens Protocol (2022)](https://eda.hashnode.dev/web3-social-and-building-withlens-protocol)
 - [Where to use a blockchain in non-financial applications? (2022)](https://vitalik.ca/general/2022/06/12/nonfin.html)
 - [Web3 Foundation Grants Program](https://github.com/w3f/Grants-Program)
+- [Namada](https://github.com/anoma/namada) - Sovereign proof-of-stake blockchain for asset-agnostic interchain privacy. ([Web](https://namada.net/))
+- [Taiga](https://github.com/anoma/taiga) - Platform for private bartering.
+- [DeFi Wallet Core](https://github.com/crypto-com/defi-wallet-core-rs) - Cross-platform, cross-blockchain wallet library in Rust for DeFi Wallet and other applications.

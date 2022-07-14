@@ -365,3 +365,5 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [Getting started with AWS Graviton](https://github.com/aws/aws-graviton-getting-started)
 - [YACE](https://github.com/nerdswords/yet-another-cloudwatch-exporter) - AWS CloudWatch to Prometheus exporter.
 - [SSO Sync](https://github.com/awslabs/ssosync) - Populate AWS SSO directly with your G Suite users and groups using either a CLI or AWS Lambda.
+- [openrolesanywhere](https://github.com/aidansteele/openrolesanywhere) - Open-source proof-of-concept client for AWS IAM Roles Anywhere.
+- [AWS Cloud Provider for Kubernetes](https://github.com/kubernetes/cloud-provider-aws)

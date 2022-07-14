@@ -74,6 +74,7 @@
 - [Skity](https://github.com/RuiwenTang/Skity) - Open-source 2D graphics library written in C++ using OpenGL and Vulkan.
 - [OpenMfx](https://github.com/eliemichel/OpenMfx) - Low-overhead mesh-processing plug-in API for cross-software procedural effects.
 - [Mesh2SDF](https://github.com/wang-ps/mesh2sdf) - Converts an input mesh to a signed distance field (SDF).
+- [GTSAM](https://github.com/borglab/gtsam) - C++ library that implements smoothing and mapping (SAM) in robotics and vision, using Factor Graphs and Bayes Networks.
 
 ## DB
 
@@ -419,6 +420,7 @@
 - [ztd.text](https://github.com/soasis/text) - Premiere library for handling text in different encoding forms and reducing transcoding bugs in your C++ software.
 - [uni-algo](https://github.com/uni-algo/uni-algo) - Unicode Algorithms Implementation for C/C++.
 - [CTAsm](https://github.com/garc0/CTAsm) - Compile Time Assembler for C++. ([Lobsters](https://lobste.rs/s/j1h2mv/compile_time_assembler_for_c_with_nasm))
+- [hopscotch-map](https://github.com/Tessil/hopscotch-map) - C++ implementation of a fast hash map and hash set using hopscotch hashing.
 
 ## Links
 

@@ -569,6 +569,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ffmpeggy](https://github.com/mekwall/ffmpeggy) - Minimal yet powerful wrapper for FFmpeg and FFprobe.
 - [jsonup](https://github.com/tani/jsonup) - Zero dependency compile-time JSON parser written in TypeScript.
 - [p-signal](https://github.com/astoilkov/p-signal) - Simple way to cancel promises.
+- [Atlasify](https://github.com/soimy/atlasify) - GPU friendly assets packer using max-rects algorithm.
+- [ioc](https://github.com/owja/ioc) - Lightweight (<1kb) inversion of controlJS library for dependency injection.
+- [Transmat](https://github.com/google/transmat) - Share data beyond the browser boundaries. Enable users to transfer data to external apps, and open your web app to receive external data.
 
 ## Links
 

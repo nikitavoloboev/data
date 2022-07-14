@@ -87,3 +87,4 @@ title: Prometheus
 - [smokeping_prober](https://github.com/SuperQ/smokeping_prober) - Prometheus style smokeping.
 - [prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
 - [Prometheus Pushgateway](https://github.com/prometheus/pushgateway) - Exists to allow ephemeral and batch jobs to expose their metrics to Prometheus.
+- [Promruval](https://github.com/FUSAKLA/promruval) - Tool to validate the Prometheus rules metadata and expression properties to match requirements and constrains of the particular Prometheus cluster setup.

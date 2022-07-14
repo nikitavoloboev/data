@@ -160,3 +160,4 @@
 - [rethinking](https://github.com/rmcelreath/rethinking) - Statistical Rethinking course and book package.
 - [Topics In Modern Statistical Learning (UPenn, 2022 Spring)](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning)
 - [Kelly criterion - Wikipedia](https://en.wikipedia.org/wiki/Kelly_criterion)
+- [Bayesian Statistics graduate course](https://github.com/storopoli/Bayesian-Statistics)

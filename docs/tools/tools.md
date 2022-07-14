@@ -460,7 +460,6 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [fswatch](https://github.com/emcrisostomo/fswatch) - File change monitor that receives notifications when the contents of the specified files or directories are modified.
 - [UserMirror](https://usermirror.com/) - Reliable services to build privacy-first systems.
 - [Appsmith](https://www.appsmith.com/) - Open source admin panel, CRUD, and workflow builder. ([Code](https://github.com/appsmithorg/appsmith))
-- [Vector](https://github.com/timberio/vector) - High-Performance, Logs, Metrics, & Events Router. ([Web](https://vector.dev/))
 - [SerpAPI](https://serpapi.com/) - Scrape Google search results from our fast, easy, and complete API.
 - [Shuffle](https://shuffle.dev/) - Online editor for busy developers. ([HN](https://news.ycombinator.com/item?id=25822636))
 - [Napkin](https://www.napkin.io/) - Backend in the Browser.

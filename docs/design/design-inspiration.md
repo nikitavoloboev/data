@@ -1013,3 +1013,4 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Simple but nice portfolios](https://twitter.com/bruno_simon/status/1531244873541726212)
 - [Best designed website you’ve come across recently (2022)](https://twitter.com/UltraLinx/status/1532766084457177088)
 - [Emil's favorite site designs](https://emilkowal.ski/design)
+- [Web Avant-gardes](https://github.com/boardens/web-avant-gardes) - Collection of experimental, radical, or unorthodox websites.

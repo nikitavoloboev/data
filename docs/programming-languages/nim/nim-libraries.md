@@ -6,6 +6,7 @@
 - [Prologue](https://github.com/planety/prologue) - Full-Stack Web Framework which is ideal for building elegant and high performance web services. ([HN](https://news.ycombinator.com/item?id=24846828))
 - [Rosencrantz](https://github.com/andreaferretti/rosencrantz) - DSL to write web servers.
 - [nim-libp2p](https://github.com/status-im/nim-libp2p) - libp2p implementation in Nim.
+- [Basolato](https://github.com/itsumura-h/nim-basolato) - Asynchronous full stack web framework for Nim.
 
 ## Math
 

@@ -131,3 +131,4 @@ title: Zig
 - [Zig Common Tasks](https://renatoathaydes.github.io/zig-common-tasks/) - Collection of Zig code snippets for some of the most common tasks.
 - [How to get started with Zig? (2022)](https://www.reddit.com/r/Zig/comments/vtg28k/how_to_get_started_with_ziglang/)
 - [Zig is becoming more production-worthy (2022)](https://zigmonthly.org/letters/2022/may-june/)
+- [Zig Language Server (zls) for VSCode](https://github.com/zigtools/zls-vscode)

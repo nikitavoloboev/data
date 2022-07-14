@@ -125,6 +125,7 @@
 - [audiometa](https://github.com/squeek502/audiometa) - Audio metadata/tag reading library written in Zig.
 - [Metron](https://github.com/briangold/metron) - Zig library for writing micro-benchmarks.
 - [Vortex](https://github.com/briangold/vortex) - Structured concurrency in Zig.
+- [any-pointer](https://github.com/MasterQ32/any-pointer) - Type erasure library for Zig.
 
 ## Links
 

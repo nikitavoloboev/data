@@ -133,3 +133,4 @@ title: Formal verification
 - [Yatima](https://github.com/yatima-inc/yatima-lang) - Verifiable computing language.
 - [VeriFast](https://github.com/verifast/verifast) - Research prototype tool for modular formal verification of C and Java programs.
 - [Introduction to Pragmatic Formal Modeling](https://elliotswart.github.io/pragmaticformalmodeling/) ([Code](https://github.com/ElliotSwart/pragmaticformalmodeling))
+- [Using the Kani Rust Verifier on a Firecracker Example (2022)](https://model-checking.github.io//kani-verifier-blog/2022/07/13/using-the-kani-rust-verifier-on-a-firecracker-example.html)

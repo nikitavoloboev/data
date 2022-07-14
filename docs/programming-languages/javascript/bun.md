@@ -16,3 +16,4 @@ title: Bun
 - [Create Bun Boilerplates](https://github.com/guocaoyi/create-bun) - Scaffolding your bun project boilerplate.
 - [Awesome bun](https://github.com/hisamafahri/awesome-bun)
 - [Jarred Sumner Interview (2022)](https://youtu.be/FOsJ4JfpSRU?t=4463)
+- [bun-utilities](https://github.com/xHyroM/bun-utilities) - Bindings for useful functions for bun.

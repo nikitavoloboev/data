@@ -62,3 +62,4 @@
 - [Red Dwarfs Will Be Humanity’s Last Home Before the Universe Dies (2022)](https://medium.com/predict/red-dwarfs-will-be-humanitys-last-home-before-the-universe-dies-b567fcfa6081) ([HN](https://news.ycombinator.com/item?id=30669483))
 - [Where Do Space, Time and Gravity Come From? (2022)](https://www.quantamagazine.org/where-do-space-time-and-gravity-come-from-20220504/) ([HN](https://news.ycombinator.com/item?id=31282642))
 - [You Are Not Where You Think You Are (2022)](https://www.youtube.com/watch?v=Pj-h6MEgE7I)
+- [Logarithmic Map of the Entire Observable Universe](https://twitter.com/johncoogan/status/1546921877586604032)

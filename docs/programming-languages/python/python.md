@@ -518,3 +518,4 @@ for i, _ in enumerate(nums):
 - [Blip](https://github.com/bjpop/blip) - Bytecode compiler for Python 3.
 - [Multiprocessing in Python: The Complete Guide (2022)](https://superfastpython.com/multiprocessing-in-python/)
 - [rich-bench](https://github.com/tonybaloney/rich-bench) - Little Python benchmarking tool.
+- [EuroPython 2022](https://ep2022.europython.eu/) ([Web Code](https://github.com/EuroPython/website))

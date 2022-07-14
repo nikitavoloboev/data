@@ -871,3 +871,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [MIT: Deep Learning for Art, Aesthetics, and Creativity (2022)](https://ali-design.github.io/deepcreativity/)
 - [500 AI Machine learning Deep learning Computer vision NLP Projects with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 - [Deep Learning Curriculum](https://github.com/jacobhilton/deep_learning_curriculum)
+- [Diffusion models](https://github.com/InFoCusp/diffusion_models) - Minimal standalone example of diffusion model.

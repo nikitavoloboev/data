@@ -224,3 +224,6 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [BigBIO: Biomedical Datasets](https://github.com/bigscience-workshop/biomedical) - Tools for curating biomedical training data for large-scale language modeling.
 - [molcloud](https://github.com/whitead/molcloud) - Make a bunch of molecules.
 - [RITA: a Study on Scaling Up Generative Protein Sequence Models (2022)](https://arxiv.org/abs/2205.05789) ([Code](https://github.com/lightonai/RITA))
+- [Awesome Molecular Generation](https://github.com/amorehead/awesome-molecular-generation)
+- [Geometric Transformers for Protein Interface Contact Prediction (2022)](https://openreview.net/forum?id=CS4463zx6Hi) ([Code](https://github.com/BioinfoMachineLearning/DeepInteract))
+- [DIPS-Plus: The Enhanced Database of Interacting Protein Structures for Interface Prediction (2021)](https://arxiv.org/abs/2106.04362) ([Code](https://github.com/BioinfoMachineLearning/DIPS-Plus))

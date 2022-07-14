@@ -82,6 +82,7 @@
 - [KaMP Kit](https://github.com/touchlab/KaMPKit) - Collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform.
 - [Kermit](https://github.com/touchlab/Kermit) - Kotlin Multiplatform centralized logging utility.
 - [CrashKiOS](https://github.com/touchlab/CrashKiOS) - Crash reporting for Kotlin/Native iOS applications.
+- [FlowRedux](https://github.com/freeletics/FlowRedux) - Kotlin Multiplatform State machine library with nice DSL based on Flow from Kotlin Coroutine's.
 
 ## Links
 

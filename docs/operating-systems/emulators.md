@@ -71,3 +71,4 @@
 - [Padme core](https://github.com/alexlren/padme-core) - Cross-platform gameboy emulator engine.
 - [Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator.
 - [Goodboy](https://github.com/Engil/Goodboy) - Pure OCaml Gameboy emulator.
+- [rgy](https://github.com/YushiOMOTE/rgy) - No-std cross-platform Rust GameBoy emulator library.

@@ -58,3 +58,4 @@
 - [Otus](https://otus.ru/) - Courses for professionals.
 - [CourseKit](https://coursekit.dev/) - Headless Online Video Course Platform for Developers. ([Code](https://github.com/course-kit/client))
 - [Notes on teaching & chairs (2022)](https://tomcritchlow.com/2022/04/06/teaching/)
+- [LiaScript](https://liascript.github.io/) - Extension to Markdown to support the creation of free and open online courses, interactive books. ([Code](https://github.com/LiaScript/LiaScript))

@@ -224,3 +224,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [That Creative Code Page](https://thatcreativecode.page/) - Illustrated catalog of useful creative coding algorithms & techniques.
 - [Generative art with Leipzig, Quil, and infinite sequences](https://github.com/velveteer/sequences)
 - [DiscoArt](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line.
+- [tgen.js](https://github.com/schalkt/tgen) - Seamless texture generator in JavaScript.

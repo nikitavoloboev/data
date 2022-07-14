@@ -927,6 +927,9 @@
 - [Simplemma](https://github.com/adbar/simplemma) - Simple multilingual lemmatizer for Python.
 - [Sparse](https://github.com/pydata/sparse) - Sparse multi-dimensional arrays for the PyData ecosystem.
 - [PyCM](https://github.com/sepandhaghighi/pycm) - Multi-class confusion matrix library in Python.
+- [Pixie](https://github.com/treeform/pixie-python) - Full-featured 2D graphics library for Python.
+- [pyTooling](https://github.com/pyTooling/pyTooling) - Collection of arbitrary useful classes, decorators, meta-classes and exceptions.
+- [pyloudnorm](https://github.com/csteinmetz1/pyloudnorm) - Flexible audio loudness meter in Python.
 
 ## Notes
 
