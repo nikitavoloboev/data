@@ -820,3 +820,4 @@ if err != nil {
 - [Go memory ballast: How I learnt to stop worrying and love the heap (2018)](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap/)
 - [Implementing a simple jq clone in Go, and basics of Go memory profiling (2022)](https://notes.eatonphil.com/implementing-a-jq-clone-in-go.html)
 - [Goscript Internals: Goroutine, pointer and the VM architecture (2022)](https://goscript.dev/posts/goscript_internals_II_the_runtime_a_en)
+- [lensm](https://github.com/loov/lensm) - Go assembly and source viewer.

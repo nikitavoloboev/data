@@ -55,4 +55,4 @@
 - [Great cities have great business & land lord relationships (2022)](https://twitter.com/McReynoldsJoe/status/1536811067992678400)
 - [Four story buildings, narrow streets, wide sidewalks, and lots of trees](https://twitter.com/maxdubler/status/1539654169661157376)
 - [The most livable cities (2022)](https://www.economist.com/graphic-detail/2022/06/22/the-worlds-most-liveable-cities) ([HN](https://news.ycombinator.com/item?id=31873404))
-- [What do I think about network states? (2022)](https://vitalik.ca/general/2022/07/13/networkstates.html) ([Tweet](https://twitter.com/VitalikButerin/status/1547104064781127680))
+- [What do I think about network states? (2022)](https://vitalik.ca/general/2022/07/13/networkstates.html) ([Tweet](https://twitter.com/VitalikButerin/status/1547104064781127680)) ([HN](https://news.ycombinator.com/item?id=32105037))

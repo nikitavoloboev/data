@@ -139,3 +139,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [cronlocker](https://github.com/viafintech/cronlocker) - Command line tool to allow running cronjobs on multiple hosts while ensuring that it only runs once at a time.
 - [pipe-rename](https://github.com/marcusbuffett/pipe-rename) - Rename your files using your favorite text editor.
 - [Backpack](https://github.com/rusty-ferris-club/backpack) - Use template and starter projects easily.
+- [tere](https://github.com/mgunyho/tere) - Faster Alternative to cd+ls. ([HN](https://news.ycombinator.com/item?id=32106126))

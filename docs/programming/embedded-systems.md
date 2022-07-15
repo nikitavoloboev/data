@@ -198,3 +198,4 @@
 - [FreeRTOS-rust](https://github.com/lobaro/FreeRTOS-rust) - Rust crate for FreeRTOS.
 - [Go-CoAP](https://github.com/plgd-dev/go-coap) - Implementation of CoAP Server & Client in Go.
 - [Lovem](https://github.com/kratenko/lovem) - Low overhead virtual embedded machine.
+- [Rust on Espressif chips (2022)](https://mabez.dev/blog/posts/esp-rust-15-07-2022/) ([HN](https://news.ycombinator.com/item?id=32106762))

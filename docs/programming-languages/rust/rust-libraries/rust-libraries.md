@@ -460,6 +460,7 @@
 - [split-test](https://github.com/mtsmfm/split-test) - Splits tests into multiple groups based on timing data to run tests in parallel.
 - [test-strategy](https://github.com/frozenlib/test-strategy) - Procedural macro to easily write higher-order strategies in proptest.
 - [unimock](https://github.com/audunhalland/unimock) - Library for defining mock implementations of traits.
+- [mock-it](https://github.com/nathanielsimard/mock-it) - Aims to make mocking reliable.
 
 ## Error
 

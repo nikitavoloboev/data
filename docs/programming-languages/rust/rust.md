@@ -840,3 +840,5 @@ title: Rust
 - [Optimized enum sizes in Rust (2017)](https://adeschamps.github.io/enum-size) ([HN](https://news.ycombinator.com/item?id=32013205))
 - [When Rustc Explodes (2022)](https://fasterthanli.me/articles/when-rustc-explodes) ([HN](https://news.ycombinator.com/item?id=32086973))
 - [How I went about learning Rust (2022)](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/) ([HN](https://news.ycombinator.com/item?id=32104764))
+- [A performance retrospective using Rust (2022)](https://agourlay.github.io/blog/rust-performance-retrospective-part1/)
+- [Rust should not have provided `unwrap` (2022)](https://www.thecodedmessage.com/posts/2022-07-14-programming-unwrap/) ([HN](https://news.ycombinator.com/item?id=32110040))

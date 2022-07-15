@@ -202,3 +202,4 @@
 - [Why Did Hitler Invade The Soviet Union?](https://www.youtube.com/watch?v=d9vuxteqAis)
 - [ЗОЛОТО: История жадности / Простые вещи](https://www.youtube.com/watch?v=6YmWCbgZuts)
 - [Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/) ([HN](https://news.ycombinator.com/item?id=31775486))
+- [Why wasn't the steam engine invented earlier?](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8) ([HN](https://news.ycombinator.com/item?id=32106467))

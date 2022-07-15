@@ -144,6 +144,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [rpctestgen](https://github.com/lightclient/rpctestgen) - Test fixture generator for the execution layer JSON-RPC API.
 - [httpexpect](https://github.com/gavv/httpexpect) - Concise, declarative, and easy to use end-to-end HTTP and REST API testing for Go.
 - [Gremlins](https://github.com/k3rn31/gremlins) - Mutation testing tool for Go.
+- [testpackage](https://github.com/maratori/testpackage) - Go linter that encourages you to use a separate test package.
 
 ## Web
 
