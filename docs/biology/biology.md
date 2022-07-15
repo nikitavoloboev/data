@@ -127,3 +127,6 @@
 - [Markus Deserno - A Physicist's View on Biological Membranes (2022)](https://www.youtube.com/watch?v=Hh_LxkDJxe8)
 - [Artificial Photosynthesis in the Absence of Light (2022)](https://www.nature.com/articles/s43016-022-00530-x) ([HN](https://news.ycombinator.com/item?id=31867921))
 - [I should have loved biology (2022)](https://jsomers.net/i-should-have-loved-biology/) ([HN](https://news.ycombinator.com/item?id=32035054))
+- [Scaffolds for tarsal repair in eyelids](https://www.sciencedirect.com/science/article/pii/B9780081025611000300)
+- [Handbook of Tissue Engineering Scaffolds: Volume One](https://www.sciencedirect.com/book/9780081025635/handbook-of-tissue-engineering-scaffolds-volume-one)
+- [Handbook of Tissue Engineering Scaffolds: Volume Two](https://www.elsevier.com/books/handbook-of-tissue-engineering-scaffolds-volume-two/mozafari/978-0-08-102561-1)

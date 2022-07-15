@@ -12,6 +12,7 @@
 - [Susan Kare Icons](http://kareprints.com/)
 - [Slack icon](https://twitter.com/thatbenlifetho/status/1365390262386663424)
 - [Web Assembly Logo](https://github.com/carlosbaraza/web-assembly-logo)
+- [VSCode Icon](https://twitter.com/Gavmn/status/1438891591981170691)
 
 ## Icon designers
 
@@ -20,6 +21,10 @@
 ## iOS icons
 
 - [3D iOS Icons](https://oliur.com/3d-icons/)
+
+## Notes
+
+- [Can do lighting + shading references in Blender. And final touches in Sketch.](https://twitter.com/Gavmn/status/1438929594170548226)
 
 ## Links
 
@@ -138,3 +143,4 @@
 - [Pixelarticons](https://pixelarticons.com/) - Beautiful open-source pixel-art icons. ([Code](https://github.com/halfmage/pixelarticons))
 - [Majesticons](https://www.majesticons.com/) - Versatile, beautiful, and scalable iconset. 760 icons each in line and solid style.
 - [SF Symbols SVG Library](https://github.com/g-a-v-i-n/sf-symbols)
+- [IconBrew](https://iconbrew.com/) - Open source icon pack.

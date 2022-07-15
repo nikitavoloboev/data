@@ -6,6 +6,7 @@
 - [Бить по попе и любые другие виды насилия над детьми - не ОК.](https://twitter.com/solar_circle/status/1410277488887013382)
 - [Parenting practices seem to have little or no impact on children's personalities, contrary to some of the best-known theories in psychology.](https://twitter.com/SteveStuWill/status/1461639134297079809)
 - [It's nice to sometimes print physical books of stories your child tells you.](https://twitter.com/paulg/status/1467461297210105857)
+- [Teach your kids to get comfortable changing their mind in the face of compelling reasoning. It’s a rare superpower.](https://twitter.com/anafabrega11/status/1547973564124389377)
 
 ## Links
 

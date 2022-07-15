@@ -241,3 +241,4 @@
 - [Andy Bell – Be the browser’s mentor, not its micromanager (2022)](https://www.youtube.com/watch?v=5uhIiI9Ld5M) ([Slides](https://heypresents.com/downloads/conference/2022/andy-bell.pdf)) ([Tweet](https://twitter.com/hankchizljaw/status/1544310058497998850))
 - [Vite web extension template. Setup with React, Typescript and TailwindCSS](https://github.com/JohnBra/vite-web-extension)
 - [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element.
+- [Confectionery](https://confectioneryapp.com/) - Browser for taking perfect screenshots.

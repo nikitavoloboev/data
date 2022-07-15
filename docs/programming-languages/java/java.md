@@ -131,3 +131,4 @@ title: Java
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler, assembler, and disassembler.
 - [SIMD accelerated sorting in Java – how it works and why it was 3x faster (2022)](https://jbaker.io/2022/06/09/vectors-in-java/) ([HN](https://news.ycombinator.com/item?id=31703471))
 - [What I miss in Java, the perspective of a Kotlin developer (2022)](https://blog.frankel.ch/miss-in-java-kotlin-developer/) ([HN](https://news.ycombinator.com/item?id=31732587))
+- [hprof-slurp](https://github.com/agourlay/hprof-slurp) - JVM heap dump analyzer.

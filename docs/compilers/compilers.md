@@ -231,6 +231,6 @@
 - [Fast page maps for JIT (2022)](https://kazlauskas.me/entries/fast-page-maps-for-jit)
 - [Toolchains adventures - Q2 2022](https://www.cambus.net/toolchains-adventures-q2-2022/)
 - [QBE Notes](https://wiki.alopex.li/QbeNotes) ([Lobsters](https://lobste.rs/s/je3o8m/qbe_notes))
-- [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)
+- [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler) ([HN](https://news.ycombinator.com/item?id=32100880))
 - [Why Is No One Writing Language Runtimes? (2016)](https://acorwin.com/2016/05/07/why-is-no-one-writing-language-runtimes/)
 - [Decompiler Explorer](https://dogbolt.org/) ([HN](https://news.ycombinator.com/item?id=32079227)) ([Code](https://github.com/decompiler-explorer/decompiler-explorer))

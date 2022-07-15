@@ -334,3 +334,4 @@ title: WebAssembly
 - [Wacko](https://github.com/MierenManz/wacko) - WebAssembly Compiler.
 - [Brian Sletten: The Whole WebAssembly Enchilada (2022)](https://www.youtube.com/watch?v=J3hK7O5Oc2Y)
 - [Tell HN: We are trying to get tail calls into the WebAssembly standard (2022)](https://news.ycombinator.com/item?id=32069418) ([Lobsters](https://lobste.rs/s/wdtojd/fantastic_tail_calls_how_implement_them))
+- [Awesome WebAssembly Plugins](https://github.com/shekhirin/awesome-webassembly-plugins)

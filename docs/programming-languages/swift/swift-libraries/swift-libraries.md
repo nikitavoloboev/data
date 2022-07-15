@@ -1276,3 +1276,4 @@
 - [Async State Machine](https://github.com/twittemb/AsyncStateMachine) - Structure an application thanks to state machines.
 - [SPISearch](https://github.com/heckj/SPISearch) - App (macOS & iOS) to explore the search results from Swift Package Index.
 - [Swift Distributed Actors on Fly.io](https://github.com/PopFlamingo/hello-fly-distributed-actors)
+- [Meet Transferable (2022)](https://www.wwdcnotes.com/notes/wwdc22/10062/)

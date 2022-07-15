@@ -17,6 +17,7 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Often times a “slow” website is literally because it is loading megabytes of 3rd party crap when the app logic itself can be <200kb using any framework. That 5kb you save by not having to use a state management lib is insignificant compared to these. The difference made by choice of framework is insignificant if the payload is dominated by 3rd party bloat.](https://twitter.com/youyuxi/status/1509422910020075521)
 - [Have database and app hosted off the same region as each other.](https://twitter.com/buildsghost/status/1517573869858525184)
 - [Few things will teach you more about web development than running your web app through WebPageTest, and working to fix everything that sucks.](https://twitter.com/slightlylate/status/1519690020449177600)
+- [WebPageTest can compare waterfalls from two tests](https://twitter.com/stoyanstefanov/status/1547651354050437121)
 
 ## Links
 
@@ -189,3 +190,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Rethinking Server-Timing As A Critical Monitoring Tool (2022)](https://www.smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/)
 - [Awesome WPO](https://awesome-wpo.netlify.app/) - Curated list of Web Performance Optimization. ([Code](https://github.com/davidsonfellipe/awesome-wpo))
 - [Awesome Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget)
+- [DebugBear](https://www.debugbear.com/) - Monitor Site Speed and Core Web Vitals. ([Docs](https://www.debugbear.com/docs))

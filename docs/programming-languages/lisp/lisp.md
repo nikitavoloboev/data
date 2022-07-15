@@ -197,3 +197,4 @@
 - [The First Lisp Compiler](https://texdraft.github.io/lisp-compiler/internals.html) ([HN](https://news.ycombinator.com/item?id=31582494))
 - [Learn Lisp The Hard Way](https://github.com/thephoeron/LLTHW)
 - [Toy implementation of Lisp written in Zig](https://github.com/mattn/zig-lisp)
+- [Lisp in 99 lines of C and how to write one yourself](https://github.com/Robert-van-Engelen/tinylisp) ([HN](https://news.ycombinator.com/item?id=32100035))
