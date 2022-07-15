@@ -2,7 +2,7 @@
 
 Quite sad that [Germany government](https://twitter.com/ViolavonCramon/status/1535621476707098624) decided to appease [Russia](russia.md) with its policies of [minimal military help to Ukraine](https://www.reddit.com/r/worldnews/comments/vuru3u/ukraine_cant_have_natostyle_security_guarantees/) due to fear of getting cut off from Russia's gas supply. Which would indeed [destroy a large portion of EU economy](https://www.reddit.com/r/worldnews/comments/vuru3u/comment/iffwkh2/?utm_source=reddit&utm_medium=web2x&context=3). This reliance on Russian energy export is the only reason the Ukraine war was allowed to happen in the first place.
 
-What's even more tragic is that some [minor political 'green party' managed to ban off nuclear in Germany](https://twitter.com/mark_lynas/status/1545345583262695424). I hope things change and change soon because further reliance on non EU made energy sources means no good prosperous future for whole of EU. There's lots of fascinating research happening to [solve fusion](https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion) so will see.
+What's even more tragic is that some [minor political 'green party' managed to ban off nuclear in Germany](https://twitter.com/mark_lynas/status/1545345583262695424). I hope things change and change soon because further reliance on non EU made energy sources means no good prosperous future for whole of EU. There's lots of fascinating research happening to [solve fusion](https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion) so will see. Although some say even that [won't fix the energy problem in Germany/EU](https://news.ycombinator.com/item?id=32104875).
 
 Aside from those geopolitical failures, Germany seems like a nice place to live in if you ignore the super high taxes. Berlin is [one of](visited.md) my favorite cities to visit. The food and people there are amazing.
 
@@ -52,3 +52,4 @@ Aside from those geopolitical failures, Germany seems like a nice place to live 
 - [Youth Cultures in East Germany 1985 / Stasi (East German Secret Police)](https://twitter.com/psychotronica_/status/1533839573108903939) ([HN](https://news.ycombinator.com/item?id=31667247))
 - [Germany, rearmament, and Ukraine - "Why 100 billion Euro may not fix the German military" (2022)](https://www.youtube.com/watch?v=8jDUVtUA7rg)
 - [Simple Germany](https://www.simplegermany.com/) - English content to empower internationals to beat German bureaucracy.
+- [HN: Germany's Energy Catastrophe](https://quillette.com/2022/07/14/germanys-energy-catastrophe/)

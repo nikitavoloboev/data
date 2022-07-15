@@ -248,3 +248,4 @@
 - [SearXNG](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. ([Docs](https://docs.searxng.org/))
 - [Build your own Search Engine (2022)](http://wiby.me/about/guide.html) ([Code](https://github.com/wibyweb/wiby)) ([HN](https://news.ycombinator.com/item?id=32027177))
 - [Hello](https://beta.sayhello.so/) - Conversational Search.
+- [SearchHut](https://searchhut.org/) - Curated free software search engine. ([Code](https://sr.ht/~sircmpwn/searchhut/)) ([HN](https://news.ycombinator.com/item?id=32104609))

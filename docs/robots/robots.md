@@ -173,3 +173,4 @@
 - [MCAP](https://github.com/foxglove/mcap) - Modular, performant, and serialization-agnostic container file format for pub/sub messages, primarily intended for use in robotics applications. ([Web](https://mcap.dev/))
 - [Ask HN: What happened to robots taking all our jobs? (2022)](https://news.ycombinator.com/item?id=31879805)
 - [Robotic Exploration Lab](https://roboticexplorationlab.org/) ([GitHub](https://github.com/RoboticExplorationLab))
+- [Wandering Robots in the Wild (2022)](https://spectrum.ieee.org/wandering-robots-in-the-wild)

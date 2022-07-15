@@ -394,3 +394,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Multimethods, Global Scope, and Monkey-Patching (2012)](http://journal.stuffwithstuff.com/2012/06/12/multimethods-global-scope-and-monkey-patching/)
 - [Almost Rules (2022)](https://matklad.github.io//2022/07/10/almost-rules.html) ([Lobsters](https://lobste.rs/s/ckntjg/almost_rules))
 - [Six Programming Languages I'd Like to See (2022)](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/) ([Lobsters](https://lobste.rs/s/gao7dp/six_programming_languages_i_d_like_see)) ([HN](https://news.ycombinator.com/item?id=32081808))
+- [Ask HN: What do you code when learning a new language/framework? (2022)](https://news.ycombinator.com/item?id=32092943)

@@ -375,3 +375,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix post-build-hook queue](https://github.com/newAM/nix-post-build-hook-queue)
 - [Nix packaging, the heretic way (2022)](https://zimbatm.com/notes/nix-packaging-the-heretic-way) ([Lobsters](https://lobste.rs/s/iwnnya/nix_packaging_heretic_way))
 - [Nix-wrangle](https://github.com/timbertson/nix-wrangle) - Wrangle your nix dependencies.
+- [Nix – taming Unix with functional programming (2022)](https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/)

@@ -19,7 +19,7 @@ title: Linux
 - [Bedrock Linux](https://bedrocklinux.org/) - Meta Linux distribution which allows users to mix-and-match components from other, typically incompatible distributions.
 - [TinyCore Linux](http://tinycorelinux.net/) - Micro Core Linux, 12MB Linux GUI Desktop, Live, Frugal, Extendable. ([HN](https://news.ycombinator.com/item?id=25158736))
 - [HiFiBerryOS](https://github.com/hifiberry/hifiberry-os) - Minimal Linux distribution optimized for audio playback.
-- [Rocky Linux](https://rockylinux.org/) - Community-driven, enterprise-ready OS. ([Code](https://github.com/rocky-linux/rocky)) ([Website Code](https://github.com/rocky-linux/rockylinux.org)) ([Infrastructure](https://github.com/rocky-linux/infrastructure)) ([HN](https://news.ycombinator.com/item?id=25445725))
+- [Rocky Linux](https://rockylinux.org/) - Community-driven, enterprise-ready OS. ([Code](https://github.com/rocky-linux/rocky)) ([Website Code](https://github.com/rocky-linux/rockylinux.org)) ([Infrastructure](https://github.com/rocky-linux/infrastructure)) ([HN](https://news.ycombinator.com/item?id=25445725)) ([HN](https://news.ycombinator.com/item?id=32097950))
 - [Debian](https://www.debian.org/) ([Ultimate Debian Database](https://wiki.debian.org/UltimateDebianDatabase)) ([HN](https://news.ycombinator.com/item?id=25584695)) ([HN 2](https://news.ycombinator.com/item?id=25785925)) (Debian Reference)
 - [Fedora](https://getfedora.org/)
 - [Manjaro](https://manjaro.org/)
