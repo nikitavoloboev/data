@@ -341,3 +341,4 @@
 - [Linear Address Spaces: Unsafe at any speed (2022)](https://queue.acm.org/detail.cfm?id=3534854) ([HN](https://news.ycombinator.com/item?id=31924849)) ([Lobsters](https://lobste.rs/s/mpea9b/linear_address_spaces))
 - [Ask HN: Can competitors catch up to Apple Silicon? (2022)](https://news.ycombinator.com/item?id=31975600)
 - [DigitalJS](https://github.com/tilk/digitaljs) - Teaching-focused digital circuit simulator.
+- [Knox](https://github.com/anishathalye/knox) - Framework for formally verifying hardware security modules to be free of hardware, software, and timing side-channel vulnerabilities.

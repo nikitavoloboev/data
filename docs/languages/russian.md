@@ -27,3 +27,4 @@
 - [encodechka](https://github.com/avidale/encodechka) - Tiniest sentence encoder for Russian language.
 - [Yargy](https://github.com/natasha/yargy) - Rule-based facts extraction for Russian language.
 - [Dostoevsky](https://github.com/bureaucratic-labs/dostoevsky) - Sentiment analysis library for russian language.
+- [Русский язык за 18 минут](https://www.youtube.com/watch?v=vDSn1HWY8J8)

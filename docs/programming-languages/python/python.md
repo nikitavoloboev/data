@@ -519,3 +519,4 @@ for i, _ in enumerate(nums):
 - [Multiprocessing in Python: The Complete Guide (2022)](https://superfastpython.com/multiprocessing-in-python/)
 - [rich-bench](https://github.com/tonybaloney/rich-bench) - Little Python benchmarking tool.
 - [EuroPython 2022](https://ep2022.europython.eu/) ([Web Code](https://github.com/EuroPython/website))
+- [µfmt](https://github.com/omnilib/ufmt) - Safe, atomic formatting with black and µsort.
