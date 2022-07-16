@@ -57,3 +57,4 @@ title: QUIC
 - [How Facebook Is Bringing QUIC to Billions (2022)](https://www.infoq.com/presentations/facebook-quic-http3/)
 - [A Quick Look at QUIC Censorship (2022)](https://ooni.org/post/2022-quick-look-quic-censorship/) ([HN](https://news.ycombinator.com/item?id=31805087))
 - [QUIC Version 2](https://github.com/quicwg/quic-v2)
+- [A look at QUIC use (2022)](https://blog.apnic.net/2022/07/11/a-look-at-quic-use/)

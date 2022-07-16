@@ -302,3 +302,4 @@ title: Swift
 - [Porting Graphing Calculator from C++ to Swift (2022)](https://www.swift.org/blog/graphing-calculator/) ([HN](https://news.ycombinator.com/item?id=31945478))
 - [How to Achieve Dynamic Dispatch Using Generic Protocols in Swift 5.7 (2022)](https://swiftsenpai.com/swift/dynamic-dispatch-with-generic-protocols/)
 - [Hot Reloading in Swift (2022)](https://www.merowing.info/hot-reloading-in-swift/) ([HN](https://news.ycombinator.com/item?id=32101009))
+- [Interoperability between Swift and C++](https://github.com/apple/swift/blob/main/docs/CppInteroperability/CppInteroperabilityManifesto.md)

@@ -187,3 +187,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [Tackling Climate Change with Machine Learning (2019)](https://arxiv.org/abs/1906.05433) ([Tweet](https://twitter.com/alex_lacoste_/status/1538509424398041089))
 - [Polyformer](https://github.com/Reiten966/Polyformer) - Open-source project that aims to recycle plastics into FDM filaments.
 - [AI-guided robots are ready to sort recyclables](https://spectrum.ieee.org/ai-guided-robots-are-ready-to-sort-your-recyclables) ([HN](https://news.ycombinator.com/item?id=31877672))
+- [Europe's hottest week (2022)](https://twitter.com/KarlMathiesen/status/1548214165579321344)

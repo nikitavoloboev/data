@@ -79,6 +79,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Erin Vest](https://erinvestart.com/) ([Instagram](https://www.instagram.com/swordandsnorecery/))
 - [Holly Humphries](https://holboldoart.com/)
 - [Natalie Dombois](http://nataliedombois.de/)
+- [Maria Kreyn](https://www.instagram.com/mariakreyn/)
 - [Yuxing Zhang](https://www.artstation.com/eason)
 - [Samuel Smith](https://www.artstation.com/samsamstudio)
 - [Amir Zand](https://amirzandartist.com/) ([IG](https://www.instagram.com/amirzandartist/))

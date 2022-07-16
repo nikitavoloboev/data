@@ -109,3 +109,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [ReScript SolidJS](https://github.com/Fattafatta/rescript-solidjs)
 - [Solid Cache](https://github.com/LXSMNSYC/solid-cache) - Resource caching in SolidJS.
 - [SolidJS Package Monorepo Starter](https://github.com/solidjs-community/monorepo-starter)
+- [Nested Routing, Parallelized Data Fetching, and SolidJS w/ Ryan Turnquist (2022)](https://www.youtube.com/watch?v=-TeXU9UZ_4w)
