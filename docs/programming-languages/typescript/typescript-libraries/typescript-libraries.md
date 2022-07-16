@@ -120,6 +120,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [opaque-ts](https://github.com/cloudflare/opaque-ts) - TypeScript library for OPAQUE Asymmetric Password-Authenticated Key Exchange Protocol.
 - [charm.js](https://github.com/jedisct1/charm.js) - Tiny, self-contained cryptography library, implementing authenticated encryption and keyed hashing.
 - [noble-bls12-381](https://github.com/paulmillr/noble-bls12-381) - Fastest JS implementation of BLS12-381. Auditable, secure, 0-dependency aggregated signatures & pairings.
+- [Web Crypto Tools](https://github.com/willgm/web-crypto-tools) - Set of tools to facilitate and give good defaults for use of the native Web Crypto API.
 
 ## Error
 

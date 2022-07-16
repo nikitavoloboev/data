@@ -822,3 +822,4 @@ if err != nil {
 - [Goscript Internals: Goroutine, pointer and the VM architecture (2022)](https://goscript.dev/posts/goscript_internals_II_the_runtime_a_en)
 - [lensm](https://github.com/loov/lensm) - Go assembly and source viewer.
 - [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide) ([HN](https://news.ycombinator.com/item?id=32109301))
+- [Favorite Go Hosting Service (2022)](https://www.reddit.com/r/golang/comments/vzbmhl/favorite_go_hosting_service/)

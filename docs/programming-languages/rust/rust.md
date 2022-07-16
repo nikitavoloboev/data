@@ -842,3 +842,4 @@ title: Rust
 - [How I went about learning Rust (2022)](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/) ([HN](https://news.ycombinator.com/item?id=32104764))
 - [A performance retrospective using Rust (2022)](https://agourlay.github.io/blog/rust-performance-retrospective-part1/)
 - [Rust should not have provided `unwrap` (2022)](https://www.thecodedmessage.com/posts/2022-07-14-programming-unwrap/) ([HN](https://news.ycombinator.com/item?id=32110040))
+- [Async Rust: What is a runtime? Here is how tokio works under the hood (2022)](https://kerkour.com/rust-async-await-what-is-a-runtime) ([HN](https://news.ycombinator.com/item?id=32119002))

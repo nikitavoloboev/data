@@ -105,3 +105,4 @@ Match all that don't have notes or twitter in input
 - [Swift Regex](https://swiftregex.com/) - Online tool to learn, build and test Swift Regex Regex and Regex Builder. ([Code](https://github.com/SwiftFiddle/swiftregex))
 - [regexparam](https://github.com/lukeed/regexparam) - Tiny (394B) utility that converts route patterns into RegExp.
 - [AutoRegex](https://www.autoregex.xyz/) - Convert from English to RegEx with Natural Language Processing. ([HN](https://news.ycombinator.com/item?id=32032134))
+- [magic-regexp](https://github.com/danielroe/magic-regexp) - Compiled-away, type-safe, readable RegExp alternative.

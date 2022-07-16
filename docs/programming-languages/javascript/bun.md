@@ -18,3 +18,5 @@ title: Bun
 - [Awesome Bun 2](https://github.com/one-aalam/awesome-bun)
 - [Jarred Sumner Interview (2022)](https://youtu.be/FOsJ4JfpSRU?t=4463)
 - [bun-utilities](https://github.com/xHyroM/bun-utilities) - Bindings for useful functions for bun.
+- [Bun gets “bun:FFI” – call native libraries from JavaScript](https://news.ycombinator.com/item?id=32120090)
+- [Bun discord bot](https://github.com/xHyroM/bun-discord-bot) - Official serverless discord bot for bun discord server.

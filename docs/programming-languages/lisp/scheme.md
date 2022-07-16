@@ -99,3 +99,4 @@ title: Scheme
 - [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html) ([Lobsters](https://lobste.rs/s/akvnzg/scheme_primer)) ([HN](https://news.ycombinator.com/item?id=32010490))
 - [MIT Scheme Documentation](https://groups.csail.mit.edu/mac/ftpdir/scheme-7.5/7.5.17/doc-html/)
 - [The Why of Y](https://dreamsongs.com/Files/WhyOfY.pdf)
+- [scheme.rs](https://scheme.rs/) - Revised Report on the Algorithmic Language Scheme.

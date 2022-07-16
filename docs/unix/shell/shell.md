@@ -239,3 +239,4 @@ All active variables can be seen by running `env`.
 - [PaSh](https://github.com/binpash/pash) - Light-touch Data-Parallel Shell Processing. ([Web](https://binpa.sh/))
 - [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 - [Practically Correct, Just-in-Time Shell Script Parallelization](https://angelhof.github.io/files/papers/pashjit-2022-osdi.pdf)
+- [A lifehack for your shell (2022)](https://xenodium.com/a-lifehack-for-your-shell/) ([Lobsters](https://lobste.rs/s/qaimmg/lifehack_for_your_shell))

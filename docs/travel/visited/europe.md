@@ -74,3 +74,4 @@ So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](unit
 - [Europe’s Most Tax-Friendly Countries for Remote Workers (2022)](https://www.youtube.com/watch?v=qnUa3BZLoSA)
 - [Six Reasons to Live in Western Europe (2022)](https://www.youtube.com/watch?v=rtsik1A1FUY)
 - [What keeps the average American (that can afford it) from moving to Europe? (2022)](https://twitter.com/peer_rich/status/1540791985627312129)
+- [Investing beyond VWCE (2022)](https://www.reddit.com/r/eupersonalfinance/comments/w0dlv2/beyond_vwce/)

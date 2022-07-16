@@ -103,3 +103,4 @@
 - [Detailed Assemblies for an Airtight Small Home (2022)](https://www.finehomebuilding.com/2022/04/19/detailed-assemblies-for-an-airtight-small-home) ([HN](https://news.ycombinator.com/item?id=31091851))
 - [Fine Homebuilding](https://www.finehomebuilding.com/)
 - [Dezeen](https://www.dezeen.com/) - Architecture and design magazine. ([Twitter](https://twitter.com/dezeen)) ([IG](https://www.instagram.com/dezeen/))
+- [The Rise and Fall of the Manufactured Home (2022)](https://constructionphysics.substack.com/p/the-rise-and-fall-of-the-mobile-home) ([HN](https://news.ycombinator.com/item?id=32119828))

@@ -192,3 +192,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Bitcoin Implementation in Scala](https://github.com/bitcoin-s/bitcoin-s)
 - [Revault](https://github.com/revault/revaultd) - Bitcoin vault architecture for multi-party situations.
 - [The Bitcoin Investment Thesis Is Broken (2022)](https://www.iansbnr.com/the-bitcoin-investment-thesis-is-broken/) ([HN](https://news.ycombinator.com/item?id=31490789))
+- [Ask HN: How do you use Bitcoin in a trustless way? (2022)](https://news.ycombinator.com/item?id=32115693)

@@ -40,3 +40,4 @@ title: Qt
 - [Qt 6.3 (2022)](https://www.qt.io/blog/qt-6.3-released) ([HN](https://news.ycombinator.com/item?id=31000876)) ([Lobsters](https://lobste.rs/s/l8i3jp/qt_6_3_released))
 - [QCoro](https://github.com/danvratil/qcoro) - C++ Coroutines for Qt.
 - [Qlift](https://github.com/Longhanks/qlift) - Swift library to use Qt.
+- [How Qt Signals and Slots Work](https://woboq.com/blog/how-qt-signals-slots-work.html)

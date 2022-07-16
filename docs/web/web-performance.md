@@ -191,3 +191,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Awesome WPO](https://awesome-wpo.netlify.app/) - Curated list of Web Performance Optimization. ([Code](https://github.com/davidsonfellipe/awesome-wpo))
 - [Awesome Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget)
 - [DebugBear](https://www.debugbear.com/) - Monitor Site Speed and Core Web Vitals. ([Docs](https://www.debugbear.com/docs))
+- [Poor man's cache (2022)](https://kyoto.codes/2022/07/14/poor-man-cache.html)

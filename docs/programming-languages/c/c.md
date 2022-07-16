@@ -261,3 +261,4 @@
 - [Kefir C compiler](https://github.com/protopopov1122/kefir) - Implementation of C17 language compiler from scratch.
 - [Polymorphism through Typeclasses / Interface / Traits in C](https://github.com/TotallyNotChase/typeclass-interface-pattern)
 - [Practical design patterns in C](https://github.com/huawenyu/Design-Patterns-in-C)
+- [little](https://github.com/Beariish/little) - Small, fast, easily embeddable language implemented in C.

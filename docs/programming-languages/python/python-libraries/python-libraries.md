@@ -933,6 +933,7 @@
 - [datatree](https://github.com/xarray-contrib/datatree) - Implementation of a tree-like hierarchical data structure for xarray.
 - [pint-xarray](https://github.com/xarray-contrib/pint-xarray) - Interface for using pint with xarray, providing convenience accessors.
 - [xgcm](https://github.com/xgcm/xgcm) - General Circulation Model Postprocessing with xarray.
+- [addict](https://github.com/mewwts/addict) - Python Dict that's better than heroin.
 
 ## Notes
 
@@ -1097,3 +1098,4 @@
 - [promypy](https://github.com/Kludex/promypy) - Progressive type annotation without regression.
 - [PoetryUp](https://github.com/MousaZeidBaker/poetryup) - Updates dependencies and bumps their version in both poetry.lock as well as in pyproject.toml file.
 - [Python for Scientists](https://github.com/TomNicholas/Python-for-Scientists)
+- [Python toolkits (2022)](https://www.reddit.com/r/Python/comments/w092je/python_toolkits/)

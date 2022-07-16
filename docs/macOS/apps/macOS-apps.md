@@ -152,6 +152,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Pinboarding](https://github.com/otaviocc/Pinboarding) - Pinboard client for macOS in SwiftUI and Combine.
 - [Later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click.
 - [Picsee](https://enpicsee.chitaner.com/) - Image viewer & organizer. ([Issues](https://github.com/kzhiquan/Picsee))
+- [CotEditor](https://coteditor.com/) - Text Editor for macOS. ([Code](https://github.com/coteditor/CotEditor)) ([HN](https://news.ycombinator.com/item?id=32114699))
 
 ## Other interesting apps
 

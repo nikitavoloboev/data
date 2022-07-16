@@ -17,3 +17,5 @@ title: Wails
 - [Awesome Wails](https://github.com/wailsapp/awesome-wails)
 - [Wails Roadmap](https://github.com/wailsapp/wails/discussions/1484)
 - [Wails 2 + Solid JS template](https://github.com/sidwebworks/wails-solid-template)
+- [Wails - What's the catch? (2022)](https://www.reddit.com/r/golang/comments/vzxhuh/wailsio_whats_the_catch/)
+- [HN: Wails (2022)](https://news.ycombinator.com/item?id=32080899)

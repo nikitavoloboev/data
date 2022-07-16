@@ -97,7 +97,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Headway](https://headwayapp.co/) - Keep customers in the loop about your product with changelogs.
 - [Eagle](https://eagle.cool/) - Organize all your reference images in one place.
 - [Fungarzione](https://fungarzione.com/) - Changelog Of The Future.
-- [cargo-crev](https://github.com/crev-dev/cargo-crev) - Cryptographically verifiable code review system for the cargo (Rust) package manager.
+- [cargo-crev](https://github.com/crev-dev/cargo-crev) - Cryptographically verifiable code review system for the cargo (Rust) package manager. ([Lobsters](https://lobste.rs/s/aohvmw/cryptographically_verifiable_code))
 - [Cocoon](https://cocoon.com/) - Dedicated space for the most important people in your life.
 - [Dorik](https://dorik.com/) - Build Beautiful Websites Without Code.
 - [Tally Forms](https://tally.so/) - Free Typeform alternative. ([HN](https://news.ycombinator.com/item?id=30258149))

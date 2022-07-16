@@ -42,6 +42,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [There’s nothing in the world more powerful than a good story. Nothing can stop it. No enemy can defeat it.](https://twitter.com/hardmaru/status/1499935502937505792)
 - [It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.](https://www.reddit.com/r/Economics/comments/toozub/perspective_russia_is_threatening_a_move_that/)
 - [Never overestimate a man who underestimates himself](https://twitter.com/ryancohen/status/1478144538757808138)
+- [Help avoid overheating: Wet towels and freeze them for twenty mins then apply to your body](https://www.reddit.com/r/worldnews/comments/w0bwx8/england_braces_for_40c_temperatures_as_experts/)
 
 ## Other
 

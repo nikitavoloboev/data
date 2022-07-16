@@ -8,7 +8,7 @@ title: Shaders
 
 - [Shader Toy](https://www.shadertoy.com/) - Build and Share your best shaders with the world and get inspired.
 - [Euc](https://github.com/zesterer/euc) - Software rendering crate that lets you write shaders with Rust.
-- [The Book of Shaders](https://thebookofshaders.com/) - Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders. ([HN](https://news.ycombinator.com/item?id=23497924))
+- [The Book of Shaders](https://thebookofshaders.com/) - Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders. ([HN](https://news.ycombinator.com/item?id=23497924)) ([HN](https://news.ycombinator.com/item?id=32117536))
 - [ShaderLand](http://shaderland.com/)
 - [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - Step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [Playing around with shaders (2019)](https://bou.ke/blog/shaders/)

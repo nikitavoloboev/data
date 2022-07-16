@@ -369,3 +369,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [Cannoli](https://github.com/MarginResearch/cannoli) - High-performance QEMU memory and instruction tracing.
 - [netboot.xyz](https://netboot.xyz/) - Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE. ([Code](https://github.com/netbootxyz/netboot.xyz)) ([HN](https://news.ycombinator.com/item?id=31814288)) ([Lobsters](https://lobste.rs/s/j6zzmw/netboot_xyz_your_favorite_operating)) ([Reddit](https://www.reddit.com/r/linux/comments/vgu0gs/your_favorite_operating_systems_in_one_place/))
+- [State of the Squeak Phone (2022)](https://syndicate-lang.org/journal/2022/06/03/phone-progress)

@@ -87,3 +87,4 @@ title: Blender
 - [Notes on learning Blender](https://tendigits.space/site/blender.html)
 - [Chemicals in Blender](https://github.com/patrickfuller/blender-chemicals) - Draws chemicals in Blender using common input formats (smiles, molfiles, cif files, etc.).
 - [Blender Booster Add-on](https://github.com/iperson/blender-booster) - New add-on for Blender 3D to combine several improvements and functionalities.
+- [glslTexture](https://github.com/patriciogonzalezvivo/glslTexture) - Blender addon to create 2D textures from GLSL.

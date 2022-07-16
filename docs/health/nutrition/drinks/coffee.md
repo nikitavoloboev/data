@@ -68,3 +68,4 @@
 - [Ask HN: Quit caffeine? Before and after anecdotes (2022)](https://news.ycombinator.com/item?id=30400121)
 - [Good french press machines (2022)](https://twitter.com/codebytere/status/1507652665714618371)
 - [Experiences running a coffee shop (2022)](https://www.reddit.com/r/AskMenOver30/comments/uhqtfa/whats_your_experience_running_a_cofffe_shop/)
+- [Coffee Quality Institute Database](https://github.com/jldbc/coffee-quality-database)

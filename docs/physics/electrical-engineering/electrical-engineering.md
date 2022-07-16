@@ -117,3 +117,4 @@ title: Electrical engineering
 - [Original Pong video game had no code and was built using hardware circuitry](https://www.reddit.com/r/EngineeringPorn/comments/ul49zt/the_original_pong_video_game_had_no_code_and_was/)
 - [Open Circuits – The Inner Beauty of Electronic Components](https://nostarch.com/open-circuits) ([HN](https://news.ycombinator.com/item?id=31942329))
 - [Where Are the Microelectronics Engineers?](https://semiwiki.com/events/314964-a-crisis-in-engineering-education-where-are-the-microelectronics-engineers/) ([HN](https://news.ycombinator.com/item?id=32012660))
+- [PyCircTools](https://github.com/LovetheFrogs/PyCircTools) - Build digital circuits using Python.

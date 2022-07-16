@@ -234,3 +234,4 @@
 - [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler) ([HN](https://news.ycombinator.com/item?id=32100880))
 - [Why Is No One Writing Language Runtimes? (2016)](https://acorwin.com/2016/05/07/why-is-no-one-writing-language-runtimes/)
 - [Decompiler Explorer](https://dogbolt.org/) ([HN](https://news.ycombinator.com/item?id=32079227)) ([Code](https://github.com/decompiler-explorer/decompiler-explorer))
+- [Complete compiler and VM in 150 lines of code](https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46) ([HN](https://news.ycombinator.com/item?id=32121846))

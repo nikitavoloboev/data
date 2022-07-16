@@ -27,7 +27,7 @@ title: SQL
 - [Ways to Tweak Slow SQL Queries](https://www.databasestar.com/slow-sql) ([HN](https://news.ycombinator.com/item?id=20855441))
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics. ([Web](https://osquery.io/)) ([osquery launcher](https://github.com/kolide/launcher))
 - [SQL queries don't start with SELECT (2019)](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
-- [OctoSQL](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyze and transform data from multiple databases and file formats using SQL.
+- [OctoSQL](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyze and transform data from multiple databases and file formats using SQL. ([HN](https://news.ycombinator.com/item?id=32093002))
 - [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) - Designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime. ([HN](https://news.ycombinator.com/item?id=21799988))
 - [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases. ([HN](https://news.ycombinator.com/item?id=21509373))
 - [SQL Performance Explained book](https://sql-performance-explained.com/)

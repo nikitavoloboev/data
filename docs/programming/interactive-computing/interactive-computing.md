@@ -55,3 +55,4 @@
 - [Observable Examples](https://github.com/observablehq/examples)
 - [Sequential Workflow Designer](https://github.com/b4rtaz/sequential-workflow-designer) - Written in TypeScript with no dependencies.
 - [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/)
+- [Scratch is a big deal (2022)](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/) ([HN](https://news.ycombinator.com/item?id=32120445))
