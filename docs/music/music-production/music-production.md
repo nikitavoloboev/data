@@ -394,3 +394,4 @@
 - [Piano Trainer](https://github.com/ZaneH/piano-trainer) - Learn to play the piano at your own pace through various modes of practice.
 - [SheetAble](https://sheetable.net/) - Self-hosted music sheet organizer. ([Code](https://github.com/SheetAble/SheetAble))
 - [Partitura](https://github.com/CPJKU/partitura) - Python package for handling modern staff notation of music.
+- [Sheet Vision](https://github.com/cal-pratt/SheetVision) - Python program which reads sheet music and turns it into midi files.

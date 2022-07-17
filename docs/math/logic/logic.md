@@ -83,3 +83,4 @@
 - [SHACL: A Description Logic in Disguise (2021)](https://arxiv.org/abs/2108.06096)
 - [Open Logic Project](http://builds.openlogicproject.org/) ([HN](https://news.ycombinator.com/item?id=31960219))
 - [Formalizations of Gödel's Ontological Proof of God's Existence](https://github.com/FormalTheology/GoedelGod)
+- [Logic as algebra](https://spencermortensen.com/articles/boolean-algebra/) ([Lobsters](https://lobste.rs/s/abfbpw/logic_as_algebra))

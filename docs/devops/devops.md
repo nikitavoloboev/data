@@ -194,3 +194,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Interval](https://interval.com/) - Batteries-included approach to building rich internal tools directly in your app’s backend codebase. ([Twitter](https://twitter.com/useinterval)) ([Explained](https://twitter.com/alexarena/status/1537116909199446016))
 - [Wander](https://github.com/robinovitch61/wander) - Terminal application for Nomad by HashiCorp.
 - [Monitoring tiny web services (2022)](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/) ([Lobsters](https://lobste.rs/s/vdbrqy/monitoring_tiny_web_services)) ([HN](https://news.ycombinator.com/item?id=32037356))
+- [Updatecli](https://github.com/updatecli/updatecli) - GitDevOps Automation Engine.

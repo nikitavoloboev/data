@@ -507,7 +507,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Kevin's Book Notes](https://www.kevinslin.com/notes/ad075218-7dae-479b-8415-d54c10ef103e/)
 - [IndiePaper](https://indiepaper.me/) - Easy way to write and sell self-published books. ([HN](https://news.ycombinator.com/item?id=28775313))
 - [Z-Library](https://z-lib.org/) - World's largest ebook library.
-- [Z-Library Books](https://nl1lib.org/)
+- [Z-Library Books](https://usa1lib.org/)
 - [Z-Library Articles](https://booksc.org/)
 - [Top Shelves | Goodreads](https://www.goodreads.com/shelf)
 - [Royal Road](https://www.royalroad.com/welcome) - Home of web fiction.
@@ -565,3 +565,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Generating Children’s Stories Using GPT-3 and DALL·E (2022)](https://www.surgehq.ai//blog/generating-childrens-stories-using-gpt-3-and-dall-e) ([HN](https://news.ycombinator.com/item?id=31915334))
 - [Pirate Library Mirror](http://pilimi.org/) - Preserving 7TB of books (that are not in Libgen). ([Intro](http://pilimi.org/blog-introducing.html)) ([HN](https://news.ycombinator.com/item?id=31970805))
 - [Which fictional universe would you rather live in? (2022)](https://www.reddit.com/r/scifi/comments/vqs0z8/which_fictional_universe_would_you_rather_live_in/)
+- [I just finished reading a book and took lots of notes. Now what? (2022)](https://writing.bobdoto.computer/question-i-just-finished-reading-a-book-and-took-lots-of-notes-now-what/) ([HN](https://news.ycombinator.com/item?id=32123781))

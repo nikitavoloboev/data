@@ -777,3 +777,4 @@ title: Kubernetes
 - [HyperShift OpenShift](https://github.com/openshift/hypershift) - Clusters with hosted control planes.
 - [kube-job](https://github.com/h3poteto/kube-job) - Run one off job on kubernetes from the command line tool.
 - [KubeFire](https://github.com/innobead/kubefire) - Create and manage Kubernetes clusters running on FireCracker microVMs via weaveworks/ignite.
+- [Kube-Beacon](https://github.com/chen-keinan/kube-beacon) - Open Source runtime scanner for k8s cluster and perform security audit checks based on CIS Kubernetes Benchmark specification.

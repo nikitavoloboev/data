@@ -442,3 +442,5 @@ Awesome List
 - [spr](https://github.com/getcord/spr) - Command-line tool for submitting and updating GitHub Pull Requests from local Git commits that may be amended and rebased.
 - [Crocodile](https://www.crocodile.dev/) - Better code review for GitHub. ([HN](https://news.ycombinator.com/item?id=31841215))
 - [Linear GitHub Sync](https://github.com/spacedriveapp/linear-github-sync) - System to synchronize Linear issues to GitHub issues.
+- [Stargaze](https://github.com/nodew/stargaze-cli) - CLI tool to help you manage your starred projects on GitHub.
+- [PRM](https://github.com/ldez/prm) - Pull Request Manager for Maintainers.

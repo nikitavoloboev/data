@@ -851,3 +851,5 @@
 - [Generalization of Otsu's Method and Minimum Error Thresholding (2020)](https://arxiv.org/abs/2007.07350)
 - [XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model (2022)](https://arxiv.org/abs/2207.07115) ([Code](https://github.com/hkchengrex/XMem))
 - [Rethinking Space-Time Networks with Improved Memory Coverage for Efficient Video Object Segmentation (2021)](https://arxiv.org/abs/2106.05210) ([Code](https://github.com/hkchengrex/STCN))
+- [Deformable Sprites for Unsupervised Video Decomposition (2022)](https://arxiv.org/abs/2204.07151) ([Code](https://github.com/vye16/deformable-sprites))
+- [Topologically-Aware Deformation Fields for Single-View 3D Reconstruction (2022)](https://arxiv.org/abs/2205.06267) ([Code](https://github.com/ShivamDuggal4/TARS3D))

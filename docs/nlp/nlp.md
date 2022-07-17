@@ -617,3 +617,4 @@
 - [Awesome Topic Models](https://github.com/jonaschn/awesome-topic-models)
 - [Introducing The World’s Largest Open Multilingual Language Model: BLOOM](https://bigscience.huggingface.co/blog/bloom)
 - [The DALL·E 2 Prompt Book](https://dallery.gallery/the-dalle-2-prompt-book/) ([HN](https://news.ycombinator.com/item?id=32088718)) ([Tweet](https://twitter.com/GuyP/status/1547234780001042432))
+- [RWKV](https://github.com/BlinkDL/RWKV-LM) - RNN with Transformer-level performance, which can also be directly trained like a GPT transformer (parallelizable).

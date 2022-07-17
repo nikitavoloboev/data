@@ -430,7 +430,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Working With Multiple Git Configs (2021)](https://rossedman.io/blog/computers/working-with-multiple-git-configs/)
 - [Aho](https://github.com/djanderson/aho) - Git implementation in AWK. ([HN](https://news.ycombinator.com/item?id=28771841)) ([Lobsters](https://lobste.rs/s/u7gls0/aho_git_implementation_awk))
 - [Improving Git's Autocorrect Feature (2021)](https://azeemba.com/posts/contributing-to-git.html)
-- [git-stack](https://github.com/epage/git-stack) - Stacked branch management for Git.
+- [git-stack](https://github.com/gitext-rs/git-stack) - Stacked branch management for Git.
 - [Fast rebases with git-move (2021)](https://blog.waleedkhan.name/in-memory-rebases/) ([HN](https://news.ycombinator.com/item?id=28899661))
 - [go-gitdir](https://github.com/belak/gitdir) - Simple and lightweight SSH git hosting with just a directory.
 - [Rudolfs](https://github.com/jasonwhite/rudolfs) - High-performance, caching Git LFS server with an AWS S3 and local storage back-end.

@@ -20,3 +20,4 @@ title: Bun
 - [bun-utilities](https://github.com/xHyroM/bun-utilities) - Bindings for useful functions for bun.
 - [Bun gets “bun:FFI” – call native libraries from JavaScript](https://news.ycombinator.com/item?id=32120090)
 - [Bun discord bot](https://github.com/xHyroM/bun-discord-bot) - Official serverless discord bot for bun discord server.
+- [Burm](https://github.com/William-McGonagle/burm) - Simple, fast, reliable Object Relationship Manager for Bun.

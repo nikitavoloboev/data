@@ -289,3 +289,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Writing One Sentence per Line](https://sive.rs/1s) ([HN](https://news.ycombinator.com/item?id=31808093))
 - [Ask HN: How to level up your technical writing? (2022)](https://news.ycombinator.com/item?id=31859040)
 - [Brevity 500](https://brevity500.com/) - Short games to help you become a powerful writer. ([HN](https://news.ycombinator.com/item?id=31921830))
+- [Technical Writing for Developers (2022)](https://css-tricks.com/technical-writing-for-developers/) ([HN](https://news.ycombinator.com/item?id=32110690))

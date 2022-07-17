@@ -205,7 +205,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Allows you to easily share a web service on your local development machine without messing with DNS and firewall settings. ([Web](https://theboroer.github.io/localtunnel-www/))
 - [Merino](https://github.com/ajmwagar/merino) - SOCKS5 Proxy server written in Rust.
 - [Pomerium](https://www.pomerium.com/) - Identity-aware proxy that enables secure access to internal applications. ([Code](https://github.com/pomerium/pomerium))
-- [Shadowsocks](https://shadowsocks.org/en/index.html) - Secure socks5 proxy. ([Code](https://github.com/shadowsocks/shadowsocks-rust)) ([GitHub](https://github.com/shadowsocks))
+- [Shadowsocks](https://shadowsocks.org/en/index.html) - Secure socks5 proxy. ([Code](https://github.com/shadowsocks/shadowsocks-rust)) ([GitHub](https://github.com/shadowsocks)) ([Guide](http://shadowsocks.org/guide/what-is-shadowsocks.html)) ([Web Code](https://github.com/shadowsocks/shadowsocks-org))
 - [Open, Programmable, and Virtualized 5G Networks](https://open5g.info/)
 - [The Programmable Data Plane Reading List](https://programmabledataplane.review/)
 - [Ridiculous Router Resets (2021)](https://cucurbit.dev/posts/ridiculous-router-resets/)

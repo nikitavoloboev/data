@@ -97,3 +97,4 @@ I love all [tryptamines](tryptamines.md) but am yet to breakthrough on DMT. [Man
 - [How do I smoke Freebase DMT/5MeoDMT form?](https://www.reddit.com/r/5MeODMT/comments/mrbeeo/how_do_i_smoke_freebase_form/)
 - [Best e-vape for a DMT breakthrough in one hit](https://www.youtube.com/watch?v=gHW6FeuhSjA)
 - [DMT Vaporizers in Europe](https://www.reddit.com/r/DMT/comments/kmlcuy/vaporizers_in_europe/)
+- [Can ‘entities’ be visually seen or only sensed? (2022)](https://www.reddit.com/r/Psychonaut/comments/w171ty/can_entities_be_visually_seen_or_only_sensed/)

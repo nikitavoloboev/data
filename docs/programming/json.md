@@ -151,3 +151,4 @@ title: JSON
 - [ajv-cli](https://github.com/ajv-validator/ajv-cli) - Command-line interface for Ajv JSON Validator.
 - [JSON-LD](https://json-ld.org/) - JSON for Linking Data. ([Parser Code](https://github.com/rubensworks/jsonld-context-parser.js))
 - [jqgo](https://github.com/eatonphil/jqgo) - Variations on experimental Go clones of jq.
+- [JCOF](https://github.com/mortie/jcof) - JSON-like Compact Object Format. ([HN](https://news.ycombinator.com/item?id=32109406))

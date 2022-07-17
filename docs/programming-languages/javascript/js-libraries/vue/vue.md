@@ -183,3 +183,4 @@ title: Vue.js
 - [Unplugin Vue Components](https://github.com/antfu/unplugin-vue-components) - On-demand components auto importing for Vue.
 - [Collection of Vue.js challenges](https://vuejs-challenges.netlify.app/) ([Code](https://github.com/webfansplz/vuejs-challenges))
 - [Vue Compiler in Rust](https://github.com/HerringtonDarkholme/vue-compiler)
+- [Lumeno UI](https://github.com/LumenoDev/ui) - Library of UI widgets built using Vue.js and TailwindCSS.

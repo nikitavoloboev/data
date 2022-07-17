@@ -534,3 +534,4 @@ all: unset
 - [Shader-like holographic effects with CSS (2022)](https://robbowen.digital/wrote-about/css-blend-mode-shaders/) ([HN](https://news.ycombinator.com/item?id=32016391)) ([Tweet](https://twitter.com/Robb0wen/status/1545037603946127364))
 - [Bramus Van Damme | The CSS Cascade, a deep dive (2022)](https://www.youtube.com/watch?v=zEPXyqj7pEA)
 - [swc/css](https://github.com/swc-project/css) - SWC CSS binding.
+- [The CSS behind Figma (2022)](https://ishadeed.com/article/figma-css/)

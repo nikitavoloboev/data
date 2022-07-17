@@ -297,3 +297,4 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Twenty years of my blog (2022)](https://simonwillison.net/2022/Jun/12/twenty-years/) ([HN](https://news.ycombinator.com/item?id=31727464))
 - [Old-school blogging, retro computers, and decentralization (2022)](https://andregarzia.com/2022/05/Old-school-blogging-retro-computers-and-decentralisation.html) ([Lobsters](https://lobste.rs/s/m5d4xo/old_school_blogging_retro_computers))
 - [Indie Microblogging](https://book.micro.blog/)
+- [Prose.sh](https://prose.sh/) - Blog platform for hackers. ([HN](https://news.ycombinator.com/item?id=32128013))

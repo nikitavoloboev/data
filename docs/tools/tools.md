@@ -168,6 +168,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [LogSnag](https://logsnag.com/) - Real-time feed of events for your projects.
 - [Git.io](https://git.io/) - URL shortener by GitHub.
 - [Miter Meeting Tools](https://miter.co/)
+- [Simple, fast link shortener](https://github.com/lrstanley/links)
 - [Kukkee](https://www.kukkee.com/) - Open source Doodle alternative. ([Code](https://github.com/Kukkee/Kukkee)
 - [FormSG](https://github.com/opengovsg/FormSG) - Form builder for the Singapore Government.
 - [SkyOffice](https://sky-office.co/) - Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus. ([Code](https://github.com/kevinshen56714/SkyOffice))
@@ -732,3 +733,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Dans Tools](https://www.danstools.com/) - Collection of various tools that I have found helpful for many years.
 - [Ask HN: What tools are you a 10/10 on? (2022)](https://news.ycombinator.com/item?id=31914087)
 - [Ask HN: Experiences with low-code systems? (2022)](https://news.ycombinator.com/item?id=32106380)
+- [$9.99/month (2022)](https://basicappleguy.com/basicappleblog/999month) ([HN](https://news.ycombinator.com/item?id=32129574))

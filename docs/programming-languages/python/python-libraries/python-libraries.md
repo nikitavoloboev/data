@@ -1099,3 +1099,4 @@
 - [PoetryUp](https://github.com/MousaZeidBaker/poetryup) - Updates dependencies and bumps their version in both poetry.lock as well as in pyproject.toml file.
 - [Python for Scientists](https://github.com/TomNicholas/Python-for-Scientists)
 - [Python toolkits (2022)](https://www.reddit.com/r/Python/comments/w092je/python_toolkits/)
+- [Freezing requirements with pip-tools (2022)](https://til.simonwillison.net/python/pip-tools)

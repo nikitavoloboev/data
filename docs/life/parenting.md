@@ -84,3 +84,4 @@
 - [Ask HN: What's the biggest problem you face as a parent? (2022)](https://news.ycombinator.com/item?id=31913454)
 - [Ask HN: How to keep my daughter busy while tickling her curiosity (2022)](https://news.ycombinator.com/item?id=31965616)
 - [Ask HN: First-time dad-to-be. What do you wish you'd known back then? (2022)](https://news.ycombinator.com/item?id=31976803)
+- [Ask HN: How to deal with children's online habits? (2022)](https://news.ycombinator.com/item?id=32124809)

@@ -209,6 +209,7 @@
 - [SuiteSparseGraphBLAS.jl](https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl) - Fast, general sparse linear algebra and graph computation package, based on SuiteSparse:GraphBLAS.
 - [SpecialFunctions.jl](https://github.com/JuliaMath/SpecialFunctions.jl) - Special mathematical functions in Julia.
 - [RandomVariables](https://github.com/ManuelStapper/RandomVariables.jl) - Julia package for random variables, some transformations and probabilities.
+- [Sherlogs.jl](https://github.com/milankl/Sherlogs.jl) - Number format that inspects your code by logging the arithmetic results.
 
 ## NLP
 
@@ -291,6 +292,7 @@
 - [SQLREPL.jl](https://github.com/c42f/SQLREPL.jl) - Julia REPL mode for SQL.
 - [LibPQ](https://github.com/invenia/LibPQ.jl) - Julia wrapper for libpq.
 - [SQLStrings](https://github.com/JuliaComputing/SQLStrings.jl) - Safe interpolations for SQL query strings.
+- [Mentat](https://github.com/elixir-toniq/mentat) - Super simple caching with ttls.
 
 ## Error
 
@@ -677,6 +679,7 @@
 - [MathOptSetDistances](https://github.com/matbesancon/MathOptSetDistances.jl) - Distances to sets for MathOptInterface.
 - [RecipesPipeline](https://github.com/JuliaPlots/RecipesPipeline.jl) - Utilities for processing recipes.
 - [Banyan Julia](https://github.com/banyan-team/banyan-julia) - Suite of libraries for processing big data with familiar Julia APIs.
+- [ExproniconLite](https://github.com/Roger-luo/ExproniconLite.jl) - No fancy pattern matching, no dependencies, Light-weight Expronicon for low latency.
 
 ## Links
 

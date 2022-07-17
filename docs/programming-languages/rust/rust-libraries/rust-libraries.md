@@ -317,6 +317,7 @@
 - [sqlite-cache](https://github.com/losfair/sqlite-cache) - SQLite-based on-disk cache for Rust.
 - [PartiQL Rust](https://github.com/partiql/partiql-lang-rust) - Collection of crates to provide Rust support for the PartiQL query language.
 - [YAKV](https://github.com/knizhnik/yakv) - Simple persistent-key value storage implemented in Rust using "traditional" architecture: B-Tree, buffer cache, ACID transaction, write-ahead log.
+- [encrypted-sled](https://github.com/jpopesculian/encrypted-sled) - Drop in replacement / wrapper around the amazing sled embedded database.
 
 ## Video
 

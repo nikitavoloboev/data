@@ -42,3 +42,4 @@
 - [Elegant Emacs](https://github.com/rougier/elegant-emacs) - Minimal consistent vanilla Emacs (i.e. no package) and yet elegant.
 - [Modern Org Style](https://github.com/minad/org-modern)
 - [Denote (denote.el)](https://protesilaos.com/emacs/denote) - Simple Emacs Zettelkasten. ([HN](https://news.ycombinator.com/item?id=32066513))
+- [MELPA](https://github.com/melpa/melpa) - Recipes and build machinery for the biggest Emacs package repo.

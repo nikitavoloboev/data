@@ -33,3 +33,4 @@
 - [Stabilization of gamma sulfur enables 4000 cycle Li-S batteries (2022)](https://www.nature.com/articles/s42004-022-00626-2.pdf) ([HN](https://news.ycombinator.com/item?id=31060183))
 - [Electric Vehicles' Battery Problem (2022)](https://www.youtube.com/watch?v=9dnN82DsQ2k)
 - [Electric vehicle battery capable of 98% charge in less than ten minutes (2022)](https://pv-magazine-usa.com/2022/06/13/electric-vehicle-battery-capable-of-98-charge-in-less-than-ten-minutes/) ([HN](https://news.ycombinator.com/item?id=31734296))
+- [Picking up free lithium cells off the street and making them safe for use (2022)](https://www.atomic14.com/2022/07/16/free-lithium-cells.html) ([HN](https://news.ycombinator.com/item?id=32129478))

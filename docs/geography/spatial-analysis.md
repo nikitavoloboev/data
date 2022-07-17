@@ -233,3 +233,4 @@ title: Spatial analysis
 - [getSpatialData](https://github.com/16EAGLE/getSpatialData) - R package making it easy to query, preview, download and preprocess multiple kinds of spatial data via R.
 - [Priceless](https://priceless.zottelig.ch/) - Simple map showing public and free facilities and offers near you. ([Code](https://github.com/ToastHawaii/priceless-map))
 - [Mapy.cz](https://en.mapy.cz/) - Lesser Known but Awesome Maps. ([HN](https://news.ycombinator.com/item?id=32046130))
+- [GeoIP](https://geoip.pw/) - Geolocation API service -- Run it yourself. ([Code](https://github.com/lrstanley/geoip))

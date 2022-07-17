@@ -37,3 +37,4 @@
 - [MicroBin](https://github.com/szabodanika/microbin) - Tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [Fireshare](https://github.com/ShaneIsrael/fireshare) - Share your game clips, videos, or other media via unique links.
 - [More Oxide at Home: My Pi is a Wireless Crucible (2022)](https://artemis.sh/2022/06/14/oxide-crucible.html)
+- [Cloud From Scratch](https://github.com/technomada/cloud-from-scratch) - Build yourself a private self-hosted full-stack personal cloud system.

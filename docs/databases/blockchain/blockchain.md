@@ -400,3 +400,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Namada](https://github.com/anoma/namada) - Sovereign proof-of-stake blockchain for asset-agnostic interchain privacy. ([Web](https://namada.net/))
 - [Taiga](https://github.com/anoma/taiga) - Platform for private bartering.
 - [DeFi Wallet Core](https://github.com/crypto-com/defi-wallet-core-rs) - Cross-platform, cross-blockchain wallet library in Rust for DeFi Wallet and other applications.
+- [Soulbinding Like a State (2022)](https://subconscious.substack.com/p/soulbinding-like-a-state)

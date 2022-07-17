@@ -18,6 +18,7 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Reflect's Values](https://reflect.site/g/ggjzqzb390loy9dmlguxzru6xahw2/reflect-values-9df387cfc54b48faa01229ed11630ae6) - Speed. Security. Reliability. Less is more.
 - [Dgraph Core Values](https://discuss.dgraph.io/t/dgraph-core-values-v20-05-31/1402)
 - [LIMS Research Principles](https://lims.ac.uk/principles/) ([HN](https://news.ycombinator.com/item?id=30784037))
+- [Nat Friedman's values](https://nat.org/) ([Tweet](https://twitter.com/matthuang/status/1547992956258267138))
 
 ## Team values
 

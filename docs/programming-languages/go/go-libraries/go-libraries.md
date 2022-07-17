@@ -13,6 +13,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Bubble-table](https://github.com/Evertras/bubble-table) - Table component for the Bubble Tea framework.
 - [teacup](https://github.com/knipferrc/teacup) - Collection of bubbles and utilities for bubbletea applications.
 - [Lip Gloss](https://github.com/charmbracelet/lipgloss) - CSS-like layout library for the terminal for Go.
+- [BubbleZone](https://github.com/lrstanley/bubblezone) - Helper utility for BubbleTea, allowing easy mouse event tracking.
 - [Table](https://github.com/calyptia/go-bubble-table) - TUI table component for Bubble Tea applications.
 - [Stickers](https://github.com/76creates/stickers) - Collection of TUI elements, FlexBox and Table at the moment, its build for bubbletea using lipgloss.
 - [cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go.
@@ -1867,3 +1868,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [How to use GoString in Go (2022)](https://articles.orsinium.dev/p/notes-go/gostring)
 - [Go generics are not bad (2022)](https://lemire.me/blog/2022/07/08/go-generics-are-not-bad/) ([HN](https://news.ycombinator.com/item?id=32027855))
 - [go-rocket-update](https://github.com/mouuff/go-rocket-update) - Easy to use and modular library to make self updating Go programs.
+- [Go News Twitter](https://twitter.com/golang_news)
+- [Calling Go Functions from Other Languages using C Shared Libraries](https://github.com/vladimirvivien/go-cshared-examples)
