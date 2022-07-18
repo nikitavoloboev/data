@@ -820,6 +820,7 @@ if err != nil {
 - [Go memory ballast: How I learnt to stop worrying and love the heap (2018)](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap/)
 - [Implementing a simple jq clone in Go, and basics of Go memory profiling (2022)](https://notes.eatonphil.com/implementing-a-jq-clone-in-go.html)
 - [Goscript Internals: Goroutine, pointer and the VM architecture (2022)](https://goscript.dev/posts/goscript_internals_II_the_runtime_a_en)
-- [lensm](https://github.com/loov/lensm) - Go assembly and source viewer.
+- [lensm](https://github.com/loov/lensm) - Go assembly and source viewer. ([HN](https://news.ycombinator.com/item?id=32133394))
 - [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide) ([HN](https://news.ycombinator.com/item?id=32109301))
 - [Favorite Go Hosting Service (2022)](https://www.reddit.com/r/golang/comments/vzbmhl/favorite_go_hosting_service/)
+- [Goof](https://github.com/zeebo/goof) - Lets you call functions in your binary with just the string of their name.

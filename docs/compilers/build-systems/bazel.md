@@ -57,3 +57,4 @@ title: Bazel
 - [Bazel rules for JavaScript](https://github.com/aspect-build/rules_js) - High-performance Bazel rules for running NodeJS tools and building JavaScript projects.
 - [How Bazel Works (2022)](https://sluongng.hashnode.dev/bazel-caching-explained-pt-1-how-bazel-works)
 - [Stardoc](https://github.com/bazelbuild/stardoc) - Documentation generator for Bazel build rules written in Starlark.
+- [Bazel In-Memory Cache](https://sluongng.hashnode.dev/bazel-caching-explained-pt-2-bazel-in-memory-cache)

@@ -243,8 +243,9 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [jammdb](https://github.com/pjtatlow/jammdb) - Embedded, single-file database that allows you to store key / value pairs as bytes.
 - [tectonicdb](https://github.com/0b01/tectonicdb) - Fast, highly compressed standalone database and streaming protocol for order book ticks.
 - [TigerGraph](https://www.tigergraph.com/) - Fast and scalable graph database for the enterprise.
-- [CeresDB](https://github.com/CeresDB/ceresdb) - High-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.
+- [CeresDB](https://github.com/CeresDB/ceresdb) - High-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads. ([Python Client](https://github.com/CeresDB/ceresdb-client-py))
 - [StoneDB](https://github.com/stoneatom/stonedb) - Open-source, MySQL HTAP and MySQL-native database for oltp, real-time analytics. ([Web](https://stonedb.io/))
+- [ClientDB](https://clientdb.dev/) - OS in-memory database for real-time web apps. ([Code](https://github.com/acapela/clientdb))
 
 ## Tools
 
@@ -654,3 +655,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Code in database vs. code in application (2022)](https://brandur.org/fragments/code-database-vs-app) ([Lobsters](https://lobste.rs/s/mr71g6/code_database_vs_code_application))
 - [Dimensional Modeling Techniques - Kimball Group](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/)
 - [ClickBench — Benchmark For Analytical DBMS (Snowflake, Druid, Redshift)](https://benchmark.clickhouse.com/) ([HN](https://news.ycombinator.com/item?id=32084571))
+- [Comparing Popular Time Series Databases (2022)](https://blog.last9.io/time-series-database-comparison/)

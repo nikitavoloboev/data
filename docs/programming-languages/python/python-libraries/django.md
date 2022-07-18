@@ -168,3 +168,4 @@ title: Django
 - [Tetra](https://www.tetraframework.com/) - Full stack reactive component framework for Django using Alpine.js ([Code](https://github.com/samwillis/tetra))
 - [Six things I do every time I start a Django project (2022)](https://brntn.me/blog/six-things-i-do-every-time-i-start-a-django-project/)
 - [Daphne](https://github.com/django/daphne) - Django Channels HTTP/WebSocket server.
+- [Pellet](https://github.com/har777/pellet) - Helps improve your Django app performance by discovering N+1 queries.

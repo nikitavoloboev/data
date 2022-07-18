@@ -65,3 +65,4 @@
 - [YAMLLint](https://github.com/adrienverge/yamllint) - Linter for YAML files.
 - [Ketolang](https://github.com/pushtorefresh/ketolang) - Future of general purpose Сonfiguration languages. Side-effect-less dialect of Kotlin.
 - [Yamale](https://github.com/23andMe/Yamale) - Schema and validator for YAML.
+- [quickenv](https://github.com/untitaker/quickenv) - Unintrusive environment manager.

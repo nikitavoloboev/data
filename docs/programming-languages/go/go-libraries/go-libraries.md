@@ -1870,3 +1870,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-rocket-update](https://github.com/mouuff/go-rocket-update) - Easy to use and modular library to make self updating Go programs.
 - [Go News Twitter](https://twitter.com/golang_news)
 - [Calling Go Functions from Other Languages using C Shared Libraries](https://github.com/vladimirvivien/go-cshared-examples)
+- [nonamedreturns](https://github.com/firefart/nonamedreturns) - Go linter to detect named returns.

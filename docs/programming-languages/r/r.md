@@ -176,3 +176,4 @@
 - [NetCoMi](https://github.com/stefpeschel/NetCoMi) - Network Comparison for Microbial Compositional Data.
 - [R vs. Python for Data Science](https://github.com/matloff/R-vs.-Python-for-Data-Science)
 - [camcorder](https://github.com/thebioengineer/camcorder) - Track and record the ggplots that are created across one or multiple sessions.
+- [rstatix](https://github.com/kassambara/rstatix) - Pipe-friendly Framework for Basic Statistical Tests in R.

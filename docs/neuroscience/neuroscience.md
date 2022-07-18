@@ -135,6 +135,7 @@ The way our brains take input from different senses (eyes, touch) and then decid
 - [NeuroKit2](https://github.com/neuropsychology/NeuroKit) - Python Toolbox for Neurophysiological Signal Processing.
 - [Ten Percent of the Brain Myth](https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth) ([HN](https://news.ycombinator.com/item?id=32072530))
 - [MNE-Python](https://github.com/mne-tools/mne-python) - Python package for exploring, visualizing, and analyzing human neurophysiological data such as MEG, EEG, sEEG, ECoG, and more.
+- [Intro to Neuroscience (2017)](https://www.youtube.com/watch?v=nlSL7Qg7-Po)
 
 ## Images
 

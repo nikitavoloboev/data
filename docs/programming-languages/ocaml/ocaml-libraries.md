@@ -27,6 +27,7 @@ title: OCaml libraries
 - [Crowbar](https://github.com/stedolan/crowbar) - Property fuzzing for OCaml.
 - [qtest](https://github.com/vincent-hugot/qtest) - Inline (Unit) Tests for OCaml.
 - [QCheck](https://github.com/c-cube/qcheck) - Property-based testing for OCaml.
+- [Popper](https://github.com/jobjo/popper) - Property-based testing at ease.
 
 ## Science
 
@@ -215,3 +216,4 @@ title: OCaml libraries
 - [opam-ci](https://github.com/ocurrent/opam-repo-ci) - OCurrent pipeline for testing submissions to opam-repository.
 - [opam2nix](https://github.com/timbertson/opam2nix) - Generate nix expressions from opam packages.
 - [Networking experiments with OCaml 5's effects](https://github.com/TheLortex/networking-experiments)
+- [metaquot](https://github.com/thierry-martinez/metaquot) - OCaml syntax extension for quoting code.

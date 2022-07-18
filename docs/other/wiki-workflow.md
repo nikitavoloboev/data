@@ -329,7 +329,7 @@ I want to:
 - [monotome](https://github.com/cblgh/monotome) - Personal knowledge base system. markdown markup, runs in the browser.
 - [Digital Gardeners](https://nesslabs.com/digital-gardeners) - Small Telegram group for people actively using & building digital gardens. ([Shared notes](https://github.com/digitalgardeners/notes))
 - [Thinking in maps: from the Lascaux caves to knowledge graphs (2020)](https://nesslabs.com/thinking-in-maps)
-- [Trilium Notes](https://github.com/zadam/trilium) - Hierarchical note taking application with focus on building large personal knowledge bases. ([HN](https://news.ycombinator.com/item?id=23335759))
+- [Trilium Notes](https://github.com/zadam/trilium) - Hierarchical note taking application with focus on building large personal knowledge bases. ([HN](https://news.ycombinator.com/item?id=23335759)) ([HN](https://news.ycombinator.com/item?id=32130401))
 - [Ask HN: What is your favorite way to read online content? (2020)](https://news.ycombinator.com/item?id=23340031)
 - [Digital garden Jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
 - [Mathematicians, how do you keep your notes? Why? (2020)](https://www.reddit.com/r/math/comments/gt0adz/mathematicians_how_do_you_keep_your_notes_why/)

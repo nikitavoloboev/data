@@ -21,3 +21,4 @@ title: Bun
 - [Bun gets “bun:FFI” – call native libraries from JavaScript](https://news.ycombinator.com/item?id=32120090)
 - [Bun discord bot](https://github.com/xHyroM/bun-discord-bot) - Official serverless discord bot for bun discord server.
 - [Burm](https://github.com/William-McGonagle/burm) - Simple, fast, reliable Object Relationship Manager for Bun.
+- [Bun Bakery](https://github.com/Kapsonfire-DE/bun-bakery) - Web framework for Bun. It uses a file based router in style like svelte-kit. No need to define routes during runtime.

@@ -875,3 +875,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Perceiver IO: A General Architecture for Structured Inputs & Outputs (2021)](https://arxiv.org/abs/2107.14795) ([Code](https://github.com/minqukanq/perceiver-io))
 - [ML code generation vs. coding by hand: what we think programming will look like (2022)](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future) ([HN](https://news.ycombinator.com/item?id=32098144))
 - [Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning (2021)](https://arxiv.org/abs/2106.02584) ([Code](https://github.com/OATML/non-parametric-transformers))
+- [Recommender Systems course at Polimi](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi)

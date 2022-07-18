@@ -680,6 +680,7 @@
 - [RecipesPipeline](https://github.com/JuliaPlots/RecipesPipeline.jl) - Utilities for processing recipes.
 - [Banyan Julia](https://github.com/banyan-team/banyan-julia) - Suite of libraries for processing big data with familiar Julia APIs.
 - [ExproniconLite](https://github.com/Roger-luo/ExproniconLite.jl) - No fancy pattern matching, no dependencies, Light-weight Expronicon for low latency.
+- [DocumenterTools](https://github.com/JuliaDocs/DocumenterTools.jl) - Extra tools for setting up Documenter.
 
 ## Links
 

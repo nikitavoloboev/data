@@ -984,6 +984,7 @@
 - [OpenTelemetry JavaScript](https://github.com/open-telemetry/opentelemetry-js-contrib) - OpenTelemetry instrumentation for JavaScript modules.
 - [OpenTelemetry API for JavaScript](https://github.com/open-telemetry/opentelemetry-js-api)
 - [Prolly Trees](https://github.com/mikeal/prolly-trees) - Implementation of peer-to-peer search trees (probabalistic b-trees trees) as used in dolt and noms.
+- [abcjs](https://github.com/paulrosen/abcjs) - JavaScript library for rendering standard music notation in a browser.
 
 ## Links
 

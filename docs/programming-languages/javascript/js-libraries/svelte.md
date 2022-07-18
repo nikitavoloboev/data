@@ -277,3 +277,4 @@ title: Svelte
 - [eslint-plugin-svelte](https://github.com/ota-meshi/eslint-plugin-svelte) - ESLint plugin for Svelte.
 - [svelte-fuse-rx](https://github.com/AlexWarnes/svelte-fuse-rx) - Fusing Svelte and RxJS with simple actions and pipeable stores.
 - [Svelte Bun Adapter](https://github.com/gornostay25/svelte-adapter-bun)
+- [svelte-preprocess-esbuild](https://github.com/lukeed/svelte-preprocess-esbuild) - Svelte Preprocessor to compile TypeScript via esbuild.

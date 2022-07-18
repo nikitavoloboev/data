@@ -16,7 +16,7 @@
 - [Bear Stone Smart Home Documentation](https://github.com/CCOSTAN/Home-AssistantConfig)
 - [Roborock](https://en.roborock.com/) - Automatic vacuum cleaner robot.
 - [AppDaemon](https://github.com/AppDaemon/appdaemon) - Python Apps for Home Automation.
-- [ESPHome](https://esphome.io/) - Connect ESP32 with Sensors to HomeAssistant. ([Code](https://github.com/esphome/esphome)) ([HN](https://news.ycombinator.com/item?id=31520229))
+- [ESPHome](https://esphome.io/) - Connect ESP32 with Sensors to HomeAssistant. ([Code](https://github.com/esphome/esphome)) ([HN](https://news.ycombinator.com/item?id=31520229)) ([Web Code](https://github.com/esphome/esphome-docs))
 - [Home Assistant with Google Auth and Assistant (2020)](https://mwitkow.me/posts/2020-04-25_homeassistant_google/)
 - [My IoT](https://github.com/eigenein/my-iot-rs) - Yet another home automation. Written in Rust. ([Docs](https://eigenein.com/my-iot-rs/html/))
 - [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant)

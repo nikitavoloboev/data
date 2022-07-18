@@ -406,3 +406,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Serverless OpenAPI Documentation Plugin](https://github.com/apalchys/serverless-openapi-documentation) - Generates OpenAPI 3.0.0 documentation from serverless configuration files.
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Free Fake REST API. ([Code](https://github.com/typicode/jsonplaceholder))
 - [Zod to OpenAPI](https://github.com/asteasolutions/zod-to-openapi) - Library that generates OpenAPI (Swagger) docs from Zod schemas.
+- [Mokku](https://github.com/mukuljainx/Mokku) - Mock API calls seamlessly.

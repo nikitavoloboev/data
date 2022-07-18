@@ -378,3 +378,4 @@ title: Reinforcement learning
 - [Popular Model-free Reinforcement Learning Algorithms](https://github.com/quantumiracle/Popular-RL-Algorithms)
 - [Designing Arithmetic Circuits with Deep Reinforcement Learning (2022)](https://developer.nvidia.com/blog/designing-arithmetic-circuits-with-deep-reinforcement-learning/)
 - [Synthesis](https://github.com/coreylowman/synthesis) - Rust implementation of AlphaZero algorithm.
+- [CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning (2022)](https://arxiv.org/abs/2207.01780) ([Code](https://github.com/salesforce/CodeRL))

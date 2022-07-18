@@ -242,3 +242,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [The Ones by CW&T](http://theones.cwandt.com/)
 - [What are the most common mistakes developers make when implementing designs you hand off?](https://twitter.com/steveschoger/status/1542528755951861762)
 - [Open Design](https://opendesign.dev/) - Read and display data from designs. Using code. ([SDK Code](https://github.com/opendesigndev/open-design-sdk))
+- [The Design of Everyday Things – Book Summary and Notes (2022)](https://elvischidera.com/2022-06-24-design-everyday-things) ([HN](https://news.ycombinator.com/item?id=32135115))

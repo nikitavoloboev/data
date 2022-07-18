@@ -367,3 +367,5 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [SSO Sync](https://github.com/awslabs/ssosync) - Populate AWS SSO directly with your G Suite users and groups using either a CLI or AWS Lambda.
 - [openrolesanywhere](https://github.com/aidansteele/openrolesanywhere) - Open-source proof-of-concept client for AWS IAM Roles Anywhere.
 - [AWS Cloud Provider for Kubernetes](https://github.com/kubernetes/cloud-provider-aws)
+- [ecspresso](https://github.com/kayac/ecspresso) - Deployment tool for Amazon ECS.
+- [Microservice Observability with Amazon OpenSearch Service Workshop](https://github.com/aws-samples/observability-with-amazon-opensearch)

@@ -558,3 +558,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Is it time to look past Git? (2022)](https://dev.to/yonkeltron/is-it-time-to-look-past-git-ah4) ([Lobsters](https://lobste.rs/s/yi97jn/is_it_time_look_past_git))
 - [What Comes After Git (2022)](https://matt-rickard.com/what-comes-after-git/) ([HN](https://news.ycombinator.com/item?id=31984450))
 - [GitDB](https://github.com/gogitdb/gitdb) - Distributed embeddable database on top of Git. ([HN](https://news.ycombinator.com/item?id=31987240))
+- [In Praise of Stacked PRs (2022)](https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/) ([Lobsters](https://lobste.rs/s/4zjln3/praise_stacked_prs))

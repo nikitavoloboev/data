@@ -140,3 +140,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [pipe-rename](https://github.com/marcusbuffett/pipe-rename) - Rename your files using your favorite text editor.
 - [Backpack](https://github.com/rusty-ferris-club/backpack) - Use template and starter projects easily.
 - [tere](https://github.com/mgunyho/tere) - Faster Alternative to cd+ls. ([HN](https://news.ycombinator.com/item?id=32106126))
+- [bin](https://github.com/marcosnils/bin) - Manages binary files downloaded from different sources.

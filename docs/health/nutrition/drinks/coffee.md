@@ -69,3 +69,4 @@
 - [Good french press machines (2022)](https://twitter.com/codebytere/status/1507652665714618371)
 - [Experiences running a coffee shop (2022)](https://www.reddit.com/r/AskMenOver30/comments/uhqtfa/whats_your_experience_running_a_cofffe_shop/)
 - [Coffee Quality Institute Database](https://github.com/jldbc/coffee-quality-database)
+- [The case for bad coffee (2015)](https://www.seriouseats.com/the-case-for-bad-coffee) ([HN](https://news.ycombinator.com/item?id=32130906))

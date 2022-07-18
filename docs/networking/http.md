@@ -281,3 +281,4 @@ title: HTTP
 - [A study of HTTP/2's Server Push Performance Potential (2022)](https://arxiv.org/abs/2207.05885)
 - [Cornichon](https://github.com/agourlay/cornichon) - Scala DSL for testing HTTP JSON API.
 - [dlm](https://github.com/agourlay/dlm) - Minimal HTTP download manager.
+- [socks-proxy-agent](https://github.com/TooTallNate/node-socks-proxy-agent) - SOCKS proxy http.Agent implementation for HTTP and HTTPS.

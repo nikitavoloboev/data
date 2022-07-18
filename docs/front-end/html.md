@@ -277,3 +277,4 @@ Hi<div>oh no break</div>
 - [Two levels of customising \<selectmenu\> (2022)](https://hidde.blog/custom-select-with-selectmenu/)
 - [Muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go.
 - [Avoiding \<img\> layout shifts: aspect-ratio vs width & height attributes](https://jakearchibald.com/2022/img-aspect-ratio/)
+- [Able Player](https://github.com/ableplayer/ableplayer) - Fully accessible cross-browser HTML5 media player.

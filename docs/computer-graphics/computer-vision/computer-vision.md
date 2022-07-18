@@ -853,3 +853,6 @@
 - [Rethinking Space-Time Networks with Improved Memory Coverage for Efficient Video Object Segmentation (2021)](https://arxiv.org/abs/2106.05210) ([Code](https://github.com/hkchengrex/STCN))
 - [Deformable Sprites for Unsupervised Video Decomposition (2022)](https://arxiv.org/abs/2204.07151) ([Code](https://github.com/vye16/deformable-sprites))
 - [Topologically-Aware Deformation Fields for Single-View 3D Reconstruction (2022)](https://arxiv.org/abs/2205.06267) ([Code](https://github.com/ShivamDuggal4/TARS3D))
+- [Multimodal Transformer with Variable-length Memory for Vision-and-Language Navigation (2021)](https://arxiv.org/abs/2111.05759) ([Code](https://github.com/clin1223/MTVM))
+- [Refign: Align and Refine for Adaptation of Semantic Segmentation to Adverse Conditions (2022)](https://arxiv.org/abs/2207.06825) ([Code](https://github.com/brdav/refign))
+- [Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry (2021)](https://arxiv.org/abs/2112.08177) ([Code](https://github.com/baegwangbin/MaGNet))

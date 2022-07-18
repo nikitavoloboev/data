@@ -574,6 +574,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ioc](https://github.com/owja/ioc) - Lightweight (<1kb) inversion of controlJS library for dependency injection.
 - [Transmat](https://github.com/google/transmat) - Share data beyond the browser boundaries. Enable users to transfer data to external apps, and open your web app to receive external data.
 - [Cron-Time](https://github.com/trapcodeio/cron-time) - Cron Time Expression Generator/Builder written in Typescript.
+- [evalish](https://github.com/kitten/evalish) - Slightly safer-ish wrapper around eval Function constructors.
 
 ## Links
 

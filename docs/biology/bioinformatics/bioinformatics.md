@@ -227,3 +227,5 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Awesome Molecular Generation](https://github.com/amorehead/awesome-molecular-generation)
 - [Geometric Transformers for Protein Interface Contact Prediction (2022)](https://openreview.net/forum?id=CS4463zx6Hi) ([Code](https://github.com/BioinfoMachineLearning/DeepInteract))
 - [DIPS-Plus: The Enhanced Database of Interacting Protein Structures for Interface Prediction (2021)](https://arxiv.org/abs/2106.04362) ([Code](https://github.com/BioinfoMachineLearning/DIPS-Plus))
+- [Carina](https://github.com/lazear/carina) - Fast proteomics search engine in 1000 lines of code.
+- [Cluster Tools](https://github.com/constantinpape/cluster_tools) - Distributed segmentation for bio-image-analysis.

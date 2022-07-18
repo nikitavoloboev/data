@@ -234,3 +234,4 @@
 - [Interactive Surface Flow in Taichi](https://github.com/yhesper/TaichiSimplicialFluid)
 - [Visualizing Delaunay Triangulation (2022)](https://ianthehenry.com/posts/delaunay/)
 - [stdg](https://github.com/calebwin/stdg) - 2D graphics in any programming language with just print statements.
+- [Hex-Tiling Demo](https://github.com/mmikk/hextile-demo)

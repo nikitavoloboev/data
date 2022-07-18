@@ -2035,6 +2035,8 @@
 - [lockfree-cuckoohash](https://github.com/datenlord/lockfree-cuckoohash) - Rust implementation of lock free cuckoo hashmap.
 - [stack_dst](https://github.com/thepowersgang/stack_dst-rs) - Inline (aka stack-allocated) dynamically-sized types, and collections of dynamically-sized types using the same logic.
 - [econf](https://github.com/YushiOMOTE/econf) - Loads environment variables into your structs in one shot.
+- [BGPKIT Parser](https://github.com/bgpkit/bgpkit-parser) - MRT/BGP data parser written in Rust.
+- [jsc-rs](https://github.com/Brooooooklyn/jsc-rs) - JavaScript core Rust safe binding.
 
 ## Cargo Plugins
 
