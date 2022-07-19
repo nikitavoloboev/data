@@ -191,3 +191,5 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Paperlib](https://github.com/GeoffreyChen777/paperlib) - Open-source simple academic paper management tool for computer science. ([Web](https://paperlib.app/en/))
 - [What specific scientific paper you can link to most contradicted your prior belief and made you 180° to a new one? (2022)](https://twitter.com/nickcammarata/status/1543942927952580608)
 - [Papers for Software Engineers](https://github.com/facundoolano/software-papers/)
+- [Davis Blalock Summarizes Papers](https://dblalock.substack.com/)
+- [Deep Learning Papers Are Kinda Bullsh-T (2022)](https://dagshub.com/blog/unraveling-the-deep-learning-reproducibility-crisis/)

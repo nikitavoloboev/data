@@ -10,7 +10,7 @@
 - [Koa](https://koajs.com/#introduction) - Smaller, more expressive, and more robust foundation for web applications and APIs. ([Code](https://github.com/koajs/koa)) ([koa-ts](https://github.com/unix/koa-ts))
 - [Umi](https://github.com/umijs/umi) - Pluggable enterprise-level react application framework.
 - [Vue.js](https://vuejs.org/) - Progressive JavaScript Framework.
-- [Mithril](https://mithril.js.org/) - Modern client-side Javascript framework for building Single Page Applications. ([HN](https://news.ycombinator.com/item?id=25800754))
+- [Mithril](https://mithril.js.org/) - Modern client-side JavaScript framework for building Single Page Applications. ([HN](https://news.ycombinator.com/item?id=25800754))
 - [Neutrino dev](https://github.com/mozilla-neutrino/neutrino-dev)
 - [Alpine.js](https://github.com/alpinejs/alpine) - Rugged, minimal framework for composing JavaScript behavior in your markup. ([Awesome Alpine](https://github.com/alpine-collective/awesome)) ([HN](https://news.ycombinator.com/item?id=27707887)) ([Web](https://alpinejs.dev/)) ([Docs](https://alpinejs.dev/start-here))
 - [After.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4.
@@ -985,6 +985,7 @@
 - [OpenTelemetry API for JavaScript](https://github.com/open-telemetry/opentelemetry-js-api)
 - [Prolly Trees](https://github.com/mikeal/prolly-trees) - Implementation of peer-to-peer search trees (probabalistic b-trees trees) as used in dolt and noms.
 - [abcjs](https://github.com/paulrosen/abcjs) - JavaScript library for rendering standard music notation in a browser.
+- [object-sizeof](https://github.com/miktam/sizeof) - Get size of a JavaScript object.
 
 ## Links
 

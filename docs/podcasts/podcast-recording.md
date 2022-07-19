@@ -43,3 +43,4 @@
 - [Podcasting Resources](https://github.com/filmgirl/podcasting-resources)
 - [So You Want To Make A Fiction Podcast? (2021)](http://www.0atman.com/articles/21/make-fiction-podcast)
 - [Teapodo](https://teapodo.com/) - Lightweight Audio Editor. Fast audio editor for podcasting. ([HN](https://news.ycombinator.com/item?id=31905554))
+- [What I Learned in a Year of Podcasting (2022)](https://www.chris-kipp.io/blog/what-i-learned-in-a-year-of-podcasting)

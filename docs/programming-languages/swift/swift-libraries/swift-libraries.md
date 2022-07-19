@@ -1200,6 +1200,8 @@
 - [ConcurrencyPlus](https://github.com/ChimeHQ/ConcurrencyPlus) - Utilities for working with Swift Concurrency.
 - [Algorithms on Sequences](https://github.com/fwcd/swift-algorithms-on-sequences) - Various string search algorithms for Swift.
 - [Swift Unidirectional Flow](https://github.com/mecid/swift-unidirectional-flow) - Unidirectional flow implemented using the latest Swift Generics and Swift Concurrency features.
+- [ELMaestro](https://github.com/Electrode-iOS/ELMaestro) - Swift framework that provides a plugin system for iOS apps.
+- [SwiftBitset](https://github.com/lemire/SwiftBitset) - Bitset class in Swift for fast and concise set operations over integers.
 
 ## Other (not lib)
 

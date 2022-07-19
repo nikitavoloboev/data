@@ -11,3 +11,4 @@
 - [Jetson](https://www.jetsonaero.com/) - Personal Electric Aerial Vehicle. ([Tweet](https://twitter.com/elidourado/status/1452642288966963201))
 - [YSFlight](https://ysflight.org/) - Free flight simulator where anything is possible. ([HN](https://news.ycombinator.com/item?id=30299850))
 - [Hermeus](https://www.hermeus.com/) - Mach 5 aircraft. ([Twitter](https://twitter.com/hermeuscorp))
+- [See Thru Jet Engine (2022)](https://www.youtube.com/watch?v=MgL0GW248mE) ([HN](https://news.ycombinator.com/item?id=32145297))

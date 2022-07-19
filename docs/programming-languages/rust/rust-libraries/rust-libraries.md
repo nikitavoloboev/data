@@ -558,6 +558,7 @@
 - [Classic McEliece](https://github.com/Colfenor/classic-mceliece-rust) - Safe pure-rust implementation of the Classic McEliece post-quantum scheme.
 - [stream ciphers](https://github.com/RustCrypto/stream-ciphers) - Collection of stream cipher algorithms.
 - [ed25519-speccheck](https://github.com/novifinancial/ed25519-speccheck) - Test cases for EdDSA signature verification edge cases.
+- [bls12_381](https://github.com/zkcrypto/bls12_381) - Implementation of the BLS12-381 pairing-friendly elliptic curve group.
 
 ## Linux
 
@@ -2037,6 +2038,7 @@
 - [econf](https://github.com/YushiOMOTE/econf) - Loads environment variables into your structs in one shot.
 - [BGPKIT Parser](https://github.com/bgpkit/bgpkit-parser) - MRT/BGP data parser written in Rust.
 - [jsc-rs](https://github.com/Brooooooklyn/jsc-rs) - JavaScript core Rust safe binding.
+- [Apalis](https://github.com/geofmureithi/apalis) - Simple, extensible multithreaded background job processing library for Rust.
 
 ## Cargo Plugins
 
@@ -2124,6 +2126,7 @@
 - [Cargo Commander](https://github.com/adaptive-simon/cargo-commander) - Simple way of running commands.
 - [cargo-run-bin](https://github.com/dustinblackman/cargo-run-bin) - Build, cache, and run binaries scoped in Cargo.toml rather than installing globally.
 - [cargo-i18n](https://github.com/kellpossible/cargo-i18n) - Rust Cargo sub-command and libraries to extract and build localization resources to embed in your application/library.
+- [cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - Find potential unused enabled feature flags and prune them.
 
 ## Notes
 

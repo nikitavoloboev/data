@@ -19,6 +19,7 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Avatar](https://github.com/staticallyio/avatar) - Simple, beautiful, and high-quality avatar service on Cloudflare Workers. ([Web](https://statically.io/))
 - [Using Cloudflare Workers to proxy dev.to blog via API](https://github.com/brycedorn/blog)
 - [End-to-end encrypted chat demo using Cloudflare Workers and Durable Objects](https://github.com/zmxv/cf-e2eechat)
+- [Pastebin Worker](https://github.com/SharzyL/pastebin-worker) - Pastebin based on Cloudflare worker, with friendly CLI usage and rich features. ([Web](https://shz.al/))
 
 ## Notes
 
@@ -185,3 +186,5 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [D1 Console](https://github.com/isaac-mcfadyen/d1-console) - Full query console for Cloudflare's D1 database product.
 - [wjson](https://github.com/azurydev/wjson) - Configure Wrangler in the format of your choice.
 - [Support for WASI on Cloudflare Workers (2022)](https://blog.cloudflare.com/announcing-wasi-on-workers/)
+- [Open Telemetry SDK for Cloudflare Workers](https://github.com/RichiCoder1/opentelemetry-sdk-workers) - Library for adding tracing and logging to Cloudflare Workers.
+- [Workers Loki Logger](https://github.com/SirCremefresh/workers-loki-logger) - Logger for the Cloudflare workers environment that sends the logs to grafana loki.

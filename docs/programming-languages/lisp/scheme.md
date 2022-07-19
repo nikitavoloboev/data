@@ -100,3 +100,4 @@ title: Scheme
 - [MIT Scheme Documentation](https://groups.csail.mit.edu/mac/ftpdir/scheme-7.5/7.5.17/doc-html/)
 - [The Why of Y](https://dreamsongs.com/Files/WhyOfY.pdf)
 - [scheme.rs](https://scheme.rs/) - Revised Report on the Algorithmic Language Scheme.
+- [Schemepunk](https://github.com/ar-nelson/schemepunk) - Kitchen-sink utility library for several R7RS Scheme dialects.

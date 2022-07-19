@@ -53,3 +53,4 @@ I prefer more [data oriented programming](https://www.reddit.com/r/Zig/comments/
 - [Learn Object Oriented Programming Basics in 30 Minutes: A Free Crash Course (2020)](https://www.freecodecamp.org/news/object-oriented-programming-crash-course/)
 - [The Essence of Inheritance (2016)](https://arxiv.org/pdf/1601.02059.pdf)
 - [Case against OOP is understated, not overstated (2020)](https://boxbase.org/entries/2020/aug/3/case-against-oop/) ([HN](https://news.ycombinator.com/item?id=30293622))
+- [Is OOP Evil? (2022)](https://www.youtube.com/watch?v=YpJufWdZFB8)

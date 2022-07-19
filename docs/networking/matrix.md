@@ -109,3 +109,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [Quadrix](https://github.com/alariej/quadrix) - Minimal, simple, multi-platform chat client for the Matrix protocol.
 - [Matrix notes (2022)](https://anarc.at/blog/2022-06-17-matrix-notes/)
 - [matrix-commander](https://github.com/8go/matrix-commander) - Simple but convenient CLI-based Matrix client app for sending and receiving.
+- [Threematrix](https://github.com/bitbetterde/Threematrix) - Messenger bridge between Threema and Matrix.

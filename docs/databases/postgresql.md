@@ -485,7 +485,7 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [parquet_fdw](https://github.com/adjust/parquet_fdw) - Parquet foreign data wrapper for PostgreSQL.
 - [Schemalint](https://github.com/kristiandupont/schemalint) - Run linting rules on your database schema. Works with Postgres databases.
 - [pgoutput](https://github.com/kyleconroy/pgoutput) - Postgres logical replication in Go.
-- [Snaplet](https://www.snaplet.dev/) - Copies a production database, transforming personal information so that developers can safely code against actual data. ([Twitter](https://twitter.com/_snaplet))
+- [Snaplet](https://www.snaplet.dev/) - Copies a production database, transforming personal information so that developers can safely code against actual data. ([Twitter](https://twitter.com/_snaplet)) ([Docs](https://docs.snaplet.dev/)) ([Docs Code](https://github.com/snaplet/docs))
 - [Postgres JSON Schema](https://github.com/gavinwahl/postgres-json-schema) - JSON Schema validation for PostgreSQL.
 - [pglookout](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard.

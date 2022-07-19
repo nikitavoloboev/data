@@ -681,6 +681,9 @@
 - [Banyan Julia](https://github.com/banyan-team/banyan-julia) - Suite of libraries for processing big data with familiar Julia APIs.
 - [ExproniconLite](https://github.com/Roger-luo/ExproniconLite.jl) - No fancy pattern matching, no dependencies, Light-weight Expronicon for low latency.
 - [DocumenterTools](https://github.com/JuliaDocs/DocumenterTools.jl) - Extra tools for setting up Documenter.
+- [Virtual](https://github.com/thautwarm/Virtual.jl) - Virtual call in Julia, and calls are de-virtualized if possible.
+- [Jl2Py](https://github.com/lucifer1004/Jl2Py.jl) - Transpile from Julia to Python.
+- [ObjectOriented](https://github.com/Suzhou-Tongyuan/ObjectOriented.jl) - Mechanical OOP programming library for Julia.
 
 ## Links
 

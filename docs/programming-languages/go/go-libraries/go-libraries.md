@@ -1745,6 +1745,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [py4go](https://github.com/tliron/py4go) - Tight bidirectional integration between Go and Python.
 - [Marshmallow](https://github.com/PerimeterX/marshmallow) - JSON unmarshalling library for flexible use cases like some known and some unknown fields, or prevention of data loss. ([Reddit](https://www.reddit.com/r/golang/comments/vxxs7y/marshmallow_a_json_unmarshalling_library_for/))
 - [filclient](https://github.com/application-research/filclient) - Standalone client library for interacting with the filecoin storage network.
+- [Liquid](https://github.com/osteele/liquid) - Liquid template engine in Go.
+- [lrmr](https://github.com/ab180/lrmr) - Online MapReduce framework for Go, which is capable for jobs in sub-second.
+- [fsync](https://github.com/spf13/fsync) - Keeps files or directories in sync.
 
 ## Links
 

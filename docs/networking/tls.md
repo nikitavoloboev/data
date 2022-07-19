@@ -101,3 +101,4 @@ title: TLS
 - [TLS-Scanner](https://github.com/tls-attacker/TLS-Scanner) - Tool to assist pentesters and security researchers in the evaluation of TLS Server configurations.
 - [TLSX](https://github.com/projectdiscovery/tlsx) - Fast and configurable TLS grabber focused on TLS based data collection and analysis.
 - [Bertie](https://github.com/cryspen/bertie) - Minimal, high-assurance implementation of TLS 1.3 written in subset of Rust called hacspec.
+- [Picotls](https://github.com/h2o/picotls) - TLS 1.3 implementation in C.

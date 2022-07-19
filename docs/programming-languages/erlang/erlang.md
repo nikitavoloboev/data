@@ -164,3 +164,4 @@ title: Erlang
 - [The hunt for a cluster-killer Erlang bug (2021)](https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81) ([HN](https://news.ycombinator.com/item?id=31746090))
 - [My favorite Erlang Container (2022)](https://ferd.ca/my-favorite-erlang-container.html) ([HN](https://news.ycombinator.com/item?id=32043460))
 - [N2O](https://github.com/synrc/n2o) - Embeddable message protocol loop library for WebSocket, HTTP, MQTT and TCP servers.
+- [epgsql](https://github.com/epgsql/epgsql) - Erlang PostgreSQL client library.

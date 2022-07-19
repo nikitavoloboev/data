@@ -124,3 +124,5 @@ Looking into [Railway](https://railway.app/) & [Cloudflare](https://www.cloudfla
 - [pubsub_sendmail](https://github.com/GoogleCloudPlatform/cloud-pubsub-sendmail) - Send emails from Google Cloud Pub/Sub events.
 - [bqtail](https://github.com/viant/bqtail) - BigQuery Google Storage Based Data Loader.
 - [Networking 101 GCP sheet](https://github.com/jesuispy/networking-101-gcp-sheet)
+- [Proof of concept use Cloud Run to deploy a SQL database on demand](https://github.com/guillaumeblaquiere/serverless-sql)
+- [spanner-truncate](https://github.com/cloudspannerecosystem/spanner-truncate) - Tool to delete all rows from the tables in a Cloud Spanner database without deleting tables themselves.

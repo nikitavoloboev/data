@@ -41,3 +41,4 @@ title: Optical character recognition
 - [Tesseract WASM](https://github.com/robertknight/tesseract-wasm) - WebAssembly build of the Tesseract OCR engine for use in the browser and Node.
 - [tinyocr](https://github.com/jackrusher/tinyocr) - Tiny command line OCR utility for recent versions of MacOS.
 - [Our search for the best OCR tool (2019)](https://source.opennews.org/articles/so-many-ocr-options/) ([HN](https://news.ycombinator.com/item?id=32053525))
+- [Building an OCR solution for document analysis with AWS Textract and AWS StepFunctions](https://github.com/gabrieltorreswm/poc-pdf-textract)

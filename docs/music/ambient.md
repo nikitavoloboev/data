@@ -39,3 +39,4 @@ Most if not all songs in my [Focus](https://open.spotify.com/playlist/0ESjwZeTcH
 - [Nightwave Plaza](https://plaza.one/) - Online Vaporwave Radio.
 - [Lofi.co](https://lofi.co/) - Relax & Focus. ([HN](https://news.ycombinator.com/item?id=31470928))
 - [Earth.fm](https://earth.fm/) - Like Spotify, but for natural soundscapes.
+- [Flowful](https://www.flowful.app/) - Ambient music generators that run in your browser. ([HN](https://news.ycombinator.com/item?id=32149989))

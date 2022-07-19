@@ -59,3 +59,4 @@ title: TLA+
 - [Fixing a MongoDB Replication Protocol Bug with TLA+ (2019)](http://tla.msr-inria.inria.fr/kuppe/2019conf/06%20-%20William%20Schultz%20-%20Strangeloop%20TLA+%20Conference%202019%20Talk.pdf)
 - [TLA+ Video Course (2021)](https://lamport.azurewebsites.net/video/videos.html)
 - [Using TLA+ to understand Xen vchan (2019)](http://roscidus.com/blog/blog/2019/01/01/using-tla-plus-to-understand-xen-vchan/) ([Code](https://github.com/talex5/spec-vchan))
+- [VSCode TLA+](https://github.com/tlaplus/vscode-tlaplus)

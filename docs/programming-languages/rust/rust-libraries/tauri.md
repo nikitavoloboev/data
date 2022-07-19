@@ -4,6 +4,10 @@ title: Tauri
 
 # [Tauri](https://tauri.studio/)
 
+## OSS Tauri apps
+
+- [TaurApp](https://github.com/erayerdin/taurapp) - WhatsApp desktop client powered by Tauri and Rust.
+
 ## Links
 
 - [Create a Simple Desktop App Using Vite, React, and Tauri.js (2022)](https://www.agallio.xyz/post/simple-desktop-app-tauri/) ([Code](https://github.com/agallio/simple-desktop-app-tauri))
@@ -16,3 +20,4 @@ title: Tauri
 - [HN: Tauri Version 1 (2022)](https://news.ycombinator.com/item?id=31764015)
 - [Example project of a Tauri app using SvelteKit to build the front end](https://github.com/Stijn-B/tauri-sveltekit-example)
 - [Tauri-Swift](https://github.com/lorenzolewis/tauri-swift)
+- [Create Tauri App](https://github.com/tauri-apps/create-tauri-app)

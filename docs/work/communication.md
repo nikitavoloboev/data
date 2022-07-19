@@ -198,3 +198,4 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [flat.social](https://flat.social/) - Fun video meeting app with 2D physics and proximity chat. ([HN](https://news.ycombinator.com/item?id=31833415))
 - [Crucial Conversations: Tools for Talking When Stakes Are High by Kerry Patterson](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 - [The 37signals Guide to Internal Communication](https://37signals.com/how-we-communicate)
+- [Building friend catchers (2022)](https://ferrucc.io/posts/friendcatchers/) ([HN](https://news.ycombinator.com/item?id=32135604))

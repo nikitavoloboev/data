@@ -166,3 +166,4 @@
 - [The Problem With Elixir’s `with` (2022)](http://stratus3d.com/blog/2022/06/01/the-problem-with-elixirs-with/)
 - [What do you not like about Elixir? (2022)](https://www.reddit.com/r/elixir/comments/v58tpg/what_do_you_not_like_about_elixir/)
 - [How We Use Property Testing (2022)](https://pspdfkit.com/blog/2022/how-we-use-property-testing/)
+- [Writing Predictable Elixir Code with Reducers (2022)](https://blog.appsignal.com/2022/07/19/writing-predictable-elixir-code-with-reducers.html)

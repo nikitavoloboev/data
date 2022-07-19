@@ -50,3 +50,4 @@
 - [Flexport](https://www.flexport.com/) - Technology Platform for Global Logistics.
 - [3D Diagrams of London Underground Stations](https://www.ianvisits.co.uk/articles/3d-maps-of-every-underground-station-ab-14630/) ([HN](https://news.ycombinator.com/item?id=31881625))
 - [The fragmented nature of modern-day railways (2022)](https://hackaday.com/2022/06/23/grain-stuck-in-the-ukraine-the-fragmented-nature-of-modern-day-railways/) ([HN](https://news.ycombinator.com/item?id=31857210))
+- [I Hacked My Car Guides: Creating Custom Firmware (2022)](https://programmingwithstyle.com/posts/howihackedmycarguidescreatingcustomfirmware/) ([HN](https://news.ycombinator.com/item?id=32147445))

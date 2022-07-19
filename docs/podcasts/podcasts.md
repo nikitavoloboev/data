@@ -237,3 +237,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podcast RSS for Node](https://github.com/maxnowack/node-podcast) - Fast and simple Podcast RSS generator/builder for Node projects. Supports enclosures and GeoRSS.
 - [podcast](https://github.com/njaremko/podcast) - Command line podcast manager and player.
 - [Podbay](https://podbay.fm/) - Fastest and easiest podcast player designed for the web.
+- [Podcastmix](https://github.com/MTG/PodcastMix-inference) - Dataset for separating music and speech in podcasts.

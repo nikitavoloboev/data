@@ -16,6 +16,7 @@ title: Bun
 - [Create Bun Boilerplates](https://github.com/guocaoyi/create-bun) - Scaffolding your bun project boilerplate.
 - [Awesome Bun](https://github.com/hisamafahri/awesome-bun)
 - [Awesome Bun 2](https://github.com/one-aalam/awesome-bun)
+- [Awesome Bun 3](https://github.com/apvarun/awesome-bun)
 - [Jarred Sumner Interview (2022)](https://youtu.be/FOsJ4JfpSRU?t=4463)
 - [bun-utilities](https://github.com/xHyroM/bun-utilities) - Bindings for useful functions for bun.
 - [Bun gets “bun:FFI” – call native libraries from JavaScript](https://news.ycombinator.com/item?id=32120090)

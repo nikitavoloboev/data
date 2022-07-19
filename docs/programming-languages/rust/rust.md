@@ -388,7 +388,7 @@ title: Rust
 - [Rust Forge](https://forge.rust-lang.org/#rust-forge) - Information useful to people contributing to Rust. ([Code](https://github.com/rust-lang/rust-forge))
 - [Exploring PGO for the Rust compiler (2020)](https://blog.rust-lang.org/inside-rust/2020/11/11/exploring-pgo-for-the-rust-compiler.html)
 - [Managing Rust bloat with Github Actions (2020)](https://tomforb.es/managing-rust-bloat-with-github-actions/)
-- [Rust Performance Book](https://nnethercote.github.io/perf-book/) ([Code](https://github.com/nnethercote/perf-book)) ([HN](https://news.ycombinator.com/item?id=25122178))
+- [Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html) ([Code](https://github.com/nnethercote/perf-book)) ([HN](https://news.ycombinator.com/item?id=25122178))
 - [Rust Search Extension](https://rust.extension.sh/) - Search docs, crates, builtin attributes, official books, and error codes, etc in your address bar instantly. ([Code](https://github.com/huhu/rust-search-extension))
 - [40 Ms Bug (2020)](https://vorner.github.io/2020/11/06/40-ms-bug.html) - Small story about tracking down a production bug in a Rust application. ([Lobsters](https://lobste.rs/s/u9oi5p/40_millisecond_bug))
 - [Demystifying Asynchronous Rust](https://teh-cmc.github.io/rust-async/html/) ([Code](https://github.com/teh-cmc/rust-async))

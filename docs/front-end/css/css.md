@@ -535,3 +535,5 @@ all: unset
 - [Bramus Van Damme | The CSS Cascade, a deep dive (2022)](https://www.youtube.com/watch?v=zEPXyqj7pEA)
 - [swc/css](https://github.com/swc-project/css) - SWC CSS binding.
 - [The CSS behind Figma (2022)](https://ishadeed.com/article/figma-css/)
+- [Want your layouts to look Great? Try Adding DEPTH (2022)](https://www.youtube.com/watch?v=evqUWEh46AA)
+- [CSS Scan](https://getcssscan.com/) - Fast and easy way to check and copy CSS. ([HN](https://news.ycombinator.com/item?id=32150308))

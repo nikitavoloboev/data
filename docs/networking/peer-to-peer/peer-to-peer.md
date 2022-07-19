@@ -125,3 +125,4 @@
 - [Ataraxia](https://github.com/aholstenson/ataraxia) - P2P messaging over mesh networks for NodeJS and browsers.
 - [P2P super collider](https://github.com/socketsupply/p2p-supercollider)
 - [libp2p-perf](https://github.com/mxinden/libp2p-perf) - iPerf equivalent for the libp2p ecosystem.
+- [Osmosis](https://github.com/ar-nelson/osmosis-js) - In-process JSON database with automatic peer-to-peer background synchronization between devices on a local network.

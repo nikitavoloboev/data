@@ -229,3 +229,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [DIPS-Plus: The Enhanced Database of Interacting Protein Structures for Interface Prediction (2021)](https://arxiv.org/abs/2106.04362) ([Code](https://github.com/BioinfoMachineLearning/DIPS-Plus))
 - [Carina](https://github.com/lazear/carina) - Fast proteomics search engine in 1000 lines of code.
 - [Cluster Tools](https://github.com/constantinpape/cluster_tools) - Distributed segmentation for bio-image-analysis.
+- [BCALM](https://github.com/GATB/bcalm) - Bioinformatics tool for constructing the compacted de Bruijn graph from sequencing data.

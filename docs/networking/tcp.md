@@ -95,3 +95,4 @@ title: TCP
 - [moproxy](https://github.com/sorz/moproxy) - Transparent TCP to SOCKSv5/HTTP proxy on Linux written in Rust.
 - [tproxy](https://github.com/kevwan/tproxy) - CLI tool to proxy and analyze TCP connections.
 - [Optimizing TCP for high WAN throughput while preserving low latency (2022)](https://blog.cloudflare.com/optimizing-tcp-for-high-throughput-and-low-latency/)
+- [redsocks](https://github.com/darkk/redsocks) - Transparent TCP-to-proxy redirector.

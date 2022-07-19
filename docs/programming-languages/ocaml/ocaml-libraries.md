@@ -201,6 +201,7 @@ title: OCaml libraries
 - [Kai](https://github.com/RedPRL/kai) - Library for handling compiler diagnostics and span-associated metadata.
 - [midi](https://github.com/lelomtf/midi) - Experimenting with midi in OCaml.
 - [gen_js_api](https://github.com/LexiFi/gen_js_api) - Easy OCaml bindings for JavaScript libraries.
+- [metapp](https://github.com/thierry-martinez/metapp) - Meta-preprocessor for OCaml.
 
 ## Links
 

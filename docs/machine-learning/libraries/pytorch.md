@@ -426,3 +426,5 @@ title: PyTorch
 - [Torchsort](https://github.com/teddykoker/torchsort) - Fast, differentiable sorting and ranking in PyTorch.
 - [FL_PyTorch](https://github.com/burlachenkok/flpytorch) - Optimization Research Simulator for Federated Learning.
 - [PyTorch TestInfra](https://github.com/pytorch/test-infra) - Infrastructure components that are supporting the PyTorch CI/CD system.
+- [TorchScene](https://github.com/MLSysOps/TorchScene) - Scene recognition tool based on PyTorch. Provide training, test and deployment functions, as well as many pretrained models.
+- [torchimize](https://github.com/hahnec/torchimize) - Numerical optimization algorithms in PyTorch.

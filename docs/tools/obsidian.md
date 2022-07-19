@@ -176,6 +176,8 @@ div.CodeMirror-cursor,
 - [Obsidian GPT](https://github.com/jmilldotdev/obsidian-gpt) - Text completions via GPT-J.
 - [Obsidian Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Grabs information from Wikipedia for a topic and brings it into Obsidian notes.
 - [Obsidian OCR](https://github.com/MohrJonas/obsidian-ocr) - Allows you to search for text in your images and PDFs. ([Reddit](https://www.reddit.com/r/ObsidianMD/comments/vvqfqj/presenting_obsidian_ocr/))
+- [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) - Plugin for Obsidian that aims to make typesetting LaTeX math as fast as handwriting.
+- [TikZJax](https://github.com/artisticat1/obsidian-tikzjax) - Plugin for Obsidian that lets you render LaTeX and TikZ diagrams in your notes.
 
 ## Themes
 

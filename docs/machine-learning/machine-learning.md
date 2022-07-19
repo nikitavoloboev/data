@@ -876,3 +876,6 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [ML code generation vs. coding by hand: what we think programming will look like (2022)](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future) ([HN](https://news.ycombinator.com/item?id=32098144))
 - [Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning (2021)](https://arxiv.org/abs/2106.02584) ([Code](https://github.com/OATML/non-parametric-transformers))
 - [Recommender Systems course at Polimi](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi)
+- [A General Recipe for Likelihood-free Bayesian Optimization (2022)](https://arxiv.org/abs/2206.13035) ([Code](https://github.com/lfbo-ml/lfbo))
+- [Generative Coarse-Graining of Molecular Conformations (2022)](https://arxiv.org/abs/2201.12176) ([Code](https://github.com/wwang2/CoarseGrainingVAE))
+- [Thoughts on ML Engineering After a Year of My PhD (2022)](https://www.shreya-shankar.com/phd-year-one/) ([HN](https://news.ycombinator.com/item?id=32147219))

@@ -167,3 +167,4 @@ title: Quantum computing
 - [Awesome Qiskit presentations](https://github.com/qiskit-community/qiskit-presentations)
 - [Qiskit Machine Learning](https://github.com/Qiskit/qiskit-machine-learning) - Quantum Machine Learning.
 - [Quantum Algorithm Implementations for Beginners (2022)](https://dl.acm.org/doi/10.1145/3517340) ([HN](https://news.ycombinator.com/item?id=31775580))
+- [Introduction to Classical and Quantum Computing](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) ([HN](https://news.ycombinator.com/item?id=32135890))

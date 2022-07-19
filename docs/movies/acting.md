@@ -38,3 +38,4 @@ I share a list of my favorite [actors](https://www.imdb.com/list/ls099077697/) &
 - [Actors who consistently make interesting films (2022)](https://www.reddit.com/r/MovieSuggestions/comments/uuuklt/actors_who_consistently_make_interesting_films/)
 - [Anne Hathaway & Jeremy Strong | Actors on Actors - Full Conversation (2022)](https://www.youtube.com/watch?v=NespJeQbnlY)
 - [Who in your opinion are the most consistently excellent actors/actresses?](https://www.reddit.com/r/Letterboxd/comments/vfjc39/who_in_your_opinion_are_the_most_consistently/)
+- [Rowan Atkinson visual comedy (1992)](https://www.youtube.com/watch?v=LeuiFa9pI7c) ([HN](https://news.ycombinator.com/item?id=32131396))

@@ -31,3 +31,5 @@ title: ClickHouse
 - [Lesser Known Features of ClickHouse (2022)](https://pradeepchhetri.xyz/clickhouselesserknownfeatures/) ([HN](https://news.ycombinator.com/item?id=31561780))
 - [No, QuestDB is not Faster than ClickHouse (2022)](https://telegra.ph/No-QuestDB-is-not-Faster-than-ClickHouse-06-15) ([HN](https://news.ycombinator.com/item?id=31767858))
 - [dbt-clickhouse](https://github.com/ClickHouse/dbt-clickhouse) - ClickHouse plugin for dbt (data build tool).
+- [ClickHouse.jl](https://github.com/JuliaDatabases/ClickHouse.jl) - Julia Lang client for the ClickHouse TCP native protocol.
+- [Node ClickHouse](https://github.com/TimonKK/clickhouse) - NodeJS client for ClickHouse.

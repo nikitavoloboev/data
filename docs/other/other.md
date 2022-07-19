@@ -648,3 +648,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The Checklist Manifesto Book](http://atulgawande.com/book/the-checklist-manifesto/)
 - [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/)
 - [Ants Sandbox - Ants Simulator](https://www.ants-sandbox.io/) ([HN](https://news.ycombinator.com/item?id=32043229))
+- [Ask HN: What can you realistically manufacture in your garage? (2022)](https://news.ycombinator.com/item?id=32141962)

@@ -22,3 +22,4 @@ A list of albums I like.
 ## Links
 
 - [What album of past the 10 years do you consider a "modern classic"? (2022)](https://www.reddit.com/r/electronicmusic/comments/uskht3/what_album_of_past_the_10_years_do_you_consider_a/)
+- [Главные четыре альбома вашей жизни](https://twitter.com/MavrinBog/status/1548980109750816768)

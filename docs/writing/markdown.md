@@ -138,3 +138,4 @@
 - [zero-md](https://github.com/zerodevx/zero-md) - Ridiculously simple zero-config markdown displayer.
 - [remark-language-server](https://github.com/remarkjs/remark-language-server) - Language server to lint and format markdown files with remark.
 - [Redcarpet](https://github.com/vmg/redcarpet) - Ruby library for Markdown processing.
+- [Rust Markdown Parsing Benchmarks](https://github.com/epage/parse-benchmarks-rs) - Comparing parser APIs.

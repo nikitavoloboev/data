@@ -70,3 +70,4 @@ title: APL
 - [Why APL is worth knowing (2022)](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing) ([HN](https://news.ycombinator.com/item?id=30870868))
 - [Fast.ai APL study group notes](https://github.com/fastai/apl-study)
 - [APL and Array Programming (2022)](https://forums.fast.ai/t/apl-array-programming/97188) ([HN](https://news.ycombinator.com/item?id=32026647))
+- [Concatenative K](https://nsl.com/papers/ck.htm) ([HN](https://news.ycombinator.com/item?id=32125966))

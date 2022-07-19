@@ -184,3 +184,4 @@
 - [Simulacra Aesthetic Captions](https://github.com/JD-P/simulacra-aesthetic-captions) - Dataset of over 238000 synthetic images generated with AI models such as CompVis latent GLIDE and Stable Diffusion from over forty thousand user submitted prompts.
 - [Audio Dataset Project](https://github.com/LAION-AI/audio-dataset) - Audio Dataset for training CLAP and other models.
 - [Bulk](https://github.com/koaning/bulk) - Quick developer tool to apply some bulk labels.
+- [stopes](https://github.com/facebookresearch/stopes) - Library for preparing data for machine translation research (monolingual preprocessing, bitext mining, etc.) built by the FAIR NLLB team.

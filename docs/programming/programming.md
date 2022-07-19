@@ -186,7 +186,7 @@
 - [Ask HN: How to rediscover the joy of programming? (2020)](https://news.ycombinator.com/item?id=22860682)
 - [Malleable Systems: Software must be as easy to change as it is to use it](https://malleable.systems/) ([HN](https://news.ycombinator.com/item?id=22857551)) ([Web Code](https://github.com/malleable-systems/malleable.systems))
 - [Learn With Jason](https://www.learnwithjason.dev/) - Live show streamed where Jason pair programs for 90 min to learn something new.
-- [How to Design Programs](https://htdp.org/) - Introduction to programming and computing. ([Book](https://htdp.org/2018-01-06/Book/)) ([Code](https://github.com/kskyten/htdp-solutions))
+- [How to Design Programs](https://htdp.org/) - Introduction to programming and computing. ([Book](https://htdp.org/2018-01-06/Book/)) ([Code](https://github.com/kskyten/htdp-solutions)) ([HN](https://news.ycombinator.com/item?id=32146245))
 - [JetBrains Academy](https://www.jetbrains.com/academy/) - Learn to Program by Creating Working Applications.
 - [Engineering code quality in the Firefox browser: A look at our tools and challenges (2020)](https://hacks.mozilla.org/2020/04/code-quality-tools-at-mozilla/) ([HN](https://news.ycombinator.com/item?id=22938790))
 - [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) ([HN](https://news.ycombinator.com/item?id=16022916))

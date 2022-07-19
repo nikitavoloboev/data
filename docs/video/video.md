@@ -382,3 +382,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [ddfi](https://github.com/Mr-Z-2697/ddfi-rife) - Clumsy video auto duplication remove and frame interpolate script.
 - [Playable](https://github.com/wix/playable) - Embed a video player into your web application. ([Docs](https://wix.github.io/playable/))
 - [Lintel](https://github.com/dukebw/lintel) - Python module to decode video frames directly, using the FFmpeg C API.
+- [Film grain in AV1 (2019)](https://norkin.org/research/film_grain/index.html)

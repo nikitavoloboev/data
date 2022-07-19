@@ -195,3 +195,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [An engineer’s tips for writing documentation devs love (2022)](https://thenewstack.io/an-engineers-best-tips-for-writing-documentation-devs-love/) ([HN](https://news.ycombinator.com/item?id=31945863))
 - [Keep calm and use the runbook](https://www.cortex.io/post/keep-calm-and-use-the-runbook) ([HN](https://news.ycombinator.com/item?id=31973859))
 - [Typograms](https://code.sgo.to/typograms/) - Markdown-like renderer for ASCII diagrams. ([HN](https://news.ycombinator.com/item?id=32133345))
+- [GoAT](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams.
