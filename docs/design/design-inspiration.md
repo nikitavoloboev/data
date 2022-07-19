@@ -12,6 +12,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Dona](https://dona.ai/)
 - [Dask](https://www.dask.org/)
 - [Modfy](https://www.modfy.video/)
+- [Community](https://www.community.com/)
 - [Instatus](https://instatus.com/)
 - [Primer](https://primer.com/)
 - [Linear](https://linear.app/) ([Tweet](https://twitter.com/Stammy/status/1333466442235322370)) ([Features](https://linear.app/features))

@@ -1,6 +1,6 @@
 # C++
 
-Never wrote C++, [Rust](../rust/rust.md) is much [better for new code](https://news.ycombinator.com/item?id=31232722). [Qb](https://github.com/codecat/qb) does seem interesting though for simplifying the build system for C++ at least.
+Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) are much [better for new code](https://news.ycombinator.com/item?id=31232722). [Qb](https://github.com/codecat/qb) does seem interesting though for simplifying the build system for C++ at least.
 
 [Carbon](https://github.com/carbon-language/carbon-lang) is interesting.
 

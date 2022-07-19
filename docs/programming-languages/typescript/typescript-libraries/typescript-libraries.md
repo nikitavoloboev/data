@@ -91,6 +91,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [wait-for-expect](https://github.com/TheBrainFamily/wait-for-expect) - Wait for expectation to be true, useful for integration and end to end testing.
 - [fs-fixture](https://github.com/privatenumber/fs-fixture) - Easily create test fixtures at a temporary file-system path.
 - [hanbi](https://github.com/43081j/hanbi) - Small and simple library for stubbing and spying on methods and functions in JavaScript tests.
+- [user-event](https://github.com/testing-library/user-event) - Fire events the same way the user does.
 
 ## Auth
 
@@ -577,6 +578,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [evalish](https://github.com/kitten/evalish) - Slightly safer-ish wrapper around eval Function constructors.
 - [Spartan Schema](https://github.com/ar-nelson/spartan-schema) - Ultra-minimal JSON schemas with Typescript inference.
 - [fast-array-diff](https://github.com/YuJianrong/fast-array-diff) - Node module to find the same/diff of two arrays.
+- [settle-it](https://github.com/astoilkov/settle-it) - Like Promise.allSettled() but for sync and async functions.
+- [good-try](https://github.com/astoilkov/good-try) - Tries to execute sync/async function, returns a specified default value if the function throws.
 
 ## Links
 

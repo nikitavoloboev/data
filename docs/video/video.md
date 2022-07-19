@@ -383,3 +383,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Playable](https://github.com/wix/playable) - Embed a video player into your web application. ([Docs](https://wix.github.io/playable/))
 - [Lintel](https://github.com/dukebw/lintel) - Python module to decode video frames directly, using the FFmpeg C API.
 - [Film grain in AV1 (2019)](https://norkin.org/research/film_grain/index.html)
+- [VCA](https://github.com/cd-athena/VCA) - Video complexity analyzer.

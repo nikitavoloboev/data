@@ -4,6 +4,8 @@ title: Julia
 
 # [Julia](https://julialang.org/)
 
+[Introduction to Julia Workshop](https://github.com/storopoli/Julia-Workshop) is great intro.
+
 ## Notes
 
 - [What's interesting about Julia is that because the code is all Julia, it's really easy to dig in there and find potential bugs. The standard library functions can be accessed with @edit sum(1:5) and there you go, hack away. The easier it is to look at the code, the easier it is to find issues with it.](https://news.ycombinator.com/item?id=31396861)
@@ -142,3 +144,4 @@ title: Julia
 - [Julia parser for Lezer](https://github.com/lezer-parser/julia)
 - [StaticTools](https://github.com/brenhinkeller/StaticTools.jl) - Enabling StaticCompiler.jl-based compilation of (some) Julia code to standalone native binaries by avoiding GC allocations and llvmcall-ing all the things.
 - [Why I still recommend Julia (2022)](https://huijzer.xyz/posts/recommend/) ([HN](https://news.ycombinator.com/item?id=31880394)) ([Lobsters](https://lobste.rs/s/p5t6j3/why_i_still_recommend_julia))
+- [JuliaCon 2022 - Introduction to Julia Tutorial](https://github.com/storopoli/Julia-Workshop)

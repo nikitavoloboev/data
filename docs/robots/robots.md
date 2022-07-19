@@ -174,3 +174,5 @@
 - [Ask HN: What happened to robots taking all our jobs? (2022)](https://news.ycombinator.com/item?id=31879805)
 - [Robotic Exploration Lab](https://roboticexplorationlab.org/) ([GitHub](https://github.com/RoboticExplorationLab))
 - [Wandering Robots in the Wild (2022)](https://spectrum.ieee.org/wandering-robots-in-the-wild)
+- [Spectral Measurement Sparsification for Pose-Graph SLAM (2022)](https://arxiv.org/abs/2203.13897) ([Code](https://github.com/MarineRoboticsGroup/mac))
+- [Marine Robotics Group @ MIT](https://marinerobotics.mit.edu/) ([GitHub](https://github.com/MarineRoboticsGroup))

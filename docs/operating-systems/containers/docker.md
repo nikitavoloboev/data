@@ -248,3 +248,4 @@ title: Docker
 - [Docker Credential Helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores.
 - [VSCode buildg](https://github.com/ktock/vscode-buildg) - Interactive Debugger for Dockerfile on VS Code.
 - [What are Docker Extensions (2022)](https://portal.gitnation.org/contents/what-are-docker-extensions)
+- [Shipspotter](https://github.com/Shimmur/shipspotter) - Tool for tunneling a port forward into remote Docker containers over SSH.

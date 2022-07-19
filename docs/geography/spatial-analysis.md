@@ -58,7 +58,7 @@ title: Spatial analysis
 - [Leaflet.glify](https://github.com/robertleeplummerjr/Leaflet.glify) - Functional, ridiculously fast web gl renderer plugin for leaflet.
 - [Satpy](hnttps://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing.
 - [Pytroll](http://pytroll.github.io/) - Easy to use, modular, free and open source python framework for the processing of earth observation satellite data. ([GitHub](https://github.com/pytroll))
-- [maps.me code](https://github.com/mapsme/omim) - Offline OpenStreetMap maps for iOS and Android. ([HN](https://news.ycombinator.com/item?id=25515004))
+- [Maps.me](https://maps.me/) - Offline OpenStreetMap maps for iOS and Android. ([HN](https://news.ycombinator.com/item?id=25515004)) ([Code](https://github.com/mapsme/omim))
 - [Unfolded](https://www.unfolded.ai/) - Geospatial analytics platform for data unification, enrichment, and visualization. ([Introduction](https://www.unfolded.ai/blog/2021-01-12-introducing-studio/))
 - [Mapshaper](https://mapshaper.org/) - Editor for map data. Shapefile, GeoJSON, TopoJSON and CSV files supported. ([Code](https://github.com/mbloch/mapshaper))
 - [Geospatial Cloud Computing & Visualization Course](https://github.com/MUSA-509/course-materials)
@@ -234,3 +234,6 @@ title: Spatial analysis
 - [Priceless](https://priceless.zottelig.ch/) - Simple map showing public and free facilities and offers near you. ([Code](https://github.com/ToastHawaii/priceless-map))
 - [Mapy.cz](https://en.mapy.cz/) - Lesser Known but Awesome Maps. ([HN](https://news.ycombinator.com/item?id=32046130))
 - [GeoIP](https://geoip.pw/) - Geolocation API service -- Run it yourself. ([Code](https://github.com/lrstanley/geoip))
+- [Organic Maps Offline Hike & Bike](https://apps.apple.com/by/app/organic-maps-offline-hike-bike/id1567437057)
+- [PyGMT](https://github.com/GenericMappingTools/pygmt) - Python interface for the Generic Mapping Tools.
+- [The Generic Mapping Tools](https://www.generic-mapping-tools.org/) - Tools for manipulating geographic and Cartesian data and creating plots, maps, and 3D views. ([GitHub](https://github.com/GenericMappingTools)) ([Code](https://github.com/GenericMappingTools/gmt))

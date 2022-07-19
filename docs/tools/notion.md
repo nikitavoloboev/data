@@ -119,3 +119,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [nbundle for Developers](https://developers.nbundle.com/) - Build Apps Inside Notion. ([Code](https://github.com/nbundle/example))
 - [Create Notion App](https://github.com/nbundle/create-notion-app) - Create nbundle-powered Notion apps with one command.
 - [Notion GitHub Sync](https://github.com/the-guild-org/notion-github-sync) - CloudFlare Worker / script / bot to sync Notion pages publicly as GitHub Discussions.
+- [Aflred Notion Search](https://github.com/wrjlewis/notion-search-alfred-workflow)

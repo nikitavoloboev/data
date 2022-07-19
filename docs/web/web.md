@@ -438,3 +438,6 @@
 - [SPAs: theory versus practice (2022)](https://nolanlawson.com/2022/06/27/spas-theory-versus-practice/) ([HN](https://news.ycombinator.com/item?id=31896769))
 - [Web Platform Tests RFCs](https://github.com/web-platform-tests/rfcs)
 - [RNA](https://github.com/chialab/rna) - Bundler, a server and a test runner for modern modules and applications.
+- [Anchorage](https://github.com/alopezrivera/anchorage) - Save your bookmark collection in the Internet Archive, or locally.
+- [myAlgorithm](https://github.com/jawerty/myAlgorithm) - Self hosted recommendation feed generated from your browsing habits. ([HN](https://news.ycombinator.com/item?id=32152600))
+- [Webaves](https://github.com/chfoo/webaves) - Web archiving software suite.

@@ -112,3 +112,4 @@
 - [Cosmos](https://github.com/cosmograph-org/cosmos) - GPU-accelerated force graph layout and rendering.
 - [standalone-shader](https://github.com/ayamflow/standalone-shader) - Native WebGL wrapper for 2D shaders.
 - [Stylized Wireframe Rendering in WebGL](https://github.com/mattdesl/webgl-wireframes)
+- [Superconductor](https://github.com/MeetKai/superconductor) - 3D renderer built on top of wgpu.

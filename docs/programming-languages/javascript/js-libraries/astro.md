@@ -38,3 +38,4 @@ title: Astro
 - [Astro Auto Import](https://github.com/delucis/astro-auto-import) - Auto-import components in Astro projects.
 - [Astro Web Components](https://github.com/astro-community/web-components) - Use Web Components as Astro Components.
 - [Astro Toolbox Template](https://github.com/netlify-templates/astro-toolbox) - Simple template to give you the code you need to use Netlify features with Astro.
+- [Astro Icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy.

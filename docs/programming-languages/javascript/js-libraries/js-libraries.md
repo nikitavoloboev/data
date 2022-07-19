@@ -986,6 +986,7 @@
 - [Prolly Trees](https://github.com/mikeal/prolly-trees) - Implementation of peer-to-peer search trees (probabalistic b-trees trees) as used in dolt and noms.
 - [abcjs](https://github.com/paulrosen/abcjs) - JavaScript library for rendering standard music notation in a browser.
 - [object-sizeof](https://github.com/miktam/sizeof) - Get size of a JavaScript object.
+- [fmu](https://github.com/bluwy/fmu) - Collection of JS module utilities written in Rust.
 
 ## Links
 

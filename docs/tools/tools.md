@@ -367,7 +367,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [showthedocs](http://showthedocs.com/) - Documentation browser that finds the relevant docs for your code.
 - [Helm](https://thehelm.com/) - Encrypted Email, Contacts, Calendar and Files. ([HN](https://news.ycombinator.com/item?id=28350466))
 - [Murmur](https://www.murmur.com/) - Collaborative platform where teams create, test, scale, and share working agreements.
-- [Community](https://www.community.com/) - Build Your Community | Text Messaging At Scale.
+- [Community](https://www.community.com/) - Build Your Community | Text Messaging At Scale. ([GitHub](https://github.com/Shimmur))
 - [hack.chat](https://hack.chat/) - Minimal, distraction-free chat application.
 - [btw](https://www.btw.so/) - Open source platform to understand, engage and convert your visitors into customers.
 - [Ditto](http://www.ditto.live/) - Sync Without Internet.
@@ -498,7 +498,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Deepsource](https://deepsource.io/) - Detect bug risks, anti-patterns and security vulnerabilities before they end up in production. For Python and Go.
 - [Redirector Server with Google Sheets](https://github.com/ahmetb/serverless-url-shortener) - Simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 - [Spotify TUI](https://github.com/Rigellute/spotify-tui) - Spotify client for the terminal written in Rust.
-- [Free for Developers](https://free-for.dev/#/) - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. ([Code](https://github.com/ripienaar/free-for-dev)) ([HN](https://news.ycombinator.com/item?id=26239711))
+- [Free for Developers](https://free-for.dev/#/) - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. ([Code](https://github.com/ripienaar/free-for-dev)) ([HN](https://news.ycombinator.com/item?id=26239711)) ([HN](https://news.ycombinator.com/item?id=32151216))
 - [Open Policy Agent](https://github.com/open-policy-agent/opa) - Open source, general-purpose policy engine.
 - [Findka](https://essays.findka.com/) - Great essays delivered to your inbox. Chosen specifically for you with machine learning. ([HN](https://news.ycombinator.com/item?id=23541840))
 - [Butterfly Network](https://www.butterflynetwork.com/) - Point of care ultrasound solutions.

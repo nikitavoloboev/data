@@ -301,6 +301,7 @@
 - [InteractiveErrors.jl](https://github.com/MichaelHatherly/InteractiveErrors.jl) - Interactive error messages for the Julia REPL.
 - [Try.jl](https://github.com/tkf/Try.jl) - Zero-overhead and debuggable error handling.
 - [AbbreviatedStackTraces.jl](https://github.com/BioTurboNick/AbbreviatedStackTraces.jl)
+- [Invariants](https://github.com/lorenzoh/Invariants.jl) - Julia package for creating composable invariants with helpful error messages.
 
 ## WASM
 
@@ -685,6 +686,7 @@
 - [Virtual](https://github.com/thautwarm/Virtual.jl) - Virtual call in Julia, and calls are de-virtualized if possible.
 - [Jl2Py](https://github.com/lucifer1004/Jl2Py.jl) - Transpile from Julia to Python.
 - [ObjectOriented](https://github.com/Suzhou-Tongyuan/ObjectOriented.jl) - Mechanical OOP programming library for Julia.
+- [LikelihoodProfiler](https://github.com/insysbio/LikelihoodProfiler.jl) - Julia package for practical identifiability analysis and confidence intervals evaluation.
 
 ## Links
 

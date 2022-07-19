@@ -170,3 +170,4 @@
 - [catchart](https://github.com/kessler/catchart) - Pipe something from command line to a chart in the browser.
 - [A Tiny Grammar of Graphics](https://observablehq.com/@joshpoll/vvt-gog) ([HN](https://news.ycombinator.com/item?id=31733365))
 - [H2O Wave](https://github.com/h2oai/wave) - Real time Web Apps and Dashboards for Python and R. ([Web](https://wave.h2o.ai/))
+- [MPL Plotter](https://github.com/alopezrivera/mpl_plotter) - Publication-quality data representation library based on Matplotlib.

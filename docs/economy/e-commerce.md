@@ -161,3 +161,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Double import explained (2022)](https://www.youtube.com/watch?v=ydtWQE8vJ7w)
 - [Burrow](https://www.burrow.com/) - Custom Furniture & Sectional Sofas. ([Twitter](https://twitter.com/hiburrow))
 - [Shopify CLI](https://github.com/Shopify/cli) - Build apps, themes, and hydrogen storefronts for Shopify.
+- [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://github.com/princeton-nlp/WebShop)

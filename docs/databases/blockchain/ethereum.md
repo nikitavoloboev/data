@@ -644,3 +644,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Turbo ETH](https://github.com/turbo-eth/turbo-eth) - Ethereum dApp Build System; with a suite of tools to start building production ready dApps today.
 - [Ethereum Proof-of-Stake (2022)](https://0xfoobar.substack.com/p/ethereum-proof-of-stake) ([HN](https://news.ycombinator.com/item?id=32012352))
 - [solady](https://github.com/Vectorized/solady) - Gas optimized Solidity snippets.
+- [Awesome MEV Boost](https://github.com/thegostep/awesome-mev-boost)
+- [ZORA Foundry Script Snippets](https://github.com/ourzora/foundry-script-examples)

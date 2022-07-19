@@ -1,6 +1,6 @@
 # Authentication
 
-[Passkeys](https://developer.apple.com/passkeys/), [Biscuit](https://www.biscuitsec.org/) & [Hanko](https://www.hanko.io/) seem neat.
+[Passkeys](https://developer.apple.com/passkeys/), [Biscuit](https://www.biscuitsec.org/), [Hanko](https://www.hanko.io/) & [Logto](https://github.com/logto-io/logto) seem neat.
 
 ## Notes
 
