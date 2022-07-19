@@ -95,3 +95,4 @@ title: Chemistry
 - [Time Machine](https://github.com/proteneer/timemachine) - High-performance differentiable molecular dynamics, docking and optimization engine.
 - [Chemiscope](https://github.com/lab-cosmo/chemiscope) - Interactive structure/property explorer for materials and molecules. ([Web](https://chemiscope.org/))
 - [rxnutils](https://github.com/MolecularAI/reaction_utils) - Utilities for working with datasets of chemical reactions, reaction templates and template extraction.
+- [ChemPlot](https://github.com/mcsorkun/ChemPlot) - Python package for chemical space visualization.

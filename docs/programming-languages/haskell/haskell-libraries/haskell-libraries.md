@@ -74,6 +74,7 @@
 - [annotated-exception](https://github.com/parsonsmatt/annotated-exception) - Provides a special AnnotatedException type which allows you to decorate Haskell exceptions with additional information.
 - [safe-exceptions](https://github.com/fpco/safe-exceptions) - Safe, consistent, and easy exception handling.
 - [Errata](https://github.com/1Computer1/errata) - Extremely customizable error pretty printer that can handle many kinds of error formatting.
+- [type-errors-pretty](https://github.com/kowainik/type-errors-pretty) - Combinators for writing pretty type errors easily.
 
 ## Graphics
 

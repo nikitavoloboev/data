@@ -164,3 +164,4 @@
 - [libhelper](https://github.com/h3adshotzz/libhelper) - Library for parsing Image4 and Mach-O formats, and working with Files and LZFSE/LZSS compression.
 - [Quiet](https://github.com/quiet/quiet) - Transmit data with sound. Includes binaries for soundcards and .wav files.
 - [SIMDComp](https://github.com/lemire/simdcomp) - Simple C library for compressing lists of integers using binary packing.
+- [libsoundio](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output.

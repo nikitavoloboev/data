@@ -223,3 +223,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [Extending SQLite with Rust](https://ricardoanderegg.com/posts/extending-sqlite-with-rust/) ([Code](https://github.com/polyrand/rust-sqlite-ext-example))
 - [Live Read Replicas for SQLite](https://github.com/benbjohnson/litestream/issues/8) ([HN](https://news.ycombinator.com/item?id=31973539))
 - [The SQLite Index Suggester](https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_) ([HN](https://news.ycombinator.com/item?id=31991598))
+- [XLite](https://github.com/x2bool/xlite) - Query Excel and Open Document spreadsheets as SQLite virtual tables. ([HN](https://news.ycombinator.com/item?id=31874767)) ([Article](https://sergey.khabibullin.com/sqlite-extensions-in-rust/))

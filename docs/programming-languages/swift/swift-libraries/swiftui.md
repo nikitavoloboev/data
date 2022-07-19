@@ -243,3 +243,4 @@ title: SwiftUI
 - [SwiftUI Index](https://mackuba.eu/swiftui/changelog)
 - [SwiftUI for Mac Big Sur](https://github.com/trozware/swiftui-mac-2022)
 - [Introducing NavigationPath in SwiftUI (2022)](https://www.gfrigerio.com/introducing-navigationpath-in-swiftui/) ([Code](https://github.com/gualtierofrigerio/SwiftUI4))
+- [SwiftUI - Be Water, My Friend (2022)](https://www.youtube.com/watch?v=pkv-iTr3NVI)

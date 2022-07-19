@@ -280,6 +280,7 @@
 - [ReferenceTests](https://github.com/JuliaTesting/ReferenceTests.jl) - Utility package for comparing data against reference files.
 - [HypothesisTests.jl](https://github.com/JuliaStats/HypothesisTests.jl) - Hypothesis tests for Julia.
 - [PropCheck.jl](https://github.com/Seelengrab/PropCheck.jl) - Simple, thin package for property based testing.
+- [JCheck](https://github.com/ps-pat/JCheck.jl) - Randomized Property Based Testing for Julia.
 
 ## DB
 

@@ -2039,6 +2039,7 @@
 - [BGPKIT Parser](https://github.com/bgpkit/bgpkit-parser) - MRT/BGP data parser written in Rust.
 - [jsc-rs](https://github.com/Brooooooklyn/jsc-rs) - JavaScript core Rust safe binding.
 - [Apalis](https://github.com/geofmureithi/apalis) - Simple, extensible multithreaded background job processing library for Rust.
+- [hashbag](https://github.com/jonhoo/hashbag) - Unordered multiset/bag implementation backed by HashMap.
 
 ## Cargo Plugins
 

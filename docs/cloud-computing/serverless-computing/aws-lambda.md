@@ -142,3 +142,4 @@ title: AWS Lambda
 - [Blambda](https://github.com/jmglov/blambda) - Custom runtime for AWS Lambda that lets you write functions using Babashka.
 - [serverless-http](https://github.com/dougmoscrop/serverless-http) - Use your existing middleware framework (e.g. Express, Koa) in AWS Lambda.
 - [Deploy Go API to AWS Lambda](https://github.com/thiskevinwang/api-lambda-aurora-go)
+- [Understanding AWS Lambda scaling and throughput (2022)](https://aws.amazon.com/blogs/compute/understanding-aws-lambda-scaling-and-throughput/)

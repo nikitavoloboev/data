@@ -23,6 +23,7 @@ The [interview](https://www.thetwentyminutevc.com/podcast/ian-lee/) with [Ian](h
 - [Tezos, a blockchain that is self-amending with staking & on-chain governance, is an example of a large DAO. Bakers and delegates are (perhaps unwittingly) participants in a decentralized autonomous organization, with the shared goal of maintaining the protocol](https://twitter.com/mattdesl/status/1465334632388378636)
 - [A mistake I see DAO's making is asking for too big of a contribution, too early. Most bounties are too overwhelming for a new member. Instead, give members small ways (micro bounties?) to contribute and earn, and ease them into bigger commitments over time.](https://twitter.com/DavidSpinks/status/1480576604157870086)
 - [If your goal is to solve really hard problems as quickly as possible, DAOs are not the best way to organize.](https://twitter.com/armaniferrante/status/1507376922954711044)
+- [After spending my entire career working in them, I can sadly guarantee you that being a dao/collective/coop in no way guarantees that the organization is more competent, fair, kind to it's members, or acting justly towards shared good.](https://twitter.com/isthisanart_/status/1549359890573008896)
 
 ## Links
 

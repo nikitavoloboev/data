@@ -2,6 +2,8 @@
 
 Never wrote C++, [Rust](../rust/rust.md) is much [better for new code](https://news.ycombinator.com/item?id=31232722). [Qb](https://github.com/codecat/qb) does seem interesting though for simplifying the build system for C++ at least.
 
+[Carbon](https://github.com/carbon-language/carbon-lang) is interesting.
+
 ## Notes
 
 - [C++ is a fucking nightmare. There's 5 ways to do everything, ie because of historical reasons. Endless rules about shit like coercions, etc etc.](https://twitter.com/AdamRackis/status/1441233740248719361)
@@ -348,3 +350,4 @@ Never wrote C++, [Rust](../rust/rust.md) is much [better for new code](https://n
 - [Retrofitting Temporal Memory Safety on C++ (2022)](https://v8.dev/blog/retrofitting-temporal-memory-safety-on-c++) ([HN](https://news.ycombinator.com/item?id=31762574))
 - [Which concerns of the game dev industry does C++ committee NOT address? (2022)](https://www.reddit.com/r/cpp/comments/vhxyzx/which_concerns_of_the_game_dev_industry_does_the/)
 - [The C/C++ preprocessor iceberg with explanations](https://jadlevesque.github.io/PPMP-Iceberg/)
+- [Carbon](https://github.com/carbon-language/carbon-lang) - Experimental successor to C++. ([HN](https://news.ycombinator.com/item?id=32151609)) ([Tweet](https://twitter.com/blelbach/status/1549385011828252674))

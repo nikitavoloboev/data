@@ -137,6 +137,7 @@ The way our brains take input from different senses (eyes, touch) and then decid
 - [MNE-Python](https://github.com/mne-tools/mne-python) - Python package for exploring, visualizing, and analyzing human neurophysiological data such as MEG, EEG, sEEG, ECoG, and more.
 - [Intro to Neuroscience (2017)](https://www.youtube.com/watch?v=nlSL7Qg7-Po)
 - [Lena (2021)](https://qntm.org/mmacevedo)
+- [Neuroscience | eLife](https://elifesciences.org/subjects/neuroscience)
 
 ## Images
 

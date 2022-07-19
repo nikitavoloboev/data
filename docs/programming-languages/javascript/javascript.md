@@ -460,3 +460,4 @@ if (
 - [JS Module Blocks](https://github.com/tc39/proposal-js-module-blocks) ([Web](https://tc39.es/proposal-js-module-blocks/))
 - [Ask HN: Why is everything in JavaScript changing so fast? (2022)](https://news.ycombinator.com/item?id=31969958)
 - [Stop Using JavaScript Objects (2022)](https://www.youtube.com/watch?v=hRSwSAr-gok)
+- [Mastering Async/Await Book](https://asyncawait.net/)
