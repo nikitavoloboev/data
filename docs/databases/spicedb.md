@@ -1,6 +1,5 @@
-:---
+---
 title: SpiceDB
-
 ---
 
 # [SpiceDB](https://github.com/authzed/spicedb)

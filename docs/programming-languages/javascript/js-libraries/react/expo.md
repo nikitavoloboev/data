@@ -50,3 +50,4 @@ title: Expo
 - [OneSignal Expo Plugin](https://github.com/OneSignal/onesignal-expo-plugin) - Allows you to use OneSignal without leaving the managed workflow.
 - [Expo App Clip Plugin](https://github.com/bndkt/react-native-app-clip) - Expo Config Plugin that generates an App Clip for iOS apps built with Expo.
 - [React Native Expo Safari extension](https://github.com/andrew-levy/react-native-safari-extension) - Expo Config Plugin to add a Safari Extension to a React Native iOS App.
+- [Expo Mega Demo](https://github.com/barthap/expo-mega-demo) - Experimenting with awesome React Native + Expo features.

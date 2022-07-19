@@ -96,3 +96,4 @@ title: Chemistry
 - [Chemiscope](https://github.com/lab-cosmo/chemiscope) - Interactive structure/property explorer for materials and molecules. ([Web](https://chemiscope.org/))
 - [rxnutils](https://github.com/MolecularAI/reaction_utils) - Utilities for working with datasets of chemical reactions, reaction templates and template extraction.
 - [ChemPlot](https://github.com/mcsorkun/ChemPlot) - Python package for chemical space visualization.
+- [chem_interp](https://github.com/jjgoings/chem_interp) - Use interpretable machine learning to explain complicated chemical reactions.

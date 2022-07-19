@@ -286,3 +286,4 @@ title: React Native
 - [Is RN even worth it? (2022)](https://www.reddit.com/r/reactnative/comments/vrc05g/is_rn_even_worth_it/)
 - [RN Parallax Travel Cards](https://github.com/lklima/rn-parallax-cards)
 - [React Native Instagram Page Transition](https://github.com/enesozturk/react-native-instagram)
+- [Discovering Turbo Modules](https://github.com/barthap/discovering-turbomodules) - Step by step example of creating your own React Native TurboModule.
