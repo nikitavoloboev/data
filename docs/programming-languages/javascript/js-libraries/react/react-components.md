@@ -324,6 +324,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [React Lottie Player](https://github.com/mifi/react-lottie-player) - Fully declarative React Lottie player.
 - [React Keyboard Navigator](https://github.com/zheeeng/react-keyboard-navigator) - Suite of React components and hook for selecting sibling components through the keyboard.
 - [React Local Toast](https://github.com/OlegWock/react-local-toast) - Local toast helps you to provide feedback related to particular components on page.
+- [React Lite YouTube Embed](https://github.com/ibrahimcesar/react-lite-youtube-embed) - Private by default, faster and cleaner YouTube embed component for React applications.
 
 ## Links
 

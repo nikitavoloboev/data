@@ -1748,6 +1748,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Liquid](https://github.com/osteele/liquid) - Liquid template engine in Go.
 - [lrmr](https://github.com/ab180/lrmr) - Online MapReduce framework for Go, which is capable for jobs in sub-second.
 - [fsync](https://github.com/spf13/fsync) - Keeps files or directories in sync.
+- [QuickJS-Go](https://github.com/elsaland/quickjs) - Go bindings to QuickJS: a fast, small, and embeddable ES2020 JavaScript interpreter.
 
 ## Links
 

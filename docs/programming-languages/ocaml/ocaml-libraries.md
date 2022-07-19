@@ -28,6 +28,7 @@ title: OCaml libraries
 - [qtest](https://github.com/vincent-hugot/qtest) - Inline (Unit) Tests for OCaml.
 - [QCheck](https://github.com/c-cube/qcheck) - Property-based testing for OCaml.
 - [Popper](https://github.com/jobjo/popper) - Property-based testing at ease.
+- [expect-test](https://github.com/janestreet/ppx_expect) - Framework for writing tests in OCaml, similar to Cram.
 
 ## Science
 

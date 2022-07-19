@@ -205,3 +205,4 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [ornithology](https://github.com/jonhoo/ornithology) - Tool that parses your Twitter archive and highlights interesting data from it.
 - [Who Unfollowed Me on Twitter App](https://t.co/ntMla1yp4e)
 - [Twitter BotStarter template](https://github.com/luvi/botstarter)
+- [Tweetic](https://github.com/zernonia/tweetic) - Convert Tweets to Static HTML. ([Web](https://www.tweetic.io/))

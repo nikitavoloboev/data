@@ -355,7 +355,7 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [node-bluetooth](https://github.com/song940/node-bluetooth) - Bluetooth serial port communication for Node.js.
 - [DeAsync.js](https://github.com/abbr/deasync) - Turns async function into sync via JavaScript wrapper of Node event loop.
 - [Strom](https://github.com/lewisdiamond/stromjs) - Dependency-free stream utils for Node.js.
-- [synckit](https://github.com/rx-ts/synckit) - Perform async work synchronously in Node.js using worker_threads with first-class TypeScript support.
+- [synckit](https://github.com/un-ts/synckit) - Perform async work synchronously in Node.js using worker_threads with first-class TypeScript support.
 - [Node "exports" field explanation](https://github.com/sheremet-va/dual-packaging)
 - [Better Queue for NodeJS](https://github.com/diamondio/better-queue)
 - [valienv](https://github.com/zoontek/valienv) - Simple environment variables validator for Node.js and web browsers.
@@ -408,3 +408,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [kleur](https://github.com/lukeed/kleur) - Fastest Node.js library for formatting terminal text with ANSI colors.
 - [Working with the file system on Node.js (2022)](https://2ality.com/2022/06/nodejs-file-system.html)
 - [Snowflake-UUID](https://github.com/rakheyl/snowflake-uuid) - Twitter's Snowflake generator for NodeJS.
+- [pino-http](https://github.com/pinojs/pino-http) - High-speed HTTP logger for Node.js.

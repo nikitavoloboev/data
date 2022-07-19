@@ -646,3 +646,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [solady](https://github.com/Vectorized/solady) - Gas optimized Solidity snippets.
 - [Awesome MEV Boost](https://github.com/thegostep/awesome-mev-boost)
 - [ZORA Foundry Script Snippets](https://github.com/ourzora/foundry-script-examples)
+- [dEth Tools](https://github.com/dethcrypto/dethtools) - Handy toolset for every Ethereum developer.

@@ -130,3 +130,5 @@ title: Lua
 - [Standalone tree sitter bindings for the Lua language](https://github.com/euclidianAce/ltreesitter)
 - [Gooa](https://github.com/gooac/gooac) - Lua Preprocessor written in Go.
 - [LuaSocket](https://github.com/lunarmodules/luasocket) - Network support for the Lua language.
+- [Eva](https://github.com/Insality/defold-eva) - Basic defold module for mobile games.
+- [Druid](https://github.com/Insality/druid) - Defold UI component library.

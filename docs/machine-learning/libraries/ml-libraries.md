@@ -374,3 +374,4 @@ title: ML Libraries
 - [AI2 Tango](https://github.com/allenai/tango) - Organize your experiments into discrete steps that can be cached and reused throughout the lifetime of your research project.
 - [ADAPT](https://github.com/adapt-python/adapt) - Awesome Domain Adaptation Python Toolbox.
 - [giotto-deep](https://github.com/giotto-ai/giotto-deep) - Deep learning made topological.
+- [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) - Library from DeepSpeed, designed to make low-latency, low-cost inference of powerful transformer models.

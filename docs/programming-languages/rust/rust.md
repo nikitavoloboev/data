@@ -843,3 +843,4 @@ title: Rust
 - [A performance retrospective using Rust (2022)](https://agourlay.github.io/blog/rust-performance-retrospective-part1/)
 - [Rust should not have provided `unwrap` (2022)](https://www.thecodedmessage.com/posts/2022-07-14-programming-unwrap/) ([HN](https://news.ycombinator.com/item?id=32110040))
 - [Async Rust: What is a runtime? Here is how tokio works under the hood (2022)](https://kerkour.com/rust-async-await-what-is-a-runtime) ([HN](https://news.ycombinator.com/item?id=32119002))
+- [Elegant and performant recursion in Rust (2022)](https://recursion.wtf/posts/rust_schemes/) ([Tweet](https://twitter.com/inanna_malick/status/1549426154427166721))

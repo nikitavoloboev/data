@@ -2,6 +2,8 @@
 
 I love Git and version control. And I use version control over any project I do. I follow a [series of rules](../../focusing/rules.md#git) when dealing with Git. [Josh](https://github.com/josh-project/josh) seems neat. [Think Like Git](https://tacaswell.github.io/think-like-git.html) is a great read.
 
+[git-branchless](https://github.com/arxanas/git-branchless) is neat.
+
 ## Notes
 
 - Commit as often as you can. Ideally after each micro-iteration, when something new is working.
