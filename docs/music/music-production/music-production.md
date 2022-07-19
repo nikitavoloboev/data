@@ -395,3 +395,4 @@
 - [SheetAble](https://sheetable.net/) - Self-hosted music sheet organizer. ([Code](https://github.com/SheetAble/SheetAble))
 - [Partitura](https://github.com/CPJKU/partitura) - Python package for handling modern staff notation of music.
 - [Sheet Vision](https://github.com/cal-pratt/SheetVision) - Python program which reads sheet music and turns it into midi files.
+- [SP-Tools](https://github.com/rconstanzo/SP-tools) - Machine Learning tools for drums and percussion. ([Article](https://rodrigoconstanzo.com/2022/07/sp-tools-machine-learning-tools-for-drums-and-percussion-alpha/))

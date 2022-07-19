@@ -210,6 +210,7 @@
 - [Sippet](https://github.com/balena/elixir-sippet) - Elixir library designed to be used as SIP protocol middleware.
 - [Vapor](https://github.com/elixir-toniq/vapor) - Runtime configuration system for Elixir.
 - [NimbleOptions](https://github.com/dashbitco/nimble_options) - Tiny library for validating and documenting high-level options.
+- [Scribe](https://github.com/codedge-llc/scribe) - Pretty print tables of Elixir structs and maps.
 
 ## Links
 

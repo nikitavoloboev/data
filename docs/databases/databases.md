@@ -657,3 +657,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [ClickBench — Benchmark For Analytical DBMS (Snowflake, Druid, Redshift)](https://benchmark.clickhouse.com/) ([HN](https://news.ycombinator.com/item?id=32084571))
 - [Comparing Popular Time Series Databases (2022)](https://blog.last9.io/time-series-database-comparison/)
 - [Offline data access: a dream come true? (2022)](https://blog.chiselstrike.com/offline-data-access-a-dream-come-true-64362de1a981)
+- [Soft Deletion Probably Isn't Worth It (2022)](https://brandur.org/soft-deletion) ([HN](https://news.ycombinator.com/item?id=32156009))

@@ -88,3 +88,4 @@ title: Prometheus
 - [prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
 - [Prometheus Pushgateway](https://github.com/prometheus/pushgateway) - Exists to allow ephemeral and batch jobs to expose their metrics to Prometheus.
 - [Promruval](https://github.com/FUSAKLA/promruval) - Tool to validate the Prometheus rules metadata and expression properties to match requirements and constrains of the particular Prometheus cluster setup.
+- [prom-authzed-proxy](https://github.com/authzed/prom-authzed-proxy) - Proxy for Prometheus that authorizes the request's Bearer Token with Authzed or SpiceDB and enforces a label in a PromQL query.

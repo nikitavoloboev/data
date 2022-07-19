@@ -769,6 +769,7 @@
   - [SQLite](docs/databases/sqlite.md)
   - [Redis](docs/databases/redis.md)
   - [EdgeDB](docs/databases/edgedb.md)
+  - [SpiceDB](docs/databases/spicedb.md)
   - [CockroachDB](docs/databases/cockroachdb.md)
   - [DynamoDB](docs/databases/dynamodb.md)
   - [FaunaDB](docs/databases/fauna.md)

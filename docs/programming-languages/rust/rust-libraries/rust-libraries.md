@@ -170,6 +170,7 @@
 - [Samael](https://github.com/njaremko/samael) - SAML2 library for Rust.
 - [ructe](https://github.com/kaj/ructe) - Rust Compiled Templates with static-file handling.
 - [backon](https://github.com/Xuanwo/backon) - Retry futures in backoff without effort.
+- [nickel.rs](https://github.com/nickel-org/nickel.rs) - Express inspired web framework for Rust.
 
 ## Auth
 

@@ -121,3 +121,4 @@ title: gRPC
 - [gRPC Websocket Proxy](https://github.com/tmc/grpc-websocket-proxy) - Proxy to transparently upgrade grpc-gateway streaming endpoints to use websockets.
 - [Go gRPC Middleware for Sentry](https://github.com/johnbellone/grpc-middleware-sentry)
 - [Node gRPC Server](https://github.com/MattIPv4/node-grpc-server)
+- [grpcutil](https://github.com/authzed/grpcutil) - Various utilities to simplify common gRPC APIs.

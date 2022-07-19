@@ -237,3 +237,4 @@ title: Spatial analysis
 - [Organic Maps Offline Hike & Bike](https://apps.apple.com/by/app/organic-maps-offline-hike-bike/id1567437057)
 - [PyGMT](https://github.com/GenericMappingTools/pygmt) - Python interface for the Generic Mapping Tools.
 - [The Generic Mapping Tools](https://www.generic-mapping-tools.org/) - Tools for manipulating geographic and Cartesian data and creating plots, maps, and 3D views. ([GitHub](https://github.com/GenericMappingTools)) ([Code](https://github.com/GenericMappingTools/gmt))
+- [Tile38-ts](https://github.com/TierMobility/tile38-ts) - TypeScript client for Tile38 geo-database.

@@ -60,3 +60,4 @@ title: TLA+
 - [TLA+ Video Course (2021)](https://lamport.azurewebsites.net/video/videos.html)
 - [Using TLA+ to understand Xen vchan (2019)](http://roscidus.com/blog/blog/2019/01/01/using-tla-plus-to-understand-xen-vchan/) ([Code](https://github.com/talex5/spec-vchan))
 - [VSCode TLA+](https://github.com/tlaplus/vscode-tlaplus)
+- [Tree-sitter grammar for TLA+](https://github.com/tlaplus-community/tree-sitter-tlaplus)
