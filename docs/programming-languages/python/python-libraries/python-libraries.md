@@ -935,6 +935,7 @@
 - [xgcm](https://github.com/xgcm/xgcm) - General Circulation Model Postprocessing with xarray.
 - [addict](https://github.com/mewwts/addict) - Python Dict that's better than heroin.
 - [Fast JSON schema](https://github.com/horejsek/python-fastjsonschema) - Fast JSON schema validator for Python.
+- [Nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices.
 
 ## Notes
 

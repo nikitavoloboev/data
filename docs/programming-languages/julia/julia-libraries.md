@@ -66,6 +66,7 @@
 - [OMEinsum](https://github.com/under-Peter/OMEinsum.jl) - Differentiable Tensor Networks.
 - [Genify.jl](https://github.com/probcomp/Genify.jl) - Automatically transforms Julia methods to Gen functions via staged compilation.
 - [PDDL.jl](https://github.com/JuliaPlanners/PDDL.jl) - Julia parser, interpreter, and compiler interface for the Planning Domain Definition Language (PDDL).
+- [SymbolicPlanners.jl](https://github.com/JuliaPlanners/SymbolicPlanners.jl) - Symbolic planners for problems and domains specified in PDDL.
 - [SymbolicMDPs.jl](https://github.com/JuliaPlanners/SymbolicMDPs.jl) - Wraps the PDDL.jl interface for PDDL domains and problems within the POMDPs.jl interface for Markov decision processes (MDPs).
 - [Enzyme.jl](https://github.com/wsmoses/Enzyme.jl) - Julia bindings for the Enzyme automatic differentiator.
 - [Jax.jl](https://github.com/PhilipVinc/Jax.jl) - Wraps some functionality of Jax in Julia.
@@ -234,6 +235,7 @@
 
 - [Flux3D.jl](https://github.com/nirmal-suthar/Flux3D.jl) - 3D computer vision library in Julia.
 - [Rayuela.jl](https://github.com/una-dinosauria/Rayuela.jl) - Implements non-orthogonal multi-codebook quantization methods (MCQ).
+- [MIRT](https://github.com/JeffFessler/MIRT.jl) - Michigan Image Reconstruction Toolbox in Julia.
 
 ## Physics
 

@@ -146,3 +146,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Render LaTeX in React apps](https://github.com/harunurhan/react-latex-next)
 - [100 most frequent LaTeX commands (2022)](https://blog.writefull.com/the-100-most-frequent-latex-commands/)
 - [TeXZilla](http://fred-wang.github.io/TeXZilla/) - JavaScript LaTeX-to-MathML converter compatible with Unicode. ([Code](https://github.com/fred-wang/TeXZilla))
+- [How2LaTeX](https://github.com/sleepymalc/How2LaTeX) - Compact guide to help you write professional LaTeX documents.

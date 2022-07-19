@@ -130,6 +130,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Spotify TS](https://github.com/adamgrieger/spotify-web-api-ts) - Isomorphic TypeScript wrapper for Spotify's Web API.
 - [Spotify TS 2](https://github.com/tspotify/tspotify)
 - [Spotify TS 3](https://github.com/backtrackapp/spotify.js)
+- [Spotify TS 4](https://github.com/spotify-api/spotify-api.js)
 - [Spotify Go](https://github.com/zmb3/spotify)
 - [Spotify GraphQL](https://github.com/charlypoly/spotify-graphql) - GraphQL schema for Spotify WebAPI.
 - [Spotify Python](https://github.com/plamere/spotipy)

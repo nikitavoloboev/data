@@ -29,3 +29,4 @@ title: Hasura
 - [Hasura Auth](https://github.com/nhost/hasura-auth) - Users are stored in Postgres and accessed via GraphQL.
 - [QikTrak](https://github.com/chrisnurse/qik-trak) - Zero touch solution to automatically configure database tracking in Hasura GraphQL.
 - [ra-data-hasura](https://github.com/hasura/ra-data-hasura) - GraphQL data provider for react-admin tailored to target Hasura GraphQL endpoints.
+- [Hasura Storage](https://github.com/nhost/hasura-storage) - Storage for Hasura built on top of S3.

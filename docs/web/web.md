@@ -441,3 +441,4 @@
 - [Anchorage](https://github.com/alopezrivera/anchorage) - Save your bookmark collection in the Internet Archive, or locally.
 - [myAlgorithm](https://github.com/jawerty/myAlgorithm) - Self hosted recommendation feed generated from your browsing habits. ([HN](https://news.ycombinator.com/item?id=32152600))
 - [Webaves](https://github.com/chfoo/webaves) - Web archiving software suite.
+- [SPA Alternative](https://htmx.org/essays/spa-alternative/) ([HN](https://news.ycombinator.com/item?id=32148253))

@@ -91,3 +91,4 @@ title: Shaders
 - [shame](https://github.com/RayMarch/shame) - Shader EDSL for writing render and compute pipelines in rust.
 - [Shades](https://github.com/phaazon/shades) - Rust EDSL for shading languages.
 - [Spatula](https://lamina-spatula.vercel.app/) - Create beautiful shader materials in the browser and generate your JavaScript. ([Code](https://github.com/AlexWarnes/lamina-spatula))
+- [GLSL Shaders](https://github.com/libretro/glsl-shaders)

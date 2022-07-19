@@ -560,6 +560,7 @@
 - [stream ciphers](https://github.com/RustCrypto/stream-ciphers) - Collection of stream cipher algorithms.
 - [ed25519-speccheck](https://github.com/novifinancial/ed25519-speccheck) - Test cases for EdDSA signature verification edge cases.
 - [bls12_381](https://github.com/zkcrypto/bls12_381) - Implementation of the BLS12-381 pairing-friendly elliptic curve group.
+- [secrets](https://github.com/stouset/secrets) - Library to help Rust programmers safely held cryptographic secrets in memory.
 
 ## Linux
 
@@ -787,6 +788,7 @@
 - [meval](https://github.com/rekka/meval-rs) - Math expression parser and evaluation library for Rust.
 - [libprio-rs](https://github.com/divviup/libprio-rs) - Rust implementation of Prio, a system for Private, Robust, and Scalable Computation of Aggregate Statistics.
 - [Exmex](https://github.com/bertiqwerty/exmex) - Math parser and evaluator in Rust, capable of partial differentiation, allows the use of custom operators.
+- [cglinalg](https://github.com/lambdaxymox/cglinalg) - Low-dimensional linear algebra library for real-time computer graphics.
 
 ## Other
 
@@ -2041,6 +2043,8 @@
 - [jsc-rs](https://github.com/Brooooooklyn/jsc-rs) - JavaScript core Rust safe binding.
 - [Apalis](https://github.com/geofmureithi/apalis) - Simple, extensible multithreaded background job processing library for Rust.
 - [hashbag](https://github.com/jonhoo/hashbag) - Unordered multiset/bag implementation backed by HashMap.
+- [catty](https://github.com/Restioson/catty) - Send and await a value asynchronously.
+- [orc-format](https://github.com/DataEngineeringLabs/orc-format) - Read Apache ORC from Rust.
 
 ## Cargo Plugins
 

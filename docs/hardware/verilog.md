@@ -47,3 +47,8 @@
 - [Veriloggen](https://github.com/PyHDI/veriloggen) - Mixed-Paradigm Hardware Construction Framework.
 - [OpenOFDM](https://github.com/jhshi/openofdm) - Sythesizable, modular Verilog implementation of 802.11 OFDM decoder.
 - [sv2chisel](https://github.com/ovh/sv2chisel) - Verilog to Chisel translator.
+- [libvhdl](https://github.com/tmeissner/libvhdl) - Library of reusable VHDL components.
+- [psl_with_ghdl](https://github.com/tmeissner/psl_with_ghdl) - Examples of using PSL for functional and formal verification of VHDL with GHDL (and SymbiYosys).
+- [formal_hw_verification](https://github.com/tmeissner/formal_hw_verification) - Trying to verify Verilog/VHDL designs with formal methods and tools.
+- [cryptocores](https://github.com/tmeissner/cryptocores) - Cryptography IP-cores & tests written in VHDL / Verilog.
+- [GHDL](https://github.com/ghdl/ghdl) - Open-source analyzer, compiler, simulator and (experimental) synthesizer for VHDL.

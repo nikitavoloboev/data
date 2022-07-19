@@ -867,3 +867,5 @@
 - [Image Inpainting with External-internal Learning and Monochromic Bottleneck (2021)](https://arxiv.org/abs/2104.09068) ([Code](https://github.com/Tengfei-Wang/external-internal-inpainting))
 - [Deep Image Homography Estimation (2016)](https://arxiv.org/abs/1606.03798) ([Code](https://github.com/mazenmel/Deep-homography-estimation-Pytorch))
 - [Illumination Adaptive Transformer (2022)](https://arxiv.org/abs/2205.14871) ([Code](https://github.com/cuiziteng/Illumination-Adaptive-Transformer))
+- [MotionCLIP: Exposing Human Motion Generation to CLIP Space (2022)](https://arxiv.org/abs/2203.08063) ([Code](https://github.com/GuyTevet/MotionCLIP))
+- [Awesome Image Composition](https://github.com/bcmi/Awesome-Image-Composition)
