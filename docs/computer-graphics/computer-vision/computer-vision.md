@@ -863,3 +863,4 @@
 - [Towards Grand Unification of Object Tracking (2022)](https://arxiv.org/abs/2207.07078) ([Code](https://github.com/MasterBin-IIAU/Unicorn))
 - [Benchmarking Omni-Vision Representation through the Lens of Visual Realms (2022)](https://arxiv.org/abs/2207.07106) ([Code](https://github.com/ZhangYuanhan-AI/OmniBenchmark))
 - [Color Histograms in Image Retrieval](https://www.pinecone.io/learn/color-histograms/)
+- [SeqTR: A Simple yet Universal Network for Visual Grounding (2022)](https://arxiv.org/abs/2203.16265) ([Code](https://github.com/sean-zhuh/SeqTR))

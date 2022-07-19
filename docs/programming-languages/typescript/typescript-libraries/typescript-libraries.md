@@ -521,7 +521,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [immer-yjs](https://github.com/sep2/immer-yjs) - Combine immer & y.js.
 - [InfluxDB JS](https://github.com/influxdata/influxdb-client-js)
 - [ts-case-convert](https://github.com/RossWilliams/ts-case-convert) - Convert between camelCase and snake_case while preserving typescript information.
-- [Starbeam](https://github.com/wycats/starbeam) - Library for building reactive data systems that integrate natively with UI frameworks such as React, Vue, Svelte or Ember. ([HN](https://news.ycombinator.com/item?id=31234147))
+- [Starbeam](https://github.com/starbeamjs/starbeam) - New kind of reactive library. It makes reactive programming simple and fun, and it works with your existing JavaScript framework. ([HN](https://news.ycombinator.com/item?id=31234147))
 - [factoria](https://github.com/phanan/factoria) - Simplistic model factory for Node/JavaScript.
 - [oxide.ts](https://github.com/traverse1984/oxide.ts) - Rust's Option\<T\> and Result\<T, E\>, implemented for TypeScript.
 - [typesafe-utils](https://github.com/ivanhofer/typesafe-utils) - Collection of a few small lightweight typesafe utilities.

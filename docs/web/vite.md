@@ -95,3 +95,4 @@ title: Vite
 - [HN: Vite (2022)](https://news.ycombinator.com/item?id=31967420)
 - [vite-plugin-wasm](https://github.com/Menci/vite-plugin-wasm) - Add WebAssembly ESM integration to Vite and support `wasm-pack` generated modules.
 - [Vite 3.0 (2022)](https://vitejs.dev/blog/announcing-vite3.html) ([HN](https://news.ycombinator.com/item?id=32082284))
+- [vite-plugin-jspm](https://github.com/jspm/vite-plugin-jspm) - Vite plugin which externalize dependencies and resolves them independently from CDN providers using import maps and es-module-shims.
