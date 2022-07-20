@@ -539,3 +539,4 @@ title: GitHub actions
 - [GitHub action to update dependencies](https://gist.github.com/giuseppeg/0ef7da2cb168ee4e3bb669b823fd0f67)
 - [GitHub Self-Hosted Runners CDK Constructs](https://github.com/CloudSnorkel/cdk-github-runners)
 - [Devtools](https://github.com/Lightning-AI/devtools) - Simple development toolbox for GH actions and common actions.
+- [Chainguard reusable GitHub actions](https://github.com/chainguard-dev/actions)

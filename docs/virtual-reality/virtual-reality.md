@@ -78,3 +78,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [ViroReact](https://github.com/ViroCommunity/viro) - AR and VR library for React Native.
 - [Meta VR prototypes aim to make VR 'indistinguishable from reality' (2022)](https://www.roadtovr.com/meta-vr-headset-prototypes-visual-fidelity-indistinguishable-from-reality/) ([HN](https://news.ycombinator.com/item?id=31813443))
 - [NeuralPassthrough: Learned Real-Time View Synthesis for VR (2022)](https://research.facebook.com/publications/neural-passthrough/) ([Code](https://github.com/facebookresearch/NeuralPassthrough))
+- [StereoKit](https://github.com/StereoKit/StereoKit) - Easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR. ([HN](https://news.ycombinator.com/item?id=32168236))

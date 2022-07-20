@@ -2046,6 +2046,7 @@
 - [hashbag](https://github.com/jonhoo/hashbag) - Unordered multiset/bag implementation backed by HashMap.
 - [catty](https://github.com/Restioson/catty) - Send and await a value asynchronously.
 - [orc-format](https://github.com/DataEngineeringLabs/orc-format) - Read Apache ORC from Rust.
+- [webp-animation](https://github.com/blaind/webp-animation) - High-level Rust wrapper for decoding and encoding WebP animations.
 
 ## Cargo Plugins
 
