@@ -245,6 +245,7 @@
 - [Dom Top](https://github.com/aphyr/dom-top) - Unorthodox control flow, for Clojurists with masochistic sensibilities.
 - [Clojure Heap](https://github.com/clojure-finance/clojure-heap) - Pure Clojure implementation of heap.
 - [Interceptor](https://github.com/exoscale/interceptor) - Small Interceptor lib for clojure.
+- [Marginalia](https://github.com/gdeer81/marginalia) - Ultra-lightweight literate programming for clojure.
 
 ## Links
 

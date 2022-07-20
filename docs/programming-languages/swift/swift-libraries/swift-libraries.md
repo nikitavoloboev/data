@@ -1203,6 +1203,7 @@
 - [Swift Unidirectional Flow](https://github.com/mecid/swift-unidirectional-flow) - Unidirectional flow implemented using the latest Swift Generics and Swift Concurrency features.
 - [ELMaestro](https://github.com/Electrode-iOS/ELMaestro) - Swift framework that provides a plugin system for iOS apps.
 - [SwiftBitset](https://github.com/lemire/SwiftBitset) - Bitset class in Swift for fast and concise set operations over integers.
+- [webauthn-swift](https://github.com/swift-server/webauthn-swift) - Swift library for implementing the WebAuthn spec.
 
 ## Other (not lib)
 
@@ -1280,3 +1281,4 @@
 - [SPISearch](https://github.com/heckj/SPISearch) - App (macOS & iOS) to explore the search results from Swift Package Index.
 - [Swift Distributed Actors on Fly.io](https://github.com/PopFlamingo/hello-fly-distributed-actors)
 - [Meet Transferable (2022)](https://www.wwdcnotes.com/notes/wwdc22/10062/)
+- [SwiftFormatPlugin](https://github.com/MarcoEidinger/SwiftFormatPlugin) - Swift Package Plugin to format source code with SwiftFormat.

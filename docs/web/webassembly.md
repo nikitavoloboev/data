@@ -336,3 +336,5 @@ title: WebAssembly
 - [Tell HN: We are trying to get tail calls into the WebAssembly standard (2022)](https://news.ycombinator.com/item?id=32069418) ([Lobsters](https://lobste.rs/s/wdtojd/fantastic_tail_calls_how_implement_them))
 - [Awesome WebAssembly Plugins](https://github.com/shekhirin/awesome-webassembly-plugins)
 - [Why am I excited about WebAssembly? (2022)](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/) ([HN](https://news.ycombinator.com/item?id=32128209))
+- [WITX-CodeGen](https://github.com/jedisct1/witx-codegen) - WITX code and documentation generator. WITX is a way to describe types and function interfaces for WebAssembly modules.
+- [Enarx Codex](https://github.com/enarx/codex) - Code examples that can be compiled to WebAssembly for use with Enarx.

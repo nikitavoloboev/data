@@ -377,3 +377,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix-wrangle](https://github.com/timbertson/nix-wrangle) - Wrangle your nix dependencies.
 - [Nix – taming Unix with functional programming (2022)](https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/)
 - [Demo of using Nix + Bazel for a tree-sitter project](https://github.com/typesanitizer/demo-nix-bazel-tree-sitter)
+- [About using Nix in my development workflow (2018)](https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/) ([HN](https://news.ycombinator.com/item?id=32169454))

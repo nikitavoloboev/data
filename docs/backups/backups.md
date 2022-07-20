@@ -36,6 +36,7 @@ For programming, [Walrus](https://github.com/Clivern/Walrus) seems nice.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [paperback](https://github.com/cyphar/paperback) - Paper-based backup scheme that is secure and easy-to-use.
 - [Duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups on cloud storage services.
+- [Back In Time](https://github.com/bit-team/backintime) - Simple backup tool for Linux.
 
 ## Cloud Storage
 

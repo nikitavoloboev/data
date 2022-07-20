@@ -502,3 +502,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Ask HN: How would you bootstrap a telco? (re: Rogers outage) (2022)](https://news.ycombinator.com/item?id=32035633)
 - [(1) Best router for a new apartment with minimal smart tech? (2022)](https://www.reddit.com/r/HomeKit/comments/vw50ie/best_router_for_a_new_apartment_with_minimal/)
 - [Running an Open Source Home Area Network](https://xn--gckvb8fzb.com/running-an-open-source-home-area-network/)
+- [Seenvoy](https://github.com/saltbo/seenvoy) - Visualize the configs of the Envoy.

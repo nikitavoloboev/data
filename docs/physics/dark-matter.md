@@ -12,4 +12,4 @@
 - [Astronomers discover a strange galaxy without dark matter (2022)](https://www.wired.com/story/astronomers-discover-a-strange-galaxy-without-dark-matter/) ([HN](https://news.ycombinator.com/item?id=29873500))
 - [A new tool for finding dark matter digs up nothing (2022)](https://www.quantamagazine.org/a-new-tool-for-finding-dark-matter-digs-up-nothing-20220321/) ([HN](https://news.ycombinator.com/item?id=30766082))
 - [The Absurd Search For Dark Matter (2022)](https://www.youtube.com/watch?v=6etTERFUlUI)
-- [Dark Matter Fun (2022)](https://www.tbray.org/ongoing/When/202x/2022/07/18/Long-Dark-Matter-Links)
+- [Dark Matter Fun (2022)](https://www.tbray.org/ongoing/When/202x/2022/07/18/Long-Dark-Matter-Links) ([HN](https://news.ycombinator.com/item?id=32151800))

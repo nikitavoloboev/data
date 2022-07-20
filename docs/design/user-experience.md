@@ -190,3 +190,4 @@
 - [50+ practical UI/UX design tips](https://twitter.com/erikdkennedy/status/1328771593934290944)
 - [The History of User Interfaces](https://history.user-interface.io/) ([HN](https://news.ycombinator.com/item?id=32092804))
 - [Comfy Software (2022)](https://catgirl.ai/log/comfy-software/) ([Lobsters](https://lobste.rs/s/1ot8rq/comfy_software))
+- [Ask HN: How did you increase your UX skills? (2022)](https://news.ycombinator.com/item?id=32147968)

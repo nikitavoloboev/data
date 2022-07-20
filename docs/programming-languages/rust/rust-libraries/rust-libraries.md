@@ -561,6 +561,7 @@
 - [ed25519-speccheck](https://github.com/novifinancial/ed25519-speccheck) - Test cases for EdDSA signature verification edge cases.
 - [bls12_381](https://github.com/zkcrypto/bls12_381) - Implementation of the BLS12-381 pairing-friendly elliptic curve group.
 - [secrets](https://github.com/stouset/secrets) - Library to help Rust programmers safely held cryptographic secrets in memory.
+- [crrl](https://github.com/pornin/crrl) - Rust library for cryptographic research.
 
 ## Linux
 

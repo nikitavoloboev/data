@@ -255,6 +255,7 @@ title: GitHub actions
 - [goreadme](https://github.com/posener/goreadme) - Generate readme file from Go doc. Available as GitHub action.
 - [x](https://github.com/go-faster/x) - Go faster reusable workflows.
 - [coverage-badge-go](https://github.com/tj-actions/coverage-badge-go) - Generate coverage badge for go modules.
+- [actions-goveralls](https://github.com/shogo82148/actions-goveralls) - Coveralls GitHub Action with Go integration powered by mattn/goveralls.
 
 ## Rust
 

@@ -96,3 +96,4 @@ title: TCP
 - [tproxy](https://github.com/kevwan/tproxy) - CLI tool to proxy and analyze TCP connections.
 - [Optimizing TCP for high WAN throughput while preserving low latency (2022)](https://blog.cloudflare.com/optimizing-tcp-for-high-throughput-and-low-latency/)
 - [redsocks](https://github.com/darkk/redsocks) - Transparent TCP-to-proxy redirector.
+- [Introduction to TCP and Sockets (2001)](https://www.scottklement.com/rpg/socktut/introduction.html) ([HN](https://news.ycombinator.com/item?id=32160339))

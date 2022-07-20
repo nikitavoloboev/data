@@ -168,3 +168,4 @@
 - [How We Use Property Testing (2022)](https://pspdfkit.com/blog/2022/how-we-use-property-testing/)
 - [Writing Predictable Elixir Code with Reducers (2022)](https://blog.appsignal.com/2022/07/19/writing-predictable-elixir-code-with-reducers.html)
 - [Mat Trudel's Elixir talks](https://github.com/mtrudel/talks)
+- [new dbg tool for Elixir](https://twitter.com/whatyouhide/status/1549295894721445888)

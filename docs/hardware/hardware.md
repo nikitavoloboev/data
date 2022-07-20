@@ -342,3 +342,4 @@
 - [Ask HN: Can competitors catch up to Apple Silicon? (2022)](https://news.ycombinator.com/item?id=31975600)
 - [DigitalJS](https://github.com/tilk/digitaljs) - Teaching-focused digital circuit simulator.
 - [Knox](https://github.com/anishathalye/knox) - Framework for formally verifying hardware security modules to be free of hardware, software, and timing side-channel vulnerabilities.
+- [Building a fast all-SSD NAS (on a budget) (2022)](https://www.jeffgeerling.com/blog/2022/building-fast-all-ssd-nas-on-budget)

@@ -107,3 +107,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [How to increase your happiness over time?](https://twitter.com/nickcammarata/status/1543560881543548928)
 - [Quit Your Job (2022)](https://palladiummag.com/2022/01/06/quit-your-job/)
 - [Tell HN: I have the perfect job, why is it not enough? (2022)](https://news.ycombinator.com/item?id=32059666)
+- [Taking things less personally](https://psyche.co/guides/how-to-take-things-less-personally-and-avoid-mind-reading) ([HN](https://news.ycombinator.com/item?id=32146883))

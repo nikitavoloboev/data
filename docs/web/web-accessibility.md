@@ -106,3 +106,4 @@
 - [Accessibility is Hard and Important](https://andrewwalpole.com/blog/accessibility-is-hard-and-important/)
 - [Automate accessibility tests with Storybook (2022)](https://storybook.js.org/blog/automate-accessibility-tests-with-storybook/)
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/)
+- [eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) - Static AST checker for accessibility rules on JSX elements.

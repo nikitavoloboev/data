@@ -422,6 +422,7 @@
 - [CTAsm](https://github.com/garc0/CTAsm) - Compile Time Assembler for C++. ([Lobsters](https://lobste.rs/s/j1h2mv/compile_time_assembler_for_c_with_nasm))
 - [hopscotch-map](https://github.com/Tessil/hopscotch-map) - C++ implementation of a fast hash map and hash set using hopscotch hashing.
 - [kdtools](https://github.com/thk686/kdtools) - Tools for Working with Multidimensional Data in R and C++.
+- [Photon](https://github.com/alibaba/PhotonLibOS) - High-efficiency LibOS framework, based on a set of carefully selected C++ libs.
 
 ## Links
 

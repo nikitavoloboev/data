@@ -620,3 +620,4 @@
 - [RWKV](https://github.com/BlinkDL/RWKV-LM) - RNN with Transformer-level performance, which can also be directly trained like a GPT transformer (parallelizable).
 - [Kern AI](https://www.kern.ai/) - Open-source IDE for data-centric NLP. Combining programmatic labeling, extensive data management and neural search capabilities. ([Code](https://github.com/code-kern-ai/refinery)) ([HN](https://news.ycombinator.com/item?id=32136121))
 - [spaCy fishing](https://github.com/Lucaterre/spacyfishing) - spaCy wrapper of Entity-Fishing (component) for named entity disambiguation and linking on Wikidata.
+- [DALL·E Now Available in Beta (2022)](https://openai.com/blog/dall-e-now-available-in-beta/) ([HN](https://news.ycombinator.com/item?id=32168190))

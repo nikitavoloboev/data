@@ -879,3 +879,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [A General Recipe for Likelihood-free Bayesian Optimization (2022)](https://arxiv.org/abs/2206.13035) ([Code](https://github.com/lfbo-ml/lfbo))
 - [Generative Coarse-Graining of Molecular Conformations (2022)](https://arxiv.org/abs/2201.12176) ([Code](https://github.com/wwang2/CoarseGrainingVAE))
 - [Thoughts on ML Engineering After a Year of My PhD (2022)](https://www.shreya-shankar.com/phd-year-one/) ([HN](https://news.ycombinator.com/item?id=32147219))
+- [[2206.03398] Towards a General Purpose CNN for Long Range Dependencies in ND (2022)](https://arxiv.org/abs/2206.03398) ([Code](https://github.com/david-knigge/ccnn))

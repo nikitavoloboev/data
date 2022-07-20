@@ -286,6 +286,7 @@
 - [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [ReFrame](https://github.com/reframe-hpc/reframe) - Powerful Python framework for writing and running portable regression tests and benchmarks for HPC systems.
 - [Pretend](https://github.com/alex/pretend) - Library to make stubbing with Python easier.
+- [Nox](https://github.com/wntrblm/nox) - Flexible test automation for Python.
 
 ## Error
 
@@ -936,6 +937,7 @@
 - [addict](https://github.com/mewwts/addict) - Python Dict that's better than heroin.
 - [Fast JSON schema](https://github.com/horejsek/python-fastjsonschema) - Fast JSON schema validator for Python.
 - [Nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices.
+- [MutatorMath](https://github.com/LettError/MutatorMath) - Python library for piecewise linear interpolation in multiple dimensions with multiple, arbitrarily placed, masters.
 
 ## Notes
 

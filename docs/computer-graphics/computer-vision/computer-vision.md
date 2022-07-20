@@ -869,3 +869,4 @@
 - [Illumination Adaptive Transformer (2022)](https://arxiv.org/abs/2205.14871) ([Code](https://github.com/cuiziteng/Illumination-Adaptive-Transformer))
 - [MotionCLIP: Exposing Human Motion Generation to CLIP Space (2022)](https://arxiv.org/abs/2203.08063) ([Code](https://github.com/GuyTevet/MotionCLIP))
 - [Awesome Image Composition](https://github.com/bcmi/Awesome-Image-Composition)
+- [Scene Text Recognition with Permuted Autoregressive Sequence Models (2022)](https://arxiv.org/abs/2207.06966) ([Code](https://github.com/baudm/parseq))

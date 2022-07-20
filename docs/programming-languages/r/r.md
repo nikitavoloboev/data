@@ -1,5 +1,7 @@
 # R language
 
+[R for Data Science](https://r4ds.had.co.nz/index.html) is nice.
+
 ## Links
 
 - [The R language, for programmers](https://www.johndcook.com/blog/r_language_for_programmers/)
@@ -178,3 +180,4 @@
 - [camcorder](https://github.com/thebioengineer/camcorder) - Track and record the ggplots that are created across one or multiple sessions.
 - [rstatix](https://github.com/kassambara/rstatix) - Pipe-friendly Framework for Basic Statistical Tests in R.
 - [nplyr](https://github.com/markjrieke/nplyr) - Grammar of nested data manipulation.
+- [lambdr](https://github.com/mdneuzerling/lambdr) - Run R containers on AWS Lambda.

@@ -126,3 +126,4 @@ title: Three.js
 - [Three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg) - Flexible, memory compact, fast and dynamic CSG implementation on top of three-mesh-bvh.
 - [Three.js Screen Space Reflections](https://github.com/0beqz/screen-space-reflections)
 - [Curl Flow](https://github.com/ichitaro/curl-flow)
+- [react-three-csg](https://github.com/pmndrs/react-three-csg) - Constructive solid geometry for React.

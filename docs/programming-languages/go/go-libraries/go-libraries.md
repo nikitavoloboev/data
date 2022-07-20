@@ -1749,6 +1749,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [lrmr](https://github.com/ab180/lrmr) - Online MapReduce framework for Go, which is capable for jobs in sub-second.
 - [fsync](https://github.com/spf13/fsync) - Keeps files or directories in sync.
 - [QuickJS-Go](https://github.com/elsaland/quickjs) - Go bindings to QuickJS: a fast, small, and embeddable ES2020 JavaScript interpreter.
+- [lockfree](https://github.com/golang-design/lockfree) - Lock-free utilities in Go.
 
 ## Links
 
@@ -1875,3 +1876,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go News Twitter](https://twitter.com/golang_news)
 - [Calling Go Functions from Other Languages using C Shared Libraries](https://github.com/vladimirvivien/go-cshared-examples)
 - [nonamedreturns](https://github.com/firefart/nonamedreturns) - Go linter to detect named returns.
+- [structscanner](https://github.com/VinGarcia/structscanner) - Make it easy to write code that scans data into structs in safe and efficient manner.

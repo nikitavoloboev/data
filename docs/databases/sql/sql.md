@@ -205,3 +205,4 @@ title: SQL
 - [SQL tricks and concepts you didn't know about - Aleksandra Sikora (2022)](https://www.youtube.com/watch?v=QoCGmvVCqto)
 - [SQL Habit](https://www.sqlhabit.com/) - Practical SQL course.
 - [Monaco SQL Languages](https://github.com/DTStack/monaco-sql-languages)
+- [Use Checkerboard Diagrams to Visualize Joins Instead of Venn Diagrams](https://towardsdatascience.com/you-should-use-this-to-visualize-sql-joins-instead-of-venn-diagrams-ede15f9583fc)

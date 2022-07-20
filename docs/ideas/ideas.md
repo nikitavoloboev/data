@@ -27,7 +27,7 @@ I try to give my full attention to any ideas I am working on.
 ## Links
 
 - [Project based learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials.
-- [Build your own X](https://github.com/danistefanovic/build-your-own-x)
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 - [Projects list](https://github.com/karan/Projects)
 - [Ask HN: How do you keep track of your creative thoughts? (2019)](https://news.ycombinator.com/item?id=18837345)
 - [Ideas by Paul Graham (2005)](http://www.paulgraham.com/ideas.html)
