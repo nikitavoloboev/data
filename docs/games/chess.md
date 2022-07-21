@@ -228,3 +228,4 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Generating Chess Puzzles Fast with Rust and Stockfish (2022)](https://mbuffett.com/posts/generating_chess_puzzles/)
 - [Opening Builder](https://chessmadra.com/openings) - Tool to help you build and remember your opening repertoire. ([Reddit](https://www.reddit.com/r/chess/comments/vw5uie/i_made_a_website_to_help_you_create_and_memorize/))
 - [Chessguessr](https://www.chessguessr.com/) - Wordle for Chess Games. ([HN](https://news.ycombinator.com/item?id=32162945))
+- [HN: Magnus Carlsen to give up World Championship title (2022)](https://news.ycombinator.com/item?id=32163993)
