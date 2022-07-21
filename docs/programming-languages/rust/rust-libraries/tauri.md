@@ -7,6 +7,7 @@ title: Tauri
 ## OSS Tauri apps
 
 - [TaurApp](https://github.com/erayerdin/taurapp) - WhatsApp desktop client powered by Tauri and Rust.
+- [Emberry](https://github.com/emberry-org/emberry) - P2P Chat powered by Tauri and Svelte.
 
 ## Links
 

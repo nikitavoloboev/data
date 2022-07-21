@@ -13,3 +13,4 @@ title: Datasette
 - [Write Datasette canned queries as plain SQL files](https://github.com/eyeseast/datasette-query-files)
 - [Template repository for creating new Datasette plugins](https://github.com/simonw/datasette-plugin-template-repository)
 - [datasette-cluster-map](https://github.com/simonw/datasette-cluster-map) - Datasette plugin that shows a map for any data with latitude/longitude columns.
+- [Weeknotes: Datasette, sqlite-utils, Datasette Desktop (2022)](https://simonwillison.net/2022/Jul/20/weeknotes/)

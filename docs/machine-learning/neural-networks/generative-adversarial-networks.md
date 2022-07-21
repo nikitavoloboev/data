@@ -218,3 +218,4 @@ title: Generative adversarial networks
 - [NeRF: An Eventual Successor for Deepfakes?](https://metaphysic.ai/nerf-successor-deepfakes/) ([HN](https://news.ycombinator.com/item?id=31894552))
 - [BlobGAN: Spatially Disentangled Scene Representations (2022)](https://arxiv.org/abs/2205.02837) ([Code](https://github.com/dave-epstein/blobgan))
 - [BigVGAN: A Universal Neural Vocoder with Large-Scale Training (2022)](https://arxiv.org/abs/2206.04658) ([Code](https://github.com/sh-lee-prml/BigVGAN))
+- [Training StyleGAN2 on TPUs in JAX](https://github.com/nyx-ai/stylegan2-flax-tpu)

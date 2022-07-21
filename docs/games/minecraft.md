@@ -126,3 +126,4 @@ title: Minecraft
 - [Learning to Play Minecraft with Video PreTraining (VPT) (2022)](https://openai.com/blog/vpt/)
 - [Player Analytics](https://github.com/plan-player-analytics/Plan) - Player Analytics plugin for Minecraft Server platforms.
 - [ManaDrop](https://github.com/Iltotore/ManaDrop) - Gradle plugin for Minecraft development.
+- [Minecraft clone made with Three.js and TypeScript](https://github.com/vyse12138/minecraft-threejs)

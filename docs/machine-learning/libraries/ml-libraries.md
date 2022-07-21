@@ -375,3 +375,4 @@ title: ML Libraries
 - [ADAPT](https://github.com/adapt-python/adapt) - Awesome Domain Adaptation Python Toolbox.
 - [giotto-deep](https://github.com/giotto-ai/giotto-deep) - Deep learning made topological.
 - [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) - Library from DeepSpeed, designed to make low-latency, low-cost inference of powerful transformer models.
+- [logreg](https://github.com/darrenjw/logreg) - Bayesian inference for a logistic regression model in various languages.

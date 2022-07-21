@@ -10,6 +10,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 
 - [NextJS + tRPC + TailwindCSS + TS + Prisma + NextAuth](https://github.com/t3-oss/create-t3-app)
 - [NextJS, Tailwind, TRPC, Prisma, and NextAuth Starter](https://github.com/copleykj/NextJS-Ultimate-Starter)
+- [Next.js Prisma Boilerplate](https://github.com/nemanjam/nextjs-prisma-boilerplate)
 - [Next.js Commerce starter kit](https://nextjs.org/commerce)
 - [NextJS full stack starter](https://github.com/SaraVieira/next-fullstack-starter)
 - [Turborepo starter with pnpm (Remix/NextJS)](https://github.com/mcansh/turborepo-remix)

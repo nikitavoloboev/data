@@ -282,3 +282,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [denoio](https://github.com/syumai/denoio) - Go package to bind Deno and Go(Wasm)'s I/O interfaces.
 - [Deno PKG](https://github.com/justjavac/pkg.deno.dev) - Version semantic and fast package delivery network for Deno.
 - [Dpm](https://github.com/dpmland/dpm) - Missing Deno Package Manager.
+- [dax](https://github.com/dsherret/dax) - Cross platform shell tools for Deno inspired by zx.

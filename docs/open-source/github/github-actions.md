@@ -240,6 +240,7 @@ title: GitHub actions
 - [Push Protected](https://github.com/CasperWA/push-protected) - GitHub Action to push newly created commit(s) to a protected branch, waiting for status checks to succeed.
 - [Sync S3 Bucket](https://github.com/jakejarvis/s3-sync-action) - GitHub Action to sync a directory with a remote S3 bucket.
 - [Label Sync](https://github.com/r7kamura/github-label-sync-action) - Sync GitHub Labels with labels definition file.
+- [git-issue-release](https://github.com/kouki-dan/git-issue-release) - Automatically creates a release issue which includes pull requests after the latest release.
 
 ## Go
 
