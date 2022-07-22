@@ -565,3 +565,4 @@ title: Linux
 - [My business card runs Linux](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard) ([HN](https://news.ycombinator.com/item?id=32077823))
 - [tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd.
 - [perf_to_profile](https://github.com/google/perf_data_converter) - Tool to convert Linux perf files to the profile.proto format used by pprof.
+- [Beginner’s Guide to eBPF Programming - Liz Rice (2020)](https://www.youtube.com/watch?v=lrSExTfS-iQ)
