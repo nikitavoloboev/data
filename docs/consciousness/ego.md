@@ -38,3 +38,4 @@ I like to believe in the idea of [Pantheism](https://plato.stanford.edu/entries/
 - [Alan Watts - Get Rid Of Your Ego](https://www.youtube.com/watch?v=m8TCFWNZx2o)
 - [Alan Watts ~ The Purpose Of The Ego](https://www.youtube.com/watch?v=pfROCVjMdrU)
 - [How "I am god" experience influenced you?](https://www.reddit.com/r/RationalPsychonaut/comments/r743eh/the_i_am_god_experience_how_have_others/)
+- [How To Surrender Your Ego To A Psychedelic (2022)](https://www.youtube.com/watch?v=T-8EM0JkLVE)

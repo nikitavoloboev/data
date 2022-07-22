@@ -125,6 +125,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Figtree](https://github.com/erikdkennedy/figtree) - Friendly, simple geometric sans serif font.
 - [Inter Tight](https://github.com/rsms/inter-tight) - Specialized version of Inter with tighter spacing.
 - [Jost](https://github.com/indestructible-type/Jost) - Original font created by indestructible type.
+- [Virgil](https://github.com/excalidraw/virgil) - Font that powers Excalidraw. ([Web](https://virgil.excalidraw.com/))
 
 ## Links
 

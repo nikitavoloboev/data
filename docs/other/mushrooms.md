@@ -26,3 +26,4 @@
 - [The Mycology Bazaar Reddit](https://www.reddit.com/r/MycoBazaar/)
 - [Psilocybin Mushrooms Reddit](https://www.reddit.com/r/PsilocybinMushrooms/)
 - [Spore Traders Reddit](https://www.reddit.com/r/sporetraders/)
+- [How To Never Get Nauseous On Magic Mushrooms?](https://www.youtube.com/watch?v=ExJ_v-ErGS0)

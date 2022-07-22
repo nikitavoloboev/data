@@ -210,3 +210,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [coURLan](https://github.com/adbar/courlan) - Clean, filter, normalize, and sample URLs.
 - [htmldate](https://github.com/adbar/htmldate) - Find the publication date of web pages.
 - [Wpull](https://github.com/ArchiveTeam/wpull) - Wget-compatible web downloader and crawler.
+- [City Scrapers](https://github.com/City-Bureau/city-scrapers) - Scrape, standardize and share public meetings from local government websites.

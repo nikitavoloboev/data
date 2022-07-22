@@ -34,11 +34,12 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Dropbox JS](https://github.com/dropbox/dropbox-sdk-js) - Dropbox JavaScript SDK.
 - [Twitter TS](https://github.com/twitterdev/twitter-api-typescript-sdk) ([Tweet](https://twitter.com/sebastienlorber/status/1504860162498117636))
 - [Twitter TS 2](https://github.com/twitterjs/twitter.js)
-- [Twitter Go](https://github.com/mattn/twty)
-- [Twitter Go 2](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
-- [Twitter Go 3](https://github.com/bloveless/tweetgo)
-- [Twitter Go 4](https://github.com/sivchari/gotwtr)
-- [Twitter Go 5](https://github.com/g8rswimmer/go-twitter)
+- [Twitter Go](https://github.com/michimani/gotwi)
+- [Twitter Go 2](https://github.com/mattn/twty)
+- [Twitter Go 3](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
+- [Twitter Go 4](https://github.com/bloveless/tweetgo)
+- [Twitter Go 5](https://github.com/sivchari/gotwtr)
+- [Twitter Go 6](https://github.com/g8rswimmer/go-twitter)
 - [Twitter Ruby](https://github.com/nov/twitter_oauth2) - Twitter OAuth 2.0 Client Library in Ruby.
 - [Twitter Swift](https://github.com/mattdonnelly/Swifter)
 - [Twitter Python](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.

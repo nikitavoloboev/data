@@ -49,7 +49,7 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [Richard Hipp - SQLite lecture (2015)](https://www.youtube.com/watch?v=gpxnbly9bz4)
 - [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support) ([HN](https://news.ycombinator.com/item?id=25226260))
 - [Dqlite](https://dqlite.io/) - High-Availability SQLite. ([Code](https://github.com/canonical/dqlite))
-- [LiteTree](https://github.com/aergoio/litetree) - SQLite with Branches.
+- [LiteTree](https://github.com/aergoio/litetree) - SQLite with Branches. ([HN](https://news.ycombinator.com/item?id=32191266))
 - [Working with SQLite using Go and Python (2020)](https://www.ardanlabs.com/blog/2020/11/working-with-sqlite-using-go-python.html)
 - [sandman2](https://github.com/jeffknupp/sandman2) - Generates a RESTful API service from your existing database, without requiring you to write a line of code. Works with SQLite.
 - [node-sqlite](https://github.com/kriasoft/node-sqlite) - SQLite client for Node.js applications with SQL-based migrations API written in TypeScript.

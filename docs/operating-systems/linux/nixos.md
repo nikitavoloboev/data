@@ -71,6 +71,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 
 ## Nix configs (macOS)
 
+- [Matan Kushner](https://github.com/matchai/dotfiles)
 - [Calum MacRae](https://github.com/cmacrae/config)
 - [John Wiegley](https://github.com/jwiegley/nix-config)
 - [LnL7](https://github.com/LnL7/dotfiles)

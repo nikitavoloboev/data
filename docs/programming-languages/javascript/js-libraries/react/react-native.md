@@ -25,6 +25,7 @@ title: React Native
 - [Smoothly Animated ToDo App built with React Native](https://github.com/craftzdog/react-native-animated-todo)
 - [Rive Animated App](https://github.com/lklima/rive-animated-app) - React Native animated app with reanimated + expo and Rive an amazing tool for interactive icons and shapes animation.
 - [RN Transitions](https://github.com/lklima/rn-transitions) - React Native animated app with reanimated + expo.
+- [Blank Solito Example Monorepo](https://github.com/teovillanueva/react-native-web-maps-solito-example)
 
 ## Notes
 

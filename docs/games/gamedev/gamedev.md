@@ -278,3 +278,4 @@
 - [Fog for Top-Down Games (2022)](https://kvachev.com/blog/posts/fog-for-topdown-games/)
 - [Programming a Rogue-Like with Rust](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html) ([HN](https://news.ycombinator.com/item?id=32067019))
 - [The Last of Us Part I Rebuilt for PS5 (2022)](https://www.youtube.com/watch?v=uRKIWQUucj0)
+- [Ask HN: What makes users want to share a game? (2022)](https://news.ycombinator.com/item?id=32191526)

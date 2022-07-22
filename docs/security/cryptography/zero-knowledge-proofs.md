@@ -105,3 +105,4 @@ title: Zero knowledge proofs
 - [RISC Zero Rust Starter](https://github.com/risc0/risc0-rust-starter) - Minimal starting project for zero-knowledge software development.
 - [Vamp-IR](https://github.com/anoma/vamp-ir) - Proof-system-agnostic language for writing arithmetic circuits.
 - [zkMove Lite](https://github.com/young-rocks/zkmove-lite) - Lightweight zero-knowledge proof friendly Move language virtual machine.
+- [zkEVM Prover in C++](https://github.com/0xPolygonHermez/zkevm-prover)

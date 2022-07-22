@@ -26,6 +26,7 @@
 
 ## LeetCode solutions
 
+- [LeetCode solutions in Rust/Python](https://github.com/fruit-in/leetcode)
 - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/) - Curated list of Leetcode questions grouped by their common patterns. ([Code](https://github.com/seanprashad/leetcode-patterns))
 - [LeetCode frequently asked questions](https://github.com/olegoratovskiy/leetcode-frequently-asked-questions)
 - [Rust](https://github.com/pymongo/leetcode-rust)

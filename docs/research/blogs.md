@@ -299,3 +299,4 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Old-school blogging, retro computers, and decentralization (2022)](https://andregarzia.com/2022/05/Old-school-blogging-retro-computers-and-decentralisation.html) ([Lobsters](https://lobste.rs/s/m5d4xo/old_school_blogging_retro_computers))
 - [Indie Microblogging](https://book.micro.blog/)
 - [Prose.sh](https://prose.sh/) - Blog platform for hackers. ([HN](https://news.ycombinator.com/item?id=32128013))
+- [Ask HN: Do you maintain a list of RSS links of GOAT blogs? (2022)](https://news.ycombinator.com/item?id=32191140)

@@ -42,3 +42,4 @@ title: Differential equations
 - [heyoka.py](https://github.com/bluescarni/heyoka.py) - Python library for ODE integration via Taylor's method and LLVM.
 - [DifferentiableTrajectoryOptimization.jl](https://github.com/lassepe/DifferentiableTrajectoryOptimization.jl) - Differentiable trajectory optimization in Julia.
 - [Solving partial differential equations in parallel on GPUs (2021)](https://github.com/eth-vaw-glaciology/course-101-0250-00)
+- [The Lazy Way to Solve Differential Equations (2022)](https://iagoleal.com/posts/calculus-symbolic-ode/) ([HN](https://news.ycombinator.com/item?id=32191372))

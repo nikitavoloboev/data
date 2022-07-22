@@ -252,3 +252,4 @@
 - [Mood Board Search](https://github.com/google-research/mood-board-search) - Train a computer to recognize visual concepts using mood boards and machine learning.
 - [Pagefind](https://github.com/CloudCannon/pagefind) - Fully static search library that aims to perform well on large sites, while using as little of your users' bandwidth as possible. ([Docs](https://pagefind.app/)) ([Lobsters](https://lobste.rs/s/pvkg80/static_low_bandwidth_search_at_scale))
 - [libsearch](https://github.com/thesephist/libsearch) - Simple, index-free full-text search for JavaScript.
+- [DuckDuckScrape](https://github.com/Snazzah/duck-duck-scrape) - Search from DuckDuckGo and utilize its spice APIs for things such as stocks, weather, currency conversion and more.

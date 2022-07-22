@@ -581,6 +581,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [fast-array-diff](https://github.com/YuJianrong/fast-array-diff) - Node module to find the same/diff of two arrays.
 - [settle-it](https://github.com/astoilkov/settle-it) - Like Promise.allSettled() but for sync and async functions.
 - [good-try](https://github.com/astoilkov/good-try) - Tries to execute sync/async function, returns a specified default value if the function throws.
+- [esfx](https://github.com/esfx/esfx) - Suite of packages designed to provide low-level APIs for interoperable libraries.
 
 ## Links
 
