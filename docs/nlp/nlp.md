@@ -621,3 +621,5 @@
 - [Kern AI](https://www.kern.ai/) - Open-source IDE for data-centric NLP. Combining programmatic labeling, extensive data management and neural search capabilities. ([Code](https://github.com/code-kern-ai/refinery)) ([HN](https://news.ycombinator.com/item?id=32136121))
 - [spaCy fishing](https://github.com/Lucaterre/spacyfishing) - spaCy wrapper of Entity-Fishing (component) for named entity disambiguation and linking on Wikidata.
 - [DALL·E Now Available in Beta (2022)](https://openai.com/blog/dall-e-now-available-in-beta/) ([HN](https://news.ycombinator.com/item?id=32168190))
+- [Inside language models (from GPT-3 to PaLM)](https://lifearchitect.ai/models/)
+- [Timeline of AI and language models](https://lifearchitect.ai/timeline/)

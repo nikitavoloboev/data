@@ -211,3 +211,4 @@ title: Jupyter Notebooks
 - [Jupyter React](https://github.com/datalayer/jupyter-react) - React.js components to create reactive data products compatible with the Jupyter ecosystem.
 - [Jupyter Server](https://github.com/jupyter-server/jupyter_server) - Backend—i.e. core services, APIs, and REST endpoints—to Jupyter web applications.
 - [VPython](https://github.com/vpython/vpython-jupyter) - 3D visualization made easy.
+- [All the Kernels](https://github.com/minrk/allthekernels) - Jupyter kernel that multiplexes all the kernels you have installed.

@@ -81,3 +81,4 @@ title: WireGuard
 - [Compare WireGuard Mesh Tools](https://github.com/HarvsG/WireGuardMeshes)
 - [wireguard_exporter](https://github.com/kbknapp/wireguard_exporter) - Prometheus exporter for WireGuard.
 - [WireGuard installer](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers.
+- [wghttp](https://github.com/zhsj/wghttp) - Turn WireGuard to HTTP & SOCKS5 proxies.

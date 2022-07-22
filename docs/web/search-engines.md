@@ -250,4 +250,5 @@
 - [Hello](https://beta.sayhello.so/) - Conversational Search.
 - [SearchHut](https://searchhut.org/) - Curated free software search engine. ([Code](https://sr.ht/~sircmpwn/searchhut/)) ([HN](https://news.ycombinator.com/item?id=32104609))
 - [Mood Board Search](https://github.com/google-research/mood-board-search) - Train a computer to recognize visual concepts using mood boards and machine learning.
-- [Pagefind](https://github.com/CloudCannon/pagefind) - Fully static search library that aims to perform well on large sites, while using as little of your users' bandwidth as possible.
+- [Pagefind](https://github.com/CloudCannon/pagefind) - Fully static search library that aims to perform well on large sites, while using as little of your users' bandwidth as possible. ([Docs](https://pagefind.app/)) ([Lobsters](https://lobste.rs/s/pvkg80/static_low_bandwidth_search_at_scale))
+- [libsearch](https://github.com/thesephist/libsearch) - Simple, index-free full-text search for JavaScript.

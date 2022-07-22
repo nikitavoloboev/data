@@ -445,3 +445,4 @@ title: Haskell
 - [defaultable-map: An Applicative wrapper for Maps (2022)](https://www.haskellforall.com/2022/06/defaultable-map-applicative-wrapper-for.html) ([Lobsters](https://lobste.rs/s/fcbvdo/defaultable_map_applicative_wrapper_for))
 - [Parsing with Haskell (2022)](https://serokell.io/blog/lexing-with-alex) ([HN](https://news.ycombinator.com/item?id=31986811))
 - [Quine Central in Haskell](https://github.com/dpiponi/quine-central)
+- [The joys and perils of beating C with Haskell (2020)](https://0xd34df00d.me/posts/2020/03/the-joys-and-perils.html)

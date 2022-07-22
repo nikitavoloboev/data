@@ -870,3 +870,7 @@
 - [MotionCLIP: Exposing Human Motion Generation to CLIP Space (2022)](https://arxiv.org/abs/2203.08063) ([Code](https://github.com/GuyTevet/MotionCLIP))
 - [Awesome Image Composition](https://github.com/bcmi/Awesome-Image-Composition)
 - [Scene Text Recognition with Permuted Autoregressive Sequence Models (2022)](https://arxiv.org/abs/2207.06966) ([Code](https://github.com/baudm/parseq))
+- [Multimodal Masked Autoencoders Learn Transferable Representations](https://arxiv.org/abs/2205.14204) ([Code](https://github.com/young-geng/m3ae_public))
+- [BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection (2022)](https://arxiv.org/abs/2206.10092) ([Code](https://github.com/Megvii-BaseDetection/BEVDepth))
+- [BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving (2022)](https://arxiv.org/abs/2205.09743) ([Code](https://github.com/zhangyp15/BEVerse))
+- [AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields (2022)](https://arxiv.org/abs/2207.10312) ([Code](https://github.com/thomasneff/AdaNeRF))

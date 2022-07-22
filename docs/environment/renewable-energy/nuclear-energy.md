@@ -72,3 +72,4 @@ Nuclear energy [gets a bad reputation but its the future of renewable energy](ht
 - [Ask HN: Can you both take climate change seriously and against nuclear energy? (2022)](https://news.ycombinator.com/item?id=31921132)
 - [HN: Nuclear turn green as EU parliament approves new taxonomy (2022)](https://news.ycombinator.com/item?id=32011288)
 - [Helion Needs You (2022)](https://blog.samaltman.com/helion-needs-you) ([HN](https://news.ycombinator.com/item?id=32085215))
+- [Nuclear waste isn't a problem](https://twitter.com/MadiHilly/status/1550148385931513856)

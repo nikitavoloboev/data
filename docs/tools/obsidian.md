@@ -236,3 +236,4 @@ div.CodeMirror-cursor,
 - [How I set and track goals using Obsidian (2021)](https://marcus.se.net/how-i-set-and-track-goals-in-obsidian/)
 - [Obsidian Help](https://help.obsidian.md/Obsidian/Index)
 - [Shimmering Obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow for various enhancements of Obsidian.
+- [Obsidian Plugin Developer Docs](https://github.com/marcusolsson/obsidian-plugin-docs)

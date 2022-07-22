@@ -158,3 +158,4 @@
 - [What Good, Cash-Strapped Hiring Looks Like (2022)](https://commoncog.com/blog/cash-strapped-hiring/) ([HN](https://news.ycombinator.com/item?id=31579275))
 - [Ask HN: Having trouble getting senior applicants, wondering what to do about it (2022)](https://news.ycombinator.com/item?id=31812864)
 - [ChiefOnboarding](https://chiefonboarding.com/) - Free and open source employee onboarding platform. You can onboarding new hires through Slack or the dashboard. ([Code](https://github.com/chiefonboarding/ChiefOnboarding))
+- [Tell HN: You can't hire because you don't post salary ranges (2022)](https://news.ycombinator.com/item?id=32181619)

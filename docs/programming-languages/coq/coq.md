@@ -163,3 +163,6 @@ title: Coq
 - [Coq LSP](https://github.com/ejgallego/coq-lsp) - Language Server Protocol for Coq.
 - [CoqBan](https://github.com/proof-ninja/coqban) - Allows you to directly execute your Coq code uploaded to Gist.
 - [coq-switch](https://github.com/vzaliva/coq-switch)
+- [Coqoban](https://github.com/coq-community/coqoban) - Coq implementation of Sokoban, the Japanese warehouse keepers' game.
+- [Lustre compiler in Coq](https://github.com/INRIA/velus)
+- [Choice Trees](https://github.com/vellvm/ctrees) - itree-like data-structure to additionally support internal non-determinism.

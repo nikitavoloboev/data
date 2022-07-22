@@ -232,3 +232,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Ask HN: What is the most complex topic you understand? (2022)](https://news.ycombinator.com/item?id=32083653)
 - [Awesome Learning](https://github.com/afontcu/awesome-learning)
 - [Does Bionic Reading work? Results from our reading speed experiment](https://blog.readwise.io/bionic-reading-results/) ([HN](https://news.ycombinator.com/item?id=32152051))
+- [Ask HN: What Are You Learning? (2022)](https://news.ycombinator.com/item?id=32187745)

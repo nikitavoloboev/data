@@ -86,3 +86,4 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [slacker](https://github.com/velveteer/slacker) - Haskell library for building Slack apps in Socket Mode.
 - [Tiny Slack bot client using the web socket mode](https://github.com/ikawaha/slackbot)
 - [Ask HN: How do you ensure everyone on the team is heard on Slack? (2022)](https://news.ycombinator.com/item?id=31943016)
+- [Slack API for Cloudflare Workers (2022)](https://sagi.io/slack-api-for-cloudflare-workers/)

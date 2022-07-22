@@ -881,3 +881,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Thoughts on ML Engineering After a Year of My PhD (2022)](https://www.shreya-shankar.com/phd-year-one/) ([HN](https://news.ycombinator.com/item?id=32147219))
 - [[2206.03398] Towards a General Purpose CNN for Long Range Dependencies in ND (2022)](https://arxiv.org/abs/2206.03398) ([Code](https://github.com/david-knigge/ccnn))
 - [Formal Algorithms for Transformers (2022)](https://arxiv.org/abs/2207.09238) ([HN](https://news.ycombinator.com/item?id=32163324))
+- [Practical Deep Learning for Coders 2022](https://www.fast.ai/2022/07/21/dl-coders-22/) ([HN](https://news.ycombinator.com/item?id=32186647))

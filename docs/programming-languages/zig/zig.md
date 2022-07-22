@@ -132,3 +132,5 @@ title: Zig
 - [How to get started with Zig? (2022)](https://www.reddit.com/r/Zig/comments/vtg28k/how_to_get_started_with_ziglang/)
 - [Zig is becoming more production-worthy (2022)](https://zigmonthly.org/letters/2022/may-june/)
 - [Zig Language Server (zls) for VSCode](https://github.com/zigtools/zls-vscode)
+- [Some Thoughts on Zig (2022)](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/) ([HN](https://news.ycombinator.com/item?id=32187626))
+- [Makin' wavs with Zig (2022)](https://blog.jfo.click/makin-wavs-with-zig/) ([Lobsters](https://lobste.rs/s/3zhmel/makin_wavs_with_zig))

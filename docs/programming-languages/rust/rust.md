@@ -845,3 +845,4 @@ title: Rust
 - [Async Rust: What is a runtime? Here is how tokio works under the hood (2022)](https://kerkour.com/rust-async-await-what-is-a-runtime) ([HN](https://news.ycombinator.com/item?id=32119002))
 - [Elegant and performant recursion in Rust (2022)](https://recursion.wtf/posts/rust_schemes/) ([Tweet](https://twitter.com/inanna_malick/status/1549426154427166721))
 - [How to speed up the Rust compiler in July 2022](https://nnethercote.github.io/2022/07/20/how-to-speed-up-the-rust-compiler-in-july-2022.html)
+- [Building a Rust Mentality (2022)](https://slightknack.dev/blog/shift/) ([Lobsters](https://lobste.rs/s/izxatc/building_rust_mentality))

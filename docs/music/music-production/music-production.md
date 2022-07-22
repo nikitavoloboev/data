@@ -398,3 +398,4 @@
 - [SP-Tools](https://github.com/rconstanzo/SP-tools) - Machine Learning tools for drums and percussion. ([Article](https://rodrigoconstanzo.com/2022/07/sp-tools-machine-learning-tools-for-drums-and-percussion-alpha/))
 - [JJazzLab-X](https://github.com/jjazzboss/JJazzLab-X) - Complete MIDI-based framework for automatic backing tracks generation. ([HN](https://news.ycombinator.com/item?id=32150169))
 - [Signals And Sorcery](https://signalsandsorcery.org/sas/composer) - Browser-based DAW. ([HN](https://news.ycombinator.com/item?id=32165328))
+- [monome](https://monome.org/) - Sound machines for the exploration of time and space. ([GitHub](https://github.com/monome)) ([libmonome](https://github.com/monome/libmonome))

@@ -562,4 +562,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [GitDB](https://github.com/gogitdb/gitdb) - Distributed embeddable database on top of Git. ([HN](https://news.ycombinator.com/item?id=31987240))
 - [In Praise of Stacked PRs (2022)](https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/) ([Lobsters](https://lobste.rs/s/4zjln3/praise_stacked_prs))
 - [git-story](https://github.com/initialcommit-com/git-story) - Tell the story of your Git project by creating video animations of your commit history directly from your Git repo.
-- [Things I wish everyone knew about Git (Part II) (2022)](https://blog.plover.com/prog/git/tips-2.html) ([HN](https://news.ycombinator.com/item?id=32161247))
+- [Things I wish everyone knew about Git (Part II) (2022)](https://blog.plover.com/prog/git/tips-2.html) ([HN](https://news.ycombinator.com/item?id=32161247)) ([Part 1](https://blog.plover.com/prog/git/tips.html))

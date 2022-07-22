@@ -9,6 +9,7 @@ Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/
 - [Cardigan](https://twitter.com/uchilka_nastya/status/1447875246720176128)
 - [White sweater](https://www.instagram.com/p/CWjPkNLjhpf/)
 - [Imaan Hammam's Gala dress](https://twitter.com/badestoutfit/status/1521721620284456960)
+- [Alexis Ferrer](https://www.instagram.com/alexisferrer01/)
 
 ## Collections
 

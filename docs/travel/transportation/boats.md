@@ -1,5 +1,9 @@
 # Boats
 
+## Notes
+
+- [Catamaran are much more livable (more space) than other boats.](https://twitter.com/maccaw/status/1550160798411919361)
+
 ## Links
 
 - [SailNavSim](https://8bitbyte.ca/sailnavsim/) - Global sailing navigation simulator using real weather/ocean data. ([HN](https://news.ycombinator.com/item?id=23661326))
@@ -26,3 +30,4 @@
 - [Zen and the Art of Boat Building (2014)](https://www.yachtmollymawk.com/2014/11/zen-and-the-art-of-boat-building/)
 - [Lürssen Yachts](https://www.lurssen.com/en/)
 - [Starlink Maritime](https://www.starlink.com/maritime) - High-speed, low-latency internet with up to 350 Mbps download while at sea. ([HN](https://news.ycombinator.com/item?id=32018218))
+- [The Long Way: Sheridan House Maritime Classic](https://www.goodreads.com/en/book/show/404437)

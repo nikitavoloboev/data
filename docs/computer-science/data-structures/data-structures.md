@@ -116,3 +116,4 @@
 - [Data Structure Algorithms Low Level Design and High Level Design collection of resources](https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD)
 - [The true cost of linked lists (2022)](http://ykarroum.com/2022/05/30/true-cost-list/) ([HN](https://news.ycombinator.com/item?id=31638746))
 - [Data Structure Visualizer](https://kg86.github.io/visds/) ([Code](https://github.com/kg86/visds))
+- [Ask HN: What are some cool but obscure data structures you know about? (2022)](https://news.ycombinator.com/item?id=32186203)

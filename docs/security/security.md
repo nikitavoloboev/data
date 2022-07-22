@@ -307,3 +307,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Himitsu](https://himitsustore.org/) - Secure secret storage system for Unix-like systems. It provides an arbitrary key/value store (where values may be secret) and a query language for manipulating the key store.
 - [Arkana](https://github.com/rogerluan/arkana) - Store your keys and secrets away from your source code. Designed for Android and iOS projects.
 - [Google CTF](https://github.com/google/google-ctf)
+- [Security best practices for small company (2022)](https://lobste.rs/s/ju2rk6/security_best_practices_for_small)

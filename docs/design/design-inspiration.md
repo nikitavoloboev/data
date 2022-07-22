@@ -4,6 +4,8 @@ I follow a [few designers on Dribble](https://dribbble.com/nikitavoloboev/follow
 
 Below are sites/apps whose design I liked. [Linear is pretty great](https://linear.app/features) (gradient, boxes, layout). [This HN thread on elegant software](https://news.ycombinator.com/item?id=31230903) is a good read too.
 
+[Arc](https://thebrowser.company/) has a [pretty onboard experience](https://twitter.com/darylginn/status/1549720866316902402).
+
 ## Websites
 
 - [Column](https://column.com/)

@@ -7,6 +7,8 @@ I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me fo
 - [Purple Voodoo" Purple Black Tea Cake](https://yunnansourcing.com/products/purple-voodoo-purple-black-tea-cake-spring-2018)
 - [Lapsang souchong](https://en.wikipedia.org/wiki/Lapsang_souchong)
 - [Pu'er](https://en.wikipedia.org/wiki/Pu%27er_tea)
+- [Lapsang souchong](https://www.teashop.com/black-tea-formosa-tarry-lapsang-souchong)
+- [Lord Bergamot, Earl Grey Black Tea](https://www.smithtea.com/products/lord-bergamot)
 
 ## Notes
 
@@ -23,3 +25,4 @@ I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me fo
 - [Best Earl Grey tea brands (2022)](https://www.reddit.com/r/tea/comments/ucm112/i_have_had_many_many_earl_greys_but_this_is_by/)
 - [Cute tea/coffee mug](https://www.reddit.com/r/tea/comments/uz3z93/was_wondering_which_site_makes_the_genuine_mugs/)
 - [Your most controversial tea opinion (2022)](https://www.reddit.com/r/tea/comments/vbpadk/your_most_controversial_tea_opinion/)
+- [Steven Smith Teamaker](https://www.smithtea.com/)

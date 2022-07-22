@@ -520,3 +520,4 @@ for i, _ in enumerate(nums):
 - [rich-bench](https://github.com/tonybaloney/rich-bench) - Little Python benchmarking tool.
 - [EuroPython 2022](https://ep2022.europython.eu/) ([Web Code](https://github.com/EuroPython/website))
 - [µfmt](https://github.com/omnilib/ufmt) - Safe, atomic formatting with black and µsort.
+- [Finding performance bottlenecks in Celery tasks (2022)](https://pythonspeed.com/articles/celery-performance/)

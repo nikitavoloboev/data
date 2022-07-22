@@ -569,3 +569,5 @@
 - [What Metric to Use When Benchmarking? (2022)](https://tratt.net/laurie/blog/2022/what_metric_to_use_when_benchmarking.html)
 - [Why DRY is the most over-rated programming principle (2022)](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/) ([HN](https://news.ycombinator.com/item?id=32010699))
 - [Maintaining Software Correctness (2022)](https://blog.danlew.net/2022/06/22/maintaining-software-correctness/)
+- [Oxide and Friends | Debugging Methodologies (2022)](https://oxide-and-friends.transistor.fm/episodes/debugging-methodologies)
+- [Beej's Guides](https://beej.us/guide/)

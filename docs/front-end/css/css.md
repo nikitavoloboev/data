@@ -537,3 +537,4 @@ all: unset
 - [The CSS behind Figma (2022)](https://ishadeed.com/article/figma-css/)
 - [Want your layouts to look Great? Try Adding DEPTH (2022)](https://www.youtube.com/watch?v=evqUWEh46AA)
 - [CSS Scan](https://getcssscan.com/) - Fast and easy way to check and copy CSS. ([HN](https://news.ycombinator.com/item?id=32150308))
+- [Figma: Illuminating dark mode (2022)](https://www.figma.com/blog/illuminating-dark-mode/) ([Tweet](https://twitter.com/shirlmeow/status/1550157714596167680))

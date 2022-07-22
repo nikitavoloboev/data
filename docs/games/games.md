@@ -167,6 +167,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Rust Game Ports](https://github.com/64kramsystem/rust-game-ports) - Ports of open source games to Rust, using different pure-Rust game engines.
 - [ToCenter](https://github.com/silentsokolov/tocenter) - Video game written in Rust using the ggez engine and the ECS library.
 - [Fish Fight: Punchy](https://github.com/fishfight/punchy) - 2.5D side-scroller beat-’em-up, made in Bevy.
+- [Pycraft](https://github.com/PycraftDeveloper/Pycraft) - OpenGL, open world, video game made entirely with Python.
 
 ## Awesome games (other)
 

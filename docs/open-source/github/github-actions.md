@@ -241,6 +241,8 @@ title: GitHub actions
 - [Sync S3 Bucket](https://github.com/jakejarvis/s3-sync-action) - GitHub Action to sync a directory with a remote S3 bucket.
 - [Label Sync](https://github.com/r7kamura/github-label-sync-action) - Sync GitHub Labels with labels definition file.
 - [git-issue-release](https://github.com/kouki-dan/git-issue-release) - Automatically creates a release issue which includes pull requests after the latest release.
+- [Dagger](https://github.com/dagger/dagger-for-github) - GitHub Action for Dagger.
+- [github-actions-wac](https://github.com/webiny/github-actions-wac) - GitHub Actions - Workflows as Code (WaC).
 
 ## Go
 

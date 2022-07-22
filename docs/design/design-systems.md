@@ -197,3 +197,4 @@
 - [Shopify Design Foundations](https://github.com/Shopify/foundational-design-system-proto) - Prototype for a foundational design system at Shopify.
 - [Design Tokens Technical Reports](https://tr.designtokens.org/) ([Code](https://github.com/design-tokens/community-group))
 - [Advanced Design Systems](https://www.enfoques.net/design-systems)
+- [Naming conventions for design systems (2022)](https://backlight.dev/blog/naming-conventions-for-design-systems)

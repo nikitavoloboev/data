@@ -186,3 +186,4 @@ title: Genomics
 - [Single-cell data structures in TileDB](https://github.com/TileDB-Inc/tiledbsc)
 - [Hierarchical progressive learning of cell identities in single-cell data](https://github.com/lcmmichielsen/scHPL)
 - [A guide to antigen processing and presentation (2022)](https://www.nature.com/articles/s41577-022-00707-2)
+- [Snakemake](https://github.com/moiexpositoalonsolab/grenepipe) - Snakemake pipeline for variant calling from raw sequences.

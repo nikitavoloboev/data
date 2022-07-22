@@ -73,6 +73,7 @@
 - [Alba](https://github.com/okuramasafumi/alba) - Fastest JSON serializer for Ruby.
 - [Shale](https://github.com/kgiszczak/shale) - Ruby object mapper and serializer for JSON, YAML and XML. ([HN](https://news.ycombinator.com/item?id=31567755))
 - [dry-effects](https://github.com/dry-rb/dry-effects) - Algebraic effects in Ruby.
+- [Casting](https://github.com/saturnflyer/casting) - Delegate methods in Ruby and preserve self. Add behaviors to your objects without altering their superclass hierarchy.
 
 ## Links
 

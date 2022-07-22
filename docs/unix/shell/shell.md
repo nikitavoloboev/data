@@ -240,3 +240,4 @@ All active variables can be seen by running `env`.
 - [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 - [Practically Correct, Just-in-Time Shell Script Parallelization](https://angelhof.github.io/files/papers/pashjit-2022-osdi.pdf)
 - [A lifehack for your shell (2022)](https://xenodium.com/a-lifehack-for-your-shell/) ([Lobsters](https://lobste.rs/s/qaimmg/lifehack_for_your_shell))
+- [What happens when you press a key in your terminal? (2022)](https://jvns.ca/blog/2022/07/20/pseudoterminals/) ([HN](https://news.ycombinator.com/item?id=32175100)) ([Lobsters](https://lobste.rs/s/3zm22j/what_happens_when_you_press_key_your))

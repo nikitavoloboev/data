@@ -235,3 +235,4 @@
 - [Visualizing Delaunay Triangulation (2022)](https://ianthehenry.com/posts/delaunay/)
 - [stdg](https://github.com/calebwin/stdg) - 2D graphics in any programming language with just print statements.
 - [Hex-Tiling Demo](https://github.com/mmikk/hextile-demo)
+- [KTX (Khronos Texture)](https://github.com/KhronosGroup/KTX-Software) - Lightweight container for textures for OpenGL, Vulkan and other GPU APIs.

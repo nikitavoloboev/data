@@ -35,3 +35,4 @@ title: CSS Flexbox
 - [Compat 2021 mid-year update: Flex gap everywhere](https://web.dev/compat2021-midyear/)
 - [CSS Flexbox gap property](https://css-tricks.com/almanac/properties/g/gap/)
 - [Thoughts on flex-direction: column on body (2022)](https://twitter.com/antfu7/status/1497667664822812672)
+- [Equal Columns With Flexbox: It’s More Complicated Than You Might Think (2021)](https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/)

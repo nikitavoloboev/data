@@ -547,3 +547,6 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [PostgreSQL views and materialized views and how they influenced TimescaleDB (2022)](https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/) ([HN](https://news.ycombinator.com/item?id=32097663))
 - [Postgres and the curious case of the cursory cursors (2022)](https://dev.to/fritshooglandyugabyte/postgres-and-the-curious-case-of-the-cursory-cursors-3l3h)
 - [Implementing "seen by" functionality with Postgres (2022)](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql) ([HN](https://news.ycombinator.com/item?id=32138790))
+- [pg_jsonschema](https://github.com/supabase/pg_jsonschema) - PostgreSQL extension providing JSON Schema validation. ([HN](https://news.ycombinator.com/item?id=32179856))
+- [allas](https://github.com/johto/allas) - LISTEN / NOTIFY connection pooler for PostgreSQL.
+- [pgx_json_schema](https://github.com/jefbarn/pgx_json_schema) - JSON Schema validation for Postgres.

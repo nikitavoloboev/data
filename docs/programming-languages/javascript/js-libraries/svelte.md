@@ -279,3 +279,4 @@ title: Svelte
 - [Svelte Bun Adapter](https://github.com/gornostay25/svelte-adapter-bun)
 - [svelte-preprocess-esbuild](https://github.com/lukeed/svelte-preprocess-esbuild) - Svelte Preprocessor to compile TypeScript via esbuild.
 - [Sveltekit Translate](https://github.com/c00/svelte-translate) - i18n library designed to be easy to use.
+- [The Svelte Handbook](https://thevalleyofcode.com/svelte/)

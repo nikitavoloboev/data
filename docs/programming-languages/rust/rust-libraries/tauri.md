@@ -8,6 +8,7 @@ title: Tauri
 
 - [TaurApp](https://github.com/erayerdin/taurapp) - WhatsApp desktop client powered by Tauri and Rust.
 - [Emberry](https://github.com/emberry-org/emberry) - P2P Chat powered by Tauri and Svelte.
+- [SnipSnap](https://github.com/FarazPatankar/snip-snap) - Simple but powerful tool to make your screenshots prettier.
 
 ## Links
 
@@ -22,3 +23,4 @@ title: Tauri
 - [Example project of a Tauri app using SvelteKit to build the front end](https://github.com/Stijn-B/tauri-sveltekit-example)
 - [Tauri-Swift](https://github.com/lorenzolewis/tauri-swift)
 - [Create Tauri App](https://github.com/tauri-apps/create-tauri-app)
+- [SF Symbols in Tauri](https://github.com/JonasKruckenberg/tauri-symbols)

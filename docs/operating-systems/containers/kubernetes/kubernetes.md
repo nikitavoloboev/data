@@ -779,3 +779,4 @@ title: Kubernetes
 - [KubeFire](https://github.com/innobead/kubefire) - Create and manage Kubernetes clusters running on FireCracker microVMs via weaveworks/ignite.
 - [Kube-Beacon](https://github.com/chen-keinan/kube-beacon) - Open Source runtime scanner for k8s cluster and perform security audit checks based on CIS Kubernetes Benchmark specification.
 - [kubespace](https://github.com/kradalby/kubespace) - Tool to create namespaces and service accounts that can safely be handed to CI or users.
+- [k8s](https://github.com/forbearing/k8s) - Go library implements various handlers to more easy manipulate k8s resources such as pods, deployments, etc, inside or outside k8s cluster.

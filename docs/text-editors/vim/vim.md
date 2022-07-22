@@ -312,3 +312,4 @@ zz
 - [Neovim -- First Lua Config (2022)](https://www.twitch.tv/videos/1509074736)
 - [Vim 9.0 Released (2022)](https://www.vim.org/vim90.php) ([HN](https://news.ycombinator.com/item?id=31907883)) ([HN](https://news.ycombinator.com/item?id=31936725)) ([Lobsters](https://lobste.rs/s/wqyinz/vim_9_0_released))
 - [Learn Vim the Simple Way](https://www.vimified.com/) ([HN](https://news.ycombinator.com/item?id=32034625))
+- [VIM A-Z: A Text Object for Every Letter in the Alphabet (2022)](https://www.youtube.com/watch?v=JnD9Uro_oqc)

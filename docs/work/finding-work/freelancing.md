@@ -36,3 +36,4 @@
 - [Xolo](https://www.xolo.io/zz-en#) - Compliance, taxation, invoicing and admin solutions for fiercely independent solopreneurs across the globe.
 - [Ask HN: How do you start contracting? (2022)](https://news.ycombinator.com/item?id=29864014)
 - [Below Radar](https://belowradar.co.uk/) - Community for business owners and freelancers who don’t want to rely on Facebook, Google or marketing techniques that fuel surveillance capitalism. ([Tweet](https://twitter.com/davesmyth_/status/1533788643084718085))
+- [I regret my website redesign (2022)](https://mtlynch.io/tinypilot-redesign/) ([HN](https://news.ycombinator.com/item?id=32179563))
