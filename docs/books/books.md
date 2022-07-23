@@ -321,6 +321,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Books that are very similar to the show Stranger Things? (2022)](https://www.reddit.com/r/suggestmeabook/comments/vvjsrp/books_that_are_very_similar_to_the_show_stranger/)
 - [Опишите свою любимую книгу максимально скучно](https://twitter.com/bookmate_ru/status/1280848357599182848)
 - [The Best of What I Read in 2020](https://kitchenettekat.medium.com/the-best-of-what-i-read-in-2020-49019f22ad36)
+- [Ask HN: Which book are you reading, since when? (2022)](https://news.ycombinator.com/item?id=32196791)
 
 ## Interesting Prose Books
 

@@ -263,3 +263,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [Divorce Reddit](https://www.reddit.com/r/Divorce/)
 - [A hookup app for the emotionally mature (2022)](https://www.newyorker.com/culture/annals-of-inquiry/feeld-dating-app-sex) ([HN](https://news.ycombinator.com/item?id=32066255))
 - [What was the beginning of your non-monogamous discovery like? (2022)](https://www.reddit.com/r/sexover30/comments/w0lstl/what_was_the_beginning_of_your_nonmonogamous/)
+- [What is the most valuable thing you learned after the dissolution of a long-term relationship?](https://www.reddit.com/r/AskWomen/comments/w50fga/what_is_the_most_valuable_thing_you_learned_after/)

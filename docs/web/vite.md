@@ -97,3 +97,4 @@ title: Vite
 - [Vite 3.0 (2022)](https://vitejs.dev/blog/announcing-vite3.html) ([HN](https://news.ycombinator.com/item?id=32082284))
 - [vite-plugin-jspm](https://github.com/jspm/vite-plugin-jspm) - Vite plugin which externalize dependencies and resolves them independently from CDN providers using import maps and es-module-shims.
 - [vitest-fixture](https://github.com/larsthorup/vitest-fixture) - Reusable fixtures for your Vitest tests.
+- [Vite 3 Announcement with the Team (2022)](https://www.youtube.com/watch?v=6tSqIW2ds1Y)

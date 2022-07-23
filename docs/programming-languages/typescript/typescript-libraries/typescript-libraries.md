@@ -582,6 +582,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [settle-it](https://github.com/astoilkov/settle-it) - Like Promise.allSettled() but for sync and async functions.
 - [good-try](https://github.com/astoilkov/good-try) - Tries to execute sync/async function, returns a specified default value if the function throws.
 - [esfx](https://github.com/esfx/esfx) - Suite of packages designed to provide low-level APIs for interoperable libraries.
+- [Nominal](https://github.com/modfy/nominal) - Nominal and refinement types. ([Reddit](https://www.reddit.com/r/typescript/comments/w5rebv/unlocking_typesafety_superpowers_in_typescript/))
 
 ## Links
 

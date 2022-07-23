@@ -225,3 +225,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [The SQLite Index Suggester](https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_) ([HN](https://news.ycombinator.com/item?id=31991598))
 - [XLite](https://github.com/x2bool/xlite) - Query Excel and Open Document spreadsheets as SQLite virtual tables. ([HN](https://news.ycombinator.com/item?id=31874767)) ([Article](https://sergey.khabibullin.com/sqlite-extensions-in-rust/))
 - [SQLite 3.39.2 (2022)](https://sqlite.org/releaselog/3_39_2.html) ([HN](https://news.ycombinator.com/item?id=32184354))
+- [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index) - Extends SQLite core to support Spatial SQL capabilities. ([HN](https://news.ycombinator.com/item?id=32195541))
