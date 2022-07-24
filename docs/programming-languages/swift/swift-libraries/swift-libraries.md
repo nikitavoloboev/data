@@ -1205,6 +1205,8 @@
 - [ELMaestro](https://github.com/Electrode-iOS/ELMaestro) - Swift framework that provides a plugin system for iOS apps.
 - [SwiftBitset](https://github.com/lemire/SwiftBitset) - Bitset class in Swift for fast and concise set operations over integers.
 - [webauthn-swift](https://github.com/swift-server/webauthn-swift) - Swift library for implementing the WebAuthn spec.
+- [Map](https://github.com/pauljohanneskraft/Map) - MKMapView wrapper for SwiftUI as drop-in to MapKit's SwiftUI view.
+- [CodableCSV](https://github.com/pauljohanneskraft/CodableCSV) - JSON-like CSV file parsing using the Codable protocols in Swift.
 
 ## Other (not lib)
 

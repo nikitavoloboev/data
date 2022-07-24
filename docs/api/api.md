@@ -108,6 +108,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [CartQL](https://cartql.com/) - GraphQL Shopping Cart API.
 - [Customer.io Node API](https://github.com/customerio/customerio-node)
 - [Binance Go](https://github.com/pdepip/go-binance)
+- [Binance Python](https://github.com/binance/binance-connector-python)
 - [Stream](https://getstream.io/) - Enterprise Grade Feed & Chat APIs.
 - [Telegraph API](https://telegra.ph/api) - Minimalist publishing tool that allows you to create richly formatted posts and push them to the Web in just a click.
 - [Telegraph Deno](https://github.com/dcdunkan/telegraph)

@@ -104,3 +104,4 @@ title: WebSocket
 - [Libp2p WebSocket transport for Cloudflare WebSockets](https://github.com/alanshaw/cf-libp2p-ws-transport)
 - [Deno Websocket](https://github.com/ryo-ma/deno-websocket) - Simple WebSocket library like ws of node.js library for deno.
 - [Building an Interactive Whiteboard with NATS Websockets](https://rethink.synadia.com/episodes/3/)
+- [React useWebSocket](https://github.com/robtaussig/react-use-websocket) - Designed to provide robust WebSocket integrations to your React Components.

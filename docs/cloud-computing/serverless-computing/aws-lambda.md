@@ -143,3 +143,4 @@ title: AWS Lambda
 - [serverless-http](https://github.com/dougmoscrop/serverless-http) - Use your existing middleware framework (e.g. Express, Koa) in AWS Lambda.
 - [Deploy Go API to AWS Lambda](https://github.com/thiskevinwang/api-lambda-aurora-go)
 - [Understanding AWS Lambda scaling and throughput (2022)](https://aws.amazon.com/blogs/compute/understanding-aws-lambda-scaling-and-throughput/)
+- [OpenTelemetry Lambda Layers](https://github.com/open-telemetry/opentelemetry-lambda) - Provide the OpenTelemetry (OTel) code to export telemetry asynchronously from AWS Lambdas.

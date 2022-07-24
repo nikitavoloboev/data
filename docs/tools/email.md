@@ -264,3 +264,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Kanmail](https://kanmail.io/) - Email client that functions like a kanban board. ([Code](https://github.com/Oxygem/Kanmail))
 - [Ask HN: How are you hosting email for your startup employees? (2022)](https://news.ycombinator.com/item?id=32029769)
 - [Cloudflare + MailChannels Email Sending with DKIM](https://github.com/maggie-j-liu/mail)
+- [Mailing](https://github.com/successor-software/mailing) - Build, test, send emails with TypeScript and React.

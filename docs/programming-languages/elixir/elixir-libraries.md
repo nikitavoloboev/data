@@ -100,6 +100,10 @@
 
 - [Cloak](https://github.com/danielberkompas/cloak) - Elixir encryption library designed for Ecto.
 
+## GraphQL
+
+- [BridgeEx](https://github.com/primait/bridge_ex) - Library to build bridges to GraphQL services.
+
 ## Other
 
 - [GraphQL toolkit for Elixir](https://github.com/absinthe-graphql/absinthe)
@@ -212,6 +216,7 @@
 - [NimbleOptions](https://github.com/dashbitco/nimble_options) - Tiny library for validating and documenting high-level options.
 - [Scribe](https://github.com/codedge-llc/scribe) - Pretty print tables of Elixir structs and maps.
 - [Queuetopia](https://github.com/annatel/queuetopia) - Persistent blocking job queue built with Ecto.
+- [GenRegistry](https://github.com/discord/gen_registry) - Simple and efficient local Process Registry.
 
 ## Links
 
