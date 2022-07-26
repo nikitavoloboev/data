@@ -571,3 +571,4 @@
 - [Maintaining Software Correctness (2022)](https://blog.danlew.net/2022/06/22/maintaining-software-correctness/)
 - [Oxide and Friends | Debugging Methodologies (2022)](https://oxide-and-friends.transistor.fm/episodes/debugging-methodologies)
 - [Beej's Guides](https://beej.us/guide/)
+- [Ask HN: What are the best programming tricks you know? (2022)](https://news.ycombinator.com/item?id=32223834)

@@ -532,7 +532,7 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postgres Indexes, Selectivity, and Statistics (2022)](https://www.crunchydata.com/blog/indexes-selectivity-and-statistics)
 - [Refurb](https://github.com/ConferOpenSource/refurb) - Library for building PostgreSQL database migration software.
 - [Citus data SIGMOD white paper notes (2022)](https://viggy28.dev/article/my-notes-on-citus-data/)
-- [Dashibase](https://dashibase.com/) - No-code dashboards with Supabase. ([Insert](https://dashibase.com/insert)) ([Insert Code](https://github.com/Dashibase/dashibase-insert)) ([Code](https://github.com/Dashibase/dashibase))
+- [Dashibase](https://dashibase.com/) - No-code dashboards with Supabase. ([Insert](https://dashibase.com/insert)) ([Insert Code](https://github.com/Dashibase/dashibase-insert)) ([Code](https://github.com/Dashibase/dashibase)) ([Twitter](https://twitter.com/dashibase))
 - [pgenv](https://github.com/theory/pgenv) - PostgreSQL binary manager.
 - [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for the Mac.
 - [pgs2](https://github.com/michelp/pgs2) - Postgres extension for S2 spherical geometry.

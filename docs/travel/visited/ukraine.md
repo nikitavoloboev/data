@@ -159,3 +159,4 @@ On bright side, it does appear that Russia [fully lost out on its objectives in 
 - [Подоляк и Жданов в Киеве | Что будет с Россией и Украиной? (2022)](https://www.youtube.com/watch?v=C2Tv7ZpsK0s)
 - [Myths & Claims of the Russia-Ukraine War - Claims, Feints, and Bioweapons (2022)](https://www.youtube.com/watch?v=6x0O_oObJBU)
 - [DeepStateMAP](https://deepstatemap.live/en) - Map of the war in Ukraine.
+- [The Desperate Lives Inside Ukraine’s “Dead Cities” (2022)](https://www.newyorker.com/magazine/2022/08/01/the-desperate-lives-inside-ukraines-dead-cities)

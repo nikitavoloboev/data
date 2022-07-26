@@ -12,3 +12,4 @@ title: Dynamic programming
 - [Dynamic Programming vs Divide-and-Conquer (2018)](https://trekhleb.dev/blog/2018/dynamic-programming-vs-divide-and-conquer/)
 - [Динамическое программирование - это просто (2021)](https://www.youtube.com/watch?v=6c916SvCCOA)
 - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges (2020)](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+- [A Tale of Dynamic Programming (2022)](https://iagoleal.com/posts/dynamic-programming/)

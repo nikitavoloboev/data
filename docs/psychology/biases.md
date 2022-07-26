@@ -11,3 +11,4 @@
 - [Cognitive biases to learn (so you can think clearly and make better decisions) (2021)](https://twitter.com/SahilBloom/status/1418910006557265932)
 - [Guide to cognitive biases](https://en.shortcogs.com/) ([HN](https://news.ycombinator.com/item?id=28167584))
 - [50 cognitive biases to learn](https://twitter.com/elonmusk/status/1472647410568642564)
+- [We don't have a hundred biases, we have the wrong model](https://www.worksinprogress.co/issue/biases-the-wrong-model/) ([HN](https://news.ycombinator.com/item?id=32181987))

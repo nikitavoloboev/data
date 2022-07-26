@@ -233,3 +233,5 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Awesome Learning](https://github.com/afontcu/awesome-learning)
 - [Does Bionic Reading work? Results from our reading speed experiment](https://blog.readwise.io/bionic-reading-results/) ([HN](https://news.ycombinator.com/item?id=32152051))
 - [Ask HN: What Are You Learning? (2022)](https://news.ycombinator.com/item?id=32187745)
+- [Ask HN: YouTube Channels for the Intellectually Curious (2022)](https://news.ycombinator.com/item?id=32220192)
+- [Ask HN: Is the world suffering from shallow knowledge? (2022)](https://news.ycombinator.com/item?id=32219529)

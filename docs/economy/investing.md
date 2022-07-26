@@ -290,3 +290,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Ask HN: Do you trust solo entrepreneurs? (2022)](https://news.ycombinator.com/item?id=31930460)
 - [Inflation-Adjusted Stock Charts](https://totalrealreturns.com/) ([HN](https://news.ycombinator.com/item?id=32081943))
 - [OpenBB Terminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Modern Python-based integrated environment for investment research. ([Web](https://openbb.co/)) ([Tweet](https://twitter.com/pyquantnews/status/1549911563821260801))
+- [What is a stock that you think is so obviously a buy at its current price that you feel you are missing something? (2022)](https://www.reddit.com/r/stocks/comments/w76rak/what_is_a_stock_that_you_think_is_so_obviously_a/)

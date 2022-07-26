@@ -62,7 +62,7 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [Amazon EKS workshop](https://github.com/pahud/amazon-eks-workshop)
 - [Amazon SSM Agent](https://github.com/aws/amazon-ssm-agent) - Agent to enable remote management of your Amazon EC2 instance configuration.
 - [Amazon CodeGuru](https://aws.amazon.com/codeguru/) - Automate code reviews. Identify your most expensive lines of code. ([HN](https://news.ycombinator.com/item?id=21695330))
-- [LocalStack](https://github.com/localstack/localstack) - Fully functional local AWS cloud stack. ([Web](https://localstack.cloud/))
+- [LocalStack](https://github.com/localstack/localstack) - Fully functional local AWS cloud stack. ([Web](https://localstack.cloud/)) ([1.0](https://localstack.cloud/blog/2022-07-13-announcing-localstack-v1-general-availability/)) ([HN](https://news.ycombinator.com/item?id=32193132))
 - [Punchcard](https://github.com/punchcard/punchcard) - Type-safe AWS infrastructure.
 - [Infrastructure as Code on AWS in a familiar language — the right way with InGraph (2020)](https://read.acloud.guru/infrastructure-as-code-on-aws-in-a-familiar-language-the-right-way-ingraph-63a8fb4cfff)
 - [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS.

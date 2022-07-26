@@ -193,3 +193,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Papers for Software Engineers](https://github.com/facundoolano/software-papers/)
 - [Davis Blalock Summarizes Papers](https://dblalock.substack.com/)
 - [Deep Learning Papers Are Kinda Bullsh-T (2022)](https://dagshub.com/blog/unraveling-the-deep-learning-reproducibility-crisis/)
+- [Writing my PhD using groff (2022)](https://jstutter.netlify.app/) ([HN](https://news.ycombinator.com/item?id=32202209))

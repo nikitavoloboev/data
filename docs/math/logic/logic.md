@@ -84,3 +84,4 @@
 - [Open Logic Project](http://builds.openlogicproject.org/) ([HN](https://news.ycombinator.com/item?id=31960219))
 - [Formalizations of Gödel's Ontological Proof of God's Existence](https://github.com/FormalTheology/GoedelGod)
 - [Logic as algebra](https://spencermortensen.com/articles/boolean-algebra/) ([Lobsters](https://lobste.rs/s/abfbpw/logic_as_algebra))
+- [Reconfigurable Asynchronous Logic Automata](https://cba.mit.edu/docs/papers/09.11.POPL.pdf)

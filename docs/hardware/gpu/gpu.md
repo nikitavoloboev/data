@@ -113,3 +113,4 @@ title: GPU
 - [The Apple GPU and the impossible bug (2022)](https://rosenzweig.io/blog/asahi-gpu-part-5.html) ([HN](https://news.ycombinator.com/item?id=31367365))
 - [Voronoi Diagrams on the GPU (2016)](https://www.rykap.com/graphics/skew/2016/02/25/voronoi-diagrams/)
 - [How GPU Computing Works](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31151/) ([HN](https://news.ycombinator.com/item?id=32053502))
+- [DeepOps](https://github.com/NVIDIA/deepops) - Tools for building GPU clusters.

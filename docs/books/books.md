@@ -322,6 +322,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Опишите свою любимую книгу максимально скучно](https://twitter.com/bookmate_ru/status/1280848357599182848)
 - [The Best of What I Read in 2020](https://kitchenettekat.medium.com/the-best-of-what-i-read-in-2020-49019f22ad36)
 - [Ask HN: Which book are you reading, since when? (2022)](https://news.ycombinator.com/item?id=32196791)
+- [What are your top 5 favorite sci-fi works? (2022)](https://www.reddit.com/r/scifi/comments/w70lak/what_are_your_top_5_favourite_scifi_works/)
 
 ## Interesting Prose Books
 
@@ -362,7 +363,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [JSTOR Open Content Books](https://www.jstor.org/open/) ([Search](https://www.jstor.org/action/doImageSearch))
 - [Public Books Database](https://www.publicbooks.org/public-books-database/)
 - [LibriVox](https://librivox.org/) - Free public domain audiobooks. ([HN](https://news.ycombinator.com/item?id=23558686))
-- [Standard Ebooks](https://standardebooks.org/ebooks/) ([HN](https://news.ycombinator.com/item?id=25138534)) ([GitHub](https://github.com/standardebooks))
+- [Standard Ebooks](https://standardebooks.org/ebooks/) ([HN](https://news.ycombinator.com/item?id=25138534)) ([GitHub](https://github.com/standardebooks)) ([HN](https://news.ycombinator.com/item?id=32215324))
 - [SafariBooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from Safari Books Online library.
 - [Crafting "Crafting Interpreters" (2020)](http://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/) ([HN](https://news.ycombinator.com/item?id=22788738))
 - [BookAuthority](https://bookauthority.org/) - Curates the books recommended by the world's most successful CEOs, business leaders and experts.

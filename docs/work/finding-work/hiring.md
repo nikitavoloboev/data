@@ -159,3 +159,5 @@
 - [Ask HN: Having trouble getting senior applicants, wondering what to do about it (2022)](https://news.ycombinator.com/item?id=31812864)
 - [ChiefOnboarding](https://chiefonboarding.com/) - Free and open source employee onboarding platform. You can onboarding new hires through Slack or the dashboard. ([Code](https://github.com/chiefonboarding/ChiefOnboarding))
 - [Tell HN: You can't hire because you don't post salary ranges (2022)](https://news.ycombinator.com/item?id=32181619)
+- [How to Hire Good Engineers (2022)](https://siliconvict.com/articles/6-how-to-hire-actually-good-engineers) ([HN](https://news.ycombinator.com/item?id=32232180))
+- [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders)

@@ -262,4 +262,4 @@
 - [Polymorphism through Typeclasses / Interface / Traits in C](https://github.com/TotallyNotChase/typeclass-interface-pattern)
 - [Practical design patterns in C](https://github.com/huawenyu/Design-Patterns-in-C)
 - [little](https://github.com/Beariish/little) - Small, fast, easily embeddable language implemented in C.
-- [Embed is in C23 (2022)](https://thephd.dev/finally-embed-in-c23) ([HN](https://news.ycombinator.com/item?id=32201951))
+- [Embed is in C23 (2022)](https://thephd.dev/finally-embed-in-c23) ([HN](https://news.ycombinator.com/item?id=32201951)) ([Lobsters](https://lobste.rs/s/vwqjil/finally_embed_c))

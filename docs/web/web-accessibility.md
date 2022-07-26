@@ -107,3 +107,4 @@
 - [Automate accessibility tests with Storybook (2022)](https://storybook.js.org/blog/automate-accessibility-tests-with-storybook/)
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/)
 - [eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) - Static AST checker for accessibility rules on JSX elements.
+- [Where's the fun in accessibility? (2022)](https://elisehe.in/2022/07/19/the-fun-in-accessibility) ([HN](https://news.ycombinator.com/item?id=32178099))

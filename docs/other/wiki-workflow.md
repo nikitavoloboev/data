@@ -511,3 +511,5 @@ I want to:
 - [Ask HN: Why are there no good note taking apps (2022)](https://news.ycombinator.com/item?id=31645045)
 - [SiYuan](https://b3log.org/siyuan/en/) - Local-first personal knowledge management system, support fine-grained block-level reference and Markdown WYSIWYG. ([Code](https://github.com/siyuan-note/siyuan))
 - [Building a Memex (with Ruby) by Andrew Louis (2018)](https://www.youtube.com/watch?v=DFWxvQn4cf8)
+- [Zettelkasten 101 Series: What Is a Fleeting Note?](https://writing.bobdoto.computer/what-is-a-fleeting-note/) ([HN](https://news.ycombinator.com/item?id=32225169))
+- [Ask HN: What is a sustainable methodology for taking notes of your learning? (2022)](https://news.ycombinator.com/item?id=32211734)

@@ -534,7 +534,8 @@ all: unset
 - [Shader-like holographic effects with CSS (2022)](https://robbowen.digital/wrote-about/css-blend-mode-shaders/) ([HN](https://news.ycombinator.com/item?id=32016391)) ([Tweet](https://twitter.com/Robb0wen/status/1545037603946127364))
 - [Bramus Van Damme | The CSS Cascade, a deep dive (2022)](https://www.youtube.com/watch?v=zEPXyqj7pEA)
 - [swc/css](https://github.com/swc-project/css) - SWC CSS binding.
-- [The CSS behind Figma (2022)](https://ishadeed.com/article/figma-css/)
+- [The CSS behind Figma (2022)](https://ishadeed.com/article/figma-css/) ([HN](https://news.ycombinator.com/item?id=32207093))
 - [Want your layouts to look Great? Try Adding DEPTH (2022)](https://www.youtube.com/watch?v=evqUWEh46AA)
 - [CSS Scan](https://getcssscan.com/) - Fast and easy way to check and copy CSS. ([HN](https://news.ycombinator.com/item?id=32150308))
 - [Figma: Illuminating dark mode (2022)](https://www.figma.com/blog/illuminating-dark-mode/) ([Tweet](https://twitter.com/shirlmeow/status/1550157714596167680))
+- [Solving “The Dangler” Conundrum with Container Queries and :has() (2022)](https://daverupert.com/2022/07/solving-the-dangler-conundrum-with-has-and-container-queries/)

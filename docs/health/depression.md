@@ -63,3 +63,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Depressing movies that’ll choke you (2022)](https://www.reddit.com/r/MovieSuggestions/comments/vy4ndu/depressing_movies_thatll_choke_you/)
 - [Burnout](https://commoncog.com/g/burnout/) ([HN](https://news.ycombinator.com/item?id=32160212))
 - [“No convincing evidence” that depression is caused by low serotonin levels](https://www.bmj.com/content/378/bmj.o1808) ([HN](https://news.ycombinator.com/item?id=32160703)) ([Paper](https://pubmed.ncbi.nlm.nih.gov/35854107/))
+- [Ask HN: I'm in a rut. How did you get out of yours?](https://news.ycombinator.com/item?id=32226910)

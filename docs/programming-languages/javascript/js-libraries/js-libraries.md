@@ -105,6 +105,7 @@
 - [Prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts.
 - [minimist](https://github.com/substack/minimist) - Parse argument options.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Collection of common interactive command line user interfaces.
+- [Handle-CLI-Error](https://github.com/ehmicky/handle-cli-error) - Error handler for CLI applications.
 
 ## ML
 

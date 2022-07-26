@@ -152,3 +152,4 @@ title: JSON
 - [JSON-LD](https://json-ld.org/) - JSON for Linking Data. ([Parser Code](https://github.com/rubensworks/jsonld-context-parser.js))
 - [jqgo](https://github.com/eatonphil/jqgo) - Variations on experimental Go clones of jq.
 - [JCOF](https://github.com/mortie/jcof) - JSON-like Compact Object Format. ([HN](https://news.ycombinator.com/item?id=32109406))
+- [JSON Schema Community](https://github.com/json-schema-org/community)

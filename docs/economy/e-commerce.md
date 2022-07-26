@@ -162,3 +162,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Burrow](https://www.burrow.com/) - Custom Furniture & Sectional Sofas. ([Twitter](https://twitter.com/hiburrow))
 - [Shopify CLI](https://github.com/Shopify/cli) - Build apps, themes, and hydrogen storefronts for Shopify.
 - [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://github.com/princeton-nlp/WebShop)
+- [Ask HN: Anyone making software for kiosks, infotainments or similar? (2022)](https://news.ycombinator.com/item?id=32223919)

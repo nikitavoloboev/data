@@ -15,6 +15,7 @@ title: Expo
 - [Spotify UI Clone with React Native & Expo](https://github.com/calebnance/expo-spotify)
 - [MusicRoom](https://github.com/AdonisEnProvence/MusicRoom) - Cross-platform iOS, Android and Web application using React Native (Expo) and Adonis and Temporal within one monorepo.
 - [Expo template with Tamagui, MobX and i18n](https://github.com/ivopr/tamagui-expo)
+- [NX monorepo showing the TMDB Watchlist mobile app with Expo, tRPC, Next, and Prisma](https://github.com/mwarger/tmdb-watchlist-prisma)
 
 ## Notes
 

@@ -101,3 +101,4 @@ title: Scheme
 - [The Why of Y](https://dreamsongs.com/Files/WhyOfY.pdf)
 - [scheme.rs](https://scheme.rs/) - Revised Report on the Algorithmic Language Scheme.
 - [Schemepunk](https://github.com/ar-nelson/schemepunk) - Kitchen-sink utility library for several R7RS Scheme dialects.
+- [“Meta-circular” Static Types (2022)](http://sigusr2.net/metacircular-static-types.html)

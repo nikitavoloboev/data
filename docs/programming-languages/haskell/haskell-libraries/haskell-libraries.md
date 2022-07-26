@@ -404,3 +404,4 @@
 - [Chameleon Type Debugger](https://chameleon.typecheck.me/) - Tool to make solving type errors in Haskell simple and fun.
 - [Which type-safe database library should you use? (2019)](https://www.williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html)
 - [ghc-plugin-non-empty](https://github.com/chshersh/ghc-plugin-non-empty) - GHC Plugin for compile-time transformation of list literals to NonEmpty list.
+- [Servant Template](https://github.com/tweag/servant-template) - Modern template for a Servant.

@@ -102,3 +102,4 @@
 - [Benchmarking Malloc with Doom 3 (2022)](https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/)
 - [Elise](https://github.com/wusyong/Fur-Elise) - Concurrent garbage collection crate based on shifgrethor.
 - [shifgrethor](https://github.com/withoutboats/shifgrethor) - Define an API for precise, tracing garbage collection in Rust which upholds all of Rust's safety guarantees.
+- [Treadmill garbage collector by H. Baker (2022)](http://www.cofault.com/2022/07/treadmill.html) ([HN](https://news.ycombinator.com/item?id=32233472))

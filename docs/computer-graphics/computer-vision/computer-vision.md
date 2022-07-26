@@ -874,3 +874,6 @@
 - [BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection (2022)](https://arxiv.org/abs/2206.10092) ([Code](https://github.com/Megvii-BaseDetection/BEVDepth))
 - [BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving (2022)](https://arxiv.org/abs/2205.09743) ([Code](https://github.com/zhangyp15/BEVerse))
 - [AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields (2022)](https://arxiv.org/abs/2207.10312) ([Code](https://github.com/thomasneff/AdaNeRF))
+- [Harmonizer: Learning to Perform White-Box Image and Video Harmonization (2022)](https://arxiv.org/abs/2207.01322) ([Code](https://github.com/ZHKKKe/Harmonizer))
+- [CVAT](https://www.cvat.ai/) - Computer Vision Annotation Tool. ([Code](https://github.com/cvat-ai/cvat))
+- [NeuMesh: Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing (2022)](https://github.com/zju3dv/NeuMesh)

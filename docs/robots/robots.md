@@ -176,3 +176,4 @@
 - [Wandering Robots in the Wild (2022)](https://spectrum.ieee.org/wandering-robots-in-the-wild)
 - [Spectral Measurement Sparsification for Pose-Graph SLAM (2022)](https://arxiv.org/abs/2203.13897) ([Code](https://github.com/MarineRoboticsGroup/mac))
 - [Marine Robotics Group @ MIT](https://marinerobotics.mit.edu/) ([GitHub](https://github.com/MarineRoboticsGroup))
+- [Towards robot accelerators, democratizing hardware acceleration in robotics](https://news.accelerationrobotics.com/towards-robot-accelerators-democratizing-hardware-acceleration-in-robotics/) ([HN](https://news.ycombinator.com/item?id=32221072))

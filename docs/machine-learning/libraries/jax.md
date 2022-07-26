@@ -62,3 +62,5 @@ title: JAX
 - [SymPy2Jax](https://github.com/google/sympy2jax) - Turn SymPy expressions into trainable JAX expressions.
 - [JAX Typing](https://github.com/google/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
 - [CoDeX](https://github.com/google/codex) - Data compression in JAX.
+- [DiBS](https://github.com/larslorch/dibs) - Python JAX implementation for DiBS, fully differentiable method for joint Bayesian inference of the DAG and parameters of general, causal Bayesian networks.
+- [Generative Adversarial Networks in JAX](https://github.com/lweitkamp/GANs-JAX)

@@ -246,6 +246,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [CeresDB](https://github.com/CeresDB/ceresdb) - High-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads. ([Python Client](https://github.com/CeresDB/ceresdb-client-py))
 - [StoneDB](https://github.com/stoneatom/stonedb) - Open-source, MySQL HTAP and MySQL-native database for oltp, real-time analytics. ([Web](https://stonedb.io/))
 - [ClientDB](https://clientdb.dev/) - OS in-memory database for real-time web apps. ([Code](https://github.com/acapela/clientdb))
+- [Kerf](https://github.com/kevinlawler/kerf1) - Columnar tick database and time-series language for Linux/OSX/BSD/iOS/Android.
 
 ## Tools
 

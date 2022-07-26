@@ -345,6 +345,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Copper](https://github.com/gocopper/copper) - Go toolkit complete with everything you need to build web apps. ([HN](https://news.ycombinator.com/item?id=31958823)) ([Web](https://gocopper.dev/))
 - [dead-letter-queue](https://github.com/ranjanrak/dead-letter-queue) - Tiny go package to manage HTTP requests with dead letter management/retry. Based on go-redis.
 - [Moonshot](https://github.com/spy16/moonshot) - Boilerplate Go library for quickly setting up web backend.
+- [KaGo](https://github.com/kamalshkeir/kago) - High-level web framework, that encourages rapid development and clean, pragmatic design.
 
 ## GraphQL
 
@@ -374,6 +375,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 ## DB
 
 - [KissSQL](https://github.com/VinGarcia/ksql) - Simple and Powerful Go SQL Library.
+- [Kvass](https://github.com/maxmunzel/kvass) - Personal key-value store. ([HN](https://news.ycombinator.com/item?id=32212235))
 - [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - Flexible and powerful SQL string builder library plus a zero-config ORM.
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go.
 - [sqlingo](https://github.com/lqs/sqlingo) - Lightweight DSL & ORM which helps you to write SQL in Go.
@@ -1877,3 +1879,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Calling Go Functions from Other Languages using C Shared Libraries](https://github.com/vladimirvivien/go-cshared-examples)
 - [nonamedreturns](https://github.com/firefart/nonamedreturns) - Go linter to detect named returns.
 - [structscanner](https://github.com/VinGarcia/structscanner) - Make it easy to write code that scans data into structs in safe and efficient manner.
+- [Magefiles: Stop on first error (2022)](https://carolynvanslyck.com/blog/2022/07/magefiles-stop-on-first-error/)

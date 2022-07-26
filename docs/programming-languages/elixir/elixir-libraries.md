@@ -63,6 +63,7 @@
 - [Yesql](https://github.com/lpil/yesql) - Elixir library for using SQL.
 - [Etso](https://github.com/evadne/etso) - Ecto 3 adapter allowing use of Ecto schemas held in ETS tables.
 - [Triplex](https://github.com/ateliware/triplex) - Simple and effective way to build multitenant applications on top of Ecto.
+- [Xandra](https://github.com/lexhide/xandra) - Fast, simple, and robust Cassandra driver for Elixir.
 
 ## Test
 
@@ -217,6 +218,7 @@
 - [Scribe](https://github.com/codedge-llc/scribe) - Pretty print tables of Elixir structs and maps.
 - [Queuetopia](https://github.com/annatel/queuetopia) - Persistent blocking job queue built with Ecto.
 - [GenRegistry](https://github.com/discord/gen_registry) - Simple and efficient local Process Registry.
+- [Rambo](https://github.com/jayjun/rambo) - Run your command. Send input. Get output.
 
 ## Links
 

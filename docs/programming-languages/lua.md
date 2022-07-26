@@ -132,3 +132,4 @@ title: Lua
 - [LuaSocket](https://github.com/lunarmodules/luasocket) - Network support for the Lua language.
 - [Eva](https://github.com/Insality/defold-eva) - Basic defold module for mobile games.
 - [Druid](https://github.com/Insality/druid) - Defold UI component library.
+- [Lua C API manual pages](https://github.com/ligurio/luac-manual-pages)

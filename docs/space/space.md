@@ -176,3 +176,4 @@
 - [Deepest infrared image of universe (2022)](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet/) ([HN](https://news.ycombinator.com/item?id=32062849))
 - [Compare Webb's Images to Hubble](https://johnedchristensen.github.io/WebbCompare/) ([HN](https://news.ycombinator.com/item?id=32074068))
 - [Explore JWST’s first image in full resolution](https://web.wwtassets.org/specials/2022/jwst-smacs/)
+- [Two weeks in, the Webb Space Telescope is reshaping astronomy (2022)](https://www.quantamagazine.org/two-weeks-in-the-webb-space-telescope-is-reshaping-astronomy-20220725/) ([HN](https://news.ycombinator.com/item?id=32224725))

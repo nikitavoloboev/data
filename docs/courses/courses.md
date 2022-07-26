@@ -24,7 +24,7 @@
 - [Course Garden](https://forum.hyperlink.academy/c/course-garden/15) - Place to propose and workshop new course ideas.
 - [Disco](https://www.heydisco.com/) - Learn on the go with audio courses.
 - [Lynda Learning Paths](https://www.lynda.com/learning-paths/)
-- [Open Culture Free Online Courses from Top Unis](https://www.openculture.com/freeonlinecourses)
+- [Free online courses from top universities](https://www.openculture.com/freeonlinecourses) ([HN](https://news.ycombinator.com/item?id=32213153))
 - [MIT OpenCourseWare](https://ocw.mit.edu/) - Free Online Course Materials. ([YouTube](https://www.youtube.com/c/mitocw/playlists))
 - [LinkedIn Learning](https://www.linkedin.com/learning/me) - Online Courses for Creative, Technology, Business Skills.
 - [Free online courses from Harvard University](https://www.edx.org/school/harvardx)

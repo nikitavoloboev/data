@@ -277,6 +277,7 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [Learning TypeScript Book](https://www.learningtypescript.com/) ([Web Code](https://github.com/LearningTypeScript/site))
 - [Learning TypeScript | Projects](https://www.learningtypescript.com/projects) - Hands-on real world projects that will help you exercise your knowledge of TypeScript. ([Code](https://github.com/LearningTypeScript/projects))
 - [Extreme Explorations of TypeScript's Type System](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system) ([HN](https://news.ycombinator.com/item?id=31898420))
+- [Matt's Advanced TypeScript workshop](https://github.com/mattpocock/advanced-typescript-workshop)
 
 ## Images
 

@@ -66,7 +66,7 @@ title: DNS
 - [Resolve.rs](https://resolve.rs/) - Troubleshooting website for network and DNS issues. ([Code](https://github.com/redirect2me/resolvers))
 - [DNS Trends (2020)](https://www.potaroo.net/ispcol/2020-10/trends.html)
 - [Dynroute53](https://github.com/thoeni/dynroute53) - Dynamic DNS updater for AWS Route53. Like DDNS for AWS managed domains.
-- [Handshake](https://handshake.org/) - Experimental peer-to-peer root naming system. ([Code](https://github.com/handshake-org/hsd)
+- [Handshake](https://handshake.org/) - Experimental peer-to-peer root naming system. ([Code](https://github.com/handshake-org/hsd) ([HN](https://news.ycombinator.com/item?id=32221740))
 - [What Does It Take To Resolve A Hostname (2020)](https://venam.nixers.net/blog/unix/2020/11/01/resolving-a-hostname.html)
 - [dog](https://github.com/ogham/dog) - Command-line DNS client. ([Web](https://dns.lookup.dog/)) ([HN](https://news.ycombinator.com/item?id=25033056))
 - [Sad DNS](https://www.cs.ucr.edu/~zhiyunq/SADDNS.html) - Revival of the classic DNS cache poisoning attack.

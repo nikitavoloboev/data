@@ -735,3 +735,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Ask HN: Experiences with low-code systems? (2022)](https://news.ycombinator.com/item?id=32106380)
 - [$9.99/month (2022)](https://basicappleguy.com/basicappleblog/999month) ([HN](https://news.ycombinator.com/item?id=32129574))
 - [Ask HN: Is there other software similar to Vim and Emacs? (2022)](https://news.ycombinator.com/item?id=32141539)
+- [Take more screenshots (2022)](https://alexwlchan.net/2022/07/screenshots/) ([HN](https://news.ycombinator.com/item?id=32215277)) ([Tweet](https://twitter.com/alexwlchan/status/1550790057837092865))

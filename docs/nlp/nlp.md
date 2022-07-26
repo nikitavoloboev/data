@@ -623,3 +623,4 @@
 - [DALL·E Now Available in Beta (2022)](https://openai.com/blog/dall-e-now-available-in-beta/) ([HN](https://news.ycombinator.com/item?id=32168190))
 - [Inside language models (from GPT-3 to PaLM)](https://lifearchitect.ai/models/)
 - [Timeline of AI and language models](https://lifearchitect.ai/timeline/)
+- [Cascades](https://github.com/google-research/cascades) - Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more.
