@@ -89,3 +89,4 @@
 - [Web CAD / Part Designer](http://web-cad.org/) - Parametric 2D and 3D modeler written in pure JS. ([Code](https://github.com/xibyte/jsketcher))
 - [Shadow Editor](https://github.com/tengge1/ShadowEditor) - Cross-platform 3D scene editor based on ThreeJS, Go and MongoDB for desktop and web.
 - [GhostSCAD](https://github.com/ljanyst/ghostscad) - Enables you to programatically build complex 3D models in Go and render them in OpenSCAD.
+- [OnShape](https://www.onshape.com/) - Powerful in browser CAD that has a free version
