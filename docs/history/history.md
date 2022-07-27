@@ -203,3 +203,4 @@
 - [ЗОЛОТО: История жадности / Простые вещи](https://www.youtube.com/watch?v=6YmWCbgZuts)
 - [Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/) ([HN](https://news.ycombinator.com/item?id=31775486))
 - [Why wasn't the steam engine invented earlier?](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8) ([HN](https://news.ycombinator.com/item?id=32106467))
+- [Logistics, How Did They Do It, Part I: The Problem (2022)](https://acoup.blog/2022/07/15/collections-logistics-how-did-they-do-it-part-i-the-problem/) ([HN](https://news.ycombinator.com/item?id=32239566))

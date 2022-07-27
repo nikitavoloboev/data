@@ -120,3 +120,4 @@
 - [Snakes](https://github.com/BnMcGn/snakes) - Python-like generators for Common Lisp.
 - [MAGICL](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp.
 - [Sheeple](https://github.com/zkat/sheeple) - Dynamic, CLOS-like, Delegative Prototype-based Object-Oriented Programming Framework.
+- [Destructuring match in Common Lisp](https://github.com/tfeb/dsm)

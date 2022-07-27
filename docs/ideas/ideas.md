@@ -23,6 +23,7 @@ I try to give my full attention to any ideas I am working on.
 - [It is incredible how utterly useless software is for organizing your personal life better. Personal relationships/calendars, house logistics, entertainment, travel, life goals, shopping, archives, photos/videos, goals, health (!), to-dos - we are still in the Stone Age.](https://twitter.com/punk6529/status/1504551473945972740)
 - [More people should make "1% products". Tiny little gems that have 1% of the functionality, but are obsessively polished and perfect.](https://twitter.com/palm_beach_m/status/1507220620328808449)
 - [My best advice for people trying to figure out what’s next is figure out what they want to do after the next thing—the next next thing—and do the thing next that will increase the success of that next next thing (which may just be skipping straight to the next next thing).](https://twitter.com/dwr/status/1519900289855152129)
+- [Good idea generator: 1: Have any idea. 2: Pursue it. 3: Build something that makes it easier to achieve. 4: #3 is your good idea.](https://twitter.com/mattwensing/status/1552136584224509954)
 
 ## Links
 

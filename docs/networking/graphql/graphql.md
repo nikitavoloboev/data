@@ -317,7 +317,7 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [GraphDoc](https://graphdoc.io/) - Instant, beautiful docs for your GraphQL API. ([Code](https://github.com/launchport/graphdoc))
 - [Rejoiner](https://github.com/google/rejoiner) - Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources. ([Web](https://rejoiner.io/))
 - [GraphQL-Server](https://github.com/graphql-python/graphql-server) - Base library that serves as a helper for building GraphQL servers or integrations into existing web frameworks using GraphQL-Core.
-- [Grafbase](https://grafbase.com/) - Deploy globally fast GraphQL APIs with a top-notch developer experience.
+- [Grafbase](https://grafbase.com/) - Deploy globally fast GraphQL APIs with a top-notch developer experience. ([Code](https://github.com/grafbase/grafbase))
 - [Algolia GraphQL Schema](https://github.com/charlypoly/algolia-graphql-schema) - Generate a GraphQL Schema from an Algolia index.
 - [GraphQL Birdseye](https://github.com/Novvum/graphql-birdseye) - View any GraphQL schema as a dynamic and interactive graph.
 - [GraphQL Scraper](https://github.com/simonw/graphql-scraper) - Track changes to GraphQL APIs by git scraping their schemas.

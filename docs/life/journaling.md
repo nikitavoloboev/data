@@ -45,4 +45,4 @@ I love reading these journals:
 - [Benefits of a daily diary and topic journals](https://sive.rs/dj)
 - [Linked](https://uselinked.com/) - Daily journaling without distraction. ([Code](https://github.com/lostdesign/linked))
 - [Observations on 6 years of journaling (2022)](https://herman.bearblog.dev/years-of-journaling/)
-- [Self-Dialogue as a Journaling Strategy (2022)](https://sadgrl.online/blog/entries/selfinterview.html)
+- [Self-Dialogue as a Journaling Strategy (2022)](https://sadgrl.online/blog/entries/selfinterview.html) ([HN](https://news.ycombinator.com/item?id=32237190))

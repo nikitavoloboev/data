@@ -376,3 +376,4 @@ title: ML Libraries
 - [giotto-deep](https://github.com/giotto-ai/giotto-deep) - Deep learning made topological.
 - [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) - Library from DeepSpeed, designed to make low-latency, low-cost inference of powerful transformer models.
 - [logreg](https://github.com/darrenjw/logreg) - Bayesian inference for a logistic regression model in various languages.
+- [PINA](https://github.com/mathLab/PINA) - Physics-Informed Neural networks for Advanced modeling.

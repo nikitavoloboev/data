@@ -160,3 +160,4 @@ title: Redis
 - [Go Rate Limiter interface for Redis](https://github.com/sethvargo/go-redisstore)
 - [walrus](https://github.com/coleifer/walrus) - Lightweight Python utilities for working with Redis.
 - [Redis-Shake](https://github.com/alibaba/RedisShake) - Tool for synchronizing data between two redis databases.
+- [redfront](https://github.com/tidwall/redfront) - HTTP protocol frontend for Redis-compatible services.

@@ -181,3 +181,4 @@ title: RISC-V
 - [RISC-V Is Getting MSIs (2022)](https://blog.stephenmarz.com/2022/06/30/msi/)
 - [Simple RISC V core for teaching](https://github.com/tilk/riscv-simple-sv)
 - [RISC-V linker relaxation in lld (2022)](https://maskray.me/blog/2022-07-10-riscv-linker-relaxation-in-lld)
+- [ExperiarSoC](https://github.com/Wevel/ExperiarSoC) - RISC-V SoC designed for the Efabless Open MPW Program.

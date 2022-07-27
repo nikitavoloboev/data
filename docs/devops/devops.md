@@ -197,3 +197,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Updatecli](https://github.com/updatecli/updatecli) - GitDevOps Automation Engine.
 - [Flow Distributed Workflow System](https://github.com/ehazlett/flow) - Provides a GRPC API that is used by clients to submit and manage workflows. ([Docs](https://flow.ehazlett.dev/docs/start/intro))
 - [Tactical RMM](https://github.com/amidaware/tacticalrmm) - Remote monitoring & management tool, built with Django, Vue and Go.
+- [Using BSD make](https://qorg11.net/tech_posts/bsd_make.html) ([Lobsters](https://lobste.rs/s/7svvkz/using_bsd_make))

@@ -121,7 +121,7 @@
 - [go-libp2p-peerstore](https://github.com/libp2p/go-libp2p-peerstore) - Object to manage peers, their addresses, and other metadata about them.
 - [Async Wordle game solely on P2P](https://github.com/p2p-games/wordle)
 - [Web3 is just expensive P2P](https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/) ([HN](https://news.ycombinator.com/item?id=31396329))
-- [Aphrodite](https://github.com/tantaman/aphrodite) - Schema layer whose first goal is to make P2P & Local-First software development as easy as traditional development.
+- [Aphrodite](https://github.com/tantaman/aphrodite) - Schema layer whose first goal is to make P2P & Local-First software development as easy as traditional development. ([Web](https://aphrodite.sh/))
 - [Ataraxia](https://github.com/aholstenson/ataraxia) - P2P messaging over mesh networks for NodeJS and browsers.
 - [P2P super collider](https://github.com/socketsupply/p2p-supercollider)
 - [libp2p-perf](https://github.com/mxinden/libp2p-perf) - iPerf equivalent for the libp2p ecosystem.

@@ -16,6 +16,8 @@ title: HTTP
 5xx: I fucked up
 ```
 
+[kawipiko](https://github.com/volution/kawipiko) is neat static HTTP server.
+
 ## Notes
 
 - [HTTP return codes cheat sheet: 1** Hold on 2** Here you go 3** Go away 4** You fucked up 5\*\* I fucked up](https://twitter.com/anthilemoon/status/1105972205568094208)
@@ -283,3 +285,5 @@ title: HTTP
 - [dlm](https://github.com/agourlay/dlm) - Minimal HTTP download manager.
 - [socks-proxy-agent](https://github.com/TooTallNate/node-socks-proxy-agent) - SOCKS proxy http.Agent implementation for HTTP and HTTPS.
 - [Supporting HTTP/2 in Apache NiFi (2022)](https://exceptionfactory.com/posts/2022/07/07/supporting-http2-in-apache-nifi/)
+- [kawipiko](https://github.com/volution/kawipiko) - Lightweight static HTTP server written in Go; focused on serving static content as fast and efficient as possible.
+- [Determining if an HTTP request was sent as beacon/keepalive (2022)](https://mmazzarolo.com/blog/2022-07-23-determining-if-an-http-request-was-sent-as-beacon-keepalive/)

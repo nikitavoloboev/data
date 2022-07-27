@@ -119,3 +119,6 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [TheCinesthetic Twitter](https://twitter.com/TheCinesthetic)
 - [Great comedy movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/w191my/someone_suggest_me_a_good_comedy_movie/)
 - ["Deep" sci-fi movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/w81v0v/deep_scifi_movies/)
+- [Underrated horror movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/w8wyx1/looking_for_an_underrated_horror/)
+- [Great Thriller/mystery movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/w8m202/in_need_of_a_hy_sht_thrillermystery_type_of_movie/)
+- [Saddest movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/w94ctr/in_desperate_need_of_the_saddest_movies_there_is/)

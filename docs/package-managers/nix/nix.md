@@ -10,6 +10,8 @@ Looking into using [Nix Quick Install Action](https://github.com/nixbuild/nix-qu
 
 I used [Nix time](https://alexfedoseev.com/blog/post/nix-time) article to install Nix on my mac.
 
+[Evolution of Nix](https://www.youtube.com/watch?v=h8hWX_aGGDc&list=PLt4-_lkyRrOMWyp5G-m_d1wtTcbBaOxZk&index=1) is a nice historical talk on Nix.
+
 ## Notes
 
 - Nix never uses host dependencies, it always builds with exactly precise dependencies every time, and will always refer to them from then on.
@@ -378,3 +380,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix – taming Unix with functional programming (2022)](https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/)
 - [Demo of using Nix + Bazel for a tree-sitter project](https://github.com/typesanitizer/demo-nix-bazel-tree-sitter)
 - [About using Nix in my development workflow (2018)](https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/) ([HN](https://news.ycombinator.com/item?id=32169454))
+- [Summer of Nix 2022 - YouTube](https://www.youtube.com/playlist?list=PLt4-_lkyRrOMWyp5G-m_d1wtTcbBaOxZk)

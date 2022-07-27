@@ -550,3 +550,5 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pg_jsonschema](https://github.com/supabase/pg_jsonschema) - PostgreSQL extension providing JSON Schema validation. ([HN](https://news.ycombinator.com/item?id=32179856))
 - [allas](https://github.com/johto/allas) - LISTEN / NOTIFY connection pooler for PostgreSQL.
 - [pgx_json_schema](https://github.com/jefbarn/pgx_json_schema) - JSON Schema validation for Postgres.
+- [Shipping Multi-Tenant SaaS Using Postgres Row-Level Security (2022)](https://www.thenile.dev/blog/multi-tenant-rls) ([HN](https://news.ycombinator.com/item?id=32241820))
+- [vsql](https://github.com/elliotchance/vsql) - Single-file or PostgreSQL-server compatible transactional SQL database written in pure V..

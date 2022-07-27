@@ -263,3 +263,4 @@
 - [Practical design patterns in C](https://github.com/huawenyu/Design-Patterns-in-C)
 - [little](https://github.com/Beariish/little) - Small, fast, easily embeddable language implemented in C.
 - [Embed is in C23 (2022)](https://thephd.dev/finally-embed-in-c23) ([HN](https://news.ycombinator.com/item?id=32201951)) ([Lobsters](https://lobste.rs/s/vwqjil/finally_embed_c))
+- [What's the most portable way to include binary blobs in an executable? (2022)](https://tratt.net/laurie/blog/2022/whats_the_most_portable_way_to_include_binary_blobs_in_an_executable.html) ([HN](https://news.ycombinator.com/item?id=32222161))

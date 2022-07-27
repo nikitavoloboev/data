@@ -940,6 +940,8 @@
 - [MutatorMath](https://github.com/LettError/MutatorMath) - Python library for piecewise linear interpolation in multiple dimensions with multiple, arbitrarily placed, masters.
 - [Ubelt](https://github.com/Erotemic/ubelt) - Paths, Progress, Dicts, Downloads, Caching, Hashing.
 - [CyToolz](https://github.com/pytoolz/cytoolz) - High performance utility functions for iterables, functions, and dictionaries.
+- [PyGeM](https://github.com/mathLab/PyGeM) - Python Geometrical Morphing.
+- [bdsim](https://github.com/petercorke/bdsim) - Simulate dynamic systems expressed in block diagram form using Python.
 
 ## Notes
 

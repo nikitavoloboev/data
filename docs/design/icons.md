@@ -144,3 +144,4 @@
 - [Majesticons](https://www.majesticons.com/) - Versatile, beautiful, and scalable iconset. 760 icons each in line and solid style.
 - [SF Symbols SVG Library](https://github.com/g-a-v-i-n/sf-symbols)
 - [IconBrew](https://iconbrew.com/) - Open source icon pack.
+- [MingCute](https://www.mingcute.com/) - Carefully Designed Icon Library. ([Code](https://github.com/Richard9394/MingCute))

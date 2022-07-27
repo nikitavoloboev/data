@@ -237,3 +237,4 @@
 - [Complete compiler and VM in 150 lines of code](https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46) ([HN](https://news.ycombinator.com/item?id=32121846))
 - [Implementing a Toy Optimizer (2022)](https://www.pypy.org/posts/2022/07/toy-optimizer.html)
 - [Search-based compiler code generation (2017)](https://jamey.thesharps.us/2017/06/19/search-based-compiler-code-generation/)
+- [On Transpilers (Zig/Rust/Go)](https://zserge.com/posts/transpilers/) ([Lobsters](https://www.reddit.com/r/Zig/comments/w8u0r5/on_transpilers_zigrustgo/))

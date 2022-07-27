@@ -650,3 +650,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [5 phases of Ethereum POS merge explained](https://twitter.com/milesdeutscher/status/1550315295402668032)
 - [Compiler from Solidity to zkEVM](https://github.com/matter-labs/compiler-solidity)
 - [MultiVault](https://github.com/z0r0z/MultiVault) - Minimal ERC4626-style tokenized Vault implementation with ERC1155 accounting.
+- [Eth Marketplace Benchmarks](https://github.com/ProjectOpenSea/marketplace-benchmarks)

@@ -115,6 +115,7 @@
 - [Metaheuristics](https://github.com/jmejia8/Metaheuristics.jl) - High performance metaheuristics for optimization purely coded in Julia.
 - [Integrals.jl](https://github.com/SciML/Integrals.jl) - Common interface for quadrature and numerical integration for the SciML scientific machine learning organization.
 - [SymbolicControlSystems](https://github.com/JuliaControl/SymbolicControlSystems.jl) - C-code generation and an interface between ControlSystems.jl and SymPy.j.
+- [RvSpectML](https://github.com/RvSpectML/RvSpectML.jl) - Facilitate the analysis of stellar spectroscopic times series.
 
 ## Math
 
@@ -690,6 +691,9 @@
 - [ObjectOriented](https://github.com/Suzhou-Tongyuan/ObjectOriented.jl) - Mechanical OOP programming library for Julia.
 - [LikelihoodProfiler](https://github.com/insysbio/LikelihoodProfiler.jl) - Julia package for practical identifiability analysis and confidence intervals evaluation.
 - [Figgy](https://github.com/JuliaServices/Figgy.jl) - Threadsafe, sensible configuration management package for Julia.
+- [TranscodingStreams](https://github.com/JuliaIO/TranscodingStreams.jl) - Simple, consistent interfaces for any codec.
+- [JLD2](https://github.com/JuliaIO/JLD2.jl) - HDF5-compatible file format in pure Julia.
+- [DemoCards](https://github.com/JuliaDocs/DemoCards.jl) - Dynamically generate a demo page and integrate with Documenter.jl.
 
 ## Links
 

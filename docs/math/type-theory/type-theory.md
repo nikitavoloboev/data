@@ -212,3 +212,5 @@ title: Type Theory
 - [Mélitte](https://github.com/adrieng/melitte) - Toy implementation of Martin-Löf Type Theory.
 - [Type inference from scratch (2019)](https://github.com/kritzcreek/fby19) ([Video](https://www.youtube.com/watch?v=ytPAlhnAKro))
 - [Gradual Typing Across the Spectrum](https://nuprl.github.io/gtp/) ([Web Code](https://github.com/nuprl/gtp))
+- [Uniqueness Typing Simplified](http://www.edsko.net/pubs/ifl07-paper.pdf)
+- [Type-Signature](https://type-signature.com/) - Who Wants to Be a Millionaire - but with types. ([Code](https://github.com/andys8/type-signature-com))

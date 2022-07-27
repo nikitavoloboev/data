@@ -824,3 +824,4 @@ if err != nil {
 - [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide) ([HN](https://news.ycombinator.com/item?id=32109301))
 - [Favorite Go Hosting Service (2022)](https://www.reddit.com/r/golang/comments/vzbmhl/favorite_go_hosting_service/)
 - [Goof](https://github.com/zeebo/goof) - Lets you call functions in your binary with just the string of their name.
+- [gx](https://github.com/nikki93/gx) - Go -> C++transpiler meant for data-oriented gameplay and application programming especially for WebAssembly.

@@ -189,6 +189,7 @@ Below is a list of extensions I use.
 - [textlint](https://marketplace.visualstudio.com/items?itemName=taichi.vscode-textlint) - Integrates Textlint into VS Code. ([Code](https://github.com/taichi/vscode-textlint))
 - [Playwright Test](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - Integrates Playwright Test into your VSCode workflow. ([Code](https://github.com/microsoft/playwright-vscode))
 - [Tym](https://marketplace.visualstudio.com/items?itemName=tym-inc.tym) - Share your code context in one-click. ([Web](https://tym.so/home))
+- [VS Code Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) - Adds playful pets in your VS Code window. ([Code](https://github.com/tonybaloney/vscode-pets))
 
 ## Shell
 

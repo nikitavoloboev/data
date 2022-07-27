@@ -143,3 +143,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [bin](https://github.com/marcosnils/bin) - Manages binary files downloaded from different sources.
 - [catp](https://github.com/rapiz1/catp) - Print the output of a running process.
 - [lurk](https://github.com/JakWai01/lurk) - Simple and pretty alternative to strace. Allows the user to trace system calls of a process or of a command.
+- [wrappe](https://github.com/Systemcluster/wrappe) - Packer to create self-contained single-binary applications from executables and directory trees.

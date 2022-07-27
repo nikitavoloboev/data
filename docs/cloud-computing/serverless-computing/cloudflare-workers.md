@@ -127,7 +127,7 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [github-proxy](https://github.com/mchaNetwork/github-proxy) - GitHub proxy running on Cloudflare Workers.
 - [Durable Objects TypeScript Counter template](https://github.com/cloudflare/durable-objects-typescript-rollup-esm)
 - [Apiker](https://github.com/hodgef/apiker) - Create Serverless APIs with Cloudflare Workers, Durable Objects & Wrangler.
-- [Blueboat](https://github.com/losfair/blueboat) - Open-source alternative to Cloudflare Workers. The monolithic engine for serverless web apps. ([HN](https://news.ycombinator.com/item?id=29321442))
+- [Blueboat](https://github.com/losfair/blueboat) - Open-source alternative to Cloudflare Workers. The monolithic engine for serverless web apps. ([HN](https://news.ycombinator.com/item?id=29321442)) ([Web](https://blueboat.io/)) ([HN](https://news.ycombinator.com/item?id=32240511))
 - [wasm-service](https://github.com/stevelr/wasm-service) - Base library for serverless WASM on Cloudflare Workers.
 - [wasm-service-oauth](https://github.com/stevelr/wasm-service-oauth) - Use OAuth with Cloudflare Workers.
 - [Build Data-Driven Applications on the Edge with Workers and Workers KV (2021)](https://egghead.io/courses/build-data-driven-applications-on-the-edge-with-workers-and-workers-kv-4932f3ea)
@@ -188,3 +188,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Support for WASI on Cloudflare Workers (2022)](https://blog.cloudflare.com/announcing-wasi-on-workers/)
 - [Open Telemetry SDK for Cloudflare Workers](https://github.com/RichiCoder1/opentelemetry-sdk-workers) - Library for adding tracing and logging to Cloudflare Workers.
 - [Workers Loki Logger](https://github.com/SirCremefresh/workers-loki-logger) - Logger for the Cloudflare workers environment that sends the logs to grafana loki.
+- [Workers Honeycomb Logger](https://github.com/cloudflare/workers-honeycomb-logger) - Easily export runtime information from your Cloudflare Workers into Honeycomb.

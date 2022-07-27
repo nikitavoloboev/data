@@ -62,7 +62,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [htstream](https://github.com/qnighy/htstream) - Streaming HTTP parser.
 - [Frugal](https://github.com/PaulBlanche/frugal) - Web framework with resource sparing in mind. ([Web](https://frugal.deno.dev/))
 - [ApiDOM](https://github.com/swagger-api/apidom) - Semantic parser for API specifications.
-- [ChiselStrikeai](https://github.com/chiselstrike/chiselstrike) - Modern backend development framework for JavaScript/TypeScript applications.
+- [ChiselStrike](https://github.com/chiselstrike/chiselstrike) - Modern backend development framework for JavaScript/TypeScript applications. ([Web](https://www.chiselstrike.com/))
 - [Boost.ts](https://github.com/mathigon/boost.js) - DOM, events and animations library for modern browsers.
 - [gaxios](https://github.com/googleapis/gaxios) - HTTP request client that provides an axios like interface over top of node-fetch. Super lightweight. Supports proxies and all sorts of other stuff.
 - [Exegesis OpenAPI Engine](https://github.com/exegesis-js/exegesis) - Tools for implementing server-side OpenAPI 3.0.0.
@@ -583,6 +583,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [good-try](https://github.com/astoilkov/good-try) - Tries to execute sync/async function, returns a specified default value if the function throws.
 - [esfx](https://github.com/esfx/esfx) - Suite of packages designed to provide low-level APIs for interoperable libraries.
 - [Nominal](https://github.com/modfy/nominal) - Nominal and refinement types. ([Reddit](https://www.reddit.com/r/typescript/comments/w5rebv/unlocking_typesafety_superpowers_in_typescript/))
+- [Poppinss](https://github.com/poppinss/utils) - Collection of reusable scripts used by AdonisJS core team.
 
 ## Links
 

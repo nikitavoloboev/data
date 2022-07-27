@@ -238,3 +238,5 @@ title: Spatial analysis
 - [PyGMT](https://github.com/GenericMappingTools/pygmt) - Python interface for the Generic Mapping Tools.
 - [The Generic Mapping Tools](https://www.generic-mapping-tools.org/) - Tools for manipulating geographic and Cartesian data and creating plots, maps, and 3D views. ([GitHub](https://github.com/GenericMappingTools)) ([Code](https://github.com/GenericMappingTools/gmt))
 - [Tile38-ts](https://github.com/TierMobility/tile38-ts) - TypeScript client for Tile38 geo-database.
+- [Awesome DEM (Digital Elevation Models)](https://github.com/DahnJ/Awesome-DEM)
+- [GPSJam](https://gpsjam.org/) - GPS/GNSS Interference Map. ([HN](https://news.ycombinator.com/item?id=32245346))

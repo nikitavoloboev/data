@@ -81,6 +81,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Boa](https://github.com/elewis787/boa) - Cobra command styled usage and help component powered by bubbletea.
 - [console](https://github.com/containerd/console) - Go package for dealing with consoles. Light on deps and a simple API.
 - [Spinner](https://github.com/leaanthony/spinner) - Simple, configurable, multi-platform terminal spinner.
+- [subcommands](https://github.com/maruel/subcommands) - Permits a Go application to implement subcommands support similar to what is supported by the 'go' tool.
 
 ## Test
 
@@ -526,6 +527,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [dbump](https://github.com/cristalhq/dbump) - Go database schema migrator library.
 - [dsunit](https://github.com/viant/dsunit) - Datastore Testibility.
 - [Instorage](https://github.com/nickname76/instorage) - Simple, easy to use database for faster development of small projects and MVPs in Go. Uses Badger as a storage.
+- [cache](https://github.com/twmb/go-cache) - Concurrency safe, mostly lock-free, singleflight request collapsing generic cache with support for stale values.
 
 ## ML
 
@@ -1752,6 +1754,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [fsync](https://github.com/spf13/fsync) - Keeps files or directories in sync.
 - [QuickJS-Go](https://github.com/elsaland/quickjs) - Go bindings to QuickJS: a fast, small, and embeddable ES2020 JavaScript interpreter.
 - [lockfree](https://github.com/golang-design/lockfree) - Lock-free utilities in Go.
+- [Wordclouds](https://github.com/psykhi/wordclouds) - Wordclouds in go.
+- [recloser](https://github.com/lerouxrgd/recloser) - Concurrent circuit breaker implemented with ring buffers.
 
 ## Links
 

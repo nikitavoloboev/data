@@ -71,3 +71,4 @@
 - [Sagan](https://github.com/quadrantsec/sagan) - Open source high performance, real-time log analysis & correlation engine.
 - [CT Woodpecker](https://github.com/letsencrypt/ct-woodpecker) - Tool to monitor a certificate transparency log for operational problems.
 - [alp](https://github.com/tkuchiki/alp) - Access Log Profiler.
+- [uno](https://github.com/psykhi/uno) - Like uniq, but for logs.

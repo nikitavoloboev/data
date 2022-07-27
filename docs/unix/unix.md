@@ -89,3 +89,4 @@ title: Unix
 - [Unix command line conventions over time (2022)](https://blog.liw.fi/posts/2022/05/07/unix-cli/) ([HN](https://news.ycombinator.com/item?id=31293032))
 - [Dropping privileges (2022)](https://blog.habets.se/2022/03/Dropping-privileges.html)
 - [Replay Cron Events With Cron::Sequencer (2022)](https://leejo.github.io/2022/06/02/cron_sequencer/)
+- [ugm](https://github.com/ariasmn/ugm) - Terminal based UNIX user and group viewer.

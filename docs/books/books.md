@@ -568,3 +568,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Pirate Library Mirror](http://pilimi.org/) - Preserving 7TB of books (that are not in Libgen). ([Intro](http://pilimi.org/blog-introducing.html)) ([HN](https://news.ycombinator.com/item?id=31970805))
 - [Which fictional universe would you rather live in? (2022)](https://www.reddit.com/r/scifi/comments/vqs0z8/which_fictional_universe_would_you_rather_live_in/)
 - [I just finished reading a book and took lots of notes. Now what? (2022)](https://writing.bobdoto.computer/question-i-just-finished-reading-a-book-and-took-lots-of-notes-now-what/) ([HN](https://news.ycombinator.com/item?id=32123781))
+- [Recommend Me a Book](https://recommendmeabook.com/) - Find a new book by reading the first pages of random of novels. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/w94lx9/find_a_new_book_by_reading_the_first_pages_of/))

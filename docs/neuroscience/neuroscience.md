@@ -138,6 +138,7 @@ The way our brains take input from different senses (eyes, touch) and then decid
 - [Intro to Neuroscience (2017)](https://www.youtube.com/watch?v=nlSL7Qg7-Po)
 - [Lena (2021)](https://qntm.org/mmacevedo)
 - [Neuroscience | eLife](https://elifesciences.org/subjects/neuroscience)
+- [PyPhi](https://github.com/wmayner/pyphi) - Toolbox for integrated information theory.
 
 ## Images
 

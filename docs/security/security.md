@@ -308,3 +308,5 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Arkana](https://github.com/rogerluan/arkana) - Store your keys and secrets away from your source code. Designed for Android and iOS projects.
 - [Google CTF](https://github.com/google/google-ctf)
 - [Security best practices for small company (2022)](https://lobste.rs/s/ju2rk6/security_best_practices_for_small)
+- [Automating and Defending Nefarious Automation (2022)](https://www.fastly.com/blog/automating-and-defending-nefarious-automation)
+- [Global Security Database](https://globalsecuritydatabase.org/) ([Code](https://github.com/cloudsecurityalliance/gsd-database))

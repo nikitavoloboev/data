@@ -54,4 +54,5 @@ title: Tor Project
 - [libtor-sys](https://github.com/MagicalBitcoin/libtor-sys) - Rust crate that builds a static version of Tor.
 - [garlicshare](https://github.com/R4yGM/garlicshare) - Private and self-hosted file sharing over the Tor network written in Go.
 - [Big Dark Web Links List](https://www.webhostingsecretrevealed.net/blog/security/dark-web-websites-onion-links/)
-- [Tor Metrics](https://metrics.torproject.org/)
+- [Tor Metrics](https://metrics.torproject.org/) ([HN](https://news.ycombinator.com/item?id=32240037))
+- [OnionScan](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. ([Twitter](https://twitter.com/OnionScan))

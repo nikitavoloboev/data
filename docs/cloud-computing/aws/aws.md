@@ -370,3 +370,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [ecspresso](https://github.com/kayac/ecspresso) - Deployment tool for Amazon ECS.
 - [Microservice Observability with Amazon OpenSearch Service Workshop](https://github.com/aws-samples/observability-with-amazon-opensearch)
 - [Complete AWS IAM Reference](https://iam.cloudonaut.io/) ([Code](https://github.com/widdix/complete-aws-iam-reference))
+- [AWS AppSync Real Time Client iOS](https://github.com/aws-amplify/aws-appsync-realtime-client-ios)

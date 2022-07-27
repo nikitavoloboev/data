@@ -409,3 +409,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [Working with the file system on Node.js (2022)](https://2ality.com/2022/06/nodejs-file-system.html)
 - [Snowflake-UUID](https://github.com/rakheyl/snowflake-uuid) - Twitter's Snowflake generator for NodeJS.
 - [pino-http](https://github.com/pinojs/pino-http) - High-speed HTTP logger for Node.js.
+- [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Better file system API for Node.js.

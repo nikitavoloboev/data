@@ -104,6 +104,7 @@
 ## GraphQL
 
 - [BridgeEx](https://github.com/primait/bridge_ex) - Library to build bridges to GraphQL services.
+- [AbsintheCache](https://github.com/IvanIvanoff/absinthe_cache) - Caching Absinthe GraphQL queries.
 
 ## Other
 

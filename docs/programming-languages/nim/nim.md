@@ -48,3 +48,4 @@ title: Nim
 - [Raw Memory Management patterns in Nim language](https://ramanlabs.in/static/blog/raw_memory_management_patterns_in_nim_language.html)
 - [Mastering Nim](https://nim-lang.org/blog/2022/06/29/mastering-nim.html) ([HN](https://news.ycombinator.com/item?id=31925716))
 - [Nim Language Server](https://github.com/nim-lang/langserver)
+- [Nim grammar for tree-sitter](https://github.com/monaqa/tree-sitter-nim)

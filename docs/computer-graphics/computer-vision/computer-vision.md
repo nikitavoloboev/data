@@ -877,3 +877,4 @@
 - [Harmonizer: Learning to Perform White-Box Image and Video Harmonization (2022)](https://arxiv.org/abs/2207.01322) ([Code](https://github.com/ZHKKKe/Harmonizer))
 - [CVAT](https://www.cvat.ai/) - Computer Vision Annotation Tool. ([Code](https://github.com/cvat-ai/cvat))
 - [NeuMesh: Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing (2022)](https://github.com/zju3dv/NeuMesh)
+- [Monocular 3D Object Detection with Depth from Motion (2022)](https://arxiv.org/abs/2207.12988) ([Code](https://github.com/Tai-Wang/Depth-from-Motion))

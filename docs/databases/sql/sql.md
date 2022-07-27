@@ -154,7 +154,7 @@ title: SQL
 - [List of MySQL joins types](https://twitter.com/DataScienceDojo/status/1461122230394540038)
 - [SQL: The difference between WHERE and HAVING](https://sql-bits.com/the-difference-between-where-and-having/) ([HN](https://news.ycombinator.com/item?id=29550683))
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
-- [Trino](https://trino.io/) - Distributed SQL query engine for big data. ([Code](https://github.com/trinodb/trino))
+- [Trino](https://trino.io/) - Distributed SQL query engine for big data. ([Code](https://github.com/trinodb/trino)) ([Getting Started](https://github.com/bitsondatadev/trino-getting-started))
 - [Better SQL JOINs (2021)](https://news.ycombinator.com/item?id=29687134)
 - [Running SQL JOINs on multiple CSV files](https://relational-pipes.globalcode.info/v_0/examples-csv-sql-join.xhtml)
 - [PGSpider](https://github.com/pgspider/pgspider) - High-Performance SQL Cluster Engine for distributed big data.

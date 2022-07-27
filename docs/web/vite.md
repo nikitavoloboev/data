@@ -98,3 +98,5 @@ title: Vite
 - [vite-plugin-jspm](https://github.com/jspm/vite-plugin-jspm) - Vite plugin which externalize dependencies and resolves them independently from CDN providers using import maps and es-module-shims.
 - [vitest-fixture](https://github.com/larsthorup/vitest-fixture) - Reusable fixtures for your Vitest tests.
 - [Vite 3 Announcement with the Team (2022)](https://www.youtube.com/watch?v=6tSqIW2ds1Y)
+- [Extra Vite templates](https://github.com/bluwy/create-vite-extra)
+- [Vite Plugin Class Mangler](https://github.com/kiosion/vite-plugin-class-mangler) - Minify and obfuscate CSS classes in production.

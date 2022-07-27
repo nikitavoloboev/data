@@ -235,4 +235,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Ask HN: What Are You Learning? (2022)](https://news.ycombinator.com/item?id=32187745)
 - [Ask HN: YouTube Channels for the Intellectually Curious (2022)](https://news.ycombinator.com/item?id=32220192)
 - [Ask HN: Is the world suffering from shallow knowledge? (2022)](https://news.ycombinator.com/item?id=32219529)
-- [Astrodynamics Textbooks on My Shelf (2022)](https://gereshes.com/2022/07/24/select-textbooks-on-my-shelf-1-astrodynamics-edition/)
+- [Astrodynamics Textbooks on My Shelf (2022)](https://gereshes.com/2022/07/24/select-textbooks-on-my-shelf-1-astrodynamics-edition/) ([HN](https://news.ycombinator.com/item?id=32212791))

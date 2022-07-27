@@ -566,3 +566,6 @@ title: Linux
 - [tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd.
 - [perf_to_profile](https://github.com/google/perf_data_converter) - Tool to convert Linux perf files to the profile.proto format used by pprof.
 - [Beginner’s Guide to eBPF Programming - Liz Rice (2020)](https://www.youtube.com/watch?v=lrSExTfS-iQ)
+- [Understanding modern Linux routing (and wg-quick) (2021)](https://ro-che.info/articles/2021-02-27-linux-routing) ([HN](https://news.ycombinator.com/item?id=32241531))
+- [VerKer](https://github.com/evdenis/verker) - Linux kernel library functions formally verified.
+- [minibase](https://github.com/arsv/minibase) - Small static userspace tools for Linux.

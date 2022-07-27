@@ -179,6 +179,7 @@
 - [invert-kv](https://github.com/sindresorhus/invert-kv) - Invert the key/value of an object.
 - [HashQL](https://github.com/HashQL/HashQL) - Access DB from UI.
 - [heapify](https://github.com/luciopaiva/heapify) - Fastest JavaScript priority queue out there. Zero dependencies.
+- [Databricks SQL Driver for NodeJS](https://github.com/databricks/databricks-sql-nodejs)
 
 ## React
 
@@ -988,6 +989,7 @@
 - [abcjs](https://github.com/paulrosen/abcjs) - JavaScript library for rendering standard music notation in a browser.
 - [object-sizeof](https://github.com/miktam/sizeof) - Get size of a JavaScript object.
 - [fmu](https://github.com/bluwy/fmu) - Collection of JS module utilities written in Rust.
+- [Constrain](https://github.com/andrewcmyers/constrain) - Responsive, animated figures in JavaScript/HTML canvases.
 
 ## Links
 

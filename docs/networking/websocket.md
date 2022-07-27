@@ -105,4 +105,4 @@ title: WebSocket
 - [Deno Websocket](https://github.com/ryo-ma/deno-websocket) - Simple WebSocket library like ws of node.js library for deno.
 - [Building an Interactive Whiteboard with NATS Websockets](https://rethink.synadia.com/episodes/3/)
 - [React useWebSocket](https://github.com/robtaussig/react-use-websocket) - Designed to provide robust WebSocket integrations to your React Components.
-- [What they don't teach you about sockets (2022)](https://macoy.me/blog/programming/Sockets) ([Lobsters](https://lobste.rs/s/zqm7f1/what_they_don_t_teach_you_about_sockets))
+- [What they don't teach you about sockets (2022)](https://macoy.me/blog/programming/Sockets) ([Lobsters](https://lobste.rs/s/zqm7f1/what_they_don_t_teach_you_about_sockets)) ([HN](https://news.ycombinator.com/item?id=32225532))

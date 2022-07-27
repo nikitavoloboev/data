@@ -41,7 +41,7 @@
 - [Forgetting My First Language (2021)](https://www.newyorker.com/culture/personal-history/forgetting-my-first-language) ([HN](https://news.ycombinator.com/item?id=28411104))
 - [Speaking Latin (2021)](https://psyche.co/ideas/speaking-latin-brings-an-unmediated-thrill-to-the-classics) ([HN](https://news.ycombinator.com/item?id=28510232))
 - [All World Languages in One Visualization, By Native Speakers](https://www.visualcapitalist.com/a-world-of-languages/) ([Reddit](https://www.reddit.com/r/dataisbeautiful/comments/qqx55r/oc_looking_at_the_100_most_spoken_languages/)) ([Tweet](https://twitter.com/simongerman600/status/1460339351259422720))
-- [LanguageTool](https://languagetool.org/) - Online Grammar, Style & Spell Checker. ([Twitter](https://twitter.com/languagetool))
+- [LanguageTool](https://languagetool.org/) - Online Grammar, Style & Spell Checker. ([Twitter](https://twitter.com/languagetool)) ([Dev](https://languagetool.org/dev)) ([HN](https://news.ycombinator.com/item?id=32236608))
 - [How to Write a Spelling Corrector (2007)](http://norvig.com/spell-correct.html) ([In Go](https://github.com/montanaflynn/toy-spelling-corrector))
 - [PostgreSQL Translation Proxy](https://github.com/NikolayS/postgrest-translation-proxy) - PostgreSQL / PostgREST proxy to Google Translate API, with caching and multiphrase support.
 - [Divvun.org](https://divvun.org/) - Языковые инструменты для языков коренных народов и меньшинств. ([GitHub](https://github.com/divvun))
@@ -81,3 +81,4 @@
 - [A History of Punctuation](https://aeon.co/essays/beside-the-point-punctuation-is-dead-long-live-punctuation)
 - [Don't Wordle](https://dontwordle.com/) - Just like Wordle but the opposite. ([HN](https://news.ycombinator.com/item?id=31572258))
 - [Sign Language Processing](https://sign-language-processing.github.io/) ([Code](https://github.com/sign-language-processing/sign-language-processing.github.io))
+- [LanguageTool-Rust](https://github.com/jeertmans/languagetool-rust) - LanguageTool API in Rust.

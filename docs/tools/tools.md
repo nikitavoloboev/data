@@ -96,6 +96,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Missive](https://missiveapp.com/) - Collaborative email app where you’ll feel right at home.
 - [Headway](https://headwayapp.co/) - Keep customers in the loop about your product with changelogs.
 - [Eagle](https://eagle.cool/) - Organize all your reference images in one place.
+- [snoopForms](https://snoopforms.com/) - Open-Source Typeform Alternative (and much more). ([Code](https://github.com/snoopForms/snoopHub))
 - [Fungarzione](https://fungarzione.com/) - Changelog Of The Future.
 - [cargo-crev](https://github.com/crev-dev/cargo-crev) - Cryptographically verifiable code review system for the cargo (Rust) package manager. ([Lobsters](https://lobste.rs/s/aohvmw/cryptographically_verifiable_code))
 - [Cocoon](https://cocoon.com/) - Dedicated space for the most important people in your life.
@@ -311,7 +312,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [FlowForge](https://flowforge.com/) - Open source low-code development platform. ([Twitter](https://twitter.com/FlowForgeInc))
 - [Shove](https://github.com/pennersr/shove) - Asynchronous & persistent push notification service.
 - [Athens](https://github.com/athensresearch/athens) - Open-Source Roam Research. ([HN](https://news.ycombinator.com/item?id=26316793)) ([Web](https://athensresearch.github.io/athens/))
-- [RustDesk](https://rustdesk.com/) - Remote desktop software, an open source TeamViewer alternative. ([Code](https://github.com/rustdesk/rustdesk)) ([HN](https://news.ycombinator.com/item?id=31456007))
+- [RustDesk](https://rustdesk.com/) - Remote desktop software, an open source TeamViewer alternative. ([Code](https://github.com/rustdesk/rustdesk)) ([HN](https://news.ycombinator.com/item?id=31456007)) ([HN](https://news.ycombinator.com/item?id=32239025))
 - [Hightouch](https://www.hightouch.io/) - Sync your customer data to business tools. ([HN](https://news.ycombinator.com/item?id=29188544))
 - [Spore](https://spore.build/) - Free, all-in-one tool for creators to build websites to truly own, grow, & monetize their relationship with fans. ([Tweet](https://twitter.com/JoshConstine/status/1408116841554219011))
 - [Gotenberg](https://gotenberg.dev/) - Docker-powered stateless API for PDF files. ([Code](https://github.com/gotenberg/gotenberg))

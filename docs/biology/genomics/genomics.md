@@ -188,3 +188,4 @@ title: Genomics
 - [A guide to antigen processing and presentation (2022)](https://www.nature.com/articles/s41577-022-00707-2)
 - [Snakemake](https://github.com/moiexpositoalonsolab/grenepipe) - Snakemake pipeline for variant calling from raw sequences.
 - [Whole Genome Sequencing](https://sequencing.com/) ([HN](https://news.ycombinator.com/item?id=32230819))
+- [dRep](https://github.com/MrOlm/drep) - Rapid comparison and dereplication of genomes.

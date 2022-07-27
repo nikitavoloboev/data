@@ -61,3 +61,4 @@
 - [New UUID Formats (2022)](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html) ([HN](https://news.ycombinator.com/item?id=31715119))
 - [UTF8.XYZ](https://utf8.xyz/) - Quick web app for fetching Unicode characters without extra fluff. ([Code](https://github.com/sethmlarson/utf8.xyz))
 - [How to estimate disk space](https://lethain.com/how-to-estimate-disk-space/)
+- [muon](https://github.com/vshymanskyy/muon) - Compact and simple binary object notation. ([Lobsters](https://lobste.rs/s/a7ougq/on_compact_simple_binary_encoding_on_par)) ([Doc](https://docs.google.com/presentation/d/1MosK6LTy_Rr32eF6HKej6UEtf9vBzdbeSF6YPb1_e4A/present?slide=id.g13be37bd3ba_0_6))

@@ -144,3 +144,5 @@ title: AWS Lambda
 - [Deploy Go API to AWS Lambda](https://github.com/thiskevinwang/api-lambda-aurora-go)
 - [Understanding AWS Lambda scaling and throughput (2022)](https://aws.amazon.com/blogs/compute/understanding-aws-lambda-scaling-and-throughput/)
 - [OpenTelemetry Lambda Layers](https://github.com/open-telemetry/opentelemetry-lambda) - Provide the OpenTelemetry (OTel) code to export telemetry asynchronously from AWS Lambdas.
+- [MikroLog](https://github.com/mikaelvesavuori/mikrolog) - JSON logger you always wanted for Lambda.
+- [Rust Lambda API template](https://github.com/saucepoint/rust-lambda-api) - Template repo for quickly creating an HTTP API with Rust hosted on AWS Lambda.

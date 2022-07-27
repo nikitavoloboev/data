@@ -111,3 +111,5 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [SolidJS Package Monorepo Starter](https://github.com/solidjs-community/monorepo-starter)
 - [Nested Routing, Parallelized Data Fetching, and SolidJS w/ Ryan Turnquist (2022)](https://www.youtube.com/watch?v=-TeXU9UZ_4w)
 - [Solid Floating UI](https://github.com/LXSMNSYC/solid-floating-ui)
+- [Solid Future Working Group](https://github.com/solidjs/solid-workgroup/discussions)
+- [Rigidity](https://github.com/LXSMNSYC/rigidity) - SSR framework for SolidJS. ([Tweet](https://twitter.com/lxsmnsyc/status/1552312144951005185))

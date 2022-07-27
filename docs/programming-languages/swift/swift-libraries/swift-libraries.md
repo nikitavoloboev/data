@@ -608,6 +608,7 @@
 - [PostgresClientKit](https://github.com/codewinsdotcom/PostgresClientKit) - PostgreSQL client library for Swift.
 - [Bodega](https://github.com/mergesort/Bodega) - Simple store for all your basic needs.
 - [StoreKitPlus](https://github.com/danielsaidi/StoreKitPlus) - Adds extra functionality for working with StoreKit 2, like extensions, observable state, services, etc.
+- [PersistentHistoryTrackingKit](https://github.com/fatbobman/PersistentHistoryTrackingKit) - Library for managing Core Data's Persistent History Tracking.
 
 ## Graphics
 

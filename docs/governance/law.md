@@ -3,6 +3,7 @@
 ## Notes
 
 - [Do not be afraid of lawyers. Especially if nobody has even talked to them yet. Lawyers do not like to lose cases, so will not push a losing agenda. Yet they also must do what their client asks, so lawyers looking into a concern, or even sending nastygrams... those are meaningless actions. It only becomes meaningful if and when if their lawyers indicate they believe they really have a case, or if your own lawyer believes they have a case. Everything before that is posturing and bullying. If I were in the same situation as OP, I'd state that my intent was positive, ask to be informed of the results of discussions with attorneys, and wish them to have a nice day. Admit no wrong, make no apologies, ignore irrelevant statements (in particular personal attacks), and just let it slide until they take a real action of some kind. Once they do take an action, then it might be appropriate to do what they want. But seriously... stop letting people be bullies.](https://news.ycombinator.com/item?id=27424195)
+- [One of my biggest founder learnings: Nothing is more expensive than a cheap lawyer.](https://twitter.com/NolanChurch/status/1551961191332777984)
 
 ## Links
 

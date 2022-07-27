@@ -504,3 +504,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Running an Open Source Home Area Network](https://xn--gckvb8fzb.com/running-an-open-source-home-area-network/)
 - [Seenvoy](https://github.com/saltbo/seenvoy) - Visualize the configs of the Envoy.
 - [Throttle](https://github.com/sitespeedio/throttle) - Throttle your network connection.
+- [SQUID](https://github.com/squid-cache/squid) - Squid Web Proxy Cache.

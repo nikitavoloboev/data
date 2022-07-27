@@ -136,3 +136,5 @@ I try to spend as much [time with family and loved ones](https://ourworldindata.
 - [At a bare minimum, every man should at least know how to \_\_](https://www.reddit.com/r/AskMen/comments/vi6mn7/at_a_bare_minimum_every_man_should_at_least_know/)
 - [Life is not short](https://dkb.show/post/life-is-not-short) ([HN](https://news.ycombinator.com/item?id=31885137))
 - [Ask HN: What lifestyle choices have led to improved cognitive function/memory? (2022)](https://news.ycombinator.com/item?id=31916041)
+- [Ask HN: Have you ever had a changed-your-life moment? (2022)](https://news.ycombinator.com/item?id=32248016)
+- [What are your non-screen / non-tech hobbies? (2022)](https://www.reddit.com/r/simpleliving/comments/w8w1hv/what_are_your_nonscreen_nontech_hobbies/)

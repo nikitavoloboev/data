@@ -846,3 +846,5 @@ title: Rust
 - [Elegant and performant recursion in Rust (2022)](https://recursion.wtf/posts/rust_schemes/) ([Tweet](https://twitter.com/inanna_malick/status/1549426154427166721))
 - [How to speed up the Rust compiler in July 2022](https://nnethercote.github.io/2022/07/20/how-to-speed-up-the-rust-compiler-in-july-2022.html)
 - [Building a Rust Mentality (2022)](https://slightknack.dev/blog/shift/) ([Lobsters](https://lobste.rs/s/izxatc/building_rust_mentality))
+- [Ferrocene Language Specification](https://spec.ferrocene.dev/) - Document describing the Rust language. ([Code](https://github.com/ferrocene/specification)) ([HN](https://news.ycombinator.com/item?id=32237780))
+- [Why I moved from Rust to TypeScript (2022)](https://blog.chiselstrike.com/notes-from-my-journey-from-rust-to-typescript-9bd9d28141e3) ([Lobsters](https://lobste.rs/s/jcctnt/why_i_moved_from_rust_typescript))

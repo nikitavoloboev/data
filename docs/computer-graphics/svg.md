@@ -160,3 +160,5 @@
 - [Heazy](https://heazy.studio/) - Generate stylish SVG design assets with ease. ([Code](https://github.com/MaximBuz/heazy-svg-creator))
 - [ASCIIToSVG](https://github.com/asciitosvg/asciitosvg) - Create beautiful SVG diagrams from ASCII art.
 - [picosvg](https://github.com/googlefonts/picosvg) - Helps simplify SVG files. Intended for use as part of a font build.
+- [svg-hush](https://github.com/cloudflare/svg-hush) - Make arbitrary SVG files as benign and safe to serve as images in other common Web file formats.
+- [Visualizing SVG viewbox](https://twitter.com/DanHollick/status/1552315316629254144)

@@ -169,3 +169,5 @@
 - [Writing Predictable Elixir Code with Reducers (2022)](https://blog.appsignal.com/2022/07/19/writing-predictable-elixir-code-with-reducers.html)
 - [Mat Trudel's Elixir talks](https://github.com/mtrudel/talks)
 - [new dbg tool for Elixir](https://twitter.com/whatyouhide/status/1549295894721445888)
+- [Sanbase GraphQL API in Elixir](https://github.com/santiment/sanbase2)
+- [How to Write a Functor in Elixir (2022)](https://blog.appsignal.com/2022/07/26/how-to-write-a-functor-in-elixir.html)

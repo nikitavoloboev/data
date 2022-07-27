@@ -106,3 +106,4 @@ title: Zero knowledge proofs
 - [Vamp-IR](https://github.com/anoma/vamp-ir) - Proof-system-agnostic language for writing arithmetic circuits.
 - [zkMove Lite](https://github.com/young-rocks/zkmove-lite) - Lightweight zero-knowledge proof friendly Move language virtual machine.
 - [zkEVM Prover in C++](https://github.com/0xPolygonHermez/zkevm-prover)
+- [VERI-ZEXE](https://github.com/EspressoSystems/veri-zexe) - Decentralized Private Computation with Universal Setup.

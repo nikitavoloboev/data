@@ -84,3 +84,4 @@ I practice self reflection (via journaling) & meditation (walks in nature) to ge
 - [Field theories of consciousness](http://www.scholarpedia.org/article/Field_theories_of_consciousness)
 - [Consciousness is not computation (2022)](https://joe-antognini.github.io/ml/consciousness) ([HN](https://news.ycombinator.com/item?id=31791126))
 - [Eben Alexander Explaining that Science shows that the brain does not create consciousness](https://www.reddit.com/r/HighStrangeness/comments/w3rhza/neurosurgeon_dr_eben_alexander_explaining_that/)
+- [Under Anesthesia, Where Do Our Minds Go? (2022)](https://nautil.us/under-anesthesia-where-do-our-minds-go-20845/) ([HN](https://news.ycombinator.com/item?id=32246987))

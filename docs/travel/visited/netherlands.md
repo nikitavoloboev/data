@@ -44,3 +44,4 @@ Amsterdam is my favorite city I've lived in thus far. I love how every city in N
 - [Suggestions for weekend getaway in NL](https://www.reddit.com/r/Netherlands/comments/umdmax/suggestions_for_weekend_getaway_in_nl/)
 - [Cheap good food places in Eindhoven](https://www.reddit.com/r/eindhoven/comments/uttfdn/am_i_alone_in_thinking_that_eindhoven_doesnt_have/)
 - [What amazing thing does the Netherlands have that no other country has? (2022)](https://www.reddit.com/r/Netherlands/comments/w2ng6e/what_amazing_thing_does_the_netherlands_have_that/)
+- [People from other countries, where is the best place in Amsterdam for tasty, authentic food from your home country? (2022)](https://www.reddit.com/r/Amsterdam/comments/w8ot1m/people_from_other_countries_where_is_the_best/)

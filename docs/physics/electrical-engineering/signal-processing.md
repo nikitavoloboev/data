@@ -60,3 +60,4 @@ title: Signal processing
 - [Think DSP – Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) ([Code](https://github.com/AllenDowney/ThinkDSP))
 - [Digital Signals Theory book and source materials](https://github.com/bmcfee/dstbook)
 - [Style Transfer of Audio Effects with Differentiable Signal Processing (2022)](https://arxiv.org/abs/2207.08759) ([Code](https://github.com/adobe-research/DeepAFx-ST))
+- [rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies).

@@ -258,3 +258,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Ask HN: Resources on learning System Design (back end/data engineering)? (2022)](https://news.ycombinator.com/item?id=32014658)
 - [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 - [Ask HN: What is best way to do hands-on practice for system design? (2022)](https://news.ycombinator.com/item?id=32093879)
+- [Nile](https://www.thenile.dev/) - Build the control plane for your infrastructure SaaS product.
