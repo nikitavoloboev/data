@@ -118,3 +118,4 @@ title: Xcode
 - [Multiliner](https://github.com/aheze/Multiliner) - Xcode source extension to expand lengthy lines.
 - [Update your Xcode project with the latest Swift Package dependencies](https://github.com/getsidetrack/action-xcodeproj-spm-update)
 - [localized-strings-symbols](https://github.com/iKenndac/localized-strings-symbols) - SPM and Xcode build plugin for creating Swift symbols for localized string keys.
+- [xccov2lcov](https://github.com/trax-retail/xccov2lcov) - Utility to convert data from Xcode 11's code coverage facility into the lcov file format, intended for upload to Coveralls.io.

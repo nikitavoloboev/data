@@ -63,3 +63,4 @@ title: ESLint
 - [eslint-plugin-local-rules](https://github.com/cletusw/eslint-plugin-local-rules) - Plugin for ESLint that allows you to use project-specific rules.
 - [eslint-rule-composer](https://github.com/not-an-aardvark/eslint-rule-composer) - Utility for composing ESLint rules from other ESLint rules.
 - [eslint-import-resolver-typescript](https://github.com/import-js/eslint-import-resolver-typescript) - Adds TypeScript support to eslint-plugin-import.
+- [The most important ESLint rule: max-params](https://dev.to/gajus/the-most-important-eslint-rule-max-params-349l)

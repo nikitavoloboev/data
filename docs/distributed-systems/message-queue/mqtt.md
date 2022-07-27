@@ -51,3 +51,4 @@ title: MQTT
 - [MQTT NIO](https://github.com/swift-server-community/mqtt-nio) - Swift NIO MQTT v3.1.1 and v5.0 Client.
 - [MQTT-C](https://github.com/LiamBindle/MQTT-C) - Portable MQTT C client for embedded systems and PCs alike.
 - [mqttd](https://github.com/dustin/mqttd) - Complete MQTT v5 broker.
+- [MQTT to NSQ bridge](https://github.com/jnewmano/mqtt-nsq)

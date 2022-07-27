@@ -190,3 +190,5 @@
 - [Digital Image Processing Implementations](https://github.com/tesfagabir/Digital-Image-Processing)
 - [Fighting JPEG color banding, or how to compress JPEG even more without artifacts (2022)](https://uploadcare.com/blog/fighting-jpeg-color-banding/) ([HN](https://news.ycombinator.com/item?id=31846284))
 - [Image Processing with WebGL](https://medium.com/eureka-engineering/image-processing-with-webgl-c2af552e8df0)
+- [rscolorq](https://github.com/okaneco/rscolorq) - Spatial color quantization in Rust.
+- [simple_clustering](https://github.com/okaneco/simple_clustering) - Image segmentation library and CLI tool using SNIC and SLIC superpixel algorithms.

@@ -939,6 +939,7 @@
 - [Nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices.
 - [MutatorMath](https://github.com/LettError/MutatorMath) - Python library for piecewise linear interpolation in multiple dimensions with multiple, arbitrarily placed, masters.
 - [Ubelt](https://github.com/Erotemic/ubelt) - Paths, Progress, Dicts, Downloads, Caching, Hashing.
+- [CyToolz](https://github.com/pytoolz/cytoolz) - High performance utility functions for iterables, functions, and dictionaries.
 
 ## Notes
 

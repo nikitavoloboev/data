@@ -689,6 +689,7 @@
 - [Jl2Py](https://github.com/lucifer1004/Jl2Py.jl) - Transpile from Julia to Python.
 - [ObjectOriented](https://github.com/Suzhou-Tongyuan/ObjectOriented.jl) - Mechanical OOP programming library for Julia.
 - [LikelihoodProfiler](https://github.com/insysbio/LikelihoodProfiler.jl) - Julia package for practical identifiability analysis and confidence intervals evaluation.
+- [Figgy](https://github.com/JuliaServices/Figgy.jl) - Threadsafe, sensible configuration management package for Julia.
 
 ## Links
 

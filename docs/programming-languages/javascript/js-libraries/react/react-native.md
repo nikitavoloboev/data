@@ -289,3 +289,4 @@ title: React Native
 - [React Native Instagram Page Transition](https://github.com/enesozturk/react-native-instagram)
 - [Discovering Turbo Modules](https://github.com/barthap/discovering-turbomodules) - Step by step example of creating your own React Native TurboModule.
 - [React Native Toast](https://github.com/backpackapp-io/react-native-toast)
+- [React Native Quick Crypto](https://github.com/margelo/react-native-quick-crypto) - Fast implementation of Node's crypto module.

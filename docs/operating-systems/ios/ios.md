@@ -493,3 +493,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Getting started with mocking networking in UI-tests on iOS (2022)](https://augmentedcode.io/2022/07/11/getting-started-with-mocking-networking-in-ui-tests-on-ios/)
 - [100 tips I learned growing an iOS app](https://twitter.com/jakemor/status/1549281861687451648)
 - [How different app frameworks render views on iOS (2022)](https://twitter.com/Baconbrix/status/1550501126117773313)
+- [What are your most-used iPhone shortcuts? (2022)](https://www.reddit.com/r/apple/comments/w7tyw7/what_are_your_mostused_iphone_shortcuts/)

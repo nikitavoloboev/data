@@ -123,3 +123,4 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Ask HN: What do you use VMs for regularly? (2022)](https://news.ycombinator.com/item?id=31822932)
 - [Hop](https://hop.io/) - Cloud Platform for Real time. Low-latency products built for the real time era. ([Docs](https://docs.hop.io/)) ([Docs Code](https://github.com/hopinc/hop-client-js))
 - [Awesome Cloud Native Trainings](https://github.com/joseadanof/awesome-cloudnative-trainings)
+- [Which cloud provider are your favorite and why? (2022)](https://www.reddit.com/r/devops/comments/w7vhvj/which_cloud_provider_are_your_favorite_and_why/)

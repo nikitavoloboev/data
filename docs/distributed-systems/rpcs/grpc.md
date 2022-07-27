@@ -122,3 +122,4 @@ title: gRPC
 - [Go gRPC Middleware for Sentry](https://github.com/johnbellone/grpc-middleware-sentry)
 - [Node gRPC Server](https://github.com/MattIPv4/node-grpc-server)
 - [grpcutil](https://github.com/authzed/grpcutil) - Various utilities to simplify common gRPC APIs.
+- [gRPC JSON Proxy](https://github.com/jnewmano/grpc-json-proxy) - gRPC proxy for Postman like tools.
