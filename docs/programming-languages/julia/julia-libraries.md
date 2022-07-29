@@ -117,6 +117,7 @@
 - [SymbolicControlSystems](https://github.com/JuliaControl/SymbolicControlSystems.jl) - C-code generation and an interface between ControlSystems.jl and SymPy.j.
 - [RvSpectML](https://github.com/RvSpectML/RvSpectML.jl) - Facilitate the analysis of stellar spectroscopic times series.
 - [LsqFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl) - Simple curve fitting in Julia.
+- [TintiNet.jl](https://github.com/Hugemiler/TintiNet.jl) - Implementation of the TintiNet architecture for Julia.
 
 ## Math
 
@@ -696,6 +697,11 @@
 - [JLD2](https://github.com/JuliaIO/JLD2.jl) - HDF5-compatible file format in pure Julia.
 - [DemoCards](https://github.com/JuliaDocs/DemoCards.jl) - Dynamically generate a demo page and integrate with Documenter.jl.
 - [ProtocolBuffers.jl](https://github.com/Drvi/ProtocolBuffers.jl) - Julia package that provides a compiler and a codec for Protocol Buffers.
+- [ProjectionPursuit](https://github.com/xieyj17/ProjectionPursuit.jl) - Dimension reduction using projection pursuit in Julia.
+- [OpenTelemetry.jl](https://github.com/oolong-dev/OpenTelemetry.jl) - Unofficial implementation of OpenTelemetry in Julia.
+- [CloudBase](https://github.com/JuliaServices/CloudBase.jl) - Simple, yet comprehensive foundation for interacting with common cloud providers in Julia (GCP, Azure, AWS).
+- [Legolas.jl](https://github.com/beacon-biosignals/Legolas.jl) - Tables.jl-friendly mechanisms for constructing, reading, writing, and validating Arrow tables against extensible, versioned, user-specified schemas.
+- [Zarr](https://github.com/JuliaIO/Zarr.jl) - Julia package providing an implementation of chunked, compressed, N-dimensional arrays.
 
 ## Links
 

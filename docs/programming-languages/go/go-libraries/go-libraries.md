@@ -1760,6 +1760,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [chris](https://github.com/woojiahao/chris) - Pratt parser implementation in Go.
 - [fastcgo](https://github.com/petermattis/fastcgo) - Fast (but unsafe) Cgo calls via an assembly trampoline.
 - [Paerser](https://github.com/traefik/paerser) - Loads configuration from many sources.
+- [fast-fan-in](https://github.com/IBM/fast-fan-in) - Go fan-in pattern efficiently adaptable to any channel type without code generation.
 
 ## Links
 

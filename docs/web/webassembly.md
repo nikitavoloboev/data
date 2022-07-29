@@ -339,3 +339,4 @@ title: WebAssembly
 - [WITX-CodeGen](https://github.com/jedisct1/witx-codegen) - WITX code and documentation generator. WITX is a way to describe types and function interfaces for WebAssembly modules.
 - [Enarx Codex](https://github.com/enarx/codex) - Code examples that can be compiled to WebAssembly for use with Enarx.
 - [How WASM could impact the future of programming languages (2022)](https://twitter.com/sdeleuze/status/1552695265328496640)
+- [Wasp](https://github.com/nicholasjackson/wasp) - WASM System Plugins for Go.

@@ -136,3 +136,4 @@ title: Racket
 - [Ray tracing with Racket](https://github.com/nikofeyn/ray-tracing-with-racket)
 - [set-extras](https://github.com/philnguyen/set-extras) - Some extra functionalities for set in Typed Racket.
 - [json-type-provider](https://github.com/philnguyen/json-type-provider) - Well-typed JSON parser generator inspired by Type Provider.
+- [pyffi](https://github.com/soegaard/pyffi) - Use Python from Racket.

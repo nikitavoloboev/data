@@ -132,7 +132,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Bit](https://github.com/teambit/bit) - Platform for collaborating on components.
 - [tuf](https://github.com/theupdateframework/tuf) - Framework for securing software update systems.
 - [Collection of hacks and one-off scripts](https://github.com/tomnomnom/hacks)
-- [Cue](https://github.com/cue-lang/cue) - Validate and define text-based and dynamic configuration. ([Web](https://cuelang.org/)) ([Cuetorials](https://cuetorials.com/)) ([Playground](https://cuelang.org/play/)) ([How CUE Wins (2021)](https://blog.cedriccharly.com/post/20210523-how-cue-wins/)) ([HN](https://news.ycombinator.com/item?id=28915655)) ([Tweet](https://twitter.com/mattklein123/status/1508945951192363008))
 - [phonograph](https://github.com/Rich-Harris/phonograph) - Stream large audio files without the dreaded 'DOMException: play() can only be initiated by a user gesture' error.
 - [Source code to all the tutorials on emulator101.com](https://github.com/kpmiller/emulator101)
 - [Loss functions for image segmentation](https://github.com/JunMa11/SegLoss)
@@ -654,3 +653,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: What technologies have made your life worse? (2022)](https://news.ycombinator.com/item?id=32227006)
 - [The Maintenance Race (2022)](https://www.worksinprogress.co/issue/the-maintenance-race/) ([HN](https://news.ycombinator.com/item?id=32196345))
 - [Brickit](https://brickit.app/) - Build new things from your old bricks.
+- [Noah Smith's hot takes](https://twitter.com/Noahpinion/status/1494402846707486720)

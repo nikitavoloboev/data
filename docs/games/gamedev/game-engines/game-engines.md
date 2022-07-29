@@ -119,6 +119,7 @@
 - [Amalgam Engine](https://github.com/Net5F/AmalgamEngine) - Engine for easily creating virtual worlds.
 - [Stride](https://github.com/stride3d/stride) - Open-source C# game engine for realistic rendering and VR. ([Web](https://www.stride3d.net/))
 - [Traviso](https://github.com/axaq/traviso.js) - Open source JS engine that makes it easy to build isometric applications that run in a web browser.
+- [LibPHX](https://github.com/JoshParnell/libphx) - Lightweight, (mostly) C-based game engine developed for the cancelled space simulation game Limit Theory.
 
 ## Physics engines
 

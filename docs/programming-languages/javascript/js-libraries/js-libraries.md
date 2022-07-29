@@ -989,6 +989,7 @@
 - [object-sizeof](https://github.com/miktam/sizeof) - Get size of a JavaScript object.
 - [fmu](https://github.com/bluwy/fmu) - Collection of JS module utilities written in Rust.
 - [Constrain](https://github.com/andrewcmyers/constrain) - Responsive, animated figures in JavaScript/HTML canvases.
+- [probe-image-size](https://github.com/nodeca/probe-image-size) - Get image size without full download. Supported image types: JPG, GIF, PNG, WebP, BMP, TIFF, SVG, PSD, ICO.
 
 ## Links
 

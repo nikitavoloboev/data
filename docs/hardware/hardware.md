@@ -343,3 +343,4 @@
 - [DigitalJS](https://github.com/tilk/digitaljs) - Teaching-focused digital circuit simulator.
 - [Knox](https://github.com/anishathalye/knox) - Framework for formally verifying hardware security modules to be free of hardware, software, and timing side-channel vulnerabilities.
 - [Building a fast all-SSD NAS (on a budget) (2022)](https://www.jeffgeerling.com/blog/2022/building-fast-all-ssd-nas-on-budget)
+- [Dalorex: A Data-Local Program Execution and Architecture for Memory-bound Applications (2022)](https://arxiv.org/abs/2207.13219)

@@ -113,3 +113,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Solid Floating UI](https://github.com/LXSMNSYC/solid-floating-ui)
 - [Solid Future Working Group](https://github.com/solidjs/solid-workgroup/discussions)
 - [Rigidity](https://github.com/LXSMNSYC/rigidity) - SSR framework for SolidJS. ([Tweet](https://twitter.com/lxsmnsyc/status/1552312144951005185))
+- [Rallax](https://github.com/thetarnav/rallax) - Parallax library for SolidJS.

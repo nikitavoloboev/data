@@ -125,3 +125,4 @@
 - [elmerfs](https://github.com/scality/elmerfs) - File system that leverage Conflict Free Replicated Data Type CRDT on top of AntidoteDB to be eventually consistent in a active-active geo distributed scenario.
 - [Ask HN: Why don't file systems and OS's provide file system transactions? (2022)](https://news.ycombinator.com/item?id=32200007)
 - [Squashfs-Tools](https://github.com/plougher/squashfs-tools) - Tools to create and extract Squashfs filesystems.
+- [Pandoras Box](https://github.com/capnspacehook/pandorasbox) - Intuitive and encrypted in-memory filesystem (VFS).

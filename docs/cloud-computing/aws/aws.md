@@ -371,3 +371,5 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [Microservice Observability with Amazon OpenSearch Service Workshop](https://github.com/aws-samples/observability-with-amazon-opensearch)
 - [Complete AWS IAM Reference](https://iam.cloudonaut.io/) ([Code](https://github.com/widdix/complete-aws-iam-reference))
 - [AWS AppSync Real Time Client iOS](https://github.com/aws-amplify/aws-appsync-realtime-client-ios)
+- [CDK Bill Bot](https://github.com/cremich/cdk-bill-bot) - Serverless cost optimization bot.
+- [Hugging Face Transformers and Habana Gaudi AWS DL1 Instances (2022)](https://www.philschmid.de/habana-distributed-training)

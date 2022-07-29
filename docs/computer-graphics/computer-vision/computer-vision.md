@@ -884,3 +884,5 @@
 - [S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning (2022)](https://eldentse.github.io/s2contact/) ([Code](https://github.com/eldentse/s2contact))
 - [Is Attention All NeRF Needs? (2022)](https://arxiv.org/abs/2207.13298) ([Code](https://github.com/VITA-Group/GNT))
 - [Camouflaged/Concealed Object Detection](https://github.com/visionxiang/awesome-camouflaged-object-detection)
+- [Accelerate Vision Transformer (ViT) with Quantization using Optimum (2022)](https://www.philschmid.de/optimizing-vision-transformer)
+- [Optimizing Transformers for GPUs with Optimum (2022)](https://www.philschmid.de/optimizing-transformers-with-optimum-gpu)

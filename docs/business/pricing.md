@@ -88,3 +88,4 @@
 - [Best resources (books, articles, etc) on pricing and packaging products (2022)](https://twitter.com/patrick_oshag/status/1538890809742876674)
 - [Designing a better pricing page (2022)](https://www.smashingmagazine.com/2022/07/designing-better-pricing-page/) ([HN](https://news.ycombinator.com/item?id=32012175))
 - [Superwall](https://superwall.com/) - Build the best mobile paywalls. ([Twitter](https://twitter.com/superwall))
+- [Lago](https://www.getlago.com/) - Open Source Billing API for Product-Led SaaS. ([Code](https://github.com/getlago/lago))

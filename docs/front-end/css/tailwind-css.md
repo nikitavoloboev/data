@@ -156,3 +156,4 @@ title: Tailwind CSS
 - [Tailwind Components Collection](https://github.com/unlight/tailwind-components)
 - [Tailwind Utopia](https://github.com/cwsdigital/tailwind-utopia) - TailwindCSS plugin to generate interpolated fluid typographic and spacing scales as created by the generator utopia.fyi.
 - [Tailwind CSS Assistant](https://github.com/markmead/tailwindcss-assistant) - Tailwind CSS assistant allowing you to edit classes.
+- [tailwind-converter](https://github.com/lxsmnsyc/tailwind-converter) - Convert TailwindCSS classes to a single CSS class.

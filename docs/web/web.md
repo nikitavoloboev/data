@@ -442,3 +442,4 @@
 - [myAlgorithm](https://github.com/jawerty/myAlgorithm) - Self hosted recommendation feed generated from your browsing habits. ([HN](https://news.ycombinator.com/item?id=32152600))
 - [Webaves](https://github.com/chfoo/webaves) - Web archiving software suite.
 - [SPA Alternative](https://htmx.org/essays/spa-alternative/) ([HN](https://news.ycombinator.com/item?id=32148253))
+- [Build Your Own Web Framework (2022)](https://vercel.com/blog/build-your-own-web-framework) ([HN](https://news.ycombinator.com/item?id=32278288))

@@ -422,6 +422,7 @@ Below is a list of extensions I use.
 
 - [CPP tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - C/C++ IntelliSense, debugging, and code browsing.
 - [C-mantic](https://bigbahss.github.io/vscode-cmantic/) - Open-source extension for VS Code that provides code generation and refactorings for C/C++. ([Code](https://github.com/BigBahss/vscode-cmantic))
+- [clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) - C/C++ completion, navigation, and insights. ([Code](https://github.com/clangd/vscode-clangd))
 
 ## Swift
 

@@ -2064,6 +2064,7 @@
 - [serde-zod](https://github.com/shakyShane/serde-zod) - Generate zod definitions from your JSON-serializable types in Rust.
 - [subparse](https://github.com/kaegi/subparse) - Rust library to load, change and write common subtitle formats.
 - [nougat](https://github.com/danielhenrymantilla/nougat.rs) - Use (lifetime-)GATs on stable rust.
+- [EString](https://github.com/pleshevskiy/estring) - Simple way to parse a string using type annotations.
 
 ## Cargo Plugins
 

@@ -138,3 +138,4 @@
 - [Survey of 3D Compression and Streaming](https://github.com/tovacinni/awesome-3d-compression)
 - [compress.js](https://github.com/alextanhongpin/compress.js) - Simple JavaScript based client-side image compression algorithm.
 - [Python-LZ4](https://github.com/python-lz4/python-lz4) - LZ4 bindings for Python.
+- [The tar archive format, its extensions, and why GNU tar extracts in quadratic time (2022)](https://mort.coffee/home/tar/)

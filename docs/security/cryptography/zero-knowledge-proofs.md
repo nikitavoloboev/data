@@ -107,3 +107,4 @@ title: Zero knowledge proofs
 - [zkMove Lite](https://github.com/young-rocks/zkmove-lite) - Lightweight zero-knowledge proof friendly Move language virtual machine.
 - [zkEVM Prover in C++](https://github.com/0xPolygonHermez/zkevm-prover)
 - [VERI-ZEXE](https://github.com/EspressoSystems/veri-zexe) - Decentralized Private Computation with Universal Setup.
+- [Ecne](https://github.com/franklynwang/EcneProject) - Engine for verifying the soundness of R1CS constraints.

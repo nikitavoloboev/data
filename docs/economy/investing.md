@@ -292,3 +292,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [OpenBB Terminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Modern Python-based integrated environment for investment research. ([Web](https://openbb.co/)) ([Tweet](https://twitter.com/pyquantnews/status/1549911563821260801))
 - [What is a stock that you think is so obviously a buy at its current price that you feel you are missing something? (2022)](https://www.reddit.com/r/stocks/comments/w76rak/what_is_a_stock_that_you_think_is_so_obviously_a/)
 - [Whats something you wish you knew before starting options trading (2022)](https://www.reddit.com/r/options/comments/w7p46m/whats_something_you_wish_you_knew_before_starting/)
+- [Pandas TA](https://github.com/twopirllc/pandas-ta) - Technical Analysis Library in Python 3.

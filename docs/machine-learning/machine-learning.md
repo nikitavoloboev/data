@@ -886,3 +886,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [TabTransformer: Tabular Data Modeling Using Contextual Embeddings (2020)](https://arxiv.org/abs/2012.06678) ([Code](https://github.com/lucidrains/tab-transformer-pytorch))
 - [Automatic Symmetry Discovery with Lie Algebra Convolutional Network (2021)](https://arxiv.org/abs/2109.07103) ([Code](https://github.com/nimadehmamy/L-conv-code))
 - [Awesome Time Series Papers](https://github.com/cure-lab/Awesome-time-series)
+- [Deep Learning setup made easy with EC2 Remote Runner and Habana Gaudi (2022)](https://www.philschmid.de/habana-gaudi-ec2-runner)

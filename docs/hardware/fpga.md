@@ -106,3 +106,4 @@ title: Field-programmable gate array
 - [EVEREST](https://github.com/cbalint13/e-verest) - e-Versatile Research Stick for peoples.
 - [FPGAs in Client Compute Hardware (2022)](https://queue.acm.org/detail.cfm?id=3512327) ([HN](https://news.ycombinator.com/item?id=31958603))
 - [NiteFury](https://www.crowdsupply.com/rhs-research/nitefury) - Artix-7 FPGA with its own DDR3 RAM right in your laptop. ([HN](https://news.ycombinator.com/item?id=32161592))
+- [Getting ResNet to 300 fps on ZCU104 (2022)](https://k155la3.blog/2022/07/29/getting-resnet-to-300-fps-on-zcu104/)
