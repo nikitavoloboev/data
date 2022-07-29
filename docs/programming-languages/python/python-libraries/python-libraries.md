@@ -1108,3 +1108,4 @@
 - [Python for Scientists](https://github.com/TomNicholas/Python-for-Scientists)
 - [Python toolkits (2022)](https://www.reddit.com/r/Python/comments/w092je/python_toolkits/)
 - [Freezing requirements with pip-tools (2022)](https://til.simonwillison.net/python/pip-tools)
+- [How to create a Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022) ([HN](https://news.ycombinator.com/item?id=32258783))

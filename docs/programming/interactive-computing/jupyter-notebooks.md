@@ -212,3 +212,4 @@ title: Jupyter Notebooks
 - [Jupyter Server](https://github.com/jupyter-server/jupyter_server) - Backend—i.e. core services, APIs, and REST endpoints—to Jupyter web applications.
 - [VPython](https://github.com/vpython/vpython-jupyter) - 3D visualization made easy.
 - [All the Kernels](https://github.com/minrk/allthekernels) - Jupyter kernel that multiplexes all the kernels you have installed.
+- [Fun with Motion-JPEG, Jupyter Notebook and How to Stream GUI and Animations in the Browser (2022)](https://liuliu.me/eyes/fun-with-motion-jpeg-jupyter-notebook-and-how-to-stream-gui-and-animations-in-the-browser/)

@@ -124,3 +124,4 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Hop](https://hop.io/) - Cloud Platform for Real time. Low-latency products built for the real time era. ([Docs](https://docs.hop.io/)) ([Docs Code](https://github.com/hopinc/hop-client-js))
 - [Awesome Cloud Native Trainings](https://github.com/joseadanof/awesome-cloudnative-trainings)
 - [Which cloud provider are your favorite and why? (2022)](https://www.reddit.com/r/devops/comments/w7vhvj/which_cloud_provider_are_your_favorite_and_why/)
+- [Cloud Security Wiki](https://www.secwiki.cloud/) ([Code](https://github.com/withsecurelabs/cloud-wiki))

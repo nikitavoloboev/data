@@ -100,3 +100,4 @@ title: Phoenix framework
 - [LiveView in Rust](https://github.com/njaremko/liveview-rust)
 - [AbsintheGraphqlWS](https://github.com/geometerio/absinthe_graphql_ws) - Add graphql-ws websocket transport for Absinthe.
 - [Rummage.Phoenix](https://github.com/annkissam/rummage_phoenix) - Support framework for Phoenix that can be used to manipulate Phoenix collections and Ecto models with Search, Sort and Paginate operations.
+- [How LiveView Took on a Life of Its Own (2022)](https://fly.io/blog/liveview-its-alive/)

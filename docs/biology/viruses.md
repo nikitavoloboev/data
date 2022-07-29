@@ -104,3 +104,4 @@
 - [Recipes for Future Plagues: Conversation with Rob Reid and Kevin Esvelt (2022)](https://www.samharris.org/podcasts/making-sense-episodes/making-sense-presents-recipes-for-future-plagues) ([Tweet](https://twitter.com/kesvelt/status/1498409798903209996))
 - [Kendrick](https://github.com/KendrickOrg/kendrick) - DSL and Simulation Platform for Epidemiology Modeling.
 - [Masks for COVID: Updating the evidence (2022)](https://www.fast.ai/2022/07/04/updated-masks-evidence/)
+- [The Huanan Seafood Wholesale Market in Wuhan was the early epicenter of the COVID-19 pandemic (2022)](https://www.science.org/doi/10.1126/science.abp8715)

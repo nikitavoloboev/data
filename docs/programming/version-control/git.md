@@ -564,3 +564,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [git-story](https://github.com/initialcommit-com/git-story) - Tell the story of your Git project by creating video animations of your commit history directly from your Git repo.
 - [Things I wish everyone knew about Git (Part II) (2022)](https://blog.plover.com/prog/git/tips-2.html) ([HN](https://news.ycombinator.com/item?id=32161247)) ([Part 1](https://blog.plover.com/prog/git/tips.html))
 - [In Praise of Stacked PRs (2022)](https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/) ([HN](https://news.ycombinator.com/item?id=32214809))
+- [Faster git clones with sparse checkouts (2022)](https://aymericbeaumet.com/faster-git-clones-with-sparse-checkouts)
+- [Git with Multiple E-Mail Addresses (2022)](https://paedubucher.ch/articles/2022-07-26-git-with-multiple-e-mail-addresses.html)

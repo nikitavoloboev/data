@@ -399,3 +399,5 @@
 - [JJazzLab-X](https://github.com/jjazzboss/JJazzLab-X) - Complete MIDI-based framework for automatic backing tracks generation. ([HN](https://news.ycombinator.com/item?id=32150169))
 - [Signals And Sorcery](https://signalsandsorcery.org/sas/composer) - Browser-based DAW. ([HN](https://news.ycombinator.com/item?id=32165328))
 - [monome](https://monome.org/) - Sound machines for the exploration of time and space. ([GitHub](https://github.com/monome)) ([libmonome](https://github.com/monome/libmonome))
+- [Black MIDI](https://en.wikipedia.org/wiki/Black_MIDI) ([HN](https://news.ycombinator.com/item?id=32262057))
+- [Strudel REPL](https://strudel.tidalcycles.org/) - Live coding environment that brings the ideas of Tidal Cycles to the browser. ([Article](https://loophole-letters.vercel.app/strudel))

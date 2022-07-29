@@ -167,3 +167,4 @@
 - [retrospring](https://retrospring.net/) - Q/A based social network. ([Code](https://github.com/Retrospring/retrospring))
 - [Movim](https://movim.eu/) - Social and chat platform that act as a web frontend for the XMPP protocol. ([Code](https://github.com/movim/movim))
 - [cohost](https://cohost.org/rc/welcome) - New social media platform built from the ground up. ([Twitter](https://twitter.com/cohost_org))
+- [TikTok and the Fall of the Social-Media Giants (2022)](https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-fall-of-the-social-media-giants) ([HN](https://news.ycombinator.com/item?id=32273083))

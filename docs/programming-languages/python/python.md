@@ -522,4 +522,4 @@ for i, _ in enumerate(nums):
 - [µfmt](https://github.com/omnilib/ufmt) - Safe, atomic formatting with black and µsort.
 - [Finding performance bottlenecks in Celery tasks (2022)](https://pythonspeed.com/articles/celery-performance/)
 - [Python is Actually Portable (2021)](https://ahgamut.github.io/2021/07/13/ape-python/) ([HN](https://news.ycombinator.com/item?id=32245430))
-- [Pycom](https://github.com/Omyyyy/pycom) - Python compiler, down to native code, using C++.
+- [Pycom](https://github.com/Omyyyy/pycom) - Python compiler, down to native code, using C++. ([HN](https://news.ycombinator.com/item?id=32270255))

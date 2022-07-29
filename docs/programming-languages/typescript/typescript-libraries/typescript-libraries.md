@@ -577,7 +577,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Transmat](https://github.com/google/transmat) - Share data beyond the browser boundaries. Enable users to transfer data to external apps, and open your web app to receive external data.
 - [Cron-Time](https://github.com/trapcodeio/cron-time) - Cron Time Expression Generator/Builder written in Typescript.
 - [evalish](https://github.com/kitten/evalish) - Slightly safer-ish wrapper around eval Function constructors.
-- [Spartan Schema](https://github.com/ar-nelson/spartan-schema) - Ultra-minimal JSON schemas with Typescript inference.
+- [Spartan Schema](https://github.com/ar-nelson/spartan-schema) - Ultra-minimal JSON schemas with Typescript inference. ([HN](https://news.ycombinator.com/item?id=32260705))
 - [fast-array-diff](https://github.com/YuJianrong/fast-array-diff) - Node module to find the same/diff of two arrays.
 - [settle-it](https://github.com/astoilkov/settle-it) - Like Promise.allSettled() but for sync and async functions.
 - [good-try](https://github.com/astoilkov/good-try) - Tries to execute sync/async function, returns a specified default value if the function throws.

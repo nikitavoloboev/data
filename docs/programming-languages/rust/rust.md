@@ -851,3 +851,5 @@ title: Rust
 - [Rust Is Actually Portable (2022)](https://ahgamut.github.io/2022/07/27/ape-rust-example/) ([HN](https://news.ycombinator.com/item?id=32260619))
 - [Actually Portable Executables with Cosmopolitan Libc and Rust](https://github.com/ahgamut/rust-ape-example)
 - [Fully generic recursion in Rust (2022)](https://recursion.wtf/posts/rust_schemes_2/) ([Lobsters](https://lobste.rs/s/iac4jn/fully_generic_recursion_rust))
+- [Uncovering a Blocking Syscall (2022)](https://chrissardegna.com/blog/uncovering-a-blocking-syscall/)
+- [Rust's Keyword Generics Initiative](https://rust-lang.github.io/keyword-generics-initiative/) ([Code](https://github.com/rust-lang/keyword-generics-initiative)) ([Lobsters](https://lobste.rs/s/hyd2sx/announcing_keyword_generics_initiative))

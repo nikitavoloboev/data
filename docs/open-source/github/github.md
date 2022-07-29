@@ -444,3 +444,4 @@ Awesome List
 - [Linear GitHub Sync](https://github.com/spacedriveapp/linear-github-sync) - System to synchronize Linear issues to GitHub issues.
 - [Stargaze](https://github.com/nodew/stargaze-cli) - CLI tool to help you manage your starred projects on GitHub.
 - [PRM](https://github.com/ldez/prm) - Pull Request Manager for Maintainers.
+- [prr](https://github.com/danobi/prr) - Text-based code review tool for GitHub. ([Lobsters](https://lobste.rs/s/3mfvyd/prr_text_based_code_review_tool_for_github))

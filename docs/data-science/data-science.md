@@ -240,7 +240,7 @@
 - [Shopify's Data Science and Engineering Foundations (2020)](https://shopify.engineering/shopifys-data-science-engineering-foundations) ([HN](https://news.ycombinator.com/item?id=30643677))
 - [Introduction to K-Means Clustering](https://www.pinecone.io/learn/k-means-clustering/) ([HN](https://news.ycombinator.com/item?id=30673364))
 - [Modern data analysis stack (2022)](https://twitter.com/__mharrison__/status/1504504516393127964)
-- [Stop aggregating away the signal in your data (2022)](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)
+- [Stop aggregating away the signal in your data (2022)](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/) ([Lobsters](https://lobste.rs/s/9walmw/stop_aggregating_away_signal_your_data))
 - [OpenMetadata](https://open-metadata.org/) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right. ([Code](https://github.com/open-metadata/OpenMetadata))
 - [Rill Data](https://www.rilldata.com/) - Fully Managed Apache Druid as a Service. ([Rill Developer](https://github.com/rilldata/rill-developer))
 - [Glean](https://glean.io/) - Fast data insights for your team.
@@ -265,3 +265,4 @@
 - [Hedgehog Lab](https://hlab.app/) - Run, compile and execute JavaScript for Scientific Computing and Data Visualization. ([Code](https://github.com/Hedgehog-Computing/hedgehog-lab))
 - [What is THE Data Science book? (2022)](https://www.reddit.com/r/datascience/comments/vq24py/what_is_the_data_science_book/)
 - [Everyday Data Science Interactive Course](https://tigyog.app/d/C-I1weB9CpTH/r/everyday-data-science) ([HN](https://news.ycombinator.com/item?id=32118530))
+- [nbdev+Quarto: A new secret weapon for productivity (2022)](https://www.fast.ai/2022/07/28/nbdev-v2/)

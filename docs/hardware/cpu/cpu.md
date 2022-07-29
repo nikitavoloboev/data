@@ -157,3 +157,5 @@
 - [Y86 Emulator](https://y86.js.org/) - Y86 pipeline CPU simulator in JavaScript. ([Code](https://github.com/shuding/y86))
 - [CPUs, cloud VMs, and noisy neighbors: the limits of parallelism (2022)](https://pythonspeed.com/articles/cpu-limits-to-speed/)
 - [The TRUTH of TSMC 5nm: Claimed Density vs Reality (2022)](https://www.angstronomics.com/p/the-truth-of-tsmc-5nm) ([Reddit](https://www.reddit.com/r/hardware/comments/vknv0k/angstronomics_the_truth_of_tsmc_5nm/))
+- [AMD’s Athlon 64: Getting the Basics Right (2022)](https://chipsandcheese.com/2022/07/28/amds-athlon-64-getting-the-basics-right/) ([HN](https://news.ycombinator.com/item?id=32264878))
+- [Code Density Compared Between Way Too Many Instruction Sets](https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-07-28/) ([Lobsters](https://lobste.rs/s/d61s5c/code_density_compared_between_way_too))

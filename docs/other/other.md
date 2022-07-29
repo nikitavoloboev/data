@@ -653,3 +653,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Emoji Kitchen](https://emoji.supply/kitchen/) ([HN](https://news.ycombinator.com/item?id=32232546))
 - [Ask HN: What technologies have made your life worse? (2022)](https://news.ycombinator.com/item?id=32227006)
 - [The Maintenance Race (2022)](https://www.worksinprogress.co/issue/the-maintenance-race/) ([HN](https://news.ycombinator.com/item?id=32196345))
+- [Brickit](https://brickit.app/) - Build new things from your old bricks.

@@ -125,3 +125,4 @@
 - [Russh](https://github.com/warp-tech/russh) - Rust SSH client & server library.
 - [Tailscale SSH (2022)](https://tailscale.com/blog/tailscale-ssh/) ([HN](https://news.ycombinator.com/item?id=31837115)) ([Lobsters](https://lobste.rs/s/y9ewni/introducing_tailscale_ssh))af
 - [drgn.js](https://github.com/drgnjs/drgn) - Modern SSH client built with web technologies.
+- [A toy remote login server (2022)](https://jvns.ca/blog/2022/07/28/toy-remote-login-server/)

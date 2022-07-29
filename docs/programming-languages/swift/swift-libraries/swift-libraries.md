@@ -1287,3 +1287,4 @@
 - [Swift Distributed Actors on Fly.io](https://github.com/PopFlamingo/hello-fly-distributed-actors)
 - [Meet Transferable (2022)](https://www.wwdcnotes.com/notes/wwdc22/10062/)
 - [SwiftFormatPlugin](https://github.com/MarcoEidinger/SwiftFormatPlugin) - Swift Package Plugin to format source code with SwiftFormat.
+- [Uncompressing Folders in Swift](https://quindarius.com/articles/uncompressing-folders-in-swift/index.html)

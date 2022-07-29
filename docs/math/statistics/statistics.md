@@ -163,3 +163,4 @@
 - [Bayesian Statistics graduate course](https://github.com/storopoli/Bayesian-Statistics)
 - Bayes Rules – An Introduction to Applied Bayesian Modeling (2021)](https://www.bayesrulesbook.com/) ([HN](https://news.ycombinator.com/item?id=32125834))
 - [Consistency of invariance-based randomization tests (2021)](https://arxiv.org/abs/2104.12260)
+- [StockBot: Using LSTMs to Predict Stock Prices (2022)](https://arxiv.org/abs/2207.06605)

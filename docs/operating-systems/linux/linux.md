@@ -569,3 +569,4 @@ title: Linux
 - [Understanding modern Linux routing (and wg-quick) (2021)](https://ro-che.info/articles/2021-02-27-linux-routing) ([HN](https://news.ycombinator.com/item?id=32241531))
 - [VerKer](https://github.com/evdenis/verker) - Linux kernel library functions formally verified.
 - [minibase](https://github.com/arsv/minibase) - Small static userspace tools for Linux.
+- [Aya: your tRusty eBPF companion (2022)](https://deepfence.io/aya-your-trusty-ebpf-companion/)

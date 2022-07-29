@@ -9,7 +9,7 @@
 - [What Every Programmer Should Know About Memory (2007)](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) ([Web](https://lwn.net/Articles/250967/))
 - [Memory Management Reference](https://www.memorymanagement.org/) - Resource for programmers and computer scientists interested in memory management and garbage collection. ([HN](https://news.ycombinator.com/item?id=32067559))
 - [Memory Pool System](https://www.ravenbrook.com/project/mps/) - Flexible and adaptable memory manager. Among its many advantages are an incremental garbage collector with very low pause times, and an extremely robust implementation. ([Code](https://github.com/Ravenbrook/mps))
-- [A unified theory of garbage collection (2004)](https://www.researchgate.net/publication/221321424_A_unified_theory_of_garbage_collection) ([PDF](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf))
+- [A unified theory of garbage collection (2004)](https://www.researchgate.net/publication/221321424_A_unified_theory_of_garbage_collection) ([PDF](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf)) ([PDF](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf))
 - [Memory Bandwidth Napkin Math (2020)](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
 - [Isolation Alloc](https://github.com/struct/isoalloc) - New general purpose secure memory allocator that implements an isolation security strategy to mitigate memory safety issues.
 - [Broom](https://github.com/zesterer/broom) - Ergonomic tracing garbage collector that supports mark 'n sweep garbage collection.
@@ -104,3 +104,4 @@
 - [shifgrethor](https://github.com/withoutboats/shifgrethor) - Define an API for precise, tracing garbage collection in Rust which upholds all of Rust's safety guarantees.
 - [Treadmill garbage collector by H. Baker (2022)](http://www.cofault.com/2022/07/treadmill.html) ([HN](https://news.ycombinator.com/item?id=32233472))
 - [Valgrind](https://valgrind.org/) - Instrumentation framework for building dynamic analysis tools. Automatically detect many memory management and threading bugs, and profile your programs in detail. ([Twenty years of Valgrind](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)) ([HN](https://news.ycombinator.com/item?id=32245136)) ([Lobsters](https://lobste.rs/s/at8nbf/twenty_years_valgrind))
+- [Vale's Hybrid-Generational Memory (2021)](https://verdagon.dev/blog/hybrid-generational-memory)

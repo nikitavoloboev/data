@@ -221,3 +221,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Polaris](https://github.com/agersant/polaris) - Music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [Best desktop speakers? (2022)](https://twitter.com/maccaw/status/1540289166440792064)
 - [Books That Changed How I Hear Music](https://tedgioia.substack.com/p/12-books-that-changed-how-i-heard) ([HN](https://news.ycombinator.com/item?id=32025521))
+- [The Dynamics of Music Exploration on Spotify (2022)](https://research.atspotify.com/the-dynamics-of-exploration-on-spotify/) ([HN](https://news.ycombinator.com/item?id=32260840))

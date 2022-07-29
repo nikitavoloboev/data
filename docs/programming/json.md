@@ -153,3 +153,4 @@ title: JSON
 - [jqgo](https://github.com/eatonphil/jqgo) - Variations on experimental Go clones of jq.
 - [JCOF](https://github.com/mortie/jcof) - JSON-like Compact Object Format. ([HN](https://news.ycombinator.com/item?id=32109406))
 - [JSON Schema Community](https://github.com/json-schema-org/community)
+- [Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder (2020)](https://nigeltao.github.io/blog/2020/jsonptr.html)

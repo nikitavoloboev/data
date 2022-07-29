@@ -178,3 +178,4 @@
 - [Visualizing Elliptic Curves](https://curves.ulfheim.net/) ([HN](https://news.ycombinator.com/item?id=31769059))
 - [Elligator](https://elligator.org/) - Hiding cryptographic key exchange as random noise. ([Lobsters](https://lobste.rs/s/wj0g3o/elligator_hiding_cryptographic_key))
 - [NIST Announces First Four Quantum-Resistant Cryptographic Algorithms (2022)](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms) ([Reddit](https://www.reddit.com/r/math/comments/vt75bs/nist_announces_first_four_quantumresistant/))
+- [KEMs and Post-Quantum age (2022)](https://words.filippo.io/dispatches/post-quantum-age/)

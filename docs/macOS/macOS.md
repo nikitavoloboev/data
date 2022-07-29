@@ -279,3 +279,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [macOS: App sandboxing via sandbox-exec (2020)](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html) ([HN](https://news.ycombinator.com/item?id=31973232))
 - [macschema](https://github.com/progrium/macschema) - Toolchain for generating JSON definitions of Apple APIs.
 - [qemu-vmnet](https://github.com/adnsio/qemu-vmnet) - Native macOS networking for QEMU using vmnet.framework and socket networking.
+- [Apple’s Virtualization framework is a great, free way to test new macOS betas (2022)](https://arstechnica.com/gadgets/2022/07/how-to-use-free-virtualization-apps-to-safely-test-the-macos-ventura-betas/)

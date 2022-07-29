@@ -4,7 +4,7 @@ title: Observability
 
 # [Observability](https://en.wikipedia.org/wiki/Observability)
 
-[ArcticDB](https://github.com/polarsignals/arcticdb) seems useful.
+[ArcticDB](https://github.com/polarsignals/arcticdb) & [New Relic](https://newrelic.com) seem useful.
 
 ## Links
 

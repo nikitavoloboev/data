@@ -59,3 +59,4 @@
 - [CourseKit](https://coursekit.dev/) - Headless Online Video Course Platform for Developers. ([Code](https://github.com/course-kit/client))
 - [Notes on teaching & chairs (2022)](https://tomcritchlow.com/2022/04/06/teaching/)
 - [LiaScript](https://liascript.github.io/) - Extension to Markdown to support the creation of free and open online courses, interactive books. ([Code](https://github.com/LiaScript/LiaScript))
+- [Complete guide to creating actually useful courses](https://schoolmaker.com/course-creation-guide) ([HN](https://news.ycombinator.com/item?id=32272974))

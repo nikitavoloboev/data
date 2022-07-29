@@ -161,3 +161,4 @@
 - [Tell HN: You can't hire because you don't post salary ranges (2022)](https://news.ycombinator.com/item?id=32181619)
 - [How to Hire Good Engineers (2022)](https://siliconvict.com/articles/6-how-to-hire-actually-good-engineers) ([HN](https://news.ycombinator.com/item?id=32232180))
 - [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders)
+- [How to freaking hire great developers by having them read code](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/) ([HN](https://news.ycombinator.com/item?id=32272775))

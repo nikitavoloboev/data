@@ -127,3 +127,4 @@ title: Three.js
 - [Three.js Screen Space Reflections](https://github.com/0beqz/screen-space-reflections)
 - [Curl Flow](https://github.com/ichitaro/curl-flow)
 - [react-three-csg](https://github.com/pmndrs/react-three-csg) - Constructive solid geometry for React.
+- [The Study of Shaders with React Three Fiber (2022)](https://blog.maximeheckel.com/posts/the-study-of-shaders-with-react-three-fiber/)

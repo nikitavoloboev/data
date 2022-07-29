@@ -26,7 +26,7 @@ title: Lean
 - [Lean 3 code](https://github.com/leanprover-community/lean)
 - [Doing a math assignment with the Lean theorem prover (2020)](https://ahelwer.ca/post/2020-04-05-lean-assignment/)
 - [Hitchhiker’s Guide to Logical Veriﬁcation](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf) ([HN](https://news.ycombinator.com/item?id=22794533))
-- [Natural Number Game](https://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/) ([HN](https://news.ycombinator.com/item?id=22801607)) ([Code](https://github.com/ImperialCollegeLondon/natural_number_game))
+- [Natural Number Game](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/) ([HN](https://news.ycombinator.com/item?id=22801607)) ([Code](https://github.com/ImperialCollegeLondon/natural_number_game))
 - [Certigrad](https://github.com/dselsam/certigrad) - Bug-free machine learning on stochastic computation graphs.
 - [Ellen's dots and boxes project](https://github.com/ImperialCollegeLondon/dots_and_boxes) - Contains all the code written for my final year research project in Mathematics, "Optimal gameplay in Dots and Boxes in Lean".
 - [Building the Mathematical Library of the Future (2020)](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/)

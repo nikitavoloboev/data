@@ -513,3 +513,4 @@ I want to:
 - [Building a Memex (with Ruby) by Andrew Louis (2018)](https://www.youtube.com/watch?v=DFWxvQn4cf8)
 - [Zettelkasten 101 Series: What Is a Fleeting Note?](https://writing.bobdoto.computer/what-is-a-fleeting-note/) ([HN](https://news.ycombinator.com/item?id=32225169))
 - [Ask HN: What is a sustainable methodology for taking notes of your learning? (2022)](https://news.ycombinator.com/item?id=32211734)
+- [Ask HN: What's your note-taking methodology? (2022)](https://news.ycombinator.com/item?id=32252957)

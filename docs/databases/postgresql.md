@@ -552,3 +552,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pgx_json_schema](https://github.com/jefbarn/pgx_json_schema) - JSON Schema validation for Postgres.
 - [Shipping Multi-Tenant SaaS Using Postgres Row-Level Security (2022)](https://www.thenile.dev/blog/multi-tenant-rls) ([HN](https://news.ycombinator.com/item?id=32241820))
 - [vsql](https://github.com/elliotchance/vsql) - Single-file or PostgreSQL-server compatible transactional SQL database written in pure V..
+- [Notes on GitLab Postgres Schema Design (2022)](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)

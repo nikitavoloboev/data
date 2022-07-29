@@ -117,3 +117,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Ask HN: How can I stop my inbox/wishlist/bookmarks/tabs/todos from growing? (2022)](https://news.ycombinator.com/item?id=31471127)
 - [When Everything Is Important but Nothing Is Getting Done](https://sharedphysics.com/everything-is-important/) ([HN](https://news.ycombinator.com/item?id=31481888))
 - [Ask HN: How do you stay focused at work? (2022)](https://news.ycombinator.com/item?id=31608397)
+- [I don't have notifications enabled, nowhere and never (2022)](https://news.ycombinator.com/item?id=32274344)
