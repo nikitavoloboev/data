@@ -40,6 +40,7 @@
 
 - [Ecto](https://github.com/elixir-ecto/ecto) - Toolkit for data mapping and language integrated query for Elixir. ([Brief Guide to Ecto](https://serokell.io/blog/ecto-guide-for-beginners)) ([Tweet](https://twitter.com/josevalim/status/1489522409426325504))
 - [TypedEctoSchema](https://github.com/bamorim/typed_ecto_schema) - Library to define Ecto schemas with typespecs without all the boilerplate code.
+- [Rummage.Ecto](https://github.com/annkissam/rummage_ecto) - Search, Sort and Pagination for ecto queries.
 - [Paper Trail](https://github.com/izelnakri/paper_trail) - Track and record all the changes in your database with Ecto. Revert back to anytime in history.
 - [EctoMorph](https://github.com/Adzz/ecto_morph) - Morphs your Ecto capabilities.
 - [DBConnection](https://github.com/elixir-ecto/db_connection) - Database connection behavior.
@@ -105,6 +106,7 @@
 
 - [BridgeEx](https://github.com/primait/bridge_ex) - Library to build bridges to GraphQL services.
 - [AbsintheCache](https://github.com/IvanIvanoff/absinthe_cache) - Caching Absinthe GraphQL queries.
+- [CommonGraphqlClient](https://github.com/annkissam/common_graphql_client) - Elixir GraphQL Client with HTTP and WebSocket Support.
 
 ## Other
 

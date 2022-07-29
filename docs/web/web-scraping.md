@@ -211,3 +211,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [htmldate](https://github.com/adbar/htmldate) - Find the publication date of web pages.
 - [Wpull](https://github.com/ArchiveTeam/wpull) - Wget-compatible web downloader and crawler.
 - [City Scrapers](https://github.com/City-Bureau/city-scrapers) - Scrape, standardize and share public meetings from local government websites.
+- [Lambda Soup](https://github.com/aantron/lambdasoup) - Functional HTML scraping and rewriting with CSS in OCaml.

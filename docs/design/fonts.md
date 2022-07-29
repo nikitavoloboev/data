@@ -387,3 +387,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Ask HN: What is your default font for coding and terminal? (2022)](https://news.ycombinator.com/item?id=32055600)
 - [Google Fonts Tools](https://github.com/googlefonts/gftools) - Misc tools for working with the Google Fonts library.
 - [Adventures in Text Rendering: Kerning and Glyph Atlases | Warp (2022)](https://www.warp.dev/blog/adventures-text-rendering-kerning-glyph-atlases) ([HN](https://news.ycombinator.com/item?id=32251909))
+- [Getfonts](https://github.com/DavidBarts/getfonts) - Extract and meaningfully name fonts from Apple TTC (TrueType Collection) files.

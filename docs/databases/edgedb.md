@@ -42,3 +42,5 @@ My DB of choice for all projects. Sits on top of [Postgres](postgresql.md) but h
 - [Colin McDonnell - Zod, tRPC, EdgeDB (2022)](https://www.youtube.com/watch?v=WVRLim8A8-I)
 - [EdgeDB MCU sandbox](https://github.com/edgedb/mcu-sandbox) - Sandbox for playing with EdgeDB and the EdgeQL query builder.
 - [EdgeDB Deno](https://github.com/edgedb/edgedb-deno)
+- [EdgeDB 2.0 (2022)](https://www.edgedb.com/blog/edgedb-2-0) ([HN](https://news.ycombinator.com/item?id=32267287)) ([Video](https://www.youtube.com/watch?v=1jloGHV31Ow))
+- [My experience with EdgeDB (2022)](https://divan.dev/posts/edgedb/)

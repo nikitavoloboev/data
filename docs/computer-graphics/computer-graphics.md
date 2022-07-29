@@ -236,3 +236,4 @@
 - [stdg](https://github.com/calebwin/stdg) - 2D graphics in any programming language with just print statements.
 - [Hex-Tiling Demo](https://github.com/mmikk/hextile-demo)
 - [KTX (Khronos Texture)](https://github.com/KhronosGroup/KTX-Software) - Lightweight container for textures for OpenGL, Vulkan and other GPU APIs.
+- [Mitsuba 3](https://github.com/mitsuba-renderer/mitsuba3) - Retargetable Forward and Inverse Renderer. ([Web](https://www.mitsuba-renderer.org/))

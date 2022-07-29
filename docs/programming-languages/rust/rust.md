@@ -848,3 +848,6 @@ title: Rust
 - [Building a Rust Mentality (2022)](https://slightknack.dev/blog/shift/) ([Lobsters](https://lobste.rs/s/izxatc/building_rust_mentality))
 - [Ferrocene Language Specification](https://spec.ferrocene.dev/) - Document describing the Rust language. ([Code](https://github.com/ferrocene/specification)) ([HN](https://news.ycombinator.com/item?id=32237780))
 - [Why I moved from Rust to TypeScript (2022)](https://blog.chiselstrike.com/notes-from-my-journey-from-rust-to-typescript-9bd9d28141e3) ([Lobsters](https://lobste.rs/s/jcctnt/why_i_moved_from_rust_typescript))
+- [Rust Is Actually Portable (2022)](https://ahgamut.github.io/2022/07/27/ape-rust-example/) ([HN](https://news.ycombinator.com/item?id=32260619))
+- [Actually Portable Executables with Cosmopolitan Libc and Rust](https://github.com/ahgamut/rust-ape-example)
+- [Fully generic recursion in Rust (2022)](https://recursion.wtf/posts/rust_schemes_2/) ([Lobsters](https://lobste.rs/s/iac4jn/fully_generic_recursion_rust))

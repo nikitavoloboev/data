@@ -126,3 +126,4 @@ Looking into [Railway](https://railway.app/) & [Cloudflare](https://www.cloudfla
 - [Networking 101 GCP sheet](https://github.com/jesuispy/networking-101-gcp-sheet)
 - [Proof of concept use Cloud Run to deploy a SQL database on demand](https://github.com/guillaumeblaquiere/serverless-sql)
 - [spanner-truncate](https://github.com/cloudspannerecosystem/spanner-truncate) - Tool to delete all rows from the tables in a Cloud Spanner database without deleting tables themselves.
+- [Google API Client Library for JavaScript](https://github.com/google/google-api-javascript-client)

@@ -624,3 +624,4 @@
 - [Inside language models (from GPT-3 to PaLM)](https://lifearchitect.ai/models/)
 - [Timeline of AI and language models](https://lifearchitect.ai/timeline/)
 - [Cascades](https://github.com/google-research/cascades) - Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more.
+- [Awesome Neural Symbolic](https://github.com/Ying1123/awesome-neural-symbolic)

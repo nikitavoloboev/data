@@ -2148,6 +2148,7 @@
 - [cargo-run-bin](https://github.com/dustinblackman/cargo-run-bin) - Build, cache, and run binaries scoped in Cargo.toml rather than installing globally.
 - [cargo-i18n](https://github.com/kellpossible/cargo-i18n) - Rust Cargo sub-command and libraries to extract and build localization resources to embed in your application/library.
 - [cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - Find potential unused enabled feature flags and prune them.
+- [cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-check) - Scan your Rust crate for semver violations.
 
 ## Notes
 

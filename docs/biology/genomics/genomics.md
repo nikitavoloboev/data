@@ -189,3 +189,4 @@ title: Genomics
 - [Snakemake](https://github.com/moiexpositoalonsolab/grenepipe) - Snakemake pipeline for variant calling from raw sequences.
 - [Whole Genome Sequencing](https://sequencing.com/) ([HN](https://news.ycombinator.com/item?id=32230819))
 - [dRep](https://github.com/MrOlm/drep) - Rapid comparison and dereplication of genomes.
+- [ProLIF](https://github.com/chemosim-lab/ProLIF) - Interaction Fingerprints for protein-ligand complexes and more.

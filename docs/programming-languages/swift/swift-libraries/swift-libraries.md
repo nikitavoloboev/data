@@ -546,6 +546,7 @@
 - [Kuru](https://github.com/zalazara/Kuru) - iOS library for SDDUI (Server Data Driven UI) in SwiftUI.
 - [SwiftUILayouts](https://github.com/apptekstudios/SwiftUILayouts) - Collection of native SwiftUI layouts.
 - [UIViewControllerPresenting](https://github.com/Shimmur/swiftui-uikit-presenting) - UIKit presentation APIs in SwiftUI.
+- [Factory](https://github.com/hmlongco/Factory) - New approach to Container-Based Dependency Injection for Swift and SwiftUI.
 
 ## Test
 

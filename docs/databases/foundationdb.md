@@ -26,3 +26,4 @@ title: FoundationDB
 - [Awesome FoundationDB](https://github.com/FoundationDB/awesome-foundationdb) - List of FoundationDB resources.
 - [FoundationDB Exporter](https://github.com/aikoven/foundationdb-exporter) - Prometheus exporter for FoundationDB.
 - [fdb2kafka](https://github.com/losfair/fdb2kafka) - Ship consistent logs from FoundationDB to Kafka.
+- [mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on top of FoundationDB.

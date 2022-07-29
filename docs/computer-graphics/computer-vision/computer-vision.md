@@ -878,3 +878,5 @@
 - [CVAT](https://www.cvat.ai/) - Computer Vision Annotation Tool. ([Code](https://github.com/cvat-ai/cvat))
 - [NeuMesh: Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing (2022)](https://github.com/zju3dv/NeuMesh)
 - [Monocular 3D Object Detection with Depth from Motion (2022)](https://arxiv.org/abs/2207.12988) ([Code](https://github.com/Tai-Wang/Depth-from-Motion))
+- [Masked Discrimination for Self-Supervised Learning on Point Clouds (2022)](https://arxiv.org/abs/2203.11183) ([Code](https://github.com/haotian-liu/MaskPoint))
+- [SORT](https://github.com/abewley/sort) - Simple, online, and real time tracking of multiple objects in a video sequence.

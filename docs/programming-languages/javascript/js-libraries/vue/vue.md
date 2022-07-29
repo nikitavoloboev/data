@@ -185,3 +185,4 @@ title: Vue.js
 - [Vue Compiler in Rust](https://github.com/HerringtonDarkholme/vue-compiler)
 - [Lumeno UI](https://github.com/LumenoDev/ui) - Library of UI widgets built using Vue.js and TailwindCSS.
 - [Best place to start your Nuxt Theme](https://github.com/nuxt-themes/starter)
+- [Looking at Nuxt3 (2022)](https://www.youtube.com/watch?v=s4Rd2snXSr0)
