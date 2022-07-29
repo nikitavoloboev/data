@@ -8,6 +8,7 @@ Many people still have bad stigma attached of people sharing nudes in public but
 - [Lina Scheynius](https://www.instagram.com/linascheynius/)
 - [Koleso Sobaki](https://www.instagram.com/koleso_sobaki/) ([Twitter](https://twitter.com/KolesoSobaki))
 - [Berber Theunissen](https://www.instagram.com/theunissenberber/) ([Web](https://www.berbertheunissen.nl/))
+- [Egor](https://www.instagram.com/egor_sh/)
 - [chill](https://www.instagram.com/thisissuperchill/)
 
 ## Reddit

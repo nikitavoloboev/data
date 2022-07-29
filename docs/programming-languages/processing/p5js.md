@@ -34,3 +34,4 @@ title: p5.js
 - [p5 React Renderer](https://github.com/adiman9/p5-react-renderer)
 - [p5.riso](https://antiboredom.github.io/p5.riso/) - P5.js library for generating files suitable for Risograph printing. ([Code](https://github.com/antiboredom/p5.riso))
 - [p5.js Shader Examples](https://github.com/aferriss/p5jsShaderExamples)
+- [p5.utils](https://github.com/alptugan/p5.utils) - Utilities and additional features for creative coding.

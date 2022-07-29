@@ -24,6 +24,7 @@
 - [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 - [Michael I. Jordan statistics courses](https://people.eecs.berkeley.edu/~jordan/courses.html)
 - [Stan](https://mc-stan.org/) - State-of-the-art platform for statistical modeling and high-performance statistical computation. ([Code](https://github.com/stan-dev/stan))
+- [Survival analysis in Stan (2022)](https://fsdias.github.io/survival_analysis/)
 - [Stan Example Models](https://github.com/stan-dev/example-models)
 - [YAPS](https://github.com/IBM/yaps) - Surface language for programming Stan models using python syntax.
 - [An Overview of Bayesian Inference (2019)](https://jaydaigle.net/blog/overview-of-bayesian-inference/)

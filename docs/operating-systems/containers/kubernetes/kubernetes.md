@@ -781,3 +781,4 @@ title: Kubernetes
 - [kubespace](https://github.com/kradalby/kubespace) - Tool to create namespaces and service accounts that can safely be handed to CI or users.
 - [k8s](https://github.com/forbearing/k8s) - Go library implements various handlers to more easy manipulate k8s resources such as pods, deployments, etc, inside or outside k8s cluster.
 - [KubeGateway](https://github.com/kubewharf/kubegateway) - Best practice for managing massive kubernetes clusters within ByteDance.
+- [Boskos](https://github.com/kubernetes-sigs/boskos) - Resource management service that provides reservation and lifecycle management of a variety of different kinds of resources.

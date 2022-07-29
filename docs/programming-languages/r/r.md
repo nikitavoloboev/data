@@ -181,3 +181,5 @@
 - [rstatix](https://github.com/kassambara/rstatix) - Pipe-friendly Framework for Basic Statistical Tests in R.
 - [nplyr](https://github.com/markjrieke/nplyr) - Grammar of nested data manipulation.
 - [lambdr](https://github.com/mdneuzerling/lambdr) - Run R containers on AWS Lambda.
+- [ViewPipeSteps](https://github.com/daranzolin/ViewPipeSteps) - Create tabs of View() output for each chained pipe.
+- [Online R learning for applied statistics](https://github.com/cxli233/Online_R_learning)

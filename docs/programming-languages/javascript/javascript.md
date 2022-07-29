@@ -461,3 +461,4 @@ if (
 - [Ask HN: Why is everything in JavaScript changing so fast? (2022)](https://news.ycombinator.com/item?id=31969958)
 - [Stop Using JavaScript Objects (2022)](https://www.youtube.com/watch?v=hRSwSAr-gok)
 - [Mastering Async/Await Book](https://asyncawait.net/)
+- [Roll your own JavaScript runtime (2022)](https://deno.com/blog/roll-your-own-javascript-runtime) ([Code](https://github.com/denoland/roll-your-own-javascript-runtime))

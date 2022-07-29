@@ -353,6 +353,7 @@
 - [MicroClient](https://github.com/otaviocc/MicroClient) - Simple and lightweight network client.
 - [Embassy](https://github.com/envoy/Embassy) - Super lightweight async HTTP server in pure Swift.
 - [URLRequestBuilder](https://github.com/ParableHealth/URLRequestBuilder) - Deal with query items, HTTP headers, request body and more in an easy, declarative way.
+- [SafeURL](https://github.com/baguio/SwiftSafeURL) - Compile-time-checked URLs.
 
 ## GraphQL
 
@@ -1209,6 +1210,7 @@
 - [webauthn-swift](https://github.com/swift-server/webauthn-swift) - Swift library for implementing the WebAuthn spec.
 - [Map](https://github.com/pauljohanneskraft/Map) - MKMapView wrapper for SwiftUI as drop-in to MapKit's SwiftUI view.
 - [CodableCSV](https://github.com/pauljohanneskraft/CodableCSV) - JSON-like CSV file parsing using the Codable protocols in Swift.
+- [SwiftyXPC](https://github.com/CharlesJS/SwiftyXPC) - Wrapper for Apple’s XPC interprocess communication library that gives it an easy-to-use, idiomatic Swift interface.
 
 ## Other (not lib)
 

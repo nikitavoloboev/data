@@ -55,3 +55,4 @@ title: MongoDB
 - [Go Kafka gRPC MongoDB microservice example](https://github.com/AleksK1NG/Go-Kafka-gRPC-MongoDB-microservice)
 - [MongoDB Starter with NextJS](https://github.com/vercel/mongodb-starter)
 - [ODMantic](https://github.com/art049/odmantic) - Async ODM for MongoDB based on python type hints.
+- [OxideDB](https://github.com/fcoury/oxide) - Teach your PostgreSQL database how to speak MongoDB Wire Protocol. ([Lobsters](https://lobste.rs/s/kxowpp/oxidedb_teach_postgresql_database_how))

@@ -385,3 +385,4 @@
 - [June Huh, High School Dropout, Wins the Fields Medal (2022)](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 - [Fields Medals 2022](https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2022) ([HN](https://news.ycombinator.com/item?id=31994289))
 - [What is your favorite theorem in mathematics? (2022)](https://www.reddit.com/r/math/comments/vue45b/what_is_your_favorite_theorem_in_mathematics/)
+- [Is the Kalman filter just a low-pass filter?](https://jbconsulting.substack.com/p/is-the-kalman-filter-just-a-low-pass) ([HN](https://news.ycombinator.com/item?id=32271351))

@@ -880,3 +880,7 @@
 - [Monocular 3D Object Detection with Depth from Motion (2022)](https://arxiv.org/abs/2207.12988) ([Code](https://github.com/Tai-Wang/Depth-from-Motion))
 - [Masked Discrimination for Self-Supervised Learning on Point Clouds (2022)](https://arxiv.org/abs/2203.11183) ([Code](https://github.com/haotian-liu/MaskPoint))
 - [SORT](https://github.com/abewley/sort) - Simple, online, and real time tracking of multiple objects in a video sequence.
+- [Local Color Distributions Prior for Image Enhancement (2022)](https://hywang99.github.io/2022/07/09/lcdpnet/) ([Code](https://github.com/hywang99/LCDPNet))
+- [S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning (2022)](https://eldentse.github.io/s2contact/) ([Code](https://github.com/eldentse/s2contact))
+- [Is Attention All NeRF Needs? (2022)](https://arxiv.org/abs/2207.13298) ([Code](https://github.com/VITA-Group/GNT))
+- [Camouflaged/Concealed Object Detection](https://github.com/visionxiang/awesome-camouflaged-object-detection)

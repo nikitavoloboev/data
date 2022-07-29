@@ -166,3 +166,4 @@
 - [SIMDComp](https://github.com/lemire/simdcomp) - Simple C library for compressing lists of integers using binary packing.
 - [libsoundio](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output.
 - [libconcurrent](https://github.com/sharow/libconcurrent) - Concurrent Programming Library (Coroutine) for C11.
+- [libudx](https://github.com/hyperswarm/libudx) - Reliable, multiplex, and congestion controlled streams over udp.

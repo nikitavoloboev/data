@@ -139,6 +139,7 @@ The way our brains take input from different senses (eyes, touch) and then decid
 - [Lena (2021)](https://qntm.org/mmacevedo)
 - [Neuroscience | eLife](https://elifesciences.org/subjects/neuroscience)
 - [PyPhi](https://github.com/wmayner/pyphi) - Toolbox for integrated information theory.
+- [Is it possible to “cure” Aphantasia?](https://www.quora.com/Neuroscience-Is-it-possible-to-%E2%80%9Ccure%E2%80%9D-Aphantasia)
 
 ## Images
 

@@ -546,3 +546,4 @@ title: GitHub actions
 - [Chainguard reusable GitHub actions](https://github.com/chainguard-dev/actions)
 - [GitHub Workflow Auditor](https://github.com/TinderSec/gh-workflow-auditor) - Script to audit GitHub Action Workflow files for potential vulnerabilities.
 - [Container scheduling strategies for integration testing 14 different databases in Github Actions (2022)](https://datastation.multiprocess.io/blog/2022-07-25-database-integration-testing.html)
+- [gh-actions-cache](https://github.com/actions/gh-actions-cache) - GitHub (gh) CLI extension to manage the GitHub Actions caches being used in a GitHub repository.

@@ -1757,6 +1757,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [lockfree](https://github.com/golang-design/lockfree) - Lock-free utilities in Go.
 - [Wordclouds](https://github.com/psykhi/wordclouds) - Wordclouds in go.
 - [recloser](https://github.com/lerouxrgd/recloser) - Concurrent circuit breaker implemented with ring buffers.
+- [chris](https://github.com/woojiahao/chris) - Pratt parser implementation in Go.
+- [fastcgo](https://github.com/petermattis/fastcgo) - Fast (but unsafe) Cgo calls via an assembly trampoline.
+- [Paerser](https://github.com/traefik/paerser) - Loads configuration from many sources.
 
 ## Links
 

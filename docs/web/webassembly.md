@@ -338,3 +338,4 @@ title: WebAssembly
 - [Why am I excited about WebAssembly? (2022)](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/) ([HN](https://news.ycombinator.com/item?id=32128209))
 - [WITX-CodeGen](https://github.com/jedisct1/witx-codegen) - WITX code and documentation generator. WITX is a way to describe types and function interfaces for WebAssembly modules.
 - [Enarx Codex](https://github.com/enarx/codex) - Code examples that can be compiled to WebAssembly for use with Enarx.
+- [How WASM could impact the future of programming languages (2022)](https://twitter.com/sdeleuze/status/1552695265328496640)

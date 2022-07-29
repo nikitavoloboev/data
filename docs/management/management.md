@@ -207,4 +207,4 @@
 - [High performance individuals and teams](https://pablasso.com/high-performance-individuals-and-teams/)
 - [Awesome Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy)
 - [The Engineering Manager | James Stanier](https://theengineeringmanager.substack.com/)
-- [Reduce Friction (2022)](https://blog.ceejbot.com/posts/reduce-friction/)
+- [Reduce Friction (2022)](https://blog.ceejbot.com/posts/reduce-friction/) ([Tweet](https://twitter.com/ceejbot/status/1550934530264932352))

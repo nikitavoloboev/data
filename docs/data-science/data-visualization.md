@@ -172,3 +172,4 @@
 - [H2O Wave](https://github.com/h2oai/wave) - Real time Web Apps and Dashboards for Python and R. ([Web](https://wave.h2o.ai/))
 - [MPL Plotter](https://github.com/alopezrivera/mpl_plotter) - Publication-quality data representation library based on Matplotlib.
 - [LovelyPlots](https://github.com/killiansheriff/LovelyPlots) - Style sheets to nicely format figures for scientific papers, thesis and presentations while keeping them fully editable in Adobe Illustrator.
+- [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)

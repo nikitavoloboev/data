@@ -14,7 +14,7 @@ title: Assembly
 - [Ask HN: What's the best resource for learning modern x64 assembly? (2020)](https://news.ycombinator.com/item?id=22279051)
 - [ARM GCC Inline Assembler Cookbook](http://www.ethernut.de/en/documents/arm-inline-asm.html)
 - [Getting started with bare-metal assembly (2020)](https://johv.dk/blog/bare-metal-assembly-tutorial.html) ([HN](https://news.ycombinator.com/item?id=22684881))
-- [Compiling to Assembly from Scratch (2020)](https://keleshev.com/compiling-to-assembly-from-scratch-the-book) ([Code](https://github.com/keleshev/compiling-to-assembly-from-scratch)) ([In Haskell](https://github.com/micahcantor/comp-to-assembly-from-scratch-hs))
+- [Compiling to Assembly from Scratch (2020)](https://keleshev.com/compiling-to-assembly-from-scratch-the-book) ([Code](https://github.com/keleshev/compiling-to-assembly-from-scratch)) ([In Haskell](https://github.com/micahcantor/comp-to-assembly-from-scratch-hs)) ([Haskell Code](https://github.com/Kleidukos/compiling-to-assembly))
 - [Interactive shell of assembly language(X86/X64) based on unicorn and keystone](https://github.com/cch123/asm-cli)
 - [Let's Learn x86-64 Assembly! (2020)](https://gpfault.net/posts/asm-tut-0.txt.html) ([HN](https://news.ycombinator.com/item?id=24195627))
 - [int 80h](http://int80h.org/) - Learn Assembly using OpenBSD as base OS.

@@ -539,3 +539,5 @@ all: unset
 - [CSS Scan](https://getcssscan.com/) - Fast and easy way to check and copy CSS. ([HN](https://news.ycombinator.com/item?id=32150308))
 - [Figma: Illuminating dark mode (2022)](https://www.figma.com/blog/illuminating-dark-mode/) ([Tweet](https://twitter.com/shirlmeow/status/1550157714596167680))
 - [Solving “The Dangler” Conundrum with Container Queries and :has() (2022)](https://daverupert.com/2022/07/solving-the-dangler-conundrum-with-has-and-container-queries/)
+- [css_parser](https://github.com/deno-front-end/css-parser) - CSS Lexer & Parser implementation for Deno.
+- [Fade-in animation that is not so boring in CSS](https://twitter.com/shuding_/status/1552438750470340610)

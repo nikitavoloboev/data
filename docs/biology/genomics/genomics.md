@@ -190,3 +190,5 @@ title: Genomics
 - [Whole Genome Sequencing](https://sequencing.com/) ([HN](https://news.ycombinator.com/item?id=32230819))
 - [dRep](https://github.com/MrOlm/drep) - Rapid comparison and dereplication of genomes.
 - [ProLIF](https://github.com/chemosim-lab/ProLIF) - Interaction Fingerprints for protein-ligand complexes and more.
+- [Live-cell micromanipulation of a genomic locus reveals interphase chromatin mechanics (2022)](https://www.science.org/doi/10.1126/science.abi9810) ([Tweet](https://twitter.com/CoulonLab/status/1552774873134637072))
+- [VirSorter 2](https://github.com/jiarong/VirSorter2) - Customizable pipeline to identify viral sequences from (meta)genomic data.

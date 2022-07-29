@@ -56,6 +56,7 @@
 - [Storyteller](https://github.com/foresterre/storyteller) - Library for working with multi-output multi-purpose user output.
 - [spinoff](https://github.com/ad4mx/spinoff) - Simple Rust library for displaying spinners in the terminal.
 - [step-machine](https://github.com/imbolc/step-machine) - Run your CLI programs as state machines with persistence and recovery abilities.
+- [Requestty](https://github.com/Lutetium-Vanadium/requestty) - Easy-to-use collection of interactive cli prompts inspired by Inquirer.js.
 
 ## Web
 
@@ -2060,6 +2061,9 @@
 - [cubeb-rs](https://github.com/mozilla/cubeb-rs) - Cross-platform audio library in Rust.
 - [fdg](https://github.com/grantshandy/fdg) - Force Directed Graph Framework for Rust.
 - [blurhash-wasm](https://github.com/fpapado/blurhash-rust-wasm) - Rust implementation of the blurhash algorithm.
+- [serde-zod](https://github.com/shakyShane/serde-zod) - Generate zod definitions from your JSON-serializable types in Rust.
+- [subparse](https://github.com/kaegi/subparse) - Rust library to load, change and write common subtitle formats.
+- [nougat](https://github.com/danielhenrymantilla/nougat.rs) - Use (lifetime-)GATs on stable rust.
 
 ## Cargo Plugins
 

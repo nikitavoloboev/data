@@ -34,3 +34,5 @@ title: Fish Shell
 - [Foreign Environment](https://github.com/oh-my-fish/plugin-foreign-env) - Foreign environment interface for Fish shell.
 - [Puffer Fish](https://github.com/nickeb96/puffer-fish) - Text Expansions for Fish.
 - [Bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell.
+- [Pure Fish Prompt](https://github.com/pure-fish/pure) - Pretty, minimal, and fast prompt for Fish.
+- [Fisher](https://github.com/jorgebucaran/fisher) - Plugin manager for Fish.

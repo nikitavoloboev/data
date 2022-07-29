@@ -75,3 +75,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Copy notes](https://github.com/Arthur-Milchior/anki-copy-note) - Copy cards, either as new cards, or preserving intervals, ease, etc., from the original card.
 - [Ask HN: Anyone using Anki/Spaced-repetition successfully? (2022)](https://news.ycombinator.com/item?id=31872982)
 - [Memcode](https://www.memcode.com/) - Spaced-repetition: for coders and scientists. ([Code](https://github.com/lakesare/memcode))
+- [MorphMan](https://github.com/kaegi/MorphMan) - Anki plugin that reorders language cards based on the words you know.

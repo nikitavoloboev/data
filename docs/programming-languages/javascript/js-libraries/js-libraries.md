@@ -57,7 +57,6 @@
 - [Haptic](https://github.com/heyheyhello/haptic) - Reactive web rendering in TSX with no virtual DOM, no compilers, and no magic.
 - [Astro](https://github.com/snowpackjs/astro) - Build faster websites with less client-side JavaScript. ([Web](https://astro.build/)) ([HN](https://news.ycombinator.com/item?id=27440553)) ([Look at Building with Astro](https://css-tricks.com/a-look-at-building-with-astro/)) ([Play](https://astro.build/play)) ([Tweet](https://twitter.com/jlengstorf/status/1442707241627385860))
 - [Logux Client](https://github.com/logux/client) - New way to connect client and server. Instead of sending HTTP requests, it synchronizes log of operations between client, server, and other clients. ([Examples](https://github.com/logux/examples))
-- [Qwik](https://github.com/BuilderIO/qwik) - DOM-Centric, Resumable Web-App Framework. ([HN Demo](https://github.com/ryansolid/qwik-hackernews)) ([Exploring Qwik, the Resumable Framework](https://www.youtube.com/watch?v=gT5NWKZZPQM)) ([Building Qwik w/ Misko Hevery](https://www.youtube.com/watch?v=lY6e7Hw4uVo)) ([Tweet](https://twitter.com/_egoistlily/status/1495002599342620672)) ([Build Resumable Apps with Qwik](https://www.youtube.com/watch?v=_PDpoJUacuc)) ([Exploring Qwik City w/ Adam Bradley & Manu Martínez-Almeida](https://www.youtube.com/watch?v=XoeJisRJjlo))
 - [CalDOM](https://github.com/dumijay/CalDOM) - Agnostic, reactive & minimalist (3kb) JavaScript UI library with direct access to native DOM. ([Web](https://caldom.org/))
 - [Trimmings](https://github.com/postlight/trimmings) - Zero-configuration JavaScript library that adds a layer of smooth and fast in-page interaction to your web pages.
 - [Piral](https://piral.io/) - Easily build a next generation portal application using microfrontends. ([Code](https://github.com/smapiot/piral))
@@ -1071,3 +1070,4 @@
 - [publint](https://publint.bjornlu.com/) - Lint packaging errors. Ensure compatibility across environments. ([Code](https://github.com/bluwy/publint))
 - [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
 - [parse-imports](https://github.com/TomerAberbach/parse-imports) - Blazing fast ES module imports parser.
+- [sigstore-js](https://github.com/github/sigstore-js) - Code-signing for npm packages.

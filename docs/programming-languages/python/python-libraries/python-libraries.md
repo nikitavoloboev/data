@@ -942,6 +942,7 @@
 - [CyToolz](https://github.com/pytoolz/cytoolz) - High performance utility functions for iterables, functions, and dictionaries.
 - [PyGeM](https://github.com/mathLab/PyGeM) - Python Geometrical Morphing.
 - [bdsim](https://github.com/petercorke/bdsim) - Simulate dynamic systems expressed in block diagram form using Python.
+- [RDFLib](https://github.com/RDFLib/rdflib) - Python library for working with RDF, a simple yet powerful language for representing information.
 
 ## Notes
 

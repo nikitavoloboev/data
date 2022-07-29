@@ -94,3 +94,4 @@ title: Synthesizers
 - [HexoSynth](https://github.com/WeirdConstructor/HexoSynth) - Hexagonal modular synthesizer.
 - [Supply chain issues are killing synth companies (2022)](https://www.synthtopia.com/content/2022/07/12/supply-chain-issues-are-killing-synth-companies-and-making-it-impossible-to-ship-new-designs/) ([HN](https://news.ycombinator.com/item?id=32086740))
 - [HexoDSP](https://github.com/WeirdConstructor/HexoDSP) - Comprehensive DSP graph and synthesis library for developing a modular synthesizer in Rust, such as HexoSynth.
+- [Soviet Pif synth: a cute analog synthesizer for children (+ FREE Sample Library)](https://www.youtube.com/watch?v=sStI42iwdIM)

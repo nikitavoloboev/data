@@ -98,3 +98,4 @@ title: DynamoDB
 - [How to ensure cross-region data integrity with Amazon DynamoDB global tables (2022)](https://www.stedi.com/blog/how-to-ensure-cross-region-data-integrity-with-amazon-dynamodb-global-tables)
 - [Serverless Go Demo](https://github.com/aws-samples/serverless-go-demo) - Consists of an API Gateway backed by four Lambda functions and a DynamoDB table for storage.
 - [The DynamoDB paper (2022)](https://brooker.co.za/blog/2022/07/12/dynamodb.html) ([HN](https://news.ycombinator.com/item?id=32094046)) ([Summary](http://muratbuffalo.blogspot.com/2022/07/amazon-dynamodb-scalable-predictably.html))
+- [Single Table DynamoDB](https://github.com/jeffreyyoung/single-table-dynamo) - DynamoDB client built for using one table.

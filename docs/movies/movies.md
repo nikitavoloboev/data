@@ -122,3 +122,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Underrated horror movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/w8wyx1/looking_for_an_underrated_horror/)
 - [Great Thriller/mystery movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/w8m202/in_need_of_a_hy_sht_thrillermystery_type_of_movie/)
 - [Saddest movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/w94ctr/in_desperate_need_of_the_saddest_movies_there_is/)
+- [alass](https://github.com/kaegi/alass) - Command line tool to synchronize subtitles to movies.

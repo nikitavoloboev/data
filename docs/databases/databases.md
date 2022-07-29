@@ -659,3 +659,5 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Comparing Popular Time Series Databases (2022)](https://blog.last9.io/time-series-database-comparison/)
 - [Offline data access: a dream come true? (2022)](https://blog.chiselstrike.com/offline-data-access-a-dream-come-true-64362de1a981)
 - [Soft Deletion Probably Isn't Worth It (2022)](https://brandur.org/soft-deletion) ([HN](https://news.ycombinator.com/item?id=32156009)) ([Lobsters](https://lobste.rs/s/xryce5/soft_deletion_probably_isn_t_worth_it))
+- [Overview of Consistency Levels in Database Systems (2019)](http://dbmsmusings.blogspot.com/2019/07/overview-of-consistency-levels-in.html) ([HN](https://news.ycombinator.com/item?id=32271648))
+- [Join Doe](https://github.com/gistia/joindoe) - Tool for replicating database contents between environments while deidentifying sensitive data.

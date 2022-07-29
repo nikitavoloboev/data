@@ -8,6 +8,8 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 
 [Local databases that persist not just data but UI is neat concept](https://twitter.com/devongovett/status/1526225850739347458). [Calibre](https://calibreapp.com/) seems nice too. [This series](https://twitter.com/tigt_/status/1503755985667698696) is a nice read.
 
+[Qwik](../programming-languages/javascript/js-libraries/qwik.md) has nice ideas around resumability.
+
 ## Notes
 
 - Don't ever underestimate the cost performance of cache misses.
