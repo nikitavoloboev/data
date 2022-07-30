@@ -1072,3 +1072,4 @@
 - [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
 - [parse-imports](https://github.com/TomerAberbach/parse-imports) - Blazing fast ES module imports parser.
 - [sigstore-js](https://github.com/github/sigstore-js) - Code-signing for npm packages.
+- [source-map-diff](https://github.com/dylang/source-map-diff) - Compare source maps with cli and web output.

@@ -244,6 +244,7 @@ title: GitHub actions
 - [Dagger](https://github.com/dagger/dagger-for-github) - GitHub Action for Dagger.
 - [github-actions-wac](https://github.com/webiny/github-actions-wac) - GitHub Actions - Workflows as Code (WaC).
 - [Find and Replace](https://github.com/jacobtomlinson/gha-find-replace) - Find and replace strings in your project files.
+- [changesets-snapshot](https://github.com/seek-oss/changesets-snapshot) - GitHub Action for publishing snapshot releases when using changesets.
 
 ## Go
 

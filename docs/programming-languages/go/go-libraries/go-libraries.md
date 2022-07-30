@@ -82,6 +82,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [console](https://github.com/containerd/console) - Go package for dealing with consoles. Light on deps and a simple API.
 - [Spinner](https://github.com/leaanthony/spinner) - Simple, configurable, multi-platform terminal spinner.
 - [subcommands](https://github.com/maruel/subcommands) - Permits a Go application to implement subcommands support similar to what is supported by the 'go' tool.
+- [tablewriter](https://github.com/caarlos0/tablewriter) - Simple table using lipgloss and text/tabwriter.
 
 ## Test
 

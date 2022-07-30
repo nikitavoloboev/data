@@ -294,6 +294,7 @@
 - [AppKitFocusOverlay](https://github.com/dagronf/AppKitFocusOverlay) - Add hotkey(s) to display the key focus path for any window in your AppKit application.
 - [MenuBuilder](https://github.com/j-f1/MenuBuilder) - Swift Function Builder for creating NSMenuItems.
 - [LoginItemKit](https://github.com/chrenn/LoginItemKit) - Add non-sandboxed macOS applications to user login items.
+- [DSFMenuBuilder](https://github.com/dagronf/DSFMenuBuilder) - SwiftUI-style DSL for generating `NSMenu` instances for AppKit.
 
 ## Web
 

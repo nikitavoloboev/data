@@ -122,7 +122,7 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Machine Learning Notebooks](https://github.com/ageron/handson-ml2) - Series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [Streamlit](https://github.com/streamlit/streamlit) - Fastest way to build custom ML tools. ([Web](https://streamlit.io/)) ([Awesome Streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit)) ([Streamlit Cheat Sheet](https://github.com/daniellewisDL/streamlit-cheat-sheet)) ([Tips, tricks, methods, and techniques for building apps with streamlit](https://github.com/pmbaumgartner/streamlitopedia)) ([Best of Streamlit](https://github.com/jrieke/best-of-streamlit))
 - [A Gentle Introduction to Bayes’ Theorem for Machine Learning (2019)](https://news.ycombinator.com/item?id=21151032) ([HN](https://news.ycombinator.com/item?id=21151032))
-- [Practical Deep Learning for Coders](https://course.fast.ai/) ([Notes](https://github.com/reshamas/fastai_deeplearn_part1))
+- [Practical Deep Learning for Coders](https://course.fast.ai/) ([Notes](https://github.com/reshamas/fastai_deeplearn_part1)) ([Code](https://github.com/fastai/course22))
 - [Part 2: Deep Learning from the Foundations](https://course.fast.ai/part2)
 - [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)

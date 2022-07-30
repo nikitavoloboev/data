@@ -254,3 +254,4 @@
 - [libsearch](https://github.com/thesephist/libsearch) - Simple, index-free full-text search for JavaScript.
 - [DuckDuckScrape](https://github.com/Snazzah/duck-duck-scrape) - Search from DuckDuckGo and utilize its spice APIs for things such as stocks, weather, currency conversion and more.
 - [minisearch](https://github.com/toastdriven/minisearch) - Tiny search engine. Suitable for in-browser use, this provides n-gram based, English search results.
+- [Spreading vectors for similarity search](https://github.com/facebookresearch/spreadingvectors)
