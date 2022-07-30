@@ -97,3 +97,4 @@ Cities like Shanghai and Guangzhou fascinate me, would love to live there one da
 - [China v Taiwan Aerospace Discussion (2022)](https://mitchellinstituteaerospaceadvantage.podbean.com/e/china-taiwan-adiz/) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/vm69wo/china_v_taiwan_whats_really_happening_in_the_air/))
 - [Why China is So Damn Big (2022)](https://www.youtube.com/watch?v=OQ2oOp040f0)
 - [China's Catastrophic Oil & Gas Problem (2022)](https://www.youtube.com/watch?v=ISHHe1Hu6d4)
+- [Issues China faces in future](https://www.reddit.com/r/investing/comments/wc2zry/comment/iiadgf7/?utm_source=reddit&utm_medium=web2x&context=3)

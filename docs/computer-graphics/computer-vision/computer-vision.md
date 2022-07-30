@@ -888,3 +888,4 @@
 - [Optimizing Transformers for GPUs with Optimum (2022)](https://www.philschmid.de/optimizing-transformers-with-optimum-gpu)
 - [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide) ([HN](https://news.ycombinator.com/item?id=32284276))
 - [Multi-View Mesh Reconstruction with Neural Deferred Shading (2022)](https://fraunhoferhhi.github.io/neural-deferred-shading/) ([Code](https://github.com/fraunhoferhhi/neural-deferred-shading))
+- [Initialization and Alignment for Adversarial Texture Optimization (2022)](https://arxiv.org/abs/2207.14289) ([Code](https://github.com/Xiaoming-Zhao/advtex_init_align))

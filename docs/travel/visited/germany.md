@@ -56,3 +56,4 @@ Aside from those geopolitical failures, Germany seems like a nice place to live 
 - [How long did it take you to feel like Germany is your home and what made it possible for you?](https://twitter.com/YesVirginia_/status/1549314173728948225)
 - [Germany's decisions to shut down nuclear made EU vulnerable to shortages of reliable sources of electricity (2022)](https://twitter.com/DoombergT/status/1550774894618705920)
 - [Great food places in Berlin (2022)](https://www.reddit.com/r/berlin/comments/w8ebjl/people_from_other_countries_where_is_the_best/)
+- [Curated list of German Tech Podcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts)

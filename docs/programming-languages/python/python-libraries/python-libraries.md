@@ -946,6 +946,7 @@
 - [unzip-http](https://github.com/saulpw/unzip-http) - Extract individual files from .zip files over http without downloading the entire archive.
 - [ferret](https://github.com/g8a9/ferret) - Python package for benchmarking interpretability techniques.
 - [Etils](https://github.com/google/etils) - Collection of eclectic utils for python.
+- [Oxalis](https://github.com/strongbugman/oxalis) - Distributed async task/job queue, like Celery for asyncio world.
 
 ## Notes
 

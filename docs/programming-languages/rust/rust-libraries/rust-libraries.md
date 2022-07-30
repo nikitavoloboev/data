@@ -2072,6 +2072,7 @@
 - [EString](https://github.com/pleshevskiy/estring) - Simple way to parse a string using type annotations.
 - [uuid-readable-rs](https://github.com/Martichou/uuid-readable-rs) - Generate easy to remember sentences that acts as human readable UUIDs.
 - [sys_metrics](https://github.com/Martichou/sys_metrics) - Cross-platform library to gather stats/information from the host.
+- [fid-rs](https://github.com/laysakura/fid-rs) - High performance FID (Fully Indexable Dictionary) library.
 
 ## Cargo Plugins
 

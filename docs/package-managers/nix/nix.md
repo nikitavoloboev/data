@@ -382,3 +382,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [About using Nix in my development workflow (2018)](https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/) ([HN](https://news.ycombinator.com/item?id=32169454))
 - [Summer of Nix 2022 - YouTube](https://www.youtube.com/playlist?list=PLt4-_lkyRrOMWyp5G-m_d1wtTcbBaOxZk)
 - [nix-cue](https://github.com/jmgilman/nix-cue) - Validate and generate configuration files using Nix and Cue.
+- [Using Nix on macOS (2022)](https://checkoway.net/musings/nix/) ([HN](https://news.ycombinator.com/item?id=32290725))

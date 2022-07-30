@@ -115,3 +115,4 @@
 - [PipeRider](https://github.com/InfuseAI/piperider) - Toolkit for detecting data issues across pipelines that works with CI systems for continuous data quality assessment.
 - [airflint](https://github.com/feluelle/airflint) - Enforce Best Practices for all your Airflow DAGs.
 - [Scaling our Spreadsheet Engine from Thousands to Billions of Cells (2022)](https://www.causal.app/blog/scaling) ([HN](https://news.ycombinator.com/item?id=32000400)) ([Lobsters](https://lobste.rs/s/pcmrfr/scaling_our_spreadsheet_engine_from))
+- [qv](https://github.com/timvw/qv) - Simple CLI to quickly view your data. Powered by DataFusion.

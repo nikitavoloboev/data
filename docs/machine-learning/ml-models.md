@@ -105,3 +105,4 @@
 - [Truss](https://github.com/basetenlabs/truss) - Serve any model without boilerplate code. ([HN](https://news.ycombinator.com/item?id=32277894)) ([Docs](https://truss.baseten.co/))
 - [Remote Runner](https://github.com/philschmid/deep-learning-remote-runner) - Easy pythonic way to migrate your python training scripts from a local environment to a powerful cloud-backed instance.
 - [BMList](https://github.com/OpenBMB/BMList) - List of big pre-trained models (GPT-3, DALL-E2...).
+- [ModelBox](https://github.com/diptanu/modelbox) - Extensible machine learning model store and model transformation and distribution service.

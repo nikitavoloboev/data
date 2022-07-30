@@ -301,6 +301,7 @@
 - [Mu](https://github.com/Nirma/Mu) - Minimalist HTTP request library via async / await.
 - [SwiftHttp](https://github.com/BinaryBirds/swift-http) - Awesome Swift HTTP library to rapidly create communication layers with API endpoints.
 - [EasyNetworking](https://github.com/onmyway133/EasyNetworking) - Easy networking with chainable type safe Future.
+- [AsyncHTTP](https://github.com/tevelee/AsyncHTTP) - Swift networking with async/await.
 - [RealHTTP](https://github.com/immobiliare/RealHTTP) - Lightweight yet powerful async/await based client-side HTTP library made in Swift.
 - [Akka HTTP](https://github.com/akka/akka-http) - Streaming-first HTTP server/module of Akka.
 - [FlyingFox](https://github.com/swhitty/FlyingFox) - Lightweight, HTTP server written in Swift using async/await.
@@ -549,6 +550,7 @@
 - [SwiftUILayouts](https://github.com/apptekstudios/SwiftUILayouts) - Collection of native SwiftUI layouts.
 - [UIViewControllerPresenting](https://github.com/Shimmur/swiftui-uikit-presenting) - UIKit presentation APIs in SwiftUI.
 - [Factory](https://github.com/hmlongco/Factory) - New approach to Container-Based Dependency Injection for Swift and SwiftUI.
+- [SwiftUI Flow Layout](https://github.com/tevelee/SwiftUI-Flow) - Flow Layout implemented in SwiftUI.
 
 ## Test
 
@@ -1213,6 +1215,8 @@
 - [CodableCSV](https://github.com/pauljohanneskraft/CodableCSV) - JSON-like CSV file parsing using the Codable protocols in Swift.
 - [SwiftyXPC](https://github.com/CharlesJS/SwiftyXPC) - Wrapper for Apple’s XPC interprocess communication library that gives it an easy-to-use, idiomatic Swift interface.
 - [DeepCodable](https://github.com/MPLew-is/deep-codable) - Encode and decode deeply-nested data into flat Swift objects.
+- [Eval](https://github.com/tevelee/Eval) - Lightweight interpreter framework written in Swift, evaluating expressions at runtime.
+- [Tuxedo](https://github.com/tevelee/Tuxedo) - Template language for Swift.
 
 ## Other (not lib)
 
