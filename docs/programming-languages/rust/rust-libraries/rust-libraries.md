@@ -325,6 +325,7 @@
 - [PartiQL Rust](https://github.com/partiql/partiql-lang-rust) - Collection of crates to provide Rust support for the PartiQL query language.
 - [YAKV](https://github.com/knizhnik/yakv) - Simple persistent-key value storage implemented in Rust using "traditional" architecture: B-Tree, buffer cache, ACID transaction, write-ahead log.
 - [encrypted-sled](https://github.com/jpopesculian/encrypted-sled) - Drop in replacement / wrapper around the amazing sled embedded database.
+- [Speculare Server](https://github.com/speculare-cloud/speculare-server) - Receive, store info coming from the client into the database and handle alerts to report incidents based on criteria.
 
 ## Video
 
@@ -647,6 +648,7 @@
 - [embuild](https://github.com/esp-rs/embuild) - Build support for embedded Rust: Cargo integration with other embedded build ecosystems & tools, like PlatformIO, CMake and kconfig.
 - [stm32wlxx-hal](https://github.com/stm32-rs/stm32wlxx-hal) - Hardware abstraction layer for the stm32wl series chips written in rust.
 - [w5500-rs](https://github.com/newAM/w5500-rs) - Embedded rust support for the Wiznet W5500 SPI internet offload chip.
+- [edge-executor](https://github.com/ivmarkov/edge-executor) - Minimal async executor suitable for embedded environments.
 
 ## ML
 
@@ -2068,6 +2070,8 @@
 - [subparse](https://github.com/kaegi/subparse) - Rust library to load, change and write common subtitle formats.
 - [nougat](https://github.com/danielhenrymantilla/nougat.rs) - Use (lifetime-)GATs on stable rust.
 - [EString](https://github.com/pleshevskiy/estring) - Simple way to parse a string using type annotations.
+- [uuid-readable-rs](https://github.com/Martichou/uuid-readable-rs) - Generate easy to remember sentences that acts as human readable UUIDs.
+- [sys_metrics](https://github.com/Martichou/sys_metrics) - Cross-platform library to gather stats/information from the host.
 
 ## Cargo Plugins
 

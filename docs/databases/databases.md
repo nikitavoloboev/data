@@ -661,3 +661,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Soft Deletion Probably Isn't Worth It (2022)](https://brandur.org/soft-deletion) ([HN](https://news.ycombinator.com/item?id=32156009)) ([Lobsters](https://lobste.rs/s/xryce5/soft_deletion_probably_isn_t_worth_it))
 - [Overview of Consistency Levels in Database Systems (2019)](http://dbmsmusings.blogspot.com/2019/07/overview-of-consistency-levels-in.html) ([HN](https://news.ycombinator.com/item?id=32271648))
 - [Join Doe](https://github.com/gistia/joindoe) - Tool for replicating database contents between environments while deidentifying sensitive data.
+- [GoBackup](https://github.com/huacnlee/gobackup) - Simple tool for backup your databases, files to FTP / SCP / S3 storages.

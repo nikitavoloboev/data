@@ -162,3 +162,4 @@ title: Redis
 - [Redis-Shake](https://github.com/alibaba/RedisShake) - Tool for synchronizing data between two redis databases.
 - [redfront](https://github.com/tidwall/redfront) - HTTP protocol frontend for Redis-compatible services.
 - [Rip](https://github.com/zdenham/redis-ipfs) - Redis Key Value store backed by IPFS.
+- [Redis-Rope](https://github.com/ekzhang/redis-rope) - Fast native data type for manipulating large strings in Redis.

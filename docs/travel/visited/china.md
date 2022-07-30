@@ -96,3 +96,4 @@ Cities like Shanghai and Guangzhou fascinate me, would love to live there one da
 - [How Hong Kong became a police state (2022)](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state) ([HN](https://news.ycombinator.com/item?id=31946528))
 - [China v Taiwan Aerospace Discussion (2022)](https://mitchellinstituteaerospaceadvantage.podbean.com/e/china-taiwan-adiz/) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/vm69wo/china_v_taiwan_whats_really_happening_in_the_air/))
 - [Why China is So Damn Big (2022)](https://www.youtube.com/watch?v=OQ2oOp040f0)
+- [China's Catastrophic Oil & Gas Problem (2022)](https://www.youtube.com/watch?v=ISHHe1Hu6d4)

@@ -555,3 +555,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Notes on GitLab Postgres Schema Design (2022)](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
 - [hasql](https://github.com/aiokitchen/hasql) - Library for high available PostgreSQL clusters.
 - [State of PostgreSQL 2022](https://www.timescale.com/blog/what-postgresql-contributor-heikki-linnakangas-has-to-say-about-the-state-of-postgresql-2022/)
+- [Speculare PGCDC](https://github.com/speculare-cloud/speculare-pgcdc) - Allows you to listen to changes in your PostgreSQL database via logical replication and then broadcast those changes over websockets.

@@ -31,3 +31,4 @@ title: Topology
 - [Non-Hermitian topology in rock–paper–scissors games (2022)](https://www.nature.com/articles/s41598-021-04178-8)
 - [Topology of a latent space: problems with intrinsic dimension mismatch between data and latent space](https://medium.com/asap-report/topology-of-a-latent-space-few-potential-problems-shown-with-low-dimensional-synthetic-datasets-23e5b1a93ca7)
 - [Topology for Computing](https://www.cambridge.org/core/books/topology-for-computing/1171035B570105A57865CEA390BA5E74)
+- [π-Base](https://topology.pi-base.org/) - Community database of topological counterexamples. ([Code](https://github.com/pi-base/data))

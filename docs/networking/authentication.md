@@ -251,3 +251,4 @@
 - [Permify](https://github.com/Permify/permify) - Open-source authorization service & policy engine based on Google Zanzibar. ([Web](https://www.permify.co/)) ([HN](https://news.ycombinator.com/item?id=32096610))
 - [Shield](https://github.com/odpf/shield) - Role-based cloud-native user management system, identity & access proxy, and authorization server for your applications and API endpoints.
 - [OTP Gateway](https://github.com/knadh/otpgateway) - Standalone server for user address and OTP verification flows with pluggable providers (e-mail, SMS, bank penny drops etc.).
+- [Web Authentication: An API for accessing Public Key Credentials](https://w3c.github.io/webauthn/) ([Code](https://github.com/w3c/webauthn))
