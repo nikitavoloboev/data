@@ -105,3 +105,4 @@
 - [Treadmill garbage collector by H. Baker (2022)](http://www.cofault.com/2022/07/treadmill.html) ([HN](https://news.ycombinator.com/item?id=32233472))
 - [Valgrind](https://valgrind.org/) - Instrumentation framework for building dynamic analysis tools. Automatically detect many memory management and threading bugs, and profile your programs in detail. ([Twenty years of Valgrind](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)) ([HN](https://news.ycombinator.com/item?id=32245136)) ([Lobsters](https://lobste.rs/s/at8nbf/twenty_years_valgrind))
 - [Vale's Hybrid-Generational Memory (2021)](https://verdagon.dev/blog/hybrid-generational-memory)
+- [Reference count, don't garbage collect (2022)](https://kevinlawler.com/refcount) ([HN](https://news.ycombinator.com/item?id=32276580))

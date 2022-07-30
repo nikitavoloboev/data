@@ -406,7 +406,7 @@
 - [Flat](https://github.com/pubby/flat) - Flat containers for C++.
 - [AnyAny](https://github.com/kelbon/AnyAny) - C++20 library for comfortable and efficient dynamic polymorphism.
 - [RxCpp](https://github.com/ReactiveX/RxCpp) - Reactive Extensions for C++.
-- [userver](https://github.com/userver-framework/userver) - C++ Asynchronous Framework.
+- [userver](https://github.com/userver-framework/userver) - C++ Asynchronous Framework. ([Web](https://userver.tech/)) ([HN](https://news.ycombinator.com/item?id=32282942))
 - [Dash](https://github.com/baotonglu/dash) - Persistent memory friendly hashing index.
 - [Crab](https://github.com/seahorn/crab) - C++ Library for Building Program Static Analyses.
 - [HFSM2](https://github.com/andrew-gresyk/HFSM2) - High-Performance Hierarchical Finite State Machine Framework.

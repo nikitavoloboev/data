@@ -125,7 +125,7 @@
 - [STC](https://github.com/tylov/STC) - Modern, user friendly, generic, type-safe and fast C99 container library.
 - [vx32](https://github.com/9fans/vx32) - Portable, efficient, safe execution of untrusted x86 code.
 - [Metalang99](https://github.com/Hirrolot/metalang99) - Full-blown preprocessor metaprogramming.
-- [cmacro](https://github.com/eudoxia0/cmacro) - Lisp macros for C.
+- [cmacro](https://github.com/eudoxia0/cmacro) - Lisp macros for C. ([HN](https://news.ycombinator.com/item?id=32266462))
 - [libuvc](https://github.com/libuvc/libuvc) - Cross-platform library for USB video devices.
 - [mlib](https://github.com/P-p-H-d/mlib) - Library of generic and type safe containers in pure C language (C99 or C11) for a wide collection of container (comparable to the C++ STL).
 - [TinyUSB](https://github.com/hathach/tinyusb) - Open source cross-platform USB stack for embedded system.

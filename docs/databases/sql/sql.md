@@ -206,3 +206,4 @@ title: SQL
 - [SQL Habit](https://www.sqlhabit.com/) - Practical SQL course.
 - [Monaco SQL Languages](https://github.com/DTStack/monaco-sql-languages)
 - [Use Checkerboard Diagrams to Visualize Joins Instead of Venn Diagrams](https://towardsdatascience.com/you-should-use-this-to-visualize-sql-joins-instead-of-venn-diagrams-ede15f9583fc)
+- [Semantic Diff for SQL](https://github.com/tobymao/sqlglot/blob/main/posts/sql_diff.md) ([HN](https://news.ycombinator.com/item?id=32277998))

@@ -114,3 +114,4 @@
 - [Orion](https://github.com/carousell/Orion) - Small lightweight framework written around grpc/protobuf with the aim to shorten time to build microservices.
 - [Architecture design for microservice](https://github.com/alextanhongpin/full-stack-microservice)
 - [How to Improve Your Monolith Before Transitioning to Microservices (2022)](https://semaphoreci.com/blog/monolith-microservices) ([HN](https://news.ycombinator.com/item?id=32000598))
+- [You Don’t Need Microservices (2022)](https://itnext.io/you-dont-need-microservices-2ad8508b9e27) ([Lobsters](https://lobste.rs/s/r2zkcq/you_don_t_need_microservices))

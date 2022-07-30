@@ -509,3 +509,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [When It Does Not Listen for Thee, Ask for Whom the Server Listens (Understanding Listening Addresses)](https://sequentialread.com/understanding-listening-addresses/) ([Lobsters](https://lobste.rs/s/jtntcz/when_it_does_not_listen_for_thee_ask_for))
 - [ICMP, Ping, and Traceroute - What I Wish I Was Taught (2020)](https://xkln.net/blog/icmp-ping-and-traceroute--what-i-wish-i-was-taught/)
 - [Egress Eddie](https://github.com/capnspacehook/egress-eddie) - Simple tool designed to do one thing: filter outbound traffic by hostname on Linux.
+- [Recommended settings for Wi-Fi routers and access points](https://support.apple.com/en-us/HT202068) ([HN](https://news.ycombinator.com/item?id=32285638))

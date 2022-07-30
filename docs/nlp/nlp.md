@@ -628,3 +628,4 @@
 - [Towards Knowledge-Based Recommender Dialog System (2019)](https://arxiv.org/abs/1908.05391) ([Code](https://github.com/THUDM/KBRD))
 - [Asent](https://github.com/KennethEnevoldsen/asent) - Rule-based sentiment analysis library for Python made using SpaCy.
 - [extractacy](https://github.com/jenojp/extractacy) - Pattern extraction and named entity linking for spaCy.
+- [A Hazard Analysis Framework for Code Synthesis Large Language Models (2022)](https://arxiv.org/abs/2207.14157)

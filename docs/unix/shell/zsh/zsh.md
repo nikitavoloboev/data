@@ -83,3 +83,4 @@ bindkey
 - [Zi](https://github.com/z-shell/zi/) - Swiss Army Knife for Zsh. ([Docs](https://z.digitalclouds.dev/docs/intro))
 - [Zsh Plugin Standard](https://z.digitalclouds.dev/community/zsh_plugin_standard/)
 - [Zsh Native Scripting Handbook](https://z.digitalclouds.dev/community/zsh_handbook/)
+- [zshbrev](https://idiomdrottning.org/zshbrev) - Allows you to mix zsh code and brev code.

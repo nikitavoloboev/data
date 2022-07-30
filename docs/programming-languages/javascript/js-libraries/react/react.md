@@ -338,3 +338,4 @@ Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for a
 - [React on the Edge](https://github.com/vercel-labs/react-on-the-edge) - Server-rendered React using Vercel Edge Functions.
 - [Aspect](https://sample-code.aspect.app/) - Copy React code from any site. ([HN](https://news.ycombinator.com/item?id=32037740))
 - [React 18 Streaming SSR Showcase with 5 examples](https://github.com/XiNiHa/streaming-ssr-showcase)
+- [Data Fetching In React with Remix, NextJS, React Query, Streaming, and more (2022)](https://www.youtube.com/watch?v=Ao8F3FypsbI)

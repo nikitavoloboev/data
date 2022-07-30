@@ -56,3 +56,4 @@ title: Smalltalk
 - [Stargate](https://github.com/ba-st/Stargate) - Library supporting the creation of HTTP based RESTful APIs.
 - [Carp inside Glamorous Toolkit](https://github.com/carpentry-org/gt4carp)
 - [Lisp, Smalltalk, and the power of symmetry (2014)](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/) ([HN](https://news.ycombinator.com/item?id=31552349))
+- [Slang](http://wiki.squeak.org/squeak/slang) - Subset of Smalltalk that can translate to C or other languages. ([HN](https://news.ycombinator.com/item?id=32262921))

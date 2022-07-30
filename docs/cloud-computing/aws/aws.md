@@ -373,3 +373,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [AWS AppSync Real Time Client iOS](https://github.com/aws-amplify/aws-appsync-realtime-client-ios)
 - [CDK Bill Bot](https://github.com/cremich/cdk-bill-bot) - Serverless cost optimization bot.
 - [Hugging Face Transformers and Habana Gaudi AWS DL1 Instances (2022)](https://www.philschmid.de/habana-distributed-training)
+- [Cfplot](https://github.com/jaredtrog/cfplot) - Generate waterfall graphs of CloudFormation. ([HN](https://news.ycombinator.com/item?id=32280162))

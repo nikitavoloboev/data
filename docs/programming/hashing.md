@@ -67,3 +67,4 @@
 - [SharedHashFile: Share Hash Tables With Stable Key Hints Stored In Memory Mapped Files Between Arbitrary Processes](https://github.com/simonhf/sharedhashfile)
 - [Hash Function Prospector](https://github.com/skeeto/hash-prospector) - Automated integer hash function discovery.
 - [md5-tools](https://github.com/volution/md5-tools) - Lightweight Rust MD5/SHA tools.
+- [The many flavors of hashing (2022)](https://notes.volution.ro/v1/2022/07/notes/1290a79c/) ([Lobsters](https://lobste.rs/s/prlebz/many_flavors_hashing))

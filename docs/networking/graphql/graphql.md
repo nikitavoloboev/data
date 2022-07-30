@@ -345,3 +345,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [Breaking changes in GraphQL Schema](https://github.com/kamilkisiela/graphql-breaking-changes)
 - [graphql-ez](https://github.com/PabloSzx/graphql-ez) - Easy and feature complete GraphQL APIs using Envelop.
 - [GraphMan](https://github.com/Escape-Technologies/graphman) - Quickly scaffold a postman collection for a GraphQL API.
+- [GraphQL is quickly moving to one of my least favorite technologies (2022)](https://twitter.com/mitsuhiko/status/1552694954190950406) ([HN](https://news.ycombinator.com/item?id=32277559))

@@ -66,3 +66,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [My awakening moment about how smartphones fragment our attention span (2022)](https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/) ([HN](https://news.ycombinator.com/item?id=31874846))
 - [Ask HN: What exactly is a mindfulness meditation? (2022)](https://news.ycombinator.com/item?id=31965367)
 - [Ask HN: How to deal with overwhelming criticism and self-doubt? (2022)](https://news.ycombinator.com/item?id=32230378)
+- [You have a sad feeling for a moment, then it passes](https://everything2.com/title/You+have+a+sad+feeling+for+a+moment%252C+then+it+passes) ([HN](https://news.ycombinator.com/item?id=32252198))

@@ -199,3 +199,4 @@
 - [Go-CoAP](https://github.com/plgd-dev/go-coap) - Implementation of CoAP Server & Client in Go.
 - [Lovem](https://github.com/kratenko/lovem) - Low overhead virtual embedded machine.
 - [Rust on Espressif chips (2022)](https://mabez.dev/blog/posts/esp-rust-15-07-2022/) ([HN](https://news.ycombinator.com/item?id=32106762))
+- [Project Euler on a Microcontroller (2022)](https://shawnnapora.github.io/blog/2022/07/29/euler-on-micro/) ([HN](https://news.ycombinator.com/item?id=32280306))

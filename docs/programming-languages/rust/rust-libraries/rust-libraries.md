@@ -2302,3 +2302,4 @@
 - [Advice for the next dozen Rust GUIs (2022)](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html) ([HN](https://news.ycombinator.com/item?id=32112846))
 - [RustShop](https://github.com/rustshop/rustshop) - Template and utilities to help quickly set up and manage a production grade cloud-based system.
 - [Proc macro support in rust-analyzer for nightly rustc versions (2022)](https://fasterthanli.me/articles/proc-macro-support-in-rust-analyzer-for-nightly-rustc-versions)
+- [Design Patterns with Rust Types (2022)](https://dev.to/ivancernja/patterns-with-rust-types-3233)

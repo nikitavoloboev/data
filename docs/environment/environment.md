@@ -190,3 +190,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [Europe's hottest week (2022)](https://twitter.com/KarlMathiesen/status/1548214165579321344)
 - [Ask HN: What's your climate change survival strategy? (2022)](https://news.ycombinator.com/item?id=32186240)
 - [The Global Cost of Corrosion](http://impact.nace.org/economic-impact.aspx#) ([HN](https://news.ycombinator.com/item?id=32226267))
+- [Northvolt](https://northvolt.com/) - Swedish battery developer and manufacturer, specializing in lithium-ion technology for electric vehicles. ([Europe's first homegrown gigafactory delivers](https://northvolt.com/articles/northvoltett-delivers/))

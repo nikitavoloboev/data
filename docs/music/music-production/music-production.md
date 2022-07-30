@@ -401,3 +401,4 @@
 - [monome](https://monome.org/) - Sound machines for the exploration of time and space. ([GitHub](https://github.com/monome)) ([libmonome](https://github.com/monome/libmonome))
 - [Black MIDI](https://en.wikipedia.org/wiki/Black_MIDI) ([HN](https://news.ycombinator.com/item?id=32262057))
 - [Strudel REPL](https://strudel.tidalcycles.org/) - Live coding environment that brings the ideas of Tidal Cycles to the browser. ([Article](https://loophole-letters.vercel.app/strudel))
+- [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/frontmatter.html) ([HN](https://news.ycombinator.com/item?id=32281123))

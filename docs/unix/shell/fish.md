@@ -36,3 +36,4 @@ title: Fish Shell
 - [Bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell.
 - [Pure Fish Prompt](https://github.com/pure-fish/pure) - Pretty, minimal, and fast prompt for Fish.
 - [Fisher](https://github.com/jorgebucaran/fisher) - Plugin manager for Fish.
+- [Fish Shell Gitter](https://gitter.im/fish-shell/fish-shell#)

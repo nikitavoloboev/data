@@ -119,3 +119,4 @@ title: Electrical engineering
 - [Where Are the Microelectronics Engineers?](https://semiwiki.com/events/314964-a-crisis-in-engineering-education-where-are-the-microelectronics-engineers/) ([HN](https://news.ycombinator.com/item?id=32012660))
 - [PyCircTools](https://github.com/LovetheFrogs/PyCircTools) - Build digital circuits using Python.
 - [HN: Electrical engineers on the brink of extinction threaten entire tech ecosystems (2022)](https://news.ycombinator.com/item?id=32142711)
+- [Logisim](http://www.cburch.com/logisim/) - Graphical Tool for Designing and Simulating Digital Logic Circuits. ([HN](https://news.ycombinator.com/item?id=32270149))
