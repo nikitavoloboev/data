@@ -69,3 +69,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Pangolin](https://github.com/xitongsys/pangolin) - VPN written in Go.
 - [Smart VPN client](https://github.com/networkop/smart-vpn-client)
 - [Experimental post-quantum safe VPN tunnels (2022)](https://mullvad.net/en/blog/2022/6/27/experimental-post-quantum-safe-vpn-tunnels/)
+- [Gluetun VPN client](https://github.com/qdm12/gluetun) - Lightweight swiss-knife-like VPN client to multiple VPN service providers.

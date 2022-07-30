@@ -70,3 +70,4 @@
 - [The Beginning of Infinity](https://thebeginningofinfinity.xyz/) ([Tweet](https://twitter.com/maccaw/status/1523680863044521985)) ([Code](https://github.com/team-reflect/beginning-of-infinity))
 - [David Deutsch on Multiple Worlds and Our Place in Them (2021)](https://www.youtube.com/watch?v=b_6vYwCkIpc)
 - [Philosophy Podcasts](https://truesciphi.org/phipod_series.html)
+- [Notes on Philosophy](https://www.desolhar-philo.com/)

@@ -1211,6 +1211,7 @@
 - [Map](https://github.com/pauljohanneskraft/Map) - MKMapView wrapper for SwiftUI as drop-in to MapKit's SwiftUI view.
 - [CodableCSV](https://github.com/pauljohanneskraft/CodableCSV) - JSON-like CSV file parsing using the Codable protocols in Swift.
 - [SwiftyXPC](https://github.com/CharlesJS/SwiftyXPC) - Wrapper for Apple’s XPC interprocess communication library that gives it an easy-to-use, idiomatic Swift interface.
+- [DeepCodable](https://github.com/MPLew-is/deep-codable) - Encode and decode deeply-nested data into flat Swift objects.
 
 ## Other (not lib)
 

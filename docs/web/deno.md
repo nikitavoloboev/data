@@ -285,3 +285,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [dax](https://github.com/dsherret/dax) - Cross platform shell tools for Deno inspired by zx.
 - [Chimera](https://github.com/Altair-Bueno/chimera) - Fantastic configuration library for Deno.
 - [shell-util](https://github.com/nsf/shell-util) - Shell scripting helper functions for deno.
+- [sentry-deno](https://github.com/timfish/sentry-deno) - Experimental Sentry client for Deno.

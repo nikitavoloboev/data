@@ -57,6 +57,7 @@
 - [spinoff](https://github.com/ad4mx/spinoff) - Simple Rust library for displaying spinners in the terminal.
 - [step-machine](https://github.com/imbolc/step-machine) - Run your CLI programs as state machines with persistence and recovery abilities.
 - [Requestty](https://github.com/Lutetium-Vanadium/requestty) - Easy-to-use collection of interactive cli prompts inspired by Inquirer.js.
+- [getargs](https://github.com/j-tai/getargs) - Truly zero-cost argument parser for Rust.
 
 ## Web
 
@@ -202,6 +203,7 @@
 - [WABT-RS](https://github.com/pepyakin/wabt-rs) - WABT bindings for Rust.
 - [Rust Open Policy Agent SDK](https://github.com/matrix-org/rust-opa-wasm) - Crate to use OPA policies compiled to WASM.
 - [cargo component](https://github.com/bytecodealliance/cargo-component) - Cargo subcommand for creating WebAssembly components based on the component model proposal.
+- [wasm-instrument](https://github.com/paritytech/wasm-instrument) - Instrument and transform wasm modules.
 
 ## GUI
 
@@ -406,6 +408,7 @@
 - [flo_draw](https://github.com/Logicalshift/flo_draw) - 2D rendering libraries for Rust and FlowBetween.
 - [raw-window-handle](https://github.com/rust-windowing/raw-window-handle) - Common windowing interoperability library for Rust.
 - [skeletonize](https://github.com/okaneco/skeletonize) - Line thinning library for binary images.
+- [Hotline](https://github.com/polymonster/hotline) - Graphics, compute and hardware accelerated A/V decoding.
 
 ## Games
 
@@ -2154,6 +2157,7 @@
 - [cargo-i18n](https://github.com/kellpossible/cargo-i18n) - Rust Cargo sub-command and libraries to extract and build localization resources to embed in your application/library.
 - [cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - Find potential unused enabled feature flags and prune them.
 - [cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-check) - Scan your Rust crate for semver violations.
+- [cargo-spdx](https://github.com/alilleybrinker/cargo-spdx) - Generate an SPDX Software Bill of Materials for Rust crates.
 
 ## Notes
 

@@ -410,3 +410,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [Snowflake-UUID](https://github.com/rakheyl/snowflake-uuid) - Twitter's Snowflake generator for NodeJS.
 - [pino-http](https://github.com/pinojs/pino-http) - High-speed HTTP logger for Node.js.
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Better file system API for Node.js.
+- [file-cache](https://github.com/azu/file-cache) - Node.js library that provide a cache for file metadata or file content.

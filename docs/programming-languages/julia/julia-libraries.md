@@ -702,6 +702,7 @@
 - [CloudBase](https://github.com/JuliaServices/CloudBase.jl) - Simple, yet comprehensive foundation for interacting with common cloud providers in Julia (GCP, Azure, AWS).
 - [Legolas.jl](https://github.com/beacon-biosignals/Legolas.jl) - Tables.jl-friendly mechanisms for constructing, reading, writing, and validating Arrow tables against extensible, versioned, user-specified schemas.
 - [Zarr](https://github.com/JuliaIO/Zarr.jl) - Julia package providing an implementation of chunked, compressed, N-dimensional arrays.
+- [Folds](https://github.com/JuliaFolds/Folds.jl) - Sequential, threaded, and distributed fold interface for Julia.
 
 ## Links
 

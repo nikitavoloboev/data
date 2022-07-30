@@ -710,7 +710,7 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Variational Autoencoders Without the Variation (2022)](https://arxiv.org/abs/2203.00645)
 - [What's your favorite unpopular/forgotten Machine Learning method? (2022)](https://www.reddit.com/r/MachineLearning/comments/t55lbw/d_whats_your_favorite_unpopularforgotten_machine/)
 - [Neo: Generalizing Confusion Matrix Visualization to Hierarchical and Multi-Output Labels (2022)](https://machinelearning.apple.com/research/generalizing-confusion-matrix) ([Tweet](https://twitter.com/_jgoertler/status/1499139488693604362))
-- [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
+- [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) ([Code](https://github.com/probml/pml2-book))
 - [AST: Audio Spectrogram Transformer (2021)](https://arxiv.org/abs/2104.01778) ([Code](https://github.com/YuanGongND/ast))
 - [Practical Machine Learning](https://github.com/eugenesiow/practical-ml) - Learn by experimenting on state-of-the-art machine learning models and algorithms.
 - [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer (2022)](https://arxiv.org/abs/2203.03466) ([Code](https://github.com/microsoft/mup))

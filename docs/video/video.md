@@ -385,3 +385,5 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Film grain in AV1 (2019)](https://norkin.org/research/film_grain/index.html)
 - [VCA](https://github.com/cd-athena/VCA) - Video complexity analyzer.
 - [AV converter](https://av-converter.com/) - Audio / Video Converter. ([Code](https://github.com/CrypticSignal/AV-converter))
+- [VVenC](https://github.com/fraunhoferhhi/vvenc) - Fraunhofer Versatile Video Encoder.
+- [VVdeC](https://github.com/fraunhoferhhi/vvdec) - Fraunhofer Versatile Video Decoder.

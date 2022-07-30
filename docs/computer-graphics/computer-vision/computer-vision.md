@@ -887,3 +887,4 @@
 - [Accelerate Vision Transformer (ViT) with Quantization using Optimum (2022)](https://www.philschmid.de/optimizing-vision-transformer)
 - [Optimizing Transformers for GPUs with Optimum (2022)](https://www.philschmid.de/optimizing-transformers-with-optimum-gpu)
 - [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide) ([HN](https://news.ycombinator.com/item?id=32284276))
+- [Multi-View Mesh Reconstruction with Neural Deferred Shading (2022)](https://fraunhoferhhi.github.io/neural-deferred-shading/) ([Code](https://github.com/fraunhoferhhi/neural-deferred-shading))
