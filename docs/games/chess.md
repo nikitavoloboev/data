@@ -230,3 +230,4 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Chessguessr](https://www.chessguessr.com/) - Wordle for Chess Games. ([HN](https://news.ycombinator.com/item?id=32162945))
 - [HN: Magnus Carlsen to give up World Championship title (2022)](https://news.ycombinator.com/item?id=32163993)
 - [From 1400 to 2000 in Blitz on Chess.com - A 10½ Year Journey (2022)](https://saychess.substack.com/p/from-1400-to-2000-in-blitz-on-chesscom)
+- [YouTubers/streamers out there who focus on concepts instead of deep individual lines](https://www.reddit.com/r/chess/comments/wbaxqp/any_youtubersstreamers_out_there_who_focus_on/)

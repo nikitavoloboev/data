@@ -34,3 +34,4 @@ I do want to start more focused mindfulness and trying to practice _channeling_ 
 - [Did Alan Watts meditate? (2021)](https://www.reddit.com/r/AlanWatts/comments/m9w8wy/did_alan_watts_meditate/)
 - [Not everyone should meditate](https://www.joshcsimmons.com/posts/no-not-everyone-should-meditate) ([HN](https://news.ycombinator.com/item?id=30532386))
 - [Slow Roads](http://slowroads.io/) - Browser-based, procedurally-generated driving game.
+- [My customized Wim Hof breathing exercise for maximum high (2022)](https://ugjka.net/blog/breathwork/2022/07/30/wim-hof-breathing-customized/) ([HN](https://news.ycombinator.com/item?id=32285113))

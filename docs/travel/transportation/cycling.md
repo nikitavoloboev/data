@@ -1,6 +1,6 @@
 # Cycling
 
-Love [VanMoof](https://www.vanmoof.com/) bikes.
+[VanMoof](https://www.vanmoof.com/) & [Cowboy](https://cowboy.com/) bikes are nice.
 
 ## Interesting bikes
 
@@ -40,3 +40,6 @@ Love [VanMoof](https://www.vanmoof.com/) bikes.
 - [Specialized](https://www.specialized.com/) - Bicycle Components.
 - [Tips for mountain biking](https://twitter.com/Jason/status/1535344810801868800)
 - [Reasons to tour by bicycle](https://kk.org/thetechnium/reasons-to-tour-by-bicycle/) ([HN](https://news.ycombinator.com/item?id=31797686))
+- [What are good electric bike brands? (2022)](https://www.reddit.com/r/Netherlands/comments/wbrp65/what_are_good_electric_bike_brands/)
+- [Cowboy](https://cowboy.com/) - Electric Bike for Urban Riders.
+- [QWIC](https://qwic.eu/) - Innovative design and highest quality e-bikes - Made in the Netherlands.

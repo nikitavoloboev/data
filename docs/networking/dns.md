@@ -236,4 +236,4 @@ title: DNS
 - [DNS Esoterica – Why you can’t dig Switzerland (2022)](https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/) ([HN](https://news.ycombinator.com/item?id=32094645))
 - [doh-proxy](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust.
 - [PyDomainExtractor](https://github.com/Intsights/PyDomainExtractor) - Blazingly fast domain extraction library written in Rust.
-- [Serverless-DNS](https://github.com/serverless-dns/serverless-dns) - RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io.
+- [Serverless DNS](https://github.com/serverless-dns/serverless-dns) - Self-Hosted DNS Resolver at the Edge. ([HN](https://news.ycombinator.com/item?id=32286408))

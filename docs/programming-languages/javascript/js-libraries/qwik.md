@@ -19,3 +19,4 @@ title: Qwik
 - [Qwik Resumable hydration demo](https://twitter.com/_egoistlily/status/1495002599342620672)
 - [Build Resumable Apps with Qwik](https://www.youtube.com/watch?v=_PDpoJUacuc)
 - [Exploring Qwik City w/ Adam Bradley & Manu Martínez-Almeida](https://www.youtube.com/watch?v=XoeJisRJjlo)
+- [Qwik + React State (2022)](https://www.youtube.com/watch?v=fa6-Mn0Eybg)
