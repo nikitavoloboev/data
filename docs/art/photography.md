@@ -227,3 +227,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Nikon Z9 Disassembly And Teardown (2022)](https://kolarivision.com/nikon-z9-disassembly-and-teardown/) ([HN](https://news.ycombinator.com/item?id=31877173))
 - [iCloud Shared Album Scraper](https://github.com/ghostops/ICloud-Shared-Album) - Library for scraping data off public iCloud shared albums.
 - [Share your fav photo](https://twitter.com/NickYashika/status/1550456577760665601)
+- [Exif Looter](https://github.com/aydinnyunus/exifLooter) - Finds geolocation on all image urls and directories. ([HN](https://news.ycombinator.com/item?id=32286730))

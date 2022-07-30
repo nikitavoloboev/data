@@ -100,3 +100,4 @@ title: Vite
 - [Vite 3 Announcement with the Team (2022)](https://www.youtube.com/watch?v=6tSqIW2ds1Y)
 - [Extra Vite templates](https://github.com/bluwy/create-vite-extra)
 - [Vite Plugin Class Mangler](https://github.com/kiosion/vite-plugin-class-mangler) - Minify and obfuscate CSS classes in production.
+- [vite-plugin-radar](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader for vite.

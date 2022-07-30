@@ -50,3 +50,4 @@ title: Bevy Engine
 - [leafwing_input_manager](https://github.com/Leafwing-Studios/leafwing_input_manager) - Straightforward stateful input manager for the Bevy game engine.
 - [bevy_editor_pls](https://github.com/jakobhellermann/bevy_editor_pls) - Adds debug tools to your bevy game.
 - [big-brain](https://github.com/zkat/big-brain) - Utility AI library for games, built for the Bevy Game Engine.
+- [Bevy 0.8 (2022)](https://bevyengine.org/news/bevy-0-8/) ([Reddit](https://www.reddit.com/r/rust/comments/wc0sqc/bevy_08/)) ([HN](https://news.ycombinator.com/item?id=32287828))

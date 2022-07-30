@@ -127,3 +127,6 @@ title: Minecraft
 - [Player Analytics](https://github.com/plan-player-analytics/Plan) - Player Analytics plugin for Minecraft Server platforms.
 - [ManaDrop](https://github.com/Iltotore/ManaDrop) - Gradle plugin for Minecraft development.
 - [Minecraft clone made with Three.js and TypeScript](https://github.com/vyse12138/minecraft-threejs)
+- [Graphite](https://github.com/Moulberry/Graphite) - High-performance Minecraft server.
+- [Fabric Wiki](https://fabricmc.net/wiki/start) - Fabric is a modular modding toolchain.
+- [Fabric Example Mod](https://github.com/Moulberry/BuilderMod)

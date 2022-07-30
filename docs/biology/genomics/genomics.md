@@ -192,3 +192,4 @@ title: Genomics
 - [ProLIF](https://github.com/chemosim-lab/ProLIF) - Interaction Fingerprints for protein-ligand complexes and more.
 - [Live-cell micromanipulation of a genomic locus reveals interphase chromatin mechanics (2022)](https://www.science.org/doi/10.1126/science.abi9810) ([Tweet](https://twitter.com/CoulonLab/status/1552774873134637072))
 - [VirSorter 2](https://github.com/jiarong/VirSorter2) - Customizable pipeline to identify viral sequences from (meta)genomic data.
+- [LightDock](https://github.com/lightdock/lightdock) - Protein-protein, protein-peptide and protein-DNA docking framework based on the GSO algorithm.

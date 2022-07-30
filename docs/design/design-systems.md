@@ -199,3 +199,4 @@
 - [Design Tokens Technical Reports](https://tr.designtokens.org/) ([Code](https://github.com/design-tokens/community-group))
 - [Advanced Design Systems](https://www.enfoques.net/design-systems)
 - [Naming conventions for design systems (2022)](https://backlight.dev/blog/naming-conventions-for-design-systems)
+- [How to build a universal design system (2021)](https://axeldelafosse.com/blog/universal-design-system)

@@ -853,3 +853,4 @@ title: Rust
 - [Fully generic recursion in Rust (2022)](https://recursion.wtf/posts/rust_schemes_2/) ([Lobsters](https://lobste.rs/s/iac4jn/fully_generic_recursion_rust))
 - [Uncovering a Blocking Syscall (2022)](https://chrissardegna.com/blog/uncovering-a-blocking-syscall/)
 - [Rust's Keyword Generics Initiative](https://rust-lang.github.io/keyword-generics-initiative/) ([Code](https://github.com/rust-lang/keyword-generics-initiative)) ([Lobsters](https://lobste.rs/s/hyd2sx/announcing_keyword_generics_initiative))
+- [Rust labs for Performance Ninja Class](https://github.com/grahamking/perf-ninja-rs)

@@ -494,3 +494,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [100 tips I learned growing an iOS app](https://twitter.com/jakemor/status/1549281861687451648)
 - [How different app frameworks render views on iOS (2022)](https://twitter.com/Baconbrix/status/1550501126117773313)
 - [What are your most-used iPhone shortcuts? (2022)](https://www.reddit.com/r/apple/comments/w7tyw7/what_are_your_mostused_iphone_shortcuts/)
+- [Full-Stack Swift: Building an iOS App with a Vapor Backend (2022)](https://kaitlin.dev/2022/03/23/full-stack-swift.html)

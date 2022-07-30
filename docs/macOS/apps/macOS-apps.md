@@ -212,6 +212,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Graphing Calculator 4](https://apps.apple.com/nl/app/graphing-calculator-4/id522175477)
 - [TinkerTool](http://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
 - [Homerow](https://www.homerow.app/) - Navigate macOS like a pro.
+- [rcmd](https://lowtechguys.com/rcmd/) - Reimagined Cmd-Tab app switcher.
 
 ## Links
 

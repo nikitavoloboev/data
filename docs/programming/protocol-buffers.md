@@ -76,3 +76,4 @@ title: Protocol buffers
 - [protoc-gen-apidocs](https://github.com/tmc/protoc-gen-apidocs) - Simple and customizable protoc generator that translates .proto files into clean and readable markdown format.
 - [ts-proto-common-types](https://github.com/paralin/ts-proto-common-types) - TypeScript generated with ts-proto for the google/protobuf types.
 - [ProtoScript](https://github.com/tatethurston/ProtoScript) - Protobuf runtime and code generation tool for JavaScript and TypeScript.
+- [as-proto](https://github.com/piotr-oles/as-proto) - Protobuf implementation in AssemblyScript.
