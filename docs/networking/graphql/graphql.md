@@ -344,3 +344,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [GraphQL Binary](https://github.com/esseswann/graphql-binary) - GraphQL binary protocol for smaller network traffic and parsing performance.
 - [Breaking changes in GraphQL Schema](https://github.com/kamilkisiela/graphql-breaking-changes)
 - [graphql-ez](https://github.com/PabloSzx/graphql-ez) - Easy and feature complete GraphQL APIs using Envelop.
+- [GraphMan](https://github.com/Escape-Technologies/graphman) - Quickly scaffold a postman collection for a GraphQL API.
