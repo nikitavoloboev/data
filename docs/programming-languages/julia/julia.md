@@ -147,3 +147,4 @@ title: Julia
 - [JuliaCon 2022 - Introduction to Julia Tutorial](https://github.com/storopoli/Julia-Workshop)
 - [Advanced Scientific Computing in Julia course](https://github.com/timholy/AdvancedScientificComputing)
 - [Julia for High-Performance Computing (2022)](https://www.youtube.com/watch?v=fog1x9rs71Q)
+- [A Complete Guide to Efficient Transformations of data frames (2022)](https://www.youtube.com/watch?v=SXF4BawX-hs)

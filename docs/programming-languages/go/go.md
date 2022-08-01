@@ -826,3 +826,5 @@ if err != nil {
 - [Goof](https://github.com/zeebo/goof) - Lets you call functions in your binary with just the string of their name.
 - [gx](https://github.com/nikki93/gx) - Go -> C++transpiler meant for data-oriented gameplay and application programming especially for WebAssembly.
 - [gorepro](https://github.com/capnspacehook/gorepro) - Easily reproduce Go binaries.
+- [How to learn more about optimizing/compiling Go programs (2022)](https://www.reddit.com/r/golang/comments/wbjmji/how_can_i_learn_more_about_how_go_is/)
+- [Resources to learn Go (2022)](https://www.reddit.com/r/golang/comments/wcn7ba/resources_to_learn_golang/)

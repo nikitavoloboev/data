@@ -155,3 +155,4 @@ I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mear
 - [taxsim.app](https://taxsim.app/) - Interactive US Individual Income Tax simulator. ([Code](https://github.com/tmm1/taxsim.app)) ([HN](https://news.ycombinator.com/item?id=31925871))
 - [USA Trade in Goods with European Union](https://www.census.gov/foreign-trade/balance/c0003.html)
 - [US Export and Import Statistics](https://www.census.gov/foreign-trade/index.html)
+- [Defence economics, and the US production advantage (2022)](https://www.youtube.com/watch?v=7Z_gTGJc7nQ)

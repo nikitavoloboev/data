@@ -243,3 +243,4 @@
 - [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element.
 - [Confectionery](https://confectioneryapp.com/) - Browser for taking perfect screenshots.
 - [New Recipes for 3rd Party Cookies (2022)](https://textslashplain.com/2022/07/27/new-recipes-for-cookies/)
+- [Vimkey](https://github.com/Haojen/vimkey) - Browser extension, use keyboard control browser jumps, scrolling, switching tabs and more.

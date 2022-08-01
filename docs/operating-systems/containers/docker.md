@@ -250,3 +250,4 @@ title: Docker
 - [What are Docker Extensions (2022)](https://portal.gitnation.org/contents/what-are-docker-extensions)
 - [Shipspotter](https://github.com/Shimmur/shipspotter) - Tool for tunneling a port forward into remote Docker containers over SSH.
 - [Non-Obvious Docker Uses (2022)](https://matt-rickard.com/non-obvious-docker-uses/) ([HN](https://news.ycombinator.com/item?id=32213950))
+- [Docker and the OCI container ecosystem (2022)](https://lwn.net/SubscriberLink/902049/374614a66c0367f3/)
