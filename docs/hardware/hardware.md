@@ -345,3 +345,4 @@
 - [Building a fast all-SSD NAS (on a budget) (2022)](https://www.jeffgeerling.com/blog/2022/building-fast-all-ssd-nas-on-budget)
 - [Dalorex: A Data-Local Program Execution and Architecture for Memory-bound Applications (2022)](https://arxiv.org/abs/2207.13219)
 - [The Pine Formula (2022)](https://tuxphones.com/pine-formula/) ([Lobsters](https://lobste.rs/s/606cll/pine_formula))
+- [täko ̄: A Polymorphic Cache Hierarchy for General-Purpose Optimization of Data Movement (2022)](https://www.cs.cmu.edu/~beckmann/publications/papers/2022.isca.tako.pdf)
