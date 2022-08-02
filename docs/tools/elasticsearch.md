@@ -71,3 +71,4 @@ title: Elasticsearch
 - [Elastic Agent](https://github.com/elastic/elastic-agent) - Single, unified way to add monitoring for logs, metrics, and other types of data to a host.
 - [What is the difference between Lucene and Elasticsearch](https://stackoverflow.com/questions/27793721/what-is-the-difference-between-lucene-and-elasticsearch/27793910#27793910)
 - [pino-elasticsearch](https://github.com/pinojs/pino-elasticsearch) - Load pino logs into Elasticsearch.
+- [Pydastic](https://github.com/RamiAwar/pydastic) - Elasticsearch python ORM based on Pydantic.

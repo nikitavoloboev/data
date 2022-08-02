@@ -10,6 +10,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 
 ## Bots
 
+- [GearBot](https://gearbot.rocks/) - Moderation for your Discord, easily managed. ([Code](https://github.com/gearbot/GearBot))
 - [Channel Archiver](https://github.com/Sciencentistguy/discord-channel-archiver) - Small discord bot to archive the messages in a discord text channel.
 - [Needle](https://github.com/MarcusOtter/discord-needle) - Discord bot that helps you declutter your server by creating Discord threads automatically. ([Web](https://needle.gg/))
 - [SafetyJim](https://github.com/Samoxive/SafetyJim) - Moderation bot for discord.
@@ -64,6 +65,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 
 ## Libraries
 
+- [Poise](https://github.com/kangalioo/poise) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing.
 - [Cordless](https://github.com/TomerRon/cordless) - Declarative Discord bot framework. Build your first bot in 5 minutes with 3 lines of code.
 - [Discordeno](https://github.com/discordeno/discordeno) - Discord API library for Deno.
 - [Slshx](https://github.com/mrbbot/slshx) - Strongly-typed Discord commands on Cloudflare Workers.

@@ -402,3 +402,6 @@
 - [Black MIDI](https://en.wikipedia.org/wiki/Black_MIDI) ([HN](https://news.ycombinator.com/item?id=32262057))
 - [Strudel REPL](https://strudel.tidalcycles.org/) - Live coding environment that brings the ideas of Tidal Cycles to the browser. ([Article](https://loophole-letters.vercel.app/strudel))
 - [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/frontmatter.html) ([HN](https://news.ycombinator.com/item?id=32281123))
+- [M4L.RhythmVAE](https://github.com/naotokui/RhythmVAE_M4L) - Max for Live(M4L) Rhythm generator using Variational Autoencoder(VAE).
+- [Basic Pitch](https://github.com/spotify/basic-pitch-ts) - Lightweight yet powerful audio-to-MIDI converter with pitch bend detection. ([Web](https://basicpitch.spotify.com/))
+- [Arpeggi](https://arpeggi.io/home) - Music creation for the next generation. ([Twitter](https://twitter.com/arpeggi_labs))

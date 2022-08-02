@@ -189,7 +189,7 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [3D Infomax improves GNNs for Molecular Property Prediction (2021)](https://arxiv.org/abs/2110.04126) ([Code](https://github.com/HannesStark/3DInfomax))
 - [Regenerated crustacean limbs are precise replicas (2021)](https://www.biorxiv.org/content/10.1101/2021.12.13.472338v1) ([Tweet](https://twitter.com/michalis_averof/status/1470816451422470156))
 - [Dockerfiles and documentation on tools for public health bioinformatics](https://github.com/StaPH-B/docker-builds)
-- [Arc Institute](https://arcinstitute.org/) - New institution for curiosity-driven biomedical science and technology. ([Tweet](https://twitter.com/patrickc/status/1471156220425871360))
+- [Arc Institute](https://arcinstitute.org/) - New institution for curiosity-driven biomedical science and technology. ([Tweet](https://twitter.com/patrickc/status/1471156220425871360)) ([Twitter](https://twitter.com/arcinstitute))
 - [SeqLike](https://github.com/modernatx/seqlike) - Unified biological sequence manipulation in Python.
 - [Deep Learning for Molecules and Materials Book](https://dmol.pub/intro.html) ([Code](https://github.com/whitead/dmol-book))
 - [ProtTrans](https://github.com/agemagician/ProtTrans) - State of the art pre-trained models for proteins.
@@ -232,3 +232,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [BCALM](https://github.com/GATB/bcalm) - Bioinformatics tool for constructing the compacted de Bruijn graph from sequencing data.
 - [pyfaidx](https://github.com/mdshw5/pyfaidx) - Efficient pythonic random access to fasta subsequences.
 - [AlphaFold reveals the structure of the protein universe (2022)](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe) ([HN](https://news.ycombinator.com/item?id=32262856))
+- [K-mer File Format: a standardized and compact disk representation of sets of k-mers (2022)](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac528/6651834?login=true) ([Tweet](https://twitter.com/yoann_dufresne/status/1553994994498867201))

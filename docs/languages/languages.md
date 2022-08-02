@@ -82,3 +82,5 @@
 - [Don't Wordle](https://dontwordle.com/) - Just like Wordle but the opposite. ([HN](https://news.ycombinator.com/item?id=31572258))
 - [Sign Language Processing](https://sign-language-processing.github.io/) ([Code](https://github.com/sign-language-processing/sign-language-processing.github.io))
 - [LanguageTool-Rust](https://github.com/jeertmans/languagetool-rust) - LanguageTool API in Rust.
+- [Why I built a dictionary app (2022)](https://www.wordnote.app/blog/why-i-built-dictionary-app) ([HN](https://news.ycombinator.com/item?id=32300466))
+- [Wordnote Dictionary](https://www.wordnote.app/) - Simple and elegant notebook to write new words and discover their meanings and synonyms. ([Code](https://github.com/zehfernandes/wordnote))

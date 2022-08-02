@@ -81,3 +81,4 @@ The [interview](https://www.thetwentyminutevc.com/podcast/ian-lee/) with [Ian](h
 - [Syndicate](https://syndicate.io/) - Building the Investing Infrastructure for Web3. ([Twitter](https://twitter.com/SyndicateDAO))
 - [Different DAO compensation models (2022)](https://twitter.com/owocki/status/1537089818605170688)
 - [How to allocate work efficiently in DAOs?](https://twitter.com/spengrah/status/1537825584520249345)
+- [Go Fork Yourself (2022)](https://www.notboring.co/p/go-fork-yourself)

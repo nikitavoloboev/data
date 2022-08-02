@@ -67,3 +67,4 @@ title: Graph theory
 - [Papers on Graph Analytics, Mining, and Learning](https://github.com/chenxuhao/ReadingList)
 - [Force Directed Graph](https://github.com/jonobr1/force-directed-graph) - GPU supercharged attraction-graph visualizations built on top of Three.js.
 - [Julius Graph Engine](https://github.com/JuliusTechCo/JuliusGraph) - Group of researchers and engineers passionate about graph computing. ([Docs](https://juliustechco.github.io/JuliusGraph/dev/))
+- [Semantic Networks](https://www.jfsowa.com/pubs/semnet.htm)

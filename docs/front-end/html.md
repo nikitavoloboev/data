@@ -178,7 +178,7 @@ Hi<div>oh no break</div>
 - [Declarative Shadow DOM](https://github.com/mfreed7/declarative-shadow-dom)
 - [Your Ultimate Guide to Understanding DOM Events](https://egghead.io/courses/the-ultimate-guide-for-understanding-dom-events-6c0c0d23)
 - [Stampino](https://github.com/justinfagnani/stampino) - Fast and extremely powerful HTML template system.
-- [Million](https://github.com/aidenybai/million) - Lightweight compiler-augmented Virtual DOM. ([HN](https://news.ycombinator.com/item?id=30935188)) ([Web](https://millionjs.org/))
+- [Million](https://github.com/aidenybai/million) - Lightweight compiler-augmented Virtual DOM. ([HN](https://news.ycombinator.com/item?id=30935188)) ([Web](https://millionjs.org/)) ([HN](https://news.ycombinator.com/item?id=32291822))
 - [The right tag for the job: why you should use semantic HTML (2021)](https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/)
 - [html5parser](https://github.com/acrazing/html5parser) - Super fast and tiny HTML5 parser.
 - [templ](https://github.com/a-h/templ) - Strongly typed HTML templating language that compiles to Go code, and has great developer tooling.
@@ -278,3 +278,4 @@ Hi<div>oh no break</div>
 - [Muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go.
 - [Avoiding \<img\> layout shifts: aspect-ratio vs width & height attributes](https://jakearchibald.com/2022/img-aspect-ratio/)
 - [Able Player](https://github.com/ableplayer/ableplayer) - Fully accessible cross-browser HTML5 media player.
+- [Tabler](https://github.com/tabler/tabler) - Free and open-source HTML Dashboard UI Kit built on Bootstrap. ([HN](https://news.ycombinator.com/item?id=32278397))

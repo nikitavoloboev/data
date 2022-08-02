@@ -237,3 +237,4 @@ title: DNS
 - [doh-proxy](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust.
 - [PyDomainExtractor](https://github.com/Intsights/PyDomainExtractor) - Blazingly fast domain extraction library written in Rust.
 - [Serverless DNS](https://github.com/serverless-dns/serverless-dns) - Self-Hosted DNS Resolver at the Edge. ([HN](https://news.ycombinator.com/item?id=32286408))
+- [Building a Recursive DNS Resolver (2022)](https://timothya.com/blog/dns/) ([HN](https://news.ycombinator.com/item?id=32279070))

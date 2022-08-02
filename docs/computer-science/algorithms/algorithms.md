@@ -114,6 +114,7 @@
 - [Educational Parallel Algorithm Collection](https://github.com/s-hironobu/AlgorithmCollection)
 - [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
 - [Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/)
+- [Understanding MapReduce (2022)](https://www.rowjee.com/blog/papers/mapreduce) ([Tweet](https://twitter.com/krismicinski/status/1554112249580634113))
 
 ## Images
 

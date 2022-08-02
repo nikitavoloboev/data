@@ -61,3 +61,4 @@ title: Metal
 - [Evolution of Metal, ARKit, and RealityKit](https://twitter.com/AtarayoSD/status/1535588494759759872) ([Code](https://github.com/ynagatomo/evolution-Metal-ARKit-RealityKit-sheet))
 - [MTTransitions](https://github.com/alexiscn/MTTransitions) - iOS Transitions ports from GL-Transitions.
 - [MeshGradient](https://github.com/Nekitosss/MeshGradient) - Metal-based implementation of beautiful mesh gradient.
+- [MetalNanoVG](https://github.com/ollix/MetalNanoVG) - Native Metal port of NanoVG that tries to get the most out of Apple's Graphics APIs.

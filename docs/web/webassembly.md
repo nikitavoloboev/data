@@ -315,7 +315,7 @@ title: WebAssembly
 - [WASI Sockets](https://github.com/WebAssembly/wasi-sockets) - WASI API proposal for managing sockets.
 - [Wazero](https://github.com/tetratelabs/wazero) - Zero dependency WebAssembly runtime for Go developers. ([Web](https://wazero.io/)) ([HN](https://news.ycombinator.com/item?id=31405890))
 - [WebAssembly for Proxies (ABI specification)](https://github.com/proxy-wasm/spec) - Specification of the low-level Application Binary Interface (ABI) and conventions to use between L4/L7 proxies (and/or other host environments) and their extensions delivered as WebAssembly modules. ([Zig SDK](https://github.com/mathetake/proxy-wasm-zig-sdk))
-- [Karmem](https://github.com/inkeliz/karmem) - Fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM.
+- [Karmem](https://github.com/inkeliz/karmem) - Fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM. ([HN](https://news.ycombinator.com/item?id=32302120))
 - [WASI Native Threads API](https://github.com/WebAssembly/wasi-native-threads)
 - [Content Security Policy Proposal for WebAssembly](https://github.com/WebAssembly/content-security-policy)
 - [How Lunatic Brings Erlang's Principles to WebAssembly (2022)](https://www.youtube.com/watch?v=M2B7VKFeF7o) ([Transcript](https://serokell.io/blog/lunatic-with-bernard-kolobara)) ([HN](https://news.ycombinator.com/item?id=31569482))
@@ -340,3 +340,4 @@ title: WebAssembly
 - [Enarx Codex](https://github.com/enarx/codex) - Code examples that can be compiled to WebAssembly for use with Enarx.
 - [How WASM could impact the future of programming languages (2022)](https://twitter.com/sdeleuze/status/1552695265328496640)
 - [Wasp](https://github.com/nicholasjackson/wasp) - WASM System Plugins for Go.
+- [WebAssembly Reference Interpreter in OCaml](https://github.com/WebAssembly/spec/tree/main/interpreter)

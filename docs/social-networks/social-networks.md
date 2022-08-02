@@ -168,3 +168,4 @@
 - [Movim](https://movim.eu/) - Social and chat platform that act as a web frontend for the XMPP protocol. ([Code](https://github.com/movim/movim))
 - [cohost](https://cohost.org/rc/welcome) - New social media platform built from the ground up. ([Twitter](https://twitter.com/cohost_org))
 - [TikTok and the Fall of the Social-Media Giants (2022)](https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-fall-of-the-social-media-giants) ([HN](https://news.ycombinator.com/item?id=32273083))
+- [The unlikely odds of making it big on TikTok (2022)](https://pudding.cool/2022/07/tiktok-story/) ([HN](https://news.ycombinator.com/item?id=32280407))

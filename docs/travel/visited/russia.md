@@ -590,3 +590,5 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Russia is one of most dramatically unequal countries in the world](https://twitter.com/IlyaMatveev_/status/1541384240667009026)
 - [kremlin - YouTube](https://www.youtube.com/user/kremlin/videos)
 - [Почему Алексей Балабанов все еще главный российский режиссер (2022)](https://www.youtube.com/watch?v=VOAKxJqvW8Y)
+- [Russia Heads Into an Economic Abyss (2022)](https://www.youtube.com/watch?v=VB3LThyFe1U)
+- [Разрабы](https://razrabs.ru/) - Медиа для людей из IT. ([Tweet](https://twitter.com/fillpackart/status/1554104120679743488))

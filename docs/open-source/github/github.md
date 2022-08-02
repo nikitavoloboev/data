@@ -447,3 +447,4 @@ Awesome List
 - [prr](https://github.com/danobi/prr) - Text-based code review tool for GitHub. ([Lobsters](https://lobste.rs/s/3mfvyd/prr_text_based_code_review_tool_for_github))
 - [GitHub API and GraphQL Client in Swift](https://github.com/MPLew-is/github-api-client) - Automatically generate GraphQL queries and decode results into Swift objects, and also interact with arbitrary GitHub API endpoints.
 - [GitHub Projects Webhook Receiver](https://github.com/MPLew-is/github-projects-webhook-receiver) - Send a Slack message when a GitHub Projects item changes status.
+- [Neat](https://neat.run/) - GitHub and Linear notifications on your desktop and menu bar.

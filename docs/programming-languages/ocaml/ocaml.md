@@ -141,3 +141,4 @@ title: OCaml
 - [OCaml 5.0 Alpha Release (2022)](https://discuss.ocaml.org/t/ocaml-5-0-zeroth-alpha-release/10026) ([HN](https://news.ycombinator.com/item?id=31751017))
 - [OCaml 5.0 (prerelease) Manual: Effect handlers](https://kcsrk.info/webman/manual/effects.html) ([Lobsters](https://lobste.rs/s/iyor14/ocaml_5_0_prerelease_manual_effect))
 - [ThreadSanitizer support for OCaml 5](https://github.com/OlivierNicole/ocaml-tsan) - Effective approach to locate data races in concurrent code bases.
+- [Reflections on my first completed application in OCaml (2020)](https://discuss.ocaml.org/t/reflections-on-my-first-completed-application-in-ocaml/6768)

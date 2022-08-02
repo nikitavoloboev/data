@@ -199,3 +199,4 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [Crucial Conversations: Tools for Talking When Stakes Are High by Kerry Patterson](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 - [The 37signals Guide to Internal Communication](https://37signals.com/how-we-communicate)
 - [Building friend catchers (2022)](https://ferrucc.io/posts/friendcatchers/) ([HN](https://news.ycombinator.com/item?id=32135604))
+- [Changing scientific meetings for the better (2021)](https://www.nature.com/articles/s41562-021-01067-y)

@@ -8,7 +8,7 @@ title: SQLite
 
 I use SQLite for whenever I need an embedded database. Local apps etc. It works great for local first architectures like [Replicache](https://replicache.dev/) & [Logux](https://logux.io/). If I don't need the embedded factor, I prefer using [EdgeDB](edgedb.md). Want to try using [ws4sqlite](https://github.com/proofrock/ws4sqlite).
 
-[Simple-Graph](https://github.com/dpapathanasiou/simple-graph) seems like a nice graph db plugin for SQLite.
+[Simple-Graph](https://github.com/dpapathanasiou/simple-graph) seems like a nice graph db plugin for SQLite. [sqlite-zstd](https://github.com/phiresky/sqlite-zstd) is amazing for compression.
 
 ## Notes
 
@@ -126,7 +126,7 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [SQLite WAL Mode](https://pradeepchhetri.xyz/til/sqlite/)
 - [SQLite Index Recommendations](https://pradeepchhetri.xyz/til/expert/)
 - [APSW](https://github.com/rogerbinns/apsw) - Python SQLite wrapper.
-- [sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite.
+- [sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite. ([HN](https://news.ycombinator.com/item?id=32303762))
 - [deno_sqlite3](https://github.com/denodrivers/async-sqlite3) - Non-blocking, asynchronous FFI bindings to SQlite3.
 - [SQLite grammar for tree-sitter](https://github.com/dhcmrlchtdj/tree-sitter-sqlite)
 - [libsqlfs](https://github.com/guardianproject/libsqlfs) - Library that implements a POSIX style filesystem on top of an SQLite database.
@@ -231,3 +231,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [SQLite3_Web_VFS](https://github.com/mlin/sqlite_web_vfs) - SQLite3 extension for read-only HTTP(S) database access.
 - [LTX](https://github.com/superfly/ltx) - Go library for the LTX file format.
 - [SQLite Internals: Pages and B-trees (2022)](https://fly.io/blog/sqlite-internals-btree/) ([HN](https://news.ycombinator.com/item?id=32250426))
+- [SQLite VFS extension](https://github.com/mlin/sqlite_zstd_vfs) - SQLite3 extension for read/write storage compression with Zstandard.

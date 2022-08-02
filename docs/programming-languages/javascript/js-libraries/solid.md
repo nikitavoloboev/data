@@ -18,6 +18,7 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 
 - [Solid Hacker News](https://github.com/solidjs/solid-hackernews)
 - [Solid Storefront](https://github.com/zaiste/solid-storefront) - Open-source e-commerce storefront in Solid.js with TypeScript, GraphQL, URQL & Tailwind CSS.
+- [Chrome Extension Boilerplate with SolidJS + Vite + TypeScript](https://github.com/fuyutarow/solid-chrome-extension-template)
 
 ## Notes
 

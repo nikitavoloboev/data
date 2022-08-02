@@ -854,3 +854,6 @@ title: Rust
 - [Uncovering a Blocking Syscall (2022)](https://chrissardegna.com/blog/uncovering-a-blocking-syscall/)
 - [Rust's Keyword Generics Initiative](https://rust-lang.github.io/keyword-generics-initiative/) ([Code](https://github.com/rust-lang/keyword-generics-initiative)) ([Lobsters](https://lobste.rs/s/hyd2sx/announcing_keyword_generics_initiative))
 - [Rust labs for Performance Ninja Class](https://github.com/grahamking/perf-ninja-rs)
+- [Taking ownership of memory in Rust (2022)](https://www.reddit.com/r/rust/comments/wcktri/taking_ownership_of_memory_how_straightforward_is/)
+- [Thoughts on static linking in Rust and how it affects distro maintainers](https://www.reddit.com/r/rust/comments/us328s/comment/i91o4wj/) ([Lobsters](https://lobste.rs/s/eh6ejg/thoughts_on_static_linking_rust_how_it))
+- [Formally Verifying Rust's Opaque Types (2022)](https://dylanj.xyz/posts/rust-coq-opaque-types/) ([HN](https://news.ycombinator.com/item?id=32304618))

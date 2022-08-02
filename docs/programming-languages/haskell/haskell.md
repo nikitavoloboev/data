@@ -447,3 +447,5 @@ title: Haskell
 - [Quine Central in Haskell](https://github.com/dpiponi/quine-central)
 - [The joys and perils of beating C with Haskell (2020)](https://0xd34df00d.me/posts/2020/03/the-joys-and-perils.html)
 - [Should Haskell be rebranded away from "Pure Functional Programming" (2022)](https://discourse.haskell.org/t/should-haskell-be-rebranded-away-from-pure-functional-programming/4850)
+- [Imperial College London final Haskell exam solutions](https://github.com/tomcobley/haskell-final-exams)
+- [Magical Haskell Book](https://leanpub.com/magicalhaskell/read) ([Lobsters](https://lobste.rs/s/ulial1/magical_haskell))

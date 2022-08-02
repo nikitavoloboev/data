@@ -572,3 +572,4 @@
 - [Oxide and Friends | Debugging Methodologies (2022)](https://oxide-and-friends.transistor.fm/episodes/debugging-methodologies)
 - [Beej's Guides](https://beej.us/guide/)
 - [Ask HN: What are the best programming tricks you know? (2022)](https://news.ycombinator.com/item?id=32223834)
+- [Library Writing Realizations (2015)](https://cbloomrants.blogspot.com/2015/09/library-writing-realizations.html)

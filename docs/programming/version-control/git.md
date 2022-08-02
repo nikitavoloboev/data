@@ -566,3 +566,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [In Praise of Stacked PRs (2022)](https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/) ([HN](https://news.ycombinator.com/item?id=32214809))
 - [Faster git clones with sparse checkouts (2022)](https://aymericbeaumet.com/faster-git-clones-with-sparse-checkouts)
 - [Git with Multiple E-Mail Addresses (2022)](https://paedubucher.ch/articles/2022-07-26-git-with-multiple-e-mail-addresses.html)
+- [Glitter](https://github.com/Milo123459/glitter) - Git tooling of the future.

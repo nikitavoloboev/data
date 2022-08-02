@@ -1,5 +1,7 @@
 # Scala libraries
 
+[Cats](https://typelevel.org/cats/) & [ZIO](https://github.com/zio/zio) are neat.
+
 ## Web
 
 - [blaze](https://github.com/http4s/blaze) - Scala library for building asynchronous pipelines, with a focus on network IO.

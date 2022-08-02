@@ -13,6 +13,7 @@ I also drink an occasional coffee although I try avoid it as it disrupts my slee
 - [Masala chai](https://en.wikipedia.org/wiki/Masala_chai)
 - [Tarhun](<https://en.wikipedia.org/wiki/Tarkhuna_(drink)>)
 - [Milk Punch](https://punchdrink.com/articles/clarified-milk-punch-cocktail-recipe-has-lost-its-mind/)
+- [ChariTea mate](https://charitea.com/en/product/charitea-mate/)
 
 ## Links
 
@@ -31,3 +32,4 @@ I also drink an occasional coffee although I try avoid it as it disrupts my slee
 - [Oxidation makes tea black (2022)](https://www.sophiescuppatea.com/blogs/news/oxidation-makes-tea-black) ([HN](https://news.ycombinator.com/item?id=30686854))
 - [Alcohol is bad as all/most calories consumed on it go into fat](https://www.reddit.com/r/nutrition/comments/u44kl5/why_are_we_getting_beer_belly/)
 - [Drankerij](https://drankerij.nl/)
+- [ChariTea](https://charitea.com/en/)

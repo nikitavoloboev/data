@@ -828,3 +828,7 @@ if err != nil {
 - [gorepro](https://github.com/capnspacehook/gorepro) - Easily reproduce Go binaries.
 - [How to learn more about optimizing/compiling Go programs (2022)](https://www.reddit.com/r/golang/comments/wbjmji/how_can_i_learn_more_about_how_go_is/)
 - [Resources to learn Go (2022)](https://www.reddit.com/r/golang/comments/wcn7ba/resources_to_learn_golang/)
+- [Writing a Hash Table in Go (2021)](https://blog.fredrb.com/2021/04/01/hashtable-go/)
+- [Using Firecracker and Go to run short-lived, untrusted code execution jobs (2021)](https://stanislas.blog/2021/08/firecracker/)
+- [Align the happy path to the left edge](https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88)
+- [Go Flow Levee](https://github.com/google/go-flow-levee) - Static analysis tool works to ensure your program's data flow does not spill beyond its banks.

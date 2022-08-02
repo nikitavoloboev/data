@@ -654,3 +654,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The Maintenance Race (2022)](https://www.worksinprogress.co/issue/the-maintenance-race/) ([HN](https://news.ycombinator.com/item?id=32196345))
 - [Brickit](https://brickit.app/) - Build new things from your old bricks.
 - [Noah Smith's hot takes](https://twitter.com/Noahpinion/status/1494402846707486720)
+- [Famous HNers and their sites](https://jessimekirk.com/blog/hn_users_links/) ([HN](https://news.ycombinator.com/item?id=32291993))

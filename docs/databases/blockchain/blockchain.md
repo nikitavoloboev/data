@@ -401,3 +401,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Taiga](https://github.com/anoma/taiga) - Platform for private bartering.
 - [DeFi Wallet Core](https://github.com/crypto-com/defi-wallet-core-rs) - Cross-platform, cross-blockchain wallet library in Rust for DeFi Wallet and other applications.
 - [Soulbinding Like a State (2022)](https://subconscious.substack.com/p/soulbinding-like-a-state)
+- [Outserv](https://github.com/outcaste-io/outserv) - Blockchain Search with GraphQL APIs. ([Article](https://manishrjain.com/outserv-graphql-blockchain-search)) ([HN](https://news.ycombinator.com/item?id=32302368))

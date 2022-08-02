@@ -228,3 +228,5 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [iCloud Shared Album Scraper](https://github.com/ghostops/ICloud-Shared-Album) - Library for scraping data off public iCloud shared albums.
 - [Share your fav photo](https://twitter.com/NickYashika/status/1550456577760665601)
 - [Exif Looter](https://github.com/aydinnyunus/exifLooter) - Finds geolocation on all image urls and directories. ([HN](https://news.ycombinator.com/item?id=32286730))
+- [imgs](https://imgs.so/) - Show & tell for photographers.
+- [Cosmos](https://www.cosmos.so/) - Home for curating your universe. ([Twitter](https://twitter.com/thecosmos))

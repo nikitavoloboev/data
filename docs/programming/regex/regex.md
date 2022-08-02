@@ -106,3 +106,4 @@ Match all that don't have notes or twitter in input
 - [regexparam](https://github.com/lukeed/regexparam) - Tiny (394B) utility that converts route patterns into RegExp.
 - [AutoRegex](https://www.autoregex.xyz/) - Convert from English to RegEx with Natural Language Processing. ([HN](https://news.ycombinator.com/item?id=32032134))
 - [magic-regexp](https://github.com/danielroe/magic-regexp) - Compiled-away, type-safe, readable RegExp alternative.
+- [PRegEx](https://github.com/manoss96/pregex) - Programmable Regular Expressions.

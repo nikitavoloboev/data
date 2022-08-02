@@ -44,3 +44,4 @@ title: Automatic differentiation
 - [TinyAD](https://github.com/patr-schm/TinyAD) - C++ header-only library for second-order automatic differentiation.
 - [Betty](https://github.com/leopard-ai/betty) - Automatic differentiation library for generalized meta-learning and multilevel optimization.
 - [Randomized Automatic Differentiation (2020)](https://arxiv.org/abs/2007.10412)
+- [Differentiable programming from scratch (2022)](https://thenumb.at/Autodiff/) ([HN](https://news.ycombinator.com/item?id=32300351))

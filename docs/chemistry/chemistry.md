@@ -97,3 +97,4 @@ title: Chemistry
 - [rxnutils](https://github.com/MolecularAI/reaction_utils) - Utilities for working with datasets of chemical reactions, reaction templates and template extraction.
 - [ChemPlot](https://github.com/mcsorkun/ChemPlot) - Python package for chemical space visualization.
 - [chem_interp](https://github.com/jjgoings/chem_interp) - Use interpretable machine learning to explain complicated chemical reactions.
+- [Faked Crystallography (2022)](https://www.science.org/content/blog-post/faked-crystallography) ([HN](https://news.ycombinator.com/item?id=32280756))

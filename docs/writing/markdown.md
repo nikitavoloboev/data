@@ -139,3 +139,4 @@
 - [remark-language-server](https://github.com/remarkjs/remark-language-server) - Language server to lint and format markdown files with remark.
 - [Redcarpet](https://github.com/vmg/redcarpet) - Ruby library for Markdown processing.
 - [Rust Markdown Parsing Benchmarks](https://github.com/epage/parse-benchmarks-rs) - Comparing parser APIs.
+- [goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) - Extension for the goldmark Markdown parser that adds support for Mermaid diagrams.

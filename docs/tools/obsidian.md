@@ -179,6 +179,7 @@ div.CodeMirror-cursor,
 - [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) - Plugin for Obsidian that aims to make typesetting LaTeX math as fast as handwriting.
 - [TikZJax](https://github.com/artisticat1/obsidian-tikzjax) - Plugin for Obsidian that lets you render LaTeX and TikZ diagrams in your notes.
 - [Heatmap Calendar](https://github.com/Richardsl/heatmap-calendar-obsidian) - Visualize your data in a heatmap calendar similar to the github activity calendar using this Obsidian plugin.
+- [Execute Code](https://github.com/twibiral/obsidian-execute-code) - Execute code snippets in code blocks in your notes.
 
 ## Themes
 

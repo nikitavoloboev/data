@@ -265,3 +265,5 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [What was the beginning of your non-monogamous discovery like? (2022)](https://www.reddit.com/r/sexover30/comments/w0lstl/what_was_the_beginning_of_your_nonmonogamous/)
 - [What is the most valuable thing you learned after the dissolution of a long-term relationship?](https://www.reddit.com/r/AskWomen/comments/w50fga/what_is_the_most_valuable_thing_you_learned_after/)
 - [Quintessential literature for those venturing into ENM (2022)](https://www.reddit.com/r/nonmonogamy/comments/wafp9h/what_do_you_consider_quintessential_literature/)
+- [Dear Monogamous people, you Do Not have to give Polyamory a try](https://www.reddit.com/r/polyamory/comments/sntvv3/dear_monogamous_people_you_do_not_have_to_give/)
+- [What Makes a Good Hinge Partner](https://www.multiamory.com/podcast/334-what-makes-a-good-hinge-partner)

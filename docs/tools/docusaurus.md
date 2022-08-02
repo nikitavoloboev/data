@@ -16,3 +16,4 @@ I want to try build a [SolidJS](../programming-languages/javascript/js-libraries
 - [Docusaurus draw.io plugin](https://github.com/xiguaxigua/docusaurus-plugin-drawio)
 - [Offline / Local Search for Docusaurus](https://github.com/cmfcmf/docusaurus-search-local)
 - [T-rex](https://github.com/stegaBOB/t-rex) - Script for inserting a new page in a number-indexed Docusaurus directory.
+- [Docusaurus 2.0 (2022)](https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0) ([HN](https://news.ycombinator.com/item?id=32303052))

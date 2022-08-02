@@ -281,3 +281,4 @@ title: Svelte
 - [Sveltekit Translate](https://github.com/c00/svelte-translate) - i18n library designed to be easy to use.
 - [The Svelte Handbook](https://thevalleyofcode.com/svelte/)
 - [Lucia SvelteKit](https://github.com/pilcrowOnPaper/lucia-sveltekit) - Simple authentication library for SvelteKit.
+- [Skeleton](https://skeleton.brainandbonesllc.com/) - Svelte/Kit component library designed for use with Tailwind. ([Code](https://github.com/Brain-Bones/skeleton))

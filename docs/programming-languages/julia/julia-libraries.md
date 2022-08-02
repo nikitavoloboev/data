@@ -233,6 +233,7 @@
 - [BioSequences](https://github.com/BioJulia/BioSequences.jl) - Biological sequences for the julia language.
 - [pangraph](https://github.com/neherlab/pangraph) - Bioinformatic toolkit to align large sets of closely related genomes into a graph data structure.
 - [GeneDrive.jl](https://github.com/vnvasquez/GeneDrive.jl) - Julia package designed for simulating biological dynamics and control.
+- [ViennaRNA](https://github.com/marcom/ViennaRNA.jl) - Julia interface to the ViennaRNA library for RNA secondary structure prediction and analysis.
 
 ## Computer Vision
 
@@ -704,6 +705,9 @@
 - [Legolas.jl](https://github.com/beacon-biosignals/Legolas.jl) - Tables.jl-friendly mechanisms for constructing, reading, writing, and validating Arrow tables against extensible, versioned, user-specified schemas.
 - [Zarr](https://github.com/JuliaIO/Zarr.jl) - Julia package providing an implementation of chunked, compressed, N-dimensional arrays.
 - [Folds](https://github.com/JuliaFolds/Folds.jl) - Sequential, threaded, and distributed fold interface for Julia.
+- [ReadStat](https://github.com/queryverse/ReadStat.jl) - Read files from Stata, SAS, and SPSS.
+- [CompTime](https://github.com/olynch/CompTime.jl) - Library for compile-time computing in Julia.
+- [Scratch.jl](https://github.com/JuliaPackaging/Scratch.jl) - Scratch spaces for all your persistent mutable data needs.
 
 ## Links
 

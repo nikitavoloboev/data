@@ -171,3 +171,4 @@ Companies that do [location-based pay bands](https://twitter.com/kyleve/status/1
 - [RemoteFriendly](https://remotefriendly.com/) - Find a Remote Job Today. ([HN](https://news.ycombinator.com/item?id=32019598))
 - [Ask HN: What is the job market like, for niche languages (Nim, crystal)? (2022)](https://news.ycombinator.com/item?id=32202798)
 - [Ask HN: Leaving Germany – where to find quality of life as experienced engineer? (2022)](https://news.ycombinator.com/item?id=32224692)
+- [Work from Anywhere](https://github.com/Nithur-M/work-from-anywhere) - Daily curated list of location independent jobs.

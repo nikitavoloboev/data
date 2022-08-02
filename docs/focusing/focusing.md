@@ -48,6 +48,7 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Energy management is so much more important than time management. what gives you energy, and what drains you? Make sure you have enough energy for the important things.](https://twitter.com/triketora/status/1489713975864528899)
 - [Once you have more than one crisis in your brain it is very very hard to focus on much of anything.](https://twitter.com/chriswilcox47/status/1496918870572945408)
 - [Managing personal motivation is the absolute hardest skill to acquire and maintain. I only know of two things that help: 1: Just start on ANYTHING every day related to your goal, and 2: Surround yourself with people doing things way cooler than yourself. Competition is good.](https://twitter.com/slimsag/status/1524418178587054080)
+- [Urge to over-complicate a simple task by turning it into an ambitious project, until you get so overwhelmed/intimidated by the massive (uneccessary) undertaking that you abandon ship and never return.](https://twitter.com/danidonovan/status/1553775564477157376)
 
 ## Links
 

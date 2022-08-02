@@ -887,3 +887,6 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Automatic Symmetry Discovery with Lie Algebra Convolutional Network (2021)](https://arxiv.org/abs/2109.07103) ([Code](https://github.com/nimadehmamy/L-conv-code))
 - [Awesome Time Series Papers](https://github.com/cure-lab/Awesome-time-series)
 - [Deep Learning setup made easy with EC2 Remote Runner and Habana Gaudi (2022)](https://www.philschmid.de/habana-gaudi-ec2-runner)
+- [Efficient Deep Learning Book](https://efficientdlbook.com/) ([Code](https://github.com/EfficientDL/book))
+- [DALLE2 LAION](https://github.com/LAION-AI/dalle2-laion) - Collection of resources and tools for LAION's pre-trained DALLE-2 model.
+- [Awesome Novel Class Discovery](https://github.com/JosephKJ/Awesome-Novel-Class-Discovery)

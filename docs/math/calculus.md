@@ -29,3 +29,4 @@
 - [multivariable calculus text with interactive 3D graphics](https://github.com/sswatson/MultivariableCalculus.tex)
 - [Introductory textbook on Ordinary Differential Equations (in Russian)](https://github.com/ischurov/odebook)
 - [Identities in Higher Calculus and Special Functions](https://fractional-calculus.com/) ([HN](https://news.ycombinator.com/item?id=30811979))
+- [The Shadowy World of Umbral Calculus (2022)](https://www.youtube.com/watch?v=D0EUFP7-P1M)

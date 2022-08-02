@@ -172,6 +172,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Gin Framework Metrics Middleware](https://github.com/kylesliu/gin_exporter)
 - [go-fastapi](https://github.com/sashabaranov/go-fastapi) - Library to quickly build APIs.
 - [Gin Swagger](https://github.com/mikkeloscar/gin-swagger) - DRY templates for go-swagger.
+- [Gin-Metrics](https://github.com/penglongli/gin-metrics) - Metrics exporter for Prometheus.
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [chizap](https://github.com/moul/chizap) - Simple zap logging middleware for go-chi.
 - [Bunrouter](https://github.com/uptrace/bunrouter) - Fast and flexible HTTP router for Go. ([Web](https://bunrouter.uptrace.dev/))
@@ -530,6 +531,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [dsunit](https://github.com/viant/dsunit) - Datastore Testibility.
 - [Instorage](https://github.com/nickname76/instorage) - Simple, easy to use database for faster development of small projects and MVPs in Go. Uses Badger as a storage.
 - [cache](https://github.com/twmb/go-cache) - Concurrency safe, mostly lock-free, singleflight request collapsing generic cache with support for stale values.
+- [superbasic](https://github.com/wroge/superbasic) - Compiles expressions and value-lists into SQL strings and thus offers an alternative to conventional query builders.
 
 ## ML
 
@@ -591,6 +593,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go3d](https://github.com/ungerik/go3d) - Performance oriented vector and matrix math package for 2D and 3D graphics.
 - [go-moremath](https://github.com/aclements/go-moremath) - Assortment of more specialized math routines for Go.
 - [gambas](https://github.com/jpoly1219/gambas) - Data analysis tool for Go. Similar to the famous Python library pandas.
+- [rand](https://github.com/flyingmutant/rand) - Fast, high quality alternative to math/rand and golang.org/x/exp/rand.
 
 ## Biology
 
@@ -1763,6 +1766,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Paerser](https://github.com/traefik/paerser) - Loads configuration from many sources.
 - [fast-fan-in](https://github.com/IBM/fast-fan-in) - Go fan-in pattern efficiently adaptable to any channel type without code generation.
 - [reload](https://github.com/slok/reload) - Simple managed reload mechanism for Go.
+- [grsync](https://github.com/zloylos/grsync) - Go rsync wrapper.
 
 ## Links
 

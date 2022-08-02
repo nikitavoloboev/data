@@ -143,6 +143,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [supapro-telegram](https://github.com/zamazan4ik/supapro-telegram) - Small bot which helps maintain C++ telegram channels.
 - [НЯН](https://github.com/NyanNyanovich/nyan) - Автоматический агрегатор новостей в Телеграме / Automatic news aggregator of Russian news in Telegram.
 - [Transcriber_Bot](https://telegram.me/Transcriber_Bot) - Transcribes voice messages and pictures into text.
+- [Teletok](https://github.com/ernado/teletok) - Telegram bot for TikTok download.
 
 ## Notes
 

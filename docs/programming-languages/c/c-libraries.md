@@ -39,6 +39,7 @@
 - [gk](https://github.com/recp/gk) - Graphics Kernel: flexible, highly configurable, extensible render engine (real time + offline).
 - [AssetKit](https://github.com/recp/AssetKit) - Modern 2D/3D - Importer • Exporter • Util - Library.
 - [HAGL](https://github.com/tuupola/hagl) - Hardware Agnostic Graphics Library for embedded.
+- [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library) - Graphics library for all our displays, providing a common set of graphics primitives (points, lines, circles, etc.).
 
 ## Test
 

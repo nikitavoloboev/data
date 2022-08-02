@@ -90,3 +90,4 @@ title: Blender
 - [glslTexture](https://github.com/patriciogonzalezvivo/glslTexture) - Blender addon to create 2D textures from GLSL.
 - [FLIP Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) - Tool that helps you set up, run, and render liquid simulation effects.
 - [Swallowing the elephant into Blender (2022)](https://aras-p.info/blog/2022/07/20/Swallowing-the-elephant-into-Blender/) ([HN](https://news.ycombinator.com/item?id=32177091))
+- [Rentaflop](https://rentaflop.com/) - Render your Blender projects without sacrificing quality. ([HN](https://news.ycombinator.com/item?id=32299674))

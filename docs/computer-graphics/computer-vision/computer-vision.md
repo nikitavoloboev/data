@@ -889,3 +889,5 @@
 - [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide) ([HN](https://news.ycombinator.com/item?id=32284276))
 - [Multi-View Mesh Reconstruction with Neural Deferred Shading (2022)](https://fraunhoferhhi.github.io/neural-deferred-shading/) ([Code](https://github.com/fraunhoferhhi/neural-deferred-shading))
 - [Initialization and Alignment for Adversarial Texture Optimization (2022)](https://arxiv.org/abs/2207.14289) ([Code](https://github.com/Xiaoming-Zhao/advtex_init_align))
+- [DCT-Net: Domain-Calibrated Translation for Portrait Stylization (2022)](https://arxiv.org/abs/2207.02426) ([Code](https://github.com/menyifang/DCT-Net))
+- [Pretraining is All You Need for Image-to-Image Translation (2022)](https://arxiv.org/abs/2205.12952) ([Code](https://github.com/PITI-Synthesis/PITI))

@@ -137,3 +137,4 @@ title: Racket
 - [set-extras](https://github.com/philnguyen/set-extras) - Some extra functionalities for set in Typed Racket.
 - [json-type-provider](https://github.com/philnguyen/json-type-provider) - Well-typed JSON parser generator inspired by Type Provider.
 - [pyffi](https://github.com/soegaard/pyffi) - Use Python from Racket.
+- [Lang Party Summer 2022](https://github.com/lang-party/Summer2022) - Write a language with Racket this summer.

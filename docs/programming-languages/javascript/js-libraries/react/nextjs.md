@@ -155,6 +155,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Next Super Performance](https://github.com/LukasBombach/next-super-performance) - Partial hydration for Next.js with Preact X.
 - [recma-nextjs-static-props](https://github.com/remcohaszing/recma-nextjs-static-props) - Expose top-level identifiers in Next.js app.js.
 - [Connected Next Router](https://github.com/danielr18/connected-next-router) - Redux binding for Next.js Router compatible with Next.js.
+- [next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js.
 
 ## Notes
 

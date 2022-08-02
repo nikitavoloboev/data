@@ -279,6 +279,7 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [Extreme Explorations of TypeScript's Type System](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system) ([HN](https://news.ycombinator.com/item?id=31898420))
 - [Matt's Advanced TypeScript workshop](https://github.com/mattpocock/advanced-typescript-workshop)
 - [HypeScript](https://github.com/ronami/HypeScript) - Simplified TypeScript type system in TypeScript's own type system. ([HN](https://news.ycombinator.com/item?id=32259934))
+- [What's TypeScript compiling? Use a treemap to find out. (2022)](https://effectivetypescript.com/2022/07/30/treemap-for-source-files/)
 
 ## Images
 

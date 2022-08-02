@@ -2,6 +2,8 @@
 
 [Meilisearch](https://github.com/meilisearch/instant-meilisearch) is neat together with their [tokenizer lib](https://github.com/meilisearch/charabia) they use. More practically [DocSearch](https://docsearch.algolia.com/) is great for plug and use solution. [Tantivy](https://github.com/quickwit-oss/tantivy), [Quickwit](https://quickwit.io/) & [Edgesearch](https://github.com/wilsonzlin/edgesearch) are interesting too.
 
+Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches.
+
 ## Links
 
 - [Algolia](https://www.algolia.com/) - Site Search & Discovery powered by AI.
@@ -237,7 +239,7 @@
 - [The future of search is boutique (2022)](https://future.a16z.com/the-future-of-search-is-boutique/) ([HN](https://news.ycombinator.com/item?id=31424237))
 - [Meilisearch Python](https://github.com/meilisearch/meilisearch-python) - Meilisearch API client for Python developers.
 - [SPLADE: sparse neural search](https://github.com/naver/splade)
-- [Lyra](https://github.com/nearform/lyra) - Fast, in-memory, full-text search engine written in TypeScript.
+- [Lyra](https://github.com/nearform/lyra) - Fast, in-memory, full-text search engine written in TypeScript. ([HN](https://news.ycombinator.com/item?id=32283663))
 - [Presearch](https://www.presearch.io/) - Decentralized Search Engine. ([Search](https://presearch.com/))
 - [How to declutter Google's search results page](https://mmazzarolo.com/blog/2022-06-19-making-google-search-less-annoying/) ([Lobsters](https://lobste.rs/s/ikghaw/how_declutter_google_s_search_results))
 - [A look at search engines with their own indexes (2021)](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/) ([HN](https://news.ycombinator.com/item?id=31820149))

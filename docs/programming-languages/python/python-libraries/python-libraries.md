@@ -287,6 +287,7 @@
 - [ReFrame](https://github.com/reframe-hpc/reframe) - Powerful Python framework for writing and running portable regression tests and benchmarks for HPC systems.
 - [Pretend](https://github.com/alex/pretend) - Library to make stubbing with Python easier.
 - [Nox](https://github.com/wntrblm/nox) - Flexible test automation for Python.
+- [PyTruth](https://github.com/google/pytruth) - Assertion framework for Python unit tests.
 
 ## Error
 
@@ -1114,3 +1115,4 @@
 - [Python toolkits (2022)](https://www.reddit.com/r/Python/comments/w092je/python_toolkits/)
 - [Freezing requirements with pip-tools (2022)](https://til.simonwillison.net/python/pip-tools)
 - [How to create a Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022) ([HN](https://news.ycombinator.com/item?id=32258783))
+- [PyPI Download Stats](https://pypistats.org/top) - Most downloaded PyPI packages.

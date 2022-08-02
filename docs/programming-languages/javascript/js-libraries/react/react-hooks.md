@@ -210,6 +210,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [use-transition-effect](https://github.com/piotr-oles/use-transition-effect) - Run long effects without blocking the main thread.
 - [Charlie Tango Hooks](https://github.com/charlie-tango/hooks)
 - [form-atoms](https://github.com/jaredLunde/form-atoms) - Atomic form primitives for Jotai.
+- [useAsyncEffect](https://github.com/rauldeheer/use-async-effect) - Asynchronous side effects, without the nonsense.
 
 ## Code
 

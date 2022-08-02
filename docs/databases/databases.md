@@ -662,3 +662,5 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Overview of Consistency Levels in Database Systems (2019)](http://dbmsmusings.blogspot.com/2019/07/overview-of-consistency-levels-in.html) ([HN](https://news.ycombinator.com/item?id=32271648))
 - [Join Doe](https://github.com/gistia/joindoe) - Tool for replicating database contents between environments while deidentifying sensitive data.
 - [GoBackup](https://github.com/huacnlee/gobackup) - Simple tool for backup your databases, files to FTP / SCP / S3 storages.
+- [ClickBench](https://github.com/ClickHouse/ClickBench) - Benchmark For Analytical Databases.
+- [The Slotted Counter Pattern (2022)](https://planetscale.com/blog/the-slotted-counter-pattern)

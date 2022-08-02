@@ -180,3 +180,4 @@
 - [NIST Announces First Four Quantum-Resistant Cryptographic Algorithms (2022)](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms) ([Reddit](https://www.reddit.com/r/math/comments/vt75bs/nist_announces_first_four_quantumresistant/))
 - [KEMs and Post-Quantum age (2022)](https://words.filippo.io/dispatches/post-quantum-age/)
 - [Cryptography II | Coursera](https://www.coursera.org/learn/crypto2)
+- [Sycret](https://github.com/OpenMined/sycret) - Function Secret Sharing library for Python and Rust with hardware acceleration.

@@ -383,3 +383,7 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Summer of Nix 2022 - YouTube](https://www.youtube.com/playlist?list=PLt4-_lkyRrOMWyp5G-m_d1wtTcbBaOxZk)
 - [nix-cue](https://github.com/jmgilman/nix-cue) - Validate and generate configuration files using Nix and Cue.
 - [Using Nix on macOS (2022)](https://checkoway.net/musings/nix/) ([HN](https://news.ycombinator.com/item?id=32290725))
+- [Matthew Croughan - Use flake.nix, not Dockerfile (2022)](https://www.youtube.com/watch?v=0uixRE8xlbY) ([Lobsters](https://lobste.rs/s/ilgax7/use_flake_nix_not_dockerfile))
+- [build-modules](https://github.com/DavHau/build-modules) - Low level module system for nix builds.
+- [wabi in Nix](https://github.com/navilan/wabi)
+- [nil](https://github.com/oxalica/nil) - Language Server for Nix Expression Language.

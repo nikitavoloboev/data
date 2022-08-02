@@ -72,6 +72,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [uttp](https://github.com/sachinraja/uttp) - Write your request handlers once, run anywhere.
 - [ts-liveview](https://github.com/beenotung/ts-liveview) - Build hybrid SSG and SSR real time SPA/MPA with Typescript.
 - [Sunmao](https://github.com/smartxworks/sunmao-ui) - Framework for Developing Low-code Tool.
+- [waystone](https://github.com/lxsmnsyc/waystone) - MPAs that feels like SPAs.
 
 ## GraphQL
 
@@ -123,6 +124,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [charm.js](https://github.com/jedisct1/charm.js) - Tiny, self-contained cryptography library, implementing authenticated encryption and keyed hashing.
 - [noble-bls12-381](https://github.com/paulmillr/noble-bls12-381) - Fastest JS implementation of BLS12-381. Auditable, secure, 0-dependency aggregated signatures & pairings.
 - [Web Crypto Tools](https://github.com/willgm/web-crypto-tools) - Set of tools to facilitate and give good defaults for use of the native Web Crypto API.
+- [zkp-ecdsa](https://github.com/cloudflare/zkp-ecdsa) - Proves knowledge of an ECDSA-P256 signature under one of many public keys that are stored in a list.
 
 ## Error
 
@@ -585,6 +587,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [esfx](https://github.com/esfx/esfx) - Suite of packages designed to provide low-level APIs for interoperable libraries.
 - [Nominal](https://github.com/modfy/nominal) - Nominal and refinement types. ([Reddit](https://www.reddit.com/r/typescript/comments/w5rebv/unlocking_typesafety_superpowers_in_typescript/))
 - [Poppinss](https://github.com/poppinss/utils) - Collection of reusable scripts used by AdonisJS core team.
+- [Alge](https://github.com/jasonkuhrt/alge) - Type safe fluent API library for creating Algebraic Data Types (ADTs) in TypeScript.
+- [Behavior-Graph](https://github.com/bhouston/behavior-graph) - Open, extensible, small and simple behavior-graph execution engine.
+- [TypeScript Tuple](https://github.com/ksxnodemodules/typescript-tuple) - Generics to work with tuples in TypeScript.
 
 ## Links
 
@@ -668,3 +673,5 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [pkg-exports](https://github.com/antfu/pkg-exports) - Get exports of an local npm package.
 - [remark-typescript-tools](https://github.com/phryneas/remark-typescript-tools) - Two remark plugins to use TypeScript code with remark, to generate better documentation.
 - [clean-pkg-json](https://github.com/privatenumber/clean-pkg-json) - Script to remove unnecessary properties from package.json on prepublish hook.
+- [pridepack](https://github.com/LyonInc/pridepack) - Zero-config CLI for building Typescript packages.
+- [core-dts](https://github.com/Kingwl/core-dts) - TypeScript will support all proposals above stage-3.

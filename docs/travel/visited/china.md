@@ -98,3 +98,4 @@ Cities like Shanghai and Guangzhou fascinate me, would love to live there one da
 - [Why China is So Damn Big (2022)](https://www.youtube.com/watch?v=OQ2oOp040f0)
 - [China's Catastrophic Oil & Gas Problem (2022)](https://www.youtube.com/watch?v=ISHHe1Hu6d4)
 - [Issues China faces in future](https://www.reddit.com/r/investing/comments/wc2zry/comment/iiadgf7/?utm_source=reddit&utm_medium=web2x&context=3)
+- [What could China do for you to have more of a favorable impression of the country? (2022)](https://www.reddit.com/r/China/comments/wd517m/what_could_china_do_for_you_to_have_more_of_a/)

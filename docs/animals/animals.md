@@ -140,3 +140,4 @@ I love all animals. And I am sad that some people decide to eat them and not [le
 - [Wild medieval beliefs about animals](https://twitter.com/WeirdMedieval/status/1529054655212400640)
 - [Покажи себя и своего питомца](https://twitter.com/anastasia__liss/status/1529775469515636736)
 - [I'm making drugs for cats (2022)](https://trevorklee.substack.com/p/why-im-now-making-drugs-for-cats) ([HN](https://news.ycombinator.com/item?id=31766285))
+- [Terra Mater - YouTube](https://www.youtube.com/c/TerraMaterOfficial)

@@ -318,3 +318,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [What would change if the speed of light was not constant in all reference frames](https://www.reddit.com/r/AskPhysics/comments/vtcrrn/what_would_change_if_the_speed_of_light_was_not/)
 - [Physicists discover a “family” of robust, superconducting graphene structures (2022)](https://news.mit.edu/2022/superconducting-graphene-family-0708) ([HN](https://news.ycombinator.com/item?id=32036523))
 - [Deep Learning for Physics Research](https://deeplearningforphysicsresearchbook.github.io/deep-learning-physics/) ([Code](https://github.com/DeepLearningForPhysicsResearchBook/deep-learning-physics))
+- [What is the holy grail in you field or area of research? (2022)](https://www.reddit.com/r/Physics/comments/wcttde/what_is_the_holy_grail_in_you_field_or_area_of/)

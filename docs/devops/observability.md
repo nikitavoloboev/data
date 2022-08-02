@@ -52,3 +52,5 @@ title: Observability
 - [O11y toolkit](https://o11y.tools/) - Set of utilities that help you debug, augment, and manage your open source observability stack. ([Code](https://github.com/o11ydev/oy-toolkit))
 - [Vector](https://github.com/vectordotdev/vector) - High-performance observability data pipeline. ([Web](https://vector.dev/))
 - [OpenTelemetry](https://github.com/krzko/opentelemetry-shell) - OpenTelemetry functions for shells.
+- [OpenTelemetry Demo](https://github.com/open-telemetry/opentelemetry-demo) - OpenTelemetry Community Demo Application.
+- [OpenTelemetry Enhancement Proposals](https://github.com/open-telemetry/oteps)

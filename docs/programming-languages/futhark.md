@@ -17,3 +17,4 @@ title: Futhark
 - [The past and present of Futhark (2021)](https://futhark-lang.org/blog/2021-12-19-past-and-present.html) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/rrdnm6/the_past_and_present_of_futhark/))
 - [Cost models are contracts (2022)](https://futhark-lang.org/blog/2022-01-27-cost-models-are-contracts.html)
 - [neptune-triton](https://github.com/filecoin-project/neptune-triton) - Futhark implementation of the Poseidon hash function, targeting OpenCL for execution on GPU.
+- [futhark-bindgen](https://github.com/zshipko/futhark-bindgen) - Futhark binding generator.

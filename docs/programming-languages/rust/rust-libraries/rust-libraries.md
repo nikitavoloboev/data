@@ -690,6 +690,7 @@
 - [mach2](https://github.com/JohnTitor/mach2) - Rust interface to the user-space API of the Mach 3.0 kernel exposed in /usr/include/mach that underlies macOS and is linked via libSystem.
 - [hv](https://github.com/cloud-hypervisor/hypervisor-framework) - High level Rust bindings for Hypervisor Framework.
 - [macos-emond](https://github.com/puffyCid/macos-emond) - Simple library to parse macOS Emond files.
+- [appleargs](https://github.com/BlackHoleFox/appleargs) - Rust crate to read the process' apple arguments.
 
 ## Macros
 
@@ -2073,6 +2074,11 @@
 - [uuid-readable-rs](https://github.com/Martichou/uuid-readable-rs) - Generate easy to remember sentences that acts as human readable UUIDs.
 - [sys_metrics](https://github.com/Martichou/sys_metrics) - Cross-platform library to gather stats/information from the host.
 - [fid-rs](https://github.com/laysakura/fid-rs) - High performance FID (Fully Indexable Dictionary) library.
+- [Sokoban](https://github.com/jarry-xiao/sokoban) - Compact, efficient data structures in contiguous byte arrays.
+- [recursion](https://github.com/inanna-malick/recursion) - Recursion schemes, in rust.
+- [Blaze](https://github.com/Aandreba/blaze) - Rustified OpenCL Experience.
+- [flashmap](https://github.com/Cassy343/flashmap) - Lock-free, partially wait-free, eventually consistent, concurrent hashmap.
+- [rust-socks](https://github.com/sfackler/rust-socks) - SOCKS proxy support for Rust.
 
 ## Cargo Plugins
 

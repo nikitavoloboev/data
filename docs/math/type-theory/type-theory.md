@@ -214,3 +214,4 @@ title: Type Theory
 - [Gradual Typing Across the Spectrum](https://nuprl.github.io/gtp/) ([Web Code](https://github.com/nuprl/gtp))
 - [Uniqueness Typing Simplified](http://www.edsko.net/pubs/ifl07-paper.pdf)
 - [Type-Signature](https://type-signature.com/) - Who Wants to Be a Millionaire - but with types. ([Code](https://github.com/andys8/type-signature-com))
+- [Implementation of type inference for System F in Scala 3](https://github.com/atennapel/systemf-scala)

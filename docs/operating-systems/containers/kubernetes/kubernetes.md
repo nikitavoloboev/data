@@ -782,3 +782,6 @@ title: Kubernetes
 - [k8s](https://github.com/forbearing/k8s) - Go library implements various handlers to more easy manipulate k8s resources such as pods, deployments, etc, inside or outside k8s cluster.
 - [KubeGateway](https://github.com/kubewharf/kubegateway) - Best practice for managing massive kubernetes clusters within ByteDance.
 - [Boskos](https://github.com/kubernetes-sigs/boskos) - Resource management service that provides reservation and lifecycle management of a variety of different kinds of resources.
+- [kudo](https://github.com/jlevesy/kudo) - sudo for Kubernetes.
+- [How Kubernetes Reinvented Virtual Machines (in a good sense) (2022)](https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/)
+- [Ask HN: Have You Left Kubernetes? (2022)](https://news.ycombinator.com/item?id=32304834)

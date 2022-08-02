@@ -189,3 +189,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Open Telemetry SDK for Cloudflare Workers](https://github.com/RichiCoder1/opentelemetry-sdk-workers) - Library for adding tracing and logging to Cloudflare Workers.
 - [Workers Loki Logger](https://github.com/SirCremefresh/workers-loki-logger) - Logger for the Cloudflare workers environment that sends the logs to grafana loki.
 - [Workers Honeycomb Logger](https://github.com/cloudflare/workers-honeycomb-logger) - Easily export runtime information from your Cloudflare Workers into Honeycomb.
+- [Thoughts on Cloudflare D1: A new era (2022)](https://jacobhands.com/posts/d1/)

@@ -21,3 +21,4 @@ title: Unison
 - [JIT compilation is coming to Unison: an early progress report](https://www.unison-lang.org/blog/jit-announce/)
 - [Unison Forall](https://hopin.com/events/unison-forall/registration)
 - [Unison Share](https://share.unison-lang.org/) ([Web Code](https://github.com/unisonweb/codebase-ui))
+- [Create a Simple Web App With Unison and Elm (2022)](https://luketollefson.xyz/posts/2022-07-31-unison-elm-web-app.html)

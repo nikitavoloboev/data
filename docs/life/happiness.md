@@ -63,6 +63,7 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Melancholy is the happiness of being sad.](https://www.youtube.com/watch?v=xNzPqFYcuKY)
 - [If you only wished to be happy, this could be easily accomplished; but we wish to be happier than other people, and this is always difficult, for we believe others to be happier than they are.](https://twitter.com/waitbutwhy/status/1529017582870749184)
 - [The key to happiness really is just food, water, exercise, sun, security, relationships, gratitude, and purpose.](https://twitter.com/CXGonzalez/status/1535587810354282498)
+- [Comparison is the thief of joy](https://www.reddit.com/r/sex/comments/wcduoc/my_wife_told_me_the_best_sex_she_had_was_with_a/)
 
 ## Links
 

@@ -4,6 +4,8 @@
 
 [Microlink](https://microlink.io/) is nice tool.
 
+Use this [Solid/Vite](https://github.com/fuyutarow/solid-chrome-extension-template) template to build extensions.
+
 ## Notes
 
 - `document.querySelector("video").playbackRate = 1.4` will [increase video playback](https://mjtsai.com/blog/2018/06/25/speeding-up-wwdc-videos/).

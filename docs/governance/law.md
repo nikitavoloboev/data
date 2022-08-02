@@ -51,3 +51,5 @@
 - [Developer's Guide to SaaS Compliance (2022)](https://www.courier.com/blog/the-developers-guide-to-saas-compliance/) ([HN](https://news.ycombinator.com/item?id=31728693))
 - [What do lawyers do? (2022)](https://nihal.bearblog.dev/what-do-lawyers-do/) ([HN](https://news.ycombinator.com/item?id=31959666))
 - [Awesome Legal](https://github.com/ankane/awesome-legal) - Awesome free legal documents for companies.
+- [International Legal Dictionary](https://www.public.law/dictionary) ([HN](https://news.ycombinator.com/item?id=32301534))
+- [Public.Law](https://www.public.law/) - Online law library.
