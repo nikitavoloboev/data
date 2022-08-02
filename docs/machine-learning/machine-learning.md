@@ -890,3 +890,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Efficient Deep Learning Book](https://efficientdlbook.com/) ([Code](https://github.com/EfficientDL/book))
 - [DALLE2 LAION](https://github.com/LAION-AI/dalle2-laion) - Collection of resources and tools for LAION's pre-trained DALLE-2 model.
 - [Awesome Novel Class Discovery](https://github.com/JosephKJ/Awesome-Novel-Class-Discovery)
+- [Harvard ML Course (2019)](https://harvard-iacs.github.io/2019-CS109A/pages/materials.html)

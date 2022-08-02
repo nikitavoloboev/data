@@ -691,6 +691,7 @@
 - [hv](https://github.com/cloud-hypervisor/hypervisor-framework) - High level Rust bindings for Hypervisor Framework.
 - [macos-emond](https://github.com/puffyCid/macos-emond) - Simple library to parse macOS Emond files.
 - [appleargs](https://github.com/BlackHoleFox/appleargs) - Rust crate to read the process' apple arguments.
+- [keychain-services.rs](https://github.com/iqlusioninc/keychain-services.rs) - Keychain Services for Rust.
 
 ## Macros
 
@@ -2079,6 +2080,9 @@
 - [Blaze](https://github.com/Aandreba/blaze) - Rustified OpenCL Experience.
 - [flashmap](https://github.com/Cassy343/flashmap) - Lock-free, partially wait-free, eventually consistent, concurrent hashmap.
 - [rust-socks](https://github.com/sfackler/rust-socks) - SOCKS proxy support for Rust.
+- [Crawdad](https://github.com/daac-tools/crawdad) - Rust library of natural language dictionaries using character-wise double-array tries.
+- [pcd-rs](https://github.com/jerry73204/pcd-rs) - Read PCD file format in Rust.
+- [neli](https://github.com/jbaublitz/neli) - Type safe netlink library for Rust.
 
 ## Cargo Plugins
 

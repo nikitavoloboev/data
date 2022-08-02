@@ -171,3 +171,4 @@
 - [Amazon Behavioral Interview](https://github.com/tombetthauser/amazon-behavioral-interview)
 - [Free Peer-to-Peer Mock Interviews](https://www.hackpack.io/mock-interviews)
 - [Job interview questions engineers should ask, but don't](https://posthog.com/blog/what-to-ask-in-interviews) ([HN](https://news.ycombinator.com/item?id=31906933))
+- [How to NOT Fail a Technical Interview (2022)](https://www.youtube.com/watch?v=1t1_a1BZ04o)

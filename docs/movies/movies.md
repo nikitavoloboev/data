@@ -124,3 +124,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Saddest movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/w94ctr/in_desperate_need_of_the_saddest_movies_there_is/)
 - [alass](https://github.com/kaegi/alass) - Command line tool to synchronize subtitles to movies.
 - [What are your top Horror Movies of all time? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/wb3ywq/what_are_your_top_horror_movies_of_all_time/)
+- [Movies with better sequels (2022)](https://www.reddit.com/r/MovieSuggestions/comments/wdqdl5/the_sequel_was_better/)

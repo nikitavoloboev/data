@@ -220,3 +220,4 @@ title: OCaml libraries
 - [opam2nix](https://github.com/timbertson/opam2nix) - Generate nix expressions from opam packages.
 - [Networking experiments with OCaml 5's effects](https://github.com/TheLortex/networking-experiments)
 - [metaquot](https://github.com/thierry-martinez/metaquot) - OCaml syntax extension for quoting code.
+- [Effectful OCaml with Objects and Variants](https://github.com/polytypic/rea-ml)

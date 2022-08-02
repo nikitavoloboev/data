@@ -109,3 +109,4 @@ title: Field-programmable gate array
 - [Getting ResNet to 300 fps on ZCU104 (2022)](https://k155la3.blog/2022/07/29/getting-resnet-to-300-fps-on-zcu104/)
 - [OpenFPGA Developer SDK Beta – Analogue](https://www.analogue.co/developer/docs/overview)
 - [Tang Nano 9K – FPGA SBC with HDMI](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html) ([HN](https://news.ycombinator.com/item?id=32299544))
+- [Parallel Programming for FPGAs Book](https://kastner.ucsd.edu/hlsbook/) ([Code](https://github.com/KastnerRG/pp4fpgas)) ([HN](https://news.ycombinator.com/item?id=32314700))

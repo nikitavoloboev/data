@@ -314,3 +314,4 @@ zz
 - [Learn Vim the Simple Way](https://www.vimified.com/) ([HN](https://news.ycombinator.com/item?id=32034625))
 - [VIM A-Z: A Text Object for Every Letter in the Alphabet (2022)](https://www.youtube.com/watch?v=JnD9Uro_oqc)
 - [History and effective use of Vim (2019)](https://begriffs.com/posts/2019-07-19-history-use-vim.html) ([HN](https://news.ycombinator.com/item?id=32262285))
+- [This Week In Neovim](https://this-week-in-neovim.org/) ([Contents](https://github.com/phaazon/this-week-in-neovim-contents))

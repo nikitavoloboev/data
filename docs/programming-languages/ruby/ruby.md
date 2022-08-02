@@ -140,3 +140,4 @@
 - [Ruby parser and LSP in Rust](https://github.com/qnighy/rbbardiche)
 - [To Ruby from Python](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/) ([HN](https://news.ycombinator.com/item?id=32115809))
 - [Why Ruby Is More Readable Than Python](https://confuzeus.com/posts/python-ruby-readability/) ([HN](https://news.ycombinator.com/item?id=32158800))
+- [Codeshift](https://github.com/rajasegar/codeshift) - Ruby CLI to transform source code using ASTs.

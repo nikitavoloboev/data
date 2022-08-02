@@ -161,3 +161,4 @@
 - [Code Density Compared Between Way Too Many Instruction Sets](https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-07-28/) ([Lobsters](https://lobste.rs/s/d61s5c/code_density_compared_between_way_too))
 - [Binary Translators for Weak Memory Model Architectures](https://binary-translation.github.io/index.html) ([HN](https://news.ycombinator.com/item?id=32278228))
 - [Astro-8 Computer](https://github.com/sam-astro/Astro8-Computer) - 16-bit homebrew CPU.
+- [Introduction to Apple Silicon](https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon) ([HN](https://news.ycombinator.com/item?id=32311245))

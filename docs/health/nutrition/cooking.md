@@ -41,3 +41,4 @@ I share some [recipes I like](recipes.md).
 - [Learn how to master the art of baking the programmer way](https://github.com/hendricius/the-bread-code)
 - [What kitchen gadgets or appliances actually get used in your home?](https://twitter.com/jesslynnrose/status/1539896328993521665)
 - [Parsnip](https://www.parsnip.ai/) - Duolingo for Cooking. ([HN](https://news.ycombinator.com/item?id=32266086))
+- [Ask HN: Meal Planning App? (2022)](https://news.ycombinator.com/item?id=32316604)

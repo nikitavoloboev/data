@@ -186,3 +186,5 @@
 - [Bulk](https://github.com/koaning/bulk) - Quick developer tool to apply some bulk labels.
 - [stopes](https://github.com/facebookresearch/stopes) - Library for preparing data for machine translation research (monolingual preprocessing, bitext mining, etc.) built by the FAIR NLLB team.
 - [MisInfoText](https://github.com/sfu-discourse-lab/MisInfoText) - Datasets for fake news and misinformation detection.
+- [Awesome Dataset Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation)
+- [Cleaning data with sqlite-utils and Datasette](https://datasette.io/tutorials/clean-data)

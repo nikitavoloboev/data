@@ -664,3 +664,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [GoBackup](https://github.com/huacnlee/gobackup) - Simple tool for backup your databases, files to FTP / SCP / S3 storages.
 - [ClickBench](https://github.com/ClickHouse/ClickBench) - Benchmark For Analytical Databases.
 - [The Slotted Counter Pattern (2022)](https://planetscale.com/blog/the-slotted-counter-pattern)
+- [Convex](https://www.convex.dev/) - Global state management platform for web developers. ([GitHub](https://github.com/get-convex))

@@ -10,6 +10,10 @@ I am also curious how you can make EU political system more efficient, right now
 
 So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](united-kingdom.md) (think it [might be part of EU again](https://twitter.com/DanielLambert29/status/1532991072158220288)). Want to move to [Portugal](portugal.md) or [Georgia](georgia.md) next.
 
+## Notes
+
+- [Czech has low income taxes. Base rate is 15 and 22 % is high rate. But you also add social and health insurance. We also have small business licenses where you can significantly reduce social so no retirement fund but a lot of cash on hand.](https://www.reddit.com/r/eupersonalfinance/comments/we1pod/about_7000_to_15000_income_per_month_how_to_invest/)
+
 ## Links
 
 - [Ask HN: How to increase SWE salaries in Europe? (2021)](https://news.ycombinator.com/item?id=25766884)

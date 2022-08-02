@@ -311,3 +311,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Automating and Defending Nefarious Automation (2022)](https://www.fastly.com/blog/automating-and-defending-nefarious-automation)
 - [Global Security Database](https://globalsecuritydatabase.org/) ([Code](https://github.com/cloudsecurityalliance/gsd-database))
 - [Corrupting memory without memory corruption (2022)](https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/)
+- [Wi-Fine: it is fine to use public Wi-Fi](https://wifine.gitlab.io/) ([Lobsters](https://lobste.rs/s/ljdnnd/wi_fine_it_is_fine_use_public_wi_fi))

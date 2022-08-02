@@ -891,3 +891,4 @@
 - [Initialization and Alignment for Adversarial Texture Optimization (2022)](https://arxiv.org/abs/2207.14289) ([Code](https://github.com/Xiaoming-Zhao/advtex_init_align))
 - [DCT-Net: Domain-Calibrated Translation for Portrait Stylization (2022)](https://arxiv.org/abs/2207.02426) ([Code](https://github.com/menyifang/DCT-Net))
 - [Pretraining is All You Need for Image-to-Image Translation (2022)](https://arxiv.org/abs/2205.12952) ([Code](https://github.com/PITI-Synthesis/PITI))
+- [Vision-Centric BEV Perception: A Survey](https://github.com/4DVLab/Vision-Centric-BEV-Perception)

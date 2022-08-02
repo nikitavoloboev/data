@@ -186,7 +186,7 @@ title: GitHub actions
 - [Code sign a file](https://github.com/dlemstra/code-sign-action) - Action that signs libraries with a code signing certificate.
 - [Combine PRs](https://github.com/hrvey/combine-prs-workflow) - Combine/group together PRs (for example from Dependabot and similar services).
 - [Merge Dependabot](https://github.com/fastify/github-action-merge-dependabot) - Automatically approves and merges dependabot PRs.
-- [shot-scraper](https://github.com/simonw/shot-scraper) - Automated screenshots for documentation, built on Playwright. ([Article](https://simonwillison.net/2022/Mar/10/shot-scraper/)) ([HN](https://news.ycombinator.com/item?id=30621802))
+- [shot-scraper](https://github.com/simonw/shot-scraper) - Automated screenshots for documentation, built on Playwright. ([Article](https://simonwillison.net/2022/Mar/10/shot-scraper/)) ([HN](https://news.ycombinator.com/item?id=30621802)) ([Demo](https://github.com/simonw/shot-scraper-demo))
 - [Semver Release](https://github.com/K-Phoen/semver-release-action) - Automatically create SemVer compliant releases based on PR labels.
 - [Updater Action](https://github.com/github/dependabot-action) - Runs Dependabot workloads via GitHub Actions.
 - [Nrwl Nx Action](https://github.com/MansaGroup/nrwl-nx-action) - GitHub Action to wrap Nrwl Nx commands in your workflows.

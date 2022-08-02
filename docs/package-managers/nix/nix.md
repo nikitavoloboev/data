@@ -387,3 +387,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [build-modules](https://github.com/DavHau/build-modules) - Low level module system for nix builds.
 - [wabi in Nix](https://github.com/navilan/wabi)
 - [nil](https://github.com/oxalica/nil) - Language Server for Nix Expression Language.
+- [Making a PR to Nixpkgs (2022)](https://johns.codes/blog/updating-a-package-in-nixpkgs) ([HN](https://news.ycombinator.com/item?id=32314905))
+- [Building websites using Nix Flakes and Zola (2022)](https://ilanjoselevich.com/blog/building-websites-using-nix-flakes-and-zola/)

@@ -570,3 +570,5 @@ title: Linux
 - [VerKer](https://github.com/evdenis/verker) - Linux kernel library functions formally verified.
 - [minibase](https://github.com/arsv/minibase) - Small static userspace tools for Linux.
 - [Aya: your tRusty eBPF companion (2022)](https://deepfence.io/aya-your-trusty-ebpf-companion/)
+- [knock-out](https://github.com/jbaublitz/knock-out) - Crate with an example of a kernel module in Rust.
+- [stratisd](https://github.com/stratis-storage/stratisd) - Easy to use local storage management for Linux.

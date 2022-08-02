@@ -241,3 +241,4 @@ title: Spatial analysis
 - [Awesome DEM (Digital Elevation Models)](https://github.com/DahnJ/Awesome-DEM)
 - [GPSJam](https://gpsjam.org/) - GPS/GNSS Interference Map. ([HN](https://news.ycombinator.com/item?id=32245346))
 - [Rasterio](https://github.com/rasterio/rasterio) - Reads and writes geospatial raster datasets.
+- [regionmask](https://github.com/regionmask/regionmask) - Plotting and creation of masks of spatial regions.

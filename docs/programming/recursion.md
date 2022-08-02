@@ -22,3 +22,4 @@
 - [Unifying Structured Recursion Schemes (2013)](https://www.cs.ox.ac.uk/people/nicolas.wu/papers/URS.pdf)
 - [Program Reduction: A Win for Recursion Schemes (2018)](http://newartisans.com/2018/04/win-for-recursion-schemes/)
 - [Recursion is recursion is recursion is... (2021)](https://www.abhinavomprakash.com/posts/recursion/)
+- [Generic Recursion Applied to Algebraic Graphs (2022)](https://aneksteind.github.io/posts/2022-07-31.html)

@@ -121,6 +121,7 @@
 - [Traviso](https://github.com/axaq/traviso.js) - Open source JS engine that makes it easy to build isometric applications that run in a web browser.
 - [LibPHX](https://github.com/JoshParnell/libphx) - Lightweight, (mostly) C-based game engine developed for the cancelled space simulation game Limit Theory.
 - [Plasma](https://plasmagameengine.com/) - C++ powered 2D and 3D game engine that is designed to be straight forward yet powerful for all users. ([Code](https://github.com/PlasmaEngine/PlasmaEngine))
+- [Voxelize](https://github.com/voxelize/voxelize) - Multiplayer, fast, super fast, voxel engine in your browser.
 
 ## Physics engines
 

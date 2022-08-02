@@ -54,3 +54,5 @@ title: Observability
 - [OpenTelemetry](https://github.com/krzko/opentelemetry-shell) - OpenTelemetry functions for shells.
 - [OpenTelemetry Demo](https://github.com/open-telemetry/opentelemetry-demo) - OpenTelemetry Community Demo Application.
 - [OpenTelemetry Enhancement Proposals](https://github.com/open-telemetry/oteps)
+- [Prodfiler](https://prodfiler.com/) - Whole-system Continuous Profiling Platform. ([Docs](https://github.com/elastic/prodfiler-documentation))
+- [The best way to find performance bottlenecks: observing production (2022)](https://pythonspeed.com/articles/measure-performance-production/)

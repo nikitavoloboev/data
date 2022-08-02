@@ -238,3 +238,4 @@
 - [KTX (Khronos Texture)](https://github.com/KhronosGroup/KTX-Software) - Lightweight container for textures for OpenGL, Vulkan and other GPU APIs.
 - [Mitsuba 3](https://github.com/mitsuba-renderer/mitsuba3) - Retargetable Forward and Inverse Renderer. ([Web](https://www.mitsuba-renderer.org/))
 - [3D Formats Guidelines](https://github.com/KhronosGroup/3D-Formats-Guidelines) - Guidelines for artists and developers using Khronos Group 3D formats.
+- [Interpolating Polygons (2017)](http://lambdafunk.com/2017-02-21-Interpolating-Polygons/)

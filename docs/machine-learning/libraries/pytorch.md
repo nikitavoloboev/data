@@ -429,3 +429,4 @@ title: PyTorch
 - [TorchScene](https://github.com/MLSysOps/TorchScene) - Scene recognition tool based on PyTorch. Provide training, test and deployment functions, as well as many pretrained models.
 - [torchimize](https://github.com/hahnec/torchimize) - Numerical optimization algorithms in PyTorch.
 - [1D, 2D, and 3D Sinusoidal Postional Encoding (PyTorch and TensorFlowi)](https://github.com/tatp22/multidim-positional-encoding)
+- [Kaolin Wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) - PyTorch Library and Engine for Neural Fields Research.

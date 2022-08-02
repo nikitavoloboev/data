@@ -108,3 +108,4 @@ title: Zero knowledge proofs
 - [zkEVM Prover in C++](https://github.com/0xPolygonHermez/zkevm-prover)
 - [VERI-ZEXE](https://github.com/EspressoSystems/veri-zexe) - Decentralized Private Computation with Universal Setup.
 - [Ecne](https://github.com/franklynwang/EcneProject) - Engine for verifying the soundness of R1CS constraints.
+- [zkREPL](https://zkrepl.dev/) - Online playground for zero knowledge circuits. ([Code](https://github.com/0xPARC/zkrepl))
