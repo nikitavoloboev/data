@@ -94,7 +94,7 @@ title: Raspberry Pi
 - [Building Tiny Raspberry Pi Linux Images With Buildroot (2021)](https://rickcarlino.com/2021/building-tiny-raspberry-pi-linux-images-with-buildroot.html) ([Lobsters](https://lobste.rs/s/7bhakm/building_tiny_raspberry_pi_linux_images))
 - [Raspberry Pi 3 Fastboot – Less Than 2 Seconds (2020)](https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/) ([HN](https://news.ycombinator.com/item?id=28969386))
 - [Raspberry Pi, Static HTTPS site with Docker and Nginx (2021)](https://gist.github.com/rain-1/2d6033ee2b63c0a3ab802b5572df3ba9) ([HN](https://news.ycombinator.com/item?id=28979665))
-- [PiBox Mini](https://pibox.io/) - Modular Raspberry Pi Storage Server. ([HN](https://news.ycombinator.com/item?id=28992873))
+- [PiBox Mini](https://pibox.io/) - Modular Raspberry Pi Storage Server. ([HN](https://news.ycombinator.com/item?id=28992873)) ([HN](https://news.ycombinator.com/item?id=32313242))
 - [Raspberry Pi Zero 2 W (2021)](https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/) ([HN](https://news.ycombinator.com/item?id=29022955))
 - [First Impressions with the Raspberry Pi Zero 2 W (2021)](https://blog.alexellis.io/raspberry-pi-zero-2/) ([HN](https://news.ycombinator.com/item?id=29024702))
 - [Gilbraltar](https://github.com/dinosaure/gilbraltar) - MirageOS on RPi4.

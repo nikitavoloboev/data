@@ -265,3 +265,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Ask HN: How are you hosting email for your startup employees? (2022)](https://news.ycombinator.com/item?id=32029769)
 - [Cloudflare + MailChannels Email Sending with DKIM](https://github.com/maggie-j-liu/mail)
 - [Mailing](https://github.com/successor-software/mailing) - Build, test, send emails with TypeScript and React.
+- [Hijacking Email with Cloudflare Email Routing (2022)](https://albertpedersen.com/blog/hijacking-email-with-cloudflare-email-routing/) ([HN](https://news.ycombinator.com/item?id=32331781))

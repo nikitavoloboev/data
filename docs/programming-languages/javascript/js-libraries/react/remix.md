@@ -161,3 +161,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [NextJS Data Patterns are Bad? I'm Coming Around To Remix... (2022)](https://www.youtube.com/watch?v=d6lKEV_3kxQ)
 - [remix-typedjson](https://github.com/kiliman/remix-typedjson) - Replacement for superjson to use in your Remix app.
 - [Advanced Remix Workshop](https://github.com/FrontendMasters/advanced-remix)
+- [Remix Fundamentals Workshop](https://github.com/FrontendMasters/remix-fundamentals)

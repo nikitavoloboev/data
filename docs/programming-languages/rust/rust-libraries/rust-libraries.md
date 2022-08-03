@@ -2084,6 +2084,7 @@
 - [Crawdad](https://github.com/daac-tools/crawdad) - Rust library of natural language dictionaries using character-wise double-array tries.
 - [pcd-rs](https://github.com/jerry73204/pcd-rs) - Read PCD file format in Rust.
 - [neli](https://github.com/jbaublitz/neli) - Type safe netlink library for Rust.
+- [owning-ref-rs](https://github.com/utilForever/owning-ref-rs) - Library for creating references that carry their owner with them.
 
 ## Cargo Plugins
 
@@ -2323,3 +2324,4 @@
 - [RustShop](https://github.com/rustshop/rustshop) - Template and utilities to help quickly set up and manage a production grade cloud-based system.
 - [Proc macro support in rust-analyzer for nightly rustc versions (2022)](https://fasterthanli.me/articles/proc-macro-support-in-rust-analyzer-for-nightly-rustc-versions)
 - [Design Patterns with Rust Types (2022)](https://dev.to/ivancernja/patterns-with-rust-types-3233)
+- [rust-template-rs](https://github.com/taurr/rust-template-rs) - Templates for use when creating Rust applications.

@@ -64,3 +64,4 @@ title: JAX
 - [CoDeX](https://github.com/google/codex) - Data compression in JAX.
 - [DiBS](https://github.com/larslorch/dibs) - Python JAX implementation for DiBS, fully differentiable method for joint Bayesian inference of the DAG and parameters of general, causal Bayesian networks.
 - [Generative Adversarial Networks in JAX](https://github.com/lweitkamp/GANs-JAX)
+- [Neural implicit queries](https://github.com/nmwsharp/neural-implicit-queries) - Perform geometric queries on neural implicit surfaces like ray casting, intersection testing, fast mesh extraction, closest points, and more.

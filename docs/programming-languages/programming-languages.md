@@ -399,3 +399,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Languages with Rust's eums](https://www.reddit.com/r/rust/comments/w1jepg/other_languages_with_rusts_eums/)
 - [FauxPilot](https://github.com/moyix/fauxpilot) - Locally hosted version of GitHub Copilot. ([HN](https://news.ycombinator.com/item?id=32327711))
 - [Quicksort implemented in different languages](https://github.com/ruippeixotog/quicksort)
+- [Language Incubator](https://github.com/EarlGray/language-incubator) - Learning compilers, interpreters, code generation, virtual machines, assemblers, JITs, etc.

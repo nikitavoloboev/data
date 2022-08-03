@@ -166,3 +166,4 @@ title: Coq
 - [Coqoban](https://github.com/coq-community/coqoban) - Coq implementation of Sokoban, the Japanese warehouse keepers' game.
 - [Lustre compiler in Coq](https://github.com/INRIA/velus)
 - [Choice Trees](https://github.com/vellvm/ctrees) - itree-like data-structure to additionally support internal non-determinism.
+- [Automatik](https://github.com/jdrprod/automatik) - Library of formalized graph and automata based algorithms.

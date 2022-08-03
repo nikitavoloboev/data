@@ -406,3 +406,4 @@
 - [ghc-plugin-non-empty](https://github.com/chshersh/ghc-plugin-non-empty) - GHC Plugin for compile-time transformation of list literals to NonEmpty list.
 - [Servant Template](https://github.com/tweag/servant-template) - Modern template for a Servant.
 - [dr-cabal](https://github.com/chshersh/dr-cabal) - CLI tool for profiling Haskell dependencies build times.
+- [cabal-fmt](https://github.com/phadej/cabal-fmt) - Formatting .cabal files.

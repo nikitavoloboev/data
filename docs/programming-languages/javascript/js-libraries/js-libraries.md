@@ -995,6 +995,7 @@
 - [safe-json-value](https://github.com/ehmicky/safe-json-value) - JSON serialization should never fail.
 - [Config Array](https://github.com/humanwhocodes/config-array) - Glob-based configuration array utility.
 - [p-cancelable](https://github.com/sindresorhus/p-cancelable) - Create a promise that can be canceled.
+- [neat-csv](https://github.com/sindresorhus/neat-csv) - Fast CSV parser.
 
 ## Links
 

@@ -107,3 +107,4 @@ title: Lean
 - [Lean formalization of parts of Martin Liebeck's "A concise introduction to pure mathematics"](https://github.com/ImperialCollegeLondon/m1fexplained)
 - [Experimenting with Lean 4](https://github.com/AdrienChampion/experimentalean4)
 - [Proof artifact co-training on Lean mathlib](https://github.com/jesse-michael-han/lean-step-public)
+- [Lean chat](https://github.com/zhangir-azerbayev/lean-chat-vscode) - Chat with OpenAI Codex to generate formal theorem statements in Lean for you.

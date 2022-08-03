@@ -1767,6 +1767,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [fast-fan-in](https://github.com/IBM/fast-fan-in) - Go fan-in pattern efficiently adaptable to any channel type without code generation.
 - [reload](https://github.com/slok/reload) - Simple managed reload mechanism for Go.
 - [grsync](https://github.com/zloylos/grsync) - Go rsync wrapper.
+- [Grafana Go regexp](https://github.com/grafana/regexp) - Faster version of the Go regexp package.
 
 ## Links
 

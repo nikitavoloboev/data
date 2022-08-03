@@ -574,3 +574,4 @@
 - [Ask HN: What are the best programming tricks you know? (2022)](https://news.ycombinator.com/item?id=32223834)
 - [Library Writing Realizations (2015)](https://cbloomrants.blogspot.com/2015/09/library-writing-realizations.html)
 - [Coding as a greybeard (2022)](https://news.ycombinator.com/item?id=32317441)
+- [Strict-serializability, but at what cost, for what purpose? (2022)](https://muratbuffalo.blogspot.com/2022/08/strict-serializability-but-at-what-cost.html)

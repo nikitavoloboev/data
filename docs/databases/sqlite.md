@@ -233,3 +233,5 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [SQLite Internals: Pages and B-trees (2022)](https://fly.io/blog/sqlite-internals-btree/) ([HN](https://news.ycombinator.com/item?id=32250426))
 - [SQLite VFS extension](https://github.com/mlin/sqlite_zstd_vfs) - SQLite3 extension for read/write storage compression with Zstandard.
 - [sqlite-html](https://github.com/asg017/sqlite-html) - SQLite extension for querying, manipulating, and creating HTML elements.
+- [Sqinn](https://github.com/cvilsmeier/sqinn) - SQLite over stdin/stdout.
+- [libgsqlite](https://github.com/0x6b/libgsqlite) - SQLite extension which loads a Google Sheet as a virtual table.

@@ -833,3 +833,4 @@ if err != nil {
 - [Align the happy path to the left edge](https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88)
 - [Go Flow Levee](https://github.com/google/go-flow-levee) - Static analysis tool works to ensure your program's data flow does not spill beyond its banks.
 - [Go 1.19 Released (2022)](https://go.dev/doc/go1.19) ([HN](https://news.ycombinator.com/item?id=32321499))
+- [[WTF] Go Unicode Hack to Get Pseudo-Generics](https://news.ycombinator.com/item?id=14276891)

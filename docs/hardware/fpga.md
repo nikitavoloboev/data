@@ -110,3 +110,4 @@ title: Field-programmable gate array
 - [OpenFPGA Developer SDK Beta – Analogue](https://www.analogue.co/developer/docs/overview)
 - [Tang Nano 9K – FPGA SBC with HDMI](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html) ([HN](https://news.ycombinator.com/item?id=32299544))
 - [Parallel Programming for FPGAs Book](https://kastner.ucsd.edu/hlsbook/) ([Code](https://github.com/KastnerRG/pp4fpgas)) ([HN](https://news.ycombinator.com/item?id=32314700))
+- [HDMI](https://github.com/hdl-util/hdmi) - Send video/audio over HDMI on an FPGA.

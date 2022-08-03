@@ -145,4 +145,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [lurk](https://github.com/JakWai01/lurk) - Simple and pretty alternative to strace. Allows the user to trace system calls of a process or of a command.
 - [wrappe](https://github.com/Systemcluster/wrappe) - Packer to create self-contained single-binary applications from executables and directory trees.
 - [Gum](https://github.com/charmbracelet/gum) - Tool for glamorous shell scripts. Leverage the power of Bubbles and Lip Gloss in your scripts and aliases without writing any Go code. ([Lobsters](https://lobste.rs/s/zpl3xn/gum_tool_for_glamorous_shell_scripts)) ([HN](https://news.ycombinator.com/item?id=32263827))
-- [7 things I've learned building a modern TUI framework (2022)](https://www.textualize.io/blog/posts/7-things-about-terminals)
+- [Things I've learned building a modern TUI framework (2022)](https://www.textualize.io/blog/posts/7-things-about-terminals) ([HN](https://news.ycombinator.com/item?id=32331367))

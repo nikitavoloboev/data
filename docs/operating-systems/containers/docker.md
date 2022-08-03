@@ -251,3 +251,4 @@ title: Docker
 - [Shipspotter](https://github.com/Shimmur/shipspotter) - Tool for tunneling a port forward into remote Docker containers over SSH.
 - [Non-Obvious Docker Uses (2022)](https://matt-rickard.com/non-obvious-docker-uses/) ([HN](https://news.ycombinator.com/item?id=32213950))
 - [Docker and the OCI container ecosystem (2022)](https://lwn.net/SubscriberLink/902049/374614a66c0367f3/)
+- [Modus](https://github.com/modus-continens/modus) - Language for building Docker/OCI container images. ([Web](https://modus-continens.com/))

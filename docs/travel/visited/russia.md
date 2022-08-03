@@ -592,3 +592,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Почему Алексей Балабанов все еще главный российский режиссер (2022)](https://www.youtube.com/watch?v=VOAKxJqvW8Y)
 - [Russia Heads Into an Economic Abyss (2022)](https://www.youtube.com/watch?v=VB3LThyFe1U)
 - [Разрабы](https://razrabs.ru/) - Медиа для людей из IT. ([Tweet](https://twitter.com/fillpackart/status/1554104120679743488))
+- [ДДТ "Не с вами" (2022)](https://www.youtube.com/watch?v=Jbyx3TfjotY)

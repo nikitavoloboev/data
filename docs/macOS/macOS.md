@@ -282,3 +282,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Apple’s Virtualization framework is a great, free way to test new macOS betas (2022)](https://arstechnica.com/gadgets/2022/07/how-to-use-free-virtualization-apps-to-safely-test-the-macos-ventura-betas/)
 - [Advice on keeping macOS clean (2022)](https://twitter.com/ShriramKMurthi/status/1553954621294489600)
 - [Running Linux microVMs on macOS (M1/M2) (2022)](https://slp.prose.sh/running-microvms-on-m1)
+- [libSandy](https://github.com/opa334/libSandy) - Securely extend the sandbox of system processes and user applications.

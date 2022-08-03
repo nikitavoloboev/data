@@ -102,3 +102,4 @@ title: TLS
 - [TLSX](https://github.com/projectdiscovery/tlsx) - Fast and configurable TLS grabber focused on TLS based data collection and analysis.
 - [Bertie](https://github.com/cryspen/bertie) - Minimal, high-assurance implementation of TLS 1.3 written in subset of Rust called hacspec.
 - [Picotls](https://github.com/h2o/picotls) - TLS 1.3 implementation in C.
+- [The Illustrated DTLS Connection: Every Byte Explained](https://dtls.xargs.org/) ([Code](https://github.com/syncsynchalt/illustrated-dtls))

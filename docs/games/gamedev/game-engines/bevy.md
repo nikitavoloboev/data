@@ -52,3 +52,5 @@ title: Bevy Engine
 - [big-brain](https://github.com/zkat/big-brain) - Utility AI library for games, built for the Bevy Game Engine.
 - [Bevy 0.8 (2022)](https://bevyengine.org/news/bevy-0-8/) ([Reddit](https://www.reddit.com/r/rust/comments/wc0sqc/bevy_08/)) ([HN](https://news.ycombinator.com/item?id=32287828))
 - [Bevy Parallax](https://github.com/Corrosive-Games/bevy-parallax) - Parallax background plugin for Bevy.
+- [Bevy-template-rs](https://github.com/taurr/bevy-template-rs) - Cargo-generate template for Bevy projects.
+- [Bevy Scripting Plugin](https://github.com/makspll/bevy_mod_scripting)

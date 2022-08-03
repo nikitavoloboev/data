@@ -708,6 +708,7 @@
 - [ReadStat](https://github.com/queryverse/ReadStat.jl) - Read files from Stata, SAS, and SPSS.
 - [CompTime](https://github.com/olynch/CompTime.jl) - Library for compile-time computing in Julia.
 - [Scratch.jl](https://github.com/JuliaPackaging/Scratch.jl) - Scratch spaces for all your persistent mutable data needs.
+- [ShapeCheck.jl](https://github.com/MasonProtter/ShapeCheck.jl) - Nice syntax for runtime shape checking of function outputs given their inputs.
 
 ## Links
 

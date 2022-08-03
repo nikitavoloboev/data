@@ -184,3 +184,4 @@
 - [a11y-color-contrast](https://github.com/sondr3/a11y-color-contrast) - TypeScript package to calculate WCAG 2.0/3.0 and APCA color contrasts.
 - [Gradientos](https://www.gradientos.app/) - Makes it easy to choose gradients. ([Code](https://github.com/henripar/gradientos))
 - [Iris](https://github.com/Kaesebrot84/iris) - CLI tool that creates color palettes from images using the median cut algorithm.
+- [Color Gradient](https://mazznoer.github.io/colorgrad-js/) - High-performance JavaScript color gradient library powered by Rust + WebAssembly. ([Code](https://github.com/mazznoer/colorgrad-js))
