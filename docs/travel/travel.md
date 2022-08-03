@@ -129,3 +129,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Airalo](https://www.airalo.com/) - Local and regional eSIMs for travellers.
 - [List of countries by tax rates - Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_tax_rates)
 - [Steller](https://steller.co/) - Discover Epic Experiences. ([Twitter](https://twitter.com/Stellerstories))
+- [Alternative wonders of the world](https://twitter.com/culturaltutor/status/1553472360434515973) ([HN](https://news.ycombinator.com/item?id=32295763))

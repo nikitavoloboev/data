@@ -132,3 +132,4 @@ title: LLVM
 - [Lazification of Function Arguments](https://github.com/lac-dcc/wyvern) - Automatic conversion of call by value into call by need in the LLVM IR.
 - [Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](https://github.com/zhengyang92/minotaur)
 - [Ghidra-to-LLVM](https://github.com/toor-de-force/Ghidra-to-LLVM) - Binary-to-LLVM IR lifter that leverages Ghidra's IR and analysis.
+- [LLVM on iOS](https://github.com/light-tech/LLVM-On-iOS) - How to use LLVM + Clang to provide an iOS app with some scripting capability.

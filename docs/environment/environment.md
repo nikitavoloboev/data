@@ -191,3 +191,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [Ask HN: What's your climate change survival strategy? (2022)](https://news.ycombinator.com/item?id=32186240)
 - [The Global Cost of Corrosion](http://impact.nace.org/economic-impact.aspx#) ([HN](https://news.ycombinator.com/item?id=32226267))
 - [Northvolt](https://northvolt.com/) - Swedish battery developer and manufacturer, specializing in lithium-ion technology for electric vehicles. ([Europe's first homegrown gigafactory delivers](https://northvolt.com/articles/northvoltett-delivers/))
+- [Climate endgame: exploring catastrophic climate change scenarios (2022)](https://www.pnas.org/doi/full/10.1073/pnas.2108146119) ([HN](https://news.ycombinator.com/item?id=32323757))

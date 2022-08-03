@@ -247,6 +247,7 @@
 - [Interceptor](https://github.com/exoscale/interceptor) - Small Interceptor lib for clojure.
 - [Marginalia](https://github.com/gdeer81/marginalia) - Ultra-lightweight literate programming for clojure.
 - [Goose](https://github.com/nilenso/goose) - Simple, Reliable & Scalable background processing library for Clojure.
+- [xforms](https://github.com/cgrand/xforms) - Extra transducers and reducing fns for Clojure(script).
 
 ## Links
 

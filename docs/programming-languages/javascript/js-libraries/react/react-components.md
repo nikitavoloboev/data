@@ -327,6 +327,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [React Lite YouTube Embed](https://github.com/ibrahimcesar/react-lite-youtube-embed) - Private by default, faster and cleaner YouTube embed component for React applications.
 - [KMenu](https://github.com/harshhhdev/kmenu) - Animated and accessible command menu.
 - [Foldable](https://github.com/TheUiTeam/foldable) - Fully automated and animated Collapse primitive.
+- [Tunnel-Rat](https://github.com/pmndrs/tunnel-rat) - Potential cross renderer portal.
 
 ## Links
 

@@ -387,3 +387,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [AV converter](https://av-converter.com/) - Audio / Video Converter. ([Code](https://github.com/CrypticSignal/AV-converter))
 - [VVenC](https://github.com/fraunhoferhhi/vvenc) - Fraunhofer Versatile Video Encoder.
 - [VVdeC](https://github.com/fraunhoferhhi/vvdec) - Fraunhofer Versatile Video Decoder.
+- [Ask HN: Why has quality of YouTube reduced drastically? (2022)](https://news.ycombinator.com/item?id=32328207)

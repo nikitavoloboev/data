@@ -49,3 +49,4 @@
 - [STM32LowPower](https://github.com/stm32duino/STM32LowPower) - Arduino Low Power library for STM32.
 - [Arduino IDE 2.x](https://github.com/arduino/arduino-ide)
 - [ESP32-targz](https://github.com/tobozo/ESP32-targz) - Arduino library to unpack/uncompress tar, gz, and tar.gz files on ESP32 and ESP8266.
+- [Introducing multitasking to Arduino (2022)](https://blog.arduino.cc/2022/08/02/introducing-multitasking-to-arduino/) ([HN](https://news.ycombinator.com/item?id=32320727))

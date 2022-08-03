@@ -2,6 +2,8 @@
 
 [Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) & [Mastering Embedded Linux](https://www.thirtythreeforty.net/series/mastering-embedded-linux/) are useful reads. [TinyGo](https://github.com/tinygo-org/tinygo) is nice. [RTIC (Real-Time Interrupt-driven Concurrency)](https://github.com/rtic-rs/cortex-m-rtic) is fascinating.
 
+Also looking into [Embassy](https://embassy.dev/).
+
 ## Interesting chips
 
 - [ESP32](https://en.wikipedia.org/wiki/ESP32)

@@ -212,3 +212,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Wpull](https://github.com/ArchiveTeam/wpull) - Wget-compatible web downloader and crawler.
 - [City Scrapers](https://github.com/City-Bureau/city-scrapers) - Scrape, standardize and share public meetings from local government websites.
 - [Lambda Soup](https://github.com/aantron/lambdasoup) - Functional HTML scraping and rewriting with CSS in OCaml.
+- [linkchecker](https://github.com/Jasstkn/link-checker) - Simple CLI tool to find all broken links in your website.

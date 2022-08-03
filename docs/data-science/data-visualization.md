@@ -174,3 +174,4 @@
 - [LovelyPlots](https://github.com/killiansheriff/LovelyPlots) - Style sheets to nicely format figures for scientific papers, thesis and presentations while keeping them fully editable in Adobe Illustrator.
 - [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
 - [Visualize Value Archive](https://archivve.visualizevalue.com/)
+- [Firefly: A browser-based interactive 3D data visualization tool for large data (2022)](https://arxiv.org/abs/2207.13706) ([HN](https://news.ycombinator.com/item?id=32295964))

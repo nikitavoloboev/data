@@ -572,6 +572,7 @@
 - [secrets](https://github.com/stouset/secrets) - Library to help Rust programmers safely held cryptographic secrets in memory.
 - [crrl](https://github.com/pornin/crrl) - Rust library for cryptographic research.
 - [Private-ID](https://github.com/facebookresearch/Private-ID) - Collection of algorithms to match records between two parties, while preserving the privacy of these records.
+- [twenty-first](https://github.com/Neptune-Crypto/twenty-first) - Cryptography implementations in Rust.
 
 ## Linux
 
@@ -1279,7 +1280,7 @@
 - [btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library.
 - [sysinfo](https://github.com/GuillaumeGomez/sysinfo) - System handler to interact with processes.
 - [Peroxide](https://github.com/Axect/Peroxide) - Rust numeric library contains linear algebra, numerical analysis, statistics and machine learning tools with R, MATLAB, Python like macros.
-- [Embassy](https://github.com/akiles/embassy) - Rust embedded async tools.
+- [Embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. ([Web](https://embassy.dev/))
 - [uniffi](https://github.com/mozilla/uniffi-rs) - Multi-language bindings generator for rust.
 - [gaol](https://github.com/servo/gaol) - Cross-platform application sandboxing for Rust.
 - [auto_enums](https://github.com/taiki-e/auto_enums) - Library for to allow multiple return types by automatically generated enum.

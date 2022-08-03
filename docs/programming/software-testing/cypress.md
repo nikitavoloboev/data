@@ -56,3 +56,4 @@ title: Cypress
 - [Cypress Chrome Recorder](https://github.com/cypress-io/cypress-chrome-recorder) - Export Cypress Tests from Google Chrome DevTools' Recorder.
 - [Cypress Snapshot](https://github.com/cypress-io/snapshot) - Adds value / object / DOM element snapshot testing support to Cypress test runner.
 - [Cypress Parallel](https://github.com/tgamauf/cypress-parallel) - GitHub action allows you to easily execute Cypress tests in parallel without the use of Cypress Dashboard.
+- [DeploySentinel](https://www.deploysentinel.com/) - Debug Flaky Cypress Tests. ([HN](https://news.ycombinator.com/item?id=32319404))

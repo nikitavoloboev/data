@@ -55,6 +55,7 @@ Below is a list of extensions I use.
 
 - [Scala (Metals)](https://marketplace.visualstudio.com/items?itemName=scalameta.metals) - Scala language server with rich IDE features. ([Code](https://github.com/scalameta/metals-vscode))
 - [Scala Syntax (official)](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) ([Code](https://github.com/scala/vscode-scala-syntax))
+- [Scaladex Search](https://marketplace.visualstudio.com/items?itemName=baccata.scaladex-search) - Looks up Scala libraries from VSCode. ([Code](https://github.com/Baccata/vscode-scaladex-search))
 
 ## Nix
 

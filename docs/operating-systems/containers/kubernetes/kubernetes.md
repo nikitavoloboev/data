@@ -8,6 +8,8 @@ title: Kubernetes
 
 [Kube-Hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) is nice as [Hetzner](https://www.hetzner.com/) has cheap servers.
 
+[Acorn](https://github.com/acorn-io/acorn) is useful.
+
 ## Notes
 
 - Kubernetes runs pods that contain 1 to n docker containers. So if you have your apps in the form of docker images you are ready to go.
@@ -785,3 +787,4 @@ title: Kubernetes
 - [kudo](https://github.com/jlevesy/kudo) - sudo for Kubernetes.
 - [How Kubernetes Reinvented Virtual Machines (in a good sense) (2022)](https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/)
 - [Ask HN: Have You Left Kubernetes? (2022)](https://news.ycombinator.com/item?id=32304834)
+- [Acorn](https://github.com/acorn-io/acorn) - Simple application deployment framework for Kubernetes.

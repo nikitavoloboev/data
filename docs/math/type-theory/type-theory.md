@@ -215,3 +215,4 @@ title: Type Theory
 - [Uniqueness Typing Simplified](http://www.edsko.net/pubs/ifl07-paper.pdf)
 - [Type-Signature](https://type-signature.com/) - Who Wants to Be a Millionaire - but with types. ([Code](https://github.com/andys8/type-signature-com))
 - [Implementation of type inference for System F in Scala 3](https://github.com/atennapel/systemf-scala)
+- [Why Duck Typing Is Safe (2020)](http://www.jerf.org/iri/post/2954)

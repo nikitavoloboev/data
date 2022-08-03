@@ -184,6 +184,7 @@
 - [Awesome Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
 - [Pearls of Functional Algorithm Design (2010)](https://doc.lagout.org/programmation/Functional%20Programming/Pearls%20of%20Functional%20Algorithm%20Design.pdf) ([OCaml Code](https://github.com/MassD/pearls))
 - [Functional Programming 101](https://github.com/readme/guides/functional-programming-basics)
+- [Why study functional programming? (2012)](https://acm.wustl.edu/functional/whyfp.php) ([HN](https://news.ycombinator.com/item?id=32321295))
 
 ## Images
 

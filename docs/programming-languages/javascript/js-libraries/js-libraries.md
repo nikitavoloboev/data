@@ -993,6 +993,8 @@
 - [nkeys.js](https://github.com/nats-io/nkeys.js) - Public-key signature system based on Ed25519 for the NATS ecosystem system for JavaScript.
 - [p-timeout](https://github.com/sindresorhus/p-timeout) - Timeout a promise after a specified amount of time.
 - [safe-json-value](https://github.com/ehmicky/safe-json-value) - JSON serialization should never fail.
+- [Config Array](https://github.com/humanwhocodes/config-array) - Glob-based configuration array utility.
+- [p-cancelable](https://github.com/sindresorhus/p-cancelable) - Create a promise that can be canceled.
 
 ## Links
 

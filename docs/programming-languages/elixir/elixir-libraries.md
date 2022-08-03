@@ -234,3 +234,4 @@
 - [How EEx Turns Your Template Into HTML (2022)](https://www.mitchellhanberg.com/how-eex-turns-your-template-into-html/)
 - [Elixir runtime configuration trap (2022)](https://michaldolata.appunite.com/post/elixir-runtime-configuration-trap)
 - [Lettuce](https://github.com/gilacost/lettuce) - Code watcher for elixir projects.
+- [The Curious Case of String.slice/3 (2022)](https://adworse.codes/the-curious-case-of-string-slice-3/)

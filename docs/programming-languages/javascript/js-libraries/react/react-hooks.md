@@ -23,6 +23,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Create React State](https://github.com/mfbx9da4/create-react-state) - React state management you already know how to use.
 - [Exome](https://github.com/Marcisbee/exome) - State manager for deeply nested states.
 - [Micro-observables](https://github.com/BeTomorrow/micro-observables) - Simple Observable library that can be used for easy state management in React applications.
+- [liquorstore](https://github.com/steveruizok/liquorstore) - Reactive store that is fine, really. It works with React.
 
 ## DB
 

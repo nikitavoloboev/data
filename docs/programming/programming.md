@@ -573,3 +573,4 @@
 - [Beej's Guides](https://beej.us/guide/)
 - [Ask HN: What are the best programming tricks you know? (2022)](https://news.ycombinator.com/item?id=32223834)
 - [Library Writing Realizations (2015)](https://cbloomrants.blogspot.com/2015/09/library-writing-realizations.html)
+- [Coding as a greybeard (2022)](https://news.ycombinator.com/item?id=32317441)

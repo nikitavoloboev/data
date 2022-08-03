@@ -631,3 +631,5 @@
 - [A Hazard Analysis Framework for Code Synthesis Large Language Models (2022)](https://arxiv.org/abs/2207.14157)
 - [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? (2022)](https://arxiv.org/abs/2202.12837) ([Code](https://github.com/Alrope123/rethinking-demonstrations))
 - [A Frustratingly Easy Approach for Entity and Relation Extraction (2021)](https://arxiv.org/abs/2010.12812) ([Code](https://github.com/princeton-nlp/PURE))
+- [Chinchilla's Wild Implications (2022)](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications) ([HN](https://news.ycombinator.com/item?id=32321522))
+- [DALL·E 2 prompt book (2022)](http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf) ([HN](https://news.ycombinator.com/item?id=32322329))

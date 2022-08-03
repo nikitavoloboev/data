@@ -23,3 +23,4 @@ title: swc
 - [Rathernot](https://github.com/CPTNB/rathernot) - Web Linker. Takes all your web files and smushes them into a single executable binary.
 - [SWC-coverage-instrument](https://github.com/kwonoj/swc-coverage-instrument) - Istanbuljs compatible SWC coverage instrumentation plugin.
 - [dprint-swc-ext](https://github.com/dprint/dprint-swc-ext) - Functionality to make swc easier to work with.
+- [swc-jotai](https://github.com/pmndrs/swc-jotai) - SWC plugins for Jotai.

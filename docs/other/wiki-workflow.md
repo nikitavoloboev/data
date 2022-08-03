@@ -514,3 +514,4 @@ I want to:
 - [Zettelkasten 101 Series: What Is a Fleeting Note?](https://writing.bobdoto.computer/what-is-a-fleeting-note/) ([HN](https://news.ycombinator.com/item?id=32225169))
 - [Ask HN: What is a sustainable methodology for taking notes of your learning? (2022)](https://news.ycombinator.com/item?id=32211734)
 - [Ask HN: What's your note-taking methodology? (2022)](https://news.ycombinator.com/item?id=32252957)
+- [Affine](https://affine.pro/) - Next-Gen Knowledge Base to Replace Notion & Miro. ([Code](https://github.com/toeverything/AFFiNE))

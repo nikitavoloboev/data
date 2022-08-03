@@ -948,6 +948,8 @@
 - [ferret](https://github.com/g8a9/ferret) - Python package for benchmarking interpretability techniques.
 - [Etils](https://github.com/google/etils) - Collection of eclectic utils for python.
 - [Oxalis](https://github.com/strongbugman/oxalis) - Distributed async task/job queue, like Celery for asyncio world.
+- [Kink](https://github.com/kodemore/kink) - Dependency injection container made for Python.
+- [Diffractsim](https://github.com/rafael-fuente/diffractsim) - Diffraction simulator for exploring and visualizing physical optics.
 
 ## Notes
 

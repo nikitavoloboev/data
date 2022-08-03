@@ -178,3 +178,4 @@
 - [Marine Robotics Group @ MIT](https://marinerobotics.mit.edu/) ([GitHub](https://github.com/MarineRoboticsGroup))
 - [Towards robot accelerators, democratizing hardware acceleration in robotics](https://news.accelerationrobotics.com/towards-robot-accelerators-democratizing-hardware-acceleration-in-robotics/) ([HN](https://news.ycombinator.com/item?id=32221072))
 - [What type of software is widely used for robotics in industry? (2022)](https://www.reddit.com/r/robotics/comments/wanqso/what_type_of_software_is_widely_used_for_robotics/)
+- [Roboticists discover alternative physics (2022)](https://phys.org/news/2022-07-roboticists-alternative-physics.html) ([HN](https://news.ycombinator.com/item?id=32294403))

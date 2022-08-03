@@ -892,3 +892,4 @@
 - [DCT-Net: Domain-Calibrated Translation for Portrait Stylization (2022)](https://arxiv.org/abs/2207.02426) ([Code](https://github.com/menyifang/DCT-Net))
 - [Pretraining is All You Need for Image-to-Image Translation (2022)](https://arxiv.org/abs/2205.12952) ([Code](https://github.com/PITI-Synthesis/PITI))
 - [Vision-Centric BEV Perception: A Survey](https://github.com/4DVLab/Vision-Centric-BEV-Perception)
+- [Share With Thy Neighbors: Single-View Reconstruction by Cross-Instance Consistency (2022)](https://arxiv.org/abs/2204.10310) ([Code](https://github.com/monniert/unicorn))

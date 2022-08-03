@@ -386,3 +386,4 @@
 - [Fields Medals 2022](https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2022) ([HN](https://news.ycombinator.com/item?id=31994289))
 - [What is your favorite theorem in mathematics? (2022)](https://www.reddit.com/r/math/comments/vue45b/what_is_your_favorite_theorem_in_mathematics/)
 - [Is the Kalman filter just a low-pass filter?](https://jbconsulting.substack.com/p/is-the-kalman-filter-just-a-low-pass) ([HN](https://news.ycombinator.com/item?id=32271351))
+- [Mathematical Tours of Data Sciences](https://mathematical-tours.github.io/) ([Code](https://github.com/mathematical-tours/mathematical-tours.github.io))

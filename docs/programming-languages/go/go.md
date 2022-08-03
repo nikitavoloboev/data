@@ -832,3 +832,4 @@ if err != nil {
 - [Using Firecracker and Go to run short-lived, untrusted code execution jobs (2021)](https://stanislas.blog/2021/08/firecracker/) ([HN](https://news.ycombinator.com/item?id=32317520))
 - [Align the happy path to the left edge](https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88)
 - [Go Flow Levee](https://github.com/google/go-flow-levee) - Static analysis tool works to ensure your program's data flow does not spill beyond its banks.
+- [Go 1.19 Released (2022)](https://go.dev/doc/go1.19) ([HN](https://news.ycombinator.com/item?id=32321499))

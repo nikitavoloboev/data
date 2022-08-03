@@ -28,3 +28,4 @@ title: FoundationDB
 - [fdb2kafka](https://github.com/losfair/fdb2kafka) - Ship consistent logs from FoundationDB to Kafka.
 - [mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on top of FoundationDB. ([HN](https://news.ycombinator.com/item?id=32269287))
 - [fdbfs](https://github.com/jkominek/fdbfs) - FoundationDB-backed FUSE filesystem.
+- [Diviner](https://github.com/xxuejie/diviner) - FoundationDB style deterministic testing framework for async/await Rust.

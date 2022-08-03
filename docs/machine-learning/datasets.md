@@ -188,3 +188,4 @@
 - [MisInfoText](https://github.com/sfu-discourse-lab/MisInfoText) - Datasets for fake news and misinformation detection.
 - [Awesome Dataset Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation)
 - [Cleaning data with sqlite-utils and Datasette](https://datasette.io/tutorials/clean-data)
+- [Starter code for working with the YouTube-8M dataset](https://github.com/google/youtube-8m)

@@ -148,3 +148,4 @@ source script
 -   [Type-ish](https://github.com/Mythra/typeish) - Runtime type checker for bash functions, implemented entirely in bash.
 -   [Bash, Pipes, & Socket SDK (2022)](https://socketsupply.co/blog/bash-pipes-and-socket-sdk/)
 -   [Vercel Bash](https://github.com/importpw/vercel-bash) - Bash Runtime for Vercel serverless functions.
+-   [Beautysh](https://github.com/lovesegfault/beautysh) - Bash beautifier for the masses.

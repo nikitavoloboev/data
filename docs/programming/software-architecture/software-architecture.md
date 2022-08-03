@@ -259,3 +259,5 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 - [Ask HN: What is best way to do hands-on practice for system design? (2022)](https://news.ycombinator.com/item?id=32093879)
 - [Nile](https://www.thenile.dev/) - Build the control plane for your infrastructure SaaS product.
+- [The disproportionate influence of early tech decisions (2022)](https://brandur.org/fragments/early-tech-decisions) ([HN](https://news.ycombinator.com/item?id=32296807))
+- [Scale up your app with Microfeatures (2022)](https://alexanderweiss.dev/blog/2022-01-12-scale-up-your-app-with-microfeatures)

@@ -197,3 +197,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Typograms](https://code.sgo.to/typograms/) - Markdown-like renderer for ASCII diagrams. ([HN](https://news.ycombinator.com/item?id=32133345))
 - [GoAT](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams.
 - [Offline-docs](https://github.com/naveennamani/offline-docs) - Collection of scripts to build offline documentation for your favorite frameworks/libraries.
+- [Search less, browse more](https://buttondown.email/hillelwayne/archive/search-less-browse-more-7595/) ([Lobsters](https://lobste.rs/s/g4ku0m/search_less_browse_more))

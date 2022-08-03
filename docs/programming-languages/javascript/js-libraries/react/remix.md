@@ -160,3 +160,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Remix Routers](https://github.com/brophdawg11/remix-routers) - Collection of UI library implementations of the Remix Router.
 - [NextJS Data Patterns are Bad? I'm Coming Around To Remix... (2022)](https://www.youtube.com/watch?v=d6lKEV_3kxQ)
 - [remix-typedjson](https://github.com/kiliman/remix-typedjson) - Replacement for superjson to use in your Remix app.
+- [Advanced Remix Workshop](https://github.com/FrontendMasters/advanced-remix)

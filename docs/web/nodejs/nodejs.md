@@ -411,3 +411,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [pino-http](https://github.com/pinojs/pino-http) - High-speed HTTP logger for Node.js.
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Better file system API for Node.js.
 - [file-cache](https://github.com/azu/file-cache) - Node.js library that provide a cache for file metadata or file content.
+- [fine](https://github.com/simonecorsi/fine) - Zero dependency and opinionated package that gracefully shutdown Node.js applications.

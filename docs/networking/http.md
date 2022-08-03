@@ -287,3 +287,4 @@ title: HTTP
 - [Supporting HTTP/2 in Apache NiFi (2022)](https://exceptionfactory.com/posts/2022/07/07/supporting-http2-in-apache-nifi/)
 - [kawipiko](https://github.com/volution/kawipiko) - Lightweight static HTTP server written in Go; focused on serving static content as fast and efficient as possible.
 - [Determining if an HTTP request was sent as beacon/keepalive (2022)](https://mmazzarolo.com/blog/2022-07-23-determining-if-an-http-request-was-sent-as-beacon-keepalive/)
+- [curl with HTTP/3](https://github.com/unasuke/curl-http3)

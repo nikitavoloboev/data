@@ -172,3 +172,4 @@
 - [Sanbase GraphQL API in Elixir](https://github.com/santiment/sanbase2)
 - [How to Write a Functor in Elixir (2022)](https://blog.appsignal.com/2022/07/26/how-to-write-a-functor-in-elixir.html)
 - [Elixir versus Python for Data Science (2022)](https://dockyard.com/blog/2022/07/12/elixir-versus-python-for-data-science)
+- [Elixir Livebook now as a desktop app](https://news.livebook.dev/introducing-the-livebook-desktop-app-4C8dpu) ([HN](https://news.ycombinator.com/item?id=32320531))

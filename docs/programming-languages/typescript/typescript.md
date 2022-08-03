@@ -280,6 +280,7 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [Matt's Advanced TypeScript workshop](https://github.com/mattpocock/advanced-typescript-workshop)
 - [HypeScript](https://github.com/ronami/HypeScript) - Simplified TypeScript type system in TypeScript's own type system. ([HN](https://news.ycombinator.com/item?id=32259934))
 - [What's TypeScript compiling? Use a treemap to find out. (2022)](https://effectivetypescript.com/2022/07/30/treemap-for-source-files/)
+- [Unlocking type-safety superpowers in Typescript with nominal and refinement types (2022)](https://zackoverflow.dev/writing/nominal-and-refinement-types-typescript)
 
 ## Images
 

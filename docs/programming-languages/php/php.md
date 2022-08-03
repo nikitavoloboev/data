@@ -42,3 +42,4 @@ title: PHP
 - [NoVerify](https://github.com/VKCOM/noverify) - Fast linter (code static analysis utility) for PHP.
 - [Can I PHP?](https://caniphp.com/) - PHP feature support by version.
 - [PHP Developer roadmap](https://github.com/thecodeholic/php-developer-roadmap)
+- [I still love PHP and JavaScript (2022)](https://the.scapegoat.dev/why-i-love-php-and-javascript/) ([HN](https://news.ycombinator.com/item?id=32325055))

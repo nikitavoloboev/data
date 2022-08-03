@@ -214,3 +214,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Books to read to understand financial crime (2022)](https://www.economist.com/the-economist-reads/2022/07/11/the-best-books-to-read-to-understand-financial-crime) ([HN](https://news.ycombinator.com/item?id=32091288))
 - [Serverless Invoices](https://invoices.mokuapp.io/) - Free invoicing tool for freelancers and small businesses. ([Code](https://github.com/mokuappio/serverless-invoices))
 - [Understanding Jane Street (2022)](https://www.thediff.co/p/jane-street) ([HN](https://news.ycombinator.com/item?id=32314623))
+- [Living on $100k - How much I spend in a month (2022)](https://www.youtube.com/watch?v=qNj2rAyhQbM)

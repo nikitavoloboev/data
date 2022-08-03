@@ -42,7 +42,7 @@
 - [Small minimalistic LISP interpreter in Node](https://github.com/mafintosh/minilisp)
 - [Understanding the Power of LISP (2020)](https://joshbradley.me/understanding-the-power-of-lisp/) ([HN](https://news.ycombinator.com/item?id=29771957))
 - [GLISP](https://github.com/baku89/glisp) - LISP-based graphic design tool.
-- [Programming Algorithms in Lisp](https://leanpub.com/progalgs)
+- [Programming Algorithms in Lisp](https://leanpub.com/progalgs) ([Code](https://github.com/vseloved/progalgs-code))
 - [What is the best way to learn Lisp in 2020?](https://news.ycombinator.com/item?id=22913750)
 - [hy](https://github.com/hylang/hy) - Dialect of Lisp that's embedded in Python. ([Docs](http://hylang.org/)) ([Why Hy?](https://docs.hylang.org/en/alpha/whyhy.html)) ([HN](https://news.ycombinator.com/item?id=31247053))
 - [Simple lisp interpreter written from scratch in TS](https://github.com/christianscott/lisp)

@@ -1,7 +1,3 @@
----
-slug: .
----
-
 # macOS apps
 
 I maintain a big list of apps I use on my system [here](https://github.com/nikitavoloboev/my-mac-os) together with why and how I use them.

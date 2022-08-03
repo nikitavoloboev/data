@@ -232,3 +232,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [LTX](https://github.com/superfly/ltx) - Go library for the LTX file format.
 - [SQLite Internals: Pages and B-trees (2022)](https://fly.io/blog/sqlite-internals-btree/) ([HN](https://news.ycombinator.com/item?id=32250426))
 - [SQLite VFS extension](https://github.com/mlin/sqlite_zstd_vfs) - SQLite3 extension for read/write storage compression with Zstandard.
+- [sqlite-html](https://github.com/asg017/sqlite-html) - SQLite extension for querying, manipulating, and creating HTML elements.

@@ -165,3 +165,4 @@ title: Erlang
 - [My favorite Erlang Container (2022)](https://ferd.ca/my-favorite-erlang-container.html) ([HN](https://news.ycombinator.com/item?id=32043460))
 - [N2O](https://github.com/synrc/n2o) - Embeddable message protocol loop library for WebSocket, HTTP, MQTT and TCP servers.
 - [epgsql](https://github.com/epgsql/epgsql) - Erlang PostgreSQL client library.
+- [eqWAlizer](https://github.com/WhatsApp/eqwalizer) - Type-checker for Erlang. ([HN](https://news.ycombinator.com/item?id=32330284))

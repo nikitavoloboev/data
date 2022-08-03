@@ -183,6 +183,8 @@
 - [Scala-fx](https://github.com/47deg/TBD) - Effects library for Scala 3 that introduces structured concurrency and an abilities system to describe pure functions and programs.
 - [DUCT](https://github.com/justinhj/duct) - Scala 3 category theory and functional programming library.
 - [OS-Lib](https://github.com/com-lihaoyi/os-lib) - Simple Scala interface to common OS filesystem and subprocess APIs.
+- [PureConfig](https://github.com/pureconfig/pureconfig) - Scala library for loading configuration files.
+- [jsonrpclib](https://github.com/neandertech/jsonrpclib) - Cross-platform pure-scala JsonRPC library.
 
 ## Links
 
