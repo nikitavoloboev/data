@@ -431,6 +431,10 @@ Below is a list of extensions I use.
 - [Swift for VSCode](https://github.com/swift-server/vscode-swift)
 - [Swift Development Environment](https://marketplace.visualstudio.com/items?itemName=vknabel.vscode-swift-development-environment) ([Code](https://github.com/vknabel/vscode-swift-development-environment))
 
+## WASM
+
+- [WATI](https://marketplace.visualstudio.com/items?itemName=NateLevin.wati) - Autocomplete when writing WebAssembly Text (.wat) files. ([Code](https://github.com/UltimatePro-Grammer/wati))
+
 ## Docker
 
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easily build and deploy containerized applications from VS Code.

@@ -15,6 +15,10 @@ I also drink an occasional coffee although I try avoid it as it disrupts my slee
 - [Milk Punch](https://punchdrink.com/articles/clarified-milk-punch-cocktail-recipe-has-lost-its-mind/)
 - [ChariTea mate](https://charitea.com/en/product/charitea-mate/)
 
+## Notes
+
+- [NEIPA beer seems interesting](https://www.uiltjebrewing.com/en/beers/neipa/)
+
 ## Links
 
 - [Soft drink recipes](https://github.com/blinry/soft-drink-recipes)

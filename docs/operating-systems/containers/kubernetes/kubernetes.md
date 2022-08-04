@@ -788,3 +788,4 @@ title: Kubernetes
 - [How Kubernetes Reinvented Virtual Machines (in a good sense) (2022)](https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/)
 - [Ask HN: Have You Left Kubernetes? (2022)](https://news.ycombinator.com/item?id=32304834)
 - [Acorn](https://github.com/acorn-io/acorn) - Simple application deployment framework for Kubernetes.
+- [Meta configuration for Kubernetes GitHub Org](https://github.com/kubernetes/org)

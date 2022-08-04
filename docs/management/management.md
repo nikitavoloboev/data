@@ -208,3 +208,4 @@
 - [Awesome Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy)
 - [The Engineering Manager | James Stanier](https://theengineeringmanager.substack.com/)
 - [Reduce Friction (2022)](https://blog.ceejbot.com/posts/reduce-friction/) ([Tweet](https://twitter.com/ceejbot/status/1550934530264932352))
+- [Execution Through Ownership (2022)](https://dune.com/blog/execution-ownership)

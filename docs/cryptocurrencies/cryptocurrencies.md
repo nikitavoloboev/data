@@ -10,6 +10,8 @@ From my research, [FTX](https://ftx.com/referrals#a=58425911) seemed to be the c
 
 I do hope someone builds a [true decentralized ramp up](https://news.ycombinator.com/item?id=32240404) to a true privacy coin like [Monero](monero.md). So you can go from FIAT to private anonymous transactions at any time and escape the traditional financial systems that use your money to wage war or do other silly things like is the case with [Russia](../travel/visited/russia.md)/[China](../travel/visited/china.md) and to a lesser extent most other countries. The way I see it happening now is we have FIAT to [Solana](../databases/blockchain/solana.md) already via traditional marketplaces. Then you can have smart DEX that swaps Solana for Monero. You transact privately there and swap back to Solana then to FIAT whenever you need to do something that is not yet ready for this brave new world. I do hope and think it would be possible to have private transactions for citizens yet still enforce some kind of donations to the public so governments can function. Just things should be transparent so the money is traced publicly as to what it gets spent on whether its education / better cities / roads / etc.
 
+[Dune Analytics](https://dune.com/) is great at analyzing public blockchain data.
+
 ## Interesting
 
 - [Monero](monero.md) - Secure, private, untraceable cryptocurrency.
@@ -287,3 +289,4 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 - [Canonical Crypto](https://www.canonical.cc/) - Fund focused on investing in founders building infrastructure in web3/crypto. ([Tweet](https://twitter.com/ai/status/1532376867952631809))
 - [Celsius Appears insolvent, and it's taking the whole crypto market with it (2022)](https://twitter.com/jonwu_/status/1536476104986267648) ([HN](https://news.ycombinator.com/item?id=31734660))
 - [The endless search for a crypto use case (2022)](https://networked.substack.com/p/the-endless-search-for-a-crypto-use) ([HN](https://news.ycombinator.com/item?id=32320456))
+- [Who makes the best Dune dashboards?](https://twitter.com/gaby_goldberg/status/1542175548041965568)

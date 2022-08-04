@@ -621,6 +621,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
   4. Make it easy to adopt/delete.
 - [We shape our tools and thereafter our tools shape us.](https://twitter.com/druchtie/status/1387827865144729603)
 - [I've stopped admiring very talented engineers who can hold a lot of complexity in their head and started admiring very talented engineers who have moved a lot of complexity outside their head and into tools, and I like it much much better this way.](https://twitter.com/fasterthanlime/status/1468739998505656327)
+- [Everything that takes longer from input to output for user is a lost opportunity for creation.](https://www.youtube.com/watch?v=PUv66718DII)
 
 ## Links
 
