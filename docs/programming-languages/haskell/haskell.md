@@ -449,3 +449,4 @@ title: Haskell
 - [Should Haskell be rebranded away from "Pure Functional Programming" (2022)](https://discourse.haskell.org/t/should-haskell-be-rebranded-away-from-pure-functional-programming/4850)
 - [Imperial College London final Haskell exam solutions](https://github.com/tomcobley/haskell-final-exams)
 - [Magical Haskell Book](https://leanpub.com/magicalhaskell/read) ([Lobsters](https://lobste.rs/s/ulial1/magical_haskell))
+- [Haskell Bookcamp Book (2022)](https://www.manning.com/books/haskell-bookcamp) ([Tweet](https://twitter.com/graninas/status/1555539289706041345))

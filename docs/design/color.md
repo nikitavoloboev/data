@@ -185,3 +185,4 @@
 - [Gradientos](https://www.gradientos.app/) - Makes it easy to choose gradients. ([Code](https://github.com/henripar/gradientos))
 - [Iris](https://github.com/Kaesebrot84/iris) - CLI tool that creates color palettes from images using the median cut algorithm.
 - [Color Gradient](https://mazznoer.github.io/colorgrad-js/) - High-performance JavaScript color gradient library powered by Rust + WebAssembly. ([Code](https://github.com/mazznoer/colorgrad-js))
+- [Penumbra Color Theme](https://github.com/nealmckee/penumbra) - Perceptually optimized color palette based on natural light. ([HN](https://news.ycombinator.com/item?id=32348461))

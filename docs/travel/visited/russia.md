@@ -593,3 +593,5 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Russia Heads Into an Economic Abyss (2022)](https://www.youtube.com/watch?v=VB3LThyFe1U)
 - [Разрабы](https://razrabs.ru/) - Медиа для людей из IT. ([Tweet](https://twitter.com/fillpackart/status/1554104120679743488))
 - [ДДТ "Не с вами" (2022)](https://www.youtube.com/watch?v=Jbyx3TfjotY)
+- [A typical Russian custom you're proud of?](https://www.reddit.com/r/AskARussian/comments/wg5uft/a_typical_russian_custom_youre_proud_of/)
+- [Спекулянты, «Березки» и запрет музыкантов. Как Путин вернул себе свои 80-е (2022)](https://theins.ru/news/253797)

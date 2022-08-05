@@ -532,6 +532,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Instorage](https://github.com/nickname76/instorage) - Simple, easy to use database for faster development of small projects and MVPs in Go. Uses Badger as a storage.
 - [cache](https://github.com/twmb/go-cache) - Concurrency safe, mostly lock-free, singleflight request collapsing generic cache with support for stale values.
 - [superbasic](https://github.com/wroge/superbasic) - Compiles expressions and value-lists into SQL strings and thus offers an alternative to conventional query builders.
+- [TiKV Go Client](https://github.com/tikv/client-go)
 
 ## ML
 
@@ -594,6 +595,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-moremath](https://github.com/aclements/go-moremath) - Assortment of more specialized math routines for Go.
 - [gambas](https://github.com/jpoly1219/gambas) - Data analysis tool for Go. Similar to the famous Python library pandas.
 - [rand](https://github.com/flyingmutant/rand) - Fast, high quality alternative to math/rand and golang.org/x/exp/rand.
+- [Maths](https://github.com/theriault/maths) - Includes mathematical functions not defined in the standard Go math package.
 
 ## Biology
 
@@ -1768,6 +1770,10 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [reload](https://github.com/slok/reload) - Simple managed reload mechanism for Go.
 - [grsync](https://github.com/zloylos/grsync) - Go rsync wrapper.
 - [Grafana Go regexp](https://github.com/grafana/regexp) - Faster version of the Go regexp package.
+- [Go-generics](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities for Go.
+- [Imagemeta](https://github.com/evanoberholster/imagemeta) - Image Metadata (Exif and XMP) extraction for JPEG, HEIC, AVIF, TIFF and Camera Raw in Go.
+- [OpenFeature Go SDK](https://github.com/open-feature/golang-sdk)
+- [compute-sdk-go](https://github.com/fastly/compute-sdk-go) - Go SDK for building Compute@Edge applications with TinyGo.
 
 ## Links
 
@@ -1896,3 +1902,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [nonamedreturns](https://github.com/firefart/nonamedreturns) - Go linter to detect named returns.
 - [structscanner](https://github.com/VinGarcia/structscanner) - Make it easy to write code that scans data into structs in safe and efficient manner.
 - [Magefiles: Stop on first error (2022)](https://carolynvanslyck.com/blog/2022/07/magefiles-stop-on-first-error/)
+- [Go on Compute@Edge](https://developer.fastly.com/learning/compute/go/) ([Article](https://www.fastly.com/jp/blog/compute-edge-go-support-has-arrived))

@@ -267,3 +267,5 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [Quintessential literature for those venturing into ENM (2022)](https://www.reddit.com/r/nonmonogamy/comments/wafp9h/what_do_you_consider_quintessential_literature/)
 - [Dear Monogamous people, you Do Not have to give Polyamory a try](https://www.reddit.com/r/polyamory/comments/sntvv3/dear_monogamous_people_you_do_not_have_to_give/)
 - [What Makes a Good Hinge Partner](https://www.multiamory.com/podcast/334-what-makes-a-good-hinge-partner)
+- [What’s your favorite thing about being non-monogamous and why?](https://www.reddit.com/r/nonmonogamy/comments/wg8y5k/whats_your_favorite_thing_about_being/)
+- [Tell HN: I interviewed my dad before he died (2022)](https://news.ycombinator.com/item?id=32349006)

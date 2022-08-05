@@ -102,3 +102,4 @@ title: Vite
 - [Vite Plugin Class Mangler](https://github.com/kiosion/vite-plugin-class-mangler) - Minify and obfuscate CSS classes in production.
 - [vite-plugin-radar](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader for vite.
 - [vite-plugin-live-reload](https://github.com/arnoson/vite-plugin-live-reload) - Simple live reloading plugin for vite.
+- [Vite Test Utils](https://github.com/kazupon/vite-test-utils)

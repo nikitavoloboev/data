@@ -119,3 +119,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [When Everything Is Important but Nothing Is Getting Done](https://sharedphysics.com/everything-is-important/) ([HN](https://news.ycombinator.com/item?id=31481888))
 - [Ask HN: How do you stay focused at work? (2022)](https://news.ycombinator.com/item?id=31608397)
 - [I don't have notifications enabled, nowhere and never (2022)](https://news.ycombinator.com/item?id=32274344)
+- [Against Discipline](https://irinadumitrescu.substack.com/p/against-discipline) ([HN](https://news.ycombinator.com/item?id=32340703))

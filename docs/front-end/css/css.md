@@ -541,3 +541,4 @@ all: unset
 - [Solving “The Dangler” Conundrum with Container Queries and :has() (2022)](https://daverupert.com/2022/07/solving-the-dangler-conundrum-with-has-and-container-queries/)
 - [css_parser](https://github.com/deno-front-end/css-parser) - CSS Lexer & Parser implementation for Deno.
 - [Fade-in animation that is not so boring in CSS](https://twitter.com/shuding_/status/1552438750470340610)
+- [Finer grained control over CSS transforms with individual transform properties (2022)](https://web.dev/css-individual-transform-properties/)

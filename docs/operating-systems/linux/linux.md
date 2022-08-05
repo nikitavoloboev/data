@@ -573,3 +573,4 @@ title: Linux
 - [knock-out](https://github.com/jbaublitz/knock-out) - Crate with an example of a kernel module in Rust.
 - [stratisd](https://github.com/stratis-storage/stratisd) - Easy to use local storage management for Linux.
 - [Rust linux kernel development | JackOS](https://www.jackos.io/rust-kernel/rust-for-linux.html) ([Code](https://github.com/jackos/jackos.io))
+- [Learning eBPF Book](https://github.com/lizrice/learning-ebpf)

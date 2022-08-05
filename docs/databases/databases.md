@@ -332,7 +332,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Scalable SQL and NoSQL Data Stores](http://www.cattell.net/datastores/Datastores.pdf) - Good paper that helps differentiate similar but different datastores. Really helpful when you're trying to pick a modern data solution.
 - ["Transactions: myths, surprises and opportunities" by Martin Kleppmann (2015)](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 - [Using Apache Arrow, Calcite and Parquet to build a Relational Cache (2017)](https://www.youtube.com/watch?v=KMl9Py8o3pk)
-- [Apache Arrow](https://github.com/apache/arrow) - Development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast. ([Web](https://arrow.apache.org/)) ([HN](https://news.ycombinator.com/item?id=23965209))
+- [Apache Arrow](https://github.com/apache/arrow) - Development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast. ([Web](https://arrow.apache.org/)) ([HN](https://news.ycombinator.com/item?id=23965209)) ([Awesome](https://github.com/thisisnic/awesome-arrow-r))
 - [Blazer](https://github.com/ankane/blazer) - Explore your data with SQL. Easily create charts and dashboards, and share them with your team.
 - [Moving on from RocksDB to something FASTER - Matthew Brookes (2019)](https://www.youtube.com/watch?v=xWNbbkQMtfI)
 - [List of software that turns your database into a REST/GraphQL API](https://github.com/dbohdan/automatic-api)

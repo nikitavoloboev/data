@@ -100,3 +100,4 @@ title: Figma
 - [What is your favorite Figma feature? (2022)](https://twitter.com/skuwamoto/status/1532206105115254784)
 - [Figma Godly Starter](https://godly.shop/product/starter) ([Tweet](https://twitter.com/darylginn/status/1534055263392571393))
 - [Learn Design with Figma](https://www.figma.com/resources/learn-design/)
+- [Figma Academy](https://www.figma.academy/) - Product Design Program.

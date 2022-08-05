@@ -24,3 +24,4 @@ title: Cosmos
 - [Regen Ledger](https://github.com/regen-network/regen-ledger) - Distributed ledger for ecology built on top of the cosmos-sdk.
 - [Awesome Cosmos](https://github.com/cosmos/awesome)
 - [CosmWasm IBC Example](https://github.com/ezekiiel/cw-ibc-example)
+- [Awesome CosmWasm](https://github.com/InterWasm/cw-awesome)

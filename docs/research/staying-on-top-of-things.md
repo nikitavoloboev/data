@@ -269,3 +269,4 @@ And these Discord servers:
 - [Ask HN: What news subscription is worth it? (2022)](https://news.ycombinator.com/item?id=31780355)
 - [Ask HN: Any viable alternatives to Google News? (2022)](https://news.ycombinator.com/item?id=31911319)
 - [The Speed Report • Which news website is the fastest?](https://legiblenews.com/speed) ([HN](https://news.ycombinator.com/item?id=31910622))
+- [Autosummarized Hacker News (with GPT-3)](https://danieljanus.pl/autosummarized-hn/)

@@ -356,6 +356,7 @@
 - [Embassy](https://github.com/envoy/Embassy) - Super lightweight async HTTP server in pure Swift.
 - [URLRequestBuilder](https://github.com/ParableHealth/URLRequestBuilder) - Deal with query items, HTTP headers, request body and more in an easy, declarative way.
 - [SafeURL](https://github.com/baguio/SwiftSafeURL) - Compile-time-checked URLs.
+- [JWT](https://github.com/vapor/jwt) - Vapor JWT provider.
 
 ## GraphQL
 
@@ -1217,6 +1218,8 @@
 - [DeepCodable](https://github.com/MPLew-is/deep-codable) - Encode and decode deeply-nested data into flat Swift objects.
 - [Eval](https://github.com/tevelee/Eval) - Lightweight interpreter framework written in Swift, evaluating expressions at runtime.
 - [Tuxedo](https://github.com/tevelee/Tuxedo) - Template language for Swift.
+- [SwiftyContacts](https://github.com/SwiftyContacts/SwiftyContacts) - Swift library for Contacts framework.
+- [TextureSwiftSupport](https://github.com/FluidGroup/TextureSwiftSupport) - Library that gains Texture(AsyncDisplayKit) more power in Swift.
 
 ## Other (not lib)
 

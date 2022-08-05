@@ -182,3 +182,4 @@
 - [Cryptography II | Coursera](https://www.coursera.org/learn/crypto2)
 - [Sycret](https://github.com/OpenMined/sycret) - Function Secret Sharing library for Python and Rust with hardware acceleration.
 - [Paranoid Crypto](https://github.com/google/paranoid_crypto) - Checks for well known weaknesses on cryptographic artifacts such as public keys, digital signatures and general pseudorandom numbers.
+- [A Wide Reduction Trick (2022)](https://words.filippo.io/dispatches/wide-reduction/)

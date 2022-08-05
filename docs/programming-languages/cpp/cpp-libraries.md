@@ -425,6 +425,7 @@
 - [Photon](https://github.com/alibaba/PhotonLibOS) - High-efficiency LibOS framework, based on a set of carefully selected C++ libs.
 - [memory](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write.
 - [hspp](https://github.com/BowenFu/hspp) - Haskell Style Programming brought to C++.
+- [fast_float](https://github.com/fastfloat/fast_float) - Fast and exact implementation of the C++ from_chars functions for float and double types: 4x faster than strtod.
 
 ## Links
 

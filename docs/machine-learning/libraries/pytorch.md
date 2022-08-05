@@ -430,3 +430,4 @@ title: PyTorch
 - [torchimize](https://github.com/hahnec/torchimize) - Numerical optimization algorithms in PyTorch.
 - [1D, 2D, and 3D Sinusoidal Postional Encoding (PyTorch and TensorFlowi)](https://github.com/tatp22/multidim-positional-encoding)
 - [Kaolin Wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) - PyTorch Library and Engine for Neural Fields Research.
+- [Notebook walks through a single forward pass of the Transformer architecture in PyTorch](https://github.com/markriedl/transformer-walkthrough)

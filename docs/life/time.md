@@ -47,7 +47,7 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [Do we still need time zones? (2022)](https://www.reddit.com/r/slatestarcodex/comments/thzobf/do_we_still_need_time_zones/)
 - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/) ([HN](https://news.ycombinator.com/item?id=31261533)) ([Lobsters](https://lobste.rs/s/tz4qsl/mechanical_watch))
 - [Great time travel movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/uivp1f/hi_everyone_what_are_some_of_your_best_time/)
-- [Who do we spend time with across our lifetime? (2020)](https://ourworldindata.org/time-with-others-lifetime) ([HN](https://news.ycombinator.com/item?id=25385833))
+- [Who do we spend time with across our lifetime? (2020)](https://ourworldindata.org/time-with-others-lifetime) ([HN](https://news.ycombinator.com/item?id=25385833)) ([HN](https://news.ycombinator.com/item?id=32339424))
 - [gotz](https://github.com/merschformann/gotz) - CLI time zone info.
 - [What time works for you?](https://time.antfu.me/) - Time scheduler for multiple time zones. ([Code](https://github.com/antfu/what-time))
 - [We have 3 space dimensions but only one dimension of time. Why is there just one time? What would happen if there were more time dimensions?](https://twitter.com/martinmbauer/status/1538476301614567424)

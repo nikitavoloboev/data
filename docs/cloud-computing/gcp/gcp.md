@@ -127,3 +127,4 @@ Looking into [Railway](https://railway.app/) & [Cloudflare](https://www.cloudfla
 - [Proof of concept use Cloud Run to deploy a SQL database on demand](https://github.com/guillaumeblaquiere/serverless-sql)
 - [spanner-truncate](https://github.com/cloudspannerecosystem/spanner-truncate) - Tool to delete all rows from the tables in a Cloud Spanner database without deleting tables themselves.
 - [Google API Client Library for JavaScript](https://github.com/google/google-api-javascript-client)
+- [Google Cloud Platform ESPv2](https://github.com/GoogleCloudPlatform/esp-v2) - General-purpose L7 service proxy that enables API management capabilities for JSON/REST or gRPC API services.

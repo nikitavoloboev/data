@@ -38,3 +38,4 @@
 - [Fireshare](https://github.com/ShaneIsrael/fireshare) - Share your game clips, videos, or other media via unique links.
 - [More Oxide at Home: My Pi is a Wireless Crucible (2022)](https://artemis.sh/2022/06/14/oxide-crucible.html)
 - [Cloud From Scratch](https://github.com/technomada/cloud-from-scratch) - Build yourself a private self-hosted full-stack personal cloud system.
+- [Deploying Retool on-premise](https://github.com/tryretool/retool-onpremise)

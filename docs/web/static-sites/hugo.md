@@ -9,6 +9,7 @@ title: Hugo
 ## Themes
 
 - [Even](https://github.com/olOwOlo/hugo-theme-even) - Super concise theme for Hugo.
+- [Eternity](https://github.com/boratanrikulu/eternity) - Minimalist Hugo theme designed for portfolio sites.
 - [Coder](https://github.com/luizdepra/hugo-coder/) - Minimalist blog theme for Hugo.
 - [YinYang](https://github.com/joway/hugo-theme-yinyang/) - Black-white theme for Hugo.
 - [Notepadium](https://github.com/cntrump/hugo-notepadium) - Fast Hugo theme, 100% JavaScript-free.

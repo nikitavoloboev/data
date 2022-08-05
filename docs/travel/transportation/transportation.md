@@ -2,6 +2,10 @@
 
 [Flexport](https://www.flexport.com/) is a great logistics company.
 
+Personally would love to own [Porsche](https://www.porsche.com/) one day. They make truly [gorgeous cars](https://www.youtube.com/watch?v=mmzn77xOCe0). [Carrera S](https://www.reddit.com/r/Porsche/comments/ob8jjs/992_carrera_s/) or [992 GT3](https://www.youtube.com/watch?v=da5x-__kvGY) seem nice.
+
+I wish there were more electric superchargers in EU.
+
 ## Interesting cars
 
 - [Lucid Air](https://www.youtube.com/watch?v=JxuB4H6uCq8)

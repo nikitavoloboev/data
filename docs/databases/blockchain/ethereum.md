@@ -528,6 +528,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Cairo Language Server](https://github.com/ericglau/cairo-ls) - Code assistance for writing Cairo smart contracts for StarkNet.
 - [Basic string utilities for Solidity](https://github.com/Arachnid/solidity-stringutils)
 - [Fuel Network](https://fuel.network/) - Focused on sustainable blockchain scaling with optimistic rollups. ([GitHub](https://github.com/FuelLabs)) ([Fuel TypeScript SDK](https://github.com/FuelLabs/fuels-ts))
+- [Sway](https://github.com/FuelLabs/sway) - Domain-specific language for the Fuel Virtual Machine, a blockchain-optimized VM designed for the Fuel blockchain.
 - [semaphore-rs](https://github.com/worldcoin/semaphore-rs) - Rust support library for semaphore.
 - [Optimism Spec](https://github.com/ethereum-optimism/optimistic-specs) - Protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum.
 - [Lyra](https://www.lyra.finance/) - Open Protocol For Trading Options. ([Code](https://github.com/lyra-finance/lyra-protocol))

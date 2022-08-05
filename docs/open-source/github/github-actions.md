@@ -245,6 +245,10 @@ title: GitHub actions
 - [github-actions-wac](https://github.com/webiny/github-actions-wac) - GitHub Actions - Workflows as Code (WaC).
 - [Find and Replace](https://github.com/jacobtomlinson/gha-find-replace) - Find and replace strings in your project files.
 - [changesets-snapshot](https://github.com/seek-oss/changesets-snapshot) - GitHub Action for publishing snapshot releases when using changesets.
+- [Supabase CLI Action](https://github.com/supabase/setup-cli) - Supabase CLI on GitHub's hosted Actions runners.
+- [Changesets Snapshot Release](https://github.com/the-guild-org/changesets-snapshot-action) - GitHub Action for making Snapshot releases using Changesets.
+- [Changesets Dependencies](https://github.com/the-guild-org/changesets-dependencies-action) - GitHub Action for creating Changesets files for dependencies updates.
+- [setup-protoc](https://github.com/arduino/setup-protoc) - GitHub Action to setup the protoc compiler for protocol buffers.
 
 ## Go
 

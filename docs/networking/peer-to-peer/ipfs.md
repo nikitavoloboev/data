@@ -113,3 +113,4 @@ I especially like the distinction of distributing content over distributing link
 - [Planet](https://www.planetable.xyz/) - Decentralized blogs and websites powered by IPFS and Ethereum Name System. ([Code](https://github.com/Planetable/Planet))
 - [Why's Principled File Server](https://github.com/whyrusleeping/whypfs) - Alternative IPFS daemon.
 - [IPFS Ecosystem Directory](https://ecosystem.ipfs.io/) ([Code](https://github.com/ipfs/ecosystem-directory))
+- [JS IPFS Examples](https://github.com/ipfs-examples/js-ipfs-examples)

@@ -162,3 +162,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Most of the world’s grain is not eaten by humans (2022)](https://www.economist.com/graphic-detail/2022/06/23/most-of-the-worlds-grain-is-not-eaten-by-humans) ([HN](https://news.ycombinator.com/item?id=31877373))
 - [Aerobotics](https://www.aerobotics.com/) - Optimize and protect your yields, season after season.
 - [Absurd AI-Generated Professional Food Photography with DALL-E 2 (2022)](https://minimaxir.com/2022/07/food-photography-ai/)
+- [Solein](https://www.solein.com/) - Protein out of thin air. ([HN](https://news.ycombinator.com/item?id=32345051))

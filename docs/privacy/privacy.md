@@ -130,3 +130,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Two types of privacy (2022)](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
 - [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - Privacy Testing for Deep Learning.
 - [GDPR for Developers by Example (2022)](https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/) ([HN](https://news.ycombinator.com/item?id=32328837))
+- [mCaptcha](https://github.com/mCaptcha/mCaptcha) - No-nonsense CAPTCHA system with seamless UX. ([HN](https://news.ycombinator.com/item?id=32340305))

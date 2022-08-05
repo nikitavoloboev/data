@@ -331,6 +331,7 @@
 
 - [rust-ac-ffmpeg](https://github.com/angelcam/rust-ac-ffmpeg) - Rust wrapper for FFmpeg libraries.
 - [Nightfall](https://github.com/Dusk-Labs/nightfall) - Easy to use lib for creating on-demand transcoding sessions for efficient media playback.
+- [retina](https://github.com/scottlamb/retina) - High-level RTSP multimedia streaming library, in Rust.
 
 ## Graphics
 
@@ -472,6 +473,7 @@
 - [test-strategy](https://github.com/frozenlib/test-strategy) - Procedural macro to easily write higher-order strategies in proptest.
 - [unimock](https://github.com/audunhalland/unimock) - Library for defining mock implementations of traits.
 - [mock-it](https://github.com/nathanielsimard/mock-it) - Aims to make mocking reliable.
+- [Turmoil](https://github.com/tokio-rs/turmoil) - Add hardship to your tests.
 
 ## Error
 
@@ -2085,6 +2087,13 @@
 - [pcd-rs](https://github.com/jerry73204/pcd-rs) - Read PCD file format in Rust.
 - [neli](https://github.com/jbaublitz/neli) - Type safe netlink library for Rust.
 - [owning-ref-rs](https://github.com/utilForever/owning-ref-rs) - Library for creating references that carry their owner with them.
+- [laz-rs](https://github.com/laz-rs/laz-rs) - Rust implementation/translation of LAZ (Laszip) compression.
+- [shapefile-rs](https://github.com/tmontaigu/shapefile-rs) - Rust library to read & write shapefiles.
+- [dbase-rs](https://github.com/tmontaigu/dbase-rs) - Rust library to read and write .dbf (dBase / FoxPro) files.
+- [oom](https://github.com/tesuji/rust-oom) - One Or Many slice types.
+- [hot-lib-reloader](https://github.com/rksm/hot-lib-reloader-rs) - Utility to reload libraries on change. For faster feedback cycles.
+- [Twelf](https://github.com/bnjjj/twelf/) - Configuration solution for Rust including 12-Factor support.
+- [recap](https://github.com/softprops/recap) - Deserialize typed structures from regex captures.
 
 ## Cargo Plugins
 

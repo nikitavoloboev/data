@@ -68,7 +68,7 @@
 - [Computer Graphics course by Keenan Crane (2020)](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
 - [How 3D video games do graphics (2020)](https://www.youtube.com/watch?v=bGe-d09Nc_M) ([Reddit](https://www.reddit.com/r/gamedev/comments/gvrx5m/how_3d_video_games_do_graphics/))
 - [The Physics of Light and Rendering - John Carmack (2013)](https://www.youtube.com/watch?v=P6UKhR0T6cs)
-- [Computer Graphics from Scratch](https://github.com/ggambetta/computer-graphics-from-scratch) ([Web](https://gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)) ([HN](https://news.ycombinator.com/item?id=25266812)) ([HN 2](https://news.ycombinator.com/item?id=26017086))
+- [Computer Graphics from Scratch](https://github.com/ggambetta/computer-graphics-from-scratch) ([Web](https://gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)) ([HN](https://news.ycombinator.com/item?id=25266812)) ([HN 2](https://news.ycombinator.com/item?id=26017086)) ([TOC](https://www.gabrielgambetta.com/computer-graphics-from-scratch/)) ([HN](https://news.ycombinator.com/item?id=19584921))
 - [Online path sampling control with progressive spatio-temporal filtering (2020)](https://arxiv.org/abs/2005.07547) ([Twitter](https://twitter.com/jpantaleoni/status/1270261105802252289))
 - [A sort-middle architecture for 2D graphics (2020)](https://raphlinus.github.io/rust/graphics/gpu/2020/06/12/sort-middle.html)
 - [Journal of Computer Graphics Techniques](http://www.jcgt.org/read.html)

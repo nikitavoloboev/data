@@ -893,3 +893,6 @@
 - [Pretraining is All You Need for Image-to-Image Translation (2022)](https://arxiv.org/abs/2205.12952) ([Code](https://github.com/PITI-Synthesis/PITI))
 - [Vision-Centric BEV Perception: A Survey](https://github.com/4DVLab/Vision-Centric-BEV-Perception)
 - [Share With Thy Neighbors: Single-View Reconstruction by Cross-Instance Consistency (2022)](https://arxiv.org/abs/2204.10310) ([Code](https://github.com/monniert/unicorn))
+- [Awesome Weakly Supervised Semantic Segmentation Papers](https://github.com/PengtaoJiang/Awesome-Weakly-Supervised-Semantic-Segmentation-Papers)
+- [GAUDI: A Neural Architect for Immersive 3D Scene Generation (2022)](https://arxiv.org/abs/2207.13751) ([Code](https://github.com/apple/ml-gaudi)) ([HN](https://news.ycombinator.com/item?id=32344014))
+- [Multimodal Image Synthesis and Editing: A Survey (2021)](https://arxiv.org/abs/2112.13592) ([Code](https://github.com/fnzhan/MISE))

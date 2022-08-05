@@ -156,3 +156,4 @@ I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mear
 - [USA Trade in Goods with European Union](https://www.census.gov/foreign-trade/balance/c0003.html)
 - [US Export and Import Statistics](https://www.census.gov/foreign-trade/index.html)
 - [Defence economics, and the US production advantage (2022)](https://www.youtube.com/watch?v=7Z_gTGJc7nQ)
+- [Amtrak Explorer](https://amtrakexplorer.com/) - Select a route to see its stations.

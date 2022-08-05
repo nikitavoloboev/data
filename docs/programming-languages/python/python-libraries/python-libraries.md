@@ -198,6 +198,7 @@
 - [cloudpathlib](https://github.com/drivendataorg/cloudpathlib) - Python pathlib-style classes for cloud storage services such as Amazon S3, Azure Blob Storage, and Google Cloud Storage.
 - [sql-metadata](https://github.com/macbre/sql-metadata) - Uses tokenized query returned by python-sqlparse and generates query metadata.
 - [redis-pydict](https://github.com/Narasimha1997/redis-pydict) - Python dictionary that uses Redis as in-memory storage backend to facilitate distributed computing applications development.
+- [Redis OM](https://github.com/redis/redis-om-python) - Objecting mapping, and more, for Redis and Python.
 
 ## GUI
 
@@ -950,6 +951,8 @@
 - [Oxalis](https://github.com/strongbugman/oxalis) - Distributed async task/job queue, like Celery for asyncio world.
 - [Kink](https://github.com/kodemore/kink) - Dependency injection container made for Python.
 - [Diffractsim](https://github.com/rafael-fuente/diffractsim) - Diffraction simulator for exploring and visualizing physical optics.
+- [Laspy](https://github.com/laspy/laspy) - Python library for reading, modifying and creating LAS LiDAR files.
+- [python-makefun](https://github.com/smarie/python-makefun) - Dynamically create python functions with a proper signature.
 
 ## Notes
 

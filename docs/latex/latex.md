@@ -147,3 +147,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [100 most frequent LaTeX commands (2022)](https://blog.writefull.com/the-100-most-frequent-latex-commands/)
 - [TeXZilla](http://fred-wang.github.io/TeXZilla/) - JavaScript LaTeX-to-MathML converter compatible with Unicode. ([Code](https://github.com/fred-wang/TeXZilla))
 - [How2LaTeX](https://github.com/sleepymalc/How2LaTeX) - Compact guide to help you write professional LaTeX documents.
+- [Implementing a “mini-LaTeX” in ~2000 lines of code (2022)](https://nibblestew.blogspot.com/2022/07/implementing-mini-latex-in-2000-lines.html) ([HN](https://news.ycombinator.com/item?id=32346296))

@@ -159,6 +159,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [coc-explorer](https://github.com/weirongxu/coc-explorer) - Explorer for coc.nvim.
 - [nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion plugin for nvim.
 - [fzf-preview.vim](https://github.comfzf-preview.vim/yuki-ycino/fzf-preview.vim) - coc extensions and Neovim plugin that provides collection of features to assist file management using fzf.
+- [overseer.nvim](https://github.com/stevearc/overseer.nvim) - Task runner and job management plugin for Neovim.
 - [vimspector](https://github.com/puremourning/vimspector) - Multi language graphical debugger for Vim.
 - [nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
 - [test.vim](https://github.com/vim-test/vim-test) - Vim wrapper for running tests on different granularities.

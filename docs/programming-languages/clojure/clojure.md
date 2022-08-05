@@ -237,3 +237,4 @@ title: Clojure
 - [Things about Clojure or tooling, you found out way too late (2022)](https://www.reddit.com/r/Clojure/comments/vprp5i/things_about_clojure_or_tooling_you_found_out_way/)
 - [Bebo](https://github.com/borkdude/bebo) - Run Clojure scripts on Deno.
 - [Clojure Web Development Evolved (2022)](https://www.youtube.com/watch?v=DFzukK5-rpU) ([HN](https://news.ycombinator.com/item?id=32282244))
+- [nbb](https://github.com/babashka/nbb) - Scripting in Clojure on Node.js using SCI. ([HN](https://news.ycombinator.com/item?id=32339979))

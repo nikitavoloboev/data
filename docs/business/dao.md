@@ -82,3 +82,4 @@ The [interview](https://www.thetwentyminutevc.com/podcast/ian-lee/) with [Ian](h
 - [Different DAO compensation models (2022)](https://twitter.com/owocki/status/1537089818605170688)
 - [How to allocate work efficiently in DAOs?](https://twitter.com/spengrah/status/1537825584520249345)
 - [Go Fork Yourself (2022)](https://www.notboring.co/p/go-fork-yourself)
+- [A simple guide to quadratic voting (2022)](https://blog.tally.xyz/a-simple-guide-to-quadratic-voting-327b52addde1) ([HN](https://news.ycombinator.com/item?id=32337705))

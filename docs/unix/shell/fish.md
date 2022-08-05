@@ -37,3 +37,5 @@ title: Fish Shell
 - [Pure Fish Prompt](https://github.com/pure-fish/pure) - Pretty, minimal, and fast prompt for Fish.
 - [Fisher](https://github.com/jorgebucaran/fisher) - Plugin manager for Fish.
 - [Fish Shell Gitter](https://gitter.im/fish-shell/fish-shell#)
+- [babelfish](https://github.com/bouk/babelfish) - Translate bash scripts to fish.
+- [FishFeeder](https://github.com/itohio/FishFeeder) - Automatic fish feeder using ESP32 M5StickC written in Go and flashed using TinyGo.

@@ -448,3 +448,5 @@ Awesome List
 - [GitHub API and GraphQL Client in Swift](https://github.com/MPLew-is/github-api-client) - Automatically generate GraphQL queries and decode results into Swift objects, and also interact with arbitrary GitHub API endpoints.
 - [GitHub Projects Webhook Receiver](https://github.com/MPLew-is/github-projects-webhook-receiver) - Send a Slack message when a GitHub Projects item changes status.
 - [Neat](https://neat.run/) - GitHub and Linear notifications on your desktop and menu bar.
+- [GitHub Traffic Insights as Prometheus metrics](https://github.com/grafana/github-traffic)
+- [gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications.

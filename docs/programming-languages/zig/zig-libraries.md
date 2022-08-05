@@ -68,6 +68,7 @@
 ## Test
 
 - [Marble](https://github.com/cryptocode/marble) - Metamorphic testing library for Zig.
+- [proptest.zig](https://github.com/leroycep/proptest.zig) - Property testing library for zig.
 
 ## iOS
 

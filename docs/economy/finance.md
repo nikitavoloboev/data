@@ -216,3 +216,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Understanding Jane Street (2022)](https://www.thediff.co/p/jane-street) ([HN](https://news.ycombinator.com/item?id=32314623))
 - [Living on $100k - How much I spend in a month (2022)](https://www.youtube.com/watch?v=qNj2rAyhQbM)
 - [Exchange-core](https://github.com/exchange-core/exchange-core) - Open source market exchange core.
+- [FinTA](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas.

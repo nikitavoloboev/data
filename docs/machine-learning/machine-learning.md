@@ -891,3 +891,7 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [DALLE2 LAION](https://github.com/LAION-AI/dalle2-laion) - Collection of resources and tools for LAION's pre-trained DALLE-2 model.
 - [Awesome Novel Class Discovery](https://github.com/JosephKJ/Awesome-Novel-Class-Discovery)
 - [Harvard ML Course (2019)](https://harvard-iacs.github.io/2019-CS109A/pages/materials.html)
+- [Transformers as Meta-Learners for Implicit Neural Representations (2022)](https://arxiv.org/abs/2208.02801) ([Code](https://github.com/yinboc/trans-inr))
+- [AdaCat: Adaptive Categorical Discretization for Autoregressive Models (2022)](https://arxiv.org/abs/2208.02246) ([Code](https://github.com/ColinQiyangLi/AdaCat))
+- [Awesome Decision Tree Research Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+- [Why do tree-based models still outperform deep learning on tabular data? (2022)](https://arxiv.org/abs/2207.08815) ([HN](https://news.ycombinator.com/item?id=32333565))

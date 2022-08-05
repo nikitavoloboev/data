@@ -182,3 +182,5 @@ title: RISC-V
 - [Simple RISC V core for teaching](https://github.com/tilk/riscv-simple-sv)
 - [RISC-V linker relaxation in lld (2022)](https://maskray.me/blog/2022-07-10-riscv-linker-relaxation-in-lld)
 - [ExperiarSoC](https://github.com/Wevel/ExperiarSoC) - RISC-V SoC designed for the Efabless Open MPW Program.
+- [RudolV](https://github.com/bobbl/rudolv) - RISC-V processor for real-time systems.
+- [RiftCore](https://github.com/whutddk/RiftCore) - 9-stage, single-issue, out of order 64-bits RISC-V Core, which supports RV64IMC and 3-level Cache system.

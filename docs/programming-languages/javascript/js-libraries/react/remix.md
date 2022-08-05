@@ -10,6 +10,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 
 ## OSS Remix apps
 
+- [Remix + Cloudflare Workers starter with Turborepo](https://github.com/jacob-ebey/remix-chat)
 - [Remix + Deno + Rust -> Webassembly - The Air Metal Stack](https://github.com/benwis/air-metal-stack)
 - [Remix + Cloudflare Workers + Wrangler2 + Tailwind + ESLint + Prettier + Vitest + Playwright](https://github.com/okym-t/remix-cloudflare-workers-starterkit)
 - [Remix + Bun Testing](https://github.com/jacob-ebey/remix-bun-testing)
@@ -162,3 +163,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [remix-typedjson](https://github.com/kiliman/remix-typedjson) - Replacement for superjson to use in your Remix app.
 - [Advanced Remix Workshop](https://github.com/FrontendMasters/advanced-remix)
 - [Remix Fundamentals Workshop](https://github.com/FrontendMasters/remix-fundamentals)
+- [Remix SSG](https://github.com/jacob-ebey/remix-ssg) - CLI for building static sites with Remix.

@@ -154,3 +154,5 @@ title: JSON
 - [JCOF](https://github.com/mortie/jcof) - JSON-like Compact Object Format. ([HN](https://news.ycombinator.com/item?id=32109406))
 - [JSON Schema Community](https://github.com/json-schema-org/community)
 - [Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder (2020)](https://nigeltao.github.io/blog/2020/jsonptr.html)
+- [JSON Grep](https://github.com/huytd/json-grep) - Utility that help you search for anything inside a JSON data.
+- [JSONCrush](https://github.com/KilledByAPixel/JSONCrush) - Compress JSON into URL friendly strings. ([Demo](https://killedbyapixel.github.io/JSONCrush/))

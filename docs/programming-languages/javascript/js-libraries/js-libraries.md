@@ -76,6 +76,7 @@
 - [SurveyJS](https://github.com/surveyjs/survey-library) - JavaScript Survey and Form Library. ([Web](https://surveyjs.io/))
 - [Helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers.
 - [Reactif](https://github.com/keva-dev/reactif) - Fast 5kB reactive & elegant functional library for rapidly building modern UIs on the web.
+- [Swup](https://github.com/swup/swup) - Complete, flexible, extensible and easy to use page transition library for your static web.
 
 ## Animation
 

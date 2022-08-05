@@ -139,7 +139,7 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [ProtonMail](https://protonmail.com/) - Secure Email. Based in Switzerland. ([ProtonMail Bridge](https://github.com/ProtonMail/proton-bridge)) ([GitHub](https://github.com/ProtonMail))
 - [Mailgun.js](https://github.com/mailgun/mailgun-js) - JavaScript SDK for Mailgun.
 - [imap-backup](https://github.com/joeyates/imap-backup) - Backup GMail (or other IMAP) accounts to disk. ([HN](https://news.ycombinator.com/item?id=29849762))
-- [Mailway](https://mailway.app/) - Single way for all your emails. Configure DNS on your domain, add rules for incoming emails, done. ([Reddit](https://www.reddit.com/r/selfhosted/comments/li0j5l/mailway_selfhosted_mail_catchall/))
+- [Mailway](https://mailway.app/) - Single way for all your emails. Configure DNS on your domain, add rules for incoming emails, done. ([Reddit](https://www.reddit.com/r/selfhosted/comments/li0j5l/mailway_selfhosted_mail_catchall/)) ([Code](https://github.com/mailway-app/mailway))
 - [Underline](https://underline.email/) - For sending email newsletters, not “campaigns”.
 - [disposable-email-domains](https://github.com/ivolo/disposable-email-domains) - List of disposable email domains.
 - [Email is Good](https://email-is-good.com/) - Site about email productivity.
@@ -266,3 +266,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Cloudflare + MailChannels Email Sending with DKIM](https://github.com/maggie-j-liu/mail)
 - [Mailing](https://github.com/successor-software/mailing) - Build, test, send emails with TypeScript and React.
 - [Hijacking Email with Cloudflare Email Routing (2022)](https://albertpedersen.com/blog/hijacking-email-with-cloudflare-email-routing/) ([HN](https://news.ycombinator.com/item?id=32331781))
+- [tmpx](https://github.com/abcdan/tmpx) - Stupidly simple to use temporary mail host with an easy to use JSON/WS API.

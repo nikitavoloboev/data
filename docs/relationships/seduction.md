@@ -85,6 +85,9 @@ Having said all of above, I think the most effective approach is having a great 
 - [If a person really wants to see you, they will make the time. Some people are actually busy, but yes, if they want to see you they will offer an alternative time(s) they are available.](https://www.reddit.com/r/seduction/comments/n355o6/if_a_person_really_wants_to_see_you_they_will/)
 - [You have to flirt I'm other ways (verbally or with expressions) before touching someone. Or it can get awkward.](https://www.reddit.com/r/datingoverthirty/comments/nb2gga/tips_for_flirting_with_other_grown_ups/)
 - [Flirty energy comes out of a deep comfort. It is like this acceptance of who you are and a confidence that the other person will like and receive you. Being flirty is playful. It is fun and without expectation. Flirting doesn’t have a goal. Somehow fake it till you make it, believe in your value and believe that the men you are with will value and be attracted to you. Lose expectations. React playfully in the moment. Don’t be concerned with outcome or keeping up appearances. More than anything don’t be afraid of rejection.](https://www.reddit.com/r/datingoverthirty/comments/nb2gga/tips_for_flirting_with_other_grown_ups/)
+- [Date from an abundance mindset. Weed girls on how good you two match. Now that you know how to obtain iron, you have the potential of gathering you diamond.](https://www.reddit.com/r/seduction/comments/wb67py/just_had_another_ons_and_im_starting_to_doubt/)
+- [Change your mentality from “sex sex sex” to “I wanna vibe with someone."](https://www.reddit.com/r/seduction/comments/wb67py/just_had_another_ons_and_im_starting_to_doubt/)
+- [Work on your verbal game. seduce her with your words. work on your sensual game; backrubs and foot massages are your friend. work on your sex talk; get her in the mood. make sure youre building intimacy. and make sure youre asking for consent before you touch her so she feels respected, and knows you have communication skills and confidence.](https://www.reddit.com/r/seduction/comments/wey617/how_can_i_make_better_moves_when_were_both_laying/)
 
 ## Links
 
@@ -117,3 +120,5 @@ Having said all of above, I think the most effective approach is having a great 
 - [Austen Summers - YouTube](https://www.youtube.com/c/AustenSummers/videos)
 - [Talking is easy, showing romantic interest is hard](https://www.reddit.com/r/datingoverthirty/comments/uinofn/talking_is_easy_showing_romantic_interest_is_hard/)
 - [How do you flirt on first date without coming off as trying too hard?](https://www.reddit.com/r/datingoverthirty/comments/vl564w/how_do_you_flirt_on_first_date_without_coming_off/)
+- [What are the common traits guys who get laid regularly show? (2022)](https://www.reddit.com/r/seduction/comments/wf46u9/what_are_the_common_traits_guys_who_get_laid/)
+- [What are some good plausible deniability ideas (excuses) to bring a girl home? (2022)](https://www.reddit.com/r/seduction/comments/waqi3y/what_are_some_good_plausible_deniability_ideas/)

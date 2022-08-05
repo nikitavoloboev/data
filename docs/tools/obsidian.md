@@ -180,6 +180,7 @@ div.CodeMirror-cursor,
 - [TikZJax](https://github.com/artisticat1/obsidian-tikzjax) - Plugin for Obsidian that lets you render LaTeX and TikZ diagrams in your notes.
 - [Heatmap Calendar](https://github.com/Richardsl/heatmap-calendar-obsidian) - Visualize your data in a heatmap calendar similar to the github activity calendar using this Obsidian plugin.
 - [Execute Code](https://github.com/twibiral/obsidian-execute-code) - Execute code snippets in code blocks in your notes.
+- [Obsidian Note Sharing](https://github.com/mcndt/obsidian-note-sharing) - Securely share your Obsidian notes with one click.
 
 ## Themes
 

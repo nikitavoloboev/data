@@ -116,7 +116,7 @@
 - [cmd](https://github.com/ruricolist/cmd) - Utility for running external programs.
 - [Rove](https://github.com/fukamachi/rove) - Unit testing framework for Common Lisp applications.
 - [cl-notebook](https://github.com/inaimathi/cl-notebook) - Notebook-style in-browser editor for Common Lisp.
-- [kons-9](https://github.com/kaveh808/kons-9) - Common Lisp 3D graphics code.
+- [kons-9](https://github.com/kaveh808/kons-9) - Common Lisp 3D graphics code. ([HN](https://news.ycombinator.com/item?id=32337538))
 - [Snakes](https://github.com/BnMcGn/snakes) - Python-like generators for Common Lisp.
 - [MAGICL](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp.
 - [Sheeple](https://github.com/zkat/sheeple) - Dynamic, CLOS-like, Delegative Prototype-based Object-Oriented Programming Framework.

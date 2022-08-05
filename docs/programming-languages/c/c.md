@@ -265,3 +265,6 @@
 - [Embed is in C23 (2022)](https://thephd.dev/finally-embed-in-c23) ([HN](https://news.ycombinator.com/item?id=32201951)) ([Lobsters](https://lobste.rs/s/vwqjil/finally_embed_c))
 - [What's the most portable way to include binary blobs in an executable? (2022)](https://tratt.net/laurie/blog/2022/whats_the_most_portable_way_to_include_binary_blobs_in_an_executable.html) ([HN](https://news.ycombinator.com/item?id=32222161))
 - [The different ways to handle errors in C (2022)](https://mccue.dev/pages/7-27-22-c-errors) ([Lobsters](https://lobste.rs/s/8mqgal/different_ways_handle_errors_c))
+- [ClangIR (CIR)](https://github.com/llvm/clangir) - New high-level IR for clang.
+- [C99 doesn't need function bodies, or 'VLAs are Turing complete' (2022)](https://lemon.rip/w/c99-vla-tricks/) ([HN](https://news.ycombinator.com/item?id=32343608))
+- [C23 is Finished: Here is What is on the Menu (2022)](https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu) ([HN](https://news.ycombinator.com/item?id=32352569))

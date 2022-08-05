@@ -346,3 +346,5 @@
 - [Dalorex: A Data-Local Program Execution and Architecture for Memory-bound Applications (2022)](https://arxiv.org/abs/2207.13219)
 - [The Pine Formula (2022)](https://tuxphones.com/pine-formula/) ([Lobsters](https://lobste.rs/s/606cll/pine_formula))
 - [täko ̄: A Polymorphic Cache Hierarchy for General-Purpose Optimization of Data Movement (2022)](https://www.cs.cmu.edu/~beckmann/publications/papers/2022.isca.tako.pdf)
+- [Rift2Core](https://github.com/whutddk/Rift2Core) - Based on Chisel3, Rift2Core is a 9-stage, out-of-order, 64-bits RISC-V Core, which supports RV64GC.
+- [Building a Panel out of e-ink Electronic Shelf Labels (2022)](https://rbaron.net/blog/2022/07/29/Daisy-chaining-multiple-electronic-shelf-labels.html)

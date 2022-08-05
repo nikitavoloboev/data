@@ -25,3 +25,5 @@
 - [How A.I. Conquered Poker (2022)](https://www.nytimes.com/2022/01/18/magazine/ai-technology-poker.html) ([HN](https://news.ycombinator.com/item?id=29983043))
 - [Teach your Kids Bridge, not Poker](https://specbranch.com/posts/teach-bridge/) ([HN](https://news.ycombinator.com/item?id=31459044))
 - [Poker AI](https://github.com/fedden/poker_ai) - Open Source Texas Hold'em AI.
+- [Favorite educational Poker vloggers (2022)](https://www.reddit.com/r/poker/comments/wggf9c/who_is_your_guys_favorite_poker_vlogger_as_far_as/)
+- [Mariano - YouTube](https://www.youtube.com/c/MarianoPoker/videos)

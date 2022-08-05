@@ -26,6 +26,7 @@ title: Svelte
 - [SvelteKit and Vendure Commerce example](https://github.com/spences10/sveltekit-vendure-commerce)
 - [Turbocharger template with Svelte, Tailwind, and TurboSQL](https://github.com/trevyn/turbocharger-template)
 - [Svelte Encrypted SPA](https://github.com/Greenheart/svelte-encrypted-spa) - Easily create private, encrypted single page applications with Svelte and PageCrypt.
+- [Svelte Travel Transitions](https://github.com/pngwn/svelte-travel-transitions) - Native-like Page Transitions with SvelteKit, A Travel App. ([Web](https://svelte-travel.pages.dev/))
 
 ## Notes
 

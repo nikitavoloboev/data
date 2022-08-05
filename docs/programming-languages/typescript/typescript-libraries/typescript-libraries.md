@@ -190,7 +190,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Decoder](https://github.com/MarcCoquand/Decoder) - Powerful, well tested, data decoder for Typescript.
 - [openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs.
 - [Conditional Type Checks](https://github.com/dsherret/conditional-type-checks) - Types for testing TypeScript types.
-- [ts-simple-type](https://github.com/runem/ts-simple-type) - Relationship type checker functions for Typescript types.
+- [ts-simple-type](https://github.com/runem/ts-simple-type) - Relationship type checker functions for Typescript types. ([Fork](https://github.com/justjake/ts-simple-type))
 - [newtype-ts](https://github.com/gcanti/newtype-ts) - Implementation of newtypes in TypeScript.
 - [fluent-builder](https://github.com/develohpanda/fluent-builder) - Typed, fluent builder for generating fixtures in Typescript.
 - [xstate-codegen](https://github.com/mattpocock/xstate-codegen) - Gives you 100% type-safe usage of XState in Typescript.
@@ -590,6 +590,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Alge](https://github.com/jasonkuhrt/alge) - Type safe fluent API library for creating Algebraic Data Types (ADTs) in TypeScript.
 - [Behavior-Graph](https://github.com/bhouston/behavior-graph) - Open, extensible, small and simple behavior-graph execution engine.
 - [TypeScript Tuple](https://github.com/ksxnodemodules/typescript-tuple) - Generics to work with tuples in TypeScript.
+- [npx-import](https://github.com/geelen/npx-import) - Runtime dependencies, installed as if by magic.
 
 ## Links
 

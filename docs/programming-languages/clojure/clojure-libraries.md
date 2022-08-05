@@ -273,4 +273,4 @@
 - [exoscale tools.project](https://github.com/exoscale/tools.project) - Helpers to work with our tools.deps projects.
 - [clj-depend](https://github.com/clj-depend/clj-depend) - Clojure namespace dependency analyzer.
 - [Clojure needs a Rails (2022)](https://blog.janetacarr.com/clojure-needs-a-rails/) ([HN](https://news.ycombinator.com/item?id=32288291))
-- [New Clojure project quick start (2022)](https://blog.michielborkent.nl/new-clojure-project-quickstart.html)
+- [New Clojure project quick start (2022)](https://blog.michielborkent.nl/new-clojure-project-quickstart.html) ([HN](https://news.ycombinator.com/item?id=32295666))

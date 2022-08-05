@@ -81,3 +81,6 @@
 - [Mimic 3](https://github.com/MycroftAI/mimic3) - Fast local neural text to speech engine for Mycroft. ([Intro](https://mycroft.ai/blog/introducing-mimic-3/)) ([HN](https://news.ycombinator.com/item?id=31926813))
 - [DiffWave: A Versatile Diffusion Model for Audio Synthesis (2021)](https://arxiv.org/abs/2009.09761) ([Code](https://github.com/albertfgu/diffwave-sashimi))
 - [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis](https://github.com/Rongjiehuang/FastDiff)
+- [HiFi-GAN](https://github.com/bshall/hifigan) - Training and inference scripts for the vocoder models in A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion.
+- [Acoustic-Model](https://github.com/bshall/acoustic-model) - Training and inference scripts for the acoustic models in A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion.
+- [HuBERT](https://github.com/bshall/hubert) - Training and inference scripts for the HuBERT content encoders in A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion.

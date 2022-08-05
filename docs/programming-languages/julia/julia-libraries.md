@@ -214,6 +214,7 @@
 - [SpecialFunctions.jl](https://github.com/JuliaMath/SpecialFunctions.jl) - Special mathematical functions in Julia.
 - [RandomVariables](https://github.com/ManuelStapper/RandomVariables.jl) - Julia package for random variables, some transformations and probabilities.
 - [Sherlogs.jl](https://github.com/milankl/Sherlogs.jl) - Number format that inspects your code by logging the arithmetic results.
+- [GeometryBasics.jl](https://github.com/JuliaGeometry/GeometryBasics.jl) - Basic geometry types.
 
 ## NLP
 
@@ -709,6 +710,8 @@
 - [CompTime](https://github.com/olynch/CompTime.jl) - Library for compile-time computing in Julia.
 - [Scratch.jl](https://github.com/JuliaPackaging/Scratch.jl) - Scratch spaces for all your persistent mutable data needs.
 - [ShapeCheck.jl](https://github.com/MasonProtter/ShapeCheck.jl) - Nice syntax for runtime shape checking of function outputs given their inputs.
+- [Jot.jl](https://github.com/harris-chris/Jot.jl) - Streamlines the creation and management of AWS Lambda functions written in Julia.
+- [RegistryCI.jl](https://github.com/JuliaRegistries/RegistryCI.jl) - Continuous integration (CI) tools for Julia package registries, including registry consistency testing, automatic merging (automerge) of pull requests, and automatic TagBot triggers.
 
 ## Links
 

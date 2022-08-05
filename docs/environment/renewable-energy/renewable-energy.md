@@ -39,3 +39,4 @@
 - [Quaise Energy](https://www.quaise.energy/) - Unlocking the true power of clean geothermal energy. ([HN](https://news.ycombinator.com/item?id=30972073))
 - [I built an open-source, AI-powered solar panel that's 95% optimal (2022)](https://www.jackogrady.me/reinforcement-learning-solar/research-summary) ([HN](https://news.ycombinator.com/item?id=31197170))
 - [Solcore](https://github.com/qpv-research-group/solcore5) - Multi-scale, python-based library for the modelling of solar cells and semiconductor materials.
+- [Quaise Energy is working to create geothermal wells (2022)](https://news.mit.edu/2022/quaise-energy-geothermal-0628) ([HN](https://news.ycombinator.com/item?id=32342501))

@@ -126,3 +126,4 @@ title: Raspberry Pi
 - [Ask HN: What cool projects do you suggest I build with a Raspberry Pi 2W (2022)](https://news.ycombinator.com/item?id=31960322)
 - [Raspberry Pi Pico SDK](https://github.com/raspberrypi/pico-sdk)
 - [Umbrel OS](https://github.com/getumbrel/umbrel-os) - Convert a Raspberry Pi 4 into your personal server in one click. ([Web](https://umbrel.com/)) ([Twitter](https://twitter.com/umbrel))
+- [PiJuice](https://github.com/PiSupply/PiJuice) - Fully uninterruptable / uninterupted power supply that will always keep your Raspberry Pi powered.

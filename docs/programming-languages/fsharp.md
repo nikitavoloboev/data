@@ -40,3 +40,4 @@ title: F#
 - [Fantomas](https://github.com/fsprojects/fantomas) - FSharp source code formatter.
 - [Elmish Book](https://zaid-ajaj.github.io/the-elmish-book/#/) - Practical guide to building modern and reliable web applications in F# from first principles. ([Code](https://github.com/Zaid-Ajaj/the-elmish-book))
 - [Comparing a Voxel Game in F# and Rust (2022)](https://cragwind.com/blog/posts/comparing-voxel-game-fsharp-rust/)
+- [Fable Python](https://github.com/fable-compiler/Fable.Python) - Python bindings for Fable.

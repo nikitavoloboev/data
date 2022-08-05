@@ -124,3 +124,4 @@
 - [OpenTapioca](https://github.com/wetneb/opentapioca) - Entity linking system for Wikidata updated by your edits in real time.
 - [Side](https://github.com/facebookresearch/side) - Effort to improve citations on Wikipedia.
 - [muKG](https://github.com/nju-websoft/muKG) - Library for Multi-source Knowledge Graph Embeddings and Applications.
+- [Artifact Friend Finder (AFF) Knowledge Graph](https://github.com/artifact-ff/artifact-ff)

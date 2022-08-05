@@ -41,3 +41,4 @@ title: iOS Shortcuts
 - [WallCreator 2.0 Adds Ability to Set Wallpapers, Save and Restore Favorites, Plus Automation Support](https://www.macstories.net/ios/wallcreator-2-0-adds-ability-to-set-wallpapers-save-and-restore-favorites-plus-automation-support/)
 - [Shortcuts with Netlify Edge Functions are powerful combo](https://twitter.com/larryhudsondev/status/1530725044435193856)
 - [Will Boyce's iOS shortcuts](https://github.com/wrboyce/ios-shortcuts)
+- [Generating Markdown Links to Mail Messages with Shortcuts and AppleScript (2022)](https://www.macstories.net/stories/generating-markdown-links-to-mail-messages-with-shortcuts-and-applescript/)

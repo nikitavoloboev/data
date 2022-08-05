@@ -576,3 +576,5 @@
 - [Coding as a greybeard (2022)](https://news.ycombinator.com/item?id=32317441)
 - [Strict-serializability, but at what cost, for what purpose? (2022)](https://muratbuffalo.blogspot.com/2022/08/strict-serializability-but-at-what-cost.html)
 - [The Coding Train - YouTube](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) ([Discord](https://discord.com/invite/hPuGy2g))
+- [Tiny Programs in different languages](https://github.com/eatonphil/tinyprograms)
+- [Cut the cutesy errors (2022)](https://alexwlchan.net/2022/08/no-cute/) ([HN](https://news.ycombinator.com/item?id=32337520))

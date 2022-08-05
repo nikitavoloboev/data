@@ -511,3 +511,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Egress Eddie](https://github.com/capnspacehook/egress-eddie) - Simple tool designed to do one thing: filter outbound traffic by hostname on Linux.
 - [Recommended settings for Wi-Fi routers and access points](https://support.apple.com/en-us/HT202068) ([HN](https://news.ycombinator.com/item?id=32285638))
 - [Ookla Internet benchmark results around the World](https://studio.unfolded.ai/public/eb120377-c715-4630-8a4e-c1b24e6a32f9)
+- [Trippy](https://github.com/fujiapple852/trippy) - Network diagnostic tool.

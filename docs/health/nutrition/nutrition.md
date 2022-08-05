@@ -94,3 +94,5 @@ I try drink only water/tea with occasional coffee. No added sugar in food/drinks
 - [What are the most nutrient dense foods? (2022)](https://www.reddit.com/r/nutrition/comments/vupuil/what_are_the_most_nutrient_dense_foods/)
 - [What would you eat if you only cared about maximal nutrition, and taste didn’t matter?](https://www.reddit.com/r/PlantBasedDiet/comments/w626p9/what_would_you_eat_if_you_only_cared_about/)
 - [Diet and its effects on the gut biome in the pathophysiology of mental disorders (2022)](https://www.nature.com/articles/s41398-022-01922-0) ([HN](https://news.ycombinator.com/item?id=32221449))
+- [Everything Ian Somerhalder Eats in a Day](https://www.youtube.com/watch?v=qO--hy6Q-LA)
+- [Iollo](https://www.iollo.com/) - At-home metabolomics test to extend healthy lifespan. ([HN](https://news.ycombinator.com/item?id=32333417))

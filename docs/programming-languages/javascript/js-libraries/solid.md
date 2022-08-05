@@ -116,3 +116,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Rigidity](https://github.com/LXSMNSYC/rigidity) - SSR framework for SolidJS. ([Tweet](https://twitter.com/lxsmnsyc/status/1552312144951005185))
 - [Rallax](https://github.com/thetarnav/rallax) - Parallax library for SolidJS.
 - [Solid-Dexie](https://github.com/faassen/solid-dexie) - Dexie integration for Solid.
+- [SolidJS bindings for atomic-router](https://github.com/atomic-router/solid)

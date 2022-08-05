@@ -119,3 +119,4 @@ title: Ray tracing
 - [CUDA Pathtracer](https://github.com/jan-van-bergen/GPU-Raytracer) - GPU Ray tracer from scratch in C++/CUDA.
 - [Path tracer in rust](https://github.com/coreylowman/teeracer)
 - [Ray tracing in one weekend, in Rust](https://github.com/fralken/ray-tracing-in-one-weekend)
+- [NanoRT](https://github.com/lighttransport/nanort) - Single header only modern ray tracing kernel.

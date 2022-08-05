@@ -223,6 +223,7 @@
 - [Queuetopia](https://github.com/annatel/queuetopia) - Persistent blocking job queue built with Ecto.
 - [GenRegistry](https://github.com/discord/gen_registry) - Simple and efficient local Process Registry.
 - [Rambo](https://github.com/jayjun/rambo) - Run your command. Send input. Get output.
+- [Rexbug](https://github.com/nietaki/rexbug) - Thin Elixir wrapper for the redbug Erlang tracing debugger.
 
 ## Links
 

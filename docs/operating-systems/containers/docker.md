@@ -6,6 +6,8 @@ title: Docker
 
 [DockerSlim](https://github.com/docker-slim/docker-slim) is useful. Seems everyone is moving to [containerd](https://github.com/containerd/containerd) or [Colima](https://github.com/abiosoft/colima) now.
 
+Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432) for [Nix](../../package-managers/nix/nix.md) which can even [build Docker images](https://lobste.rs/s/ilgax7/use_flake_nix_not_dockerfile) if you need them.
+
 ## Links
 
 - [Docker Docs](https://docs.docker.com/) ([Code](https://github.com/docker/docker.github.io))
@@ -34,7 +36,7 @@ title: Docker
 - [docker-gen](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data.
 - [Intro Guide to Dockerfile Best Practices (2019)](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/) ([HN](https://news.ycombinator.com/item?id=20381388))
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics.
-- [DockerSlim](https://github.com/docker-slim/docker-slim) - Minify and Secure Docker containers.
+- [DockerSlim](https://github.com/docker-slim/docker-slim) - Minify and Secure Docker containers. ([HN](https://news.ycombinator.com/item?id=32334741))
 - ["Distroless" Docker Images](https://github.com/GoogleContainerTools/distroless) - Language focused docker images, minus the operating system.
 - [Docker Registry Client for Go apps](https://github.com/heroku/docker-registry-client)
 - [tsuru](https://github.com/tsuru/tsuru) - Open source, extensible and Docker-based Platform as a Service.
@@ -252,3 +254,4 @@ title: Docker
 - [Non-Obvious Docker Uses (2022)](https://matt-rickard.com/non-obvious-docker-uses/) ([HN](https://news.ycombinator.com/item?id=32213950))
 - [Docker and the OCI container ecosystem (2022)](https://lwn.net/SubscriberLink/902049/374614a66c0367f3/)
 - [Modus](https://github.com/modus-continens/modus) - Language for building Docker/OCI container images. ([Web](https://modus-continens.com/))
+- [Docker Python SDK](https://github.com/docker/docker-py)

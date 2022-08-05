@@ -412,3 +412,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Better file system API for Node.js.
 - [file-cache](https://github.com/azu/file-cache) - Node.js library that provide a cache for file metadata or file content.
 - [fine](https://github.com/simonecorsi/fine) - Zero dependency and opinionated package that gracefully shutdown Node.js applications.
+- [pkg-fetch](https://github.com/vercel/pkg-fetch) - Utility to fetch or build patched Node binaries used by `pkg` to generate executables.

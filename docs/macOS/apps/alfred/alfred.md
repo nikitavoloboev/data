@@ -153,3 +153,4 @@ fi
 - [Alfred-Workflow](https://github.com/NorthIsUp/alfred-workflow-py3) - Full-featured library for writing Alfred 3 & 4 workflows.
 - [go-alfred](https://github.com/jason0x43/go-alfred) - Alfred Workflow utility library for Go. Useful CLI too.
 - [powerpack](https://github.com/rossmacarthur/powerpack) - Supercharge your Alfred workflows by building them in Rust.
+- [Alfred Automation Tasks](https://github.com/alfredapp/automation-tasks)

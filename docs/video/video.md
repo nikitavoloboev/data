@@ -4,7 +4,7 @@ I share [all the YouTube channels I follow](https://gist.github.com/nikitavolobo
 
 [Descript](https://www.descript.com/) is amazing for video/sound editing. [Cloudflare Video is great for hosting videos](https://twitter.com/elithrar/status/1504254198111776769) (aside from [YouTube](https://youtube.com/) itself). [YT-DLP](https://github.com/yt-dlp/yt-dlp) is great for downloading videos from the web.
 
-Prefer [Google Meet](https://meet.google.com/) for video calls.
+Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok videos](https://www.tiktok.com/@nikitavoloboev).
 
 ## Inspiring editing
 
@@ -388,3 +388,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [VVenC](https://github.com/fraunhoferhhi/vvenc) - Fraunhofer Versatile Video Encoder.
 - [VVdeC](https://github.com/fraunhoferhhi/vvdec) - Fraunhofer Versatile Video Decoder.
 - [Ask HN: Why has quality of YouTube reduced drastically? (2022)](https://news.ycombinator.com/item?id=32328207)
+- [Moonfire NVR](https://github.com/scottlamb/moonfire-nvr) - Security camera network video recorder.

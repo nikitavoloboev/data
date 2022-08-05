@@ -213,3 +213,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [City Scrapers](https://github.com/City-Bureau/city-scrapers) - Scrape, standardize and share public meetings from local government websites.
 - [Lambda Soup](https://github.com/aantron/lambdasoup) - Functional HTML scraping and rewriting with CSS in OCaml.
 - [linkchecker](https://github.com/Jasstkn/link-checker) - Simple CLI tool to find all broken links in your website.
+- [OSINT](https://github.com/sinwindie/OSINT) - Collections of tools and methods created to aid in OSINT collection.

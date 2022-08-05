@@ -43,3 +43,4 @@ title: Apollo GraphQL
 - [Svelte Apollo](https://github.com/timhall/svelte-apollo) - Svelte integration for Apollo GraphQL.
 - [The story behind Apollo Kotlin 3 codegen (2022)](https://www.apollographql.com/blog/mobile/kotlin/the-story-behind-apollo-kotlin-3-codegen/)
 - [Notes and guides on using Apollo client's APIs](https://github.com/flexdinesh/apollo-graphql-playbook)
+- [federation-rs](https://github.com/apollographql/federation-rs) - Responsible for all of the deno-powered TypeScript <--> Rust interop.

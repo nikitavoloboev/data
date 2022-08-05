@@ -323,6 +323,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [The Best of What I Read in 2020](https://kitchenettekat.medium.com/the-best-of-what-i-read-in-2020-49019f22ad36)
 - [Ask HN: Which book are you reading, since when? (2022)](https://news.ycombinator.com/item?id=32196791)
 - [What are your top 5 favorite sci-fi works? (2022)](https://www.reddit.com/r/scifi/comments/w70lak/what_are_your_top_5_favourite_scifi_works/)
+- [Best and worst books you've read so far in 2022](https://www.reddit.com/r/suggestmeabook/comments/wg3i5y/best_and_worst_books_youve_read_so_far_in_2022_go/)
 
 ## Interesting Prose Books
 
@@ -569,3 +570,5 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Which fictional universe would you rather live in? (2022)](https://www.reddit.com/r/scifi/comments/vqs0z8/which_fictional_universe_would_you_rather_live_in/)
 - [I just finished reading a book and took lots of notes. Now what? (2022)](https://writing.bobdoto.computer/question-i-just-finished-reading-a-book-and-took-lots-of-notes-now-what/) ([HN](https://news.ycombinator.com/item?id=32123781))
 - [Recommend Me a Book](https://recommendmeabook.com/) - Find a new book by reading the first pages of random of novels. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/w94lx9/find_a_new_book_by_reading_the_first_pages_of/))
+- [Calibre](https://calibre-ebook.com/) - E-book management. ([Code](https://github.com/kovidgoyal/calibre))
+- [What’s the strangest thing you ever found in a book? (2022)](https://noctslackv2.wordpress.com/2022/08/02/whats-the-strangest-thing-you-ever-found-in-a-book/) ([HN](https://news.ycombinator.com/item?id=32334552))

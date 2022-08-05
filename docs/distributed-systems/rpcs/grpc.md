@@ -123,3 +123,4 @@ title: gRPC
 - [Node gRPC Server](https://github.com/MattIPv4/node-grpc-server)
 - [grpcutil](https://github.com/authzed/grpcutil) - Various utilities to simplify common gRPC APIs.
 - [gRPC JSON Proxy](https://github.com/jnewmano/grpc-json-proxy) - gRPC proxy for Postman like tools.
+- [Connect-Web](https://github.com/bufbuild/connect-web) - Simple, reliable, interoperable. A better gRPC-Web. ([Article](https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser)) ([HN](https://news.ycombinator.com/item?id=32345670))

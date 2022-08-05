@@ -238,3 +238,5 @@ title: DNS
 - [PyDomainExtractor](https://github.com/Intsights/PyDomainExtractor) - Blazingly fast domain extraction library written in Rust.
 - [Serverless DNS](https://github.com/serverless-dns/serverless-dns) - Self-Hosted DNS Resolver at the Edge. ([HN](https://news.ycombinator.com/item?id=32286408))
 - [Building a Recursive DNS Resolver (2022)](https://timothya.com/blog/dns/) ([HN](https://news.ycombinator.com/item?id=32279070))
+- [dnsv2](https://github.com/miekg/dnsv2) - Alternative (more granular) approach to a DNS library.
+- [Fast DNS package for Go](https://github.com/phuslu/fastdns) - Tuned for high performance. Zero memory allocations in almost paths. Up to 1M QPS on a single host.

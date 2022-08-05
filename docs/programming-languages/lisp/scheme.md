@@ -81,7 +81,7 @@ title: Scheme
 - [Waffle](https://github.com/playXE/waffle-scheme) - Simple Scheme implementation with bytecode VM.
 - [Fiddle](https://github.com/maxsnew/modal-scheme) - Scheme-like CBPV language with Racket Interoperability.
 - [agda2scheme](https://github.com/jespercockx/agda2scheme) - Agda backend for Chez Scheme.
-- [The Reasoned Schemer Book (2018)](https://mitpress.mit.edu/books/reasoned-schemer-second-edition) ([Code](https://github.com/TheReasonedSchemer2ndEd/CodeFromTheReasonedSchemer2ndEd))
+- [The Reasoned Schemer Book (2018)](https://mitpress.mit.edu/books/reasoned-schemer-second-edition) ([Code](https://github.com/TheReasonedSchemer2ndEd/CodeFromTheReasonedSchemer2ndEd)) ([Code](https://github.com/rlouf/reasoned-schemer))
 - [Haskeme](https://github.com/jumper149/haskeme) - Compiler translates Scheme source code written with I-Expressions (indented expressions) into S-Expressions (symbolic expressions).
 - [Bob](https://github.com/eliben/bobscheme) - Implementation of Scheme in Python and C++.
 - [Braces](https://github.com/certainty/braces) - Toy scheme compiler and VM in rust.
