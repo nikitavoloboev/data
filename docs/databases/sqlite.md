@@ -235,3 +235,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [SQLite-HTML](https://github.com/asg017/sqlite-html) - SQLite extension for querying, manipulating, and creating HTML elements. ([HN](https://news.ycombinator.com/item?id=32335295))
 - [Sqinn](https://github.com/cvilsmeier/sqinn) - SQLite over stdin/stdout.
 - [libgsqlite](https://github.com/0x6b/libgsqlite) - SQLite extension which loads a Google Sheet as a virtual table.
+- [SQLite store for node cache manager](https://github.com/maxpert/node-cache-manager-sqlite)

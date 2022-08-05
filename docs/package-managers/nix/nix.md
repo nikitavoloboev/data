@@ -377,7 +377,7 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix post-build-hook queue](https://github.com/newAM/nix-post-build-hook-queue)
 - [Nix packaging, the heretic way (2022)](https://zimbatm.com/notes/nix-packaging-the-heretic-way) ([Lobsters](https://lobste.rs/s/iwnnya/nix_packaging_heretic_way))
 - [Nix-wrangle](https://github.com/timbertson/nix-wrangle) - Wrangle your nix dependencies.
-- [Nix – taming Unix with functional programming (2022)](https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/)
+- [Nix – taming Unix with functional programming (2022)](https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/) ([HN](https://news.ycombinator.com/item?id=32355327))
 - [Demo of using Nix + Bazel for a tree-sitter project](https://github.com/typesanitizer/demo-nix-bazel-tree-sitter)
 - [About using Nix in my development workflow (2018)](https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/) ([HN](https://news.ycombinator.com/item?id=32169454))
 - [Summer of Nix 2022 - YouTube](https://www.youtube.com/playlist?list=PLt4-_lkyRrOMWyp5G-m_d1wtTcbBaOxZk)

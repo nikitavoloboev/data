@@ -74,3 +74,4 @@ title: Godot
 - [Making Advanced GUI Applications with Godot (2020)](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b) ([Lobsters](https://lobste.rs/s/uka8eq/making_advanced_gui_applications_with))
 - [It’s time to make that indie C# game in Godot (2022)](https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470) ([HN](https://news.ycombinator.com/item?id=32096575))
 - [Mesh Painter](https://github.com/StrayEddy/GodotPlugin-MeshPainter) - Mesh painter plugin for Godot.
+- [Godot 3.5 (2022)](https://godotengine.org/article/godot-3-5-cant-stop-wont-stop) ([HN](https://news.ycombinator.com/item?id=32357248))
