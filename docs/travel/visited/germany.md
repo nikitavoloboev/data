@@ -57,3 +57,4 @@ Aside from those geopolitical failures, Germany seems like a nice place to live 
 - [Germany's decisions to shut down nuclear made EU vulnerable to shortages of reliable sources of electricity (2022)](https://twitter.com/DoombergT/status/1550774894618705920)
 - [Great food places in Berlin (2022)](https://www.reddit.com/r/berlin/comments/w8ebjl/people_from_other_countries_where_is_the_best/)
 - [Curated list of German Tech Podcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts)
+- [German Net Salary Calculator](https://lohntastik.de/gns/gross-net-salary-calculator) - The calculator will assist you in determining how much of your gross salary will remain after taxes and social contributions have been deducted.
