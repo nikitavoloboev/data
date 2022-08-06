@@ -162,3 +162,4 @@ On bright side, it does appear that Russia [fully lost out on its objectives in 
 - [The Desperate Lives Inside Ukraine’s “Dead Cities” (2022)](https://www.newyorker.com/magazine/2022/08/01/the-desperate-lives-inside-ukraines-dead-cities)
 - [Top Cargo200](https://topcargo200.com/)
 - [Ukraine’s military strategy of corrosion (2022)](https://twitter.com/WarintheFuture/status/1553973368809918464)
+- [Dzyga's Paw – Charity Fund](https://dzygaspaw.com/) ([Tweet](https://twitter.com/dim0kq/status/1555612916241547264))

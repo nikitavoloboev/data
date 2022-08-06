@@ -65,6 +65,7 @@
 - [Etso](https://github.com/evadne/etso) - Ecto 3 adapter allowing use of Ecto schemas held in ETS tables.
 - [Triplex](https://github.com/ateliware/triplex) - Simple and effective way to build multitenant applications on top of Ecto.
 - [Xandra](https://github.com/lexhide/xandra) - Fast, simple, and robust Cassandra driver for Elixir.
+- [Pointers](https://github.com/bonfire-networks/pointers) - One foreign key to rule them all and in the darkness, bind them.
 
 ## Test
 

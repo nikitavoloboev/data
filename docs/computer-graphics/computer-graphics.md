@@ -239,3 +239,6 @@
 - [Mitsuba 3](https://github.com/mitsuba-renderer/mitsuba3) - Retargetable Forward and Inverse Renderer. ([Web](https://www.mitsuba-renderer.org/))
 - [3D Formats Guidelines](https://github.com/KhronosGroup/3D-Formats-Guidelines) - Guidelines for artists and developers using Khronos Group 3D formats.
 - [Interpolating Polygons (2017)](http://lambdafunk.com/2017-02-21-Interpolating-Polygons/)
+- [A simple texture atlas packing algorithm (2022)](https://lisyarus.github.io/blog/graphics/2022/07/30/texture-packing.html)
+- [A better point light attenuation function (2022)](https://lisyarus.github.io/blog/graphics/2022/07/30/point-light-attenuation.html)
+- [Compute shaders in graphics: Gaussian blur (2022)](https://lisyarus.github.io/blog/graphics/2022/04/21/compute-blur.html)

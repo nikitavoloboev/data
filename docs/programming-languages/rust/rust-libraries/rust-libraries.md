@@ -2094,6 +2094,7 @@
 - [hot-lib-reloader](https://github.com/rksm/hot-lib-reloader-rs) - Utility to reload libraries on change. For faster feedback cycles.
 - [Twelf](https://github.com/bnjjj/twelf/) - Configuration solution for Rust including 12-Factor support.
 - [recap](https://github.com/softprops/recap) - Deserialize typed structures from regex captures.
+- [async-oneshot](https://github.com/irrustible/async-oneshot) - Fast, small, full-featured, no-std compatible oneshot channel.
 
 ## Cargo Plugins
 
