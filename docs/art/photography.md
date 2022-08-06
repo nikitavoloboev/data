@@ -230,3 +230,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Exif Looter](https://github.com/aydinnyunus/exifLooter) - Finds geolocation on all image urls and directories. ([HN](https://news.ycombinator.com/item?id=32286730))
 - [imgs](https://imgs.so/) - Show & tell for photographers.
 - [Cosmos](https://www.cosmos.so/) - Home for curating your universe. ([Twitter](https://twitter.com/thecosmos))
+- [Elodie](https://github.com/jmathai/elodie) - EXIF-based photo assistant, organizer, manager and workflow automation tool.

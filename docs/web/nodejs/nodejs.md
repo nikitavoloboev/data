@@ -413,3 +413,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [file-cache](https://github.com/azu/file-cache) - Node.js library that provide a cache for file metadata or file content.
 - [fine](https://github.com/simonecorsi/fine) - Zero dependency and opinionated package that gracefully shutdown Node.js applications.
 - [pkg-fetch](https://github.com/vercel/pkg-fetch) - Utility to fetch or build patched Node binaries used by `pkg` to generate executables.
+- [OpenAPI in Node](https://github.com/kogosoftwarellc/open-api) - Monorepo of various packages to power OpenAPI in node.

@@ -164,3 +164,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Advanced Remix Workshop](https://github.com/FrontendMasters/advanced-remix)
 - [Remix Fundamentals Workshop](https://github.com/FrontendMasters/remix-fundamentals)
 - [Remix SSG](https://github.com/jacob-ebey/remix-ssg) - CLI for building static sites with Remix.
+- [Remix-Query](https://github.com/GuptaSiddhant/remix-query) - Keep your loader data in sync in your component without reloading the page.

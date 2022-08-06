@@ -380,3 +380,4 @@ title: ML Libraries
 - [PyCave](https://github.com/borchero/pycave) - Traditional Machine Learning Models for Large-Scale Datasets in PyTorch.
 - [Draco](https://github.com/cmudig/draco2) - Formal framework for representing design knowledge about effective visualization design as a collection of constraints.
 - [GRAPE](https://github.com/AnacletoLAB/grape) - Rust/Python library for high-performance Graph Processing and Embedding.
+- [dp-transformers](https://github.com/microsoft/dp-transformers) - Differentially-private transformers using HuggingFace and Opacus.

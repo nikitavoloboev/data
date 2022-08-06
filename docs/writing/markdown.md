@@ -142,3 +142,5 @@
 - [goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) - Extension for the goldmark Markdown parser that adds support for Mermaid diagrams.
 - [cbfmt](https://github.com/lukas-reineke/cbfmt) - Tool to format codeblocks inside markdown and org documents.
 - [CommonMark](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript.
+- [Djot](https://djot.net/) - Light markup syntax. It derives most of its features from commonmark, but it fixes a few things. ([Code](https://github.com/jgm/djot))
+- [VS Code Markdown Language Service](https://github.com/microsoft/vscode-markdown-languageservice)

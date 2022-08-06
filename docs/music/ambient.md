@@ -15,7 +15,7 @@ Most if not all songs in my [Focus](https://open.spotify.com/playlist/0ESjwZeTcH
 - [Ambient Music Subreddit](https://www.reddit.com/r/ambientmusic/)
 - [I Miss My Bar](http://imissmybar.com/) - Recreate Your Favorite Bar's Atmosphere. ([HN](https://news.ycombinator.com/item?id=26188710))
 - [Tabletop Audio](https://tabletopaudio.com/) - Ambiences and Music for Tabletop Role Playing Games.
-- [myNoise](https://mynoise.net/) - Focus. Relax. Sleep.
+- [MyNoise](https://mynoise.net/) - Focus. Relax. Sleep. ([HN](https://news.ycombinator.com/item?id=32366075))
 - [Ryuichi Sakamoto - solari](https://www.youtube.com/watch?v=n6OqLXvri3M)
 - [Music To Program To](https://alangrow.com/blog/music-to-program-to)
 - [The Dive - Peter Gregson](https://open.spotify.com/track/01hFM9dS9M6lN4rUvo4A2u?si=wxMth1B9RESvGLy7XDJj6w)

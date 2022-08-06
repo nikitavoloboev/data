@@ -578,3 +578,4 @@
 - [The Coding Train - YouTube](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) ([Discord](https://discord.com/invite/hPuGy2g))
 - [Tiny Programs in different languages](https://github.com/eatonphil/tinyprograms)
 - [Cut the cutesy errors (2022)](https://alexwlchan.net/2022/08/no-cute/) ([HN](https://news.ycombinator.com/item?id=32337520))
+- [Ask HN: What are the ways you go about getting comfortable with a new codebase? (2022)](https://news.ycombinator.com/item?id=32365660)

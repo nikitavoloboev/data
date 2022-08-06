@@ -85,3 +85,4 @@
 - [Panthera](https://github.com/Insality/panthera-editor) - Online tool for visual creating animation for Defold.
 - [JavaScript: Restart all Animations of an Element](https://www.bram.us/2022/07/20/javascript-restart-all-animations-of-an-element/)
 - [Rational Animations - YouTube](https://www.youtube.com/c/RationalAnimations/videos)
+- [DreamWorks Animation to release MoonRay as open source (2022)](https://www.awn.com/news/dreamworks-animation-release-moonray-open-source) ([HN](https://news.ycombinator.com/item?id=32357470))

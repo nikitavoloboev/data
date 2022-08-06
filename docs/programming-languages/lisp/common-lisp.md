@@ -121,3 +121,5 @@
 - [MAGICL](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp.
 - [Sheeple](https://github.com/zkat/sheeple) - Dynamic, CLOS-like, Delegative Prototype-based Object-Oriented Programming Framework.
 - [Destructuring match in Common Lisp](https://github.com/tfeb/dsm)
+- [gRPC Client Library in Common Lisp](https://github.com/qitab/grpc)
+- [AllegroServe](https://github.com/franzinc/aserve) - Web server written in Common Lisp. ([HN](https://news.ycombinator.com/item?id=32361882))

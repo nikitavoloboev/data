@@ -450,3 +450,5 @@ title: Haskell
 - [Imperial College London final Haskell exam solutions](https://github.com/tomcobley/haskell-final-exams)
 - [Magical Haskell Book](https://leanpub.com/magicalhaskell/read) ([Lobsters](https://lobste.rs/s/ulial1/magical_haskell))
 - [Haskell Bookcamp Book (2022)](https://www.manning.com/books/haskell-bookcamp) ([Tweet](https://twitter.com/graninas/status/1555539289706041345))
+- [Haskell Foundation Tech Proposals](https://github.com/haskellfoundation/tech-proposals)
+- [Monad Confusion and the Blurry Line Between Data and Computation (2022)](https://www.micahcantor.com/blog/monad-confusion/) ([HN](https://news.ycombinator.com/item?id=32366022))

@@ -67,3 +67,4 @@ title: Fastify
 - [fastify/deepmerge](https://github.com/fastify/deepmerge) - Merges the enumerable properties of two or more objects deeply.
 - [Fastify Type Provider for Typebox](https://github.com/fastify/fastify-type-provider-typebox)
 - [fastify/autoload](https://github.com/fastify/fastify-autoload) - Convenience plugin for Fastify that loads all plugins found in a directory and automatically configures routes matching the folder structure.
+- [Fastify OpenApi Glue](https://github.com/seriousme/fastify-openapi-glue) - Plugin for Fastify to autogenerate a configuration based on a OpenApi(v2/v3) specification.

@@ -349,3 +349,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [graphql-http](https://github.com/enisdenjo/graphql-http) - Simple, pluggable, zero-dependency, GraphQL over HTTP Protocol compliant server and client.
 - [GraphQLGate](https://github.com/oslabs-beta/GraphQL-Gate) - GraphQL rate limiting library using query complexity analysis.
 - [GraphQL Gateway Developer Portal](https://github.com/oslabs-beta/GraphQL-Gateway) - Designed for offering a visualization of how your GraphQL API endpoints is secured using rate limits and depth limits.
+- [Unpopular opinion GraphQL kinda sucks (2022)](https://news.ycombinator.com/item?id=32366759)

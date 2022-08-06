@@ -574,3 +574,5 @@ title: Linux
 - [stratisd](https://github.com/stratis-storage/stratisd) - Easy to use local storage management for Linux.
 - [Rust linux kernel development | JackOS](https://www.jackos.io/rust-kernel/rust-for-linux.html) ([Code](https://github.com/jackos/jackos.io))
 - [Learning eBPF Book](https://github.com/lizrice/learning-ebpf)
+- [Embedded Linux Using Nix/NixOS on the VisionFive RISC-V SBC (2022)](https://www.youtube.com/watch?v=cmjK8SLIx9E)
+- [CVE-2022-29582: An io_uring vulnerability (2022)](https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/)

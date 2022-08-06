@@ -45,7 +45,7 @@ title: Elasticsearch
 - [Elastic Stack on Docker](https://github.com/sherifabdlnaby/elastdocker) - With Preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics Exporters.
 - [Curator](https://github.com/elastic/curator) - Tending your Elasticsearch indices.
 - [elasticdump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Tools for moving and saving indices.
-- [Elasticsearch DSL written in Rust](https://github.com/vinted/elasticsearch-dsl-rs)
+- [Elasticsearch DSL written in Rust](https://github.com/vinted/elasticsearch-dsl-rs) ([Lobsters](https://lobste.rs/s/qewngq/strongly_typed_elasticsearch_dsl))
 - [Elasticsearch Python Client](https://github.com/elastic/elasticsearch-py)
 - [BERT models with Solr and Elasticsearch](https://github.com/DmitryKey/bert-solr-search)
 - [Is ELK stack really worth it? (2021)](https://www.reddit.com/r/devops/comments/qt6isb/is_elk_stack_really_worth_it/)

@@ -289,3 +289,5 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [sentry-deno](https://github.com/timfish/sentry-deno) - Experimental Sentry client for Deno.
 - [ReScript on Deno: Command Line Tools and the Flags module](https://practicalrescript.com/rescript-on-deno-command-line-tools/)
 - [Fresh Session](https://github.com/xstevenyung/fresh-session) - Dead simple cookie-based session for Deno Fresh.
+- [Deno Zip](https://github.com/moncefplastin07/deno-zip) - Streaming cross-platform zip tool written for Deno.
+- [DenoGres](https://github.com/oslabs-beta/DenoGres) - Comprehensive ORM for PostgreSQL and Deno.

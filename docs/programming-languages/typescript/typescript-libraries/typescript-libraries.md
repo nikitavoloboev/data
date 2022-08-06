@@ -41,7 +41,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Axios-Fetch](https://github.com/lifeomic/axios-fetch) - WebAPI Fetch implementation backed by an Axios client.
 - [Voby](https://github.com/fabiospampinato/voby) - High-performance framework for writing web apps.
 - [Candid](https://github.com/danieldietrich/candid) - Unopinionated, frameworkless JavaScript library for building web applications.
-- [Deepkit](https://github.com/deepkit/deepkit-framework) - High-Performance TypeScript Framework. ([Web](https://deepkit.io/)) ([HN](https://news.ycombinator.com/item?id=31663298))
+- [Deepkit](https://github.com/deepkit/deepkit-framework) - High-Performance TypeScript Framework. ([Web](https://deepkit.io/)) ([HN](https://news.ycombinator.com/item?id=31663298)) ([Deepkit OpenAPI](https://github.com/hanayashiki/deepkit-openapi))
 - [Chemin](https://github.com/etienne-dldc/chemin) - Type-safe pattern builder & route matching library written in TypeScript.
 - [FRANXX](https://github.com/egoist/franxx) - Vanilla JavaScript router that works everywhere.
 - [Unrouted](https://github.com/harlan-zw/unrouted) - Minimal, composable router built for speed, portability and DX.
@@ -676,3 +676,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [clean-pkg-json](https://github.com/privatenumber/clean-pkg-json) - Script to remove unnecessary properties from package.json on prepublish hook.
 - [pridepack](https://github.com/LyonInc/pridepack) - Zero-config CLI for building Typescript packages.
 - [core-dts](https://github.com/Kingwl/core-dts) - TypeScript will support all proposals above stage-3.
+- [git-publish](https://github.com/privatenumber/git-publish) - Publish your npm package to a Git branch.

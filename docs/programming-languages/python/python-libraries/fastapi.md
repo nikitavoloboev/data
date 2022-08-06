@@ -32,3 +32,4 @@ title: FastAPI
 - [FastAPI on Google Cloud Run](https://github.com/anthonycorletti/cloudrun-fastapi)
 - [Reusable utilities for FastAPI](https://github.com/dmontagu/fastapi-utils)
 - [FastAPI + PostgreSQL + JWT + Docker + Nginx template](https://github.com/m0kr4n3/fastapi_project_template)
+- [FastAPI Enclave Services](https://github.com/ObliviousAI/FastAPI-Enclave-Services)

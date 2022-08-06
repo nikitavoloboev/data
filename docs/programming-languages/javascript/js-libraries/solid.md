@@ -117,3 +117,6 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Rallax](https://github.com/thetarnav/rallax) - Parallax library for SolidJS.
 - [Solid-Dexie](https://github.com/faassen/solid-dexie) - Dexie integration for Solid.
 - [SolidJS bindings for atomic-router](https://github.com/atomic-router/solid)
+- [Introducing SolidStart w/ Nikhil Saraf (2022)](https://www.youtube.com/watch?v=eAwuPvRXNdY)
+- [Solid Toast](https://github.com/ardeora/solid-toast) - Customizable Toast Notifications for SolidJS.
+- [Solid-Query](https://github.com/ardeora/solid-query) - Tanstack Query Adapter For Solid JS.

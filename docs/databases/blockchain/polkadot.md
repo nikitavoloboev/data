@@ -89,3 +89,4 @@ title: Polkadot
 - [Awesome Substrate](https://github.com/substrate-developer-hub/awesome-substrate)
 - [Zombienet](https://github.com/paritytech/zombienet) - CLI tool to easily spawn ephemeral Polkadot/Substrate networks and perform tests against them.
 - [Capi](https://github.com/paritytech/capi) - TypeScript toolkit for crafting interactions with Substrate-based chains.
+- [Subshell](https://github.com/btwiuse/subshell) - Substrate API playground in a Deno.

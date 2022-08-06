@@ -163,3 +163,4 @@ title: Redis
 - [redfront](https://github.com/tidwall/redfront) - HTTP protocol frontend for Redis-compatible services.
 - [Rip](https://github.com/zdenham/redis-ipfs) - Redis Key Value store backed by IPFS.
 - [Redis-Rope](https://github.com/ekzhang/redis-rope) - Fast native data type for manipulating large strings in Redis.
+- [Redis Replica Manager](https://github.com/zavitax/redis-replica-manager-go) - Group membership, sharding, replication and request routing manager relying on Redis for coordination.

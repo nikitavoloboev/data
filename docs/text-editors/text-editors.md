@@ -86,6 +86,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Kisa](https://github.com/greenfork/kisa) - Hackable and batteries-included text editor of the new world.
 - [Zas Editor](https://www.zeditor.app/) ([HN](https://news.ycombinator.com/item?id=30952084))
 - [Pepper](https://github.com/vamolessa/pepper) - Simple and opinionated modal code editor for your terminal.
+- [CudaText](https://github.com/Alexey-T/CudaText) - Open-source, cross-platform text editor, written in Lazarus. ([HN](https://news.ycombinator.com/item?id=32360341))
 
 ## Web
 

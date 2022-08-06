@@ -406,3 +406,4 @@
 - [Basic Pitch](https://github.com/spotify/basic-pitch-ts) - Lightweight yet powerful audio-to-MIDI converter with pitch bend detection. ([Web](https://basicpitch.spotify.com/))
 - [Arpeggi](https://arpeggi.io/home) - Music creation for the next generation. ([Twitter](https://twitter.com/arpeggi_labs))
 - [Tonic](https://github.com/AudioKit/Tonic) - Swift library for music theory.
+- [StemRoller](https://www.stemroller.com/) - Isolate vocals, drums, bass, and other instrumental stems from any song. ([Code](https://github.com/stemrollerapp/stemroller)) ([HN](https://news.ycombinator.com/item?id=32359325))

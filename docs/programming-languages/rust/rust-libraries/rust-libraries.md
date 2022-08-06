@@ -2185,6 +2185,8 @@
 - [cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - Find potential unused enabled feature flags and prune them.
 - [cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-check) - Scan your Rust crate for semver violations.
 - [cargo-spdx](https://github.com/alilleybrinker/cargo-spdx) - Generate an SPDX Software Bill of Materials for Rust crates.
+- [cargo-docs](https://github.com/btwiuse/cargo-docs) - Serve rust and crate doc locally.
+- [cargo-pgo](https://github.com/Kobzol/cargo-pgo) - Cargo subcommand for optimizing binaries with PGO and BOLT.
 
 ## Notes
 
@@ -2335,3 +2337,5 @@
 - [Proc macro support in rust-analyzer for nightly rustc versions (2022)](https://fasterthanli.me/articles/proc-macro-support-in-rust-analyzer-for-nightly-rustc-versions)
 - [Design Patterns with Rust Types (2022)](https://dev.to/ivancernja/patterns-with-rust-types-3233)
 - [rust-template-rs](https://github.com/taurr/rust-template-rs) - Templates for use when creating Rust applications.
+- [WLambda](https://github.com/WeirdConstructor/WLambda) - Embeddable Scripting Language for Rust.
+- [fabrica](https://github.com/adoerr/fabrica) - Assorted Rust Experiments.

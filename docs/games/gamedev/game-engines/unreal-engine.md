@@ -40,3 +40,4 @@ title: Unreal Engine
 - [Niagara Fluids](https://dev.epicgames.com/community/learning/tutorials/orJv/welcome-to-niagara-fluids) - Tools designed to add grid-based simulation to Unreal Engine, including the ability to directly simulate gas and water effects.
 - [Bupaku](https://github.com/Ludea/bupaku) - Build and package Unreal Engine from source.
 - [GRPC with Unreal Engine (2021)](https://kvachev.com/blog/posts/grpc-with-unreal-engine/)
+- [Game Development Notes](https://ikrima.dev/) - Game Development & Unreal Engine Programming Guide. ([Code](https://github.com/ikrima/gamedevguide))

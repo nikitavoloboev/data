@@ -283,3 +283,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Advice on keeping macOS clean (2022)](https://twitter.com/ShriramKMurthi/status/1553954621294489600)
 - [Running Linux microVMs on macOS (M1/M2) (2022)](https://slp.prose.sh/running-microvms-on-m1)
 - [libSandy](https://github.com/opa334/libSandy) - Securely extend the sandbox of system processes and user applications.
+- [PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support.

@@ -128,3 +128,4 @@ title: Apache Kafka
 - [System Design: Why is Kafka fast? (2022)](https://www.youtube.com/watch?v=UNUz1-msbOM)
 - [Simplifying Redpanda Raft implementation (2022)](https://redpanda.com/blog/simplifying-raft-replication-in-redpanda)
 - [StreamOps](https://github.com/io-streamops/streamops) - Kafka and Red Panda Streaming Operations Platform.
+- [FranzView](https://github.com/oslabs-beta/franz) - Open source kafka monitoring and management tool built with Javascript developers in mind.

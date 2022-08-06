@@ -953,6 +953,8 @@
 - [Diffractsim](https://github.com/rafael-fuente/diffractsim) - Diffraction simulator for exploring and visualizing physical optics.
 - [Laspy](https://github.com/laspy/laspy) - Python library for reading, modifying and creating LAS LiDAR files.
 - [python-makefun](https://github.com/smarie/python-makefun) - Dynamically create python functions with a proper signature.
+- [video2numpy](https://github.com/iejMac/video2numpy) - Optimized library for large-scale extraction of frames and audio from video.
+- [clip-video-encode](https://github.com/iejMac/clip-video-encode) - Easily compute clip embeddings from video frames.
 
 ## Notes
 
@@ -1121,3 +1123,4 @@
 - [Freezing requirements with pip-tools (2022)](https://til.simonwillison.net/python/pip-tools)
 - [How to create a Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022) ([HN](https://news.ycombinator.com/item?id=32258783))
 - [PyPI Download Stats](https://pypistats.org/top) - Most downloaded PyPI packages.
+- [Emscripten forge](https://github.com/emscripten-forge/recipes) - Build WASM / emscripten packages with conda/mamba/boa.

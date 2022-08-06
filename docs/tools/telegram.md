@@ -36,6 +36,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Backend for grammY Free Sessions](https://github.com/grammyjs/free-session-backend)
 - [grammY Free Sessions](https://github.com/grammyjs/storage-free)
 - [grammY Hydrate](https://github.com/grammyjs/hydrate) - Hydration plugin for API calls and context objects.
+- [grammY AutoQuote](https://github.com/roziscoding/grammy-autoquote) - Forces all sent messages to quote the last received one.
 - [Markup plugin for grammY](https://github.com/Loskir/grammy-markup) - Provides telegraf-like keyboard and inline keyboard builders.
 - [botgram](https://github.com/botgram/botgram) - Microframework to build Telegram bots. ([Web](https://botgram.js.org/))
 - [Node.js Telegram Bot API](https://github.com/yagop/node-telegram-bot-api)

@@ -857,5 +857,7 @@ title: Rust
 - [Taking ownership of memory in Rust (2022)](https://www.reddit.com/r/rust/comments/wcktri/taking_ownership_of_memory_how_straightforward_is/)
 - [Thoughts on static linking in Rust and how it affects distro maintainers](https://www.reddit.com/r/rust/comments/us328s/comment/i91o4wj/) ([Lobsters](https://lobste.rs/s/eh6ejg/thoughts_on_static_linking_rust_how_it))
 - [Formally Verifying Rust's Opaque Types (2022)](https://dylanj.xyz/posts/rust-coq-opaque-types/) ([HN](https://news.ycombinator.com/item?id=32304618))
-- [Hot Reloading Rust — for Fun and Faster Feedback Cycles (2022)](https://robert.kra.hn/posts/hot-reloading-rust/)
+- [Hot Reloading Rust — for Fun and Faster Feedback Cycles (2022)](https://robert.kra.hn/posts/hot-reloading-rust/) ([HN](https://news.ycombinator.com/item?id=32362836))
 - [Rust Default Values for Maintainability (2022)](https://cj.rs/blog/rust-default-values-for-maintainability/)
+- [Non-lexical lifetimes (NLL) fully stable (2022)](https://blog.rust-lang.org/2022/08/05/nll-by-default.html)
+- [So Zero It's ... Negative? (2022)](https://manishearth.github.io/blog/2022/08/03/zero-copy-3-so-zero-its-dot-dot-dot-negative/)

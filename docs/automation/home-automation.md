@@ -75,3 +75,4 @@
 - [My Preferred Smart Home Vendors (2022)](https://chrisx.xyz/blog/my-preferred-smart-home-vendors/)
 - [Fake Dog for Home Security (2022)](https://t0.vc/7/) ([HN](https://news.ycombinator.com/item?id=32250487))
 - [Helm charts for applications you run at home](https://github.com/k8s-at-home/charts)
+- [Shortumation](https://github.com/asosnovsky/Shortumation) - Better way to write automations in home-assistant without having to install and run a seperate automation engine.

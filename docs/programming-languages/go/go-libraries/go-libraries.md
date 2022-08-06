@@ -1774,6 +1774,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Imagemeta](https://github.com/evanoberholster/imagemeta) - Image Metadata (Exif and XMP) extraction for JPEG, HEIC, AVIF, TIFF and Camera Raw in Go.
 - [OpenFeature Go SDK](https://github.com/open-feature/golang-sdk)
 - [compute-sdk-go](https://github.com/fastly/compute-sdk-go) - Go SDK for building Compute@Edge applications with TinyGo.
+- [Hotswap](https://github.com/edwingeng/hotswap) - Provides a solution for reloading your go code without restarting your server, interrupting or blocking any ongoing procedure.
+- [Deque](https://github.com/edwingeng/deque) - Highly optimized double-ended queue.
 
 ## Links
 
@@ -1903,3 +1905,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [structscanner](https://github.com/VinGarcia/structscanner) - Make it easy to write code that scans data into structs in safe and efficient manner.
 - [Magefiles: Stop on first error (2022)](https://carolynvanslyck.com/blog/2022/07/magefiles-stop-on-first-error/)
 - [Go on Compute@Edge](https://developer.fastly.com/learning/compute/go/) ([Article](https://www.fastly.com/jp/blog/compute-edge-go-support-has-arrived))
+- [deptree](https://github.com/vc60er/deptree) - Show Go dependence like tree.
+- [Adding a standard iterator interface to Go?](https://github.com/golang/go/discussions/54245)

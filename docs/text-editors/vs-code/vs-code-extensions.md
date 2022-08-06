@@ -94,6 +94,7 @@ Below is a list of extensions I use.
 - [Excalidraw Editor](https://github.com/pomdtr/vscode-excalidraw-embed)
 - [CodeSwing](https://marketplace.visualstudio.com/items?itemName=codespaces-Contrib.codeswing) - Interactive coding environment for building web applications (aka swings). ([Code](https://github.com/codespaces-contrib/codeswing))
 - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - Autocomplete AI. ([Code](https://github.com/codota/tabnine-vscode))
+- [Inline fold](https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold) - Custom decorator that "fold" matching content in single line. ([Code](https://github.com/moalamri/vscode-inline-fold))
 - [Adobe XD](https://marketplace.visualstudio.com/items?itemName=Adobe.xd) - Design systems in VS Code.
 - [Docs View](https://marketplace.visualstudio.com/items?itemName=bierner.docs-view) - Display documentation in the sidebar or panel. ([Code](https://github.com/mattbierner/vscode-docs-view))
 - [MetaGo](https://github.com/metaseed/metaGo) - Provides fast cursor movement/selection for keyboard focused users in vscode.
@@ -298,6 +299,10 @@ Below is a list of extensions I use.
 - [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes) ([Code](https://github.com/kortina/vscode-markdown-notes))
 - [Zeta Note](https://github.com/artempyanykh/zeta-note-vscode) - Integrates Zeta Note language server into VSCode for delightful note taking experience.
 - [Markdown Memo](https://marketplace.visualstudio.com/items?itemName=svsool.markdown-memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode. ([Code](https://github.com/svsool/vscode-memo))
+
+## MDX
+
+- [VSCode MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx) ([Code](https://github.com/mdx-js/vscode-mdx))
 
 ## HTML
 

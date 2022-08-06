@@ -84,3 +84,4 @@
 - [HiFi-GAN](https://github.com/bshall/hifigan) - Training and inference scripts for the vocoder models in A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion.
 - [Acoustic-Model](https://github.com/bshall/acoustic-model) - Training and inference scripts for the acoustic models in A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion.
 - [HuBERT](https://github.com/bshall/hubert) - Training and inference scripts for the HuBERT content encoders in A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion.
+- [Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech (2021)](https://arxiv.org/abs/2106.06103) ([Code](https://github.com/jaywalnut310/vits))

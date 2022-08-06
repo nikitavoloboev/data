@@ -407,3 +407,5 @@
 - [Servant Template](https://github.com/tweag/servant-template) - Modern template for a Servant.
 - [dr-cabal](https://github.com/chshersh/dr-cabal) - CLI tool for profiling Haskell dependencies build times.
 - [cabal-fmt](https://github.com/phadej/cabal-fmt) - Formatting .cabal files.
+- [Criterion](https://github.com/haskell/criterion) - Powerful but simple library for measuring the performance of Haskell code.
+- [cabal-hoogle](https://github.com/kokobd/cabal-hoogle) - Generates hoogle database of your local packages and all dependencies.

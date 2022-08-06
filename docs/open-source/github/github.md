@@ -450,3 +450,4 @@ Awesome List
 - [Neat](https://neat.run/) - GitHub and Linear notifications on your desktop and menu bar.
 - [GitHub Traffic Insights as Prometheus metrics](https://github.com/grafana/github-traffic)
 - [gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications.
+- [Ask HN: How to say no to a GitHub issue feature request? (2022)](https://news.ycombinator.com/item?id=32366248)

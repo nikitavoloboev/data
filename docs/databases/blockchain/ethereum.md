@@ -655,3 +655,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [starlight](https://github.com/EYBlockchain/starlight) - Solidity --> zApp transpiler.
 - [huff-rs](https://github.com/huff-language/huff-rs) - Low-level assembly language for the Ethereum Virtual Machine built in blazing-fast pure rust.
 - [ethp2p](https://github.com/Rjected/ethp2p) - P2P types for ethereum.
+- [Rainbow Swaps](https://github.com/rainbow-me/swaps)

@@ -552,6 +552,7 @@
 - [UIViewControllerPresenting](https://github.com/Shimmur/swiftui-uikit-presenting) - UIKit presentation APIs in SwiftUI.
 - [Factory](https://github.com/hmlongco/Factory) - New approach to Container-Based Dependency Injection for Swift and SwiftUI.
 - [SwiftUI Flow Layout](https://github.com/tevelee/SwiftUI-Flow) - Flow Layout implemented in SwiftUI.
+- [AntsInMyPants](https://github.com/jaredsinclair/antsinmypants) - Animate arbitrary SwiftUI views using slow-mo wiggles like the iOS Home Screen widget picker.
 
 ## Test
 
@@ -1220,6 +1221,7 @@
 - [Tuxedo](https://github.com/tevelee/Tuxedo) - Template language for Swift.
 - [SwiftyContacts](https://github.com/SwiftyContacts/SwiftyContacts) - Swift library for Contacts framework.
 - [TextureSwiftSupport](https://github.com/FluidGroup/TextureSwiftSupport) - Library that gains Texture(AsyncDisplayKit) more power in Swift.
+- [Binary Codable](https://github.com/christophhagen/BinaryCodable) - Binary encoder for Swift Codable types.
 
 ## Other (not lib)
 

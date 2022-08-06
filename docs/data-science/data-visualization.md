@@ -176,3 +176,4 @@
 - [Visualize Value Archive](https://archivve.visualizevalue.com/)
 - [Firefly: A browser-based interactive 3D data visualization tool for large data (2022)](https://arxiv.org/abs/2207.13706) ([HN](https://news.ycombinator.com/item?id=32295964))
 - [TUEplots](https://github.com/pnkraemer/tueplots) - Extend matplotlib for scientific publications.
+- [DeepScatter](https://github.com/CreatingData/deepscatter) - Deep Scatterplots for the Web.

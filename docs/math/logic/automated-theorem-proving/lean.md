@@ -108,3 +108,4 @@ title: Lean
 - [Experimenting with Lean 4](https://github.com/AdrienChampion/experimentalean4)
 - [Proof artifact co-training on Lean mathlib](https://github.com/jesse-michael-han/lean-step-public)
 - [Lean chat](https://github.com/zhangir-azerbayev/lean-chat-vscode) - Chat with OpenAI Codex to generate formal theorem statements in Lean for you.
+- [Lean 4 interface to Eigen](https://github.com/lecopivo/EigenLean)
