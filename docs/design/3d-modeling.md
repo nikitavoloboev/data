@@ -92,3 +92,5 @@
 - [OnShape](https://www.onshape.com/) - Powerful in browser CAD that has a free version
 - [Py-MADCAD](https://github.com/jimy-byerley/pymadcad) - Simple yet powerful CAD (Computer Aided Design) library, written with Python.
 - [CADtron](https://kevinlynagh.com/cadtron/) - Gesture-based CAD environment.
+- [Structure Synth](http://structuresynth.sourceforge.net/) - Cross-platform application for generating 3D structures by specifying a design grammar.
+- [libssynth](https://github.com/jcelerier/libssynth) - Structure Synth's parser and generator as a library.

@@ -375,3 +375,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [Hugging Face Transformers and Habana Gaudi AWS DL1 Instances (2022)](https://www.philschmid.de/habana-distributed-training)
 - [Cfplot](https://github.com/jaredtrog/cfplot) - Generate waterfall graphs of CloudFormation. ([HN](https://news.ycombinator.com/item?id=32280162))
 - [S3 Datastore Implementation](https://github.com/ipfs/go-ds-s3)
+- [Matano](https://github.com/matanolabs/matano) - Open-source serverless security lake powered by Rust + Apache Iceberg.

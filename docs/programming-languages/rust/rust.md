@@ -861,3 +861,4 @@ title: Rust
 - [Rust Default Values for Maintainability (2022)](https://cj.rs/blog/rust-default-values-for-maintainability/)
 - [Non-lexical lifetimes (NLL) fully stable (2022)](https://blog.rust-lang.org/2022/08/05/nll-by-default.html)
 - [So Zero It's ... Negative? (2022)](https://manishearth.github.io/blog/2022/08/03/zero-copy-3-so-zero-its-dot-dot-dot-negative/)
+- [Rust Analyzer User Manual](https://rust-analyzer.github.io/manual.html)

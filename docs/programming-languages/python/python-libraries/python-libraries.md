@@ -245,6 +245,8 @@
 ## Physics
 
 - [solid_dmft](https://github.com/TRIQS/solid_dmft) - Versatile python wrapper to perform DFT+DMFT calculations utilizing the TRIQS software library.
+- [scikit-ued](https://github.com/LaurentRDC/scikit-ued) - Collection of algorithms and routines for (ultrafast) electron diffraction and scattering.
+- [crystals](https://github.com/LaurentRDC/crystals) - Data structures, algorithms, and parsing for crystallography.
 
 ## Linux
 

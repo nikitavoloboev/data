@@ -208,3 +208,4 @@ title: SQL
 - [Use Checkerboard Diagrams to Visualize Joins Instead of Venn Diagrams](https://towardsdatascience.com/you-should-use-this-to-visualize-sql-joins-instead-of-venn-diagrams-ede15f9583fc)
 - [Semantic Diff for SQL](https://github.com/tobymao/sqlglot/blob/main/posts/sql_diff.md) ([HN](https://news.ycombinator.com/item?id=32277998))
 - [ts-sql-plugin](https://github.com/xialvjun/ts-sql-plugin) - TypeScript Language Service Plugin for SQL with a tagged template strings SQL builder.
+- [Having, a less understood SQL clause (2022)](https://smallthingssql.com/having-a-less-understood-sql-clause) ([HN](https://news.ycombinator.com/item?id=32363882))

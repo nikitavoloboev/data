@@ -74,3 +74,4 @@ Nuclear energy [gets a bad reputation but its the future of renewable energy](ht
 - [Helion Needs You (2022)](https://blog.samaltman.com/helion-needs-you) ([HN](https://news.ycombinator.com/item?id=32085215))
 - [Nuclear waste isn't a problem](https://twitter.com/MadiHilly/status/1550148385931513856)
 - [Nuclear energy is clean (2022)](https://www.collectifission.nl/nl/2022/07/nuclear-energy-is-clean/) ([HN](https://news.ycombinator.com/item?id=32298994))
+- [The First Small Modular Nuclear Reactor Was Just Approved by US Regulators (2022)](https://singularityhub.com/2022/08/05/the-first-small-modular-nuclear-reactor-design-was-just-approved-by-us-regulators/) ([HN](https://news.ycombinator.com/item?id=32367791))

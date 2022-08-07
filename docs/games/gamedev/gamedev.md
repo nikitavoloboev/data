@@ -281,3 +281,4 @@
 - [Ask HN: What makes users want to share a game? (2022)](https://news.ycombinator.com/item?id=32191526)
 - [NarraScope 2022: 5 Lessons From 50 Years of Text Games](https://www.youtube.com/watch?v=aFUFhf-Y4eg)
 - [Ask HN: Any solo game developers here? (2022)](https://news.ycombinator.com/item?id=32343096)
+- [Cramming 'Papers, Please' Onto Phones (2022)](https://dukope.com/devlogs/papers-please/mobile/)

@@ -185,6 +185,8 @@
 - [OS-Lib](https://github.com/com-lihaoyi/os-lib) - Simple Scala interface to common OS filesystem and subprocess APIs.
 - [PureConfig](https://github.com/pureconfig/pureconfig) - Scala library for loading configuration files.
 - [jsonrpclib](https://github.com/neandertech/jsonrpclib) - Cross-platform pure-scala JsonRPC library.
+- [cats-saga](https://github.com/VladKopanev/cats-saga) - Purely Functional Transaction Management In Scala With Cats.
+- [zio-saga](https://github.com/VladKopanev/zio-saga) - Purely Functional Transaction Management In Scala With ZIO.
 
 ## Links
 

@@ -177,3 +177,6 @@
 - [Firefly: A browser-based interactive 3D data visualization tool for large data (2022)](https://arxiv.org/abs/2207.13706) ([HN](https://news.ycombinator.com/item?id=32295964))
 - [TUEplots](https://github.com/pnkraemer/tueplots) - Extend matplotlib for scientific publications.
 - [DeepScatter](https://github.com/CreatingData/deepscatter) - Deep Scatterplots for the Web.
+- [Streamlit Elements](https://github.com/okld/streamlit-elements) - Create a draggable and resizable dashboard in Streamlit, featuring Material UI widgets, Monaco editor (Visual Studio Code), Nivo charts, and more.
+- [Streamlit Component Templates](https://github.com/streamlit/component-template) - Templates and example code for creating Streamlit Components.
+- [Streamlit Plotly Events](https://github.com/null-jones/streamlit-plotly-events) - Streamlit component that allows Plotly events to bubble back up to streamlit. Makes Plotly charts interactive.

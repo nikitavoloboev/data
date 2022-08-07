@@ -167,3 +167,4 @@ title: Scala
 - [Moving From Akka To ZIO: Experiences And Comparisons by Jan Ypma (2022)](https://www.youtube.com/watch?v=WvaO62TD8L0)
 - [Tooling Talks - The Scala Cross Platform Story (2022)](https://www.tooling-talks.com/episode-12)
 - [Effect-Oriented Programming: Creating Reliable Systems with Scala 3 and ZIO 2](https://github.com/EffectOrientedProgramming/book)
+- [Scala Ukraine Knowledge Base](https://github.com/scala-ukraine/knowledge-base)
