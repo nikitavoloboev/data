@@ -284,3 +284,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Running Linux microVMs on macOS (M1/M2) (2022)](https://slp.prose.sh/running-microvms-on-m1)
 - [libSandy](https://github.com/opa334/libSandy) - Securely extend the sandbox of system processes and user applications.
 - [PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support.
+- [Completely Open-Source Implementation of Apple Code Signing and Notarization (2022)](https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/) ([HN](https://news.ycombinator.com/item?id=32386762))

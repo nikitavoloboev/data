@@ -124,3 +124,4 @@ title: gRPC
 - [grpcutil](https://github.com/authzed/grpcutil) - Various utilities to simplify common gRPC APIs.
 - [gRPC JSON Proxy](https://github.com/jnewmano/grpc-json-proxy) - gRPC proxy for Postman like tools.
 - [Connect-Web](https://github.com/bufbuild/connect-web) - Simple, reliable, interoperable. A better gRPC-Web. ([Article](https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser)) ([HN](https://news.ycombinator.com/item?id=32345670))
+- [Why Does gRPC Insist on Trailers? (2022)](https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers) ([HN](https://news.ycombinator.com/item?id=32380769))

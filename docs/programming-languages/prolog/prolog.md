@@ -4,6 +4,8 @@ title: Prolog
 
 # [Prolog](https://en.wikipedia.org/wiki/Prolog)
 
+[Trealla](https://github.com/trealla-prolog/trealla) is [neat](https://news.ycombinator.com/item?id=32382514).
+
 ## Notes
 
 - [We call Prolog & Datalog "logic programming", but really they're "deductive programming": they don't treat clauses as propositions, but as inference rules. SAT/SMT are arguably _actually_ logic programming.](https://twitter.com/arntzenius/status/1393700339510042625)
@@ -66,3 +68,4 @@ title: Prolog
 - [Ask HN: What are some interesting examples of Prolog? (2022)](https://news.ycombinator.com/item?id=31210466)
 - [Stabilizer: Statistically Sound Performance Evaluation](https://github.com/ccurtsinger/stabilizer)
 - [Simply Logical - Intelligent Reasoning by Example](https://book.simply-logical.space/src/simply-logical.html) ([Code](https://github.com/simply-logical/simply-logical))
+- [Trealla Go](https://github.com/trealla-prolog/go) - Trealla Prolog embedded in Go using WASM. ([HN](https://news.ycombinator.com/item?id=32376984))

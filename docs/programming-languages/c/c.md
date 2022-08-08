@@ -268,3 +268,4 @@
 - [ClangIR (CIR)](https://github.com/llvm/clangir) - New high-level IR for clang.
 - [C99 doesn't need function bodies, or 'VLAs are Turing complete' (2022)](https://lemon.rip/w/c99-vla-tricks/) ([HN](https://news.ycombinator.com/item?id=32343608))
 - [C23 is Finished: Here is What is on the Menu (2022)](https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu) ([HN](https://news.ycombinator.com/item?id=32352569))
+- [The pervasive effects of C's malloc() and free() on C APIs (2022)](https://utcc.utoronto.ca/~cks/space/blog/programming/CAPIsEffectsOfMalloc) ([HN](https://news.ycombinator.com/item?id=32376542))

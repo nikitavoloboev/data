@@ -862,3 +862,4 @@ title: Rust
 - [Non-lexical lifetimes (NLL) fully stable (2022)](https://blog.rust-lang.org/2022/08/05/nll-by-default.html)
 - [So Zero It's ... Negative? (2022)](https://manishearth.github.io/blog/2022/08/03/zero-copy-3-so-zero-its-dot-dot-dot-negative/)
 - [Rust Analyzer User Manual](https://rust-analyzer.github.io/manual.html)
+- [MiniRust (2022)](https://www.ralfj.de/blog/2022/08/08/minirust.html) ([HN](https://news.ycombinator.com/item?id=32384550))

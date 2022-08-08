@@ -263,7 +263,7 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Danet](https://github.com/Savory/Danet) - Deno web framework.
 - [dvm](https://github.com/justjavac/dvm) - Deno Version Manager.
 - [Deno Updater Proxy](https://github.com/lemarier/updater-deno) - Sample PoC for Tauri updater using deno deploy or cloudflare workers.
-- [Froebel](https://github.com/MathisBullinger/froebel) - Strictly typed TypeScript utility library. Opinionated version of lodash, but with first-class types.
+- [Froebel](https://github.com/MathisBullinger/froebel) - Generically typed pipe function in TypeScript. ([HN](https://news.ycombinator.com/item?id=32377646))
 - [Deno Todos](https://github.com/jason0x43/deno-todos) - Simple Deno-based Todos app.
 - [Denoflate](https://github.com/hazae41/denoflate) - WebAssembly powered Deflate/Gzip/Zlib compression for Deno, written in Rust.
 - [deno-rollup](https://github.com/cmorten/deno-rollup) - Next-generation ES module bundler for Deno ported from Rollup.

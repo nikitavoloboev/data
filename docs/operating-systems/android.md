@@ -74,3 +74,4 @@ title: Android
 - [PowerSpinner](https://github.com/skydoves/PowerSpinner) - Lightweight dropdown popup spinner, fully customizable with an arrow and animations for Android.
 - [Mobile DevX Tools](https://github.com/google/devx-tools) - Tools at Google for mobile development and testing.
 - [Публичное собеседование на позицию Android-разработчика (2022)](https://www.youtube.com/watch?v=XwfWaI97Ikw)
+- [Ask HN: Expert Advices for New Learners in Android Kotlin Development? (2022)](https://news.ycombinator.com/item?id=32375609)

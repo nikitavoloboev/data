@@ -26,6 +26,10 @@ title: React Native
 - [Rive Animated App](https://github.com/lklima/rive-animated-app) - React Native animated app with reanimated + expo and Rive an amazing tool for interactive icons and shapes animation.
 - [RN Transitions](https://github.com/lklima/rn-transitions) - React Native animated app with reanimated + expo.
 - [Blank Solito Example Monorepo](https://github.com/teovillanueva/react-native-web-maps-solito-example)
+- [Apple Card with moving gradients](https://github.com/naraB/AppleCard) ([Tweet](https://twitter.com/barany6m/status/1556204604509093888))
+- [Elastic Scroll](https://github.com/naraB/ElasticScroll)
+- [Sensor Rotation](https://github.com/naraB/SensorRotation)
+- [Animated Cards](https://github.com/naraB/AnimatedCards)
 
 ## Notes
 

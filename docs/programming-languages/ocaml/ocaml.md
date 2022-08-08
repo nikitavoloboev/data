@@ -142,3 +142,4 @@ title: OCaml
 - [OCaml 5.0 (prerelease) Manual: Effect handlers](https://kcsrk.info/webman/manual/effects.html) ([Lobsters](https://lobste.rs/s/iyor14/ocaml_5_0_prerelease_manual_effect))
 - [ThreadSanitizer support for OCaml 5](https://github.com/OlivierNicole/ocaml-tsan) - Effective approach to locate data races in concurrent code bases.
 - [Reflections on my first completed application in OCaml (2020)](https://discuss.ocaml.org/t/reflections-on-my-first-completed-application-in-ocaml/6768)
+- [Easy Dune (OCaml): Running a Script](https://dev.to/pckilgore/unofficial-dune-ocaml-how-to-running-a-script-2fgh)

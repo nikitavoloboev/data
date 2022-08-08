@@ -390,4 +390,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Making a PR to Nixpkgs (2022)](https://johns.codes/blog/updating-a-package-in-nixpkgs) ([HN](https://news.ycombinator.com/item?id=32314905))
 - [Building websites using Nix Flakes and Zola (2022)](https://ilanjoselevich.com/blog/building-websites-using-nix-flakes-and-zola/)
 - [How to look up a Nix package's Nix store path from flake inputs (2022)](https://xeiaso.net/blog/nix-flakes-look-up-package)
-- [Our roadmap for Nix (2022)](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/) ([Lobsters](https://lobste.rs/s/ejdlej/our_roadmap_for_nix))
+- [Our roadmap for Nix (2022)](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/) ([Lobsters](https://lobste.rs/s/ejdlej/our_roadmap_for_nix)) ([HN](https://news.ycombinator.com/item?id=32374113))

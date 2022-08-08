@@ -29,3 +29,4 @@
 - [BirdNET-Pi](https://birdnetpi.com/) - Real time acoustic bird classification system for the Raspberry Pi 4B. ([Code](https://github.com/mcguirepr89/BirdNET-Pi)) ([HN](https://news.ycombinator.com/item?id=31072485))
 - [What Birds Listen for in Birdsong](https://www.scientificamerican.com/article/what-birds-really-listen-for-in-birdsong-its-not-what-you-think/) ([HN](https://news.ycombinator.com/item?id=31233473))
 - [A bird that’s breaking the tree of life (2022)](https://www.newyorker.com/science/elements/the-bizarre-bird-thats-breaking-the-tree-of-life) ([HN](https://news.ycombinator.com/item?id=32191236))
+- [Earbirding – How to Visualize Sounds](http://earbirding.com/blog/specs) ([HN](https://news.ycombinator.com/item?id=32376943))

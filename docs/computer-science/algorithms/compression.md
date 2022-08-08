@@ -139,3 +139,4 @@
 - [compress.js](https://github.com/alextanhongpin/compress.js) - Simple JavaScript based client-side image compression algorithm.
 - [Python-LZ4](https://github.com/python-lz4/python-lz4) - LZ4 bindings for Python.
 - [The tar archive format, its extensions, and why GNU tar extracts in quadratic time (2022)](https://mort.coffee/home/tar/)
+- [unblob](https://github.com/onekey-sec/unblob) - Accurate and fast extraction suite for 30+ formats. ([Docs](https://unblob.org/)) ([Lobsters](https://lobste.rs/s/t4ktez/unblob_accurate_fast_extraction_suite))

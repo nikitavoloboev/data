@@ -202,3 +202,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [Lovem](https://github.com/kratenko/lovem) - Low overhead virtual embedded machine.
 - [Rust on Espressif chips (2022)](https://mabez.dev/blog/posts/esp-rust-15-07-2022/) ([HN](https://news.ycombinator.com/item?id=32106762))
 - [Project Euler on a Microcontroller (2022)](https://shawnnapora.github.io/blog/2022/07/29/euler-on-micro/) ([HN](https://news.ycombinator.com/item?id=32280306))
+- [Debugging bare-metal STM32 from the seventh level of hell (2022)](https://jpieper.com/2022/08/05/debugging-bare-metal-stm32-from-the-seventh-level-of-hell/) ([HN](https://news.ycombinator.com/item?id=32381448))

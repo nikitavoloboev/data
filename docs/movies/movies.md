@@ -126,3 +126,5 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [What are your top Horror Movies of all time? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/wb3ywq/what_are_your_top_horror_movies_of_all_time/)
 - [Movies with better sequels (2022)](https://www.reddit.com/r/MovieSuggestions/comments/wdqdl5/the_sequel_was_better/)
 - [What is a film everyone should watch at least once in their life? (2022)](https://www.reddit.com/r/Letterboxd/comments/wf6z6h/what_is_a_film_everyone_should_watch_at_least/)
+- [Movies for when life is terrible (2022)](https://www.reddit.com/r/MovieSuggestions/comments/whvlw3/movies_for_when_life_is_terrible/)
+- [Most underrated sci fi movies (2022)](https://www.reddit.com/r/scifi/comments/wizujd/most_underrated_sci_fi_movie/)

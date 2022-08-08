@@ -201,3 +201,5 @@
 - [Jaspr](https://github.com/ar-nelson/jaspr) - Lisp for JSON.
 - [lisp.py](https://khamidou.com/compilers/lisp.py/)
 - [ydiff](https://github.com/yinwang0/ydiff) - Structural comparison tool for Lisp family languages, with experimental C++, JS support.
+- [A Guile Steel smelting pot (2022)](https://dustycloud.org/blog/guile-steel-smelting-pot/) ([Lobsters](https://lobste.rs/s/9pc2sk/guile_steel_smelting_pot))
+- [Ask HN: What Is the Lisp “Enlightment”? (2022)](https://news.ycombinator.com/item?id=32383525)

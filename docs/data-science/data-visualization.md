@@ -180,3 +180,4 @@
 - [Streamlit Elements](https://github.com/okld/streamlit-elements) - Create a draggable and resizable dashboard in Streamlit, featuring Material UI widgets, Monaco editor (Visual Studio Code), Nivo charts, and more.
 - [Streamlit Component Templates](https://github.com/streamlit/component-template) - Templates and example code for creating Streamlit Components.
 - [Streamlit Plotly Events](https://github.com/null-jones/streamlit-plotly-events) - Streamlit component that allows Plotly events to bubble back up to streamlit. Makes Plotly charts interactive.
+- [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2)

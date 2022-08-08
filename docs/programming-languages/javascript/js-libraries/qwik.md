@@ -20,3 +20,4 @@ title: Qwik
 - [Build Resumable Apps with Qwik](https://www.youtube.com/watch?v=_PDpoJUacuc)
 - [Exploring Qwik City w/ Adam Bradley & Manu Martínez-Almeida](https://www.youtube.com/watch?v=XoeJisRJjlo)
 - [Qwik + React State (2022)](https://www.youtube.com/watch?v=fa6-Mn0Eybg)
+- [Qwik Workshop Part 1 - Live Coding / Misko Hevery (2022)](https://www.youtube.com/watch?v=GHbNaDSWUX8)

@@ -38,6 +38,7 @@ I try drink only water/tea with occasional coffee. No added sugar in food/drinks
 - [Processed food is very bad for you](https://www.youtube.com/watch?v=T4PFt4czJw0)
 - The main reason for all three high blood pressure , diabetes and obesity seems to be excess glucose intake in our food. Millets seem to work wonders in solving this problem for society at large and also moving towards high fiber vegetables diet plan incontrolling blood pressure and diabetes.
 - [Sugar doesn't make you fat, excess calories do. Honeycomb has a low glycemic index. Glycemic index matters a lot in any discussion about insulin.](https://twitter.com/tautologer/status/1521719972401016832)
+- [Lost weight is exhaled primarily as carbon dioxide and water vapor](https://www.reddit.com/r/NoStupidQuestions/comments/wij32s/i_lost_55_lbs_but_where_is_it/)
 
 ## Links
 
