@@ -2095,6 +2095,8 @@
 - [Twelf](https://github.com/bnjjj/twelf/) - Configuration solution for Rust including 12-Factor support.
 - [recap](https://github.com/softprops/recap) - Deserialize typed structures from regex captures.
 - [async-oneshot](https://github.com/irrustible/async-oneshot) - Fast, small, full-featured, no-std compatible oneshot channel.
+- [Aide-De-Camp](https://github.com/ZeroAssumptions/aide-de-camp) - Durable job scheduler for rust.
+- [Uclicious](https://github.com/andoriyu/uclicious) - Flexible reduced boilerplate configuration framework.
 
 ## Cargo Plugins
 
