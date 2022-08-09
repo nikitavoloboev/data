@@ -247,6 +247,8 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [StoneDB](https://github.com/stoneatom/stonedb) - Open-source, MySQL HTAP and MySQL-native database for oltp, real-time analytics. ([Web](https://stonedb.io/))
 - [ClientDB](https://clientdb.dev/) - OS in-memory database for real-time web apps. ([Code](https://github.com/acapela/clientdb))
 - [Kerf](https://github.com/kevinlawler/kerf1) - Columnar tick database and time-series language for Linux/OSX/BSD/iOS/Android.
+- [AnnaDB](https://github.com/roman-right/AnnaDB) - Next-generation developer-first NoSQL database.
+- [StarRocks](https://github.com/StarRocks/starrocks) - Next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query. ([Web](https://starrocks.com/index))
 
 ## Tools
 

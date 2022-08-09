@@ -174,3 +174,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Edge Runtime](https://edge-runtime.vercel.app/) - Toolkit for developing, testing, and defining the runtime Web APIs for Edge infrastructure. ([Code](https://github.com/vercel/edge-runtime))
 - [Lagon](https://lagon.app/) - Deploy Serverless Functions at the Edge. ([Code](https://github.com/lagonapp/serverless))
 - [Inngest](https://github.com/inngest/inngest) - Event-driven queue for any language.
+- [Cloudflare CLI](https://github.com/epiHATR/cloudflare-cli)

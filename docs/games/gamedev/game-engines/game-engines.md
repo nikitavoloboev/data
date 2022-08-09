@@ -122,6 +122,7 @@
 - [LibPHX](https://github.com/JoshParnell/libphx) - Lightweight, (mostly) C-based game engine developed for the cancelled space simulation game Limit Theory.
 - [Plasma](https://plasmagameengine.com/) - C++ powered 2D and 3D game engine that is designed to be straight forward yet powerful for all users. ([Code](https://github.com/PlasmaEngine/PlasmaEngine))
 - [Voxelize](https://github.com/voxelize/voxelize) - Multiplayer, fast, super fast, voxel engine in your browser.
+- [glazeJS](https://github.com/rjewson/glazejs) - High performance 2D game engine built in Typescript.
 
 ## Physics engines
 

@@ -181,6 +181,8 @@ div.CodeMirror-cursor,
 - [Heatmap Calendar](https://github.com/Richardsl/heatmap-calendar-obsidian) - Visualize your data in a heatmap calendar similar to the github activity calendar using this Obsidian plugin.
 - [Execute Code](https://github.com/twibiral/obsidian-execute-code) - Execute code snippets in code blocks in your notes.
 - [Obsidian Note Sharing](https://github.com/mcndt/obsidian-note-sharing) - Securely share your Obsidian notes with one click.
+- [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane.
+- [Obsidian Footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun.
 
 ## Themes
 

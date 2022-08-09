@@ -190,3 +190,4 @@
 - [Cleaning data with sqlite-utils and Datasette](https://datasette.io/tutorials/clean-data)
 - [Starter code for working with the YouTube-8M dataset](https://github.com/google/youtube-8m)
 - [BigLAM (Libraries, Archives and Museums)](https://github.com/bigscience-workshop/lam) - Open source, community resource of LAM datasets.
+- [Data Measurements Tool](https://github.com/huggingface/data-measurements-tool) - Developing tools to automatically analyze datasets.

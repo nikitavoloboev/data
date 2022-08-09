@@ -180,6 +180,7 @@
 ## Auth
 
 - [Dacquiri](https://github.com/resyncgg/dacquiri) - Strong, compile-time enforced authorization framework for rust applications. ([Tweet](https://twitter.com/InsanityBit/status/1545157199311187968))
+- [Frank JWT](https://github.com/GildedHonour/frank_jwt) - JSON Web Token implementation in Rust.
 
 ## WASM
 
@@ -2097,6 +2098,7 @@
 - [async-oneshot](https://github.com/irrustible/async-oneshot) - Fast, small, full-featured, no-std compatible oneshot channel.
 - [Aide-De-Camp](https://github.com/ZeroAssumptions/aide-de-camp) - Durable job scheduler for rust.
 - [Uclicious](https://github.com/andoriyu/uclicious) - Flexible reduced boilerplate configuration framework.
+- [Precision](https://github.com/jedisct1/rust-precision) - Low overhead, high precision measurement crate for Rust.
 
 ## Cargo Plugins
 
@@ -2189,6 +2191,7 @@
 - [cargo-spdx](https://github.com/alilleybrinker/cargo-spdx) - Generate an SPDX Software Bill of Materials for Rust crates.
 - [cargo-docs](https://github.com/btwiuse/cargo-docs) - Serve rust and crate doc locally.
 - [cargo-pgo](https://github.com/Kobzol/cargo-pgo) - Cargo subcommand for optimizing binaries with PGO and BOLT.
+- [cargo feature-set](https://github.com/badboy/cargo-feature-set) - Extract the features for every compiled crate from cargo metadata.
 
 ## Notes
 

@@ -144,3 +144,4 @@
 - [CommonMark](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript.
 - [Djot](https://djot.net/) - Light markup syntax. It derives most of its features from commonmark, but it fixes a few things. ([Code](https://github.com/jgm/djot))
 - [VS Code Markdown Language Service](https://github.com/microsoft/vscode-markdown-languageservice)
+- [mdast-util-to-markdown](https://github.com/syntax-tree/mdast-util-to-markdown) - mdast utility that turns a syntax tree into markdown.

@@ -70,6 +70,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Phillip Cloud](https://github.com/cpcloud/nix-config)
 - [Matei Cotocel](https://github.com/MCotocel/nixdots)
 - [Chris Montgomery](https://github.com/montchr/dotfield)
+- [Michael Walker](https://github.com/barrucadu/nixfiles)
 
 ## Nix configs (macOS)
 

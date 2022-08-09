@@ -268,3 +268,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Hijacking Email with Cloudflare Email Routing (2022)](https://albertpedersen.com/blog/hijacking-email-with-cloudflare-email-routing/) ([HN](https://news.ycombinator.com/item?id=32331781))
 - [tmpx](https://github.com/abcdan/tmpx) - Stupidly simple to use temporary mail host with an easy to use JSON/WS API.
 - [Mailing](https://www.mailing.run/) - Build + test + send emails with React. ([Code](https://github.com/sofn-xyz/mailing))
+- [vSMTP](https://github.com/viridIT/vSMTP) - Next-gen mail transfer agent (MTA) written in Rust. Faster and Greener.

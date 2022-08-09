@@ -431,3 +431,4 @@ title: PyTorch
 - [1D, 2D, and 3D Sinusoidal Postional Encoding (PyTorch and TensorFlowi)](https://github.com/tatp22/multidim-positional-encoding)
 - [Kaolin Wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) - PyTorch Library and Engine for Neural Fields Research.
 - [Notebook walks through a single forward pass of the Transformer architecture in PyTorch](https://github.com/markriedl/transformer-walkthrough)
+- [EvoTorch](https://github.com/nnaisense/evotorch) - Advanced evolutionary computation library built directly on top of PyTorch.

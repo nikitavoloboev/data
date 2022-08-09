@@ -677,3 +677,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [pridepack](https://github.com/LyonInc/pridepack) - Zero-config CLI for building Typescript packages.
 - [core-dts](https://github.com/Kingwl/core-dts) - TypeScript will support all proposals above stage-3.
 - [git-publish](https://github.com/privatenumber/git-publish) - Publish your npm package to a Git branch.
+- [Tanu](https://github.com/ariesclark/tanu.js) - Simplified abstraction of the TypeScript Compiler API for defining and generating source files.

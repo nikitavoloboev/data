@@ -253,3 +253,6 @@
 - [OTP Gateway](https://github.com/knadh/otpgateway) - Standalone server for user address and OTP verification flows with pluggable providers (e-mail, SMS, bank penny drops etc.).
 - [Web Authentication: An API for accessing Public Key Credentials](https://w3c.github.io/webauthn/) ([Code](https://github.com/w3c/webauthn))
 - [Compute@Edge OAuth application starter kit](https://github.com/fastly/compute-rust-auth) - Authentication at Fastly's edge, using OAuth 2.0, OpenID Connect, and Compute@Edge.
+- [OpenFGA](https://github.com/openfga/openfga) - High performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.
+- [Kala Go](https://github.com/DeluxeOwl/kala-go) - Authorization framework written in Go based on Google's Zanzibar.
+- [lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation.

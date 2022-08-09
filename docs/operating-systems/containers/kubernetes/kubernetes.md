@@ -790,3 +790,4 @@ title: Kubernetes
 - [Acorn](https://github.com/acorn-io/acorn) - Simple application deployment framework for Kubernetes.
 - [Meta configuration for Kubernetes GitHub Org](https://github.com/kubernetes/org)
 - [What a Kubernetes pod truly is (2022)](https://www.reddit.com/r/kubernetes/comments/wikc3e/can_someone_explain_what_a_pod_truly_is_beyond/)
+- [BadRobot](https://github.com/controlplaneio/badrobot) - Operator Security Audit Tool.

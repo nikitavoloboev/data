@@ -133,3 +133,4 @@ title: Lua
 - [Eva](https://github.com/Insality/defold-eva) - Basic defold module for mobile games.
 - [Druid](https://github.com/Insality/druid) - Defold UI component library.
 - [Lua C API manual pages](https://github.com/ligurio/luac-manual-pages)
+- [Lua grammar for tree-sitter](https://github.com/Azganoth/tree-sitter-lua)

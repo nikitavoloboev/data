@@ -26,3 +26,4 @@ title: Bun
 - [blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts.
 - [bvm](https://github.com/swz-git/bvm) - Bun Version Manager.
 - [bnx](https://github.com/wobsoriano/bnx) - zx inspired shell for Bun/Node.
+- [Oily](https://github.com/ariesclark/oily.js) - Blazingly fast Bun.js filesystem router, with an unpleasantly smooth experience.

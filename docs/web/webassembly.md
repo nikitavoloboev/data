@@ -342,3 +342,4 @@ title: WebAssembly
 - [Wasp](https://github.com/nicholasjackson/wasp) - WASM System Plugins for Go.
 - [WebAssembly Reference Interpreter in OCaml](https://github.com/WebAssembly/spec/tree/main/interpreter)
 - [Rust and WebAssembly without a Bundler (2022)](https://tung.github.io/posts/rust-and-webassembly-without-a-bundler/)
+- [Wasmflow](https://github.com/wasmflow/wasmflow) - Free and open platform for building applications out of WebAssembly code containers.
