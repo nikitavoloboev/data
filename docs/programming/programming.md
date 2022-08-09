@@ -580,3 +580,4 @@
 - [Cut the cutesy errors (2022)](https://alexwlchan.net/2022/08/no-cute/) ([HN](https://news.ycombinator.com/item?id=32337520))
 - [Ask HN: What are the ways you go about getting comfortable with a new codebase? (2022)](https://news.ycombinator.com/item?id=32365660)
 - [Post-Apocalyptic Programming (2022)](https://zserge.com/posts/post-apocalyptic-programming/) ([HN](https://news.ycombinator.com/item?id=32383686))
+- [How floating point works (2022)](https://www.youtube.com/watch?v=dQhj5RGtag0)

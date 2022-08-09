@@ -284,3 +284,5 @@ title: Svelte
 - [Lucia SvelteKit](https://github.com/pilcrowOnPaper/lucia-sveltekit) - Simple authentication library for SvelteKit.
 - [Skeleton](https://skeleton.brainandbonesllc.com/) - Svelte/Kit component library designed for use with Tailwind. ([Code](https://github.com/Brain-Bones/skeleton))
 - [Svelte Bricks](https://svelte-bricks.netlify.app/) - Naive implementation in Svelte without column balancing. ([Code](https://github.com/janosh/svelte-bricks))
+- [Svelte Headless Table](https://github.com/bryanmylee/svelte-headless-table) - Unopinionated and extensible data tables for Svelte.
+- [svelte-keyed](https://github.com/bryanmylee/svelte-keyed) - Writable derived store for objects and arrays.

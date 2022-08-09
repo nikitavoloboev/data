@@ -1,6 +1,6 @@
 # Courses
 
-[hyperlink.academy](https://hyperlink.academy/) has some nice courses.
+[hyperlink.academy](https://hyperlink.academy/) has some nice courses. [Rust for JS Developers](https://rustforjs.dev/) has nice layout/design.
 
 ## Links
 

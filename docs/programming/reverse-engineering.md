@@ -115,3 +115,4 @@
 - [SLEIGH](https://github.com/black-binary/sleigh) - Rust port of Ghidra's SLEIGH decompiler. Allows you to decompile or translate machine code for multiple architectures.
 - [0x](https://github.com/mcy/0x) - Like xxd but colorful.
 - [angr](https://github.com/angr/angr) - Platform-agnostic binary analysis framework. ([Web](https://angr.io/))
+- [heh](https://github.com/ndd7xv/heh) - Cross-platform terminal UI used for modifying file data in hex or ASCII.

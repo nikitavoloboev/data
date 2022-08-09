@@ -209,3 +209,4 @@ title: SQL
 - [Semantic Diff for SQL](https://github.com/tobymao/sqlglot/blob/main/posts/sql_diff.md) ([HN](https://news.ycombinator.com/item?id=32277998))
 - [ts-sql-plugin](https://github.com/xialvjun/ts-sql-plugin) - TypeScript Language Service Plugin for SQL with a tagged template strings SQL builder.
 - [Having, a less understood SQL clause (2022)](https://smallthingssql.com/having-a-less-understood-sql-clause) ([HN](https://news.ycombinator.com/item?id=32363882))
+- [Nice intros to SQL](https://twitter.com/AllenDowney/status/1556702573633101825)

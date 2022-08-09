@@ -269,3 +269,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [What Makes a Good Hinge Partner](https://www.multiamory.com/podcast/334-what-makes-a-good-hinge-partner)
 - [What’s your favorite thing about being non-monogamous and why?](https://www.reddit.com/r/nonmonogamy/comments/wg8y5k/whats_your_favorite_thing_about_being/)
 - [Tell HN: I interviewed my dad before he died (2022)](https://news.ycombinator.com/item?id=32349006)
+- [What are the non-egregious "chemistry killers" for you? (2022)](https://www.reddit.com/r/datingoverthirty/comments/wisqmb/what_are_the_nonegregious_chemistry_killers_for/)

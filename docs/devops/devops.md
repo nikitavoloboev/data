@@ -200,3 +200,5 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Using BSD make](https://qorg11.net/tech_posts/bsd_make.html) ([Lobsters](https://lobste.rs/s/7svvkz/using_bsd_make))
 - [What are the best books or resources on SRE automation that are also practical? (2022)](https://news.ycombinator.com/item?id=32353824)
 - [Superblocks](https://www.superblocks.com/) - IDE for Internal Apps, APIs and Cron Jobs. ([HN](https://news.ycombinator.com/item?id=32344671))
+- [Multy](https://github.com/multycloud/multy) - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds. ([Web](https://multy.dev/))
+- [Who's NOT using Kubernetes these days and want to share their exciting bit/tooling? (2022)](https://www.reddit.com/r/devops/comments/wjxy0q/whos_not_using_kubernetes_these_days_and_want_to/)

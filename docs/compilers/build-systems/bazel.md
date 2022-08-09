@@ -59,3 +59,4 @@ title: Bazel
 - [Stardoc](https://github.com/bazelbuild/stardoc) - Documentation generator for Bazel build rules written in Starlark.
 - [Bazel In-Memory Cache](https://sluongng.hashnode.dev/bazel-caching-explained-pt-2-bazel-in-memory-cache)
 - [Bazel Caching Explained](https://sluongng.hashnode.dev/series/bazel-caching-explained)
+- [Bazel in CI (Part 0): The Developer Experience Funnel (2022)](https://sluongng.hashnode.dev/bazel-in-ci-part-0-the-developer-experience-funnel)

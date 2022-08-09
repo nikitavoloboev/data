@@ -47,7 +47,7 @@ title: Prolog
 - [Strand](http://www.call-with-current-continuation.org/strand/strand.html) - Open-source implementation of Prolog dialect. ([HN](https://news.ycombinator.com/item?id=26948351))
 - [D-Prolog](https://github.com/arkark/d-prolog) - Prolog implementation in D language.
 - [Using Prolog for Sudoku Variants (2021)](http://dstrohmaier.com/sudoku-prolog/) ([HN](https://news.ycombinator.com/item?id=27886733))
-- [Trealla Prolog](https://github.com/infradig/trealla) - Compact, efficient Prolog interpreter written in plain-old C.
+- [Trealla Prolog](https://github.com/trealla-prolog/trealla) - Compact, efficient Prolog interpreter written in plain-old C.
 - [Demo of a WAM Prolog Implementation in Python](https://github.com/brunokim/prol) ([HN](https://news.ycombinator.com/item?id=28720000))
 - [Simple examples for new Prolog programmers](https://github.com/Anniepoo/prolog-examples)
 - [CLP(B)](https://github.com/triska/clpb) - Constraint Logic Programming over Boolean variables using Prolog.
@@ -69,3 +69,4 @@ title: Prolog
 - [Stabilizer: Statistically Sound Performance Evaluation](https://github.com/ccurtsinger/stabilizer)
 - [Simply Logical - Intelligent Reasoning by Example](https://book.simply-logical.space/src/simply-logical.html) ([Code](https://github.com/simply-logical/simply-logical))
 - [Trealla Go](https://github.com/trealla-prolog/go) - Trealla Prolog embedded in Go using WASM. ([HN](https://news.ycombinator.com/item?id=32376984))
+- [SWI-Prolog ported to WebAssembly](https://github.com/SWI-Prolog/swipl-wasm)

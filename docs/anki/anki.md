@@ -76,3 +76,5 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Ask HN: Anyone using Anki/Spaced-repetition successfully? (2022)](https://news.ycombinator.com/item?id=31872982)
 - [Memcode](https://www.memcode.com/) - Spaced-repetition: for coders and scientists. ([Code](https://github.com/lakesare/memcode))
 - [MorphMan](https://github.com/kaegi/MorphMan) - Anki plugin that reorders language cards based on the words you know.
+- [Spaced repetition can allow for infinite recall (2022)](https://www.efavdb.com/memory%20recall) ([HN](https://news.ycombinator.com/item?id=32381206))
+- [Ask HN: Better way to create Anki cards? (2022)](https://news.ycombinator.com/item?id=32397162)

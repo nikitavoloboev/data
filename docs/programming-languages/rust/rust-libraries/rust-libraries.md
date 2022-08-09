@@ -2339,3 +2339,4 @@
 - [rust-template-rs](https://github.com/taurr/rust-template-rs) - Templates for use when creating Rust applications.
 - [WLambda](https://github.com/WeirdConstructor/WLambda) - Embeddable Scripting Language for Rust.
 - [fabrica](https://github.com/adoerr/fabrica) - Assorted Rust Experiments.
+- [Approaches for interleaving several stderr logging streams (2022)](https://lobste.rs/s/cekies/approaches_for_interleaving_several)

@@ -341,3 +341,4 @@ title: WebAssembly
 - [How WASM could impact the future of programming languages (2022)](https://twitter.com/sdeleuze/status/1552695265328496640)
 - [Wasp](https://github.com/nicholasjackson/wasp) - WASM System Plugins for Go.
 - [WebAssembly Reference Interpreter in OCaml](https://github.com/WebAssembly/spec/tree/main/interpreter)
+- [Rust and WebAssembly without a Bundler (2022)](https://tung.github.io/posts/rust-and-webassembly-without-a-bundler/)

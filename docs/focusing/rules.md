@@ -253,6 +253,12 @@
 - Be open to change. But never ignore my principles/rules (respect my boundaries). My personal happiness and mental well being always comes first.
 - [Share things of what I love more than what I dislike/hate.](https://twitter.com/pbrian0206/status/1458972624047026177)
 
+## Animals
+
+- Never hit your pets or any other animal. Teach good behaviors through appreciation of good actions instead.
+- Don't expose your pets to danger like walking in unsafe areas as they can get hurt.
+- Give your pets space to explore, good healthy food and comfy beds. Show lots of love.
+
 ## Web
 
 - Prefer Apple login if available. Use Google/GitHub/FB otherwise.

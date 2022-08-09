@@ -911,6 +911,7 @@
   - [Woodworking](docs/other/woodworking.md)
   - [Gardening](docs/other/gardening.md)
   - [Mushrooms](docs/other/mushrooms.md)
+  - [Fragrances](docs/other/fragrances.md)
   - [Surfing](docs/other/surfing.md)
   - [Real Estate](docs/other/real-estate.md)
   - [Newsletters](docs/other/newsletters.md)

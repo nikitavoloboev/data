@@ -56,3 +56,4 @@ I wish there were more electric superchargers in EU.
 - [The fragmented nature of modern-day railways (2022)](https://hackaday.com/2022/06/23/grain-stuck-in-the-ukraine-the-fragmented-nature-of-modern-day-railways/) ([HN](https://news.ycombinator.com/item?id=31857210))
 - [I Hacked My Car Guides: Creating Custom Firmware (2022)](https://programmingwithstyle.com/posts/howihackedmycarguidescreatingcustomfirmware/) ([HN](https://news.ycombinator.com/item?id=32147445))
 - [Future trains could provide carbon capture (2022)](https://spectrum.ieee.org/carbon-capture-2657738131) ([HN](https://news.ycombinator.com/item?id=32319995))
+- [Make My Drive Fun](https://makemydrivefun.com/) - Enter in two locations to make the drive fun.

@@ -452,3 +452,4 @@ title: Haskell
 - [Haskell Bookcamp Book (2022)](https://www.manning.com/books/haskell-bookcamp) ([Tweet](https://twitter.com/graninas/status/1555539289706041345))
 - [Haskell Foundation Tech Proposals](https://github.com/haskellfoundation/tech-proposals)
 - [Monad Confusion and the Blurry Line Between Data and Computation (2022)](https://www.micahcantor.com/blog/monad-confusion/) ([HN](https://news.ycombinator.com/item?id=32366022))
+- [Avoiding space leaks at all costs (2022)](https://kodimensional.dev/space-leak)

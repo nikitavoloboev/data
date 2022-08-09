@@ -2,6 +2,8 @@
 
 [Brian Lovin's design critiques](https://twitter.com/brian_lovin/status/1487903450528882690) are great. [Refactoring UI](https://www.refactoringui.com/) & [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/) are good reads.
 
+Love [command palettes](https://twitter.com/pacocoursey/status/1556635574051667969).
+
 ## Notes
 
 - Like how [Stripe](https://stripe.com/) does the hamburger menu on mobile.

@@ -53,7 +53,7 @@ title: Godot
 - [Godot Engine's native Blender exporter add-on](https://github.com/godotengine/godot-blender-exporter)
 - [Godot tips and tricks](https://github.com/me2beats/godot-tips-and-tricks)
 - [Fox](https://github.com/uralys/fox) - Tools to help develop with Godot engine. ([HN](https://news.ycombinator.com/item?id=29714408))
-- [Learn GDScript From Zero](https://github.com/GDQuest/learn-gdscript)
+- [Learn GDScript From Zero](https://github.com/GDQuest/learn-gdscript) ([Web](https://gdquest.github.io/learn-gdscript/))
 - [Godot Shaders](https://github.com/GDQuest/godot-shaders) - Large library of free and open-source shaders for the Godot game engine. Here, you'll get 2D and 3D shaders with playable demos.
 - [SVG2Godot](https://github.com/pixelriot/SVG2Godot) - Import SVG files into Godot game engine.
 - [Swift for Godot](https://github.com/kelvin13/godot-swift)
@@ -75,3 +75,5 @@ title: Godot
 - [It’s time to make that indie C# game in Godot (2022)](https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470) ([HN](https://news.ycombinator.com/item?id=32096575))
 - [Mesh Painter](https://github.com/StrayEddy/GodotPlugin-MeshPainter) - Mesh painter plugin for Godot.
 - [Godot 3.5 (2022)](https://godotengine.org/article/godot-3-5-cant-stop-wont-stop) ([HN](https://news.ycombinator.com/item?id=32357248))
+- [Learn to Code From Zero With Godot](https://gdquest.mavenseed.com/courses/learn-to-code-from-zero-with-godot)
+- [Godot Node Essentials](https://gdquest.mavenseed.com/courses/godot-node-essentials)

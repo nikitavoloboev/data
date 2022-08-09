@@ -105,3 +105,4 @@
 - [Figma Selector](https://github.com/reiddraper/figma-selector)
 - [Sync Design Tokens](https://github.com/Suleiman19/sync-design-tokens-figma) - Automatically create and update Figma Styles from a design tokens .
 - [Auto Documentation](https://www.figma.com/community/plugin/1134018716847999330/Auto-Documentation) - With one click, this plugin documents all of the color and font styles for you.
+- [Free 75+ illustrations - Surface Pack – Figma](https://www.figma.com/community/file/883778082594341562)

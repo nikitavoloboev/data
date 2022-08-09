@@ -401,3 +401,5 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Quicksort implemented in different languages](https://github.com/ruippeixotog/quicksort)
 - [Language Incubator](https://github.com/EarlGray/language-incubator) - Learning compilers, interpreters, code generation, virtual machines, assemblers, JITs, etc.
 - [ipso](https://github.com/LightAndLight/ipso) - Functional scripting language.
+- [Ask HN: How to make a native GUI with a modern language? (2022)](https://news.ycombinator.com/item?id=32398181)
+- [Scopes](https://sr.ht/~duangle/scopes/) - Retargetable programming language & infrastructure. ([Lobsters](https://sr.ht/~duangle/scopes/))

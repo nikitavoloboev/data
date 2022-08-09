@@ -228,3 +228,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Infinity Mirror HYPERCRYSTAL (2022)](https://recursion.wtf/posts/infinity_mirror_hypercrystal/)
 - [Chromatlas](http://aleksandrajovanic.com/chromatlas/)
 - [Sketch](https://github.com/sannek/sketch) - Elixir library for creating generative art.
+- [Ask HN: Resources to learn generative art programming? (2022)](https://news.ycombinator.com/item?id=32370671)

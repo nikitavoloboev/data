@@ -61,7 +61,7 @@ title: APL
 - [I got the J language working on OpenBSD (2021)](https://briancallahan.net/blog/20210911.html) ([Lobsters](https://lobste.rs/s/w3ohim/i_got_j_language_working_on_openbsd))
 - [APL Compiler targeting a Typed Array Intermediate Language](https://github.com/melsman/apltail) ([Lobsters](https://lobste.rs/s/bpq8vp/apl_compiler_standard_ml_compiling_typed))
 - [The Origins of APL - 1974](https://www.youtube.com/watch?v=8kUQWuK1L4w)
-- [Ivy](https://github.com/robpike/ivy) - Interpreter for an APL-like language. ([Docs](https://pkg.go.dev/robpike.io/ivy)) ([HN](https://news.ycombinator.com/item?id=32374317))
+- [Ivy](https://github.com/robpike/ivy) - Interpreter for an APL-like language. ([Docs](https://pkg.go.dev/robpike.io/ivy)) ([HN](https://news.ycombinator.com/item?id=32374317)) ([Lobsters](https://lobste.rs/s/fbadro/rob_pike_s_apl_like_language_written_go))
 - [rjj](https://github.com/sourcefrog/rsj) - Learning J by writing an interpreter.
 - [ok](https://github.com/sgreben/ok) - OCaml implementation of the K 2.0 array programming language.
 - [Mastering Dyalog APL (2009)](https://www.dyalog.com/uploads/documents/MasteringDyalogAPL.pdf) ([HN](https://news.ycombinator.com/item?id=30453919))

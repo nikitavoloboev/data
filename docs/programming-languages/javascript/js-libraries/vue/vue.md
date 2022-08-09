@@ -187,3 +187,4 @@ title: Vue.js
 - [Best place to start your Nuxt Theme](https://github.com/nuxt-themes/starter)
 - [Looking at Nuxt3 (2022)](https://www.youtube.com/watch?v=s4Rd2snXSr0)
 - [Nuxt Web Vitals](https://github.com/nuxt-community/web-vitals-module) - Essential module for a healthy Nuxt.js.
+- [Temir](https://github.com/webfansplz/temir) - Vue for CLIs. Build your CLI output using components.

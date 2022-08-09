@@ -238,3 +238,4 @@
 - [Implementing a Toy Optimizer (2022)](https://www.pypy.org/posts/2022/07/toy-optimizer.html)
 - [Search-based compiler code generation (2017)](https://jamey.thesharps.us/2017/06/19/search-based-compiler-code-generation/)
 - [On Transpilers (Zig/Rust/Go)](https://zserge.com/posts/transpilers/) ([Lobsters](https://www.reddit.com/r/Zig/comments/w8u0r5/on_transpilers_zigrustgo/))
+- [Compilation by Program Transformation (1989)](https://mumble.net/~kelsey/kelsey-diss-2012.pdf)

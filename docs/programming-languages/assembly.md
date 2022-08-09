@@ -102,3 +102,4 @@ title: Assembly
 - [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language) ([Lobsters](https://lobste.rs/s/okp72g/creating_language_using_only_assembly))
 - [Intel Microcode Decryptor](https://twitter.com/h0t_max/status/1549155542786080774) ([HN](https://news.ycombinator.com/item?id=32148318)) ([Code](https://github.com/chip-red-pill/MicrocodeDecryptor)) ([HN](https://news.ycombinator.com/item?id=32145324))
 - [Understanding the X64 Code Models (2012)](https://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models)
+- [Stack frame layout on x86-64 (2022)](https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64)

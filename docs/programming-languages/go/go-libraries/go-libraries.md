@@ -1907,3 +1907,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go on Compute@Edge](https://developer.fastly.com/learning/compute/go/) ([Article](https://www.fastly.com/jp/blog/compute-edge-go-support-has-arrived))
 - [deptree](https://github.com/vc60er/deptree) - Show Go dependence like tree.
 - [Adding a standard iterator interface to Go?](https://github.com/golang/go/discussions/54245)
+- [Shaving 40% off Google’s B-Tree Implementation with Go Generics (2022)](https://thenewstack.io/shaving-40-off-googles-b-tree-implementation-with-go-generics/)
+- [I Don’t Like Go’s Default HTTP Handlers (2022)](https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/)

@@ -835,3 +835,5 @@ if err != nil {
 - [Go 1.19 Released (2022)](https://go.dev/doc/go1.19) ([HN](https://news.ycombinator.com/item?id=32321499))
 - [[WTF] Go Unicode Hack to Get Pseudo-Generics](https://news.ycombinator.com/item?id=14276891)
 - [Shared memory and Go](https://kb.barelyhuman.dev/shared-memory-and-go)
+- [The ‘fat service’ pattern for web applications (2022)](https://www.alexedwards.net/blog/the-fat-service-pattern) ([Lobsters](https://lobste.rs/s/2k6cfq/fat_service_pattern_for_web_applications))
+- [Fixing Memory Exhaustion Bugs in My Go Web App (2022)](https://mtlynch.io/notes/picoshare-perf/)

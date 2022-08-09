@@ -74,3 +74,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [What are all the natural drugs? (2022)](https://www.reddit.com/r/Drugs/comments/vj9v46/what_are_all_the_natural_drugs/)
 - [Психиатр-Нарколог. Мефедрон, лечение наркозависимых, 12 шагов (2022)](https://www.youtube.com/watch?v=PEIPaz-bUSY)
 - [Lucy](https://lucy.co/) - Nicotine for normal people.
+- [Which drug provide the greatest music enhancement for you? (2022)](https://www.reddit.com/r/Drugs/comments/wiuccv/which_drug_provide_the_greatest_music_enhancement/)

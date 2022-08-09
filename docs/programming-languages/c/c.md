@@ -269,3 +269,6 @@
 - [C99 doesn't need function bodies, or 'VLAs are Turing complete' (2022)](https://lemon.rip/w/c99-vla-tricks/) ([HN](https://news.ycombinator.com/item?id=32343608))
 - [C23 is Finished: Here is What is on the Menu (2022)](https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu) ([HN](https://news.ycombinator.com/item?id=32352569))
 - [The pervasive effects of C's malloc() and free() on C APIs (2022)](https://utcc.utoronto.ca/~cks/space/blog/programming/CAPIsEffectsOfMalloc) ([HN](https://news.ycombinator.com/item?id=32376542))
+- [sexpc](https://idiomdrottning.org/sexpc) - C as S-expressions. ([Lobsters](https://lobste.rs/s/mfdofb/sexpc_c_as_s_expressions))
+- [The case against an alternative to C (2022)](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative) ([Lobsters](https://news.ycombinator.com/item?id=32392161))
+- [The quick and practical "MSI" hash table (2022)](https://nullprogram.com/blog/2022/08/08/)

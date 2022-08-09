@@ -242,3 +242,5 @@
 - [A simple texture atlas packing algorithm (2022)](https://lisyarus.github.io/blog/graphics/2022/07/30/texture-packing.html)
 - [A better point light attenuation function (2022)](https://lisyarus.github.io/blog/graphics/2022/07/30/point-light-attenuation.html)
 - [Compute shaders in graphics: Gaussian blur (2022)](https://lisyarus.github.io/blog/graphics/2022/04/21/compute-blur.html)
+- [Physically Based](https://physicallybased.info/) - PBR values database.
+- [MantaRay](https://github.com/ange-yaghi/manta-ray) - Open source physically based renderer.

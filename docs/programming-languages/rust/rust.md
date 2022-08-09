@@ -863,3 +863,5 @@ title: Rust
 - [So Zero It's ... Negative? (2022)](https://manishearth.github.io/blog/2022/08/03/zero-copy-3-so-zero-its-dot-dot-dot-negative/)
 - [Rust Analyzer User Manual](https://rust-analyzer.github.io/manual.html)
 - [MiniRust (2022)](https://www.ralfj.de/blog/2022/08/08/minirust.html) ([HN](https://news.ycombinator.com/item?id=32384550))
+- [Using unwrap() in Rust is Okay (2022)](https://blog.burntsushi.net/unwrap/) ([Lobsters](https://lobste.rs/s/60lj66/using_unwrap_rust_is_okay))
+- [A performance retrospective using Rust (part 1) (2022)](https://agourlay.github.io/rust-performance-retrospective-part1/)
