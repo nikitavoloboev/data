@@ -286,3 +286,4 @@ title: Svelte
 - [Svelte Bricks](https://svelte-bricks.netlify.app/) - Naive implementation in Svelte without column balancing. ([Code](https://github.com/janosh/svelte-bricks))
 - [Svelte Headless Table](https://github.com/bryanmylee/svelte-headless-table) - Unopinionated and extensible data tables for Svelte.
 - [svelte-keyed](https://github.com/bryanmylee/svelte-keyed) - Writable derived store for objects and arrays.
+- [Sveltekit New Design. A Breaking Change](https://github.com/sveltejs/kit/discussions/5748)

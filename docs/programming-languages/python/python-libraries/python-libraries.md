@@ -114,6 +114,7 @@
 - [Roerich](https://github.com/HSE-LAMBDA/roerich) - Python library of change point detection algorithms for time series.
 - [tftb](https://github.com/scikit-signal/tftb) - Python module for time-frequency analysis.
 - [PyPOTS](https://github.com/WenjieDu/PyPOTS) - Python Toolbox for Data Mining on Partially-Observed Time Series.
+- [SKOPS](https://github.com/skops-dev/skops) - Python library helping you share your scikit-learn based models and put them in production.
 
 ## Biology
 
@@ -957,6 +958,7 @@
 - [python-makefun](https://github.com/smarie/python-makefun) - Dynamically create python functions with a proper signature.
 - [video2numpy](https://github.com/iejMac/video2numpy) - Optimized library for large-scale extraction of frames and audio from video.
 - [clip-video-encode](https://github.com/iejMac/clip-video-encode) - Easily compute clip embeddings from video frames.
+- [similaritymeasures](https://github.com/cjekel/similarity_measures) - Quantify the difference between two arbitrary curves in space.
 
 ## Notes
 
@@ -1126,3 +1128,5 @@
 - [How to create a Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022) ([HN](https://news.ycombinator.com/item?id=32258783))
 - [PyPI Download Stats](https://pypistats.org/top) - Most downloaded PyPI packages.
 - [Emscripten forge](https://github.com/emscripten-forge/recipes) - Build WASM / emscripten packages with conda/mamba/boa.
+- [Choose the Right Python Concurrency API](https://superfastpython.com/python-concurrency-choose-api/)
+- [How to Handle Large Datasets in Python (2022)](https://towardsdatascience.com/how-to-handle-large-datasets-in-python-1f077a7e7ecf)

@@ -194,3 +194,4 @@ title: Genomics
 - [VirSorter 2](https://github.com/jiarong/VirSorter2) - Customizable pipeline to identify viral sequences from (meta)genomic data.
 - [LightDock](https://github.com/lightdock/lightdock) - Protein-protein, protein-peptide and protein-DNA docking framework based on the GSO algorithm.
 - [ADAM](https://github.com/bigdatagenomics/adam) - Genomics analysis platform with specialized file formats.
+- [DoRothEA](https://github.com/saezlab/dorothea) - R package to access DoRothEA's regulons.

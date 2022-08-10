@@ -244,3 +244,4 @@
 - [Compute shaders in graphics: Gaussian blur (2022)](https://lisyarus.github.io/blog/graphics/2022/04/21/compute-blur.html)
 - [Physically Based](https://physicallybased.info/) - PBR values database.
 - [MantaRay](https://github.com/ange-yaghi/manta-ray) - Open source physically based renderer.
+- [LZ_XOR (2022)](https://richg42.blogspot.com/2022/01/lzxor.html) ([HN](https://news.ycombinator.com/item?id=32401548))

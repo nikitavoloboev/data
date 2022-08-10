@@ -73,6 +73,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-liveview](https://github.com/beenotung/ts-liveview) - Build hybrid SSG and SSR real time SPA/MPA with Typescript.
 - [Sunmao](https://github.com/smartxworks/sunmao-ui) - Framework for Developing Low-code Tool.
 - [waystone](https://github.com/lxsmnsyc/waystone) - MPAs that feels like SPAs.
+- [Axentix](https://github.com/axentix/axentix) - Framework mixing fully customizable components and utility-first classes, leaving the design choice to the developer. ([Web](https://useaxentix.com/))
 
 ## GraphQL
 
@@ -130,6 +131,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 - [ts-pojo-error](https://github.com/skarab42/ts-pojo-error) - Type safe pojo error will help you to easily create typed and serializable error.
 - [retry-ts](https://github.com/gcanti/retry-ts) - Retry combinators for monadic actions that may fail.
+- [Erreur](https://github.com/etienne-dldc/erreur) - Type safe custom errors.
 
 ## Other
 
@@ -591,6 +593,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Behavior-Graph](https://github.com/bhouston/behavior-graph) - Open, extensible, small and simple behavior-graph execution engine.
 - [TypeScript Tuple](https://github.com/ksxnodemodules/typescript-tuple) - Generics to work with tuples in TypeScript.
 - [npx-import](https://github.com/geelen/npx-import) - Runtime dependencies, installed as if by magic.
+- [client-zip](https://github.com/Touffy/client-zip) - Concatenates multiple files (e.g. from multiple HTTP requests) into a single ZIP, in the browser.
 
 ## Links
 

@@ -388,3 +388,4 @@
 - [Is the Kalman filter just a low-pass filter?](https://jbconsulting.substack.com/p/is-the-kalman-filter-just-a-low-pass) ([HN](https://news.ycombinator.com/item?id=32271351))
 - [Mathematical Tours of Data Sciences](https://mathematical-tours.github.io/) ([Code](https://github.com/mathematical-tours/mathematical-tours.github.io))
 - [Combinatorics lecture notes](https://math.mit.edu/~fox/MAT307.html)
+- [Spaced Repetition for Mathematics (2021)](https://cronokirby.com/posts/2021/02/spaced-repetition-for-mathematics/) ([HN](https://news.ycombinator.com/item?id=32390730))

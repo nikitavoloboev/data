@@ -214,3 +214,4 @@ title: Jupyter Notebooks
 - [All the Kernels](https://github.com/minrk/allthekernels) - Jupyter kernel that multiplexes all the kernels you have installed.
 - [Fun with Motion-JPEG, Jupyter Notebook and How to Stream GUI and Animations in the Browser (2022)](https://liuliu.me/eyes/fun-with-motion-jpeg-jupyter-notebook-and-how-to-stream-gui-and-animations-in-the-browser/)
 - [nbdev](https://nbdev.fast.ai/) - Create delightful software with Jupyter Notebooks. ([HN](https://news.ycombinator.com/item?id=32271578))
+- [IJavascript](https://github.com/n-riesco/ijavascript) - JavaScript kernel for the Jupyter notebook.

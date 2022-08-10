@@ -67,3 +67,4 @@ Cardano appears to be a [project that didn't meet its goals](https://twitter.com
 - [Ouroboros-Network](https://github.com/input-output-hk/ouroboros-network) - Implementation of the Ouroboros family of consensus algorithms, with its networking support.
 - [AIKEN](https://github.com/txpipe/aiken) - Cardano smart contract language and toolchain.
 - [Plutus Application Framework](https://github.com/input-output-hk/plutus-apps) - Framework for developing distributed applications using the Cardano blockchain.
+- [Plutarch](https://github.com/Plutonomicon/plutarch-plutus) - Typed eDSL in Haskell for writing efficient Plutus Core validators.

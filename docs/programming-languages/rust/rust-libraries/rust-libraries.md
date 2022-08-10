@@ -58,6 +58,7 @@
 - [step-machine](https://github.com/imbolc/step-machine) - Run your CLI programs as state machines with persistence and recovery abilities.
 - [Requestty](https://github.com/Lutetium-Vanadium/requestty) - Easy-to-use collection of interactive cli prompts inspired by Inquirer.js.
 - [getargs](https://github.com/j-tai/getargs) - Truly zero-cost argument parser for Rust.
+- [Anathema](https://github.com/togglebyte/anathema) - TUI library in Rust with a custom templating language and runtime.
 
 ## Web
 
@@ -2099,6 +2100,9 @@
 - [Aide-De-Camp](https://github.com/ZeroAssumptions/aide-de-camp) - Durable job scheduler for rust.
 - [Uclicious](https://github.com/andoriyu/uclicious) - Flexible reduced boilerplate configuration framework.
 - [Precision](https://github.com/jedisct1/rust-precision) - Low overhead, high precision measurement crate for Rust.
+- [name-it](https://github.com/GoldsteinE/name-it) - Name return types of async fn on stable Rust.
+- [cismute](https://github.com/GoldsteinE/cismute) - Safely transmute type to itself in generic context in Rust.
+- [vec1](https://github.com/rustonaut/vec1) - Rust `Vec<T>` wrapper that gurantees to contain at least 1 element.
 
 ## Cargo Plugins
 

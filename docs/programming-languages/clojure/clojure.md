@@ -239,3 +239,4 @@ title: Clojure
 - [Clojure Web Development Evolved (2022)](https://www.youtube.com/watch?v=DFzukK5-rpU) ([HN](https://news.ycombinator.com/item?id=32282244))
 - [nbb](https://github.com/babashka/nbb) - Scripting in Clojure on Node.js using SCI. ([HN](https://news.ycombinator.com/item?id=32339979))
 - [Jank](https://github.com/jeaye/jank) - Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop.
+- [Why we chose Clojure (2022)](https://blog.kaleidos.net/penpot-chose-clojure-as-its-language-and-here-is-why/) ([HN](https://news.ycombinator.com/item?id=32386276))

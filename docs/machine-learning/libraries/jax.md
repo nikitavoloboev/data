@@ -66,3 +66,4 @@ title: JAX
 - [Generative Adversarial Networks in JAX](https://github.com/lweitkamp/GANs-JAX)
 - [Neural implicit queries](https://github.com/nmwsharp/neural-implicit-queries) - Perform geometric queries on neural implicit surfaces like ray casting, intersection testing, fast mesh extraction, closest points, and more.
 - [CLIP-JAX](https://github.com/borisdayma/clip-jax) - Train CLIP models using JAX and transformers.
+- [BLOOM Inference in JAX](https://github.com/huggingface/bloom-jax-inference)

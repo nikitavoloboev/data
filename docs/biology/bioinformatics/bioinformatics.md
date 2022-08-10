@@ -234,3 +234,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [AlphaFold reveals the structure of the protein universe (2022)](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe) ([HN](https://news.ycombinator.com/item?id=32262856))
 - [K-mer File Format: a standardized and compact disk representation of sets of k-mers (2022)](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac528/6651834?login=true) ([Tweet](https://twitter.com/yoann_dufresne/status/1553994994498867201))
 - [A Guide to Decentralized Biotech](https://future.com/a-guide-to-decentralized-biotech/)
+- [Saez-Rodriguez Group](https://saezlab.org/) - Develop software tools for systems level analysis and mechanistic modeling of molecular and biomedical data. ([GitHub](https://github.com/saezlab))

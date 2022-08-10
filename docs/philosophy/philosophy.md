@@ -71,3 +71,4 @@
 - [David Deutsch on Multiple Worlds and Our Place in Them (2021)](https://www.youtube.com/watch?v=b_6vYwCkIpc)
 - [Philosophy Podcasts](https://truesciphi.org/phipod_series.html)
 - [Notes on Philosophy](https://www.desolhar-philo.com/)
+- [Why does anything exist? (2021)](https://alwaysasking.com/why-does-anything-exist/) ([HN](https://news.ycombinator.com/item?id=32416003))

@@ -128,3 +128,4 @@ title: Three.js
 - [Curl Flow](https://github.com/ichitaro/curl-flow)
 - [react-three-csg](https://github.com/pmndrs/react-three-csg) - Constructive solid geometry for React.
 - [The Study of Shaders with React Three Fiber (2022)](https://blog.maximeheckel.com/posts/the-study-of-shaders-with-react-three-fiber/)
+- [Shader Composer](https://github.com/hmans/shader-composer) - Write Three.js shaders, but with JavaScript.

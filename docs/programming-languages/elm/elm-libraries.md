@@ -28,6 +28,7 @@
 - [json-to-elm](https://github.com/eeue56/json-to-elm) - Create Elm type aliases and decoders based on JSON input.
 - [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI-scripts in Elm.
 - [TaskPort](https://github.com/lobanov/elm-taskport) - Elm module allowing to call JavaScript APIs from Elm using the Task abstraction.
+- [Elm Safe Recursion](https://github.com/micahhahn/elm-safe-recursion) - Elegant recursion without blowing the stack.
 
 ## Links
 

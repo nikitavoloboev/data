@@ -19,6 +19,7 @@
 - [zig-serve](https://github.com/MasterQ32/zig-serve) - Server implementations for several protocols in Zig. Includes http(s), gemini and gopher.
 - [rem](https://github.com/chwayne/rem) - HTML parsing library, written in Zig.
 - [zfetch](https://github.com/truemedian/zfetch) - HTTP request library for Zig with HTTPS support.
+- [HTTP](https://github.com/ducdetronquito/http) - HTTP core types for Zig.
 
 ## DB
 

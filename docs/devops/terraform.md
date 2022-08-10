@@ -191,3 +191,4 @@ title: Terraform
 - [Pluralith CLI](https://github.com/Pluralith/pluralith-cli) - Tool to visualize your Terraform state and automate infrastructure documentation.
 - [Terraform Provider Data Processor](https://github.com/slok/terraform-provider-dataprocessor) - Terraform provider for easy and clean data processing (JQ, YQ, Go plugins...).
 - [“Who Should Write the Terraform?” (2022)](https://zwischenzugs.com/2022/08/08/who-should-write-the-terraform/) ([HN](https://news.ycombinator.com/item?id=32396892))
+- [Terraform Operator](https://github.com/isaaguilar/terraform-operator) - Kubernetes CRD to handle terraform operations.

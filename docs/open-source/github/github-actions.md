@@ -249,6 +249,7 @@ title: GitHub actions
 - [Changesets Snapshot Release](https://github.com/the-guild-org/changesets-snapshot-action) - GitHub Action for making Snapshot releases using Changesets.
 - [Changesets Dependencies](https://github.com/the-guild-org/changesets-dependencies-action) - GitHub Action for creating Changesets files for dependencies updates.
 - [setup-protoc](https://github.com/arduino/setup-protoc) - GitHub Action to setup the protoc compiler for protocol buffers.
+- [Upload Pages Artifact](https://github.com/actions/upload-pages-artifact) - Composite action for packaging and uploading an artifact that can be deployed to GitHub Pages.
 
 ## Go
 
@@ -553,3 +554,4 @@ title: GitHub actions
 - [Container scheduling strategies for integration testing 14 different databases in Github Actions (2022)](https://datastation.multiprocess.io/blog/2022-07-25-database-integration-testing.html)
 - [gh-actions-cache](https://github.com/actions/gh-actions-cache) - GitHub (gh) CLI extension to manage the GitHub Actions caches being used in a GitHub repository.
 - [GitHub App Token](https://github.com/tibdex/github-app-token) - Impersonate a GitHub App in a GitHub Action.
+- [Using GitHub GraphQL API With GitHub Actions (2022)](https://liblab.com/blog/using-github-graphql-api-with-github-actions)

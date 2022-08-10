@@ -201,7 +201,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [kindaVim](https://github.com/godbout/kindaVim) - Vim moves for the whole macOS. in input fields and more. ([Web](https://kindavim.app/)) ([Web Code](https://github.com/godbout/kindaVim.theapp))
 - [One Switch](https://fireball.studio/oneswitch)
 - [Quiver](https://happenapps.com/#quiver) - Programmer's Notebook.
-- [SOL](https://github.com/ospfranco/sol) - macOS global command palette. Raycast/Spotlight alternative.
+- [SOL](https://github.com/ospfranco/sol) - macOS global command palette. Alfred/Raycast alternative. ([HN](https://news.ycombinator.com/item?id=32402631))
 - [One Thing](https://sindresorhus.com/one-thing) - Put a single task or goal in your menu bar. ([CLI](https://github.com/sindresorhus/one-thing))
 - [SF Menu Bar](https://apps.apple.com/app/id1615595104) - Browse Apple's collection of over 3,300 SF Symbols and quickly copy a symbol's name to the clipboard.
 - [Couverture](https://ixeau.com/couverture/) - Easing Curve Editor.

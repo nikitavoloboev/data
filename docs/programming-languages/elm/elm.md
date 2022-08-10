@@ -106,3 +106,4 @@ title: Elm
 - [Elm Value Graph](https://lydell.github.io/elm-value-graph/) - Show how every value in an Elm application depend on each other, as a graph. ([Code](https://github.com/lydell/elm-value-graph))
 - [Fixing vulnerabilities in Elm's virtual DOM (2022)](https://jfmengels.net/virtual-dom-security-patch/)
 - [Introduction to Elm Book](https://guide.elm-lang.org/) ([Code](https://github.com/evancz/guide.elm-lang.org))
+- [Elm Workshop](https://sporto.github.io/elm-workshop/) ([Code](https://github.com/sporto/elm-workshop))

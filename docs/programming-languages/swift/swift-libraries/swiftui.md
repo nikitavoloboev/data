@@ -246,3 +246,4 @@ title: SwiftUI
 - [SwiftUI - Be Water, My Friend (2022)](https://www.youtube.com/watch?v=pkv-iTr3NVI)
 - [Purposeful iOS Animations with SwiftUI](https://github.com/GetStream/purposeful-ios-animations)
 - [Keyboard](https://github.com/AudioKit/Keyboard) - SwiftUI music keyboard.
+- [Mastering grid layout in SwiftUI (2022)](https://swiftwithmajid.com/2022/08/10/mastering-grid-layout-in-swiftui/)

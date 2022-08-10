@@ -374,3 +374,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Formalizing a Simple Virtual Machine (2022)](https://whileydave.com/2022/06/28/formalising-a-simple-virtual-machine/)
 - [Little VM Helper](https://github.com/cilium/little-vm-helper) - Tool for building and running VMs for development and testing.
 - [Hello UEFI in Zig](https://github.com/DanB91/Hello-UEFI-Zig) - Small amount of code to get started writing an OS or a bare-metal UEFI application in Zig.
+- [Procursus](https://github.com/ProcursusTeam/Procursus) - New, powerful, cross-compilation OS bootstrap.

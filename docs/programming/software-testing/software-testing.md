@@ -150,3 +150,4 @@
 - [Ask HN: Do you load test your applications? If so, how? (2022)](https://news.ycombinator.com/item?id=31912525)
 - [Unit and Integration Tests (2022)](https://matklad.github.io//2022/07/04/unit-and-integration-tests.html) ([Lobsters](https://lobste.rs/s/0behmc/unit_integration_tests))
 - [Smoke](https://github.com/SamirTalwar/smoke) - Designed to test anything that can be wrapped with a command-line interface.
+- [Test against what won't change](https://blog.alexgilleran.com/test-against-what-wont-change/) ([Lobsters](https://lobste.rs/s/8p0q7g/test_against_what_won_t_change))

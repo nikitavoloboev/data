@@ -6,6 +6,8 @@ title: Lean
 
 > Open source theorem prover and programming language being developed at Microsoft Research.
 
+[Natural number game](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/) is great.
+
 ## Links
 
 - [Theorem Proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/title_page.html)

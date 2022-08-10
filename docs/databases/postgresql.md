@@ -556,3 +556,5 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [hasql](https://github.com/aiokitchen/hasql) - Library for high available PostgreSQL clusters.
 - [State of PostgreSQL 2022](https://www.timescale.com/blog/what-postgresql-contributor-heikki-linnakangas-has-to-say-about-the-state-of-postgresql-2022/)
 - [Speculare PGCDC](https://github.com/speculare-cloud/speculare-pgcdc) - Allows you to listen to changes in your PostgreSQL database via logical replication and then broadcast those changes over websockets.
+- [Validating PostgreSQL results and inferring query static types (2022)](https://contra.com/p/gkOQlbLq-validating-postgre-sql-results-and-inferring-query-static-types)
+- [Postgres Performance Monitoring: Best Practices and Tools to Use (2022)](https://hydras.io/blog/2022-08-08-postgres-performance-monitoring-best-practices-and-tools)

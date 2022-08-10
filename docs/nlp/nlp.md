@@ -636,3 +636,6 @@
 - [GLM-130B](https://github.com/THUDM/GLM-130B) - Open Bilingual Pre-Trained Model.
 - [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion (2022)](https://textual-inversion.github.io/) ([Code](https://github.com/rinongal/textual_inversion))
 - [DALL-E + GPT-3 = ♥ (2022)](https://medium.com/@glan1k/dall-e-gpt-3-d1aaaff38639) ([HN](https://news.ycombinator.com/item?id=32377069))
+- [Run your own DALL-E-like image generator (2022)](https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/) ([HN](https://news.ycombinator.com/item?id=32384646))
+- [Stable Diffusion launch announcement (2022)](https://stability.ai/blog/stable-diffusion-announcement) ([HN](https://news.ycombinator.com/item?id=32414811))
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion)

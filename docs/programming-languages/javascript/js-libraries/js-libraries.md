@@ -77,6 +77,7 @@
 - [Helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers.
 - [Reactif](https://github.com/keva-dev/reactif) - Fast 5kB reactive & elegant functional library for rapidly building modern UIs on the web.
 - [Swup](https://github.com/swup/swup) - Complete, flexible, extensible and easy to use page transition library for your static web.
+- [Taxi](https://github.com/craftedbygc/taxi) - Library for adding AJAX navigation and beautiful transitions to your website.
 
 ## Animation
 
@@ -997,6 +998,9 @@
 - [Config Array](https://github.com/humanwhocodes/config-array) - Glob-based configuration array utility.
 - [p-cancelable](https://github.com/sindresorhus/p-cancelable) - Create a promise that can be canceled.
 - [neat-csv](https://github.com/sindresorhus/neat-csv) - Fast CSV parser.
+- [xdg-app-paths](https://github.com/rivy/js.xdg-app-paths) - Determine (XDG-compatible) paths for storing application files (cache, config, data, etc).
+- [evemin](https://github.com/re-js/evemin) - Modern and blazing fast event emitter.
+- [Buffer for Array](https://github.com/holepunchto/b4a) - Bridging the gap between buffers and typed arrays.
 
 ## Links
 
@@ -1080,3 +1084,4 @@
 - [parse-imports](https://github.com/TomerAberbach/parse-imports) - Blazing fast ES module imports parser.
 - [sigstore-js](https://github.com/github/sigstore-js) - Code-signing for npm packages.
 - [source-map-diff](https://github.com/dylang/source-map-diff) - Compare source maps with cli and web output.
+- [npminstall](https://github.com/cnpm/npminstall) - Make `npm install` fast and easy.

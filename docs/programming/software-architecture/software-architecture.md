@@ -263,3 +263,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Scale up your app with Microfeatures (2022)](https://alexanderweiss.dev/blog/2022-01-12-scale-up-your-app-with-microfeatures)
 - [Ask HN: Who do you talk to about system architecture and design? (2022)](https://news.ycombinator.com/item?id=32331825)
 - [Ask HN: Is my software stack choice sound? (2022)](https://news.ycombinator.com/item?id=32331461)
+- [What do you use to visualize your infrastructure? (2022)](https://www.reddit.com/r/devops/comments/wkd2fd/what_do_you_use_to_visualize_your_infrastructure/)

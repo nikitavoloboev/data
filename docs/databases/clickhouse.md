@@ -33,3 +33,5 @@ title: ClickHouse
 - [dbt-clickhouse](https://github.com/ClickHouse/dbt-clickhouse) - ClickHouse plugin for dbt (data build tool).
 - [ClickHouse.jl](https://github.com/JuliaDatabases/ClickHouse.jl) - Julia Lang client for the ClickHouse TCP native protocol.
 - [Node ClickHouse](https://github.com/TimonKK/clickhouse) - NodeJS client for ClickHouse.
+- [ClickHouse and the open source modern data stack (2022)](https://blog.luabase.com/clickhouse-for-data-nerds/)
+- [Jaeger ClickHouse](https://github.com/jaegertracing/jaeger-clickhouse) - Jaeger gRPC storage plugin implementation for storing traces in ClickHouse.

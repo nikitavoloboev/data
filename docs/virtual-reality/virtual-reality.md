@@ -80,3 +80,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [NeuralPassthrough: Learned Real-Time View Synthesis for VR (2022)](https://research.facebook.com/publications/neural-passthrough/) ([Code](https://github.com/facebookresearch/NeuralPassthrough))
 - [StereoKit](https://github.com/StereoKit/StereoKit) - Easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR. ([HN](https://news.ycombinator.com/item?id=32168236))
 - [Overte](https://overte.org/) - 3D social software project seeking to incrementally bring about a truly free and open metaverse. ([Code](https://github.com/overte-org/overte))
+- [Ask HN: Anyone tried development using an Oculus? (2022)](https://news.ycombinator.com/item?id=32375677)

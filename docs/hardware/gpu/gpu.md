@@ -115,3 +115,4 @@ title: GPU
 - [How GPU Computing Works](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31151/) ([HN](https://news.ycombinator.com/item?id=32053502))
 - [DeepOps](https://github.com/NVIDIA/deepops) - Tools for building GPU clusters.
 - [TensorDock Core GPU Cloud](https://www.tensordock.com/product-core) - GPU servers from $0.29/hr. ([HN](https://news.ycombinator.com/item?id=32269722))
+- [Vector graphics on GPU](https://gasiulis.name/vector-graphics-on-gpu/)

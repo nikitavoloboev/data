@@ -38,3 +38,4 @@ title: Logseq
 - [Logseq Schrödinger](https://github.com/sawhney17/logseq-schrodinger) - Plugin to export pages in Logseq to Hugo.
 - [Logseq Calendars](https://github.com/sawhney17/logseq-calendars-plugin)
 - [PDF Export](https://github.com/sawhney17/logseq-pdf-export) - Plugin to export the current page as your own custom styled PDF.
+- [Logseq Luma Theme](https://github.com/gavinmn/logseq-luma) - Minimal and detail oriented light and dark theme for Logseq.

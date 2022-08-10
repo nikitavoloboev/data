@@ -79,7 +79,7 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Tezos: Approaches to Scalability (2021)](https://www.youtube.com/watch?v=oqBSs0DSuzQ) ([Tweet](https://twitter.com/epolynya/status/1446110487633031181))
 - [Explore Tezos](https://exploretezos.com/) - All the Tezos Dapps in one organized place.
 - [Temple Wallet](https://github.com/madfish-solutions/templewallet-mobile) - Non-custodial crypto wallet for interacting with the Tezos ecosystem.
-- [Rarible Protocol](https://rarible.org/) - Create, access, and monetize digital items. ([Twitter](https://twitter.com/raribledao))
+- [Rarible Protocol](https://rarible.org/) - Create, access, and monetize digital items. ([Twitter](https://twitter.com/raribledao)) ([Protocol Docs](https://github.com/rarible/protocol))
 - [Tezos Octez](https://github.com/ocaml-multicore/tezos) - Tezos running on Multicore OCaml.
 - [Why Are Exchanges So Different on Tezos? (2021)](https://story.madfish.solutions/why-are-exchanges-so-different-on-tezos/)
 - [Preferred way to make collections on HEN/Tezos (2021)](https://twitter.com/thomasp85/status/1455821645676007424)

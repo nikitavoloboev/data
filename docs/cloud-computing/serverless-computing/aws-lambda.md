@@ -146,3 +146,4 @@ title: AWS Lambda
 - [OpenTelemetry Lambda Layers](https://github.com/open-telemetry/opentelemetry-lambda) - Provide the OpenTelemetry (OTel) code to export telemetry asynchronously from AWS Lambdas.
 - [MikroLog](https://github.com/mikaelvesavuori/mikrolog) - JSON logger you always wanted for Lambda.
 - [Rust Lambda API template](https://github.com/saucepoint/rust-lambda-api) - Template repo for quickly creating an HTTP API with Rust hosted on AWS Lambda.
+- [Buildkite Agent Scaler](https://github.com/buildkite/buildkite-agent-scaler) - Lambda for scaling an AutoScalingGroup based on Buildkite metrics.

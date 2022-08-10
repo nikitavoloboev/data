@@ -389,3 +389,6 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [VVdeC](https://github.com/fraunhoferhhi/vvdec) - Fraunhofer Versatile Video Decoder.
 - [Ask HN: Why has quality of YouTube reduced drastically? (2022)](https://news.ycombinator.com/item?id=32328207)
 - [Moonfire NVR](https://github.com/scottlamb/moonfire-nvr) - Security camera network video recorder.
+- [Video Stabilization with FFmpeg and VidStab (2021)](https://www.paulirish.com/2021/video-stabilization-with-ffmpeg-and-vidstab/) ([HN](https://news.ycombinator.com/item?id=32402542))
+- [Advanced Search for YouTube](https://playlists.at/youtube/search/)
+- [Ask HN: What are some of your favorite YouTube channels? (2022)](https://news.ycombinator.com/item?id=32378309)

@@ -185,3 +185,4 @@
 - [Online R learning for applied statistics](https://github.com/cxli233/Online_R_learning)
 - [Introduction to ML with R using tidymodels](https://github.com/juliasilge/tidymodels-tutorial)
 - [Slider](https://github.com/DavisVaughan/slider) - Sliding Window Functions.
+- [Collection of various algorithms implemented in R](https://github.com/TheAlgorithms/R)

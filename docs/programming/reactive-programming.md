@@ -35,3 +35,4 @@ title: Reactive programming
 - [Building a Reactive Library from Scratch (2021)](https://dev.to/ryansolid/building-a-reactive-library-from-scratch-1i0p)
 - [LiteObservable](https://github.com/lxsmnsyc/LiteObservable) - Cold Observables for JS in a lightweight fashion.
 - [observable](https://github.com/ally-ui/observable) - Tiny observable implementation.
+- [reactive-box](https://github.com/re-js/reactive-box) - Minimalistic, fast, and highly efficient reactivity.

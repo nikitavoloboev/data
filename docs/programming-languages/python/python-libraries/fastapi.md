@@ -33,3 +33,4 @@ title: FastAPI
 - [Reusable utilities for FastAPI](https://github.com/dmontagu/fastapi-utils)
 - [FastAPI + PostgreSQL + JWT + Docker + Nginx template](https://github.com/m0kr4n3/fastapi_project_template)
 - [FastAPI Enclave Services](https://github.com/ObliviousAI/FastAPI-Enclave-Services)
+- [Cookiecutter FastAPI](https://github.com/Tobi-De/cookiecutter-fastapi) - Framework for jump starting production-ready FastAPI projects quickly.

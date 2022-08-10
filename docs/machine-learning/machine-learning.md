@@ -895,3 +895,6 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [AdaCat: Adaptive Categorical Discretization for Autoregressive Models (2022)](https://arxiv.org/abs/2208.02246) ([Code](https://github.com/ColinQiyangLi/AdaCat))
 - [Awesome Decision Tree Research Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 - [Why do tree-based models still outperform deep learning on tabular data? (2022)](https://arxiv.org/abs/2207.08815) ([HN](https://news.ycombinator.com/item?id=32333565))
+- [Improving Sample Efficiency in Model-Free Reinforcement Learning from Images (2020)](https://arxiv.org/abs/1910.01741) ([Code](https://github.com/denisyarats/pytorch_sac_ae))
+- [Robust Robotic Control from Pixels using Contrastive Recurrent State-Space Models (2021)](https://arxiv.org/abs/2112.01163) ([Code](https://github.com/apple/ml-core))
+- [First Italian School on Geometric Deep Learning (2022)](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ)

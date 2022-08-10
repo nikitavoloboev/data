@@ -212,6 +212,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Charlie Tango Hooks](https://github.com/charlie-tango/hooks)
 - [form-atoms](https://github.com/jaredLunde/form-atoms) - Atomic form primitives for Jotai.
 - [useAsyncEffect](https://github.com/rauldeheer/use-async-effect) - Asynchronous side effects, without the nonsense.
+- [useAsyncEffect](https://github.com/n1ru4l/use-async-effect) - React hook for async effects powered by generator functions.
 
 ## Code
 

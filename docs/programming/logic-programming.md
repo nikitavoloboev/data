@@ -25,3 +25,4 @@
 - [CLP(SMT)-miniKanren](https://github.com/namin/clpsmt-miniKanren) - Canonical miniKanren implementation, augmented with CLP(SMT).
 - [Owl](https://github.com/jdrprod/owl) - Tiny logic programming language highly inspired by Prolog.
 - [The joy of concurrent logic programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
+- [Ascent](https://github.com/s-arash/ascent) - Logic programming language (similar to Datalog) embedded in Rust via macros.

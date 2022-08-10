@@ -175,7 +175,7 @@ if err != nil {
 - [Go Things I Love: Methods On Any Type (2019)](https://www.justindfuller.com/posts/2019-12-14_Go-Things-I-Love-Methods-On-Any-Type) ([Reddit](https://www.reddit.com/r/golang/comments/eaqnyh/go_things_i_love_methods_on_any_type/))
 - [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang examples compared to Node.js for learning.
 - [Testing in Go: Test Doubles by Example (2019)](https://ieftimov.com/post/testing-in-go-test-doubles-by-example/)
-- [Chime](https://www.chimehq.com/) - Go editor for macOS. ([HN](https://news.ycombinator.com/item?id=21963708)) ([GitHub](https://github.com/ChimeHQ))
+- [Chime](https://www.chimehq.com/) - Go editor for macOS. ([HN](https://news.ycombinator.com/item?id=21963708)) ([GitHub](https://github.com/ChimeHQ)) ([ChimeKit](https://github.com/ChimeHQ/ChimeKit))
 - [Go Things I Love: Channels and Goroutines (2020)](https://www.justindfuller.com/2020/01/go-things-i-love-channels-and-goroutines/) ([HN](https://news.ycombinator.com/item?id=21968939))
 - [go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules.
 - [Go by Example](https://gobyexample.com/) - Hands-on introduction to Go using annotated example programs. ([Code](https://github.com/mmcgrana/gobyexample))

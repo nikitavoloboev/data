@@ -124,3 +124,4 @@
 - [drone-cache](https://github.com/meltwater/drone-cache) - Drone plugin for caching current workspace files between builds to reduce your build times.
 - [Beast](https://github.com/GauravDawra/Beast) - Build system built for speed and power. ([HN](https://news.ycombinator.com/item?id=31957976))
 - [Vercel Build Output API: Infrastructure-as-Filesystem (2022)](https://vercel.com/blog/build-output-api) ([HN](https://news.ycombinator.com/item?id=32192498))
+- [Speeding up PostHog builds with Depot (2022)](https://posthog.com/blog/speeding-up-posthog-builds-with-depot)

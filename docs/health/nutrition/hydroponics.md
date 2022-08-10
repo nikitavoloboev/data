@@ -13,3 +13,4 @@ title: Hydroponics
 - [Hydromisc](https://github.com/hydromisc/hydromisc) - Open hardware to measure EC and pH, drive pumps, and otherwise manage a mid-size hydroponic grow over Wi-Fi.
 - [Hydroponics - Low-tech Lab](https://wiki.lowtechlab.org/wiki/Hydroponie/en)
 - [Can You Grow Rice Hydroponically?](https://hydroponicsspace.com/can-you-grow-rice-hydroponically/)
+- [Hydroponics: Growing an Appreciation for Plants](https://www.bunniestudios.com/blog/?p=6481) ([HN](https://news.ycombinator.com/item?id=32398353))

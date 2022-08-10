@@ -186,3 +186,4 @@
 - [Iris](https://github.com/Kaesebrot84/iris) - CLI tool that creates color palettes from images using the median cut algorithm.
 - [Color Gradient](https://mazznoer.github.io/colorgrad-js/) - High-performance JavaScript color gradient library powered by Rust + WebAssembly. ([Code](https://github.com/mazznoer/colorgrad-js))
 - [Penumbra Color Theme](https://github.com/nealmckee/penumbra) - Perceptually optimized color palette based on natural light. ([HN](https://news.ycombinator.com/item?id=32348461))
+- [Fast Average Color](https://github.com/fast-average-color/fast-average-color) - Fast Average Color.

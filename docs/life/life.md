@@ -138,3 +138,4 @@ I try to spend as much [time with family and loved ones](https://ourworldindata.
 - [Ask HN: What lifestyle choices have led to improved cognitive function/memory? (2022)](https://news.ycombinator.com/item?id=31916041)
 - [Ask HN: Have you ever had a changed-your-life moment? (2022)](https://news.ycombinator.com/item?id=32248016)
 - [What are your non-screen / non-tech hobbies? (2022)](https://www.reddit.com/r/simpleliving/comments/w8w1hv/what_are_your_nonscreen_nontech_hobbies/)
+- [A biochemist’s view of life’s origin reframes cancer and aging (2022)](https://www.quantamagazine.org/a-biochemists-view-of-lifes-origin-reframes-cancer-and-aging-20220808/) ([HN](https://news.ycombinator.com/item?id=32392937))

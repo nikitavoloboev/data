@@ -270,3 +270,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [What’s your favorite thing about being non-monogamous and why?](https://www.reddit.com/r/nonmonogamy/comments/wg8y5k/whats_your_favorite_thing_about_being/)
 - [Tell HN: I interviewed my dad before he died (2022)](https://news.ycombinator.com/item?id=32349006)
 - [What are the non-egregious "chemistry killers" for you? (2022)](https://www.reddit.com/r/datingoverthirty/comments/wisqmb/what_are_the_nonegregious_chemistry_killers_for/)
+- [Diagnosed Narcissist talks about why he has no friends](https://www.reddit.com/r/interestingasfuck/comments/wkq44b/diagnosed_narcissist_talks_about_why_he_has_no/)

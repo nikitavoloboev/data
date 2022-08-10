@@ -16,6 +16,7 @@ title: Expo
 - [MusicRoom](https://github.com/AdonisEnProvence/MusicRoom) - Cross-platform iOS, Android and Web application using React Native (Expo) and Adonis and Temporal within one monorepo.
 - [Expo template with Tamagui, MobX and i18n](https://github.com/ivopr/tamagui-expo)
 - [NX monorepo showing the TMDB Watchlist mobile app with Expo, tRPC, Next, and Prisma](https://github.com/mwarger/tmdb-watchlist-prisma)
+- [Kaol Stack](https://github.com/chamatt/create-kaol-app) - Prisma, Expo, Next, TRPC, Solito, Tailwind - A monorepo template for a truly universal app.
 
 ## Notes
 

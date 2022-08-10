@@ -350,3 +350,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [GraphQLGate](https://github.com/oslabs-beta/GraphQL-Gate) - GraphQL rate limiting library using query complexity analysis.
 - [GraphQL Gateway Developer Portal](https://github.com/oslabs-beta/GraphQL-Gateway) - Designed for offering a visualization of how your GraphQL API endpoints is secured using rate limits and depth limits.
 - [Unpopular opinion GraphQL kinda sucks (2022)](https://news.ycombinator.com/item?id=32366759)
+- [GraphQL Armor](https://github.com/Escape-Technologies/graphql-armor) - Dead-simple yet highly customizable security middleware for various GraphQL server engines.

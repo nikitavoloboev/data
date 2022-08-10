@@ -192,3 +192,4 @@
 - [Image Processing with WebGL](https://medium.com/eureka-engineering/image-processing-with-webgl-c2af552e8df0)
 - [rscolorq](https://github.com/okaneco/rscolorq) - Spatial color quantization in Rust.
 - [simple_clustering](https://github.com/okaneco/simple_clustering) - Image segmentation library and CLI tool using SNIC and SLIC superpixel algorithms.
+- [fast-png](https://github.com/image-js/fast-png) - PNG image decoder and encoder written entirely in JavaScript.

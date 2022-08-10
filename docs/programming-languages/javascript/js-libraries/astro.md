@@ -40,3 +40,5 @@ title: Astro
 - [Astro Toolbox Template](https://github.com/netlify-templates/astro-toolbox) - Simple template to give you the code you need to use Netlify features with Astro.
 - [Astro Icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy.
 - [Astro 1.0 (2022)](https://astro.build/blog/astro-1/) ([HN](https://news.ycombinator.com/item?id=32401159))
+- [Tree Sitter Astro](https://github.com/virchau13/tree-sitter-astro)
+- [Astro HTML Streaming](https://twitter.com/RyanCarniato/status/1557132452589473792)

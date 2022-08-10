@@ -118,6 +118,7 @@
 - [RvSpectML](https://github.com/RvSpectML/RvSpectML.jl) - Facilitate the analysis of stellar spectroscopic times series.
 - [LsqFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl) - Simple curve fitting in Julia.
 - [TintiNet.jl](https://github.com/Hugemiler/TintiNet.jl) - Implementation of the TintiNet architecture for Julia.
+- [MixedModels](https://github.com/JuliaStats/MixedModels.jl) - Julia package for fitting (statistical) mixed-effects models. ([Tweet](https://twitter.com/wdonald_1985/status/1557180271669047296))
 
 ## Math
 
@@ -712,6 +713,7 @@
 - [ShapeCheck.jl](https://github.com/MasonProtter/ShapeCheck.jl) - Nice syntax for runtime shape checking of function outputs given their inputs.
 - [Jot.jl](https://github.com/harris-chris/Jot.jl) - Streamlines the creation and management of AWS Lambda functions written in Julia.
 - [RegistryCI.jl](https://github.com/JuliaRegistries/RegistryCI.jl) - Continuous integration (CI) tools for Julia package registries, including registry consistency testing, automatic merging (automerge) of pull requests, and automatic TagBot triggers.
+- [FilePathsBase.jl](https://github.com/rofinn/FilePathsBase.jl) - Type based approach to working with filesystem paths in julia.
 
 ## Links
 
@@ -742,3 +744,4 @@
 - [Julia Packages Twitter](https://twitter.com/JuliaPackages) - Feed of newly created and updated Julia packages.
 - [Julia Package Setup Tutorial (2021)](https://bjack205.github.io/tutorial/2021/07/16/julia_package_setup.html)
 - [Guide to Artifacts in Julia (2022)](https://www.juliafordatascience.com/artifacts/)
+- [JNumPy](https://github.com/Suzhou-Tongyuan/jnumpy) - Writing high-performance C extensions for Python in minutes. ([HN](https://news.ycombinator.com/item?id=32407451))

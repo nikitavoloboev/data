@@ -533,6 +533,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [cache](https://github.com/twmb/go-cache) - Concurrency safe, mostly lock-free, singleflight request collapsing generic cache with support for stale values.
 - [superbasic](https://github.com/wroge/superbasic) - Compiles expressions and value-lists into SQL strings and thus offers an alternative to conventional query builders.
 - [TiKV Go Client](https://github.com/tikv/client-go)
+- [HaxMap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient Go concurrent hashmap.
 
 ## ML
 
@@ -1776,6 +1777,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [compute-sdk-go](https://github.com/fastly/compute-sdk-go) - Go SDK for building Compute@Edge applications with TinyGo.
 - [Hotswap](https://github.com/edwingeng/hotswap) - Provides a solution for reloading your go code without restarting your server, interrupting or blocking any ongoing procedure.
 - [Deque](https://github.com/edwingeng/deque) - Highly optimized double-ended queue.
+- [JSON-RPC 2.0](https://github.com/neonxp/jsonrpc2) - Go implementation of JSON-RPC 2.0 server with generics.
+- [Frugal](https://github.com/cloudwego/frugal) - Very fast dynamic Thrift serializer & deserializer.
 
 ## Links
 
@@ -1909,3 +1912,6 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Adding a standard iterator interface to Go?](https://github.com/golang/go/discussions/54245)
 - [Shaving 40% off Google’s B-Tree Implementation with Go Generics (2022)](https://thenewstack.io/shaving-40-off-googles-b-tree-implementation-with-go-generics/)
 - [The problem with Go’s default HTTP handlers (2022)](https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/) ([HN](https://news.ycombinator.com/item?id=32398969))
+- [DataViz](https://github.com/Arafatk/DataViz) - Build and Visualize data structures in Go.
+- [Clockwork](https://github.com/coretrix/clockwork) - Go Application runtime inspection tool.
+- [Self-Recompiling Go Binaries](https://github.com/shazow/go-selfcompile)

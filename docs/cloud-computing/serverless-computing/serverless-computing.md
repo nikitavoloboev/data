@@ -175,3 +175,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Lagon](https://lagon.app/) - Deploy Serverless Functions at the Edge. ([Code](https://github.com/lagonapp/serverless))
 - [Inngest](https://github.com/inngest/inngest) - Event-driven queue for any language.
 - [Cloudflare CLI](https://github.com/epiHATR/cloudflare-cli)
+- [Personalized UIs with No Client-Side JavaScript](https://github.com/jlengstorf/no-js-personalization)

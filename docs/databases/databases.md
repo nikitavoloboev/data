@@ -668,3 +668,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [The Slotted Counter Pattern (2022)](https://planetscale.com/blog/the-slotted-counter-pattern)
 - [Convex](https://www.convex.dev/) - Global state management platform for web developers. ([GitHub](https://github.com/get-convex))
 - [Assembling a Query Engine From Spare Parts (2022)](https://www.firebolt.io/content/firebolt-vldb-cdms-2022)
+- [Reddit’s database has two tables (2012)](https://kevin.burke.dev/kevin/reddits-database-has-two-tables/) ([HN](https://news.ycombinator.com/item?id=32407873))

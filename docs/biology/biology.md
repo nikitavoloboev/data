@@ -2,6 +2,8 @@
 
 [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/) is a [great article](https://news.ycombinator.com/item?id=32035054).
 
+[poly](https://github.com/timothystiles/poly) is a nice lib.
+
 ## Notes
 
 - The body is always trying to maintain homeostasis by either allowing or removing certain particles/molecules/chemicals/compounds/..
@@ -132,3 +134,4 @@
 - [Handbook of Tissue Engineering Scaffolds: Volume Two](https://www.elsevier.com/books/handbook-of-tissue-engineering-scaffolds-volume-two/mozafari/978-0-08-102561-1)
 - [Learn how to create with biology](https://github.com/madewithbio/madewithbio.github.io)
 - [A physical wiring diagram for the human immune system (2022)](https://www.nature.com/articles/s41586-022-05028-x) ([HN](https://news.ycombinator.com/item?id=32381790))
+- [Open Source Tools for Computational Biology (2022)](https://www.pillar.vc/playlist/article/open-source-tools-for-computational-biology/) ([HN](https://news.ycombinator.com/item?id=32384710))

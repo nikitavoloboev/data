@@ -70,3 +70,4 @@ title: Prolog
 - [Simply Logical - Intelligent Reasoning by Example](https://book.simply-logical.space/src/simply-logical.html) ([Code](https://github.com/simply-logical/simply-logical))
 - [Trealla Go](https://github.com/trealla-prolog/go) - Trealla Prolog embedded in Go using WASM. ([HN](https://news.ycombinator.com/item?id=32376984))
 - [SWI-Prolog ported to WebAssembly](https://github.com/SWI-Prolog/swipl-wasm)
+- [PicoProlog](https://spivey.oriel.ox.ac.uk/corner/PicoProlog)

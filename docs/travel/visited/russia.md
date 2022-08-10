@@ -596,3 +596,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [A typical Russian custom you're proud of?](https://www.reddit.com/r/AskARussian/comments/wg5uft/a_typical_russian_custom_youre_proud_of/)
 - [Спекулянты, «Березки» и запрет музыкантов. Как Путин вернул себе свои 80-е (2022)](https://theins.ru/news/253797)
 - [Баунов – что происходит с Россией / вДудь (2022)](https://www.youtube.com/watch?v=rY_XyEVHK5M)
+- [Владимир Путин и ренацификация Германии](https://zona.media/article/2022/08/08/dresden) ([Tweet](https://twitter.com/sssmirnov/status/1556697308099665920))

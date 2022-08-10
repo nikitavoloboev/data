@@ -495,3 +495,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [How different app frameworks render views on iOS (2022)](https://twitter.com/Baconbrix/status/1550501126117773313)
 - [What are your most-used iPhone shortcuts? (2022)](https://www.reddit.com/r/apple/comments/w7tyw7/what_are_your_mostused_iphone_shortcuts/)
 - [Full-Stack Swift: Building an iOS App with a Vapor Backend (2022)](https://kaitlin.dev/2022/03/23/full-stack-swift.html)
+- [libiosexec](https://github.com/ProcursusTeam/libiosexec) - Shim library that both works to allow shell scripts to execute correctly on iOS, and provides a framework for true rootless support.

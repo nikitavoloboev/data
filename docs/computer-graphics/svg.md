@@ -162,3 +162,4 @@
 - [picosvg](https://github.com/googlefonts/picosvg) - Helps simplify SVG files. Intended for use as part of a font build.
 - [svg-hush](https://github.com/cloudflare/svg-hush) - Make arbitrary SVG files as benign and safe to serve as images in other common Web file formats.
 - [Visualizing SVG viewbox](https://twitter.com/DanHollick/status/1552315316629254144)
+- [DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) - JavaScript library for creating SVG flow diagrams.

@@ -99,3 +99,4 @@ title: TCP
 - [Introduction to TCP and Sockets (2001)](https://www.scottklement.com/rpg/socktut/introduction.html) ([HN](https://news.ycombinator.com/item?id=32160339))
 - [When the window is not fully open, your TCP stack is doing more than you think (2022)](https://blog.cloudflare.com/when-the-window-is-not-fully-open-your-tcp-stack-is-doing-more-than-you-think/) ([Lobsters](https://lobste.rs/s/ep23m0/when_window_is_not_fully_open_your_tcp))
 - [speedbump](https://github.com/kffl/speedbump) - TCP proxy for simulating variable network latency. ([HN](https://news.ycombinator.com/item?id=32292973))
+- [TCP over HTTP](https://github.com/julianbuettner/tcp-over-http) - TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy.

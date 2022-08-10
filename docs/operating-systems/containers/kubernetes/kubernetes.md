@@ -791,3 +791,4 @@ title: Kubernetes
 - [Meta configuration for Kubernetes GitHub Org](https://github.com/kubernetes/org)
 - [What a Kubernetes pod truly is (2022)](https://www.reddit.com/r/kubernetes/comments/wikc3e/can_someone_explain_what_a_pod_truly_is_beyond/)
 - [BadRobot](https://github.com/controlplaneio/badrobot) - Operator Security Audit Tool.
+- [Falling for Kubernetes (2022)](https://freeman.vc/notes/falling-for-kubernetes) ([HN](https://news.ycombinator.com/item?id=32403746))

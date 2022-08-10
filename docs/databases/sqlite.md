@@ -236,3 +236,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [Sqinn](https://github.com/cvilsmeier/sqinn) - SQLite over stdin/stdout.
 - [libgsqlite](https://github.com/0x6b/libgsqlite) - SQLite extension which loads a Google Sheet as a virtual table.
 - [SQLite store for node cache manager](https://github.com/maxpert/node-cache-manager-sqlite)
+- [How SQLite Helps You Do ACID (2022)](https://fly.io/blog/sqlite-internals-rollback-journal/) ([HN](https://news.ycombinator.com/item?id=32412905))
