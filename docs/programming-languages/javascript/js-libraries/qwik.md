@@ -23,3 +23,4 @@ title: Qwik
 - [Qwik Workshop Part 1 - Live Coding / Misko Hevery (2022)](https://www.youtube.com/watch?v=GHbNaDSWUX8)
 - [Why Build A New Framework? w/ Ryan Carniato (2022)](https://www.youtube.com/watch?v=NS0thFGqu0E)
 - [tRPC Qwik City](https://github.com/gioboa/trpc-qwik-city)
+- [Pure HTML streaming with Qwik (2022)](https://www.youtube.com/watch?v=yVOI81GKZBo)

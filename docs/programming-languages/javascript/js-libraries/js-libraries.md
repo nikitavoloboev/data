@@ -1002,6 +1002,7 @@
 - [evemin](https://github.com/re-js/evemin) - Modern and blazing fast event emitter.
 - [Buffer for Array](https://github.com/holepunchto/b4a) - Bridging the gap between buffers and typed arrays.
 - [joycon](https://github.com/egoist/joycon) - Find and load config files with joy.
+- [SAT.js](https://github.com/jriecken/sat-js) - Simple JavaScript library for performing 2D collision detection.
 
 ## Links
 

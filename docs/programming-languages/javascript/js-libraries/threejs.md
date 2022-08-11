@@ -129,3 +129,6 @@ title: Three.js
 - [react-three-csg](https://github.com/pmndrs/react-three-csg) - Constructive solid geometry for React.
 - [The Study of Shaders with React Three Fiber (2022)](https://blog.maximeheckel.com/posts/the-study-of-shaders-with-react-three-fiber/)
 - [Shader Composer](https://github.com/hmans/shader-composer) - Write Three.js shaders, but with JavaScript.
+- [Physical Ray marching in ThreeJS](https://github.com/nemutas/physical-raymarchig)
+- [Ghost Veil](https://nemutas.github.io/ghost-veil/) - Effect of 'ThreJS plane' overlaid on 'DOM image'. ([Code](https://github.com/nemutas/ghost-veil))
+- [Vanilla ThreeJS Template](https://github.com/nemutas/vanilla-three-template)

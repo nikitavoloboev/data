@@ -272,3 +272,4 @@
 - [sexpc](https://idiomdrottning.org/sexpc) - C as S-expressions. ([Lobsters](https://lobste.rs/s/mfdofb/sexpc_c_as_s_expressions))
 - [The case against an alternative to C (2022)](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative) ([Lobsters](https://news.ycombinator.com/item?id=32392161))
 - [The quick and practical "MSI" hash table (2022)](https://nullprogram.com/blog/2022/08/08/)
+- [Advanced Metaprogramming in C: A select statement (2022)](https://250bpm.com/blog:56/index.html) ([HN](https://news.ycombinator.com/item?id=32427137))
