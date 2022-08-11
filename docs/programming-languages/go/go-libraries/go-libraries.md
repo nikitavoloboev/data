@@ -1780,6 +1780,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [JSON-RPC 2.0](https://github.com/neonxp/jsonrpc2) - Go implementation of JSON-RPC 2.0 server with generics.
 - [Frugal](https://github.com/cloudwego/frugal) - Very fast dynamic Thrift serializer & deserializer.
 - [smapping](https://github.com/mashingan/smapping) - Go struct generic mapping.
+- [Faker](https://github.com/jaswdr/faker) - Ultimate fake data generator for Go with zero dependencies.
+- [hotkey](https://github.com/golang-design/hotkey) - Cross-platform hotkey package.
 
 ## Links
 

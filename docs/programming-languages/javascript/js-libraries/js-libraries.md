@@ -1001,6 +1001,7 @@
 - [xdg-app-paths](https://github.com/rivy/js.xdg-app-paths) - Determine (XDG-compatible) paths for storing application files (cache, config, data, etc).
 - [evemin](https://github.com/re-js/evemin) - Modern and blazing fast event emitter.
 - [Buffer for Array](https://github.com/holepunchto/b4a) - Bridging the gap between buffers and typed arrays.
+- [joycon](https://github.com/egoist/joycon) - Find and load config files with joy.
 
 ## Links
 

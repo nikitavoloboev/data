@@ -1224,6 +1224,7 @@
 - [SwiftyContacts](https://github.com/SwiftyContacts/SwiftyContacts) - Swift library for Contacts framework.
 - [TextureSwiftSupport](https://github.com/FluidGroup/TextureSwiftSupport) - Library that gains Texture(AsyncDisplayKit) more power in Swift.
 - [Binary Codable](https://github.com/christophhagen/BinaryCodable) - Binary encoder for Swift Codable types.
+- [OpenAI](https://github.com/mattt/OpenAI) - Swift client for the OpenAI API.
 
 ## Other (not lib)
 

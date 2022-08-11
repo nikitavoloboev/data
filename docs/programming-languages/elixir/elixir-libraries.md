@@ -109,6 +109,7 @@
 - [BridgeEx](https://github.com/primait/bridge_ex) - Library to build bridges to GraphQL services.
 - [AbsintheCache](https://github.com/IvanIvanoff/absinthe_cache) - Caching Absinthe GraphQL queries.
 - [CommonGraphqlClient](https://github.com/annkissam/common_graphql_client) - Elixir GraphQL Client with HTTP and WebSocket Support.
+- [GQL](https://github.com/balexand/gql) - Simple GraphQL client for Elixir.
 
 ## Other
 

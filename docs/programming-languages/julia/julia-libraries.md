@@ -714,6 +714,7 @@
 - [Jot.jl](https://github.com/harris-chris/Jot.jl) - Streamlines the creation and management of AWS Lambda functions written in Julia.
 - [RegistryCI.jl](https://github.com/JuliaRegistries/RegistryCI.jl) - Continuous integration (CI) tools for Julia package registries, including registry consistency testing, automatic merging (automerge) of pull requests, and automatic TagBot triggers.
 - [FilePathsBase.jl](https://github.com/rofinn/FilePathsBase.jl) - Type based approach to working with filesystem paths in julia.
+- [CachePath](https://github.com/jlapeyre/CachePath.jl) - Allow caching precompiled Julia code in a specified directory.
 
 ## Links
 

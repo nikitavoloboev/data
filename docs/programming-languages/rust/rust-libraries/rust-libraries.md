@@ -2104,6 +2104,7 @@
 - [name-it](https://github.com/GoldsteinE/name-it) - Name return types of async fn on stable Rust.
 - [cismute](https://github.com/GoldsteinE/cismute) - Safely transmute type to itself in generic context in Rust.
 - [vec1](https://github.com/rustonaut/vec1) - Rust `Vec<T>` wrapper that gurantees to contain at least 1 element.
+- [StackFuture](https://github.com/microsoft/stackfuture) - Wrapper around Rust futures that stores the future in space provided by the caller.
 
 ## Cargo Plugins
 

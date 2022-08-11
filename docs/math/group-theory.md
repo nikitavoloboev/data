@@ -19,3 +19,4 @@ title: Group theory
 - [Group Theory Game using Lean](https://github.com/ImperialCollegeLondon/group-theory-game)
 - [Lecture notes on Introduction to Galois Theory by Ekaterina Amerik](https://github.com/ivanmurashko/courseragalois/blob/master/galois.pdf)
 - [Morse Theory for Complexes of Groups (2022)](https://arxiv.org/abs/2203.00539)
+- [Group Theory — Introduction to Higher Mathematics (2022)](https://www.youtube.com/watch?v=KufsL2VgELo)

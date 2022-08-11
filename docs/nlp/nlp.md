@@ -639,3 +639,4 @@
 - [Run your own DALL-E-like image generator (2022)](https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/) ([HN](https://news.ycombinator.com/item?id=32384646))
 - [Stable Diffusion launch announcement (2022)](https://stability.ai/blog/stable-diffusion-announcement) ([HN](https://news.ycombinator.com/item?id=32414811))
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+- [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)

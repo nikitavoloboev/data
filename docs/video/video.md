@@ -74,7 +74,7 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing. ([HN](https://news.ycombinator.com/item?id=23006794))
 - [@cloudflare/stream-react](https://github.com/cloudflare/stream-react) - Official React component for Cloudflare Stream.
 - [VidGear](https://github.com/abhiTronix/vidgear) - High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features.
-- [Invidio](https://invidio.us/) - Alternative front-end to YouTube. ([Code](https://github.com/iv-org/invidious))
+- [Invidio](https://invidio.us/) - Alternative front-end to YouTube. ([Code](https://github.com/iv-org/invidious)) ([Instance](https://yewtu.be/feed/popular))
 - [Mux](https://mux.com/) - API-first platform, powered by data and designed by video experts to make beautiful video possible for every development team.
 - [Komposition](https://owickstrom.github.io/komposition/) - Video editor built for screencasters.
 - [Stremio](https://www.stremio.com/) - Modern media center that's a one-stop solution for your video entertainment.

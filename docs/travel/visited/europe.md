@@ -81,3 +81,4 @@ So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](unit
 - [Investing beyond VWCE (2022)](https://www.reddit.com/r/eupersonalfinance/comments/w0dlv2/beyond_vwce/)
 - [Where to retire with € 1.2 million? (2022)](https://www.reddit.com/r/EuropeFIRE/comments/w4kjkw/where_to_retire_with_12_million/)
 - [How far can you go by train in 5h?](https://chronotrains-eu.vercel.app/) ([Tweet](https://twitter.com/_benjamintd/status/1552983329116504064)) ([HN](https://news.ycombinator.com/item?id=32276017))
+- [Best countries for FIRE in EU (2022)](https://www.reddit.com/r/cscareerquestionsEU/comments/wlolr7/is_there_anything_better_for_fire_in_europe_than/)

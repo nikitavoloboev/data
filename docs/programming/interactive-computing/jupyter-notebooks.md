@@ -215,3 +215,5 @@ title: Jupyter Notebooks
 - [Fun with Motion-JPEG, Jupyter Notebook and How to Stream GUI and Animations in the Browser (2022)](https://liuliu.me/eyes/fun-with-motion-jpeg-jupyter-notebook-and-how-to-stream-gui-and-animations-in-the-browser/)
 - [nbdev](https://nbdev.fast.ai/) - Create delightful software with Jupyter Notebooks. ([HN](https://news.ycombinator.com/item?id=32271578))
 - [IJavascript](https://github.com/n-riesco/ijavascript) - JavaScript kernel for the Jupyter notebook.
+- [Jupyter Events](https://github.com/jupyter/jupyter_events) - Event system for Jupyter Applications and extensions.
+- [Jupyter Notebook Viewer](https://github.com/jupyter/nbviewer) - Render Jupyter Notebooks as static web pages.
