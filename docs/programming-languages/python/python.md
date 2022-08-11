@@ -524,3 +524,4 @@ for i, _ in enumerate(nums):
 - [Python is Actually Portable (2021)](https://ahgamut.github.io/2021/07/13/ape-python/) ([HN](https://news.ycombinator.com/item?id=32245430))
 - [Pycom](https://github.com/Omyyyy/pycom) - Python compiler, down to native code, using C++. ([HN](https://news.ycombinator.com/item?id=32270255))
 - [Crimes with Python's pattern matching (2022)](https://www.hillelwayne.com/post/python-abc/) ([HN](https://news.ycombinator.com/item?id=32314368))
+- [Finding performance problems: profiling or logging?](https://pythonspeed.com/articles/logging-vs-profiling/)

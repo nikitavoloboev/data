@@ -54,3 +54,4 @@ title: Bevy Engine
 - [Bevy Parallax](https://github.com/Corrosive-Games/bevy-parallax) - Parallax background plugin for Bevy.
 - [Bevy-template-rs](https://github.com/taurr/bevy-template-rs) - Cargo-generate template for Bevy projects.
 - [Bevy Scripting Plugin](https://github.com/makspll/bevy_mod_scripting)
+- [Bevy Config Cam](https://github.com/BlackPhlox/bevy_config_cam) - Easy plug-n-play multifunctional camera controller that allows for easy setup of a camera and player for a scene.

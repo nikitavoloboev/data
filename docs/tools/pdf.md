@@ -72,3 +72,4 @@
 - [s3-ocr: Extract text from PDF files stored in an S3 bucket (2022)](https://simonwillison.net/2022/Jun/30/s3-ocr/)
 - [Search PDFs with Transformers and Python Notebook](https://colab.research.google.com/github/jina-ai/workshops/blob/main/pdf_search/pdf_search.ipynb) ([HN](https://news.ycombinator.com/item?id=32224542))
 - [PDF-Diff](https://github.com/serhack/pdf-diff) - Tool for visualizing differences between two PDF files. ([HN](https://news.ycombinator.com/item?id=32353479))
+- [Generate an Invoice PDF using Cloudflare Workers](https://generate.invoice.workers.dev/) ([Code](https://github.com/adamschwartz/generate.invoice.workers.dev))

@@ -46,6 +46,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Evolve](https://pmotschmann.github.io/Evolve/) - Incremental game about evolving a civilization. ([Code](https://github.com/pmotschmann/Evolve))
 - [Wayfinder](https://wayfinder.nfb.ca/) - Relaxing 'art game' in the browser. ([HN](https://news.ycombinator.com/item?id=27532068))
 - [Freeciv-Web](https://www.freecivweb.org/) - Open source turn-based strategy game. ([HN](https://news.ycombinator.com/item?id=27614434))
+- [Freeciv](http://www.freeciv.org/) - Open-source Civilization clone. ([Code](https://github.com/freeciv/freeciv)) ([HN](https://news.ycombinator.com/item?id=32408163))
 - [Puzzle Panda](https://puzzlepanda.com/) - Play Jigsaw Puzzles Online. ([HN](https://news.ycombinator.com/item?id=29218401))
 - [Pokémon Showdown](https://pokemonshowdown.com/) - Pokémon battle simulator. ([Code](https://github.com/smogon/pokemon-showdown))
 - [Prince of Persia in JavaScript](https://princejs.com/) ([HN](https://news.ycombinator.com/item?id=29710538)) ([Code](https://github.com/oklemenz/PrinceJS))

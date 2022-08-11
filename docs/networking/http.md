@@ -288,3 +288,4 @@ title: HTTP
 - [kawipiko](https://github.com/volution/kawipiko) - Lightweight static HTTP server written in Go; focused on serving static content as fast and efficient as possible.
 - [Determining if an HTTP request was sent as beacon/keepalive (2022)](https://mmazzarolo.com/blog/2022-07-23-determining-if-an-http-request-was-sent-as-beacon-keepalive/)
 - [curl with HTTP/3](https://github.com/unasuke/curl-http3)
+- [Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling (2022)](https://portswigger.net/research/browser-powered-desync-attacks)

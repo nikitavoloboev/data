@@ -420,6 +420,7 @@
 - [Emergent AI](https://github.com/PsichiX/emergent) - Toolset for producing emergent gameplay for games written in Rust.
 - [Renet](https://github.com/lucaspoffo/renet) - Collection of rust crates to create Server/Client networked games.
 - [Collider](https://github.com/SergiusIW/collider-rs) - Rust library for continuous 2D collision detection, for use with game developement.
+- [Benimator](https://github.com/jcornaz/benimator) - Sprite animation library for rust game development.
 
 ## GraphQL
 
@@ -1065,7 +1066,7 @@
 - [remem](https://github.com/rylev/remem) - Utility for reusing memory.
 - [aho-corasick](https://github.com/BurntSushi/aho-corasick) - Library for finding occurrences of many patterns at once with SIMD acceleration in some cases.
 - [inline-python](https://github.com/fusion-engineering/inline-python) - Inline Python code directly in your Rust code.
-- [socket2-rs](https://github.com/alexcrichton/socket2-rs) - Provide as direct as possible access to the system's functionality for sockets as possible.
+- [socket2](https://github.com/rust-lang/socket2) - Advanced configuration options for sockets.
 - [heapless](https://github.com/japaric/heapless) - Static friendly data structures that don't require dynamic memory allocation.
 - [Arise](https://github.com/learnmerust/arise) - Run a process "forever"; Run a process and spawn it when it dies.
 - [easy-parallel](https://github.com/stjepang/easy-parallel) - Run closures in parallel.

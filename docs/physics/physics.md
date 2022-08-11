@@ -321,3 +321,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [What is the holy grail in you field or area of research? (2022)](https://www.reddit.com/r/Physics/comments/wcttde/what_is_the_holy_grail_in_you_field_or_area_of/)
 - [Iris](https://github.com/LaurentRDC/iris-ued) - Ultrafast electron scattering data exploration.
 - [Experimental protocol for testing the mass–energy–information equivalence principle (2022)](https://aip.scitation.org/doi/10.1063/5.0087175)
+- [The strength of the strong force (2022)](https://phys.org/news/2022-08-strength-strong.html) ([HN](https://news.ycombinator.com/item?id=32409102))

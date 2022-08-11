@@ -1779,6 +1779,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Deque](https://github.com/edwingeng/deque) - Highly optimized double-ended queue.
 - [JSON-RPC 2.0](https://github.com/neonxp/jsonrpc2) - Go implementation of JSON-RPC 2.0 server with generics.
 - [Frugal](https://github.com/cloudwego/frugal) - Very fast dynamic Thrift serializer & deserializer.
+- [smapping](https://github.com/mashingan/smapping) - Go struct generic mapping.
 
 ## Links
 

@@ -57,3 +57,4 @@ Aside from those geopolitical failures, Germany seems like a nice place to live 
 - [Germany's decisions to shut down nuclear made EU vulnerable to shortages of reliable sources of electricity (2022)](https://twitter.com/DoombergT/status/1550774894618705920)
 - [Great food places in Berlin (2022)](https://www.reddit.com/r/berlin/comments/w8ebjl/people_from_other_countries_where_is_the_best/)
 - [Curated list of German Tech Podcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts)
+- [TEVR ASR Tool](https://github.com/DeutscheKI/tevr-asr-tool) - State of the art German speech recognition in 284 lines of C++. ([HN](https://news.ycombinator.com/item?id=32409966))

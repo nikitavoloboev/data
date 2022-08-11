@@ -142,3 +142,4 @@
 - [Why Ruby Is More Readable Than Python](https://confuzeus.com/posts/python-ruby-readability/) ([HN](https://news.ycombinator.com/item?id=32158800))
 - [Codeshift](https://github.com/rajasegar/codeshift) - Ruby CLI to transform source code using ASTs.
 - [Faster Ruby: Thoughts from the Outside (2022)](https://www.mgaudet.ca/technical/2022/8/9/faster-ruby-thoughts-from-the-outside)
+- [From byebug to ruby/debug (2022)](https://st0012.dev/from-byebug-to-ruby-debug)

@@ -70,3 +70,4 @@
 - [The Mandelbrot Set (2022)](https://www.sotr.blog/articles/mandelbrot)
 - [Newton's fractal](https://github.com/alordash/newton-fractal) - Drawing Newton's fractal using js, wasm, SIMD commands, threads and GPU.
 - [SwiftUI Fractals](https://github.com/Zeta611/SwiftUI-Fractals) - Sierpinski carpet, triangle, and a fractal tree using SwiftUI.
+- [3D fractal explorer](https://github.com/sjoerd-code/mandelbulb)

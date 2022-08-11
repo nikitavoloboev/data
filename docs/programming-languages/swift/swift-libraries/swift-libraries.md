@@ -16,6 +16,7 @@
 - [CLISpinner](https://github.com/kiliankoe/CLISpinner) - 60+ spinners for use in the terminal.
 - [Chalk](https://github.com/mxcl/Chalk) - Terminal colors using Swift 5’s string interpolation extensions.
 - [Motor](https://github.com/flintprocessor/Motor) - Swift cli spinner. Simple and fully customizable.
+- [SwiftTUI](https://github.com/rensbreur/SwiftTUI) - SwiftUI for terminal applications.
 
 ## Animation
 
