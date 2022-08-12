@@ -837,3 +837,5 @@ if err != nil {
 - [Shared memory and Go](https://kb.barelyhuman.dev/shared-memory-and-go)
 - [The ‘fat service’ pattern for web applications (2022)](https://www.alexedwards.net/blog/the-fat-service-pattern) ([Lobsters](https://lobste.rs/s/2k6cfq/fat_service_pattern_for_web_applications))
 - [Fixing Memory Exhaustion Bugs in My Go Web App (2022)](https://mtlynch.io/notes/picoshare-perf/)
+- [Rob Pike's simple C regex matcher in Go (2022)](https://benhoyt.com/writings/rob-pike-regex/) ([HN](https://news.ycombinator.com/item?id=32434412))
+- [Preferred resource for 'advanced' Go (2022)](https://www.reddit.com/r/golang/comments/wlw5bj/preferred_resource_for_advanced_go/?sort=top)

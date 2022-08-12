@@ -59,3 +59,4 @@ I wish there were more electric superchargers in EU.
 - [Make My Drive Fun](https://makemydrivefun.com/) - Enter in two locations to make the drive fun.
 - [Simulating an Entire Car Engine (yes, it makes noise) (2022)](https://www.youtube.com/watch?v=RKT-sKtR970) ([Code](https://github.com/ange-yaghi/engine-sim))
 - [Ask HN: Is the adoption of electric cars too fast to be sustained? (2022)](https://news.ycombinator.com/item?id=32390789)
+- [Build your own EV charging solution](https://www.chargelab.co/developer-program) ([HN](https://news.ycombinator.com/item?id=32431881))

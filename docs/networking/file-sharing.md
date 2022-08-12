@@ -119,3 +119,4 @@
 - [Dufs](https://github.com/sigoden/dufs) - File server that supports static serving, uploading, searching, accessing control, webdav.
 - [kipp](https://github.com/uhthomas/kipp) - Flexible file storage server.
 - [Nasefa](https://github.com/mprimi/nasefa) - Send and receive files using NATS.
+- [Payload](https://payload.app/) - File transfers done right.

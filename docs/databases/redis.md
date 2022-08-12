@@ -165,3 +165,4 @@ title: Redis
 - [Redis-Rope](https://github.com/ekzhang/redis-rope) - Fast native data type for manipulating large strings in Redis.
 - [Redis Replica Manager](https://github.com/zavitax/redis-replica-manager-go) - Group membership, sharding, replication and request routing manager relying on Redis for coordination.
 - [How to Reduce Latency and Minimize Outages (2022)](https://redis.com/blog/how-to-reduce-latency-and-minimize-outages/)
+- [Redis explained (2022)](https://architecturenotes.co/redis/) ([HN](https://news.ycombinator.com/item?id=32426879))

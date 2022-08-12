@@ -106,6 +106,7 @@
 - [NeoPOP](https://github.com/CRED-CLUB/neopop-web) - CRED's inbuilt library for using NeoPOP components in your web app.
 - [Baklava](https://github.com/Trendyol/baklava) - Design system provided by Trendyol to create a consistent UI/UX for app users.
 - [Cloudscape](https://cloudscape.design/) ([React Code](https://github.com/cloudscape-design/components))
+- [System.css](https://sakofchit.github.io/system.css/) - Design system for building retro Apple-inspired interfaces. ([HN](https://news.ycombinator.com/item?id=32429848))
 
 ## Notes
 

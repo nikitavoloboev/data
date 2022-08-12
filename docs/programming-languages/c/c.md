@@ -273,3 +273,4 @@
 - [The case against an alternative to C (2022)](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative) ([Lobsters](https://news.ycombinator.com/item?id=32392161))
 - [The quick and practical "MSI" hash table (2022)](https://nullprogram.com/blog/2022/08/08/)
 - [Advanced Metaprogramming in C: A select statement (2022)](https://250bpm.com/blog:56/index.html) ([HN](https://news.ycombinator.com/item?id=32427137))
+- [TruffleC: C implementation on top of JVM (2014)](https://dl.acm.org/doi/10.1145/2647508.2647528)
