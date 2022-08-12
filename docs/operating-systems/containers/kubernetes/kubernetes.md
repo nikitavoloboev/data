@@ -792,3 +792,4 @@ title: Kubernetes
 - [What a Kubernetes pod truly is (2022)](https://www.reddit.com/r/kubernetes/comments/wikc3e/can_someone_explain_what_a_pod_truly_is_beyond/)
 - [BadRobot](https://github.com/controlplaneio/badrobot) - Operator Security Audit Tool.
 - [Falling for Kubernetes (2022)](https://freeman.vc/notes/falling-for-kubernetes) ([HN](https://news.ycombinator.com/item?id=32403746))
+- [How To Handle Kubernetes Health Checks](https://doordash.engineering/2022/08/09/how-to-handle-kubernetes-health-checks/)
