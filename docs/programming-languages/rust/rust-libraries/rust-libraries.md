@@ -2105,6 +2105,7 @@
 - [cismute](https://github.com/GoldsteinE/cismute) - Safely transmute type to itself in generic context in Rust.
 - [vec1](https://github.com/rustonaut/vec1) - Rust `Vec<T>` wrapper that gurantees to contain at least 1 element.
 - [StackFuture](https://github.com/microsoft/stackfuture) - Wrapper around Rust futures that stores the future in space provided by the caller.
+- [Fcode](https://github.com/tijsvd/fcode) - Binary format for Rust / serde that supports schema evolution.
 
 ## Cargo Plugins
 
@@ -2351,3 +2352,4 @@
 - [WLambda](https://github.com/WeirdConstructor/WLambda) - Embeddable Scripting Language for Rust.
 - [fabrica](https://github.com/adoerr/fabrica) - Assorted Rust Experiments.
 - [Approaches for interleaving several stderr logging streams (2022)](https://lobste.rs/s/cekies/approaches_for_interleaving_several)
+- [rustafarian](https://github.com/norskeld/rustafarian) - Minimal template for my Rust projects.

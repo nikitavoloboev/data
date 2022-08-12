@@ -129,6 +129,7 @@
 - [Vortex](https://github.com/briangold/vortex) - Structured concurrency in Zig.
 - [any-pointer](https://github.com/MasterQ32/any-pointer) - Type erasure library for Zig.
 - [zig-deque](https://github.com/magurotuna/zig-deque) - Double-ended queue implementation in Zig.
+- [Zig-TOML](https://github.com/aeronavery/zig-toml) - TOML parser written in Zig.
 
 ## Links
 

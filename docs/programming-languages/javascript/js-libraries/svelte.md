@@ -287,3 +287,4 @@ title: Svelte
 - [Svelte Headless Table](https://github.com/bryanmylee/svelte-headless-table) - Unopinionated and extensible data tables for Svelte.
 - [svelte-keyed](https://github.com/bryanmylee/svelte-keyed) - Writable derived store for objects and arrays.
 - [Sveltekit New Design. A Breaking Change](https://github.com/sveltejs/kit/discussions/5748)
+- [Rustle](https://github.com/pintariching/rustle) - Svelte compiler rewritten in Rust.

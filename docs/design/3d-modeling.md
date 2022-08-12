@@ -95,3 +95,4 @@
 - [Structure Synth](http://structuresynth.sourceforge.net/) - Cross-platform application for generating 3D structures by specifying a design grammar.
 - [libssynth](https://github.com/jcelerier/libssynth) - Structure Synth's parser and generator as a library.
 - [Learning to Generate 3D Shapes from a Single Example](http://www.cs.columbia.edu/cg/SingleShapeGen/) ([Code](https://github.com/ChrisWu1997/SingleShapeGen))
+- [OpenSCAD WASM Port](https://github.com/DSchroer/openscad-wasm)

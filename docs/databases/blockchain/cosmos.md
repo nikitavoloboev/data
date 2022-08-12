@@ -25,3 +25,4 @@ title: Cosmos
 - [Awesome Cosmos](https://github.com/cosmos/awesome)
 - [CosmWasm IBC Example](https://github.com/ezekiiel/cw-ibc-example)
 - [Awesome CosmWasm](https://github.com/InterWasm/cw-awesome)
+- [Stargaze Launchpad CosmWasm Contracts](https://github.com/public-awesome/launchpad)

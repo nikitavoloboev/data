@@ -151,3 +151,4 @@
 - [Unit and Integration Tests (2022)](https://matklad.github.io//2022/07/04/unit-and-integration-tests.html) ([Lobsters](https://lobste.rs/s/0behmc/unit_integration_tests))
 - [Smoke](https://github.com/SamirTalwar/smoke) - Designed to test anything that can be wrapped with a command-line interface.
 - [Test against what won't change](https://blog.alexgilleran.com/test-against-what-wont-change/) ([Lobsters](https://lobste.rs/s/8p0q7g/test_against_what_won_t_change))
+- [Property-Based Testing Against a Model of a Web Application (2022)](https://concerningquality.com/model-based-testing/)

@@ -24,3 +24,4 @@ title: Qwik
 - [Why Build A New Framework? w/ Ryan Carniato (2022)](https://www.youtube.com/watch?v=NS0thFGqu0E)
 - [tRPC Qwik City](https://github.com/gioboa/trpc-qwik-city)
 - [Pure HTML streaming with Qwik (2022)](https://www.youtube.com/watch?v=yVOI81GKZBo)
+- [The Future of Web Routing (2022)](https://www.youtube.com/watch?v=3t7wqGQKbK4)

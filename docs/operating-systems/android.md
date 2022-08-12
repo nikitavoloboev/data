@@ -22,6 +22,7 @@ title: Android
 - [CloudStream-3](https://github.com/LagradOst/CloudStream-3) - Android app for streaming and downloading Movies, TV-Series and Anime.
 - [HTTP Shortcuts for Android](https://github.com/Waboodoo/HTTP-Shortcuts) - Android app to create home screen shortcuts that trigger arbitrary HTTP requests.
 - [TikTok Clone](https://github.com/Andre-max/TikTok-Clone) - Beautifully designed replica of the famous and trending TikTok app.
+- [WhatsApp clone app built with Jetpack Compose](https://github.com/GetStream/whatsApp-clone-compose) - And Stream Chat SDK for Compose.
 
 ## Links
 

@@ -62,6 +62,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [18xx.Games](https://18xx.games/) - Platform for playing 18xx games online. ([Code](https://github.com/tobymao/18xx))
 - [Battle of Flags](https://www.battle-of-flags.com/) - Browser-based RTS game. ([HN](https://news.ycombinator.com/item?id=31296227))
 - [Figure](https://figure.game/) - Daily logic puzzle game. ([HN](https://news.ycombinator.com/item?id=32376154))
+- [HaxBall](https://www.haxball.com/) - Physics-based multiplayer soccer game where teamwork is key.
 
 ## Awesome OSS games
 
@@ -339,3 +340,4 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Nostalgia Time: MMO's You Whole Heartedly miss (2022)](https://www.reddit.com/r/MMORPG/comments/vifhq1/nostalgia_time_mmos_you_whole_heartedly_miss/)
 - [Skyscraper](https://github.com/muldjord/skyscraper) - Powerful and versatile yet easy to use game scraper written in C++.
 - [Tilted Online](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim and Fallout 4 mod to play online.
+- [Are great games being ignored? An investigation (2022)](https://www.youtube.com/watch?v=g4lhQp245dw)

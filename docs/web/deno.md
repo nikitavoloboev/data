@@ -291,3 +291,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Fresh Session](https://github.com/xstevenyung/fresh-session) - Dead simple cookie-based session for Deno Fresh.
 - [Deno Zip](https://github.com/moncefplastin07/deno-zip) - Streaming cross-platform zip tool written for Deno.
 - [DenoGres](https://github.com/oslabs-beta/DenoGres) - Comprehensive ORM for PostgreSQL and Deno.
+- [Fresh SEO](https://github.com/xstevenyung/fresh-seo) - Fastest way to create sitemap in your Deno Fresh project.

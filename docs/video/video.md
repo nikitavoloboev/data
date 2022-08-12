@@ -392,3 +392,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Video Stabilization with FFmpeg and VidStab (2021)](https://www.paulirish.com/2021/video-stabilization-with-ffmpeg-and-vidstab/) ([HN](https://news.ycombinator.com/item?id=32402542))
 - [Advanced Search for YouTube](https://playlists.at/youtube/search/)
 - [Ask HN: What are some of your favorite YouTube channels? (2022)](https://news.ycombinator.com/item?id=32378309)
+- [canvas2video](https://github.com/pankod/canvas2video) - Backend solution for creating and rendering dynamic videos.

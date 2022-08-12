@@ -525,3 +525,4 @@ for i, _ in enumerate(nums):
 - [Pycom](https://github.com/Omyyyy/pycom) - Python compiler, down to native code, using C++. ([HN](https://news.ycombinator.com/item?id=32270255))
 - [Crimes with Python's pattern matching (2022)](https://www.hillelwayne.com/post/python-abc/) ([HN](https://news.ycombinator.com/item?id=32314368))
 - [Finding performance problems: profiling or logging?](https://pythonspeed.com/articles/logging-vs-profiling/)
+- [Erg](https://github.com/erg-lang/erg) - Python compatible statically typed language.

@@ -657,3 +657,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [ethp2p](https://github.com/Rjected/ethp2p) - P2P types for ethereum.
 - [Rainbow Swaps](https://github.com/rainbow-me/swaps)
 - [Heimdall](https://github.com/Jon-Becker/heimdall-rs) - Advanced EVM toolkit which aims to make dealing with smart contracts on EVM based chains easier.
+- [Grappa](https://github.com/antoncoding/grappa) - Gas efficient & capital efficient margin system for options.

@@ -116,3 +116,4 @@
 - [0x](https://github.com/mcy/0x) - Like xxd but colorful.
 - [angr](https://github.com/angr/angr) - Platform-agnostic binary analysis framework. ([Web](https://angr.io/))
 - [heh](https://github.com/ndd7xv/heh) - Cross-platform terminal UI used for modifying file data in hex or ASCII.
+- [OFRAK](https://github.com/redballoonsecurity/ofrak) - Unpack, modify, and repack binaries.

@@ -594,6 +594,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TypeScript Tuple](https://github.com/ksxnodemodules/typescript-tuple) - Generics to work with tuples in TypeScript.
 - [npx-import](https://github.com/geelen/npx-import) - Runtime dependencies, installed as if by magic.
 - [client-zip](https://github.com/Touffy/client-zip) - Concatenates multiple files (e.g. from multiple HTTP requests) into a single ZIP, in the browser.
+- [Async-Mutex](https://github.com/DirtyHairy/async-mutex) - Mutex for synchronizing async workflows in JavaScript.
 
 ## Links
 

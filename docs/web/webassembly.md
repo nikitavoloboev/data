@@ -8,6 +8,8 @@ title: WebAssembly
 
 [This guide how to create minimal WASM module](https://news.ycombinator.com/item?id=30991235) is nice. Looking into trying out [AssemblyScript](https://github.com/AssemblyScript/assemblyscript).
 
+[Enarx](https://enarx.dev/) is neat way to run WASM safely.
+
 ## Links
 
 - [WebAssemblyLanguages](https://github.com/AppCypher/WebAssemblyLanguages)

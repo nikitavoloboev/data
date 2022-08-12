@@ -130,3 +130,4 @@ title: Minecraft
 - [Graphite](https://github.com/Moulberry/Graphite) - High-performance Minecraft server.
 - [Fabric Wiki](https://fabricmc.net/wiki/start) - Fabric is a modular modding toolchain.
 - [Fabric Example Mod](https://github.com/Moulberry/BuilderMod)
+- [NetBSD can also run a Minecraft server (2022)](https://rubenerd.com/netbsd-can-also-run-a-minecraft-server/)

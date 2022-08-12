@@ -577,3 +577,4 @@ title: Linux
 - [Embedded Linux Using Nix/NixOS on the VisionFive RISC-V SBC (2022)](https://www.youtube.com/watch?v=cmjK8SLIx9E)
 - [CVE-2022-29582: An io_uring vulnerability (2022)](https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/)
 - [Fully dockerized Linux kernel debugging environment](https://github.com/0xricksanchez/like-dbg) ([HN](https://news.ycombinator.com/item?id=32423813))
+- [ply](https://github.com/iovisor/ply) - Dynamic Tracing in Linux.

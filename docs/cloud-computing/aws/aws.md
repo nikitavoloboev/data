@@ -376,3 +376,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [Cfplot](https://github.com/jaredtrog/cfplot) - Generate waterfall graphs of CloudFormation. ([HN](https://news.ycombinator.com/item?id=32280162))
 - [S3 Datastore Implementation](https://github.com/ipfs/go-ds-s3)
 - [Matano](https://github.com/matanolabs/matano) - Open-source serverless security lake powered by Rust + Apache Iceberg.
+- [Serverless Snippets Collection](https://serverlessland.com/snippets) ([Code](https://github.com/aws-samples/serverless-snippets))

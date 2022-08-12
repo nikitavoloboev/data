@@ -375,6 +375,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 - [Goth](https://github.com/markbates/goth) - Multi-Provider Authentication for Go. Simple, clean, and idiomatic way to write authentication packages for Go web applications.
 - [go-srp](https://github.com/opencoff/go-srp) - SRP-6a implementation in Go.
+- [verifier](https://github.com/XanderCheung/verifier) - Go JWT token verifier with storage.
 
 ## DB
 
