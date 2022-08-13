@@ -256,3 +256,4 @@
 - [OpenFGA](https://github.com/openfga/openfga) - High performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.
 - [Kala Go](https://github.com/DeluxeOwl/kala-go) - Authorization framework written in Go based on Google's Zanzibar.
 - [lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation.
+- [auth](https://github.com/arianvp/auth) - Highly modern, secure and minimal identity management platform.
