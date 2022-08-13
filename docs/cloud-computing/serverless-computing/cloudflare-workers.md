@@ -191,3 +191,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Workers Honeycomb Logger](https://github.com/cloudflare/workers-honeycomb-logger) - Easily export runtime information from your Cloudflare Workers into Honeycomb.
 - [Thoughts on Cloudflare D1: A new era (2022)](https://jacobhands.com/posts/d1/)
 - [Cloudflare Workers Templates in StackBlitz](https://stackblitz.com/@eidam/collections/cloudflare-workers)
+- [WASM on CloudFlare Workers](https://github.com/wg/cf-worker-wasm)

@@ -39,3 +39,5 @@ title: Fish Shell
 - [Fish Shell Gitter](https://gitter.im/fish-shell/fish-shell#)
 - [babelfish](https://github.com/bouk/babelfish) - Translate bash scripts to fish.
 - [FishFeeder](https://github.com/itohio/FishFeeder) - Automatic fish feeder using ESP32 M5StickC written in Go and flashed using TinyGo.
+- [fish-abbreviation-tips](https://github.com/gazorby/fish-abbreviation-tips) - Help you remembering your abbreviations.
+- [fifc](https://github.com/gazorby/fifc) - Configurable fzf completions for fish shell.

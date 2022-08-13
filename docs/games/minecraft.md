@@ -131,3 +131,4 @@ title: Minecraft
 - [Fabric Wiki](https://fabricmc.net/wiki/start) - Fabric is a modular modding toolchain.
 - [Fabric Example Mod](https://github.com/Moulberry/BuilderMod)
 - [NetBSD can also run a Minecraft server (2022)](https://rubenerd.com/netbsd-can-also-run-a-minecraft-server/)
+- [Hosting a Minecraft server without extra hardware (2022)](https://siraben.dev/2022/08/01/tailscale-iptables.html)
