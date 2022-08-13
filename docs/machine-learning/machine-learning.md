@@ -899,3 +899,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Robust Robotic Control from Pixels using Contrastive Recurrent State-Space Models (2021)](https://arxiv.org/abs/2112.01163) ([Code](https://github.com/apple/ml-core))
 - [First Italian School on Geometric Deep Learning (2022)](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ)
 - [DeepTIMe: Deep Time-Index Meta-Learning for Non-Stationary Time-Series Forecasting (2022)](https://arxiv.org/abs/2207.06046) ([Code](https://github.com/salesforce/DeepTIMe))
+- [Stable Diffusion Akashic Records](https://github.com/Maks-s/sd-akashic) - Compendium of informations regarding Stable Diffusion (SD).

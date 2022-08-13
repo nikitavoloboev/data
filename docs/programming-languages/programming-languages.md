@@ -405,3 +405,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Scopes](https://sr.ht/~duangle/scopes/) - Retargetable programming language & infrastructure. ([Lobsters](https://sr.ht/~duangle/scopes/))
 - [ASTGrep](https://github.com/HerringtonDarkholme/ast-grep) - Fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust.
 - [Awesome Actor Model](https://github.com/GetTech-io/awesome-actor)
+- [Roc](https://github.com/roc-lang/roc) - Language for making delightful software.

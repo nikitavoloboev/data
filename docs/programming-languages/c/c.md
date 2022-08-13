@@ -275,3 +275,4 @@
 - [Advanced Metaprogramming in C: A select statement (2022)](https://250bpm.com/blog:56/index.html) ([HN](https://news.ycombinator.com/item?id=32427137))
 - [TruffleC: C implementation on top of JVM (2014)](https://dl.acm.org/doi/10.1145/2647508.2647528)
 - [Why should I have written ZeroMQ in C, not C++ (2012)](https://250bpm.com/blog:4/) ([HN](https://news.ycombinator.com/item?id=32445394))
+- [Fexl](https://github.com/chkoreff/Fexl) - Function EXpression Language.

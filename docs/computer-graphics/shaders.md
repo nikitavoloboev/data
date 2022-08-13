@@ -94,3 +94,4 @@ title: Shaders
 - [GLSL Shaders](https://github.com/libretro/glsl-shaders)
 - [GLSL Shaders from Scratch](https://simondev.teachable.com/p/glsl-shaders-from-scratch)
 - [Nemutas ｜ Works](https://portfolio3-black.vercel.app/works)
+- [GLSLCanvas4AE](https://github.com/baku89/glslCanvas4AE) - After Effects Plug-in to write GLSL with a format of glslCanvas.

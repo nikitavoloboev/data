@@ -195,3 +195,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [DebugBear](https://www.debugbear.com/) - Monitor Site Speed and Core Web Vitals. ([Docs](https://www.debugbear.com/docs))
 - [Poor man's cache (2022)](https://kyoto.codes/2022/07/14/poor-man-cache.html)
 - [Web Performance / Twitter List](https://twitter.com/i/lists/1525574365080784896) ([Tweet](https://twitter.com/slightlylate/status/1553485460088926209))
+- [Web Framework Benchmarks](https://github.com/BuilderIO/framework-benchmarks)

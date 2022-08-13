@@ -476,6 +476,7 @@ Below is a list of extensions I use.
 ## Go
 
 - [gotest-snippets](https://marketplace.visualstudio.com/items?itemName=Gauntface.gotest-snippets) - Snippets to make writing tests for Go a little easier. ([Code](https://github.com/gauntface/gotest-snippets))
+- [Go Template Support](https://marketplace.visualstudio.com/items?itemName=jinliming2.vscode-go-template) - Syntax highlight support for Go text/template and html/template. ([Code](https://github.com/jinliming2/vscode-go-template))
 
 ## PureScript
 

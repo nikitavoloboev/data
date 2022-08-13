@@ -78,3 +78,4 @@ title: Protocol buffers
 - [ProtoScript](https://github.com/tatethurston/ProtoScript) - Protobuf runtime and code generation tool for JavaScript and TypeScript.
 - [as-proto](https://github.com/piotr-oles/as-proto) - Protobuf implementation in AssemblyScript.
 - [Protobuf-ES](https://github.com/bufbuild/protobuf-es) - Complete implementation of Protocol Buffers in TypeScript, suitable for web browsers and Node.js.
+- [Protoscope](https://github.com/protocolbuffers/protoscope) - Simple, human-editable language for representing and emitting the Protobuf wire format.
