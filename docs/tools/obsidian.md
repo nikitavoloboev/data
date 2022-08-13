@@ -183,6 +183,7 @@ div.CodeMirror-cursor,
 - [Obsidian Note Sharing](https://github.com/mcndt/obsidian-note-sharing) - Securely share your Obsidian notes with one click.
 - [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane.
 - [Obsidian Footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun.
+- [Obsidian Outliner](https://github.com/vslinko/obsidian-outliner) - Work with your lists like in Workflowy or RoamResearch.
 
 ## Themes
 
