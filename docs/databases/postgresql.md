@@ -558,3 +558,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Speculare PGCDC](https://github.com/speculare-cloud/speculare-pgcdc) - Allows you to listen to changes in your PostgreSQL database via logical replication and then broadcast those changes over websockets.
 - [Validating PostgreSQL results and inferring query static types (2022)](https://contra.com/p/gkOQlbLq-validating-postgre-sql-results-and-inferring-query-static-types)
 - [Postgres Performance Monitoring: Best Practices and Tools to Use (2022)](https://hydras.io/blog/2022-08-08-postgres-performance-monitoring-best-practices-and-tools)
+- [Improving Postgres text search speed](https://www.charityapi.org/post/improving-postgres-text-search-speed-7x-on-millions-of-records) ([HN](https://news.ycombinator.com/item?id=32445780))

@@ -98,3 +98,4 @@ title: Chemistry
 - [ChemPlot](https://github.com/mcsorkun/ChemPlot) - Python package for chemical space visualization.
 - [chem_interp](https://github.com/jjgoings/chem_interp) - Use interpretable machine learning to explain complicated chemical reactions.
 - [Faked Crystallography (2022)](https://www.science.org/content/blog-post/faked-crystallography) ([HN](https://news.ycombinator.com/item?id=32280756))
+- [Scientific Computing for Chemists with Python](https://github.com/weisscharlesj/SciCompforChemists)

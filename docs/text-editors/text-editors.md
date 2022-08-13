@@ -229,3 +229,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [My Experience Building an Editor in Rust](https://jimmyhmiller.github.io/editor-experience) ([Lobsters](https://lobste.rs/s/fnoqn4/my_experience_building_editor_rust))
 - [WalkThru](https://walkthru.netlify.app/walkthru-intro) - Better way of explaining code on the web. ([Code](https://github.com/walkthru/walkthru))
 - [Ask HN: More “experimental” UIs for editing/writing code? (2022)](https://news.ycombinator.com/item?id=32372351)
+- [John Carmack: Best Programming Setup and IDE (2022)](https://www.youtube.com/watch?v=tzr7hRXcwkw) ([HN](https://news.ycombinator.com/item?id=32447569))

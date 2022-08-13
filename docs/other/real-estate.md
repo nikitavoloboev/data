@@ -27,3 +27,4 @@
 - [When Private Equity Becomes Your Landlord (2022)](https://www.propublica.org/article/when-private-equity-becomes-your-landlord)
 - [How is there a housing shortage while housing prices increase? Is this a zoning issue and not an economic issue? (2022)](https://www.reddit.com/r/AskEconomics/comments/syhl1t/how_is_there_a_housing_shortage_while_housing/)
 - [Issues with supply of housing and the demand for housing (2022)](https://www.reddit.com/r/Economics/comments/tgb049/homes_earned_more_for_owners_than_their_jobs_last/)
+- [Ask HN: Anyone else feels the commoditization of real estate is unethical? (2022)](https://news.ycombinator.com/item?id=32448825)

@@ -125,3 +125,4 @@
 - [Beast](https://github.com/GauravDawra/Beast) - Build system built for speed and power. ([HN](https://news.ycombinator.com/item?id=31957976))
 - [Vercel Build Output API: Infrastructure-as-Filesystem (2022)](https://vercel.com/blog/build-output-api) ([HN](https://news.ycombinator.com/item?id=32192498))
 - [Speeding up PostHog builds with Depot (2022)](https://posthog.com/blog/speeding-up-posthog-builds-with-depot)
+- [The Unreasonable Effectiveness of Makefiles (2022)](https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles) ([HN](https://news.ycombinator.com/item?id=32438616))

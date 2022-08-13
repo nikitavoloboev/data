@@ -659,4 +659,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [KVN-Studio](http://kvn-studio.com/) - Cемейная студия керамики и мебели.
 - [Top 100 defense companies in the world](https://people.defensenews.com/top-100/)
 - [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) - Collection of familiar, friendly, and modern emoji from Microsoft.
-- [JiraCLI](https://github.com/ankitpokhrel/jira-cli) - Feature-rich interactive Jira command line.
+- [JiraCLI](https://github.com/ankitpokhrel/jira-cli) - Feature-rich interactive Jira command line. ([HN](https://news.ycombinator.com/item?id=32435259))

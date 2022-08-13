@@ -389,3 +389,4 @@
 - [Mathematical Tours of Data Sciences](https://mathematical-tours.github.io/) ([Code](https://github.com/mathematical-tours/mathematical-tours.github.io))
 - [Combinatorics lecture notes](https://math.mit.edu/~fox/MAT307.html)
 - [Spaced Repetition for Mathematics (2021)](https://cronokirby.com/posts/2021/02/spaced-repetition-for-mathematics/) ([HN](https://news.ycombinator.com/item?id=32390730))
+- [How to Get a PhD in Mathematics in a Timely Fashion](https://sites.math.washington.edu/~billey/advice/timely.fashion.pdf) ([HN](https://news.ycombinator.com/item?id=32446693))

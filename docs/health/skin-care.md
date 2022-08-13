@@ -47,3 +47,4 @@ I try and never touch my face with dirty hands together with minimizing frowning
 - [Hyram - YouTube](https://www.youtube.com/c/Hyram/videos) - Passionate about teaching you about skin care.
 - [Let's Talk Vitamin C & Its Benefits (2021)](https://www.youtube.com/watch?v=2SvyLprrdYw)
 - [Ask HN: Are You Wearing Sunscreen? (2022)](https://news.ycombinator.com/item?id=32378059)
+- [Sun screen is important](https://www.reddit.com/r/SkincareAddiction/comments/wmkq4l/will_sunscreen_really_make_much_of_a_difference/)

@@ -86,3 +86,4 @@
 - [Photography and Ikigai (2022)](https://www.lkazphoto.com/blog/photography-and-ikigai) ([HN](https://news.ycombinator.com/item?id=31579522))
 - [UX based designs of Japan that makes life easier](https://twitter.com/richardker/status/1535570110114541569)
 - [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) - Rust implementation of Sudachi, a Japanese morphological analyzer.
+- [Walking Tokyo for Seven Days](https://craigmod.com/ridgeline/146/) ([HN](https://news.ycombinator.com/item?id=32420980))

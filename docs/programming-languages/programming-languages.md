@@ -406,3 +406,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [ASTGrep](https://github.com/HerringtonDarkholme/ast-grep) - Fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust.
 - [Awesome Actor Model](https://github.com/GetTech-io/awesome-actor)
 - [Roc](https://github.com/roc-lang/roc) - Language for making delightful software.
+- [KavaScript](https://github.com/maximecb/kavascript) - Minimalistic dynamically-typed programming language for didactic purposes.

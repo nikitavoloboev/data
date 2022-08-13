@@ -8,6 +8,10 @@ I hope Russia stops [unlawfully occupying and harassing Ukraine](https://twitter
 
 On bright side, it does appear that Russia [fully lost out on its objectives in this war](https://www.reddit.com/r/CredibleDefense/comments/vpq9ab/credibledefense_daily_megathread_july_02_2022/iem8scz/?utm_source=reddit&utm_medium=web2x&context=3) which hopefully deters further offensive actions against other peaceful countries like Taiwan. It's still bizarre to me how ineffective dictatorships are still so common. I am trying my best to try and give everyone the tools to get the financial ability to leave these oppressive countries and contribute their skills meaningfully in places that actually respect them as human beings with rights. For all its warts, [EU](europe.md) to me appears to be this place.
 
+## Notes
+
+- [There was no conflict until Russia started formenting it. Russia’s goal was to break Ukrainian sovereignty by using Donbass as a Trojan horse to prevent any pivot towards the West. But in doing so, they basically destroyed the political power of the pro-Russian faction in Ukraine. Ukraine was basically run by guys from Dnipro and Donetsk, without that second leg, they really don’t have the influence or votes anymore. Putin’s freak out over Maidan basically lost him any chance of influence in Ukraine. The invasion essentially solidified Ukraine as an anti-Russian state for the next few generations.](https://www.reddit.com/r/CredibleDefense/comments/wmjila/comment/ijzgd2b/?utm_source=reddit&utm_medium=web2x&context=3)
+
 ## Links
 
 - [Kasta](https://kasta.ua/) - Online Ukraine shop.

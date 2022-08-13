@@ -181,3 +181,4 @@
 - [Streamlit Component Templates](https://github.com/streamlit/component-template) - Templates and example code for creating Streamlit Components.
 - [Streamlit Plotly Events](https://github.com/null-jones/streamlit-plotly-events) - Streamlit component that allows Plotly events to bubble back up to streamlit. Makes Plotly charts interactive.
 - [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2)
+- [Textnets](https://github.com/jboynyc/textnets) - Text analysis with networks.

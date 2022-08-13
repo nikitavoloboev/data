@@ -163,3 +163,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Aerobotics](https://www.aerobotics.com/) - Optimize and protect your yields, season after season.
 - [Absurd AI-Generated Professional Food Photography with DALL-E 2 (2022)](https://minimaxir.com/2022/07/food-photography-ai/)
 - [Solein](https://www.solein.com/) - Protein out of thin air. ([HN](https://news.ycombinator.com/item?id=32345051))
+- [Agriculture at the End of the World (2022)](https://www.youtube.com/watch?v=Wi_nFz1CJSI)

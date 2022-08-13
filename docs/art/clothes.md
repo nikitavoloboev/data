@@ -70,3 +70,6 @@ Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/
 - [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker) ([HN](https://news.ycombinator.com/item?id=31957210))
 - [LABFRESH](https://labfresh.eu/) - Life-proof menswear. No stains. No odour. No wrinkles.
 - [What are you supposed to do with old clothes? (2022)](https://www.theatlantic.com/technology/archive/2022/08/what-to-do-with-old-clothing-donation-waste/671043/) ([HN](https://news.ycombinator.com/item?id=32410096))
+- [SAXX Underwear](https://www.saxxunderwear.com/) - Men's Underwear.
+- [Mack Weldon](https://mackweldon.com/) - Daily Wear System.
+- [Wool&Prince Europe](https://eu.woolandprince.com/)

@@ -58,6 +58,7 @@
 - [NICO](https://github.com/ftsf/nico) - Game Framework in Nim inspired by Pico-8.
 - [threading](https://github.com/nim-lang/threading) - New atomics, thread primitives, channels and atomic refcounting.
 - [Microparsec](https://github.com/schneiderfelipe/microparsec) - Fast parser combinator library with excellent error messages.
+- [ws](https://github.com/treeform/ws) - Simple WebSocket library for nim.
 
 ## Links
 

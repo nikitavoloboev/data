@@ -36,3 +36,4 @@ title: Reactive programming
 - [LiteObservable](https://github.com/lxsmnsyc/LiteObservable) - Cold Observables for JS in a lightweight fashion.
 - [observable](https://github.com/ally-ui/observable) - Tiny observable implementation.
 - [reactive-box](https://github.com/re-js/reactive-box) - Minimalistic, fast, and highly efficient reactivity.
+- [Flimsy](https://github.com/fabiospampinato/flimsy) - Single-file <1kb min+gzip simplified implementation of the reactive core of Solid, optimized for clean code.

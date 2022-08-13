@@ -581,3 +581,4 @@
 - [Ask HN: What are the ways you go about getting comfortable with a new codebase? (2022)](https://news.ycombinator.com/item?id=32365660)
 - [Post-Apocalyptic Programming (2022)](https://zserge.com/posts/post-apocalyptic-programming/) ([HN](https://news.ycombinator.com/item?id=32383686))
 - [How floating point works (2022)](https://www.youtube.com/watch?v=dQhj5RGtag0)
+- [Succintly written (<1000 non-obfuscated loc), fully-functional software in any language](https://github.com/surajsharma/x-in-y-lines)
