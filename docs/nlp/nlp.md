@@ -641,3 +641,4 @@
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 - [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
 - [Spent $15 in DALL·E 2 credits creating this AI image (2022)](https://pub.towardsai.net/i-spent-15-in-dall-e-2-credits-creating-this-ai-image-and-heres-what-i-learned-52f352912025) ([HN](https://news.ycombinator.com/item?id=32428583))
+- [Phraser](https://phraser.tech/) - Better way to generate prompts.

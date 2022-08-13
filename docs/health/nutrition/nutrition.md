@@ -97,3 +97,4 @@ I try drink only water/tea with occasional coffee. No added sugar in food/drinks
 - [Diet and its effects on the gut biome in the pathophysiology of mental disorders (2022)](https://www.nature.com/articles/s41398-022-01922-0) ([HN](https://news.ycombinator.com/item?id=32221449))
 - [Everything Ian Somerhalder Eats in a Day](https://www.youtube.com/watch?v=qO--hy6Q-LA)
 - [Iollo](https://www.iollo.com/) - At-home metabolomics test to extend healthy lifespan. ([HN](https://news.ycombinator.com/item?id=32333417))
+- [Food for Piles: 15 Foods to Fight Hemorrhoids](https://www.healthline.com/nutrition/food-for-piles)

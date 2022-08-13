@@ -117,3 +117,4 @@
 - [go tree-sitter](https://github.com/smacker/go-tree-sitter) - Go bindings for tree-sitter.
 - [tree-sitter-embedded-template](https://github.com/tree-sitter/tree-sitter-embedded-template) - Tree-sitter grammar for embedded template languages like ERB, EJS.
 - [Interactive Parser Explanations](https://cofree.coffee/~verity/parser.html)
+- [Rust Sitter](https://github.com/hydro-project/rust-sitter) - Use Tree Sitter to parse your own languages in Rust.

@@ -24,3 +24,4 @@ title: Tauri
 - [Tauri-Swift](https://github.com/lorenzolewis/tauri-swift)
 - [Create Tauri App](https://github.com/tauri-apps/create-tauri-app)
 - [SF Symbols in Tauri](https://github.com/JonasKruckenberg/tauri-symbols)
+- [HN: Tauri (2022)](https://news.ycombinator.com/item?id=32446374)

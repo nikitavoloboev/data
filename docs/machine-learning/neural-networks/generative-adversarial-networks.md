@@ -221,3 +221,4 @@ title: Generative adversarial networks
 - [Training StyleGAN2 on TPUs in JAX](https://github.com/nyx-ai/stylegan2-flax-tpu)
 - [LoopGAN](https://github.com/naotokui/LoopGAN) - StyleGAN2 + MelGAN Audio Loop Generation.
 - [CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions (2021)](https://arxiv.org/abs/2112.05219) ([Code](https://github.com/RameenAbdal/CLIP2StyleGAN))
+- [WaveGAN: Frequency-aware GAN for High-Fidelity Few-shot Image Generation (2022)](https://arxiv.org/abs/2207.07288) ([Code](https://github.com/kobeshegu/ECCV2022_WaveGAN))

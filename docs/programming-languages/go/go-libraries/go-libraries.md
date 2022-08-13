@@ -149,6 +149,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Gremlins](https://github.com/k3rn31/gremlins) - Mutation testing tool for Go.
 - [testpackage](https://github.com/maratori/testpackage) - Go linter that encourages you to use a separate test package.
 - [testtime](https://github.com/tenntenn/testtime) - time.Now for tests.
+- [gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
 
 ## Web
 

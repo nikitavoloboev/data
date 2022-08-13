@@ -55,3 +55,6 @@ title: Bevy Engine
 - [Bevy-template-rs](https://github.com/taurr/bevy-template-rs) - Cargo-generate template for Bevy projects.
 - [Bevy Scripting Plugin](https://github.com/makspll/bevy_mod_scripting)
 - [Bevy Config Cam](https://github.com/BlackPhlox/bevy_config_cam) - Easy plug-n-play multifunctional camera controller that allows for easy setup of a camera and player for a scene.
+- [Shadertoy clone for the Bevy game engine](https://github.com/eliotbo/bevy_shadertoy_wgsl)
+- [Bevy Pen Tool](https://github.com/eliotbo/bevy_pen_tool)
+- [Bevy Plot](https://github.com/eliotbo/bevy_plot) - Plotting library for the Bevy game engine with a focus on esthetics and interactivity.

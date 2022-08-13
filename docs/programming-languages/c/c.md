@@ -274,3 +274,4 @@
 - [The quick and practical "MSI" hash table (2022)](https://nullprogram.com/blog/2022/08/08/)
 - [Advanced Metaprogramming in C: A select statement (2022)](https://250bpm.com/blog:56/index.html) ([HN](https://news.ycombinator.com/item?id=32427137))
 - [TruffleC: C implementation on top of JVM (2014)](https://dl.acm.org/doi/10.1145/2647508.2647528)
+- [Why should I have written ZeroMQ in C, not C++ (2012)](https://250bpm.com/blog:4/) ([HN](https://news.ycombinator.com/item?id=32445394))

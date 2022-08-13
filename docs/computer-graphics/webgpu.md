@@ -65,3 +65,4 @@ title: WebGPU
 - [Real-Time Position-Based Crowd Simulation in WebGPU](https://github.com/wayne-wu/webgpu-crowd-simulation)
 - [WebGPU on WASM via Emscripten](https://github.com/juj/wasm_webgpu)
 - [Case study in effective WebGPU patterns for rendering glTF models](https://toji.github.io/webgpu-gltf-case-study/) ([Code](https://github.com/toji/webgpu-gltf-case-study))
+- [Translates GLSL code to WGSL](https://github.com/eliotbo/glsl2wgsl)

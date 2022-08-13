@@ -227,6 +227,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Ask HN: Non-violent video games with great stories? (2022)](https://news.ycombinator.com/item?id=31618955)
 - [Ask HN: Which programming games helped you become a better programmer? (2022)](https://news.ycombinator.com/item?id=31631831)
 - [Great video games made by Russians (2022)](https://www.reddit.com/r/AskARussian/comments/w1pjfa/any_goodgreat_video_games_made_by_russians_youd/)
+- [Favorite RTS title of all time, and why? (2022)](https://www.reddit.com/r/RealTimeStrategy/comments/wm22fq/favorite_title_of_all_time_and_why/)
 
 ## Links
 
