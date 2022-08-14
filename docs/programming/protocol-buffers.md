@@ -79,3 +79,4 @@ title: Protocol buffers
 - [as-proto](https://github.com/piotr-oles/as-proto) - Protobuf implementation in AssemblyScript.
 - [Protobuf-ES](https://github.com/bufbuild/protobuf-es) - Complete implementation of Protocol Buffers in TypeScript, suitable for web browsers and Node.js.
 - [Protoscope](https://github.com/protocolbuffers/protoscope) - Simple, human-editable language for representing and emitting the Protobuf wire format.
+- [Faster Protocol Buffers (2019)](https://blog.najaryan.net/posts/partial-protobuf-encoding/)

@@ -238,3 +238,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [podcast](https://github.com/njaremko/podcast) - Command line podcast manager and player.
 - [Podbay](https://podbay.fm/) - Fastest and easiest podcast player designed for the web.
 - [Podcastmix](https://github.com/MTG/PodcastMix-inference) - Dataset for separating music and speech in podcasts.
+- [Ask HN: What podcasts are you listening to? (2022)](https://news.ycombinator.com/item?id=32453544)

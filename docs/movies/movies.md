@@ -131,3 +131,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Movies where villain wins at the end](https://www.reddit.com/r/MovieSuggestions/comments/wjdldy/movies_where_villain_wins_at_the_end/)
 - [What’s a movie with a female lead and zero romance? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/wls83h/whats_a_movie_with_a_female_lead_and_zero_romance/)
 - [Why The Batman's Sound is Different](https://www.youtube.com/watch?v=_AQkQ4a1yJ8)
+- [What are some of the scariest horror films? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/wnvxad/what_are_some_of_the_scariest_horror_films/)
