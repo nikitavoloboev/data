@@ -43,3 +43,4 @@ I am curious what society where everyone agreed to use only anonymous currencies
 - [Mithril](https://github.com/Ragnaroek/mithril) - Pure Rust Monero Miner.
 - [Big Monero communities (2022)](https://www.reddit.com/r/Monero/comments/uq5fpn/is_there_a_bigger_monero_forum_somewhere_else_or/)
 - [Ask HN: Why are privacy coins like Monero not seeing wide adoption? (2022)](https://news.ycombinator.com/item?id=32239796)
+- [0xMR](https://0xmonero.com/0xmr) - Multi-contract, multi-chain, privacy focused project built on Ethereum.

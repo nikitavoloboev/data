@@ -300,3 +300,4 @@
 - [Techniques for Training Large Neural Networks (2022)](https://openai.com/blog/techniques-for-training-large-neural-networks/) ([HN](https://news.ycombinator.com/item?id=31682887))
 - [How fast can we perform a forward pass? (2022)](https://bounded-regret.ghost.io/how-fast-can-we-perform-a-forward-pass/) - How fast can you run a transformer model? ([Tweet](https://twitter.com/JacobSteinhardt/status/1539286865500438528))
 - [Neural Network Loss Landscapes: What do we know? (2021)](https://damueller.com/#/blog-post/NNLLs) ([HN](https://news.ycombinator.com/item?id=32131153))
+- [Logic Through the Lens of Neural Networks](https://cprimozic.net/blog/boolean-logic-with-neural-networks/)

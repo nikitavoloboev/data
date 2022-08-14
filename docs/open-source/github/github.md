@@ -453,3 +453,4 @@ Awesome List
 - [Ask HN: How to say no to a GitHub issue feature request? (2022)](https://news.ycombinator.com/item?id=32366248)
 - [Using GitHub Issues to Hack Together a Feedback System](https://blog.boot.dev/misc/github-issues-for-customers/)
 - [Ask HN: How do you work with Dependabot? (2022)](https://news.ycombinator.com/item?id=32436316)
+- [Small script to scrub your GitHub](https://gist.github.com/lf94/d8e7d11a24ddad8315d28741e6d6bf2e)

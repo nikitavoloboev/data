@@ -130,3 +130,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Most underrated sci fi movies (2022)](https://www.reddit.com/r/scifi/comments/wizujd/most_underrated_sci_fi_movie/)
 - [Movies where villain wins at the end](https://www.reddit.com/r/MovieSuggestions/comments/wjdldy/movies_where_villain_wins_at_the_end/)
 - [What’s a movie with a female lead and zero romance? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/wls83h/whats_a_movie_with_a_female_lead_and_zero_romance/)
+- [Why The Batman's Sound is Different](https://www.youtube.com/watch?v=_AQkQ4a1yJ8)

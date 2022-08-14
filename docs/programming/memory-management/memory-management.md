@@ -107,3 +107,4 @@
 - [Vale's Hybrid-Generational Memory (2021)](https://verdagon.dev/blog/hybrid-generational-memory)
 - [Reference count, don't garbage collect (2022)](https://kevinlawler.com/refcount) ([HN](https://news.ycombinator.com/item?id=32276580))
 - [Automatic memory management with short pauses that is simple to implement? (2022)](https://lobste.rs/s/qdtqi2/automatic_memory_management_with_short)
+- [Perceus: Garbage Free Reference Counting with Reuse](https://xnning.github.io/papers/perceus.pdf)
