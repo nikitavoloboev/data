@@ -13,7 +13,7 @@ title: Linux
 - [Arch Linux](https://www.archlinux.org/) - Simple, lightweight distribution. ([Arch Linux Install Script](https://github.com/picodotdev/alis))
 - [KISS](https://k1ss.org/) ([Code](https://github.com/kisslinux/website)) ([HN](https://news.ycombinator.com/item?id=23255642))
 - [Snakeware](https://github.com/joshiemoore/snakeware) - Free Linux distro with a fully Python userspace. ([HN](https://news.ycombinator.com/item?id=23391380))
-- [Oasis](https://github.com/oasislinux/oasis) - Small statically-linked linux system. ([Lobsters](https://lobste.rs/s/n6ehna/oasis_small_statically_linked_linux))
+- [Oasis](https://github.com/oasislinux/oasis) - Small statically-linked linux system. ([Lobsters](https://lobste.rs/s/n6ehna/oasis_small_statically_linked_linux)) ([HN](https://news.ycombinator.com/item?id=32458744))
 - [Liquorix](https://liquorix.net/) - Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. ([Why use it](https://github.com/zen-kernel/zen-kernel/issues/30#issuecomment-647045343))
 - [NixOS](nixos.md)
 - [Bedrock Linux](https://bedrocklinux.org/) - Meta Linux distribution which allows users to mix-and-match components from other, typically incompatible distributions.

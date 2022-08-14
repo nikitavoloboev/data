@@ -192,3 +192,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Thoughts on Cloudflare D1: A new era (2022)](https://jacobhands.com/posts/d1/)
 - [Cloudflare Workers Templates in StackBlitz](https://stackblitz.com/@eidam/collections/cloudflare-workers)
 - [WASM on CloudFlare Workers](https://github.com/wg/cf-worker-wasm)
+- [How to Build a Reusable Cloudflare Worker component (2022)](https://bit.cloud/blog/how-to-build-a-reusable-cloudflare-worker-component-l4bf0swo)
