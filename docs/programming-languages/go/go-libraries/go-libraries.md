@@ -150,6 +150,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [testpackage](https://github.com/maratori/testpackage) - Go linter that encourages you to use a separate test package.
 - [testtime](https://github.com/tenntenn/testtime) - time.Now for tests.
 - [gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
+- [Threatest](https://github.com/DataDog/threatest) - Go framework for testing threat detection end-to-end.
 
 ## Web
 

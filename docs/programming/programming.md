@@ -582,3 +582,4 @@
 - [Post-Apocalyptic Programming (2022)](https://zserge.com/posts/post-apocalyptic-programming/) ([HN](https://news.ycombinator.com/item?id=32383686))
 - [How floating point works (2022)](https://www.youtube.com/watch?v=dQhj5RGtag0)
 - [Succintly written (<1000 non-obfuscated loc), fully-functional software in any language](https://github.com/surajsharma/x-in-y-lines)
+- [Fogus's Thunks/Studies](https://github.com/fogus/thunks) - Posts and code related to topics that I care about.

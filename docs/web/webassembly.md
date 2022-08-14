@@ -348,3 +348,4 @@ title: WebAssembly
 - [as-bind](https://github.com/torch2424/as-bind) - Isomorphic library to handle passing high-level data structures between AssemblyScript and JavaScript.
 - [WebAssembly as a Universal Binary Format (Part I: Native executables) (2022)](https://wasmer.io/posts/wasm-as-universal-binary-format-part-1-native-executables)
 - [N-body WebAssembly simulation using Web GPU](https://github.com/simbleau/nbody-wasm-sim)
+- [wasmc](https://github.com/aslilac/wasmc) - Compile .wat files into .wasm binaries.

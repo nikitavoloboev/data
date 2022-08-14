@@ -244,3 +244,4 @@ All active variables can be seen by running `env`.
 - [z-run](https://github.com/volution/z-run) - Scripting library lightweight Go-based tool. ([Lobsters](https://lobste.rs/s/lfh40l/z_run_scripting_library_lightweight_tool))
 - [shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification.
 - [What is TTY? (2022)](https://www.sobyte.net/post/2022-05/tty/)
+- [agg](https://github.com/asciinema/agg) - asciinema GIF generator.

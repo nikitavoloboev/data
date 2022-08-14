@@ -572,3 +572,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Recommend Me a Book](https://recommendmeabook.com/) - Find a new book by reading the first pages of random of novels. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/w94lx9/find_a_new_book_by_reading_the_first_pages_of/))
 - [Calibre](https://calibre-ebook.com/) - E-book management. ([Code](https://github.com/kovidgoyal/calibre))
 - [What’s the strangest thing you ever found in a book? (2022)](https://noctslackv2.wordpress.com/2022/08/02/whats-the-strangest-thing-you-ever-found-in-a-book/) ([HN](https://news.ycombinator.com/item?id=32334552))
+- [Talk to Books](https://books.google.com/talktobooks/) - Browse passages from books using experimental AI.

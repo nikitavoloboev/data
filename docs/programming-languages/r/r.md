@@ -186,3 +186,4 @@
 - [Introduction to ML with R using tidymodels](https://github.com/juliasilge/tidymodels-tutorial)
 - [Slider](https://github.com/DavisVaughan/slider) - Sliding Window Functions.
 - [Collection of various algorithms implemented in R](https://github.com/TheAlgorithms/R)
+- [rollRegres](https://github.com/boennecd/rollRegres) - R package for fast rolling and expanding linear regression models.
