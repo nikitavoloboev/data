@@ -56,3 +56,4 @@ title: Observability
 - [OpenTelemetry Enhancement Proposals](https://github.com/open-telemetry/oteps)
 - [Prodfiler](https://prodfiler.com/) - Whole-system Continuous Profiling Platform. ([Docs](https://github.com/elastic/prodfiler-documentation))
 - [The best way to find performance bottlenecks: observing production (2022)](https://pythonspeed.com/articles/measure-performance-production/)
+- [The four pillars of data observability: metrics, metadata, lineage, and logs](https://www.metaplane.dev/blog/the-four-pillars-of-data-observability)

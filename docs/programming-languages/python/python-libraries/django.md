@@ -169,3 +169,4 @@ title: Django
 - [Six things I do every time I start a Django project (2022)](https://brntn.me/blog/six-things-i-do-every-time-i-start-a-django-project/)
 - [Daphne](https://github.com/django/daphne) - Django Channels HTTP/WebSocket server.
 - [Pellet](https://github.com/har777/pellet) - Helps improve your Django app performance by discovering N+1 queries.
+- [Dataloaders for Django and Strawberry](https://github.com/VojtechPetru/strawberry-django-dataloaders)

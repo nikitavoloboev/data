@@ -19,7 +19,7 @@ title: Godot
 - [Create a First-Person Shooter In Godot](https://godottutorials.pro/fps-godot-tutorial/) ([HN](https://news.ycombinator.com/item?id=22373006))
 - [Make an Action RPG in Godot (2020)](https://www.youtube.com/watch?v=mAbG8Oi-SvQ&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a)
 - [Voxel Tools for Godot](https://github.com/Zylann/godot_voxel) - C++ module for creating volumetric worlds in Godot Engine.
-- [godot-rust](https://github.com/godot-rust/godot-rust) - Rust library that implements native bindings for the Godot game engine. ([Reddit](https://www.reddit.com/r/rust/comments/thv703/godotrust_010_released/))
+- [godot-rust](https://github.com/godot-rust/godot-rust) - Rust library that implements native bindings for the Godot game engine. ([Reddit](https://www.reddit.com/r/rust/comments/thv703/godotrust_010_released/)) ([Docs](https://godot-rust.github.io/))
 - [Godot code](https://github.com/godotengine/godot)
 - [Godot 4.0 will get a new lightmapper (2020)](https://godotengine.org/article/godot-40-will-get-new-modernized-lightmapper) ([HN](https://news.ycombinator.com/item?id=23128518))
 - [Godot Rust (2020)](https://hagsteel.com/posts/godot-rust/)
@@ -77,3 +77,4 @@ title: Godot
 - [Godot 3.5 (2022)](https://godotengine.org/article/godot-3-5-cant-stop-wont-stop) ([HN](https://news.ycombinator.com/item?id=32357248))
 - [Learn to Code From Zero With Godot](https://gdquest.mavenseed.com/courses/learn-to-code-from-zero-with-godot)
 - [Godot Node Essentials](https://gdquest.mavenseed.com/courses/godot-node-essentials)
+- [Godot-Logger](https://github.com/jdno/godot-logger) - Logger for godot-rust projects.

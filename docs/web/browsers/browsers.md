@@ -247,3 +247,4 @@ Use this [Solid/Vite](https://github.com/fuyutarow/solid-chrome-extension-templa
 - [New Recipes for 3rd Party Cookies (2022)](https://textslashplain.com/2022/07/27/new-recipes-for-cookies/)
 - [Vimkey](https://github.com/Haojen/vimkey) - Browser extension, use keyboard control browser jumps, scrolling, switching tabs and more.
 - [Rocketride.io](https://www.rocketride.io/) - Browser automation tool. ([HN](https://news.ycombinator.com/item?id=32352291))
+- [Playwright WebExt](https://github.com/ueokande/playwright-webextext) - Playwright extensions for testing WebExtensions.

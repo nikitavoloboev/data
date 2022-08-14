@@ -59,3 +59,4 @@ title: ClojureScript
 - [okulary](https://github.com/funcool/okulary) - Fast Atom and DerivedAtom for ClojureScript.
 - [AWS + Go + ClojureScript](https://github.com/nathants/aws-gocljs)
 - [shadow-grove](https://github.com/thheller/shadow-grove) - ClojureScript system to build browser based frontends.
+- [ClavaScript](https://github.com/clavascript/clavascript) - ClojureScript syntax to JavaScript compiler.

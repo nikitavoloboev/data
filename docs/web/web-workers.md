@@ -26,3 +26,4 @@ title: Web workers
 - [Full Preact app rendering in a Web Worker](https://github.com/developit/preact-worker-demo)
 - [Workly](https://github.com/pshihn/workly) - Simple way to move a stand-alone function/class to a worker thread.
 - [How to stop synchronous code in a web worker? (2022)](https://yoyo-code.com/how-to-stop-synchronous-web-worker/)
+- [Typed-Worker](https://github.com/egoist/typed-worker) - Type-safe and Promisified API for Web Worker and Iframe.

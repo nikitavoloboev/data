@@ -1225,6 +1225,7 @@
 - [TextureSwiftSupport](https://github.com/FluidGroup/TextureSwiftSupport) - Library that gains Texture(AsyncDisplayKit) more power in Swift.
 - [Binary Codable](https://github.com/christophhagen/BinaryCodable) - Binary encoder for Swift Codable types.
 - [OpenAI](https://github.com/mattt/OpenAI) - Swift client for the OpenAI API.
+- [SwiftCommand](https://github.com/Zollerboy1/SwiftCommand) - Wrapper around Foundation.Process, inspired by Rust's std::process::Command.
 
 ## Other (not lib)
 

@@ -187,6 +187,7 @@
 - [jsonrpclib](https://github.com/neandertech/jsonrpclib) - Cross-platform pure-scala JsonRPC library.
 - [cats-saga](https://github.com/VladKopanev/cats-saga) - Purely Functional Transaction Management In Scala With Cats.
 - [zio-saga](https://github.com/VladKopanev/zio-saga) - Purely Functional Transaction Management In Scala With ZIO.
+- [Turbolift](https://github.com/marcinzh/turbolift) - Extensible Effect System for Scala 3.
 
 ## Links
 
@@ -215,3 +216,4 @@
 - [Demos for ScalablyTyped](https://github.com/ScalablyTyped/Demos)
 - [scala-interactive-update](https://github.com/kitlangton/scala-interactive-update) - Update your Scala dependencies (both libraries and plugins) interactively.
 - [Getting Started with Scala.js and Vite | Let´s talk about Scala 3 (2022)](https://www.youtube.com/watch?v=dv7fPmgFTNA)
+- [Effect Zoo for Scala 3](https://github.com/marcinzh/effect-zoo)

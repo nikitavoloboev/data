@@ -250,6 +250,7 @@ title: GitHub actions
 - [Changesets Dependencies](https://github.com/the-guild-org/changesets-dependencies-action) - GitHub Action for creating Changesets files for dependencies updates.
 - [setup-protoc](https://github.com/arduino/setup-protoc) - GitHub Action to setup the protoc compiler for protocol buffers.
 - [Upload Pages Artifact](https://github.com/actions/upload-pages-artifact) - Composite action for packaging and uploading an artifact that can be deployed to GitHub Pages.
+- [Condition based Pull Request Labeler](https://github.com/srvaroa/labeler) - GitHub Action to assign labels to PRs based on configurable conditions.
 
 ## Go
 

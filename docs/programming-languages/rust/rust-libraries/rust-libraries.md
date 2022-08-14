@@ -413,6 +413,7 @@
 - [raw-window-handle](https://github.com/rust-windowing/raw-window-handle) - Common windowing interoperability library for Rust.
 - [skeletonize](https://github.com/okaneco/skeletonize) - Line thinning library for binary images.
 - [Hotline](https://github.com/polymonster/hotline) - Graphics, compute and hardware accelerated A/V decoding.
+- [GPU Rust Playground](https://github.com/asahilina/gpu-rust-playground) - Experimenting with Rust for GPU driver dev.
 
 ## Games
 

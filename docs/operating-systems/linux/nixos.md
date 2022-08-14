@@ -240,3 +240,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Config for the Community aarch64 NixOS box](https://github.com/nix-community/aarch64-build-box)
 - [ak-nix](https://github.com/aakropotkin/ak-nix) - Various `nix` and NixOS extensions.
 - [RedNixOS](https://github.com/redcode-labs/RedNixOS) - NixOS-based 'distro' for cybersecurity enthusiasts.
+- [NixOS Druid](https://github.com/syberant/nixos-druid) - GUI for NixOS documentation + configuration.

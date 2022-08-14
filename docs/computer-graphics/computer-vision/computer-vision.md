@@ -904,3 +904,4 @@
 - [Simple Baselines for Image Restoration (2022)](https://arxiv.org/abs/2204.04676) ([Code](https://github.com/megvii-research/NAFNet))
 - [Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning (2022)](https://arxiv.org/abs/2208.04202)
 - [Revisiting the Critical Factors of Augmentation-Invariant Representation Learning (2022)](https://arxiv.org/abs/2208.00275) ([Code](https://github.com/megvii-research/revisitAIRL))
+- [Image Quality Related Papers](https://github.com/weizhou-geek/Recent-Image-Quality-Related-Papers)
