@@ -94,3 +94,4 @@ title: Vulkan API
 - [SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) - Lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.
 - [Vookoo](https://github.com/andy-thomason/Vookoo) - Set of dependency-free utilities to assist in the construction and updating of Vulkan graphics data structures.
 - [Vulkan Tutorial in Zig](https://github.com/Vulfox/vulkan-tutorial-zig)
+- [vk-mem-alloc-rs](https://github.com/ProjectKML/vk-mem-alloc-rs) - Lightweight wrapper around the Vulkan Memory Allocator.

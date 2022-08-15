@@ -115,6 +115,7 @@
 - [tftb](https://github.com/scikit-signal/tftb) - Python module for time-frequency analysis.
 - [PyPOTS](https://github.com/WenjieDu/PyPOTS) - Python Toolbox for Data Mining on Partially-Observed Time Series.
 - [SKOPS](https://github.com/skops-dev/skops) - Python library helping you share your scikit-learn based models and put them in production.
+- [HDDM](https://github.com/hddm-devs/hddm) - Python module that implements Hierarchical Bayesian parameter estimation of Drift Diffusion Models (via PyMC).
 
 ## Biology
 

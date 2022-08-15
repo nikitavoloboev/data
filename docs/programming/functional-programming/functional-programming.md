@@ -186,6 +186,7 @@
 - [Functional Programming 101](https://github.com/readme/guides/functional-programming-basics)
 - [Why study functional programming? (2012)](https://acm.wustl.edu/functional/whyfp.php) ([HN](https://news.ycombinator.com/item?id=32321295))
 - [A monad is a monoid in the category of endofunctors. Whats the problem? (2022)](https://www.youtube.com/watch?v=ENo_B8CZNRQ)
+- ["Outperforming Imperative with Pure Functional Languages" by Richard Feldman (2021)](https://www.youtube.com/watch?v=vzfy4EKwG_Y)
 
 ## Images
 

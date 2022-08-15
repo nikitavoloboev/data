@@ -382,3 +382,4 @@ title: ML Libraries
 - [GRAPE](https://github.com/AnacletoLAB/grape) - Rust/Python library for high-performance Graph Processing and Embedding.
 - [dp-transformers](https://github.com/microsoft/dp-transformers) - Differentially-private transformers using HuggingFace and Opacus.
 - [TinyMaix](https://github.com/sipeed/TinyMaix) - Tiny inference library for microcontrollers (TinyML).
+- [x-unet](https://github.com/lucidrains/x-unet) - Implementation of a U-net complete with efficient attention as well as the latest research findings.

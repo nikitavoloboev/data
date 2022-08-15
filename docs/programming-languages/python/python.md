@@ -4,7 +4,7 @@ title: Python
 
 # [Python](https://www.python.org)
 
-[Memray](https://github.com/bloomberg/memray) is useful python memory profiler.
+[Memray](https://github.com/bloomberg/memray) is useful python memory profiler. [Minimum Viable Python](https://snarky.ca/mvpy-minimum-viable-python/) is a good overview.
 
 ## Notes
 
@@ -526,3 +526,5 @@ for i, _ in enumerate(nums):
 - [Crimes with Python's pattern matching (2022)](https://www.hillelwayne.com/post/python-abc/) ([HN](https://news.ycombinator.com/item?id=32314368))
 - [Finding performance problems: profiling or logging?](https://pythonspeed.com/articles/logging-vs-profiling/)
 - [Erg](https://github.com/erg-lang/erg) - Python compatible statically typed language.
+- [MVPy: Minimum Viable Python](https://snarky.ca/mvpy-minimum-viable-python/) ([Lobsters](https://lobste.rs/s/aihsd2/mvpy_minimum_viable_python))
+- [Blackd-Client](https://github.com/disrupted/blackd-client) - Blazing fast Python code formatting using Black.

@@ -23,7 +23,7 @@
 - [Synchronicity](https://github.com/iqlusioninc/synchronicity) - Distributed build system providing cryptographic proofs-of-reproducibility via Byzantine Fault Tolerant (BFT) consensus.
 - [Ninja](https://github.com/ninja-build/ninja) - Small build system with a focus on speed. ([ninja: a simple way to do builds](https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds/)) ([Lobsters](https://lobste.rs/s/94llji/ninja_simple_way_do_builds)) ([HN](https://news.ycombinator.com/item?id=24904617))
 - [The Success and Failure of Ninja (2020)](http://neugierig.org/software/blog/2020/05/ninja.html) ([HN](https://news.ycombinator.com/item?id=23157783))
-- [samurai](https://github.com/michaelforney/samurai) - Ninja-compatible build tool written in C99 with a focus on simplicity, speed, and portability.
+- [Samurai](https://github.com/michaelforney/samurai) - Ninja-compatible build tool written in C99 with a focus on simplicity, speed, and portability. ([HN](https://news.ycombinator.com/item?id=32455918))
 - [Apple’s Linker & Deterministic Builds (2020)](https://milen.me/writings/apple-linker-ld64-deterministic-builds-oso-prefix/)
 - [redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make. An implementation of djb's redo. ([Docs](https://redo.readthedocs.io/en/latest/)) ([HN](https://news.ycombinator.com/item?id=29717028))
 - [my love letter to redo (2020)](https://fzakaria.com/2020/06/08/my-love-letter-to-redo.html) ([Lobsters](https://lobste.rs/s/j96fsz/my_love_letter_redo))
@@ -126,3 +126,4 @@
 - [Vercel Build Output API: Infrastructure-as-Filesystem (2022)](https://vercel.com/blog/build-output-api) ([HN](https://news.ycombinator.com/item?id=32192498))
 - [Speeding up PostHog builds with Depot (2022)](https://posthog.com/blog/speeding-up-posthog-builds-with-depot)
 - [The Unreasonable Effectiveness of Makefiles (2022)](https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles) ([HN](https://news.ycombinator.com/item?id=32438616))
+- [Knit](https://github.com/zyedidia/knit) - Build tool inspired by Make and Plan9 mk.

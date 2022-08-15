@@ -72,3 +72,4 @@ title: Elasticsearch
 - [What is the difference between Lucene and Elasticsearch](https://stackoverflow.com/questions/27793721/what-is-the-difference-between-lucene-and-elasticsearch/27793910#27793910)
 - [pino-elasticsearch](https://github.com/pinojs/pino-elasticsearch) - Load pino logs into Elasticsearch.
 - [Pydastic](https://github.com/RamiAwar/pydastic) - Elasticsearch python ORM based on Pydantic.
+- [APM Server](https://github.com/elastic/apm-server) - Receives data from Elastic APM agents and transforms it into Elasticsearch documents.

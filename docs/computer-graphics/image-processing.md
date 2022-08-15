@@ -193,3 +193,4 @@
 - [rscolorq](https://github.com/okaneco/rscolorq) - Spatial color quantization in Rust.
 - [simple_clustering](https://github.com/okaneco/simple_clustering) - Image segmentation library and CLI tool using SNIC and SLIC superpixel algorithms.
 - [fast-png](https://github.com/image-js/fast-png) - PNG image decoder and encoder written entirely in JavaScript.
+- [Stitching](https://github.com/lukasalexanderweber/stitching) - Python package for fast and robust Image Stitching. ([HN](https://news.ycombinator.com/item?id=32466003))

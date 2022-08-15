@@ -351,6 +351,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Dylan Brouwer](https://www.dylanbrouwer.design/)
 - [Andy Sparks](https://www.andysparks.co/)
 - [Jessica Sachs](https://jess.sh/)
+- [Michelle Barker](https://michellebarker.co.uk/)
 - [Andrea Limjoco](http://andrealimjo.co/)
 - [Parimal Satyal](https://neustadt.fr/) ([Code](https://github.com/parimalsatyal/neu))
 - [Patrick Heng](https://patrickheng.com/)

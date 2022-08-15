@@ -69,3 +69,4 @@
 - [md5-tools](https://github.com/volution/md5-tools) - Lightweight Rust MD5/SHA tools.
 - [The many flavors of hashing (2022)](https://notes.volution.ro/v1/2022/07/notes/1290a79c/) ([Lobsters](https://lobste.rs/s/prlebz/many_flavors_hashing)) ([HN](https://news.ycombinator.com/item?id=32281459))
 - [A Fast, Minimal Memory, Consistent Hash Algorithm (2014)](https://arxiv.org/abs/1406.2294)
+- [Implementing Bitcask, a Log-Structured Hash Table (2022)](https://healeycodes.com/implementing-bitcask-a-log-structured-hash-table) ([Code](https://github.com/healeycodes/bitcask-lite))

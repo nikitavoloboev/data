@@ -187,7 +187,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [HTTP2](https://github.com/fasthttp/http2) - HTTP/2 implementation for fasthttp.
 - [fastjsonrpc](https://github.com/serjvanilla/fastjsonrpc) - Fast JSON-RPC 2.0 implementation for fasthttp server.
 - [Macaron](https://github.com/go-macaron/macaron) - High productive and modular web framework in Go.
-- [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
+- [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework. ([HN](https://news.ycombinator.com/item?id=32466326))
 - [Buffalo](https://gobuffalo.io/docs/overview)
 - [Gramework](https://github.com/gramework/gramework) - Fast and Reliable Golang Web Framework.
 - [Vugu](https://github.com/vugu/vugu) - Modern UI library for Go+WebAssembly (experimental).
@@ -537,6 +537,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [superbasic](https://github.com/wroge/superbasic) - Compiles expressions and value-lists into SQL strings and thus offers an alternative to conventional query builders.
 - [TiKV Go Client](https://github.com/tikv/client-go)
 - [HaxMap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient Go concurrent hashmap.
+- [Storage](https://github.com/Shopify/go-storage) - Go package for abstracting local, in-memory, and remote (Google Cloud Storage/S3) file systems.
 
 ## ML
 

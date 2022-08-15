@@ -196,3 +196,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Poor man's cache (2022)](https://kyoto.codes/2022/07/14/poor-man-cache.html)
 - [Web Performance / Twitter List](https://twitter.com/i/lists/1525574365080784896) ([Tweet](https://twitter.com/slightlylate/status/1553485460088926209))
 - [Web Framework Benchmarks](https://github.com/BuilderIO/framework-benchmarks)
+- [Use fetchpriority=high to load your LCP hero image sooner (2022)](https://addyosmani.com/blog/fetch-priority/)

@@ -342,3 +342,4 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Skyscraper](https://github.com/muldjord/skyscraper) - Powerful and versatile yet easy to use game scraper written in C++.
 - [Tilted Online](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim and Fallout 4 mod to play online.
 - [Are great games being ignored? An investigation (2022)](https://www.youtube.com/watch?v=g4lhQp245dw)
+- [Python Plays Grand Theft Auto 5](https://github.com/Sentdex/pygta5)

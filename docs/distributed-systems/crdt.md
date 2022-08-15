@@ -90,3 +90,4 @@ title: Conflict-free replicated data type
 - [checked-automerge](https://github.com/jeffa5/checked-automerge) - Attempt at model checking Automerge.
 - [Vaxine](https://github.com/vaxine-io/vaxine) - Rich-CRDT database platform for backend applications. ([Web](https://vaxine.io/))
 - [Yboard](https://github.com/felipeleivav/yboard) - Multiplayer desktop-like workspace based on CRDT. ([HN](https://news.ycombinator.com/item?id=31891608))
+- [Automerge Chat Demo](https://github.com/okdistribute/automerge-chat-demo)

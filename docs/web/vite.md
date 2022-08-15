@@ -104,3 +104,4 @@ title: Vite
 - [vite-plugin-live-reload](https://github.com/arnoson/vite-plugin-live-reload) - Simple live reloading plugin for vite.
 - [Vite Test Utils](https://github.com/kazupon/vite-test-utils)
 - [Vite Sentry Plugin](https://github.com/ikenfin/vite-plugin-sentry)
+- [Getting Started with Vitest](https://www.vuemastery.com/blog/getting-started-with-vitest/) ([HN](https://news.ycombinator.com/item?id=32416783))

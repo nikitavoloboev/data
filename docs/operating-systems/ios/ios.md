@@ -129,6 +129,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Life Progress](https://github.com/tienphaw/LifeProgress) - Friendly reminder that you're not gonna live forever.
 - [Yattee](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS, macOS and tvOS.
 - [Code App](https://github.com/thebaselab/codeapp) - Building a full-fledged code editor for iPad.
+- [Santander](https://github.com/SerenaKit/Santander) - New, enhanced File Manager for iOS devices.
 
 ## Other
 
@@ -497,3 +498,6 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Full-Stack Swift: Building an iOS App with a Vapor Backend (2022)](https://kaitlin.dev/2022/03/23/full-stack-swift.html)
 - [libiosexec](https://github.com/ProcursusTeam/libiosexec) - Shim library that both works to allow shell scripts to execute correctly on iOS, and provides a framework for true rootless support.
 - [Implementing a main thread watchdog on iOS (2022)](https://www.jessesquires.com/blog/2022/08/11/implementing-a-main-thread-watchdog-on-ios/)
+- [How to Reverse Engineer and Patch an iOS Application for Beginners (2022)](https://www.inversecos.com/2022/06/how-to-reverse-engineer-and-patch-ios.html)
+- [Storybook for iOS](https://github.com/eure/Storybook-ios) - UI Component previewer for UI development faster in iOS.
+- [Storybook for iOS](https://github.com/aj-bartocci/Storybook-SwiftUI) - Storybook like functionality for iOS apps.
