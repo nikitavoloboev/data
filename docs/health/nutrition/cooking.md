@@ -42,3 +42,4 @@ I share some [recipes I like](recipes.md).
 - [What kitchen gadgets or appliances actually get used in your home?](https://twitter.com/jesslynnrose/status/1539896328993521665)
 - [Parsnip](https://www.parsnip.ai/) - Duolingo for Cooking. ([HN](https://news.ycombinator.com/item?id=32266086))
 - [Ask HN: Meal Planning App? (2022)](https://news.ycombinator.com/item?id=32316604)
+- [Ultimate list of Japanese Vegetable Cutting Techniques](https://thechefdojo.com/japanese-vegetable-cutting-techniques/)

@@ -324,6 +324,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Ask HN: Which book are you reading, since when? (2022)](https://news.ycombinator.com/item?id=32196791)
 - [What are your top 5 favorite sci-fi works? (2022)](https://www.reddit.com/r/scifi/comments/w70lak/what_are_your_top_5_favourite_scifi_works/)
 - [Best and worst books you've read so far in 2022](https://www.reddit.com/r/suggestmeabook/comments/wg3i5y/best_and_worst_books_youve_read_so_far_in_2022_go/)
+- [20 of the Best Science Fiction Books of All Time (2022)](https://bookriot.com/best-science-fiction-books-of-all-time/)
 
 ## Interesting Prose Books
 

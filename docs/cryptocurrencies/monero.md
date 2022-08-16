@@ -44,3 +44,6 @@ I am curious what society where everyone agreed to use only anonymous currencies
 - [Big Monero communities (2022)](https://www.reddit.com/r/Monero/comments/uq5fpn/is_there_a_bigger_monero_forum_somewhere_else_or/)
 - [Ask HN: Why are privacy coins like Monero not seeing wide adoption? (2022)](https://news.ycombinator.com/item?id=32239796)
 - [0xMR](https://0xmonero.com/0xmr) - Multi-contract, multi-chain, privacy focused project built on Ethereum.
+- [Breaking Monero - YouTube](https://www.youtube.com/playlist?list=PLsSYUeVwrHBnAUre2G_LYDsdo-tD0ov-y)
+- [Monero Community Workgroup - YouTube](https://www.youtube.com/c/MoneroCommunityWorkgroup/videos)
+- [Monero Has Received Some Upgrades (2022)](https://www.youtube.com/watch?v=-3BF_mE2e6M)

@@ -200,3 +200,4 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [The 37signals Guide to Internal Communication](https://37signals.com/how-we-communicate)
 - [Building friend catchers (2022)](https://ferrucc.io/posts/friendcatchers/) ([HN](https://news.ycombinator.com/item?id=32135604))
 - [Changing scientific meetings for the better (2021)](https://www.nature.com/articles/s41562-021-01067-y)
+- [CannedTXT](https://cannedtxt.com/) - Business and personal canned responses examples to speed up your communication.

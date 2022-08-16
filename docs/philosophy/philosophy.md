@@ -72,3 +72,4 @@
 - [Philosophy Podcasts](https://truesciphi.org/phipod_series.html)
 - [Notes on Philosophy](https://www.desolhar-philo.com/)
 - [Why does anything exist? (2021)](https://alwaysasking.com/why-does-anything-exist/) ([HN](https://news.ycombinator.com/item?id=32416003))
+- [100 Rules — Personal Philosophy](https://druriley.com/100-rules-2020/)

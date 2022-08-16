@@ -125,3 +125,4 @@
 - [TIMOTHEEEEE CHALAMET CALL ME BY YOUR NAME](https://www.youtube.com/shorts/vfHMyNmAH3o)
 - [Ну и пожалуйста, ну и не нужно...](https://www.youtube.com/watch?v=pTZaNHZGsQo)
 - [Pretending to suicide guy](https://www.youtube.com/shorts/LHZIc3B4kfE)
+- [Videos that never ceases to make you laugh](https://twitter.com/callmehuie/status/1558986395481407494)

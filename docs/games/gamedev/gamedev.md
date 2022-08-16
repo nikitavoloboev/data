@@ -284,3 +284,4 @@
 - [Cramming 'Papers, Please' Onto Phones (2022)](https://dukope.com/devlogs/papers-please/mobile/) ([Lobsters](https://lobste.rs/s/uj9szd/cramming_papers_please_onto_phones))
 - [I Tried Making an FPS Game (2022)](https://www.youtube.com/watch?v=3DMZETkPieI)
 - [Learn Awesome Gamedev](https://github.com/notpresident35/learn-awesome-gamedev)
+- [Tough times on the road to Starcraft (2012)](https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
