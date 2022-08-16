@@ -292,3 +292,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Deno Zip](https://github.com/moncefplastin07/deno-zip) - Streaming cross-platform zip tool written for Deno.
 - [DenoGres](https://github.com/oslabs-beta/DenoGres) - Comprehensive ORM for PostgreSQL and Deno.
 - [Fresh SEO](https://github.com/xstevenyung/fresh-seo) - Fastest way to create sitemap in your Deno Fresh project.
+- [Big Changes Ahead for Deno (2022)](https://deno.com/blog/changes) ([HN](https://news.ycombinator.com/item?id=32468613))

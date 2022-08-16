@@ -670,3 +670,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Assembling a Query Engine From Spare Parts (2022)](https://www.firebolt.io/content/firebolt-vldb-cdms-2022)
 - [Reddit’s database has two tables (2012)](https://kevin.burke.dev/kevin/reddits-database-has-two-tables/) ([HN](https://news.ycombinator.com/item?id=32407873))
 - [Ideas for DataScript 2](https://tonsky.me/blog/datascript-2/) ([HN](https://news.ycombinator.com/item?id=32447636))
+- [Rise of the Anti-Join (2022)](https://www.crunchydata.com/blog/rise-of-the-anti-join) ([Lobsters](https://lobste.rs/s/rhll92/rise_anti_join))

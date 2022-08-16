@@ -463,3 +463,4 @@ if (
 - [Mastering Async/Await Book](https://asyncawait.net/)
 - [Roll your own JavaScript runtime (2022)](https://deno.com/blog/roll-your-own-javascript-runtime) ([Code](https://github.com/denoland/roll-your-own-javascript-runtime))
 - [Checking if a JavaScript native function is monkey patched (2022)](https://mmazzarolo.com/blog/2022-07-30-checking-if-a-javascript-native-function-was-monkey-patched/)
+- [Optimizing for JavaScript is hard (2022)](https://jfmengels.net/optimizing-javascript-is-hard/) ([Lobsters](https://lobste.rs/s/sdoeyq/optimizing_for_javascript_is_hard))

@@ -699,6 +699,7 @@
 - [macos-emond](https://github.com/puffyCid/macos-emond) - Simple library to parse macOS Emond files.
 - [appleargs](https://github.com/BlackHoleFox/appleargs) - Rust crate to read the process' apple arguments.
 - [keychain-services.rs](https://github.com/iqlusioninc/keychain-services.rs) - Keychain Services for Rust.
+- [xhypervisor](https://github.com/RWTH-OS/xhypervisor) - Rust API to the OS X Hypervisor framework for hardware-accelerated virtualization.
 
 ## Macros
 

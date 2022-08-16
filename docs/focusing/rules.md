@@ -167,6 +167,7 @@
 
 - Mindfully spend money. Don't support practices I don't agree with.
 - When paying online, check that payments go through.
+- Include personal or company VAT in all business expenses (tech, bigger purchases) to get tax write offs on quarterly tax payments.
 
 ## Solve problems
 

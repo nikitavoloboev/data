@@ -188,6 +188,7 @@
 - [cats-saga](https://github.com/VladKopanev/cats-saga) - Purely Functional Transaction Management In Scala With Cats.
 - [zio-saga](https://github.com/VladKopanev/zio-saga) - Purely Functional Transaction Management In Scala With ZIO.
 - [Turbolift](https://github.com/marcinzh/turbolift) - Extensible Effect System for Scala 3.
+- [Ducktape](https://github.com/arainko/ducktape) - Library for boilerplate-less and configurable transformations between case classes/enums (sealed traits) for Scala 3.
 
 ## Links
 

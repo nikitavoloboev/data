@@ -661,3 +661,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) - Collection of familiar, friendly, and modern emoji from Microsoft.
 - [JiraCLI](https://github.com/ankitpokhrel/jira-cli) - Feature-rich interactive Jira command line. ([HN](https://news.ycombinator.com/item?id=32435259))
 - [Ask HN: What is something you built but never marketed? (2022)](https://news.ycombinator.com/item?id=32458897)
+- [Ask HN: Bluetooth kinda sucks. Why don't we have something better? (2022)](https://news.ycombinator.com/item?id=32469976)
+- [Novo Nexus](https://nexus.novo.tv/) - Free resource for content creators to get quality sponsorships. ([Tweet](https://twitter.com/DevinNash/status/1559226780799668224))

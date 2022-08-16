@@ -232,3 +232,4 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [From 1400 to 2000 in Blitz on Chess.com - A 10½ Year Journey (2022)](https://saychess.substack.com/p/from-1400-to-2000-in-blitz-on-chesscom)
 - [YouTubers/streamers out there who focus on concepts instead of deep individual lines](https://www.reddit.com/r/chess/comments/wbaxqp/any_youtubersstreamers_out_there_who_focus_on/)
 - [My Experience Building A Chess App In React (2022)](https://dev.to/fredlitt/my-experience-building-a-chess-app-in-react-2hl6) ([Tweet](https://twitter.com/geoffreylitt/status/1499785601255628811))
+- [A New Kind of Chess (2022)](https://erinbern.com/dice-chess/) ([HN](https://news.ycombinator.com/item?id=32448135))

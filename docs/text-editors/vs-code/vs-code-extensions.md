@@ -330,6 +330,7 @@ Below is a list of extensions I use.
 - [Crates](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates) - Helps Rust developers managing dependencies with Cargo.toml. Only works with dependencies from crates.io.
 - [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) - Native debugger based on LLDB.
 - [Flowistry](https://marketplace.visualstudio.com/items?itemName=wcrichton.flowistry) - VSCode extension that helps you understand Rust programs with program analysis. ([Code](https://github.com/willcrichton/flowistry))
+- [crates](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates) - Extension for crates.io dependencies. Aims helping developers to manage dependencies while using Cargo.toml. ([Code](https://github.com/serayuzgur/crates))
 
 ## Lua
 

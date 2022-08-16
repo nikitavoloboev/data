@@ -793,3 +793,4 @@ title: Kubernetes
 - [BadRobot](https://github.com/controlplaneio/badrobot) - Operator Security Audit Tool.
 - [Falling for Kubernetes (2022)](https://freeman.vc/notes/falling-for-kubernetes) ([HN](https://news.ycombinator.com/item?id=32403746))
 - [Discoblocks](https://github.com/ondat/discoblocks) - Open Source declarative disk configuration system for Kubernetes.
+- [Scaling Kubernetes to Thousands of CRDs (2022)](https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/)

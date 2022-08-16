@@ -866,3 +866,4 @@ title: Rust
 - [Using unwrap() in Rust is Okay (2022)](https://blog.burntsushi.net/unwrap/) ([Lobsters](https://lobste.rs/s/60lj66/using_unwrap_rust_is_okay))
 - [A performance retrospective using Rust (part 1) (2022)](https://agourlay.github.io/rust-performance-retrospective-part1/)
 - [Rust 1.63 (2022)](https://blog.rust-lang.org/2022/08/11/Rust-1.63.0.html) ([HN](https://news.ycombinator.com/item?id=32426835)) ([Lobsters](https://lobste.rs/s/djx0ns/announcing_rust_1_63_0))
+- [Rust in Perspective (2022)](https://people.kernel.org/linusw/rust-in-perspective)

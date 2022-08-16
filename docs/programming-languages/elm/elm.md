@@ -107,3 +107,4 @@ title: Elm
 - [Fixing vulnerabilities in Elm's virtual DOM (2022)](https://jfmengels.net/virtual-dom-security-patch/)
 - [Introduction to Elm Book](https://guide.elm-lang.org/) ([Code](https://github.com/evancz/guide.elm-lang.org))
 - [Elm Workshop](https://sporto.github.io/elm-workshop/) ([Code](https://github.com/sporto/elm-workshop))
+- [ESLint equivalents in Elm (2022)](https://elmcraft.org/compare/javascript/eslint/)

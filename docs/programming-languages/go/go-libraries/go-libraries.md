@@ -1922,3 +1922,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [DataViz](https://github.com/Arafatk/DataViz) - Build and Visualize data structures in Go.
 - [Clockwork](https://github.com/coretrix/clockwork) - Go Application runtime inspection tool.
 - [Self-Recompiling Go Binaries](https://github.com/shazow/go-selfcompile)
+- [Metaprogramming with Go - or how to build code generators that parse Go code](https://github.com/hlubek/metaprogramming-go)

@@ -30,3 +30,4 @@ title: Blitz.js
 - [1UpBlitz](https://www.1upblitz.com/) - SaaS starter for Blitz.js.
 - [Future of Blitz (2022)](https://blitzjs.com/docs/blitz-pivot) ([HN](https://news.ycombinator.com/item?id=30896931))
 - [Blitz.js Discord](https://discord.com/invite/blitzjs)
+- [HN: Blitz (2022)](https://news.ycombinator.com/item?id=32469534)
