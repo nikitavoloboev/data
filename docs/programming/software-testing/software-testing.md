@@ -152,3 +152,4 @@
 - [Smoke](https://github.com/SamirTalwar/smoke) - Designed to test anything that can be wrapped with a command-line interface.
 - [Test against what won't change](https://blog.alexgilleran.com/test-against-what-wont-change/) ([Lobsters](https://lobste.rs/s/8p0q7g/test_against_what_won_t_change))
 - [Property-Based Testing Against a Model of a Web Application (2022)](https://concerningquality.com/model-based-testing/)
+- [I have complicated feelings about TDD (2022)](https://buttondown.email/hillelwayne/archive/i-have-complicated-feelings-about-tdd-8403/) ([Lobsters](https://lobste.rs/s/r9xxld/i_have_complicated_feelings_about_tdd))

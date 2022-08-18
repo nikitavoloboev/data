@@ -285,3 +285,4 @@
 - [I Tried Making an FPS Game (2022)](https://www.youtube.com/watch?v=3DMZETkPieI)
 - [Learn Awesome Gamedev](https://github.com/notpresident35/learn-awesome-gamedev)
 - [Tough times on the road to Starcraft (2012)](https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
+- [Adventure game graphics with DALL-E 2 (2022)](https://hpjansson.org/blag/2022/08/16/adventure-game-graphics-with-dall-e-2/) ([Lobsters](https://lobste.rs/s/wp9t0b/adventure_game_graphics_with_dall_e_2))

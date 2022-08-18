@@ -191,3 +191,4 @@
 - [Starter code for working with the YouTube-8M dataset](https://github.com/google/youtube-8m)
 - [BigLAM (Libraries, Archives and Museums)](https://github.com/bigscience-workshop/lam) - Open source, community resource of LAM datasets.
 - [Data Measurements Tool](https://github.com/huggingface/data-measurements-tool) - Developing tools to automatically analyze datasets.
+- [Cleanlab Vizzy](https://playground.cleanlab.ai/) - Learn how to automatically find label errors and out-of-distribution data. ([Lobsters](https://lobste.rs/s/eoz5gj/cleanlab_vizzy_learn_how_automatically))

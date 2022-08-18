@@ -407,3 +407,5 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Awesome Actor Model](https://github.com/GetTech-io/awesome-actor)
 - [Roc](https://github.com/roc-lang/roc) - Language for making delightful software.
 - [KavaScript](https://github.com/maximecb/kavascript) - Minimalistic dynamically-typed programming language for didactic purposes.
+- [Peacock | Bind Patterns](https://marcellerusu.com/blog/peacock-bind-patterns) ([Lobsters](https://lobste.rs/s/aaxyc0/peacock_bind_patterns))
+- [Jank](https://jank-lang.org/) - Clojure/LLVM/Gradual Typing language. ([Code](https://github.com/jank-lang/jank)) ([Lobsters](https://lobste.rs/s/jhtyx6/jank_programming_language_clojure_llvm))

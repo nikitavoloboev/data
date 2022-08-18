@@ -31,3 +31,4 @@ title: WebKit
 - [News from WWDC22: WebKit Features in Safari 16 Beta](https://webkit.org/blog/12824/news-from-wwdc-webkit-features-in-safari-16-beta/) ([HN](https://news.ycombinator.com/item?id=31644622))
 - [WebKit's positions on emerging web specifications](https://github.com/WebKit/standards-positions)
 - [Understanding GC in JSC From Scratch (2022)](https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/) ([HN](https://news.ycombinator.com/item?id=32279867))
+- [Using :has() as a CSS Parent Selector and much more (2022)](https://webkit.org/blog/13096/css-has-pseudo-class/)

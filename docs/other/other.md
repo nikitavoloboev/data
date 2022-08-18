@@ -665,3 +665,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Novo Nexus](https://nexus.novo.tv/) - Free resource for content creators to get quality sponsorships. ([Tweet](https://twitter.com/DevinNash/status/1559226780799668224))
 - [Serendipity](https://www.jewelrybyserendipity.com/) - Crystal Jewelry made with a touch of magic.
 - [Bleeding Heart Ring](https://www.jewelrybyserendipity.com/collections/rings/products/garnet-heart)
+- [List of Physical Visualizations and Related Artifacts](http://dataphys.org/list/)

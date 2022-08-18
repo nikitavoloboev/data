@@ -258,3 +258,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [minisearch](https://github.com/toastdriven/minisearch) - Tiny search engine. Suitable for in-browser use, this provides n-gram based, English search results.
 - [Spreading vectors for similarity search](https://github.com/facebookresearch/spreadingvectors)
 - [Course catalog with extremely fast full-text search](https://github.com/ekzhang/classes.wtf)
+- [How codesearch.ai works - Sourcegraph](https://sourcegraph.com/notebooks/Tm90ZWJvb2s6MTU1OQ==)
