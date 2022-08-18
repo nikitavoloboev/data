@@ -129,3 +129,4 @@ title: BitTorrent
 - [WebTorrent Hybrid](https://github.com/webtorrent/webtorrent-hybrid) - Streaming torrent client (with WebRTC support in Node.js).
 - [VueTorrent](https://github.com/WDaan/VueTorrent) - Sleekest looking WEBUI for qBittorrent made with VueJS.
 - [rqbit](https://github.com/ikatson/rqbit) - BitTorrent client in Rust.
+- [Tornado](https://github.com/fraidev/tornado) - BitTorrent client written entirely in OCaml.
