@@ -155,6 +155,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Readng](https://readng.co/)
 - [OpenAI](https://openai.com/)
 - [Zoox](https://zoox.com/)
+- [Figura](https://www.figura.digital/)
 - [Mission Luna](https://www.missionluna.ru/)
 - [Jam](https://jamshelf.com/)
 - [Noor](https://usenoor.com/)

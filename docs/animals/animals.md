@@ -142,3 +142,4 @@ I love all animals. And I am sad that some people decide to eat them and not [le
 - [I'm making drugs for cats (2022)](https://trevorklee.substack.com/p/why-im-now-making-drugs-for-cats) ([HN](https://news.ycombinator.com/item?id=31766285))
 - [Terra Mater - YouTube](https://www.youtube.com/c/TerraMaterOfficial)
 - [Inside the brains of aging dogs (2022)](https://knowablemagazine.org/article/health-disease/2022/inside-brains-aging-dogs)
+- [Pet Nutritionist Ranks Dog Foods | Tier List](https://www.youtube.com/watch?v=Ekx6WGBFVak&t=3s)

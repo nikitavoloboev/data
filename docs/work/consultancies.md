@@ -87,6 +87,7 @@
 - [Econify](https://www.econify.com/) ([GitHub](https://github.com/Econify))
 - [Monopo London](https://monopo.london/) - Tokyo-born design-driven creative agency.
 - [Nimble](https://nimblehq.co/) - Mobile Application & Web Software Development Company.
+- [Figura](https://www.figura.digital/) - Scalable product design for fast growing tech startups.
 
 ## DB
 

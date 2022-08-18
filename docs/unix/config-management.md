@@ -68,3 +68,4 @@
 - [quickenv](https://github.com/untitaker/quickenv) - Unintrusive environment manager.
 - [Cue](https://github.com/cue-lang/cue) - Validate and define text-based and dynamic configuration. ([Web](https://cuelang.org/)) ([Cuetorials](https://cuetorials.com/)) ([Playground](https://cuelang.org/play/)) ([How CUE Wins (2021)](https://blog.cedriccharly.com/post/20210523-how-cue-wins/)) ([HN](https://news.ycombinator.com/item?id=28915655)) ([Tweet](https://twitter.com/mattklein123/status/1508945951192363008)) ([Cue LSP](https://github.com/dagger/cuelsp))
 - [Envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from Hashicorp Consul and Vault.
+- [Why We Switched from YAML to TypeScript for Our Configuration (2022)](https://stellate.co/blog/moving-from-yaml-to-typescript)

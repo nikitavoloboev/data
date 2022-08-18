@@ -129,3 +129,4 @@ I liked [this article](https://sabrinajewson.org/blog/building-this-site) on bui
 - [A tiny Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website) ([HN](https://news.ycombinator.com/item?id=31003395))
 - [Building a static site with Rust guide (2022)](https://sabrinajewson.org/blog/building-this-site)
 - [Smaller Static Sites with New Formats (2022)](https://hypirion.com/musings/smaller-static-sites-with-new-formats) ([Lobsters](https://lobste.rs/s/ufd2p4/smaller_static_sites_with_new_formats))
+- [Flamethrower](https://github.com/fireship-io/flamethrower) - Blazingly fast router for static sites.
