@@ -255,3 +255,5 @@ Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432
 - [Docker and the OCI container ecosystem (2022)](https://lwn.net/SubscriberLink/902049/374614a66c0367f3/)
 - [Modus](https://github.com/modus-continens/modus) - Language for building Docker/OCI container images. ([Web](https://modus-continens.com/))
 - [Docker Python SDK](https://github.com/docker/docker-py)
+- [Docker Compose best practices for dev and prod (2022)](https://prod.releasehub.com/blog/6-docker-compose-best-practices-for-dev-and-prod) ([HN](https://news.ycombinator.com/item?id=32484008))
+- [When docker images stop being portable (2022)](https://mental-reverb.com/blog.php?id=37)

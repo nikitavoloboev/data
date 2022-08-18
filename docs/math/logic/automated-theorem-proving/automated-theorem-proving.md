@@ -34,3 +34,4 @@ title: Automated theorem proving
 - [homotopy-rs](https://github.com/homotopy-io/homotopy-rs) - Proof assistant allows the construction of composite morphisms in a finitely-generated semistrict n-category, via a point-and-click user interface.
 - [Proof Assistant Demos](https://github.com/tlringer/proof-demos)
 - [Incredible Proof Machine](https://github.com/nomeata/incredible) - Non-textual interactive theorem prover. ([Web](http://incredible.pm/))
+- [The future of interactive theorem proving? (2022)](https://xenaproject.wordpress.com/2022/08/16/the-future-of-interactive-theorem-proving/) ([HN](https://news.ycombinator.com/item?id=32489099))

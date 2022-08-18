@@ -682,3 +682,5 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [core-dts](https://github.com/Kingwl/core-dts) - TypeScript will support all proposals above stage-3.
 - [git-publish](https://github.com/privatenumber/git-publish) - Publish your npm package to a Git branch.
 - [Tanu](https://github.com/ariesclark/tanu.js) - Simplified abstraction of the TypeScript Compiler API for defining and generating source files.
+- [Transformer](https://transformer-five.vercel.app/) - Takes an input (ex: TS) and ouputs to destination format (ex: Zod/JSON/Open API Schemas). ([Code](https://github.com/astahmer/transformer))
+- [OpenAPI Zod Client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript HTTP client with Zod validation) from a (JSON/YAML) OpenAPI spec.

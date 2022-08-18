@@ -120,3 +120,5 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Introducing SolidStart w/ Nikhil Saraf (2022)](https://www.youtube.com/watch?v=eAwuPvRXNdY)
 - [Solid Toast](https://github.com/ardeora/solid-toast) - Customizable Toast Notifications for SolidJS.
 - [Solid-Query](https://github.com/ardeora/solid-query) - Tanstack Query Adapter For Solid JS.
+- [Solid Jest](https://github.com/solidjs/solid-jest) - Jest preset for SolidJS.
+- [Solid Testing Library](https://github.com/solidjs/solid-testing-library) - Simple and complete Solid testing utilities that encourage good testing practices.

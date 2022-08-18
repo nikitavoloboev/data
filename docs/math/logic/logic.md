@@ -87,3 +87,4 @@
 - [Reconfigurable Asynchronous Logic Automata](https://cba.mit.edu/docs/papers/09.11.POPL.pdf)
 - [KalkulierbaR](https://kbar.app/) - Learning Framework for Logic Calculi. ([Code](https://github.com/KalkulierbaR/kalkulierbar))
 - [Confusion in the Church-Turing Thesis (2014)](https://arxiv.org/abs/1410.7103) ([Lobsters](https://lobste.rs/s/cnqdvf/confusion_church_turing_thesis))
+- [ABC: System for Sequential Logic Synthesis and Formal Verification](https://github.com/berkeley-abc/abc)

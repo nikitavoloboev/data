@@ -559,3 +559,5 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Validating PostgreSQL results and inferring query static types (2022)](https://contra.com/p/gkOQlbLq-validating-postgre-sql-results-and-inferring-query-static-types)
 - [Postgres Performance Monitoring: Best Practices and Tools to Use (2022)](https://hydras.io/blog/2022-08-08-postgres-performance-monitoring-best-practices-and-tools)
 - [Improving Postgres text search speed](https://www.charityapi.org/post/improving-postgres-text-search-speed-7x-on-millions-of-records) ([HN](https://news.ycombinator.com/item?id=32445780))
+- [Postgres Tutorials | Crunchy Data](https://www.crunchydata.com/developers/tutorials)
+- [Learn Postgres at the Playground – Postgres compiled to WASM running in browser](https://www.crunchydata.com/blog/learn-postgres-at-the-playground) ([HN](https://news.ycombinator.com/item?id=32498435)) ([Tweet](https://twitter.com/simonw/status/1559938364089937920))

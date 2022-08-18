@@ -274,3 +274,4 @@
 - [Federation vs. Clustering: Self-determination vs. distributed computing? (2022)](https://sequentialread.com/federation-vs-clustering-self-hosting/)
 - [Ask HN: Why are distributed systems so polarizing? (2022)](https://news.ycombinator.com/item?id=32439601)
 - [Surviving Continuous Deployment in Distributed Systems (2021)](https://oooops.dev/2021/07/30/surviving-continuous-deployment-in-distributed-systems/)
+- [Raft Consensus Animated](https://thesecretlivesofdata.com/raft/) ([HN](https://news.ycombinator.com/item?id=32484584))

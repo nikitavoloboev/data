@@ -102,3 +102,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [How I would sell OpenBSD as a salesperson (2022)](https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html) ([HN](https://news.ycombinator.com/item?id=31839692))
 - [Porting OpenBSD pledge() to Linux (2022)](https://justine.lol/pledge/) ([Lobsters](https://lobste.rs/s/rnjdx8/porting_openbsd_pledge_linux)) ([HN](https://news.ycombinator.com/item?id=32096801))
 - [Things to Do After Installing FreeBSD (2022)](https://bastillebsd.org/blog/2022/07/14/ten-things-to-do-after-installing-freebsd/) ([HN](https://news.ycombinator.com/item?id=32301066))
+- [ravynOS](https://ravynos.com/) - Finesse of macOS. Freedom of FreeBSD. ([HN](https://news.ycombinator.com/item?id=32492514))

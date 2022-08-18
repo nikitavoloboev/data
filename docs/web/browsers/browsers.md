@@ -248,3 +248,4 @@ Use this [Solid/Vite](https://github.com/fuyutarow/solid-chrome-extension-templa
 - [Vimkey](https://github.com/Haojen/vimkey) - Browser extension, use keyboard control browser jumps, scrolling, switching tabs and more.
 - [Rocketride.io](https://www.rocketride.io/) - Browser automation tool. ([HN](https://news.ycombinator.com/item?id=32352291))
 - [Playwright WebExt](https://github.com/ueokande/playwright-webextext) - Playwright extensions for testing WebExtensions.
+- [Why are bookmarks second class citizens in browsers? (2022)](https://news.ycombinator.com/item?id=32505314)

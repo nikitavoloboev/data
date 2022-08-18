@@ -11,3 +11,4 @@ title: Tailscale
 - [ionscale](https://github.com/jsiebens/ionscale) - Lightweight implementation of a Tailscale control server.
 - [Tailscale ate my network (and I love it) (2022)](https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html) ([HN](https://news.ycombinator.com/item?id=31955970))
 - [Tailscale extension for Docker Desktop launches at DockerCon (2022)](https://tailscale.com/blog/docker/)
+- [Putting Tailscale on the Steam Deck (2022)](https://tailscale.com/blog/steam-deck/) ([HN](https://news.ycombinator.com/item?id=32490736))

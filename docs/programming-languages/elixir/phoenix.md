@@ -102,3 +102,4 @@ title: Phoenix framework
 - [Rummage.Phoenix](https://github.com/annkissam/rummage_phoenix) - Support framework for Phoenix that can be used to manipulate Phoenix collections and Ecto models with Search, Sort and Paginate operations.
 - [How LiveView Took on a Life of Its Own (2022)](https://fly.io/blog/liveview-its-alive/)
 - [PhxLiveStorybook](https://github.com/phenixdigital/phx_live_storybook) - Pluggable storybook for your LiveView components.
+- [Triggering a Phoenix controller action from a form in a LiveView (2022)](https://fly.io/phoenix-files/phx-trigger-action/)

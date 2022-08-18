@@ -61,3 +61,4 @@ I wish there were more electric superchargers in EU.
 - [Ask HN: Is the adoption of electric cars too fast to be sustained? (2022)](https://news.ycombinator.com/item?id=32390789)
 - [Build your own EV charging solution](https://www.chargelab.co/developer-program) ([HN](https://news.ycombinator.com/item?id=32431881))
 - [How I Hacked my Car (2022)](https://programmingwithstyle.com/posts/howihackedmycar/) ([HN](https://news.ycombinator.com/item?id=32447650))
+- [Prometheus: Fuel from the Air](https://prometheusfuels.com/technology) ([HN](https://news.ycombinator.com/item?id=32487430))

@@ -2108,6 +2108,7 @@
 - [vec1](https://github.com/rustonaut/vec1) - Rust `Vec<T>` wrapper that gurantees to contain at least 1 element.
 - [StackFuture](https://github.com/microsoft/stackfuture) - Wrapper around Rust futures that stores the future in space provided by the caller.
 - [Fcode](https://github.com/tijsvd/fcode) - Binary format for Rust / serde that supports schema evolution.
+- [concurrent-queue](https://github.com/smol-rs/concurrent-queue) - Concurrent multi-producer multi-consumer queue.
 
 ## Cargo Plugins
 

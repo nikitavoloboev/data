@@ -392,3 +392,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [How to look up a Nix package's Nix store path from flake inputs (2022)](https://xeiaso.net/blog/nix-flakes-look-up-package)
 - [Our roadmap for Nix (2022)](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/) ([Lobsters](https://lobste.rs/s/ejdlej/our_roadmap_for_nix)) ([HN](https://news.ycombinator.com/item?id=32374113))
 - [nix-linux](https://github.com/nspin/nix-linux) - Framework for configuring and building Linux and U-Boot using Nixpkgs.
+- [Domen Kožar - Nix Is Going Mainstream (2022)](https://youtu.be/WuWZqSSoLxY?t=875)

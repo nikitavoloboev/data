@@ -288,3 +288,4 @@ title: Svelte
 - [svelte-keyed](https://github.com/bryanmylee/svelte-keyed) - Writable derived store for objects and arrays.
 - [Sveltekit New Design. A Breaking Change](https://github.com/sveltejs/kit/discussions/5748)
 - [Rustle](https://github.com/pintariching/rustle) - Svelte compiler rewritten in Rust.
+- [SvelteKit: Semantic form actions, and easier progressive enhancement](https://github.com/sveltejs/kit/discussions/5875)

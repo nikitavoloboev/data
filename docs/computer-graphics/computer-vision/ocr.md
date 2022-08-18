@@ -43,3 +43,4 @@ title: Optical character recognition
 - [Our search for the best OCR tool (2019)](https://source.opennews.org/articles/so-many-ocr-options/) ([HN](https://news.ycombinator.com/item?id=32053525))
 - [Building an OCR solution for document analysis with AWS Textract and AWS StepFunctions](https://github.com/gabrieltorreswm/poc-pdf-textract)
 - [Donut](https://github.com/clovaai/donut) - Document Understanding Transformer.
+- [ocrpy](https://github.com/maxent-ai/ocrpy) - OCR, Archive, Index and Search: Implementation agnostic OCR framework.
