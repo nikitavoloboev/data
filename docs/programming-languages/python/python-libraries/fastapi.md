@@ -34,3 +34,4 @@ title: FastAPI
 - [FastAPI + PostgreSQL + JWT + Docker + Nginx template](https://github.com/m0kr4n3/fastapi_project_template)
 - [FastAPI Enclave Services](https://github.com/ObliviousAI/FastAPI-Enclave-Services)
 - [Cookiecutter FastAPI](https://github.com/Tobi-De/cookiecutter-fastapi) - Framework for jump starting production-ready FastAPI projects quickly.
+- [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) ([Reddit](https://www.reddit.com/r/Python/comments/wrt7om/fastapi_best_practices/))

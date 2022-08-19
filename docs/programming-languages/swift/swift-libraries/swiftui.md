@@ -247,3 +247,4 @@ title: SwiftUI
 - [Purposeful iOS Animations with SwiftUI](https://github.com/GetStream/purposeful-ios-animations)
 - [Keyboard](https://github.com/AudioKit/Keyboard) - SwiftUI music keyboard.
 - [Mastering grid layout in SwiftUI (2022)](https://swiftwithmajid.com/2022/08/10/mastering-grid-layout-in-swiftui/)
+- [Apple’s use of AppKit, Mac Catalyst and SwiftUI in macOS (2022)](https://blog.timac.org/2022/0818-state-of-appkit-catalyst-swiftui-mac/)

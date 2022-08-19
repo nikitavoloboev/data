@@ -143,6 +143,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Raycast](https://raycast.com/)
 - [Work Notes](https://worknotes.co.uk/)
 - [Aleo](https://aleo.org/)
+- [Readymag](https://readymag.com/)
 - [37 Signals](https://37signals.com/)
 - [Turborepo](https://turborepo.org/)
 - [Stacks](https://www.stacks.co/)

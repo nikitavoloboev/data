@@ -6,6 +6,10 @@ title: Planetscale
 
 > MySQL-compatible serverless database platform
 
+## OSS apps
+
+- [F1 Championship Stats](https://github.com/planetscale/f1-championship-stats)
+
 ## Links
 
 - [PlanetScale CLI](https://github.com/planetscale/cli) - Brings branches, deploy requests, and other PlanetScale concepts to your fingertips. ([Web](https://planetscale.com/cli))
@@ -25,3 +29,4 @@ title: Planetscale
 - [PlanetScale Portals: Read-only regions (2022)](https://planetscale.com/blog/introducing-planetscale-portals-read-only-regions) ([HN](https://news.ycombinator.com/item?id=31493881))
 - [ELT your data with PlanetScale Connect (2022)](https://planetscale.com/blog/extract-load-and-transform-your-data-with-planetscale-connect) ([HN](https://news.ycombinator.com/item?id=31507819))
 - [PlanetScale Insights: Advanced query monitoring (2022)](https://planetscale.com/blog/introducing-planetscale-insights-advanced-query-monitoring) ([HN](https://news.ycombinator.com/item?id=31519197))
+- [PlanetScale serverless driver for JavaScript](https://planetscale.com/blog/introducing-the-planetscale-serverless-driver-for-javascript) ([HN](https://news.ycombinator.com/item?id=32511577))

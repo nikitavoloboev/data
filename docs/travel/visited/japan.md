@@ -87,3 +87,4 @@
 - [UX based designs of Japan that makes life easier](https://twitter.com/richardker/status/1535570110114541569)
 - [sudachi.rs](https://github.com/WorksApplications/sudachi.rs) - Rust implementation of Sudachi, a Japanese morphological analyzer.
 - [Walking Tokyo for Seven Days](https://craigmod.com/ridgeline/146/) ([HN](https://news.ycombinator.com/item?id=32420980))
+- [How and why I built Japan Dev (2022)](https://japan-dev.com/blog/how-and-why-i-built-japan-dev) ([HN](https://news.ycombinator.com/item?id=32479731))

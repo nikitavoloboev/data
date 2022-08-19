@@ -21,3 +21,4 @@
 - [What do you wish you knew about digital nomads when you started?](https://www.reddit.com/r/digitalnomad/comments/u905el/what_do_you_wish_you_knew_when_you_started/)
 - [Share the biggest problem you face living as a digital nomad (2022)](https://www.reddit.com/r/digitalnomad/comments/uba7pn/share_the_biggest_problem_you_face_living_as_a/)
 - [Awesome Digital Nomads](https://github.com/cbovis/awesome-digital-nomads)
+- [Cheapest Places to Live, with Good Quality of Life? (2022)](https://www.reddit.com/r/ExpatFIRE/comments/ws1xf1/cheapest_places_to_live_with_good_quality_of_life/)

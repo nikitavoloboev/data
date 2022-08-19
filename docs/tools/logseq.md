@@ -39,3 +39,4 @@ title: Logseq
 - [Logseq Calendars](https://github.com/sawhney17/logseq-calendars-plugin)
 - [PDF Export](https://github.com/sawhney17/logseq-pdf-export) - Plugin to export the current page as your own custom styled PDF.
 - [Logseq Luma Theme](https://github.com/gavinmn/logseq-luma) - Minimal and detail oriented light and dark theme for Logseq.
+- [New website on logseq hugo (2022)](https://beta.briansunter.com/pages/new-website-on-logseq-hugo)

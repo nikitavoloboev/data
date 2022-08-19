@@ -410,3 +410,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Free Fake REST API. ([Code](https://github.com/typicode/jsonplaceholder))
 - [Zod to OpenAPI](https://github.com/asteasolutions/zod-to-openapi) - Library that generates OpenAPI (Swagger) docs from Zod schemas.
 - [Mokku](https://github.com/mukuljainx/Mokku) - Mock API calls seamlessly.
+- [Ask HN: Nested Resources in REST/HTTP API URLs? (2022)](https://news.ycombinator.com/item?id=32506784)

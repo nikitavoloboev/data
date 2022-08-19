@@ -122,3 +122,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Solid-Query](https://github.com/ardeora/solid-query) - Tanstack Query Adapter For Solid JS.
 - [Solid Jest](https://github.com/solidjs/solid-jest) - Jest preset for SolidJS.
 - [Solid Testing Library](https://github.com/solidjs/solid-testing-library) - Simple and complete Solid testing utilities that encourage good testing practices.
+- [Solid-Pebble](https://github.com/lxsmnsyc/solid-pebble) - State management library for SolidJS.

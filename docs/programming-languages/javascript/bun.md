@@ -28,3 +28,4 @@ title: Bun
 - [bnx](https://github.com/wobsoriano/bnx) - zx inspired shell for Bun/Node.
 - [Oily](https://github.com/ariesclark/oily.js) - Blazingly fast Bun.js filesystem router, with an unpleasantly smooth experience.
 - [PatchBay](https://github.com/harryrabin/bun-patchbay) - Modular, declarative web framework for Bun.
+- [Jarred Sumner - Bun (2022)](https://www.youtube.com/watch?v=1kP5YgeDj00)
