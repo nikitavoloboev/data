@@ -106,3 +106,4 @@
 - [Remote Runner](https://github.com/philschmid/deep-learning-remote-runner) - Easy pythonic way to migrate your python training scripts from a local environment to a powerful cloud-backed instance.
 - [BMList](https://github.com/OpenBMB/BMList) - List of big pre-trained models (GPT-3, DALL-E2...).
 - [ModelBox](https://github.com/diptanu/modelbox) - Extensible machine learning model store and model transformation and distribution service.
+- [Run Stable Diffusion on Your M1 Mac’s GPU (2022)](https://replicate.com/blog/run-stable-diffusion-on-m1-mac) ([HN](https://news.ycombinator.com/item?id=32678664))

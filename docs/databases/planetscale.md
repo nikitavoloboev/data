@@ -30,3 +30,4 @@ title: Planetscale
 - [ELT your data with PlanetScale Connect (2022)](https://planetscale.com/blog/extract-load-and-transform-your-data-with-planetscale-connect) ([HN](https://news.ycombinator.com/item?id=31507819))
 - [PlanetScale Insights: Advanced query monitoring (2022)](https://planetscale.com/blog/introducing-planetscale-insights-advanced-query-monitoring) ([HN](https://news.ycombinator.com/item?id=31519197))
 - [PlanetScale serverless driver for JavaScript](https://planetscale.com/blog/introducing-the-planetscale-serverless-driver-for-javascript) ([HN](https://news.ycombinator.com/item?id=32511577))
+- [One million queries per second with MySQL (2022)](https://planetscale.com/blog/one-million-queries-per-second-with-mysql) ([HN](https://news.ycombinator.com/item?id=32680957))

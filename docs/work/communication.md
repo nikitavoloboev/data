@@ -202,3 +202,4 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [Changing scientific meetings for the better (2021)](https://www.nature.com/articles/s41562-021-01067-y)
 - [CannedTXT](https://cannedtxt.com/) - Business and personal canned responses examples to speed up your communication.
 - [Ideas for better 1 on 1's](https://twitter.com/swyx/status/1559268799840489476)
+- [Be good-argument-driven, not data-driven (2022)](http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html) ([HN](https://news.ycombinator.com/item?id=32651763))
