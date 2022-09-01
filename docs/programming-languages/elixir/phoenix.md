@@ -103,3 +103,4 @@ title: Phoenix framework
 - [How LiveView Took on a Life of Its Own (2022)](https://fly.io/blog/liveview-its-alive/)
 - [PhxLiveStorybook](https://github.com/phenixdigital/phx_live_storybook) - Pluggable storybook for your LiveView components.
 - [Triggering a Phoenix controller action from a form in a LiveView (2022)](https://fly.io/phoenix-files/phx-trigger-action/)
+- [Ask HN: So, what's up with Phoenix (web framework)? (2022)](https://news.ycombinator.com/item?id=32530203)

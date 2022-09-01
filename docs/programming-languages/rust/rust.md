@@ -868,3 +868,4 @@ title: Rust
 - [Rust 1.63 (2022)](https://blog.rust-lang.org/2022/08/11/Rust-1.63.0.html) ([HN](https://news.ycombinator.com/item?id=32426835)) ([Lobsters](https://lobste.rs/s/djx0ns/announcing_rust_1_63_0))
 - [Rust in Perspective (2022)](https://people.kernel.org/linusw/rust-in-perspective) ([Reddit](https://www.reddit.com/r/rust/comments/wpbe80/rust_in_perspective/))
 - [Comparing Rust's and C++'s Concurrency Library (2022)](https://blog.m-ou.se/rust-cpp-concurrency/)
+- [Gotchas and warts in Rust Lang](https://github.com/QuineDot/rust-snags) ([Lobsters](https://lobste.rs/s/jbcnup/quinedot_rust_snags_gotchas_warts_rust))

@@ -252,6 +252,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 ## Personal pages
 
 - [Brandur](https://brandur.org) - Amazingly clean website with an even more [awesome blog](https://brandur.org/interfaces#themware). The TOC and the persistent options on the left are incredible. ([Code](https://github.com/brandur/sorg))
+- [Sean Halpin](https://www.seanhalpin.design/)
 - [Phil Pluckthun](https://kitten.sh/) ([Code](https://github.com/kitten/kitten.sh))
 - [James Clements](https://jm.sv/)
 - [Xetera](https://xetera.dev/) ([Code](https://github.com/xetera/xetera.dev))

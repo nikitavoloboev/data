@@ -136,3 +136,4 @@ title: Zig
 - [Some Thoughts on Zig (2022)](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/) ([HN](https://news.ycombinator.com/item?id=32187626))
 - [Makin' wavs with Zig (2022)](https://blog.jfo.click/makin-wavs-with-zig/) ([Lobsters](https://lobste.rs/s/3zhmel/makin_wavs_with_zig))
 - [Running Zig with WASI on Cloudflare Workers (2022)](https://blog.cloudflare.com/running-zig-with-wasi-on-cloudflare-workers/) ([HN](https://news.ycombinator.com/item?id=32306281))
+- [Self Hosted Compiler Upgrade Guide](https://github.com/ziglang/zig/wiki/Self-Hosted-Compiler-Upgrade-Guide) ([Tweet](https://twitter.com/jarredsumner/status/1561530019674857472))

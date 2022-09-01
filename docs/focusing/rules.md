@@ -95,6 +95,7 @@
 - Add screenshots/screencasts where appropriate. Take accessibility into account (good visibility of text).
 - Clear my thinking and journal. Look back on the day and plan the next.
 - Keep my writing & thinking (especially the wiki) up to date with my latest view on things. Things/opinions change, update accordingly.
+- Write in my journal often and routinely. Either as day evaluations or whenever something interesting happens in my life. Focus on how it made me feel and how influences my life.
 
 ## Tools
 
@@ -354,3 +355,7 @@
 ## NextJS
 
 - Lowercase files for pages. CamelCase components & files.
+
+## Other
+
+- Keep water/beverages that can possibly be spilled away from mac. Once had my dog trip a charging wire that then spilled tea kettle on my mac and broke keyboard.

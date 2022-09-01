@@ -643,3 +643,4 @@
 - [Spent $15 in DALL·E 2 credits creating this AI image (2022)](https://pub.towardsai.net/i-spent-15-in-dall-e-2-credits-creating-this-ai-image-and-heres-what-i-learned-52f352912025) ([HN](https://news.ycombinator.com/item?id=32428583))
 - [Phraser](https://phraser.tech/) - Better way to generate prompts.
 - [Seminar on Large Language Models (2022)](https://github.com/craffel/llm-seminar)
+- [Stable Diffusion Public Release (2022)](https://stability.ai/blog/stable-diffusion-public-release) ([HN](https://news.ycombinator.com/item?id=32555028))

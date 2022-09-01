@@ -202,3 +202,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Superblocks](https://www.superblocks.com/) - IDE for Internal Apps, APIs and Cron Jobs. ([HN](https://news.ycombinator.com/item?id=32344671))
 - [Multy](https://github.com/multycloud/multy) - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds. ([Web](https://multy.dev/))
 - [Who's NOT using Kubernetes these days and want to share their exciting bit/tooling? (2022)](https://www.reddit.com/r/devops/comments/wjxy0q/whos_not_using_kubernetes_these_days_and_want_to/)
+- [Developers, please nurture your coding experience](https://aymericbeaumet.com/developers-please-nurture-your-coding-experience)

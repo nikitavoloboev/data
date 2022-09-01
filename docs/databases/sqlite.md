@@ -238,3 +238,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [SQLite store for node cache manager](https://github.com/maxpert/node-cache-manager-sqlite)
 - [How SQLite Helps You Do ACID (2022)](https://fly.io/blog/sqlite-internals-rollback-journal/) ([HN](https://news.ycombinator.com/item?id=32412905))
 - [SQLite-HTTP](https://github.com/asg017/sqlite-http) - SQLite extension for making HTTP requests. ([Article](https://observablehq.com/@asg017/introducing-sqlite-http)) ([HN](https://news.ycombinator.com/item?id=32417410))
+- [Turning SQLite into a distributed database (2022)](https://univalence.me/posts/mvsqlite) ([HN](https://news.ycombinator.com/item?id=32539360))

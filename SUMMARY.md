@@ -986,3 +986,4 @@
     - [2022 May](docs/looking-back/2022/2022-may.md)
     - [2022 June](docs/looking-back/2022/2022-june.md)
     - [2022 July](docs/looking-back/2022/2022-july.md)
+    - [2022 August](docs/looking-back/2022/2022-august.md)

@@ -20,7 +20,7 @@ title: My GitHub
 
 ## Personal
 
-- [Learning (2019)](https://github.com/nikitavoloboev/learning) - Learn by building.
+- [Code (2019)](https://github.com/nikitavoloboev/code) - Trying new things.
 - [CV (2018)](https://github.com/nikitavoloboev/cv) - My CV.
 - [Knowledge (2017)](https://github.com/nikitavoloboev/knowledge) - Everything I know.
 - [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev) - My personal home on the internet.

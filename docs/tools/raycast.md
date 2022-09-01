@@ -31,3 +31,4 @@ Looking into building plugins for Raycast to compare it to [Alfred](../macOS/app
 - [Build a Raycast Extension with TypeScript & React (2022)](https://www.youtube.com/watch?v=Hmk1c6jIUGY)
 - [react-query meets Raycast](https://github.com/thomaspaulmann/raycast-react-query)
 - [Raycast New Grid API (2022)](https://www.youtube.com/watch?v=oSZ4ovsWxmU)
+- [Building Raycast extensions with Thomas Paul Mann (2022)](https://www.youtube.com/watch?v=dgyuttjX1oo)

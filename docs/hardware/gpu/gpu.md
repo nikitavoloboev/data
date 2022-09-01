@@ -117,3 +117,4 @@ title: GPU
 - [TensorDock Core GPU Cloud](https://www.tensordock.com/product-core) - GPU servers from $0.29/hr. ([HN](https://news.ycombinator.com/item?id=32269722))
 - [Vector graphics on GPU](https://gasiulis.name/vector-graphics-on-gpu/)
 - [Inlyne](https://github.com/trimental/inlyne) - GPU powered, browserless, markdown + HTML viewer.
+- [The GPU Banana Stand (2022)](https://acko.net/blog/the-gpu-banana-stand/)
