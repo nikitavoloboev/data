@@ -528,3 +528,5 @@ for i, _ in enumerate(nums):
 - [Erg](https://github.com/erg-lang/erg) - Python compatible statically typed language.
 - [MVPy: Minimum Viable Python](https://snarky.ca/mvpy-minimum-viable-python/) ([Lobsters](https://lobste.rs/s/aihsd2/mvpy_minimum_viable_python))
 - [Blackd-Client](https://github.com/disrupted/blackd-client) - Blazing fast Python code formatting using Black.
+- [You Should Be Using Python's Walrus Operator (2022)](https://martinheinz.dev/blog/79) ([Lobsters](https://lobste.rs/s/0ipjdk/you_should_be_using_python_s_walrus))
+- [ruff](https://github.com/charliermarsh/ruff) - Extremely fast Python linter, written in Rust. ([Lobsters](https://lobste.rs/s/xjl3rd/ruff_extremely_fast_python_linter))
