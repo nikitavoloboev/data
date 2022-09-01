@@ -77,3 +77,4 @@ title: Android
 - [Публичное собеседование на позицию Android-разработчика (2022)](https://www.youtube.com/watch?v=XwfWaI97Ikw)
 - [Ask HN: Expert Advices for New Learners in Android Kotlin Development? (2022)](https://news.ycombinator.com/item?id=32375609)
 - [Review of /e/ – Android-based alternative for mobile phones (2022)](https://thenewleafjournal.com/review-of-e-an-android-alternative-for-mobile-phones/) ([HN](https://news.ycombinator.com/item?id=32414215))
+- [Maestro](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation.

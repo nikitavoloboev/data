@@ -644,3 +644,4 @@
 - [Phraser](https://phraser.tech/) - Better way to generate prompts.
 - [Seminar on Large Language Models (2022)](https://github.com/craffel/llm-seminar)
 - [Stable Diffusion Public Release (2022)](https://stability.ai/blog/stable-diffusion-public-release) ([HN](https://news.ycombinator.com/item?id=32555028))
+- [DocQuery](https://github.com/impira/docquery) - Document Query Engine Powered by NLP.

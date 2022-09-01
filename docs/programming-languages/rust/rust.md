@@ -869,3 +869,4 @@ title: Rust
 - [Rust in Perspective (2022)](https://people.kernel.org/linusw/rust-in-perspective) ([Reddit](https://www.reddit.com/r/rust/comments/wpbe80/rust_in_perspective/))
 - [Comparing Rust's and C++'s Concurrency Library (2022)](https://blog.m-ou.se/rust-cpp-concurrency/)
 - [Gotchas and warts in Rust Lang](https://github.com/QuineDot/rust-snags) ([Lobsters](https://lobste.rs/s/jbcnup/quinedot_rust_snags_gotchas_warts_rust))
+- [WASM demo of rust-analyzer](https://github.com/rust-analyzer/rust-analyzer-wasm)

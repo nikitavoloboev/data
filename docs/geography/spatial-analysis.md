@@ -243,3 +243,4 @@ title: Spatial analysis
 - [Rasterio](https://github.com/rasterio/rasterio) - Reads and writes geospatial raster datasets.
 - [regionmask](https://github.com/regionmask/regionmask) - Plotting and creation of masks of spatial regions.
 - [How to design a beautiful map (2022)](https://felt.com/blog/how-to-design-a-beautiful-map)
+- [Headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.

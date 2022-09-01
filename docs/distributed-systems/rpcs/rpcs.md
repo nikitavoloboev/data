@@ -56,3 +56,4 @@ title: Remote Procedure Calls
 - [gnmic](https://github.com/karimra/gnmic) - gNMI CLI client that provides full support for Capabilities, Get, Set and Subscribe RPCs with collector capabilities.
 - [starpc](https://github.com/paralin/starpc) - Streaming Protobuf RPC services over any two-way message channel.
 - [TwirpScript](https://github.com/tatethurston/TwirpScript) - Protobuf RPC framework for JavaScript and TypeScript.
+- [Volo](https://github.com/cloudwego/volo) - High-performance and strong-extensibility Rust RPC framework that helps developers build microservices.

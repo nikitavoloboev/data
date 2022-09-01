@@ -14,6 +14,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [teacup](https://github.com/knipferrc/teacup) - Collection of bubbles and utilities for bubbletea applications.
 - [Lip Gloss](https://github.com/charmbracelet/lipgloss) - CSS-like layout library for the terminal for Go.
 - [BubbleZone](https://github.com/lrstanley/bubblezone) - Helper utility for BubbleTea, allowing easy mouse event tracking.
+- [catwalk](https://github.com/knz/catwalk) - Unit test library for Bubbletea TUI models.
 - [Table](https://github.com/calyptia/go-bubble-table) - TUI table component for Bubble Tea applications.
 - [Stickers](https://github.com/76creates/stickers) - Collection of TUI elements, FlexBox and Table at the moment, its build for bubbletea using lipgloss.
 - [cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go.

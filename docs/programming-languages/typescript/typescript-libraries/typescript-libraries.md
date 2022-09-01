@@ -74,6 +74,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Sunmao](https://github.com/smartxworks/sunmao-ui) - Framework for Developing Low-code Tool.
 - [waystone](https://github.com/lxsmnsyc/waystone) - MPAs that feels like SPAs.
 - [Axentix](https://github.com/axentix/axentix) - Framework mixing fully customizable components and utility-first classes, leaving the design choice to the developer. ([Web](https://useaxentix.com/))
+- [Query Key Factory](https://github.com/lukemorales/query-key-factory) - Typesafe query key management for @tanstack/query with auto-completion features.
 
 ## GraphQL
 
@@ -595,6 +596,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [npx-import](https://github.com/geelen/npx-import) - Runtime dependencies, installed as if by magic.
 - [client-zip](https://github.com/Touffy/client-zip) - Concatenates multiple files (e.g. from multiple HTTP requests) into a single ZIP, in the browser.
 - [Async-Mutex](https://github.com/DirtyHairy/async-mutex) - Mutex for synchronizing async workflows in JavaScript.
+- [tinybench](https://github.com/tinylibs/tinybench) - Simple, tiny and lightweight benchmarking library.
 
 ## Links
 

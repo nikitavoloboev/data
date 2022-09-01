@@ -120,3 +120,4 @@ title: Electrical engineering
 - [PyCircTools](https://github.com/LovetheFrogs/PyCircTools) - Build digital circuits using Python.
 - [HN: Electrical engineers on the brink of extinction threaten entire tech ecosystems (2022)](https://news.ycombinator.com/item?id=32142711)
 - [Logisim](http://www.cburch.com/logisim/) - Graphical Tool for Designing and Simulating Digital Logic Circuits. ([HN](https://news.ycombinator.com/item?id=32270149))
+- [Gatery](https://github.com/synogate/gatery) - Library for circuit design.

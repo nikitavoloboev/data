@@ -1004,6 +1004,7 @@
 - [Buffer for Array](https://github.com/holepunchto/b4a) - Bridging the gap between buffers and typed arrays.
 - [joycon](https://github.com/egoist/joycon) - Find and load config files with joy.
 - [SAT.js](https://github.com/jriecken/sat-js) - Simple JavaScript library for performing 2D collision detection.
+- [Cookie Consent](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla JS.
 
 ## Links
 
@@ -1088,3 +1089,4 @@
 - [sigstore-js](https://github.com/github/sigstore-js) - Code-signing for npm packages.
 - [source-map-diff](https://github.com/dylang/source-map-diff) - Compare source maps with cli and web output.
 - [npminstall](https://github.com/cnpm/npminstall) - Make `npm install` fast and easy.
+- [Modern Guide to Packaging your JavaScript library](https://github.com/frehner/modern-guide-to-packaging-js-library)

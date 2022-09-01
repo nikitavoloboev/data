@@ -285,6 +285,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Szymon Kaliski](https://szymonkaliski.com/)
 - [Ajay](https://ajayns.me/)
 - [マリウス](https://xn--gckvb8fzb.com/)
+- [Raphael Ameaume](https://raphaelameaume.com/)
 - [Maksim Stepanenko](http://maksim.ms/)
 - [Lee Robinson](https://leerob.io/) ([Code](https://github.com/leerob/leerob.io))
 - [Alex Holachek](https://alex.holachek.com/) ([Code](https://github.com/aholachek/aholachek.github.io))
