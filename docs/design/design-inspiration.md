@@ -989,6 +989,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Little & Big](https://www.littleandbig.com.au/) - Design studio.
 - [Bustle](https://www.bustle.com/uk) - Fast.
 - [Gikken](https://gikken.co/) - Amazing iOS & macOS software.
+- [milo](https://milo.adobe.com/)
 
 ## Pages
 
@@ -1027,3 +1028,4 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Best designed website you’ve come across recently (2022)](https://twitter.com/UltraLinx/status/1532766084457177088)
 - [Emil's favorite site designs](https://emilkowal.ski/design)
 - [Web Avant-gardes](https://github.com/boardens/web-avant-gardes) - Collection of experimental, radical, or unorthodox websites.
+- [Creative web layouts](https://twitter.com/fritzisonline/status/1565974664463073280)

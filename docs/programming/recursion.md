@@ -23,3 +23,4 @@
 - [Program Reduction: A Win for Recursion Schemes (2018)](http://newartisans.com/2018/04/win-for-recursion-schemes/)
 - [Recursion is recursion is recursion is... (2021)](https://www.abhinavomprakash.com/posts/recursion/)
 - [Generic Recursion Applied to Algebraic Graphs (2022)](https://aneksteind.github.io/posts/2022-07-31.html)
+- [More recursive definitions (2022)](https://www.joachim-breitner.de/blog/792-More_recursive_definitions) ([Tweet](https://twitter.com/nomeata/status/1566063939762458625))

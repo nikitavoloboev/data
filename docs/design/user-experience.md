@@ -196,3 +196,4 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [Instagram gets worse with dark patterns lifted from TikTok (2022)](https://techcrunch.com/2022/07/25/instagram-gets-worse-with-dark-patterns-lifted-from-tiktok/) ([HN](https://news.ycombinator.com/item?id=32233415))
 - [Ridd - YouTube](https://www.youtube.com/c/MichaelRiddering/videos)
 - [Awesome Command Palette](https://github.com/stefanjudis/awesome-command-palette)
+- [Designing undo/redo well](https://twitter.com/steveruizok/status/1566142910546038784)

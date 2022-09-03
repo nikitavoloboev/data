@@ -455,3 +455,4 @@ Awesome List
 - [Ask HN: How do you work with Dependabot? (2022)](https://news.ycombinator.com/item?id=32436316)
 - [Small script to scrub your GitHub](https://gist.github.com/lf94/d8e7d11a24ddad8315d28741e6d6bf2e)
 - [Embed Like Gist](https://emgithub.com/) - Embed a file from GitHub repository just like GitHub Gist. ([Code](https://github.com/yusanshi/emgithub))
+- [Linear to GitHub Sync](https://github.com/calcom/linear-to-github)

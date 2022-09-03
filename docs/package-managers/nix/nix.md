@@ -393,6 +393,6 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Our roadmap for Nix (2022)](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/) ([Lobsters](https://lobste.rs/s/ejdlej/our_roadmap_for_nix)) ([HN](https://news.ycombinator.com/item?id=32374113))
 - [nix-linux](https://github.com/nspin/nix-linux) - Framework for configuring and building Linux and U-Boot using Nixpkgs.
 - [Domen Kožar - Nix Is Going Mainstream (2022)](https://youtu.be/WuWZqSSoLxY?t=875)
-- [We want to make Nix better (2022)](https://determinate.systems/posts/we-want-to-make-nix-better) ([Lobsters](https://lobste.rs/s/d0lh6w/we_want_make_nix_better))
+- [We want to make Nix better (2022)](https://determinate.systems/posts/we-want-to-make-nix-better) ([Lobsters](https://lobste.rs/s/d0lh6w/we_want_make_nix_better)) ([HN](https://news.ycombinator.com/item?id=32693107))
 - [Stop calling everything "Nix" (2022)](https://www.haskellforall.com/2022/08/stop-calling-everything-nix.html) ([Lobsters](https://lobste.rs/s/nvyntx/stop_calling_everything_nix))
 - [Unit Test Your Nix Code (2022)](https://www.tweag.io/blog/2022-09-01-unit-test-your-nix-code/)

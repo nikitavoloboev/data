@@ -873,3 +873,4 @@ title: Rust
 - [Rust – A hard decision pays off (2022)](https://www.pinecone.io/learn/inside-the-pinecone/#rust-a-hard-decision-pays-off) ([HN](https://news.ycombinator.com/item?id=32578743))
 - [Crabs All the Way Down: Running Rust on Logic Gates (2022)](https://zdimension.fr/crabs-all-the-way-down/)
 - [Design Patterns in Rust](https://github.com/fadeevab/design-patterns-rust)
+- [What improvements would you like to see in Rust or what design choices do you wish were reconsidered? (2022)](https://www.reddit.com/r/rust/comments/x3ducn/comment/impjacz/) ([Tweet](https://twitter.com/bascule/status/1566165416803651584))

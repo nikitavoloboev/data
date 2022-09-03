@@ -340,3 +340,4 @@ Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for a
 - [React 18 Streaming SSR Showcase with 5 examples](https://github.com/XiNiHa/streaming-ssr-showcase)
 - [Data Fetching In React with Remix, NextJS, React Query, Streaming, and more (2022)](https://www.youtube.com/watch?v=Ao8F3FypsbI)
 - [React: The Most Prolific JavaScript Framework (2022)](https://www.youtube.com/watch?v=BBWA7PGJcts)
+- [Dan answering React/JS questions](https://twitter.com/dan_abramov/status/1565308270344126466)

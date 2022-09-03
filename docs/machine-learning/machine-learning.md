@@ -905,3 +905,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [What are Diffusion Models? (2021)](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) ([Lobsters](https://lobste.rs/s/n9rd5p/what_are_diffusion_models))
 - [Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models (2022)](https://arxiv.org/abs/2208.06677) ([Code](https://github.com/sail-sg/Adan))
 - [Awesome AI image synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis)
+- [First-Time Machine Learning Playbook (2022)](https://twitter.com/DSaience/status/1566054660791738368)
+- [Grokking Stable Diffusion](https://twitter.com/johnowhitaker/status/1565710033463156739)

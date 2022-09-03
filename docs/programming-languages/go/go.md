@@ -842,3 +842,4 @@ if err != nil {
 - [Hooking Go from Rust (2022)](https://metalbear.co/blog/hooking-go-from-rust-hitchhikers-guide-to-the-go-laxy/) ([HN](https://news.ycombinator.com/item?id=32608287))
 - [How do you monitor your Go apps?](https://www.reddit.com/r/golang/comments/x3iisb/how_do_you_monitor_your_go_apps/)
 - [Cost of a Integer Cast in Go (2022)](https://boyter.org/posts/cost-of-integer-cast-in-go/) ([HN](https://news.ycombinator.com/item?id=32647865))
+- [Bill Kennedy - Practical Memory Profiling (2022)](https://www.youtube.com/watch?v=6qAfkJGWsns)

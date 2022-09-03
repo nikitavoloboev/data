@@ -134,3 +134,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [What are some of the scariest horror films? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/wnvxad/what_are_some_of_the_scariest_horror_films/)
 - [The Most Fun Movie](https://www.reddit.com/r/MovieSuggestions/comments/vfzf5z/the_most_fun_movie/)
 - [Movies that made you Cry](https://www.reddit.com/r/MovieSuggestions/comments/x4l65y/movies_that_made_you_cry/)
+- [Top Korean movies](https://twitter.com/petergyang/status/1565852104576487429)

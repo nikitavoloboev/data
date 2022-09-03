@@ -950,7 +950,7 @@
 - [Rusty V8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine.
 - [WS-RS](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
 - [CXX](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++. ([Docs](https://cxx.rs/)) ([HN](https://news.ycombinator.com/item?id=30627495))
-- [cxx-async](https://github.com/pcwalton/cxx-async) - Rust crate that extends the cxx library to provide seamless interoperability between asynchronous Rust code using async/await and C++20 coroutines using co_await.
+- [cxx-async](https://github.com/pcwalton/cxx-async) - Rust crate that extends the cxx library to provide seamless interoperability between asynchronous Rust code using async/await and C++20 coroutines using co_await. ([Article](http://pcwalton.github.io/_posts/2022-08-19-introducing-cxx-async.html)) ([Tweet](https://twitter.com/pcwalton/status/1566154824705400832))
 - [Duct](https://github.com/oconnor663/duct.rs) - Rust library for shelling out and making pipelines.
 - [crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust.
 - [wgpu-rs](https://github.com/gfx-rs/wgpu-rs) - Rust bindings to wgpu native library. ([Awesome](https://github.com/rofrol/awesome-wgpu-rs))

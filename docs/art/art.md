@@ -547,3 +547,6 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [OpenArt](https://openart.ai/) - "Pinterest” for Dalle-2 images and prompts. ([HN](https://news.ycombinator.com/item?id=32586439))
 - [Lexica](https://lexica.art/) - Search over 5M+ Stable Diffusion images and prompts. ([HN](https://news.ycombinator.com/item?id=32604021))
 - [4.2 Gigabytes, Or: How to Draw Anything](https://andys.page/posts/how-to-draw/) ([HN](https://news.ycombinator.com/item?id=32651556)) ([Lobsters](https://lobste.rs/s/skauui/4_2_gigabytes_how_draw_anything))
+- [Midjourney Collective](https://www.instagram.com/midjourneycollective/) - Posting the best AI generated art on Midjourney.
+- [How to generate A.I. images with Stable Diffusion on your MacBook](https://twitter.com/levelsio/status/1565731907664478209)
+- [How to get great Stable Diffusion images (2022)](https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/)

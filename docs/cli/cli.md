@@ -148,3 +148,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Things I've learned building a modern TUI framework (2022)](https://www.textualize.io/blog/posts/7-things-about-terminals) ([HN](https://news.ycombinator.com/item?id=32331367))
 - [trashy](https://github.com/oberblastmeister/trashy) - Simple, fast, and featureful alternative to rm and trash-cli written in rust.
 - [procmon](https://github.com/sebdah/procmon) - Simple utility for checking if processes are running.
+- [Marian Montagnino - Reinventing the CLI with Go (2022)](https://www.youtube.com/watch?v=5oVvX08r6RE)

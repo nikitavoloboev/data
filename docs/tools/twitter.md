@@ -209,3 +209,4 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [ListFollowers.com](https://listfollowers.com/) - Fetch a list of someone's follows, followers, or mutuals, or combine two such lists from two users, and export the results to CSV or JSON. ([Tweet](https://twitter.com/mechanical_monk/status/1550055763317506050))
 - [Quick Tweet Search Extension](https://github.com/taro-28/quick-tweet-search) - Chrome Extension to quickly search Tweet by Twitter user.
 - [Doing give-aways on Twitter with GitHub actions](https://github.com/alexeygrigorev/twitter-raffles)
+- [Loading Twitter Birdwatch into SQLite for analysis with Datasette](https://til.simonwillison.net/twitter/birdwatch-sqlite)

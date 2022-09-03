@@ -62,6 +62,7 @@
 - [If the CEO of a company is not spending >25% of their time recruiting, than that is a lifestyle business.](https://twitter.com/auren/status/1498490020524666880)
 - [Deadly mistake for founders and organizational leaders is to treat hiring a large team as a sign of success. Hiring should be treated as a last resort when your business will start failing without more engineers, sales people or customer success people. Otherwise you’re Fast.](https://twitter.com/Carnage4Life/status/1515536521884942339)
 - [Biggest mistake founders make is they don't let go of under-performing hires quick enough. Then they do it wrong. Be direct. It should not be a surprise. It should be a continuation from prior discussions. No fluff, no excuses, be clear, state the facts.](https://twitter.com/HarryStebbings/status/1521116776238665730)
+- [Startups that rely on recruiters to build their team have outsourced the single most critical aspect of building a company -- and the results are predictable](https://twitter.com/bcantrill/status/1566168300849049600)
 
 ## Links
 
