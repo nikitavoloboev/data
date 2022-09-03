@@ -115,9 +115,10 @@ title: Electrical engineering
 - [SKiDL](https://github.com/devbisme/skidl) - Module that extends Python with the ability to design electronic circuits.
 - [USB Cheat Sheet](https://fabiensanglard.net/usbcheat/index.html)
 - [Original Pong video game had no code and was built using hardware circuitry](https://www.reddit.com/r/EngineeringPorn/comments/ul49zt/the_original_pong_video_game_had_no_code_and_was/)
-- [Open Circuits – The Inner Beauty of Electronic Components](https://nostarch.com/open-circuits) ([HN](https://news.ycombinator.com/item?id=31942329))
+- [Open Circuits – The Inner Beauty of Electronic Components](https://nostarch.com/open-circuits) ([HN](https://news.ycombinator.com/item?id=31942329)) ([HN](https://news.ycombinator.com/item?id=32630740))
 - [Where Are the Microelectronics Engineers?](https://semiwiki.com/events/314964-a-crisis-in-engineering-education-where-are-the-microelectronics-engineers/) ([HN](https://news.ycombinator.com/item?id=32012660))
 - [PyCircTools](https://github.com/LovetheFrogs/PyCircTools) - Build digital circuits using Python.
 - [HN: Electrical engineers on the brink of extinction threaten entire tech ecosystems (2022)](https://news.ycombinator.com/item?id=32142711)
 - [Logisim](http://www.cburch.com/logisim/) - Graphical Tool for Designing and Simulating Digital Logic Circuits. ([HN](https://news.ycombinator.com/item?id=32270149))
 - [Gatery](https://github.com/synogate/gatery) - Library for circuit design.
+- [Ask HN: How can I start a business to generate electricity? (2022)](https://news.ycombinator.com/item?id=32622949)

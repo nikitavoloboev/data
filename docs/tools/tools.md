@@ -250,6 +250,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Lucidchart](https://www.lucidchart.com/pages/) - Online Diagram Software & Visual Solution.
 - [Airplane](https://www.airplane.dev/) - Code to internal apps in minutes. ([How we use Airplane to simplify our tech infrastructure](https://lu.ma/p/CKxGL0gCZChE4OA/How-we-use-Airplane-to-simplify-our-tech-infrastructure))
 - [Motor Admin](https://www.getmotoradmin.com/) - No-Code Admin Panel. ([Code](https://github.com/motor-admin/motor-admin))
+- [D2](https://d2-lang.com/tour/intro) - Declarative language to turn text into diagrams. ([HN](https://news.ycombinator.com/item?id=32652291))
 - [SpatialChat](https://spatial.chat/) - In-person virtual meetings.
 - [Over](https://www.madewithover.com/) - Makes beautiful design, easy.
 - [Text Cleaner](https://textcleaner.net/) - Text Formatter, Text Formatting Online.

@@ -63,3 +63,4 @@
 - [Where Do Space, Time and Gravity Come From? (2022)](https://www.quantamagazine.org/where-do-space-time-and-gravity-come-from-20220504/) ([HN](https://news.ycombinator.com/item?id=31282642))
 - [You Are Not Where You Think You Are (2022)](https://www.youtube.com/watch?v=Pj-h6MEgE7I)
 - [Logarithmic Map of the Entire Observable Universe](https://twitter.com/johncoogan/status/1546921877586604032)
+- [We don't know how the universe began, and we will never know (2022)](http://backreaction.blogspot.com/2022/08/we-dont-know-how-universe-began-and-we.html) ([HN](https://news.ycombinator.com/item?id=32618719))

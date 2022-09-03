@@ -132,3 +132,4 @@ title: Minecraft
 - [Fabric Example Mod](https://github.com/Moulberry/BuilderMod)
 - [NetBSD can also run a Minecraft server (2022)](https://rubenerd.com/netbsd-can-also-run-a-minecraft-server/)
 - [Hosting a Minecraft server without extra hardware (2022)](https://siraben.dev/2022/08/01/tailscale-iptables.html)
+- [REPL Driven Minecraft](https://www.juxt.pro/blog/repl-driven-minecraft) ([HN](https://news.ycombinator.com/item?id=32650626))

@@ -248,3 +248,4 @@ title: SwiftUI
 - [Keyboard](https://github.com/AudioKit/Keyboard) - SwiftUI music keyboard.
 - [Mastering grid layout in SwiftUI (2022)](https://swiftwithmajid.com/2022/08/10/mastering-grid-layout-in-swiftui/)
 - [Apple’s use of AppKit, Mac Catalyst and SwiftUI in macOS (2022)](https://blog.timac.org/2022/0818-state-of-appkit-catalyst-swiftui-mac/)
+- [Why I quit using SwiftUI (2022)](https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html) ([HN](https://news.ycombinator.com/item?id=32630389))

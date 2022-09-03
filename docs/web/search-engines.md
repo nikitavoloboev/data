@@ -259,3 +259,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [Spreading vectors for similarity search](https://github.com/facebookresearch/spreadingvectors)
 - [Course catalog with extremely fast full-text search](https://github.com/ekzhang/classes.wtf)
 - [How codesearch.ai works - Sourcegraph](https://sourcegraph.com/notebooks/Tm90ZWJvb2s6MTU1OQ==)
+- [Ask HN: I want to dive into how to make search engines (2022)](https://news.ycombinator.com/item?id=32593190)

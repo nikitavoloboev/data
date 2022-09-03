@@ -108,3 +108,4 @@ I personally don't plan to live for long once my body starts truly breaking down
 - [Awesome Longevity](https://github.com/atilatech/awesome-longevity)
 - [Blue Zones, where people reach age 100 at 10 times greater rates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125071/) ([HN](https://news.ycombinator.com/item?id=32143344))
 - [Ask HN: Longevity for your parents, what to do? (2022)](https://news.ycombinator.com/item?id=32366557)
+- [Rapamycin, drug used in cancer therapy, emerges as powerful anti-aging remedy](https://www.age.mpg.de/communications/news/detail/times-arrow) ([HN](https://news.ycombinator.com/item?id=32660669))

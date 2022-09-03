@@ -238,3 +238,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Astrodynamics Textbooks on My Shelf (2022)](https://gereshes.com/2022/07/24/select-textbooks-on-my-shelf-1-astrodynamics-edition/) ([HN](https://news.ycombinator.com/item?id=32212791))
 - [Does the software industry learn? (2022)](https://www.tomrenner.com/blog/2022-01-24/does-the-software-industry-learn-) ([Lobsters](https://lobste.rs/s/vdr2i7/does_software_industry_learn))
 - [Ask HN: Where to find people who love to learn? (2022)](https://news.ycombinator.com/item?id=32354994)
+- [Ask HN: I want to be an expert in many things but my lifetime won't be enough (2022)](https://news.ycombinator.com/item?id=32628511)

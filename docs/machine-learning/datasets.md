@@ -193,3 +193,4 @@
 - [Data Measurements Tool](https://github.com/huggingface/data-measurements-tool) - Developing tools to automatically analyze datasets.
 - [Cleanlab Vizzy](https://playground.cleanlab.ai/) - Learn how to automatically find label errors and out-of-distribution data. ([Lobsters](https://lobste.rs/s/eoz5gj/cleanlab_vizzy_learn_how_automatically))
 - [Ask HN: Will AI-generated images flooding the web pollute future training data? (2022)](https://news.ycombinator.com/item?id=32577822)
+- [Exploring 12M of the 2.3B images used to train Stable Diffusion (2022)](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/) ([HN](https://news.ycombinator.com/item?id=32655497))

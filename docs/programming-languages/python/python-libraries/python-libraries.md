@@ -116,6 +116,7 @@
 - [PyPOTS](https://github.com/WenjieDu/PyPOTS) - Python Toolbox for Data Mining on Partially-Observed Time Series.
 - [SKOPS](https://github.com/skops-dev/skops) - Python library helping you share your scikit-learn based models and put them in production.
 - [HDDM](https://github.com/hddm-devs/hddm) - Python module that implements Hierarchical Bayesian parameter estimation of Drift Diffusion Models (via PyMC).
+- [Regressio](https://github.com/brendanartley/Regressio) - Python library for univariate regression, interpolation, and smoothing. ([HN](https://news.ycombinator.com/item?id=32645063))
 
 ## Biology
 

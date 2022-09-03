@@ -121,3 +121,4 @@ title: Xcode
 - [xccov2lcov](https://github.com/trax-retail/xccov2lcov) - Utility to convert data from Xcode 11's code coverage facility into the lcov file format, intended for upload to Coveralls.io.
 - [xcparseaw](https://github.com/ChargePoint/xcparse) - Command line tool & Swift framework for parsing Xcode 11+ xcresult.
 - [XcodeIssueReporting](https://github.com/baguio/XcodeIssueReporting) - Tool that makes easier reporting warnings and errors to Xcode.
+- [Xcode Cloud](https://developer.apple.com/xcode-cloud/) ([HN](https://news.ycombinator.com/item?id=32655347))

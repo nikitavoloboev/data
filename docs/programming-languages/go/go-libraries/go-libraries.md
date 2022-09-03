@@ -1924,3 +1924,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Clockwork](https://github.com/coretrix/clockwork) - Go Application runtime inspection tool.
 - [Self-Recompiling Go Binaries](https://github.com/shazow/go-selfcompile)
 - [Metaprogramming with Go - or how to build code generators that parse Go code](https://github.com/hlubek/metaprogramming-go)
+- [Fuzzing Go APIs for SQL Injection (2022)](https://blog.fuzzbuzz.io/fuzzing-go-apis-for-sql-injection/) ([HN](https://news.ycombinator.com/item?id=32664270))

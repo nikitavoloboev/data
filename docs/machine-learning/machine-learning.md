@@ -901,3 +901,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [DeepTIMe: Deep Time-Index Meta-Learning for Non-Stationary Time-Series Forecasting (2022)](https://arxiv.org/abs/2207.06046) ([Code](https://github.com/salesforce/DeepTIMe))
 - [Stable Diffusion Akashic Records](https://github.com/Maks-s/sd-akashic) - Compendium of informations regarding Stable Diffusion (SD).
 - [Ask HN: In 2022, what is the proper way to get into machine/deep learning? (2022)](https://news.ycombinator.com/item?id=32480009)
+- [1 week of Stable Diffusion](https://multimodal.art/news/1-week-of-stable-diffusion) ([HN](https://news.ycombinator.com/item?id=32650432))

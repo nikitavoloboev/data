@@ -120,3 +120,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Ask HN: How do you stay focused at work? (2022)](https://news.ycombinator.com/item?id=31608397)
 - [I don't have notifications enabled, nowhere and never (2022)](https://news.ycombinator.com/item?id=32274344)
 - [Against Discipline](https://irinadumitrescu.substack.com/p/against-discipline) ([HN](https://news.ycombinator.com/item?id=32340703))
+- [John Carmack on avoiding distractions](https://twitter.com/ID_AA_Carmack/status/1562104562219196416) ([HN](https://news.ycombinator.com/item?id=32583257))

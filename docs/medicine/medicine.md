@@ -40,3 +40,4 @@
 - [Researchers discover new cell type in human lung with regenerative properties (2022)](https://news.ycombinator.com/item?id=31053044)
 - [Clinica](https://github.com/aramis-lab/clinica) - Software platform for clinical neuroimaging studies.
 - [RadImageNet](https://github.com/BMEII-AI/RadImageNet) - Pre-trained convolutional neural networks trained solely from medical imaging to be used as the basis of transfer learning for medical imaging applications.
+- [What would a “good” WebMD look like?](https://blog.tjcx.me/p/why-is-webmd-so-awful) ([HN](https://news.ycombinator.com/item?id=32649864))

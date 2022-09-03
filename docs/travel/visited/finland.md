@@ -8,3 +8,4 @@
 - [Winter War (1939-40) Finland vs Russia](https://twitter.com/jmkorhonen/status/1498989078649389059)
 - [Как свалить из России в Финляндию](https://twitter.com/wyslmwinlyab/status/1496197041160175618)
 - [How Finland defends itself (2022)](https://twitter.com/jmkorhonen/status/1504407222775914499)
+- [Finnish as a world language?](https://www.hagen-schmidt.de/suomi/worldlanguage.html) ([HN](https://news.ycombinator.com/item?id=32610292))

@@ -569,3 +569,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Glitter](https://github.com/Milo123459/glitter) - Git tooling of the future.
 - [DIY code hosting with gitea and fly.io (2022)](https://mat.services/posts/gitea-on-fly-io/)
 - [pkg](https://github.com/fluxcd/pkg) - GitOps Toolkit common packages.
+- [Git’s database internals II: commit history queries](https://github.blog/2022-08-30-gits-database-internals-ii-commit-history-queries/) ([HN](https://news.ycombinator.com/item?id=32651934))

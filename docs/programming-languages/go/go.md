@@ -839,5 +839,6 @@ if err != nil {
 - [Fixing Memory Exhaustion Bugs in My Go Web App (2022)](https://mtlynch.io/notes/picoshare-perf/)
 - [Rob Pike's simple C regex matcher in Go (2022)](https://benhoyt.com/writings/rob-pike-regex/) ([HN](https://news.ycombinator.com/item?id=32434412))
 - [Preferred resource for 'advanced' Go (2022)](https://www.reddit.com/r/golang/comments/wlw5bj/preferred_resource_for_advanced_go/?sort=top)
-- [Hooking Go from Rust - Hitchhiker’s Guide to the Go-laxy (2022)](https://metalbear.co/blog/hooking-go-from-rust-hitchhikers-guide-to-the-go-laxy/)
+- [Hooking Go from Rust (2022)](https://metalbear.co/blog/hooking-go-from-rust-hitchhikers-guide-to-the-go-laxy/) ([HN](https://news.ycombinator.com/item?id=32608287))
 - [How do you monitor your Go apps?](https://www.reddit.com/r/golang/comments/x3iisb/how_do_you_monitor_your_go_apps/)
+- [Cost of a Integer Cast in Go (2022)](https://boyter.org/posts/cost-of-integer-cast-in-go/) ([HN](https://news.ycombinator.com/item?id=32647865))

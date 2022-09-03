@@ -78,3 +78,4 @@ I like the real time aspect of Firebase but not sure how well it can scale for m
 - [Firebase Auth Cloudflare Workers](https://github.com/Code-Hex/firebase-auth-cloudflare-workers)
 - [Firestore Algolia Search](https://github.com/algolia/firestore-algolia-search)
 - [Firebase Web Snippets](https://github.com/firebase/snippets-web)
+- [A Graph-Based Firebase (2022)](https://stopa.io/post/296) ([HN](https://news.ycombinator.com/item?id=32595895))

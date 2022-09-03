@@ -9,6 +9,7 @@ title: Tauri
 - [TaurApp](https://github.com/erayerdin/taurapp) - WhatsApp desktop client powered by Tauri and Rust.
 - [Emberry](https://github.com/emberry-org/emberry) - P2P Chat powered by Tauri and Svelte.
 - [SnipSnap](https://github.com/FarazPatankar/snip-snap) - Simple but powerful tool to make your screenshots prettier.
+- [Tauri Solid Example with Vite](https://github.com/lukethacoder/tauri-solid-example)
 
 ## Links
 
@@ -26,3 +27,4 @@ title: Tauri
 - [SF Symbols in Tauri](https://github.com/JonasKruckenberg/tauri-symbols)
 - [HN: Tauri (2022)](https://news.ycombinator.com/item?id=32446374)
 - [Tauri vs. Electron – Real world application (2022)](https://www.levminer.com/blog/tauri-vs-electron) ([HN](https://news.ycombinator.com/item?id=32550267))
+- [Generate Color Themes with Tauri (2022)](https://www.youtube.com/watch?v=zawhqLA7N9Y)

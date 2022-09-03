@@ -83,3 +83,4 @@ title: WireGuard
 - [WireGuard installer](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers.
 - [wghttp](https://github.com/zhsj/wghttp) - Turn WireGuard to HTTP & SOCKS5 proxies.
 - [OpenVPN & WireGuard server at GitHub Actions: representative NAT traversal case](https://github.com/ValdikSS/nat-traversal-github-actions-openvpn-wireguard) ([HN](https://news.ycombinator.com/item?id=32329052))
+- [WireGuard Servers Running from RAM](https://mullvad.net/tr/help/wireguard-servers-running-from-ram/) ([HN](https://news.ycombinator.com/item?id=32645501))

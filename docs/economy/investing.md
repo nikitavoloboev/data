@@ -293,3 +293,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [What is a stock that you think is so obviously a buy at its current price that you feel you are missing something? (2022)](https://www.reddit.com/r/stocks/comments/w76rak/what_is_a_stock_that_you_think_is_so_obviously_a/)
 - [Whats something you wish you knew before starting options trading (2022)](https://www.reddit.com/r/options/comments/w7p46m/whats_something_you_wish_you_knew_before_starting/)
 - [Pandas TA](https://github.com/twopirllc/pandas-ta) - Technical Analysis Library in Python 3.
+- [InvestorsExchange.jl](https://github.com/lukemerrick/InvestorsExchange.jl) - Parse trade-level stock market data in Julia. ([HN](https://news.ycombinator.com/item?id=32658633))

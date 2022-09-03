@@ -143,4 +143,4 @@ title: OCaml
 - [ThreadSanitizer support for OCaml 5](https://github.com/OlivierNicole/ocaml-tsan) - Effective approach to locate data races in concurrent code bases.
 - [Reflections on my first completed application in OCaml (2020)](https://discuss.ocaml.org/t/reflections-on-my-first-completed-application-in-ocaml/6768)
 - [Easy Dune (OCaml): Running a Script](https://dev.to/pckilgore/unofficial-dune-ocaml-how-to-running-a-script-2fgh)
-- [OCaml at First Glance](https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/) ([Lobsters](https://lobste.rs/s/dwt32y/ocaml_at_first_glance))
+- [OCaml at First Glance](https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/) ([Lobsters](https://lobste.rs/s/dwt32y/ocaml_at_first_glance)) ([HN](https://news.ycombinator.com/item?id=32636682))

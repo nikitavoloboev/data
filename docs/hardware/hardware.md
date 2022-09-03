@@ -348,3 +348,5 @@
 - [täko ̄: A Polymorphic Cache Hierarchy for General-Purpose Optimization of Data Movement (2022)](https://www.cs.cmu.edu/~beckmann/publications/papers/2022.isca.tako.pdf)
 - [Rift2Core](https://github.com/whutddk/Rift2Core) - Based on Chisel3, Rift2Core is a 9-stage, out-of-order, 64-bits RISC-V Core, which supports RV64GC.
 - [Building a Panel out of e-ink Electronic Shelf Labels (2022)](https://rbaron.net/blog/2022/07/29/Daisy-chaining-multiple-electronic-shelf-labels.html)
+- [Ask HN: Chip startups? (2022)](https://news.ycombinator.com/item?id=32610780)
+- [Ask HN: Is there a developer laptop that does not suck and is not a Mac in 2022?](https://news.ycombinator.com/item?id=32632720)

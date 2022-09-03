@@ -545,3 +545,5 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Watercolor Basics](https://github.com/tombetthauser/watercolor-basics) - Personal stuff that I observed help frustrated and talented art students.
 - [DALL E Gallery](https://dallery.gallery/)
 - [OpenArt](https://openart.ai/) - "Pinterest” for Dalle-2 images and prompts. ([HN](https://news.ycombinator.com/item?id=32586439))
+- [Lexica](https://lexica.art/) - Search over 5M+ Stable Diffusion images and prompts. ([HN](https://news.ycombinator.com/item?id=32604021))
+- [4.2 Gigabytes, Or: How to Draw Anything](https://andys.page/posts/how-to-draw/) ([HN](https://news.ycombinator.com/item?id=32651556))

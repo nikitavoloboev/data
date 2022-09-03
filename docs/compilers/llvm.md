@@ -51,7 +51,7 @@ title: LLVM
 - [ALLVM Research Project](https://publish.illinois.edu/allvm-project/) - All software components — except a small set needed for bootstrapping — are represented in a virtual instruction set instead of native machine code.
 - [Run LLVM Assembly in the Browser](http://kripken.github.io/llvm.js/demo.html) ([HN](https://news.ycombinator.com/item?id=24097446))
 - [Compiling a Higher-Order Smart Contract Language to LLVM](https://arxiv.org/pdf/2008.05555.pdf) ([Tweet](https://twitter.com/maqstik/status/1294170007891566593))
-- [The Dynamic Runtime Inlining (DRTI)](https://github.com/drti/drti) - With this project it is possible to take the output from an LLVM compiler such as clang and allow selected parts of the code to recompile themselves at runtime.
+- [The Dynamic Runtime Inlining (DRTI)](https://github.com/drti/drti) - With this project it is possible to take the output from an LLVM compiler such as clang and allow selected parts of the code to recompile themselves at runtime. ([HN](https://news.ycombinator.com/item?id=32655830))
 - [Understanding static single assignment forms (2020)](https://blog.yossarian.net/2020/10/23/Understanding-static-single-assignment-forms)
 - [LLVM tutorial in Rust language](https://github.com/jauhien/iron-kaleidoscope)
 - [A tutorial on how to write a compiler using LLVM (2020)](https://tomassetti.me/a-tutorial-on-how-to-write-a-compiler-using-llvm/)

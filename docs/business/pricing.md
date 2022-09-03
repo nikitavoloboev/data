@@ -89,3 +89,4 @@
 - [Designing a better pricing page (2022)](https://www.smashingmagazine.com/2022/07/designing-better-pricing-page/) ([HN](https://news.ycombinator.com/item?id=32012175))
 - [Superwall](https://superwall.com/) - Build the best mobile paywalls. ([Twitter](https://twitter.com/superwall))
 - [Lago](https://www.getlago.com/) - Open Source Billing API for Product-Led SaaS. ([Code](https://github.com/getlago/lago))
+- [How to offer effective free trials](https://upollo.ai/blog/effective-trials) ([HN](https://news.ycombinator.com/item?id=32658926))

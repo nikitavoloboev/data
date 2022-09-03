@@ -437,6 +437,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Miriam Suzanne](https://mia.wtf/)
 - [Carolyn Stransky](https://workwithcarolyn.com/)
 - [Bradley Taunt](https://uglyduck.ca/)
+- [Luke Secomb](https://lukesecomb.digital/)
 - [Aladin Bensassi](https://aladinbs.com/)
 - [Malte Ubl](https://www.industrialempathy.com/)
 - [Aries Clark](https://ariesclark.com/) ([Code](https://github.com/ariesclark/ariesclark.com))

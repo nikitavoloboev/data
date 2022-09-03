@@ -82,7 +82,7 @@ title: WebSocket
 - [Server-Sent Events, WebSockets, and HTTP (2022)](https://www.mnot.net/blog/2022/02/20/websockets) ([HN](https://news.ycombinator.com/item?id=30403438)) ([Lobsters](https://lobste.rs/s/x5w6zl/server_sent_events_websockets_http))
 - [js-libp2p-websockets](https://github.com/libp2p/js-libp2p-websockets) - JavaScript implementation of the WebSockets module that libp2p uses and that implements the interface-transport interface.
 - [Properly implement WebSockets in Go](https://www.reddit.com/r/golang/comments/td5m22/properly_implement_websockets_with_gokit/)
-- [soketi](https://github.com/soketi/soketi) - Simple, fast, and resilient open-source WebSockets server. ([Web](https://soketi.app/))
+- [soketi](https://github.com/soketi/soketi) - Simple, fast, and resilient open-source WebSockets server. ([Web](https://soketi.app/)) ([HN](https://news.ycombinator.com/item?id=32600698))
 - [Nuxt WebSocket](https://github.com/deepsourcelabs/nuxt-websocket) - Tiny Nuxt.js module for WebSocket interactions.
 - [ws-tool](https://github.com/PrivateRookie/ws-tool) - Easy to use websocket client/server toolkit, supporting blocking/async IO.
 - [websocket](https://github.com/gopherjs/websocket) - Provides high and low-level bindings for the browser's WebSocket API.
@@ -109,3 +109,4 @@ title: WebSocket
 - [HLive](https://github.com/SamHennessy/hlive) - Server-side WebSocket based dynamic template-less view layer for Go.
 - [Wuss](https://github.com/tfausak/wuss) - Secure WebSocket (WSS) clients in Haskell.
 - [Soketto](https://github.com/paritytech/soketto) - A WebSocket protocol implementation in Rust.
+- [Writing a toy WebSocket server from scratch (2022)](https://alexanderell.is/posts/websockets-from-scratch/) ([HN](https://news.ycombinator.com/item?id=32634038))

@@ -300,3 +300,4 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Indie Microblogging](https://book.micro.blog/)
 - [Prose.sh](https://prose.sh/) - Blog platform for hackers. ([HN](https://news.ycombinator.com/item?id=32128013))
 - [Ask HN: Do you maintain a list of RSS links of GOAT blogs? (2022)](https://news.ycombinator.com/item?id=32191140)
+- [Rewriting my blog in Rust for fun and profit (2022)](https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/) ([HN](https://news.ycombinator.com/item?id=32638667))

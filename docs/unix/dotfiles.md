@@ -58,7 +58,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 
 - [Dotbot](https://github.com/anishathalye/dotbot) - Tool to bootstrap config.
 - [Managing your dotfiles](http://www.anishathalye.com/2014/08/03/managing-your-dotfiles/)
-- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines. ([Web](https://www.chezmoi.io/))
+- [Chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines. ([Web](https://www.chezmoi.io/)) ([HN](https://news.ycombinator.com/item?id=32636051))
 - [Immutable Dev Environment (2019)](https://random.qmx.me/posts/2019/01/18/immutable-dev-environment/)
 - [Nice setup of new mac instructions](https://github.com/caarlos0/macOS)
 - [Syncing dev environments the hard way (2020)](https://banga.github.io/blog/2020/03/07/syncing-dev-environments-the-hard-way.html)
@@ -76,3 +76,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [A Dotfile History (2022)](https://myme.no/posts/2022-04-11-a-dotfile-history.html) ([HN](https://news.ycombinator.com/item?id=31001126))
 - [A Decade of Dotfiles (2022)](https://evanhahn.com/a-decade-of-dotfiles/) ([Lobsters](https://lobste.rs/s/v18rge/decade_dotfiles)) ([HN](https://news.ycombinator.com/item?id=31557430))
 - [Shelf](https://github.com/iamd3vil/shelf) - Good Symlinks Manager. Swap files from any location with symlinks and manage them easily in one place.
+- [Unofficial guide to dotfiles on GitHub](https://dotfiles.github.io/) ([HN](https://news.ycombinator.com/item?id=32632533))

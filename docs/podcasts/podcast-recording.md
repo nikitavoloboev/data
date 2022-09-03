@@ -46,3 +46,4 @@
 - [What I Learned in a Year of Podcasting (2022)](https://www.chris-kipp.io/blog/what-i-learned-in-a-year-of-podcasting)
 - [oTranscribe](https://otranscribe.com/) - Free web app to take the pain out of transcribing recorded interviews. ([Code](https://github.com/oTranscribe/oTranscribe))
 - [huffduff-video](https://github.com/snarfed/huffduff-video) - Extracts the audio from videos on YouTube, Vimeo, and many more sites and sends it to Huffduffer.- [Huffduffer](https://huffduffer.com/) - Create your own podcast.
+- [Observations from our Joe Rogan Experience experience](https://lulu.substack.com/p/joe-rogan-has-a-werewolf) ([HN](https://news.ycombinator.com/item?id=32649123))

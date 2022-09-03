@@ -54,3 +54,4 @@ title: MQTT
 - [MQTT to NSQ bridge](https://github.com/jnewmano/mqtt-nsq)
 - [rumqtt](https://github.com/bytebeamio/rumqtt) - MQTT ecosystem in rust.
 - [mqttwrk](https://github.com/bytebeamio/mqttwrk) - Wrk/Wrk2 inspired tool for conformance and scale testing MQTT brokers.
+- [MQZiti](https://github.com/ekoby/mqziti) - Zero Trust MQTT server and client. ([HN](https://news.ycombinator.com/item?id=32599167))
