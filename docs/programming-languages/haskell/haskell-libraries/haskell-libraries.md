@@ -409,3 +409,4 @@
 - [cabal-fmt](https://github.com/phadej/cabal-fmt) - Formatting .cabal files.
 - [Criterion](https://github.com/haskell/criterion) - Powerful but simple library for measuring the performance of Haskell code.
 - [cabal-hoogle](https://github.com/kokobd/cabal-hoogle) - Generates hoogle database of your local packages and all dependencies.
+- [Incrementally package a Haskell program using Nix (2022)](https://www.haskellforall.com/2022/08/incrementally-package-haskell-program.html)

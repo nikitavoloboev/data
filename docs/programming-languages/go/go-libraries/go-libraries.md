@@ -386,6 +386,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Kvass](https://github.com/maxmunzel/kvass) - Personal key-value store. ([HN](https://news.ycombinator.com/item?id=32212235))
 - [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - Flexible and powerful SQL string builder library plus a zero-config ORM.
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go.
+- [sq](https://github.com/bokwoon95/sq) - Type-safe data mapper and query builder for Go. ([Lobsters](https://lobste.rs/s/uc0s9y/sq_type_safe_data_mapper_query_builder))
 - [sqlingo](https://github.com/lqs/sqlingo) - Lightweight DSL & ORM which helps you to write SQL in Go.
 - [ArcticDB](https://github.com/polarsignals/arcticdb) - Embeddable columnar database written in Go. Features semi-structured schemas, and uses Apache Parquet for storage, and Apache Arrow at query time. ([Intro](https://www.polarsignals.com/blog/posts/2022/05/04/introducing-arcticdb/)) ([Tweet](https://twitter.com/PolarSignalsIO/status/1521852572717494272)) ([HN](https://news.ycombinator.com/item?id=31260597)) ([Lobsters](https://lobste.rs/s/ccla8l/arcticdb_columnar_database_for))
 - [sniper](https://github.com/recoilme/sniper) - Simple and efficient thread-safe key/value store for Go.

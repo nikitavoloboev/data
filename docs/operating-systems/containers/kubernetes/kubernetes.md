@@ -795,3 +795,5 @@ title: Kubernetes
 - [Discoblocks](https://github.com/ondat/discoblocks) - Open Source declarative disk configuration system for Kubernetes.
 - [Scaling Kubernetes to Thousands of CRDs (2022)](https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/)
 - [Nova](https://github.com/FairwindsOps/nova) - Find outdated or deprecated Helm charts running in your cluster.
+- [Kubernetes Was Never Designed for Batch Jobs (2022)](https://betterprogramming.pub/kubernetes-was-never-designed-for-batch-jobs-f59be376a338) ([Lobsters](https://lobste.rs/s/z8gxe6/kubernetes_was_never_designed_for_batch))
+- [Parseable](https://github.com/parseablehq/parseable) - Cloud native log storage and management for Kubernetes, containerised workloads.

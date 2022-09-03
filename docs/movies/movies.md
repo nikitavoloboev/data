@@ -132,3 +132,5 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [What’s a movie with a female lead and zero romance? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/wls83h/whats_a_movie_with_a_female_lead_and_zero_romance/)
 - [Why The Batman's Sound is Different](https://www.youtube.com/watch?v=_AQkQ4a1yJ8)
 - [What are some of the scariest horror films? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/wnvxad/what_are_some_of_the_scariest_horror_films/)
+- [The Most Fun Movie](https://www.reddit.com/r/MovieSuggestions/comments/vfzf5z/the_most_fun_movie/)
+- [Movies that made you Cry](https://www.reddit.com/r/MovieSuggestions/comments/x4l65y/movies_that_made_you_cry/)

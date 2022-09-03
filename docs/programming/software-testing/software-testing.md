@@ -28,7 +28,7 @@
 - [Tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [How We Test Vector (2020)](https://vector.dev/blog/how-we-test-vector/) - Survey of techniques we've found useful.
 - [puppeteer + dom-testing-library](https://github.com/testing-library/pptr-testing-library)
-- [How SQLite Is Tested](https://sqlite.org/testing.html) ([HN](https://news.ycombinator.com/item?id=29460240))
+- [How SQLite Is Tested](https://sqlite.org/testing.html) ([HN](https://news.ycombinator.com/item?id=29460240)) ([Lobsters](https://lobste.rs/s/jkg945/how_sqlite_is_tested))
 - [Are Tests Necessary in TypeScript? (2020)](https://www.executeprogram.com/blog/are-tests-necessary-in-typescript) ([HN](https://news.ycombinator.com/item?id=22864598))
 - [Appium](https://github.com/appium/appium) - Automation for iOS, Android, and Windows Apps.
 - [Awesome Test Anything](https://github.com/sindresorhus/awesome-tap) - Useful resources for the Test Anything Protocol.

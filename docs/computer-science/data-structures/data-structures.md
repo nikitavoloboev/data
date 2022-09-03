@@ -118,3 +118,6 @@
 - [Data Structure Visualizer](https://kg86.github.io/visds/) ([Code](https://github.com/kg86/visds))
 - [Ask HN: What are some cool but obscure data structures you know about? (2022)](https://news.ycombinator.com/item?id=32186203)
 - [Let's Talk SkipList (2022)](https://ketansingh.me/posts/lets-talk-skiplist/) ([HN](https://news.ycombinator.com/item?id=32374278))
+- [A primer on Roaring bitmaps: what they are and how they work (2022)](https://vikramoberoi.com/a-primer-on-roaring-bitmaps-what-they-are-and-how-they-work/)
+- [Using bitmaps to run interactive retention analyses over billions of events for less than $100/mo (2022)](https://vikramoberoi.com/using-bitmaps-to-run-interactive-retention-analyses-over-billions-of-events-for-less-than-100-mo/)
+- [Data Structure Sketches](https://okso.app/showcase/data-structures)

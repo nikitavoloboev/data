@@ -143,3 +143,4 @@
 - [Codeshift](https://github.com/rajasegar/codeshift) - Ruby CLI to transform source code using ASTs.
 - [Faster Ruby: Thoughts from the Outside (2022)](https://www.mgaudet.ca/technical/2022/8/9/faster-ruby-thoughts-from-the-outside)
 - [From byebug to ruby/debug (2022)](https://st0012.dev/from-byebug-to-ruby-debug)
+- [Natalie](https://natalie-lang.org/) - Ruby Dialect. ([Lobsters](https://lobste.rs/s/wj5alv/natalie_ruby_dialect))

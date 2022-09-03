@@ -27,3 +27,4 @@
 - [How to understand if a certain attack is a war crime?](https://twitter.com/OPokalchuk/status/1499328463081070594)
 - [XXIIVV — ethics](https://wiki.xxiivv.com/site/ethics.html)
 - [On infinite ethics](https://handsandcities.com/2022/01/30/on-infinite-ethics/) ([HN](https://news.ycombinator.com/item?id=30798431))
+- [Image generation ethics: Will you be an AI vegan? (2022)](https://simonwillison.net/2022/Aug/29/stable-diffusion/#ai-vegan) ([Lobsters](https://lobste.rs/s/kxqvam/image_generation_ethics_will_you_be_ai))

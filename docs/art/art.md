@@ -546,4 +546,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [DALL E Gallery](https://dallery.gallery/)
 - [OpenArt](https://openart.ai/) - "Pinterest” for Dalle-2 images and prompts. ([HN](https://news.ycombinator.com/item?id=32586439))
 - [Lexica](https://lexica.art/) - Search over 5M+ Stable Diffusion images and prompts. ([HN](https://news.ycombinator.com/item?id=32604021))
-- [4.2 Gigabytes, Or: How to Draw Anything](https://andys.page/posts/how-to-draw/) ([HN](https://news.ycombinator.com/item?id=32651556))
+- [4.2 Gigabytes, Or: How to Draw Anything](https://andys.page/posts/how-to-draw/) ([HN](https://news.ycombinator.com/item?id=32651556)) ([Lobsters](https://lobste.rs/s/skauui/4_2_gigabytes_how_draw_anything))

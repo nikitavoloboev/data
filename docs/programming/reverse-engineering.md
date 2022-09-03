@@ -117,3 +117,4 @@
 - [angr](https://github.com/angr/angr) - Platform-agnostic binary analysis framework. ([Web](https://angr.io/))
 - [heh](https://github.com/ndd7xv/heh) - Cross-platform terminal UI used for modifying file data in hex or ASCII.
 - [OFRAK](https://github.com/redballoonsecurity/ofrak) - Unpack, modify, and repack binaries.
+- [Unstripping Stripped Binaries](https://lock.cmpxchg8b.com/symbols.html) ([Lobsters](https://lobste.rs/s/yvjgof/unstripping_stripped_binaries))

@@ -45,3 +45,4 @@
 - [Conventional Commits Parser](https://github.com/conventional-commits/parser)
 - [Version Locking for Notebook Imports / Observable](https://observablehq.com/@observablehq/version-locking-for-notebook-imports)
 - [Setaceous Versioning (SetVer)](https://github.com/RocketRace/setver) - Versioning scheme designed to revolutionize the world of software development.
+- [Stacked PRs: Code changes as narrative](https://blog.aviator.co/stacked-prs-code-changes-as-narrative/) ([Lobsters](https://lobste.rs/s/iyhrkb/stacked_prs_code_changes_as_narrative))

@@ -99,7 +99,7 @@
 - [How Asian Parents Flex](https://www.youtube.com/watch?v=CIMmK86vNYo)
 - [Existential Crisis Cat](https://www.youtube.com/watch?v=pBjU3Ii7lfs)
 - [Девушка отругала парня на людях (2021)](https://www.youtube.com/watch?v=F820EN5143M)
-- [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/) ([HN](https://news.ycombinator.com/item?id=26766722))
+- [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/) ([HN](https://news.ycombinator.com/item?id=26766722)) ([Lobsters](https://lobste.rs/s/u2tadf/cursed_computer_iceberg_meme))
 - [Russian kid screaming blyat (minecraft)](https://www.youtube.com/watch?v=Gm5EBnLTG90)
 - [Put it all into Doge Money](https://twitter.com/DanOBrienPoker/status/1391601685844291584)
 - [You are in Bulgaria!](https://www.youtube.com/watch?v=JW8DNStF3TE)

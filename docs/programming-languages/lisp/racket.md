@@ -139,3 +139,5 @@ title: Racket
 - [pyffi](https://github.com/soegaard/pyffi) - Use Python from Racket.
 - [Lang Party Summer 2022](https://github.com/lang-party/Summer2022) - Write a language with Racket this summer.
 - [Certifying Interpreters in Racket (2022)](https://kmicinski.com/certifying-interpreters)
+- [Racket->Rhombus: To Sexp or not to Sexp? (2022)](https://gopiandcode.uk/logs/log-racket-and-rhombus-sexp.html) ([Lobsters](https://lobste.rs/s/ndqnr2/racket_rhombus_sexp_not_sexp))
+- [Racket Hacking: SwiftUI + Racket (2022)](https://www.youtube.com/watch?v=aTvU0j4hBR0)

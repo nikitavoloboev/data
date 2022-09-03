@@ -137,4 +137,4 @@ title: Zig
 - [Makin' wavs with Zig (2022)](https://blog.jfo.click/makin-wavs-with-zig/) ([Lobsters](https://lobste.rs/s/3zhmel/makin_wavs_with_zig))
 - [Running Zig with WASI on Cloudflare Workers (2022)](https://blog.cloudflare.com/running-zig-with-wasi-on-cloudflare-workers/) ([HN](https://news.ycombinator.com/item?id=32306281))
 - [Self Hosted Compiler Upgrade Guide](https://github.com/ziglang/zig/wiki/Self-Hosted-Compiler-Upgrade-Guide) ([Tweet](https://twitter.com/jarredsumner/status/1561530019674857472))
-- [Packed structs in Zig make bit/flag sets trivial (2022)](https://devlog.hexops.com/2022/packed-structs-in-zig/) ([HN](https://news.ycombinator.com/item?id=32646690))
+- [Packed structs in Zig make bit/flag sets trivial (2022)](https://devlog.hexops.com/2022/packed-structs-in-zig/) ([HN](https://news.ycombinator.com/item?id=32646690)) ([Lobsters](https://lobste.rs/s/ualy7p/packed_structs_zig_make_bit_flag_sets))

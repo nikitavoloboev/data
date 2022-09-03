@@ -148,3 +148,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [TeXZilla](http://fred-wang.github.io/TeXZilla/) - JavaScript LaTeX-to-MathML converter compatible with Unicode. ([Code](https://github.com/fred-wang/TeXZilla))
 - [How2LaTeX](https://github.com/sleepymalc/How2LaTeX) - Compact guide to help you write professional LaTeX documents.
 - [Implementing a “mini-LaTeX” in ~2000 lines of code (2022)](https://nibblestew.blogspot.com/2022/07/implementing-mini-latex-in-2000-lines.html) ([HN](https://news.ycombinator.com/item?id=32346296))
+- [maTeXt](https://xigoi.srht.site/matext/) - Program and Nim library for rendering LaTeX math as multiline Unicode text. ([Code](https://github.com/xigoi/matext))

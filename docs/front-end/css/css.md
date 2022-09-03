@@ -546,3 +546,5 @@ all: unset
 - [Onu-UI](https://github.com/onu-ui/onu-ui) - Web glassmorphism components generate by UnoCSS.
 - [Michelle Barker | Creative CSS Layout (2022)](https://www.youtube.com/watch?v=tueTFd2TQUA) ([Slides](https://noti.st/mbarker84/yGiO0I/creative-css-layout-the-flexible-web))
 - [Puppertino](https://github.com/codedgar/Puppertino) - CSS framework based on Human Guidelines from Apple.
+- [Polygon Shapes](https://yuanchuan.dev/polygon-shapes)
+- [Parents counting children in CSS (2022)](https://www.matuzo.at/blog/2022/counting-children/)

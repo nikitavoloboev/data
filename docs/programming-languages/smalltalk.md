@@ -58,3 +58,4 @@ title: Smalltalk
 - [Lisp, Smalltalk, and the power of symmetry (2014)](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/) ([HN](https://news.ycombinator.com/item?id=31552349))
 - [Slang](http://wiki.squeak.org/squeak/slang) - Subset of Smalltalk that can translate to C or other languages. ([HN](https://news.ycombinator.com/item?id=32262921))
 - [Smalltalk and Exploratory Programming (1988)](https://dl.acm.org/doi/10.1145/51607.51614)
+- [Making Smalltalk](https://computerhistory.org/events/making-smalltalk/)

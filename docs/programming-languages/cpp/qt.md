@@ -41,3 +41,4 @@ title: Qt
 - [QCoro](https://github.com/danvratil/qcoro) - C++ Coroutines for Qt.
 - [Qlift](https://github.com/Longhanks/qlift) - Swift library to use Qt.
 - [How Qt Signals and Slots Work](https://woboq.com/blog/how-qt-signals-slots-work.html)
+- [Implementing Qt Signals and Slots in Pure C++ (2022)](https://embeddeduse.com/2022/08/28/implementing-qt-signals-and-slots-in-pure-c/) ([Lobsters](https://lobste.rs/s/rzgybx/implementing_qt_signals_slots_pure_c))
