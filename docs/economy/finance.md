@@ -218,3 +218,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Exchange-core](https://github.com/exchange-core/exchange-core) - Open source market exchange core.
 - [FinTA](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas.
 - [ISO8583](https://github.com/moov-io/iso8583) - Implements an ISO 8583 message reader and writer. Give developers an easy way to create and integrate bank processing into their own software products.
+- [Ask HN: How do you and your spouse handle big income differences? (2022)](https://news.ycombinator.com/item?id=32586361)

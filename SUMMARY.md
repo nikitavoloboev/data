@@ -615,6 +615,7 @@
     - [Turkey](docs/travel/visited/turkey.md)
     - [Spain](docs/travel/visited/spain.md)
     - [Italy](docs/travel/visited/italy.md)
+    - [Estonia](docs/travel/visited/estonia.md)
     - [Bulgaria](docs/travel/visited/bulgaria.md)
     - [Belarus](docs/travel/visited/belarus.md)
     - [Georgia](docs/travel/visited/georgia.md)

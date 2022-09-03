@@ -78,3 +78,4 @@ title: Godot
 - [Learn to Code From Zero With Godot](https://gdquest.mavenseed.com/courses/learn-to-code-from-zero-with-godot)
 - [Godot Node Essentials](https://gdquest.mavenseed.com/courses/godot-node-essentials)
 - [Godot-Logger](https://github.com/jdno/godot-logger) - Logger for godot-rust projects.
+- [Godot 4.0 will discontinue visual scripting (2022)](https://godotengine.org/article/godot-4-will-discontinue-visual-scripting) ([HN](https://news.ycombinator.com/item?id=32571893))

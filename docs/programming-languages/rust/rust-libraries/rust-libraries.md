@@ -65,6 +65,7 @@
 - [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server)) ([Tutorial For Beginners](https://github.com/programatik29/axum-tutorial)) ([Rust + Axum + Prisma template](https://github.com/aaronleopold/axum-graphql-prisma)) ([Axum, Tokio, Tower, Hyper, Serde template](https://github.com/joelparkerhenderson/demo-rust-axum)) ([Axum_database_Sessions](https://github.com/AscendingCreations/AxumSessions)) ([Minimalist Guide to Axum](https://tech.marksblogg.com/axum-rust-web-framework.html)) ([Lobsters](https://lobste.rs/s/p4f2a8/minimalist_guide_axum))
 - [Rouille](https://github.com/tomaka/rouille) - Rust web micro-framework.
 - [hyper](https://github.com/hyperium/hyper) - Fast and correct HTTP implementation for Rust. ([Web](https://hyper.rs/)) ([Hyper's Vision](https://seanmonstar.com/post/678179333918097408/hypers-vision))
+- [pavex](https://github.com/LukeMathWalker/pavex) - Source code generator for building APIs and web applications with Rust. ([Tweet](https://twitter.com/algo_luca/status/1565653013380882433))
 - [Typed HTTP Headers from hyper](https://github.com/hyperium/headers)
 - [attohttpc](https://github.com/sbstp/attohttpc) - Rust lightweight HTTP 1.1 client.
 - [Rocket](https://github.com/SergioBenitez/Rocket) - Async web framework for Rust with a focus on usability, security, extensibility, and speed. ([Web](https://rocket.rs/)) ([Article](https://tech.marksblogg.com/rocket-rust-web-framework.html)) ([Review](https://kevincox.ca/2022/01/01/rocket-review/))
@@ -701,6 +702,7 @@
 - [appleargs](https://github.com/BlackHoleFox/appleargs) - Rust crate to read the process' apple arguments.
 - [keychain-services.rs](https://github.com/iqlusioninc/keychain-services.rs) - Keychain Services for Rust.
 - [xhypervisor](https://github.com/RWTH-OS/xhypervisor) - Rust API to the OS X Hypervisor framework for hardware-accelerated virtualization.
+- [macos-UnifiedLogs](https://github.com/mandiant/macos-UnifiedLogs) - Simple Rust library that can help parse the macOS Unified Log files.
 
 ## Macros
 

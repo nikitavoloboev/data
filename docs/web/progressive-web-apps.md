@@ -1,5 +1,7 @@
 # Progressive web apps (PWA)
 
+[Learn PWA](https://web.dev/learn/pwa/) is good read.
+
 ## Notes
 
 - [Lyft saw 40% more "Install PWA" clicks vs "Download app".](https://twitter.com/develwoutacause/status/1445477194885591040)
@@ -32,3 +34,4 @@
 - [pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - Automates PWA asset generation and image declaration.
 - [PWA Resources](https://github.com/shareup/pwa-resources) - Curated collection of resources for learning to build Progressive Web Apps.
 - [Best PWAs out there (2022)](https://twitter.com/hankchizljaw/status/1506724902702927875)
+- [Learn PWA](https://web.dev/learn/pwa/) ([HN](https://news.ycombinator.com/item?id=32675791))

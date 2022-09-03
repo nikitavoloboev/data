@@ -92,3 +92,4 @@ title: Fuzzing
 - [Variation of american fuzzy lop for testing compilers](https://github.com/agroce/afl-compiler-fuzzer)
 - [Centipede](https://github.com/google/centipede) - Distributed fuzzing engine.
 - [Fuzzing rust-minidump for Embarrassment and Crashes - Part 2 (2022)](https://hacks.mozilla.org/2022/06/fuzzing-rust-minidump-for-embarrassment-and-crashes/) ([Lobsters](https://lobste.rs/s/jgsegj/fuzzing_rust_minidump_for_embarrassment))
+- [Fuzz Map](https://www.fuzzmap.io/) - GUI fuzzer, interactive demo. ([HN](https://news.ycombinator.com/item?id=32578311))

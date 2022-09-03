@@ -870,3 +870,4 @@ title: Rust
 - [Comparing Rust's and C++'s Concurrency Library (2022)](https://blog.m-ou.se/rust-cpp-concurrency/)
 - [Gotchas and warts in Rust Lang](https://github.com/QuineDot/rust-snags) ([Lobsters](https://lobste.rs/s/jbcnup/quinedot_rust_snags_gotchas_warts_rust))
 - [WASM demo of rust-analyzer](https://github.com/rust-analyzer/rust-analyzer-wasm)
+- [Rust – A hard decision pays off (2022)](https://www.pinecone.io/learn/inside-the-pinecone/#rust-a-hard-decision-pays-off) ([HN](https://news.ycombinator.com/item?id=32578743))

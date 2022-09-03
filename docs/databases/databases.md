@@ -213,7 +213,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Vearch](https://github.com/vearch/vearch) - Scalable distributed system for efficient similarity search of deep learning vectors.
 - [RemixDB](https://github.com/wuxb45/remixdb) - Read- and write-optimized concurrent KV store. Fast point and range queries. Extremely low write-amplification.
 - [RisingLight](https://github.com/risinglightdb/risinglight) - OLAP database system for educational purpose.
-- [SurrealDB](https://github.com/surrealdb/surrealdb) - Scalable, distributed, collaborative, document-graph database, for the real time web. ([Web](https://surrealdb.com/))
+- [SurrealDB](https://github.com/surrealdb/surrealdb) - Scalable, distributed, collaborative, document-graph database, for the real time web. ([Web](https://surrealdb.com/)) ([HN](https://news.ycombinator.com/item?id=32550543))
 - [classic-level](https://github.com/Level/classic-level) - Abstract-level database backed by LevelDB.
 - [Apache Druid](https://druid.apache.org/) - Database for modern analytics applications. ([Code](https://github.com/apache/druid))
 - [EJDB](https://github.com/Softmotions/ejdb) - Embeddable JSON database engine.
@@ -671,3 +671,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Reddit’s database has two tables (2012)](https://kevin.burke.dev/kevin/reddits-database-has-two-tables/) ([HN](https://news.ycombinator.com/item?id=32407873))
 - [Ideas for DataScript 2](https://tonsky.me/blog/datascript-2/) ([HN](https://news.ycombinator.com/item?id=32447636))
 - [Rise of the Anti-Join (2022)](https://www.crunchydata.com/blog/rise-of-the-anti-join) ([Lobsters](https://lobste.rs/s/rhll92/rise_anti_join))
+- [ArrayQL Integration into Code-Generating Database Systems (2022)](https://openproceedings.org/2022/conf/edbt/sample-edbt2022.pdf)

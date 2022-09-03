@@ -118,3 +118,4 @@ title: GPU
 - [Vector graphics on GPU](https://gasiulis.name/vector-graphics-on-gpu/)
 - [Inlyne](https://github.com/trimental/inlyne) - GPU powered, browserless, markdown + HTML viewer.
 - [The GPU Banana Stand (2022)](https://acko.net/blog/the-gpu-banana-stand/)
+- [Clip control on the Apple GPU (2022)](https://rosenzweig.io/blog/asahi-gpu-part-6.html) ([HN](https://news.ycombinator.com/item?id=32551512))

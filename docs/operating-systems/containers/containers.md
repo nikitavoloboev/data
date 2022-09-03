@@ -225,3 +225,4 @@
 - [podman-static](https://github.com/mgoltzsche/podman-static) - Static podman binaries and container images.
 - [Notes on running containers with bubblewrap (2022)](https://jvns.ca/blog/2022/06/28/some-notes-on-bubblewrap/)
 - [Devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers.
+- [The container orchestrator landscape (2022)](https://lwn.net/Articles/905164/) ([HN](https://news.ycombinator.com/item?id=32577758))

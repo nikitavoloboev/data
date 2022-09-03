@@ -157,3 +157,4 @@ title: JSON
 - [JSON Grep](https://github.com/huytd/json-grep) - Utility that help you search for anything inside a JSON data.
 - [JSONCrush](https://github.com/KilledByAPixel/JSONCrush) - Compress JSON into URL friendly strings. ([Demo](https://killedbyapixel.github.io/JSONCrush/))
 - [JSURL](https://github.com/Sage/jsurl) - Alternative to JSON + URL encoding (or JSON + base64 encoding).
+- [Gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq. ([HN](https://news.ycombinator.com/item?id=32542752))

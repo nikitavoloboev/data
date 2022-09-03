@@ -1188,7 +1188,6 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [got-reload](https://github.com/got-reload/got-reload) - Reload Go code in a running process at function/method level granularity, using Yaegi.
 - [Workerpool](https://github.com/cilium/workerpool) - Run tasks concurrently with limits.
 - [GoFP](https://github.com/rbrahul/gofp) - Lodash like utility library for Go.
-- [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq.
 - [structomap](https://github.com/danhper/structomap) - Helps you to transform your struct into map easily.
 - [date](https://github.com/rickb777/date) - Go package for working with dates.
 - [GCache](https://github.com/bluele/gcache) - Cache library for golang. It supports expirable Cache, LFU, LRU and ARC.
@@ -1787,6 +1786,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [smapping](https://github.com/mashingan/smapping) - Go struct generic mapping.
 - [Faker](https://github.com/jaswdr/faker) - Ultimate fake data generator for Go with zero dependencies.
 - [hotkey](https://github.com/golang-design/hotkey) - Cross-platform hotkey package.
+- [timefmt-go](https://github.com/itchyny/timefmt-go) - Efficient time formatting library (strftime, strptime) for Go.
 
 ## Links
 

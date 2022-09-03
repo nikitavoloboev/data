@@ -73,3 +73,4 @@
 - [Search PDFs with Transformers and Python Notebook](https://colab.research.google.com/github/jina-ai/workshops/blob/main/pdf_search/pdf_search.ipynb) ([HN](https://news.ycombinator.com/item?id=32224542))
 - [PDF-Diff](https://github.com/serhack/pdf-diff) - Tool for visualizing differences between two PDF files. ([HN](https://news.ycombinator.com/item?id=32353479))
 - [Generate an Invoice PDF using Cloudflare Workers](https://generate.invoice.workers.dev/) ([Code](https://github.com/adamschwartz/generate.invoice.workers.dev))
+- [Ask HN: How do you organize or rename PDF files (books, papers, etc)? (2022)](https://news.ycombinator.com/item?id=32565059)

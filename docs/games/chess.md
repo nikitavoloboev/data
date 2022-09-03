@@ -233,3 +233,4 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [YouTubers/streamers out there who focus on concepts instead of deep individual lines](https://www.reddit.com/r/chess/comments/wbaxqp/any_youtubersstreamers_out_there_who_focus_on/)
 - [My Experience Building A Chess App In React (2022)](https://dev.to/fredlitt/my-experience-building-a-chess-app-in-react-2hl6) ([Tweet](https://twitter.com/geoffreylitt/status/1499785601255628811))
 - [A New Kind of Chess (2022)](https://erinbern.com/dice-chess/) ([HN](https://news.ycombinator.com/item?id=32448135))
+- [Magnus Carlsen: Greatest Chess Player of All Time (2022)](https://www.youtube.com/watch?v=0ZO28NtkwwQ)

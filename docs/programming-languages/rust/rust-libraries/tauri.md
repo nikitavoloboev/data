@@ -25,3 +25,4 @@ title: Tauri
 - [Create Tauri App](https://github.com/tauri-apps/create-tauri-app)
 - [SF Symbols in Tauri](https://github.com/JonasKruckenberg/tauri-symbols)
 - [HN: Tauri (2022)](https://news.ycombinator.com/item?id=32446374)
+- [Tauri vs. Electron – Real world application (2022)](https://www.levminer.com/blog/tauri-vs-electron) ([HN](https://news.ycombinator.com/item?id=32550267))

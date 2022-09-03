@@ -63,6 +63,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Battle of Flags](https://www.battle-of-flags.com/) - Browser-based RTS game. ([HN](https://news.ycombinator.com/item?id=31296227))
 - [Figure](https://figure.game/) - Daily logic puzzle game. ([HN](https://news.ycombinator.com/item?id=32376154))
 - [HaxBall](https://www.haxball.com/) - Physics-based multiplayer soccer game where teamwork is key.
+- [Kittens Game](https://kittensgame.com/web/) - Dark Souls of incremental gaming.
 
 ## Awesome OSS games
 

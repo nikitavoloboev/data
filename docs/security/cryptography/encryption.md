@@ -88,3 +88,4 @@
 - [MEGA: Malleable Encryption Goes Awry](https://mega-awry.io/) ([HN](https://news.ycombinator.com/item?id=31829130))
 - [tlock](https://github.com/drand/tlock) - Timelock Encryption/Decryption Made Practical.
 - [SecureStore for Rust](https://github.com/neosmart/securestore-rs) - Simple, encrypted, git-friendly, file-backed secrets manager for rust.
+- [Should notes be end-to-end encrypted? (2022)](https://supernotes.app/blog/posts/notes-end-to-end-encryption/) ([HN](https://news.ycombinator.com/item?id=32562143))

@@ -126,3 +126,4 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Which cloud provider are your favorite and why? (2022)](https://www.reddit.com/r/devops/comments/w7vhvj/which_cloud_provider_are_your_favorite_and_why/)
 - [Cloud Security Wiki](https://www.secwiki.cloud/) ([Code](https://github.com/withsecurelabs/cloud-wiki))
 - [Use one big server (2022)](https://specbranch.com/posts/one-big-server/) ([HN](https://news.ycombinator.com/item?id=32319147)) ([Lobsters](https://lobste.rs/s/yimhoy/use_one_big_server))
+- [Why is Snowflake so expensive (2022)](https://blog.devgenius.io/why-is-snowflake-so-expensive-92b67203945) ([HN](https://news.ycombinator.com/item?id=32551212))

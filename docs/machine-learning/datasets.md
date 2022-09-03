@@ -192,3 +192,4 @@
 - [BigLAM (Libraries, Archives and Museums)](https://github.com/bigscience-workshop/lam) - Open source, community resource of LAM datasets.
 - [Data Measurements Tool](https://github.com/huggingface/data-measurements-tool) - Developing tools to automatically analyze datasets.
 - [Cleanlab Vizzy](https://playground.cleanlab.ai/) - Learn how to automatically find label errors and out-of-distribution data. ([Lobsters](https://lobste.rs/s/eoz5gj/cleanlab_vizzy_learn_how_automatically))
+- [Ask HN: Will AI-generated images flooding the web pollute future training data? (2022)](https://news.ycombinator.com/item?id=32577822)

@@ -349,3 +349,5 @@ title: WebAssembly
 - [WebAssembly as a Universal Binary Format (Part I: Native executables) (2022)](https://wasmer.io/posts/wasm-as-universal-binary-format-part-1-native-executables)
 - [N-body WebAssembly simulation using Web GPU](https://github.com/simbleau/nbody-wasm-sim)
 - [wasmc](https://github.com/aslilac/wasmc) - Compile .wat files into .wasm binaries.
+- [Go Plugin System over WebAssembly](https://github.com/knqyf263/go-plugin)
+- [Accessing WebAssembly reference-typed arrays from C++ (2022)](https://wingolog.org/archives/2022/08/23/accessing-webassembly-reference-typed-arrays-from-c) ([HN](https://news.ycombinator.com/item?id=32563195))

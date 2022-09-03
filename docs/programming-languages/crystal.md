@@ -18,3 +18,4 @@ title: Crystal
 - [DUO](https://github.com/azutoolkit/duo) - HTTP/2 Server written purely in Crystal.
 - [Book: Crystal Programming](https://forum.crystal-lang.org/t/book-crystal-programming/4639) ([HN](https://news.ycombinator.com/item?id=31498146))
 - [Crystal's Interpreter (2021)](https://crystal-lang.org/2021/12/29/crystal-i.html)
+- [HN: Crystal (2022)](https://news.ycombinator.com/item?id=32683473)
