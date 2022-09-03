@@ -135,3 +135,5 @@ title: Lua
 - [Lua C API manual pages](https://github.com/ligurio/luac-manual-pages)
 - [Lua grammar for tree-sitter](https://github.com/Azganoth/tree-sitter-lua)
 - [A History of Lua](https://www.lua.org/history.html) ([HN](https://news.ycombinator.com/item?id=32407430))
+- [jsonschema](https://github.com/api7/jsonschema) - Pure Lua JSON schema validator for Lua/LuaJIT.
+- [lua-resty-radixtree](https://github.com/api7/lua-resty-radixtree) - Adaptive Radix Trees implemented in Lua / LuaJIT.

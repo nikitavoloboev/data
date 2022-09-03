@@ -2360,3 +2360,4 @@
 - [Approaches for interleaving several stderr logging streams (2022)](https://lobste.rs/s/cekies/approaches_for_interleaving_several)
 - [rustafarian](https://github.com/norskeld/rustafarian) - Minimal template for my Rust projects.
 - [Toward fearless cargo update (2022)](https://predr.ag/blog/toward-fearless-cargo-update/) ([Lobsters](https://lobste.rs/s/m7cqdm/toward_fearless_cargo_update))
+- [Awesome Rust](https://github.com/awesome-rust-com/awesome-rust)

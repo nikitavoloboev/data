@@ -563,3 +563,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Learn Postgres at the Playground – Postgres compiled to WASM running in browser](https://www.crunchydata.com/blog/learn-postgres-at-the-playground) ([HN](https://news.ycombinator.com/item?id=32498435)) ([Tweet](https://twitter.com/simonw/status/1559938364089937920))
 - [PostgreSQL 14 Internals book – Part II](https://postgrespro.com/blog/pgsql/5969682) ([HN](https://news.ycombinator.com/item?id=32593996))
 - [PostgreSQL 15: Stats Collector Gone? What’s New? (2022)](https://www.percona.com/blog/postgresql-15-stats-collector-gone-whats-new/) ([HN](https://news.ycombinator.com/item?id=32632715))
+- [plrust](https://github.com/tcdi/plrust) - Rust procedural language handler for PostgreSQL.

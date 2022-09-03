@@ -297,3 +297,4 @@ title: React Native
 - [React Native AMA](https://github.com/FormidableLabs/react-native-ama) - Accessible components and hooks to simplify the building of accessible apps.
 - [Pedal to the Metal (2022)](https://www.youtube.com/watch?v=uvLQ5f3KDXk)
 - [gRPC for react-native](https://github.com/Mitch528/react-native-grpc)
+- [React Native Check Version](https://github.com/includable/react-native-check-version) - Easy way to check if there's an update available for the current app in the App Store or Google Play.

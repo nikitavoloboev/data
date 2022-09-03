@@ -75,6 +75,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [waystone](https://github.com/lxsmnsyc/waystone) - MPAs that feels like SPAs.
 - [Axentix](https://github.com/axentix/axentix) - Framework mixing fully customizable components and utility-first classes, leaving the design choice to the developer. ([Web](https://useaxentix.com/))
 - [Query Key Factory](https://github.com/lukemorales/query-key-factory) - Typesafe query key management for @tanstack/query with auto-completion features.
+- [Hyper Fetch](https://github.com/BetterTyped/hyper-fetch) - Backend agnostic fetching framework for any JS environment - queues, caching, persistence, builders, commands, offline and more.
 
 ## GraphQL
 
@@ -597,6 +598,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [client-zip](https://github.com/Touffy/client-zip) - Concatenates multiple files (e.g. from multiple HTTP requests) into a single ZIP, in the browser.
 - [Async-Mutex](https://github.com/DirtyHairy/async-mutex) - Mutex for synchronizing async workflows in JavaScript.
 - [tinybench](https://github.com/tinylibs/tinybench) - Simple, tiny and lightweight benchmarking library.
+- [Radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful.
+- [Modelina](https://github.com/asyncapi/modelina) - Library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [meta-types](https://github.com/grantila/meta-types) - TypeScript meta functions for (especially variadic) meta programming.
 
 ## Links
 
@@ -686,3 +690,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Tanu](https://github.com/ariesclark/tanu.js) - Simplified abstraction of the TypeScript Compiler API for defining and generating source files.
 - [Transformer](https://transformer-five.vercel.app/) - Takes an input (ex: TS) and ouputs to destination format (ex: Zod/JSON/Open API Schemas). ([Code](https://github.com/astahmer/transformer))
 - [OpenAPI Zod Client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript HTTP client with Zod validation) from a (JSON/YAML) OpenAPI spec.
+- [fliegdoc](https://github.com/fliegwerk/fliegdoc) - Documentation generator for Typescript-based libraries with good support for monorepos.

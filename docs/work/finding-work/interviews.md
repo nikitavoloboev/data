@@ -173,3 +173,4 @@
 - [Job interview questions engineers should ask, but don't](https://posthog.com/blog/what-to-ask-in-interviews) ([HN](https://news.ycombinator.com/item?id=31906933))
 - [How to NOT Fail a Technical Interview (2022)](https://www.youtube.com/watch?v=1t1_a1BZ04o)
 - [System Design Interview Practice Questions](https://github.com/alex-xu-system/bytebytego)
+- [InterviewThis](https://github.com/Twipped/InterviewThis) - Open source list of developer questions to ask prospective employers.

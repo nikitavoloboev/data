@@ -48,3 +48,4 @@ sublime.log_input(True); sublime.log_commands(True); sublime.log_result_regex(Tr
 - [Sublime Text 4 (2021)](https://www.sublimetext.com/blog/articles/sublime-text-4) ([HN](https://news.ycombinator.com/item?id=27230042)) ([Lobsters](https://lobste.rs/s/1o4x0n/sublime_text_4))
 - [Mastering Sublime Text (2021)](https://www.git-tower.com/blog/more-productive-mastering-sublime-text/)
 - [Making return open files in global search results](https://forum.sublimetext.com/t/is-it-possible-to-quickly-go-the-file-of-the-found-results-from-find-results-window/32121/6)
+- [LSP for Sublime Text](https://github.com/sublimelsp/LSP)

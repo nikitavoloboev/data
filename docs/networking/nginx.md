@@ -89,3 +89,4 @@ title: Nginx
 - [Built-from-source container image of NGINX](https://github.com/ricardbejarano/nginx)
 - [Test::Nginx](https://github.com/openresty/test-nginx) - Data-driven test scaffold for Nginx C module and Nginx/OpenResty-based libraries and applications.
 - [The future of Nginx: Getting back to our open source roots (2022)](https://www.nginx.com/blog/future-of-nginx-getting-back-to-our-open-source-roots/) ([HN](https://news.ycombinator.com/item?id=32572153))
+- [wasm-nginx-module](https://github.com/api7/wasm-nginx-module) - Run Wasm in OpenResty/Nginx.

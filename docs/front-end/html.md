@@ -280,3 +280,4 @@ Hi<div>oh no break</div>
 - [Able Player](https://github.com/ableplayer/ableplayer) - Fully accessible cross-browser HTML5 media player.
 - [Tabler](https://github.com/tabler/tabler) - Free and open-source HTML Dashboard UI Kit built on Bootstrap. ([HN](https://news.ycombinator.com/item?id=32278397))
 - [HTML Parser](https://github.com/mathiversen/html-parser) - Simple and general purpose html/xhtml parser lib/bin, using Pest.
+- [Loading Images With the “Blur Down” Technique](https://joebell.co.uk/blog/loading-images-with-the-blur-down-technique) ([Code](https://github.com/joe-bell/loading-disco))

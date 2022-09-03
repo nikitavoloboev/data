@@ -295,3 +295,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Big Changes Ahead for Deno (2022)](https://deno.com/blog/changes) ([HN](https://news.ycombinator.com/item?id=32468613))
 - [Wren](https://github.com/zaiste/wren) - Small, but powerful HTTP library for Deno & Deno Deploy, built for convenience and simplicity.
 - [Deno 1.25 (2022)](https://deno.com/blog/v1.25) ([HN](https://news.ycombinator.com/item?id=32592544))
+- [fsrouter](https://github.com/justinawrey/fsrouter) - File system based router for Deno.

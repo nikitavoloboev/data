@@ -384,6 +384,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 - [KissSQL](https://github.com/VinGarcia/ksql) - Simple and Powerful Go SQL Library.
 - [Kvass](https://github.com/maxmunzel/kvass) - Personal key-value store. ([HN](https://news.ycombinator.com/item?id=32212235))
+- [BetterCache](https://github.com/realTristan/bettercache) - Modern Caching System with Lightning Fast Full Text Search. ([Reddit](https://www.reddit.com/r/golang/comments/x4b7yu/bettercache_20_has_full_text_searchremove_etc/))
 - [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - Flexible and powerful SQL string builder library plus a zero-config ORM.
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go.
 - [sq](https://github.com/bokwoon95/sq) - Type-safe data mapper and query builder for Go. ([Lobsters](https://lobste.rs/s/uc0s9y/sq_type_safe_data_mapper_query_builder))

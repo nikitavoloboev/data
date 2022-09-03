@@ -146,3 +146,4 @@
 - [VS Code Markdown Language Service](https://github.com/microsoft/vscode-markdown-languageservice)
 - [mdast-util-to-markdown](https://github.com/syntax-tree/mdast-util-to-markdown) - mdast utility that turns a syntax tree into markdown.
 - [Introducing the Markdown Language Server](https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server) ([Lobsters](https://lobste.rs/s/xvmr72/introducing_markdown_language_server))
+- [LSP-marksman](https://github.com/sublimelsp/LSP-marksman) - LSP server for Markdown provided through Marksman.

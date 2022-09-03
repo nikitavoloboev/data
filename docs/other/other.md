@@ -667,3 +667,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Bleeding Heart Ring](https://www.jewelrybyserendipity.com/collections/rings/products/garnet-heart)
 - [List of Physical Visualizations and Related Artifacts](http://dataphys.org/list/)
 - [Creativity requires solitude](https://dkb.show/post/creativity-requires-solitude) ([HN](https://news.ycombinator.com/item?id=32595681))
+- [Hacker News Search With RSS & JSON Feeds](http://hnapp.com/) ([Code](https://github.com/raquo/hnapp))

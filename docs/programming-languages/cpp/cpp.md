@@ -361,3 +361,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Ask HN: Who is using C++ as the main language for new project? (2022)](https://news.ycombinator.com/item?id=32437173)
 - [Exceptions the Other Way Round - Sean Parent (2022)](https://www.youtube.com/watch?v=mkkaAWNE-Ig)
 - [C++ Coroutines: Understanding the Compiler Transform (2022)](https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform)
+- [KataScript](https://github.com/brwhale/KataScript) - Simple scripting language with familiar syntax, designed to be easily embedded in C++ applications.

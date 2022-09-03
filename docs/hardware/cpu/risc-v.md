@@ -186,3 +186,4 @@ title: RISC-V
 - [RiftCore](https://github.com/whutddk/RiftCore) - 9-stage, single-issue, out of order 64-bits RISC-V Core, which supports RV64IMC and 3-level Cache system.
 - [Intro to GCC bootstrap in RISC-V (2022)](https://ekaitz.elenq.tech/bootstrapGcc0.html)
 - [PsPIN](https://github.com/spcl/pspin) - RISC-V in-network accelerator for flexible high-performance low-power packet processing.
+- [Minimal operating system (2K LOC) on a small RISC-V board](https://github.com/yhzhang0128/egos-2000)

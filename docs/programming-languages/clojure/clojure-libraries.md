@@ -249,6 +249,8 @@
 - [Marginalia](https://github.com/gdeer81/marginalia) - Ultra-lightweight literate programming for clojure.
 - [Goose](https://github.com/nilenso/goose) - Simple, Reliable & Scalable background processing library for Clojure.
 - [xforms](https://github.com/cgrand/xforms) - Extra transducers and reducing fns for Clojure(script).
+- [True Grit](https://github.com/KingMob/TrueGrit) - Data-driven, functionally-oriented, idiomatic Clojure library for circuit breakers, bulkheads, retries, rate limiters, timeouts, etc.
+- [Pattern](https://github.com/pangloss/pattern) - Lets you transform data structures in amazing ways.
 
 ## Links
 

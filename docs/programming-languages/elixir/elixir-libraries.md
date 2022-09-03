@@ -228,6 +228,7 @@
 - [Rexbug](https://github.com/nietaki/rexbug) - Thin Elixir wrapper for the redbug Erlang tracing debugger.
 - [Mux Elixir](https://github.com/muxinc/mux-elixir) - Official Mux API wrapper for Elixir projects, supporting both Mux Data and Mux Video.
 - [StreamGzip](https://github.com/ne-sachirou/stream_gzip) - Gzip or gunzip an Elixir stream.
+- [Uniform](https://github.com/ucbi/uniform) - Write less boilerplate and reuse more code in your portfolio of Elixir apps.
 
 ## Links
 

@@ -314,3 +314,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Wi-Fine: it is fine to use public Wi-Fi](https://wifine.gitlab.io/) ([Lobsters](https://lobste.rs/s/ljdnnd/wi_fine_it_is_fine_use_public_wi_fi)) ([HN](https://news.ycombinator.com/item?id=32315579))
 - [sget](https://github.com/sigstore/sget) - Command for safer, automatic verification of signatures and integration with Sigstore's binary transparency log, Rekor.
 - [Open Source Software Secure Supply Chain Framework](https://github.com/microsoft/oss-ssc-framework)
+- [Go Incognito: A Guide to Security, Privacy, & Anonymity](https://github.com/techlore/go-incognito)

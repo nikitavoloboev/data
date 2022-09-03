@@ -242,3 +242,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [SQLite: Past, Present, and Future](https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future) ([HN](https://news.ycombinator.com/item?id=32675861))
 - [How SQLite scales read concurrency (2022)](https://fly.io/blog/sqlite-internals-wal/) ([HN](https://news.ycombinator.com/item?id=32579866))
 - [SQLite has pretty limited builtin functions (2022)](https://datastation.multiprocess.io/blog/2022-08-21-sqlite-limited-builtin-functions.html)
+- [MojoFS](https://github.com/sudeep9/mojo) - Versioning, userspace filesystem for SQLite DB.

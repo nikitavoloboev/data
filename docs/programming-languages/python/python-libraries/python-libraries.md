@@ -961,6 +961,7 @@
 - [video2numpy](https://github.com/iejMac/video2numpy) - Optimized library for large-scale extraction of frames and audio from video.
 - [clip-video-encode](https://github.com/iejMac/clip-video-encode) - Easily compute clip embeddings from video frames.
 - [similaritymeasures](https://github.com/cjekel/similarity_measures) - Quantify the difference between two arbitrary curves in space.
+- [annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated.
 
 ## Notes
 

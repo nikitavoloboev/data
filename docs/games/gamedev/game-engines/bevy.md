@@ -59,3 +59,4 @@ title: Bevy Engine
 - [Bevy Pen Tool](https://github.com/eliotbo/bevy_pen_tool)
 - [Bevy Plot](https://github.com/eliotbo/bevy_plot) - Plotting library for the Bevy game engine with a focus on esthetics and interactivity.
 - [Bevy Shell - Template](https://github.com/kurbos/bevy-shell-template) - Opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
+- [iyes_progress](https://github.com/IyesGames/iyes_progress) - Bevy plugin to help track progress and perform state transitions.

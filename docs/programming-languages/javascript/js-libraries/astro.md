@@ -43,3 +43,5 @@ title: Astro
 - [Tree Sitter Astro](https://github.com/virchau13/tree-sitter-astro)
 - [Astro HTML Streaming](https://twitter.com/RyanCarniato/status/1557132452589473792)
 - [ESLint Astro Plugin](https://github.com/ota-meshi/eslint-plugin-astro)
+- [astro-i18next](https://github.com/yassinedoghri/astro-i18next) - Astro integration of i18next + some utility components to help you translate your astro websites.
+- [Astro Fastify](https://github.com/matthewp/astro-fastify) - Fastify adapter for Astro.

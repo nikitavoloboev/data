@@ -109,3 +109,4 @@
 - [Run Stable Diffusion on Your M1 Mac’s GPU (2022)](https://replicate.com/blog/run-stable-diffusion-on-m1-mac) ([HN](https://news.ycombinator.com/item?id=32678664))
 - [Stable Diffusion Dream Script](https://github.com/lstein/stable-diffusion) - Fork of CompVis/stable-diffusion, the wonderful open source text-to-image generator.
 - [Exporters](https://github.com/huggingface/exporters) - Export Hugging Face models to Core ML and TensorFlow Lite.
+- [SD-explorer](https://github.com/nicoptere/SD-explorer) - Toy project to explore Stable Diffusion locally through a nodeJS server.

@@ -17,7 +17,7 @@ title: Swift
 
 ## Links
 
-- [Swift Book](https://docs.swift.org/swift-book/)
+- [Swift Book](https://docs.swift.org/swift-book/) ([Code](https://github.com/apple/swift-book))
 - [Swift Tips by Sundell](https://www.swiftbysundell.com/tips/) ([Code](https://github.com/JohnSundell/SwiftTips))
 - [Swift Tips by Luur](https://github.com/Luur/SwiftTips)
 - [WWDC videos](https://developer.apple.com/videos/)

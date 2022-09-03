@@ -108,3 +108,4 @@
 - [Ask HN: What's is your go to toolset for simple front end development? (2022)](https://news.ycombinator.com/item?id=32011439)
 - [UI Learn](https://uilearn.com/) - Learn interface design with articles, books and video course. ([Course](https://uilearn.com/free-course/))
 - [Avoiding \<img\> layout shifts: aspect-ratio vs width & height attributes (2022)](https://jakearchibald.com/2022/img-aspect-ratio/)
+- [whyframe](https://whyframe.dev/) - Develop components in isolation. ([Code](https://github.com/bluwy/whyframe))

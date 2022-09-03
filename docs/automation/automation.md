@@ -50,6 +50,7 @@
 - [Windmill](https://docs.windmill.dev/) - Developer platform to quickly build production-grade multi-steps automations and internal apps from minimal Python and Typescript scripts. ([Code](https://github.com/windmill-labs/windmill)) ([HN](https://news.ycombinator.com/item?id=31272793)) ([Hub](https://hub.windmill.dev/)) ([HN](https://news.ycombinator.com/item?id=32400849))
 - [DataProphet](https://dataprophet.com/) - Machine Learning | Manufacturing AI.
 - [Ask HN: Can I see your scripts? (2022)](https://news.ycombinator.com/item?id=32467957)
+- [Guidepup](https://github.com/guidepup/guidepup) - Screen-reader driver for automation.
 
 ## Images
 

@@ -353,3 +353,4 @@ title: WebAssembly
 - [Accessing WebAssembly reference-typed arrays from C++ (2022)](https://wingolog.org/archives/2022/08/23/accessing-webassembly-reference-typed-arrays-from-c) ([HN](https://news.ycombinator.com/item?id=32563195))
 - [From a WebAssembly Perspective](https://www.assemblyscript.org/introduction.html#from-a-webassembly-perspective) ([HN](https://news.ycombinator.com/item?id=32562327))
 - [Just-in-time code generation within WebAssembly (2022)](https://wingolog.org/archives/2022/08/18/just-in-time-code-generation-within-webassembly)
+- [Wispy](https://github.com/drew-y/wispy) - Lisp inspired programming language for learning WASM.

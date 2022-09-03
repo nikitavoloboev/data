@@ -903,3 +903,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Ask HN: In 2022, what is the proper way to get into machine/deep learning? (2022)](https://news.ycombinator.com/item?id=32480009)
 - [1 week of Stable Diffusion](https://multimodal.art/news/1-week-of-stable-diffusion) ([HN](https://news.ycombinator.com/item?id=32650432))
 - [What are Diffusion Models? (2021)](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) ([Lobsters](https://lobste.rs/s/n9rd5p/what_are_diffusion_models))
+- [Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models (2022)](https://arxiv.org/abs/2208.06677) ([Code](https://github.com/sail-sg/Adan))
+- [Awesome AI image synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis)

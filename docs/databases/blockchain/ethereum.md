@@ -660,3 +660,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Grappa](https://github.com/antoncoding/grappa) - Gas efficient & capital efficient margin system for options.
 - [Rollups & Optimism (2022)](https://avichalp.me/posts/2022-07-31-rollups-and-optimism/)
 - [Bridging to Optimism (2022)](https://review.mirror.xyz/-Pjf5ss6cAWdy5J7i6VigzMbiSWU3Lllw6y-FV2c6k4)
+- [Uniswap SDK Core](https://github.com/Uniswap/sdk-core) - Code shared across TypeScript Uniswap SDK versions.
