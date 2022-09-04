@@ -183,3 +183,4 @@
 - [Sycret](https://github.com/OpenMined/sycret) - Function Secret Sharing library for Python and Rust with hardware acceleration.
 - [Paranoid Crypto](https://github.com/google/paranoid_crypto) - Checks for well known weaknesses on cryptographic artifacts such as public keys, digital signatures and general pseudorandom numbers.
 - [A Wide Reduction Trick (2022)](https://words.filippo.io/dispatches/wide-reduction/)
+- [Memory Tagging: A Memory Efficient Design (2022)](https://arxiv.org/abs/2209.00307)

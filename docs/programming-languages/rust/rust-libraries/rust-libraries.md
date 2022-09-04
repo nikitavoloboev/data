@@ -179,6 +179,7 @@
 - [ructe](https://github.com/kaj/ructe) - Rust Compiled Templates with static-file handling.
 - [backon](https://github.com/Xuanwo/backon) - Retry futures in backoff without effort.
 - [nickel.rs](https://github.com/nickel-org/nickel.rs) - Express inspired web framework for Rust.
+- [exponential-backoff](https://github.com/yoshuawuyts/exponential-backoff) - Exponential backoff generator with jitter.
 
 ## Auth
 
@@ -703,6 +704,7 @@
 - [keychain-services.rs](https://github.com/iqlusioninc/keychain-services.rs) - Keychain Services for Rust.
 - [xhypervisor](https://github.com/RWTH-OS/xhypervisor) - Rust API to the OS X Hypervisor framework for hardware-accelerated virtualization.
 - [macos-UnifiedLogs](https://github.com/mandiant/macos-UnifiedLogs) - Simple Rust library that can help parse the macOS Unified Log files.
+- [vmnet](https://github.com/edigaryev/vmnet) - Apple's vmnet.framework bindings for Rust.
 
 ## Macros
 
@@ -2112,6 +2114,7 @@
 - [StackFuture](https://github.com/microsoft/stackfuture) - Wrapper around Rust futures that stores the future in space provided by the caller.
 - [Fcode](https://github.com/tijsvd/fcode) - Binary format for Rust / serde that supports schema evolution.
 - [concurrent-queue](https://github.com/smol-rs/concurrent-queue) - Concurrent multi-producer multi-consumer queue.
+- [RDP](https://github.com/urschrei/rdp) - Rust implementation of the Ramer–Douglas-Peucker and Visvalingam-Whyatt line simplification algorithms.
 
 ## Cargo Plugins
 
@@ -2205,6 +2208,7 @@
 - [cargo-docs](https://github.com/btwiuse/cargo-docs) - Serve rust and crate doc locally.
 - [cargo-pgo](https://github.com/Kobzol/cargo-pgo) - Cargo subcommand for optimizing binaries with PGO and BOLT.
 - [cargo feature-set](https://github.com/badboy/cargo-feature-set) - Extract the features for every compiled crate from cargo metadata.
+- [cargo-show-asm](https://github.com/pacak/cargo-show-asm) - Cargo subcommand that displays the Assembly, LLVM-IR and MIR generated for Rust source code.
 
 ## Notes
 

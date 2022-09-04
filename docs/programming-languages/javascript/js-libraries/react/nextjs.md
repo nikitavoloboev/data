@@ -385,3 +385,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Next.js Routes](https://github.com/tatethurston/nextjs-routes) - Autogenerate type safe routing for Next.js.
 - [next-swr-endpoints](https://github.com/vercel-labs/next-swr-endpoints) - Intuitive way to fetch API endpoints in Next.js using SWR + compile time magic.
 - [Generic Replicache backend for Next.js](https://github.com/rocicorp/replicache-nextjs)
+- [qs-props](https://github.com/aiji42/next-qs-props) - Library makes it possible to handle query strings in Next.js getStaticProps.

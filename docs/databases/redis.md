@@ -166,3 +166,4 @@ title: Redis
 - [Redis Replica Manager](https://github.com/zavitax/redis-replica-manager-go) - Group membership, sharding, replication and request routing manager relying on Redis for coordination.
 - [How to Reduce Latency and Minimize Outages (2022)](https://redis.com/blog/how-to-reduce-latency-and-minimize-outages/)
 - [Redis explained (2022)](https://architecturenotes.co/redis/) ([HN](https://news.ycombinator.com/item?id=32426879))
+- [bitmapist](https://github.com/Doist/bitmapist) - Powerful analytics and cohort library using Redis bitmaps.

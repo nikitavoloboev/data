@@ -90,3 +90,4 @@
 - [Superwall](https://superwall.com/) - Build the best mobile paywalls. ([Twitter](https://twitter.com/superwall))
 - [Lago](https://www.getlago.com/) - Open Source Billing API for Product-Led SaaS. ([Code](https://github.com/getlago/lago))
 - [How to offer effective free trials](https://upollo.ai/blog/effective-trials) ([HN](https://news.ycombinator.com/item?id=32658926))
+- [Lotus](https://www.uselotus.io/) - Open Source Pricing and Billing Engine for SaaS. ([Code](https://github.com/uselotus/lotus))

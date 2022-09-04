@@ -6,6 +6,7 @@ title: Idris
 
 ## Links
 
+- [Learn Idris](https://learn-idris.net/) ([Code](https://github.com/stepancheg/learn-idris-pub))
 - [The Power of Types in Idris (2019)](https://www.azavea.com/blog/2019/03/11/the-power-of-types-in-idris/)
 - [Idris koans](https://github.com/idris-hackers/idris-koans)
 - [Awesome Idris](https://github.com/joaomilho/awesome-idris)

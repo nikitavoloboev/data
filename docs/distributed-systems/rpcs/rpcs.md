@@ -58,3 +58,4 @@ title: Remote Procedure Calls
 - [TwirpScript](https://github.com/tatethurston/TwirpScript) - Protobuf RPC framework for JavaScript and TypeScript.
 - [Volo](https://github.com/cloudwego/volo) - High-performance and strong-extensibility Rust RPC framework that helps developers build microservices.
 - [Seata-go](https://github.com/seata/seata-go) - Simple Extensible Autonomous Transaction Architecture (Go version).
+- [webrpc](https://github.com/astronautlabs/webrpc) - Powerful way to do RPC on the web.

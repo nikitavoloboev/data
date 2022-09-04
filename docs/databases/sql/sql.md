@@ -211,3 +211,4 @@ title: SQL
 - [Having, a less understood SQL clause (2022)](https://smallthingssql.com/having-a-less-understood-sql-clause) ([HN](https://news.ycombinator.com/item?id=32363882))
 - [Nice intros to SQL](https://twitter.com/AllenDowney/status/1556702573633101825)
 - [Parsing SQL](https://tomassetti.me/parsing-sql/) ([HN](https://news.ycombinator.com/item?id=32560039))
+- [Set of useful SQL scripts](https://github.com/mfvanek/useful-sql-scripts)

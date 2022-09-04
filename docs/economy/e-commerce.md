@@ -164,4 +164,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://github.com/princeton-nlp/WebShop)
 - [Ask HN: Anyone making software for kiosks, infotainments or similar? (2022)](https://news.ycombinator.com/item?id=32223919)
 - [Shopify API](https://github.com/Shopify/shopify_python_api) - Library allows Python developers to programmatically access the admin section of stores.
-- [Openship](https://openship.org/) - Scale your e-commerce operations by using multi-channel fulfillment. Open-source Amazon. ([HN](https://news.ycombinator.com/item?id=32690410))
+- [Openship](https://openship.org/) - Scale your e-commerce operations by using multi-channel fulfillment. Open-source Amazon. ([HN](https://news.ycombinator.com/item?id=32690410)) ([Code](https://github.com/openshiporg/openship))

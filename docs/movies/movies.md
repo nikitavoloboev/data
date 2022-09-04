@@ -135,3 +135,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [The Most Fun Movie](https://www.reddit.com/r/MovieSuggestions/comments/vfzf5z/the_most_fun_movie/)
 - [Movies that made you Cry](https://www.reddit.com/r/MovieSuggestions/comments/x4l65y/movies_that_made_you_cry/)
 - [Top Korean movies](https://twitter.com/petergyang/status/1565852104576487429)
+- [Movies with a massive plot twist (2022)](https://www.reddit.com/r/MovieSuggestions/comments/x53wwn/i_wanna_watch_a_movie_with_a_massive_plot_twist/)

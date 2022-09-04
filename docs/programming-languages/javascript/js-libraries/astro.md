@@ -45,3 +45,4 @@ title: Astro
 - [ESLint Astro Plugin](https://github.com/ota-meshi/eslint-plugin-astro)
 - [astro-i18next](https://github.com/yassinedoghri/astro-i18next) - Astro integration of i18next + some utility components to help you translate your astro websites.
 - [Astro Fastify](https://github.com/matthewp/astro-fastify) - Fastify adapter for Astro.
+- [Astro Beep](https://github.com/natemoo-re/astro-beep) - Trigger a system notification when your Astro build is complete.

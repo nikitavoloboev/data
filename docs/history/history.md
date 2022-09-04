@@ -205,3 +205,4 @@
 - [Why wasn't the steam engine invented earlier?](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8) ([HN](https://news.ycombinator.com/item?id=32106467))
 - [Logistics, How Did They Do It, Part I: The Problem (2022)](https://acoup.blog/2022/07/15/collections-logistics-how-did-they-do-it-part-i-the-problem/) ([HN](https://news.ycombinator.com/item?id=32239566))
 - [Why no Roman industrial revolution?](https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/) ([HN](https://news.ycombinator.com/item?id=32607187))
+- [Why was western printing superior to Asian printing?](https://erikexamines.substack.com/p/why-was-western-printing-superior) ([HN](https://news.ycombinator.com/item?id=32710515))

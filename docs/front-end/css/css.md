@@ -548,3 +548,4 @@ all: unset
 - [Puppertino](https://github.com/codedgar/Puppertino) - CSS framework based on Human Guidelines from Apple.
 - [Polygon Shapes](https://yuanchuan.dev/polygon-shapes)
 - [Parents counting children in CSS (2022)](https://www.matuzo.at/blog/2022/counting-children/)
+- [ress](https://github.com/filipelinhares/ress) - Modern CSS reset.

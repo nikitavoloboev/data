@@ -716,6 +716,9 @@
 - [FilePathsBase.jl](https://github.com/rofinn/FilePathsBase.jl) - Type based approach to working with filesystem paths in julia.
 - [CachePath](https://github.com/jlapeyre/CachePath.jl) - Allow caching precompiled Julia code in a specified directory.
 - [PlotIter](https://github.com/tpgillam/PlotIter.jl) - Make many plots from an iterable.
+- [MultiDocumenter](https://github.com/JuliaComputing/MultiDocumenter.jl) - Aggregates Documenter.jl documentation from multiple sources into one page with a global search bar.
+- [AutoSysimages](https://github.com/petvana/AutoSysimages.jl) - Automate user-specific system images for Julia.
+- [EasyFit](https://github.com/m3g/EasyFit.jl) - Easy interface for obtaining fits of 2D data.
 
 ## Links
 
@@ -747,3 +750,4 @@
 - [Julia Package Setup Tutorial (2021)](https://bjack205.github.io/tutorial/2021/07/16/julia_package_setup.html)
 - [Guide to Artifacts in Julia (2022)](https://www.juliafordatascience.com/artifacts/)
 - [JNumPy](https://github.com/Suzhou-Tongyuan/jnumpy) - Writing high-performance C extensions for Python in minutes. ([HN](https://news.ycombinator.com/item?id=32407451))
+- [PkgDependency](https://github.com/peng1999/PkgDependency.jl) - Show dependency tree of Julia project.

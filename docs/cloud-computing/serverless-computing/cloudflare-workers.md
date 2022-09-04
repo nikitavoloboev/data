@@ -20,6 +20,7 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Using Cloudflare Workers to proxy dev.to blog via API](https://github.com/brycedorn/blog)
 - [End-to-end encrypted chat demo using Cloudflare Workers and Durable Objects](https://github.com/zmxv/cf-e2eechat)
 - [Pastebin Worker](https://github.com/SharzyL/pastebin-worker) - Pastebin based on Cloudflare worker, with friendly CLI usage and rich features. ([Web](https://shz.al/))
+- [Loction Worker](https://github.com/umgefahren/worker-location) - Small cloudflare worker build in Rust to extract the location of the requesting user.
 
 ## Notes
 

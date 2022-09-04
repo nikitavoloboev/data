@@ -797,3 +797,4 @@ title: Kubernetes
 - [Nova](https://github.com/FairwindsOps/nova) - Find outdated or deprecated Helm charts running in your cluster.
 - [Kubernetes Was Never Designed for Batch Jobs (2022)](https://betterprogramming.pub/kubernetes-was-never-designed-for-batch-jobs-f59be376a338) ([Lobsters](https://lobste.rs/s/z8gxe6/kubernetes_was_never_designed_for_batch))
 - [Parseable](https://github.com/parseablehq/parseable) - Cloud native log storage and management for Kubernetes, containerised workloads.
+- [k8s-client-go](https://github.com/castai/k8s-client-go) - Minimal Go Kubernetes client based on Generics.

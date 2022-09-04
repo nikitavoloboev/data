@@ -601,6 +601,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful.
 - [Modelina](https://github.com/asyncapi/modelina) - Library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [meta-types](https://github.com/grantila/meta-types) - TypeScript meta functions for (especially variadic) meta programming.
+- [typed-macro](https://github.com/typed-macro/typed-macro) - Brings macros to your projects.
 
 ## Links
 

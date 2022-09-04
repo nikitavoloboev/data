@@ -385,6 +385,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [KissSQL](https://github.com/VinGarcia/ksql) - Simple and Powerful Go SQL Library.
 - [Kvass](https://github.com/maxmunzel/kvass) - Personal key-value store. ([HN](https://news.ycombinator.com/item?id=32212235))
 - [BetterCache](https://github.com/realTristan/bettercache) - Modern Caching System with Lightning Fast Full Text Search. ([Reddit](https://www.reddit.com/r/golang/comments/x4b7yu/bettercache_20_has_full_text_searchremove_etc/))
+- [Bob](https://github.com/stephenafamo/bob) - SQL Query Builder for Go.
 - [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - Flexible and powerful SQL string builder library plus a zero-config ORM.
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go.
 - [sq](https://github.com/bokwoon95/sq) - Type-safe data mapper and query builder for Go. ([Lobsters](https://lobste.rs/s/uc0s9y/sq_type_safe_data_mapper_query_builder))
@@ -1927,3 +1928,6 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Self-Recompiling Go Binaries](https://github.com/shazow/go-selfcompile)
 - [Metaprogramming with Go - or how to build code generators that parse Go code](https://github.com/hlubek/metaprogramming-go)
 - [Fuzzing Go APIs for SQL Injection (2022)](https://blog.fuzzbuzz.io/fuzzing-go-apis-for-sql-injection/) ([HN](https://news.ycombinator.com/item?id=32664270))
+- [go-coverage](https://github.com/gojek/go-coverage) - Increase code coverage of Go projects.
+- [Template project for Go libraries](https://github.com/bep/golibtemplate)
+- [tools.mod](https://github.com/konradreiche/tools.mod) - Example for using a separate modules file to track tool dependencies in Go.

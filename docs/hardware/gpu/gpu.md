@@ -119,3 +119,4 @@ title: GPU
 - [Inlyne](https://github.com/trimental/inlyne) - GPU powered, browserless, markdown + HTML viewer.
 - [The GPU Banana Stand (2022)](https://acko.net/blog/the-gpu-banana-stand/)
 - [Clip control on the Apple GPU (2022)](https://rosenzweig.io/blog/asahi-gpu-part-6.html) ([HN](https://news.ycombinator.com/item?id=32551512))
+- [Running Stable Diffusion on Your GPU with Less Than 10Gb of VRAM (2022)](https://constant.meiring.nz/playing/2022/08/04/playing-with-stable-diffusion.html) ([HN](https://news.ycombinator.com/item?id=32710365))

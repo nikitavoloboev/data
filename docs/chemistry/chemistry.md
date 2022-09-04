@@ -100,3 +100,4 @@ title: Chemistry
 - [Faked Crystallography (2022)](https://www.science.org/content/blog-post/faked-crystallography) ([HN](https://news.ycombinator.com/item?id=32280756))
 - [Scientific Computing for Chemists with Python](https://github.com/weisscharlesj/SciCompforChemists)
 - [Introductory tutorials on deep learning for chemistry](https://github.com/rociomer/dl-chem-101)
+- [Mofdscribe](https://github.com/kjappelbaum/mofdscribe) - Ecosystem for digital reticular chemistry.

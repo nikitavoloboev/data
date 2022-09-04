@@ -396,3 +396,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [We want to make Nix better (2022)](https://determinate.systems/posts/we-want-to-make-nix-better) ([Lobsters](https://lobste.rs/s/d0lh6w/we_want_make_nix_better)) ([HN](https://news.ycombinator.com/item?id=32693107))
 - [Stop calling everything "Nix" (2022)](https://www.haskellforall.com/2022/08/stop-calling-everything-nix.html) ([Lobsters](https://lobste.rs/s/nvyntx/stop_calling_everything_nix))
 - [Unit Test Your Nix Code (2022)](https://www.tweag.io/blog/2022-09-01-unit-test-your-nix-code/)
+- [nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - Drop-in replacement for nix-serve that is faster and more reliable.

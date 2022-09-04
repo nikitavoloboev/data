@@ -196,3 +196,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Writing my PhD using groff (2022)](https://jstutter.netlify.app/) ([HN](https://news.ycombinator.com/item?id=32202209))
 - [paperscraper](https://github.com/PhosphorylatedRabbits/paperscraper) - Tools to scrape publication metadata from pubmed, arxiv, medrxiv and chemrxiv.
 - [pandoc-plot](https://github.com/LaurentRDC/pandoc-plot) - Render and include figures in Pandoc documents using your plotting toolkit of choice.
+- [Pyzotero](https://github.com/urschrei/pyzotero) - Python client for the Zotero API.

@@ -1005,6 +1005,7 @@
 - [joycon](https://github.com/egoist/joycon) - Find and load config files with joy.
 - [SAT.js](https://github.com/jriecken/sat-js) - Simple JavaScript library for performing 2D collision detection.
 - [Cookie Consent](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla JS.
+- [Tether](https://github.com/shipshapecode/tether) - positioning engine to make overlays, tooltips and dropdowns better.
 
 ## Links
 

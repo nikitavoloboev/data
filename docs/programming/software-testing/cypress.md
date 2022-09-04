@@ -57,3 +57,4 @@ title: Cypress
 - [Cypress Snapshot](https://github.com/cypress-io/snapshot) - Adds value / object / DOM element snapshot testing support to Cypress test runner.
 - [Cypress Parallel](https://github.com/tgamauf/cypress-parallel) - GitHub action allows you to easily execute Cypress tests in parallel without the use of Cypress Dashboard.
 - [DeploySentinel](https://www.deploysentinel.com/) - Debug Flaky Cypress Tests. ([HN](https://news.ycombinator.com/item?id=32319404))
+- [Cypress ODiff](https://github.com/odai-alali/cypress-odiff) - Plugin for adding visual regression test to Cypress using ODiff The fastest pixel-by-pixel image visual difference tool in the world.

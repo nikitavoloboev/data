@@ -170,3 +170,4 @@ title: Django
 - [Daphne](https://github.com/django/daphne) - Django Channels HTTP/WebSocket server.
 - [Pellet](https://github.com/har777/pellet) - Helps improve your Django app performance by discovering N+1 queries.
 - [Dataloaders for Django and Strawberry](https://github.com/VojtechPetru/strawberry-django-dataloaders)
+- [Django + htmx patterns](https://github.com/spookylukey/django-htmx-patterns)

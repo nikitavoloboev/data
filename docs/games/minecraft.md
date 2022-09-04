@@ -133,3 +133,4 @@ title: Minecraft
 - [NetBSD can also run a Minecraft server (2022)](https://rubenerd.com/netbsd-can-also-run-a-minecraft-server/)
 - [Hosting a Minecraft server without extra hardware (2022)](https://siraben.dev/2022/08/01/tailscale-iptables.html)
 - [REPL Driven Minecraft](https://www.juxt.pro/blog/repl-driven-minecraft) ([HN](https://news.ycombinator.com/item?id=32650626))
+- [Valence](https://github.com/valence-rs/valence) - Rust framework for building Minecraft servers. ([Reddit](https://www.reddit.com/r/rust/comments/x5941i/media_announcing_valence_a_rust_framework_for/))

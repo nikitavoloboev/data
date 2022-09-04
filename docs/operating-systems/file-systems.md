@@ -127,3 +127,4 @@
 - [Squashfs-Tools](https://github.com/plougher/squashfs-tools) - Tools to create and extract Squashfs filesystems.
 - [Pandoras Box](https://github.com/capnspacehook/pandorasbox) - Intuitive and encrypted in-memory filesystem (VFS).
 - [Muxfs](https://sdadams.org/blog/introducing-muxfs/) - Mirroring, checksumming, and self-healing filesystem layer for OpenBSD. ([HN](https://news.ycombinator.com/item?id=32456905))
+- [Understanding Google’s File System (2020)](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html)

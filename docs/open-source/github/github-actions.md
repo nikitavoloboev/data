@@ -251,6 +251,8 @@ title: GitHub actions
 - [setup-protoc](https://github.com/arduino/setup-protoc) - GitHub Action to setup the protoc compiler for protocol buffers.
 - [Upload Pages Artifact](https://github.com/actions/upload-pages-artifact) - Composite action for packaging and uploading an artifact that can be deployed to GitHub Pages.
 - [Condition based Pull Request Labeler](https://github.com/srvaroa/labeler) - GitHub Action to assign labels to PRs based on configurable conditions.
+- [gh-changelogen](https://github.com/kazupon/gh-changelogen) - Changelog generator for GitHub Releases.
+- [Push to Fig Autocomplete](https://github.com/withfig/push-to-fig-autocomplete-action)
 
 ## Go
 
@@ -283,6 +285,7 @@ title: GitHub actions
 - [Cargo install action](https://github.com/baptiste0928/cargo-install) - GitHub action for cache-efficient Rust crates installation.
 - [Awesome Rust Actions](https://github.com/actions-rs/awesome-rust-actions)
 - [Install Rust Toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain.
+- [Cargo Release PR](https://github.com/cargo-bins/release-pr) - GitHub Action to create a release PR using cargo-release.
 
 ## Python
 

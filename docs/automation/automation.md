@@ -51,6 +51,7 @@
 - [DataProphet](https://dataprophet.com/) - Machine Learning | Manufacturing AI.
 - [Ask HN: Can I see your scripts? (2022)](https://news.ycombinator.com/item?id=32467957)
 - [Guidepup](https://github.com/guidepup/guidepup) - Screen-reader driver for automation.
+- [Biomanufactured materials are coming (2022)](https://www.tsungxu.com/performance-biomaterials/) ([HN](https://news.ycombinator.com/item?id=32712015))
 
 ## Images
 

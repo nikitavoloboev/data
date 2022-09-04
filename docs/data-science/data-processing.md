@@ -117,3 +117,4 @@
 - [Scaling our Spreadsheet Engine from Thousands to Billions of Cells (2022)](https://www.causal.app/blog/scaling) ([HN](https://news.ycombinator.com/item?id=32000400)) ([Lobsters](https://lobste.rs/s/pcmrfr/scaling_our_spreadsheet_engine_from))
 - [qv](https://github.com/timvw/qv) - Simple CLI to quickly view your data. Powered by DataFusion.
 - [Airflow's Problem (2022)](https://stkbailey.substack.com/p/airflows-problem) ([HN](https://news.ycombinator.com/item?id=32317558))
+- [Quokka](https://github.com/marsupialtail/quokka) - Fast data processing engine whose core consists of ~1000 lines of Python code.

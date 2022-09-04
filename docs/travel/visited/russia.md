@@ -600,3 +600,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Владимир Путин и ренацификация Германии](https://zona.media/article/2022/08/08/dresden) ([Tweet](https://twitter.com/sssmirnov/status/1556697308099665920))
 - [Soviet Computer Software and Applications in the 1980's](https://www.ucis.pitt.edu/nceeer/1989-801-5-2-Judy.pdf) ([HN](https://news.ycombinator.com/item?id=32479888))
 - [HN: Mikhail Gorbachev has died (2022)](https://news.ycombinator.com/item?id=32654734)
+- [Борис Акунин – История Российского государства](https://www.litres.ru/serii-knig/istoriya-rossiyskogo-gosudarstva/)

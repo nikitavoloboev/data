@@ -184,6 +184,7 @@ div.CodeMirror-cursor,
 - [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane.
 - [Obsidian Footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun.
 - [Obsidian Outliner](https://github.com/vslinko/obsidian-outliner) - Work with your lists like in Workflowy or RoamResearch.
+- [Commander](https://github.com/phibr0/obsidian-commander) - Obsidian Plugin | Add Commands to every part of Obsidian's user interface.
 
 ## Themes
 

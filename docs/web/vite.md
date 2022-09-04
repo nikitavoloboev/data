@@ -105,3 +105,4 @@ title: Vite
 - [Vite Test Utils](https://github.com/kazupon/vite-test-utils)
 - [Vite Sentry Plugin](https://github.com/ikenfin/vite-plugin-sentry)
 - [Getting Started with Vitest](https://www.vuemastery.com/blog/getting-started-with-vitest/) ([HN](https://news.ycombinator.com/item?id=32416783))
+- [Vite Plugin Validate ENV](https://github.com/Julien-R44/vite-plugin-validate-env) - Vite plugin for validating your environment variables.

@@ -52,3 +52,5 @@
 - [formal_hw_verification](https://github.com/tmeissner/formal_hw_verification) - Trying to verify Verilog/VHDL designs with formal methods and tools.
 - [cryptocores](https://github.com/tmeissner/cryptocores) - Cryptography IP-cores & tests written in VHDL / Verilog.
 - [GHDL](https://github.com/ghdl/ghdl) - Open-source analyzer, compiler, simulator and (experimental) synthesizer for VHDL.
+- [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane) - Automated RTL to GDSII flow based on several components.
+- [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) - Integrated chip physical design tool that takes a design from synthesized Verilog to routed layout.
