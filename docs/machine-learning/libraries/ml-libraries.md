@@ -383,3 +383,4 @@ title: ML Libraries
 - [dp-transformers](https://github.com/microsoft/dp-transformers) - Differentially-private transformers using HuggingFace and Opacus.
 - [TinyMaix](https://github.com/sipeed/TinyMaix) - Tiny inference library for microcontrollers (TinyML).
 - [x-unet](https://github.com/lucidrains/x-unet) - Implementation of a U-net complete with efficient attention as well as the latest research findings.
+- [TorchPQ](https://github.com/DeMoriarty/TorchPQ) - Efficient implementations of Product Quantization and its variants using Pytorch and CUDA.

@@ -194,3 +194,5 @@
 - [Cleanlab Vizzy](https://playground.cleanlab.ai/) - Learn how to automatically find label errors and out-of-distribution data. ([Lobsters](https://lobste.rs/s/eoz5gj/cleanlab_vizzy_learn_how_automatically))
 - [Ask HN: Will AI-generated images flooding the web pollute future training data? (2022)](https://news.ycombinator.com/item?id=32577822)
 - [Exploring 12M of the 2.3B images used to train Stable Diffusion (2022)](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/) ([HN](https://news.ycombinator.com/item?id=32655497))
+- [COYO-700M: Large-scale Image-Text Pair Dataset](https://github.com/kakaobrain/coyo-dataset)
+- [WebVid Dataset](https://github.com/m-bain/webvid) - Large-scale text-video dataset. 10 million captioned short videos.

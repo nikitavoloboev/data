@@ -910,3 +910,6 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Notes for prompt engineering](https://github.com/sw-yx/prompt-eng)
 - [Course content and resources for the AIAIART course](https://github.com/johnowhitaker/aiaiart)
 - [Stable Diffusion UI](https://github.com/cmdr2/stable-diffusion-ui)
+- [Score-Based Generative Modeling with Critically-Damped Langevin Diffusion (2022)](https://nv-tlabs.github.io/CLD-SGM/) ([Code](https://github.com/nv-tlabs/CLD-SGM))
+- [Fast Sampling of Diffusion Models with Exponential Integrator (2022)](https://arxiv.org/abs/2204.13902) ([Code](https://github.com/qsh-zh/deis))
+- [Frozen️ in Time](https://github.com/m-bain/frozen-in-time) - Joint Video and Image Encoder for End-to-End Retrieval.

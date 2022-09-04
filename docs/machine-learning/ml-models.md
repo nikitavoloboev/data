@@ -112,3 +112,4 @@
 - [SD-explorer](https://github.com/nicoptere/SD-explorer) - Toy project to explore Stable Diffusion locally through a nodeJS server.
 - [MultiNeRF: A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF](https://github.com/google-research/multinerf)
 - [Prog Rock Stable](https://github.com/lowfuel/progrock-stable) - Stable Diffusion with some Proggy Enhancements.
+- [Diffusers-Interpret](https://github.com/JoaoLages/diffusers-interpret) - Model explainability tool built on top of Diffusers.

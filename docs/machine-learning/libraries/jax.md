@@ -67,3 +67,4 @@ title: JAX
 - [Neural implicit queries](https://github.com/nmwsharp/neural-implicit-queries) - Perform geometric queries on neural implicit surfaces like ray casting, intersection testing, fast mesh extraction, closest points, and more.
 - [CLIP-JAX](https://github.com/borisdayma/clip-jax) - Train CLIP models using JAX and transformers.
 - [BLOOM Inference in JAX](https://github.com/huggingface/bloom-jax-inference)
+- [v-diffusion-jax](https://github.com/crowsonkb/v-diffusion-jax) - V objective diffusion inference code for JAX.
