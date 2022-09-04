@@ -665,6 +665,7 @@
   - [Autonomous driving](docs/machine-learning/autonomous-driving.md)
   - [Artificial intelligence](docs/machine-learning/artificial-intelligence.md)
   - [Transfer learning](docs/machine-learning/transfer-learning.md)
+  - [Generative Machine Learning](docs/machine-learning/generative-machine-learning.md)
 - [Computer graphics](docs/computer-graphics/computer-graphics.md)
   - [Image processing](docs/computer-graphics/image-processing.md)
   - [Computer vision](docs/computer-graphics/computer-vision/computer-vision.md)

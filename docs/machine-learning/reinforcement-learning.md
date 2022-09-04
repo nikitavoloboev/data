@@ -380,3 +380,4 @@ title: Reinforcement learning
 - [Synthesis](https://github.com/coreylowman/synthesis) - Rust implementation of AlphaZero algorithm.
 - [CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning (2022)](https://arxiv.org/abs/2207.01780) ([Code](https://github.com/salesforce/CodeRL))
 - [Reinforcement Learning for Budget Constrained Recommendations (2022)](https://netflixtechblog.medium.com/reinforcement-learning-for-budget-constrained-recommendations-6cbc5263a32a)
+- [Reinforced-lib](https://github.com/m-wojnar/reinforced-lib) - Python library designed to support research and prototyping using Reinforced Learning algorithms.
