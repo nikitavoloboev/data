@@ -410,3 +410,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Peacock | Bind Patterns](https://marcellerusu.com/blog/peacock-bind-patterns) ([Lobsters](https://lobste.rs/s/aaxyc0/peacock_bind_patterns))
 - [Jank](https://jank-lang.org/) - Clojure/LLVM/Gradual Typing language. ([Code](https://github.com/jank-lang/jank)) ([Lobsters](https://lobste.rs/s/jhtyx6/jank_programming_language_clojure_llvm))
 - [PLDB](https://pldb.com/) - Programming Language Database. ([Code](https://github.com/breck7/pldb)) ([HN](https://news.ycombinator.com/item?id=32619671))
+- [Book recommendations after reading "crafting interpreters" (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/x5soly/book_recommendations_after_reading_crafting/)
