@@ -1931,3 +1931,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-coverage](https://github.com/gojek/go-coverage) - Increase code coverage of Go projects.
 - [Template project for Go libraries](https://github.com/bep/golibtemplate)
 - [tools.mod](https://github.com/konradreiche/tools.mod) - Example for using a separate modules file to track tool dependencies in Go.
+- [How to convert []interface{} to a JSON object in Go](https://www.reddit.com/r/golang/comments/x4v30p/how_to_convert_interface_to_a_json_object_in/)
