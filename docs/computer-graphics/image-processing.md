@@ -195,3 +195,4 @@
 - [fast-png](https://github.com/image-js/fast-png) - PNG image decoder and encoder written entirely in JavaScript.
 - [Stitching](https://github.com/lukasalexanderweber/stitching) - Python package for fast and robust Image Stitching. ([HN](https://news.ycombinator.com/item?id=32466003))
 - [Losslessly Optimising Images](https://rubenerd.com/losslessly-optimise-images/) ([HN](https://news.ycombinator.com/item?id=32635906))
+- [Upscayl](https://github.com/upscayl/upscayl) - Free and Open Source AI Image Upscaler.

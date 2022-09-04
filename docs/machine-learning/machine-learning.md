@@ -909,3 +909,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Grokking Stable Diffusion](https://twitter.com/johnowhitaker/status/1565710033463156739)
 - [Notes for prompt engineering](https://github.com/sw-yx/prompt-eng)
 - [Course content and resources for the AIAIART course](https://github.com/johnowhitaker/aiaiart)
+- [Stable Diffusion UI](https://github.com/cmdr2/stable-diffusion-ui)

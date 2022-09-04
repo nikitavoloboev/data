@@ -614,6 +614,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Shaark](https://github.com/MarceauKa/shaark) - Self-hosted platform to keep and share your content: web links, posts, passwords and pictures. All of your data can be private, public or both and can be browsed by tags or all-in-one search.
 - [Likwid](https://github.com/RRZE-HPC/likwid) - Simple to install and use toolsuite of command line applications and a library for performance oriented programmers.
 - [Cron Prompt](https://cronprompt.com/) - Convert English to Cron Expressions. ([HN](https://news.ycombinator.com/item?id=32358591))
+- [ogmeta](https://github.com/hopinc/ogmeta) - OG Meta generator for documentation/misc.
 
 ## Notes
 

@@ -1230,6 +1230,7 @@
 - [swift-nio-imap](https://github.com/apple/swift-nio-imap) - Swift project that provides an implementation of the IMAP4rev1 protocol, built upon SwiftNIO.
 - [AsyncValue](https://github.com/BrentMifsud/AsyncValue) - Simple swift package that provides a Swift Concurrency equivalent to `@Published`.
 - [Flow](https://github.com/AudioKit/Flow) - Generic node graph editor.
+- [DivKit](https://github.com/divkit/divkit) - Open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app.
 
 ## Other (not lib)
 

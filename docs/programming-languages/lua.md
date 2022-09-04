@@ -137,3 +137,4 @@ title: Lua
 - [A History of Lua](https://www.lua.org/history.html) ([HN](https://news.ycombinator.com/item?id=32407430))
 - [jsonschema](https://github.com/api7/jsonschema) - Pure Lua JSON schema validator for Lua/LuaJIT.
 - [lua-resty-radixtree](https://github.com/api7/lua-resty-radixtree) - Adaptive Radix Trees implemented in Lua / LuaJIT.
+- [Baton](https://github.com/tesselode/baton) - Input library for LÖVE that bridges the gap between keyboard and joystick controls.

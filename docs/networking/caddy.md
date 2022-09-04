@@ -61,3 +61,4 @@ title: Caddy
 - [Analyze Caddy logs with Clickhouse (2022)](https://abdullin.com/analyze-caddy-logs-with-clickhouse/)
 - [Deep dive into Caddy web server](https://sourcegraph.com/notebooks/Tm90ZWJvb2s6MTM2Nw==) ([Lobsters](https://lobste.rs/s/11jyv6/deep_dive_into_caddy_web_server))
 - [gRPC-Web Bridge for Caddy](https://github.com/mholt/caddy-grpc-web)
+- [Hosting a static site on fly.io with nix and caddy (2022)](https://mat.services/posts/static-site-with-nix-and-caddy/)

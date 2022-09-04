@@ -232,6 +232,7 @@
 - [Athena](https://github.com/athena-logistics/athena-backend) - Event Logistics Management.
 - [Quantum](https://github.com/quantum-elixir/quantum-core) - Cron-like job scheduler for Elixir.
 - [Crontab](https://github.com/jshmrtn/crontab) - Elixir library for parsing, writing, and calculating Cron format strings.
+- [ExZstd](https://github.com/chenzhuoyu/elixir-zstd) - Elixir binding of the Zstandard library.
 
 ## Links
 

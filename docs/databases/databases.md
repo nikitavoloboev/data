@@ -673,3 +673,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Rise of the Anti-Join (2022)](https://www.crunchydata.com/blog/rise-of-the-anti-join) ([Lobsters](https://lobste.rs/s/rhll92/rise_anti_join))
 - [ArrayQL Integration into Code-Generating Database Systems (2022)](https://openproceedings.org/2022/conf/edbt/sample-edbt2022.pdf)
 - [How discord stores billions of messages (2017)](https://discord.com/blog/how-discord-stores-billions-of-messages) ([HN](https://news.ycombinator.com/item?id=32606553))
+- [Seaborn Data](https://github.com/mwaskom/seaborn-data) - Data repository for seaborn examples.
