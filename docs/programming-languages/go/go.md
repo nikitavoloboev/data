@@ -815,7 +815,7 @@ if err != nil {
 - [go-graph](https://github.com/kallsyms/go-graph) - Searching Go code with a graph database. ([Using Graphs to Search for Code](https://nickgregory.me/post/2022/07/02/go-code-as-a-graph/))
 - [What to forget when coming to Go from other languages? (2022)](https://www.reddit.com/r/golang/comments/vprvyh/what_to_forget_when_coming_to_golang_from_other/)
 - [Ask HN: Should I learn Rust or Go? (2022)](https://news.ycombinator.com/item?id=31976407)
-- [PocketBase](https://github.com/pocketbase/pocketbase) - Open source real time Go backend in one file. ([Web](https://pocketbase.io/)) ([HN](https://news.ycombinator.com/item?id=32013330))
+- [PocketBase](https://github.com/pocketbase/pocketbase) - Open source real time Go backend in one file. ([Web](https://pocketbase.io/)) ([HN](https://news.ycombinator.com/item?id=32013330)) ([Docs](https://pocketbase.io/docs/)) ([JS SDK](https://github.com/pocketbase/js-sdk))
 - [What’s new in Go 1.19? (2022)](https://blog.carlmjohnson.net/post/2022/golang-119-new-features/)
 - [Go memory ballast: How I learnt to stop worrying and love the heap (2018)](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap/)
 - [Implementing a simple jq clone in Go, and basics of Go memory profiling (2022)](https://notes.eatonphil.com/implementing-a-jq-clone-in-go.html)

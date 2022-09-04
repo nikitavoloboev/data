@@ -123,3 +123,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Solid Jest](https://github.com/solidjs/solid-jest) - Jest preset for SolidJS.
 - [Solid Testing Library](https://github.com/solidjs/solid-testing-library) - Simple and complete Solid testing utilities that encourage good testing practices.
 - [Solid-Pebble](https://github.com/lxsmnsyc/solid-pebble) - State management library for SolidJS.
+- [Streaming SolidJS - First look at Astro (2022)](https://www.youtube.com/watch?v=UPhx3OxUH0w)

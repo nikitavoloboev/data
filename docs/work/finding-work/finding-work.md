@@ -176,3 +176,4 @@ Companies that do [location-based pay bands](https://twitter.com/kyleve/status/1
 - [Tailwind Jobs](https://jobs.tailwindcss.com/) - Find developer jobs working with Tailwind CSS.
 - [Ask HN: Anyone working 4 day week here, as an employee? (2022)](https://news.ycombinator.com/item?id=32544315)
 - [Ask HN: How do you get side gigs? (2022)](https://news.ycombinator.com/item?id=32648956)
+- [Collection of Summer 2023 tech internships](https://github.com/pittcsc/Summer2023-Internships)

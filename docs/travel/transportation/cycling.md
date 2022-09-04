@@ -43,3 +43,4 @@
 - [What are good electric bike brands? (2022)](https://www.reddit.com/r/Netherlands/comments/wbrp65/what_are_good_electric_bike_brands/)
 - [Cowboy](https://cowboy.com/) - Electric Bike for Urban Riders.
 - [QWIC](https://qwic.eu/) - Innovative design and highest quality e-bikes - Made in the Netherlands.
+- [Great ebike brands (2022)](https://twitter.com/mndoci/status/1566242748956831744)

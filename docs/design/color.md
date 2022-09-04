@@ -105,7 +105,6 @@
 - [The Geometry of Color Perception](https://www.handprint.com/HP/WCL/color2.html) ([HN](https://news.ycombinator.com/item?id=28627333))
 - [CSS gradient resampler](https://workshop.mass-driver.com/gradients)
 - [Sunlight affects whether languages have a word for ‘blue’ (2021)](https://www.science.org/content/article/sunlight-affects-whether-languages-have-word-blue) ([HN](https://news.ycombinator.com/item?id=28745302))
-- [Huetone](https://huetone.ardov.me/) - Tool to create and fine-tune your color system.
 - [colorio](https://github.com/nschloe/colorio) - Tools for color research.
 - [LCH Color picker](https://css.land/lch/) ([Code](https://github.com/leaverou/css.land)) ([Tweet](https://twitter.com/JoshWComeau/status/1450092771654742019))
 - [Pick a color](https://eldh.github.io/pick-a-color/#) ([Code](https://github.com/eldh/pick-a-color))

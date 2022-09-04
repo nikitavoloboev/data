@@ -6,6 +6,7 @@ title: Tauri
 
 ## OSS Tauri apps
 
+- [Stable Diffussion Buddy](https://github.com/breadthe/sd-buddy) - Companion desktop app for the self-hosted M1 Mac version of Stable Diffusion.
 - [TaurApp](https://github.com/erayerdin/taurapp) - WhatsApp desktop client powered by Tauri and Rust.
 - [Emberry](https://github.com/emberry-org/emberry) - P2P Chat powered by Tauri and Svelte.
 - [SnipSnap](https://github.com/FarazPatankar/snip-snap) - Simple but powerful tool to make your screenshots prettier.

@@ -1,5 +1,7 @@
 # Neural networks
 
+[Building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0) is great video.
+
 ## Notes
 
 - Neural Networks are great identifying patterns in data. As a classic example, if you wanted to predict housing prices, you could build a data set that maps features about houses (square feet, location, proximity to Caltrain, etc) onto their actual price, and then train a network to recognize the complex relationship between features and pricing. Training happens by feeding the network features, letting it make a guess about the price, and then correcting the guess (backpropagation).
@@ -301,3 +303,4 @@
 - [How fast can we perform a forward pass? (2022)](https://bounded-regret.ghost.io/how-fast-can-we-perform-a-forward-pass/) - How fast can you run a transformer model? ([Tweet](https://twitter.com/JacobSteinhardt/status/1539286865500438528))
 - [Neural Network Loss Landscapes: What do we know? (2021)](https://damueller.com/#/blog-post/NNLLs) ([HN](https://news.ycombinator.com/item?id=32131153))
 - [Logic Through the Lens of Neural Networks](https://cprimozic.net/blog/boolean-logic-with-neural-networks/)
+- [The spelled-out intro to neural networks and backpropagation: building micrograd (2022)](https://www.youtube.com/watch?v=VMj-3S1tku0)

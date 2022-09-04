@@ -211,3 +211,4 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [Doing give-aways on Twitter with GitHub actions](https://github.com/alexeygrigorev/twitter-raffles)
 - [Loading Twitter Birdwatch into SQLite for analysis with Datasette](https://til.simonwillison.net/twitter/birdwatch-sqlite)
 - [Take back your Twitter feed](https://mute.guru/) - Take back your twitter feed, by instantly muting all engagement farmers. ([Code](https://github.com/m1guelpf/mute.guru))
+- [sauron](https://github.com/chshersh/sauron) - CLI tool that fetches info from Twitter and analyses it.

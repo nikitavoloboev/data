@@ -286,6 +286,7 @@ title: GitHub actions
 - [Awesome Rust Actions](https://github.com/actions-rs/awesome-rust-actions)
 - [Install Rust Toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain.
 - [Cargo Release PR](https://github.com/cargo-bins/release-pr) - GitHub Action to create a release PR using cargo-release.
+- [cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks-action) - GitHub Action for running cargo-semver-checks.
 
 ## Python
 

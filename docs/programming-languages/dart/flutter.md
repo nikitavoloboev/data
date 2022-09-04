@@ -102,3 +102,4 @@ title: Flutter
 - [Flutter plugin for interacting with iOS StoreKit and Android Billing Library](https://github.com/memspace/iap)
 - [sqflite](https://github.com/tekartik/sqflite) - SQLite plugin for Flutter. Supports iOS, Android and MacOS.
 - [Flutter 3 (2022)](https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release) ([HN](https://news.ycombinator.com/item?id=31344863))
+- [Isar Database](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter.

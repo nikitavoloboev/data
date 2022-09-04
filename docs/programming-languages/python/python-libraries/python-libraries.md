@@ -1134,3 +1134,4 @@
 - [Choose the Right Python Concurrency API](https://superfastpython.com/python-concurrency-choose-api/)
 - [How to Handle Large Datasets in Python (2022)](https://towardsdatascience.com/how-to-handle-large-datasets-in-python-1f077a7e7ecf)
 - [Python F-Strings Number Formatting Cheat Sheet by BrianAllan (2022)](https://cheatography.com/brianallan/cheat-sheets/python-f-strings-number-formatting/)
+- [Condax](https://github.com/mariusvniekerk/condax) - Install and run applications packaged with conda in isolated environments.

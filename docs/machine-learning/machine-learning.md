@@ -907,3 +907,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Awesome AI image synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis)
 - [First-Time Machine Learning Playbook (2022)](https://twitter.com/DSaience/status/1566054660791738368)
 - [Grokking Stable Diffusion](https://twitter.com/johnowhitaker/status/1565710033463156739)
+- [Notes for prompt engineering](https://github.com/sw-yx/prompt-eng)

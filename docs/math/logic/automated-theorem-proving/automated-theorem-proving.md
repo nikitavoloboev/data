@@ -35,3 +35,4 @@ title: Automated theorem proving
 - [Proof Assistant Demos](https://github.com/tlringer/proof-demos)
 - [Incredible Proof Machine](https://github.com/nomeata/incredible) - Non-textual interactive theorem prover. ([Web](http://incredible.pm/))
 - [The future of interactive theorem proving? (2022)](https://xenaproject.wordpress.com/2022/08/16/the-future-of-interactive-theorem-proving/) ([HN](https://news.ycombinator.com/item?id=32489099))
+- [Functional Benchmarks](https://github.com/Kindelia/Functional-Benchmarks) - Collection of benchmarks of functional programming languages and proof assistants.

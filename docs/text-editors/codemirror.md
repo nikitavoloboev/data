@@ -11,3 +11,4 @@ title: CodeMirror
 - [Themes for CodeMirror 6](https://cm6-themes.netlify.app/) ([Code](https://github.com/craftzdog/cm6-themes))
 - [Vim keybindings for CM6](https://github.com/replit/codemirror-vim)
 - [CodeMirror 6 component for SolidJS](https://github.com/nimeshnayaju/solid-codemirror)
+- [Language Server Plugin for CodeMirror 6](https://github.com/FurqanSoftware/codemirror-languageserver)

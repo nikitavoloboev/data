@@ -358,6 +358,7 @@
 - [Codec](https://github.com/chpatrick/codec) - Easy bidirectional serialization in Haskell.
 - [json-stream](https://github.com/ondrap/json-stream) - Applicative incremental JSON parser for Haskell.
 - [rec-def](https://github.com/nomeata/haskell-rec-def) - APIs for more recursive definitions.
+- [memoize](https://github.com/tov/memoize) - Haskell memoization library.
 
 ## Notes
 
