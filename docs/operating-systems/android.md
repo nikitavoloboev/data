@@ -24,6 +24,7 @@ title: Android
 - [HTTP Shortcuts for Android](https://github.com/Waboodoo/HTTP-Shortcuts) - Android app to create home screen shortcuts that trigger arbitrary HTTP requests.
 - [TikTok Clone](https://github.com/Andre-max/TikTok-Clone) - Beautifully designed replica of the famous and trending TikTok app.
 - [WhatsApp clone app built with Jetpack Compose](https://github.com/GetStream/whatsApp-clone-compose) - And Stream Chat SDK for Compose.
+- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 
 ## Links
 

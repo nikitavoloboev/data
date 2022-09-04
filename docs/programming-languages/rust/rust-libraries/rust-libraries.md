@@ -2115,6 +2115,7 @@
 - [Fcode](https://github.com/tijsvd/fcode) - Binary format for Rust / serde that supports schema evolution.
 - [concurrent-queue](https://github.com/smol-rs/concurrent-queue) - Concurrent multi-producer multi-consumer queue.
 - [RDP](https://github.com/urschrei/rdp) - Rust implementation of the Ramer–Douglas-Peucker and Visvalingam-Whyatt line simplification algorithms.
+- [monch](https://github.com/denoland/monch) - Inspired by nom, but specifically for strings.
 
 ## Cargo Plugins
 
