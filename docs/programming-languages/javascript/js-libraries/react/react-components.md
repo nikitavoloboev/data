@@ -329,6 +329,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Foldable](https://github.com/TheUiTeam/foldable) - Fully automated and animated Collapse primitive.
 - [Tunnel-Rat](https://github.com/pmndrs/tunnel-rat) - Potential cross renderer portal.
 - [CmdK](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component. ([Web](https://cmdk.paco.me/))
+- [graphviz-react](https://github.com/DomParfitt/graphviz-react) - React component for displaying Graphviz graphs.
 
 ## Links
 

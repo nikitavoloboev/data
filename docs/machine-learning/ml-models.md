@@ -110,3 +110,5 @@
 - [Stable Diffusion Dream Script](https://github.com/lstein/stable-diffusion) - Fork of CompVis/stable-diffusion, the wonderful open source text-to-image generator.
 - [Exporters](https://github.com/huggingface/exporters) - Export Hugging Face models to Core ML and TensorFlow Lite.
 - [SD-explorer](https://github.com/nicoptere/SD-explorer) - Toy project to explore Stable Diffusion locally through a nodeJS server.
+- [MultiNeRF: A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF](https://github.com/google-research/multinerf)
+- [Prog Rock Stable](https://github.com/lowfuel/progrock-stable) - Stable Diffusion with some Proggy Enhancements.

@@ -1229,6 +1229,7 @@
 - [SwiftCommand](https://github.com/Zollerboy1/SwiftCommand) - Wrapper around Foundation.Process, inspired by Rust's std::process::Command.
 - [swift-nio-imap](https://github.com/apple/swift-nio-imap) - Swift project that provides an implementation of the IMAP4rev1 protocol, built upon SwiftNIO.
 - [AsyncValue](https://github.com/BrentMifsud/AsyncValue) - Simple swift package that provides a Swift Concurrency equivalent to `@Published`.
+- [Flow](https://github.com/AudioKit/Flow) - Generic node graph editor.
 
 ## Other (not lib)
 
