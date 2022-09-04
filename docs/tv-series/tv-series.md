@@ -56,3 +56,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [What show you would say it's a hidden gem that not so many people know about? (2022)](https://www.reddit.com/r/NetflixBestOf/comments/ujaap4/discussion_what_show_you_would_say_its_a_hidden/)
 - [Назовите ваш комфортный фильм/сериал](https://twitter.com/drsy10WSbjZ3Sho/status/1528076856821424129)
 - [Great TV series (2022)](https://www.reddit.com/r/televisionsuggestions/comments/wpvpf2/i_just_finished_my_100th_show_these_are_the_most/)
+- [Series similar to Better Call Saul](https://www.reddit.com/r/betterCallSaul/comments/x5t5wz/now_what/)

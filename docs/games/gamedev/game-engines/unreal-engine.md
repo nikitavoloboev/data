@@ -41,4 +41,4 @@ title: Unreal Engine
 - [Bupaku](https://github.com/Ludea/bupaku) - Build and package Unreal Engine from source.
 - [GRPC with Unreal Engine (2021)](https://kvachev.com/blog/posts/grpc-with-unreal-engine/)
 - [Game Development Notes](https://ikrima.dev/) - Game Development & Unreal Engine Programming Guide. ([Code](https://github.com/ikrima/gamedevguide))
-- [unreal-rust](https://github.com/MaikKlein/unreal-rust) - Rust integration for Unreal Engine.
+- [unreal-rust](https://github.com/MaikKlein/unreal-rust) - Rust integration for Unreal Engine. ([Article](https://maikklein.github.io/unreal-rust-1/)) ([HN](https://news.ycombinator.com/item?id=32717388))

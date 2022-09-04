@@ -64,6 +64,7 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [If you only wished to be happy, this could be easily accomplished; but we wish to be happier than other people, and this is always difficult, for we believe others to be happier than they are.](https://twitter.com/waitbutwhy/status/1529017582870749184)
 - [The key to happiness really is just food, water, exercise, sun, security, relationships, gratitude, and purpose.](https://twitter.com/CXGonzalez/status/1535587810354282498)
 - [Comparison is the thief of joy](https://www.reddit.com/r/sex/comments/wcduoc/my_wife_told_me_the_best_sex_she_had_was_with_a/)
+- [Happiness is rarely perfect and never permanent. People do not live “happily ever after” in real life. You will be sad, angry, and fearful as well as happy, and often the emotions are mixed. Embrace whatever emotion you feel, there’s nothing wrong with any of them. And in those moments you do feel perfectly happy, just enjoy it. The moment you try to capture and preserve it, it will slip away like a cloud or a wave on the water. But know that it will come back.](https://www.reddit.com/r/AskOldPeople/comments/x5a066/do_you_have_a_harsh_truth_that_was_hard_to_hear/)
 
 ## Links
 

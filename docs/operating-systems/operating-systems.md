@@ -378,3 +378,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Procursus](https://github.com/ProcursusTeam/Procursus) - New, powerful, cross-compilation OS bootstrap.
 - [libostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades.
 - [We clone a running VM in 2 seconds (2022)](https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds) ([HN](https://news.ycombinator.com/item?id=32683834))
+- [DBOS: A database-oriented operating system](https://dbos-project.github.io/blog/intro-blog.html) ([HN](https://news.ycombinator.com/item?id=32705025))

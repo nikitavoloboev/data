@@ -104,3 +104,4 @@ title: Scheme
 - [“Meta-circular” Static Types (2022)](http://sigusr2.net/metacircular-static-types.html)
 - [vonuvoli Scheme](https://github.com/volution/vonuvoli-scheme) - Scheme based programming language implemented in Rust, which supports most of the R7RS standard.
 - [Unlock Lisp / Scheme's magic: beginner to Scheme-in-Scheme in one hour](https://www.youtube.com/watch?v=DDROSL-gGOo)
+- [An opinionated guide to scheme implementations (2013)](https://wingolog.org/archives/2013/01/07/an-opinionated-guide-to-scheme-implementations) ([HN](https://news.ycombinator.com/item?id=32700027))

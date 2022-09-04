@@ -145,6 +145,8 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [People did not tend to develop romantic interest in partners whose attributes matched their a priori ideal preferences.](https://twitter.com/robinhanson/status/1530953923112091648)
 - [In an argument with a loved one, “winning” is often losing. You have to let go of trying to win and instead try to understand. As soon as you stop trying to win, that’s the moment you find win/win.](https://news.ycombinator.com/item?id=31625095)
 - [Love doesn't just sit there, like a stone, it has to be made, like bread; remade all the time, made new.](https://twitter.com/UrsulaBot/status/1543208520249536512)
+- [You do not have a true love. It will not all make sense when you find the right person. We are all just people and there are a ton of people that we could theoretically end up with. It's a question of who you decide to stick with and if they decide to stick with you. Its more complicated than that, and not everyone is compatible or at the right stage of life, but if you think you will just find "the one" and love will all fall into place you are going to have a lot of heartache. Love exists, but long term love takes work.](https://www.reddit.com/r/AskOldPeople/comments/x5a066/do_you_have_a_harsh_truth_that_was_hard_to_hear/)
+- [There are people you love with all of your heart but who are also just broken people despite anything you do or can do, say or can say. And broken people will break you. Learning to accept that for what it is and find a balance to help them/be in their life and protect yourself is one of the hardest things to do and accept.](https://www.reddit.com/r/AskOldPeople/comments/x5a066/do_you_have_a_harsh_truth_that_was_hard_to_hear/)
 
 ## Links
 

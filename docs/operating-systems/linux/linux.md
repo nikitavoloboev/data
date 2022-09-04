@@ -579,3 +579,4 @@ title: Linux
 - [Fully dockerized Linux kernel debugging environment](https://github.com/0xricksanchez/like-dbg) ([HN](https://news.ycombinator.com/item?id=32423813))
 - [ply](https://github.com/iovisor/ply) - Dynamic Tracing in Linux.
 - [This Program is Illegally Packaged in 14 Distributions (2022)](https://artemis.sh/2022/08/21/this-program-is-illegally-packaged-in-14-distributions.html) ([Lobsters](https://lobste.rs/s/sst8cj/this_program_is_illegally_packaged_14))
+- [The quantum state of Linux kernel garbage collection (2022)](https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html)

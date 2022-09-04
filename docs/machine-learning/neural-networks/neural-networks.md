@@ -304,3 +304,4 @@
 - [Neural Network Loss Landscapes: What do we know? (2021)](https://damueller.com/#/blog-post/NNLLs) ([HN](https://news.ycombinator.com/item?id=32131153))
 - [Logic Through the Lens of Neural Networks](https://cprimozic.net/blog/boolean-logic-with-neural-networks/)
 - [The spelled-out intro to neural networks and backpropagation: building micrograd (2022)](https://www.youtube.com/watch?v=VMj-3S1tku0)
+- [What is the SOTA explanation for why deep learning works? (2022)](https://www.reddit.com/r/MachineLearning/comments/x5gnyw/d_what_is_the_sota_explanation_for_why_deep/)

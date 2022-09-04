@@ -132,3 +132,4 @@ title: Three.js
 - [Physical Ray marching in ThreeJS](https://github.com/nemutas/physical-raymarchig)
 - [Ghost Veil](https://nemutas.github.io/ghost-veil/) - Effect of 'ThreJS plane' overlaid on 'DOM image'. ([Code](https://github.com/nemutas/ghost-veil))
 - [Vanilla ThreeJS Template](https://github.com/nemutas/vanilla-three-template)
+- [Three.js Experiment - Vanishing Suzanne](https://github.com/Aqro/threejs-vanishing-suzanne)

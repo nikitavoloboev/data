@@ -140,3 +140,4 @@ I try to spend as much [time with family and loved ones](https://ourworldindata.
 - [What are your non-screen / non-tech hobbies? (2022)](https://www.reddit.com/r/simpleliving/comments/w8w1hv/what_are_your_nonscreen_nontech_hobbies/)
 - [A biochemist’s view of life’s origin reframes cancer and aging (2022)](https://www.quantamagazine.org/a-biochemists-view-of-lifes-origin-reframes-cancer-and-aging-20220808/) ([HN](https://news.ycombinator.com/item?id=32392937))
 - [Ask HN: How can I come to peace with the years I wasted on pointless things? (2022)](https://news.ycombinator.com/item?id=32618163)
+- ["Harsh truth" that was hard to hear at the time but you eventually had to accept (2022)](https://www.reddit.com/r/AskOldPeople/comments/x5a066/do_you_have_a_harsh_truth_that_was_hard_to_hear/)

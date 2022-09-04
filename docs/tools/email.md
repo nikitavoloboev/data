@@ -270,3 +270,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Mailing](https://www.mailing.run/) - Build + test + send emails with React. ([Code](https://github.com/sofn-xyz/mailing))
 - [vSMTP](https://github.com/viridIT/vSMTP) - Next-gen mail transfer agent (MTA) written in Rust. Faster and Greener.
 - [Dakiya](https://github.com/arn4v/dakiya) - Email automation for Node.js.
+- [After self-hosting my email for twenty-three years I have thrown in the towel (2022)](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html) ([HN](https://news.ycombinator.com/item?id=32715437))
