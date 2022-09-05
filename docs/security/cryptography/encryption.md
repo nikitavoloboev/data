@@ -89,3 +89,5 @@
 - [tlock](https://github.com/drand/tlock) - Timelock Encryption/Decryption Made Practical.
 - [SecureStore for Rust](https://github.com/neosmart/securestore-rs) - Simple, encrypted, git-friendly, file-backed secrets manager for rust.
 - [Should notes be end-to-end encrypted? (2022)](https://supernotes.app/blog/posts/notes-end-to-end-encryption/) ([HN](https://news.ycombinator.com/item?id=32562143))
+- [tlock-js](https://github.com/drand/tlock-js) - Timelock Encryption made practical. A Typescript library for encrypting for the future.
+- [Timevault](https://github.com/drand/timevault) - Deadman's switch to encrypt your vulnerability reports or other compromising data to be decryptable at a set time in the future.

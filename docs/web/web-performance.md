@@ -198,3 +198,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Web Framework Benchmarks](https://github.com/BuilderIO/framework-benchmarks)
 - [Use fetchpriority=high to load your LCP hero image sooner (2022)](https://addyosmani.com/blog/fetch-priority/)
 - [Web Frameworks Benchmark](https://web-frameworks-benchmark.netlify.app/)
+- [Web Performance Research](https://github.com/imteekay/web-performance-research)

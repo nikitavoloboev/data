@@ -22,7 +22,7 @@ title: Grafana
 - [Grafana Community Kubernetes Helm Charts](https://github.com/grafana/helm-charts)
 - [WebSocket Data Source for Grafana](https://github.com/golioth/grafana-websocket-plugin) - WebSocket data source plugin for real time data updates in Grafana Dashboards.
 - [Meta Queries Plugin for Grafana](https://github.com/GoshPosh/grafana-meta-queries) - Grafana plugin for calculating time period metrics like week over week, month over month and year over year etc.
-- [Grafana Tokio Console Data Source](https://github.com/grafana/grafana-tokio-console-datasource)
+- [Grafana Tokio Console Data Source](https://github.com/sd2k/grafana-tokio-console-datasource)
 - [End-to-End Monitoring with Grafana Cloud with Minimal Effort (2022)](https://martinheinz.dev/blog/72)
 - [Grafana OnCall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration. ([Article](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)) ([HN](https://news.ycombinator.com/item?id=31740902))
 - [Kubernetes Grafana Dashboards](https://github.com/dotdc/grafana-dashboards-kubernetes) - Set of modern Grafana dashboards for Kubernetes.

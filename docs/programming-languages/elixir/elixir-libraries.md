@@ -233,6 +233,7 @@
 - [Quantum](https://github.com/quantum-elixir/quantum-core) - Cron-like job scheduler for Elixir.
 - [Crontab](https://github.com/jshmrtn/crontab) - Elixir library for parsing, writing, and calculating Cron format strings.
 - [ExZstd](https://github.com/chenzhuoyu/elixir-zstd) - Elixir binding of the Zstandard library.
+- [Spark](https://github.com/ash-project/spark) - Tooling for building DSLs in Elixir.
 
 ## Links
 

@@ -177,3 +177,4 @@ Companies that do [location-based pay bands](https://twitter.com/kyleve/status/1
 - [Ask HN: Anyone working 4 day week here, as an employee? (2022)](https://news.ycombinator.com/item?id=32544315)
 - [Ask HN: How do you get side gigs? (2022)](https://news.ycombinator.com/item?id=32648956)
 - [Collection of Summer 2023 tech internships](https://github.com/pittcsc/Summer2023-Internships)
+- [Ask HN: Location based pay is killing my motivation, how do others handle it? (2022)](https://news.ycombinator.com/item?id=32716770)

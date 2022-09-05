@@ -571,3 +571,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [pkg](https://github.com/fluxcd/pkg) - GitOps Toolkit common packages.
 - [Git’s database internals II: commit history queries](https://github.blog/2022-08-30-gits-database-internals-ii-commit-history-queries/) ([HN](https://news.ycombinator.com/item?id=32651934))
 - [Use several git branches simultaneously](https://git-scm.com/docs/git-worktree#:~:text=A%20git%20repository%20can%20support,others%20in%20the%20same%20repository.) ([Lobsters](https://lobste.rs/s/rdmx4y/use_several_git_branches_simultaneously))
+- [Curing A Case Of Git-UX (2022)](https://peppe.rs/posts/curing_a_case_of_git-UX/)

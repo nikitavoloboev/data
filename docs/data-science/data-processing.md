@@ -118,3 +118,4 @@
 - [qv](https://github.com/timvw/qv) - Simple CLI to quickly view your data. Powered by DataFusion.
 - [Airflow's Problem (2022)](https://stkbailey.substack.com/p/airflows-problem) ([HN](https://news.ycombinator.com/item?id=32317558))
 - [Quokka](https://github.com/marsupialtail/quokka) - Fast data processing engine whose core consists of ~1000 lines of Python code.
+- [Modal](https://modal.com/) - On-demand compute that just works. ([Twitter](https://twitter.com/modal_labs))

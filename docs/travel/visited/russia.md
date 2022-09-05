@@ -602,3 +602,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [HN: Mikhail Gorbachev has died (2022)](https://news.ycombinator.com/item?id=32654734)
 - [Борис Акунин – История Российского государства](https://www.litres.ru/serii-knig/istoriya-rossiyskogo-gosudarstva/)
 - [Spevktator](https://github.com/MischaU8/spevktator) - OSINT analysis tool for VK.
+- [Произошёл диалог](https://twitter.com/selflovefeels/status/1566478138061758469)

@@ -139,3 +139,4 @@ title: Speech recognition
 - [Masked Autoencoders that Listen (2022)](https://arxiv.org/abs/2207.06405) ([Code](https://github.com/facebookresearch/AudioMAE))
 - [SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech (2022)](https://arxiv.org/abs/2204.11792) ([Code](https://github.com/yerfor/SyntaSpeech))
 - [Speech Enhancement and Dereverberation with Diffusion-based Generative Models](https://github.com/sp-uhh/sgmse)
+- [SSAST: Self-Supervised Audio Spectrogram Transformer](https://github.com/YuanGongND/ssast)

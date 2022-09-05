@@ -52,3 +52,4 @@ title: Arweave
 - [ARchivers](https://github.com/Bundlr-Network/ARchivers) - Repository for TwittAR and ARticle - Two tools which record tweets and articles - permanently storing them on Arweave via Bundlr.
 - [Awesome Arweave](https://github.com/bitruss/awesome-arweave)
 - [Akord](https://akord.com/) - Permanent storage and end-to-end encryption. ([Twitter](https://twitter.com/AkordTeam))
+- [Arweave.news](https://arweave.news/)

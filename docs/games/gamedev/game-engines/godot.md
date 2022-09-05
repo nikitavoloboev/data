@@ -80,3 +80,4 @@ title: Godot
 - [Godot-Logger](https://github.com/jdno/godot-logger) - Logger for godot-rust projects.
 - [Godot 4.0 will discontinue visual scripting (2022)](https://godotengine.org/article/godot-4-will-discontinue-visual-scripting) ([HN](https://news.ycombinator.com/item?id=32571893))
 - [What do you dislike about Godot? (2022)](https://twitter.com/godotengine/status/1565948428126937089)
+- [Godot 4.0 Bindings for Go](https://github.com/readykit/gd)

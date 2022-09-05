@@ -411,3 +411,6 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Jank](https://jank-lang.org/) - Clojure/LLVM/Gradual Typing language. ([Code](https://github.com/jank-lang/jank)) ([Lobsters](https://lobste.rs/s/jhtyx6/jank_programming_language_clojure_llvm))
 - [PLDB](https://pldb.com/) - Programming Language Database. ([Code](https://github.com/breck7/pldb)) ([HN](https://news.ycombinator.com/item?id=32619671))
 - [Book recommendations after reading "crafting interpreters" (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/x5soly/book_recommendations_after_reading_crafting/)
+- [Programming Language Research](https://github.com/imteekay/programming-language-research)
+- [Acutis](https://github.com/johnridesabike/acutis) - Declarative, type-safe template language.
+- [ICFP Contest 2022](https://icfpcontest2022.github.io/) ([Twitter](https://twitter.com/icfpcontest2022))

@@ -284,6 +284,8 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [TypeScript is terrible for library developers (2022)](https://erock.prose.sh/typescript-terrible-for-library-developers) ([HN](https://news.ycombinator.com/item?id=32569112))
 - [Best Practices for TypeScript Monorepo](https://blog.flycode.com/best-practices-for-typescript-monorepo) ([HN](https://news.ycombinator.com/item?id=32594915))
 - [Total TypeScript](https://www.totaltypescript.com/) - Tutorial on transforming types in TypeScript. ([Code](https://github.com/total-typescript/type-transformations-tutorial)) ([Code](https://github.com/total-typescript/beginners-typescript-tutorial))
+- [Generics in TypeScript: a deep dive](https://github.com/total-typescript/typescript-generics-tutorial)
+- [Mega thread on learning TS](https://twitter.com/mattpocockuk/status/1566739592249835520)
 
 ## Images
 

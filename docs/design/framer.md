@@ -29,3 +29,4 @@ title: Framer
 - [Framer Sites: Overlays (2022)](https://www.youtube.com/watch?v=4cQ2McgDWk0)
 - [Feature storytelling with Framer Motion (2022)](https://planetscale.com/blog/feature-storytelling-with-framer-motion)
 - [Motion DevTools](https://motion.dev/tools) - Create web animations faster than ever with the Chrome extension for CSS and Motion One. ([Tweet](https://twitter.com/mattgperry/status/1524019111638020096))
+- [Framer Tutorial: Components with Interactions, Variants and Variables (2022)](https://www.youtube.com/watch?v=2jJkUuWhv70)

@@ -6,6 +6,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 ## DB
 
+- [better-sql.ts](https://github.com/beenotung/better-sql) - Generate SQL query from a concise query syntax inspired from EdgeDB and GraphQL.
 - [SchemaRT](https://github.com/codemariner/schemart) - Generate TypeScript runtime types from your database schema.
 - [joist-ts](https://github.com/stephenh/joist-ts) - TypeScript ORM for Postgres.
 - [atdatabases](https://github.com/ForbesLindesay/atdatabases) - TypeScript clients for databases that prevent SQL Injection. ([Web](https://www.atdatabases.org/))
@@ -602,6 +603,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Modelina](https://github.com/asyncapi/modelina) - Library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [meta-types](https://github.com/grantila/meta-types) - TypeScript meta functions for (especially variadic) meta programming.
 - [typed-macro](https://github.com/typed-macro/typed-macro) - Brings macros to your projects.
+- [compress-json](https://github.com/beenotung/compress-json) - Store JSON data in space efficient manner.
+- [retry-axios](https://github.com/JustinBeckwith/retry-axios) - Super flexible interceptor for Axios that makes it easy to retry requests.
 
 ## Links
 

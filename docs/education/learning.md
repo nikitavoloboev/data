@@ -240,3 +240,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Ask HN: Where to find people who love to learn? (2022)](https://news.ycombinator.com/item?id=32354994)
 - [Ask HN: I want to be an expert in many things but my lifetime won't be enough (2022)](https://news.ycombinator.com/item?id=32628511)
 - [HSE materials](https://github.com/hse-tex/hse-tex)
+- [Learning By Writing](https://www.cold-takes.com/learning-by-writing/) ([Tweet](https://twitter.com/Mappletons/status/1566593527345139718))

@@ -913,3 +913,9 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Score-Based Generative Modeling with Critically-Damped Langevin Diffusion (2022)](https://nv-tlabs.github.io/CLD-SGM/) ([Code](https://github.com/nv-tlabs/CLD-SGM))
 - [Fast Sampling of Diffusion Models with Exponential Integrator (2022)](https://arxiv.org/abs/2204.13902) ([Code](https://github.com/qsh-zh/deis))
 - [Frozen️ in Time](https://github.com/m-bain/frozen-in-time) - Joint Video and Image Encoder for End-to-End Retrieval.
+- [A Short Chronology Of Deep Learning For Tabular Data (2022)](https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html) ([HN](https://news.ycombinator.com/item?id=32711082))
+- [Diverse Title Generation for Stack Overflow Posts with Multiple Sampling Enhanced Transformer (2022)](https://arxiv.org/abs/2208.11523) ([Tweet](https://twitter.com/DynamicWebPaige/status/1566657897257267201))
+- [Stat.ML Papers Twitter](https://twitter.com/StatMLPapers) - Unofficial updates of statistical machine learning papers on arXiv.
+- [Machine Learning authors/titles recent submissions](https://arxiv.org/list/stat.ML/recent)
+- [Are Transformers Effective for Time Series Forecasting? (2022)](https://arxiv.org/abs/2205.13504) ([Code](https://github.com/cure-lab/LTSF-Linear))
+- [Motiflets -- Fast and Accurate Detection of Motifs in Time Series (2022)](https://arxiv.org/abs/2206.03735)

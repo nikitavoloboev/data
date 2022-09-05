@@ -163,3 +163,4 @@
 - [svg-hush](https://github.com/cloudflare/svg-hush) - Make arbitrary SVG files as benign and safe to serve as images in other common Web file formats.
 - [Visualizing SVG viewbox](https://twitter.com/DanHollick/status/1552315316629254144)
 - [DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) - JavaScript library for creating SVG flow diagrams.
+- [SVG Tiler](https://github.com/edemaine/svgtiler) - Tool for drawing diagrams on a grid, combining grids of SVGs into a big SVG figure.

@@ -19,6 +19,7 @@
 - [Meetings create alignment. The minute after a meeting you start drifting. Drift is higher in low-trust environments. Too many (long) meetings are a sign of dysfunctional organizations. Either there is no trust, no alignment, or neither.](https://twitter.com/cpojer/status/1516745858741862406)
 - [If calls and meetings would work I'd do them but it's always chit chat and after call absolutely nothing practical happens. A chat message is much faster/better/async.](https://twitter.com/levelsio/status/1518514157272068096)
 - [The eight hour work day and two day weekend is obsolete. We should expect at most a six hour work day and at least three days off for every four days of work.](https://twitter.com/stevanzetti/status/1520974703820742658)
+- [Quickest way to increase workplace culture in remote world. 1: Quickest way to increase workplace culture in remote world. 2. Each person at some point in the day, has to send their "Highlight of the Day" as a picture. 3. Creates bonding, jokes, affinity.](https://twitter.com/HarryStebbings/status/1566828649394982913)
 
 ## Links
 

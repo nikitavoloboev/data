@@ -253,6 +253,8 @@ title: GitHub actions
 - [Condition based Pull Request Labeler](https://github.com/srvaroa/labeler) - GitHub Action to assign labels to PRs based on configurable conditions.
 - [gh-changelogen](https://github.com/kazupon/gh-changelogen) - Changelog generator for GitHub Releases.
 - [Push to Fig Autocomplete](https://github.com/withfig/push-to-fig-autocomplete-action)
+- [Retry](https://github.com/nick-fields/retry) - Retries a GitHub Action step on failure or timeout.
+- [Send a tweet from a GitHub Actions workflow](https://github.com/ethomson/send-tweet-action)
 
 ## Go
 
@@ -377,6 +379,7 @@ title: GitHub actions
 - [Haskell Github Actions](https://github.com/haskell/actions) - Github actions for Haskell CI.
 - [hackage-publish](https://github.com/haskell-actions/hackage-publish) - GitHub action for publishing packages and documentation to Hackage.
 - [HLint action](https://github.com/tfausak/hlint-action) - Checks that Haskell files are linted with HLint.
+- [Edit Cabal Version](https://github.com/nikita-volkov/edit-cabal-version.github-action) - GitHub Action for bumping and retrieving the package version in .cabal files for Haskell projects.
 
 ## LLVM
 
@@ -394,6 +397,10 @@ title: GitHub actions
 ## Racket
 
 - [Setup Racket](https://github.com/Bogdanp/setup-racket) - GH action for installing Racket.
+
+## Deno
+
+- [Setup-Deno](https://github.com/denoland/setup-deno) - Set up your GitHub Actions workflow with a specific version of Deno.
 
 ## Swift
 
@@ -510,7 +517,7 @@ title: GitHub actions
 - [GitHub Actions runner on AWS Fargate](https://github.com/nikovirtala/cdk-github-actions-runner) - Example how to run self-hosted GitHub Actions runners on AWS Fargate.
 - [Docker Github Actions Runner](https://github.com/myoung34/docker-github-actions-runner) - Will run the new self-hosted github actions runners with docker-in-docker.
 - [Automating a Software Company with GitHub Actions (2021)](https://posthog.com/blog/automating-a-software-company-with-github-actions) ([HN](https://news.ycombinator.com/item?id=28234057))
-- [Private Action Loader](https://github.com/nick-invision/private-action-loader) - Allows private GitHub Actions to be easily reused.
+- [Private Action Loader](https://github.com/nick-fields/private-action-loader) - Allows private GitHub Actions to be easily reused.
 - [Dynamic content for GitHub repository templates using cookiecutter and GitHub Actions (2021)](https://simonwillison.net/2021/Aug/28/dynamic-github-repository-templates/)
 - [GitHub Actions Limitations and Gotchas (2021)](https://www.cbui.dev/github-actions-limitations-and-gotchas/) ([HN](https://news.ycombinator.com/item?id=28460342))
 - [GitHub Actions: Ephemeral self-hosted runners & new webhooks for auto-scaling (2021)](https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/) ([HN](https://news.ycombinator.com/item?id=28601618))

@@ -197,3 +197,4 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [Ridd - YouTube](https://www.youtube.com/c/MichaelRiddering/videos)
 - [Awesome Command Palette](https://github.com/stefanjudis/awesome-command-palette)
 - [Designing undo/redo well](https://twitter.com/steveruizok/status/1566142910546038784)
+- [Martians unveiled: infusing a new site with extraterrestrial tech and soul—Martian Chronicles (2022)](https://evilmartians.com/chronicles/martians-unveiled-infusing-a-new-site-with-extraterrestrial-tech-and-soul)

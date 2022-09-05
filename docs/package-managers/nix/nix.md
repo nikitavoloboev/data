@@ -398,3 +398,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Unit Test Your Nix Code (2022)](https://www.tweag.io/blog/2022-09-01-unit-test-your-nix-code/)
 - [nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - Drop-in replacement for nix-serve that is faster and more reliable.
 - [Build an application with Nix and deploy it on Fly.io](https://github.com/LutrisEng/nix-fly-template)
+- [Konrad Hinsen - Nix/Guix and Reproducible Science (2022)](https://www.youtube.com/watch?v=SjjEDTccpQA)

@@ -241,3 +241,4 @@ title: DNS
 - [dnsv2](https://github.com/miekg/dnsv2) - Alternative (more granular) approach to a DNS library.
 - [Fast DNS package for Go](https://github.com/phuslu/fastdns) - Tuned for high performance. Zero memory allocations in almost paths. Up to 1M QPS on a single host.
 - [What happens if you point two CNAMEs at each other? Not much, really (2022)](https://alexanderell.is/posts/cnames/)
+- [Cheap DNS providers](https://twitter.com/b0rk/status/1566797914575446016)

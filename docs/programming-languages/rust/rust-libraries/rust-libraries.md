@@ -582,6 +582,7 @@
 - [crrl](https://github.com/pornin/crrl) - Rust library for cryptographic research.
 - [Private-ID](https://github.com/facebookresearch/Private-ID) - Collection of algorithms to match records between two parties, while preserving the privacy of these records.
 - [twenty-first](https://github.com/Neptune-Crypto/twenty-first) - Cryptography implementations in Rust.
+- [fastcrypto](https://github.com/MystenLabs/fastcrypto) - Common cryptographic library used in software at Mysten Labs.
 
 ## Linux
 

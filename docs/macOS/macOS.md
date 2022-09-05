@@ -287,3 +287,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Completely Open-Source Implementation of Apple Code Signing and Notarization (2022)](https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/) ([HN](https://news.ycombinator.com/item?id=32386762))
 - [ldid](https://github.com/ProcursusTeam/ldid) - Link Identity Editor. Put real or fake signatures in a Mach-O.
 - [macOS Hardening](https://github.com/beerisgood/macOS_Hardening)
+- [An Introduction to ExtensionKit (2022)](https://www.chimehq.com/blog/extensionkit-intro)

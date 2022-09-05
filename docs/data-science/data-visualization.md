@@ -183,3 +183,4 @@
 - [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2)
 - [Textnets](https://github.com/jboynyc/textnets) - Text analysis with networks.
 - [HoloViews](https://github.com/holoviz/holoviews) - Open-source Python library designed to make data analysis and visualization seamless and simple.
+- [Histogram vs eCDF (2022)](https://brooker.co.za/blog/2022/09/02/ecdf.html)

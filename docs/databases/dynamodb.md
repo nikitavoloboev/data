@@ -100,3 +100,6 @@ title: DynamoDB
 - [The DynamoDB paper (2022)](https://brooker.co.za/blog/2022/07/12/dynamodb.html) ([HN](https://news.ycombinator.com/item?id=32094046)) ([Summary](http://muratbuffalo.blogspot.com/2022/07/amazon-dynamodb-scalable-predictably.html))
 - [Single Table DynamoDB](https://github.com/jeffreyyoung/single-table-dynamo) - DynamoDB client built for using one table.
 - [Some notes on DynamoDB 2022 paper](http://_.0xffff.me/dynamodb2022.html) ([HN](https://news.ycombinator.com/item?id=32361558))
+- [Begin Data](https://github.com/beginner-corp/begin-data) - Durable and fast key/value store for Begin built on top of DynamoDB.
+- [DynamoDB Toolbox](https://github.com/jeremydaly/dynamodb-toolbox) - Simple set of tools for working with Amazon DynamoDB and the DocumentClient.
+- [Nice DynamoDB query libs](https://twitter.com/adamdotdev/status/1566583149517099008)

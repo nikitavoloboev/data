@@ -193,3 +193,4 @@ title: Terraform
 - [“Who Should Write the Terraform?” (2022)](https://zwischenzugs.com/2022/08/08/who-should-write-the-terraform/) ([HN](https://news.ycombinator.com/item?id=32396892))
 - [Terraform Operator](https://github.com/isaaguilar/terraform-operator) - Kubernetes CRD to handle terraform operations.
 - [IAM Policy Validator for Terraform](https://github.com/awslabs/terraform-iam-policy-validator)
+- [tfadd](https://github.com/magodo/tfadd) - Generate valid Terraform configuration from state.

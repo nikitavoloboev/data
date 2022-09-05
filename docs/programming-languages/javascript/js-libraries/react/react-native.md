@@ -30,6 +30,7 @@ title: React Native
 - [Elastic Scroll](https://github.com/naraB/ElasticScroll)
 - [Sensor Rotation](https://github.com/naraB/SensorRotation)
 - [Animated Cards](https://github.com/naraB/AnimatedCards)
+- [React Native animated app with reanimated + expo](https://github.com/lklima/rn-flight-animation)
 
 ## Notes
 

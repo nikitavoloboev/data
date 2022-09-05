@@ -109,3 +109,4 @@
 - [UI Learn](https://uilearn.com/) - Learn interface design with articles, books and video course. ([Course](https://uilearn.com/free-course/))
 - [Avoiding \<img\> layout shifts: aspect-ratio vs width & height attributes (2022)](https://jakearchibald.com/2022/img-aspect-ratio/)
 - [whyframe](https://whyframe.dev/) - Develop components in isolation. ([Code](https://github.com/bluwy/whyframe))
+- [Client-side Rendering](https://github.com/theninthsky/client-side-rendering) - Case study of CSR, it aims to explore the potential of client-side rendered apps compared to server-side rendering.

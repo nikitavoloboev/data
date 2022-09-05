@@ -117,6 +117,7 @@
 - [Understanding MapReduce (2022)](https://www.rowjee.com/blog/papers/mapreduce) ([Tweet](https://twitter.com/krismicinski/status/1554112249580634113))
 - [Algorithms you should know before you take system design interviews (2022)](https://blog.bytebytego.com/p/algorithms-you-should-know-before) ([HN](https://news.ycombinator.com/item?id=32429533))
 - [Elements of Programming Book](http://elementsofprogramming.com/)
+- [Algorithms & Data Structures studies](https://github.com/imteekay/algorithms)
 
 ## Images
 

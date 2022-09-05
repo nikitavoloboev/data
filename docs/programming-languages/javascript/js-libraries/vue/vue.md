@@ -190,3 +190,5 @@ title: Vue.js
 - [Temir](https://github.com/webfansplz/temir) - Vue for CLIs. Build your CLI output using components.
 - [Create Vue](https://github.com/vuejs/create-vue) - Quickly scaffold a Vue project.
 - [Nuxt Zero JS](https://github.com/danielroe/nuxt-zero-js) - Remove all client-side JS from your Nuxt 3 app.
+- [nuxtjs/style](https://github.com/nuxt-modules/design-tokens) - Use Design Tokens in your Nuxt project.
+- [Temir Snake CLI Game](https://github.com/webfansplz/temir-snake-game) - Terminal-based Snake game. Powered by Temir.

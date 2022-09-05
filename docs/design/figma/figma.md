@@ -101,3 +101,4 @@ title: Figma
 - [Figma Godly Starter](https://godly.shop/product/starter) ([Tweet](https://twitter.com/darylginn/status/1534055263392571393))
 - [Learn Design with Figma](https://www.figma.com/resources/learn-design/)
 - [Figma Academy](https://www.figma.academy/) - Product Design Program.
+- [Convert Figma design to production-ready app](https://twitter.com/Prathkum/status/1566390127181664258)

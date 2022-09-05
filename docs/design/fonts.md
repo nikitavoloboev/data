@@ -390,3 +390,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Adventures in Text Rendering: Kerning and Glyph Atlases | Warp (2022)](https://www.warp.dev/blog/adventures-text-rendering-kerning-glyph-atlases) ([HN](https://news.ycombinator.com/item?id=32251909))
 - [Getfonts](https://github.com/DavidBarts/getfonts) - Extract and meaningfully name fonts from Apple TTC (TrueType Collection) files.
 - [What's a good typeface other than Inter? (2022)](https://twitter.com/darylginn/status/1559212268532862977)
+- [Generator of fonts from SVG icons](https://github.com/itgalaxy/webfont)
+- [ttf2eot](https://github.com/fontello/ttf2eot) - Converts TTF fonts to EOT format. That can be useful for different web font generation tools.

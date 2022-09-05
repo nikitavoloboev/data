@@ -231,3 +231,5 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [imgs](https://imgs.so/) - Show & tell for photographers.
 - [Cosmos](https://www.cosmos.so/) - Home for curating your universe. ([Twitter](https://twitter.com/thecosmos))
 - [Elodie](https://github.com/jmathai/elodie) - EXIF-based photo assistant, organizer, manager and workflow automation tool.
+- [Photofield](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer.
+- [PiGallery2](https://github.com/bpatrik/pigallery2) - Fast directory-first photo gallery website, with rich UI, optimized for running on low resource servers.

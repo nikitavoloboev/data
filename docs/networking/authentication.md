@@ -257,3 +257,4 @@
 - [Kala Go](https://github.com/DeluxeOwl/kala-go) - Authorization framework written in Go based on Google's Zanzibar.
 - [lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation.
 - [auth](https://github.com/arianvp/auth) - Highly modern, secure and minimal identity management platform.
+- [Stytch](https://stytch.com/) - User infrastructure + passwordless authentication.

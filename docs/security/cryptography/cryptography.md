@@ -142,7 +142,7 @@
 - [Threema: Three Strikes, You’re Out (2021)](https://soatok.blog/2021/11/05/threema-three-strikes-youre-out/) ([Lobsters](https://lobste.rs/s/fxrzbw/threema_three_strikes_you_re_out))
 - [Lightweight Cryptography](https://csrc.nist.gov/Projects/Lightweight-Cryptography) ([HN](https://news.ycombinator.com/item?id=29137897))
 - [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) - RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data.
-- [Drand](https://github.com/drand/drand) - Distributed Randomness Beacon Daemon. ([Web](https://drand.love/))
+- [Drand](https://github.com/drand/drand) - Distributed Randomness Beacon Daemon. ([Web](https://drand.love/)) ([JS client](https://github.com/drand/drand-client))
 - [Jasmin](https://github.com/jasmin-lang/jasmin) - Workbench for high-assurance and high-speed cryptography. ([Wiki](https://github.com/jasmin-lang/jasmin/wiki))
 - [An Illustrated Guide to Elliptic Curve Cryptography Validation (2021)](https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/) ([HN](https://news.ycombinator.com/item?id=29397243))
 - [starkex-lib](https://github.com/dydxprotocol/starkex-lib) - Cryptographic functions for dYdX.

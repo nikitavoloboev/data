@@ -109,3 +109,4 @@ title: Zero knowledge proofs
 - [VERI-ZEXE](https://github.com/EspressoSystems/veri-zexe) - Decentralized Private Computation with Universal Setup.
 - [Ecne](https://github.com/franklynwang/EcneProject) - Engine for verifying the soundness of R1CS constraints.
 - [zkREPL](https://zkrepl.dev/) - Online playground for zero knowledge circuits. ([Code](https://github.com/0xPARC/zkrepl))
+- [cloud-ZK](https://github.com/ingonyama-zk/cloud-ZK) - Toolkit for developing ZKP acceleration in the cloud.

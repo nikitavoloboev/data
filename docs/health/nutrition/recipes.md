@@ -110,3 +110,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Mela](https://mela.recipes/) - Simple, elegant and modern recipe manager for iOS and macOS that syncs with iCloud.
 - [Peter Sugihara's recipes](https://campsh.com/recipes)
 - [go-recipe](https://github.com/kkyr/go-recipe) - Go library that scrapes recipes from websites.
+- [Tacohuaco](https://tacohuaco.co/) - Favorite recipes of a Mexican-Russian couple. ([Code](https://github.com/tacohuaco/tacohuaco))

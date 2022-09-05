@@ -9,7 +9,7 @@
 
 ## Links
 
-- [Zstandard](https://github.com/facebook/zstd) - Fast real-time compression algorithm. ([HN](https://news.ycombinator.com/item?id=24714854)) ([HN 2](https://news.ycombinator.com/item?id=25455314))
+- [Zstandard](https://github.com/facebook/zstd) - Fast real-time compression algorithm. ([HN](https://news.ycombinator.com/item?id=24714854)) ([HN](https://news.ycombinator.com/item?id=25455314)) ([HN](https://news.ycombinator.com/item?id=32715933))
 - [Orz](https://github.com/richox/orz) - General purpose data compressor written in rust.
 - [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - New Generation Entropy coders.
 - [Snappy](https://github.com/google/snappy) - Fast compressor/decompressor.
@@ -141,3 +141,4 @@
 - [The tar archive format, its extensions, and why GNU tar extracts in quadratic time (2022)](https://mort.coffee/home/tar/)
 - [unblob](https://github.com/onekey-sec/unblob) - Accurate and fast extraction suite for 30+ formats. ([Docs](https://unblob.org/)) ([Lobsters](https://lobste.rs/s/t4ktez/unblob_accurate_fast_extraction_suite))
 - [Brotli-WASM](https://github.com/httptoolkit/brotli-wasm) - Reliable compressor and decompressor for Brotli, supporting node & browsers via WASM.
+- [ZSTD seekable compression format implementation in Go](https://github.com/SaveTheRbtz/zstd-seekable-format-go)

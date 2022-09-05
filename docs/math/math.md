@@ -392,3 +392,5 @@
 - [How to Get a PhD in Mathematics in a Timely Fashion](https://sites.math.washington.edu/~billey/advice/timely.fashion.pdf) ([HN](https://news.ycombinator.com/item?id=32446693))
 - [Deconstructing Bézier curves (2022)](http://blog.pkh.me/p/33-deconstructing-be%CC%81zier-curves.html) ([HN](https://news.ycombinator.com/item?id=32479808))
 - [The Complexity Barrier (2011)](https://johncarlosbaez.wordpress.com/2011/10/28/the-complexity-barrier/)
+- [A course in Time Series Analysis (2022)](https://web.stat.tamu.edu/~suhasini/teaching673/time_series.pdf)
+- [An introduction to the algebraic geometry of the Putman-Wieland conjecture (2022)](https://arxiv.org/abs/2209.00717)

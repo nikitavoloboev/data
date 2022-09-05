@@ -288,3 +288,4 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [What's the most influential app/protocol/project in the Solana ecosystem? (2022)](https://twitter.com/0xMert_/status/1546302208085528576)
 - [Solders](https://github.com/kevinheavey/solders) - Python bindings for the Solana Rust SDK.
 - [Seahorse](https://seahorse-lang.org/) - Write Anchor-compatible Solana programs in Python. ([Tweet](https://github.com/ameliatastic/seahorse-lang))
+- [Solana State History (2022)](https://bpf.wtf/sol-state-history/)

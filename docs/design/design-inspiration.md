@@ -14,6 +14,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Dona](https://dona.ai/)
 - [Dask](https://www.dask.org/)
 - [Modfy](https://www.modfy.video/)
+- [Evil Martians](https://evilmartians.com/)
 - [Community](https://www.community.com/)
 - [Instatus](https://instatus.com/)
 - [Primer](https://primer.com/)
@@ -193,6 +194,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 ## Blogs
 
 - [Darkroom](https://darkroom.co/blog)
+- [Martian Chronicles](https://evilmartians.com/chronicles)
 - [Majid](https://swiftwithmajid.com/) ([Code](https://github.com/mecid/mecid.github.io))
 - [Kyle Mathews](https://www.bricolage.io/blog/)
 - [Actual Budget](https://actualbudget.com/blog/)
@@ -461,6 +463,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Reed Rosenbluth](https://reedrosenbluth.com/)
 - [Jonnie Hallman](https://destroytoday.com/)
 - [Chance Strickland](https://chance.dev/)
+- [Madhuri](https://iruhdam.com/)
 - [Monica Powell](https://www.aboutmonica.com/)
 - [David Sancho](https://sancho.dev/)
 - [Ben Adam](https://benadam.me/)
@@ -990,6 +993,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Bustle](https://www.bustle.com/uk) - Fast.
 - [Gikken](https://gikken.co/) - Amazing iOS & macOS software.
 - [milo](https://milo.adobe.com/)
+- [Evil Martians: 404](https://evilmartians.com/404)
 
 ## Pages
 
@@ -1029,3 +1033,4 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Emil's favorite site designs](https://emilkowal.ski/design)
 - [Web Avant-gardes](https://github.com/boardens/web-avant-gardes) - Collection of experimental, radical, or unorthodox websites.
 - [Creative web layouts](https://twitter.com/fritzisonline/status/1565974664463073280)
+- [Framer: Website Templates](https://www.framer.com/templates/)

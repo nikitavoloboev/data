@@ -130,6 +130,7 @@
 - [any-pointer](https://github.com/MasterQ32/any-pointer) - Type erasure library for Zig.
 - [zig-deque](https://github.com/magurotuna/zig-deque) - Double-ended queue implementation in Zig.
 - [Zig-TOML](https://github.com/aeronavery/zig-toml) - TOML parser written in Zig.
+- [Zig-Validate](https://github.com/mov-rax/zig-validate) - Type validation library for writing a zero-cost, declarative, understandable, generic code.
 
 ## Links
 

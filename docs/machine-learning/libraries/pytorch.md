@@ -435,3 +435,4 @@ title: PyTorch
 - [Writing Snake in 12 Lines of PyTorch (2022)](https://medium.com/artificialis/writing-snake-in-12-lines-of-pytorch-f7b21ce42a66) ([HN](https://news.ycombinator.com/item?id=32426836))
 - [PyTorch iOS Example Apps](https://github.com/pytorch/ios-demo-app)
 - [Bgflow](https://github.com/noegroup/bgflow) - Boltzmann Generators and Normalizing Flows in PyTorch.
+- [Frechet Audio Distance in PyTorch](https://github.com/gudgud96/frechet-audio-distance)

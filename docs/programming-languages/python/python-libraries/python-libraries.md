@@ -64,6 +64,7 @@
 - [aiorwlock](https://github.com/aio-libs/aiorwlock) - Read/Write Lock - synchronization primitive for asyncio.
 - [Nitro](https://github.com/h2oai/nitro) - Simplest way to build web apps using Python. No JavaScript/HTML/CSS coding.
 - [HTTPX OAuth](https://github.com/frankie567/httpx-oauth) - Async OAuth client using HTTPX.
+- [requests-cache](https://github.com/requests-cache/requests-cache) - Transparent persistent cache for python requests.
 
 ## ML
 
@@ -117,6 +118,7 @@
 - [SKOPS](https://github.com/skops-dev/skops) - Python library helping you share your scikit-learn based models and put them in production.
 - [HDDM](https://github.com/hddm-devs/hddm) - Python module that implements Hierarchical Bayesian parameter estimation of Drift Diffusion Models (via PyMC).
 - [Regressio](https://github.com/brendanartley/Regressio) - Python library for univariate regression, interpolation, and smoothing. ([HN](https://news.ycombinator.com/item?id=32645063))
+- [MAPIE](https://github.com/scikit-learn-contrib/MAPIE) - Scikit-learn-compatible module for estimating prediction intervals.
 
 ## Biology
 

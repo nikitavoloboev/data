@@ -277,3 +277,5 @@
 - [Why should I have written ZeroMQ in C, not C++ (2012)](https://250bpm.com/blog:4/) ([HN](https://news.ycombinator.com/item?id=32445394))
 - [Fexl](https://github.com/chkoreff/Fexl) - Function EXpression Language.
 - [C Integer Quiz](https://www.acepace.net/integerQuiz/) ([HN](https://news.ycombinator.com/item?id=32712017))
+- [Tips to Get Started with Cosmopolitan Libc (2022)](https://jeskin.net/blog/getting-started-with-cosmopolitan-libc/)
+- [Prototyping in C (2022)](https://www.jefftk.com/p/prototyping-in-c)

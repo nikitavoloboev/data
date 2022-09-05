@@ -113,3 +113,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [HG HomeServer](https://github.com/heusalagroup/hghs) - Minimal Matrix HomeServer written in TypeScript.
 - [Matrix public archive](https://github.com/matrix-org/matrix-public-archive) - View the history of world readable Matrix rooms.
 - [The Matrix Summer Special 2022](https://matrix.org/blog/2022/08/15/the-matrix-summer-special-2022)
+- [Commune](https://github.com/commune-org/commune) - Communications suite built on top of matrix.

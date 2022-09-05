@@ -193,3 +193,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [Northvolt](https://northvolt.com/) - Swedish battery developer and manufacturer, specializing in lithium-ion technology for electric vehicles. ([Europe's first homegrown gigafactory delivers](https://northvolt.com/articles/northvoltett-delivers/))
 - [Climate endgame: exploring catastrophic climate change scenarios (2022)](https://www.pnas.org/doi/full/10.1073/pnas.2108146119) ([HN](https://news.ycombinator.com/item?id=32323757))
 - [Ask HN: Working in tech for climate? (2022)](https://news.ycombinator.com/item?id=32324592)
+- [Notes on Progress: An environmentalist gets lunch (2022)](https://worksinprogress.substack.com/p/notes-on-progress-an-environmentalist)

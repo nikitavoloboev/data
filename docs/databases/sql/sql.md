@@ -212,3 +212,5 @@ title: SQL
 - [Nice intros to SQL](https://twitter.com/AllenDowney/status/1556702573633101825)
 - [Parsing SQL](https://tomassetti.me/parsing-sql/) ([HN](https://news.ycombinator.com/item?id=32560039))
 - [Set of useful SQL scripts](https://github.com/mfvanek/useful-sql-scripts)
+- [The case against SQL formatting (2022)](https://benn.substack.com/p/the-case-against-sql-formatting)
+- [SQL Cheat Sheet](https://twitter.com/swapnakpanda/status/1566740489608790016)

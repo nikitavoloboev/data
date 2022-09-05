@@ -798,3 +798,5 @@ title: Kubernetes
 - [Kubernetes Was Never Designed for Batch Jobs (2022)](https://betterprogramming.pub/kubernetes-was-never-designed-for-batch-jobs-f59be376a338) ([Lobsters](https://lobste.rs/s/z8gxe6/kubernetes_was_never_designed_for_batch))
 - [Parseable](https://github.com/parseablehq/parseable) - Cloud native log storage and management for Kubernetes, containerised workloads.
 - [k8s-client-go](https://github.com/castai/k8s-client-go) - Minimal Go Kubernetes client based on Generics.
+- [Pulumi Kubernetes Operator](https://github.com/pulumi/pulumi-kubernetes-operator) - Kubernetes operator that provides a CI/CD workflow for Pulumi stacks using Kubernetes primitives.
+- [run-job](https://github.com/alexellis/run-job) - Run a Kubernetes Job and get the logs when it's done.

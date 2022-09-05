@@ -427,6 +427,7 @@
 - [hspp](https://github.com/BowenFu/hspp) - Haskell Style Programming brought to C++.
 - [fast_float](https://github.com/fastfloat/fast_float) - Fast and exact implementation of the C++ from_chars functions for float and double types: 4x faster than strtod.
 - [ReactivePlusPlus](https://github.com/victimsnino/ReactivePlusPlus) - Reactive programming library for C++.
+- [Simple streaming library](https://github.com/vitaut/_._)
 
 ## Links
 

@@ -272,6 +272,7 @@ I want to:
 - [People are obsessed with migrating their notes and todos from one tool to another. The obsession with meta work as an excuse for not doing actual work is such an odd one.](https://twitter.com/ninarstepanov/status/1450515900822523907)
 - [A tragically underutilized fact in productivity software today is that most people's entire textual datasets for a lifetime can fit in modern PCs' RAM. Just load it up & search it in memory. We don't need to send everything across the planet. Things can be /so much/ faster.](https://twitter.com/thesephist/status/1455279982322749440)
 - [I learned today that a group of students used a Google doc to take lecture notes-- they all took notes simultaneously in a collective file.](https://twitter.com/mckellogs/status/811339472205910016)
+- [99% of wiki uses decompose into three disjoint usecases: 1. TODO list+journal 2. Learning 3. Reference archive](https://twitter.com/zetalyrae/status/1566613680611115011)
 
 ## Links
 

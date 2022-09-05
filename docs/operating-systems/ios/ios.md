@@ -502,3 +502,5 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [How to Reverse Engineer and Patch an iOS Application for Beginners (2022)](https://www.inversecos.com/2022/06/how-to-reverse-engineer-and-patch-ios.html)
 - [Storybook for iOS](https://github.com/eure/Storybook-ios) - UI Component previewer for UI development faster in iOS.
 - [Storybook for iOS](https://github.com/aj-bartocci/Storybook-SwiftUI) - Storybook like functionality for iOS apps.
+- [iOS Dev notes](https://github.com/Blackjacx/Development)
+- [iOS Performance Benchmarks using JavaScript for Universal Platform Development (2022)](https://blog.nativescript.org/perf-metrics-universal-javascript-part1/)

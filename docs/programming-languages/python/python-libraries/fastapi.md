@@ -35,3 +35,4 @@ title: FastAPI
 - [FastAPI Enclave Services](https://github.com/ObliviousAI/FastAPI-Enclave-Services)
 - [Cookiecutter FastAPI](https://github.com/Tobi-De/cookiecutter-fastapi) - Framework for jump starting production-ready FastAPI projects quickly.
 - [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) ([Reddit](https://www.reddit.com/r/Python/comments/wrt7om/fastapi_best_practices/))
+- [FastAPI Pagination](https://github.com/uriyyo/fastapi-pagination)

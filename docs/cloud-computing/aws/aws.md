@@ -378,3 +378,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [Matano](https://github.com/matanolabs/matano) - Open-source serverless security lake powered by Rust + Apache Iceberg.
 - [Serverless Snippets Collection](https://serverlessland.com/snippets) ([Code](https://github.com/aws-samples/serverless-snippets))
 - [AWS Neuron](https://github.com/aws/aws-neuron-sdk) - Enabling high-performance deep learning inference using AWS Inferentia custom designed machine learning chips.
+- [MinIO Rust](https://github.com/minio/minio-rs) - SDK for Amazon S3 Compatible Cloud Storage.

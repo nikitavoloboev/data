@@ -272,6 +272,7 @@
 - [SwiftyProvisioningProfile](https://github.com/Sherlouk/SwiftProvisioningProfile) - Parse iOS mobile provisioning files into Swift models.
 - [Inkable](https://github.com/adamwulf/Inkable) - Improve working with Apple pencil.
 - [YetAnotherSwipeToDismiss](https://github.com/PimCoumans/YetAnotherSwipeToDismiss) - Dismissable view controller supporting Auto Layout and dynamic height.
+- [SHSearchBar](https://github.com/Blackjacx/SHSearchBar) - Clean and shiny search bar that does what UISearchBar does only with dirty hacks.
 
 ## macOS
 

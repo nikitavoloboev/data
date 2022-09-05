@@ -197,3 +197,5 @@
 - [Losslessly Optimising Images](https://rubenerd.com/losslessly-optimise-images/) ([HN](https://news.ycombinator.com/item?id=32635906))
 - [Upscayl](https://github.com/upscayl/upscayl) - Free and Open Source AI Image Upscaler.
 - [invisible-watermark](https://github.com/ShieldMnt/invisible-watermark) - Python library for invisible image watermark (blind image watermark).
+- [go-camo](https://github.com/cactus/go-camo) - Secure image proxy server.
+- [Simp](https://github.com/Kl4rry/simp) - Fast and simple GPU-accelerated image manipulation program.

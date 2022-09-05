@@ -192,6 +192,7 @@ Below is a list of extensions I use.
 - [Playwright Test](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - Integrates Playwright Test into your VSCode workflow. ([Code](https://github.com/microsoft/playwright-vscode))
 - [Tym](https://marketplace.visualstudio.com/items?itemName=tym-inc.tym) - Share your code context in one-click. ([Web](https://tym.so/home))
 - [VS Code Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) - Adds playful pets in your VS Code window. ([Code](https://github.com/tonybaloney/vscode-pets))
+- [Script Kit](https://marketplace.visualstudio.com/items?itemName=johnlindquist.kit-extension) - Run the currently open file in Script Kit. ([Code](https://github.com/johnlindquist/kit-extension))
 
 ## Shell
 
@@ -282,6 +283,8 @@ Below is a list of extensions I use.
 - [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information CSS colors.
 - [Twind Intellisense](https://github.com/itsMapleLeaf/vscode-twind) - VSCode extension for twind.
 - [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules) - Extension for CSS Modules. ([Code](https://github.com/clinyong/vscode-css-modules))
+- [PostCSS Intellisense and Highlighting](https://marketplace.visualstudio.com/items?itemName=vunguyentuan.vscode-postcss) ([Code](https://github.com/vunguyentuan/vscode-postcss))
+- [CSS Variable Autocomplete](https://marketplace.visualstudio.com/items?itemName=vunguyentuan.vscode-css-variables) ([Code](https://github.com/vunguyentuan/vscode-css-variables))
 
 ## ReasonML
 

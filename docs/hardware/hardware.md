@@ -350,3 +350,4 @@
 - [Building a Panel out of e-ink Electronic Shelf Labels (2022)](https://rbaron.net/blog/2022/07/29/Daisy-chaining-multiple-electronic-shelf-labels.html)
 - [Ask HN: Chip startups? (2022)](https://news.ycombinator.com/item?id=32610780)
 - [Ask HN: Is there a developer laptop that does not suck and is not a Mac in 2022?](https://news.ycombinator.com/item?id=32632720)
+- [Tesla’s Dojo Microarchitecture (2022)](https://chipsandcheese.com/2022/09/01/hot-chips-34-teslas-dojo-microarchitecture/) ([HN](https://news.ycombinator.com/item?id=32704526))

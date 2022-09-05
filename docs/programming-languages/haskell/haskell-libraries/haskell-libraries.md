@@ -359,6 +359,7 @@
 - [json-stream](https://github.com/ondrap/json-stream) - Applicative incremental JSON parser for Haskell.
 - [rec-def](https://github.com/nomeata/haskell-rec-def) - APIs for more recursive definitions.
 - [memoize](https://github.com/tov/memoize) - Haskell memoization library.
+- [mono-traversable](https://github.com/snoyberg/mono-traversable) - Type classes for mapping, folding, and traversing monomorphic containers.
 
 ## Notes
 
