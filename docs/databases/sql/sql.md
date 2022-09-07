@@ -214,3 +214,4 @@ title: SQL
 - [Set of useful SQL scripts](https://github.com/mfvanek/useful-sql-scripts)
 - [The case against SQL formatting (2022)](https://benn.substack.com/p/the-case-against-sql-formatting)
 - [SQL Cheat Sheet](https://twitter.com/swapnakpanda/status/1566740489608790016)
+- [A sequel to SQL? An intro to Malloy (2022)](https://carlineng.com/?postid=malloy-intro#blog) ([HN](https://news.ycombinator.com/item?id=32738874))

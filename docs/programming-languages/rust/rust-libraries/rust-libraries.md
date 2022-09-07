@@ -442,7 +442,7 @@
 - [rstest](https://github.com/la10736/rstest) - Uses procedural macros to help you on writing fixtures and table-based tests.
 - [Proptest](https://github.com/AltSysrq/proptest) - Hypothesis-like property testing for Rust.
 - [cargo-all-features](https://github.com/frewsxcv/cargo-all-features) - Cargo subcommand to build and test all feature flag combinations.
-- [Fuzzcheck](https://github.com/loiclec/fuzzcheck-rs) - Structure-aware, in-process, coverage-guided, evolutionary fuzzing engine for Rust functions.
+- [Fuzzcheck](https://github.com/loiclec/fuzzcheck-rs) - Structure-aware, in-process, coverage-guided, evolutionary fuzzing engine for Rust functions. ([Docs](https://fuzzcheck.neocities.org/))
 - [k9](https://github.com/aaronabramov/k9) - Rust Testing Library.
 - [expect-test](https://github.com/rust-analyzer/expect-test) - Minimalistic snapshot testing for Rust.
 - [QuickCheck](https://github.com/BurntSushi/quickcheck) - Automated property based testing for Rust (with shrinking).
@@ -531,7 +531,7 @@
 - [RustCrypto: hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust.
 - [Mundane](https://github.com/google/mundane/) - Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order). ([HN](https://news.ycombinator.com/item?id=25434349))
 - [RustCrypto: Elliptic Curves](https://github.com/RustCrypto/elliptic-curves)
-- [poly-commit](https://github.com/scipr-lab/poly-commit) - Rust library for polynomial commitments.
+- [poly-commit](https://github.com/arkworks-rs/poly-commit) - Rust library for polynomial commitments.
 - [Marlin](https://github.com/scipr-lab/marlin) - Rust library for the Marlin preprocessing zkSNARK.
 - [STHash](https://github.com/jedisct1/rust-sthash) - Fast, keyed, cryptographic hash function designed to process large, possibly untrusted data.
 - [arkworks::algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic.
@@ -583,6 +583,7 @@
 - [Private-ID](https://github.com/facebookresearch/Private-ID) - Collection of algorithms to match records between two parties, while preserving the privacy of these records.
 - [twenty-first](https://github.com/Neptune-Crypto/twenty-first) - Cryptography implementations in Rust.
 - [fastcrypto](https://github.com/MystenLabs/fastcrypto) - Common cryptographic library used in software at Mysten Labs.
+- [fss](https://github.com/ryanleh/fss) - Rust libraries for designing and using functional secret sharing schemes.
 
 ## Linux
 
@@ -804,6 +805,7 @@
 - [entrait](https://github.com/audunhalland/entrait) - Proc macro to ease development using Inversion of Control patterns in Rust.
 - [defaults](https://github.com/95th/defaults) - Better Default derive macro.
 - [staticfilemap](https://github.com/Systemcluster/staticfilemap) - Procedural macro to embed optionally compressed files during compilation.
+- [Bassert](https://github.com/Qqwy/rust-bassert) - Better assertions for Rust.
 
 ## Math
 
@@ -2117,6 +2119,11 @@
 - [concurrent-queue](https://github.com/smol-rs/concurrent-queue) - Concurrent multi-producer multi-consumer queue.
 - [RDP](https://github.com/urschrei/rdp) - Rust implementation of the Ramer–Douglas-Peucker and Visvalingam-Whyatt line simplification algorithms.
 - [monch](https://github.com/denoland/monch) - Inspired by nom, but specifically for strings.
+- [slog-stdlog](https://github.com/slog-rs/stdlog) - Standard Rust log crate adapter to slog-rs.
+- [GDAL](https://github.com/georust/gdal) - Rust bindings for GDAL.
+- [PROJ](https://github.com/georust/proj) - Rust bindings for the latest stable release of PROJ.
+- [exitcode](https://github.com/benwilber/exitcode) - System exit code constants as defined by sysexits.h.
+- [Partial Function](https://github.com/jojolepro/partialfunction) - Clean way to define function as a set of smaller functions where each has defined start and end bounds.
 
 ## Cargo Plugins
 
@@ -2367,3 +2374,4 @@
 - [rustafarian](https://github.com/norskeld/rustafarian) - Minimal template for my Rust projects.
 - [Toward fearless cargo update (2022)](https://predr.ag/blog/toward-fearless-cargo-update/) ([Lobsters](https://lobste.rs/s/m7cqdm/toward_fearless_cargo_update))
 - [Awesome Rust](https://github.com/awesome-rust-com/awesome-rust)
+- [Riff](https://github.com/DeterminateSystems/riff) - Automatically provides external dependencies for Rust projects. ([HN](https://news.ycombinator.com/item?id=32739954)) ([Lobsters](https://lobste.rs/s/g6ibtq/introducing_riff_automatically_provide))

@@ -288,3 +288,5 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [ldid](https://github.com/ProcursusTeam/ldid) - Link Identity Editor. Put real or fake signatures in a Mach-O.
 - [macOS Hardening](https://github.com/beerisgood/macOS_Hardening)
 - [An Introduction to ExtensionKit (2022)](https://www.chimehq.com/blog/extensionkit-intro)
+- [FUSE-T](https://github.com/macos-fuse-t/fuse-t) - Kext-less implementation of FUSE for macOS that uses NFS v4 local server instead of a kernel extension.
+- [Ephemeral macOS for Buildkite](https://github.com/DeterminateSystems/macos-ephemeral) - Set up macOS machines to automatically erase and provision themselves on a Tailscale network with Buildkite.

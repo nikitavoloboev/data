@@ -1790,6 +1790,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Faker](https://github.com/jaswdr/faker) - Ultimate fake data generator for Go with zero dependencies.
 - [hotkey](https://github.com/golang-design/hotkey) - Cross-platform hotkey package.
 - [timefmt-go](https://github.com/itchyny/timefmt-go) - Efficient time formatting library (strftime, strptime) for Go.
+- [Unified Policy Engine](https://github.com/snyk/policy-engine)
+- [go-async](https://github.com/41north/go-async) - Collection of utilities for async code in Go.
 
 ## Links
 

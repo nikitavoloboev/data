@@ -91,3 +91,4 @@ title: Conflict-free replicated data type
 - [Vaxine](https://github.com/vaxine-io/vaxine) - Rich-CRDT database platform for backend applications. ([Web](https://vaxine.io/))
 - [Yboard](https://github.com/felipeleivav/yboard) - Multiplayer desktop-like workspace based on CRDT. ([HN](https://news.ycombinator.com/item?id=31891608))
 - [Automerge Chat Demo](https://github.com/okdistribute/automerge-chat-demo)
+- [Meangirls](https://github.com/aphyr/meangirls) - Convergent Replicated Data Types in Ruby.

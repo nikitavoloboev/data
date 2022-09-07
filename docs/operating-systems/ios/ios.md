@@ -504,3 +504,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Storybook for iOS](https://github.com/aj-bartocci/Storybook-SwiftUI) - Storybook like functionality for iOS apps.
 - [iOS Dev notes](https://github.com/Blackjacx/Development)
 - [iOS Performance Benchmarks using JavaScript for Universal Platform Development (2022)](https://blog.nativescript.org/perf-metrics-universal-javascript-part1/)
+- [MTHawkeye](https://github.com/meitu/MTHawkeye) - Profiling / Debugging assist tools for iOS.

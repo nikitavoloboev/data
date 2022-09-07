@@ -64,7 +64,6 @@
 - [Elixir Flavoured Erlang: an Erlang to Elixir Transpiler (2020)](http://marianoguerra.org/posts/elixir-flavoured-erlang-an-erlang-to-elixir-transpiler/)
 - [You may not need Redis with Elixir (2020)](https://dashbit.co/blog/you-may-not-need-redis-with-elixir)
 - [Circuit Breaker Pattern in Elixir (2020)](https://allanmacgregor.com/posts/circuit-breaker-pattern-in-elixir)
-- [TypeCheck](https://github.com/Qqwy/elixir-type_check) - Fast and flexible runtime type-checking for your Elixir projects.
 - [Learn Elixir by making 5 small games](https://alchemist.camp/little-potions/hello-world.html)
 - [Sand](https://sand.rty.party/) - Sandbox for Elixir. ([Code](https://github.com/bopjesvla/sand))
 - [Elixir Community of Practice](https://github.com/adolfont/elixir_cop) - Resources on learning Elixir.
@@ -174,3 +173,4 @@
 - [Elixir versus Python for Data Science (2022)](https://dockyard.com/blog/2022/07/12/elixir-versus-python-for-data-science)
 - [Elixir Livebook now as a desktop app](https://news.livebook.dev/introducing-the-livebook-desktop-app-4C8dpu) ([HN](https://news.ycombinator.com/item?id=32320531))
 - [Air quality station built with Elixir (2022)](https://cmdarek.com/pages/air-quality-station.html)
+- [How to speed up your Elixir compile times (2022)](https://medium.com/multiverse-tech/how-to-speed-up-your-elixir-compile-times-part-1-understanding-elixir-compilation-64d44a32ec6e)

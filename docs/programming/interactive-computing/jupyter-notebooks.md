@@ -217,3 +217,5 @@ title: Jupyter Notebooks
 - [IJavascript](https://github.com/n-riesco/ijavascript) - JavaScript kernel for the Jupyter notebook.
 - [Jupyter Events](https://github.com/jupyter/jupyter_events) - Event system for Jupyter Applications and extensions.
 - [Jupyter Notebook Viewer](https://github.com/jupyter/nbviewer) - Render Jupyter Notebooks as static web pages.
+- [nbproject](https://github.com/laminlabs/nbproject) - Manage Jupyter notebooks.
+- [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) - Hatch plugin to help build Jupyter packages.

@@ -191,6 +191,7 @@
 - [Ducktape](https://github.com/arainko/ducktape) - Library for boilerplate-less and configurable transformations between case classes/enums (sealed traits) for Scala 3.
 - [smithy4s](https://github.com/disneystreaming/smithy4s) - Tool that generates third-party-free, protocol-agnostic scala code from smithy specifications. ([Docs](https://disneystreaming.github.io/smithy4s/docs/overview/intro/)) ([Reddit](https://www.reddit.com/r/scala/comments/wrjue2/smithy4s_0150_now_with_smithy_20_support/))
 - [GLL Combinators](https://github.com/djspiewak/gll-combinators) - Parser combinator library based on the GLL algorithm.
+- [Nyaya](https://github.com/japgolly/nyaya) - Random Data Generation and/or Property Testing in Scala & Scala.JS.
 
 ## Links
 

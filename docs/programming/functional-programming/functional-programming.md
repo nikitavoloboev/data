@@ -189,6 +189,7 @@
 - ["Outperforming Imperative with Pure Functional Languages" by Richard Feldman (2021)](https://www.youtube.com/watch?v=vzfy4EKwG_Y)
 - [Functional Reactive Programming](https://wiki.haskell.org/Functional_Reactive_Programming) ([HN](https://news.ycombinator.com/item?id=32448772))
 - [Learning Path for Functional Programming](https://github.com/imteekay/functional-programming-learning-path)
+- [Lambda Days](https://www.lambdadays.org/) - One of a kind experience in the functional world. ([Twitter](https://twitter.com/LambdaDays))
 
 ## Images
 

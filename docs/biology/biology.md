@@ -135,3 +135,4 @@
 - [Learn how to create with biology](https://github.com/madewithbio/madewithbio.github.io)
 - [A physical wiring diagram for the human immune system (2022)](https://www.nature.com/articles/s41586-022-05028-x) ([HN](https://news.ycombinator.com/item?id=32381790))
 - [Open Source Tools for Computational Biology (2022)](https://www.pillar.vc/playlist/article/open-source-tools-for-computational-biology/) ([HN](https://news.ycombinator.com/item?id=32384710))
+- [From Wound Healing to Regeneration](https://www.uni-heidelberg.de/en/newsroom/from-wound-healing-to-regeneration)

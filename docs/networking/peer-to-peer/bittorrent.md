@@ -130,3 +130,4 @@ title: BitTorrent
 - [VueTorrent](https://github.com/WDaan/VueTorrent) - Sleekest looking WEBUI for qBittorrent made with VueJS.
 - [rqbit](https://github.com/ikatson/rqbit) - BitTorrent client in Rust.
 - [Tornado](https://github.com/fraidev/tornado) - BitTorrent client written entirely in OCaml.
+- [Bt-Elixir](https://github.com/wismer/bt-elixir) - Elixir bit torrent.

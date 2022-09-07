@@ -182,7 +182,7 @@ title: Vue.js
 - [Vue Use State Effect](https://github.com/lukasborawski/vue-use-state-effect) - Fast and small library, built on top of the native Vue.js API that will provide a safe and sharable (across the app) state for your local composables and functions.
 - [Unplugin Vue Components](https://github.com/antfu/unplugin-vue-components) - On-demand components auto importing for Vue.
 - [Collection of Vue.js challenges](https://vuejs-challenges.netlify.app/) ([Code](https://github.com/webfansplz/vuejs-challenges))
-- [Vue Compiler in Rust](https://github.com/HerringtonDarkholme/vue-compiler)
+- [Vue Compiler in Rust](https://github.com/HerringtonDarkholme/vue-compiler) ([Reddit](https://www.reddit.com/r/rust/comments/x7np5z/rusty_vue_vue_compiler_rewritten_in_rust/))
 - [Lumeno UI](https://github.com/LumenoDev/ui) - Library of UI widgets built using Vue.js and TailwindCSS.
 - [Best place to start your Nuxt Theme](https://github.com/nuxt-themes/starter)
 - [Looking at Nuxt3 (2022)](https://www.youtube.com/watch?v=s4Rd2snXSr0)

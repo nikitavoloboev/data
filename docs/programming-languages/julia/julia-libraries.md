@@ -719,6 +719,7 @@
 - [MultiDocumenter](https://github.com/JuliaComputing/MultiDocumenter.jl) - Aggregates Documenter.jl documentation from multiple sources into one page with a global search bar.
 - [AutoSysimages](https://github.com/petvana/AutoSysimages.jl) - Automate user-specific system images for Julia.
 - [EasyFit](https://github.com/m3g/EasyFit.jl) - Easy interface for obtaining fits of 2D data.
+- [Carousel Arrays](https://github.com/ChifiSource/CarouselArrays.jl) - Arrays that can be indexed repeatedly.
 
 ## Links
 

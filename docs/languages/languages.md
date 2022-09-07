@@ -85,3 +85,4 @@
 - [Why I built a dictionary app (2022)](https://www.wordnote.app/blog/why-i-built-dictionary-app) ([HN](https://news.ycombinator.com/item?id=32300466))
 - [Wordnote Dictionary](https://www.wordnote.app/) - Simple and elegant notebook to write new words and discover their meanings and synonyms. ([Code](https://github.com/zehfernandes/wordnote))
 - [Linguistic Antipatterns](https://www.linguistic-antipatterns.com/) ([Code](https://github.com/Linguistic-Antipatterns/linguistic-antipatterns.github.io)) ([Lobsters](https://lobste.rs/s/v0rnys/linguistic_antipatterns_catalog))
+- [CLD3](https://github.com/google/cld3) - Neural network model for language identification.

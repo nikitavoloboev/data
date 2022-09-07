@@ -82,6 +82,7 @@
 
 - [Axon](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks. ([HN](https://news.ycombinator.com/item?id=26737956))
 - [Scholar](https://github.com/elixir-nx/scholar) - Machine learning tools built on top of Nx.
+- [Tensor](https://github.com/Qqwy/elixir-tensor) - Adds support for Vectors, Matrixes and higher-dimension Tensors to Elixir.
 
 ## CLI
 
@@ -234,6 +235,11 @@
 - [Crontab](https://github.com/jshmrtn/crontab) - Elixir library for parsing, writing, and calculating Cron format strings.
 - [ExZstd](https://github.com/chenzhuoyu/elixir-zstd) - Elixir binding of the Zstandard library.
 - [Spark](https://github.com/ash-project/spark) - Tooling for building DSLs in Elixir.
+- [FunLand](https://github.com/Qqwy/elixir-fun_land) - Algebraic Data Types for Elixir: Both functional and fun.
+- [TypeCheck](https://github.com/Qqwy/elixir-type_check) - Fast and flexible runtime type-checking for your Elixir projects.
+- [MapDiff](https://github.com/Qqwy/elixir-map_diff) - Calculates the difference between two (nested) maps.
+- [Arrays](https://github.com/Qqwy/elixir-arrays) - Library to work with well-structured Arrays with fast random-element-access for Elixir.
+- [CapturePipe](https://github.com/Qqwy/elixir-capture_pipe) - Pipe-macro for Elixir that allows bare function captures.
 
 ## Links
 

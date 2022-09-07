@@ -10,6 +10,7 @@ title: React Native
 
 ## Nice OSS RN apps
 
+- [RNN Starter](https://github.com/kanzitelli/rnn-starter) - Powered by cli-rn, React Native Navigation, Expo Modules, RNN Screens, RN UI lib, MMKV, Mobx, Reanimated 2, Dark Mode, Localization, Notifications, Permissions, and much more.
 - [Rainbow](https://github.com/rainbow-me/rainbow) - Pocket robot for your internet money, powered by Ethereum.
 - [SimpleShop](https://github.com/hoangvvo/SimpleShop) - Tiny app to manage inventory and keep track of orders and profits.
 - [Colorwaver](https://github.com/mrousavy/Colorwaver) - App to detect colorwaves (swatches/palettes) in the real world - powered by VisionCamera and Reanimated.
@@ -299,3 +300,6 @@ title: React Native
 - [Pedal to the Metal (2022)](https://www.youtube.com/watch?v=uvLQ5f3KDXk)
 - [gRPC for react-native](https://github.com/Mitch528/react-native-grpc)
 - [React Native Check Version](https://github.com/includable/react-native-check-version) - Easy way to check if there's an update available for the current app in the App Store or Google Play.
+- [RN-Bounceable](https://github.com/kanzitelli/rn-bounceable) - Native bounceable effect for any React Native component. Built with Reanimated 2. Compatible with Expo.
+- [RNN Screens](https://github.com/kanzitelli/rnn-screens) - Predictable Navigation for React Native.
+- [React Native Permissions](https://github.com/zoontek/react-native-permissions) - Unified permissions API for React Native on iOS and Android.

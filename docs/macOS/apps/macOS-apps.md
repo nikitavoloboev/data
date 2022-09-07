@@ -8,6 +8,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 
 - [Pine](https://github.com/lukakerr/Pine) - Modern, native macOS markdown editor.
 - [Twig](https://github.com/lukakerr/twig/) - Modern macOS markdown editor.
+- [Flowlist](https://github.com/flowtoolz/Flowlist) - Fun Self-Management for macOS.
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods. ([Web](https://www.jacklandrin.com/2021/12/01/onlyswitch/))
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Displays all open files and sockets in use by all running processes on your system.
 - [TelegramSwift macOS](https://github.com/overtake/TelegramSwift)

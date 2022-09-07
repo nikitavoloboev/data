@@ -379,3 +379,9 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [Serverless Snippets Collection](https://serverlessland.com/snippets) ([Code](https://github.com/aws-samples/serverless-snippets))
 - [AWS Neuron](https://github.com/aws/aws-neuron-sdk) - Enabling high-performance deep learning inference using AWS Inferentia custom designed machine learning chips.
 - [MinIO Rust](https://github.com/minio/minio-rs) - SDK for Amazon S3 Compatible Cloud Storage.
+- [CDK-nag](https://github.com/cdklabs/cdk-nag) - Check CDK applications for best practices using a combination of available rule packs.
+- [CDK-watchful](https://github.com/cdklabs/cdk-watchful) - AWS CDK construct library that makes it easy to monitor CDK apps.
+- [aws-delivlib](https://github.com/cdklabs/aws-delivlib) - Library for defining continuous pipelines for building, testing and publishing code libraries through AWS CodeBuild and AWS CodePipeline.
+- [CDK Monitoring Constructs](https://github.com/cdklabs/cdk-monitoring-constructs) - Easy-to-use CDK constructs for monitoring your AWS infrastructure.
+- [CDK Pipelines for GitHub Workflows](https://github.com/cdklabs/cdk-pipelines-github)
+- [Construct Hub](https://github.com/cdklabs/construct-hub) - Maintains a AWS Cloud Development Kit construct library that can be used to deploy instances of the Construct Hub in any AWS Account.

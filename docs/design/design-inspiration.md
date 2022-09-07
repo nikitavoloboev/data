@@ -403,6 +403,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Unai Mengual](https://owln.ai/)
 - [Koos Looijesteijn](https://www.kooslooijesteijn.net/)
 - [Patrick Brosset](https://patrickbrosset.com/)
+- [Núria](https://www.nuriasatorres.com/)
 - [Laurel Schwulst](https://laurelschwulst.com/)
 - [Rob Haisfield](https://robhaisfield.com/)
 - [Francesco Agosti](https://fragosti.com/) ([Code](https://github.com/fragosti/blog))

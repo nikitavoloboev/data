@@ -385,6 +385,7 @@
 - [Tom Blomfield: Monzo Growth (2022)](https://tomblomfield.com/post/691384431502557184/monzo-growth) ([HN](https://news.ycombinator.com/item?id=32383448))
 - [Ask HN: How much info should founders share with early stage employees? (2022)](https://news.ycombinator.com/item?id=32616270)
 - [Tips for Developers Who Want to Build a SaaS Startup (2022)](https://news.ycombinator.com/item?id=32647091)
+- [Ask HN: Which startups have the most interesting pivot stories? (2022)](https://news.ycombinator.com/item?id=32740486)
 
 ## Images
 

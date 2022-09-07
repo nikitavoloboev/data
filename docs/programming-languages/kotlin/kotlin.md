@@ -52,3 +52,7 @@ title: Kotlin
 - [Toying with Kotlin's Context Receivers (2022)](https://blog.frankel.ch/kotlin-context-receivers/) ([HN](https://news.ycombinator.com/item?id=31388883))
 - [Kotlin Native Xcode Support](https://github.com/touchlab/xcode-kotlin) - Allows debugging of Kotlin code running in an iOS application, directly from Xcode.
 - [Kotlin Analysis Server](https://github.com/fwcd/kotlin-analysis-server) - Language server prototype using the new Kotlin analysis API.
+- [Kotlin sample code for Bartosz Milewski's CT for Programmers](https://github.com/arrow-kt/Category-Theory-for-Programmers.kt)
+- [Exploring Kotlin's Context Receivers (2022)](https://nomisrev.github.io/context-receivers/)
+- [My favorite Kotlin feature (2022)](https://nomisrev.github.io/inline-and-suspend/)
+- [Continuation in Kotlin (2021)](https://nomisrev.github.io/continuation-monad-in-kotlin/)

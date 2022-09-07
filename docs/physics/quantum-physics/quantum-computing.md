@@ -170,3 +170,4 @@ title: Quantum computing
 - [Introduction to Classical and Quantum Computing](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) ([HN](https://news.ycombinator.com/item?id=32135890))
 - [QPong](https://github.com/HuangJunye/QPong) - Quantum version of the classic Pong.
 - [OpenFermion](https://github.com/quantumlib/OpenFermion) - Compiling and analyzing quantum algorithms to simulate fermionic systems, including quantum chemistry.
+- [Using Coalton to Implement a Quantum Compiler (2022)](https://coalton-lang.github.io/20220906-quantum-compiler/)

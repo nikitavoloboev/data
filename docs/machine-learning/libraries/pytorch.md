@@ -134,7 +134,7 @@ title: PyTorch
 - [PyTorch Hub](https://pytorch.org/hub/) - Discover and publish models to a pre-trained model repository designed for research exploration. ([Code](https://github.com/pytorch/hub))
 - [Pretrained models for PyTorch](https://github.com/Cadene/pretrained-models.pytorch)
 - [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions. In PyTorch.
-- [minGPT](https://github.com/karpathy/minGPT) - Minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training. ([Code](https://news.ycombinator.com/item?id=24189497))
+- [minGPT](https://github.com/karpathy/minGPT) - Minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training. ([Code](https://news.ycombinator.com/item?id=24189497)) ([HN](https://news.ycombinator.com/item?id=32736044))
 - [MiniTorch](https://minitorch.github.io/) - Teaching library for machine learning engineers who wish to learn about the internal concepts underlying deep learning systems.
 - [PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA (2020)](https://www.youtube.com/watch?v=9mS1fIYj1So) ([Summary](https://twitter.com/karpathy/status/1299921324333170689))
 - [Opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy. ([Web](https://opacus.ai/)) ([Opacus Lab Research](https://github.com/facebookresearch/Opacus-lab))
@@ -436,3 +436,4 @@ title: PyTorch
 - [PyTorch iOS Example Apps](https://github.com/pytorch/ios-demo-app)
 - [Bgflow](https://github.com/noegroup/bgflow) - Boltzmann Generators and Normalizing Flows in PyTorch.
 - [Frechet Audio Distance in PyTorch](https://github.com/gudgud96/frechet-audio-distance)
+- [Satellite Cloud Generator](https://github.com/cidcom/SatelliteCloudGenerator) - PyTorch-based tool to generate clouds for satellite images.

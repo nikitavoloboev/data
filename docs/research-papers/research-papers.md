@@ -197,3 +197,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [paperscraper](https://github.com/PhosphorylatedRabbits/paperscraper) - Tools to scrape publication metadata from pubmed, arxiv, medrxiv and chemrxiv.
 - [pandoc-plot](https://github.com/LaurentRDC/pandoc-plot) - Render and include figures in Pandoc documents using your plotting toolkit of choice.
 - [Pyzotero](https://github.com/urschrei/pyzotero) - Python client for the Zotero API.
+- [Sci Hub Injector](https://github.com/justjosias/sci-hub-injector) - Adds SciHub links to popular publisher websites.

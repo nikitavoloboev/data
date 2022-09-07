@@ -75,6 +75,8 @@
 - [dry-effects](https://github.com/dry-rb/dry-effects) - Algebraic effects in Ruby.
 - [Casting](https://github.com/saturnflyer/casting) - Delegate methods in Ruby and preserve self. Add behaviors to your objects without altering their superclass hierarchy.
 - [promise.rb](https://github.com/lgierth/promise.rb) - Ruby implementation of the Promises/A+ spec.
+- [Cutoff](https://github.com/justinhoward/cutoff) - Deadlines for Ruby.
+- [Que](https://github.com/que-rb/que) - Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
 
 ## Links
 
@@ -95,3 +97,4 @@
 - [What Would be Your Ideal Ruby Tech Stack (2022)](https://www.reddit.com/r/ruby/comments/ueptad/what_would_be_your_ideal_ruby_tech_stack/)
 - [Gel](https://github.com/gel-rb/gel) - Modern gem manager.
 - [Making popular Ruby packages more secure (2022)](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html) ([HN](https://news.ycombinator.com/item?id=31730221))
+- [Hiddengems](https://gitlab.com/svdasein/hiddengems) - Better search and ranking for ruby gems.

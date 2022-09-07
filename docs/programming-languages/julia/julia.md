@@ -149,3 +149,4 @@ title: Julia
 - [Julia for High-Performance Computing (2022)](https://www.youtube.com/watch?v=fog1x9rs71Q)
 - [A Complete Guide to Efficient Transformations of data frames (2022)](https://www.youtube.com/watch?v=SXF4BawX-hs)
 - [Julia 1.8 Highlights (2022)](https://julialang.org/blog/2022/08/julia-1.8-highlights/) ([HN](https://news.ycombinator.com/item?id=32508158))
+- [Julia Functions In Excruciating Detail (2022)](https://medium.com/chifi-media/julia-functions-in-excruciating-detail-1366bc43b6b)

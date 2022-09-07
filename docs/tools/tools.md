@@ -238,6 +238,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Emery](https://emery.to/) - Personal workspace for busy people. ([HN](https://news.ycombinator.com/item?id=32312413))
 - [Airy](https://airy.co/) - Open Source Conversational Platform. ([HN](https://news.ycombinator.com/item?id=27446200))
 - [Cuttle](https://cuttle.xyz/) - Design tool for digital cutting machines.
+- [Evental](https://evental.app/) - Event management software that's highly intuitive. ([Code](https://github.com/eventalapp/evental))
 - [ASCIIFlow](https://asciiflow.com/#/) - Client-side only web based application for drawing ASCII diagrams. ([Code](https://github.com/lewish/asciiflow)) ([HN](https://news.ycombinator.com/item?id=30273299))
 - [nomnoml](https://www.nomnoml.com/) - Tool for drawing UML diagrams based on a simple syntax. ([Code](https://github.com/skanaar/nomnoml))
 - [Pace](https://pace.dev/) - Minimalist project management tool.

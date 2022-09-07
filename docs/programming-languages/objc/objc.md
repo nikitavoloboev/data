@@ -69,3 +69,4 @@
 - [zig-objcrt](https://github.com/hazeycode/zig-objcrt) - Objective-C Runtime bindings for Zig.
 - [Objective-C ABI Knowledge base](https://github.com/jonpalmisc/objc-kb)
 - [Objective-S](http://objective.st/) - Architecture-oriented language based on Smalltalk and Objective-C. ([HN](https://news.ycombinator.com/item?id=32444300))
+- [Tree-sitter parser for Objective-C](https://github.com/jiyee/tree-sitter-objc)

@@ -71,6 +71,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Matei Cotocel](https://github.com/MCotocel/nixdots)
 - [Chris Montgomery](https://github.com/montchr/dotfield)
 - [Michael Walker](https://github.com/barrucadu/nixfiles)
+- [Jake Hamilton](https://github.com/jakehamilton/config)
 
 ## Nix configs (macOS)
 
@@ -243,3 +244,5 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS Druid](https://github.com/syberant/nixos-druid) - GUI for NixOS documentation + configuration.
 - [Run NixOS VM on macOS machine](https://github.com/YorikSar/nixos-vm-on-macos)
 - [Getting Stable Diffusion Running on NixOS (2022)](https://xeiaso.net/blog/stable-diffusion-nixos)
+- [NixOS Images](https://github.com/nix-community/nixos-images) - Automatically weekly updated images for NixOS.
+- [One Year With the Framework Laptop and NixOS (2022)](https://blog.tjll.net/one-year-with-nixos-on-framework/)

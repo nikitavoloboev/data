@@ -282,3 +282,4 @@ Hi<div>oh no break</div>
 - [HTML Parser](https://github.com/mathiversen/html-parser) - Simple and general purpose html/xhtml parser lib/bin, using Pest.
 - [Loading Images With the “Blur Down” Technique](https://joebell.co.uk/blog/loading-images-with-the-blur-down-technique) ([Code](https://github.com/joe-bell/loading-disco))
 - [HTML Best Practices](https://github.com/hail2u/html-best-practices) - For writing maintainable and scalable HTML documents.
+- [TIL: You can access a user’s camera with just HTML (2022)](https://austingil.com/html-capture-attribute/) ([HN](https://news.ycombinator.com/item?id=32738501))

@@ -20,6 +20,7 @@
 - [rigpa](https://github.com/countvajhula/rigpa) - Modular editing levels and towers for Emacs.
 - [Auto Activating Snippets](https://github.com/ymarco/auto-activating-snippets) - Snippets for Emacs that expand as you type.
 - [symex.el](https://github.com/countvajhula/symex.el) - Edit Lisp symbolic expressions ("symexes") as trees in Emacs.
+- [f.el](https://github.com/rejeep/f.el) - Modern API for working with files and directories in Emacs.
 
 ## Git
 

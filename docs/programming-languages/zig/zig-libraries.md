@@ -20,6 +20,7 @@
 - [rem](https://github.com/chwayne/rem) - HTML parsing library, written in Zig.
 - [zfetch](https://github.com/truemedian/zfetch) - HTTP request library for Zig with HTTPS support.
 - [HTTP](https://github.com/ducdetronquito/http) - HTTP core types for Zig.
+- [Zelda](https://github.com/haze/zelda) - Simple HTTP client library for Zig.
 
 ## DB
 
@@ -131,6 +132,7 @@
 - [zig-deque](https://github.com/magurotuna/zig-deque) - Double-ended queue implementation in Zig.
 - [Zig-TOML](https://github.com/aeronavery/zig-toml) - TOML parser written in Zig.
 - [Zig-Validate](https://github.com/mov-rax/zig-validate) - Type validation library for writing a zero-cost, declarative, understandable, generic code.
+- [Zig-LibreSSL](https://github.com/haze/zig-libressl) - LibreSSL stream wrappers for Zig.
 
 ## Links
 

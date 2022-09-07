@@ -291,3 +291,4 @@ title: HTTP
 - [Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling (2022)](https://portswigger.net/research/browser-powered-desync-attacks)
 - [HTTP/1 to HTTP/2 to HTTP/3 (2022)](https://www.youtube.com/watch?v=a-sBfyiXysI)
 - [HTTP3-attacks](https://github.com/efchatz/HTTP3-attacks)
+- [Fragments](https://github.com/corpulent/fragments) - Platform to compose and manage custom data objects for HTTP transactions.

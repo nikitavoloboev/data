@@ -75,3 +75,4 @@
 - [Autoware](https://github.com/autowarefoundation/autoware) - Open-source software stack for self-driving vehicles, built on the Robot Operating System (ROS).
 - [LaserMix for Semi-Supervised LiDAR Semantic Segmentation (2022)](https://ldkong.com/LaserMix) ([Code](https://github.com/ldkong1205/LaserMix))
 - [HN: Andrej Karpathy leaves Tesla (2022)](https://news.ycombinator.com/item?id=32089013)
+- [Awesome BEV Perception from Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras)

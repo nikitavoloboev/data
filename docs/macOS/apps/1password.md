@@ -48,3 +48,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [op-js](https://github.com/1Password/op-js) - JS library powered by the 1Password CLI.
 - [gopass](https://github.com/aviau/gopass) - Pass implementation in Go.
 - [1Password for VS Code](https://github.com/1Password/op-vscode)
+- [Padloc](https://padloc.app/) - Open Source, End-to-end Encrypted Password Manager. ([Code](https://github.com/padloc/padloc))

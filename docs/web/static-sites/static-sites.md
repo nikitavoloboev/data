@@ -130,3 +130,4 @@ I liked [this article](https://sabrinajewson.org/blog/building-this-site) on bui
 - [Building a static site with Rust guide (2022)](https://sabrinajewson.org/blog/building-this-site)
 - [Smaller Static Sites with New Formats (2022)](https://hypirion.com/musings/smaller-static-sites-with-new-formats) ([Lobsters](https://lobste.rs/s/ufd2p4/smaller_static_sites_with_new_formats))
 - [Flamethrower](https://github.com/fireship-io/flamethrower) - Blazingly fast router for static sites.
+- [Static site hosting hurdles (2022)](https://notes.volution.ro/v1/2022/09/notes/b08118d8/) ([HN](https://news.ycombinator.com/item?id=32730020)) ([Lobsters](https://lobste.rs/s/8rxdhi/static_site_hosting_hurdles))

@@ -163,3 +163,4 @@
 - [Open Grants](https://www.ogrants.org/) - List of grants that are openly available on the web. ([Code](https://github.com/ogrants/ogrants))
 - [Ask HN: How to raise a seed round in a down market? (2022)](https://news.ycombinator.com/item?id=31847941)
 - [Dune: Started From The Bottom - from nobody to unicorn in 3 years (2022)](https://dune.com/blog/started-from-the-bottom)
+- [How TrialPay raised funds without growth (2022)](https://twitter.com/arampell/status/1562557849128931328)

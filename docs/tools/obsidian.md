@@ -185,6 +185,8 @@ div.CodeMirror-cursor,
 - [Obsidian Footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun.
 - [Obsidian Outliner](https://github.com/vslinko/obsidian-outliner) - Work with your lists like in Workflowy or RoamResearch.
 - [Commander](https://github.com/phibr0/obsidian-commander) - Obsidian Plugin | Add Commands to every part of Obsidian's user interface.
+- [Table Enhancer](https://github.com/Stardusten/ob-table-enhancer) - Plugin for improving the experience of using table in Obsidian.
+- [Waypoint](https://github.com/IdreesInc/Waypoint) - Automatic Table of Contents Generator.
 
 ## Themes
 

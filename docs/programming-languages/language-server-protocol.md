@@ -29,3 +29,4 @@ title: Language Server Protocol
 - [Why LSP? (2022)](https://matklad.github.io//2022/04/25/why-lsp.html) ([HN](https://news.ycombinator.com/item?id=31151048))
 - [Monorepo of packages related to LSP](https://github.com/qualified/lsps)
 - [Minimal browser-hosted WASM demo for tower-lsp](https://github.com/silvanshade/tower-lsp-web-demo)
+- [LSPService](https://github.com/flowtoolz/LSPService) - Use local LSP servers via WebSockets.

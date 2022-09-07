@@ -134,3 +134,4 @@ title: LLVM
 - [Ghidra-to-LLVM](https://github.com/toor-de-force/Ghidra-to-LLVM) - Binary-to-LLVM IR lifter that leverages Ghidra's IR and analysis.
 - [LLVM on iOS](https://github.com/light-tech/LLVM-On-iOS) - How to use LLVM + Clang to provide an iOS app with some scripting capability.
 - [Swift Bindings for LLVM](https://github.com/apple/swift-llvm-bindings)
+- [LLVM Discussion Forums](https://discourse.llvm.org/)

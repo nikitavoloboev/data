@@ -153,7 +153,7 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Compute@Edge default starter kit for AssemblyScript](https://github.com/fastly/compute-starter-kit-assemblyscript-default)
 - [Serverless Rules](https://github.com/awslabs/serverless-rules) - Compilation of rules to validate infrastructure-as-code templates against recommended practices for serverless applications.
 - [Serverless Framework Hexagonal Template](https://github.com/serverlesspolska/serverless-hexagonal-template)
-- [Nitric Serverless Framework](https://nitric.io/) - Build Cloud-Native Apps Fast.
+- [Nitric Serverless Framework](https://nitric.io/) - Build Cloud-Native Apps Fast. ([Node SDK](https://github.com/nitrictech/node-sdk)) ([HN](https://news.ycombinator.com/item?id=32735272))
 - [Lumigo](https://lumigo.io/) - Serverless Monitoring and Troubleshooting Platform. ([CLI](https://github.com/lumigo-io/lumigo-CLI))
 - [Compute@Edge starter kit for JavaScript](https://github.com/fastly/compute-starter-kit-javascript-default)
 - [Serverless Rust Demo](https://github.com/aws-samples/serverless-rust-demo) - Simple serverless application built in Rust. It consists of an API Gateway backed by four Lambda functions and a DynamoDB table for storage.
@@ -176,3 +176,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Inngest](https://github.com/inngest/inngest) - Event-driven queue for any language.
 - [Cloudflare CLI](https://github.com/epiHATR/cloudflare-cli)
 - [Personalized UIs with No Client-Side JavaScript](https://github.com/jlengstorf/no-js-personalization)
+- [Serverless Messaging: Latency Compared](https://bitesizedserverless.com/bite/serverless-messaging-latency-compared/)

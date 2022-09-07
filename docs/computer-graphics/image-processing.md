@@ -199,3 +199,4 @@
 - [invisible-watermark](https://github.com/ShieldMnt/invisible-watermark) - Python library for invisible image watermark (blind image watermark).
 - [go-camo](https://github.com/cactus/go-camo) - Secure image proxy server.
 - [Simp](https://github.com/Kl4rry/simp) - Fast and simple GPU-accelerated image manipulation program.
+- [Dreamy Blur (2022)](https://yuanchuan.dev/dreamy-blur) ([HN](https://news.ycombinator.com/item?id=32730865))

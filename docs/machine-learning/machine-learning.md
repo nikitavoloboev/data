@@ -919,3 +919,6 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Machine Learning authors/titles recent submissions](https://arxiv.org/list/stat.ML/recent)
 - [Are Transformers Effective for Time Series Forecasting? (2022)](https://arxiv.org/abs/2205.13504) ([Code](https://github.com/cure-lab/LTSF-Linear))
 - [Motiflets -- Fast and Accurate Detection of Motifs in Time Series (2022)](https://arxiv.org/abs/2206.03735)
+- [Exploring Differential Geometry in Neural Implicits](https://github.com/dsilvavinicius/differential_geometry_in_neural_implicits)
+- [REvolveR: Continuous Evolutionary Models for Robot-to-robot Policy Transfer (2022)](https://arxiv.org/abs/2202.05244) ([Code](https://github.com/xingyul/revolver))
+- [The AI Epiphany - YouTube](https://www.youtube.com/c/TheAIEpiphany/videos)

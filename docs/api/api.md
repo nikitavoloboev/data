@@ -412,3 +412,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Mokku](https://github.com/mukuljainx/Mokku) - Mock API calls seamlessly.
 - [Ask HN: Nested Resources in REST/HTTP API URLs? (2022)](https://news.ycombinator.com/item?id=32506784)
 - [Webhooks.fyi](https://webhooks.fyi/)
+- [There are NP-Hard Problems in API Engineering](https://lukasschwab.me/blog/gen/graphs-at-work)

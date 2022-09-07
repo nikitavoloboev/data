@@ -203,3 +203,7 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Multy](https://github.com/multycloud/multy) - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds. ([Web](https://multy.dev/))
 - [Who's NOT using Kubernetes these days and want to share their exciting bit/tooling? (2022)](https://www.reddit.com/r/devops/comments/wjxy0q/whos_not_using_kubernetes_these_days_and_want_to/)
 - [Developers, please nurture your coding experience](https://aymericbeaumet.com/developers-please-nurture-your-coding-experience)
+- [Excav](https://github.com/sn3d/excav) - Tool for patching repositories in bulk.
+- [multi-semantic-release](https://github.com/dhoulb/multi-semantic-release) - Proof of concept that wraps semantic-release to work with monorepos.
+- [Coder](https://coder.com/) - Remote development on your infrastructure. ([Awesome](https://github.com/coder/awesome-coder))
+- [DevOps RoadMap](https://twitter.com/javinpaul/status/1567018709507796993)

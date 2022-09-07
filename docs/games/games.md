@@ -172,6 +172,8 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [ToCenter](https://github.com/silentsokolov/tocenter) - Video game written in Rust using the ggez engine and the ECS library.
 - [Fish Fight: Punchy](https://github.com/fishfight/punchy) - 2.5D side-scroller beat-’em-up, made in Bevy.
 - [Pycraft](https://github.com/PycraftDeveloper/Pycraft) - OpenGL, open world, video game made entirely with Python.
+- [Dungeon Crawler](https://github.com/larsjarlvik/dungeon-crawler) - Cross platform 3D dungeon crawler RPG.
+- [Escape Guldur](https://github.com/hazeycode/escape-guldur) - Retro action-RPG written in Zig for the WASM-4 fantasy console.
 
 ## Awesome games (other)
 

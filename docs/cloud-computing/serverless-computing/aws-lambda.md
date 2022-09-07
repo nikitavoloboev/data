@@ -147,3 +147,4 @@ title: AWS Lambda
 - [MikroLog](https://github.com/mikaelvesavuori/mikrolog) - JSON logger you always wanted for Lambda.
 - [Rust Lambda API template](https://github.com/saucepoint/rust-lambda-api) - Template repo for quickly creating an HTTP API with Rust hosted on AWS Lambda.
 - [Buildkite Agent Scaler](https://github.com/buildkite/buildkite-agent-scaler) - Lambda for scaling an AutoScalingGroup based on Buildkite metrics.
+- [AWS Lambda Terraform module](https://github.com/terraform-aws-modules/terraform-aws-lambda)

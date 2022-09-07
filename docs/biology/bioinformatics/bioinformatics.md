@@ -236,3 +236,5 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [A Guide to Decentralized Biotech](https://future.com/a-guide-to-decentralized-biotech/)
 - [Saez-Rodriguez Group](https://saezlab.org/) - Develop software tools for systems level analysis and mechanistic modeling of molecular and biomedical data. ([GitHub](https://github.com/saezlab))
 - [Collection of fold tools](https://github.com/biolists/folding_tools)
+- [Bio Embeddings](https://github.com/sacdallago/bio_embeddings) - Get protein embeddings from protein sequences.
+- [Deep Review](https://github.com/greenelab/deep-review) - Collaboratively written review paper on deep learning, genomics, and precision medicine. ([Web](https://greenelab.github.io/deep-review/))

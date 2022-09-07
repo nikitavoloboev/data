@@ -674,3 +674,6 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [ArrayQL Integration into Code-Generating Database Systems (2022)](https://openproceedings.org/2022/conf/edbt/sample-edbt2022.pdf)
 - [How discord stores billions of messages (2017)](https://discord.com/blog/how-discord-stores-billions-of-messages) ([HN](https://news.ycombinator.com/item?id=32606553))
 - [Seaborn Data](https://github.com/mwaskom/seaborn-data) - Data repository for seaborn examples.
+- [Ask HN: Do you use foreign keys in relational databases? (2022)](https://news.ycombinator.com/item?id=32731916)
+- [kvdbd](https://github.com/jgarzik/kvdbd) - Daemon that enables reading/writing of flat-file key/value databases available via HTTP API, using REST/JSON or Protobufs.
+- [Doozer](https://github.com/ha/doozerd) - Highly-available, completely consistent store for small amounts of extremely important data.

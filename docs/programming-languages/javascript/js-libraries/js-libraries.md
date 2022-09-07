@@ -106,6 +106,8 @@
 - [command-line-args](https://github.com/75lb/command-line-args) - Mature, feature-complete library to parse command-line options.
 - [Prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts.
 - [minimist](https://github.com/substack/minimist) - Parse argument options.
+- [commist](https://github.com/mcollina/commist) - Build command line application with multiple commands the easy way. To be used with minimist.
+- [help-me](https://github.com/mcollina/help-me) - Help command for node, to use with minimist and commist.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Collection of common interactive command line user interfaces.
 - [Handle-CLI-Error](https://github.com/ehmicky/handle-cli-error) - Error handler for CLI applications.
 
@@ -1006,6 +1008,9 @@
 - [SAT.js](https://github.com/jriecken/sat-js) - Simple JavaScript library for performing 2D collision detection.
 - [Cookie Consent](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla JS.
 - [Tether](https://github.com/shipshapecode/tether) - positioning engine to make overlays, tooltips and dropdowns better.
+- [search-index](https://github.com/fergiemcdowall/search-index) - Persistent, network resilient, full text search library for the browser and Node.js.
+- [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
+- [aggregate-error](https://github.com/sindresorhus/aggregate-error) - Create an error from multiple errors.
 
 ## Links
 

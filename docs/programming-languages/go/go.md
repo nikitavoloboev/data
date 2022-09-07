@@ -843,3 +843,5 @@ if err != nil {
 - [How do you monitor your Go apps?](https://www.reddit.com/r/golang/comments/x3iisb/how_do_you_monitor_your_go_apps/)
 - [Cost of a Integer Cast in Go (2022)](https://boyter.org/posts/cost-of-integer-cast-in-go/) ([HN](https://news.ycombinator.com/item?id=32647865))
 - [Bill Kennedy - Practical Memory Profiling (2022)](https://www.youtube.com/watch?v=6qAfkJGWsns)
+- [GopherCon Europe: Berlin 2022 - YouTube](https://www.youtube.com/playlist?list=PLtoVuM73AmsJjj5tnZ7BodjN_zIvpULSx)
+- [Vulnerability Management for Go (2022)](https://go.dev/blog/vuln) ([HN](https://news.ycombinator.com/item?id=32737886))

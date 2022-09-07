@@ -26,7 +26,7 @@
 - [The Common Lisp Condition System Book (2020)](https://www.apress.com/us/book/9781484261330) ([HN](https://news.ycombinator.com/item?id=23843525)) ([HN 2](https://news.ycombinator.com/item?id=24867548))
 - [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) ([Lobsters](https://lobste.rs/s/gb566t/lisp_quickstart))
 - [Creating a Common Lisp implementation (2020)](https://www.youtube.com/watch?v=Wa81OJnlsoI) ([HN](https://news.ycombinator.com/item?id=24276881))
-- [Clasp](https://github.com/clasp-developers/clasp) - Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. ([Clasp: Common Lisp using LLVM and C++ for Molecular Metaprogramming (2015)](https://www.youtube.com/watch?v=8X69_42Mj-g))
+- [Clasp](https://github.com/clasp-developers/clasp) - Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. ([Clasp: Common Lisp using LLVM and C++ for Molecular Metaprogramming (2015)](https://www.youtube.com/watch?v=8X69_42Mj-g)) ([HN](https://news.ycombinator.com/item?id=32737634))
 - [Cl-Cuda](https://github.com/takagi/cl-cuda) - Library to use NVIDIA CUDA in Common Lisp programs.
 - [iterate](https://common-lisp.net/project/iterate/) - Extensible iteration construct for Common Lisp.
 - [HexstreamSoft](https://www.hexstreamsoft.com/) - Public Domain Common Lisp R&D.
@@ -64,6 +64,7 @@
 - [Common Lisp Recipes](http://weitz.de/cl-recipes/)
 - [The Common Lisp Condition System - Beyond Exception Handling with Control Flow Mechanisms (2020)](https://www.apress.com/gp/book/9781484261330)
 - [Coalton](https://github.com/coalton-lang/coalton) - Efficient, statically typed functional programming language that supercharges Common Lisp. ([Article](https://coalton-lang.github.io/20211010-introducing-coalton/))
+- [Numbers in a Nutshell, an Update (2022)](https://coalton-lang.github.io/20220827-numbers/)
 - [Building Common Lisp Executables (2018)](https://susam.in/maze/building-common-lisp-executables.html)
 - [Learning Common Lisp to beat Java and Rust on a phone encoding problem](https://renato.athaydes.com/posts/revenge_of_lisp.html) ([HN](https://news.ycombinator.com/item?id=28721403))
 - [Radiance](https://github.com/Shirakumo/radiance) - Common Lisp web application environment. ([Web](https://shirakumo.github.io/radiance/))
@@ -125,3 +126,9 @@
 - [AllegroServe](https://github.com/franzinc/aserve) - Web server written in Common Lisp. ([HN](https://news.ycombinator.com/item?id=32361882))
 - [Reader Macros in Common Lisp (2014)](https://lisper.in/reader-macros)
 - [cl-tree-sitter](https://github.com/death/cl-tree-sitter) - Use tree-sitter via Common Lisp.
+- [Cookiecutter template for Common Lisp projects](https://github.com/vindarel/cl-cookieproject)
+- [cl-str](https://github.com/vindarel/cl-str) - Modern, simple and consistent Common Lisp string manipulation library.
+- [Common Lisp programming: from novice to effective developer (2022)](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) ([Code](https://github.com/vindarel/common-lisp-course-in-videos))
+- [CIEL](https://github.com/ciel-lang/CIEL) - Extended Lisp. Batteries included.
+- [Colisper](https://github.com/vindarel/colisper) - Check and transform Lisp code with Comby.
+- [State of Common Lisp Web Development - an overview (2022)](https://lisp-journey.gitlab.io/web-dev/)

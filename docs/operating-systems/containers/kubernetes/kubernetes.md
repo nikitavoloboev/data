@@ -800,3 +800,9 @@ title: Kubernetes
 - [k8s-client-go](https://github.com/castai/k8s-client-go) - Minimal Go Kubernetes client based on Generics.
 - [Pulumi Kubernetes Operator](https://github.com/pulumi/pulumi-kubernetes-operator) - Kubernetes operator that provides a CI/CD workflow for Pulumi stacks using Kubernetes primitives.
 - [run-job](https://github.com/alexellis/run-job) - Run a Kubernetes Job and get the logs when it's done.
+- [fubectl](https://github.com/kubermatic/fubectl) - Reduces repetitive interactions with kubectl.
+- [Kusion](https://github.com/KusionStack/kusion) - Engine of KusionStack for parsing user's intentions and making them effect in infrastructures.
+- [Chaos Mesh (2022)](https://www.sobyte.net/post/2022-09/chaos-mesh/)
+- [Visual Argo Workflows](https://github.com/corpulent/visual-argo-workflows) - Drag and drop Argo Workflows tool.
+- [Open-Simulator](https://github.com/alibaba/open-simulator) - Cluster simulator for Kubernetes.
+- [The Book of Kubernetes (2022)](https://nostarch.com/book-kubernetes)

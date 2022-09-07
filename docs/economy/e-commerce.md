@@ -165,3 +165,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Ask HN: Anyone making software for kiosks, infotainments or similar? (2022)](https://news.ycombinator.com/item?id=32223919)
 - [Shopify API](https://github.com/Shopify/shopify_python_api) - Library allows Python developers to programmatically access the admin section of stores.
 - [Openship](https://openship.org/) - Scale your e-commerce operations by using multi-channel fulfillment. Open-source Amazon. ([HN](https://news.ycombinator.com/item?id=32690410)) ([Code](https://github.com/openshiporg/openship))
+- [Shopify App Template (Node) with TypeScript](https://github.com/kanzitelli/shopify-app-template-typescript)

@@ -362,3 +362,5 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Exceptions the Other Way Round - Sean Parent (2022)](https://www.youtube.com/watch?v=mkkaAWNE-Ig)
 - [C++ Coroutines: Understanding the Compiler Transform (2022)](https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform)
 - [KataScript](https://github.com/brwhale/KataScript) - Simple scripting language with familiar syntax, designed to be easily embedded in C++ applications.
+- [Xbyak](https://github.com/herumi/xbyak) - C++ JIT assembler for x86 (IA32), x64 (AMD64, x86-64).
+- [Extreme Integers – Doom from Below (2022)](https://luckyresistor.me/2022/09/04/extreme-integers-doom-from-below/)

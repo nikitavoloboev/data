@@ -196,3 +196,4 @@ title: Genomics
 - [ADAM](https://github.com/bigdatagenomics/adam) - Genomics analysis platform with specialized file formats.
 - [DoRothEA](https://github.com/saezlab/dorothea) - R package to access DoRothEA's regulons.
 - [LANTERN](https://github.com/usnistgov/lantern) - Interpretable genotype-phenotype landscape modeling.
+- [La Jolla Assembler](https://github.com/AntonBankevich/LJA) - Tool for genome assembly from PacBio HiFI reads based on de Bruijn graphs.

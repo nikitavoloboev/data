@@ -288,3 +288,4 @@
 - [Adventure game graphics with DALL-E 2 (2022)](https://hpjansson.org/blag/2022/08/16/adventure-game-graphics-with-dall-e-2/) ([Lobsters](https://lobste.rs/s/wp9t0b/adventure_game_graphics_with_dall_e_2))
 - [Where do you buy music & sound effects for your games?](https://www.reddit.com/r/gamedev/comments/x34d6i/where_do_you_guys_buy_music_sound_effects/)
 - [noclip](https://noclip.website/) - Digital museum of video game levels. ([Code](https://github.com/magcius/noclip.website))
+- [gogs](https://github.com/metagogs/gogs) - Go Game Server Framework.

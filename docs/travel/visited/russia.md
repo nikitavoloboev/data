@@ -603,3 +603,5 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Борис Акунин – История Российского государства](https://www.litres.ru/serii-knig/istoriya-rossiyskogo-gosudarstva/)
 - [Spevktator](https://github.com/MischaU8/spevktator) - OSINT analysis tool for VK.
 - [Произошёл диалог](https://twitter.com/selflovefeels/status/1566478138061758469)
+- [Как чекисты придумали дело Ивана Сафронова (2022)](https://www.proekt.media/narrative/delo-ivana-safronova/)
+- [Проект медиа](https://www.proekt.media/) - Расследования, исследования данных.

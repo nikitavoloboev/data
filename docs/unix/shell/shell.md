@@ -246,3 +246,4 @@ All active variables can be seen by running `env`.
 - [What is TTY? (2022)](https://www.sobyte.net/post/2022-05/tty/)
 - [agg](https://github.com/asciinema/agg) - asciinema GIF generator.
 - [YavaScript](https://github.com/suchipi/yavascript) - Bash-like script runner which is distributed as a single statically-linked binary. Scripts are written in JavaScript.
+- [Lunatic.chat](https://github.com/lunatic-solutions/chat) - Telnet chat server written in Rust, running on Lunatic.

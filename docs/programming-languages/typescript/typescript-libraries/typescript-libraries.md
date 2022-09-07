@@ -605,6 +605,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [typed-macro](https://github.com/typed-macro/typed-macro) - Brings macros to your projects.
 - [compress-json](https://github.com/beenotung/compress-json) - Store JSON data in space efficient manner.
 - [retry-axios](https://github.com/JustinBeckwith/retry-axios) - Super flexible interceptor for Axios that makes it easy to retry requests.
+- [Schematized](https://github.com/ryparker/schematized) - Turn objects into JSON schemas! The more examples you provide, the better your schema will be.
+- [JSON-Schema-to-Zod](https://github.com/StefanTerdell/json-schema-to-zod) - Simple CLI tool to convert JSON schema objects or files into Zod schemas.
+- [Crux](https://github.com/andyjessop/crux) - System for building web apps that are designed to be small, fast, and decoupled.
 
 ## Links
 

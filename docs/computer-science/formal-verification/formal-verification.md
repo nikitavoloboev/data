@@ -136,3 +136,4 @@ title: Formal verification
 - [Using the Kani Rust Verifier on a Firecracker Example (2022)](https://model-checking.github.io//kani-verifier-blog/2022/07/13/using-the-kani-rust-verifier-on-a-firecracker-example.html)
 - [Q\*Cert](https://github.com/querycert/qcert) - Compilation and Verification of Data-Centric Languages.
 - [MLIR-TV](https://github.com/aqjune/mlir-tv) - Translation validation framework for MLIR.
+- [Safety and Liveness Properties (2022)](https://www.hillelwayne.com/post/safety-and-liveness/)

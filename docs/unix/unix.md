@@ -90,3 +90,4 @@ title: Unix
 - [Dropping privileges (2022)](https://blog.habets.se/2022/03/Dropping-privileges.html)
 - [Replay Cron Events With Cron::Sequencer (2022)](https://leejo.github.io/2022/06/02/cron_sequencer/)
 - [ugm](https://github.com/ariasmn/ugm) - Terminal based UNIX user and group viewer.
+- [The Collapse of the UNIX Philosophy (2017)](https://kukuruku.co/post/the-collapse-of-the-unix-philosophy/)

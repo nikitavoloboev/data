@@ -305,3 +305,4 @@ title: Swift
 - [Interoperability between Swift and C++](https://github.com/apple/swift/blob/main/docs/CppInteroperability/CppInteroperabilityManifesto.md)
 - [Swift Proposal: Move Function](https://github.com/apple/swift-evolution/blob/main/proposals/0366-move-function.md) ([HN](https://news.ycombinator.com/item?id=32263630))
 - [What’s new in Swift 5.7?](https://github.com/twostraws/whats-new-in-swift-5-7)
+- [SwiftLSP](https://github.com/flowtoolz/SwiftLSP) - Language Server Protocol in Swift.

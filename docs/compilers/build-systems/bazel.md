@@ -60,3 +60,4 @@ title: Bazel
 - [Bazel In-Memory Cache](https://sluongng.hashnode.dev/bazel-caching-explained-pt-2-bazel-in-memory-cache)
 - [Bazel Caching Explained](https://sluongng.hashnode.dev/series/bazel-caching-explained)
 - [Bazel in CI (Part 0): The Developer Experience Funnel (2022)](https://sluongng.hashnode.dev/bazel-in-ci-part-0-the-developer-experience-funnel)
+- [Bazel Examples](https://github.com/aspect-build/bazel-examples) - Variety of examples is provided by Aspect.

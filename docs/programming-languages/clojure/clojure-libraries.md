@@ -61,6 +61,7 @@
 - [asami](https://github.com/quoll/asami) - Graph database, for Clojure and ClojureScript.
 - [flint](https://github.com/yetanalytics/flint) - Clojure(Script) DSL for creating SPARQL query and update strings.
 - [yoltq](https://github.com/ivarref/yoltq) - Opinionated Datomic queue for building (more) reliable systems. Supports retries, backoff, ordering and more.
+- [next.jdbc](https://github.com/seancorfield/next-jdbc) - Modern low-level Clojure wrapper for JDBC-based access to databases.
 
 ## ML
 
@@ -97,6 +98,7 @@
 - [RCF](https://github.com/hyperfiddle/rcf) - REPL-first, async test macro for Clojure/Script.
 - [stateful-check](https://github.com/czan/stateful-check) - Stateful generative testing in Clojure.
 - [facai](https://github.com/lambdaisland/facai) - Factories for fun and profit.
+- [cartestian](https://github.com/nathell/cartestian) - Test all the combinations.
 
 ## Graphics
 
@@ -251,6 +253,7 @@
 - [xforms](https://github.com/cgrand/xforms) - Extra transducers and reducing fns for Clojure(script).
 - [True Grit](https://github.com/KingMob/TrueGrit) - Data-driven, functionally-oriented, idiomatic Clojure library for circuit breakers, bulkheads, retries, rate limiters, timeouts, etc.
 - [Pattern](https://github.com/pangloss/pattern) - Lets you transform data structures in amazing ways.
+- [Clojupedia](https://github.com/clojupedia/main) - Community maintained hub for Clojure libraries and tools, powered by Logseq.
 
 ## Links
 

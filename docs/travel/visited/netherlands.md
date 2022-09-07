@@ -47,3 +47,4 @@ Amsterdam is my favorite city I've lived in thus far. I love how every city in N
 - [People from other countries, where is the best place in Amsterdam for tasty, authentic food from your home country? (2022)](https://www.reddit.com/r/Amsterdam/comments/w8ot1m/people_from_other_countries_where_is_the_best/)
 - [What are some issues/problems you have in the Netherlands? (2022)](https://www.reddit.com/r/Netherlands/comments/waz9zs/what_are_some_issuesproblems_you_have_in_the/)
 - [Romantic trip to a dutch city](https://www.reddit.com/r/Netherlands/comments/we7xfx/romentic_trip_to_a_dutch_city/)
+- [What's wrong with the Netherlands? (2022)](https://www.reddit.com/r/Netherlands/comments/x79u6y/theres_bad_in_every_good_whats_wrong_with_the/)

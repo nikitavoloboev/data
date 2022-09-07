@@ -9,6 +9,7 @@
 - [Ktor](https://github.com/ktorio/ktor) - Asynchronous framework for creating microservices, web applications and more.
 - [KVision](https://github.com/rjaros/kvision) - Object oriented web framework for Kotlin/JS.
 - [kotlinx.html](https://github.com/Kotlin/kotlinx.html) - Kotlin DSL for HTML.
+- [Arrow Endpoint](https://github.com/arrow-kt/arrow-endpoint) - Composable Endpoint datatype, that allows us easily define an Endpoint from which we can derive clients, servers & documentation.
 
 ## Graphics
 
@@ -24,6 +25,7 @@
 - [Kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing. ([Web](https://kotest.io/))
 - [Turbine](https://github.com/cashapp/turbine) - Small testing library for kotlinx.coroutines Flow.
 - [Kaspresso](https://github.com/KasperskyLab/Kaspresso) - Great UI test framework.
+- [Kotest Extensions Arrow](https://github.com/kotest/kotest-extensions-arrow)
 
 ## CLI
 
@@ -84,6 +86,12 @@
 - [CrashKiOS](https://github.com/touchlab/CrashKiOS) - Crash reporting for Kotlin/Native iOS applications.
 - [FlowRedux](https://github.com/freeletics/FlowRedux) - Kotlin Multiplatform State machine library with nice DSL based on Flow from Kotlin Coroutine's.
 - [DiffKt](https://github.com/facebookresearch/diffkt) - Differentiable Programming Framework for Kotlin.
+- [Module Saga](https://github.com/nomisRev/Saga) - Saga pattern implementation in Kotlin build in top of Kotlin's Coroutines.
+- [Arrow Meta](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
+- [Arrow Tracing](https://github.com/arrow-kt/arrow-tracing) - Distributed Tracing for Kotlin.
+- [Module KotlinX Serialization JsonPath](https://github.com/nomisRev/kotlinx-serialization-jsonpath)
+- [Kotlin-Kafka](https://github.com/nomisRev/kotlin-kafka) - Kafka bindings for Kotlin `suspend`, and Kafka streaming operators for KotlinX Flow.
+- [Kotlin Wrappers](https://github.com/JetBrains/kotlin-wrappers) - Kotlin wrappers for popular JavaScript libraries.
 
 ## Links
 
@@ -95,3 +103,4 @@
 - [Knit tool](https://github.com/Kotlin/kotlinx-knit) - Kotlin source code documentation management tool.
 - [KDoctor](https://github.com/Kotlin/kdoctor) - Command-line tool that helps to set up the environment for Kotlin Multiplatform Mobile app development.
 - [Template project you can clone and use as a basis for your own Kotlin based microservices](https://github.com/sksamuel/samstack)
+- [Ktor Arrow Real World Example](https://github.com/nomisRev/ktor-arrow-example) - Written in Kotlin, with Ktor, Arrow, SqlDelight, KotlinX Serialization, etc.

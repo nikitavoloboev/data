@@ -149,3 +149,6 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [trashy](https://github.com/oberblastmeister/trashy) - Simple, fast, and featureful alternative to rm and trash-cli written in rust.
 - [procmon](https://github.com/sebdah/procmon) - Simple utility for checking if processes are running.
 - [Marian Montagnino - Reinventing the CLI with Go (2022)](https://www.youtube.com/watch?v=5oVvX08r6RE)
+- [Awesome list of CLI/TUI programs](https://github.com/toolleeo/cli-apps)
+- [goldplate](https://github.com/fugue/goldplate) - Cute and simple golden test runner for CLI applications.
+- [CLI Testing Library](https://github.com/crutchcorn/cli-testing-library) - Simple and complete CLI testing utilities that encourage good testing practices.

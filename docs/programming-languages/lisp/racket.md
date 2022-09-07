@@ -141,4 +141,4 @@ title: Racket
 - [Certifying Interpreters in Racket (2022)](https://kmicinski.com/certifying-interpreters)
 - [Racket->Rhombus: To Sexp or not to Sexp? (2022)](https://gopiandcode.uk/logs/log-racket-and-rhombus-sexp.html) ([Lobsters](https://lobste.rs/s/ndqnr2/racket_rhombus_sexp_not_sexp))
 - [Racket Hacking: SwiftUI + Racket (2022)](https://www.youtube.com/watch?v=aTvU0j4hBR0)
-- [Common Lisp VS Racket](https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac)
+- [Common Lisp VS Racket](https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac) ([HN](https://news.ycombinator.com/item?id=32723784))

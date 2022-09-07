@@ -37,3 +37,4 @@
 - [Finitomata](https://github.com/am-kantox/finitomata) - FSM boilerplate based on callbacks.
 - [Differentiable Finite State Machines (2022)](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
 - [State Machines II](https://blog.yoshuawuyts.com/state-machines-2/) ([HN](https://news.ycombinator.com/item?id=32616802))
+- [Teaching Interaction using State Diagrams | Christopher Schankula (2022)](https://www.youtube.com/watch?v=XatvVRemDw4)

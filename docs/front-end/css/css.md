@@ -549,3 +549,4 @@ all: unset
 - [Polygon Shapes](https://yuanchuan.dev/polygon-shapes)
 - [Parents counting children in CSS (2022)](https://www.matuzo.at/blog/2022/counting-children/)
 - [ress](https://github.com/filipelinhares/ress) - Modern CSS reset.
+- [Modern alternatives to BEM (2022)](https://daverupert.com/2022/08/modern-alternatives-to-bem/) ([Tweet](https://twitter.com/slightlylate/status/1566860991891025920))

@@ -205,3 +205,4 @@
 - [Ask HN: What Is the Lisp “Enlightment”? (2022)](https://news.ycombinator.com/item?id=32383525)
 - [An Intuition for Lisp Syntax](https://stopa.io/post/265) ([Lobsters](https://lobste.rs/s/ppzcka/intuition_for_lisp_syntax))
 - [Pureli](https://github.com/soupi/pureli) - Purely functional, dynamically typed, parallel evaluated Lisp-like programming language.
+- [tiny-lisp](https://github.com/matp/tiny-lisp) - Small implementation of LISP, written in standard C11.

@@ -43,3 +43,4 @@
 - [PositronV3](https://github.com/KRALYN/PositronV3) - Upside-down, fast, portable, and compact 3D printer.
 - [3D Printed Bluetooth Headphones](https://homebrewheadphones.com/3d-printed-bluetooth-headphones/)
 - [Optimized firmware for Ender3 V2/S1 3D printers](https://github.com/mriscoc/Ender3V2S1)
+- [Voron Community mods, slicer profiles and firmware configurations](https://github.com/VoronDesign/VoronUsers)

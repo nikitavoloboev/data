@@ -29,7 +29,7 @@ title: Combine Framework
 - [Timelane](http://timelane.tools/) - Visually profile your asynchronous code. ([Article](http://trycombine.com/posts/announcing-timelane-combine/)) ([Code](https://github.com/icanzilb/Timelane))
 - [RxCombine](https://github.com/antitypical/Result) - Bi-directional type bridging between RxSwift and Apple's Combine framework.
 - [Practical Combine](https://gumroad.com/l/practical-combine) - Introduction to Combine with real examples.
-- [Using Combine](https://heckj.github.io/swiftui-notes/) - Notes on learning Combine with UIKit and SwiftUI.
+- [SwiftUI Notes](https://heckj.github.io/swiftui-notes/) - Notes on learning Combine with UIKit and SwiftUI. ([Code](https://github.com/heckj/swiftui-notes))
 - [GRDBCombine](https://github.com/groue/GRDBCombine) - Set of extensions for SQLite, GRDB.swift, and Combine.
 - [NewsApp built with SwiftUI & Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)
 - [CombineExt](https://github.com/CombineCommunity/CombineExt) - Provides a collection of operators, publishers and utilities for Combine.

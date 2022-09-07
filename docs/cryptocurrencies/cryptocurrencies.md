@@ -291,3 +291,4 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 - [The endless search for a crypto use case (2022)](https://networked.substack.com/p/the-endless-search-for-a-crypto-use) ([HN](https://news.ycombinator.com/item?id=32320456))
 - [Who makes the best Dune dashboards?](https://twitter.com/gaby_goldberg/status/1542175548041965568)
 - [Peter Van Valkenburgh, of Coin Center, on the OFAC Tornado cash SDN listing (2022)](https://www.youtube.com/watch?v=XpTrCA3tEKM)
+- [Mmb](https://github.com/purefinance/mmb) - Trading bot implemented in Rust, with market making and strategy automation for any exchange or blockchain.

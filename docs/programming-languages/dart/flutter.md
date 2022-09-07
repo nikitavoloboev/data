@@ -20,6 +20,7 @@ title: Flutter
 - [Voice Scribe](https://github.com/KangRuiYu/voice_scribe) - Audio recording and playback app that transcribes speech in real time.
 - [Flyer Chat](https://github.com/flyerhq/flutter_firebase_chat_core) - Actively maintained, community-driven Firebase BaaS for chat applications with an optional chat UI.
 - [Flutter Instagram Clone](https://github.com/GetStream/flutter-instagram-clone) - Instagram clone using Flutter and Stream Feeds.
+- [Immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 
 ## Links
 

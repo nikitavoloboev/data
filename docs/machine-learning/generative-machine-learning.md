@@ -16,3 +16,12 @@
 - [EvoGen](https://github.com/MagnusPetersen/EvoGen-Prompt-Evolution) - Evolutionary algorithm that optimizes prompts for text-to-image models for aesthetics.
 - [All about the fundamentals and working of Diffusion Models](https://github.com/AakashKumarNain/diffusion_models)
 - [Experiments with Stable Diffusion](https://github.com/justinpinkney/stable-diffusion) ([Tweet](https://twitter.com/Buntworthy/status/1566744186153484288))
+- [DreamStudio](https://beta.dreamstudio.ai/dream) - Front end and API to use the recently released stable diffusion image generation model.
+- [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [koi](https://github.com/nousr/koi) - Open source plug-in for Krita that allows you to use AI to accelerate your art workflow.
+- [Awesome Stable-Diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
+- [Simple Stable Diffusion](https://github.com/hackclub/simple-stable-diffusion) - Get stable diffusion running in <10 minutes in colab.
+- [Stable Diffusion Playground](https://github.com/gordicaleksa/stable_diffusion_playground)
+- [Create videos with Stable Diffusion](https://github.com/nateraw/stable-diffusion-videos) - By exploring the latent space and morphing between text prompts.
+- [Long Stable Diffusion: Long-form text to images](https://github.com/sharonzhou/long_stable_diffusion)
+- [Infinite Stable Diffusion Videos](https://orbdog.com/) ([HN](https://news.ycombinator.com/item?id=32720924))

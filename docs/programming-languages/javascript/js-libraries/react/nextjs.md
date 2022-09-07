@@ -88,6 +88,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Image Gallery with Next.js, Supabase, and Tailwind CSS](https://github.com/leerob/image-gallery-supabase-tailwind-nextjs)
 - [Lightweight Next.js Portfolio site template](https://github.com/eggheadio/portfolio-template-and-challenge)
 - [Next.js site w/ a blank custom Nextra theme (w/Tailwind)](https://github.com/jaredpalmer/nextra-blank-custom-theme)
+- [Next.js Layouts Data Fetching examples](https://github.com/wvanrensselaer/nextjs-layouts-data-fetching)
 
 ## NextJS plugins
 

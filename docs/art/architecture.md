@@ -33,6 +33,7 @@
 - [Open space with plants](https://twitter.com/moothought/status/1523336575572086784)
 - [My Place: Florence Welch](https://www.youtube.com/watch?v=WBPq9BcTIOs)
 - [Corner House designed by Archier](https://twitter.com/ugmonk/status/1526208540674768898)
+- [Lakeside Theatre / Hexia Architects + MADAM](https://www.archdaily.com/988443/lakeside-theatre-hexia-architects-plus-madam)
 
 ## Inspiring
 

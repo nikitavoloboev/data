@@ -47,3 +47,4 @@ I am curious what society where everyone agreed to use only anonymous currencies
 - [Breaking Monero - YouTube](https://www.youtube.com/playlist?list=PLsSYUeVwrHBnAUre2G_LYDsdo-tD0ov-y)
 - [Monero Community Workgroup - YouTube](https://www.youtube.com/c/MoneroCommunityWorkgroup/videos)
 - [Monero Has Received Some Upgrades (2022)](https://www.youtube.com/watch?v=-3BF_mE2e6M)
+- [AcceptXMR](https://github.com/busyboredom/acceptxmr) - Accept Monero in Your Application. ([Article](https://busyboredom.com/projects/acceptxmr))

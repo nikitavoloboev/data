@@ -159,3 +159,4 @@ title: JSON
 - [JSURL](https://github.com/Sage/jsurl) - Alternative to JSON + URL encoding (or JSON + base64 encoding).
 - [Gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq. ([HN](https://news.ycombinator.com/item?id=32542752))
 - [JSON Crack](https://jsoncrack.com/) - Visualize JSON data into graphs. ([HN](https://news.ycombinator.com/item?id=32626873))
+- [JSON to JSON Schema](https://github.com/Redocly/json-to-json-schema) - Convert JSON examples into JSON schema (supports Swagger 2, OpenAPI 3 and 3.1).

@@ -164,3 +164,4 @@
 - [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders)
 - [How to freaking hire great developers by having them read code](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/) ([HN](https://news.ycombinator.com/item?id=32272775)) ([Lobsters](https://lobste.rs/s/y59kd4/how_freaking_find_great_developers_by))
 - [Tell HN: Unpaid home assignments are not ok (2022)](https://news.ycombinator.com/item?id=32437078)
+- [The Scoop: the Hiring Market (2021)](https://newsletter.pragmaticengineer.com/p/the-scoop-hiring-market)

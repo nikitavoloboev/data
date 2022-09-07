@@ -119,6 +119,7 @@
 - [HDDM](https://github.com/hddm-devs/hddm) - Python module that implements Hierarchical Bayesian parameter estimation of Drift Diffusion Models (via PyMC).
 - [Regressio](https://github.com/brendanartley/Regressio) - Python library for univariate regression, interpolation, and smoothing. ([HN](https://news.ycombinator.com/item?id=32645063))
 - [MAPIE](https://github.com/scikit-learn-contrib/MAPIE) - Scikit-learn-compatible module for estimating prediction intervals.
+- [modelcards](https://github.com/nateraw/modelcards) - Utility to create, edit, and publish model cards on the Hugging Face Hub.
 
 ## Biology
 
@@ -964,6 +965,8 @@
 - [clip-video-encode](https://github.com/iejMac/clip-video-encode) - Easily compute clip embeddings from video frames.
 - [similaritymeasures](https://github.com/cjekel/similarity_measures) - Quantify the difference between two arbitrary curves in space.
 - [annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated.
+- [WakaQ](https://github.com/wakatime/wakaq) - Distributed background task queue for Python backed by Redis, a super minimal Celery.
+- [Duct](https://github.com/oconnor663/duct.py) - Python library for running child processes.
 
 ## Notes
 
@@ -1096,7 +1099,7 @@
 - [Sourcepy](https://github.com/dchevell/sourcepy) - Source python scripts natively inside your shell.
 - [Caching slow functions in Python](https://antonz.org/functools-cache/)
 - [Cookiecutter Poetry](https://github.com/fpgmaas/cookiecutter-poetry) - Cookiecutter template for poetry managed python projects.
-- [Hatch](https://github.com/ofek/hatch) - Modern, extensible Python project management. ([HN](https://news.ycombinator.com/item?id=31190027))
+- [Hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management. ([HN](https://news.ycombinator.com/item?id=31190027))
 - [cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary boilerplate for packaging and building projects separate from the code you intentionally write.
 - [sigstore-python](https://github.com/sigstore/sigstore-python) - Codesigning tool for Python packages.
 - [Python Monorepo](https://github.com/dermidgen/python-monorepo) - Example of scaffolding and tooling for a Python based monorepo.
@@ -1137,3 +1140,4 @@
 - [How to Handle Large Datasets in Python (2022)](https://towardsdatascience.com/how-to-handle-large-datasets-in-python-1f077a7e7ecf)
 - [Python F-Strings Number Formatting Cheat Sheet by BrianAllan (2022)](https://cheatography.com/brianallan/cheat-sheets/python-f-strings-number-formatting/)
 - [Condax](https://github.com/mariusvniekerk/condax) - Install and run applications packaged with conda in isolated environments.
+- [Poetry Plugin: Export](https://github.com/python-poetry/poetry-plugin-export) - Poetry plugin to export the dependencies to various formats.

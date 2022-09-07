@@ -306,3 +306,5 @@
 - [The spelled-out intro to neural networks and backpropagation: building micrograd (2022)](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [What is the SOTA explanation for why deep learning works? (2022)](https://www.reddit.com/r/MachineLearning/comments/x5gnyw/d_what_is_the_sota_explanation_for_why_deep/)
 - [Normalization effects on deep neural networks (2022)](https://arxiv.org/abs/2209.01018)
+- [Delphi](https://github.com/mc2-project/delphi) - Python, C++, and Rust library for Secure Deep Neural Network Inference.
+- [Game Emulation via Neural Network (2022)](https://madebyoll.in/posts/game_emulation_via_dnn/)

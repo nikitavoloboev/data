@@ -64,3 +64,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [How to be vegan (if you’re me) (2022)](https://www.lincolnquirk.com/2022/02/15/vegan.html)
 - [Ethical animal farming of any type does not exist](https://www.reddit.com/r/vegan/comments/uoaa0b/had_to_say_i_tried/)
 - [Your unpopular vegan opinion?](https://www.reddit.com/r/vegan/comments/x51iue/your_unpopular_vegan_opinion/)
+- [How sustainable are fake meats? (2022)](https://knowablemagazine.org/article/food-environment/2022/how-sustainable-are-fake-meats)

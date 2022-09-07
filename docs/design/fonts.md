@@ -127,6 +127,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Jost](https://github.com/indestructible-type/Jost) - Original font created by indestructible type.
 - [Virgil](https://github.com/excalidraw/virgil) - Font that powers Excalidraw. ([Web](https://virgil.excalidraw.com/))
 - [Martian Grotesk](https://romanshamin.gumroad.com/l/martian-grotesk-font)
+- [Minecraft Mono](https://github.com/IdreesInc/Minecraft-Mono) - Programming font based on the typeface used in Minecraft.
 
 ## Links
 

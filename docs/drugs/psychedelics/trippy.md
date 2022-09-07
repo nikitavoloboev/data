@@ -24,3 +24,4 @@
 - [Illusion of the Year 2021](http://illusionoftheyear.com/cat/top-10-finalists/2021/) ([HN](https://news.ycombinator.com/item?id=29760007))
 - [ Good YouTube video if you're tripping on Acid](https://www.reddit.com/r/Psychonaut/comments/tpccx2/so_whats_a_good_youtube_video_if_youre_tripping/)
 - [Trippy movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/vskteb/i_wanna_watch_a_trippy_ass_movie/)
+- [Optical Illusions of the Year (2022)](https://kottke.org/22/02/the-best-optical-illusions-of-the-year) ([HN](https://news.ycombinator.com/item?id=32735346))

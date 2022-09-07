@@ -513,3 +513,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Ookla Internet benchmark results around the World](https://studio.unfolded.ai/public/eb120377-c715-4630-8a4e-c1b24e6a32f9)
 - [Trippy](https://github.com/fujiapple852/trippy) - Network diagnostic tool.
 - [From Oscilloscope to Wireshark - A UDP Story (2022)](https://www.mattkeeter.com/blog/2022-08-11-udp/)
+- [Computer Networking : Principles,Protocols and Practice](https://www.computer-networking.info/) ([Twitter](https://twitter.com/cnp3_ebook))

@@ -78,3 +78,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [Cheat sheet for if I'm gone](https://thoughtscollected.tech/posts/for-when-im-gone/) ([HN](https://news.ycombinator.com/item?id=31748553))
 - [Do dogs know they’re dying](https://www.reddit.com/r/dogs/comments/cn4tu5/discussion_do_dogs_know_theyre_dying/)
 - [I would like to make sense of having to put my dog down](https://www.reddit.com/r/Stoicism/comments/oshe2b/comment/h6p4mnq/)
+- [How are people not freaking out about death?](https://www.reddit.com/r/NoStupidQuestions/comments/x708ym/how_are_people_not_freaking_out_about_death/)

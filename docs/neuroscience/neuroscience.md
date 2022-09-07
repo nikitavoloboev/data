@@ -144,6 +144,7 @@ The way our brains take input from different senses (eyes, touch) and then decid
 - [Symmetry and Geometry in Neural Representations](https://github.com/neurreps/awesome-neural-geometry)
 - [NeurReps Workshop](https://www.neurreps.org/) - Symmetry and Geometry in Neural Representations. ([Twitter](https://twitter.com/neur_reps))
 - [Cause Area: Differential Neurotechnology Development (2022)](https://forum.effectivealtruism.org/posts/Qhn5nyRf93dsXodsw/cause-area-differential-neurotechnology-development)
+- [recut](https://github.com/UCLA-VAST/recut) - Large-scale medical image processing and reconstruction toolbox.
 
 ## Images
 

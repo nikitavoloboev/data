@@ -288,7 +288,7 @@
 - [HOT](https://github.com/speedskater/hot) - Height Optimized Trie.
 - [Okasaki](https://github.com/BartoszMilewski/Okasaki) - Functional data structures in C++.
 - [rlottie](https://github.com/Samsung/rlottie) - Platform independent standalone library that plays Lottie Animation.
-- [simdutf](https://github.com/simdutf/simdutf) - Unicode validation and transcoding at billions of characters per second. ([Talk](https://www.youtube.com/watch?v=H9NZtb7ykYs))
+- [simdutf](https://github.com/simdutf/simdutf) - Unicode validation and transcoding at billions of characters per second. ([Talk](https://www.youtube.com/watch?v=H9NZtb7ykYs)) ([HN](https://news.ycombinator.com/item?id=32700315))
 - [Boost.PFR](https://github.com/boostorg/pfr) - std::tuple like methods for user defined types without any macro or boilerplate code.
 - [double-conversion](https://github.com/google/double-conversion) - Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
 - [FastNoise2](https://github.com/Auburn/FastNoise2) - Modular node graph based noise generation library using SIMD, C++17 and templates.
@@ -428,6 +428,8 @@
 - [fast_float](https://github.com/fastfloat/fast_float) - Fast and exact implementation of the C++ from_chars functions for float and double types: 4x faster than strtod.
 - [ReactivePlusPlus](https://github.com/victimsnino/ReactivePlusPlus) - Reactive programming library for C++.
 - [Simple streaming library](https://github.com/vitaut/_._)
+- [alpaca](https://github.com/p-ranav/alpaca) - Pack C++ structs into a compact byte-array without any macros or boilerplate code.
+- [CSV2](https://github.com/p-ranav/csv2) - Fast CSV parser and writer for Modern C++.
 
 ## Links
 

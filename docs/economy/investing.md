@@ -295,3 +295,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Pandas TA](https://github.com/twopirllc/pandas-ta) - Technical Analysis Library in Python 3.
 - [InvestorsExchange.jl](https://github.com/lukemerrick/InvestorsExchange.jl) - Parse trade-level stock market data in Julia. ([HN](https://news.ycombinator.com/item?id=32658633))
 - [Best articulations of an investment philosophy or framework](https://twitter.com/patrick_oshag/status/1566768937060208641)
+- [Share](https://simulator.tryshare.app/) - Simulate dollar-cost averaging in any mix of stocks. ([HN](https://news.ycombinator.com/item?id=32736497))

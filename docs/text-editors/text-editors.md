@@ -230,3 +230,5 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [WalkThru](https://walkthru.netlify.app/walkthru-intro) - Better way of explaining code on the web. ([Code](https://github.com/walkthru/walkthru))
 - [Ask HN: More “experimental” UIs for editing/writing code? (2022)](https://news.ycombinator.com/item?id=32372351)
 - [John Carmack: Best Programming Setup and IDE (2022)](https://www.youtube.com/watch?v=tzr7hRXcwkw) ([HN](https://news.ycombinator.com/item?id=32447569))
+- [CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) - Code editor view written in Swift powered by tree-sitter.
+- [rs-code-visualizer](https://github.com/sloganking/rs-code-visualizer) - Turns your code into one large PNG.

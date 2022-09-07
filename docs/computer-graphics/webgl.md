@@ -114,3 +114,4 @@
 - [Stylized Wireframe Rendering in WebGL](https://github.com/mattdesl/webgl-wireframes)
 - [Superconductor](https://github.com/MeetKai/superconductor) - 3D renderer built on top of wgpu.
 - [Khronos glTF 2.0 Sample Viewer](https://github.com/KhronosGroup/glTF-Sample-Viewer)
+- [WebGL GLTF loader](https://github.com/larsjarlvik/webgl-gltf)

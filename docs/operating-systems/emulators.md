@@ -73,3 +73,4 @@
 - [Goodboy](https://github.com/Engil/Goodboy) - Pure OCaml Gameboy emulator.
 - [rgy](https://github.com/YushiOMOTE/rgy) - No-std cross-platform Rust GameBoy emulator library.
 - [R64Emu](https://github.com/rasky/r64emu) - Nintendo 64 emulator in Rust.
+- [Ziguana Game System](https://github.com/MasterQ32/Ziguana-Game-System) - Retro-style gaming console running on bare x86 metal written in Zig.

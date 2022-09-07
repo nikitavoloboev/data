@@ -360,6 +360,8 @@
 - [rec-def](https://github.com/nomeata/haskell-rec-def) - APIs for more recursive definitions.
 - [memoize](https://github.com/tov/memoize) - Haskell memoization library.
 - [mono-traversable](https://github.com/snoyberg/mono-traversable) - Type classes for mapping, folding, and traversing monomorphic containers.
+- [hegg](https://github.com/alt-romes/hegg) - Fast equality saturation in Haskell.
+- [SILI](https://github.com/alt-romes/slfl) - Synthesis of Functional Linear Programs.
 
 ## Notes
 
@@ -414,3 +416,7 @@
 - [Criterion](https://github.com/haskell/criterion) - Powerful but simple library for measuring the performance of Haskell code.
 - [cabal-hoogle](https://github.com/kokobd/cabal-hoogle) - Generates hoogle database of your local packages and all dependencies.
 - [Incrementally package a Haskell program using Nix (2022)](https://www.haskellforall.com/2022/08/incrementally-package-haskell-program.html)
+- [Graphics with Haskell: Reflex (2022)](https://alt-romes.github.io/archive/2022-07-10-frp.html)
+- [Graphics with Haskell: Gloss (2022)](https://alt-romes.github.io/archive/2022-06-27-mvc-gloss.html)
+- [JSON with Haskell (2022)](https://alt-romes.github.io/archive/2022-05-28-lecture-6.html)
+- [haskell-butler](https://github.com/TristanCacqueray/haskell-butler) - Library provides a virtual operating system to run your Haskell program.

@@ -216,3 +216,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [OSINT](https://github.com/sinwindie/OSINT) - Collections of tools and methods created to aid in OSINT collection.
 - [Ask HN: What are the best tools for web scraping in 2022?](https://news.ycombinator.com/item?id=32409632)
 - [Crawlee](https://crawlee.dev/) - Web scraping and browser automation library for Node.js. ([HN](https://news.ycombinator.com/item?id=32561127))
+- [Facebook Scraper](https://github.com/kevinzg/facebook-scraper) - Scrape Facebook public pages without an API key.

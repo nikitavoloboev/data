@@ -243,3 +243,5 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [How SQLite scales read concurrency (2022)](https://fly.io/blog/sqlite-internals-wal/) ([HN](https://news.ycombinator.com/item?id=32579866))
 - [SQLite has pretty limited builtin functions (2022)](https://datastation.multiprocess.io/blog/2022-08-21-sqlite-limited-builtin-functions.html)
 - [MojoFS](https://github.com/sudeep9/mojo) - Versioning, userspace filesystem for SQLite DB.
+- [sqlite_wasm](https://github.com/mycelial/sqlite_wasm) - SQLite extension for running arbitrary WASM bundles via Wasmtime.
+- [Mycelial](https://mycelial.com/) - Library, synchronize anywhere. Mycelite unifies your Edge and Cloud SQLite instances, peer-to-peer and without any data middleware. ([GitHub](https://github.com/mycelial))

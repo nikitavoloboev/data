@@ -26,7 +26,7 @@ title: WebAssembly
 - [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) - TypeScript to WebAssembly compiler. ([Web](https://www.assemblyscript.org/))
 - [Twiggy](https://github.com/rustwasm/twiggy) - Code size profiler.
 - [Olin](https://github.com/Xe/olin) - Environment to run and operate functions as a service projects using event sourcing and webassembly under the hood.
-- [Wasmtime](https://github.com/CraneStation/wasmtime) - Standalone wasm-only runtime for WebAssembly, using the Cranelift JIT.
+- [Wasmtime](https://github.com/CraneStation/wasmtime) - Standalone wasm-only runtime for WebAssembly, using the Cranelift JIT. ([1.0 release](https://bytecodealliance.org/articles/wasmtime-10-performance)) ([HN](https://news.ycombinator.com/item?id=32739941))
 - [wasmtime-py](https://github.com/bytecodealliance/wasmtime-py) - Python WebAssembly runtime powered by Wasmtime. ([Docs](https://bytecodealliance.github.io/wasmtime-py/))
 - [Cranelift Code Generator](https://github.com/CraneStation/cranelift) - Low-level retargetable code generator. It translates a target-independent intermediate representation into executable machine code..
 - [Standardizing WASI: A system interface to run WebAssembly outside the web (2019)](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
@@ -354,3 +354,4 @@ title: WebAssembly
 - [From a WebAssembly Perspective](https://www.assemblyscript.org/introduction.html#from-a-webassembly-perspective) ([HN](https://news.ycombinator.com/item?id=32562327))
 - [Just-in-time code generation within WebAssembly (2022)](https://wingolog.org/archives/2022/08/18/just-in-time-code-generation-within-webassembly)
 - [Wispy](https://github.com/drew-y/wispy) - Lisp inspired programming language for learning WASM.
+- [Frenezulo](https://github.com/HurricanKai/frenezulo) - WASM-embedding webserver build on top of submillisecond and lunatic.

@@ -105,3 +105,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [ravynOS](https://ravynos.com/) - Finesse of macOS. Freedom of FreeBSD. ([HN](https://news.ycombinator.com/item?id=32492514))
 - [FreeBSD - a lesson in poor defaults (2022)](https://vez.mrsk.me/freebsd-defaults.html) ([Lobsters](https://lobste.rs/s/2xxp8y/freebsd_lesson_poor_defaults))
 - [Writing FreeBSD Kernel Modules in Rust (2022)](https://research.nccgroup.com/2022/08/31/writing-freebsd-kernel-modules-in-rust/)
+- [How BSD Authentication Works (2021)](https://blog.lambda.cx/posts/how-bsd-authentication-works/)

@@ -663,3 +663,8 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Uniswap SDK Core](https://github.com/Uniswap/sdk-core) - Code shared across TypeScript Uniswap SDK versions.
 - [token-delegation](https://github.com/0xfoobar/token-delegation)
 - [Ethplorer](https://ethplorer.io/) - Ethereum explorer.
+- [ethereum.nix](https://github.com/41north/ethereum.nix) - Reproducible Nix package set for Ethereum clients and utilities.
+- [GOO (Gradual Ownership Optimization) (2022)](https://www.paradigm.xyz/2022/09/goo) ([Code](https://github.com/transmissions11/goo-issuance))
+- [Hyperion](https://github.com/bigsky77/hyperion) - Stable asset AMM that fully leverages the power of Starknet to achieve high throughput with extremely low fees.
+- [Tempest](https://github.com/bigsky77/tempest) - Uniswap V2 style AMM written in Cairo.
+- [Foundry template](https://github.com/transmissions11/foundry-template) - Streamlined template for getting started with Foundry and Solmate.

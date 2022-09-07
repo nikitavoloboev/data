@@ -585,6 +585,7 @@
 - [GeometryWriter](https://github.com/heestand-xyz/GeometryWriter) - GeometryWriter writes the minimum frame to a View.
 - [SwiftParamTest](https://github.com/YusukeHosonuma/SwiftParamTest) - Parameterized test for Swift.
 - [Shock](https://github.com/justeat/Shock) - HTTP mocking framework written in Swift.
+- [XCTAsync](https://github.com/mochidev/XCTAsync) - Swift library to more easily test async code.
 
 ## API
 
@@ -1232,6 +1233,11 @@
 - [AsyncValue](https://github.com/BrentMifsud/AsyncValue) - Simple swift package that provides a Swift Concurrency equivalent to `@Published`.
 - [Flow](https://github.com/AudioKit/Flow) - Generic node graph editor.
 - [DivKit](https://github.com/divkit/divkit) - Open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app.
+- [MarkCodable](https://github.com/icanzilb/MarkCodable) - Swift Codable with human-friendly Markdown storage.
+- [CRDT](https://github.com/heckj/CRDT) - Conflict-free Replicated Data Types in Swift.
+- [SwiftNodes](https://github.com/flowtoolz/SwiftNodes) - Graphs & Trees: Data Structures, Algorithms, Drawing.
+- [SwiftObserver](https://github.com/flowtoolz/SwiftObserver) - Elegant Reactive Primitives for Clean Swift Architecture.
+- [GetLaid](https://github.com/flowtoolz/GetLaid) - Most Readable & Concise AutoLayout Swift Code.
 
 ## Other (not lib)
 

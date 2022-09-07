@@ -64,3 +64,4 @@
 - [muon](https://github.com/vshymanskyy/muon) - Compact and simple binary object notation. ([Lobsters](https://lobste.rs/s/a7ougq/on_compact_simple_binary_encoding_on_par)) ([Doc](https://docs.google.com/presentation/d/1MosK6LTy_Rr32eF6HKej6UEtf9vBzdbeSF6YPb1_e4A/present?slide=id.g13be37bd3ba_0_6))
 - [Character encoding and UTF-8 (2022)](https://blog.fredrb.com/2022/07/31/character-encoding-utf8/) ([HN](https://news.ycombinator.com/item?id=32299965))
 - [Type of Barcodes and Their Usage](https://scanbot.io/blog/types-of-barcodes/) ([HN](https://news.ycombinator.com/item?id=32591356))
+- [Unicode Character Search](https://macleod.io/unicode/) - Search for Unicode Characters by name, codepoint or text. ([Code](https://github.com/Alexendoo/unicode-search))

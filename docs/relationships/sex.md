@@ -11,6 +11,7 @@
 - [Take foreplay slower. It can happen early on and at any part of the day through compliments or light touches. The key to having a nice sexual experience is when everyone is fully relaxed, nothing is rushed and everything feels natural and not forced. Communicate everything.](https://www.reddit.com/r/sexover30/comments/n39rs9/what_is_he_hitting_that_feels_so_good_aspot_or/)
 - [Women's desire usually drives from a story being played out.](https://www.reddit.com/r/sexover30/comments/t2xr2p/any_advice_on_how_to_make_yourself_want_to_have/)
 - [Skyn have the best condoms](https://www.reddit.com/r/AskMen/comments/w1cxfo/whats_the_best_condom_brand/)
+- [Always satisfy your partner first before finishing yourself.](https://www.reddit.com/r/sex/comments/x70vpz/my_boyfriend_doesnt_satisfy_me_after_he_finishes/)
 
 ## Links
 

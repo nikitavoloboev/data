@@ -57,3 +57,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Назовите ваш комфортный фильм/сериал](https://twitter.com/drsy10WSbjZ3Sho/status/1528076856821424129)
 - [Great TV series (2022)](https://www.reddit.com/r/televisionsuggestions/comments/wpvpf2/i_just_finished_my_100th_show_these_are_the_most/)
 - [Series similar to Better Call Saul](https://www.reddit.com/r/betterCallSaul/comments/x5t5wz/now_what/)
+- [What are some cancelled shows you wish would come back? (2022)](https://www.reddit.com/r/televisionsuggestions/comments/x7a51z/what_are_some_cancelled_shows_you_wish_would_come/)

@@ -532,3 +532,4 @@ for i, _ in enumerate(nums):
 - [Ruff](https://github.com/charliermarsh/ruff) - Extremely fast Python linter, written in Rust. ([Lobsters](https://lobste.rs/s/xjl3rd/ruff_extremely_fast_python_linter)) ([HN](https://news.ycombinator.com/item?id=32666035))
 - [Using Mypy in Production](https://notes.crmarsh.com/using-mypy-in-production-at-spring) ([HN](https://news.ycombinator.com/item?id=32556816))
 - [Python multi-level break and continue](https://lwn.net/SubscriberLink/906512/27b609f844d04f68/) ([HN](https://news.ycombinator.com/item?id=32691526))
+- [Building a Distributed Task Queue in Python (2022)](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python) ([HN](https://news.ycombinator.com/item?id=32730038))

@@ -118,3 +118,5 @@ title: TensorFlow
 - [TensorFlow Hub Models](https://github.com/tensorflow/hub)
 - [Middle-End Development with SvelteKit + TensorFlow.JS (2022)](https://cprimozic.net/blog/fullstack-sveltekit-recommendation-app-middle-end-development/)
 - [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization)
+- [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted) - Framework for encrypted machine learning in TensorFlow.
+- [What’s New in TensorFlow 2.10? (2022)](https://blog.tensorflow.org/2022/09/whats-new-in-tensorflow-210.html) ([HN](https://news.ycombinator.com/item?id=32741349))

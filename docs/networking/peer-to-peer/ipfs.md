@@ -114,3 +114,4 @@ I especially like the distinction of distributing content over distributing link
 - [Why's Principled File Server](https://github.com/whyrusleeping/whypfs) - Alternative IPFS daemon.
 - [IPFS Ecosystem Directory](https://ecosystem.ipfs.io/) ([Code](https://github.com/ipfs/ecosystem-directory))
 - [JS IPFS Examples](https://github.com/ipfs-examples/js-ipfs-examples)
+- [Design and evaluation of IPFS: a storage layer for the decentralized web (2022)](https://dl.acm.org/doi/abs/10.1145/3544216.3544232) ([HN](https://dl.acm.org/doi/abs/10.1145/3544216.3544232))
