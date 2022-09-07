@@ -415,3 +415,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [pkg-fetch](https://github.com/vercel/pkg-fetch) - Utility to fetch or build patched Node binaries used by `pkg` to generate executables.
 - [OpenAPI in Node](https://github.com/kogosoftwarellc/open-api) - Monorepo of various packages to power OpenAPI in node.
 - [APNS2](https://github.com/AndrewBarba/apns2) - Node client for connecting to Apple's Push Notification Service using the new HTTP/2 protocol with JSON web tokens.
+- [An overview of Node.js: architecture, APIs, event loop, concurrency](https://2ality.com/2022/09/nodejs-overview.html)

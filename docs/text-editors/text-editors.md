@@ -232,3 +232,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [John Carmack: Best Programming Setup and IDE (2022)](https://www.youtube.com/watch?v=tzr7hRXcwkw) ([HN](https://news.ycombinator.com/item?id=32447569))
 - [CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) - Code editor view written in Swift powered by tree-sitter.
 - [rs-code-visualizer](https://github.com/sloganking/rs-code-visualizer) - Turns your code into one large PNG.
+- [Reviewing some new Rust text editors (2022)](https://matduggan.com/battle-of-the-text-editors/)

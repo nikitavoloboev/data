@@ -445,3 +445,4 @@
 - [Build Your Own Web Framework (2022)](https://vercel.com/blog/build-your-own-web-framework) ([HN](https://news.ycombinator.com/item?id=32278288))
 - [I Miss the Programmable Web (2021)](https://matt-rickard.com/the-programmable-web/) ([HN](https://news.ycombinator.com/item?id=32284375))
 - [Interneting Is Hard](https://www.internetingishard.com/) - Web Development Tutorials For Complete Beginners.
+- [Epic Web Dev by Kent C. Dodds](https://www.epicweb.dev/)

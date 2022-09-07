@@ -465,3 +465,4 @@ if (
 - [Checking if a JavaScript native function is monkey patched (2022)](https://mmazzarolo.com/blog/2022-07-30-checking-if-a-javascript-native-function-was-monkey-patched/)
 - [Optimizing for JavaScript is hard (2022)](https://jfmengels.net/optimizing-javascript-is-hard/) ([Lobsters](https://lobste.rs/s/sdoeyq/optimizing_for_javascript_is_hard))
 - [International JavaScript Conference](https://javascript-conference.com/) ([Twitter](https://twitter.com/JavaScriptCon))
+- [Dune](https://github.com/aalykiot/dune) - Hobby runtime for JavaScript and TypeScript.

@@ -505,3 +505,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [iOS Dev notes](https://github.com/Blackjacx/Development)
 - [iOS Performance Benchmarks using JavaScript for Universal Platform Development (2022)](https://blog.nativescript.org/perf-metrics-universal-javascript-part1/)
 - [MTHawkeye](https://github.com/meitu/MTHawkeye) - Profiling / Debugging assist tools for iOS.
+- [iOS Widgets course](https://seanallen.teachable.com/p/widgets)

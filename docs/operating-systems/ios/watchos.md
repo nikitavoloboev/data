@@ -8,3 +8,4 @@
 - [The iconic watches that inspired Apple Watch faces (2021)](https://www.arun.is/blog/apple-watch-faces/)
 - [Apple Watch Planning view face concept](https://twitter.com/FonsMans/status/1497598940522373125)
 - [Continuous Glucose Monitoring on the Apple Watch (2022)](https://hturan.com/writing/apple-watch-continuous-glucose-monitoring)
+- [Quake 1 ported to the Apple Watch](https://github.com/MyOwnClone/quake_watch) ([HN](https://news.ycombinator.com/item?id=32747067))

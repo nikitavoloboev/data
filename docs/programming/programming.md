@@ -585,3 +585,5 @@
 - [Fogus's Thunks/Studies](https://github.com/fogus/thunks) - Posts and code related to topics that I care about.
 - [Demystifying Dependence, Part 1: The Nine Dependency Puzzles (2022)](https://www.pathsensitive.com/2022/08/demystifying-dependence-part-1-nine.html) ([Lobsters](https://lobste.rs/s/lpknpt/demystifying_dependence_part_1_nine))
 - [Ask HN: Should I log errors, throw errors or both? (2022)](https://news.ycombinator.com/item?id=32549619)
+- [Bare Metal Programming - Booting From the Switches (2022)](https://www.youtube.com/watch?v=DM4rZZBqXVM)
+- [P99 CONF](https://www.p99conf.io/) - Event on All Things Performance.

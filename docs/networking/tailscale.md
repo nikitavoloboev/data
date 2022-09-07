@@ -4,6 +4,11 @@ title: Tailscale
 
 # [Tailscale](https://tailscale.com/)
 
+## Notes
+
+- [Tailscale is basically the upgrade the internet needed.
+  Fully-Routable (+firewall) -> NAT'd (+STUN) -> Encrypted Personal Mesh.](https://twitter.com/simonvc/status/1567316799464800257)
+
 ## Links
 
 - [Tailscale Proxy](https://github.com/jtdowney/tailscale-proxy) - Reverse proxy for Tailscale that auto-configures with certificates from the local daemon.

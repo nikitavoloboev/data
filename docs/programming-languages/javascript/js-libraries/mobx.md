@@ -34,7 +34,7 @@ title: MobX
 - [mobx-form-validation-kit](https://github.com/QuantumArt/mobx-form-validation-kit) - Utilities form controls on base mobx for validation.
 - [Normi](https://github.com/colinhacks/normi) - Zero-config normalized cache for MobX.
 - [Next.js, NestJS, MobX and how I structured my open-source project (2021)](https://dev.to/zvikfir/next-js-nestjs-mobx-and-how-i-structured-my-open-source-project-5gco)
-- [lit-mobx](https://github.com/adobe/lit-mobx) - Mixin and base class for using mobx with lit-element.
+- [lit-mobx](https://github.com/adobe/lit-mobx) - Mixin and base class for using mobx with lit-element. ([Example](https://twitter.com/justinfagnani/status/1567565172809793536))
 - [MobX Easy Form](https://github.com/hrastnik/mobx-easy-form) - Simple and performant form library built with MobX.
 - [mobx-vue-lite](https://github.com/mobxjs/mobx-vue-lite) - Lightweight Vue 3 bindings for MobX based on Composition API.
 - [mobx-async-toolkit](https://github.com/alan2207/mobx-async-toolkit) - Toolkit for handling async operations in MobX stores.

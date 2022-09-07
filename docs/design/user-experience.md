@@ -198,3 +198,4 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [Awesome Command Palette](https://github.com/stefanjudis/awesome-command-palette)
 - [Designing undo/redo well](https://twitter.com/steveruizok/status/1566142910546038784)
 - [Martians unveiled: infusing a new site with extraterrestrial tech and soul—Martian Chronicles (2022)](https://evilmartians.com/chronicles/martians-unveiled-infusing-a-new-site-with-extraterrestrial-tech-and-soul)
+- [UI & UX Micro-Tips: Best of 2022](https://www.marcandrew.me/ui-ux-micro-tips-best-of-2022/) ([Tweet](https://twitter.com/Una/status/1567542516228014082))

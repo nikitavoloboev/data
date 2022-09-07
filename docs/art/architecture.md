@@ -106,3 +106,4 @@
 - [Dezeen](https://www.dezeen.com/) - Architecture and design magazine. ([Twitter](https://twitter.com/dezeen)) ([IG](https://www.instagram.com/dezeen/))
 - [The Rise and Fall of the Manufactured Home (2022)](https://constructionphysics.substack.com/p/the-rise-and-fall-of-the-mobile-home) ([HN](https://news.ycombinator.com/item?id=32119828))
 - [Architectural Art Twitter](https://twitter.com/4AAAAart)
+- [WikiHouse](https://www.wikihouse.cc/) - Open source, modular, wood based, zero carbon housing. ([HN](https://news.ycombinator.com/item?id=32748592))

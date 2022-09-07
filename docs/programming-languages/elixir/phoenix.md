@@ -106,3 +106,4 @@ title: Phoenix framework
 - [Ask HN: So, what's up with Phoenix (web framework)? (2022)](https://news.ycombinator.com/item?id=32530203)
 - [PhoenixLiveViewNative](https://github.com/liveviewnative/liveview-client-swiftui) - Swift package lets you use Phoenix LiveView to build native iOS apps with SwiftUI.
 - [Using Svelte with Phoenix LiveView](https://github.com/jumpwire-ai/elixirconf2022)
+- [Phoenix framework LiveView live sessions in action (2022)](https://fly.io/phoenix-files/live-session/)

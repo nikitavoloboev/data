@@ -242,3 +242,4 @@
 - [Rust libraries to build a compiler for my language? (2022)](https://www.reddit.com/r/rust/comments/wuehyk/rust_libraries_to_build_a_compiler_for_my_language/)
 - [Ask HN: How to get a job as a compiler engineer? (2022)](https://news.ycombinator.com/item?id=32590390)
 - [MLIR Playground](https://playground.mlir-china.org/) - Play with MLIR directly in your browser. ([Code](https://github.com/MLIR-China/mlir-playground))
+- [A Catalogue of Optimizing Transformations (1971)](https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf)

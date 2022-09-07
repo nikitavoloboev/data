@@ -196,3 +196,4 @@
 - [Exploring 12M of the 2.3B images used to train Stable Diffusion (2022)](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/) ([HN](https://news.ycombinator.com/item?id=32655497))
 - [COYO-700M: Large-scale Image-Text Pair Dataset](https://github.com/kakaobrain/coyo-dataset)
 - [WebVid Dataset](https://github.com/m-bain/webvid) - Large-scale text-video dataset. 10 million captioned short videos.
+- [Generate Synthetic Data in 3 Lines of Code (2022)](https://gretel.ai/blog/generate-synthetic-data-in-3-lines-of-code) ([HN](https://news.ycombinator.com/item?id=32752505))

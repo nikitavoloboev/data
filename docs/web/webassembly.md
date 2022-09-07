@@ -26,7 +26,7 @@ title: WebAssembly
 - [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) - TypeScript to WebAssembly compiler. ([Web](https://www.assemblyscript.org/))
 - [Twiggy](https://github.com/rustwasm/twiggy) - Code size profiler.
 - [Olin](https://github.com/Xe/olin) - Environment to run and operate functions as a service projects using event sourcing and webassembly under the hood.
-- [Wasmtime](https://github.com/CraneStation/wasmtime) - Standalone wasm-only runtime for WebAssembly, using the Cranelift JIT. ([1.0 release](https://bytecodealliance.org/articles/wasmtime-10-performance)) ([HN](https://news.ycombinator.com/item?id=32739941))
+- [Wasmtime](https://github.com/CraneStation/wasmtime) - Standalone wasm-only runtime for WebAssembly, using the Cranelift JIT. ([1.0 release](https://bytecodealliance.org/articles/wasmtime-10-performance)) ([HN](https://news.ycombinator.com/item?id=32739941)) ([Lobsters](https://lobste.rs/s/uoac7z/wasmtime_1_0_look_at_performance))
 - [wasmtime-py](https://github.com/bytecodealliance/wasmtime-py) - Python WebAssembly runtime powered by Wasmtime. ([Docs](https://bytecodealliance.github.io/wasmtime-py/))
 - [Cranelift Code Generator](https://github.com/CraneStation/cranelift) - Low-level retargetable code generator. It translates a target-independent intermediate representation into executable machine code..
 - [Standardizing WASI: A system interface to run WebAssembly outside the web (2019)](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)

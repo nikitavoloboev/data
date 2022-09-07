@@ -144,3 +144,4 @@ title: OCaml
 - [Reflections on my first completed application in OCaml (2020)](https://discuss.ocaml.org/t/reflections-on-my-first-completed-application-in-ocaml/6768)
 - [Easy Dune (OCaml): Running a Script](https://dev.to/pckilgore/unofficial-dune-ocaml-how-to-running-a-script-2fgh)
 - [OCaml at First Glance](https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/) ([Lobsters](https://lobste.rs/s/dwt32y/ocaml_at_first_glance)) ([HN](https://news.ycombinator.com/item?id=32636682))
+- [What the interns have wrought, 2022 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2022/) ([HN](https://news.ycombinator.com/item?id=32749219))

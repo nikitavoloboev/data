@@ -127,6 +127,7 @@ I want to:
 - [Kevin S Lin](https://www.kevinslin.com/)
 - [Alex's Zettelkasten](https://notes.alexkehayias.com/)
 - [Yizhou Shan](http://lastweek.io/)
+- [Adam Overment](https://brain.overment.com/)
 - [The Refined Mind](https://refinedmind.co/)
 - [Azlen Elza](https://notes.azlen.me/g3tibyfv/) ([Code](https://github.com/azlen/azlen.me)) ([Home site](https://azlen.me/))
 - [Vlad Patryshev](https://github.com/vpatryshev/wowiki/wiki)

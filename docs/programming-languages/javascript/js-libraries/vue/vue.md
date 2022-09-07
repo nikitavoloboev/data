@@ -192,3 +192,4 @@ title: Vue.js
 - [Nuxt Zero JS](https://github.com/danielroe/nuxt-zero-js) - Remove all client-side JS from your Nuxt 3 app.
 - [nuxtjs/style](https://github.com/nuxt-modules/design-tokens) - Use Design Tokens in your Nuxt project.
 - [Temir Snake CLI Game](https://github.com/webfansplz/temir-snake-game) - Terminal-based Snake game. Powered by Temir.
+- [What blocks React devs from switching to Vue? (2022)](https://twitter.com/antfu7/status/1567511783832961026)

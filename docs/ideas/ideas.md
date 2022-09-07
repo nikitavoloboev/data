@@ -131,3 +131,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: What small library or tool do you want that doesn’t exist? (2022)](https://news.ycombinator.com/item?id=31217300)
 - [Take my app ideas (2022)](https://austinhenley.com/blog/takemyappideas.html) ([HN](https://news.ycombinator.com/item?id=31368853))
 - [100 Projects of Code](https://github.com/aceking007/100ProjectsOfCode) - List of practical knowledge-building projects.
+- [Small Bets](https://dvassallo.gumroad.com/l/small-bets)

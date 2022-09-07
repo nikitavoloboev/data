@@ -922,3 +922,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Exploring Differential Geometry in Neural Implicits](https://github.com/dsilvavinicius/differential_geometry_in_neural_implicits)
 - [REvolveR: Continuous Evolutionary Models for Robot-to-robot Policy Transfer (2022)](https://arxiv.org/abs/2202.05244) ([Code](https://github.com/xingyul/revolver))
 - [The AI Epiphany - YouTube](https://www.youtube.com/c/TheAIEpiphany/videos)
+- [A Review of Sparse Expert Models in Deep Learning (2022)](https://arxiv.org/abs/2209.01667)

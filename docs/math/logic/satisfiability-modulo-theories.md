@@ -11,6 +11,7 @@ title: Satisfiability modulo theories
 - [Online Z3 Guide](https://microsoft.github.io/z3guide/)
 - [Solving Wordle with Z3](https://typon.github.io/wordle.html) ([HN](https://news.ycombinator.com/item?id=29886990))
 - [Getting Started with Z3](https://rise4fun.com/Z3/tutorial/guide)
+- [VPEXPANDB on NEON with Z3 (2022)](https://zeux.io/2022/09/02/vpexpandb-neon-z3/)
 - [z3.wasm](https://github.com/cpitclaudel/z3.wasm) - WASM builds of the Z3 SMT solver.
 - [Modern SAT solvers: fast, neat and underused (part 3 of N)](https://codingnest.com/modern-sat-solvers-fast-neat-and-underused-part-3-of-n/) ([HN](https://news.ycombinator.com/item?id=19953213))
 - [Set Constraints, Pattern Match Analysis, and SMT (2019)](https://arxiv.org/abs/1905.09423)

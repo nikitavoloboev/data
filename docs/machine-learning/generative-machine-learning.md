@@ -25,3 +25,6 @@
 - [Create videos with Stable Diffusion](https://github.com/nateraw/stable-diffusion-videos) - By exploring the latent space and morphing between text prompts.
 - [Long Stable Diffusion: Long-form text to images](https://github.com/sharonzhou/long_stable_diffusion)
 - [Infinite Stable Diffusion Videos](https://orbdog.com/) ([HN](https://news.ycombinator.com/item?id=32720924))
+- [Why 'weird patterns' arise in the latent space of an image generation models](https://twitter.com/mattskala/status/1567300206969982979) ([Tweet](https://twitter.com/ai_curio/status/1567253704872427520))
+- [Textual Inversion fine-tuning example](https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion) ([Tweet](https://twitter.com/psuraj28/status/1567212122970685442))
+- [Progressive Distillation for Fast Sampling of Diffusion Models (2022)](https://arxiv.org/abs/2202.00512)

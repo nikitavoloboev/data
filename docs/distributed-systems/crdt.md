@@ -92,3 +92,4 @@ title: Conflict-free replicated data type
 - [Yboard](https://github.com/felipeleivav/yboard) - Multiplayer desktop-like workspace based on CRDT. ([HN](https://news.ycombinator.com/item?id=31891608))
 - [Automerge Chat Demo](https://github.com/okdistribute/automerge-chat-demo)
 - [Meangirls](https://github.com/aphyr/meangirls) - Convergent Replicated Data Types in Ruby.
+- [Peritext: A CRDT for Collaborative Rich Text Editing (2022)](https://www.inkandswitch.com/peritext/static/cscw-publication.pdf) ([Tweet](https://twitter.com/geoffreylitt/status/1567539737719898115))

@@ -394,3 +394,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Ask HN: What are some of your favorite YouTube channels? (2022)](https://news.ycombinator.com/item?id=32378309)
 - [canvas2video](https://github.com/pankod/canvas2video) - Backend solution for creating and rendering dynamic videos.
 - [Incredible](https://github.com/IncredibleDevHQ/Incredible) - Drastically simplifies creation of developer video content. It offers a unified workflow to storyboard, record, collaborate and produce the video.
+- [HandBrake](https://handbrake.fr/) - Open Source Video Transcoder.

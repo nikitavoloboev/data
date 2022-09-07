@@ -12,6 +12,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 
 - [Remix + Cloudflare Workers starter with Turborepo](https://github.com/jacob-ebey/remix-chat)
 - [Remix + Deno + Rust -> Webassembly - The Air Metal Stack](https://github.com/benwis/air-metal-stack)
+- [Remix Barebones Stack](https://github.com/dev-xo/barebones-stack)
 - [Remix + Cloudflare Workers + Wrangler2 + Tailwind + ESLint + Prettier + Vitest + Playwright](https://github.com/okym-t/remix-cloudflare-workers-starterkit)
 - [Remix + Bun Testing](https://github.com/jacob-ebey/remix-bun-testing)
 - [Remix on Netlify Edge Functions](https://github.com/netlify/remix-edge-template) ([Another version](https://github.com/mcansh/remix-netlify-edge-js))

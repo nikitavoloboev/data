@@ -127,7 +127,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Jost](https://github.com/indestructible-type/Jost) - Original font created by indestructible type.
 - [Virgil](https://github.com/excalidraw/virgil) - Font that powers Excalidraw. ([Web](https://virgil.excalidraw.com/))
 - [Martian Grotesk](https://romanshamin.gumroad.com/l/martian-grotesk-font)
-- [Minecraft Mono](https://github.com/IdreesInc/Minecraft-Mono) - Programming font based on the typeface used in Minecraft.
+- [Minecraft Mono](https://github.com/IdreesInc/Minecraft-Mono) - Programming font based on the typeface used in Minecraft. ([HN](https://news.ycombinator.com/item?id=32743864))
 
 ## Links
 
@@ -393,3 +393,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [What's a good typeface other than Inter? (2022)](https://twitter.com/darylginn/status/1559212268532862977)
 - [Generator of fonts from SVG icons](https://github.com/itgalaxy/webfont)
 - [ttf2eot](https://github.com/fontello/ttf2eot) - Converts TTF fonts to EOT format. That can be useful for different web font generation tools.
+- [Music video typography trend](https://twitter.com/domesticetch/status/1567160302675836929)

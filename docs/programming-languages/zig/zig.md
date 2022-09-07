@@ -140,3 +140,4 @@ title: Zig
 - [Packed structs in Zig make bit/flag sets trivial (2022)](https://devlog.hexops.com/2022/packed-structs-in-zig/) ([HN](https://news.ycombinator.com/item?id=32646690)) ([Lobsters](https://lobste.rs/s/ualy7p/packed_structs_zig_make_bit_flag_sets))
 - [A Practical Guide to Compile Time Evaluation - Alex Naskos (2022)](https://www.youtube.com/watch?v=iFBAUoQUJ2E)
 - [Revisiting the design approach to Zig (2022)](https://about.sourcegraph.com/blog/zig-programming-language-revisiting-design-approach) ([HN](https://news.ycombinator.com/item?id=32734587))
+- [Zig, the Small Language (2022)](https://zserge.com/posts/zig-the-small-language/) ([HN](https://news.ycombinator.com/item?id=32752383))
