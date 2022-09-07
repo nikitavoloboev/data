@@ -92,7 +92,7 @@ all: unset
 - [tachyons tldr](https://tachyons-tldr.now.sh/#/classes)
 - [A real-life journey into the opinionated world of 'utility-first' CSS (2018)](https://www.youtube.com/watch?v=2-q4asoHUqU)
 - [CSS and Scalability (2016)](https://mrmrs.cc/writing/scalable-css/)
-- [cssdb](https://cssdb.org/) - Comprehensive list of CSS features and their positions in the process of becoming implemented web standards.
+- [cssdb](https://cssdb.org/) - Database of staged CSS features. ([Code](https://github.com/csstools/cssdb))
 - [Relearn CSS layout: Every Layout](https://absolutely.every-layout.dev/) - How to better harness the built-in algorithms that power browsers and CSS. ([HN](https://news.ycombinator.com/item?id=20196061)) ([Blog](https://every-layout.dev/blog/algorithmic-design/))
 - [Basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit.
 - [PurgeCSS](https://github.com/FullHuman/purgecss) - Remove unused css.

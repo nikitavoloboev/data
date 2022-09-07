@@ -180,6 +180,7 @@
 - [backon](https://github.com/Xuanwo/backon) - Retry futures in backoff without effort.
 - [nickel.rs](https://github.com/nickel-org/nickel.rs) - Express inspired web framework for Rust.
 - [exponential-backoff](https://github.com/yoshuawuyts/exponential-backoff) - Exponential backoff generator with jitter.
+- [Aide](https://github.com/tamasfe/aide) - Code-first API documentation and other utility libraries for Rust.
 
 ## Auth
 
@@ -2124,6 +2125,8 @@
 - [PROJ](https://github.com/georust/proj) - Rust bindings for the latest stable release of PROJ.
 - [exitcode](https://github.com/benwilber/exitcode) - System exit code constants as defined by sysexits.h.
 - [Partial Function](https://github.com/jojolepro/partialfunction) - Clean way to define function as a set of smaller functions where each has defined start and end bounds.
+- [Particular](https://github.com/Canleskis/particular) - Simple, parallel N-body simulation library written in Rust.
+- [Peapod](https://github.com/fprasx/peapod) - Ultra-compact storage for enums.
 
 ## Cargo Plugins
 

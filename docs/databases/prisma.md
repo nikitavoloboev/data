@@ -116,3 +116,4 @@ I prefer using [EdgeDB](edgedb.md) for all my DB needs, it has a [better way to 
 - [Prisma JSON Server Generator](https://github.com/omar-dulaimi/prisma-json-server-generator) - Prisma generator that automates creating a JSON file that can be run as a server from your Prisma schema.
 - [Prisma Yup Generator](https://github.com/omar-dulaimi/prisma-yup-generator) - Prisma 2+ generator to emit Yup schemas from your Prisma schema.
 - [Prisma Util](https://github.com/DavidHancu/prisma-util) - Merge multiple Prisma schema files, model inheritance, resolving name conflicts and timings reports, all in a simple tool.
+- [Prisma Generator Pothos Codegen](https://github.com/Cauen/prisma-generator-pothos-codegen)

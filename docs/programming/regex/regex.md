@@ -108,3 +108,4 @@ Match all that don't have notes or twitter in input
 - [magic-regexp](https://github.com/danielroe/magic-regexp) - Compiled-away, type-safe, readable RegExp alternative.
 - [PRegEx](https://github.com/manoss96/pregex) - Programmable Regular Expressions.
 - [Rex](https://github.com/areknawo/Rex) - JS Library for writing complex RegExps with help of auto completion.
+- [regexp-tree](https://github.com/DmitrySoshnikov/regexp-tree) - Regular expressions processor in JavaScript.

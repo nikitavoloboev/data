@@ -167,3 +167,4 @@ title: Coq
 - [Lustre compiler in Coq](https://github.com/INRIA/velus)
 - [Choice Trees](https://github.com/vellvm/ctrees) - itree-like data-structure to additionally support internal non-determinism.
 - [Automatik](https://github.com/jdrprod/automatik) - Library of formalized graph and automata based algorithms.
+- [LibHyps](https://github.com/Matafou/LibHyps) - Coq library providing tactics to deal with hypothesis.

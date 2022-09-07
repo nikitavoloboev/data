@@ -110,3 +110,4 @@ title: WebSocket
 - [Wuss](https://github.com/tfausak/wuss) - Secure WebSocket (WSS) clients in Haskell.
 - [Soketto](https://github.com/paritytech/soketto) - A WebSocket protocol implementation in Rust.
 - [Writing a toy WebSocket server from scratch (2022)](https://alexanderell.is/posts/websockets-from-scratch/) ([HN](https://news.ycombinator.com/item?id=32634038))
+- [PWS](https://github.com/porsager/pws) - Persistent Web Sockets.

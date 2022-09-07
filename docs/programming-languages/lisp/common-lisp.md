@@ -133,3 +133,4 @@
 - [Colisper](https://github.com/vindarel/colisper) - Check and transform Lisp code with Comby.
 - [State of Common Lisp Web Development - an overview (2022)](https://lisp-journey.gitlab.io/web-dev/)
 - [From Common Lisp to Julia (2022)](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/) ([HN](https://news.ycombinator.com/item?id=32745318))
+- [Why Not: From Common Lisp to Julia](https://gist.github.com/digikar99/24decb414ddfa15a220b27f6748165d7) ([HN](https://news.ycombinator.com/item?id=32750052))

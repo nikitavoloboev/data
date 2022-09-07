@@ -11,3 +11,4 @@ title: SpiceDB
 - [SpiceDB GitHub Action](https://github.com/authzed/action-spicedb) - GitHub Action for integration testing your application with SpiceDB.
 - [SpiceDB Postgres Connector](https://github.com/authzed/connector-postgresql) - Import PostgreSQL foreign key relationships into SpiceDB.
 - [Authzed GitHub Actions](https://github.com/authzed/actions)
+- [SpiceDB Operator](https://github.com/authzed/spicedb-operator)

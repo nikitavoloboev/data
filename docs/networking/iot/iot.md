@@ -96,3 +96,4 @@
 - [Pulsar](https://github.com/Exein-io/pulsar) - Highly modular and blazing fast runtime security framework for the IoT, powered by eBPF. ([Web](https://pulsar.sh/))
 - [Using IoT Sensors, TimescaleDB, and Grafana to Control the Temperature of the Nuclear Fusion Experiment at the Max Planck Institute (2022)](https://www.timescale.com/blog/using-iot-sensors-timescaledb-and-grafana-to-control-the-temperature-of-the-nuclear-fusion-experiment-in-the-max-planck-institute/)
 - [Bytebeam](https://bytebeam.io/) - Pluggable and customizable platform for connected devices. ([GitHub](https://github.com/bytebeamio))
+- [Apache Mynewt](https://github.com/apache/mynewt-core) - OS to build, deploy and securely manage billions of devices.

@@ -89,7 +89,7 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Install Nix docs by Mozilla](https://docs.mozilla-releng.net/develop/install-nix.html) - Pretty good.
 - [Nix scripts shared across IOHK projects](https://github.com/input-output-hk/iohk-nix)
 - [niv](https://github.com/nmattia/niv) - Painless dependencies for Nix projects.
-- [Cachix](https://cachix.org/) - Binary cache hosting for Nix. ([Docs](https://docs.cachix.org/)) ([Docs Code](https://github.com/cachix/docs.cachix.org)) ([Blog](https://blog.cachix.org/)) ([Public Beta](https://blog.cachix.org/posts/2022-07-29-cachix-deploy-public-beta/))
+- [Cachix](https://cachix.org/) - Binary cache hosting for Nix. ([Docs](https://docs.cachix.org/)) ([Docs Code](https://github.com/cachix/docs.cachix.org)) ([Blog](https://blog.cachix.org/)) ([Public Beta](https://blog.cachix.org/posts/2022-07-29-cachix-deploy-public-beta/)) ([1.0 release](https://twitter.com/domenkozar/status/1567539492906749954))
 - [Alternative Haskell Infrastructure for Nixpkgs](https://github.com/input-output-hk/haskell.nix) - Works by automatically translating your Cabal or Stack project and its dependencies into Nix code.
 - [nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere.
 - [crate2nix](https://github.com/kolloch/crate2nix) - Nix build file generator for rust crates. ([Lobsters](https://lobste.rs/s/26xnzy/crate2nix_nix_build_file_generator_for))

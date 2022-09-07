@@ -77,6 +77,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Axentix](https://github.com/axentix/axentix) - Framework mixing fully customizable components and utility-first classes, leaving the design choice to the developer. ([Web](https://useaxentix.com/))
 - [Query Key Factory](https://github.com/lukemorales/query-key-factory) - Typesafe query key management for @tanstack/query with auto-completion features.
 - [Hyper Fetch](https://github.com/BetterTyped/hyper-fetch) - Backend agnostic fetching framework for any JS environment - queues, caching, persistence, builders, commands, offline and more.
+- [zhead](https://github.com/harlan-zw/zhead) - Fully-typed utilities for defining, validating and building your document head.
 
 ## GraphQL
 

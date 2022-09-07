@@ -8,6 +8,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 
 ## Interesting editors
 
+- [Aurora Editor](https://auroraeditor.com/) - IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS. ([Code](https://github.com/AuroraEditor/AuroraEditor))
 - [Oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor. ([HN](https://news.ycombinator.com/item?id=23626398))
 - [CodeMirror](http://codemirror.net/) - In-browser code editor. ([Code](https://github.com/codemirror/CodeMirror))
 - [CodeMirror 6](https://codemirror.net/6/) - Next generation of the CodeMirror in-browser editor. ([Code](https://github.com/codemirror/codemirror.next))
@@ -232,4 +233,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [John Carmack: Best Programming Setup and IDE (2022)](https://www.youtube.com/watch?v=tzr7hRXcwkw) ([HN](https://news.ycombinator.com/item?id=32447569))
 - [CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) - Code editor view written in Swift powered by tree-sitter.
 - [rs-code-visualizer](https://github.com/sloganking/rs-code-visualizer) - Turns your code into one large PNG.
-- [Reviewing some new Rust text editors (2022)](https://matduggan.com/battle-of-the-text-editors/)
+- [Reviewing some new Rust text editors (2022)](https://matduggan.com/battle-of-the-text-editors/) ([Lobsters](https://lobste.rs/s/xyexnb/reviewing_some_new_rust_text_editors))

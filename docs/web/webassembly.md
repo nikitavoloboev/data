@@ -355,3 +355,5 @@ title: WebAssembly
 - [Just-in-time code generation within WebAssembly (2022)](https://wingolog.org/archives/2022/08/18/just-in-time-code-generation-within-webassembly)
 - [Wispy](https://github.com/drew-y/wispy) - Lisp inspired programming language for learning WASM.
 - [Frenezulo](https://github.com/HurricanKai/frenezulo) - WASM-embedding webserver build on top of submillisecond and lunatic.
+- [Containerd Wasm Shims](https://github.com/deislabs/containerd-wasm-shims) - Containerd shims for running WebAssembly workloads in Kubernetes.
+- [Extism](https://github.com/extism/extism) - Universal plug-in system. Run WebAssembly extensions inside your app.

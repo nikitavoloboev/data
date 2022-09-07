@@ -197,3 +197,4 @@
 - [COYO-700M: Large-scale Image-Text Pair Dataset](https://github.com/kakaobrain/coyo-dataset)
 - [WebVid Dataset](https://github.com/m-bain/webvid) - Large-scale text-video dataset. 10 million captioned short videos.
 - [Generate Synthetic Data in 3 Lines of Code (2022)](https://gretel.ai/blog/generate-synthetic-data-in-3-lines-of-code) ([HN](https://news.ycombinator.com/item?id=32752505))
+- [ShowData](https://github.com/silverbulletmdc/showdata) - Large scale image dataset visiualization tool.

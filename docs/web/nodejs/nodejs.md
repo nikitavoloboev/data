@@ -416,3 +416,5 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [OpenAPI in Node](https://github.com/kogosoftwarellc/open-api) - Monorepo of various packages to power OpenAPI in node.
 - [APNS2](https://github.com/AndrewBarba/apns2) - Node client for connecting to Apple's Push Notification Service using the new HTTP/2 protocol with JSON web tokens.
 - [An overview of Node.js: architecture, APIs, event loop, concurrency](https://2ality.com/2022/09/nodejs-overview.html)
+- [Building Typescript Node Apps With Nix (2022)](https://johns.codes/blog/building-typescript-node-apps-with-nix)
+- [Floco](https://github.com/aameen-tulip/at-node-nix) - Node.js Nix expressions.
