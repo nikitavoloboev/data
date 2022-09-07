@@ -1,5 +1,10 @@
 # Logic programming
 
+## Notes
+
+- [The more I learn about logic programming the more I realize that implementing a type-checker is basically reinventing a logic programming language, but worse.](https://twitter.com/GabriellaG439/status/1567311830317670400)
+- [Constraint-solving systems generally have awful ergonomics wherever you stray from the happy path because: 1. Perf is unpredictable, teeming w/ exponential runtime pitfalls. 2. Error messages are hard to debug.](https://twitter.com/laughinghan/status/1567588521694883840)
+
 ## Links
 
 - [miniKanren](http://minikanren.org/) - Embedded Domain Specific Language for logic programming. ([How I learnt miniKanren](https://bharathi.xyz/pl/learning-miniKanren.html))

@@ -315,3 +315,4 @@ zz
 - [VIM A-Z: A Text Object for Every Letter in the Alphabet (2022)](https://www.youtube.com/watch?v=JnD9Uro_oqc)
 - [History and effective use of Vim (2019)](https://begriffs.com/posts/2019-07-19-history-use-vim.html) ([HN](https://news.ycombinator.com/item?id=32262285))
 - [This Week In Neovim](https://this-week-in-neovim.org/) ([Contents](https://github.com/phaazon/this-week-in-neovim-contents))
+- [Why use Vim](https://twitter.com/mokevnin/status/1567594899859546115)

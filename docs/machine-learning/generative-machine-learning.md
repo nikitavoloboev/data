@@ -29,3 +29,4 @@
 - [Textual Inversion fine-tuning example](https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion) ([Tweet](https://twitter.com/psuraj28/status/1567212122970685442))
 - [Progressive Distillation for Fast Sampling of Diffusion Models (2022)](https://arxiv.org/abs/2202.00512)
 - [Stable Diffusion prompting cheat sheet](https://moritz.pm/posts/parameters)
+- [The Man behind Stable Diffusion (2022)](https://www.youtube.com/watch?v=YQ2QtKcK2dA)

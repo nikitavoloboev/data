@@ -289,3 +289,4 @@
 - [Where do you buy music & sound effects for your games?](https://www.reddit.com/r/gamedev/comments/x34d6i/where_do_you_guys_buy_music_sound_effects/)
 - [noclip](https://noclip.website/) - Digital museum of video game levels. ([Code](https://github.com/magcius/noclip.website))
 - [gogs](https://github.com/metagogs/gogs) - Go Game Server Framework.
+- [The Journey to Nanite - Brian Karis, Epic Games (2022)](https://www.youtube.com/watch?v=NRnj_lnpORU)

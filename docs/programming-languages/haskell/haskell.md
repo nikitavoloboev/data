@@ -454,3 +454,4 @@ title: Haskell
 - [Monad Confusion and the Blurry Line Between Data and Computation (2022)](https://www.micahcantor.com/blog/monad-confusion/) ([HN](https://news.ycombinator.com/item?id=32366022))
 - [Avoiding space leaks at all costs (2022)](https://kodimensional.dev/space-leak)
 - [Functions Types, Currying, Partial application, Higher-order functions (2022)](https://alt-romes.github.io/archive/2022-05-08-lecture-2.html)
+- [How to make a Haskell program 5x faster with 16 lines of code (2022)](https://www.youtube.com/watch?v=yRVjR9XcuPU)
