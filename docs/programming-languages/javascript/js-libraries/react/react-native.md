@@ -32,6 +32,7 @@ title: React Native
 - [Sensor Rotation](https://github.com/naraB/SensorRotation)
 - [Animated Cards](https://github.com/naraB/AnimatedCards)
 - [React Native animated app with reanimated + expo](https://github.com/lklima/rn-flight-animation)
+- [Choosy](https://github.com/ChoosyApp/Choosy) - Mobile application that allows users to create photo polls that others can vote on.
 
 ## Notes
 

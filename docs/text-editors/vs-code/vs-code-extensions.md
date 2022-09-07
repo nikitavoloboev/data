@@ -499,6 +499,10 @@ Below is a list of extensions I use.
 
 - [VSinder](https://github.com/benawad/vsinder) - Dating app for programmers where you swipe on code. ([Tweet](https://twitter.com/benawad/status/1336691028473090050)) ([API](https://github.com/benawad/vsinder-api))
 
+## Embedded
+
+- [Cortex Debug](https://github.com/Marus/cortex-debug) - Extension for enhancing debug capabilities for Cortex-M Microcontrollers.
+
 ## Theme
 
 - [Vitesse](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse) ([Code](https://github.com/antfu/vscode-theme-vitesse))

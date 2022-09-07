@@ -878,3 +878,4 @@ title: Rust
 - [RustConf 2022 - ASYNC RUST: PAST, PRESENT, AND FUTURE GENERAL by Nick Cameron](https://www.youtube.com/watch?v=tHrvYtPNAHA)
 - [Glacier](https://github.com/rust-lang/glacier) - Repository is used to test internal compiler errors (also known as ICEs) in Rust.
 - [Bryan Cantrill on Rust and the Future of Low-Latency Systems (2022)](https://thenewstack.io/bryan-cantrill-on-rust-and-the-future-of-low-latency-systems/)
+- [RustConf 2022 - YouTube](https://www.youtube.com/playlist?list=PL85XCvVPmGQhXeH3QiYct6eMLH1un1dcu)
