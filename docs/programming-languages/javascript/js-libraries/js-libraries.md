@@ -1011,6 +1011,7 @@
 - [search-index](https://github.com/fergiemcdowall/search-index) - Persistent, network resilient, full text search library for the browser and Node.js.
 - [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
 - [aggregate-error](https://github.com/sindresorhus/aggregate-error) - Create an error from multiple errors.
+- [Lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be.
 
 ## Links
 

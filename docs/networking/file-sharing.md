@@ -120,3 +120,4 @@
 - [kipp](https://github.com/uhthomas/kipp) - Flexible file storage server.
 - [Nasefa](https://github.com/mprimi/nasefa) - Send and receive files using NATS.
 - [Payload](https://payload.app/) - File transfers done right.
+- [secsend](https://github.com/aguinet/secsend) - File-sharing app providing end-to-end encryption of data.

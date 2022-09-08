@@ -55,3 +55,4 @@
 - [Plantarium](https://plant.jim-fx.com/) - Tool for the procedural generation of 3D plants. ([Code](https://github.com/jim-fx/plantarium))
 - [Rant](https://github.com/rant-lang/rant) - Dynamically-typed, multi-paradigm templating language designed primarily for procedural generation.
 - [FunUTD](https://github.com/SamiPerttu/funutd) - 3-D procedural texture library running on the CPU.
+- [Vulkan infinite procedurally generated terrain](https://github.com/SaschaWillems/VulkanInfiniteProceduralTerrain)

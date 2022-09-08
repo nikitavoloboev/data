@@ -246,3 +246,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [sqlite_wasm](https://github.com/mycelial/sqlite_wasm) - SQLite extension for running arbitrary WASM bundles via Wasmtime.
 - [Mycelial](https://mycelial.com/) - Library, synchronize anywhere. Mycelite unifies your Edge and Cloud SQLite instances, peer-to-peer and without any data middleware. ([GitHub](https://github.com/mycelial))
 - [How the SQLite Virtual Machine Works (2022)](https://fly.io/blog/sqlite-virtual-machine/) ([HN](https://news.ycombinator.com/item?id=32750676))
+- [Marmot](https://github.com/maxpert/marmot) - Distributed SQLite replicator.

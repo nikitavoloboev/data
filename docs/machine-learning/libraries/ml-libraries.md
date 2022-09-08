@@ -386,3 +386,4 @@ title: ML Libraries
 - [TorchPQ](https://github.com/DeMoriarty/TorchPQ) - Efficient implementations of Product Quantization and its variants using Pytorch and CUDA.
 - [Mjx](https://github.com/mjx-project/mjx) - Framework for Mahjong AI research.
 - [LibMTL](https://github.com/median-research-group/LibMTL) - PyTorch Library for Multi-Task Learning.
+- [FEDOT](https://github.com/nccr-itmo/FEDOT) - Automated modeling and machine learning framework.

@@ -66,3 +66,4 @@ title: ESLint
 - [The most important ESLint rule: max-params](https://dev.to/gajus/the-most-important-eslint-rule-max-params-349l)
 - [Griko Nibras's ESLint config](https://github.com/grikomsn/style-guide)
 - [Codely's ESLint](https://github.com/CodelyTV/eslint-config-codely)
+- [eslint-plugin-boundaries](https://github.com/javierbrea/eslint-plugin-boundaries) - Eslint plugin checking architecture boundaries between elements.

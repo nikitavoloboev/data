@@ -580,3 +580,4 @@ title: Linux
 - [ply](https://github.com/iovisor/ply) - Dynamic Tracing in Linux.
 - [This Program is Illegally Packaged in 14 Distributions (2022)](https://artemis.sh/2022/08/21/this-program-is-illegally-packaged-in-14-distributions.html) ([Lobsters](https://lobste.rs/s/sst8cj/this_program_is_illegally_packaged_14))
 - [The quantum state of Linux kernel garbage collection (2022)](https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html)
+- [Defeating eBPF Uprobe Monitoring (2022)](https://blog.quarkslab.com/defeating-ebpf-uprobe-monitoring.html)

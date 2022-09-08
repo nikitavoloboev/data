@@ -80,3 +80,4 @@ title: Protocol buffers
 - [Protobuf-ES](https://github.com/bufbuild/protobuf-es) - Complete implementation of Protocol Buffers in TypeScript, suitable for web browsers and Node.js.
 - [Protoscope](https://github.com/protocolbuffers/protoscope) - Simple, human-editable language for representing and emitting the Protobuf wire format.
 - [Faster Protocol Buffers (2019)](https://blog.najaryan.net/posts/partial-protobuf-encoding/)
+- [Protocol Buffers Language Details](https://github.com/bufbuild/protobuf.com)

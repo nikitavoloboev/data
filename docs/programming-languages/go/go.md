@@ -845,3 +845,5 @@ if err != nil {
 - [Bill Kennedy - Practical Memory Profiling (2022)](https://www.youtube.com/watch?v=6qAfkJGWsns)
 - [GopherCon Europe: Berlin 2022 - YouTube](https://www.youtube.com/playlist?list=PLtoVuM73AmsJjj5tnZ7BodjN_zIvpULSx)
 - [Vulnerability Management for Go (2022)](https://go.dev/blog/vuln) ([HN](https://news.ycombinator.com/item?id=32737886))
+- [Go Developer Survey 2022 Q2 Results](https://go.dev/blog/survey2022-q2-results) ([HN](https://news.ycombinator.com/item?id=32767287))
+- [mkctr](https://github.com/tailscale/mkctr) - Cross platform container builder for go.

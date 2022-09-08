@@ -94,3 +94,4 @@
 - [pykorm](https://github.com/Frankkkkk/pykorm) - Python Kubernetes Object-relational mapping (ORM).
 - [Helmwave](https://github.com/helmwave/helmwave) - Helm-native tool for deploy your Helm Charts. Like docker-compose for helm.
 - [helm-secrets](https://github.com/jkroepke/helm-secrets) - Helm plugin that help manage secrets with Git workflow and store them anywhere.
+- [controller-idioms](https://github.com/authzed/controller-idioms) - Generic libraries for building idiomatic Kubernetes controllers.

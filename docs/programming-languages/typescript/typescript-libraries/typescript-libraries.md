@@ -609,6 +609,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Schematized](https://github.com/ryparker/schematized) - Turn objects into JSON schemas! The more examples you provide, the better your schema will be.
 - [JSON-Schema-to-Zod](https://github.com/StefanTerdell/json-schema-to-zod) - Simple CLI tool to convert JSON schema objects or files into Zod schemas.
 - [Crux](https://github.com/andyjessop/crux) - System for building web apps that are designed to be small, fast, and decoupled.
+- [packrup](https://github.com/harlan-zw/packrup) - Simple utils to pack (and unpack) arrays and strings to a flat object.
 
 ## Links
 

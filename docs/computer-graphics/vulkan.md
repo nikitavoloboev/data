@@ -95,3 +95,4 @@ title: Vulkan API
 - [Vookoo](https://github.com/andy-thomason/Vookoo) - Set of dependency-free utilities to assist in the construction and updating of Vulkan graphics data structures.
 - [Vulkan Tutorial in Zig](https://github.com/Vulfox/vulkan-tutorial-zig)
 - [vk-mem-alloc-rs](https://github.com/ProjectKML/vk-mem-alloc-rs) - Lightweight wrapper around the Vulkan Memory Allocator.
+- [Mesh Shading for Vulkan (2022)](https://www.khronos.org/blog/mesh-shading-for-vulkan) ([HN](https://news.ycombinator.com/item?id=32766728))
