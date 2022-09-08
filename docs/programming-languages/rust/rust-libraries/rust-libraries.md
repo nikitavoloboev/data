@@ -1102,7 +1102,7 @@
 - [jlrs](https://github.com/Taaitaaiger/jlrs) - Julia bindings for Rust.
 - [json_typegen](https://github.com/evestera/json_typegen) - Rust types from JSON samples.
 - [pathfinding](https://github.com/samueltardieu/pathfinding) - Implements several pathfinding, flow, and graph algorithms in Rust.
-- [bstr](https://github.com/BurntSushi/bstr) - String type for Rust that is not required to be valid UTF-8. ([Article](https://blog.burntsushi.net/bstr/))
+- [bstr](https://github.com/BurntSushi/bstr) - String type for Rust that is not required to be valid UTF-8. ([Article](https://blog.burntsushi.net/bstr/)) ([HN](https://news.ycombinator.com/item?id=32762345))
 - [cron](https://github.com/zslayton/cron) - Cron expression parser in Rust.
 - [Lelet](https://github.com/win-t/lelet) - Task executor that inspired by golang runtime.
 - [relibc](https://github.com/redox-os/relibc) - Portable POSIX C standard library written in Rust. It is under heavy development, and currently supports Redox and Linux.
@@ -2129,6 +2129,8 @@
 - [Particular](https://github.com/Canleskis/particular) - Simple, parallel N-body simulation library written in Rust.
 - [Peapod](https://github.com/fprasx/peapod) - Ultra-compact storage for enums.
 - [merge-streams](https://github.com/phil-opp/merge-streams) - Merge multiple streams into one.
+- [bzip2-rs](https://github.com/paolobarbolini/bzip2-rs) - Pure Rust bzip2 decoder.
+- [rusty-s3](https://github.com/paolobarbolini/rusty-s3) - Simple pure Rust AWS S3 Client following a Sans-IO approach.
 
 ## Cargo Plugins
 

@@ -1793,6 +1793,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Unified Policy Engine](https://github.com/snyk/policy-engine)
 - [go-async](https://github.com/41north/go-async) - Collection of utilities for async code in Go.
 - [PostHog Go](https://github.com/PostHog/posthog-go) - Official PostHog Go library.
+- [TinyGo Lunatic](https://github.com/alecthomas/lunatic-go) - TinyGo bindings for Lunatic.
 
 ## Links
 

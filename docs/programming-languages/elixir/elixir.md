@@ -174,3 +174,4 @@
 - [Elixir Livebook now as a desktop app](https://news.livebook.dev/introducing-the-livebook-desktop-app-4C8dpu) ([HN](https://news.ycombinator.com/item?id=32320531))
 - [Air quality station built with Elixir (2022)](https://cmdarek.com/pages/air-quality-station.html)
 - [How to speed up your Elixir compile times (2022)](https://medium.com/multiverse-tech/how-to-speed-up-your-elixir-compile-times-part-1-understanding-elixir-compilation-64d44a32ec6e)
+- [Elixir Secure Coding Training](https://github.com/podium/elixir-secure-coding)

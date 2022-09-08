@@ -65,3 +65,4 @@
 - [Character encoding and UTF-8 (2022)](https://blog.fredrb.com/2022/07/31/character-encoding-utf8/) ([HN](https://news.ycombinator.com/item?id=32299965))
 - [Type of Barcodes and Their Usage](https://scanbot.io/blog/types-of-barcodes/) ([HN](https://news.ycombinator.com/item?id=32591356))
 - [Unicode Character Search](https://macleod.io/unicode/) - Search for Unicode Characters by name, codepoint or text. ([Code](https://github.com/Alexendoo/unicode-search))
+- [Understanding Big Data File Formats (2022)](https://www.vladsiv.com/big-data-file-formats/)

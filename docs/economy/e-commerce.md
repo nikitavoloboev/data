@@ -166,3 +166,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Shopify API](https://github.com/Shopify/shopify_python_api) - Library allows Python developers to programmatically access the admin section of stores.
 - [Openship](https://openship.org/) - Scale your e-commerce operations by using multi-channel fulfillment. Open-source Amazon. ([HN](https://news.ycombinator.com/item?id=32690410)) ([Code](https://github.com/openshiporg/openship))
 - [Shopify App Template (Node) with TypeScript](https://github.com/kanzitelli/shopify-app-template-typescript)
+- [Looria](https://looria.com/) - Finds and analyzes trusted product reviews.

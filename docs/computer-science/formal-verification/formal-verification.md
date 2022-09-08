@@ -137,3 +137,4 @@ title: Formal verification
 - [Q\*Cert](https://github.com/querycert/qcert) - Compilation and Verification of Data-Centric Languages.
 - [MLIR-TV](https://github.com/aqjune/mlir-tv) - Translation validation framework for MLIR.
 - [Safety and Liveness Properties (2022)](https://www.hillelwayne.com/post/safety-and-liveness/)
+- [The Hitchhiker’s Guide to Logical Verification](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)

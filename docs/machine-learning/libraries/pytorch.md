@@ -437,3 +437,4 @@ title: PyTorch
 - [Bgflow](https://github.com/noegroup/bgflow) - Boltzmann Generators and Normalizing Flows in PyTorch.
 - [Frechet Audio Distance in PyTorch](https://github.com/gudgud96/frechet-audio-distance)
 - [Satellite Cloud Generator](https://github.com/cidcom/SatelliteCloudGenerator) - PyTorch-based tool to generate clouds for satellite images.
+- [bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit CUDA functions for PyTorch.

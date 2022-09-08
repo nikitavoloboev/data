@@ -247,3 +247,4 @@ title: Spatial analysis
 - [Maps.earth](https://about.maps.earth/) - Free and open-source web maps. ([HN](https://news.ycombinator.com/item?id=32551273))
 - [GeoPolars](https://github.com/geopolars/geopolars) - Geospatial extensions for Polars.
 - [Improved Galileo Time to First Fix (2022)](https://berthub.eu/articles/posts/improved-galileo-fix-time/)
+- [nakarte.me](https://nakarte.me/) ([Code](https://github.com/wladich/nakarte))

@@ -879,3 +879,5 @@ title: Rust
 - [Glacier](https://github.com/rust-lang/glacier) - Repository is used to test internal compiler errors (also known as ICEs) in Rust.
 - [Bryan Cantrill on Rust and the Future of Low-Latency Systems (2022)](https://thenewstack.io/bryan-cantrill-on-rust-and-the-future-of-low-latency-systems/)
 - [RustConf 2022 - YouTube](https://www.youtube.com/playlist?list=PL85XCvVPmGQhXeH3QiYct6eMLH1un1dcu)
+- [Tachyon](https://github.com/hkmatsumoto/tachyon) - Rust compiler backend focused on compilation speed.
+- [Lightly organized personal notes about Rust](https://github.com/brson/my-rust-lists)

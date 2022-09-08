@@ -135,3 +135,4 @@ title: LLVM
 - [LLVM on iOS](https://github.com/light-tech/LLVM-On-iOS) - How to use LLVM + Clang to provide an iOS app with some scripting capability.
 - [Swift Bindings for LLVM](https://github.com/apple/swift-llvm-bindings)
 - [LLVM Discussion Forums](https://discourse.llvm.org/)
+- [LLVM crash analyzer](https://github.com/cisco-open/llvm-crash-analyzer)

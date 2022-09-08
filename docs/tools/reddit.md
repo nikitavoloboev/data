@@ -86,3 +86,4 @@ title: Reddit
 - [tgreddit](https://github.com/raine/tgreddit) - Get a feed of your favorite subreddits to Telegram.
 - [Bettit](https://bettit.net/) - Better way to archive Reddit threads. ([Code](https://github.com/ilmari-h/bettit))
 - [Scraping Reddit with Akka Streams](https://github.com/inanna-malick/akka-streams-example)
+- [Reddit's Favorite Products in One Place](https://looria.com/reddit/overview) ([HN](https://news.ycombinator.com/item?id=32764495))

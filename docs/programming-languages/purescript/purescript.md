@@ -14,6 +14,7 @@ title: PureScript
 - [Halogen](https://github.com/purescript-halogen/purescript-halogen) - Declarative, type-safe UI library for PureScript.
 - [Real World Halogen](https://github.com/thomashoneyman/purescript-halogen-realworld) - Exemplary real world application built with PureScript + Halogen. ([Web](https://thomashoneyman.com/guides/real-world-halogen/))
 - [spago](https://github.com/purescript/spago) - PureScript package manager and build tool powered by Dhall and package-sets.
+- [spaghetto](https://github.com/f-f/spaghetto) - Next iteration of Spago.
 - [Spago2Nix](https://github.com/justinwoo/spago2nix) - Generate a derivation of Spago dependencies, and use them to install them into the directory structure used by Spago.
 - [PUX](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript.
 - [Functional Programming for the Web: PureScript Foreign Import and DOM Events (2020)](https://medium.com/@KevinBGreene/functional-programming-for-the-web-purescript-foreign-import-and-dom-events-8c76f6f5a16e)
@@ -61,3 +62,4 @@ title: PureScript
 - [purescript-ssrs](https://github.com/PureFunctor/purescript-ssrs) - Stack-safe recursion schemes on dissectible data structures.
 - [PsKt](https://github.com/csicar/pskt) - Kotlin-backend for PureScript.
 - [PureScript-Elmish](https://github.com/collegevine/purescript-elmish) - PureScript implementation of The Elm Architecture.
+- [PureScript-tsd-gen](https://github.com/minoki/purescript-tsd-gen) - TypeScript Declaration File (.d.ts) generator for PureScript.

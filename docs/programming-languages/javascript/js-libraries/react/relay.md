@@ -46,3 +46,4 @@ Looking into using [Relay with Next.js](https://github.com/RevereCRE/relay-nextj
 - [Relay and Data-Driven Dependencies](https://github.com/sync/data-driven-dependencies-ts)
 - [VSCode ReScript Relay](https://github.com/zth/vscode-rescript-relay) - Improve quality-of-life of using RescriptRelay with VSCode.
 - [Next.js + Relay + Streaming](https://github.com/wvanrensselaer/nextjs-relay-streaming)
+- [Create-Relay-App](https://github.com/tobias-tengler/create-relay-app) - Relay setup automation for CRA, Next.js and Vite.

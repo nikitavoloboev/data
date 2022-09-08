@@ -15,3 +15,4 @@
 - [Back to India (2022)](https://yugal.me/back-to-india/) ([HN](https://news.ycombinator.com/item?id=30965402))
 - [Which Indian famous personalities you find extremely charismatic and likable? And what make them that according to you? (2022)](https://www.reddit.com/r/india/comments/we40n4/which_indian_famous_personalities_you_find/)
 - [Catalog of resources for Indian language NLP](https://github.com/AI4Bharat/indicnlp_catalog)
+- [India Compliance](https://github.com/resilient-tech/india-compliance) - Simple, yet powerful compliance solutions for Indian businesses.

@@ -149,3 +149,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [How2LaTeX](https://github.com/sleepymalc/How2LaTeX) - Compact guide to help you write professional LaTeX documents.
 - [Implementing a “mini-LaTeX” in ~2000 lines of code (2022)](https://nibblestew.blogspot.com/2022/07/implementing-mini-latex-in-2000-lines.html) ([HN](https://news.ycombinator.com/item?id=32346296))
 - [maTeXt](https://xigoi.srht.site/matext/) - Program and Nim library for rendering LaTeX math as multiline Unicode text. ([Code](https://github.com/xigoi/matext))
+- [Gemini](https://github.com/anishathalye/gemini) - Modern LaTeX beamerposter theme.
