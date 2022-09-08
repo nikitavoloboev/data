@@ -585,6 +585,7 @@
 - [twenty-first](https://github.com/Neptune-Crypto/twenty-first) - Cryptography implementations in Rust.
 - [fastcrypto](https://github.com/MystenLabs/fastcrypto) - Common cryptographic library used in software at Mysten Labs.
 - [fss](https://github.com/ryanleh/fss) - Rust libraries for designing and using functional secret sharing schemes.
+- [fhe.rs](https://github.com/tlepoint/fhe.rs) - Fully Homomorphic Encryption library in Rust.
 
 ## Linux
 
@@ -1101,7 +1102,7 @@
 - [jlrs](https://github.com/Taaitaaiger/jlrs) - Julia bindings for Rust.
 - [json_typegen](https://github.com/evestera/json_typegen) - Rust types from JSON samples.
 - [pathfinding](https://github.com/samueltardieu/pathfinding) - Implements several pathfinding, flow, and graph algorithms in Rust.
-- [bstr](https://github.com/BurntSushi/bstr) - String type for Rust that is not required to be valid UTF-8.
+- [bstr](https://github.com/BurntSushi/bstr) - String type for Rust that is not required to be valid UTF-8. ([Article](https://blog.burntsushi.net/bstr/))
 - [cron](https://github.com/zslayton/cron) - Cron expression parser in Rust.
 - [Lelet](https://github.com/win-t/lelet) - Task executor that inspired by golang runtime.
 - [relibc](https://github.com/redox-os/relibc) - Portable POSIX C standard library written in Rust. It is under heavy development, and currently supports Redox and Linux.
@@ -2127,6 +2128,7 @@
 - [Partial Function](https://github.com/jojolepro/partialfunction) - Clean way to define function as a set of smaller functions where each has defined start and end bounds.
 - [Particular](https://github.com/Canleskis/particular) - Simple, parallel N-body simulation library written in Rust.
 - [Peapod](https://github.com/fprasx/peapod) - Ultra-compact storage for enums.
+- [merge-streams](https://github.com/phil-opp/merge-streams) - Merge multiple streams into one.
 
 ## Cargo Plugins
 

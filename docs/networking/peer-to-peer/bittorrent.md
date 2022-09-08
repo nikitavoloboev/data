@@ -131,3 +131,4 @@ title: BitTorrent
 - [rqbit](https://github.com/ikatson/rqbit) - BitTorrent client in Rust.
 - [Tornado](https://github.com/fraidev/tornado) - BitTorrent client written entirely in OCaml.
 - [Bt-Elixir](https://github.com/wismer/bt-elixir) - Elixir bit torrent.
+- [serde-bencode](https://github.com/toby/serde-bencode) - Serde backed Bencode encoding/decoding library for Rust.

@@ -384,3 +384,5 @@ title: ML Libraries
 - [TinyMaix](https://github.com/sipeed/TinyMaix) - Tiny inference library for microcontrollers (TinyML).
 - [x-unet](https://github.com/lucidrains/x-unet) - Implementation of a U-net complete with efficient attention as well as the latest research findings.
 - [TorchPQ](https://github.com/DeMoriarty/TorchPQ) - Efficient implementations of Product Quantization and its variants using Pytorch and CUDA.
+- [Mjx](https://github.com/mjx-project/mjx) - Framework for Mahjong AI research.
+- [LibMTL](https://github.com/median-research-group/LibMTL) - PyTorch Library for Multi-Task Learning.

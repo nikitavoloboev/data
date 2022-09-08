@@ -66,6 +66,7 @@
 - [Triplex](https://github.com/ateliware/triplex) - Simple and effective way to build multitenant applications on top of Ecto.
 - [Xandra](https://github.com/lexhide/xandra) - Fast, simple, and robust Cassandra driver for Elixir.
 - [Pointers](https://github.com/bonfire-networks/pointers) - One foreign key to rule them all and in the darkness, bind them.
+- [Fly Postgres](https://github.com/superfly/fly_postgres_elixir) - Library for working with local read-replica postgres databases and performing writes through RPC calls to other nodes in the primary Fly.io region.
 
 ## Test
 

@@ -908,3 +908,4 @@
 - [Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution (2022)](https://arxiv.org/abs/2208.03012) ([Code](https://github.com/researchmm/FTVSR))
 - [MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation (2022)](https://arxiv.org/abs/2205.09853) ([Code](https://github.com/voletiv/mcvd-pytorch))
 - [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise (2022)](https://arxiv.org/abs/2208.09392) ([Code](https://github.com/arpitbansal297/Cold-Diffusion-Models))
+- [Flexible Diffusion Modeling of Long Videos (2022)](https://arxiv.org/abs/2205.11495) ([Code](https://github.com/lucidrains/flexible-diffusion-modeling-videos-pytorch))

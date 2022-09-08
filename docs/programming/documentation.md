@@ -7,6 +7,7 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 ## Examples of nice docs
 
 - [Linear Guide](https://linear.app/docs)
+- [PostHog Docs](https://posthog.com/docs)
 - [React Docs](https://beta.reactjs.org/)
 - [Netlify Docs](https://docs.netlify.com/)
 - [Vue Docs](https://vuejs.org/) ([Code](https://github.com/vuejs/docs))

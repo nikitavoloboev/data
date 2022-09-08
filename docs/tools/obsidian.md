@@ -187,6 +187,7 @@ div.CodeMirror-cursor,
 - [Commander](https://github.com/phibr0/obsidian-commander) - Obsidian Plugin | Add Commands to every part of Obsidian's user interface.
 - [Table Enhancer](https://github.com/Stardusten/ob-table-enhancer) - Plugin for improving the experience of using table in Obsidian.
 - [Waypoint](https://github.com/IdreesInc/Waypoint) - Automatic Table of Contents Generator.
+- [Icon Folder](https://github.com/FlorianWoelki/obsidian-icon-folder) - Simply add icons to your folders or files in Obsidian.
 
 ## Themes
 

@@ -60,3 +60,4 @@ title: Cypress
 - [Cypress ODiff](https://github.com/odai-alali/cypress-odiff) - Plugin for adding visual regression test to Cypress using ODiff The fastest pixel-by-pixel image visual difference tool in the world.
 - [Laziness](https://github.com/imteekay/laziness) - Set of tools for a better developer experience.
 - [cypress-fail-on-console-error](https://github.com/nils-hoyer/cypress-fail-on-console-error) - Observes console.error() function from window object. Cypress test will fail when the error function gets executed.
+- [Rewriting tests from Cypress to Playwright using GPT3](https://contra.com/p/PWBcPYZc-rewriting-tests-from-cypress-to-playwright-using-gpt-3)

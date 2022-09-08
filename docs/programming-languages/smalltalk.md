@@ -59,3 +59,4 @@ title: Smalltalk
 - [Slang](http://wiki.squeak.org/squeak/slang) - Subset of Smalltalk that can translate to C or other languages. ([HN](https://news.ycombinator.com/item?id=32262921))
 - [Smalltalk and Exploratory Programming (1988)](https://dl.acm.org/doi/10.1145/51607.51614)
 - [Making Smalltalk](https://computerhistory.org/events/making-smalltalk/)
+- [Smalltalk-72 Instruction Manual](http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/parc/techReports/Smalltalk-72_Instruction_Manual_Mar76.pdf)

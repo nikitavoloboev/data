@@ -521,3 +521,4 @@ I want to:
 - [I wish I could organize my thoughts (2022)](https://drewdevault.com/2022/08/10/Organizing-my-thoughts.html) ([HN](https://news.ycombinator.com/item?id=32427588))
 - [Ask HN: How do you plan to archive all your digital content? (2022)](https://news.ycombinator.com/item?id=32662026)
 - [Notesnook](https://notesnook.com/) - Open source & end-to-end encrypted note taking alternative to Evernote. ([Code](https://github.com/streetwriters/notesnook)) ([HN](https://news.ycombinator.com/item?id=32708019))
+- [Khoj](https://github.com/debanjum/khoj) - Natural language search engine for your personal notes, transactions and images.

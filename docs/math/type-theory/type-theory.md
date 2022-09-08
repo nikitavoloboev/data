@@ -217,3 +217,4 @@ title: Type Theory
 - [Implementation of type inference for System F in Scala 3](https://github.com/atennapel/systemf-scala)
 - [Why Duck Typing Is Safe (2020)](http://www.jerf.org/iri/post/2954)
 - [Setoid type theory implementation](https://github.com/AndrasKovacs/sett)
+- [Trebor](https://github.com/Guest0x0/trebor) - Implementation of Observational Type Theory (OTT) and more.

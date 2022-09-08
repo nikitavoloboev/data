@@ -806,3 +806,4 @@ title: Kubernetes
 - [Visual Argo Workflows](https://github.com/corpulent/visual-argo-workflows) - Drag and drop Argo Workflows tool.
 - [Open-Simulator](https://github.com/alibaba/open-simulator) - Cluster simulator for Kubernetes.
 - [The Book of Kubernetes (2022)](https://nostarch.com/book-kubernetes)
+- [kubectl-watch](https://github.com/imuxin/kubectl-watch) - Watch tool with visualization view of delta change for kubectl.

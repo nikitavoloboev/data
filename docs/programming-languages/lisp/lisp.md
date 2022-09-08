@@ -206,3 +206,4 @@
 - [An Intuition for Lisp Syntax](https://stopa.io/post/265) ([Lobsters](https://lobste.rs/s/ppzcka/intuition_for_lisp_syntax))
 - [Pureli](https://github.com/soupi/pureli) - Purely functional, dynamically typed, parallel evaluated Lisp-like programming language.
 - [tiny-lisp](https://github.com/matp/tiny-lisp) - Small implementation of LISP, written in standard C11.
+- [Kamby](https://github.com/henriquegogo/kamby) - Lisp dialect with some conventions to create a language more intuitive and compact. ([Web](https://kamby.org/)) ([HN](https://news.ycombinator.com/item?id=32761113))

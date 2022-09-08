@@ -16,3 +16,7 @@
 - [Alisa Sayapina](https://www.instagram.com/sayapski/)
 - [Jon Black](https://www.instagram.com/jon._.black/)
 - [Jerome](https://www.instagram.com/sztuka_wojny/)
+
+## Links
+
+- [TattoosAI](https://www.tattoosai.com/) - AI-powered tattoo artist, using Stable Diffusion. ([HN](https://news.ycombinator.com/item?id=32761238))

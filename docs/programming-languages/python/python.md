@@ -533,3 +533,4 @@ for i, _ in enumerate(nums):
 - [Using Mypy in Production](https://notes.crmarsh.com/using-mypy-in-production-at-spring) ([HN](https://news.ycombinator.com/item?id=32556816))
 - [Python multi-level break and continue](https://lwn.net/SubscriberLink/906512/27b609f844d04f68/) ([HN](https://news.ycombinator.com/item?id=32691526))
 - [Building a Distributed Task Queue in Python (2022)](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python) ([HN](https://news.ycombinator.com/item?id=32730038))
+- [You Can Build Portable Binaries of Python Applications (2022)](https://hynek.me/til/python-portable-binaries/)

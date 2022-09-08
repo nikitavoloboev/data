@@ -249,6 +249,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Kerf](https://github.com/kevinlawler/kerf1) - Columnar tick database and time-series language for Linux/OSX/BSD/iOS/Android.
 - [AnnaDB](https://github.com/roman-right/AnnaDB) - Next-generation developer-first NoSQL database.
 - [StarRocks](https://github.com/StarRocks/starrocks) - Next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query. ([Web](https://starrocks.com/index))
+- [TuGraph](https://github.com/TuGraph-db/tugraph-db) - Efficient graph database that supports high data volume, low latency lookup and fast graph analytics.
 
 ## Tools
 

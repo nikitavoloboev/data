@@ -171,3 +171,4 @@ title: Django
 - [Pellet](https://github.com/har777/pellet) - Helps improve your Django app performance by discovering N+1 queries.
 - [Dataloaders for Django and Strawberry](https://github.com/VojtechPetru/strawberry-django-dataloaders)
 - [Django + htmx patterns](https://github.com/spookylukey/django-htmx-patterns)
+- [Django RQ Scheduler](https://github.com/dsoftwareinc/django-rq-scheduler) - Database backed job scheduler for Django RQ with Django.

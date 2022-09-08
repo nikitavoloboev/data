@@ -600,6 +600,7 @@
 
 ## DB
 
+- [Lighter](https://github.com/Lighter-swift/Lighter) - Swift APIs for SQLite: Type-safe down to the schema. Very, very, fast. Dependency free.
 - [SwiftSQL](https://github.com/kean/SwiftSQL) - Swift API for SQLite.
 - [ActiveSQLite](https://github.com/KevinZhouRafael/ActiveSQLite) - Helper of SQLite.Swift. It can let you use SQLite.swift easily.
 - [PostgresKit](https://github.com/vapor/postgres-kit) - Non-blocking, event-driven Swift client for PostgreSQL.

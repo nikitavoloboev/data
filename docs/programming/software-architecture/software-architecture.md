@@ -265,3 +265,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Ask HN: Is my software stack choice sound? (2022)](https://news.ycombinator.com/item?id=32331461)
 - [What do you use to visualize your infrastructure? (2022)](https://www.reddit.com/r/devops/comments/wkd2fd/what_do_you_use_to_visualize_your_infrastructure/)
 - [Architecture Notes](https://architecturenotes.co/) - System Design & Software Architectures Explained.
+- [System Design Course](https://github.com/karanpratapsingh/system-design)

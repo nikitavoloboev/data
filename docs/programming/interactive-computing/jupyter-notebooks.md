@@ -219,3 +219,4 @@ title: Jupyter Notebooks
 - [Jupyter Notebook Viewer](https://github.com/jupyter/nbviewer) - Render Jupyter Notebooks as static web pages.
 - [nbproject](https://github.com/laminlabs/nbproject) - Manage Jupyter notebooks.
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) - Hatch plugin to help build Jupyter packages.
+- [Making the Best of Jupyter](https://github.com/NirantK/best-of-jupyter)

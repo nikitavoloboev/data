@@ -120,3 +120,4 @@ title: Ray tracing
 - [Path tracer in rust](https://github.com/coreylowman/teeracer)
 - [Ray tracing in one weekend, in Rust](https://github.com/fralken/ray-tracing-in-one-weekend)
 - [NanoRT](https://github.com/lighttransport/nanort) - Single header only modern ray tracing kernel.
+- [Monte Carlo Ray Tracer](https://github.com/linusmossberg/monte-carlo-ray-tracer) - Physically based renderer with Path Tracing and Photon Mapping.

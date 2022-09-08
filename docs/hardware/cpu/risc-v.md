@@ -187,3 +187,4 @@ title: RISC-V
 - [Intro to GCC bootstrap in RISC-V (2022)](https://ekaitz.elenq.tech/bootstrapGcc0.html)
 - [PsPIN](https://github.com/spcl/pspin) - RISC-V in-network accelerator for flexible high-performance low-power packet processing.
 - [Minimal operating system (2K LOC) on a small RISC-V board](https://github.com/yhzhang0128/egos-2000)
+- [ztachip](https://github.com/ztachip/ztachip) - RISCV accelerator for vision and AI edge applications running on low-end FPGA devices or custom ASIC.
