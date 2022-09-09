@@ -334,3 +334,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [NixVim](https://github.com/pta2002/nixvim) - Configure Neovim with Nix.
 - [Neovim - Build UI using nui.nvim (2021)](https://muniftanjim.dev/blog/neovim-build-ui-using-nui-nvim/)
 - [lua-dev](https://github.com/folke/lua-dev.nvim) - Dev setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
+- [Maddison's Neovim configuration](https://github.com/b0o/nvim-conf)

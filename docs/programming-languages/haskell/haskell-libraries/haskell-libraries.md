@@ -362,6 +362,7 @@
 - [mono-traversable](https://github.com/snoyberg/mono-traversable) - Type classes for mapping, folding, and traversing monomorphic containers.
 - [hegg](https://github.com/alt-romes/hegg) - Fast equality saturation in Haskell.
 - [SILI](https://github.com/alt-romes/slfl) - Synthesis of Functional Linear Programs.
+- [type-level-json](https://github.com/dmjio/type-level-json) - RFC 8259 compliant parser for JSON, within the Haskell type system.
 
 ## Notes
 

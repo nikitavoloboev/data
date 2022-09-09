@@ -101,3 +101,4 @@ title: TCP
 - [speedbump](https://github.com/kffl/speedbump) - TCP proxy for simulating variable network latency. ([HN](https://news.ycombinator.com/item?id=32292973))
 - [TCP over HTTP](https://github.com/julianbuettner/tcp-over-http) - TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy.
 - [unproxy](https://github.com/losfair/unproxy) - Map TCP services behind an HTTP(S) proxy to local ports.
+- [mixctl](https://github.com/inlets/mixctl) - Tiny TCP load balancer.

@@ -107,3 +107,4 @@ title: Vite
 - [Getting Started with Vitest](https://www.vuemastery.com/blog/getting-started-with-vitest/) ([HN](https://news.ycombinator.com/item?id=32416783))
 - [Vite Plugin Validate ENV](https://github.com/Julien-R44/vite-plugin-validate-env) - Vite plugin for validating your environment variables.
 - [ViteConf](https://viteconf.org/) ([Twitter](https://twitter.com/ViteConf))
+- [Vite Lightning CSS Plugin](https://github.com/lawrencecchen/vite-plugin-lightningcss)

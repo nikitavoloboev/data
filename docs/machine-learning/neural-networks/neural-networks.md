@@ -1,6 +1,6 @@
 # Neural networks
 
-[Building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0) is great video.
+[Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) is great intro. [Building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0) is fascinating too.
 
 ## Notes
 

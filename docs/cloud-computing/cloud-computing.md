@@ -128,3 +128,4 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Use one big server (2022)](https://specbranch.com/posts/one-big-server/) ([HN](https://news.ycombinator.com/item?id=32319147)) ([Lobsters](https://lobste.rs/s/yimhoy/use_one_big_server))
 - [Why is Snowflake so expensive (2022)](https://blog.devgenius.io/why-is-snowflake-so-expensive-92b67203945) ([HN](https://news.ycombinator.com/item?id=32551212))
 - [Tell HN: Heroku alternatives with generous free tiers (2022)](https://news.ycombinator.com/item?id=32599398)
+- [Compute Cost Calculator](https://compute-cost.com/) - Finds the lowest price of compute resources from different services.

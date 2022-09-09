@@ -32,3 +32,4 @@
 - [The Man behind Stable Diffusion (2022)](https://www.youtube.com/watch?v=YQ2QtKcK2dA)
 - [Inpainting](https://inpainter.vercel.app/) - Web GUI for inpainting with Stable Diffusion using the Replicate API. ([Code](https://github.com/zeke/inpainter))
 - [Dreambooth on Stable Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
+- [Japanese Stable Diffusion](https://github.com/rinnakk/japanese-stable-diffusion)

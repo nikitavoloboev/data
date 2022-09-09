@@ -536,3 +536,4 @@ for i, _ in enumerate(nums):
 - [You Can Build Portable Binaries of Python Applications (2022)](https://hynek.me/til/python-portable-binaries/)
 - [Accelerate Python code by importing Taichi (2022)](https://docs.taichi-lang.org/blog/accelerate-python-code-100x) ([HN](https://news.ycombinator.com/item?id=32767338))
 - [Functional Python, Part I: Typopædia Pythonica (2022)](https://www.tweag.io/blog/2022-09-08-fp1-typopaedia-pythonica/)
+- [Python Type Hints are Turing Complete (2022)](https://arxiv.org/abs/2208.14755)

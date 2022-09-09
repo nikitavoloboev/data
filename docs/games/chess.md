@@ -236,3 +236,4 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Magnus Carlsen: Greatest Chess Player of All Time (2022)](https://www.youtube.com/watch?v=0ZO28NtkwwQ)
 - [Cheating at chess with a computer for my shoes (2022)](https://incoherency.co.uk/blog/stories/sockfish.html) ([HN](https://news.ycombinator.com/item?id=32729105)) ([Lobsters](https://lobste.rs/s/k3r78n/cheating_at_chess_with_computer_for_my))
 - [Killer Chess Training Forum](https://forum.killerchesstraining.com/)
+- [Botez Sisters: Chess, Streaming, and Fame (2022)](https://www.youtube.com/watch?v=srUlKNLZTas)
