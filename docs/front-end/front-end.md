@@ -111,3 +111,4 @@
 - [whyframe](https://whyframe.dev/) - Develop components in isolation. ([Code](https://github.com/bluwy/whyframe))
 - [Client-side Rendering](https://github.com/theninthsky/client-side-rendering) - Case study of CSR, it aims to explore the potential of client-side rendered apps compared to server-side rendering.
 - [How to handle spacing at scale (2022)](https://medium.com/creating-totallymoney/how-to-handle-spacing-at-scale-307e8e838da)
+- [Building mico-frontends with edge workers (2022)](https://www.youtube.com/watch?v=VR9vyOtMtnI)

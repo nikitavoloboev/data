@@ -414,3 +414,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Webhooks.fyi](https://webhooks.fyi/)
 - [There are NP-Hard Problems in API Engineering](https://lukasschwab.me/blog/gen/graphs-at-work)
 - [YouTube-Internal-Clients](https://github.com/zerodytrash/YouTube-Internal-Clients) - Python script that discovers hidden YouTube API clients.
+- [OpenAPI Scraper](https://github.com/sgraaf/openapi-scraper) - Track changes to RESTful APIs by git scraping their OpenAPI descriptions.

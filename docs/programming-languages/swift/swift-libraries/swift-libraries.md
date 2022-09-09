@@ -1320,3 +1320,4 @@
 - [Uncompressing Folders in Swift](https://quindarius.com/articles/uncompressing-folders-in-swift/index.html)
 - [Add test data to SPM packages (2021)](https://alexanderweiss.dev/blog/2021-05-15-add-test-data-to-spm-packages)
 - [Async Composable Architecture (2022)](https://www.pointfree.co/blog/posts/79-async-composable-architecture)
+- [Learn how to use Core Data CloudKit](https://github.com/delawaremathguy/CoreDataCloudKitShare)

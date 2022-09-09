@@ -300,3 +300,5 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Fresh with Signals](https://github.com/lucacasonato/fresh-with-signals) - Using @preact/signals in Fresh.
 - [Fresh 1.1 – Automatic JSX, plugins, DevTools, and more (2022)](https://deno.com/blog/fresh-1.1)
 - [Bundler](https://github.com/timreichen/Bundler) - Deno bundler with web in mind.
+- [network](https://github.com/decharm/network) - Networking framework that aims to enable the development of complex multi-port servers and clients.
+- [Tui](https://github.com/Im-Beast/deno_tui) - Deno module for creating Terminal User Interfaces.

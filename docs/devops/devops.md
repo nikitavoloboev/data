@@ -207,3 +207,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [multi-semantic-release](https://github.com/dhoulb/multi-semantic-release) - Proof of concept that wraps semantic-release to work with monorepos.
 - [Coder](https://coder.com/) - Remote development on your infrastructure. ([Awesome](https://github.com/coder/awesome-coder))
 - [DevOps RoadMap](https://twitter.com/javinpaul/status/1567018709507796993)
+- [Gru](https://github.com/dnaeon/gru) - Fast and concurrent orchestration framework powered by Go and Lua, which allows you to manage your UNIX/Linux systems with ease.

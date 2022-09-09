@@ -54,3 +54,4 @@
 - [Welcome to the M1 Windows project](https://amarioguy.github.io/m1windowsproject/) ([HN](https://news.ycombinator.com/item?id=31657591))
 - [Ask HN: Has anyone here worked on the Windows kernel? (2022)](https://news.ycombinator.com/item?id=32076677)
 - [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater)
+- [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Deep Packet Inspection circumvention utility (for Windows).

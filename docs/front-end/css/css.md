@@ -550,3 +550,4 @@ all: unset
 - [Parents counting children in CSS (2022)](https://www.matuzo.at/blog/2022/counting-children/)
 - [ress](https://github.com/filipelinhares/ress) - Modern CSS reset.
 - [Modern alternatives to BEM (2022)](https://daverupert.com/2022/08/modern-alternatives-to-bem/) ([Tweet](https://twitter.com/slightlylate/status/1566860991891025920))
+- [Lightning CSS](https://lightningcss.dev/) - Extremely fast CSS parser, transformer, bundler, and minifier written in Rust. ([Tweet](https://twitter.com/devongovett/status/1567898042787049473)) ([Twitter](https://twitter.com/lightningcss))

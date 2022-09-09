@@ -395,3 +395,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [canvas2video](https://github.com/pankod/canvas2video) - Backend solution for creating and rendering dynamic videos.
 - [Incredible](https://github.com/IncredibleDevHQ/Incredible) - Drastically simplifies creation of developer video content. It offers a unified workflow to storyboard, record, collaborate and produce the video.
 - [HandBrake](https://handbrake.fr/) - Open Source Video Transcoder.
+- [Liquidsoap](https://github.com/savonet/liquidsoap) - Audio and video streaming language. ([Web](https://www.liquidsoap.info/))

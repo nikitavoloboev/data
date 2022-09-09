@@ -308,3 +308,4 @@
 - [Normalization effects on deep neural networks (2022)](https://arxiv.org/abs/2209.01018)
 - [Delphi](https://github.com/mc2-project/delphi) - Python, C++, and Rust library for Secure Deep Neural Network Inference.
 - [Game Emulation via Neural Network (2022)](https://madebyoll.in/posts/game_emulation_via_dnn/)
+- [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero)

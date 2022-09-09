@@ -881,3 +881,4 @@ title: Rust
 - [RustConf 2022 - YouTube](https://www.youtube.com/playlist?list=PL85XCvVPmGQhXeH3QiYct6eMLH1un1dcu)
 - [Tachyon](https://github.com/hkmatsumoto/tachyon) - Rust compiler backend focused on compilation speed.
 - [Lightly organized personal notes about Rust](https://github.com/brson/my-rust-lists)
+- [Attacking Firecracker: AWS' microVM Monitor Written in Rust (2022)](https://www.graplsecurity.com/post/attacking-firecracker)

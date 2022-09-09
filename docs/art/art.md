@@ -345,6 +345,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Nishe](https://www.flickr.com/photos/nishe/)
 - [Lizzy Gadd](https://www.instagram.com/elizabethgadd/)
 - [Ines Rehberger](https://www.flickr.com/photos/inesrehbergerphotography/)
+- [Philipp Urlich](https://www.instagram.com/philippurlich/) ([Web](https://urlich.art/))
 - [Kyle Thompson](https://www.instagram.com/kylejthompson/)
 - [Alex Currie](https://www.instagram.com/alex.currie/)
 - [Weronika Izdebska](https://www.instagram.com/ovors/)

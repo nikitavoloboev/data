@@ -161,3 +161,4 @@ I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mear
 - [Ask HN: Is living in NYC worth it? (2022)](https://news.ycombinator.com/item?id=32373392)
 - [H1B rejected – builds unicorn back home](https://news.ycombinator.com/item?id=32563949)
 - [US Congress Wiki](https://congress.wiki/)
+- [Congress.gov API](https://api.congress.gov/) ([HN](https://news.ycombinator.com/item?id=32770058))

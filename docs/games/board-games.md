@@ -56,3 +56,4 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [What's a game you've been on the fence about buying? (2022)](https://www.reddit.com/r/boardgames/comments/vyymye/whats_a_game_youve_been_on_the_fence_about_buying/)
 - [How to Get into Tabletop RPGs](https://www.youtube.com/watch?v=N9NtdF51GWE) ([HN](https://news.ycombinator.com/item?id=32635969))
 - [What are some good board game YouTube channels? (2022)](https://www.reddit.com/r/boardgames/comments/x6eeay/what_are_some_good_board_game_youtube_channels/)
+- [Popular board game and it's superior competitor (2022)](https://www.reddit.com/r/boardgames/comments/x9f70e/a_popular_game_and_its_superior_competitor/)

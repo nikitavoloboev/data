@@ -135,3 +135,4 @@
 - [From Common Lisp to Julia (2022)](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/) ([HN](https://news.ycombinator.com/item?id=32745318))
 - [Why Not: From Common Lisp to Julia](https://gist.github.com/digikar99/24decb414ddfa15a220b27f6748165d7) ([HN](https://news.ycombinator.com/item?id=32750052))
 - [Arrow-macros](https://github.com/hipeta/arrow-macros) - Clojure-like arrow macros in Common Lisp.
+- [clingon](https://github.com/dnaeon/clingon) - Command-line options parser system for Common Lisp.

@@ -234,6 +234,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Imperial](https://imperialb.in/) - Code/text sharing site with the user experience in mind, it has feautures such as editing, encryption and integration with github gists and discord. ([Code](https://github.com/imperialbin/imperial))
 - [Slapdash](https://slapdash.com/) - Brings all your apps together in one place to give you new superpowers.
 - [Planner](https://github.com/bvaughn/planner) - Lightweight, interactive planning tool that visualizes a series of tasks using an HTML canvas.
+- [PlantUML](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description. ([Web](https://plantuml.com/))
 - [Tiny Letter](https://tinyletter.com)
 - [Emery](https://emery.to/) - Personal workspace for busy people. ([HN](https://news.ycombinator.com/item?id=32312413))
 - [Airy](https://airy.co/) - Open Source Conversational Platform. ([HN](https://news.ycombinator.com/item?id=27446200))

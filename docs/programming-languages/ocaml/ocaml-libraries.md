@@ -206,6 +206,7 @@ title: OCaml libraries
 - [Ego](https://github.com/verse-lab/ego) - EGraphs in OCaml.
 - [Bindoj](https://github.com/kxcdev/bindoj) - Generative datatype toolkit for OCaml centric workflows.
 - [Algebraic Effect](https://github.com/songyahui/AlgebraicEffect) - Effects system for continuation.
+- [metadata](https://github.com/savonet/ocaml-metadata) - Library to read metadata from files in various formats.
 
 ## Links
 

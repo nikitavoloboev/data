@@ -438,3 +438,4 @@ title: PyTorch
 - [Frechet Audio Distance in PyTorch](https://github.com/gudgud96/frechet-audio-distance)
 - [Satellite Cloud Generator](https://github.com/cidcom/SatelliteCloudGenerator) - PyTorch-based tool to generate clouds for satellite images.
 - [bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit CUDA functions for PyTorch.
+- [Horizontally Fused Training Array (HFTA)](https://github.com/UofT-EcoSystem/hfta) - Boost hardware utilization for ML training workloads via Inter-model Horizontal Fusion.

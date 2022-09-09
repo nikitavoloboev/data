@@ -193,6 +193,7 @@
 - [GLL Combinators](https://github.com/djspiewak/gll-combinators) - Parser combinator library based on the GLL algorithm.
 - [Nyaya](https://github.com/japgolly/nyaya) - Random Data Generation and/or Property Testing in Scala & Scala.JS.
 - [Shardcake](https://github.com/devsisters/shardcake) - Sharding and location transparency for Scala.
+- [ZIO Compose](https://github.com/tailcallhq/zio-compose) - Scala DSL to write type-safe programs for distributed computing.
 
 ## Links
 

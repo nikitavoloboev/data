@@ -47,7 +47,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [gStore](https://github.com/pkumod/gStore) - Graph database engine for managing large graph-structured data.
 - [MongoDB](https://github.com/mongodb/mongo) - General purpose, document-based, distributed database built for modern application developers.
 - [Ardb](https://github.com/yinqiwen/ardb) - High Performance Persistent NoSql, Full Redis-Protocol Compatibility.
-- [datahikeai](https://github.com/replikativ/datahike) - Durable datalog implementation adaptable for distribution.
+- [Datahike](https://github.com/replikativ/datahike) - Durable datalog implementation adaptable for distribution. ([Web](https://datahike.io/)) ([CSV Loader](https://github.com/replikativ/datahike-csv-loader))
 - [Yugabyte DB](https://github.com/yugabyte/yugabyte-db) - High-performance distributed SQL database for global, internet-scale apps.
 - [JuliaDB](https://github.com/JuliaComputing/JuliaDB.jl) - Parallel analytical database in pure Julia. ([Docs](https://juliadata.github.io/JuliaDB.jl/latest/)) ([HN](https://news.ycombinator.com/item?id=24119118))
 - [Delta Lake](https://github.com/delta-io/delta) - Storage layer that brings scalable, ACID transactions to Apache Spark and other big-data engines.

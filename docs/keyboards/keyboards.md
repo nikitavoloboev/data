@@ -48,6 +48,7 @@ I am currently using builtin MacBook keyboard and love it. I love the low key tr
 - [rae-dux](https://github.com/andrewjrae/rae-dux) - Generated keyboard.
 - [Cantor Keyboard](https://github.com/diepala/cantor) - 42 key diodeless split keyboard.
 - [Ferris](https://github.com/pierrechevalier83/ferris) - Low profile split keyboard designed to satisfy one single use case elegantly.
+- [ErgodoxE EZ](https://ergodox-ez.com/) - Ergonomic keyboard with open source firmware. ([HN](https://news.ycombinator.com/item?id=32764109))
 
 ## Interesting keycaps
 

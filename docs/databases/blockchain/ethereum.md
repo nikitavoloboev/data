@@ -669,3 +669,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Tempest](https://github.com/bigsky77/tempest) - Uniswap V2 style AMM written in Cairo.
 - [Foundry template](https://github.com/transmissions11/foundry-template) - Streamlined template for getting started with Foundry and Solmate.
 - [Thoth](https://github.com/FuzzingLabs/thoth) - Cairo/Starknet bytecode analyzer, disassembler & decompiler.
+- [Variable Rate Gradual Dutch Auctions](https://github.com/transmissions11/VRGDAs)

@@ -113,7 +113,7 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [has](https://github.com/kdabir/has) - Checks presence of various command line tools and their versions on the path.
 - [Fig Manual Pages](https://fig.io/manual) - Beautiful, community-driven documentation for 300+ CLI tools.
 - [csvlens](https://github.com/YS-L/csvlens) - CSV file viewer in the command line.
-- [Difftastic](https://github.com/Wilfred/difftastic) - Diff tool that compares files based on their syntax. ([HN](https://news.ycombinator.com/item?id=30841244)) ([Article](https://www.wilfred.me.uk/blog/2022/09/06/difftastic-the-fantastic-diff/)) ([HN](https://news.ycombinator.com/item?id=32746258))
+- [Difftastic](https://github.com/Wilfred/difftastic) - Diff tool that compares files based on their syntax. ([HN](https://news.ycombinator.com/item?id=30841244)) ([Article](https://www.wilfred.me.uk/blog/2022/09/06/difftastic-the-fantastic-diff/)) ([HN](https://news.ycombinator.com/item?id=32746258)) ([Lobsters](https://lobste.rs/s/mvzrr8/difftastic_fantastic_diff))
 - [Goreman](https://github.com/mattn/goreman) - Manage Procfile-based applications.
 - [Testing your CLI](https://github.com/google/go-cmdtest) - Go package simplifies testing of command-line interfaces.
 - [Periscope](https://github.com/anishathalye/periscope) - Gives you "duplicate vision" to help you organize and de-duplicate your files without losing data.

@@ -132,3 +132,5 @@ title: BitTorrent
 - [Tornado](https://github.com/fraidev/tornado) - BitTorrent client written entirely in OCaml.
 - [Bt-Elixir](https://github.com/wismer/bt-elixir) - Elixir bit torrent.
 - [serde-bencode](https://github.com/toby/serde-bencode) - Serde backed Bencode encoding/decoding library for Rust.
+- [Parasite](https://github.com/bit-bandit/parasite) - Modern torrent indexer with some federation capacities.
+- [newTrackon](https://github.com/CorralPeltzer/newTrackon) - Public open BitTorrent trackers monitoring tool.

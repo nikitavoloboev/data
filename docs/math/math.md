@@ -395,3 +395,4 @@
 - [A course in Time Series Analysis (2022)](https://web.stat.tamu.edu/~suhasini/teaching673/time_series.pdf)
 - [An introduction to the algebraic geometry of the Putman-Wieland conjecture (2022)](https://arxiv.org/abs/2209.00717)
 - [Ramanujan Machine](https://github.com/RamanujanMachine/RamanujanMachine) - Algorithmic approach to discover new mathematical conjectures.
+- [The Middle of the Square (2022)](http://bit-player.org/2022/the-middle-of-the-square)
