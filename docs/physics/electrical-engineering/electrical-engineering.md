@@ -122,4 +122,4 @@ title: Electrical engineering
 - [Logisim](http://www.cburch.com/logisim/) - Graphical Tool for Designing and Simulating Digital Logic Circuits. ([HN](https://news.ycombinator.com/item?id=32270149))
 - [Gatery](https://github.com/synogate/gatery) - Library for circuit design.
 - [Ask HN: How can I start a business to generate electricity? (2022)](https://news.ycombinator.com/item?id=32622949)
-- [How Transistors Work (2022)](https://www.youtube.com/watch?v=CQtSS6g00h0)
+- [How Transistors Work (2022)](https://www.youtube.com/watch?v=CQtSS6g00h0) ([HN](https://news.ycombinator.com/item?id=32781948))

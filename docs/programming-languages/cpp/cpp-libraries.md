@@ -430,6 +430,7 @@
 - [Simple streaming library](https://github.com/vitaut/_._)
 - [alpaca](https://github.com/p-ranav/alpaca) - Pack C++ structs into a compact byte-array without any macros or boilerplate code.
 - [CSV2](https://github.com/p-ranav/csv2) - Fast CSV parser and writer for Modern C++.
+- [Nod](https://github.com/fr00b0/nod) - Small, header only signals and slots C++11 library.
 
 ## Links
 

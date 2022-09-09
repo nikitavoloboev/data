@@ -14,6 +14,7 @@ title: ML Libraries
 
 ## Web
 
+- [Shumai](https://github.com/facebookresearch/shumai) - Fast differentiable tensor library for research in TypeScript and JavaScript. Built with bun + flashlight.
 - [ml5.js](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web.
 - [ml.js](https://github.com/mljs/ml) - Machine learning tools in JavaScript.
 
@@ -387,3 +388,4 @@ title: ML Libraries
 - [Mjx](https://github.com/mjx-project/mjx) - Framework for Mahjong AI research.
 - [LibMTL](https://github.com/median-research-group/LibMTL) - PyTorch Library for Multi-Task Learning.
 - [FEDOT](https://github.com/nccr-itmo/FEDOT) - Automated modeling and machine learning framework.
+- [ELI5](https://github.com/eli5-org/eli5) - Library for debugging/inspecting machine learning classifiers and explaining their predictions.

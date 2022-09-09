@@ -911,3 +911,4 @@
 - [Flexible Diffusion Modeling of Long Videos (2022)](https://arxiv.org/abs/2205.11495) ([Code](https://github.com/lucidrains/flexible-diffusion-modeling-videos-pytorch))
 - [MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries (2022)](https://arxiv.org/abs/2205.00613) ([Code](https://github.com/a1600012888/MUTR3D))
 - [Escaping the Big Data Paradigm with Compact Transformers (2021)](https://arxiv.org/abs/2104.05704) ([Code](https://github.com/SHI-Labs/Compact-Transformers))
+- [Towards Layer-wise Image Vectorization (2022)](https://arxiv.org/abs/2206.04655) ([Code](https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization))
