@@ -228,3 +228,4 @@
 - [The container orchestrator landscape (2022)](https://lwn.net/Articles/905164/) ([HN](https://news.ycombinator.com/item?id=32577758))
 - [lazytrivy](https://github.com/owenrumney/lazytrivy) - Secure images, for lazy people.
 - [Conmon-rs](https://github.com/containers/conmon-rs) - Container monitor in Rust.
+- [SOCI Snapshotter](https://github.com/awslabs/soci-snapshotter) - Containerd snapshotter plugin.

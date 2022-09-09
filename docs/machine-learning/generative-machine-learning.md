@@ -35,3 +35,4 @@
 - [Japanese Stable Diffusion](https://github.com/rinnakk/japanese-stable-diffusion)
 - [Stable Diffusion web UI](https://github.com/sd-webui/stable-diffusion-webui)
 - [Stable DreamBooth](https://github.com/Victarry/stable-dreambooth) - Implementation of DreamBooth based on Stable Diffusion.
+- [George Hotz | stable diffusion, in tinygrad (2022)](https://www.youtube.com/watch?v=4V9VHt_YwFQ)
