@@ -33,3 +33,5 @@
 - [Inpainting](https://inpainter.vercel.app/) - Web GUI for inpainting with Stable Diffusion using the Replicate API. ([Code](https://github.com/zeke/inpainter))
 - [Dreambooth on Stable Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
 - [Japanese Stable Diffusion](https://github.com/rinnakk/japanese-stable-diffusion)
+- [Stable Diffusion web UI](https://github.com/sd-webui/stable-diffusion-webui)
+- [Stable DreamBooth](https://github.com/Victarry/stable-dreambooth) - Implementation of DreamBooth based on Stable Diffusion.

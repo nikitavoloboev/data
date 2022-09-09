@@ -66,3 +66,4 @@ title: WebGPU
 - [WebGPU on WASM via Emscripten](https://github.com/juj/wasm_webgpu)
 - [Case study in effective WebGPU patterns for rendering glTF models](https://toji.github.io/webgpu-gltf-case-study/) ([Code](https://github.com/toji/webgpu-gltf-case-study))
 - [Translates GLSL code to WGSL](https://github.com/eliotbo/glsl2wgsl)
+- [Use.GPU](https://usegpu.live/) - Set of declarative, reactive WebGPU legos. ([HN](https://news.ycombinator.com/item?id=32777909))

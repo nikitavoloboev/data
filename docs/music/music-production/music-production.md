@@ -411,3 +411,4 @@
 - [Sonic Pi: Past, Present & Future | Sam Aaron (2021)](https://www.youtube.com/watch?v=zisoGS6Mc-w)
 - [Why 12 notes in Western music?](https://github.com/aguaviva/articles/blob/main/why_12_notes.ipynb) ([HN](https://news.ycombinator.com/item?id=32639000))
 - [Algorithmic music with Orca and SuperCollider](https://github.com/smrq/move-fast-and-breakbeats)
+- [Web Audio Hub](https://github.com/AmberJBlue/web-audio-hub) - Collection of resources and projects for the Web Audio API and audio on the web in general.

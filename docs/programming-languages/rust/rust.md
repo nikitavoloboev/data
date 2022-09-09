@@ -882,3 +882,4 @@ title: Rust
 - [Tachyon](https://github.com/hkmatsumoto/tachyon) - Rust compiler backend focused on compilation speed.
 - [Lightly organized personal notes about Rust](https://github.com/brson/my-rust-lists)
 - [Attacking Firecracker: AWS' microVM Monitor Written in Rust (2022)](https://www.graplsecurity.com/post/attacking-firecracker)
+- [Speeding up incremental Rust compilation with dylibs (2022)](https://robert.kra.hn/posts/2022-09-09-speeding-up-incremental-rust-compilation-with-dylibs/)

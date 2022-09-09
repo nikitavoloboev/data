@@ -106,3 +106,4 @@ title: Web Components
 - [media-chrome](https://github.com/muxinc/media-chrome) - Fully customizable media player controls using web components (native custom elements). ([Web](https://www.media-chrome.org/))
 - [custom-element element](https://github.com/rdmurphy/custom-element-template) - Opinionated template for creating a custom element.
 - [lite-tiktok](https://github.com/justinribeiro/lite-tiktok) - Web component that lazy loads TikTok embeds.
+- [WebC](https://github.com/11ty/webc) - Single File Web Components.

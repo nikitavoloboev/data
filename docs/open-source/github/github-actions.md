@@ -380,6 +380,7 @@ title: GitHub actions
 - [hackage-publish](https://github.com/haskell-actions/hackage-publish) - GitHub action for publishing packages and documentation to Hackage.
 - [HLint action](https://github.com/tfausak/hlint-action) - Checks that Haskell files are linted with HLint.
 - [Edit Cabal Version](https://github.com/nikita-volkov/edit-cabal-version.github-action) - GitHub Action for bumping and retrieving the package version in .cabal files for Haskell projects.
+- [Automate Haskell releases](https://github.com/cachix/haskell-release-action)
 
 ## LLVM
 

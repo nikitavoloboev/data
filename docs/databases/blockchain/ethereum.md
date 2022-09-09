@@ -670,3 +670,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Foundry template](https://github.com/transmissions11/foundry-template) - Streamlined template for getting started with Foundry and Solmate.
 - [Thoth](https://github.com/FuzzingLabs/thoth) - Cairo/Starknet bytecode analyzer, disassembler & decompiler.
 - [Variable Rate Gradual Dutch Auctions](https://github.com/transmissions11/VRGDAs)
+- [MEV Bundle Generator](https://github.com/Alcibiades-Capital/mev_bundle_generator) - MEV bundle generator written in Rust.
+- [Quay](https://github.com/Alcibiades-Capital/quay) - Open source, high performance backend for the Seaport smart contracts.
+- [Variable Rate Gradual Dutch Auctions with Martingale Price Correction](https://github.com/whitenois3/mvrgda)

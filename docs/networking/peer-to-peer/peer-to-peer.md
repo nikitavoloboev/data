@@ -126,3 +126,4 @@
 - [P2P super collider](https://github.com/socketsupply/p2p-supercollider)
 - [libp2p-perf](https://github.com/mxinden/libp2p-perf) - iPerf equivalent for the libp2p ecosystem.
 - [Osmosis](https://github.com/ar-nelson/osmosis-js) - In-process JSON database with automatic peer-to-peer background synchronization between devices on a local network.
+- [introducer](https://github.com/socketsupply/introducer) - Minimal useful library for creating p2p connections, using an introducer server.

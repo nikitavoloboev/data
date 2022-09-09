@@ -44,3 +44,4 @@ title: PHP
 - [PHP Developer roadmap](https://github.com/thecodeholic/php-developer-roadmap)
 - [I still love PHP and JavaScript (2022)](https://the.scapegoat.dev/why-i-love-php-and-javascript/) ([HN](https://news.ycombinator.com/item?id=32325055))
 - [PHP on Netlify Edge Functions](https://github.com/ascorbic/php-edge)
+- [PHP Monitor](https://github.com/nicoverbruggen/phpmon) - Lightweight macOS utility app that runs on your Mac and displays the active PHP version in your status bar.
