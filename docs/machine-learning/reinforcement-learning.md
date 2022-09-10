@@ -382,3 +382,4 @@ title: Reinforcement learning
 - [Reinforcement Learning for Budget Constrained Recommendations (2022)](https://netflixtechblog.medium.com/reinforcement-learning-for-budget-constrained-recommendations-6cbc5263a32a)
 - [Reinforced-lib](https://github.com/m-wojnar/reinforced-lib) - Python library designed to support research and prototyping using Reinforced Learning algorithms.
 - [MuJoCo Menagerie](https://github.com/deepmind/mujoco_menagerie) - Collection of high-quality models for the MuJoCo physics engine, curated by DeepMind.
+- [SafePO-Baselines](https://github.com/PKU-MARL/Safe-Policy-Optimization) - Benchmark repository for safe reinforcement learning algorithms.

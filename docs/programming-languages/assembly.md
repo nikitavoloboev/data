@@ -104,3 +104,4 @@ title: Assembly
 - [Understanding the X64 Code Models (2012)](https://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models)
 - [Stack frame layout on x86-64 (2022)](https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64)
 - [Apple AMX instruction set (M1/M2 matrix coprocessor)](https://github.com/corsix/amx) ([HN](https://news.ycombinator.com/item?id=32722510))
+- [Stratified Synthesis: Automatically Learning the x86-64 Instruction Set (2016)](https://cs.stanford.edu/people/eschkufz/docs/pldi_16.pdf)

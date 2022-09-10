@@ -163,3 +163,4 @@
 - [Astro-8 Computer](https://github.com/sam-astro/Astro8-Computer) - 16-bit homebrew CPU.
 - [Introduction to Apple Silicon](https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon) ([HN](https://news.ycombinator.com/item?id=32311245))
 - [Custom Processing Unit](https://github.com/pietroborrello/CustomProcessingUnit) - Dynamic analysis framework able to hook, patch and trace CPU microcode at the software level.
+- [SiliFuzz](https://github.com/google/silifuzz) - System that finds CPU defects by fuzzing software proxies.

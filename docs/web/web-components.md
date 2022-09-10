@@ -107,3 +107,4 @@ title: Web Components
 - [custom-element element](https://github.com/rdmurphy/custom-element-template) - Opinionated template for creating a custom element.
 - [lite-tiktok](https://github.com/justinribeiro/lite-tiktok) - Web component that lazy loads TikTok embeds.
 - [WebC](https://github.com/11ty/webc) - Single File Web Components.
+- [El](https://github.com/frameable/el) - Minimal JavaScript application framework inspired by React, Vue, and lit-element.

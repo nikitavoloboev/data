@@ -96,3 +96,4 @@ title: Synthesizers
 - [HexoDSP](https://github.com/WeirdConstructor/HexoDSP) - Comprehensive DSP graph and synthesis library for developing a modular synthesizer in Rust, such as HexoSynth.
 - [Soviet Pif synth: a cute analog synthesizer for children (+ FREE Sample Library)](https://www.youtube.com/watch?v=sStI42iwdIM)
 - [DDSP-Piano: Differentiable Piano model for MIDI-to-Audio Performance Synthesis](https://github.com/lrenault/ddsp-piano)
+- [Live Coding Singing Synthesizer](https://github.com/mathigatti/RealTimeSingingSynthesizer)

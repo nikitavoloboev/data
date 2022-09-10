@@ -196,3 +196,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [How to Build a Reusable Cloudflare Worker component (2022)](https://bit.cloud/blog/how-to-build-a-reusable-cloudflare-worker-component-l4bf0swo)
 - [state.do](https://github.com/drivly/state.do) - Finite State Machine implementation with Durable Objects.
 - [Cache Supabase data at the Edge with Cloudflare Workers and KV Storage](https://egghead.io/courses/cache-supabase-data-at-the-edge-with-cloudflare-workers-and-kv-storage-883c7959)
+- [Workers that manage the cache](https://github.com/nix-ocaml/cloudflare-workers)

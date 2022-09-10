@@ -1938,3 +1938,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [tools.mod](https://github.com/konradreiche/tools.mod) - Example for using a separate modules file to track tool dependencies in Go.
 - [How to convert []interface{} to a JSON object in Go](https://www.reddit.com/r/golang/comments/x4v30p/how_to_convert_interface_to_a_json_object_in/)
 - [Which framework and ORM should we choose?](https://www.reddit.com/r/golang/comments/x68y0h/which_framework_and_orm_should_we_choose/)
+- [Adding a Bubbletea CLI Interface (2022)](https://blog.customct.com/adding-a-bubbletea-cli-interface)

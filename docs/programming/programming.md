@@ -587,3 +587,4 @@
 - [Ask HN: Should I log errors, throw errors or both? (2022)](https://news.ycombinator.com/item?id=32549619)
 - [Bare Metal Programming - Booting From the Switches (2022)](https://www.youtube.com/watch?v=DM4rZZBqXVM)
 - [P99 CONF](https://www.p99conf.io/) - Event on All Things Performance.
+- [Ask HN: Best empirical papers on software development? (2022)](https://news.ycombinator.com/item?id=32789507)

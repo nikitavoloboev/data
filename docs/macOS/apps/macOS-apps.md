@@ -156,6 +156,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [CotEditor](https://coteditor.com/) - Text Editor for macOS. ([Code](https://github.com/coteditor/CotEditor)) ([HN](https://news.ycombinator.com/item?id=32114699))
 - [Clop](https://github.com/alin23/Clop) - Clipboard optimizer for macOS.
 - [MemoArt](https://github.com/renaudjenny/SoliArt) - Solitaire/Patience/Klondike game but now developed with Swift, SwiftUI, TCA.
+- [MacCatalystWithAppKit](https://github.com/sonsongithub/MacCatalystWithAppKit) - Build a Mac Catalyst application with AppKit.
 
 ## Other interesting apps
 

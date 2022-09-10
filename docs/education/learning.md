@@ -242,3 +242,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [HSE materials](https://github.com/hse-tex/hse-tex)
 - [Learning By Writing](https://www.cold-takes.com/learning-by-writing/) ([Tweet](https://twitter.com/Mappletons/status/1566593527345139718))
 - [The 4 things it takes to be an expert (2022)](https://www.youtube.com/watch?v=5eW6Eagr9XA)
+- [Ask HN: Which books do you consider real gems in your field of work/study? (2022)](https://news.ycombinator.com/item?id=32790064)

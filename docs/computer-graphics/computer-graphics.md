@@ -247,3 +247,4 @@
 - [LZ_XOR (2022)](https://richg42.blogspot.com/2022/01/lzxor.html) ([HN](https://news.ycombinator.com/item?id=32401548))
 - [Compressing global illumination with neural networks (2022)](https://juretriglav.si/compressing-global-illumination-with-neural-networks/)
 - [VoxelChain](https://voxelchain.app/) - Create interactive voxel worlds in the browser. ([HN](https://news.ycombinator.com/item?id=32737513))
+- [Parallel curves of cubic Béziers (2022)](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html)

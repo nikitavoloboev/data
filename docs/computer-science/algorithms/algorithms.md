@@ -118,6 +118,7 @@
 - [Algorithms you should know before you take system design interviews (2022)](https://blog.bytebytego.com/p/algorithms-you-should-know-before) ([HN](https://news.ycombinator.com/item?id=32429533))
 - [Elements of Programming Book](http://elementsofprogramming.com/)
 - [Algorithms & Data Structures studies](https://github.com/imteekay/algorithms)
+- [CS 168: The Modern Algorithmic Toolbox, Spring 2022](https://web.stanford.edu/class/cs168/index.html) ([HN](https://news.ycombinator.com/item?id=32788475))
 
 ## Images
 
