@@ -1795,6 +1795,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [PostHog Go](https://github.com/PostHog/posthog-go) - Official PostHog Go library.
 - [TinyGo Lunatic](https://github.com/alecthomas/lunatic-go) - TinyGo bindings for Lunatic.
 - [libngrok-go](https://github.com/ngrok/libngrok-go) - Ngrok agent in library form, suitable for integrating directly into your Go application.
+- [go-set](https://github.com/micnncim/go-set) - Go package for sets implemented with generics.
 
 ## Links
 

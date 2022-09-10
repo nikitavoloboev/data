@@ -327,6 +327,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [20 of the Best Science Fiction Books of All Time (2022)](https://bookriot.com/best-science-fiction-books-of-all-time/)
 - [What are you reading this week? | Lobsters (2022)](https://lobste.rs/s/rniebx/what_are_you_reading_this_week)
 - [Ask HN: What book have you re-read 3x or more? (2022)](https://news.ycombinator.com/item?id=32712496)
+- [Your favorite book? (2022)](https://www.reddit.com/r/suggestmeabook/comments/xa3jwr/your_favorite_book/)
 
 ## Interesting Prose Books
 
