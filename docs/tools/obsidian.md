@@ -48,6 +48,7 @@ div.CodeMirror-cursor,
 - [Hover Editor](https://github.com/nothingislost/obsidian-hover-editor) - Transform the Page Preview hover into a working editor instance.
 - [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve & note aging by reviewing notes using spaced repetition on Obsidian.md.
 - [Review](https://github.com/ryanjamurphy/review-obsidian) - Add the current note to a future daily note to remember to review it.
+- [Obsidian Raindrop Highlights Plugin](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin) - Synchronize Raindrop.io web article highlights/annotations into your Obsidian Vault.
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview) - Complex query language implementation for the Obsidian note-taking tool. ([HN](https://news.ycombinator.com/item?id=31407781))
 - [Templater](https://github.com/SilentVoid13/Templater) - Template plugin for obsidian.
 - [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian.
@@ -247,3 +248,4 @@ div.CodeMirror-cursor,
 - [Obsidian Help](https://help.obsidian.md/Obsidian/Index)
 - [Shimmering Obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow for various enhancements of Obsidian.
 - [Obsidian Plugin Developer Docs](https://github.com/marcusolsson/obsidian-plugin-docs)
+- [Obsidian for Raycast](https://github.com/marcjulianschwarz/obsidian-raycast) - Raycast extension with commands for the note taking app Obsidian.

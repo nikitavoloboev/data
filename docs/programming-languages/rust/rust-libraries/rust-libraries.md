@@ -339,6 +339,7 @@
 - [rust-ac-ffmpeg](https://github.com/angelcam/rust-ac-ffmpeg) - Rust wrapper for FFmpeg libraries.
 - [Nightfall](https://github.com/Dusk-Labs/nightfall) - Easy to use lib for creating on-demand transcoding sessions for efficient media playback.
 - [retina](https://github.com/scottlamb/retina) - High-level RTSP multimedia streaming library, in Rust.
+- [h264-reader](https://github.com/dholroyd/h264-reader) - Rust reader for H264 bitsream syntax.
 
 ## Graphics
 
@@ -2133,6 +2134,11 @@
 - [bzip2-rs](https://github.com/paolobarbolini/bzip2-rs) - Pure Rust bzip2 decoder.
 - [rusty-s3](https://github.com/paolobarbolini/rusty-s3) - Simple pure Rust AWS S3 Client following a Sans-IO approach.
 - [Wakey](https://github.com/LesnyRumcajs/wakey) - Library for managing Wake-on-LAN packets.
+- [glob](https://github.com/rust-lang/glob) - Support for matching file paths against Unix shell style patterns.
+- [topological-sort-rs](https://github.com/gifnksm/topological-sort-rs) - Performs topological sorting.
+- [rtp-rs](https://github.com/dholroyd/rtp-rs) - Rust reader for Real time Transport Protocol packet structure.
+- [mpeg2ts-reader](https://github.com/dholroyd/mpeg2ts-reader) - Rust reader for MPEG2 Transport Stream data.
+- [tokio-serial](https://github.com/berkowski/tokio-serial) - Implementation of serialport I/O for Tokio, an async framework for rust.
 
 ## Cargo Plugins
 

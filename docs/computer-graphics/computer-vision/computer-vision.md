@@ -913,3 +913,5 @@
 - [Escaping the Big Data Paradigm with Compact Transformers (2021)](https://arxiv.org/abs/2104.05704) ([Code](https://github.com/SHI-Labs/Compact-Transformers))
 - [Towards Layer-wise Image Vectorization (2022)](https://arxiv.org/abs/2206.04655) ([Code](https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization))
 - [Awesome Optical Flow](https://github.com/hzwer/Awesome-Optical-Flow)
+- [LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling (2022)](https://arxiv.org/abs/2208.08622) ([Code](https://github.com/BoyanJIANG/LoRD))
+- [SimpleRecon: 3D Reconstruction Without 3D Convolutions (2022)](https://arxiv.org/abs/2208.14743) ([Code](https://github.com/nianticlabs/simplerecon))

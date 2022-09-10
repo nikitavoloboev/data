@@ -108,6 +108,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Titlecase](https://github.com/christoomey/vim-titlecase) - Titlecase text.
 - [neoinclude.vim](https://github.com/Shougo/neoinclude.vim) - Include completion framework for neocomplete/deoplete.
 - [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - Adds snippet support.
+- [nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Make Neovim's fold look modern and keep high performance.
 - [Polyglot](https://github.com/sheerun/vim-polyglot) - Solid language pack.
 - [Formatter.nvim](https://github.com/mhartington/formatter.nvim) - Format runner for neovim, written in Lua.
 - [Auto save](https://github.com/907th/vim-auto-save) - Automatically save changes to disk.

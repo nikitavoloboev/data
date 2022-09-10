@@ -847,3 +847,4 @@ if err != nil {
 - [Vulnerability Management for Go (2022)](https://go.dev/blog/vuln) ([HN](https://news.ycombinator.com/item?id=32737886))
 - [Go Developer Survey 2022 Q2 Results](https://go.dev/blog/survey2022-q2-results) ([HN](https://news.ycombinator.com/item?id=32767287))
 - [mkctr](https://github.com/tailscale/mkctr) - Cross platform container builder for go.
+- [Neither self nor this: Receivers in Go (2016)](https://blog.heroku.com/neither-self-nor-this-receivers-in-go)

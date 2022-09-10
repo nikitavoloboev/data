@@ -73,3 +73,4 @@ title: Elasticsearch
 - [pino-elasticsearch](https://github.com/pinojs/pino-elasticsearch) - Load pino logs into Elasticsearch.
 - [Pydastic](https://github.com/RamiAwar/pydastic) - Elasticsearch python ORM based on Pydantic.
 - [APM Server](https://github.com/elastic/apm-server) - Receives data from Elastic APM agents and transforms it into Elasticsearch documents.
+- [Terraform Provider Elastic Stack](https://github.com/elastic/terraform-provider-elasticstack)

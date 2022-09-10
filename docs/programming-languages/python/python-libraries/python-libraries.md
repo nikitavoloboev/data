@@ -968,6 +968,7 @@
 - [annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated.
 - [WakaQ](https://github.com/wakatime/wakaq) - Distributed background task queue for Python backed by Redis, a super minimal Celery.
 - [Duct](https://github.com/oconnor663/duct.py) - Python library for running child processes.
+- [String Grouper](https://github.com/Bergvca/string_grouper) - Super Fast String Matching in Python.
 
 ## Notes
 

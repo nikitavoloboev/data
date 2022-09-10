@@ -1241,6 +1241,7 @@
 - [SwiftNodes](https://github.com/flowtoolz/SwiftNodes) - Graphs & Trees: Data Structures, Algorithms, Drawing.
 - [SwiftObserver](https://github.com/flowtoolz/SwiftObserver) - Elegant Reactive Primitives for Clean Swift Architecture.
 - [GetLaid](https://github.com/flowtoolz/GetLaid) - Most Readable & Concise AutoLayout Swift Code.
+- [Crossroad](https://github.com/giginet/Crossroad) - Route URL schemes easily.
 
 ## Other (not lib)
 

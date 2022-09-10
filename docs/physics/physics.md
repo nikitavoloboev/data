@@ -322,3 +322,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Iris](https://github.com/LaurentRDC/iris-ued) - Ultrafast electron scattering data exploration.
 - [Experimental protocol for testing the mass–energy–information equivalence principle (2022)](https://aip.scitation.org/doi/10.1063/5.0087175)
 - [The strength of the strong force (2022)](https://phys.org/news/2022-08-strength-strong.html) ([HN](https://news.ycombinator.com/item?id=32409102))
+- [Awesome Photonics](https://github.com/joamatab/awesome_photonics)

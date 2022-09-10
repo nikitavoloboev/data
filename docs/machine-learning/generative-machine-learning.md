@@ -36,3 +36,4 @@
 - [Stable Diffusion web UI](https://github.com/sd-webui/stable-diffusion-webui)
 - [Stable DreamBooth](https://github.com/Victarry/stable-dreambooth) - Implementation of DreamBooth based on Stable Diffusion.
 - [George Hotz | stable diffusion, in tinygrad (2022)](https://www.youtube.com/watch?v=4V9VHt_YwFQ)
+- [CLIP-Mesh: Generating textured meshes from text using pretrained image-text models (2022)](https://www.nasir.lol/clipmesh) ([Code](https://github.com/NasirKhalid24/CLIP-Mesh))

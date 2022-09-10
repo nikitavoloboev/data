@@ -189,6 +189,8 @@
 - Minimize distractions in text editor.
 - Comment over unclear code. Be as descriptive as necessary.
 - Enforce one formatting style for code with automatic formatter.
+- Always be practical. Explore new technologies in isolation first and adapt when understood.
+- Don't optimize prematurely.
 
 ## OSS
 
