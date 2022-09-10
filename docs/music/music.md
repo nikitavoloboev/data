@@ -224,3 +224,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [The Dynamics of Music Exploration on Spotify (2022)](https://research.atspotify.com/the-dynamics-of-exploration-on-spotify/) ([HN](https://news.ycombinator.com/item?id=32260840))
 - [multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients.
 - [Digs.fm](https://digs.fm/) - Track and organize releases you want to listen, listened or liked. Like Goodreads, but for music. ([HN](https://news.ycombinator.com/item?id=32551862))
+- [Best Electronic Essential Mix](https://www.reddit.com/r/electronicmusic/comments/xabjzy/best_essential_mixever/)

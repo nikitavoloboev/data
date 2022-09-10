@@ -242,3 +242,4 @@ title: Clojure
 - [Why we chose Clojure (2022)](https://blog.kaleidos.net/penpot-chose-clojure-as-its-language-and-here-is-why/) ([HN](https://news.ycombinator.com/item?id=32386276))
 - [Core Async Essentials (2020)](https://avichalp.me/posts/2020-06-30-core-async-essentials/)
 - [Analyzing Every Clojure Project on GitHub](https://blog.phronemophobic.com/dewey-analysis.html)
+- [Fix your Clojure code: Clojure comes with design patterns (2022)](https://blog.janetacarr.com/software-design-patterns-in-clojure/)

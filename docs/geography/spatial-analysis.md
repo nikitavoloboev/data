@@ -248,3 +248,4 @@ title: Spatial analysis
 - [GeoPolars](https://github.com/geopolars/geopolars) - Geospatial extensions for Polars.
 - [Improved Galileo Time to First Fix (2022)](https://berthub.eu/articles/posts/improved-galileo-fix-time/)
 - [nakarte.me](https://nakarte.me/) ([Code](https://github.com/wladich/nakarte))
+- [Toolbox-rs](https://github.com/DennisOSRM/toolbox-rs) - Toolbox of basic data structures and algorithms.

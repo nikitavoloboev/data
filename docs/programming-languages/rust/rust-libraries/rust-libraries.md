@@ -181,6 +181,7 @@
 - [nickel.rs](https://github.com/nickel-org/nickel.rs) - Express inspired web framework for Rust.
 - [exponential-backoff](https://github.com/yoshuawuyts/exponential-backoff) - Exponential backoff generator with jitter.
 - [Aide](https://github.com/tamasfe/aide) - Code-first API documentation and other utility libraries for Rust.
+- [Progenitor](https://github.com/oxidecomputer/progenitor) - OpenAPI client generator.
 
 ## Auth
 
@@ -2131,6 +2132,7 @@
 - [merge-streams](https://github.com/phil-opp/merge-streams) - Merge multiple streams into one.
 - [bzip2-rs](https://github.com/paolobarbolini/bzip2-rs) - Pure Rust bzip2 decoder.
 - [rusty-s3](https://github.com/paolobarbolini/rusty-s3) - Simple pure Rust AWS S3 Client following a Sans-IO approach.
+- [Wakey](https://github.com/LesnyRumcajs/wakey) - Library for managing Wake-on-LAN packets.
 
 ## Cargo Plugins
 

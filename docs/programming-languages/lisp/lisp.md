@@ -207,3 +207,4 @@
 - [Pureli](https://github.com/soupi/pureli) - Purely functional, dynamically typed, parallel evaluated Lisp-like programming language.
 - [tiny-lisp](https://github.com/matp/tiny-lisp) - Small implementation of LISP, written in standard C11.
 - [Kamby](https://github.com/henriquegogo/kamby) - Lisp dialect with some conventions to create a language more intuitive and compact. ([Web](https://kamby.org/)) ([HN](https://news.ycombinator.com/item?id=32761113))
+- [Cene Mk](https://github.com/era-platform/cene-for-racket) - Lisp lookalike with hygienic open-world and closed-world compiler extension.
