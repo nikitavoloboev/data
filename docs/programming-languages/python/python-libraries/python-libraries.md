@@ -297,6 +297,7 @@
 - [Pretend](https://github.com/alex/pretend) - Library to make stubbing with Python easier.
 - [Nox](https://github.com/wntrblm/nox) - Flexible test automation for Python.
 - [PyTruth](https://github.com/google/pytruth) - Assertion framework for Python unit tests.
+- [pytest-accept](https://github.com/max-sixty/pytest-accept) - Pytest plugin for automatically updating doctest outputs.
 
 ## Error
 

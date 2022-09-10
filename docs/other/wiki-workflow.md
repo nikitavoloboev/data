@@ -522,3 +522,4 @@ I want to:
 - [Ask HN: How do you plan to archive all your digital content? (2022)](https://news.ycombinator.com/item?id=32662026)
 - [Notesnook](https://notesnook.com/) - Open source & end-to-end encrypted note taking alternative to Evernote. ([Code](https://github.com/streetwriters/notesnook)) ([HN](https://news.ycombinator.com/item?id=32708019))
 - [Khoj](https://github.com/debanjum/khoj) - Natural language search engine for your personal notes, transactions and images.
+- [Evolving my note-taking processes (2022)](https://codethrasher.com/post/2022-09-09-evolving-my-note-taking-processes/) ([HN](https://news.ycombinator.com/item?id=32784470))

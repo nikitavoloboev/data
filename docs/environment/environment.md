@@ -132,7 +132,7 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [What is coming is beyond most peoples comprehension, including journalists](https://twitter.com/MrMatthewTodd/status/1440237998117822467)
 - [Probable Futures](https://probablefutures.org/)
 - [Anything But Plastic](https://www.anythingbutplastic.co.uk/) - Alternatives to Plastic.
-- [CarbonPlan](https://carbonplan.org/) - Data and science for climate action. ([Twitter](https://twitter.com/carbonplanorg))
+- [CarbonPlan](https://carbonplan.org/) - Data and science for climate action. ([Twitter](https://twitter.com/carbonplanorg)) ([GitHub](https://github.com/carbonplan))
 - [We need to take CO2 out of the sky (2021)](https://www.orbuch.com/carbon-removal/) ([HN](https://news.ycombinator.com/item?id=28765742))
 - [Albedo](https://albedo.com/) - Aerial quality imagery - from space.
 - [Climate.gov](https://www.climate.gov/)
@@ -194,3 +194,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [Climate endgame: exploring catastrophic climate change scenarios (2022)](https://www.pnas.org/doi/full/10.1073/pnas.2108146119) ([HN](https://news.ycombinator.com/item?id=32323757))
 - [Ask HN: Working in tech for climate? (2022)](https://news.ycombinator.com/item?id=32324592)
 - [Notes on Progress: An environmentalist gets lunch (2022)](https://worksinprogress.substack.com/p/notes-on-progress-an-environmentalist)
+- [Datasets, models, interactives, and commentary on carbon removal](https://github.com/carbonplan/research)

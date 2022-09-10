@@ -162,3 +162,4 @@ I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mear
 - [H1B rejected – builds unicorn back home](https://news.ycombinator.com/item?id=32563949)
 - [US Congress Wiki](https://congress.wiki/)
 - [Congress.gov API](https://api.congress.gov/) ([HN](https://news.ycombinator.com/item?id=32770058))
+- [Open States People](https://github.com/openstates/people) - Curated information on all state legislators & governors.

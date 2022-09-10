@@ -457,3 +457,4 @@ Awesome List
 - [Embed Like Gist](https://emgithub.com/) - Embed a file from GitHub repository just like GitHub Gist. ([Code](https://github.com/yusanshi/emgithub))
 - [Linear to GitHub Sync](https://github.com/calcom/linear-to-github)
 - [GitHub Ranking](https://github.com/EvanLi/Github-Ranking) - List of the most GitHub stars and forks repositories.
+- [giscus-component](https://github.com/giscus/giscus-component) - Component library for giscus, a comments system powered by GitHub Discussions.

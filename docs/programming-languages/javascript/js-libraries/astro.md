@@ -48,3 +48,4 @@ title: Astro
 - [Astro Beep](https://github.com/natemoo-re/astro-beep) - Trigger a system notification when your Astro build is complete.
 - [Hyperdrive Speedometer](https://hyperdrive-speedometer.netlify.app/) - Benchmarking the performance of Astro sites over time. ([Code](https://github.com/delucis/hyperdrive-speedometer))
 - [Astro Remark Default Frontmatter](https://github.com/BryceRussell/astro-remark-default-frontmatter)
+- [Lyra's Astro Plugin](https://github.com/LyraSearch/plugin-astro) - Lyra integration for Astro.

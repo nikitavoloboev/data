@@ -250,3 +250,4 @@ Use this [Solid/Vite](https://github.com/fuyutarow/solid-chrome-extension-templa
 - [Playwright WebExt](https://github.com/ueokande/playwright-webextext) - Playwright extensions for testing WebExtensions.
 - [Why are bookmarks second class citizens in browsers? (2022)](https://news.ycombinator.com/item?id=32505314)
 - [Playwright for Rust](https://github.com/octaltree/playwright-rust)
+- [Vimium C](https://github.com/gdh1995/vimium-c) - Keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar.

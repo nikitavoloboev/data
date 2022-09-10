@@ -121,3 +121,4 @@
 - [A primer on Roaring bitmaps: what they are and how they work (2022)](https://vikramoberoi.com/a-primer-on-roaring-bitmaps-what-they-are-and-how-they-work/)
 - [Using bitmaps to run interactive retention analyses over billions of events for less than $100/mo (2022)](https://vikramoberoi.com/using-bitmaps-to-run-interactive-retention-analyses-over-billions-of-events-for-less-than-100-mo/)
 - [Data Structure Sketches](https://okso.app/showcase/data-structures)
+- [Lectures in Advanced Data Structures (2021)](https://courses.csail.mit.edu/6.851/spring21/lectures/)

@@ -286,6 +286,7 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [Total TypeScript](https://www.totaltypescript.com/) - Tutorial on transforming types in TypeScript. ([Code](https://github.com/total-typescript/type-transformations-tutorial)) ([Code](https://github.com/total-typescript/beginners-typescript-tutorial))
 - [Generics in TypeScript: a deep dive](https://github.com/total-typescript/typescript-generics-tutorial)
 - [Mega thread on learning TS](https://twitter.com/mattpocockuk/status/1566739592249835520)
+- [Prakaar](https://github.com/devanshj/prakaar) - Type programming language which compiles to and interops with type-level TypeScript.
 
 ## Images
 

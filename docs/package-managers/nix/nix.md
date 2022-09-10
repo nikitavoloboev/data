@@ -401,3 +401,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Konrad Hinsen - Nix/Guix and Reproducible Science (2022)](https://www.youtube.com/watch?v=SjjEDTccpQA)
 - [Tvixbolt](https://tazj.in/blobs/tvixbolt/) - Compiler for the Nix language. ([Code](https://cs.tvl.fyi/depot/-/tree/tvix))
 - [disko](https://github.com/nix-community/disko) - Nix-powered automatic disk partitioning.
+- [41North's Nix Templates](https://github.com/41north/templates)

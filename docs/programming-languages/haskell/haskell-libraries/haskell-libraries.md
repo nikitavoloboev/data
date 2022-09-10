@@ -422,3 +422,4 @@
 - [Graphics with Haskell: Gloss (2022)](https://alt-romes.github.io/archive/2022-06-27-mvc-gloss.html)
 - [JSON with Haskell (2022)](https://alt-romes.github.io/archive/2022-05-28-lecture-6.html)
 - [haskell-butler](https://github.com/TristanCacqueray/haskell-butler) - Library provides a virtual operating system to run your Haskell program.
+- [Haskell real world example app](https://github.com/nodew/haskell-realworld-example)

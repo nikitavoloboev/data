@@ -312,6 +312,7 @@ title: GitHub actions
 - [actions-package-update](https://github.com/taichi/actions-package-update) - Keeps npm dependencies up-to-date by making pull requests from GitHub Actions or CI.
 - [Setup pnpm](https://github.com/pnpm/action-setup) - Install pnpm package manager.
 - [Build and Tag action](https://github.com/JasonEtco/build-and-tag-action) - GitHub Action for publishing JavaScript Actions.
+- [optic-release-automation-action](https://github.com/nearform/optic-release-automation-action) - Automate the release process of your npm modules, apps and actions.
 
 ## Web
 

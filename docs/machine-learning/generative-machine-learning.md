@@ -17,7 +17,7 @@
 - [All about the fundamentals and working of Diffusion Models](https://github.com/AakashKumarNain/diffusion_models)
 - [Experiments with Stable Diffusion](https://github.com/justinpinkney/stable-diffusion) ([Tweet](https://twitter.com/Buntworthy/status/1566744186153484288))
 - [DreamStudio](https://beta.dreamstudio.ai/dream) - Front end and API to use the recently released stable diffusion image generation model.
-- [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ([HN](https://news.ycombinator.com/item?id=32784181))
 - [koi](https://github.com/nousr/koi) - Open source plug-in for Krita that allows you to use AI to accelerate your art workflow.
 - [Awesome Stable-Diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
 - [Simple Stable Diffusion](https://github.com/hackclub/simple-stable-diffusion) - Get stable diffusion running in <10 minutes in colab.

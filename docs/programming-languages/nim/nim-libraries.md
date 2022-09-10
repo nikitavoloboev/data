@@ -60,6 +60,7 @@
 - [Microparsec](https://github.com/schneiderfelipe/microparsec) - Fast parser combinator library with excellent error messages.
 - [ws](https://github.com/treeform/ws) - Simple WebSocket library for nim.
 - [stew](https://github.com/status-im/nim-stew) - Collection of utilities, std library extensions and budding libraries that are frequently used at Status.
+- [QRgen](https://github.com/aruZeta/QRgen) - QR code generation library.
 
 ## Links
 

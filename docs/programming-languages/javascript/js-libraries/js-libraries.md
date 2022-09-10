@@ -1014,6 +1014,7 @@
 - [Lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be.
 - [polybooljs](https://github.com/velipso/polybooljs) - Boolean operations on polygons (union, intersection, difference, xor).
 - [usignal](https://github.com/WebReflection/usignal) - Alternative to @preact/signals-core.
+- [multiformats](https://github.com/multiformats/js-multiformats) - Multiformats interface (multihash, multicodec, multibase and CID).
 
 ## Links
 

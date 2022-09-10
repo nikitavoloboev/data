@@ -157,6 +157,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Clop](https://github.com/alin23/Clop) - Clipboard optimizer for macOS.
 - [MemoArt](https://github.com/renaudjenny/SoliArt) - Solitaire/Patience/Klondike game but now developed with Swift, SwiftUI, TCA.
 - [MacCatalystWithAppKit](https://github.com/sonsongithub/MacCatalystWithAppKit) - Build a Mac Catalyst application with AppKit.
+- [Mark](https://github.com/barelyhuman/mark-mac) - macOS native markdown editor.
 
 ## Other interesting apps
 

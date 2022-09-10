@@ -123,6 +123,7 @@
 - [Plasma](https://plasmagameengine.com/) - C++ powered 2D and 3D game engine that is designed to be straight forward yet powerful for all users. ([Code](https://github.com/PlasmaEngine/PlasmaEngine))
 - [Voxelize](https://github.com/voxelize/voxelize) - Multiplayer, fast, super fast, voxel engine in your browser.
 - [glazeJS](https://github.com/rjewson/glazejs) - High performance 2D game engine built in Typescript.
+- [Acid](https://github.com/EQMG/Acid) - High speed C++17 Vulkan game engine.
 
 ## Physics engines
 

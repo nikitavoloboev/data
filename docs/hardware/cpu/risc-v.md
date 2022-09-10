@@ -188,3 +188,4 @@ title: RISC-V
 - [PsPIN](https://github.com/spcl/pspin) - RISC-V in-network accelerator for flexible high-performance low-power packet processing.
 - [Minimal operating system (2K LOC) on a small RISC-V board](https://github.com/yhzhang0128/egos-2000)
 - [ztachip](https://github.com/ztachip/ztachip) - RISCV accelerator for vision and AI edge applications running on low-end FPGA devices or custom ASIC.
+- [RISu064](https://github.com/zephray/RISu064) - Dual-issue RV64IM processor for fun & learning.
