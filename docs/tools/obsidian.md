@@ -189,6 +189,8 @@ div.CodeMirror-cursor,
 - [Table Enhancer](https://github.com/Stardusten/ob-table-enhancer) - Plugin for improving the experience of using table in Obsidian.
 - [Waypoint](https://github.com/IdreesInc/Waypoint) - Automatic Table of Contents Generator.
 - [Icon Folder](https://github.com/FlorianWoelki/obsidian-icon-folder) - Simply add icons to your folders or files in Obsidian.
+- [Influx](https://github.com/jensmtg/influx) - Plugin for Obsidian that aggregates a terse stream of backlinked clippings in the footer of notes.
+- [Obsidian Diagrams.Net](https://github.com/jensmtg/obsidian-diagrams-net) - Inserting and editing diagrams.net diagrams.
 
 ## Themes
 

@@ -124,3 +124,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Solid Testing Library](https://github.com/solidjs/solid-testing-library) - Simple and complete Solid testing utilities that encourage good testing practices.
 - [Solid-Pebble](https://github.com/lxsmnsyc/solid-pebble) - State management library for SolidJS.
 - [Streaming SolidJS - First look at Astro (2022)](https://www.youtube.com/watch?v=UPhx3OxUH0w)
+- [Solid-React](https://github.com/nanxiaobei/solid-react) - Hooks for a SolidJS-like React.

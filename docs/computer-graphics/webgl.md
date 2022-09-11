@@ -115,3 +115,4 @@
 - [Superconductor](https://github.com/MeetKai/superconductor) - 3D renderer built on top of wgpu.
 - [Khronos glTF 2.0 Sample Viewer](https://github.com/KhronosGroup/glTF-Sample-Viewer)
 - [WebGL GLTF loader](https://github.com/larsjarlvik/webgl-gltf)
+- [Litegl.js](https://github.com/jagenjo/litegl.js) - Lightweight Javascript WebGL library for handling Context, Meshes, Textures and Shaders. Relies on glMatrix 2.0, very easy to use.

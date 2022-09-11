@@ -61,3 +61,5 @@ title: Signal processing
 - [Digital Signals Theory book and source materials](https://github.com/bmcfee/dstbook)
 - [Style Transfer of Audio Effects with Differentiable Signal Processing (2022)](https://arxiv.org/abs/2207.08759) ([Code](https://github.com/adobe-research/DeepAFx-ST))
 - [rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies).
+- [HiFiScan](https://github.com/erdewit/HiFiScan) - Help equalize an audio system to get the best possible audio quality from it. ([HN](https://news.ycombinator.com/item?id=32798891))
+- [DRC: Digital Room Correction](http://drc-fir.sourceforge.net/)

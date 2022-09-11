@@ -1245,6 +1245,7 @@
 - [SwiftObserver](https://github.com/flowtoolz/SwiftObserver) - Elegant Reactive Primitives for Clean Swift Architecture.
 - [GetLaid](https://github.com/flowtoolz/GetLaid) - Most Readable & Concise AutoLayout Swift Code.
 - [Crossroad](https://github.com/giginet/Crossroad) - Route URL schemes easily.
+- [BytePatternFinder](https://github.com/Sajjon/BytePattern) - Pattern matcher for bytes.
 
 ## Other (not lib)
 
