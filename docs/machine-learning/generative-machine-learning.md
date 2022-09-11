@@ -41,3 +41,4 @@
 - [Stable Diffusion REST API](https://github.com/yuanqing/stable-diffusion-rest-api)
 - [Visual Taste Approximator](https://github.com/SelfishGene/visual_taste_approximator) - Simple tool that helps anyone create an automatic replica of themselves that can approximate their own personal visual taste.
 - [Stable Diffusion concepts library](https://huggingface.co/sd-concepts-library) ([Tweet](https://twitter.com/karpathy/status/1568644275247923206))
+- [Stable Diffusion for Apple Silicon](https://github.com/FahimF/sd-gui)

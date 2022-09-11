@@ -2139,6 +2139,7 @@
 - [rtp-rs](https://github.com/dholroyd/rtp-rs) - Rust reader for Real time Transport Protocol packet structure.
 - [mpeg2ts-reader](https://github.com/dholroyd/mpeg2ts-reader) - Rust reader for MPEG2 Transport Stream data.
 - [tokio-serial](https://github.com/berkowski/tokio-serial) - Implementation of serialport I/O for Tokio, an async framework for rust.
+- [Audio Filters](https://github.com/RustyDAW/audio-filters) - Collection of filters for real-time audio processing.
 
 ## Cargo Plugins
 

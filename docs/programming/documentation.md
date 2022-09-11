@@ -200,3 +200,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Offline-docs](https://github.com/naveennamani/offline-docs) - Collection of scripts to build offline documentation for your favorite frameworks/libraries.
 - [Search less, browse more](https://buttondown.email/hillelwayne/archive/search-less-browse-more-7595/) ([Lobsters](https://lobste.rs/s/g4ku0m/search_less_browse_more))
 - [Ask HN: Whats the best SDK documentation you’ve ever read, and why? (2022)](https://news.ycombinator.com/item?id=32794330)
+- [parse-changelog](https://github.com/taiki-e/parse-changelog) - Simple changelog parser, written in Rust.
