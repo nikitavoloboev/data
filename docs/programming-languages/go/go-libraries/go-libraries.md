@@ -1940,3 +1940,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [How to convert []interface{} to a JSON object in Go](https://www.reddit.com/r/golang/comments/x4v30p/how_to_convert_interface_to_a_json_object_in/)
 - [Which framework and ORM should we choose?](https://www.reddit.com/r/golang/comments/x68y0h/which_framework_and_orm_should_we_choose/)
 - [Adding a Bubbletea CLI Interface (2022)](https://blog.customct.com/adding-a-bubbletea-cli-interface)
+- [Which ORM framework are you using with Go, and why? (2022)](https://www.reddit.com/r/golang/comments/xaui7k/which_orm_framework_are_you_using_with_golang_and/)

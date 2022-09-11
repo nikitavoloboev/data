@@ -10,6 +10,7 @@ Many people still have bad stigma attached of people sharing nudes in public but
 - [Berber Theunissen](https://www.instagram.com/theunissenberber/) ([Web](https://www.berbertheunissen.nl/))
 - [Egor](https://www.instagram.com/egor_sh/)
 - [chill](https://www.instagram.com/thisissuperchill/)
+- [REKT](https://www.instagram.com/rektmag/) ([Web](https://www.rektmag.net/)) ([Links](https://linktr.ee/NausicaaYami))
 
 ## Reddit
 
@@ -53,3 +54,4 @@ Many people still have bad stigma attached of people sharing nudes in public but
 - [nude-rs](https://github.com/kpcyrd/nude-rs) - High performance nudity detection in rust.
 - [Inside Pornhub (2022)](https://www.theverge.com/c/22925906/pornhub-mindgeek-content-moderation) ([HN](https://news.ycombinator.com/item?id=30441276))
 - [Гайд по созданию мужских нюдсов “Как не фоткать пенис?”](https://telegra.ph/Gajd-po-sozdaniyu-muzhskih-nyudsov-Kak-ne-fotkat-penis-04-25)
+- [Nausicaa Yami by Cacique — RektMag](https://www.rektmag.net/home/2022/8/26/the-eyes-chico-they-never-lie)

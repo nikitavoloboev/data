@@ -1016,6 +1016,7 @@
 - [usignal](https://github.com/WebReflection/usignal) - Alternative to @preact/signals-core.
 - [multiformats](https://github.com/multiformats/js-multiformats) - Multiformats interface (multihash, multicodec, multibase and CID).
 - [cubing.js](https://github.com/cubing/cubing.js) - Library with modules for displaying and working with twisty puzzles.
+- [value-ref](https://github.com/spectjs/value-ref) - Value reference with reactivity.
 
 ## Links
 

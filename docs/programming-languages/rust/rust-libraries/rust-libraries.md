@@ -428,6 +428,8 @@
 - [Renet](https://github.com/lucaspoffo/renet) - Collection of rust crates to create Server/Client networked games.
 - [Collider](https://github.com/SergiusIW/collider-rs) - Rust library for continuous 2D collision detection, for use with game developement.
 - [Benimator](https://github.com/jcornaz/benimator) - Sprite animation library for rust game development.
+- [steamworks](https://github.com/Noxime/steamworks-rs) - Rust bindings to the SteamWorks SDK.
+- [Flax](https://github.com/ten3roberts/flax) - Fully featured and easy to use ECS library for rust.
 
 ## GraphQL
 
@@ -2234,6 +2236,7 @@
 - [cargo-pgo](https://github.com/Kobzol/cargo-pgo) - Cargo subcommand for optimizing binaries with PGO and BOLT.
 - [cargo feature-set](https://github.com/badboy/cargo-feature-set) - Extract the features for every compiled crate from cargo metadata.
 - [cargo-show-asm](https://github.com/pacak/cargo-show-asm) - Cargo subcommand that displays the Assembly, LLVM-IR and MIR generated for Rust source code.
+- [cargo add-dynamic](https://github.com/rksm/cargo-add-dynamic) - Allows to wrap dependencies as dylibs.
 
 ## Notes
 

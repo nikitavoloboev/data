@@ -418,3 +418,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [An overview of Node.js: architecture, APIs, event loop, concurrency](https://2ality.com/2022/09/nodejs-overview.html)
 - [Building Typescript Node Apps With Nix (2022)](https://johns.codes/blog/building-typescript-node-apps-with-nix)
 - [Floco](https://github.com/aameen-tulip/at-node-nix) - Node.js Nix expressions.
+- [node-jose](https://github.com/cisco/node-jose) - JavaScript implementation of the JSON Object Signing and Encryption (JOSE).

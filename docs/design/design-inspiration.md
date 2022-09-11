@@ -507,6 +507,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [MaybeVoid](https://maybevoid.com/)
 - [Zach Leatherman](https://www.zachleat.com/) ([Code](https://github.com/zachleat/zachleat.com))
 - [Nikita Kolmogorov](https://borodutch.com/)
+- [Aaro Peramaa](https://noxim.xyz/)
 - [Paul Copplestone](https://paul.copplest.one/)
 - [Sequoia McDowell](https://sequoia.makes.software/)
 - [Femke van Schoonhoven](https://www.femke.co.nz/)

@@ -172,3 +172,4 @@ title: Django
 - [Dataloaders for Django and Strawberry](https://github.com/VojtechPetru/strawberry-django-dataloaders)
 - [Django + htmx patterns](https://github.com/spookylukey/django-htmx-patterns)
 - [Django RQ Scheduler](https://github.com/dsoftwareinc/django-rq-scheduler) - Database backed job scheduler for Django RQ with Django.
+- [Chard](https://github.com/drpancake/chard) - Simple async/await task queue for Django. One process, no threads, no other dependencies.

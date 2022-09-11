@@ -197,3 +197,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [state.do](https://github.com/drivly/state.do) - Finite State Machine implementation with Durable Objects.
 - [Cache Supabase data at the Edge with Cloudflare Workers and KV Storage](https://egghead.io/courses/cache-supabase-data-at-the-edge-with-cloudflare-workers-and-kv-storage-883c7959)
 - [Workers that manage the cache](https://github.com/nix-ocaml/cloudflare-workers)
+- [HTTP server for Hono on Node.js](https://github.com/honojs/node-server)

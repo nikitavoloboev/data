@@ -342,3 +342,4 @@ Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for a
 - [React: The Most Prolific JavaScript Framework (2022)](https://www.youtube.com/watch?v=BBWA7PGJcts)
 - [Dan answering React/JS questions](https://twitter.com/dan_abramov/status/1565308270344126466)
 - [Preact Signals](https://github.com/preactjs/signals) - Performant state management library. ([Intro](https://preactjs.com/blog/introducing-signals/)) ([Tweet](https://twitter.com/_developit/status/1567209440843022341)) ([HN](https://news.ycombinator.com/item?id=32743078))
+- [Preact Signal Store](https://github.com/EthanStandel/preact-signal-store) - Use Preact Signals as full state management system.
