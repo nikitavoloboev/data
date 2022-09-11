@@ -154,3 +154,4 @@
 - [Property-Based Testing Against a Model of a Web Application (2022)](https://concerningquality.com/model-based-testing/)
 - [I have complicated feelings about TDD (2022)](https://buttondown.email/hillelwayne/archive/i-have-complicated-feelings-about-tdd-8403/) ([Lobsters](https://lobste.rs/s/r9xxld/i_have_complicated_feelings_about_tdd))
 - [Seriously, how do you TDD? (2022)](https://news.ycombinator.com/item?id=32712909)
+- [The Little Things: My "radical" opinions about unit tests (2022)](https://codingnest.com/the-little-things-my-radical-opinions-about-unit-tests/) ([Lobsters](https://lobste.rs/s/wgswc6/little_things_my_radical_opinions_about))

@@ -148,3 +148,4 @@
 - [Introducing the Markdown Language Server](https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server) ([Lobsters](https://lobste.rs/s/xvmr72/introducing_markdown_language_server))
 - [LSP-marksman](https://github.com/sublimelsp/LSP-marksman) - LSP server for Markdown provided through Marksman.
 - [Crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB.
+- [Ask HN: Is there any beautiful Markdown editor? (2022)](https://news.ycombinator.com/item?id=32797711)

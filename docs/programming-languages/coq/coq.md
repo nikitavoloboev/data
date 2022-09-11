@@ -168,3 +168,4 @@ title: Coq
 - [Choice Trees](https://github.com/vellvm/ctrees) - itree-like data-structure to additionally support internal non-determinism.
 - [Automatik](https://github.com/jdrprod/automatik) - Library of formalized graph and automata based algorithms.
 - [LibHyps](https://github.com/Matafou/LibHyps) - Coq library providing tactics to deal with hypothesis.
+- [CoqEAL](https://github.com/coq-community/coqeal) - Coq Effective Algebra Library.
