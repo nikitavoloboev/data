@@ -367,6 +367,7 @@
 - [e2-unification](https://github.com/fizruk/e2-unification) - Simple E-unification for second-order syntax.
 - [zip-codec](https://github.com/jappeace/zip-codec) - Parralel zip reading/writing.
 - [Sp.Eff](https://github.com/re-xyr/speff) - Fast scoped effects with evidence passing.
+- [odd-jobs](https://github.com/saurabhnanda/odd-jobs) - Haskell job queue with admin UI and loads of other features.
 
 ## Notes
 

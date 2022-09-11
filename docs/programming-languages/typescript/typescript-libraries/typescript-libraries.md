@@ -613,6 +613,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Crux](https://github.com/andyjessop/crux) - System for building web apps that are designed to be small, fast, and decoupled.
 - [packrup](https://github.com/harlan-zw/packrup) - Simple utils to pack (and unpack) arrays and strings to a flat object.
 - [cwait](https://github.com/charto/cwait) - Limit number of promises running in parallel.
+- [remember-promise](https://github.com/redabacha/remember-promise) - Remembering promises that were made.
 
 ## Links
 

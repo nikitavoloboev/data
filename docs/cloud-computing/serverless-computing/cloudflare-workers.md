@@ -139,7 +139,7 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Durable Objects REST Message Queue Example](https://github.com/ryan-mars/workers-queue-demo)
 - [helix-flare](https://github.com/launchport/helix-flare) - GraphQL for your Cloudflare Workers and Durable Objects.
 - [Turborepo Remote Cache API with Cloudflare KV](https://github.com/msutkowski/turborepo-remote-cache-api-cf-kv)
-- [Hono](https://github.com/yusukebe/hono) - Tiny web framework for Cloudflare Workers and Fastly Compute@Edge.
+- [Hono](https://github.com/yusukebe/hono) - Tiny web framework for Cloudflare Workers and Fastly Compute@Edge. ([Minimal example](https://github.com/honojs/hono-minimal)) ([Examples](https://github.com/honojs/examples))
 - [turborcache](https://github.com/cometkim/turbocache) - Cloudflare Workers as a custom remote cache for Turborepo.
 - [CloudFlare Workers FormData](https://github.com/TomasHubelbauer/workers-formdata)
 - [edgerender](https://github.com/samuelcolvin/edgerender) - Render at the edge.
