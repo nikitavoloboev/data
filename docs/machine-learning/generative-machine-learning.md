@@ -39,3 +39,5 @@
 - [CLIP-Mesh: Generating textured meshes from text using pretrained image-text models (2022)](https://www.nasir.lol/clipmesh) ([Code](https://github.com/NasirKhalid24/CLIP-Mesh))
 - [Prompt-to-Prompt Image Editing with Cross Attention Control (2022)](https://arxiv.org/abs/2208.01626) ([Code](https://github.com/bloc97/CrossAttentionControl))
 - [Stable Diffusion REST API](https://github.com/yuanqing/stable-diffusion-rest-api)
+- [Visual Taste Approximator](https://github.com/SelfishGene/visual_taste_approximator) - Simple tool that helps anyone create an automatic replica of themselves that can approximate their own personal visual taste.
+- [Stable Diffusion concepts library](https://huggingface.co/sd-concepts-library) ([Tweet](https://twitter.com/karpathy/status/1568644275247923206))

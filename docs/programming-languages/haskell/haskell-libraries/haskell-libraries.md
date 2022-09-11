@@ -366,6 +366,7 @@
 - [type-level-json](https://github.com/dmjio/type-level-json) - RFC 8259 compliant parser for JSON, within the Haskell type system.
 - [e2-unification](https://github.com/fizruk/e2-unification) - Simple E-unification for second-order syntax.
 - [zip-codec](https://github.com/jappeace/zip-codec) - Parralel zip reading/writing.
+- [Sp.Eff](https://github.com/re-xyr/speff) - Fast scoped effects with evidence passing.
 
 ## Notes
 

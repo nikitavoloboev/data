@@ -884,3 +884,4 @@ title: Rust
 - [Attacking Firecracker: AWS' microVM Monitor Written in Rust (2022)](https://www.graplsecurity.com/post/attacking-firecracker)
 - [Speeding up incremental Rust compilation with dylibs (2022)](https://robert.kra.hn/posts/2022-09-09-speeding-up-incremental-rust-compilation-with-dylibs/)
 - [Creative Projects for Rust Programmers (2020)](https://www.packtpub.com/product/creative-projects-for-rust-programmers/9781789346220) ([Code](https://github.com/PacktPublishing/Creative-Projects-for-Rust-Programmers))
+- [You Can't Do That: Abstracting over Ownership in Rust with Higher-Rank Type Bounds. Or Can You? (2022)](https://lucumr.pocoo.org/2022/9/11/abstracting-over-ownership/)

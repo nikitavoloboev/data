@@ -164,3 +164,4 @@
 - [Why Sri Lanka is having an economic crisis (2022)](https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic) ([Tweet](https://twitter.com/Noahpinion/status/1546719140227911681))
 - [All poverty is energy poverty (2022)](https://omnibudsman.substack.com/p/all-poverty-is-energy-poverty) ([HN](https://news.ycombinator.com/item?id=32724162))
 - [What to read to understand central banking (2022)](https://www.economist.com/the-economist-reads/2022/09/07/what-to-read-to-understand-central-banking) ([HN](https://news.ycombinator.com/item?id=32761429))
+- [Great resources to understand banking (2022)](https://twitter.com/fstflofscholars/status/1568709052150038528)

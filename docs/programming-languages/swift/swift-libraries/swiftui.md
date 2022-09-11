@@ -250,3 +250,4 @@ title: SwiftUI
 - [Apple’s use of AppKit, Mac Catalyst and SwiftUI in macOS (2022)](https://blog.timac.org/2022/0818-state-of-appkit-catalyst-swiftui-mac/)
 - [Why I quit using SwiftUI (2022)](https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html) ([HN](https://news.ycombinator.com/item?id=32630389))
 - [React Meets SwiftUI](https://github.com/bmcmahen/react-meets-swiftui) - Common react design patterns implemented in SwiftUI.
+- [Natalia Panferova - Mysteries of SwiftUI Text View (2022)](https://www.youtube.com/watch?v=-l7RsBENLbI)

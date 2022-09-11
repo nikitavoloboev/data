@@ -353,3 +353,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [GraphQL Armor](https://github.com/Escape-Technologies/graphql-armor) - Dead-simple yet highly customizable security middleware for various GraphQL server engines.
 - [Join Data from PostgreSQL Declaratively in GraphQL Without Writing SQL (2022)](https://stepzen.com/blog/join-data-postgresql-declarative-graphql-without-sql) ([HN](https://news.ycombinator.com/item?id=32420081))
 - [Flatbread](https://github.com/FlatbreadLabs/flatbread) - Consume relational, flat-file data using GraphQL in any static framework.
+- [graphql-edge](https://github.com/ysugimoto/graphql-edge) - Execute GraphQL on the edge.

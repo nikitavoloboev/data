@@ -33,6 +33,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Rapid-CG](https://github.com/CGamesPlay/rapid-cg) - Database access layer that relies on code generation to provide a strongly-typed database client.
 - [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. ([TypeORM naming strategies](https://github.com/tonivj5/typeorm-naming-strategies)) ([TypeORM Tutorial](https://www.youtube.com/watch?v=sNosL578ECo))
 - [Safe-TypeORM](https://github.com/samchon/safe-typeorm) - TypeORM helper library enhancing safety in the compilation level.
+- [SafeQL](https://github.com/ts-safeql/safeql) - Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
 
 ## Web
 

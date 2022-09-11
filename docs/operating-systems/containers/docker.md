@@ -260,3 +260,4 @@ Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432
 - [dcp](https://github.com/exdx/dcp) - Docker cp made easy.
 - [Container ToolKit](https://github.com/ctk-hq/ctk) - Visually generate docker compose manifests and deploy apps to AWS ECS.
 - [Lug](https://github.com/trytoolchest/lug) - Lug lets you run Python functions paired with any Docker container.
+- [docker-api](https://github.com/vv9k/docker-api-rs) - Rust interface to Docker containers.

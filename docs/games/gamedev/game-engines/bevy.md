@@ -61,3 +61,4 @@ title: Bevy Engine
 - [Bevy Shell - Template](https://github.com/kurbos/bevy-shell-template) - Opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
 - [iyes_progress](https://github.com/IyesGames/iyes_progress) - Bevy plugin to help track progress and perform state transitions.
 - [bevy_water](https://github.com/Neopallium/bevy_water) - Dynamic ocean material for Bevy.
+- [bevy_efficient_forest_example](https://github.com/pinkponk/bevy_efficient_forest_rendering) - Using bevy and custom render pipelines in order to render many objects in a forest using chunks for performance.
