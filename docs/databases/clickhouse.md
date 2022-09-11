@@ -36,3 +36,4 @@ title: ClickHouse
 - [ClickHouse and the open source modern data stack (2022)](https://blog.luabase.com/clickhouse-for-data-nerds/)
 - [Jaeger ClickHouse](https://github.com/jaegertracing/jaeger-clickhouse) - Jaeger gRPC storage plugin implementation for storing traces in ClickHouse.
 - [ClickHouse Playground](https://fiddle.clickhouse.com/) ([Code](https://github.com/lodthe/clickhouse-playground))
+- [ClickHouse Rust Client](https://github.com/datafuse-extras/clickhouse_driver) - Asynchronous pure rust tokio-based Clickhouse client library.

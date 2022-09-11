@@ -114,3 +114,4 @@
 - [Prog Rock Stable](https://github.com/lowfuel/progrock-stable) - Stable Diffusion with some Proggy Enhancements.
 - [Diffusers-Interpret](https://github.com/JoaoLages/diffusers-interpret) - Model explainability tool built on top of Diffusers.
 - [Using GitHub as Artifactory for Machine Learning Model Artifacts (2022)](https://omkar.xyz/gaama/)
+- [Replicate](https://replicate.com/) - Run open-source machine learning models with a cloud API. ([Go Replicate](https://github.com/sausheong/goreplicate))

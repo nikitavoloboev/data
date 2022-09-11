@@ -467,3 +467,4 @@ if (
 - [International JavaScript Conference](https://javascript-conference.com/) ([Twitter](https://twitter.com/JavaScriptCon))
 - [Dune](https://github.com/aalykiot/dune) - Hobby runtime for JavaScript and TypeScript.
 - [Proposal for resizable array buffers](https://github.com/tc39/proposal-resizablearraybuffer)
+- [YouTube-dl has a JavaScript interpreter written in 870 lines of Python](https://github.com/ytdl-org/youtube-dl/blob/master/youtube_dl/jsinterp.py) ([HN](https://news.ycombinator.com/item?id=32793061))

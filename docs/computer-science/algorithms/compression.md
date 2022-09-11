@@ -142,3 +142,4 @@
 - [unblob](https://github.com/onekey-sec/unblob) - Accurate and fast extraction suite for 30+ formats. ([Docs](https://unblob.org/)) ([Lobsters](https://lobste.rs/s/t4ktez/unblob_accurate_fast_extraction_suite))
 - [Brotli-WASM](https://github.com/httptoolkit/brotli-wasm) - Reliable compressor and decompressor for Brotli, supporting node & browsers via WASM.
 - [ZSTD seekable compression format implementation in Go](https://github.com/SaveTheRbtz/zstd-seekable-format-go)
+- [zstd compressed debug sections (2022)](https://maskray.me/blog/2022-09-09-zstd-compressed-debug-sections)

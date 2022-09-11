@@ -59,3 +59,4 @@ title: Remote Procedure Calls
 - [Volo](https://github.com/cloudwego/volo) - High-performance and strong-extensibility Rust RPC framework that helps developers build microservices.
 - [Seata-go](https://github.com/seata/seata-go) - Simple Extensible Autonomous Transaction Architecture (Go version).
 - [webrpc](https://github.com/astronautlabs/webrpc) - Powerful way to do RPC on the web.
+- [fRPC](https://frpc.io/) - Proto3-compatible RPC Framework that's designed from the ground up to belightweight, extensible, and extremely performant. ([Code](https://github.com/loopholelabs/frpc-go))

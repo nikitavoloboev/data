@@ -249,3 +249,4 @@ title: Spatial analysis
 - [Improved Galileo Time to First Fix (2022)](https://berthub.eu/articles/posts/improved-galileo-fix-time/)
 - [nakarte.me](https://nakarte.me/) ([Code](https://github.com/wladich/nakarte))
 - [Toolbox-rs](https://github.com/DennisOSRM/toolbox-rs) - Toolbox of basic data structures and algorithms.
+- [Rethinking GPS: Engineering Next-Gen Location at Uber (2018)](https://www.uber.com/en-SE/blog/rethinking-gps/) ([HN](https://news.ycombinator.com/item?id=32795169))

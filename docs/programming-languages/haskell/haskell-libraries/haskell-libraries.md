@@ -23,6 +23,7 @@
 - [Biscuit](https://github.com/biscuit-auth/biscuit-haskell) - Haskell libraries providing support for the Biscuit auth toolkit.
 - [network](https://github.com/haskell/network) - Low-level networking interface.
 - [OpenAPI Code Generator](https://github.com/Haskell-OpenAPI-Code-Generator/Haskell-OpenAPI-Client-Code-Generator) - Generate Haskell client code from an OpenAPI 3 specification.
+- [Yesod](https://github.com/yesodweb/yesod) - RESTful Haskell web framework built on WAI.
 
 ## DB
 
@@ -424,3 +425,4 @@
 - [JSON with Haskell (2022)](https://alt-romes.github.io/archive/2022-05-28-lecture-6.html)
 - [haskell-butler](https://github.com/TristanCacqueray/haskell-butler) - Library provides a virtual operating system to run your Haskell program.
 - [Haskell real world example app](https://github.com/nodew/haskell-realworld-example)
+- [Collection of Practical Haskell bits](https://github.com/dnikolovv/practical-haskell)

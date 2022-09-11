@@ -97,3 +97,4 @@ title: Shaders
 - [GLSLCanvas4AE](https://github.com/baku89/glslCanvas4AE) - After Effects Plug-in to write GLSL with a format of glslCanvas.
 - [PlayCanvas glTF Viewer](https://github.com/playcanvas/model-viewer) - glTF 2.0 model viewer.
 - [Bauble](https://bauble.studio/) - Make 3D art in your browser using Lisp and math. ([Code](https://github.com/ianthehenry/bauble)) ([HN](https://news.ycombinator.com/item?id=32738654))
+- [Rendering my balls in a fragment shader](https://www.getlazarus.org/pool/balls/)

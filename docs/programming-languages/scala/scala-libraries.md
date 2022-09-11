@@ -17,6 +17,7 @@
 - [Tyrian](https://github.com/PurpleKingdomGames/tyrian) - Elm-inspired Scala UI library for Scala 3.
 - [guardrail](https://github.com/guardrail-dev/guardrail) - Principled code generation from OpenAPI specifications.
 - [Cask](https://github.com/com-lihaoyi/cask) - Scala HTTP micro-framework.
+- [http4s-curl](https://github.com/http4s/http4s-curl) - Experimental client for http4s on Scala Native, backed by libcurl.
 
 ## CLI
 

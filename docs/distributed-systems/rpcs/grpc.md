@@ -126,3 +126,4 @@ title: gRPC
 - [Connect-Web](https://github.com/bufbuild/connect-web) - Simple, reliable, interoperable. A better gRPC-Web. ([Article](https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser)) ([HN](https://news.ycombinator.com/item?id=32345670))
 - [Why Does gRPC Insist on Trailers? (2022)](https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers) ([HN](https://news.ycombinator.com/item?id=32380769))
 - [Go gRPC Examples](https://github.com/itsksaurabh/go-grpc-examples)
+- [gRPC Go Master Class: Build Modern API & Micro services](https://github.com/Clement-Jean/grpc-go-course)

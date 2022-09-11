@@ -669,3 +669,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Creativity requires solitude](https://dkb.show/post/creativity-requires-solitude) ([HN](https://news.ycombinator.com/item?id=32595681))
 - [Hacker News Search With RSS & JSON Feeds](http://hnapp.com/) ([Code](https://github.com/raquo/hnapp))
 - [Best of PH every month](http://bestofeverymonth.herokuapp.com/)
+- [Boxes.py](https://festi.info/boxes.py/) - Create boxes and more with a laser cutter. ([HN](https://news.ycombinator.com/item?id=32778048))

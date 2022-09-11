@@ -82,6 +82,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 ## GraphQL
 
 - [GraphQL Query Builder](https://github.com/atulmy/gql-query-builder) - Simple helper function to generate GraphQL queries using plain JavaScript Objects (JSON).
+- [Typed GraphQL Builder](https://github.com/typed-graphql-builder/typed-graphql-builder) - GraphQL query builder that replaces gql query strings or .graphql files in your code with pure TypeScript.
 
 ## Test
 

@@ -195,3 +195,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [Ask HN: Working in tech for climate? (2022)](https://news.ycombinator.com/item?id=32324592)
 - [Notes on Progress: An environmentalist gets lunch (2022)](https://worksinprogress.substack.com/p/notes-on-progress-an-environmentalist)
 - [Datasets, models, interactives, and commentary on carbon removal](https://github.com/carbonplan/research)
+- [How to bury carbon? Let plants do the dirty work](https://worldsensorium.com/how-to-bury-carbon-let-plants-do-the-dirty-work/) ([HN](https://news.ycombinator.com/item?id=32794424))

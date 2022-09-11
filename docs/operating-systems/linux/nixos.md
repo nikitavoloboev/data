@@ -246,3 +246,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Getting Stable Diffusion Running on NixOS (2022)](https://xeiaso.net/blog/stable-diffusion-nixos)
 - [NixOS Images](https://github.com/nix-community/nixos-images) - Automatically weekly updated images for NixOS.
 - [One Year With the Framework Laptop and NixOS (2022)](https://blog.tjll.net/one-year-with-nixos-on-framework/)
+- [Migrating primary drive on NixOS (2022)](https://lunnova.dev/articles/migrating-main-drive-nixos-tmpfs-root/)

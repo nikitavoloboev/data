@@ -646,3 +646,4 @@
 - [DocQuery](https://github.com/impira/docquery) - Document Query Engine Powered by NLP. ([Article](https://www.impira.com/blog/hey-machine-whats-my-invoice-total)) ([Tweet](https://twitter.com/ankrgyl/status/1565437042032402433))
 - [Petals](https://github.com/bigscience-workshop/petals) - Decentralized platform for running 100B+ language models.
 - [LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding (2022)](https://arxiv.org/abs/2202.13669) ([Code](https://github.com/jpWang/LiLT))
+- [ekphrasis](https://github.com/cbaziotis/ekphrasis) - Text processing tool, geared towards text from social networks.

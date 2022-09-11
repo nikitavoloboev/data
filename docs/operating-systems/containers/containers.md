@@ -229,3 +229,5 @@
 - [lazytrivy](https://github.com/owenrumney/lazytrivy) - Secure images, for lazy people.
 - [Conmon-rs](https://github.com/containers/conmon-rs) - Container monitor in Rust.
 - [SOCI Snapshotter](https://github.com/awslabs/soci-snapshotter) - Containerd snapshotter plugin.
+- [Sleeping Beauty](https://github.com/radian-software/sleeping-beauty) - Web server auto-sleep for containerized environments.
+- [Afterburn](https://github.com/coreos/afterburn) - One-shot agent for cloud-like platforms which interacts with provider-specific metadata endpoints.

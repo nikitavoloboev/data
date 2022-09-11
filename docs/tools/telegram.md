@@ -147,6 +147,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Transcriber_Bot](https://telegram.me/Transcriber_Bot) - Transcribes voice messages and pictures into text.
 - [Teletok](https://github.com/ernado/teletok) - Telegram bot for TikTok download.
 - [CITelegramBot](https://github.com/VladKopanev/CITelegramBot) - Telegram Bot For CI Notifications written In Scala 3.
+- [Price Tracker](https://github.com/siddiquiaffan/price-tracker) - Telegram bot including API, which can track product prices & ping you on any changes.
 
 ## Notes
 

@@ -274,3 +274,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [What are the non-egregious "chemistry killers" for you? (2022)](https://www.reddit.com/r/datingoverthirty/comments/wisqmb/what_are_the_nonegregious_chemistry_killers_for/)
 - [Diagnosed Narcissist talks about why he has no friends](https://www.reddit.com/r/interestingasfuck/comments/wkq44b/diagnosed_narcissist_talks_about_why_he_has_no/)
 - [Fellow men, what lessons have you learned after breaking up?](https://www.reddit.com/r/AskMen/comments/x63yag/fellow_men_what_lessons_have_you_learned_after/)
+- [Ask HN: Solopreneurs, how do you maintain a professional/social network? (2022)](https://news.ycombinator.com/item?id=32795970)

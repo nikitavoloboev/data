@@ -415,3 +415,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Acutis](https://github.com/johnridesabike/acutis) - Declarative, type-safe template language.
 - [ICFP Contest 2022](https://icfpcontest2022.github.io/) ([Twitter](https://twitter.com/icfpcontest2022))
 - [Language garden](https://github.com/brendanzab/language-garden) - Some toy programming language implementations, mostly implemented in OCaml.
+- [Prettify](https://liquify.dev/playground/prettify) - Code beautification tool for formatting HTML, Liquid, JavaScript, TypeScript, CSS/SCSS and more. ([Code](https://github.com/panoply/prettify))

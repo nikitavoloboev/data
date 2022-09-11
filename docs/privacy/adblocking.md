@@ -47,3 +47,4 @@
 - [Setting Up a Pi Hole Made My Home Network Faster (2019)](https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/) ([HN](https://news.ycombinator.com/item?id=31549238))
 - [PaesaDNS](https://github.com/milgradesec/paesadns) - Free ad-blocking and privacy focused DNS over HTTPS service.
 - [A layered approach to content blocking (2022)](https://seirdy.one/posts/2022/06/04/layered-content-blocking/)
+- [1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced DNS filter-/blocklists.

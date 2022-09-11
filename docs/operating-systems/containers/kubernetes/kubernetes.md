@@ -807,3 +807,5 @@ title: Kubernetes
 - [Open-Simulator](https://github.com/alibaba/open-simulator) - Cluster simulator for Kubernetes.
 - [The Book of Kubernetes (2022)](https://nostarch.com/book-kubernetes)
 - [kubectl-watch](https://github.com/imuxin/kubectl-watch) - Watch tool with visualization view of delta change for kubectl.
+- [Kubectl-debug](https://github.com/JamesTGrant/kubectl-debug) - Debug a target container in a Kubernetes cluster by automatically creating a new, non-invasive, 'debug' container.
+- [Consul on Kubernetes](https://github.com/hashicorp/consul-k8s) - First-class support for Consul Service Mesh on Kubernetes.

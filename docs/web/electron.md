@@ -72,3 +72,4 @@ I prefer to build things natively with [SwiftUI](../programming-languages/swift/
 - [Electron + Vite + React + Sass + boilerplate](https://github.com/electron-vite/electron-vite-react)
 - [Making a better auto updating prompt for Electron apps](https://twitter.com/vadimdemedes/status/1542235011188805634)
 - [VueUse Electron](https://github.com/vueuse/electron) - Enables electron renderer process API as Vue Composition API.
+- [Vite Electron Plugin](https://github.com/electron-vite/vite-plugin-electron)

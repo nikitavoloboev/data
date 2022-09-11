@@ -53,3 +53,4 @@ title: Arweave
 - [Awesome Arweave](https://github.com/bitruss/awesome-arweave)
 - [Akord](https://akord.com/) - Permanent storage and end-to-end encryption. ([Twitter](https://twitter.com/AkordTeam))
 - [Arweave.news](https://arweave.news/)
+- [Full stack development with Arweave, Warp, and Next.js](https://github.com/dabit3/full-stack-warp-arweave) ([Article](https://dev.to/dabit3/building-full-stack-applications-with-arweave-and-nextjs-28hg))

@@ -559,6 +559,9 @@
 - [Pow](https://github.com/movingparts-io/Pow) - Delightful SwiftUI transitions for your app.
 - [WrapLayout](https://github.com/muukii/WrapLayout) - Custom layout built on top of SwiftUI's Layout API that lays elements out in multiple lines.
 - [AsyncView](https://github.com/ralfebert/AsyncView) - SwiftUI View for handling in-progress and error states when loading data asynchronously using async/await.
+- [ShuffleIt](https://github.com/dscyrescotti/ShuffleIt) - UI library for SwiftUI custom stack views with a wide range of elegant and unique shuffling, sliding and swiping behaviors.
+- [Axt](https://github.com/soundcloud/Axt) - SwiftUI view testing library.
+- [Controls](https://github.com/AudioKit/Controls) - SwiftUI Knobs, Sliders, X-Y Pads, and more.
 
 ## Test
 
