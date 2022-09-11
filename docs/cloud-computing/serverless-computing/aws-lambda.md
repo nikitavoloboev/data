@@ -148,3 +148,4 @@ title: AWS Lambda
 - [Rust Lambda API template](https://github.com/saucepoint/rust-lambda-api) - Template repo for quickly creating an HTTP API with Rust hosted on AWS Lambda.
 - [Buildkite Agent Scaler](https://github.com/buildkite/buildkite-agent-scaler) - Lambda for scaling an AutoScalingGroup based on Buildkite metrics.
 - [AWS Lambda Terraform module](https://github.com/terraform-aws-modules/terraform-aws-lambda)
+- [Lambda Builders](https://github.com/aws/aws-lambda-builders) - Python library to compile, build & package AWS Lambda functions for several runtimes & framework.

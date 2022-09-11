@@ -6,6 +6,10 @@ title: Observability
 
 [ArcticDB](https://github.com/polarsignals/arcticdb) & [New Relic](https://newrelic.com) seem useful.
 
+## Notes
+
+- [I’m increasingly of the opinion that we should stop using “logging” libraries, and instead we should produce telemetry via events using something like OpenTelemetry’s trace API. These traces can be rendered as strings for people who like their logs in files.](https://news.ycombinator.com/item?id=32800598)
+
 ## Links
 
 - [What is Observability (2021)](https://brendangregg.com/blog/2021-05-23/what-is-observability.html)

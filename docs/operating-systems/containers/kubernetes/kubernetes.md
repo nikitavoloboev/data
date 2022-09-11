@@ -810,3 +810,5 @@ title: Kubernetes
 - [Kubectl-debug](https://github.com/JamesTGrant/kubectl-debug) - Debug a target container in a Kubernetes cluster by automatically creating a new, non-invasive, 'debug' container.
 - [Consul on Kubernetes](https://github.com/hashicorp/consul-k8s) - First-class support for Consul Service Mesh on Kubernetes.
 - [Useful Kubernetes tools (2022)](https://www.reddit.com/r/kubernetes/comments/xauuxk/what_are_some_useful_kubernetes_tools_you_can/)
+- [Kusk Gateway](https://github.com/kubeshop/kusk-gateway) - Enables you to design and configure your APIs from single OpenAPI manifest.
+- [Kubefirst CLI](https://github.com/kubefirst/kubefirst) - GitOps Infrastructure & Application Delivery Platform.

@@ -360,6 +360,10 @@ title: GitHub actions
 - [bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command.
 - [repo2docker](https://github.com/jupyterhub/repo2docker-action) - GitHub action to build data science environment images with repo2docker and push them to registries.
 
+## Postgres
+
+- [pg-dump](https://github.com/tj-actions/pg-dump) - GitHub action to generate backup of a postgres database.
+
 ## Kubernetes
 
 - [GitHub Action for Kubernetes CLI](https://github.com/steebchen/kubectl) - Provides kubectl for GitHub Actions.

@@ -516,3 +516,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Computer Networking : Principles,Protocols and Practice](https://www.computer-networking.info/) ([Twitter](https://twitter.com/cnp3_ebook))
 - [How to send raw network packets in Python with tun/tap (2022)](https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/)
 - [cidr](https://github.com/bschaatsbergen/cidr) - CLI to perform various actions on CIDR ranges.
+- [Sniffnet](https://github.com/GyulyVGC/sniffnet) - Packet sniffer completely written in Rust. Multithreaded, cross-platform, reliable.

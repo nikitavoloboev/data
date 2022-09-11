@@ -72,6 +72,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Chris Montgomery](https://github.com/montchr/dotfield)
 - [Michael Walker](https://github.com/barrucadu/nixfiles)
 - [Jake Hamilton](https://github.com/jakehamilton/config)
+- [Matthias’ NixOS & Nix-Darwin System Configuration Flake](https://github.com/MatthiasBenaets/nixos-config)
 
 ## Nix configs (macOS)
 

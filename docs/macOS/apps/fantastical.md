@@ -45,3 +45,4 @@ I often switch between `Week` and `Month` views.
 - [rrule-go](https://github.com/teambition/rrule-go) - Go library for working with recurrence rules for calendar dates.
 - [go-ical](https://github.com/emersion/go-ical) - iCalendar library for Go.
 - [webdav](https://github.com/hacdias/webdav) - Simple Go WebDAV server.
+- [dave](https://github.com/micromata/dave) - Simple and very easy to configure stand alone webdav server.

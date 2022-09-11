@@ -1246,6 +1246,7 @@
 - [GetLaid](https://github.com/flowtoolz/GetLaid) - Most Readable & Concise AutoLayout Swift Code.
 - [Crossroad](https://github.com/giginet/Crossroad) - Route URL schemes easily.
 - [BytePatternFinder](https://github.com/Sajjon/BytePattern) - Pattern matcher for bytes.
+- [AudioKitEX](https://github.com/AudioKit/AudioKitEX) - Extension to AudioKit contains all of the AudioKit features that rely on C/C++ DSP.
 
 ## Other (not lib)
 

@@ -37,6 +37,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [grammY Free Sessions](https://github.com/grammyjs/storage-free)
 - [grammY Hydrate](https://github.com/grammyjs/hydrate) - Hydration plugin for API calls and context objects.
 - [grammY AutoQuote](https://github.com/roziscoding/grammy-autoquote) - Forces all sent messages to quote the last received one.
+- [grammY History](https://github.com/grammyjs/history) - Telegram does not store the chat history for your bot. This plugin does.
 - [Markup plugin for grammY](https://github.com/Loskir/grammy-markup) - Provides telegraf-like keyboard and inline keyboard builders.
 - [botgram](https://github.com/botgram/botgram) - Microframework to build Telegram bots. ([Web](https://botgram.js.org/))
 - [Node.js Telegram Bot API](https://github.com/yagop/node-telegram-bot-api)

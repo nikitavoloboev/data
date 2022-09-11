@@ -109,3 +109,4 @@ I personally don't plan to live for long once my body starts truly breaking down
 - [Blue Zones, where people reach age 100 at 10 times greater rates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125071/) ([HN](https://news.ycombinator.com/item?id=32143344))
 - [Ask HN: Longevity for your parents, what to do? (2022)](https://news.ycombinator.com/item?id=32366557)
 - [Rapamycin, drug used in cancer therapy, emerges as powerful anti-aging remedy](https://www.age.mpg.de/communications/news/detail/times-arrow) ([HN](https://news.ycombinator.com/item?id=32660669))
+- [What are best things you can start in your 30's to promote health and longevity? (2022)](https://www.reddit.com/r/AskMenOver30/comments/xbefta/what_are_best_things_you_can_start_in_your_30s_to/)

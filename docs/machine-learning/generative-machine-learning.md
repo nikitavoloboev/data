@@ -43,3 +43,4 @@
 - [Stable Diffusion concepts library](https://huggingface.co/sd-concepts-library) ([Tweet](https://twitter.com/karpathy/status/1568644275247923206))
 - [Stable Diffusion for Apple Silicon](https://github.com/FahimF/sd-gui)
 - [Learn time series with a story illustrated by Stable Diffusion (2022)](https://tigyog.app/d/L-8D8R2yeXLY/r/an-everyday-look-at-time-series) ([HN](https://news.ycombinator.com/item?id=32768005))
+- [Daemon which watches a queue and runs stable diffusion](https://github.com/w4ffl35/stablediffusiond)
