@@ -119,6 +119,7 @@
 - [Elements of Programming Book](http://elementsofprogramming.com/)
 - [Algorithms & Data Structures studies](https://github.com/imteekay/algorithms)
 - [CS 168: The Modern Algorithmic Toolbox, Spring 2022](https://web.stanford.edu/class/cs168/index.html) ([HN](https://news.ycombinator.com/item?id=32788475))
+- [Graph Algorithms Cheat Sheet For Coding Interviews](https://memgraph.com/blog/graph-algorithms-cheat-sheet-for-coding-interviews)
 
 ## Images
 

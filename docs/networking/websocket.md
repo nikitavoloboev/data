@@ -112,3 +112,4 @@ title: WebSocket
 - [Writing a toy WebSocket server from scratch (2022)](https://alexanderell.is/posts/websockets-from-scratch/) ([HN](https://news.ycombinator.com/item?id=32634038))
 - [PWS](https://github.com/porsager/pws) - Persistent Web Sockets.
 - [Example: Serverless WebSockets on AWS](https://github.com/mikaelvesavuori/aws-serverless-websockets-example)
+- [WebSockets in curl](https://curl.se/docs/websockets.html) ([HN](https://news.ycombinator.com/item?id=32778908))

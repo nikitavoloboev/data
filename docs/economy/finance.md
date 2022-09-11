@@ -130,7 +130,7 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance)
 - [Spreadsheet formulas for personal finance (2021)](https://bou.ke/blog/formulas/) ([HN](https://news.ycombinator.com/item?id=28037317))
 - [Best software for submitting receipts](https://twitter.com/maccaw/status/1424826881828954123)
-- [TigerBeetle](https://github.com/coilhq/tigerbeetle) - Distributed financial accounting database designed for mission critical safety and performance to power the future of financial services. ([Web](https://www.tigerbeetle.com/))
+- [TigerBeetle](https://github.com/coilhq/tigerbeetle) - Distributed financial accounting database designed for mission critical safety and performance to power the future of financial services. ([Web](https://www.tigerbeetle.com/)) ([Why need it](https://twitter.com/phil_eaton/status/1568247444684554241)) ([HN](https://news.ycombinator.com/item?id=32779851))
 - [Go DB Ledger](https://github.com/darcys22/godbledger) - Accounting Software with GRPC endpoints and SQL Backends. ([Web](https://godbledger.com/))
 - [How you can track your personal finances using Python (2021)](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/) ([HN](https://news.ycombinator.com/item?id=28418925))
 - [Invoy](https://invoy.app/) - Super simple invoicing. ([Twitter](https://twitter.com/invoyco))

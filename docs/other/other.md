@@ -652,7 +652,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Emoji Kitchen](https://emoji.supply/kitchen/) ([HN](https://news.ycombinator.com/item?id=32232546))
 - [Ask HN: What technologies have made your life worse? (2022)](https://news.ycombinator.com/item?id=32227006)
 - [The Maintenance Race (2022)](https://www.worksinprogress.co/issue/the-maintenance-race/) ([HN](https://news.ycombinator.com/item?id=32196345))
-- [Brickit](https://brickit.app/) - Build new things from your old bricks.
+- [Brickit](https://brickit.app/) - Build new things from your old bricks. ([HN](https://news.ycombinator.com/item?id=32796324))
 - [Noah Smith's hot takes](https://twitter.com/Noahpinion/status/1494402846707486720)
 - [Famous HNers and their sites](https://jessimekirk.com/blog/hn_users_links/) ([HN](https://news.ycombinator.com/item?id=32291993))
 - [KVN-Studio x Страдающее Средневековье](http://kvn-studio.com/xmedievalsuffering) - Посуда средневековых миниатюр.
@@ -670,3 +670,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Hacker News Search With RSS & JSON Feeds](http://hnapp.com/) ([Code](https://github.com/raquo/hnapp))
 - [Best of PH every month](http://bestofeverymonth.herokuapp.com/)
 - [Boxes.py](https://festi.info/boxes.py/) - Create boxes and more with a laser cutter. ([HN](https://news.ycombinator.com/item?id=32778048))
+- [Bored Wizards Discord](https://discord.com/invite/aF8m3nyV)

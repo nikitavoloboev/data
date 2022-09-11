@@ -244,3 +244,4 @@
 - [MLIR Playground](https://playground.mlir-china.org/) - Play with MLIR directly in your browser. ([Code](https://github.com/MLIR-China/mlir-playground))
 - [A Catalogue of Optimizing Transformations (1971)](https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf)
 - [Sarus](https://github.com/DGriffin91/Sarus) - JIT compiled language designed for real time contexts.
+- [History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking)](https://github.com/enzet/symbolic-execution)

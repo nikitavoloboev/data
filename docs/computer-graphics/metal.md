@@ -63,3 +63,4 @@ title: Metal
 - [MeshGradient](https://github.com/Nekitosss/MeshGradient) - Metal-based implementation of beautiful mesh gradient.
 - [MetalNanoVG](https://github.com/ollix/MetalNanoVG) - Native Metal port of NanoVG that tries to get the most out of Apple's Graphics APIs.
 - [MetalPlayer](https://github.com/unixzii/MetalPlayer) - Sample project to demonstrate how to play videos with filters using Metal and AVFoundation.
+- [hwoa-rang-metal](https://github.com/gnikoloff/hwoa-rang-metal) - Minimum Apple Metal rendering library.

@@ -258,3 +258,4 @@
 - [lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation.
 - [auth](https://github.com/arianvp/auth) - Highly modern, secure and minimal identity management platform.
 - [Stytch](https://stytch.com/) - User infrastructure + passwordless authentication.
+- [Ask HN: What are the alternatives to phone authentication? (2022)](https://news.ycombinator.com/item?id=32737963)

@@ -131,3 +131,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Steller](https://steller.co/) - Discover Epic Experiences. ([Twitter](https://twitter.com/Stellerstories))
 - [Alternative wonders of the world](https://twitter.com/culturaltutor/status/1553472360434515973) ([HN](https://news.ycombinator.com/item?id=32295763))
 - [Komoot](https://www.komoot.com/) - Find, plan and share your adventures.
+- [What is your go-to bag recommendations? (2022)](https://www.reddit.com/r/onebag/comments/xb0pm4/what_is_your_goto_bag_recommendations/)

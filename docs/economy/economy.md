@@ -165,3 +165,4 @@
 - [All poverty is energy poverty (2022)](https://omnibudsman.substack.com/p/all-poverty-is-energy-poverty) ([HN](https://news.ycombinator.com/item?id=32724162))
 - [What to read to understand central banking (2022)](https://www.economist.com/the-economist-reads/2022/09/07/what-to-read-to-understand-central-banking) ([HN](https://news.ycombinator.com/item?id=32761429))
 - [Great resources to understand banking (2022)](https://twitter.com/fstflofscholars/status/1568709052150038528)
+- [Ask HN: Why do we need central bank digital currency (CBDC)? (2022)](https://news.ycombinator.com/item?id=32777875)

@@ -78,3 +78,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [MorphMan](https://github.com/kaegi/MorphMan) - Anki plugin that reorders language cards based on the words you know.
 - [Spaced repetition can allow for infinite recall (2022)](https://www.efavdb.com/memory%20recall) ([HN](https://news.ycombinator.com/item?id=32381206))
 - [Ask HN: Better way to create Anki cards? (2022)](https://news.ycombinator.com/item?id=32397162)
+- [Emmio](https://github.com/enzet/Emmio) - Experimental project on languages and learning.

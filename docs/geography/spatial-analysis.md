@@ -250,3 +250,4 @@ title: Spatial analysis
 - [nakarte.me](https://nakarte.me/) ([Code](https://github.com/wladich/nakarte))
 - [Toolbox-rs](https://github.com/DennisOSRM/toolbox-rs) - Toolbox of basic data structures and algorithms.
 - [Rethinking GPS: Engineering Next-Gen Location at Uber (2018)](https://www.uber.com/en-SE/blog/rethinking-gps/) ([HN](https://news.ycombinator.com/item?id=32795169))
+- [Map Machine](https://github.com/enzet/map-machine) - Python renderer for OpenStreetMap with custom icons intended to display as many map features as possible.

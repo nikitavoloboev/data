@@ -537,3 +537,4 @@ for i, _ in enumerate(nums):
 - [Accelerate Python code by importing Taichi (2022)](https://docs.taichi-lang.org/blog/accelerate-python-code-100x) ([HN](https://news.ycombinator.com/item?id=32767338))
 - [Functional Python, Part I: Typopædia Pythonica (2022)](https://www.tweag.io/blog/2022-09-08-fp1-typopaedia-pythonica/)
 - [Python Type Hints are Turing Complete (2022)](https://arxiv.org/abs/2208.14755) ([HN](https://news.ycombinator.com/item?id=32779296)) ([Code](https://github.com/OriRoth/python-typing-machines))
+- [Scalpel](https://github.com/SMAT-Lab/Scalpel) - Python Static Analysis Framework.

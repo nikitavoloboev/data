@@ -915,3 +915,4 @@
 - [Awesome Optical Flow](https://github.com/hzwer/Awesome-Optical-Flow)
 - [LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling (2022)](https://arxiv.org/abs/2208.08622) ([Code](https://github.com/BoyanJIANG/LoRD))
 - [SimpleRecon: 3D Reconstruction Without 3D Convolutions (2022)](https://arxiv.org/abs/2208.14743) ([Code](https://github.com/nianticlabs/simplerecon))
+- [Particle Video Revisited: Tracking Through Occlusions Using Point Trajectories (2022)](https://arxiv.org/abs/2204.04153) ([Code](https://github.com/aharley/pips))

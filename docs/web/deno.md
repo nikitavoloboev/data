@@ -298,7 +298,7 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [fsrouter](https://github.com/justinawrey/fsrouter) - File system based router for Deno.
 - [sono.land](https://github.com/oslabs-beta/sono.land) - Real-time Communication Library for Deno (WebSockets & WebRTC).
 - [Fresh with Signals](https://github.com/lucacasonato/fresh-with-signals) - Using @preact/signals in Fresh.
-- [Fresh 1.1 – Automatic JSX, plugins, DevTools, and more (2022)](https://deno.com/blog/fresh-1.1)
+- [Fresh 1.1 – Automatic JSX, plugins, DevTools, and more (2022)](https://deno.com/blog/fresh-1.1) ([HN](https://news.ycombinator.com/item?id=32765200))
 - [Bundler](https://github.com/timreichen/Bundler) - Deno bundler with web in mind.
 - [network](https://github.com/decharm/network) - Networking framework that aims to enable the development of complex multi-port servers and clients.
 - [Tui](https://github.com/Im-Beast/deno_tui) - Deno module for creating Terminal User Interfaces.

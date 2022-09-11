@@ -582,3 +582,4 @@ title: Linux
 - [The quantum state of Linux kernel garbage collection (2022)](https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html)
 - [Defeating eBPF Uprobe Monitoring (2022)](https://blog.quarkslab.com/defeating-ebpf-uprobe-monitoring.html)
 - [gptman](https://github.com/rust-disk-partition-management/gptman) - Library that allows managing GUID partition tables.
+- [Ask HN: What Linux setup/hardening guide do you use? (2022)](https://news.ycombinator.com/item?id=32768245)

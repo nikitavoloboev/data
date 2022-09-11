@@ -15,7 +15,6 @@ title: DNS
 ## Links
 
 - [How DNS works](https://howdns.works/) - Fun and colorful explanation of how DNS works.
-- [1.1.1.1](https://one.one.one.one/) - DNS by CloudFlare.
 - [Quad9](https://www.quad9.net/)
 - [Pi-hole](https://pi-hole.net/) - Can be used as DNS server. ([Lobsters](https://lobste.rs/s/95saar/pi_hole_black_hole_for_internet))
 - [Tenta DNS](https://github.com/tenta-browser/tenta-dns) - Recursive and authoritative DNS server in go, including DNSSEC and DNS-over-TLS.
