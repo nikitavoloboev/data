@@ -353,6 +353,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [dead-letter-queue](https://github.com/ranjanrak/dead-letter-queue) - Tiny go package to manage HTTP requests with dead letter management/retry. Based on go-redis.
 - [Moonshot](https://github.com/spy16/moonshot) - Boilerplate Go library for quickly setting up web backend.
 - [KaGo](https://github.com/kamalshkeir/kago) - High-level web framework, that encourages rapid development and clean, pragmatic design.
+- [Medium](https://github.com/BlakeWilliams/medium) - Experimental Go code for writing web apps.
 
 ## GraphQL
 
@@ -605,6 +606,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gambas](https://github.com/jpoly1219/gambas) - Data analysis tool for Go. Similar to the famous Python library pandas.
 - [rand](https://github.com/flyingmutant/rand) - Fast, high quality alternative to math/rand and golang.org/x/exp/rand.
 - [Maths](https://github.com/theriault/maths) - Includes mathematical functions not defined in the standard Go math package.
+- [ease](https://github.com/fogleman/ease) - Easing Functions in Go.
 
 ## Biology
 
@@ -1796,6 +1798,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [TinyGo Lunatic](https://github.com/alecthomas/lunatic-go) - TinyGo bindings for Lunatic.
 - [libngrok-go](https://github.com/ngrok/libngrok-go) - Ngrok agent in library form, suitable for integrating directly into your Go application.
 - [go-set](https://github.com/micnncim/go-set) - Go package for sets implemented with generics.
+- [go-events](https://github.com/kataras/go-events) - Simple EventEmmiter for Go. Inspired by NodeJS EventEmitter.
+- [metrics](https://github.com/VictoriaMetrics/metrics) - Lightweight package for exporting metrics in Prometheus format.
 
 ## Links
 

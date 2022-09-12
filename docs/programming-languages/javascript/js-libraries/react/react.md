@@ -343,3 +343,4 @@ Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for a
 - [Dan answering React/JS questions](https://twitter.com/dan_abramov/status/1565308270344126466)
 - [Preact Signals](https://github.com/preactjs/signals) - Performant state management library. ([Intro](https://preactjs.com/blog/introducing-signals/)) ([Tweet](https://twitter.com/_developit/status/1567209440843022341)) ([HN](https://news.ycombinator.com/item?id=32743078))
 - [Preact Signal Store](https://github.com/EthanStandel/preact-signal-store) - Use Preact Signals as full state management system.
+- [Preact unique tree identifiers (2022)](https://hallowed-fear-993.notion.site/Preact-unique-tree-identifiers-0683279d0d6c4cbc9eb75ccaab620000)

@@ -21,7 +21,7 @@
 - [Homer](https://github.com/bastienwirtz/homer) - Very simple static homepage for your server.
 - [KubeSail](https://kubesail.com/) - Self hosting company.
 - [Flame](https://github.com/pawelmalak/flame) - Self-hosted start page for your server.
-- [POSSE: Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE) ([HN](https://news.ycombinator.com/item?id=29115696))
+- [POSSE: Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE) ([HN](https://news.ycombinator.com/item?id=29115696)) ([Lobsters](https://lobste.rs/s/0liktg/posse_publish_on_your_own_site_syndicate))
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) - Simple, easy-to-use, elegant open-source Family Cloud system. ([HN](https://news.ycombinator.com/item?id=29328473))
 - [My Setup for Self-Hosting Dozens of Web Applications + Services on a Single Server (2021)](https://cprimozic.net/blog/my-selfhosted-websites-architecture/) ([HN](https://news.ycombinator.com/item?id=29746223)) ([Lobsters](https://lobste.rs/s/olgedg/my_setup_for_self_hosting_dozens_web))
 - [What are the top 3 most useful things that you have hosted over the years? (2022)](https://www.reddit.com/r/selfhosted/comments/sbkl5z/what_are_the_top_3_most_useful_things_that_you/)

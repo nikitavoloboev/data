@@ -583,3 +583,6 @@ title: Linux
 - [Defeating eBPF Uprobe Monitoring (2022)](https://blog.quarkslab.com/defeating-ebpf-uprobe-monitoring.html)
 - [gptman](https://github.com/rust-disk-partition-management/gptman) - Library that allows managing GUID partition tables.
 - [Ask HN: What Linux setup/hardening guide do you use? (2022)](https://news.ycombinator.com/item?id=32768245)
+- [Linux Real-Time Tools](https://github.com/OpenEneaLinux/rt-tools) - Collection of Linux tools for achieving real-time performance.
+- [syscall-digest](https://github.com/dave-tucker/syscall-digest)
+- [ghOSt](https://github.com/google/ghost-kernel) - Fast & Flexible User-Space Delegation of Linux Scheduling.

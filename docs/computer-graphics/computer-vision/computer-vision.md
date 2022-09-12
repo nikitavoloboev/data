@@ -916,3 +916,6 @@
 - [LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling (2022)](https://arxiv.org/abs/2208.08622) ([Code](https://github.com/BoyanJIANG/LoRD))
 - [SimpleRecon: 3D Reconstruction Without 3D Convolutions (2022)](https://arxiv.org/abs/2208.14743) ([Code](https://github.com/nianticlabs/simplerecon))
 - [Particle Video Revisited: Tracking Through Occlusions Using Point Trajectories (2022)](https://arxiv.org/abs/2204.04153) ([Code](https://github.com/aharley/pips))
+- [Lance](https://github.com/eto-ai/lance) - Columnar Data Format for Machine Learning and Computer Vision.
+- [Strand-Braid](https://github.com/strawlab/strand-braid) - Live, low-latency 2D and 3D tracking from single or multiple high-speed cameras.
+- [Multi-Domain Incremental Learning for Semantic Segmentation (2022)](https://arxiv.org/abs/2110.12205) ([Code](https://github.com/prachigarg23/MDIL-SS))

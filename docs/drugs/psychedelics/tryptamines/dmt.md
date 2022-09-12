@@ -101,3 +101,4 @@ I love all [tryptamines](tryptamines.md) but am yet to breakthrough on DMT. [Man
 - [DMT Vaporizers in Europe](https://www.reddit.com/r/DMT/comments/kmlcuy/vaporizers_in_europe/)
 - [Can ‘entities’ be visually seen or only sensed? (2022)](https://www.reddit.com/r/Psychonaut/comments/w171ty/can_entities_be_visually_seen_or_only_sensed/)
 - [What are DMT 'secrets'?](https://www.reddit.com/r/DMT/comments/wlxtoh/wait_so_probably_almost_all_of_you_who_were_on/)
+- [Do you think DMT is just a drug or there's way more to it?](https://www.reddit.com/r/DMT/comments/xbionw/do_you_guys_think_dmt_is_just_a_drug_or_theres/)

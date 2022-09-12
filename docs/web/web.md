@@ -447,3 +447,4 @@
 - [Interneting Is Hard](https://www.internetingishard.com/) - Web Development Tutorials For Complete Beginners.
 - [Epic Web Dev by Kent C. Dodds](https://www.epicweb.dev/)
 - [Ask HN: What happened to vanilla HTML/CSS/JS development? (2022)](https://news.ycombinator.com/item?id=32780191)
+- [Ask HN: How do you find the weird parts of the web? (2022)](https://news.ycombinator.com/item?id=32804832)

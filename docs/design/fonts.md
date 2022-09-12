@@ -129,6 +129,8 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Martian Grotesk](https://romanshamin.gumroad.com/l/martian-grotesk-font)
 - [Minecraft Mono](https://github.com/IdreesInc/Minecraft-Mono) - Programming font based on the typeface used in Minecraft. ([HN](https://news.ycombinator.com/item?id=32743864))
 - [Minecraft Font](https://github.com/IdreesInc/Minecraft-Font)
+- [Hasköy](https://github.com/ertekinno/haskoy) - Open-source variable sans-serif typeface family. ([Web](https://haskoy.ertekinn.com/))
+- [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont) ([HN](https://news.ycombinator.com/item?id=32799872))
 
 ## Links
 

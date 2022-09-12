@@ -132,3 +132,4 @@ I try to give my full attention to any ideas I am working on.
 - [Take my app ideas (2022)](https://austinhenley.com/blog/takemyappideas.html) ([HN](https://news.ycombinator.com/item?id=31368853))
 - [100 Projects of Code](https://github.com/aceking007/100ProjectsOfCode) - List of practical knowledge-building projects.
 - [Small Bets](https://dvassallo.gumroad.com/l/small-bets)
+- [Ask HN: Those making $500/month on side projects in 2022 – Show and tell](https://news.ycombinator.com/item?id=32806068)

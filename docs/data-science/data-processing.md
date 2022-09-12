@@ -119,3 +119,4 @@
 - [Airflow's Problem (2022)](https://stkbailey.substack.com/p/airflows-problem) ([HN](https://news.ycombinator.com/item?id=32317558))
 - [Quokka](https://github.com/marsupialtail/quokka) - Fast data processing engine whose core consists of ~1000 lines of Python code.
 - [Modal](https://modal.com/) - On-demand compute that just works. ([Twitter](https://twitter.com/modal_labs))
+- [Building open source downscaling pipelines for the cloud (2022)](https://carbonplan.org/blog/cloud-downscaling-pipelines)

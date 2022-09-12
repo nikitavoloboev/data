@@ -87,7 +87,7 @@ Use this [Solid/Vite](https://github.com/fuyutarow/solid-chrome-extension-templa
 - [Iridium Browser](https://iridiumbrowser.de/) - Browser securing your privacy. ([Code](https://github.com/iridium-browser/iridium-browser))
 - [Chromium in Docker](https://github.com/atlassian/docker-chromium-xvfb) - Docker image for running browser tests against headless Chromium.
 - [Say goodbye to resource-caching across sites and domains (2020)](https://www.stefanjudis.com/notes/say-goodbye-to-resource-caching-across-sites-and-domains/) ([HN](https://news.ycombinator.com/item?id=24894135))
-- [Browserslist](https://github.com/browserslist/browserslist) - Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env.
+- [Browserslist](https://github.com/browserslist/browserslist) - Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env. ([Web](https://browsersl.ist/)) ([Lint](https://github.com/browserslist/lint))
 - [Histools](https://github.com/thesephist/histools) - Collection of tools for generating data visualizations from browser history data. ([Article](https://dotink.co/posts/histools/))
 - [Splash](https://github.com/scrapinghub/splash) - Lightweight, scriptable browser as a service with an HTTP API.
 - [Re: When will browsers be complete? (2020)](https://gist.github.com/lf94/9320eb89d1b72f6649d60e6e2119fd35) ([Lobsters](https://lobste.rs/s/tjqmjy/re_when_will_browsers_be_complete))

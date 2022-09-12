@@ -86,7 +86,7 @@ Hi<div>oh no break</div>
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
 - [How to Build HTML Forms Right: Semantics (2020)](https://stegosource.com/how-to-build-html-forms-right-semantics/)
 - [sal](https://github.com/mciastek/sal) - Performance focused, lightweight scroll animation library.
-- [MVP.css](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements. No class names, no frameworks, just semantic HTML. ([Code](https://github.com/andybrewer/mvp))
+- [MVP.css](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements. No class names, no frameworks, just semantic HTML. ([Code](https://github.com/andybrewer/mvp)) ([HN](https://news.ycombinator.com/item?id=32805334))
 - [HTML DOM](https://htmldom.dev/) - Common tasks of managing HTML DOM with vanilla JavaScript. ([Code](https://github.com/phuoc-ng/html-dom)) ([HN](https://news.ycombinator.com/item?id=22758218))
 - [hyper(HTML)](https://github.com/WebReflection/hyperHTML) - Fast & Light Virtual DOM Alternative available for Node.js and NativeScript too.
 - [Open Graph Image as a Service](https://github.com/vercel/og-image) - Serverless service that generates dynamic Open Graph images that you can embed in your <meta\> tags.

@@ -97,3 +97,4 @@
 - [controller-idioms](https://github.com/authzed/controller-idioms) - Generic libraries for building idiomatic Kubernetes controllers.
 - [kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets.
 - [kubesess](https://github.com/Ramilito/kubesess) - Kubectl plugin managing sessions.
+- [Shiba](https://github.com/moycat/shiba) - Minimalist Kubernetes network plugin.

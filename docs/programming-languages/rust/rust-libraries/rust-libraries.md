@@ -182,6 +182,7 @@
 - [exponential-backoff](https://github.com/yoshuawuyts/exponential-backoff) - Exponential backoff generator with jitter.
 - [Aide](https://github.com/tamasfe/aide) - Code-first API documentation and other utility libraries for Rust.
 - [Progenitor](https://github.com/oxidecomputer/progenitor) - OpenAPI client generator.
+- [yerpc](https://github.com/Frando/yerpc) - JSON-RPC 2.0 server handler for Rust, with automatic generation of a TypeScript client.
 
 ## Auth
 
@@ -333,6 +334,7 @@
 - [YAKV](https://github.com/knizhnik/yakv) - Simple persistent-key value storage implemented in Rust using "traditional" architecture: B-Tree, buffer cache, ACID transaction, write-ahead log.
 - [encrypted-sled](https://github.com/jpopesculian/encrypted-sled) - Drop in replacement / wrapper around the amazing sled embedded database.
 - [Speculare Server](https://github.com/speculare-cloud/speculare-server) - Receive, store info coming from the client into the database and handle alerts to report incidents based on criteria.
+- [ekv](https://github.com/Dirbaio/ekv) - Key-value store for embedded systems, for raw NOR flash, using an LSM-Tree.
 
 ## Video
 
@@ -435,6 +437,7 @@
 
 - [Generate Rust code from GraphQL schema](https://github.com/yumemi-inc/codegen-for-async-graphql)
 - [rusty-gql](https://github.com/Tak-Iwamoto/rusty-gql) - Schema First GraphQL library for Rust.
+- [Seaography](https://github.com/SeaQL/seaography) - GraphQL framework for SeaORM.
 
 ## Test
 
@@ -590,6 +593,7 @@
 - [fastcrypto](https://github.com/MystenLabs/fastcrypto) - Common cryptographic library used in software at Mysten Labs.
 - [fss](https://github.com/ryanleh/fss) - Rust libraries for designing and using functional secret sharing schemes.
 - [fhe.rs](https://github.com/tlepoint/fhe.rs) - Fully Homomorphic Encryption library in Rust.
+- [Proof Toolbox](https://github.com/geometryresearch/proof-toolbox) - Cryptographic primitives and protocols that can be used to build higher level protocols and schemes.
 
 ## Linux
 
@@ -667,6 +671,8 @@
 - [stm32wlxx-hal](https://github.com/stm32-rs/stm32wlxx-hal) - Hardware abstraction layer for the stm32wl series chips written in rust.
 - [w5500-rs](https://github.com/newAM/w5500-rs) - Embedded rust support for the Wiznet W5500 SPI internet offload chip.
 - [edge-executor](https://github.com/ivmarkov/edge-executor) - Minimal async executor suitable for embedded environments.
+- [Rust bindings for ESP-IDF](https://github.com/esp-rs/esp-idf-sys)
+- [shared-bus](https://github.com/Rahix/shared-bus) - Crate for sharing buses between multiple devices.
 
 ## ML
 
@@ -2142,6 +2148,9 @@
 - [mpeg2ts-reader](https://github.com/dholroyd/mpeg2ts-reader) - Rust reader for MPEG2 Transport Stream data.
 - [tokio-serial](https://github.com/berkowski/tokio-serial) - Implementation of serialport I/O for Tokio, an async framework for rust.
 - [Audio Filters](https://github.com/RustyDAW/audio-filters) - Collection of filters for real-time audio processing.
+- [banzai](https://github.com/jgbyrne/banzai) - Pure rust bzip2 encoder.
+- [iana-time-zone](https://github.com/strawlab/iana-time-zone) - Rust crate to get the IANA time zone for the current system.
+- [Size Of](https://github.com/Kixiron/size-of) - Crate for measuring the total memory usage of an object at runtime.
 
 ## Cargo Plugins
 
@@ -2237,6 +2246,7 @@
 - [cargo feature-set](https://github.com/badboy/cargo-feature-set) - Extract the features for every compiled crate from cargo metadata.
 - [cargo-show-asm](https://github.com/pacak/cargo-show-asm) - Cargo subcommand that displays the Assembly, LLVM-IR and MIR generated for Rust source code.
 - [cargo add-dynamic](https://github.com/rksm/cargo-add-dynamic) - Allows to wrap dependencies as dylibs.
+- [cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) - Custom cargo command that analyses all cargo target directories under a given parent directory and allows for cleaning them.
 
 ## Notes
 

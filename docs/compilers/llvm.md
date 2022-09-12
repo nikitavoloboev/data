@@ -136,3 +136,4 @@ title: LLVM
 - [Swift Bindings for LLVM](https://github.com/apple/swift-llvm-bindings)
 - [LLVM Discussion Forums](https://discourse.llvm.org/)
 - [LLVM crash analyzer](https://github.com/cisco-open/llvm-crash-analyzer)
+- [Clam](https://github.com/seahorn/clam) - Static Analyzer for LLVM bitcode based on Abstract Interpretation.

@@ -723,6 +723,7 @@
 - [CoherentNoise](https://github.com/mfiano/CoherentNoise.jl) - Comprehensive suite of coherent noise algorithms and composable tools for manipulating them.
 - [WhereTraits](https://github.com/jolin-io/WhereTraits.jl) - Dispatch on whatever you want using where syntax.
 - [Wavelets](https://github.com/JuliaDSP/Wavelets.jl) - Julia package for fast discrete wavelet transforms and utilities.
+- [ColorTypes](https://github.com/JuliaGraphics/ColorTypes.jl) - Basic color definitions and traits.
 
 ## Links
 

@@ -925,3 +925,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [A Review of Sparse Expert Models in Deep Learning (2022)](https://arxiv.org/abs/2209.01667)
 - [Conformal Prediction](https://github.com/aangelopoulos/conformal-prediction) - Lightweight, useful implementation of conformal prediction on real data.
 - [Collection of papers on divergence and quality diversity](https://github.com/DanieleGravina/divergence-and-quality-diversity)
+- [TACTiS: Transformer-Attentional Copulas for Time Series (2022)](https://proceedings.mlr.press/v162/drouin22a.html) ([Code](https://github.com/ServiceNow/tactis))
+- [Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)

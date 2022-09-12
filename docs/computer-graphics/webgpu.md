@@ -68,3 +68,4 @@ title: WebGPU
 - [Translates GLSL code to WGSL](https://github.com/eliotbo/glsl2wgsl)
 - [Use.GPU](https://usegpu.live/) - Set of declarative, reactive WebGPU legos. ([HN](https://news.ycombinator.com/item?id=32777909))
 - [mach/gpu](https://github.com/hexops/mach-gpu) - WebGPU interface for Zig.
+- [Perfecting WebGPU/Dawn native graphics for Zig (2022)](https://devlog.hexops.com/2022/perfecting-webgpu-native/) ([HN](https://news.ycombinator.com/item?id=32802302))

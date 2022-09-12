@@ -38,3 +38,4 @@
 - [Could Cancer Cells’ Iron Addiction Be Their Achilles Heel? (2022)](https://www.technologynetworks.com/cancer-research/news/could-cancer-cells-iron-addiction-be-their-achilles-heel-359413) ([HN](https://news.ycombinator.com/item?id=30620623))
 - [A turning point in cancer (2022)](https://erictopol.substack.com/p/a-turning-point-in-cancer)
 - [Chemo therapy is barbaric and we need alternatives](https://twitter.com/StevenGlinert/status/1538982767160987648)
+- [Cancer breakthrough is a ‘wake-up’ call on danger of air pollution (2022)](https://news.ycombinator.com/item?id=32809457)

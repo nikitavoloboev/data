@@ -205,3 +205,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [Debugging bare-metal STM32 from the seventh level of hell (2022)](https://jpieper.com/2022/08/05/debugging-bare-metal-stm32-from-the-seventh-level-of-hell/) ([HN](https://news.ycombinator.com/item?id=32381448))
 - [Best free software for embedded systems schematics](https://www.reddit.com/r/embedded/comments/x6mbo2/best_free_software_for_embedded_systems_schematics/)
 - [Blech](https://github.com/blech-lang/blech) - Language for developing reactive, real-time critical embedded software. ([Web](https://www.blech-lang.org/)) ([HN](https://news.ycombinator.com/item?id=32749906))
+- [tbot](https://github.com/Rahix/tbot) - Automation/Testing tool for Embedded Linux Development.

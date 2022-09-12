@@ -848,3 +848,4 @@ if err != nil {
 - [Go Developer Survey 2022 Q2 Results](https://go.dev/blog/survey2022-q2-results) ([HN](https://news.ycombinator.com/item?id=32767287))
 - [mkctr](https://github.com/tailscale/mkctr) - Cross platform container builder for go.
 - [Neither self nor this: Receivers in Go (2016)](https://blog.heroku.com/neither-self-nor-this-receivers-in-go)
+- [Structured, leveled logging in Go's standard library](https://github.com/golang/go/discussions/54763) ([HN](https://news.ycombinator.com/item?id=32800598)) ([Lobsters](https://lobste.rs/s/schsks/structured_leveled_logging_go_s_standard))

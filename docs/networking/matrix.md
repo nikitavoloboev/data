@@ -115,3 +115,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [The Matrix Summer Special 2022](https://matrix.org/blog/2022/08/15/the-matrix-summer-special-2022)
 - [Commune](https://github.com/commune-org/commune) - Communications suite built on top of matrix.
 - [gomatrixserverlib](https://github.com/matrix-org/gomatrixserverlib) - Go library for matrix federation.
+- [Eigen](https://github.com/Kalissaac/Eigen) - macOS native Matrix client.

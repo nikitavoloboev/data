@@ -317,3 +317,4 @@ zz
 - [This Week In Neovim](https://this-week-in-neovim.org/) ([Contents](https://github.com/phaazon/this-week-in-neovim-contents))
 - [Why use Vim](https://twitter.com/mokevnin/status/1567594899859546115)
 - [How I Use Vim (2022)](https://www.youtube.com/watch?v=8BGr_umDTco)
+- [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Syntax aware text-objects, select, move, swap, and peek support.

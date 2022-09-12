@@ -30,3 +30,4 @@
 - [Introductory textbook on Ordinary Differential Equations (in Russian)](https://github.com/ischurov/odebook)
 - [Identities in Higher Calculus and Special Functions](https://fractional-calculus.com/) ([HN](https://news.ycombinator.com/item?id=30811979))
 - [The Shadowy World of Umbral Calculus (2022)](https://www.youtube.com/watch?v=D0EUFP7-P1M)
+- [A look inside Feynman’s calculus notebook](https://physicstoday.scitation.org/do/10.1063/PT.5.9099/full/) ([HN](https://news.ycombinator.com/item?id=32791978))

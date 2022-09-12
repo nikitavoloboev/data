@@ -354,3 +354,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [Join Data from PostgreSQL Declaratively in GraphQL Without Writing SQL (2022)](https://stepzen.com/blog/join-data-postgresql-declarative-graphql-without-sql) ([HN](https://news.ycombinator.com/item?id=32420081))
 - [Flatbread](https://github.com/FlatbreadLabs/flatbread) - Consume relational, flat-file data using GraphQL in any static framework.
 - [graphql-edge](https://github.com/ysugimoto/graphql-edge) - Execute GraphQL on the edge.
+- [graphql-js-tree](https://github.com/graphql-editor/graphql-js-tree) - Simpler structure for GraphQL AST.

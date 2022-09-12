@@ -191,6 +191,7 @@ div.CodeMirror-cursor,
 - [Icon Folder](https://github.com/FlorianWoelki/obsidian-icon-folder) - Simply add icons to your folders or files in Obsidian.
 - [Influx](https://github.com/jensmtg/influx) - Plugin for Obsidian that aggregates a terse stream of backlinked clippings in the footer of notes.
 - [Obsidian Diagrams.Net](https://github.com/jensmtg/obsidian-diagrams-net) - Inserting and editing diagrams.net diagrams.
+- [New Tab Default Page](https://github.com/chrisgrieser/new-tab-default-page) - Open a note of your choice when creating a new tab, like in the browser.
 
 ## Themes
 

@@ -52,7 +52,7 @@ title: Field-programmable gate array
 - [Corundum](https://github.com/corundum/corundum) - Open-source, high-performance FPGA-based NIC.
 - [UPduino 3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0) - FPGA dev board that's cheap, simple and supported by OSS toolchain. ([HN](https://news.ycombinator.com/item?id=25720531))
 - [Cheap FPGA Development Boards](https://www.joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
-- [Exploring FPGA Graphics (2020)](https://projectf.io/posts/fpga-graphics/) ([HN](https://news.ycombinator.com/item?id=25998154))
+- [Exploring FPGA Graphics (2020)](https://projectf.io/posts/fpga-graphics/) ([HN](https://news.ycombinator.com/item?id=25998154)) ([HN](https://news.ycombinator.com/item?id=32807903))
 - [Digital Design for FPGAs, with free tools](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Home_EN)
 - [FPGA NTP Server](https://research.wand.net.nz/hardware/ntp.php)
 - [FPGA Developer Tutorials](https://www.fpgatutorial.com/)

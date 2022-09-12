@@ -152,3 +152,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Awesome list of CLI/TUI programs](https://github.com/toolleeo/cli-apps)
 - [goldplate](https://github.com/fugue/goldplate) - Cute and simple golden test runner for CLI applications.
 - [CLI Testing Library](https://github.com/crutchcorn/cli-testing-library) - Simple and complete CLI testing utilities that encourage good testing practices.
+- [run-pty](https://github.com/lydell/run-pty) - Run several commands concurrently. Show output for one command at a time. Kill all at once.

@@ -575,3 +575,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Squealer](https://github.com/owenrumney/squealer) - Scans a git repository or filesystem for secrets that are being leaked deep within the commit history.
 - [git-squash-all](https://github.com/MaxKless/git-squash-all) - Quickly squash all commits during an interactive rebase.
 - [giget](https://github.com/unjs/giget) - Easily download git repositories.
+- [SQLite Doesn't Use Git](https://matt-rickard.com/sqlite-doesnt-use-git) ([HN](https://news.ycombinator.com/item?id=32808229))

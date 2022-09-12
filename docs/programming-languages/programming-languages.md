@@ -238,7 +238,7 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [flex](https://github.com/westes/flex) - Tool for generating scanners: programs which recognize lexical patterns in text.
 - [Programming languages where you define control flow in terms of state machines](https://twitter.com/mgattozzi/status/1422196566568341504)
 - [Implicit ordering in relational languages (2021)](https://scattered-thoughts.net/writing/implicit-ordering-in-relational-languages/)
-- [Imba](https://imba.io/) - Friendly full-stack programming language for the web that compiles to performant JavaScript. ([Code](https://github.com/imba/imba)) ([HN](https://news.ycombinator.com/item?id=28207662))
+- [Imba](https://imba.io/) - Friendly full-stack programming language for the web that compiles to performant JavaScript. ([Code](https://github.com/imba/imba)) ([HN](https://news.ycombinator.com/item?id=28207662)) ([Vite template](https://github.com/imba/imba-vite-template))
 - [Shisho](https://github.com/flatt-security/shisho) - Lightweight static analyzer for several programming languages.
 - [Hell Is Other REPLs (2021)](https://hyperthings.garden/posts/2021-06-20/hell-is-other-repls.html) ([HN](https://news.ycombinator.com/item?id=28345617))
 - [Weird Languages (2021)](http://paulgraham.com/weird.html) ([HN](https://news.ycombinator.com/item?id=28336891))
@@ -416,3 +416,5 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [ICFP Contest 2022](https://icfpcontest2022.github.io/) ([Twitter](https://twitter.com/icfpcontest2022))
 - [Language garden](https://github.com/brendanzab/language-garden) - Some toy programming language implementations, mostly implemented in OCaml.
 - [Prettify](https://liquify.dev/playground/prettify) - Code beautification tool for formatting HTML, Liquid, JavaScript, TypeScript, CSS/SCSS and more. ([Code](https://github.com/panoply/prettify))
+- [Odin](https://github.com/odin-lang/Odin) - General-purpose programming language with distinct typing, built for high performance, modern systems, and built-in data-oriented data types. ([Review](https://graphitemaster.github.io/odin_review/))
+- [What would be your “perfect” programming language? (2022)](https://news.ycombinator.com/item?id=32807730)

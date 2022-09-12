@@ -44,3 +44,7 @@
 - [Stable Diffusion for Apple Silicon](https://github.com/FahimF/sd-gui)
 - [Learn time series with a story illustrated by Stable Diffusion (2022)](https://tigyog.app/d/L-8D8R2yeXLY/r/an-everyday-look-at-time-series) ([HN](https://news.ycombinator.com/item?id=32768005))
 - [Daemon which watches a queue and runs stable diffusion](https://github.com/w4ffl35/stablediffusiond)
+- [Text-to-image for my inbox (2022)](https://www.kmjn.org/notes/txt2img_email_visualization.html)
+- [sdutils](https://github.com/newsbubbles/sdutils) - Stable Diffusion Utility Wrapper.
+- [Diffusion Bee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Stable Diffusion GUI App for M1 Mac. ([HN](https://news.ycombinator.com/item?id=32804695))
+- [Art Hub AI](https://arthub.ai/) - Discover, upload and share AI generated art pieces..

@@ -305,3 +305,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [deno_doc_components](https://github.com/denoland/doc_components) - Set of components for rendering deno_doc doc nodes.
 - [picohttpparser](https://github.com/littledivy/picohttpparser_deno) - Fast, low overhead bindings to picohttpparser HTTP parser in Deno.
 - [mesozoic](https://github.com/deckchairlabs/mesozoic) - Generic build system for Deno web apps.
+- [Socket.IO server for Deno](https://github.com/socketio/socket.io-deno)

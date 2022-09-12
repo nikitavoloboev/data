@@ -143,3 +143,4 @@
 - [Brotli-WASM](https://github.com/httptoolkit/brotli-wasm) - Reliable compressor and decompressor for Brotli, supporting node & browsers via WASM.
 - [ZSTD seekable compression format implementation in Go](https://github.com/SaveTheRbtz/zstd-seekable-format-go)
 - [zstd compressed debug sections (2022)](https://maskray.me/blog/2022-09-09-zstd-compressed-debug-sections)
+- [Vaar](https://github.com/moycat/vaar) - Tar archive tool & library optimized for lots of small files.

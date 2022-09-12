@@ -150,3 +150,5 @@ title: Julia
 - [A Complete Guide to Efficient Transformations of data frames (2022)](https://www.youtube.com/watch?v=SXF4BawX-hs)
 - [Julia 1.8 Highlights (2022)](https://julialang.org/blog/2022/08/julia-1.8-highlights/) ([HN](https://news.ycombinator.com/item?id=32508158))
 - [Julia Functions In Excruciating Detail (2022)](https://medium.com/chifi-media/julia-functions-in-excruciating-detail-1366bc43b6b)
+- [Ask HN: Why hasn't the deep learning community embraced Julia yet? (2022)](https://news.ycombinator.com/item?id=32806179)
+- [Julia 2.0 isn’t coming anytime soon, and why that is a good thing (2022)](https://logankilpatrick.medium.com/why-julia-2-0-isnt-coming-anytime-soon-and-why-that-is-a-good-thing-641ae3d2a177) ([HN](https://news.ycombinator.com/item?id=32809790))

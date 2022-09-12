@@ -290,3 +290,4 @@
 - [noclip](https://noclip.website/) - Digital museum of video game levels. ([Code](https://github.com/magcius/noclip.website))
 - [gogs](https://github.com/metagogs/gogs) - Go Game Server Framework.
 - [The Journey to Nanite - Brian Karis, Epic Games (2022)](https://www.youtube.com/watch?v=NRnj_lnpORU)
+- [I learned to love testing game code](https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/) ([HN](https://news.ycombinator.com/item?id=32802402))

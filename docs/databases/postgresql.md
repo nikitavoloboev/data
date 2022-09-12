@@ -566,3 +566,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [plrust](https://github.com/tcdi/plrust) - Rust procedural language handler for PostgreSQL.
 - [PGTracer](https://github.com/aiven/pgtracer) - Tracing tools for PostgreSQL, using eBPF.
 - [pg_idkit](https://github.com/t3hmrman/pg_idkit) - Postgres extension for generating UUIDs.
+- [TiDB for PostgreSQL](https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL) - PgSQL compatible on distributed database TiDB.

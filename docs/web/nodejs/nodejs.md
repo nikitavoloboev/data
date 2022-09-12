@@ -419,3 +419,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [Building Typescript Node Apps With Nix (2022)](https://johns.codes/blog/building-typescript-node-apps-with-nix)
 - [Floco](https://github.com/aameen-tulip/at-node-nix) - Node.js Nix expressions.
 - [node-jose](https://github.com/cisco/node-jose) - JavaScript implementation of the JSON Object Signing and Encryption (JOSE).
+- [skott](https://github.com/antoine-coulon/skott) - Automatically construct, traverse and visualize graphs generated from your Node.js project.

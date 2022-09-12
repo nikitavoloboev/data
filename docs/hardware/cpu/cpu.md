@@ -164,3 +164,5 @@
 - [Introduction to Apple Silicon](https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon) ([HN](https://news.ycombinator.com/item?id=32311245))
 - [Custom Processing Unit](https://github.com/pietroborrello/CustomProcessingUnit) - Dynamic analysis framework able to hook, patch and trace CPU microcode at the software level.
 - [SiliFuzz](https://github.com/google/silifuzz) - System that finds CPU defects by fuzzing software proxies.
+- [CPU Benchmarks Set](https://github.com/EntityFX/anybench)
+- [Intel’s Meteor Lake Chiplets, Compared to AMD’s (2022)](https://chipsandcheese.com/2022/09/10/hot-chips-34-intels-meteor-lake-chiplets-compared-to-amds/) ([HN](https://news.ycombinator.com/item?id=32811088))

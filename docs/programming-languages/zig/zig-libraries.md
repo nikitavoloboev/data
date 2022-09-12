@@ -147,3 +147,4 @@
 - [Minimal Web Assembly example using Zig's build system](https://github.com/meheleventyone/zig-wasm-test) ([Web](https://observablehq.com/@yurivish/zig-wasm)) ([HN](https://news.ycombinator.com/item?id=32083090))
 - [ABI Zig \<\> TypeScript](https://gist.github.com/rasmusmerzin/b514e3416311c9acf4dbc3d1911e1ad3) - Passing strings between Zig and TypeScript.
 - [What's the 'ziggy' way to pass a readable stream to a function? (2022)](https://www.reddit.com/r/Zig/comments/vk4o4a/whats_the_ziggy_way_to_pass_a_readable_stream_to/)
+- [mach/wasmserve](https://github.com/machlibs/wasmserve) - Small web server specifically for serving Zig WASM applications in development.

@@ -128,3 +128,4 @@
 - [A toy remote login server (2022)](https://jvns.ca/blog/2022/07/28/toy-remote-login-server/)
 - [ssh srv.us](https://github.com/pcarrier/srv.us) - Expose local HTTP services online.
 - [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/) ([Lobsters](https://lobste.rs/s/jle167/ssh_tips_tricks))
+- [Ed25519 Deep Dive Addendum (2022)](https://cendyne.dev/posts/2022-09-11-ed25519-deep-dive-addendum.html)

@@ -121,3 +121,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [I don't have notifications enabled, nowhere and never (2022)](https://news.ycombinator.com/item?id=32274344)
 - [Against Discipline](https://irinadumitrescu.substack.com/p/against-discipline) ([HN](https://news.ycombinator.com/item?id=32340703))
 - [John Carmack on avoiding distractions](https://twitter.com/ID_AA_Carmack/status/1562104562219196416) ([HN](https://news.ycombinator.com/item?id=32583257))
+- [Controlling Your Dopamine For Motivation, Focus & Satisfaction | Huberman Lab (2021)](https://podcastnotes.org/huberman-lab/episode-39-controlling-your-dopamine-for-motivation-focus-satisfaction-huberman-lab/)

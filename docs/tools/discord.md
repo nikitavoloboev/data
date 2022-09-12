@@ -184,3 +184,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Discord Welcome Action](https://github.com/lolPants/discord-welcome-action) - Action to keep channel content in-sync with Markdown based templates.
 - [Google Form to Discord](https://github.com/Iku/Google-Forms-to-Discord) - Quick way to automatically send Google Form responses to a Discord channel.
 - [Lanyard](https://github.com/Phineas/lanyard) - Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds.
+- [WebCord](https://github.com/SpacingBat3/WebCord) - Discord and Fosscord -based client implemented without Discord API.

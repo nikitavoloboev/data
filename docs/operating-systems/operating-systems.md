@@ -165,6 +165,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [zigux](https://github.com/czapek1337/zigux) - Attempt to write a (semi) functional OS in Zig.
 - [Lyre](https://github.com/lyre-os/lyre) - Effort to write a modern, fast, and useful operating system.
 - [Novusk](https://github.com/NathanMcMillan54/novusk) - Kernel written in Rust inspired by Linux.
+- [camellia](https://github.com/dzwdz/camellia) - Experimental, work-in-progress, microkernel based on some of my ideas for privilege separation.
 
 ## Notes
 
