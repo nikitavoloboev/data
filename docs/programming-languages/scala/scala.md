@@ -169,3 +169,4 @@ title: Scala
 - [Effect-Oriented Programming: Creating Reliable Systems with Scala 3 and ZIO 2](https://github.com/EffectOrientedProgramming/book)
 - [Scala Ukraine Knowledge Base](https://github.com/scala-ukraine/knowledge-base)
 - [Scala isn't fun anymore (2022)](https://alexn.org/blog/2022/09/09/scala-isnt-fun-anymore/)
+- [Scala-Lab](https://github.com/gvolpe/scala-lab) - Playground for Scala 3's experimental features.
