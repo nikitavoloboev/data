@@ -673,3 +673,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [MEV Bundle Generator](https://github.com/Alcibiades-Capital/mev_bundle_generator) - MEV bundle generator written in Rust.
 - [Quay](https://github.com/Alcibiades-Capital/quay) - Open source, high performance backend for the Seaport smart contracts.
 - [Variable Rate Gradual Dutch Auctions with Martingale Price Correction](https://github.com/whitenois3/mvrgda)
+- [GOO (Gradual Ownership Optimization) issuance implementation using Huff](https://github.com/PraneshASP/huff-goo-issuance)

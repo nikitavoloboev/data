@@ -383,3 +383,5 @@ title: Reinforcement learning
 - [Reinforced-lib](https://github.com/m-wojnar/reinforced-lib) - Python library designed to support research and prototyping using Reinforced Learning algorithms.
 - [MuJoCo Menagerie](https://github.com/deepmind/mujoco_menagerie) - Collection of high-quality models for the MuJoCo physics engine, curated by DeepMind.
 - [SafePO-Baselines](https://github.com/PKU-MARL/Safe-Policy-Optimization) - Benchmark repository for safe reinforcement learning algorithms.
+- [POGEMA](https://github.com/AIRI-Institute/pogema) - Partially-Observable Grid Environment for Multiple Agents.
+- [Forgetful Experience Replay in Hierarchical Reinforcement Learning from Demonstrations (2020)](https://arxiv.org/abs/2006.09939) ([Code](https://github.com/cog-isa/forger))

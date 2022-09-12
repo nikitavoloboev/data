@@ -240,3 +240,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Deep Review](https://github.com/greenelab/deep-review) - Collaboratively written review paper on deep learning, genomics, and precision medicine. ([Web](https://greenelab.github.io/deep-review/))
 - [Uni-Fold: an open-source platform for developing protein models beyond AlphaFold](https://github.com/dptech-corp/Uni-Fold)
 - [Fasten](https://github.com/lskatz/fasten) - Perform random operations on fastq files, using unix streaming.
+- [JVARKIT](https://github.com/lindenb/jvarkit) - Java utilities for Bioinformatics.

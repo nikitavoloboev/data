@@ -543,6 +543,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [TiKV Go Client](https://github.com/tikv/client-go)
 - [HaxMap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient Go concurrent hashmap.
 - [Storage](https://github.com/Shopify/go-storage) - Go package for abstracting local, in-memory, and remote (Google Cloud Storage/S3) file systems.
+- [Genna](https://github.com/dizzyfool/genna) - Model generator for go-pg package.
 
 ## ML
 
