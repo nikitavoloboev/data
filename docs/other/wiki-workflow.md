@@ -524,3 +524,4 @@ I want to:
 - [Khoj](https://github.com/debanjum/khoj) - Natural language search engine for your personal notes, transactions and images.
 - [Evolving my note-taking processes (2022)](https://codethrasher.com/post/2022-09-09-evolving-my-note-taking-processes/) ([HN](https://news.ycombinator.com/item?id=32784470))
 - [Mycorrhiza Wiki](https://github.com/bouncepaw/mycorrhiza) - Lightweight file-system wiki engine that uses Git for keeping history.
+- [Cuby Text](https://github.com/vincentdchan/CubyText) - Open-source knowledge management app.

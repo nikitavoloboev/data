@@ -81,3 +81,4 @@ title: Protocol buffers
 - [Protoscope](https://github.com/protocolbuffers/protoscope) - Simple, human-editable language for representing and emitting the Protobuf wire format.
 - [Faster Protocol Buffers (2019)](https://blog.najaryan.net/posts/partial-protobuf-encoding/)
 - [Protocol Buffers Language Details](https://github.com/bufbuild/protobuf.com)
+- [The Protobuf Language Specification (2022)](https://buf.build/blog/protobuf-language-specification) ([HN](https://news.ycombinator.com/item?id=32812873))

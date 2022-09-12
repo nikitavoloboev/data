@@ -174,3 +174,4 @@
 - [How to NOT Fail a Technical Interview (2022)](https://www.youtube.com/watch?v=1t1_a1BZ04o)
 - [System Design Interview Practice Questions](https://github.com/alex-xu-system/bytebytego)
 - [InterviewThis](https://github.com/Twipped/InterviewThis) - Open source list of developer questions to ask prospective employers.
+- [How to interview a VP of Engineering](https://karimfanous.substack.com/p/how-do-you-interview-a-vp-of-engineering)

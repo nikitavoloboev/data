@@ -107,3 +107,4 @@ There are [better approaches to manage state in React now](https://twitter.com/k
 - [Redux is pointless when using react query / Apollo client / swr](https://twitter.com/zachcodes/status/1501573905374400512)
 - [Writing Redux Reducers in Rust (2022)](https://fiberplane.dev/blog/writing-redux-reducers-in-rust/) ([Reddit](https://www.reddit.com/r/programming/comments/txi3py/writing_redux_reducers_in_rust/))
 - [Offline with Redux](https://www.innoq.com/en/blog/offline-with-redux/) - Different (service worker free) approach to offline web apps.
+- [Alternatives to Redux (2022)](https://www.reddit.com/r/reactjs/comments/xc156q/i_am_sick_and_tired_of_reactredux_who_has_some/)

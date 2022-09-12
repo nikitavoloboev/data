@@ -969,6 +969,7 @@
 - [WakaQ](https://github.com/wakatime/wakaq) - Distributed background task queue for Python backed by Redis, a super minimal Celery.
 - [Duct](https://github.com/oconnor663/duct.py) - Python library for running child processes.
 - [String Grouper](https://github.com/Bergvca/string_grouper) - Super Fast String Matching in Python.
+- [HAX](https://github.com/brandtbucher/hax) - Write compiled bytecode inline with pure Python.
 
 ## Notes
 

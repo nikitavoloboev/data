@@ -2,6 +2,8 @@
 
 This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.js demos](https://p5-demos.glitch.me/) are great intros. [WEIRD-A](https://github.com/inconvergent/weird), [Processing](../programming-languages/processing/processing.md) & [p5.js](../programming-languages/processing/p5js.md) are great frameworks.
 
+[Josef Pelz](https://twitter.com/JosefPelz) is great.
+
 ## Links
 
 - [WEIR-A](https://github.com/inconvergent/weir) - System for making generative systems.
@@ -230,3 +232,5 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Sketch](https://github.com/sannek/sketch) - Elixir library for creating generative art.
 - [Ask HN: Resources to learn generative art programming? (2022)](https://news.ycombinator.com/item?id=32370671)
 - [Fragment](https://github.com/raphaelameaume/fragment) - Web development environment for creative coding.
+- [ciphrd](https://ciphrd.com/) - Generative artist particularly interested in the exploration of autonomous systems from which life-like behaviors emerge. ([Twitter](https://twitter.com/ciphrd))
+- [Josef Pelz](https://twitter.com/JosefPelz)

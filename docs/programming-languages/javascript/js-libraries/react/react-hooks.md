@@ -10,6 +10,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 
 ## State
 
+- [Legend-State](https://github.com/LegendApp/legend-state) - Super fast and powerful state manager for JavaScript apps.
 - [Jotai](https://github.com/pmndrs/jotai) - Primitive, flexible state management for React. ([How Jotai Specifies Package Entry Points](https://blog.axlight.com/posts/how-jotai-specifies-package-entry-points/)) ([Tweet](https://twitter.com/acemarke/status/1515654687780974595))
 - [Store](https://github.com/fabiospampinato/store) - Beautifully-simple framework-agnostic modern state management library.
 - [React Tracked](https://github.com/dai-shi/react-tracked) - Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
@@ -217,6 +218,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [React Hooks Collection](https://github.com/amannn/react-hooks)
 - [Hookable](https://github.com/unjs/hookable) - Awaitable hook system.
 - [its-fine](https://github.com/pmndrs/its-fine) - Collection of escape hatches for React.
+- [xswr](https://github.com/hazae41/xswr) - Simplest React data (re)fetching library ever made.
 
 ## Code
 

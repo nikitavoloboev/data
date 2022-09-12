@@ -173,3 +173,4 @@ title: Django
 - [Django + htmx patterns](https://github.com/spookylukey/django-htmx-patterns)
 - [Django RQ Scheduler](https://github.com/dsoftwareinc/django-rq-scheduler) - Database backed job scheduler for Django RQ with Django.
 - [Chard](https://github.com/drpancake/chard) - Simple async/await task queue for Django. One process, no threads, no other dependencies.
+- [Django Lightweight Queue](https://github.com/thread/django-lightweight-queue) - Lightweight & modular queue and cron system for Django.

@@ -886,3 +886,5 @@ title: Rust
 - [Creative Projects for Rust Programmers (2020)](https://www.packtpub.com/product/creative-projects-for-rust-programmers/9781789346220) ([Code](https://github.com/PacktPublishing/Creative-Projects-for-Rust-Programmers))
 - [You Can't Do That: Abstracting over Ownership in Rust with Higher-Rank Type Bounds. Or Can You? (2022)](https://lucumr.pocoo.org/2022/9/11/abstracting-over-ownership/)
 - [The Newtype Pattern in Rust (2020)](https://www.worthe-it.co.za/blog/2020-10-31-newtype-pattern-in-rust.html)
+- [How to learn modern Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) ([HN](https://news.ycombinator.com/item?id=32813358))
+- [Rust Workshop (2022)](https://github.com/timClicks/cloud-native-rust)

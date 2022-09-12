@@ -102,7 +102,6 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [fs-fixture](https://github.com/privatenumber/fs-fixture) - Easily create test fixtures at a temporary file-system path.
 - [hanbi](https://github.com/43081j/hanbi) - Small and simple library for stubbing and spying on methods and functions in JavaScript tests.
 - [user-event](https://github.com/testing-library/user-event) - Fire events the same way the user does.
-- [memlab](https://github.com/facebookincubator/memlab) - Testing framework for finding JavaScript memory leaks and analyzing heap snapshots.
 
 ## Auth
 

@@ -113,3 +113,4 @@
 - [How to handle spacing at scale (2022)](https://medium.com/creating-totallymoney/how-to-handle-spacing-at-scale-307e8e838da)
 - [Building mico-frontends with edge workers (2022)](https://www.youtube.com/watch?v=VR9vyOtMtnI)
 - [Building a UI Language w/ Dylan Piercey (2022)](https://www.youtube.com/watch?v=W9wfkP21c80)
+- [Front-end Testing Principles (2022)](https://itnext.io/front-end-testing-principles-c4a3b51aa7e5)

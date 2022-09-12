@@ -128,3 +128,4 @@
 - [Osmosis](https://github.com/ar-nelson/osmosis-js) - In-process JSON database with automatic peer-to-peer background synchronization between devices on a local network.
 - [introducer](https://github.com/socketsupply/introducer) - Minimal useful library for creating p2p connections, using an introducer server.
 - [RUM](https://rumsystem.net/) - Open source peer-to-peer application infrastructure to offer the internet alternatives in a decentralized and privacy oriented way. ([Code](https://github.com/rumsystem/quorum))
+- [Hyper Hyper Space](https://github.com/hyperhyperspace/hyperhyperspace-core) - Offline-first shared data library for creating p2p apps that work in the browser and NodeJS.

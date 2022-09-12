@@ -124,3 +124,4 @@ title: Electrical engineering
 - [Ask HN: How can I start a business to generate electricity? (2022)](https://news.ycombinator.com/item?id=32622949)
 - [How Transistors Work (2022)](https://www.youtube.com/watch?v=CQtSS6g00h0) ([HN](https://news.ycombinator.com/item?id=32781948))
 - [gdsfactory](https://github.com/gdsfactory/gdsfactory) - EDA (electronics design automation) tool for Integrated Circuits.
+- [Most common components in electronics](https://github.com/joaocarvalhoopen/Most_common_components_in_electronics)
