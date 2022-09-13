@@ -679,3 +679,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Ask HN: Do you use foreign keys in relational databases? (2022)](https://news.ycombinator.com/item?id=32731916)
 - [kvdbd](https://github.com/jgarzik/kvdbd) - Daemon that enables reading/writing of flat-file key/value databases available via HTTP API, using REST/JSON or Protobufs.
 - [Doozer](https://github.com/ha/doozerd) - Highly-available, completely consistent store for small amounts of extremely important data.
+- [dblab](https://github.com/danvergara/dblab) - Interactive client for PostgreSQL, MySQL and SQLite3.

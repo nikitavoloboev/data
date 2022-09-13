@@ -193,3 +193,4 @@ title: Vue.js
 - [nuxtjs/style](https://github.com/nuxt-modules/design-tokens) - Use Design Tokens in your Nuxt project.
 - [Temir Snake CLI Game](https://github.com/webfansplz/temir-snake-game) - Terminal-based Snake game. Powered by Temir.
 - [What blocks React devs from switching to Vue? (2022)](https://twitter.com/antfu7/status/1567511783832961026)
+- [Unplugin Vue Router](https://github.com/posva/unplugin-vue-router) - Automatic file based Routing in Vue with TS support.

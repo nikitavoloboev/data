@@ -674,3 +674,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Quay](https://github.com/Alcibiades-Capital/quay) - Open source, high performance backend for the Seaport smart contracts.
 - [Variable Rate Gradual Dutch Auctions with Martingale Price Correction](https://github.com/whitenois3/mvrgda)
 - [GOO (Gradual Ownership Optimization) issuance implementation using Huff](https://github.com/PraneshASP/huff-goo-issuance)
+- [Muffin](https://github.com/muffinfi/muffin) - Concentrated liquidity AMM protocol that supports multiple fee tiers per pool, and limit range orders.
+- [ZK SBT](https://github.com/enricobottazzi/ZK-SBT) - Library to issue zero knowledge soul bound tokens.
+- [SilkRPC Daemon](https://github.com/torquem-ch/silkrpc) - C++ implementation of Ethereum JSON RPC daemon within Thorax architecture.

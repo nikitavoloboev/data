@@ -27,6 +27,7 @@ Use [Mighty+](https://www.storz-bickel.com/en-us/mighty-plus) when I occasionall
 - [Curaleaf](https://curaleaf.com/) - Leading medical and wellness cannabis operator in the United States.
 - [Cannabis use produces persistent cognitive impairments: meta review (2022)](https://www.addictionjournal.org/posts/cannabis-use-produces-persistent-cognitive-impairments) ([HN](https://news.ycombinator.com/item?id=30019841))
 - [The Evolution of THC Vape Cartridges (2022)](https://gentlemantoker.com/blogs/liquid-gold-evolution-thc-vape-cartridges) ([HN](https://news.ycombinator.com/item?id=31840587))
+- [Prenatal cannabis exposure associated with mental disorders in children (2022)](https://www.nih.gov/news-events/news-releases/prenatal-cannabis-exposure-associated-mental-disorders-children-persist-into-early-adolescence) ([HN](https://news.ycombinator.com/item?id=32817466))
 
 ## Images
 

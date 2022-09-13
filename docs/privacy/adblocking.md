@@ -48,3 +48,4 @@
 - [PaesaDNS](https://github.com/milgradesec/paesadns) - Free ad-blocking and privacy focused DNS over HTTPS service.
 - [A layered approach to content blocking (2022)](https://seirdy.one/posts/2022/06/04/layered-content-blocking/)
 - [1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced DNS filter-/blocklists.
+- [donutdns](https://github.com/shoenig/donutdns) - Block online ads by intercepting DNS queries. Simple alternative to Pi-hole.

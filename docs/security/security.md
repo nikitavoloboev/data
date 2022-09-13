@@ -316,3 +316,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Open Source Software Secure Supply Chain Framework](https://github.com/microsoft/oss-ssc-framework)
 - [Go Incognito: A Guide to Security, Privacy, & Anonymity](https://github.com/techlore/go-incognito)
 - [W3C Data Integrity Specification](https://w3c.github.io/vc-data-integrity/) ([Code](https://github.com/w3c/vc-data-integrity))
+- [envy](https://github.com/shoenig/envy) - Manage environment variables with your OS keychain.

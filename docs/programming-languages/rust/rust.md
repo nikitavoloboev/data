@@ -888,3 +888,5 @@ title: Rust
 - [The Newtype Pattern in Rust (2020)](https://www.worthe-it.co.za/blog/2020-10-31-newtype-pattern-in-rust.html)
 - [How to learn modern Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) ([HN](https://news.ycombinator.com/item?id=32813358))
 - [Rust Workshop (2022)](https://github.com/timClicks/cloud-native-rust)
+- [A personal list of Rust grievances](https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7) ([Lobsters](https://lobste.rs/s/luhkqm/personal_list_rust_grievances)) ([Reddit](https://www.reddit.com/r/rust/comments/xcw6m5/a_personal_list_of_rust_grievances/))
+- [Rust stabilizes generic associated types (2022)](https://news.ycombinator.com/item?id=32829806)

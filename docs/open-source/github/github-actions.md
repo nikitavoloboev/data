@@ -573,3 +573,4 @@ title: GitHub actions
 - [gh-actions-cache](https://github.com/actions/gh-actions-cache) - GitHub (gh) CLI extension to manage the GitHub Actions caches being used in a GitHub repository.
 - [GitHub App Token](https://github.com/tibdex/github-app-token) - Impersonate a GitHub App in a GitHub Action.
 - [Using GitHub GraphQL API With GitHub Actions (2022)](https://liblab.com/blog/using-github-graphql-api-with-github-actions)
+- [Automating visual UI tests with Playwright and GitHub Actions (2022)](https://mmazzarolo.com/blog/2022-09-09-visual-regression-testing-with-playwright-and-github-actions/)

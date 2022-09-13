@@ -43,3 +43,4 @@ title: Message queue
 - [How far can you go without a message queue? (2022)](https://blog.chiselstrike.com/dear-application-developer-how-far-can-you-really-go-without-a-message-queue-d9e5385fab64) ([HN](https://news.ycombinator.com/item?id=32563909))
 - [LavinMQ](https://github.com/cloudamqp/lavinmq) - A message queue server that implements the AMQP protocol. Written in Crystal.
 - [Write Your Own Task Queue (2022)](https://danpalmer.me/2022-09-10-write-your-own-task-queue/)
+- [Pulsar](https://github.com/apache/pulsar) - Distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.

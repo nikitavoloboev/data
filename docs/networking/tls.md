@@ -105,3 +105,4 @@ title: TLS
 - [The Illustrated DTLS Connection: Every Byte Explained](https://dtls.xargs.org/) ([Code](https://github.com/syncsynchalt/illustrated-dtls))
 - [hitch](https://github.com/varnish/hitch) - Scalable TLS proxy by Varnish Software.
 - [Open to a fault: On the passive compromise of TLS keys via transient errors (2022)](https://www.usenix.org/system/files/sec22-sullivan.pdf)
+- [Using mutual TLS in place of API keys](https://lobste.rs/s/9f3av9/using_mutual_tls_place_api_keys)

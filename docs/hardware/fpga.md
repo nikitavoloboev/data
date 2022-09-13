@@ -113,3 +113,4 @@ title: Field-programmable gate array
 - [HDMI](https://github.com/hdl-util/hdmi) - Send video/audio over HDMI on an FPGA.
 - [Enxor-Logic-Analyzer](https://github.com/lekgolo167/enxor-logic-analyzer) - FPGA Logic Analyzer and GUI.
 - [iCEBreaker FPGA Workshop](https://github.com/icebreaker-fpga/icebreaker-workshop)
+- [LXP32-CPU](https://github.com/lxp32/lxp32-cpu) - Lightweight, open source and FPGA-friendly 32-bit CPU core based on an original instruction set.

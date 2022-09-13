@@ -357,3 +357,5 @@ title: WebAssembly
 - [Frenezulo](https://github.com/HurricanKai/frenezulo) - WASM-embedding webserver build on top of submillisecond and lunatic.
 - [Containerd Wasm Shims](https://github.com/deislabs/containerd-wasm-shims) - Containerd shims for running WebAssembly workloads in Kubernetes.
 - [Extism](https://github.com/extism/extism) - Universal plug-in system. Run WebAssembly extensions inside your app.
+- [waPC-rs](https://github.com/wapc/wapc-rs) - Protocol for communicating in and out of WebAssembly. In Rust.
+- [Digital Twin Assembly (dtasm)](https://github.com/siemens/dtasm) - Binary interface (ABI) for executable numerical simulators compiled into WebAssembly modules.

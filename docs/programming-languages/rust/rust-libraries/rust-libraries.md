@@ -212,6 +212,7 @@
 - [Rust Open Policy Agent SDK](https://github.com/matrix-org/rust-opa-wasm) - Crate to use OPA policies compiled to WASM.
 - [cargo component](https://github.com/bytecodealliance/cargo-component) - Cargo subcommand for creating WebAssembly components based on the component model proposal.
 - [wasm-instrument](https://github.com/paritytech/wasm-instrument) - Instrument and transform wasm modules.
+- [wasm_thread](https://github.com/chemicstry/wasm_thread) - Rust `std::thread` replacement for wasm32 target.
 
 ## GUI
 
@@ -594,6 +595,7 @@
 - [fss](https://github.com/ryanleh/fss) - Rust libraries for designing and using functional secret sharing schemes.
 - [fhe.rs](https://github.com/tlepoint/fhe.rs) - Fully Homomorphic Encryption library in Rust.
 - [Proof Toolbox](https://github.com/geometryresearch/proof-toolbox) - Cryptographic primitives and protocols that can be used to build higher level protocols and schemes.
+- [JOSE](https://github.com/RustCrypto/JOSE) - Pure Rust implementation of JavaScript Object Signing and Encryption (JOSE).
 
 ## Linux
 
@@ -2151,6 +2153,8 @@
 - [banzai](https://github.com/jgbyrne/banzai) - Pure rust bzip2 encoder.
 - [iana-time-zone](https://github.com/strawlab/iana-time-zone) - Rust crate to get the IANA time zone for the current system.
 - [Size Of](https://github.com/Kixiron/size-of) - Crate for measuring the total memory usage of an object at runtime.
+- [Yarte](https://github.com/botika/yarte) - Yet Another Rusty Template Engine.
+- [v_escape](https://github.com/botika/v_escape) - SIMD optimized escape code.
 
 ## Cargo Plugins
 
@@ -2405,3 +2409,4 @@
 - [Awesome Rust](https://github.com/awesome-rust-com/awesome-rust)
 - [Riff](https://github.com/DeterminateSystems/riff) - Automatically provides external dependencies for Rust projects. ([HN](https://news.ycombinator.com/item?id=32739954)) ([Lobsters](https://lobste.rs/s/g6ibtq/introducing_riff_automatically_provide))
 - [rustdoc-index](https://github.com/octaltree/rustdoc-index) - Tool to quickly find the relevant item from rustdoc.
+- [Rust-to-NPM](https://github.com/a11ywatch/rust-to-npm) - Deploy a rust project to crates.io and npm in one command.

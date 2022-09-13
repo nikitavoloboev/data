@@ -14,7 +14,7 @@
 - [Carp](https://github.com/carp-lang/Carp) - Statically typed lisp, without a GC, for real-time applications. ([HN](https://news.ycombinator.com/item?id=28875051))
 - [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html) ([HN](https://news.ycombinator.com/item?id=18225870)) ([HN 2](https://news.ycombinator.com/item?id=23163596))
 - [ELS 2018 Keynote: This Old Lisp](https://www.youtube.com/watch?v=MgVuqPgKJQc)
-- [Parinfer](https://github.com/shaunlebron/parinfer) - Let's simplify the way we write Lisp.
+- [Parinfer](https://github.com/shaunlebron/parinfer) - Let's simplify the way we write Lisp. ([Web](https://shaunlebron.github.io/parinfer/)) ([Lobsters](https://lobste.rs/s/2iusnv/parinfer_simpler_lisp_editing))
 - [Build me a LISP](https://kirit.com/Build%20me%20a%20LISP) ([HN](https://news.ycombinator.com/item?id=19121828))
 - [Wasp](https://github.com/wasplang/wasp) - Lisp programming language for extremely performant and concise web assembly modules.
 - [Lisp Koans](https://github.com/google/lisp-koans) - Language learning exercise in the same vein as the ruby koans, python koans and others. ([HN](https://news.ycombinator.com/item?id=19313850))

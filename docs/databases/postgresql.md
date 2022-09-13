@@ -567,3 +567,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [PGTracer](https://github.com/aiven/pgtracer) - Tracing tools for PostgreSQL, using eBPF.
 - [pg_idkit](https://github.com/t3hmrman/pg_idkit) - Postgres extension for generating UUIDs.
 - [TiDB for PostgreSQL](https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL) - PgSQL compatible on distributed database TiDB.
+- [pg_netstat](https://github.com/supabase/pg_netstat) - PostgreSQL extension to monitor database network traffic. ([HN](https://news.ycombinator.com/item?id=32823589))

@@ -145,6 +145,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Lexical Vue](https://github.com/wobsoriano/lexical-vue) - Extensible Vue 3 web text-editor based on Lexical.
 - [Blocky Editor](https://github.com/vincentdchan/blocky-editor) - Editor which supports the concept of blocks. Can help you to build an editor like Notion.
 - [Monaco Collaborative Extensions](https://github.com/convergencelabs/monaco-collab-ext) - Adds collaborative editing capabilities to the Monaco Editor.
+- [Dante](https://github.com/michelson/Dante) - Medium clone built on top of ProseMirror's / TipTap.
 
 ## Notes
 

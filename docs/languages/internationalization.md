@@ -47,3 +47,4 @@
 - [Translators](https://github.com/UlionTse/translators) - Library which aims to bring free, multiple, enjoyable translation to individuals and students in Python.
 - [Simeon Griggs-Localization for real-world use-cases: Key learnings from onboarding global brands (2022)](https://www.youtube.com/watch?v=CK7qBl9NuLE)
 - [mtranslate](https://github.com/mouuff/mtranslate) - Fully working Google Translate API for python.
+- [Texterify](https://texterify.com/) - Translation and Localization Tool. ([Code](https://github.com/texterify/texterify))

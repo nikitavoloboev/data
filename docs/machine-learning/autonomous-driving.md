@@ -76,3 +76,5 @@
 - [LaserMix for Semi-Supervised LiDAR Semantic Segmentation (2022)](https://ldkong.com/LaserMix) ([Code](https://github.com/ldkong1205/LaserMix))
 - [HN: Andrej Karpathy leaves Tesla (2022)](https://news.ycombinator.com/item?id=32089013)
 - [Awesome BEV Perception from Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras)
+- [Awesome BEV perception papers and cookbook for achieving SOTA results](https://github.com/OpenPerceptionX/BEVPerception-Survey-Recipe)
+- [OpenLane](https://github.com/OpenPerceptionX/OpenLane) - Large-scale Realistic 3D Lane Dataset.

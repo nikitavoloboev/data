@@ -525,3 +525,4 @@ I want to:
 - [Evolving my note-taking processes (2022)](https://codethrasher.com/post/2022-09-09-evolving-my-note-taking-processes/) ([HN](https://news.ycombinator.com/item?id=32784470))
 - [Mycorrhiza Wiki](https://github.com/bouncepaw/mycorrhiza) - Lightweight file-system wiki engine that uses Git for keeping history.
 - [Cuby Text](https://github.com/vincentdchan/CubyText) - Open-source knowledge management app.
+- [mdSilo](https://mdsilo.com/) - Mind silo for storing ideas, thought, knowledge with a powerful writing tool. built with React and Tauri. ([Code](https://github.com/danloh/mdSilo-app))

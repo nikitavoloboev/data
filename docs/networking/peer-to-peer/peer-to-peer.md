@@ -46,7 +46,7 @@
 - [Hyperdrive v10 – a peer-to-peer filesystem (2020)](https://blog.hypercore-protocol.org/posts/announcing-hyperdrive-10/) ([HN](https://news.ycombinator.com/item?id=23180572)) ([Code](https://github.com/hypercore-protocol/hyperdrive))
 - [Hyperswarm](https://github.com/hyperswarm/hyperswarm) - Distributed networking stack for connecting peers.
 - [hyperswarm/dht](https://github.com/hyperswarm/dht) - DHT powering the HyperSwarm stack.
-- [Testground](https://github.com/testground/testground) - Platform for testing, benchmarking, and simulating distributed and p2p systems at scale. ([Docs](https://docs.testground.ai/))
+- [Testground](https://github.com/testground/testground) - Platform for testing, benchmarking, and simulating distributed and p2p systems at scale. ([Docs](https://docs.testground.ai/)) ([Rust Testground SDK](https://github.com/testground/sdk-rust))
 - [js-libp2p](https://github.com/libp2p/js-libp2p) - JavaScript Implementation of libp2p networking stack.
 - [hypercore-protocol-rs](https://github.com/Frando/hypercore-protocol-rs) - Rust implementation of the wire protocol of Hypercore.
 - [Earthstar](https://earthstar-project.org/) - Specification and JavaScript library for building online tools you can truly call your own. ([GitHub](https://github.com/earthstar-project)) ([Code](https://github.com/earthstar-project/earthstar)) ([react-earthstar](https://github.com/earthstar-project/react-earthstar)) ([Earthstar Replica Server for Glitch](https://github.com/earthstar-project/replica-server-glitch))
@@ -129,3 +129,4 @@
 - [introducer](https://github.com/socketsupply/introducer) - Minimal useful library for creating p2p connections, using an introducer server.
 - [RUM](https://rumsystem.net/) - Open source peer-to-peer application infrastructure to offer the internet alternatives in a decentralized and privacy oriented way. ([Code](https://github.com/rumsystem/quorum))
 - [Hyper Hyper Space](https://github.com/hyperhyperspace/hyperhyperspace-core) - Offline-first shared data library for creating p2p apps that work in the browser and NodeJS.
+- [Noosphere](https://github.com/subconsciousnetwork/noosphere) - Foundational protocol that the Subconscious app builds upon to enable an open-ended, permissionless multiplayer experience.

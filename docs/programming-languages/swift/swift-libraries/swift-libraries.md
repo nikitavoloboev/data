@@ -273,6 +273,7 @@
 - [Inkable](https://github.com/adamwulf/Inkable) - Improve working with Apple pencil.
 - [YetAnotherSwipeToDismiss](https://github.com/PimCoumans/YetAnotherSwipeToDismiss) - Dismissable view controller supporting Auto Layout and dynamic height.
 - [SHSearchBar](https://github.com/Blackjacx/SHSearchBar) - Clean and shiny search bar that does what UISearchBar does only with dirty hacks.
+- [Datadog SDK for iOS and tvOS](https://github.com/DataDog/dd-sdk-ios) - Swift and Objective-C libraries to interact with Datadog on iOS and tvOS.
 
 ## macOS
 
@@ -370,7 +371,7 @@
 
 ## SwiftUI
 
-- [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) - Library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. ([Awesome](https://github.com/antranapp/awesome-tca)) ([Tweet](https://twitter.com/pointfreeco/status/1389614299832741891))
+- [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) - Library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. ([Awesome](https://github.com/antranapp/awesome-tca)) ([Tweet](https://twitter.com/pointfreeco/status/1389614299832741891)) ([Swift Composable Undo](https://github.com/aacapella/swift-composable-undo))
 - [SwiftUI Navigation](https://github.com/pointfreeco/swiftui-navigation) - Tools for making SwiftUI navigation simpler, more ergonomic and more precise.
 - [Swift Composable Presentation](https://github.com/darrarski/swift-composable-presentation) - Navigation helpers for SwiftUI applications build with ComposableArchitecture.
 - [ComposableEnvironment](https://github.com/tgrapperon/swift-composable-environment) - Library to derive and compose Environment's in The Composable Architecture. ([Fork](https://github.com/CaptureContext/swift-composable-environment))
@@ -1248,6 +1249,7 @@
 - [Crossroad](https://github.com/giginet/Crossroad) - Route URL schemes easily.
 - [BytePatternFinder](https://github.com/Sajjon/BytePattern) - Pattern matcher for bytes.
 - [AudioKitEX](https://github.com/AudioKit/AudioKitEX) - Extension to AudioKit contains all of the AudioKit features that rely on C/C++ DSP.
+- [Physical](https://github.com/hyperjeff/Physical) - Swift package for physical quantities.
 
 ## Other (not lib)
 

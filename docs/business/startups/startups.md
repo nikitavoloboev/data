@@ -386,6 +386,7 @@
 - [Ask HN: How much info should founders share with early stage employees? (2022)](https://news.ycombinator.com/item?id=32616270)
 - [Tips for Developers Who Want to Build a SaaS Startup (2022)](https://news.ycombinator.com/item?id=32647091)
 - [Ask HN: Which startups have the most interesting pivot stories? (2022)](https://news.ycombinator.com/item?id=32740486)
+- [A development process to ship features fast](https://growing-products.paralect.com/a-development-process-startup-founders-should-use-to-ship-features-weirdly-fast) ([HN](https://news.ycombinator.com/item?id=32816990))
 
 ## Images
 

@@ -280,3 +280,4 @@
 - [Tips to Get Started with Cosmopolitan Libc (2022)](https://jeskin.net/blog/getting-started-with-cosmopolitan-libc/)
 - [Prototyping in C (2022)](https://www.jefftk.com/p/prototyping-in-c)
 - [Teaching C (2016)](https://blog.regehr.org/archives/1393) ([HN](https://news.ycombinator.com/item?id=32798826))
+- [Cake](https://github.com/thradams/cake) - C23 compiler frond end written from scratch in C.

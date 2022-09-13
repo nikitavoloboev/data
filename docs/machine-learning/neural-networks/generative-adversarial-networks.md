@@ -226,3 +226,4 @@ title: Generative adversarial networks
 - [CMGAN: Conformer-based Metric GAN for Speech Enhancement (2022)](https://arxiv.org/abs/2203.15149) ([Code](https://github.com/ruizhecao96/CMGAN))
 - [Generating Long Videos of Dynamic Scenes (2022)](https://arxiv.org/abs/2206.03429) ([Code](https://github.com/NVlabs/long-video-gan))
 - [text2StyleGAN](https://github.com/duxiaodan/Fast_text2StyleGAN) - Natural language interface that adapts pre-trained GANs for text-guided human face synthesis.
+- [Conditional GANs with Auxiliary Discriminative Classifier (2022)](https://arxiv.org/abs/2107.10060) ([Code](https://github.com/houliangict/adcgan))

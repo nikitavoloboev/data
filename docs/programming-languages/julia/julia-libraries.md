@@ -119,6 +119,7 @@
 - [LsqFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl) - Simple curve fitting in Julia.
 - [TintiNet.jl](https://github.com/Hugemiler/TintiNet.jl) - Implementation of the TintiNet architecture for Julia.
 - [MixedModels](https://github.com/JuliaStats/MixedModels.jl) - Julia package for fitting (statistical) mixed-effects models. ([Tweet](https://twitter.com/wdonald_1985/status/1557180271669047296))
+- [Finch](https://github.com/willow-ahrens/Finch.jl) - Sparse, Compressed, and Structured Tensor Processing.
 
 ## Math
 
@@ -216,6 +217,7 @@
 - [RandomVariables](https://github.com/ManuelStapper/RandomVariables.jl) - Julia package for random variables, some transformations and probabilities.
 - [Sherlogs.jl](https://github.com/milankl/Sherlogs.jl) - Number format that inspects your code by logging the arithmetic results.
 - [GeometryBasics.jl](https://github.com/JuliaGeometry/GeometryBasics.jl) - Basic geometry types.
+- [Forecast](https://github.com/viraltux/Forecast.jl) - Julia package containing utilities intended for Time Series analysis.
 
 ## NLP
 

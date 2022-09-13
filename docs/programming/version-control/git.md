@@ -576,3 +576,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [git-squash-all](https://github.com/MaxKless/git-squash-all) - Quickly squash all commits during an interactive rebase.
 - [giget](https://github.com/unjs/giget) - Easily download git repositories.
 - [SQLite Doesn't Use Git](https://matt-rickard.com/sqlite-doesnt-use-git) ([HN](https://news.ycombinator.com/item?id=32808229))
+- [Scaling Git’s garbage collection (2022)](https://github.blog/2022-09-13-scaling-gits-garbage-collection/) ([HN](https://news.ycombinator.com/item?id=32826072))

@@ -391,3 +391,4 @@ title: ML Libraries
 - [ELI5](https://github.com/eli5-org/eli5) - Library for debugging/inspecting machine learning classifiers and explaining their predictions.
 - [DeePMD-kit](https://github.com/deepmodeling/deepmd-kit) - Deep learning package for many-body potential energy representation and molecular dynamics.
 - [Dragonfly](https://github.com/dragonfly/dragonfly) - Open source python library for scalable Bayesian optimization.
+- [fastMONAI](https://github.com/MMIV-ML/fastMONAI) - Simplifying deep learning for medical imaging.

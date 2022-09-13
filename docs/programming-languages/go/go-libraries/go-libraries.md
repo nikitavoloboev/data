@@ -152,6 +152,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [testtime](https://github.com/tenntenn/testtime) - time.Now for tests.
 - [gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
 - [Threatest](https://github.com/DataDog/threatest) - Go framework for testing threat detection end-to-end.
+- [test](https://github.com/shoenig/test) - Modern generic testing assertions library for Go.
 
 ## Web
 
@@ -354,6 +355,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Moonshot](https://github.com/spy16/moonshot) - Boilerplate Go library for quickly setting up web backend.
 - [KaGo](https://github.com/kamalshkeir/kago) - High-level web framework, that encourages rapid development and clean, pragmatic design.
 - [Medium](https://github.com/BlakeWilliams/medium) - Experimental Go code for writing web apps.
+- [httpsnoop](https://github.com/felixge/httpsnoop) - Provides an easy way to capture http related metrics (i.e. response time, bytes written, and http status code) from your application's http.Handlers.
 
 ## GraphQL
 
@@ -1946,3 +1948,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Which framework and ORM should we choose?](https://www.reddit.com/r/golang/comments/x68y0h/which_framework_and_orm_should_we_choose/)
 - [Adding a Bubbletea CLI Interface (2022)](https://blog.customct.com/adding-a-bubbletea-cli-interface)
 - [Which ORM framework are you using with Go, and why? (2022)](https://www.reddit.com/r/golang/comments/xaui7k/which_orm_framework_are_you_using_with_golang_and/)
+- [Planning Go 1.20 cryptography work (2022)](https://words.filippo.io/dispatches/go1-20/) ([HN](https://news.ycombinator.com/item?id=32819096))

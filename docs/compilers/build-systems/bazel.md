@@ -61,3 +61,5 @@ title: Bazel
 - [Bazel Caching Explained](https://sluongng.hashnode.dev/series/bazel-caching-explained)
 - [Bazel in CI (Part 0): The Developer Experience Funnel (2022)](https://sluongng.hashnode.dev/bazel-in-ci-part-0-the-developer-experience-funnel)
 - [Bazel Examples](https://github.com/aspect-build/bazel-examples) - Variety of examples is provided by Aspect.
+- [Bazel in CI: Commit Under Test (2022)](https://sluongng.hashnode.dev/bazel-in-ci-part-1-commit-under-test)
+- [When to use Bazel?](https://earthly.dev/blog/bazel-build/)

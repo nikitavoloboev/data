@@ -12,6 +12,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 
 - [Legend-State](https://github.com/LegendApp/legend-state) - Super fast and powerful state manager for JavaScript apps.
 - [Jotai](https://github.com/pmndrs/jotai) - Primitive, flexible state management for React. ([How Jotai Specifies Package Entry Points](https://blog.axlight.com/posts/how-jotai-specifies-package-entry-points/)) ([Tweet](https://twitter.com/acemarke/status/1515654687780974595))
+- [Jotai Signal](https://github.com/jotai-labs/jotai-signal)
 - [Store](https://github.com/fabiospampinato/store) - Beautifully-simple framework-agnostic modern state management library.
 - [React Tracked](https://github.com/dai-shi/react-tracked) - Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
 - [idyl](https://github.com/pacocoursey/idyl) - Merge ideas from zustand + swr + valtio into a simple shared state.

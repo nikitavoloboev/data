@@ -17,6 +17,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [squid](https://github.com/andywer/squid) - SQL tagged template strings and schema definitions for JavaScript & TypeScript.
 - [KVS](https://github.com/azu/kvs) - Lightweight key-value storage library for Browser, Node.js, and In-Memory.
 - [Kysely](https://github.com/koskimas/kysely) - Type-safe typescript SQL query builder.
+- [Kysely Codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generates Kysely type definitions from your database.
 - [Keydb](https://github.com/DjDeveloperr/Keydb) - Simple Key-value storage module with support for multiple database backends.
 - [shapes/core](https://github.com/punchcard/shapes) - Type-safe DSLs and ORMs for TypeScript.
 - [pg-magic](https://github.com/danielrearden/pg-magic) - TypeScript type generator for PostgreSQL queries.
@@ -705,3 +706,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Transformer](https://transformer-five.vercel.app/) - Takes an input (ex: TS) and ouputs to destination format (ex: Zod/JSON/Open API Schemas). ([Code](https://github.com/astahmer/transformer))
 - [OpenAPI Zod Client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript HTTP client with Zod validation) from a (JSON/YAML) OpenAPI spec.
 - [fliegdoc](https://github.com/fliegwerk/fliegdoc) - Documentation generator for Typescript-based libraries with good support for monorepos.
+- [NaNofuzz](https://github.com/penrose/nanofuzz) - Fast and easy-to-use automatic test generator for Typescript that runs inside VS Code.

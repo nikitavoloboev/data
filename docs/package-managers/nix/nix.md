@@ -402,3 +402,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Tvixbolt](https://tazj.in/blobs/tvixbolt/) - Compiler for the Nix language. ([Code](https://cs.tvl.fyi/depot/-/tree/tvix))
 - [disko](https://github.com/nix-community/disko) - Nix-powered automatic disk partitioning.
 - [41North's Nix Templates](https://github.com/41north/templates)
+- [Nix Harden Needed Setup Hook](https://github.com/fzakaria/nix-harden-needed) - Bubble up the correct paths to your shared object libraries in Nix.

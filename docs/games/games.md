@@ -174,6 +174,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Pycraft](https://github.com/PycraftDeveloper/Pycraft) - OpenGL, open world, video game made entirely with Python.
 - [Dungeon Crawler](https://github.com/larsjarlvik/dungeon-crawler) - Cross platform 3D dungeon crawler RPG.
 - [Escape Guldur](https://github.com/hazeycode/escape-guldur) - Retro action-RPG written in Zig for the WASM-4 fantasy console.
+- [Botnet](https://github.com/JMS55/botnet) - Multiplayer programming game using Rust and WebAssembly.
 
 ## Awesome games (other)
 

@@ -919,3 +919,7 @@
 - [Lance](https://github.com/eto-ai/lance) - Columnar Data Format for Machine Learning and Computer Vision.
 - [Strand-Braid](https://github.com/strawlab/strand-braid) - Live, low-latency 2D and 3D tracking from single or multiple high-speed cameras.
 - [Multi-Domain Incremental Learning for Semantic Segmentation (2022)](https://arxiv.org/abs/2110.12205) ([Code](https://github.com/prachigarg23/MDIL-SS))
+- [ExpansionNet v2: Block Static Expansion in fast end to end training for Image Captioning (2022)](https://arxiv.org/abs/2208.06551) ([Code](https://github.com/jchenghu/ExpansionNet_v2))
+- [Awesome Vision-and-Language Pre-Training](https://github.com/zhjohnchan/awesome-vision-and-language-pretraining)
+- [Deep Vision and Graphics course](https://github.com/yandexdataschool/deep_vision_and_graphics)
+- [OpenMixup](https://github.com/Westlake-AI/openmixup) - CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark.

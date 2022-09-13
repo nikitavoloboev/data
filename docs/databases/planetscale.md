@@ -32,3 +32,4 @@ title: Planetscale
 - [PlanetScale serverless driver for JavaScript](https://planetscale.com/blog/introducing-the-planetscale-serverless-driver-for-javascript) ([HN](https://news.ycombinator.com/item?id=32511577))
 - [One million queries per second with MySQL (2022)](https://planetscale.com/blog/one-million-queries-per-second-with-mysql) ([HN](https://news.ycombinator.com/item?id=32680957))
 - [Kysely PlanetScale](https://github.com/depot/kysely-planetscale) - Kysely dialect for PlanetScale Serverless.
+- [PlanetScale Serverless Driver for JavaScript](https://github.com/planetscale/database-js) - Fetch API-compatible PlanetScale database driver.

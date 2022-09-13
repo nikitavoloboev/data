@@ -849,3 +849,5 @@ if err != nil {
 - [mkctr](https://github.com/tailscale/mkctr) - Cross platform container builder for go.
 - [Neither self nor this: Receivers in Go (2016)](https://blog.heroku.com/neither-self-nor-this-receivers-in-go)
 - [Structured, leveled logging in Go's standard library](https://github.com/golang/go/discussions/54763) ([HN](https://news.ycombinator.com/item?id=32800598)) ([Lobsters](https://lobste.rs/s/schsks/structured_leveled_logging_go_s_standard))
+- [goast](https://github.com/m-mizutani/goast) - Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
+- [Proposal: profile-guided optimization (2022)](https://go.googlesource.com/proposal/+/master/design/55022-pgo.md)

@@ -388,3 +388,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Generic Replicache backend for Next.js](https://github.com/rocicorp/replicache-nextjs)
 - [qs-props](https://github.com/aiji42/next-qs-props) - Library makes it possible to handle query strings in Next.js getStaticProps.
 - [Next.js Layouts RFC](https://twitter.com/delba_oliveira/status/1568291558776274945)
+- [next-lazy-hydrate](https://github.com/thanhlmm/next-lazy-hydrate) - Optimize NextJS performance by lazy load and hydrate under the fold.

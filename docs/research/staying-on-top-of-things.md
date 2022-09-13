@@ -182,6 +182,7 @@ And these Discord servers:
 - [Reasons to be Cheerful](https://reasonstobecheerful.world/)
 - [openDemocracy](https://www.opendemocracy.net/en/odr/) - Independent media platform covering world affairs, ideas and culture. ([Twitter](https://twitter.com/opendemocracy))
 - [Offscreen Magazine](https://www.offscreenmag.com/) - Independent print magazine that explores critical perspectives on technology through earnest conversations.
+- [viborc.com](https://viborc.com/) - Data-driven stories for bright minds.
 
 ### Other
 

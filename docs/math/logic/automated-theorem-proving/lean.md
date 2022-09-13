@@ -113,3 +113,4 @@ title: Lean
 - [Lean 4 interface to Eigen](https://github.com/lecopivo/EigenLean)
 - [std4](https://github.com/leanprover/std4) - Standard Library for Lean 4.
 - [Beyond the Liquid Tensor Experiment (2022)](https://xenaproject.wordpress.com/2022/09/12/beyond-the-liquid-tensor-experiment/)
+- [LeanAide](https://github.com/siddhartha-gadgil/LeanAide) - Tools based on AI for helping with Lean 4.

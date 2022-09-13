@@ -239,7 +239,7 @@ Use this [Solid/Vite](https://github.com/fuyutarow/solid-chrome-extension-templa
 - [Using JavaScript to fill localStorage to its maximum capacity (2022)](https://mmazzarolo.com/blog/2022-06-26-filling-local-storage-programmatically/)
 - [Vite Plugin Web Extension](https://github.com/aklinker1/vite-plugin-web-extension) - Vite plugin for bundling Chrome/Browser Extensions.
 - [Web Extensions (sys)](https://github.com/web-extensions-rs/web-extensions-sys) - Rust library that provides WebExtension API WASM bindings.
-- [Ladybird Web Browser](https://github.com/awesomekling/ladybird) - Browser using the SerenityOS LibWeb engine with a Qt GUI.
+- [Ladybird Web Browser](https://github.com/SerenityOS/ladybird) - Browser using the SerenityOS LibWeb engine with a Qt GUI. ([Article](https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/)) ([HN](https://news.ycombinator.com/item?id=32809126)) ([Lobsters](https://lobste.rs/s/qnecxx/ladybird_new_cross_platform_browser))
 - [Andy Bell – Be the browser’s mentor, not its micromanager (2022)](https://www.youtube.com/watch?v=5uhIiI9Ld5M) ([Slides](https://heypresents.com/downloads/conference/2022/andy-bell.pdf)) ([Tweet](https://twitter.com/hankchizljaw/status/1544310058497998850))
 - [Vite web extension template. Setup with React, Typescript and TailwindCSS](https://github.com/JohnBra/vite-web-extension)
 - [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element.
@@ -251,3 +251,4 @@ Use this [Solid/Vite](https://github.com/fuyutarow/solid-chrome-extension-templa
 - [Why are bookmarks second class citizens in browsers? (2022)](https://news.ycombinator.com/item?id=32505314)
 - [Playwright for Rust](https://github.com/octaltree/playwright-rust)
 - [Vimium C](https://github.com/gdh1995/vimium-c) - Keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar.
+- [TorpedoRead](https://github.com/unreleased/TorpedoRead) - Browser extension that biohacks your brain into reading quicker with a deeper focus.

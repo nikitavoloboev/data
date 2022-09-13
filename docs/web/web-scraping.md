@@ -218,3 +218,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Crawlee](https://crawlee.dev/) - Web scraping and browser automation library for Node.js. ([HN](https://news.ycombinator.com/item?id=32561127))
 - [Facebook Scraper](https://github.com/kevinzg/facebook-scraper) - Scrape Facebook public pages without an API key.
 - [Scraping a website protected by Cloudflare (2022)](https://www.reddit.com/r/golang/comments/xaisg4/is_it_possible_to_scrape_a_website_protected_by/)
+- [SABLE](https://github.com/uscensusbureau/SABLE) - Scraping Assisted by Learning.

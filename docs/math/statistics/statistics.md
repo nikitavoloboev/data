@@ -167,3 +167,4 @@
 - [StockBot: Using LSTMs to Predict Stock Prices (2022)](https://arxiv.org/abs/2207.06605)
 - [Modeling Mindsets: The Many Cultures of Learning From Data (2022)](https://book.modeling-mindsets.com/) ([Code](https://github.com/christophM/modeling-mindsets))
 - [Monte Carlo Geometry Processing (2022)](https://www.youtube.com/watch?v=bZbuKOxH71o)
+- [Veri](https://github.com/bgokden/veri) - Distributed Feature Store optimized for Search and Recommendation tasks.

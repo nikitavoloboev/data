@@ -24,6 +24,7 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 
 - [To me the biggest difference between React and Solid is that things that can change are wrapped in signals in Solid, and in dependencies arrays in React.](https://twitter.com/fabiospampinato/status/1528537000504184834)
 - [Components are rendered only once and are there pretty much to organize the code. The built-in components (Show, For) are awesome and should be used instead of following React-type patterns (multiple dynamic returns, map(), etc).](https://www.youtube.com/watch?v=Ilf34WjMBkU)
+- [createResource makes a signal out of a promise](https://discord.com/channels/722131463138705510/722131463889223772/1019343273254465566)
 
 ## Links
 

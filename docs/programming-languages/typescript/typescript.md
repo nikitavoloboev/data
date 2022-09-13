@@ -287,6 +287,7 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [Generics in TypeScript: a deep dive](https://github.com/total-typescript/typescript-generics-tutorial)
 - [Mega thread on learning TS](https://twitter.com/mattpocockuk/status/1566739592249835520)
 - [Prakaar](https://github.com/devanshj/prakaar) - Type programming language which compiles to and interops with type-level TypeScript.
+- [Civet](https://github.com/DanielXMoore/Civet) - CoffeeScript of TypeScript.
 
 ## Images
 

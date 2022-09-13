@@ -298,6 +298,7 @@
 - [Nox](https://github.com/wntrblm/nox) - Flexible test automation for Python.
 - [PyTruth](https://github.com/google/pytruth) - Assertion framework for Python unit tests.
 - [pytest-accept](https://github.com/max-sixty/pytest-accept) - Pytest plugin for automatically updating doctest outputs.
+- [RESPX](https://github.com/lundberg/respx) - Mock HTTPX with awesome request patterns and response side effects.
 
 ## Error
 

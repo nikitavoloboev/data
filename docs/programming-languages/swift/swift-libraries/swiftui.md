@@ -251,3 +251,4 @@ title: SwiftUI
 - [Why I quit using SwiftUI (2022)](https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html) ([HN](https://news.ycombinator.com/item?id=32630389))
 - [React Meets SwiftUI](https://github.com/bmcmahen/react-meets-swiftui) - Common react design patterns implemented in SwiftUI.
 - [Natalia Panferova - Mysteries of SwiftUI Text View (2022)](https://www.youtube.com/watch?v=-l7RsBENLbI)
+- [Ultimate Guide to SwiftUI Animations (2022)](https://github.com/kishikawakatsumi/UltimateGuideToAnimations)

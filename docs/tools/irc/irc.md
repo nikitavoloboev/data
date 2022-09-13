@@ -79,3 +79,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [ergochat/irc-go](https://github.com/ergochat/irc-go) - Libraries to help with IRC development in Go.
 - [SourceHut is committed to making IRC better (2022)](https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/) ([Lobsters](https://lobste.rs/s/oim6aa/sourcehut_is_committed_making_irc_better))
 - [girc](https://github.com/lrstanley/girc) - Flexible IRC library for Go.
+- [IRC × OAuth 2.0 (2022)](https://emersion.fr/blog/2022/irc-and-oauth2/)

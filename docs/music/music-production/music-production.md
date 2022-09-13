@@ -414,3 +414,4 @@
 - [Web Audio Hub](https://github.com/AmberJBlue/web-audio-hub) - Collection of resources and projects for the Web Audio API and audio on the web in general.
 - [Singing Synthesis from MIDI file](https://github.com/mathigatti/midi2voice)
 - [MIDI to Image conversion](https://github.com/mathigatti/midi2img) - Convert MIDI files into piano roll images and back with this Python script.
+- [Rauversion](https://rauversion.com/) - Open source music sharing platform. Built on Elixir with Phoenix framework. ([Code](https://github.com/rauversion/rauversion-phx))

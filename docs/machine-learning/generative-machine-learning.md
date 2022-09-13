@@ -50,3 +50,5 @@
 - [Art Hub AI](https://arthub.ai/) - Discover, upload and share AI generated art pieces..
 - [AI Content Generation, Part 1: Machine Learning Basics](https://www.jonstokes.com/p/ai-content-generation-part-1-machine) ([Tweet](https://twitter.com/jonst0kes/status/1569400246714908672))
 - [Inpainting with Stable Diffusion & Replicate](https://inpainter.vercel.app/)
+- [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)
+- [stability-clients](https://github.com/Stability-AI/stability-sdk) - Client implementations that interact with the Stability Generator API.

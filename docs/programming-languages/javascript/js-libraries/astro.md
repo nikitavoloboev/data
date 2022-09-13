@@ -49,3 +49,4 @@ title: Astro
 - [Hyperdrive Speedometer](https://hyperdrive-speedometer.netlify.app/) - Benchmarking the performance of Astro sites over time. ([Code](https://github.com/delucis/hyperdrive-speedometer))
 - [Astro Remark Default Frontmatter](https://github.com/BryceRussell/astro-remark-default-frontmatter)
 - [Lyra's Astro Plugin](https://github.com/LyraSearch/plugin-astro) - Lyra integration for Astro.
+- [Astro + Vanilla Extract](https://github.com/markdalgleish/astro-vanilla-extract-demo)

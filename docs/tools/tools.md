@@ -220,6 +220,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [UI Bakery](https://uibakery.io/) - Build internal tools faster than ever.
 - [Convoy](https://getconvoy.io/) - Fast & secure webhooks service. It receives event data from a HTTP API and sends these event data to the configured endpoints. ([Code](https://github.com/frain-dev/convoy))
 - [Help Scout](https://www.helpscout.com/) - Simple Customer Service Software and Education.
+- [Chaskiq](https://chaskiq.io/) - Full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc. ([Code](https://github.com/chaskiq/chaskiq))
 - [IT Tools](https://it-tools.tech/) - Handy tools for developers. ([Code](https://github.com/CorentinTh/it-tools))
 - [mdck](https://github.com/ctm/mdck) - Reports broken links found within md files.
 - [ADia](https://github.com/pylover/adia) - ASCII diagram language & generator for UML sequence diagram.
@@ -506,7 +507,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Redirector Server with Google Sheets](https://github.com/ahmetb/serverless-url-shortener) - Simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 - [Spotify TUI](https://github.com/Rigellute/spotify-tui) - Spotify client for the terminal written in Rust.
 - [Free for Developers](https://free-for.dev/#/) - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. ([Code](https://github.com/ripienaar/free-for-dev)) ([HN](https://news.ycombinator.com/item?id=26239711)) ([HN](https://news.ycombinator.com/item?id=32151216))
-- [Open Policy Agent](https://github.com/open-policy-agent/opa) - Open source, general-purpose policy engine.
+- [Open Policy Agent](https://github.com/open-policy-agent/opa) - Open source, general-purpose policy engine. ([Web](https://www.openpolicyagent.org/))
 - [Findka](https://essays.findka.com/) - Great essays delivered to your inbox. Chosen specifically for you with machine learning. ([HN](https://news.ycombinator.com/item?id=23541840))
 - [Butterfly Network](https://www.butterflynetwork.com/) - Point of care ultrasound solutions.
 - [DevDash](https://github.com/Phantas0s/devdash) - Highly Configurable Terminal Dashboard for Developers.

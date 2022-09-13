@@ -441,3 +441,4 @@ title: PyTorch
 - [Horizontally Fused Training Array (HFTA)](https://github.com/UofT-EcoSystem/hfta) - Boost hardware utilization for ML training workloads via Inter-model Horizontal Fusion.
 - [Stannum](https://github.com/ifsheldon/stannum) - Fusing Taichi into PyTorch.
 - [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/) ([Code](https://github.com/mrdbourke/pytorch-deep-learning))
+- [audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.

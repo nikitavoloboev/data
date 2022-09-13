@@ -127,3 +127,4 @@
 - [Speeding up PostHog builds with Depot (2022)](https://posthog.com/blog/speeding-up-posthog-builds-with-depot)
 - [The Unreasonable Effectiveness of Makefiles (2022)](https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles) ([HN](https://news.ycombinator.com/item?id=32438616))
 - [Knit](https://github.com/zyedidia/knit) - Build tool inspired by Make and Plan9 mk.
+- [Tejolote](https://github.com/puerco/tejolote) - Highly configurable build executor and observer designed to generate signed SLSA provenance attestations about build runs.

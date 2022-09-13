@@ -199,3 +199,4 @@
 - [Generate Synthetic Data in 3 Lines of Code (2022)](https://gretel.ai/blog/generate-synthetic-data-in-3-lines-of-code) ([HN](https://news.ycombinator.com/item?id=32752505))
 - [ShowData](https://github.com/silverbulletmdc/showdata) - Large scale image dataset visiualization tool.
 - [Synthetic Faces High Quality (SFHQ) dataset](https://github.com/SelfishGene/SFHQ-dataset)
+- [Hugging Face Datasets Converter](https://github.com/nateraw/huggingface-datasets-converter) - Scripts to convert datasets from various sources to Hugging Face Datasets.
