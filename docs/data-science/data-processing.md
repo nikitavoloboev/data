@@ -120,3 +120,4 @@
 - [Quokka](https://github.com/marsupialtail/quokka) - Fast data processing engine whose core consists of ~1000 lines of Python code.
 - [Modal](https://modal.com/) - On-demand compute that just works. ([Twitter](https://twitter.com/modal_labs))
 - [Building open source downscaling pipelines for the cloud (2022)](https://carbonplan.org/blog/cloud-downscaling-pipelines)
+- [Dabbling with Dagster vs. Airflow (2022)](https://davidsj.substack.com/p/dabbling-with-dagster-part-1) ([HN](https://news.ycombinator.com/item?id=32839147))

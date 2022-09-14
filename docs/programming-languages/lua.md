@@ -139,3 +139,4 @@ title: Lua
 - [lua-resty-radixtree](https://github.com/api7/lua-resty-radixtree) - Adaptive Radix Trees implemented in Lua / LuaJIT.
 - [Baton](https://github.com/tesselode/baton) - Input library for LÖVE that bridges the gap between keyboard and joystick controls.
 - [promise-async](https://github.com/kevinhwang91/promise-async) - Promise & Async in Lua.
+- [Go Lua Compiler and VM](https://github.com/ofunc/lua)

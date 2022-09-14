@@ -315,6 +315,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [data-diff](https://github.com/datafold/data-diff) - Efficiently diff rows across two different databases.
 - [Malewicz](https://github.com/mgramin/malewicz) - Hackable GUI SQL-manager written in SQL itself.
 - [Go Database Code Generator](https://github.com/telkomdev/go-dbcodegen) - Tool is to help you generate schema migrations and CRUD code in Go from an entity definition in form of JSON.
+- [FeatureBase](https://github.com/FeatureBaseDB/featurebase) - Real-time analytical database built on bitmaps. ([HN](https://news.ycombinator.com/item?id=32835900))
 
 ## Notes
 
@@ -680,3 +681,5 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [kvdbd](https://github.com/jgarzik/kvdbd) - Daemon that enables reading/writing of flat-file key/value databases available via HTTP API, using REST/JSON or Protobufs.
 - [Doozer](https://github.com/ha/doozerd) - Highly-available, completely consistent store for small amounts of extremely important data.
 - [dblab](https://github.com/danvergara/dblab) - Interactive client for PostgreSQL, MySQL and SQLite3.
+- [Cachegrand](https://github.com/danielealbano/cachegrand) - Modern OSS Key-Value store built for today's hardware.
+- [Differential dataflow is the next level of query optimization (2022)](https://tably.com/blog/high-performance-analytics)

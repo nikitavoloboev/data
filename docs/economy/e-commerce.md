@@ -167,3 +167,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Openship](https://openship.org/) - Scale your e-commerce operations by using multi-channel fulfillment. Open-source Amazon. ([HN](https://news.ycombinator.com/item?id=32690410)) ([Code](https://github.com/openshiporg/openship))
 - [Shopify App Template (Node) with TypeScript](https://github.com/kanzitelli/shopify-app-template-typescript)
 - [Looria](https://looria.com/) - Finds and analyzes trusted product reviews.
+- [FastStore](https://github.com/vtex/faststore) - Digital commerce toolkit for frontend developers.

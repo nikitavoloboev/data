@@ -50,3 +50,5 @@ title: Astro
 - [Astro Remark Default Frontmatter](https://github.com/BryceRussell/astro-remark-default-frontmatter)
 - [Lyra's Astro Plugin](https://github.com/LyraSearch/plugin-astro) - Lyra integration for Astro.
 - [Astro + Vanilla Extract](https://github.com/markdalgleish/astro-vanilla-extract-demo)
+- [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Makes it easy to add information that is relevant for SEO to your Astro app.
+- [Astro Auth](https://github.com/astro-community/astro-auth) - Easiest Way To Do Authentication In Astro.

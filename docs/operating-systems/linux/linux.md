@@ -586,3 +586,4 @@ title: Linux
 - [Linux Real-Time Tools](https://github.com/OpenEneaLinux/rt-tools) - Collection of Linux tools for achieving real-time performance.
 - [syscall-digest](https://github.com/dave-tucker/syscall-digest)
 - [ghOSt](https://github.com/google/ghost-kernel) - Fast & Flexible User-Space Delegation of Linux Scheduling.
+- [Spawning processes faster and easier with io uring (2022)](https://lpc.events/event/16/contributions/1213/attachments/1012/1945/io-uring-spawn.pdf)

@@ -226,3 +226,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Digs.fm](https://digs.fm/) - Track and organize releases you want to listen, listened or liked. Like Goodreads, but for music. ([HN](https://news.ycombinator.com/item?id=32551862))
 - [Best Electronic Essential Mix](https://www.reddit.com/r/electronicmusic/comments/xabjzy/best_essential_mixever/)
 - [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - Spotify music and playlist downloader written in Rust which also works with a free Spotify account.
+- [Ask HN: How do you discover music? (2022)](https://news.ycombinator.com/item?id=32835559)

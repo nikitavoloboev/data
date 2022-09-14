@@ -67,3 +67,4 @@
 - [Unicode Character Search](https://macleod.io/unicode/) - Search for Unicode Characters by name, codepoint or text. ([Code](https://github.com/Alexendoo/unicode-search))
 - [Understanding Big Data File Formats (2022)](https://www.vladsiv.com/big-data-file-formats/)
 - [Free Lossless Audio Codec (FLAC)](https://github.com/xiph/flac)
+- [How QR codes work (2022)](https://typefully.com/DanHollick/qr-codes-T7tLlNi) ([HN](https://news.ycombinator.com/item?id=32837565))

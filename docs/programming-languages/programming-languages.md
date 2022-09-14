@@ -418,3 +418,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Prettify](https://liquify.dev/playground/prettify) - Code beautification tool for formatting HTML, Liquid, JavaScript, TypeScript, CSS/SCSS and more. ([Code](https://github.com/panoply/prettify))
 - [Odin](https://github.com/odin-lang/Odin) - General-purpose programming language with distinct typing, built for high performance, modern systems, and built-in data-oriented data types. ([Review](https://graphitemaster.github.io/odin_review/))
 - [What would be your “perfect” programming language? (2022)](https://news.ycombinator.com/item?id=32807730)
+- [Ask HN: What is the coding exercise you use to explore a new language? (2022)](https://news.ycombinator.com/item?id=32836113)

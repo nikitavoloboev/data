@@ -24,3 +24,4 @@ title: swc
 - [SWC-coverage-instrument](https://github.com/kwonoj/swc-coverage-instrument) - Istanbuljs compatible SWC coverage instrumentation plugin.
 - [dprint-swc-ext](https://github.com/dprint/dprint-swc-ext) - Functionality to make swc easier to work with.
 - [swc-jotai](https://github.com/pmndrs/swc-jotai) - SWC plugins for Jotai.
+- [SWC-plugin-vanilla-extract](https://github.com/kwonoj/swc-plugin-vanilla-extract)

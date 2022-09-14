@@ -267,3 +267,4 @@
 - [Everyday Data Science Interactive Course](https://tigyog.app/d/C-I1weB9CpTH/r/everyday-data-science) ([HN](https://news.ycombinator.com/item?id=32118530))
 - [nbdev+Quarto: A new secret weapon for productivity (2022)](https://www.fast.ai/2022/07/28/nbdev-v2/)
 - [CS109a: Introduction to Data Science – Resources](https://harvard-iacs.github.io/2021-CS109A/pages/materials.html) ([HN](https://news.ycombinator.com/item?id=32295243))
+- [CNext Instructions](https://github.com/cnextio/cnext) - Data-centric workspace for DS and AI.

@@ -108,3 +108,4 @@ title: Web Components
 - [lite-tiktok](https://github.com/justinribeiro/lite-tiktok) - Web component that lazy loads TikTok embeds.
 - [WebC](https://github.com/11ty/webc) - Single File Web Components.
 - [El](https://github.com/frameable/el) - Minimal JavaScript application framework inspired by React, Vue, and lit-element.
+- [WebComponents.org](https://www.webcomponents.org/) - Discuss & share web components. ([Code](https://github.com/webcomponents/webcomponents.org))

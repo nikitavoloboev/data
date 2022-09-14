@@ -392,3 +392,4 @@ title: ML Libraries
 - [DeePMD-kit](https://github.com/deepmodeling/deepmd-kit) - Deep learning package for many-body potential energy representation and molecular dynamics.
 - [Dragonfly](https://github.com/dragonfly/dragonfly) - Open source python library for scalable Bayesian optimization.
 - [fastMONAI](https://github.com/MMIV-ML/fastMONAI) - Simplifying deep learning for medical imaging.
+- [Contextual Bandits](https://github.com/david-cortes/contextualbandits) - Python implementations of contextual bandits algorithms.

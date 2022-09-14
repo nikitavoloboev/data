@@ -796,7 +796,7 @@ title: Kubernetes
 - [Scaling Kubernetes to Thousands of CRDs (2022)](https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/)
 - [Nova](https://github.com/FairwindsOps/nova) - Find outdated or deprecated Helm charts running in your cluster.
 - [Kubernetes Was Never Designed for Batch Jobs (2022)](https://betterprogramming.pub/kubernetes-was-never-designed-for-batch-jobs-f59be376a338) ([Lobsters](https://lobste.rs/s/z8gxe6/kubernetes_was_never_designed_for_batch))
-- [Parseable](https://github.com/parseablehq/parseable) - Cloud native log storage and management for Kubernetes, containerised workloads.
+- [Parseable](https://github.com/parseablehq/parseable) - Cloud native log storage and management for Kubernetes, containerised workloads. ([Docs](https://www.parseable.io/docs/introduction)) ([HN](https://news.ycombinator.com/item?id=32837222))
 - [k8s-client-go](https://github.com/castai/k8s-client-go) - Minimal Go Kubernetes client based on Generics.
 - [Pulumi Kubernetes Operator](https://github.com/pulumi/pulumi-kubernetes-operator) - Kubernetes operator that provides a CI/CD workflow for Pulumi stacks using Kubernetes primitives.
 - [run-job](https://github.com/alexellis/run-job) - Run a Kubernetes Job and get the logs when it's done.
@@ -812,3 +812,4 @@ title: Kubernetes
 - [Useful Kubernetes tools (2022)](https://www.reddit.com/r/kubernetes/comments/xauuxk/what_are_some_useful_kubernetes_tools_you_can/)
 - [Kusk Gateway](https://github.com/kubeshop/kusk-gateway) - Enables you to design and configure your APIs from single OpenAPI manifest.
 - [Kubefirst CLI](https://github.com/kubefirst/kubefirst) - GitOps Infrastructure & Application Delivery Platform.
+- [Kluctl](https://github.com/kluctl/kluctl) - Missing glue that puts together your (and any third-party) deployments into one large declarative Kubernetes deployment.

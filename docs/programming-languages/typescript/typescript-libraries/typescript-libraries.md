@@ -616,6 +616,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [packrup](https://github.com/harlan-zw/packrup) - Simple utils to pack (and unpack) arrays and strings to a flat object.
 - [cwait](https://github.com/charto/cwait) - Limit number of promises running in parallel.
 - [remember-promise](https://github.com/redabacha/remember-promise) - Remembering promises that were made.
+- [Angu](https://github.com/jsdw/angu) - Small DSL/interpreter that can be used to evaluate simple expressions.
 
 ## Links
 
@@ -707,3 +708,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [OpenAPI Zod Client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript HTTP client with Zod validation) from a (JSON/YAML) OpenAPI spec.
 - [fliegdoc](https://github.com/fliegwerk/fliegdoc) - Documentation generator for Typescript-based libraries with good support for monorepos.
 - [NaNofuzz](https://github.com/penrose/nanofuzz) - Fast and easy-to-use automatic test generator for Typescript that runs inside VS Code.
+- [Wombat Dressing Room](https://github.com/GoogleCloudPlatform/wombat-dressing-room) - Google's npm registry proxy. Designed to reduce the attack surface of npm packages.

@@ -552,3 +552,4 @@ all: unset
 - [Modern alternatives to BEM (2022)](https://daverupert.com/2022/08/modern-alternatives-to-bem/) ([Tweet](https://twitter.com/slightlylate/status/1566860991891025920))
 - [Lightning CSS](https://lightningcss.dev/) - Extremely fast CSS parser, transformer, bundler, and minifier written in Rust. ([Tweet](https://twitter.com/devongovett/status/1567898042787049473)) ([Twitter](https://twitter.com/lightningcss))
 - [The Power of CSS Blend Modes (2022)](https://cloudfour.com/thinks/the-power-of-css-blend-modes/)
+- [Subtle, yet Beautiful Scroll Animations (2022)](https://www.youtube.com/watch?v=T33NN_pPeNI)

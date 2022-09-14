@@ -157,3 +157,4 @@ Learning to build [startups](startups/startups.md).
 - [Lessons learned from selling a startup](https://twitter.com/ankurnagpal/status/1542547761094090752)
 - [Ask HN: Examples of large acquisitions that did not ruin the acquired company? (2022)](https://news.ycombinator.com/item?id=32070747)
 - [How to drive away your best engineers (2021)](https://blog.hulacorn.com/2021/09/08/how-to-drive-away-your-best-engineers/) ([HN](https://news.ycombinator.com/item?id=32211576)) ([HN](https://news.ycombinator.com/item?id=32211576))
+- [Ask HN: What are examples of companies dying due to many people quitting? (2022)](https://news.ycombinator.com/item?id=32831701)

@@ -369,6 +369,7 @@
 - [Sp.Eff](https://github.com/re-xyr/speff) - Fast scoped effects with evidence passing.
 - [odd-jobs](https://github.com/saurabhnanda/odd-jobs) - Haskell job queue with admin UI and loads of other features.
 - [contiguous](https://github.com/andrewthad/contiguous) - Typeclass for array types.
+- [Apple Array System](https://github.com/vmchale/apple)
 
 ## Notes
 

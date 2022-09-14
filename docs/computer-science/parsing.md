@@ -120,3 +120,4 @@
 - [Rust Sitter](https://github.com/hydro-project/rust-sitter) - Use Tree Sitter to parse your own languages in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/wmp5m6/rust_sitter_write_fast_tree_sitter_parsers/))
 - [Parser Combinators and Interpreting a PL (2022)](https://alt-romes.github.io/archive/2022-06-03-koblenz-ext.html)
 - [LALRPOP](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust.
+- [Yap](https://github.com/jsdw/yap) - Parser library for Rust.

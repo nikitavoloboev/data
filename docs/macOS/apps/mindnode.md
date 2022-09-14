@@ -27,3 +27,4 @@ More recently I am using [Excalidraw & Obsidian](https://www.zsolt.blog/2021/09/
 - [JS Mind map](https://github.com/madhank93/js-mindmap)
 - [The Mind Map Book](https://www.2uo.de/Books/the-mind-map-book/) ([HN](https://news.ycombinator.com/item?id=30551922))
 - [Learn about Concept Maps](https://cmap.ihmc.us/docs/learn.php) ([HN](https://news.ycombinator.com/item?id=30903140))
+- [Hackers Mind Map](https://github.com/nadrad/h-m-m) ([HN](https://news.ycombinator.com/item?id=32838475))

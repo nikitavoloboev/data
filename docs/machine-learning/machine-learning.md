@@ -927,3 +927,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Collection of papers on divergence and quality diversity](https://github.com/DanieleGravina/divergence-and-quality-diversity)
 - [TACTiS: Transformer-Attentional Copulas for Time Series (2022)](https://proceedings.mlr.press/v162/drouin22a.html) ([Code](https://github.com/ServiceNow/tactis))
 - [Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)
+- [Git Re-Basin: Merging Models modulo Permutation Symmetries (2022)](https://arxiv.org/abs/2209.04836) ([Code](https://github.com/samuela/git-re-basin))
+- [Awesome-Machine-Unlearning](https://github.com/tamlhp/awesome-machine-unlearning)

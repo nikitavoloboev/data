@@ -141,3 +141,4 @@ title: Zig
 - [A Practical Guide to Compile Time Evaluation - Alex Naskos (2022)](https://www.youtube.com/watch?v=iFBAUoQUJ2E)
 - [Revisiting the design approach to Zig (2022)](https://about.sourcegraph.com/blog/zig-programming-language-revisiting-design-approach) ([HN](https://news.ycombinator.com/item?id=32734587))
 - [Zig, the Small Language (2022)](https://zserge.com/posts/zig-the-small-language/) ([HN](https://news.ycombinator.com/item?id=32752383))
+- [Tree Sitter For Zig](https://github.com/maxxnino/tree-sitter-zig) - Zig's Tree Sitter based on Zig Spec Official.

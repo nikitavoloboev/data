@@ -726,6 +726,8 @@
 - [WhereTraits](https://github.com/jolin-io/WhereTraits.jl) - Dispatch on whatever you want using where syntax.
 - [Wavelets](https://github.com/JuliaDSP/Wavelets.jl) - Julia package for fast discrete wavelet transforms and utilities.
 - [ColorTypes](https://github.com/JuliaGraphics/ColorTypes.jl) - Basic color definitions and traits.
+- [Overseer](https://github.com/louisponet/Overseer.jl) - Entity Component System with Julia.
+- [Glimpse](https://github.com/louisponet/Glimpse.jl) - Attempt at creating a midlevel rendering library using the refactored GLAbstraction.
 
 ## Links
 

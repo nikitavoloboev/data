@@ -61,6 +61,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Remix + WASM](https://github.com/jacob-ebey/remix-wasm-example)
 - [RemixBlocks](https://github.com/AlexandroMtzG/remix-blocks) - Ready-to-use Remix + Tailwind CSS routes and components.
 - [Remix Deno JIT](https://github.com/jacob-ebey/remix-deno-jit)
+- [Remix infinite scroll example](https://github.com/jacob-ebey/remix-deferred-infinite-scroll)
 
 ## Plugins
 

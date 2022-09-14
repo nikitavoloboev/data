@@ -185,3 +185,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Google Form to Discord](https://github.com/Iku/Google-Forms-to-Discord) - Quick way to automatically send Google Form responses to a Discord channel.
 - [Lanyard](https://github.com/Phineas/lanyard) - Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds.
 - [WebCord](https://github.com/SpacingBat3/WebCord) - Discord and Fosscord -based client implemented without Discord API.
+- [Discord adds new “Forum” channels (2022)](https://discord.com/blog/forum-channels-space-for-organized-conversation) ([HN](https://news.ycombinator.com/item?id=32839626))

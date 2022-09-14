@@ -31,3 +31,4 @@ title: Cosmos
 - [graz](https://github.com/strangelove-ventures/graz) - React hooks for Cosmos.
 - [Starport Network](https://github.com/tendermint/spn) - Blockchain to launch blockchains.
 - [Create Cosmos App](https://github.com/cosmology-tech/create-cosmos-app) - Set up a modern Cosmos app by running one command.
+- [CosmWasm IBC Queries](https://github.com/JakeHartnell/cw-ibc-queries) - Implements generic IBC queries in CosmWasm.

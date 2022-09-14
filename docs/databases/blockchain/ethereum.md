@@ -677,3 +677,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Muffin](https://github.com/muffinfi/muffin) - Concentrated liquidity AMM protocol that supports multiple fee tiers per pool, and limit range orders.
 - [ZK SBT](https://github.com/enricobottazzi/ZK-SBT) - Library to issue zero knowledge soul bound tokens.
 - [SilkRPC Daemon](https://github.com/torquem-ch/silkrpc) - C++ implementation of Ethereum JSON RPC daemon within Thorax architecture.
+- [zkSync Checkout](https://github.com/matter-labs/zksync-dapp-checkout) - Trustable permissionless DeFi payment gateway.

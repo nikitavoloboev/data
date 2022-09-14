@@ -52,3 +52,4 @@
 - [Inpainting with Stable Diffusion & Replicate](https://inpainter.vercel.app/)
 - [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)
 - [stability-clients](https://github.com/Stability-AI/stability-sdk) - Client implementations that interact with the Stability Generator API.
+- [Storyweaving with AI](https://webaverse.ghost.io/storyweaving-with-ai/) ([Code](https://github.com/webaverse/lore-engine))

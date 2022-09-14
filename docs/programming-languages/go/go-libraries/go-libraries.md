@@ -356,6 +356,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [KaGo](https://github.com/kamalshkeir/kago) - High-level web framework, that encourages rapid development and clean, pragmatic design.
 - [Medium](https://github.com/BlakeWilliams/medium) - Experimental Go code for writing web apps.
 - [httpsnoop](https://github.com/felixge/httpsnoop) - Provides an easy way to capture http related metrics (i.e. response time, bytes written, and http status code) from your application's http.Handlers.
+- [Statigz](https://github.com/vearutop/statigz) - Serves pre-compressed embedded files with http in Go.
 
 ## GraphQL
 
@@ -1949,3 +1950,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Adding a Bubbletea CLI Interface (2022)](https://blog.customct.com/adding-a-bubbletea-cli-interface)
 - [Which ORM framework are you using with Go, and why? (2022)](https://www.reddit.com/r/golang/comments/xaui7k/which_orm_framework_are_you_using_with_golang_and/)
 - [Planning Go 1.20 cryptography work (2022)](https://words.filippo.io/dispatches/go1-20/) ([HN](https://news.ycombinator.com/item?id=32819096))
+- [gta](https://github.com/digitalocean/gta) - Do transitive analysis to find packages whose dependencies have changed.

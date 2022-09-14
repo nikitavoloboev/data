@@ -89,3 +89,4 @@
 - [DDSP-based Singing Vocoders: A New Subtractive-based Synthesizer and A Comprehensive Evaluation (2022)](https://ddspvocoder.github.io/ismir-demo/) ([Code](https://github.com/YatingMusic/ddsp-singing-vocoders))
 - [ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech](https://github.com/Rongjiehuang/ProDiff)
 - [AudioLM: Language Modeling Approach to Audio Generation](https://google-research.github.io/seanet/audiolm/examples/) ([Code](https://github.com/lucidrains/audiolm-pytorch))
+- [Awesome Singing Voice Synthesis and Singing Voice Conversion](https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion)

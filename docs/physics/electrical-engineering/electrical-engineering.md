@@ -125,3 +125,4 @@ title: Electrical engineering
 - [How Transistors Work (2022)](https://www.youtube.com/watch?v=CQtSS6g00h0) ([HN](https://news.ycombinator.com/item?id=32781948))
 - [gdsfactory](https://github.com/gdsfactory/gdsfactory) - EDA (electronics design automation) tool for Integrated Circuits.
 - [Most common components in electronics](https://github.com/joaocarvalhoopen/Most_common_components_in_electronics)
+- [Which logic gates can build other logic gates?](https://www.quora.com/Which-logic-gates-can-build-other-logic-gates)

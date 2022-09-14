@@ -250,3 +250,5 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [Protobuf Extension for SQLite](https://github.com/rgov/sqlite_protobuf) - SQLite extension for extracting values from serialized Protobuf messages.
 - [s3sqlite](https://github.com/litements/s3sqlite) - Query SQLite databases in S3 using s3fs. ([HN](https://news.ycombinator.com/item?id=32828799))
 - [Litements](https://litements.exampl.io/) - Data structures implemented on top of SQLite. ([GitHub](https://github.com/litements/))
+- [SQLite Weekly](https://github.com/nalgeon/sqlite-weekly) - Weekly SQLite news, articles and extensions.
+- [Deno SQLite Shell](https://github.com/tarruda/deno_sqlite_shell)

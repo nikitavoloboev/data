@@ -923,3 +923,4 @@
 - [Awesome Vision-and-Language Pre-Training](https://github.com/zhjohnchan/awesome-vision-and-language-pretraining)
 - [Deep Vision and Graphics course](https://github.com/yandexdataschool/deep_vision_and_graphics)
 - [OpenMixup](https://github.com/Westlake-AI/openmixup) - CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark.
+- [MMEditing](https://github.com/open-mmlab/mmediting) - Low-level vision toolbox based on PyTorch, supporting super-resolution, inpainting, matting, video interpolation, etc.
