@@ -243,3 +243,4 @@ title: Clojure
 - [Core Async Essentials (2020)](https://avichalp.me/posts/2020-06-30-core-async-essentials/)
 - [Analyzing Every Clojure Project on GitHub](https://blog.phronemophobic.com/dewey-analysis.html)
 - [Fix your Clojure code: Clojure comes with design patterns (2022)](https://blog.janetacarr.com/software-design-patterns-in-clojure/)
+- [Binaural beats using scittle](https://benjamin-asdf.github.io/faster-than-light-memes/binaural-beats-using-scittle.html)

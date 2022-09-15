@@ -31,3 +31,4 @@ Some articles I read and liked that don't fit under any other topic inside this 
 - [Timeless articles posted on Hacker News, written 1321 to 2021](https://hn.lindylearn.io/) ([HN](https://news.ycombinator.com/item?id=29605429))
 - [The 2021 Stratechery Year in Review](https://stratechery.com/2021/the-2021-stratechery-year-in-review/)
 - [Your blog post greatest hits (2022)](https://twitter.com/zachleat/status/1524763302546620417)
+- [What's your favorite essay/blog post of all time? (2022)](https://twitter.com/packyM/status/1570113307452792837)

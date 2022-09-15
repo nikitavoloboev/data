@@ -233,6 +233,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Ask HN: Which programming games helped you become a better programmer? (2022)](https://news.ycombinator.com/item?id=31631831)
 - [Great video games made by Russians (2022)](https://www.reddit.com/r/AskARussian/comments/w1pjfa/any_goodgreat_video_games_made_by_russians_youd/)
 - [Favorite RTS title of all time, and why? (2022)](https://www.reddit.com/r/RealTimeStrategy/comments/wm22fq/favorite_title_of_all_time_and_why/)
+- [(2) What game receive a lot of hate but you absolutely love (2022)](https://www.reddit.com/r/gaming/comments/xeqval/what_game_receive_a_lot_of_hate_but_you/)
 
 ## Links
 
@@ -350,3 +351,4 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Python Plays Grand Theft Auto 5](https://github.com/Sentdex/pygta5)
 - [What Game Made You Wish You Were In It, In Real Life While Playing It?](https://www.reddit.com/r/PS4/comments/x5m0kn/what_game_made_you_wish_you_were_in_it_in_real/)
 - [Gamercade](https://gamercade.io/) - WASM powered, multiplayer-first, Fantasy Console. ([Code](https://github.com/gamercade-io/gamercade_console))
+- [‘Pong’ on a rock wall with Augmented Climbing](https://twitter.com/Rainmaker1973/status/1570057282049777665)

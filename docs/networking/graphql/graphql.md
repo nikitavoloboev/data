@@ -355,3 +355,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [Flatbread](https://github.com/FlatbreadLabs/flatbread) - Consume relational, flat-file data using GraphQL in any static framework.
 - [graphql-edge](https://github.com/ysugimoto/graphql-edge) - Execute GraphQL on the edge.
 - [graphql-js-tree](https://github.com/graphql-editor/graphql-js-tree) - Simpler structure for GraphQL AST.
+- [WunderBase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma. ([Article](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma))

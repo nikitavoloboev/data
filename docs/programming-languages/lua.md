@@ -140,3 +140,4 @@ title: Lua
 - [Baton](https://github.com/tesselode/baton) - Input library for LÖVE that bridges the gap between keyboard and joystick controls.
 - [promise-async](https://github.com/kevinhwang91/promise-async) - Promise & Async in Lua.
 - [Go Lua Compiler and VM](https://github.com/ofunc/lua)
+- [Lua 5.3 in Rust](https://github.com/mlua-rs/rustmoon)

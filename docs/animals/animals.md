@@ -143,3 +143,4 @@ I love all animals. And I am sad that some people decide to eat them and not [le
 - [Terra Mater - YouTube](https://www.youtube.com/c/TerraMaterOfficial)
 - [Inside the brains of aging dogs (2022)](https://knowablemagazine.org/article/health-disease/2022/inside-brains-aging-dogs)
 - [Pet Nutritionist Ranks Dog Foods | Tier List](https://www.youtube.com/watch?v=Ekx6WGBFVak&t=3s)
+- [Cats Stealing Food in Still Life Paintings](https://twitter.com/CatsOfYore/status/1570001635887153154?s=20&t=5GZY2W11AKM7evM8TUw69A)

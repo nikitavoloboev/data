@@ -308,3 +308,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Socket.IO server for Deno](https://github.com/socketio/socket.io-deno)
 - [TextMate](https://github.com/dcdunkan/deno_textmate) - Library that helps tokenize text using TextMate grammars.
 - [DenoRuntime Lambda Layer](https://github.com/beginner-corp/begin-deno-runtime)
+- [deno2nix](https://github.com/SnO2WMaN/deno2nix) - Build Nix packages for Deno.

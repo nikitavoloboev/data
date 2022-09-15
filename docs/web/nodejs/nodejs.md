@@ -420,3 +420,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [Floco](https://github.com/aameen-tulip/at-node-nix) - Node.js Nix expressions.
 - [node-jose](https://github.com/cisco/node-jose) - JavaScript implementation of the JSON Object Signing and Encryption (JOSE).
 - [skott](https://github.com/antoine-coulon/skott) - Automatically construct, traverse and visualize graphs generated from your Node.js project.
+- [node-jq](https://github.com/sanack/node-jq) - Node.js wrapper for jq.

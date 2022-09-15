@@ -929,3 +929,9 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)
 - [Git Re-Basin: Merging Models modulo Permutation Symmetries (2022)](https://arxiv.org/abs/2209.04836) ([Code](https://github.com/samuela/git-re-basin))
 - [Awesome-Machine-Unlearning](https://github.com/tamlhp/awesome-machine-unlearning)
+- [sample-generator](https://github.com/Harmonai-org/sample-generator) - Tools to train a generative model on arbitrary audio samples.
+- [Neural Set Function Extensions: Learning with Discrete Functions in High Dimensions (2022)](https://arxiv.org/abs/2208.04055)
+- [Start Here with Machine Learning](https://machinelearningmastery.com/start-here/)
+- [ZeroC: A Neuro-Symbolic Model for Zero-shot Concept Recognition and Acquisition at Inference Time (2022)](https://arxiv.org/abs/2206.15049)
+- [Learning to Accelerate Partial Differential Equations via Latent Global Evolution (2022)](https://arxiv.org/abs/2206.07681)
+- [Intro to Transformers (2022)](https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/edit#slide=id.g31364026ad_3_2) ([Tweet](https://twitter.com/giffmana/status/1570152923233144832))

@@ -58,3 +58,4 @@
 - [slipshow](https://github.com/panglesd/slipshow) - Engine for displaying slips, the next-gen version of slides.
 - [Mockoops](https://mockoops.mohitya.dev/) - Create beautiful video mockups from templates withing seconds. ([Code](https://github.com/Just-Moh-it/Mockoops))
 - [DeckUI](https://github.com/joshdholtz/DeckUI) - Swift DSL for writing slide decks in Xcode.
+- [Reveal.js + Svelte + Vite](https://github.com/rajasegar/svelte-slides)

@@ -469,3 +469,5 @@ if (
 - [Proposal for resizable array buffers](https://github.com/tc39/proposal-resizablearraybuffer)
 - [YouTube-dl has a JavaScript interpreter written in 870 lines of Python](https://github.com/ytdl-org/youtube-dl/blob/master/youtube_dl/jsinterp.py) ([HN](https://news.ycombinator.com/item?id=32793061))
 - [memlab](https://github.com/facebookincubator/memlab) - Testing framework for finding JavaScript memory leaks and analyzing heap snapshots. ([Article](https://engineering.fb.com/2022/09/12/open-source/memlab/))
+- [Sandworm](https://github.com/sandworm-hq/sandworm-js) - Easy sandboxing for your JavaScript dependencies. ([Docs](https://docs.sandworm.dev/))
+- [Extractors for ECMAScript](https://github.com/tc39/proposal-extractors)

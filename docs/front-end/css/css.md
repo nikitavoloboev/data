@@ -553,3 +553,4 @@ all: unset
 - [Lightning CSS](https://lightningcss.dev/) - Extremely fast CSS parser, transformer, bundler, and minifier written in Rust. ([Tweet](https://twitter.com/devongovett/status/1567898042787049473)) ([Twitter](https://twitter.com/lightningcss))
 - [The Power of CSS Blend Modes (2022)](https://cloudfour.com/thinks/the-power-of-css-blend-modes/)
 - [Subtle, yet Beautiful Scroll Animations (2022)](https://www.youtube.com/watch?v=T33NN_pPeNI)
+- [PostCSS LightningCSS](https://github.com/onigoetz/postcss-lightningcss) - PostCSS plugin uses Lightning CSS to compile and minify your CSS.

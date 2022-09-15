@@ -234,3 +234,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Photofield](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer.
 - [PiGallery2](https://github.com/bpatrik/pigallery2) - Fast directory-first photo gallery website, with rich UI, optimized for running on low resource servers.
 - [Rendering Natural Camera Bokeh Effect with Deep Learning](https://github.com/aiff22/PyNET-Bokeh)
+- [iPhone 14 Pro Camera Review: Scotland (2022)](https://www.austinmann.com/trek/iphone-14-pro-camera-review-scotland) ([HN](https://news.ycombinator.com/item?id=32843892))

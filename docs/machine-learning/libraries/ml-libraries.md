@@ -393,3 +393,4 @@ title: ML Libraries
 - [Dragonfly](https://github.com/dragonfly/dragonfly) - Open source python library for scalable Bayesian optimization.
 - [fastMONAI](https://github.com/MMIV-ML/fastMONAI) - Simplifying deep learning for medical imaging.
 - [Contextual Bandits](https://github.com/david-cortes/contextualbandits) - Python implementations of contextual bandits algorithms.
+- [Open3D-ML](https://github.com/isl-org/Open3D-ML) - Extension of Open3D to address 3D Machine Learning tasks.

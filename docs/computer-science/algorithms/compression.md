@@ -144,3 +144,4 @@
 - [ZSTD seekable compression format implementation in Go](https://github.com/SaveTheRbtz/zstd-seekable-format-go)
 - [zstd compressed debug sections (2022)](https://maskray.me/blog/2022-09-09-zstd-compressed-debug-sections)
 - [Vaar](https://github.com/moycat/vaar) - Tar archive tool & library optimized for lots of small files.
+- [Binary Refinery](https://github.com/binref/refinery) - High Octane Triage Analysis.

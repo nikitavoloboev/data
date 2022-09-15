@@ -208,3 +208,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Coder](https://coder.com/) - Remote development on your infrastructure. ([Awesome](https://github.com/coder/awesome-coder))
 - [DevOps RoadMap](https://twitter.com/javinpaul/status/1567018709507796993)
 - [Gru](https://github.com/dnaeon/gru) - Fast and concurrent orchestration framework powered by Go and Lua, which allows you to manage your UNIX/Linux systems with ease.
+- [Cello](https://github.com/cello-proj/cello) - Service for running infrastructure as code software tools including CDK, Terraform and CloudFormation via GitOps.

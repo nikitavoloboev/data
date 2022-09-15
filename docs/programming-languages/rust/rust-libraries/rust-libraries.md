@@ -231,7 +231,7 @@
 - [gpucanvas](https://github.com/cytecbg/gpucanvas) - Antialiased 2D vector drawing library written in rust.
 - [fltk-rs](https://github.com/MoAlyousef/fltk-rs) - Rust bindings for the FLTK GUI library.
 - [Thyme](https://github.com/Grokmoo/thyme) - Themable Immediate Mode User Interface Toolkit in Rust.
-- [Slint](https://github.com/slint-ui/slint) - Toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. ([Web](https://slint-ui.com/)) ([HN](https://news.ycombinator.com/item?id=24919571)) ([Reddit](https://www.reddit.com/r/rust/comments/sp3wix/blog_sixtyfps_becomes_slint/)) ([HN](https://news.ycombinator.com/item?id=30298534))
+- [Slint](https://github.com/slint-ui/slint) - Toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. ([Web](https://slint-ui.com/)) ([HN](https://news.ycombinator.com/item?id=24919571)) ([Reddit](https://www.reddit.com/r/rust/comments/sp3wix/blog_sixtyfps_becomes_slint/)) ([HN](https://news.ycombinator.com/item?id=30298534)) ([0.3](https://slint-ui.com/blog/slint-0.3-released-with-platform-api-for-mcu.html))
 - [Crochet](https://github.com/raphlinus/crochet) - Explorations in reactive UI patterns.
 - [KAS GUI](https://github.com/kas-gui/kas) - ToolKit Abstraction System. General-purpose GUI toolkit in Rust.
 - [tiny-skia](https://github.com/RazrFalcon/tiny-skia) - Tiny Skia subset ported to Rust.
@@ -2156,6 +2156,7 @@
 - [Size Of](https://github.com/Kixiron/size-of) - Crate for measuring the total memory usage of an object at runtime.
 - [Yarte](https://github.com/botika/yarte) - Yet Another Rusty Template Engine.
 - [v_escape](https://github.com/botika/v_escape) - SIMD optimized escape code.
+- [plmap](https://github.com/andrewchambers/plmap-rust) - Parallel pipelined map over iterators.
 
 ## Cargo Plugins
 

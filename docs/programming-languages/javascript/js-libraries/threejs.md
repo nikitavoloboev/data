@@ -68,7 +68,7 @@ title: Three.js
 - [threepp](https://github.com/markaren/threepp) - C++17 port of three.js.
 - [Sketchbook](https://github.com/swift502/Sketchbook) - 3D playground built on three.js and cannon.js.
 - [Magical Marbles in Three.js](https://github.com/mattrossman/magic-marble-tutorial) - Adding volumetric effects to a built-in Three.js shader.
-- [Theatre.js](https://www.theatrejs.com/) - JavaScript Motion Design Library. ([Code](https://github.com/AriaMinaei/theatre))
+- [Theatre.js](https://www.theatrejs.com/) - JavaScript Motion Design Library. ([Code](https://github.com/AriaMinaei/theatre)) ([Tweet](https://twitter.com/AndrewPrifer/status/1570071903469031425))
 - [Three.js - Template - Complex](https://github.com/brunosimon/threejs-template-complex)
 - [Three.js Modern App](https://github.com/marcofugaro/threejs-modern-app) - Boilerplate and utils for a full screen Three.js app.
 - [A technical breakdown of react-three-fiber (2021)](https://codyb.co/articles/a-technical-breakdown-of-react-three-fiber) ([Tweet](https://twitter.com/0xca0a/status/1451599485977731078))

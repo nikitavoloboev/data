@@ -53,3 +53,6 @@
 - [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)
 - [stability-clients](https://github.com/Stability-AI/stability-sdk) - Client implementations that interact with the Stability Generator API.
 - [Storyweaving with AI](https://webaverse.ghost.io/storyweaving-with-ai/) ([Code](https://github.com/webaverse/lore-engine))
+- [dreamlike.art](https://dreamlike.art/) - AI Art Generator.
+- [Stable Diffusion Photoshop Plugin](https://christiancantrell.com/#ai-ml)
+- [Outpainting with Stable Diffusion on an infinite canvas](https://github.com/lkwq007/stablediffusion-infinity)

@@ -68,3 +68,5 @@ title: ESLint
 - [Codely's ESLint](https://github.com/CodelyTV/eslint-config-codely)
 - [eslint-plugin-boundaries](https://github.com/javierbrea/eslint-plugin-boundaries) - Eslint plugin checking architecture boundaries between elements.
 - [eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise) - Enforce best practices for JavaScript promises.
+- [eslint-plugin-array-func](https://github.com/freaktechnik/eslint-plugin-array-func) - Rules for Array functions and methods.
+- [eslint-plugin-typescript-sort-keys](https://github.com/infctr/eslint-plugin-typescript-sort-keys) - Linter plugin to require sorting interface and string enum keys.

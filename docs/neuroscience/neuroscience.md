@@ -134,7 +134,8 @@ The way our brains take input from different senses (eyes, touch) and then decid
 - [Does one simple rule underlie learning in the brain? (2022)](https://actu.epfl.ch/news/does-one-simple-rule-underlie-learning-in-the-brai/) ([HN](https://news.ycombinator.com/item?id=31819980))
 - [NeuroKit2](https://github.com/neuropsychology/NeuroKit) - Python Toolbox for Neurophysiological Signal Processing.
 - [Ten Percent of the Brain Myth](https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth) ([HN](https://news.ycombinator.com/item?id=32072530))
-- [MNE-Python](https://github.com/mne-tools/mne-python) - Python package for exploring, visualizing, and analyzing human neurophysiological data such as MEG, EEG, sEEG, ECoG, and more.
+- [MNE-Python](https://github.com/mne-tools/mne-python) - Python package for exploring, visualizing, and analyzing human neurophysiological data such as MEG, EEG, sEEG, ECoG, and more. ([Web](https://mne.tools/stable/index.html))
+- [MNELAB](https://github.com/cbrnr/mnelab) - Graphical user interface (GUI) for MNE-Python, a Python package for EEG/MEG analysis.
 - [Intro to Neuroscience (2017)](https://www.youtube.com/watch?v=nlSL7Qg7-Po)
 - [Lena (2021)](https://qntm.org/mmacevedo)
 - [Neuroscience | eLife](https://elifesciences.org/subjects/neuroscience)

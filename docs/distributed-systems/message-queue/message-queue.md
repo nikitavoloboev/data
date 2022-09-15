@@ -44,3 +44,4 @@ title: Message queue
 - [LavinMQ](https://github.com/cloudamqp/lavinmq) - A message queue server that implements the AMQP protocol. Written in Crystal.
 - [Write Your Own Task Queue (2022)](https://danpalmer.me/2022-09-10-write-your-own-task-queue/)
 - [Pulsar](https://github.com/apache/pulsar) - Distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
+- [BullMQ with BullBoard](https://github.com/railwayapp-templates/fastify-bullmq) - Template repository to deploy a robust queueing system on Railway using BullMQ and Redis.

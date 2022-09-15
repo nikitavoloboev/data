@@ -94,3 +94,4 @@ title: Fuzzing
 - [Fuzzing rust-minidump for Embarrassment and Crashes - Part 2 (2022)](https://hacks.mozilla.org/2022/06/fuzzing-rust-minidump-for-embarrassment-and-crashes/) ([Lobsters](https://lobste.rs/s/jgsegj/fuzzing_rust_minidump_for_embarrassment))
 - [Fuzz Map](https://www.fuzzmap.io/) - GUI fuzzer, interactive demo. ([HN](https://news.ycombinator.com/item?id=32578311))
 - [Frameshifter](https://github.com/bahruzjabiyev/frameshifter) - Grammar-based HTTP/2 fuzzer with mutation ability.
+- [czz](https://github.com/langston-barrett/czz) - Whole-program, scriptable, multi-language, coverage-guided fuzzer.

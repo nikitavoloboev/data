@@ -109,3 +109,4 @@ Match all that don't have notes or twitter in input
 - [PRegEx](https://github.com/manoss96/pregex) - Programmable Regular Expressions.
 - [Rex](https://github.com/areknawo/Rex) - JS Library for writing complex RegExps with help of auto completion.
 - [regexp-tree](https://github.com/DmitrySoshnikov/regexp-tree) - Regular expressions processor in JavaScript.
+- [On the Intersection of Context-Free and Regular Languages (2022)](https://arxiv.org/abs/2209.06809)

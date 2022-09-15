@@ -125,3 +125,4 @@ Might give it a go sometime.
 - [Emacs DWIM shell-command (2022)](https://xenodium.com/emacs-dwim-shell-command/)
 - [An accentuated Emacs experiment (à la macOS) (2022)](https://xenodium.com/an-accentuated-emacs-experiment/)
 - [Emacs and Eev, Or: How to Automate Almost Everything](http://angg.twu.net/eev-article.html) ([HN](https://news.ycombinator.com/item?id=32419404))
+- [Emacs overlay for Nixpkgs](https://github.com/nix-community/emacs-overlay)

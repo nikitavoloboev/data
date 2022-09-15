@@ -147,3 +147,4 @@ title: OCaml
 - [What the interns have wrought, 2022 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2022/) ([HN](https://news.ycombinator.com/item?id=32749219))
 - [OCaml By Example](https://o1-labs.github.io/ocamlbyexample/) ([Code](https://github.com/o1-labs/ocamlbyexample))
 - [Flambda backend project for OCaml](https://github.com/ocaml-flambda/flambda-backend)
+- [VSCode devcontainers for OCaml](https://github.com/avsm/ocaml-devcontainers)

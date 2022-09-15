@@ -44,6 +44,7 @@
 - [HieDb](https://github.com/wz1000/HieDb) - Generates a references DB from .hie files.
 - [PostgreSQL Binary](https://github.com/nikita-volkov/postgresql-binary) - Encoders and decoders for the PostgreSQL's binary format.
 - [Rel8](https://github.com/circuithub/rel8) - Haskell library for interacting with PostgreSQL databases.
+- [hedis](https://github.com/informatikr/hedis) - Redis client library for Haskell.
 
 ## Test
 
@@ -370,6 +371,7 @@
 - [odd-jobs](https://github.com/saurabhnanda/odd-jobs) - Haskell job queue with admin UI and loads of other features.
 - [contiguous](https://github.com/andrewthad/contiguous) - Typeclass for array types.
 - [Apple Array System](https://github.com/vmchale/apple)
+- [Klister](https://github.com/gelisam/klister) - Partial implementation of a macro expander in which macros can get stuck.
 
 ## Notes
 

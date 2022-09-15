@@ -86,3 +86,4 @@
 - [Ask HN: First-time dad-to-be. What do you wish you'd known back then? (2022)](https://news.ycombinator.com/item?id=31976803)
 - [Ask HN: How to deal with children's online habits? (2022)](https://news.ycombinator.com/item?id=32124809)
 - [Ask HN: What was life like before and after a baby (2022)](https://news.ycombinator.com/item?id=32602181)
+- [Paul Graham's parenting advice](<https://twitter.com/search?q=(taught%20OR%20told)%20(from%3Apaulg)%20yo&src=typed_query&f=live>)

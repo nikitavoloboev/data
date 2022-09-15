@@ -317,3 +317,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Go Incognito: A Guide to Security, Privacy, & Anonymity](https://github.com/techlore/go-incognito)
 - [W3C Data Integrity Specification](https://w3c.github.io/vc-data-integrity/) ([Code](https://github.com/w3c/vc-data-integrity))
 - [envy](https://github.com/shoenig/envy) - Manage environment variables with your OS keychain.
+- [A taxonomy of hosting options, for personal data security (2022)](https://thomask.sdf.org/blog/2022/09/15/a-taxonomy-of-hosting-options.html)

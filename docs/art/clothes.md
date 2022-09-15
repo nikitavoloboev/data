@@ -74,3 +74,4 @@ Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/
 - [Mack Weldon](https://mackweldon.com/) - Daily Wear System.
 - [Wool&Prince Europe](https://eu.woolandprince.com/)
 - [Michele Carragher Embroidery](https://www.michelecarragherembroidery.com/)
+- [NAE Vegan Shoes](https://www.nae-vegan.com/en/)

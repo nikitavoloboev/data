@@ -37,3 +37,5 @@ title: ClickHouse
 - [Jaeger ClickHouse](https://github.com/jaegertracing/jaeger-clickhouse) - Jaeger gRPC storage plugin implementation for storing traces in ClickHouse.
 - [ClickHouse Playground](https://fiddle.clickhouse.com/) ([Code](https://github.com/lodthe/clickhouse-playground))
 - [ClickHouse Rust Client](https://github.com/datafuse-extras/clickhouse_driver) - Asynchronous pure rust tokio-based Clickhouse client library.
+- [ClickHouse Node.JS client](https://github.com/ClickHouse/clickhouse-js)
+- [ClickHouse TS client](https://github.com/proximahq/clickhouse)

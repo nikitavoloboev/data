@@ -49,6 +49,7 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Once you have more than one crisis in your brain it is very very hard to focus on much of anything.](https://twitter.com/chriswilcox47/status/1496918870572945408)
 - [Managing personal motivation is the absolute hardest skill to acquire and maintain. I only know of two things that help: 1: Just start on ANYTHING every day related to your goal, and 2: Surround yourself with people doing things way cooler than yourself. Competition is good.](https://twitter.com/slimsag/status/1524418178587054080)
 - [Urge to over-complicate a simple task by turning it into an ambitious project, until you get so overwhelmed/intimidated by the massive (uneccessary) undertaking that you abandon ship and never return.](https://twitter.com/danidonovan/status/1553775564477157376)
+- [There’s this concept I like called the 85% rule. Apparently when athletes are told to run at 85% capacity, they run faster than if they're told to go 100%. It’s a bit counterintuitive, but relaxing and not being so serious can go a long way for productivity.](https://twitter.com/michelleqin_/status/1569861773305745410)
 
 ## Links
 
@@ -122,3 +123,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Against Discipline](https://irinadumitrescu.substack.com/p/against-discipline) ([HN](https://news.ycombinator.com/item?id=32340703))
 - [John Carmack on avoiding distractions](https://twitter.com/ID_AA_Carmack/status/1562104562219196416) ([HN](https://news.ycombinator.com/item?id=32583257))
 - [Controlling Your Dopamine For Motivation, Focus & Satisfaction | Huberman Lab (2021)](https://podcastnotes.org/huberman-lab/episode-39-controlling-your-dopamine-for-motivation-focus-satisfaction-huberman-lab/)
+- [Everyone doesn't work best at the same times](https://twitter.com/mar15sa/status/1570140430066675714)

@@ -813,3 +813,6 @@ title: Kubernetes
 - [Kusk Gateway](https://github.com/kubeshop/kusk-gateway) - Enables you to design and configure your APIs from single OpenAPI manifest.
 - [Kubefirst CLI](https://github.com/kubefirst/kubefirst) - GitOps Infrastructure & Application Delivery Platform.
 - [Kluctl](https://github.com/kluctl/kluctl) - Missing glue that puts together your (and any third-party) deployments into one large declarative Kubernetes deployment.
+- [Hera](https://github.com/argoproj-labs/hera-workflows) - Argo Workflows Python SDK.
+- [Constellation](https://github.com/edgelesssys/constellation) - Kubernetes engine that aims to provide the best possible data security.
+- [KubeProber](https://github.com/erda-project/kubeprober) - Large-scale Kubernetes cluster diagnostic tool.

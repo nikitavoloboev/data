@@ -229,7 +229,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [goim](https://github.com/Terry-Mao/goim) - Web server in Go.
 - [Limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go.
 - [dhcp](https://github.com/insomniacslk/dhcp) - DHCPv4 and DHCPv6 decoding/encoding library with client and server code, written in Go.
-- [go-zero](https://github.com/zeromicro/go-zero) - Web and rpc framework that with lots of engineering practices builtin. ([Docs](https://go-zero.dev/en/)) ([Examples](https://github.com/zeromicro/zero-examples)) ([Awesome](https://github.com/zeromicro/awesome-zero))
+- [go-zero](https://github.com/zeromicro/go-zero) - Web and rpc framework that with lots of engineering practices builtin. ([Docs](https://go-zero.dev/en/)) ([Examples](https://github.com/zeromicro/zero-examples)) ([Awesome](https://github.com/zeromicro/awesome-zero)) ([Go-Zero-Lookup](https://github.com/Mikaelemmmm/go-zero-looklook))
 - [libchan](https://github.com/docker/libchan) - Like Go channels over the network.
 - [Uhaha](https://github.com/tidwall/uhaha) - High Availabilty Framework for Happy Data.
 - [httpcache](https://github.com/gregjones/httpcache) - Transport for http.Client that will cache responses according to the HTTP RFC.
@@ -1804,6 +1804,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-set](https://github.com/micnncim/go-set) - Go package for sets implemented with generics.
 - [go-events](https://github.com/kataras/go-events) - Simple EventEmmiter for Go. Inspired by NodeJS EventEmitter.
 - [metrics](https://github.com/VictoriaMetrics/metrics) - Lightweight package for exporting metrics in Prometheus format.
+- [GoFreeDB](https://github.com/FreeLeh/GoFreeDB) - Go library that provides common and simple database abstractions on top of Google Sheets.
+- [core](https://github.com/efficientgo/core) - Set of core packages every Go project needs. Minimal API, strictly versioned and with ~no dependencies.
 
 ## Links
 
@@ -1951,3 +1953,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Which ORM framework are you using with Go, and why? (2022)](https://www.reddit.com/r/golang/comments/xaui7k/which_orm_framework_are_you_using_with_golang_and/)
 - [Planning Go 1.20 cryptography work (2022)](https://words.filippo.io/dispatches/go1-20/) ([HN](https://news.ycombinator.com/item?id=32819096))
 - [gta](https://github.com/digitalocean/gta) - Do transitive analysis to find packages whose dependencies have changed.
+- [Ent vs Bun (2022)](https://www.reddit.com/r/golang/comments/xe2djp/ent_vs_bun/)

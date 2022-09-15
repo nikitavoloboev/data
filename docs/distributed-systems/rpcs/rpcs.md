@@ -61,3 +61,4 @@ title: Remote Procedure Calls
 - [webrpc](https://github.com/astronautlabs/webrpc) - Powerful way to do RPC on the web.
 - [fRPC](https://frpc.io/) - Proto3-compatible RPC Framework that's designed from the ground up to belightweight, extensible, and extremely performant. ([Code](https://github.com/loopholelabs/frpc-go))
 - [ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client and server helpers for a magical end to end typed experience.
+- [SPRC](https://github.com/sogou/srpc) - High performance, low latency, lightweight enterprise-level RPC system. Supports Baidu bRPC, Tencent tRPC, thrift protocols.

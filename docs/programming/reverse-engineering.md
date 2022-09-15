@@ -119,3 +119,4 @@
 - [OFRAK](https://github.com/redballoonsecurity/ofrak) - Unpack, modify, and repack binaries.
 - [Unstripping Stripped Binaries](https://lock.cmpxchg8b.com/symbols.html) ([Lobsters](https://lobste.rs/s/yvjgof/unstripping_stripped_binaries))
 - [Scraping data from an app: real world example (2022)](https://substack.thewebscraping.club/p/the-lab-1-scraping-data-from-an-app) ([HN](https://news.ycombinator.com/item?id=32717292))
+- [FISSURE](https://github.com/ainfosec/FISSURE) - Frequency Independent SDR-based Signal Understanding and Reverse Engineering.

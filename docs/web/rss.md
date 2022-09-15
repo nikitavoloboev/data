@@ -27,7 +27,7 @@ Use [Inoreader](https://www.inoreader.com/) for reading/managing my RSS feeds.
 - [Ask HN: Do you still use RSS? (2019)](https://news.ycombinator.com/item?id=21913598)
 - [2019 favorite RSS subscriptions](https://danromero.org/2019-favorite-rss-subscriptions.html)
 - [Ask HN: Is RSS dead? (2020)](https://news.ycombinator.com/item?id=22497184)
-- [DatoRSS](http://www.datorss.com/) - RSS Search Engine. ([Code](https://github.com/davidesantangelo/dato.rss)) ([HN](https://news.ycombinator.com/item?id=31782461))
+- [DatoRSS](http://www.datorss.com/) - RSS Search Engine. ([Code](https://github.com/dato-ai/dato.rss)) ([HN](https://news.ycombinator.com/item?id=31782461))
 - [Frontend RSS Feeds](https://github.com/impressivewebs/frontend-feeds) - Up to date list of RSS feeds for front-end developers.
 - [RSS feeds for your Github releases, tags and activity (2020)](https://www.ronaldsvilcins.com/2020/03/26/rss-feeds-for-your-github-releases-tags-and-activity/) ([HN](https://news.ycombinator.com/item?id=22691965))
 - [Feedgenerator](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.

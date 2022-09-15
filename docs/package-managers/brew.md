@@ -41,3 +41,4 @@ title: Brew
 - [Tap Release](https://github.com/toolmantim/tap-release) - Automatically update Homebrew taps when you publish new GitHub releases.
 - [brew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - Command line tool for upgrading every outdated app installed by Homebrew Cask.
 - [Coldbrew](https://coldbrew.doom.sh/) - Visual interface to quickly install your favorite macOS apps from Homebrew Cask.
+- [BrewMyMac](https://brewmymac.sh/) - Possibly the coolest way to install apps and customize your Mac. ([Code](https://github.com/ayltai/BrewMyMac))

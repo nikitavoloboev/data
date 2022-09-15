@@ -331,6 +331,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [CmdK](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component. ([Web](https://cmdk.paco.me/))
 - [graphviz-react](https://github.com/DomParfitt/graphviz-react) - React component for displaying Graphviz graphs.
 - [Bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting.
+- [React Just Parallax](https://github.com/michalzalobny/react-just-parallax) - React library for scroll and mousemove parallax effect. Open source, production-ready.
 
 ## Links
 

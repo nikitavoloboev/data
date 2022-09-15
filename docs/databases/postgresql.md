@@ -569,3 +569,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [TiDB for PostgreSQL](https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL) - PgSQL compatible on distributed database TiDB.
 - [pg_netstat](https://github.com/supabase/pg_netstat) - PostgreSQL extension to monitor database network traffic. ([HN](https://news.ycombinator.com/item?id=32823589))
 - [Supabase Examples](https://github.com/supabase/examples) - Supabase examples to help you get started.
+- [Hydra](https://github.com/HydrasCo/hydra) - Open source Snowflake alternative. 100% Postgres.

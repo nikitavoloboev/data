@@ -1250,6 +1250,7 @@
 - [BytePatternFinder](https://github.com/Sajjon/BytePattern) - Pattern matcher for bytes.
 - [AudioKitEX](https://github.com/AudioKit/AudioKitEX) - Extension to AudioKit contains all of the AudioKit features that rely on C/C++ DSP.
 - [Physical](https://github.com/hyperjeff/Physical) - Swift package for physical quantities.
+- [SwiftHooks](https://github.com/intuit/swift-hooks) - Little module for plugins, in Swift.
 
 ## Other (not lib)
 

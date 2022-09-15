@@ -649,3 +649,4 @@
 - [ekphrasis](https://github.com/cbaziotis/ekphrasis) - Text processing tool, geared towards text from social networks.
 - [ALToolbox](https://github.com/AIRI-Institute/al_toolbox) - Framework for practical active learning in NLP.
 - [Tools and scripts for experimenting with Transformers: Bert, T5](https://github.com/yurakuratov/t5-experiments)
+- [Action Transformer (ACT-1) model in action](https://twitter.com/AdeptAILabs/status/1570144499187453952)

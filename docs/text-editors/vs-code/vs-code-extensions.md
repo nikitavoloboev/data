@@ -563,3 +563,4 @@ Below is a list of extensions I use.
 - [vscode-test](https://github.com/microsoft/vscode-test) - Testing utility for VS Code extensions.
 - [VSCode WASI](https://github.com/microsoft/vscode-wasi) - WASI implementation that uses VS Code's extension host as the implementing API.
 - [Complete Guide to VS Code Extension Testing (2022)](https://www.stateful.com/blog/a-complete-guide-to-vs-code-extension-testing)
+- [Modal Keybindings in VS Code](https://github.com/haberdashPI/vscode-modal-keys) - Extension for defining modal keybindings in VSCode.

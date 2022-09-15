@@ -14,6 +14,8 @@ title: Xcode
 - [Wondering about an unfamiliar Xcode build setting? Try option+double clicking on it in the target editor for a descriptive tooltip.](https://twitter.com/aikoniv/status/795311416030806016)
 - [Don't install Xcode from app store if you need it to work.](https://twitter.com/krzyzanowskim/status/1470538530824859650)
 - [Build Timeline offers an entirely new way of visualizing the tasks of an Xcode build based on parallelization](https://twitter.com/BenchR/status/1534032896750542850)
+- [`defaults write http://com.apple.dt.Xcode ShowBuildOperationDuration YES` will show how long your build took in Xcode](https://twitter.com/starv/status/1516888401202466816).
+- [You can right click a test diamond in Xcode you choose to run a test repeatedly. Great for when you suspect you have a flaky test.](https://twitter.com/SteveBarnegren/status/1570022044347281408)
 
 ## Links
 
@@ -123,3 +125,4 @@ title: Xcode
 - [XcodeIssueReporting](https://github.com/baguio/XcodeIssueReporting) - Tool that makes easier reporting warnings and errors to Xcode.
 - [Xcode Cloud](https://developer.apple.com/xcode-cloud/) ([HN](https://news.ycombinator.com/item?id=32655347))
 - [XCSnippetsApp](https://github.com/MarcoEidinger/XCSnippetsApp) - macOS application to explore code snippets from the Swift and iOS community.
+- [What's New in Xcode 14 (2022)](https://www.youtube.com/watch?v=tYBZ8AVH0Q0)

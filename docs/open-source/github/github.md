@@ -459,3 +459,5 @@ Awesome List
 - [GitHub Ranking](https://github.com/EvanLi/Github-Ranking) - List of the most GitHub stars and forks repositories.
 - [giscus-component](https://github.com/giscus/giscus-component) - Component library for giscus, a comments system powered by GitHub Discussions.
 - [Magic GitHub API Proxy](https://github.com/google/magic-github-proxy) - Stateless GitHub API proxy that allows creation and use of access-limited GitHub API tokens.
+- [GitHub Copilot in the Terminal](https://github.com/maxwell-bland/copilot-in-the-terminal) ([HN](https://news.ycombinator.com/item?id=32846691))
+- [Linear issues to GitHub](https://github.com/terrastruct/byelinear)

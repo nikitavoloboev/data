@@ -18,3 +18,4 @@ title: Tailscale
 - [Tailscale extension for Docker Desktop launches at DockerCon (2022)](https://tailscale.com/blog/docker/)
 - [Putting Tailscale on the Steam Deck (2022)](https://tailscale.com/blog/steam-deck/) ([HN](https://news.ycombinator.com/item?id=32490736))
 - [Tailscale Security Policies](https://github.com/tailscale/policies)
+- [Trayscale](https://github.com/DeedleFake/trayscale) - Unofficial GUI wrapper around the Tailscale CLI client.

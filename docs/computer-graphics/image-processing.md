@@ -202,3 +202,4 @@
 - [Dreamy Blur (2022)](https://yuanchuan.dev/dreamy-blur) ([HN](https://news.ycombinator.com/item?id=32730865))
 - [ClipDrop - Image upscaler](https://clipdrop.co/image-upscaler) - Upscale, denoise and enhance your images in seconds.
 - [Baseten](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV) - Photo restoration with GFP-GAN.
+- [Edgar Image](https://github.com/edgar-systems/edgar-image) - Image transformer that runs in a docker image which you can host where you want and put behind Cloudflare to cache the response.

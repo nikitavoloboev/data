@@ -678,3 +678,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [ZK SBT](https://github.com/enricobottazzi/ZK-SBT) - Library to issue zero knowledge soul bound tokens.
 - [SilkRPC Daemon](https://github.com/torquem-ch/silkrpc) - C++ implementation of Ethereum JSON RPC daemon within Thorax architecture.
 - [zkSync Checkout](https://github.com/matter-labs/zksync-dapp-checkout) - Trustable permissionless DeFi payment gateway.
+- [hevm](https://github.com/ethereum/hevm) - Ethereum virtual machine (EVM) made specifically for symbolic execution, unit testing and debugging of smart contracts.
+- [ABIType](https://github.com/wagmi-dev/abitype) - Strict TypeScript types for Ethereum ABIs.
+- [discv5](https://github.com/sigp/discv5) - Rust implementation of the Discovery v5 peer discovery protocol.
+- [Ethereum PoS merge explained (2022)](https://twitter.com/stonecoldpat0/status/1570338207258009600)

@@ -195,3 +195,5 @@ title: Terraform
 - [IAM Policy Validator for Terraform](https://github.com/awslabs/terraform-iam-policy-validator)
 - [tfadd](https://github.com/magodo/tfadd) - Generate valid Terraform configuration from state.
 - [Terraform Best Practices for AWS users](https://github.com/ozbillwang/terraform-best-practices)
+- [LTF](https://github.com/raymondbutcher/ltf) - Minimal, transparent Terraform wrapper. It makes Terraform projects easier to work with.
+- [Terraform Docs GCP Samples](https://github.com/terraform-google-modules/terraform-docs-samples)
