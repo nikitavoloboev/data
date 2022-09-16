@@ -8,6 +8,8 @@ The fact that most/all blockchains have public ledger where each transaction is 
 
 I am curious what society where everyone agreed to use only anonymous currencies can look like. Probably chaos as then there will be no incentives (especially forceable like we have now with the government) to actually contribute to something good to society for some definition of 'good'. Roads, health care, free access to food seem essential in any society. The most beautiful thing about a coin like Monero in my opinion is that it lets you safely escape and transact openly with anyone in the world even if government can try to stop you.
 
+[TradeOgre](https://tradeogre.com/markets) is [great](https://www.reddit.com/r/Monero/comments/xeppo0/purchasing_monero_with_other_crypto/) for purchasing Monero.
+
 ## Notes
 
 - [Can buy Monero on Kraken/KuCoin/TradeOgre and transfer it out (to Exodus/Cake wallet).](https://www.reddit.com/r/CryptoCurrency/comments/qrwwpw/what_cryptocurrencies_have_you_personally_found/)

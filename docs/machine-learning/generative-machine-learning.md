@@ -56,3 +56,4 @@
 - [dreamlike.art](https://dreamlike.art/) - AI Art Generator.
 - [Stable Diffusion Photoshop Plugin](https://christiancantrell.com/#ai-ml)
 - [Outpainting with Stable Diffusion on an infinite canvas](https://github.com/lkwq007/stablediffusion-infinity)
+- [Stable Diffusion: With Composition](https://github.com/Slickytail/stable-diffusion-compositional)

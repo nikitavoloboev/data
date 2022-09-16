@@ -241,6 +241,7 @@
 - [MapDiff](https://github.com/Qqwy/elixir-map_diff) - Calculates the difference between two (nested) maps.
 - [Arrays](https://github.com/Qqwy/elixir-arrays) - Library to work with well-structured Arrays with fast random-element-access for Elixir.
 - [CapturePipe](https://github.com/Qqwy/elixir-capture_pipe) - Pipe-macro for Elixir that allows bare function captures.
+- [protobuf-elixir](https://github.com/elixir-protobuf/protobuf) - Pure Elixir implementation of Google Protobuf.
 
 ## Links
 

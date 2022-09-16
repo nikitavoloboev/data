@@ -461,3 +461,6 @@ Awesome List
 - [Magic GitHub API Proxy](https://github.com/google/magic-github-proxy) - Stateless GitHub API proxy that allows creation and use of access-limited GitHub API tokens.
 - [GitHub Copilot in the Terminal](https://github.com/maxwell-bland/copilot-in-the-terminal) ([HN](https://news.ycombinator.com/item?id=32846691))
 - [Linear issues to GitHub](https://github.com/terrastruct/byelinear)
+- [GitHub Apps Cheat Sheet](https://github.com/github-developer/github-apps-cheat-sheet)
+- [GitHub-Webook-Listener](https://github.com/alexandru/github-webhook-listener) - Light server for reacting to GitHub's Webhooks.
+- [gh-stars](https://github.com/gkze/gh-stars) - Command-line interface to your GitHub Stars.

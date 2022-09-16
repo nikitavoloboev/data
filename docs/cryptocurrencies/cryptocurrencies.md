@@ -292,3 +292,6 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 - [Who makes the best Dune dashboards?](https://twitter.com/gaby_goldberg/status/1542175548041965568)
 - [Peter Van Valkenburgh, of Coin Center, on the OFAC Tornado cash SDN listing (2022)](https://www.youtube.com/watch?v=XpTrCA3tEKM)
 - [Mmb](https://github.com/purefinance/mmb) - Trading bot implemented in Rust, with market making and strategy automation for any exchange or blockchain.
+- [KYC? Not me!](https://kycnot.me/) - Find NON-KYC exchanges and services to use and spend your crypto anonymously.
+- [TradeOgre](https://tradeogre.com/markets) - Digital Currency Exchange.
+- [HDWallet](https://github.com/shapeshift/hdwallet) - Library for interacting with hardware wallets from JS/TS.

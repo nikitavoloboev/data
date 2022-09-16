@@ -275,3 +275,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [Diagnosed Narcissist talks about why he has no friends](https://www.reddit.com/r/interestingasfuck/comments/wkq44b/diagnosed_narcissist_talks_about_why_he_has_no/)
 - [Fellow men, what lessons have you learned after breaking up?](https://www.reddit.com/r/AskMen/comments/x63yag/fellow_men_what_lessons_have_you_learned_after/)
 - [Ask HN: Solopreneurs, how do you maintain a professional/social network? (2022)](https://news.ycombinator.com/item?id=32795970)
+- [Suggest me a book to become a better husband (2022)](https://www.reddit.com/r/suggestmeabook/comments/xek51c/suggest_me_a_book_to_become_a_better_husband/)

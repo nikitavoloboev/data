@@ -419,3 +419,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Odin](https://github.com/odin-lang/Odin) - General-purpose programming language with distinct typing, built for high performance, modern systems, and built-in data-oriented data types. ([Review](https://graphitemaster.github.io/odin_review/))
 - [What would be your “perfect” programming language? (2022)](https://news.ycombinator.com/item?id=32807730)
 - [Ask HN: What is the coding exercise you use to explore a new language? (2022)](https://news.ycombinator.com/item?id=32836113)
+- [The Golden Age of PL Research (2022)](https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html)

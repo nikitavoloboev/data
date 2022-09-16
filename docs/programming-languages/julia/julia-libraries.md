@@ -219,6 +219,7 @@
 - [Sherlogs.jl](https://github.com/milankl/Sherlogs.jl) - Number format that inspects your code by logging the arithmetic results.
 - [GeometryBasics.jl](https://github.com/JuliaGeometry/GeometryBasics.jl) - Basic geometry types.
 - [Forecast](https://github.com/viraltux/Forecast.jl) - Julia package containing utilities intended for Time Series analysis.
+- [BSplines](https://github.com/sostock/BSplines.jl) - Data types and functions for working with B-splines as a means to approximate real functions.
 
 ## NLP
 
@@ -729,6 +730,7 @@
 - [ColorTypes](https://github.com/JuliaGraphics/ColorTypes.jl) - Basic color definitions and traits.
 - [Overseer](https://github.com/louisponet/Overseer.jl) - Entity Component System with Julia.
 - [Glimpse](https://github.com/louisponet/Glimpse.jl) - Attempt at creating a midlevel rendering library using the refactored GLAbstraction.
+- [PartialFunctions](https://github.com/archermarx/PartialFunctions.jl) - Small package to simplify partial function application.
 
 ## Links
 

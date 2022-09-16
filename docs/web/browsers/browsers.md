@@ -252,3 +252,4 @@ Use this [Solid/Vite](https://github.com/fuyutarow/solid-chrome-extension-templa
 - [Playwright for Rust](https://github.com/octaltree/playwright-rust)
 - [Vimium C](https://github.com/gdh1995/vimium-c) - Keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar.
 - [TorpedoRead](https://github.com/unreleased/TorpedoRead) - Browser extension that biohacks your brain into reading quicker with a deeper focus.
+- [Favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js.

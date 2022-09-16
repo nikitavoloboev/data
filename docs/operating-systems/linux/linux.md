@@ -9,6 +9,7 @@ title: Linux
 ## Distributions
 
 - [Alpine Linux](https://www.alpinelinux.org/) - Security-oriented, lightweight Linux distribution based on musl libc and busybox. ([GitHub](https://github.com/alpinelinux))
+- [Crystal Linux](https://getcryst.al/) - Brand new Arch Linux based distribution. Powerful and easy to use. ([GitHub](https://github.com/crystal-linux))
 - [Ubuntu](https://ubuntu.com/) - Enterprise Open Source and Linux.
 - [Arch Linux](https://www.archlinux.org/) - Simple, lightweight distribution. ([Arch Linux Install Script](https://github.com/picodotdev/alis))
 - [KISS](https://k1ss.org/) ([Code](https://github.com/kisslinux/website)) ([HN](https://news.ycombinator.com/item?id=23255642))
@@ -588,3 +589,4 @@ title: Linux
 - [ghOSt](https://github.com/google/ghost-kernel) - Fast & Flexible User-Space Delegation of Linux Scheduling.
 - [Spawning processes faster and easier with io uring (2022)](https://lpc.events/event/16/contributions/1213/attachments/1012/1945/io-uring-spawn.pdf)
 - [Asahi Fedora Builder](https://github.com/leifliddy/asahi-fedora-builder) - Builds a minimal Fedora image to run on Apple M1/M2 systems.
+- [Amethyst](https://github.com/crystal-linux/amethyst) - Fast, efficient and lightweight AUR helper and Pacman wrapper. Made for Crystal, compatible with any Arch-based Linux distribution.

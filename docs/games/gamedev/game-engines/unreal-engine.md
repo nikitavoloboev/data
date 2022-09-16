@@ -43,3 +43,4 @@ title: Unreal Engine
 - [Game Development Notes](https://ikrima.dev/) - Game Development & Unreal Engine Programming Guide. ([Code](https://github.com/ikrima/gamedevguide))
 - [unreal-rust](https://github.com/MaikKlein/unreal-rust) - Rust integration for Unreal Engine. ([Article](https://maikklein.github.io/unreal-rust-1/)) ([HN](https://news.ycombinator.com/item?id=32717388))
 - [Unreal Engine's notes](https://github.com/Allar/compiling-unreal)
+- [Figma2Unreal](https://github.com/Phil-L-101/Figma2Unreal) - Uses Figma API and python scripts to take assets created in Figma and create nested UMG widgets suitable for making more advanced prototypes.

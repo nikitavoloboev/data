@@ -403,3 +403,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [disko](https://github.com/nix-community/disko) - Nix-powered automatic disk partitioning.
 - [41North's Nix Templates](https://github.com/41north/templates)
 - [Nix Harden Needed Setup Hook](https://github.com/fzakaria/nix-harden-needed) - Bubble up the correct paths to your shared object libraries in Nix.
+- [Nix-Darwin-Template](https://github.com/Kranzes/nix-darwin-template) - Bare-bones template for setting up Nix on macOS for using nix-darwin with flakes.

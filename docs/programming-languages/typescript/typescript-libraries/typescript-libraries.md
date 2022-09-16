@@ -617,6 +617,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [cwait](https://github.com/charto/cwait) - Limit number of promises running in parallel.
 - [remember-promise](https://github.com/redabacha/remember-promise) - Remembering promises that were made.
 - [Angu](https://github.com/jsdw/angu) - Small DSL/interpreter that can be used to evaluate simple expressions.
+- [typed-file-system-path](https://github.com/craftweg/typed-file-system-path) - Typed primitives for Typescript to work with file paths.
 
 ## Links
 

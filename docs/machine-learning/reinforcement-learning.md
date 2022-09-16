@@ -385,3 +385,4 @@ title: Reinforcement learning
 - [SafePO-Baselines](https://github.com/PKU-MARL/Safe-Policy-Optimization) - Benchmark repository for safe reinforcement learning algorithms.
 - [POGEMA](https://github.com/AIRI-Institute/pogema) - Partially-Observable Grid Environment for Multiple Agents.
 - [Forgetful Experience Replay in Hierarchical Reinforcement Learning from Demonstrations (2020)](https://arxiv.org/abs/2006.09939) ([Code](https://github.com/cog-isa/forger))
+- [DexterousHands](https://github.com/PKU-MARL/DexterousHands) - Collection of bimanual dexterous manipulations tasks and reinforcement learning algorithms.

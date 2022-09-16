@@ -397,3 +397,7 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [HandBrake](https://handbrake.fr/) - Open Source Video Transcoder.
 - [Liquidsoap](https://github.com/savonet/liquidsoap) - Audio and video streaming language. ([Web](https://www.liquidsoap.info/))
 - [This is a video about video (2022)](https://www.youtube.com/watch?v=ztYNir9BDoY)
+- [dovi_tool](https://github.com/quietvoid/dovi_tool) - CLI tool combining multiple utilities for working with Dolby Vision.
+- [hdr10plus_tool](https://github.com/quietvoid/hdr10plus_tool) - CLI utility to work with HDR10+ in HEVC files.
+- [subtitle_tonemap](https://github.com/quietvoid/subtitle_tonemap) - Maps PGS subtitles to a different color/brightness.
+- [Simple TikTok Video Downloader](https://github.com/rouze-d/tiktok-download)

@@ -290,3 +290,4 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Seahorse](https://seahorse-lang.org/) - Write Anchor-compatible Solana programs in Python. ([Tweet](https://github.com/ameliatastic/seahorse-lang))
 - [Solana State History (2022)](https://bpf.wtf/sol-state-history/)
 - [Octane Demo App](https://github.com/sevazhidkov/octane-demo) - Gasless transactions demo on Solana.
+- [Solana command-line tool template](https://github.com/mvines/solana-cli-template)

@@ -574,3 +574,4 @@ title: GitHub actions
 - [GitHub App Token](https://github.com/tibdex/github-app-token) - Impersonate a GitHub App in a GitHub Action.
 - [Using GitHub GraphQL API With GitHub Actions (2022)](https://liblab.com/blog/using-github-graphql-api-with-github-actions)
 - [Automating visual UI tests with Playwright and GitHub Actions (2022)](https://mmazzarolo.com/blog/2022-09-09-visual-regression-testing-with-playwright-and-github-actions/)
+- [Workflow-Timer](https://github.com/Michael-F-Bryan/workflow-timer) - Keep an eye on how long your GitHub Actions jobs are taking.

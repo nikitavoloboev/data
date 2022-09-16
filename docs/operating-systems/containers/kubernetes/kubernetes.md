@@ -816,3 +816,4 @@ title: Kubernetes
 - [Hera](https://github.com/argoproj-labs/hera-workflows) - Argo Workflows Python SDK.
 - [Constellation](https://github.com/edgelesssys/constellation) - Kubernetes engine that aims to provide the best possible data security.
 - [KubeProber](https://github.com/erda-project/kubeprober) - Large-scale Kubernetes cluster diagnostic tool.
+- [vault-k8s](https://github.com/hashicorp/vault-k8s) - First-class support for Vault and Kubernetes.

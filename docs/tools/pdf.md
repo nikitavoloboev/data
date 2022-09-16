@@ -74,3 +74,4 @@
 - [PDF-Diff](https://github.com/serhack/pdf-diff) - Tool for visualizing differences between two PDF files. ([HN](https://news.ycombinator.com/item?id=32353479))
 - [Generate an Invoice PDF using Cloudflare Workers](https://generate.invoice.workers.dev/) ([Code](https://github.com/adamschwartz/generate.invoice.workers.dev))
 - [Ask HN: How do you organize or rename PDF files (books, papers, etc)? (2022)](https://news.ycombinator.com/item?id=32565059)
+- [Extract structured data from PDF invoices](https://github.com/invoice-x/invoice2data)

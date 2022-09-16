@@ -181,7 +181,7 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [changelogen](https://github.com/unjs/changelogen) - Beautiful Changelogs using Conventional Commits.
 - [docs-searchbar.js](https://github.com/meilisearch/docs-searchbar.js) - Front-end search bar for documentation with Meilisearch.
 - [Spacebook](https://spacebook.app/) - Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS. ([Code](https://github.com/broeker/spacebook))
-- [Markdoc](https://markdoc.io/) - Powerful, flexible, Markdown-based authoring framework. By Stripe. ([Code](https://github.com/markdoc/markdoc)) ([HN](https://news.ycombinator.com/item?id=31341083)) ([Tweet](https://twitter.com/wooorm/status/1524685332058456072))
+- [Markdoc](https://markdoc.io/) - Powerful, flexible, Markdown-based authoring framework. By Stripe. ([Code](https://github.com/markdoc/markdoc)) ([HN](https://news.ycombinator.com/item?id=31341083)) ([Tweet](https://twitter.com/wooorm/status/1524685332058456072)) ([Interactive Docs with Markdoc](https://stripe.com/blog/markdoc)) ([HN](https://news.ycombinator.com/item?id=32835751))
 - [How to Make a Docs Site: Shortcuts for Busy Devs](https://github.com/jablonskidev/how-to-make-a-docs-site)
 - [How do you create documentation websites today? (2022)](https://twitter.com/mxstbr/status/1526584813301313536)
 - [What Fields](https://whatfields.com/) - Way to quickly write & share documentation for anything (API, database etc).

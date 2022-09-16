@@ -220,6 +220,7 @@ Below is a list of extensions I use.
 - [Pyolite](https://marketplace.visualstudio.com/items?itemName=joyceerhl.vscode-pyodide) - Run Python code in Jupyter notebooks. ([Code](https://github.com/joyceerhl/vscode-pyolite)) ([Tweet](https://twitter.com/simonw/status/1450870181585063936))
 - [pylens](https://marketplace.visualstudio.com/items?itemName=ninoseki.vscode-pylens) - Shows the latest version of a dependency in pyproject.toml or requirements.txt. ([Code](https://github.com/ninoseki/vscode-pylens))
 - [PyPI Assistant](https://marketplace.visualstudio.com/items?itemName=twixes.pypi-assistant) - Enables CodeLens + handy hover tooltips with PyPI package information in pip requirements. ([Code](https://github.com/Twixes/pypi-assistant))
+- [Python Web WASM](https://github.com/microsoft/vscode-python-web-wasm) - Run Python code in a Web browser using WebAssembly technology.
 
 ## Git
 

@@ -63,3 +63,4 @@ title: Bazel
 - [Bazel Examples](https://github.com/aspect-build/bazel-examples) - Variety of examples is provided by Aspect.
 - [Bazel in CI: Commit Under Test (2022)](https://sluongng.hashnode.dev/bazel-in-ci-part-1-commit-under-test)
 - [When to use Bazel?](https://earthly.dev/blog/bazel-build/)
+- [focus](https://github.com/twitter/focus) - Tool to manage Git sparse checkouts derived from the Bazel build graph.

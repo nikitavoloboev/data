@@ -249,3 +249,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [One Year With the Framework Laptop and NixOS (2022)](https://blog.tjll.net/one-year-with-nixos-on-framework/)
 - [Migrating primary drive on NixOS (2022)](https://lunnova.dev/articles/migrating-main-drive-nixos-tmpfs-root/)
 - [NixOS tooling for Hashicorp Vault](https://github.com/serokell/vault-secrets)
+- [My workflow with NixOS. How do I work with it (2022)](https://gianarb.it/blog/my-workflow-with-nixos)

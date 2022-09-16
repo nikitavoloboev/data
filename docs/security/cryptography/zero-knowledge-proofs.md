@@ -111,3 +111,6 @@ title: Zero knowledge proofs
 - [zkREPL](https://zkrepl.dev/) - Online playground for zero knowledge circuits. ([Code](https://github.com/0xPARC/zkrepl))
 - [cloud-ZK](https://github.com/ingonyama-zk/cloud-ZK) - Toolkit for developing ZKP acceleration in the cloud.
 - [Triton VM](https://github.com/TritonVM/triton-vm) - Virtual machine that comes with Algebraic Execution Tables (AET) and Arithmetic Intermediate Representations (AIR) for use in combination with a STARK proof system.
+- [Circomspect](https://github.com/trailofbits/circomspect) - Static analyzer and linter for the Circom zero-knowledge DSL.
+- [Merlin](https://merlin.cool/) - STROBE-based transcript construction for zero-knowledge proofs.
+- [Magikitten](https://github.com/cronokirby/magikitten) - System for making public-coin protocols non-interactive, using Meow.

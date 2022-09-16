@@ -61,3 +61,4 @@ title: Cypress
 - [Laziness](https://github.com/imteekay/laziness) - Set of tools for a better developer experience.
 - [cypress-fail-on-console-error](https://github.com/nils-hoyer/cypress-fail-on-console-error) - Observes console.error() function from window object. Cypress test will fail when the error function gets executed.
 - [Rewriting tests from Cypress to Playwright using GPT3](https://contra.com/p/PWBcPYZc-rewriting-tests-from-cypress-to-playwright-using-gpt-3)
+- [cypress-thenify](https://github.com/mbolotov/cypress-thenify) - Get rid of Cypress `then` callback hell.

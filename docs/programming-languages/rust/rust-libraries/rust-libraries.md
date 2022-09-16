@@ -2157,6 +2157,7 @@
 - [Yarte](https://github.com/botika/yarte) - Yet Another Rusty Template Engine.
 - [v_escape](https://github.com/botika/v_escape) - SIMD optimized escape code.
 - [plmap](https://github.com/andrewchambers/plmap-rust) - Parallel pipelined map over iterators.
+- [tzdb](https://github.com/Kijewski/tzdb) - Static time zone information for tz-rs.
 
 ## Cargo Plugins
 
@@ -2412,3 +2413,4 @@
 - [Riff](https://github.com/DeterminateSystems/riff) - Automatically provides external dependencies for Rust projects. ([HN](https://news.ycombinator.com/item?id=32739954)) ([Lobsters](https://lobste.rs/s/g6ibtq/introducing_riff_automatically_provide))
 - [rustdoc-index](https://github.com/octaltree/rustdoc-index) - Tool to quickly find the relevant item from rustdoc.
 - [Rust-to-NPM](https://github.com/a11ywatch/rust-to-npm) - Deploy a rust project to crates.io and npm in one command.
+- [Documentation of Rust error handling](https://github.com/nrc/error-docs)

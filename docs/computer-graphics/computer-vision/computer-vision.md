@@ -926,3 +926,4 @@
 - [MMEditing](https://github.com/open-mmlab/mmediting) - Low-level vision toolbox based on PyTorch, supporting super-resolution, inpainting, matting, video interpolation, etc.
 - [Accelerating DETR Convergence via Semantic-Aligned Matching (2022)](https://arxiv.org/abs/2203.06883) ([Code](https://github.com/ZhangGongjie/SAM-DETR))
 - [The Follower - Using open cameras and AI to find how an Instagram photo is taken](https://driesdepoorter.be/thefollower/) ([Tweet](https://twitter.com/driesdepoorter/status/1569285878089908231))
+- [Image Segmentation Using Text and Image Prompts (2022)](https://arxiv.org/abs/2112.10003) ([Code](https://github.com/timojl/clipseg))

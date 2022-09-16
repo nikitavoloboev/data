@@ -851,3 +851,4 @@ if err != nil {
 - [Structured, leveled logging in Go's standard library](https://github.com/golang/go/discussions/54763) ([HN](https://news.ycombinator.com/item?id=32800598)) ([Lobsters](https://lobste.rs/s/schsks/structured_leveled_logging_go_s_standard))
 - [goast](https://github.com/m-mizutani/goast) - Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 - [Proposal: profile-guided optimization (2022)](https://go.googlesource.com/proposal/+/master/design/55022-pgo.md)
+- [Coolest Go open source projects you have seen (2022)](https://www.reddit.com/r/golang/comments/xeytlo/what_is_the_coolest_go_open_source_projects_you/)

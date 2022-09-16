@@ -171,3 +171,4 @@ On bright side, it does appear that Russia [fully lost out on its objectives in 
 - [Digital Traces of Brain Drain: Developers during the Russian Invasion of Ukraine (2022)](https://arxiv.org/abs/2209.01041) ([Tweet](https://twitter.com/johannes_wachs/status/1566715431053938688))
 - [Рядовой телефонист Коблов Антон Викторович (2022)](https://www.youtube.com/watch?v=y0IubXheaj4&t=339s)
 - [Почему российская армия была разгромлена и спасалась бегством из Харьковской области](https://twitter.com/ian_matveev/status/1570372266206302208)
+- ["Что-то не то скажешь и тебя обнулят, так двоих расстреляли"- полонений російський зек "вагнеровець"](https://www.youtube.com/watch?v=t4dJRPHuzFg)

@@ -455,3 +455,4 @@ title: Haskell
 - [Avoiding space leaks at all costs (2022)](https://kodimensional.dev/space-leak)
 - [Functions Types, Currying, Partial application, Higher-order functions (2022)](https://alt-romes.github.io/archive/2022-05-08-lecture-2.html)
 - [How to make a Haskell program 5x faster with 16 lines of code (2022)](https://www.youtube.com/watch?v=yRVjR9XcuPU)
+- [Easy JSON in Haskell (2022)](https://blog.drewolson.org/easy-json)
