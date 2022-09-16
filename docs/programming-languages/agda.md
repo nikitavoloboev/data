@@ -103,3 +103,4 @@ title: Agda
 - [Vehicle Formalization](https://github.com/vehicle-lang/vehicle-formalisation) - Agda formalization of a core subset of the Vehicle language and a normalization procedure from the higher order language.
 - [Agda Generics](https://github.com/flupe/generics) - Library for datatype-generic programming in Agda.
 - [Cube solver for Cubical Agda](https://github.com/maxdore/csolver)
+- [agda2hs](https://github.com/agda/agda2hs) - Compiling Agda code to readable Haskell.

@@ -79,3 +79,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [Do dogs know they’re dying](https://www.reddit.com/r/dogs/comments/cn4tu5/discussion_do_dogs_know_theyre_dying/)
 - [I would like to make sense of having to put my dog down](https://www.reddit.com/r/Stoicism/comments/oshe2b/comment/h6p4mnq/)
 - [How are people not freaking out about death?](https://www.reddit.com/r/NoStupidQuestions/comments/x708ym/how_are_people_not_freaking_out_about_death/)
+- [How the body decomposes after death](https://www.reddit.com/r/biology/comments/xfcp4c/help_me_understand_the_decomposition_of_the/)

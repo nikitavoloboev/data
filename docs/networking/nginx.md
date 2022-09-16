@@ -90,3 +90,4 @@ title: Nginx
 - [Test::Nginx](https://github.com/openresty/test-nginx) - Data-driven test scaffold for Nginx C module and Nginx/OpenResty-based libraries and applications.
 - [The future of Nginx: Getting back to our open source roots (2022)](https://www.nginx.com/blog/future-of-nginx-getting-back-to-our-open-source-roots/) ([HN](https://news.ycombinator.com/item?id=32572153))
 - [wasm-nginx-module](https://github.com/api7/wasm-nginx-module) - Run Wasm in OpenResty/Nginx.
+- [Cloudflare developed a Rust based Nginx alternative (2022)](https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx) ([Reddit](https://www.reddit.com/r/rust/comments/xf9d4z/cloudflare_developed_a_rust_based_nginx/))

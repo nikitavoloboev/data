@@ -42,6 +42,7 @@
 - [brucelib](https://github.com/hazeycode/brucelib) - Monorepo of modules for programming cross-platform games, simulations, engines and editors.
 - [Phyz](https://github.com/silversquirl/phyz) - 2D game physics for Zig.
 - [glTF parser](https://github.com/kooparse/zgltf) - glTF 2.0 parser written in Zig, aiming to replace the use of some C/C++ libraries.
+- [GUI](https://github.com/david-vanderson/gui) - Zig native GUI toolkit for whole applications or extra debugging windows in an existing application.
 
 ## WASM
 
@@ -134,6 +135,7 @@
 - [Zig-Validate](https://github.com/mov-rax/zig-validate) - Type validation library for writing a zero-cost, declarative, understandable, generic code.
 - [Zig-LibreSSL](https://github.com/haze/zig-libressl) - LibreSSL stream wrappers for Zig.
 - [zigmkv](https://github.com/vi/zigmkv) - Matroska/webm (mkv) parser in Zig.
+- [protobruh](https://github.com/zigtools/protobruh) - Protobuf for Zig.
 
 ## Links
 

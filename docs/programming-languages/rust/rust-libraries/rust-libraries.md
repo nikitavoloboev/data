@@ -2254,6 +2254,7 @@
 - [cargo-show-asm](https://github.com/pacak/cargo-show-asm) - Cargo subcommand that displays the Assembly, LLVM-IR and MIR generated for Rust source code.
 - [cargo add-dynamic](https://github.com/rksm/cargo-add-dynamic) - Allows to wrap dependencies as dylibs.
 - [cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) - Custom cargo command that analyses all cargo target directories under a given parent directory and allows for cleaning them.
+- [cargo-changelog](https://github.com/matthiasbeyer/cargo-changelog) - Changelog management tool for CLI.
 
 ## Notes
 

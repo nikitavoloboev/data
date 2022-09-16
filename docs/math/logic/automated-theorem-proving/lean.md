@@ -114,3 +114,4 @@ title: Lean
 - [std4](https://github.com/leanprover/std4) - Standard Library for Lean 4.
 - [Beyond the Liquid Tensor Experiment (2022)](https://xenaproject.wordpress.com/2022/09/12/beyond-the-liquid-tensor-experiment/)
 - [LeanAide](https://github.com/siddhartha-gadgil/LeanAide) - Tools based on AI for helping with Lean 4.
+- [Formal BOOK](https://github.com/mo271/formal_book) - Collaborative, work-in-progress attempt to formalize Proofs from THE BOOK using Lean.

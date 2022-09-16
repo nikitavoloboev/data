@@ -154,3 +154,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [CLI Testing Library](https://github.com/crutchcorn/cli-testing-library) - Simple and complete CLI testing utilities that encourage good testing practices.
 - [run-pty](https://github.com/lydell/run-pty) - Run several commands concurrently. Show output for one command at a time. Kill all at once.
 - [headtail](https://github.com/CleanCut/headtail) - Head and tail simultaneously.
+- [enquirer](https://github.com/termapps/enquirer) - Command Line Utility for Stylish Interactive Prompts.

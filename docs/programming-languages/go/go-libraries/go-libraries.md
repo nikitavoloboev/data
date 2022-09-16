@@ -1807,6 +1807,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [GoFreeDB](https://github.com/FreeLeh/GoFreeDB) - Go library that provides common and simple database abstractions on top of Google Sheets.
 - [core](https://github.com/efficientgo/core) - Set of core packages every Go project needs. Minimal API, strictly versioned and with ~no dependencies.
 - [Go-SelfUpdate](https://github.com/creativeprojects/go-selfupdate) - Self-Update library for GitHub/Gitea hosted applications in Go.
+- [Gomme](https://github.com/oleiade/gomme) - Parser combinator library for Go.
 
 ## Links
 

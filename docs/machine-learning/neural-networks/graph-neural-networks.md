@@ -128,3 +128,4 @@
 - [Transformers Generalize DeepSets and Can be Extended to Graphs and Hypergraphs (2021)](https://arxiv.org/abs/2110.14416) ([Code](https://github.com/jw9730/hot))
 - [Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs (2020)](https://arxiv.org/abs/2006.11468) ([Code](https://github.com/GemsLab/H2GCN))
 - [M3GNet](https://github.com/materialsvirtuallab/m3gnet) - Materials graph network with 3-body interactions featuring a DFT surrogate crystal relaxer and a state-of-the-art property predictor.
+- [Memory-Based Graph Networks (2020)](https://arxiv.org/abs/2002.09518) ([Code](https://github.com/amirkhas/GraphMemoryNet))

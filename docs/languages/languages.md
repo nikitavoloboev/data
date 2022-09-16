@@ -86,3 +86,4 @@
 - [Wordnote Dictionary](https://www.wordnote.app/) - Simple and elegant notebook to write new words and discover their meanings and synonyms. ([Code](https://github.com/zehfernandes/wordnote))
 - [Linguistic Antipatterns](https://www.linguistic-antipatterns.com/) ([Code](https://github.com/Linguistic-Antipatterns/linguistic-antipatterns.github.io)) ([Lobsters](https://lobste.rs/s/v0rnys/linguistic_antipatterns_catalog))
 - [CLD3](https://github.com/google/cld3) - Neural network model for language identification.
+- [PaLI: Scaling Language-Image Learning in 100+ Languages (2022)](https://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html)

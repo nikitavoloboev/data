@@ -57,3 +57,4 @@
 - [Stable Diffusion Photoshop Plugin](https://christiancantrell.com/#ai-ml)
 - [Outpainting with Stable Diffusion on an infinite canvas](https://github.com/lkwq007/stablediffusion-infinity)
 - [Stable Diffusion: With Composition](https://github.com/Slickytail/stable-diffusion-compositional)
+- [Swift Diffusion](https://github.com/liuliu/swift-diffusion) - Single-file re-implementation of Stable Diffusion model.
