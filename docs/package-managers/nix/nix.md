@@ -405,3 +405,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix Harden Needed Setup Hook](https://github.com/fzakaria/nix-harden-needed) - Bubble up the correct paths to your shared object libraries in Nix.
 - [Nix-Darwin-Template](https://github.com/Kranzes/nix-darwin-template) - Bare-bones template for setting up Nix on macOS for using nix-darwin with flakes.
 - [Building a highly optimized home environment with Nix (2022)](https://determinate.systems/posts/nix-home-env) ([Reddit](https://www.reddit.com/r/NixOS/comments/xf12zw/building_a_highly_optimized_home_environment_with/))
+- [Cross-Compiling and packaging C, Go and Zig projects with Nix (2022)](https://flyx.org/cross-packaging/)

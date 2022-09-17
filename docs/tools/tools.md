@@ -750,3 +750,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Paquet](https://paquet.shop/) - Web app store. ([Code](https://github.com/notangelmario/paquet))
 - [What helped you grok spreadsheets? (2022)](https://lobste.rs/s/fa1kae/what_helped_you_grok_spreadsheets)
 - [Height - Intake form tool](https://height.app/product/forms)
+- [Skew for After-Effects](https://www.goodboy.ninja/skew) ([Tweet](https://twitter.com/goodboyninja/status/1570537505614868482))

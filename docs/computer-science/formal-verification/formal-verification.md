@@ -138,3 +138,4 @@ title: Formal verification
 - [MLIR-TV](https://github.com/aqjune/mlir-tv) - Translation validation framework for MLIR.
 - [Safety and Liveness Properties (2022)](https://www.hillelwayne.com/post/safety-and-liveness/)
 - [The Hitchhiker’s Guide to Logical Verification](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
+- [State of the art for formal verification (2022)](https://twitter.com/sc13ts/status/1570874982930219008)
