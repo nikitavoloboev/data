@@ -289,6 +289,7 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [Prakaar](https://github.com/devanshj/prakaar) - Type programming language which compiles to and interops with type-level TypeScript.
 - [Civet](https://github.com/DanielXMoore/Civet) - CoffeeScript of TypeScript.
 - [Building Complex Types in TypeScript (2022)](https://medium.hexlabs.io/building-complex-types-in-typescript-bfdf5e131dbe)
+- [TypeScript Typelevel Tic-Tac-Toe: Overkill edition (2022)](https://note89.github.io/typescript-typelevel-tic-tac-toe/)
 
 ## Images
 

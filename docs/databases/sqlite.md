@@ -252,3 +252,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [Litements](https://litements.exampl.io/) - Data structures implemented on top of SQLite. ([GitHub](https://github.com/litements/))
 - [SQLite Weekly](https://github.com/nalgeon/sqlite-weekly) - Weekly SQLite news, articles and extensions.
 - [Deno SQLite Shell](https://github.com/tarruda/deno_sqlite_shell)
+- [Scaling Pocketbase with Marmot (2022)](https://www.youtube.com/watch?v=VSa-VJso050)

@@ -852,3 +852,4 @@ if err != nil {
 - [goast](https://github.com/m-mizutani/goast) - Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 - [Proposal: profile-guided optimization (2022)](https://go.googlesource.com/proposal/+/master/design/55022-pgo.md)
 - [Coolest Go open source projects you have seen (2022)](https://www.reddit.com/r/golang/comments/xeytlo/what_is_the_coolest_go_open_source_projects_you/)
+- [Goroutine-analyzer](https://github.com/openziti/goroutine-analyzer) - Visual goroutine stack dump debugging tool. ([HN](https://news.ycombinator.com/item?id=32865510))

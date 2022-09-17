@@ -64,3 +64,4 @@ title: Caddy
 - [Hosting a static site on fly.io with nix and caddy (2022)](https://mat.services/posts/static-site-with-nix-and-caddy/) ([Lobsters](https://lobste.rs/s/qydlal/hosting_static_site_on_fly_io_with_nix))
 - [Caddyhttp: Enable HTTP/3 by Default](https://github.com/caddyserver/caddy/pull/4707) ([HN](https://news.ycombinator.com/item?id=32768454))
 - [Caddy Mesh](https://github.com/RussellLuo/caddy-mesh) - Caddy service mesh based on the host/node architecture.
+- [35M Hot Dogs: Benchmarking Caddy vs. Nginx (2022)](https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/) ([HN](https://news.ycombinator.com/item?id=32865497))

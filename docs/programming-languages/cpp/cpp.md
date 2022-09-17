@@ -365,3 +365,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Xbyak](https://github.com/herumi/xbyak) - C++ JIT assembler for x86 (IA32), x64 (AMD64, x86-64).
 - [Extreme Integers – Doom from Below (2022)](https://luckyresistor.me/2022/09/04/extreme-integers-doom-from-below/)
 - [Use-after-freedom: MiraclePtr (2022)](https://security.googleblog.com/2022/09/use-after-freedom-miracleptr.html?m=1)
+- [CppCon](https://cppcon.org/) ([HN](https://news.ycombinator.com/item?id=32875246))

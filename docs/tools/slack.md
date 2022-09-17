@@ -89,3 +89,4 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [Ask HN: How do you ensure everyone on the team is heard on Slack? (2022)](https://news.ycombinator.com/item?id=31943016)
 - [Slack API for Cloudflare Workers (2022)](https://sagi.io/slack-api-for-cloudflare-workers/)
 - [Slack Message Client](https://github.com/MPLew-is/slack-message-client) - Slack message generator and API client, written in Swift with Result Builders and Concurrency.
+- [Slack Machine](https://github.com/DonDebonair/slack-machine) - Simple, yet powerful and extendable Slack bot.

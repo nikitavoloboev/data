@@ -684,3 +684,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Cachegrand](https://github.com/danielealbano/cachegrand) - Modern OSS Key-Value store built for today's hardware. ([HN](https://news.ycombinator.com/item?id=32823436))
 - [Differential dataflow is the next level of query optimization (2022)](https://tably.com/blog/high-performance-analytics)
 - [echodb](https://github.com/surrealdb/echodb) - Embedded, in-memory, immutable, copy-on-write, key-value database engine.
+- [Retrospection and Learnings from Dgraph Labs (2022)](https://manishrjain.com/dgraph-labs-learnings) ([HN](https://news.ycombinator.com/item?id=32867613))

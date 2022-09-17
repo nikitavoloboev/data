@@ -209,7 +209,7 @@ All active variables can be seen by running `env`.
 - [Awesome Terminals](https://github.com/cdleon/awesome-terminals)
 - [Cli2Cloud](https://github.com/leonwind/cli2cloud) - Pipe your terminal output to the cloud. ([Web](https://cli2cloud.com/))
 - [What are the most useful aliases in your bashrc or zshrc (2022)](https://lobste.rs/s/qgqssl/what_are_most_useful_aliases_your_bashrc)
-- [sd](https://github.com/ianthehenry/sd) - Cozy nest for your scripts.
+- [sd](https://github.com/ianthehenry/sd) - Cozy nest for your scripts. ([Article](https://ianthehenry.com/posts/a-cozy-nest-for-your-scripts/)) ([HN](https://news.ycombinator.com/item?id=32860664))
 - [svg-term](https://github.com/marionebl/svg-term) - Share terminal sessions via SVG and CSS.
 - [Redo](https://github.com/barthr/redo) - Command line application to easily create reusable functions in your own shell. ([HN](https://news.ycombinator.com/item?id=30878935))
 - [The Day of a new Command-Line Interface: Shell (2022)](https://arcan-fe.com/2022/04/02/the-day-of-a-new-command-line-interface-shell/)

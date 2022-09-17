@@ -578,3 +578,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [What’s the strangest thing you ever found in a book? (2022)](https://noctslackv2.wordpress.com/2022/08/02/whats-the-strangest-thing-you-ever-found-in-a-book/) ([HN](https://news.ycombinator.com/item?id=32334552))
 - [Talk to Books](https://books.google.com/talktobooks/) - Browse passages from books using experimental AI.
 - [OpenBookStore](https://github.com/OpenBookStore/openbookstore) - Bibliographic search of books and personal manager.
+- [Lota](https://www.lotareader.com/) - Online ePub reader with VS Code style.

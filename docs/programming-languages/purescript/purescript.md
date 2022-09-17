@@ -63,3 +63,4 @@ title: PureScript
 - [PsKt](https://github.com/csicar/pskt) - Kotlin-backend for PureScript.
 - [PureScript-Elmish](https://github.com/collegevine/purescript-elmish) - PureScript implementation of The Elm Architecture.
 - [PureScript-tsd-gen](https://github.com/minoki/purescript-tsd-gen) - TypeScript Declaration File (.d.ts) generator for PureScript.
+- [PureScript Registry](https://github.com/purescript/registry) - Stores PureScript packages (and metadata about them).

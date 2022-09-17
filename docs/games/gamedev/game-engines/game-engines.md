@@ -124,6 +124,7 @@
 - [Voxelize](https://github.com/voxelize/voxelize) - Multiplayer, fast, super fast, voxel engine in your browser.
 - [glazeJS](https://github.com/rjewson/glazejs) - High performance 2D game engine built in Typescript.
 - [Acid](https://github.com/EQMG/Acid) - High speed C++17 Vulkan game engine.
+- [Iris](https://github.com/irisengine/iris) - Cross-platform game engine written in modern C++.
 
 ## Physics engines
 

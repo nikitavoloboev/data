@@ -182,7 +182,7 @@ One way to do launches with possible virality is rewarding people who retweet wi
 - [LOVED: How to Rethink Marketing for Tech Products Book (2022)](https://www.svpg.com/books/loved-how-to-rethink-marketing-for-tech-products/)
 - [Of Chickens and Pigs - The Dilemma of Creator Self Promotion (2021)](https://dev.to/this-is-learning/of-chickens-and-pigs-the-dilemma-of-creator-self-promotion-51ea)
 - [Ask HN: Best dev tool pitches of all time? (2022)](https://news.ycombinator.com/item?id=31782200)
-- [Reflio](https://github.com/Reflio-com/reflio) - Create a referral program without breaking the bank.
+- [Reflio](https://github.com/Reflio-com/reflio) - Create a referral program without breaking the bank. ([Web](https://reflio.com/)) ([HN](https://news.ycombinator.com/item?id=32867737))
 - [Ask HN: Where and how do you find your early adoptors? (2022)](https://news.ycombinator.com/item?id=31930935)
 - [How to design a referral program](https://andrewchen.com/how-to-design-a-referral-program/)
 

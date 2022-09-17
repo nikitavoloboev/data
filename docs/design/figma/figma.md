@@ -102,3 +102,4 @@ title: Figma
 - [Learn Design with Figma](https://www.figma.com/resources/learn-design/)
 - [Figma Academy](https://www.figma.academy/) - Product Design Program.
 - [Convert Figma design to production-ready app](https://twitter.com/Prathkum/status/1566390127181664258)
+- [Figma Alternatives](https://stackdiary.com/figma-alternatives/) ([HN](https://news.ycombinator.com/item?id=32865786))

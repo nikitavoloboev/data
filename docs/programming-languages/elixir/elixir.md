@@ -176,3 +176,4 @@
 - [How to speed up your Elixir compile times (2022)](https://medium.com/multiverse-tech/how-to-speed-up-your-elixir-compile-times-part-1-understanding-elixir-compilation-64d44a32ec6e)
 - [Elixir Secure Coding Training](https://github.com/podium/elixir-secure-coding)
 - [Elixir code style, a brief example](https://paraxial.io/blog/elixir-style) ([Reddit](https://www.reddit.com/r/elixir/comments/xehrep/elixir_code_style_a_brief_example/))
+- [Joy of Elixir (2020)](https://joyofelixir.com/toc.html) ([HN](https://news.ycombinator.com/item?id=32850016))

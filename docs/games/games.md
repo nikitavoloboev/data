@@ -64,6 +64,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Figure](https://figure.game/) - Daily logic puzzle game. ([HN](https://news.ycombinator.com/item?id=32376154))
 - [HaxBall](https://www.haxball.com/) - Physics-based multiplayer soccer game where teamwork is key.
 - [Kittens Game](https://kittensgame.com/web/) - Dark Souls of incremental gaming.
+- [Wikipedia Speedruns](https://wikispeedruns.com/) - Go from one wiki article to another as fast as possible.
 
 ## Awesome OSS games
 

@@ -20,3 +20,4 @@
 - [CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Converted CoreML Models Zoo.
 - [CoreGANContainer](https://github.com/john-rocky/CoreGANContainer) - Test your Core ML image generation Models.
 - [What’s new in CoreML](https://quindarius.com/articles/whats-new-in-coreml/index.html)
+- [CoreML Benchmark for the iPhone 14 Pro (2022)](https://www.photoroom.com/tech/core-ml-performance-2022/) ([HN](https://news.ycombinator.com/item?id=32871856))

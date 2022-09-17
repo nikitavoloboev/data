@@ -295,3 +295,4 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 - [KYC? Not me!](https://kycnot.me/) - Find NON-KYC exchanges and services to use and spend your crypto anonymously.
 - [TradeOgre](https://tradeogre.com/markets) - Digital Currency Exchange.
 - [HDWallet](https://github.com/shapeshift/hdwallet) - Library for interacting with hardware wallets from JS/TS.
+- [Whalemap](https://whalemap.io/) - Enhance your trading with blockchain data.

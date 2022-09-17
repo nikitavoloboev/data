@@ -890,3 +890,4 @@ title: Rust
 - [Rust Workshop (2022)](https://github.com/timClicks/cloud-native-rust)
 - [A personal list of Rust grievances](https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7) ([Lobsters](https://lobste.rs/s/luhkqm/personal_list_rust_grievances)) ([Reddit](https://www.reddit.com/r/rust/comments/xcw6m5/a_personal_list_of_rust_grievances/))
 - [Rust stabilizes generic associated types (2022)](https://news.ycombinator.com/item?id=32829806)
+- [Ten challenges for Rust (2022)](https://www.ncameron.org/blog/ten-challenges-for-rust/) ([Lobsters](https://lobste.rs/s/wh7jgy/ten_challenges_for_rust)) ([HN](https://news.ycombinator.com/item?id=32875053))

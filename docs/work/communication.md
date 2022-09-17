@@ -204,3 +204,4 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [Ideas for better 1 on 1's](https://twitter.com/swyx/status/1559268799840489476)
 - [Be good-argument-driven, not data-driven (2022)](http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html) ([HN](https://news.ycombinator.com/item?id=32651763))
 - [Inclusive Design Communities, A Book Apart](https://abookapart.com/products/inclusive-design-communities)
+- [Please don't be spooky (2022)](https://tiramisu.bearblog.dev/dont-be-spooky/) ([HN](https://news.ycombinator.com/item?id=32863175))

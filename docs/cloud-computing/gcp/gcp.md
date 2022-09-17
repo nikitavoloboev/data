@@ -128,3 +128,4 @@ Looking into [Railway](https://railway.app/) & [Cloudflare](https://www.cloudfla
 - [spanner-truncate](https://github.com/cloudspannerecosystem/spanner-truncate) - Tool to delete all rows from the tables in a Cloud Spanner database without deleting tables themselves.
 - [Google API Client Library for JavaScript](https://github.com/google/google-api-javascript-client)
 - [Google Cloud Platform ESPv2](https://github.com/GoogleCloudPlatform/esp-v2) - General-purpose L7 service proxy that enables API management capabilities for JSON/REST or gRPC API services.
+- [Datastream for BigQuery Preview](https://cloud.google.com/datastream-for-bigquery) ([HN](https://news.ycombinator.com/item?id=32868092))

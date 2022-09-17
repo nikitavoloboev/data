@@ -25,7 +25,7 @@
 - [Collaborative book on algorithms](https://www.algorithm-archive.org/) ([Code](https://github.com/algorithm-archivists/algorithm-archive))
 - [Algorithms in C by Robert Sedgewick](http://index-of.co.uk/Algorithms/Algorithms%20in%20C.pdf)
 - [Algorithm Design Manual](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
-- [MIT Introduction to Algorithms course (2020)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/) ([2011 course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/))
+- [MIT Introduction to Algorithms course (2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) ([2011 course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)) ([HN](https://news.ycombinator.com/item?id=32875396))
 - [How to implement an algorithm from a scientific paper (2012)](http://codecapsule.com/2012/01/18/how-to-implement-a-paper/)
 - [Quadsort](https://github.com/scandum/quadsort) - Stable non-recursive merge sort named quadsort.
 - [System design algorithms](https://github.com/resumejob/system-design-algorithms) - Algorithms you should know before system design.

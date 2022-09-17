@@ -2159,6 +2159,7 @@
 - [plmap](https://github.com/andrewchambers/plmap-rust) - Parallel pipelined map over iterators.
 - [tzdb](https://github.com/Kijewski/tzdb) - Static time zone information for tz-rs.
 - [atomic-wait](https://github.com/m-ou-se/atomic-wait) - Cross-platform atomic wait and wake (aka futex) functionality for Rust.
+- [Timer](https://github.com/Yoric/timer.rs) - Simple implementation of a timer for Rust.
 
 ## Cargo Plugins
 
