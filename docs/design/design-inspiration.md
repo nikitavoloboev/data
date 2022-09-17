@@ -996,6 +996,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Gikken](https://gikken.co/) - Amazing iOS & macOS software.
 - [milo](https://milo.adobe.com/)
 - [Evil Martians: 404](https://evilmartians.com/404)
+- [Leica M11, Black](https://leica-camera.com/en-int/photography/cameras/m/m11-black)
 
 ## Pages
 

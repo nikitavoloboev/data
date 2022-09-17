@@ -33,3 +33,4 @@ title: Cosmos
 - [Create Cosmos App](https://github.com/cosmology-tech/create-cosmos-app) - Set up a modern Cosmos app by running one command.
 - [CosmWasm IBC Queries](https://github.com/JakeHartnell/cw-ibc-queries) - Implements generic IBC queries in CosmWasm.
 - [Telescope](https://github.com/osmosis-labs/telescope) - TypeScript Transpiler for Cosmos Protobufs.
+- [Neutron](https://github.com/neutron-org/neutron) - Smart Contract platform secured by Cosmos Hub.

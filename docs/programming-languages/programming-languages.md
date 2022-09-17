@@ -420,3 +420,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [What would be your “perfect” programming language? (2022)](https://news.ycombinator.com/item?id=32807730)
 - [Ask HN: What is the coding exercise you use to explore a new language? (2022)](https://news.ycombinator.com/item?id=32836113)
 - [The Golden Age of PL Research (2022)](https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html)
+- [Brown CS: Programming Languages Course (2012)](https://cs.brown.edu/courses/csci1730/2012/)

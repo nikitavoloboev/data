@@ -251,3 +251,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Migrating primary drive on NixOS (2022)](https://lunnova.dev/articles/migrating-main-drive-nixos-tmpfs-root/)
 - [NixOS tooling for Hashicorp Vault](https://github.com/serokell/vault-secrets)
 - [My workflow with NixOS. How do I work with it (2022)](https://gianarb.it/blog/my-workflow-with-nixos)
+- [Allowing NixOS VM's to be run on macOS](https://github.com/NixOS/nixpkgs/issues/108984) ([Tweet](https://twitter.com/GabriellaG439/status/1571116853912825858))

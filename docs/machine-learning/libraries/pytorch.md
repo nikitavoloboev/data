@@ -443,3 +443,4 @@ title: PyTorch
 - [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/) ([Code](https://github.com/mrdbourke/pytorch-deep-learning))
 - [audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
 - [TorchEval](https://github.com/pytorch-labs/torcheval) - Library that contains a rich collection of performant PyTorch model metrics.
+- [C++ Torch Server](https://github.com/SABER-labs/Drogon-torch-serve) - Serve PyTorch / torch models using Drogon.

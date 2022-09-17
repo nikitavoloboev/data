@@ -345,3 +345,4 @@ Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for a
 - [Preact Signal Store](https://github.com/EthanStandel/preact-signal-store) - Use Preact Signals as full state management system.
 - [Preact unique tree identifiers (2022)](https://hallowed-fear-993.notion.site/Preact-unique-tree-identifiers-0683279d0d6c4cbc9eb75ccaab620000)
 - [Submit React form state without useState](https://twitter.com/DavidKPiano/status/1569361453928300545)
+- [ReactPixiFiber](https://github.com/michalochman/react-pixi-fiber) - React Fiber renderer for PixiJS.

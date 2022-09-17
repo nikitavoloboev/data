@@ -13,3 +13,4 @@ title: DuckDB
 - [Node-DuckDB](https://github.com/deepcrawl/node-duckdb) - Production ready DuckDB Node.js library written in TypeScript.
 - [Notes on the SQLite DuckDB Paper](https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/) ([HN](https://news.ycombinator.com/item?id=32684424))
 - [Query Processing on Tensor Computation Runtimes](https://www.vldb.org/pvldb/vol15/p2811-he.pdf) ([Tweet](https://twitter.com/__AlexMonahan__/status/1566053135390388225))
+- [Using DuckDB in Python to access Parquet data](https://til.simonwillison.net/duckdb/parquet) ([Tweet](https://twitter.com/simonw/status/1570968646096420864))

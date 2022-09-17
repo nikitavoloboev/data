@@ -683,3 +683,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [discv5](https://github.com/sigp/discv5) - Rust implementation of the Discovery v5 peer discovery protocol.
 - [Ethereum PoS merge explained (2022)](https://twitter.com/stonecoldpat0/status/1570338207258009600)
 - [huffplate](https://github.com/abigger87/huffplate) - Robust, Extensible Template for Huff Projects.
+- [optimint](https://github.com/celestiaorg/optimint) - ABCI-client implementation for Optimistic Rollups.

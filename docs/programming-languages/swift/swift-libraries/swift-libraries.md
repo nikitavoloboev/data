@@ -1252,6 +1252,7 @@
 - [AudioKitEX](https://github.com/AudioKit/AudioKitEX) - Extension to AudioKit contains all of the AudioKit features that rely on C/C++ DSP.
 - [Physical](https://github.com/hyperjeff/Physical) - Swift package for physical quantities.
 - [SwiftHooks](https://github.com/intuit/swift-hooks) - Little module for plugins, in Swift.
+- [AsyncLocationKit](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with new Concurency Model.
 
 ## Other (not lib)
 

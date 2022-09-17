@@ -24,3 +24,4 @@ title: tRPC
 - [Pushing the limits of Typescript - Interview w/ tRPC Creator Alex (KATT)](https://www.youtube.com/watch?v=Mm3Z5c1Linw)
 - [trpc-reducer](https://github.com/gabriel-frattini/trpc-reducer) - tRPC-ified react useReducer hook that lets you perform state logic in reducers just like React's useReducer hook.
 - [tRPC Client Devtools](https://github.com/rhenriquez28/trpc-client-devtools) - Unofficial tRPC Client Devtools extension.
+- [tRPC + React Query speed improvements](https://twitter.com/s4chinraja/status/1570658634039984128)
