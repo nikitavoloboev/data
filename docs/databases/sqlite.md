@@ -246,7 +246,7 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [sqlite_wasm](https://github.com/mycelial/sqlite_wasm) - SQLite extension for running arbitrary WASM bundles via Wasmtime.
 - [Mycelial](https://mycelial.com/) - Library, synchronize anywhere. Mycelite unifies your Edge and Cloud SQLite instances, peer-to-peer and without any data middleware. ([GitHub](https://github.com/mycelial))
 - [How the SQLite Virtual Machine Works (2022)](https://fly.io/blog/sqlite-virtual-machine/) ([HN](https://news.ycombinator.com/item?id=32750676))
-- [Marmot](https://github.com/maxpert/marmot) - Distributed SQLite replicator.
+- [Marmot](https://github.com/maxpert/marmot) - Distributed SQLite replicator. ([Reddit](https://www.reddit.com/r/golang/comments/xfybyj/marmot_a_distributed_sqlite_replicator/))
 - [Protobuf Extension for SQLite](https://github.com/rgov/sqlite_protobuf) - SQLite extension for extracting values from serialized Protobuf messages.
 - [s3sqlite](https://github.com/litements/s3sqlite) - Query SQLite databases in S3 using s3fs. ([HN](https://news.ycombinator.com/item?id=32828799))
 - [Litements](https://litements.exampl.io/) - Data structures implemented on top of SQLite. ([GitHub](https://github.com/litements/))

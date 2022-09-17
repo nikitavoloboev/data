@@ -22,4 +22,5 @@ title: tRPC
 - [rspc](https://github.com/oscartbeaumont/rspc) - Blazing fast and easy to use TRPC-like server for Rust.
 - [tRPC + Bun](https://github.com/sachinraja/trpc-bun)
 - [Pushing the limits of Typescript - Interview w/ tRPC Creator Alex (KATT)](https://www.youtube.com/watch?v=Mm3Z5c1Linw)
-- [trpc-reducer](https://github.com/gabriel-frattini/trpc-reducer) - trpc-ified react useReducer hook that lets you perform state logic in reducers just like React's useReducer hook.- [tRPC Client Devtools](https://github.com/rhenriquez28/trpc-client-devtools) - Unofficial tRPC Client Devtools extension.
+- [trpc-reducer](https://github.com/gabriel-frattini/trpc-reducer) - tRPC-ified react useReducer hook that lets you perform state logic in reducers just like React's useReducer hook.
+- [tRPC Client Devtools](https://github.com/rhenriquez28/trpc-client-devtools) - Unofficial tRPC Client Devtools extension.

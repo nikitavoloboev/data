@@ -607,3 +607,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Как чекисты придумали дело Ивана Сафронова (2022)](https://www.proekt.media/narrative/delo-ivana-safronova/)
 - [Проект медиа](https://www.proekt.media/) - Расследования, исследования данных.
 - [Russia's issue in diverting gas export to China (2022)](https://twitter.com/OAlexanderDK/status/1567117173008601088)
+- [Extending Russia: Competing from Advantageous Ground](https://www.rand.org/pubs/research_reports/RR3063.html)

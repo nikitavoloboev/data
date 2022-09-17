@@ -8,6 +8,7 @@ title: Astro
 
 - [Astro Starter Kit: Minimal](https://github.com/mattrothenberg/1kx-astro)
 - [Astro - Ink](https://github.com/one-aalam/astro-ink) - Crisp, minimal, personal blog theme for Astro.
+- [Astro Music](https://astro-music.netlify.app/) - Demo ssing Astro and the Shared Element Transition API. ([Code](https://github.com/Charca/astro-music))
 
 ## Links
 
@@ -52,3 +53,4 @@ title: Astro
 - [Astro + Vanilla Extract](https://github.com/markdalgleish/astro-vanilla-extract-demo)
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Makes it easy to add information that is relevant for SEO to your Astro app.
 - [Astro Auth](https://github.com/astro-community/astro-auth) - Easiest Way To Do Authentication In Astro.
+- [Seamless Page Transitions with Astro and Web Platform APIs (with Maxi Ferreira) (2022)](https://someantics.dev/astro-page-transitions/)
