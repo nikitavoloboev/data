@@ -793,6 +793,7 @@
   - [MariaDB](docs/databases/mariadb.md)
   - [PlanetScale](docs/databases/planetscale.md)
   - [ClickHouse](docs/databases/clickhouse.md)
+  - [SurrealDB](docs/databases/surrealdb.md)
   - [Blockchain](docs/databases/blockchain/blockchain.md)
     - [Solana](docs/databases/blockchain/solana.md)
     - [Ethereum](docs/databases/blockchain/ethereum.md)

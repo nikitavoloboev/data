@@ -197,3 +197,4 @@ title: Terraform
 - [Terraform Best Practices for AWS users](https://github.com/ozbillwang/terraform-best-practices)
 - [LTF](https://github.com/raymondbutcher/ltf) - Minimal, transparent Terraform wrapper. It makes Terraform projects easier to work with.
 - [Terraform Docs GCP Samples](https://github.com/terraform-google-modules/terraform-docs-samples)
+- [tfautomv](https://github.com/padok-team/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring.

@@ -247,6 +247,7 @@
 - [PyStan](https://github.com/stan-dev/pystan) - Python interface to Stan, a package for Bayesian inference.
 - [Statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 - [TriMap](https://github.com/eamid/trimap) - Large-scale Dimensionality Reduction Using Triplets.
+- [Metalibm](https://github.com/metalibm/metalibm) - Code generation tool to generate mathematical libraries.
 
 ## Physics
 

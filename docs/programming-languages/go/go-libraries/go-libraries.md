@@ -1956,3 +1956,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Planning Go 1.20 cryptography work (2022)](https://words.filippo.io/dispatches/go1-20/) ([HN](https://news.ycombinator.com/item?id=32819096))
 - [gta](https://github.com/digitalocean/gta) - Do transitive analysis to find packages whose dependencies have changed.
 - [Ent vs Bun (2022)](https://www.reddit.com/r/golang/comments/xe2djp/ent_vs_bun/)
+- [A Complete Guide to Logging in Go with Zerolog (2022)](https://betterstack.com/community/guides/logging/zerolog/)

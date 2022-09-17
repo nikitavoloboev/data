@@ -290,6 +290,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Patrick Watson | The Great Escape](https://www.youtube.com/watch?v=cVDjT10JR74)
 - [Febueder - Morning Yawn | A COLORS ENCORE](https://www.youtube.com/watch?v=eFY7t7_-rdE)
 - [ДДТ — Беда](https://www.youtube.com/watch?v=YKwqfNn9Ry8)
+- [Om Namah Shivaya - Krishna Das](https://www.youtube.com/watch?v=PTc8X37oJBE)
 
 ## Links
 

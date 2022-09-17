@@ -442,3 +442,4 @@ title: PyTorch
 - [Stannum](https://github.com/ifsheldon/stannum) - Fusing Taichi into PyTorch.
 - [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/) ([Code](https://github.com/mrdbourke/pytorch-deep-learning))
 - [audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
+- [TorchEval](https://github.com/pytorch-labs/torcheval) - Library that contains a rich collection of performant PyTorch model metrics.

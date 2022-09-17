@@ -290,3 +290,4 @@ title: Svelte
 - [Rustle](https://github.com/pintariching/rustle) - Svelte compiler rewritten in Rust. ([HN](https://news.ycombinator.com/item?id=32575086))
 - [SvelteKit: Semantic form actions, and easier progressive enhancement](https://github.com/sveltejs/kit/discussions/5875)
 - [Svelte Component Test Recipes](https://github.com/davipon/svelte-component-test-recipes)
+- [SvelteKit Basic Auth](https://github.com/ghostdevv/sveltekit-basic-auth)

@@ -2158,6 +2158,7 @@
 - [v_escape](https://github.com/botika/v_escape) - SIMD optimized escape code.
 - [plmap](https://github.com/andrewchambers/plmap-rust) - Parallel pipelined map over iterators.
 - [tzdb](https://github.com/Kijewski/tzdb) - Static time zone information for tz-rs.
+- [atomic-wait](https://github.com/m-ou-se/atomic-wait) - Cross-platform atomic wait and wake (aka futex) functionality for Rust.
 
 ## Cargo Plugins
 

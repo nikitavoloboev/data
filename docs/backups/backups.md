@@ -92,3 +92,4 @@ For programming, [Walrus](https://github.com/Clivern/Walrus) seems nice.
 - [Immutable backups so simple that unborkable](https://github.com/nathants/backup) ([Lobsters](https://lobste.rs/s/qfva1e/immutable_backups_so_simple_unborkable))
 - [Advice needed for backing up and hosting large amount of files (2022)](https://news.ycombinator.com/item?id=31996612)
 - [Restic Backup Docker Container](https://github.com/lobaro/restic-backup-docker)
+- [Extremely low cost backup to S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup) ([HN](https://news.ycombinator.com/item?id=32864052))
