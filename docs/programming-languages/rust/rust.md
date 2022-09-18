@@ -10,6 +10,10 @@ title: Rust
 
 - [Rust Service Template](https://github.com/sambacha/rust-service-template)
 
+## OSS Rust websites
+
+- [emojied](https://github.com/sekunho/emojied) - Fast URL shortener that uses emojis, only emojis. ([What I learned](https://blog.sekun.dev/posts/what-i-learned-from-building-a-rust-emoji-url-shortener/))
+
 ## Notes
 
 - [Note that `cargo check` is faster than doing a full compile. Also I use the `rust-analyzer` language server for IDE integration to catch errors as I write them. Between the two, my workflow usually avoids the need for actually compiling a binary until I'm ready to run tests.](https://news.ycombinator.com/item?id=21759255)
@@ -891,3 +895,5 @@ title: Rust
 - [A personal list of Rust grievances](https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7) ([Lobsters](https://lobste.rs/s/luhkqm/personal_list_rust_grievances)) ([Reddit](https://www.reddit.com/r/rust/comments/xcw6m5/a_personal_list_of_rust_grievances/))
 - [Rust stabilizes generic associated types (2022)](https://news.ycombinator.com/item?id=32829806)
 - [Ten challenges for Rust (2022)](https://www.ncameron.org/blog/ten-challenges-for-rust/) ([Lobsters](https://lobste.rs/s/wh7jgy/ten_challenges_for_rust)) ([HN](https://news.ycombinator.com/item?id=32875053))
+- [Create Rust binaries, and Docker images with Nix (2022)](https://blog.sekun.dev/posts/create-rust-binaries-and-docker-images-with-nix/)
+- [What I learned from building an emoji URL shortener in Rust (2022)](https://blog.sekun.dev/posts/what-i-learned-from-building-a-rust-emoji-url-shortener/)
