@@ -30,3 +30,4 @@ title: Bun
 - [PatchBay](https://github.com/harryrabin/bun-patchbay) - Modular, declarative web framework for Bun.
 - [Jarred Sumner - Bun (2022)](https://www.youtube.com/watch?v=1kP5YgeDj00)
 - [Melonpan](https://github.com/DarthBenro008/melonpan) - Simple and minimalistic web-router designed to work with Bun, keeping performance in mind.
+- [Bun AWS Lambda](https://github.com/Jarred-Sumner/bun-aws-lambda)

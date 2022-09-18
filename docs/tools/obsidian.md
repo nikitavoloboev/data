@@ -192,6 +192,7 @@ div.CodeMirror-cursor,
 - [Influx](https://github.com/jensmtg/influx) - Plugin for Obsidian that aggregates a terse stream of backlinked clippings in the footer of notes.
 - [Obsidian Diagrams.Net](https://github.com/jensmtg/obsidian-diagrams-net) - Inserting and editing diagrams.net diagrams.
 - [New Tab Default Page](https://github.com/chrisgrieser/new-tab-default-page) - Open a note of your choice when creating a new tab, like in the browser.
+- [Obsidian 3D Graph](https://github.com/AlexW00/obsidian-3d-graph)
 
 ## Themes
 

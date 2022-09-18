@@ -199,3 +199,4 @@ title: Genomics
 - [La Jolla Assembler](https://github.com/AntonBankevich/LJA) - Tool for genome assembly from PacBio HiFI reads based on de Bruijn graphs.
 - [GENA-LM](https://github.com/AIRI-Institute/GENA_LM) - Transformer masked language model trained on human DNA sequence.
 - [RagTag](https://github.com/malonge/RagTag) - Tools for fast and flexible genome assembly scaffolding and improvement.
+- [Two-layer design protects genes from mutations in their enhancers (2022)](https://www.nature.com/articles/d41586-022-02341-3)

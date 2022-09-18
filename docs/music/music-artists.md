@@ -291,6 +291,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Febueder - Morning Yawn | A COLORS ENCORE](https://www.youtube.com/watch?v=eFY7t7_-rdE)
 - [ДДТ — Беда](https://www.youtube.com/watch?v=YKwqfNn9Ry8)
 - [Om Namah Shivaya - Krishna Das](https://www.youtube.com/watch?v=PTc8X37oJBE)
+- [The Dog Days Are Over - Florence](https://www.youtube.com/watch?v=0HuYEOO2r1g) ([Reddit](https://www.reddit.com/r/videos/comments/xfdlja/florence_and_the_machine_beautifully_serenading_a/))
 
 ## Links
 

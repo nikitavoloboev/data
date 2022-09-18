@@ -122,3 +122,4 @@
 - [Building open source downscaling pipelines for the cloud (2022)](https://carbonplan.org/blog/cloud-downscaling-pipelines)
 - [Dabbling with Dagster vs. Airflow (2022)](https://davidsj.substack.com/p/dabbling-with-dagster-part-1) ([HN](https://news.ycombinator.com/item?id=32839147))
 - [Mage](https://www.mage.ai/) - Data pipelines for data scientists. ([Code](https://github.com/mage-ai/mage-ai))
+- [Merriam-Webster and Unstructured Data Processing (2022)](https://www.georgeho.org/webster-unstructured-data/)

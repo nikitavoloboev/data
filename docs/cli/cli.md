@@ -155,3 +155,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [run-pty](https://github.com/lydell/run-pty) - Run several commands concurrently. Show output for one command at a time. Kill all at once.
 - [headtail](https://github.com/CleanCut/headtail) - Head and tail simultaneously.
 - [enquirer](https://github.com/termapps/enquirer) - Command Line Utility for Stylish Interactive Prompts.
+- [Your favorite Rust CLI utilities this year (2022)](https://www.reddit.com/r/rust/comments/xgwe4u/your_favourite_rust_cli_utilities_this_year/)

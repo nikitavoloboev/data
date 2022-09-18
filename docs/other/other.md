@@ -672,3 +672,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Boxes.py](https://festi.info/boxes.py/) - Create boxes and more with a laser cutter. ([HN](https://news.ycombinator.com/item?id=32778048))
 - [Bored Wizards Discord](https://discord.com/invite/aF8m3nyV)
 - [CodeBookClub Discord](https://discord.com/invite/b9dJAfHvxN)
+- [Ask HN: Where are the interesting conversations? (2022)](https://news.ycombinator.com/item?id=32886926)

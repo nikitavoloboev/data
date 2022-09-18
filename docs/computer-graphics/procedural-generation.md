@@ -56,3 +56,4 @@
 - [Rant](https://github.com/rant-lang/rant) - Dynamically-typed, multi-paradigm templating language designed primarily for procedural generation.
 - [FunUTD](https://github.com/SamiPerttu/funutd) - 3-D procedural texture library running on the CPU.
 - [Vulkan infinite procedurally generated terrain](https://github.com/SaschaWillems/VulkanInfiniteProceduralTerrain)
+- [Material Map Generator](https://github.com/joeyballentine/Material-Map-Generator) - Easily create AI generated Normal maps, Displacement maps, and Roughness maps.
