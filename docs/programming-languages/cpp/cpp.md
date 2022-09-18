@@ -366,4 +366,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Extreme Integers – Doom from Below (2022)](https://luckyresistor.me/2022/09/04/extreme-integers-doom-from-below/)
 - [Use-after-freedom: MiraclePtr (2022)](https://security.googleblog.com/2022/09/use-after-freedom-miracleptr.html?m=1)
 - [CppCon](https://cppcon.org/) ([HN](https://news.ycombinator.com/item?id=32875246))
-- [Cppfront](https://github.com/hsutter/cppfront) - Personal experimental C++ Syntax 2 -> Syntax 1 compiler.
+- [Cppfront](https://github.com/hsutter/cppfront) - Herb Sutter's proposal for a new C++ syntax. ([HN](https://news.ycombinator.com/item?id=32877814))

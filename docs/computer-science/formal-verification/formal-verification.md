@@ -139,3 +139,4 @@ title: Formal verification
 - [Safety and Liveness Properties (2022)](https://www.hillelwayne.com/post/safety-and-liveness/)
 - [The Hitchhiker’s Guide to Logical Verification](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
 - [State of the art for formal verification (2022)](https://twitter.com/sc13ts/status/1570874982930219008)
+- [Why are you being constructive? (2022)](https://lawrencecpaulson.github.io/2022/04/20/Why-constructive.html)

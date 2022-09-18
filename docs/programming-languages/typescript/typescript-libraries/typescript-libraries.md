@@ -81,6 +81,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Query Key Factory](https://github.com/lukemorales/query-key-factory) - Typesafe query key management for @tanstack/query with auto-completion features.
 - [Hyper Fetch](https://github.com/BetterTyped/hyper-fetch) - Backend agnostic fetching framework for any JS environment - queues, caching, persistence, builders, commands, offline and more.
 - [zhead](https://github.com/harlan-zw/zhead) - Fully-typed utilities for defining, validating and building your document head.
+- [Farfetched](https://github.com/igorkamyshev/farfetched) - Advanced data fetching tool for web applications.
 
 ## GraphQL
 
@@ -618,6 +619,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [remember-promise](https://github.com/redabacha/remember-promise) - Remembering promises that were made.
 - [Angu](https://github.com/jsdw/angu) - Small DSL/interpreter that can be used to evaluate simple expressions.
 - [typed-file-system-path](https://github.com/craftweg/typed-file-system-path) - Typed primitives for Typescript to work with file paths.
+- [znv](https://github.com/lostfictions/znv) - Type-safe environment parsing and validation for Node.js with Zod schemas.
 
 ## Links
 

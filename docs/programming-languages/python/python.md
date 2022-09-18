@@ -539,3 +539,4 @@ for i, _ in enumerate(nums):
 - [Python Type Hints are Turing Complete (2022)](https://arxiv.org/abs/2208.14755) ([HN](https://news.ycombinator.com/item?id=32779296)) ([Code](https://github.com/OriRoth/python-typing-machines))
 - [Scalpel](https://github.com/SMAT-Lab/Scalpel) - Python Static Analysis Framework.
 - [Embedded Python Interpreter for Go](https://github.com/kluctl/go-embed-python)
+- [autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables from Python code.

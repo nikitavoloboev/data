@@ -126,3 +126,4 @@ title: Electrical engineering
 - [gdsfactory](https://github.com/gdsfactory/gdsfactory) - EDA (electronics design automation) tool for Integrated Circuits.
 - [Most common components in electronics](https://github.com/joaocarvalhoopen/Most_common_components_in_electronics)
 - [Which logic gates can build other logic gates?](https://www.quora.com/Which-logic-gates-can-build-other-logic-gates)
+- [TinyTapeout](https://mailchi.mp/574276e3c9d7/tinytapeout) - Educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip.

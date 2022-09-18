@@ -173,3 +173,4 @@
 - [Universal Headers](https://github.com/ziglang/universal-headers) - Distributes a set of C headers (.h files) that are compatible with widely used libcs for various targets.
 - [Serd](https://github.com/drobilla/serd) - Lightweight C library for RDF syntax.
 - [libpostal](https://github.com/openvenues/libpostal) - C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
+- [J40](https://github.com/lifthrasiir/j40) - Independent, self-contained JPEG XL decoder. ([HN](https://news.ycombinator.com/item?id=32885203))

@@ -8,6 +8,7 @@ title: Expo
 
 ## Example OSS apps
 
+- [Create-T3-Turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native.
 - [Expo Starter template](https://github.com/calebnance/expo-starter)
 - [Turborepo starter with Expo and tRPC](https://github.com/gunnnnii/turbo-expo-trpc-starter)
 - [Meditation App](https://github.com/jackburrus/MeditationApp) - Built with Expo.

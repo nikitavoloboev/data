@@ -399,3 +399,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Music video typography trend](https://twitter.com/domesticetch/status/1567160302675836929)
 - [Color fonts on Google Fonts (2022)](https://material.io/blog/color-fonts-are-here) ([HN](https://news.ycombinator.com/item?id=32835806))
 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) ([Tweet](https://twitter.com/jh3yy/status/1570128686287839238))
+- [Diffenator](https://github.com/googlefonts/fontdiffenator) - Python 3 library/tool to compare two TTF fonts against each other.

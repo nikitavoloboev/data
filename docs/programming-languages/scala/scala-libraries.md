@@ -196,6 +196,7 @@
 - [Nyaya](https://github.com/japgolly/nyaya) - Random Data Generation and/or Property Testing in Scala & Scala.JS.
 - [Shardcake](https://github.com/devsisters/shardcake) - Sharding and location transparency for Scala.
 - [ZIO Compose](https://github.com/tailcallhq/zio-compose) - Scala DSL to write type-safe programs for distributed computing.
+- [feral](https://github.com/typelevel/feral) - Framework for writing serverless functions in Scala with Cats Effect and deploying them to the cloud, targeting both JVM and JavaScript runtimes.
 
 ## Links
 

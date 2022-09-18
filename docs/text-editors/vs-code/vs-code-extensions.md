@@ -282,7 +282,7 @@ Below is a list of extensions I use.
 
 ## CSS
 
-- [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [Stylelint](https://stylelint.io/).
+- [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [Stylelint](https://stylelint.io/). ([Stylelint-Order](https://github.com/hudochenkov/stylelint-order))
 - [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information CSS colors.
 - [Twind Intellisense](https://github.com/itsMapleLeaf/vscode-twind) - VSCode extension for twind.
 - [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules) - Extension for CSS Modules. ([Code](https://github.com/clinyong/vscode-css-modules))

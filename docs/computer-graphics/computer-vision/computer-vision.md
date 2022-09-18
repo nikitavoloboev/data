@@ -928,3 +928,4 @@
 - [The Follower - Using open cameras and AI to find how an Instagram photo is taken](https://driesdepoorter.be/thefollower/) ([Tweet](https://twitter.com/driesdepoorter/status/1569285878089908231))
 - [Image Segmentation Using Text and Image Prompts (2022)](https://arxiv.org/abs/2112.10003) ([Code](https://github.com/timojl/clipseg))
 - [Knowledge Distillation from A Stronger Teacher (2022)](https://arxiv.org/abs/2205.10536) ([Code](https://github.com/hunto/DIST_KD))
+- [Learning Pixel Trajectories with Multiscale Contrastive Random Walks (2022)](https://arxiv.org/abs/2201.08379) ([Code](https://github.com/jasonbian97/flowwalk))

@@ -305,3 +305,4 @@ title: React Native
 - [RNN Screens](https://github.com/kanzitelli/rnn-screens) - Predictable Navigation for React Native.
 - [React Native Permissions](https://github.com/zoontek/react-native-permissions) - Unified permissions API for React Native on iOS and Android.
 - [React Native Hero Icons](https://github.com/nandorojo/react-native-heroicons)
+- [React Native Animation Samples](https://github.com/Aashu-Dubey/react-native-animation-samples) - Gesture based interruptible animation samples in React Native.

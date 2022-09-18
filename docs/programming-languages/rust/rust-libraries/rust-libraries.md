@@ -59,6 +59,7 @@
 - [Requestty](https://github.com/Lutetium-Vanadium/requestty) - Easy-to-use collection of interactive cli prompts inspired by Inquirer.js.
 - [getargs](https://github.com/j-tai/getargs) - Truly zero-cost argument parser for Rust.
 - [Anathema](https://github.com/togglebyte/anathema) - TUI library in Rust with a custom templating language and runtime.
+- [Intuitive](https://github.com/enricozb/intuitive) - Library for building declarative text-based user interfaces.
 
 ## Web
 
@@ -722,6 +723,7 @@
 - [xhypervisor](https://github.com/RWTH-OS/xhypervisor) - Rust API to the OS X Hypervisor framework for hardware-accelerated virtualization.
 - [macos-UnifiedLogs](https://github.com/mandiant/macos-UnifiedLogs) - Simple Rust library that can help parse the macOS Unified Log files.
 - [vmnet](https://github.com/edigaryev/vmnet) - Apple's vmnet.framework bindings for Rust.
+- [apple-platform-rs](https://github.com/indygreg/apple-platform-rs) - Rust crates supporting Apple platform development.
 
 ## Macros
 
@@ -2160,6 +2162,7 @@
 - [tzdb](https://github.com/Kijewski/tzdb) - Static time zone information for tz-rs.
 - [atomic-wait](https://github.com/m-ou-se/atomic-wait) - Cross-platform atomic wait and wake (aka futex) functionality for Rust.
 - [Timer](https://github.com/Yoric/timer.rs) - Simple implementation of a timer for Rust.
+- [toml_edit](https://github.com/ordian/toml_edit) - Format-preserving TOML parser.
 
 ## Cargo Plugins
 

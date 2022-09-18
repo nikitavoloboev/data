@@ -95,3 +95,4 @@ Is logical theory of computable functions.
 - [Telomare](https://github.com/sfultong/stand-in-language) - Simple total pure functional language, eventually to have powerful static checking and optimization.
 - [LSTS: Large Scale Type Systems](https://github.com/andrew-johnson-4/LSTS) - Categorical view of Typed Lambda Calculus with flexible Soundness guarantees.
 - [Janus](https://github.com/svobot/janus) - λ-calculus in Quantitative Type Theory.
+- [Explorations in the untyped lambda calculus (2014)](https://flownet.com/ron/lambda-calculus.html)

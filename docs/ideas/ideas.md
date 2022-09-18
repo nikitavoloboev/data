@@ -134,3 +134,4 @@ I try to give my full attention to any ideas I am working on.
 - [Small Bets](https://dvassallo.gumroad.com/l/small-bets)
 - [Ask HN: Those making $500/month on side projects in 2022 – Show and tell](https://news.ycombinator.com/item?id=32806068)
 - [Ask HN: What interesting problems are you working on? (2022)](https://news.ycombinator.com/item?id=32865428)
+- [Ask HN: How to validate a startup idea whilst employed?](https://news.ycombinator.com/item?id=32875224)

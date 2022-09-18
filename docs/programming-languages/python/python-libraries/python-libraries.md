@@ -74,7 +74,7 @@
 - [GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python.
 - [Chaospy](https://github.com/jonathf/chaospy) - Toolbox for performing uncertainty quantification.
 - [Categorical Encoding Methods](https://github.com/scikit-learn-contrib/categorical-encoding) - Library of sklearn compatible categorical variable encoders.
-- [Pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly. ([Docs](https://pyodide.org/en/stable/)) ([Tweet](https://twitter.com/DynamicWebPaige/status/1449235466809589767))
+- [Pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly. ([Docs](https://pyodide.org/en/stable/)) ([Tweet](https://twitter.com/DynamicWebPaige/status/1449235466809589767)) ([micropip](https://github.com/pyodide/micropip))
 - [AtsPy](https://github.com/firmai/atspy) - Automated Time Series Models in Python.
 - [iterative-stratification](https://github.com/trent-b/iterative-stratification) - scikit-learn cross validators for iterative stratification of multilabel data.
 - [PyMeasure](https://github.com/ralph-group/pymeasure) - Scientific measurement library for instruments, experiments, and live-plotting.

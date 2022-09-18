@@ -41,3 +41,5 @@ title: Logseq
 - [Logseq Luma Theme](https://github.com/gavinmn/logseq-luma) - Minimal and detail oriented light and dark theme for Logseq.
 - [New website on logseq hugo (2022)](https://beta.briansunter.com/pages/new-website-on-logseq-hugo)
 - [Logseq Plugin API docs](https://plugins-doc.logseq.com/) ([Code](https://github.com/logseq/plugins))
+- [Logseq Todo Plugin](https://github.com/ahonn/logseq-plugin-todo) - Simple to-do list plugin for logseq.
+- [Logseq Plugin Template React](https://github.com/pengx17/logseq-plugin-template-react)

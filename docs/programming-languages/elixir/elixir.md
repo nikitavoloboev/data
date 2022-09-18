@@ -177,3 +177,4 @@
 - [Elixir Secure Coding Training](https://github.com/podium/elixir-secure-coding)
 - [Elixir code style, a brief example](https://paraxial.io/blog/elixir-style) ([Reddit](https://www.reddit.com/r/elixir/comments/xehrep/elixir_code_style_a_brief_example/))
 - [Joy of Elixir (2020)](https://joyofelixir.com/toc.html) ([HN](https://news.ycombinator.com/item?id=32850016))
+- [Ultimate Elixir CI](https://github.com/felt/ultimate-elixir-ci) - Sample Elixir project with a robust GitHub Actions CI.

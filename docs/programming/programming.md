@@ -591,3 +591,4 @@
 - [Ask HN: Does anyone have a great public domain list of programming books? (2022)](https://news.ycombinator.com/item?id=32788281)
 - [Ask HN: What's the best source code you've read? (2022)](https://news.ycombinator.com/item?id=32793534)
 - [The Perfect Development Environment (2022)](https://cpojer.net/posts/the-perfect-development-environment)
+- [Ask HN: Inherited the worst code and tech team I have ever seen. How to fix it? (2022)](https://news.ycombinator.com/item?id=32883596)

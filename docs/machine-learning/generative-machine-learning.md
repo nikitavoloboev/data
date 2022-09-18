@@ -60,3 +60,4 @@
 - [Swift Diffusion](https://github.com/liuliu/swift-diffusion) - Single-file re-implementation of Stable Diffusion model.
 - [From Deep Learning Foundations to Stable Diffusion (2022)](https://www.fast.ai/posts/part2-2022.html) ([HN](https://news.ycombinator.com/item?id=32864783))
 - [Production software using OpenAI GPT-3 APIs](https://twitter.com/simonw/status/1570820425877434368)
+- [CHARL-E](https://github.com/cbh123/charl-e) - Run Stable Diffusion on your M1 Mac. ([HN](https://news.ycombinator.com/item?id=32878626))

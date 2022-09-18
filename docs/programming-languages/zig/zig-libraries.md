@@ -51,6 +51,10 @@
 - [wasmer-zig](https://github.com/zigwasm/wasmer-zig) - Zig bindings for the Wasmer WebAssembly runtime.
 - [zig-wasm3](https://github.com/alichay/zig-wasm3) - Zig bindings (and build system integration) for Wasm3.
 
+## Games
+
+- [Cupcake](https://github.com/bootradev/cupcake) - App framework for making small and delicious games.
+
 ## macOS
 
 - [ZigKit](https://github.com/kubkon/ZigKit) - Native Zig bindings for low-level macOS frameworks.
@@ -151,3 +155,4 @@
 - [ABI Zig \<\> TypeScript](https://gist.github.com/rasmusmerzin/b514e3416311c9acf4dbc3d1911e1ad3) - Passing strings between Zig and TypeScript.
 - [What's the 'ziggy' way to pass a readable stream to a function? (2022)](https://www.reddit.com/r/Zig/comments/vk4o4a/whats_the_ziggy_way_to_pass_a_readable_stream_to/)
 - [mach/wasmserve](https://github.com/machlibs/wasmserve) - Small web server specifically for serving Zig WASM applications in development.
+- [zig-fetch](https://github.com/bootradev/zig-fetch) - Dependency management solution for zig projects.

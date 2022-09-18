@@ -507,3 +507,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [iOS Performance Benchmarks using JavaScript for Universal Platform Development (2022)](https://blog.nativescript.org/perf-metrics-universal-javascript-part1/)
 - [MTHawkeye](https://github.com/meitu/MTHawkeye) - Profiling / Debugging assist tools for iOS.
 - [iOS Widgets course](https://seanallen.teachable.com/p/widgets)
+- [kairos](https://github.com/dayt0n/kairos) - 64-bit iOS boot image patcher written in C.
