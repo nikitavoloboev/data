@@ -161,3 +161,4 @@ title: JSON
 - [JSON Crack](https://jsoncrack.com/) - Visualize JSON data into graphs. ([HN](https://news.ycombinator.com/item?id=32626873))
 - [JSON to JSON Schema](https://github.com/Redocly/json-to-json-schema) - Convert JSON examples into JSON schema (supports Swagger 2, OpenAPI 3 and 3.1).
 - [JSON Schema Viewer](https://navneethg.github.io/jsonschemaviewer/) - Visualize JSON schemas. ([Code](https://github.com/navneethg/jsonschemaviewer))
+- [jqp](https://github.com/noahgorstein/jqp) - TUI playground to experiment with jq.

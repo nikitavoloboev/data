@@ -174,3 +174,4 @@
 - [Serd](https://github.com/drobilla/serd) - Lightweight C library for RDF syntax.
 - [libpostal](https://github.com/openvenues/libpostal) - C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [J40](https://github.com/lifthrasiir/j40) - Independent, self-contained JPEG XL decoder. ([HN](https://news.ycombinator.com/item?id=32885203))
+- [nsync](https://github.com/google/nsync) - C library that exports various synchronization primitives, such as mutexes.

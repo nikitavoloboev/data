@@ -278,3 +278,4 @@
 - [Notes on Theory of Distributed Systems](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf) ([HN](https://news.ycombinator.com/item?id=32584845))
 - [Distributed Algorithms 2020](https://jukkasuomela.fi/da2020/)
 - [Shadow Simulator](https://github.com/shadow/shadow) - Discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems.
+- [Aneris](https://github.com/logsem/aneris) - Program logic for developing and verifying distributed systems.

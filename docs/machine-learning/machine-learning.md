@@ -936,3 +936,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Learning to Accelerate Partial Differential Equations via Latent Global Evolution (2022)](https://arxiv.org/abs/2206.07681)
 - [Intro to Transformers (2022)](https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/edit#slide=id.g31364026ad_3_2) ([Tweet](https://twitter.com/giffmana/status/1570152923233144832))
 - [Maximum Likelihood Training of Implicit Nonlinear Diffusion Models (2022)](https://arxiv.org/abs/2205.13699) ([Code](https://github.com/byeonghu-na/INDM))
+- [On the Paradox of Learning to Reason from Data (2022)](http://starai.cs.ucla.edu/papers/ZhangArxiv22.pdf)

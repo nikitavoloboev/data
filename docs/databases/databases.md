@@ -686,3 +686,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [echodb](https://github.com/surrealdb/echodb) - Embedded, in-memory, immutable, copy-on-write, key-value database engine.
 - [Retrospection and Learnings from Dgraph Labs (2022)](https://manishrjain.com/dgraph-labs-learnings) ([HN](https://news.ycombinator.com/item?id=32867613))
 - [Database concepts you wish you understood better (2022)](https://twitter.com/aarondfrancis/status/1570895651067822082)
+- [A minimal distributed key-value database with Hashicorp's Raft library (2022)](https://notes.eatonphil.com/minimal-key-value-store-with-hashicorp-raft.html)

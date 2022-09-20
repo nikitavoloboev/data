@@ -210,3 +210,5 @@
 - [Cene Mk](https://github.com/era-platform/cene-for-racket) - Lisp lookalike with hygienic open-world and closed-world compiler extension.
 - [MalbolgeLISP](https://github.com/kspalaiologos/malbolge-lisp) - LISP interpreter written in Malbolge.
 - [LambdaLisp](https://github.com/woodrush/lambdalisp) - Lisp Interpreter That Runs on Lambda Calculus. ([Article](https://woodrush.github.io/blog/lambdalisp.html)) ([HN](https://news.ycombinator.com/item?id=32879848))
+- [Mini Lisp with Cheney GC](https://github.com/Robert-van-Engelen/lisp-cheney) ([Reddit](https://www.reddit.com/r/lisp/comments/xhnt9q/mini_lisp_in_under_1k_lines_of_c_cheney_or/))
+- [Mini Lisp with mark-sweep GC](https://github.com/Robert-van-Engelen/lisp)

@@ -292,4 +292,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Technical Writing for Developers (2022)](https://css-tricks.com/technical-writing-for-developers/) ([HN](https://news.ycombinator.com/item?id=32110690))
 - [Ask HN: Any great books about technical writing? (2022)](https://news.ycombinator.com/item?id=32342493)
 - [Walter Benjamin's rules for writing](https://twitter.com/Samantharhill/status/1566398330468433921)
-- [How James Clear is Writing His Next Book](https://every.to/superorganizers/how-james-clear-is-writing-his-next-book)
+- [How James Clear is Writing His Next Book](https://every.to/superorganizers/how-james-clear-is-writing-his-next-book) ([HN](https://news.ycombinator.com/item?id=32887140))

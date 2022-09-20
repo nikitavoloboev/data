@@ -401,3 +401,5 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [hdr10plus_tool](https://github.com/quietvoid/hdr10plus_tool) - CLI utility to work with HDR10+ in HEVC files.
 - [subtitle_tonemap](https://github.com/quietvoid/subtitle_tonemap) - Maps PGS subtitles to a different color/brightness.
 - [Simple TikTok Video Downloader](https://github.com/rouze-d/tiktok-download)
+- [Pros/Cons of video editing tools (2022)](https://twitter.com/t3dotgg/status/1571239973252378627)
+- [What does the web of video look like?](https://twitter.com/amasad/status/1571540482412646401)

@@ -972,6 +972,7 @@
 - [Duct](https://github.com/oconnor663/duct.py) - Python library for running child processes.
 - [String Grouper](https://github.com/Bergvca/string_grouper) - Super Fast String Matching in Python.
 - [HAX](https://github.com/brandtbucher/hax) - Write compiled bytecode inline with pure Python.
+- [redframes](https://github.com/maxhumber/redframes) - Python data manipulation library like dplyr. ([Lobsters](https://lobste.rs/s/yat4wf/redframes_python_data_manipulation))
 
 ## Notes
 

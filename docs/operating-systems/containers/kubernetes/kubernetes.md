@@ -817,3 +817,5 @@ title: Kubernetes
 - [Constellation](https://github.com/edgelesssys/constellation) - Kubernetes engine that aims to provide the best possible data security.
 - [KubeProber](https://github.com/erda-project/kubeprober) - Large-scale Kubernetes cluster diagnostic tool.
 - [vault-k8s](https://github.com/hashicorp/vault-k8s) - First-class support for Vault and Kubernetes.
+- [Why Fix Kubernetes and Systemd? (2022)](https://medium.com/@kris-nova/why-fix-kubernetes-and-systemd-782840e50104) ([HN](https://news.ycombinator.com/item?id=32888538))
+- [Under-documented Kubernetes Security Tips (2022)](https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips/)

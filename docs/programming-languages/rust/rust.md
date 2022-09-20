@@ -897,3 +897,4 @@ title: Rust
 - [Ten challenges for Rust (2022)](https://www.ncameron.org/blog/ten-challenges-for-rust/) ([Lobsters](https://lobste.rs/s/wh7jgy/ten_challenges_for_rust)) ([HN](https://news.ycombinator.com/item?id=32875053))
 - [Create Rust binaries, and Docker images with Nix (2022)](https://blog.sekun.dev/posts/create-rust-binaries-and-docker-images-with-nix/)
 - [What I learned from building an emoji URL shortener in Rust (2022)](https://blog.sekun.dev/posts/what-i-learned-from-building-a-rust-emoji-url-shortener/)
+- [Duolingo but for learning Rust](https://twitter.com/solanobahn/status/1571172677829726209)

@@ -292,6 +292,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [ДДТ — Беда](https://www.youtube.com/watch?v=YKwqfNn9Ry8)
 - [Om Namah Shivaya - Krishna Das](https://www.youtube.com/watch?v=PTc8X37oJBE)
 - [The Dog Days Are Over - Florence](https://www.youtube.com/watch?v=0HuYEOO2r1g) ([Reddit](https://www.reddit.com/r/videos/comments/xfdlja/florence_and_the_machine_beautifully_serenading_a/))
+- [This is the Kit - Vitamins](https://www.youtube.com/watch?v=Ub8GecAbDEs)
 
 ## Links
 

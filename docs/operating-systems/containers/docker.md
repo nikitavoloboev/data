@@ -262,3 +262,4 @@ Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432
 - [Lug](https://github.com/trytoolchest/lug) - Lug lets you run Python functions paired with any Docker container.
 - [docker-api](https://github.com/vv9k/docker-api-rs) - Rust interface to Docker containers.
 - [Running Docker images without Docker (2022)](https://jakub-m.github.io/2022/09/10/docker.html)
+- [Why use docker for a home server?](https://blog.viraptor.info/post/why-use-docker-for-a-home-server) ([Lobsters](https://lobste.rs/s/rhdjge/why_use_docker_for_home_server))

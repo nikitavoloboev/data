@@ -201,3 +201,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Search less, browse more](https://buttondown.email/hillelwayne/archive/search-less-browse-more-7595/) ([Lobsters](https://lobste.rs/s/g4ku0m/search_less_browse_more))
 - [Ask HN: Whats the best SDK documentation you’ve ever read, and why? (2022)](https://news.ycombinator.com/item?id=32794330)
 - [parse-changelog](https://github.com/taiki-e/parse-changelog) - Simple changelog parser, written in Rust.
+- [I’m a Productive Programmer with a Memory of a Fruit Fly](https://hynek.me/articles/productive-fruit-fly-programmer/)

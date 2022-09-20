@@ -95,3 +95,4 @@ title: Fuzzing
 - [Fuzz Map](https://www.fuzzmap.io/) - GUI fuzzer, interactive demo. ([HN](https://news.ycombinator.com/item?id=32578311))
 - [Frameshifter](https://github.com/bahruzjabiyev/frameshifter) - Grammar-based HTTP/2 fuzzer with mutation ability.
 - [czz](https://github.com/langston-barrett/czz) - Whole-program, scriptable, multi-language, coverage-guided fuzzer.
+- [Jit-Picking: Differential Fuzzing of JavaScript Engines (2022)](https://publications.cispa.saarland/3773/)

@@ -4,6 +4,7 @@ Many people still have bad stigma attached of people sharing nudes in public but
 
 ## IG
 
+- [Marine Fried](https://www.instagram.com/marine_fried/)
 - [Nazar Elcansky](https://www.instagram.com/elcansky/) ([Web](https://app.milanote.com/1NjHr51QeXd488/elcansky?p=TQ4F6y5rXqo)) ([Twitter](https://twitter.com/elcansky))
 - [Lina Scheynius](https://www.instagram.com/linascheynius/)
 - [Koleso Sobaki](https://www.instagram.com/koleso_sobaki/) ([Twitter](https://twitter.com/KolesoSobaki))
