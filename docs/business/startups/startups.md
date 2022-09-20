@@ -79,6 +79,7 @@
 - [Success in startups is directly proportional to the number of hard conversations you are willing to have.](https://twitter.com/davemorin/status/1528046691068170240)
 - [Many aspiring entrepreneurs get stuck trying to invent a new product to sell. It's a trap. 99.9% of successful businesses sell an established product in a new way.](https://twitter.com/mikebeckhamsm/status/1529660253692129280)
 - [Entrepreneurship isn’t about having the right idea. It’s about having an idea and not running out of money until you figure out what makes it right.](https://twitter.com/_shahedk/status/1536727913629773826)
+- [Once you’ve found product market fit, delegating almost everything to people way smarter than you should be your main goal as a startup founder.](https://twitter.com/agazdecki/status/1571987984580513793)
 
 ## Links
 

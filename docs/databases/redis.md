@@ -21,7 +21,7 @@ title: Redis
 - [KeyDB](https://github.com/JohnSully/KeyDB) - High performance fork of Redis with a focus on multithreading, memory efficiency, and high throughput. ([Web](https://keydb.dev/index.html))
 - [twemproxy](https://github.com/twitter/twemproxy) - Fast, light-weight proxy for memcached and redis.
 - [RediSQL](https://github.com/RedBeardLab/rediSQL) - Fast, in-memory, SQL engine with batteries included.
-- [Medis](https://github.com/luin/medis) - Beautiful, easy-to-use Mac database management application for Redis.
+- [Medis](https://github.com/luin/medis) - Beautiful, easy-to-use Mac database management application for Redis. ([Web](https://getmedis.com/))
 - [How to write a Redis Client in Python, from Scratch (2020)](https://www.youtube.com/watch?v=C5KkQUKhc_4)
 - [Redis Cluster Proxy](https://github.com/artix75/redis-cluster-proxy) - Proxy for Redis Clusters.
 - [ioredis](https://github.com/luin/ioredis) - Robust, performance-focused and full-featured Redis client for Node.js.

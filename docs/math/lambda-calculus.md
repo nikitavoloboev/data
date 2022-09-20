@@ -96,3 +96,4 @@ Is logical theory of computable functions.
 - [LSTS: Large Scale Type Systems](https://github.com/andrew-johnson-4/LSTS) - Categorical view of Typed Lambda Calculus with flexible Soundness guarantees.
 - [Janus](https://github.com/svobot/janus) - λ-calculus in Quantitative Type Theory.
 - [Explorations in the untyped lambda calculus (2014)](https://flownet.com/ron/lambda-calculus.html)
+- [A simple and efficient implementation of strong call by need by an abstract machine (2022)](https://dl.acm.org/doi/10.1145/3549822) ([Code](https://gist.github.com/AndrasKovacs/0e1bc2532e071cef5974ca582f8090ad))

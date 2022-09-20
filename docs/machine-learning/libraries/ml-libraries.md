@@ -283,7 +283,7 @@ title: ML Libraries
 - [SPEAR](https://github.com/decile-team/spear) - Semi-Supervised Data Programming for Data Efficient Machine Learning.
 - [Ivy](https://github.com/unifyai/ivy) - Unified machine learning framework, enabling framework-agnostic functions, layers and libraries. ([Web](https://lets-unify.ai/))
 - [NeuralForecast](https://github.com/Nixtla/neuralforecast) - Python library for time series forecasting with deep learning models.
-- [pythae](https://github.com/clementchadebec/benchmark_VAE) - Library for Variational Autoencoder benchmarking.
+- [Pythae](https://github.com/clementchadebec/benchmark_VAE) - Library for Variational Autoencoder benchmarking. ([Paper](https://arxiv.org/abs/2206.08309))
 - [Pyraug](https://github.com/clementchadebec/pyraug) - Data Augmentation with Variational Autoencoders.
 - [product-quantization](https://github.com/xinyandai/product-quantization) - Implementation of vector quantization algorithms, codes for Norm-Explicit Quantization: Improving Vector Quantization for Maximum Inner Product Search.
 - [learned_optimization](https://github.com/google/learned_optimization) - Training and evaluating learned optimizers in JAX.

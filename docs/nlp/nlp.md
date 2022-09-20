@@ -651,3 +651,4 @@
 - [Tools and scripts for experimenting with Transformers: Bert, T5](https://github.com/yurakuratov/t5-experiments)
 - [Action Transformer (ACT-1) model in action](https://twitter.com/AdeptAILabs/status/1570144499187453952)
 - [Label Sleuth](https://github.com/label-sleuth/label-sleuth) - Open source no-code system for text annotation and building text classifiers.
+- [Vectoring Words (Word Embeddings) (2022)](https://www.youtube.com/watch?v=gQddtTdmG_8)
