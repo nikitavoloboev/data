@@ -48,3 +48,4 @@
 - [Competitive Programming Helper (CPH) - VS Code extension](https://agrawal-d.github.io/cph/) ([Code](https://github.com/agrawal-d/cph))
 - [Judge0](https://judge0.com/) - Scalable, and open-source online code execution system that can be used to build a wide range of applications that need online code execution features. ([Code](https://github.com/judge0/judge0))
 - [PyRival](https://github.com/cheran-senthil/PyRival) - Python Library for Competitive Programming.
+- [Yandex Cup](https://yandex.ru/cup/) - Чемпионат по программированию.
