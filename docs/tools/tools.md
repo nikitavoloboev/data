@@ -279,6 +279,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [prettierd](https://github.com/fsouza/prettierd) - Prettier, as a daemon, for ludicrous formatting speed.
 - [Culture Amp](https://www.cultureamp.com/) - Employee feedback platform. ([GitHub](https://github.com/cultureamp))
 - [Stencila](https://stenci.la/) - Platform for authoring, collaborating on, and publishing executable documents. ([Code](https://github.com/stencila/stencila))
+- [Current](https://current.so/) - Visibility platform for your entire team. ([Twitter](https://twitter.com/current_so))
 - [Privnote](https://privnote.com/) - Send notes that will self-destruct after being read.
 - [Webstudio](https://webstudio.is/) - Open Source Visual Development Platform for Developers, Designers and cross-functional teams. ([Code](https://github.com/webstudio-is/webstudio-designer)) ([Issues](https://github.com/webstudio-is/webstudio))
 - [LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Open source alternative to LinkTree.

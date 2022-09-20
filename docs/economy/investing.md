@@ -297,3 +297,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Best articulations of an investment philosophy or framework](https://twitter.com/patrick_oshag/status/1566768937060208641)
 - [Share](https://simulator.tryshare.app/) - Simulate dollar-cost averaging in any mix of stocks. ([HN](https://news.ycombinator.com/item?id=32736497))
 - [Share investor updates](https://twitter.com/JuliaLipton/status/1570898094811942912)
+- [Devtool Angels](https://www.devtoolangels.com/) - List of angel investors that invest in developer tools based on devtools-angels.
