@@ -241,3 +241,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work) ([HN](https://news.ycombinator.com/item?id=32071137))
 - [Open Source Stories](https://www.opensourcestories.org/) - Collection of stories about open source from all over the world. ([Web Code](https://github.com/opensourcestories/opensourcestories.org))
 - [Time Till Open Source Alternative (2022)](https://staltz.com/time-till-open-source-alternative.html) ([HN](https://news.ycombinator.com/item?id=32624461))
+- [Entitlement in Open Source (2022)](https://mikemcquaid.com/entitlement-in-open-source/)

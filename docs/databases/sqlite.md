@@ -226,7 +226,7 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [XLite](https://github.com/x2bool/xlite) - Query Excel and Open Document spreadsheets as SQLite virtual tables. ([HN](https://news.ycombinator.com/item?id=31874767)) ([Article](https://sergey.khabibullin.com/sqlite-extensions-in-rust/))
 - [SQLite 3.39.2 (2022)](https://sqlite.org/releaselog/3_39_2.html) ([HN](https://news.ycombinator.com/item?id=32184354))
 - [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index) - Extends SQLite core to support Spatial SQL capabilities. ([HN](https://news.ycombinator.com/item?id=32195541))
-- [LiteFS](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite. ([HN](https://news.ycombinator.com/item?id=32240230))
+- [LiteFS](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite. ([HN](https://news.ycombinator.com/item?id=32240230)) ([Intro](https://fly.io/blog/introducing-litefs/)) ([HN](https://news.ycombinator.com/item?id=32925734))
 - [cfsqlite](https://github.com/tantaman/conflict-free-sqlite) - Foundation of offline, local-first and edge deployed software.
 - [SQLite3_Web_VFS](https://github.com/mlin/sqlite_web_vfs) - SQLite3 extension for read-only HTTP(S) database access.
 - [LTX](https://github.com/superfly/ltx) - Go library for the LTX file format.

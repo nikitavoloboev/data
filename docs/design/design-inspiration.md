@@ -1037,3 +1037,4 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Web Avant-gardes](https://github.com/boardens/web-avant-gardes) - Collection of experimental, radical, or unorthodox websites.
 - [Creative web layouts](https://twitter.com/fritzisonline/status/1565974664463073280)
 - [Framer: Website Templates](https://www.framer.com/templates/)
+- [Favorite landing pages](https://twitter.com/traf/status/1572336972148146178)

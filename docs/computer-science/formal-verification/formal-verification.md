@@ -140,3 +140,5 @@ title: Formal verification
 - [The Hitchhiker’s Guide to Logical Verification](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
 - [State of the art for formal verification (2022)](https://twitter.com/sc13ts/status/1570874982930219008)
 - [Why are you being constructive? (2022)](https://lawrencecpaulson.github.io/2022/04/20/Why-constructive.html)
+- [Extracting a Verified Interpreter from Isabelle/HOL (2022)](https://concerningquality.com/semantics-extraction-isabelle/)
+- [Solving the Dog-Bunny Puzzle with Program Verification Technology (2022)](https://www.pathsensitive.com/2022/09/solving-dog-bunny-puzzle-with-program.html)
