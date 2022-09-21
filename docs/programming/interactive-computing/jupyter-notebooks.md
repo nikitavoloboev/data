@@ -220,3 +220,4 @@ title: Jupyter Notebooks
 - [nbproject](https://github.com/laminlabs/nbproject) - Manage Jupyter notebooks.
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) - Hatch plugin to help build Jupyter packages.
 - [Making the Best of Jupyter](https://github.com/NirantK/best-of-jupyter)
+- [Reproducible Jupyter Notebook with Nix (2022)](https://paperless.blog/reproducible-jupyter-notebook-with-nix)
