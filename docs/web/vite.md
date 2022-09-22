@@ -111,3 +111,4 @@ title: Vite
 - [Vite Plugin - Optimize CSS Modules](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Mangle / minimize css module classnames in production.
 - [Vitrify](https://github.com/simsustech/vitrify) - Abstraction over Vite similar to how Vite is an abstraction over Rollup and esbuild.
 - [Vite/Rollup plugin for Module Federation](https://github.com/gioboa/vite-module-federation)
+- [Favicons Vite Plugin](https://github.com/josh-hemphill/vite-plugin-favicon) - Leverages on favicons to automatically generate your favicons for you.

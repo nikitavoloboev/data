@@ -526,3 +526,4 @@ I want to:
 - [Mycorrhiza Wiki](https://github.com/bouncepaw/mycorrhiza) - Lightweight file-system wiki engine that uses Git for keeping history.
 - [Cuby Text](https://github.com/vincentdchan/CubyText) - Open-source knowledge management app.
 - [mdSilo](https://mdsilo.com/) - Mind silo for storing ideas, thought, knowledge with a powerful writing tool. built with React and Tauri. ([Code](https://github.com/danloh/mdSilo-app))
+- [Auto Archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content in a Google Sheet.

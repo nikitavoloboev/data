@@ -1962,3 +1962,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Ent vs Bun (2022)](https://www.reddit.com/r/golang/comments/xe2djp/ent_vs_bun/)
 - [A Complete Guide to Logging in Go with Zerolog (2022)](https://betterstack.com/community/guides/logging/zerolog/)
 - [sketch](https://github.com/lestrrat-go/sketch) - Generate JSON (De)serializable Object From Go Schema.
+- [Depguard](https://github.com/OpenPeeDeeP/depguard) - Go linter that checks if package imports are in a list of acceptable packages.

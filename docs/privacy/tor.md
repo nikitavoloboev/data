@@ -60,3 +60,4 @@ title: Tor Project
 - [OnionScan](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. ([Twitter](https://twitter.com/OnionScan))
 - [Tor is fighting and beating Russian censorship (2022)](https://www.wired.com/story/tor-browser-russia-blocks/) ([HN](https://news.ycombinator.com/item?id=32288058))
 - [Onion Server](https://github.com/noot/onion-server) - Serve a static website as a .onion hidden service.
+- [Lightarti-rest](https://github.com/c4dt/lightarti-rest) - Arti-wrapper to use REST over Tor.

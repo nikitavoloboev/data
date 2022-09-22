@@ -261,3 +261,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [How codesearch.ai works - Sourcegraph](https://sourcegraph.com/notebooks/Tm90ZWJvb2s6MTU1OQ==)
 - [Ask HN: I want to dive into how to make search engines (2022)](https://news.ycombinator.com/item?id=32593190)
 - [Semantic Search on stack exchange data](https://github.com/pacman82/search-stack-exchange)
+- [Marqo](https://github.com/marqo-ai/marqo) - Open-source tensor search engine that seamlessly integrates with your applications, websites, and workflow. ([Docs](https://marqo.pages.dev/))

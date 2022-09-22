@@ -197,6 +197,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Markwhen](https://markwhen.com/) - Text-to-timeline tool. You write markdown-ish text and it gets converted into a nice looking cascading timeline. ([Docs](https://markwhen.com/docs)) ([Code](https://github.com/kochrt/markwhen))
 - [Isoflow](https://isoflow.io/) - Create beautiful cloud diagrams in minutes. ([HN](https://news.ycombinator.com/item?id=24168152))
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code. ([HN](https://news.ycombinator.com/item?id=23122529)) ([About](https://carbon.now.sh/about)) ([HN](https://news.ycombinator.com/item?id=28874123))
+- [Gameplan](https://github.com/frappe/gameplan) - Work communication tool for teams who mostly work remote and prefer having meaningful discussions in an async format.
 - [Molecule.dev](https://www.molecule.dev/) - Assemble a simple but powerful, fully functional codebase consisting of only what you need. ([GitHub](https://github.com/Molecule-dev))
 - [Code to Image Monochromatic](https://code-to-image.now.sh/)
 - [livegrep](https://github.com/livegrep/livegrep) - Tool, partially inspired by Google Code Search, for interactive regex search of ~gigabyte-scale source repositories.

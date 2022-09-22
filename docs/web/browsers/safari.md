@@ -74,3 +74,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Web Push for Safari (2022)](https://developer.apple.com/videos/play/wwdc2022/10098/) ([HN](https://news.ycombinator.com/item?id=31718068))
 - [Example Expo project using the Safari Extension Config Plugin](https://github.com/andrew-levy/rn-extension-plugin-example)
 - [WebKit Features in Safari 16.0 (2022)](https://webkit.org/blog/13152/webkit-features-in-safari-16-0/) ([HN](https://news.ycombinator.com/item?id=32814573))
+- [WebTranslator](https://github.com/kishikawakatsumi/WebTranslator) - Safari web extension for DeepL translate.

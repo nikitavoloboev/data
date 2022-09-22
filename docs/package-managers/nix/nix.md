@@ -409,3 +409,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Packaging Pre-built Binaries with Nix Flake (2022)](https://blog.sekun.dev/posts/packaging-prebuilt-binaries-with-nix/)
 - [Hacking anything with GNU Guix (2022)](https://gexp.no/blog/hacking-anything-with-gnu-guix.html)
 - [Building Nix flakes from Rust workspaces (2022)](https://www.tweag.io/blog/2022-09-22-rust-nix/)
+- [Declarative Cachix](https://github.com/jonascarpay/declarative-cachix) - Add cachix caches declaratively. You can use it either as a system module, or as a home-manager module.

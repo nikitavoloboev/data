@@ -159,3 +159,5 @@ title: Tailwind CSS
 - [tailwind-converter](https://github.com/lxsmnsyc/tailwind-converter) - Convert TailwindCSS classes to a single CSS class.
 - [TailwindCSS Themer](https://github.com/RyanClementsHax/tailwindcss-themer) - Unopinionated, scalable, TailwindCSS theming solution.
 - [Tailwind Color Picker](https://github.com/Nutlope/tailwind-color-picker) - Chrome extension color picker for Tailwind.
+- [TailwindFormatter](https://github.com/100phlecs/tailwind_formatter) - Formats tailwind classes within elixir projects.
+- [Tailwind Init (twinit)](https://github.com/ndaba1/twinit) - Setup TailwindCSS on your project with one command.

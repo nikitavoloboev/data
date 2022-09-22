@@ -65,3 +65,4 @@
 - [Osmosis.Studio](http://osmosis.studio/) - Product Ad Creative and Optimization with Generative AI.
 - [Upscale to huge sizes and add detail with SD Upscale, it's easy!](https://www.reddit.com/r/StableDiffusion/comments/xkjjf9/upscale_to_huge_sizes_and_add_detail_with_sd/)
 - [Open Prompts](https://github.com/krea-ai/open-prompts) - Dataset of 10M Stable Diffusion generations. ([HN](https://news.ycombinator.com/item?id=32943224))
+- [KREA](https://www.krea.ai/) - Create better prompts.

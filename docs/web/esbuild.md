@@ -18,3 +18,4 @@ title: esbuild
 - [esbuild-plugin-raw](https://github.com/hannoeru/esbuild-plugin-raw) - Esbuild plugin for raw import.
 - [Build an esbuild plugin (2022)](https://www.youtube.com/watch?v=O7U-b9knR6U)
 - [esbuild-internal](https://github.com/ije/esbuild-internal) - Expose amazing esbuild internal packages.
+- [Config files for esbuild](https://github.com/bpierre/esbuild-config)

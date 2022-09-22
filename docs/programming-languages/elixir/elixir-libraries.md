@@ -254,3 +254,4 @@
 - [Elixir runtime configuration trap (2022)](https://michaldolata.appunite.com/post/elixir-runtime-configuration-trap)
 - [Lettuce](https://github.com/gilacost/lettuce) - Code watcher for elixir projects.
 - [The Curious Case of String.slice/3 (2022)](https://adworse.codes/the-curious-case-of-string-slice-3/)
+- [Safe Ecto Migrations](https://github.com/fly-apps/safe-ecto-migrations) - Non-exhaustive guide on common migration recipes and how to avoid trouble.

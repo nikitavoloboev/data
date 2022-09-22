@@ -200,3 +200,4 @@ title: Terraform
 - [tfautomv](https://github.com/padok-team/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring.
 - [A Comprehensive Guide to End-to-End-Declarative Deployment with Terraform and Nix (2022)](https://jonascarpay.com/posts/2022-09-19-declarative-deployment.html)
 - [Terraform Packer Provider](https://github.com/toowoxx/terraform-provider-packer)
+- [Terraform TiDB Cloud Provider](https://github.com/tidbcloud/terraform-provider-tidbcloud)
