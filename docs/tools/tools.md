@@ -276,6 +276,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Lustre](https://lustre.ai/) - Find the best product for your budget.
 - [linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service.
 - [FocusTask](https://focustask.app/) - Organize your life.
+- [Decipad](https://www.decipad.com/) - Like Notion with problem-solving capabilities. ([HN](https://news.ycombinator.com/item?id=32925760))
 - [prettierd](https://github.com/fsouza/prettierd) - Prettier, as a daemon, for ludicrous formatting speed.
 - [Culture Amp](https://www.cultureamp.com/) - Employee feedback platform. ([GitHub](https://github.com/cultureamp))
 - [Stencila](https://stenci.la/) - Platform for authoring, collaborating on, and publishing executable documents. ([Code](https://github.com/stencila/stencila))

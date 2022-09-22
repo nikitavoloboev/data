@@ -403,3 +403,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Soulbinding Like a State (2022)](https://subconscious.substack.com/p/soulbinding-like-a-state)
 - [Outserv](https://github.com/outcaste-io/outserv) - Blockchain Search with GraphQL APIs. ([Article](https://manishrjain.com/outserv-graphql-blockchain-search)) ([HN](https://news.ycombinator.com/item?id=32302368))
 - [I Looked into 34 Top Real-World Blockchain Projects So You Don’t Have To (2022)](https://weh.wtf/34-blockchain-projects.html) ([HN](https://news.ycombinator.com/item?id=32291213))
+- [DEX](https://github.com/decred/dcrdex) - Decred Decentralized Exchange (DEX), powered by atomic-swaps.

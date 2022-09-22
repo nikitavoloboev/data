@@ -290,6 +290,8 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [Civet](https://github.com/DanielXMoore/Civet) - CoffeeScript of TypeScript.
 - [Building Complex Types in TypeScript (2022)](https://medium.hexlabs.io/building-complex-types-in-typescript-bfdf5e131dbe)
 - [TypeScript Typelevel Tic-Tac-Toe: Overkill edition (2022)](https://note89.github.io/typescript-typelevel-tic-tac-toe/)
+- [Learn how to unleash the full potential of the type system of TypeScript](https://type-level-typescript.com/) ([HN](https://news.ycombinator.com/item?id=32913125))
+- [TDungeon](https://github.com/cassiozen/TDungeon) - Adventure game that runs in the Typescript type system.
 
 ## Images
 

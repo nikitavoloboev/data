@@ -7,6 +7,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 ## Favorite artists
 
 - [James Jean](https://www.instagram.com/jamesjeanart/) ([Artsy](https://www.artsy.net/artist/james-jean)) ([Twitter](https://twitter.com/jamesjeanart)) ([Web](http://www.jamesjean.com/))
+- [gemi333](https://www.instagram.com/gemi333/) ([Twitter](https://twitter.com/gemi333))
 - [Darek Zabrocki](https://www.darekzabrocki.com/)
 - [Joanna Karpowicz](https://joannakarpowicz.pl/)
 - [James R. Eads](http://www.jamesreads.com/art)
@@ -310,6 +311,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 ## Photography
 
 - [Emilio Morenatti](https://www.instagram.com/emilio_morenatti/) ([Twitter](https://twitter.com/EmilioMorenatti))
+- [K. Treetrong](https://www.instagram.com/blowithand/) ([Twitter](https://twitter.com/blowithand))
 - [Luke](https://www.instagram.com/watchluke/) ([Web](https://www.watchluke.com/))
 - [Gosse Bouma](https://www.instagram.com/gosse_bouma/)
 - [Michael Kenna](https://www.artsy.net/artist/michael-kenna)
@@ -451,7 +453,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Artvee](https://artvee.com/) - Discover Classical Art. Browse and download high-resolution, public domain artworks.
 - [Ghostly](https://ghostly.com/) - Music and art company supporting work of high quality, integrity, and individuality.
 - [Milton Glaser's advice on making art](https://twitter.com/johnleedraws/status/1276721178841841664)
-- [SuperRare](https://superrare.co/) - Authentic Digital Art Marketplace.
+- [SuperRare](https://superrare.com/) - Authentic Digital Art Marketplace.
 - [ArtStation Magazine](https://magazine.artstation.com/)
 - [Creative AI Lab](https://creative-ai.org/) - Ongoing project to aggregate tools and resources for artists, engineers, curators & researchers interested in incorporating machine learning (ML) and other forms of artificial intelligence (AI) into their practice.
 - [Artnome](https://www.artnome.com/)

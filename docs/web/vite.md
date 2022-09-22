@@ -110,3 +110,4 @@ title: Vite
 - [Vite Lightning CSS Plugin](https://github.com/lawrencecchen/vite-plugin-lightningcss)
 - [Vite Plugin - Optimize CSS Modules](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Mangle / minimize css module classnames in production.
 - [Vitrify](https://github.com/simsustech/vitrify) - Abstraction over Vite similar to how Vite is an abstraction over Rollup and esbuild.
+- [Vite/Rollup plugin for Module Federation](https://github.com/gioboa/vite-module-federation)

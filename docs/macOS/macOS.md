@@ -25,6 +25,7 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Can right-click on a 2-factor authentication code to set it up with iCloud Keychain.](https://twitter.com/rafahari/status/1456013646144933893)
 - [macOS has network quality command: networkQuality](https://twitter.com/justsitandgrin/status/1460286405578563595) ([Reddit](https://www.reddit.com/r/MacOS/comments/qxa933/builtin_network_bandwidth_test_tool_on_macos/))
 - [Just because a root certificate is in the built-in iOS/macOS trust store doesn't mean that it is trusted. Apple applies additional constraints via configuration updates to maintain a high-level of security.](https://twitter.com/BasileBailey/status/1494801237694300161)
+- [Things I immediately do when setting up a new Mac: 1. Turn off all system notifications. 2. Turn off autocorrect. 3. Set ⌘-V to "Paste and Match Style" to remove formatting.](https://twitter.com/davidhoang/status/1572591216470130694)
 
 ## Code
 
@@ -292,3 +293,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Ephemeral macOS for Buildkite](https://github.com/DeterminateSystems/macos-ephemeral) - Set up macOS machines to automatically erase and provision themselves on a Tailscale network with Buildkite.
 - [Nix macOS Monthly Discourse update posts](https://github.com/toonn/Nix-macOS-Monthly)
 - [Bootstrap a Linux build VM on macOS](https://github.com/Gabriella439/macos-builder)
+- [MIP](https://github.com/LIJI32/MIP) - macOS Injection Platform.

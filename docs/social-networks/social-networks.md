@@ -2,6 +2,10 @@
 
 [How to run a small social network site for your friends](https://runyourown.social/) is a neat guide.
 
+Many companies put business over human values but [Meta/FB is the worst of it all](https://twitter.com/Erfan_khosravi/status/1572837240367370240). It's actually sickening how bad some humans with power can get. Will never develop anything for their platforms and hope their VR experiments with Oculus get fully copied and perfected by likes of Apple or some other company with sane values.
+
+I think what Twitter is doing with [Bluesky](https://twitter.com/bluesky) is pretty neat and hope it succeeds.
+
 ## Notes
 
 - [Facebook has recruited one of the world’s top AI teams, led by Yann LeCun. Their work and Google's are the equivalent of tobacco companies engineering cigarettes to ensure that nicotine hits a smoker's brain more quickly. Facebook and other social networks are the cigarette companies of the mind. Cigarettes blackened our lungs with tar, and social media blacken our brains with distraction, alienation, envy, and loneliness.](https://news.ycombinator.com/item?id=15421704)

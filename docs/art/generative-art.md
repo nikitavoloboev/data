@@ -234,3 +234,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Fragment](https://github.com/raphaelameaume/fragment) - Web development environment for creative coding.
 - [ciphrd](https://ciphrd.com/) - Generative artist particularly interested in the exploration of autonomous systems from which life-like behaviors emerge. ([Twitter](https://twitter.com/ciphrd))
 - [Josef Pelz](https://twitter.com/JosefPelz)
+- [openFrameworks](https://github.com/openframeworks/openFrameworks) - C++ toolkit for creative coding. ([Web](https://openframeworks.cc/))

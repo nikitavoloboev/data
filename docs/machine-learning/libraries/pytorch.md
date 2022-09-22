@@ -445,3 +445,5 @@ title: PyTorch
 - [TorchEval](https://github.com/pytorch-labs/torcheval) - Library that contains a rich collection of performant PyTorch model metrics.
 - [C++ Torch Server](https://github.com/SABER-labs/Drogon-torch-serve) - Serve PyTorch / torch models using Drogon.
 - [Deep Learning with PyTorch Step-by-Step: Beginner's Guide (2022)](https://leanpub.com/pytorch)
+- [NeRF-Factory: An awesome PyTorch NeRF collection](https://github.com/kakaobrain/NeRF-Factory)
+- [NestedTensor](https://github.com/pytorch/nestedtensor) - Tools for the concurrent manipulation of variably sized Tensors.

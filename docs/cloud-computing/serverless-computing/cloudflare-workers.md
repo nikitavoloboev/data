@@ -198,3 +198,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Cache Supabase data at the Edge with Cloudflare Workers and KV Storage](https://egghead.io/courses/cache-supabase-data-at-the-edge-with-cloudflare-workers-and-kv-storage-883c7959)
 - [Workers that manage the cache](https://github.com/nix-ocaml/cloudflare-workers)
 - [HTTP server for Hono on Node.js](https://github.com/honojs/node-server)
+- [Cloudflare’s Zero Egress Fee Object Storage, R2, Is Now GA (2022)](https://blog.cloudflare.com/r2-ga/) ([HN](https://news.ycombinator.com/item?id=32924587))

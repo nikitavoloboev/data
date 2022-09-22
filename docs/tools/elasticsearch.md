@@ -74,3 +74,4 @@ title: Elasticsearch
 - [Pydastic](https://github.com/RamiAwar/pydastic) - Elasticsearch python ORM based on Pydantic.
 - [APM Server](https://github.com/elastic/apm-server) - Receives data from Elastic APM agents and transforms it into Elasticsearch documents.
 - [Terraform Provider Elastic Stack](https://github.com/elastic/terraform-provider-elasticstack)
+- [Zinc Search](https://github.com/zinclabs/zinc) - Lightweight alternative to Elasticsearch that requires minimal resources, written in Go. ([Web](https://zincsearch.com/)) ([HN](https://news.ycombinator.com/item?id=32938304))

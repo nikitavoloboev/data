@@ -12,3 +12,4 @@
 - [YSFlight](https://ysflight.org/) - Free flight simulator where anything is possible. ([HN](https://news.ycombinator.com/item?id=30299850))
 - [Hermeus](https://www.hermeus.com/) - Mach 5 aircraft. ([Twitter](https://twitter.com/hermeuscorp))
 - [See Thru Jet Engine (2022)](https://www.youtube.com/watch?v=MgL0GW248mE) ([HN](https://news.ycombinator.com/item?id=32145297))
+- [Engine makers sound downbeat on supersonic, leaving Boom in a bind (2022)](https://www.flightglobal.com/airframers/engine-makers-sound-downbeat-on-supersonic-leaving-boom-in-a-bind/150215.article) ([HN](https://news.ycombinator.com/item?id=32937736))

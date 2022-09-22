@@ -143,3 +143,4 @@ title: Racket
 - [Racket Hacking: SwiftUI + Racket (2022)](https://www.youtube.com/watch?v=aTvU0j4hBR0)
 - [Common Lisp VS Racket](https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac) ([HN](https://news.ycombinator.com/item?id=32723784))
 - [Macro-Embedding Compiler Intermediate Languages in Racket (2022)](https://williamjbowman.com/resources/wjb2022-hashlang-x64.pdf)
+- [Argo](https://github.com/jessealama/argo) - JSON Schema validator for Racket.

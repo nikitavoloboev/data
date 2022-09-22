@@ -237,3 +237,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [iPhone 14 Pro Camera Review: Scotland (2022)](https://www.austinmann.com/trek/iphone-14-pro-camera-review-scotland) ([HN](https://news.ycombinator.com/item?id=32843892))
 - [Photography for geeks](https://lcamtuf.coredump.cx/photo_basics/)
 - [iPhone 14 Pro Camera Preview: The Hardware Changes (2022)](https://lux.camera/iphone-14-pro-camera-preview-the-hardware-changes/)
+- [Questions I have been asked about photography](https://gist.github.com/tef/9f515f36d6fc5f0b1aa0adc5f4d730be)

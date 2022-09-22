@@ -202,7 +202,7 @@
 - [Cognito + Google federated identity](https://github.com/awesome-cdk/cognito-google-federation-example) - Use Cognito's Google federated identity integration to allow your app users to login with their Google account.
 - [Userfront](https://userfront.com/) - Auth without complexity. ([HN](https://news.ycombinator.com/item?id=30328908))
 - [Aserto](https://www.aserto.com/) - Cloud-Native authorization as a service. ([Article](https://www.aserto.com/blog/aserto-the-developer-api-for-permissions-and-rbac-is-open-to-all)) ([HN](https://news.ycombinator.com/item?id=30361262))
-- [Ory](https://www.ory.sh/) - Open Source Identity Solutions For Everyone. ([GitHub](https://github.com/ory)) ([Kubernetes Helm Charts for ORY](https://github.com/ory/k8s))
+- [Ory](https://www.ory.sh/) - Open Source Identity Solutions For Everyone. ([GitHub](https://github.com/ory)) ([Kubernetes Helm Charts for ORY](https://github.com/ory/k8s)) ([Examples](https://github.com/ory/examples))
 - [casbin-rs](https://github.com/casbin/casbin-rs) - Authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
 - [oauth2l](https://github.com/google/oauth2l) - Simple CLI for interacting with Google API authentication.
 - [ed25519-login](https://github.com/62726164/ed25519-login) - Login to websites using a base64 encoded Ed25519 signature. Simple alternative to webauthn. ([HN](https://news.ycombinator.com/item?id=30483727))
@@ -259,3 +259,4 @@
 - [auth](https://github.com/arianvp/auth) - Highly modern, secure and minimal identity management platform.
 - [Stytch](https://stytch.com/) - User infrastructure + passwordless authentication.
 - [Ask HN: What are the alternatives to phone authentication? (2022)](https://news.ycombinator.com/item?id=32737963)
+- [IndieLogin](https://github.com/aaronpk/indielogin.com) - Sign in with your domain name. ([Web](https://indielogin.com/))

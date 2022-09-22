@@ -307,3 +307,4 @@ title: Swift
 - [What’s new in Swift 5.7?](https://github.com/twostraws/whats-new-in-swift-5-7)
 - [SwiftLSP](https://github.com/flowtoolz/SwiftLSP) - Language Server Protocol in Swift.
 - [Swift for JavaScript Developers Course](https://www.swiftforjs.dev/)
+- [Thread Sanitizer explained: Data Races in Swift (2022)](https://www.avanderlee.com/swift/thread-sanitizer-data-races/)

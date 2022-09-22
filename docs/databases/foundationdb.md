@@ -29,3 +29,4 @@ title: FoundationDB
 - [mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on top of FoundationDB. ([HN](https://news.ycombinator.com/item?id=32269287))
 - [fdbfs](https://github.com/jkominek/fdbfs) - FoundationDB-backed FUSE filesystem.
 - [Diviner](https://github.com/xxuejie/diviner) - FoundationDB style deterministic testing framework for async/await Rust.
+- [Skipping the boring parts of building a database using FoundationDB (2022)](https://blog.tigrisdata.com/building-a-database-using-foundationdb) ([HN](https://news.ycombinator.com/item?id=32931713))

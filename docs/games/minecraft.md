@@ -138,3 +138,4 @@ title: Minecraft
 - [Wasmcraft](https://github.com/SuperTails/wasmcraft2) - Converts arbitrary WebAssembly into a Minecraft Java Edition datapack.
 - [It seems that the good times for online Minecraft play are over (2022)](https://bae.st/notice/AL3OGtBIWr6Bz2Y4um) ([HN](https://news.ycombinator.com/item?id=32772810))
 - [Minecraft, but it's built on top of a deferred renderer](https://github.com/jdah/minecraft-again)
+- [1Hz CPU made in Minecraft running Minecraft at 0.1fps (2022)](https://www.youtube.com/watch?v=-BP7DhHTU-I) ([HN](https://news.ycombinator.com/item?id=32901461))

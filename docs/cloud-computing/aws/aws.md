@@ -388,3 +388,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [Cloudformation 2 Terraform](https://github.com/DontShaveTheYak/cf2tf) - Convert Cloudformation templates to Terraform.
 - [AWS Open Sources Event Ruler (2022)](https://www.infoq.com/news/2022/09/aws-event-ruler/)
 - [AWS Tech Conference](https://www.aws-user-group.com.ua/)
+- [Granted](https://granted.dev/) - View multiple AWS regions and accounts at the same time. ([Code](https://github.com/common-fate/granted))

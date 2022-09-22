@@ -133,3 +133,4 @@ title: Three.js
 - [Ghost Veil](https://nemutas.github.io/ghost-veil/) - Effect of 'ThreJS plane' overlaid on 'DOM image'. ([Code](https://github.com/nemutas/ghost-veil))
 - [Vanilla ThreeJS Template](https://github.com/nemutas/vanilla-three-template)
 - [Three.js Experiment - Vanishing Suzanne](https://github.com/Aqro/threejs-vanishing-suzanne)
+- [Three Lightmap Baker](https://github.com/lucas-jones/three-lightmap-baker) - Basic example of lightmapping in ThreeJS.

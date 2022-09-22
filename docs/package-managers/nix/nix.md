@@ -407,3 +407,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Building a highly optimized home environment with Nix (2022)](https://determinate.systems/posts/nix-home-env) ([Reddit](https://www.reddit.com/r/NixOS/comments/xf12zw/building_a_highly_optimized_home_environment_with/))
 - [Cross-Compiling and packaging C, Go and Zig projects with Nix (2022)](https://flyx.org/cross-packaging/)
 - [Packaging Pre-built Binaries with Nix Flake (2022)](https://blog.sekun.dev/posts/packaging-prebuilt-binaries-with-nix/)
+- [Hacking anything with GNU Guix (2022)](https://gexp.no/blog/hacking-anything-with-gnu-guix.html)
+- [Building Nix flakes from Rust workspaces (2022)](https://www.tweag.io/blog/2022-09-22-rust-nix/)

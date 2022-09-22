@@ -540,3 +540,5 @@ for i, _ in enumerate(nums):
 - [Scalpel](https://github.com/SMAT-Lab/Scalpel) - Python Static Analysis Framework.
 - [Embedded Python Interpreter for Go](https://github.com/kluctl/go-embed-python)
 - [autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables from Python code.
+- [Faster CPython 3.12 Plan](https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle) ([HN](https://news.ycombinator.com/item?id=32906085))
+- [PyTA](https://github.com/pyta-uoft/pyta) - Adventures in code analysis for teaching Python.

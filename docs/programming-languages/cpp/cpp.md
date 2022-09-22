@@ -11,7 +11,7 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 
 ## Links
 
-- [C++ By Example](https://cppbyexample.com/)
+- [C++ By Example](https://cppbyexample.com/) ([HN](https://news.ycombinator.com/item?id=32938135))
 - [Draft C++ Standard: Contents](https://timsong-cpp.github.io/cppwp/) ([Code](https://github.com/timsong-cpp/cppwp))
 - [C++ resources](https://github.com/MattPD/cpplinks)
 - [Immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++. ([Paper](https://dl.acm.org/doi/10.1145/3110260))

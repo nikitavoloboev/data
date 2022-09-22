@@ -244,3 +244,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [The 4 things it takes to be an expert (2022)](https://www.youtube.com/watch?v=5eW6Eagr9XA)
 - [Ask HN: Which books do you consider real gems in your field of work/study? (2022)](https://news.ycombinator.com/item?id=32790064)
 - [The Next Chapter for Learning on YouTube (2022)](https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/) ([HN](https://news.ycombinator.com/item?id=32783730))
+- [Ask HN: Do you regret being a generalist? (2022)](https://news.ycombinator.com/item?id=32920577)

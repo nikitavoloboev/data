@@ -251,6 +251,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [StarRocks](https://github.com/StarRocks/starrocks) - Next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query. ([Web](https://starrocks.com/index))
 - [TuGraph](https://github.com/TuGraph-db/tugraph-db) - Efficient graph database that supports high data volume, low latency lookup and fast graph analytics.
 - [Seafowl](https://github.com/splitgraph/seafowl) - Analytical database for modern data-driven Web applications.
+- [WooriDB](https://github.com/naomijub/wooridb) - General purpose time serial database. It is schemaless, key-value storage and uses its own query syntax that is similar to SparQL.
 
 ## Tools
 
@@ -271,7 +272,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Liquibase](https://www.liquibase.org/) - Open Source Version Control for Your Database.
 - [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL.
 - [Dbmate](https://github.com/amacneil/dbmate) - Lightweight, framework-agnostic database migration tool.
-- [ShardingSphere](https://github.com/apache/shardingsphere) - Distributed Database Middleware Ecosphere.
+- [ShardingSphere](https://github.com/apache/shardingsphere) - Distributed Database Middleware Ecosphere. ([Web](https://shardingsphere.apache.org/))
 - [ln2sql](https://github.com/FerreroJeremy/ln2sql) - NLP tool to query a database in natural language.
 - [Hue](https://gethue.com/) - Open source SQL Assistant for Data Warehouses. ([Code](https://github.com/cloudera/hue))
 - [ley](https://github.com/lukeed/ley) - Driver-agnostic database migrations.
@@ -633,7 +634,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Persistence Programming (2022)](https://queue.acm.org/detail.cfm?id=3526210&doi=10.1145/3526210)
 - [Docker DB Backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple databases types on a scheduled basis with many customizable options.
 - [Databases = Frameworks for Distributed Systems (2022)](https://laplab.me/posts/databases-are-frameworks-for-distributed-systems/) ([HN](https://news.ycombinator.com/item?id=31459745))
-- [Ditto](https://www.ditto.live/) - Sync without Internet. ([Twitter](https://twitter.com/dittolive))
+- [Ditto](https://www.ditto.live/) - Sync without Internet. ([Twitter](https://twitter.com/dittolive)) ([HN](https://news.ycombinator.com/item?id=32934849)) ([Docs](https://docs.ditto.live/)) ([Docs Code](https://github.com/getditto/docs))
 - [DBngin](https://dbngin.com/) - All-in-One Database Version Management Tool. ([Code](https://github.com/TablePlus/DBngin))
 - [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust (2022)](https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/) ([HN](https://news.ycombinator.com/item?id=31535158))
 - [LSI: A Learned Secondary Index Structure (2022)](https://arxiv.org/abs/2205.05769)

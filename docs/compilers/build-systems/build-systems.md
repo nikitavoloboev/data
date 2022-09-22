@@ -128,3 +128,4 @@
 - [The Unreasonable Effectiveness of Makefiles (2022)](https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles) ([HN](https://news.ycombinator.com/item?id=32438616))
 - [Knit](https://github.com/zyedidia/knit) - Build tool inspired by Make and Plan9 mk.
 - [Tejolote](https://github.com/puerco/tejolote) - Highly configurable build executor and observer designed to generate signed SLSA provenance attestations about build runs.
+- [Vercel Remote Cache SDK](https://github.com/vercel/remote-cache) - Feature of advanced build tools like Turborepo, Bazel, and Buck to cache compiled computations and code artifacts in the cloud.

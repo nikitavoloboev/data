@@ -93,3 +93,4 @@ title: Conflict-free replicated data type
 - [Automerge Chat Demo](https://github.com/okdistribute/automerge-chat-demo)
 - [Meangirls](https://github.com/aphyr/meangirls) - Convergent Replicated Data Types in Ruby.
 - [Peritext: A CRDT for Collaborative Rich Text Editing (2022)](https://www.inkandswitch.com/peritext/static/cscw-publication.pdf) ([Tweet](https://twitter.com/geoffreylitt/status/1567539737719898115))
+- [Yorkie](https://github.com/yorkie-team/yorkie) - Open source document store for building collaborative editing applications. Yorkie uses JSON-like documents(CRDT) with optional types. ([Web](https://yorkie.dev/))

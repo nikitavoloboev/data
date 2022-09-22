@@ -20,3 +20,4 @@ title: Wails
 - [Wails - What's the catch? (2022)](https://www.reddit.com/r/golang/comments/vzxhuh/wailsio_whats_the_catch/)
 - [HN: Wails (2022)](https://news.ycombinator.com/item?id=32080899)
 - [Wails v2 Examples](https://github.com/tataDan/wails-v2-examples)
+- [Wails v2 Released (2022)](https://wails.io/blog/wails-v2-released/) ([Reddit](https://www.reddit.com/r/golang/comments/xknc4p/announcement_wails_v2_released/))

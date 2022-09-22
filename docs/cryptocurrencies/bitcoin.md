@@ -194,3 +194,5 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [The Bitcoin Investment Thesis Is Broken (2022)](https://www.iansbnr.com/the-bitcoin-investment-thesis-is-broken/) ([HN](https://news.ycombinator.com/item?id=31490789))
 - [Ask HN: How do you use Bitcoin in a trustless way? (2022)](https://news.ycombinator.com/item?id=32115693)
 - [ZeroSync](https://github.com/lucidLuckylee/zerosync) - Sync a Bitcoin full node using STARK-proofs.
+- [lnproxy](https://github.com/lnproxy/lnproxy) - Takes a bolt 11 invoice and generates a “wrapped” invoice that can be settled if and only if the original invoice is settled.
+- [BOLT: Basis of Lightning Technology (Lightning Network Specifications)](https://github.com/lightning/bolts)

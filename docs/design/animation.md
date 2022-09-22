@@ -88,3 +88,4 @@
 - [DreamWorks Animation to release MoonRay as open source (2022)](https://www.awn.com/news/dreamworks-animation-release-moonray-open-source) ([HN](https://news.ycombinator.com/item?id=32357470))
 - [MoonRay](https://openmoonray.org/) - Open-source production renderer from DreamWorks. ([HN](https://news.ycombinator.com/item?id=32450386))
 - [Stable Diffusion animation (2022)](https://replicate.com/andreasjansson/stable-diffusion-animation) ([HN](https://news.ycombinator.com/item?id=32658408))
+- [Watching 'Spirited Away' again, and again (2022)](https://www.theatlantic.com/culture/archive/2022/09/rewatching-spirited-away-hayao-miyazaki/671486/) ([HN](https://news.ycombinator.com/item?id=32918849))

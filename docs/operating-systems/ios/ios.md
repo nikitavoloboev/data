@@ -132,6 +132,8 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Code App](https://github.com/thebaselab/codeapp) - Building a full-fledged code editor for iPad.
 - [Santander](https://github.com/SerenaKit/Santander) - New, enhanced File Manager for iOS devices.
 - [Griddle](https://github.com/carson-katri/griddle) - Game was built to demonstrate Tokamak's Fiber backend, which can match SwiftUI nearly 1:1 on the web.
+- [SwiftPizza App for Apple ActivityKit & WidgetKit & Dynamic Island](https://github.com/1998code/iOS16-Live-Activities)
+- [Dynamic Islands](https://github.com/jordibruin/Dynamic-Islands) - Sample of dynamic island designs recreated for inspiration.
 
 ## Other
 
@@ -509,3 +511,5 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [iOS Widgets course](https://seanallen.teachable.com/p/widgets)
 - [kairos](https://github.com/dayt0n/kairos) - 64-bit iOS boot image patcher written in C.
 - [Designing Carousel at Dropbox](https://twitter.com/joshpuckett/status/1571559079369412608)
+- [Swift Rust Xcode Template](https://github.com/simlay/swift-rust-xcode-template) - Template for quickly building an iOS app in rust and swift.
+- [System memory allocator free operation zeroes out deallocated blocks in iOS 16](https://mjtsai.com/blog/2022/09/20/zeroing-freed-memory/) ([HN](https://news.ycombinator.com/item?id=32921910))

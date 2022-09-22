@@ -178,3 +178,4 @@
 - [Explore JWST’s first image in full resolution](https://web.wwtassets.org/specials/2022/jwst-smacs/)
 - [Two weeks in, the Webb Space Telescope is reshaping astronomy (2022)](https://www.quantamagazine.org/two-weeks-in-the-webb-space-telescope-is-reshaping-astronomy-20220725/) ([HN](https://news.ycombinator.com/item?id=32224725))
 - [SAR Imagery | ICEYE](https://www.iceye.com/sar-imagery)
+- [New Webb image captures clearest view of Neptune’s rings in decades (2022)](https://www.nasa.gov/feature/goddard/2022/new-webb-image-captures-clearest-view-of-neptune-s-rings-in-decades) ([HN](https://news.ycombinator.com/item?id=32927156))

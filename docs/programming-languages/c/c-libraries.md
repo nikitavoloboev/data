@@ -40,7 +40,7 @@
 - [AssetKit](https://github.com/recp/AssetKit) - Modern 2D/3D - Importer • Exporter • Util - Library.
 - [HAGL](https://github.com/tuupola/hagl) - Hardware Agnostic Graphics Library for embedded.
 - [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library) - Graphics library for all our displays, providing a common set of graphics primitives (points, lines, circles, etc.).
-- [Olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C.
+- [Olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C. ([Demos](https://tsoding.org/olive.c/)) ([HN](https://news.ycombinator.com/item?id=32932631))
 
 ## Test
 
@@ -175,3 +175,4 @@
 - [libpostal](https://github.com/openvenues/libpostal) - C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [J40](https://github.com/lifthrasiir/j40) - Independent, self-contained JPEG XL decoder. ([HN](https://news.ycombinator.com/item?id=32885203))
 - [nsync](https://github.com/google/nsync) - C library that exports various synchronization primitives, such as mutexes.
+- [GNU C Library](https://github.com/bminor/glibc) - Standard system C library.

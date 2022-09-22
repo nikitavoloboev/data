@@ -854,3 +854,6 @@ if err != nil {
 - [Coolest Go open source projects you have seen (2022)](https://www.reddit.com/r/golang/comments/xeytlo/what_is_the_coolest_go_open_source_projects_you/)
 - [Goroutine-analyzer](https://github.com/openziti/goroutine-analyzer) - Visual goroutine stack dump debugging tool. ([HN](https://news.ycombinator.com/item?id=32865510))
 - [fgtrace](https://github.com/felixge/fgtrace) - Full Go Tracer.
+- [GopherCon UK](https://www.gophercon.co.uk/)
+- [Michael Knyszek - Respecting Memory Limits In Go (2022)](https://www.youtube.com/watch?v=07wduWyWx8M)
+- [Bitmap Indexes in Go: Search Speed (2019)](https://habr.com/en/company/badoo/blog/455608/) ([HN](https://news.ycombinator.com/item?id=32937930))

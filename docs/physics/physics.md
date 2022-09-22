@@ -323,3 +323,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Experimental protocol for testing the mass–energy–information equivalence principle (2022)](https://aip.scitation.org/doi/10.1063/5.0087175)
 - [The strength of the strong force (2022)](https://phys.org/news/2022-08-strength-strong.html) ([HN](https://news.ycombinator.com/item?id=32409102))
 - [Awesome Photonics](https://github.com/joamatab/awesome_photonics)
+- [The origin of the strong form of superconductivity (2022)](https://www.quantamagazine.org/high-temperature-superconductivity-understood-at-last-20220921/) ([HN](https://news.ycombinator.com/item?id=32937828))

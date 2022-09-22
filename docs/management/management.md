@@ -211,3 +211,4 @@
 - [Reduce Friction (2022)](https://blog.ceejbot.com/posts/reduce-friction/) ([Tweet](https://twitter.com/ceejbot/status/1550934530264932352))
 - [Execution Through Ownership (2022)](https://dune.com/blog/execution-ownership)
 - [Why your daily stand-ups don't work and how to fix them (2022)](https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html) ([HN](https://news.ycombinator.com/item?id=32382365))
+- [Ask HN: How does your company handle late running projects? (2022)](https://news.ycombinator.com/item?id=32911083)

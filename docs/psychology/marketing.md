@@ -185,6 +185,7 @@ One way to do launches with possible virality is rewarding people who retweet wi
 - [Reflio](https://github.com/Reflio-com/reflio) - Create a referral program without breaking the bank. ([Web](https://reflio.com/)) ([HN](https://news.ycombinator.com/item?id=32867737))
 - [Ask HN: Where and how do you find your early adoptors? (2022)](https://news.ycombinator.com/item?id=31930935)
 - [How to design a referral program](https://andrewchen.com/how-to-design-a-referral-program/)
+- [Taku](https://taku-app.com/) - Easy Way to Communicate with Users. ([HN](https://news.ycombinator.com/item?id=32937523))
 
 ## Images
 

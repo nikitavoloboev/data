@@ -685,3 +685,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [huffplate](https://github.com/abigger87/huffplate) - Robust, Extensible Template for Huff Projects.
 - [optimint](https://github.com/celestiaorg/optimint) - ABCI-client implementation for Optimistic Rollups.
 - [pair_sync](https://github.com/0xKitsune/pair_sync) - Simple library to get all pairs from any Dex and sync reserves.
+- [Tornado Cash](https://github.com/tornadocash) - Privacy Solution for Ethereum.
+- [Art Gobblers](https://github.com/artgobblers/art-gobblers) - Experimental decentralized art factory by Justin Roiland and Paradigm.
+- [Zora Create / Mint Page Template](https://github.com/ourzora/mint-page-template)

@@ -677,6 +677,7 @@
 - [edge-executor](https://github.com/ivmarkov/edge-executor) - Minimal async executor suitable for embedded environments.
 - [Rust bindings for ESP-IDF](https://github.com/esp-rs/esp-idf-sys)
 - [shared-bus](https://github.com/Rahix/shared-bus) - Crate for sharing buses between multiple devices.
+- [usbip](https://github.com/jiegec/usbip) - Rust library to run a USB/IP server to simulate USB devices.
 
 ## ML
 
@@ -2163,6 +2164,7 @@
 - [atomic-wait](https://github.com/m-ou-se/atomic-wait) - Cross-platform atomic wait and wake (aka futex) functionality for Rust.
 - [Timer](https://github.com/Yoric/timer.rs) - Simple implementation of a timer for Rust.
 - [toml_edit](https://github.com/ordian/toml_edit) - Format-preserving TOML parser.
+- [Melior](https://github.com/raviqqe/melior) - Rustic MLIR bindings for Rust.
 
 ## Cargo Plugins
 

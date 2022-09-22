@@ -360,3 +360,4 @@ title: WebAssembly
 - [waPC-rs](https://github.com/wapc/wapc-rs) - Protocol for communicating in and out of WebAssembly. In Rust.
 - [Digital Twin Assembly (dtasm)](https://github.com/siemens/dtasm) - Binary interface (ABI) for executable numerical simulators compiled into WebAssembly modules.
 - [Security and Correctness in Wasmtime (2022)](https://bytecodealliance.org/articles/security-and-correctness-in-wasmtime) ([HN](https://news.ycombinator.com/item?id=32825377))
+- [Wasmtime 1.0 (2022)](https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready) ([HN](https://news.ycombinator.com/item?id=32913533))

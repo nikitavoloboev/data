@@ -403,3 +403,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Simple TikTok Video Downloader](https://github.com/rouze-d/tiktok-download)
 - [Pros/Cons of video editing tools (2022)](https://twitter.com/t3dotgg/status/1571239973252378627)
 - [What does the web of video look like?](https://twitter.com/amasad/status/1571540482412646401)
+- [Automatic YouTube subtitle generation](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles.

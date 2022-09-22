@@ -43,3 +43,4 @@ title: iOS Shortcuts
 - [Will Boyce's iOS shortcuts](https://github.com/wrboyce/ios-shortcuts)
 - [Generating Markdown Links to Mail Messages with Shortcuts and AppleScript (2022)](https://www.macstories.net/stories/generating-markdown-links-to-mail-messages-with-shortcuts-and-applescript/)
 - [Shortcuts in iOS 16: The Potential of App Shortcuts for Everyone (2022)](https://www.macstories.net/stories/shorcuts-in-ios-16-the-potential-of-app-shortcuts-for-everyone/)
+- [50+ apps that work with App Shortcuts in iOS 16 (2022)](https://matthewcassinelli.com/50-apps-app-shortcuts-ios-16/)

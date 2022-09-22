@@ -211,3 +211,5 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Cello](https://github.com/cello-proj/cello) - Service for running infrastructure as code software tools including CDK, Terraform and CloudFormation via GitOps.
 - [Good CI/CD and SRE Blogs (2022)](https://news.ycombinator.com/item?id=32864909)
 - [Shipping to Production](https://blog.pragmaticengineer.com/shipping-to-production/)
+- [Traditional packaging is not suitable for modern applications? (2022)](https://theevilskeleton.gitlab.io/2022/08/29/traditional-packaging-is-not-suitable-for-modern-applications.html) ([HN](https://news.ycombinator.com/item?id=32922901))
+- [Platformatic](https://github.com/platformatic/platformatic) - Set a Open Source tools that you can use to build your own Internal Developer Platform.

@@ -98,3 +98,4 @@ I try drink only water/tea with occasional coffee. No added sugar in food/drinks
 - [Everything Ian Somerhalder Eats in a Day](https://www.youtube.com/watch?v=qO--hy6Q-LA)
 - [Iollo](https://www.iollo.com/) - At-home metabolomics test to extend healthy lifespan. ([HN](https://news.ycombinator.com/item?id=32333417))
 - [Food for Piles: 15 Foods to Fight Hemorrhoids](https://www.healthline.com/nutrition/food-for-piles)
+- [Lose weight the slow and incredibly difficult way](https://nautil.us/lose-weight-the-slow-and-incredibly-difficult-way-239703/) ([HN](https://news.ycombinator.com/item?id=32936436))

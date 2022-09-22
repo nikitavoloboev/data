@@ -819,3 +819,5 @@ title: Kubernetes
 - [vault-k8s](https://github.com/hashicorp/vault-k8s) - First-class support for Vault and Kubernetes.
 - [Why Fix Kubernetes and Systemd? (2022)](https://medium.com/@kris-nova/why-fix-kubernetes-and-systemd-782840e50104) ([HN](https://news.ycombinator.com/item?id=32888538))
 - [Under-documented Kubernetes Security Tips (2022)](https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips/)
+- [Auraed](https://github.com/aurae-runtime/auraed) - Runtime daemon. Simplified systemd and kubelet alternative. Built for modern platform teams.
+- [metrics-agent](https://github.com/cloudability/metrics-agent) - Collects allocation metrics from a Kubernetes cluster system and sends the metrics to cloudability.

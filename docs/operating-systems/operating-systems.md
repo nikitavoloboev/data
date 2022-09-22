@@ -380,4 +380,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [libostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades.
 - [We clone a running VM in 2 seconds (2022)](https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds) ([HN](https://news.ycombinator.com/item?id=32683834))
 - [DBOS: A database-oriented operating system](https://dbos-project.github.io/blog/intro-blog.html) ([HN](https://news.ycombinator.com/item?id=32705025))
-- [Can I Use a System Call? | Cosmopolitan Libc](https://justine.lol/cosmopolitan/functions.html) ([Lobsters](https://lobste.rs/s/hdbb22/can_i_use_system_call))
+- [Can I Use a System Call? | Cosmopolitan Libc](https://justine.lol/cosmopolitan/functions.html) ([Lobsters](https://lobste.rs/s/hdbb22/can_i_use_system_call)) ([HN](https://news.ycombinator.com/item?id=32920227))

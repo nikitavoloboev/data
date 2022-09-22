@@ -2,6 +2,10 @@
 
 I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2334376869949242/) & [Pistol Whip](https://www.oculus.com/experiences/quest/2104963472963790/) on [Oculus Quest 2](https://www.oculus.com/quest-2/). Playing [Walkabout Mini Golf](https://www.oculus.com/experiences/quest/2462678267173943/) with friends is a great remote social bonding experience.
 
+I do hope another company with humane values takes over VR market so Meta/FB can finally go out of business. It's atrocious [what that company is doing](https://twitter.com/Erfan_khosravi/status/1572837240367370240) for the sake of extra business.
+
+Looking forward to when Apple will unveil their headset so I can start developing some apps for it.
+
 ## Games
 
 - [Lambda1VR](https://github.com/DrBeef/Lambda1VR) - Port of the Xash3D-FWGS Half Life Engine to Oculus Quest.

@@ -357,6 +357,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Medium](https://github.com/BlakeWilliams/medium) - Experimental Go code for writing web apps.
 - [httpsnoop](https://github.com/felixge/httpsnoop) - Provides an easy way to capture http related metrics (i.e. response time, bytes written, and http status code) from your application's http.Handlers.
 - [Statigz](https://github.com/vearutop/statigz) - Serves pre-compressed embedded files with http in Go.
+- [retry](https://github.com/shogo82148/go-retry) - Simple utils for exponential back off.
 
 ## GraphQL
 
@@ -547,6 +548,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [HaxMap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient Go concurrent hashmap.
 - [Storage](https://github.com/Shopify/go-storage) - Go package for abstracting local, in-memory, and remote (Google Cloud Storage/S3) file systems.
 - [Genna](https://github.com/dizzyfool/genna) - Model generator for go-pg package.
+- [objstore](https://github.com/thanos-io/objstore) - Go module providing unified interface and efficient clients to work with various object storage providers until like GCS, S3, Azure, SWIFT, COS and more.
 
 ## ML
 
@@ -1809,6 +1811,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go-SelfUpdate](https://github.com/creativeprojects/go-selfupdate) - Self-Update library for GitHub/Gitea hosted applications in Go.
 - [Gomme](https://github.com/oleiade/gomme) - Parser combinator library for Go.
 - [go-htmltable](https://github.com/nfx/go-htmltable) - HTML table data extractor for Go.
+- [gengo](https://github.com/kubernetes/gengo) - Package for generating things based on go files.
 
 ## Links
 
@@ -1958,3 +1961,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gta](https://github.com/digitalocean/gta) - Do transitive analysis to find packages whose dependencies have changed.
 - [Ent vs Bun (2022)](https://www.reddit.com/r/golang/comments/xe2djp/ent_vs_bun/)
 - [A Complete Guide to Logging in Go with Zerolog (2022)](https://betterstack.com/community/guides/logging/zerolog/)
+- [sketch](https://github.com/lestrrat-go/sketch) - Generate JSON (De)serializable Object From Go Schema.

@@ -87,3 +87,4 @@
 - [Ask HN: How to deal with children's online habits? (2022)](https://news.ycombinator.com/item?id=32124809)
 - [Ask HN: What was life like before and after a baby (2022)](https://news.ycombinator.com/item?id=32602181)
 - [Paul Graham's parenting advice](<https://twitter.com/search?q=(taught%20OR%20told)%20(from%3Apaulg)%20yo&src=typed_query&f=live>)
+- [Ask HN: About to have a child, completely burnt out at my job, what do I do? (2022)](https://news.ycombinator.com/item?id=32913377)

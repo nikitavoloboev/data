@@ -77,3 +77,4 @@ title: DNA
 - [Patchwork](https://github.com/fethalen/Patchwork) - Alignment-based retrieval and concatenation of phylogenetic markers from whole genome sequence (WGS) data.
 - [MeConcord](https://github.com/WangLabTHU/MeConcord) - Read-level DNA methylation analyses and visualization.
 - [GeneSpeak](https://github.com/sugatoray/genespeak) - Library to encode text as DNA and decode DNA to text.
+- [Quantum tunneling makes DNA more unstable (2022)](https://www.scientificamerican.com/article/quantum-tunneling-makes-dna-more-unstable/) ([HN](https://news.ycombinator.com/item?id=32925950))

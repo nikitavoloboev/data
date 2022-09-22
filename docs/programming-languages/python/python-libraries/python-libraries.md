@@ -120,6 +120,7 @@
 - [Regressio](https://github.com/brendanartley/Regressio) - Python library for univariate regression, interpolation, and smoothing. ([HN](https://news.ycombinator.com/item?id=32645063))
 - [MAPIE](https://github.com/scikit-learn-contrib/MAPIE) - Scikit-learn-compatible module for estimating prediction intervals.
 - [modelcards](https://github.com/nateraw/modelcards) - Utility to create, edit, and publish model cards on the Hugging Face Hub.
+- [xbatcher](https://github.com/xarray-contrib/xbatcher) - Batch Generation from Xarray Datasets.
 
 ## Biology
 
@@ -973,6 +974,8 @@
 - [String Grouper](https://github.com/Bergvca/string_grouper) - Super Fast String Matching in Python.
 - [HAX](https://github.com/brandtbucher/hax) - Write compiled bytecode inline with pure Python.
 - [redframes](https://github.com/maxhumber/redframes) - Python data manipulation library like dplyr. ([Lobsters](https://lobste.rs/s/yat4wf/redframes_python_data_manipulation))
+- [Rocketry](https://github.com/Miksus/rocketry) - Statement-based scheduling framework for Python. ([HN](https://news.ycombinator.com/item?id=32935506))
+- [Fasteners](https://github.com/harlowja/fasteners) - Cross-platform locks for threads and processes.
 
 ## Notes
 

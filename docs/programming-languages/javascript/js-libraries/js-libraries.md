@@ -1020,6 +1020,7 @@
 - [ready-resource](https://github.com/mafintosh/ready-resource) - Modern single resource management.
 - [Split2](https://github.com/mcollina/split2) - Stream and reassemble it so that each line is a chunk.
 - [Flow](https://github.com/sunag/flow) - Node-Graph, lightweight, cross-browser UI library.
+- [Postmate](https://github.com/dollarshaveclub/postmate) - Powerful, simple, promise-based postMessage iFrame communication library.
 
 ## Links
 

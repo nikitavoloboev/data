@@ -156,3 +156,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [headtail](https://github.com/CleanCut/headtail) - Head and tail simultaneously.
 - [enquirer](https://github.com/termapps/enquirer) - Command Line Utility for Stylish Interactive Prompts.
 - [Your favorite Rust CLI utilities this year (2022)](https://www.reddit.com/r/rust/comments/xgwe4u/your_favourite_rust_cli_utilities_this_year/)
+- [pipebuffer](https://github.com/tfenne/pipebuffer) - Simple command line program for buffering stdin/stdout between piped processes.

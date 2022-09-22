@@ -898,3 +898,4 @@ title: Rust
 - [Create Rust binaries, and Docker images with Nix (2022)](https://blog.sekun.dev/posts/create-rust-binaries-and-docker-images-with-nix/)
 - [What I learned from building an emoji URL shortener in Rust (2022)](https://blog.sekun.dev/posts/what-i-learned-from-building-a-rust-emoji-url-shortener/)
 - [Duolingo but for learning Rust](https://twitter.com/solanobahn/status/1571172677829726209)
+- [What I meant by the "soul of Rust" (2022)](https://smallcultfollowing.com/babysteps/blog/2022/09/19/what-i-meant-by-the-soul-of-rust/)

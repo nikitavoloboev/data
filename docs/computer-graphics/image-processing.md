@@ -203,3 +203,4 @@
 - [ClipDrop - Image upscaler](https://clipdrop.co/image-upscaler) - Upscale, denoise and enhance your images in seconds.
 - [Baseten](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV) - Photo restoration with GFP-GAN.
 - [Edgar Image](https://github.com/edgar-systems/edgar-image) - Image transformer that runs in a docker image which you can host where you want and put behind Cloudflare to cache the response.
+- [Zune-jpeg](https://github.com/etemesi254/zune-jpeg) - JPEG decoder with wings.

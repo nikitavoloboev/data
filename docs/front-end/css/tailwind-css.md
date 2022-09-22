@@ -158,3 +158,4 @@ title: Tailwind CSS
 - [Tailwind CSS Assistant](https://github.com/markmead/tailwindcss-assistant) - Tailwind CSS assistant allowing you to edit classes.
 - [tailwind-converter](https://github.com/lxsmnsyc/tailwind-converter) - Convert TailwindCSS classes to a single CSS class.
 - [TailwindCSS Themer](https://github.com/RyanClementsHax/tailwindcss-themer) - Unopinionated, scalable, TailwindCSS theming solution.
+- [Tailwind Color Picker](https://github.com/Nutlope/tailwind-color-picker) - Chrome extension color picker for Tailwind.
