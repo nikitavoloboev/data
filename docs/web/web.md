@@ -449,3 +449,4 @@
 - [Ask HN: What happened to vanilla HTML/CSS/JS development? (2022)](https://news.ycombinator.com/item?id=32780191)
 - [Ask HN: How do you find the weird parts of the web? (2022)](https://news.ycombinator.com/item?id=32804832)
 - [The Web is Good Now | Chris Coyier (2022)](https://www.youtube.com/watch?v=F18oy48jkrk)
+- [Definitions of web terminology (2022)](https://kaleidawave.github.io/posts/web-terminology/)

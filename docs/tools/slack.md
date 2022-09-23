@@ -11,6 +11,7 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [Monorobot](https://github.com/ahrefs/monorobot) - Slack bot for monorepos. ([Article](https://tech.ahrefs.com/monorobot-a-slack-bot-for-monorepos-374260e2ca43))
 - [dev-help Helper Bot](https://github.com/artsy/dev-help-helper-bot) - Marking thread that are solved by adding a ✅ on them.
 - [Hacker News Slack Bot](https://github.com/steven-tey/hacker-news-slack-bot) - Bot that monitors Hacker News for mentions of certain keywords, sends them to Slack.
+- [Zenra Bot for Slack](https://github.com/yusukebe/slack-zenra-bot) - Using new Slack platform in Deno.
 
 ## Notes
 

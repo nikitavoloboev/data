@@ -135,6 +135,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [noble-bls12-381](https://github.com/paulmillr/noble-bls12-381) - Fastest JS implementation of BLS12-381. Auditable, secure, 0-dependency aggregated signatures & pairings.
 - [Web Crypto Tools](https://github.com/willgm/web-crypto-tools) - Set of tools to facilitate and give good defaults for use of the native Web Crypto API.
 - [zkp-ecdsa](https://github.com/cloudflare/zkp-ecdsa) - Proves knowledge of an ECDSA-P256 signature under one of many public keys that are stored in a list.
+- [hpke-js](https://github.com/dajiaji/hpke-js) - Hybrid Public Key Encryption (HPKE) module built on top of Web Cryptography API.
 
 ## Error
 

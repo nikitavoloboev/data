@@ -976,6 +976,7 @@
 - [redframes](https://github.com/maxhumber/redframes) - Python data manipulation library like dplyr. ([Lobsters](https://lobste.rs/s/yat4wf/redframes_python_data_manipulation))
 - [Rocketry](https://github.com/Miksus/rocketry) - Statement-based scheduling framework for Python. ([HN](https://news.ycombinator.com/item?id=32935506))
 - [Fasteners](https://github.com/harlowja/fasteners) - Cross-platform locks for threads and processes.
+- [CameraTransform](https://github.com/rgerum/cameratransform) - Python package which can be used to fit camera transformations and apply them to project points from the camera space to the world space and back.
 
 ## Notes
 

@@ -134,6 +134,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Griddle](https://github.com/carson-katri/griddle) - Game was built to demonstrate Tokamak's Fiber backend, which can match SwiftUI nearly 1:1 on the web.
 - [SwiftPizza App for Apple ActivityKit & WidgetKit & Dynamic Island](https://github.com/1998code/iOS16-Live-Activities)
 - [Dynamic Islands](https://github.com/jordibruin/Dynamic-Islands) - Sample of dynamic island designs recreated for inspiration.
+- [Booky](https://github.com/mralexhay/Booky) - Demo app exploring the new App Intents framework in iOS 16.
 
 ## Other
 

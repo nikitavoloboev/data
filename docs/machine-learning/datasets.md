@@ -201,3 +201,4 @@
 - [Synthetic Faces High Quality (SFHQ) dataset](https://github.com/SelfishGene/SFHQ-dataset)
 - [Hugging Face Datasets Converter](https://github.com/nateraw/huggingface-datasets-converter) - Scripts to convert datasets from various sources to Hugging Face Datasets.
 - [Multimodal datasets: misogyny, pornography, and malignant stereotypes (2022)](https://arxiv.org/abs/2110.01963) ([Tweet](https://twitter.com/Abebab/status/1569366164442173448))
+- [Click Points](https://github.com/fabrylab/clickpoints) - Image viewer and on the other hand as an data display and annotation tool.
