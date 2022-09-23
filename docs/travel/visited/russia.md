@@ -610,3 +610,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Extending Russia: Competing from Advantageous Ground](https://www.rand.org/pubs/research_reports/RR3063.html)
 - [Azerbaijan invaded Armenia and Tajikistan attacked Kyrgyzstan](https://twitter.com/TBaktemir/status/1570924337334718465)
 - [Освобождение: публичный чат](https://t.me/NoArmyChat) - Законно и бесплатно освобождаем от призыва в армию.
+- [All you need to know about the Russian protests](https://twitter.com/BohdanaNeborak/status/1572889832879280131)

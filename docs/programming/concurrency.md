@@ -48,3 +48,4 @@ Concurrency is the composition of independently executing computations. [Real-Ti
 - [Notes on concurrency bugs (2016)](https://danluu.com/concurrency-bugs/) ([HN](https://news.ycombinator.com/item?id=31514822))
 - [Handling Concurrency Without Locks (2022)](https://hakibenita.com/django-concurrency) ([Lobsters](https://lobste.rs/s/abr8ls/handling_concurrency_without_locks))
 - [Concurrent approaches to concurrency (2020)](https://susliko.dev/posts/concurrency/)
+- [Uniqueness and Reference Immutability for Safe Parallelism (2012)](https://www.cs.drexel.edu/~csgordon/papers/oopsla12.pdf)

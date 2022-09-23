@@ -294,3 +294,4 @@ title: HTTP
 - [Fragments](https://github.com/corpulent/fragments) - Platform to compose and manage custom data objects for HTTP transactions.
 - [Wasabi](https://github.com/matoous/wasabi) - HTTP proxy that support web assembly plugins.
 - [Cache your CORS, for performance & profit](https://httptoolkit.tech/blog/cache-your-cors/)
+- [Webhook Sentry](https://github.com/juggernaut/webhook-sentry) - Proxy that helps you send webhooks to your customers securely.

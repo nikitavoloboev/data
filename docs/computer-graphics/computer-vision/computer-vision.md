@@ -931,3 +931,4 @@
 - [Learning Pixel Trajectories with Multiscale Contrastive Random Walks (2022)](https://arxiv.org/abs/2201.08379) ([Code](https://github.com/jasonbian97/flowwalk))
 - [Text2Light: Zero-Shot Text-Driven HDR Panorama Generation (2022)](https://frozenburning.github.io/projects/text2light/) ([Code](https://github.com/FrozenBurning/Text2Light))
 - [detrex](https://github.com/IDEA-Research/detrex) - Open-source toolbox that provides state-of-the-art Transformer-based detection algorithms.
+- [VToonify: Controllable High-Resolution Portrait Video Style Transfer (2022)](https://arxiv.org/abs/2209.11224) ([Code](https://github.com/williamyang1991/VToonify))

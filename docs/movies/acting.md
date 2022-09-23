@@ -40,3 +40,4 @@ I share a list of my favorite [actors](https://www.imdb.com/list/ls099077697/) &
 - [Who in your opinion are the most consistently excellent actors/actresses?](https://www.reddit.com/r/Letterboxd/comments/vfjc39/who_in_your_opinion_are_the_most_consistently/)
 - [Rowan Atkinson visual comedy (1992)](https://www.youtube.com/watch?v=LeuiFa9pI7c) ([HN](https://news.ycombinator.com/item?id=32131396))
 - [Favorite Male Actors (2022)](https://www.reddit.com/r/Letterboxd/comments/wbeyla/favorite_male_actors/)
+- [Movies in which an actor's performance completely astonished you? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/xl1159/movies_in_which_an_actors_performance_completely/)

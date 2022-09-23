@@ -67,6 +67,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Pierpaolo Rovero](https://www.instagram.com/pierpaolorovero/)
 - [Eva Eskelinen](https://www.instagram.com/evelmiina/)
 - [Daniel Mullen](https://www.instagram.com/daniel.j.mullen/)
+- [Alizé Jireh](https://www.instagram.com/alizejireh/) ([Twitter](https://twitter.com/AlizeJireh))
 - [Nydia Lilian](https://www.instagram.com/nydialilian/)
 - [Moonassi](http://www.moonassi.com/)
 - [Liam Wong](https://www.liamwong.com/)

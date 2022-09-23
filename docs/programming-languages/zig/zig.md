@@ -144,3 +144,4 @@ title: Zig
 - [Tree Sitter For Zig](https://github.com/maxxnino/tree-sitter-zig) - Zig's Tree Sitter based on Zig Spec Official.
 - [Building a Tiny Mutex (2022)](https://zig.news/kprotty/building-a-tiny-mutex-537k)
 - [How (memory) safe is zig? (2022)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
+- [Virtual tables with zig-sqlite (2022)](https://rischmann.fr/blog/virtual-tables-with-zig-sqlite)

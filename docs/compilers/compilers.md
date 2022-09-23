@@ -246,3 +246,4 @@
 - [Sarus](https://github.com/DGriffin91/Sarus) - JIT compiled language designed for real time contexts.
 - [History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking)](https://github.com/enzet/symbolic-execution)
 - [Report on Secure Compilation Research (2021)](https://drops.dagstuhl.de/opus/volltexte/2022/15933/pdf/dagrep_v011_i010_p173_21481.pdf)
+- [langcc](https://github.com/jzimmerman/langcc) - Next-Generation Compiler Compiler.

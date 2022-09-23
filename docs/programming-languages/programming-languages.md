@@ -422,3 +422,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [The Golden Age of PL Research (2022)](https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html)
 - [Brown CS: Programming Languages Course (2012)](https://cs.brown.edu/courses/csci1730/2012/)
 - [Val](https://www.val-lang.dev/) - Research programming language to explore the concepts of mutable value semantics and generic programming for high-level systems programming. ([Code](https://github.com/val-lang/val))
+- [Program Analysis (an Appetizer) (2020)](https://arxiv.org/abs/2012.10086)

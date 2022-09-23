@@ -54,7 +54,7 @@ title: ML Libraries
 - [Karate Club](https://github.com/benedekrozemberczki/karateclub) - General purpose community detection and network embedding library for research built on NetworkX.
 - [FlexFlow](https://github.com/flexflow/FlexFlow) - Distributed deep learning framework that supports flexible parallelization strategies.
 - [DeltaPy](https://github.com/firmai/deltapy) - Tabular Data Augmentation & Feature Engineering.
-- [TensorStore](https://github.com/google/tensorstore) - Library for reading and writing large multi-dimensional arrays.
+- [TensorStore](https://github.com/google/tensorstore) - Library for reading and writing large multi-dimensional arrays. ([Article](https://ai.googleblog.com/2022/09/tensorstore-for-high-performance.html))
 - [FATE](https://github.com/FederatedAI/FATE) - Industrial Level Federated Learning Framework.
 - [Deepkit](https://github.com/deepkit/deepkit) - Collaborative and real-time machine learning training suite: Experiment execution, tracking, and debugging.
 - [Sls](https://github.com/IssamLaradji/sls) - Stochastic Line Search.

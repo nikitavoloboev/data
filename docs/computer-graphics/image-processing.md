@@ -204,3 +204,4 @@
 - [Baseten](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV) - Photo restoration with GFP-GAN.
 - [Edgar Image](https://github.com/edgar-systems/edgar-image) - Image transformer that runs in a docker image which you can host where you want and put behind Cloudflare to cache the response.
 - [Zune-jpeg](https://github.com/etemesi254/zune-jpeg) - JPEG decoder with wings.
+- [Progressive image stippling and greedy blue noise importance sampling (2022)](https://bartwronski.com/2022/08/31/progressive-image-stippling-and-greedy-blue-noise-importance-sampling/)
