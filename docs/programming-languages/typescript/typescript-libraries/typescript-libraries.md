@@ -83,6 +83,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [zhead](https://github.com/harlan-zw/zhead) - Fully-typed utilities for defining, validating and building your document head.
 - [Farfetched](https://github.com/igorkamyshev/farfetched) - Advanced data fetching tool for web applications.
 - [Axios Cache Interceptor](https://github.com/arthurfiorette/axios-cache-interceptor) - Small and efficient cache interceptor for axios. Etag, Cache-Contol, TTL, HTTP headers and more.
+- [Mastak](https://github.com/araekiel/mastak) - Automated, in-memory caching package for APIs.
 
 ## GraphQL
 

@@ -12,7 +12,8 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 
 - [Remix + Cloudflare Workers starter with Turborepo](https://github.com/jacob-ebey/remix-chat)
 - [Remix + Deno + Rust -> Webassembly - The Air Metal Stack](https://github.com/benwis/air-metal-stack)
-- [remix + tRPC](https://github.com/mcansh/remix-trpc)
+- [Remix + tRPC](https://github.com/mcansh/remix-trpc)
+- [Remix + Preact](https://github.com/jacob-ebey/remix-preact)
 - [Remix Barebones Stack](https://github.com/dev-xo/barebones-stack)
 - [Remix Stripe Stack](https://github.com/dev-xo/stripe-stack) - Open source Remix Stack that integrates Stripe Subscriptions, Social Authentication, Testing and a few more features. SQLite version. Deploys to Fly.io.
 - [Prismix](https://github.com/riipandi/prismix) - Minimal containerized Remix Stack with Tailwind CSSS, SQLite, and Prisma ORM.

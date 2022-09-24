@@ -88,3 +88,4 @@ title: Reddit
 - [Scraping Reddit with Akka Streams](https://github.com/inanna-malick/akka-streams-example)
 - [Reddit's Favorite Products in One Place](https://looria.com/reddit/overview) ([HN](https://news.ycombinator.com/item?id=32764495))
 - [expanse](https://github.com/jc9108/expanse) - Fully self hosted multi-user web app for externally storing Reddit items.
+- [Related Subreddits By User/Redditor Overlap](https://subredditstats.com/subreddit-user-overlaps)

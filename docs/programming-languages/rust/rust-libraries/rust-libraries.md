@@ -2169,6 +2169,7 @@
 - [GDSL](https://github.com/juliuskoskela/gdsl) - Graph Data Structure Library.
 - [xorfilter](https://github.com/prataprc/xorfilter) - Rust library implementing xor-filters.
 - [rusty_ulid](https://github.com/huxi/rusty_ulid) - Rust ULID (Universally Unique Lexicographically Sortable Identifier) generation and processing.
+- [const-str](https://github.com/Nugine/const-str) - Compile-time string operations.
 
 ## Cargo Plugins
 

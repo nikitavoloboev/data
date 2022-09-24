@@ -129,3 +129,5 @@
 - [Muxfs](https://sdadams.org/blog/introducing-muxfs/) - Mirroring, checksumming, and self-healing filesystem layer for OpenBSD. ([HN](https://news.ycombinator.com/item?id=32456905))
 - [Understanding Google’s File System (2020)](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html)
 - [CernVM-File System](https://github.com/cvmfs/cvmfs) - Scalable, reliable and low- maintenance software distribution service.
+- [webfuse](https://github.com/falk-werner/webfuse) - Combines libwebsockets and libfuse. It allows ot attach a remote filesystem via websockets.
+- [Web Native File System (WNFS)](https://github.com/wnfs-wg/spec) - Distributed file system. It is versioned, logged, programmable, has strong-yet-flexible security, and is fully controlled by the end user.

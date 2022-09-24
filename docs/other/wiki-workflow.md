@@ -142,6 +142,7 @@ I want to:
 - [Nat Eliason notes](https://www.nateliason.com/notes)
 - [Bharat’s Digital Garden](https://bharatkalluri.com/notes)
 - [Chrisman Brown](https://github.com/chrisman/knowledge/wiki)
+- [Brian Turchyn](https://wiki.brianturchyn.net/) ([Code](https://github.com/b-turchyn/wiki))
 - [Sridhar Ratnakumar](https://www.srid.ca/z-index.html)
 - [Timothy Andrew](https://timothyandrew.net/learning/)
 - [Dennis Ideler's notes](https://github.com/dideler/notes)
@@ -527,3 +528,4 @@ I want to:
 - [Cuby Text](https://github.com/vincentdchan/CubyText) - Open-source knowledge management app.
 - [mdSilo](https://mdsilo.com/) - Mind silo for storing ideas, thought, knowledge with a powerful writing tool. built with React and Tauri. ([Code](https://github.com/danloh/mdSilo-app))
 - [Auto Archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content in a Google Sheet.
+- [jot](https://github.com/araekiel/jot) - Rapid note management for the terminal. ([HN](https://news.ycombinator.com/item?id=32962524))
