@@ -222,3 +222,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Ask HN: Why hasn't the ACH system been more abused? (2022)](https://news.ycombinator.com/item?id=32641259)
 - [It’s not what you earn, it’s what you get to keep. My 10 favorite tax hacks for business owners.](https://twitter.com/baldridgecpa/status/1568961457878110211)
 - [Tiingo Python](https://github.com/hydrosquall/tiingo-python) - Python client for interacting with the Tiingo Financial Data API (stock ticker and news data).
+- [Venice](https://github.com/usevenice/venice) - Fastest way to get financial data from Plaid into your Postgres database. Go from zero to production in 5 minutes without a single line of code.

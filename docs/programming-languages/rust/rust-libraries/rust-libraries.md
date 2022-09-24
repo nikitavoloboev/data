@@ -2165,6 +2165,7 @@
 - [Timer](https://github.com/Yoric/timer.rs) - Simple implementation of a timer for Rust.
 - [toml_edit](https://github.com/ordian/toml_edit) - Format-preserving TOML parser.
 - [Melior](https://github.com/raviqqe/melior) - Rustic MLIR bindings for Rust.
+- [GDSL](https://github.com/juliuskoskela/gdsl) - Graph Data Structure Library.
 
 ## Cargo Plugins
 

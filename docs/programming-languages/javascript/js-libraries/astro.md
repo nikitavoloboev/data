@@ -54,3 +54,4 @@ title: Astro
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Makes it easy to add information that is relevant for SEO to your Astro app.
 - [Astro Auth](https://github.com/astro-community/astro-auth) - Easiest Way To Do Authentication In Astro.
 - [Seamless Page Transitions with Astro and Web Platform APIs (with Maxi Ferreira) (2022)](https://someantics.dev/astro-page-transitions/)
+- [Astro x tRPC](https://github.com/MoustaphaDev/astro-trpc) - End-to-end typesafe APIs in Astro wesbites made easy.

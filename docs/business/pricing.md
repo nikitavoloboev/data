@@ -92,3 +92,4 @@
 - [How to offer effective free trials](https://upollo.ai/blog/effective-trials) ([HN](https://news.ycombinator.com/item?id=32658926))
 - [Lotus](https://www.uselotus.io/) - Open Source Pricing and Billing Engine for SaaS. ([Code](https://github.com/uselotus/lotus))
 - [Ask HN: Why is everything a SaaS product? (2022)](https://news.ycombinator.com/item?id=32856779)
+- [Stripe Subscription Upsells Docs](https://stripe.com/docs/payments/checkout/upsells) ([Tweet](https://twitter.com/monicalent/status/1573225232948928512))

@@ -57,7 +57,7 @@ title: Zig
 - [Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun (2021)](https://kevinlynagh.com/rust-zig/) ([Lobsters](https://lobste.rs/s/eppfav/why_i_rewrote_my_rust_keyboard_firmware))
 - [Memory-mapped IO registers in zig (2021)](https://scattered-thoughts.net/writing/mmio-in-zig/) ([Lobsters](https://lobste.rs/s/46xhdl/memory_mapped_io_registers_zig))
 - [Zig, Parser Combinators - and Why They're Awesome (2021)](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
-- [How Safe Is Zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig/) ([Lobsters](https://lobste.rs/s/v5y4jb/how_safe_is_zig)) ([HN](https://news.ycombinator.com/item?id=26537693)) ([HN](https://news.ycombinator.com/item?id=31850347))
+- [How (memory) safe is Zig? (2022)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/) ([Lobsters](https://lobste.rs/s/v5y4jb/how_safe_is_zig)) ([HN](https://news.ycombinator.com/item?id=26537693)) ([HN](https://news.ycombinator.com/item?id=31850347)) ([Lobsters](https://lobste.rs/s/nw7hsd/how_memory_safe_is_zig_updated))
 - [Zig Playground](https://zig-play-a9lwj.ondigitalocean.app/) - Online Zig compiler inspired by Go and Rust. ([Code](https://github.com/gsquire/zig-play))
 - [zigdoc](https://github.com/g-w1/zigdoc) - zig -> docs.
 - [zig.run](https://zig.run/) - Run and play with Zig source code. ([Code](https://github.com/jlauman/zig.run))
@@ -143,5 +143,4 @@ title: Zig
 - [Zig, the Small Language (2022)](https://zserge.com/posts/zig-the-small-language/) ([HN](https://news.ycombinator.com/item?id=32752383))
 - [Tree Sitter For Zig](https://github.com/maxxnino/tree-sitter-zig) - Zig's Tree Sitter based on Zig Spec Official.
 - [Building a Tiny Mutex (2022)](https://zig.news/kprotty/building-a-tiny-mutex-537k)
-- [How (memory) safe is zig? (2022)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 - [Virtual tables with zig-sqlite (2022)](https://rischmann.fr/blog/virtual-tables-with-zig-sqlite)

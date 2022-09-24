@@ -472,3 +472,4 @@ if (
 - [Sandworm](https://github.com/sandworm-hq/sandworm-js) - Easy sandboxing for your JavaScript dependencies. ([Docs](https://docs.sandworm.dev/))
 - [Extractors for ECMAScript](https://github.com/tc39/proposal-extractors)
 - [Weak JS map](https://gist.github.com/steveruizok/3d1bf2b95c1bbac9b46658527a2ca717) ([Tweet](https://twitter.com/_chenglou/status/1570895293784391681))
+- [Writing composable SQL using JavaScript by Gajus Kuizinas (2022)](https://contra.com/p/AqZWWoUB-writing-composable-sql-using-java-script)

@@ -167,3 +167,4 @@
 - [CPU Benchmarks Set](https://github.com/EntityFX/anybench)
 - [Intel’s Meteor Lake Chiplets, Compared to AMD’s (2022)](https://chipsandcheese.com/2022/09/10/hot-chips-34-intels-meteor-lake-chiplets-compared-to-amds/) ([HN](https://news.ycombinator.com/item?id=32811088))
 - [Ask HN: What'd be possible with 1000x faster CPUs? (2022)](https://news.ycombinator.com/item?id=32931041)
+- [A history of ARM, part 1: Building the first chip (2022)](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)

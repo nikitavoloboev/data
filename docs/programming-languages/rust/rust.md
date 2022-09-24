@@ -900,3 +900,4 @@ title: Rust
 - [Duolingo but for learning Rust](https://twitter.com/solanobahn/status/1571172677829726209)
 - [What I meant by the "soul of Rust" (2022)](https://smallcultfollowing.com/babysteps/blog/2022/09/19/what-i-meant-by-the-soul-of-rust/)
 - [Rust 2024 the Year of Everywhere? (2022)](https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/) ([Reddit](https://www.reddit.com/r/rust/comments/xlc5rz/rust_2024the_year_of_everywhere_by_niko/)) ([HN](https://news.ycombinator.com/item?id=32945978))
+- [What's your favorite Rust design pattern? (2022)](https://www.reddit.com/r/rust/comments/xmc91c/whats_your_favorite_rust_design_pattern/)
