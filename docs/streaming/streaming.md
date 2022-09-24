@@ -45,13 +45,12 @@ Here are tools I use for streaming:
 - [How to Use OBS Studio to Record or Stream Live Presentations (2020)](https://eheidi.dev/_to/20200510_how-to-use-obs-studio-to-record-or-stream-live-presentations-474j)
 - [StreamLogger (2020)](https://duan.ca/2020/06/13/stream-logger/)
 - [Owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself. Streaming + chat out of the box. ([Docs](https://owncast.online/))
-- [OBS.Ninja](https://obs.ninja/) - Bring video from your smartphone, computer, or friends directly into your OBS video stream.
+- [VDO.Ninja](https://vdo.ninja/) - Bring video from your smartphone, computer, or friends directly into your OBS video stream. ([Code](https://github.com/steveseguin/vdo.ninja))
 - [Streamwall](https://github.com/streamwall/streamwall) - Makes it easy to compose multiple livestreams into a mosaic, with source attributions and audio control.
 - [Character Overlay](https://character-overlay.n1ru4l.cloud/) - Web App for adding an OBS overlay with character information such as name, picture, and health for your favorite role-playing game. ([Code](https://github.com/n1ru4l/obs-character-info))
 - [OBSWebSocket.JS](https://github.com/haganbmj/obs-websocket-js) - Allows JavaScript-based connections to the Open Broadcaster plugin obs-websocket.
 - [Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - Self contained OBS -> FTL -> WebRTC live streaming server. ([HN](https://news.ycombinator.com/item?id=25627673)) ([Reddit](https://www.reddit.com/r/golang/comments/kq02da/project_lightspeed_a_selfcontained_subsecond_open/))
 - [Infrastructure for rendering and streaming movies (Kubecon 2019)](https://www.youtube.com/watch?v=VtedIghTPzI)
-- [OBS.Ninja](https://github.com/steveseguin/obsninja) - Lets you bring remote video feeds into OBS via WebRTC. ([Web](https://obs.ninja/))
 - [Code streaming: hundred ounces of nuances (2021)](https://solovyov.net/blog/2021/streaming/)
 - [Guide: Live-Streaming for Performance-Makers (2021)](https://jackp.svbtle.com/live-streaming-for-performance-makers)
 - [Vigilio](https://vigilio.tugcan.net/) - Your own movie streaming service. Easy to install, easy to use. ([Code](https://github.com/tugcanolgun/vigilio))
@@ -84,7 +83,6 @@ Here are tools I use for streaming:
 - [Twitchat](https://twitchat.fr/) - Full featured Twitch chat alternative to fill gaps from the official one. ([Code](https://github.com/Durss/Twitchat))
 - [Live Streaming Architecture (2017)](https://www.youtube.com/watch?v=RvsaosnEHWc)
 - [LAL](https://github.com/q191201771/lal) - Audio/video live streaming broadcast server written in Go.
-- [VDO Ninja](https://vdo.ninja/)
 - [SonoBus](https://www.sonobus.net/) - High-quality, low-latency peer-to-peer audio. ([HN](https://news.ycombinator.com/item?id=31505323))
 - [Video Live Streaming: Notes on RTMP, HLS, and WebRTC (2022)](https://www.daily.co/blog/video-live-streaming/) ([HN](https://news.ycombinator.com/item?id=31642292))
 - [An insight into live video streaming infrastructure at Twitch](https://www.scaleyourapp.com/live-video-streaming-infrastructure-at-twitch/) ([HN](https://news.ycombinator.com/item?id=31648180))
