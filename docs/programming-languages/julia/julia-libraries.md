@@ -220,6 +220,8 @@
 - [GeometryBasics.jl](https://github.com/JuliaGeometry/GeometryBasics.jl) - Basic geometry types.
 - [Forecast](https://github.com/viraltux/Forecast.jl) - Julia package containing utilities intended for Time Series analysis.
 - [BSplines](https://github.com/sostock/BSplines.jl) - Data types and functions for working with B-splines as a means to approximate real functions.
+- [BasicBSpline.jl](https://github.com/hyrodium/BasicBSpline.jl) - Basic (mathematical) operations for B-spline functions and related things with julia.
+- [FastGaussQuadrature.jl](https://github.com/JuliaApproximation/FastGaussQuadrature.jl) - Julia package for Gaussian quadrature.
 
 ## NLP
 
@@ -731,6 +733,10 @@
 - [Overseer](https://github.com/louisponet/Overseer.jl) - Entity Component System with Julia.
 - [Glimpse](https://github.com/louisponet/Glimpse.jl) - Attempt at creating a midlevel rendering library using the refactored GLAbstraction.
 - [PartialFunctions](https://github.com/archermarx/PartialFunctions.jl) - Small package to simplify partial function application.
+- [Rotations.jl](https://github.com/JuliaGeometry/Rotations.jl) - 3D rotations made easy in Julia.
+- [IntervalSets.jl](https://github.com/JuliaMath/IntervalSets.jl) - Interval Sets for Julia.
+- [Quaternions.jl](https://github.com/JuliaGeometry/Quaternions.jl) - Julia module with quaternion and dual-quaternion functionality.
+- [MarkdownTables.jl](https://github.com/tpapp/MarkdownTables.jl) - Lightweight package to print a table that implements the Tables.jl interface in Markdown.
 
 ## Links
 

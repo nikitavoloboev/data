@@ -43,3 +43,4 @@ title: Logseq
 - [Logseq Plugin API docs](https://plugins-doc.logseq.com/) ([Code](https://github.com/logseq/plugins))
 - [Logseq Todo Plugin](https://github.com/ahonn/logseq-plugin-todo) - Simple to-do list plugin for logseq.
 - [Logseq Plugin Template React](https://github.com/pengx17/logseq-plugin-template-react)
+- [Athens exporter](https://github.com/bshepherdson/athens-export) - Standalone tool that converts an Athens Research database into a logseq directory.

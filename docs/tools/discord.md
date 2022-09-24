@@ -63,6 +63,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Apple Updates](https://github.com/Minh-Ton/apple-updates) - Discord bot for pushing notifications about new Apple OS updates.
 - [Fish](https://github.com/Benricheson101/anti-phishing-bot) - Discord bot for deleting Steam/Discord phishing links.
 - [CRBT](https://crbt.app/) - Multipurpose verified Discord bot that's minimalistic and easy to use.
+- [AutoModerator](https://github.com/ChatSift/AutoModerator) - Helping sift through user content and provide security to the community.
 
 ## Libraries
 

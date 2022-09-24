@@ -1812,6 +1812,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Gomme](https://github.com/oleiade/gomme) - Parser combinator library for Go.
 - [go-htmltable](https://github.com/nfx/go-htmltable) - HTML table data extractor for Go.
 - [gengo](https://github.com/kubernetes/gengo) - Package for generating things based on go files.
+- [btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go.
 
 ## Links
 

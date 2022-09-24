@@ -13,6 +13,7 @@ title: Godot
 - [Shotcaller](https://github.com/spicylobstergames/shotcaller-godot) - Minimalistic 1v1 MOBA/RTS in top-down pixel style.
 - [Mightiest Steel](https://github.com/AaronWizard/LegendsOfMajesticSteel) - Power metal strategy RPG.
 - [Star Engine](https://github.com/mr-pedro-braga/star-engine-core) - Multi-level API for developing RPG-like games in Godot.
+- [ROTA](https://github.com/HarmonyHoney/ROTA) - Made with Godot 3.5 / Gravity Bending Puzzle Platformer.
 
 ## Links
 

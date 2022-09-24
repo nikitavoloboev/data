@@ -688,3 +688,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Tornado Cash](https://github.com/tornadocash) - Privacy Solution for Ethereum.
 - [Art Gobblers](https://github.com/artgobblers/art-gobblers) - Experimental decentralized art factory by Justin Roiland and Paradigm.
 - [Zora Create / Mint Page Template](https://github.com/ourzora/mint-page-template)
+- [Solbase](https://github.com/Sol-DAO/solbase) - Modern, opinionated, and gas optimized base for smart contract development.

@@ -206,3 +206,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [Best free software for embedded systems schematics](https://www.reddit.com/r/embedded/comments/x6mbo2/best_free_software_for_embedded_systems_schematics/)
 - [Blech](https://github.com/blech-lang/blech) - Language for developing reactive, real-time critical embedded software. ([Web](https://www.blech-lang.org/)) ([HN](https://news.ycombinator.com/item?id=32749906))
 - [tbot](https://github.com/Rahix/tbot) - Automation/Testing tool for Embedded Linux Development.
+- [espflash](https://github.com/esp-rs/espflash) - Serial flasher utility for Espressif SoCs and modules based on esptool.py.

@@ -573,3 +573,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postgres Data Flow (2022)](https://www.crunchydata.com/blog/postgres-data-flow)
 - [Postgres database functions are your next favorite feature (2022)](https://mirror.xyz/0x7D15080A13c8128dBAf90a2c2326058b5c1D5eac/MaiOq5m1xSa9QfMuiLYq4bJdA0owWoTpOZNlQv76_so)
 - [Fun With Postgres Functions (2022)](https://www.crunchydata.com/blog/fun-with-postgres-functions)
+- [plpgsql_check](https://github.com/okbob/plpgsql_check) - Linter tool (does source code static analyze) for the PostgreSQL language plpgsql.

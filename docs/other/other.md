@@ -673,3 +673,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Bored Wizards Discord](https://discord.com/invite/aF8m3nyV)
 - [CodeBookClub Discord](https://discord.com/invite/b9dJAfHvxN)
 - [Ask HN: Where are the interesting conversations? (2022)](https://news.ycombinator.com/item?id=32886926)
+- [OSINT tools collection](https://github.com/cipher387/osint_stuff_tool_collection)

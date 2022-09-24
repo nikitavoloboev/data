@@ -41,3 +41,4 @@ Most if not all songs in my [Focus](https://open.spotify.com/playlist/0ESjwZeTcH
 - [Earth.fm](https://earth.fm/) - Like Spotify, but for natural soundscapes.
 - [Flowful](https://www.flowful.app/) - Ambient music generators that run in your browser. ([HN](https://news.ycombinator.com/item?id=32149989))
 - [Groovi](https://groovi.hxrsh.in/) - Create soothing focus mixes. ([Code](https://github.com/harshhhdev/groovi))
+- [Nightdrive](https://incoherency.co.uk/nightdrive/) - Night-time driving simulation. ([Code](https://github.com/jes/nightdrive))

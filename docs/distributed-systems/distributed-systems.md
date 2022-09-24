@@ -280,3 +280,4 @@
 - [Shadow Simulator](https://github.com/shadow/shadow) - Discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems.
 - [Aneris](https://github.com/logsem/aneris) - Program logic for developing and verifying distributed systems.
 - [How Tencent Maintains Apache Pulsar Clusters with over 100 Billion Messages Daily (2022)](https://streamnative.io/blog/case/2022-08-18-client-optimization-how-tencent-maintains-apache-pulsar-clusters-with-over-100-billion-messages-daily/)
+- [CID (Content IDentifier) Specification](https://github.com/multiformats/cid) - Self-describing content-addressed identifiers for distributed systems.

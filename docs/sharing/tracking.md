@@ -63,3 +63,4 @@ Here is a list of various things I track for my own use and reference.
 - [I put my whole life into a single database (2022)](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database) ([HN](https://news.ycombinator.com/item?id=31186696))
 - [Haptic](https://haptic.app/) - Private journal to track anything. ([Twitter](https://twitter.com/hapticapp))
 - [Stalker](https://github.com/kognise/stalker) - Thing that watches everything I do.
+- [Toggl](https://toggl.com/) - Time tracking that's easy, powerful, and frictionless. ([CLI](https://github.com/AuHau/toggl-cli))
