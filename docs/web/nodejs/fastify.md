@@ -70,3 +70,4 @@ title: Fastify
 - [Fastify OpenApi Glue](https://github.com/seriousme/fastify-openapi-glue) - Plugin for Fastify to autogenerate a configuration based on a OpenApi(v2/v3) specification.
 - [Chino](https://github.com/soulsam480/chino) - End-to-End type safety for REST APIs written in Fastify.
 - [fastify-slow-down](https://github.com/nearform/fastify-slow-down) - Slow down plugin for fastify.
+- [Kita](https://github.com/arthurfiorette/kita) - Semi-opinionated fastify based typescript framework. No runtime code == blazingly fast.

@@ -45,3 +45,4 @@ And of course this system of knowledge indexing is very flexible and I am experi
 - [Tacit knowledge is more important than deliberate practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/) ([HN](https://news.ycombinator.com/item?id=29531947))
 - [Diff](https://diff.wikimedia.org/) - News from across the Wikimedia movement.
 - [The sum of all knowledge and the sorry state of the web (2022)](https://christianheilmann.com/2022/08/29/the-sum-of-all-knowledge/) ([HN](https://news.ycombinator.com/item?id=32948506))
+- [Wiki Graph](https://github.com/francis-du/wiki-graph) - Wikipedia search visualization tool.

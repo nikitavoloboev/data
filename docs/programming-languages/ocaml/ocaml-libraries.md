@@ -209,6 +209,7 @@ title: OCaml libraries
 - [Algebraic Effect](https://github.com/songyahui/AlgebraicEffect) - Effects system for continuation.
 - [metadata](https://github.com/savonet/ocaml-metadata) - Library to read metadata from files in various formats.
 - [Tensority](https://github.com/Octachron/tensority) - Strongly typed multidimensional array library for OCaml.
+- [ocaml-optics](https://github.com/geocaml/ocaml-optics) - Monomorphic optics using existentials.
 
 ## Links
 

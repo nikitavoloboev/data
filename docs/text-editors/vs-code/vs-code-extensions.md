@@ -194,6 +194,7 @@ Below is a list of extensions I use.
 - [VS Code Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) - Adds playful pets in your VS Code window. ([Code](https://github.com/tonybaloney/vscode-pets))
 - [Script Kit](https://marketplace.visualstudio.com/items?itemName=johnlindquist.kit-extension) - Run the currently open file in Script Kit. ([Code](https://github.com/johnlindquist/kit-extension))
 - [Height Code to Task](https://marketplace.visualstudio.com/items?itemName=Height.height-vscode) - Automatically create tasks right from code comments. ([Web](https://height.app/code-to-task))
+- [Linked Data](https://marketplace.visualstudio.com/items?itemName=Elsevier.linked-data) - Shortcuts for standard Linked Data operations, format conversions, validation, querying and a graph visualization. ([Code](https://github.com/elsevierlabs-os/linked-data))
 
 ## Shell
 

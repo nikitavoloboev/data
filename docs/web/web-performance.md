@@ -200,3 +200,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Web Frameworks Benchmark](https://web-frameworks-benchmark.netlify.app/)
 - [Web Performance Research](https://github.com/imteekay/web-performance-research)
 - [crabby](https://github.com/chrissnell/crabby) - Web page performance tester with support for Prometheus, InfluxDB, Graphite, Datadog, and Riemann.
+- [Making the World's Fastest Website and Other Mistakes w/ Taylor Hunt (2022)](https://www.youtube.com/watch?v=Vcq2DvkMz3k)

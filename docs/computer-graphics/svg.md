@@ -164,3 +164,4 @@
 - [Visualizing SVG viewbox](https://twitter.com/DanHollick/status/1552315316629254144)
 - [DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) - JavaScript library for creating SVG flow diagrams.
 - [SVG Tiler](https://github.com/edemaine/svgtiler) - Tool for drawing diagrams on a grid, combining grids of SVGs into a big SVG figure.
+- [svgpathtools](https://github.com/mathandy/svgpathtools) - Collection of tools for manipulating and analyzing SVG Path objects and Bezier curves.

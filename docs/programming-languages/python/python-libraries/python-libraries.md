@@ -977,6 +977,8 @@
 - [Rocketry](https://github.com/Miksus/rocketry) - Statement-based scheduling framework for Python. ([HN](https://news.ycombinator.com/item?id=32935506))
 - [Fasteners](https://github.com/harlowja/fasteners) - Cross-platform locks for threads and processes.
 - [CameraTransform](https://github.com/rgerum/cameratransform) - Python package which can be used to fit camera transformations and apply them to project points from the camera space to the world space and back.
+- [DataFusion in Python](https://github.com/apache/arrow-datafusion-python) - Python library that binds to Apache Arrow in-memory query engine DataFusion.
+- [DeepForcedAligner](https://github.com/as-ideas/DeepForcedAligner) - Create accurate text-audio alignments given a bunch of audio files and their transcription.
 
 ## Notes
 

@@ -24,6 +24,7 @@ Will make a web explorer for Karabiner/Goku bindings soon. But briefly, I group 
 
 -  [Goku In The Wild](https://github.com/yqrashawn/GokuRakuJoudo/blob/master/in-the-wild.md)
 -  [George Nica](https://github.com/kiinoda/goku)
+-  [Max Stoiber's Karabiner config/generator](https://github.com/mxstbr/karabiner)
 
 ## Notes
 

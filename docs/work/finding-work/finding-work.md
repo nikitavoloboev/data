@@ -181,3 +181,4 @@ Companies that do [location-based pay bands](https://twitter.com/kyleve/status/1
 - [Awesome Recruitment](https://github.com/Sjamilla/awesome-recruitment) - List of my favorite recruitment things.
 - [Ask HN: Have tech salaries been stagnant for the past decade? (2022)](https://news.ycombinator.com/item?id=32849258)
 - [Alex Staff Agency](https://alexstaff.agency/)
+- [Ask HN: Strategies to land remote US job while living in living in EU? (2022)](https://news.ycombinator.com/item?id=32961061)

@@ -513,6 +513,7 @@
 - [Core Error](https://github.com/core-error/core-error) - Traits for working with Error in std-less environments.
 - [Serum Errors](https://github.com/serum-errors/serum-spec) - Specification for human-readable, machine-managable, observable/serializable/cross-language errors and error handling.
 - [tracked](https://github.com/trevyn/tracked) - Stringly-typed Error that includes #[track_caller] information.
+- [fused_error](https://github.com/seancroach/fused_error) - Simple library for working with composable errors.
 
 ## IO
 
@@ -2166,6 +2167,7 @@
 - [toml_edit](https://github.com/ordian/toml_edit) - Format-preserving TOML parser.
 - [Melior](https://github.com/raviqqe/melior) - Rustic MLIR bindings for Rust.
 - [GDSL](https://github.com/juliuskoskela/gdsl) - Graph Data Structure Library.
+- [xorfilter](https://github.com/prataprc/xorfilter) - Rust library implementing xor-filters.
 
 ## Cargo Plugins
 

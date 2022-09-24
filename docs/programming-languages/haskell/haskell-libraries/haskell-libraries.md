@@ -372,6 +372,8 @@
 - [contiguous](https://github.com/andrewthad/contiguous) - Typeclass for array types.
 - [Apple Array System](https://github.com/vmchale/apple)
 - [Klister](https://github.com/gelisam/klister) - Partial implementation of a macro expander in which macros can get stuck.
+- [monoid-subclasses](https://github.com/blamario/monoid-subclasses) - Subclasses of Monoid with a solid theoretical foundation and practical purposes.
+- [Grampa](https://github.com/blamario/grampa) - Grammar parser - combinator library for parsing a general context-free grammar.
 
 ## Notes
 

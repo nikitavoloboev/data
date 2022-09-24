@@ -261,3 +261,4 @@
 - [Ask HN: What are the alternatives to phone authentication? (2022)](https://news.ycombinator.com/item?id=32737963)
 - [IndieLogin](https://github.com/aaronpk/indielogin.com) - Sign in with your domain name. ([Web](https://indielogin.com/))
 - [Passkeys (2022)](https://www.imperialviolet.org/2022/09/22/passkeys.html) ([Lobsters](https://lobste.rs/s/f36van/passkeys)) ([HN](https://news.ycombinator.com/item?id=32946750))
+- [pizauth](https://github.com/ltratt/pizauth) - Program for obtaining, handing out, and refreshing OAuth2 access tokens.
