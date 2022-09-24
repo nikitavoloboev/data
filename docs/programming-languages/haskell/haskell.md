@@ -456,3 +456,4 @@ title: Haskell
 - [Functions Types, Currying, Partial application, Higher-order functions (2022)](https://alt-romes.github.io/archive/2022-05-08-lecture-2.html)
 - [How to make a Haskell program 5x faster with 16 lines of code (2022)](https://www.youtube.com/watch?v=yRVjR9XcuPU)
 - [Easy JSON in Haskell (2022)](https://blog.drewolson.org/easy-json)
+- [Easy incremental Haskell CI builds with GHC 9.4 (2022)](https://harry.garrood.me/blog/easy-incremental-haskell-ci-builds-with-ghc-9.4/)

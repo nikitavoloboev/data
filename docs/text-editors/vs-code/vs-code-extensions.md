@@ -195,6 +195,7 @@ Below is a list of extensions I use.
 - [Script Kit](https://marketplace.visualstudio.com/items?itemName=johnlindquist.kit-extension) - Run the currently open file in Script Kit. ([Code](https://github.com/johnlindquist/kit-extension))
 - [Height Code to Task](https://marketplace.visualstudio.com/items?itemName=Height.height-vscode) - Automatically create tasks right from code comments. ([Web](https://height.app/code-to-task))
 - [Linked Data](https://marketplace.visualstudio.com/items?itemName=Elsevier.linked-data) - Shortcuts for standard Linked Data operations, format conversions, validation, querying and a graph visualization. ([Code](https://github.com/elsevierlabs-os/linked-data))
+- [Toggle VS Code](https://github.com/rebornix/vscode-toggle) - Toggle any VS Code setting by your favorite keybindings.
 
 ## Shell
 
