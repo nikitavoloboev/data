@@ -170,6 +170,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Ricardo Ander-Egg](https://ricardoanderegg.com/posts/)
 - [Josh Bleecher Snyder](https://commaok.xyz/)
 - [Things Of Interest](https://qntm.org/)
+- [Ryan Mulligan](https://ryanmulligan.dev/blog/)
 
 ## Notes
 

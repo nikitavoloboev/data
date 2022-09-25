@@ -55,6 +55,7 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [My main goal in most convos is to find the thing that makes the other person’s eyes sparkle.](https://twitter.com/mollyfmielke/status/1473652440020910081)
 - [Who you bounce around reflections of the world with seems like the single most influential input on your curiosity, creativity, and how clearly you see the world. incalculable how much being + picking friends that coax conviction and help create contentedness pays off in purpose.](https://twitter.com/mollyfmielke/status/1493634386423468034)
 - [Being low agreeableness is a tax on everyone who happens to encounter you.](https://twitter.com/eigenrobot/status/1505611321533997057)
+- [Communication can be a sign of dysfunction in teams. Means people aren't working together in a close, organic way.](https://twitter.com/FoundersPodcast/status/1574043271495438337)
 
 ## Links
 

@@ -13,6 +13,7 @@ So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](unit
 ## Notes
 
 - [Czech has low income taxes. Base rate is 15 and 22 % is high rate. But you also add social and health insurance. We also have small business licenses where you can significantly reduce social so no retirement fund but a lot of cash on hand.](https://www.reddit.com/r/eupersonalfinance/comments/we1pod/about_7000_to_15000_income_per_month_how_to_invest/)
+- [After 3 weeks of living in Europe I would like to admit I was wrong. Cities arent spiritually bankrupt wastelands, I only ever lived in North American ones and did not expect how incredible it is to live in cities that cater to the human experience.](https://twitter.com/lilbabygandhi/status/1573683284416102402)
 
 ## Links
 

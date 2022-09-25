@@ -473,3 +473,4 @@ if (
 - [Extractors for ECMAScript](https://github.com/tc39/proposal-extractors)
 - [Weak JS map](https://gist.github.com/steveruizok/3d1bf2b95c1bbac9b46658527a2ca717) ([Tweet](https://twitter.com/_chenglou/status/1570895293784391681))
 - [Writing composable SQL using JavaScript by Gajus Kuizinas (2022)](https://contra.com/p/AqZWWoUB-writing-composable-sql-using-java-script)
+- [Control the behavior of JavaScript imports with Import Maps (2021)](https://www.bram.us/2021/03/03/control-the-behavior-of-javascript-imports-with-import-maps/) ([Tweet](https://twitter.com/bramus/status/1573990239605067778))

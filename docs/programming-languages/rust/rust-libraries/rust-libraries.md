@@ -683,6 +683,9 @@
 - [shared-bus](https://github.com/Rahix/shared-bus) - Crate for sharing buses between multiple devices.
 - [usbip](https://github.com/jiegec/usbip) - Rust library to run a USB/IP server to simulate USB devices.
 - [buddy_system_allocator](https://github.com/rcore-os/buddy_system_allocator) - Buddy system allocator in pure Rust.
+- [acid_alloc](https://github.com/dataphract/acid_alloc) - Bare-metal allocators.
+- [acid_io](https://github.com/dataphract/acid_io) - Rust I/O for no_std.
+- [esp-idf-hal](https://github.com/esp-rs/esp-idf-hal) - Embedded-hal implementation for Rust on ESP32 and ESP-IDF.
 
 ## ML
 

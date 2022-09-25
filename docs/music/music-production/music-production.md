@@ -176,7 +176,7 @@
 - [How I recorded an album on my own, in my room](https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9) ([HN](https://news.ycombinator.com/item?id=22591972))
 - [Monome](https://monome.org/) - Sound machines for the exploration time and space. ([Code](https://github.com/monome/docs))
 - [Low Level Norns](https://github.com/PaulBatchelor/norns-lowlevel) - Small snippets of C code that do relatively low-level things on the norns.
-- [SuperCollider](https://github.com/supercollider/supercollider) - Platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound. ([Web](https://supercollider.github.io/)) ([HN](https://news.ycombinator.com/item?id=23282035)) ([Awesome](https://github.com/madskjeldgaard/awesome-supercollider))
+- [SuperCollider](https://github.com/supercollider/supercollider) - Platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound. ([Web](https://supercollider.github.io/)) ([HN](https://news.ycombinator.com/item?id=23282035)) ([Awesome](https://github.com/madskjeldgaard/awesome-supercollider)) ([Neovim plugin](https://github.com/davidgranstrom/scnvim))
 - [Using locks in real-time audio processing, safely (2020)](https://timur.audio/using-locks-in-real-time-audio-processing-safely)
 - [JACK2](https://github.com/jackaudio/jack2) - C++ version of the JACK low-latency audio server for multi-processor machines.
 - [Web Audio API: Musically-aware scheduling and Dynamic looping (2016)](https://jakearchibald.com/2016/sounds-fun/) ([HN](https://news.ycombinator.com/item?id=23046420))

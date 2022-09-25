@@ -255,6 +255,7 @@ title: GitHub actions
 - [Push to Fig Autocomplete](https://github.com/withfig/push-to-fig-autocomplete-action)
 - [Retry](https://github.com/nick-fields/retry) - Retries a GitHub Action step on failure or timeout.
 - [Send a tweet from a GitHub Actions workflow](https://github.com/ethomson/send-tweet-action)
+- [GitHub-Release-Action](https://github.com/elgohr/Github-Release-Action) - Creates a plain Github release, without attaching assets or source code.
 
 ## Go
 

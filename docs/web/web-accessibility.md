@@ -110,3 +110,4 @@
 - [Where's the fun in accessibility? (2022)](https://elisehe.in/2022/07/19/the-fun-in-accessibility) ([HN](https://news.ycombinator.com/item?id=32178099))
 - [Best practices for inclusive textual websites (2022)](https://seirdy.one/posts/2020/11/23/website-best-practices/) ([Lobsters](https://lobste.rs/s/fq7ge1/best_practices_for_inclusive_textual))
 - [A details element as a burger menu is not accessible (2022)](https://cloudfour.com/thinks/a-details-element-as-a-burger-menu-is-not-accessible/)
+- [A Horizontal Scroll List and Custom Keyboard Navigation (2021)](https://ryanmulligan.dev/blog/project-keyboard-navigation/)

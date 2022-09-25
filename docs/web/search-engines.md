@@ -4,6 +4,10 @@
 
 Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [classes.wtf](https://github.com/ekzhang/classes.wtf) is great implementation of fast search.
 
+## Notes
+
+- [If you’re implementing search please understand that using quotes means “find this literal text”.](https://twitter.com/davidfowl/status/1574138778129944576)
+
 ## Links
 
 - [Algolia](https://www.algolia.com/) - Site Search & Discovery powered by AI.

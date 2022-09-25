@@ -45,3 +45,4 @@
 - [QWIC](https://qwic.eu/) - Innovative design and highest quality e-bikes - Made in the Netherlands.
 - [Great ebike brands (2022)](https://twitter.com/mndoci/status/1566242748956831744)
 - [Electric Bike, Stupid Love of My Life](https://craigmod.com/essays/electric_bikes/)
+- [Challenging Yourself (2022)](https://debbie.codes/blog/challenging-yourself/)

@@ -248,4 +248,4 @@
 - [Report on Secure Compilation Research (2021)](https://drops.dagstuhl.de/opus/volltexte/2022/15933/pdf/dagrep_v011_i010_p173_21481.pdf)
 - [langcc](https://github.com/jzimmerman/langcc) - Next-Generation Compiler Compiler.
 - [Optimizing compilers deduplicate strings and arrays (2022)](https://lemire.me/blog/2022/09/23/optimizing-compilers-deduplicate-strings-and-arrays/) ([HN](https://news.ycombinator.com/item?id=32957932))
-- [Compiler Optimizations Are Hard Because They Forget (2022)](https://faultlore.com/blah/oops-that-was-important/)
+- [Compiler Optimizations Are Hard Because They Forget (2022)](https://faultlore.com/blah/oops-that-was-important/) ([Lobsters](https://lobste.rs/s/tsbffa/compiler_optimizations_are_hard_because))

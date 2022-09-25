@@ -225,6 +225,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Linear README](https://linear.app/readme)
 - [Shaking off the Rust](https://shaking-off-the-rust-blog.vercel.app/) ([Code](https://github.com/josht-jpg/shaking-off-the-rust-blog))
 - [Molly White](https://blog.mollywhite.net/)
+- [Ryan Mulligan](https://ryanmulligan.dev/blog/)
 
 ## Products
 
@@ -389,6 +390,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Mathias Quintero](https://quintero.io/)
 - [Bytes.Zone](https://bytes.zone/)
 - [Alex Grebenyuk](https://kean.blog/)
+- [Petr Andrianov](https://www.andrianovpetr.ru/)
 - [Michal Zalobny](https://michalzalobny.com/) ([Code](https://github.com/javusScriptus/creativeprojects))
 - [Alex Tomlinson](https://alexlinks.glitch.me/)
 - [Brandon Smith](https://www.brandons.me/) ([Code](https://github.com/brundonsmith/website))
@@ -416,6 +418,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Fabrizio Rinaldi](https://fabriziorinaldi.com/)
 - [Milen Dzhumerov](https://milen.me/)
 - [Delba de Oliveira](https://delba.dev/) ([Code](https://github.com/delbaoliveira/website))
+- [Ryan Mulligan](https://ryanmulligan.dev/)
 - [Ben Myers](https://benmyers.dev/)
 - [Michele Riva](https://www.micheleriva.it/)
 - [Krasjet](https://krasjet.com/)

@@ -53,6 +53,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [Aiden Scandella](https://github.com/ascandella/dotfiles)
 - [ThePrimeagen](https://github.com/ThePrimeagen/.dotfiles)
 - [Folke Lemaitre](https://github.com/folke/dot)
+- [Dmitry Zherebko](https://github.com/zmitry/.dotfiles)
 
 ## Links
 

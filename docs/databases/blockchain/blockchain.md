@@ -404,3 +404,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Outserv](https://github.com/outcaste-io/outserv) - Blockchain Search with GraphQL APIs. ([Article](https://manishrjain.com/outserv-graphql-blockchain-search)) ([HN](https://news.ycombinator.com/item?id=32302368))
 - [I Looked into 34 Top Real-World Blockchain Projects So You Don’t Have To (2022)](https://weh.wtf/34-blockchain-projects.html) ([HN](https://news.ycombinator.com/item?id=32291213))
 - [DEX](https://github.com/decred/dcrdex) - Decred Decentralized Exchange (DEX), powered by atomic-swaps.
+- [Actor model for blockchains](https://twitter.com/hdevalence/status/1574053540649205760)

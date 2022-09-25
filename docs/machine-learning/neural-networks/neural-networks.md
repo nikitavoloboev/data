@@ -312,3 +312,4 @@
 - [How are memories stored in neural networks? (2022)](https://www.youtube.com/watch?v=piF6D6CQxUw)
 - [Building a neural network from scratch (just numpy/math) (2020)](https://www.youtube.com/watch?v=w8yWXqWQYmU)
 - [Polysemanticity in neural networks](https://twitter.com/AnthropicAI/status/1570087876053942272)
+- [How does the Deep & Cross Network v2 find good feature interactions? (2022)](https://www.tabularmusings.com/posts/feature-interactions-dcnv2/) ([Tweet](https://twitter.com/radekosmulski/status/1573862365883310080))
