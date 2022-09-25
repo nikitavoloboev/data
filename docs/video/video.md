@@ -405,3 +405,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [What does the web of video look like?](https://twitter.com/amasad/status/1571540482412646401)
 - [Automatic YouTube subtitle generation](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles.
 - [Action Transcription](https://github.com/simonw/action-transcription) - Tool for creating a repository of transcribed videos.
+- [summarize.tech](https://www.summarize.tech/) - AI-powered video summaries.

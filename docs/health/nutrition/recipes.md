@@ -31,6 +31,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Шакшука — израильская яичница](https://www.youtube.com/watch?v=FSJeOFjO5SE)
 - [Medovik](https://www.reddit.com/r/food/comments/vt64dj/homemade_my_first_attempt_at_medovik_an_eastern/)
 - [20 Aioli Recipes](https://www.brit.co/aioli-recipes/)
+- [World’s Best Pancake Recipe](https://kottke.org/09/10/the-worlds-best-pancake-recipe)
 
 ## Links
 
