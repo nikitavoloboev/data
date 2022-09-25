@@ -61,3 +61,4 @@ title: ClojureScript
 - [shadow-grove](https://github.com/thheller/shadow-grove) - ClojureScript system to build browser based frontends.
 - [ClavaScript](https://github.com/clavascript/clavascript) - ClojureScript syntax to JavaScript compiler.
 - [Tiny example project for setting up development using nREPL and shadow-cljs](https://github.com/PEZ/shadow-w-backend)
+- [Cherry](https://github.com/squint-cljs/cherry) - ClojureScript to ES6 module compiler.

@@ -1021,6 +1021,7 @@
 - [Split2](https://github.com/mcollina/split2) - Stream and reassemble it so that each line is a chunk.
 - [Flow](https://github.com/sunag/flow) - Node-Graph, lightweight, cross-browser UI library.
 - [Postmate](https://github.com/dollarshaveclub/postmate) - Powerful, simple, promise-based postMessage iFrame communication library.
+- [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent. ([Web](https://photoswipe.com/))
 
 ## Links
 

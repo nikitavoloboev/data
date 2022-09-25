@@ -1253,6 +1253,7 @@
 - [Physical](https://github.com/hyperjeff/Physical) - Swift package for physical quantities.
 - [SwiftHooks](https://github.com/intuit/swift-hooks) - Little module for plugins, in Swift.
 - [AsyncLocationKit](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with new Concurency Model.
+- [UIKitDOM](https://github.com/shirakaba/uikit-dom) - Implementing DOM for UIKit.
 
 ## Other (not lib)
 

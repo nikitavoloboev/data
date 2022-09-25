@@ -77,6 +77,7 @@
 - [promise.rb](https://github.com/lgierth/promise.rb) - Ruby implementation of the Promises/A+ spec.
 - [Cutoff](https://github.com/justinhoward/cutoff) - Deadlines for Ruby.
 - [Que](https://github.com/que-rb/que) - Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
+- [Transactable](https://github.com/bkuhlmann/transactable) - DSL for transactional workflows built atop function composition.
 
 ## Links
 

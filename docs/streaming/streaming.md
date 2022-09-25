@@ -90,3 +90,4 @@ Here are tools I use for streaming:
 - [OBS](https://obsproject.com/) - Open Broadcaster Software. ([Code](https://github.com/obsproject/obs-studio)) ([HN](https://news.ycombinator.com/item?id=31830046))
 - [Restreamer](https://github.com/datarhei/restreamer) - Complete streaming server solution for self-hosting.
 - [Twitch chat in the terminal](https://github.com/Xithrius/twitch-tui)
+- [Rsget](https://github.com/Erk-/rsget) - Downloader for different live stream providers.

@@ -433,6 +433,7 @@
 - [Nod](https://github.com/fr00b0/nod) - Small, header only signals and slots C++11 library.
 - [MP](https://github.com/boost-ext/mp) - C++20 ~~Template~~ Meta-Programming.
 - [oneTBB](https://github.com/oneapi-src/oneTBB) - Flexible C++ library that simplifies the work of adding parallelism to complex applications, even if you are not a threading expert.
+- [zzzJSON](https://github.com/dacez/zzzjson) - Fastest JSON parser written in pure C.
 
 ## Links
 

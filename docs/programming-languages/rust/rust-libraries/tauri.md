@@ -11,6 +11,7 @@ title: Tauri
 - [Emberry](https://github.com/emberry-org/emberry) - P2P Chat powered by Tauri and Svelte.
 - [SnipSnap](https://github.com/FarazPatankar/snip-snap) - Simple but powerful tool to make your screenshots prettier.
 - [Tauri Solid Example with Vite](https://github.com/lukethacoder/tauri-solid-example)
+- [Tauri + Vanilla](https://github.com/joepio/tauri-launcher)
 
 ## Links
 

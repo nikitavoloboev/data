@@ -979,6 +979,7 @@
 - [CameraTransform](https://github.com/rgerum/cameratransform) - Python package which can be used to fit camera transformations and apply them to project points from the camera space to the world space and back.
 - [DataFusion in Python](https://github.com/apache/arrow-datafusion-python) - Python library that binds to Apache Arrow in-memory query engine DataFusion.
 - [DeepForcedAligner](https://github.com/as-ideas/DeepForcedAligner) - Create accurate text-audio alignments given a bunch of audio files and their transcription.
+- [fhir-py](https://github.com/google/fhir-py) - Google's tools for working with FHIR data in Python.
 
 ## Notes
 

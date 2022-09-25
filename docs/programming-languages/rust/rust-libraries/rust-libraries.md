@@ -599,6 +599,7 @@
 - [fhe.rs](https://github.com/tlepoint/fhe.rs) - Fully Homomorphic Encryption library in Rust.
 - [Proof Toolbox](https://github.com/geometryresearch/proof-toolbox) - Cryptographic primitives and protocols that can be used to build higher level protocols and schemes.
 - [JOSE](https://github.com/RustCrypto/JOSE) - Pure Rust implementation of JavaScript Object Signing and Encryption (JOSE).
+- [pairing](https://github.com/nccgroup/pairing) - Optimizations for Pairing-Based Cryptography.
 
 ## Linux
 
@@ -679,6 +680,7 @@
 - [Rust bindings for ESP-IDF](https://github.com/esp-rs/esp-idf-sys)
 - [shared-bus](https://github.com/Rahix/shared-bus) - Crate for sharing buses between multiple devices.
 - [usbip](https://github.com/jiegec/usbip) - Rust library to run a USB/IP server to simulate USB devices.
+- [buddy_system_allocator](https://github.com/rcore-os/buddy_system_allocator) - Buddy system allocator in pure Rust.
 
 ## ML
 
@@ -2170,6 +2172,8 @@
 - [xorfilter](https://github.com/prataprc/xorfilter) - Rust library implementing xor-filters.
 - [rusty_ulid](https://github.com/huxi/rusty_ulid) - Rust ULID (Universally Unique Lexicographically Sortable Identifier) generation and processing.
 - [const-str](https://github.com/Nugine/const-str) - Compile-time string operations.
+- [Rustbus](https://github.com/KillingSpark/rustbus) - Dbus transport in pure rust.
+- [rust-dark-light](https://github.com/frewsxcv/rust-dark-light) - Rust crate to detect if dark mode or light mode is enabled.
 
 ## Cargo Plugins
 

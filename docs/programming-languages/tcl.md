@@ -25,3 +25,4 @@ title: Tcl
 - [TclTutor 3: Computer aided instruction package for learning the Tcl language](http://www.msen.com/~clif/TclTutor.html) ([HN](https://news.ycombinator.com/item?id=30327945))
 - [History of Tcl](https://www.tcl.tk/about/history.html) ([HN](https://news.ycombinator.com/item?id=31111220))
 - [Tcl the misunderstood](http://antirez.com/articoli/tclmisunderstood.html)
+- [Molt](https://github.com/wduquette/molt) - Embeddable TCL Interpreter for Rust applications.

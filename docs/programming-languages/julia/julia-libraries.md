@@ -737,6 +737,7 @@
 - [IntervalSets.jl](https://github.com/JuliaMath/IntervalSets.jl) - Interval Sets for Julia.
 - [Quaternions.jl](https://github.com/JuliaGeometry/Quaternions.jl) - Julia module with quaternion and dual-quaternion functionality.
 - [MarkdownTables.jl](https://github.com/tpapp/MarkdownTables.jl) - Lightweight package to print a table that implements the Tables.jl interface in Markdown.
+- [MultilayerGraphs.jl](https://github.com/JuliaGraphs/MultilayerGraphs.jl) - Julia package for the construction, manipulation and analysis of multilayer graphs.
 
 ## Links
 

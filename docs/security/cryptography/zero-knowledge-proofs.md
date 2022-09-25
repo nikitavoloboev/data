@@ -115,3 +115,4 @@ title: Zero knowledge proofs
 - [Merlin](https://merlin.cool/) - STROBE-based transcript construction for zero-knowledge proofs.
 - [Magikitten](https://github.com/cronokirby/magikitten) - System for making public-coin protocols non-interactive, using Meow.
 - [ZK Bug Tracker](https://github.com/0xPARC/zk-bug-tracker) - Community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto.
+- [Zilch](https://github.com/TrustworthyComputing/Zilch) - Framework for Developing Zero-Knowledge Proofs for Any Application.
