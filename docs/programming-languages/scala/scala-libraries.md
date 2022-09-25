@@ -197,6 +197,7 @@
 - [Shardcake](https://github.com/devsisters/shardcake) - Sharding and location transparency for Scala.
 - [ZIO Compose](https://github.com/tailcallhq/zio-compose) - Scala DSL to write type-safe programs for distributed computing.
 - [feral](https://github.com/typelevel/feral) - Framework for writing serverless functions in Scala with Cats Effect and deploying them to the cloud, targeting both JVM and JavaScript runtimes.
+- [scala-uri](https://github.com/lemonlabsuk/scala-uri) - Simple scala library for building and parsing URIs.
 
 ## Links
 
@@ -226,3 +227,5 @@
 - [scala-interactive-update](https://github.com/kitlangton/scala-interactive-update) - Update your Scala dependencies (both libraries and plugins) interactively.
 - [Getting Started with Scala.js and Vite | Let´s talk about Scala 3 (2022)](https://www.youtube.com/watch?v=dv7fPmgFTNA)
 - [Effect Zoo for Scala 3](https://github.com/marcinzh/effect-zoo)
+- [Scala Library template](https://github.com/indoorvivants/scala-library-template) - Template for cross-platform, cross-versions Scala Library.
+- [Bindings generator for Scala 3 Native](https://github.com/indoorvivants/sn-bindgen)

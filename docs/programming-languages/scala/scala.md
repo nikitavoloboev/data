@@ -170,3 +170,5 @@ title: Scala
 - [Scala Ukraine Knowledge Base](https://github.com/scala-ukraine/knowledge-base)
 - [Scala isn't fun anymore (2022)](https://alexn.org/blog/2022/09/09/scala-isnt-fun-anymore/) ([HN](https://news.ycombinator.com/item?id=32822609))
 - [Scala-Lab](https://github.com/gvolpe/scala-lab) - Playground for Scala 3's experimental features.
+- [http4s-laminar-stack](https://github.com/keynmol/http4s-laminar-stack) - Complete example of a full stack Scala application, using http4s on the backend and Laminar and Scala.js on the frontend.
+- [Smithy4s full stack (2022)](https://blog.indoorvivants.com/2022-06-10-smithy4s-fullstack-part-1)

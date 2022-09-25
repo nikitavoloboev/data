@@ -32,3 +32,4 @@ title: Bun
 - [Melonpan](https://github.com/DarthBenro008/melonpan) - Simple and minimalistic web-router designed to work with Bun, keeping performance in mind.
 - [Bun AWS Lambda](https://github.com/Jarred-Sumner/bun-aws-lambda)
 - [bkg](https://github.com/TheSeyan/bkg) - Package Bun apps into a single executable.
+- [Bun Tea](https://github.com/one-aalam/bun-tea) - Fast, Bun-powered, and Bun-only(for now) Web API framework with full Typescript support.
