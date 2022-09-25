@@ -164,3 +164,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Absurd AI-Generated Professional Food Photography with DALL-E 2 (2022)](https://minimaxir.com/2022/07/food-photography-ai/)
 - [Solein](https://www.solein.com/) - Protein out of thin air. ([HN](https://news.ycombinator.com/item?id=32345051))
 - [Agriculture at the End of the World (2022)](https://www.youtube.com/watch?v=Wi_nFz1CJSI)
+- [grocy](https://grocy.info/) - ERP beyond your fridge. Web-based self-hosted groceries & household management solution for your home. ([Code](https://github.com/grocy/grocy))

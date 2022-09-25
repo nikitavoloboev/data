@@ -130,3 +130,4 @@ Looking into [Railway](https://railway.app/) & [Cloudflare](https://www.cloudfla
 - [Google Cloud Platform ESPv2](https://github.com/GoogleCloudPlatform/esp-v2) - General-purpose L7 service proxy that enables API management capabilities for JSON/REST or gRPC API services.
 - [Datastream for BigQuery Preview](https://cloud.google.com/datastream-for-bigquery) ([HN](https://news.ycombinator.com/item?id=32868092))
 - [Terraform Google Cloud NAT Module](https://github.com/terraform-google-modules/terraform-google-cloud-nat)
+- [Ask HN: Does anyone actually Use GCP? (2022)](https://news.ycombinator.com/item?id=32967081)

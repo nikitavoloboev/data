@@ -124,3 +124,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [John Carmack on avoiding distractions](https://twitter.com/ID_AA_Carmack/status/1562104562219196416) ([HN](https://news.ycombinator.com/item?id=32583257))
 - [Controlling Your Dopamine For Motivation, Focus & Satisfaction | Huberman Lab (2021)](https://podcastnotes.org/huberman-lab/episode-39-controlling-your-dopamine-for-motivation-focus-satisfaction-huberman-lab/)
 - [Everyone doesn't work best at the same times](https://twitter.com/mar15sa/status/1570140430066675714)
+- [5-step exercise for week planning](https://twitter.com/adcock_brett/status/1573719801536471041)

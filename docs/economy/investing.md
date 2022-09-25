@@ -299,3 +299,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Share investor updates](https://twitter.com/JuliaLipton/status/1570898094811942912)
 - [Devtool Angels](https://www.devtoolangels.com/) - List of angel investors that invest in developer tools based on devtools-angels.
 - [Ask HN: Have you bought I bonds yet? Why not? (2022)](https://news.ycombinator.com/item?id=32941793)
+- [What company would you invest in 'at a fair price' (2022)](https://twitter.com/patrick_oshag/status/1574055187362332673)

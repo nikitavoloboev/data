@@ -4,7 +4,7 @@ title: Speech recognition
 
 # [Speech recognition](https://github.com/daanzu/kaldi-active-grammar)
 
-[ocotillo](https://github.com/neonbjb/ocotillo) is nice.
+[OpenAI Whisper](https://github.com/openai/whisper) & [ocotillo](https://github.com/neonbjb/ocotillo) are nice.
 
 ## Notes
 
@@ -140,4 +140,4 @@ title: Speech recognition
 - [SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech (2022)](https://arxiv.org/abs/2204.11792) ([Code](https://github.com/yerfor/SyntaSpeech))
 - [Speech Enhancement and Dereverberation with Diffusion-based Generative Models](https://github.com/sp-uhh/sgmse)
 - [SSAST: Self-Supervised Audio Spectrogram Transformer](https://github.com/YuanGongND/ssast)
-- [OpenAI Whisper](https://github.com/openai/whisper) - General-purpose speech recognition. Approaches human level robustness and accuracy on English speech recognition. ([Web](https://openai.com/blog/whisper/)) ([HN](https://news.ycombinator.com/item?id=32927360)) ([Notes](https://twitter.com/karpathy/status/1573019730851397632))
+- [OpenAI Whisper](https://github.com/openai/whisper) - General-purpose speech recognition. Approaches human level robustness and accuracy on English speech recognition. ([Web](https://openai.com/blog/whisper/)) ([HN](https://news.ycombinator.com/item?id=32927360)) ([Notes](https://twitter.com/karpathy/status/1573019730851397632)) ([Paper + Code walkthroughs](https://twitter.com/ai__pub/status/1573755508523032576))
