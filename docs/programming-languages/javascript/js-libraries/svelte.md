@@ -292,3 +292,4 @@ title: Svelte
 - [Svelte Component Test Recipes](https://github.com/davipon/svelte-component-test-recipes)
 - [SvelteKit Basic Auth](https://github.com/ghostdevv/sveltekit-basic-auth)
 - [Sveltosis](https://github.com/sveltosis/sveltosis) - Svelte parser that compiles to Mitosis JSON, allowing you to write Svelte components once and compile to every framework. ([Web](https://try.sveltosis.dev/)) ([Tweet](https://twitter.com/Steve8708/status/1573765534570598400))
+- [SvelteKit + Postgres + JWT](https://github.com/PuruVJ/sk-login-jwt) - Auth demo uses SvelteKit form actions and postgres to authenticate user with JWT tokens as sessionID.

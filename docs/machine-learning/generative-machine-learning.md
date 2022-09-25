@@ -31,7 +31,7 @@
 - [Stable Diffusion prompting cheat sheet](https://moritz.pm/posts/parameters)
 - [The Man behind Stable Diffusion (2022)](https://www.youtube.com/watch?v=YQ2QtKcK2dA)
 - [Inpainting](https://inpainter.vercel.app/) - Web GUI for inpainting with Stable Diffusion using the Replicate API. ([Code](https://github.com/zeke/inpainter))
-- [Dreambooth on Stable Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
+- [Dreambooth on Stable Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) ([Optimized Fork](https://github.com/gammagec/Dreambooth-SD-optimized))
 - [Japanese Stable Diffusion](https://github.com/rinnakk/japanese-stable-diffusion)
 - [Stable Diffusion web UI](https://github.com/sd-webui/stable-diffusion-webui)
 - [Stable DreamBooth](https://github.com/Victarry/stable-dreambooth) - Implementation of DreamBooth based on Stable Diffusion.
@@ -67,3 +67,5 @@
 - [Open Prompts](https://github.com/krea-ai/open-prompts) - Dataset of 10M Stable Diffusion generations. ([HN](https://news.ycombinator.com/item?id=32943224))
 - [KREA](https://www.krea.ai/) - Create better prompts.
 - [GLID-3-XL-stable](https://github.com/Jack000/glid-3-xl-stable) - Stable diffusion back-ported to the OpenAI guided diffusion codebase, for easier development and training.
+- [ImaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
+- [UnstableFusion](https://github.com/ahrm/UnstableFusion) - Stable Diffusion desktop frontend with inpainting, img2img and more.

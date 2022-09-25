@@ -4,6 +4,8 @@ title: FoundationDB
 
 # [FoundationDB](https://github.com/apple/foundationdb)
 
+[mvSQLite](https://github.com/losfair/mvsqlite) is nice.
+
 ## Links
 
 - [HN: Apple open sources FoundationDB](https://news.ycombinator.com/item?id=16877395)

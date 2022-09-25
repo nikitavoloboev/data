@@ -4,7 +4,7 @@ title: Deno
 
 # [Deno](https://github.com/denoland/deno)
 
-[Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) is great. [Deno by Example](https://examples.deno.land/) is good intro. [dnt](https://github.com/denoland/dnt) is nice tool to deploy to npm. [Trex](https://github.com/crewdevio/Trex) seems like a neat package manager. [Peko](https://github.com/sebringrose/peko) seems nice as a web framework.
+[Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) or [brawler](https://github.com/hasundue/brawler) are great for deploying. [Deno by Example](https://examples.deno.land/) is good intro. [dnt](https://github.com/denoland/dnt) is nice tool to deploy to npm. [Trex](https://github.com/crewdevio/Trex) seems like a neat package manager. [Peko](https://github.com/sebringrose/peko) seems nice as a web framework.
 
 Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](https://www.youtube.com/watch?v=SYkzk_j3yb0) is a nice intro.
 
@@ -310,3 +310,6 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [DenoRuntime Lambda Layer](https://github.com/beginner-corp/begin-deno-runtime)
 - [deno2nix](https://github.com/SnO2WMaN/deno2nix) - Build Nix packages for Deno.
 - [Vite + Deno example](https://github.com/bartlomieju/vite-deno-example)
+- [brawler](https://github.com/hasundue/brawler) - Develop and deploy Deno scripts for Cloudflare Workers with Wrangler.
+- [Flash](https://github.com/hasundue/flash) - Resource-oriented web framework in TypeScript, particularly optimized for building microservices on serverless platforms with Deno.
+- [Graphism](https://github.com/zaiste/graphism) - Library for creating GraphQL servers in Deno & Deno Deploy.

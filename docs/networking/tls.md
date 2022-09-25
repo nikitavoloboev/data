@@ -107,3 +107,4 @@ title: TLS
 - [Open to a fault: On the passive compromise of TLS keys via transient errors (2022)](https://www.usenix.org/system/files/sec22-sullivan.pdf)
 - [Using mutual TLS in place of API keys](https://lobste.rs/s/9f3av9/using_mutual_tls_place_api_keys)
 - [platform-tls](https://github.com/1Password/platform-tls) - Certificate verification library for rustls that uses the operating system's verifier.
+- [TLS 1.3 in Zig](https://github.com/shiguredo/tls13-zig)

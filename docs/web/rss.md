@@ -175,3 +175,4 @@ Use [Inoreader](https://www.inoreader.com/) for reading/managing my RSS feeds.
 - [Simple, opinionated, RSS feed aggregator](https://github.com/ssddanbrown/rss)
 - [RSS Aggregator in Rust](https://github.com/fistons/rss-aggregator)
 - [Filtering my RSS reading (2022)](https://leancrew.com/all-this/2022/08/filtering-my-rss-reading/)
+- [RSS Manufaktur](https://github.com/inframanufaktur/rss-manufaktur) - Template to build RSS Feeds.

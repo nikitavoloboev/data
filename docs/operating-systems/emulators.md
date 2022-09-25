@@ -76,3 +76,4 @@
 - [Ziguana Game System](https://github.com/MasterQ32/Ziguana-Game-System) - Retro-style gaming console running on bare x86 metal written in Zig.
 - [mGBA](https://mgba.io/) - Game Boy Advance Emulator. ([Code](https://github.com/mgba-emu/mgba))
 - [webЯcade](https://github.com/webrcade/webrcade) - WASM based retro emulation on any device. ([HN](https://news.ycombinator.com/item?id=32966874))
+- [Implementation of a CHIP-8 machine for FPGAs in Hardcaml with a custom assembler for writing test programs](https://github.com/jawline/c8hardcaml)

@@ -980,6 +980,8 @@
 - [DataFusion in Python](https://github.com/apache/arrow-datafusion-python) - Python library that binds to Apache Arrow in-memory query engine DataFusion.
 - [DeepForcedAligner](https://github.com/as-ideas/DeepForcedAligner) - Create accurate text-audio alignments given a bunch of audio files and their transcription.
 - [fhir-py](https://github.com/google/fhir-py) - Google's tools for working with FHIR data in Python.
+- [deptry](https://github.com/fpgmaas/deptry) - Command line utility to check for obsolete, missing and transitive dependencies in a Python project.
+- [Qdrant Client](https://github.com/qdrant/qdrant_client) - Client library for the Qdrant vector search engine.
 
 ## Notes
 

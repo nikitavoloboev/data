@@ -213,3 +213,4 @@
 - [Why your daily stand-ups don't work and how to fix them (2022)](https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html) ([HN](https://news.ycombinator.com/item?id=32382365))
 - [Ask HN: How does your company handle late running projects? (2022)](https://news.ycombinator.com/item?id=32911083)
 - [Managing Complex Change](https://twitter.com/markbrooks/status/1573286323515170816)
+- [1-on-1 questions and resources from my time as a manager](https://github.com/eugeneyan/1-on-1s)

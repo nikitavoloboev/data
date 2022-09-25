@@ -90,3 +90,4 @@
 - [ABC: System for Sequential Logic Synthesis and Formal Verification](https://github.com/berkeley-abc/abc)
 - [Separation Logic (2019)](https://cacm.acm.org/magazines/2019/2/234356-separation-logic/fulltext) ([Lobsters](https://lobste.rs/s/t2wrmp/separation_logic))
 - [Gödel, Escher, Bach: an in-depth explainer](https://www.alignmentforum.org/posts/wwNnzaPnB5a48K86N/book-review-goedel-escher-bach-an-in-depth-explainer) ([HN](https://news.ycombinator.com/item?id=32827209))
+- [Selected Papers of Dana S. Scott](https://github.com/CMU-HoTT/scott)

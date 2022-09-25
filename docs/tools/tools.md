@@ -214,6 +214,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [ntfy.sh](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop via PUT/POST. ([Docs](https://ntfy.sh/)) ([HN](https://news.ycombinator.com/item?id=29715464))
 - [Link Lock](https://jstrieb.github.io/link-lock/create/) - Password-protect links. ([Code](https://github.com/jstrieb/link-lock))
 - [Canny](https://canny.io) - Track feedback to build better products.
+- [LocateJS](https://locatejs.com/) - Check if your location is actually hidden. ([Code](https://github.com/z0ccc/LocateJS))
 - [EditorConfig](https://editorconfig.org/) - Helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
 - [Apprise](https://github.com/caronc/apprise) - Push Notifications that work with just about every platform.
 - [Bloaty](https://github.com/google/bloaty) - Size profiler for binaries. ([How it works](https://github.com/google/bloaty/blob/master/doc/how-bloaty-works.md))

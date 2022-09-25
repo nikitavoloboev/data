@@ -549,6 +549,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Storage](https://github.com/Shopify/go-storage) - Go package for abstracting local, in-memory, and remote (Google Cloud Storage/S3) file systems.
 - [Genna](https://github.com/dizzyfool/genna) - Model generator for go-pg package.
 - [objstore](https://github.com/thanos-io/objstore) - Go module providing unified interface and efficient clients to work with various object storage providers until like GCS, S3, Azure, SWIFT, COS and more.
+- [Google Spanner SpanSQL Query Builder](https://github.com/mindful-hq/spansql-query-builder)
 
 ## ML
 
@@ -1813,6 +1814,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-htmltable](https://github.com/nfx/go-htmltable) - HTML table data extractor for Go.
 - [gengo](https://github.com/kubernetes/gengo) - Package for generating things based on go files.
 - [btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go.
+- [go-binarytree](https://github.com/dnaeon/go-binarytree) - Simple Binary Tree implementation in Go.
 
 ## Links
 

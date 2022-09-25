@@ -65,6 +65,7 @@
 
 - [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server)) ([Tutorial For Beginners](https://github.com/programatik29/axum-tutorial)) ([Rust + Axum + Prisma template](https://github.com/aaronleopold/axum-graphql-prisma)) ([Axum, Tokio, Tower, Hyper, Serde template](https://github.com/joelparkerhenderson/demo-rust-axum)) ([Axum_database_Sessions](https://github.com/AscendingCreations/AxumSessions)) ([Minimalist Guide to Axum](https://tech.marksblogg.com/axum-rust-web-framework.html)) ([Lobsters](https://lobste.rs/s/p4f2a8/minimalist_guide_axum)) ([David Pedersen on Axum (2022)](https://www.youtube.com/watch?v=ETdmhh7OQpA)) ([axum-sessions](https://github.com/maxcountryman/axum-sessions)) ([axum-login](https://github.com/maxcountryman/axum-login))
 - [Rouille](https://github.com/tomaka/rouille) - Rust web micro-framework.
+- [Viz](https://github.com/viz-rs/viz) - Fast, flexible, lightweight web framework for Rust. ([Docs](https://docs.rs/viz/latest/viz/))
 - [hyper](https://github.com/hyperium/hyper) - Fast and correct HTTP implementation for Rust. ([Web](https://hyper.rs/)) ([Hyper's Vision](https://seanmonstar.com/post/678179333918097408/hypers-vision))
 - [pavex](https://github.com/LukeMathWalker/pavex) - Source code generator for building APIs and web applications with Rust. ([Tweet](https://twitter.com/algo_luca/status/1565653013380882433))
 - [Typed HTTP Headers from hyper](https://github.com/hyperium/headers)
@@ -81,6 +82,7 @@
 - [H2](https://github.com/hyperium/h2) - Tokio aware, HTTP/2.0 client & server implementation for Rust.
 - [Thruster](https://github.com/trezm/Thruster) - Fast, middleware based, web framework written in Rust.
 - [actix web](https://github.com/actix/actix-web) - Small, pragmatic, and extremely fast rust web framework ([Jelly - Starter template for actix-web projects](https://github.com/secretkeysio/jelly-actix-web-starter)) ([HN](https://news.ycombinator.com/item?id=30470809)) ([Reddit](https://www.reddit.com/r/rust/comments/t1bim5/announcing_actix_web_v40/))
+- [actix swagger](https://github.com/openapi/actix-swagger) - Swagger code generator for actix-web framework.
 - [actix-web-flash-messages](https://github.com/LukeMathWalker/actix-web-flash-messages) - Flash messages for actix-web.
 - [actix-web-grants](https://github.com/DDtKey/actix-web-grants) - Authorization extension for actix-web to validate user permissions.
 - [tracing-actix-web](https://github.com/LukeMathWalker/tracing-actix-web) - Structured diagnostics for actix-web applications.
@@ -827,6 +829,7 @@
 - [defaults](https://github.com/95th/defaults) - Better Default derive macro.
 - [staticfilemap](https://github.com/Systemcluster/staticfilemap) - Procedural macro to embed optionally compressed files during compilation.
 - [Bassert](https://github.com/Qqwy/rust-bassert) - Better assertions for Rust.
+- [function_name](https://github.com/danielhenrymantilla/rust-function_name) - Macro that expands to the name of the annotated function.
 
 ## Math
 
@@ -2174,6 +2177,9 @@
 - [const-str](https://github.com/Nugine/const-str) - Compile-time string operations.
 - [Rustbus](https://github.com/KillingSpark/rustbus) - Dbus transport in pure rust.
 - [rust-dark-light](https://github.com/frewsxcv/rust-dark-light) - Rust crate to detect if dark mode or light mode is enabled.
+- [lending-iterator](https://github.com/danielhenrymantilla/lending-iterator.rs) - Lending iterators on stable Rust.
+- [higher-order-closure](https://github.com/danielhenrymantilla/higher-order-closure.rs) - Allow function lifetime elision and explicit `for<'a>` annotations on closures.
+- [Ringbuffer](https://github.com/NULLx76/ringbuffer) - Fixed-size circular buffer written in Rust.
 
 ## Cargo Plugins
 

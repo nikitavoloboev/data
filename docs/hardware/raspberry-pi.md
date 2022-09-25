@@ -127,3 +127,4 @@ title: Raspberry Pi
 - [Raspberry Pi Pico SDK](https://github.com/raspberrypi/pico-sdk)
 - [Umbrel OS](https://github.com/getumbrel/umbrel-os) - Convert a Raspberry Pi 4 into your personal server in one click. ([Web](https://umbrel.com/)) ([Twitter](https://twitter.com/umbrel))
 - [PiJuice](https://github.com/PiSupply/PiJuice) - Fully uninterruptable / uninterupted power supply that will always keep your Raspberry Pi powered.
+- [balenaSound](https://github.com/balenalabs/balena-sound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect.

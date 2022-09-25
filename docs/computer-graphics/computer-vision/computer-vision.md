@@ -937,3 +937,4 @@
 - [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images (2022)](https://nv-tlabs.github.io/GET3D/) ([Code](https://github.com/nv-tlabs/GET3D))
 - [Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer (2019)](https://nv-tlabs.github.io/DIB-R/) ([Code](https://github.com/nv-tlabs/DIB-R))
 - [Ask HN: Any good self-hosted image recognition software? (2022)](https://news.ycombinator.com/item?id=32939834)
+- [LAVIS](https://github.com/salesforce/LAVIS) - One-stop Library for Language-Vision Intelligence.

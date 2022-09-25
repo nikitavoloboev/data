@@ -252,6 +252,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [TuGraph](https://github.com/TuGraph-db/tugraph-db) - Efficient graph database that supports high data volume, low latency lookup and fast graph analytics.
 - [Seafowl](https://github.com/splitgraph/seafowl) - Analytical database for modern data-driven Web applications.
 - [WooriDB](https://github.com/naomijub/wooridb) - General purpose time serial database. It is schemaless, key-value storage and uses its own query syntax that is similar to SparQL.
+- [Apache Pegasus](https://github.com/apache/incubator-pegasus) - Horizontally scalable, strongly consistent and high-performance key-value store.
 
 ## Tools
 

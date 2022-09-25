@@ -593,3 +593,5 @@ title: Linux
 - [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
 - [A Web Server with io_uring (2022)](https://lobste.rs/s/iwxurf/web_server_with_io_uring)
 - [Next steps for Rust in the kernel (2022)](https://lwn.net/SubscriberLink/908347/da67a5162d1bc4a3/) ([HN](https://news.ycombinator.com/item?id=32923928))
+- [Alpine-base](https://github.com/chainguard-images/alpine-base) - Alpine base image built with apko. Uses packages from the Alpine distribution.
+- [static](https://github.com/chainguard-images/static) - Base image with just enough files to run static binaries.

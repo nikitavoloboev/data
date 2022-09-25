@@ -1022,6 +1022,7 @@
 - [Flow](https://github.com/sunag/flow) - Node-Graph, lightweight, cross-browser UI library.
 - [Postmate](https://github.com/dollarshaveclub/postmate) - Powerful, simple, promise-based postMessage iFrame communication library.
 - [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent. ([Web](https://photoswipe.com/))
+- [serialize-anything](https://github.com/terrymorse58/serialize-anything) - Serialize and de-serialize all JavaScript data types.
 
 ## Links
 

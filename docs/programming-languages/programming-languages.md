@@ -424,3 +424,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Val](https://www.val-lang.dev/) - Research programming language to explore the concepts of mutable value semantics and generic programming for high-level systems programming. ([Code](https://github.com/val-lang/val))
 - [Program Analysis (an Appetizer) (2020)](https://arxiv.org/abs/2012.10086)
 - [Useful lesser-used languages? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/xma1jp/useful_lesserused_languages/)
+- [SIGPLAN: Special Interest Group on Programming Languages](http://sigplan.github.io/) ([Code](https://github.com/SIGPLAN/SIGPLAN.github.io))

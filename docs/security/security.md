@@ -319,3 +319,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [envy](https://github.com/shoenig/envy) - Manage environment variables with your OS keychain.
 - [A taxonomy of hosting options, for personal data security (2022)](https://thomask.sdf.org/blog/2022/09/15/a-taxonomy-of-hosting-options.html)
 - [A few thoughts about Uber's breach (2022)](https://cendyne.dev/posts/2022-09-19-a-few-thoughts-about-ubers-breach.html) ([Lobsters](https://lobste.rs/s/rqo0gc/few_thoughts_about_uber_s_breach))
+- [Chainguard](https://www.chainguard.dev/) - Secure your software supply chains. ([Chainguard Images](https://www.chainguard.dev/chainguard-images)) ([GitHub](https://github.com/chainguard-images))

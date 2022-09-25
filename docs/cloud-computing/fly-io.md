@@ -12,3 +12,4 @@ title: Fly.io
 - [Fly.io Terraform provider](https://github.com/fly-apps/terraform-provider-fly)
 - [Remote development with Rust on fly.io (2022)](https://fasterthanli.me/articles/remote-development-with-rust-on-fly-io)
 - [Fly.io makes infrastructure easy for developers (2022)](https://blog.chiselstrike.com/fly-io-makes-infrastructure-easy-for-us-developers-63081d4d0476) ([HN](https://news.ycombinator.com/item?id=32951363))
+- [fade](https://github.com/nebulatgs/fade) - Ephemeral virtual machines, leveraging Fly.io.

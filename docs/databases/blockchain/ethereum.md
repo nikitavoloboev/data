@@ -690,3 +690,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Zora Create / Mint Page Template](https://github.com/ourzora/mint-page-template)
 - [Solbase](https://github.com/Sol-DAO/solbase) - Modern, opinionated, and gas optimized base for smart contract development.
 - [soli](https://github.com/jpopesculian/soli) - Solidity REPL.
+- [Reproduce DeFi hack incidents using Foundry](https://github.com/SunWeb3Sec/DeFiHackLabs)

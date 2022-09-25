@@ -261,3 +261,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [HN: 700M users and Premium (2022)](https://news.ycombinator.com/item?id=31802245)
 - [Aqueduct](https://github.com/agentcooper/Aqueduct) - macOS app to view Telegram channels.
 - [Grm](https://github.com/grmjs/grm) - MTProto API Client for Deno.
+- [Arigram](https://github.com/TruncatedDinosour/arigram) - Fork of tg, hackable telegram TUI client.

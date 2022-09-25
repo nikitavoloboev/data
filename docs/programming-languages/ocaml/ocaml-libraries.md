@@ -210,6 +210,8 @@ title: OCaml libraries
 - [metadata](https://github.com/savonet/ocaml-metadata) - Library to read metadata from files in various formats.
 - [Tensority](https://github.com/Octachron/tensority) - Strongly typed multidimensional array library for OCaml.
 - [ocaml-optics](https://github.com/geocaml/ocaml-optics) - Monomorphic optics using existentials.
+- [ppx_viewpattern](https://github.com/sim642/ppx_viewpattern) - Transformation for view patterns in OCaml.
+- [mcavl](https://github.com/art-w/mcavl) - Lock-free Sets and Maps for OCaml multicore.
 
 ## Links
 

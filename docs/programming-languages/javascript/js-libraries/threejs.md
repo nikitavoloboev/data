@@ -134,3 +134,4 @@ title: Three.js
 - [Vanilla ThreeJS Template](https://github.com/nemutas/vanilla-three-template)
 - [Three.js Experiment - Vanishing Suzanne](https://github.com/Aqro/threejs-vanishing-suzanne)
 - [Three Lightmap Baker](https://github.com/lucas-jones/three-lightmap-baker) - Basic example of lightmapping in ThreeJS.
+- [Three landscape](https://github.com/nwpointer/three-landscape) - React-three-fiber compatible abstractions that make it easier to render high quality landscapes scenes.

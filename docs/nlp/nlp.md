@@ -653,3 +653,4 @@
 - [Label Sleuth](https://github.com/label-sleuth/label-sleuth) - Open source no-code system for text annotation and building text classifiers.
 - [Vectoring Words (Word Embeddings) (2022)](https://www.youtube.com/watch?v=gQddtTdmG_8)
 - [CodeGeeX: A Multilingual Code Generative Model (2022)](https://keg.cs.tsinghua.edu.cn/codegeex/)
+- [The first neural machine translation system for the Erzya language (2022)](https://arxiv.org/abs/2209.09368) ([Code](https://github.com/slone-nlp/myv-nmt))

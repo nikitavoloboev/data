@@ -185,6 +185,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [virtual-types.nvim](https://github.com/jubnzv/virtual-types.nvim) - Shows type annotations for functions in virtual text using built-in LSP client.
 - [sqls.nvim](https://github.com/nanotee/sqls.nvim) - Neovim plugin for sqls that leverages the built-in LSP client.
 - [Neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
+- [lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers.
 
 ## Looks
 

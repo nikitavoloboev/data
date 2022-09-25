@@ -130,3 +130,4 @@
 - [RUM](https://rumsystem.net/) - Open source peer-to-peer application infrastructure to offer the internet alternatives in a decentralized and privacy oriented way. ([Code](https://github.com/rumsystem/quorum))
 - [Hyper Hyper Space](https://github.com/hyperhyperspace/hyperhyperspace-core) - Offline-first shared data library for creating p2p apps that work in the browser and NodeJS.
 - [Noosphere](https://github.com/subconsciousnetwork/noosphere) - Foundational protocol that the Subconscious app builds upon to enable an open-ended, permissionless multiplayer experience.
+- [Fluence](https://fluence.dev/docs/learn/overview) - Peer-to-peer application platform which allows the creation of applications free of proprietary cloud providers or centralized APIs. ([GitHub](https://github.com/fluencelabs)) ([Examples](https://github.com/fluencelabs/examples))
