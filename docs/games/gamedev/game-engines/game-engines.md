@@ -125,6 +125,7 @@
 - [glazeJS](https://github.com/rjewson/glazejs) - High performance 2D game engine built in Typescript.
 - [Acid](https://github.com/EQMG/Acid) - High speed C++17 Vulkan game engine.
 - [Iris](https://github.com/irisengine/iris) - Cross-platform game engine written in modern C++.
+- [Storm-Engine](https://github.com/storm-devs/storm-engine) - Game engine behind Sea Dogs, Pirates of the Caribbean and Age of Pirates games.
 
 ## Physics engines
 

@@ -127,3 +127,4 @@
 - [Linkedin Quiz Answers, Skill Assessments Test](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/) ([Code](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes))
 - [Ask HN: What to do about ‘Good at programming Bad at Leetcode’ (2022)](https://news.ycombinator.com/item?id=31450713)
 - [Leetcode Company-wise Problem Lists](https://github.com/hxu296/leetcode-company-wise-problems-2022) - Lists of company wise questions available on leetcode premium.
+- [Leetcode Anki card generator](https://github.com/prius/leetcode-anki)

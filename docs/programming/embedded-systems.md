@@ -207,3 +207,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [Blech](https://github.com/blech-lang/blech) - Language for developing reactive, real-time critical embedded software. ([Web](https://www.blech-lang.org/)) ([HN](https://news.ycombinator.com/item?id=32749906))
 - [tbot](https://github.com/Rahix/tbot) - Automation/Testing tool for Embedded Linux Development.
 - [espflash](https://github.com/esp-rs/espflash) - Serial flasher utility for Espressif SoCs and modules based on esptool.py.
+- [NetBox](https://github.com/westermo/netbox) - BusyBox of embedded network toolboxes.

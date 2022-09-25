@@ -625,6 +625,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [znv](https://github.com/lostfictions/znv) - Type-safe environment parsing and validation for Node.js with Zod schemas.
 - [ts-opaque](https://github.com/seancroach/ts-opaque) - Easy-to-use library that implements opaque types in TypeScript.
 - [ts:japi](https://github.com/mathematic-inc/ts-japi) - Highly-modular (typescript-friendly)-framework agnostic library for serializing data to the JSON:API specification.
+- [Prefixed API Key](https://github.com/seamapi/prefixed-api-key) - Module for generating a prefixed API Key.
 
 ## Links
 

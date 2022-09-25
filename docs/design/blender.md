@@ -93,3 +93,4 @@ title: Blender
 - [Rentaflop](https://rentaflop.com/) - Render your Blender projects without sacrificing quality. ([HN](https://news.ycombinator.com/item?id=32299674)) ([HN](https://news.ycombinator.com/item?id=32838673))
 - [3D model of Ferris in Blender](https://github.com/RayMarch/ferris3d)
 - [Dream Textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor.
+- [Blender Datasmith Export](https://github.com/0xafbf/blender-datasmith-export) - Export your Blender scene to UE4 using the Datasmith format.

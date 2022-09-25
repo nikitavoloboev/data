@@ -2180,6 +2180,11 @@
 - [lending-iterator](https://github.com/danielhenrymantilla/lending-iterator.rs) - Lending iterators on stable Rust.
 - [higher-order-closure](https://github.com/danielhenrymantilla/higher-order-closure.rs) - Allow function lifetime elision and explicit `for<'a>` annotations on closures.
 - [Ringbuffer](https://github.com/NULLx76/ringbuffer) - Fixed-size circular buffer written in Rust.
+- [uriparse-rs](https://github.com/sgodwincs/uriparse-rs) - Implementation of RFC3986 including URIs and URI references.
+- [rtsp-rs](https://github.com/sgodwincs/rtsp-rs) - RTSP 2.0 implementation in Rust.
+- [ordered-multimap-rs](https://github.com/sgodwincs/ordered-multimap-rs) - Ordered multimap.
+- [webidl-rs](https://github.com/sgodwincs/webidl-rs) - WebIDL parser written in Rust.
+- [ics](https://github.com/hummingly/ics) - Rust library for creating iCalendar files.
 
 ## Cargo Plugins
 

@@ -595,3 +595,6 @@ title: Linux
 - [Next steps for Rust in the kernel (2022)](https://lwn.net/SubscriberLink/908347/da67a5162d1bc4a3/) ([HN](https://news.ycombinator.com/item?id=32923928))
 - [Alpine-base](https://github.com/chainguard-images/alpine-base) - Alpine base image built with apko. Uses packages from the Alpine distribution.
 - [static](https://github.com/chainguard-images/static) - Base image with just enough files to run static binaries.
+- [kmemd](https://github.com/wkz/kmemd) - Explore a live Linux kernel's memory using GDB.
+- [ply](https://github.com/wkz/ply) - Light-weight Dynamic Tracer for Linux.
+- [Template Repository for Distroless Images](https://github.com/distroless/template)
