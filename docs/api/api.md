@@ -418,3 +418,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [YouTube-Internal-Clients](https://github.com/zerodytrash/YouTube-Internal-Clients) - Python script that discovers hidden YouTube API clients.
 - [OpenAPI Scraper](https://github.com/sgraaf/openapi-scraper) - Track changes to RESTful APIs by git scraping their OpenAPI descriptions.
 - [KrakenD](https://github.com/krakendio/krakend-ce) - High-performance, statless, declarative, API Gateway written in Go.
+- [Mock](https://github.com/dhuan/mock) - Setup and test APIs easily. ([HN](https://news.ycombinator.com/item?id=32966346))

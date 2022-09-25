@@ -279,3 +279,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [Suggest me a book to become a better husband (2022)](https://www.reddit.com/r/suggestmeabook/comments/xek51c/suggest_me_a_book_to_become_a_better_husband/)
 - [An opinionated guide to making friends](https://blog.aadilali.com/posts/friends.html) ([HN](https://news.ycombinator.com/item?id=32903606))
 - [Ask HN: I love to be alone. But this loneliness is killing me (2022)](https://news.ycombinator.com/item?id=32956548)
+- [What are your most unpopular opinions when it comes to non-monogamy and everything that comes with it? (2022)](https://www.reddit.com/r/nonmonogamy/comments/xn8s87/what_are_your_most_unpopular_opinions_when_it/)

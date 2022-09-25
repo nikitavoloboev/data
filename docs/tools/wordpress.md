@@ -18,3 +18,4 @@ title: Wordpress
 - [How WordPress and Tumblr are keeping the internet weird (2022)](https://www.theverge.com/2022/3/15/22977857/wordpress-tumblr-simplenote-internet-automattic-matt-mullenweg-interview)
 - [What are you doing, WordPress.com? (2022)](https://rootprivileges.net/2022/04/03/what-are-you-doing-wordpress-com/) ([HN](https://news.ycombinator.com/item?id=30894980))
 - [Wp-SQLite](https://github.com/stokry/wp-sqlite) - WordPress running on an SQLite database. ([HN](https://news.ycombinator.com/item?id=31396732))
+- [WordPress WASM](https://github.com/adamziel/wordpress-wasm) ([HN](https://news.ycombinator.com/item?id=32960560))

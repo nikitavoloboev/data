@@ -277,3 +277,4 @@
 - [Ask HN: What do you do and what's your consulting rate? (2022)](https://news.ycombinator.com/item?id=30188101)
 - [A career ending mistake (2022)](https://bitfieldconsulting.com/golang/career) ([HN](https://news.ycombinator.com/item?id=30428602))
 - [Ask HN: How to get clients for a new, small software agency? (2022)](https://news.ycombinator.com/item?id=30691266)
+- [Ask HN: Why aren't more software engineers contractors? tax savings? (2022)](https://news.ycombinator.com/item?id=32942774)

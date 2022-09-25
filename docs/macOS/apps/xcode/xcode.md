@@ -126,3 +126,4 @@ title: Xcode
 - [Xcode Cloud](https://developer.apple.com/xcode-cloud/) ([HN](https://news.ycombinator.com/item?id=32655347))
 - [XCSnippetsApp](https://github.com/MarcoEidinger/XCSnippetsApp) - macOS application to explore code snippets from the Swift and iOS community.
 - [What's New in Xcode 14 (2022)](https://www.youtube.com/watch?v=tYBZ8AVH0Q0)
+- [Ask HN: Xcode users – how do you make it more usable? (2022)](https://news.ycombinator.com/item?id=32971599)

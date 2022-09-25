@@ -519,3 +519,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Sniffnet](https://github.com/GyulyVGC/sniffnet) - Packet sniffer completely written in Rust. Multithreaded, cross-platform, reliable.
 - [Pingora, the proxy that connects Cloudflare to the Internet (2022)](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/) ([HN](https://news.ycombinator.com/item?id=32836661))
 - [Mercure](https://github.com/dunglas/mercure) - Open, easy, fast, reliable and battery-efficient solution for real-time communications. ([Web](https://mercure.rocks/))
+- [WHOIS: Fragile, unparseable, obsolete... and universally relied upon (2022)](https://www.netmeister.org/blog/whois.html) ([HN](https://news.ycombinator.com/item?id=32963417))

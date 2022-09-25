@@ -936,3 +936,4 @@
 - [Relighting4D: Neural Relightable Human from Videos (2022)](https://arxiv.org/abs/2207.07104) ([Code](https://github.com/FrozenBurning/Relighting4D))
 - [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images (2022)](https://nv-tlabs.github.io/GET3D/) ([Code](https://github.com/nv-tlabs/GET3D))
 - [Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer (2019)](https://nv-tlabs.github.io/DIB-R/) ([Code](https://github.com/nv-tlabs/DIB-R))
+- [Ask HN: Any good self-hosted image recognition software? (2022)](https://news.ycombinator.com/item?id=32939834)

@@ -66,3 +66,4 @@
 - [Upscale to huge sizes and add detail with SD Upscale, it's easy!](https://www.reddit.com/r/StableDiffusion/comments/xkjjf9/upscale_to_huge_sizes_and_add_detail_with_sd/)
 - [Open Prompts](https://github.com/krea-ai/open-prompts) - Dataset of 10M Stable Diffusion generations. ([HN](https://news.ycombinator.com/item?id=32943224))
 - [KREA](https://www.krea.ai/) - Create better prompts.
+- [GLID-3-XL-stable](https://github.com/Jack000/glid-3-xl-stable) - Stable diffusion back-ported to the OpenAI guided diffusion codebase, for easier development and training.

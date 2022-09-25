@@ -554,3 +554,4 @@ all: unset
 - [The Power of CSS Blend Modes (2022)](https://cloudfour.com/thinks/the-power-of-css-blend-modes/)
 - [Subtle, yet Beautiful Scroll Animations (2022)](https://www.youtube.com/watch?v=T33NN_pPeNI)
 - [PostCSS LightningCSS](https://github.com/onigoetz/postcss-lightningcss) - PostCSS plugin uses Lightning CSS to compile and minify your CSS.
+- [58 bytes of CSS to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41) ([HN](https://news.ycombinator.com/item?id=32972004))
