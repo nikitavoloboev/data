@@ -19,6 +19,7 @@
 
 - [Multiplatform Compose](https://github.com/cl3m/multiplatform-compose) - Kotlin library to use Jetpack Compose in Android and iOS. Allow to write UI for both in Kotin.
 - [Mosaic](https://github.com/JakeWharton/mosaic) - Tool for building console UI in Kotlin using the Jetpack Compose compiler/runtime.
+- [Twitter's Jetpack Compose Rules](https://github.com/twitter/compose-rules) - Static checks to aid with a healthy adoption of Compose.
 
 ## Test
 

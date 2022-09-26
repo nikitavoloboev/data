@@ -173,3 +173,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Remix SSG](https://github.com/jacob-ebey/remix-ssg) - CLI for building static sites with Remix.
 - [Remix-Query](https://github.com/GuptaSiddhant/remix-query) - Keep your loader data in sync in your component without reloading the page.
 - [Fontsource with Remix](https://gist.github.com/knowler/d74f1cdfa0d80a63910b554998eec112)
+- [Remix PWA](https://github.com/ShafSpecs/remix-pwa) - PWA integration & support for Remix.

@@ -65,3 +65,4 @@ title: Caddy
 - [Caddyhttp: Enable HTTP/3 by Default](https://github.com/caddyserver/caddy/pull/4707) ([HN](https://news.ycombinator.com/item?id=32768454))
 - [Caddy Mesh](https://github.com/RussellLuo/caddy-mesh) - Caddy service mesh based on the host/node architecture.
 - [35M Hot Dogs: Benchmarking Caddy vs. Nginx (2022)](https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/) ([HN](https://news.ycombinator.com/item?id=32865497))
+- [Caddy Conditional Logging](https://github.com/leodido/caddy-conditional-logging) - Caddy log encoder for conditional logging.

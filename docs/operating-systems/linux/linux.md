@@ -598,3 +598,4 @@ title: Linux
 - [kmemd](https://github.com/wkz/kmemd) - Explore a live Linux kernel's memory using GDB.
 - [ply](https://github.com/wkz/ply) - Light-weight Dynamic Tracer for Linux.
 - [Template Repository for Distroless Images](https://github.com/distroless/template)
+- [OpenBMC](https://github.com/openbmc/openbmc) - Linux distribution for management controllers used in devices such as servers, top of rack switches or RAID appliances.

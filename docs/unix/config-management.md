@@ -71,3 +71,4 @@
 - [Why We Switched from YAML to TypeScript for Our Configuration (2022)](https://stellate.co/blog/moving-from-yaml-to-typescript)
 - [Smithy](https://github.com/awslabs/smithy) - Language for defining services and SDKs. ([Docs](https://awslabs.github.io/smithy/2.0/index.html))
 - [oson](https://github.com/KnorpelSenf/oson) - Structured object notation.
+- [yamlctl](https://github.com/AkihiroSuda/yamlctl) - Tool to modify YAMLs without losing (most of) comment lines.

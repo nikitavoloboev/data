@@ -577,3 +577,5 @@ title: GitHub actions
 - [Automating visual UI tests with Playwright and GitHub Actions (2022)](https://mmazzarolo.com/blog/2022-09-09-visual-regression-testing-with-playwright-and-github-actions/)
 - [Workflow-Timer](https://github.com/Michael-F-Bryan/workflow-timer) - Keep an eye on how long your GitHub Actions jobs are taking.
 - [Now reading](https://katydecorah.com/code/now-reading/) - How I built a book display using GitHub actions, a Raspberry Pi, and an e-paper module.
+- [GitHub Actions Pitfalls (2022)](https://fusectore.dev/2022/09/25/github-actions-pitfalls.html)
+- [gha-trigger](https://github.com/gha-trigger/gha-trigger) - Webhook Server for Secure GitHub Actions.

@@ -201,3 +201,4 @@ title: Terraform
 - [A Comprehensive Guide to End-to-End-Declarative Deployment with Terraform and Nix (2022)](https://jonascarpay.com/posts/2022-09-19-declarative-deployment.html)
 - [Terraform Packer Provider](https://github.com/toowoxx/terraform-provider-packer)
 - [Terraform TiDB Cloud Provider](https://github.com/tidbcloud/terraform-provider-tidbcloud)
+- [Terraform OpenStack Provider](https://github.com/terraform-provider-openstack/terraform-provider-openstack)

@@ -106,6 +106,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [fs-fixture](https://github.com/privatenumber/fs-fixture) - Easily create test fixtures at a temporary file-system path.
 - [hanbi](https://github.com/43081j/hanbi) - Small and simple library for stubbing and spying on methods and functions in JavaScript tests.
 - [user-event](https://github.com/testing-library/user-event) - Fire events the same way the user does.
+- [File generator](https://github.com/poppinss/file-generator) - Generate fake in-memory files for varying sizes.
 
 ## Auth
 
@@ -626,6 +627,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-opaque](https://github.com/seancroach/ts-opaque) - Easy-to-use library that implements opaque types in TypeScript.
 - [ts:japi](https://github.com/mathematic-inc/ts-japi) - Highly-modular (typescript-friendly)-framework agnostic library for serializing data to the JSON:API specification.
 - [Prefixed API Key](https://github.com/seamapi/prefixed-api-key) - Module for generating a prefixed API Key.
+- [csv.js](https://github.com/wilsonzlin/csv.js) - Fast error-free CSV parser.
+- [Deferred Promise](https://github.com/open-draft/deferred-promise) - Promise-compatible abstraction that defers resolving/rejecting promises to another closure.
 
 ## Links
 

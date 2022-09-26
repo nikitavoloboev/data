@@ -1815,6 +1815,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gengo](https://github.com/kubernetes/gengo) - Package for generating things based on go files.
 - [btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go.
 - [go-binarytree](https://github.com/dnaeon/go-binarytree) - Simple Binary Tree implementation in Go.
+- [go-syslog](https://github.com/influxdata/go-syslog) - Parser for Syslog messages and transports.
+- [Common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries.
 
 ## Links
 

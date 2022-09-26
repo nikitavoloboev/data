@@ -313,3 +313,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [brawler](https://github.com/hasundue/brawler) - Develop and deploy Deno scripts for Cloudflare Workers with Wrangler.
 - [Flash](https://github.com/hasundue/flash) - Resource-oriented web framework in TypeScript, particularly optimized for building microservices on serverless platforms with Deno.
 - [Graphism](https://github.com/zaiste/graphism) - Library for creating GraphQL servers in Deno & Deno Deploy.
+- [Skia Canvas](https://github.com/DjDeveloperr/skia_canvas) - Fast JavaScript Canvas backed by Skia using Deno FFI.

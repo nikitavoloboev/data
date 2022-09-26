@@ -121,6 +121,7 @@
 - [MixedModels](https://github.com/JuliaStats/MixedModels.jl) - Julia package for fitting (statistical) mixed-effects models. ([Tweet](https://twitter.com/wdonald_1985/status/1557180271669047296))
 - [Finch](https://github.com/willow-ahrens/Finch.jl) - Sparse, Compressed, and Structured Tensor Processing.
 - [Sophon](https://github.com/YichengDWu/Sophon.jl) - Neural networks and neural operators for physics-informed machine learning.
+- [GenericTensorNetworks](https://github.com/QuEraComputing/GenericTensorNetworks.jl) - Generic tensor networks for solution space properties.
 
 ## Math
 

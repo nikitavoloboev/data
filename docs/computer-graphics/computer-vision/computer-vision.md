@@ -938,3 +938,5 @@
 - [Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer (2019)](https://nv-tlabs.github.io/DIB-R/) ([Code](https://github.com/nv-tlabs/DIB-R))
 - [Ask HN: Any good self-hosted image recognition software? (2022)](https://news.ycombinator.com/item?id=32939834)
 - [LAVIS](https://github.com/salesforce/LAVIS) - One-stop Library for Language-Vision Intelligence.
+- [CATs: Cost Aggregation Transformers for Visual Correspondence (2021)](https://arxiv.org/abs/2106.02520) ([Code](https://github.com/SunghwanHong/Cost-Aggregation-transformers))
+- [Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation (2022)](https://seokju-cho.github.io/VAT/) ([Code](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer))

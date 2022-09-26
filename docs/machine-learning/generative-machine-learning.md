@@ -69,3 +69,4 @@
 - [GLID-3-XL-stable](https://github.com/Jack000/glid-3-xl-stable) - Stable diffusion back-ported to the OpenAI guided diffusion codebase, for easier development and training.
 - [ImaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
 - [UnstableFusion](https://github.com/ahrm/UnstableFusion) - Stable Diffusion desktop frontend with inpainting, img2img and more.
+- [Dreamfields-3D](https://github.com/shengyu-meng/dreamfields-3D) - Colab friendly toolkit to generate 3D mesh model / video / nerf instance / multiview images of colourful 3D objects by text and image prompts input, based on dreamfields.

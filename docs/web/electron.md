@@ -10,6 +10,7 @@ I prefer to build things natively with [SwiftUI](../programming-languages/swift/
 
 - [Actual](https://github.com/actualbudget/actual) - Budgeting app. Local first architecture.
 - [Twizzle](https://github.com/kitze/twizzle) - Desktop app for Twitter DM & composing tweets from the menubar.
+- [HTTP Toolkit Desktop](https://github.com/httptoolkit/httptoolkit-desktop)
 
 ## Nice templates
 

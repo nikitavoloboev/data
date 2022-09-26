@@ -457,6 +457,7 @@ Below is a list of extensions I use.
 
 - [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) - Develop, deploy and debug Kubernetes applications.
 - [mirrord](https://marketplace.visualstudio.com/items?itemName=MetalBear.mirrord) - Mirror live traffic from your Kubernetes cluster to your local debugged process. ([Code](https://github.com/metalbear-co/mirrord)) ([HN](https://news.ycombinator.com/item?id=31633481))
+- [Helm Intellisense](https://marketplace.visualstudio.com/items?itemName=Tim-Koehler.helm-intellisense) - Extension to help writing Helm-Templates by providing intellisense. ([Code](https://github.com/tim-koehler/Helm-Intellisense))
 
 ## Protocol buffers
 

@@ -55,6 +55,6 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [Does time exist all at once or are things happening as we experience them?](https://www.reddit.com/r/AskPhysics/comments/vpynx8/does_time_exist_all_at_once_or_are_things/)
 - [It's About Time (literally) (2022)](https://www.youtube.com/watch?v=RvnG-ywF6_s)
 - [Time travel films where they don’t know much about the concept](https://www.reddit.com/r/MovieSuggestions/comments/x605ys/time_travel_films_where_they_dont_know_much_about/)
-- [How weird our time keeping systems are](https://twitter.com/foone/status/1572260363764400129)
+- [Someday aliens will land and all will be fine until we explain our calendar](https://twitter.com/foone/status/1572260363764400129) ([HN](https://news.ycombinator.com/item?id=32975173))
 - [Swatch Internet Time](https://www.timeanddate.com/time/internettime.html) ([HN](https://news.ycombinator.com/item?id=32948420))
 - [minitz](https://github.com/Hexagon/minitz) - Minimal utility to convert to or from any timezone. Deno/Node/Browser. ESM/CommonJS.

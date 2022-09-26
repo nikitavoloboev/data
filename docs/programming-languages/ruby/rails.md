@@ -6,6 +6,10 @@ title: Rails
 
 [Bullet Train Rails template](https://bullettrain.co/) seems nice.
 
+## OSS Rails apps
+
+- [HotTable](https://github.com/fractaledmind/hottable) - Minimal Airtable clone built with Rails and HotWire.
+
 ## Notes
 
 - [Render.com can host Rails code bases nicely](https://twitter.com/signalnerve/status/1462171434147532801)

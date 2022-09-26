@@ -4,7 +4,7 @@ title: RSS
 
 # [RSS](https://en.wikipedia.org/wiki/RSS)
 
-Use [Inoreader](https://www.inoreader.com/) for reading/managing my RSS feeds.
+Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. Previously used [Inoreader](https://www.inoreader.com/) but it was too expensive.
 
 ## Notes
 

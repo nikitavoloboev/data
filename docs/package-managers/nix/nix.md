@@ -411,3 +411,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Building Nix flakes from Rust workspaces (2022)](https://www.tweag.io/blog/2022-09-22-rust-nix/)
 - [Declarative Cachix](https://github.com/jonascarpay/declarative-cachix) - Add cachix caches declaratively. You can use it either as a system module, or as a home-manager module.
 - [Guix for development (2022)](https://dthompson.us/guix-for-development.html) ([HN](https://news.ycombinator.com/item?id=32960308))
+- [nix-parameterized](https://github.com/Acosense/nix-parameterized)

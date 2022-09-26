@@ -1,14 +1,14 @@
 # Blogs
 
-I use [Inoreader](https://www.inoreader.com/) to stay on top of blogs I like.
+Use [NetNewsWire](https://netnewswire.com/) to stay on top of blogs I like with [RSS](../web/rss.md).
 
-At some point I used [Reeder](https://reederapp.com/).
+At some point I used [Inoreader](https://www.inoreader.com/) & [Reeder](https://reederapp.com/).
 
 ![](https://i.imgur.com/l0Cq6ZT.jpg)
 
 I separate blogs I follow by quality into `1.` & `2.` folders accordingly.
 
-I share my [XML subscription feed of blogs I follow](https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689). I also follow some people on [Medium](https://medium.com/@nikitavoloboev/following).
+I share my [XML subscription feed of blogs I follow](https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689). I also follow some people on [Substack](https://substack.com/profile/4702201-nikita), [Medium](https://medium.com/@nikitavoloboev/following).
 
 My blog is written with [Solid](../programming-languages/javascript/js-libraries/solid.md) ([code here](https://github.com/nikitavoloboev/nikitavoloboev)).
 

@@ -494,6 +494,7 @@
 - [unimock](https://github.com/audunhalland/unimock) - Library for defining mock implementations of traits.
 - [mock-it](https://github.com/nathanielsimard/mock-it) - Aims to make mocking reliable.
 - [Turmoil](https://github.com/tokio-rs/turmoil) - Add hardship to your tests.
+- [testdata-rs](https://github.com/qnighy/testdata-rs) - Macros and helper functions for file-based testing.
 
 ## Error
 
@@ -2188,6 +2189,7 @@
 - [ordered-multimap-rs](https://github.com/sgodwincs/ordered-multimap-rs) - Ordered multimap.
 - [webidl-rs](https://github.com/sgodwincs/webidl-rs) - WebIDL parser written in Rust.
 - [ics](https://github.com/hummingly/ics) - Rust library for creating iCalendar files.
+- [Autumn](https://github.com/xurtis/autumn) - Library for building recursive descent parsers using combinators.
 
 ## Cargo Plugins
 

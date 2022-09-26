@@ -253,6 +253,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Seafowl](https://github.com/splitgraph/seafowl) - Analytical database for modern data-driven Web applications.
 - [WooriDB](https://github.com/naomijub/wooridb) - General purpose time serial database. It is schemaless, key-value storage and uses its own query syntax that is similar to SparQL.
 - [Apache Pegasus](https://github.com/apache/incubator-pegasus) - Horizontally scalable, strongly consistent and high-performance key-value store.
+- [Tidis](https://github.com/tidb-incubator/tidis) - Distributed transactional large-scale NoSQL database powered by TiKV.
 
 ## Tools
 

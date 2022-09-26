@@ -208,3 +208,6 @@ Also looking into [Embassy](https://embassy.dev/).
 - [tbot](https://github.com/Rahix/tbot) - Automation/Testing tool for Embedded Linux Development.
 - [espflash](https://github.com/esp-rs/espflash) - Serial flasher utility for Espressif SoCs and modules based on esptool.py.
 - [NetBox](https://github.com/westermo/netbox) - BusyBox of embedded network toolboxes.
+- [Rust projects and templates for the STM32Nucleo-F4 development board](https://github.com/apollolabsdev/stm32-nucleo-f401re)
+- [I'm Building a Self-Destructing USB Drive (2022)](https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/)
+- [R3-OS](https://github.com/r3-os/r3) - Experimental static component-oriented RTOS for deeply embedded systems.

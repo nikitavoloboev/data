@@ -65,6 +65,8 @@
 - [Nitro](https://github.com/h2oai/nitro) - Simplest way to build web apps using Python. No JavaScript/HTML/CSS coding.
 - [HTTPX OAuth](https://github.com/frankie567/httpx-oauth) - Async OAuth client using HTTPX.
 - [requests-cache](https://github.com/requests-cache/requests-cache) - Transparent persistent cache for python requests.
+- [waiter](https://github.com/coady/waiter) - Delayed iteration for polling and retries.
+- [Clients](https://github.com/coady/clients) - High-level HTTP clients for Python.
 
 ## ML
 
@@ -234,6 +236,10 @@
 - [PyCryptodome](https://github.com/Legrandin/pycryptodome) - Self-contained cryptographic library for Python.
 - [eciespy](https://github.com/ecies/py) - Elliptic Curve Integrated Encryption Scheme for secp256k1 in Python.
 
+## GraphQL
+
+- [Graphique](https://github.com/coady/graphique) - GraphQL service for arrow tables and parquet data sets.
+
 ## macOS
 
 - [numbers-parser](https://github.com/masaccio/numbers-parser) - Python module for parsing Apple Numbers .numbers files. ([HN](https://news.ycombinator.com/item?id=29753204))
@@ -301,6 +307,7 @@
 - [PyTruth](https://github.com/google/pytruth) - Assertion framework for Python unit tests.
 - [pytest-accept](https://github.com/max-sixty/pytest-accept) - Pytest plugin for automatically updating doctest outputs.
 - [RESPX](https://github.com/lundberg/respx) - Mock HTTPX with awesome request patterns and response side effects.
+- [Pytest-parametrized](https://github.com/coady/pytest-parametrized) - Pytest decorator for parametrizing tests with default iterables.
 
 ## Error
 
@@ -982,6 +989,10 @@
 - [fhir-py](https://github.com/google/fhir-py) - Google's tools for working with FHIR data in Python.
 - [deptry](https://github.com/fpgmaas/deptry) - Command line utility to check for obsolete, missing and transitive dependencies in a Python project.
 - [Qdrant Client](https://github.com/qdrant/qdrant_client) - Client library for the Qdrant vector search engine.
+- [Multimethod](https://github.com/coady/multimethod) - Multiple argument dispatching.
+- [placeholder](https://github.com/coady/placeholder) - Operator overloading for fast anonymous functions.
+- [Futured](https://github.com/coady/futured) - Functional interface for concurrent futures, including asynchronous I/O.
+- [MMDA](https://github.com/allenai/mmda) - Multimodal document analysis.
 
 ## Notes
 

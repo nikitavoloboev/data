@@ -413,7 +413,7 @@
 - [oEmbed](https://oembed.com/) - Format for allowing an embedded representation of a URL on third party sites. ([Code](https://github.com/iamcal/oembed))
 - [remark-oembed](https://github.com/agentofuser/remark-oembed) - Converts URLs surrounded by newlines into embeds.
 - [WinterCG](https://wintercg.org/) - Web-interoperable Runtimes Community Group. ([Code](https://github.com/wintercg/www)) ([FAQ](https://wintercg.org/faq)) ([Meetings](https://github.com/wintercg/admin))
-- [Atomic Router](https://github.com/Kelin2025/atomic-router) - Platform-agnostic router that does not break your architecture.
+- [Atomic Router](https://github.com/atomic-router/atomic-router) - Platform-agnostic router that does not break your architecture. ([Docs](https://atomic-router.github.io/))
 - [What's new for the web platform (2022)](https://www.youtube.com/watch?v=5b4YcLB4DVI)
 - [Component Party](https://component-party.dev/) - Web component JS frameworks overview by their syntax and features. ([Code](https://github.com/matschik/component-party))
 - [MiniApp Standardization](https://github.com/w3c/miniapp)
@@ -450,3 +450,4 @@
 - [Ask HN: How do you find the weird parts of the web? (2022)](https://news.ycombinator.com/item?id=32804832)
 - [The Web is Good Now | Chris Coyier (2022)](https://www.youtube.com/watch?v=F18oy48jkrk)
 - [Definitions of web terminology (2022)](https://kaleidawave.github.io/posts/web-terminology/)
+- [warc-embed](https://github.com/harvard-lil/warc-embed) - Proxy and wrapper for safely embedding Web Archives (.warc.gz, .wacz) into web pages.

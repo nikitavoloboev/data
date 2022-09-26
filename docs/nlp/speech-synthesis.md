@@ -90,3 +90,4 @@
 - [ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech](https://github.com/Rongjiehuang/ProDiff)
 - [AudioLM: Language Modeling Approach to Audio Generation](https://google-research.github.io/seanet/audiolm/examples/) ([Code](https://github.com/lucidrains/audiolm-pytorch))
 - [Awesome Singing Voice Synthesis and Singing Voice Conversion](https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion)
+- [LPCNet](https://github.com/xiph/LPCNet) - Efficient neural speech synthesis.

@@ -20,6 +20,7 @@ title: OCaml libraries
 - [Async_http](https://github.com/anuragsoni/async_http) - Simple HTTP server for async applications.
 - [Pollinate](https://github.com/marigold-dev/pollinate) - Platform agnostic OCaml library for P2P communications using UDP and Bin_prot.
 - [Bonsai](https://github.com/janestreet/bonsai) - Library for building interactive browser-based UI.
+- [ocaml-dispatch](https://github.com/inhabitedtype/ocaml-dispatch) - Path-based dispatching for client- and server-side applications.
 
 ## Test
 
@@ -212,6 +213,9 @@ title: OCaml libraries
 - [ocaml-optics](https://github.com/geocaml/ocaml-optics) - Monomorphic optics using existentials.
 - [ppx_viewpattern](https://github.com/sim642/ppx_viewpattern) - Transformation for view patterns in OCaml.
 - [mcavl](https://github.com/art-w/mcavl) - Lock-free Sets and Maps for OCaml multicore.
+- [imagelib](https://github.com/rlepigre/ocaml-imagelib) - Imagelib library implements image formats such as PNG or PPM.
+- [Bindlib](https://github.com/rlepigre/ocaml-bindlib) - Efficient binder representation in OCaml.
+- [ocaml-earley](https://github.com/rlepigre/ocaml-earley) - Parsing library based on Earley Algorithm.
 
 ## Links
 

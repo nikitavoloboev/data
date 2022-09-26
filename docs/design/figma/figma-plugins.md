@@ -107,3 +107,4 @@
 - [Auto Documentation](https://www.figma.com/community/plugin/1134018716847999330/Auto-Documentation) - With one click, this plugin documents all of the color and font styles for you.
 - [Free 75+ illustrations - Surface Pack – Figma](https://www.figma.com/community/file/883778082594341562)
 - [Supa Palette](https://www.supa-palette.com/) - All-in-one palette generator, editor and manager for Figma.
+- [Figma Leading Trim](https://github.com/markdalgleish/figma-leading-trim) - Figma plugin for trimming space above and below text elements.

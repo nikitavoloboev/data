@@ -92,3 +92,4 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [Slack Message Client](https://github.com/MPLew-is/slack-message-client) - Slack message generator and API client, written in Swift with Result Builders and Concurrency.
 - [Slack Machine](https://github.com/DonDebonair/slack-machine) - Simple, yet powerful and extendable Slack bot.
 - [Slack releases platform open beta powered by Deno (2022)](https://deno.com/blog/slack-open-beta)
+- [Slack-Backup](https://github.com/edemaine/slack-backup) - Backup Slack users, channels, and messages for conversion to Discord.

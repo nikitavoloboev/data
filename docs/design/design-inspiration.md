@@ -403,6 +403,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Krijn Rijshouwer](https://www.krijnrijshouwer.com/)
 - [Fabian Fett](https://fabianfett.de/)
 - [Louie Mantia](http://louiemantia.com/)
+- [Vadim Makeev](https://pepelsbey.dev/) ([Code](https://github.com/pepelsbey/pepelsbey.dev))
 - [Unai Mengual](https://owln.ai/)
 - [Koos Looijesteijn](https://www.kooslooijesteijn.net/)
 - [Patrick Brosset](https://patrickbrosset.com/)
