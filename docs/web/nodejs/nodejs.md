@@ -422,3 +422,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [skott](https://github.com/antoine-coulon/skott) - Automatically construct, traverse and visualize graphs generated from your Node.js project.
 - [node-jq](https://github.com/sanack/node-jq) - Node.js wrapper for jq.
 - [python-shell](https://github.com/extrabacon/python-shell) - Simple way to run Python scripts from Node.js with basic but efficient inter-process communication and better error handling.
+- [Minimize Heap Allocations in Node.js (2022)](https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html)

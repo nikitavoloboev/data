@@ -457,3 +457,4 @@ title: Haskell
 - [How to make a Haskell program 5x faster with 16 lines of code (2022)](https://www.youtube.com/watch?v=yRVjR9XcuPU)
 - [Easy JSON in Haskell (2022)](https://blog.drewolson.org/easy-json)
 - [Easy incremental Haskell CI builds with GHC 9.4 (2022)](https://harry.garrood.me/blog/easy-incremental-haskell-ci-builds-with-ghc-9.4/)
+- [Monad confusion and the blurry line between data and computation (2022)](https://www.micahcantor.com/blog/monad-confusion/)

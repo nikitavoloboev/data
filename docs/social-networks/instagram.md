@@ -4,6 +4,7 @@
 
 - [Rosa Lobenstein](https://www.instagram.com/rosa_vonlobenstein/)
 - [Kendall](https://www.instagram.com/kendalljenner/)
+- [Christian Sieber](https://www.instagram.com/christiansieber/)
 
 ## API
 

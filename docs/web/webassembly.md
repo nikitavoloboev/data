@@ -364,3 +364,4 @@ title: WebAssembly
 - [Ask HN: What are the use cases of WASM outside the browser? (2022)](https://news.ycombinator.com/item?id=32942524)
 - [spall](https://github.com/colrdavidson/spall) - WASM flamegraph tracing renderer.
 - [walloc](https://github.com/wingo/walloc) - Small malloc implementation, for use in WebAssembly.
+- [Roadmap - WebAssembly](https://webassembly.org/roadmap/)

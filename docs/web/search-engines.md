@@ -7,6 +7,7 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 ## Notes
 
 - [If you’re implementing search please understand that using quotes means “find this literal text”.](https://twitter.com/davidfowl/status/1574138778129944576)
+- [10 years from now, google search will be a fraction of what it is today. it will only be used for objective search (e.g. medical advice, how to fix a flat tire, finding the best plumber). All subjective search will be done on social platforms with hyper-personalized algorithms.](https://twitter.com/elizalian/status/1574198894220541953)
 
 ## Links
 

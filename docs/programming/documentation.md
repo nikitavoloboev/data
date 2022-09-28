@@ -202,3 +202,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Ask HN: Whats the best SDK documentation you’ve ever read, and why? (2022)](https://news.ycombinator.com/item?id=32794330)
 - [parse-changelog](https://github.com/taiki-e/parse-changelog) - Simple changelog parser, written in Rust.
 - [I’m a Productive Programmer with a Memory of a Fruit Fly](https://hynek.me/articles/productive-fruit-fly-programmer/)
+- [What’s your favorite go to documentation tool for building team knowledge base (2022)](https://lobste.rs/s/3faroe/what_s_your_favorite_go_documentation)

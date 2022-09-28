@@ -35,6 +35,7 @@ One way to do launches with possible virality is rewarding people who retweet wi
 - [In developer marketing, "Talk benefits, not features" doesn't work! Developers are sick of vague promises and wary of black boxes. Instead: Demo - reach Wow! in <10 mins. Explain how it works. Show how real companies use in prod.](https://twitter.com/swyx/status/1361279902889086980)
 - [Your content has a half life and the average varies by platform: Twitter: 1-24 hours. YouTube: Weeks-Months. Blog: Years.](https://twitter.com/swyx/status/1422041713187586048)
 - [The title should inform the reader what they'll expect when they read it.](https://news.ycombinator.com/item?id=32320466)
+- [Content marketing is how startups won in the last decade but it's becoming a commodity. The only way to stand out from AI tools and cheap writers is by adding personal experiences and strong opinions. That’s the only thing they will never be able to copy.](https://twitter.com/theandreboso/status/1574045752216748034)
 
 ## Links
 

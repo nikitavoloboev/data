@@ -1110,3 +1110,4 @@
 - [Modern Guide to Packaging your JavaScript library](https://github.com/frehner/modern-guide-to-packaging-js-library)
 - [Great JS libs (2022)](https://twitter.com/ZheSolworks/status/1565852085211410432)
 - [Best practices for creating a modern npm package (2022)](https://snyk.io/blog/best-practices-create-modern-npm-package/)
+- [What do you use to find NPM packages? (2022)](https://twitter.com/MylesBorins/status/1574426427298091010)

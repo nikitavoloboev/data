@@ -129,3 +129,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [FAQ: When do I use a Solid Signal versus a Store? (2022)](https://www.youtube.com/watch?v=GEu8hc3RKpw)
 - [Solid Test Recorder](https://github.com/chris-czopp/solid-test-recorder) - Automated Chrome extension to generate unit/integration tests for SolidJS. ([Demo](https://www.youtube.com/watch?v=t6Gn5-M9Zg8))
 - [solid-optimizer](https://github.com/lxsmnsyc/solid-optimizer) - Compile-time optimizer for SolidJS.
+- [Voby: Simplifications Over Solid - No Babel, No Compiler (2022)](https://dev.to/fabiospampinato/voby-simplifications-over-solid-no-babel-no-compiler-5epg)

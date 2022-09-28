@@ -38,3 +38,4 @@
 - [Ask HN: What should I bring up during salary negotiation as a junior developer? (2022)](https://news.ycombinator.com/item?id=31038133)
 - [Valuable salary negotiation advice](https://github.com/petermekhaeil/salary-negotiating)
 - [Ask HN: Salary negotiation? (2022)](https://news.ycombinator.com/item?id=32778166)
+- [Always negotiate every offer](https://twitter.com/GabriellaG439/status/1574771143160262657)

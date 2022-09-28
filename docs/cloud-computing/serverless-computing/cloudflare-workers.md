@@ -199,3 +199,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Workers that manage the cache](https://github.com/nix-ocaml/cloudflare-workers)
 - [HTTP server for Hono on Node.js](https://github.com/honojs/node-server)
 - [Cloudflare’s Zero Egress Fee Object Storage, R2, Is Now GA (2022)](https://blog.cloudflare.com/r2-ga/) ([HN](https://news.ycombinator.com/item?id=32924587))
+- [Workerd: Open-source Cloudflare workers runtime (2022)](https://blog.cloudflare.com/workerd-open-source-workers-runtime/) ([HN](https://news.ycombinator.com/item?id=32994723))

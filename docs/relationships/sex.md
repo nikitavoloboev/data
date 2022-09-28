@@ -118,3 +118,4 @@
 - [Men with vasectomy! How did it effect your sex life? (2022)](https://www.reddit.com/r/AskMen/comments/vbiqr9/men_with_vasectomy_how_did_it_effect_your_sex_life/)
 - [Sex is going out of fashion?](https://www.welltechnically.news/p/sex-is-going-out-of-fashion) ([HN](https://news.ycombinator.com/item?id=31822549))
 - [Tips to eat her out](https://www.reddit.com/r/sex/comments/vs78ll/tips_to_eat_her_out/)
+- [Is sex with a condom really that bad?](https://www.reddit.com/r/sex/comments/xo0twa/is_sex_with_a_condom_really_that_bad/)

@@ -451,3 +451,4 @@
 - [The Web is Good Now | Chris Coyier (2022)](https://www.youtube.com/watch?v=F18oy48jkrk)
 - [Definitions of web terminology (2022)](https://kaleidawave.github.io/posts/web-terminology/)
 - [warc-embed](https://github.com/harvard-lil/warc-embed) - Proxy and wrapper for safely embedding Web Archives (.warc.gz, .wacz) into web pages.
+- [A World Wide View of Browsing the World Wide (2022)](https://zakird.com/papers/browsing.pdf)

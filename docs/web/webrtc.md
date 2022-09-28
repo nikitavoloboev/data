@@ -113,3 +113,4 @@ title: WebRTC
 - [WebRTC Stats](https://w3c.github.io/webrtc-stats/) ([Code](https://github.com/w3c/webrtc-stats))
 - [P2PCF](https://github.com/gfodor/p2pcf) - Low cost, low effort WebRTC signalling using Cloudflare workers. ([HN](https://news.ycombinator.com/item?id=32282954))
 - [Pion ICE](https://github.com/pion/ice) - Go implementation of ICE.
+- [Cloudflare Calls: Build real-time video and audio apps on the world’s most interconnected network (2022)](https://blog.cloudflare.com/announcing-cloudflare-calls/) ([HN](https://news.ycombinator.com/item?id=32994757))

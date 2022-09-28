@@ -521,3 +521,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Mercure](https://github.com/dunglas/mercure) - Open, easy, fast, reliable and battery-efficient solution for real-time communications. ([Web](https://mercure.rocks/))
 - [WHOIS: Fragile, unparseable, obsolete... and universally relied upon (2022)](https://www.netmeister.org/blog/whois.html) ([HN](https://news.ycombinator.com/item?id=32963417))
 - [Notes from Tail Latency Aware Caching Paper by RobinHood (2022)](https://kracekumar.com/post/tail_latency_aware_caching/)
+- [Ziti](https://github.com/openziti/ziti) - Programmable network overlay and edge components for zero-trust networking. ([HN](https://news.ycombinator.com/item?id=32982136))

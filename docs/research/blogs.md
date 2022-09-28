@@ -171,6 +171,8 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Josh Bleecher Snyder](https://commaok.xyz/)
 - [Things Of Interest](https://qntm.org/)
 - [Ryan Mulligan](https://ryanmulligan.dev/blog/)
+- [Yuan Chuan](https://yuanchuan.dev/)
+- [Micah Cantor](https://www.micahcantor.com/)
 
 ## Notes
 

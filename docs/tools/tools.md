@@ -120,8 +120,8 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Minymon](https://www.minymon.com/) - Cute and helpful pets for your website.
 - [Meetbot](https://github.com/balena-io-playground/meetbot) - Google Meet bot that makes meetings frictionless.
 - [Centered](https://www.centered.app/) - Flow Music & automated Productivity Coaching, Mono-Tasking, Do-Not-Disturb.
-- [Threads](https://threads.com/) - Empowers teams to easily share, discuss, and make decisions no matter where they are.
 - [Typedream](https://typedream.com/) - No-code site builder, easy as Notion, pretty as Webflow. ([HN](https://news.ycombinator.com/item?id=29084309))
+- [Ask Command](https://askcommand.com/) - AI-powered Developer Assistant.
 - [Diagram generation tool](https://www.diagram.codes/) ([HN](https://news.ycombinator.com/item?id=21615978))
 - [Circle](https://circle.so/) - Modern community platform for creators.
 - [Nodebook](https://github.com/netgusto/nodebook) - Multi-Lang Web REPL + CLI Code runner.

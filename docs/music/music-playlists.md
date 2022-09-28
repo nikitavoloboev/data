@@ -28,3 +28,4 @@ I share music I liked on SoundCloud on [my profile](https://soundcloud.com/nikit
 - [Song Sonar](https://songsonar.rocks/) - Smart Spotify playlist with new releases from artists you follow. ([Code](https://github.com/raffomania/songsonar))
 - [Spottydata](https://www.spottydata.com/) - Spotify Playlist Analyzer. ([Code](https://github.com/NLeRoy917/spottydata))
 - [Spotify Playlist Archive](https://github.com/mackorone/spotify-playlist-archive) - Daily snapshots of public Spotify playlists.
+- [Automatically Archive Spotify Discover Weekly History](https://rile.yt/rediscover)

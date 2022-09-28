@@ -58,3 +58,4 @@
 - [Why rails buckle in Britain (2022)](https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/) ([HN](https://news.ycombinator.com/item?id=32118818))
 - [UK Conservative Leadership Debate](https://twitter.com/Darren_Dutton/status/1549147631838007297)
 - [What's camping like in the UK?](https://www.reddit.com/r/AskUK/comments/xkmav2/whats_camping_like_in_the_uk/)
+- [So you’re moving to London](https://grand-buckaroo-e16.notion.site/So-you-re-moving-to-London-c780d0d929f74752a24cd9cbca5a3724)

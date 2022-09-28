@@ -904,3 +904,5 @@ title: Rust
 - [Crust of Rust: build scripts and foreign-function interfaces (FFI) (2022)](https://www.youtube.com/watch?v=pePqWoTnSmQ)
 - [Why are Rust programs slow to compile? (2022)](https://www.reddit.com/r/rust/comments/xna9mb/why_are_rust_programs_slow_to_compile/)
 - [RRust](https://github.com/Erk-/RRust) - Reversible subset of Rust inside of Rust.
+- [Why Async Rust (2022)](https://blog.yoshuawuyts.com/why-async-rust/)
+- [Rust performance learnings](https://twitter.com/mitsuhiko/status/1574111445473579008)

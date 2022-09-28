@@ -40,4 +40,4 @@
 - [Cloud From Scratch](https://github.com/technomada/cloud-from-scratch) - Build yourself a private self-hosted full-stack personal cloud system.
 - [Deploying Retool on-premise](https://github.com/tryretool/retool-onpremise)
 - [Easy Gate](https://github.com/r7wx/easy-gate) - Gate to your self hosted infrastructure.
-- [Self-hosted software I'm thankful for (2022)](https://garrit.xyz/posts/2022-09-26-self-hosted-software-im-thankful-for)
+- [Self-hosted software I'm thankful for (2022)](https://garrit.xyz/posts/2022-09-26-self-hosted-software-im-thankful-for) ([Lobsters](https://lobste.rs/s/6tbcnu/self_hosted_software_i_m_thankful_for))

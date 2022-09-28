@@ -38,3 +38,4 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - [Taika Waititi's creative career](https://twitter.com/vilbbit/status/1516484799883579395)
 - [What directors unique vision do you believe viewers are truly missing out on if they've never seen?](https://www.reddit.com/r/Letterboxd/comments/ue239d/what_directors_unique_vision_do_you_believe/)
 - [List your 5 favorite directors (2022)](https://www.reddit.com/r/Letterboxd/comments/vuagkq/list_your_5_favourite_directors/)
+- [If you could give 200 million dollars to any director to make a film with complete creative control, Who would you pick? (2022)](https://www.reddit.com/r/criterion/comments/xnxna8/if_you_could_give_200_million_dollars_to_any/)

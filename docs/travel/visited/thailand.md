@@ -9,3 +9,4 @@
 
 - [Is Thailand really so hard on drugs?](https://www.reddit.com/r/ThailandTourism/comments/thvooi/is_thailand_really_so_hard_on_drugs/)
 - [Thailand Tourism Reddit](https://www.reddit.com/r/ThailandTourism/)
+- [Thailand DAO](https://t.me/thailanddao) - Чат о Таиланде в поддержку новой волны эмиграции.

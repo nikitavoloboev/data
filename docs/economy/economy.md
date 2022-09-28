@@ -166,4 +166,4 @@
 - [What to read to understand central banking (2022)](https://www.economist.com/the-economist-reads/2022/09/07/what-to-read-to-understand-central-banking) ([HN](https://news.ycombinator.com/item?id=32761429))
 - [Great resources to understand banking (2022)](https://twitter.com/fstflofscholars/status/1568709052150038528)
 - [Ask HN: Why do we need central bank digital currency (CBDC)? (2022)](https://news.ycombinator.com/item?id=32777875)
-- [peruvian_bull - Reddit](https://www.reddit.com/user/peruvian_bull/) - Does nice analysis on economy.
+- [peruvian_bull - Reddit](https://www.reddit.com/user/peruvian_bull/) - Does nice analysis on economy. ([Twitter](https://twitter.com/peruvian_bull))

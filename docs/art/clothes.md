@@ -2,6 +2,8 @@
 
 Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/movies/a38241136/keanu-reeves-interview-2021/). [Manny Jacinto's too](https://flaunt.com/content/manny-jacinto-the-gift-issue).
 
+In general, I love [Christian Sieber](https://www.instagram.com/christiansieber/)'s style, although maybe a bit more casual than that. [Alex Rivière](https://www.instagram.com/ariviere/)'s style is great too so as her [clothing line's IG photos](https://www.instagram.com/alexrivierestudio/).
+
 ## Interesting
 
 - [Cat Cardigan](https://www.etsy.com/listing/855368476/cat-cardigan-vintage-christine-foley)
@@ -75,3 +77,4 @@ Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/
 - [Wool&Prince Europe](https://eu.woolandprince.com/)
 - [Michele Carragher Embroidery](https://www.michelecarragherembroidery.com/)
 - [NAE Vegan Shoes](https://www.nae-vegan.com/en/)
+- [Alex Rivière Studio](https://alexrivierestudio.com/) ([IG](https://www.instagram.com/alexrivierestudio/))

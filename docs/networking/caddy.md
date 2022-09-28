@@ -66,3 +66,5 @@ title: Caddy
 - [Caddy Mesh](https://github.com/RussellLuo/caddy-mesh) - Caddy service mesh based on the host/node architecture.
 - [35M Hot Dogs: Benchmarking Caddy vs. Nginx (2022)](https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/) ([HN](https://news.ycombinator.com/item?id=32865497))
 - [Caddy Conditional Logging](https://github.com/leodido/caddy-conditional-logging) - Caddy log encoder for conditional logging.
+- [Caddy Proxy Manager](https://github.com/Pacerino/CaddyProxyManager) - Manage Caddy via a web interface. ([Forum post](https://caddy.community/t/so-ive-created-a-web-ui-for-caddy/17278?u=matt))
+- [Caddy Community](https://caddy.community/)

@@ -55,3 +55,4 @@
 - [Legendary Comedian Bill Burr — Fear{less} with Tim Ferriss (2022)](https://www.youtube.com/watch?v=RG0cjYbXxME)
 - ["best" standup special you've ever seen (2022)](https://www.reddit.com/r/Standup/comments/wbyzaw/if_you_had_to_choose_one_which_is_the_best/)
 - [Seven Things I Learnt Doing Stand-Up Comedy (2022)](https://michaelgv.uk/posts/2022/08/seven-things-i-learnt-doing-stand-up-comedy/) ([HN](https://news.ycombinator.com/item?id=32424228))
+- [Stand-up/comedy podcast recommendations (2022)](https://www.reddit.com/r/podcasts/comments/xnqe2g/standupcomedy_podcast_recommendations/)

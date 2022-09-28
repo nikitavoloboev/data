@@ -560,3 +560,4 @@ all: unset
 - [Horizontal Scrolling in a Centered Max-Width Container (2022)](https://ryanmulligan.dev/blog/x-scrolling-centered-max-width-container/)
 - [Website Themes and Color Schemes (2022)](https://ryanmulligan.dev/blog/themes-and-schemes/)
 - [Randomness in CSS (2022)](https://medium.com/hypersphere-codes/randomness-in-css-b55a0845c8dd)
+- [100 Days Of More Or Less Modern CSS (2022)](https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/?s)

@@ -565,6 +565,7 @@
 - [Axt](https://github.com/soundcloud/Axt) - SwiftUI view testing library.
 - [Controls](https://github.com/AudioKit/Controls) - SwiftUI Knobs, Sliders, X-Y Pads, and more.
 - [MarkdownText](https://github.com/shaps80/MarkdownText) - Native SwiftUI view for rendering Markdown text in an iOS or macOS app.
+- [Prism](https://github.com/aheze/Prism) - Lightweight 3D renderer for SwiftUI.
 
 ## Test
 

@@ -149,3 +149,4 @@ source script
 -   [Bash, Pipes, & Socket SDK (2022)](https://socketsupply.co/blog/bash-pipes-and-socket-sdk/)
 -   [Vercel Bash](https://github.com/importpw/vercel-bash) - Bash Runtime for Vercel serverless functions.
 -   [Beautysh](https://github.com/lovesegfault/beautysh) - Bash beautifier for the masses.
+-   [Bash 5.2 released](https://lwn.net/Articles/909596/) ([Lobsters](https://lobste.rs/s/dceccl/bash_5_2_released))

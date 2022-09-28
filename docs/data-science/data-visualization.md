@@ -185,3 +185,4 @@
 - [HoloViews](https://github.com/holoviz/holoviews) - Open-source Python library designed to make data analysis and visualization seamless and simple.
 - [Histogram vs eCDF (2022)](https://brooker.co.za/blog/2022/09/02/ecdf.html)
 - [Pylustrator](https://github.com/rgerum/pylustrator) - Software to prepare your figures for publication in a reproducible way.
+- [Text Visualization Browser](https://textvis.lnu.se/)

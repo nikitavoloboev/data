@@ -191,7 +191,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [FastScripts](https://redsweater.com/fastscripts/) - Powerful script management utility. ([3.0 release](https://redsweater.com/blog/3784/fastscripts-3))
 - [LaunchControl](https://www.soma-zone.com/LaunchControl/) - Fully-featured launchd GUI allowing you to create, manage and debug system- and user services on your Mac.
 - [HextEdit](https://hextedit.app/) - Fast and native hex editor for macOS.
-- [Shortcat](https://shortcatapp.com/) - Keyboard productivity app for macOS.
+- [Shortcat](https://shortcat.app/) - Keyboard productivity app for macOS.
 - [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly.
 - [Flume](https://flumeapp.com/) - Beautiful Instagram experience for your Mac.
 - [Aqua Swatch](https://apps.apple.com/us/app/aqua-swatch/id1565479346?mt=12) - Match Color, Material & Icons.

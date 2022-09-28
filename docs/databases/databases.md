@@ -691,3 +691,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Database concepts you wish you understood better (2022)](https://twitter.com/aarondfrancis/status/1570895651067822082)
 - [A minimal distributed key-value database with Hashicorp's Raft library (2022)](https://notes.eatonphil.com/minimal-key-value-store-with-hashicorp-raft.html)
 - [Bustle](https://github.com/jonhoo/bustle) - Benchmarking harness for concurrent key-value collections.
+- [Prequel](https://www.prequel.co/) - Data push & data warehouse integration. ([HN](https://news.ycombinator.com/item?id=32984103))
