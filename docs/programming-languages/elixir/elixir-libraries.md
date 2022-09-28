@@ -112,6 +112,7 @@
 - [AbsintheCache](https://github.com/IvanIvanoff/absinthe_cache) - Caching Absinthe GraphQL queries.
 - [CommonGraphqlClient](https://github.com/annkissam/common_graphql_client) - Elixir GraphQL Client with HTTP and WebSocket Support.
 - [GQL](https://github.com/balexand/gql) - Simple GraphQL client for Elixir.
+- [Absinthe ErrorPayload](https://github.com/mirego/absinthe_error_payload) - Bridges the gap between Ecto and Absinthe for mutation payload.
 
 ## Other
 

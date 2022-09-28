@@ -722,3 +722,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [NaNofuzz](https://github.com/penrose/nanofuzz) - Fast and easy-to-use automatic test generator for Typescript that runs inside VS Code.
 - [Wombat Dressing Room](https://github.com/GoogleCloudPlatform/wombat-dressing-room) - Google's npm registry proxy. Designed to reduce the attack surface of npm packages.
 - [Tiny Libs](https://github.com/arthurfiorette/tinylibs) - Monorepo of several JS related packages.
+- [tsdoc-markdown](https://github.com/peterpeterparker/tsdoc-markdown) - Generates markdown documentation from TypeScript source code.
