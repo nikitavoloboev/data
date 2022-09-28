@@ -857,3 +857,4 @@ if err != nil {
 - [GopherCon UK](https://www.gophercon.co.uk/)
 - [Michael Knyszek - Respecting Memory Limits In Go (2022)](https://www.youtube.com/watch?v=07wduWyWx8M)
 - [Bitmap Indexes in Go: Search Speed (2019)](https://habr.com/en/company/badoo/blog/455608/) ([HN](https://news.ycombinator.com/item?id=32937930))
+- [Go Watch](https://github.com/mitranim/gow) - Missing watch mode for the go command. It's invoked exactly like go, but also watches Go files and reruns on changes.

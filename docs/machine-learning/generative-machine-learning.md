@@ -72,3 +72,5 @@
 - [Dreamfields-3D](https://github.com/shengyu-meng/dreamfields-3D) - Colab friendly toolkit to generate 3D mesh model / video / nerf instance / multiview images of colourful 3D objects by text and image prompts input, based on dreamfields.
 - [fast-stable-diffusion colabs](https://github.com/TheLastBen/fast-stable-diffusion) - 25% speed increase + memory efficient. ([Colab](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb))
 - [High-performance image generation using Stable Diffusion in KerasCV](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/) ([HN](https://news.ycombinator.com/item?id=33005585))
+- [Video Killed The Radio Star](https://github.com/dmarx/video-killed-the-radio-star) - Notebook and tools for end-to-end automation of music video production with generative AI.
+- [Custom scripts for the stable diffusion web UI](https://github.com/Pfaeff/sd-web-ui-scripts)

@@ -282,7 +282,7 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [The Problem with Smart Contracts Today (2021)](https://www.radixdlt.com/post/the-problem-with-smart-contracts-today) ([Tweet](https://twitter.com/lawmaster/status/1453375048140697606))
 - [Blockchain Security DB](https://consensys.github.io/blockchainSecurityDB/) - Open-source database created by ConsenSys Diligence for all things blockchain security. ([Code](https://github.com/ConsenSys/blockchainSecurityDB))
 - [Informal Systems](https://informal.systems/) - Verifiable distributed systems (of machines) and organizations (of humans). ([Twitter](https://twitter.com/informalinc)) ([GitHub](https://github.com/informalsystems))
-- [Inter-Blockchain Communication Protocol (IBC)](https://ibcprotocol.org/) - Interoperability protocol for communicating arbitrary data between arbitrary state machines. ([Rust Code](https://github.com/informalsystems/ibc-rs))
+- [Inter-Blockchain Communication Protocol (IBC)](https://ibcprotocol.org/) - Interoperability protocol for communicating arbitrary data between arbitrary state machines. ([Rust Code](https://github.com/informalsystems/ibc-rs)) ([IBC Relayer in TypeScript](https://github.com/confio/ts-relayer))
 - [What is Harberger Tax & Where Does The Blockchain Fit In? (2018)](https://medium.com/@simondlr/what-is-harberger-tax-where-does-the-blockchain-fit-in-1329046922c6)
 - [Clusters: how trusted & trust-minimized bridges shape the multi-chain landscape (2021)](https://blog.celestia.org/clusters/)
 - [Pocket Network](https://www.pokt.network/) - Decentralized infrastructure for developers to build peer to peer applications. ([Code](https://github.com/pokt-network/pocket-core))

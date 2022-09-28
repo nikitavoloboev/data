@@ -434,6 +434,7 @@
 - [MP](https://github.com/boost-ext/mp) - C++20 ~~Template~~ Meta-Programming.
 - [oneTBB](https://github.com/oneapi-src/oneTBB) - Flexible C++ library that simplifies the work of adding parallelism to complex applications, even if you are not a threading expert.
 - [zzzJSON](https://github.com/dacez/zzzjson) - Fastest JSON parser written in pure C.
+- [B-Tree](https://github.com/frozenca/BTree) - General-purpose high-performance lightweight STL-like modern C++ B-Tree.
 
 ## Links
 

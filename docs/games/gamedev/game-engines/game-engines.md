@@ -126,6 +126,7 @@
 - [Acid](https://github.com/EQMG/Acid) - High speed C++17 Vulkan game engine.
 - [Iris](https://github.com/irisengine/iris) - Cross-platform game engine written in modern C++.
 - [Storm-Engine](https://github.com/storm-devs/storm-engine) - Game engine behind Sea Dogs, Pirates of the Caribbean and Age of Pirates games.
+- [Nebula](https://github.com/gscept/nebula) - Open-source and free-to-use modern C++ game engine.
 
 ## Physics engines
 

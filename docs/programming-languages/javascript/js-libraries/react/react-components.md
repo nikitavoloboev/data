@@ -333,6 +333,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting.
 - [React Just Parallax](https://github.com/michalzalobny/react-just-parallax) - React library for scroll and mousemove parallax effect. Open source, production-ready.
 - [json-viewer](https://github.com/TexteaInc/json-viewer) - React component for JSON viewer, but not only a JSON viewer.
+- [Tremor](https://github.com/tremorlabs/tremor) - React library to build dashboards fast.
 
 ## Links
 

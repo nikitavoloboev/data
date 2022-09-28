@@ -98,3 +98,4 @@ title: Vulkan API
 - [Mesh Shading for Vulkan (2022)](https://www.khronos.org/blog/mesh-shading-for-vulkan) ([HN](https://news.ycombinator.com/item?id=32766728))
 - [Project Island](https://github.com/tgfrerer/island) - Experimental, hot-reloading Vulkan renderer/proto-engine.
 - [pasvulkan](https://github.com/BeRo1985/pasvulkan) - Vulkan toolset for Pascal.
+- [VulkanAbstractionLayer](https://github.com/asc-community/VulkanAbstractionLayer) - Render graph-based Vulkan API abstraction library.
