@@ -938,3 +938,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Maximum Likelihood Training of Implicit Nonlinear Diffusion Models (2022)](https://arxiv.org/abs/2205.13699) ([Code](https://github.com/byeonghu-na/INDM))
 - [On the Paradox of Learning to Reason from Data (2022)](http://starai.cs.ucla.edu/papers/ZhangArxiv22.pdf)
 - [Mega: Moving Average Equipped Gated Attention (2022)](https://arxiv.org/abs/2209.10655) ([Code](https://github.com/lucidrains/Mega-pytorch))
+- [Toy Models of Superposition (2022)](https://transformer-circuits.pub/2022/toy_model/index.html) ([Tweet](https://twitter.com/ch402/status/1574801733187821568))
+- [Learning to Learn with Generative Models of Neural Network Checkpoints (2022)](https://arxiv.org/abs/2209.12892) ([Code](https://github.com/wpeebles/G.pt)) ([Web](https://www.wpeebles.com/Gpt)) ([Tweet](https://twitter.com/billpeeb/status/1574850991001772032))

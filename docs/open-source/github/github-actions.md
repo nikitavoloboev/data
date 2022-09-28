@@ -256,6 +256,7 @@ title: GitHub actions
 - [Retry](https://github.com/nick-fields/retry) - Retries a GitHub Action step on failure or timeout.
 - [Send a tweet from a GitHub Actions workflow](https://github.com/ethomson/send-tweet-action)
 - [GitHub-Release-Action](https://github.com/elgohr/Github-Release-Action) - Creates a plain Github release, without attaching assets or source code.
+- [actionsx/prettier](https://github.com/actionsx/prettier) - Native, blazingly-fast Prettier CLI on Github Actions.
 
 ## Go
 

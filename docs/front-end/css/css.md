@@ -561,3 +561,5 @@ all: unset
 - [Website Themes and Color Schemes (2022)](https://ryanmulligan.dev/blog/themes-and-schemes/)
 - [Randomness in CSS (2022)](https://medium.com/hypersphere-codes/randomness-in-css-b55a0845c8dd)
 - [100 Days Of More Or Less Modern CSS (2022)](https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/?s)
+- [Vanilla Extract + CSS variables removes the boundary between your JS and CSS](https://twitter.com/mattcompiles/status/1574985479182688257)
+- [Critical CSS? Not So Fast! (2022)](https://csswizardry.com/2022/09/critical-css-not-so-fast/) ([Response](https://chriscoyier.net/2022/09/28/critical-css-not-so-fast/))

@@ -176,3 +176,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [RSS Aggregator in Rust](https://github.com/fistons/rss-aggregator)
 - [Filtering my RSS reading (2022)](https://leancrew.com/all-this/2022/08/filtering-my-rss-reading/)
 - [RSS Manufaktur](https://github.com/inframanufaktur/rss-manufaktur) - Template to build RSS Feeds.
+- [Substack Reader for web supports RSS (2022)](https://on.substack.com/p/new-web-reader)

@@ -25,6 +25,7 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [Underestimated benefit of working out is increased mental resiliency. Make the hardest part of your day in the gym and everything else is easier in comparison.](https://twitter.com/Pavel_Asparagus/status/1458834472670007302)
 - [Moving on uneven ground lights up all kinds of places in the brain, and requires a brain/body feedback loop that is pretty impressive in bipeds. it's one of the best things you can do to keep your brain active as you age (face-to-face conversations with a group is another).](https://www.reddit.com/r/askscience/comments/w9ba6y/why_is_the_brain_not_damaged_by_impact_from/)
 - [Hiking is a great brain workout. Your brain needs blood and lots of it, so a healthy cardiovascular system (especially clean carotid arteries) is vital to brain health. In addition the act of navigating uneven terrain forces your smaller stabilizing muscles and your brain to work harder, planning for and reacting to what's under your feet and what's coming up. there are also mental benefits to being out in nature and to navigating unfamiliar terrain.](https://www.reddit.com/r/askscience/comments/w9ba6y/why_is_the_brain_not_damaged_by_impact_from/)
+- [Accountability coach for health and fitness stuff can be very useful](https://twitter.com/adamwathan/status/1527695253595103233)
 
 ## Links
 

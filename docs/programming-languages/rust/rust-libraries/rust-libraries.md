@@ -495,6 +495,7 @@
 - [mock-it](https://github.com/nathanielsimard/mock-it) - Aims to make mocking reliable.
 - [Turmoil](https://github.com/tokio-rs/turmoil) - Add hardship to your tests.
 - [testdata-rs](https://github.com/qnighy/testdata-rs) - Macros and helper functions for file-based testing.
+- [partial-io](https://github.com/sunshowers-code/partial-io) - Rust library that provides helpers for testing resilience of I/O operations.
 
 ## Error
 

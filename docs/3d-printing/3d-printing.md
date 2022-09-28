@@ -44,3 +44,4 @@
 - [3D Printed Bluetooth Headphones](https://homebrewheadphones.com/3d-printed-bluetooth-headphones/)
 - [Optimized firmware for Ender3 V2/S1 3D printers](https://github.com/mriscoc/Ender3V2S1)
 - [Voron Community mods, slicer profiles and firmware configurations](https://github.com/VoronDesign/VoronUsers)
+- [Snapmaker Luban](https://snapmaker.com/snapmaker-luban) - Intuitive and Powerful 3D Printing Software. ([Code](https://github.com/Snapmaker/Luban))

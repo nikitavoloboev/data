@@ -71,7 +71,7 @@
 - [set-dom](https://github.com/DylanPiercey/set-dom) - Lightweight DOM diffing with plain old HTML.
 - [Ralix](https://github.com/ralixjs/ralix) - Micro framework for building and organizing your front-end.
 - [rawth](https://github.com/GianlucaGuarini/rawth) - Pure functional isomorphic router based on streams.
-- [Corset](https://github.com/matthewp/corset) - Declarative data bindings, bring your own backend. ([Web](https://corset.dev/))
+- [Corset](https://github.com/matthewp/corset) - Declarative data bindings, bring your own backend. ([Web](https://corset.dev/)) ([Video](https://www.youtube.com/watch?v=0cmj4S8K_6c))
 - [hdot](https://github.com/willmartian/hdot) - Zero-dependency, buildless, terse, and type-safe way to write HTML in JavaScript.
 - [SurveyJS](https://github.com/surveyjs/survey-library) - JavaScript Survey and Form Library. ([Web](https://surveyjs.io/))
 - [Helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers.

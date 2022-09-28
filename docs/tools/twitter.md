@@ -214,3 +214,4 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [sauron](https://github.com/chshersh/sauron) - CLI tool that fetches info from Twitter and analyses it.
 - [Tweeety](https://github.com/Jamelle-Boose/tweeety) - App to stream Tweets in real-time using Twitter API v2.
 - [TwitterToNitter](https://github.com/no-gravity/TwitterToNitter) - Bookmarklet that shows the current Twitter page on Nitter. On every click it choses a random Nitter instance.
+- [Twitter branching threads](https://twitter.com/jordanmoore/status/1574827170492551207)
