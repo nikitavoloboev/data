@@ -741,6 +741,7 @@
 - [MultilayerGraphs.jl](https://github.com/JuliaGraphs/MultilayerGraphs.jl) - Julia package for the construction, manipulation and analysis of multilayer graphs.
 - [SentinelArrays.jl](https://github.com/JuliaData/SentinelArrays.jl) - Array types that can use sentinel values of the element type for special values.
 - [Geodesy](https://github.com/JuliaGeo/Geodesy.jl) - Work with points defined in various coordinate systems.
+- [Suppressor](https://github.com/JuliaIO/Suppressor.jl) - Julia macros for suppressing and/or capturing output (STDOUT), warnings (STDERR) or both streams at the same time.
 
 ## Links
 

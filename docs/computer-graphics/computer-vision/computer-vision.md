@@ -941,3 +941,4 @@
 - [CATs: Cost Aggregation Transformers for Visual Correspondence (2021)](https://arxiv.org/abs/2106.02520) ([Code](https://github.com/SunghwanHong/Cost-Aggregation-transformers))
 - [Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation (2022)](https://seokju-cho.github.io/VAT/) ([Code](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer))
 - [SetFit](https://github.com/huggingface/setfit) - Efficient Few-shot Learning with Sentence Transformers.
+- [Awesome Monocular 3D detection](https://github.com/BigTeacher-777/Awesome-Monocular-3D-detection)

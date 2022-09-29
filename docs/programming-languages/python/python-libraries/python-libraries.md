@@ -993,6 +993,7 @@
 - [placeholder](https://github.com/coady/placeholder) - Operator overloading for fast anonymous functions.
 - [Futured](https://github.com/coady/futured) - Functional interface for concurrent futures, including asynchronous I/O.
 - [MMDA](https://github.com/allenai/mmda) - Multimodal document analysis.
+- [PhyloDM](https://github.com/aaronmussig/PhyloDM) - Efficient calculation of pairwise phylogenetic distance matrices.
 
 ## Notes
 

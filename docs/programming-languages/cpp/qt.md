@@ -43,3 +43,4 @@ title: Qt
 - [How Qt Signals and Slots Work](https://woboq.com/blog/how-qt-signals-slots-work.html)
 - [Implementing Qt Signals and Slots in Pure C++ (2022)](https://embeddeduse.com/2022/08/28/implementing-qt-signals-and-slots-in-pure-c/) ([Lobsters](https://lobste.rs/s/rzgybx/implementing_qt_signals_slots_pure_c))
 - [Qt 6.4 (2022)](https://www.qt.io/blog/qt-6.4-released) ([HN](https://news.ycombinator.com/item?id=33018596))
+- [clazy](https://github.com/KDE/clazy) - Qt-oriented static code analyzer based on the Clang framework.

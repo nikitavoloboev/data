@@ -629,6 +629,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Prefixed API Key](https://github.com/seamapi/prefixed-api-key) - Module for generating a prefixed API Key.
 - [csv.js](https://github.com/wilsonzlin/csv.js) - Fast error-free CSV parser.
 - [Deferred Promise](https://github.com/open-draft/deferred-promise) - Promise-compatible abstraction that defers resolving/rejecting promises to another closure.
+- [Primer Primitives](https://github.com/primer/primitives) - Color, typography, and spacing primitives in JSON.
 
 ## Links
 

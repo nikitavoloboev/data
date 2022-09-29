@@ -406,3 +406,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Automatic YouTube subtitle generation](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles.
 - [Action Transcription](https://github.com/simonw/action-transcription) - Tool for creating a repository of transcribed videos.
 - [summarize.tech](https://www.summarize.tech/) - AI-powered video summaries.
+- [Make-A-Video](https://makeavideo.studio/) - SOTA text to video generator from Meta AI, in PyTorch. ([Code](https://github.com/lucidrains/make-a-video-pytorch)) ([HN](https://news.ycombinator.com/item?id=33020181))

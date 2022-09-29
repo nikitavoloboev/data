@@ -575,3 +575,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Fun With Postgres Functions (2022)](https://www.crunchydata.com/blog/fun-with-postgres-functions)
 - [plpgsql_check](https://github.com/okbob/plpgsql_check) - Linter tool (does source code static analyze) for the PostgreSQL language plpgsql.
 - [Postgres WASM](https://github.com/snaplet/postgres-wasm) - PostgresQL server running in your browser.
+- [Barman](https://github.com/EnterpriseDB/barman) - Backup and Recovery Manager for PostgreSQL. ([Web](https://pgbarman.org/))

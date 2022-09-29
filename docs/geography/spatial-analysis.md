@@ -253,3 +253,4 @@ title: Spatial analysis
 - [Map Machine](https://github.com/enzet/map-machine) - Python renderer for OpenStreetMap with custom icons intended to display as many map features as possible.
 - [OSM Express](https://github.com/protomaps/OSMExpress) - Fast database file format for OpenStreetMap.
 - [Next.js Leaflet Starter](https://github.com/colbyfayock/next-leaflet-starter) - Next.js starter with Leafet to quickly build React apps with a map.
+- [itk-wasm](https://github.com/InsightSoftwareConsortium/itk-wasm) - High performance spatial analysis in a web browser, Node.js, and across programming languages and hardware architectures.

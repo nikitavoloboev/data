@@ -220,6 +220,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Homerow](https://www.homerow.app/) - Navigate macOS like a pro.
 - [rcmd](https://lowtechguys.com/rcmd/) - Reimagined Cmd-Tab app switcher.
 - [Marta](https://marta.sh/) - File Manager for macOS.
+- [Superlayer](https://apps.apple.com/app/id1601796450) - Widget Engine for macOS. ([Docs](https://github.com/martinlexow/superlayer-support))
 
 ## Links
 

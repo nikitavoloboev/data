@@ -241,3 +241,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Uni-Fold: an open-source platform for developing protein models beyond AlphaFold](https://github.com/dptech-corp/Uni-Fold)
 - [Fasten](https://github.com/lskatz/fasten) - Perform random operations on fastq files, using unix streaming.
 - [JVARKIT](https://github.com/lindenb/jvarkit) - Java utilities for Bioinformatics.
+- [Bioconda recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel.

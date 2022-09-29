@@ -149,6 +149,7 @@ The way our brains take input from different senses (eyes, touch) and then decid
 - [Neuroscience Department - Institut Pasteur](https://research.pasteur.fr/en/department/neuroscience/) ([Twitter](https://twitter.com/IpNeuro))
 - [What is 'brain fog' (2022)](https://twitter.com/edyong209/status/1569302974811308032)
 - [OpenNeuro](https://openneuro.org/) - Free and open platform for validating and sharing BIDS-compliant MRI, PET, MEG, EEG, and iEEG data.
+- [Beacon Biosignals](https://beacon.bio/) ([GitHub](https://github.com/beacon-biosignals))
 
 ## Images
 

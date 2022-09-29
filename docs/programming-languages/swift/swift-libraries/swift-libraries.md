@@ -1256,6 +1256,7 @@
 - [SwiftHooks](https://github.com/intuit/swift-hooks) - Little module for plugins, in Swift.
 - [AsyncLocationKit](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with new Concurency Model.
 - [UIKitDOM](https://github.com/shirakaba/uikit-dom) - Implementing DOM for UIKit.
+- [Swift Confidential](https://github.com/securevale/swift-confidential) - Swift literals obfuscator to defend against static reverse engineering.
 
 ## Other (not lib)
 

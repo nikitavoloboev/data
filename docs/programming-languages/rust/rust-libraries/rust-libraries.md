@@ -2191,6 +2191,8 @@
 - [webidl-rs](https://github.com/sgodwincs/webidl-rs) - WebIDL parser written in Rust.
 - [ics](https://github.com/hummingly/ics) - Rust library for creating iCalendar files.
 - [Autumn](https://github.com/xurtis/autumn) - Library for building recursive descent parsers using combinators.
+- [Flux](https://github.com/liquid-rust/flux) - Refinement Types for Rust.
+- [parasol](https://github.com/nical/parasol) - Multi-threaded job scheduler in Rust.
 
 ## Cargo Plugins
 
