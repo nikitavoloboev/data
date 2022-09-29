@@ -34,3 +34,4 @@ title: Keras
 - [Keras Hypetune](https://github.com/cerlymarco/keras-hypetune) - Friendly python package for Keras Hyperparameters Tuning based only on NumPy and Hyperopt.
 - [KerasNLP](https://github.com/keras-team/keras-nlp) - Industry-strength Natural Language Processing workflows with Keras.
 - [Keras API Docs](https://keras.io/api/) ([Code](https://github.com/keras-team/keras-io))
+- [frugally-deep](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras (TensorFlow) models in C++.

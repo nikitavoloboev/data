@@ -46,4 +46,4 @@ I often switch between `Week` and `Month` views.
 - [go-ical](https://github.com/emersion/go-ical) - iCalendar library for Go.
 - [webdav](https://github.com/hacdias/webdav) - Simple Go WebDAV server.
 - [dave](https://github.com/micromata/dave) - Simple and very easy to configure stand alone webdav server.
-- [Linkal](https://github.com/JulienMalka/Linkal) - Public-calendar aggregator server.
+- [Linkal](https://github.com/JulienMalka/Linkal) - Public-calendar aggregator server. ([Lobsters](https://lobste.rs/s/4sbor7/linkal_public_calendar_aggregator))

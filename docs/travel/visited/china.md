@@ -101,3 +101,4 @@ Cities like Shanghai and Guangzhou fascinate me, would love to live there one da
 - [What could China do for you to have more of a favorable impression of the country? (2022)](https://www.reddit.com/r/China/comments/wd517m/what_could_china_do_for_you_to_have_more_of_a/)
 - [China’s Military Prepares for War with Taiwan (2022)](https://ndupress.ndu.edu/Portals/68/Documents/Books/crossing-the-strait/crossing-the-strait.pdf)
 - [The China Quarterly](https://www.cambridge.org/core/journals/china-quarterly)
+- [China DNS](https://github.com/riaqn/china-dns) - DNS proxy preventing poisoning and CDN-friendly.

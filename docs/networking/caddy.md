@@ -68,3 +68,4 @@ title: Caddy
 - [Caddy Conditional Logging](https://github.com/leodido/caddy-conditional-logging) - Caddy log encoder for conditional logging.
 - [Caddy Proxy Manager](https://github.com/Pacerino/CaddyProxyManager) - Manage Caddy via a web interface. ([Forum post](https://caddy.community/t/so-ive-created-a-web-ui-for-caddy/17278?u=matt))
 - [Caddy Community](https://caddy.community/)
+- [Caddy Distribution Resources](https://github.com/caddyserver/dist) - Resources for packaging and distributing Caddy.
