@@ -92,3 +92,4 @@
 - [tlock-js](https://github.com/drand/tlock-js) - Timelock Encryption made practical. A Typescript library for encrypting for the future.
 - [Timevault](https://github.com/drand/timevault) - Deadman's switch to encrypt your vulnerability reports or other compromising data to be decryptable at a set time in the future.
 - [Post-Quantum Cryptography: Digital Signature Schemes](https://csrc.nist.gov/projects/pqc-dig-sig/standardization/call-for-proposals)
+- [The Rise of Fully Homomorphic Encryption (2022)](https://queue.acm.org/detail.cfm?id=3561800) ([HN](https://news.ycombinator.com/item?id=33019211))

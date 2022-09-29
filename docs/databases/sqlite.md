@@ -255,3 +255,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [Scaling Pocketbase with Marmot (2022)](https://www.youtube.com/watch?v=VSa-VJso050)
 - [Pgsqlite](https://github.com/bitdotioinc/pgsqlite) - Pure Python module to import SQLite databases into Postgres. ([Article](https://innerjoin.bit.io/introducing-pgsqlite-a-pure-python-module-to-import-sqlite-databases-into-postgres-bf3940cfa19f)) ([HN](https://news.ycombinator.com/item?id=32942820))
 - [Pocketbase with Lightstream](https://github.com/bscott/pocketbase-litestream)
+- [Flyweight](https://github.com/thebinarysearchtree/flyweight) - ORM for SQLite and NodeJS. ([HN](https://news.ycombinator.com/item?id=33019500))

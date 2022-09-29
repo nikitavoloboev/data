@@ -207,3 +207,5 @@
 - [Why no Roman industrial revolution?](https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/) ([HN](https://news.ycombinator.com/item?id=32607187))
 - [Why was western printing superior to Asian printing?](https://erikexamines.substack.com/p/why-was-western-printing-superior) ([HN](https://news.ycombinator.com/item?id=32710515))
 - [Nice history and sci-fi books (2022)](https://twitter.com/waitbutwhy/status/1574428192336658435)
+- [Memorial debate in C Eastern Europe](https://twitter.com/derJamesJackson/status/1566767599408582657)
+- [Baltic nations are not ‘former Soviet states’](https://twitter.com/BadBalticTakes/status/1567068576527355904)

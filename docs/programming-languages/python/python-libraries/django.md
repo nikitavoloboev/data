@@ -177,3 +177,4 @@ title: Django
 - [Absurd Django](https://github.com/patrick91/absurd-django) - Running Django in the browser using Pyodide.
 - [Django Hypergen](https://github.com/runekaagaard/django-hypergen) - Write server-rendered reactive HTML liveviews for Django in pure python.
 - [Django Model Values](https://github.com/coady/django-model-values) - Taking the O out of ORM.
+- [Production Tips for Django Apps (2022)](https://raunaqss.com/engineering/django-production-tips/) ([Lobsters](https://lobste.rs/s/2kmzni/production_tips_for_django_apps))

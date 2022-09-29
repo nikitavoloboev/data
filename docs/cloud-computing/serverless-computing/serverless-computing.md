@@ -178,3 +178,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Personalized UIs with No Client-Side JavaScript](https://github.com/jlengstorf/no-js-personalization)
 - [Serverless Messaging: Latency Compared](https://bitesizedserverless.com/bite/serverless-messaging-latency-compared/)
 - [Fastly Compute@Edge Starter Kit for Rust](https://github.com/fastly/compute-starter-kit-rust-default) ([With wasmtime](https://github.com/charliermarsh/fastly-compute-starter-kit-rust-default))
+- [Modern Serverless Job Schedulers (2022)](https://www.inngest.com/blog/modern-serverless-job-scheduler) ([HN](https://news.ycombinator.com/item?id=33010960))

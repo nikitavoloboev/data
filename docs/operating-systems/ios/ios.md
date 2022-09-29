@@ -514,3 +514,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Designing Carousel at Dropbox](https://twitter.com/joshpuckett/status/1571559079369412608)
 - [Swift Rust Xcode Template](https://github.com/simlay/swift-rust-xcode-template) - Template for quickly building an iOS app in rust and swift.
 - [System memory allocator free operation zeroes out deallocated blocks in iOS 16](https://mjtsai.com/blog/2022/09/20/zeroing-freed-memory/) ([HN](https://news.ycombinator.com/item?id=32921910))
+- [NSSpain X 2022](https://2022.nsspain.com/index.html) ([Schedule](https://2022.nsspain.com/index.html#schedule)) ([Tweet](https://twitter.com/NSSpain/status/1570331526348374017))

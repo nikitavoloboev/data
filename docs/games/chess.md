@@ -238,3 +238,4 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Killer Chess Training Forum](https://forum.killerchesstraining.com/)
 - [Botez Sisters: Chess, Streaming, and Fame (2022)](https://www.youtube.com/watch?v=srUlKNLZTas)
 - [ButtFish](https://github.com/RonSijm/ButtFish) - Transmit Morse Code of chess moves to your butt. ([HN](https://news.ycombinator.com/item?id=33014251))
+- [Chessly](https://chessly.com/) - Chess learning made fun and easy.

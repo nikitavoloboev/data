@@ -52,4 +52,4 @@
 - [Introducing multitasking to Arduino (2022)](https://blog.arduino.cc/2022/08/02/introducing-multitasking-to-arduino/) ([HN](https://news.ycombinator.com/item?id=32320727))
 - [Riscduino](https://github.com/dineshannayya/riscduino) - Arduino compatible Risc-V Based SOC.
 - [Arduino with Vim & Rust (2022)](https://www.youtube.com/watch?v=igSfCLuA_Sk)
-- [Arduino IDE 2.0 (2022)](https://blog.arduino.cc/2022/09/14/its-here-please-welcome-arduino-ide-2-0/)
+- [Arduino IDE 2.0 (2022)](https://blog.arduino.cc/2022/09/14/its-here-please-welcome-arduino-ide-2-0/) ([HN](https://news.ycombinator.com/item?id=33013572))

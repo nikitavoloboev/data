@@ -38,3 +38,4 @@
 - [Differentiable Finite State Machines (2022)](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
 - [State Machines II](https://blog.yoshuawuyts.com/state-machines-2/) ([HN](https://news.ycombinator.com/item?id=32616802))
 - [Teaching Interaction using State Diagrams | Christopher Schankula (2022)](https://www.youtube.com/watch?v=XatvVRemDw4)
+- [Facts about State Machines: I hold the opinion that state machines are underrated](https://github.com/cpressey/Facts-about-State-Machines) ([Lobsters](https://lobste.rs/s/q9q4y8/facts_about_state_machines_i_hold_opinion))

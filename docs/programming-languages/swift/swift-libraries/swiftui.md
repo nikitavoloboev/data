@@ -252,3 +252,4 @@ title: SwiftUI
 - [React Meets SwiftUI](https://github.com/bmcmahen/react-meets-swiftui) - Common react design patterns implemented in SwiftUI.
 - [Natalia Panferova - Mysteries of SwiftUI Text View (2022)](https://www.youtube.com/watch?v=-l7RsBENLbI)
 - [Ultimate Guide to SwiftUI Animations (2022)](https://github.com/kishikawakatsumi/UltimateGuideToAnimations)
+- [SwiftUI Navigation & URL Routing - Brandon Williams (2022)](https://vimeo.com/751580644/6714fe76d6)

@@ -119,3 +119,4 @@
 - [Sex is going out of fashion?](https://www.welltechnically.news/p/sex-is-going-out-of-fashion) ([HN](https://news.ycombinator.com/item?id=31822549))
 - [Tips to eat her out](https://www.reddit.com/r/sex/comments/vs78ll/tips_to_eat_her_out/)
 - [Is sex with a condom really that bad?](https://www.reddit.com/r/sex/comments/xo0twa/is_sex_with_a_condom_really_that_bad/)
+- [Why are sex workers forced to wear a financial scarlet letter? (2022)](https://thewalrus.ca/why-are-sex-workers-forced-to-wear-a-financial-scarlet-letter/) ([HN](https://news.ycombinator.com/item?id=33006827))

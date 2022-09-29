@@ -280,3 +280,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [An opinionated guide to making friends](https://blog.aadilali.com/posts/friends.html) ([HN](https://news.ycombinator.com/item?id=32903606))
 - [Ask HN: I love to be alone. But this loneliness is killing me (2022)](https://news.ycombinator.com/item?id=32956548)
 - [What are your most unpopular opinions when it comes to non-monogamy and everything that comes with it? (2022)](https://www.reddit.com/r/nonmonogamy/comments/xn8s87/what_are_your_most_unpopular_opinions_when_it/)
+- [Best romantic movies you ever seen (2022)](https://www.reddit.com/r/MovieSuggestions/comments/xqv1oa/best_romantic_movies_you_ever_seen/)

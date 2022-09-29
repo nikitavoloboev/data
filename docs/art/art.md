@@ -321,6 +321,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Simen Johan](http://www.simenjohan.com/x/index.html)
 - [Brandon Woelfel](http://www.brandonwoelfel.com/photography-1/)
 - [Christophe Jacrot](https://www.instagram.com/christophe.jacrot/)
+- [Trung Bao](https://www.instagram.com/trungbaotr/)
 - [Elena Chernyshova](https://www.instagram.com/elena.chernyshova.photography/)
 - [Jeremy Perez-Cruz](https://www.instagram.com/sleepingplanes/)
 - [John Wingfield](https://www.instagram.com/johnwingfield/)

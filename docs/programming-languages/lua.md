@@ -54,7 +54,7 @@ title: Lua
 - [LuaUnit](https://github.com/bluebird75/luaunit) - Popular unit-testing framework for Lua, with an interface typical of xUnit libraries.
 - [LuaFormatter](https://github.com/Koihik/LuaFormatter) - Reformats your Lua source code.
 - [Heart](https://github.com/Hyperspace-Logistics/heart) - High performance Lua web server with a simple, powerful API.
-- [Lua, a misunderstood language (2021)](https://andregarzia.com/2021/01/lua-a-misunderstood-language.html) ([Lobsters](https://lobste.rs/s/novtvd/lua_misunderstood_language)) ([HN](https://news.ycombinator.com/item?id=25796852))
+- [Lua, a misunderstood language (2021)](https://andregarzia.com/2021/01/lua-a-misunderstood-language.html) ([Lobsters](https://lobste.rs/s/novtvd/lua_misunderstood_language)) ([HN](https://news.ycombinator.com/item?id=25796852)) ([HN](https://news.ycombinator.com/item?id=33022031))
 - [Lua and Python (2020)](https://lwn.net/Articles/812122/) ([HN](https://news.ycombinator.com/item?id=25794374)) ([Lobsters](https://lobste.rs/s/2lpxqj/lua_python))
 - [luapower](https://luapower.com/) - LuaJIT distribution. ([GitHub](https://github.com/luapower))
 - [Penlight](https://github.com/lunarmodules/Penlight) - Useful pure Lua modules, focusing on input data handling, functional programming and OS path management.
