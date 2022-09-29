@@ -161,3 +161,4 @@ title: Tailwind CSS
 - [Tailwind Color Picker](https://github.com/Nutlope/tailwind-color-picker) - Chrome extension color picker for Tailwind.
 - [TailwindFormatter](https://github.com/100phlecs/tailwind_formatter) - Formats tailwind classes within elixir projects.
 - [Tailwind Init (twinit)](https://github.com/ndaba1/twinit) - Setup TailwindCSS on your project with one command.
+- [Automatic Class Sorting with Prettier – Tailwind CSS (2022)](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)

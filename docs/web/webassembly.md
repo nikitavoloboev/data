@@ -291,7 +291,7 @@ title: WebAssembly
 - [fp-bindgen](https://github.com/fiberplane/fp-bindgen) - Bindings generator for full-stack WASM plugins.
 - [How to create minimal WASM module](https://github.com/ern0/howto-wasm-minimal) ([Tweet](https://twitter.com/simonw/status/1508503086091825153)) ([HN](https://news.ycombinator.com/item?id=30991235))
 - [WebAssembly in my browser desktop environment (2022)](https://www.wasm.builders/dustinbrett/webassembly-in-my-browser-desktop-environment-3alc) ([HN](https://news.ycombinator.com/item?id=30827497))
-- [Spin](https://github.com/fermyon/spin) - Framework for building, deploying, and running fast, secure, and composable cloud microservices with WebAssembly. ([Docs](https://spin.fermyon.dev/)) ([Intro](https://www.fermyon.com/blog/introducing-spin)) ([HN](https://news.ycombinator.com/item?id=30875310))
+- [Spin](https://github.com/fermyon/spin) - Framework for building, deploying, and running fast, secure, and composable cloud microservices with WebAssembly. ([Docs](https://spin.fermyon.dev/)) ([Intro](https://www.fermyon.com/blog/introducing-spin)) ([HN](https://news.ycombinator.com/item?id=30875310)) ([Talk](https://www.youtube.com/watch?v=UoRfr3Q2R8A))
 - [Wala](https://github.com/CalmSystem/wala) - Language trying to simplify WebAssembly Text syntax while keeping the full expressiveness and retro-compatibility.
 - [WASI Experimental Toolkit](https://github.com/fermyon/wasi-experimental-toolkit) - Experimental interfaces for commonly used WebAssembly functionality.
 - [Fermyon Technologies](https://www.fermyon.com/) - Building open source, WebAssembly-powered cloud tools.
@@ -365,3 +365,5 @@ title: WebAssembly
 - [spall](https://github.com/colrdavidson/spall) - WASM flamegraph tracing renderer.
 - [walloc](https://github.com/wingo/walloc) - Small malloc implementation, for use in WebAssembly.
 - [Roadmap - WebAssembly](https://webassembly.org/roadmap/)
+- [Finicky Whiskers](https://www.finickywhiskers.com/index.html) - Manual Load Generator. ([Code](https://github.com/fermyon/finicky-whiskers))
+- [Fermyon Installer](https://github.com/fermyon/installer) - Different ways to deploy ("install") Fermyon in their preferred environment.
