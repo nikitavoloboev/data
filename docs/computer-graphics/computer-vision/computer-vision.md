@@ -942,3 +942,5 @@
 - [Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation (2022)](https://seokju-cho.github.io/VAT/) ([Code](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer))
 - [SetFit](https://github.com/huggingface/setfit) - Efficient Few-shot Learning with Sentence Transformers.
 - [Awesome Monocular 3D detection](https://github.com/BigTeacher-777/Awesome-Monocular-3D-detection)
+- [Human Motion Diffusion Model (2022)](https://guytevet.github.io/mdm-page/) ([Code](https://github.com/GuyTevet/motion-diffusion-model)) ([HN](https://news.ycombinator.com/item?id=33029522))
+- [DreamFusion: Text-to-3D using 2D Diffusion (2022)](https://dreamfusion3d.github.io/) ([HN](https://news.ycombinator.com/item?id=33025446))

@@ -131,3 +131,4 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Compute Cost Calculator](https://compute-cost.com/) - Finds the lowest price of compute resources from different services.
 - [Choosing cloud regions for lower latency: A data-driven approach (2022)](https://utdemir.com/posts/choosing-cloud-regions.html) ([Lobsters](https://lobste.rs/s/l2cgvp/choosing_cloud_regions_for_lower_latency))
 - [Cloud-Key-Rotator](https://github.com/ovotech/cloud-key-rotator) - Go program to rotate AWS & GCP account keys.
+- [FogROS2](https://github.com/BerkeleyAutomation/FogROS2) - Extends ROS 2 for cloud deployment of computational graphs in a security-conscious manner.

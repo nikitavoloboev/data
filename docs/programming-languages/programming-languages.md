@@ -426,3 +426,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Useful lesser-used languages? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/xma1jp/useful_lesserused_languages/)
 - [SIGPLAN: Special Interest Group on Programming Languages](http://sigplan.github.io/) ([Code](https://github.com/SIGPLAN/SIGPLAN.github.io))
 - [Introduction to the Theory of Programming Languages (1991)](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/) ([Lobsters](https://lobste.rs/s/rp4vn4/introduction_theory_programming))
+- [Code Language Converter](https://codelanguageconverter.com/) - Convert code to other languages using AI.

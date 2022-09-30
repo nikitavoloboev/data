@@ -543,3 +543,4 @@ for i, _ in enumerate(nums):
 - [Faster CPython 3.12 Plan](https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle) ([HN](https://news.ycombinator.com/item?id=32906085))
 - [PyTA](https://github.com/pyta-uoft/pyta) - Adventures in code analysis for teaching Python.
 - [Refurb](https://github.com/dosisod/refurb) - Tool for refurbishing and modernizing Python codebases.
+- [Making python fast for free - adventures with mypyc (2022)](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/)

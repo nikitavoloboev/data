@@ -131,3 +131,4 @@
 - [CernVM-File System](https://github.com/cvmfs/cvmfs) - Scalable, reliable and low- maintenance software distribution service.
 - [webfuse](https://github.com/falk-werner/webfuse) - Combines libwebsockets and libfuse. It allows ot attach a remote filesystem via websockets.
 - [Web Native File System (WNFS)](https://github.com/wnfs-wg/spec) - Distributed file system. It is versioned, logged, programmable, has strong-yet-flexible security, and is fully controlled by the end user.
+- [Tools for tag-based file management? | Lobsters](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management)

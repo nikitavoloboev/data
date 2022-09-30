@@ -181,3 +181,4 @@
 - [Roboticists discover alternative physics (2022)](https://phys.org/news/2022-07-roboticists-alternative-physics.html) ([HN](https://news.ycombinator.com/item?id=32294403))
 - [GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots (2022)](https://arxiv.org/abs/2209.05309) ([Code](https://github.com/HybridRobotics/GenLoco))
 - [Hybrid Robotics](https://hybrid-robotics.berkeley.edu/) ([GitHub](https://github.com/HybridRobotics))
+- [Robotic Processing Unit](https://github.com/ros-acceleration/robotic_processing_unit) - Robot-specific processing unit. Contains CPUs, FPGAs and GPUs and maps ROS efficiently to them for best performance.

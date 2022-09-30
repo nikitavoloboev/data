@@ -141,3 +141,4 @@ title: Speech recognition
 - [Speech Enhancement and Dereverberation with Diffusion-based Generative Models](https://github.com/sp-uhh/sgmse)
 - [SSAST: Self-Supervised Audio Spectrogram Transformer](https://github.com/YuanGongND/ssast)
 - [OpenAI Whisper](https://github.com/openai/whisper) - General-purpose speech recognition. Approaches human level robustness and accuracy on English speech recognition. ([Web](https://openai.com/blog/whisper/)) ([HN](https://news.ycombinator.com/item?id=32927360)) ([Notes](https://twitter.com/karpathy/status/1573019730851397632)) ([Paper + Code walkthroughs](https://twitter.com/ai__pub/status/1573755508523032576)) ([Demo](https://whisper-openai.vercel.app/)) ([Demo Code](https://github.com/zahidkhawaja/whisper-nextjs)) ([Failure case](https://twitter.com/lunixbochs/status/1574848899897884672))
+- [Whisper ASR Web service](https://github.com/ahmetoner/whisper-asr-webservice)

@@ -220,6 +220,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Hookable](https://github.com/unjs/hookable) - Awaitable hook system.
 - [its-fine](https://github.com/pmndrs/its-fine) - Collection of escape hatches for React.
 - [xswr](https://github.com/hazae41/xswr) - Simplest React data (re)fetching library ever made.
+- [useImageColor](https://github.com/jeffersonlicet/use-image-color) - Grab color palette from any image using this hook.
 
 ## Code
 

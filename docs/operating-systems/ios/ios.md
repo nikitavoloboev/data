@@ -515,3 +515,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Swift Rust Xcode Template](https://github.com/simlay/swift-rust-xcode-template) - Template for quickly building an iOS app in rust and swift.
 - [System memory allocator free operation zeroes out deallocated blocks in iOS 16](https://mjtsai.com/blog/2022/09/20/zeroing-freed-memory/) ([HN](https://news.ycombinator.com/item?id=32921910))
 - [NSSpain X 2022](https://2022.nsspain.com/index.html) ([Schedule](https://2022.nsspain.com/index.html#schedule)) ([Tweet](https://twitter.com/NSSpain/status/1570331526348374017))
+- [On device network logging for iOS (2022)](https://adamfallon.com/ios/proxy/logging/networking/2022/09/04/on-device-network-logging-for-ios.html) ([HN](https://news.ycombinator.com/item?id=33018333))

@@ -133,3 +133,4 @@ title: Java
 - [What I miss in Java, the perspective of a Kotlin developer (2022)](https://blog.frankel.ch/miss-in-java-kotlin-developer/) ([HN](https://news.ycombinator.com/item?id=31732587))
 - [hprof-slurp](https://github.com/agourlay/hprof-slurp) - JVM heap dump analyzer.
 - [Java rules for Bazel](https://github.com/bazelbuild/rules_java)
+- [Virtual Threads: New Foundations for High-Scale Java Applications (2022)](https://www.infoq.com/articles/java-virtual-threads/) ([HN](https://news.ycombinator.com/item?id=33024748)) ([Lobsters](https://lobste.rs/s/bul8fi/virtual_threads_new_foundations_for_high))

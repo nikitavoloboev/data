@@ -114,3 +114,4 @@ title: Field-programmable gate array
 - [Enxor-Logic-Analyzer](https://github.com/lekgolo167/enxor-logic-analyzer) - FPGA Logic Analyzer and GUI.
 - [iCEBreaker FPGA Workshop](https://github.com/icebreaker-fpga/icebreaker-workshop)
 - [LXP32-CPU](https://github.com/lxp32/lxp32-cpu) - Lightweight, open source and FPGA-friendly 32-bit CPU core based on an original instruction set.
+- [Intel announces new FPGA families (2022)](https://fpgaer.tech/?p=561) ([HN](https://news.ycombinator.com/item?id=33017160))

@@ -39,3 +39,4 @@ title: ClickHouse
 - [ClickHouse Rust Client](https://github.com/datafuse-extras/clickhouse_driver) - Asynchronous pure rust tokio-based Clickhouse client library.
 - [ClickHouse Node.JS client](https://github.com/ClickHouse/clickhouse-js)
 - [ClickHouse TS client](https://github.com/proximahq/clickhouse)
+- [Klickhouse](https://github.com/Protryon/klickhouse) - Rust crate for accessing Clickhouse.

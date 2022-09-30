@@ -599,3 +599,4 @@ title: Linux
 - [ply](https://github.com/wkz/ply) - Light-weight Dynamic Tracer for Linux.
 - [Template Repository for Distroless Images](https://github.com/distroless/template)
 - [OpenBMC](https://github.com/openbmc/openbmc) - Linux distribution for management controllers used in devices such as servers, top of rack switches or RAID appliances.
+- [Native Linux GPU Driver for Apple M1 (2022)](https://twitter.com/LinaAsahi/status/1575343067892051968) ([HN](https://news.ycombinator.com/item?id=33019316))

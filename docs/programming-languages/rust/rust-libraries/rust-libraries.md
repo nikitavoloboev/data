@@ -2193,6 +2193,7 @@
 - [Autumn](https://github.com/xurtis/autumn) - Library for building recursive descent parsers using combinators.
 - [Flux](https://github.com/liquid-rust/flux) - Refinement Types for Rust.
 - [parasol](https://github.com/nical/parasol) - Multi-threaded job scheduler in Rust.
+- [orchestra](https://github.com/paritytech/orchestra) - Partial actor pattern with a global orchestrator.
 
 ## Cargo Plugins
 

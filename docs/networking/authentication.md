@@ -264,3 +264,4 @@
 - [pizauth](https://github.com/ltratt/pizauth) - Program for obtaining, handing out, and refreshing OAuth2 access tokens.
 - [JWT vs. Opaque Tokens (2022)](https://zitadel.com/blog/jwt-vs-opaque-tokens) ([HN](https://news.ycombinator.com/item?id=33018135))
 - [Why you should not use JWT (2021)](https://apibakery.com/blog/tech/no-jwt/)
+- [pizauth, an OAuth2 token requester daemon, in alpha (2022)](https://tratt.net/laurie/blog/2022/pizauth_oauth_authenticator_alpha.html)

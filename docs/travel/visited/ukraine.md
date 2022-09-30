@@ -173,3 +173,4 @@ On bright side, it does appear that Russia [fully lost out on its objectives in 
 - [Почему российская армия была разгромлена и спасалась бегством из Харьковской области](https://twitter.com/ian_matveev/status/1570372266206302208)
 - ["Что-то не то скажешь и тебя обнулят, так двоих расстреляли"- полонений російський зек "вагнеровець"](https://www.youtube.com/watch?v=t4dJRPHuzFg)
 - [Best neutral reporting on the war in Ukraine](https://twitter.com/Plinz/status/1572428060284321793)
+- [I Visited Bucha Today (2022)](https://www.amazonredshiftresearchproject.org/slblog/index.html#butcha) ([HN](https://news.ycombinator.com/item?id=33028381))

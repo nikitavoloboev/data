@@ -186,3 +186,4 @@
 - [Histogram vs eCDF (2022)](https://brooker.co.za/blog/2022/09/02/ecdf.html)
 - [Pylustrator](https://github.com/rgerum/pylustrator) - Software to prepare your figures for publication in a reproducible way.
 - [Text Visualization Browser](https://textvis.lnu.se/)
+- [Charts - Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/components/content/charts)

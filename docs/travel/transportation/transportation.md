@@ -62,3 +62,4 @@ I wish there were more electric superchargers in EU.
 - [Build your own EV charging solution](https://www.chargelab.co/developer-program) ([HN](https://news.ycombinator.com/item?id=32431881))
 - [How I Hacked my Car (2022)](https://programmingwithstyle.com/posts/howihackedmycar/) ([HN](https://news.ycombinator.com/item?id=32447650))
 - [Prometheus: Fuel from the Air](https://prometheusfuels.com/technology) ([HN](https://news.ycombinator.com/item?id=32487430))
+- [Telematica](https://www.telematica.so/) - APIs for EVs. ([HN](https://news.ycombinator.com/item?id=33021069))

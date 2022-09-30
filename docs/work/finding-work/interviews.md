@@ -175,3 +175,4 @@
 - [System Design Interview Practice Questions](https://github.com/alex-xu-system/bytebytego)
 - [InterviewThis](https://github.com/Twipped/InterviewThis) - Open source list of developer questions to ask prospective employers.
 - [How to interview a VP of Engineering](https://karimfanous.substack.com/p/how-do-you-interview-a-vp-of-engineering)
+- [Gaming CS Interviews (2017)](https://transitivebullsh.it/gaming-cs-interviews)
