@@ -74,3 +74,4 @@
 - [High-performance image generation using Stable Diffusion in KerasCV](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/) ([HN](https://news.ycombinator.com/item?id=33005585))
 - [Video Killed The Radio Star](https://github.com/dmarx/video-killed-the-radio-star) - Notebook and tools for end-to-end automation of music video production with generative AI.
 - [Custom scripts for the stable diffusion web UI](https://github.com/Pfaeff/sd-web-ui-scripts)
+- [Phenaki](https://phenaki.video/) - Model for generating minutes-long, changing-prompt videos from text. ([HN](https://news.ycombinator.com/item?id=33025189))

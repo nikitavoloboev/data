@@ -201,3 +201,5 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [UI & UX Micro-Tips: Best of 2022](https://www.marcandrew.me/ui-ux-micro-tips-best-of-2022/) ([Tweet](https://twitter.com/Una/status/1567542516228014082))
 - [Infinite Scrolling: When to Use It, When to Avoid It (2022)](https://www.nngroup.com/articles/infinite-scrolling-tips/) ([HN](https://news.ycombinator.com/item?id=32789617))
 - [UX Checklists For Interface Designers (2022)](https://www.smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/)
+- [End-user Programming (2019)](https://www.inkandswitch.com/end-user-programming/)
+- [Infinite Canvas](https://infinitecanvas.tools/) - Tools that work the way we think.

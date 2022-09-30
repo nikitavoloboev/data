@@ -184,7 +184,7 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [Qdrant](https://qdrant.tech/) - Vector Search Engine. ([Code](https://github.com/qdrant/qdrant)) ([GitHub](https://github.com/qdrant)) ([Twitter](https://twitter.com/qdrant_engine))
 - [Trie in JavaScript: the data structure behind autocomplete (2021)](https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete) ([HN](https://news.ycombinator.com/item?id=29078919))
 - [We need more boutique search engines (2021)](https://sariazout.mirror.xyz/7gSSTJ96SEyvXeljymglO3zN4H6DCgVnrNZq8_2NX1A) ([HN](https://news.ycombinator.com/item?id=29130017))
-- [liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser and search engine.
+- [Liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser and search engine. ([Reddit](https://www.reddit.com/r/javascript/comments/xr8t64/liqe_lightweight_lucenelike_parser_and_serializer/))
 - [Zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
 - [How Not To Sort By Average Rating (2009)](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html) ([HN](https://news.ycombinator.com/item?id=29200103))
 - [T-Wand: Beat Lucene in Less Than 600 Lines of Code (2021)](https://yyhh.org/blog/2021/11/t-wand-beat-lucene-in-less-than-600-lines-of-code/) ([HN](https://news.ycombinator.com/item?id=29237644))

@@ -168,3 +168,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Shopify App Template (Node) with TypeScript](https://github.com/kanzitelli/shopify-app-template-typescript)
 - [Looria](https://looria.com/) - Finds and analyzes trusted product reviews.
 - [FastStore](https://github.com/vtex/faststore) - Digital commerce toolkit for frontend developers.
+- [Mushroomy](https://mushroomy.house/) - For Artists. By Artists.
