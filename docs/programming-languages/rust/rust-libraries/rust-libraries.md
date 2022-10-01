@@ -2456,3 +2456,4 @@
 - [rustdoc-index](https://github.com/octaltree/rustdoc-index) - Tool to quickly find the relevant item from rustdoc.
 - [Rust-to-NPM](https://github.com/a11ywatch/rust-to-npm) - Deploy a rust project to crates.io and npm in one command.
 - [Documentation of Rust error handling](https://github.com/nrc/error-docs)
+- [Example for Axum style magic function parameter passing](https://github.com/alexpusch/rust-magic-function-params)

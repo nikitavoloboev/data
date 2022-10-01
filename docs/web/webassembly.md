@@ -367,3 +367,4 @@ title: WebAssembly
 - [Roadmap - WebAssembly](https://webassembly.org/roadmap/)
 - [Finicky Whiskers](https://www.finickywhiskers.com/index.html) - Manual Load Generator. ([Code](https://github.com/fermyon/finicky-whiskers))
 - [Fermyon Installer](https://github.com/fermyon/installer) - Different ways to deploy ("install") Fermyon in their preferred environment.
+- [Why didn't Figma trigger a WASM gold rush?](https://twitter.com/simonw/status/1576001019296636928)

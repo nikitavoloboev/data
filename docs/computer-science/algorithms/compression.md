@@ -146,3 +146,4 @@
 - [Vaar](https://github.com/moycat/vaar) - Tar archive tool & library optimized for lots of small files.
 - [Binary Refinery](https://github.com/binref/refinery) - High Octane Triage Analysis.
 - [Dissecting the GZIP format](http://www.infinitepartitions.com/art001.html)
+- [Better than JPEG? Researcher discovers that Stable Diffusion can compress images (2022)](https://arstechnica.com/information-technology/2022/09/better-than-jpeg-researcher-discovers-that-stable-diffusion-can-compress-images/)

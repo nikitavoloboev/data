@@ -73,3 +73,4 @@
 - [Osma](https://drinkosma.com/) - Freshly extracted cold brew in 90 seconds.
 - [Cold-brewing of coffee by picosecond-pulsed laser extraction (2022)](https://www.nature.com/articles/s41538-022-00134-6) ([HN](https://news.ycombinator.com/item?id=32190966))
 - [Systematically Improving Espresso (2020)](<https://www.cell.com/matter/pdf/S2590-2385(19)30410-2.pdf>) ([HN](https://news.ycombinator.com/item?id=32992128))
+- [Coffee & Muslim culture](https://twitter.com/BaytAlFann/status/1576145854515146753)
