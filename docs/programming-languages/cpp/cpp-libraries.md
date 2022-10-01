@@ -435,6 +435,7 @@
 - [oneTBB](https://github.com/oneapi-src/oneTBB) - Flexible C++ library that simplifies the work of adding parallelism to complex applications, even if you are not a threading expert.
 - [zzzJSON](https://github.com/dacez/zzzjson) - Fastest JSON parser written in pure C.
 - [B-Tree](https://github.com/frozenca/BTree) - General-purpose high-performance lightweight STL-like modern C++ B-Tree.
+- [cppq](https://github.com/jafarlihi/cppq) - Simple, reliable & efficient distributed task queue for C++17. Backed by Redis.
 
 ## Links
 

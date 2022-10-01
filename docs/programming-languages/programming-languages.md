@@ -428,3 +428,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Introduction to the Theory of Programming Languages (1991)](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/) ([Lobsters](https://lobste.rs/s/rp4vn4/introduction_theory_programming))
 - [Code Language Converter](https://codelanguageconverter.com/) - Convert code to other languages using AI.
 - [Melang](https://github.com/Water-Melon/Melang) - Script language of preemptive scheduling coroutine in single thread.
+- [Duo](https://github.com/duo-lang/duo-lang) - Research language focused on the combination of subtyping, type inference and type-theoretic dualities.

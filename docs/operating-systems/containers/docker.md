@@ -265,3 +265,4 @@ Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432
 - [Why use docker for a home server?](https://blog.viraptor.info/post/why-use-docker-for-a-home-server) ([Lobsters](https://lobste.rs/s/rhdjge/why_use_docker_for_home_server))
 - [Docker Hub CLI](https://github.com/VictorBersy/docker-hub-cli) - CLI to explore and manage Docker Hub resources.
 - [Trellis](https://github.com/charliermarsh/trellis) - Write Dockerfiles and CI pipelines in TypeScript.
+- [Docker and Hacktoberfest 2022](https://github.com/docker/hacktoberfest-2022)

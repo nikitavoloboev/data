@@ -576,3 +576,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [plpgsql_check](https://github.com/okbob/plpgsql_check) - Linter tool (does source code static analyze) for the PostgreSQL language plpgsql.
 - [Postgres WASM](https://github.com/snaplet/postgres-wasm) - PostgresQL server running in your browser.
 - [Barman](https://github.com/EnterpriseDB/barman) - Backup and Recovery Manager for PostgreSQL. ([Web](https://pgbarman.org/))
+- [Ivory](https://github.com/tristanfisher/ivory) - Makes it easy for you to create a PostgreSQL database instance from a Go program.
