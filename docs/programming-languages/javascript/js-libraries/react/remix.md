@@ -64,6 +64,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [RemixBlocks](https://github.com/AlexandroMtzG/remix-blocks) - Ready-to-use Remix + Tailwind CSS routes and components.
 - [Remix Deno JIT](https://github.com/jacob-ebey/remix-deno-jit)
 - [Remix infinite scroll example](https://github.com/jacob-ebey/remix-deferred-infinite-scroll)
+- [A Colorful Thing](https://github.com/lachlanjc/a-colorful-thing) - Simple collaborative drawing app built with Liveblocks & Remix.
 
 ## Plugins
 

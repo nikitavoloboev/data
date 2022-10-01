@@ -131,3 +131,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [solid-optimizer](https://github.com/lxsmnsyc/solid-optimizer) - Compile-time optimizer for SolidJS.
 - [Voby: Simplifications Over Solid - No Babel, No Compiler (2022)](https://dev.to/fabiospampinato/voby-simplifications-over-solid-no-babel-no-compiler-5epg)
 - [SolidJS - World beyond components (2022)](https://www.youtube.com/watch?v=zE8PDM_7xoQ&t=5253s)
+- [Solid-Form-Handler](https://github.com/webblocksapp/solid-form-handler) - Lightweight library for building form components and validating forms with them.
