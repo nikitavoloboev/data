@@ -387,3 +387,4 @@ title: Reinforcement learning
 - [Forgetful Experience Replay in Hierarchical Reinforcement Learning from Demonstrations (2020)](https://arxiv.org/abs/2006.09939) ([Code](https://github.com/cog-isa/forger))
 - [DexterousHands](https://github.com/PKU-MARL/DexterousHands) - Collection of bimanual dexterous manipulations tasks and reinforcement learning algorithms.
 - [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - Standard API for reinforcement learning and a diverse set of reference environments.
+- [CORL (Clean Offline Reinforcement Learning)](https://github.com/tinkoff-ai/CORL) - High-quality single-file implementations of SOTA Offline RL algorithms: AWAC, BC, CQL, DT, EDAC, IQL, SAC-N, TD3+BC.

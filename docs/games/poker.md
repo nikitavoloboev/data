@@ -28,3 +28,5 @@
 - [Favorite educational Poker vloggers (2022)](https://www.reddit.com/r/poker/comments/wggf9c/who_is_your_guys_favorite_poker_vlogger_as_far_as/)
 - [Mariano - YouTube](https://www.youtube.com/c/MarianoPoker/videos)
 - [How do I get better at folding big hands?](https://www.reddit.com/r/poker/comments/wirr41/how_do_i_get_better_at_folding_big_hands/)
+- [Daniel Negreanu: Poker | Lex Fridman (2022)](https://www.youtube.com/watch?v=rKnoNfajUgM)
+- [How to get better at poker | Daniel Negreanu (2022)](https://www.youtube.com/watch?v=c7V0A4aG-4U)

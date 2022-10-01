@@ -49,3 +49,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [gopass](https://github.com/aviau/gopass) - Pass implementation in Go.
 - [1Password for VS Code](https://github.com/1Password/op-vscode)
 - [Padloc](https://padloc.app/) - Open Source, End-to-end Encrypted Password Manager. ([Code](https://github.com/padloc/padloc))
+- [Otti](https://github.com/dnaka91/otti) - One-time password manager for the terminal, with interactive and fancy TUI.

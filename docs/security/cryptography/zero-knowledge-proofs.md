@@ -117,3 +117,4 @@ title: Zero knowledge proofs
 - [ZK Bug Tracker](https://github.com/0xPARC/zk-bug-tracker) - Community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto.
 - [Zilch](https://github.com/TrustworthyComputing/Zilch) - Framework for Developing Zero-Knowledge Proofs for Any Application.
 - [Using ZK Proofs to Fight Disinformation (2022)](https://medium.com/@boneh/using-zk-proofs-to-fight-disinformation-17e7d57fe52f)
+- [Zero-Knowledge starter](https://github.com/backmeupplz/zk-starter)

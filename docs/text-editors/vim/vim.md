@@ -321,4 +321,4 @@ zz
 - [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Syntax aware text-objects, select, move, swap, and peek support.
 - [nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects.
 - [nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim.
-- [Neovim 0.8 Released (2022)](https://news.ycombinator.com/item?id=33037151)
+- [Neovim 0.8 Released (2022)](https://news.ycombinator.com/item?id=33037151) ([Summary](https://www.youtube.com/watch?v=TX_uOJiIjcM))

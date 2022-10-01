@@ -577,3 +577,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postgres WASM](https://github.com/snaplet/postgres-wasm) - PostgresQL server running in your browser.
 - [Barman](https://github.com/EnterpriseDB/barman) - Backup and Recovery Manager for PostgreSQL. ([Web](https://pgbarman.org/))
 - [Ivory](https://github.com/tristanfisher/ivory) - Makes it easy for you to create a PostgreSQL database instance from a Go program.
+- [PG Scripts](https://github.com/andyatkinson/pg_scripts) - Analysis and optimization SQL queries. Some PL/pgSQL scripts.

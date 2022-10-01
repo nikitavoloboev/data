@@ -76,3 +76,4 @@
 - [Ask HN: How do you organize or rename PDF files (books, papers, etc)? (2022)](https://news.ycombinator.com/item?id=32565059)
 - [Extract structured data from PDF invoices](https://github.com/invoice-x/invoice2data)
 - [PDF Grep](https://pdfgrep.org/) - Command line utility to search text in PDF files. ([HN](https://news.ycombinator.com/item?id=32971748)) ([Code](https://gitlab.com/pdfgrep/pdfgrep))
+- [WeasyPrint](https://github.com/Kozea/WeasyPrint) - Turns simple HTML pages into gorgeous statistical reports, invoices, tickets as PDFs.

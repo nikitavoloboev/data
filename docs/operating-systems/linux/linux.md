@@ -602,3 +602,5 @@ title: Linux
 - [Native Linux GPU Driver for Apple M1 (2022)](https://twitter.com/LinaAsahi/status/1575343067892051968) ([HN](https://news.ycombinator.com/item?id=33019316))
 - [Signals in prod: dangers and pitfalls (2022)](https://developers.facebook.com/blog/post/2022/09/27/signals-in-prod-dangers-and-pitfalls/)
 - [Seer](https://github.com/epasveer/seer) - GUI front end to GDB for Linux. ([HN](https://news.ycombinator.com/item?id=33044885))
+- [gf](https://github.com/nakst/gf) - GDB frontend for Linux.
+- [Kairos](https://github.com/kairos-io/kairos) - Kubernetes-focused, Cloud Native Linux meta-distribution.

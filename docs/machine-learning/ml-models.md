@@ -116,3 +116,4 @@
 - [Using GitHub as Artifactory for Machine Learning Model Artifacts (2022)](https://omkar.xyz/gaama/)
 - [Replicate](https://replicate.com/) - Run open-source machine learning models with a cloud API. ([Go Replicate](https://github.com/sausheong/goreplicate))
 - [dfserver](https://github.com/huo-ju/dfserver) - Distributed backend AI pipeline server.
+- [dstack](https://github.com/dstackai/dstack) - Command-line utility to provision infrastructure for ML workflows. ([Docs](https://docs.dstack.ai/))

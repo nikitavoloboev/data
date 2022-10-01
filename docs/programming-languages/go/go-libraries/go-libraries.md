@@ -693,6 +693,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Errors](https://github.com/alextanhongpin/errors) - Better domain errors with Go.
 - [merry](https://github.com/ansel1/merry) - Go errors with stacktrace and context.
 - [Errors](https://github.com/nicolasparada/go-errs) - Create constant sentinel errors with errors.Is support.
+- [go-xerrors](https://github.com/MDobak/go-xerrors) - Idiomatic and lightweight package that provides a set of functions to make working with errors easier. ([Reddit](https://www.reddit.com/r/golang/comments/xsfgw3/mdobakgoxerrors_yet_another_error_handling_library/))
 
 ## Other
 
@@ -1818,6 +1819,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-binarytree](https://github.com/dnaeon/go-binarytree) - Simple Binary Tree implementation in Go.
 - [go-syslog](https://github.com/influxdata/go-syslog) - Parser for Syslog messages and transports.
 - [Common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries.
+- [Frisbee-Go](https://github.com/loopholelabs/frisbee-go) - Go implementation of Frisbee - a bring-your-own protocol messaging framework designed for performance and stability.
 
 ## Links
 

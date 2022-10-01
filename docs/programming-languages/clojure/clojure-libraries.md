@@ -255,6 +255,7 @@
 - [Pattern](https://github.com/pangloss/pattern) - Lets you transform data structures in amazing ways.
 - [Clojupedia](https://github.com/clojupedia/main) - Community maintained hub for Clojure libraries and tools, powered by Logseq.
 - [Proletarian](https://github.com/msolli/proletarian) - Durable job queuing and worker system for Clojure backed by PostgreSQL.
+- [backtick](https://github.com/brandonbloom/backtick) - Clojure's syntax-quote reader macro as a normal macro.
 
 ## Links
 

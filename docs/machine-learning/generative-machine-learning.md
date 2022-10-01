@@ -76,3 +76,4 @@
 - [Custom scripts for the stable diffusion web UI](https://github.com/Pfaeff/sd-web-ui-scripts)
 - [Phenaki](https://phenaki.video/) - Model for generating minutes-long, changing-prompt videos from text. ([HN](https://news.ycombinator.com/item?id=33025189))
 - [GhostlyStock](https://www.ghostlystock.com/) - Stock Photos Using Stable Diffusion. ([HN](https://news.ycombinator.com/item?id=33038117))
+- [Prompt engineering is hard (2022)](https://xeiaso.net/blog/prompt-engineering)

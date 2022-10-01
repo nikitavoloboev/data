@@ -429,3 +429,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Code Language Converter](https://codelanguageconverter.com/) - Convert code to other languages using AI.
 - [Melang](https://github.com/Water-Melon/Melang) - Script language of preemptive scheduling coroutine in single thread.
 - [Duo](https://github.com/duo-lang/duo-lang) - Research language focused on the combination of subtyping, type inference and type-theoretic dualities.
+- [CodeGeeX](https://github.com/THUDM/CodeGeeX) - Open Multilingual Code Generation Model.

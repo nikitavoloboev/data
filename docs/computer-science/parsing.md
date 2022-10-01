@@ -121,3 +121,4 @@
 - [Parser Combinators and Interpreting a PL (2022)](https://alt-romes.github.io/archive/2022-06-03-koblenz-ext.html)
 - [LALRPOP](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust.
 - [Yap](https://github.com/jsdw/yap) - Parser library for Rust.
+- [pratt](https://github.com/segeljakt/pratt) - General Purpose Pratt Parser for Rust.

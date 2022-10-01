@@ -438,6 +438,7 @@
 - [Benimator](https://github.com/jcornaz/benimator) - Sprite animation library for rust game development.
 - [steamworks](https://github.com/Noxime/steamworks-rs) - Rust bindings to the SteamWorks SDK.
 - [Flax](https://github.com/ten3roberts/flax) - Fully featured and easy to use ECS library for rust.
+- [yakui](https://github.com/LPGhatguy/yakui) - Declarative Rust UI library for games.
 
 ## GraphQL
 
@@ -2297,6 +2298,7 @@
 - [cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) - Custom cargo command that analyses all cargo target directories under a given parent directory and allows for cleaning them.
 - [cargo-changelog](https://github.com/matthiasbeyer/cargo-changelog) - Changelog management tool for CLI.
 - [cargo-careful](https://github.com/RalfJung/cargo-careful) - Execute Rust code carefully, with extra checking along the way.
+- [cargo-docset](https://github.com/Robzz/cargo-docset) - Generate a Zeal/Dash docset for your Rust crate or workspace.
 
 ## Notes
 
