@@ -1,6 +1,6 @@
 # Content management systems
 
-[Keystone](https://keystonejs.com/), [Payload](https://payloadcms.com/) & [Contentlayer](https://www.contentlayer.dev/) seem great.
+[Keystone](https://keystonejs.com/), [Payload](https://payloadcms.com/), [Contentlayer](https://www.contentlayer.dev/) & [Bartholomew](https://github.com/fermyon/bartholomew) seem great.
 
 ## Links
 
@@ -35,7 +35,7 @@
 - [Collaborative CMS options (2021)](https://twitter.com/derrickreimer/status/1453017970645602304)
 - [Craft CMS](https://craftcms.com/) - Flexible, user-friendly CMS for creating custom digital experiences on the web and beyond. ([Code](https://github.com/craftcms/cms)) ([HN](https://news.ycombinator.com/item?id=31271668))
 - [Best CMS for NextJS (2021)](https://www.reddit.com/r/nextjs/comments/qnx4rd/guys_whats_the_best_cms_for_my_nextjs_app/)
-- [Bartholomew MicroCMS](https://github.com/fermyon/bartholomew) - Micro-CMS for WebAssembly and Wagi.
+- [Bartholomew MicroCMS](https://github.com/fermyon/bartholomew) - Micro-CMS for WebAssembly and Wagi. ([Talk](https://www.youtube.com/watch?v=O2KNzVj6FAc))
 - [Jetboost](https://www.jetboost.io/) - No-code search and filters for Webflow CMS. ([Twitter](https://twitter.com/Jetboostio))
 - [Statamic](https://statamic.com/) - Powerful, flat-file CMS built on Laravel.
 - [Payload CMS](https://payloadcms.com/) - Node & React TypeScript Headless CMS. ([Code](https://github.com/payloadcms/payload)) ([Reddit](https://www.reddit.com/r/javascript/comments/tgcm1n/payload_a_headless_typescript_cms_just_shipped_20/))

@@ -642,6 +642,7 @@
 - [nbd-rs](https://github.com/mdlayher/nbd-rs) - Asynchronous Rust client and server implementation of the Network Block Device (NBD) protocol.
 - [rust-systemd](https://github.com/jmesmon/rust-systemd) - Rust interface to systemd c apis.
 - [SELinux](https://github.com/koutheir/selinux) - Flexible Mandatory Access Control for Linux.
+- [penguincrab](https://github.com/docfate111/penguincrab) - Unsafe wrapper for Linux Kernel Library in Rust.
 
 ## Embedded
 

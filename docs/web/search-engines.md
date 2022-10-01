@@ -268,3 +268,5 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [Semantic Search on stack exchange data](https://github.com/pacman82/search-stack-exchange)
 - [Marqo](https://github.com/marqo-ai/marqo) - Open-source tensor search engine that seamlessly integrates with your applications, websites, and workflow. ([Docs](https://marqo.pages.dev/))
 - [Lupyne](https://github.com/coady/lupyne) - Pythonic search engine based on PyLucene.
+- [Building advanced SQL search from a user text input by Gajus Kuizinas (2022)](https://contra.com/p/WobOBob7-building-advanced-sql-search-from-a-user-text-input)
+- [μFuzzy](https://github.com/leeoniya/uFuzzy) - Tiny, efficient fuzzy search that doesn't suck. ([HN](https://news.ycombinator.com/item?id=33035580))

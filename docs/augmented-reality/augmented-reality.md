@@ -46,3 +46,4 @@
 - [AR Art Attractors](https://github.com/ynagatomo/ARArtAttractors) - Minimal iOS app that displays 3D graphic art in AR.
 - [General-purpose, long-context autoregressive modeling with Perceiver AR (2022)](https://arxiv.org/abs/2202.07765) ([Code](https://github.com/google-research/perceiver-ar))
 - [SoftspaceAR Spatial Canvas Prototype](https://twitter.com/softspaceninja/status/1536695800935370752)
+- [Magic Leap 2](https://www.magicleap.com/en-us/magic-leap-2-video) - Most immersive AR platform for enterprise. ([HN](https://news.ycombinator.com/item?id=33041677))

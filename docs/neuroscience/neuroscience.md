@@ -150,6 +150,7 @@ The way our brains take input from different senses (eyes, touch) and then decid
 - [What is 'brain fog' (2022)](https://twitter.com/edyong209/status/1569302974811308032)
 - [OpenNeuro](https://openneuro.org/) - Free and open platform for validating and sharing BIDS-compliant MRI, PET, MEG, EEG, and iEEG data.
 - [Beacon Biosignals](https://beacon.bio/) ([GitHub](https://github.com/beacon-biosignals))
+- [Semantic reconstruction of continuous language from non-invasive brain recording (2022)](https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1) ([HN](https://news.ycombinator.com/item?id=33038452))
 
 ## Images
 

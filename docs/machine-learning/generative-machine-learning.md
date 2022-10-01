@@ -75,3 +75,4 @@
 - [Video Killed The Radio Star](https://github.com/dmarx/video-killed-the-radio-star) - Notebook and tools for end-to-end automation of music video production with generative AI.
 - [Custom scripts for the stable diffusion web UI](https://github.com/Pfaeff/sd-web-ui-scripts)
 - [Phenaki](https://phenaki.video/) - Model for generating minutes-long, changing-prompt videos from text. ([HN](https://news.ycombinator.com/item?id=33025189))
+- [GhostlyStock](https://www.ghostlystock.com/) - Stock Photos Using Stable Diffusion. ([HN](https://news.ycombinator.com/item?id=33038117))

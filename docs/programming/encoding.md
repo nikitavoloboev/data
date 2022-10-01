@@ -68,3 +68,4 @@
 - [Understanding Big Data File Formats (2022)](https://www.vladsiv.com/big-data-file-formats/)
 - [Free Lossless Audio Codec (FLAC)](https://github.com/xiph/flac)
 - [How QR codes work (2022)](https://typefully.com/DanHollick/qr-codes-T7tLlNi) ([HN](https://news.ycombinator.com/item?id=32837565))
+- [Lyra V2 – a better, faster, and more versatile speech codec (2022)](https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html) ([HN](https://news.ycombinator.com/item?id=33041114))

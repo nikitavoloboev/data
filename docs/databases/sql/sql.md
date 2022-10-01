@@ -107,7 +107,7 @@ title: SQL
 - [How Materialize and other databases optimize SQL subqueries (2021)](https://scattered-thoughts.net/writing/materialize-decorrelation)
 - [Advanced SQL Questions From Amazon (2021)](https://www.youtube.com/watch?v=VYeevsVj4fU)
 - [Streaming SQL: What is it, why is it useful? (2021)](https://materialize.com/streaming-sql-intro/)
-- [Steampipe](https://steampipe.io/) - Extensible SQL interface to your favorite cloud APIs. ([Code](https://github.com/turbot/steampipe))
+- [Steampipe](https://steampipe.io/) - Extensible SQL interface to your favorite cloud APIs. ([Code](https://github.com/turbot/steampipe)) ([HN](https://news.ycombinator.com/item?id=33034351))
 - [Speeding up SQL queries by orders of magnitude using UNION (2021)](https://www.foxhound.systems/blog/sql-performance-with-union/) ([HN](https://news.ycombinator.com/item?id=26524776))
 - [Some opinionated thoughts on SQL databases (2021)](https://blog.nelhage.com/post/some-opinionated-sql-takes/) ([Lobsters](https://lobste.rs/s/jb8jk1/some_opinionated_thoughts_on_sql))
 - [How to create a 1M record table with a single query (2021)](https://antonz.org/random-table/)

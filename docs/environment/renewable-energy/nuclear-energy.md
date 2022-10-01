@@ -77,3 +77,4 @@ Nuclear energy [gets a bad reputation but its the future of renewable energy](ht
 - [The First Small Modular Nuclear Reactor Was Just Approved by US Regulators (2022)](https://singularityhub.com/2022/08/05/the-first-small-modular-nuclear-reactor-design-was-just-approved-by-us-regulators/) ([HN](https://news.ycombinator.com/item?id=32367791))
 - [Korean nuclear fusion reactor achieves 100M°C for 30 seconds (2022)](https://www.shiningscience.com/2022/09/korean-nuclear-fusion-reactor-achieves.html) ([HN](https://news.ycombinator.com/item?id=32755893))
 - [We Solved Nuclear Waste Decades Ago (2022)](https://www.youtube.com/watch?v=4aUODXeAM-k)
+- [Why are nuclear power construction costs so high? (2022)](https://constructionphysics.substack.com/p/why-are-nuclear-power-construction) ([HN](https://news.ycombinator.com/item?id=33039562))

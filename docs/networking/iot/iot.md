@@ -61,7 +61,7 @@
 - [balena](https://www.balena.io/) - Complete IoT fleet management platform. ([GitHub](https://github.com/balenalabs))
 - [FieldKit](https://www.fieldkit.org/) - Friendly, reliable, low-cost tools to monitor and advocate for the world around you.
 - [AI on the edge device](https://github.com/jomjol/AI-on-the-edge-device) - Example of Artificial Intelligence (AI) calculations on a very cheap hardware.
-- [Ockam](https://github.com/ockam-network/ockam) - End-to-end encrypted messaging and mutual authentication between cloud services and edge devices. ([Web](https://www.ockam.io/))
+- [Ockam](https://github.com/build-trust/ockam) - End-to-end encrypted messaging and mutual authentication between cloud services and edge devices. ([Web](https://www.ockam.io/)) ([HN](https://news.ycombinator.com/item?id=33038384))
 - [Inside SimpliSafe Alarm System (2021)](https://medium.com/tenable-techblog/inside-simplisafe-alarm-system-291a8c3e4d89)
 - [The S in IoT is for Security](https://puri.sm/posts/the-s-in-iot-is-for-security/) ([HN](https://news.ycombinator.com/item?id=26540007))
 - [Zabbix](https://www.zabbix.com/) - Enterprise-Class Open Source Network Monitoring Solution.

@@ -110,3 +110,4 @@ title: Web Components
 - [El](https://github.com/frameable/el) - Minimal JavaScript application framework inspired by React, Vue, and lit-element.
 - [WebComponents.org](https://www.webcomponents.org/) - Discuss & share web components. ([Code](https://github.com/webcomponents/webcomponents.org))
 - [Custom Elements Everywhere](https://github.com/webcomponents/custom-elements-everywhere) - Custom Element + Framework Interoperability Tests.
+- [Good resources to learn Web Components (2022)](https://twitter.com/claviska/status/1575949212201930752)
