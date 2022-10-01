@@ -186,3 +186,4 @@
 - [Memory Tagging: A Memory Efficient Design (2022)](https://arxiv.org/abs/2209.00307)
 - [Muse](https://github.com/mc2-project/muse) - Python, C++, and Rust library for Secure Convolutional Neural Network Inference Resilient to Malicious Clients.
 - [Elliptic Curves for Security (2016)](https://www.rfc-editor.org/rfc/rfc7748)
+- [lemmeknow](https://github.com/swanandx/lemmeknow) - Can be used for identifying mysterious text or to analyze hard-coded strings from captured network packets, malwares, or just about anything.

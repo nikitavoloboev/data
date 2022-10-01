@@ -580,3 +580,4 @@ title: GitHub actions
 - [Now reading](https://katydecorah.com/code/now-reading/) - How I built a book display using GitHub actions, a Raspberry Pi, and an e-paper module.
 - [GitHub Actions Pitfalls (2022)](https://fusectore.dev/2022/09/25/github-actions-pitfalls.html) ([HN](https://news.ycombinator.com/item?id=32970198))
 - [gha-trigger](https://github.com/gha-trigger/gha-trigger) - Webhook Server for Secure GitHub Actions.
+- [Terraform Google GitHub Action Runners](https://github.com/terraform-google-modules/terraform-google-github-actions-runners) - Module to create self-hosted GitHub Actions Runners on GCP.

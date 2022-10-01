@@ -92,3 +92,4 @@ title: Nginx
 - [wasm-nginx-module](https://github.com/api7/wasm-nginx-module) - Run Wasm in OpenResty/Nginx.
 - [Cloudflare developed a Rust based Nginx alternative (2022)](https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx) ([Reddit](https://www.reddit.com/r/rust/comments/xf9d4z/cloudflare_developed_a_rust_based_nginx/)) ([HN](https://news.ycombinator.com/item?id=32864119))
 - [ngx](https://github.com/qba73/ngx) - Go client library for NGINX Plus API.
+- [ngx_mruby](https://github.com/matsumotory/ngx_mruby) - Fast and Memory-Efficient TCP/UDP Load Balancing and Web Server Extension Mechanism Using Scripting Language mruby for nginx.

@@ -321,3 +321,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [A few thoughts about Uber's breach (2022)](https://cendyne.dev/posts/2022-09-19-a-few-thoughts-about-ubers-breach.html) ([Lobsters](https://lobste.rs/s/rqo0gc/few_thoughts_about_uber_s_breach))
 - [Chainguard](https://www.chainguard.dev/) - Secure your software supply chains. ([Chainguard Images](https://www.chainguard.dev/chainguard-images)) ([GitHub](https://github.com/chainguard-images))
 - [Turnstile, a user-friendly, privacy-preserving alternative to CAPTCHA (2022)](https://blog.cloudflare.com/turnstile-private-captcha-alternative/)
+- [feroxbuster](https://github.com/epi052/feroxbuster) - Fast, simple, recursive content discovery tool written in Rust.
