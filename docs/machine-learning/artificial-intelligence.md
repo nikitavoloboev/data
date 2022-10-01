@@ -147,3 +147,4 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 - [The AI Unbundling (2022)](https://stratechery.com/2022/the-ai-unbundling/) ([HN](https://news.ycombinator.com/item?id=32810091))
 - [AIRI - Artificial Intelligence Research Institute](https://airi.net/) ([GitHub](https://github.com/AIRI-Institute))
 - [Large Model Applications by Modality](https://twitter.com/saranormous/status/1572791179636518913)
+- [GUT-AI initiative](https://github.com/GUT-AI/gut-ai) - Initiative which aims to eliminate the multiple, single-points-of-failure when using AI for real-life applications.

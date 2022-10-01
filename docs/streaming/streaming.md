@@ -91,3 +91,4 @@ Here are tools I use for streaming:
 - [Restreamer](https://github.com/datarhei/restreamer) - Complete streaming server solution for self-hosting.
 - [Twitch chat in the terminal](https://github.com/Xithrius/twitch-tui)
 - [Rsget](https://github.com/Erk-/rsget) - Downloader for different live stream providers.
+- [Findstream](https://findstream.dnaka91.rocks/) - Better search for Twitch streams. ([Code](https://github.com/dnaka91/findstream))

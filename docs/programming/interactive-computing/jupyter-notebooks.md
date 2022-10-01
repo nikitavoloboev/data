@@ -222,3 +222,4 @@ title: Jupyter Notebooks
 - [Making the Best of Jupyter](https://github.com/NirantK/best-of-jupyter)
 - [Reproducible Jupyter Notebook with Nix (2022)](https://paperless.blog/reproducible-jupyter-notebook-with-nix)
 - [2i2c’s Managed JupyterHubs Service](https://github.com/2i2c-org/infrastructure) ([Docs](https://infrastructure.2i2c.org/en/latest/))
+- [JupyterLab Benchmarks](https://github.com/jupyterlab/benchmarks) - Benchmarking tools for JupyterLab.

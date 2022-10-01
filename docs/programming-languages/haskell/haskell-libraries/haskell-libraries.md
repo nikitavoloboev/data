@@ -45,6 +45,7 @@
 - [PostgreSQL Binary](https://github.com/nikita-volkov/postgresql-binary) - Encoders and decoders for the PostgreSQL's binary format.
 - [Rel8](https://github.com/circuithub/rel8) - Haskell library for interacting with PostgreSQL databases.
 - [hedis](https://github.com/informatikr/hedis) - Redis client library for Haskell.
+- [orville](https://github.com/flipstone/orville) - Yet another ORM for haskell.
 
 ## Test
 

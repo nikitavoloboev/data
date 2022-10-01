@@ -395,3 +395,4 @@ title: ML Libraries
 - [Contextual Bandits](https://github.com/david-cortes/contextualbandits) - Python implementations of contextual bandits algorithms.
 - [Open3D-ML](https://github.com/isl-org/Open3D-ML) - Extension of Open3D to address 3D Machine Learning tasks.
 - [Daft](https://github.com/Eventual-Inc/Daft) - Fast, ergonomic and scalable open-source dataframe library: built for Python and Complex Data/Machine Learning workloads.
+- [StellarGraph](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs.

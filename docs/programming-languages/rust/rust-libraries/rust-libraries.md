@@ -347,6 +347,7 @@
 - [Nightfall](https://github.com/Dusk-Labs/nightfall) - Easy to use lib for creating on-demand transcoding sessions for efficient media playback.
 - [retina](https://github.com/scottlamb/retina) - High-level RTSP multimedia streaming library, in Rust.
 - [h264-reader](https://github.com/dholroyd/h264-reader) - Rust reader for H264 bitsream syntax.
+- [libv4l-rs](https://github.com/raymanfx/libv4l-rs) - Safe bindings to the Video for Linux (V4L) stack.
 
 ## Graphics
 
@@ -2195,6 +2196,8 @@
 - [Flux](https://github.com/liquid-rust/flux) - Refinement Types for Rust.
 - [parasol](https://github.com/nical/parasol) - Multi-threaded job scheduler in Rust.
 - [orchestra](https://github.com/paritytech/orchestra) - Partial actor pattern with a global orchestrator.
+- [CAPTCHA](https://github.com/daniel-e/captcha) - Library to generate CAPTCHAs.
+- [OBWS](https://github.com/dnaka91/obws) - Remote control OBS with the obs-websocket plugin from Rust.
 
 ## Cargo Plugins
 

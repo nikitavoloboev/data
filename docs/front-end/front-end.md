@@ -115,3 +115,4 @@
 - [Building a UI Language w/ Dylan Piercey (2022)](https://www.youtube.com/watch?v=W9wfkP21c80)
 - [Front-end Testing Principles (2022)](https://itnext.io/front-end-testing-principles-c4a3b51aa7e5)
 - [Backend for Front-end (2022)](https://blog.frankel.ch/backend-for-frontend/) ([HN](https://news.ycombinator.com/item?id=32919425))
+- [Lost Pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend. First class integration with Storybook, Ladle & other frontend libraries.

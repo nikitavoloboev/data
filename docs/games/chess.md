@@ -30,6 +30,7 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Carlsen-Morozevich, World Blitz Championship 2012](https://www.youtube.com/watch?v=-wRdgOllrzM)
 - [World Chess Championship: Magnus vs Ian Game 6 (2021)](https://www.youtube.com/watch?v=PmQs1KhB948) ([HN](https://news.ycombinator.com/item?id=29434818)) ([Reddit](https://www.reddit.com/r/chess/comments/r882k8/postgame_thread_2021_world_chess_championship/))
 - [Crazy game](https://www.youtube.com/watch?v=3-OE9q7Nz8Y)
+- [Hans vs Max](https://lichess.org/broadcast/prague-chess-festival--challengers/round-3/KhCtM1cT/eDZxYhYI) ([Reddit](https://www.reddit.com/r/chess/comments/xsaw7o/max_warmerdam_about_his_2022_prague_challengers/))
 
 ## Interesting openings
 
@@ -239,3 +240,4 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Botez Sisters: Chess, Streaming, and Fame (2022)](https://www.youtube.com/watch?v=srUlKNLZTas)
 - [ButtFish](https://github.com/RonSijm/ButtFish) - Transmit Morse Code of chess moves to your butt. ([HN](https://news.ycombinator.com/item?id=33014251))
 - [Chessly](https://chessly.com/) - Chess learning made fun and easy.
+- [Chessable](https://www.chessable.com/) - Where Science Meets Chess.

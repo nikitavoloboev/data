@@ -601,3 +601,4 @@ title: Linux
 - [OpenBMC](https://github.com/openbmc/openbmc) - Linux distribution for management controllers used in devices such as servers, top of rack switches or RAID appliances.
 - [Native Linux GPU Driver for Apple M1 (2022)](https://twitter.com/LinaAsahi/status/1575343067892051968) ([HN](https://news.ycombinator.com/item?id=33019316))
 - [Signals in prod: dangers and pitfalls (2022)](https://developers.facebook.com/blog/post/2022/09/27/signals-in-prod-dangers-and-pitfalls/)
+- [Seer](https://github.com/epasveer/seer) - GUI front end to GDB for Linux. ([HN](https://news.ycombinator.com/item?id=33044885))
