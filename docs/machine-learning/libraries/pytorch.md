@@ -447,3 +447,4 @@ title: PyTorch
 - [Deep Learning with PyTorch Step-by-Step: Beginner's Guide (2022)](https://leanpub.com/pytorch)
 - [NeRF-Factory: An awesome PyTorch NeRF collection](https://github.com/kakaobrain/NeRF-Factory)
 - [NestedTensor](https://github.com/pytorch/nestedtensor) - Tools for the concurrent manipulation of variably sized Tensors.
+- [PyTorch Boiler](https://github.com/nmakes/pytorch_boiler) - Minimalistic boiler plate code for training PyTorch models.

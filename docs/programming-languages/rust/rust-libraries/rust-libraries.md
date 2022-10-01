@@ -2198,6 +2198,7 @@
 - [orchestra](https://github.com/paritytech/orchestra) - Partial actor pattern with a global orchestrator.
 - [CAPTCHA](https://github.com/daniel-e/captcha) - Library to generate CAPTCHAs.
 - [OBWS](https://github.com/dnaka91/obws) - Remote control OBS with the obs-websocket plugin from Rust.
+- [boba](https://github.com/artichoke/boba) - Rust implementation of the Bubble Babble binary data encoding.
 
 ## Cargo Plugins
 
