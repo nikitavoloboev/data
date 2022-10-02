@@ -136,6 +136,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Dynamic Islands](https://github.com/jordibruin/Dynamic-Islands) - Sample of dynamic island designs recreated for inspiration.
 - [Booky](https://github.com/mralexhay/Booky) - Demo app exploring the new App Intents framework in iOS 16.
 - [Hipstapaper](https://github.com/jeffreybergier/Hipstapaper) - iOS and Mac Reading List App.
+- [DyeEye](https://github.com/jeffreybergier/DyeEye) - Experimenting with Live Activities and Dynamic Island.
 
 ## Other
 

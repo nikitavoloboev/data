@@ -1821,6 +1821,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-syslog](https://github.com/influxdata/go-syslog) - Parser for Syslog messages and transports.
 - [Common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries.
 - [Frisbee-Go](https://github.com/loopholelabs/frisbee-go) - Go implementation of Frisbee - a bring-your-own protocol messaging framework designed for performance and stability.
+- [go-concurrency](https://github.com/jamestrandung/go-concurrency) - Comprehensive support for complex concurrency requirements in Go.
 
 ## Links
 

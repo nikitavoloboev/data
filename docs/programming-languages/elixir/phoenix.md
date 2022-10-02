@@ -109,3 +109,6 @@ title: Phoenix framework
 - [Using Svelte with Phoenix LiveView](https://github.com/jumpwire-ai/elixirconf2022)
 - [Phoenix framework LiveView live sessions in action (2022)](https://fly.io/phoenix-files/live-session/)
 - [WebAuthnLiveComponent](https://github.com/liveshowy/webauthn_live_component) - Drop-in LiveComponent for password-less authentication.
+- [Phoenix Channels](https://github.com/liveviewnative/phoenix-channels-client) - Async-ready Phoenix Channels v2 client library in Rust.
+- [LiveView Native](https://native.live/) - Native platform implementations of the Phoenix LiveView protocol. ([GitHub](https://github.com/liveviewnative))
+- [PhoenixGon](https://github.com/khusnetdinov/phoenix_gon) - Phoenix variables in your JavaScript without headache.

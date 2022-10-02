@@ -187,6 +187,7 @@
 - [Progenitor](https://github.com/oxidecomputer/progenitor) - OpenAPI client generator.
 - [yerpc](https://github.com/Frando/yerpc) - JSON-RPC 2.0 server handler for Rust, with automatic generation of a TypeScript client.
 - [Seamless](https://github.com/jsdw/seamless) - Opinionated Rust library for creating simple JSON APIs that communicate over HTTP.
+- [TinyRoute](https://github.com/togglebyte/tinyroute) - Small networked message passing library.
 
 ## Auth
 

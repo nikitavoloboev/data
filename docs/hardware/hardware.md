@@ -354,3 +354,4 @@
 - [Fundamentals of Semiconductor Fabrication (2003)](https://www.wiley.com/en-us/Fundamentals+of+Semiconductor+Fabrication-p-9780471232797)
 - [Diode](https://www.withdiode.com/) - Build, program, and run hardware projects in the browser.
 - [TSMC's Renegade Genius (2022)](https://www.youtube.com/watch?v=-W0YdacKwUo)
+- [Antmicro](https://antmicro.com/) - Software-driven tech company developing open and modern industrial edge and cloud AI systems. ([Twitter](https://twitter.com/antmicro)) ([GitHub](https://github.com/antmicro))

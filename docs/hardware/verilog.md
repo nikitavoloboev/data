@@ -55,3 +55,4 @@
 - [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane) - Automated RTL to GDSII flow based on several components.
 - [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) - Integrated chip physical design tool that takes a design from synthesized Verilog to routed layout.
 - [OpenCGRA](https://github.com/pnnl/OpenCGRA) - Open-source framework for modeling, testing, and evaluating CGRAs.
+- [SystemVerilog support for Yosys](https://github.com/antmicro/yosys-systemverilog)
