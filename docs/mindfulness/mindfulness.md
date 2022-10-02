@@ -68,3 +68,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Ask HN: How to deal with overwhelming criticism and self-doubt? (2022)](https://news.ycombinator.com/item?id=32230378)
 - [You have a sad feeling for a moment, then it passes](https://everything2.com/title/You+have+a+sad+feeling+for+a+moment%252C+then+it+passes) ([HN](https://news.ycombinator.com/item?id=32252198))
 - [4-7-8 Breathing](https://breathing.m15y.com/)
+- [Ask HN: How to Stop Caring (Professionally)? (2022)](https://news.ycombinator.com/item?id=33054652)

@@ -203,7 +203,7 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Complex matters in simple doodles](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
 - [Teaching is a slow process of becoming everything you hate](https://dynomight.net/teaching/) ([HN](https://news.ycombinator.com/item?id=30651720))
 - [Celebrate tiny learning milestones](https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/)
-- [Codedamn](https://codedamn.com/) - Learn full-stack web development with interactive courses.
+- [Codedamn](https://codedamn.com/) - Learn full-stack web development with interactive courses. ([Projects](https://codedamn.com/projects)) ([Code](https://github.com/codedamn/projects))
 - [Edrys](https://edrys.org/) - Next Generation of Remote Teaching Software. ([HN](https://github.com/edrys-org/edrys)) ([HN](https://news.ycombinator.com/item?id=30728064))
 - [Ask HN: What bits of fundamental knowledge are 10x productivity multipliers? (2022)](https://news.ycombinator.com/item?id=30853807)
 - [Awesome Concepts](https://github.com/lukasz-madon/awesome-concepts) - Awesome list about all kinds of interesting topics: Laws, Principles, Mental Models, Cognitive Biases.

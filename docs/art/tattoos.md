@@ -17,6 +17,7 @@
 - [Jon Black](https://www.instagram.com/jon._.black/)
 - [Jerome](https://www.instagram.com/sztuka_wojny/)
 - [Infrababy Tattoo Art](https://www.instagram.com/infrababy/)
+- [Pauline](https://www.instagram.com/dobrideeen/)
 
 ## Links
 

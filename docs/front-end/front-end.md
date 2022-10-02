@@ -99,7 +99,7 @@
 - [A "lawful" framework for styling/formatting UIs? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/ugb7e8/a_lawful_framework_for_stylingformatting_uis/)
 - [UIs are streaming DAGs (2022)](https://www.hytradboi.com/2022/uis-are-streaming-dags) ([HN](https://news.ycombinator.com/item?id=31217448)) ([Tweet](https://twitter.com/dustingetz/status/1520397540386091009)) ([Lobsters](https://lobste.rs/s/lawqqm/uis_are_streaming_dags))
 - [TanStack Virtual](https://github.com/tanstack/virtual) - Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte. ([Web](https://tanstack.com/virtual))
-- [Papanasi](https://github.com/CKGrafico/papanasi) - UI library to use cross Frameworks.
+- [Papanasi](https://github.com/CKGrafico/papanasi) - UI library to use cross Frameworks. ([Docs](https://papanasi.js.org/?path=/story/documentation-introduction--page))
 - [TanStack](https://tanstack.com/) - High Quality Open-Source Software for Web Developers. ([Code](https://github.com/TanStack/tanstack.com))
 - [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [How to implement Hexagonal architecture in front end](https://github.com/juanm4/hexagonal-architecture-frontend)
