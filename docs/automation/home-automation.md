@@ -79,3 +79,4 @@
 - [homebridge-yamaha-avr](https://github.com/ACDR/homebridge-yamaha-avr) - Yamaha AVR. Audio Receiver Accessory with Power, Input, Volume & Remote Control.
 - [Home assistant experiments](https://github.com/danielcuthbert/home-assistant)
 - [Many indoor air quality sensor products are a scam (2022)](https://halestrom.net/darksleep/blog/048_indoorairsensing/) ([HN](https://news.ycombinator.com/item?id=33025995))
+- [SmartThingsEdgeDrivers](https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers) - New architecture for Hub Connected devices that uses Device Drivers to execute commands locally on SmartThings Hubs.

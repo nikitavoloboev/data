@@ -6,6 +6,8 @@ title: Cypress
 
 > JavaScript End to End Testing Framework
 
+[Playwright](https://playwright.dev/) is a [nice alternative](https://news.ycombinator.com/item?id=33050985).
+
 ## Links
 
 - [Cypress code](https://github.com/cypress-io/cypress)
@@ -62,4 +64,4 @@ title: Cypress
 - [cypress-fail-on-console-error](https://github.com/nils-hoyer/cypress-fail-on-console-error) - Observes console.error() function from window object. Cypress test will fail when the error function gets executed.
 - [Rewriting tests from Cypress to Playwright using GPT3](https://contra.com/p/PWBcPYZc-rewriting-tests-from-cypress-to-playwright-using-gpt-3)
 - [cypress-thenify](https://github.com/mbolotov/cypress-thenify) - Get rid of Cypress `then` callback hell.
-- [Testing React Apps In 2022 With Cypress: An In-Depth Guide For Beginners](https://profy.dev/article/cypress-react) ([Reddit](https://www.reddit.com/r/reactjs/comments/xlv4s6/testing_react_apps_with_cypress_an_indepth_guide/))
+- [Testing React Apps In 2022 With Cypress: An In-Depth Guide For Beginners](https://profy.dev/article/cypress-react) ([Reddit](https://www.reddit.com/r/reactjs/comments/xlv4s6/testing_react_apps_with_cypress_an_indepth_guide/)) ([HN](https://news.ycombinator.com/item?id=33047136))

@@ -44,3 +44,5 @@ title: Unreal Engine
 - [unreal-rust](https://github.com/MaikKlein/unreal-rust) - Rust integration for Unreal Engine. ([Article](https://maikklein.github.io/unreal-rust-1/)) ([HN](https://news.ycombinator.com/item?id=32717388))
 - [Unreal Engine's notes](https://github.com/Allar/compiling-unreal)
 - [Figma2Unreal](https://github.com/Phil-L-101/Figma2Unreal) - Uses Figma API and python scripts to take assets created in Figma and create nested UMG widgets suitable for making more advanced prototypes.
+- [Wonder Interactive's The Immersive Web will play Unreal 4 games on the web (2022)](https://venturebeat.com/games/wonder-interactives-the-immersive-web-will-play-unreal-4-games-on-the-web/)
+- [WONDER](https://www.theimmersiveweb.com/) - Building an all-in-one ecosystem for bringing your Unreal Engine apps to HTML5.

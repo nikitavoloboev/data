@@ -120,7 +120,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [iCloud Photos Downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - Command-line tool to download photos from iCloud.
 - [The Cult of Leica (2021)](http://leicaphilia.com/the-cult-of-leica/)
 - [Leicaphilia](http://leicaphilia.com/)
-- [Lychee](https://lycheeorg.github.io/) - Self-hosted photo-management done right. ([Code](https://github.com/LycheeOrg/Lychee))
+- [Lychee](https://lycheeorg.github.io/) - Self-hosted photo-management done right. ([Code](https://github.com/LycheeOrg/Lychee)) ([HN](https://news.ycombinator.com/item?id=33046281))
 - [Definitive DIY Guide to Beautiful Product Photography (2020)](https://www.shopify.ca/blog/12206313-the-ultimate-diy-guide-to-beautiful-product-photography)
 - [Ask HN: Which camera do you own? Do you like it? (2021)](https://news.ycombinator.com/item?id=25848536)
 - [Filmulator](https://github.com/CarVac/filmulator-gui) - Simplified raw editing with the power of film. ([HN](https://news.ycombinator.com/item?id=25885760))
