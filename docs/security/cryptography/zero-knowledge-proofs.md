@@ -118,3 +118,4 @@ title: Zero knowledge proofs
 - [Zilch](https://github.com/TrustworthyComputing/Zilch) - Framework for Developing Zero-Knowledge Proofs for Any Application.
 - [Using ZK Proofs to Fight Disinformation (2022)](https://medium.com/@boneh/using-zk-proofs-to-fight-disinformation-17e7d57fe52f)
 - [Zero-Knowledge starter](https://github.com/backmeupplz/zk-starter)
+- [The hunting of the (zk-) SNARK (2022)](https://www.entropy1729.com/the-hunting-of-the-zk-snark/)

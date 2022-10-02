@@ -81,3 +81,4 @@ title: Android
 - [Review of /e/ – Android-based alternative for mobile phones (2022)](https://thenewleafjournal.com/review-of-e-an-android-alternative-for-mobile-phones/) ([HN](https://news.ycombinator.com/item?id=32414215))
 - [Maestro](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation.
 - [Gradle Best Practices Plugin](https://github.com/autonomousapps/gradle-best-practices-plugin)
+- [Android binary file parser written in Go](https://github.com/shogo82148/androidbinary)

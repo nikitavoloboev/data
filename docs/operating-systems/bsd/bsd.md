@@ -107,3 +107,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [Writing FreeBSD Kernel Modules in Rust (2022)](https://research.nccgroup.com/2022/08/31/writing-freebsd-kernel-modules-in-rust/)
 - [How BSD Authentication Works (2021)](https://blog.lambda.cx/posts/how-bsd-authentication-works/)
 - [Few of My Favorite Things About The OpenBSD Packet Filter Tools (2022)](https://bsdly.blogspot.com/2022/09/a-few-of-my-favorite-things-about.html)
+- [OpenBSD.app](https://openbsd.app/) - Quick full-text searching of OpenBSD packages for -stable and -current.

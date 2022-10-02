@@ -906,3 +906,4 @@ title: Rust
 - [RRust](https://github.com/Erk-/RRust) - Reversible subset of Rust inside of Rust.
 - [Why Async Rust (2022)](https://blog.yoshuawuyts.com/why-async-rust/)
 - [Rust performance learnings](https://twitter.com/mitsuhiko/status/1574111445473579008)
+- [“Rust is safe” is not some kind of absolute guarantee of code safety (2022)](https://lkml.org/lkml/2022/9/19/1105#1105.php) ([HN](https://news.ycombinator.com/item?id=33056077))
