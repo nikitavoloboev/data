@@ -390,3 +390,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [AWS Tech Conference](https://www.aws-user-group.com.ua/)
 - [Granted](https://granted.dev/) - View multiple AWS regions and accounts at the same time. ([Code](https://github.com/common-fate/granted))
 - [We reduced our annual server costs by 80% by moving away from AWS (2022)](https://levelup.gitconnected.com/how-we-reduced-our-annual-server-costs-by-80-from-1m-to-200k-by-moving-away-from-aws-2b98cbd21b46) ([HN](https://news.ycombinator.com/item?id=33007873))
+- [Amazon SageMaker Developer Guide](https://github.com/awsdocs/amazon-sagemaker-developer-guide/blob/master/doc_source/index.md)

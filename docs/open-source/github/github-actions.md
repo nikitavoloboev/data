@@ -441,6 +441,10 @@ title: GitHub actions
 
 - [lambda-action](https://github.com/appleboy/lambda-action) - GitHub Action for Deploying Lambda code to an existing function.
 
+## Agda
+
+- [Setup-Agda](https://github.com/wenkokke/setup-agda) - Set up a specific version of Agda for your GitHub Actions workflow.
+
 ## Templates
 
 - [JS action template](https://github.com/actions/javascript-action)

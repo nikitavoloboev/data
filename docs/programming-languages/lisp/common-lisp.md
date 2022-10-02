@@ -141,3 +141,4 @@
 - [Arrow-macros](https://github.com/hipeta/arrow-macros) - Clojure-like arrow macros in Common Lisp.
 - [clingon](https://github.com/dnaeon/clingon) - Command-line options parser system for Common Lisp.
 - [Common Lisp names all sixteen binary logic gates](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000) ([HN](https://news.ycombinator.com/item?id=32802308))
+- [RE](https://github.com/massung/re) - Lua-style Pattern Matching for Common Lisp.

@@ -145,3 +145,4 @@
 - [From byebug to ruby/debug (2022)](https://st0012.dev/from-byebug-to-ruby-debug)
 - [Natalie](https://natalie-lang.org/) - Ruby Dialect. ([Lobsters](https://lobste.rs/s/wj5alv/natalie_ruby_dialect))
 - [Rucoa](https://github.com/r7kamura/rucoa) - Language server for Ruby.
+- [MemoryProfiler](https://github.com/SamSaffron/memory_profiler) - Memory profiler for Ruby.

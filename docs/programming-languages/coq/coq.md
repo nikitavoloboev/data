@@ -169,3 +169,4 @@ title: Coq
 - [Automatik](https://github.com/jdrprod/automatik) - Library of formalized graph and automata based algorithms.
 - [LibHyps](https://github.com/Matafou/LibHyps) - Coq library providing tactics to deal with hypothesis.
 - [CoqEAL](https://github.com/coq-community/coqeal) - Coq Effective Algebra Library.
+- [IO](https://github.com/coq-io/io) - Library for effects in Coq.

@@ -79,7 +79,7 @@
 - [miniwdl](https://github.com/chanzuckerberg/miniwdl) - Workflow Description Language developer tools & local runner.
 - [Rain](https://github.com/substantic/rain) - Framework for large distributed pipelines.
 - [Apache SeaTunnel](https://seatunnel.apache.org/) - Distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time). ([Code](https://github.com/apache/incubator-seatunnel))
-- [Databend](https://github.com/datafuselabs/databend) - Open Source Serverless Data Warehouse for Everyone. ([Web](https://databend.rs/))
+- [Databend](https://github.com/datafuselabs/databend) - Open Source Serverless Data Warehouse for Everyone. ([Web](https://www.databend.com/)) ([GitHub](https://github.com/datafuselabs)) ([CLI](https://github.com/databendcloud/bendsql))
 - [Pydra](https://github.com/nipype/pydra) - Simple dataflow engine with scalable semantics.
 - [Bytewax](https://github.com/bytewax/bytewax) - Open source Python framework for building highly scalable dataflows.
 - [Atomic Data](https://docs.atomicdata.dev/) - Modular specification for sharing, modifying and modeling graph data. ([Code](https://github.com/ontola/atomic-data-docs)) ([Rust Code](https://github.com/joepio/atomic-data-rust))

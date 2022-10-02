@@ -996,6 +996,7 @@
 - [Futured](https://github.com/coady/futured) - Functional interface for concurrent futures, including asynchronous I/O.
 - [MMDA](https://github.com/allenai/mmda) - Multimodal document analysis.
 - [PhyloDM](https://github.com/aaronmussig/PhyloDM) - Efficient calculation of pairwise phylogenetic distance matrices.
+- [Spans](https://github.com/runfalk/spans) - Pure Python implementation of PostgreSQL's range types.
 
 ## Notes
 

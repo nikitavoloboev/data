@@ -604,3 +604,4 @@ title: Linux
 - [Seer](https://github.com/epasveer/seer) - GUI front end to GDB for Linux. ([HN](https://news.ycombinator.com/item?id=33044885))
 - [gf](https://github.com/nakst/gf) - GDB frontend for Linux.
 - [Kairos](https://github.com/kairos-io/kairos) - Kubernetes-focused, Cloud Native Linux meta-distribution.
+- [ftrace-hook](https://github.com/ilammy/ftrace-hook) - Using ftrace for function hooking in Linux kernel.

@@ -166,3 +166,4 @@
 - [SVG Tiler](https://github.com/edemaine/svgtiler) - Tool for drawing diagrams on a grid, combining grids of SVGs into a big SVG figure.
 - [svgpathtools](https://github.com/mathandy/svgpathtools) - Collection of tools for manipulating and analyzing SVG Path objects and Bezier curves.
 - [Experimenting A New Syntax To Write SVG (2022)](https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg) ([HN](https://news.ycombinator.com/item?id=32990177))
+- [svg-path-bounds](https://github.com/dy/svg-path-bounds) - Retrieve bounding box from svg path data.
