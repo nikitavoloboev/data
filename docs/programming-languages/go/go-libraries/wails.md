@@ -9,6 +9,7 @@ title: Wails
 ## OSS Wails apps
 
 - [EmailIt](https://github.com/raguay/EmailIt) - Using Svelte.
+- [Game of Life](https://github.com/mcosta74/game-of-life)
 
 ## Links
 

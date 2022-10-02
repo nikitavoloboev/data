@@ -448,3 +448,4 @@ title: PyTorch
 - [NeRF-Factory: An awesome PyTorch NeRF collection](https://github.com/kakaobrain/NeRF-Factory)
 - [NestedTensor](https://github.com/pytorch/nestedtensor) - Tools for the concurrent manipulation of variably sized Tensors.
 - [PyTorch Boiler](https://github.com/nmakes/pytorch_boiler) - Minimalistic boiler plate code for training PyTorch models.
+- [PyEPO](https://github.com/khalil-research/PyEPO) - PyTorch-based End-to-End Predict-then-Optimize Library for Linear and Integer Programming.

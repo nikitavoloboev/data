@@ -128,6 +128,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [terminal-columns](https://github.com/privatenumber/terminal-columns) - Render readable tables in the terminal.
 - [Soly](https://github.com/mdbetancourt/soly) - Powerful framework for building command-line apps with typescript.
 - [Clii](https://github.com/sigoden/clii) - Write some functions, JSDoc it, clii automatically turns it into a cli.
+- [molt](https://github.com/jasonkuhrt/molt) - CLI building blocks & framework for the TypeScript era.
 
 ## Crypto
 

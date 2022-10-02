@@ -334,6 +334,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [React Just Parallax](https://github.com/michalzalobny/react-just-parallax) - React library for scroll and mousemove parallax effect. Open source, production-ready.
 - [json-viewer](https://github.com/TexteaInc/json-viewer) - React component for JSON viewer, but not only a JSON viewer.
 - [Tremor](https://github.com/tremorlabs/tremor) - React library to build dashboards fast.
+- [Rive React](https://github.com/rive-app/rive-react) - React runtime for Rive.
 
 ## Links
 

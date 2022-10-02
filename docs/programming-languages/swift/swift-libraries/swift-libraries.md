@@ -566,6 +566,7 @@
 - [Controls](https://github.com/AudioKit/Controls) - SwiftUI Knobs, Sliders, X-Y Pads, and more.
 - [MarkdownText](https://github.com/shaps80/MarkdownText) - Native SwiftUI view for rendering Markdown text in an iOS or macOS app.
 - [Prism](https://github.com/aheze/Prism) - Lightweight 3D renderer for SwiftUI.
+- [SwiftfulLoadingIndicators](https://github.com/SwiftfulThinking/SwiftfulLoadingIndicators) - Collection of lightweight SwiftUI loading animations.
 
 ## Test
 

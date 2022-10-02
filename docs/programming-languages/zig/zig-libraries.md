@@ -50,6 +50,7 @@
 - [wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Zig embedding of Wasmtime.
 - [wasmer-zig](https://github.com/zigwasm/wasmer-zig) - Zig bindings for the Wasmer WebAssembly runtime.
 - [zig-wasm3](https://github.com/alichay/zig-wasm3) - Zig bindings (and build system integration) for Wasm3.
+- [wasm4-zig-runtime](https://github.com/leroycep/wasm4-zig-runtime)
 
 ## Games
 

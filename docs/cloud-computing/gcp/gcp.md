@@ -131,3 +131,4 @@ Looking into [Railway](https://railway.app/) & [Cloudflare](https://www.cloudfla
 - [Datastream for BigQuery Preview](https://cloud.google.com/datastream-for-bigquery) ([HN](https://news.ycombinator.com/item?id=32868092))
 - [Terraform Google Cloud NAT Module](https://github.com/terraform-google-modules/terraform-google-cloud-nat)
 - [Ask HN: Does anyone actually Use GCP? (2022)](https://news.ycombinator.com/item?id=32967081)
+- [GCP Config Connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) - Kubernetes add-on for managing GCP resources.

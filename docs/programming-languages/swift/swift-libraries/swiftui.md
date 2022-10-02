@@ -253,3 +253,4 @@ title: SwiftUI
 - [Natalia Panferova - Mysteries of SwiftUI Text View (2022)](https://www.youtube.com/watch?v=-l7RsBENLbI)
 - [Ultimate Guide to SwiftUI Animations (2022)](https://github.com/kishikawakatsumi/UltimateGuideToAnimations)
 - [SwiftUI Navigation & URL Routing - Brandon Williams (2022)](https://vimeo.com/751580644/6714fe76d6)
+- [Build iOS 16 Stocks App With SwiftUI & SwiftCharts Series](https://www.youtube.com/playlist?list=PLuecTl5TrGwtQRtT6wxI0-l0fN-2V5QTJ) ([Code](https://github.com/alfianlosari/stocksapptutorial))

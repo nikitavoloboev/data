@@ -123,6 +123,7 @@
 - [MAPIE](https://github.com/scikit-learn-contrib/MAPIE) - Scikit-learn-compatible module for estimating prediction intervals.
 - [modelcards](https://github.com/nateraw/modelcards) - Utility to create, edit, and publish model cards on the Hugging Face Hub.
 - [xbatcher](https://github.com/xarray-contrib/xbatcher) - Batch Generation from Xarray Datasets.
+- [scikit-opt](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python.
 
 ## Biology
 

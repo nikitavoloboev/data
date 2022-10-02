@@ -388,6 +388,7 @@
 - [Tips for Developers Who Want to Build a SaaS Startup (2022)](https://news.ycombinator.com/item?id=32647091)
 - [Ask HN: Which startups have the most interesting pivot stories? (2022)](https://news.ycombinator.com/item?id=32740486)
 - [A development process to ship features fast](https://growing-products.paralect.com/a-development-process-startup-founders-should-use-to-ship-features-weirdly-fast) ([HN](https://news.ycombinator.com/item?id=32816990))
+- [Solo founder dilemma; CEO or CTO? (2022)](https://nvnt.substack.com/p/solo-founder-dilemma-ceo-or-cto) ([HN](https://news.ycombinator.com/item?id=33046087))
 
 ## Images
 

@@ -838,6 +838,7 @@
 - [staticfilemap](https://github.com/Systemcluster/staticfilemap) - Procedural macro to embed optionally compressed files during compilation.
 - [Bassert](https://github.com/Qqwy/rust-bassert) - Better assertions for Rust.
 - [function_name](https://github.com/danielhenrymantilla/rust-function_name) - Macro that expands to the name of the annotated function.
+- [dry](https://github.com/coldriverstudio/dry-rs) - Rust macros for idiomatic deduplication of code.
 
 ## Math
 

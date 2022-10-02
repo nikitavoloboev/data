@@ -6,6 +6,10 @@ title: Qwik
 
 > DOM-Centric, Resumable Web-App Framework
 
+## OSS sites
+
+- [Vendure Qwik Storefront Starter️](https://github.com/vendure-ecommerce/storefront-qwik-starter) - E-commerce storefront for Vendure built with Qwik & Qwik City.
+
 ## Notes
 
 - [Qwik apps are instant in the browser because they resume. 1: Build step could boot the app and pause it. 2: Server would resume the app to only fill in the data parts. This would make SSR cost proportional to data size, not app size. Dynamic pre-rendering! where output is not HTML, but JS, that only renders the bare minimum (or nothing at all).](https://twitter.com/mhevery/status/1552693205136654337)
