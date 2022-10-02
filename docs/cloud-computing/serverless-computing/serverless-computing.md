@@ -180,3 +180,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Fastly Compute@Edge Starter Kit for Rust](https://github.com/fastly/compute-starter-kit-rust-default) ([With wasmtime](https://github.com/charliermarsh/fastly-compute-starter-kit-rust-default))
 - [Modern Serverless Job Schedulers (2022)](https://www.inngest.com/blog/modern-serverless-job-scheduler) ([HN](https://news.ycombinator.com/item?id=33010960))
 - [A simple calc serverless function with Capsule, NATS and Node.js (2022)](https://www.wasm.builders/k33g_org/a-simple-calc-serverless-function-with-capsule-nats-and-nodejs-2mnk)
+- [Rust Serverless Runtime](https://github.com/tbillington/rust_serverless_runtime) - Serverless runtime in 200 lines on top of Deno and SQLite.

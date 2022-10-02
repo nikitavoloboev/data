@@ -945,3 +945,4 @@
 - [Human Motion Diffusion Model (2022)](https://guytevet.github.io/mdm-page/) ([Code](https://github.com/GuyTevet/motion-diffusion-model)) ([HN](https://news.ycombinator.com/item?id=33029522))
 - [DreamFusion: Text-to-3D using 2D Diffusion (2022)](https://dreamfusion3d.github.io/) ([HN](https://news.ycombinator.com/item?id=33025446))
 - [Recent Advanced in Vision-and-Language Pre-training (2022)](https://vlp-tutorial.github.io/2022/)
+- [DeepInteraction: 3D Object Detection via Modality Interaction (2022)](https://arxiv.org/abs/2208.11112) ([Code](https://github.com/fudan-zvg/DeepInteraction))

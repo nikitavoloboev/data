@@ -71,3 +71,4 @@ title: JAX
 - [Euclidean Neural Networks Jax](https://github.com/e3nn/e3nn-jax)
 - [Jax + CUDA boilerplate](https://github.com/brentyi/jax_cuda_boilerplate)
 - [mlff](https://github.com/thorben-frank/mlff) - Build neural networks for machine learning force fields with JAX.
+- [Jax-Triton](https://github.com/jax-ml/jax-triton) - Integrations between JAX and Triton.

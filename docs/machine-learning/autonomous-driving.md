@@ -78,3 +78,4 @@
 - [Awesome BEV Perception from Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras)
 - [Awesome BEV perception papers and cookbook for achieving SOTA results](https://github.com/OpenPerceptionX/BEVPerception-Survey-Recipe)
 - [OpenLane](https://github.com/OpenPerceptionX/OpenLane) - Large-scale Realistic 3D Lane Dataset.
+- [A Simple Baseline for BEV Perception Without LiDAR (2022)](https://arxiv.org/abs/2206.07959) ([Code](https://github.com/aharley/simple_bev))

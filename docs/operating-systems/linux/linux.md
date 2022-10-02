@@ -23,7 +23,7 @@ title: Linux
 - [Rocky Linux](https://rockylinux.org/) - Community-driven, enterprise-ready OS. ([Code](https://github.com/rocky-linux/rocky)) ([Website Code](https://github.com/rocky-linux/rockylinux.org)) ([Infrastructure](https://github.com/rocky-linux/infrastructure)) ([HN](https://news.ycombinator.com/item?id=25445725)) ([HN](https://news.ycombinator.com/item?id=32097950))
 - [Debian](https://www.debian.org/) ([Ultimate Debian Database](https://wiki.debian.org/UltimateDebianDatabase)) ([HN](https://news.ycombinator.com/item?id=25584695)) ([HN 2](https://news.ycombinator.com/item?id=25785925)) (Debian Reference)
 - [Fedora](https://getfedora.org/)
-- [Manjaro](https://manjaro.org/)
+- [Manjaro](https://manjaro.org/) ([Why you shouldn't use Manjaro](https://manjarno.snorlax.sh/))
 - [Gentoo](https://www.gentoo.org/) - Highly flexible, source-based Linux distribution. ([Gentoo Packages](https://github.com/gentoo/gentoo))
 - [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
 - [Glacies](https://eltan.in.net/blog/2021/01/13/0/) - Linux distribution using Eltanin userspace.
