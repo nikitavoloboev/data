@@ -129,3 +129,4 @@ title: Raspberry Pi
 - [PiJuice](https://github.com/PiSupply/PiJuice) - Fully uninterruptable / uninterupted power supply that will always keep your Raspberry Pi powered.
 - [balenaSound](https://github.com/balenalabs/balena-sound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect.
 - [cyw43](https://github.com/embassy-rs/cyw43) - Pure-Rust driver for the CYW43439 (WiFi chip used in the Raspberry Pi Pico W).
+- [Laser device for neutralizing - mosquitoes, asian hornet, weeds and pests](https://github.com/Ildaron/Laser_control)
