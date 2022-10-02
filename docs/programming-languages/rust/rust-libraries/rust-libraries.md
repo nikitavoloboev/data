@@ -607,6 +607,7 @@
 - [Proof Toolbox](https://github.com/geometryresearch/proof-toolbox) - Cryptographic primitives and protocols that can be used to build higher level protocols and schemes.
 - [JOSE](https://github.com/RustCrypto/JOSE) - Pure Rust implementation of JavaScript Object Signing and Encryption (JOSE).
 - [pairing](https://github.com/nccgroup/pairing) - Optimizations for Pairing-Based Cryptography.
+- [ore.rs](https://github.com/cipherstash/ore.rs) - Order-revealing encryption library used by the CipherStash searchable encryption platform.
 
 ## Linux
 

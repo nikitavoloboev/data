@@ -46,3 +46,4 @@
 - [Botspam apocalypse](https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi) ([HN](https://news.ycombinator.com/item?id=32339314))
 - [BlenderBot 3: A 175B parameter, publicly available chatbot (2022)](https://ai.facebook.com/blog/blenderbot-3-a-175b-parameter-publicly-available-chatbot-that-improves-its-skills-and-safety-over-time/) ([HN](https://news.ycombinator.com/item?id=32358078))
 - [OxidizeBot](https://github.com/udoprog/OxidizeBot) - High performance Twitch bot in Rust.
+- [BotMate](https://github.com/botmate/botmate) - Modern platform to build and deploy messaging chat bots.
