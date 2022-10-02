@@ -30,3 +30,4 @@ title: Temporal
 - [Temporal Electronic Signature](https://github.com/Devessier/temporal-electronic-signature) - Demonstration of Temporal Node.js SDK used with XState to write workflows.
 - [Linking your Microservices with Workflows (2022)](https://www.youtube.com/watch?v=mAlkxjfeWYk)
 - [Temporal Go Project Template](https://github.com/temporalio/money-transfer-project-template-go)
+- [Temporal running on Render example](https://github.com/render-examples/temporal)

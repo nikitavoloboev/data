@@ -56,3 +56,4 @@ title: Kotlin
 - [Exploring Kotlin's Context Receivers (2022)](https://nomisrev.github.io/context-receivers/)
 - [My favorite Kotlin feature (2022)](https://nomisrev.github.io/inline-and-suspend/)
 - [Continuation in Kotlin (2021)](https://nomisrev.github.io/continuation-monad-in-kotlin/)
+- [Kotlin grammar for Tree-Sitter](https://github.com/fwcd/tree-sitter-kotlin)
