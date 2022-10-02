@@ -664,6 +664,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [libseccomp-go](https://github.com/seccomp/libseccomp-golang) - Easy to use, platform independent, interface to the Linux Kernel's syscall filtering mechanism.
 - [go-evdev](https://github.com/holoplot/go-evdev) - Go support for the Linux evdev interface.
 - [Go Landlock](https://github.com/landlock-lsm/go-landlock) - Go library for the Linux Landlock sandboxing feature.
+- [ZSocket](https://github.com/newtools/zsocket) - Zero-copy sockets for Linux in Go.
 
 ## Apple
 

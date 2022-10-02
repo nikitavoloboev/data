@@ -14,6 +14,7 @@ Many people still have bad stigma attached of people sharing nudes in public but
 - [REKT](https://www.instagram.com/rektmag/) ([Web](https://www.rektmag.net/)) ([Links](https://linktr.ee/NausicaaYami))
 - [Nick Yashika](https://www.instagram.com/nickyashika/) ([Twitter](https://twitter.com/NickYashika))
 - [Andrey Chagin](https://www.instagram.com/aandreychagin/) ([Twitter](https://twitter.com/aandreychagin))
+- [Dawid Imach](https://www.instagram.com/dawidimach/) ([Twitter](https://twitter.com/dawidimach))
 
 ## Reddit
 

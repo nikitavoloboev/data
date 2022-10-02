@@ -353,3 +353,4 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [What Game Made You Wish You Were In It, In Real Life While Playing It?](https://www.reddit.com/r/PS4/comments/x5m0kn/what_game_made_you_wish_you_were_in_it_in_real/)
 - [Gamercade](https://gamercade.io/) - WASM powered, multiplayer-first, Fantasy Console. ([Code](https://github.com/gamercade-io/gamercade_console))
 - [‘Pong’ on a rock wall with Augmented Climbing](https://twitter.com/Rainmaker1973/status/1570057282049777665)
+- [Steam Deck Guide](https://github.com/mikeroyal/Steam-Deck-Guide)

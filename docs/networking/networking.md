@@ -523,3 +523,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Notes from Tail Latency Aware Caching Paper by RobinHood (2022)](https://kracekumar.com/post/tail_latency_aware_caching/)
 - [Ziti](https://github.com/openziti/ziti) - Programmable network overlay and edge components for zero-trust networking. ([HN](https://news.ycombinator.com/item?id=32982136))
 - [Measure latency](http://ping.projects.chrisjeakle.com/) - Ultra-light-weight tool to quickly test your ping. ([Code](https://github.com/cjjeakle/network-monitor)) ([HN](https://news.ycombinator.com/item?id=33049820))
+- [Snabb](https://github.com/snabbco/snabb) - Simple and fast packet networking toolkit.

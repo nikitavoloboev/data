@@ -21,3 +21,4 @@
 - [Quadcopter](https://github.com/arnaudhe/quadcopter) - DIY quadcopter based on ESP32-WROOM.
 - [Drone based wheel-ruts semantic segmentation](https://github.com/SmartForest-no/wheelRuts_semanticSegmentation)
 - [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software. ([HN](https://news.ycombinator.com/item?id=32094603))
+- [Rust-MAVLink](https://github.com/mavlink/rust-mavlink) - Rust implementation of the MAVLink UAV messaging protocol, with bindings for all message sets.

@@ -417,3 +417,4 @@
 - [Rauversion](https://rauversion.com/) - Open source music sharing platform. Built on Elixir with Phoenix framework. ([Code](https://github.com/rauversion/rauversion-phx))
 - [Various simple Web Audio API examples](https://github.com/joshreiss/Working-with-the-Web-Audio-API)
 - [Musico Streams](https://www.musi-co.com/listen/streams) - AI Generated Music. ([HN](https://news.ycombinator.com/item?id=33027376))
+- [PO-80](https://teenage.engineering/products/po-80) - Record factory is a compact and portable record cutter.
