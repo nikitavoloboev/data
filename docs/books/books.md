@@ -329,6 +329,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Ask HN: What book have you re-read 3x or more? (2022)](https://news.ycombinator.com/item?id=32712496)
 - [Your favorite book? (2022)](https://www.reddit.com/r/suggestmeabook/comments/xa3jwr/your_favorite_book/)
 - [Ask HN: Which books you have read till now that were worth investing time in? (2022)](https://news.ycombinator.com/item?id=32935412)
+- [What are you reading currently and how are you liking it? (2022)](https://www.reddit.com/r/suggestmeabook/comments/xsunn4/what_are_you_reading_currently_and_how_are_you/)
 
 ## Interesting Prose Books
 

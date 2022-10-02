@@ -430,3 +430,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Melang](https://github.com/Water-Melon/Melang) - Script language of preemptive scheduling coroutine in single thread.
 - [Duo](https://github.com/duo-lang/duo-lang) - Research language focused on the combination of subtyping, type inference and type-theoretic dualities.
 - [CodeGeeX](https://github.com/THUDM/CodeGeeX) - Open Multilingual Code Generation Model.
+- [Adventures in Dynamic Software, Visualisations, Creating a JVM Language, UI, and More (2022)](https://luisthiamnye.substack.com/p/adventures-in-dynamic-software-visualisations)

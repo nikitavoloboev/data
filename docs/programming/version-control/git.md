@@ -579,3 +579,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Scaling Git’s garbage collection (2022)](https://github.blog/2022-09-13-scaling-gits-garbage-collection/) ([HN](https://news.ycombinator.com/item?id=32826072))
 - [Signing Git Commits with Your SSH Key (2021)](https://calebhearth.com/sign-git-with-ssh) ([HN](https://news.ycombinator.com/item?id=32831731))
 - [GRM](https://github.com/hakoerber/git-repo-manager) - Helps you manage git repositories in a declarative way.
+- [Hookz](https://github.com/devops-kung-fu/hookz) - Manages client side git hooks resulting in the ability to create git action pipelines.
