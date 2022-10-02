@@ -157,3 +157,4 @@
 - [The Little Things: My "radical" opinions about unit tests (2022)](https://codingnest.com/the-little-things-my-radical-opinions-about-unit-tests/) ([Lobsters](https://lobste.rs/s/wgswc6/little_things_my_radical_opinions_about))
 - [Continuous Load Testing at Slack (2022)](https://slack.engineering/continuous-load-testing/)
 - [Capybara](http://teamcapybara.github.io/capybara/) - Acceptance test framework for web applications. ([Code](https://github.com/teamcapybara/capybara)) ([Test Helpers](https://github.com/ElMassimo/capybara-compose))
+- [Running 1000 tests in 1s (2022)](https://marvinh.dev/blog/running-1000-test-in-1s/)

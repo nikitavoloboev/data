@@ -314,3 +314,4 @@
 - [Polysemanticity in neural networks](https://twitter.com/AnthropicAI/status/1570087876053942272)
 - [How does the Deep & Cross Network v2 find good feature interactions? (2022)](https://www.tabularmusings.com/posts/feature-interactions-dcnv2/) ([Tweet](https://twitter.com/radekosmulski/status/1573862365883310080))
 - [10 Days Of Grad: Deep Learning From The First Principles](https://penkovsky.com/neural-networks/) ([Code](https://github.com/konn/dl-first-principle-tutorial))
+- [Tesla AI Day 2022 Neural Net](https://twitter.com/OriolVinyalsML/status/1576551879039127555)

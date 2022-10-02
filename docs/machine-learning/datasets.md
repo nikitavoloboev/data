@@ -202,3 +202,5 @@
 - [Hugging Face Datasets Converter](https://github.com/nateraw/huggingface-datasets-converter) - Scripts to convert datasets from various sources to Hugging Face Datasets.
 - [Multimodal datasets: misogyny, pornography, and malignant stereotypes (2022)](https://arxiv.org/abs/2110.01963) ([Tweet](https://twitter.com/Abebab/status/1569366164442173448))
 - [Click Points](https://github.com/fabrylab/clickpoints) - Image viewer and on the other hand as an data display and annotation tool.
+- [FastDup](https://github.com/visualdatabase/fastdup) - Tool for gaining insights from a large image collection.
+- [Downstream Datasets Make Surprisingly Good Pretraining Corpora (2022)](https://arxiv.org/abs/2209.14389) ([Tweet](https://twitter.com/zacharylipton/status/1575875021498720256))

@@ -31,3 +31,4 @@
 - [Owl](https://github.com/jdrprod/owl) - Tiny logic programming language highly inspired by Prolog.
 - [The joy of concurrent logic programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
 - [Ascent](https://github.com/s-arash/ascent) - Logic programming language (similar to Datalog) embedded in Rust via macros.
+- [miniKanren with a first-order representation of the search space](https://github.com/gregr/first-order-miniKanren)

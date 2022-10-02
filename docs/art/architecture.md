@@ -109,3 +109,4 @@
 - [WikiHouse](https://www.wikihouse.cc/) - Open source, modular, wood based, zero carbon housing. ([HN](https://news.ycombinator.com/item?id=32748592))
 - [The Solarchitecture Newsletter](https://solarchitect.substack.com/) - Learn about building solar, resilient, regenerative architecture. ([Twitter](https://twitter.com/Solarchitects))
 - [Inside Emma Chamberlain's Radiant New Home (2022)](https://www.youtube.com/watch?v=PqpCeiYycVM)
+- [InteriorAI.com](https://interiorai.com/)
