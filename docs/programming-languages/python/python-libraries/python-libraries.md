@@ -67,6 +67,7 @@
 - [requests-cache](https://github.com/requests-cache/requests-cache) - Transparent persistent cache for python requests.
 - [waiter](https://github.com/coady/waiter) - Delayed iteration for polling and retries.
 - [Clients](https://github.com/coady/clients) - High-level HTTP clients for Python.
+- [stamina](https://github.com/hynek/stamina) - Composable toolkit for handling retries.
 
 ## ML
 

@@ -70,3 +70,4 @@ title: JAX
 - [v-diffusion-jax](https://github.com/crowsonkb/v-diffusion-jax) - V objective diffusion inference code for JAX.
 - [Euclidean Neural Networks Jax](https://github.com/e3nn/e3nn-jax)
 - [Jax + CUDA boilerplate](https://github.com/brentyi/jax_cuda_boilerplate)
+- [mlff](https://github.com/thorben-frank/mlff) - Build neural networks for machine learning force fields with JAX.

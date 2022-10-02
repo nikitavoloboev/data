@@ -127,3 +127,4 @@ Might give it a go sometime.
 - [Emacs and Eev, Or: How to Automate Almost Everything](http://angg.twu.net/eev-article.html) ([HN](https://news.ycombinator.com/item?id=32419404))
 - [Emacs overlay for Nixpkgs](https://github.com/nix-community/emacs-overlay)
 - [Get Things Done with Emacs](https://www.labri.fr/perso/nrougier/GTD/index.html) ([HN](https://news.ycombinator.com/item?id=33033017))
+- [Emacs-like editors written in Common Lisp](https://www.cliki.net/cl-emacs)

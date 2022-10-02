@@ -46,3 +46,4 @@ title: LSD
 - [LSD microdosing does not appear to improve mood or cognitive ability: study (2022)](https://www.psypost.org/2022/06/lsd-microdosing-does-not-appear-to-improve-mood-or-cognitive-ability-according-to-new-placebo-controlled-study-63277) ([HN](https://news.ycombinator.com/item?id=31632680))
 - [The single best thing to do while tripping on LSD](https://www.reddit.com/r/LSD/comments/sbowfl/the_single_best_thing_to_do_while_tripping_on_lsd/)
 - [Music for LSD playlist](https://open.spotify.com/playlist/4dmGzrDcSFwQIgwx882Sv0) ([Tweet](https://twitter.com/Aella_Girl/status/1570881981550034944))
+- [LSD-like molecules counter depession without the trip (2022)](https://www.ucsf.edu/news/2022/09/423891/lsd-molecules-counter-depression-without-trip) ([HN](https://news.ycombinator.com/item?id=33052550))

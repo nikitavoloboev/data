@@ -122,3 +122,4 @@ title: GPU
 - [Running Stable Diffusion on Your GPU with Less Than 10Gb of VRAM (2022)](https://constant.meiring.nz/playing/2022/08/04/playing-with-stable-diffusion.html) ([HN](https://news.ycombinator.com/item?id=32710365))
 - [What are Tensor Cores?](https://twitter.com/cHHillee/status/1567590401028296704)
 - [GeForce RTX 40 Series](https://www.nvidia.com/es-es/geforce/graphics-cards/40-series/) ([HN](https://news.ycombinator.com/item?id=32912953))
+- [Nvidia GPU exporter for Prometheus](https://github.com/utkuozdemir/nvidia_gpu_exporter)
