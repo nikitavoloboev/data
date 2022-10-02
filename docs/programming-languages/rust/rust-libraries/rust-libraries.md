@@ -341,6 +341,7 @@
 - [encrypted-sled](https://github.com/jpopesculian/encrypted-sled) - Drop in replacement / wrapper around the amazing sled embedded database.
 - [Speculare Server](https://github.com/speculare-cloud/speculare-server) - Receive, store info coming from the client into the database and handle alerts to report incidents based on criteria.
 - [ekv](https://github.com/Dirbaio/ekv) - Key-value store for embedded systems, for raw NOR flash, using an LSM-Tree.
+- [linked-hash-map](https://github.com/contain-rs/linked-hash-map) - HashMap wrapper that holds key-value pairs in insertion order.
 
 ## Video
 
@@ -2205,6 +2206,7 @@
 - [CAPTCHA](https://github.com/daniel-e/captcha) - Library to generate CAPTCHAs.
 - [OBWS](https://github.com/dnaka91/obws) - Remote control OBS with the obs-websocket plugin from Rust.
 - [boba](https://github.com/artichoke/boba) - Rust implementation of the Bubble Babble binary data encoding.
+- [bit-vec](https://github.com/contain-rs/bit-vec) - Vec of Bits.
 
 ## Cargo Plugins
 

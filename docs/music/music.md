@@ -228,3 +228,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - Spotify music and playlist downloader written in Rust which also works with a free Spotify account.
 - [Ask HN: How do you discover music? (2022)](https://news.ycombinator.com/item?id=32835559)
 - [Music Player Daemon](https://www.musicpd.org/) - Daemon for playing music of various formats. ([Code](https://github.com/MusicPlayerDaemon/MPD))
+- [Bandsnatch](https://github.com/Ovyerus/bandsnatch) - CLI batch downloader for your Bandcamp collection.

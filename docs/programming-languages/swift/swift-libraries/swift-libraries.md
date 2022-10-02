@@ -275,6 +275,7 @@
 - [SHSearchBar](https://github.com/Blackjacx/SHSearchBar) - Clean and shiny search bar that does what UISearchBar does only with dirty hacks.
 - [Datadog SDK for iOS and tvOS](https://github.com/DataDog/dd-sdk-ios) - Swift and Objective-C libraries to interact with Datadog on iOS and tvOS.
 - [Shiny](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
+- [Rive iOS](https://github.com/rive-app/rive-ios) - iOS runtime library for Rive that supports both UIKit and SwiftUI.
 
 ## macOS
 

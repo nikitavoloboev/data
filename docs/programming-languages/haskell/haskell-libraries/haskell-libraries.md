@@ -378,6 +378,7 @@
 - [Grampa](https://github.com/blamario/grampa) - Grammar parser - combinator library for parsing a general context-free grammar.
 - [mld](https://github.com/plt-amy/mld) - Experiment in compositional typings.
 - [tomland](https://github.com/kowainik/tomland) - Bidirectional TOML serialization.
+- [pqueue](https://github.com/lspitzner/pqueue) - Haskell priority queue package.
 
 ## Notes
 

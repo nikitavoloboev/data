@@ -34,3 +34,4 @@ title: Cosmos
 - [CosmWasm IBC Queries](https://github.com/JakeHartnell/cw-ibc-queries) - Implements generic IBC queries in CosmWasm.
 - [Telescope](https://github.com/osmosis-labs/telescope) - TypeScript Transpiler for Cosmos Protobufs.
 - [Neutron](https://github.com/neutron-org/neutron) - Smart Contract platform secured by Cosmos Hub.
+- [Horoscope](https://github.com/aura-nw/horoscope) - Crawls data from Cosmos chains, stores and indexes everything into a MongoDB for easy access from clients.
