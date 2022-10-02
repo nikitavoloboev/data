@@ -229,6 +229,7 @@
 - [pygmsh](https://github.com/nschloe/pygmsh) - Provides useful abstractions from Gmsh's own Python interface so you can create complex geometries more easily.
 - [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 - [mesh_to_sdf](https://github.com/marian42/mesh_to_sdf) - Calculate signed distance fields for arbitrary meshes.
+- [Raylib-Python-CFFI](https://github.com/electronstudio/raylib-python-cffi) - Python CFFI bindings for Raylib.
 
 ## Crypto
 
