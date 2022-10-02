@@ -26,3 +26,4 @@ title: Qwik
 - [Pure HTML streaming with Qwik (2022)](https://www.youtube.com/watch?v=yVOI81GKZBo)
 - [The Future of Web Routing (2022)](https://www.youtube.com/watch?v=3t7wqGQKbK4)
 - [Qwik… the world's first O(1) JavaScript framework? (2022)](https://www.youtube.com/watch?v=x2eF3YLiNhY)
+- [Qwik: Beta and Beyond (2022)](https://www.youtube.com/watch?v=Tfd62DiRTKc)

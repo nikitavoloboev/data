@@ -944,3 +944,4 @@
 - [Awesome Monocular 3D detection](https://github.com/BigTeacher-777/Awesome-Monocular-3D-detection)
 - [Human Motion Diffusion Model (2022)](https://guytevet.github.io/mdm-page/) ([Code](https://github.com/GuyTevet/motion-diffusion-model)) ([HN](https://news.ycombinator.com/item?id=33029522))
 - [DreamFusion: Text-to-3D using 2D Diffusion (2022)](https://dreamfusion3d.github.io/) ([HN](https://news.ycombinator.com/item?id=33025446))
+- [Recent Advanced in Vision-and-Language Pre-training (2022)](https://vlp-tutorial.github.io/2022/)

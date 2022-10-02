@@ -756,3 +756,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Height - Intake form tool](https://height.app/product/forms)
 - [Skew for After-Effects](https://www.goodboy.ninja/skew) ([Tweet](https://twitter.com/goodboyninja/status/1570537505614868482))
 - [Why I don't Use Prettier](https://antfu.me/posts/why-not-prettier) ([Tweet](https://twitter.com/antfu7/status/1576164644338958338))
+- [Evaluating integrated development environments (2022)](https://macoy.me/blog/programming/IntegratedDevelopmentEnvironment)

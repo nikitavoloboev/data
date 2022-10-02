@@ -93,3 +93,4 @@ I use [HAG Capisco chair](https://twitter.com/rsms/status/1521765828303245313) I
 - [Ask HN: Why are there so few artificial sunlight or artificial window products? (2022)](https://news.ycombinator.com/item?id=32220349)
 - [Ask HN: How do you deal with neck and back pain? (2022)](https://news.ycombinator.com/item?id=32328633)
 - [Best adjustable standing desk on the market (2022)](https://twitter.com/jamesm/status/1574378764959879168)
+- [Sitting setup to avoid posture problems and crippling long-term injuries](https://twitter.com/ItsKieranDrew/status/1576190456689577984)
