@@ -608,6 +608,7 @@
 - [JOSE](https://github.com/RustCrypto/JOSE) - Pure Rust implementation of JavaScript Object Signing and Encryption (JOSE).
 - [pairing](https://github.com/nccgroup/pairing) - Optimizations for Pairing-Based Cryptography.
 - [ore.rs](https://github.com/cipherstash/ore.rs) - Order-revealing encryption library used by the CipherStash searchable encryption platform.
+- [cretrit](https://github.com/enquo/cretrit) - Comparison-Revealing Encryption primitives.
 
 ## Linux
 
