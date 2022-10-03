@@ -82,3 +82,4 @@ title: Android
 - [Maestro](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation.
 - [Gradle Best Practices Plugin](https://github.com/autonomousapps/gradle-best-practices-plugin)
 - [Android binary file parser written in Go](https://github.com/shogo82148/androidbinary)
+- [Waylovely](https://github.com/waylovely-project/waylovely) - Run all your Linux graphical apps on Android.

@@ -631,6 +631,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [csv.js](https://github.com/wilsonzlin/csv.js) - Fast error-free CSV parser.
 - [Deferred Promise](https://github.com/open-draft/deferred-promise) - Promise-compatible abstraction that defers resolving/rejecting promises to another closure.
 - [Primer Primitives](https://github.com/primer/primitives) - Color, typography, and spacing primitives in JSON.
+- [Snowyflake](https://github.com/negezor/snowyflake) - Modern implementation Snowflake on TypeScript.
+- [Middleware-IO](https://github.com/negezor/middleware-io) - Modern middleware on Promise.
 
 ## Links
 

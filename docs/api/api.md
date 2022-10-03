@@ -72,6 +72,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Notion Go](https://github.com/kjk/notionapi)
 - [Notion Python](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
 - [VK Go](https://github.com/SevereCloud/vksdk)
+- [VK Node](https://github.com/negezor/vk-io) - Modern VK API SDK for Node.js.
 - [VK Python](https://github.com/voronind/vk)
 - [VK Kotlin](https://github.com/Anton3/kotlin-vk-api)
 - [VK API JSON Schema](https://github.com/VKCOM/vk-api-schema)

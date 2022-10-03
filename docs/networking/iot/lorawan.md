@@ -106,3 +106,5 @@ title: LoRaWAN
 - [LoRa Mesh Network Node](https://github.com/brucemack/WARS-Birdhouse)
 - [LoRa / LoRaWAN + TTN for MicroPython (ESP32)](https://github.com/fantasticdonkey/uLoRa)
 - [Meshtastic](https://www.meshtastic.org/) - Encrypted communications platform for the Lora RF protocol. ([Code](https://github.com/meshtastic/Meshtastic)) ([Docs](https://meshtastic.org/docs/about)) ([HN](https://news.ycombinator.com/item?id=32016142))
+- [LMIC-node](https://github.com/lnlp/LMIC-node) - Example LoRaWAN application for a node for The Things Network.
+- [Pico-LoRaWAN](https://github.com/ArmDeveloperEcosystem/lorawan-library-for-pico) - Enable LoRaWAN communications on your Raspberry Pi Pico or any RP2040 based board.

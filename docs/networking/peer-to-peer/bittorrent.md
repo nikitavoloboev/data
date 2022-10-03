@@ -134,3 +134,4 @@ title: BitTorrent
 - [serde-bencode](https://github.com/toby/serde-bencode) - Serde backed Bencode encoding/decoding library for Rust.
 - [Parasite](https://github.com/bit-bandit/parasite) - Modern torrent indexer with some federation capacities.
 - [newTrackon](https://github.com/CorralPeltzer/newTrackon) - Public open BitTorrent trackers monitoring tool.
+- [Hybrid-Torrent-Tracker](https://github.com/negezor/hybrid-torrent-tracker) - Torrent tracker for Node.js with HTTP and UDP support based middleware.
