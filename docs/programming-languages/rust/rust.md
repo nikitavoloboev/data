@@ -907,3 +907,4 @@ title: Rust
 - [Why Async Rust (2022)](https://blog.yoshuawuyts.com/why-async-rust/)
 - [Rust performance learnings](https://twitter.com/mitsuhiko/status/1574111445473579008)
 - [“Rust is safe” is not some kind of absolute guarantee of code safety (2022)](https://lkml.org/lkml/2022/9/19/1105#1105.php) ([HN](https://news.ycombinator.com/item?id=33056077)) ([Reddit](https://www.reddit.com/r/rust/comments/xtsa1o/lkml_linus_torvalds_re_patch_v9_1227_rust_add/))
+- [No Boilerplate - YouTube](https://www.youtube.com/c/NoBoilerplate/videos) - Fast technical videos. ([Code](https://github.com/0atman/noboilerplate))

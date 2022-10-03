@@ -257,6 +257,7 @@ title: GitHub actions
 - [Send a tweet from a GitHub Actions workflow](https://github.com/ethomson/send-tweet-action)
 - [GitHub-Release-Action](https://github.com/elgohr/Github-Release-Action) - Creates a plain Github release, without attaching assets or source code.
 - [actionsx/prettier](https://github.com/actionsx/prettier) - Native, blazingly-fast Prettier CLI on Github Actions.
+- [Create Nightly Release](https://github.com/viperproject/create-nightly-release) - GitHub action to create a new pre-release and delete old pre-releases created by this action.
 
 ## Go
 

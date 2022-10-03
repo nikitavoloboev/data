@@ -173,6 +173,9 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Ryan Mulligan](https://ryanmulligan.dev/blog/)
 - [Yuan Chuan](https://yuanchuan.dev/)
 - [Micah Cantor](https://www.micahcantor.com/)
+- [Surma](https://surma.dev/)
+- [Christoph Nakazawa](https://cpojer.net/)
+- [Jingnan Shi](https://jingnanshi.com/blog/index.html)
 
 ## Notes
 

@@ -282,3 +282,5 @@
 - [Teaching C (2016)](https://blog.regehr.org/archives/1393) ([HN](https://news.ycombinator.com/item?id=32798826))
 - [Cake](https://github.com/thradams/cake) - C23 compiler frond end written from scratch in C.
 - [C Project Based Tutorials](https://github.com/SWPFlow/C-Project-Based-Tutorials)
+- [C Programming for Everybody](https://www.cc4e.com/) ([Code](https://github.com/csev/cc4e))
+- [Illuminating synchronization edges for ThreadSanitizer (2022)](https://nullprogram.com/blog/2022/10/03/)

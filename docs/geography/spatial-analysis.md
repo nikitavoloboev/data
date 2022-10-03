@@ -256,3 +256,5 @@ title: Spatial analysis
 - [itk-wasm](https://github.com/InsightSoftwareConsortium/itk-wasm) - High performance spatial analysis in a web browser, Node.js, and across programming languages and hardware architectures.
 - [Iaso](https://github.com/BLSQ/iaso) - Geo-aware Data Collection, Curation and Analysis.
 - [derive](https://github.com/erik/derive) - Generate a heatmap from GPS tracks.
+- [Qwant Maps](https://www.qwant.com/maps/) - Map application that respects your privacy. ([Code](https://github.com/Qwant/qwantmaps))
+- [Predicting (and learning) taxi trip durations in real-time](https://github.com/MaxHalford/taxi-demo-rp-mz-rv-rd-st) - Self-contained demo using Redpanda, Materialize, River, Redis, and Streamlit to predict taxi trip durations.

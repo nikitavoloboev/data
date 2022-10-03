@@ -399,3 +399,4 @@
 - [History of Math summarized in one page](https://twitter.com/mattecapu/status/1570783692641169409)
 - [Ask HN: A math study program? (2022)](https://news.ycombinator.com/item?id=32923390)
 - [Mathematically Structured Programming Group @ University of Strathclyde](https://msp.cis.strath.ac.uk/)
+- [Arun's Method for 3D Registration (2021)](https://jingnanshi.com/blog/arun_method_for_3d_reg.html)

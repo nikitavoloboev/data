@@ -453,3 +453,4 @@
 - [warc-embed](https://github.com/harvard-lil/warc-embed) - Proxy and wrapper for safely embedding Web Archives (.warc.gz, .wacz) into web pages.
 - [A World Wide View of Browsing the World Wide (2022)](https://zakird.com/papers/browsing.pdf)
 - [How to build a personal webpage from scratch (2022)](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/) ([HN](https://news.ycombinator.com/item?id=33017056))
+- [Annotate](https://github.com/molly/annotate) - Annotate text and publish it on the web.

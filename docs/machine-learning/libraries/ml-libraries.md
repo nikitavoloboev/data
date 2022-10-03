@@ -396,3 +396,4 @@ title: ML Libraries
 - [Open3D-ML](https://github.com/isl-org/Open3D-ML) - Extension of Open3D to address 3D Machine Learning tasks.
 - [Daft](https://github.com/Eventual-Inc/Daft) - Fast, ergonomic and scalable open-source dataframe library: built for Python and Complex Data/Machine Learning workloads.
 - [StellarGraph](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs.
+- [Sliceline](https://github.com/DataDome/sliceline) - Python library for fast slice finding for Machine Learning model debugging.

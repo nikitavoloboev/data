@@ -33,3 +33,4 @@ title: Service workers
 - [Random notes around service workers development and testing (2022)](https://mmazzarolo.com/blog/2022-06-18-service-workers-tips-and-tricks/)
 - [make-asynchronous](https://github.com/sindresorhus/make-asynchronous) - Make a synchronous function asynchronous by running it in a worker.
 - [Speed Up Your Site with Workers (2022)](https://www.youtube.com/watch?v=yEtT0C4vsRM)
+- [Service Workers Spec](https://w3c.github.io/ServiceWorker/) ([Code](https://github.com/w3c/ServiceWorker))

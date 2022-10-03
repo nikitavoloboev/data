@@ -79,3 +79,4 @@
 - [Awesome BEV perception papers and cookbook for achieving SOTA results](https://github.com/OpenPerceptionX/BEVPerception-Survey-Recipe)
 - [OpenLane](https://github.com/OpenPerceptionX/OpenLane) - Large-scale Realistic 3D Lane Dataset.
 - [A Simple Baseline for BEV Perception Without LiDAR (2022)](https://arxiv.org/abs/2206.07959) ([Code](https://github.com/aharley/simple_bev))
+- [Visual Navigation for Autonomous Vehicles (VNAV) MIT Course (2022)](https://ocw.mit.edu/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/) ([Code](https://github.com/MIT-SPARK/VNAV-labs))

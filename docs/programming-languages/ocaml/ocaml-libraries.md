@@ -217,6 +217,7 @@ title: OCaml libraries
 - [Bindlib](https://github.com/rlepigre/ocaml-bindlib) - Efficient binder representation in OCaml.
 - [ocaml-earley](https://github.com/rlepigre/ocaml-earley) - Parsing library based on Earley Algorithm.
 - [Accessor](https://github.com/janestreet/accessor) - Library that makes it nicer to work with nested functional data structures.
+- [Cinaps](https://github.com/ocaml-ppx/cinaps) - Trivial Metaprogramming tool using the OCaml toplevel.
 
 ## Links
 

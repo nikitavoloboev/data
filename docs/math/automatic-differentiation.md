@@ -47,3 +47,4 @@ title: Automatic differentiation
 - [Differentiable programming from scratch (2022)](https://thenumb.at/Autodiff/) ([HN](https://news.ycombinator.com/item?id=32300351))
 - [Discussion on Solving Partial Differential Equations using Neural Networks](https://github.com/timudk/SPDENN)
 - [Automatic Differentiation in 38 lines of Haskell](https://gist.github.com/ttesmer/948df432cf46ec6db8c1e83ab59b1b21) ([HN](https://news.ycombinator.com/item?id=32879734))
+- [Automatic Differentiation: Forward and Reverse (2022)](https://jingnanshi.com/blog/autodiff.html) ([HN](https://news.ycombinator.com/item?id=31318865))

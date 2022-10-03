@@ -77,3 +77,7 @@
 - [Phenaki](https://phenaki.video/) - Model for generating minutes-long, changing-prompt videos from text. ([HN](https://news.ycombinator.com/item?id=33025189))
 - [GhostlyStock](https://www.ghostlystock.com/) - Stock Photos Using Stable Diffusion. ([HN](https://news.ycombinator.com/item?id=33038117))
 - [Prompt engineering is hard (2022)](https://xeiaso.net/blog/prompt-engineering)
+- [Notes and plans for Fast Diffusion course](https://github.com/fastai/fastdiffusion)
+- [Stable Diffusion CPU only](https://github.com/darkhemic/stable-diffusion-cpuonly)
+- [TabDDPM: Modelling Tabular Data with Diffusion Models (2022)](https://arxiv.org/abs/2209.15421) ([Code](https://github.com/rotot0/tab-ddpm))
+- [Animation Script](https://github.com/Animator-Anon/Animator) - Animator script for SD Web UI.

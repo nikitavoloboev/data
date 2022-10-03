@@ -425,3 +425,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [Minimize Heap Allocations in Node.js (2022)](https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html)
 - [readable-stream](https://github.com/nodejs/readable-stream) - Node.js core streams for userland.
 - [Sentry Profiling SDK for NodeJS](https://github.com/getsentry/profiling-node)
+- [Umzug](https://github.com/sequelize/umzug) - Framework agnostic migration tool for Node.js.

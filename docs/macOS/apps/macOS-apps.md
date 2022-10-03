@@ -221,6 +221,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [rcmd](https://lowtechguys.com/rcmd/) - Reimagined Cmd-Tab app switcher.
 - [Marta](https://marta.sh/) - File Manager for macOS.
 - [Superlayer](https://apps.apple.com/app/id1601796450) - Widget Engine for macOS. ([Docs](https://github.com/martinlexow/superlayer-support))
+- [PastePal](https://onmyway133.com/pastepal/) - Universal pasteboard manager for Mac, iPhone and iPad. ([Docs](https://github.com/onmyway133/PastePal))
 
 ## Links
 

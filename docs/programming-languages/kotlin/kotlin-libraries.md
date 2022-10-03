@@ -7,6 +7,7 @@
 - [NetworkResponseAdapter](https://github.com/haroldadmin/NetworkResponseAdapter) - Kotlin Coroutines based Retrofit call adapter that handles errors as a part of state.
 - [Apollo Kotlin](https://github.com/apollographql/apollo-kotlin) - Strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.
 - [Ktor](https://github.com/ktorio/ktor) - Asynchronous framework for creating microservices, web applications and more.
+- [Ktor OpenAPI Generator](https://github.com/papsign/Ktor-OpenAPI-Generator) - Ktor OpenAPI/Swagger 3 Generator.
 - [KVision](https://github.com/rjaros/kvision) - Object oriented web framework for Kotlin/JS.
 - [kotlinx.html](https://github.com/Kotlin/kotlinx.html) - Kotlin DSL for HTML.
 - [Arrow Endpoint](https://github.com/arrow-kt/arrow-endpoint) - Composable Endpoint datatype, that allows us easily define an Endpoint from which we can derive clients, servers & documentation.
@@ -93,6 +94,7 @@
 - [Module KotlinX Serialization JsonPath](https://github.com/nomisRev/kotlinx-serialization-jsonpath)
 - [Kotlin-Kafka](https://github.com/nomisRev/kotlin-kafka) - Kafka bindings for Kotlin `suspend`, and Kafka streaming operators for KotlinX Flow.
 - [Kotlin Wrappers](https://github.com/JetBrains/kotlin-wrappers) - Kotlin wrappers for popular JavaScript libraries.
+- [OPENRNDR](https://github.com/openrndr/openrndr) - Kotlin/JVM library for creative coding, real-time and interactive graphics.
 
 ## Links
 

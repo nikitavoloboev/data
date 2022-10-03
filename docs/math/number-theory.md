@@ -48,3 +48,4 @@
 - [1 Billion is Tiny in an Alternate Universe (Intro to p-adic Numbers)](https://www.youtube.com/watch?v=3gyHKCDq1YA)
 - [The Rhythm of The Primes (2022)](https://www.youtube.com/watch?v=8x374slJGuo)
 - [Number theory explained from first principles](https://explained-from-first-principles.com/number-theory/) ([HN](https://news.ycombinator.com/item?id=32879801))
+- [From Complex Numbers to Quaternions (2021)](https://jingnanshi.com/blog/from_complex_numbers_to_quaternions.html)

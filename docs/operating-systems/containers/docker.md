@@ -266,3 +266,4 @@ Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432
 - [Docker Hub CLI](https://github.com/VictorBersy/docker-hub-cli) - CLI to explore and manage Docker Hub resources.
 - [Trellis](https://github.com/charliermarsh/trellis) - Write Dockerfiles and CI pipelines in TypeScript.
 - [Docker and Hacktoberfest 2022](https://github.com/docker/hacktoberfest-2022)
+- [Layerfiles](https://github.com/webappio/layerfiles) - Single binary that lets you build microvms using a syntax that looks like a Dockerfile. ([Web](https://layerfile.com/))

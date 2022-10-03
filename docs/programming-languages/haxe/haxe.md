@@ -17,3 +17,6 @@ title: Haxe
 - [HaxeFlixel](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by Haxe and OpenFL. ([Web](https://haxeflixel.com/))
 - [OimoPhysics](https://github.com/saharan/OimoPhysics) - Lightweight 3D physics engine.
 - [HGSL](https://github.com/saharan/HGSL) - Haxe to GL Shading Language.
+- [ammer](https://github.com/Aurel300/ammer) - Unified FFI for Haxe native extensions.
+- [pecan](https://github.com/Aurel300/pecan) - Macro-based coroutines for Haxe.
+- [Plustd](https://github.com/Aurel300/plustd) - Haxe library for 2D gamedev and more.

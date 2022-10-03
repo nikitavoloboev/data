@@ -2210,6 +2210,7 @@
 - [bit-vec](https://github.com/contain-rs/bit-vec) - Vec of Bits.
 - [Bluest](https://github.com/alexmoon/bluest) - Cross-platform Rust crate for working with Bluetooth Low Energy devices.
 - [Confique](https://github.com/LukasKalbertodt/confique) - Type-safe, layered configuration library.
+- [proc-exit](https://github.com/rust-cli/proc-exit) - Exit codes for process termination.
 
 ## Cargo Plugins
 

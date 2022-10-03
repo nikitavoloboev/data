@@ -202,3 +202,4 @@ title: Terraform
 - [Terraform Packer Provider](https://github.com/toowoxx/terraform-provider-packer)
 - [Terraform TiDB Cloud Provider](https://github.com/tidbcloud/terraform-provider-tidbcloud)
 - [Terraform OpenStack Provider](https://github.com/terraform-provider-openstack/terraform-provider-openstack)
+- [Terraform Provider Scaffolding](https://github.com/hashicorp/terraform-provider-scaffolding-framework)

@@ -1261,6 +1261,8 @@
 - [Swift Confidential](https://github.com/securevale/swift-confidential) - Swift literals obfuscator to defend against static reverse engineering.
 - [TelemetryClient](https://github.com/TelemetryDeck/SwiftClient) - Swift SDK for TelemetryDeck, a privacy-conscious analytics service for apps and websites.
 - [Semaphore](https://github.com/groue/Semaphore) - Counting Semaphore for Swift Concurrency.
+- [Swift Configuration Parser](https://github.com/liamnichols/swift-configuration-parser) - Simple configuration file parsing for Swift.
+- [Oklab](https://github.com/importRyan/Oklab) - Swift implementation of Björn Ottosson's Oklab perceptual color space for image processing.
 
 ## Other (not lib)
 

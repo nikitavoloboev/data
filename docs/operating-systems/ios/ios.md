@@ -519,3 +519,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [NSSpain X 2022](https://2022.nsspain.com/index.html) ([Schedule](https://2022.nsspain.com/index.html#schedule)) ([Tweet](https://twitter.com/NSSpain/status/1570331526348374017))
 - [On device network logging for iOS (2022)](https://adamfallon.com/ios/proxy/logging/networking/2022/09/04/on-device-network-logging-for-ios.html) ([HN](https://news.ycombinator.com/item?id=33018333))
 - [seedee](https://github.com/ldakhoa/seedee) - CI/CD iOS toolkits written in Swift.
+- [Simple Rust iOS app](https://github.com/marysaka/simple_rust_ios_app) - Demonstrate how an iOS application could be build, signed and installed on any OS without the need of any SDK.

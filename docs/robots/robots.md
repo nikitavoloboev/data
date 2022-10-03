@@ -182,3 +182,5 @@
 - [GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots (2022)](https://arxiv.org/abs/2209.05309) ([Code](https://github.com/HybridRobotics/GenLoco))
 - [Hybrid Robotics](https://hybrid-robotics.berkeley.edu/) ([GitHub](https://github.com/HybridRobotics))
 - [Robotic Processing Unit](https://github.com/ros-acceleration/robotic_processing_unit) - Robot-specific processing unit. Contains CPUs, FPGAs and GPUs and maps ROS efficiently to them for best performance.
+- [TEASER++](https://github.com/MIT-SPARK/TEASER-plusplus) - Fast and robust point cloud registration library.
+- [Write fast robotics code: transcendental footguns (2022)](https://jingnanshi.com/blog/transcendental_robotics_coding.html)

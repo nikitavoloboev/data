@@ -127,3 +127,4 @@ title: Xcode
 - [XCSnippetsApp](https://github.com/MarcoEidinger/XCSnippetsApp) - macOS application to explore code snippets from the Swift and iOS community.
 - [What's New in Xcode 14 (2022)](https://www.youtube.com/watch?v=tYBZ8AVH0Q0)
 - [Ask HN: Xcode users – how do you make it more usable? (2022)](https://news.ycombinator.com/item?id=32971599)
+- [PlistPal](https://github.com/liamnichols/PlistPal) - Can be used to convert the format of a plist file or expand variables within the file in a similar way to how Info.plist files are expanded during the build process.

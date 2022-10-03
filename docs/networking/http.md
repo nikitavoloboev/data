@@ -295,3 +295,4 @@ title: HTTP
 - [Wasabi](https://github.com/matoous/wasabi) - HTTP proxy that support web assembly plugins.
 - [Cache your CORS, for performance & profit](https://httptoolkit.tech/blog/cache-your-cors/)
 - [Webhook Sentry](https://github.com/juggernaut/webhook-sentry) - Proxy that helps you send webhooks to your customers securely.
+- [ Simple HTTP server written from scratch as a teaching tool to teach Unix network program architectures](https://github.com/shuveb/zerohttpd)

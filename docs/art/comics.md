@@ -21,3 +21,4 @@
 - [Dilbert Feed](https://github.com/mlafeldt/dilbert-feed) - Enjoy Dilbert in your RSS feed reader without any ads.
 - [Codex](https://github.com/ajslater/codex) - Comic archive browser and reader.
 - [Stump](https://github.com/aaronleopold/stump) - Free and open source comics server with OPDS support.
+- [Browse Marvel Unlimited by release year](https://marvel.geoffrich.net/) ([Code](https://github.com/geoffrich/marvel-by-year))

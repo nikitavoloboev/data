@@ -1823,6 +1823,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries.
 - [Frisbee-Go](https://github.com/loopholelabs/frisbee-go) - Go implementation of Frisbee - a bring-your-own protocol messaging framework designed for performance and stability.
 - [go-concurrency](https://github.com/jamestrandung/go-concurrency) - Comprehensive support for complex concurrency requirements in Go.
+- [go-hostpool](https://github.com/bitly/go-hostpool) - Intelligently and flexibly pool among multiple hosts from your Go application.
 
 ## Links
 

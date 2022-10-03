@@ -84,3 +84,4 @@ title: Protocol buffers
 - [The Protobuf Language Specification (2022)](https://buf.build/blog/protobuf-language-specification) ([HN](https://news.ycombinator.com/item?id=32812873))
 - [Pilota](https://github.com/cloudwego/pilota) - Thrift and protobuf implementation in pure rust with high performance and extensibility.
 - [cloudstd](https://github.com/slavovojacek/cloudstd) - Generate Protobuf service definitions conforming to popular design guides.
+- [pb-to-typescript](https://github.com/brandonxiang/pb-to-typescript) - Converter to transform from Protobuf to Typescript definition files.

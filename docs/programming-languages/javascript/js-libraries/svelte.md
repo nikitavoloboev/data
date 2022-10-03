@@ -295,3 +295,5 @@ title: Svelte
 - [Sveltosis](https://github.com/sveltosis/sveltosis) - Svelte parser that compiles to Mitosis JSON, allowing you to write Svelte components once and compile to every framework. ([Web](https://try.sveltosis.dev/)) ([Tweet](https://twitter.com/Steve8708/status/1573765534570598400))
 - [SvelteKit + Postgres + JWT](https://github.com/PuruVJ/sk-login-jwt) - Auth demo uses SvelteKit form actions and postgres to authenticate user with JWT tokens as sessionID.
 - [Svelte Motion](https://github.com/micha-lmxt/svelte-motion) - Animation library for Svelte based on framer-motion.
+- [SvelteKit + is-land](https://github.com/geoffrich/sveltekit-is-land) - Partial hydration in SvelteKit.
+- [Native Page Transitions in SvelteKit (2022)](https://geoffrich.net/posts/page-transitions-1/)

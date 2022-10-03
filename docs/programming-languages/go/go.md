@@ -859,3 +859,5 @@ if err != nil {
 - [Bitmap Indexes in Go: Search Speed (2019)](https://habr.com/en/company/badoo/blog/455608/) ([HN](https://news.ycombinator.com/item?id=32937930))
 - [Go Watch](https://github.com/mitranim/gow) - Missing watch mode for the go command. It's invoked exactly like go, but also watches Go files and reruns on changes.
 - [Maps and Memory Leaks in Go (2022)](https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69)
+- [Path to OOD with Go - Workshop](https://github.com/ronna-s/go-ood/)
+- [Gobra](https://github.com/viperproject/gobra) - Automated, modular verifier for Go programs, based on the Viper verification infrastructure.

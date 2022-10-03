@@ -46,3 +46,5 @@ This [guide](https://www.youtube.com/playlist?list=PLvWgkXBB3dd4ocSi17y1JmMmz7S5
 - [XState and Stately with Matt Pocock (2022)](https://podrocket.logrocket.com/xstate-stately)
 - [RFCs for XState and Stately tools](https://github.com/statelyai/rfcs)
 - [Storz](https://github.com/pedronauck/storz) - Main purpose of this project is make it easy to use XState machines and create global state with it.
+- [XState Ninja](https://github.com/rlaffers/xstate-ninja) - Dev tool for XState state machines.
+- [XState Async Guards](https://github.com/rlaffers/xstate-async-guards) - XState helper for using asynchronous guards.

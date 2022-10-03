@@ -13,3 +13,4 @@ title: Avalanche
 - [Yeti Finance](https://yetifinance.co/) - Borrow against your entire Avalanche portfolio interest-free.
 - [Publications from Three Sigma](https://github.com/threesigmaxyz/publications)
 - [Zapa](https://github.com/zapalabs/zapa) - Zero-Knowledge Anonymous Payments on Avalanche.
+- [Subnet EVM](https://github.com/ava-labs/subnet-evm) - Launch your own EVM as an Avalanche Subnet.

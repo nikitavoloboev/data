@@ -354,6 +354,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Shu Ding](https://shud.in/) ([Code](https://github.com/shuding/site))
 - [Slim Lim](https://slim.computer/)
 - [Nick Zuber](https://nickzuber.com/)
+- [Jason Werner](https://trxrg.com/)
 - [Daniel Pyrathon](https://pirosb3.io/)
 - [Rob Hope](https://robhope.com/)
 - [Dylan Brouwer](https://www.dylanbrouwer.design/)

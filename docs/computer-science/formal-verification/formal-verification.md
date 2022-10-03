@@ -142,3 +142,8 @@ title: Formal verification
 - [Why are you being constructive? (2022)](https://lawrencecpaulson.github.io/2022/04/20/Why-constructive.html)
 - [Extracting a Verified Interpreter from Isabelle/HOL (2022)](https://concerningquality.com/semantics-extraction-isabelle/)
 - [Solving the Dog-Bunny Puzzle with Program Verification Technology (2022)](https://www.pathsensitive.com/2022/09/solving-dog-bunny-puzzle-with-program.html)
+- [Silver](https://github.com/viperproject/silver) - Intermediate verification language of the Viper project.
+- [Viper – Programming Methodology Group | ETH Zurich](https://www.pm.inf.ethz.ch/research/viper.html) ([GitHub](https://github.com/viperproject))
+- [Silicon](https://github.com/viperproject/silicon) - Symbolic-execution-based verifier for the Viper intermediate verification language.
+- [Carbon](https://github.com/viperproject/carbon) - Verification-condition-generation-based verifier for the Viper intermediate verification language.
+- [ViperServer](https://github.com/viperproject/viperserver) - HTTP server that manages verification requests to different tools from the Viper tool stack.
