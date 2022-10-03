@@ -82,3 +82,4 @@ Like listening to [Andrew Huberman](https://www.youtube.com/c/AndrewHubermanLab/
 - [Health A to Z - NHS](https://www.nhs.uk/conditions/)
 - [NHS](https://www.nhs.uk/)
 - [The Optimal Morning Routine - Andrew Huberman](https://www.youtube.com/watch?v=gR_f-iwUGY4)
+- [Sauna use as a lifestyle practice to extend healthspan (2022)](https://www.sciencedirect.com/science/article/pii/S0531556521002916) ([HN](https://news.ycombinator.com/item?id=33056743))

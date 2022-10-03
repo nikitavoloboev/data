@@ -286,3 +286,4 @@ Hi<div>oh no break</div>
 - [ultrahtml](https://github.com/natemoo-re/ultrahtml) - Library for enhancing html. ultrahtml has zero dependencies and is compatible with any JavaScript runtime.
 - [The Infinite Marquee (2022)](https://ryanmulligan.dev/blog/css-marquee/)
 - [TurboReflex](https://github.com/hopsoft/turbo_reflex) - Help you build modern reactive web applications.
+- [Drawing a star with DOMMatrix (2022)](https://jakearchibald.com/2022/drawing-a-star/)

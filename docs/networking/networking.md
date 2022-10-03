@@ -525,3 +525,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Measure latency](http://ping.projects.chrisjeakle.com/) - Ultra-light-weight tool to quickly test your ping. ([Code](https://github.com/cjjeakle/network-monitor)) ([HN](https://news.ycombinator.com/item?id=33049820))
 - [Snabb](https://github.com/snabbco/snabb) - Simple and fast packet networking toolkit.
 - [Netmap](https://github.com/luigirizzo/netmap) - Framework for very fast packet I/O from userspace.
+- [rconn](https://github.com/jafarlihi/rconn) - Multiplatform program for creating reverse connections. It lets you consume services that are behind NAT and/or firewall without adding firewall rules or port-forwarding. ([Reddit](https://www.reddit.com/r/netsec/comments/xtqhr5/github_jafarlihirconn_rconn_is_a_multiplatform/))

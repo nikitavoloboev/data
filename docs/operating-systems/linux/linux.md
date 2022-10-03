@@ -606,3 +606,4 @@ title: Linux
 - [Kairos](https://github.com/kairos-io/kairos) - Kubernetes-focused, Cloud Native Linux meta-distribution.
 - [ftrace-hook](https://github.com/ilammy/ftrace-hook) - Using ftrace for function hooking in Linux kernel.
 - [Ask HN: What did Linux not do right? (2022)](https://news.ycombinator.com/item?id=33047966)
+- [Smithay](https://github.com/Smithay/smithay) - Building blocks to create wayland compositors in Rust.
