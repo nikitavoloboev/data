@@ -105,3 +105,4 @@ Well implemented analytics together with proper logging/tracing should let you l
 - [Snowplow](https://github.com/snowplow/snowplow) - Enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP.
 - [dbt Product Analytics](https://github.com/mjirv/dbt_product_analytics) ([HN](https://news.ycombinator.com/item?id=31877959))
 - [Serverless Realtime Analytics for Next.js with Vercel Edge, Upstash Kafka and Tinybird (2022)](https://upstash.com/blog/kafka-tinybird-vercel-edge)
+- [Minimal-Analytics](https://github.com/jahilldev/minimal-analytics) - Minimal versions of popular analytics libraries. Reduce the impact of third-party scripts on your application.

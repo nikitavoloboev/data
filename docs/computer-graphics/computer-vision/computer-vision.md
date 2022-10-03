@@ -946,3 +946,4 @@
 - [DreamFusion: Text-to-3D using 2D Diffusion (2022)](https://dreamfusion3d.github.io/) ([HN](https://news.ycombinator.com/item?id=33025446))
 - [Recent Advanced in Vision-and-Language Pre-training (2022)](https://vlp-tutorial.github.io/2022/)
 - [DeepInteraction: 3D Object Detection via Modality Interaction (2022)](https://arxiv.org/abs/2208.11112) ([Code](https://github.com/fudan-zvg/DeepInteraction))
+- [Vision OSC](https://github.com/LingDong-/VisionOSC) - Send (almost) all Apple Vision Framework's detection results via OSC.

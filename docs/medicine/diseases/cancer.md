@@ -1,5 +1,7 @@
 # Cancer
 
+Michael Levin's [thoughts on cancer suppression](https://www.youtube.com/watch?v=p3lsYlod5OU&t=8653s) is insightful.
+
 ## Links
 
 - [GRAIL](https://grail.com/) - GRAIL’s mission is to detect cancer early, when it can be cured.

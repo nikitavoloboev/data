@@ -244,3 +244,5 @@ title: DNS
 - [Why do domain names sometimes end with a dot? (2022)](https://jvns.ca/blog/2022/09/12/why-do-domain-names-end-with-a-dot-/)
 - [Asynchronous DNS in Rust](https://github.com/notgull/async-dns)
 - [SpyCast](https://github.com/evilsocket/spycast) - Cross platform mDNS enumeration tool.
+- [Writing a toy DNS Server in Rust using Trust DNS (2022)](https://dev.to/xfbs/writing-a-dns-server-in-rust-1gpn)
+- [Can I Take Over DNS?](https://github.com/indianajson/can-i-take-over-dns) - List of DNS providers and whether their zones are vulnerable to DNS takeover.

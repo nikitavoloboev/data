@@ -297,3 +297,5 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 - [HDWallet](https://github.com/shapeshift/hdwallet) - Library for interacting with hardware wallets from JS/TS.
 - [Whalemap](https://whalemap.io/) - Enhance your trading with blockchain data.
 - [Specter-DIY](https://github.com/cryptoadvance/specter-diy) - DIY airgapped hardware wallet that uses QR codes for communication with the host.
+- [Gradual Dutch Auctions (2022)](https://www.paradigm.xyz/2022/04/gda)
+- [Cairo implementation of Gradual Dutch Auctions](https://github.com/cartridge-gg/cairo-gda)

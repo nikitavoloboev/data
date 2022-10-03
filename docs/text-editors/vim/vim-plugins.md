@@ -150,6 +150,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Obsession](https://github.com/tpope/vim-obsession) - Continuously updated session files.
 - [Wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager.
 - [Vim LSP](https://github.com/yegappan/lsp)
+- [Neotest](https://github.com/nvim-neotest/neotest) - Extensible framework for interacting with tests within NeoVim.
 - [incline.nvim](https://github.com/b0o/incline.nvim) - Lightweight floating statuslines for Neovim.
 - [Fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress.
 - [Rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).

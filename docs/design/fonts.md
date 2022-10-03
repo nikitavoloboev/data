@@ -402,3 +402,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here) ([Tweet](https://twitter.com/jh3yy/status/1570128686287839238))
 - [Diffenator](https://github.com/googlefonts/fontdiffenator) - Python 3 library/tool to compare two TTF fonts against each other.
 - [Download all Paratype fonts](https://faceless.today/gofuckyourselfparatype)
+- [Noto Emoji fonts](https://github.com/googlefonts/noto-emoji) - Open source emoji library that provides standard Unicode emoji support and tools for working with them.

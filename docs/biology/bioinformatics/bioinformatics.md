@@ -4,7 +4,7 @@ title: Bioinformatics
 
 # [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics)
 
-Personally quite excited about developments of [Foregen](https://www.foregen.org/) & am donating to the cause. Regenerating tissue/organs fully is incredibly exciting.
+Personally quite excited about developments of [Foregen](https://www.foregen.org/) & am donating to the cause. [Regenerating tissue/organs fully is incredibly exciting](https://www.youtube.com/watch?v=p3lsYlod5OU&t=8427s).
 
 ## Links
 

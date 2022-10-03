@@ -694,3 +694,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Hop Exchange](https://hop.exchange/) - Scalable rollup-to-rollup general token bridge. ([Code](https://github.com/hop-protocol/hop))
 - [StarkNet Cairo 101](https://github.com/starknet-edu/starknet-cairo-101) - Get started with Cairo with this simple tutorial.
 - [Geth-data-layer](https://github.com/umbracle/geth-data-layer) - Go library to access the geth stored data.
+- [Cairo Math 64x61](https://github.com/influenceth/cairo-math-64x61) - Fixed point 64.61 math library for Cairo / Starknet.

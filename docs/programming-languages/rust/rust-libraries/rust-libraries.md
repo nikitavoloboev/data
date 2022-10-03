@@ -611,6 +611,7 @@
 - [pairing](https://github.com/nccgroup/pairing) - Optimizations for Pairing-Based Cryptography.
 - [ore.rs](https://github.com/cipherstash/ore.rs) - Order-revealing encryption library used by the CipherStash searchable encryption platform.
 - [cretrit](https://github.com/enquo/cretrit) - Comparison-Revealing Encryption primitives.
+- [sss-rs](https://github.com/dsprenkels/sss-rs) - Rust bindings for my Shamir secret sharing library.
 
 ## Linux
 

@@ -315,3 +315,4 @@ useEffect(() => {
 - [Rapini](https://github.com/rametta/rapini) - OpenAPI to React Query & Axios.
 - [You Might Not Need an Effect](https://beta.reactjs.org/learn/you-might-not-need-an-effect) ([Tweet](https://twitter.com/dan_abramov/status/1539735073947373568))
 - [Understanding UseMemo and UseCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/) ([HN](https://news.ycombinator.com/item?id=32652627))
+- [Getting Started with React Query (2022)](https://dev.to/nischal_dutt/getting-started-with-react-query-30g7)

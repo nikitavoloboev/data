@@ -118,3 +118,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [gomatrixserverlib](https://github.com/matrix-org/gomatrixserverlib) - Go library for matrix federation.
 - [Eigen](https://github.com/Kalissaac/Eigen) - macOS native Matrix client.
 - [Pixel](https://github.com/jamesthesken/pixel) - Matrix client for the terminal.
+- [trinity](https://github.com/bnjbvr/trinity) - Matrix bots in Rust and WebAssembly.

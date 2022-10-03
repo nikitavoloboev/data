@@ -420,3 +420,4 @@
 - [PO-80](https://teenage.engineering/products/po-80) - Record factory is a compact and portable record cutter.
 - [NIH-plug](https://github.com/robbert-vdh/nih-plug) - API-agnostic audio plugin framework written in Rust, as well as a small collection of plugins.
 - [va-filter](https://github.com/Fredemus/va-filter) - Virtual analogue filters. implemented as a VST3 and Clap plugin in Rust.
+- [AMY](https://github.com/bwhitman/amy) - Additive Music synthesizer librarY.

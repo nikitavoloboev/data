@@ -99,3 +99,4 @@ I try drink only water/tea with occasional coffee. No added sugar in food/drinks
 - [Iollo](https://www.iollo.com/) - At-home metabolomics test to extend healthy lifespan. ([HN](https://news.ycombinator.com/item?id=32333417))
 - [Food for Piles: 15 Foods to Fight Hemorrhoids](https://www.healthline.com/nutrition/food-for-piles)
 - [Lose weight the slow and incredibly difficult way](https://nautil.us/lose-weight-the-slow-and-incredibly-difficult-way-239703/) ([HN](https://news.ycombinator.com/item?id=32936436))
+- [Mediterranean Diet proves to be the healthiest](https://www.reddit.com/r/science/comments/xtuks1/mediterranean_diet_proves_to_be_the_healthiest/)
