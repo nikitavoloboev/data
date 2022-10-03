@@ -266,3 +266,4 @@
 - [Why you should not use JWT (2021)](https://apibakery.com/blog/tech/no-jwt/)
 - [pizauth, an OAuth2 token requester daemon, in alpha (2022)](https://tratt.net/laurie/blog/2022/pizauth_oauth_authenticator_alpha.html)
 - [Go Auth Lib](https://github.com/go-pkgz/auth) - Authentication via oauth2, direct and email. ([HN](https://news.ycombinator.com/item?id=33061299))
+- [Why JWTs Suck as Session Tokens (2017)](https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens) ([HN](https://news.ycombinator.com/item?id=33061873))

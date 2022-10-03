@@ -1177,3 +1177,4 @@
 - [Ask HN: Why is Python package management still a dumpster fire? (2022)](https://news.ycombinator.com/item?id=32805483)
 - [huak](https://github.com/cnpryer/huak) - Python package manager written in Rust. The Cargo for Python.
 - [not-a-package-manager](https://github.com/dmarx/not-a-package-manager) - Utilities to facilitate working with codebases that don't ascribe to normal package management paradigms, e.g. ML research code that can be cloned but not installed.
+- [Hatch-Fancy-PyPI-readme](https://github.com/hynek/hatch-fancy-pypi-readme) - Hatch metadata plugin for everyone who cares about the first impression of their project’s PyPI landing page.

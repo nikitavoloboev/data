@@ -594,3 +594,4 @@
 - [Ask HN: Inherited the worst code and tech team I have ever seen. How to fix it? (2022)](https://news.ycombinator.com/item?id=32883596)
 - [Software engineering practices which many teams will also consider "best practices."](https://twitter.com/GergelyOrosz/status/1576161504260657152)
 - [Software engineering practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/)
+- [Ask HN: In what ways is programming more difficult today than it was years ago? (2022)](https://news.ycombinator.com/item?id=33056052)

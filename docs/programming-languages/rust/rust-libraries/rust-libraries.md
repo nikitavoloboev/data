@@ -2208,6 +2208,8 @@
 - [OBWS](https://github.com/dnaka91/obws) - Remote control OBS with the obs-websocket plugin from Rust.
 - [boba](https://github.com/artichoke/boba) - Rust implementation of the Bubble Babble binary data encoding.
 - [bit-vec](https://github.com/contain-rs/bit-vec) - Vec of Bits.
+- [Bluest](https://github.com/alexmoon/bluest) - Cross-platform Rust crate for working with Bluetooth Low Energy devices.
+- [Confique](https://github.com/LukasKalbertodt/confique) - Type-safe, layered configuration library.
 
 ## Cargo Plugins
 

@@ -811,7 +811,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Aero](https://github.com/aerogo/aero) - High-performance web server for Go.
 - [Jet](https://github.com/go-jet/jet) - Type safe SQL Builder for Go with automatic scan to desired arbitrary object structure.
 - [ent](https://github.com/ent/ent) - Simple, yet powerful entity framework for Go, that makes it easy to build and maintain applications with large data-models. ([Web](https://entgo.io/)) ([Docs](https://entgo.io/docs/getting-started)) ([GraphQL setup](https://github.com/a8m/ent-graphql-example)) ([entcache](https://github.com/ariga/entcache)) ([ent-contrib](https://github.com/ent/contrib)) ([ogent - Ent Extension to integrate ogen](https://github.com/ariga/ogent)) ([Should I use Ent?](https://www.reddit.com/r/golang/comments/xnrhdg/should_i_use_ent/))
-- [Muon](https://github.com/ImVexed/muon) - Lightweight alternative to Electron written in Golang in about ~300 LoC, using Ultralight instead of Chromium.
+- [Muon](https://github.com/ImVexed/muon) - Lightweight alternative to Electron written in Go in about ~300 LoC, using Ultralight instead of Chromium. ([HN](https://news.ycombinator.com/item?id=33061167))
 - [gnet](https://github.com/panjf2000/gnet) - High-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [env](https://github.com/caarlos0/env) - Simple lib to parse envs to structs in Go.
 - [go-execute](https://github.com/alexellis/go-execute) - Wrapper for executing commands in Go.

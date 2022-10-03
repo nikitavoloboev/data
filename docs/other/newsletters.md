@@ -96,3 +96,4 @@
 - [Taco Digest](https://tacodigest.com/) - Personal email digest from your favorite sources.
 - [What's your favorite newsletter? (2022)](https://twitter.com/heyeaslo/status/1538522004684345344)
 - [Weekly newsletter about various topics (Rust, Zig, Compsci, etc.)](https://discu.eu/weekly/) ([Lobsters](https://lobste.rs/s/xw3rok/weekly_newsletter_about_various_topics))
+- [Ask HN: Which mailing lists would you recommend to subscribe to? (2022)](https://news.ycombinator.com/item?id=33059231)

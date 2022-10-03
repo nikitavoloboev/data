@@ -109,3 +109,4 @@
 - [Automatic memory management with short pauses that is simple to implement? (2022)](https://lobste.rs/s/qdtqi2/automatic_memory_management_with_short)
 - [Perceus: Garbage Free Reference Counting with Reuse](https://xnning.github.io/papers/perceus.pdf)
 - [CactusRef](https://github.com/artichoke/cactusref) - Cycle-Aware Reference Counting in Rust.
+- [On "correct and efficient work-stealing for weak memory models" (2022)](https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models)

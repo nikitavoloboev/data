@@ -135,3 +135,4 @@ title: BitTorrent
 - [Parasite](https://github.com/bit-bandit/parasite) - Modern torrent indexer with some federation capacities.
 - [newTrackon](https://github.com/CorralPeltzer/newTrackon) - Public open BitTorrent trackers monitoring tool.
 - [Hybrid-Torrent-Tracker](https://github.com/negezor/hybrid-torrent-tracker) - Torrent tracker for Node.js with HTTP and UDP support based middleware.
+- [Attractorr](https://github.com/rnestler/attractorr) - Tool written in Rust to search for torrents.

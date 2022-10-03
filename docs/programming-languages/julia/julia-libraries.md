@@ -742,6 +742,8 @@
 - [SentinelArrays.jl](https://github.com/JuliaData/SentinelArrays.jl) - Array types that can use sentinel values of the element type for special values.
 - [Geodesy](https://github.com/JuliaGeo/Geodesy.jl) - Work with points defined in various coordinate systems.
 - [Suppressor](https://github.com/JuliaIO/Suppressor.jl) - Julia macros for suppressing and/or capturing output (STDOUT), warnings (STDERR) or both streams at the same time.
+- [Diderot.jl](https://github.com/rschwarz/Diderot.jl) - Decision Diagrams for Discrete Optimization in Julia.
+- [SCIP.jl](https://github.com/scipopt/SCIP.jl) - Julia interface to SCIP solver.
 
 ## Links
 

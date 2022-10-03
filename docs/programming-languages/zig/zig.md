@@ -144,3 +144,4 @@ title: Zig
 - [Tree Sitter For Zig](https://github.com/maxxnino/tree-sitter-zig) - Zig's Tree Sitter based on Zig Spec Official.
 - [Building a Tiny Mutex (2022)](https://zig.news/kprotty/building-a-tiny-mutex-537k)
 - [Virtual tables with zig-sqlite (2022)](https://rischmann.fr/blog/virtual-tables-with-zig-sqlite)
+- [Nix Flake for Zig](https://github.com/mitchellh/zig-overlay)

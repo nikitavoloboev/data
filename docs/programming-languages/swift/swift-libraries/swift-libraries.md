@@ -1260,6 +1260,7 @@
 - [UIKitDOM](https://github.com/shirakaba/uikit-dom) - Implementing DOM for UIKit.
 - [Swift Confidential](https://github.com/securevale/swift-confidential) - Swift literals obfuscator to defend against static reverse engineering.
 - [TelemetryClient](https://github.com/TelemetryDeck/SwiftClient) - Swift SDK for TelemetryDeck, a privacy-conscious analytics service for apps and websites.
+- [Semaphore](https://github.com/groue/Semaphore) - Counting Semaphore for Swift Concurrency.
 
 ## Other (not lib)
 
