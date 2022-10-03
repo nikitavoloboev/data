@@ -170,3 +170,4 @@
 - [A history of ARM, part 1: Building the first chip (2022)](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/) ([HN](https://news.ycombinator.com/item?id=32953980))
 - [High-NA may be the end of the line for lithography (2022)](https://twitter.com/dnystedt/status/1573986529416204288)
 - [Zen4's AVX512 Teardown (2022)](https://www.mersenneforum.org/showthread.php?p=614191) ([HN](https://news.ycombinator.com/item?id=32983406))
+- [ASML's Secret: A view from inside the global semiconductor giant (2022)](https://www.youtube.com/watch?v=zQu_TMgHO98)

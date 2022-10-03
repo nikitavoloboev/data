@@ -49,6 +49,7 @@
 - [CT](https://github.com/kr/ct) - Easy Unit Testing for C.
 - [Unity Test](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C.
 - [CMock](https://github.com/ThrowTheSwitch/CMock) - Mock/stub generator for C.
+- [CTEST](https://github.com/bvdberg/ctest) - Unit test framework for software written in C/C++.
 
 ## CLI
 
