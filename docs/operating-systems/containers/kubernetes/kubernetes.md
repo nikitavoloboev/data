@@ -824,3 +824,4 @@ title: Kubernetes
 - [Kamaji](https://github.com/clastix/kamaji) - Deploys and operates Kubernetes at scale with a fraction of the operational burden.
 - [Palaemon](https://github.com/oslabs-beta/Palaemon) - Open-source developer tool for monitoring health and resource metrics of Kubernetes clusters and analyzing Out of Memory (OOMKill) errors.
 - [jsonnet-controller](https://github.com/pelotech/jsonnet-controller) - Fluxcd controller for managing manifests declared in jsonnet.
+- [Ability to create Kata PODs using cloud provider APIs](https://github.com/confidential-containers/cloud-api-adaptor)

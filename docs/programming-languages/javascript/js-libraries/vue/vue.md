@@ -195,3 +195,4 @@ title: Vue.js
 - [What blocks React devs from switching to Vue? (2022)](https://twitter.com/antfu7/status/1567511783832961026)
 - [Unplugin Vue Router](https://github.com/posva/unplugin-vue-router) - Automatic file based Routing in Vue with TS support.
 - [pinceau](https://github.com/Tahul/pinceau) - Zero-runtime CSS-in-JS framework made for Vue.
+- [nuxt-hedge](https://github.com/harlan-zw/nuxt-hedge) - Experimental head-edge module for Nuxt v3.

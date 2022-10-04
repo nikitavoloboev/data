@@ -64,6 +64,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Fish](https://github.com/Benricheson101/anti-phishing-bot) - Discord bot for deleting Steam/Discord phishing links.
 - [CRBT](https://crbt.app/) - Multipurpose verified Discord bot that's minimalistic and easy to use.
 - [AutoModerator](https://github.com/ChatSift/AutoModerator) - Helping sift through user content and provide security to the community.
+- [What's That Song?](https://github.com/dangeredwolf/Whats-That-Song) - Discord bot that finds the song given a video or audio file, using Shazam.
 
 ## Libraries
 

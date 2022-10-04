@@ -70,3 +70,4 @@
 - [Objective-C ABI Knowledge base](https://github.com/jonpalmisc/objc-kb)
 - [Objective-S](http://objective.st/) - Architecture-oriented language based on Smalltalk and Objective-C. ([HN](https://news.ycombinator.com/item?id=32444300))
 - [Tree-sitter parser for Objective-C](https://github.com/jiyee/tree-sitter-objc)
+- [GCDWebServer](https://github.com/swisspol/GCDWebServer) - Modern and lightweight GCD based HTTP 1.1 server designed to be embedded in iOS, macOS & tvOS apps.

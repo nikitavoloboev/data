@@ -169,3 +169,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Looria](https://looria.com/) - Finds and analyzes trusted product reviews.
 - [FastStore](https://github.com/vtex/faststore) - Digital commerce toolkit for frontend developers.
 - [Mushroomy](https://mushroomy.house/) - For Artists. By Artists.
+- [The Smartest Website You Haven't Heard of (2022)](https://www.bedelstein.com/post/mcmaster-carr)

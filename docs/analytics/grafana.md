@@ -28,3 +28,4 @@ title: Grafana
 - [Kubernetes Grafana Dashboards](https://github.com/dotdc/grafana-dashboards-kubernetes) - Set of modern Grafana dashboards for Kubernetes.
 - [JSON API data source for Grafana](https://github.com/marcusolsson/grafana-json-datasource)
 - [Autograf](https://github.com/FUSAKLA/autograf) - Dynamically generate Grafana dashboard based on Prometheus metrics.
+- [Terraform Provider for Grafana](https://github.com/grafana/terraform-provider-grafana)

@@ -256,3 +256,5 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [Pgsqlite](https://github.com/bitdotioinc/pgsqlite) - Pure Python module to import SQLite databases into Postgres. ([Article](https://innerjoin.bit.io/introducing-pgsqlite-a-pure-python-module-to-import-sqlite-databases-into-postgres-bf3940cfa19f)) ([HN](https://news.ycombinator.com/item?id=32942820))
 - [Pocketbase with Lightstream](https://github.com/bscott/pocketbase-litestream)
 - [Flyweight](https://github.com/thebinarysearchtree/flyweight) - ORM for SQLite and NodeJS. ([HN](https://news.ycombinator.com/item?id=33019500))
+- [libSQL](https://github.com/libsql/libsql) - Open source, open contribution fork of SQLite.
+- [SQLite: QEMU all over again? (2022)](https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c)

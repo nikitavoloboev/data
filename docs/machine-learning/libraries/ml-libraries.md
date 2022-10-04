@@ -397,3 +397,6 @@ title: ML Libraries
 - [Daft](https://github.com/Eventual-Inc/Daft) - Fast, ergonomic and scalable open-source dataframe library: built for Python and Complex Data/Machine Learning workloads.
 - [StellarGraph](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs.
 - [Sliceline](https://github.com/DataDome/sliceline) - Python library for fast slice finding for Machine Learning model debugging.
+- [AITemplate](https://github.com/facebookincubator/AITemplate) - Python framework which renders neural network into high performance CUDA/HIP C++ code. ([Article](https://ai.facebook.com/blog/gpu-inference-engine-nvidia-amd-open-source/))
+- [spidr](https://github.com/joelberkeley/spidr) - Accelerated machine learning with dependent types.
+- [Transformer Engine](https://github.com/NVIDIA/TransformerEngine) - Library for accelerating Transformer models on NVIDIA GPUs.

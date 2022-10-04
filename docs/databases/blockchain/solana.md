@@ -293,3 +293,5 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Solana command-line tool template](https://github.com/mvines/solana-cli-template)
 - [Nitro](https://twitter.com/Nitro_Labs) - Layer 2 scaling solution for Solana, Sealevel VM-compatible. ([Explained](https://twitter.com/Nitro_Labs/status/1570400366096949249))
 - [Bonfida utils](https://github.com/Bonfida/bonfida-utils) - Collection of different utilities in use across various Bonfida projects.
+- [Multisig](https://github.com/coral-xyz/multisig) - Example of a multisig to execute arbitrary Solana transactions.
+- [Solana Security Audits](https://github.com/solana-labs/security-audits)

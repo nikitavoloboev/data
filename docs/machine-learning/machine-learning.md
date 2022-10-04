@@ -942,3 +942,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Learning to Learn with Generative Models of Neural Network Checkpoints (2022)](https://arxiv.org/abs/2209.12892) ([Code](https://github.com/wpeebles/G.pt)) ([Web](https://www.wpeebles.com/Gpt)) ([Tweet](https://twitter.com/billpeeb/status/1574850991001772032))
 - [Didact AI: The anatomy of an ML-powered stock picking engine (2022)](https://principiamundi.com/posts/didact-anatomy/)
 - [Deep Learning Examples](https://github.com/LambdaLabsML/examples)
+- [Variational Inference for Infinitely Deep Neural Networks (2022)](https://arxiv.org/abs/2209.10091) ([Code](https://github.com/ANazaret/unbounded-depth-neural-networks))

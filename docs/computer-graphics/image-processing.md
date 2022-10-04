@@ -207,3 +207,4 @@
 - [Progressive image stippling and greedy blue noise importance sampling (2022)](https://bartwronski.com/2022/08/31/progressive-image-stippling-and-greedy-blue-noise-importance-sampling/)
 - [Imageflow-Node](https://github.com/imazen/imageflow-node) - Quickly scale or modify images and optimize them for the web.
 - [get-pixels](https://github.com/scijs/get-pixels) - Given a URL/path, grab all the pixels in an image and return the result as an ndarray.
+- [AV1 Image File Format (AVIF) Spec](https://aomediacodec.github.io/av1-avif/) ([Code](https://github.com/AOMediaCodec/av1-avif))

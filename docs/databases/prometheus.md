@@ -91,3 +91,4 @@ title: Prometheus
 - [prom-authzed-proxy](https://github.com/authzed/prom-authzed-proxy) - Proxy for Prometheus that authorizes the request's Bearer Token with Authzed or SpiceDB and enforces a label in a PromQL query.
 - [Epimetheus](https://github.com/polarsignals/epimetheus) - FrostDB backed Prometheus fork.
 - [Exporter Exporter](https://github.com/QubitProducts/exporter_exporter) - Reverse proxy designed for Prometheus exporters.
+- [Prometheus Formatter](https://github.com/fhemberger/prometheus-formatter) - Browser extension which makes plain Prometheus/OpenMetrics output easier to read.

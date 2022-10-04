@@ -119,3 +119,4 @@ What's wild to me is just how few people can write code. Some say it's [~ 30M](h
 - [Ask HN: If you’ve considered homeschooling, what’s stopping you? (2022)](https://news.ycombinator.com/item?id=31947895)
 - [OpenStax](https://openstax.org/) - Free and Flexible Textbooks and Resources. ([HN](https://news.ycombinator.com/item?id=32340587))
 - [My family’s unlikely homeschooling journey (2022)](https://www.fast.ai/2022/09/06/homeschooling/) ([HN](https://news.ycombinator.com/item?id=32745873))
+- [Awesome Grad School](https://github.com/poloclub/awesome-grad-school) - Advice and resources for thriving and surviving graduate school.

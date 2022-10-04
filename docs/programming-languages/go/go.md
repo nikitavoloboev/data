@@ -861,3 +861,4 @@ if err != nil {
 - [Maps and Memory Leaks in Go (2022)](https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69)
 - [Path to OOD with Go - Workshop](https://github.com/ronna-s/go-ood/)
 - [Gobra](https://github.com/viperproject/gobra) - Automated, modular verifier for Go programs, based on the Viper verification infrastructure.
+- [Redefining for Loop Variable Semantics](https://github.com/golang/go/discussions/56010) ([Lobsters](https://lobste.rs/s/dekhpe/redefining_for_loop_variable_semantics))

@@ -127,3 +127,4 @@ title: gRPC
 - [Why Does gRPC Insist on Trailers? (2022)](https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers) ([HN](https://news.ycombinator.com/item?id=32380769))
 - [Go gRPC Examples](https://github.com/itsksaurabh/go-grpc-examples)
 - [gRPC Go Master Class: Build Modern API & Micro services](https://github.com/Clement-Jean/grpc-go-course)
+- [gRPC Gateway Boilerplate](https://github.com/johanbrandhorst/grpc-gateway-boilerplate) - All the boilerplate you need to get started with writing grpc-gateway powered REST services in Go.

@@ -68,6 +68,7 @@
 - [Pointers](https://github.com/bonfire-networks/pointers) - One foreign key to rule them all and in the darkness, bind them.
 - [Fly Postgres](https://github.com/superfly/fly_postgres_elixir) - Library for working with local read-replica postgres databases and performing writes through RPC calls to other nodes in the primary Fly.io region.
 - [MyXQL](https://github.com/elixir-ecto/myxql) - MySQL 5.5+ driver for Elixir.
+- [Apq](https://github.com/maartenvanvliet/apq) - Support for Automatic Persisted Queries in Absinthe.
 
 ## Test
 
@@ -244,6 +245,9 @@
 - [Arrays](https://github.com/Qqwy/elixir-arrays) - Library to work with well-structured Arrays with fast random-element-access for Elixir.
 - [CapturePipe](https://github.com/Qqwy/elixir-capture_pipe) - Pipe-macro for Elixir that allows bare function captures.
 - [protobuf-elixir](https://github.com/elixir-protobuf/protobuf) - Pure Elixir implementation of Google Protobuf.
+- [Goal](https://github.com/martinthenth/goal) - Parameter validation library based on Ecto.
+- [OpenTelemetry Erlang](https://github.com/open-telemetry/opentelemetry-erlang-contrib) - OpenTelemetry instrumentation for Erlang & Elixir.
+- [Striped](https://github.com/maartenvanvliet/striped) - Library to interface with the Stripe API.
 
 ## Links
 

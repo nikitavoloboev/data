@@ -86,6 +86,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Farfetched](https://github.com/igorkamyshev/farfetched) - Advanced data fetching tool for web applications.
 - [Axios Cache Interceptor](https://github.com/arthurfiorette/axios-cache-interceptor) - Small and efficient cache interceptor for axios. Etag, Cache-Contol, TTL, HTTP headers and more.
 - [Mastak](https://github.com/araekiel/mastak) - Automated, in-memory caching package for APIs.
+- [Inclusive Sort](https://github.com/tobyzerner/inclusive-sort) - Drag and drop sorting that just works – for everyone.
 
 ## GraphQL
 
@@ -177,6 +178,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Unionize](https://github.com/pelotom/unionize) - Boilerplate-free functional sum types in TypeScript.
 - [zod](https://github.com/vriad/zod) - Typescript-first schema validation with static type inference.
 - [myzod](https://github.com/davidmdm/myzod) - Schema Validation with typescript type inference.
+- [zod-fast-check](https://github.com/DavidTimms/zod-fast-check) - Generate fast-check arbitraries from Zod schemas.
 - [utility-types](https://github.com/piotrwitek/utility-types) - Collection of utility types, complementing TypeScript built-in mapped types and aliases.
 - [fetcher-ts](https://github.com/YBogomolov/fetcher-ts) - Type-safe wrapper around Fetch API.
 - [gretchen](https://github.com/truework/gretchen) - Making fetch happen in TypeScript.
@@ -729,3 +731,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Wombat Dressing Room](https://github.com/GoogleCloudPlatform/wombat-dressing-room) - Google's npm registry proxy. Designed to reduce the attack surface of npm packages.
 - [Tiny Libs](https://github.com/arthurfiorette/tinylibs) - Monorepo of several JS related packages.
 - [tsdoc-markdown](https://github.com/peterpeterparker/tsdoc-markdown) - Generates markdown documentation from TypeScript source code.
+- [ts-function-inliner](https://github.com/JoshuaKGoldberg/ts-function-inliner) - TypeScript transformation that inlines calls to small functions.

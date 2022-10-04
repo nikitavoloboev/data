@@ -454,3 +454,4 @@
 - [A World Wide View of Browsing the World Wide (2022)](https://zakird.com/papers/browsing.pdf)
 - [How to build a personal webpage from scratch (2022)](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/) ([HN](https://news.ycombinator.com/item?id=33017056))
 - [Annotate](https://github.com/molly/annotate) - Annotate text and publish it on the web.
+- [Socket SDK](https://github.com/socketsupply/socket) - Build Native Apps For Desktop & Mobile Using HTML, CSS, & JavaScript. ([Web](https://sockets.sh/)) ([Twitter](https://twitter.com/sockets_sh))

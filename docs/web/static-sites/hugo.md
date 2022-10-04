@@ -52,6 +52,7 @@ title: Hugo
 - [Oxide Computer](https://github.com/oxidecomputer/design.oxide.computer)
 - [Platform.sh User Docs](https://github.com/platformsh/platformsh-docs)
 - [/dev/null as a Service](https://devnull-as-a-service.com/home/) ([Code](https://github.com/noqqe/devnull-as-a-service))
+- [Gallery Deluxe Starter](https://github.com/bep/gallerydeluxe) - Fast Hugo gallery theme/module suitable for lots of images.
 
 ## Links
 

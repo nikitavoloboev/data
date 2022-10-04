@@ -114,3 +114,4 @@ title: WebSocket
 - [Example: Serverless WebSockets on AWS](https://github.com/mikaelvesavuori/aws-serverless-websockets-example)
 - [WebSockets in curl](https://curl.se/docs/websockets.html) ([HN](https://news.ycombinator.com/item?id=32778908))
 - [recws](https://github.com/recws-org/recws) - Reconnecting WebSocket is a websocket client based on gorilla/websocket that will automatically reconnect if the connection is dropped and keeps the connection alive - thread safe.
+- [Goomerang](https://github.com/eloylp/goomerang) - Protocol buffers over WebSocket communications library.

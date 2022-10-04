@@ -579,3 +579,5 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Ivory](https://github.com/tristanfisher/ivory) - Makes it easy for you to create a PostgreSQL database instance from a Go program.
 - [PG Scripts](https://github.com/andyatkinson/pg_scripts) - Analysis and optimization SQL queries. Some PL/pgSQL scripts.
 - [Postgres WASM by Snaplet and Supabase (2022)](https://supabase.com/blog/postgres-wasm) ([HN](https://news.ycombinator.com/item?id=33067962))
+- [Coroot-pg-agent](https://github.com/coroot/coroot-pg-agent) - Prometheus exporter for Postgres focusing on query performance statistics.
+- [RapidRows](https://github.com/rapidloop/rapidrows) - Low-code, configurable API server for PostgreSQL databases. ([Docs](https://rapidrows.io/))

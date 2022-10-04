@@ -8,7 +8,7 @@ title: WebAssembly
 
 [This guide how to create minimal WASM module](https://news.ycombinator.com/item?id=30991235) is nice. Looking into trying out [AssemblyScript](https://github.com/AssemblyScript/assemblyscript).
 
-[Enarx](https://enarx.dev/) is neat way to run WASM safely.
+[Fermyon](https://www.fermyon.dev/)'s [Spin framework](https://spin.fermyon.dev/) is great way to run WASM on servers. [Enarx](https://enarx.dev/) is great too.
 
 ## Links
 
@@ -371,3 +371,5 @@ title: WebAssembly
 - [WasmServe](https://github.com/hajimehoshi/wasmserve) - HTTP server for testing WASM.
 - [Capsule](https://github.com/bots-garden/capsule) - WebAssembly function launcher(runner). ([HN](https://news.ycombinator.com/item?id=33054212))
 - [Persistent Storage in WebAssembly Applications](https://www.fermyon.com/blog/persistent-storage-in-webassembly-applications) ([Video](https://www.youtube.com/watch?v=UJxMHNcQDxs))
+- [BoringSSL for WebAssembly/WASI](https://github.com/jedisct1/boringssl-wasm)
+- [essa-rs](https://github.com/essa-project/essa-rs) - Experimental stateful serverless programming framework based on WebAssembly.

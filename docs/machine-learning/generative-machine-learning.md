@@ -81,3 +81,4 @@
 - [Stable Diffusion CPU only](https://github.com/darkhemic/stable-diffusion-cpuonly)
 - [TabDDPM: Modelling Tabular Data with Diffusion Models (2022)](https://arxiv.org/abs/2209.15421) ([Code](https://github.com/rotot0/tab-ddpm))
 - [Animation Script](https://github.com/Animator-Anon/Animator) - Animator script for SD Web UI.
+- [Latent space walking: minimal Keras Colab](https://colab.research.google.com/drive/1C2UhtHvHYzkdidFd_CfZTimuwJ0oH3SA?usp=sharing) ([Tweet](https://twitter.com/fchollet/status/1577069074802421760))

@@ -372,3 +372,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Modern C++ use in Chromium](https://chromium.googlesource.com/chromium/src/+/HEAD/styleguide/c++/c++-features.md#modern-c_use-in-chromium) ([Tweet](https://twitter.com/theavalkyrie/status/1574131645183148033))
 - [Effect of Clang modules on compilation time (2022)](https://observablehq.com/@vsapsai/effect-of-clang-modules-on-compilation-time) ([Lobsters](https://lobste.rs/s/kwqent/effect_clang_modules_on_compilation_time))
 - [jsxx](https://github.com/surma/jsxx) - Transpiler that compiles JavaScript to C++. ([Article](https://surma.dev/things/compile-js/))
+- [ReZZan](https://github.com/bajinsheng/ReZZan) - Fast memory error sanitizer for fuzzing C/C++ code.

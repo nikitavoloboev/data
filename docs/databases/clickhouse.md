@@ -40,3 +40,5 @@ title: ClickHouse
 - [ClickHouse Node.JS client](https://github.com/ClickHouse/clickhouse-js)
 - [ClickHouse TS client](https://github.com/proximahq/clickhouse)
 - [Klickhouse](https://github.com/Protryon/klickhouse) - Rust crate for accessing Clickhouse.
+- [asynch](https://github.com/long2ice/asynch) - Asyncio ClickHouse Python Driver with native (TCP) interface support.
+- [ClickHouse Cloud is now in Public Beta (2022)](https://clickhouse.com/blog/clickhouse-cloud-public-beta) ([HN](https://news.ycombinator.com/item?id=33080631))

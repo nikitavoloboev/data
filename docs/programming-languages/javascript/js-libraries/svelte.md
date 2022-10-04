@@ -297,3 +297,4 @@ title: Svelte
 - [Svelte Motion](https://github.com/micha-lmxt/svelte-motion) - Animation library for Svelte based on framer-motion.
 - [SvelteKit + is-land](https://github.com/geoffrich/sveltekit-is-land) - Partial hydration in SvelteKit.
 - [Native Page Transitions in SvelteKit (2022)](https://geoffrich.net/posts/page-transitions-1/)
+- [SvelteKit & WunderGraph demo](https://github.com/r-moore/sveltekit-wundergraph)

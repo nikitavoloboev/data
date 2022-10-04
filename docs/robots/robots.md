@@ -184,3 +184,4 @@
 - [Robotic Processing Unit](https://github.com/ros-acceleration/robotic_processing_unit) - Robot-specific processing unit. Contains CPUs, FPGAs and GPUs and maps ROS efficiently to them for best performance.
 - [TEASER++](https://github.com/MIT-SPARK/TEASER-plusplus) - Fast and robust point cloud registration library.
 - [Write fast robotics code: transcendental footguns (2022)](https://jingnanshi.com/blog/transcendental_robotics_coding.html)
+- [Awesome LLM Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)

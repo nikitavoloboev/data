@@ -53,6 +53,7 @@
 - [Guidepup](https://github.com/guidepup/guidepup) - Screen-reader driver for automation.
 - [Biomanufactured materials are coming (2022)](https://www.tsungxu.com/performance-biomaterials/) ([HN](https://news.ycombinator.com/item?id=32712015))
 - [peace](https://github.com/azriel91/peace) - Framework to build user friendly software automation.
+- [Why is it so hard to write a scaffolding tool? (2019)](https://jfreeman.dev/blog/2019/05/02/why-is-it-so-hard-to-write-a-scaffolding-tool/) ([HN](https://news.ycombinator.com/item?id=33079544))
 
 ## Images
 

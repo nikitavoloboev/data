@@ -586,6 +586,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Matt Rothenberg](https://mattrothenberg.com/)
 - [Salavat Abdullin](https://salavat.me/)
 - [Colin Shum](https://colinshum.com/)
+- [Jon Mayes](https://jonmayes.tv/)
 - [Angelika Tyborska](https://angelika.me/)
 - [Paul Glushak](https://0xff.nu/)
 - [Shawn Wang](https://www.swyx.io/) ([Code](https://github.com/sw-yx/swyxdotio))
@@ -1048,3 +1049,4 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Creative web layouts](https://twitter.com/fritzisonline/status/1565974664463073280)
 - [Framer: Website Templates](https://www.framer.com/templates/)
 - [Favorite landing pages](https://twitter.com/traf/status/1572336972148146178)
+- [Awwwards](https://www.awwwards.com/) - Website Awards - Best Web Design Trends.

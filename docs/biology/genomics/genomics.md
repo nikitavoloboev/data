@@ -201,3 +201,4 @@ title: Genomics
 - [RagTag](https://github.com/malonge/RagTag) - Tools for fast and flexible genome assembly scaffolding and improvement.
 - [Two-layer design protects genes from mutations in their enhancers (2022)](https://www.nature.com/articles/d41586-022-02341-3)
 - [The Era of Fast, Cheap Genome Sequencing Is Here (2022)](https://www.wired.com/story/the-era-of-fast-cheap-genome-sequencing-is-here/)
+- [EggNOG-mapper](https://github.com/eggnogdb/eggnog-mapper) - Tool for fast functional annotation of novel sequences.

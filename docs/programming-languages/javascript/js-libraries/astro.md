@@ -56,3 +56,4 @@ title: Astro
 - [Seamless Page Transitions with Astro and Web Platform APIs (with Maxi Ferreira) (2022)](https://someantics.dev/astro-page-transitions/)
 - [Astro x tRPC](https://github.com/MoustaphaDev/astro-trpc) - End-to-end typesafe APIs in Astro wesbites made easy.
 - [Astro Portable Text](https://github.com/theisel/astro-portabletext) - Render Portable Text with Astro.
+- [Persistent Island with Astro](https://twitter.com/charca/status/1577043347176189952)

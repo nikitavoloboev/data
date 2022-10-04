@@ -299,6 +299,7 @@ Below is a list of extensions I use.
 ## ML
 
 - [DVC Extension](https://github.com/iterative/vscode-dvc) - Run, compare, visualize, and track machine learning experiments right in VS Code.
+- [DescribeML](https://github.com/SOM-Research/DescribeML) - VSCode language plugin to describe machine-learning datasets.
 
 ## Markdown
 

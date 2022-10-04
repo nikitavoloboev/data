@@ -195,6 +195,8 @@ div.CodeMirror-cursor,
 - [Obsidian 3D Graph](https://github.com/AlexW00/obsidian-3d-graph)
 - [Metadata Menu](https://github.com/mdelobelle/metadatamenu) - Manage the metadata of your notes.
 - [Obsidian Map View](https://github.com/esm7/obsidian-map-view) - Interactive map view for Obsidian.
+- [Homepage](https://github.com/mirnovov/obsidian-homepage) - Obsidian plugin that opens a specified note on startup, instead of the most recent one.
+- [Strange New Worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Discover the connections of thought in your Obsidian vault.
 
 ## Themes
 

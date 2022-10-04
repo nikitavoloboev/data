@@ -130,3 +130,5 @@ title: Raspberry Pi
 - [balenaSound](https://github.com/balenalabs/balena-sound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect.
 - [cyw43](https://github.com/embassy-rs/cyw43) - Pure-Rust driver for the CYW43439 (WiFi chip used in the Raspberry Pi Pico W).
 - [Laser device for neutralizing - mosquitoes, asian hornet, weeds and pests](https://github.com/Ildaron/Laser_control)
+- [PicoHTTPServer](https://github.com/sysprogs/PicoHTTPServer) - Turns your Raspberry Pi Pico W into a Wi-Fi access-point. Allowing to control individual pins of the board.
+- [Go-Pico](https://github.com/djthorpe/go-pico) - Raspberry Pi RP2040 Pico SDK for Go.

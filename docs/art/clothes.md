@@ -78,3 +78,4 @@ In general, I love [Christian Sieber](https://www.instagram.com/christiansieber/
 - [Michele Carragher Embroidery](https://www.michelecarragherembroidery.com/)
 - [NAE Vegan Shoes](https://www.nae-vegan.com/en/)
 - [Alex Rivière Studio](https://alexrivierestudio.com/) ([IG](https://www.instagram.com/alexrivierestudio/))
+- [The technology behind Bella Hadid’s spray-on dress (2022)](https://wired.me/technology/all-you-need-to-know-about-the-technology-behind-bella-hadids-spray-on-dress/) ([HN](https://news.ycombinator.com/item?id=33071055))

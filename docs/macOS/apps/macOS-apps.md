@@ -222,6 +222,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Marta](https://marta.sh/) - File Manager for macOS.
 - [Superlayer](https://apps.apple.com/app/id1601796450) - Widget Engine for macOS. ([Docs](https://github.com/martinlexow/superlayer-support))
 - [PastePal](https://onmyway133.com/pastepal/) - Universal pasteboard manager for Mac, iPhone and iPad. ([Docs](https://github.com/onmyway133/PastePal))
+- [Codelime](https://onmyway133.com/codelime/) - Powerful code snippet manager. ([Docs](https://github.com/onmyway133/Codelime))
 
 ## Links
 

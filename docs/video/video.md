@@ -408,3 +408,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [summarize.tech](https://www.summarize.tech/) - AI-powered video summaries.
 - [Make-A-Video](https://makeavideo.studio/) - SOTA text to video generator from Meta AI, in PyTorch. ([Code](https://github.com/lucidrains/make-a-video-pytorch)) ([HN](https://news.ycombinator.com/item?id=33020181))
 - [YouTube-Scissors CLI](https://github.com/Guuzzeji/youtube-scissors-cli) - Simple CLI app that allows you to divide a YouTube video into multiple separate videos base on a video's time stamps.
+- [VIVICT](https://github.com/vivictorg/vivict) - Easy to use in-browser tool for subjective comparison of the visual quality of different encodings of the same video source.

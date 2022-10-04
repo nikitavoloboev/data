@@ -282,3 +282,4 @@
 - [How Tencent Maintains Apache Pulsar Clusters with over 100 Billion Messages Daily (2022)](https://streamnative.io/blog/case/2022-08-18-client-optimization-how-tencent-maintains-apache-pulsar-clusters-with-over-100-billion-messages-daily/)
 - [CID (Content IDentifier) Specification](https://github.com/multiformats/cid) - Self-describing content-addressed identifiers for distributed systems.
 - [Aurae](https://github.com/aurae-runtime/aurae) - Simplified distributed systems runtime for application teams. Written in Rust.
+- [Raft Is So Fetch: The Raft Consensus Algorithm Explained Through Mean Girls (2022)](https://www.cockroachlabs.com/blog/raft-is-so-fetch/) ([HN](https://news.ycombinator.com/item?id=33071069))

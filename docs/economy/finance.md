@@ -224,3 +224,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Tiingo Python](https://github.com/hydrosquall/tiingo-python) - Python client for interacting with the Tiingo Financial Data API (stock ticker and news data).
 - [Venice](https://github.com/usevenice/venice) - Fastest way to get financial data from Plaid into your Postgres database. Go from zero to production in 5 minutes without a single line of code.
 - [Orderbook: an experimental order filling engine written in Go (2022)](https://dylanlott.com/orderbook/) ([Lobsters](https://lobste.rs/s/ml37oz/orderbook_experimental_order_filling))
+- [ginvoicer](https://github.com/tinyzimmer/ginvoicer) - Command line utility and library for generating professional looking invoices in Go.

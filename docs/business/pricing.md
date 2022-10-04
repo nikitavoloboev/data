@@ -19,6 +19,7 @@
 - [Give away general info, charge for contextual advice. Make the value for the customer immediately obvious. Pricing should be straightforward.](https://twitter.com/VicVijayakumar/status/1424173615847772161)
 - [Took me a long time to get comfortable accepting a one-time purchase business model as not being “inferior” to recurring, but there are tons of advantages. And even without subscription, our revenue is still very predictable week to week (+/- 10%). Ultimately of course it’s the type of product you’re selling and how it delivers value that should determine the pricing model, not just “whichever one you like better”. But don’t dismiss a good idea just because it wouldn’t be recurring, one-time is a very legit business model.](https://twitter.com/adamwathan/status/1440816886996865025)
 - [Many so call 'sales' don't change the price and only put the sale tag to provoke buying at the same price](https://twitter.com/yongfook/status/1462909377594019843)
+- [Don't do 'Get in touch for pricing'. Will lose many customers.](https://twitter.com/levelsio/status/1577020325409062912)
 
 ## Links
 

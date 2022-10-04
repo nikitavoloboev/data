@@ -220,3 +220,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Scraping a website protected by Cloudflare (2022)](https://www.reddit.com/r/golang/comments/xaisg4/is_it_possible_to_scrape_a_website_protected_by/)
 - [SABLE](https://github.com/uscensusbureau/SABLE) - Scraping Assisted by Learning.
 - [HTML to Text](https://github.com/TeamHG-Memex/html-text)
+- [Crawly](https://github.com/elixir-crawly/crawly) - High-level web crawling & scraping framework for Elixir.

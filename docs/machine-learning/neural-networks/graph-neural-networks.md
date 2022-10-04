@@ -129,3 +129,4 @@
 - [Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs (2020)](https://arxiv.org/abs/2006.11468) ([Code](https://github.com/GemsLab/H2GCN))
 - [M3GNet](https://github.com/materialsvirtuallab/m3gnet) - Materials graph network with 3-body interactions featuring a DFT surrogate crystal relaxer and a state-of-the-art property predictor.
 - [Memory-Based Graph Networks (2020)](https://arxiv.org/abs/2002.09518) ([Code](https://github.com/amirkhas/GraphMemoryNet))
+- [Contrastive Multi-View Representation Learning on Graphs (2020)](https://arxiv.org/abs/2006.05582) ([Code](https://github.com/kavehhassani/mvgrl))

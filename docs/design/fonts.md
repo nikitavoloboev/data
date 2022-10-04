@@ -132,6 +132,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Minecraft Font](https://github.com/IdreesInc/Minecraft-Font)
 - [Hasköy](https://github.com/ertekinno/haskoy) - Open-source variable sans-serif typeface family. ([Web](https://haskoy.ertekinn.com/))
 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont) ([HN](https://news.ycombinator.com/item?id=32799872))
+- [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono) - Helvetica Monospace Coding Font.
 
 ## Links
 

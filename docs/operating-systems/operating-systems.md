@@ -166,6 +166,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Lyre](https://github.com/lyre-os/lyre) - Effort to write a modern, fast, and useful operating system.
 - [Novusk](https://github.com/NathanMcMillan54/novusk) - Kernel written in Rust inspired by Linux.
 - [camellia](https://github.com/dzwdz/camellia) - Experimental, work-in-progress, microkernel based on some of my ideas for privilege separation.
+- [Xous Core](https://github.com/betrusted-io/xous-core) - Microkernel operating system.
 
 ## Notes
 
@@ -381,3 +382,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [We clone a running VM in 2 seconds (2022)](https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds) ([HN](https://news.ycombinator.com/item?id=32683834))
 - [DBOS: A database-oriented operating system](https://dbos-project.github.io/blog/intro-blog.html) ([HN](https://news.ycombinator.com/item?id=32705025))
 - [Can I Use a System Call? | Cosmopolitan Libc](https://justine.lol/cosmopolitan/functions.html) ([Lobsters](https://lobste.rs/s/hdbb22/can_i_use_system_call)) ([HN](https://news.ycombinator.com/item?id=32920227))
+- [Ask HN: Examples of Microkernels? (2022)](https://news.ycombinator.com/item?id=33078441)

@@ -19,6 +19,7 @@
 - [doctest](https://github.com/doctest/doctest) - Fastest feature-rich C++11/14/17/20 single-header testing framework.
 - [UT](https://github.com/boost-ext/ut) - C++20 μ(micro)/Unit Testing Framework.
 - [Tau](https://github.com/jasmcaus/tau) - Micro Unit Test Framework for C/C++.
+- [FuzzTest](https://github.com/google/fuzztest) - Open-source C++ fuzz testing framework targeted for developers.
 
 ## Concurrency
 

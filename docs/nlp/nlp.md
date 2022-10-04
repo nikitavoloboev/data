@@ -655,3 +655,5 @@
 - [CodeGeeX: A Multilingual Code Generative Model (2022)](https://keg.cs.tsinghua.edu.cn/codegeex/)
 - [The first neural machine translation system for the Erzya language (2022)](https://arxiv.org/abs/2209.09368) ([Code](https://github.com/slone-nlp/myv-nmt))
 - [Awesome Efficient PLM Papers](https://github.com/TobiasLee/Awesome-Efficient-PLM)
+- [Polyglot: Large Language Models of Well-balanced Competence in Multi-languages](https://github.com/EleutherAI/polyglot)
+- [Interactive Composition Explorer](https://github.com/oughtinc/ice) - Python library and trace visualizer for language model programs.

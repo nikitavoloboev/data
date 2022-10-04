@@ -254,3 +254,4 @@ Use this [Solid/Vite](https://github.com/fuyutarow/solid-chrome-extension-templa
 - [TorpedoRead](https://github.com/unreleased/TorpedoRead) - Browser extension that biohacks your brain into reading quicker with a deeper focus.
 - [Favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js.
 - [natbot](https://github.com/nat/natbot) - Drive a browser with GPT-3.
+- [Microlink](https://microlink.io/) - Fast, scalable, and reliable browser automation. ([GitHub](https://github.com/microlinkhq))

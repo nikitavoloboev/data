@@ -115,3 +115,4 @@ title: Field-programmable gate array
 - [iCEBreaker FPGA Workshop](https://github.com/icebreaker-fpga/icebreaker-workshop)
 - [LXP32-CPU](https://github.com/lxp32/lxp32-cpu) - Lightweight, open source and FPGA-friendly 32-bit CPU core based on an original instruction set.
 - [Intel announces new FPGA families (2022)](https://fpgaer.tech/?p=561) ([HN](https://news.ycombinator.com/item?id=33017160))
+- [MNT RKX7 Open Hardware FPGA CPU Module Showcase (2022)](https://mntre.com/media/reform_md/2022-09-29-rkx7-showcase.html)

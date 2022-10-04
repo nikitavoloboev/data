@@ -697,3 +697,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Cairo Math 64x61](https://github.com/influenceth/cairo-math-64x61) - Fixed point 64.61 math library for Cairo / Starknet.
 - [Ethereum Beacon APIs](https://github.com/ethereum/beacon-APIs) - Collection of RESTful APIs provided by Ethereum Beacon nodes.
 - [Useful Solidity Patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns)
+- [GraphStack](https://github.com/brockelmore/graphstack) - Generates a symbolic graph of what happens to various aspects of the EVM.

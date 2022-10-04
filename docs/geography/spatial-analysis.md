@@ -258,3 +258,5 @@ title: Spatial analysis
 - [derive](https://github.com/erik/derive) - Generate a heatmap from GPS tracks.
 - [Qwant Maps](https://www.qwant.com/maps/) - Map application that respects your privacy. ([Code](https://github.com/Qwant/qwantmaps))
 - [Predicting (and learning) taxi trip durations in real-time](https://github.com/MaxHalford/taxi-demo-rp-mz-rv-rd-st) - Self-contained demo using Redpanda, Materialize, River, Redis, and Streamlit to predict taxi trip durations.
+- [Datamaps](https://github.com/markmarkoh/datamaps) - Customizable SVG map visualizations for the web in a single JavaScript file using D3.js.
+- [Shapefile.js](https://github.com/calvinmetcalf/shapefile-js) - Convert a Shapefile to GeoJSON.

@@ -46,3 +46,4 @@ title: Chrome DevTools
 - [Chrome DevTools Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) - Intelligent proxy for debugging purposes.
 - [Investigate Animation Performance with DevTools (2019)](https://calibreapp.com/blog/investigate-animation-performance-with-devtools)
 - [Can I DevTools?](https://www.canidev.tools/)
+- [basic-devtools](https://github.com/WebReflection/basic-devtools) - Exports `$`, `$$`, and `$x` utilities as described in Chrome Console Utilities API reference.

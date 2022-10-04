@@ -342,6 +342,7 @@
 - [Speculare Server](https://github.com/speculare-cloud/speculare-server) - Receive, store info coming from the client into the database and handle alerts to report incidents based on criteria.
 - [ekv](https://github.com/Dirbaio/ekv) - Key-value store for embedded systems, for raw NOR flash, using an LSM-Tree.
 - [linked-hash-map](https://github.com/contain-rs/linked-hash-map) - HashMap wrapper that holds key-value pairs in insertion order.
+- [zerocopy](https://github.com/google/zerocopy) - Safe zero-copy parsing and serialization.
 
 ## Video
 
@@ -2211,6 +2212,8 @@
 - [Bluest](https://github.com/alexmoon/bluest) - Cross-platform Rust crate for working with Bluetooth Low Energy devices.
 - [Confique](https://github.com/LukasKalbertodt/confique) - Type-safe, layered configuration library.
 - [proc-exit](https://github.com/rust-cli/proc-exit) - Exit codes for process termination.
+- [Nodi](https://github.com/insomnimus/nodi) - Rust library for playing and abstraction of MIDI files.
+- [Vibrato](https://github.com/daac-tools/vibrato) - Fast implementation of tokenization (or morphological analysis) based on the Viterbi algorithm.
 
 ## Cargo Plugins
 
@@ -2310,6 +2313,7 @@
 - [cargo-changelog](https://github.com/matthiasbeyer/cargo-changelog) - Changelog management tool for CLI.
 - [cargo-careful](https://github.com/RalfJung/cargo-careful) - Execute Rust code carefully, with extra checking along the way.
 - [cargo-docset](https://github.com/Robzz/cargo-docset) - Generate a Zeal/Dash docset for your Rust crate or workspace.
+- [cargo-cranky](https://github.com/ericseppanen/cargo-cranky) - Easy to configure wrapper for Rust's clippy.
 
 ## Notes
 
@@ -2471,3 +2475,4 @@
 - [Rust-to-NPM](https://github.com/a11ywatch/rust-to-npm) - Deploy a rust project to crates.io and npm in one command.
 - [Documentation of Rust error handling](https://github.com/nrc/error-docs)
 - [Example for Axum style magic function parameter passing](https://github.com/alexpusch/rust-magic-function-params)
+- [How (and why) nextest uses tokio (2022)](https://sunshowers.io/posts/nextest-and-tokio-1/)

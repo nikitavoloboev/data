@@ -178,3 +178,5 @@ title: Django
 - [Django Hypergen](https://github.com/runekaagaard/django-hypergen) - Write server-rendered reactive HTML liveviews for Django in pure python.
 - [Django Model Values](https://github.com/coady/django-model-values) - Taking the O out of ORM.
 - [Production Tips for Django Apps (2022)](https://raunaqss.com/engineering/django-production-tips/) ([Lobsters](https://lobste.rs/s/2kmzni/production_tips_for_django_apps))
+- [Deploy a Django app with fly.io (2022)](https://davi.sh/blog/2022/10/django-with-flyio/)
+- [Django Interactive Models](https://github.com/mrswats/django-interactive-models) - Create Django Models interactively.

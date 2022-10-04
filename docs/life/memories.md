@@ -41,3 +41,4 @@ Because that's what life is. Trying to peek under the covers of this reality onl
 - [The Memory Techniques Wiki](https://artofmemory.com/wiki/Main_Page/)
 - [Ask HN: How to remember technical topics which you don’t use/refer everyday? (2022)](https://news.ycombinator.com/item?id=31707134)
 - [Cumulative loneliness and subsequent memory function](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12734) ([HN](https://news.ycombinator.com/item?id=32347681))
+- [Paul McCartney's Freakish Memory (2022)](https://ianleslie.substack.com/p/paul-mccartneys-freakish-memory) ([HN](https://news.ycombinator.com/item?id=33071090))

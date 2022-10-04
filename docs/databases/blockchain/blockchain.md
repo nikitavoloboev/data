@@ -406,3 +406,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [DEX](https://github.com/decred/dcrdex) - Decred Decentralized Exchange (DEX), powered by atomic-swaps.
 - [Actor model for blockchains](https://twitter.com/hdevalence/status/1574053540649205760)
 - [oncyber](https://oncyber.io/) - Build your own world, experience with others.
+- [MUD](https://mud.dev/) - Aims to solve all the hard problems of building on-chain games. ([Code](https://github.com/latticexyz/mud))

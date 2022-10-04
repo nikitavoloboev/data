@@ -272,3 +272,4 @@ And these Discord servers:
 - [The Speed Report • Which news website is the fastest?](https://legiblenews.com/speed) ([HN](https://news.ycombinator.com/item?id=31910622))
 - [Autosummarized Hacker News (with GPT-3)](https://danieljanus.pl/autosummarized-hn/)
 - [How to stop being “terminally online”](https://nights.bearblog.dev/how-to-stop-being-terminally-online/) ([HN](https://news.ycombinator.com/item?id=32374207))
+- [Hckr News](https://hckrnews.com/) - Hacker News sorted by time. ([HN](https://news.ycombinator.com/item?id=33074025))

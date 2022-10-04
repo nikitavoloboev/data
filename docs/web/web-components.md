@@ -111,3 +111,5 @@ title: Web Components
 - [WebComponents.org](https://www.webcomponents.org/) - Discuss & share web components. ([Code](https://github.com/webcomponents/webcomponents.org))
 - [Custom Elements Everywhere](https://github.com/webcomponents/custom-elements-everywhere) - Custom Element + Framework Interoperability Tests.
 - [Good resources to learn Web Components (2022)](https://twitter.com/claviska/status/1575949212201930752)
+- [Lume Element](https://github.com/lume/element) - Easily create Custom Elements with simple templates and reactivity.
+- [Enhance SSR](https://github.com/enhance-dev/enhance-ssr) - Server side render for custom elements.

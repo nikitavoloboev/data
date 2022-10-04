@@ -110,6 +110,8 @@
 - [help-me](https://github.com/mcollina/help-me) - Help command for node, to use with minimist and commist.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Collection of common interactive command line user interfaces.
 - [Handle-CLI-Error](https://github.com/ehmicky/handle-cli-error) - Error handler for CLI applications.
+- [meow](https://github.com/sindresorhus/meow) - CLI app helper.
+- [termynal](https://github.com/ines/termynal) - Lightweight and modern terminal animations using async/await.
 
 ## ML
 

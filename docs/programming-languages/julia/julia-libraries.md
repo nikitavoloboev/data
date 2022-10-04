@@ -744,6 +744,7 @@
 - [Suppressor](https://github.com/JuliaIO/Suppressor.jl) - Julia macros for suppressing and/or capturing output (STDOUT), warnings (STDERR) or both streams at the same time.
 - [Diderot.jl](https://github.com/rschwarz/Diderot.jl) - Decision Diagrams for Discrete Optimization in Julia.
 - [SCIP.jl](https://github.com/scipopt/SCIP.jl) - Julia interface to SCIP solver.
+- [PlutoRESTClient](https://github.com/JuliaPluto/PlutoRESTClient.jl) - Interact with your Pluto notebooks from other Julia programs.
 
 ## Links
 

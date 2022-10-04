@@ -125,6 +125,7 @@
 - [modelcards](https://github.com/nateraw/modelcards) - Utility to create, edit, and publish model cards on the Hugging Face Hub.
 - [xbatcher](https://github.com/xarray-contrib/xbatcher) - Batch Generation from Xarray Datasets.
 - [scikit-opt](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python.
+- [TSInterpret](https://github.com/fzi-forschungszentrum-informatik/TSInterpret) - Python library for interpreting time series classification.
 
 ## Biology
 
@@ -178,6 +179,7 @@
 - [aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python.
 - [Plyvel](https://github.com/wbolster/plyvel) - Fast and feature-rich Python interface to LevelDB.
 - [ormar](https://github.com/collerek/ormar) - Async mini ORM for Python, with support for Postgres, MySQL, and SQLite.
+- [ormar-postgres-extensions](https://github.com/tophat/ormar-postgres-extensions) - Extensions to the Ormar ORM to support PostgreSQL specific types.
 - [yoyo-migrations](https://pypi.org/project/yoyo-migrations/) - Database schema migration tool. Database migrations can be written as SQL files or Python scripts.
 - [PyPika](https://github.com/kayak/pypika) - Python API for building SQL queries. Excels at all sorts of SQL queries but is especially useful for data analysis.
 - [Tortoise ORM](https://github.com/tortoise/tortoise-orm) - Easy-to-use asyncio ORM inspired by Django.
@@ -1178,3 +1180,4 @@
 - [huak](https://github.com/cnpryer/huak) - Python package manager written in Rust. The Cargo for Python.
 - [not-a-package-manager](https://github.com/dmarx/not-a-package-manager) - Utilities to facilitate working with codebases that don't ascribe to normal package management paradigms, e.g. ML research code that can be cloned but not installed.
 - [Hatch-Fancy-PyPI-readme](https://github.com/hynek/hatch-fancy-pypi-readme) - Hatch metadata plugin for everyone who cares about the first impression of their project’s PyPI landing page.
+- [Isolate](https://github.com/fal-ai/isolate) - Managed isolated environments for Python.

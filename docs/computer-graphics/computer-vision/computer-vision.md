@@ -949,3 +949,6 @@
 - [Vision OSC](https://github.com/LingDong-/VisionOSC) - Send (almost) all Apple Vision Framework's detection results via OSC.
 - [Synergistic Self-supervised and Quantization Learning (2022)](https://arxiv.org/abs/2207.05432) ([Code](https://github.com/megvii-research/SSQL-ECCV2022))
 - [Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models (2022)](https://arxiv.org/abs/2209.06970) ([Code](https://github.com/ChenWu98/Generative-Visual-Prompt))
+- [StyleSwap: Style-Based Generator Empowers Robust Face Swapping (2022)](https://hangz-nju-cuhk.github.io/projects/StyleSwap) ([Code](https://github.com/Seanseattle/StyleSwap))
+- [IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis (2022)](https://zju3dv.github.io/intrinsic_nerf/) ([Code](https://github.com/zju3dv/IntrinsicNeRF))
+- [VMFormer: End-to-End Video Matting with Transformer (2022)](https://arxiv.org/abs/2208.12801) ([Code](https://github.com/SHI-Labs/VMFormer))

@@ -176,6 +176,8 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Dungeon Crawler](https://github.com/larsjarlvik/dungeon-crawler) - Cross platform 3D dungeon crawler RPG.
 - [Escape Guldur](https://github.com/hazeycode/escape-guldur) - Retro action-RPG written in Zig for the WASM-4 fantasy console.
 - [Botnet](https://github.com/JMS55/botnet) - Multiplayer programming game using Rust and WebAssembly.
+- [Unvanquished](https://github.com/Unvanquished/Unvanquished) - FPS/RTS hybrid game powered by the Daemon engine.
+- [Thyme](https://github.com/TheAssemblyArmada/Thyme) - Open source re-implementation of Generals : Zero Hour written in C++.
 
 ## Awesome games (other)
 

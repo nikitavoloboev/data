@@ -127,3 +127,4 @@
 - [Akvorado](https://github.com/akvorado/akvorado) - Flow collector, hydrater and visualizer.
 - [Columnq](https://github.com/roapi/roapi/blob/main/columnq-cli/README.md) - Run SQL on CSV, Parquet, JSON, Arrow, Unix Pipes and Google Sheet. ([HN](https://news.ycombinator.com/item?id=32963900))
 - [Grai](https://github.com/grai-io/grai-core) - Data lineage made simple. Grai makes it easy to understand how your data relates together across databases, warehouses, APIs and dashboards. ([Web](https://www.grai.io/))
+- [Kuma-san's toolbox for data analysis](https://github.com/analokmaus/kuma_utils)

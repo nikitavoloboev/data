@@ -4,6 +4,8 @@ title: GPU
 
 # [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
 
+[Banana](https://www.banana.dev/) has nice cloud GPU pricing.
+
 ## Links
 
 - [cuDF](https://github.com/rapidsai/cudf) - GPU DataFrame Library.
@@ -123,3 +125,5 @@ title: GPU
 - [What are Tensor Cores?](https://twitter.com/cHHillee/status/1567590401028296704)
 - [GeForce RTX 40 Series](https://www.nvidia.com/es-es/geforce/graphics-cards/40-series/) ([HN](https://news.ycombinator.com/item?id=32912953))
 - [Nvidia GPU exporter for Prometheus](https://github.com/utkuozdemir/nvidia_gpu_exporter)
+- [CoreWeave](https://coreweave.com/) - GPU Cloud.
+- [Banana](https://www.banana.dev/) - Machine Learning Model Deployment on Serverless GPUs. ([Twitter](https://twitter.com/BananaDev_))

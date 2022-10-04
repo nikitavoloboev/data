@@ -122,3 +122,4 @@
 - [LALRPOP](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust.
 - [Yap](https://github.com/jsdw/yap) - Parser library for Rust.
 - [pratt](https://github.com/segeljakt/pratt) - General Purpose Pratt Parser for Rust.
+- [Let's write a JSON parser in Rust](https://github.com/ericseppanen/json-parser-toy)
