@@ -370,4 +370,4 @@ title: WebAssembly
 - [Why didn't Figma trigger a WASM gold rush?](https://twitter.com/simonw/status/1576001019296636928)
 - [WasmServe](https://github.com/hajimehoshi/wasmserve) - HTTP server for testing WASM.
 - [Capsule](https://github.com/bots-garden/capsule) - WebAssembly function launcher(runner). ([HN](https://news.ycombinator.com/item?id=33054212))
-- [Persistent Storage in WebAssembly Applications](https://www.fermyon.com/blog/persistent-storage-in-webassembly-applications)
+- [Persistent Storage in WebAssembly Applications](https://www.fermyon.com/blog/persistent-storage-in-webassembly-applications) ([Video](https://www.youtube.com/watch?v=UJxMHNcQDxs))

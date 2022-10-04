@@ -1824,6 +1824,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Frisbee-Go](https://github.com/loopholelabs/frisbee-go) - Go implementation of Frisbee - a bring-your-own protocol messaging framework designed for performance and stability.
 - [go-concurrency](https://github.com/jamestrandung/go-concurrency) - Comprehensive support for complex concurrency requirements in Go.
 - [go-hostpool](https://github.com/bitly/go-hostpool) - Intelligently and flexibly pool among multiple hosts from your Go application.
+- [Opus](https://github.com/pion/opus) - Pure Go implementation of the Opus audio codec. ([Reddit](https://www.reddit.com/r/golang/comments/xui6l5/pure_go_implementation_of_the_opus_audio_codec/))
 
 ## Links
 

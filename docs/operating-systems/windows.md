@@ -55,3 +55,4 @@
 - [Ask HN: Has anyone here worked on the Windows kernel? (2022)](https://news.ycombinator.com/item?id=32076677)
 - [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater)
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Deep Packet Inspection circumvention utility (for Windows).
+- [Windows equivalents for common Mac dev tools (2022)](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev)

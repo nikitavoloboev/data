@@ -823,3 +823,4 @@ title: Kubernetes
 - [metrics-agent](https://github.com/cloudability/metrics-agent) - Collects allocation metrics from a Kubernetes cluster system and sends the metrics to cloudability.
 - [Kamaji](https://github.com/clastix/kamaji) - Deploys and operates Kubernetes at scale with a fraction of the operational burden.
 - [Palaemon](https://github.com/oslabs-beta/Palaemon) - Open-source developer tool for monitoring health and resource metrics of Kubernetes clusters and analyzing Out of Memory (OOMKill) errors.
+- [jsonnet-controller](https://github.com/pelotech/jsonnet-controller) - Fluxcd controller for managing manifests declared in jsonnet.
