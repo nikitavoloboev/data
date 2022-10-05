@@ -1,5 +1,7 @@
 # Ad blocking
 
+Use [Wipr](https://giorgiocalderolla.com/wipr.html) on [iOS](../operating-systems/ios/ios.md) & [macOS](../macOS/macOS.md) to block ads/trackers.
+
 ## Links
 
 - [Pi-hole](https://pi-hole.net/) - Network-wide ad blocking via your own Linux hardware. ([Docs](https://docs.pi-hole.net/)) ([Docs Code](https://github.com/pi-hole/docs)) ([Code](https://github.com/pi-hole/pi-hole))

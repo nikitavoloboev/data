@@ -659,3 +659,4 @@
 - [Interactive Composition Explorer](https://github.com/oughtinc/ice) - Python library and trace visualizer for language model programs.
 - [TrAVis: Transformer Attention Visualizer](https://ayaka14732.github.io/TrAVis/) ([Code](https://github.com/ayaka14732/TrAVis))
 - [Knowledge Unlearning for Mitigating Privacy Risks in Language Models (2022)](https://arxiv.org/abs/2210.01504) ([Code](https://github.com/joeljang/knowledge-unlearning))
+- [SpeechCLIP: Integrating Speech with Pre-Trained Vision and Language Model (2022)](https://arxiv.org/abs/2210.00705) ([Code](https://github.com/atosystem/SpeechCLIP))

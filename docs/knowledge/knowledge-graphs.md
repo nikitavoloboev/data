@@ -125,3 +125,4 @@
 - [Side](https://github.com/facebookresearch/side) - Effort to improve citations on Wikipedia.
 - [muKG](https://github.com/nju-websoft/muKG) - Library for Multi-source Knowledge Graph Embeddings and Applications.
 - [Artifact Friend Finder (AFF) Knowledge Graph](https://github.com/artifact-ff/artifact-ff)
+- [Graphster](https://github.com/wisecubeai/graphster) - Spark-based library that helps construct and query knowledge graphs from unstructured and structured data.

@@ -217,3 +217,4 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [Twitter branching threads](https://twitter.com/jordanmoore/status/1574827170492551207)
 - [FixTweet](https://github.com/dangeredwolf/FixTweet) - Embed Twitter videos, polls, translations, & more on Discord and Telegram.
 - [ModernDeck](https://moderndeck.app/) - Beautiful, powerful Twitter client for desktop. ([Code](https://github.com/dangeredwolf/ModernDeck))
+- [How to analyze edited Tweets with the Twitter API v2 using Python (2022)](https://dev.to/suhemparack/how-to-analyze-edited-tweets-with-the-twitter-api-v2-using-python-odj)

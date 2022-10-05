@@ -16,3 +16,4 @@ title: DuckDB
 - [Using DuckDB in Python to access Parquet data](https://til.simonwillison.net/duckdb/parquet) ([Tweet](https://twitter.com/simonw/status/1570968646096420864))
 - [Querying Postgres Tables Directly from DuckDB (2022)](https://duckdb.org/2022/09/30/postgres-scanner.html) ([HN](https://news.ycombinator.com/item?id=33035803))
 - [DuckDB Postgres scanner extension](https://github.com/duckdblabs/postgres_scanner) - Extension allows DuckDB to directly read data from a running Postgres instance.
+- [Duckegg](https://github.com/philzook58/duckegg) - Embedded python datalog implementation built around DuckDB to supply it's core functionality.

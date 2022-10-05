@@ -6,7 +6,7 @@ title: Ethereum
 
 Ethereum is a virtual machine built using a blockchain (spread around many clients) that lets you create and run smart contracts (arbitrary code) that then run in perpetuity.
 
-It is quite useless however due to it having [too high fees](https://twitter.com/austerity_sucks/status/1457064593591840773) compared to [any other proper PoS chain](https://twitter.com/immaterial_ink/status/1457453404087857162). [Solidity](https://soliditylang.org) is nice prototype language which you can use with [Solang](https://solang.readthedocs.io/en/latest/) & compile it to [more efficient chains](https://twitter.com/deepfates/status/1458937791430098947).
+[Solidity](https://soliditylang.org) is nice prototype language. You can also use [Solang](https://solang.readthedocs.io/en/latest/) to compile it for [Solana](solana.md) chain.
 
 [StarkNet](https://starkware.co/starknet/) & [Cairo](https://www.cairo-lang.org/) are interesting. [Eth2 Book](https://eth2.incessant.ink/book/00__introduction/00__foreword.html) seems nice.
 
@@ -699,3 +699,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Useful Solidity Patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns)
 - [GraphStack](https://github.com/brockelmore/graphstack) - Generates a symbolic graph of what happens to various aspects of the EVM.
 - [MEV Template](https://github.com/DeGatchi/mev-template-rs) - Template to build a MEV bot from.
+- [Micro-Web3](https://github.com/paulmillr/micro-web3) - Typesafe Web3 with minimum deps: call eth contracts directly from JS.

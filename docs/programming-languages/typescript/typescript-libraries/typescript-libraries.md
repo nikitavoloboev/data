@@ -110,6 +110,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [hanbi](https://github.com/43081j/hanbi) - Small and simple library for stubbing and spying on methods and functions in JavaScript tests.
 - [user-event](https://github.com/testing-library/user-event) - Fire events the same way the user does.
 - [File generator](https://github.com/poppinss/file-generator) - Generate fake in-memory files for varying sizes.
+- [Fast-Fuzz](https://github.com/WeWatchWall/fast-fuzz) - Test Case Generator Based on Branch Coverage and Fuzzing.
 
 ## Auth
 
@@ -637,6 +638,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Primer Primitives](https://github.com/primer/primitives) - Color, typography, and spacing primitives in JSON.
 - [Snowyflake](https://github.com/negezor/snowyflake) - Modern implementation Snowflake on TypeScript.
 - [Middleware-IO](https://github.com/negezor/middleware-io) - Modern middleware on Promise.
+- [Validator Lite](https://github.com/poppinss/validator-lite) - Typed schema based validation with low calories.
 
 ## Links
 

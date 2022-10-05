@@ -4,7 +4,9 @@ title: Bitcoin
 
 # [Bitcoin](https://bitcoin.org/en/)
 
-Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/status/1350869944888664064) which made history for being the [first true digital cryptocurrency](https://bitcoin.org/bitcoin.pdf) (solved double spending issue in decentralized way). [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md) are a more efficient and more powerful versions of Bitcoin due to Bitcoin's [wasteful & slow transactions](https://www.youtube.com/watch?v=f0HC1Udk6-E) and [horrible PoW consensus algorithm](https://www.youtube.com/watch?v=bBC-nXj3Ng4). Hopefully soon [all energy wasting crypto mining gets banned](https://www.reddit.com/r/europe/comments/qriryh/sweden_asks_european_union_to_ban_cryptocurrency/).
+Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/status/1350869944888664064) which made history for being the [first true digital cryptocurrency](https://bitcoin.org/bitcoin.pdf) (solved double spending issue in decentralized way).
+
+[Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md)/[Ethereum](../databases/blockchain/ethereum.md) are more efficient and more powerful versions of Bitcoin due to Bitcoin's [wasteful & slow transactions](https://www.youtube.com/watch?v=f0HC1Udk6-E), [horrible PoW consensus algorithm](https://www.youtube.com/watch?v=bBC-nXj3Ng4) and inability to innovate in any way. I hope soon [all energy wasting PoW crypto mining gets banned](https://www.reddit.com/r/europe/comments/qriryh/sweden_asks_european_union_to_ban_cryptocurrency/) as its total waste of electricity.
 
 ## Notes
 

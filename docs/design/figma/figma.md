@@ -105,3 +105,4 @@ title: Figma
 - [Figma Alternatives](https://stackdiary.com/figma-alternatives/) ([HN](https://news.ycombinator.com/item?id=32865786))
 - [Understanding Figma/Adobe buy out](https://twitter.com/karrisaarinen/status/1572353519205888001)
 - [Design Systems For Figma](https://www.designsystemsforfigma.com/)
+- [Primer for Figma](https://github.com/primer/figma) - Primer, GitHub's design system, available on Figma.

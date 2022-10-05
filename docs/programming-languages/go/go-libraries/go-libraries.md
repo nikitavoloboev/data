@@ -385,6 +385,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Goth](https://github.com/markbates/goth) - Multi-Provider Authentication for Go. Simple, clean, and idiomatic way to write authentication packages for Go web applications.
 - [go-srp](https://github.com/opencoff/go-srp) - SRP-6a implementation in Go.
 - [verifier](https://github.com/XanderCheung/verifier) - Go JWT token verifier with storage.
+- [otp](https://github.com/creachadair/otp) - Go implementation of the HOTP and TOTP algorithms.
 
 ## DB
 
@@ -1825,6 +1826,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-concurrency](https://github.com/jamestrandung/go-concurrency) - Comprehensive support for complex concurrency requirements in Go.
 - [go-hostpool](https://github.com/bitly/go-hostpool) - Intelligently and flexibly pool among multiple hosts from your Go application.
 - [Opus](https://github.com/pion/opus) - Pure Go implementation of the Opus audio codec. ([Reddit](https://www.reddit.com/r/golang/comments/xui6l5/pure_go_implementation_of_the_opus_audio_codec/))
+- [taskgroup](https://github.com/creachadair/taskgroup) - Go package for managing a group of collaborating goroutines.
 
 ## Links
 

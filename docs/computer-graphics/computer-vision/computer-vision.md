@@ -956,3 +956,4 @@
 - [Equivariant Point Network for 3D Point Cloud Analysis (2022)](https://arxiv.org/abs/2103.14147) ([Code](https://github.com/nintendops/EPN_PointCloud))
 - [Computer Vision in the Wild Readings](https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings)
 - [Nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - Collaboration friendly studio for NeRFs.
+- [Learning Dexterous Manipulation from Exemplar Object Trajectories and Pre-Grasps (2022)](https://pregrasps.github.io/) ([Code](https://github.com/facebookresearch/TCDM))

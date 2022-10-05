@@ -40,6 +40,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Twitter Go 4](https://github.com/bloveless/tweetgo)
 - [Twitter Go 5](https://github.com/sivchari/gotwtr)
 - [Twitter Go 6](https://github.com/g8rswimmer/go-twitter)
+- [Twitter Go 7](https://github.com/creachadair/twitter)
 - [Twitter Ruby](https://github.com/nov/twitter_oauth2) - Twitter OAuth 2.0 Client Library in Ruby.
 - [Twitter Swift](https://github.com/mattdonnelly/Swifter)
 - [Twitter Python](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.

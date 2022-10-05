@@ -450,3 +450,4 @@ title: PyTorch
 - [PyTorch Boiler](https://github.com/nmakes/pytorch_boiler) - Minimalistic boiler plate code for training PyTorch models.
 - [PyEPO](https://github.com/khalil-research/PyEPO) - PyTorch-based End-to-End Predict-then-Optimize Library for Linear and Integer Programming.
 - [torchmocks](https://github.com/nathanbreitsch/torchmocks) - Test PyTorch code with minimal computational overhead.
+- [Continual Learning](https://github.com/GMvandeVen/continual-learning) - PyTorch implementation of various methods for continual learning (XdG, EWC, SI, LwF, FROMP, DGR, BI-R, ER, A-GEM, iCaRL, Generative Classifier) in three different scenarios.
