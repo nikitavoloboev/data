@@ -167,3 +167,4 @@
 - [Great resources to understand banking (2022)](https://twitter.com/fstflofscholars/status/1568709052150038528)
 - [Ask HN: Why do we need central bank digital currency (CBDC)? (2022)](https://news.ycombinator.com/item?id=32777875)
 - [peruvian_bull - Reddit](https://www.reddit.com/user/peruvian_bull/) - Does nice analysis on economy. ([Twitter](https://twitter.com/peruvian_bull))
+- [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html) ([Code](https://github.com/aeturrell/coding-for-economists))

@@ -400,3 +400,4 @@ title: ML Libraries
 - [AITemplate](https://github.com/facebookincubator/AITemplate) - Python framework which renders neural network into high performance CUDA/HIP C++ code. ([Article](https://ai.facebook.com/blog/gpu-inference-engine-nvidia-amd-open-source/))
 - [spidr](https://github.com/joelberkeley/spidr) - Accelerated machine learning with dependent types.
 - [Transformer Engine](https://github.com/NVIDIA/TransformerEngine) - Library for accelerating Transformer models on NVIDIA GPUs.
+- [visu3d](https://github.com/google-research/visu3d) - 3D without friction (TF, Jax, Numpy).

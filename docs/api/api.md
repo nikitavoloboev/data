@@ -358,6 +358,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Hook Slinger](https://github.com/rednafi/hook-slinger) - Generic service to send, retry, and manage webhooks.
 - [API Guideline: Clarity at the point of use](https://www.swift.org/documentation/api-design-guidelines/#fundamentals)
 - [Newman](https://github.com/postmanlabs/newman) - Command-line collection runner for Postman.
+- [Node Datadog API Client](https://github.com/DataDog/datadog-api-client-typescript)
 - [openapi-sampler](https://github.com/Redocly/openapi-sampler) - Tool for generation samples based on OpenAPI payload/response schema.
 - [Redocusaurus](https://github.com/rohit-gohri/redocusaurus) - OpenAPI for Docusaurus v2 with Redoc.
 - [Dash Docset Builder](https://github.com/godbout/dash-docset-builder)

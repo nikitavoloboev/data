@@ -344,6 +344,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [DeepCode](https://www.deepcode.ai/) - Semantic static code analysis for better software - powered by AI.
 - [Pastel](https://usepastel.com/copy-changes) - Fastest way to suggest copy changes on any website.
 - [AfterClass](https://afterclass.co/) - New kind of document for futuristic teams.
+- [Ferdium](https://ferdium.org/) - Desktop app that helps you organize how you use your favorite apps by combining them into one application. ([Code](https://github.com/ferdium/ferdium-app))
 - [Unicorn Platform](https://unicornplatform.com/) - Landing page builder for startups.
 - [WriteFreely](https://github.com/writeas/writefreely) - Simple, federated blogging platform. Written in Go.
 - [Precursor](https://precursorapp.com/) - Fast prototyping web app, makes collaboration easy. ([Code](https://github.com/PrecursorApp/precursor))

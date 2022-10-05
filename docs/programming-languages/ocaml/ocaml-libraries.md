@@ -219,6 +219,7 @@ title: OCaml libraries
 - [Accessor](https://github.com/janestreet/accessor) - Library that makes it nicer to work with nested functional data structures.
 - [Cinaps](https://github.com/ocaml-ppx/cinaps) - Trivial Metaprogramming tool using the OCaml toplevel.
 - [loko-ml](https://github.com/polytypic/loko-ml) - Lower-Kinded Optics for OCaml.
+- [Tyre](https://github.com/Drup/tyre) - Typed Regular Expressions.
 
 ## Links
 

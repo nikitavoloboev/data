@@ -248,6 +248,7 @@
 - [Goal](https://github.com/martinthenth/goal) - Parameter validation library based on Ecto.
 - [OpenTelemetry Erlang](https://github.com/open-telemetry/opentelemetry-erlang-contrib) - OpenTelemetry instrumentation for Erlang & Elixir.
 - [Striped](https://github.com/maartenvanvliet/striped) - Library to interface with the Stripe API.
+- [TelemetryDecorator](https://github.com/amplifiedai/telemetry_decorator) - Function decorator for telemetry.
 
 ## Links
 

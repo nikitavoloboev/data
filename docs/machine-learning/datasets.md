@@ -204,3 +204,4 @@
 - [Click Points](https://github.com/fabrylab/clickpoints) - Image viewer and on the other hand as an data display and annotation tool.
 - [FastDup](https://github.com/visualdatabase/fastdup) - Tool for gaining insights from a large image collection.
 - [Downstream Datasets Make Surprisingly Good Pretraining Corpora (2022)](https://arxiv.org/abs/2209.14389) ([Tweet](https://twitter.com/zacharylipton/status/1575875021498720256))
+- [Mintaka: A Complex, Natural, and Multilingual Dataset for End-to-End Question Answering](https://github.com/amazon-research/mintaka)

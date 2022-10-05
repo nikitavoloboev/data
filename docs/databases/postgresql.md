@@ -581,3 +581,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postgres WASM by Snaplet and Supabase (2022)](https://supabase.com/blog/postgres-wasm) ([HN](https://news.ycombinator.com/item?id=33067962))
 - [Coroot-pg-agent](https://github.com/coroot/coroot-pg-agent) - Prometheus exporter for Postgres focusing on query performance statistics.
 - [RapidRows](https://github.com/rapidloop/rapidrows) - Low-code, configurable API server for PostgreSQL databases. ([Docs](https://rapidrows.io/))
+- [Pg_squeeze: An extension to fix table bloat](https://www.cybertec-postgresql.com/en/products/pg_squeeze/) ([HN](https://news.ycombinator.com/item?id=33081709))

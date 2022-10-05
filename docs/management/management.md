@@ -214,3 +214,4 @@
 - [Ask HN: How does your company handle late running projects? (2022)](https://news.ycombinator.com/item?id=32911083)
 - [Managing Complex Change](https://twitter.com/markbrooks/status/1573286323515170816)
 - [1-on-1 questions and resources from my time as a manager](https://github.com/eugeneyan/1-on-1s)
+- [I don’t believe in sprints (2022)](https://www.robinrendle.com/notes/i-don%E2%80%99t-believe-in-sprints/) ([HN](https://news.ycombinator.com/item?id=33093941))

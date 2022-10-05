@@ -580,3 +580,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Signing Git Commits with Your SSH Key (2021)](https://calebhearth.com/sign-git-with-ssh) ([HN](https://news.ycombinator.com/item?id=32831731))
 - [GRM](https://github.com/hakoerber/git-repo-manager) - Helps you manage git repositories in a declarative way.
 - [Hookz](https://github.com/devops-kung-fu/hookz) - Manages client side git hooks resulting in the ability to create git action pipelines.
+- [Git Worktrees](https://jmtd.net/log/worktrees/) ([Lobsters](https://lobste.rs/s/wvshhd/sqlite_qemu_all_over_again))
+- [Highlights from Git 2.38 (2022)](https://github.blog/2022-10-03-highlights-from-git-2-38/) ([HN](https://news.ycombinator.com/item?id=33071275))

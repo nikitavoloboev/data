@@ -288,3 +288,4 @@ Hi<div>oh no break</div>
 - [TurboReflex](https://github.com/hopsoft/turbo_reflex) - Help you build modern reactive web applications.
 - [Drawing a star with DOMMatrix (2022)](https://jakearchibald.com/2022/drawing-a-star/)
 - [7 Cool HTML Elements Nobody Uses (2022)](https://tapajyoti-bose.medium.com/7-cool-html-elements-nobody-uses-436598d85668)
+- [Templating in HTML (2022)](https://kittygiraudel.com/2022/09/30/templating-in-html/) ([HN](https://news.ycombinator.com/item?id=33085976))

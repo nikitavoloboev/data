@@ -657,3 +657,5 @@
 - [Awesome Efficient PLM Papers](https://github.com/TobiasLee/Awesome-Efficient-PLM)
 - [Polyglot: Large Language Models of Well-balanced Competence in Multi-languages](https://github.com/EleutherAI/polyglot)
 - [Interactive Composition Explorer](https://github.com/oughtinc/ice) - Python library and trace visualizer for language model programs.
+- [TrAVis: Transformer Attention Visualizer](https://ayaka14732.github.io/TrAVis/) ([Code](https://github.com/ayaka14732/TrAVis))
+- [Knowledge Unlearning for Mitigating Privacy Risks in Language Models (2022)](https://arxiv.org/abs/2210.01504) ([Code](https://github.com/joeljang/knowledge-unlearning))

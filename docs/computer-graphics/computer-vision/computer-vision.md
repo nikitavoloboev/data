@@ -952,3 +952,7 @@
 - [StyleSwap: Style-Based Generator Empowers Robust Face Swapping (2022)](https://hangz-nju-cuhk.github.io/projects/StyleSwap) ([Code](https://github.com/Seanseattle/StyleSwap))
 - [IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis (2022)](https://zju3dv.github.io/intrinsic_nerf/) ([Code](https://github.com/zju3dv/IntrinsicNeRF))
 - [VMFormer: End-to-End Video Matting with Transformer (2022)](https://arxiv.org/abs/2208.12801) ([Code](https://github.com/SHI-Labs/VMFormer))
+- [Image-Based CLIP-Guided Essence Transfer (2021)](https://arxiv.org/abs/2110.12427) ([Code](https://github.com/hila-chefer/TargetCLIP))
+- [Equivariant Point Network for 3D Point Cloud Analysis (2022)](https://arxiv.org/abs/2103.14147) ([Code](https://github.com/nintendops/EPN_PointCloud))
+- [Computer Vision in the Wild Readings](https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings)
+- [Nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - Collaboration friendly studio for NeRFs.

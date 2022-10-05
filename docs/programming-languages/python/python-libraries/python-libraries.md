@@ -1001,6 +1001,8 @@
 - [MMDA](https://github.com/allenai/mmda) - Multimodal document analysis.
 - [PhyloDM](https://github.com/aaronmussig/PhyloDM) - Efficient calculation of pairwise phylogenetic distance matrices.
 - [Spans](https://github.com/runfalk/spans) - Pure Python implementation of PostgreSQL's range types.
+- [PyBluez](https://github.com/pybluez/pybluez) - Allows Python code to access the host machine's Bluetooth resources.
+- [ASDF](https://github.com/asdf-format/asdf) - Advanced Scientific Data Format. ([HN](https://news.ycombinator.com/item?id=33039904))
 
 ## Notes
 

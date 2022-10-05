@@ -196,3 +196,5 @@ title: Vue.js
 - [Unplugin Vue Router](https://github.com/posva/unplugin-vue-router) - Automatic file based Routing in Vue with TS support.
 - [pinceau](https://github.com/Tahul/pinceau) - Zero-runtime CSS-in-JS framework made for Vue.
 - [nuxt-hedge](https://github.com/harlan-zw/nuxt-hedge) - Experimental head-edge module for Nuxt v3.
+- [Dev SSR on Nuxt with Vite (2022)](https://antfu.me/posts/dev-ssr-on-nuxt)
+- [Prisma and Nuxt is my new favorite combo (2022)](https://www.youtube.com/watch?v=IWu3UV8H8-0)

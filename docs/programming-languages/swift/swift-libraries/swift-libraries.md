@@ -370,6 +370,7 @@
 ## WASM
 
 - [Web](https://github.com/swifweb/web) - Write your website in pure Swift with power of WebAssembly. DOM, CSS and all the WebAPIs are available out of the box.
+- [WebFoundation](https://github.com/swiftwasm/WebFoundation) - Web-based implementation of missing SwiftWasm Foundation APIs.
 
 ## SwiftUI
 
@@ -569,6 +570,7 @@
 - [Prism](https://github.com/aheze/Prism) - Lightweight 3D renderer for SwiftUI.
 - [SwiftfulLoadingIndicators](https://github.com/SwiftfulThinking/SwiftfulLoadingIndicators) - Collection of lightweight SwiftUI loading animations.
 - [Exhibition](https://github.com/mjarvis/Exhibition) - Framework and generator for displaying and debugging a SwiftUI component library.
+- [SwiftNodeEditor](https://github.com/schwa/SwiftNodeEditor) - Package of SwiftUI code for making node editors.
 
 ## Test
 
@@ -642,6 +644,10 @@
 - [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance & easy to use GIF engine.
 - [SkiaKit](https://github.com/migueldeicaza/SkiaKit) - Swift Bindings to the Skia 2D graphics Library. ([Fork](https://github.com/UnGast/SkiaKit))
 - [GLTFKit2](https://github.com/warrenm/GLTFKit2) - Efficient glTF loader and exporter for Objective-C and Swift.
+
+## Games
+
+- [RedECS](https://github.com/RedECSEngine/RedECS) - Swift Game Engine and Entity Component System inspired by Redux and Composable Architecture.
 
 ## Crypto
 

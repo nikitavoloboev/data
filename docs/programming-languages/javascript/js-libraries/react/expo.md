@@ -56,3 +56,4 @@ title: Expo
 - [Expo Mega Demo](https://github.com/barthap/expo-mega-demo) - Experimenting with awesome React Native + Expo features.
 - [Expo Module API](https://twitter.com/Baconbrix/status/1552970661215326208)
 - [Expo Router Preview](https://github.com/expo/router) - Preview of the new router for React Native apps.
+- [File-system Routing no React Native (c/ Expo Router) (2022)](https://www.youtube.com/watch?v=DtFnUvm3xeU)

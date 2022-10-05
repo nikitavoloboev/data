@@ -529,3 +529,4 @@ I want to:
 - [mdSilo](https://mdsilo.com/) - Mind silo for storing ideas, thought, knowledge with a powerful writing tool. built with React and Tauri. ([Code](https://github.com/danloh/mdSilo-app))
 - [Auto Archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content in a Google Sheet.
 - [jot](https://github.com/araekiel/jot) - Rapid note management for the terminal. ([HN](https://news.ycombinator.com/item?id=32962524))
+- [Memos](https://usememos.com/) - Open source, self-hosted knowledge base that works with SQLite. ([Code](https://github.com/usememos/memos))

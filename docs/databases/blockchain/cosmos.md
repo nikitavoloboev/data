@@ -35,3 +35,4 @@ title: Cosmos
 - [Telescope](https://github.com/osmosis-labs/telescope) - TypeScript Transpiler for Cosmos Protobufs.
 - [Neutron](https://github.com/neutron-org/neutron) - Smart Contract platform secured by Cosmos Hub.
 - [Horoscope](https://github.com/aura-nw/horoscope) - Crawls data from Cosmos chains, stores and indexes everything into a MongoDB for easy access from clients.
+- [Cosmos-Kit](https://github.com/cosmology-tech/cosmos-kit) - Wallet connector for the Cosmos.

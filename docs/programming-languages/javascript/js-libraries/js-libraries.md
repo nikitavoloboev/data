@@ -1025,6 +1025,9 @@
 - [Postmate](https://github.com/dollarshaveclub/postmate) - Powerful, simple, promise-based postMessage iFrame communication library.
 - [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent. ([Web](https://photoswipe.com/))
 - [serialize-anything](https://github.com/terrymorse58/serialize-anything) - Serialize and de-serialize all JavaScript data types.
+- [DragSelect](https://github.com/ThibaultJanBeyer/DragSelect) - Easy JS drag-select and drop functionality done right.
+- [Croner](https://github.com/Hexagon/croner) - Trigger functions and/or evaluate cron expressions in JavaScript. No dependencies. Most features. All environments.
+- [async-ratelimiter](https://github.com/microlinkhq/async-ratelimiter) - Rate limit made simple, easy, async.
 
 ## Links
 

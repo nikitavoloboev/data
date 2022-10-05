@@ -120,3 +120,5 @@ title: Zero knowledge proofs
 - [Zero-Knowledge starter](https://github.com/backmeupplz/zk-starter)
 - [The hunting of the (zk-) SNARK (2022)](https://www.entropy1729.com/the-hunting-of-the-zk-snark/)
 - [zkWasm](https://github.com/DelphinusLab/zkWasm)
+- [ZK-kit](https://github.com/privacy-scaling-explorations/zk-kit) - Monorepo of reusable JS libraries for zero-knowledge technologies.
+- [ZKP (circuit) compiler shootout](https://github.com/anoma/zkp-compiler-shootout) - Evaluating & benchmarking ZKP compilation strategies.

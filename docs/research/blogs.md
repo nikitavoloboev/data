@@ -12,7 +12,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 
 My blog is written with [Solid](../programming-languages/javascript/js-libraries/solid.md) ([code here](https://github.com/nikitavoloboev/nikitavoloboev)).
 
-[Deno Blog](https://github.com/denoland/deno_blog) ([example code](https://github.com/ry/tinyclouds)) is also a pretty minimal blog implementation. [Proselog](https://github.com/proselog/proselog) looks interesting too.
+[Simple Blog Astro Template](https://littlesticks.dev/templates/simple-blog/) or [Deno Blog](https://github.com/denoland/deno_blog) ([example code](https://github.com/ry/tinyclouds)) are also a pretty minimal blog implementations. [Proselog](https://github.com/proselog/proselog) looks interesting too.
 
 [Bartosz Ciechanowski's Blog](https://ciechanow.ski/) is absolutely incredible.
 

@@ -609,3 +609,4 @@ title: Linux
 - [Smithay](https://github.com/Smithay/smithay) - Building blocks to create wayland compositors in Rust.
 - [Linux Kernel 6.0 (2022)](https://news.ycombinator.com/item?id=33062252)
 - [Setting up a Nomad cluster on Linux (2022)](https://www.entropy1729.com/setting-up-a-nomad-cluster-on-linux/)
+- [Ask HN: How to get started with real-time Linux? (2022)](https://news.ycombinator.com/item?id=33058969)

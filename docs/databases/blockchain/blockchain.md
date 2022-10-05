@@ -407,3 +407,6 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Actor model for blockchains](https://twitter.com/hdevalence/status/1574053540649205760)
 - [oncyber](https://oncyber.io/) - Build your own world, experience with others.
 - [MUD](https://mud.dev/) - Aims to solve all the hard problems of building on-chain games. ([Code](https://github.com/latticexyz/mud))
+- [Astar](https://astar.network/) - Multi-chain smart contract platform that supports multiple blockchains and virtual machines.
+- [Farcaster Indexer](https://github.com/gskril/farcaster-indexer) - Index all profiles and casts on the Farcaster protocol.
+- [Farcaster ecosystem](https://farcasterxyz.notion.site/Farcaster-ecosystem-af207db2885349d383dee69eccd77b37)

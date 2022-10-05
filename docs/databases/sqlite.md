@@ -257,4 +257,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [Pocketbase with Lightstream](https://github.com/bscott/pocketbase-litestream)
 - [Flyweight](https://github.com/thebinarysearchtree/flyweight) - ORM for SQLite and NodeJS. ([HN](https://news.ycombinator.com/item?id=33019500))
 - [libSQL](https://github.com/libsql/libsql) - Open source, open contribution fork of SQLite.
-- [SQLite: QEMU all over again? (2022)](https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c)
+- [SQLite: QEMU all over again? (2022)](https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c) ([HN](https://news.ycombinator.com/item?id=33081159)) ([Lobsters](https://lobste.rs/s/wvshhd/sqlite_qemu_all_over_again))

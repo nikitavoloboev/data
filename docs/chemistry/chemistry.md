@@ -101,3 +101,4 @@ title: Chemistry
 - [Scientific Computing for Chemists with Python](https://github.com/weisscharlesj/SciCompforChemists)
 - [Introductory tutorials on deep learning for chemistry](https://github.com/rociomer/dl-chem-101)
 - [Mofdscribe](https://github.com/kjappelbaum/mofdscribe) - Ecosystem for digital reticular chemistry.
+- [Nobel Prize in Chemistry Awarded to Bertozzi, Meldal, and Sharpless (2022)](https://www.nobelprize.org/prizes/chemistry/2022/summary/) ([HN](https://news.ycombinator.com/item?id=33093278))

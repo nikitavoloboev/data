@@ -201,3 +201,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Cloudflare’s Zero Egress Fee Object Storage, R2, Is Now GA (2022)](https://blog.cloudflare.com/r2-ga/) ([HN](https://news.ycombinator.com/item?id=32924587))
 - [Workerd: Open-source Cloudflare workers runtime (2022)](https://github.com/cloudflare/workerd) ([HN](https://news.ycombinator.com/item?id=32994723)) ([Article](https://blog.cloudflare.com/workerd-open-source-workers-runtime/))
 - [Prototype of an Edge worker that implements the Client Side A/B testing spec](https://github.com/WICG/ab-worker-prototype)
+- [KV Utility](https://github.com/adaptive/kv) - Key Value storage solution for Cloudflare Workers.

@@ -698,3 +698,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Ethereum Beacon APIs](https://github.com/ethereum/beacon-APIs) - Collection of RESTful APIs provided by Ethereum Beacon nodes.
 - [Useful Solidity Patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns)
 - [GraphStack](https://github.com/brockelmore/graphstack) - Generates a symbolic graph of what happens to various aspects of the EVM.
+- [MEV Template](https://github.com/DeGatchi/mev-template-rs) - Template to build a MEV bot from.

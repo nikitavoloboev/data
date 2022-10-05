@@ -224,7 +224,7 @@
 - [pflask](https://github.com/ghedo/pflask) - Lightweight process containers for Linux.
 - [podman-static](https://github.com/mgoltzsche/podman-static) - Static podman binaries and container images.
 - [Notes on running containers with bubblewrap (2022)](https://jvns.ca/blog/2022/06/28/some-notes-on-bubblewrap/)
-- [Devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers. ([HN](https://news.ycombinator.com/item?id=32600821))
+- [Devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers. ([HN](https://news.ycombinator.com/item?id=32600821)) ([Article](https://www.jetpack.io/blog/devbox-turn-a-1000-container-script-into-10-lines/))
 - [The container orchestrator landscape (2022)](https://lwn.net/Articles/905164/) ([HN](https://news.ycombinator.com/item?id=32577758))
 - [lazytrivy](https://github.com/owenrumney/lazytrivy) - Secure images, for lazy people.
 - [Conmon-rs](https://github.com/containers/conmon-rs) - Container monitor in Rust.

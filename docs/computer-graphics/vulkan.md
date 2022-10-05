@@ -14,7 +14,7 @@ title: Vulkan API
 - [Vulkano](https://github.com/vulkano-rs/vulkano) - Rust wrapper around the Vulkan graphics API.
 - [NVIDIA Vulkan Ray Tracing Tutorial](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/) ([Code](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR))
 - [Ash](https://github.com/MaikKlein/ash) - Vulkan bindings for Rust.
-- [NVK](https://github.com/maierfelix/nvk) - Vulkan API for JavaScript/TypeScript.
+- [NVK](https://github.com/maierfelix/nvk) - Vulkan API for JavaScript/TypeScript. ([Article](https://www.collabora.com/news-and-blog/news-and-events/introducing-nvk.html))
 - [AMD Open Source Driver for Vulkan](https://github.com/GPUOpen-Drivers/AMDVLK)
 - [clspv](https://github.com/google/clspv) - Prototype compiler for a subset of OpenCL C to Vulkan compute shaders.
 - [LegitEngine](https://github.com/Raikiri/LegitEngine) - Rendergraph-based graphical framework for Vulkan.

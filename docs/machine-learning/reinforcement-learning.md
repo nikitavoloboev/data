@@ -388,3 +388,5 @@ title: Reinforcement learning
 - [DexterousHands](https://github.com/PKU-MARL/DexterousHands) - Collection of bimanual dexterous manipulations tasks and reinforcement learning algorithms.
 - [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - Standard API for reinforcement learning and a diverse set of reference environments.
 - [CORL (Clean Offline Reinforcement Learning)](https://github.com/tinkoff-ai/CORL) - High-quality single-file implementations of SOTA Offline RL algorithms: AWAC, BC, CQL, DT, EDAC, IQL, SAC-N, TD3+BC.
+- [RL4LMs](https://github.com/allenai/RL4LMs) - Modular RL library to fine-tune language models to human preferences.
+- [Gym Games](https://github.com/qlan3/gym-games) - Gym version of various games for reinforcement learning.

@@ -449,3 +449,4 @@ title: PyTorch
 - [NestedTensor](https://github.com/pytorch/nestedtensor) - Tools for the concurrent manipulation of variably sized Tensors.
 - [PyTorch Boiler](https://github.com/nmakes/pytorch_boiler) - Minimalistic boiler plate code for training PyTorch models.
 - [PyEPO](https://github.com/khalil-research/PyEPO) - PyTorch-based End-to-End Predict-then-Optimize Library for Linear and Integer Programming.
+- [torchmocks](https://github.com/nathanbreitsch/torchmocks) - Test PyTorch code with minimal computational overhead.

@@ -167,6 +167,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Novusk](https://github.com/NathanMcMillan54/novusk) - Kernel written in Rust inspired by Linux.
 - [camellia](https://github.com/dzwdz/camellia) - Experimental, work-in-progress, microkernel based on some of my ideas for privilege separation.
 - [Xous Core](https://github.com/betrusted-io/xous-core) - Microkernel operating system.
+- [Osmium](https://github.com/moratorium08/osmium) - Operating System written in Rust on RISC V.
 
 ## Notes
 

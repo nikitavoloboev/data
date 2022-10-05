@@ -208,3 +208,5 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [Please don't be spooky (2022)](https://tiramisu.bearblog.dev/dont-be-spooky/) ([HN](https://news.ycombinator.com/item?id=32863175))
 - [Ask HN: How to Master Verbal Communication? (2022)](https://news.ycombinator.com/item?id=32961885)
 - [Why Men Are Hard to Help](https://nationalaffairs.com/publications/detail/why-men-are-hard-to-help) ([HN](https://news.ycombinator.com/item?id=33047976))
+- [Poised](https://www.poised.com/) - AI-powered communication coach. ([HN](https://news.ycombinator.com/item?id=33090580))
+- [Ask HN: How do I learn to communicate effectively? (2022)](https://news.ycombinator.com/item?id=33091972)

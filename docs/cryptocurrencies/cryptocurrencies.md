@@ -50,6 +50,7 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 - [Always use a cold wallet to store your valuables. Never give out verification codes to anyone. Protect your information, don't give out your phone number or your personal email. Caller information is easy to spoof. Companies like Apple will never call you.](https://twitter.com/Serpent/status/1515545819197616131)
 - [It’s difficult for me to see a future where poorly regulated technology with built-in perverse financial incentives will magically result in fairer, more accessible systems.](https://twitter.com/Carnage4Life/status/1524512164240797696)
 - [Focus on: Public goods funding. Social recovery / multisig wallets. Reputation systems (could help a lot to fight scams!). PoS (solves energy issues). Scaling (reduces fees, makes non-financial apps viable).](https://twitter.com/VitalikButerin/status/1532369277000437761)
+- [If your project is using token incentives, you should probably try removing them and see what happens. If your response is "but we're worried users wouldn't stick around"... then you should DEFINITELY try removing them.](https://twitter.com/danrobinson/status/1577448127514103809)
 
 ## Links
 

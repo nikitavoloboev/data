@@ -846,7 +846,7 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Prioritized Training on Points that are Learnable, Worth Learning, and Not Yet Learnt (2022)](https://arxiv.org/abs/2206.07137) ([Code](https://github.com/OATML/RHO-Loss))
 - [Self-Supervised Learning from Images: Up-to-date reading list](https://github.com/wvangansbeke/Self-Supervised-Learning-Overview)
 - [How robust are pre-trained models to distribution shift? (2022)](https://arxiv.org/abs/2206.08871)
-- [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge (2022)](https://arxiv.org/abs/2206.08853) ([Code](https://github.com/MineDojo/MineDojo))
+- [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge (2022)](https://arxiv.org/abs/2206.08853) ([Code](https://github.com/MineDojo/MineDojo)) ([Web](https://minedojo.org/))
 - [MLOPs Primer](https://github.com/dair-ai/MLOPs-Primer) - Collection of resources to learn about MLOPs.
 - [Are wider nets better given the same number of parameters? (2020)](https://arxiv.org/abs/2010.14495) ([Code](https://github.com/google-research/wide-sparse-nets))
 - [Brandon Amos's presentation slides](https://github.com/bamos/presentations)
@@ -943,3 +943,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Didact AI: The anatomy of an ML-powered stock picking engine (2022)](https://principiamundi.com/posts/didact-anatomy/)
 - [Deep Learning Examples](https://github.com/LambdaLabsML/examples)
 - [Variational Inference for Infinitely Deep Neural Networks (2022)](https://arxiv.org/abs/2209.10091) ([Code](https://github.com/ANazaret/unbounded-depth-neural-networks))
+- [First Contact: Unsupervised Human-Machine Co-Adaptation via Mutual Information Maximization (2022)](https://arxiv.org/abs/2205.12381) ([Code](https://github.com/rddy/mimi))
+- [Gradient Gating for Deep Multi-Rate Learning on Graphs (2022)](https://arxiv.org/abs/2210.00513) ([Code](https://github.com/tk-rusch/gradientgating))

@@ -72,3 +72,4 @@
 - [Smithy](https://github.com/awslabs/smithy) - Language for defining services and SDKs. ([Docs](https://awslabs.github.io/smithy/2.0/index.html))
 - [oson](https://github.com/KnorpelSenf/oson) - Structured object notation.
 - [yamlctl](https://github.com/AkihiroSuda/yamlctl) - Tool to modify YAMLs without losing (most of) comment lines.
+- [KDL Document Language](https://kdl.dev/) - XML-like semantics that looks like you're invoking a bunch of CLI commands. ([KDL-Script](https://github.com/Gankra/kdl-script))

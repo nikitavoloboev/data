@@ -763,6 +763,7 @@
   - [Poker](docs/games/poker.md)
   - [Sudoku](docs/games/sudoku.md)
   - [Minecraft](docs/games/minecraft.md)
+  - [Wild Rift](docs/games/wild-rift.md)
   - [Golf](docs/games/golf.md)
 - [Streaming](docs/streaming/streaming.md)
 - [Talks](docs/talks/talks.md)

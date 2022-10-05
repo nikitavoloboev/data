@@ -825,3 +825,4 @@ title: Kubernetes
 - [Palaemon](https://github.com/oslabs-beta/Palaemon) - Open-source developer tool for monitoring health and resource metrics of Kubernetes clusters and analyzing Out of Memory (OOMKill) errors.
 - [jsonnet-controller](https://github.com/pelotech/jsonnet-controller) - Fluxcd controller for managing manifests declared in jsonnet.
 - [Ability to create Kata PODs using cloud provider APIs](https://github.com/confidential-containers/cloud-api-adaptor)
+- [provider-argocd](https://github.com/crossplane-contrib/provider-argocd) - Crossplane provider to provision and manage ArgoCD objects.

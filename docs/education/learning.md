@@ -246,3 +246,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [The Next Chapter for Learning on YouTube (2022)](https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/) ([HN](https://news.ycombinator.com/item?id=32783730))
 - [Ask HN: Do you regret being a generalist? (2022)](https://news.ycombinator.com/item?id=32920577)
 - [LindyLearn](https://lindylearn.io/)
+- [Ask HN: How to find what I am really good at? (2022)](https://news.ycombinator.com/item?id=33077489)

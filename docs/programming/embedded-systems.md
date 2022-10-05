@@ -211,3 +211,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [Rust projects and templates for the STM32Nucleo-F4 development board](https://github.com/apollolabsdev/stm32-nucleo-f401re)
 - [I'm Building a Self-Destructing USB Drive (2022)](https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/)
 - [R3-OS](https://github.com/r3-os/r3) - Experimental static component-oriented RTOS for deeply embedded systems.
+- [Silverfir](https://github.com/mbbill/Silverfir) - WebAssembly runtime for embedded systems.

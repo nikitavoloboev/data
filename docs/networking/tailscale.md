@@ -19,3 +19,4 @@ title: Tailscale
 - [Putting Tailscale on the Steam Deck (2022)](https://tailscale.com/blog/steam-deck/) ([HN](https://news.ycombinator.com/item?id=32490736))
 - [Tailscale Security Policies](https://github.com/tailscale/policies)
 - [Trayscale](https://github.com/DeedleFake/trayscale) - Unofficial GUI wrapper around the Tailscale CLI client.
+- [Tailscale on Unifi Dream Machine](https://github.com/SierraSoftworks/tailscale-udm)

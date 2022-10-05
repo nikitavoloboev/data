@@ -1,5 +1,7 @@
 # Generative Machine Learning
 
+[Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) is [good read](https://news.ycombinator.com/item?id=33084205).
+
 ## Notes
 
 - [The net effect of the last 18 mo has been to slightly lubricate human imagination, making it easier for individuals to visualize possible worlds/scenes/moods. It’s only a medium-big deal—unless this is a foretaste of similar acceleration in music, code, and text.](https://twitter.com/Ted_Underwood/status/1566787680872157185)
@@ -82,3 +84,6 @@
 - [TabDDPM: Modelling Tabular Data with Diffusion Models (2022)](https://arxiv.org/abs/2209.15421) ([Code](https://github.com/rotot0/tab-ddpm))
 - [Animation Script](https://github.com/Animator-Anon/Animator) - Animator script for SD Web UI.
 - [Latent space walking: minimal Keras Colab](https://colab.research.google.com/drive/1C2UhtHvHYzkdidFd_CfZTimuwJ0oH3SA?usp=sharing) ([Tweet](https://twitter.com/fchollet/status/1577069074802421760))
+- [The Illustrated Stable Diffusion (2022)](https://jalammar.github.io/illustrated-stable-diffusion/) ([HN](https://news.ycombinator.com/item?id=33084205))
+- [DALL·E Node](https://github.com/ezzcodeezzlife/dalle-node) - Use DALL·E 2 with NodeJS.
+- [Novel View Synthesis with Diffusion Models (2022)](https://3d-diffusion.github.io/) ([HN](https://news.ycombinator.com/item?id=33085837))

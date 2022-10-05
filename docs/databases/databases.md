@@ -223,7 +223,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Nubostore](https://nubo.app/nubostore) - Data store like Firestore and Algolia all in one.
 - [Surge](https://github.com/surgedb/surge) - Fastest next-gen NoSQL db.
 - [StarfishQL](https://github.com/SeaQL/starfish-ql) - Graph database and query engine to enable graph analysis and visualization on the web. ([Web](https://www.sea-ql.org/StarfishQL/))
-- [SingleStore](https://www.singlestore.com/) - Unified database for data-intensive applications. ([Twitter](https://twitter.com/SingleStoreDB)) ([Flexible Parallelism in SingleStoreDB](https://www.singlestore.com/blog/flexible-parallelism-in-singlestoredb/))
+- [SingleStore](https://www.singlestore.com/) - Unified database for data-intensive applications. ([Twitter](https://twitter.com/SingleStoreDB)) ([Flexible Parallelism in SingleStoreDB](https://www.singlestore.com/blog/flexible-parallelism-in-singlestoredb/)) ([Kysely SingleStore](https://github.com/igalklebanov/kysely-singlestore))
 - [Apache Impala](https://github.com/apache/impala) - Lightning-fast, distributed SQL queries for petabytes of data stored in Apache Hadoop clusters.
 - [RisingWave](https://github.com/singularity-data/risingwave) - Cloud-native streaming database that uses SQL as the interface language.
 - [RunKV](https://github.com/MrCroxx/RunKV) - Experimental cloud-native distributed KV engine for OLTP workload.
@@ -540,7 +540,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [The Reactive Monolith – How to Move from CRUD to Event Sourcing (2021)](https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing) ([HN](https://news.ycombinator.com/item?id=28691728))
 - [Ask HN: Why are relational DBs are the standard instead of graph-based DBs? (2021)](https://news.ycombinator.com/item?id=28736405)
 - [Cheapest / fastest way to load Stripe data into a SQL database (2021)](https://twitter.com/Suhail/status/1441897490312138759)
-- [Pelikan](https://github.com/twitter/pelikan) - Twitter's unified cache backend.
+- [Pelikan](https://github.com/twitter/pelikan) - Twitter's unified cache backend. ([HN](https://news.ycombinator.com/item?id=33050004))
 - [Relational Databases Aren’t Dinosaurs, They’re Sharks (2021)](https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/)
 - [The One Crucial Difference Between Spanner and CockroachDB (2021)](https://authzed.com/blog/prevent-newenemy-cockroachdb/)
 - [TAO: Facebook’s Distributed Data Store for the Social Graph (2021)](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html) ([HN](https://news.ycombinator.com/item?id=29045443))

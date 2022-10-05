@@ -131,3 +131,4 @@ title: Apache Kafka
 - [FranzView](https://github.com/oslabs-beta/franz) - Open source kafka monitoring and management tool built with Javascript developers in mind.
 - [Build a Reactive Data Streaming App with Python and Apache Kafka (2022)](https://www.youtube.com/watch?v=jItIQ-UvFI4)
 - [Docker images for Apache Kafka](https://github.com/confluentinc/kafka-images)
+- [Postgres: a better message queue than Kafka? (2022)](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)

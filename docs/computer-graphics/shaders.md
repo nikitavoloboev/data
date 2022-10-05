@@ -99,3 +99,4 @@ title: Shaders
 - [Bauble](https://bauble.studio/) - Make 3D art in your browser using Lisp and math. ([Code](https://github.com/ianthehenry/bauble)) ([HN](https://news.ycombinator.com/item?id=32738654))
 - [Rendering my balls in a fragment shader](https://www.getlazarus.org/pool/balls/)
 - [Vinci](https://github.com/swtwsk/vinci-lang) - Toy ML shading language.
+- [Shaderworlds](https://shaderworlds.com/) - Collection of VR-ready shader worlds. ([Code](https://github.com/jure/shaderworlds))

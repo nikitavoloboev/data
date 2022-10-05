@@ -467,3 +467,4 @@ Awesome List
 - [Autobot](https://github.com/charliermarsh/autobot) - Automated code refactoring tool powered by GPT-3. Like GitHub Copilot, for your existing codebase.
 - [ToBeReviewed Bot](https://github.com/tailscale/ToBeReviewedBot) - GitHub App to watch for PRs merged without a reviewer approving.
 - [GitHub Archive](https://github.com/Justintime50/github-archive) - Powerful tool to concurrently clone or pull user and org repos and gists to create a GitHub archive.
+- [Code-Pile](https://github.com/CarperAI/Code-Pile) - Contains all the code for collecting large scale amounts of code from GitHub.
