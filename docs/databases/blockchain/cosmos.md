@@ -36,3 +36,4 @@ title: Cosmos
 - [Neutron](https://github.com/neutron-org/neutron) - Smart Contract platform secured by Cosmos Hub.
 - [Horoscope](https://github.com/aura-nw/horoscope) - Crawls data from Cosmos chains, stores and indexes everything into a MongoDB for easy access from clients.
 - [Cosmos-Kit](https://github.com/cosmology-tech/cosmos-kit) - Wallet connector for the Cosmos.
+- [CosmWasm SDK](https://github.com/steak-enjoyers/cw-sdk) - State machine engine based on CosmWasm.

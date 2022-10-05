@@ -528,3 +528,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [rconn](https://github.com/jafarlihi/rconn) - Multiplatform program for creating reverse connections. It lets you consume services that are behind NAT and/or firewall without adding firewall rules or port-forwarding. ([Reddit](https://www.reddit.com/r/netsec/comments/xtqhr5/github_jafarlihirconn_rconn_is_a_multiplatform/))
 - [mule](https://github.com/bpowers/mule) - Fast proxy: eBPF data plane, Go control plane.
 - [Leveraging strategic connection migration-powered traffic splitting for privacy (2022)](https://arxiv.org/pdf/2205.03326.pdf)
+- [GoFlow2](https://github.com/netsampler/goflow2) - NetFlow/IPFIX/sFlow collector in Go. Gathers network information (IP, interfaces, routers) from different flow protocols, serializes it in a common format.

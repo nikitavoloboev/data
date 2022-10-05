@@ -118,3 +118,4 @@
 - [dfserver](https://github.com/huo-ju/dfserver) - Distributed backend AI pipeline server.
 - [dstack](https://github.com/dstackai/dstack) - Command-line utility to provision infrastructure for ML workflows. ([Docs](https://docs.dstack.ai/))
 - [Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter) - Open-source library to audit data privacy in statistical and machine learning algorithms.
+- [fastDeploy](https://github.com/notAI-tech/fastDeploy) - Deploy DL/ ML inference pipelines with minimal extra code.

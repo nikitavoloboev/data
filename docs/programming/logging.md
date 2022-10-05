@@ -73,3 +73,4 @@
 - [alp](https://github.com/tkuchiki/alp) - Access Log Profiler.
 - [uno](https://github.com/psykhi/uno) - Like uniq, but for logs.
 - [CLP](https://github.com/y-scope/clp) - Compressed Log Processor (CLP) is a free tool capable of compressing text logs and searching the compressed logs without decompression.
+- [Prettylog](https://github.com/globocom/prettylog) - Command line tool that displays JSON logs in a human-friendly format.

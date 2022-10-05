@@ -224,3 +224,4 @@ title: Jupyter Notebooks
 - [2i2c’s Managed JupyterHubs Service](https://github.com/2i2c-org/infrastructure) ([Docs](https://infrastructure.2i2c.org/en/latest/))
 - [JupyterLab Benchmarks](https://github.com/jupyterlab/benchmarks) - Benchmarking tools for JupyterLab.
 - [nb_conda_kernels](https://github.com/Anaconda-Platform/nb_conda_kernels) - Package for managing conda environment-based kernels inside of Jupyter.
+- [Jupyter-KeepAlive](https://github.com/minrk/jupyter-keepalive) - Keep Jupyter servers alive.

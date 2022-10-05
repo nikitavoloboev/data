@@ -644,6 +644,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [libhydrogen-go](https://github.com/someburner/libhydrogen-go) - Go wrapper for libhydrogen.
 - [GopenPGP](https://github.com/ProtonMail/gopenpgp) - High-level OpenPGP library.
 - [Go-wolfSSL](https://github.com/wolfSSL/go-wolfssl) - Go wrapper for wolfSSL lightweight TLS library and wolfCrypt cryptography library.
+- [Reed-Solomon](https://github.com/klauspost/reedsolomon) - Reed-Solomon Erasure Coding in Go.
 
 ## Linux
 

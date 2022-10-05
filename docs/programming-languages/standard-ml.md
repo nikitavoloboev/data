@@ -44,3 +44,4 @@ title: Standard ML
 - [Millet](https://azdavis.net/posts/millet/) - Language server for SML. ([Lobsters](https://lobste.rs/s/hekby5/millet_language_server_for_sml))
 - [Standard ML AST, based on recursion schemes](https://github.com/ProjectSavanna/envelope-ast)
 - [Millet](https://github.com/azdavis/millet) - Language server for Standard ML.
+- [Memories: Edinburgh ML to Standard ML (2022)](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html)

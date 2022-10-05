@@ -354,6 +354,7 @@ Below is a list of extensions I use.
 ## Elixir
 
 - [ElixirLS](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) - Elixir support and debugger.
+- [Elixir Test Adapter](https://github.com/adamzapasnik/vscode-elixir-test-explorer)
 
 ## Julia
 

@@ -777,3 +777,4 @@
 - [Guide to Artifacts in Julia (2022)](https://www.juliafordatascience.com/artifacts/)
 - [JNumPy](https://github.com/Suzhou-Tongyuan/jnumpy) - Writing high-performance C extensions for Python in minutes. ([HN](https://news.ycombinator.com/item?id=32407451))
 - [PkgDependency](https://github.com/peng1999/PkgDependency.jl) - Show dependency tree of Julia project.
+- [PlutoSliderServer](https://github.com/JuliaPluto/PlutoSliderServer.jl) - Web server to run just the @bind parts of a Pluto.jl notebook.
