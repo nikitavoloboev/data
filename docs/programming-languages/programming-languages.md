@@ -431,3 +431,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Duo](https://github.com/duo-lang/duo-lang) - Research language focused on the combination of subtyping, type inference and type-theoretic dualities.
 - [CodeGeeX](https://github.com/THUDM/CodeGeeX) - Open Multilingual Code Generation Model.
 - [Adventures in Dynamic Software, Visualisations, Creating a JVM Language, UI, and More (2022)](https://luisthiamnye.substack.com/p/adventures-in-dynamic-software-visualisations)
+- [CMSC 430: Design and Implementation of Programming Languages (2022)](https://www.cs.umd.edu/class/fall2022/cmsc430/index.html) ([HN](https://news.ycombinator.com/item?id=33093666))

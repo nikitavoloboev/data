@@ -132,3 +132,4 @@ title: Apache Kafka
 - [Build a Reactive Data Streaming App with Python and Apache Kafka (2022)](https://www.youtube.com/watch?v=jItIQ-UvFI4)
 - [Docker images for Apache Kafka](https://github.com/confluentinc/kafka-images)
 - [Postgres: a better message queue than Kafka? (2022)](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
+- [Kafka Worker](https://github.com/maxwellpeterson/kafka-worker) - Kafka broker implementation on top of Cloudflare Workers.

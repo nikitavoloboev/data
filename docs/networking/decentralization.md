@@ -157,3 +157,4 @@ title: Decentralization
 - [Decentralized Society: Finding Web3's Soul (2022)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) ([Tweet](https://twitter.com/VitalikButerin/status/1524393952522096640))
 - [20 Web 3 podcast episodes of 2022](https://twitter.com/MishadaVinci/status/1530907361749049345)
 - [Web5](https://developer.tbd.website/projects/web5/) - Building an extra decentralized web that puts you in control of your data and identity.
+- [Do you need decentralization? Crypto, Rust, Collaboration vs Consensus (2022)](https://tably.com/blog/decentralisation)
