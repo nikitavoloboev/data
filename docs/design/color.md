@@ -192,3 +192,4 @@
 - [color-contrast in CSS](https://twitter.com/ctnicholasdev/status/1561349849542381569)
 - [How to make a Color Picker in Unity](https://astridwilde.com/tutorials/colorpicker/)
 - [Splashy](https://github.com/microlinkhq/splashy) - Given an whatever image (GIF, PNG, WebP, AVIF, etc) extract predominant & palette colors.
+- [#HEXWORDS](https://hexwords.netlify.app/) - Small web-app to filter from a list of hex colors that are similar to words. ([Code](https://github.com/paoloricciuti/hexwords))

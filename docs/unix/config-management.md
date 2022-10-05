@@ -73,3 +73,4 @@
 - [oson](https://github.com/KnorpelSenf/oson) - Structured object notation.
 - [yamlctl](https://github.com/AkihiroSuda/yamlctl) - Tool to modify YAMLs without losing (most of) comment lines.
 - [KDL Document Language](https://kdl.dev/) - XML-like semantics that looks like you're invoking a bunch of CLI commands. ([KDL-Script](https://github.com/Gankra/kdl-script))
+- [yamlfmt](https://github.com/google/yamlfmt) - Extensible command line tool or library to format YAML files.

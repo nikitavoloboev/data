@@ -421,3 +421,4 @@
 - [NIH-plug](https://github.com/robbert-vdh/nih-plug) - API-agnostic audio plugin framework written in Rust, as well as a small collection of plugins.
 - [va-filter](https://github.com/Fredemus/va-filter) - Virtual analogue filters. implemented as a VST3 and Clap plugin in Rust.
 - [AMY](https://github.com/bwhitman/amy) - Additive Music synthesizer librarY.
+- [pizMidi plugins](https://github.com/sleiner/pizmidi) - Collection of helpful tools when working with MIDI.

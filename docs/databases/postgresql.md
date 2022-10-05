@@ -583,3 +583,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [RapidRows](https://github.com/rapidloop/rapidrows) - Low-code, configurable API server for PostgreSQL databases. ([Docs](https://rapidrows.io/))
 - [Pg_squeeze: An extension to fix table bloat](https://www.cybertec-postgresql.com/en/products/pg_squeeze/) ([HN](https://news.ycombinator.com/item?id=33081709))
 - [Awesome Supabase](https://github.com/lyqht/awesome-supabase)
+- [pg_eventserv](https://github.com/CrunchyData/pg_eventserv) - Small Go server to push PgSQL listen/notify events into websockets.
