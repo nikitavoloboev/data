@@ -4,6 +4,8 @@ title: HTML
 
 # [HTML](https://developer.mozilla.org/kab/docs/Web/HTML)
 
+[Learn HTML](https://web.dev/learn/html/) is good intro.
+
 ## Notes
 
 - As a general rule, if there will be only one such element on the page, you can use an id. Otherwise, use a class.
@@ -289,3 +291,4 @@ Hi<div>oh no break</div>
 - [Drawing a star with DOMMatrix (2022)](https://jakearchibald.com/2022/drawing-a-star/)
 - [7 Cool HTML Elements Nobody Uses (2022)](https://tapajyoti-bose.medium.com/7-cool-html-elements-nobody-uses-436598d85668)
 - [Templating in HTML (2022)](https://kittygiraudel.com/2022/09/30/templating-in-html/) ([HN](https://news.ycombinator.com/item?id=33085976))
+- [Learn HTML](https://web.dev/learn/html/)

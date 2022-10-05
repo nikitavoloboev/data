@@ -4,7 +4,7 @@
 
 [Marko](https://github.com/marko-js/marko), [Qwik](https://github.com/BuilderIO/qwik) & [Bud](https://github.com/livebud/bud) (love the CLI for file generation) seem nice too.
 
-[Be the browser’s mentor, not its micromanager](https://www.youtube.com/watch?v=5uhIiI9Ld5M) is a great talk on making websites.
+[Be the browser’s mentor, not its micromanager](https://www.youtube.com/watch?v=5uhIiI9Ld5M) is a great talk on making websites. [Web.dev](https://web.dev/) has great resources.
 
 ## Notes
 

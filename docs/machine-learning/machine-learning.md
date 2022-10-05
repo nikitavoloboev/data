@@ -945,3 +945,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Variational Inference for Infinitely Deep Neural Networks (2022)](https://arxiv.org/abs/2209.10091) ([Code](https://github.com/ANazaret/unbounded-depth-neural-networks))
 - [First Contact: Unsupervised Human-Machine Co-Adaptation via Mutual Information Maximization (2022)](https://arxiv.org/abs/2205.12381) ([Code](https://github.com/rddy/mimi))
 - [Gradient Gating for Deep Multi-Rate Learning on Graphs (2022)](https://arxiv.org/abs/2210.00513) ([Code](https://github.com/tk-rusch/gradientgating))
+- [Collective Intelligence for Deep Learning: A Survey of Recent Developments (2022)](https://blog.otoro.net/2022/10/01/collectiveintelligence/)

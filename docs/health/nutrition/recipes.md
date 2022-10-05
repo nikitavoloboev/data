@@ -112,3 +112,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Peter Sugihara's recipes](https://campsh.com/recipes)
 - [go-recipe](https://github.com/kkyr/go-recipe) - Go library that scrapes recipes from websites.
 - [Tacohuaco](https://tacohuaco.co/) - Favorite recipes of a Mexican-Russian couple. ([Code](https://github.com/tacohuaco/tacohuaco))
+- [The Fresh Loaf](https://www.thefreshloaf.com/) - Community of Amateur Bakers and Artisan Bread Enthusiasts.
