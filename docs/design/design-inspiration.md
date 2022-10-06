@@ -569,6 +569,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Raluca Nicola](https://raluca-nicola.net/)
 - [Andy McCune](https://andymccune.com/)
 - [Zackary Scholl](https://schollz.com/blog/)
+- [Hamilton Ulmer](https://www.hamiltonulmer.com/)
 - [Jed Bridges](https://www.jedbridges.com/)
 - [Richard Bartlett](http://richdecibels.com/)
 - [Henry Desroches](https://henry.codes/) ([Code](https://github.com/xdesro/soon))

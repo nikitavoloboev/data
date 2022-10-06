@@ -276,3 +276,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Ask HN: What's happening with Gmail spam filtering? (2022)](https://news.ycombinator.com/item?id=32923098)
 - [What to do when Gmail marks all the mails from your server as spam](https://gist.github.com/ashegoulding/72a8732d4a1679c343f84fc985ca8de8) ([Reddit](https://www.reddit.com/r/selfhosted/comments/xmlmcq/what_to_do_when_gmail_marks_all_the_mails_from/))
 - [IMAP Mail Downloader](https://github.com/loeffel-io/mail-downloader) - Download attachments and mails as PDF with useful filters.
+- [JSXMail](https://github.com/Theryston/jsx-mail) - Email framework that uses React to create email templates. ([Docs](https://jsx-mail.org/)) ([HN](https://news.ycombinator.com/item?id=33100779))

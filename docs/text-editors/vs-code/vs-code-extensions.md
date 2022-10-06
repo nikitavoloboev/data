@@ -106,6 +106,7 @@ Below is a list of extensions I use.
 - [HexEditor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor) - Allows Hex Editing inside VS Code. ([Code](https://github.com/microsoft/vscode-hexeditor))
 - [Tidier](https://github.com/mausworks/tidier) - Tools for keeping your projects tidier.
 - [Terminal Command Keys](https://marketplace.visualstudio.com/items?itemName=petekinnecom.terminal-command-keys) - Assign a terminal command to a keybinding. ([Code](https://github.com/petekinnecom/terminal-command-keys))
+- [reTypewriter](https://marketplace.visualstudio.com/items?itemName=antfu.retypewriter) - Replay the steps of your changes at ease. ([Code](https://github.com/antfu/retypewriter))
 - [Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour) - Allows you to record and playback guided tours of codebases, directly within the editor. ([Code](https://github.com/microsoft/codetour))
 - [Data Preview](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-data-preview) - Extension for importing, viewing, slicing, dicing, charting & exporting large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files. ([Code](https://github.com/RandomFractals/vscode-data-preview))
 - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) ([Code](https://github.com/hediet/vscode-drawio)) ([HN](https://news.ycombinator.com/item?id=24686707))

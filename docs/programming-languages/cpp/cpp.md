@@ -373,3 +373,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Effect of Clang modules on compilation time (2022)](https://observablehq.com/@vsapsai/effect-of-clang-modules-on-compilation-time) ([Lobsters](https://lobste.rs/s/kwqent/effect_clang_modules_on_compilation_time))
 - [jsxx](https://github.com/surma/jsxx) - Transpiler that compiles JavaScript to C++. ([Article](https://surma.dev/things/compile-js/))
 - [ReZZan](https://github.com/bajinsheng/ReZZan) - Fast memory error sanitizer for fuzzing C/C++ code.
+- [RFC: C++ Buffer Hardening (2022)](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734) ([HN](https://news.ycombinator.com/item?id=33103464))

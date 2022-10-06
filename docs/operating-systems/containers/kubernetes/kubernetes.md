@@ -826,3 +826,4 @@ title: Kubernetes
 - [jsonnet-controller](https://github.com/pelotech/jsonnet-controller) - Fluxcd controller for managing manifests declared in jsonnet.
 - [Ability to create Kata PODs using cloud provider APIs](https://github.com/confidential-containers/cloud-api-adaptor)
 - [provider-argocd](https://github.com/crossplane-contrib/provider-argocd) - Crossplane provider to provision and manage ArgoCD objects.
+- [Kubernetes Hardening Guide (2022)](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF) ([HN](https://news.ycombinator.com/item?id=33096899))

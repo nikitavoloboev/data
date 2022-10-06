@@ -1,5 +1,7 @@
 # Web accessibility
 
+[Learn Accessibility](https://web.dev/learn/accessibility/) is great intro.
+
 ## Notes
 
 - [UI component libraries are using the term “accessible” too freely. Adding focus styles and copy-pasting some ARIA roles doesn't make your library accessible, neither does adding an “accessibility” page where you claim to conform to WCAG just because you ran a Lighthouse test.](https://twitter.com/mmatuzo/status/1462884917671604228)
@@ -111,3 +113,4 @@
 - [Best practices for inclusive textual websites (2022)](https://seirdy.one/posts/2020/11/23/website-best-practices/) ([Lobsters](https://lobste.rs/s/fq7ge1/best_practices_for_inclusive_textual))
 - [A details element as a burger menu is not accessible (2022)](https://cloudfour.com/thinks/a-details-element-as-a-burger-menu-is-not-accessible/)
 - [A Horizontal Scroll List and Custom Keyboard Navigation (2021)](https://ryanmulligan.dev/blog/project-keyboard-navigation/)
+- [Learn Accessibility](https://web.dev/learn/accessibility/)

@@ -46,6 +46,7 @@
 - [Rel8](https://github.com/circuithub/rel8) - Haskell library for interacting with PostgreSQL databases.
 - [hedis](https://github.com/informatikr/hedis) - Redis client library for Haskell.
 - [orville](https://github.com/flipstone/orville) - Yet another ORM for haskell.
+- [PLHaskell](https://github.com/ed-o-saurus/PLHaskell) - Haskell extension for PostgreSQL that allows embedded Haskell code.
 
 ## Test
 

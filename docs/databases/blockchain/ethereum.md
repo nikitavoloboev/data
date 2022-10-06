@@ -6,7 +6,7 @@ title: Ethereum
 
 Ethereum is a virtual machine built using a blockchain (spread around many clients) that lets you create and run smart contracts (arbitrary code) that then run in perpetuity.
 
-[Solidity](https://soliditylang.org) is nice prototype language. You can also use [Solang](https://solang.readthedocs.io/en/latest/) to compile it for [Solana](solana.md) chain.
+[Solidity](https://soliditylang.org) is nice prototype language. You can also use [Solang](https://solang.readthedocs.io/en/latest/) to compile Solidity code for [Solana](solana.md) chain.
 
 [StarkNet](https://starkware.co/starknet/) & [Cairo](https://www.cairo-lang.org/) are interesting. [Eth2 Book](https://eth2.incessant.ink/book/00__introduction/00__foreword.html) seems nice.
 

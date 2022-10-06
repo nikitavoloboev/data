@@ -530,3 +530,4 @@ I want to:
 - [Auto Archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content in a Google Sheet.
 - [jot](https://github.com/araekiel/jot) - Rapid note management for the terminal. ([HN](https://news.ycombinator.com/item?id=32962524))
 - [Memos](https://usememos.com/) - Open source, self-hosted knowledge base that works with SQLite. ([Code](https://github.com/usememos/memos))
+- [Notes against note-taking systems (2022)](https://sashachapin.substack.com/p/notes-against-note-taking-systems) ([HN](https://news.ycombinator.com/item?id=33049627))

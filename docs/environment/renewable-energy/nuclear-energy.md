@@ -78,3 +78,4 @@ Nuclear energy [gets a bad reputation but its the future of renewable energy](ht
 - [Korean nuclear fusion reactor achieves 100M°C for 30 seconds (2022)](https://www.shiningscience.com/2022/09/korean-nuclear-fusion-reactor-achieves.html) ([HN](https://news.ycombinator.com/item?id=32755893))
 - [We Solved Nuclear Waste Decades Ago (2022)](https://www.youtube.com/watch?v=4aUODXeAM-k)
 - [Why are nuclear power construction costs so high? (2022)](https://constructionphysics.substack.com/p/why-are-nuclear-power-construction) ([HN](https://news.ycombinator.com/item?id=33039562))
+- [Many scientists see fusion as the future of energy (2022)](https://www.nationalgeographic.co.uk/science-and-technology/2022/10/many-scientists-see-fusion-as-the-future-of-energy-and-theyre-betting-big) ([HN](https://news.ycombinator.com/item?id=33097663))

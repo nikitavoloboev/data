@@ -87,3 +87,6 @@
 - [The Illustrated Stable Diffusion (2022)](https://jalammar.github.io/illustrated-stable-diffusion/) ([HN](https://news.ycombinator.com/item?id=33084205))
 - [DALL·E Node](https://github.com/ezzcodeezzlife/dalle-node) - Use DALL·E 2 with NodeJS.
 - [Novel View Synthesis with Diffusion Models (2022)](https://3d-diffusion.github.io/) ([HN](https://news.ycombinator.com/item?id=33085837))
+- [Imagen Video](https://imagen.research.google/video/) - High definition video generation with diffusion models. ([HN](https://news.ycombinator.com/item?id=33098704))
+- [Is the AI spell-casting metaphor harmful or helpful? (2022)](https://simonwillison.net/2022/Oct/5/spell-casting/)
+- [Ask HN: What am I supposed to do after I’m “disrupted”? Work in video and CG (2022)](https://news.ycombinator.com/item?id=33099182)

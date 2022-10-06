@@ -776,7 +776,7 @@ title: Rust
 - [Rewriting sysctl in Rust: systeroid (2022)](https://blog.orhun.dev/rewriting-sysctl-in-rust/) ([HN](https://news.ycombinator.com/item?id=31060939))
 - [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Tutorial for the Rust language. ([Code](https://github.com/RalfJung/rust-101))
 - [Different 'modes' of Rust you can program in](https://twitter.com/yoshuawuyts/status/1517282615128113153)
-- [From Python into Rust Guide](https://github.com/rochacbruno/py2rs) - Quick reference guide for the Pythonista in the process of becoming a Rustacean.
+- [From Python into Rust Guide](https://github.com/rochacbruno/py2rs) - Quick reference guide for the Pythonista in the process of becoming a Rustacean. ([HN](https://news.ycombinator.com/item?id=33097754))
 - [Benchmarking and analyzing Rust performance (2022)](https://www.notamonadtutorial.com/benchmarking-and-analyzing-rust-performance-with-criterion-and-iai/)
 - [Rust from 0 to 80% for JavaScript Developers (2022)](https://michaelsalim.co.uk/blog/rust-from-0-to-80-for-js-dev/) ([HN](https://news.ycombinator.com/item?id=31220791))
 - [Rust Meetup Linz](https://rust-linz.at/) ([Twitter](https://twitter.com/rustlinz))
@@ -909,3 +909,4 @@ title: Rust
 - [“Rust is safe” is not some kind of absolute guarantee of code safety (2022)](https://lkml.org/lkml/2022/9/19/1105#1105.php) ([HN](https://news.ycombinator.com/item?id=33056077)) ([Reddit](https://www.reddit.com/r/rust/comments/xtsa1o/lkml_linus_torvalds_re_patch_v9_1227_rust_add/))
 - [No Boilerplate - YouTube](https://www.youtube.com/c/NoBoilerplate/videos) - Fast technical videos. ([Code](https://github.com/0atman/noboilerplate))
 - [Unsafe Rust is not C (2022)](https://www.youtube.com/watch?v=DG-VLezRkYQ) ([Lobsters](https://lobste.rs/s/m1zwdn/unsafe_rust_is_not_c))
+- [Rust's Result Type is Cool (2022)](https://naiveai.hashnode.dev/rust-result-cool) ([Lobsters](https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool))

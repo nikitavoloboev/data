@@ -145,3 +145,4 @@ title: Zig
 - [Building a Tiny Mutex (2022)](https://zig.news/kprotty/building-a-tiny-mutex-537k)
 - [Virtual tables with zig-sqlite (2022)](https://rischmann.fr/blog/virtual-tables-with-zig-sqlite)
 - [Nix Flake for Zig](https://github.com/mitchellh/zig-overlay)
+- [What Makes the Zig Programming Language Unique? (2022)](https://erikexplores.substack.com/p/what-makes-the-zig-programming-language) ([HN](https://news.ycombinator.com/item?id=33103267))

@@ -162,3 +162,4 @@ title: JSON
 - [JSON to JSON Schema](https://github.com/Redocly/json-to-json-schema) - Convert JSON examples into JSON schema (supports Swagger 2, OpenAPI 3 and 3.1).
 - [JSON Schema Viewer](https://navneethg.github.io/jsonschemaviewer/) - Visualize JSON schemas. ([Code](https://github.com/navneethg/jsonschemaviewer))
 - [jqp](https://github.com/noahgorstein/jqp) - TUI playground to experiment with jq. ([HN](https://news.ycombinator.com/item?id=32905506))
+- [Jq Internals: Backtracking (2017)](https://github.com/stedolan/jq/wiki/Internals:-backtracking) ([HN](https://news.ycombinator.com/item?id=33101867))

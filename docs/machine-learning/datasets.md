@@ -205,3 +205,4 @@
 - [FastDup](https://github.com/visualdatabase/fastdup) - Tool for gaining insights from a large image collection.
 - [Downstream Datasets Make Surprisingly Good Pretraining Corpora (2022)](https://arxiv.org/abs/2209.14389) ([Tweet](https://twitter.com/zacharylipton/status/1575875021498720256))
 - [Mintaka: A Complex, Natural, and Multilingual Dataset for End-to-End Question Answering](https://github.com/amazon-research/mintaka)
+- [HuggingFace Datasets server](https://github.com/huggingface/datasets-server) - Integrate into your apps over 10,000 datasets via simple HTTP requests, with pre-processed responses and scalability built-in. ([HN](https://news.ycombinator.com/item?id=33097117))
