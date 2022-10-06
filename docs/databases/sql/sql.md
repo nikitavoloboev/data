@@ -218,3 +218,4 @@ title: SQL
 - [Ask HN: Does anyone else think SQL needs help? (2022)](https://news.ycombinator.com/item?id=32799920)
 - [SQL syntax for tree-sitter](https://github.com/m-novikov/tree-sitter-sql)
 - [SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only web app builder, empowering data analysts to build websites and applications quickly.
+- [Future Proofing SQL with Carefully Placed Errors (2022)](https://hakibenita.com/future-proof-sql)

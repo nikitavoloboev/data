@@ -315,3 +315,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Graphism](https://github.com/zaiste/graphism) - Library for creating GraphQL servers in Deno & Deno Deploy.
 - [Skia Canvas](https://github.com/DjDeveloperr/skia_canvas) - Fast JavaScript Canvas backed by Skia using Deno FFI.
 - [Deno 1.26 Release Notes (2022)](https://deno.com/blog/v1.26) ([HN](https://news.ycombinator.com/item?id=33020747))
+- [The Future of the Web Is on the Edge (2022)](https://deno.com/blog/the-future-of-web-is-on-the-edge) ([HN](https://news.ycombinator.com/item?id=33110973))

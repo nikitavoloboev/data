@@ -356,3 +356,4 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Gamercade](https://gamercade.io/) - WASM powered, multiplayer-first, Fantasy Console. ([Code](https://github.com/gamercade-io/gamercade_console))
 - [‘Pong’ on a rock wall with Augmented Climbing](https://twitter.com/Rainmaker1973/status/1570057282049777665)
 - [Steam Deck Guide](https://github.com/mikeroyal/Steam-Deck-Guide)
+- [Modmapper: Putting every Skyrim mod on a map with Rust (2022)](https://www.hallada.net/2022/10/05/modmapper-putting-every-skyrim-mod-on-a-map-with-rust.html)

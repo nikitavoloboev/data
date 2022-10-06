@@ -100,3 +100,4 @@ title: Vulkan API
 - [pasvulkan](https://github.com/BeRo1985/pasvulkan) - Vulkan toolset for Pascal.
 - [VulkanAbstractionLayer](https://github.com/asc-community/VulkanAbstractionLayer) - Render graph-based Vulkan API abstraction library.
 - [vuk](https://github.com/martty/vuk) - Rendergraph-based abstraction for Vulkan.
+- [Vulkan Render-Queues and how they Sync (2022)](https://poniesandlight.co.uk/reflect/island_rendergraph_2/)

@@ -179,4 +179,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [Substack Reader for web supports RSS (2022)](https://on.substack.com/p/new-web-reader)
 - [NetNewsWire](https://netnewswire.com/) - RSS reader for macOS and iOS. ([Code](https://github.com/Ranchero-Software/NetNewsWire)) ([HN](https://news.ycombinator.com/item?id=33052441))
 - [Feedbag](https://github.com/damog/feedbag) - Ruby's favorite auto-discovery tool/library.
-- [The struggles of building a Feed Reader (2022)](https://jackevansevo.github.io/posts/struggles-of-building-an-rss-feed-reader/)
+- [The struggles of building a Feed Reader (2022)](https://jackevansevo.github.io/posts/struggles-of-building-an-rss-feed-reader/) ([Lobsters](https://lobste.rs/s/u6nrj0/struggles_building_feed_reader))

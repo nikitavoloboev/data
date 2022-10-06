@@ -124,3 +124,4 @@
 - [Go FTP Server](https://github.com/fclairamb/ftpserver) - Go based autonomous FTP server with SFTP, S3, Dropbox, and Google Drive connectors.
 - [Skyplane](https://github.com/skyplane-project/skyplane) - Blazingly fast bulk data transfers in the cloud. ([Docs](https://skyplane.org/en/latest/)) ([Tweet](https://twitter.com/_parasj/status/1577708526897504256))
 - [sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directory and files with ios and android devices without an extra client app.
+- [rsget](https://github.com/otavio/rsget) - Simple command line utility to download a remote file, similar to wget.
