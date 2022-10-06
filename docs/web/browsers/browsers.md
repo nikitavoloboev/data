@@ -255,3 +255,4 @@ Use this [Solid/Vite](https://github.com/fuyutarow/solid-chrome-extension-templa
 - [Favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js.
 - [natbot](https://github.com/nat/natbot) - Drive a browser with GPT-3.
 - [Microlink](https://microlink.io/) - Fast, scalable, and reliable browser automation. ([GitHub](https://github.com/microlinkhq))
+- [Modern for Wikipedia](https://www.modernwiki.app/) - Modern web UI for Wikipedia. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/xx36o3/i_made_a_modern_web_ui_for_wikipedia/))

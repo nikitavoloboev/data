@@ -92,3 +92,4 @@ title: Prometheus
 - [Epimetheus](https://github.com/polarsignals/epimetheus) - FrostDB backed Prometheus fork.
 - [Exporter Exporter](https://github.com/QubitProducts/exporter_exporter) - Reverse proxy designed for Prometheus exporters.
 - [Prometheus Formatter](https://github.com/fhemberger/prometheus-formatter) - Browser extension which makes plain Prometheus/OpenMetrics output easier to read.
+- [exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sonarr, Radarr or Lidarr.

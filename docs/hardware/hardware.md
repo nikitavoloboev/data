@@ -356,3 +356,5 @@
 - [TSMC's Renegade Genius (2022)](https://www.youtube.com/watch?v=-W0YdacKwUo)
 - [Antmicro](https://antmicro.com/) - Software-driven tech company developing open and modern industrial edge and cloud AI systems. ([Twitter](https://twitter.com/antmicro)) ([GitHub](https://github.com/antmicro))
 - [MNT Research GmbH](https://mntre.com/)
+- [Remotery](https://github.com/Celtoys/Remotery) - Real time CPU/GPU profiler hosted in a single C file with a viewer that runs in a web browser.
+- [BBC Micro inside a PC case](https://github.com/dekuNukem/RGBeeb) ([HN](https://news.ycombinator.com/item?id=33106822))

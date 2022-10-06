@@ -392,3 +392,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [We reduced our annual server costs by 80% by moving away from AWS (2022)](https://levelup.gitconnected.com/how-we-reduced-our-annual-server-costs-by-80-from-1m-to-200k-by-moving-away-from-aws-2b98cbd21b46) ([HN](https://news.ycombinator.com/item?id=33007873))
 - [Amazon SageMaker Developer Guide](https://github.com/awsdocs/amazon-sagemaker-developer-guide/blob/master/doc_source/index.md)
 - [Have lots of AWS accounts (2022)](https://src-bin.com/you-should-have-lots-of-aws-accounts/) ([HN](https://news.ycombinator.com/item?id=33069547))
+- [CloudFox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.

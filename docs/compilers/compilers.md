@@ -250,4 +250,4 @@
 - [Optimizing compilers deduplicate strings and arrays (2022)](https://lemire.me/blog/2022/09/23/optimizing-compilers-deduplicate-strings-and-arrays/) ([HN](https://news.ycombinator.com/item?id=32957932))
 - [Compiler Optimizations Are Hard Because They Forget (2022)](https://faultlore.com/blah/oops-that-was-important/) ([Lobsters](https://lobste.rs/s/tsbffa/compiler_optimizations_are_hard_because))
 - [Static Program Analysis (2022)](https://cs.au.dk/%7Eamoeller/spa/spa.pdf)
-- [The Solid-State Register Allocator (2022)](https://www.mattkeeter.com/blog/2022-10-04-ssra/)
+- [The Solid-State Register Allocator (2022)](https://www.mattkeeter.com/blog/2022-10-04-ssra/) ([Code](https://github.com/mkeeter/ssra))

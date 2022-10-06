@@ -122,3 +122,4 @@ title: Zero knowledge proofs
 - [zkWasm](https://github.com/DelphinusLab/zkWasm)
 - [ZK-kit](https://github.com/privacy-scaling-explorations/zk-kit) - Monorepo of reusable JS libraries for zero-knowledge technologies.
 - [ZKP (circuit) compiler shootout](https://github.com/anoma/zkp-compiler-shootout) - Evaluating & benchmarking ZKP compilation strategies.
+- [zkcreds-rs](https://github.com/rozbb/zkcreds-rs) - Cryptographic library for designing anonymous credential systems in a flexible, issuer-agnostic, and efficient manner using general-purpose zero-knowledge proofs.

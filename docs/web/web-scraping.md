@@ -221,3 +221,5 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [SABLE](https://github.com/uscensusbureau/SABLE) - Scraping Assisted by Learning.
 - [HTML to Text](https://github.com/TeamHG-Memex/html-text)
 - [Crawly](https://github.com/elixir-crawly/crawly) - High-level web crawling & scraping framework for Elixir.
+- [Scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Hides your scraper behind a cloud. ([Web](http://scrapoxy.io/))
+- [Instahunter](https://github.com/araekiel/instahunter) - CLI OSINT app that can fetch data from Instagram's Web API without authentication.

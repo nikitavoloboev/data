@@ -225,7 +225,7 @@ title: Svelte
 - [svelte-tags-input](https://github.com/agustinl/svelte-tags-input) - Fully customizable Svelte component to enter tags.
 - [svelte-tiny-virtual-list](https://github.com/skayo/svelte-tiny-virtual-list) - Tiny but mighty list virtualization library for Svelte, with zero dependencies.
 - [Svelte Material UI](https://sveltematerialui.com/) ([Code](https://github.com/hperrin/svelte-material-ui))
-- [SvelteUI](https://github.com/Brisklemonade/svelteui) - Component library for building fully functional & accessible web applications.
+- [SvelteUI](https://github.com/svelteuidev/svelteui) - Component library for building fully functional & accessible web applications. ([Web](https://www.svelteui.org/))
 - [Svelte Writable Derived](https://github.com/PixievoltNo1/svelte-writable-derived) - Two-way data-transforming stores for Svelte.
 - [Awesome SvelteKit](https://github.com/one-aalam/awesome-svelte-kit)
 - [Made with Svelte](https://madewithsvelte.com/)

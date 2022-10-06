@@ -198,6 +198,8 @@
 - [ZIO Compose](https://github.com/tailcallhq/zio-compose) - Scala DSL to write type-safe programs for distributed computing.
 - [feral](https://github.com/typelevel/feral) - Framework for writing serverless functions in Scala with Cats Effect and deploying them to the cloud, targeting both JVM and JavaScript runtimes.
 - [scala-uri](https://github.com/lemonlabsuk/scala-uri) - Simple scala library for building and parsing URIs.
+- [Glass](https://github.com/tofu-tf/glass) - Modern optic library.
+- [Morphling](https://github.com/danslapman/morphling) - Cats-based Scala library for free applicative schemas.
 
 ## Links
 

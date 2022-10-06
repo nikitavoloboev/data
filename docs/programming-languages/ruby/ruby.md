@@ -147,3 +147,4 @@
 - [Rucoa](https://github.com/r7kamura/rucoa) - Language server for Ruby.
 - [MemoryProfiler](https://github.com/SamSaffron/memory_profiler) - Memory profiler for Ruby.
 - [IRB on browser powered by WebAssembly](https://github.com/kateinoigakukun/irb.wasm)
+- [Ruby program that generates itself through a 128-language quine loop](https://github.com/mame/quine-relay/blob/master/QR.rb) ([HN](https://news.ycombinator.com/item?id=33105706))

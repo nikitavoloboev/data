@@ -91,3 +91,5 @@
 - [Is the AI spell-casting metaphor harmful or helpful? (2022)](https://simonwillison.net/2022/Oct/5/spell-casting/)
 - [Ask HN: What am I supposed to do after I’m “disrupted”? Work in video and CG (2022)](https://news.ycombinator.com/item?id=33099182)
 - [Stable-Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - PyTorch implementation of the text-to-3D model Dreamfusion, powered by the Stable Diffusion text-to-2D model.
+- [Text2All](https://github.com/AvrahamRaviv/Text2All) - Comprehensive list of resources about text-guided generative models.
+- [HuggingFace Space and model of VToonify (2022)](https://colab.research.google.com/github/williamyang1991/VToonify/blob/master/notebooks/inference_playground.ipynb) ([Tweet](https://twitter.com/ShuaiYang1991/status/1576937439528042499))

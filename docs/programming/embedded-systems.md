@@ -212,3 +212,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [I'm Building a Self-Destructing USB Drive (2022)](https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/)
 - [R3-OS](https://github.com/r3-os/r3) - Experimental static component-oriented RTOS for deeply embedded systems.
 - [Silverfir](https://github.com/mbbill/Silverfir) - WebAssembly runtime for embedded systems.
+- [Espressif IDF Extra Components](https://github.com/espressif/idf-extra-components)

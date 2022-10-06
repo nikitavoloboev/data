@@ -10,6 +10,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 
 - [NextJS + tRPC + TailwindCSS + TS + Prisma + NextAuth](https://github.com/t3-oss/create-t3-app)
 - [Dub](https://dub.sh/) - Open-Source Bitly Alternative. ([Code](https://github.com/steven-tey/dub)) ([HN](https://news.ycombinator.com/item?id=32939407)) ([Tweet](https://twitter.com/steventey/status/1572958186667233282))
+- [Next.js on Compute@Edge](https://github.com/fastly/next-compute-js)
 - [NextJS, Tailwind, TRPC, Prisma, and NextAuth Starter](https://github.com/copleykj/NextJS-Ultimate-Starter)
 - [TRPC + Yarn Monorepo + Prisma + Expo](https://github.com/matteolobello/type)
 - [Repliear](https://github.com/rocicorp/repliear) - High-performance issue tracker in the style of Linear. Built with Replicache, Next.js, Pusher, and Postgres.

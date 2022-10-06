@@ -453,3 +453,4 @@ title: PyTorch
 - [Continual Learning](https://github.com/GMvandeVen/continual-learning) - PyTorch implementation of various methods for continual learning (XdG, EWC, SI, LwF, FROMP, DGR, BI-R, ER, A-GEM, iCaRL, Generative Classifier) in three different scenarios.
 - [Hedwig](https://github.com/castorini/hedwig) - PyTorch deep learning models for document classification.
 - [GenForce](https://github.com/genforce/genforce) - Efficient PyTorch library for deep generative modeling.
+- [NeuroMANCER](https://github.com/pnnl/neuromancer) - PyTorch-based framework for solving parametric constrained optimization problems.

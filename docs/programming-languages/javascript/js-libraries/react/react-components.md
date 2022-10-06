@@ -335,6 +335,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [json-viewer](https://github.com/TexteaInc/json-viewer) - React component for JSON viewer, but not only a JSON viewer.
 - [Tremor](https://github.com/tremorlabs/tremor) - React library to build dashboards fast.
 - [Rive React](https://github.com/rive-app/rive-react) - React runtime for Rive.
+- [daisyUI React](https://github.com/daisyui/react-daisyui) - daisyUI components built with React, Typescript and TailwindCSS.
 
 ## Links
 

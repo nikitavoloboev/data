@@ -1,6 +1,6 @@
 # Interviews
 
-[Your ultimate guide to interview preparation](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/) is an amazing guide that covers pretty much everything you need to know to prepare & pass a technical interview.
+[Interview Guide](https://interviewguide.dev/) & [Your ultimate guide to interview preparation](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/) cover pretty much everything you need to know to prepare & pass a technical interview.
 
 [CodeSandbox](https://codesandbox.io/) or [Replit](https://replit.com/) are great platform for conducting live coding interviews for free.
 
@@ -24,6 +24,7 @@
 
 ## Links
 
+- [InterviewGuide.dev](https://interviewguide.dev/) ([Code](https://github.com/nas5w/interview-guide))
 - [My Tech Interviews Experience: Failures, Successes and Tips for you](https://patrickbalestra.com/blog/2018/08/06/my-tech-interviews-experience.html)
 - [How I landed offers from Microsoft, Amazon, and Twitter without an Ivy League degree](https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8)
 - [Data structures cheat sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b#file-the-technical-interview-cheat-sheet-md)

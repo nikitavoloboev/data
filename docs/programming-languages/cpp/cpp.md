@@ -374,3 +374,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [jsxx](https://github.com/surma/jsxx) - Transpiler that compiles JavaScript to C++. ([Article](https://surma.dev/things/compile-js/))
 - [ReZZan](https://github.com/bajinsheng/ReZZan) - Fast memory error sanitizer for fuzzing C/C++ code.
 - [RFC: C++ Buffer Hardening (2022)](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734) ([HN](https://news.ycombinator.com/item?id=33103464))
+- [Build C++ Graph Analytics Without Worrying About Memory (2022)](https://memgraph.com/blog/build-graph-analytics-without-worrying-about-memory)

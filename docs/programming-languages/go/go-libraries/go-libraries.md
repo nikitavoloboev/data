@@ -1828,6 +1828,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-hostpool](https://github.com/bitly/go-hostpool) - Intelligently and flexibly pool among multiple hosts from your Go application.
 - [Opus](https://github.com/pion/opus) - Pure Go implementation of the Opus audio codec. ([Reddit](https://www.reddit.com/r/golang/comments/xui6l5/pure_go_implementation_of_the_opus_audio_codec/))
 - [taskgroup](https://github.com/creachadair/taskgroup) - Go package for managing a group of collaborating goroutines.
+- [Shutdown](https://github.com/klauspost/shutdown2) - Manage shutdown code centrally, and provides functionality to execute code when a controlled shutdown occurs.
 
 ## Links
 

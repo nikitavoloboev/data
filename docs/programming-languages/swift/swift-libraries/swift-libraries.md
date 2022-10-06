@@ -1270,6 +1270,7 @@
 - [Semaphore](https://github.com/groue/Semaphore) - Counting Semaphore for Swift Concurrency.
 - [Swift Configuration Parser](https://github.com/liamnichols/swift-configuration-parser) - Simple configuration file parsing for Swift.
 - [Oklab](https://github.com/importRyan/Oklab) - Swift implementation of Björn Ottosson's Oklab perceptual color space for image processing.
+- [Aftermath](https://github.com/jamf/aftermath) - Swift-based, open-source incident response framework.
 
 ## Other (not lib)
 

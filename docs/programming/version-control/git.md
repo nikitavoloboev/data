@@ -582,3 +582,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Hookz](https://github.com/devops-kung-fu/hookz) - Manages client side git hooks resulting in the ability to create git action pipelines.
 - [Git Worktrees](https://jmtd.net/log/worktrees/) ([Lobsters](https://lobste.rs/s/wvshhd/sqlite_qemu_all_over_again))
 - [Highlights from Git 2.38 (2022)](https://github.blog/2022-10-03-highlights-from-git-2-38/) ([HN](https://news.ycombinator.com/item?id=33071275))
+- [Take Advantage of Git Rebase (2022)](https://about.gitlab.com/blog/2022/10/06/take-advantage-of-git-rebase/) ([HN](https://news.ycombinator.com/item?id=33107741))
+- [Commit](https://github.com/alt-art/commit) - Command-line tool to guide your template commit messages anywhere, anytime.

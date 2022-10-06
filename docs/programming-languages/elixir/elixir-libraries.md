@@ -251,6 +251,7 @@
 - [Striped](https://github.com/maartenvanvliet/striped) - Library to interface with the Stripe API.
 - [TelemetryDecorator](https://github.com/amplifiedai/telemetry_decorator) - Function decorator for telemetry.
 - [Image](https://github.com/kipcole9/image) - Image processing for Elixir.
+- [Tokenizers](https://github.com/elixir-nx/tokenizers) - Elixir bindings for Hugging Face Tokenizers.
 
 ## Links
 

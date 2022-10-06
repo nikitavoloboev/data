@@ -414,5 +414,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nix-parameterized](https://github.com/Acosense/nix-parameterized)
 - [Four months into The Nix Book (2022)](https://www.tweag.io/blog/2022-09-29-the-nix-book-report/) ([Lobsters](https://lobste.rs/s/3gtbmy/four_months_into_nix_book))
 - [Nix-Gaming](https://github.com/fufexan/nix-gaming) - Gaming related stuff for Nix and NixOS.
-- [Just, Nix Shell and Podman are a Killer Combo (2022)](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo) ([Lobsters](https://lobste.rs/s/eenfdg/just_nix_shell_podman_are_killer_combo))
+- [Just, Nix Shell and Podman are a Killer Combo (2022)](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo) ([Lobsters](https://lobste.rs/s/eenfdg/just_nix_shell_podman_are_killer_combo)) ([Reddit](https://www.reddit.com/r/NixOS/comments/xwmx6o/just_nix_shell_and_podman_are_a_killer_combo/))
 - [Nix Team Creation (2022)](https://discourse.nixos.org/t/nix-team-creation/22228) ([HN](https://news.ycombinator.com/item?id=33097511))

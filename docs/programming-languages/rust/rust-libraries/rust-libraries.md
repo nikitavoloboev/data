@@ -614,6 +614,7 @@
 - [ore.rs](https://github.com/cipherstash/ore.rs) - Order-revealing encryption library used by the CipherStash searchable encryption platform.
 - [cretrit](https://github.com/enquo/cretrit) - Comparison-Revealing Encryption primitives.
 - [sss-rs](https://github.com/dsprenkels/sss-rs) - Rust bindings for my Shamir secret sharing library.
+- [RustCrypto: signatures](https://github.com/RustCrypto/signatures) - Cryptographic signature algorithms: DSA, ECDSA, Ed25519.
 
 ## Linux
 
@@ -2215,6 +2216,10 @@
 - [proc-exit](https://github.com/rust-cli/proc-exit) - Exit codes for process termination.
 - [Nodi](https://github.com/insomnimus/nodi) - Rust library for playing and abstraction of MIDI files.
 - [Vibrato](https://github.com/daac-tools/vibrato) - Fast implementation of tokenization (or morphological analysis) based on the Viterbi algorithm.
+- [audiotags](https://github.com/TianyiShi2001/audiotags) - Unified IO for different types of audio metadata.
+- [OpenXRS](https://github.com/Ralith/openxrs) - Rust bindings for the OpenXR virtual/augmented reality runtime API.
+- [whoami](https://github.com/ardaku/whoami) - Rust crate to get the current user and environment.
+- [upversion](https://github.com/rusty-ferris-club/upversion) - Notify your clients when new version release and show the latest download link.
 
 ## Cargo Plugins
 

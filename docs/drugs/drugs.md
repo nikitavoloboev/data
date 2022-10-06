@@ -4,6 +4,8 @@ Our body likes to stay and keep itself in a state of homeostasis. I think it is 
 
 Moderation is key with drugs of any kind, be it medicine or recreational use. Knowing what the appropriate dosage is, what effects a drug has and what are the consequences of taking the drug is of utmost importance.
 
+Only 'hard' drugs I partake in are [psychedelics](psychedelics/psychedelics.md).
+
 ## Notes
 
 - [The drug isn't the issue its our relationship with them.](https://www.reddit.com/r/Psychedelics/comments/mpmmse/this_needs_to_stop/)

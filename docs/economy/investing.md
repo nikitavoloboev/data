@@ -300,3 +300,5 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Devtool Angels](https://www.devtoolangels.com/) - List of angel investors that invest in developer tools based on devtools-angels.
 - [Ask HN: Have you bought I bonds yet? Why not? (2022)](https://news.ycombinator.com/item?id=32941793)
 - [What company would you invest in 'at a fair price' (2022)](https://twitter.com/patrick_oshag/status/1574055187362332673)
+- [InvestPy](https://github.com/alvarobartt/investpy) - Financial Data Extraction from Investing.com with Python.
+- [InvestPy Tiny](https://github.com/alvarobartt/investiny)

@@ -61,3 +61,4 @@ Aside from those geopolitical failures, Germany seems like a nice place to live 
 - [Ubähnchen](https://xn--ubhnchen-1za.vercel.app/en) - Animated subway map of Berlin. ([HN](https://news.ycombinator.com/item?id=32647227))
 - [Berlin Appointment Finder](https://github.com/volkan/appointment-finder-berlin) - Make an appointment online with the Berlin authorities.
 - [Berlin Bürgeramt Appointment Bot](https://github.com/similicious/berlin-buergeramt-bot) - Bot that sends a notification when a buergeramt appointment is available.
+- [Munich scripts](https://github.com/okainov/munich-scripts) - Some useful scripts simplifying bureaucracy.

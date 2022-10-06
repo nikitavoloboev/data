@@ -260,3 +260,4 @@ title: Spatial analysis
 - [Predicting (and learning) taxi trip durations in real-time](https://github.com/MaxHalford/taxi-demo-rp-mz-rv-rd-st) - Self-contained demo using Redpanda, Materialize, River, Redis, and Streamlit to predict taxi trip durations.
 - [Datamaps](https://github.com/markmarkoh/datamaps) - Customizable SVG map visualizations for the web in a single JavaScript file using D3.js.
 - [Shapefile.js](https://github.com/calvinmetcalf/shapefile-js) - Convert a Shapefile to GeoJSON.
+- [How fateful? (2022)](https://chan.co.za/how-fateful) ([HN](https://news.ycombinator.com/item?id=33077473)) ([Code](https://github.com/channon036/how_fateful))

@@ -1003,6 +1003,8 @@
 - [Spans](https://github.com/runfalk/spans) - Pure Python implementation of PostgreSQL's range types.
 - [PyBluez](https://github.com/pybluez/pybluez) - Allows Python code to access the host machine's Bluetooth resources.
 - [ASDF](https://github.com/asdf-format/asdf) - Advanced Scientific Data Format. ([HN](https://news.ycombinator.com/item?id=33039904))
+- [scheduler](https://github.com/DigonIO/scheduler) - Simple in-process python scheduler library with asyncio, threading and timezone support.
+- [python-daachorse](https://github.com/daac-tools/python-daachorse) - Fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
 
 ## Notes
 
