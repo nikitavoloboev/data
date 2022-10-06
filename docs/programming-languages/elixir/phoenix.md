@@ -112,3 +112,7 @@ title: Phoenix framework
 - [Phoenix Channels](https://github.com/liveviewnative/phoenix-channels-client) - Async-ready Phoenix Channels v2 client library in Rust.
 - [LiveView Native](https://native.live/) - Native platform implementations of the Phoenix LiveView protocol. ([GitHub](https://github.com/liveviewnative))
 - [PhoenixGon](https://github.com/khusnetdinov/phoenix_gon) - Phoenix variables in your JavaScript without headache.
+- [PhoenixProfiler](https://github.com/mcrumm/phoenix_profiler) - Web Profiler and Debug Toolbar for Phoenix Framework.
+- [Phoenix LiveDashboard](https://github.com/phoenixframework/phoenix_live_dashboard) - Real time dashboard with metrics, request logging, plus storage, OS and VM insights.
+- [LiveUpload Example](https://github.com/mcrumm/live_upload_example) - Demonstrating file uploads with Phoenix LiveView.
+- [BroadwayCloudPubSub](https://github.com/dashbitco/broadway_cloud_pub_sub) - Google Cloud Pub/Sub connector for Broadway.

@@ -104,3 +104,4 @@ title: Agda
 - [Agda Generics](https://github.com/flupe/generics) - Library for datatype-generic programming in Agda.
 - [Cube solver for Cubical Agda](https://github.com/maxdore/csolver)
 - [agda2hs](https://github.com/agda/agda2hs) - Compiling Agda code to readable Haskell.
+- [Don't worry (about writing Haskell), be happy (writing Agda instead) (2022)](https://jesper.sikanda.be/posts/agda2hs.html)

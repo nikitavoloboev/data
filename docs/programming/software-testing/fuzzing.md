@@ -96,3 +96,4 @@ title: Fuzzing
 - [Frameshifter](https://github.com/bahruzjabiyev/frameshifter) - Grammar-based HTTP/2 fuzzer with mutation ability.
 - [czz](https://github.com/langston-barrett/czz) - Whole-program, scriptable, multi-language, coverage-guided fuzzer.
 - [Jit-Picking: Differential Fuzzing of JavaScript Engines (2022)](https://publications.cispa.saarland/3773/)
+- [Hacking TMNF: Fuzzing the game server (2022)](https://blog.bricked.tech/posts/tmnf/part1/)

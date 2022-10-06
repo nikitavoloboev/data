@@ -259,6 +259,7 @@ title: GitHub actions
 - [actionsx/prettier](https://github.com/actionsx/prettier) - Native, blazingly-fast Prettier CLI on Github Actions.
 - [Create Nightly Release](https://github.com/viperproject/create-nightly-release) - GitHub action to create a new pre-release and delete old pre-releases created by this action.
 - [GitHub Project Changelog](https://github.com/nearform/github-action-project-changelog) - GitHub action to create an issue containing a list of project cards according with the project column name specified.
+- [Setup-FFmpeg](https://github.com/Iamshankhadeep/setup-ffmpeg)
 
 ## Go
 

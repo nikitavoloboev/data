@@ -2,7 +2,7 @@
 
 ## Web
 
-- [Elm Land](https://elm.land/) - Production-ready framework for building Elm applications. ([Code](https://github.com/elm-land/elm-land))
+- [Elm Land](https://elm.land/) - Production-ready framework for building Elm applications. ([Code](https://github.com/elm-land/elm-land)) ([Hello world](https://elm.land/news/hello-world.html))
 - [elm-pages](https://github.com/dillonkearns/elm-pages) - Framework for building an Elm single-page app with pre-rendered HTML pages. ([Web](https://elm-pages.com/)) ([2.0 release](https://elm-pages.com/blog/introducing-v2/))
 - [http](https://github.com/elm/http) - Make HTTP requests in Elm.
 - [elm-graphql](https://github.com/dillonkearns/elm-graphql/) - Autogenerate type-safe GraphQL queries in Elm.

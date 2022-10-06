@@ -113,3 +113,4 @@ title: Vite
 - [Vite/Rollup plugin for Module Federation](https://github.com/gioboa/vite-module-federation)
 - [Favicons Vite Plugin](https://github.com/josh-hemphill/vite-plugin-favicon) - Leverages on favicons to automatically generate your favicons for you.
 - [Vite Plugin Web Extension](https://github.com/samrum/vite-plugin-web-extension) - Vite plugin for generating cross browser platform, ES module based web extensions.
+- [Vite-Plugin-Minify](https://github.com/zhuweiyou/vite-plugin-minify) - Minify HTML in production.

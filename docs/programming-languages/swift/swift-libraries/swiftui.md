@@ -255,3 +255,4 @@ title: SwiftUI
 - [SwiftUI Navigation & URL Routing - Brandon Williams (2022)](https://vimeo.com/751580644/6714fe76d6)
 - [Build iOS 16 Stocks App With SwiftUI & SwiftCharts Series](https://www.youtube.com/playlist?list=PLuecTl5TrGwtQRtT6wxI0-l0fN-2V5QTJ) ([Code](https://github.com/alfianlosari/stocksapptutorial))
 - [Libraried](https://apps.apple.com/us/app/libraried/id1642862540) - SwiftUI Components in Action.
+- [Using the dismiss action from the SwiftUI environment (2022)](https://nilcoalescing.com/blog/UsingTheDismissActionFromTheSwiftUIEnvironment/)

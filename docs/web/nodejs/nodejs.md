@@ -427,3 +427,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [Sentry Profiling SDK for NodeJS](https://github.com/getsentry/profiling-node)
 - [Umzug](https://github.com/sequelize/umzug) - Framework agnostic migration tool for Node.js.
 - [NodeConf EU 2022](https://nodeconf22.vercel.app/) ([Videos](https://www.youtube.com/playlist?list=PL0CdgOSSGlBaULAdbribJiENfXxPW0aLQ))
+- [jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.

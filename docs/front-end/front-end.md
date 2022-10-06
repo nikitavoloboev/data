@@ -118,3 +118,4 @@
 - [Lost Pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend. First class integration with Storybook, Ladle & other frontend libraries.
 - [Frontend Mastery](https://frontendmastery.com/) - Deep dives and guides on modern frontend development.
 - [Fastest Frontend Tooling in 2022](https://cpojer.net/posts/fastest-frontend-tooling-in-2022)
+- [UI Libraries: Picking The Best (2022)](https://www.youtube.com/watch?v=CQuTF-bkOgc)

@@ -29,3 +29,5 @@ title: RxJS
 - [RX Use](https://github.com/streamich/rx-use) - RxJS DOM sensors.
 - [rxooks](https://github.com/benlesh/rxooks) - Library of RxJS-related hooks.
 - [rxjs-spy](https://github.com/cartant/rxjs-spy) - Debugging library for RxJS.
+- [RxJS Insights](https://github.com/ksz-ksz/rxjs-insights) - Toolset that helps you debug and visualize the observables in your app.
+- [React-Rx](https://github.com/sanity-io/react-rx) - Hooks and utilities for combining React with RxJS Observables.

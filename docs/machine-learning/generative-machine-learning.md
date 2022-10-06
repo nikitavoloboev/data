@@ -90,3 +90,4 @@
 - [Imagen Video](https://imagen.research.google/video/) - High definition video generation with diffusion models. ([HN](https://news.ycombinator.com/item?id=33098704))
 - [Is the AI spell-casting metaphor harmful or helpful? (2022)](https://simonwillison.net/2022/Oct/5/spell-casting/)
 - [Ask HN: What am I supposed to do after I’m “disrupted”? Work in video and CG (2022)](https://news.ycombinator.com/item?id=33099182)
+- [Stable-Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - PyTorch implementation of the text-to-3D model Dreamfusion, powered by the Stable Diffusion text-to-2D model.

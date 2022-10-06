@@ -115,6 +115,7 @@
 - [CommonGraphqlClient](https://github.com/annkissam/common_graphql_client) - Elixir GraphQL Client with HTTP and WebSocket Support.
 - [GQL](https://github.com/balexand/gql) - Simple GraphQL client for Elixir.
 - [Absinthe ErrorPayload](https://github.com/mirego/absinthe_error_payload) - Bridges the gap between Ecto and Absinthe for mutation payload.
+- [AbsintheClient](https://github.com/CargoSense/absinthe_client) - GraphQL client designed for Elixir Absinthe.
 
 ## Other
 
@@ -249,6 +250,7 @@
 - [OpenTelemetry Erlang](https://github.com/open-telemetry/opentelemetry-erlang-contrib) - OpenTelemetry instrumentation for Erlang & Elixir.
 - [Striped](https://github.com/maartenvanvliet/striped) - Library to interface with the Stripe API.
 - [TelemetryDecorator](https://github.com/amplifiedai/telemetry_decorator) - Function decorator for telemetry.
+- [Image](https://github.com/kipcole9/image) - Image processing for Elixir.
 
 ## Links
 
