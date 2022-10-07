@@ -123,3 +123,4 @@ title: Ray tracing
 - [Monte Carlo Ray Tracer](https://github.com/linusmossberg/monte-carlo-ray-tracer) - Physically based renderer with Path Tracing and Photon Mapping.
 - [Tiny ray-tracing engine](https://github.com/ledyba/tiny-ray.rs)
 - [Literate ray tracing in Zig](https://github.com/tmcw/zig-raytracer)
+- [Core Ray Tracer](https://github.com/matklad/crt)

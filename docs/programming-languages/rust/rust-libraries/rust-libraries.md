@@ -2220,6 +2220,9 @@
 - [OpenXRS](https://github.com/Ralith/openxrs) - Rust bindings for the OpenXR virtual/augmented reality runtime API.
 - [whoami](https://github.com/ardaku/whoami) - Rust crate to get the current user and environment.
 - [upversion](https://github.com/rusty-ferris-club/upversion) - Notify your clients when new version release and show the latest download link.
+- [rust-debruijn](https://github.com/10XGenomics/rust-debruijn) - De Bruijn graph construction & path compression libraries.
+- [dynstack](https://github.com/sarah-ek/dynstack) - Stack that allows users to allocate dynamically sized arrays.
+- [binfarce](https://github.com/Shnatsel/binfarce) - Extremely minimal parser for ELF/PE/Mach-o/ar.
 
 ## Cargo Plugins
 

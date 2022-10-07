@@ -529,3 +529,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [mule](https://github.com/bpowers/mule) - Fast proxy: eBPF data plane, Go control plane.
 - [Leveraging strategic connection migration-powered traffic splitting for privacy (2022)](https://arxiv.org/pdf/2205.03326.pdf)
 - [GoFlow2](https://github.com/netsampler/goflow2) - NetFlow/IPFIX/sFlow collector in Go. Gathers network information (IP, interfaces, routers) from different flow protocols, serializes it in a common format.
+- [SONiC](https://sonic-net.github.io/SONiC/) - Open source network operating system based on Linux that runs on switches from multiple vendors and ASICs. ([Web Code](https://github.com/sonic-net/SONiC))

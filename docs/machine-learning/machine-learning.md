@@ -948,3 +948,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Collective Intelligence for Deep Learning: A Survey of Recent Developments (2022)](https://blog.otoro.net/2022/10/01/collectiveintelligence/)
 - [TT-NF: Tensor Train Neural Fields (2022)](https://www.obukhov.ai/ttnf) ([Code](https://github.com/toshas/ttnf))
 - [Forecasting Future World Events with Neural Networks (2022)](https://arxiv.org/abs/2206.15474) ([Code](https://github.com/andyzoujm/autocast))
+- [NeuML](https://neuml.com/) - Applying machine learning to solve everyday problems. ([GitHub](https://github.com/neuml))

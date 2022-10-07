@@ -28,6 +28,7 @@ title: Svelte
 - [Svelte Encrypted SPA](https://github.com/Greenheart/svelte-encrypted-spa) - Easily create private, encrypted single page applications with Svelte and PageCrypt.
 - [Svelte Travel Transitions](https://github.com/pngwn/svelte-travel-transitions) - Native-like Page Transitions with SvelteKit, A Travel App. ([Web](https://svelte-travel.pages.dev/))
 - [Coffee at Saigon](https://github.com/monodyle/saigon-coffee)
+- [Video Call App Built with 100ms and Svelte](https://github.com/100mslive/svelte-100ms)
 
 ## Notes
 

@@ -167,3 +167,4 @@ title: Redis
 - [How to Reduce Latency and Minimize Outages (2022)](https://redis.com/blog/how-to-reduce-latency-and-minimize-outages/)
 - [Redis explained (2022)](https://architecturenotes.co/redis/) ([HN](https://news.ycombinator.com/item?id=32426879))
 - [bitmapist](https://github.com/Doist/bitmapist) - Powerful analytics and cohort library using Redis bitmaps.
+- [Redis Cache](https://github.com/go-redis/cache) - Cache library with Redis backend for Go.

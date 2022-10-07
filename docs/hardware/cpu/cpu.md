@@ -172,3 +172,4 @@
 - [Zen4's AVX512 Teardown (2022)](https://www.mersenneforum.org/showthread.php?p=614191) ([HN](https://news.ycombinator.com/item?id=32983406))
 - [ASML's Secret: A view from inside the global semiconductor giant (2022)](https://www.youtube.com/watch?v=zQu_TMgHO98) ([HN](https://news.ycombinator.com/item?id=33066452))
 - [MIPS CPU written in Verilog](https://github.com/jmahler/mips-cpu)
+- [LambdaVM](https://github.com/woodrush/lambdavm) - Programmable Virtual CPU Written as an Untyped Lambda Calculus Term.

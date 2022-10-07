@@ -402,3 +402,4 @@ title: ML Libraries
 - [Transformer Engine](https://github.com/NVIDIA/TransformerEngine) - Library for accelerating Transformer models on NVIDIA GPUs.
 - [visu3d](https://github.com/google-research/visu3d) - 3D without friction (TF, Jax, Numpy).
 - [Simulate](https://github.com/huggingface/simulate) - Creating and sharing simulation environments for embodied and synthetic data research.
+- [smol](https://github.com/CederGroupHub/smol) - Statistical Mechanics on Lattices.

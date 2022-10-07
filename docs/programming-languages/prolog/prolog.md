@@ -71,3 +71,4 @@ title: Prolog
 - [Trealla Go](https://github.com/trealla-prolog/go) - Trealla Prolog embedded in Go using WASM. ([HN](https://news.ycombinator.com/item?id=32376984))
 - [SWI-Prolog ported to WebAssembly](https://github.com/SWI-Prolog/swipl-wasm)
 - [PicoProlog](https://spivey.oriel.ox.ac.uk/corner/PicoProlog)
+- [Textmate syntax for Prolog](https://github.com/jeff-hykin/better-prolog-syntax)

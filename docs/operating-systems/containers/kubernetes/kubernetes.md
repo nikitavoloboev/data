@@ -829,3 +829,4 @@ title: Kubernetes
 - [Kubernetes Hardening Guide (2022)](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF) ([HN](https://news.ycombinator.com/item?id=33096899))
 - [Why We Use CUE (and Not Helm) (2022)](https://cloudplane.org/blog/why-cue) ([Lobsters](https://lobste.rs/s/n062nd/why_we_use_cue_not_helm))
 - [MicroShift](https://github.com/openshift/microshift) - Small form factor OpenShift/Kubernetes optimized for edge computing.
+- [Konf](https://github.com/SimonTheLeg/konf-go) - Lightweight kubeconfig Manager.

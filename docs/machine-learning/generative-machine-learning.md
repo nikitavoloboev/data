@@ -90,7 +90,8 @@
 - [Imagen Video](https://imagen.research.google/video/) - High definition video generation with diffusion models. ([HN](https://news.ycombinator.com/item?id=33098704))
 - [Is the AI spell-casting metaphor harmful or helpful? (2022)](https://simonwillison.net/2022/Oct/5/spell-casting/)
 - [Ask HN: What am I supposed to do after I’m “disrupted”? Work in video and CG (2022)](https://news.ycombinator.com/item?id=33099182)
-- [Stable-Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - PyTorch implementation of the text-to-3D model Dreamfusion, powered by the Stable Diffusion text-to-2D model.
+- [Stable-Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - PyTorch implementation of the text-to-3D model Dreamfusion, powered by the Stable Diffusion text-to-2D model. ([HN](https://news.ycombinator.com/item?id=33109243))
 - [Text2All](https://github.com/AvrahamRaviv/Text2All) - Comprehensive list of resources about text-guided generative models.
 - [HuggingFace Space and model of VToonify (2022)](https://colab.research.google.com/github/williamyang1991/VToonify/blob/master/notebooks/inference_playground.ipynb) ([Tweet](https://twitter.com/ShuaiYang1991/status/1576937439528042499))
 - [How AI Image Generators Work (Stable Diffusion / Dall-E) (2022)](https://www.youtube.com/watch?v=1CIpzeNxIhU)
+- [Manifest](https://github.com/HazyResearch/manifest) - How to make prompt programming with Foundation Models a little easier.

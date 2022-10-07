@@ -271,3 +271,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [Building advanced SQL search from a user text input by Gajus Kuizinas (2022)](https://contra.com/p/WobOBob7-building-advanced-sql-search-from-a-user-text-input)
 - [μFuzzy](https://github.com/leeoniya/uFuzzy) - Tiny, efficient fuzzy search that doesn't suck. ([HN](https://news.ycombinator.com/item?id=33035580))
 - [Rewind](https://www.rewind.ai/) - Search engine for your life.
+- [codequestion](https://github.com/neuml/codequestion) - Semantic search for developers.

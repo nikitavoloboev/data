@@ -119,3 +119,4 @@
 - [Frontend Mastery](https://frontendmastery.com/) - Deep dives and guides on modern frontend development.
 - [Fastest Frontend Tooling in 2022](https://cpojer.net/posts/fastest-frontend-tooling-in-2022)
 - [UI Libraries: Picking The Best (2022)](https://www.youtube.com/watch?v=CQuTF-bkOgc)
+- [Headless UI Float](https://github.com/ycs77/headlessui-float) - Easily use Headless UI with Floating UI to position floating elements.

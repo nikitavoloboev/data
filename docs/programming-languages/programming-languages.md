@@ -433,3 +433,5 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Adventures in Dynamic Software, Visualisations, Creating a JVM Language, UI, and More (2022)](https://luisthiamnye.substack.com/p/adventures-in-dynamic-software-visualisations)
 - [CMSC 430: Design and Implementation of Programming Languages (2022)](https://www.cs.umd.edu/class/fall2022/cmsc430/index.html) ([HN](https://news.ycombinator.com/item?id=33093666))
 - [So you're using a weird language (2022)](https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html) ([HN](https://news.ycombinator.com/item?id=33102582))
+- [Technical exercises and experiments](https://github.com/ravern/sandbox)
+- [SCIP Code Intelligence Protocol](https://github.com/sourcegraph/scip) - Language-agnostic protocol for indexing source code, which can be used to power code navigation functionality such as Go to definition, Find references, and Find implementations.

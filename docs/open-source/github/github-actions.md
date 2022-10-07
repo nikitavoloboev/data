@@ -260,6 +260,8 @@ title: GitHub actions
 - [Create Nightly Release](https://github.com/viperproject/create-nightly-release) - GitHub action to create a new pre-release and delete old pre-releases created by this action.
 - [GitHub Project Changelog](https://github.com/nearform/github-action-project-changelog) - GitHub action to create an issue containing a list of project cards according with the project column name specified.
 - [Setup-FFmpeg](https://github.com/Iamshankhadeep/setup-ffmpeg)
+- [Supabase Edge Functions Deploy](https://github.com/thorwebdev/supa-edge-func-github-action-deploy)
+- [tagpr](https://github.com/Songmu/tagpr) - Automatically creates and updates a pull request for unreleased items, tag them when they are merged, and create releases.
 
 ## Go
 
