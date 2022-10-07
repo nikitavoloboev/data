@@ -571,6 +571,7 @@
 - [SwiftfulLoadingIndicators](https://github.com/SwiftfulThinking/SwiftfulLoadingIndicators) - Collection of lightweight SwiftUI loading animations.
 - [Exhibition](https://github.com/mjarvis/Exhibition) - Framework and generator for displaying and debugging a SwiftUI component library.
 - [SwiftNodeEditor](https://github.com/schwa/SwiftNodeEditor) - Package of SwiftUI code for making node editors.
+- [BobTheBuilder](https://github.com/roblack/BobTheBuilder) - Package with various build/creation helpers for SwiftUI.
 
 ## Test
 

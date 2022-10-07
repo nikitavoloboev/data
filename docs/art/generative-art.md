@@ -218,7 +218,7 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [What is this thing called Generative Art? (2022)](https://rustfest.global/session/46-what-is-this-thing-called-generative-art/)
 - [Noon Silk's generative drawings](https://github.com/silky/fashion)
 - [GenerateMe](https://github.com/tsulej/GenerateMe) - Processing scripts used to generative glitch / art / design.
-- [Ode to the macOS Drift screensaver that runs in the browser](https://github.com/sandydoo/flux)
+- [Recreating macOS’s Drift Screensaver with Rust and WASM](https://github.com/sandydoo/flux) ([HN](https://news.ycombinator.com/item?id=33115647))
 - [Generative Design Library for Processing 3](https://github.com/generative-design/GenerativeDesignLibrary3)
 - [Grok {Shan, Shui}\*: Advent of understanding the generative art (2021)](https://zverok.space/blog/2021-12-28-grok-shan-shui.html) ([Lobsters](https://lobste.rs/s/7yctkb/grok_shan_shui_advent_understanding))
 - [Generative Typography, A Primer](https://gtprimer-romellogoodman-com.vercel.app/) ([Code](https://github.com/romellogoodman/gtprimer.romellogoodman.com))

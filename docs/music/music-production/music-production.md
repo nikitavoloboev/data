@@ -422,3 +422,4 @@
 - [va-filter](https://github.com/Fredemus/va-filter) - Virtual analogue filters. implemented as a VST3 and Clap plugin in Rust.
 - [AMY](https://github.com/bwhitman/amy) - Additive Music synthesizer librarY.
 - [pizMidi plugins](https://github.com/sleiner/pizmidi) - Collection of helpful tools when working with MIDI.
+- [Model 450i - Klavins Piano](https://klavins-pianos.com/products/model-450i/) ([In Use](https://www.youtube.com/watch?v=c8veLuNmQbI))

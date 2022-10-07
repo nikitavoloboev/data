@@ -440,3 +440,4 @@
 - [haskell-butler](https://github.com/TristanCacqueray/haskell-butler) - Library provides a virtual operating system to run your Haskell program.
 - [Haskell real world example app](https://github.com/nodew/haskell-realworld-example)
 - [Collection of Practical Haskell bits](https://github.com/dnikolovv/practical-haskell)
+- [Haskell Multi Nix](https://github.com/srid/haskell-multi-nix) - Demo of Nixifying a multi-package Haskell project.

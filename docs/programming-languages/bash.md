@@ -150,3 +150,4 @@ source script
 -   [Vercel Bash](https://github.com/importpw/vercel-bash) - Bash Runtime for Vercel serverless functions.
 -   [Beautysh](https://github.com/lovesegfault/beautysh) - Bash beautifier for the masses.
 -   [Bash 5.2 released](https://lwn.net/Articles/909596/) ([Lobsters](https://lobste.rs/s/dceccl/bash_5_2_released))
+-   [Why doesn't Bash's `set -e` do what I expected?](http://mywiki.wooledge.org/BashFAQ/105) ([HN](https://news.ycombinator.com/item?id=33116310))

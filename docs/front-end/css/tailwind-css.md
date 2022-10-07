@@ -164,3 +164,4 @@ title: Tailwind CSS
 - [Automatic Class Sorting with Prettier – Tailwind CSS (2022)](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 - [Tailwind Components - Responsive Cards](https://tailwind-cards.netlify.app/) ([Code](https://github.com/hasinhayder/tailwind-cards))
 - [Impulse](https://impulse.dev/) - Impossible Dev Tools for React and Tailwind. ([Code](https://github.com/impulse-oss/impulse))
+- [Example Showcase - Tailwind CSS](https://tailwindcss.com/showcase)
