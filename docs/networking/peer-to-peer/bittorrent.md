@@ -23,7 +23,8 @@ title: BitTorrent
 
 ## Links
 
-- [Transmission](https://transmissionbt.com/) - Fast, easy, and free BitTorrent client. ([Code](https://github.com/transmission/transmission))
+- [Transmission](https://transmissionbt.com/) - Fast, easy, and free BitTorrent client. ([Code](https://github.com/transmission/transmission)) ([HN](https://news.ycombinator.com/item?id=33118471))
+- [BitTorrent.org](http://bittorrent.org/index.html)
 - [qBittorrent](https://www.qbittorrent.org/) - BitTorrent client. ([Code](https://github.com/qbittorrent/qBittorrent))
 - [Tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery.
 - [transmission-telegram](https://github.com/pyed/transmission-telegram) - Control your Transmission through a Telegram bot.
@@ -136,3 +137,4 @@ title: BitTorrent
 - [newTrackon](https://github.com/CorralPeltzer/newTrackon) - Public open BitTorrent trackers monitoring tool.
 - [Hybrid-Torrent-Tracker](https://github.com/negezor/hybrid-torrent-tracker) - Torrent tracker for Node.js with HTTP and UDP support based middleware.
 - [Attractorr](https://github.com/rnestler/attractorr) - Tool written in Rust to search for torrents.
+- [BitTorrent Protocol Specification v2](http://bittorrent.org/beps/bep_0052.html)

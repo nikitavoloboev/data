@@ -110,3 +110,4 @@
 - [The Solarchitecture Newsletter](https://solarchitect.substack.com/) - Learn about building solar, resilient, regenerative architecture. ([Twitter](https://twitter.com/Solarchitects))
 - [Inside Emma Chamberlain's Radiant New Home (2022)](https://www.youtube.com/watch?v=PqpCeiYycVM)
 - [InteriorAI.com](https://interiorai.com/) ([How I built it in 5 days](https://twitter.com/levelsio/status/1577086792695975936))
+- [Automatic Construction](https://automatic-construction.com/) - Inexpensive concrete buildings. ([Builds Houses by Pumping Concrete Into Inflatable Forms](https://singularityhub.com/2022/10/06/this-startup-builds-houses-by-pumping-concrete-into-inflatable-forms/)) ([HN](https://news.ycombinator.com/item?id=33117180))

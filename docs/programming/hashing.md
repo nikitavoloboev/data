@@ -71,3 +71,4 @@
 - [A Fast, Minimal Memory, Consistent Hash Algorithm (2014)](https://arxiv.org/abs/1406.2294)
 - [Implementing Bitcask, a Log-Structured Hash Table (2022)](https://healeycodes.com/implementing-bitcask-a-log-structured-hash-table) ([Code](https://github.com/healeycodes/bitcask-lite))
 - [The image in this post displays its own MD5 hash](https://retr0.id/notice/ANqlvFZD1eIqjmRiFc) ([HN](https://news.ycombinator.com/item?id=32956964))
+- [Faster hash table probing (2022)](https://outerproduct.net/trivial/2022-10-06_hash.html)

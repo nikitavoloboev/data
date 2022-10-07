@@ -20,4 +20,4 @@ title: Tailscale
 - [Tailscale Security Policies](https://github.com/tailscale/policies)
 - [Trayscale](https://github.com/DeedleFake/trayscale) - Unofficial GUI wrapper around the Tailscale CLI client.
 - [Tailscale on Unifi Dream Machine](https://github.com/SierraSoftworks/tailscale-udm)
-- [WebVM Virtual Machine With Networking via Tailscale (2022)](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/)
+- [WebVM Virtual Machine With Networking via Tailscale (2022)](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/) ([HN](https://news.ycombinator.com/item?id=33116245))

@@ -596,3 +596,4 @@
 - [Software engineering practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/)
 - [Ask HN: In what ways is programming more difficult today than it was years ago? (2022)](https://news.ycombinator.com/item?id=33056052)
 - [SOLID Principles Sketches](https://okso.app/showcase/solid)
+- [Staff Engineer Archetypes (2020)](https://lethain.com/staff-engineer-archetypes/) ([HN](https://news.ycombinator.com/item?id=33112915))

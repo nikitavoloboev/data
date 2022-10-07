@@ -40,7 +40,7 @@ title: Zero knowledge proofs
 - [Serving up zero-knowledge proofs (2021)](https://blog.trailofbits.com/2021/02/19/serving-up-zero-knowledge-proofs/)
 - [Leo](https://github.com/AleoHQ/leo) - Functional, statically-typed programming language built for writing private applications.
 - [Aleo](https://aleo.org/) - Where Applications Become Zero-Knowledge. ([GitHub](https://github.com/AleoHQ)) ([Twitter](https://twitter.com/AleoHQ))
-- [Noir](https://github.com/noir-lang/noir) - Domain specific language for zero knowledge proofs.
+- [Noir](https://github.com/noir-lang/noir) - Domain specific language for zero knowledge proofs. ([Docs](https://docs.aztec.network/developers/noir)) ([Tweet](https://twitter.com/aztecnetwork/status/1578082456212643840))
 - [snarkOS](https://github.com/AleoHQ/snarkOS) - Decentralized Operating System for Zero-Knowledge Applications.
 - [snarkVM](https://github.com/AleoHQ/snarkVM) - Virtual Machine for Zero-Knowledge Executions.
 - [Aleo SDK](https://github.com/AleoHQ/aleo) - Software Development Kit (SDK) for Zero-Knowledge Transactions.
