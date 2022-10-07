@@ -392,3 +392,4 @@ title: Reinforcement learning
 - [Gym Games](https://github.com/qlan3/gym-games) - Gym version of various games for reinforcement learning.
 - [Discovering faster matrix multiplication algorithms with reinforcement learning (2022)](https://www.nature.com/articles/s41586-022-05172-4) ([Code](https://github.com/deepmind/alphatensor)) ([HN](https://news.ycombinator.com/item?id=33096580))
 - [On AlphaTensor’s new matrix multiplication algorithms (2022)](https://fgiesen.wordpress.com/2022/10/06/on-alphatensors-new-matrix-multiplication-algorithms/) ([HN](https://news.ycombinator.com/item?id=33117192))
+- [Reinforcement Learning Benchmarks for Traffic Signal Control](https://github.com/Pi-Star-Lab/RESCO)

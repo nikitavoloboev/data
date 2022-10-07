@@ -129,3 +129,4 @@ title: Xcode
 - [Ask HN: Xcode users – how do you make it more usable? (2022)](https://news.ycombinator.com/item?id=32971599)
 - [PlistPal](https://github.com/liamnichols/PlistPal) - Can be used to convert the format of a plist file or expand variables within the file in a similar way to how Info.plist files are expanded during the build process.
 - [IBLinter](https://github.com/IBDecodable/IBLinter) - Linter tool for Interface Builder.
+- [Tuist Example](https://github.com/AlexRoar/TuistExample) - Example for using Tuist with modular app architecture.

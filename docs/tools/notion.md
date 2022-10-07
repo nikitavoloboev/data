@@ -121,3 +121,5 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion GitHub Sync](https://github.com/the-guild-org/notion-github-sync) - CloudFlare Worker / script / bot to sync Notion pages publicly as GitHub Discussions.
 - [Aflred Notion Search](https://github.com/wrjlewis/notion-search-alfred-workflow)
 - [Lotion](https://github.com/Dashibase/lotion) - Open-source Notion UI built with Vue 3.
+- [Docu-Notion](https://github.com/sillsdev/docu-notion) - Lets you use Notion as your editor for Docusaurus.
+- [Using Notion as a headless CMS for our blog (2022)](https://datanarratives.com/blog/notion-headless-cms/) ([HN](https://news.ycombinator.com/item?id=33121628))

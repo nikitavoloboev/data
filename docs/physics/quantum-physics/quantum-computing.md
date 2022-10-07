@@ -173,3 +173,4 @@ title: Quantum computing
 - [Using Coalton to Implement a Quantum Compiler (2022)](https://coalton-lang.github.io/20220906-quantum-compiler/)
 - [Qulacs](https://github.com/qulacs/qulacs) - Python/C++ library for fast simulation of large, noisy, or parametric quantum circuits.
 - [QuEra Computing](https://www.quera.com/) - Scalable quantum computing with neutral atoms. ([GitHub](https://github.com/QuEraComputing))
+- [SQIR](https://github.com/inQWIRE/SQIR) - Small Quantum Intermediate Representation.

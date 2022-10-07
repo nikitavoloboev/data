@@ -454,3 +454,5 @@ title: PyTorch
 - [Hedwig](https://github.com/castorini/hedwig) - PyTorch deep learning models for document classification.
 - [GenForce](https://github.com/genforce/genforce) - Efficient PyTorch library for deep generative modeling.
 - [NeuroMANCER](https://github.com/pnnl/neuromancer) - PyTorch-based framework for solving parametric constrained optimization problems.
+- [light-the-torch](https://github.com/pmeier/light-the-torch) - Install PyTorch distributions with computation backend auto-detection.
+- [OpenMetricLearning](https://github.com/OML-Team/open-metric-learning) - Library for metric learning pipelines.

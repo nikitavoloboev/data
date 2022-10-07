@@ -314,6 +314,7 @@
 - [pytest-accept](https://github.com/max-sixty/pytest-accept) - Pytest plugin for automatically updating doctest outputs.
 - [RESPX](https://github.com/lundberg/respx) - Mock HTTPX with awesome request patterns and response side effects.
 - [Pytest-parametrized](https://github.com/coady/pytest-parametrized) - Pytest decorator for parametrizing tests with default iterables.
+- [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
 
 ## Error
 
@@ -1005,6 +1006,7 @@
 - [ASDF](https://github.com/asdf-format/asdf) - Advanced Scientific Data Format. ([HN](https://news.ycombinator.com/item?id=33039904))
 - [scheduler](https://github.com/DigonIO/scheduler) - Simple in-process python scheduler library with asyncio, threading and timezone support.
 - [python-daachorse](https://github.com/daac-tools/python-daachorse) - Fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
+- [Lenses](https://github.com/ingolemo/python-lenses) - Python library that helps you to manipulate large data-structures without mutating them.
 
 ## Notes
 

@@ -12,6 +12,7 @@ title: Svelte
 
 - [SvelteKit, running on the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge)
 - [SvelteKit Commerce](https://github.com/vercel/sveltekit-commerce)
+- [SvelteKit Auth Example](https://github.com/danawoodman/sveltekit-auth-example)
 - [swyxkit](https://github.com/sw-yx/swyxkit) - Opinionated blog starter for SvelteKit + Tailwind + Netlify.
 - [Svelte with Cloudflare Workers](https://github.com/lukeed/pages-fullstack)
 - [Elianiva](https://elianiva.me/) ([Code](https://github.com/elianiva/elianiva.me))
@@ -29,6 +30,7 @@ title: Svelte
 - [Svelte Travel Transitions](https://github.com/pngwn/svelte-travel-transitions) - Native-like Page Transitions with SvelteKit, A Travel App. ([Web](https://svelte-travel.pages.dev/))
 - [Coffee at Saigon](https://github.com/monodyle/saigon-coffee)
 - [Video Call App Built with 100ms and Svelte](https://github.com/100mslive/svelte-100ms)
+- [Svelte Starter](https://github.com/the-pudding/svelte-starter) - Starter template aims to quickly scaffold a SvelteKit project, designed around data-driven, visual stories at The Pudding.
 
 ## Notes
 
@@ -299,3 +301,5 @@ title: Svelte
 - [SvelteKit + is-land](https://github.com/geoffrich/sveltekit-is-land) - Partial hydration in SvelteKit.
 - [Native Page Transitions in SvelteKit (2022)](https://geoffrich.net/posts/page-transitions-1/)
 - [SvelteKit & WunderGraph demo](https://github.com/r-moore/sveltekit-wundergraph)
+- [Svelte-Store-Array](https://github.com/accuser/svelte-store-array) - Collection of higher-order store functions for array-based stores.
+- [Svelte-Keyboard](https://github.com/russellgoldenberg/svelte-keyboard) - Virtual keyboard component for Svelte.

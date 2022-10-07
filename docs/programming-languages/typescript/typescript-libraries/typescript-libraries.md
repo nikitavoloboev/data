@@ -88,6 +88,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Axios Cache Interceptor](https://github.com/arthurfiorette/axios-cache-interceptor) - Small and efficient cache interceptor for axios. Etag, Cache-Contol, TTL, HTTP headers and more.
 - [Mastak](https://github.com/araekiel/mastak) - Automated, in-memory caching package for APIs.
 - [Inclusive Sort](https://github.com/tobyzerner/inclusive-sort) - Drag and drop sorting that just works – for everyone.
+- [itty-fetcher](https://github.com/kwhitley/itty-fetcher) - Even simpler wrapper around native Fetch to strip boilerplate from your fetching code.
 
 ## GraphQL
 

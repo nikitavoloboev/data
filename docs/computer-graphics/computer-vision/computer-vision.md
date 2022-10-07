@@ -957,3 +957,7 @@
 - [Computer Vision in the Wild Readings](https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings)
 - [Nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - Collaboration friendly studio for NeRFs.
 - [Learning Dexterous Manipulation from Exemplar Object Trajectories and Pre-Grasps (2022)](https://pregrasps.github.io/) ([Code](https://github.com/facebookresearch/TCDM))
+- [MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction (2022)](https://arxiv.org/abs/2206.00665) ([Code](https://github.com/autonomousvision/monosdf))
+- [Shape, Light, and Material Decomposition from Images using Monte Carlo Rendering and Denoising (2022)](https://nvlabs.github.io/nvdiffrecmc/) ([Code](https://github.com/NVlabs/nvdiffrecmc))
+- [2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds (2022)](https://arxiv.org/abs/2207.04397v2) ([Code](https://github.com/yanx27/2DPASS))
+- [PanopticDepth: A Unified Framework for Depth-aware Panoptic Segmentation (2022)](https://arxiv.org/abs/2206.00468) ([Code](https://github.com/NaiyuGao/PanopticDepth))

@@ -830,3 +830,4 @@ title: Kubernetes
 - [Why We Use CUE (and Not Helm) (2022)](https://cloudplane.org/blog/why-cue) ([Lobsters](https://lobste.rs/s/n062nd/why_we_use_cue_not_helm))
 - [MicroShift](https://github.com/openshift/microshift) - Small form factor OpenShift/Kubernetes optimized for edge computing.
 - [Konf](https://github.com/SimonTheLeg/konf-go) - Lightweight kubeconfig Manager.
+- [crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files.

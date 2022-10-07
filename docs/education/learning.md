@@ -247,3 +247,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Ask HN: Do you regret being a generalist? (2022)](https://news.ycombinator.com/item?id=32920577)
 - [LindyLearn](https://lindylearn.io/)
 - [Ask HN: How to find what I am really good at? (2022)](https://news.ycombinator.com/item?id=33077489)
+- [Ask HN: 10k hours rule to master anything. Could I switch career when I am 43? (2022)](https://news.ycombinator.com/item?id=33119347)

@@ -68,3 +68,4 @@ Cardano appears to be a [project that didn't meet its goals](https://twitter.com
 - [AIKEN](https://github.com/txpipe/aiken) - Cardano smart contract language and toolchain.
 - [Plutus Application Framework](https://github.com/input-output-hk/plutus-apps) - Framework for developing distributed applications using the Cardano blockchain.
 - [Plutarch](https://github.com/Plutonomicon/plutarch-plutus) - Typed eDSL in Haskell for writing efficient Plutus Core validators.
+- [AdaLite wallet](https://github.com/vacuumlabs/adalite) - Simple Cardano wallet written entirely in JS.

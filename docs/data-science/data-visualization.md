@@ -189,3 +189,4 @@
 - [Charts - Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/components/content/charts)
 - [What to consider when using text in data visualizations (2022)](https://blog.datawrapper.de/text-in-data-visualizations/)
 - [Mini-Budget. Major Catastrophe.](https://kamikwasi.tax/)
+- [Scrollama](https://github.com/russellgoldenberg/scrollama) - Scrollytelling with IntersectionObserver.

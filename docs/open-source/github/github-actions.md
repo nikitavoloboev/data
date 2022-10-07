@@ -262,6 +262,7 @@ title: GitHub actions
 - [Setup-FFmpeg](https://github.com/Iamshankhadeep/setup-ffmpeg)
 - [Supabase Edge Functions Deploy](https://github.com/thorwebdev/supa-edge-func-github-action-deploy)
 - [tagpr](https://github.com/Songmu/tagpr) - Automatically creates and updates a pull request for unreleased items, tag them when they are merged, and create releases.
+- [Vault Plugin Secrets](https://github.com/martinbaillie/vault-plugin-secrets-github) - Create ephemeral, finely-scoped GitHub access tokens using Hashicorp Vault.
 
 ## Go
 

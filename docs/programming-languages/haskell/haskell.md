@@ -459,3 +459,4 @@ title: Haskell
 - [Easy incremental Haskell CI builds with GHC 9.4 (2022)](https://harry.garrood.me/blog/easy-incremental-haskell-ci-builds-with-ghc-9.4/)
 - [Monad confusion and the blurry line between data and computation (2022)](https://www.micahcantor.com/blog/monad-confusion/)
 - [47 Degrees Academy: Haskell Courses](https://academy.47deg.com/collections/haskell)
+- [GHC Linear Synthesis Plugin](https://github.com/alt-romes/ghc-linear-synthesis-plugin) - Synthesizing Haskell programs from Linear Types using bottom-up proof search in linear logic with focusing.

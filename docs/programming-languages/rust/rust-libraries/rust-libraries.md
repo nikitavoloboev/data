@@ -848,6 +848,7 @@
 - [Bassert](https://github.com/Qqwy/rust-bassert) - Better assertions for Rust.
 - [function_name](https://github.com/danielhenrymantilla/rust-function_name) - Macro that expands to the name of the annotated function.
 - [dry](https://github.com/coldriverstudio/dry-rs) - Rust macros for idiomatic deduplication of code.
+- [comparable](https://github.com/jwiegley/comparable) - Library for comparing data structures in Rust, oriented toward testing.
 
 ## Math
 
@@ -2223,6 +2224,8 @@
 - [rust-debruijn](https://github.com/10XGenomics/rust-debruijn) - De Bruijn graph construction & path compression libraries.
 - [dynstack](https://github.com/sarah-ek/dynstack) - Stack that allows users to allocate dynamically sized arrays.
 - [binfarce](https://github.com/Shnatsel/binfarce) - Extremely minimal parser for ELF/PE/Mach-o/ar.
+- [ogawa-rs](https://github.com/Traverse-Research/ogawa-rs) - Rust crate for reading ogawa alembic cache data.
+- [datasize](https://github.com/CasperLabs/datasize-rs) - Heap memory usage estimation.
 
 ## Cargo Plugins
 

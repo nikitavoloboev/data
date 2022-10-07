@@ -256,6 +256,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Tidis](https://github.com/tidb-incubator/tidis) - Distributed transactional large-scale NoSQL database powered by TiKV.
 - [RonDB](https://github.com/logicalclocks/rondb) - Stable distribution of NDB Cluster, a key-value store with SQL capabilities.
 - [dobby](https://github.com/ly0va/dobby) - Homemade table-oriented (but not really relational) database engine with a modular design.
+- [NucliaDB](https://github.com/nuclia/nucliadb) - Cloud-native database for unstructured data, indexing vectors, text, paragraphs and relations.
 
 ## Tools
 
@@ -287,7 +288,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [CloudBeaver](https://cloudbeaver.io/) - Database Management from Browser. ([Code](https://github.com/dbeaver/cloudbeaver))
 - [DbGate](https://dbgate.org/) - Database manager for MySQL, PostgreSQL, SQL Server and MongoDB. ([Code](https://github.com/dbgate/dbgate))
 - [Condenser](https://github.com/TonicAI/condenser) - Database subsetting tool.
-- [NocoDB](https://www.nocodb.com/) - Turns your SQL database into a Nocode platform. Free & Open Source. ([Code](https://github.com/nocodb/nocodb)) ([HN](https://news.ycombinator.com/item?id=27303783))
+- [NocoDB](https://www.nocodb.com/) - Turns your SQL database into a Nocode platform. Free & Open Source. ([Code](https://github.com/nocodb/nocodb)) ([HN](https://news.ycombinator.com/item?id=27303783)) ([HN](https://news.ycombinator.com/item?id=33078798))
 - [Owoof](https://github.com/sqwishy/owoof) - Program for querying and modifying information in a datalog-like format backed by SQLite.
 - [Autogenerate a CRUD app from a CSV file](https://retool.com/utilities/generate-app-from-csv) ([HN](https://news.ycombinator.com/item?id=27754034))
 - [Gobang](https://github.com/TaKO8Ki/gobang) – Cross-platform TUI database management tool written in Rust. ([HN](https://news.ycombinator.com/item?id=28489165))

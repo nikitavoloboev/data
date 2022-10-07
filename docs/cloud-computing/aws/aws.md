@@ -393,3 +393,5 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [Amazon SageMaker Developer Guide](https://github.com/awsdocs/amazon-sagemaker-developer-guide/blob/master/doc_source/index.md)
 - [Have lots of AWS accounts (2022)](https://src-bin.com/you-should-have-lots-of-aws-accounts/) ([HN](https://news.ycombinator.com/item?id=33069547))
 - [CloudFox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
+- [AWS Security Survival Kit](https://github.com/zoph-io/aws-security-survival-kit)
+- [ecschedule](https://github.com/Songmu/ecschedule) - Tool to manage ECS Scheduled Tasks.

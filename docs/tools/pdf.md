@@ -77,3 +77,4 @@
 - [Extract structured data from PDF invoices](https://github.com/invoice-x/invoice2data)
 - [PDF Grep](https://pdfgrep.org/) - Command line utility to search text in PDF files. ([HN](https://news.ycombinator.com/item?id=32971748)) ([Code](https://gitlab.com/pdfgrep/pdfgrep))
 - [WeasyPrint](https://github.com/Kozea/WeasyPrint) - Turns simple HTML pages into gorgeous statistical reports, invoices, tickets as PDFs.
+- [lazypress](https://github.com/alexferrari88/lazypress) - Convert HTML pages to PDFs looking just like they would render in the browser.

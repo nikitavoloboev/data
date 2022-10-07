@@ -216,6 +216,7 @@ I want to:
 - [Jacob Chvatal](https://github.com/jakeisnt/wiki) ([Web](https://anagora.org/@jakeisnt/wiki))
 - [masayume](https://github.com/masayume/DigitalGarden)
 - [Kate Bowie](https://katebowies-garden.netlify.app/)
+- [Ben Steadman's notes](https://github.com/SteadBytes/study)
 - [Binny's garden](https://notes.binnyva.com/)
 - [David Winterbottom's TIL](https://til.codeinthehole.com/)
 - [Alex Schroeder: Diary](https://alexschroeder.ch/)

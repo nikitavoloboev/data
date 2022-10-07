@@ -552,6 +552,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Genna](https://github.com/dizzyfool/genna) - Model generator for go-pg package.
 - [objstore](https://github.com/thanos-io/objstore) - Go module providing unified interface and efficient clients to work with various object storage providers until like GCS, S3, Azure, SWIFT, COS and more.
 - [Google Spanner SpanSQL Query Builder](https://github.com/mindful-hq/spansql-query-builder)
+- [approx-lru](https://github.com/bpowers/approx-lru) - Go LRU cache.
 
 ## ML
 

@@ -173,3 +173,4 @@
 - [ASML's Secret: A view from inside the global semiconductor giant (2022)](https://www.youtube.com/watch?v=zQu_TMgHO98) ([HN](https://news.ycombinator.com/item?id=33066452))
 - [MIPS CPU written in Verilog](https://github.com/jmahler/mips-cpu)
 - [LambdaVM](https://github.com/woodrush/lambdavm) - Programmable Virtual CPU Written as an Untyped Lambda Calculus Term.
+- [Hermes](https://github.com/CMU-SAFARI/Hermes) - Speculative mechanism that accelerates long-latency off-chip load requests by removing on-chip cache access latency from their critical path.

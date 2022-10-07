@@ -462,6 +462,7 @@
       - [Chrome DevTools](docs/web/browsers/google-chrome/chrome-dev-tools.md)
     - [Firefox](docs/web/browsers/firefox.md)
     - [Bookmarklets](docs/web/browsers/bookmarklets.md)
+    - [Playwright](docs/web/browsers/playwright.md)
     - [Stylish themes](docs/web/browsers/stylish-themes.md)
   - [Web performance](docs/web/web-performance.md)
   - [Service workers](docs/web/service-workers.md)

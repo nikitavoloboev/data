@@ -138,3 +138,5 @@ title: BitTorrent
 - [Hybrid-Torrent-Tracker](https://github.com/negezor/hybrid-torrent-tracker) - Torrent tracker for Node.js with HTTP and UDP support based middleware.
 - [Attractorr](https://github.com/rnestler/attractorr) - Tool written in Rust to search for torrents.
 - [BitTorrent Protocol Specification v2](http://bittorrent.org/beps/bep_0052.html)
+- [OpenVPN and Transmission with WebUI](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel.
+- [stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission.

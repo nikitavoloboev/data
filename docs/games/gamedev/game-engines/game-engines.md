@@ -159,3 +159,4 @@
 - [Game Engines as an Art Form — My 8+ Years of Developing and Maintaining My Own Engine (2021)](https://medium.com/@hajimehoshi/game-engines-as-an-art-form-f66c835c0a92) ([HN](https://news.ycombinator.com/item?id=29712457))
 - [Game Engine Devs Reddit](https://www.reddit.com/r/gameenginedevs/)
 - [Game engines are more than libraries glued together](https://www.leafwing-studios.com/blog/game-engine-glue/) ([HN](https://news.ycombinator.com/item?id=32200121))
+- [A Game Engine in the Elm Style (2020)](https://vsyncronicity.com/2020/03/01/a-game-engine-in-the-elm-style/)

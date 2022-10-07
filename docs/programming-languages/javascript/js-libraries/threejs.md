@@ -136,3 +136,4 @@ title: Three.js
 - [Three Lightmap Baker](https://github.com/lucas-jones/three-lightmap-baker) - Basic example of lightmapping in ThreeJS.
 - [Three landscape](https://github.com/nwpointer/three-landscape) - React-three-fiber compatible abstractions that make it easier to render high quality landscapes scenes.
 - [Enable3d](https://github.com/enable3d/enable3d) - Standalone 3D Framework / Physics for three.js (using ammo.js) / 3D extension for Phaser 3. ([Web](https://enable3d.io/))
+- [Modern ThreeJS](https://github.com/alvarosabu/modern-three) - Modern ThreeJS boilerplate powered by Vite & Typescript.

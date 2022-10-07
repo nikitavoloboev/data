@@ -98,3 +98,4 @@
 - [OpenSCAD WASM Port](https://github.com/DSchroer/openscad-wasm)
 - [View3D](https://github.com/naver/egjs-view3d) - Fast & customizable 3D model viewer for everyone.
 - [Gridfinity Rebuilt in OpenSCAD](https://github.com/kennetek/gridfinity-rebuilt-openscad) - Ground-up rebuild of the stock gridfinity bins in OpenSCAD.
+- [model3d](https://github.com/unixpickle/model3d) - Create & render beautiful 3D models.

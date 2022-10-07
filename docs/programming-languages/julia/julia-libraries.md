@@ -267,6 +267,10 @@
 - [OpenCL.jl](https://github.com/JuliaGPU/OpenCL.jl) - OpenCL Julia bindings.
 - [DitherPunk.jl](https://github.com/JuliaImages/DitherPunk.jl) - Dithering algorithms in Julia.
 
+## GraphQL
+
+- [GraphQLClient.jl](https://github.com/DeloitteDigitalAPAC/GraphQLClient.jl) - Julia GraphQL client for seamless integration with a server.
+
 ## CLI
 
 - [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl) - Package for parsing command-line arguments to Julia programs.

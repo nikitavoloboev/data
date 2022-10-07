@@ -25,3 +25,4 @@ I add `[` to contacts that are top/favorite. I also add `del` as part of the nam
 - [Nat](https://nat.app/) - Personal CRM for relationship building. ([HN](https://news.ycombinator.com/item?id=30836418))
 - [Personal CRM workflow/apps (2022)](https://twitter.com/Shpigford/status/1510650090368741378)
 - [Clay](https://clay.earth/) - Be more thoughtful with the people in your network.
+- [QR Contact](https://qrcontact.danawoodman.com/) - Generate a vCard QR code that anyone can scan to add your contact details to their contacts list. ([Code](https://github.com/danawoodman/qrcontact))

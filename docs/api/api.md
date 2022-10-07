@@ -1,6 +1,6 @@
 # API
 
-[Linear API](https://developers.linear.app/docs) is interestingly made. [Stripe](https://stripe.com/docs/api) has nice API docs too. Currently looking into [Apiker](https://github.com/hodgef/apiker) for releasing my APIs.
+[Linear API](https://developers.linear.app/docs) is interestingly made. [Stripe](https://stripe.com/docs/api) has nice API docs too. Currently looking into [Apiker](https://github.com/hodgef/apiker) for releasing my APIs. [ReadmeIO API](https://github.com/readmeio/api) is great for generating OpenAPI definitions.
 
 [Redocusaurus](https://github.com/rohit-gohri/redocusaurus) seems nice for API docs. [Svix](https://www.svix.com/) is great for webhooks. [tRPC](https://github.com/trpc/trpc) is nice for API access.
 
@@ -29,7 +29,8 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [GitHub R](https://github.com/r-lib/gh)
 - [GitHub Scala](https://github.com/47degrees/github4s)
 - [GitHub Gists Python](https://github.com/softvar/simplegist) - Advanced python wrapper for Github Gist API.
-- [Hacker News](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
+- [HN](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
+- [Go HN](https://github.com/alexferrari88/GoHN)
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
 - [Dropbox JS](https://github.com/dropbox/dropbox-sdk-js) - Dropbox JavaScript SDK.
 - [Twitter TS](https://github.com/twitterdev/twitter-api-typescript-sdk) ([Tweet](https://twitter.com/sebastienlorber/status/1504860162498117636))

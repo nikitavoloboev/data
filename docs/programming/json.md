@@ -163,3 +163,5 @@ title: JSON
 - [JSON Schema Viewer](https://navneethg.github.io/jsonschemaviewer/) - Visualize JSON schemas. ([Code](https://github.com/navneethg/jsonschemaviewer))
 - [jqp](https://github.com/noahgorstein/jqp) - TUI playground to experiment with jq. ([HN](https://news.ycombinator.com/item?id=32905506))
 - [Jq Internals: Backtracking (2017)](https://github.com/stedolan/jq/wiki/Internals:-backtracking) ([HN](https://news.ycombinator.com/item?id=33101867))
+- [JSON Schema](https://json-schema.org/) - Vocabulary that allows you to annotate and validate JSON documents. ([Web Code](https://github.com/json-schema-org/json-schema-org.github.io))
+- [alterschema](https://github.com/sourcemeta/alterschema) - Convert between JSON Schema specification versions.

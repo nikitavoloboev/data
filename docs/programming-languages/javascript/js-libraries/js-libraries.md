@@ -1028,6 +1028,7 @@
 - [DragSelect](https://github.com/ThibaultJanBeyer/DragSelect) - Easy JS drag-select and drop functionality done right.
 - [Croner](https://github.com/Hexagon/croner) - Trigger functions and/or evaluate cron expressions in JavaScript. No dependencies. Most features. All environments.
 - [async-ratelimiter](https://github.com/microlinkhq/async-ratelimiter) - Rate limit made simple, easy, async.
+- [Error Causes](https://github.com/paralleldrive/error-causes) - Simple error handling based on standard JavaScript error cause.
 
 ## Links
 

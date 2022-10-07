@@ -43,6 +43,7 @@
 - [Phyz](https://github.com/silversquirl/phyz) - 2D game physics for Zig.
 - [glTF parser](https://github.com/kooparse/zgltf) - glTF 2.0 parser written in Zig, aiming to replace the use of some C/C++ libraries.
 - [GUI](https://github.com/david-vanderson/gui) - Zig native GUI toolkit for whole applications or extra debugging windows in an existing application.
+- [ZIGCV](https://github.com/ryoppippi/zigcv) - Zig bindings for OpenCV4.
 
 ## WASM
 

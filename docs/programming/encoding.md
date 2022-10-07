@@ -70,3 +70,4 @@
 - [How QR codes work (2022)](https://typefully.com/DanHollick/qr-codes-T7tLlNi) ([HN](https://news.ycombinator.com/item?id=32837565))
 - [Lyra V2 – a better, faster, and more versatile speech codec (2022)](https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html) ([HN](https://news.ycombinator.com/item?id=33041114))
 - [ULIDs are greate replacement for UUIDs](https://twitter.com/mholt6/status/1577503148821819392)
+- [LXMF](https://github.com/markqvist/LXMF) - Lightweight Extensible Message Format.

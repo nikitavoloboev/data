@@ -168,3 +168,4 @@ title: Redis
 - [Redis explained (2022)](https://architecturenotes.co/redis/) ([HN](https://news.ycombinator.com/item?id=32426879))
 - [bitmapist](https://github.com/Doist/bitmapist) - Powerful analytics and cohort library using Redis bitmaps.
 - [Redis Cache](https://github.com/go-redis/cache) - Cache library with Redis backend for Go.
+- [Visual and Semantic Similarity with Redis](https://github.com/RedisAI/vecsim-demo)
