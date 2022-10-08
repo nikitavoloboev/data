@@ -457,3 +457,4 @@
 - [Socket SDK](https://github.com/socketsupply/socket) - Build Native Apps For Desktop & Mobile Using HTML, CSS, & JavaScript. ([Web](https://sockets.sh/)) ([Twitter](https://twitter.com/sockets_sh))
 - [Simplest possible examples of HTML, CSS and JavaScript](https://simpl.info/) ([Code](https://github.com/samdutton/simpl))
 - [Offline Internet Archive](https://github.com/internetarchive/dweb-mirror)
+- [Web Quality Assurance: From User Requirements To Web Risk Management (2021)](https://www.smashingmagazine.com/2021/09/journey-into-web-quality-assurance/)

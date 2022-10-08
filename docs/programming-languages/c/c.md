@@ -286,3 +286,4 @@
 - [Illuminating synchronization edges for ThreadSanitizer (2022)](https://nullprogram.com/blog/2022/10/03/)
 - [What does the ??!??! operator do in C?](https://stackoverflow.com/questions/7825055/what-does-the-operator-do-in-c) ([HN](https://news.ycombinator.com/item?id=33101401))
 - [Lambda-8cc](https://github.com/woodrush/lambda-8cc) - x86 C Compiler Written in Untyped Lambda Calculus. ([HN](https://news.ycombinator.com/item?id=33115719))
+- [Ask HN: Best book to learn C in 2022?](https://news.ycombinator.com/item?id=33130533)

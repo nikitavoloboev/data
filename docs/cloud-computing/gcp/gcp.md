@@ -133,3 +133,5 @@ Looking into [Railway](https://railway.app/) & [Cloudflare](https://www.cloudfla
 - [Ask HN: Does anyone actually Use GCP? (2022)](https://news.ycombinator.com/item?id=32967081)
 - [GCP Config Connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) - Kubernetes add-on for managing GCP resources.
 - [Cloud Spanner Emulator](https://github.com/GoogleCloudPlatform/cloud-spanner-emulator) - Open source emulator for Cloud Spanner.
+- [Gcloud storage: Faster data transfers for Cloud Storage (2022)](https://cloud.google.com/blog/products/storage-data-transfer/new-gcloud-storage-cli-for-your-data-transfers) ([HN](https://news.ycombinator.com/item?id=33125176))
+- [Google Cloud tasks emulator](https://github.com/aertje/cloud-tasks-emulator)

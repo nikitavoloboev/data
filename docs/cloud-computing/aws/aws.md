@@ -396,3 +396,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [AWS Security Survival Kit](https://github.com/zoph-io/aws-security-survival-kit)
 - [ecschedule](https://github.com/Songmu/ecschedule) - Tool to manage ECS Scheduled Tasks.
 - [FireSquid](https://github.com/sousandrei/firesquid) - Simple AWS Firecracker MicroVM Orchestrator.
+- [troposphere](https://github.com/cloudtools/troposphere) - Python library to create AWS CloudFormation descriptions.
