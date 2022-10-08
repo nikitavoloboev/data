@@ -210,3 +210,4 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [Why Men Are Hard to Help](https://nationalaffairs.com/publications/detail/why-men-are-hard-to-help) ([HN](https://news.ycombinator.com/item?id=33047976))
 - [Poised](https://www.poised.com/) - AI-powered communication coach. ([HN](https://news.ycombinator.com/item?id=33090580))
 - [Ask HN: How do I learn to communicate effectively? (2022)](https://news.ycombinator.com/item?id=33091972)
+- [There are three types of meetings](https://camdaigle.com/posts/three-types-of-meetings/)

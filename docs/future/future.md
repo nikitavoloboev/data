@@ -112,3 +112,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Ask HN: What core research are you most excited about? (2022)](https://news.ycombinator.com/item?id=32276223)
 - [Ask HN: What's the next big thing that few people are talking about? (2022)](https://news.ycombinator.com/item?id=32378695)
 - [Ask HN: Boring but important tech no one is working on? (2022)](https://news.ycombinator.com/item?id=32611247)
+- [The Next Century of Computing (2022)](https://bzogrammer.substack.com/p/the-next-century-of-computing)

@@ -174,3 +174,4 @@ On bright side, it does appear that Russia [fully lost out on its objectives in 
 - ["Что-то не то скажешь и тебя обнулят, так двоих расстреляли"- полонений російський зек "вагнеровець"](https://www.youtube.com/watch?v=t4dJRPHuzFg)
 - [Best neutral reporting on the war in Ukraine](https://twitter.com/Plinz/status/1572428060284321793)
 - [I Visited Bucha Today (2022)](https://www.amazonredshiftresearchproject.org/slblog/index.html#butcha) ([HN](https://news.ycombinator.com/item?id=33028381))
+- [How does the Russo-Ukrainian War end? (2022)](https://snyder.substack.com/p/how-does-the-russo-ukrainian-war)

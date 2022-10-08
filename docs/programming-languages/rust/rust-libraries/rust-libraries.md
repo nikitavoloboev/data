@@ -851,6 +851,7 @@
 - [function_name](https://github.com/danielhenrymantilla/rust-function_name) - Macro that expands to the name of the annotated function.
 - [dry](https://github.com/coldriverstudio/dry-rs) - Rust macros for idiomatic deduplication of code.
 - [comparable](https://github.com/jwiegley/comparable) - Library for comparing data structures in Rust, oriented toward testing.
+- [Virtue](https://github.com/bincode-org/virtue) - Sinless derive macro helper.
 
 ## Math
 

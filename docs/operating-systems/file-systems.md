@@ -133,3 +133,4 @@
 - [Web Native File System (WNFS)](https://github.com/wnfs-wg/spec) - Distributed file system. It is versioned, logged, programmable, has strong-yet-flexible security, and is fully controlled by the end user.
 - [Tools for tag-based file management? | Lobsters](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management)
 - [Flexible File system](https://github.com/creachadair/ffs)
+- [polyfuse](https://github.com/ubnt-intrepid/polyfuse) - FUSE (Filesystem in Userspace) library for Rust.

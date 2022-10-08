@@ -404,3 +404,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Diffenator](https://github.com/googlefonts/fontdiffenator) - Python 3 library/tool to compare two TTF fonts against each other.
 - [Download all Paratype fonts](https://faceless.today/gofuckyourselfparatype)
 - [Noto Emoji fonts](https://github.com/googlefonts/noto-emoji) - Open source emoji library that provides standard Unicode emoji support and tools for working with them.
+- [Easy Fluid Typography With clamp() Using Sass Functions (2022)](https://www.smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/)

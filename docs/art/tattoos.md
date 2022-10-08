@@ -18,6 +18,9 @@
 - [Jerome](https://www.instagram.com/sztuka_wojny/)
 - [Infrababy Tattoo Art](https://www.instagram.com/infrababy/)
 - [Pauline](https://www.instagram.com/dobrideeen/)
+- [Seva Tattoo](https://www.instagram.com/sevatattoo_brand/)
+- [Lera Chervotkina](https://www.instagram.com/lupokes/)
+- [Злата Зива](https://www.instagram.com/zlata_ziva/)
 
 ## Links
 

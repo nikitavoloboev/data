@@ -105,3 +105,4 @@ title: Agda
 - [Cube solver for Cubical Agda](https://github.com/maxdore/csolver)
 - [agda2hs](https://github.com/agda/agda2hs) - Compiling Agda code to readable Haskell.
 - [Don't worry (about writing Haskell), be happy (writing Agda instead) (2022)](https://jesper.sikanda.be/posts/agda2hs.html)
+- [Luau type checker](https://github.com/luau-lang/agda-typeck) - Partial implementation of Luau type checker in Agda for machine verification.
