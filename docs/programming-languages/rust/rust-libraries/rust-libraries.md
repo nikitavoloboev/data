@@ -2226,6 +2226,7 @@
 - [binfarce](https://github.com/Shnatsel/binfarce) - Extremely minimal parser for ELF/PE/Mach-o/ar.
 - [ogawa-rs](https://github.com/Traverse-Research/ogawa-rs) - Rust crate for reading ogawa alembic cache data.
 - [datasize](https://github.com/CasperLabs/datasize-rs) - Heap memory usage estimation.
+- [Rio](https://github.com/rcelha/rio-rs) - Framework for scalable, distributed and stateful services based on message passing between objects.
 
 ## Cargo Plugins
 

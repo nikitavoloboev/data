@@ -373,3 +373,5 @@ title: WebAssembly
 - [Persistent Storage in WebAssembly Applications](https://www.fermyon.com/blog/persistent-storage-in-webassembly-applications) ([Video](https://www.youtube.com/watch?v=UJxMHNcQDxs))
 - [BoringSSL for WebAssembly/WASI](https://github.com/jedisct1/boringssl-wasm)
 - [essa-rs](https://github.com/essa-project/essa-rs) - Experimental stateful serverless programming framework based on WebAssembly.
+- [lol_alloc](https://github.com/Craig-Macomber/lol_alloc) - Laughably simple wasm global_allocator.
+- [Avoiding allocations in Rust to shrink Wasm modules (2022)](https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/) ([Reddit](https://www.reddit.com/r/rust/comments/xxvwyy/avoiding_allocations_in_rust_to_shrink_wasm/))

@@ -1830,6 +1830,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Opus](https://github.com/pion/opus) - Pure Go implementation of the Opus audio codec. ([Reddit](https://www.reddit.com/r/golang/comments/xui6l5/pure_go_implementation_of_the_opus_audio_codec/))
 - [taskgroup](https://github.com/creachadair/taskgroup) - Go package for managing a group of collaborating goroutines.
 - [Shutdown](https://github.com/klauspost/shutdown2) - Manage shutdown code centrally, and provides functionality to execute code when a controlled shutdown occurs.
+- [simpex](https://github.com/tobiassjosten/go-simpex) - Simpler and faster alternative to regexp.
 
 ## Links
 
@@ -1981,3 +1982,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [A Complete Guide to Logging in Go with Zerolog (2022)](https://betterstack.com/community/guides/logging/zerolog/)
 - [sketch](https://github.com/lestrrat-go/sketch) - Generate JSON (De)serializable Object From Go Schema.
 - [Depguard](https://github.com/OpenPeeDeeP/depguard) - Go linter that checks if package imports are in a list of acceptable packages.
+- [Migrating our monorepo seamlessly from Dep to Go Modules (2022)](https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules)

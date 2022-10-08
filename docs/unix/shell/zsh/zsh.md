@@ -84,3 +84,4 @@ bindkey
 - [Zsh Plugin Standard](https://z.digitalclouds.dev/community/zsh_plugin_standard/)
 - [Zsh Native Scripting Handbook](https://z.digitalclouds.dev/community/zsh_handbook/)
 - [zshbrev](https://idiomdrottning.org/zshbrev) - Allows you to mix zsh code and brev code.
+- [Moving files in ZSH - The wonderful world of zmv (2022)](https://filipe.kiss.ink/zmv-zsh-rename/)

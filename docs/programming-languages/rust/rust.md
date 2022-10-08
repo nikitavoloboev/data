@@ -910,5 +910,4 @@ title: Rust
 - [No Boilerplate - YouTube](https://www.youtube.com/c/NoBoilerplate/videos) - Fast technical videos. ([Code](https://github.com/0atman/noboilerplate))
 - [Unsafe Rust is not C (2022)](https://www.youtube.com/watch?v=DG-VLezRkYQ) ([Lobsters](https://lobste.rs/s/m1zwdn/unsafe_rust_is_not_c))
 - [Rust's Result Type is Cool (2022)](https://naiveai.hashnode.dev/rust-result-cool) ([Lobsters](https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool))
-- [Hard Mode Rust (2022)](https://matklad.github.io/2022/10/06/hard-mode-rust.html) ([Reddit](https://www.reddit.com/r/rust/comments/xx7xci/blog_post_hard_mode_rust/))
-- [Avoiding allocations in Rust to shrink Wasm modules (2022)](https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/)
+- [Hard Mode Rust (2022)](https://matklad.github.io/2022/10/06/hard-mode-rust.html) ([Reddit](https://www.reddit.com/r/rust/comments/xx7xci/blog_post_hard_mode_rust/)) ([Lobsters](https://lobste.rs/s/gmxvun/hard_mode_rust))

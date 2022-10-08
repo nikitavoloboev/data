@@ -417,3 +417,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Just, Nix Shell and Podman are a Killer Combo (2022)](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo) ([Lobsters](https://lobste.rs/s/eenfdg/just_nix_shell_podman_are_killer_combo)) ([Reddit](https://www.reddit.com/r/NixOS/comments/xwmx6o/just_nix_shell_and_podman_are_a_killer_combo/))
 - [Nix Team Creation (2022)](https://discourse.nixos.org/t/nix-team-creation/22228) ([HN](https://news.ycombinator.com/item?id=33097511))
 - [Construction and analysis of the build and runtime dependency graph of nixpkgs (2022)](https://www.tweag.io/blog/2022-09-13-nixpkgs-graph/)
+- [Using Nix to run software with no installation steps (2022)](https://determinate.systems/posts/nix-run)

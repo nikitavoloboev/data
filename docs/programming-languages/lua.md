@@ -142,3 +142,5 @@ title: Lua
 - [Go Lua Compiler and VM](https://github.com/ofunc/lua)
 - [Lua 5.3 in Rust](https://github.com/mlua-rs/rustmoon)
 - [Structured concurrency and Lua](https://gist.github.com/belm0/4c6d11f47ccd31a231cde04616d6bb22) ([HN](https://news.ycombinator.com/item?id=32910719))
+- [Selene](https://github.com/Kampfkarren/selene) - Blazing-fast modern Lua linter written in Rust.
+- [Lua Scripts for Roblox](https://github.com/Kampfkarren/Roblox)

@@ -49,3 +49,4 @@
 - [Design lessons from guitar pedals](https://uxdesign.cc/5-design-lessons-from-guitar-pedals-782d41f07d1b) ([HN](https://news.ycombinator.com/item?id=31948881))
 - [Online Tuner: Guitar, Bass Guitar & Ukulele Tuner](https://muted.io/tuner/)
 - [Guitar Chords: Diagrams with Notes & Finger Positions](https://muted.io/guitar-chords/) ([HN](https://news.ycombinator.com/item?id=32976832))
+- [Why Is The Guitar Tuned Like It Is?](https://library.kiwix.org/music.stackexchange.com_en_all_2022-05/questions/1723/why-is-the-guitar-tuned-like-it-is) ([HN](https://news.ycombinator.com/item?id=33118994))

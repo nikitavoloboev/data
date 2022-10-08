@@ -106,3 +106,4 @@ title: Figma
 - [Understanding Figma/Adobe buy out](https://twitter.com/karrisaarinen/status/1572353519205888001)
 - [Design Systems For Figma](https://www.designsystemsforfigma.com/)
 - [Primer for Figma](https://github.com/primer/figma) - Primer, GitHub's design system, available on Figma.
+- [Behind the feature: find and replace (2022)](https://www.figma.com/blog/behind-the-feature-find-and-replace/)

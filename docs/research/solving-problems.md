@@ -65,6 +65,7 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [The first step to solve any problem is to recognize what problem spaces you are in.](https://twitter.com/rakyll/status/1455986549288439812)
 - [Tell me what would have to be true to do x by y.](https://twitter.com/Austen/status/1510003537152937985)
 - [Debugging technique I've been perfecting recently: when it's late at night and I've been banging my head on some bug (but have my mind fully wrapped around the symptoms), go to sleep. In the morning, usually solve it within 15 minutes. Subconscious really knows what it's doing.](https://twitter.com/gdb/status/1516526650216751106)
+- [When you first start off trying to solve a problem, the first solutions you come up with are very complex, and most people stop there. But if you keep going, and live with the problem and peel more layers of the onion off, you can often times arrive at some very elegant and simple solutions.](https://twitter.com/Rahul_J_Mathur/status/1578018059834429441)
 
 ## Links
 
