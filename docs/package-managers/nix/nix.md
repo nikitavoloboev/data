@@ -418,3 +418,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix Team Creation (2022)](https://discourse.nixos.org/t/nix-team-creation/22228) ([HN](https://news.ycombinator.com/item?id=33097511))
 - [Construction and analysis of the build and runtime dependency graph of nixpkgs (2022)](https://www.tweag.io/blog/2022-09-13-nixpkgs-graph/)
 - [Using Nix to run software with no installation steps (2022)](https://determinate.systems/posts/nix-run)
+- [Garnix](https://garnix.io/) - Fast and easy CI for Nix. ([HN](https://news.ycombinator.com/item?id=33131480))

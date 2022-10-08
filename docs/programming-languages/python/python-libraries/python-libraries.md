@@ -1187,3 +1187,4 @@
 - [not-a-package-manager](https://github.com/dmarx/not-a-package-manager) - Utilities to facilitate working with codebases that don't ascribe to normal package management paradigms, e.g. ML research code that can be cloned but not installed.
 - [Hatch-Fancy-PyPI-readme](https://github.com/hynek/hatch-fancy-pypi-readme) - Hatch metadata plugin for everyone who cares about the first impression of their project’s PyPI landing page.
 - [Isolate](https://github.com/fal-ai/isolate) - Managed isolated environments for Python.
+- [Python Type Hints: How to Gradually Add Types for Third Party Packages (2022)](https://adamj.eu/tech/2022/08/23/python-type-hints-gradually-add-types-for-third-party-packages/)

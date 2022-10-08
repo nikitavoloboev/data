@@ -242,3 +242,4 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Chessly](https://chessly.com/) - Chess learning made fun and easy.
 - [Chessable](https://www.chessable.com/) - Where Science Meets Chess.
 - [GothamChess: Hans Niemann, Magnus Carlsen, Cheating Scandal & Chess Bots (2022)](https://www.youtube.com/watch?v=iSMpTmibeDw)
+- [Perpetual Chess Podcast](https://www.youtube.com/channel/UCtcudElmRsQYTwULtd_gnFw/videos)
