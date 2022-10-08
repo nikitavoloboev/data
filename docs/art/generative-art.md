@@ -237,3 +237,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [openFrameworks](https://github.com/openframeworks/openFrameworks) - C++ toolkit for creative coding. ([Web](https://openframeworks.cc/))
 - [Beautiful Generative SVG Grids](https://generative-svg-grid.vercel.app/) ([Code](https://github.com/geoffrich/generative-svg-grid))
 - [Generative art using Haskell](https://github.com/quchen/generative-art)
+- [Juhani Halkomäki](https://www.instagram.com/juhani.halkomaki/) ([Twitter](https://twitter.com/JuhaniHalkomaki))

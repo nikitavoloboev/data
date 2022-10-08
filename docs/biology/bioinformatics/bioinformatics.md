@@ -242,5 +242,5 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Fasten](https://github.com/lskatz/fasten) - Perform random operations on fastq files, using unix streaming.
 - [JVARKIT](https://github.com/lindenb/jvarkit) - Java utilities for Bioinformatics.
 - [Bioconda recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel.
-- [foldingdiff](https://github.com/microsoft/foldingdiff) - Diffusion model for protein backbone generation.
+- [foldingdiff](https://github.com/microsoft/foldingdiff) - Diffusion model for protein backbone generation. ([Demo](https://huggingface.co/spaces/wukevin/foldingdiff))
 - [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking (2022)](https://arxiv.org/abs/2210.01776) ([Code](https://github.com/gcorso/DiffDock))

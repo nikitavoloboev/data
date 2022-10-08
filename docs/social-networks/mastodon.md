@@ -42,3 +42,4 @@ title: Mastodon
 - [Increasingly Less-Brief Guide to Mastodon](https://github.com/joyeusenoelle/GuideToMastodon)
 - [Mastodon IP anonymization (2022)](https://libreops.cc/2022/05/09/mastodon/)
 - [Sengi](https://github.com/NicolasConstant/sengi) - Mastodon & Pleroma Multi-account Desktop Client.
+- [Mastodon.technology Shutdown (2022)](https://ashfurrow.com/blog/mastodon-technology-shutdown/) ([HN](https://news.ycombinator.com/item?id=33120136)) ([Tweet](https://twitter.com/simonw/status/1578445374372528129))

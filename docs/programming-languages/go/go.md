@@ -863,3 +863,4 @@ if err != nil {
 - [Gobra](https://github.com/viperproject/gobra) - Automated, modular verifier for Go programs, based on the Viper verification infrastructure.
 - [Redefining for Loop Variable Semantics](https://github.com/golang/go/discussions/56010) ([Lobsters](https://lobste.rs/s/dekhpe/redefining_for_loop_variable_semantics))
 - [How to build a WaitGroup from a 32-bit integer (2022)](https://nullprogram.com/blog/2022/10/05/)
+- [Rapid prototyping in Go (2022)](https://twitter.com/alexellisuk/status/1578664386465759235)

@@ -273,3 +273,4 @@ And these Discord servers:
 - [Autosummarized Hacker News (with GPT-3)](https://danieljanus.pl/autosummarized-hn/)
 - [How to stop being “terminally online”](https://nights.bearblog.dev/how-to-stop-being-terminally-online/) ([HN](https://news.ycombinator.com/item?id=32374207))
 - [Hckr News](https://hckrnews.com/) - Hacker News sorted by time. ([HN](https://news.ycombinator.com/item?id=33074025))
+- [One App](https://reader.one/) - Read HN/Reddit/.. in one website.

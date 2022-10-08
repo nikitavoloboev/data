@@ -4,6 +4,8 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 
 ![](https://pbs.twimg.com/media/DRgAB30VQAAoY2i?format=jpg&name=900x900)
 
+It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkUuXQUByuw) as soon as possible by building things. Ideally [ideas](../ideas/ideas.md) you care about.
+
 ## Notes
 
 - [The internet provides access to an education that the aristocracy of old couldn't have imagined. It also provides the perfect attack vector for marketers to exploit cognitive vulnerabilities and dominate your attention. A world-class education is free for the undistractable.](https://twitter.com/TheStoicEmperor/status/1086118829661376512)

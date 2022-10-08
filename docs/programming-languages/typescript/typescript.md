@@ -4,7 +4,7 @@ title: TypeScript
 
 # [TypeScript](https://www.typescriptlang.org/)
 
-[TS Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) & [Effective Typescript Book](https://effectivetypescript.com/) are great intros. So as [Execute Program](https://www.executeprogram.com/) & [Advanced TypeScript](https://www.mattpocock.com/) courses too. [Type Challenges](https://github.com/type-challenges/type-challenges) is a nice test for TS knowledge.
+[TS Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) & [Effective Typescript Book](https://effectivetypescript.com/) are great intros. So as [Execute Program](https://www.executeprogram.com/) & [Total TypeScript](https://www.totaltypescript.com/) courses too. [Type Challenges](https://github.com/type-challenges/type-challenges) is a nice test for TS knowledge.
 
 [TypeScript Error Translator](https://github.com/mattpocock/ts-error-translator) is nice.
 
@@ -294,6 +294,7 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [TDungeon](https://github.com/cassiozen/TDungeon) - Adventure game that runs in the Typescript type system.
 - [Ezno: a new TypeScript compiler](https://kaleidawave.github.io/posts/introducing-ezno/) ([HN](https://news.ycombinator.com/item?id=32941613))
 - [TypeScript Tips by Matt Pocock](https://www.totaltypescript.com/tips)
+- [Total TypeScript](https://www.totaltypescript.com/) - Professional TypeScript Training by Matt Pocock.
 
 ## Images
 

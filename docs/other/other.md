@@ -676,3 +676,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [OSINT tools collection](https://github.com/cipher387/osint_stuff_tool_collection)
 - [funfun.chat Discord](https://discord.com/invite/Tz5Rfrf)
 - [Visualized: The World's Population at 8 Billion, by Country](https://www.visualcapitalist.com/visualized-the-worlds-population-at-8-billion/)
+- [StumbleUpon](https://www.stumbleupon.com/)
+- [Cloudhiker](https://cloudhiker.net/) - Greatest Sites of the Internet.
+- [MetaFilter](https://www.metafilter.com/) - Community Weblog.

@@ -133,6 +133,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Hasköy](https://github.com/ertekinno/haskoy) - Open-source variable sans-serif typeface family. ([Web](https://haskoy.ertekinn.com/))
 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont) ([HN](https://news.ycombinator.com/item?id=32799872))
 - [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono) - Helvetica Monospace Coding Font.
+- [Acma](https://twitter.com/PangramPangram_/status/1578445381905838081)
 
 ## Links
 
@@ -405,3 +406,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Download all Paratype fonts](https://faceless.today/gofuckyourselfparatype)
 - [Noto Emoji fonts](https://github.com/googlefonts/noto-emoji) - Open source emoji library that provides standard Unicode emoji support and tools for working with them.
 - [Easy Fluid Typography With clamp() Using Sass Functions (2022)](https://www.smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/)
+- [Fallback Font Generator](https://screenspan.net/fallback)
+- [Pangram Pangram Foundry](https://pangrampangram.com/) - Free to Try Quality Fonts and Typefaces. ([Twitter](https://twitter.com/PangramPangram_))

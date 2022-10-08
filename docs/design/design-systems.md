@@ -1,6 +1,6 @@
 # Design systems
 
-[Primer](https://primer.style/), [Vercel](https://vercel.com/design), [Radix Primitives](https://www.radix-ui.com/), [Polaris](https://polaris.shopify.com/) & [Mantine](https://mantine.dev/) are my favorite. [Brand Site Design](https://www.brandsite.design/) has a nice list. [Utopia](https://utopia.fyi/) is nice guideline for responsive design.
+[Primer](https://primer.style/), [Vercel](https://vercel.com/design), [Radix Primitives](https://www.radix-ui.com/), [Polaris](https://polaris.shopify.com/) & [Mantine](https://mantine.dev/) are my favorite. [Brand Site Design](https://www.brandsite.design/) has a nice list. [Utopia](https://utopia.fyi/) is nice guideline for responsive design. [Reshaped](https://reshaped.so/) is great too.
 
 ## Interesting design systems
 
@@ -204,3 +204,4 @@
 - [Naming conventions for design systems (2022)](https://backlight.dev/blog/naming-conventions-for-design-systems)
 - [How to build a universal design system (2021)](https://axeldelafosse.com/blog/universal-design-system)
 - [Design System Pipelines demo](https://github.com/rezrah/design-system-pipelines) - Demo for E2E build piplelines in Design Systems using monorepo's and automation.
+- [Reshaped](https://reshaped.so/) - Design system built for your scale with React and Figma. ([Twitter](https://twitter.com/getReshaped))

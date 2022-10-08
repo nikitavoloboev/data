@@ -114,3 +114,4 @@ title: Vite
 - [Favicons Vite Plugin](https://github.com/josh-hemphill/vite-plugin-favicon) - Leverages on favicons to automatically generate your favicons for you.
 - [Vite Plugin Web Extension](https://github.com/samrum/vite-plugin-web-extension) - Vite plugin for generating cross browser platform, ES module based web extensions.
 - [Vite-Plugin-Minify](https://github.com/zhuweiyou/vite-plugin-minify) - Minify HTML in production.
+- [What's great about ViteJS (2022)](https://twitter.com/ebey_jacob/status/1578439326853369863)

@@ -64,3 +64,4 @@ title: Observability
 - [flow-telemetry](https://github.com/eBay/flow-telemetry) - Adding observability to feature flow with OpenTelemetry.
 - [Coralogix](https://coralogix.com/) - Full-Stack Observability Platform with In-Stream Data Analytics.
 - [Metalens](https://github.com/nbaksalyar/metalens) - Stream-based visual programming language for systems observability. Live Programming and Visualizing eBPF.
+- ["Building Observability for 99% Developers" by Jean Yang (2022)](https://www.youtube.com/watch?v=UJA4PGKny2k)

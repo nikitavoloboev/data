@@ -436,3 +436,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Technical exercises and experiments](https://github.com/ravern/sandbox)
 - [SCIP Code Intelligence Protocol](https://github.com/sourcegraph/scip) - Language-agnostic protocol for indexing source code, which can be used to power code navigation functionality such as Go to definition, Find references, and Find implementations.
 - [codestrings](https://github.com/alexferrari88/codestrings) - Extracts all the strings from your source code.
+- [The Hundred-Year Programming Language (2022)](https://codefol.io/posts/the-hundred-year-programming-language/)

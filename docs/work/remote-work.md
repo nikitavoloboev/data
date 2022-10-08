@@ -158,3 +158,4 @@
 - [Starlink for RVs](https://www.starlink.com/rv) ([HN](https://news.ycombinator.com/item?id=31486083))
 - [Ask HN: How is the remote vs in-person trend looking? (2022)](https://news.ycombinator.com/item?id=31894877)
 - [10 ideas for building great culture in a distributed team](https://twitter.com/nathanbarry/status/1574753781455400961)
+- [Nice tools for better remote work](https://twitter.com/thekitze/status/1578652517495341056)
