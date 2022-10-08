@@ -395,3 +395,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [CloudFox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
 - [AWS Security Survival Kit](https://github.com/zoph-io/aws-security-survival-kit)
 - [ecschedule](https://github.com/Songmu/ecschedule) - Tool to manage ECS Scheduled Tasks.
+- [FireSquid](https://github.com/sousandrei/firesquid) - Simple AWS Firecracker MicroVM Orchestrator.

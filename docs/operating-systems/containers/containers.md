@@ -233,3 +233,4 @@
 - [Afterburn](https://github.com/coreos/afterburn) - One-shot agent for cloud-like platforms which interacts with provider-specific metadata endpoints.
 - [Awesome Container Tinkering](https://github.com/iximiuz/awesome-container-tinkering) - Awesome tools to tinker with containers.
 - [Awesome Conteiners](https://github.com/pditommaso/awesome-containers)
+- [footloose](https://github.com/weaveworks/footloose) - Creates containers that look like virtual machines.

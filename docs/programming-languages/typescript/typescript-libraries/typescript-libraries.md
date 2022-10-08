@@ -641,6 +641,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Snowyflake](https://github.com/negezor/snowyflake) - Modern implementation Snowflake on TypeScript.
 - [Middleware-IO](https://github.com/negezor/middleware-io) - Modern middleware on Promise.
 - [Validator Lite](https://github.com/poppinss/validator-lite) - Typed schema based validation with low calories.
+- [Castore](https://github.com/castore-dev/castore) - Better DevX for Event Sourcing in TypeScript.
 
 ## Links
 

@@ -241,3 +241,4 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [ButtFish](https://github.com/RonSijm/ButtFish) - Transmit Morse Code of chess moves to your butt. ([HN](https://news.ycombinator.com/item?id=33014251))
 - [Chessly](https://chessly.com/) - Chess learning made fun and easy.
 - [Chessable](https://www.chessable.com/) - Where Science Meets Chess.
+- [GothamChess: Hans Niemann, Magnus Carlsen, Cheating Scandal & Chess Bots (2022)](https://www.youtube.com/watch?v=iSMpTmibeDw)

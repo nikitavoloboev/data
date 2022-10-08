@@ -31,3 +31,4 @@ title: Tauri
 - [Tauri vs. Electron – Real world application (2022)](https://www.levminer.com/blog/tauri-vs-electron) ([HN](https://news.ycombinator.com/item?id=32550267))
 - [Generate Color Themes with Tauri (2022)](https://www.youtube.com/watch?v=zawhqLA7N9Y)
 - [Build a cross platform app with Tauri (2022)](https://ghostdev.xyz/posts/build-a-cross-platform-app-with-tauri/)
+- [tauri-egui](https://github.com/tauri-apps/tauri-egui) - Tauri plugin for using the egui library in a Tauri application.

@@ -322,3 +322,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Chainguard](https://www.chainguard.dev/) - Secure your software supply chains. ([Chainguard Images](https://www.chainguard.dev/chainguard-images)) ([GitHub](https://github.com/chainguard-images))
 - [Cloudflare Turnstile](https://developers.cloudflare.com/turnstile/) - User-friendly, privacy-preserving alternative to CAPTCHA. ([Article](https://blog.cloudflare.com/turnstile-private-captcha-alternative/)) ([Nuxt Turnstile](https://github.com/danielroe/nuxt-turnstile))
 - [feroxbuster](https://github.com/epi052/feroxbuster) - Fast, simple, recursive content discovery tool written in Rust.
+- [Transparent Release](https://github.com/project-oak/transparent-release) - Builds on the idea of binary transparency and extends it in a few directions.
