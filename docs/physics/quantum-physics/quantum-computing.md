@@ -174,3 +174,4 @@ title: Quantum computing
 - [Qulacs](https://github.com/qulacs/qulacs) - Python/C++ library for fast simulation of large, noisy, or parametric quantum circuits.
 - [QuEra Computing](https://www.quera.com/) - Scalable quantum computing with neutral atoms. ([GitHub](https://github.com/QuEraComputing))
 - [SQIR](https://github.com/inQWIRE/SQIR) - Small Quantum Intermediate Representation.
+- [scikit-qulacs](https://github.com/Qulacs-Osaka/scikit-qulacs) - Library for quantum neural network. This library is based on qulacs and named after scikit-learn.

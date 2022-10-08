@@ -961,3 +961,4 @@
 - [Shape, Light, and Material Decomposition from Images using Monte Carlo Rendering and Denoising (2022)](https://nvlabs.github.io/nvdiffrecmc/) ([Code](https://github.com/NVlabs/nvdiffrecmc))
 - [2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds (2022)](https://arxiv.org/abs/2207.04397v2) ([Code](https://github.com/yanx27/2DPASS))
 - [PanopticDepth: A Unified Framework for Depth-aware Panoptic Segmentation (2022)](https://arxiv.org/abs/2206.00468) ([Code](https://github.com/NaiyuGao/PanopticDepth))
+- [UPIT](https://github.com/tmabraham/UPIT) - FastAI/PyTorch package for unpaired image-to-image translation.

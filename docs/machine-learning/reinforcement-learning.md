@@ -390,6 +390,6 @@ title: Reinforcement learning
 - [CORL (Clean Offline Reinforcement Learning)](https://github.com/tinkoff-ai/CORL) - High-quality single-file implementations of SOTA Offline RL algorithms: AWAC, BC, CQL, DT, EDAC, IQL, SAC-N, TD3+BC.
 - [RL4LMs](https://github.com/allenai/RL4LMs) - Modular RL library to fine-tune language models to human preferences.
 - [Gym Games](https://github.com/qlan3/gym-games) - Gym version of various games for reinforcement learning.
-- [Discovering faster matrix multiplication algorithms with reinforcement learning (2022)](https://www.nature.com/articles/s41586-022-05172-4) ([Code](https://github.com/deepmind/alphatensor)) ([HN](https://news.ycombinator.com/item?id=33096580))
+- [Discovering faster matrix multiplication algorithms with reinforcement learning (2022)](https://www.nature.com/articles/s41586-022-05172-4) ([Code](https://github.com/deepmind/alphatensor)) ([HN](https://news.ycombinator.com/item?id=33096580)) ([Explained](https://www.youtube.com/watch?v=3N3Bl5AA5QU))
 - [On AlphaTensor’s new matrix multiplication algorithms (2022)](https://fgiesen.wordpress.com/2022/10/06/on-alphatensors-new-matrix-multiplication-algorithms/) ([HN](https://news.ycombinator.com/item?id=33117192))
 - [Reinforcement Learning Benchmarks for Traffic Signal Control](https://github.com/Pi-Star-Lab/RESCO)

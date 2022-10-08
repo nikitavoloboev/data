@@ -724,6 +724,7 @@
 - [kornia-rs](https://github.com/kornia/kornia-rs) - Low level implementations for computer vision in Rust.
 - [cervo](https://github.com/EmbarkStudios/cervo) - Wrapper around tract used for ML workloads in our games.
 - [Rust NEAT](https://github.com/TLmaK0/rustneat) - NeuroEvolution of Augmenting Topologies.
+- [egobox](https://github.com/relf/egobox) - Rust toolbox about surrogate-based adaptative optimization.
 
 ## macOS
 
@@ -2328,6 +2329,7 @@
 - [cargo-careful](https://github.com/RalfJung/cargo-careful) - Execute Rust code carefully, with extra checking along the way.
 - [cargo-docset](https://github.com/Robzz/cargo-docset) - Generate a Zeal/Dash docset for your Rust crate or workspace.
 - [cargo-cranky](https://github.com/ericseppanen/cargo-cranky) - Easy to configure wrapper for Rust's clippy.
+- [Cargo Sort](https://github.com/DevinR528/cargo-sort) - Tool to check that your Cargo.toml dependencies are sorted alphabetically.
 
 ## Notes
 

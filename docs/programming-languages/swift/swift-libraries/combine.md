@@ -61,3 +61,4 @@ title: Combine Framework
 - [Recombine](https://github.com/ReSwift/Recombine) - Deeply opinionated Redux-like implementation of the unidirectional data flow architecture in Swift.
 - [Getting started with Apple Combine](https://github.com/tailec/CombineExamples)
 - [Merge](https://github.com/vmanot/Merge) - Robust task management and concurrency utilities built atop Combine.
+- [CombineCoreBluetooth](https://github.com/StarryInternet/CombineCoreBluetooth) - Wrapper API for CoreBluetooth using Combine Publishers.

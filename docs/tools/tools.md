@@ -624,6 +624,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Likwid](https://github.com/RRZE-HPC/likwid) - Simple to install and use toolsuite of command line applications and a library for performance oriented programmers.
 - [Cron Prompt](https://cronprompt.com/) - Convert English to Cron Expressions. ([HN](https://news.ycombinator.com/item?id=32358591))
 - [ogmeta](https://github.com/hopinc/ogmeta) - OG Meta generator for documentation/misc.
+- [Briefkasten](https://github.com/ndom91/briefkasten) - Self hosted bookmarking app.
 
 ## Notes
 

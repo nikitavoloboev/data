@@ -1029,6 +1029,7 @@
 - [Croner](https://github.com/Hexagon/croner) - Trigger functions and/or evaluate cron expressions in JavaScript. No dependencies. Most features. All environments.
 - [async-ratelimiter](https://github.com/microlinkhq/async-ratelimiter) - Rate limit made simple, easy, async.
 - [Error Causes](https://github.com/paralleldrive/error-causes) - Simple error handling based on standard JavaScript error cause.
+- [Fast Diff](https://github.com/jhchen/fast-diff) - Fast JavaScript string diff.
 
 ## Links
 

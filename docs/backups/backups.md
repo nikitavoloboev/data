@@ -37,6 +37,7 @@ For programming, [Walrus](https://github.com/Clivern/Walrus) seems nice.
 - [paperback](https://github.com/cyphar/paperback) - Paper-based backup scheme that is secure and easy-to-use.
 - [Duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups on cloud storage services.
 - [Back In Time](https://github.com/bit-team/backintime) - Simple backup tool for Linux.
+- [Duplicacy](https://github.com/gilbertchen/duplicacy) - Lock-free deduplication cloud backup tool.
 
 ## Cloud Storage
 

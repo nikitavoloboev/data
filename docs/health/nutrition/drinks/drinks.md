@@ -38,3 +38,4 @@ I also drink an occasional coffee although I try avoid it as it disrupts my slee
 - [Drankerij](https://drankerij.nl/)
 - [ChariTea](https://charitea.com/en/)
 - [Dos Hombres Mezcal](https://www.doshombres.com/#) ([Video](https://www.youtube.com/watch?v=V-mGiBfoaok))
+- [What is your favorite smoothie that you can make at home?](https://www.reddit.com/r/AskWomen/comments/xye0e4/what_is_your_favorite_smoothie_that_you_can_make/)

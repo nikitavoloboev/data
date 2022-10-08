@@ -1831,6 +1831,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [taskgroup](https://github.com/creachadair/taskgroup) - Go package for managing a group of collaborating goroutines.
 - [Shutdown](https://github.com/klauspost/shutdown2) - Manage shutdown code centrally, and provides functionality to execute code when a controlled shutdown occurs.
 - [simpex](https://github.com/tobiassjosten/go-simpex) - Simpler and faster alternative to regexp.
+- [Gorgonia-Parser](https://github.com/gorgonia/parser) - Simple parser that turns a formulae written in unicode into an ExprGraph.
 
 ## Links
 

@@ -243,6 +243,7 @@
 - [pangraph](https://github.com/neherlab/pangraph) - Bioinformatic toolkit to align large sets of closely related genomes into a graph data structure.
 - [GeneDrive.jl](https://github.com/vnvasquez/GeneDrive.jl) - Julia package designed for simulating biological dynamics and control.
 - [ViennaRNA](https://github.com/marcom/ViennaRNA.jl) - Julia interface to the ViennaRNA library for RNA secondary structure prediction and analysis.
+- [DifferentiableMetabolism.jl](https://github.com/stelmo/DifferentiableMetabolism.jl) - Differentiable constraint-based metabolic models.
 
 ## Computer Vision
 

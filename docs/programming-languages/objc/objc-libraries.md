@@ -8,3 +8,4 @@
 - [OCMock](https://github.com/erikdoe/ocmock) - Objective-C implementation of mock objects.
 - [SRG Media Player](https://github.com/SRGSSR/srgmediaplayer-apple) - Advanced media player library, simple and reliable.
 - [Mach-O Kit](https://github.com/DeVaukz/MachO-Kit) - C/Objective-C library for parsing Mach-O files.
+- [StringScore](https://github.com/thetron/StringScore) - Objective-C library which provides super fast fuzzy string matching/scoring.

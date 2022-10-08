@@ -642,6 +642,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Middleware-IO](https://github.com/negezor/middleware-io) - Modern middleware on Promise.
 - [Validator Lite](https://github.com/poppinss/validator-lite) - Typed schema based validation with low calories.
 - [Castore](https://github.com/castore-dev/castore) - Better DevX for Event Sourcing in TypeScript.
+- [Slash](https://github.com/toss/slash) - Collection of TypeScript/JavaScript packages to build high-quality web services.
+- [Ts-graphviz](https://github.com/ts-graphviz/ts-graphviz) - Simple Graphviz library for TypeScript.
 
 ## Links
 
