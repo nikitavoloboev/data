@@ -256,3 +256,4 @@ title: SwiftUI
 - [Build iOS 16 Stocks App With SwiftUI & SwiftCharts Series](https://www.youtube.com/playlist?list=PLuecTl5TrGwtQRtT6wxI0-l0fN-2V5QTJ) ([Code](https://github.com/alfianlosari/stocksapptutorial))
 - [Libraried](https://apps.apple.com/us/app/libraried/id1642862540) - SwiftUI Components in Action.
 - [Using the dismiss action from the SwiftUI environment (2022)](https://nilcoalescing.com/blog/UsingTheDismissActionFromTheSwiftUIEnvironment/)
+- [Apple’s use of Swift and SwiftUI in iOS 16 (2022)](https://blog.timac.org/2022/1005-state-of-swift-and-swiftui-ios16/) ([HN](https://news.ycombinator.com/item?id=33126223))

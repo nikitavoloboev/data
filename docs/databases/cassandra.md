@@ -20,3 +20,4 @@ title: Cassandra DB
 - [Cassandra Enhancement Proposals (CEP)](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=95652201)
 - [K8ssandra](https://github.com/k8ssandra/k8ssandra) - Open-source distribution of Apache Cassandra for Kubernetes including API services and operational tooling. ([Web](https://k8ssandra.io/))
 - [Cassandra in 100 Seconds (2022)](https://www.youtube.com/watch?v=ziq7FUKpCS8)
+- [Cassandra at Apple: 1000s of Clusters, 300k Nodes, 100 PB (2022)](https://twitter.com/erickramirezau/status/1578063811495477248) ([HN](https://news.ycombinator.com/item?id=33124631))

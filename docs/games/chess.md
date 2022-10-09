@@ -243,3 +243,4 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Chessable](https://www.chessable.com/) - Where Science Meets Chess.
 - [GothamChess: Hans Niemann, Magnus Carlsen, Cheating Scandal & Chess Bots (2022)](https://www.youtube.com/watch?v=iSMpTmibeDw)
 - [Perpetual Chess Podcast](https://www.youtube.com/channel/UCtcudElmRsQYTwULtd_gnFw/videos)
+- [Levitov Chess - YouTube](https://www.youtube.com/c/LevitovChess/videos)

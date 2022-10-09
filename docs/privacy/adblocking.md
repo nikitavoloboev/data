@@ -51,3 +51,4 @@ Use [Wipr](https://giorgiocalderolla.com/wipr.html) on [iOS](../operating-system
 - [A layered approach to content blocking (2022)](https://seirdy.one/posts/2022/06/04/layered-content-blocking/)
 - [1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced DNS filter-/blocklists.
 - [donutdns](https://github.com/shoenig/donutdns) - Block online ads by intercepting DNS queries. Simple alternative to Pi-hole.
+- [DNS based ad/abuse domain blocking](https://github.com/openwrt/packages/blob/master/net/adblock/files/README.md)

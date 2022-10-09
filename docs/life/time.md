@@ -58,3 +58,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [Someday aliens will land and all will be fine until we explain our calendar](https://twitter.com/foone/status/1572260363764400129) ([HN](https://news.ycombinator.com/item?id=32975173))
 - [Swatch Internet Time](https://www.timeanddate.com/time/internettime.html) ([HN](https://news.ycombinator.com/item?id=32948420))
 - [minitz](https://github.com/Hexagon/minitz) - Minimal utility to convert to or from any timezone. Deno/Node/Browser. ESM/CommonJS.
+- [The Thorny Problem of Keeping the Internet's Time](https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time) ([HN](https://news.ycombinator.com/item?id=33131195))
