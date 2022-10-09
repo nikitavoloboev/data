@@ -159,3 +159,4 @@
 - [Ask HN: How is the remote vs in-person trend looking? (2022)](https://news.ycombinator.com/item?id=31894877)
 - [10 ideas for building great culture in a distributed team](https://twitter.com/nathanbarry/status/1574753781455400961)
 - [Nice tools for better remote work](https://twitter.com/thekitze/status/1578652517495341056)
+- [Ask HN: How do remote first businesses maintain cultural cohesion? (2022)](https://news.ycombinator.com/item?id=33142761)

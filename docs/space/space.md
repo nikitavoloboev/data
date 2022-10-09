@@ -180,3 +180,4 @@
 - [SAR Imagery | ICEYE](https://www.iceye.com/sar-imagery)
 - [New Webb image captures clearest view of Neptune’s rings in decades (2022)](https://www.nasa.gov/feature/goddard/2022/new-webb-image-captures-clearest-view-of-neptune-s-rings-in-decades) ([HN](https://news.ycombinator.com/item?id=32927156))
 - [SpaceX exploring mission to boost Hubble (2022)](https://orbitalindex.com/archive/2022-10-05-Issue-188/) ([HN](https://news.ycombinator.com/item?id=33097235))
+- [Starlink Coverage Tracker](https://starlink.sx/) ([Modeling Starlink capacity](https://mikepuchol.com/modeling-starlink-capacity-843b2387f501)) ([HN](https://news.ycombinator.com/item?id=33136554))

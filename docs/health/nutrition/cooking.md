@@ -43,3 +43,4 @@ I share some [recipes I like](recipes.md).
 - [Parsnip](https://www.parsnip.ai/) - Duolingo for Cooking. ([HN](https://news.ycombinator.com/item?id=32266086))
 - [Ask HN: Meal Planning App? (2022)](https://news.ycombinator.com/item?id=32316604)
 - [Ultimate list of Japanese Vegetable Cutting Techniques](https://thechefdojo.com/japanese-vegetable-cutting-techniques/)
+- [How to Cook Mushrooms](https://kateray.substack.com/p/how-to-cook-mushrooms)

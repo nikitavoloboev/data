@@ -91,3 +91,4 @@ title: Unix
 - [Replay Cron Events With Cron::Sequencer (2022)](https://leejo.github.io/2022/06/02/cron_sequencer/)
 - [ugm](https://github.com/ariasmn/ugm) - Terminal based UNIX user and group viewer.
 - [The Collapse of the UNIX Philosophy (2017)](https://kukuruku.co/post/the-collapse-of-the-unix-philosophy/)
+- [CS631 – Advanced Programming in the Unix Environment](https://stevens.netmeister.org/631/) ([HN](https://news.ycombinator.com/item?id=33140795))

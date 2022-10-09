@@ -71,3 +71,4 @@
 - [Explain the buzz around algebraic geometry (2022)](https://www.reddit.com/r/math/comments/uhuul2/can_anyone_explain_the_buzz_around_algebraic/)
 - [Perspective-n-Point: P3P (2021)](https://jingnanshi.com/blog/pnp_minimal.html)
 - [Panorama: How? (2021)](https://jingnanshi.com/blog/rotational_panorama.html)
+- [Illuminating Hyperbolic Geometry (2015)](https://www.youtube.com/watch?v=eGEQ_UuQtYs) ([HN](https://news.ycombinator.com/item?id=33128972))

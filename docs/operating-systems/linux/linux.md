@@ -610,3 +610,4 @@ title: Linux
 - [Linux Kernel 6.0 (2022)](https://news.ycombinator.com/item?id=33062252)
 - [Setting up a Nomad cluster on Linux (2022)](https://www.entropy1729.com/setting-up-a-nomad-cluster-on-linux/)
 - [Ask HN: How to get started with real-time Linux? (2022)](https://news.ycombinator.com/item?id=33058969)
+- [Running GUI Linux in a virtual machine on a Mac](https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac) ([HN](https://news.ycombinator.com/item?id=33143016))

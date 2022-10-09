@@ -1030,6 +1030,7 @@
 - [async-ratelimiter](https://github.com/microlinkhq/async-ratelimiter) - Rate limit made simple, easy, async.
 - [Error Causes](https://github.com/paralleldrive/error-causes) - Simple error handling based on standard JavaScript error cause.
 - [Fast Diff](https://github.com/jhchen/fast-diff) - Fast JavaScript string diff.
+- [Day.js](https://github.com/iamkun/dayjs) - Fast 2kB alternative to Moment.js with the same modern API. ([Web](https://day.js.org/)) ([HN](https://news.ycombinator.com/item?id=33138050))
 
 ## Links
 
@@ -1118,3 +1119,4 @@
 - [Great JS libs (2022)](https://twitter.com/ZheSolworks/status/1565852085211410432)
 - [Best practices for creating a modern npm package (2022)](https://snyk.io/blog/best-practices-create-modern-npm-package/)
 - [What do you use to find NPM packages? (2022)](https://twitter.com/MylesBorins/status/1574426427298091010)
+- [Ask HN: Why are JavaScript dependencies so messy? (2022)](https://news.ycombinator.com/item?id=33142840)

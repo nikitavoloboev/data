@@ -358,3 +358,4 @@
 - [MNT Research GmbH](https://mntre.com/)
 - [Remotery](https://github.com/Celtoys/Remotery) - Real time CPU/GPU profiler hosted in a single C file with a viewer that runs in a web browser.
 - [BBC Micro inside a PC case](https://github.com/dekuNukem/RGBeeb) ([HN](https://news.ycombinator.com/item?id=33106822))
+- [DIY out-of-band management: remote power button (2022)](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/) ([HN](https://news.ycombinator.com/item?id=33141517))

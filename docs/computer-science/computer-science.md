@@ -1,6 +1,6 @@
 # Computer Science
 
-[Functional Introduction To Computer Science](https://cs.uwaterloo.ca/~plragde/flane/FICS/), [Coding Interview University](https://github.com/jwasham/coding-interview-university), [Self learning CS](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) & [Rust CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) are great overviews of CS.
+[Missing Semester of Your CS Education](https://missing.csail.mit.edu/), [Functional Introduction To Computer Science](https://cs.uwaterloo.ca/~plragde/flane/FICS/), [Coding Interview University](https://github.com/jwasham/coding-interview-university), [Self learning CS](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) & [Rust CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) are great overviews of CS.
 
 I loved reading [Code: The Hidden Language](https://www.codehiddenlanguage.com/) book. It [explains computing very well from ground up](https://news.ycombinator.com/item?id=31696901).
 

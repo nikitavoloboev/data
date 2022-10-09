@@ -150,3 +150,4 @@ title: OCaml
 - [VSCode devcontainers for OCaml](https://github.com/avsm/ocaml-devcontainers)
 - [OCaml Exercises](https://ocaml.org/problems) ([HN](https://news.ycombinator.com/item?id=32954517))
 - [Practical OCaml, Multicore Edition (2022)](https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2)
+- [OCaml 5 is perfect prototyping language](https://twitter.com/Horusiath/status/1578991843161038853)
