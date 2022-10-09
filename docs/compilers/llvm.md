@@ -138,3 +138,4 @@ title: LLVM
 - [LLVM crash analyzer](https://github.com/cisco-open/llvm-crash-analyzer)
 - [Clam](https://github.com/seahorn/clam) - Static Analyzer for LLVM bitcode based on Abstract Interpretation.
 - [LLVM Passes for Security: A Brief Introduction](https://elmanto.github.io/posts/llvm_for_security_1_4) ([Lobsters](https://lobste.rs/s/ijzsm1/llvm_passes_for_security_brief))
+- [Smaller debug info with constructor type homing (2021)](https://blog.llvm.org/posts/2021-04-05-constructor-homing-for-debug-info/)

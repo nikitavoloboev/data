@@ -110,3 +110,5 @@
 - [Perceus: Garbage Free Reference Counting with Reuse](https://xnning.github.io/papers/perceus.pdf)
 - [CactusRef](https://github.com/artichoke/cactusref) - Cycle-Aware Reference Counting in Rust.
 - [On "correct and efficient work-stealing for weak memory models" (2022)](https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models)
+- [Untangling Lifetimes: The Arena Allocator (2022)](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator) - Making performant dynamic manual memory management in C feel almost like garbage collection. ([Lobsters](https://lobste.rs/s/l5e7oz/untangling_lifetimes_arena_allocator))
+- [Memory Safety in a Modern Systems Programming Language (2022)](https://dlang.org/blog/2022/06/21/dip1000-memory-safety-in-a-modern-system-programming-language-pt-1/)

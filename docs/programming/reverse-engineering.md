@@ -121,3 +121,4 @@
 - [Scraping data from an app: real world example (2022)](https://substack.thewebscraping.club/p/the-lab-1-scraping-data-from-an-app) ([HN](https://news.ycombinator.com/item?id=32717292))
 - [FISSURE](https://github.com/ainfosec/FISSURE) - Frequency Independent SDR-based Signal Understanding and Reverse Engineering.
 - [Hexerator](https://github.com/crumblingstatue/hexerator) - Versatile GUI hex editor focused on binary file exploration and aiding pattern recognition.
+- [Reverse Engineering a Cat Feeder to Boost Productivity](https://www.sensibledefaults.io/blog/reverse-engineering-cat-feeder/index) ([HN](https://news.ycombinator.com/item?id=33139062))

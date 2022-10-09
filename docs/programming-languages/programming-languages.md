@@ -437,3 +437,5 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [SCIP Code Intelligence Protocol](https://github.com/sourcegraph/scip) - Language-agnostic protocol for indexing source code, which can be used to power code navigation functionality such as Go to definition, Find references, and Find implementations.
 - [codestrings](https://github.com/alexferrari88/codestrings) - Extracts all the strings from your source code.
 - [The Hundred-Year Programming Language (2022)](https://codefol.io/posts/the-hundred-year-programming-language/)
+- [Simplified Piet interpreter written in Python](https://codegolf.stackexchange.com/questions/246224/simplified-piet-interpreter/246281#246281)
+- [Why is it hard to learn another programming language? (2022)](https://austinhenley.com/blog/learnanotherpl.html) ([Lobsters](https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming))
