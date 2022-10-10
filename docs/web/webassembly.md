@@ -375,3 +375,4 @@ title: WebAssembly
 - [essa-rs](https://github.com/essa-project/essa-rs) - Experimental stateful serverless programming framework based on WebAssembly.
 - [lol_alloc](https://github.com/Craig-Macomber/lol_alloc) - Laughably simple wasm global_allocator.
 - [Avoiding allocations in Rust to shrink Wasm modules (2022)](https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/) ([Reddit](https://www.reddit.com/r/rust/comments/xxvwyy/avoiding_allocations_in_rust_to_shrink_wasm/))
+- [Runno](https://runno.dev/wasi) - WASI playground for running CLI binaries in the browser. ([HN](https://news.ycombinator.com/item?id=33146686))

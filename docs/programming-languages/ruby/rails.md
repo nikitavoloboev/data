@@ -180,3 +180,4 @@ title: Rails
 - [Ruby on Rails: 3 tips for deleting data at scale (2022)](https://planetscale.com/blog/ruby-on-rails-3-tips-for-deleting-data-at-scale)
 - [A Single file Rails Application (2022)](https://greg.molnar.io/blog/a-single-file-rails-application/) ([Lobsters](https://lobste.rs/s/juzxpe/single_file_rails_application))
 - [Simplify your model code in Rails by avoiding association pollution (2022)](https://calebhearth.com/association-pollution)
+- [Security Best Practices for Your Rails Application (2022)](https://blog.appsignal.com/2022/10/05/security-best-practices-for-your-rails-application.html)

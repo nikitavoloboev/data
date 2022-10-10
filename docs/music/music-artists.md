@@ -141,7 +141,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 
 ## Interesting artists
 
-- [Nilüfer Yanya](https://niluferyanya.com/) ([Baby Luv](https://open.spotify.com/track/6P8b9TwBbPiZ0BvyPUaIYO))
+- [Nilüfer Yanya](https://niluferyanya.com/) - ([Baby Luv](https://open.spotify.com/track/6P8b9TwBbPiZ0BvyPUaIYO)) | [trouble](https://open.spotify.com/track/2mnsLfoBnXooRVrK1K50ai)
 - [Emapea](https://soundcloud.com/emapea)
 - [Only emily](https://soundcloud.com/onlyemilymusic) - [Evenings](https://soundcloud.com/onlyemilymusic/evenings)
 - [Ifan Dafydd](https://soundcloud.com/ifandafydd)

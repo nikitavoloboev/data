@@ -962,3 +962,4 @@
 - [2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds (2022)](https://arxiv.org/abs/2207.04397v2) ([Code](https://github.com/yanx27/2DPASS))
 - [PanopticDepth: A Unified Framework for Depth-aware Panoptic Segmentation (2022)](https://arxiv.org/abs/2206.00468) ([Code](https://github.com/NaiyuGao/PanopticDepth))
 - [UPIT](https://github.com/tmabraham/UPIT) - FastAI/PyTorch package for unpaired image-to-image translation.
+- [On Distillation of Guided Diffusion Models (2022)](https://arxiv.org/abs/2210.03142)
