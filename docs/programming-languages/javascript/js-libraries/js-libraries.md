@@ -79,6 +79,7 @@
 - [Swup](https://github.com/swup/swup) - Complete, flexible, extensible and easy to use page transition library for your static web.
 - [Taxi](https://github.com/craftedbygc/taxi) - Library for adding AJAX navigation and beautiful transitions to your website.
 - [Tornis](https://github.com/robb0wen/tornis) - Helps you watch and respond to changes in your browser's viewport.
+- [Tonic](https://github.com/socketsupply/tonic) - Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free. ([Web](https://tonicframework.dev/))
 
 ## Animation
 

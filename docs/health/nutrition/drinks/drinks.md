@@ -14,6 +14,8 @@ I also drink an occasional coffee although I try avoid it as it disrupts my slee
 - [Tarhun](<https://en.wikipedia.org/wiki/Tarkhuna_(drink)>)
 - [Milk Punch](https://punchdrink.com/articles/clarified-milk-punch-cocktail-recipe-has-lost-its-mind/)
 - [ChariTea mate](https://charitea.com/en/product/charitea-mate/)
+- [Negroni cocktail](https://www.giallozafferano.com/recipes/negroni-cocktail.html)
+- [Sbagliato](https://www.bonappetit.com/recipe/sbagliato)
 
 ## Notes
 

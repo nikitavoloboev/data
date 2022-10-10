@@ -92,3 +92,4 @@ title: Unix
 - [ugm](https://github.com/ariasmn/ugm) - Terminal based UNIX user and group viewer.
 - [The Collapse of the UNIX Philosophy (2017)](https://kukuruku.co/post/the-collapse-of-the-unix-philosophy/)
 - [CS631 – Advanced Programming in the Unix Environment](https://stevens.netmeister.org/631/) ([HN](https://news.ycombinator.com/item?id=33140795))
+- [How old various Unix signals are (2022)](https://utcc.utoronto.ca/~cks/space/blog/unix/SignalsHowOld)

@@ -375,3 +375,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [ReZZan](https://github.com/bajinsheng/ReZZan) - Fast memory error sanitizer for fuzzing C/C++ code.
 - [RFC: C++ Buffer Hardening (2022)](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734) ([HN](https://news.ycombinator.com/item?id=33103464))
 - [Build C++ Graph Analytics Without Worrying About Memory (2022)](https://memgraph.com/blog/build-graph-analytics-without-worrying-about-memory)
+- [Circle Quick Reference](https://www.circle-lang.org/quickref.html)

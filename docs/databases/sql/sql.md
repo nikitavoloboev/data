@@ -219,3 +219,4 @@ title: SQL
 - [SQL syntax for tree-sitter](https://github.com/m-novikov/tree-sitter-sql)
 - [SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only web app builder, empowering data analysts to build websites and applications quickly.
 - [Future Proofing SQL with Carefully Placed Errors (2022)](https://hakibenita.com/future-proof-sql)
+- [What SQL database isolation level do you run at?](https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you)

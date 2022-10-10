@@ -163,6 +163,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [A Sensible Introduction to Category Theory (2022)](https://www.youtube.com/watch?v=yAi3XWCBkDo)
 - [Space-time tradeoffs of lenses and optics via higher category theory (2022)](https://arxiv.org/abs/2209.09351)
 - [Playing with Category Theory in Lean 4](https://github.com/forked-from-1kasper/lean4-categories)
+- [What A General Diagonal Argument Looks Like (Category Theory) (2022)](https://www.youtube.com/watch?v=dwNxVpbEVcc)
 
 ## Images
 
