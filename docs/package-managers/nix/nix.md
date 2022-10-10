@@ -419,3 +419,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Construction and analysis of the build and runtime dependency graph of nixpkgs (2022)](https://www.tweag.io/blog/2022-09-13-nixpkgs-graph/)
 - [Using Nix to run software with no installation steps (2022)](https://determinate.systems/posts/nix-run)
 - [Garnix](https://garnix.io/) - Fast and easy CI for Nix. ([HN](https://news.ycombinator.com/item?id=33131480))
+- [NixPak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix.

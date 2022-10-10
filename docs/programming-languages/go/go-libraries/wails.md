@@ -22,4 +22,4 @@ title: Wails
 - [HN: Wails (2022)](https://news.ycombinator.com/item?id=32080899)
 - [Wails v2 Examples](https://github.com/tataDan/wails-v2-examples)
 - [Wails v2 Released (2022)](https://wails.io/blog/wails-v2-released/) ([Reddit](https://www.reddit.com/r/golang/comments/xknc4p/announcement_wails_v2_released/)) ([HN](https://news.ycombinator.com/item?id=32953811))
-- [Wails Build Action](https://github.com/cryptodeal/wails-build-action)
+- [Wails Build Action](https://github.com/cryptodeal/wails-build-action-bun)

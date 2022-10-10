@@ -71,4 +71,4 @@
 - [Newton's fractal](https://github.com/alordash/newton-fractal) - Drawing Newton's fractal using js, wasm, SIMD commands, threads and GPU.
 - [SwiftUI Fractals](https://github.com/Zeta611/SwiftUI-Fractals) - Sierpinski carpet, triangle, and a fractal tree using SwiftUI.
 - [3D fractal explorer](https://github.com/sjoerd-code/mandelbulb)
-- [Fractal Garden](https://www.fractal.garden/) - Exhibition of Mathematical Beauty. ([HN](https://news.ycombinator.com/item?id=33144556))
+- [Fractal Garden](https://www.fractal.garden/) - Exhibition of Mathematical Beauty. ([HN](https://news.ycombinator.com/item?id=33144556)) ([Code](https://github.com/trebeljahr/fractal-garden))

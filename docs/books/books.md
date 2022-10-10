@@ -586,3 +586,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [3x new books added to the Pirate Library Mirror (+24TB, 3.8M books)](http://annas-blog.org/blog-3x-new-books.html) ([HN](https://news.ycombinator.com/item?id=32972923))
 - [Why read Dostoevsky? A programmer's perspective](https://fhur.me/posts/why-read-dostoevsky) ([HN](https://news.ycombinator.com/item?id=33032708))
 - [Compelling Science Fiction Newsletter](https://compellingsciencefiction.com/)
+- [Cheap Books](https://www.pagesonpages.com/) - Finds the cheapest place to buy a book. ([HN](https://news.ycombinator.com/item?id=33147079))

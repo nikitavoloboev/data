@@ -459,3 +459,4 @@
 - [Offline Internet Archive](https://github.com/internetarchive/dweb-mirror)
 - [Web Quality Assurance: From User Requirements To Web Risk Management (2021)](https://www.smashingmagazine.com/2021/09/journey-into-web-quality-assurance/)
 - [Ask HN: Getting tired of complexity in web development (2022)](https://news.ycombinator.com/item?id=33134021)
+- [Web Frameworks](https://github.com/StillScripts/web-frameworks) - Simple components showing differences in each major frontend web framework.

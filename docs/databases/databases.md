@@ -699,3 +699,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [The next generation of Materialize (2022)](https://materialize.com/blog/next-generation/) ([HN](https://news.ycombinator.com/item?id=33067345))
 - [A Streaming Database (2021)](https://github.com/frankmcsherry/blog/blob/master/posts/2021-06-28.md)
 - [Don’t make databases available on the public internet. Use pgproxy (2022)](https://tailscale.com/blog/introducing-pgproxy/)
+- [Hera](https://github.com/paypal/hera) - High Efficiency Reliable Access to data stores.

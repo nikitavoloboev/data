@@ -402,3 +402,4 @@
 - [Arun's Method for 3D Registration (2021)](https://jingnanshi.com/blog/arun_method_for_3d_reg.html)
 - [Lánczos interpolation explained (2022)](https://mazzo.li/posts/lanczos.html)
 - [Efficient and Near-Optimal Online Portfolio Selection (2022)](https://arxiv.org/abs/2209.13932)
+- [Engineering Math: Vector Calculus and Partial Differential Equations](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S)

@@ -831,3 +831,4 @@ title: Kubernetes
 - [MicroShift](https://github.com/openshift/microshift) - Small form factor OpenShift/Kubernetes optimized for edge computing.
 - [Konf](https://github.com/SimonTheLeg/konf-go) - Lightweight kubeconfig Manager.
 - [crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files.
+- [CKAD Exercises](https://github.com/dgkanatsios/CKAD-exercises) - Set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation.
