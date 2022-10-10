@@ -202,3 +202,4 @@ title: Genomics
 - [Two-layer design protects genes from mutations in their enhancers (2022)](https://www.nature.com/articles/d41586-022-02341-3)
 - [The Era of Fast, Cheap Genome Sequencing Is Here (2022)](https://www.wired.com/story/the-era-of-fast-cheap-genome-sequencing-is-here/)
 - [EggNOG-mapper](https://github.com/eggnogdb/eggnog-mapper) - Tool for fast functional annotation of novel sequences.
+- [RNA Sequencing - Building your own pipeline from scratch (2022)](https://www.youtube.com/watch?v=PlqDQBl22DI)

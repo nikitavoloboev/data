@@ -96,3 +96,4 @@ And here are Chrome extensions I use:
 - [Google Chrome for AWS Lambda as a layer](https://github.com/shelfio/chrome-aws-lambda-layer) - 45 MB Google Chrome to fit inside AWS Lambda Layer compressed with Brotli.
 - [Chroxy](https://github.com/holsee/chroxy) - Headless Chrome as a Service.
 - [Chrome Extension Boilerplate with React + Vite + TypeScript](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)
+- [chrome-types](https://github.com/GoogleChrome/chrome-types) - Code to parse Chrome's internal extension type definitions.

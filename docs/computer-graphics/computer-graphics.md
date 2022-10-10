@@ -249,3 +249,4 @@
 - [VoxelChain](https://voxelchain.app/) - Create interactive voxel worlds in the browser. ([HN](https://news.ycombinator.com/item?id=32737513))
 - [Parallel Curves of Cubic Béziers (2022)](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html) ([HN](https://news.ycombinator.com/item?id=32784491))
 - [Algebraic Geometry for Computer Graphics](https://courses.cs.washington.edu/courses/cse590b/13au/) ([HN](https://news.ycombinator.com/item?id=33133369))
+- [Rendu](https://github.com/kosua20/Rendu) - Simple real time graphics playground for experimentations.

@@ -308,3 +308,4 @@ title: Swift
 - [SwiftLSP](https://github.com/flowtoolz/SwiftLSP) - Language Server Protocol in Swift.
 - [Swift for JavaScript Developers Course](https://www.swiftforjs.dev/)
 - [Thread Sanitizer explained: Data Races in Swift (2022)](https://www.avanderlee.com/swift/thread-sanitizer-data-races/)
+- [Swift was always going to be part of the OS (2022)](https://belkadan.com/blog/2022/10/Swift-in-the-OS/)

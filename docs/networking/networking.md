@@ -531,3 +531,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [GoFlow2](https://github.com/netsampler/goflow2) - NetFlow/IPFIX/sFlow collector in Go. Gathers network information (IP, interfaces, routers) from different flow protocols, serializes it in a common format.
 - [SONiC](https://sonic-net.github.io/SONiC/) - Open source network operating system based on Linux that runs on switches from multiple vendors and ASICs. ([Web Code](https://github.com/sonic-net/SONiC))
 - [A Cheap 2.5GbE PoE Unmanaged Switch (2022)](https://www.servethehome.com/the-ultimate-cheap-2-5gbe-poe-unmanaged-switch-hasivo-s1100p-8gt/) ([HN](https://news.ycombinator.com/item?id=33129007))
+- [Country IP Blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.

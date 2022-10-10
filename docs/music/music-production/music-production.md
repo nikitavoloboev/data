@@ -423,3 +423,4 @@
 - [AMY](https://github.com/bwhitman/amy) - Additive Music synthesizer librarY.
 - [pizMidi plugins](https://github.com/sleiner/pizmidi) - Collection of helpful tools when working with MIDI.
 - [Model 450i - Klavins Piano](https://klavins-pianos.com/products/model-450i/) ([In Use](https://www.youtube.com/watch?v=c8veLuNmQbI))
+- [MIDI Visualizer](https://github.com/kosua20/MIDIVisualizer) - Small MIDI visualizer tool, using OpenGL.

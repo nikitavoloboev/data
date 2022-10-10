@@ -178,6 +178,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Jingnan Shi](https://jingnanshi.com/blog/index.html)
 - [hardmaru](https://blog.otoro.net/archive.html)
 - [Nil Coalescing](https://nilcoalescing.com/blog/)
+- [Jordan Rose](https://belkadan.com/blog/)
 
 ## Notes
 
