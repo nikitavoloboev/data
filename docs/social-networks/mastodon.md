@@ -43,3 +43,4 @@ title: Mastodon
 - [Mastodon IP anonymization (2022)](https://libreops.cc/2022/05/09/mastodon/)
 - [Sengi](https://github.com/NicolasConstant/sengi) - Mastodon & Pleroma Multi-account Desktop Client.
 - [Mastodon.technology Shutdown (2022)](https://ashfurrow.com/blog/mastodon-technology-shutdown/) ([HN](https://news.ycombinator.com/item?id=33120136)) ([Tweet](https://twitter.com/simonw/status/1578445374372528129))
+- [Migrating a Mastodon Account (2022)](https://codingitwrong.com/2022/10/10/migrating-a-mastodon-account.html)

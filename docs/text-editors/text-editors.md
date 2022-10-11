@@ -52,7 +52,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Amp](https://amp.rs/) - Complete text editor for your terminal. ([Code](https://github.com/jmacdonald/amp))
 - [Atlas](http://atlasengineering.io/) - Hopefully better engineering IDE. ([HN](https://news.ycombinator.com/item?id=27112529))
 - [Noto](https://github.com/brunophilipe/Noto) - Beautiful and simple plain text editor for macOS written in Swift.
-- [Helix](https://github.com/helix-editor/helix) - Post-modern modal text editor. ([Web](https://helix-editor.com/)) ([HN](https://news.ycombinator.com/item?id=27358479))
+- [Helix](https://github.com/helix-editor/helix) - Post-modern modal text editor. ([Web](https://helix-editor.com/)) ([HN](https://news.ycombinator.com/item?id=27358479)) ([HN](https://news.ycombinator.com/item?id=33147270))
 - [Tofu](https://tofu.is/) - Exploration in fluid code editing. ([Code](https://github.com/Gregoor/tofu))
 - [ReVi](https://github.com/revi-editor/revi) - Vim inspired text editor.
 - [vis](https://github.com/martanne/vis) - Vi-like editor based on Plan 9's structural regular expressions.

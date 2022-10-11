@@ -228,3 +228,4 @@ title: Generative adversarial networks
 - [text2StyleGAN](https://github.com/duxiaodan/Fast_text2StyleGAN) - Natural language interface that adapts pre-trained GANs for text-guided human face synthesis.
 - [Conditional GANs with Auxiliary Discriminative Classifier (2022)](https://arxiv.org/abs/2107.10060) ([Code](https://github.com/houliangict/adcgan))
 - [Improving GAN Equilibrium by Raising Spatial Awareness (2022)](https://arxiv.org/abs/2112.00718) ([Code](https://github.com/genforce/eqgan-sa))
+- [ReSeFa: Region-Based Semantic Factorization in GANs (2022)](https://zhujiapeng.github.io/resefa/) ([Code](https://github.com/zhujiapeng/resefa))

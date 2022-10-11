@@ -662,3 +662,4 @@
 - [SpeechCLIP: Integrating Speech with Pre-Trained Vision and Language Model (2022)](https://arxiv.org/abs/2210.00705) ([Code](https://github.com/atosystem/SpeechCLIP))
 - [End-to-end Neural Coreference Resolution in spaCy (2022)](https://explosion.ai/blog/coref)
 - [Ask Me Anything: A simple strategy for prompting language models](https://github.com/HazyResearch/ama_prompting)
+- [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval (2022)](https://arxiv.org/abs/2201.12431) ([Code](https://github.com/neulab/knn-transformers))

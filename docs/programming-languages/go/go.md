@@ -864,3 +864,4 @@ if err != nil {
 - [Redefining for Loop Variable Semantics](https://github.com/golang/go/discussions/56010) ([Lobsters](https://lobste.rs/s/dekhpe/redefining_for_loop_variable_semantics))
 - [How to build a WaitGroup from a 32-bit integer (2022)](https://nullprogram.com/blog/2022/10/05/)
 - [Rapid prototyping in Go (2022)](https://twitter.com/alexellisuk/status/1578664386465759235)
+- [Go: Redefining For Loop Variable Semantics](https://github.com/golang/go/discussions/56010) ([HN](https://news.ycombinator.com/item?id=33160236))

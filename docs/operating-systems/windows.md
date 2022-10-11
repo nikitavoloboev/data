@@ -56,3 +56,4 @@
 - [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater)
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Deep Packet Inspection circumvention utility (for Windows).
 - [Windows equivalents for common Mac dev tools (2022)](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev)
+- [How Wine works 101 (2022)](https://werat.dev/blog/how-wine-works-101/) ([HN](https://news.ycombinator.com/item?id=33156727))

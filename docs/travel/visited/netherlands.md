@@ -49,3 +49,4 @@ Amsterdam is my favorite city I've lived in thus far. I love how every city in N
 - [Romantic trip to a dutch city](https://www.reddit.com/r/Netherlands/comments/we7xfx/romentic_trip_to_a_dutch_city/)
 - [What's wrong with the Netherlands? (2022)](https://www.reddit.com/r/Netherlands/comments/x79u6y/theres_bad_in_every_good_whats_wrong_with_the/)
 - [NL situation around energy crisis (2022)](https://www.reddit.com/r/Netherlands/comments/xdiu4q/so_all_this_what_is_happening_right_now_is/)
+- [Book about the history of The Netherlands (2022)](https://www.reddit.com/r/Netherlands/comments/y0a0ef/book_about_the_history_of_the_netherlands/)

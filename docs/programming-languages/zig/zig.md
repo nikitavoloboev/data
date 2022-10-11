@@ -146,4 +146,4 @@ title: Zig
 - [Virtual tables with zig-sqlite (2022)](https://rischmann.fr/blog/virtual-tables-with-zig-sqlite)
 - [Nix Flake for Zig](https://github.com/mitchellh/zig-overlay)
 - [What Makes the Zig Programming Language Unique? (2022)](https://erikexplores.substack.com/p/what-makes-the-zig-programming-language) ([HN](https://news.ycombinator.com/item?id=33103267))
-- [Zig-style generics are not well-suited for most languages (2022)](https://typesanitizer.com/blog/zig-generics.html) ([Tweet](https://twitter.com/typesanitizer/status/1578992328638754816)) ([HN](https://news.ycombinator.com/item?id=33142751))
+- [Zig-style generics are not well-suited for most languages (2022)](https://typesanitizer.com/blog/zig-generics.html) ([Tweet](https://twitter.com/typesanitizer/status/1578992328638754816)) ([HN](https://news.ycombinator.com/item?id=33142751)) ([Lobsters](https://lobste.rs/s/jktewn/zig_style_generics_are_not_well_suited_for))

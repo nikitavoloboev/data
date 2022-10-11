@@ -17,3 +17,4 @@ title: DuckDB
 - [Querying Postgres Tables Directly from DuckDB (2022)](https://duckdb.org/2022/09/30/postgres-scanner.html) ([HN](https://news.ycombinator.com/item?id=33035803))
 - [DuckDB Postgres scanner extension](https://github.com/duckdblabs/postgres_scanner) - Extension allows DuckDB to directly read data from a running Postgres instance.
 - [Duckegg](https://github.com/philzook58/duckegg) - Embedded python datalog implementation built around DuckDB to supply it's core functionality.
+- [Running DuckDB in production (2022)](https://twitter.com/bernhardsson/status/1579460027907444738)
