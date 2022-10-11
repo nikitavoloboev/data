@@ -268,3 +268,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [System Design Course](https://github.com/karanpratapsingh/system-design)
 - [Ask HN: Companies of one, what is your tech stack? (2022)](https://news.ycombinator.com/item?id=32960033)
 - [Ask HN: Solo Dev Stack of 2022?](https://news.ycombinator.com/item?id=33046696)
+- [12 Factor App Revisited (2022)](https://architecturenotes.co/12-factor-app-revisited/)

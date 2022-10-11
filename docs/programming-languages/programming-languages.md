@@ -439,3 +439,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [The Hundred-Year Programming Language (2022)](https://codefol.io/posts/the-hundred-year-programming-language/)
 - [Simplified Piet interpreter written in Python](https://codegolf.stackexchange.com/questions/246224/simplified-piet-interpreter/246281#246281)
 - [Why is it hard to learn another programming language? (2022)](https://austinhenley.com/blog/learnanotherpl.html) ([Lobsters](https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming))
+- [When to Use Memory Safe Languages (2022)](https://verdagon.dev/blog/when-to-use-memory-safe-part-1) ([Lobsters](https://lobste.rs/s/strz2g/when_use_memory_safe_languages))

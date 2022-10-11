@@ -390,7 +390,7 @@ I want to:
 - [TiddlyWiki](https://tiddlywiki.com/) - Non-linear personal web notebook. ([Code](https://github.com/Jermolene/TiddlyDesktop))
 - [Notes with TiddlyWiki](http://beza1e1.tuxen.de/tiddlywiki_notes.html)
 - [Rekowl](https://rekowl.com/) - You personal knowledge library.
-- [nb](https://github.com/xwmx/nb) - CLI plain-text notes & bookmarks with Git, sync, encryption, and more. ([HN](https://news.ycombinator.com/item?id=24709393)) ([Docs](https://xwmx.github.io/nb/))
+- [nb](https://github.com/xwmx/nb) - CLI plain-text notes & bookmarks with Git, sync, encryption, and more. ([HN](https://news.ycombinator.com/item?id=24709393)) ([Docs](https://xwmx.github.io/nb/)) ([HN](https://news.ycombinator.com/item?id=33130060))
 - [NoteApps](https://www.noteapps.info/) - Encyclopedia of note taking apps. ([Launch Notes](https://www.noteapps.info/launch_note)) ([Lobsters](https://lobste.rs/s/uii8of/noteapps_info_launch_notes))
 - [Organising knowledge with multi-level content: Making knowledge easier to understand, remember and communicate (2018)](https://www.francismiller.com/organising_knowledge_paper.pdf)
 - [Zetteldeft](https://github.com/EFLS/zetteldeft) - Emacs package for a Zettelkasten system.
