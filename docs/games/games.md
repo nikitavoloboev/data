@@ -236,7 +236,8 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Ask HN: Which programming games helped you become a better programmer? (2022)](https://news.ycombinator.com/item?id=31631831)
 - [Great video games made by Russians (2022)](https://www.reddit.com/r/AskARussian/comments/w1pjfa/any_goodgreat_video_games_made_by_russians_youd/)
 - [Favorite RTS title of all time, and why? (2022)](https://www.reddit.com/r/RealTimeStrategy/comments/wm22fq/favorite_title_of_all_time_and_why/)
-- [(2) What game receive a lot of hate but you absolutely love (2022)](https://www.reddit.com/r/gaming/comments/xeqval/what_game_receive_a_lot_of_hate_but_you/)
+- [What game receive a lot of hate but you absolutely love (2022)](https://www.reddit.com/r/gaming/comments/xeqval/what_game_receive_a_lot_of_hate_but_you/)
+- [Suggestions for a fun open world game I can get lost in (2022)](https://www.reddit.com/r/PS5/comments/y0j90a/any_suggestions_for_a_fun_open_world_game_i_can/)
 
 ## Links
 

@@ -134,3 +134,4 @@
 - [Tools for tag-based file management? | Lobsters](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management)
 - [Flexible File system](https://github.com/creachadair/ffs)
 - [polyfuse](https://github.com/ubnt-intrepid/polyfuse) - FUSE (Filesystem in Userspace) library for Rust.
+- [Linux NILFS file system: automatic continuous snapshots (2022)](https://dataswamp.org/~solene/2022-10-05-linux-nilfs-filesystem.html) ([HN](https://news.ycombinator.com/item?id=33162259))

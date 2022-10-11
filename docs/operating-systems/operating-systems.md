@@ -385,3 +385,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Can I Use a System Call? | Cosmopolitan Libc](https://justine.lol/cosmopolitan/functions.html) ([Lobsters](https://lobste.rs/s/hdbb22/can_i_use_system_call)) ([HN](https://news.ycombinator.com/item?id=32920227))
 - [Ask HN: Examples of Microkernels? (2022)](https://news.ycombinator.com/item?id=33078441)
 - [Operating systems that is a runtime of a programming language](https://www.reddit.com/r/ProgrammingLanguages/comments/xyrah5/is_there_an_operating_systems_that_is_a_runtime/)
+- [If a brand new OS shipped tomorrow, what about it would make you excited?](https://twitter.com/rsms/status/1579478016245526530)

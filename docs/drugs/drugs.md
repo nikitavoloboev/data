@@ -79,3 +79,4 @@ Only 'hard' drugs I partake in are [psychedelics](psychedelics/psychedelics.md).
 - [Which drug provide the greatest music enhancement for you? (2022)](https://www.reddit.com/r/Drugs/comments/wiuccv/which_drug_provide_the_greatest_music_enhancement/)
 - [What is the most intense drug out there? (2022)](https://www.reddit.com/r/Drugs/comments/x59t5q/in_your_opinion_what_is_the_most_intense_drug_out/)
 - [What is truly the worst drug withdrawal there is? (2022)](https://www.reddit.com/r/Drugs/comments/xc0gsz/what_is_truly_the_worst_drug_withdrawal_there_is/)
+- [Best drug for just chilling in ur room listening to music/playing video games?](https://www.reddit.com/r/Drugs/comments/y0g3iv/best_drug_for_just_chilling_in_ur_room_listening/)

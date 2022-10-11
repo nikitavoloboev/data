@@ -700,3 +700,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [A Streaming Database (2021)](https://github.com/frankmcsherry/blog/blob/master/posts/2021-06-28.md)
 - [Don’t make databases available on the public internet. Use pgproxy (2022)](https://tailscale.com/blog/introducing-pgproxy/)
 - [Hera](https://github.com/paypal/hera) - High Efficiency Reliable Access to data stores.
+- [Low-Latency Distributed Data Strategies at P99 CONF: SQL, NoSQL & Event Streaming (2022)](https://www.scylladb.com/2022/10/07/low-latency-distributed-data-strategies-at-p99-conf-sql-nosql-event-streaming/)

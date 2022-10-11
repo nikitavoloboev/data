@@ -279,6 +279,10 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 - [Endwise](https://github.com/tpope/vim-endwise) - Wisely add "end" in ruby, endfunction/endif/more in vim script, etc.
 
+## Nix
+
+- [telescope-manix](https://github.com/mrcjkb/telescope-manix) - Fast documentation searcher for Nix.
+
 ## Reason
 
 - [vim-reasonml](https://github.com/jordwalke/vim-reasonml) - Esy + vim + reason +the latest Merlin.

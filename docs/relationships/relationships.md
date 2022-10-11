@@ -283,3 +283,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [Best romantic movies you ever seen (2022)](https://www.reddit.com/r/MovieSuggestions/comments/xqv1oa/best_romantic_movies_you_ever_seen/)
 - [What is something you wish you knew before getting into a long term relationship? (2022)](https://www.reddit.com/r/AskWomen/comments/xsua4f/what_is_something_you_wish_you_knew_before/)
 - [What’s a red flag you wish you didn’t ignore? (2022)](https://www.reddit.com/r/NarcissisticAbuse/comments/xw9pp8/whats_a_red_flag_you_wish_you_didnt_ignore/)
+- [What do you crave most in your relationships?](https://www.reddit.com/r/AskWomen/comments/xzy04d/what_do_you_crave_most_in_your_relationships/)
