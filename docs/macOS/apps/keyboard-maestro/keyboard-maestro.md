@@ -56,3 +56,4 @@ I share [all the macros I use](km-macros.md) with the app.
 - [Archiving and version control for Keyboard Maestro (2021)](https://robservatory.com/archiving-and-version-control-for-keyboard-maestro/)
 - [Design Maestro](https://dmaestro.webflow.io/) - Automate your design workflow.
 - [Alfred - Conductor for Keyboard Maestro](https://www.thoughtasylum.com/alfred/alfred_conductor_for_keyboard_maestro/)
+- [How to use conflict palettes in Keyboard Maestro (2022)](https://tinyautomations.com/posts/2022-09-25-How-to-use-conflict-palettes-in-Keyboard-Maestro)
