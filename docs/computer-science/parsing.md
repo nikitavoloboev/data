@@ -123,3 +123,4 @@
 - [Yap](https://github.com/jsdw/yap) - Parser library for Rust.
 - [pratt](https://github.com/segeljakt/pratt) - General Purpose Pratt Parser for Rust.
 - [Let's write a JSON parser in Rust](https://github.com/ericseppanen/json-parser-toy)
+- [Katydid](https://github.com/katydid/katydid) - Encoding Agnostic Validation (Validation Language, Parsers and Encoders).

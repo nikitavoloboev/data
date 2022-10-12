@@ -127,3 +127,4 @@ title: GPU
 - [Nvidia GPU exporter for Prometheus](https://github.com/utkuozdemir/nvidia_gpu_exporter)
 - [CoreWeave](https://coreweave.com/) - GPU Cloud.
 - [Banana](https://www.banana.dev/) - Machine Learning Model Deployment on Serverless GPUs. ([Twitter](https://twitter.com/BananaDev_))
+- [Reverse Engineering a GPU from 2009 (2022)](https://garnet.codeberg.page/posts/gpu-reversing/)

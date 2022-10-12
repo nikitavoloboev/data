@@ -57,7 +57,7 @@
 - [remark-vdom](https://github.com/remarkjs/remark-vdom) - Plugin to compile Markdown to Virtual DOM.
 - [Remark](https://remark.js.org/) - Markdown processor powered by plugins. ([GitHub](https://github.com/remarkjs)) ([Code](https://github.com/remarkjs/remark))
 - [Awesome Remark](https://github.com/remarkjs/awesome-remark)
-- [markdownlint](https://github.com/DavidAnson/markdownlint) - Node.js style checker and lint tool for Markdown/CommonMark files.
+- [MarkdownLint](https://github.com/DavidAnson/markdownlint) - Node.js style checker and lint tool for Markdown/CommonMark files. ([CLI](https://github.com/igorshubovych/markdownlint-cli))
 - [CommonMark](https://github.com/MichaelHatherly/CommonMark.jl) - CommonMark-compliant parser for Julia.
 - [Blackfriday](https://github.com/russross/blackfriday) - Markdown processor implemented in Go.
 - [StrictMark: Markdown Refactored](http://doc.replicated.cc/^Wiki/strictmark.sm)

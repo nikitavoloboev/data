@@ -316,3 +316,4 @@
 - [10 Days Of Grad: Deep Learning From The First Principles](https://penkovsky.com/neural-networks/) ([Code](https://github.com/konn/dl-first-principle-tutorial))
 - [Tesla AI Day 2022 Neural Net](https://twitter.com/OriolVinyalsML/status/1576551879039127555)
 - [Building makemore Part 2: MLP (2022)](https://www.youtube.com/watch?v=TCH_1BHY58I) ([Tweet](https://twitter.com/michael_nielsen/status/1578213041836957696))
+- [Mega: Moving Average Equipped Gated Attention (2022)](https://github.com/facebookresearch/mega)
