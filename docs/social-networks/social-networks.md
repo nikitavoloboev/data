@@ -174,3 +174,4 @@ I think what Twitter is doing with [Bluesky](https://twitter.com/bluesky) is pre
 - [TikTok and the Fall of the Social-Media Giants (2022)](https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-fall-of-the-social-media-giants) ([HN](https://news.ycombinator.com/item?id=32273083))
 - [The unlikely odds of making it big on TikTok (2022)](https://pudding.cool/2022/07/tiktok-story/) ([HN](https://news.ycombinator.com/item?id=32280407))
 - [Is this the end of social networking? (2022)](https://reb00ted.org/tech/20220727-end-of-social-networking/) ([HN](https://news.ycombinator.com/item?id=32430182))
+- [Due to social media people no longer want to go through the stages of life](https://twitter.com/NonhleBeryl/status/1579571242914713600)

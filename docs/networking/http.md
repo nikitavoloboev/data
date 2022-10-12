@@ -22,6 +22,7 @@ title: HTTP
 
 - [HTTP return codes cheat sheet: 1** Hold on 2** Here you go 3** Go away 4** You fucked up 5\*\* I fucked up](https://twitter.com/anthilemoon/status/1105972205568094208)
 - [`jo | curl --json | jq` is great.](https://twitter.com/bagder/status/1489728548151701507)
+- [Best HTTP API is one that provides me a client in the language I am using](https://twitter.com/oleg008/status/1580246442240663552)
 
 ## Links
 

@@ -914,3 +914,4 @@ title: Rust
 - [Hard Mode Rust (2022)](https://matklad.github.io/2022/10/06/hard-mode-rust.html) ([Reddit](https://www.reddit.com/r/rust/comments/xx7xci/blog_post_hard_mode_rust/)) ([Lobsters](https://lobste.rs/s/gmxvun/hard_mode_rust))
 - [You can't "turn off the borrow checker" in Rust (2018)](https://steveklabnik.com/writing/you-can-t-turn-off-the-borrow-checker-in-rust)
 - [EuroRust](https://eurorust.eu/) ([Twitter](https://twitter.com/euro_rust))
+- [Rust Atomics and Locks: Low-Level Concurrency in Practice (2022)](https://www.oreilly.com/library/view/rust-atomics-and/9781098119430/)

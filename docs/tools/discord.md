@@ -193,3 +193,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Discord adds new “Forum” channels (2022)](https://discord.com/blog/forum-channels-space-for-organized-conversation) ([HN](https://news.ycombinator.com/item?id=32839626))
 - [Building a Discord bot in Rust (2022)](https://www.shuttle.rs/blog/2022/09/14/serentity-discord-bot) ([HN](https://news.ycombinator.com/item?id=33019573))
 - [Vencord](https://github.com/Vendicated/Vencord) - Discord Desktop Clientmod.
+- [Nice alternatives to Discord](https://twitter.com/jerodsanto/status/1580200810449096704)
