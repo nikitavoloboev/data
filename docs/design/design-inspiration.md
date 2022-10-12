@@ -968,7 +968,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Henry's Zoo](https://www.henryzoo.com/) - Simple.
 - [Karolina](https://thefox.is/)
 - [Gwern.net](https://www.gwern.net/index) ([Code](https://github.com/gwern/gwern.net))
-- [Melanie Richards](https://melanie-richards.com/)
+- [Melanie Richards](https://melanie-richards.com/) ([2022 redesign](https://melanie-richards.com/blog/website-redesign-2022/))
 - [Andy Grove](https://andygrove.io/)
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
 - [Frederique Matti](https://frederiquematti.com/)

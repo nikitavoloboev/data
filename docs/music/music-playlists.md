@@ -29,3 +29,4 @@ I share music I liked on SoundCloud on [my profile](https://soundcloud.com/nikit
 - [Spottydata](https://www.spottydata.com/) - Spotify Playlist Analyzer. ([Code](https://github.com/NLeRoy917/spottydata))
 - [Spotify Playlist Archive](https://github.com/mackorone/spotify-playlist-archive) - Daily snapshots of public Spotify playlists.
 - [Automatically Archive Spotify Discover Weekly History](https://rile.yt/rediscover)
+- [Spotify Playlist Lookup](https://playlists.dags.dev/) - Lets users find playlists by songs they contain. ([HN](https://news.ycombinator.com/item?id=33150086))

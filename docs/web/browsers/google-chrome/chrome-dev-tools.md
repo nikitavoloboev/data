@@ -18,6 +18,7 @@ title: Chrome DevTools
 - [You can dynamically insert console.logs without touching your code. Just right-click on the line and choose "logpoint", enter the variables you want to log and hit Enter.](https://twitter.com/marvinhagemeist/status/1527356830757933058)
 - [Holding the shift key while hovering over a request on Chrome DevTools will highlight the initiator in green and dependencies in red.](https://twitter.com/guaca/status/1544967782206431234)
 - [To avoid seeing errors from extensions in Chrome DevTools, check 'Selected context only'](https://twitter.com/sw12/status/1545475163201978368)
+- [See which CSS props has no visual effects and understand why is that so](https://twitter.com/jecfish/status/1580135502635671552)
 
 ## Links
 

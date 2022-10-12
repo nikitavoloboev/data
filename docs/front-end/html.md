@@ -91,7 +91,7 @@ Hi<div>oh no break</div>
 - [MVP.css](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements. No class names, no frameworks, just semantic HTML. ([Code](https://github.com/andybrewer/mvp)) ([HN](https://news.ycombinator.com/item?id=32805334))
 - [HTML DOM](https://htmldom.dev/) - Common tasks of managing HTML DOM with vanilla JavaScript. ([Code](https://github.com/phuoc-ng/html-dom)) ([HN](https://news.ycombinator.com/item?id=22758218))
 - [hyper(HTML)](https://github.com/WebReflection/hyperHTML) - Fast & Light Virtual DOM Alternative available for Node.js and NativeScript too.
-- [Open Graph Image as a Service](https://github.com/vercel/og-image) - Serverless service that generates dynamic Open Graph images that you can embed in your <meta\> tags.
+- [Open Graph Image as a Service](https://og-image.vercel.app/) - Serverless service that generates dynamic Open Graph images that you can embed in your <meta\> tags. ([Code](https://github.com/vercel/og-image)) ([Intro](https://vercel.com/blog/introducing-vercel-og-image-generation-fast-dynamic-social-card-images)) ([HN](https://news.ycombinator.com/item?id=33155829))
 - [Responsive Images the Simple Way (2020)](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
 - [sahtml-query](https://github.com/mdevils/sahtml-query) - Fast and low memory query API for HTML (node.js).
 - [HTML is more complicated than you think (2020)](https://www.tempertemper.net/blog/html-is-more-complicated-than-you-think)
@@ -292,3 +292,4 @@ Hi<div>oh no break</div>
 - [7 Cool HTML Elements Nobody Uses (2022)](https://tapajyoti-bose.medium.com/7-cool-html-elements-nobody-uses-436598d85668)
 - [Templating in HTML (2022)](https://kittygiraudel.com/2022/09/30/templating-in-html/) ([HN](https://news.ycombinator.com/item?id=33085976))
 - [Learn HTML](https://web.dev/learn/html/)
+- [Understanding HTML with Large Language Models (2022)](https://arxiv.org/abs/2210.03945) ([HN](https://news.ycombinator.com/item?id=33168043))

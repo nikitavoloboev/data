@@ -80,3 +80,4 @@ Nuclear energy [gets a bad reputation but its the future of renewable energy](ht
 - [Why are nuclear power construction costs so high? (2022)](https://constructionphysics.substack.com/p/why-are-nuclear-power-construction) ([HN](https://news.ycombinator.com/item?id=33039562))
 - [Many scientists see fusion as the future of energy (2022)](https://www.nationalgeographic.co.uk/science-and-technology/2022/10/many-scientists-see-fusion-as-the-future-of-energy-and-theyre-betting-big) ([HN](https://news.ycombinator.com/item?id=33097663))
 - [BYU profs create new nuclear reactor to produce nuclear energy more safely (2022)](https://news.byu.edu/byu-profs-create-safer-system-to-produce-nuclear-energy) ([HN](https://news.ycombinator.com/item?id=33114284))
+- [France looks into increasing uranium enrichment capacity (2022)](https://www.world-nuclear-news.org/Articles/France-looks-into-increasing-uranium-enrichment-ca) ([HN](https://news.ycombinator.com/item?id=33164284))

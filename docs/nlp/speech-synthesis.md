@@ -92,3 +92,4 @@
 - [Awesome Singing Voice Synthesis and Singing Voice Conversion](https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion)
 - [LPCNet](https://github.com/xiph/LPCNet) - Efficient neural speech synthesis.
 - [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/) ([HN](https://news.ycombinator.com/item?id=33039203))
+- [Ask HN: Best free text-to-speech plugins for browsers? (2022)](https://news.ycombinator.com/item?id=33163751)

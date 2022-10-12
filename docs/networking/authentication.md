@@ -207,6 +207,7 @@
 - [oauth2l](https://github.com/google/oauth2l) - Simple CLI for interacting with Google API authentication.
 - [ed25519-login](https://github.com/62726164/ed25519-login) - Login to websites using a base64 encoded Ed25519 signature. Simple alternative to webauthn. ([HN](https://news.ycombinator.com/item?id=30483727))
 - [Supabase Auth Helpers](https://github.com/supabase-community/supabase-auth-helpers)
+- [Supabase Auth UI](https://github.com/supabase-community/auth-ui)
 - [You probably don't need OAuth2 / OpenID Connect (2022)](https://www.ory.dev/oauth2-openid-connect-do-you-need-use-cases-examples/) ([HN](https://news.ycombinator.com/item?id=30514560))
 - [Why Single Sign on Sucks (2022)](https://goteleport.com/blog/why-sso-sucks/) ([HN](https://news.ycombinator.com/item?id=30646081))
 - [Online JWT tool](https://dinochiesa.github.io/jwt/) - JWT Decoder, Verifier, Generator, Decryptor. ([Code](https://github.com/DinoChiesa/jwt-webtool))

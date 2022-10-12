@@ -179,6 +179,8 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [hardmaru](https://blog.otoro.net/archive.html)
 - [Nil Coalescing](https://nilcoalescing.com/blog/)
 - [Jordan Rose](https://belkadan.com/blog/)
+- [The Brown PLT Blog](https://blog.brownplt.org/)
+- [Nick McDonald](https://nickmcd.me/)
 
 ## Notes
 

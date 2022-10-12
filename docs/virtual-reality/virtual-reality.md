@@ -88,3 +88,4 @@ Looking forward to when Apple will unveil their headset so I can start developin
 - [Eye-tracking is a missing input device for VR experiences (2022)](https://mlajtos.mu/posts/gaze-contingency) ([HN](https://news.ycombinator.com/item?id=33041714))
 - [Awesome VR UX](https://github.com/mauricesvay/awesome-vr-ux)
 - [PICO VR](https://www.picoxr.com/)
+- [Meta Quest Pro](https://www.meta.com/quest/quest-pro/) ([HN](https://news.ycombinator.com/item?id=33166291))

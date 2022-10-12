@@ -134,3 +134,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Solid-Form-Handler](https://github.com/webblocksapp/solid-form-handler) - Lightweight library for building form components and validating forms with them.
 - [Solid-Router-Stack](https://github.com/ymzuiku/solid-router-stack) - Solid router use stack like native application.
 - [Solid-Error-Overlay](https://github.com/lxsmnsyc/solid-error-overlay) - Unstyled, dev error overlays for SolidJS.
+- [Capacitor Templates for SolidJS (and Vite)](https://github.com/ionic-team/capacitor-solidjs-templates)

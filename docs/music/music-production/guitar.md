@@ -50,3 +50,4 @@
 - [Online Tuner: Guitar, Bass Guitar & Ukulele Tuner](https://muted.io/tuner/)
 - [Guitar Chords: Diagrams with Notes & Finger Positions](https://muted.io/guitar-chords/) ([HN](https://news.ycombinator.com/item?id=32976832))
 - [Why Is The Guitar Tuned Like It Is?](https://library.kiwix.org/music.stackexchange.com_en_all_2022-05/questions/1723/why-is-the-guitar-tuned-like-it-is) ([HN](https://news.ycombinator.com/item?id=33118994))
+- [Justune](https://justune.eu/#/) - Guitar tuner app using Flutter and Rust. ([HN](https://news.ycombinator.com/item?id=33150260))

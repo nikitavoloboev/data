@@ -24,7 +24,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Loop](https://github.com/faraazahmad/loop) - Text editor built in Rust.
 - [o](https://github.com/xyproto/o) - Small, fast and limited text editor.
 - [RichEditorView](https://github.com/YoomamaFTW/RichEditorView) - Rich Text Editor in Swift.
-- [lite](https://github.com/rxi/lite) - Lightweight text editor written in Lua. ([Plugins](https://github.com/rxi/lite-plugins)) ([Implementation Overview](https://rxi.github.io/lite_an_implementation_overview.html)) ([Cached Software Rendering](https://rxi.github.io/cached_software_rendering.html))
+- [Lite](https://github.com/rxi/lite) - Lightweight text editor written in Lua. ([Plugins](https://github.com/rxi/lite-plugins)) ([Implementation Overview](https://rxi.github.io/lite_an_implementation_overview.html)) ([Cached Software Rendering](https://rxi.github.io/cached_software_rendering.html)) ([HN](https://news.ycombinator.com/item?id=33169030))
 - [Blockly](https://github.com/google/blockly) - Web-based, visual programming editor.
 - [Micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor. ([HN](https://news.ycombinator.com/item?id=23334190)) ([Web](https://micro-editor.github.io/)) ([HN](https://news.ycombinator.com/item?id=29128702))
 - [Lime Text](https://github.com/limetext/lime) - Powerful and elegant text editor primarily developed in Go.

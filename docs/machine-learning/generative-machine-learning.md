@@ -96,3 +96,4 @@
 - [How AI Image Generators Work (Stable Diffusion / Dall-E) (2022)](https://www.youtube.com/watch?v=1CIpzeNxIhU)
 - [Manifest](https://github.com/HazyResearch/manifest) - How to make prompt programming with Foundation Models a little easier.
 - [Implementation of Dreambooth by way of Textual Inversion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion)
+- [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Open source Stable Diffusion toolkit and WebUI. ([HN](https://news.ycombinator.com/item?id=33155074))
