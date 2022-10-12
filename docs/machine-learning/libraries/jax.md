@@ -75,3 +75,4 @@ title: JAX
 - [JAX Synergistic Memory Inspector](https://github.com/ayaka14732/jax-smi) - Tool for real-time inspection of the memory usage of a JAX process.
 - [Jaxformer](https://github.com/salesforce/jaxformer) - Minimal library to train LLMs on TPU in JAX.
 - [xpag](https://github.com/perrin-isir/xpag) - Modular reinforcement learning library with JAX agents.
+- [Orbax](https://github.com/google/orbax) - Library providing common utilities for JAX users.

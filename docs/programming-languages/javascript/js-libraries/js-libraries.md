@@ -1032,6 +1032,7 @@
 - [Error Causes](https://github.com/paralleldrive/error-causes) - Simple error handling based on standard JavaScript error cause.
 - [Fast Diff](https://github.com/jhchen/fast-diff) - Fast JavaScript string diff.
 - [Day.js](https://github.com/iamkun/dayjs) - Fast 2kB alternative to Moment.js with the same modern API. ([Web](https://day.js.org/)) ([HN](https://news.ycombinator.com/item?id=33138050))
+- [Shaka Player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player.
 
 ## Links
 

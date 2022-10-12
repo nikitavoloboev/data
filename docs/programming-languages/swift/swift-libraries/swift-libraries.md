@@ -1273,6 +1273,9 @@
 - [Swift Configuration Parser](https://github.com/liamnichols/swift-configuration-parser) - Simple configuration file parsing for Swift.
 - [Oklab](https://github.com/importRyan/Oklab) - Swift implementation of Björn Ottosson's Oklab perceptual color space for image processing.
 - [Aftermath](https://github.com/jamf/aftermath) - Swift-based, open-source incident response framework.
+- [DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS & macOS in Swift. Native SwiftUI & UIKit views.
+- [QRCode](https://github.com/dmrschmidt/QRCode) - QR Code Generator in Swift.
+- [CalendarKit](https://github.com/richardtop/CalendarKit) - Swift calendar UI library for iOS and Mac Catalyst.
 
 ## Other (not lib)
 

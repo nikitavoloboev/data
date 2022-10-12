@@ -161,3 +161,4 @@
 - [Nice tools for better remote work](https://twitter.com/thekitze/status/1578652517495341056)
 - [Ask HN: How do remote first businesses maintain cultural cohesion? (2022)](https://news.ycombinator.com/item?id=33142761)
 - [Meetings vs async is root cause for burnout](https://twitter.com/SergioRocks/status/1578799927345311745)
+- [Where can I live on $300 a week? (2022)](https://www.reddit.com/r/digitalnomad/comments/y1iqxy/where_can_i_live_on_300_a_week/)

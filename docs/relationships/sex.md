@@ -12,6 +12,8 @@
 - [Women's desire usually drives from a story being played out.](https://www.reddit.com/r/sexover30/comments/t2xr2p/any_advice_on_how_to_make_yourself_want_to_have/)
 - [Skyn have the best condoms](https://www.reddit.com/r/AskMen/comments/w1cxfo/whats_the_best_condom_brand/)
 - [Always satisfy your partner first before finishing yourself.](https://www.reddit.com/r/sex/comments/x70vpz/my_boyfriend_doesnt_satisfy_me_after_he_finishes/)
+- [You don’t have to deposit to a sperm bank for IVF. If a person wanted to do IVF after a vasectomy they can extract the sperm from your testicles and do it that way.](https://www.reddit.com/r/sexover30/comments/y1ck83/disagreement_on_vasectomy/)
+- [Move sideways, not up and down](https://www.tiktok.com/@msjessicagarner/video/7143072375746202885)
 
 ## Links
 

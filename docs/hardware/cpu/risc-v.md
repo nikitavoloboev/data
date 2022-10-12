@@ -191,3 +191,4 @@ title: RISC-V
 - [RISu064](https://github.com/zephray/RISu064) - Dual-issue RV64IM processor for fun & learning.
 - [What's new for RISC-V in LLVM 15 (2022)](https://muxup.com/2022q3/whats-new-for-risc-v-in-llvm-15)
 - [Salus](https://github.com/rivosinc/salus) - Micro hypervisor for RISC-V systems.
+- [RISC-V Configuration Validator](https://github.com/riscv-software-src/riscv-config)

@@ -411,3 +411,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [VIVICT](https://github.com/vivictorg/vivict) - Easy to use in-browser tool for subjective comparison of the visual quality of different encodings of the same video source.
 - [Video-to-SQLite](https://github.com/ryanfox/video-to-sqlite) - Load data about a video file into SQLite.
 - [How We Boosted Video Processing Speed 5x by Optimizing GPU Usage in Python (2022)](https://medium.com/@lightricks-tech-blog/how-we-boosted-video-processing-speed-5x-by-optimizing-gpu-usage-in-python-2ab7c9411b6c) ([Reddit](https://www.reddit.com/r/Python/comments/y1bjxi/how_we_boosted_video_processing_speed_5x_by/))
+- [In Praise of FFmpeg (2022)](https://drewdevault.com/2022/10/12/In-praise-of-ffmpeg.html)

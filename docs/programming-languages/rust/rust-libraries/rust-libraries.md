@@ -2230,6 +2230,8 @@
 - [ogawa-rs](https://github.com/Traverse-Research/ogawa-rs) - Rust crate for reading ogawa alembic cache data.
 - [datasize](https://github.com/CasperLabs/datasize-rs) - Heap memory usage estimation.
 - [Rio](https://github.com/rcelha/rio-rs) - Framework for scalable, distributed and stateful services based on message passing between objects.
+- [l10n](https://github.com/MathieuTricoire/l10n) - Rust localization crate built upon fluent-bundle.
+- [rusp](https://github.com/axiros/rusp) - Rust USP toolkit.
 
 ## Cargo Plugins
 

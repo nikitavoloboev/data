@@ -35,3 +35,4 @@ I sometimes do one day fasts but not routinely. [Here](https://news.ycombinator.
 - [Caloric restriction in humans reveals immunometabolic regulators of health span (2022)](https://www.science.org/doi/10.1126/science.abg7292) ([HN](https://news.ycombinator.com/item?id=30450307))
 - [The Beginner's Guide to Intermittent Fasting (2012)](https://jamesclear.com/the-beginners-guide-to-intermittent-fasting) ([HN](https://news.ycombinator.com/item?id=30625586))
 - [Science of Fasting](https://spyderdoc.substack.com/p/doctors-heart-series-part-6-science) ([HN](https://news.ycombinator.com/item?id=31265086))
+- [Time-restricted eating reduces visceral fat and improves metabolic syndrome (2022)](<https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00332-9>) ([HN](https://news.ycombinator.com/item?id=33161267))

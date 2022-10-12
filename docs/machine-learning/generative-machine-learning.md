@@ -97,3 +97,5 @@
 - [Manifest](https://github.com/HazyResearch/manifest) - How to make prompt programming with Foundation Models a little easier.
 - [Implementation of Dreambooth by way of Textual Inversion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion)
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Open source Stable Diffusion toolkit and WebUI. ([HN](https://news.ycombinator.com/item?id=33155074))
+- [Astraea](https://www.strmr.com/) - Tailor-made AI image generation.
+- [Getting started with diffusion](https://github.com/fastai/diffusion-nbs)

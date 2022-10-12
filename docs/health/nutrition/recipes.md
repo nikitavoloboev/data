@@ -32,6 +32,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Medovik](https://www.reddit.com/r/food/comments/vt64dj/homemade_my_first_attempt_at_medovik_an_eastern/)
 - [20 Aioli Recipes](https://www.brit.co/aioli-recipes/)
 - [World’s Best Pancake Recipe](https://kottke.org/09/10/the-worlds-best-pancake-recipe)
+- [The Best French Onion Soup](https://andrewzimmern.com/recipes/the-best-french-onion-soup/)
 
 ## Links
 
@@ -113,3 +114,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [go-recipe](https://github.com/kkyr/go-recipe) - Go library that scrapes recipes from websites.
 - [Tacohuaco](https://tacohuaco.co/) - Favorite recipes of a Mexican-Russian couple. ([Code](https://github.com/tacohuaco/tacohuaco))
 - [The Fresh Loaf](https://www.thefreshloaf.com/) - Community of Amateur Bakers and Artisan Bread Enthusiasts.
+- [Andrew Zimmern](https://andrewzimmern.com/)

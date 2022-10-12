@@ -304,7 +304,7 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix: An Idea Whose Time Has Come (2022)](https://revelry.co/insights/development/nix-time/) ([Lobsters](https://lobste.rs/s/ui7wc4/nix_idea_whose_time_has_come)) ([HN](https://news.ycombinator.com/item?id=30384121))
 - [Alejandra](https://github.com/kamadorueda/alejandra) - Uncompromising Nix Code Formatter.
 - [Makes](https://github.com/fluidattacks/makes) - DevSecOps framework powered by Nix.
-- [Standard](https://github.com/divnix/std) - Opinionated, generic, Nix Flakes framework that will allow you to grow and cultivate Nix Cells with ease.
+- [Standard](https://github.com/divnix/std) - Opinionated, generic, Nix Flakes framework that will allow you to grow and cultivate Nix Cells with ease. ([Docs](https://std.divnix.com/))
 - [nix-book](https://github.com/divnix/nix-book) - Nix Package Manager. ([Docs](https://book.divnix.com/))
 - [Nix Flakes: an Introduction (2022)](https://christine.website/blog/nix-flakes-1-2022-02-21) ([Lobsters](https://lobste.rs/s/dmrnqy/nix_flakes_introduction)) ([Reddit](https://www.reddit.com/r/NixOS/comments/sxve1w/nix_flakes_an_introduction/)) ([HN](https://news.ycombinator.com/item?id=30416557))
 - [All New Repls are Powered By Nix (2022)](https://blog.replit.com/powered-by-nix)

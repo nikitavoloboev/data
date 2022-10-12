@@ -62,3 +62,4 @@ title: Smalltalk
 - [Smalltalk-72 Instruction Manual](http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/parc/techReports/Smalltalk-72_Instruction_Manual_Mar76.pdf)
 - [Unix, Plan 9 and the Lurking Smalltalk](https://www.humprog.org/~stephen/research/papers/kell19unix-personal.pdf)
 - ["Liberating the Smalltalk lurking in C and Unix" by Stephen Kell (2014)](https://www.youtube.com/watch?v=LwicN2u6Dro)
+- [A Little Smalltalk (Timothy Budd) (1987)](https://archive.org/details/ALittleSmalltalkBook)

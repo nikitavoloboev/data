@@ -109,7 +109,6 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Meli](https://meli.delivery/) - Terminal mail client. ([Code](https://git.meli.delivery/meli/meli))
 - [Himalaya](https://github.com/soywod/himalaya) - Minimalist CLI email client, written in Rust.
 - [MailerSend](https://www.mailersend.com/) - Transactional email service that delivers.
-- [Mimestream](https://mimestream.com/) - Native macOS email client for Gmail. ([HN](https://news.ycombinator.com/item?id=24422432))
 - [Building a functional email server (2020)](https://signalsandthreads.com/building-a-functional-email-server/)
 - [Backing up e-mails from an IMAP server (2020)](https://www.artemix.org/blog/backing-up-e-mails-from-an-imap-server) ([Lobsters](https://lobste.rs/s/lwf7sw/backing_up_e_mails_from_imap_server))
 - [A Brief Introduction to Deniability (2020)](https://soatok.blog/2020/11/04/a-brief-introduction-to-deniability/)
@@ -260,7 +259,7 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [letterparser](https://github.com/mat-sz/letterparser) - Isomorphic e-mail parser (with MIME support) written in TypeScript.
 - [unsubscan](https://github.com/LGUG2Z/unsubscan) - Tool to help you find unsubscribe links in your emails. ([HN](https://news.ycombinator.com/item?id=31786324))
 - [My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails (2022)](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/)
-- [Mimestream](https://mimestream.com/) - Native macOS email client for Gmail.
+- [Mimestream](https://mimestream.com/) - Native macOS email client for Gmail. ([HN](https://news.ycombinator.com/item?id=24422432))
 - [Kanmail](https://kanmail.io/) - Email client that functions like a kanban board. ([Code](https://github.com/Oxygem/Kanmail))
 - [Ask HN: How are you hosting email for your startup employees? (2022)](https://news.ycombinator.com/item?id=32029769)
 - [Cloudflare + MailChannels Email Sending with DKIM](https://github.com/maggie-j-liu/mail)

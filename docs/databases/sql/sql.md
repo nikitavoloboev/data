@@ -125,7 +125,7 @@ title: SQL
 - [DuoRAT: Towards Simpler Text-to-SQL Models (2020)](https://arxiv.org/abs/2010.11119) ([Code](https://github.com/ElementAI/duorat))
 - [SQL Jobber](https://github.com/knadh/sql-jobber) - Lightweight SQL job-server for scaling read queries. ([HN](https://news.ycombinator.com/item?id=27285237))
 - [SQL Query Optimization: Understanding Key Principle (2021)](https://hinty.io/devforth/sql-query-optimization-understanding-key-principle/) ([Reddit](https://www.reddit.com/r/programming/comments/nm9ehx/sql_query_optimization_understanding_key_principle/))
-- [SQLizer](https://sqlizer.io/#/) - Easily convert files into SQL Databases.
+- [SQLizer](https://sqlizer.io/#/) - Easily convert files into SQL Databases. ([Blog](https://blog.sqlizer.io/))
 - [sql-lint](https://github.com/joereynolds/sql-lint) - Does sanity checks on your queries as well as bring errors back from the DB.
 - [Actual order of execution of SQL](https://twitter.com/chrisalbon/status/1399767813569486853)
 - [sqlgg](https://github.com/ygrek/sqlgg) - SQL Guided (code) Generator. ([Web](https://ygrek.org/p/sqlgg/))

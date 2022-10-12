@@ -232,3 +232,4 @@
 - [Scala Library template](https://github.com/indoorvivants/scala-library-template) - Template for cross-platform, cross-versions Scala Library.
 - [Bindings generator for Scala 3 Native](https://github.com/indoorvivants/sn-bindgen)
 - [Acyclic](https://github.com/com-lihaoyi/acyclic) - Scala compiler plugin to let you prohibit circular dependencies between files.
+- [Scala 3 Metaprogramming Examples](https://github.com/lampepfl/dotty-macro-examples)

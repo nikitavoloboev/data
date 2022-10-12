@@ -2,7 +2,7 @@
 
 I follow a [few designers on Dribble](https://dribbble.com/nikitavoloboev/following) whose work I like. I also keep a [list of artists & art I liked](../art/art.md).
 
-Below are sites/apps whose design I liked. [Linear is pretty great](https://linear.app/features) (gradient, boxes, layout). [This HN thread on elegant software](https://news.ycombinator.com/item?id=31230903) is a good read too.
+Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage) (with its [features](https://linear.app/features) showcase) is great. [This HN thread on elegant software](https://news.ycombinator.com/item?id=31230903) is a good read too.
 
 [Arc](https://thebrowser.company/) has a [pretty onboard experience](https://twitter.com/darylginn/status/1549720866316902402).
 
@@ -1054,3 +1054,4 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Framer: Website Templates](https://www.framer.com/templates/)
 - [Favorite landing pages](https://twitter.com/traf/status/1572336972148146178)
 - [Awwwards](https://www.awwwards.com/) - Website Awards - Best Web Design Trends.
+- [Personal portfolio websites](https://twitter.com/jesslynnrose/status/1580121441084706816)

@@ -218,3 +218,4 @@ title: Type Theory
 - [Why Duck Typing Is Safe (2020)](http://www.jerf.org/iri/post/2954)
 - [Setoid type theory implementation](https://github.com/AndrasKovacs/sett)
 - [Trebor](https://github.com/Guest0x0/trebor) - Implementation of Observational Type Theory (OTT) and more.
+- [MLstruct: Principal Type Inference in a Boolean Algebra of Structural Types (2022)](https://lptk.github.io/files/[v6.1]%20mlstruct.pdf)

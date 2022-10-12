@@ -153,6 +153,7 @@ The way our brains take input from different senses (eyes, touch) and then decid
 - [Semantic reconstruction of continuous language from non-invasive brain recording (2022)](https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1) ([HN](https://news.ycombinator.com/item?id=33038452))
 - [How to build a cognitive map (2022)](https://www.nature.com/articles/s41593-022-01153-y)
 - [Mind Reader: Reconstructing complex images from brain activities (2022)](https://nips.cc/Conferences/2022/Schedule?showEvent=53580) ([Code](https://github.com/sklin93/mind-reader))
+- [A New Doorway to the Brain (2022)](https://nautil.us/a-new-doorway-to-the-brain-242099/)
 
 ## Images
 

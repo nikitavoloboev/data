@@ -124,3 +124,4 @@ title: Zero knowledge proofs
 - [ZKP (circuit) compiler shootout](https://github.com/anoma/zkp-compiler-shootout) - Evaluating & benchmarking ZKP compilation strategies.
 - [zkcreds-rs](https://github.com/rozbb/zkcreds-rs) - Cryptographic library for designing anonymous credential systems in a flexible, issuer-agnostic, and efficient manner using general-purpose zero-knowledge proofs.
 - [zkAuth](https://github.com/danieljcss/zkAuth) - 2FA with Zero-Knowledge proofs.
+- [How to prove you know a secret without giving it away (2022)](https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/) ([HN](https://news.ycombinator.com/item?id=33171214))

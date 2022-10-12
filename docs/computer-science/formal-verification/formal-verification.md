@@ -147,3 +147,4 @@ title: Formal verification
 - [Silicon](https://github.com/viperproject/silicon) - Symbolic-execution-based verifier for the Viper intermediate verification language.
 - [Carbon](https://github.com/viperproject/carbon) - Verification-condition-generation-based verifier for the Viper intermediate verification language.
 - [ViperServer](https://github.com/viperproject/viperserver) - HTTP server that manages verification requests to different tools from the Viper tool stack.
+- [Verifying distributed systems with Isabelle/HOL, by Martin Kleppmann (2022)](https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html)

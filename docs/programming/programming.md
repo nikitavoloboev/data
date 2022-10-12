@@ -68,6 +68,7 @@
 - [Function should have one goal. It’s okay for it to do more than a single thing (even without splitting) as long as any codepath taken through it achieves the same goal, and doesn’t do things unrelated to that goal.](https://twitter.com/dan_abramov/status/1462119010523303940)
 - [In your comments, write what you did and why, record your level of petulance (REALLY) and the StackOverflow link that made you realize something](https://gomakethings.com/how-to-write-good-comments/)
 - [If you want to learn programming better, don't immediately go and search for solution. Try and solve problem yourself given what you know. Then search and compare solutions.](https://www.youtube.com/watch?v=cgXfWo42gig)
+- [Errors compound. Composing 6 such parts into a bigger system results in a system that is broken 50% of the time. Neglecting the error path scales poorly.](https://twitter.com/tomas_mikula/status/1580114997656825856)
 
 ## Links
 
@@ -598,3 +599,4 @@
 - [SOLID Principles Sketches](https://okso.app/showcase/solid)
 - [Staff Engineer Archetypes (2020)](https://lethain.com/staff-engineer-archetypes/) ([HN](https://news.ycombinator.com/item?id=33112915))
 - [Problematic and Persistent Post-Secondary Program Performance Preconceptions (2022)](https://cs.brown.edu/~sk/Publications/Papers/Published/kbls-prob-persist-perf-precon/)
+- [Mike Acton’s Expectations of Professional Software Engineers (2022)](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/)

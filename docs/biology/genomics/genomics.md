@@ -203,3 +203,4 @@ title: Genomics
 - [The Era of Fast, Cheap Genome Sequencing Is Here (2022)](https://www.wired.com/story/the-era-of-fast-cheap-genome-sequencing-is-here/)
 - [EggNOG-mapper](https://github.com/eggnogdb/eggnog-mapper) - Tool for fast functional annotation of novel sequences.
 - [RNA Sequencing - Building your own pipeline from scratch (2022)](https://www.youtube.com/watch?v=PlqDQBl22DI)
+- [SPALN](https://github.com/ogotoh/spaln) - Genome mapping and spliced alignment of cDNA or amino acid sequences.

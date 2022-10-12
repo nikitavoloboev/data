@@ -67,6 +67,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [What's That Song?](https://github.com/dangeredwolf/Whats-That-Song) - Discord bot that finds the song given a video or audio file, using Shazam.
 - [Gitpod Community Discord Bot](https://github.com/gitpod-io/optimus)
 - [Alertmanager Discord Webhook](https://github.com/masgustavos/alertmanager-discord) - Customizable Discord Webhook for Alertmanager.
+- [Shanghai](https://github.com/harubaru/discord-stable-diffusion) - Discord bot to run Stable Diffusion locally.
 
 ## Libraries
 

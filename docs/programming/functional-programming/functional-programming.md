@@ -192,6 +192,7 @@
 - [Lambda Days](https://www.lambdadays.org/) - One of a kind experience in the functional world. ([Twitter](https://twitter.com/LambdaDays))
 - [SubML](https://github.com/rlepigre/subml) - Language provides polymorphic types and subtyping, but also existential types, inductive types and coinductive types.
 - [Static analysis tools love pure FP | Jeroen Engels (2022)](https://www.youtube.com/watch?v=_rzoyBq4hJ0)
+- [Monads are everywhere... Maybe that's bad? by Till Schröder (2022)](https://www.youtube.com/watch?v=nGhoZzihbHY)
 
 ## Images
 
