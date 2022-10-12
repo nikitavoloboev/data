@@ -602,6 +602,7 @@
 - [SwiftParamTest](https://github.com/YusukeHosonuma/SwiftParamTest) - Parameterized test for Swift.
 - [Shock](https://github.com/justeat/Shock) - HTTP mocking framework written in Swift.
 - [XCTAsync](https://github.com/mochidev/XCTAsync) - Swift library to more easily test async code.
+- [UITestingPlus](https://github.com/ChimeHQ/UITestingPlus) - Utilities for working with XCUI testing.
 
 ## API
 

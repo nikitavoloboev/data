@@ -153,6 +153,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
 - [Threatest](https://github.com/DataDog/threatest) - Go framework for testing threat detection end-to-end.
 - [test](https://github.com/shoenig/test) - Modern generic testing assertions library for Go.
+- [golden](https://github.com/tenntenn/golden) - Utilities for golden file tests.
 
 ## Web
 
