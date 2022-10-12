@@ -16,7 +16,7 @@ title: Qwik
 
 ## Links
 
-- [Qwik Code](https://github.com/BuilderIO/qwik) -
+- [Qwik Code](https://github.com/BuilderIO/qwik)
 - [Qwik HN Demo](https://github.com/ryansolid/qwik-hackernews)
 - [Exploring Qwik, the Resumable Framework](https://www.youtube.com/watch?v=gT5NWKZZPQM)
 - [Building Qwik w/ Misko Hevery](https://www.youtube.com/watch?v=lY6e7Hw4uVo)
@@ -31,3 +31,4 @@ title: Qwik
 - [The Future of Web Routing (2022)](https://www.youtube.com/watch?v=3t7wqGQKbK4)
 - [Qwik… the world's first O(1) JavaScript framework? (2022)](https://www.youtube.com/watch?v=x2eF3YLiNhY)
 - [Qwik: Beta and Beyond (2022)](https://www.youtube.com/watch?v=Tfd62DiRTKc)
+- [HN: Qwik (2022)](https://news.ycombinator.com/item?id=33170842)

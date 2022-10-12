@@ -63,6 +63,7 @@ I like to [make private contributions private on my profile](https://i.imgur.com
 - [Describe what your function should do in a comment before you implement the function & GitHubCopilot might just write the damn thing for you.](https://twitter.com/erikras/status/1460562819452129284)
 - [Pull request habit: Provide before and after screenshots in the pull request description](https://twitter.com/housecor/status/1463132466202488836)
 - [Replace github.com with github.dev in the URL to enjoy a much better PR reviewing experience](https://twitter.com/felixge/status/1468155086648061952)
+- [Before copy-pasting a GitHub source code link, especially one that links to a line or line range, hit `y` to make the URL include the current commit hash. That way the link will keep working even if the file is later changed or moved/deleted](https://twitter.com/jonhoo/status/1579177477628313600)
 
 ## Code
 

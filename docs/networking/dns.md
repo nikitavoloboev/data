@@ -246,3 +246,4 @@ title: DNS
 - [SpyCast](https://github.com/evilsocket/spycast) - Cross platform mDNS enumeration tool.
 - [Writing a toy DNS Server in Rust using Trust DNS (2022)](https://dev.to/xfbs/writing-a-dns-server-in-rust-1gpn)
 - [Can I Take Over DNS?](https://github.com/indianajson/can-i-take-over-dns) - List of DNS providers and whether their zones are vulnerable to DNS takeover.
+- [Let's Encrypt Wildcard Certificates Made Easy with Agnos (2022)](https://ocamlpro.com/blog/2022_10_05_agnos_0.1.0-beta)

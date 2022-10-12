@@ -179,3 +179,4 @@
 - [Joy of Elixir (2020)](https://joyofelixir.com/toc.html) ([HN](https://news.ycombinator.com/item?id=32850016))
 - [Ultimate Elixir CI](https://github.com/felt/ultimate-elixir-ci) - Sample Elixir project with a robust GitHub Actions CI.
 - [Understanding GenStage back-pressure mechanism (2022)](https://dev.to/dcdourado/understanding-genstage-back-pressure-mechanism-1b0i)
+- [My Future with Elixir: set-theoretic types (2022)](https://elixir-lang.org/blog/2022/10/05/my-future-with-elixir-set-theoretic-types/) ([Lobsters](https://lobste.rs/s/t23dgt/my_future_with_elixir_set_theoretic_types))

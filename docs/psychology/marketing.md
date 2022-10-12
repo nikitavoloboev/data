@@ -188,6 +188,7 @@ One way to do launches with possible virality is rewarding people who retweet wi
 - [How to design a referral program](https://andrewchen.com/how-to-design-a-referral-program/)
 - [Taku](https://taku-app.com/) - Easy Way to Communicate with Users. ([HN](https://news.ycombinator.com/item?id=32937523))
 - [I Listened to 1000 B2B SaaS Sales Calls](https://www.sofuckingagile.com/blog/i-listened-to-1000-b2b-saas-sales-calls) ([HN](https://news.ycombinator.com/item?id=33132951))
+- [Race car growth framework](https://twitter.com/lennysan/status/1579843486672556033)
 
 ## Images
 

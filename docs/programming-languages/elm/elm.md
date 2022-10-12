@@ -108,3 +108,4 @@ title: Elm
 - [Introduction to Elm Book](https://guide.elm-lang.org/) ([Code](https://github.com/evancz/guide.elm-lang.org))
 - [Elm Workshop](https://sporto.github.io/elm-workshop/) ([Code](https://github.com/sporto/elm-workshop))
 - [ESLint equivalents in Elm (2022)](https://elmcraft.org/compare/javascript/eslint/)
+- [Elm at a Billion Dollar Company with Vendr CTO Aaron White (2022)](https://elm-radio.com/episode/elm-at-a-billion-dollar-company/)

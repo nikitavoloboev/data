@@ -26,6 +26,7 @@ title: Rust
 - [Rust enums are amazing. They are also known as Sum Types.](https://twitter.com/clementd/status/1434583356969308160)
 - [If you're building a database , OS, or other systems-level infrastructure, choose Rust. If you're not building those things, choose not-Rust. Rust is the better C we've all been hoping for. But most companies have no business writing programs in C, or even in a better C.](https://twitter.com/jdegoes/status/1459899722358009860)
 - [If you are starting learning Rust, try to follow this rule of thumb: only owned types in fields of your own types, always return owned values unless you're passing through directly from a function argument, clone liberally, derive(Copy) when possible, use Arc/RefCell to unblock.](https://twitter.com/ekuber/status/1476128384908410882)
+- [unsafe permits calling other unsafe code, dereferencing raw pointers, reinterpreting unions, and implementing unsafe traits like Send and Sync. It does not “turn off” the type system, borrow checker, or anything else](https://lobste.rs/s/crgmtb/deeper_look_into_gcc_rust_front_end)
 
 ## Links
 
@@ -911,3 +912,4 @@ title: Rust
 - [Unsafe Rust is not C (2022)](https://www.youtube.com/watch?v=DG-VLezRkYQ) ([Lobsters](https://lobste.rs/s/m1zwdn/unsafe_rust_is_not_c))
 - [Rust's Result Type is Cool (2022)](https://naiveai.hashnode.dev/rust-result-cool) ([Lobsters](https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool))
 - [Hard Mode Rust (2022)](https://matklad.github.io/2022/10/06/hard-mode-rust.html) ([Reddit](https://www.reddit.com/r/rust/comments/xx7xci/blog_post_hard_mode_rust/)) ([Lobsters](https://lobste.rs/s/gmxvun/hard_mode_rust))
+- [You can't "turn off the borrow checker" in Rust (2018)](https://steveklabnik.com/writing/you-can-t-turn-off-the-borrow-checker-in-rust)

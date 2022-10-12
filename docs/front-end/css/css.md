@@ -565,3 +565,4 @@ all: unset
 - [Critical CSS? Not So Fast! (2022)](https://csswizardry.com/2022/09/critical-css-not-so-fast/) ([Response](https://chriscoyier.net/2022/09/28/critical-css-not-so-fast/))
 - [Animating Layouts with the FLIP Technique (2020)](https://css-tricks.com/animating-layouts-with-the-flip-technique/)
 - [Delightful UI Animations With Shared Element Transitions API (2022)](https://www.smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/)
+- [Simplifying the Craigslist Gallery (2022)](https://tdarb.org/blog/craigslist-gallery.html) ([Lobsters](https://lobste.rs/s/9taha7/simplifying_craigslist_gallery))

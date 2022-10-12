@@ -195,3 +195,4 @@
 - [#HEXWORDS](https://hexwords.netlify.app/) - Small web-app to filter from a list of hex colors that are similar to words. ([Code](https://github.com/paoloricciuti/hexwords))
 - [Ok Color Picker](https://ok-color-picker.netlify.app/) - Pick colors using the Okhsv and Okhsl color spaces. ([Code](https://github.com/holbrookdev/ok-color-picker))
 - [Palette](https://palette.fm/) - Colorize Photos.
+- [Everything you need to know about color in design](https://twitter.com/danqing_liu/status/1579536039139758080)

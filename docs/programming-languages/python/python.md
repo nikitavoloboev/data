@@ -545,3 +545,4 @@ for i, _ in enumerate(nums):
 - [Refurb](https://github.com/dosisod/refurb) - Tool for refurbishing and modernizing Python codebases.
 - [Making python fast for free - adventures with mypyc (2022)](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/)
 - [A Blueprint for Production-Ready Web Applications (2022)](https://www.packtpub.com/product/blueprint-for-production-ready-web-development/9781803248509) ([Code](https://github.com/pgjones/tozo))
+- [Type annotation via automated refactoring (2022)](https://medium.com/building-carta/type-annotation-via-automated-refactoring-fd8edfe123d4)
