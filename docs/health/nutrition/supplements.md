@@ -62,3 +62,4 @@ Some maybe interesting supplements I don't take routinely but tried.
 - [Find out where your supplements are made & sourced](https://shop.nootritious.com/) ([HN](https://news.ycombinator.com/item?id=32029625))
 - [Vitamin Cheat Sheet](https://twitter.com/JohnConstas/status/1547387375218819072)
 - [Omega-3 fatty acids and exercise: a review of their combined effects (2011)](http://www.lookgreatnaked.com/articles/omega-3_fatty_acids_and_exercise.pdf) ([HN](https://news.ycombinator.com/item?id=32496381))
+- [Are vitamins/multivitamins legit?](https://www.reddit.com/r/nutrition/comments/y27aix/are_vitaminsmultivitamins_legit/)

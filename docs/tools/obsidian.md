@@ -257,3 +257,4 @@ div.CodeMirror-cursor,
 - [Shimmering Obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow for various enhancements of Obsidian.
 - [Obsidian Plugin Developer Docs](https://github.com/marcusolsson/obsidian-plugin-docs)
 - [Obsidian for Raycast](https://github.com/marcjulianschwarz/obsidian-raycast) - Raycast extension with commands for the note taking app Obsidian.
+- [HN: Obsidian 1.0 (2022)](https://news.ycombinator.com/item?id=33190433)

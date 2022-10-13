@@ -405,3 +405,4 @@ title: ML Libraries
 - [smol](https://github.com/CederGroupHub/smol) - Statistical Mechanics on Lattices.
 - [pathos](https://github.com/uqfoundation/pathos) - Parallel graph management and execution in heterogeneous computing.
 - [FewBit](https://github.com/skolai/fewbit) - Library for memory efficient training of large neural networks.
+- [Vizier](https://github.com/google/vizier) - Reliable and Flexible Blackbox Optimization.

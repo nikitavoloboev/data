@@ -586,3 +586,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pg_eventserv](https://github.com/CrunchyData/pg_eventserv) - Small Go server to push PgSQL listen/notify events into websockets.
 - [Routing PostgreSQL queries between read-write & read-only instances](https://contra.com/p/3oqY62QO-routing-postgresgl-queries-between-read-write-read-only-instances) ([Lobsters](https://lobste.rs/s/3ilxis/routing_postgresql_queries_between_read))
 - [Partitioning in Postgres, 2022 edition](https://brandur.org/fragments/postgres-partitioning-2022) ([HN](https://news.ycombinator.com/item?id=33099872))
+- [PostgreSQL 15](https://www.postgresql.org/about/news/postgresql-15-released-2526/) ([HN](https://news.ycombinator.com/item?id=33190456))

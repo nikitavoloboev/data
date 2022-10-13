@@ -11,6 +11,7 @@ title: Bevy Engine
 - [QQ Party](https://github.com/alanpoon/qq_party) - Multiplayer browser game build with Bevy and Wasmcloud as backend.
 - [Gardum](https://github.com/gardum-game/gardum) - Battle arena made with Bevy.
 - [Snake Game in Bevy](https://github.com/marcusbuffett/bevy_snake)
+- [Digital Extinction](https://github.com/DigitalExtinction/Game) - 3D RTS game implemented in Rust.
 
 ## Links
 

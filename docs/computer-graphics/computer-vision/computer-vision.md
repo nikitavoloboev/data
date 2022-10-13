@@ -964,3 +964,4 @@
 - [UPIT](https://github.com/tmabraham/UPIT) - FastAI/PyTorch package for unpaired image-to-image translation.
 - [On Distillation of Guided Diffusion Models (2022)](https://arxiv.org/abs/2210.03142)
 - [Neural Matching Fields: Implicit Representation of Matching Fields for Visual Correspondence (2022)](https://arxiv.org/abs/2210.02689) ([Code](https://github.com/KU-CVLAB/NeMF))
+- [MaPLe: Multi-modal Prompt Learning (2022)](https://arxiv.org/abs/2210.03117) ([Code](https://github.com/muzairkhattak/multimodal-prompt-learning))

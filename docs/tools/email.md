@@ -278,3 +278,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [JSXMail](https://github.com/Theryston/jsx-mail) - Email framework that uses React to create email templates. ([Docs](https://jsx-mail.org/)) ([HN](https://news.ycombinator.com/item?id=33100779))
 - [Upgrade emails that convert](https://twitter.com/daniel_nguyenx/status/1578644538305826816)
 - [Categorizing subscription emails with Gmail](https://twitter.com/fastworkers6/status/1579031820511084544)
+- [React Email](https://github.com/zenorocha/react-email) - Build and send emails using React.

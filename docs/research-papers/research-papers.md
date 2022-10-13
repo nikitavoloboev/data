@@ -201,3 +201,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Citation.js](https://github.com/citation-js/citation-js) - Converts formats like BibTeX, Wikidata JSON and BibJSON to CSL-JSON to convert to other formats like APA, Vancouver, RIS and back to BibTeX.
 - [Bibsearch](https://github.com/mjpost/bibsearch) - Download, manage, and search a BibTeX database.
 - [How do you access papers published in 2022?](https://www.reddit.com/r/scihub/comments/y08cb7/how_do_you_access_papers_published_in_2022/)
+- [Bibtex Autocomplete](https://github.com/dlesbre/bibtex-autocomplete) - Python package to autocomplete bibtex bibliographies.

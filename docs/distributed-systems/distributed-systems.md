@@ -284,3 +284,4 @@
 - [Aurae](https://github.com/aurae-runtime/aurae) - Simplified distributed systems runtime for application teams. Written in Rust.
 - [Raft Is So Fetch: The Raft Consensus Algorithm Explained Through Mean Girls (2022)](https://www.cockroachlabs.com/blog/raft-is-so-fetch/) ([HN](https://news.ycombinator.com/item?id=33071069))
 - [HyperQueue](https://github.com/It4innovations/hyperqueue) - Scheduler for sub-node tasks for HPC systems with batch scheduling.
+- [Building Distributed Systems With Stateright](https://www.stateright.rs/)

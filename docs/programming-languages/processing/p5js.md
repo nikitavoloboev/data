@@ -37,3 +37,4 @@ title: p5.js
 - [p5.utils](https://github.com/alptugan/p5.utils) - Utilities and additional features for creative coding.
 - [p5.play](https://molleindustria.github.io/p5.play/) - Game library for p5.js.
 - [p5.grain](https://github.com/meezwhite/p5.grain) - P5.js addon for conveniently adding grain and texture overlays to artworks.
+- [HN: P5.js (2022)](https://news.ycombinator.com/item?id=33176026)

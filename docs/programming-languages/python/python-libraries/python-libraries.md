@@ -315,6 +315,7 @@
 - [RESPX](https://github.com/lundberg/respx) - Mock HTTPX with awesome request patterns and response side effects.
 - [Pytest-parametrized](https://github.com/coady/pytest-parametrized) - Pytest decorator for parametrizing tests with default iterables.
 - [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
+- [HypoFuzz](https://github.com/Zac-HD/hypofuzz) - Adaptive fuzzing of Hypothesis tests.
 
 ## Error
 

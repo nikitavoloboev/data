@@ -242,3 +242,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Open Source Stories](https://www.opensourcestories.org/) - Collection of stories about open source from all over the world. ([Web Code](https://github.com/opensourcestories/opensourcestories.org))
 - [Time Till Open Source Alternative (2022)](https://staltz.com/time-till-open-source-alternative.html) ([HN](https://news.ycombinator.com/item?id=32624461))
 - [Entitlement in Open Source (2022)](https://mikemcquaid.com/entitlement-in-open-source/) ([Lobsters](https://lobste.rs/s/u5cf2e/entitlement_open_source))
+- [Awesome open-source VCs](https://github.com/CrowdDotDev/awesome-oss-investors)

@@ -220,6 +220,7 @@ title: OCaml libraries
 - [Cinaps](https://github.com/ocaml-ppx/cinaps) - Trivial Metaprogramming tool using the OCaml toplevel.
 - [loko-ml](https://github.com/polytypic/loko-ml) - Lower-Kinded Optics for OCaml.
 - [Tyre](https://github.com/Drup/tyre) - Typed Regular Expressions.
+- [agrep](https://github.com/xavierleroy/ocamlagrep) - String searching with errors, using the Wu-Manber algorithm.
 
 ## Links
 

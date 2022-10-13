@@ -33,6 +33,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [20 Aioli Recipes](https://www.brit.co/aioli-recipes/)
 - [World’s Best Pancake Recipe](https://kottke.org/09/10/the-worlds-best-pancake-recipe)
 - [The Best French Onion Soup](https://andrewzimmern.com/recipes/the-best-french-onion-soup/)
+- [Ajapsandali](https://nofrillskitchen.com/ajapsandali-recipe/) - Georgian Eggplant Stew.
 
 ## Links
 
