@@ -130,3 +130,4 @@ title: Xcode
 - [PlistPal](https://github.com/liamnichols/PlistPal) - Can be used to convert the format of a plist file or expand variables within the file in a similar way to how Info.plist files are expanded during the build process.
 - [IBLinter](https://github.com/IBDecodable/IBLinter) - Linter tool for Interface Builder.
 - [Tuist Example](https://github.com/AlexRoar/TuistExample) - Example for using Tuist with modular app architecture.
+- [xcresultparser](https://github.com/a7ex/xcresultparser) - Parse the binary xcresult bundle from Xcode builds and test runs.
