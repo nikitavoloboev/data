@@ -107,3 +107,4 @@
 - [The quantum ‘boomerang’ effect has been seen for the first time (2022)](https://www.newscientist.com/article/2323871-physicists-have-made-a-quantum-boomerang-for-the-first-time/)
 - [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab) ([HN](https://news.ycombinator.com/item?id=31968280))
 - [Proving that Quantum Entanglement is Real (2022)](https://pma.caltech.edu/news/proving-that-quantum-entanglement-is-real)
+- [PHYS771 Lecture 9: Quantum](https://www.scottaaronson.com/democritus/lec9.html) ([HN](https://news.ycombinator.com/item?id=33188276))

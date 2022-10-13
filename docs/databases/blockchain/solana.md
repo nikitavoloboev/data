@@ -295,3 +295,4 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Bonfida utils](https://github.com/Bonfida/bonfida-utils) - Collection of different utilities in use across various Bonfida projects.
 - [Multisig](https://github.com/coral-xyz/multisig) - Example of a multisig to execute arbitrary Solana transactions.
 - [Solana Security Audits](https://github.com/solana-labs/security-audits)
+- [Porting the Solana eBPF JIT compiler to ARM64 (2022)](https://blog.trailofbits.com/2022/10/12/solana-jit-compiler-ebpf-arm64/)

@@ -19,3 +19,4 @@ title: DuckDB
 - [Duckegg](https://github.com/philzook58/duckegg) - Embedded python datalog implementation built around DuckDB to supply it's core functionality.
 - [Running DuckDB in production (2022)](https://twitter.com/bernhardsson/status/1579460027907444738)
 - [Duck CLI](https://github.com/dbcli/duckcli) - CLI for DuckDB.
+- [Modern Data Stack in a Box with DuckDB (2022)](https://duckdb.org/2022/10/12/modern-data-stack-in-a-box.html)
