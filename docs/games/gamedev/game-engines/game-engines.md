@@ -127,6 +127,7 @@
 - [Iris](https://github.com/irisengine/iris) - Cross-platform game engine written in modern C++.
 - [Storm-Engine](https://github.com/storm-devs/storm-engine) - Game engine behind Sea Dogs, Pirates of the Caribbean and Age of Pirates games.
 - [Nebula](https://github.com/gscept/nebula) - Open-source and free-to-use modern C++ game engine.
+- [Tiny physics engine](https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master) - Minimalist 3D C99 single-header physics engine. ([HN](https://news.ycombinator.com/item?id=33181029))
 
 ## Physics engines
 

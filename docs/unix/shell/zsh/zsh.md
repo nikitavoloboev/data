@@ -85,3 +85,4 @@ bindkey
 - [Zsh Native Scripting Handbook](https://z.digitalclouds.dev/community/zsh_handbook/)
 - [zshbrev](https://idiomdrottning.org/zshbrev) - Allows you to mix zsh code and brev code.
 - [Moving files in ZSH - The wonderful world of zmv (2022)](https://filipe.kiss.ink/zmv-zsh-rename/)
+- [Fixing macOS Zsh Terminal History Settings (2022)](https://blog.akatz.org/fixing-macos-zsh-terminal-history-settings/) ([HN](https://news.ycombinator.com/item?id=33186412))

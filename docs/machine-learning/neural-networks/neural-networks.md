@@ -318,3 +318,4 @@
 - [Building makemore Part 2: MLP (2022)](https://www.youtube.com/watch?v=TCH_1BHY58I) ([Tweet](https://twitter.com/michael_nielsen/status/1578213041836957696))
 - [Mega: Moving Average Equipped Gated Attention (2022)](https://github.com/facebookresearch/mega)
 - [Attention Is All You Need Paper Explained](https://www.explainpaper.com/papers/attention) ([Tweet](https://twitter.com/amanjha__/status/1579996516739010560))
+- [Neural Networks are Decision Trees (2022)](https://arxiv.org/abs/2210.05189) ([Tweet](https://twitter.com/mayfer/status/1580471657319518210))

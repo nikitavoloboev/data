@@ -462,3 +462,4 @@
 - [Web Frameworks](https://github.com/StillScripts/web-frameworks) - Simple components showing differences in each major frontend web framework.
 - [New patterns for amazing apps (2022)](https://web.dev/new-patterns-for-amazing-apps/)
 - [The Web’s Next Transition (2022)](https://www.epicweb.dev/the-webs-next-transition)
+- [Plane](https://plane.dev/) - Session backend orchestrator for ambitious browser-based apps. ([Code](https://github.com/drifting-in-space/plane)) ([HN](https://news.ycombinator.com/item?id=33178797))

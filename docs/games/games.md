@@ -199,6 +199,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Downpour](https://downpour.games/) - Game making tool for phones. ([HN](https://news.ycombinator.com/item?id=30858728)) ([Article](https://v21.io/blog/announcing-downpour))
 - [Bear's Restaurant](https://daigostudio.com/bearsrestaurant/en/)
 - [Dual Universe](https://dualuniverse.game/) - Sci-fi MMORPG that takes place in a continuous, single-shard world. ([Lua examples](https://github.com/dual-universe/lua-examples))
+- [MAR1D](https://mar1d.com/) - First-Person Mario. ([HN](https://news.ycombinator.com/item?id=33178301))
 
 ## Recommendations
 

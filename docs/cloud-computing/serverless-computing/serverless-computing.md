@@ -182,3 +182,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [A simple calc serverless function with Capsule, NATS and Node.js (2022)](https://www.wasm.builders/k33g_org/a-simple-calc-serverless-function-with-capsule-nats-and-nodejs-2mnk)
 - [Rust Serverless Runtime](https://github.com/tbillington/rust_serverless_runtime) - Serverless runtime in 200 lines on top of Deno and SQLite.
 - [Firectl](https://github.com/firecracker-microvm/firectl) - Command-line tool to run Firecracker microVMs.
+- [Noslate](https://github.com/noslate-project/noslate) - Elegant, modern and fully customizable serverless runtime.

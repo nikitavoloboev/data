@@ -219,7 +219,7 @@ if (
 - [Awesome Storybook](https://github.com/lauthieb/awesome-storybook)
 - [QuickJS](https://github.com/bellard/quickjs) - Small and embeddable JavaScript engine. ([Web](https://bellard.org/quickjs/)) ([HN](https://news.ycombinator.com/item?id=24867103)) ([HN](https://news.ycombinator.com/item?id=30598026))
 - [Test262: Official ECMAScript Conformance Test Suite](https://github.com/tc39/test262)
-- [Hegel](https://github.com/JSMonk/hegel) - Advanced static type checker. ([Web](https://hegel.js.org/)) ([Intro to Hegel](https://blog.logrocket.com/introduction-to-hegel/))
+- [Hegel](https://github.com/JSMonk/hegel) - Advanced static type checker. ([Web](https://hegel.js.org/)) ([Intro to Hegel](https://blog.logrocket.com/introduction-to-hegel/)) ([HN](https://news.ycombinator.com/item?id=33162275))
 - [NectarJS](https://github.com/NectarJS/nectarjs) - JS God mode. No VM. No Bytecode. No Garbage Collector. Full Compiled and Native binaries.
 - [Eloquent JavaScript book (2018)](https://eloquentjavascript.net/) ([HN](https://news.ycombinator.com/item?id=22990926))
 - [JS.coach](https://js.coach/) - Manually curated list of packages related to React, Vue, Webpack, Babel and PostCSS. ([Code](https://github.com/jscoach/client))

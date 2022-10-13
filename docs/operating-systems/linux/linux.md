@@ -612,3 +612,4 @@ title: Linux
 - [Ask HN: How to get started with real-time Linux? (2022)](https://news.ycombinator.com/item?id=33058969)
 - [Running GUI Linux in a virtual machine on a Mac](https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac) ([HN](https://news.ycombinator.com/item?id=33143016))
 - [Awesome io_uring](https://github.com/espoal/awesome-iouring)
+- [Anatomy of Linux Dynamic Libraries](https://developer.ibm.com/tutorials/l-dynamic-libraries/)

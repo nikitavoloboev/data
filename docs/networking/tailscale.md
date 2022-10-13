@@ -21,3 +21,5 @@ title: Tailscale
 - [Trayscale](https://github.com/DeedleFake/trayscale) - Unofficial GUI wrapper around the Tailscale CLI client.
 - [Tailscale on Unifi Dream Machine](https://github.com/SierraSoftworks/tailscale-udm)
 - [WebVM Virtual Machine With Networking via Tailscale (2022)](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/) ([HN](https://news.ycombinator.com/item?id=33116245))
+- [Use NextDNS everywhere you use Tailscale (2022)](https://tailscale.com/blog/nextdns/) ([HN](https://news.ycombinator.com/item?id=33185771))
+- [Taildrop](https://tailscale.com/kb/1106/taildrop/) ([HN](https://news.ycombinator.com/item?id=33186523))

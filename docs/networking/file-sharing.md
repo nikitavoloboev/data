@@ -1,5 +1,7 @@
 # File sharing
 
+[Taildrop](https://tailscale.com/kb/1106/taildrop/) is great.
+
 ## Links
 
 - [Firefox Send](https://github.com/timvisee/send) - File sharing experiment which allows you to send encrypted files to other users. ([HN](https://news.ycombinator.com/item?id=19367850))

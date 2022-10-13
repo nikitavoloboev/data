@@ -55,7 +55,6 @@ title: Vite
 - [Vext](https://github.com/nksaraf/vite-next) - NextJS alternative built on top of Vite, React Router, React Query.
 - [vite-plugin-glob](https://github.com/antfu/vite-plugin-glob) - Design experiment for import.meta.glob from Vite.
 - [Vitest for VSCode](https://github.com/zxch3n/vitest-explorer) - VSCode extension for vitest.
-- [vite-plugin-ssr](https://vite-plugin-ssr.com/) - Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin. ([Code](https://github.com/brillout/vite-plugin-ssr))
 - [vite-ssr-next-auth](https://github.com/s-kris/vite-ssr-next-auth) - Sample repo to make next-auth work with vite-plugin-ssr.
 - [vite-dts](https://github.com/alloc/vite-dts) - Generate a .d.ts module for both .es and .cjs entry points when using Vite's lib mode.
 - [Vitamin](https://github.com/wtchnm/Vitamin) - Opinionated Vite starter template.
@@ -83,7 +82,7 @@ title: Vite
 - [Problems with shipping ESM only in production](https://twitter.com/AdamRackis/status/1334494401440206849)
 - [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping in Vite.
 - [Awesome Vite](https://github.com/vitejs/awesome-vite)
-- [Vite SSR Plugin](https://github.com/brillout/vite-plugin-ssr)
+- [Vite SSR Plugin](https://github.com/brillout/vite-plugin-ssr) - Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin. ([Web](https://vite-plugin-ssr.com/)) ([HN](https://news.ycombinator.com/item?id=33188372))
 - [Develop with Vite](https://www.youtube.com/watch?v=xx8gEHet6n8)
 - [Vite: Rethinking Frontend Tooling](https://portal.gitnation.org/contents/vite-rethinking-frontend-tooling)
 - [Vite Build explained](https://patak.dev/vite/build.html)

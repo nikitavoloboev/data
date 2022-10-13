@@ -63,3 +63,4 @@ I wish there were more electric superchargers in EU.
 - [How I Hacked my Car (2022)](https://programmingwithstyle.com/posts/howihackedmycar/) ([HN](https://news.ycombinator.com/item?id=32447650))
 - [Prometheus: Fuel from the Air](https://prometheusfuels.com/technology) ([HN](https://news.ycombinator.com/item?id=32487430))
 - [Telematica](https://www.telematica.so/) - APIs for EVs. ([HN](https://news.ycombinator.com/item?id=33021069))
+- [Students break acceleration world record (2022)](https://www.uni-stuttgart.de/en/university/news/all/Students-break-acceleration-world-record/) ([HN](https://news.ycombinator.com/item?id=33181112))

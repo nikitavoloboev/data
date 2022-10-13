@@ -144,3 +144,4 @@ title: Speech recognition
 - [Whisper ASR Web service](https://github.com/ahmetoner/whisper-asr-webservice)
 - [React-Speech-Recognition](https://github.com/JamesBrill/react-speech-recognition) - Speech recognition for your React app.
 - [Stage-Whisper](https://github.com/Stage-Whisper/Stage-Whisper) - Easy to use AI transcriber, powered by OpenAI's Whisper.
+- [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.

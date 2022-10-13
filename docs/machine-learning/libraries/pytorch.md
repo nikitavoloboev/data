@@ -457,3 +457,4 @@ title: PyTorch
 - [light-the-torch](https://github.com/pmeier/light-the-torch) - Install PyTorch distributions with computation backend auto-detection.
 - [OpenMetricLearning](https://github.com/OML-Team/open-metric-learning) - Library for metric learning pipelines.
 - [NerfAcc](https://github.com/KAIR-BAIR/nerfacc) - PyTorch Nerf acceleration toolbox for both training and inference.
+- [PyTorch Estimate Flops](https://github.com/1adrianb/pytorch-estimate-flops) - Estimate/count FLOPS for a given neural network using PyTorch.
