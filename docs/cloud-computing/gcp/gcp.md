@@ -135,3 +135,4 @@ Looking into [Railway](https://railway.app/) & [Cloudflare](https://www.cloudfla
 - [Cloud Spanner Emulator](https://github.com/GoogleCloudPlatform/cloud-spanner-emulator) - Open source emulator for Cloud Spanner.
 - [Gcloud storage: Faster data transfers for Cloud Storage (2022)](https://cloud.google.com/blog/products/storage-data-transfer/new-gcloud-storage-cli-for-your-data-transfers) ([HN](https://news.ycombinator.com/item?id=33125176))
 - [Google Cloud tasks emulator](https://github.com/aertje/cloud-tasks-emulator)
+- [Python Client for Cloud Logging](https://github.com/googleapis/python-logging) - Writes log entries and manages your Cloud Logging configuration.

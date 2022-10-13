@@ -4,6 +4,8 @@ title: MDMA
 
 # [MDMA](https://psychonautwiki.org/wiki/MDMA)
 
+[Guide on how to reduce MDMA neurotoxicity](https://www.reddit.com/r/Borax/comments/w5c1x/a_stepbystep_guide_to_reducing_mdma_neurotoxicity/) is a must read. [Borax Combo](https://www.reddit.com/r/Borax/comments/tufa3t/is_there_an_updated_version_of_the_mix/) is a nice mix with similar effects.
+
 ## Notes
 
 - For proper mixing LSD & MDMA, take MDMA 3 hours after LSD. They synergize & potentiate each other so don't take a lot of each.
@@ -11,6 +13,7 @@ title: MDMA
 - [Experts advise to wait at least 3-5 weeks between taking MDMA, and recommend 3 months.](https://www.reddit.com/r/MDMA/comments/ohdx5u/doing_mdma_every_day/)
 - [~ 100mg is good MDMA dose, anything higher has a lot of negative effects.](https://www.reddit.com/r/RationalPsychonaut/comments/onyegg/mdma/)
 - [20mg of 2-FMA, 2mg of 5-meo-mipt, and 80mg of 5-mapb at the same time | supposedly similar to MDMA but with less neurotoxicity](https://www.reddit.com/r/researchchemicals/comments/vfvuhq/whats_the_best_rc_for_parties/)
+- [For Borax combo you need: 1. Selective serotonin releasing agent (like MDAI, MNA, or well, 5-MAPB, although that's not as selective). 2. Dopamine-norepinephrine releasing agent (NDRA), so 2-FMA, 3-FPM or similar. 3. 5-HT1A receptor agonist. Most psychedelics hit that receptor, low dose of a 4-substituted tryptamine of your choice is perfect. Ideally you want your 3 substances to have roughly the same onset and duration, so you can take them all at once. Dosage depends a lot on the individual (body weight, tolerance, and how strong you prefer your rolls). You can freely adjust every part of it though, if for example you enjoy a very physically stimulating experience, you can go for a higher dose of the stimulant; if you want more visuals and headspace, go for something like 15mg 4-HO-MET instead of 5mg, and so on.](https://www.reddit.com/r/Borax/comments/tufa3t/is_there_an_updated_version_of_the_mix/)
 
 ## Links
 
@@ -32,3 +35,7 @@ title: MDMA
 - [MDMA reopens child-like “critical periods” in the brain (2021)](https://www.analyticalcannabis.com/articles/mdma-reopens-child-like-critical-periods-in-the-brain-to-promote-mental-healing-313357) ([HN](https://news.ycombinator.com/item?id=28467634))
 - [Trust Surrender Receive: How MDMA Can Release Us From Trauma and PTSD by Anne Other (2017)](https://www.goodreads.com/book/show/36234395-trust-surrender-receive)
 - [A Manual for MDMA-Assisted Psychotherapy in the Treatment of Posttraumatic Stress Disorder](https://s3-us-west-1.amazonaws.com/mapscontent/research-archive/published/MDMA-Assisted_Psychotherapy_Treatment_Manual_Version_6_FINAL.pdf)
+- [A step-by-step guide to reducing MDMA neurotoxicity](https://www.reddit.com/r/Borax/comments/w5c1x/a_stepbystep_guide_to_reducing_mdma_neurotoxicity/)
+- [How to run an "acetone wash" on MDMA to remove caffeine, leftover precursors and some other impurities](https://www.reddit.com/r/Borax/comments/pxccet/how_to_run_an_acetone_wash_on_mdma_to_remove/)
+- [Making MDMA from scratch](https://www.reddit.com/r/Borax/comments/r738jn/making_mdma_from_scratch/)
+- [Current understanding of 5-MAPB toxicity and harm reduction strategies](https://www.reddit.com/r/Borax/comments/s9e1ma/current_understanding_of_5mapb_toxicity_and_harm/)

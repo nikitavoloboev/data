@@ -4,7 +4,7 @@ Our body likes to stay and keep itself in a state of homeostasis. I think it is 
 
 Moderation is key with drugs of any kind, be it medicine or recreational use. Knowing what the appropriate dosage is, what effects a drug has and what are the consequences of taking the drug is of utmost importance.
 
-Only 'hard' drugs I partake in are [psychedelics](psychedelics/psychedelics.md).
+Only 'hard' drugs I partake in are [psychedelics](psychedelics/psychedelics.md). [Borax](https://www.reddit.com/user/Borax/) is a fun user to follow on Reddit.
 
 ## Notes
 
@@ -81,3 +81,4 @@ Only 'hard' drugs I partake in are [psychedelics](psychedelics/psychedelics.md).
 - [What is truly the worst drug withdrawal there is? (2022)](https://www.reddit.com/r/Drugs/comments/xc0gsz/what_is_truly_the_worst_drug_withdrawal_there_is/)
 - [Best drug for just chilling in ur room listening to music/playing video games?](https://www.reddit.com/r/Drugs/comments/y0g3iv/best_drug_for_just_chilling_in_ur_room_listening/)
 - [Мефедрон тред](https://twitter.com/omur_saltanat/status/1580247892643950592)
+- [Drugs Multireddit](https://www.reddit.com/user/roionsteroids/m/drugs/)

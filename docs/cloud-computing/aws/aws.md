@@ -398,3 +398,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [FireSquid](https://github.com/sousandrei/firesquid) - Simple AWS Firecracker MicroVM Orchestrator.
 - [troposphere](https://github.com/cloudtools/troposphere) - Python library to create AWS CloudFormation descriptions.
 - [Managing resource permissions with AWS SAM connectors](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/managing-permissions-connectors.html) ([Tweet](https://twitter.com/alexwwood/status/1578436134522474496))
+- [AWS MWAA Local Runner](https://github.com/aws/aws-mwaa-local-runner) - Replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.

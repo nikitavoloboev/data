@@ -645,6 +645,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Slash](https://github.com/toss/slash) - Collection of TypeScript/JavaScript packages to build high-quality web services.
 - [Ts-graphviz](https://github.com/ts-graphviz/ts-graphviz) - Simple Graphviz library for TypeScript.
 - [FP-TS Core](https://github.com/fp-ts/core)
+- [Pigly](https://github.com/pigly-di/pigly) - Unobtrusive, manually configured, dependency-injection for JS/TS.
+- [Viae](https://github.com/viae-io/viae) - Bi-directional communication framework.
 
 ## Links
 
@@ -740,3 +742,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Tiny Libs](https://github.com/arthurfiorette/tinylibs) - Monorepo of several JS related packages.
 - [tsdoc-markdown](https://github.com/peterpeterparker/tsdoc-markdown) - Generates markdown documentation from TypeScript source code.
 - [ts-function-inliner](https://github.com/JoshuaKGoldberg/ts-function-inliner) - TypeScript transformation that inlines calls to small functions.
+- [Counterfact](https://github.com/pmcelhaney/counterfact) - OpenAPI / Swagger to TypeScript generator and mock server.

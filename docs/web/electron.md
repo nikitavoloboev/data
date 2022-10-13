@@ -75,3 +75,4 @@ I prefer to build things natively with [SwiftUI](../programming-languages/swift/
 - [VueUse Electron](https://github.com/vueuse/electron) - Enables electron renderer process API as Vue Composition API.
 - [Vite Electron Plugin](https://github.com/electron-vite/vite-plugin-electron)
 - [secure-electron-store](https://github.com/reZach/secure-electron-store) - Secure electron-store that uses ipcMain/ipcRenderer.
+- [Electron Build Tools for Visual Studio Code](https://github.com/dsanders11/vscode-electron-build-tools) - Collection of useful VS Code helpers for working with the Electron codebase.

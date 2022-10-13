@@ -209,3 +209,4 @@
 - [Nice history and sci-fi books (2022)](https://twitter.com/waitbutwhy/status/1574428192336658435)
 - [Memorial debate in C Eastern Europe](https://twitter.com/derJamesJackson/status/1566767599408582657)
 - [Baltic nations are not ‘former Soviet states’](https://twitter.com/BadBalticTakes/status/1567068576527355904)
+- [The Paranoia That Cost Hitler World War II | Warlords: Hitler vs Stalin | Timeline](https://www.youtube.com/watch?v=E2zrqzvtWio)

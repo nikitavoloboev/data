@@ -1008,6 +1008,7 @@
 - [scheduler](https://github.com/DigonIO/scheduler) - Simple in-process python scheduler library with asyncio, threading and timezone support.
 - [python-daachorse](https://github.com/daac-tools/python-daachorse) - Fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
 - [Lenses](https://github.com/ingolemo/python-lenses) - Python library that helps you to manipulate large data-structures without mutating them.
+- [pandas-stubs](https://github.com/pandas-dev/pandas-stubs) - Public type stubs for pandas.
 
 ## Notes
 

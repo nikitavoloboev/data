@@ -140,3 +140,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Comedy movies that aren’t stupid (2022)](https://www.reddit.com/r/MovieSuggestions/comments/xav8lf/comedy_movies_that_arent_stupid/)
 - [Great action movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/x9uyyu/actually_good_action_movies/)
 - [Good Movie to Watch](https://agoodmovietowatch.com/) - What to Watch on Streaming.
+- [Movies with endings so sad and/or beautiful that you struggled to hold back tears](https://www.reddit.com/r/MovieSuggestions/comments/y2jwcj/movies_with_endings_so_sad_andor_beautiful_that/)

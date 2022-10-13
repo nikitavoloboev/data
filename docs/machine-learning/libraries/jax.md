@@ -76,3 +76,4 @@ title: JAX
 - [Jaxformer](https://github.com/salesforce/jaxformer) - Minimal library to train LLMs on TPU in JAX.
 - [xpag](https://github.com/perrin-isir/xpag) - Modular reinforcement learning library with JAX agents.
 - [Orbax](https://github.com/google/orbax) - Library providing common utilities for JAX users.
+- [Praxis](https://github.com/google/praxis) - Layer library for Pax. While Praxis is optimized for ML at scale, Praxis has a goal to be usable by other JAX-based ML projects.

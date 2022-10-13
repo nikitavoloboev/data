@@ -585,3 +585,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Take Advantage of Git Rebase (2022)](https://about.gitlab.com/blog/2022/10/06/take-advantage-of-git-rebase/) ([HN](https://news.ycombinator.com/item?id=33107741))
 - [Commit](https://github.com/alt-art/commit) - Command-line tool to guide your template commit messages anywhere, anytime.
 - [GIT for Beginners (2022)](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf)
+- [MergeStat](https://github.com/mergestat/mergestat) - Enables SQL queries for data in git repositories (and related sources, such as the GitHub API).

@@ -303,3 +303,4 @@ title: Svelte
 - [SvelteKit & WunderGraph demo](https://github.com/r-moore/sveltekit-wundergraph)
 - [Svelte-Store-Array](https://github.com/accuser/svelte-store-array) - Collection of higher-order store functions for array-based stores.
 - [Svelte-Keyboard](https://github.com/russellgoldenberg/svelte-keyboard) - Virtual keyboard component for Svelte.
+- [Svelte-Highlight](https://github.com/metonym/svelte-highlight) - Syntax Highlighting for Svelte using highlight.js.

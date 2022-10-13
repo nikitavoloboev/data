@@ -221,6 +221,7 @@ title: OCaml libraries
 - [loko-ml](https://github.com/polytypic/loko-ml) - Lower-Kinded Optics for OCaml.
 - [Tyre](https://github.com/Drup/tyre) - Typed Regular Expressions.
 - [agrep](https://github.com/xavierleroy/ocamlagrep) - String searching with errors, using the Wu-Manber algorithm.
+- [OCaml macros](https://github.com/modular-macros/ocaml-macros)
 
 ## Links
 

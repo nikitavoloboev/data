@@ -71,3 +71,4 @@ title: Fastify
 - [Chino](https://github.com/soulsam480/chino) - End-to-End type safety for REST APIs written in Fastify.
 - [fastify-slow-down](https://github.com/nearform/fastify-slow-down) - Slow down plugin for fastify.
 - [Kita](https://github.com/arthurfiorette/kita) - Semi-opinionated fastify based typescript framework. No runtime code == blazingly fast.
+- [fastify-metrics](https://github.com/SkeLLLa/fastify-metrics) - Prometheus metrics exporter for Fastify.

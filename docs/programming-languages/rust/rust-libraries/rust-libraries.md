@@ -2427,7 +2427,7 @@
 - [Create Rust App](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command. ([HN](https://news.ycombinator.com/item?id=30228325))
 - [What are your must install crates when starting a new project? (2022)](https://www.reddit.com/r/rust/comments/slg9d2/what_are_your_must_install_crates_when_starting_a/)
 - [A Plugin System in Rust](https://nullderef.com/series/rust-plugins/)
-- [release-plz](https://github.com/MarcoIeni/release-plz) - Release to Github and crates.io.
+- [release-plz](https://github.com/MarcoIeni/release-plz) - Release to Github and crates.io. ([Release Rust packages from CI](https://www.marcoieni.com/2022/06/release-plz-release-rust-packages-from-ci/))
 - [Compile-time checked Builder pattern derive macro with zero-memory overhead](https://github.com/estebank/makeit) ([Tweet](https://twitter.com/ekuber/status/1493647808754294789))
 - [Diplomat](https://github.com/rust-diplomat/diplomat) - Experimental Rust tool for generating FFI definitions allowing many other languages to call Rust code.
 - [clawbang](https://github.com/chrisdickinson/clawbang) - Command line interface meant to bridge the gap between Rust and shell scripting.

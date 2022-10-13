@@ -58,3 +58,4 @@ title: Astro
 - [Astro Portable Text](https://github.com/theisel/astro-portabletext) - Render Portable Text with Astro.
 - [Persistent Island with Astro](https://twitter.com/charca/status/1577043347176189952)
 - [Simple Blog Astro Template](https://littlesticks.dev/templates/simple-blog/)
+- [astroSpeed](https://github.com/oslabs-beta/astrospeed) - Performance monitor for Astro & Next.js web applications.

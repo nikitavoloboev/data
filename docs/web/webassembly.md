@@ -376,3 +376,4 @@ title: WebAssembly
 - [lol_alloc](https://github.com/Craig-Macomber/lol_alloc) - Laughably simple wasm global_allocator.
 - [Avoiding allocations in Rust to shrink Wasm modules (2022)](https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/) ([Reddit](https://www.reddit.com/r/rust/comments/xxvwyy/avoiding_allocations_in_rust_to_shrink_wasm/))
 - [Runno](https://runno.dev/wasi) - WASI playground for running CLI binaries in the browser. ([HN](https://news.ycombinator.com/item?id=33146686))
+- [mod_wasm](https://github.com/vmware-labs/mod_wasm) - Extension module for the Apache HTTP Server (httpd) that enables the usage of WebAssembly (Wasm). This module will allow to execute certain tasks in the backend in a very efficient and secure way.

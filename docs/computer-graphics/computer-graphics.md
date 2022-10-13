@@ -251,3 +251,4 @@
 - [Algebraic Geometry for Computer Graphics](https://courses.cs.washington.edu/courses/cse590b/13au/) ([HN](https://news.ycombinator.com/item?id=33133369))
 - [Rendu](https://github.com/kosua20/Rendu) - Simple real time graphics playground for experimentations.
 - [Grid parts and relationships](https://www.redblobgames.com/grids/parts/)
+- [FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - Fastest and most memory efficient lattice Boltzmann CFD software, running on any GPU via OpenCL.

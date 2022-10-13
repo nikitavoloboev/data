@@ -554,6 +554,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [objstore](https://github.com/thanos-io/objstore) - Go module providing unified interface and efficient clients to work with various object storage providers until like GCS, S3, Azure, SWIFT, COS and more.
 - [Google Spanner SpanSQL Query Builder](https://github.com/mindful-hq/spansql-query-builder)
 - [approx-lru](https://github.com/bpowers/approx-lru) - Go LRU cache.
+- [ScyllaDB Go Driver](https://github.com/scylladb/scylla-go-driver) ([Article](https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/)) ([HN](https://news.ycombinator.com/item?id=33187677))
 
 ## ML
 

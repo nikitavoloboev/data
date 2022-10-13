@@ -138,6 +138,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Hipstapaper](https://github.com/jeffreybergier/Hipstapaper) - iOS and Mac Reading List App.
 - [DyeEye](https://github.com/jeffreybergier/DyeEye) - Experimenting with Live Activities and Dynamic Island.
 - [Kiwix](https://github.com/kiwix/apple) - Offline access to Wikipedia. iOS and macOS.
+- [Hedvig](https://github.com/HedvigInsurance/ugglan) - Insurance app for iOS.
 
 ## Other
 

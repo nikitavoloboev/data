@@ -141,3 +141,4 @@ title: BitTorrent
 - [OpenVPN and Transmission with WebUI](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel.
 - [stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission.
 - [bt-fetch](https://github.com/RangerMauve/bt-fetch) - Interact with Bittorrent the same way you would websites via fetch.
+- [LinuxServer.io qBittorrent](https://github.com/linuxserver/docker-qbittorrent)

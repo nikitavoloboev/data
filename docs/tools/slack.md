@@ -12,6 +12,7 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [dev-help Helper Bot](https://github.com/artsy/dev-help-helper-bot) - Marking thread that are solved by adding a ✅ on them.
 - [Hacker News Slack Bot](https://github.com/steven-tey/hacker-news-slack-bot) - Bot that monitors Hacker News for mentions of certain keywords, sends them to Slack.
 - [Zenra Bot for Slack](https://github.com/yusukebe/slack-zenra-bot) - Using new Slack platform in Deno.
+- [Chat bot for Slack](https://github.com/scrapinghub/slackbot)
 
 ## Notes
 
