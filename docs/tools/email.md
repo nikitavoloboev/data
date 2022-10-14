@@ -280,3 +280,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Categorizing subscription emails with Gmail](https://twitter.com/fastworkers6/status/1579031820511084544)
 - [React Email](https://github.com/zenorocha/react-email) - Build and send emails using React.
 - [go-premailer](https://github.com/vanng822/go-premailer) - Inline styling for HTML mail in Go.
+- [Himalaya](https://git.sr.ht/~soywod/himalaya-lib) - Rust library for email management. ([Lobsters](https://lobste.rs/s/8duj58/rust_library_manage_emails))

@@ -214,3 +214,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [Silverfir](https://github.com/mbbill/Silverfir) - WebAssembly runtime for embedded systems.
 - [Espressif IDF Extra Components](https://github.com/espressif/idf-extra-components)
 - [Teensycore](https://github.com/SharpCoder/teensycore) - Kernel written in rust for the Teensy-4.0 microcontroller.
+- [Intro to Embedded RE Part 1: Tools and Series Overview (2022)](https://voidstarsec.com/blog/intro-to-embedded-part-1)

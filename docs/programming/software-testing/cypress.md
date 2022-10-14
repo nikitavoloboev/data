@@ -65,3 +65,4 @@ title: Cypress
 - [Rewriting tests from Cypress to Playwright using GPT3](https://contra.com/p/PWBcPYZc-rewriting-tests-from-cypress-to-playwright-using-gpt-3)
 - [cypress-thenify](https://github.com/mbolotov/cypress-thenify) - Get rid of Cypress `then` callback hell.
 - [Testing React Apps In 2022 With Cypress: An In-Depth Guide For Beginners](https://profy.dev/article/cypress-react) ([Reddit](https://www.reddit.com/r/reactjs/comments/xlv4s6/testing_react_apps_with_cypress_an_indepth_guide/)) ([HN](https://news.ycombinator.com/item?id=33047136))
+- [Cypress plugin API](https://github.com/filiphric/cypress-plugin-api) - Show your API information in the Cypress UI runner.

@@ -219,3 +219,4 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [ModernDeck](https://moderndeck.app/) - Beautiful, powerful Twitter client for desktop. ([Code](https://github.com/dangeredwolf/ModernDeck))
 - [How to analyze edited Tweets with the Twitter API v2 using Python (2022)](https://dev.to/suhemparack/how-to-analyze-edited-tweets-with-the-twitter-api-v2-using-python-odj)
 - [Nitter Instances Uptime](https://xnaas.github.io/nitter-instances/) - Automated uptime monitoring of Nitter instances. ([Code](https://github.com/xnaas/nitter-instances))
+- [Great devs on Twitter to follow](https://twitter.com/swyx/status/1580660708550680576)

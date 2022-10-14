@@ -293,3 +293,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Ask HN: Any great books about technical writing? (2022)](https://news.ycombinator.com/item?id=32342493)
 - [Walter Benjamin's rules for writing](https://twitter.com/Samantharhill/status/1566398330468433921)
 - [How James Clear is Writing His Next Book](https://every.to/superorganizers/how-james-clear-is-writing-his-next-book) ([HN](https://news.ycombinator.com/item?id=32887140))
+- [Replace the “very” in your sentence](https://www.losethevery.com/) ([HN](https://news.ycombinator.com/item?id=33196773))

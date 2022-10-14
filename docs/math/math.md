@@ -404,3 +404,4 @@
 - [Efficient and Near-Optimal Online Portfolio Selection (2022)](https://arxiv.org/abs/2209.13932)
 - [Engineering Math: Vector Calculus and Partial Differential Equations](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S)
 - [Ask HN: What are the best general math workbooks? (2022)](https://news.ycombinator.com/item?id=33192084)
+- [Mathematical Concepts (2015)](https://link.springer.com/book/10.1007/978-3-319-20436-9)

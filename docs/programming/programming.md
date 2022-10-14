@@ -2,6 +2,8 @@
 
 [CodeCrafters](https://codecrafters.io/) projects are nice. [bun](https://github.com/Jarred-Sumner/bun) is a well designed project I use for inspiration (although it's in Zig). Love the way [everything is commented out](https://twitter.com/jarredsumner/status/1507392298379743237) and the focus on performance.
 
+Most useful thing to know when trying to solve problems especially related to programming is to [stop thinking about shortcuts and abstractions early](https://twitter.com/rossipedia/status/1580639227313676288). [Do the simplest thing that solves the problem. Then make pretty (add docs, nice designs, ..). Then make fast.](https://twitter.com/nvs/status/1405240039299117057)
+
 ## Notes
 
 - [How to write fast code: reduce memory access. All of these tips stem from that: 1. Reduce the size of your data structures so more can fit in CPU cache. 2. Replace strings with numbers. 3. Make use of bit flags. Don’t waste space on booleans. 4. Access memory linearly. 5. Make judicious use of the heap. Inline the most commonly accessed values, move large or less common ones to the heap. 6. Model data like a database. Normalize commonly used structures and pass ids rather than copying them around. 7. Consider using a struct of arrays rather than an array of structs. For example, if you have two types of value, store them in separate arrays instead of a single one with a type field. This reduces memory usage and makes iterating by type linear.](https://twitter.com/devongovett/status/1504476131818237967)

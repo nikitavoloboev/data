@@ -27,6 +27,7 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Equinix Metal](https://metal.equinix.com/) - Bare Metal Server Provider - Global, Automated, Interconnected. ([GitHub](https://github.com/packethost))
 - [GRAVITL](https://gravitl.com/) - Build the distributed cloud. ([GitHub](https://github.com/gravitl))
 - [Exoscale Cloud Hosting](https://www.exoscale.com/) - Data centers in Germany, Austria & Switzerland. ([GitHub](https://github.com/exoscale))
+- [Crusoe Cloud](https://crusoecloud.com/)
 
 ## Web
 

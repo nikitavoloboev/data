@@ -212,3 +212,5 @@
 - [LambdaLisp](https://github.com/woodrush/lambdalisp) - Lisp Interpreter That Runs on Lambda Calculus. ([Article](https://woodrush.github.io/blog/lambdalisp.html)) ([HN](https://news.ycombinator.com/item?id=32879848))
 - [Mini Lisp with Cheney GC](https://github.com/Robert-van-Engelen/lisp-cheney) ([Reddit](https://www.reddit.com/r/lisp/comments/xhnt9q/mini_lisp_in_under_1k_lines_of_c_cheney_or/))
 - [Mini Lisp with mark-sweep GC](https://github.com/Robert-van-Engelen/lisp)
+- [Zero Feet: a proposal for a systems-free Lisp](https://applied-langua.ge/posts/zero-feet.html)
+- [They Called It LISP for a Reason: List Processing (2005)](https://gigamonkeys.com/book/they-called-it-lisp-for-a-reason-list-processing.html) ([HN](https://news.ycombinator.com/item?id=33162318))

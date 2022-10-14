@@ -664,3 +664,4 @@
 - [Ask Me Anything: A simple strategy for prompting language models](https://github.com/HazyResearch/ama_prompting)
 - [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval (2022)](https://arxiv.org/abs/2201.12431) ([Code](https://github.com/neulab/knn-transformers))
 - [A Kernel-Based View of Language Model Fine-Tuning (2022)](https://arxiv.org/abs/2210.05643) ([Code](https://github.com/princeton-nlp/LM-Kernel-FT))
+- [Large Language Models are few(1)-shot Table Reasoners (2022)](https://arxiv.org/abs/2210.06710) ([Tweet](https://twitter.com/WenhuChen/status/1580732300924694528))

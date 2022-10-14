@@ -949,3 +949,6 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [TT-NF: Tensor Train Neural Fields (2022)](https://www.obukhov.ai/ttnf) ([Code](https://github.com/toshas/ttnf))
 - [Forecasting Future World Events with Neural Networks (2022)](https://arxiv.org/abs/2206.15474) ([Code](https://github.com/andyzoujm/autocast))
 - [NeuML](https://neuml.com/) - Applying machine learning to solve everyday problems. ([GitHub](https://github.com/neuml))
+- [ML founder starter stack (2022)](https://twitter.com/erikdoingthings/status/1580616858679578647)
+- [Build AI product MVP quickly with HuggingFace (2022)](https://twitter.com/1littlecoder/status/1580555066791972866)
+- [Efficient and Scalable Parallel Functional Programming Through Disentanglement (2022)](https://www.youtube.com/watch?v=IMPF-Vz1YqI) ([Tweet](https://twitter.com/shwestrick/status/1580571734218264577))

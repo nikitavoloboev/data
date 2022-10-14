@@ -154,6 +154,7 @@ The way our brains take input from different senses (eyes, touch) and then decid
 - [How to build a cognitive map (2022)](https://www.nature.com/articles/s41593-022-01153-y)
 - [Mind Reader: Reconstructing complex images from brain activities (2022)](https://nips.cc/Conferences/2022/Schedule?showEvent=53580) ([Code](https://github.com/sklin93/mind-reader))
 - [A New Doorway to the Brain (2022)](https://nautil.us/a-new-doorway-to-the-brain-242099/)
+- [Deep language algorithms predict semantic comprehension from brain activity (2022)](https://www.nature.com/articles/s41598-022-20460-9) ([HN](https://news.ycombinator.com/item?id=33197285))
 
 ## Images
 

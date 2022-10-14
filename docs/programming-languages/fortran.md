@@ -26,3 +26,4 @@ title: Fortran
 - [Operator precedence by textual substitution: Technique from early Fortran (2022)](https://www.kmjn.org/notes/operator_precedence_fortran.html)
 - [FORTRAN in 100 Seconds](https://www.youtube.com/watch?v=NMWzgy8FsKs)
 - [LFortran](https://github.com/lfortran/lfortran) - Fortran compiler built on top of LLVM.
+- [A modern Fortran scientific programming ecosystem (2022)](https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html) ([HN](https://news.ycombinator.com/item?id=33194773))

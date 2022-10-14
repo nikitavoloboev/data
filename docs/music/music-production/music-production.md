@@ -426,3 +426,4 @@
 - [MIDI Visualizer](https://github.com/kosua20/MIDIVisualizer) - Small MIDI visualizer tool, using OpenGL.
 - [How Brian Eno Created Ambient 1: Music for Airports](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/) ([HN](https://news.ycombinator.com/item?id=33172448))
 - [splitter.fm](https://splitter.fm/) - Listen to your favorite songs stem-by-stem. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/y1glbz/splitterfm_listen_to_the_individual/))
+- [Creating AI Music Videos with Stable Diffusion (2022)](https://aiart.dev/posts/sd-music-videos/sd_music_videos.html) ([Tweet](https://twitter.com/_nateraw/status/1580629123403481089))

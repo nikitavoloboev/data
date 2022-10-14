@@ -408,3 +408,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Easy Fluid Typography With clamp() Using Sass Functions (2022)](https://www.smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/)
 - [Fallback Font Generator](https://screenspan.net/fallback)
 - [Pangram Pangram Foundry](https://pangrampangram.com/) - Free to Try Quality Fonts and Typefaces. ([Twitter](https://twitter.com/PangramPangram_))
+- [5 nice free Google Fonts](https://twitter.com/DallasBarnes/status/1580613966451347456)

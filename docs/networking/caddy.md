@@ -69,3 +69,4 @@ title: Caddy
 - [Caddy Proxy Manager](https://github.com/Pacerino/CaddyProxyManager) - Manage Caddy via a web interface. ([Forum post](https://caddy.community/t/so-ive-created-a-web-ui-for-caddy/17278?u=matt))
 - [Caddy Community](https://caddy.community/)
 - [Caddy Distribution Resources](https://github.com/caddyserver/dist) - Resources for packaging and distributing Caddy.
+- [Get HTTPS locally with Caddy](https://twitter.com/divyenduz/status/1580620290345693184)

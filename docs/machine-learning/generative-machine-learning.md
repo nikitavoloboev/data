@@ -99,3 +99,6 @@
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Open source Stable Diffusion toolkit and WebUI. ([HN](https://news.ycombinator.com/item?id=33155074))
 - [Astraea](https://www.strmr.com/) - Tailor-made AI image generation.
 - [Getting started with diffusion](https://github.com/fastai/diffusion-nbs)
+- [14 awesome Stable Diffusion notebooks](https://twitter.com/StableDiffusion/status/1580840619114582016)
+- [Understanding Diffusion Models: A Unified Perspective (2022)](https://arxiv.org/abs/2208.11970) ([Annotated](https://github.com/AakashKumarNain/annotated_research_papers/blob/master/diffusion_models/understanding_diffusion_models.pdf))
+- [Maple Diffusion](https://github.com/madebyollin/maple-diffusion) - Runs Stable Diffusion models locally on macOS / iOS devices, in Swift, using the MPSGraph framework.

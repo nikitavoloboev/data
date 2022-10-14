@@ -93,6 +93,7 @@ title: Scheme
 - [Schism](https://github.com/schism-lang/schism) - Compiler from Scheme to WebAssembly.
 - [thunderchez](https://github.com/ovenpasta/thunderchez) - Libraries for Chez Scheme productivity.
 - [The Little Typer](https://thelittletyper.com/) ([Review](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/)) ([HN](https://news.ycombinator.com/item?id=33162971))
+- [The Missing Prelude to The Little Typer's Trickiest Chapter (2022)](https://ahelwer.ca/post/2022-10-13-little-typer-ch9/)
 - [Scheme interpreter in Scala](https://github.com/rami3l/yascm)
 - [Scheje](https://github.com/turbopape/scheje) - Scheme in Clojure.
 - [Going from Python to Guile Scheme](http://www.draketo.de/proj/py2guile/) ([Lobsters](https://lobste.rs/s/mvmbcv/going_from_python_guile_scheme))

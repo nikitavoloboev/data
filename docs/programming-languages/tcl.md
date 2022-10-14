@@ -26,3 +26,4 @@ title: Tcl
 - [History of Tcl](https://www.tcl.tk/about/history.html) ([HN](https://news.ycombinator.com/item?id=31111220))
 - [Tcl the misunderstood](http://antirez.com/articoli/tclmisunderstood.html)
 - [Molt](https://github.com/wduquette/molt) - Embeddable TCL Interpreter for Rust applications.
+- [Tcl Ported to Go](https://news.ycombinator.com/item?id=33197603)

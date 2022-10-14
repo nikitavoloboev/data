@@ -181,6 +181,8 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Jordan Rose](https://belkadan.com/blog/)
 - [The Brown PLT Blog](https://blog.brownplt.org/)
 - [Nick McDonald](https://nickmcd.me/)
+- [Andrew Helwer](https://ahelwer.ca/post/)
+- [Ollin Boer Bohan](https://madebyoll.in/)
 
 ## Notes
 

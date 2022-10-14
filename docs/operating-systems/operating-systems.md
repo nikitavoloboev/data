@@ -386,3 +386,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Ask HN: Examples of Microkernels? (2022)](https://news.ycombinator.com/item?id=33078441)
 - [Operating systems that is a runtime of a programming language](https://www.reddit.com/r/ProgrammingLanguages/comments/xyrah5/is_there_an_operating_systems_that_is_a_runtime/)
 - [If a brand new OS shipped tomorrow, what about it would make you excited?](https://twitter.com/rsms/status/1579478016245526530)
+- [Digging into a QEMU problem of slow data copying (2022)](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html) ([HN](https://news.ycombinator.com/item?id=33192152))

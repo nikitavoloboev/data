@@ -128,3 +128,4 @@ title: GPU
 - [CoreWeave](https://coreweave.com/) - GPU Cloud.
 - [Banana](https://www.banana.dev/) - Machine Learning Model Deployment on Serverless GPUs. ([Twitter](https://twitter.com/BananaDev_))
 - [Reverse Engineering a GPU from 2009 (2022)](https://garnet.codeberg.page/posts/gpu-reversing/)
+- [Crusoe Cloud GPU Pricing](https://crusoecloud.com/pricing/) ([Tweet](https://twitter.com/YousifAstar/status/1580657205308583936))

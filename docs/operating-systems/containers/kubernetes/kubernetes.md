@@ -833,3 +833,4 @@ title: Kubernetes
 - [crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files.
 - [CKAD Exercises](https://github.com/dgkanatsios/CKAD-exercises) - Set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation.
 - [Kubernetes OpenAPI Spec](https://github.com/tommy351/kubernetes-openapi-spec)
+- [Using flux to automate simple tasks (2022)](https://siebjee.nl/posts/using-flux-to-automate-simple-tasks/) ([HN](https://news.ycombinator.com/item?id=33174548))

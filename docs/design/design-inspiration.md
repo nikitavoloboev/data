@@ -2,7 +2,7 @@
 
 I follow a [few designers on Dribble](https://dribbble.com/nikitavoloboev/following) whose work I like. I also keep a [list of artists & art I liked](../art/art.md).
 
-Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage) (with its [features](https://linear.app/features) showcase) is great. [This HN thread on elegant software](https://news.ycombinator.com/item?id=31230903) is a good read too.
+Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage) (with its [features](https://linear.app/features) showcase) is [great](https://twitter.com/jonsamp/status/1580628743617269760). [This HN thread on elegant software](https://news.ycombinator.com/item?id=31230903) is a good read too.
 
 [Arc](https://thebrowser.company/) has a [pretty onboard experience](https://twitter.com/darylginn/status/1549720866316902402).
 
@@ -19,7 +19,7 @@ Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage)
 - [Community](https://www.community.com/)
 - [Instatus](https://instatus.com/)
 - [Primer](https://primer.com/)
-- [Linear](https://linear.app/) ([Tweet](https://twitter.com/Stammy/status/1333466442235322370)) ([Features](https://linear.app/features))
+- [Linear](https://linear.app/) ([Tweet](https://twitter.com/Stammy/status/1333466442235322370)) ([Features](https://linear.app/features)) ([Tweet](https://twitter.com/jonsamp/status/1580628743617269760)) ([HN](https://news.ycombinator.com/item?id=33199304))
 - [Scruples Studio](https://scruples.studio/)
 - [Useful Books](https://www.usefulbooks.com/)
 - [BrandBird Studio](https://www.brandbird.app/)

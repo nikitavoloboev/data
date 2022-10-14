@@ -138,3 +138,5 @@ title: Three.js
 - [Enable3d](https://github.com/enable3d/enable3d) - Standalone 3D Framework / Physics for three.js (using ammo.js) / 3D extension for Phaser 3. ([Web](https://enable3d.io/))
 - [Modern ThreeJS](https://github.com/alvarosabu/modern-three) - Modern ThreeJS boilerplate powered by Vite & Typescript.
 - [Needle Engine](https://github.com/needle-tools/needle-engine-support) - Web-based runtime for 3D apps. It runs on your machine for development, and can be deployed anywhere. It is flexible, extensible, and collaboration and XR come naturally.
+- [ThreeJS Geometry Welder](https://github.com/0xAxiome/three-geometry-welder) - Customizable way of merging your buffer geometry.
+- [Awesome ThreeJS](https://github.com/0xAxiome/awesome-threejs)

@@ -134,3 +134,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [What is your go-to bag recommendations? (2022)](https://www.reddit.com/r/onebag/comments/xb0pm4/what_is_your_goto_bag_recommendations/)
 - [OpenRailwayMap](https://www.openrailwaymap.org/)
 - [У кого какой любимый город? (2022)](https://twitter.com/paragvaev/status/1577331403066327043)
+- [Nice places to visit in winter](https://twitter.com/tolstoybb/status/1580645847452110849)
