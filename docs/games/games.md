@@ -178,6 +178,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Botnet](https://github.com/JMS55/botnet) - Multiplayer programming game using Rust and WebAssembly.
 - [Unvanquished](https://github.com/Unvanquished/Unvanquished) - FPS/RTS hybrid game powered by the Daemon engine.
 - [Thyme](https://github.com/TheAssemblyArmada/Thyme) - Open source re-implementation of Generals : Zero Hour written in C++.
+- [Fallout 2 Community Edition](https://github.com/alexbatalov/fallout2-ce)
 
 ## Awesome games (other)
 

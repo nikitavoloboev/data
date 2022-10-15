@@ -106,6 +106,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Which key](https://github.com/liuchengxu/vim-which-key) - Show keybindings in popup.
 - [Sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
 - [Titlecase](https://github.com/christoomey/vim-titlecase) - Titlecase text.
+- [Neo-Minimap](https://github.com/ziontee113/neo-minimap) - Plugin for Neovim that lets you create your own "minimap" from Treesitter Queries or Vim Regex.
 - [neoinclude.vim](https://github.com/Shougo/neoinclude.vim) - Include completion framework for neocomplete/deoplete.
 - [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - Adds snippet support.
 - [nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Make Neovim's fold look modern and keep high performance.
@@ -188,6 +189,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers.
 - [Noice](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+- [nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - Fast and asynchronous auto-completion plugin for Neovim, focused on LSP.
 
 ## Looks
 

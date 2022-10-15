@@ -83,7 +83,7 @@
 - [If Aliens Exist, Here’s How We’ll Find Them (2021)](https://nautil.us/issue/97/wonder/if-aliens-exist-heres-how-well-find-them) ([HN](https://news.ycombinator.com/item?id=26262658))
 - [Mars Is No Earth (2021)](https://www.theatlantic.com/ideas/archive/2021/02/mars-is-no-earth/618133/) ([HN](https://news.ycombinator.com/item?id=26276381))
 - [Spaceprob.es](https://spaceprob.es/) - Catalogs the active human-made machines that freckle our solar system.
-- [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization) ([HN](https://news.ycombinator.com/item?id=26309367))
+- [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization) ([HN](https://news.ycombinator.com/item?id=26309367)) ([HN](https://news.ycombinator.com/item?id=33205563))
 - [Milky Way, 12 years, 1250 hours of exposures and 125 x 22 degrees of sky (2021)](https://astroanarchy.blogspot.com/2021/03/gigapixel-mosaic-of-milky-way-1250.html) ([HN](https://news.ycombinator.com/item?id=26490579))
 - [Setting Up Starlink, SpaceX's Satellite Internet (2021)](https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet) ([HN](https://news.ycombinator.com/item?id=26760735))
 - [Inspiration4](https://inspiration4.com/) - Planned SpaceX Crew Dragon mission to low Earth orbit.

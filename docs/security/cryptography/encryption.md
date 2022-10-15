@@ -94,3 +94,4 @@
 - [Post-Quantum Cryptography: Digital Signature Schemes](https://csrc.nist.gov/projects/pqc-dig-sig/standardization/call-for-proposals)
 - [The Rise of Fully Homomorphic Encryption (2022)](https://queue.acm.org/detail.cfm?id=3561800) ([HN](https://news.ycombinator.com/item?id=33019211))
 - [age and Authenticated Encryption (2022)](https://words.filippo.io/dispatches/age-authentication/) ([Lobsters](https://lobste.rs/s/rg8chp/age_authenticated_encryption))
+- [Dexios](https://github.com/brxken128/dexios) - Secure file encryption utility, written in Rust.

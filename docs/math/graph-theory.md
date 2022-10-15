@@ -70,3 +70,4 @@ title: Graph theory
 - [Julius Graph Engine](https://github.com/JuliusTechCo/JuliusGraph) - Group of researchers and engineers passionate about graph computing. ([Docs](https://juliustechco.github.io/JuliusGraph/dev/))
 - [Semantic Networks](https://www.jfsowa.com/pubs/semnet.htm)
 - [Change Detection in a sequence of Graphs](https://github.com/dzambon/cdg)
+- [Sugiyama](https://github.com/KadaB/sugiyama) - Graph rendering.

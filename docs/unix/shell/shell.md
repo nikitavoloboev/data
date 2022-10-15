@@ -249,3 +249,4 @@ All active variables can be seen by running `env`.
 - [Lunatic.chat](https://github.com/lunatic-solutions/chat) - Telnet chat server written in Rust, running on Lunatic.
 - [Transcending Posix: The End of an Era? (2022)](https://www.usenix.org/publications/loginonline/transcending-posix-end-era) ([HN](https://news.ycombinator.com/item?id=32789171))
 - [Es](https://github.com/wryun/es-shell) - Shell with higher-order functions.
+- [Ask HN: Is it still possible to live in a terminal? (2022)](https://news.ycombinator.com/item?id=33205970)

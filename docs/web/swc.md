@@ -25,3 +25,4 @@ title: swc
 - [dprint-swc-ext](https://github.com/dprint/dprint-swc-ext) - Functionality to make swc easier to work with.
 - [swc-jotai](https://github.com/pmndrs/swc-jotai) - SWC plugins for Jotai.
 - [SWC-plugin-vanilla-extract](https://github.com/kwonoj/swc-plugin-vanilla-extract)
+- [SWC plugin for transforming import path](https://github.com/ankitchouhan1020/swc-plugin-transform-import)

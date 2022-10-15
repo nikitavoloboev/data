@@ -406,3 +406,4 @@ title: ML Libraries
 - [pathos](https://github.com/uqfoundation/pathos) - Parallel graph management and execution in heterogeneous computing.
 - [FewBit](https://github.com/skolai/fewbit) - Library for memory efficient training of large neural networks.
 - [Vizier](https://github.com/google/vizier) - Reliable and Flexible Blackbox Optimization.
+- [SubModLib](https://github.com/decile-team/submodlib) - Easy-to-use, efficient and scalable Python library for submodular optimization with a C++ optimization engine.

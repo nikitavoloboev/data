@@ -200,3 +200,4 @@ title: Vue.js
 - [Prisma and Nuxt is my new favorite combo (2022)](https://www.youtube.com/watch?v=IWu3UV8H8-0)
 - [Anu](https://github.com/jd-solanki/anu) - Focused utility based Vue component library built on top of UnoCSS & VueUse. ([Web](https://anu-vue.netlify.app/))
 - [Vue TermUI](https://github.com/vue-terminal/vue-termui) - Modern Terminal UI Framework.
+- [Nuxt Web Bundle](https://github.com/danielroe/nuxt-web-bundle) - Generate web bundles with Nuxt 3.

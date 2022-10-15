@@ -12,6 +12,7 @@ title: Svelte
 
 - [SvelteKit, running on the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge)
 - [SvelteKit Commerce](https://github.com/vercel/sveltekit-commerce)
+- [KitBase Starter Template](https://github.com/kevmodrome/kitbase) - Starter template geared towards quickly spinning up projects using PocketBase and Stripe.
 - [SvelteKit Auth Example](https://github.com/danawoodman/sveltekit-auth-example)
 - [swyxkit](https://github.com/sw-yx/swyxkit) - Opinionated blog starter for SvelteKit + Tailwind + Netlify.
 - [Svelte with Cloudflare Workers](https://github.com/lukeed/pages-fullstack)
@@ -304,3 +305,5 @@ title: Svelte
 - [Svelte-Store-Array](https://github.com/accuser/svelte-store-array) - Collection of higher-order store functions for array-based stores.
 - [Svelte-Keyboard](https://github.com/russellgoldenberg/svelte-keyboard) - Virtual keyboard component for Svelte.
 - [Svelte-Highlight](https://github.com/metonym/svelte-highlight) - Syntax Highlighting for Svelte using highlight.js.
+- [Lucia](https://github.com/pilcrowOnPaper/lucia-sveltekit) ([Reddit](https://www.reddit.com/r/sveltejs/comments/y3slnp/lucia_the_authentication_library_for_sveltekit/))
+- [Svelte-TailwindCSS UI](https://stwui.vercel.app/) - Opinionated yet customizable Svelte-TailwindCSS component library. ([Code](https://github.com/N00nDay/stwui))

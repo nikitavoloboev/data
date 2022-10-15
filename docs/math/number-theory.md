@@ -50,3 +50,4 @@
 - [Number theory explained from first principles](https://explained-from-first-principles.com/number-theory/) ([HN](https://news.ycombinator.com/item?id=32879801))
 - [From Complex Numbers to Quaternions (2021)](https://jingnanshi.com/blog/from_complex_numbers_to_quaternions.html)
 - [Can You Engineer a Formula for Primes?: Willans' Formula (2022)](https://www.youtube.com/watch?v=j5s0h42GfvM) ([Tweet](https://twitter.com/balajis/status/1578684886927364098))
+- [Teenager Solves Stubborn Riddle About Prime Number Look-Alikes (2022)](https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/) ([Video](https://www.youtube.com/watch?v=Kqi_6v2RGB0))

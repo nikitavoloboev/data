@@ -680,3 +680,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Cloudhiker](https://cloudhiker.net/) - Greatest Sites of the Internet.
 - [MetaFilter](https://www.metafilter.com/) - Community Weblog.
 - [Consensus](https://consensus.app/) - Evidence-Based Answers, Faster.
+- [Hack Club Scrapbook](https://scrapbook.hackclub.com/) - Helps you share the things you're working on every day. ([Code](https://github.com/hackclub/scrapbook))

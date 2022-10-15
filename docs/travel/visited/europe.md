@@ -87,3 +87,4 @@ So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](unit
 - [What are the best EU cities/Countries with low taxes? (2022)](https://www.reddit.com/r/cscareerquestionsEU/comments/x7poyn/what_are_the_best_eu_citiescountries_with_low/)
 - [The EU made Simple - YouTube](https://www.youtube.com/c/TheEUmadeSIMPLE/videos)
 - [Which residency / work setup would ensure the lowest possible income tax in Europe? (2022)](https://www.reddit.com/r/eupersonalfinance/comments/y0aato/which_residency_work_setup_would_ensure_the/)
+- [Europe in Crisis with Lyn Alden (2022)](https://www.youtube.com/watch?v=2Vy7b98yqkQ)

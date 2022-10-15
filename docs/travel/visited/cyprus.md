@@ -1,6 +1,10 @@
 # Cyprus
 
-[Limassol](https://en.wikipedia.org/wiki/Limassol) is an amazing city. I especially love the sea food there. [Ocean Baskets](https://cyprus.oceanbasket.com/) has many nice chains with great food.
+[Limassol](https://en.wikipedia.org/wiki/Limassol) is an amazing city. I especially love the sea food there. [Ocean Baskets](https://cyprus.oceanbasket.com/) has many nice chains with great food. Many Russians in Limassol too.
+
+## Notes
+
+- May need to double check with lawyer: You can open business in Cyprus but operate/live in any country. Cyprus income tax is 15%. Cyprus capital gains tax is 0%. So you don't pay tax on money made from holding/selling shares. So if you open a business in Cyprus, you only pay the 15% on income unless you redistribute balance sheet so you don't have an income and reinvest money (like what Amazon/Apple/.. do). If you want to receive actual money from what business makes, you can pay it as part of dividends. This money is then have to be taxed by where you are a tax resident of. So if you are in UK, you pay UK tax. You can however put many expenses as 'business expense' like flight tickets or hardware buys etc. and those you don't have to pay tax for.
 
 ## Links
 

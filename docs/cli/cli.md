@@ -4,6 +4,8 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 
 [cheat.sh](http://cheat.sh/) & [eg](https://github.com/srsudar/eg) are useful. [Command Line Interface Guidelines](https://clig.dev/) are great.
 
+[circumflex](https://github.com/bensadeh/circumflex) is a nicely made CLI written in [Go](../programming-languages/go/go.md) & [Bubble Tea](https://github.com/charmbracelet/bubbletea).
+
 ## Favorite
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Line-oriented search tool that recursively searches your current directory for a regex pattern. ([Andrew Gallant, creator of ripgrep - Sourcegraph Podcast (2020)](https://open.spotify.com/episode/1F6oqtDiBuyeYokEAm3dXx?si=YcYYd-NnTGa6XQcNGrFGbw)) ([Lobsters](https://lobste.rs/s/vunje1/burntsushi_talks_about_creating_ripgrep))

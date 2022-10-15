@@ -60,6 +60,7 @@
 - [getargs](https://github.com/j-tai/getargs) - Truly zero-cost argument parser for Rust.
 - [Anathema](https://github.com/togglebyte/anathema) - TUI library in Rust with a custom templating language and runtime.
 - [Intuitive](https://github.com/enricozb/intuitive) - Library for building declarative text-based user interfaces.
+- [yansi](https://github.com/SergioBenitez/yansi) - Dead simple ANSI terminal color painting library for Rust.
 
 ## Web
 
@@ -450,6 +451,7 @@
 - [Generate Rust code from GraphQL schema](https://github.com/yumemi-inc/codegen-for-async-graphql)
 - [rusty-gql](https://github.com/Tak-Iwamoto/rusty-gql) - Schema First GraphQL library for Rust.
 - [Seaography](https://github.com/SeaQL/seaography) - GraphQL framework for SeaORM.
+- [Juniper Relay Connections](https://github.com/dyedgreen/juniper-relay)
 
 ## Test
 
@@ -615,6 +617,7 @@
 - [cretrit](https://github.com/enquo/cretrit) - Comparison-Revealing Encryption primitives.
 - [sss-rs](https://github.com/dsprenkels/sss-rs) - Rust bindings for my Shamir secret sharing library.
 - [RustCrypto: signatures](https://github.com/RustCrypto/signatures) - Cryptographic signature algorithms: DSA, ECDSA, Ed25519.
+- [Multi-party ECDSA](https://github.com/ZenGo-X/multi-party-ecdsa) - Rust implementation of {t,n}-threshold ECDSA (elliptic curve digital signature algorithm).
 
 ## Linux
 
@@ -2232,6 +2235,7 @@
 - [Rio](https://github.com/rcelha/rio-rs) - Framework for scalable, distributed and stateful services based on message passing between objects.
 - [l10n](https://github.com/MathieuTricoire/l10n) - Rust localization crate built upon fluent-bundle.
 - [rusp](https://github.com/axiros/rusp) - Rust USP toolkit.
+- [page-turner](https://github.com/a1akris/page-turner) - Generic abstraction of paginated APIs.
 
 ## Cargo Plugins
 

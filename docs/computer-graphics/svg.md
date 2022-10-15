@@ -170,3 +170,4 @@
 - [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator. ([Code](https://github.com/catchspider2002/svelte-svg-patterns))
 - [SVG playground](https://css-doodle.com/svg/) ([Code](https://github.com/css-doodle/svg))
 - [Satori](https://github.com/vercel/satori) - Convert HTML and CSS to SVG. ([HN](https://news.ycombinator.com/item?id=33156130))
+- [SVG sprites: old-school, modern, unknown, and forgotten (2022)](https://pepelsbey.dev/articles/svg-sprites/)

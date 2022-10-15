@@ -136,7 +136,7 @@ title: Racket
 - [Ray tracing with Racket](https://github.com/nikofeyn/ray-tracing-with-racket)
 - [set-extras](https://github.com/philnguyen/set-extras) - Some extra functionalities for set in Typed Racket.
 - [json-type-provider](https://github.com/philnguyen/json-type-provider) - Well-typed JSON parser generator inspired by Type Provider.
-- [pyffi](https://github.com/soegaard/pyffi) - Use Python from Racket.
+- [Pyffi](https://github.com/soegaard/pyffi) - Use Python from Racket. ([Docs](https://soegaard.github.io/pyffi/An_introduction_to_pyffi.html)) ([HN](https://news.ycombinator.com/item?id=33193681))
 - [Lang Party Summer 2022](https://github.com/lang-party/Summer2022) - Write a language with Racket this summer.
 - [Certifying Interpreters in Racket (2022)](https://kmicinski.com/certifying-interpreters)
 - [Racket->Rhombus: To Sexp or not to Sexp? (2022)](https://gopiandcode.uk/logs/log-racket-and-rhombus-sexp.html) ([Lobsters](https://lobste.rs/s/ndqnr2/racket_rhombus_sexp_not_sexp))

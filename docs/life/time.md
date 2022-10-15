@@ -59,3 +59,5 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [Swatch Internet Time](https://www.timeanddate.com/time/internettime.html) ([HN](https://news.ycombinator.com/item?id=32948420))
 - [minitz](https://github.com/Hexagon/minitz) - Minimal utility to convert to or from any timezone. Deno/Node/Browser. ESM/CommonJS.
 - [The Thorny Problem of Keeping the Internet's Time](https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time) ([HN](https://news.ycombinator.com/item?id=33131195))
+- [belt](https://github.com/waltzofpearls/belt) - CLI app to show your time from a list of selected time zones, and a rust lib to parse dates in string formats that are commonly used.
+- [The Diminishing Returns of Calendar Culture (2022)](https://annehelen.substack.com/p/the-diminishing-returns-of-calendar?publication_id=2450&post_id=77587582&isFreemail=false)

@@ -647,6 +647,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [FP-TS Core](https://github.com/fp-ts/core)
 - [Pigly](https://github.com/pigly-di/pigly) - Unobtrusive, manually configured, dependency-injection for JS/TS.
 - [Viae](https://github.com/viae-io/viae) - Bi-directional communication framework.
+- [Type-Knit](https://github.com/cleaton/type-knit) - Typesafe APIs over Fetch & Streams API standard.
+- [Embedded TypeScript](https://github.com/tatethurston/embedded-typescript) - Type safe embedded TypeScript templates.
 
 ## Links
 
@@ -743,3 +745,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [tsdoc-markdown](https://github.com/peterpeterparker/tsdoc-markdown) - Generates markdown documentation from TypeScript source code.
 - [ts-function-inliner](https://github.com/JoshuaKGoldberg/ts-function-inliner) - TypeScript transformation that inlines calls to small functions.
 - [Counterfact](https://github.com/pmcelhaney/counterfact) - OpenAPI / Swagger to TypeScript generator and mock server.
+- [Knip](https://github.com/webpro/knip) - Find unused files, dependencies and exports in your JS/TS project.

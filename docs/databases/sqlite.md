@@ -259,3 +259,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [libSQL](https://github.com/libsql/libsql) - Open source, open contribution fork of SQLite.
 - [SQLite: QEMU all over again? (2022)](https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c) ([HN](https://news.ycombinator.com/item?id=33081159)) ([Lobsters](https://lobste.rs/s/wvshhd/sqlite_qemu_all_over_again))
 - [great.db](https://github.com/tr1ckydev/great.db) - Powerful, human-friendly database library for JavaScript using SQLite.
+- [SQLite and the N+1 (no) problem (2022)](https://www.youtube.com/watch?v=qPfAQY_RahA)

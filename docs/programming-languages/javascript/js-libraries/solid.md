@@ -135,3 +135,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Solid-Router-Stack](https://github.com/ymzuiku/solid-router-stack) - Solid router use stack like native application.
 - [Solid-Error-Overlay](https://github.com/lxsmnsyc/solid-error-overlay) - Unstyled, dev error overlays for SolidJS.
 - [Capacitor Templates for SolidJS (and Vite)](https://github.com/ionic-team/capacitor-solidjs-templates)
+- [Solid Windowed](https://github.com/titoBouzout/solid-windowed) - Given a list of items, only render what's visible on the screen while allowing scrolling the whole list.

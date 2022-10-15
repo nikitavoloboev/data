@@ -2,6 +2,8 @@
 
 [What is Money, Anyway?](https://news.ycombinator.com/item?id=30825505) is good intro article to economics. And [here](https://www.reddit.com/r/AskEconomics/comments/ujm39z/whats_the_best_route_to_learn_a_solid_foundation/) is a nice thread with more resources.
 
+[Lyn Alden](https://twitter.com/LynAldenContact) is great.
+
 ## Notes
 
 - Capitalism = making money through ownership of capital rather than purely by labour.

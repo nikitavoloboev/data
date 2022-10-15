@@ -270,3 +270,4 @@
 - [Why JWTs Suck as Session Tokens (2017)](https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens) ([HN](https://news.ycombinator.com/item?id=33061873))
 - [Auth UI | Supabase](https://supabase.com/docs/guides/auth/auth-helpers/auth-ui) - Pre-built Auth UI for React.
 - [How to authenticate content in the age of AI?](https://twitter.com/balajis/status/1578671900066476033)
+- [Ask HN: WebAuthn – Replace Password or Second Factor? (2022)](https://news.ycombinator.com/item?id=33203972)

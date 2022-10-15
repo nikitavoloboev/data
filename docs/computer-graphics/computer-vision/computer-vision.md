@@ -965,3 +965,6 @@
 - [On Distillation of Guided Diffusion Models (2022)](https://arxiv.org/abs/2210.03142)
 - [Neural Matching Fields: Implicit Representation of Matching Fields for Visual Correspondence (2022)](https://arxiv.org/abs/2210.02689) ([Code](https://github.com/KU-CVLAB/NeMF))
 - [MaPLe: Multi-modal Prompt Learning (2022)](https://arxiv.org/abs/2210.03117) ([Code](https://github.com/muzairkhattak/multimodal-prompt-learning))
+- [GFNet: Geometric Flow Network for 3D Point Cloud Semantic Segmentation (2022)](https://arxiv.org/abs/2207.02605) ([Code](https://github.com/haibo-qiu/GFNet))
+- [End2End Occluded Face Recognition by Masking Corrupted Features (2022)](https://arxiv.org/abs/2108.09468) ([Code](https://github.com/haibo-qiu/FROM))
+- [Paint Transformer: Feed Forward Neural Painting with Stroke Prediction (2021)](https://arxiv.org/abs/2108.03798) ([Code](https://github.com/Huage001/PaintTransformer))

@@ -145,3 +145,4 @@ title: Speech recognition
 - [React-Speech-Recognition](https://github.com/JamesBrill/react-speech-recognition) - Speech recognition for your React app.
 - [Stage-Whisper](https://github.com/Stage-Whisper/Stage-Whisper) - Easy to use AI transcriber, powered by OpenAI's Whisper.
 - [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
+- [Real-time speech recognition using next-gen Kaldi with ncnn](https://github.com/k2-fsa/sherpa-ncnn)

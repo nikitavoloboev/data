@@ -97,3 +97,4 @@ title: Fuzzing
 - [czz](https://github.com/langston-barrett/czz) - Whole-program, scriptable, multi-language, coverage-guided fuzzer.
 - [Jit-Picking: Differential Fuzzing of JavaScript Engines (2022)](https://publications.cispa.saarland/3773/)
 - [Hacking TMNF: Fuzzing the game server (2022)](https://blog.bricked.tech/posts/tmnf/part1/)
+- [Curl-Fuzzer](https://github.com/curl/curl-fuzzer) - Quality assurance testing for the curl project.

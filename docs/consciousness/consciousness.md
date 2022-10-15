@@ -86,3 +86,4 @@ I practice self reflection (via journaling) & meditation (walks in nature) to ge
 - [Eben Alexander Explaining that Science shows that the brain does not create consciousness](https://www.reddit.com/r/HighStrangeness/comments/w3rhza/neurosurgeon_dr_eben_alexander_explaining_that/)
 - [Under Anesthesia, Where Do Our Minds Go? (2022)](https://nautil.us/under-anesthesia-where-do-our-minds-go-20845/) ([HN](https://news.ycombinator.com/item?id=32246987))
 - [Nick Lane on Origins of Life, Consciousness, Alien Life, Krebs Cycle, and Evolution (2022)](https://www.youtube.com/watch?v=4vqYJIyBis0)
+- [What is it like to have a brain? Ways of looking at consciousness (2022)](https://lareviewofbooks.org/article/what-is-it-like-to-have-a-brain-on-patrick-houses-nineteen-ways-of-looking-at-consciousness/) ([HN](https://news.ycombinator.com/item?id=33169040))

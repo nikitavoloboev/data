@@ -141,3 +141,5 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Great action movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/x9uyyu/actually_good_action_movies/)
 - [Good Movie to Watch](https://agoodmovietowatch.com/) - What to Watch on Streaming.
 - [Movies with endings so sad and/or beautiful that you struggled to hold back tears](https://www.reddit.com/r/MovieSuggestions/comments/y2jwcj/movies_with_endings_so_sad_andor_beautiful_that/)
+- [Movies that are Perfect on every possible aspect (2022)](https://www.reddit.com/r/MovieSuggestions/comments/y409ye/movies_that_are_perfect_on_every_possible_aspect/)
+- [The 35 Best Sci-Fi Movies Of All Time, Ranked (2022)](https://www.cinemablend.com/news/1639139/30-best-sci-fi-movies-of-all-time) ([Reddit](https://www.reddit.com/r/scifi/comments/y40elx/the_35_best_scifi_movies_of_all_time_ranked/))

@@ -281,3 +281,5 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [React Email](https://github.com/zenorocha/react-email) - Build and send emails using React.
 - [go-premailer](https://github.com/vanng822/go-premailer) - Inline styling for HTML mail in Go.
 - [Himalaya](https://git.sr.ht/~soywod/himalaya-lib) - Rust library for email management. ([Lobsters](https://lobste.rs/s/8duj58/rust_library_manage_emails))
+- [MailPace](https://mailpace.com/) - Transactional Email Provider and API. ([GitHub](https://github.com/mailpace))
+- [MailPace Email Templates](https://github.com/mailpace/templates) - Gorgeous Transactional HTML Email Templates built on TailwindCSS.

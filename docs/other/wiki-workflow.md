@@ -4,7 +4,7 @@ The entire wiki is open source on [GitHub](https://github.com/nikitavoloboev/kno
 
 The order of items in sidebar is alphabetical. Previously I used [GitBook](https://www.gitbook.com/) for publishing and that used [SUMMARY.md](https://github.com/nikitavoloboev/knowledge/blob/main/SUMMARY.md) file for custom order of items in sidebar.
 
-I write and edit all the markdown files in this wiki from [Sublime Text](../text-editors/sublime-text/sublime-text.md) with [Vim mode](https://github.com/guillermooo/Six).
+I write and edit all the markdown files in this wiki from [Sublime Text](../text-editors/sublime-text/sublime-text.md) with [Vim mode](https://github.com/guillermooo/Six) or [Obsidan](../tools/obsidian.md).
 
 I use [this Alfred workflow](https://github.com/nikitavoloboev/small-workflows#personal-workflows) to quickly search through all the `.md` files that are found in this wiki.
 

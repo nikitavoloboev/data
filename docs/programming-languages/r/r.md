@@ -28,7 +28,7 @@
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - Weekly social data project in R.
 - [Teaching Statistics and Data Science Online](https://mine-cetinkaya-rundel.github.io/teach-r-online/) ([Code](https://github.com/mine-cetinkaya-rundel/teach-r-online))
 - [R & stats illustrations](https://github.com/allisonhorst/stats-illustrations)
-- [Tidy Modeling with R](https://www.tmwr.org/)
+- [Tidy Modeling with R](https://www.tmwr.org/) ([Code](https://github.com/tidymodels/TMwR))
 - [Torch](https://github.com/mlverse/torch) - PyTorch port using LibTorch for R. ([Intro](https://blogs.rstudio.com/ai/posts/2020-09-29-introducing-torch-for-r/))
 - [coro](https://github.com/r-lib/coro) - Coroutines for R.
 - [purrr](https://github.com/tidyverse/purrr) - Functional programming toolkit for R. ([Web](https://purrr.tidyverse.org/))

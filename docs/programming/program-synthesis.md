@@ -37,3 +37,4 @@ title: Program synthesis
 - [VIBES (Verified, Incremental Binary Editing with Synthesis)](https://github.com/draperlaboratory/VIBES) - Tool that uses program synthesis and constraint programming techniques to compile a source-level patch and insert it into a preexisting binary program.
 - [RbSyn](https://github.com/ngsankha/rbsyn) - Program synthesis for Ruby. ([HN](https://news.ycombinator.com/item?id=31015363))
 - [CrossBeam: Learning to Search in Bottom-Up Program Synthesis (2021)](https://openreview.net/forum?id=qhC8mr2LEKq) ([Code](https://github.com/google-research/crossbeam))
+- [Minimalist guide to program synthesis](https://evanthebouncy.github.io/program-synthesis-minimal/) - Bare minimum introduction to modern program synthesis. ([HN](https://news.ycombinator.com/item?id=33203970))

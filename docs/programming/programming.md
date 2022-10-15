@@ -602,3 +602,4 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [Staff Engineer Archetypes (2020)](https://lethain.com/staff-engineer-archetypes/) ([HN](https://news.ycombinator.com/item?id=33112915))
 - [Problematic and Persistent Post-Secondary Program Performance Preconceptions (2022)](https://cs.brown.edu/~sk/Publications/Papers/Published/kbls-prob-persist-perf-precon/)
 - [Mike Acton’s Expectations of Professional Software Engineers (2022)](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/)
+- [Designing and Programming Malleable Software (2019)](https://tcher.tech/publications/PhilipTchernavskij_PhDThesis.pdf)

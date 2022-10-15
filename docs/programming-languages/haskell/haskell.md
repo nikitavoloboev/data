@@ -461,3 +461,4 @@ title: Haskell
 - [47 Degrees Academy: Haskell Courses](https://academy.47deg.com/collections/haskell)
 - [GHC Linear Synthesis Plugin](https://github.com/alt-romes/ghc-linear-synthesis-plugin) - Synthesizing Haskell programs from Linear Types using bottom-up proof search in linear logic with focusing.
 - [State of GHC (2022)](https://www.youtube.com/watch?v=gJSTSkI0Uj8)
+- [Haskell Playground (2022)](https://www.youtube.com/watch?v=UFZeRgqZs7E)
