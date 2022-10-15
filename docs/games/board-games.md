@@ -59,3 +59,4 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [Popular board game and it's superior competitor (2022)](https://www.reddit.com/r/boardgames/comments/x9f70e/a_popular_game_and_its_superior_competitor/)
 - [Has an expansion saved a board game for you? (2022)](https://www.reddit.com/r/boardgames/comments/xm5dfs/has_an_expansion_saved_a_board_game_for_you/)
 - [What game ends in the most satisfying way? What is your favorite winning condition?](https://www.reddit.com/r/boardgames/comments/y2vx5t/what_game_ends_in_the_most_satisfying_way_what_is/)
+- [Post your 3 favorite games and have others let you know your 4th (2022)](https://www.reddit.com/r/boardgames/comments/y4rl9r/post_your_3_favourite_games_and_have_others_let/)
