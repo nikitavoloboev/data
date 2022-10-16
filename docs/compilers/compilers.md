@@ -1,5 +1,7 @@
 # Compilers
 
+[Compiler Explorer](https://godbolt.org) is amazing.
+
 ## Notes
 
 - [Lessons learned on compiler development: 1. Group functions by AST node, not by pass. 2. Have a formal theory for checking types worked out in advance. 3. Don't dump the metadata for each pass directly into AST nodes.](https://twitter.com/spakhm/status/1283672210050125824)
@@ -10,7 +12,7 @@
 - [Haskell to WebAssembly](https://github.com/tweag/asterius)
 - [Awesome compilers](https://github.com/aalhour/awesome-compilers)
 - [Compiler Optimization examples](http://compileroptimizations.com/)
-- [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly. ([HN](https://news.ycombinator.com/item?id=24066570)) ([Code](https://github.com/compiler-explorer/infra))
+- [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly. ([HN](https://news.ycombinator.com/item?id=24066570)) ([Code](https://github.com/compiler-explorer/infra)) ([HN](https://news.ycombinator.com/item?id=33224542))
 - [ShivyC](https://github.com/ShivamSarodia/ShivyC) - C compiler created in Python.
 - [swc](https://github.com/swc-project/swc) - Super-fast TS / JS compiler written in rust. ([Docs](https://swc.rs/)) ([Docs Code](https://github.com/swc-project/website))
 - [swc playground](https://swc-play.vercel.app/) ([Code](https://github.com/g-plane/swc-playground))

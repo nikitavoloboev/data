@@ -81,3 +81,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [How are people not freaking out about death?](https://www.reddit.com/r/NoStupidQuestions/comments/x708ym/how_are_people_not_freaking_out_about_death/)
 - [How the body decomposes after death](https://www.reddit.com/r/biology/comments/xfcp4c/help_me_understand_the_decomposition_of_the/)
 - [Biologist explains death | Michael Levin and Lex Fridman (2022)](https://www.youtube.com/watch?v=7Z0tWLBJtFQ)
+- [Books about Death (2022)](https://www.reddit.com/r/suggestmeabook/comments/y54p5s/books_about_death/)
