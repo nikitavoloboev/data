@@ -678,6 +678,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## Error
 
+- [Simplerr](https://github.com/lobocv/simplerr) - Advanced Go error handling, made simple.
 - [Errors](https://github.com/ainsleyclark/errors) - Drop-in replacement for Go errors, with some added sugar! Error handling in Go made easy with codes, messages and more.
 - [Errors](https://github.com/bnkamalesh/errors) - Drop-in replacement for Go errors, with some added sugar! Unwrap user-friendly messages, HTTP status code, easy wrapping with multiple error types.
 - [errors](https://github.com/juju/errors) - Provides an easy way to annotate errors without losing the original error context.
@@ -1836,6 +1837,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [simpex](https://github.com/tobiassjosten/go-simpex) - Simpler and faster alternative to regexp.
 - [Gorgonia-Parser](https://github.com/gorgonia/parser) - Simple parser that turns a formulae written in unicode into an ExprGraph.
 - [Go-JSONRPC](https://github.com/filecoin-project/go-jsonrpc) - Low Boilerplate JSON-RPC 2.0 library.
+- [Simpleflow](https://github.com/lobocv/simpleflow) - Generic simple workflows and concurrency patterns.
 
 ## Links
 

@@ -319,3 +319,5 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [The Future of the Web Is on the Edge (2022)](https://deno.com/blog/the-future-of-web-is-on-the-edge) ([HN](https://news.ycombinator.com/item?id=33110973))
 - [Deno API Server](https://github.com/denoland/apiland)
 - [bench](https://github.com/denosaurs/bench) - Comparing deno & node HTTP frameworks.
+- [fresh_charts](https://github.com/denoland/fresh_charts) - Server-side-rendered charting library for Fresh.
+- [deno-sudo](https://github.com/hugojosefson/deno-sudo) - Easy-to-use sudo for Deno CLI apps.

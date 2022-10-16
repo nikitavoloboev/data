@@ -65,6 +65,8 @@
 ## Web
 
 - [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server)) ([Tutorial For Beginners](https://github.com/programatik29/axum-tutorial)) ([Rust + Axum + Prisma template](https://github.com/aaronleopold/axum-graphql-prisma)) ([Axum, Tokio, Tower, Hyper, Serde template](https://github.com/joelparkerhenderson/demo-rust-axum)) ([Axum_database_Sessions](https://github.com/AscendingCreations/AxumSessions)) ([Minimalist Guide to Axum](https://tech.marksblogg.com/axum-rust-web-framework.html)) ([Lobsters](https://lobste.rs/s/p4f2a8/minimalist_guide_axum)) ([David Pedersen on Axum (2022)](https://www.youtube.com/watch?v=ETdmhh7OQpA)) ([axum-sessions](https://github.com/maxcountryman/axum-sessions)) ([axum-login](https://github.com/maxcountryman/axum-login)) ([axum-tracing-opentelemetry](https://github.com/davidB/axum-tracing-opentelemetry))
+- [Graphul](https://github.com/graphul-rs/graphul) - Express inspired web framework using a powerful extractor system.
+- [Leptos](https://github.com/gbj/leptos) - Full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces.
 - [tonic-rpc](https://github.com/adamrk/tonic-rpc) - Build RPCs on top of the tonic gRPC library by defining your types in Rust instead of proto.
 - [Rouille](https://github.com/tomaka/rouille) - Rust web micro-framework.
 - [Viz](https://github.com/viz-rs/viz) - Fast, flexible, lightweight web framework for Rust. ([Docs](https://docs.rs/viz/latest/viz/))
@@ -191,6 +193,7 @@
 - [Seamless](https://github.com/jsdw/seamless) - Opinionated Rust library for creating simple JSON APIs that communicate over HTTP.
 - [TinyRoute](https://github.com/togglebyte/tinyroute) - Small networked message passing library.
 - [Async UI](https://github.com/wishawa/async_ui) - Lifetime-Friendly, Component-Based, Retained-Mode UI Powered by Async Rust. ([Article](https://wishawa.github.io/posts/async-ui-intro/)) ([HN](https://news.ycombinator.com/item?id=33089131))
+- [CustomElement](https://github.com/gbj/custom-elements) - Framework-agnostic CustomElement trait to create Rust/WASM Web Components/Custom Elements easily without writing any JavaScript.
 
 ## Auth
 
@@ -2238,6 +2241,8 @@
 - [l10n](https://github.com/MathieuTricoire/l10n) - Rust localization crate built upon fluent-bundle.
 - [rusp](https://github.com/axiros/rusp) - Rust USP toolkit.
 - [page-turner](https://github.com/a1akris/page-turner) - Generic abstraction of paginated APIs.
+- [Data-encoding](https://github.com/ia0/data-encoding) - Efficient and customizable data-encoding functions in Rust.
+- [lottie-rs](https://github.com/zimond/lottie-rs) - Lottie file toolkit written in Rust.
 
 ## Cargo Plugins
 

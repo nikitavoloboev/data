@@ -103,3 +103,4 @@
 - [Understanding Diffusion Models: A Unified Perspective (2022)](https://arxiv.org/abs/2208.11970) ([Annotated](https://github.com/AakashKumarNain/annotated_research_papers/blob/master/diffusion_models/understanding_diffusion_models.pdf))
 - [Maple Diffusion](https://github.com/madebyollin/maple-diffusion) - Runs Stable Diffusion models locally on macOS / iOS devices, in Swift, using the MPSGraph framework.
 - [Asymmetric Tiling for stable-diffusion-webui](https://github.com/tjm35/asymmetric-tiling-sd-webui)
+- [Prompt-to-Prompt: Latent Diffusion and Stable Diffusion implementation (2022)](https://github.com/google/prompt-to-prompt)

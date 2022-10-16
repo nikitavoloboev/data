@@ -916,3 +916,4 @@ title: Rust
 - [EuroRust](https://eurorust.eu/) ([Twitter](https://twitter.com/euro_rust))
 - [Rust Atomics and Locks: Low-Level Concurrency in Practice (2022)](https://www.oreilly.com/library/view/rust-atomics-and/9781098119430/)
 - [Building a modern web app with Rust, Bazel, Yew and Axum (2022)](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust)
+- [Concurrency programming via Rust Book](https://github.com/smallnest/concurrency-programming-via-rust)

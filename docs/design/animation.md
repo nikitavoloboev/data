@@ -93,3 +93,4 @@
 - [Lottie Interactivity](https://github.com/LottieFiles/lottie-interactivity) - Small library to enable interactivity with Lottie animations.
 - [Glottie](https://github.com/LottieFiles/glottie) - OpenGL/WebGL based Lottie animation player.
 - [Rive-CPP](https://github.com/rive-app/rive-cpp) - C++ runtime for Rive.
+- [Rive Web](https://github.com/rive-app/rive-wasm) - WASM/JS runtime for Rive.

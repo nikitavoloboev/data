@@ -109,3 +109,4 @@ title: Elm
 - [Elm Workshop](https://sporto.github.io/elm-workshop/) ([Code](https://github.com/sporto/elm-workshop))
 - [ESLint equivalents in Elm (2022)](https://elmcraft.org/compare/javascript/eslint/)
 - [Elm at a Billion Dollar Company with Vendr CTO Aaron White (2022)](https://elm-radio.com/episode/elm-at-a-billion-dollar-company/)
+- [2048 clone written in Elm](https://github.com/dwayne/elm-2048)

@@ -7,6 +7,7 @@ title: Astro
 ## OSS Astro sites
 
 - [Astro Starter Kit: Minimal](https://github.com/mattrothenberg/1kx-astro)
+- [Astro app with the Netlify adapter using Edge Functions](https://github.com/sarahetter/astro-netlify-edge-starter)
 - [Astro - Ink](https://github.com/one-aalam/astro-ink) - Crisp, minimal, personal blog theme for Astro.
 - [Astro Music](https://astro-music.netlify.app/) - Demo ssing Astro and the Shared Element Transition API. ([Code](https://github.com/Charca/astro-music))
 

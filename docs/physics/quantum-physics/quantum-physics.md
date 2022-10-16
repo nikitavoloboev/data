@@ -1,6 +1,6 @@
 # Quantum physics
 
-[This thread](https://www.reddit.com/r/space/comments/xxk1s6/the_universe_is_not_locally_real_and_the_physics/) is great read on particle entanglement.
+[This thread](https://www.reddit.com/r/space/comments/xxk1s6/the_universe_is_not_locally_real_and_the_physics/) is great read on [particle entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement).
 
 ## Notes
 
