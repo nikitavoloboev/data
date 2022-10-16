@@ -405,3 +405,5 @@
 - [Engineering Math: Vector Calculus and Partial Differential Equations](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S)
 - [Ask HN: What are the best general math workbooks? (2022)](https://news.ycombinator.com/item?id=33192084)
 - [Mathematical Concepts (2015)](https://link.springer.com/book/10.1007/978-3-319-20436-9)
+- [What is your favorite field or topic in math and why? (2022)](https://www.reddit.com/r/math/comments/y4hnje/what_is_your_favorite_field_or_topic_in_math_and/)
+- [Soviet Era Math Book for Beginners and Mathematical Experts (2022)](https://www.youtube.com/watch?v=alkDHbjuInw)

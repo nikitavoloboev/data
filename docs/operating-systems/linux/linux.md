@@ -71,7 +71,7 @@ title: Linux
 - [xkeysnail](https://github.com/mooz/xkeysnail) - Keyboard remapping tool for X environment.
 - [Kinto](https://github.com/rbreaves/kinto/) - Mac-style shortcut keys for Linux and Windows. ([HN](https://news.ycombinator.com/item?id=26430240))
 - [Map2](https://github.com/shiro/map2) - Scripting language that allows complex key remapping on Linux.
-- [warpd](https://github.com/rvaiya/warpd) - Modal keyboard-driven virtual pointer.
+- [warpd](https://github.com/rvaiya/warpd) - Modal keyboard-driven virtual pointer. ([HN](https://news.ycombinator.com/item?id=33221901))
 
 ## Links
 
@@ -480,7 +480,7 @@ title: Linux
 - [Linux Sysops Handbook](https://abarrak.gitbook.io/linux-sysops-handbook) ([HN](https://news.ycombinator.com/item?id=30430594))
 - [A Cursed Bug (2022)](https://blog.nelhage.com/post/a-cursed-bug/) ([Lobsters](https://lobste.rs/s/2tnmq5/cursed_bug))
 - [Fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid](https://gist.github.com/nicowilliams/a8a07b0fc75df05f684c23c18d7db234) ([HN](https://news.ycombinator.com/item?id=30502392))
-- [Efficient IO with io_uring (2019)](https://kernel.dk/io_uring.pdf)
+- [Efficient IO with io_uring (2019)](https://kernel.dk/io_uring.pdf) ([HN](https://news.ycombinator.com/item?id=33221063))
 - [Wachy](https://github.com/rubrikinc/wachy) - Dynamic tracing profiler for Linux. UI for eBPF-based performance debugging. ([Web](https://rubrikinc.github.io/wachy/)) ([HN](https://news.ycombinator.com/item?id=30812988))
 - [tiptop](https://github.com/nschloe/tiptop) - Command-line system monitoring.
 - [Put an io_uring on it: Exploiting the Linux Kernel (2022)](https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel)
@@ -615,3 +615,5 @@ title: Linux
 - [Anatomy of Linux Dynamic Libraries](https://developer.ibm.com/tutorials/l-dynamic-libraries/) ([HN](https://news.ycombinator.com/item?id=33174996))
 - [A 24-year-old bug in the Linux Kernel TCP stack (2021)](https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/) ([HN](https://news.ycombinator.com/item?id=33214439))
 - [Criterion-perf-events](https://github.com/jbreitbart/criterion-perf-events) - Plugin for Criterion.rs to measure Linux perf events.
+- [Building a high-performance database buffer pool in Zig using io_uring's new fixed-buffer mode (2022)](https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig) ([HN](https://news.ycombinator.com/item?id=33218185))
+- [Tracing the Linux kernel with Retsnoop (2022)](https://nakryiko.com/posts/retsnoop-intro/) ([HN](https://news.ycombinator.com/item?id=33213139))

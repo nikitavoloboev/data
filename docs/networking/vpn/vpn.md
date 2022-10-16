@@ -62,7 +62,7 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Poor man's VPN (pay for only what you need)](https://github.com/amritb/poor-mans-vpn) ([HN](https://news.ycombinator.com/item?id=29913515))
 - [WGDashboard](https://github.com/donaldzou/WGDashboard) - Simplest dashboard for WireGuard VPN written in Python w/ Flask.
 - [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
-- [Cloak](https://github.com/cbeuw/Cloak) - Censorship circumvention tool to evade detection by authoritarian state adversaries.
+- [Cloak](https://github.com/cbeuw/Cloak) - Censorship circumvention tool to evade detection by authoritarian state adversaries. ([HN](https://news.ycombinator.com/item?id=33221299))
 - [Amnezia VPN](https://github.com/amnezia-vpn/desktop-client) - Best client for self-hosted VPN (Desktop+Mobile).
 - [No more VPN. Introducting Cloudflare Tunnel (2022)](https://www.sakowi.cz/blog/cloudflared-docker-compose-tutorial)
 - [PairMesh](https://github.com/pairmesh/pairmesh) - Next-generation security Mesh VPN implementation based on Go.

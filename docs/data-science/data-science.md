@@ -268,3 +268,4 @@
 - [nbdev+Quarto: A new secret weapon for productivity (2022)](https://www.fast.ai/2022/07/28/nbdev-v2/)
 - [CS109a: Introduction to Data Science – Resources](https://harvard-iacs.github.io/2021-CS109A/pages/materials.html) ([HN](https://news.ycombinator.com/item?id=32295243))
 - [CNext Instructions](https://github.com/cnextio/cnext) - Data-centric workspace for DS and AI.
+- [In what situations would a Bayesian model work better than frequentist model? (2022)](https://www.reddit.com/r/datascience/comments/y4obe5/in_what_situations_would_a_bayesian_model_work/)

@@ -123,3 +123,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Lotion](https://github.com/Dashibase/lotion) - Open-source Notion UI built with Vue 3.
 - [Docu-Notion](https://github.com/sillsdev/docu-notion) - Lets you use Notion as your editor for Docusaurus.
 - [Using Notion as a headless CMS for our blog (2022)](https://datanarratives.com/blog/notion-headless-cms/) ([HN](https://news.ycombinator.com/item?id=33121628))
+- [MyNotion](https://mynotion.space/) - Social network like Myspace, built on top of Notion. ([HN](https://news.ycombinator.com/item?id=33218888))

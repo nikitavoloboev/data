@@ -9,6 +9,7 @@ I like the real time aspect of Firebase but not sure how well it can scale for m
 ## Notes
 
 - [Firebase can sometimes not sync data properly.](https://twitter.com/maccaw/status/1466506830977327105)
+- [Firebase seamlessly integrates with GCP. It's easy to spin up a postgres DB on Google Cloud SQL and then access that DB from a Firebase Function. While it can get confusing sometimes, I think Firebase has done a good job "overlaying" their functionality set on top of GCP infrastructure, e.g. "Cloud Functions for Firebase" is really just a very thin layer on top of GCP Cloud Functions, Firebase Auth is basically the same thing as Google Identity Platform, etc](https://news.ycombinator.com/item?id=33215770)
 
 ## Links
 

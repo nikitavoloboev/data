@@ -231,7 +231,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Best practices for building SDKs for APIs (2019)](https://www.moesif.com/blog/technical/sdks/Best-Practices-for-Building-SDKs-for-APIs/)
 - [Ask HN: Best practices (and examples) for designing client libraries for APIs? (2020)](https://news.ycombinator.com/item?id=23283551)
 - [apigentools](https://github.com/DataDog/apigentools) - Generate API clients from OpenAPI v3 specification for multiple languages using openapi-generator.
-- [OpenAPI Generator](https://openapi-generator.tech/) - Generate clients, servers, and documentation from OpenAPI documents. ([Code](https://github.com/OpenAPITools/openapi-generator))
+- [OpenAPI Generator](https://openapi-generator.tech/) - Generate clients, servers, and documentation from OpenAPI documents. ([Code](https://github.com/OpenAPITools/openapi-generator)) ([HN](https://news.ycombinator.com/item?id=33220552))
 - [Lessons learned designing APIs (2019)](https://menduz.com/posts/2019.05.07)
 - [Ask HN: Best Way to Mock APIs in 2020?](https://news.ycombinator.com/item?id=23515857)
 - [Paperclip](https://github.com/wafflespeanut/paperclip) - OpenAPI tooling for Rust.

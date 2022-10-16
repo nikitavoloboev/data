@@ -72,3 +72,4 @@ title: APL
 - [APL and Array Programming (2022)](https://forums.fast.ai/t/apl-array-programming/97188) ([HN](https://news.ycombinator.com/item?id=32026647))
 - [Concatenative K](https://nsl.com/papers/ck.htm) ([HN](https://news.ycombinator.com/item?id=32125966))
 - [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm) ([HN](https://news.ycombinator.com/item?id=32178291))
+- [Random walk in 2 lines of J (2022)](https://asindu.xyz/2022/10/08/random-walk-in-2-lines-of-j/) ([HN](https://news.ycombinator.com/item?id=33212026))

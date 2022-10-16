@@ -2,7 +2,7 @@
 
 Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I play on [Lichess](https://lichess.org/) (desktop) & [Chess.com](https://www.chess.com/play/apps) on phone (puzzles / blitz games). [Lichess has cleaner UI](https://www.reddit.com/r/chess/comments/uh2409/as_an_experiment_i_told_myself_id_use_nothing_but/).
 
-I enjoy watching [great chess games](https://lichess.org/games) & listening to [game analysis](https://www.youtube.com/user/RosenChess/videos). [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen), [Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi), [Mikhail Tal](https://www.youtube.com/playlist?list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx), [Daniil Dubov](https://www.youtube.com/results?search_query=daniil+dubov) &
+I enjoy watching [great chess games](https://lichess.org/games) & listening to [game analysis](https://www.youtube.com/user/RosenChess/videos). [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen), [Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi), [Shakhriyar Mamedyarov](https://www.chess.com/member/azerichess), [Mikhail Tal](https://www.youtube.com/playlist?list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx), [Daniil Dubov](https://www.youtube.com/results?search_query=daniil+dubov) &
 [Teimour Radjabov](https://www.youtube.com/c/TeimourRadjabovChess/videos) games are joy to watch.
 
 [Gotham Chess](https://www.youtube.com/c/GothamChess/videos), [Eric Rosen](https://www.youtube.com/user/RosenChess/videos) and [Daniel Naroditsky](https://www.youtube.com/channel/UCHP9CdeguNUI-_nBv_UXBhw/videos) have lots of videos to learn Chess from + enjoyable commentary.
@@ -31,6 +31,7 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [World Chess Championship: Magnus vs Ian Game 6 (2021)](https://www.youtube.com/watch?v=PmQs1KhB948) ([HN](https://news.ycombinator.com/item?id=29434818)) ([Reddit](https://www.reddit.com/r/chess/comments/r882k8/postgame_thread_2021_world_chess_championship/))
 - [Crazy game](https://www.youtube.com/watch?v=3-OE9q7Nz8Y)
 - [Hans vs Max](https://lichess.org/broadcast/prague-chess-festival--challengers/round-3/KhCtM1cT/eDZxYhYI) ([Reddit](https://www.reddit.com/r/chess/comments/xsaw7o/max_warmerdam_about_his_2022_prague_challengers/))
+- [Shakhriyar Mamedyarov 2022 game](https://www.reddit.com/r/chess/comments/y4uxnx/shakhriyar_mamedyarov_just_delivered_one_of_the/) ([Analysis](https://www.youtube.com/watch?v=tv4bPUaoISA))
 
 ## Interesting openings
 

@@ -36,7 +36,7 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 
 - [Streamable](https://streamable.com/) - Video publishing made easy.
 - [Around](https://www.around.co/) - Quick, high-impact video calls for a new era of work.
-- [Natron](https://natrongithub.github.io/) - Open Source Compositing Software for VFX and Motion Graphics. ([Code](https://github.com/NatronGitHub/Natron))
+- [Natron](https://natrongithub.github.io/) - Open Source Compositing Software for VFX and Motion Graphics. ([Code](https://github.com/NatronGitHub/Natron)) ([HN](https://news.ycombinator.com/item?id=33212920))
 
 ## Notes
 

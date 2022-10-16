@@ -165,3 +165,4 @@ I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mear
 - [Open States People](https://github.com/openstates/people) - Curated information on all state legislators & governors.
 - [Ask HN: Why is pay so much higher in the US? (or is it?) (2022)](https://news.ycombinator.com/item?id=32807800)
 - [Americana Aesthetics / Twitter](https://twitter.com/AmericanaAesth)
+- [America – Road Trip Simulator](https://4m3ric4.com/) ([HN](https://news.ycombinator.com/item?id=33217395))

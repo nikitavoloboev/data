@@ -111,3 +111,4 @@ I personally don't plan to live for long once my body starts truly breaking down
 - [Rapamycin, drug used in cancer therapy, emerges as powerful anti-aging remedy](https://www.age.mpg.de/communications/news/detail/times-arrow) ([HN](https://news.ycombinator.com/item?id=32660669))
 - [What are best things you can start in your 30's to promote health and longevity? (2022)](https://www.reddit.com/r/AskMenOver30/comments/xbefta/what_are_best_things_you_can_start_in_your_30s_to/)
 - [Aging programmer (2022)](https://world.hey.com/jorge/aging-programmer-d448bdec) ([HN](https://news.ycombinator.com/item?id=32961933))
+- [Small molecule cognitive enhancer reverses age-related memory decline in mice (2022)](https://pubmed.ncbi.nlm.nih.gov/33258451/) ([HN](https://news.ycombinator.com/item?id=33215597))

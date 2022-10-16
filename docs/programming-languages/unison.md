@@ -23,3 +23,5 @@ title: Unison
 - [Unison Share](https://share.unison-lang.org/) ([Web Code](https://github.com/unisonweb/codebase-ui))
 - [Create a Simple Web App With Unison and Elm (2022)](https://luketollefson.xyz/posts/2022-07-31-unison-elm-web-app.html)
 - [unison-fsmonitor](https://github.com/autozimu/unison-fsmonitor) - Unison-fsmonitor implementation.
+- [Unison Share](https://share.unison-lang.org/)
+- [Practical Example - Modeling a Birthday Message Service (2021)](https://www.unison-lang.org/blog/birthday-kata/)

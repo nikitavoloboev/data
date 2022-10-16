@@ -350,3 +350,4 @@ Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for a
 - [Get in zoomer, we're saving React (2022)](https://acko.net/blog/get-in-zoomer-we-re-saving-react/) ([HN](https://news.ycombinator.com/item?id=32959397)) ([Lobsters](https://lobste.rs/s/lizyaw/get_zoomer_we_re_saving_react))
 - [Best-of React Web](https://github.com/LukasMasuch/best-of-react)
 - [isFocused should almost never be a prop](https://twitter.com/DavidKPiano/status/1580179833052876800)
+- [Moving From React to htmx (2022)](https://htmx.org/essays/a-real-world-react-to-htmx-port/) ([Lobsters](https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction)) ([HN](https://news.ycombinator.com/item?id=33218439))

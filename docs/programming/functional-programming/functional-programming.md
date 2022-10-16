@@ -193,6 +193,7 @@
 - [SubML](https://github.com/rlepigre/subml) - Language provides polymorphic types and subtyping, but also existential types, inductive types and coinductive types.
 - [Static analysis tools love pure FP | Jeroen Engels (2022)](https://www.youtube.com/watch?v=_rzoyBq4hJ0)
 - [Monads are everywhere... Maybe that's bad? by Till Schröder (2022)](https://www.youtube.com/watch?v=nGhoZzihbHY)
+- [Application-as-a-Function Thinking (2022)](https://doridori.github.io/Architecture-Application-as-a-Function/) ([HN](https://news.ycombinator.com/item?id=33221780))
 
 ## Images
 

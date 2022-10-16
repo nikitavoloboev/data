@@ -103,3 +103,4 @@ title: TCP
 - [unproxy](https://github.com/losfair/unproxy) - Map TCP services behind an HTTP(S) proxy to local ports.
 - [mixctl](https://github.com/inlets/mixctl) - Tiny TCP load balancer.
 - [p0f](https://lcamtuf.coredump.cx/p0f3/) - TCP Packet Fingerprinting. ([HN](https://news.ycombinator.com/item?id=32879551))
+- [Linux Kernel MultiPath TCP Project](https://www.multipath-tcp.org/) ([HN](https://news.ycombinator.com/item?id=33220975))

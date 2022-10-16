@@ -45,3 +45,4 @@ title: Qt
 - [Qt 6.4 (2022)](https://www.qt.io/blog/qt-6.4-released) ([HN](https://news.ycombinator.com/item?id=33018596))
 - [clazy](https://github.com/KDE/clazy) - Qt-oriented static code analyzer based on the Clang framework.
 - [LeanQt](https://github.com/rochus-keller/LeanQt) - Stripped-down Qt version easy to build from source and to integrate with an application.
+- [Runnning lambda functions on a specific thread with Qt (2022)](https://lnj.gitlab.io/post/running-lambdas-on-a-thread-with-qt/)

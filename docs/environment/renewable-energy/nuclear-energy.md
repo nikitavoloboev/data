@@ -81,3 +81,4 @@ Nuclear energy [gets a bad reputation but its the future of renewable energy](ht
 - [Many scientists see fusion as the future of energy (2022)](https://www.nationalgeographic.co.uk/science-and-technology/2022/10/many-scientists-see-fusion-as-the-future-of-energy-and-theyre-betting-big) ([HN](https://news.ycombinator.com/item?id=33097663))
 - [BYU profs create new nuclear reactor to produce nuclear energy more safely (2022)](https://news.byu.edu/byu-profs-create-safer-system-to-produce-nuclear-energy) ([HN](https://news.ycombinator.com/item?id=33114284))
 - [France looks into increasing uranium enrichment capacity (2022)](https://www.world-nuclear-news.org/Articles/France-looks-into-increasing-uranium-enrichment-ca) ([HN](https://news.ycombinator.com/item?id=33164284))
+- [A primer to nuclear fusion and First Light Fusion (2022)](https://startuppirate.substack.com/p/the-holy-grail-of-energy-generation) ([HN](https://news.ycombinator.com/item?id=33217767))

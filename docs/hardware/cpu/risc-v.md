@@ -192,3 +192,4 @@ title: RISC-V
 - [What's new for RISC-V in LLVM 15 (2022)](https://muxup.com/2022q3/whats-new-for-risc-v-in-llvm-15)
 - [Salus](https://github.com/rivosinc/salus) - Micro hypervisor for RISC-V systems.
 - [RISC-V Configuration Validator](https://github.com/riscv-software-src/riscv-config)
+- [Ox64 is a RISC-V Linux-capable SBC for $8 (2022)](https://www.pine64.org/2022/10/15/october-update-an-ox-no-bull/)
