@@ -1,5 +1,7 @@
 # Quantum physics
 
+[This thread](https://www.reddit.com/r/space/comments/xxk1s6/the_universe_is_not_locally_real_and_the_physics/) is great read on particle entanglement.
+
 ## Notes
 
 - [This is the reason why the word observer is cursed. Because it leads to people to conclude consciousness and other wrong concepts are associated with the results. All that happens is a measurement, an interaction or interference, so no, you dont need a conscious observer, because the act of measurement is what interacts with the wave function, it happens irregardless of being made by a dog, a tardigrade or a computer, because anything that measures the wave function is interfering with it.](https://www.reddit.com/r/quantum/comments/lqtxa6/does_the_observer_effect_only_happens_if_the/)
@@ -108,3 +110,4 @@
 - [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab) ([HN](https://news.ycombinator.com/item?id=31968280))
 - [Proving that Quantum Entanglement is Real (2022)](https://pma.caltech.edu/news/proving-that-quantum-entanglement-is-real)
 - [PHYS771 Lecture 9: Quantum](https://www.scottaaronson.com/democritus/lec9.html) ([HN](https://news.ycombinator.com/item?id=33188276))
+- [The Universe Is Not Locally Real, and the Physics Nobel Prize Winners Proved It (2022)](https://www.reddit.com/r/space/comments/xxk1s6/the_universe_is_not_locally_real_and_the_physics/)

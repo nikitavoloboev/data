@@ -27,6 +27,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Micro-observables](https://github.com/BeTomorrow/micro-observables) - Simple Observable library that can be used for easy state management in React applications.
 - [liquorstore](https://github.com/steveruizok/liquorstore) - Reactive store that is fine, really. It works with React.
 - [mage](https://github.com/barelyhuman/mage) - Stateful + logical abstraction layer for react.
+- [use-zustand](https://github.com/dai-shi/use-zustand) - Custom hook to use Zustand vanilla store.
 
 ## DB
 

@@ -65,6 +65,7 @@
 ## Web
 
 - [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server)) ([Tutorial For Beginners](https://github.com/programatik29/axum-tutorial)) ([Rust + Axum + Prisma template](https://github.com/aaronleopold/axum-graphql-prisma)) ([Axum, Tokio, Tower, Hyper, Serde template](https://github.com/joelparkerhenderson/demo-rust-axum)) ([Axum_database_Sessions](https://github.com/AscendingCreations/AxumSessions)) ([Minimalist Guide to Axum](https://tech.marksblogg.com/axum-rust-web-framework.html)) ([Lobsters](https://lobste.rs/s/p4f2a8/minimalist_guide_axum)) ([David Pedersen on Axum (2022)](https://www.youtube.com/watch?v=ETdmhh7OQpA)) ([axum-sessions](https://github.com/maxcountryman/axum-sessions)) ([axum-login](https://github.com/maxcountryman/axum-login)) ([axum-tracing-opentelemetry](https://github.com/davidB/axum-tracing-opentelemetry))
+- [tonic-rpc](https://github.com/adamrk/tonic-rpc) - Build RPCs on top of the tonic gRPC library by defining your types in Rust instead of proto.
 - [Rouille](https://github.com/tomaka/rouille) - Rust web micro-framework.
 - [Viz](https://github.com/viz-rs/viz) - Fast, flexible, lightweight web framework for Rust. ([Docs](https://docs.rs/viz/latest/viz/))
 - [hyper](https://github.com/hyperium/hyper) - Fast and correct HTTP implementation for Rust. ([Web](https://hyper.rs/)) ([Hyper's Vision](https://seanmonstar.com/post/678179333918097408/hypers-vision))
@@ -433,6 +434,7 @@
 - [skeletonize](https://github.com/okaneco/skeletonize) - Line thinning library for binary images.
 - [Hotline](https://github.com/polymonster/hotline) - Graphics, compute and hardware accelerated A/V decoding.
 - [GPU Rust Playground](https://github.com/asahilina/gpu-rust-playground) - Experimenting with Rust for GPU driver dev.
+- [Frui](https://github.com/fruiframework/frui) - Developer-friendly UI framework that makes building user interfaces easy and productive. It's inspired by Flutter architecture and is written in Rust.
 
 ## Games
 

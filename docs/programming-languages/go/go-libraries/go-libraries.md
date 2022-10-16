@@ -184,6 +184,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. ([Article](https://blogtitle.github.io/go-safe-html/))
 - [httplog](https://github.com/go-chi/httplog) - Go HTTP request logger with structured logging capabilities.
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
+- [fasthttp prometheus-middleware](https://github.com/carousell/fasthttp-prometheus-middleware) - Prometheus middleware for fasthttp, fasthttp/router.
 - [HTTP2](https://github.com/dgrr/http2) - HTTP/2 implementation for fasthttp.
 - [session](https://github.com/fasthttp/session) - Session implementation for fasthttp.
 - [Router](https://github.com/fasthttp/router) - Router implementation for fasthttp.
