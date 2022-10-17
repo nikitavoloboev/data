@@ -1990,3 +1990,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [sketch](https://github.com/lestrrat-go/sketch) - Generate JSON (De)serializable Object From Go Schema.
 - [Depguard](https://github.com/OpenPeeDeeP/depguard) - Go linter that checks if package imports are in a list of acceptable packages.
 - [Migrating our monorepo seamlessly from Dep to Go Modules (2022)](https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules)
+- [ORM vs SQL Builder in Go (2022)](https://www.reddit.com/r/golang/comments/y5obc7/orm_vs_sql_builder_in_go/)

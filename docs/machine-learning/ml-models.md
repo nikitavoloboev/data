@@ -121,3 +121,4 @@
 - [fastDeploy](https://github.com/notAI-tech/fastDeploy) - Deploy DL/ ML inference pipelines with minimal extra code.
 - [Modelverse](https://modelverse.cs.cmu.edu/) - Content-Based Search for Deep Generative Models. ([Code](https://github.com/generative-intelligence-lab/modelverse))
 - [FlagAI](https://github.com/FlagAI-Open/FlagAI) - Fast, easy-to-use and extensible toolkit for large-scale model.
+- [Stochastic](https://www.stochastic.ai/) - AI Acceleration Platform. ([GitHub](https://github.com/stochasticai))

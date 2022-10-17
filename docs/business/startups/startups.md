@@ -4,7 +4,7 @@
 
 > The best startup book is one you never open because you're too busy marketing and building your product.
 
-[YC Startup Directory](https://www.ycombinator.com/companies) is a nice thing to go over to get inspired for things to build.
+[YC Startup Directory](https://www.ycombinator.com/companies) is a nice thing to go over to get inspired for things to build. Need to [be bold with trying all kinds of ideas](https://twitter.com/FoundersPodcast/status/1581803172879749121).
 
 ## Notes
 
@@ -80,6 +80,7 @@
 - [Many aspiring entrepreneurs get stuck trying to invent a new product to sell. It's a trap. 99.9% of successful businesses sell an established product in a new way.](https://twitter.com/mikebeckhamsm/status/1529660253692129280)
 - [Entrepreneurship isn’t about having the right idea. It’s about having an idea and not running out of money until you figure out what makes it right.](https://twitter.com/_shahedk/status/1536727913629773826)
 - [Once you’ve found product market fit, delegating almost everything to people way smarter than you should be your main goal as a startup founder.](https://twitter.com/agazdecki/status/1571987984580513793)
+- [Be bold and do many experiments.](https://twitter.com/FoundersPodcast/status/1581803172879749121)
 
 ## Links
 

@@ -292,6 +292,7 @@
 - [Pages.jl](https://github.com/EricForgy/Pages.jl) - Simple way to create and interact with web pages.
 - [Toolips.jl](https://github.com/ChifiSource/Toolips.jl) - Fast, asynchronous, low-memory, full-stack, and reactive web-development framework always written in pure Julia.
 - [StaticWebPages.jl](https://github.com/Humans-of-Julia/StaticWebPages.jl) - Black-box generator for static websites oriented toward academics and personal web-pages.
+- [HTTPDownloads](https://github.com/JuliaComputing/HTTPDownloads.jl) - Use Downloads.jl as a backend for HTTP.jl.
 
 ## Test
 

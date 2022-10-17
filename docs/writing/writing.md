@@ -4,6 +4,8 @@ I love writing. It is incredibly empowering. The sheer fact that I can actually 
 
 Paul Graham wrote a wonderful article titled [_Write like you talk_](http://www.paulgraham.com/talk.html) and I agree with it wholeheartedly. In my opinion these are the main pillars on which I try to build my writing skills upon.
 
+Tools like [Lex](https://lex.page/) or [Careful Words](https://carefulwords.com/) are great.
+
 ## Honesty
 
 If I don't believe in what I am saying, it is waste of both mine and the person's reading my work time. If I believe in what idea or message or thought that it is I am trying to say, writing becomes second instinct and it is much easier to translate what is in my head onto paper. Being honest with yourself may sometimes be difficult but [journaling](../life/journaling.md) often helps in this regard.
@@ -294,3 +296,5 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Walter Benjamin's rules for writing](https://twitter.com/Samantharhill/status/1566398330468433921)
 - [How James Clear is Writing His Next Book](https://every.to/superorganizers/how-james-clear-is-writing-his-next-book) ([HN](https://news.ycombinator.com/item?id=32887140))
 - [Replace the “very” in your sentence](https://www.losethevery.com/) ([HN](https://news.ycombinator.com/item?id=33196773))
+- [Careful Words](https://carefulwords.com/) - More inspiring thesaurus. ([HN](https://news.ycombinator.com/item?id=33226817))
+- [Lex](https://lex.page/) - Word processor with artificial intelligence baked in, so you can write faster. ([Tweet](https://twitter.com/nbashaw/status/1581673516360876032))

@@ -378,3 +378,4 @@ title: WebAssembly
 - [Runno](https://runno.dev/wasi) - WASI playground for running CLI binaries in the browser. ([HN](https://news.ycombinator.com/item?id=33146686))
 - [mod_wasm](https://github.com/vmware-labs/mod_wasm) - Extension module for the Apache HTTP Server (httpd) that enables the usage of WebAssembly (Wasm). This module will allow to execute certain tasks in the backend in a very efficient and secure way.
 - [Rust TODO WASM app](https://github.com/romainbellande/rust-todo-wasm)
+- [HTMX, WebAssembly, Rust, ServiceWorkers](https://github.com/richardanaya/wasm-service)

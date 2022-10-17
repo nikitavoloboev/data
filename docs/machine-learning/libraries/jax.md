@@ -4,7 +4,7 @@ title: JAX
 
 # [JAX](https://github.com/google/jax)
 
-[Differential Programming with JAX course](https://ericmjl.github.io/dl-workshop/) is nice. [Meta Optimal Transport](https://github.com/facebookresearch/meta-ot) is nice JAX repo to run/study.
+[Differential Programming with JAX course](https://ericmjl.github.io/dl-workshop/) & [JAX in Action](https://www.manning.com/books/jax-in-action) are nice. [Meta Optimal Transport](https://github.com/facebookresearch/meta-ot) is nice JAX repo to run/study.
 
 [Robert Lange](https://github.com/RobertTLange) has nice JAX repos.
 
@@ -77,3 +77,4 @@ title: JAX
 - [xpag](https://github.com/perrin-isir/xpag) - Modular reinforcement learning library with JAX agents.
 - [Orbax](https://github.com/google/orbax) - Library providing common utilities for JAX users.
 - [Praxis](https://github.com/google/praxis) - Layer library for Pax. While Praxis is optimized for ML at scale, Praxis has a goal to be usable by other JAX-based ML projects.
+- [JAX in Action (2022)](https://www.manning.com/books/jax-in-action)

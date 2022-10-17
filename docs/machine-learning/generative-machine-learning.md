@@ -104,3 +104,4 @@
 - [Maple Diffusion](https://github.com/madebyollin/maple-diffusion) - Runs Stable Diffusion models locally on macOS / iOS devices, in Swift, using the MPSGraph framework.
 - [Asymmetric Tiling for stable-diffusion-webui](https://github.com/tjm35/asymmetric-tiling-sd-webui)
 - [Prompt-to-Prompt: Latent Diffusion and Stable Diffusion implementation (2022)](https://github.com/google/prompt-to-prompt)
+- [Real-time inference for Stable Diffusion](https://github.com/stochasticai/x-stable-diffusion)

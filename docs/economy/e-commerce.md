@@ -170,3 +170,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [FastStore](https://github.com/vtex/faststore) - Digital commerce toolkit for frontend developers.
 - [Mushroomy](https://mushroomy.house/) - For Artists. By Artists.
 - [The Smartest Website You Haven't Heard of (2022)](https://www.bedelstein.com/post/mcmaster-carr)
+- [BSMNT Commerce Toolkit](https://github.com/basementstudio/commerce-toolkit) - Help you ship better storefronts, faster, and with more confidence.

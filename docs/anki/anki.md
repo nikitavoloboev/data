@@ -80,3 +80,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Ask HN: Better way to create Anki cards? (2022)](https://news.ycombinator.com/item?id=32397162)
 - [Emmio](https://github.com/enzet/Emmio) - Experimental project on languages and learning.
 - [Learn Exponentially](https://saveall.ai/blog/learn-exponentially) ([HN](https://news.ycombinator.com/item?id=33140527))
+- [Speki](https://github.com/TBS1996/speki) - Flashcards for your terminal.

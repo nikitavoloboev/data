@@ -110,3 +110,4 @@ title: Elm
 - [ESLint equivalents in Elm (2022)](https://elmcraft.org/compare/javascript/eslint/)
 - [Elm at a Billion Dollar Company with Vendr CTO Aaron White (2022)](https://elm-radio.com/episode/elm-at-a-billion-dollar-company/)
 - [2048 clone written in Elm](https://github.com/dwayne/elm-2048)
+- [Elm tree sitter](https://github.com/elm-tooling/tree-sitter-elm)
