@@ -4,7 +4,7 @@ title: Salvia
 
 # [Salvia](https://psychonautwiki.org/w/index.php?title=Salvinorin_A)
 
-Salvia is the only drug I tried thus far that gave me a true [ego death experience](../../consciousness/ego.md).
+Salvia is the only drug I tried thus far that gave me a true [ego death experience](../../consciousness/ego.md). It's thus far the only drug after which I instantly lost the notion of time passing and who I was as a person. I was some object and during the trip, I felt that I was the object now, before and forever after.
 
 ## Notes
 
@@ -21,3 +21,4 @@ Salvia is the only drug I tried thus far that gave me a true [ego death experien
 - [How Psychedelic Salvinorin A Works on the Brain (2021)](https://www.labroots.com/trending/drug-discovery-and-development/19540/psychedelic-salvinorin-brain)
 - [Experimenting with synthetic, highly potent and highly selective K-Opioid agonists](https://www.reddit.com/r/researchchemicals/comments/tqgf3f/experimenting_with_synthetic_highly_potent_and/)
 - [Dysdelics Reddit](https://www.reddit.com/r/dysdelics/)
+- [Salvia: never again](https://www.reddit.com/r/Psychonaut/comments/y5uax9/salvia_never_fucking_again/)

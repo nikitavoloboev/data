@@ -2244,6 +2244,7 @@
 - [Data-encoding](https://github.com/ia0/data-encoding) - Efficient and customizable data-encoding functions in Rust.
 - [lottie-rs](https://github.com/zimond/lottie-rs) - Lottie file toolkit written in Rust.
 - [Kanal](https://github.com/fereidani/kanal) - Rust library to help programmers design effective programs in CSP model via providing featureful multi-producer multi-consumer channels. ([Reddit](https://www.reddit.com/r/rust/comments/y5im3n/kanal_channels_80x_faster_than_the_standard/))
+- [presser](https://github.com/EmbarkStudios/presser) - Utilities to help make copying data around into raw, possibly-uninitialized buffers easier and safer.
 
 ## Cargo Plugins
 

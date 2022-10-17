@@ -1123,3 +1123,4 @@
 - [Best practices for creating a modern npm package (2022)](https://snyk.io/blog/best-practices-create-modern-npm-package/)
 - [What do you use to find NPM packages? (2022)](https://twitter.com/MylesBorins/status/1574426427298091010)
 - [Ask HN: Why are JavaScript dependencies so messy? (2022)](https://news.ycombinator.com/item?id=33142840)
+- [Ultra](https://github.com/nachoaldamav/ultra) - Faster and lightweight alternative for NPM.

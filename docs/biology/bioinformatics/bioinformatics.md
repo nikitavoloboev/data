@@ -245,3 +245,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [foldingdiff](https://github.com/microsoft/foldingdiff) - Diffusion model for protein backbone generation. ([Demo](https://huggingface.co/spaces/wukevin/foldingdiff))
 - [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking (2022)](https://arxiv.org/abs/2210.01776) ([Code](https://github.com/gcorso/DiffDock))
 - [Allbase](https://github.com/TimothyStiles/allbase) - Database for engineering organisms. Go REST API to replace Genbank, Uniprot, Rhea, and CHEMBL.
+- [MICAN](https://github.com/ShintaroMinami/mican) - Non-sequential structural alignment program for protein structure.

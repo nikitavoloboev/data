@@ -567,3 +567,4 @@ all: unset
 - [Delightful UI Animations With Shared Element Transitions API (2022)](https://www.smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/)
 - [Simplifying the Craigslist Gallery (2022)](https://tdarb.org/blog/craigslist-gallery.html) ([Lobsters](https://lobste.rs/s/9taha7/simplifying_craigslist_gallery))
 - [Pokemon Deckz](https://deck-24abcd.netlify.app/) - Collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. ([Code](https://github.com/simeydotme/pokemon-cards-css))
+- [The wasted potential of attribute selectors in CSS (2022)](https://elisehe.in/2022/10/16/attribute-selectors)

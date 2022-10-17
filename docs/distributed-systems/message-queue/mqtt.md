@@ -56,3 +56,5 @@ title: MQTT
 - [mqttwrk](https://github.com/bytebeamio/mqttwrk) - Wrk/Wrk2 inspired tool for conformance and scale testing MQTT brokers.
 - [MQZiti](https://github.com/ekoby/mqziti) - Zero Trust MQTT server and client. ([HN](https://news.ycombinator.com/item?id=32599167))
 - [Mijia-Homie](https://github.com/alsuren/mijia-homie) - Homie MQTT bridge for the Xiaomi Mijia 2 hygrometer-thermometer.
+- [RMQTT Broker](https://github.com/rmqtt/rmqtt) - MQTT Server/MQTT Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era.
+- [RmqttRaft](https://github.com/rmqtt/rmqtt-raft) - Raft framework, for regular people.

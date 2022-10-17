@@ -272,3 +272,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [μFuzzy](https://github.com/leeoniya/uFuzzy) - Tiny, efficient fuzzy search that doesn't suck. ([HN](https://news.ycombinator.com/item?id=33035580))
 - [Rewind](https://www.rewind.ai/) - Search engine for your life.
 - [codequestion](https://github.com/neuml/codequestion) - Semantic search for developers.
+- [Reverse Image Search Using Perceptual Hashes and DynamoDB (2022)](https://canvatechblog.com/simple-fast-and-scalable-reverse-image-search-using-perceptual-hashes-and-dynamodb-df3007d19934)
