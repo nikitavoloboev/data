@@ -1,6 +1,6 @@
 # Photography
 
-Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography). [Andre Josselin](https://www.instagram.com/josselin/), [Jake Wangner](https://www.instagram.com/jakewangner/), [Polina Washington](https://www.instagram.com/polina.washington/) & [Kseniia Vaschenko](https://www.instagram.com/kseniyavashchenko/) are inspiring.
+Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography). [Andre Josselin](https://www.instagram.com/josselin/), [Jake Wangner](https://www.instagram.com/jakewangner/), [Polina Washington](https://www.instagram.com/polina.washington/), [Kseniia Vaschenko](https://www.instagram.com/kseniyavashchenko/) & [Bruce Weber](https://www.instagram.com/bruce_weber/) are inspiring.
 
 [How to use Light for shootings](https://www.youtube.com/watch?v=AxhWk5xelto) & [Seeing in Black and White](https://www.youtube.com/watch?v=V8Hh8S-Z68s) are nice guides. Saving up for [Leica M11](https://www.youtube.com/watch?v=RSdLAiDb8dQ). Currently shoot on [just iPhone](https://twitter.com/levelsio/status/1532178971793797120).
 

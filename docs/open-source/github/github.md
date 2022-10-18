@@ -469,3 +469,4 @@ Awesome List
 - [ToBeReviewed Bot](https://github.com/tailscale/ToBeReviewedBot) - GitHub App to watch for PRs merged without a reviewer approving.
 - [GitHub Archive](https://github.com/Justintime50/github-archive) - Powerful tool to concurrently clone or pull user and org repos and gists to create a GitHub archive.
 - [Code-Pile](https://github.com/CarperAI/Code-Pile) - Contains all the code for collecting large scale amounts of code from GitHub.
+- [GitHub Copilot investigation](https://githubcopilotinvestigation.com/) ([HN](https://news.ycombinator.com/item?id=33240341)) ([Lobsters](https://lobste.rs/s/4imnvy/github_copilot_investigation))

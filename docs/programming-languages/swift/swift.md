@@ -310,4 +310,4 @@ title: Swift
 - [Thread Sanitizer explained: Data Races in Swift (2022)](https://www.avanderlee.com/swift/thread-sanitizer-data-races/)
 - [Swift was always going to be part of the OS (2022)](https://belkadan.com/blog/2022/10/Swift-in-the-OS/)
 - [A possible vision for macros in Swift (2022)](https://gist.github.com/DougGregor/4f3ba5f4eadac474ae62eae836328b71)
-- [Compiling Swift Generics (2022)](https://download.swift.org/docs/assets/generics.pdf)
+- [Compiling Swift Generics (2022)](https://download.swift.org/docs/assets/generics.pdf) ([HN](https://news.ycombinator.com/item?id=33237002))

@@ -379,3 +379,4 @@ title: WebAssembly
 - [mod_wasm](https://github.com/vmware-labs/mod_wasm) - Extension module for the Apache HTTP Server (httpd) that enables the usage of WebAssembly (Wasm). This module will allow to execute certain tasks in the backend in a very efficient and secure way.
 - [Rust TODO WASM app](https://github.com/romainbellande/rust-todo-wasm)
 - [HTMX, WebAssembly, Rust, ServiceWorkers](https://github.com/richardanaya/wasm-service)
+- [The Go WebAssembly ABI at a Low Level (2022)](https://xeiaso.net/talks/wasm-abi)

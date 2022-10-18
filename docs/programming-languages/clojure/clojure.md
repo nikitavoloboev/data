@@ -4,7 +4,7 @@ title: Clojure
 
 # [Clojure](https://clojure.org)
 
-[Try Clojure](https://tryclojure.org/) is nice.
+[Try Clojure](https://tryclojure.org/) is nice for learning. [Clerk](https://github.com/nextjournal/clerk) is nice interactive notebook for Clojure.
 
 ## Links
 

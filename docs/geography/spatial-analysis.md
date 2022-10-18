@@ -264,3 +264,4 @@ title: Spatial analysis
 - [Polyline: a spruced-up polyline utility (2022)](https://www.placemark.io/post/polyline-a-spruced-up-polyline-utility)
 - [Computational modelling of terrains](https://github.com/tudelft3d/terrainbook)
 - [PyDriosm](https://github.com/mikeqfu/pydriosm) - Open-source tool for downloading, reading and PostgreSQL-based I/O of OpenStreetMap data.
+- [Map Academy: taking QGIS to the next level (2022)](https://www.udemy.com/course/map-academy-taking-qgis-to-the-next-level/) ([Tweet](https://twitter.com/undertheraedar/status/1582312909337919488))

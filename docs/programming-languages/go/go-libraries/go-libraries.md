@@ -361,6 +361,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Statigz](https://github.com/vearutop/statigz) - Serves pre-compressed embedded files with http in Go.
 - [retry](https://github.com/shogo82148/go-retry) - Simple utils for exponential back off.
 - [go-http](https://github.com/openziti-test-kitchen/go-http) - Go HTTP Clients/Servers and Alternative Networking.
+- [gofetch](https://github.com/sidwebworks/gofetch-client) - Lightweight and productive http client for Go.
 
 ## GraphQL
 

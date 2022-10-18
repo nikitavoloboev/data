@@ -99,3 +99,4 @@
 - [Gel](https://github.com/gel-rb/gel) - Modern gem manager.
 - [Making popular Ruby packages more secure (2022)](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html) ([HN](https://news.ycombinator.com/item?id=31730221))
 - [Hiddengems](https://gitlab.com/svdasein/hiddengems) - Better search and ranking for ruby gems.
+- [Gemdex](http://gemdex.org/) - Ruby gem explorer. ([Reddit](https://www.reddit.com/r/ruby/comments/y6dmrq/new_site_gemdexorg_helps_you_find_gems_for_your/))

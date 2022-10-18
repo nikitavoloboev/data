@@ -135,6 +135,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Soly](https://github.com/mdbetancourt/soly) - Powerful framework for building command-line apps with typescript.
 - [Clii](https://github.com/sigoden/clii) - Write some functions, JSDoc it, clii automatically turns it into a cli.
 - [molt](https://github.com/jasonkuhrt/molt) - CLI building blocks & framework for the TypeScript era.
+- [Zors](https://github.com/sidwebworks/zors) - Next-gen framework for building modern, type-safe command-line applications.
 
 ## Crypto
 

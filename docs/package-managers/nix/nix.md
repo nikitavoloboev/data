@@ -421,3 +421,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Garnix](https://garnix.io/) - Fast and easy CI for Nix. ([HN](https://news.ycombinator.com/item?id=33131480))
 - [NixPak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix.
 - [Passing command line arguments to nix flakes (2022)](https://mat.services/posts/command-line-flake-arguments/)
+- [Customizing packages in Nix (2022)](https://bobvanderlinden.me/customizing-packages-in-nix/)
