@@ -567,4 +567,5 @@ all: unset
 - [Delightful UI Animations With Shared Element Transitions API (2022)](https://www.smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/)
 - [Simplifying the Craigslist Gallery (2022)](https://tdarb.org/blog/craigslist-gallery.html) ([Lobsters](https://lobste.rs/s/9taha7/simplifying_craigslist_gallery))
 - [Pokemon Deckz](https://deck-24abcd.netlify.app/) - Collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. ([Code](https://github.com/simeydotme/pokemon-cards-css))
-- [The wasted potential of attribute selectors in CSS (2022)](https://elisehe.in/2022/10/16/attribute-selectors)
+- [The wasted potential of attribute selectors in CSS (2022)](https://elisehe.in/2022/10/16/attribute-selectors) ([Lobsters](https://lobste.rs/s/kfg4uc/wasted_potential_css_attribute))
+- [Let's Make One of Those Fancy Scrolling Animations Used on Apple Product Pages (2020)](https://css-tricks.com/lets-make-one-of-those-fancy-scrolling-animations-used-on-apple-product-pages/) ([Reddit](https://www.reddit.com/r/webdev/comments/y6b0av/how_is_this_animated_scrolling_behavior_made_what/))

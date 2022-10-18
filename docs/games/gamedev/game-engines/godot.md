@@ -87,3 +87,4 @@ title: Godot
 - [Godot Puzzle Dependencies](https://github.com/nathanhoad/godot_puzzle_dependencies) - Tool for making puzzle dependency charts in Godot.
 - [Godot 4 Beta 1 (2022)](https://godotengine.org/article/dev-snapshot-godot-4-0-beta-1) ([HN](https://news.ycombinator.com/item?id=32856034))
 - [Godot Egui](https://github.com/setzer22/godot-egui) - Egui backend for godot-rust.
+- [Emulating double precision on the GPU to render large worlds (2022)](https://godotengine.org/article/emulating-double-precision-gpu-render-large-worlds) ([HN](https://news.ycombinator.com/item?id=33237338))

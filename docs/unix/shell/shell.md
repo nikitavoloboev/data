@@ -251,3 +251,4 @@ All active variables can be seen by running `env`.
 - [Es](https://github.com/wryun/es-shell) - Shell with higher-order functions.
 - [Ask HN: Is it still possible to live in a terminal? (2022)](https://news.ycombinator.com/item?id=33205970)
 - [Whipping up a new Shell – Lash#Cat9 (2022)](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/) ([Lobsters](https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9))
+- [Cat9](https://github.com/letoram/cat9) - command-line shell written in Lua. ([HN](https://news.ycombinator.com/item?id=33232593))

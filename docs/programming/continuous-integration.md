@@ -8,6 +8,7 @@
 - [At Stripe my PR is often reviewed within 10 minutes. That makes a huge difference for shipping fast.](https://twitter.com/jlongster/status/1400511441556459523)
 - [I feel like if I’m sitting on someone’s PR, I’m blocking them from moving forward. Rarely the case, but it’s a good motivator.](https://twitter.com/destroytoday/status/1400593283395555328)
 - [The real missing part for CI/CD automation is a local development experience. Sounds counter-intuitive but being able to run the E2E CI/CD pipeline locally and validate failures saves engineers from the 20 minute push, coffee, failure, fix loop.](https://twitter.com/retrohack3r/status/1550195052730691585)
+- [For sane development, it’s super-duper important that you don’t CI the PR branch itself (which might be stale), but rather CI the result of incorporating PR into master, before atomically resetting master to the resulting CIed commit.](https://lobste.rs/s/59omas/modern_trunk_based_development)
 
 ## Links
 

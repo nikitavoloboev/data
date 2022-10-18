@@ -326,3 +326,5 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [The origin of the strong form of superconductivity (2022)](https://www.quantamagazine.org/high-temperature-superconductivity-understood-at-last-20220921/) ([HN](https://news.ycombinator.com/item?id=32937828))
 - [Why do mirrors flip left and right but not up and down?](https://www.youtube.com/watch?v=o_D-HsMOYQ8) ([Tweet](https://twitter.com/thinkagainer/status/1573715621388369922))
 - [Algorithmic Differentiation for Automatized Modelling of Machine Learned Force Fields (2022)](https://arxiv.org/abs/2208.12104) ([Code](https://github.com/niklasschmitz/ad-kernels))
+- [List of physics YouTube channels (2022)](https://www.reddit.com/r/Physics/comments/y6uzbx/i_made_a_list_of_physics_youtube_channels/)
+- [Sound (2022)](https://ciechanow.ski/sound/) ([HN](https://news.ycombinator.com/item?id=33249215))

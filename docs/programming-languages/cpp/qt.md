@@ -7,6 +7,7 @@ title: Qt
 ## Qt OSS apps
 
 - [Private Internet Access Desktop Client](https://github.com/pia-foss/desktop)
+- [Slate](https://github.com/mitchcurtis/slate) - Pixel Art Editor. ([Porting Slate to Qt for WebAssembly](https://www.qt.io/blog/porting-slate-to-qt-for-webassembly))
 
 ## Links
 

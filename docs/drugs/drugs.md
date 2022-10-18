@@ -82,3 +82,4 @@ Only 'hard' drugs I partake in are [psychedelics](psychedelics/psychedelics.md).
 - [Best drug for just chilling in ur room listening to music/playing video games?](https://www.reddit.com/r/Drugs/comments/y0g3iv/best_drug_for_just_chilling_in_ur_room_listening/)
 - [Мефедрон тред](https://twitter.com/omur_saltanat/status/1580247892643950592)
 - [Drugs Multireddit](https://www.reddit.com/user/roionsteroids/m/drugs/)
+- [Drugs that feel new and unique](https://www.reddit.com/r/researchchemicals/comments/y6h7cf/drugs_that_feel_new_and_unique/)

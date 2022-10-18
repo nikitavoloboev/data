@@ -298,3 +298,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Replace the “very” in your sentence](https://www.losethevery.com/) ([HN](https://news.ycombinator.com/item?id=33196773))
 - [Careful Words](https://carefulwords.com/) - More inspiring thesaurus. ([HN](https://news.ycombinator.com/item?id=33226817))
 - [Lex](https://lex.page/) - Word processor with artificial intelligence baked in, so you can write faster. ([Tweet](https://twitter.com/nbashaw/status/1581673516360876032))
+- [Screenplays for Movies and TV Shows](https://screenplays.io/) ([HN](https://news.ycombinator.com/item?id=33228533))

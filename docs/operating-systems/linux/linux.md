@@ -617,3 +617,4 @@ title: Linux
 - [Criterion-perf-events](https://github.com/jbreitbart/criterion-perf-events) - Plugin for Criterion.rs to measure Linux perf events.
 - [Building a high-performance database buffer pool in Zig using io_uring's new fixed-buffer mode (2022)](https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig) ([HN](https://news.ycombinator.com/item?id=33218185))
 - [Tracing the Linux kernel with Retsnoop (2022)](https://nakryiko.com/posts/retsnoop-intro/) ([HN](https://news.ycombinator.com/item?id=33213139))
+- [On Bypassing eBPF Security Monitoring (2022)](https://blog.doyensec.com/2022/10/11/ebpf-bypass-security-monitoring.html) ([HN](https://news.ycombinator.com/item?id=33235434))

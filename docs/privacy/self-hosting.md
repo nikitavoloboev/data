@@ -43,3 +43,4 @@
 - [Self-hosted software I'm thankful for (2022)](https://garrit.xyz/posts/2022-09-26-self-hosted-software-im-thankful-for) ([Lobsters](https://lobste.rs/s/6tbcnu/self_hosted_software_i_m_thankful_for))
 - [Ask HN: How can a total beginner start with self-hosting? (2022)](https://news.ycombinator.com/item?id=33095823)
 - [Am I crazy to move my home lab to a data center? (2022)](https://www.reddit.com/r/selfhosted/comments/y5jnrm/am_i_crazy_to_move_my_home_lab_to_a_data_center/)
+- [Ask HN: Where do you host images for your blog or landing pages? (2022)](https://news.ycombinator.com/item?id=33232705)

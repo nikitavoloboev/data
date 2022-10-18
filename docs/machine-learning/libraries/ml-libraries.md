@@ -14,7 +14,7 @@ title: ML Libraries
 
 ## Web
 
-- [Shumai](https://github.com/facebookresearch/shumai) - Fast differentiable tensor library for research in TypeScript and JavaScript. Built with bun + flashlight.
+- [Shumai](https://github.com/facebookresearch/shumai) - Fast differentiable tensor library for research in TypeScript and JavaScript. Built with bun + flashlight. ([HN](https://news.ycombinator.com/item?id=33235731))
 - [ml5.js](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web.
 - [ml.js](https://github.com/mljs/ml) - Machine learning tools in JavaScript.
 

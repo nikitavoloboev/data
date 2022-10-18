@@ -207,3 +207,4 @@
 - [Reshaped](https://reshaped.so/) - Design system built for your scale with React and Figma. ([Twitter](https://twitter.com/getReshaped))
 - [Design system tips](https://twitter.com/i/events/1577907596966641665)
 - [Design system interviews](https://formaat.design/interviews)
+- [The “dark yellow problem” in design system color palettes](https://medium.com/user-experience-design-1/the-dark-yellow-problem-in-design-system-color-palettes-a0db1eedc99d) ([HN](https://news.ycombinator.com/item?id=33246700))

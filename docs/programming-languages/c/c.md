@@ -288,3 +288,4 @@
 - [Lambda-8cc](https://github.com/woodrush/lambda-8cc) - x86 C Compiler Written in Untyped Lambda Calculus. ([HN](https://news.ycombinator.com/item?id=33115719))
 - [Ask HN: Best book to learn C in 2022?](https://news.ycombinator.com/item?id=33130533)
 - [Bare Metal C (2022)](https://nostarch.com/bare-metal-c)
+- [Learn enough C to survive (2022)](https://codeofhonor.substack.com/p/learn-enough-c-to-survive) ([HN](https://news.ycombinator.com/item?id=33229162))

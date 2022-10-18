@@ -124,4 +124,4 @@
 - [pratt](https://github.com/segeljakt/pratt) - General Purpose Pratt Parser for Rust.
 - [Let's write a JSON parser in Rust](https://github.com/ericseppanen/json-parser-toy)
 - [Katydid](https://github.com/katydid/katydid) - Encoding Agnostic Validation (Validation Language, Parsers and Encoders).
-- [Practical Parsing in Rust with nom (2022)](https://naiveai.hashnode.dev/practical-parsing-nom)
+- [Practical Parsing in Rust with nom (2022)](https://naiveai.hashnode.dev/practical-parsing-nom) ([Lobsters](https://lobste.rs/s/mj8smd/practical_parsing_rust_with_nom))

@@ -868,3 +868,4 @@ if err != nil {
 - [Autostrada](https://autostrada.dev/) - Codebase generator for Go projects. ([Reddit](https://www.reddit.com/r/golang/comments/y0ig4j/autostrada_a_codebase_generator_for_new_go/))
 - [Go News Twitter](https://twitter.com/golang_news)
 - [Go Worker Pool: The Concurrency Powerhouse (2022)](https://medium.com/higher-order-functions/go-worker-pool-the-concurrency-powerhouse-2dc7971f4f15)
+- [When is a slice of any not a slice of any? (2022)](https://www.timr.co/slice-of-any-not-slice-of-any/)

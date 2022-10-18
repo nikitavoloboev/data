@@ -149,3 +149,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Science Is Getting Harder (2022)](https://mattsclancy.substack.com/p/science-is-getting-harder?s=r) ([HN](https://news.ycombinator.com/item?id=31598217))
 - [Tropy](https://tropy.org/) - Explore your research photos. ([Code](https://github.com/tropy/tropy))
 - [Real peer review has never been tried (2022)](https://www.worksinprogress.co/issue/real-peer-review/)
+- [How to become a pirate archivist (2022)](http://annas-blog.org/blog-how-to-become-a-pirate-archivist.html) ([HN](https://news.ycombinator.com/item?id=33240701))

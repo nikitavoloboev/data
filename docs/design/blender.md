@@ -97,3 +97,4 @@ title: Blender
 - [How To Use Lighting In Your Renders | Blender Tutorial (2022)](https://www.youtube.com/watch?v=qxNzfllPSJc)
 - [nAncient Temple Scene Breakdown - Blender Tutorial (2022)](https://www.youtube.com/watch?v=dluRMWOiawo)
 - [Blender x NeRF](https://github.com/maximeraafat/BlenderNeRF) - User friendly Blender add-on for NeRF synthetic dataset creation.
+- [Stable Diffusion in Blender](https://github.com/benrugg/AI-Render)

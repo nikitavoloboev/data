@@ -181,3 +181,4 @@ title: Rails
 - [A Single file Rails Application (2022)](https://greg.molnar.io/blog/a-single-file-rails-application/) ([Lobsters](https://lobste.rs/s/juzxpe/single_file_rails_application))
 - [Simplify your model code in Rails by avoiding association pollution (2022)](https://calebhearth.com/association-pollution)
 - [Security Best Practices for Your Rails Application (2022)](https://blog.appsignal.com/2022/10/05/security-best-practices-for-your-rails-application.html)
+- [ViewComponent in the Wild: building modern Rails front ends (2022)](https://evilmartians.com/chronicles/viewcomponent-in-the-wild-building-modern-rails-frontends)

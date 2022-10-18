@@ -110,3 +110,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [OpenBSD.app](https://openbsd.app/) - Quick full-text searching of OpenBSD packages for -stable and -current.
 - [Fun with FreeBSD: Your First Linux Guest (2022)](https://productionwithscissors.run/2022/09/02/fun-with-freebsd-first-linux-guest/)
 - [OpenBSD Minimalist Desktop (2022)](https://nechtan.io/articles/openbsd_minimalist_desktop.html) ([HN](https://news.ycombinator.com/item?id=33231986))
+- [FreeBSD/Firecracker platform (2022)](https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html) ([HN](https://news.ycombinator.com/item?id=33243529))

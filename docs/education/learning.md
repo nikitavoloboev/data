@@ -194,7 +194,7 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [How to read research paper, textbook, long text content? (2022)](https://news.ycombinator.com/item?id=29851336)
 - [Knowledge Atlases](https://github.com/prathyvsh/knowledge-atlases) - Catalogue of portals that map out roadmaps for self learners. ([Tweet](https://twitter.com/prathyvsh/status/1480691431098486785))
 - [Metacademy](https://metacademy.org/) - Your package manager for knowledge.
-- [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
+- [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page) ([HN](https://news.ycombinator.com/item?id=33226352))
 - [Learn By Wrapping (2022)](https://mikerourke.dev/blog/learn-by-wrapping/) ([HN](https://news.ycombinator.com/item?id=30139824))
 - [Ask HN: What's your learning strategy? (2022)](https://news.ycombinator.com/item?id=30321632)
 - [What is the most powerful concept—from your field, industry, or just your life—that you believe would make people's lives better if it was more broadly understood?](https://twitter.com/DKThomp/status/1493591755886837763)

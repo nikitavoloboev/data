@@ -111,3 +111,4 @@ title: Elm
 - [Elm at a Billion Dollar Company with Vendr CTO Aaron White (2022)](https://elm-radio.com/episode/elm-at-a-billion-dollar-company/)
 - [2048 clone written in Elm](https://github.com/dwayne/elm-2048)
 - [Elm tree sitter](https://github.com/elm-tooling/tree-sitter-elm)
+- [Introducing Elm as a frontend contender (2022)](https://nais.io/blog/posts/elm/) ([Lobsters](https://lobste.rs/s/rkgbnt/introducing_elm_as_frontend_contender))

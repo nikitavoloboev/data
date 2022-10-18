@@ -240,6 +240,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Favorite RTS title of all time, and why? (2022)](https://www.reddit.com/r/RealTimeStrategy/comments/wm22fq/favorite_title_of_all_time_and_why/)
 - [What game receive a lot of hate but you absolutely love (2022)](https://www.reddit.com/r/gaming/comments/xeqval/what_game_receive_a_lot_of_hate_but_you/)
 - [Suggestions for a fun open world game I can get lost in (2022)](https://www.reddit.com/r/PS5/comments/y0j90a/any_suggestions_for_a_fun_open_world_game_i_can/)
+- [Do you know any good programming games? (2022)](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games)
 
 ## Links
 

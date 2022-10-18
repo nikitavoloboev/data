@@ -167,3 +167,4 @@
 - [The Scoop: the Hiring Market (2021)](https://newsletter.pragmaticengineer.com/p/the-scoop-hiring-market)
 - [Ask HN: Firing an employee under a month before vest? (2022)](https://news.ycombinator.com/item?id=33186789)
 - [Normalising Layoffs/Firing (2022)](https://news.ycombinator.com/item?id=33200261)
+- [Ask HN: Who’s been laid off and what’s your strategy for seeking new employment (2022)](https://news.ycombinator.com/item?id=33242807)

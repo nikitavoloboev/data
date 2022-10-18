@@ -702,3 +702,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Hera](https://github.com/paypal/hera) - High Efficiency Reliable Access to data stores.
 - [Low-Latency Distributed Data Strategies at P99 CONF: SQL, NoSQL & Event Streaming (2022)](https://www.scylladb.com/2022/10/07/low-latency-distributed-data-strategies-at-p99-conf-sql-nosql-event-streaming/)
 - [A Database Without Dynamic Memory Allocation (2022)](https://tigerbeetle.com/blog/a-database-without-dynamic-memory/) ([HN](https://news.ycombinator.com/item?id=33192288))
+- [Real-World Engineering Challenges: Migrations (2022)](https://newsletter.pragmaticengineer.com/p/real-world-engineering-challenges) ([HN](https://news.ycombinator.com/item?id=33232580))

@@ -79,3 +79,4 @@
 - [Implementation of a CHIP-8 machine for FPGAs in Hardcaml with a custom assembler for writing test programs](https://github.com/jawline/c8hardcaml)
 - [AGBRS](https://github.com/agbrs/agb) - Library for writing Game Boy Advance games in Rust.
 - [Stella](https://github.com/stella-emu/stella) - Multi-platform Atari 2600 Emulator.
+- [Potatis](https://github.com/henrikpersson/potatis) - MOS-6502 and NES emulator in Rust.

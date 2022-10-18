@@ -59,6 +59,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Shusei Nagaoka](https://twitter.com/UrbanFoxxxx/status/1217915945882202112)
 - [Doug John Miller](https://www.instagram.com/dougjohnmiller/)
 - [Lee kyutae](https://www.instagram.com/kokooma_/)
+- [Simz](https://www.instagram.com/simz.art/)
 - [Harriet Lee-Merrion](https://www.harrietleemerrion.com/)
 - [Krenz Cushart](https://www.instagram.com/krenzcushart/)
 - [Lindsey Leigh](https://www.lindseyleighart.com/)
