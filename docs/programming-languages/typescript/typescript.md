@@ -295,6 +295,8 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [Ezno: a new TypeScript compiler](https://kaleidawave.github.io/posts/introducing-ezno/) ([HN](https://news.ycombinator.com/item?id=32941613))
 - [TypeScript Tips by Matt Pocock](https://www.totaltypescript.com/tips)
 - [Total TypeScript](https://www.totaltypescript.com/) - Professional TypeScript Training by Matt Pocock.
+- [TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler. ([Tweet](https://twitter.com/MarcJSchmidt/status/1582119945571213312))
+- [Improve DX tips for TypeScript projects (2022)](https://twitter.com/TkDodo/status/1582282692577853440)
 
 ## Images
 

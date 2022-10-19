@@ -181,7 +181,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Discord API Types](https://github.com/discordjs/discord-api-types) - Up to date Discord API Typings, versioned by the API version.
 - [Crux.Gateway](https://github.com/SpaceEEC/crux_gateway) - Library providing a flexible gateway connection to the Discord API.
 - [DiscordKit](https://github.com/SwiftcordApp/DiscordKit) - Discord API implementation that powers Swiftcord.
-- [Linen](https://www.linen.dev/) - Make your Discord community Google-searchable. ([HN](https://news.ycombinator.com/item?id=31494908)) ([From idea to 1k revenue in 1 month](https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers)) ([HN](https://news.ycombinator.com/item?id=32104669))
+- [Linen](https://www.linen.dev/) - Make your Discord community Google-searchable. ([HN](https://news.ycombinator.com/item?id=31494908)) ([From idea to 1k revenue in 1 month](https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers)) ([HN](https://news.ycombinator.com/item?id=32104669)) ([Code](https://github.com/Linen-dev/linen.dev)) ([HN](https://news.ycombinator.com/item?id=33248488))
 - [discord-drive](https://github.com/iShibi/discord-drive) - CLI tool to use Discord as a cloud storage.
 - [coxir](https://github.com/satom99/coxir) - Modern Elixir wrapper for Discord.
 - [Discord Previews](https://discordpreviews.com/) - Your #1 source for the latest Discord news. ([Code](https://github.com/NurMarvin/discordpreviews.com))

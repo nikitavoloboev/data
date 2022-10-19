@@ -113,3 +113,4 @@ title: Web Components
 - [Good resources to learn Web Components (2022)](https://twitter.com/claviska/status/1575949212201930752)
 - [Lume Element](https://github.com/lume/element) - Easily create Custom Elements with simple templates and reactivity.
 - [Enhance SSR](https://github.com/enhance-dev/enhance-ssr) - Server side render for custom elements.
+- [Ponys](https://jhuddle.github.io/ponys/) - Declarative creation of browser-native web components.

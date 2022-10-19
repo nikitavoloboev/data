@@ -107,3 +107,5 @@ title: Figma
 - [Design Systems For Figma](https://www.designsystemsforfigma.com/)
 - [Primer for Figma](https://github.com/primer/figma) - Primer, GitHub's design system, available on Figma.
 - [Behind the feature: find and replace (2022)](https://www.figma.com/blog/behind-the-feature-find-and-replace/)
+- [Why I love Figma](https://twitter.com/realvjy/status/1582359449963966464)
+- [Figma Component Properties](https://twitter.com/Ridderingand/status/1582401159297236993)

@@ -1193,3 +1193,4 @@
 - [Python Type Hints: How to Gradually Add Types for Third Party Packages (2022)](https://adamj.eu/tech/2022/08/23/python-type-hints-gradually-add-types-for-third-party-packages/)
 - [Python dependency management difficulty is an unhelpful meme (2022)](https://blog.viraptor.info/post/python-dependency-management-difficulty-is-an-unhelpful-meme) ([Lobsters](https://lobste.rs/s/q5tvl6/python_dependency_management))
 - [Musings on Python Type Hints (2022)](https://samgeo.codes/blog/python-types/)
+- [How to set up Python in 2022](https://gist.github.com/eyeseast/548fddcfd0df24e589375af6a926ef7e)

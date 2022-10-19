@@ -761,3 +761,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Evaluating integrated development environments (2022)](https://macoy.me/blog/programming/IntegratedDevelopmentEnvironment)
 - [Awesome Diagramming Tools](https://github.com/shubhamgrg04/awesome-diagramming)
 - [Commsor](https://www.commsor.com/) - Complete platform for Community-Led companies. ([Twitter](https://twitter.com/Commsor))
+- [Low-code tools to build internal-facing tools](https://twitter.com/GergelyOrosz/status/1582133778478080000)

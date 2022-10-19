@@ -89,3 +89,6 @@
 - [Paul Graham's parenting advice](<https://twitter.com/search?q=(taught%20OR%20told)%20(from%3Apaulg)%20yo&src=typed_query&f=live>)
 - [Ask HN: About to have a child, completely burnt out at my job, what do I do? (2022)](https://news.ycombinator.com/item?id=32913377)
 - [Being raised by emotionally immature parents sets us up for a lifetime of believing our role is to perform, achieve, or be responsible for other people’s emotions](https://twitter.com/Theholisticpsyc/status/1581323439343693824)
+- [75% of the time we spend with our kids in our lifetime will be spent by age 12](https://www.1000hoursoutside.com/blog/time-with-kids-before-age-12) ([HN](https://news.ycombinator.com/item?id=33254597))
+- [Tell HN: The regret of parenting and how to handle it](https://news.ycombinator.com/item?id=33258925)
+- [Ask HN: How to deal with regret of not having kids](https://news.ycombinator.com/item?id=33259414)

@@ -304,3 +304,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [InvestPy Tiny](https://github.com/alvarobartt/investiny)
 - [Ask HN: How to deal with markets down turn? Feeling down (2022)](https://news.ycombinator.com/item?id=33131519)
 - [Gorilla Terminal](https://gorillaterminal.com/) - Bloomberg Terminal for Individuals. ([HN](https://news.ycombinator.com/item?id=33212546))
+- ["I’m going to learn about investing" journey (2022)](https://twitter.com/netcapgirl/status/1582388935862648833)

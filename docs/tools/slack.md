@@ -94,5 +94,5 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [Slack Machine](https://github.com/DonDebonair/slack-machine) - Simple, yet powerful and extendable Slack bot.
 - [Slack releases platform open beta powered by Deno (2022)](https://deno.com/blog/slack-open-beta)
 - [Slack-Backup](https://github.com/edemaine/slack-backup) - Backup Slack users, channels, and messages for conversion to Discord.
-- [Threads](https://threads.com/) - Slack replacement designed for makers. ([Twitter](https://twitter.com/Threads)) ([Features](https://twitter.com/rousseaukazi/status/1574791299600769024))
+- [Threads](https://threads.com/) - Slack replacement designed for makers. ([Twitter](https://twitter.com/Threads)) ([Features](https://twitter.com/rousseaukazi/status/1574791299600769024)) ([Tweet](https://twitter.com/joxxnie/status/1582436119060172800))
 - [GitHub Board Slack notifications](https://github.com/nearform/github-board-slack-notifications) - Send notifications to a Slack channel for any changes that are performed in a GitHub board.

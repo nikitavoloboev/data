@@ -613,3 +613,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [All you need to know about the Russian protests](https://twitter.com/BohdanaNeborak/status/1572889832879280131)
 - [Дмитрий Муратов: «Русские позвоночники» (2022)](https://www.youtube.com/watch?v=mMBpbo8Wkwo)
 - [Как безопасно пользоваться интернетом в России (2022)](https://twitter.com/artemtam/status/1576201945240334336)
+- [Где поработать в Москве](https://shantibiotic.notion.site/28ef57f521a84aaaa6345de80d55f4ac)

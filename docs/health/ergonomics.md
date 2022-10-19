@@ -50,6 +50,7 @@ I use [HAG Capisco chair](https://twitter.com/rsms/status/1521765828303245313) I
 - [Apple Event lounge](https://twitter.com/jamesjgill/status/1450146286833913860)
 - [Hakim's dual screen setup](https://twitter.com/hakimel/status/1466016817730633734)
 - [Nice office with open windows](https://twitter.com/zander_supafast/status/1516417998868860932)
+- [Nice setups (2022)](https://twitter.com/UltraLinx/status/1582376467513892866)
 
 ## Notes
 

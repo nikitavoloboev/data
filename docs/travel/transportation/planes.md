@@ -14,3 +14,4 @@
 - [See Thru Jet Engine (2022)](https://www.youtube.com/watch?v=MgL0GW248mE) ([HN](https://news.ycombinator.com/item?id=32145297))
 - [Engine makers sound downbeat on supersonic, leaving Boom in a bind (2022)](https://www.flightglobal.com/airframers/engine-makers-sound-downbeat-on-supersonic-leaving-boom-in-a-bind/150215.article) ([HN](https://news.ycombinator.com/item?id=32937736))
 - [Lilium Jet](https://lilium.com/jet) - First electric vertical take-off and landing jet. ([HN](https://news.ycombinator.com/item?id=33044753))
+- [Starlink Aviation](https://www.starlink.com/aviation) ([HN](https://news.ycombinator.com/item?id=33256378))

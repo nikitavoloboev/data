@@ -11,3 +11,4 @@ title: Babashka
 - [babashka.fs](https://github.com/babashka/fs) - File system utility library.
 - [bb-clis](https://github.com/cldwalker/bb-clis) - Babashka CLIs.
 - [awyeah-api](https://github.com/grzm/awyeah-api) - Cognitect's aws-api and babashka.
+- [Babashka Web](https://babashka.org/)

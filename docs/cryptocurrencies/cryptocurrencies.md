@@ -300,3 +300,4 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 - [Specter-DIY](https://github.com/cryptoadvance/specter-diy) - DIY airgapped hardware wallet that uses QR codes for communication with the host.
 - [Gradual Dutch Auctions (2022)](https://www.paradigm.xyz/2022/04/gda)
 - [Cairo implementation of Gradual Dutch Auctions](https://github.com/cartridge-gg/cairo-gda)
+- [a16z crypto](https://a16zcrypto.com/) - Venture capital fund that invests in crypto and web3 startups.

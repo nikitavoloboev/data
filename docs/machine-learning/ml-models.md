@@ -46,7 +46,7 @@
 - [Snakepit](https://github.com/coqui-ai/snakepit) - Coqui's machine learning job scheduler.
 - [MLServer](https://github.com/SeldonIO/MLServer) - Inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more. ([Docs](https://mlserver.readthedocs.io/en/latest/))
 - [SpotML](https://www.spotml.io/) - Managed ML Training on Cheap AWS/GCP Spot Instances. ([HN](https://news.ycombinator.com/item?id=28738141))
-- [Mosaic ML](https://www.mosaicml.com/) - Making ML Training Efficient. ([Tweet](https://twitter.com/mattocko/status/1448492976045363200))
+- [Mosaic ML](https://www.mosaicml.com/) - Making ML Training Efficient. ([Tweet](https://twitter.com/mattocko/status/1448492976045363200)) ([Intro](https://www.mosaicml.com/blog/introducing-mosaicml-cloud))
 - [RecoEdge](https://github.com/NimbleEdge/RecoEdge) - Deploy recommendation engines with Edge Computing.
 - [MLRun](https://github.com/mlrun/mlrun) - Open-Source MLOps Orchestration Framework.
 - [PrimeHub](https://github.com/InfuseAI/primehub) - Toil-free multi-tenancy machine learning platform in your Kubernetes cluster. ([Docs](https://docs.primehub.io/))

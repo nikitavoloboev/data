@@ -1,6 +1,6 @@
 # Parsing
 
-[Tree-sitter](https://tree-sitter.github.io/tree-sitter/) is neat.
+[Tree-sitter](https://tree-sitter.github.io/tree-sitter/) is neat. [participle](https://github.com/alecthomas/participle) is great go lib I use for parsing.
 
 ## Links
 

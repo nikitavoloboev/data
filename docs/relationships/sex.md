@@ -123,3 +123,4 @@
 - [Is sex with a condom really that bad?](https://www.reddit.com/r/sex/comments/xo0twa/is_sex_with_a_condom_really_that_bad/)
 - [Why are sex workers forced to wear a financial scarlet letter? (2022)](https://thewalrus.ca/why-are-sex-workers-forced-to-wear-a-financial-scarlet-letter/) ([HN](https://news.ycombinator.com/item?id=33006827))
 - [Birth Control Methods & Options](https://www.plannedparenthood.org/learn/birth-control) ([Reddit](https://www.reddit.com/r/sex/comments/y3svhq/my_gf_loves_to_watch_when_i_pull_out_and_cum_on/))
+- [“Exotic” sex positions are actually worth the effort](https://www.reddit.com/r/sex/comments/y6necv/what_exotic_sex_positions_are_actually_worth_the/)

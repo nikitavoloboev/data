@@ -138,3 +138,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Capacitor Templates for SolidJS (and Vite)](https://github.com/ionic-team/capacitor-solidjs-templates)
 - [Solid Windowed](https://github.com/titoBouzout/solid-windowed) - Given a list of items, only render what's visible on the screen while allowing scrolling the whole list.
 - [Solid Styled Components](https://github.com/solidjs/solid-styled-components) - 1kb Styled Components library for Solid.
+- [SolidStart, Server Functions, and the future of Islands (2022)](https://viteconf.org/2022/replay/solid)

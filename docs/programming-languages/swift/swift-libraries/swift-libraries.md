@@ -1286,6 +1286,7 @@
 
 - [When you want to edit a package in Swift (e.g. a dependency you have) you can (temporarily) add it as a local package and that'll take precedence over the package dependency.](https://twitter.com/chriseidhof/status/1523738036202209280)
 - [Under appreciated power trick in SwiftPM is to quickly get a package into edit mode (`swift package edit swift-nio`). Edit a piece of code you think needs to change, and confirm in your project -> then, submit the fix!](https://twitter.com/ktosopl/status/1534451476751589377)
+- [Make your Swift package manifest more readable by factoring out common target dependencies](https://twitter.com/_sa_s/status/1582329921371721729)
 
 ## Links
 

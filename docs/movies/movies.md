@@ -143,3 +143,5 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Movies with endings so sad and/or beautiful that you struggled to hold back tears](https://www.reddit.com/r/MovieSuggestions/comments/y2jwcj/movies_with_endings_so_sad_andor_beautiful_that/)
 - [Movies that are Perfect on every possible aspect (2022)](https://www.reddit.com/r/MovieSuggestions/comments/y409ye/movies_that_are_perfect_on_every_possible_aspect/)
 - [The 35 Best Sci-Fi Movies Of All Time, Ranked (2022)](https://www.cinemablend.com/news/1639139/30-best-sci-fi-movies-of-all-time) ([Reddit](https://www.reddit.com/r/scifi/comments/y40elx/the_35_best_scifi_movies_of_all_time_ranked/))
+- [Letterboxd's Top 250 Horror Films](https://letterboxd.com/darrencb/list/letterboxds-top-250-horror-films/) ([Tweet](https://twitter.com/letterboxd/status/1582178371169308674))
+- [Your top 3 favorite movies of all time](https://www.reddit.com/r/MovieSuggestions/comments/y7e4c3/your_top_3_favorite_movies_of_all_time_go/)

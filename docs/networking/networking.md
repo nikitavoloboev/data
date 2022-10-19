@@ -533,3 +533,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [A Cheap 2.5GbE PoE Unmanaged Switch (2022)](https://www.servethehome.com/the-ultimate-cheap-2-5gbe-poe-unmanaged-switch-hasivo-s1100p-8gt/) ([HN](https://news.ycombinator.com/item?id=33129007))
 - [Country IP Blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.
 - [WiGLE: Wireless Network Mapping](https://www.wigle.net/) ([HN](https://news.ycombinator.com/item?id=33209163))
+- [How to hide your IP address (2022)](https://educatedguesswork.org/posts/traffic-relaying/)

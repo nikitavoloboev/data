@@ -111,3 +111,4 @@
 - [Proving that Quantum Entanglement is Real (2022)](https://pma.caltech.edu/news/proving-that-quantum-entanglement-is-real)
 - [PHYS771 Lecture 9: Quantum](https://www.scottaaronson.com/democritus/lec9.html) ([HN](https://news.ycombinator.com/item?id=33188276))
 - [The Universe Is Not Locally Real, and the Physics Nobel Prize Winners Proved It (2022)](https://www.reddit.com/r/space/comments/xxk1s6/the_universe_is_not_locally_real_and_the_physics/)
+- [The magic of quantum coherence (2020)](https://www.multiflora-herbs.com/blogs/news/the-magic-of-quantum-coherence)

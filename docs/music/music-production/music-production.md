@@ -428,3 +428,6 @@
 - [splitter.fm](https://splitter.fm/) - Listen to your favorite songs stem-by-stem. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/y1glbz/splitterfm_listen_to_the_individual/))
 - [Creating AI Music Videos with Stable Diffusion (2022)](https://aiart.dev/posts/sd-music-videos/sd_music_videos.html) ([Tweet](https://twitter.com/_nateraw/status/1580629123403481089))
 - [AudioLab](https://github.com/solipd/AudioLab) - Library of high level Pure Data abstractions with a focus on electroacoustic composition, live electronics and sound design.
+- [Ableton Note](https://www.ableton.com/en/note/) - iOS app for forming new musical ideas. ([Video](https://www.youtube.com/watch?v=smJZcWwJsOw)) ([HN](https://news.ycombinator.com/item?id=33244819))
+- [The sound illusion that makes Dunkirk so intense (2017)](https://www.youtube.com/watch?v=LVWTQcZbLgY)
+- [Bitwig](https://www.bitwig.com/) - Digital audio workstation (DAW) and music production software. ([Twitter](https://twitter.com/Bitwig))

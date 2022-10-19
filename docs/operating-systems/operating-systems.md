@@ -387,5 +387,5 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Operating systems that is a runtime of a programming language](https://www.reddit.com/r/ProgrammingLanguages/comments/xyrah5/is_there_an_operating_systems_that_is_a_runtime/)
 - [If a brand new OS shipped tomorrow, what about it would make you excited?](https://twitter.com/rsms/status/1579478016245526530)
 - [Digging into a QEMU problem of slow data copying (2022)](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html) ([HN](https://news.ycombinator.com/item?id=33192152))
-- [Project Sparrow](https://github.com/AmbiML/sparrow-manifest) - Project to build a low-power secure embeded platform for Ambient ML applications. Target platform leverages RISC-V and OpenTitan.
+- [Project Sparrow](https://github.com/AmbiML/sparrow-manifest) - Project to build a low-power secure embeded platform for Ambient ML applications. Target platform leverages RISC-V and OpenTitan. ([Reddit](https://www.reddit.com/r/rust/comments/y7mu9l/google_shows_off_kataos_a_secure_operating_system/)) ([Reddit](https://www.reddit.com/r/embedded/comments/y7hgh0/google_announce_secure_rustbased_os_for_embedded/))
 - [Announcing KataOS and Sparrow (2022)](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html) ([Lobsters](https://lobste.rs/s/xjriu5/announcing_kataos_sparrow))

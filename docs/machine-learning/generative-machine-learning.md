@@ -105,3 +105,6 @@
 - [Asymmetric Tiling for stable-diffusion-webui](https://github.com/tjm35/asymmetric-tiling-sd-webui)
 - [Prompt-to-Prompt: Latent Diffusion and Stable Diffusion implementation (2022)](https://github.com/google/prompt-to-prompt)
 - [Real-time inference for Stable Diffusion](https://github.com/stochasticai/x-stable-diffusion)
+- [latentspace.dev](https://www.latentspace.dev/) - Exploring stable diffusion latent space. ([Tweet](https://twitter.com/QasimMunye/status/1581784155528232960))
+- [Photoshop for Text (2022)](https://stephanango.com/photoshop-for-text) ([HN](https://news.ycombinator.com/item?id=33253606))
+- [Artists: AI Image Generators Can Make Copycat Images in Seconds (2022)](https://www.businessinsider.com/ai-image-generators-artists-copying-style-thousands-images-2022-10)

@@ -137,3 +137,5 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: How to validate a startup idea whilst employed?](https://news.ycombinator.com/item?id=32875224)
 - [App that every developer builds at least once](https://twitter.com/adamwathan/status/1579944464826912768)
 - [Project book](https://projectbook.code.brettchalupa.com/) - Collection of 100 project ideas for learning. ([HN](https://news.ycombinator.com/item?id=33245614))
+- [Ask HN: What not-profit-seeking project are you tinkering with this week? (2022)](https://news.ycombinator.com/item?id=33256412)
+- [Just for Fun. No, really.](https://justforfunnoreally.dev/) ([HN](https://news.ycombinator.com/item?id=33255920))

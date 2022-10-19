@@ -333,6 +333,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Books that shifted your perspective, gave you a deeper understanding of yourself (2022)](https://www.reddit.com/r/suggestmeabook/comments/xy102q/books_that_shifted_your_perspective_gave_you_a/)
 - [Top science fiction short stories published in August 2022](https://compellingsciencefiction.com/posts/top-science-fiction-short-stories-published-in-august.html)
 - [Ask HN: Best programming books in the last couple of years? (2022)](https://news.ycombinator.com/item?id=33175565)
+- [Ask HN: Books that teach you to think (2022)](https://news.ycombinator.com/item?id=33224904)
 
 ## Interesting Prose Books
 

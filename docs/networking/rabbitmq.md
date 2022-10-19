@@ -39,3 +39,4 @@ title: RabbitMQ
 - [RabbitMQ 3.11 Feature Preview: Super Streams (2022)](https://blog.rabbitmq.com/posts/2022/07/rabbitmq-3-11-feature-preview-super-streams/) ([HN](https://news.ycombinator.com/item?id=32088219))
 - [What I wish someone would have told me about using RabbitMQ (2020)](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/) ([HN](https://news.ycombinator.com/item?id=32091550))
 - [RabbitMQ in 100 Seconds](https://www.youtube.com/watch?v=NQ3fZtyXji0)
+- [How we built a multi-product SSO system with asynchronous messages using RabbitMQ (2022)](https://medium.com/wttj-tech/how-we-built-a-multi-product-sso-system-with-asynchronous-messages-using-rabbitmq-889fefba02b1)

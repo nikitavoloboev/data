@@ -94,3 +94,4 @@
 - [Glottie](https://github.com/LottieFiles/glottie) - OpenGL/WebGL based Lottie animation player.
 - [Rive-CPP](https://github.com/rive-app/rive-cpp) - C++ runtime for Rive.
 - [Rive Web](https://github.com/rive-app/rive-wasm) - WASM/JS runtime for Rive.
+- [Rive as a Lottie alternative (2022)](https://rive.app/blog/rive-as-a-lottie-alternative) ([Tweet](https://twitter.com/guidorosso/status/1582086637328031745))

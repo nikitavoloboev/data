@@ -140,3 +140,4 @@ title: Minecraft
 - [Minecraft, but it's built on top of a deferred renderer](https://github.com/jdah/minecraft-again)
 - [1Hz CPU made in Minecraft running Minecraft at 0.1fps (2022)](https://www.youtube.com/watch?v=-BP7DhHTU-I) ([HN](https://news.ycombinator.com/item?id=32901461))
 - [Minetest for the Web](https://minetest.dustlabs.io/) ([HN](https://news.ycombinator.com/item?id=33207408))
+- [Mirai](https://github.com/etil2jz/Mirai) - Powerful Minecraft Server Software coming from the future.

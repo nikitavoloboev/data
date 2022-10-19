@@ -412,3 +412,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Video-to-SQLite](https://github.com/ryanfox/video-to-sqlite) - Load data about a video file into SQLite.
 - [How We Boosted Video Processing Speed 5x by Optimizing GPU Usage in Python (2022)](https://medium.com/@lightricks-tech-blog/how-we-boosted-video-processing-speed-5x-by-optimizing-gpu-usage-in-python-2ab7c9411b6c) ([Reddit](https://www.reddit.com/r/Python/comments/y1bjxi/how_we_boosted_video_processing_speed_5x_by/))
 - [In Praise of FFmpeg (2022)](https://drewdevault.com/2022/10/12/In-praise-of-ffmpeg.html)
+- [Viva: An End-to-End System for Interactive Video Analytics (2022)](https://ddkang.github.io/papers/2022/viva-cidr.pdf)

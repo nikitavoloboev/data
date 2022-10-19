@@ -953,3 +953,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Build AI product MVP quickly with HuggingFace (2022)](https://twitter.com/1littlecoder/status/1580555066791972866)
 - [Efficient and Scalable Parallel Functional Programming Through Disentanglement (2022)](https://www.youtube.com/watch?v=IMPF-Vz1YqI) ([Tweet](https://twitter.com/shwestrick/status/1580571734218264577))
 - [What's New In Machine Learning? (2022)](https://www.youtube.com/watch?v=QgpzNWMawU4)
+- [Shervine Amidi's ML Cheat Sheets](https://stanford.edu/~shervine/teaching/)
