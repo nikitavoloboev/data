@@ -124,3 +124,5 @@
 - [Why are sex workers forced to wear a financial scarlet letter? (2022)](https://thewalrus.ca/why-are-sex-workers-forced-to-wear-a-financial-scarlet-letter/) ([HN](https://news.ycombinator.com/item?id=33006827))
 - [Birth Control Methods & Options](https://www.plannedparenthood.org/learn/birth-control) ([Reddit](https://www.reddit.com/r/sex/comments/y3svhq/my_gf_loves_to_watch_when_i_pull_out_and_cum_on/))
 - [“Exotic” sex positions are actually worth the effort](https://www.reddit.com/r/sex/comments/y6necv/what_exotic_sex_positions_are_actually_worth_the/)
+- [Men who have had a vasectomy, what's different now?](https://www.reddit.com/r/sex/comments/y7y5w4/men_who_have_had_a_vasectomy_whats_different_now/)
+- [This startup wants to reimagine egg donation](https://www.fastcompany.com/90795078/this-startup-wants-to-reimagine-egg-donation) ([Tweet](https://twitter.com/halletecco/status/1582744229721145344))

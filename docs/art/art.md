@@ -91,6 +91,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Gemma O’Brien](https://shop.gemmaobrien.com/)
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)
+- [Li Chen](https://twitter.com/Exocomics) ([IG](https://www.instagram.com/exocomics/))
 - [Gregory Fromenteau](https://www.instagram.com/gregfromenteau_art/)
 - [Julien Gauthier](https://www.artstation.com/renart)
 - [Katria's Doodles](https://www.instagram.com/katriadoodles/)

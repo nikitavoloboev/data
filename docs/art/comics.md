@@ -1,5 +1,7 @@
 # Comics
 
+[Li Chen](https://twitter.com/Exocomics) does cute comics.
+
 ## Links
 
 - [InSight Mars Mission](https://theoatmeal.com/comics/insight)

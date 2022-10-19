@@ -146,3 +146,4 @@ I love all animals. And I am sad that some people decide to eat them and not [le
 - [Cats Stealing Food in Still Life Paintings](https://twitter.com/CatsOfYore/status/1570001635887153154?s=20&t=5GZY2W11AKM7evM8TUw69A)
 - [The Depths Below / Twitter](https://twitter.com/DepthsBeIow)
 - [Austin's photos of cats](https://www.instagram.com/cloudformedia/)
+- [Eels are fascinating](https://twitter.com/DrEmilyFinch/status/1582299378655850499)

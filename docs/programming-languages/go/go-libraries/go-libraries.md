@@ -1840,6 +1840,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go-JSONRPC](https://github.com/filecoin-project/go-jsonrpc) - Low Boilerplate JSON-RPC 2.0 library.
 - [Simpleflow](https://github.com/lobocv/simpleflow) - Generic simple workflows and concurrency patterns.
 - [GoParsec](https://github.com/prataprc/goparsec) - Parser combinator library in Go.
+- [Go Parse](https://github.com/vito/go-parse) - Parsec-like library for Go.
 
 ## Links
 

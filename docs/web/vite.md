@@ -105,7 +105,7 @@ title: Vite
 - [Vite Sentry Plugin](https://github.com/ikenfin/vite-plugin-sentry)
 - [Getting Started with Vitest](https://www.vuemastery.com/blog/getting-started-with-vitest/) ([HN](https://news.ycombinator.com/item?id=32416783))
 - [Vite Plugin Validate ENV](https://github.com/Julien-R44/vite-plugin-validate-env) - Vite plugin for validating your environment variables.
-- [ViteConf](https://viteconf.org/) ([Twitter](https://twitter.com/ViteConf))
+- [ViteConf](https://viteconf.org/) ([Twitter](https://twitter.com/ViteConf)) ([Code](https://github.com/stackblitz/viteconf))
 - [Vite Lightning CSS Plugin](https://github.com/lawrencecchen/vite-plugin-lightningcss)
 - [Vite Plugin - Optimize CSS Modules](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Mangle / minimize css module classnames in production.
 - [Vitrify](https://github.com/simsustech/vitrify) - Abstraction over Vite similar to how Vite is an abstraction over Rollup and esbuild.
@@ -114,3 +114,4 @@ title: Vite
 - [Vite Plugin Web Extension](https://github.com/samrum/vite-plugin-web-extension) - Vite plugin for generating cross browser platform, ES module based web extensions.
 - [Vite-Plugin-Minify](https://github.com/zhuweiyou/vite-plugin-minify) - Minify HTML in production.
 - [What's great about ViteJS (2022)](https://twitter.com/ebey_jacob/status/1578439326853369863)
+- [ViteConf 2022 Replay](https://viteconf.org/2022/replay)

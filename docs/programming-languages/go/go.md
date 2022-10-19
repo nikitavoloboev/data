@@ -61,6 +61,13 @@ Only thing I dislike about Go is it's verbosity especially with respect to error
 if err != nil {
   log.Fatal(err)
 }
+
+// Check for boolean flag (--dev here)
+boolArgPtr := flag.Bool("dev", false, "Explain command..")
+flag.Parse()
+if *boolArgPtr != false {
+  // ..
+}
 ```
 
 ## Links

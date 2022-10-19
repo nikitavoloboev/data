@@ -42,3 +42,4 @@ title: MDX
 - [MDX VSCode extension](https://marketplace.visualstudio.com/items?itemName=silvenon.mdx) ([Code](https://github.com/silvenon/vscode-mdx))
 - [ESLint Parser/Plugin for MDX](https://github.com/mdx-js/eslint-mdx)
 - [Integrating MDX with NextJS](https://twitter.com/dan_abramov/status/1566792394082746368)
+- [MDX Conf Discord](https://discord.gg/CYsM78ECQJ)
