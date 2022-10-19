@@ -587,3 +587,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [GIT for Beginners (2022)](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf)
 - [MergeStat](https://github.com/mergestat/mergestat) - Enables SQL queries for data in git repositories (and related sources, such as the GitHub API).
 - [NodeGit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
+- [Ask HN: Apps that are built with Git as the back end? (2022)](https://news.ycombinator.com/item?id=33261862)

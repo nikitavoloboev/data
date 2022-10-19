@@ -85,4 +85,4 @@ title: WireGuard
 - [OpenVPN & WireGuard server at GitHub Actions: representative NAT traversal case](https://github.com/ValdikSS/nat-traversal-github-actions-openvpn-wireguard) ([HN](https://news.ycombinator.com/item?id=32329052))
 - [WireGuard Servers Running from RAM](https://mullvad.net/tr/help/wireguard-servers-running-from-ram/) ([HN](https://news.ycombinator.com/item?id=32645501))
 - [LinuxServer.io WireGuard](https://github.com/linuxserver/docker-wireguard)
-- [Identity management for WireGuard (2022)](https://lwn.net/SubscriberLink/910766/7678f8c4ede60928/)
+- [Identity management for WireGuard (2022)](https://lwn.net/SubscriberLink/910766/7678f8c4ede60928/) ([HN](https://news.ycombinator.com/item?id=33261288))

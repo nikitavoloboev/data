@@ -328,3 +328,5 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Algorithmic Differentiation for Automatized Modelling of Machine Learned Force Fields (2022)](https://arxiv.org/abs/2208.12104) ([Code](https://github.com/niklasschmitz/ad-kernels))
 - [List of physics YouTube channels (2022)](https://www.reddit.com/r/Physics/comments/y6uzbx/i_made_a_list_of_physics_youtube_channels/)
 - [Sound (2022)](https://ciechanow.ski/sound/) ([HN](https://news.ycombinator.com/item?id=33249215))
+- [Inside the Proton (2022)](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/) ([HN](https://news.ycombinator.com/item?id=33262637))
+- [Protons and Charm Quarks: A Lesson From Virtual Particles (2022)](https://profmattstrassler.com/2022/09/09/protons-and-charm-quarks-a-lesson-from-virtual-particles/)

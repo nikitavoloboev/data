@@ -183,6 +183,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Nick McDonald](https://nickmcd.me/)
 - [Andrew Helwer](https://ahelwer.ca/post/)
 - [Ollin Boer Bohan](https://madebyoll.in/)
+- [Matt Strassler](https://profmattstrassler.com/)
 
 ## Notes
 

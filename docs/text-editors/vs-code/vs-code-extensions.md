@@ -260,6 +260,7 @@ Below is a list of extensions I use.
 - [Turbo Console Log](https://github.com/Chakroun-Anas/turbo-console-log) - Make debugging much easier by automating the operation of writing meaningful log message.
 - [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support. ([Code](https://github.com/microsoft/vscode-typescript-next))
 - [Twoslash-Queries](https://github.com/orta/vscode-twoslash-queries) - VS Code extension which adds support for twoslash queries into typescript projects.
+- [TS QuickFixes](https://marketplace.visualstudio.com/items?itemName=tamj0rd2.ts-quickfixes-extension) ([Code](https://github.com/tamj0rd2/ts-quickfixes)) ([Tweet](https://twitter.com/wesbos/status/1582803702225989637))
 
 ## DB
 
