@@ -424,3 +424,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [KrakenD](https://github.com/krakendio/krakend-ce) - High-performance, statless, declarative, API Gateway written in Go.
 - [Mock](https://github.com/dhuan/mock) - Setup and test APIs easily. ([HN](https://news.ycombinator.com/item?id=32966346))
 - [Val Town](https://www.val.town/) - Collaborative notebook for APIs.
+- [Ryax](https://ryax.tech/) - Open-source platform that streamlines the design, deployment, and monitoring of your APIs and automations. ([Code](https://github.com/RyaxTech/ryax))

@@ -103,7 +103,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Gumroad](https://gumroad.com/nikitavoloboev)
 - [Things Network](https://www.thethingsnetwork.org/u/nikitavoloboev)
 - [TikTok](https://www.tiktok.com/@nikitavoloboev)
-- [KinoPoisk](https://www.kinopoisk.ru/user/56364706/)
+- [KinoPoisk](https://www.kinopoisk.ru/user/121665223/)
 - [Observable](https://observablehq.com/@nikitavoloboev)
 - [Slant](https://www.slant.co/users/nikivi)
 - [TripAdvisor](https://www.tripadvisor.co.uk/Profile/nikitavoloboev)

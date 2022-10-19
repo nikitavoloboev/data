@@ -1839,6 +1839,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Gorgonia-Parser](https://github.com/gorgonia/parser) - Simple parser that turns a formulae written in unicode into an ExprGraph.
 - [Go-JSONRPC](https://github.com/filecoin-project/go-jsonrpc) - Low Boilerplate JSON-RPC 2.0 library.
 - [Simpleflow](https://github.com/lobocv/simpleflow) - Generic simple workflows and concurrency patterns.
+- [GoParsec](https://github.com/prataprc/goparsec) - Parser combinator library in Go.
 
 ## Links
 

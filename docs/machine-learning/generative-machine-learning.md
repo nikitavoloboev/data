@@ -108,3 +108,4 @@
 - [latentspace.dev](https://www.latentspace.dev/) - Exploring stable diffusion latent space. ([Tweet](https://twitter.com/QasimMunye/status/1581784155528232960))
 - [Photoshop for Text (2022)](https://stephanango.com/photoshop-for-text) ([HN](https://news.ycombinator.com/item?id=33253606))
 - [Artists: AI Image Generators Can Make Copycat Images in Seconds (2022)](https://www.businessinsider.com/ai-image-generators-artists-copying-style-thousands-images-2022-10)
+- [Stability.AI Easy Diffusion](https://github.com/WASasquatch/easydiffusion) - Google Colab Notebook designed to be a relatively easy to use all-in-one suite for stable diffusion.

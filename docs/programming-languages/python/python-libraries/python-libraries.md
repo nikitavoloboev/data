@@ -134,6 +134,7 @@
 
 ## CLI
 
+- [tyro](https://github.com/brentyi/tyro) - Strongly typed, zero-effort CLI interfaces & config objects.
 - [Tap](https://github.com/swansonk14/typed-argument-parser) - Typed modernization of Python's argparse library.
 - [Appeal](https://github.com/larryhastings/appeal) - Command-line parsing library for Python 3.
 - [SimpleParsing](https://github.com/lebrice/SimpleParsing) - Simple, Elegant, Typed Argument Parsing with argparse.
@@ -1010,6 +1011,7 @@
 - [Lenses](https://github.com/ingolemo/python-lenses) - Python library that helps you to manipulate large data-structures without mutating them.
 - [pandas-stubs](https://github.com/pandas-dev/pandas-stubs) - Public type stubs for pandas.
 - [Puff](https://github.com/hansonkd/puff) - Batteries included "deep stack" for Python. Minimize the barrier between Python and Rust.
+- [AwesomeYaml](https://github.com/SamsungLabs/awesomeyaml) - Utility library to help parsing, transforming and querying yaml-based configs.
 
 ## Notes
 

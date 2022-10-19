@@ -112,3 +112,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Taking things less personally](https://psyche.co/guides/how-to-take-things-less-personally-and-avoid-mind-reading) ([HN](https://news.ycombinator.com/item?id=32146883))
 - [Movies that just make you happy](https://www.reddit.com/r/MovieSuggestions/comments/w3j1b4/movies_that_just_make_you_happy/)
 - [Learning to Love Myself (2016)](http://blog.chaselambda.com/2016/12/11/learning-to-love-myself.html) ([HN](https://news.ycombinator.com/item?id=32355020))
+- [Ask HN: Has anyone managed to find enjoyment in their work after burnout? (2022)](https://news.ycombinator.com/item?id=33260525)
