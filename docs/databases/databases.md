@@ -257,6 +257,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [RonDB](https://github.com/logicalclocks/rondb) - Stable distribution of NDB Cluster, a key-value store with SQL capabilities.
 - [dobby](https://github.com/ly0va/dobby) - Homemade table-oriented (but not really relational) database engine with a modular design.
 - [NucliaDB](https://github.com/nuclia/nucliadb) - Cloud-native database for unstructured data, indexing vectors, text, paragraphs and relations.
+- [PhotonDB](https://github.com/photondb/photondb) - Storage engine for modern hardware, built from scratch in Rust.
 
 ## Tools
 
@@ -703,3 +704,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Low-Latency Distributed Data Strategies at P99 CONF: SQL, NoSQL & Event Streaming (2022)](https://www.scylladb.com/2022/10/07/low-latency-distributed-data-strategies-at-p99-conf-sql-nosql-event-streaming/)
 - [A Database Without Dynamic Memory Allocation (2022)](https://tigerbeetle.com/blog/a-database-without-dynamic-memory/) ([HN](https://news.ycombinator.com/item?id=33192288))
 - [Real-World Engineering Challenges: Migrations (2022)](https://newsletter.pragmaticengineer.com/p/real-world-engineering-challenges) ([HN](https://news.ycombinator.com/item?id=33232580))
+- [The B-Tree, LSM-Tree, and the Bw-Tree in Between (2022)](https://photondb.io/2022/08/15/bw-tree.html)

@@ -50,3 +50,4 @@ title: Dart
 - [gRPC Dart](https://github.com/grpc/grpc-dart) - Dart language implementation of gRPC.
 - [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) - Fast, minimalistic backend framework for Dart.
 - [Dotlin](https://github.com/dotlin-org/dotlin) - Kotlin to Dart compiler.
+- [dart_eval](https://github.com/ethanblake4/dart_eval) - Extensible Dart interpreter for Dart with full interop.
