@@ -99,3 +99,4 @@ title: Synthesizers
 - [Live Coding Singing Synthesizer](https://github.com/mathigatti/RealTimeSingingSynthesizer)
 - [ZiggySynth](https://github.com/sinshu/ziggysynth) - SoundFont MIDI synthesizer written in pure Zig.
 - ["The Social Network" synth sounds (2022)](https://reverbmachine.com/blog/trent-reznor-social-network-synth-sounds/) ([HN](https://news.ycombinator.com/item?id=33220238))
+- [MiniFreak](https://www.arturia.com/products/hardware-synths/minifreak/details) - Spontaneous algorithmic synthesizer.
