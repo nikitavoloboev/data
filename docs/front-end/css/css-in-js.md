@@ -1,6 +1,6 @@
 # CSS in JS
 
-[UnoCSS](https://github.com/unocss/unocss) & [macaron](https://github.com/Mokshit06/macaron) are nice.
+[UnoCSS](https://github.com/unocss/unocss) & [macaron](https://github.com/Mokshit06/macaron) are nice. I personally prefer using [Vanilla Extract](https://vanilla-extract.style/).
 
 ## Links
 
@@ -61,3 +61,4 @@
 - [CSS(SCSS/SASS) to vanilla-extract](https://css-to-vanilla-extract.netlify.app/) - Generate vanilla-extract typescript file from the CSS (SCSS/SASS) file.
 - [Airbnb's Trip to Linaria (2022)](https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12)
 - [CSS Out JS](https://github.com/siddharthkp/css-out-js) - Author styles collocated in JS, pull them out into static CSS on build. No runtime dependency.
+- [Why We're Breaking Up with CSS-in-JS (2022)](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b) ([Tweet](https://twitter.com/markdalgleish/status/1582908496441331713))

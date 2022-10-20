@@ -223,7 +223,7 @@
 - [Build→It](https://github.com/AjayBrahmakshatriya/buildit) - Type based library framework for multi-stage imperative programming. ([Web](https://build-it.intimeand.space/))
 - [FLANN](https://github.com/mariusmuja/flann) - Fast Library for Approximate Nearest Neighbors.
 - [TVLLib](https://github.com/MorphStore/TVLLib) - Template Vector Library.
-- [Ceres Solver](https://github.com/ceres-solver/ceres-solver) - Open source C++ library for modeling and solving large, complicated optimization problems. ([Docs](http://ceres-solver.org/))
+- [Ceres Solver](https://github.com/ceres-solver/ceres-solver) - Open source C++ library for modeling and solving large, complicated optimization problems. ([Docs](http://ceres-solver.org/)) ([HN](https://news.ycombinator.com/item?id=33270268))
 - [sdbus-c++](https://github.com/Kistler-Group/sdbus-cpp) - High-level C++ D-Bus library for Linux designed to provide expressive, easy-to-use API in modern C++.
 - [DGtal](https://github.com/DGtal-team/DGtal) - Digital Geometry Tools and Algorithm Library. ([Web](https://dgtal.org/))
 - [libpy](https://github.com/quantopian/libpy) - Library to help you write amazing Python extensions in C++.
