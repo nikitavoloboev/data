@@ -6,6 +6,7 @@ title: Android
 
 ## Nice OSS iOS Android apps
 
+- [Pocket Casts Android app](https://github.com/Automattic/pocket-casts-android)
 - [ViMusic](https://github.com/vfsfitvnm/ViMusic) - Android application for streaming music from YouTube Music.
 - [Now in Android](https://github.com/android/nowinandroid) - Fully functional Android app built entirely with Kotlin and Jetpack Compose.
 - [Alkaa](https://github.com/igorescodro/alkaa) - Open-source app to manage your tasks quickly and easily.

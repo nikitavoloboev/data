@@ -166,3 +166,4 @@ title: Erlang
 - [N2O](https://github.com/synrc/n2o) - Embeddable message protocol loop library for WebSocket, HTTP, MQTT and TCP servers.
 - [epgsql](https://github.com/epgsql/epgsql) - Erlang PostgreSQL client library.
 - [eqWAlizer](https://github.com/WhatsApp/eqwalizer) - Type-checker for Erlang. ([HN](https://news.ycombinator.com/item?id=32330284))
+- [Tree-sitter Grammar for Erlang](https://github.com/AbstractMachinesLab/tree-sitter-erlang)

@@ -102,3 +102,4 @@ title: Vulkan API
 - [vuk](https://github.com/martty/vuk) - Rendergraph-based abstraction for Vulkan.
 - [Vulkan Render-Queues and how they Sync (2022)](https://poniesandlight.co.uk/reflect/island_rendergraph_2/)
 - [Vulkanizer](https://github.com/milkru/vulkanizer) - Advanced Vulkan rendering engine prototype.
+- [A look at Vulkan extensions in Venus (2022)](https://www.collabora.com/news-and-blog/blog/2022/10/19/a-look-at-vulkan-extensions-in-venus/)

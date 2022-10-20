@@ -440,5 +440,5 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Simplified Piet interpreter written in Python](https://codegolf.stackexchange.com/questions/246224/simplified-piet-interpreter/246281#246281)
 - [Why is it hard to learn another programming language? (2022)](https://austinhenley.com/blog/learnanotherpl.html) ([Lobsters](https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming))
 - [When to Use Memory Safe Languages (2022)](https://verdagon.dev/blog/when-to-use-memory-safe-part-1) ([Lobsters](https://lobste.rs/s/strz2g/when_use_memory_safe_languages))
-- ["Stop Writing Dead Programs" by Jack Rusher (Strange Loop 2022)](https://www.youtube.com/watch?v=8Ab3ArE8W3s) ([HN](https://news.ycombinator.com/item?id=33251799))
+- ["Stop Writing Dead Programs" by Jack Rusher (Strange Loop 2022)](https://www.youtube.com/watch?v=8Ab3ArE8W3s) ([HN](https://news.ycombinator.com/item?id=33251799)) ([HN](https://news.ycombinator.com/item?id=33270235)) ([Lobsters](https://lobste.rs/s/exmdxa/stop_writing_dead_programs))
 - [Syntax Design](https://cs.lmu.edu/~ray/notes/syntaxdesign/) ([HN](https://news.ycombinator.com/item?id=33247115)) ([Lobsters](https://lobste.rs/s/4n0kz8/syntax_design))

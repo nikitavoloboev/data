@@ -431,3 +431,5 @@
 - [Ableton Note](https://www.ableton.com/en/note/) - iOS app for forming new musical ideas. ([Video](https://www.youtube.com/watch?v=smJZcWwJsOw)) ([HN](https://news.ycombinator.com/item?id=33244819))
 - [The sound illusion that makes Dunkirk so intense (2017)](https://www.youtube.com/watch?v=LVWTQcZbLgY)
 - [Bitwig](https://www.bitwig.com/) - Digital audio workstation (DAW) and music production software. ([Twitter](https://twitter.com/Bitwig))
+- [Multi-instrument Music Synthesis with Spectrogram Diffusion (2022)](https://arxiv.org/abs/2206.05408) ([Code](https://github.com/magenta/music-spectrogram-diffusion))
+- [Beat Transformer: Demixed Beat and Downbeat Tracking with Dilated Self-Attention (2022)](https://arxiv.org/abs/2209.07140) ([Code](https://github.com/zhaojw1998/Beat-Transformer))

@@ -63,3 +63,4 @@ title: Smalltalk
 - [Unix, Plan 9 and the Lurking Smalltalk](https://www.humprog.org/~stephen/research/papers/kell19unix-personal.pdf)
 - ["Liberating the Smalltalk lurking in C and Unix" by Stephen Kell (2014)](https://www.youtube.com/watch?v=LwicN2u6Dro)
 - [A Little Smalltalk (Timothy Budd) (1987)](https://archive.org/details/ALittleSmalltalkBook) ([HN](https://news.ycombinator.com/item?id=33179414))
+- [Cuis Smalltalk](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev)

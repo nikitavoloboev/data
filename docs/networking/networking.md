@@ -1,6 +1,6 @@
 # Networking
 
-This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.html) is great intro.
+This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.html) is great intro. [Computer Networks: A Systems Approach](https://book.systemsapproach.org/) is great for in depth study.
 
 ## Notes
 
@@ -534,3 +534,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Country IP Blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.
 - [WiGLE: Wireless Network Mapping](https://www.wigle.net/) ([HN](https://news.ycombinator.com/item?id=33209163))
 - [How to hide your IP address (2022)](https://educatedguesswork.org/posts/traffic-relaying/)
+- [CloudFront vs. Cloudflare, and how to reduce response times for both by ~35%+ (2022)](https://www.foxy.io/blog/cloudfront-vs-cloudflare-and-how-to-reduce-response-times-for-both-by-35/) ([HN](https://news.ycombinator.com/item?id=33275500))

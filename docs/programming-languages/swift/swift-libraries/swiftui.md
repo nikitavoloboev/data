@@ -258,3 +258,4 @@ title: SwiftUI
 - [Using the dismiss action from the SwiftUI environment (2022)](https://nilcoalescing.com/blog/UsingTheDismissActionFromTheSwiftUIEnvironment/)
 - [Apple’s use of Swift and SwiftUI in iOS 16 (2022)](https://blog.timac.org/2022/1005-state-of-swift-and-swiftui-ios16/) ([HN](https://news.ycombinator.com/item?id=33126223))
 - [Embracing Core Data In Swiftui (2022)](https://azamsharp.com/2022/10/11/embracing-core-data-in-swiftui.html)
+- [SwiftUI PropertyWrapper Talk](https://github.com/donnywals/SwiftUIPropertyWrapperTalk)

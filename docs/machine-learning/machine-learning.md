@@ -954,3 +954,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Efficient and Scalable Parallel Functional Programming Through Disentanglement (2022)](https://www.youtube.com/watch?v=IMPF-Vz1YqI) ([Tweet](https://twitter.com/shwestrick/status/1580571734218264577))
 - [What's New In Machine Learning? (2022)](https://www.youtube.com/watch?v=QgpzNWMawU4)
 - [Shervine Amidi's ML Cheat Sheets](https://stanford.edu/~shervine/teaching/)
+- [Complete Machine Learning Package](https://github.com/Nyandwi/machine_learning_complete) - Comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.

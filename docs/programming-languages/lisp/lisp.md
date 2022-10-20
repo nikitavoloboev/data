@@ -214,3 +214,4 @@
 - [Mini Lisp with mark-sweep GC](https://github.com/Robert-van-Engelen/lisp)
 - [Zero Feet: a proposal for a systems-free Lisp](https://applied-langua.ge/posts/zero-feet.html)
 - [They Called It LISP for a Reason: List Processing (2005)](https://gigamonkeys.com/book/they-called-it-lisp-for-a-reason-list-processing.html) ([HN](https://news.ycombinator.com/item?id=33162318))
+- [Text Generation LispE with a Grammar](https://github.com/naver/lispe/wiki/6.14-Text-Generation-LispE-with-a-Grammar)

@@ -242,6 +242,7 @@
 - [fourTheorem](https://www.fourtheorem.com/)
 - [Ubik](https://ubik.sh/)
 - [Charlie Tango](https://www.charlietango.dk/) ([GitHub](https://github.com/charlie-tango))
+- [Collabora](https://www.collabora.com/) - Open Source Software Consulting.
 
 ## Notes
 

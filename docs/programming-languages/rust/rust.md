@@ -918,3 +918,4 @@ title: Rust
 - [Building a modern web app with Rust, Bazel, Yew and Axum (2022)](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust)
 - [Concurrency programming via Rust Book](https://github.com/smallnest/concurrency-programming-via-rust)
 - [Why Rust? (2022)](https://www.rerun.io/blog/why-rust) ([HN](https://news.ycombinator.com/item?id=33244756)) ([Reddit](https://www.reddit.com/r/rust/comments/y71s57/why_rust/))
+- [Rust vs Go (2022)](https://www.reddit.com/r/rust/comments/y8dhxk/rust_vs_go/)

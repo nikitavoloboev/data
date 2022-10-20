@@ -98,3 +98,4 @@ title: Blender
 - [nAncient Temple Scene Breakdown - Blender Tutorial (2022)](https://www.youtube.com/watch?v=dluRMWOiawo)
 - [Blender x NeRF](https://github.com/maximeraafat/BlenderNeRF) - User friendly Blender add-on for NeRF synthetic dataset creation.
 - [Stable Diffusion in Blender](https://github.com/benrugg/AI-Render)
+- [Ask HN: Recommend me a Blender course (2022)](https://news.ycombinator.com/item?id=33273022)

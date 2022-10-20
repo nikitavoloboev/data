@@ -1277,6 +1277,7 @@
 - [DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS & macOS in Swift. Native SwiftUI & UIKit views.
 - [QRCode](https://github.com/dmrschmidt/QRCode) - QR Code Generator in Swift.
 - [CalendarKit](https://github.com/richardtop/CalendarKit) - Swift calendar UI library for iOS and Mac Catalyst.
+- [SundialKit](https://github.com/brightdigit/SundialKit) - Reactive communications library across Apple platforms.
 
 ## Other (not lib)
 

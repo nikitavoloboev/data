@@ -463,3 +463,4 @@ title: Haskell
 - [State of GHC (2022)](https://www.youtube.com/watch?v=gJSTSkI0Uj8)
 - [Haskell Playground (2022)](https://www.youtube.com/watch?v=UFZeRgqZs7E)
 - [Interview with Simon Peyton Jones (2022)](https://haskell.foundation/podcast/11/)
+- [What does "isomorphic" mean (in Haskell)? (2022)](https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html)

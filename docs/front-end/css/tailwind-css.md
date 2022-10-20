@@ -165,3 +165,4 @@ title: Tailwind CSS
 - [Tailwind Components - Responsive Cards](https://tailwind-cards.netlify.app/) ([Code](https://github.com/hasinhayder/tailwind-cards))
 - [Impulse](https://impulse.dev/) - Impossible Dev Tools for React and Tailwind. ([Code](https://github.com/impulse-oss/impulse))
 - [Example Showcase - Tailwind CSS](https://tailwindcss.com/showcase)
+- [Preline UI](https://preline.co/) - Open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. ([Code](https://github.com/htmlstreamofficial/preline))

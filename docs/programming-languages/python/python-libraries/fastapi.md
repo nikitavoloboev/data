@@ -37,3 +37,4 @@ title: FastAPI
 - [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) ([Reddit](https://www.reddit.com/r/Python/comments/wrt7om/fastapi_best_practices/))
 - [FastAPI Pagination](https://github.com/uriyyo/fastapi-pagination)
 - [FastAPI Layered Architecture](https://github.com/teamhide/fastapi-layered-architecture)
+- [FastAPI Railway API template](https://github.com/simonw/railway-fastapi-demo)

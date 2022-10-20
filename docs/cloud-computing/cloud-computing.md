@@ -135,4 +135,4 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [FogROS2](https://github.com/BerkeleyAutomation/FogROS2) - Extends ROS 2 for cloud deployment of computational graphs in a security-conscious manner.
 - [Ask HN: So you moved off Heroku, where did you go? (2022)](https://news.ycombinator.com/item?id=33077118)
 - [Cloud services like AWS or Google Cloud Platform may be the wrong choice (2022)](https://www.karlsutt.com/articles/you-should-not-be-using-aws/) ([HN](https://news.ycombinator.com/item?id=33202453)) ([Lobsters](https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably))
-- [Why we're leaving the cloud (2022)](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0) ([HN](https://news.ycombinator.com/item?id=33260061))
+- [Why we're leaving the cloud (2022)](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0) ([HN](https://news.ycombinator.com/item?id=33260061)) ([Lobsters](https://lobste.rs/s/9b0y0f/why_we_re_leaving_cloud))

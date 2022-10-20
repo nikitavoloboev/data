@@ -669,3 +669,4 @@
 - [Binding Language Models in Symbolic Languages (2022)](https://arxiv.org/abs/2210.02875) ([Code](https://github.com/HKUNLP/Binder))
 - [ML and text manipulation tools (2022)](https://twitter.com/yoheinakajima/status/1581070083115581440)
 - [Table-To-Text generation and pre-training with TabT5 (2022)](https://arxiv.org/abs/2210.09162)
+- [concepCy](https://github.com/JulesBelveze/concepcy) - SpaCy wrapper for ConceptNet.

@@ -149,3 +149,4 @@ title: Formal verification
 - [ViperServer](https://github.com/viperproject/viperserver) - HTTP server that manages verification requests to different tools from the Viper tool stack.
 - [Verifying distributed systems with Isabelle/HOL (2022)](https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html) ([HN](https://news.ycombinator.com/item?id=33177980))
 - ["Formal Modeling and Analysis of Distributed Systems" by Ankush Desai (2022)](https://www.youtube.com/watch?v=5YjsSDDWFDY)
+- [Keynote: Formal Methods at Microsoft - Nikolaj Bjørner (2022)](https://www.youtube.com/watch?v=GEsvGGp0jyQ)

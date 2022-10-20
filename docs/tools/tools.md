@@ -125,6 +125,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Diagram generation tool](https://www.diagram.codes/) ([HN](https://news.ycombinator.com/item?id=21615978))
 - [Circle](https://circle.so/) - Modern community platform for creators.
 - [Nodebook](https://github.com/netgusto/nodebook) - Multi-Lang Web REPL + CLI Code runner.
+- [Whisper Memos](https://whispermemos.com/) - Record voice memo, receive transcription in email. ([HN](https://news.ycombinator.com/item?id=33274661))
 - [Remotion](https://www.remotion.com/) - Virtual Office For Hybrid Teams.
 - [Avatars](https://www.avatars.io/) - Every app needs an avatar. We make it hassle free.
 - [Rize](https://rize.io/) - Intelligent time tracker that improves your focus.

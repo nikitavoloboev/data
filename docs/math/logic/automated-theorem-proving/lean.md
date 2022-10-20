@@ -117,3 +117,4 @@ title: Lean
 - [Formal BOOK](https://github.com/mo271/formal_book) - Collaborative, work-in-progress attempt to formalize Proofs from THE BOOK using Lean.
 - [Collections for Lean 4](https://github.com/JamesGallicchio/LeanColls)
 - [Proofs written in Lean4 for the core katydid validation algorithm](https://github.com/katydid/proofs)
+- [Theorem Proving in Lean 4](https://github.com/leanprover/theorem_proving_in_lean4)

@@ -618,3 +618,5 @@ title: Linux
 - [Building a high-performance database buffer pool in Zig using io_uring's new fixed-buffer mode (2022)](https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig) ([HN](https://news.ycombinator.com/item?id=33218185))
 - [Tracing the Linux kernel with Retsnoop (2022)](https://nakryiko.com/posts/retsnoop-intro/) ([HN](https://news.ycombinator.com/item?id=33213139))
 - [On Bypassing eBPF Security Monitoring (2022)](https://blog.doyensec.com/2022/10/11/ebpf-bypass-security-monitoring.html) ([HN](https://news.ycombinator.com/item?id=33235434))
+- [Why Linux Troubleshooting Advice Sucks (2022)](https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html) ([Lobsters](https://lobste.rs/s/k4cbht/why_linux_troubleshooting_advice_sucks))
+- [The feasibility of pledge() on Linux (2022)](https://blog.gnoack.org/post/pledge-on-linux/) ([Lobsters](https://lobste.rs/s/gts52d/feasibility_pledge_on_linux))

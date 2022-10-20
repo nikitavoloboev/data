@@ -78,3 +78,5 @@ title: JAX
 - [Orbax](https://github.com/google/orbax) - Library providing common utilities for JAX users.
 - [Praxis](https://github.com/google/praxis) - Layer library for Pax. While Praxis is optimized for ML at scale, Praxis has a goal to be usable by other JAX-based ML projects.
 - [JAX in Action (2022)](https://www.manning.com/books/jax-in-action)
+- [DeepMind JAX Ecosystem](https://github.com/deepmind/jax)
+- [JAX Tutorial](https://github.com/pierreglaser/jax-tutorial)

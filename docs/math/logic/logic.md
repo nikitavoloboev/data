@@ -93,3 +93,4 @@
 - [Selected Papers of Dana S. Scott](https://github.com/CMU-HoTT/scott)
 - [Explanation-Gödel and Plausibility-Gödel](https://scottaaronson.blog/?p=6754) ([HN](https://news.ycombinator.com/item?id=33185482))
 - [Gödel’s first incompleteness theorem – an interactive tutorial](https://tigyog.app/d/H7XOvXvC_x/r/goedel-s-first-incompleteness-theorem) ([HN](https://news.ycombinator.com/item?id=33236447))
+- [W-types in setoids (2018)](https://arxiv.org/abs/1809.02375) ([Code](https://github.com/j-emmen/W-types-in-setoids))

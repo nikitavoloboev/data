@@ -395,3 +395,4 @@ title: Reinforcement learning
 - [Reinforcement Learning Benchmarks for Traffic Signal Control](https://github.com/Pi-Star-Lab/RESCO)
 - [Discovering novel algorithms with AlphaTensor (2022)](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor)
 - [Hyperbolic Deep Reinforcement Learning (2022)](https://arxiv.org/abs/2210.01542) ([Code](https://github.com/twitter-research/hyperbolic-rl))
+- [Distributed training of language models with Reinforcement Learning via Human Feedback](https://github.com/CarperAI/trlx)

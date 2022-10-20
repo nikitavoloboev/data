@@ -589,3 +589,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [PostgreSQL 15](https://www.postgresql.org/about/news/postgresql-15-released-2526/) ([HN](https://news.ycombinator.com/item?id=33190456))
 - [Postgres Full Text Search vs. the Rest (2022)](https://supabase.com/blog/postgres-full-text-search-vs-the-rest) ([HN](https://news.ycombinator.com/item?id=33203370))
 - [Postgres 15 Merge Command with Examples (2022)](https://www.crunchydata.com/blog/a-look-at-postgres-15-merge-command-with-examples) ([HN](https://news.ycombinator.com/item?id=33236780))
+- [PostgresML is 8-40x faster than Python HTTP microservices (2022)](https://postgresml.org/blog/postgresml-is-8x-faster-than-python-http-microservices/) ([HN](https://news.ycombinator.com/item?id=33269615))

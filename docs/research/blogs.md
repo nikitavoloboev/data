@@ -184,6 +184,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Andrew Helwer](https://ahelwer.ca/post/)
 - [Ollin Boer Bohan](https://madebyoll.in/)
 - [Matt Strassler](https://profmattstrassler.com/)
+- [Austin Z. Henley](https://austinhenley.com/blog.html)
 
 ## Notes
 

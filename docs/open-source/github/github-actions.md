@@ -264,6 +264,7 @@ title: GitHub actions
 - [tagpr](https://github.com/Songmu/tagpr) - Automatically creates and updates a pull request for unreleased items, tag them when they are merged, and create releases.
 - [Vault Plugin Secrets](https://github.com/martinbaillie/vault-plugin-secrets-github) - Create ephemeral, finely-scoped GitHub access tokens using Hashicorp Vault.
 - [Release GitHub Actions](https://github.com/technote-space/release-github-actions) - Automate the release of GitHub Actions.
+- [Validate JSON or YAML against a schema](https://github.com/cardinalby/schema-validator-action)
 
 ## Go
 

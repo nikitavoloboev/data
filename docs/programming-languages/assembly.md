@@ -105,3 +105,4 @@ title: Assembly
 - [Stack frame layout on x86-64 (2022)](https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64)
 - [Apple AMX instruction set (M1/M2 matrix coprocessor)](https://github.com/corsix/amx) ([HN](https://news.ycombinator.com/item?id=32722510))
 - [Stratified Synthesis: Automatically Learning the x86-64 Instruction Set (2016)](https://cs.stanford.edu/people/eschkufz/docs/pldi_16.pdf)
+- [Contrasting Intel AMX and Apple AMX (2022)](http://www.corsix.org/content/contrasting-intel-amx-and-apple-amx)

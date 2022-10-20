@@ -81,3 +81,4 @@
 - [A Simple Baseline for BEV Perception Without LiDAR (2022)](https://arxiv.org/abs/2206.07959) ([Code](https://github.com/aharley/simple_bev))
 - [Visual Navigation for Autonomous Vehicles (VNAV) MIT Course (2022)](https://ocw.mit.edu/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/) ([Code](https://github.com/MIT-SPARK/VNAV-labs))
 - [Tesla Vision Update: Replacing Ultrasonic Sensors with Tesla Vision (2022)](https://www.tesla.com/support/transitioning-tesla-vision) ([HN](https://news.ycombinator.com/item?id=33086768))
+- [Towards End-to-End Lane Detection: an Instance Segmentation Approach (2022)](https://arxiv.org/abs/1802.05591) ([Code](https://github.com/MaybeShewill-CV/lanenet-lane-detection))

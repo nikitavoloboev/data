@@ -72,3 +72,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Experimental post-quantum safe VPN tunnels (2022)](https://mullvad.net/en/blog/2022/6/27/experimental-post-quantum-safe-vpn-tunnels/)
 - [Gluetun VPN client](https://github.com/qdm12/gluetun) - Lightweight swiss-knife-like VPN client to multiple VPN service providers.
 - [Pritunl](https://github.com/pritunl/pritunl) - Distributed enterprise vpn server built using the OpenVPN protocol.
+- [The M247/DataPacket Problem with Mullvad VPN (2022)](https://worldofmatthew.com/technology/mullvad-m247/) ([HN](https://news.ycombinator.com/item?id=33274031))

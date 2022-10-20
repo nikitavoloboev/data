@@ -145,3 +145,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [The 35 Best Sci-Fi Movies Of All Time, Ranked (2022)](https://www.cinemablend.com/news/1639139/30-best-sci-fi-movies-of-all-time) ([Reddit](https://www.reddit.com/r/scifi/comments/y40elx/the_35_best_scifi_movies_of_all_time_ranked/))
 - [Letterboxd's Top 250 Horror Films](https://letterboxd.com/darrencb/list/letterboxds-top-250-horror-films/) ([Tweet](https://twitter.com/letterboxd/status/1582178371169308674))
 - [Your top 3 favorite movies of all time](https://www.reddit.com/r/MovieSuggestions/comments/y7e4c3/your_top_3_favorite_movies_of_all_time_go/)
+- [Movies that entirely f\*ck your brain in the end (2022)](https://www.reddit.com/r/MovieSuggestions/comments/y8b2bc/movies_that_entirely_fck_your_brain_in_the_end/)

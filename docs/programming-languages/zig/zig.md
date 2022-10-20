@@ -148,3 +148,4 @@ title: Zig
 - [What Makes the Zig Programming Language Unique? (2022)](https://erikexplores.substack.com/p/what-makes-the-zig-programming-language) ([HN](https://news.ycombinator.com/item?id=33103267))
 - [Zig-style generics are not well-suited for most languages (2022)](https://typesanitizer.com/blog/zig-generics.html) ([Tweet](https://twitter.com/typesanitizer/status/1578992328638754816)) ([HN](https://news.ycombinator.com/item?id=33142751)) ([Lobsters](https://lobste.rs/s/jktewn/zig_style_generics_are_not_well_suited_for))
 - [List of Zig Gamedev Projects](https://github.com/hexops/awesome-zig-gamedev)
+- [That Time I Tried Porting Zig to SerenityOS (2022)](https://sin-ack.github.io/posts/sycl-talk-20221007/) ([Lobsters](https://lobste.rs/s/zon0fi/time_i_tried_porting_zig_serenityos))

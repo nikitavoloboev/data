@@ -969,3 +969,5 @@
 - [End2End Occluded Face Recognition by Masking Corrupted Features (2022)](https://arxiv.org/abs/2108.09468) ([Code](https://github.com/haibo-qiu/FROM))
 - [Paint Transformer: Feed Forward Neural Painting with Stroke Prediction (2021)](https://arxiv.org/abs/2108.03798) ([Code](https://github.com/Huage001/PaintTransformer))
 - [Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance (2022)](https://arxiv.org/abs/2210.05559) ([Code](https://github.com/ChenWu98/cycle-diffusion))
+- [Adaptive Token Sampling For Efficient Vision Transformers (2022)](https://arxiv.org/abs/2111.15667) ([Code](https://github.com/adaptivetokensampling/ATS))
+- [Understanding Pure CLIP Guidance for Voxel Grid NeRF Models (2022)](https://arxiv.org/abs/2209.15172) ([Code](https://github.com/hanhung/PureCLIPNeRF))

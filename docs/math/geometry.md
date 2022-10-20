@@ -72,3 +72,4 @@
 - [Perspective-n-Point: P3P (2021)](https://jingnanshi.com/blog/pnp_minimal.html)
 - [Panorama: How? (2021)](https://jingnanshi.com/blog/rotational_panorama.html)
 - [Illuminating Hyperbolic Geometry (2015)](https://www.youtube.com/watch?v=eGEQ_UuQtYs) ([HN](https://news.ycombinator.com/item?id=33128972))
+- [Non-Euclidean geometry and games (2019)](https://zenorogue.scribe.rip/non-euclidean-geometry-and-games-fb46989320d4)

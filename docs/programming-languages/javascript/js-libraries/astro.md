@@ -61,3 +61,4 @@ title: Astro
 - [Simple Blog Astro Template](https://littlesticks.dev/templates/simple-blog/)
 - [astroSpeed](https://github.com/oslabs-beta/astrospeed) - Performance monitor for Astro & Next.js web applications.
 - [Astro SPA with Solid Router](https://github.com/bholmesdev/is-even) ([Tweet](https://twitter.com/BHolmesDev/status/1582726860646993920))
+- [Astro + MiniSearch](https://github.com/Barnabas/astro-minisearch)

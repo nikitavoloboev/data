@@ -130,3 +130,4 @@ title: gRPC
 - [gRPC Gateway Boilerplate](https://github.com/johanbrandhorst/grpc-gateway-boilerplate) - All the boilerplate you need to get started with writing grpc-gateway powered REST services in Go.
 - [Effective gRPC (2018)](https://john-millikin.com/effective-grpc)
 - [Filtering gRPC Messages using Envoy](https://github.com/salrashid123/envoy_grpc_decode)
+- [protoc-gen-grpc-gateway-ts](https://github.com/grpc-ecosystem/protoc-gen-grpc-gateway-ts) - TypeScript client generator for the grpc-gateway project.
