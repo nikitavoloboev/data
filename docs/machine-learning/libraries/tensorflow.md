@@ -122,3 +122,4 @@ title: TensorFlow
 - [What’s New in TensorFlow 2.10? (2022)](https://blog.tensorflow.org/2022/09/whats-new-in-tensorflow-210.html) ([HN](https://news.ycombinator.com/item?id=32741349))
 - [Monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System.
 - [Use GPU with TensorFlow on M1 macs (2022)](https://twitter.com/svpino/status/1578354467572838402)
+- [Building the Future of TensorFlow (2022)](https://blog.tensorflow.org/2022/10/building-the-future-of-tensorflow.html) ([HN](https://news.ycombinator.com/item?id=33286281))

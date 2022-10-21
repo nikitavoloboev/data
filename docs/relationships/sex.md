@@ -128,3 +128,4 @@
 - [This startup wants to reimagine egg donation](https://www.fastcompany.com/90795078/this-startup-wants-to-reimagine-egg-donation) ([Tweet](https://twitter.com/halletecco/status/1582744229721145344))
 - [How in vitro fertilization (IVF) works](https://www.youtube.com/watch?v=P27waC05Hdk)
 - [Vasectomy Reversal vs Frozen - Feedback](https://www.reddit.com/r/Vasectomy/comments/xqe6lh/vasectomy_reversal_vs_frozen_feedback/)
+- [Ideas on foreplay hours before sex](https://www.reddit.com/r/sexover30/comments/y89snd/ideas_on_foreplay_hours_before_sex/)

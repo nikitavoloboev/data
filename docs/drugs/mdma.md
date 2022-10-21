@@ -39,3 +39,4 @@ title: MDMA
 - [How to run an "acetone wash" on MDMA to remove caffeine, leftover precursors and some other impurities](https://www.reddit.com/r/Borax/comments/pxccet/how_to_run_an_acetone_wash_on_mdma_to_remove/)
 - [Making MDMA from scratch](https://www.reddit.com/r/Borax/comments/r738jn/making_mdma_from_scratch/)
 - [Current understanding of 5-MAPB toxicity and harm reduction strategies](https://www.reddit.com/r/Borax/comments/s9e1ma/current_understanding_of_5mapb_toxicity_and_harm/)
+- [M&M Clips: Is MDMA Neurotoxic?](https://www.youtube.com/watch?v=8JZ0Q0kjyDw)

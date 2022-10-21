@@ -1034,6 +1034,7 @@
 - [Day.js](https://github.com/iamkun/dayjs) - Fast 2kB alternative to Moment.js with the same modern API. ([Web](https://day.js.org/)) ([HN](https://news.ycombinator.com/item?id=33138050))
 - [Shaka Player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player.
 - [js-sha1](https://github.com/emn178/js-sha1) - Simple SHA1 hash function for JavaScript supports UTF-8 encoding.
+- [mustache.js](https://github.com/janl/mustache.js) - Zero-dependency implementation of the mustache template system in JavaScript.
 
 ## Links
 

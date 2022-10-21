@@ -60,3 +60,4 @@
 - [DeckUI](https://github.com/joshdholtz/DeckUI) - Swift DSL for writing slide decks in Xcode.
 - [Reveal.js + Svelte + Vite](https://github.com/rajasegar/svelte-slides)
 - [SlideKit](https://github.com/mtj0928/SlideKit) - Library which helps you make presentation slides by SwiftUI.
+- [Svelte Slides](https://github.com/AlexandreKempf/svelte-slides)

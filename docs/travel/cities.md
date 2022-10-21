@@ -58,3 +58,4 @@
 - [The most livable cities (2022)](https://www.economist.com/graphic-detail/2022/06/22/the-worlds-most-liveable-cities) ([HN](https://news.ycombinator.com/item?id=31873404))
 - [What do I think about network states? (2022)](https://vitalik.ca/general/2022/07/13/networkstates.html) ([Tweet](https://twitter.com/VitalikButerin/status/1547104064781127680)) ([HN](https://news.ycombinator.com/item?id=32105037))
 - [Ask HN: Where should I move to meet interesting tech people? (2022)](https://news.ycombinator.com/item?id=32377084)
+- [Barcelona-style “superblocks” could make cities greener and less car-centric (2022)](https://www.anthropocenemagazine.org/2022/03/barceolona-style-superblocks-a-surprising-number-of-cities-greener/) ([HN](https://news.ycombinator.com/item?id=33279811))

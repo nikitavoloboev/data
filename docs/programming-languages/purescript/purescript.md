@@ -64,3 +64,5 @@ title: PureScript
 - [PureScript-Elmish](https://github.com/collegevine/purescript-elmish) - PureScript implementation of The Elm Architecture.
 - [PureScript-tsd-gen](https://github.com/minoki/purescript-tsd-gen) - TypeScript Declaration File (.d.ts) generator for PureScript.
 - [PureScript Registry](https://github.com/purescript/registry) - Stores PureScript packages (and metadata about them).
+- [PureScript QuickCheck](https://github.com/purescript/purescript-quickcheck)
+- [PureScript Easy FFI](https://github.com/pelotom/purescript-easy-ffi)

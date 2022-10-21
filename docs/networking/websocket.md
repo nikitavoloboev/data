@@ -116,3 +116,4 @@ title: WebSocket
 - [recws](https://github.com/recws-org/recws) - Reconnecting WebSocket is a websocket client based on gorilla/websocket that will automatically reconnect if the connection is dropped and keeps the connection alive - thread safe.
 - [Goomerang](https://github.com/eloylp/goomerang) - Protocol buffers over WebSocket communications library.
 - [wschannel](https://github.com/creachadair/wschannel) - Implementation of the jrpc2 Channel over WebSocket.
+- [WebSocket close codes](https://github.com/Luka967/websocket-close-codes) - Table of predefined WebSocket close codes/ranges.

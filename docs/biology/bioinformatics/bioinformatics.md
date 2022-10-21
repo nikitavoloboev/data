@@ -246,3 +246,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking (2022)](https://arxiv.org/abs/2210.01776) ([Code](https://github.com/gcorso/DiffDock))
 - [Allbase](https://github.com/TimothyStiles/allbase) - Database for engineering organisms. Go REST API to replace Genbank, Uniprot, Rhea, and CHEMBL.
 - [MICAN](https://github.com/ShintaroMinami/mican) - Non-sequential structural alignment program for protein structure.
+- [Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures (2022)](https://www.biorxiv.org/content/10.1101/2022.07.10.499510v5.abstract) ([Code](https://github.com/luost26/diffab))

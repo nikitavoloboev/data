@@ -160,6 +160,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Mark](https://github.com/barelyhuman/mark-mac) - macOS native markdown editor.
 - [Wooshy](https://wooshy.app/) - Like Alfred but for the UI. ([Docs](https://github.com/godbout/Wooshy.docs))
 - [Mist](https://github.com/ninxsoft/Mist) - Mac utility that automatically downloads macOS Firmwares / Installers.
+- [CutBox](https://cutbox.github.io/) - Makes your macOS pasteboard awesome. ([Code](https://github.com/cutbox/CutBox))
 
 ## Other interesting apps
 

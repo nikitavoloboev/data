@@ -24,3 +24,4 @@ title: Tailscale
 - [Use NextDNS everywhere you use Tailscale (2022)](https://tailscale.com/blog/nextdns/) ([HN](https://news.ycombinator.com/item?id=33185771))
 - [Taildrop](https://tailscale.com/kb/1106/taildrop/) ([HN](https://news.ycombinator.com/item?id=33186523))
 - [Use Mullvad VPN along with Tailscale](https://github.com/r3nor/mullvad-tailscale)
+- [Headscale-UI](https://github.com/gurucomputing/headscale-ui) - Web frontend for the headscale Tailscale-compatible coordination server.

@@ -860,6 +860,7 @@
 - [dry](https://github.com/coldriverstudio/dry-rs) - Rust macros for idiomatic deduplication of code.
 - [comparable](https://github.com/jwiegley/comparable) - Library for comparing data structures in Rust, oriented toward testing.
 - [Virtue](https://github.com/bincode-org/virtue) - Sinless derive macro helper.
+- [autobox](https://github.com/insanitybit/autobox) - Compile time analysis for runtime sandboxing.
 
 ## Math
 
@@ -2509,3 +2510,4 @@
 - [Documentation of Rust error handling](https://github.com/nrc/error-docs)
 - [Example for Axum style magic function parameter passing](https://github.com/alexpusch/rust-magic-function-params)
 - [How (and why) nextest uses tokio (2022)](https://sunshowers.io/posts/nextest-and-tokio-1/)
+- [Is there a website like Haskell's Hoogle for rust?](https://www.reddit.com/r/rust/comments/y8sbid/is_there_a_website_like_haskells_hoogle_for_rust/)

@@ -76,3 +76,4 @@ title: Elasticsearch
 - [Terraform Provider Elastic Stack](https://github.com/elastic/terraform-provider-elasticstack)
 - [Zinc Search](https://github.com/zinclabs/zinc) - Lightweight alternative to Elasticsearch that requires minimal resources, written in Go. ([Web](https://zincsearch.com/)) ([HN](https://news.ycombinator.com/item?id=32938304))
 - [Stateless – Your new state of find with Elasticsearch (2022)](https://www.elastic.co/blog/stateless-your-new-state-of-find-with-elasticsearch) ([HN](https://news.ycombinator.com/item?id=33117681))
+- [Elasticsearch](https://github.com/danielberkompas/elasticsearch-elixir) - No-nonsense Elasticsearch library for Elixir.

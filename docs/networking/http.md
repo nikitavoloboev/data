@@ -4,9 +4,11 @@ title: HTTP
 
 # [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
-[Caddy](https://caddyserver.com/) is great. [HTTPie](https://github.com/httpie/httpie) & [HTTP Toolkit](https://httptoolkit.tech/) are useful. [HTTP Docs](https://httpwg.org/specs/) has nice overview.
+[HTTP crash course](https://www.reddit.com/r/rust/comments/y9b8us/the_http_crash_course_nobody_asked_for_by/) is great overview.
 
-[Status code summary](https://twitter.com/tlakomy/status/1528499152472129536) ([as cats](https://http.cat/)):
+[Caddy](https://caddyserver.com/) is amazing for self hosting servers. [HTTPie](https://github.com/httpie/httpie) & [HTTP Toolkit](https://httptoolkit.tech/) are useful. [HTTP Docs](https://httpwg.org/specs/) has nice overview.
+
+[Status code summary](https://twitter.com/tlakomy/status/1528499152472129536) ([as cats](https://http.cat/)) is fun summary.
 
 ```
 1xx: hold on
@@ -296,4 +298,6 @@ title: HTTP
 - [Wasabi](https://github.com/matoous/wasabi) - HTTP proxy that support web assembly plugins.
 - [Cache your CORS, for performance & profit](https://httptoolkit.tech/blog/cache-your-cors/)
 - [Webhook Sentry](https://github.com/juggernaut/webhook-sentry) - Proxy that helps you send webhooks to your customers securely.
-- [ Simple HTTP server written from scratch as a teaching tool to teach Unix network program architectures](https://github.com/shuveb/zerohttpd)
+- [Simple HTTP server written from scratch as a teaching tool to teach Unix network program architectures](https://github.com/shuveb/zerohttpd)
+- [The HTTP crash course nobody asked for (2022)](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for) ([Reddit](https://www.reddit.com/r/rust/comments/y9b8us/the_http_crash_course_nobody_asked_for_by/)) ([HN](https://news.ycombinator.com/item?id=33280605))
+- [Restfox](https://restfox.dev/) - Offline-first web HTTP client. ([Code](https://github.com/flawiddsouza/Restfox)) ([HN](https://news.ycombinator.com/item?id=33287137))

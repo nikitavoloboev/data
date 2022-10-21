@@ -2,10 +2,9 @@
 
 Supplements I sometimes take are inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/).
 
-- [Magnesium](https://www.amazon.co.uk/Thorne-Research-Magnesium-Citramate-Vegetarian/dp/B0797SJ88Y) (1 capsule)
-- [Vitamin D3](https://www.amazon.co.uk/Supplement-Absorption-Cholecalciferol-Nu-Nutrition/dp/B01NC3DJK7) (1 capsule)
-- [Vegan Omega 3 DHA & EPA](https://www.amazon.com/VEGAN-OMEGA-Supplement-Cardiovascular-Supplements/dp/B01MYE95BQ) (1 capsule)
-- [Lions Mane](https://oriveda.co.uk/lions-mane.php) (1 capsule)
+- [Vegan Omega 3 DHA & EPA via Algal oil](https://www.uganutraceuticals.com/product/omegor-veg) (3 capsules)
+- [Vitamin D3 + K2](https://www.amazon.com/Bronson-Vitamin-Supplement-Support-Capsules/dp/B0792Z6434) (1 capsule)
+- [Magnesium](https://nootropicsdepot.com/magtein-magnesium-l-threonate-capsules/) (1 capsule)
 
 From these, Magnesium & Vitamin D3 are the more important supplements.
 
@@ -19,6 +18,8 @@ Some maybe interesting supplements I don't take routinely but tried.
 
 - [Multivitamin](https://www.amazon.co.uk/Multivitamins-Multivitamin-Vegetarians-Nu-Nutrition/dp/B01IFGDNVS) (1 capsule)
 - [Sulforaphane](https://www.amazon.co.uk/Jarrow-Formulas-Broccomax-Vcaps-Capsules/dp/B01D15LMCK) (1 capsule)
+- [Vegan Omega 3 DHA & EPA](https://www.amazon.com/VEGAN-OMEGA-Supplement-Cardiovascular-Supplements/dp/B01MYE95BQ) (1 capsule)
+- [Lions Mane](https://oriveda.co.uk/lions-mane.php) (1 capsule)
 
 ## Didn't try but have interesting nutrients
 
@@ -69,3 +70,8 @@ Some maybe interesting supplements I don't take routinely but tried.
 - [Brain Tonic – Multiflora Herbs](https://www.multiflora-herbs.com/products/brain)
 - [Vitality Tonic – Multiflora Herbs](https://www.multiflora-herbs.com/products/vitality-tonic)
 - [Products – Multiflora Herbs](https://www.multiflora-herbs.com/collections/all)
+- [Are fish oil supplements effective?](https://www.reddit.com/r/nutrition/comments/y8ughc/are_fish_oil_supplements_effective_what_are_the/)
+- [U.G.A. Nutraceuticals supplements](https://www.uganutraceuticals.com/products)
+- [Nootropics Depot](https://nootropicsdepot.com/)
+- [Best magnesium supplement](https://www.reddit.com/r/Supplements/comments/v6yqpc/best_magnesium_supplement/)
+- [Best D3 supplement](https://www.reddit.com/r/Supplements/comments/px6a1u/everyone_please_list_which_brand_of_vitamin_d3/)

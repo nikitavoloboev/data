@@ -159,3 +159,4 @@
 - [Capybara](http://teamcapybara.github.io/capybara/) - Acceptance test framework for web applications. ([Code](https://github.com/teamcapybara/capybara)) ([Test Helpers](https://github.com/ElMassimo/capybara-compose))
 - [Running 1000 tests in 1s (2022)](https://marvinh.dev/blog/running-1000-test-in-1s/)
 - [XCheck at Meta: Why it exists and how it works (2022)](https://blog.nindalf.com/posts/xcheck/) ([HN](https://news.ycombinator.com/item?id=33224347))
+- [Brewing Microservices | Property-Based Testing (2022)](https://filibuster.transistor.fm/episodes/property-based-testing)

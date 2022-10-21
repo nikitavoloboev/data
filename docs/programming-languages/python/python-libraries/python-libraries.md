@@ -1013,6 +1013,7 @@
 - [Puff](https://github.com/hansonkd/puff) - Batteries included "deep stack" for Python. Minimize the barrier between Python and Rust.
 - [AwesomeYaml](https://github.com/SamsungLabs/awesomeyaml) - Utility library to help parsing, transforming and querying yaml-based configs.
 - [inflect](https://github.com/jaraco/inflect) - Correctly generate plurals, ordinals, indefinite articles; convert numbers to words.
+- [dank](https://github.com/cramppet/dank) - Deterministic finite automata ranker.
 
 ## Notes
 

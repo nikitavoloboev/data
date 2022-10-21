@@ -390,3 +390,5 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Project Sparrow](https://github.com/AmbiML/sparrow-manifest) - Project to build a low-power secure embeded platform for Ambient ML applications. Target platform leverages RISC-V and OpenTitan.
 - [Announcing KataOS and Sparrow (2022)](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html) ([Lobsters](https://lobste.rs/s/xjriu5/announcing_kataos_sparrow))
 - [Project Sparrow: KataOS](https://github.com/AmbiML/sparrow-kata-full) - Low-power secure embedded platform for Ambient ML applications. ([Reddit](https://www.reddit.com/r/rust/comments/y7mu9l/google_shows_off_kataos_a_secure_operating_system/)) ([Reddit](https://www.reddit.com/r/embedded/comments/y7hgh0/google_announce_secure_rustbased_os_for_embedded/))
+- [Breaking Down the System Layer (2022)](https://synit.org/book/system-layer.html)
+- [Synit](https://synit.org/book/introduction.html) - Applying pervasive reactivity and object capabilities to the System Layer of an operating system for personal computers.

@@ -249,3 +249,4 @@ title: DNS
 - [Let's Encrypt Wildcard Certificates Made Easy with Agnos (2022)](https://ocamlpro.com/blog/2022_10_05_agnos_0.1.0-beta)
 - [Why it's called "MagicDNS" instead of "Magic DNS" (2022)](https://tailscale.com/blog/magicdns-why-name/)
 - [MagicDNS is Generally Available (2022)](https://tailscale.com/blog/magicdns/) ([HN](https://news.ycombinator.com/item?id=33276601))
+- [Automated learning of regexes for DNS discovery](https://github.com/cramppet/regulator)

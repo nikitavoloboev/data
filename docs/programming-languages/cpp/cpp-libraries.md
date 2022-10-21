@@ -439,6 +439,7 @@
 - [cppq](https://github.com/jafarlihi/cppq) - Simple, reliable & efficient distributed task queue for C++17. Backed by Redis.
 - [Coost](https://github.com/idealvin/coost) - Tiny boost library in C++11.
 - [SPU](https://github.com/secretflow/spu) - Secure Processing Unit.
+- [BaSpaCho](https://github.com/facebookresearch/baspacho) - Direct solver for symmetric positive-definite sparse matrices designed for mathematical optimization. It implements supernodal Cholesky decomposition algorithm, and has GPU support.
 
 ## Links
 

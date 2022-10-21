@@ -503,7 +503,7 @@ all: unset
 - [Ordering CSS Declarations (2022)](https://blog.jim-nielsen.com/2022/ordering-css-delcarations/) ([HN](https://news.ycombinator.com/item?id=31259627))
 - [Favorite Modern CSS features (2022)](https://twitter.com/argyleink/status/1523867688849666048)
 - [CSS Stats](https://cssstats.com/) - Visualize various stats about your CSS. ([Code](https://github.com/cssstats/cssstats))
-- [State of CSS 2022](https://web.dev/state-of-css-2022/) ([Tweet](https://twitter.com/ChromiumDev/status/1524376275665756161)) ([Video](https://www.youtube.com/watch?v=Xy9ZXRRgpLk)) ([Tweet](https://twitter.com/jaffathecake/status/1525048999287443456))
+- [State of CSS 2022](https://web.dev/state-of-css-2022/) ([Tweet](https://twitter.com/ChromiumDev/status/1524376275665756161)) ([Video](https://www.youtube.com/watch?v=Xy9ZXRRgpLk)) ([Tweet](https://twitter.com/jaffathecake/status/1525048999287443456)) ([HN](https://news.ycombinator.com/item?id=33287471))
 - [The Surprising Truth About Pixels and Accessibility: should I use pixels or rems?](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/) ([Tweet](https://twitter.com/JoshWComeau/status/1526548095311302662))
 - [First Look At The CSS object-view-box Property (2022)](https://ishadeed.com/article/css-object-view-box/) ([Tweet](https://twitter.com/shadeed9/status/1527578257591357441?s=20&t=9O47LeqiezvlU4ZerRW67Q))
 - [Spacing in CSS (2020)](https://ishadeed.com/article/spacing-in-css/)
