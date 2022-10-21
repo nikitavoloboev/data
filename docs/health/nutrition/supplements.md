@@ -1,16 +1,14 @@
 # Supplements
 
-Supplements I sometimes take are inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/).
+Supplements I try take daily are inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/).
 
 - [Vegan Omega 3 DHA & EPA via Algal oil](https://www.uganutraceuticals.com/product/omegor-veg) (3 capsules)
 - [Vitamin D3 + K2](https://www.amazon.com/Bronson-Vitamin-Supplement-Support-Capsules/dp/B0792Z6434) (1 capsule)
 - [Magnesium](https://nootropicsdepot.com/magtein-magnesium-l-threonate-capsules/) (1 capsule)
 
-From these, Magnesium & Vitamin D3 are the more important supplements.
+I try to minimize the number of things my body has to process to bare essentials so more often than not I don't take any supplements. I maximize the quality of food I eat by eating [natural whole food plant based food](foods.md). I also fast but not routinely, usually by just skipping breakfast.
 
-I try to minimize the number of things my body has to process to bare essentials so more often than not I don't take any supplements. I maximize the quality of food I eat by eating [natural whole food plant based food](foods.md). I also fast but not routinely.
-
-And I enjoy taking [psychedelics](../../drugs/psychedelics/psychedelics.md) once in few months. Tryptamines being my favorite.
+And I enjoy taking [psychedelics](../../drugs/psychedelics/psychedelics.md) once in few months. [Tryptamines](../../drugs/psychedelics/tryptamines/tryptamines.md) being my favorite.
 
 ## Interesting
 

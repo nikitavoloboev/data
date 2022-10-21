@@ -33,3 +33,4 @@ title: Framer
 - [Framer: From Figma to HTML in seconds](https://www.framer.com/figma/)
 - [Rebuilding Linear's website with Framer (2022)](https://www.youtube.com/watch?v=DDcabIxHmhM)
 - [Framer Tutorial: CMS Filtering](https://www.youtube.com/watch?v=Gpl-CqJ8k_Q)
+- [Craft cutting-edge UIs with Framer Motion](https://samselikoff.com/framer-motion-course)
