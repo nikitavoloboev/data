@@ -441,3 +441,4 @@
 - [Haskell real world example app](https://github.com/nodew/haskell-realworld-example)
 - [Collection of Practical Haskell bits](https://github.com/dnikolovv/practical-haskell)
 - [Haskell Multi Nix](https://github.com/srid/haskell-multi-nix) - Demo of Nixifying a multi-package Haskell project.
+- [Haskell Message Index](https://github.com/haskellfoundation/error-message-index) - Community-driven collection of documentation for Haskell error messages and warnings.
