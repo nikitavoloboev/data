@@ -362,3 +362,4 @@
 - [The MasPar MP-1 architecture (1990)](https://courses.cs.washington.edu/courses/cse591n/06au/papers/maspar.pdf)
 - [YuzukiTsuru Hardware Open Source](https://github.com/YuzukiHD)
 - [Chips and Cheese Blog](https://chipsandcheese.com/)
+- [What's Different About Next-Gen Transistors (2022)](https://semiengineering.com/whats-different-about-next-gen-transistors/)
