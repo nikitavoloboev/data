@@ -8,3 +8,4 @@
 - [Korea shatters its own record for world’s lowest fertility rate (2022)](https://news.ycombinator.com/item?id=32580631)
 - [How North Korea Became So Insanely Poor (2022)](https://www.youtube.com/watch?v=CJKNwhhOTV8)
 - [Open-Korean-Text](https://github.com/open-korean-text/open-korean-text) - Open-source Korean Text Processor.
+- [The REAL Reason North Korea Hates the USA (2022)](https://www.youtube.com/watch?v=Jt7hE12n11s)

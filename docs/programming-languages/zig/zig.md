@@ -150,3 +150,4 @@ title: Zig
 - [List of Zig Gamedev Projects](https://github.com/hexops/awesome-zig-gamedev)
 - [That Time I Tried Porting Zig to SerenityOS (2022)](https://sin-ack.github.io/posts/sycl-talk-20221007/) ([Lobsters](https://lobste.rs/s/zon0fi/time_i_tried_porting_zig_serenityos))
 - [Mach engine & core examples](https://github.com/hexops/mach-examples)
+- [Ziglibc: Sweeping out the rug from underneath C - Jonathan Marler (2022)](https://www.youtube.com/watch?v=1N85yU6RMcY)

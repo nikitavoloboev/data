@@ -363,3 +363,4 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Steam Deck Guide](https://github.com/mikeroyal/Steam-Deck-Guide)
 - [Modmapper: Putting every Skyrim mod on a map with Rust (2022)](https://www.hallada.net/2022/10/05/modmapper-putting-every-skyrim-mod-on-a-map-with-rust.html)
 - [I solved the Dandelions paper-and-pencil game (2022)](https://nullprogram.com/blog/2022/10/12/)
+- [Medal.tv](https://medal.tv/) - Clip, edit & share the memories you create while gaming.

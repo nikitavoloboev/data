@@ -194,3 +194,4 @@ title: RISC-V
 - [RISC-V Configuration Validator](https://github.com/riscv-software-src/riscv-config)
 - [Ox64 is a RISC-V Linux-capable SBC for $8 (2022)](https://www.pine64.org/2022/10/15/october-update-an-ox-no-bull/)
 - [RISCOF](https://github.com/riscv-software-src/riscof) - RISC-V Architectural Test Framework.
+- [RISC In 2022](https://wiki.alopex.li/RiscIn2022) ([Lobsters](https://lobste.rs/s/fgfxvu/risc_2022))

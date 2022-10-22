@@ -246,3 +246,4 @@ title: Clojure
 - [Binaural beats using scittle](https://benjamin-asdf.github.io/faster-than-light-memes/binaural-beats-using-scittle.html)
 - [Ask HN: Is Clojure Dead? (2022)](https://news.ycombinator.com/item?id=33018037)
 - [Building a Startup on Clojure (2022)](https://wobaka.com/blog/building-a-startup-on-clojure/) ([HN](https://news.ycombinator.com/item?id=33081443))
+- [Clojure 15th Anniversary: A Retrospective (2022)](https://building.nubank.com.br/clojure-15th-anniversary-a-retrospective/) ([HN](https://news.ycombinator.com/item?id=33295217))

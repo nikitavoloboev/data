@@ -253,3 +253,4 @@
 - [Compiler Optimizations Are Hard Because They Forget (2022)](https://faultlore.com/blah/oops-that-was-important/) ([Lobsters](https://lobste.rs/s/tsbffa/compiler_optimizations_are_hard_because))
 - [Static Program Analysis (2022)](https://cs.au.dk/%7Eamoeller/spa/spa.pdf)
 - [The Solid-State Register Allocator (2022)](https://www.mattkeeter.com/blog/2022-10-04-ssra/) ([Code](https://github.com/mkeeter/ssra))
+- [A look across the pond: a comparison between GHC and Racket compilation models (2022)](https://www.youtube.com/watch?v=H0ATppFmt2o)

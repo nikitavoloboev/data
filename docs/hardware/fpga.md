@@ -118,3 +118,4 @@ title: Field-programmable gate array
 - [MNT RKX7 Open Hardware FPGA CPU Module Showcase (2022)](https://mntre.com/media/reform_md/2022-09-29-rkx7-showcase.html)
 - [Comprehensive list of FPGA development boards](https://www.fpgadeveloper.com/comprehensive-list-of-fpga-development-boards/) ([HN](https://news.ycombinator.com/item?id=33252556))
 - [The History of the FPGA](https://www.youtube.com/watch?v=m-8G1Yixb34&list=PLKtxx9TnH76RiptUQ22iDGxNewdxjI6Xh&index=36)
+- [How the FPGA Came to Be (2021)](https://www.eejournal.com/article/how-the-fpga-came-to-be-part-1/) ([All parts](https://lobste.rs/s/fvbryd/how_fpga_came_be))

@@ -39,3 +39,4 @@
 - [State Machines II](https://blog.yoshuawuyts.com/state-machines-2/) ([HN](https://news.ycombinator.com/item?id=32616802))
 - [Teaching Interaction using State Diagrams | Christopher Schankula (2022)](https://www.youtube.com/watch?v=XatvVRemDw4)
 - [Facts about State Machines](https://github.com/cpressey/Facts-about-State-Machines) ([Lobsters](https://lobste.rs/s/q9q4y8/facts_about_state_machines_i_hold_opinion)) ([HN](https://news.ycombinator.com/item?id=33025466))
+- [Designing Logic Systems Using State Machines : Christopher R. Clare (1973)](https://archive.org/details/designinglogicsystemsusingstatemachines) ([HN](https://news.ycombinator.com/item?id=33296316))

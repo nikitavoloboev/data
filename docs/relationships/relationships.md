@@ -287,3 +287,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [What do you crave most in your relationships?](https://www.reddit.com/r/AskWomen/comments/xzy04d/what_do_you_crave_most_in_your_relationships/)
 - [How did you realize your SO actually loves you?](https://www.reddit.com/r/AskWomen/comments/y5b6m9/how_did_you_realize_your_so_actually_loves_you/)
 - [Hook Up Culture Is Bad For The Boys Too](https://www.youtube.com/watch?v=2Hqqy3dzQgo)
+- [The Mono/Poly Paradox (2018)](https://www.multiamory.com/podcast/180-mono-poly)

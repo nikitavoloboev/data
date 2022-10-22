@@ -103,3 +103,5 @@ I try drink only water/tea with occasional coffee. No added sugar in food/drinks
 - [Study links omega-3s to improved brain structure, cognition at midlife](https://news.uthscsa.edu/study-links-omega-3s-to-improved-brain-structure-cognition-at-midlife/) ([HN](https://news.ycombinator.com/item?id=33116762))
 - [Ten true superfoods (2021)](https://www.multiflora-herbs.com/blogs/news/ten-true-superfoods)
 - [What contributes to fat loss?](https://www.reddit.com/r/Fitness/comments/y7tj6p/what_contributes_to_fat_loss/)
+- [Whole Foods Plant Based Diet Reddit](https://www.reddit.com/r/WholeFoodsPlantBased/)
+- [Plant Based Diet Reddit](https://www.reddit.com/r/PlantBasedDiet/)

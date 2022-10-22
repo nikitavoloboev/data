@@ -44,3 +44,4 @@ My DB of choice for all projects. Sits on top of [Postgres](postgresql.md) but h
 - [EdgeDB Deno](https://github.com/edgedb/edgedb-deno)
 - [EdgeDB 2.0 (2022)](https://www.edgedb.com/blog/edgedb-2-0) ([HN](https://news.ycombinator.com/item?id=32267287)) ([Video](https://www.youtube.com/watch?v=1jloGHV31Ow))
 - [My experience with EdgeDB (2022)](https://divan.dev/posts/edgedb/)
+- [Typesafe database querying via code generation (2022)](https://www.edgedb.com/blog/typesafe-database-querying-via-code-generation)
