@@ -43,3 +43,4 @@ title: MDX
 - [ESLint Parser/Plugin for MDX](https://github.com/mdx-js/eslint-mdx)
 - [Integrating MDX with NextJS](https://twitter.com/dan_abramov/status/1566792394082746368)
 - [MDX Conf Discord](https://discord.gg/CYsM78ECQJ)
+- [Mint](https://github.com/mintlify/mint) - Build blazing fast, beautiful, and easy to maintain documentation with MDX.

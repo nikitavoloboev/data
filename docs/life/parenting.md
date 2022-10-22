@@ -92,3 +92,5 @@
 - [75% of the time we spend with our kids in our lifetime will be spent by age 12](https://www.1000hoursoutside.com/blog/time-with-kids-before-age-12) ([HN](https://news.ycombinator.com/item?id=33254597))
 - [Tell HN: The regret of parenting and how to handle it](https://news.ycombinator.com/item?id=33258925)
 - [Ask HN: How to deal with regret of not having kids](https://news.ycombinator.com/item?id=33259414)
+- [Как сделать так, чтобы ваш ребенок не орал на приеме у педиатра](https://twitter.com/femyninja/status/1583831926128857088)
+- [If you could only teach your kids three big concepts of life, what would they be?](https://twitter.com/griswold/status/1583628293382623241)

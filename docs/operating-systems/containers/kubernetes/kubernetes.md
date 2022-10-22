@@ -6,7 +6,7 @@ title: Kubernetes
 
 [Ivan Velichko](https://iximiuz.com/en/) has lots of great posts on containers & k8s. [Beetle](https://github.com/Clivern/Beetle) & [Infra](https://github.com/infrahq/infra) are neat.
 
-[Kube-Hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) is nice as [Hetzner](https://www.hetzner.com/) has cheap servers.
+[Kube-Hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) is nice as [Hetzner](https://www.hetzner.com/) has cheap servers. [GKE](https://cloud.google.com/kubernetes-engine) has [nicest hosted Kubernetes experience](https://www.reddit.com/r/kubernetes/comments/yag39i/best_managed_kubernetes_platform/).
 
 [Acorn](https://github.com/acorn-io/acorn) is useful.
 

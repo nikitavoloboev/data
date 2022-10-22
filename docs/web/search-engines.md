@@ -274,3 +274,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [codequestion](https://github.com/neuml/codequestion) - Semantic search for developers.
 - [Reverse Image Search Using Perceptual Hashes and DynamoDB (2022)](https://canvatechblog.com/simple-fast-and-scalable-reverse-image-search-using-perceptual-hashes-and-dynamodb-df3007d19934)
 - [Swurl](https://swurl.com/) - Search engine with nice column UX. ([HN](https://news.ycombinator.com/item?id=33251954))
+- [Rust wrapper for the Meilisearch API](https://github.com/meilisearch/meilisearch-rust)

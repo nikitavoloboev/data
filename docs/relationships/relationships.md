@@ -288,3 +288,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [How did you realize your SO actually loves you?](https://www.reddit.com/r/AskWomen/comments/y5b6m9/how_did_you_realize_your_so_actually_loves_you/)
 - [Hook Up Culture Is Bad For The Boys Too](https://www.youtube.com/watch?v=2Hqqy3dzQgo)
 - [The Mono/Poly Paradox (2018)](https://www.multiamory.com/podcast/180-mono-poly)
+- [РАССТАВАНИЕ. Как решиться и как прожить боль, если меня бросили. Дружба между мужчиной и женщиной (2022)](https://www.youtube.com/watch?v=thNdT5dt4Xg)

@@ -134,7 +134,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont) ([HN](https://news.ycombinator.com/item?id=32799872))
 - [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono) - Helvetica Monospace Coding Font.
 - [Acma](https://twitter.com/PangramPangram_/status/1578445381905838081)
-- [Nabla](https://nabla.typearture.com/) - Isometric Color Font. ([HN](https://news.ycombinator.com/item?id=33276752))
+- [Nabla](https://nabla.typearture.com/) - Isometric Color Font. ([HN](https://news.ycombinator.com/item?id=33276752)) ([Code](https://github.com/justvanrossum/nabla))
 
 ## Links
 
@@ -412,3 +412,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [5 nice free Google Fonts](https://twitter.com/DallasBarnes/status/1580613966451347456)
 - [Type Hunting](https://typehunting.com/) - Archive of found typography.
 - [Fontaine](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics. ([Tweet](https://twitter.com/danielcroe/status/1581428654479138817))
+- [Fontra](https://github.com/BlackFoundryCom/fontra) - Browser-based font editor.

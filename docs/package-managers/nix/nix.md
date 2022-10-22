@@ -424,3 +424,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Customizing packages in Nix (2022)](https://bobvanderlinden.me/customizing-packages-in-nix/)
 - [Nix Workshop materials (2022)](https://github.com/lovesegfault/nix-workshop)
 - [Taking Nix Offline](https://github.com/nix-how/marsnix)
+- [nixify](https://github.com/rvolosatovs/nixify) - Simple, yet extensible nix flake bootstrapping library for real-world projects.

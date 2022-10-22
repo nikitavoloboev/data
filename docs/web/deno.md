@@ -321,3 +321,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [bench](https://github.com/denosaurs/bench) - Comparing deno & node HTTP frameworks.
 - [fresh_charts](https://github.com/denoland/fresh_charts) - Server-side-rendered charting library for Fresh.
 - [deno-sudo](https://github.com/hugojosefson/deno-sudo) - Easy-to-use sudo for Deno CLI apps.
+- [Deno Storage Area](https://github.com/worker-tools/deno-kv-storage) - Implementation of the StorageArea interface for Deno.

@@ -235,6 +235,7 @@
 - [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 - [mesh_to_sdf](https://github.com/marian42/mesh_to_sdf) - Calculate signed distance fields for arbitrary meshes.
 - [Raylib-Python-CFFI](https://github.com/electronstudio/raylib-python-cffi) - Python CFFI bindings for Raylib.
+- [drawbot-skia](https://github.com/justvanrossum/drawbot-skia) - Python package implementing a subset of the DrawBot API using Skia as a backend.
 
 ## Crypto
 
@@ -1201,3 +1202,4 @@
 - [Python dependency management difficulty is an unhelpful meme (2022)](https://blog.viraptor.info/post/python-dependency-management-difficulty-is-an-unhelpful-meme) ([Lobsters](https://lobste.rs/s/q5tvl6/python_dependency_management))
 - [Musings on Python Type Hints (2022)](https://samgeo.codes/blog/python-types/)
 - [How to set up Python in 2022](https://gist.github.com/eyeseast/548fddcfd0df24e589375af6a926ef7e)
+- [nox-poetry](https://github.com/cjolowicz/nox-poetry) - Use Poetry inside Nox sessions.

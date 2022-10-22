@@ -222,6 +222,7 @@ title: OCaml libraries
 - [Tyre](https://github.com/Drup/tyre) - Typed Regular Expressions.
 - [agrep](https://github.com/xavierleroy/ocamlagrep) - String searching with errors, using the Wu-Manber algorithm.
 - [OCaml macros](https://github.com/modular-macros/ocaml-macros)
+- [Shexp](https://github.com/janestreet/shexp) - Process library and s-expression based shell.
 
 ## Links
 

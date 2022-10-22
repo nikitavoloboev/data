@@ -89,6 +89,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Pepper](https://github.com/vamolessa/pepper) - Simple and opinionated modal code editor for your terminal.
 - [CudaText](https://github.com/Alexey-T/CudaText) - Open-source, cross-platform text editor, written in Lazarus. ([HN](https://news.ycombinator.com/item?id=32360341))
 - [Editor](https://github.com/mattDavo/Editor) - Custom language grammar tokenizer and theming/syntax highlighter with integrated editor written in Swift, designed for use in both macOS and iOS.
+- [aretext](https://aretext.org/) - Minimalist text editor with vim-compatible key bindings. ([Code](https://github.com/aretext/aretext))
 
 ## Web
 

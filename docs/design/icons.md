@@ -143,6 +143,6 @@
 - [Pixelarticons](https://pixelarticons.com/) - Beautiful open-source pixel-art icons. ([Code](https://github.com/halfmage/pixelarticons))
 - [Majesticons](https://www.majesticons.com/) - Versatile, beautiful, and scalable iconset. 760 icons each in line and solid style.
 - [SF Symbols SVG Library](https://github.com/g-a-v-i-n/sf-symbols)
-- [IconBrew](https://iconbrew.com/) - Open source icon pack.
+- [IconBrew](https://iconbrew.com/) - Open source icon pack. ([Twitter](https://twitter.com/icon_brew))
 - [MingCute](https://www.mingcute.com/) - Carefully Designed Icon Library. ([Code](https://github.com/Richard9394/MingCute))
 - [Typicons](https://www.s-ings.com/typicons/) - 336 pixel perfect, all-purpose vector icons in a web-font kit. ([Code](https://github.com/stephenhutchings/typicons.font))

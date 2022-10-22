@@ -131,3 +131,4 @@
 - [Memory-Based Graph Networks (2020)](https://arxiv.org/abs/2002.09518) ([Code](https://github.com/amirkhas/GraphMemoryNet))
 - [Contrastive Multi-View Representation Learning on Graphs (2020)](https://arxiv.org/abs/2006.05582) ([Code](https://github.com/kavehhassani/mvgrl))
 - [Tree Mover's Distance for Graphs: Bridging Graph Metrics and Stability of Graph Neural Networks (2022)](https://github.com/chingyaoc/TMD)
+- [SuperGlue: Learning Feature Matching with Graph Neural Networks (2020)](https://arxiv.org/abs/1911.11763) ([Code](https://github.com/magicleap/SuperGluePretrainedNetwork))

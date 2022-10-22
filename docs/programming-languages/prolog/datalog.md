@@ -26,6 +26,7 @@ title: Datalog
 - [Souffle](https://github.com/souffle-lang/souffle) - Variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthesizes a native parallel C++ program from a logic specification. ([Web](https://souffle-lang.github.io/))
 - [Tree-sitter grammar for Soufflé Datalog](https://github.com/langston-barrett/tree-sitter-souffle)
 - [Soufflé-Prov](https://github.com/yannramusat/souffle-prov) - Adds semiring-based provenance capabilities to the Soufflé language project.
+- [Souffle-Lint](https://github.com/langston-barrett/souffle-lint) - Linter for Soufflé Datalog, based on tree-sitter-souffle, configured with tree-sitter queries.
 - [Differential Datalog Implementation in JS](https://github.com/datalogui/datalog) - Implementation of Datalog with a focus on managing UIs & UI state.
 - [Awesome Datalog](https://github.com/samuell/awesome-datalog)
 - [Scallop](https://github.com/scallop-lang/scallop-v1) - Scalable differentiable probabilistic Datalog engine, with Rust. ([Web](https://scallop-lang.github.io/)) ([Tweet](https://twitter.com/AI4Code/status/1515470577422766081))

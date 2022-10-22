@@ -1035,6 +1035,8 @@
 - [Shaka Player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player.
 - [js-sha1](https://github.com/emn178/js-sha1) - Simple SHA1 hash function for JavaScript supports UTF-8 encoding.
 - [mustache.js](https://github.com/janl/mustache.js) - Zero-dependency implementation of the mustache template system in JavaScript.
+- [Blaze Slider](https://github.com/blaze-slider/blaze-slider) - High-performance JavaScript UI library for creating sliders. ([Web](https://blaze-slider.dev/))
+- [hapi/iron](https://github.com/hapijs/iron) - Encapsulated tokens (encrypted and mac'ed objects).
 
 ## Links
 

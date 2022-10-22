@@ -427,3 +427,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Ryax](https://ryax.tech/) - Open-source platform that streamlines the design, deployment, and monitoring of your APIs and automations. ([Code](https://github.com/RyaxTech/ryax))
 - [How to make a mock API server in JavaScript (2022)](https://snyk.io/blog/how-to-mock-api-server-javascript/)
 - [Pushpin](https://github.com/fanout/pushpin) - Proxy server for adding push to your API.
+- [Zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash. ([Web](https://zealdocs.org/))

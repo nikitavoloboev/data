@@ -301,3 +301,4 @@ title: HTTP
 - [Simple HTTP server written from scratch as a teaching tool to teach Unix network program architectures](https://github.com/shuveb/zerohttpd)
 - [The HTTP crash course nobody asked for (2022)](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for) ([Reddit](https://www.reddit.com/r/rust/comments/y9b8us/the_http_crash_course_nobody_asked_for_by/)) ([HN](https://news.ycombinator.com/item?id=33280605))
 - [Restfox](https://restfox.dev/) - Offline-first web HTTP client. ([Code](https://github.com/flawiddsouza/Restfox)) ([HN](https://news.ycombinator.com/item?id=33287137))
+- [curlz](https://github.com/curlz-rs/curlz) - Curl wrapper with placeholder, bookmark and environment powers just like postman but for the terminal.

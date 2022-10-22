@@ -62,3 +62,4 @@
 - [Airbnb's Trip to Linaria (2022)](https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12)
 - [CSS Out JS](https://github.com/siddharthkp/css-out-js) - Author styles collocated in JS, pull them out into static CSS on build. No runtime dependency.
 - [Why We're Breaking Up with CSS-in-JS (2022)](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b) ([Tweet](https://twitter.com/markdalgleish/status/1582908496441331713))
+- [Style performance and concurrent rendering (2022)](https://nolanlawson.com/2022/10/22/style-performance-and-concurrent-rendering/)

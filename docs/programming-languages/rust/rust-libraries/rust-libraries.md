@@ -2248,6 +2248,7 @@
 - [Kanal](https://github.com/fereidani/kanal) - Rust library to help programmers design effective programs in CSP model via providing featureful multi-producer multi-consumer channels. ([Reddit](https://www.reddit.com/r/rust/comments/y5im3n/kanal_channels_80x_faster_than_the_standard/))
 - [presser](https://github.com/EmbarkStudios/presser) - Utilities to help make copying data around into raw, possibly-uninitialized buffers easier and safer.
 - [ntpd-rs](https://github.com/memorysafety/ntpd-rs) - NTP implementation in Rust, supported by Internet Security Research Group's Prossimo project.
+- [copypasta](https://github.com/alacritty/copypasta) - Cross-platform Rust system clipboard library.
 
 ## Cargo Plugins
 

@@ -471,3 +471,5 @@ Awesome List
 - [Code-Pile](https://github.com/CarperAI/Code-Pile) - Contains all the code for collecting large scale amounts of code from GitHub.
 - [GitHub Copilot investigation](https://githubcopilotinvestigation.com/) ([HN](https://news.ycombinator.com/item?id=33240341)) ([Lobsters](https://lobste.rs/s/4imnvy/github_copilot_investigation))
 - [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/) ([HN](https://news.ycombinator.com/item?id=33248988))
+- [Export (your) GitHub stars to a CSV file](https://github.com/JeffCarpenter/export-stars)
+- [GitHub Scraper](https://github.com/nelsonic/github-scraper) - Crawl GitHub web pages for insights we can't GET from the API.
