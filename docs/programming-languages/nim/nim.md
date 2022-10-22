@@ -49,3 +49,4 @@ title: Nim
 - [Mastering Nim](https://nim-lang.org/blog/2022/06/29/mastering-nim.html) ([HN](https://news.ycombinator.com/item?id=31925716))
 - [Nim Language Server](https://github.com/nim-lang/langserver)
 - [Nim grammar for tree-sitter](https://github.com/monaqa/tree-sitter-nim)
+- [Andreas Rumpf: Nim 2 (2022)](https://www.youtube.com/watch?v=aDi50K_Id_k)

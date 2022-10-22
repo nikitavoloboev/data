@@ -118,3 +118,6 @@ title: Phoenix framework
 - [BroadwayCloudPubSub](https://github.com/dashbitco/broadway_cloud_pub_sub) - Google Cloud Pub/Sub connector for Broadway.
 - [Phoenix LiveView 0.18: New Special HTML Attributes (2022)](https://blog.appsignal.com/2022/10/11/phoenix-liveview-018-new-special-html-attributes.html) ([Lobsters](https://lobste.rs/s/mntbl5/phoenix_liveview_0_18_new_special_html))
 - [Bodyguard](https://github.com/schrockwell/bodyguard) - Simple authorization conventions for Phoenix apps.
+- [LiveInspect](https://github.com/schrockwell/live_inspect) - Inspect LiveView assigns directly in the browser.
+- [LiveEvent](https://github.com/schrockwell/live_event) - Standardized events for LiveView.
+- [LiveAssign](https://github.com/schrockwell/live_assign) - State management conventions for LiveView.

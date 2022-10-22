@@ -1014,6 +1014,7 @@
 - [AwesomeYaml](https://github.com/SamsungLabs/awesomeyaml) - Utility library to help parsing, transforming and querying yaml-based configs.
 - [inflect](https://github.com/jaraco/inflect) - Correctly generate plurals, ordinals, indefinite articles; convert numbers to words.
 - [dank](https://github.com/cramppet/dank) - Deterministic finite automata ranker.
+- [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn) - Python package to accelerate the sparse matrix multiplication and top-n similarity selection.
 
 ## Notes
 

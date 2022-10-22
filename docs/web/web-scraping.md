@@ -223,3 +223,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Crawly](https://github.com/elixir-crawly/crawly) - High-level web crawling & scraping framework for Elixir.
 - [Scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Hides your scraper behind a cloud. ([Web](http://scrapoxy.io/))
 - [Instahunter](https://github.com/araekiel/instahunter) - CLI OSINT app that can fetch data from Instagram's Web API without authentication.
+- [sico](https://github.com/andygrunwald/sico) - Sitemap comparison tool.

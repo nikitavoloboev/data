@@ -443,3 +443,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - ["Stop Writing Dead Programs" by Jack Rusher (Strange Loop 2022)](https://www.youtube.com/watch?v=8Ab3ArE8W3s) ([HN](https://news.ycombinator.com/item?id=33251799)) ([HN](https://news.ycombinator.com/item?id=33270235)) ([Lobsters](https://lobste.rs/s/exmdxa/stop_writing_dead_programs))
 - [Syntax Design](https://cs.lmu.edu/~ray/notes/syntaxdesign/) ([HN](https://news.ycombinator.com/item?id=33247115)) ([Lobsters](https://lobste.rs/s/4n0kz8/syntax_design))
 - [Concatenative Programming: From Ivory to Metal (2017)](https://www.youtube.com/watch?v=_IgqJr8jG8M) ([Lobsters](https://lobste.rs/s/jcousj/concatenative_programming_from_ivory))
+- [What Operators Do You WISH Programming Languages Had? (2022)(https://www.reddit.com/r/ProgrammingLanguages/comments/ya87l1/what_operators_do_you_wish_programming_languages/)

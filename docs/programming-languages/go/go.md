@@ -876,3 +876,4 @@ if *boolArgPtr != false {
 - [Go News Twitter](https://twitter.com/golang_news)
 - [Go Worker Pool: The Concurrency Powerhouse (2022)](https://medium.com/higher-order-functions/go-worker-pool-the-concurrency-powerhouse-2dc7971f4f15)
 - [When is a slice of any not a slice of any? (2022)](https://www.timr.co/slice-of-any-not-slice-of-any/)
+- [Incremental parsing in go (2022)](https://dev-nonsense.com/posts/incremental-parsing-in-go/) ([HN](https://news.ycombinator.com/item?id=33298253))

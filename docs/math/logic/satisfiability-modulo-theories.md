@@ -59,3 +59,4 @@ title: Satisfiability modulo theories
 - [SMT Lean](https://github.com/ufmg-smite/lean-smt) - Tactics for discharging Lean goals into SMT solvers.
 - [CreuSAT](https://github.com/sarsko/CreuSAT) - Formally verified SAT solver written in Rust. ([Lobsters](https://lobste.rs/s/glcgko/creusat_formally_verified_sat_solver))
 - [CaDiCaL Simplified Satisfiability Solver](https://github.com/arminbiere/cadical)
+- [MSAT](https://github.com/Gbury/mSAT) - OCaml library that features a modular SAT-solver and some extensions (including SMT), derived from Alt-Ergo Zero.

@@ -30,3 +30,4 @@
 - [How do I get better at folding big hands?](https://www.reddit.com/r/poker/comments/wirr41/how_do_i_get_better_at_folding_big_hands/)
 - [Daniel Negreanu: Poker | Lex Fridman (2022)](https://www.youtube.com/watch?v=rKnoNfajUgM)
 - [How to get better at poker | Daniel Negreanu (2022)](https://www.youtube.com/watch?v=c7V0A4aG-4U)
+- [Deep mind poker bot for pokerstars, partypoker and GGPoker](https://github.com/dickreuter/Poker)
