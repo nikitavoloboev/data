@@ -221,3 +221,5 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [Nitter Instances Uptime](https://xnaas.github.io/nitter-instances/) - Automated uptime monitoring of Nitter instances. ([Code](https://github.com/xnaas/nitter-instances))
 - [Great devs on Twitter to follow](https://twitter.com/swyx/status/1580660708550680576)
 - [Twitter Scraper](https://github.com/mahrtayyab/tweety)
+- [Twitter Stream](https://github.com/tesaguri/twitter-stream-rs) - Rust library for listening on Twitter Streaming API.
+- [Pipitor](https://github.com/tesaguri/pipitor) - Twitter bot that listens on WebSub/Twitter streams and (re)Tweet the updates in real time.

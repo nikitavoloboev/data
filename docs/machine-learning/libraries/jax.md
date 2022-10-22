@@ -80,3 +80,4 @@ title: JAX
 - [JAX in Action (2022)](https://www.manning.com/books/jax-in-action)
 - [DeepMind JAX Ecosystem](https://github.com/deepmind/jax)
 - [JAX Tutorial](https://github.com/pierreglaser/jax-tutorial)
+- [SBX: Stable Baselines Jax (SB3 + Jax)](https://github.com/araffin/sbx)

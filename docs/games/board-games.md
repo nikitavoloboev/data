@@ -61,3 +61,4 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [What game ends in the most satisfying way? What is your favorite winning condition?](https://www.reddit.com/r/boardgames/comments/y2vx5t/what_game_ends_in_the_most_satisfying_way_what_is/)
 - [Post your 3 favorite games and have others let you know your 4th (2022)](https://www.reddit.com/r/boardgames/comments/y4rl9r/post_your_3_favourite_games_and_have_others_let/)
 - [What is the most immersive board game you know?](https://www.reddit.com/r/boardgames/comments/y4vu1m/what_is_the_most_immersive_boardgame_you_know/)
+- [Games you'd love to play, but probably never will (2022)](https://www.reddit.com/r/boardgames/comments/ya1fd3/games_youd_love_to_play_but_probably_never_will/)

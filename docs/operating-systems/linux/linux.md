@@ -620,3 +620,4 @@ title: Linux
 - [On Bypassing eBPF Security Monitoring (2022)](https://blog.doyensec.com/2022/10/11/ebpf-bypass-security-monitoring.html) ([HN](https://news.ycombinator.com/item?id=33235434))
 - [Why Linux Troubleshooting Advice Sucks (2022)](https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html) ([Lobsters](https://lobste.rs/s/k4cbht/why_linux_troubleshooting_advice_sucks))
 - [The feasibility of pledge() on Linux (2022)](https://blog.gnoack.org/post/pledge-on-linux/) ([Lobsters](https://lobste.rs/s/gts52d/feasibility_pledge_on_linux))
+- [Linux: What Can You Epoll? (2022)](https://darkcoding.net/software/linux-what-can-you-epoll/) ([HN](https://news.ycombinator.com/item?id=33299650))

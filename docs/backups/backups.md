@@ -38,6 +38,7 @@ For programming, [Walrus](https://github.com/Clivern/Walrus) seems nice.
 - [Duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups on cloud storage services.
 - [Back In Time](https://github.com/bit-team/backintime) - Simple backup tool for Linux.
 - [Duplicacy](https://github.com/gilbertchen/duplicacy) - Lock-free deduplication cloud backup tool.
+- [ZnapZend](https://github.com/oetiker/znapzend) - ZFS centric backup tool to create snapshots and send them to backup locations.
 
 ## Cloud Storage
 

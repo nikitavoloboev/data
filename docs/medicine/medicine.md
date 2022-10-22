@@ -42,3 +42,4 @@
 - [RadImageNet](https://github.com/BMEII-AI/RadImageNet) - Pre-trained convolutional neural networks trained solely from medical imaging to be used as the basis of transfer learning for medical imaging applications.
 - [What would a “good” WebMD look like?](https://blog.tjcx.me/p/why-is-webmd-so-awful) ([HN](https://news.ycombinator.com/item?id=32649864))
 - [How to understand cough medicines (2022)](https://sunlightenthusiast.wordpress.com/2022/07/25/how-to-understand-cough-medicines/)
+- [MedPerf](https://github.com/mlcommons/medperf) - Open benchmarking platform for medical artificial intelligence using Federated Evaluation.

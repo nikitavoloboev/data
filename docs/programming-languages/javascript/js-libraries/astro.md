@@ -6,6 +6,7 @@ title: Astro
 
 ## OSS Astro sites
 
+- [AstroWind](https://github.com/onwidget/astrowind) - Template to make your website using Astro + Tailwind CSS.
 - [Astro Starter Kit: Minimal](https://github.com/mattrothenberg/1kx-astro)
 - [Astro app with the Netlify adapter using Edge Functions](https://github.com/sarahetter/astro-netlify-edge-starter)
 - [Astro - Ink](https://github.com/one-aalam/astro-ink) - Crisp, minimal, personal blog theme for Astro.
@@ -62,3 +63,5 @@ title: Astro
 - [astroSpeed](https://github.com/oslabs-beta/astrospeed) - Performance monitor for Astro & Next.js web applications.
 - [Astro SPA with Solid Router](https://github.com/bholmesdev/is-even) ([Tweet](https://twitter.com/BHolmesDev/status/1582726860646993920))
 - [Astro + MiniSearch](https://github.com/Barnabas/astro-minisearch)
+- [Astro-Compress](https://github.com/astro-community/astro-compress) - AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
+- [Astro PWA](https://github.com/vite-pwa/astro) - Zero-config PWA Integration for Astro.

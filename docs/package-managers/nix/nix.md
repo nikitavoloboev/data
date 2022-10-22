@@ -423,3 +423,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Passing command line arguments to nix flakes (2022)](https://mat.services/posts/command-line-flake-arguments/)
 - [Customizing packages in Nix (2022)](https://bobvanderlinden.me/customizing-packages-in-nix/)
 - [Nix Workshop materials (2022)](https://github.com/lovesegfault/nix-workshop)
+- [Taking Nix Offline](https://github.com/nix-how/marsnix)

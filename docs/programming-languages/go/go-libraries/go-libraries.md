@@ -1842,6 +1842,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [GoParsec](https://github.com/prataprc/goparsec) - Parser combinator library in Go.
 - [Go Parse](https://github.com/vito/go-parse) - Parsec-like library for Go.
 - [tail](https://github.com/hpcloud/tail) - Go package for tail-ing files.
+- [pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go.
+- [go-optional](https://github.com/moznion/go-optional) - Library that provides Go Generics friendly "optional" features.
+- [gowrtr](https://github.com/moznion/gowrtr) - Library that supports Go code generation.
 
 ## Links
 

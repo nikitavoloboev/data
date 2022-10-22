@@ -433,3 +433,4 @@
 - [Bitwig](https://www.bitwig.com/) - Digital audio workstation (DAW) and music production software. ([Twitter](https://twitter.com/Bitwig))
 - [Multi-instrument Music Synthesis with Spectrogram Diffusion (2022)](https://arxiv.org/abs/2206.05408) ([Code](https://github.com/magenta/music-spectrogram-diffusion))
 - [Beat Transformer: Demixed Beat and Downbeat Tracking with Dilated Self-Attention (2022)](https://arxiv.org/abs/2209.07140) ([Code](https://github.com/zhaojw1998/Beat-Transformer))
+- [Musika](https://github.com/marcoppasini/musika) - Fast Infinite Waveform Music Generation.

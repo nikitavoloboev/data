@@ -71,3 +71,4 @@ title: Graph theory
 - [Semantic Networks](https://www.jfsowa.com/pubs/semnet.htm)
 - [Change Detection in a sequence of Graphs](https://github.com/dzambon/cdg)
 - [Sugiyama](https://github.com/KadaB/sugiyama) - Graph rendering.
+- [graph](https://github.com/s1ck/graph) - Library of high-performant graph algorithms in Rust.

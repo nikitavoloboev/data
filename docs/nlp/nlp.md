@@ -671,3 +671,4 @@
 - [Table-To-Text generation and pre-training with TabT5 (2022)](https://arxiv.org/abs/2210.09162)
 - [concepCy](https://github.com/JulesBelveze/concepcy) - SpaCy wrapper for ConceptNet.
 - [AliceMind](https://github.com/alibaba/AliceMind) - ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab.
+- [CrossRE: A Cross-Domain Dataset for Relation Extraction (2022)](https://arxiv.org/abs/2210.09345) ([Code](https://github.com/mainlp/CrossRE))

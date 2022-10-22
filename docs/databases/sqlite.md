@@ -262,3 +262,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [SQLite and the N+1 (no) problem (2022)](https://www.youtube.com/watch?v=qPfAQY_RahA)
 - [Geocode SQLite](https://github.com/eyeseast/geocode-sqlite) - Geocode rows in a SQLite database table.
 - [Quirks, Caveats, and Gotchas In SQLite](https://www.sqlite.org/quirks.html) ([HN](https://news.ycombinator.com/item?id=33272824))
+- [Litestream: Making Single-Node Deployments Cool Again (Ben Johnson) (2022)](https://www.youtube.com/watch?v=drgriZCRyrQ)

@@ -1015,6 +1015,8 @@
 - [inflect](https://github.com/jaraco/inflect) - Correctly generate plurals, ordinals, indefinite articles; convert numbers to words.
 - [dank](https://github.com/cramppet/dank) - Deterministic finite automata ranker.
 - [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn) - Python package to accelerate the sparse matrix multiplication and top-n similarity selection.
+- [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python.
+- [SporTran](https://github.com/sissaschool/sportran) - Code to estimate transport coefficients from the cepstral analysis of a (multi)variate current stationary time series.
 
 ## Notes
 
