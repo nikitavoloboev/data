@@ -614,3 +614,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Дмитрий Муратов: «Русские позвоночники» (2022)](https://www.youtube.com/watch?v=mMBpbo8Wkwo)
 - [Как безопасно пользоваться интернетом в России (2022)](https://twitter.com/artemtam/status/1576201945240334336)
 - [Где поработать в Москве](https://shantibiotic.notion.site/28ef57f521a84aaaa6345de80d55f4ac)
+- [After Putin: 12 people ready to ruin Russia next (2022)](https://www.politico.eu/article/after-putin-12-people-ready-ruin-russia-next/)
