@@ -31,3 +31,4 @@ title: Hasura
 - [ra-data-hasura](https://github.com/hasura/ra-data-hasura) - GraphQL data provider for react-admin tailored to target Hasura GraphQL endpoints.
 - [Hasura Storage](https://github.com/nhost/hasura-storage) - Storage for Hasura built on top of S3.
 - [Streaming data in Postgres to 1M clients with GraphQL](https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md) ([HN](https://news.ycombinator.com/item?id=33227840))
+- [Hasura + Express Server](https://github.com/barelyhuman/hes)

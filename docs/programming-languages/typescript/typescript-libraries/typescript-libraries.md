@@ -650,6 +650,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Viae](https://github.com/viae-io/viae) - Bi-directional communication framework.
 - [Type-Knit](https://github.com/cleaton/type-knit) - Typesafe APIs over Fetch & Streams API standard.
 - [Embedded TypeScript](https://github.com/tatethurston/embedded-typescript) - Type safe embedded TypeScript templates.
+- [FP-TS Data](https://github.com/fp-ts/data)
 
 ## Links
 

@@ -206,3 +206,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Massively increase your productivity on personal projects with comprehensive documentation and automated tests](https://github.com/simonw/djangocon-2022-productivity)
 - [Runme](https://runme.dev/) - Run your Readme.md. ([VSCode Extension Code](https://github.com/stateful/runme.dev))
 - [Leveraging 'shot-scraper' and creating image diffs (2022)](https://usrme.xyz/posts/leveraging-shot-scraper-and-creating-image-diffs/)
+- [Xrefcheck](https://github.com/serokell/xrefcheck) - Tool for verifying local and external references in repository documentation that is quick, easy to setup, and suitable to be added to CI.

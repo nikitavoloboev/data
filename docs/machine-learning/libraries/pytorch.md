@@ -460,3 +460,4 @@ title: PyTorch
 - [PyTorch Estimate Flops](https://github.com/1adrianb/pytorch-estimate-flops) - Estimate/count FLOPS for a given neural network using PyTorch.
 - [Bert-squeeze](https://github.com/JulesBelveze/bert-squeeze) - Tools for Transformers compression using PyTorch Lightning.
 - [PyTorch dual-attention LSTM-autoencoder for multivariate Time Series](https://github.com/JulesBelveze/time-series-autoencoder)
+- [torch-scan](https://github.com/frgfm/torch-scan) - Seamless analysis of your PyTorch models (RAM usage, FLOPs, MACs, receptive field, etc.).

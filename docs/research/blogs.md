@@ -187,6 +187,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Austin Z. Henley](https://austinhenley.com/blog.html)
 - [Graham King](https://darkcoding.net/)
 - [Andy Wingo](https://wingolog.org/)
+- [Bert Hubert](https://berthub.eu/articles/)
 
 ## Notes
 

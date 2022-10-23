@@ -54,6 +54,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [ThePrimeagen](https://github.com/ThePrimeagen/.dotfiles)
 - [Folke Lemaitre](https://github.com/folke/dot)
 - [Dmitry Zherebko](https://github.com/zmitry/.dotfiles)
+- [Stefan Judis](https://github.com/stefanjudis/dotfiles)
 
 ## Links
 

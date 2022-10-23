@@ -170,3 +170,4 @@ title: Coq
 - [LibHyps](https://github.com/Matafou/LibHyps) - Coq library providing tactics to deal with hypothesis.
 - [CoqEAL](https://github.com/coq-community/coqeal) - Coq Effective Algebra Library.
 - [IO](https://github.com/coq-io/io) - Library for effects in Coq.
+- [Bidirectional Programming with Monadic Profunctors](https://github.com/Lysxia/profunctor-monad)

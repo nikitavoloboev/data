@@ -62,6 +62,7 @@
 - [Intuitive](https://github.com/enricozb/intuitive) - Library for building declarative text-based user interfaces.
 - [yansi](https://github.com/SergioBenitez/yansi) - Dead simple ANSI terminal color painting library for Rust.
 - [inquire](https://github.com/mikaelmello/inquire) - Rust library for building interactive prompts.
+- [prodash](https://github.com/Byron/prodash) - Report progress of concurrent applications and display it in various ways.
 
 ## Web
 
@@ -2253,6 +2254,9 @@
 - [presser](https://github.com/EmbarkStudios/presser) - Utilities to help make copying data around into raw, possibly-uninitialized buffers easier and safer.
 - [ntpd-rs](https://github.com/memorysafety/ntpd-rs) - NTP implementation in Rust, supported by Internet Security Research Group's Prossimo project.
 - [copypasta](https://github.com/alacritty/copypasta) - Cross-platform Rust system clipboard library.
+- [pre](https://github.com/aticu/pre) - Rust library to help programmers correctly uphold preconditions for function calls.
+- [Thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium / WebDriver library for Rust, for automated website UI testing.
+- [syn-rsx](https://github.com/stoically/syn-rsx) - Syn-powered parser for JSX-like TokenStreams.
 
 ## Cargo Plugins
 
@@ -2354,6 +2358,7 @@
 - [cargo-docset](https://github.com/Robzz/cargo-docset) - Generate a Zeal/Dash docset for your Rust crate or workspace.
 - [cargo-cranky](https://github.com/ericseppanen/cargo-cranky) - Easy to configure wrapper for Rust's clippy.
 - [Cargo Sort](https://github.com/DevinR528/cargo-sort) - Tool to check that your Cargo.toml dependencies are sorted alphabetically.
+- [targo](https://github.com/sunshowers/targo) - Wraps cargo to move target directories to a central location.
 
 ## Notes
 

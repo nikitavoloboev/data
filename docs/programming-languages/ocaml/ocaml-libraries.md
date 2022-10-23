@@ -224,6 +224,7 @@ title: OCaml libraries
 - [OCaml macros](https://github.com/modular-macros/ocaml-macros)
 - [Shexp](https://github.com/janestreet/shexp) - Process library and s-expression based shell.
 - [Timere](https://github.com/daypack-dev/timere) - OCaml date time handling and reasoning suite.
+- [stramon](https://github.com/darrenldl/stramon) - Strace based program behavior monitor/analyzer.
 
 ## Links
 
@@ -241,3 +242,4 @@ title: OCaml libraries
 - [Networking experiments with OCaml 5's effects](https://github.com/TheLortex/networking-experiments)
 - [metaquot](https://github.com/thierry-martinez/metaquot) - OCaml syntax extension for quoting code.
 - [Effectful OCaml with Objects and Variants](https://github.com/polytypic/rea-ml)
+- [Sherlodoc](https://doc.sherlocode.com/) - Fuzzy search in OCaml's documentation for almost all opam packages. ([Code](https://github.com/art-w/sherlodoc))

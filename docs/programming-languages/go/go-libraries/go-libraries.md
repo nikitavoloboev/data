@@ -1846,6 +1846,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go.
 - [go-optional](https://github.com/moznion/go-optional) - Library that provides Go Generics friendly "optional" features.
 - [gowrtr](https://github.com/moznion/gowrtr) - Library that supports Go code generation.
+- [go-reflect](https://github.com/goccy/go-reflect) - Zero-allocation reflection library for Go.
 
 ## Links
 

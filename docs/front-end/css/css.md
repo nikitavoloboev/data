@@ -569,3 +569,4 @@ all: unset
 - [Pokemon Deckz](https://deck-24abcd.netlify.app/) - Collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. ([Code](https://github.com/simeydotme/pokemon-cards-css))
 - [The wasted potential of attribute selectors in CSS (2022)](https://elisehe.in/2022/10/16/attribute-selectors) ([Lobsters](https://lobste.rs/s/kfg4uc/wasted_potential_css_attribute))
 - [Let's Make One of Those Fancy Scrolling Animations Used on Apple Product Pages (2020)](https://css-tricks.com/lets-make-one-of-those-fancy-scrolling-animations-used-on-apple-product-pages/) ([Reddit](https://www.reddit.com/r/webdev/comments/y6b0av/how_is_this_animated_scrolling_behavior_made_what/))
+- [CSS reset for 2022 and beyond](https://github.com/mayank99/reset.css)

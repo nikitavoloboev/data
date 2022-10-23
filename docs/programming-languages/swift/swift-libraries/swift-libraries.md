@@ -278,6 +278,7 @@
 - [Rive iOS](https://github.com/rive-app/rive-ios) - iOS runtime library for Rive that supports both UIKit and SwiftUI.
 - [Yokoso](https://github.com/toshi0383/Yokoso) - Simple spotlight instruction framework for UIKit iOS.
 - [Parchment](https://github.com/k-kohey/Parchment-swift) - Event logger implemented in Swift.
+- [EZCustomNavigation](https://github.com/Enricoza/EZCustomNavigation) - Easy Custom Navigation Controller that allows popping view controllers with pan gesture from center too and UnPop them back in.
 
 ## macOS
 

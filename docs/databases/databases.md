@@ -706,3 +706,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [A Database Without Dynamic Memory Allocation (2022)](https://tigerbeetle.com/blog/a-database-without-dynamic-memory/) ([HN](https://news.ycombinator.com/item?id=33192288))
 - [Real-World Engineering Challenges: Migrations (2022)](https://newsletter.pragmaticengineer.com/p/real-world-engineering-challenges) ([HN](https://news.ycombinator.com/item?id=33232580))
 - [The B-Tree, LSM-Tree, and the Bw-Tree in Between (2022)](https://photondb.io/2022/08/15/bw-tree.html)
+- [Big Data Storage (2022)](https://berthub.eu/articles/posts/big-data-storage/)

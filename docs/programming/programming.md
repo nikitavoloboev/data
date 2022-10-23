@@ -606,3 +606,4 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [Ask HN: What's your favorite programmer niche? (2022)](https://news.ycombinator.com/item?id=33216078)
 - [Programming as play (2022)](https://austinhenley.com/blog/programmingasplay.html)
 - [On Coordinated Omission (2022)](https://resources.scylladb.com/scylladb-engineering/on-coordinated-omission)
+- [Refactor Like a Superhero Book (2022)](https://github.com/bespoyasov/refactor-like-a-superhero-online-book)

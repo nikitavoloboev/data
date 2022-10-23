@@ -252,6 +252,10 @@
 - [TelemetryDecorator](https://github.com/amplifiedai/telemetry_decorator) - Function decorator for telemetry.
 - [Image](https://github.com/kipcole9/image) - Image processing for Elixir.
 - [Tokenizers](https://github.com/elixir-nx/tokenizers) - Elixir bindings for Hugging Face Tokenizers.
+- [Vix](https://github.com/akash-akya/vix) - Elixir extension for libvips image processing library.
+- [ExCmd](https://github.com/akash-akya/ex_cmd) - Elixir library to run external programs and to communicate with back pressure.
+- [Exile](https://github.com/akash-akya/exile) - Alternative to ports for running external programs. It provides back-pressure, non-blocking io, and tries to fix ports issues.
+- [Exq Scheduler](https://github.com/activesphere/exq-scheduler) - Cron like job scheduler for Exq, it's also compatible with Sidekiq and Resque.
 
 ## Links
 

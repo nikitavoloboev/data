@@ -436,3 +436,4 @@
 - [Musika](https://github.com/marcoppasini/musika) - Fast Infinite Waveform Music Generation.
 - [PlugData](https://github.com/timothyschoen/PlugData) - Plugin wrapper around Pure Data to allow patching in a wide selection of DAWs. ([HN](https://news.ycombinator.com/item?id=33302905))
 - [Deej-AI](https://github.com/teticio/Deej-AI) - Create automatic playlists by using Deep Learning to listen to the music.
+- [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) - Colab notebooks demonstrating prompt-based music generation via Mubert API.
