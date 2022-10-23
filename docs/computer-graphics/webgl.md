@@ -117,3 +117,4 @@
 - [WebGL GLTF loader](https://github.com/larsjarlvik/webgl-gltf)
 - [Litegl.js](https://github.com/jagenjo/litegl.js) - Lightweight Javascript WebGL library for handling Context, Meshes, Textures and Shaders. Relies on glMatrix 2.0, very easy to use.
 - [Horizontal Gallery WebGL](https://github.com/davidhckh/horizontal-gallery-webgl)
+- [Building an interactive WebGL experience in Next.js (2022)](https://vercel.com/blog/building-an-interactive-webgl-experience-in-next-js)

@@ -8,7 +8,7 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 
 [Sergey Kharkow](https://www.instagram.com/sergeykharkow/) has the ideal body type in my eyes but it's a lot of effort to get/maintain it. [Fitness Wiki](https://thefitness.wiki/) is a [great read](https://www.reddit.com/r/leangains/comments/uwqhu1/how_do_i_go_from_skinny_fat_to_a_lean_build/).
 
-[Andy Galpin's interview](https://www.youtube.com/watch?v=IAnhFUUCq6c&t=500s) is insightful.
+[Andy Galpin's interview](https://www.youtube.com/watch?v=IAnhFUUCq6c&t=500s) is insightful. [Huberman's fitness program](https://twitter.com/hubermanlab/status/1584198119083810816) is great.
 
 ## Notes
 
@@ -78,3 +78,4 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [Can I get the "gym shape" without going to the gym?](https://www.reddit.com/r/Fitness/comments/w30mxc/can_i_get_the_gym_shape_without_going_to_the_gym/)
 - [70 Pages of Fitness Notes - A Collection](https://docsend.com/view/t2mth9ew87b8fixa) ([Reddit](https://www.reddit.com/r/Fitness/comments/w8nq4y/heres_70_pages_of_notes_ive_taken_from_20/))
 - [Fitness tips](https://twitter.com/chrisboettcher9/status/1579804058461753344)
+- [Fitness Toolkit: Protocol & Tools to Optimize Physical Health](https://hubermanlab.com/fitness-toolkit-protocol-and-tools-to-optimize-physical-health/) ([Tweet](https://twitter.com/hubermanlab/status/1584198119083810816))

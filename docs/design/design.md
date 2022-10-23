@@ -246,3 +246,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Readymag](https://readymag.com/) - Design tool to create websites without coding.
 - [10 Principles of Good Design by Dieter Rams](https://twitter.com/FonsMans/status/1568103862317236227)
 - [10 practical tips for improving your text layout](https://twitter.com/danqing_liu/status/1576997489529344001)
+- [Rotato](https://rotato.app/) - Mockup Generator & Animator 3D. ([In use](https://twitter.com/0xca0a/status/1583504417004789763))

@@ -110,3 +110,4 @@ title: Figma
 - [Why I love Figma](https://twitter.com/realvjy/status/1582359449963966464)
 - [Figma Component Properties](https://twitter.com/Ridderingand/status/1582401159297236993)
 - [FigJam Force Directed Graph](https://github.com/rodydavis/figjam-force-directed-graph)
+- [Design system Figma doc](https://twitter.com/dwr/status/1584244428289417218)

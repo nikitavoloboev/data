@@ -142,3 +142,4 @@ title: BitTorrent
 - [stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission.
 - [bt-fetch](https://github.com/RangerMauve/bt-fetch) - Interact with Bittorrent the same way you would websites via fetch.
 - [LinuxServer.io qBittorrent](https://github.com/linuxserver/docker-qbittorrent)
+- [Ask HN: I've Built a DHT Torrent Sniffer and Search Engine. Should I Release? (2022)](https://news.ycombinator.com/item?id=33305671)

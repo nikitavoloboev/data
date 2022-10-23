@@ -19,7 +19,7 @@ title: OCaml libraries
 - [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) - OCaml library for HTTP clients and servers using Lwt or Async.
 - [Async_http](https://github.com/anuragsoni/async_http) - Simple HTTP server for async applications.
 - [Pollinate](https://github.com/marigold-dev/pollinate) - Platform agnostic OCaml library for P2P communications using UDP and Bin_prot.
-- [Bonsai](https://github.com/janestreet/bonsai) - Library for building interactive browser-based UI.
+- [Bonsai](https://github.com/janestreet/bonsai) - Library for building interactive browser-based UI. ([Web](https://bonsai.red/)) ([Setting up Bonsai](https://ceramichacker.com/blog/30-4x-setting-up-bonsai))
 - [ocaml-dispatch](https://github.com/inhabitedtype/ocaml-dispatch) - Path-based dispatching for client- and server-side applications.
 
 ## Test

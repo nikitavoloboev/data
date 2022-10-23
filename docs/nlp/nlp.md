@@ -672,3 +672,4 @@
 - [concepCy](https://github.com/JulesBelveze/concepcy) - SpaCy wrapper for ConceptNet.
 - [AliceMind](https://github.com/alibaba/AliceMind) - ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab.
 - [CrossRE: A Cross-Domain Dataset for Relation Extraction (2022)](https://arxiv.org/abs/2210.09345) ([Code](https://github.com/mainlp/CrossRE))
+- [Scaling Instruction-Finetuned Language Models (2022)](https://arxiv.org/abs/2210.11416) ([Tweet](https://twitter.com/quocleix/status/1583523186376785921)) ([Tweet](https://twitter.com/SamuelAlbanie/status/1584257440891416576))

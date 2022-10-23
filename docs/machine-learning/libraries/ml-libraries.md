@@ -410,3 +410,4 @@ title: ML Libraries
 - [be_great](https://github.com/kathrinse/be_great) - Novel approach for synthesizing tabular data using pretrained large language models.
 - [TabSurvey](https://github.com/kathrinse/TabSurvey) - Experiments on Tabular Data Models.
 - [pocoMC](https://github.com/minaskar/pocomc) - Python implementation of Preconditioned Monte Carlo for accelerated Bayesian Computation.
+- [WTTE-RNN](https://github.com/ragulpr/wtte-rnn) - Framework for churn and time to event prediction.

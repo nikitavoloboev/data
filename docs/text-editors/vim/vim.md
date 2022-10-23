@@ -323,3 +323,4 @@ zz
 - [nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim.
 - [Neovim 0.8 Released (2022)](https://news.ycombinator.com/item?id=33037151) ([Summary](https://www.youtube.com/watch?v=TX_uOJiIjcM))
 - [Ask HN: How to become good at Emacs/Vim? (2022)](https://news.ycombinator.com/item?id=33211369)
+- [Interactive Vim tutorial](https://www.openvim.com/) ([HN](https://news.ycombinator.com/item?id=33306778))

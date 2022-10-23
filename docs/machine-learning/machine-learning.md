@@ -957,3 +957,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Complete Machine Learning Package](https://github.com/Nyandwi/machine_learning_complete) - Comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
 - [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second (2022)](https://arxiv.org/abs/2207.01848) ([Code](https://github.com/automl/TabPFN))
 - [Matérn Gaussian Processes on Graphs (2021)](https://arxiv.org/abs/2010.15538) ([Code](https://github.com/spbu-math-cs/Graph-Gaussian-Processes))
+- [How to model and predict churn using deep learning (2016)](https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling/) ([Tweet](https://twitter.com/bernhardsson/status/1584260214986985474))

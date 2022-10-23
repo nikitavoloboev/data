@@ -270,3 +270,4 @@
 - [The Curious Case of String.slice/3 (2022)](https://adworse.codes/the-curious-case-of-string-slice-3/)
 - [Safe Ecto Migrations](https://github.com/fly-apps/safe-ecto-migrations) - Non-exhaustive guide on common migration recipes and how to avoid trouble.
 - [GitHooks](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
+- [Introduction to Mix](https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
