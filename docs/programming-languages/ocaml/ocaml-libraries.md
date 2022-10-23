@@ -223,6 +223,7 @@ title: OCaml libraries
 - [agrep](https://github.com/xavierleroy/ocamlagrep) - String searching with errors, using the Wu-Manber algorithm.
 - [OCaml macros](https://github.com/modular-macros/ocaml-macros)
 - [Shexp](https://github.com/janestreet/shexp) - Process library and s-expression based shell.
+- [Timere](https://github.com/daypack-dev/timere) - OCaml date time handling and reasoning suite.
 
 ## Links
 
