@@ -65,3 +65,4 @@ title: Observability
 - [Coralogix](https://coralogix.com/) - Full-Stack Observability Platform with In-Stream Data Analytics.
 - [Metalens](https://github.com/nbaksalyar/metalens) - Stream-based visual programming language for systems observability. Live Programming and Visualizing eBPF.
 - ["Building Observability for 99% Developers" by Jean Yang (2022)](https://www.youtube.com/watch?v=UJA4PGKny2k)
+- [Open Data Discovery](https://opendatadiscovery.org/) - Open source data discovery and observability platform. ([HN](https://news.ycombinator.com/item?id=33297641))

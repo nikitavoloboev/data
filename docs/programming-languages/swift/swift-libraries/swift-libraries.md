@@ -277,6 +277,7 @@
 - [Shiny](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
 - [Rive iOS](https://github.com/rive-app/rive-ios) - iOS runtime library for Rive that supports both UIKit and SwiftUI.
 - [Yokoso](https://github.com/toshi0383/Yokoso) - Simple spotlight instruction framework for UIKit iOS.
+- [Parchment](https://github.com/k-kohey/Parchment-swift) - Event logger implemented in Swift.
 
 ## macOS
 
@@ -1279,6 +1280,7 @@
 - [QRCode](https://github.com/dmrschmidt/QRCode) - QR Code Generator in Swift.
 - [CalendarKit](https://github.com/richardtop/CalendarKit) - Swift calendar UI library for iOS and Mac Catalyst.
 - [SundialKit](https://github.com/brightdigit/SundialKit) - Reactive communications library across Apple platforms.
+- [Screenshots](https://github.com/blackbeltlabs/Screenshots) - Swift framework for taking screenshots.
 
 ## Other (not lib)
 

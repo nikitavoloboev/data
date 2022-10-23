@@ -74,7 +74,7 @@ title: SQL
 - [SQL Templates](https://popsql.com/sql-templates)
 - [PopSQL](https://popsql.com/) - Collaborative SQL editor for teams.
 - [Nested SQL Queries](https://leontrolski.github.io/nested-sql.html)
-- [GlueSQL](https://github.com/gluesql/gluesql) - SQL Database Engine as a Library.
+- [GlueSQL](https://github.com/gluesql/gluesql) - SQL Database Engine as a Library. ([HN](https://news.ycombinator.com/item?id=33303133))
 - [TS SQL](https://github.com/codemix/ts-sql) - SQL database implemented purely in TypeScript type annotations. ([Tweet](https://twitter.com/c_pick/status/1307433762914009090)) ([HN](https://news.ycombinator.com/item?id=24615185))
 - [Simple Anomaly Detection Using Plain SQL (2020)](https://hakibenita.com/sql-anomaly-detection) ([Lobsters](https://lobste.rs/s/q1hh1g/simple_anomaly_detection_using_plain_sql)) ([HN](https://news.ycombinator.com/item?id=25731699))
 - [A Short Story About SQL’s Biggest Rival (2020)](https://www.holistics.io/blog/quel-vs-sql/?) ([HN](https://news.ycombinator.com/item?id=24730713))

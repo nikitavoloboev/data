@@ -164,6 +164,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [recma-nextjs-static-props](https://github.com/remcohaszing/recma-nextjs-static-props) - Expose top-level identifiers in Next.js app.js.
 - [Connected Next Router](https://github.com/danielr18/connected-next-router) - Redux binding for Next.js Router compatible with Next.js.
 - [next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js.
+- [NextJS Google Analytics](https://github.com/MauricioRobayo/nextjs-google-analytics)
 
 ## Notes
 
@@ -397,3 +398,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [NextJS Lambda Utils](https://github.com/sladg/nextjs-lambda) - Wrapper for NextJS image handling, optimized for Lambda w/ ApiGw integration.
 - [The Worst of T3 Stack (2022)](https://www.youtube.com/watch?v=-R9uHm0G5m4)
 - [next-real-viewport](https://github.com/basementstudio/next-real-viewport) - No more horizontal scroll when using 100vw.
+- [Ideas from Laravel in NextJS](https://twitter.com/m1guelpf/status/1583863982380617728)

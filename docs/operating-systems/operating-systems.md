@@ -168,6 +168,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [camellia](https://github.com/dzwdz/camellia) - Experimental, work-in-progress, microkernel based on some of my ideas for privilege separation.
 - [Xous Core](https://github.com/betrusted-io/xous-core) - Microkernel operating system.
 - [Osmium](https://github.com/moratorium08/osmium) - Operating System written in Rust on RISC V.
+- [octox](https://github.com/o8vm/octox) - Unix-like operating system inspired by xv6-riscv.
 
 ## Notes
 

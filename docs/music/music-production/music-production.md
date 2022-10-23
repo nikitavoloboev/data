@@ -434,3 +434,5 @@
 - [Multi-instrument Music Synthesis with Spectrogram Diffusion (2022)](https://arxiv.org/abs/2206.05408) ([Code](https://github.com/magenta/music-spectrogram-diffusion))
 - [Beat Transformer: Demixed Beat and Downbeat Tracking with Dilated Self-Attention (2022)](https://arxiv.org/abs/2209.07140) ([Code](https://github.com/zhaojw1998/Beat-Transformer))
 - [Musika](https://github.com/marcoppasini/musika) - Fast Infinite Waveform Music Generation.
+- [PlugData](https://github.com/timothyschoen/PlugData) - Plugin wrapper around Pure Data to allow patching in a wide selection of DAWs. ([HN](https://news.ycombinator.com/item?id=33302905))
+- [Deej-AI](https://github.com/teticio/Deej-AI) - Create automatic playlists by using Deep Learning to listen to the music.

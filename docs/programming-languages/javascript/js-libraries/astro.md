@@ -65,3 +65,4 @@ title: Astro
 - [Astro + MiniSearch](https://github.com/Barnabas/astro-minisearch)
 - [Astro-Compress](https://github.com/astro-community/astro-compress) - AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
 - [Astro PWA](https://github.com/vite-pwa/astro) - Zero-config PWA Integration for Astro.
+- [Awesome Astro](https://github.com/one-aalam/awesome-astro)

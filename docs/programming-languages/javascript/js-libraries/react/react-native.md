@@ -310,3 +310,4 @@ title: React Native
 - [React-Native-Avoid-Soft-Input](https://github.com/mateusz1913/react-native-avoid-softinput) - Native solution for common React Native problem of focused views being covered by soft input view.
 - [React Native iOS Context Menu](https://github.com/dominicstop/react-native-ios-context-menu)
 - [Preact-Native](https://github.com/barelyhuman/preact-native) - Experimental renderer for preact to work with react-native.
+- [Rive React Native](https://github.com/rive-app/rive-react-native) - React Native runtime library for Rive.

@@ -154,6 +154,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Threatest](https://github.com/DataDog/threatest) - Go framework for testing threat detection end-to-end.
 - [test](https://github.com/shoenig/test) - Modern generic testing assertions library for Go.
 - [golden](https://github.com/tenntenn/golden) - Utilities for golden file tests.
+- [Snapshot](https://github.com/kodiiing/snapshot) - Simple utility to do snapshot testing in Go.
 
 ## Web
 
@@ -1998,3 +1999,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Depguard](https://github.com/OpenPeeDeeP/depguard) - Go linter that checks if package imports are in a list of acceptable packages.
 - [Migrating our monorepo seamlessly from Dep to Go Modules (2022)](https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules)
 - [ORM vs SQL Builder in Go (2022)](https://www.reddit.com/r/golang/comments/y5obc7/orm_vs_sql_builder_in_go/)
+- [oa3](https://github.com/aarondl/oa3) - Generates HTTP endpoint stubs and supporting models from OpenAPI 3 specs.

@@ -11,6 +11,7 @@ title: Three.js
 - [R3F Playground - Refraction](https://r3f.maximeheckel.com/refraction)
 - [My Room in 3D](https://my-room-in-3d.vercel.app/) ([Code](https://github.com/brunosimon/my-room-in-3d)) ([HN](https://news.ycombinator.com/item?id=28496650))
 - [Solar Storm](https://solarstorm.netlify.app/) - Audio reactive scene built with React Three Fiber. ([Code](https://github.com/winkerVSbecks/solarstorm))
+- [Hello Worlds](https://github.com/kenjinp/hello-worlds) - Virtual JS worlds at planetary scales.
 
 ## Links
 

@@ -258,6 +258,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [dobby](https://github.com/ly0va/dobby) - Homemade table-oriented (but not really relational) database engine with a modular design.
 - [NucliaDB](https://github.com/nuclia/nucliadb) - Cloud-native database for unstructured data, indexing vectors, text, paragraphs and relations.
 - [PhotonDB](https://github.com/photondb/photondb) - Storage engine for modern hardware, built from scratch in Rust.
+- [RadonDB](https://github.com/radondb/radon) - Open source, Cloud-native MySQL database for unlimited scalability and performance.
 
 ## Tools
 

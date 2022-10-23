@@ -223,6 +223,7 @@
 - [BSplines](https://github.com/sostock/BSplines.jl) - Data types and functions for working with B-splines as a means to approximate real functions.
 - [BasicBSpline.jl](https://github.com/hyrodium/BasicBSpline.jl) - Basic (mathematical) operations for B-spline functions and related things with julia.
 - [FastGaussQuadrature.jl](https://github.com/JuliaApproximation/FastGaussQuadrature.jl) - Julia package for Gaussian quadrature.
+- [PolyChaos](https://github.com/SciML/PolyChaos.jl) - Orthogonal Polynomials, Quadrature, and Polynomial Chaos.
 
 ## NLP
 

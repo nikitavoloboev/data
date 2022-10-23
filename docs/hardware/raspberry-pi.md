@@ -132,3 +132,4 @@ title: Raspberry Pi
 - [Laser device for neutralizing - mosquitoes, asian hornet, weeds and pests](https://github.com/Ildaron/Laser_control)
 - [PicoHTTPServer](https://github.com/sysprogs/PicoHTTPServer) - Turns your Raspberry Pi Pico W into a Wi-Fi access-point. Allowing to control individual pins of the board.
 - [Go-Pico](https://github.com/djthorpe/go-pico) - Raspberry Pi RP2040 Pico SDK for Go.
+- [The Raspberry Pi 400 in My Bedroom (2022)](https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html) ([HN](https://news.ycombinator.com/item?id=33302748))

@@ -166,3 +166,5 @@ title: Tailwind CSS
 - [Impulse](https://impulse.dev/) - Impossible Dev Tools for React and Tailwind. ([Code](https://github.com/impulse-oss/impulse))
 - [Example Showcase - Tailwind CSS](https://tailwindcss.com/showcase)
 - [Preline UI](https://preline.co/) - Open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. ([Code](https://github.com/htmlstreamofficial/preline))
+- [Tailwind CSS v3.2: revisiting my “feature creep” warning (2022)](https://www.brycewray.com/posts/2022/10/tailwind-css-v3-2-revisiting-feature-creep-warning/) ([HN](https://news.ycombinator.com/item?id=33298806))
+- [TailwindCSS-Fluid-Type](https://github.com/davidhellmann/tailwindcss-fluid-type) - Plugin that makes the use of Fluid Type a breeze.

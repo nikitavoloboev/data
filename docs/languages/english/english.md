@@ -37,3 +37,4 @@ Some interesting words I like:
 - [The writers who translated Goethe became some of the best writers in English (2022)](https://www.neh.gov/article/cult-goethe) ([HN](https://news.ycombinator.com/item?id=30523802))
 - [Urban Dictionary Word List](https://github.com/mattbierner/urban-dictionary-word-list)
 - [Tutors / tips to change your English accent (2022)](https://news.ycombinator.com/item?id=32375394)
+- [Word Ninja](https://github.com/keredson/wordninja) - Probabilistically split concatenated words using NLP based on English Wikipedia unigram frequencies.

@@ -123,3 +123,4 @@
 - [Hexerator](https://github.com/crumblingstatue/hexerator) - Versatile GUI hex editor focused on binary file exploration and aiding pattern recognition.
 - [Reverse Engineering a Cat Feeder to Boost Productivity](https://www.sensibledefaults.io/blog/reverse-engineering-cat-feeder/index) ([HN](https://news.ycombinator.com/item?id=33139062))
 - [Reverse Engineering the Apple MultiPeer Connectivity Framework (2022)](https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/)
+- [Artfuscator](https://github.com/JuliaPoo/Artfuscator) - C compiler targeting an artistically pleasing nightmare for reverse engineers.

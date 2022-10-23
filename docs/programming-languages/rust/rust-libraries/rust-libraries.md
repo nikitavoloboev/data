@@ -61,6 +61,7 @@
 - [Anathema](https://github.com/togglebyte/anathema) - TUI library in Rust with a custom templating language and runtime.
 - [Intuitive](https://github.com/enricozb/intuitive) - Library for building declarative text-based user interfaces.
 - [yansi](https://github.com/SergioBenitez/yansi) - Dead simple ANSI terminal color painting library for Rust.
+- [inquire](https://github.com/mikaelmello/inquire) - Rust library for building interactive prompts.
 
 ## Web
 
@@ -225,6 +226,7 @@
 - [cargo component](https://github.com/bytecodealliance/cargo-component) - Cargo subcommand for creating WebAssembly components based on the component model proposal.
 - [wasm-instrument](https://github.com/paritytech/wasm-instrument) - Instrument and transform wasm modules.
 - [wasm_thread](https://github.com/chemicstry/wasm_thread) - Rust `std::thread` replacement for wasm32 target.
+- [idb](https://github.com/devashishdxt/idb) - Futures based crate for interacting with IndexedDB on browsers using WebAssembly.
 
 ## GUI
 
@@ -350,6 +352,7 @@
 - [ekv](https://github.com/Dirbaio/ekv) - Key-value store for embedded systems, for raw NOR flash, using an LSM-Tree.
 - [linked-hash-map](https://github.com/contain-rs/linked-hash-map) - HashMap wrapper that holds key-value pairs in insertion order.
 - [zerocopy](https://github.com/google/zerocopy) - Safe zero-copy parsing and serialization.
+- [leveldb-rs](https://github.com/dermesser/leveldb-rs) - Fully compatible implementation of LevelDB in Rust.
 
 ## Video
 
@@ -862,6 +865,7 @@
 - [comparable](https://github.com/jwiegley/comparable) - Library for comparing data structures in Rust, oriented toward testing.
 - [Virtue](https://github.com/bincode-org/virtue) - Sinless derive macro helper.
 - [autobox](https://github.com/insanitybit/autobox) - Compile time analysis for runtime sandboxing.
+- [Inter-Struct](https://github.com/Nukesor/inter-struct) - Automatically generated traits for operations between arbitrary structs.
 
 ## Math
 

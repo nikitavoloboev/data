@@ -413,3 +413,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Type Hunting](https://typehunting.com/) - Archive of found typography.
 - [Fontaine](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics. ([Tweet](https://twitter.com/danielcroe/status/1581428654479138817))
 - [Fontra](https://github.com/BlackFoundryCom/fontra) - Browser-based font editor.
+- [COSMIC Text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text shaping and rendering for COSMIC.

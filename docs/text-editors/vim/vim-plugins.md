@@ -85,6 +85,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Hydra.nvim](https://github.com/anuvyklack/hydra.nvim) - Bind a bunch of key bindings together.
 - [iron.nvim](https://github.com/hkupty/iron.nvim) - Interactive Repl Over Neovim.
 - [Leap.nvim](https://github.com/ggandor/leap.nvim) - Motion plugin that keeps you in the zone. ([HN](https://news.ycombinator.com/item?id=33134113))
+- [flit.nvim](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap.
 - [vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - Plugin designed to make you better at vim by creating a game to practice basic movements in.
 - [context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents.
 - [Quick scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement.

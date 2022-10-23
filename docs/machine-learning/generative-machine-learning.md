@@ -111,3 +111,5 @@
 - [Stability.AI Easy Diffusion](https://github.com/WASasquatch/easydiffusion) - Google Colab Notebook designed to be a relatively easy to use all-in-one suite for stable diffusion.
 - [Why we chose not to release Stable Diffusion 1.5 as quickly (2022)](https://danieljeffries.substack.com/p/why-the-future-of-open-source-ai) ([HN](https://news.ycombinator.com/item?id=33283712))
 - [A Survey on Generative Diffusion Model (2022)](https://arxiv.org/abs/2209.02646) ([Code](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model))
+- [Making a Video from Prompts with Stable Diffusion](https://github.com/johnrobinsn/diffusion_experiments)
+- [Maple Diffusion](https://github.com/mortenjust/maple-diffusion) - Stable Diffusion inference on iOS / macOS using MPSGraph.

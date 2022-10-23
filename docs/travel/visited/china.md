@@ -104,3 +104,5 @@ Cities like Shanghai and Guangzhou fascinate me, would love to live there one da
 - [China DNS](https://github.com/riaqn/china-dns) - DNS proxy preventing poisoning and CDN-friendly.
 - [China and USA Are Officially At Economic War (2022)](https://semianalysis.substack.com/p/china-and-usa-are-officially-at-economic) ([Tweet](https://twitter.com/dylan522p/status/1578660057243586561))
 - [Biden declares economic war on the Chinese semiconductor industry (2022)](https://noahpinion.substack.com/p/biden-declares-economic-war-on-the) ([Tweet](https://twitter.com/Noahpinion/status/1581595773963104256))
+- [Summary of Communist Party Congress (2022)](https://twitter.com/JChengWSJ/status/1583971715163586562)
+- [How the Chinese Communist Party Works (2022)](https://www.youtube.com/watch?v=vre_yhZXPVU)

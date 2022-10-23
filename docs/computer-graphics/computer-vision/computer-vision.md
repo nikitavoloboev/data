@@ -972,3 +972,5 @@
 - [Adaptive Token Sampling For Efficient Vision Transformers (2022)](https://arxiv.org/abs/2111.15667) ([Code](https://github.com/adaptivetokensampling/ATS))
 - [Understanding Pure CLIP Guidance for Voxel Grid NeRF Models (2022)](https://arxiv.org/abs/2209.15172) ([Code](https://github.com/hanhung/PureCLIPNeRF))
 - [Real-Time Neural Character Rendering with Pose-Guided Multiplane Images (2022)](https://arxiv.org/abs/2204.11820) ([Code](https://github.com/ken-ouyang/PGMPI))
+- [Subspace Regularizers for Few-Shot Class Incremental Learning (2022)](https://arxiv.org/abs/2110.07059) ([Code](https://github.com/feyzaakyurek/subspace-reg))
+- [Exploring Long-Sequence Masked Autoencoders (2022)](https://arxiv.org/abs/2210.07224) ([Code](https://github.com/facebookresearch/long_seq_mae))

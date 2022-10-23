@@ -224,3 +224,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Hides your scraper behind a cloud. ([Web](http://scrapoxy.io/))
 - [Instahunter](https://github.com/araekiel/instahunter) - CLI OSINT app that can fetch data from Instagram's Web API without authentication.
 - [sico](https://github.com/andygrunwald/sico) - Sitemap comparison tool.
+- [Scalpel](https://github.com/fimad/scalpel) - High level web scraping library for Haskell.

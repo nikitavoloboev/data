@@ -88,3 +88,4 @@ I practice self reflection (via journaling) & meditation (walks in nature) to ge
 - [Nick Lane on Origins of Life, Consciousness, Alien Life, Krebs Cycle, and Evolution (2022)](https://www.youtube.com/watch?v=4vqYJIyBis0)
 - [What is it like to have a brain? Ways of looking at consciousness (2022)](https://lareviewofbooks.org/article/what-is-it-like-to-have-a-brain-on-patrick-houses-nineteen-ways-of-looking-at-consciousness/) ([HN](https://news.ycombinator.com/item?id=33169040))
 - [The "Hard Problem" of Consciousness with David Chalmers](https://www.youtube.com/watch?v=xy2vzhwdkpM)
+- [Some people who appear to be in a coma may be conscious](https://www.scientificamerican.com/article/some-people-who-appear-to-be-in-a-coma-may-actually-be-conscious/) ([HN](https://news.ycombinator.com/item?id=33299419))

@@ -117,3 +117,4 @@ I prefer using [EdgeDB](edgedb.md) for all my DB needs, it has a [better way to 
 - [Prisma Yup Generator](https://github.com/omar-dulaimi/prisma-yup-generator) - Prisma 2+ generator to emit Yup schemas from your Prisma schema.
 - [Prisma Util](https://github.com/DavidHancu/prisma-util) - Merge multiple Prisma schema files, model inheritance, resolving name conflicts and timings reports, all in a simple tool.
 - [Prisma Generator Pothos Codegen](https://github.com/Cauen/prisma-generator-pothos-codegen)
+- [Jest-Prisma](https://github.com/Quramy/jest-prisma) - Jest environment for integrated testing with Prisma client.

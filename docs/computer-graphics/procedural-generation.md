@@ -58,3 +58,4 @@
 - [Vulkan infinite procedurally generated terrain](https://github.com/SaschaWillems/VulkanInfiniteProceduralTerrain)
 - [Material Map Generator](https://github.com/joeyballentine/Material-Map-Generator) - Easily create AI generated Normal maps, Displacement maps, and Roughness maps.
 - [Simulating Wind on Procedural Terrain Using Lattice Boltzmann Method (2022)](https://nickmcd.me/2022/10/01/procedural-wind-and-clouds-using-gpu-accelerated-lattice-boltzmann-method/) ([HN](https://news.ycombinator.com/item?id=33137225))
+- [Slow Roads](https://slowroads.io/) - Chill driving game with procedurally generate scenic landscapes. ([HN](https://news.ycombinator.com/item?id=33305234))
