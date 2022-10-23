@@ -98,3 +98,4 @@ And here are Chrome extensions I use:
 - [Chrome Extension Boilerplate with React + Vite + TypeScript](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)
 - [chrome-types](https://github.com/GoogleChrome/chrome-types) - Code to parse Chrome's internal extension type definitions.
 - [Chrome Extension Boilerplate with SolidJS + Vite + TypeScript + Manifest V3 + HMR](https://github.com/munron/mv3-solid-chrome-extension-template)
+- [Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals (2022)](https://jhalon.github.io/chrome-browser-exploitation-1/)

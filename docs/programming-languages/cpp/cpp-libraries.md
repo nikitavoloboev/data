@@ -441,6 +441,7 @@
 - [SPU](https://github.com/secretflow/spu) - Secure Processing Unit.
 - [BaSpaCho](https://github.com/facebookresearch/baspacho) - Direct solver for symmetric positive-definite sparse matrices designed for mathematical optimization. It implements supernodal Cholesky decomposition algorithm, and has GPU support.
 - [archimedes](https://github.com/jdah/archimedes) - C++ reflection via code generation.
+- [tiny::optional](https://github.com/Sedeniono/tiny-optional) - Replacement for std::optional that does not unnecessarily waste memory.
 
 ## Links
 

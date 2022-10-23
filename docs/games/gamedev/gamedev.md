@@ -292,3 +292,4 @@
 - [The Journey to Nanite - Brian Karis, Epic Games (2022)](https://www.youtube.com/watch?v=NRnj_lnpORU)
 - [I learned to love testing game code](https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/) ([HN](https://news.ycombinator.com/item?id=32802402))
 - [What it takes to make a game by yourself (2022)](https://dillonshook.com/what-it-takes-to-make-a-game-by-yourself/) ([HN](https://news.ycombinator.com/item?id=32851196))
+- [A Last Gasp of 2D: The Cave CV1000 (2022)](https://nicole.express/2022/games-made-in-a-cave.html)

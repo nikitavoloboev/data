@@ -147,3 +147,4 @@ I love all animals. And I am sad that some people decide to eat them and not [le
 - [The Depths Below / Twitter](https://twitter.com/DepthsBeIow)
 - [Austin's photos of cats](https://www.instagram.com/cloudformedia/)
 - [Eels are fascinating](https://twitter.com/DrEmilyFinch/status/1582299378655850499)
+- [Women who are absolutely fed up with everyone and everything except their cats](https://twitter.com/CatsOfYore/status/1584055075369934848)

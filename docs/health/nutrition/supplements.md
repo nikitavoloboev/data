@@ -2,7 +2,7 @@
 
 Supplements I try take daily are inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/).
 
-- [Vegan Omega 3 DHA & EPA via Algal oil](https://www.uganutraceuticals.com/product/omegor-veg) (3 capsules)
+- [Vegan Omega 3 DHA & EPA via Algal oil](https://www.uganutraceuticals.com/product/omegor-veg) (1 capsule)
 - [Vitamin D3 + K2](https://www.amazon.com/Bronson-Vitamin-Supplement-Support-Capsules/dp/B0792Z6434) (1 capsule)
 - [Magnesium](https://nootropicsdepot.com/magtein-magnesium-l-threonate-capsules/) (1 capsule)
 

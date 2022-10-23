@@ -57,3 +57,4 @@ title: Kotlin
 - [My favorite Kotlin feature (2022)](https://nomisrev.github.io/inline-and-suspend/)
 - [Continuation in Kotlin (2021)](https://nomisrev.github.io/continuation-monad-in-kotlin/)
 - [Kotlin grammar for Tree-Sitter](https://github.com/fwcd/tree-sitter-kotlin)
+- [Google's Journey from Java to Kotlin for Server Side Programming (2022)](https://www.youtube.com/watch?v=o14wGByBRAQ)
