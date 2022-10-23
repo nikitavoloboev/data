@@ -879,3 +879,4 @@ if *boolArgPtr != false {
 - [Incremental parsing in go (2022)](https://dev-nonsense.com/posts/incremental-parsing-in-go/) ([HN](https://news.ycombinator.com/item?id=33298253))
 - [Slides and Links for 2022 GopherCon talks](https://github.com/gophercon/2022-talks)
 - [GopherCon](https://www.gophercon.com/) ([GitHub](https://github.com/gophercon))
+- [GoLang Tutorials Blog](https://golangdocs.com/)

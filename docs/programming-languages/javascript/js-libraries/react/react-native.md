@@ -311,3 +311,4 @@ title: React Native
 - [React Native iOS Context Menu](https://github.com/dominicstop/react-native-ios-context-menu)
 - [Preact-Native](https://github.com/barelyhuman/preact-native) - Experimental renderer for preact to work with react-native.
 - [Rive React Native](https://github.com/rive-app/rive-react-native) - React Native runtime library for Rive.
+- [Rust + React Native](https://github.com/osdnk/react-native-jsi-meets-rust)

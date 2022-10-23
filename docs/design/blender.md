@@ -99,3 +99,4 @@ title: Blender
 - [Blender x NeRF](https://github.com/maximeraafat/BlenderNeRF) - User friendly Blender add-on for NeRF synthetic dataset creation.
 - [Stable Diffusion in Blender](https://github.com/benrugg/AI-Render)
 - [Ask HN: Recommend me a Blender course (2022)](https://news.ycombinator.com/item?id=33273022)
+- [ST2](https://github.com/coldtype/st2) - Coldtype as an addon for Blender.

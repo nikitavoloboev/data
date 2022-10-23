@@ -371,7 +371,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [How to Improve Your Static Site's Typography (2022)](https://www.georgeho.org/static-site-typography/)
 - [ot-builder](https://github.com/ot-builder/monorepo) - TypeScript library that manipulates OpenType fonts.
 - [Google Fonts Complete](https://github.com/jonathantneal/google-fonts-complete) - Complete list of Google Web Fonts and their sources.
-- [Coldtype](https://github.com/goodhertz/coldtype) - Cross-platform display typography in python.
+- [Coldtype](https://github.com/goodhertz/coldtype) - Cross-platform display typography in python. ([Web](https://coldtype.xyz/))
 - [Font Dimensions](https://fvar.unsoundscapes.com/) - Visualize dimensions of a variable font in the browser. ([Code](https://github.com/w0rm/elm-font-dimensions))
 - [Design With FontForge](http://designwithfontforge.com/en-US/index.html) - Book about how to design new typefaces with FontForge. ([Code](https://github.com/fontforge/designwithfontforge.com))
 - [Best Font for Online Reading: No Single Answer (2022)](https://www.nngroup.com/articles/best-font-for-online-reading/) ([HN](https://news.ycombinator.com/item?id=31156018))

@@ -67,3 +67,4 @@ title: PureScript
 - [PureScript QuickCheck](https://github.com/purescript/purescript-quickcheck)
 - [PureScript Easy FFI](https://github.com/pelotom/purescript-easy-ffi)
 - [Tecton](https://github.com/nsaunders/purescript-tecton) - CSS in PureScript.
+- [purescript-codec](https://github.com/garyb/purescript-codec) - General purpose bi-directional codecs.
