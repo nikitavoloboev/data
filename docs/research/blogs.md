@@ -188,6 +188,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Graham King](https://darkcoding.net/)
 - [Andy Wingo](https://wingolog.org/)
 - [Bert Hubert](https://berthub.eu/articles/)
+- [Maggie Appleton](https://maggieappleton.com/essays)
 
 ## Notes
 

@@ -239,3 +239,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Generative art using Haskell](https://github.com/quchen/generative-art)
 - [Juhani Halkomäki](https://www.instagram.com/juhani.halkomaki/) ([Twitter](https://twitter.com/JuhaniHalkomaki))
 - [Jeff Palmer](https://jpalmer.dev/) ([IG](https://www.instagram.com/jwpalmer6/))
+- [Jerry-Lee Bosmans](https://www.byjer.com/) ([IG](https://www.instagram.com/jerbosmans/))

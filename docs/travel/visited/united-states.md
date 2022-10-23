@@ -4,6 +4,8 @@ Would love to live/move to US one day but [they don't make it easy](https://twit
 
 I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mearsheimer), [George Friedman](https://twitter.com/george_friedman) & [Squirrel](https://twitter.com/zei_squirrel)'s analysis in regards to US foreign policy.
 
+I do worry about [quality of food in US](https://twitter.com/bigmagicdao/status/1583729984304164864) though.
+
 ## Notes
 
 - [Most cost-effective way (aka costs nothing) to get to work in the US is to get hired by a multinational Corp and after 1 year get an L visa and move to the US.](https://twitter.com/copyconstruct/status/1280953429527900160)

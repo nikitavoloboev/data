@@ -25,7 +25,7 @@
 - [Directus](https://directus.io/) - Open-Source Headless CMS & API. ([Code](https://github.com/directus/directus))
 - [rwtxt](https://github.com/schollz/rwtxt) - CMS for absolute minimalists. ([Web](https://rwtxt.com/public)) ([Lobsters](https://lobste.rs/s/xrqaxh/schollz_rwtxt_cms_for_absolute))
 - [Tensei](https://tenseijs.com/) - Open source Node.js Headless CMS. ([Code](https://github.com/tenseijs/tensei))
-- [Netlify CMS](https://www.netlifycms.org/) - Open-Source Content Management System. ([Code](https://github.com/netlify/netlify-cms))
+- [Netlify CMS](https://www.netlifycms.org/) - Open-Source Content Management System. ([Code](https://github.com/netlify/netlify-cms)) ([Is this project dead?](https://answers.netlify.com/t/is-this-project-dead/70988))
 - [Prismic CMS](https://prismic.io/) - Headless Website Builder for Jamstack. ([Slice Machine](https://github.com/prismicio/slice-machine))
 - [GraphCMS](https://graphcms.com/) - API-first GraphQL Headless CMS. ([Next.js starter](https://github.com/GraphCMS/reference-marketing-website)) ([GraphCMS Management SDK](https://github.com/GraphCMS/management-sdk))
 - [FireCMS](https://github.com/Camberi/firecms) - Awesome Firestore based CMS. ([Web](https://firecms.co/))

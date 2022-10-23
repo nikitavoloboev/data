@@ -4,7 +4,7 @@ China alongside [Russia](russia.md) and [many more countries](https://worldpopul
 
 Cities like Shanghai and Guangzhou fascinate me, would love to live there one day or at least visit. Specifically its focus on building top [tier transportation between and inside cities](https://www.youtube.com/watch?v=belm4kDAHgM) is very wise. [Don Weinland](https://twitter.com/donweinland) & [Adrian Zenz](https://twitter.com/adrianzenz) share interesting news on China.
 
-Truthfully though, I need to actually live and speak to people of China to actually get a feel of what China is like and where it is going. It seems the most culturally different place I can potentially visit coming from [Europe](europe.md).
+Truthfully though, I need to actually try live in China and speak to people there to actually get a feel of what China is like and where it is going. It seems the most culturally different place I can potentially visit coming from [Europe](europe.md).
 
 ## Notes
 

@@ -58,3 +58,4 @@
 - [Windows equivalents for common Mac dev tools (2022)](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev)
 - [How Wine works 101 (2022)](https://werat.dev/blog/how-wine-works-101/) ([HN](https://news.ycombinator.com/item?id=33156727))
 - [ahkpm](https://github.com/joshuacc/ahkpm) - AutoHotKey Package Manager.
+- [The End of Windows Software (2022)](https://hardcoresoftware.learningbyshipping.com/p/103-end-of-windows-software) ([Tweet](https://twitter.com/stevesi/status/1584226645149638656))

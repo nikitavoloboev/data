@@ -105,3 +105,4 @@ I try drink only water/tea with occasional coffee. No added sugar in food/drinks
 - [What contributes to fat loss?](https://www.reddit.com/r/Fitness/comments/y7tj6p/what_contributes_to_fat_loss/)
 - [Whole Foods Plant Based Diet Reddit](https://www.reddit.com/r/WholeFoodsPlantBased/)
 - [Plant Based Diet Reddit](https://www.reddit.com/r/PlantBasedDiet/)
+- [A Chemical Hunger – Part I: Mysteries (2021)](https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/) ([Tweet](https://twitter.com/bigmagicdao/status/1583729984304164864))
