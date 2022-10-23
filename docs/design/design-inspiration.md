@@ -1061,3 +1061,4 @@ Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage)
 - [Favorite landing pages](https://twitter.com/traf/status/1572336972148146178)
 - [Awwwards](https://www.awwwards.com/) - Website Awards - Best Web Design Trends.
 - [Personal portfolio websites](https://twitter.com/jesslynnrose/status/1580121441084706816)
+- [DarkModes](https://darkmodes.com/) - Best dark mode implementations on the Internet.

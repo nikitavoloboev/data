@@ -409,3 +409,4 @@
 - [Soviet Era Math Book for Beginners and Mathematical Experts (2022)](https://www.youtube.com/watch?v=alkDHbjuInw)
 - [If you could resurrect mathematician to work on unsolved problems today, who would you pick? (2022)](https://www.reddit.com/r/math/comments/y5hn7v/if_you_could_resurrect_mathematician_to_work_on/)
 - [Algebra, Topology, Differential Calculus, and Optimization Theory](https://www.cis.upenn.edu/~jean/math-deep.pdf) ([HN](https://news.ycombinator.com/item?id=33256388))
+- [What is your favorite powerful result with a surprisingly simple proof? (2022)](https://www.reddit.com/r/math/comments/yatlyp/what_is_your_favorite_powerful_result_with_a/)
