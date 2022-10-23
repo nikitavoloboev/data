@@ -334,6 +334,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Top science fiction short stories published in August 2022](https://compellingsciencefiction.com/posts/top-science-fiction-short-stories-published-in-august.html)
 - [Ask HN: Best programming books in the last couple of years? (2022)](https://news.ycombinator.com/item?id=33175565)
 - [Ask HN: Books that teach you to think (2022)](https://news.ycombinator.com/item?id=33224904)
+- [An Epic Fantasy series you genuinely believe to be worth reading (2022)](https://www.reddit.com/r/suggestmeabook/comments/ybfw59/an_epic_fantasy_series_you_genuinely_believe_to/)
 
 ## Interesting Prose Books
 

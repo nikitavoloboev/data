@@ -125,3 +125,4 @@ title: Ray tracing
 - [Literate ray tracing in Zig](https://github.com/tmcw/zig-raytracer)
 - [Core Ray Tracer](https://github.com/matklad/crt)
 - [How Ray Tracing works and how to do it faster (2022)](https://www.youtube.com/watch?v=gsZiJeaMO48) ([HN](https://news.ycombinator.com/item?id=33128495))
+- [Ray tracing Voxels made out of Glass](https://voxelchain.app/previewer/Glass.html) ([HN](https://news.ycombinator.com/item?id=33308281))

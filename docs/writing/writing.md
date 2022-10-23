@@ -300,3 +300,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Lex](https://lex.page/) - Word processor with artificial intelligence baked in, so you can write faster. ([Tweet](https://twitter.com/nbashaw/status/1581673516360876032))
 - [Screenplays for Movies and TV Shows](https://screenplays.io/) ([HN](https://news.ycombinator.com/item?id=33228533))
 - [Moonbeam](https://www.gomoonbeam.com/) - Moonbeam's AI will give you everything you need to write killer long form content.
+- [Write Like You Talk (2015)](http://paulgraham.com/talk.html) ([HN](https://news.ycombinator.com/item?id=33308393))

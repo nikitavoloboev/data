@@ -464,3 +464,5 @@
 - [The Web’s Next Transition (2022)](https://www.epicweb.dev/the-webs-next-transition) ([Tweet](https://twitter.com/josevalim/status/1581923408413347841))
 - [Plane](https://plane.dev/) - Session backend orchestrator for ambitious browser-based apps. ([Code](https://github.com/drifting-in-space/plane)) ([HN](https://news.ycombinator.com/item?id=33178797))
 - [DiscMaster](http://discmaster.textfiles.com/) - Browse and search vintage computer files from archive.org.
+- [Cloudflare Pages: Best server tech since CGI-bin? (2022)](https://taras.glek.net/post/cloudflare-pages-kind-of-amazing/) ([HN](https://news.ycombinator.com/item?id=33307950))
+- [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites.

@@ -297,6 +297,7 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [Total TypeScript](https://www.totaltypescript.com/) - Professional TypeScript Training by Matt Pocock.
 - [TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler. ([Tweet](https://twitter.com/MarcJSchmidt/status/1582119945571213312))
 - [Improve DX tips for TypeScript projects (2022)](https://twitter.com/TkDodo/status/1582282692577853440)
+- [TinySource](https://github.com/tinysource/tinysource) - Completely free TypeScript one-file source code snippets with tests, which can be copied to avoid extra dependencies.
 
 ## Images
 
