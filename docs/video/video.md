@@ -415,3 +415,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Viva: An End-to-End System for Interactive Video Analytics (2022)](https://ddkang.github.io/papers/2022/viva-cidr.pdf)
 - [The State of AV1 Playback Support (2022)](https://bitmovin.com/av1-playback-support/) ([HN](https://news.ycombinator.com/item?id=33281974))
 - [mpeg](https://github.com/gen2brain/mpeg) - MPEG-1 Video decoder, MP2 Audio decoder and MPEG-PS Demuxer in pure Go.
+- [Rust Zoom clone in Rust](https://github.com/security-union/rust-zoom) ([Reddit](https://www.reddit.com/r/rust/comments/ycbibf/i_built_a_zoom_clone_100_in_rust/))

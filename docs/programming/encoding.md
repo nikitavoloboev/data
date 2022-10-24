@@ -72,3 +72,4 @@
 - [ULIDs are greate replacement for UUIDs](https://twitter.com/mholt6/status/1577503148821819392)
 - [LXMF](https://github.com/markqvist/LXMF) - Lightweight Extensible Message Format.
 - [VRS](https://github.com/facebookresearch/vrs) - File format optimized to record & playback streams of sensor data, such as images, audio samples, and any other discrete sensors (IMU, temperature, etc), stored in per-device streams of timestamped records.
+- ["AVIF: Creating a new image format in the open" by Jon Bauman (2022)](https://www.youtube.com/watch?v=BUkRlfkv2D8)

@@ -98,3 +98,4 @@ title: Fuzzing
 - [Jit-Picking: Differential Fuzzing of JavaScript Engines (2022)](https://publications.cispa.saarland/3773/)
 - [Hacking TMNF: Fuzzing the game server (2022)](https://blog.bricked.tech/posts/tmnf/part1/)
 - [Curl-Fuzzer](https://github.com/curl/curl-fuzzer) - Quality assurance testing for the curl project.
+- [How Fuzzy are Your Fuzzers? (2022)](https://fitzgeraldnick.com/2022/10/24/how-fuzzy-are-your-fuzzers.html)

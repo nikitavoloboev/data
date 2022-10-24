@@ -44,3 +44,4 @@ title: CUDA
 - [How CUDA Programming Works (2022)](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41487/) ([HN](https://news.ycombinator.com/item?id=31983460))
 - [GPU Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
 - [cudarc](https://github.com/coreylowman/cudarc) - Safe rust wrapper around CUDA toolkit.
+- [CUDAMat](https://github.com/cudamat/cudamat) - Python module for performing basic dense linear algebra computations on the GPU using CUDA.

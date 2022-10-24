@@ -150,3 +150,4 @@ title: Formal verification
 - [Verifying distributed systems with Isabelle/HOL (2022)](https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html) ([HN](https://news.ycombinator.com/item?id=33177980))
 - ["Formal Modeling and Analysis of Distributed Systems" by Ankush Desai (2022)](https://www.youtube.com/watch?v=5YjsSDDWFDY)
 - [Keynote: Formal Methods at Microsoft - Nikolaj Bjørner (2022)](https://www.youtube.com/watch?v=GEsvGGp0jyQ)
+- [Obtaining Statistical Properties by Simulating Specs with TLC - Jack Vanlightly and Markus A. Kuppe (2022)](https://www.youtube.com/watch?v=cYenTPD7740&t=4s)

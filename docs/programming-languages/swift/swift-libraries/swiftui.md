@@ -259,3 +259,4 @@ title: SwiftUI
 - [Apple’s use of Swift and SwiftUI in iOS 16 (2022)](https://blog.timac.org/2022/1005-state-of-swift-and-swiftui-ios16/) ([HN](https://news.ycombinator.com/item?id=33126223))
 - [Embracing Core Data In Swiftui (2022)](https://azamsharp.com/2022/10/11/embracing-core-data-in-swiftui.html)
 - [SwiftUI PropertyWrapper Talk](https://github.com/donnywals/SwiftUIPropertyWrapperTalk)
+- [UIKit Custom Annotation with Callout in SwiftUI (2022)](https://www.devtechie.com/community/public/posts/153857-uikit-custom-annotation-with-callout-in-swiftui)
