@@ -202,3 +202,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Bibsearch](https://github.com/mjpost/bibsearch) - Download, manage, and search a BibTeX database.
 - [How do you access papers published in 2022?](https://www.reddit.com/r/scihub/comments/y08cb7/how_do_you_access_papers_published_in_2022/)
 - [Bibtex Autocomplete](https://github.com/dlesbre/bibtex-autocomplete) - Python package to autocomplete bibtex bibliographies.
+- [Your posts should be on arXiv (2022)](https://www.lesswrong.com/posts/TYTEJxzeK3jBMq2TZ/your-posts-should-be-on-arxiv)

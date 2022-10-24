@@ -216,3 +216,5 @@ Also looking into [Embassy](https://embassy.dev/).
 - [Teensycore](https://github.com/SharpCoder/teensycore) - Kernel written in rust for the Teensy-4.0 microcontroller.
 - [Intro to Embedded RE Part 1: Tools and Series Overview (2022)](https://voidstarsec.com/blog/intro-to-embedded-part-1)
 - [YuzukiLOHCC PRO](https://github.com/YuzukiHD/YuzukiLOHCC-PRO) - Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 & MS9332.
+- [Rust on Espressif chips (2022)](https://mabez.dev/blog/posts/esp-rust-17-10-2022/) ([HN](https://news.ycombinator.com/item?id=33311316))
+- [EspUp](https://github.com/esp-rs/espup) - Tool for installing and maintaining the required toolchains for developing applications in Rust for Espressif SoC's.

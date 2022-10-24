@@ -157,6 +157,7 @@ The way our brains take input from different senses (eyes, touch) and then decid
 - [Deep language algorithms predict semantic comprehension from brain activity (2022)](https://www.nature.com/articles/s41598-022-20460-9) ([HN](https://news.ycombinator.com/item?id=33197285))
 - [Neurons in a dish learn to play Pong (2022)](https://www.nature.com/articles/d41586-022-03229-y) ([HN](https://news.ycombinator.com/item?id=33189644))
 - [Nengo](https://github.com/nengo/nengo) - Python library for creating and simulating large-scale brain models.
+- [Building Transformers from Neurons and Astrocytes (2022)](https://www.biorxiv.org/content/10.1101/2022.10.12.511910v1)
 
 ## Images
 

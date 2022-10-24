@@ -239,3 +239,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [iPhone 14 Pro Camera Preview: The Hardware Changes (2022)](https://lux.camera/iphone-14-pro-camera-preview-the-hardware-changes/)
 - [Questions I have been asked about photography](https://gist.github.com/tef/9f515f36d6fc5f0b1aa0adc5f4d730be)
 - [Alternatives to Lightroom](https://twitter.com/rsms/status/1573711186847145985)
+- [2022 Photomicrography Competition | Nikon’s Small World](https://www.nikonsmallworld.com/galleries/2022-photomicrography-competition)

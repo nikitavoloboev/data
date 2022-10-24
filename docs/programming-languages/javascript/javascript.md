@@ -476,3 +476,4 @@ if (
 - [Control the behavior of JavaScript imports with Import Maps (2021)](https://www.bram.us/2021/03/03/control-the-behavior-of-javascript-imports-with-import-maps/) ([Tweet](https://twitter.com/bramus/status/1573990239605067778))
 - [The power of JS generators](https://observablehq.com/@anjana/the-power-of-js-generators)
 - [Understanding Generators in ES6 JavaScript with Examples](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5)
+- [JavaScript's promised convenience (2022)](https://www.gregroz.me/article/javascript-promised-convenience)

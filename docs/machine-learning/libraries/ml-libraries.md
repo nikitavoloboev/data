@@ -411,3 +411,4 @@ title: ML Libraries
 - [TabSurvey](https://github.com/kathrinse/TabSurvey) - Experiments on Tabular Data Models.
 - [pocoMC](https://github.com/minaskar/pocomc) - Python implementation of Preconditioned Monte Carlo for accelerated Bayesian Computation.
 - [WTTE-RNN](https://github.com/ragulpr/wtte-rnn) - Framework for churn and time to event prediction.
+- [ONE](https://github.com/Samsung/ONE) - High-performance, on-device neural network inference framework.

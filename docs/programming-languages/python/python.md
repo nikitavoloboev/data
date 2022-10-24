@@ -547,3 +547,5 @@ for i, _ in enumerate(nums):
 - [A Blueprint for Production-Ready Web Applications (2022)](https://www.packtpub.com/product/blueprint-for-production-ready-web-development/9781803248509) ([Code](https://github.com/pgjones/tozo))
 - [Type annotation via automated refactoring (2022)](https://medium.com/building-carta/type-annotation-via-automated-refactoring-fd8edfe123d4)
 - [Python grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-python)
+- [Buffers on the Edge: Python and Rust (2022)](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/) ([HN](https://news.ycombinator.com/item?id=33312508))
+- [Python CLI Tricks That Don't Require Any Code Whatsoever (2022)](https://martinheinz.dev/blog/83)
