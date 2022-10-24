@@ -294,3 +294,4 @@
 - [What it takes to make a game by yourself (2022)](https://dillonshook.com/what-it-takes-to-make-a-game-by-yourself/) ([HN](https://news.ycombinator.com/item?id=32851196))
 - [A Last Gasp of 2D: The Cave CV1000 (2022)](https://nicole.express/2022/games-made-in-a-cave.html)
 - [Best game building stuff for young kids (2022)](https://twitter.com/ThePrimeagen/status/1584204991316623360)
+- [Multiplayer Matchmaker](https://github.com/penberg/multiplayer-matchmaker) - Implements a multiplayer matchmaking server for games with ChiselStrike.

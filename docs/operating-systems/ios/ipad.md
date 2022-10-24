@@ -22,3 +22,4 @@ Go over how I use my iPad [here](https://github.com/nikitavoloboev/my-ios#ipad).
 - [New Kind of Paper](https://mlajtos.mu/posts/new-kind-of-paper) ([HN](https://news.ycombinator.com/item?id=27576937))
 - [Reflections on Software Development from Anywhere on an iPad](https://ghuntley.com/anywhere/) ([HN](https://news.ycombinator.com/item?id=29024834))
 - [Concepts App](https://concepts.app/en/) - Infinite, Flexible Sketching.
+- [Defter Notes](https://defternotes.com/) - iPad app for deft handwritten notes & spatial organizing.

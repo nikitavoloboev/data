@@ -2,7 +2,7 @@
 
 [What is Money, Anyway?](https://news.ycombinator.com/item?id=30825505) is good intro article to economics. And [here](https://www.reddit.com/r/AskEconomics/comments/ujm39z/whats_the_best_route_to_learn_a_solid_foundation/) is a nice thread with more resources.
 
-[Lyn Alden](https://twitter.com/LynAldenContact) is great.
+[Lyn Alden](https://twitter.com/LynAldenContact) & [Patrick Boyle](https://www.youtube.com/c/PatrickBoyleOnFinance/videos) are great.
 
 ## Notes
 
@@ -171,3 +171,4 @@
 - [Ask HN: Why do we need central bank digital currency (CBDC)? (2022)](https://news.ycombinator.com/item?id=32777875)
 - [peruvian_bull - Reddit](https://www.reddit.com/user/peruvian_bull/) - Does nice analysis on economy. ([Twitter](https://twitter.com/peruvian_bull))
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html) ([Code](https://github.com/aeturrell/coding-for-economists))
+- [Patrick Boyle - YouTube](https://www.youtube.com/c/PatrickBoyleOnFinance/videos)

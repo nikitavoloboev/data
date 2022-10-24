@@ -61,3 +61,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [The Thorny Problem of Keeping the Internet's Time](https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time) ([HN](https://news.ycombinator.com/item?id=33131195))
 - [belt](https://github.com/waltzofpearls/belt) - CLI app to show your time from a list of selected time zones, and a rust lib to parse dates in string formats that are commonly used.
 - [The Diminishing Returns of Calendar Culture (2022)](https://annehelen.substack.com/p/the-diminishing-returns-of-calendar?publication_id=2450&post_id=77587582&isFreemail=false)
+- [TimezoneDB](https://github.com/SynapseTech/TimezoneDB) - Easy, cross-platform method of keeping track of other people's timezones.
