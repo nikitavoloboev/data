@@ -1,6 +1,6 @@
 # Internationalization
 
-[SimpleLocalize](https://simplelocalize.io/) is nice.
+[SimpleLocalize](https://simplelocalize.io/) & [Crowdin](https://crowdin.com/) are nice.
 
 ## Notes
 
@@ -48,3 +48,4 @@
 - [Simeon Griggs-Localization for real-world use-cases: Key learnings from onboarding global brands (2022)](https://www.youtube.com/watch?v=CK7qBl9NuLE)
 - [mtranslate](https://github.com/mouuff/mtranslate) - Fully working Google Translate API for python.
 - [Texterify](https://texterify.com/) - Translation and Localization Tool. ([Code](https://github.com/texterify/texterify))
+- [Nice services for localizing apps](https://twitter.com/ChristianSelig/status/1584947296008949778)

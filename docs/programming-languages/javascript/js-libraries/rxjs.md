@@ -31,3 +31,4 @@ title: RxJS
 - [rxjs-spy](https://github.com/cartant/rxjs-spy) - Debugging library for RxJS.
 - [RxJS Insights](https://github.com/ksz-ksz/rxjs-insights) - Toolset that helps you debug and visualize the observables in your app.
 - [React-Rx](https://github.com/sanity-io/react-rx) - Hooks and utilities for combining React with RxJS Observables.
+- [Why RxJS compatibility matters](https://dev.to/mfp22/why-rxjs-compatibility-matters-gl2)

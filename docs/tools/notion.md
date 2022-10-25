@@ -125,3 +125,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Using Notion as a headless CMS for our blog (2022)](https://datanarratives.com/blog/notion-headless-cms/) ([HN](https://news.ycombinator.com/item?id=33121628))
 - [MyNotion](https://mynotion.space/) - Social network like Myspace, built on top of Notion. ([HN](https://news.ycombinator.com/item?id=33218888))
 - [Notion CMS](https://github.com/n6g7/notion-cms)
+- [Building a Notion-like system with Socket.io And React (2022)](https://dev.to/novu/building-a-notion-like-system-with-socketio-and-react-1hjg)

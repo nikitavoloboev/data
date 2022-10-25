@@ -286,3 +286,4 @@
 - [HyperQueue](https://github.com/It4innovations/hyperqueue) - Scheduler for sub-node tasks for HPC systems with batch scheduling.
 - [Building Distributed Systems With Stateright](https://www.stateright.rs/)
 - [Papers on Distributed Systems](https://github.com/ycd/distributed-systems-papers)
+- ["Workflows, a new abstraction for distributed systems" by Dominik Tornow (2022)](https://www.youtube.com/watch?v=V_5WeVmyhzg)

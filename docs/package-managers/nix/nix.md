@@ -426,3 +426,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Taking Nix Offline](https://github.com/nix-how/marsnix)
 - [nixify](https://github.com/rvolosatovs/nixify) - Simple, yet extensible nix flake bootstrapping library for real-world projects.
 - [How to correctly cache build-time dependencies using Nix (2022)](https://www.haskellforall.com/2022/10/how-to-correctly-cache-build-time.html)
+- [The windy path to fast, pain-free, reproducible developer environments (2022)](https://www.youtube.com/watch?v=Mx3yiE_CJOY)

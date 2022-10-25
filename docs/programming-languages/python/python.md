@@ -549,3 +549,4 @@ for i, _ in enumerate(nums):
 - [Python grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-python)
 - [Buffers on the Edge: Python and Rust (2022)](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/) ([HN](https://news.ycombinator.com/item?id=33312508))
 - [Python CLI Tricks That Don't Require Any Code Whatsoever (2022)](https://martinheinz.dev/blog/83)
+- [Python 3.11.0 (2022)](https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291) ([HN](https://news.ycombinator.com/item?id=33327896)) ([Tweet](https://twitter.com/marktenenholtz/status/1584927749168250881))

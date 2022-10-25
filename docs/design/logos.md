@@ -25,3 +25,4 @@
 - [VectorWiki](https://vectorwiki.com/) - Download 1000's of free SVG brand logos.
 - [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else) ([HN](https://news.ycombinator.com/item?id=32040506))
 - [I used DALL·E 2 to generate a logo (2022)](https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/) ([HN](https://news.ycombinator.com/item?id=32320491))
+- [LogoArchive](https://www.logo-archive.org/) - Modernist logo archive, international research initiative & zine series. ([Twitter](https://twitter.com/LogoArchive))

@@ -58,3 +58,4 @@ title: Kotlin
 - [Continuation in Kotlin (2021)](https://nomisrev.github.io/continuation-monad-in-kotlin/)
 - [Kotlin grammar for Tree-Sitter](https://github.com/fwcd/tree-sitter-kotlin)
 - [Google's Journey from Java to Kotlin for Server Side Programming (2022)](https://www.youtube.com/watch?v=o14wGByBRAQ)
+- [From zero to 10 million lines of Kotlin (2022)](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/) ([HN](https://news.ycombinator.com/item?id=33329509))

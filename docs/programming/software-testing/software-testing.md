@@ -8,6 +8,7 @@
 - [Almost all the advice you hear about software testing is bad. It's either bad on its face or it leads to bad outcomes or it distracts by focusing on the wrong thing (usually tools).](https://twitter.com/searls/status/1393571227650908162)
 - [People love debating what percentage of which type of tests to write, but it's a distraction. Nearly zero teams write expressive tests that establish clear boundaries, run quickly & reliably, and only fail for useful reasons. Focus on that instead.](https://twitter.com/searls/status/1393385209089990659)
 - [We are moving away from data-testid completely in favor of accessibility attributes like role and aria-label to encourage better semantics and make tests be more human-like.](https://twitter.com/okonetchnikov/status/1461302342733766657)
+- [Don't export functions just to write a unit test for them. If the function isn't used outside of the file in your app / library - don't test it. It's literally an implementation detail. Test the public interface only!](https://twitter.com/TkDodo/status/1584810823028916224)
 
 ## Links
 

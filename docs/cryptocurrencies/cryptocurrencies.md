@@ -10,7 +10,7 @@ From my research, [FTX](https://ftx.com/referrals#a=58425911) seemed to be the c
 
 I do hope someone builds a [true decentralized ramp up](https://news.ycombinator.com/item?id=32240404) to a true privacy coin like [Monero](monero.md). So you can go from FIAT to private anonymous transactions at any time and escape the traditional financial systems that use your money to wage war or do other silly things like is the case with [Russia](../travel/visited/russia.md)/[China](../travel/visited/china.md) and to a lesser extent most other countries. The way I see it happening now is we have FIAT to [Solana](../databases/blockchain/solana.md) already via traditional marketplaces. Then you can have smart DEX that swaps Solana for Monero. You transact privately there and swap back to Solana then to FIAT whenever you need to do something that is not yet ready for this brave new world. I do hope and think it would be possible to have private transactions for citizens yet still enforce some kind of donations to the public so governments can function. Just things should be transparent so the money is traced publicly as to what it gets spent on whether its education / better cities / roads / etc.
 
-[Dune Analytics](https://dune.com/) is great at analyzing public blockchain data.
+[Dune Analytics](https://dune.com/) is great at analyzing public blockchain data. [Matt Levine's overview of crypto](https://www.bloomberg.com/features/2022-the-crypto-story/) is nice.
 
 ## Interesting
 
@@ -301,3 +301,4 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 - [Gradual Dutch Auctions (2022)](https://www.paradigm.xyz/2022/04/gda)
 - [Cairo implementation of Gradual Dutch Auctions](https://github.com/cartridge-gg/cairo-gda)
 - [a16z crypto](https://a16zcrypto.com/) - Venture capital fund that invests in crypto and web3 startups.
+- [The Only Crypto Story You Need, by Matt Levine (2022)](https://www.bloomberg.com/features/2022-the-crypto-story/)
