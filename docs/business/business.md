@@ -159,3 +159,4 @@ Learning to build [startups](startups/startups.md).
 - [How to drive away your best engineers (2021)](https://blog.hulacorn.com/2021/09/08/how-to-drive-away-your-best-engineers/) ([HN](https://news.ycombinator.com/item?id=32211576)) ([HN](https://news.ycombinator.com/item?id=32211576))
 - [Ask HN: What are examples of companies dying due to many people quitting? (2022)](https://news.ycombinator.com/item?id=32831701)
 - [Ask HN: Companies of one, how do you ensure business continuity? (2022)](https://news.ycombinator.com/item?id=32960255)
+- [How to best start a Personal Holding Company (PHC) (2022)](https://twitter.com/mikekarnj/status/1584619808850513921)

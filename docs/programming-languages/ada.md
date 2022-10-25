@@ -39,3 +39,4 @@ title: Ada
 - [Ada Process API (spawn)](https://github.com/AdaCore/spawn) - Provides simple API to spawn processes and communicate with them.
 - [Writing Ada Bindings for C Libraries (2012)](https://flyx.org/ada-bindings/)
 - [What's New in Ada 2022](https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html) ([HN](https://news.ycombinator.com/item?id=31804843))
+- [Adding Ada to Rust (2022)](https://blog.adacore.com/adding-ada-to-rust)

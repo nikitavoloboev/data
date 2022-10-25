@@ -1,5 +1,7 @@
 # Podcast recording
 
+[Riverside.fm](https://riverside.fm/) seems nice.
+
 ## Interesting Mics
 
 - [Shure MV7](https://twitter.com/fatih/status/1446036296640647168)
@@ -48,3 +50,4 @@
 - [huffduff-video](https://github.com/snarfed/huffduff-video) - Extracts the audio from videos on YouTube, Vimeo, and many more sites and sends it to Huffduffer.- [Huffduffer](https://huffduffer.com/) - Create your own podcast.
 - [Observations from our Joe Rogan Experience experience](https://lulu.substack.com/p/joe-rogan-has-a-werewolf) ([HN](https://news.ycombinator.com/item?id=32649123))
 - [Castopod](https://castopod.org/) - Open-source podcast hosting platform. ([HN](https://news.ycombinator.com/item?id=33091903)) ([Code](https://github.com/ad-aures/castopod))
+- [Riverside.fm](https://riverside.fm/) - Record Podcasts And Videos From Anywhere. ([Twitter](https://twitter.com/RiversidedotFM))

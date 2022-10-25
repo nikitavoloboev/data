@@ -2,6 +2,8 @@
 
 [Exercism Elixir exercises](https://github.com/exercism/elixir) & [DockYard's guide](https://github.com/DockYard-Academy/beta_curriculum) are nice intros.
 
+[Gleam](../gleam.md) is nice typed Elixir.  
+
 ## Links
 
 - [How Discord Scaled Elixir to 5M Concurrent Users (2017)](https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b) ([HN](https://news.ycombinator.com/item?id=19238221))

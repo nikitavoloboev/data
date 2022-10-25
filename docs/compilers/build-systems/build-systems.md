@@ -130,3 +130,4 @@
 - [Tejolote](https://github.com/puerco/tejolote) - Highly configurable build executor and observer designed to generate signed SLSA provenance attestations about build runs.
 - [Vercel Remote Cache SDK](https://github.com/vercel/remote-cache) - Feature of advanced build tools like Turborepo, Bazel, and Buck to cache compiled computations and code artifacts in the cloud.
 - [Shake](https://github.com/ndmitchell/shake) - Tool for writing build systems - an alternative to make, Scons, Ant etc. ([Docs](https://shakebuild.com/))
+- [How Turbo bundler for web works (2022)](https://twitter.com/jaredpalmer/status/1584971637694222336)

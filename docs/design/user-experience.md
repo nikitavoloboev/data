@@ -206,3 +206,4 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [The self-taught UI/UX designer roadmap (2021)](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb) ([HN](https://news.ycombinator.com/item?id=33047199))
 - [Beginner’s Guide to Finding User Needs](https://urbook.fordes.de/)
 - [Write better error messages (2022)](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f) ([HN](https://news.ycombinator.com/item?id=33261125))
+- [SaaS Shots](https://twitter.com/saasshots) - Hand-picked design patterns from real SaaS products.
