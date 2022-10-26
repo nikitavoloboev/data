@@ -110,4 +110,4 @@ Match all that don't have notes or twitter in input
 - [Rex](https://github.com/areknawo/Rex) - JS Library for writing complex RegExps with help of auto completion.
 - [regexp-tree](https://github.com/DmitrySoshnikov/regexp-tree) - Regular expressions processor in JavaScript.
 - [On the Intersection of Context-Free and Regular Languages (2022)](https://arxiv.org/abs/2209.06809)
-- [The Typing of the RegEX](https://thetypingoftheregex.com/)
+- [The Typing of the RegEX](https://thetypingoftheregex.com/) ([HN](https://news.ycombinator.com/item?id=33343010))
