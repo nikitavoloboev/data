@@ -267,3 +267,4 @@ title: Spatial analysis
 - [Map Academy: taking QGIS to the next level (2022)](https://www.udemy.com/course/map-academy-taking-qgis-to-the-next-level/) ([Tweet](https://twitter.com/undertheraedar/status/1582312909337919488))
 - [Ulysses](https://github.com/eyeseast/ulysses-js) - Tool for creating stories around maps.
 - [TerriaJS](https://github.com/TerriaJS/terriajs) - Library for building rich, web-based geospatial data platforms. ([Web](https://terria.io/))
+- [On digital maps & consumerist city (2022)](https://eugenekudashev.com/blog/untitled-map-app)

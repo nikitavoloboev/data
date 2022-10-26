@@ -674,3 +674,4 @@
 - [CrossRE: A Cross-Domain Dataset for Relation Extraction (2022)](https://arxiv.org/abs/2210.09345) ([Code](https://github.com/mainlp/CrossRE))
 - [Scaling Instruction-Finetuned Language Models (2022)](https://arxiv.org/abs/2210.11416) ([Tweet](https://twitter.com/quocleix/status/1583523186376785921)) ([Tweet](https://twitter.com/SamuelAlbanie/status/1584257440891416576))
 - [Large Language Models Can Self-Improve (2022)](https://arxiv.org/abs/2210.11610)
+- [Everyprompt](https://www.everyprompt.com/) - Playground for GPT-3. ([Tweet](https://twitter.com/evanjconrad/status/1583538660489588737))

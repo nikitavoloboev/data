@@ -149,3 +149,4 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 - [Large Model Applications by Modality](https://twitter.com/saranormous/status/1572791179636518913)
 - [GUT-AI initiative](https://github.com/GUT-AI/gut-ai) - Initiative which aims to eliminate the multiple, single-points-of-failure when using AI for real-life applications.
 - [Bleeding Edge AI](https://bleedingedge.ai/) - Feed of noteworthy developments in AI.
+- [Generally Intelligent](https://generallyintelligent.ai/) - Independent research lab building AI agents that can learn & understand like humans, so they can be safely deployed. ([Twitter](https://twitter.com/genintelligent)) ([Intro](https://generallyintelligent.com/launch/))

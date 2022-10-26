@@ -116,3 +116,4 @@
 - [Maple Diffusion](https://github.com/mortenjust/maple-diffusion) - Stable Diffusion inference on iOS / macOS using MPSGraph.
 - [VectorArt.ai](https://vectorart.ai/) - Vector Graphics with Stable Diffusion. ([HN](https://news.ycombinator.com/item?id=33308248))
 - [Generative Image workflow in Runway](https://twitter.com/notiansans/status/1583528842898984961)
+- [How does stable diffusion work](https://twitter.com/danqing_liu/status/1584611896682246145)
