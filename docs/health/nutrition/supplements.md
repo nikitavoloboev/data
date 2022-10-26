@@ -6,7 +6,7 @@ Supplements I try take daily are inspired by [Rhonda Patrick](https://fastlifeha
 - [Vitamin D3 + K2](https://www.amazon.com/Bronson-Vitamin-Supplement-Support-Capsules/dp/B0792Z6434) (1 capsule)
 - [Magnesium](https://nootropicsdepot.com/magtein-magnesium-l-threonate-capsules/) (1 capsule)
 
-I try to minimize the number of things my body has to process to bare essentials so more often than not I don't take any supplements. I maximize the quality of food I eat by eating [natural whole food plant based food](foods.md). I also fast but not routinely, usually by just skipping breakfast.
+I try to minimize the number of things my body has to process to bare essentials so more often than not I don't take any other supplements. I maximize the quality of food I eat by eating [natural whole food plant based food](foods.md). I also fast but not routinely, usually by just skipping breakfast.
 
 And I enjoy taking [psychedelics](../../drugs/psychedelics/psychedelics.md) once in few months. [Tryptamines](../../drugs/psychedelics/tryptamines/tryptamines.md) being my favorite.
 

@@ -136,6 +136,10 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Acma](https://twitter.com/PangramPangram_/status/1578445381905838081)
 - [Nabla](https://nabla.typearture.com/) - Isometric Color Font. ([HN](https://news.ycombinator.com/item?id=33276752)) ([Code](https://github.com/justvanrossum/nabla))
 
+## Notes
+
+- [Increasing font size on screenshots can boost sales.](https://twitter.com/vdugnist/status/1585063775367229441)
+
 ## Links
 
 - [Typewolf](https://www.typewolf.com) - What's trending in type. ([Site of the day](https://www.typewolf.com/site-of-the-day))

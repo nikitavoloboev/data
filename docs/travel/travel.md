@@ -9,6 +9,7 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - Visiting subreddits of cities/countries you are going to as well as the respective `AskA..` communities is great way to know about a place. [AskARussian](https://www.reddit.com/r/AskARussian/) is one such subreddit, it links to more similar subreddits in the sidebar.
 - [You can use the minus syntax to exclude results in Google Maps.](https://twitter.com/conradev/status/1376219194010656769)
 - [Freedom is the new flex. International travel > Car. One suitcase > Wardrobe. Location independence > Mortgage. Freedom to move > Material items. Self fulfillment > Social approval.](https://twitter.com/AlexNapierNomad/status/1513233187123699718)
+- [The tourism industry exists only to sell what tourists want: an outdated and artificial stereotype of a country's culture, often from decades ago, that does not exist in real life anymore and is by now completely disconnected from the local culture that has moved on.](https://twitter.com/levelsio/status/1585055551821488128)
 
 ## Links
 

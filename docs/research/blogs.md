@@ -323,3 +323,4 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Rewriting my blog in Rust for fun and profit (2022)](https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/) ([HN](https://news.ycombinator.com/item?id=32638667))
 - [Ask HN: Is Substack the new Medium? (2022)](https://news.ycombinator.com/item?id=33137417)
 - [What happens when a blog post goes viral? (2022)](https://www.jvt.me/posts/2022/10/14/blog-viral/)
+- [Blog with Native Content Editing](https://vercel.com/templates/next.js/blog-nextjs-sanity) ([Tweet](https://twitter.com/sanity_io/status/1584986255489925120))

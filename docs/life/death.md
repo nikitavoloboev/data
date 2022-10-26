@@ -83,3 +83,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [Biologist explains death | Michael Levin and Lex Fridman (2022)](https://www.youtube.com/watch?v=7Z0tWLBJtFQ)
 - [Books about Death (2022)](https://www.reddit.com/r/suggestmeabook/comments/y54p5s/books_about_death/)
 - [Technology that lets us speak to our dead relatives has arrived. Are we ready? (2022)](https://www.technologyreview.com/2022/10/18/1061320/digital-clones-of-dead-people/)
+- [People who've lost a parent suddenly, what are things you wish you'd done before your parent passed?](https://twitter.com/Aella_Girl/status/1585133949105238016)

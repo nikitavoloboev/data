@@ -127,7 +127,7 @@
 - [Opus](https://github.com/zorbash/opus) - Framework for pluggable business logic components.
 - [Pow](https://github.com/danschultzer/pow) - Robust, modular, and extendable user authentication system.
 - [Rihanna](https://github.com/samphilipd/rihanna) - High performance postgres-backed job queue for Elixir.
-- [Broadway](https://github.com/plataformatec/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
+- [Broadway](https://github.com/plataformatec/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir. ([Web](https://elixir-broadway.org/))
 - [Goth](https://github.com/peburrows/goth) - Elixir package for Oauth authentication via Google Cloud APIs.
 - [Timber](https://github.com/timberio/timber-elixir) - Great Elixir logging made easy.
 - [Parent](https://github.com/sasa1977/parent) - Support for custom parenting of processes.

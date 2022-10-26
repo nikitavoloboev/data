@@ -682,3 +682,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Consensus](https://consensus.app/) - Evidence-Based Answers, Faster.
 - [Hack Club Scrapbook](https://scrapbook.hackclub.com/) - Helps you share the things you're working on every day. ([Code](https://github.com/hackclub/scrapbook))
 - [Influential software made by one person](https://twitter.com/infinitsummer/status/1582446799502966785)
+- [Ask HN: Do people not have hobbies anymore? (2022)](https://news.ycombinator.com/item?id=33343603)

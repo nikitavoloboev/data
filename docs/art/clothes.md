@@ -80,3 +80,4 @@ In general, I love [Christian Sieber](https://www.instagram.com/christiansieber/
 - [Alex Rivière Studio](https://alexrivierestudio.com/) ([IG](https://www.instagram.com/alexrivierestudio/))
 - [The technology behind Bella Hadid’s spray-on dress (2022)](https://wired.me/technology/all-you-need-to-know-about-the-technology-behind-bella-hadids-spray-on-dress/) ([HN](https://news.ycombinator.com/item?id=33071055))
 - [Good cold weather gear](https://twitter.com/sweatystartup/status/1579119398727856129)
+- [How to find great clothes (2022)](https://twitter.com/marty/status/1585251432999321600)

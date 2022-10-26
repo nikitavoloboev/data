@@ -16,6 +16,7 @@ title: Xcode
 - [Build Timeline offers an entirely new way of visualizing the tasks of an Xcode build based on parallelization](https://twitter.com/BenchR/status/1534032896750542850)
 - [`defaults write http://com.apple.dt.Xcode ShowBuildOperationDuration YES` will show how long your build took in Xcode](https://twitter.com/starv/status/1516888401202466816).
 - [You can right click a test diamond in Xcode you choose to run a test repeatedly. Great for when you suspect you have a flaky test.](https://twitter.com/SteveBarnegren/status/1570022044347281408)
+- ["Edit All in Scope" is great refactoring option in Xcode](https://twitter.com/twannl/status/1585255192777428993)
 
 ## Links
 
