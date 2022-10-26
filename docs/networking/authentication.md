@@ -271,3 +271,4 @@
 - [Auth UI | Supabase](https://supabase.com/docs/guides/auth/auth-helpers/auth-ui) - Pre-built Auth UI for React.
 - [How to authenticate content in the age of AI?](https://twitter.com/balajis/status/1578671900066476033)
 - [Ask HN: WebAuthn – Replace Password or Second Factor? (2022)](https://news.ycombinator.com/item?id=33203972)
+- [Passkeys.io](https://www.passkeys.io/) - Passkey Authentication Demo. ([HN](https://news.ycombinator.com/item?id=33331749))

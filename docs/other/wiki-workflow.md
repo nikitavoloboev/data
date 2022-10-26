@@ -222,6 +222,7 @@ I want to:
 - [Alex Schroeder: Diary](https://alexschroeder.ch/)
 - [Well Ordered Wiki](https://wiki.wellorder.net/wiki/)
 - [minimal.click](https://minimal.click/)
+- [GrowLove](https://with-heart.xyz/)
 - [SUDOGAMI](https://sudogami.com/site/home.html)
 - [Map of Computing](https://github.com/ComputingTeachers/mapOfComputing)
 - [Simon Willison: TIL](https://til.simonwillison.net/) ([Code](https://github.com/simonw/til))

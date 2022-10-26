@@ -267,3 +267,4 @@ Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432
 - [Trellis](https://github.com/charliermarsh/trellis) - Write Dockerfiles and CI pipelines in TypeScript.
 - [Docker and Hacktoberfest 2022](https://github.com/docker/hacktoberfest-2022)
 - [Layerfiles](https://github.com/webappio/layerfiles) - Single binary that lets you build microvms using a syntax that looks like a Dockerfile. ([Web](https://layerfile.com/))
+- [Introducing the Docker+Wasm Technical Preview (2022)](https://www.docker.com/blog/docker-wasm-technical-preview/)

@@ -63,3 +63,4 @@ title: Signal processing
 - [rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies).
 - [HiFiScan](https://github.com/erdewit/HiFiScan) - Help equalize an audio system to get the best possible audio quality from it. ([HN](https://news.ycombinator.com/item?id=32798891))
 - [DRC: Digital Room Correction](http://drc-fir.sourceforge.net/)
+- [How to date a recording using background electrical noise (2022)](https://robertheaton.com/enf/)

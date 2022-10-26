@@ -4,7 +4,7 @@ title: Nix
 
 # [Nix](https://github.com/NixOS/nix)
 
-[nix.dev](https://nix.dev/), [Nix One Pager](https://github.com/tazjin/nix-1p) & [Nix Book](https://github.com/NixOS/nix-book) are great places to start learning/using Nix. [How to learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) series is great too.
+[Nix Flakes: first steps](https://blog.kubukoz.com/flakes-first-steps/), [nix.dev](https://nix.dev/), [Nix One Pager](https://github.com/tazjin/nix-1p) & [Nix Book](https://github.com/NixOS/nix-book) are great places to start learning/using Nix. [How to learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) series is great too.
 
 Looking into using [Nix Quick Install Action](https://github.com/nixbuild/nix-quick-install-action) in my projects. [devshell](https://github.com/numtide/devshell), [statix](https://github.com/nerdypepper/statix) [deploy-rs](https://github.com/serokell/deploy-rs) are neat.
 
@@ -427,3 +427,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nixify](https://github.com/rvolosatovs/nixify) - Simple, yet extensible nix flake bootstrapping library for real-world projects.
 - [How to correctly cache build-time dependencies using Nix (2022)](https://www.haskellforall.com/2022/10/how-to-correctly-cache-build-time.html)
 - [The windy path to fast, pain-free, reproducible developer environments (2022)](https://www.youtube.com/watch?v=Mx3yiE_CJOY)
+- [Nix Flakes: first steps (2022)](https://blog.kubukoz.com/flakes-first-steps/)

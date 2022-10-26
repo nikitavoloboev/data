@@ -38,6 +38,7 @@ title: Haskell
   - It has do-notation, which resembles statements if you don’t squint too hard. But Haskell has very few syntactic elements, so there is no need to worry about disambiguating between e.g. a; [b].c and a[b].c like there is in Rust.
 - [All values are immutable and all functions are pure in Haskell, with the one exception of I/O monads.](https://users.rust-lang.org/t/why-semicolons/25074/9)
 - [Cabal works better with Nix and it's one less abstraction layer to debug](https://twitter.com/GabriellaG439/status/1471691584877912064)
+- [Haskell really shifted my point of view on software during my formative years; it made me shift from focusing on telling the computer to do things to modelling the world inside the computer.](https://twitter.com/cronokirby/status/1584985561567473664)
 
 ## Links
 

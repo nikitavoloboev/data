@@ -381,3 +381,4 @@ title: WebAssembly
 - [HTMX, WebAssembly, Rust, ServiceWorkers](https://github.com/richardanaya/wasm-service) ([HN](https://news.ycombinator.com/item?id=33228891))
 - [The Go WebAssembly ABI at a Low Level (2022)](https://xeiaso.net/talks/wasm-abi)
 - [Wasm Workers Server](https://github.com/vmware-labs/wasm-workers-server) - HTTP server that runs applications with WebAssembly.
+- [How We Built an In-Browser Language Server Using WASM (2022)](https://www.hiro.so/blog/write-clarity-smart-contracts-with-zero-installations-how-we-built-an-in-browser-language-server-using-wasm)

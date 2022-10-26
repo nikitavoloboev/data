@@ -867,6 +867,7 @@
 - [Virtue](https://github.com/bincode-org/virtue) - Sinless derive macro helper.
 - [autobox](https://github.com/insanitybit/autobox) - Compile time analysis for runtime sandboxing.
 - [Inter-Struct](https://github.com/Nukesor/inter-struct) - Automatically generated traits for operations between arbitrary structs.
+- [structmap](https://github.com/ex0dus-0x/structmap) - Procedural macro crate for conversion between Rust structs and associative containers.
 
 ## Math
 

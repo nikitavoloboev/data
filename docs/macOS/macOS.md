@@ -294,3 +294,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Nix macOS Monthly Discourse update posts](https://github.com/toonn/Nix-macOS-Monthly)
 - [Bootstrap a Linux build VM on macOS](https://github.com/Gabriella439/macos-builder)
 - [MIP](https://github.com/LIJI32/MIP) - macOS Injection Platform.
+- [macOS 13 Ventura review (2022)](https://arstechnica.com/gadgets/2022/10/macos-13-ventura-the-ars-technica-review/) ([HN](https://news.ycombinator.com/item?id=33329539))

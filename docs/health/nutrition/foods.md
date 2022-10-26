@@ -166,3 +166,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Agriculture at the End of the World (2022)](https://www.youtube.com/watch?v=Wi_nFz1CJSI)
 - [grocy](https://grocy.info/) - ERP beyond your fridge. Web-based self-hosted groceries & household management solution for your home. ([Code](https://github.com/grocy/grocy))
 - [Bluetooth Low Energy soil moisture sensor](https://github.com/rbaron/b-parasite) ([HN](https://news.ycombinator.com/item?id=33281310))
+- [Bourdain's World Map](https://www.anthonybourdainworldmap.com/)

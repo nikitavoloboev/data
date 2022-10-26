@@ -45,7 +45,7 @@
 - [Stanford AI Lab Papers and Talks at CoRL 2020](https://ai.stanford.edu/blog/corl-2020/)
 - [droidlet](https://github.com/facebookresearch/droidlet) - High-level robotics-agent and platform.
 - [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python)
-- [Robot Framework](https://robotframework.org/) - Generic open source automation framework. It can be used for test automation and robotic process automation (RPA). ([Code](https://github.com/robotframework/robotframework))
+- [Robot Framework](https://robotframework.org/) - Generic open source automation framework. It can be used for test automation and robotic process automation (RPA). ([Code](https://github.com/robotframework/robotframework)) ([HN](https://news.ycombinator.com/item?id=33340782))
 - [$100 robot kit running ROS2 and Navigation2 (2020)](https://blog.hadabot.com/ros2-nav2-go-to-goal-low-cost-robot-kit.html) ([HN](https://news.ycombinator.com/item?id=25389266))
 - [Probabilistic Robotics](https://github.com/liulinbo/slam/blob/master/Probabilistic%20Robotics%20_Sebastian%20Thrun%20et%20al..pdf)
 - [Springer Handbook of Robotics](https://link.springer.com/book/10.1007/978-3-319-32552-1)

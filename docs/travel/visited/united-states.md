@@ -17,6 +17,7 @@ I do worry about [quality of food in US](https://twitter.com/bigmagicdao/status/
 - [One of the things that boggles my mind about living in the US is how deeply individualism permeates every aspect of life. there’s no sense of community or a relational identity, really. It’s just every person onto their own at the end of the day. It’s very sad.](https://twitter.com/most_opppressed/status/1516802246087950338)
 - ["Democracy" in America is and has always been "government by capital". The original idea was that private wealth should drive government rather than family nobility. That's why only landowners voted, that's why the 3/5 compromise, etc.](https://twitter.com/izs/status/1521467530098864128)
 - [Majority of our food in the US is terrible for you](https://twitter.com/Austen/status/1566172574236565504)
+- With [EB-5 visa](https://www.uscis.gov/working-in-the-united-states/permanent-workers/eb-5-immigrant-investor-program), I can either do either [passive or active investment](https://www.youtube.com/watch?v=orVtSuGpuu8). Active is 1 million US dollars invested in my own startup in US with promise of creating 10 jobs within 2 years after approval of green card.
 
 ## Links
 
@@ -168,3 +169,4 @@ I do worry about [quality of food in US](https://twitter.com/bigmagicdao/status/
 - [Ask HN: Why is pay so much higher in the US? (or is it?) (2022)](https://news.ycombinator.com/item?id=32807800)
 - [Americana Aesthetics / Twitter](https://twitter.com/AmericanaAesth)
 - [America – Road Trip Simulator](https://4m3ric4.com/) ([HN](https://news.ycombinator.com/item?id=33217395))
+- [4 ways to immigrate from EU to USA (2022)](https://www.youtube.com/watch?v=orVtSuGpuu8)

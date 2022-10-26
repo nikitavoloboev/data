@@ -151,4 +151,4 @@ title: Zig
 - [That Time I Tried Porting Zig to SerenityOS (2022)](https://sin-ack.github.io/posts/sycl-talk-20221007/) ([Lobsters](https://lobste.rs/s/zon0fi/time_i_tried_porting_zig_serenityos))
 - [Mach engine & core examples](https://github.com/hexops/mach-examples)
 - [Ziglibc: Sweeping out the rug from underneath C - Jonathan Marler (2022)](https://www.youtube.com/watch?v=1N85yU6RMcY)
-- [Zig Is Self-Hosted Now, What's Next? (2022)](https://kristoff.it/blog/zig-self-hosted-now-what/) ([Lobsters](https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next))
+- [Zig Is Self-Hosted Now, What's Next? (2022)](https://kristoff.it/blog/zig-self-hosted-now-what/) ([Lobsters](https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next)) ([HN](https://news.ycombinator.com/item?id=33331549))

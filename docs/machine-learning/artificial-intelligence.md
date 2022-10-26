@@ -2,7 +2,7 @@
 
 I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI) as it gives a nice overview of what symbiosis of AI with humans can look like. Language models like [DALL·E](https://openai.com/blog/dall-e/) are fascinating. I want to be able to have a voice assistant that 'knows me' and I can asks question too that is actually good. [LA](../ideas/learn-anything.md) is a tool I am building that can eventually solve this problem as LA will know in a lot of detail which knowledge do you actually have. No other company is tracking this.
 
-[On the Measure of Intelligence](https://twitter.com/alexkowsik/status/1518602848421961730) is a good read.
+[On the Measure of Intelligence](https://twitter.com/alexkowsik/status/1518602848421961730) is a good read. [Bleeding Edge AI](https://bleedingedge.ai/) is nice way to stay up to date.
 
 ## Notes
 
@@ -148,3 +148,4 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 - [AIRI - Artificial Intelligence Research Institute](https://airi.net/) ([GitHub](https://github.com/AIRI-Institute))
 - [Large Model Applications by Modality](https://twitter.com/saranormous/status/1572791179636518913)
 - [GUT-AI initiative](https://github.com/GUT-AI/gut-ai) - Initiative which aims to eliminate the multiple, single-points-of-failure when using AI for real-life applications.
+- [Bleeding Edge AI](https://bleedingedge.ai/) - Feed of noteworthy developments in AI.

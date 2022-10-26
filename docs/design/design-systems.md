@@ -2,6 +2,8 @@
 
 [Primer](https://primer.style/), [Vercel](https://vercel.com/design), [Radix Primitives](https://www.radix-ui.com/), [Polaris](https://polaris.shopify.com/) & [Mantine](https://mantine.dev/) are my favorite. [Brand Site Design](https://www.brandsite.design/) has a nice list. [Utopia](https://utopia.fyi/) is nice guideline for responsive design. [Reshaped](https://reshaped.so/) is great too.
 
+[Component Gallery](https://component.gallery/) is great overview of different components.
+
 ## Interesting design systems
 
 - [Tailwind UI](https://tailwindui.com/) - Beautiful UI components, crafted by the creators of Tailwind CSS. ([HN](https://news.ycombinator.com/item?id=22422873)) ([HN 2](https://news.ycombinator.com/item?id=22463769))

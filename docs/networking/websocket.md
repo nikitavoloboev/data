@@ -9,7 +9,7 @@ title: WebSocket
 ## Links
 
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. ([Web](http://websocketd.com/)) ([HN](https://news.ycombinator.com/item?id=29656456))
-- [µWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web I/O for the most demanding of applications.
+- [µWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web I/O for the most demanding of applications. ([HN](https://news.ycombinator.com/item?id=33341823))
 - [µSockets](https://github.com/uNetworking/uSockets) - Cross-platform async networking and eventing foundation library written in standard C.
 - [µWebSockets](https://github.com/uNetworking/uWebSockets.js) - JavaScript web server.
 - [Sockette](https://github.com/lukeed/sockette) - Cutest little WebSocket wrapper.

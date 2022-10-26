@@ -393,6 +393,7 @@
 - [SaaS 4 Devs](https://github.com/nicolas-racchi/SaaS4Devs) - Awesome collection of content for developers trying to bootstrap their SaaS.
 - [Playbook of the Incompetent Leader](https://twitter.com/shreyas/status/1339997380335128576)
 - [Being on a board as an employee (2022)](https://paulosman.me/2022/10/17/being-on-a-board/) ([HN](https://news.ycombinator.com/item?id=33234884))
+- [Product Market Fit](https://www.kevinslin.com/notes/htchyy536bb169mzu47ksb6/) ([HN](https://news.ycombinator.com/item?id=33308135))
 
 ## Images
 

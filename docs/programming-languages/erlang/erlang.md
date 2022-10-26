@@ -167,3 +167,5 @@ title: Erlang
 - [epgsql](https://github.com/epgsql/epgsql) - Erlang PostgreSQL client library.
 - [eqWAlizer](https://github.com/WhatsApp/eqwalizer) - Type-checker for Erlang. ([HN](https://news.ycombinator.com/item?id=32330284))
 - [Tree-sitter Grammar for Erlang](https://github.com/AbstractMachinesLab/tree-sitter-erlang)
+- [Hello, Erlang! Podcast](https://anchor.fm/helloerlang/)
+- [Zotonic with Marc Worrell](https://anchor.fm/helloerlang/episodes/Zotonic-with-Marc-Worrell-e1po1sj/a-a8ocvji)

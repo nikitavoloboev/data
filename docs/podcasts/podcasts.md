@@ -157,6 +157,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [What’s one podcast that you recommend over all others?](https://www.reddit.com/r/podcasts/comments/uyyidd/whats_one_podcast_that_you_recommend_over_all/)
 - [If you have a favorite podcast, what is it and why is it your favorite? (2022)](https://www.reddit.com/r/podcasts/comments/xm65w5/if_you_have_a_favorite_podcast_what_is_it_and_why/)
 - [Looking for "well this took me down a rabbit hole" podcasts](https://www.reddit.com/r/podcasts/comments/xzxc8h/looking_for_well_this_took_me_down_a_rabbit_hole/)
+- [Podcasts that actually make you laugh (2022)](https://www.reddit.com/r/podcasts/comments/yd96p5/podcasts_that_actually_make_you_laugh/)
 
 ## Notes
 

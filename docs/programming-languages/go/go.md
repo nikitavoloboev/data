@@ -880,3 +880,4 @@ if *boolArgPtr != false {
 - [Slides and Links for 2022 GopherCon talks](https://github.com/gophercon/2022-talks)
 - [GopherCon](https://www.gophercon.com/) ([GitHub](https://github.com/gophercon))
 - [GoLang Tutorials Blog](https://golangdocs.com/)
+- [Another iterator proposal from the Go team](https://github.com/golang/go/discussions/56413) ([Lobsters](https://lobste.rs/s/gjyxba/another_iterator_proposal_from_go_team))

@@ -79,3 +79,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [A Decade of Dotfiles (2022)](https://evanhahn.com/a-decade-of-dotfiles/) ([Lobsters](https://lobste.rs/s/v18rge/decade_dotfiles)) ([HN](https://news.ycombinator.com/item?id=31557430))
 - [Shelf](https://github.com/iamd3vil/shelf) - Good Symlinks Manager. Swap files from any location with symlinks and manage them easily in one place.
 - [Unofficial guide to dotfiles on GitHub](https://dotfiles.github.io/) ([HN](https://news.ycombinator.com/item?id=32632533))
+- [Dotfile madness (2019)](https://0x46.net/thoughts/2019/02/01/dotfile-madness/) ([HN](https://news.ycombinator.com/item?id=33311110))

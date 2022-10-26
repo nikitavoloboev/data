@@ -43,3 +43,4 @@ Because that's what life is. Trying to peek under the covers of this reality onl
 - [Cumulative loneliness and subsequent memory function](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12734) ([HN](https://news.ycombinator.com/item?id=32347681))
 - [Paul McCartney's Freakish Memory (2022)](https://ianleslie.substack.com/p/paul-mccartneys-freakish-memory) ([HN](https://news.ycombinator.com/item?id=33071090))
 - [False memory implantation in adults is easy](https://brainpizza.substack.com/p/sins-of-memory) ([HN](https://news.ycombinator.com/item?id=33107756))
+- [Our Conscious Experience of the World Is But a Memory, Says New Theory (2022)](https://singularityhub.com/2022/10/25/could-consciousness-be-a-memory-system-new-theory-says-yes/) ([Reddit](https://www.reddit.com/r/singularity/comments/ydfjsa/our_conscious_experience_of_the_world_is_but_a/)) ([HN](https://news.ycombinator.com/item?id=33338124))

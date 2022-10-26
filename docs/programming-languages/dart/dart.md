@@ -51,3 +51,4 @@ title: Dart
 - [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) - Fast, minimalistic backend framework for Dart.
 - [Dotlin](https://github.com/dotlin-org/dotlin) - Kotlin to Dart compiler.
 - [dart_eval](https://github.com/ethanblake4/dart_eval) - Extensible Dart interpreter for Dart with full interop.
+- [Ask HN: Why isn't Dart more popular? (2022)](https://news.ycombinator.com/item?id=33338709)

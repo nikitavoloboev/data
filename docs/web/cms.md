@@ -40,4 +40,4 @@
 - [Statamic](https://statamic.com/) - Powerful, flat-file CMS built on Laravel.
 - [Payload CMS](https://payloadcms.com/) - Node & React TypeScript Headless CMS. ([Code](https://github.com/payloadcms/payload)) ([Reddit](https://www.reddit.com/r/javascript/comments/tgcm1n/payload_a_headless_typescript_cms_just_shipped_20/))
 - [Wagtail CMS](https://wagtail.org/) - Django Content Management System. ([Code](https://github.com/wagtail/wagtail))
-- [Outstatic](https://github.com/avitorio/outstatic) - Static CMS for Next.js.
+- [Outstatic](https://github.com/avitorio/outstatic) - Static CMS for Next.js. ([Web](https://outstatic.com/))

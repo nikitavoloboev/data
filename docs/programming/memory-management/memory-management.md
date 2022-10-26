@@ -113,3 +113,4 @@
 - [Untangling Lifetimes: The Arena Allocator (2022)](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator) - Making performant dynamic manual memory management in C feel almost like garbage collection. ([Lobsters](https://lobste.rs/s/l5e7oz/untangling_lifetimes_arena_allocator))
 - [Memory Safety in a Modern Systems Programming Language (2022)](https://dlang.org/blog/2022/06/21/dip1000-memory-safety-in-a-modern-system-programming-language-pt-1/)
 - [The sticky mark-bit algorithm (2022)](https://wingolog.org/archives/2022/10/22/the-sticky-mark-bit-algorithm)
+- [How we Eliminated 99% of gVisor Networking Memory Allocations with Enhanced Buffer Pooling (2022)](https://gvisor.dev/blog/2022/10/24/buffer-pooling/)

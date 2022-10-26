@@ -183,3 +183,4 @@ Companies that do [location-based pay bands](https://twitter.com/kyleve/status/1
 - [Alex Staff Agency](https://alexstaff.agency/)
 - [Ask HN: Strategies to land remote US job while living in living in EU? (2022)](https://news.ycombinator.com/item?id=32961061)
 - [Tell HN: Beware 'Ungrowth' in Your Job (2022)](https://news.ycombinator.com/item?id=33246841)
+- [Keyboard Jobs](https://keyboardjobs.com/) - Job board which truly understands software developers. ([HN](https://news.ycombinator.com/item?id=33340548))

@@ -53,3 +53,4 @@ Amsterdam is my favorite city I've lived in thus far. I love how every city in N
 - [Dutch VAT (BTW) explained](https://www.youtube.com/watch?v=73i7ILB78XM)
 - [Dutch VAT and income tax for the self-employed](https://business.gov.nl/regulation/self-employed-professionals-tax/)
 - [The TaxSavers](https://taxsavers.nl/) - Tax advisor in the Netherlands.
+- [The Netherlands Isn't Perfect (2022)](https://www.youtube.com/watch?v=9d2WPncRi24)
