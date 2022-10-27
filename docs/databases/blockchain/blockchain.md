@@ -412,3 +412,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Farcaster ecosystem](https://farcasterxyz.notion.site/Farcaster-ecosystem-af207db2885349d383dee69eccd77b37)
 - [Royalties in NFTs](https://twitter.com/glowwallet/status/1579240596467695616)
 - [Glow ID](https://glow.xyz/glowid) - Social Profile That You Own.
+- ["Beyond Blockchain: Convergent Consensus" by Mike Anderson (2022)](https://www.youtube.com/watch?v=XmDUkrOAhsY)

@@ -1,6 +1,6 @@
 # Cycling
 
-[VanMoof](https://www.vanmoof.com/) & [Cowboy](https://cowboy.com/) bikes are nice.
+[VanMoof](https://www.vanmoof.com/), [Cowboy](https://cowboy.com/) & [Rad Power Bikes](https://www.radpowerbikes.com/) bikes are nice.
 
 ## Interesting bikes
 
@@ -46,3 +46,4 @@
 - [Great ebike brands (2022)](https://twitter.com/mndoci/status/1566242748956831744)
 - [Electric Bike, Stupid Love of My Life](https://craigmod.com/essays/electric_bikes/)
 - [Challenging Yourself (2022)](https://debbie.codes/blog/challenging-yourself/)
+- [Rad Power Bikes](https://www.radpowerbikes.com/)

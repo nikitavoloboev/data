@@ -47,3 +47,4 @@ I love reading these journals:
 - [Observations on 6 years of journaling (2022)](https://herman.bearblog.dev/years-of-journaling/)
 - [Self-Dialogue as a Journaling Strategy (2022)](https://sadgrl.online/blog/entries/selfinterview.html) ([HN](https://news.ycombinator.com/item?id=32237190))
 - [Ведение дневника на ежедневной основе](https://twitter.com/etosamoe3/status/1570785865328390146)
+- [Ask HN: How do you maintain your daily log? (2022)](https://news.ycombinator.com/item?id=33359329)

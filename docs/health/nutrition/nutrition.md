@@ -106,3 +106,4 @@ I try drink only water/tea with occasional coffee. No added sugar in food/drinks
 - [Whole Foods Plant Based Diet Reddit](https://www.reddit.com/r/WholeFoodsPlantBased/)
 - [Plant Based Diet Reddit](https://www.reddit.com/r/PlantBasedDiet/)
 - [A Chemical Hunger – Part I: Mysteries (2021)](https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/) ([Tweet](https://twitter.com/bigmagicdao/status/1583729984304164864))
+- [How do gland problems stop people from losing weight?](https://www.reddit.com/r/askscience/comments/ydyk2l/how_do_gland_problems_stop_people_from_losing/)

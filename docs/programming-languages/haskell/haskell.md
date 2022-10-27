@@ -465,3 +465,4 @@ title: Haskell
 - [Haskell Playground (2022)](https://www.youtube.com/watch?v=UFZeRgqZs7E)
 - [Interview with Simon Peyton Jones (2022)](https://haskell.foundation/podcast/11/)
 - [What does "isomorphic" mean (in Haskell)? (2022)](https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html)
+- [The Lambda Cube in Haskell: what construct do I need for this polymorphism? (2022)](https://jade.fyi/blog/the-lambda-cube/) ([Tweet](https://twitter.com/leftpaddotpy/status/1585141271844515840))

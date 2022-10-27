@@ -131,3 +131,4 @@
 - [Ed25519 Deep Dive Addendum (2022)](https://cendyne.dev/posts/2022-09-11-ed25519-deep-dive-addendum.html)
 - [ssh-key-sync](https://github.com/shoenig/ssh-key-sync) - Tool for managing ssh authorized_key files on servers.
 - [RustCrypto: SSH](https://github.com/RustCrypto/SSH) - Pure Rust implementation of components of the Secure Shell (SSH) protocol.
+- [Making an SSH client the hard way (2022)](https://tailscale.com/blog/ssh-console/) ([Tweet](https://twitter.com/NathanMcNulty/status/1585693326854221824))

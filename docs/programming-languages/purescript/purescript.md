@@ -68,3 +68,4 @@ title: PureScript
 - [PureScript Easy FFI](https://github.com/pelotom/purescript-easy-ffi)
 - [Tecton](https://github.com/nsaunders/purescript-tecton) - CSS in PureScript.
 - [purescript-codec](https://github.com/garyb/purescript-codec) - General purpose bi-directional codecs.
+- [PureScript and Halogen is better at almost everything (2022)](https://twitter.com/christopherdone/status/1572329195858018307)

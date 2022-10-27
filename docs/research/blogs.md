@@ -190,6 +190,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Bert Hubert](https://berthub.eu/articles/)
 - [Maggie Appleton](https://maggieappleton.com/essays)
 - [Jakub Kozłowski](https://blog.kubukoz.com/)
+- [Nicholas Nethercote](https://nnethercote.github.io/)
 
 ## Notes
 

@@ -2258,6 +2258,7 @@
 - [pre](https://github.com/aticu/pre) - Rust library to help programmers correctly uphold preconditions for function calls.
 - [Thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium / WebDriver library for Rust, for automated website UI testing.
 - [syn-rsx](https://github.com/stoically/syn-rsx) - Syn-powered parser for JSX-like TokenStreams.
+- [Deluge](https://github.com/mkawalec/deluge) - Async stream processor. ([Reddit](https://www.reddit.com/r/rust/comments/yen6d1/new_async_stream_processor_deluge/))
 
 ## Cargo Plugins
 

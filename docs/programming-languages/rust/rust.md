@@ -919,3 +919,5 @@ title: Rust
 - [Concurrency programming via Rust Book](https://github.com/smallnest/concurrency-programming-via-rust)
 - [Why Rust? (2022)](https://www.rerun.io/blog/why-rust) ([HN](https://news.ycombinator.com/item?id=33244756)) ([Reddit](https://www.reddit.com/r/rust/comments/y71s57/why_rust/))
 - [Rust vs Go (2022)](https://www.reddit.com/r/rust/comments/y8dhxk/rust_vs_go/)
+- [How to speed up the Rust compiler in October 2022](https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html)
+- [Do we need a "Rust Standard"? (2022)](https://blog.m-ou.se/rust-standard/) ([HN](https://news.ycombinator.com/item?id=33348323))

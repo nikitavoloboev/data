@@ -1,6 +1,6 @@
 # Data Visualization
 
-[Vega](https://vega.github.io/) is great. [Hands-On Data Visualization Book](https://handsondataviz.org/) is nice intro.
+[Vega](https://vega.github.io/) is great. [Hands-On Data Visualization Book](https://handsondataviz.org/) & [Common Plots](https://aeturrell.github.io/coding-for-economists/vis-common-plots.html) are nice intros.
 
 ## Nice examples
 
