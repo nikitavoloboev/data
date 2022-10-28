@@ -264,3 +264,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Grm](https://github.com/grmjs/grm) - MTProto API Client for Deno.
 - [Arigram](https://github.com/TruncatedDinosour/arigram) - Fork of tg, hackable telegram TUI client.
 - [GoGram](https://github.com/AmarnathCJD/gogram) - Full-native implementation of MTProto protocol on Go.
+- [tgcli](https://github.com/erayerdin/tgcli) - Telegram Terminal Application.
