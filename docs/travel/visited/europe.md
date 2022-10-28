@@ -14,6 +14,7 @@ So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](unit
 
 - [Czech has low income taxes. Base rate is 15 and 22 % is high rate. But you also add social and health insurance. We also have small business licenses where you can significantly reduce social so no retirement fund but a lot of cash on hand.](https://www.reddit.com/r/eupersonalfinance/comments/we1pod/about_7000_to_15000_income_per_month_how_to_invest/)
 - [After 3 weeks of living in Europe I would like to admit I was wrong. Cities arent spiritually bankrupt wastelands, I only ever lived in North American ones and did not expect how incredible it is to live in cities that cater to the human experience.](https://twitter.com/lilbabygandhi/status/1573683284416102402)
+- [As of 2022, I believe the best tax setup for most working individuals and families to be comprised of Malta for the corporate setup and Portugal for personal residence.](https://jeangalea.com/low-tax-europe/)
 
 ## Links
 
@@ -88,3 +89,5 @@ So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](unit
 - [The EU made Simple - YouTube](https://www.youtube.com/c/TheEUmadeSIMPLE/videos)
 - [Which residency / work setup would ensure the lowest possible income tax in Europe? (2022)](https://www.reddit.com/r/eupersonalfinance/comments/y0aato/which_residency_work_setup_would_ensure_the/)
 - [Europe in Crisis with Lyn Alden (2022)](https://www.youtube.com/watch?v=2Vy7b98yqkQ)
+- [Where’s Europe’s Delaware? (2021)](https://europeanstraits.substack.com/p/wheres-europes-delaware)
+- [The Best European Corporate and Personal Tax Structures in 2022](https://jeangalea.com/low-tax-europe/)

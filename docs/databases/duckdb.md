@@ -20,3 +20,4 @@ title: DuckDB
 - [Running DuckDB in production (2022)](https://twitter.com/bernhardsson/status/1579460027907444738)
 - [Duck CLI](https://github.com/dbcli/duckcli) - CLI for DuckDB.
 - [Modern Data Stack in a Box with DuckDB (2022)](https://duckdb.org/2022/10/12/modern-data-stack-in-a-box.html)
+- [Lightweight Compression in DuckDB (2022)](https://duckdb.org/2022/10/28/lightweight-compression.html)

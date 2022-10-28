@@ -169,3 +169,4 @@ title: Tailwind CSS
 - [Tailwind CSS v3.2: revisiting my “feature creep” warning (2022)](https://www.brycewray.com/posts/2022/10/tailwind-css-v3-2-revisiting-feature-creep-warning/) ([HN](https://news.ycombinator.com/item?id=33298806))
 - [TailwindCSS-Fluid-Type](https://github.com/davidhellmann/tailwindcss-fluid-type) - Plugin that makes the use of Fluid Type a breeze.
 - [TailwindCSS Container Queries](https://github.com/tailwindlabs/tailwindcss-container-queries)
+- [Tru Narla: Building a design system in Next.js with Tailwind (2022)](https://www.youtube.com/watch?v=T-Zv73yZ_QI)

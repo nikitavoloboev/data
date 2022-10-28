@@ -24,6 +24,7 @@ I think what Twitter is doing with [Bluesky](https://twitter.com/bluesky) is pre
 - [The main benefit of taking a break from social media is that you stop living in a fictional world and finally start dealing with your own reality.](https://news.ycombinator.com/item?id=29149961)
 - [Instead of asking “how will you make money?” Or with NFTs “how much money are you making right now buying and selling into the hype?”, please ask “how does this lead to deep habitual usage?”](https://twitter.com/joshelman/status/1458466576449953799)
 - [Social networks usage destroy attention span for many](https://www.youtube.com/watch?v=kw_nY-tMuHE)
+- [The greatest business you can build is one that helps people feel loved and doing so in a financially sustainable way.](https://twitter.com/nikitabier/status/1586042045826621440)
 
 ## Links
 

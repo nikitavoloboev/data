@@ -120,3 +120,4 @@
 - [DiffusionDB](https://github.com/poloclub/diffusiondb) - Large-scale text-to-image prompt gallery dataset based on Stable Diffusion.
 - [Implementation of a server for the Stability AI Stable Diffusion API](https://github.com/hafriedlander/stable-diffusion-grpcserver)
 - [Compositional Visual Generation with Composable Diffusion Models (2022)](https://arxiv.org/abs/2206.01714) ([Code](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch))
+- [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.

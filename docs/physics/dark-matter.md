@@ -14,3 +14,4 @@
 - [The Absurd Search For Dark Matter (2022)](https://www.youtube.com/watch?v=6etTERFUlUI)
 - [Dark Matter Fun (2022)](https://www.tbray.org/ongoing/When/202x/2022/07/18/Long-Dark-Matter-Links) ([HN](https://news.ycombinator.com/item?id=32151800))
 - [Current state of dark matter research (2022)](https://news.ycombinator.com/item?id=32415590)
+- [Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter (2022)](https://nautil.us/brightest-ever-space-explosion-reveals-possible-hints-of-dark-matter-244346/) ([HN](https://news.ycombinator.com/item?id=33370944))
