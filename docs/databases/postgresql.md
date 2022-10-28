@@ -472,7 +472,7 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postgres everywhere. SQLite is embedded everywhere. Will Postgres follow suit? (2022)](https://www.infoworld.com/article/3655953/postgres-everywhere.html)
 - [icu_ext](https://github.com/dverite/icu_ext) - PostgreSQL extension (in C) to expose functionality from the ICU library.
 - [pg-simplify-inflector](https://github.com/graphile/pg-simplify-inflector) - Simplifies the graphile-build-pg inflector to trim the `ByFooIdAndBarId` from relations.
-- [Multiranges in PostgreSQL 14 (2022)](https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/)
+- [Multiranges in PostgreSQL 14 (2022)](https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/) ([HN](https://news.ycombinator.com/item?id=33353719))
 - [SupaDB](https://www.supadb.dev/) - Connect and play with Supabase REST API / GraphQL easily. ([Code](https://github.com/zernonia/supadb))
 - [IaSQL](https://github.com/iasql/iasql-engine) - Manage cloud infrastructure as data in a hosted PostgreSQL database. ([Web](https://iasql.com/))
 - [SQL views for Dune Analytics](https://github.com/duneanalytics/abstractions)
@@ -591,3 +591,6 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postgres 15 Merge Command with Examples (2022)](https://www.crunchydata.com/blog/a-look-at-postgres-15-merge-command-with-examples) ([HN](https://news.ycombinator.com/item?id=33236780))
 - [PostgresML is 8-40x faster than Python HTTP microservices (2022)](https://postgresml.org/blog/postgresml-is-8x-faster-than-python-http-microservices/) ([HN](https://news.ycombinator.com/item?id=33269615))
 - [pgsentinel](https://github.com/pgsentinel/pgsentinel) - PostgreSQL extension providing Active session history.
+- [Postgres: Safely renaming a table with no downtime using updatable views (2022)](https://brandur.org/fragments/postgres-table-rename)
+- [PGroonga](https://pgroonga.github.io/) - Fast full text search platform for all languages.
+- [Push-based outbox pattern with Postgres logical replication (2022)](https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/) ([HN](https://news.ycombinator.com/item?id=33370649))

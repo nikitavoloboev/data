@@ -701,3 +701,4 @@ Ethereum is a virtual machine built using a blockchain (spread around many clien
 - [MEV Template](https://github.com/DeGatchi/mev-template-rs) - Template to build a MEV bot from.
 - [Micro-Web3](https://github.com/paulmillr/micro-web3) - Typesafe Web3 with minimum deps: call eth contracts directly from JS.
 - [StarkNet Basecamp](https://github.com/starknet-edu/basecamp) - Curriculum built to teach the fundamental building blocks of the Cairo programming language and StarkNet development.
+- [solc-typed-ast](https://github.com/ConsenSys/solc-typed-ast) - TypeScript package providing a normalized typed Solidity AST along with the utilities necessary to generate the AST (from Solc) and traverse/manipulate it.

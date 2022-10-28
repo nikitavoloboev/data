@@ -104,3 +104,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [Contributing to Complex Projects (2022)](https://mitchellh.com/writing/contributing-to-complex-projects)
 - [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/) ([HN](https://news.ycombinator.com/item?id=30858311))
 - [Questions for a new technology (2019)](https://kellanem.com/notes/new-tech)
+- [What “work” looks like (2022)](https://blog.jim-nielsen.com/2022/what-work-looks-like/) ([HN](https://news.ycombinator.com/item?id=33326080))

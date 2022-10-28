@@ -226,3 +226,4 @@ title: Jupyter Notebooks
 - [nb_conda_kernels](https://github.com/Anaconda-Platform/nb_conda_kernels) - Package for managing conda environment-based kernels inside of Jupyter.
 - [Jupyter-KeepAlive](https://github.com/minrk/jupyter-keepalive) - Keep Jupyter servers alive.
 - [Jupyter Ascending](https://github.com/untitled-ai/jupyter_ascending) - Sync Jupyter Notebooks from any editor.
+- [Geometric Kernels](https://github.com/GPflow/GeometricKernels) - Geometric kernels on manifolds, meshes and graphs.

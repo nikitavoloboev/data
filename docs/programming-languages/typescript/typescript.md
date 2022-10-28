@@ -298,6 +298,8 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler. ([Tweet](https://twitter.com/MarcJSchmidt/status/1582119945571213312))
 - [Improve DX tips for TypeScript projects (2022)](https://twitter.com/TkDodo/status/1582282692577853440)
 - [TinySource](https://github.com/tinysource/tinysource) - Completely free TypeScript one-file source code snippets with tests, which can be copied to avoid extra dependencies.
+- [Intermediate to Advanced TypeScript (2022)](https://tigerabrodi.blog/intermediate-to-advanced-typescript)
+- [stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker.
 
 ## Images
 

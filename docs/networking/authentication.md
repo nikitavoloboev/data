@@ -272,3 +272,5 @@
 - [How to authenticate content in the age of AI?](https://twitter.com/balajis/status/1578671900066476033)
 - [Ask HN: WebAuthn – Replace Password or Second Factor? (2022)](https://news.ycombinator.com/item?id=33203972)
 - [Passkeys.io](https://www.passkeys.io/) - Passkey Authentication Demo. ([HN](https://news.ycombinator.com/item?id=33331749))
+- [Passkeys as a tool for user retention (2022)](https://matduggan.com/passkeys-as-a-tool-for-user-retention/)
+- [Idemeum](https://idemeum.com/) - Passwordless access to apps and infrastructure. ([HN](https://news.ycombinator.com/item?id=33346183))

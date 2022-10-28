@@ -46,3 +46,4 @@ title: Unreal Engine
 - [Figma2Unreal](https://github.com/Phil-L-101/Figma2Unreal) - Uses Figma API and python scripts to take assets created in Figma and create nested UMG widgets suitable for making more advanced prototypes.
 - [Wonder Interactive's The Immersive Web will play Unreal 4 games on the web (2022)](https://venturebeat.com/games/wonder-interactives-the-immersive-web-will-play-unreal-4-games-on-the-web/)
 - [WONDER](https://www.theimmersiveweb.com/) - Building an all-in-one ecosystem for bringing your Unreal Engine apps to HTML5.
+- [Pixel Streaming Cloud Guide](https://github.com/TensorWorks/PixelStreamingCloudGuide)

@@ -152,3 +152,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Gemini](https://github.com/anishathalye/gemini) - Modern LaTeX beamerposter theme.
 - [latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
 - [Lambda Operator in LaTeX (2022)](https://commutative.xyz/~miguelmurca/blog/x/lambda.html) ([HN](https://news.ycombinator.com/item?id=33259630))
+- [LaPreprint](https://github.com/roaldarbol/LaPreprint) - Nicely formatted LaTeX preprint template.

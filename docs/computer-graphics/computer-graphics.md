@@ -252,3 +252,4 @@
 - [Rendu](https://github.com/kosua20/Rendu) - Simple real time graphics playground for experimentations.
 - [Grid parts and relationships](https://www.redblobgames.com/grids/parts/)
 - [FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - Fastest and most memory efficient lattice Boltzmann CFD software, running on any GPU via OpenCL.
+- [Metaballs (2017)](https://varun.ca/metaballs/) ([Lobsters](https://lobste.rs/s/flinr6/metaballs))

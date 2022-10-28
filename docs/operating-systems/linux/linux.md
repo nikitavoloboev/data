@@ -623,3 +623,5 @@ title: Linux
 - [Linux: What Can You Epoll? (2022)](https://darkcoding.net/software/linux-what-can-you-epoll/) ([HN](https://news.ycombinator.com/item?id=33299650))
 - [How the clipboard works in Linux (2022)](https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/)
 - [My thoughts on the Framework laptop (2022)](https://ruscur.au/framework/) ([HN](https://news.ycombinator.com/item?id=33322143))
+- [SadServers - Troubleshooting Linux Servers](https://sadservers.com/) ([HN](https://news.ycombinator.com/item?id=33344142))
+- [Writing systemd units that stop gracefully before shutdown (2022)](https://www.psdn.io/posts/systemd-shutdown-unit/) ([HN](https://news.ycombinator.com/item?id=33345867))

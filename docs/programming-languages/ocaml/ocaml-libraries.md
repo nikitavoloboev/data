@@ -225,6 +225,8 @@ title: OCaml libraries
 - [Shexp](https://github.com/janestreet/shexp) - Process library and s-expression based shell.
 - [Timere](https://github.com/daypack-dev/timere) - OCaml date time handling and reasoning suite.
 - [stramon](https://github.com/darrenldl/stramon) - Strace based program behavior monitor/analyzer.
+- [pixeldrift](https://github.com/dbuenzli/pixeldrift) - Find perceptible pixel differences with OCaml.
+- [Parmap](https://github.com/rdicosmo/parmap) - Minimalistic library allowing to exploit multicore architecture for OCaml programs with minimal modifications.
 
 ## Links
 

@@ -883,6 +883,7 @@
 - [Exmex](https://github.com/bertiqwerty/exmex) - Math parser and evaluator in Rust, capable of partial differentiation, allows the use of custom operators.
 - [cglinalg](https://github.com/lambdaxymox/cglinalg) - Low-dimensional linear algebra library for real-time computer graphics.
 - [kmeans-colors](https://github.com/okaneco/kmeans-colors) - k-means clustering library and binary to find dominant colors in images.
+- [roots](https://github.com/vorot/roots) - Library of well known algorithms for numerical root finding.
 
 ## Other
 

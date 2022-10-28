@@ -225,3 +225,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Instahunter](https://github.com/araekiel/instahunter) - CLI OSINT app that can fetch data from Instagram's Web API without authentication.
 - [sico](https://github.com/andygrunwald/sico) - Sitemap comparison tool.
 - [Scalpel](https://github.com/fimad/scalpel) - High level web scraping library for Haskell.
+- [Unfurl](https://github.com/jacktuck/unfurl) - Metadata scraper with support for oEmbed, Twitter Cards and Open Graph Protocol for Node.js.

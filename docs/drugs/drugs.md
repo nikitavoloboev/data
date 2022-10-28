@@ -84,3 +84,4 @@ Only 'hard' drugs I partake in are [psychedelics](psychedelics/psychedelics.md).
 - [Drugs Multireddit](https://www.reddit.com/user/roionsteroids/m/drugs/)
 - [Drugs that feel new and unique](https://www.reddit.com/r/researchchemicals/comments/y6h7cf/drugs_that_feel_new_and_unique/)
 - [Most people on antidepressants don’t need them (2022)](https://www.economist.com/leaders/2022/10/19/most-people-on-antidepressants-dont-need-them) ([HN](https://news.ycombinator.com/item?id=33272760))
+- [DiffSBDD: Structure-based Drug Design with Equivariant Diffusion Models](https://github.com/arneschneuing/DiffSBDD)

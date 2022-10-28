@@ -201,3 +201,4 @@ title: Vue.js
 - [Anu](https://github.com/jd-solanki/anu) - Focused utility based Vue component library built on top of UnoCSS & VueUse. ([Web](https://anu-vue.netlify.app/))
 - [Vue TermUI](https://github.com/vue-terminal/vue-termui) - Modern Terminal UI Framework.
 - [Nuxt Web Bundle](https://github.com/danielroe/nuxt-web-bundle) - Generate web bundles with Nuxt 3.
+- [Flowbite Vue 3](https://flowbite-vue.com/) - Official Vue 3 components built for Flowbite and Tailwind CSS. ([Code](https://github.com/themesberg/flowbite-vue))

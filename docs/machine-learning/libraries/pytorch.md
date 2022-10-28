@@ -461,3 +461,4 @@ title: PyTorch
 - [Bert-squeeze](https://github.com/JulesBelveze/bert-squeeze) - Tools for Transformers compression using PyTorch Lightning.
 - [PyTorch dual-attention LSTM-autoencoder for multivariate Time Series](https://github.com/JulesBelveze/time-series-autoencoder)
 - [torch-scan](https://github.com/frgfm/torch-scan) - Seamless analysis of your PyTorch models (RAM usage, FLOPs, MACs, receptive field, etc.).
+- [Kernl](https://github.com/ELS-RD/kernl) - Lets you run PyTorch transformer models several times faster on GPU with a single line of code, and is designed to be easily hackable.

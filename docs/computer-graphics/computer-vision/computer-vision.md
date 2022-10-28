@@ -974,3 +974,4 @@
 - [Real-Time Neural Character Rendering with Pose-Guided Multiplane Images (2022)](https://arxiv.org/abs/2204.11820) ([Code](https://github.com/ken-ouyang/PGMPI))
 - [Subspace Regularizers for Few-Shot Class Incremental Learning (2022)](https://arxiv.org/abs/2110.07059) ([Code](https://github.com/feyzaakyurek/subspace-reg))
 - [Exploring Long-Sequence Masked Autoencoders (2022)](https://arxiv.org/abs/2210.07224) ([Code](https://github.com/facebookresearch/long_seq_mae))
+- [Awesome 3D-aware Image Synthesis – Papers, Codes and Datasets](https://github.com/weihaox/awesome-3D-aware-synthesis)

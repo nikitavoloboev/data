@@ -203,6 +203,8 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Dual Universe](https://dualuniverse.game/) - Sci-fi MMORPG that takes place in a continuous, single-shard world. ([Lua examples](https://github.com/dual-universe/lua-examples))
 - [MAR1D](https://mar1d.com/) - First-Person Mario. ([HN](https://news.ycombinator.com/item?id=33178301))
 - [Polytopia](https://polytopia.io/)
+- [Oxygen Not Included](https://store.steampowered.com/app/457140/Oxygen_Not_Included/) - Space-colony simulation game. ([Fully Automated Drecko Ranching](https://steamcommunity.com/sharedfiles/filedetails/?id=2685094605))
+- [Odd Giants](https://oddgiants.com/)
 
 ## Recommendations
 

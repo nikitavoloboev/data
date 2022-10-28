@@ -295,3 +295,7 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Bootstrap a Linux build VM on macOS](https://github.com/Gabriella439/macos-builder)
 - [MIP](https://github.com/LIJI32/MIP) - macOS Injection Platform.
 - [macOS 13 Ventura review (2022)](https://arstechnica.com/gadgets/2022/10/macos-13-ventura-the-ars-technica-review/) ([HN](https://news.ycombinator.com/item?id=33329539))
+- [Ventura volume layout (2022)](https://eclecticlight.co/2022/10/25/ventura-volume-layout/)
+- [Booting an M1 Mac from hardware to kexts (2022)](https://eclecticlight.co/2022/01/04/booting-an-m1-mac-from-hardware-to-kexts-1-hardware/)
+- [Running Intel Binaries in Linux VMs with Rosetta](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta) ([HN](https://news.ycombinator.com/item?id=33338739))
+- [Quill](https://github.com/anchore/quill) - Simple mac binary signing from any platform.

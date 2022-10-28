@@ -1020,6 +1020,8 @@
 - [SporTran](https://github.com/sissaschool/sportran) - Code to estimate transport coefficients from the cepstral analysis of a (multi)variate current stationary time series.
 - [Pandas Flavor](https://github.com/Zsailer/pandas_flavor) - Easy way to write your own flavor of Pandas.
 - [Koda Validate](https://github.com/keithasaurus/koda-validate) - Type safe, combinable validation for Python. ([HN](https://news.ycombinator.com/item?id=33331791))
+- [PyDataset](https://github.com/iamaziz/PyDataset) - Provides instant access to many datasets right from Python (in pandas DataFrame structure).
+- [STUMPY](https://github.com/TDAmeritrade/stumpy) - Powerful and scalable Python library for modern time series analysis.
 
 ## Notes
 

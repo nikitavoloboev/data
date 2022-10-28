@@ -181,3 +181,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [Feedbag](https://github.com/damog/feedbag) - Ruby's favorite auto-discovery tool/library.
 - [The struggles of building a Feed Reader (2022)](https://jackevansevo.github.io/posts/struggles-of-building-an-rss-feed-reader/) ([Lobsters](https://lobste.rs/s/u6nrj0/struggles_building_feed_reader))
 - [Feed to SQLite](https://github.com/eyeseast/feed-to-sqlite) - Download an RSS or Atom feed and save it to a SQLite database.
+- [Get RSS feed URL for iTunes Podcast ID](https://www.deanishe.net/post/2022/10/get-rss-feed-url-for-itunes-podcast-id/)

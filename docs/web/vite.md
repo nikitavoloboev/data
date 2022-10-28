@@ -115,3 +115,4 @@ title: Vite
 - [Vite-Plugin-Minify](https://github.com/zhuweiyou/vite-plugin-minify) - Minify HTML in production.
 - [What's great about ViteJS (2022)](https://twitter.com/ebey_jacob/status/1578439326853369863)
 - [ViteConf 2022 Replay](https://viteconf.org/2022/replay)
+- [Manually Pre-Bundling of Vite](https://github.com/vite-plugin/vite-plugin-optimizer)

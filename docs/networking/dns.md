@@ -251,3 +251,4 @@ title: DNS
 - [MagicDNS is Generally Available (2022)](https://tailscale.com/blog/magicdns/) ([HN](https://news.ycombinator.com/item?id=33276601))
 - [Automated learning of regexes for DNS discovery](https://github.com/cramppet/regulator)
 - [DNS privacy with speed? Evaluating DNS over QUIC and its impact on web performance (2022)](https://dl.acm.org/doi/10.1145/3517745.3561445)
+- [DNS Response Size (2022)](https://www.netmeister.org/blog/dns-size.html)

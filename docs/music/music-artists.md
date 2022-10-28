@@ -98,7 +98,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Henry Green](https://soundcloud.com/henrygreenmusic)
 - [Soosh](https://soundcloud.com/soosh)
 - [Shook](https://soundcloud.com/shookshookshook)
-- [Nosaj Thing](https://soundcloud.com/nosajthing)
+- [Nosaj Thing](https://nosajthing.com/) ([Soundcloud](https://soundcloud.com/nosajthing))
 - [Baths](https://soundcloud.com/bathsmusic)
 - [Lapalux](https://soundcloud.com/lapalux)
 - [Alt J](https://soundcloud.com/alt-j)

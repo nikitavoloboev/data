@@ -6,6 +6,7 @@ title: Eleventy
 
 ## Templates
 
+- [Eleventy Excellent](https://github.com/madrilene/eleventy-excellent) - Opiniated Eleventy starter based on the workflow suggested by Andy Bell.
 - [Eleventy Plus Vite](https://github.com/matthiasott/eleventy-plus-vite)
 - [Henry Desroches's Eleventy template](https://github.com/xdesro/welcome-traveler)
 - [Eleventy Duo](https://github.com/yinkakun/eleventy-duo) - Minimal and beautiful Eleventy theme for personal blogs.

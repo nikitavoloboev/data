@@ -466,3 +466,6 @@ title: Haskell
 - [Interview with Simon Peyton Jones (2022)](https://haskell.foundation/podcast/11/)
 - [What does "isomorphic" mean (in Haskell)? (2022)](https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html)
 - [The Lambda Cube in Haskell: what construct do I need for this polymorphism? (2022)](https://jade.fyi/blog/the-lambda-cube/) ([Tweet](https://twitter.com/leftpaddotpy/status/1585141271844515840))
+- [A nub in the haystack (2022)](https://www.tweag.io/blog/2022-10-27-bytecode-performance-regression/)
+- [Haskell Error Index](https://errors.haskell.org/) - Community-driven web site for improving the documentation of Haskell tooling. ([Announce](https://discourse.haskell.org/t/announcing-the-haskell-error-index/5195))
+- [ghc-nix](https://github.com/matthewbauer/ghc-nix) - Exploring the options for incremental Haskell builds using Nix.

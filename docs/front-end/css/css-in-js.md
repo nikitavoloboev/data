@@ -63,3 +63,4 @@
 - [CSS Out JS](https://github.com/siddharthkp/css-out-js) - Author styles collocated in JS, pull them out into static CSS on build. No runtime dependency.
 - [Why We're Breaking Up with CSS-in-JS (2022)](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b) ([Tweet](https://twitter.com/markdalgleish/status/1582908496441331713))
 - [Style performance and concurrent rendering (2022)](https://nolanlawson.com/2022/10/22/style-performance-and-concurrent-rendering/)
+- [En Vogue](https://github.com/cyco130/en-vogue) - Zero-runtime CSS-in-JS with static CSS extraction.

@@ -643,6 +643,7 @@
 - [Bodega](https://github.com/mergesort/Bodega) - Simple store for all your basic needs.
 - [StoreKitPlus](https://github.com/danielsaidi/StoreKitPlus) - Adds extra functionality for working with StoreKit 2, like extensions, observable state, services, etc.
 - [PersistentHistoryTrackingKit](https://github.com/fatbobman/PersistentHistoryTrackingKit) - Library for managing Core Data's Persistent History Tracking.
+- [Stores](https://github.com/omaralbeik/Stores) - Typed key-value storage solution to store Codable types in various persistence layers like User Defaults, File System, Core Data, Keychain, and more.
 
 ## Graphics
 
@@ -1282,6 +1283,7 @@
 - [CalendarKit](https://github.com/richardtop/CalendarKit) - Swift calendar UI library for iOS and Mac Catalyst.
 - [SundialKit](https://github.com/brightdigit/SundialKit) - Reactive communications library across Apple platforms.
 - [Screenshots](https://github.com/blackbeltlabs/Screenshots) - Swift framework for taking screenshots.
+- [swift-index-store](https://github.com/lyft/swift-index-store) - Library to read from Swift / clang source code indexes.
 
 ## Other (not lib)
 

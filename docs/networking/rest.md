@@ -53,3 +53,4 @@ I prefer [tRPC](https://trpc.io/) or [GraphQL](graphql/graphql.md).
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/) ([Code](https://github.com/zalando/restful-api-guidelines))
 - [Restish](https://github.com/danielgtaylor/restish) - CLI for interacting with REST-ish HTTP APIs with some nice features built-in.
 - [How did REST come to mean the opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/) ([HN](https://news.ycombinator.com/item?id=32141027))
+- [How to leverage HTTP conditional requests to build robust REST APIs (2022)](https://quadratic.fm/p/how-meta-microsoft-google-github)

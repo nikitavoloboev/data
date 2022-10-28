@@ -162,3 +162,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [zig-dwarfdump](https://github.com/kubkon/zig-dwarfdump) - dwarfdump utility but in Zig.
 - [Bevel](https://github.com/NorfairKing/bevel) - Command line history in an SQLite database for effective re-use.
 - [alt](https://github.com/dotboris/alt) - Simple version manager. Tool for switching between different versions of commands.
+- [Charm VHS](https://github.com/charmbracelet/vhs) - Write terminal GIFs as code for integration testing and demoing your CLI tools.

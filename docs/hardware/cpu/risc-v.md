@@ -196,3 +196,5 @@ title: RISC-V
 - [RISCOF](https://github.com/riscv-software-src/riscof) - RISC-V Architectural Test Framework.
 - [RISC In 2022](https://wiki.alopex.li/RiscIn2022) ([Lobsters](https://lobste.rs/s/fgfxvu/risc_2022)) ([HN](https://news.ycombinator.com/item?id=33295947))
 - [TordBoyau](https://github.com/BrunoLevy/TordBoyau) - Pipelined RISC-V processor.
+- [The RISC Deprogrammer (2022)](https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html) ([HN](https://news.ycombinator.com/item?id=33326858))
+- [Minimax](https://github.com/gsmecher/minimax) - Compressed-First, Microcoded RISC-V CPU.

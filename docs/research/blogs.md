@@ -191,6 +191,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Maggie Appleton](https://maggieappleton.com/essays)
 - [Jakub Kozłowski](https://blog.kubukoz.com/)
 - [Nicholas Nethercote](https://nnethercote.github.io/)
+- [Jan Schaumann](https://www.netmeister.org/blog/index.html)
 
 ## Notes
 
@@ -325,3 +326,4 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Ask HN: Is Substack the new Medium? (2022)](https://news.ycombinator.com/item?id=33137417)
 - [What happens when a blog post goes viral? (2022)](https://www.jvt.me/posts/2022/10/14/blog-viral/)
 - [Blog with Native Content Editing](https://vercel.com/templates/next.js/blog-nextjs-sanity) ([Tweet](https://twitter.com/sanity_io/status/1584986255489925120))
+- [Get Blogging!](https://getblogging.org/) - Your easy guide to starting a new blog.

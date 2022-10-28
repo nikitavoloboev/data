@@ -91,6 +91,8 @@
 - [Logic + Rhythm](https://www.logicandrhythm.com/) - Design and technology studio. ([Twitter](https://twitter.com/logicandrhythm))
 - [Elan Miller](https://www.elanmiller.com/)
 - [basement.studio](https://basement.studio/) - Digital studio making cool shit that performs. ([GitHub](https://github.com/basementstudio)) ([Twitter](https://twitter.com/basementstudio))
+- [Bakken & Bæck](https://bakkenbaeck.com/) ([Twitter](https://twitter.com/bakkenbaeck))
+- [Bureau Cool](https://bureau.cool/) ([Twitter](https://twitter.com/BureauCool))
 
 ## DB
 

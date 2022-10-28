@@ -93,3 +93,4 @@ title: Unix
 - [The Collapse of the UNIX Philosophy (2017)](https://kukuruku.co/post/the-collapse-of-the-unix-philosophy/)
 - [CS631 – Advanced Programming in the Unix Environment](https://stevens.netmeister.org/631/) ([HN](https://news.ycombinator.com/item?id=33140795))
 - [How old various Unix signals are (2022)](https://utcc.utoronto.ca/~cks/space/blog/unix/SignalsHowOld)
+- [Time is an illusion, Unix time doubly so (2022)](https://www.netmeister.org/blog/epoch.html) ([HN](https://news.ycombinator.com/item?id=33341652))

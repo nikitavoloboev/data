@@ -40,3 +40,4 @@ title: ActivityPub
 - [Littr](https://littr.me/) - Link aggregator inspired by Reddit and HN using ActivityPub federation. ([HN](https://news.ycombinator.com/item?id=31785966))
 - [Presenting Activitypub-Rust crate from Lemmy](https://lemmy.ml/post/341718)
 - [openEngiadina: From ActivityPub to XMPP (2021)](https://inqlab.net/2021-11-12-openengiadina-from-activitypub-to-xmpp.html)
+- [General Python ActivityPub library](https://github.com/dsblank/activitypub)

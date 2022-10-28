@@ -45,3 +45,4 @@
 - [Am I crazy to move my home lab to a data center? (2022)](https://www.reddit.com/r/selfhosted/comments/y5jnrm/am_i_crazy_to_move_my_home_lab_to_a_data_center/)
 - [Ask HN: Where do you host images for your blog or landing pages? (2022)](https://news.ycombinator.com/item?id=33232705)
 - [Self Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+- [Why I use Jellyfin for my home media library (2022)](https://www.jeffgeerling.com/blog/2022/why-i-use-jellyfin-my-home-media-library) ([HN](https://news.ycombinator.com/item?id=33362416))

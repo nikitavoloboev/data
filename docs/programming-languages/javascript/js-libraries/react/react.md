@@ -353,3 +353,4 @@ Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for a
 - [Moving From React to htmx (2022)](https://htmx.org/essays/a-real-world-react-to-htmx-port/) ([Lobsters](https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction)) ([HN](https://news.ycombinator.com/item?id=33218439))
 - [React Server Components are a big deal](https://twitter.com/dan_abramov/status/1585076899126345728)
 - [Streaming React](https://github.com/ascorbic/vanilla-stream) - React streaming with no meta-framework.
+- [React UI Kits](https://github.com/lucianomlima/react-ui-kits)

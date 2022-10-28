@@ -116,6 +116,10 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Swiftcord](https://github.com/SketchMaster2001/Swiftcord) - Discord Library for Swift.
 - [lacord](https://github.com/Mehgugs/lacord) - Low level, lightweight discord API library.
 
+## Interesting servers
+
+- [Breaking Bad Universe](https://discord.com/invite/breakingbad)
+
 ## Notes
 
 - [Can right click on Discord server > privacy settings > disallow direct messages from the server. To remove spam being sent from those servers.](https://youtu.be/2UdKaktBvKQ?t=1063)

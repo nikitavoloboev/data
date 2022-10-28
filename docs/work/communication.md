@@ -211,3 +211,4 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [Poised](https://www.poised.com/) - AI-powered communication coach. ([HN](https://news.ycombinator.com/item?id=33090580))
 - [Ask HN: How do I learn to communicate effectively? (2022)](https://news.ycombinator.com/item?id=33091972)
 - [There are three types of meetings](https://camdaigle.com/posts/three-types-of-meetings/)
+- [How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/) ([HN](https://news.ycombinator.com/item?id=33370870))

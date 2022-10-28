@@ -683,3 +683,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Hack Club Scrapbook](https://scrapbook.hackclub.com/) - Helps you share the things you're working on every day. ([Code](https://github.com/hackclub/scrapbook))
 - [Influential software made by one person](https://twitter.com/infinitsummer/status/1582446799502966785)
 - [Ask HN: Do people not have hobbies anymore? (2022)](https://news.ycombinator.com/item?id=33343603)
+- [Inside the Great Pyramid](https://giza.mused.org/en/guided/266/inside-the-great-pyramid) ([HN](https://news.ycombinator.com/item?id=33357197))
+- [crowd.dev](https://www.crowd.dev/) - Community-led Growth Platform for Developer Tools. ([Code](https://github.com/CrowdDotDev/crowd.dev))

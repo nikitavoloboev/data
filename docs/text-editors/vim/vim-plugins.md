@@ -101,6 +101,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Next generation library for creating floating pickers with advanced features.
 - [Deoplete](https://github.com/Shougo/deoplete.nvim) - Asynchronous completion framework.
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
+- [live-command.nvim](https://github.com/smjonas/live-command.nvim) - Text editing in Neovim with immediate visual feedback.
 - [Autoformat](https://github.com/Chiel92/vim-autoformat) - Easy code formatting.
 - [refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - Refactoring library based off the Refactoring book by Martin Fowler.
 - [traces.vim](https://github.com/markonm/traces.vim) - Range, pattern and substitute preview for Vim.
@@ -112,6 +113,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - Adds snippet support.
 - [nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Make Neovim's fold look modern and keep high performance.
 - [Polyglot](https://github.com/sheerun/vim-polyglot) - Solid language pack.
+- [Heirline.nvim](https://github.com/rebelot/heirline.nvim) - No-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
 - [Formatter.nvim](https://github.com/mhartington/formatter.nvim) - Format runner for neovim, written in Lua.
 - [Auto save](https://github.com/907th/vim-auto-save) - Automatically save changes to disk.
 - [Ag](https://github.com/rking/ag.vim) - Plugin for the_silver_searcher, 'ag'.
@@ -142,6 +144,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Abolish](https://github.com/tpope/vim-abolish) - Search for, substitute, and abbreviate multiple variants of a word.
 - [Gutentags](https://github.com/ludovicchabant/vim-gutentags) - Manages your tag files.
 - [Vimtex](https://github.com/lervag/vimtex) - LaTeX support.
+- [inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) - Incremental LSP renaming based on Neovim's command-preview feature.
 - [nvim-compleet](https://github.com/noib3/nvim-compleet) - Neovim autocompletion framework written in Rust.
 - [Prettier](https://github.com/prettier/vim-prettier) - Prettier support.
 - [Goyo](https://github.com/junegunn/goyo.vim) - Distraction-free writing.

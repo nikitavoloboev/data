@@ -117,3 +117,6 @@
 - [VectorArt.ai](https://vectorart.ai/) - Vector Graphics with Stable Diffusion. ([HN](https://news.ycombinator.com/item?id=33308248))
 - [Generative Image workflow in Runway](https://twitter.com/notiansans/status/1583528842898984961)
 - [How does stable diffusion work](https://twitter.com/danqing_liu/status/1584611896682246145)
+- [DiffusionDB](https://github.com/poloclub/diffusiondb) - Large-scale text-to-image prompt gallery dataset based on Stable Diffusion.
+- [Implementation of a server for the Stability AI Stable Diffusion API](https://github.com/hafriedlander/stable-diffusion-grpcserver)
+- [Compositional Visual Generation with Composable Diffusion Models (2022)](https://arxiv.org/abs/2206.01714) ([Code](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch))

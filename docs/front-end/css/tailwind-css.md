@@ -168,3 +168,4 @@ title: Tailwind CSS
 - [Preline UI](https://preline.co/) - Open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. ([Code](https://github.com/htmlstreamofficial/preline))
 - [Tailwind CSS v3.2: revisiting my “feature creep” warning (2022)](https://www.brycewray.com/posts/2022/10/tailwind-css-v3-2-revisiting-feature-creep-warning/) ([HN](https://news.ycombinator.com/item?id=33298806))
 - [TailwindCSS-Fluid-Type](https://github.com/davidhellmann/tailwindcss-fluid-type) - Plugin that makes the use of Fluid Type a breeze.
+- [TailwindCSS Container Queries](https://github.com/tailwindlabs/tailwindcss-container-queries)

@@ -834,3 +834,6 @@ title: Kubernetes
 - [CKAD Exercises](https://github.com/dgkanatsios/CKAD-exercises) - Set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation.
 - [Kubernetes OpenAPI Spec](https://github.com/tommy351/kubernetes-openapi-spec)
 - [Using flux to automate simple tasks (2022)](https://siebjee.nl/posts/using-flux-to-automate-simple-tasks/) ([HN](https://news.ycombinator.com/item?id=33174548))
+- [Running Synthetic Checks at Scale with Kubernetes (2022)](https://kentiklabs.com/blog/ksynth-checks-k8s/)
+- [Visualizing Kubernetes Traffic (2021)](https://kentiklabs.com/blog/visualize-k8s-traffic/)
+- [Numaflow](https://github.com/numaproj/numaflow) - Kubernetes-native platform to run massively parallel data/streaming jobs.
