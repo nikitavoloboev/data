@@ -148,3 +148,4 @@
 - [MemoryProfiler](https://github.com/SamSaffron/memory_profiler) - Memory profiler for Ruby.
 - [IRB on browser powered by WebAssembly](https://github.com/kateinoigakukun/irb.wasm)
 - [Ruby program that generates itself through a 128-language quine loop](https://github.com/mame/quine-relay/blob/master/QR.rb) ([HN](https://news.ycombinator.com/item?id=33105706))
+- [Programming Ruby 3.2 (5th Edition) (2022)](https://pragprog.com/titles/ruby5/programming-ruby-3-2-5th-edition/)

@@ -154,3 +154,4 @@ title: Zig
 - [Zig Is Self-Hosted Now, What's Next? (2022)](https://kristoff.it/blog/zig-self-hosted-now-what/) ([Lobsters](https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next)) ([HN](https://news.ycombinator.com/item?id=33331549))
 - [Ziglibc: Sweeping out the rug from underneath C - Jonathan Marler (2022)](https://www.youtube.com/watch?v=1N85yU6RMcY)
 - [Zig's I/O and Concurrency Story - King Protty (2022)](https://www.youtube.com/watch?v=Ul8OO4vQMTw)
+- [Distributed Zig with Elixir and Zigler - Riccardo Binetti (2022)](https://www.youtube.com/watch?v=l75KLCJaGxw)
