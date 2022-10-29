@@ -165,3 +165,4 @@
 - [Dune: Started From The Bottom - from nobody to unicorn in 3 years (2022)](https://dune.com/blog/started-from-the-bottom)
 - [How TrialPay raised funds without growth (2022)](https://twitter.com/arampell/status/1562557849128931328)
 - [Everything I wish I had known about raising a seed round (2022)](https://blog.startupstash.com/everything-i-wish-i-had-known-about-raising-a-seed-round-a615f8f7740b) ([HN](https://news.ycombinator.com/item?id=33159680))
+- [Ask HN: Learning about fundraising as first-time tech founders (2022)](https://news.ycombinator.com/item?id=33354858)

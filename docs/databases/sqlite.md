@@ -264,4 +264,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [Quirks, Caveats, and Gotchas In SQLite](https://www.sqlite.org/quirks.html) ([HN](https://news.ycombinator.com/item?id=33272824))
 - [Litestream: Making Single-Node Deployments Cool Again (Ben Johnson) (2022)](https://www.youtube.com/watch?v=drgriZCRyrQ)
 - [Making a change to SQLite source code (2022)](https://brunocalza.me/making-a-change-to-sqlite-source-code/) ([HN](https://news.ycombinator.com/item?id=33339634))
-- [SQLite in the browser with WASM/JS](https://sqlite.org/wasm/doc/tip/about.md) ([HN](https://news.ycombinator.com/item?id=33374402))
+- [SQLite in the browser with WASM/JS](https://sqlite.org/wasm/doc/tip/about.md) ([HN](https://news.ycombinator.com/item?id=33374402)) ([Tweet](https://twitter.com/maccaw/status/1586122543098134529))

@@ -336,6 +336,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Ask HN: Books that teach you to think (2022)](https://news.ycombinator.com/item?id=33224904)
 - [An Epic Fantasy series you genuinely believe to be worth reading (2022)](https://www.reddit.com/r/suggestmeabook/comments/ybfw59/an_epic_fantasy_series_you_genuinely_believe_to/)
 - [Weird sci-fi and/or fantasy recommendations (2022)](https://www.reddit.com/r/WeirdLit/comments/ydkdo6/any_weird_scifi_andor_fantasy_recommendations/)
+- [Ask HN: What are some of the best books you have read in 2022?](https://news.ycombinator.com/item?id=33381791)
 
 ## Interesting Prose Books
 

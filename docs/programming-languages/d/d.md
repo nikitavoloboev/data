@@ -39,3 +39,4 @@ title: D
 - [Let's learn D game programming development](https://www.youtube.com/playlist?list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-) ([HN](https://news.ycombinator.com/item?id=31725028)) ([Code](https://github.com/rillki/learn-dlang))
 - [Your next C compiler is a D compiler (2022)](https://briancallahan.net/blog/20220704.html)
 - [Introduction to D language (2022)](https://www.youtube.com/watch?v=0JL9uT_XGZE) ([HN](https://news.ycombinator.com/item?id=33136914))
+- [Why is D's garbage collection slower than Go's?](https://forum.dlang.org/thread/nxddojjplojxdafrkkev@forum.dlang.org?page=5#post-tjib6h:242pp6:241:40digitalmars.com) ([HN](https://news.ycombinator.com/item?id=33381285))
