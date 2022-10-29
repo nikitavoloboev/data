@@ -151,3 +151,4 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 - [Bleeding Edge AI](https://bleedingedge.ai/) - Feed of noteworthy developments in AI.
 - [Generally Intelligent](https://generallyintelligent.ai/) - Independent research lab building AI agents that can learn & understand like humans, so they can be safely deployed. ([Twitter](https://twitter.com/genintelligent)) ([Intro](https://generallyintelligent.com/launch/))
 - [Ask HN: Where to start with learning AI? (2022)](https://news.ycombinator.com/item?id=33369800)
+- [Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI (2022)](https://www.youtube.com/watch?v=cdiD-9MMpb0)

@@ -40,6 +40,7 @@
 - [Second Dinner](https://seconddinner.com/)
 - [Remedy](https://www.remedygames.com/) - Created games such as Control, Alan Wake, and Max Payne.
 - [Failbetter Games](https://www.failbettergames.com/)
+- [Stray Bombay](https://www.straybombay.com/) ([Discord](https://discord.com/invite/straybombay))
 
 ## Devs
 

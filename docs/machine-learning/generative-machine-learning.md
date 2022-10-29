@@ -6,6 +6,7 @@
 
 - [The net effect of the last 18 mo has been to slightly lubricate human imagination, making it easier for individuals to visualize possible worlds/scenes/moods. It’s only a medium-big deal—unless this is a foretaste of similar acceleration in music, code, and text.](https://twitter.com/Ted_Underwood/status/1566787680872157185)
 - [Greatest impact of "generative ML" will not be on art/creation, but by bringing technology leverage to billions of hours of boring data entry/manipulation jobs.](https://twitter.com/WillManidis/status/1584900092615528448)
+- [Diffusion is just an easy-to-optimize way to give neural networks adaptive computation time. Makes sense then that diffusion models beat GANs, which only get one forward pass to generate an image. Have to wonder what other ways there are to integrate for loops into NNs.](https://twitter.com/jxmnop/status/1586000934248792065)
 
 ## Links
 
