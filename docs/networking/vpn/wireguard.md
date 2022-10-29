@@ -86,3 +86,4 @@ title: WireGuard
 - [WireGuard Servers Running from RAM](https://mullvad.net/tr/help/wireguard-servers-running-from-ram/) ([HN](https://news.ycombinator.com/item?id=32645501))
 - [LinuxServer.io WireGuard](https://github.com/linuxserver/docker-wireguard)
 - [Identity management for WireGuard (2022)](https://lwn.net/SubscriberLink/910766/7678f8c4ede60928/) ([HN](https://news.ycombinator.com/item?id=33261288))
+- [Mitmproxy 9: WireGuard Mode](https://mitmproxy.org/posts/releases/mitmproxy9/) ([HN](https://news.ycombinator.com/item?id=33382896))

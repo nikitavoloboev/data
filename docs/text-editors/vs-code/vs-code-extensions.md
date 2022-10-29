@@ -197,6 +197,7 @@ Below is a list of extensions I use.
 - [Height Code to Task](https://marketplace.visualstudio.com/items?itemName=Height.height-vscode) - Automatically create tasks right from code comments. ([Web](https://height.app/code-to-task))
 - [Linked Data](https://marketplace.visualstudio.com/items?itemName=Elsevier.linked-data) - Shortcuts for standard Linked Data operations, format conversions, validation, querying and a graph visualization. ([Code](https://github.com/elsevierlabs-os/linked-data))
 - [Toggle VS Code](https://github.com/rebornix/vscode-toggle) - Toggle any VS Code setting by your favorite keybindings.
+- [Sequential Input Sequence](https://marketplace.visualstudio.com/items?itemName=tomoki1207.vscode-input-sequence) ([Code](https://github.com/tomoki1207/vscode-input-sequence))
 
 ## Shell
 

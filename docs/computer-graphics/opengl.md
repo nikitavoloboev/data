@@ -28,7 +28,7 @@ title: OpenGL
 - [Thoughts on Emulating Command Buffers for OpenGL (2018)](https://gpfault.net/posts/opengl-command-buffers.txt.html)
 - [MP-APS](https://github.com/htmlboss/OpenGL-Renderer) - Modern OpenGL renderer written in C++17.
 - [glsl-bundler](https://github.com/plutotcool/glsl-bundler) - Functional regex-based glsl bundler, loader and minifier. Runs both on node and the browser.
-- [OpenGL 4.6 on Metal](https://github.com/openglonmetal/MGL)
+- [OpenGL 4.6 on Metal](https://github.com/openglonmetal/MGL) ([HN](https://news.ycombinator.com/item?id=33383075))
 - [OpenGL Seed](https://github.com/alaingalvan/opengl-seed) - Modern OpenGL starter repo that you could use to get the ball rolling.
 - [glbinding](https://github.com/cginternals/glbinding) - Cross-platform C++ binding for the OpenGL API.
 - [Cell](https://github.com/JoeyDeVries/Cell) - OpenGL C++ Graphics Engine.

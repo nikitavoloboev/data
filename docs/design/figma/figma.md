@@ -111,3 +111,4 @@ title: Figma
 - [Figma Component Properties](https://twitter.com/Ridderingand/status/1582401159297236993)
 - [FigJam Force Directed Graph](https://github.com/rodydavis/figjam-force-directed-graph)
 - [Design system Figma doc](https://twitter.com/dwr/status/1584244428289417218)
+- [Figma: Making multiplayer more reliable (2022)](https://www.figma.com/blog/making-multiplayer-more-reliable/)
