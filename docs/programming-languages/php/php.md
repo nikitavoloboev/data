@@ -47,3 +47,4 @@ title: PHP
 - [PHP Monitor](https://github.com/nicoverbruggen/phpmon) - Lightweight macOS utility app that runs on your Mac and displays the active PHP version in your status bar.
 - [FrankenPHP](https://github.com/dunglas/frankenphp) - Modern App Server for PHP. ([HN](https://news.ycombinator.com/item?id=33205282))
 - [Relay](https://github.com/cachewerk/relay) - Next-generation caching layer for PHP.
+- [PHP, Symfony and Svelte boilerplate](https://github.com/Pierstoval/php-js-boilerplate)

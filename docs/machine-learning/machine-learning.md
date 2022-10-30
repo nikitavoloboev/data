@@ -964,3 +964,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [VectorAdam for Rotation Equivariant Geometry Optimization (2022)](https://arxiv.org/abs/2205.13599) ([Code](https://github.com/iszihan/VectorAdam))
 - [Learning Fast and Slow for Online Time Series Forecasting (2022)](https://arxiv.org/abs/2202.11672) ([Code](https://github.com/salesforce/fsnet))
 - [What Makes Convolutional Models Great on Long Sequence Modeling? (2022)](https://arxiv.org/abs/2210.09298) ([Code](https://github.com/ctlllll/SGConv))
+- [Machine Learning Specialization by Andrew Ng notes (2022)](https://dair-ai.notion.site/Course-1-Supervised-Machine-Learning-3a200719f58145dc8a701a2545bdf9f4)

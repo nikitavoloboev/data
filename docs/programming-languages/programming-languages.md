@@ -447,3 +447,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Tips on performance when building programming language in Rust (2022)](https://www.reddit.com/r/rust/comments/yasu2l/im_creating_my_own_compiled_language_in_rust_any/)
 - [Programming language comparison by reimplementing the same transit data app](https://github.com/losvedir/transit-lang-cmp) ([HN](https://news.ycombinator.com/item?id=33307059))
 - [Which programming paradigm had the most impact on you as an engineer and why? (2022)](https://news.ycombinator.com/item?id=33354036)
+- [System level language considerations (2022)](https://twitter.com/rsms/status/1586735989514326016)
