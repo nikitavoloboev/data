@@ -439,3 +439,4 @@
 - [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) - Colab notebooks demonstrating prompt-based music generation via Mubert API.
 - [Who's building DALL-E for music? (2022)](https://twitter.com/rrhoover/status/1584171219578146817)
 - [Jerrica](https://github.com/trevorjay/Jerrica) - 100% scheduled, Web Audio native, MOD player for JavaScript. ([HN](https://news.ycombinator.com/item?id=33359211))
+- [Pypianoroll](https://github.com/salu133445/pypianoroll) - Toolkit for working with piano rolls.

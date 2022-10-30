@@ -838,3 +838,4 @@ title: Kubernetes
 - [Visualizing Kubernetes Traffic (2021)](https://kentiklabs.com/blog/visualize-k8s-traffic/)
 - [Numaflow](https://github.com/numaproj/numaflow) - Kubernetes-native platform to run massively parallel data/streaming jobs.
 - [KubeShare](https://github.com/NTHU-LSALAB/KubeShare) - Share GPU between Pods in Kubernetes.
+- [Murre](https://github.com/groundcover-com/murre) - On-demand, scaleable source of container resource metrics for K8s.

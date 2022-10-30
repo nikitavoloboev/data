@@ -84,6 +84,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Spinner](https://github.com/leaanthony/spinner) - Simple, configurable, multi-platform terminal spinner.
 - [subcommands](https://github.com/maruel/subcommands) - Permits a Go application to implement subcommands support similar to what is supported by the 'go' tool.
 - [tablewriter](https://github.com/caarlos0/tablewriter) - Simple table using lipgloss and text/tabwriter.
+- [nfigure](https://github.com/muir/nfigure) - Go struct-tag based configfile and flag parsing.
 
 ## Test
 
@@ -559,6 +560,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Google Spanner SpanSQL Query Builder](https://github.com/mindful-hq/spansql-query-builder)
 - [approx-lru](https://github.com/bpowers/approx-lru) - Go LRU cache.
 - [ScyllaDB Go Driver](https://github.com/scylladb/scylla-go-driver) ([Article](https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/)) ([HN](https://news.ycombinator.com/item?id=33187677))
+- [libschema](https://github.com/muir/libschema) - Way for Go libraries to manage their own database migrations.
 
 ## ML
 
@@ -1850,6 +1852,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-reflect](https://github.com/goccy/go-reflect) - Zero-allocation reflection library for Go.
 - [Unit](https://github.com/martinlindhe/unit) - Conversion of unit library for Go.
 - [env](https://github.com/junk1tm/env) - Lightweight package for loading environment variables into structs.
+- [nject](https://github.com/muir/nject) - Go type-safe dependency injection.
 
 ## Links
 

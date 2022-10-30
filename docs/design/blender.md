@@ -100,3 +100,5 @@ title: Blender
 - [Stable Diffusion in Blender](https://github.com/benrugg/AI-Render)
 - [Ask HN: Recommend me a Blender course (2022)](https://news.ycombinator.com/item?id=33273022)
 - [ST2](https://github.com/coldtype/st2) - Coldtype as an addon for Blender.
+- [Human Generator 3D](https://github.com/OliverJPost/HumGen3D) - Add-on for the program Blender 3D to add photorealistic humans to your scenes.
+- [CharacterDriven-BlenderAddon](https://github.com/yanchxx/CDBA) - Blender addon uses ROMP to extract human's 3D poses from image, video or webcam and drive your own 3D character.

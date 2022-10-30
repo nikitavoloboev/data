@@ -6,7 +6,7 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 
 I love the [lifestyle that Simon Sarris has](https://twitter.com/simonsarris/status/1520430508433461250). [Built their own house](https://simonsarris.medium.com/designing-a-new-old-home-part-1-cf298b58ed41) in nature. Living a [minimal life](https://twitter.com/simonsarris/status/1517251006823866368) working on code and [building things with hands](https://twitter.com/simonsarris/status/1485379943697723394). It's admirable.
 
-I try to spend as much [time with family and loved ones](https://ourworldindata.org/time-with-others-lifetime) as I can. I live a life focused on positivity and [happiness](happiness.md) over complaining and glooming over the future.
+I try to spend as much [time with family and loved ones](https://ourworldindata.org/time-with-others-lifetime) as I can. I live a life focused on positivity and [happiness](happiness.md) over complaining and glooming over the future. I try to work on things that give me energy instead of draining it away. [Life is short](http://paulgraham.com/vb.html).
 
 ## Notes
 

@@ -100,3 +100,4 @@ title: Shaders
 - [Rendering my balls in a fragment shader](https://www.getlazarus.org/pool/balls/)
 - [Vinci](https://github.com/swtwsk/vinci-lang) - Toy ML shading language.
 - [Shaderworlds](https://shaderworlds.com/) - Collection of VR-ready shader worlds. ([Code](https://github.com/jure/shaderworlds))
+- [Offline ShaderToy](https://github.com/tdhooper/offline-shadertoy)

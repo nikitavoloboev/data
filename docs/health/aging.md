@@ -4,6 +4,8 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 
 I personally don't plan to live for long once my body starts truly breaking down of age. I maximize the quality of my life experience through proper [sleep](../sleep/sleep.md), [exercise](../fitness/exercises.md) and having [no stress](../mindfulness/mindfulness.md) optimistic outlook. I don't have any negative thoughts about [death](../life/death.md) as all things end, including [our universe](https://www.youtube.com/watch?v=uD4izuDMUQA). Only thing that's annoying is pain especially chronic so best try avoid that (that includes prisons, diseases..).
 
+One way to solve aging sooner is to work on getting closer to [AGI](../machine-learning/artificial-intelligence.md) and have it solve it.
+
 ## Notes
 
 - [Curcumin](http://en.wikipedia.org/wiki/Curcumin), [Pterostilbene](http://en.wikipedia.org/wiki/Pterostilbene) and [Nicotinamide riboside](http://en.wikipedia.org/wiki/Nicotinamide_riboside) supposedly have anti aging properties.

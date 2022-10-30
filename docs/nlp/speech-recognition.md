@@ -146,3 +146,4 @@ title: Speech recognition
 - [Stage-Whisper](https://github.com/Stage-Whisper/Stage-Whisper) - Easy to use AI transcriber, powered by OpenAI's Whisper.
 - [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
 - [Real-time speech recognition using next-gen Kaldi with ncnn](https://github.com/k2-fsa/sherpa-ncnn)
+- [Gecko](https://github.com/gong-io/gecko) - Tool for Effective Annotation of Human Conversations. ([Web](https://gong-io.github.io/gecko/))

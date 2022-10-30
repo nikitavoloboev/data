@@ -1,5 +1,7 @@
 # Evolution
 
+[Life Ascending](https://www.goodreads.com/book/show/6429264-life-ascending) is great book.
+
 ## Notes
 
 - [If you work with any kind of evolutionary system or neural networks or meta-optimizers (Like Schmidhuber's Gödel machine) there comes a point when you realize that "intelligence", whatever it is, should be expected to arise. Evolution and meta-evolution proceed at the same time in life, so intelligence should be ambient in Nature.](https://news.ycombinator.com/item?id=18709749)
@@ -25,3 +27,5 @@
 - [How organisms evolve without the information being known?](https://www.reddit.com/r/biology/comments/vbrvsw/just_learned_about_evolution/)
 - [Hacking evolution to grow super coral](https://www.youtube.com/watch?v=z91BwhIPMJ0)
 - [Nothing makes sense in deep learning, except in the light of evolution (2022)](https://arxiv.org/abs/2205.10320)
+- [Life Ascending: The Ten Great Inventions of Evolution by Nick Lane](https://www.goodreads.com/book/show/6429264-life-ascending)
+- [The Selfish Gene by Richard Dawkins](https://www.goodreads.com/book/show/61535.The_Selfish_Gene)

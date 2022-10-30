@@ -18,6 +18,8 @@ With all that said, there is only one real conclusion to draw knowing all this. 
 
 Spend more time with ones you care about. Be [aware of your ego](../consciousness/ego.md) and be a [kind and loving person](../environment/veganism.md).
 
+It's a matter of time that death can be avoided. Fastest way to get to this future is getting to [AGI](../machine-learning/artificial-intelligence.md).
+
 ## Notes
 
 - [Whether you fight it or go with the flow, the same result will appear, the body will dissolve until all that is left is the consciousness.](https://www.reddit.com/r/researchchemicals/comments/7rq9f4/5meodmt_5_mg_trip_report_relax_nothing_is_under/)
