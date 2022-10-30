@@ -88,8 +88,9 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Project tools
 
-- [GitHub](../open-source/github/github.md) - Code sharing & collaboration. Issues & Roadmaps. Want [Linear](https://linear.app/) level desktop client for GitHub. Like [Ship](https://www.realartists.com/blog/ship-20.html).
-- [Notion](../tools/notion.md) - Everything wiki, collaboration. Company Docs.
+- [GitHub](../open-source/github/github.md) - Code sharing & collaboration. Issues & Roadmaps for OSS projects. Want [Height](https://height.app/)/[Linear](https://linear.app/) level desktop client for GitHub. Like [Ship](https://www.realartists.com/blog/ship-20.html).
+- [Height](https://height.app/) - All internal projects. [Also have `Personal` board](https://twitter.com/nikitavoloboev/status/1586439817516429312) to realign ideas I work on with my big focuses for the month.
+- [Notion](../tools/notion.md) - Everything wiki, collaboration. Team Docs.
 - [Discord](../tools/discord.md) or [Telegram](../tools/telegram.md) - According to type & size of project. Small community/project, Telegram group is great. Open source or community project, Discord. More corporate, maybe Slack. But it's super expensive & unusable for open communities.
 - [Figma](../design/figma/figma.md) - Design, mockups, visual prototyping.
 - [Loom](https://www.loom.com/) - Video screen sharing & collaboration.

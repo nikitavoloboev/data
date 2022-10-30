@@ -1,13 +1,14 @@
 # United States
 
-Would love to live/move to US one day but [they don't make it easy](https://twitter.com/Noahpinion/status/1520132242672029696). It was always my dream to work at company like Apple/Tesla and they mostly/only hire in US.
+Would love to live/move to US one day but [they don't make it easy](https://twitter.com/Noahpinion/status/1520132242672029696). Most great companies like Apple, Tesla or Google mostly hire in US only and there is just too many great people that operate solely from US.
 
-I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mearsheimer), [George Friedman](https://twitter.com/george_friedman) & [Squirrel](https://twitter.com/zei_squirrel)'s analysis in regards to US foreign policy.
+I try to avoid pointless politics as much as possible but do like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mearsheimer), [George Friedman](https://twitter.com/george_friedman) & [Squirrel](https://twitter.com/zei_squirrel)'s analysis in regards to US foreign policy.
 
-I do worry about [quality of food in US](https://twitter.com/bigmagicdao/status/1583729984304164864) though.
+Getting a US passport does sound great in theory but the fact that you have to then pay US tax no matter the country you live is kind of insane as clearly presented by [Nomad Capitalist](https://nomadcapitalist.com/book/). Ideally as I have now both a [Cypriot](cyprus.md) and [Russian](russia.md) passports, this lets me travel to pretty much any place I want visa free except US. Maybe one day I get a [Canadian](canada.md) passport so I get visa free access to US.
 
 ## Notes
 
+- [Quality of food in most of US is not great. Easy to gain weight due to portion size and added sugar.](https://twitter.com/bigmagicdao/status/1583729984304164864)
 - [Most cost-effective way (aka costs nothing) to get to work in the US is to get hired by a multinational Corp and after 1 year get an L visa and move to the US.](https://twitter.com/copyconstruct/status/1280953429527900160)
 - [US has exit tax when renouncing citizenship if net worth is $2m+ or high federal taxes or not compliant; easier to leave before triggering. If just leaving to live overseas, you still must file and pay USA subject to exclusions, treaties, credits, etc](https://twitter.com/nomadcapitalist/status/1454574254566019080)
 - [If the USA had a core KPI, it would be immigration. It has a monopoly on ambitious migrants—if that disappears, the product inevitably fails.](https://twitter.com/cpaik/status/1459534475042435083)

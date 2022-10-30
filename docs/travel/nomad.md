@@ -1,6 +1,6 @@
 # Nomad
 
-[Nomad Capitalist](https://www.youtube.com/c/nomadcapitalist/videos) is a nice channel.
+[Nomad Capitalist](https://www.youtube.com/c/nomadcapitalist/videos) is a nice channel with a [great book](https://nomadcapitalist.com/book/).
 
 ## Links
 
