@@ -2007,3 +2007,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Migrating our monorepo seamlessly from Dep to Go Modules (2022)](https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules)
 - [ORM vs SQL Builder in Go (2022)](https://www.reddit.com/r/golang/comments/y5obc7/orm_vs_sql_builder_in_go/)
 - [oa3](https://github.com/aarondl/oa3) - Generates HTTP endpoint stubs and supporting models from OpenAPI 3 specs.
+- [Top Go ORMs](https://github.com/d-tsuji/awesome-go-orms) - Most starred on GitHub.
