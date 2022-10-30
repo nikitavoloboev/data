@@ -1853,6 +1853,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Unit](https://github.com/martinlindhe/unit) - Conversion of unit library for Go.
 - [env](https://github.com/junk1tm/env) - Lightweight package for loading environment variables into structs.
 - [nject](https://github.com/muir/nject) - Go type-safe dependency injection.
+- [immcheck](https://github.com/goodbadreviewer/immcheck) - Runtime immutability checks.
 
 ## Links
 

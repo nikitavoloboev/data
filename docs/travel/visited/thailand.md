@@ -10,3 +10,4 @@
 - [Is Thailand really so hard on drugs?](https://www.reddit.com/r/ThailandTourism/comments/thvooi/is_thailand_really_so_hard_on_drugs/)
 - [Thailand Tourism Reddit](https://www.reddit.com/r/ThailandTourism/)
 - [Thailand DAO](https://t.me/thailanddao) - Чат о Таиланде в поддержку новой волны эмиграции.
+- [What $590K buys you in Bali, a 4BR mansion](https://twitter.com/BackpackerFI/status/1586639835430899712)

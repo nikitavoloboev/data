@@ -113,6 +113,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [user-event](https://github.com/testing-library/user-event) - Fire events the same way the user does.
 - [File generator](https://github.com/poppinss/file-generator) - Generate fake in-memory files for varying sizes.
 - [Fast-Fuzz](https://github.com/WeWatchWall/fast-fuzz) - Test Case Generator Based on Branch Coverage and Fuzzing.
+- [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 
 ## Auth
 

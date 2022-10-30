@@ -178,3 +178,5 @@
 - [nsync](https://github.com/google/nsync) - C library that exports various synchronization primitives, such as mutexes.
 - [GNU C Library](https://github.com/bminor/glibc) - Standard system C library.
 - [jc_voronoi](https://github.com/JCash/voronoi) - Fast C/C++ header only implementation for creating 2D Voronoi diagrams from a point set.
+- [coroutine](https://github.com/cloudwu/coroutine) - Asymmetric coroutine library for C.
+- [YAJL](https://github.com/lloyd/yajl) - Fast streaming JSON parsing library in C.

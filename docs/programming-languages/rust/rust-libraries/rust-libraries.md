@@ -2532,3 +2532,4 @@
 - [How (and why) nextest uses tokio (2022)](https://sunshowers.io/posts/nextest-and-tokio-1/)
 - [Is there a website like Haskell's Hoogle for rust?](https://www.reddit.com/r/rust/comments/y8sbid/is_there_a_website_like_haskells_hoogle_for_rust/)
 - [Reactix](https://github.com/erayerdin/reactix) - Starter template for Actix + React Typescript.
+- [Rust Web Framework Comparison](https://github.com/flosse/rust-web-framework-comparison) ([HN](https://news.ycombinator.com/item?id=33385148))

@@ -419,3 +419,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Matroska](https://github.com/rust-av/matroska) - Matroska format support in Rust.
 - [FFmpeg.guide](https://ffmpeg.guide/) - One stop solution to all things FFmpeg. ([Tweet](https://twitter.com/zack_overflow/status/1586288992680493057)) ([HN](https://news.ycombinator.com/item?id=33383023))
 - [imagorvideo](https://github.com/cshum/imagorvideo) - Video thumbnail server using RMSE in Go and ffmpeg C bindings.
+- [Screen Studio](https://www.screen.studio/) - Beautiful screen recordings in minutes.

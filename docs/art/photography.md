@@ -241,4 +241,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Alternatives to Lightroom](https://twitter.com/rsms/status/1573711186847145985)
 - [2022 Photomicrography Competition | Nikon’s Small World](https://www.nikonsmallworld.com/galleries/2022-photomicrography-competition)
 - [Photopea](https://www.photopea.com/) - Online Photo Editor. ([HN](https://news.ycombinator.com/item?id=33334521))
-- [The Forgotten Lens (2022)](https://www.garyvoth.com/the-forgotten-lens/)
+- [Classic 50mm “Normal” Lens (2022)](https://www.garyvoth.com/the-forgotten-lens/) ([HN](https://news.ycombinator.com/item?id=33394891))
