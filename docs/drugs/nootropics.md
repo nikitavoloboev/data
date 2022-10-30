@@ -4,9 +4,9 @@ title: Nootropics
 
 # [Nootropics](http://en.wikipedia.org/wiki/Nootropic)
 
-[Sleep](../sleep/sleep.md), [exercise](../fitness/fitness.md) & and proper [nutrition](../health/nutrition/nutrition.md) are the most important things you can do for ultimate mental performance combined with focused mindfulness. 
+[Sleep](../sleep/sleep.md), [exercise](../fitness/fitness.md) & and proper [nutrition](../health/nutrition/nutrition.md) are the most important things you can do for ultimate mental performance combined with focused [mindfulness](../mindfulness/mindfulness.md). 
 
-As I try to get all needed nutrients from healthy [food](../health/nutrition/foods.md), I only take few important [supplements](../health/nutrition/supplements.md) for the extra things that are hard to come with my diet.
+As I try to get all needed nutrients from healthy [food](../health/nutrition/foods.md), I only take few important [supplements](../health/nutrition/supplements.md) for the extra things that are hard to come by with my diet.
 
 There are [few nootropics you can take that in some way boost your mental ability and focus](https://www.reddit.com/r/Nootropics/comments/ub5i2d/what_is_the_most_interesting_nootropic_or_most/). Some infrequent doses of [psychedelics](psychedelics/psychedelics.md) fall into this category for me.
 

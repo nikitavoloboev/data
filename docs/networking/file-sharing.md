@@ -128,3 +128,4 @@
 - [sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directory and files with ios and android devices without an extra client app.
 - [rsget](https://github.com/otavio/rsget) - Simple command line utility to download a remote file, similar to wget.
 - [Quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
+- [mscp](https://github.com/upa/mscp) - Variant of scp, copies files over multiple ssh (sftp) sessions.

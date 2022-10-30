@@ -75,3 +75,4 @@
 - [KDL Document Language](https://kdl.dev/) - XML-like semantics that looks like you're invoking a bunch of CLI commands. ([KDL-Script](https://github.com/Gankra/kdl-script))
 - [yamlfmt](https://github.com/google/yamlfmt) - Extensible command line tool or library to format YAML files.
 - [Configs should be typed](https://twitter.com/satnam6502/status/1586398234326446080)
+- [rset](https://scriptedconfiguration.org/) - Configure systems using any scripting language.

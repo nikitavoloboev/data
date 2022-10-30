@@ -4,7 +4,7 @@ Would love to live/move to US one day but [they don't make it easy](https://twit
 
 I try to avoid pointless politics as much as possible but do like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mearsheimer), [George Friedman](https://twitter.com/george_friedman) & [Squirrel](https://twitter.com/zei_squirrel)'s analysis in regards to US foreign policy.
 
-Getting a US passport does sound great in theory but the fact that you have to then pay US tax no matter the country you live is kind of insane as clearly presented by [Nomad Capitalist](https://nomadcapitalist.com/book/). Ideally as I have now both a [Cypriot](cyprus.md) and [Russian](russia.md) passports, this lets me travel to pretty much any place I want visa free except US. Maybe one day I get a [Canadian](canada.md) passport so I get visa free access to US.
+Getting a US passport does sound great in theory but the fact that you have to then pay US tax no matter the country you live is kind of insane as clearly presented by [Nomad Capitalist](https://www.youtube.com/c/nomadcapitalist/videos). Ideally as I have now both a [Cypriot](cyprus.md) and [Russian](russia.md) passports, this lets me travel to pretty much any place I want visa free except US. Maybe one day I get a [Canadian](canada.md) passport so I get visa free access to US.
 
 ## Notes
 

@@ -155,6 +155,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [test](https://github.com/shoenig/test) - Modern generic testing assertions library for Go.
 - [golden](https://github.com/tenntenn/golden) - Utilities for golden file tests.
 - [Snapshot](https://github.com/kodiiing/snapshot) - Simple utility to do snapshot testing in Go.
+- [assert](https://github.com/junk1tm/assert) - Common assertions to use with the standard testing package.
 
 ## Web
 
@@ -1848,6 +1849,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gowrtr](https://github.com/moznion/gowrtr) - Library that supports Go code generation.
 - [go-reflect](https://github.com/goccy/go-reflect) - Zero-allocation reflection library for Go.
 - [Unit](https://github.com/martinlindhe/unit) - Conversion of unit library for Go.
+- [env](https://github.com/junk1tm/env) - Lightweight package for loading environment variables into structs.
 
 ## Links
 
