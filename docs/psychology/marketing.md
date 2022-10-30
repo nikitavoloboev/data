@@ -36,6 +36,7 @@ One way to do launches with possible virality is rewarding people who retweet wi
 - [Your content has a half life and the average varies by platform: Twitter: 1-24 hours. YouTube: Weeks-Months. Blog: Years.](https://twitter.com/swyx/status/1422041713187586048)
 - [The title should inform the reader what they'll expect when they read it.](https://news.ycombinator.com/item?id=32320466)
 - [Content marketing is how startups won in the last decade but it's becoming a commodity. The only way to stand out from AI tools and cheap writers is by adding personal experiences and strong opinions. That’s the only thing they will never be able to copy.](https://twitter.com/theandreboso/status/1574045752216748034)
+- [Until you are clearly #1: Your homepage should plainly list the 3 things you do better than the competition.](https://twitter.com/jasonlk/status/1586771201463943168)
 
 ## Links
 

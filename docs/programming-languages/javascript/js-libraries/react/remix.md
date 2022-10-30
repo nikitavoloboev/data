@@ -175,3 +175,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Remix-Query](https://github.com/GuptaSiddhant/remix-query) - Keep your loader data in sync in your component without reloading the page.
 - [Fontsource with Remix](https://gist.github.com/knowler/d74f1cdfa0d80a63910b554998eec112)
 - [Remix PWA](https://github.com/ShafSpecs/remix-pwa) - PWA integration & support for Remix.
+- [Remix compared to Next 13](https://twitter.com/ryanflorence/status/1586820806625046529)
