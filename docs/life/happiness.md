@@ -114,3 +114,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Learning to Love Myself (2016)](http://blog.chaselambda.com/2016/12/11/learning-to-love-myself.html) ([HN](https://news.ycombinator.com/item?id=32355020))
 - [Ask HN: Has anyone managed to find enjoyment in their work after burnout? (2022)](https://news.ycombinator.com/item?id=33260525)
 - [Ask HN: What mindset change made the biggest positive change for you? (2022)](https://news.ycombinator.com/item?id=33385750)
+- [Ask HN: How did you find joy in life? (2022)](https://news.ycombinator.com/item?id=33398063)

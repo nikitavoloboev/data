@@ -109,3 +109,4 @@ Truthfully though, I need to actually try live in China and speak to people ther
 - [Biden declares economic war on the Chinese semiconductor industry (2022)](https://noahpinion.substack.com/p/biden-declares-economic-war-on-the) ([Tweet](https://twitter.com/Noahpinion/status/1581595773963104256))
 - [Summary of Communist Party Congress (2022)](https://twitter.com/JChengWSJ/status/1583971715163586562)
 - [How the Chinese Communist Party Works (2022)](https://www.youtube.com/watch?v=vre_yhZXPVU)
+- [Analysis on China's army capabilities (2022)](https://www.reddit.com/r/CredibleDefense/comments/yhck4z/comment/iudrd9z/)

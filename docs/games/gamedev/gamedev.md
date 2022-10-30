@@ -297,3 +297,4 @@
 - [Best game building stuff for young kids (2022)](https://twitter.com/ThePrimeagen/status/1584204991316623360)
 - [Multiplayer Matchmaker](https://github.com/penberg/multiplayer-matchmaker) - Implements a multiplayer matchmaking server for games with ChiselStrike.
 - [What are some underrated tools every game developer should know? (2022)](https://www.reddit.com/r/gamedev/comments/yely22/what_are_some_underrated_tools_every_game/)
+- [Books to read for game dev](https://twitter.com/FreyaHolmer/status/1586737169619623938)
