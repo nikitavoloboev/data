@@ -38,3 +38,4 @@ Some interesting words I like:
 - [Urban Dictionary Word List](https://github.com/mattbierner/urban-dictionary-word-list)
 - [Tutors / tips to change your English accent (2022)](https://news.ycombinator.com/item?id=32375394)
 - [Word Ninja](https://github.com/keredson/wordninja) - Probabilistically split concatenated words using NLP based on English Wikipedia unigram frequencies.
+- [Over-reliance on English hinders cognitive science (2022)](<https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4>)
