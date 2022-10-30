@@ -142,3 +142,5 @@ title: Three.js
 - [Needle Engine](https://github.com/needle-tools/needle-engine-support) - Web-based runtime for 3D apps. It runs on your machine for development, and can be deployed anywhere. It is flexible, extensible, and collaboration and XR come naturally.
 - [ThreeJS Geometry Welder](https://github.com/0xAxiome/three-geometry-welder) - Customizable way of merging your buffer geometry.
 - [Awesome ThreeJS](https://github.com/0xAxiome/awesome-threejs)
+- [Shadow Mapping In Three.js (2022)](https://mofu-dev.com/en/blog/threejs-shadow-map/)
+- [Stable Fluids with three.js (2022)](https://mofu-dev.com/en/blog/stable-fluids)

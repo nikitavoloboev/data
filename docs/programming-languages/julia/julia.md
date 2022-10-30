@@ -154,3 +154,4 @@ title: Julia
 - [Julia 2.0 isn’t coming anytime soon, and why that is a good thing (2022)](https://logankilpatrick.medium.com/why-julia-2-0-isnt-coming-anytime-soon-and-why-that-is-a-good-thing-641ae3d2a177) ([HN](https://news.ycombinator.com/item?id=32809790))
 - [Julia grammar for Tree-sitter](https://github.com/tree-sitter/tree-sitter-julia)
 - [Intro to Julia workshop (2022)](https://github.com/mfherbst/2022-sustech-julia-workshop)
+- [ModelingToolkit and JuliaSim Workshop (2022)](https://figshare.com/articles/conference_contribution/ModelingToolkit_and_JuliaSim_Workshop/21432588) ([Code](https://github.com/JuliaComputing/ModelingToolkitWorkshop))

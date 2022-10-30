@@ -47,3 +47,4 @@ title: Mastodon
 - [Twitodon](https://twitodon.com/) - Find your Twitter friends on Mastodon. ([Code](https://github.com/diddledani/twitodon))
 - [Moa](https://moa.party/) - Cross post between Mastodon, Twitter, and Instagram. ([Code](https://gitlab.com/fedstoa/moa))
 - [10 quick Mastodon tips (2022)](https://axbom.com/mastodon-tips/)
+- [Find Fediverse accounts of your Twitter followings](https://fedifinder.glitch.me/)

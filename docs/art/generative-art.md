@@ -241,3 +241,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Jeff Palmer](https://jpalmer.dev/) ([IG](https://www.instagram.com/jwpalmer6/))
 - [Jerry-Lee Bosmans](https://www.byjer.com/) ([IG](https://www.instagram.com/jerbosmans/))
 - [Visual Morphology of Vowels](https://github.com/soundshader/soundshader.github.io/blob/master/acf-v2/README.md) ([HN](https://news.ycombinator.com/item?id=33380380))
+- [Pattern Maker AI](https://patternmakerai.com/) - Generate seamless patterns using artificial intelligence. ([Tweet](https://twitter.com/IgnasiTuduri/status/1586445167615438848))

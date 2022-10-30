@@ -593,3 +593,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Compelling Science Fiction Newsletter](https://compellingsciencefiction.com/)
 - [Cheap Books](https://www.pagesonpages.com/) - Finds the cheapest place to buy a book. ([HN](https://news.ycombinator.com/item?id=33147079))
 - [Where Is All the Book Data? (2022)](https://www.publicbooks.org/where-is-all-the-book-data/)
+- [Nice fiction authors](https://twitter.com/ankurnagpal/status/1586761840821997571)
