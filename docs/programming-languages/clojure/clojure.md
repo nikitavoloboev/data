@@ -123,7 +123,7 @@ title: Clojure
 - [Run Clojure CGI scripts on cheap shared hosting with babashka (2020)](https://eccentric-j.com/blog/clojure-like-its-php.html)
 - [Collection about Rich Hickey's works on the internet](https://github.com/tallesl/Rich-Hickey-fanclub)
 - [Interactive Clojure REPL Guides](https://github.com/BetterThanTomorrow/dram)
-- [Clojure from a Schemer's perspective (2021)](https://www.more-magic.net/posts/thoughts-on-clojure.html) ([Lobsters](https://lobste.rs/s/uzq4af/clojure_from_schemer_s_perspective)) ([HN](https://news.ycombinator.com/item?id=26356367))
+- [Clojure from a Schemer's perspective (2021)](https://www.more-magic.net/posts/thoughts-on-clojure.html) ([Lobsters](https://lobste.rs/s/uzq4af/clojure_from_schemer_s_perspective)) ([HN](https://news.ycombinator.com/item?id=26356367)) ([Reddit](https://www.reddit.com/r/Clojure/comments/ygh69a/clojure_from_a_schemers_perspective/))
 - [My Journey To Understanding Function Composition with Clojure (2021)](https://savo.rocks/posts/my-journey-to-understanding-function-composition/)
 - [Clojure Koans](http://clojurekoans.com/)
 - [Returns a map (2021)](https://clojurearcana.com/returns-a-map/)

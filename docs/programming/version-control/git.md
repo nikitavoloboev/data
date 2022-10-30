@@ -588,3 +588,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [MergeStat](https://github.com/mergestat/mergestat) - Enables SQL queries for data in git repositories (and related sources, such as the GitHub API).
 - [NodeGit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 - [Ask HN: Apps that are built with Git as the back end? (2022)](https://news.ycombinator.com/item?id=33261862)
+- [The Perfect Commit (2022)](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) ([Lobsters](https://lobste.rs/s/tgen6r/perfect_commit))

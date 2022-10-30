@@ -748,3 +748,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-function-inliner](https://github.com/JoshuaKGoldberg/ts-function-inliner) - TypeScript transformation that inlines calls to small functions.
 - [Counterfact](https://github.com/pmcelhaney/counterfact) - OpenAPI / Swagger to TypeScript generator and mock server.
 - [Knip](https://github.com/webpro/knip) - Find unused files, dependencies and exports in your JS/TS project.
+- [Template for TypeScript backend server](https://github.com/samchon/backend)

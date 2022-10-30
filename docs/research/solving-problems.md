@@ -41,6 +41,8 @@ Other times I sketch problems out in [FigJam](https://www.figma.com/figjam/) or 
 
 Sometimes I doodle things on iPad with [Procreate](https://procreate.art/) or Notes apps.
 
+Most importantly, once you know what the actual problem you are trying to solve is, you have to make sure to remove any unneeded dependencies. If you don't truly need it, remove it! [Why Tesla removed Radar and Ultrasonic sensors](https://www.youtube.com/watch?v=_W1JBAfV4Io) is nice overview of this in action.
+
 ## 3. Work on solving the task and nothing else
 
 I make sure to do the one task I have at hand with no distractions.

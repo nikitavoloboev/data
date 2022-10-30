@@ -175,6 +175,7 @@
 - Aggressively research everything I don't understand. In solving problems, think about it in terms of models I can validate.
 - For programming, think about the data model and operations. Always keep in mind the problem being solved.
 - Don't panic. Stay calm & reasonable.
+- Approach every problem with ‘[do you need this dependency](https://www.youtube.com/watch?v=_W1JBAfV4Io)’.
 
 ## Code
 
