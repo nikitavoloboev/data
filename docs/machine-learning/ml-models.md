@@ -122,3 +122,4 @@
 - [Modelverse](https://modelverse.cs.cmu.edu/) - Content-Based Search for Deep Generative Models. ([Code](https://github.com/generative-intelligence-lab/modelverse))
 - [FlagAI](https://github.com/FlagAI-Open/FlagAI) - Fast, easy-to-use and extensible toolkit for large-scale model.
 - [Stochastic](https://www.stochastic.ai/) - AI Acceleration Platform. ([GitHub](https://github.com/stochasticai))
+- [voltaML](https://github.com/VoltaML/voltaML) - Lightweight library to convert and run your ML/DL deep learning models in high performance inference runtimes like TensorRT, TorchScript, ONNX and TVM.

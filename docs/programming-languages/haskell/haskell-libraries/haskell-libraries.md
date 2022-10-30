@@ -15,7 +15,7 @@
 - [haskell-wasm](https://github.com/SPY/haskell-wasm) - Haskell WebAssembly Toolkit.
 - [Morpheus GraphQL](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL API, Client and Tools.
 - [http-streams](https://github.com/aesiniath/http-streams) - Haskell HTTP client library for use with io-streams.
-- [Reflex-DOM](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects.
+- [Reflex-DOM](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects. ([Tutorial](https://github.com/hansroland/reflex-dom-inbits))
 - [immortal](https://github.com/UnkindPartition/immortal) - Small library to create threads that never die.
 - [retry](https://github.com/Soostone/retry) - Retry combinators for monadic actions that may fail.
 - [jose](https://github.com/frasertweedale/hs-jose) - Haskell JOSE and JWT library.

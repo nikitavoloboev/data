@@ -962,3 +962,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Latent Space Smoothing for Individually Fair Representations (2021)](https://arxiv.org/abs/2111.13650) ([Tweet](https://twitter.com/DeepMind/status/1584853867950665728))
 - [Volodymyr Kuleshov - YouTube](https://www.youtube.com/user/vkuleshov/videos)
 - [VectorAdam for Rotation Equivariant Geometry Optimization (2022)](https://arxiv.org/abs/2205.13599) ([Code](https://github.com/iszihan/VectorAdam))
+- [Learning Fast and Slow for Online Time Series Forecasting (2022)](https://arxiv.org/abs/2202.11672) ([Code](https://github.com/salesforce/fsnet))

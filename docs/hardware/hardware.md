@@ -364,3 +364,4 @@
 - [Chips and Cheese Blog](https://chipsandcheese.com/)
 - [What's Different About Next-Gen Transistors (2022)](https://semiengineering.com/whats-different-about-next-gen-transistors/)
 - [SBC-Bench](https://github.com/ThomasKaiser/sbc-bench) - Simple benchmark for single board computers. ([HN](https://news.ycombinator.com/item?id=33301589))
+- [PYNQ](https://github.com/Xilinx/PYNQ) - Open-source project from Xilinx that makes it easy to design embedded systems with Zynq All Programmable Systems on Chips (APSoCs).

@@ -119,3 +119,4 @@ title: Field-programmable gate array
 - [Comprehensive list of FPGA development boards](https://www.fpgadeveloper.com/comprehensive-list-of-fpga-development-boards/) ([HN](https://news.ycombinator.com/item?id=33252556))
 - [The History of the FPGA](https://www.youtube.com/watch?v=m-8G1Yixb34&list=PLKtxx9TnH76RiptUQ22iDGxNewdxjI6Xh&index=36)
 - [How the FPGA Came to Be (2021)](https://www.eejournal.com/article/how-the-fpga-came-to-be-part-1/) ([All parts](https://lobste.rs/s/fvbryd/how_fpga_came_be))
+- [RIFFA (Reusable Integration Framework for FPGA Accelerators)](https://github.com/KastnerRG/riffa) - Simple framework for communicating data from a host CPU to a FPGA via a PCI Express bus.

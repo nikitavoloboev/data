@@ -125,3 +125,4 @@
 - [CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)
 - [Animation focused workflow frontend for Stable Diffusion](https://github.com/amotile/stable-diffusion-studio)
 - [Backend for my Stable diffusion projects](https://github.com/amotile/stable-diffusion-backend)
+- [Carefree Creator](https://github.com/carefree0910/carefree-creator) - AI-powered creator for everyone.

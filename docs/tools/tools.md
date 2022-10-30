@@ -243,6 +243,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Slapdash](https://slapdash.com/) - Brings all your apps together in one place to give you new superpowers.
 - [Planner](https://github.com/bvaughn/planner) - Lightweight, interactive planning tool that visualizes a series of tasks using an HTML canvas.
 - [PlantUML](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description. ([Web](https://plantuml.com/))
+- [Decker](https://github.com/JohnEarnest/Decker) - Multimedia platform for creating and sharing interactive documents, with sound, images, hypertext, and scripted behavior.
 - [Frameable](https://frameable.com/) - Virtual events, online remote team work spaces. ([GitHub](https://github.com/frameable))
 - [Tiny Letter](https://tinyletter.com)
 - [Emery](https://emery.to/) - Personal workspace for busy people. ([HN](https://news.ycombinator.com/item?id=32312413))

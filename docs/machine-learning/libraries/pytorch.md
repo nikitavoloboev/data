@@ -462,3 +462,4 @@ title: PyTorch
 - [PyTorch dual-attention LSTM-autoencoder for multivariate Time Series](https://github.com/JulesBelveze/time-series-autoencoder)
 - [torch-scan](https://github.com/frgfm/torch-scan) - Seamless analysis of your PyTorch models (RAM usage, FLOPs, MACs, receptive field, etc.).
 - [Kernl](https://github.com/ELS-RD/kernl) - Lets you run PyTorch transformer models several times faster on GPU with a single line of code, and is designed to be easily hackable.
+- [Open MatSci ML Toolkit](https://github.com/IntelLabs/matsciml) - Single framework for prototyping and scaling out deep learning models for materials discovery, built on top of OpenCatalyst, PyTorch Lightning, and the Deep Graph Library.

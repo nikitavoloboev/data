@@ -4,6 +4,8 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 
 [On the Measure of Intelligence](https://twitter.com/alexkowsik/status/1518602848421961730) is a good read. [Bleeding Edge AI](https://bleedingedge.ai/) is nice way to stay up to date.
 
+[Andrej Karpathy](https://github.com/karpathy) does amazing work in ML. His [interview with Lex](https://www.youtube.com/watch?v=cdiD-9MMpb0) was insightful. Transformer ML models as described in [Attention Is All You Need](https://arxiv.org/abs/1706.03762) are very useful.
+
 ## Notes
 
 - [Best part of I, Robot is how it consistently presents robots doing undesirable things not as AI “gone evil” or “run amok” but implications of their programming that humans did not anticipate, which must be understood and fixed like any other engineering problem.](https://twitter.com/lexi_lambda/status/1464269135169339393)

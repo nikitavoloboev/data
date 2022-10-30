@@ -1040,6 +1040,7 @@
 - [hapi/iron](https://github.com/hapijs/iron) - Encapsulated tokens (encrypted and mac'ed objects).
 - [slug](https://github.com/Trott/slug) - Slugifies strings, even when they contain Unicode.
 - [is-executable](https://github.com/sindresorhus/is-executable) - Check whether a file can be executed.
+- [uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences.
 
 ## Links
 

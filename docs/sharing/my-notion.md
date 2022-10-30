@@ -16,4 +16,4 @@ title: My Notion
 - [Learn](https://trello.com/b/cu32qF3q)
 - [Papers / Courses](https://trello.com/b/EKl1Ie3q)
 
-Will be moved to Notion later.
+Stopped using Trello. Everything above is being moved to [Height](https://height.app/) until [LA](../ideas/learn-anything.md) is perfected.

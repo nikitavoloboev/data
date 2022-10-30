@@ -107,3 +107,4 @@ title: Agda
 - [Don't worry (about writing Haskell), be happy (writing Agda instead) (2022)](https://jesper.sikanda.be/posts/agda2hs.html)
 - [Luau type checker](https://github.com/luau-lang/agda-typeck) - Partial implementation of Luau type checker in Agda for machine verification.
 - [Total parser combinators and parsing of mixfix operators in Agda](https://github.com/nad/parser-combinators)
+- [ucat](https://github.com/elpinal/ucat) - Univalent categories, displayed categories, and fibrations.

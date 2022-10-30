@@ -755,6 +755,8 @@
 - [SCIP.jl](https://github.com/scipopt/SCIP.jl) - Julia interface to SCIP solver.
 - [PlutoRESTClient](https://github.com/JuliaPluto/PlutoRESTClient.jl) - Interact with your Pluto notebooks from other Julia programs.
 - [SetupIterator.jl](https://github.com/MasonProtter/SetupIterator.jl)
+- [BayesHistogram.jl](https://github.com/francescoalemanno/BayesHistogram.jl) - Optimal histogram binning based on piecewise constant model.
+- [ShortStrings](https://github.com/JuliaString/ShortStrings.jl) - Fast implementation of short strings of fixed size. Great for sorting and group-by operations.
 
 ## Links
 

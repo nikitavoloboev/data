@@ -444,6 +444,7 @@
 - [Hotline](https://github.com/polymonster/hotline) - Graphics, compute and hardware accelerated A/V decoding.
 - [GPU Rust Playground](https://github.com/asahilina/gpu-rust-playground) - Experimenting with Rust for GPU driver dev.
 - [Frui](https://github.com/fruiframework/frui) - Developer-friendly UI framework that makes building user interfaces easy and productive. It's inspired by Flutter architecture and is written in Rust.
+- [Embedded Graphics Web Simulator](https://github.com/rahul-thakoor/embedded-graphics-web-simulator)
 
 ## Games
 
@@ -714,6 +715,7 @@
 - [acid_alloc](https://github.com/dataphract/acid_alloc) - Bare-metal allocators.
 - [acid_io](https://github.com/dataphract/acid_io) - Rust I/O for no_std.
 - [esp-idf-hal](https://github.com/esp-rs/esp-idf-hal) - Embedded-hal implementation for Rust on ESP32 and ESP-IDF.
+- [rust_gpiozero](https://github.com/rahul-thakoor/rust_gpiozero) - Library inspired by gpiozero written in Rust.
 
 ## ML
 
@@ -2263,6 +2265,7 @@
 - [syn-rsx](https://github.com/stoically/syn-rsx) - Syn-powered parser for JSX-like TokenStreams.
 - [Deluge](https://github.com/mkawalec/deluge) - Async stream processor. ([Reddit](https://www.reddit.com/r/rust/comments/yen6d1/new_async_stream_processor_deluge/))
 - [Treebender](https://github.com/vgel/treebender) - HDPSG-inspired symbolic natural language parser written in Rust.
+- [Chrono-TZ](https://github.com/chronotope/chrono-tz) - TimeZone implementations for rust-chrono from the IANA database.
 
 ## Cargo Plugins
 
