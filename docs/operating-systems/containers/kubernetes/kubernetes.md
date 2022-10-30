@@ -837,3 +837,4 @@ title: Kubernetes
 - [Running Synthetic Checks at Scale with Kubernetes (2022)](https://kentiklabs.com/blog/ksynth-checks-k8s/)
 - [Visualizing Kubernetes Traffic (2021)](https://kentiklabs.com/blog/visualize-k8s-traffic/)
 - [Numaflow](https://github.com/numaproj/numaflow) - Kubernetes-native platform to run massively parallel data/streaming jobs.
+- [KubeShare](https://github.com/NTHU-LSALAB/KubeShare) - Share GPU between Pods in Kubernetes.

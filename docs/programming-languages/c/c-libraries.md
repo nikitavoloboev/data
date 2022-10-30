@@ -177,3 +177,4 @@
 - [J40](https://github.com/lifthrasiir/j40) - Independent, self-contained JPEG XL decoder. ([HN](https://news.ycombinator.com/item?id=32885203))
 - [nsync](https://github.com/google/nsync) - C library that exports various synchronization primitives, such as mutexes.
 - [GNU C Library](https://github.com/bminor/glibc) - Standard system C library.
+- [jc_voronoi](https://github.com/JCash/voronoi) - Fast C/C++ header only implementation for creating 2D Voronoi diagrams from a point set.

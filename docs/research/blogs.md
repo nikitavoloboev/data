@@ -193,6 +193,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Nicholas Nethercote](https://nnethercote.github.io/)
 - [Jan Schaumann](https://www.netmeister.org/blog/index.html)
 - [Loris Cro](https://kristoff.it/)
+- [Alex Bespoyasov](https://bespoyasov.me/blog/)
 
 ## Notes
 

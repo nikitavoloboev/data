@@ -576,6 +576,7 @@
 - [SwiftNodeEditor](https://github.com/schwa/SwiftNodeEditor) - Package of SwiftUI code for making node editors.
 - [BobTheBuilder](https://github.com/roblack/BobTheBuilder) - Package with various build/creation helpers for SwiftUI.
 - [EasyMenu](https://github.com/hdehghan/EasyMenu) - SwiftUI Menu but not only button. You can create custom Menu.
+- [SwiftUI Dynamic Island Animations](https://github.com/amosgyamfi/dynamic-island-animations)
 
 ## Test
 

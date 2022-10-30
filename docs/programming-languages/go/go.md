@@ -883,3 +883,4 @@ if *boolArgPtr != false {
 - [Another iterator proposal from the Go team](https://github.com/golang/go/discussions/56413) ([Lobsters](https://lobste.rs/s/gjyxba/another_iterator_proposal_from_go_team))
 - [No safe efficient ways to do three-way string comparisons in Go (2022)](https://go101.org/blog/2022-10-01-three-way-string-comparison.html) ([HN](https://news.ycombinator.com/item?id=33316402))
 - [Russ Cox - Compatibility: How Go Programs Keep Working (2022)](https://www.youtube.com/watch?v=v24wrd3RwGo)
+- [Goat](https://github.com/goatlang/goat) - Extended flavor of the Go programming language, aiming for increased value safety and maintainability.
