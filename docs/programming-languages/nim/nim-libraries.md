@@ -31,6 +31,7 @@
 - [nimdbx](https://github.com/snej/nimdbx) - Extremely fast persistent key-value store for the Nim language, based on the amazing MDBX library.
 - [ndb/sqlite](https://github.com/xzfc/ndb.nim) - Of db_sqlite, Nim's standard library higher level SQLite database wrapper.
 - [Nim SQLite3 wrapper](https://github.com/arnetheduck/nim-sqlite3-abi)
+- [allographer](https://github.com/itsumura-h/nim-allographer) - Asynchronous query builder library inspired by Laravel/PHP and Orator/Python for Nim.
 
 ## Other
 

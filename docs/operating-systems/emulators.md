@@ -80,3 +80,4 @@
 - [AGBRS](https://github.com/agbrs/agb) - Library for writing Game Boy Advance games in Rust.
 - [Stella](https://github.com/stella-emu/stella) - Multi-platform Atari 2600 Emulator.
 - [Potatis](https://github.com/henrikpersson/potatis) - MOS-6502 and NES emulator in Rust.
+- [RosettaBoy](https://github.com/shish/rosettaboy) - Gameboy emulator in several different languages.
