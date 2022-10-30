@@ -13,6 +13,7 @@ For programming, [Walrus](https://github.com/Clivern/Walrus) seems nice.
 - [BorgBackup](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
   - [Vorta Backup Client](https://github.com/borgbase/vorta) - Backup client for macOS and Linux desktops. It integrates the mighty BorgBackup with your desktop environment to protect your data from disk failure, ransomware and theft.
   - [BorgBase](https://www.borgbase.com/) - Specialized Hosting Service for BorgBackup.
+  - [Restic Robot](https://github.com/Southclaws/restic-robot) - Backups done right... by robots! Restic backup but the robot friendly version.
 - [HashBackup](http://www.hashbackup.com/) - Unix command-line backup program to create a local backup, remote offsite backup, or both, in your own storage accounts.
 - [Kopia](https://github.com/kopia/kopia) - Simple, cross-platform tool for managing encrypted backups in the cloud. ([Web](https://kopia.io/)) ([HN](https://news.ycombinator.com/item?id=27471945))
 - [knoxite](https://github.com/knoxite/knoxite) - Data storage & backup system.

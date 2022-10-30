@@ -473,3 +473,4 @@ Awesome List
 - [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/) ([HN](https://news.ycombinator.com/item?id=33248988))
 - [Export (your) GitHub stars to a CSV file](https://github.com/JeffCarpenter/export-stars)
 - [GitHub Scraper](https://github.com/nelsonic/github-scraper) - Crawl GitHub web pages for insights we can't GET from the API.
+- [GitHub WebSocket API](https://github.com/Hacksore/github-websocket-api) - Reverse engineering the GitHub WebSocket API.

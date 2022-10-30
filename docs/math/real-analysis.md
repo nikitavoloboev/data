@@ -20,3 +20,4 @@
 - [Solving math exercises live (Tao’s Analysis I, Exercises 3.5.4, 3.5.5 and 3.5.6)](https://www.youtube.com/watch?v=zqhvq3Xy2O8)
 - [Numerical Analysis I Course](https://github.com/MikaelSlevinsky/MATH2160)
 - [What’s the appeal with complex analysis? (2022)](https://www.reddit.com/r/math/comments/ukmwq2/whats_the_appeal_with_complex_analysis/)
+- [The Brascamp-Lieb inequality and its influence on Fourier analysis (2022)](https://arxiv.org/abs/2203.11475) ([Tweet](https://twitter.com/sp_monte_carlo/status/1586818427624325120))

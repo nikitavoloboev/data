@@ -394,3 +394,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Breaking Down the System Layer (2022)](https://synit.org/book/system-layer.html)
 - [Synit](https://synit.org/book/introduction.html) - Applying pervasive reactivity and object capabilities to the System Layer of an operating system for personal computers.
 - [Multi-Kernel Drifting (2022)](https://luqman.ca/blog/multi-kernel-drifting/) ([HN](https://news.ycombinator.com/item?id=33337086))
+- [Things a modern OS should have](https://twitter.com/kocienda/status/1586828713492041728)

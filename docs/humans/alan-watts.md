@@ -56,3 +56,4 @@ The one book I read by him and loved is [Wisdom of Insecurity](https://antilogic
 - [Rare Lost Tape of Alan Watts recorded by himself (1959)](https://www.youtube.com/watch?v=PYKlGMBYX8s)
 - [How did Alan Watts become so extremely poetic and deliver his speeches in such tremendous fashion?](https://www.reddit.com/r/AlanWatts/comments/m90073/how_did_alan_watts_become_so_extremely_poetic_and/)
 - [Who else do you listen to/read other than Alan? (2021)](https://www.reddit.com/r/AlanWatts/comments/mczidz/who_else_do_you_listen_toread_other_than_alan/)
+- [Alan Watts recordings](https://drive.google.com/drive/folders/1Nva-MQ7DJkzeT_KktFQmFerjQuYOOhlF)

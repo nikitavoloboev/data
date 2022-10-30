@@ -709,6 +709,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [merry](https://github.com/ansel1/merry) - Go errors with stacktrace and context.
 - [Errors](https://github.com/nicolasparada/go-errs) - Create constant sentinel errors with errors.Is support.
 - [go-xerrors](https://github.com/MDobak/go-xerrors) - Idiomatic and lightweight package that provides a set of functions to make working with errors easier. ([Reddit](https://www.reddit.com/r/golang/comments/xsfgw3/mdobakgoxerrors_yet_another_error_handling_library/))
+- [Fault](https://github.com/Southclaws/fault) - Go errors but structured and composable. Fault provides an extensible yet ergonomic mechanism for wrapping errors. ([Reddit](https://www.reddit.com/r/golang/comments/yhkr8i/go_errors_but_structured_and_composable_fault/))
 
 ## Other
 
@@ -823,7 +824,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications easy way in Go. ([CQRS implementation in Watermill](https://watermill.io/docs/cqrs/))
 - [Aero](https://github.com/aerogo/aero) - High-performance web server for Go.
 - [Jet](https://github.com/go-jet/jet) - Type safe SQL Builder for Go with automatic scan to desired arbitrary object structure.
-- [ent](https://github.com/ent/ent) - Simple, yet powerful entity framework for Go, that makes it easy to build and maintain applications with large data-models. ([Web](https://entgo.io/)) ([Docs](https://entgo.io/docs/getting-started)) ([GraphQL setup](https://github.com/a8m/ent-graphql-example)) ([entcache](https://github.com/ariga/entcache)) ([ent-contrib](https://github.com/ent/contrib)) ([ogent - Ent Extension to integrate ogen](https://github.com/ariga/ogent)) ([Should I use Ent?](https://www.reddit.com/r/golang/comments/xnrhdg/should_i_use_ent/))
+- [Ent](https://github.com/ent/ent) - Simple, yet powerful entity framework for Go, that makes it easy to build and maintain applications with large data-models. ([Web](https://entgo.io/)) ([Docs](https://entgo.io/docs/getting-started)) ([GraphQL setup](https://github.com/a8m/ent-graphql-example)) ([entcache](https://github.com/ariga/entcache)) ([ent-contrib](https://github.com/ent/contrib)) ([ogent - Ent Extension to integrate ogen](https://github.com/ariga/ogent)) ([Should I use Ent?](https://www.reddit.com/r/golang/comments/xnrhdg/should_i_use_ent/)) ([HN](https://news.ycombinator.com/item?id=33398806))
 - [Muon](https://github.com/ImVexed/muon) - Lightweight alternative to Electron written in Go in about ~300 LoC, using Ultralight instead of Chromium. ([HN](https://news.ycombinator.com/item?id=33061167))
 - [gnet](https://github.com/panjf2000/gnet) - High-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [env](https://github.com/caarlos0/env) - Simple lib to parse envs to structs in Go.

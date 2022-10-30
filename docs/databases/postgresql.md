@@ -594,3 +594,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postgres: Safely renaming a table with no downtime using updatable views (2022)](https://brandur.org/fragments/postgres-table-rename)
 - [PGroonga](https://pgroonga.github.io/) - Fast full text search platform for all languages.
 - [Push-based outbox pattern with Postgres logical replication (2022)](https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/) ([HN](https://news.ycombinator.com/item?id=33370649))
+- [Building full-text-search over multiple tables in Postgres (2022)](https://twitter.com/kevcodez/status/1586681213242462208)

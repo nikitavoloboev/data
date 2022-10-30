@@ -246,6 +246,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Suggestions for a fun open world game I can get lost in (2022)](https://www.reddit.com/r/PS5/comments/y0j90a/any_suggestions_for_a_fun_open_world_game_i_can/)
 - [Do you know any good programming games? (2022)](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games)
 - [What is a game you were told was bad/boring/awful but ended up enjoying when you played it? (2022)](https://www.reddit.com/r/patientgamers/comments/ybovs1/what_is_a_game_you_were_told_was_badboringawful/)
+- [Nice cooperative games on PS5 (2022)](https://twitter.com/TkDodo/status/1586636367597027329)
 
 ## Links
 

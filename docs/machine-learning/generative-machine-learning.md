@@ -126,3 +126,4 @@
 - [Animation focused workflow frontend for Stable Diffusion](https://github.com/amotile/stable-diffusion-studio)
 - [Backend for my Stable diffusion projects](https://github.com/amotile/stable-diffusion-backend)
 - [Carefree Creator](https://github.com/carefree0910/carefree-creator) - AI-powered creator for everyone.
+- [Categorical SDEs with Simplex Diffusion (2022)](https://arxiv.org/abs/2210.14784) ([Tweet](https://twitter.com/TheOneKloud/status/1586719623482834945))
