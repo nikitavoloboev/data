@@ -365,6 +365,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [retry](https://github.com/shogo82148/go-retry) - Simple utils for exponential back off.
 - [go-http](https://github.com/openziti-test-kitchen/go-http) - Go HTTP Clients/Servers and Alternative Networking.
 - [gofetch](https://github.com/sidwebworks/gofetch-client) - Lightweight and productive http client for Go.
+- [TTL](https://github.com/devnw/ttl) - Time To Live Cache Implementation for Go.
 
 ## GraphQL
 
@@ -1854,6 +1855,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [env](https://github.com/junk1tm/env) - Lightweight package for loading environment variables into structs.
 - [nject](https://github.com/muir/nject) - Go type-safe dependency injection.
 - [immcheck](https://github.com/goodbadreviewer/immcheck) - Runtime immutability checks.
+- [Stream](https://github.com/devnw/stream) - Generic implementation for concurrency communication patterns.
+- [alog](https://github.com/devnw/alog) - Fully concurrent, non-IO blocking Logger for Go.
+- [Atomizer](https://github.com/devnw/atomizer) - Massively Parallel Distributed Computing.
 
 ## Links
 

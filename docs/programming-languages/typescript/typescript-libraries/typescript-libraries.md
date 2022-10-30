@@ -653,6 +653,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Embedded TypeScript](https://github.com/tatethurston/embedded-typescript) - Type safe embedded TypeScript templates.
 - [FP-TS Data](https://github.com/fp-ts/data)
 - [hkt Toolbet](https://github.com/poteat/hkt-toolbelt) - Functional and composable type utilities.
+- [Derive](https://github.com/shoooe/derive) - Library to derive a TypeScript type from another.
 
 ## Links
 

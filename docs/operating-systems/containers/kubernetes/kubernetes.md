@@ -839,3 +839,4 @@ title: Kubernetes
 - [Numaflow](https://github.com/numaproj/numaflow) - Kubernetes-native platform to run massively parallel data/streaming jobs.
 - [KubeShare](https://github.com/NTHU-LSALAB/KubeShare) - Share GPU between Pods in Kubernetes.
 - [Murre](https://github.com/groundcover-com/murre) - On-demand, scaleable source of container resource metrics for K8s.
+- [Helm Dashboard](https://github.com/komodorio/helm-dashboard) - Simplified way of working with Helm.

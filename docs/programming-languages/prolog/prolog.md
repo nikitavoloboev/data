@@ -72,3 +72,4 @@ title: Prolog
 - [SWI-Prolog ported to WebAssembly](https://github.com/SWI-Prolog/swipl-wasm)
 - [PicoProlog](https://spivey.oriel.ox.ac.uk/corner/PicoProlog)
 - [Textmate syntax for Prolog](https://github.com/jeff-hykin/better-prolog-syntax)
+- [Protelog](https://github.com/shonfeder/protelog) - Evolving collection of more-and-less experimental Prolog syntax extensions.

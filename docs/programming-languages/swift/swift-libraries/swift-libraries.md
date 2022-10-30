@@ -365,6 +365,7 @@
 - [URLRequestBuilder](https://github.com/ParableHealth/URLRequestBuilder) - Deal with query items, HTTP headers, request body and more in an easy, declarative way.
 - [SafeURL](https://github.com/baguio/SwiftSafeURL) - Compile-time-checked URLs.
 - [JWT](https://github.com/vapor/jwt) - Vapor JWT provider.
+- [RxNetworks](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
 
 ## GraphQL
 

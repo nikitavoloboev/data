@@ -65,3 +65,4 @@ title: Bevy Engine
 - [bevy_efficient_forest_example](https://github.com/pinkponk/bevy_efficient_forest_rendering) - Using bevy and custom render pipelines in order to render many objects in a forest using chunks for performance.
 - [Bevy Game Jam 2022](https://github.com/DGriffin91/BevyJam2022)
 - [bevy_egui](https://github.com/mvlabat/bevy_egui) - Provides a Egui integration for the Bevy game engine.
+- [GGRS and Rapier working together in Bevy engine](https://github.com/cscorley/bevy_ggrs_rapier_example)

@@ -172,3 +172,4 @@
 - [Satori](https://github.com/vercel/satori) - Convert HTML and CSS to SVG. ([HN](https://news.ycombinator.com/item?id=33156130))
 - [SVG sprites: old-school, modern, unknown, and forgotten (2022)](https://pepelsbey.dev/articles/svg-sprites/)
 - [GIOSVG](https://github.com/inkeliz/giosvg) - SVG in Go.
+- [SVG text layout for Krita (2022)](https://wolthera.info/2022/10/svg-text-layout-for-krita/)

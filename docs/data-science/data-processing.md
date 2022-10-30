@@ -129,3 +129,4 @@
 - [Grai](https://github.com/grai-io/grai-core) - Data lineage made simple. Grai makes it easy to understand how your data relates together across databases, warehouses, APIs and dashboards. ([Web](https://www.grai.io/))
 - [Kuma-san's toolbox for data analysis](https://github.com/analokmaus/kuma_utils)
 - [Byzer](https://github.com/byzer-org/byzer-lang) - Low-code, open-sourced and distributed programming language for data pipeline, analytics and AI in cloud native way. ([Web](https://www.byzer.org/home))
+- [Data Analysis at the Command Line (2022)](https://lucytalksdata.com/data-analysis-at-the-command-line/)

@@ -412,3 +412,4 @@ title: ML Libraries
 - [pocoMC](https://github.com/minaskar/pocomc) - Python implementation of Preconditioned Monte Carlo for accelerated Bayesian Computation.
 - [WTTE-RNN](https://github.com/ragulpr/wtte-rnn) - Framework for churn and time to event prediction.
 - [ONE](https://github.com/Samsung/ONE) - High-performance, on-device neural network inference framework.
+- [Neograd](https://github.com/pranftw/neograd) - Deep learning framework created from scratch with Python and NumPy.

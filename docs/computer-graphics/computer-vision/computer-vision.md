@@ -223,7 +223,7 @@
 - [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation (2019)](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html) ([Code](https://github.com/facebookresearch/DeepSDF))
 - [Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)
 - [D2Det: Towards High Quality Object Detection and Instance Segmentation (2020)](https://github.com/JialeCao001/D2Det)
-- [DetCo: Unsupervised Contrastive Learning for Object Detection (2021)](https://arxiv.org/abs/2102.04803) ([Code](https://github.com/xieenze/DetCo))
+- [DetCo: Unsupervised Contrastive Learning for Object Detection (2021)](https://arxiv.org/abs/2102.04803) ([Code](https://github.com/xieenze/DetCo)) ([Code](https://github.com/shuuchen/DetCo.pytorch))
 - [Computer Vision Video Lectures](https://github.com/kuzand/Computer-Vision-Video-Lectures) - Curated list of free, high-quality, university-level courses with video lectures related to the field of Computer Vision.
 - [Cord](https://cord.tech/) - Training data toolbox for computer vision. ([HN](https://news.ycombinator.com/item?id=26104104))
 - [Text-Guided Editing of Images (Using CLIP and StyleGAN)](https://github.com/orpatashnik/StyleCLIP)

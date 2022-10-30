@@ -183,3 +183,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [Feed to SQLite](https://github.com/eyeseast/feed-to-sqlite) - Download an RSS or Atom feed and save it to a SQLite database.
 - [Get RSS feed URL for iTunes Podcast ID](https://www.deanishe.net/post/2022/10/get-rss-feed-url-for-itunes-podcast-id/)
 - [RSS Feed Roll](https://feed-roll.vercel.app/) - RSS Feed of Engineering Blogs Inspired by Feedly. ([Code](https://github.com/mystica2000/feed-roll))
+- [Fiddle](https://github.com/octomation/fiddle) - Public RSS builder for Feedly and others.

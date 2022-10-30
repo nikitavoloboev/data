@@ -445,6 +445,7 @@
 - [GPU Rust Playground](https://github.com/asahilina/gpu-rust-playground) - Experimenting with Rust for GPU driver dev.
 - [Frui](https://github.com/fruiframework/frui) - Developer-friendly UI framework that makes building user interfaces easy and productive. It's inspired by Flutter architecture and is written in Rust.
 - [Embedded Graphics Web Simulator](https://github.com/rahul-thakoor/embedded-graphics-web-simulator)
+- [Adaptive SPH](https://github.com/kaegi/adaptive-sph) - Fluid simulation with adaptive particle sizes.
 
 ## Games
 
@@ -669,6 +670,7 @@
 - [rust-systemd](https://github.com/jmesmon/rust-systemd) - Rust interface to systemd c apis.
 - [SELinux](https://github.com/koutheir/selinux) - Flexible Mandatory Access Control for Linux.
 - [penguincrab](https://github.com/docfate111/penguincrab) - Unsafe wrapper for Linux Kernel Library in Rust.
+- [sysfs_gpio](https://github.com/rust-embedded/rust-sysfs-gpio) - Rust Interface to the Linux sysfs GPIO interface.
 
 ## Embedded
 
@@ -2266,6 +2268,8 @@
 - [Deluge](https://github.com/mkawalec/deluge) - Async stream processor. ([Reddit](https://www.reddit.com/r/rust/comments/yen6d1/new_async_stream_processor_deluge/))
 - [Treebender](https://github.com/vgel/treebender) - HDPSG-inspired symbolic natural language parser written in Rust.
 - [Chrono-TZ](https://github.com/chronotope/chrono-tz) - TimeZone implementations for rust-chrono from the IANA database.
+- [Jomini](https://github.com/rakaly/jomini) - Low level, performance oriented parser for save and game files from EU4, CK3, HOI4, Imperator, and other PDS titles.
+- [vsr-rs](https://github.com/penberg/vsr-rs) - Viewstamped Replication for Rust.
 
 ## Cargo Plugins
 

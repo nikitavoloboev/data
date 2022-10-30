@@ -1,6 +1,6 @@
 # Authentication
 
-[SpiceDB](../databases/spicedb.md), [Passkeys](https://developer.apple.com/passkeys/), [Biscuit](https://www.biscuitsec.org/), [Hanko](https://www.hanko.io/) & [Logto](https://github.com/logto-io/logto) seem neat.
+[Clerk](https://clerk.dev/), [SpiceDB](../databases/spicedb.md), [Passkeys](https://developer.apple.com/passkeys/), [Biscuit](https://www.biscuitsec.org/), [Hanko](https://www.hanko.io/) & [Logto](https://github.com/logto-io/logto) seem neat.
 
 ## Notes
 
@@ -275,3 +275,4 @@
 - [Passkeys as a tool for user retention (2022)](https://matduggan.com/passkeys-as-a-tool-for-user-retention/)
 - [Idemeum](https://idemeum.com/) - Passwordless access to apps and infrastructure. ([HN](https://news.ycombinator.com/item?id=33346183))
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/) ([Code](https://github.com/fedidcg/FedCM))
+- [Ballerine](https://github.com/ballerine-io/ballerine) - Open-source user onboarding and KYC flow made with Svelte. ([HN](https://news.ycombinator.com/item?id=33396982))

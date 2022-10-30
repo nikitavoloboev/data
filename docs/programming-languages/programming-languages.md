@@ -448,3 +448,5 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Programming language comparison by reimplementing the same transit data app](https://github.com/losvedir/transit-lang-cmp) ([HN](https://news.ycombinator.com/item?id=33307059))
 - [Which programming paradigm had the most impact on you as an engineer and why? (2022)](https://news.ycombinator.com/item?id=33354036)
 - [System level language considerations (2022)](https://twitter.com/rsms/status/1586735989514326016)
+- [Mica](https://github.com/mica-lang/mica) - Simple, human-friendly, embeddable scripting language.
+- [Om](http://www.om-language.org/) - Novel, maximally-simple concatenative language. ([HN](https://news.ycombinator.com/item?id=33382397))

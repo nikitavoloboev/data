@@ -204,3 +204,5 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [GIFs Without the .gif: The Most Performant Image and Video Options Right Now (2022)](https://css-tricks.com/gifs-without-the-gif-the-most-performant-image-and-video-options-right-now/)
 - [Opt-in trend in Web (2022)](https://twitter.com/BHolmesDev/status/1576938291680538625)
 - [Cloudflare Pages gets even faster with Early Hints (2022)](https://blog.cloudflare.com/early-hints-on-cloudflare-pages/)
+- [Optimizing images with the HTML picture tag (2022)](https://jfhr.me/optimizing-images-with-the-html-picture-tag/) ([HN](https://news.ycombinator.com/item?id=33397054))
+- [Performance-Leaderboard](https://github.com/zachleat/performance-leaderboard) - Plugin to run Lighthouse against a set of urls to see which site is the fastest.

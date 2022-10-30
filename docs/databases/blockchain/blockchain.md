@@ -413,3 +413,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Royalties in NFTs](https://twitter.com/glowwallet/status/1579240596467695616)
 - [Glow ID](https://glow.xyz/glowid) - Social Profile That You Own.
 - ["Beyond Blockchain: Convergent Consensus" by Mike Anderson (2022)](https://www.youtube.com/watch?v=XmDUkrOAhsY)
+- [Dune Client](https://github.com/cowprotocol/dune-client) - Framework for interacting with Dune Analytics' officially supported API service.

@@ -227,6 +227,7 @@
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - Cross-platform GUI automation Python module for human beings.
 - [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) - Create Beautiful Tkinter GUIs by Drag and Drop.
 - [Textual](https://github.com/willmcgugan/textual) - TUI (Text User Interface) framework for Python inspired by modern web development. ([0.2 release](https://www.textualize.io/blog/posts/textual-0-point-2-point-0))
+- [tuilwindcss](https://github.com/koaning/tuilwindcss) - Like Tailwind, but for TUI frameworks in Textual.
 - [Briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application. ([Briefcase macOS App Template](https://github.com/beeware/briefcase-macOS-app-template))
 
 ## Graphics

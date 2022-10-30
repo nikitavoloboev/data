@@ -95,6 +95,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Next.js site w/ a blank custom Nextra theme (w/Tailwind)](https://github.com/jaredpalmer/nextra-blank-custom-theme)
 - [Next.js Layouts Data Fetching examples](https://github.com/wvanrensselaer/nextjs-layouts-data-fetching)
 - [Cal.com](https://github.com/calcom/cal.com)
+- [Basejump SaaS starter for Supabase](https://github.com/usebasejump/basejump)
 
 ## NextJS plugins
 

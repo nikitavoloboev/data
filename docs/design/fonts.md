@@ -135,6 +135,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono) - Helvetica Monospace Coding Font.
 - [Acma](https://twitter.com/PangramPangram_/status/1578445381905838081)
 - [Nabla](https://nabla.typearture.com/) - Isometric Color Font. ([HN](https://news.ycombinator.com/item?id=33276752)) ([Code](https://github.com/justvanrossum/nabla))
+- [Plus Jakarta Sans](https://github.com/tokotype/PlusJakartaSans) - Font family that takes geometric sans serif styles, designed by Gumpita Rahayu from Tokotype.
 
 ## Notes
 
@@ -419,3 +420,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Fontra](https://github.com/BlackFoundryCom/fontra) - Browser-based font editor.
 - [COSMIC Text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text shaping and rendering for COSMIC. ([Reddit](https://www.reddit.com/r/rust/comments/yb2q8f/cosmic_text_a_pure_rust_library_no_system/))
 - [ttf-properties-changer](https://github.com/kalashnikovisme/ttf-properties-changer) - Change properties of ttf-fonts.
+- [Tokotype](https://twitter.com/tokotype) - Indonesian company that specializes in digital typeface. ([GitHub](https://github.com/tokotype/PlusJakartaSans))

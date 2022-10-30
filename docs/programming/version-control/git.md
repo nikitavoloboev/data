@@ -589,3 +589,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [NodeGit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 - [Ask HN: Apps that are built with Git as the back end? (2022)](https://news.ycombinator.com/item?id=33261862)
 - [The Perfect Commit (2022)](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) ([Lobsters](https://lobste.rs/s/tgen6r/perfect_commit)) ([HN](https://news.ycombinator.com/item?id=33387855))
+- [git-ratchet](https://github.com/iangrunert/git-ratchet) - Tool for building ratcheted builds. Ratcheted builds are builds that go red when a given measure increases.

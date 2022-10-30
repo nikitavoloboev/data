@@ -137,6 +137,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Bit](https://bit.dev/) - The shared component cloud. ([Docs](https://docs.bit.dev/docs/quick-start)) ([Docs Code](https://github.com/teambit/docs))
 - [Graphite](https://editor.graphite.design/) - Powerful 2D vector and raster editing: procedural and nondestructive. ([Code](https://github.com/GraphiteEditor/Graphite))
 - [Balerter](https://github.com/balerter/balerter) - Scripts based alerting system.
+- [Super Productivity](https://super-productivity.com/) - Advanced todo list app with integrated Timeboxing and time tracking capabilities. ([Code](https://github.com/johannesjo/super-productivity))
 - [Circuit](https://getcircuit.com/) - Delivery route planning software.
 - [Easy WiFi Sharing with QR Code](https://havesomewifi.vercel.app/)
 - [Wobaka](https://wobaka.com/) - Simple CRM and Sales Automation for Small Teams. ([HN](https://news.ycombinator.com/item?id=29137297))

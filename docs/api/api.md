@@ -428,3 +428,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [How to make a mock API server in JavaScript (2022)](https://snyk.io/blog/how-to-mock-api-server-javascript/)
 - [Pushpin](https://github.com/fanout/pushpin) - Proxy server for adding push to your API.
 - [Zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash. ([Web](https://zealdocs.org/))
+- [How we built the Tinder API Gateway (2022)](https://medium.com/tinder/how-we-built-the-tinder-api-gateway-831c6ca5ceca)

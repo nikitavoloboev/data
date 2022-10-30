@@ -26,6 +26,7 @@ title: Android
 - [TikTok Clone](https://github.com/Andre-max/TikTok-Clone) - Beautifully designed replica of the famous and trending TikTok app.
 - [WhatsApp clone app built with Jetpack Compose](https://github.com/GetStream/whatsApp-clone-compose) - And Stream Chat SDK for Compose.
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
+- [Url Forwarder](https://github.com/daverix/urlforwarder) - Enables you to use bookmarklets on Android.
 
 ## Links
 

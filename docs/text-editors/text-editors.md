@@ -239,3 +239,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Reviewing some new Rust text editors (2022)](https://matduggan.com/battle-of-the-text-editors/) ([Lobsters](https://lobste.rs/s/xyexnb/reviewing_some_new_rust_text_editors))
 - [LiveCodes](https://livecodes.io/) - Code playground that runs in the browser. ([Code](https://github.com/live-codes/livecodes))
 - [Template for Catppuccin ports](https://github.com/catppuccin/template)
+- [Catppuccin Palettes](https://github.com/catppuccin/palette) - Soothing pastel theme to use within your projects.

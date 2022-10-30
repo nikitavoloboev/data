@@ -162,6 +162,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Mist](https://github.com/ninxsoft/Mist) - Mac utility that automatically downloads macOS Firmwares / Installers.
 - [CutBox](https://cutbox.github.io/) - Makes your macOS pasteboard awesome. ([Code](https://github.com/cutbox/CutBox))
 - [Kyan Bar](https://github.com/kyan/kyan_bar) - Demo SwiftUI status bar app for macOS.
+- [UI Browser 4](https://github.com/alldritt/UIBrowser4) - Ultimate assistant for Apple’s Accessibility and AppleScript GUI Scripting technologies.
 
 ## Other interesting apps
 

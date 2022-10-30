@@ -268,3 +268,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [GoGram](https://github.com/AmarnathCJD/gogram) - Full-native implementation of MTProto protocol on Go.
 - [tgcli](https://github.com/erayerdin/tgcli) - Telegram Terminal Application.
 - [getdoc](https://github.com/gotd/getdoc) - Telegram documentation parser.
+- [telegram-banhammer](https://github.com/paskal/telegram-banhammer) - Program which uses MTProto Telegram API to ban spammers from a group.

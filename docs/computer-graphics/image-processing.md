@@ -209,3 +209,4 @@
 - [get-pixels](https://github.com/scijs/get-pixels) - Given a URL/path, grab all the pixels in an image and return the result as an ndarray.
 - [AV1 Image File Format (AVIF) Spec](https://aomediacodec.github.io/av1-avif/) ([Code](https://github.com/AOMediaCodec/av1-avif))
 - [Remove Image Background using Python](https://www.youtube.com/watch?v=RkdFkhfMK2k)
+- [chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - Node-based image processing GUI aimed at making chaining image processing tasks (especially upscaling done by neural networks) easy, intuitive, and customizable.

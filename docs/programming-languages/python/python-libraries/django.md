@@ -181,3 +181,4 @@ title: Django
 - [Deploy a Django app with fly.io (2022)](https://davi.sh/blog/2022/10/django-with-flyio/)
 - [Django Interactive Models](https://github.com/mrswats/django-interactive-models) - Create Django Models interactively.
 - [Weeknotes: DjangoCon, SQLite in Django, datasette-gunicorn (2022)](https://simonwillison.net/2022/Oct/23/datasette-gunicorn/)
+- [Django safedelete](https://github.com/makinacorpus/django-safedelete) - Mask your objects instead of deleting them from your database.
