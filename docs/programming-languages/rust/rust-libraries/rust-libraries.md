@@ -354,6 +354,7 @@
 - [linked-hash-map](https://github.com/contain-rs/linked-hash-map) - HashMap wrapper that holds key-value pairs in insertion order.
 - [zerocopy](https://github.com/google/zerocopy) - Safe zero-copy parsing and serialization.
 - [leveldb-rs](https://github.com/dermesser/leveldb-rs) - Fully compatible implementation of LevelDB in Rust.
+- [TDengine connector for Rust](https://github.com/taosdata/taos-connector-rust)
 
 ## Video
 
@@ -738,6 +739,7 @@
 - [cervo](https://github.com/EmbarkStudios/cervo) - Wrapper around tract used for ML workloads in our games.
 - [Rust NEAT](https://github.com/TLmaK0/rustneat) - NeuroEvolution of Augmenting Topologies.
 - [egobox](https://github.com/relf/egobox) - Rust toolbox about surrogate-based adaptative optimization.
+- [Safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors.
 
 ## macOS
 
@@ -2260,6 +2262,7 @@
 - [Thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium / WebDriver library for Rust, for automated website UI testing.
 - [syn-rsx](https://github.com/stoically/syn-rsx) - Syn-powered parser for JSX-like TokenStreams.
 - [Deluge](https://github.com/mkawalec/deluge) - Async stream processor. ([Reddit](https://www.reddit.com/r/rust/comments/yen6d1/new_async_stream_processor_deluge/))
+- [Treebender](https://github.com/vgel/treebender) - HDPSG-inspired symbolic natural language parser written in Rust.
 
 ## Cargo Plugins
 

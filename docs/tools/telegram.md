@@ -150,6 +150,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [CITelegramBot](https://github.com/VladKopanev/CITelegramBot) - Telegram Bot For CI Notifications written In Scala 3.
 - [Price Tracker](https://github.com/siddiquiaffan/price-tracker) - Telegram bot including API, which can track product prices & ping you on any changes.
 - [uniborg](https://github.com/udf/uniborg) - Pluggable asyncio Telegram userbot based on Telethon.
+- [Notion Help Bot](https://github.com/reycn/notion-help-bot) - Notion-backend Telegram bot.
 
 ## Notes
 

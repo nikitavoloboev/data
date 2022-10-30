@@ -924,3 +924,4 @@ title: Rust
 - [Rust Before Main - Ryan Levick (2022)](https://www.youtube.com/watch?v=q8irLfXwaFM)
 - [Adventures In Cross Compilation (2022)](https://kentiklabs.com/blog/adventures-in-cross-compilation/) ([Lobsters](https://lobste.rs/s/jdemfc/adventures_cross_compilation))
 - [Const Syntax (2022)](https://blog.yoshuawuyts.com/const-syntax/)
+- [Speeding up the Rust compiler without changing its code (2022)](https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html) ([HN](https://news.ycombinator.com/item?id=33367960))

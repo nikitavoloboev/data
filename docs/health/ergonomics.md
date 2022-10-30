@@ -96,3 +96,4 @@ I use [HAG Capisco chair](https://twitter.com/rsms/status/1521765828303245313) I
 - [Best adjustable standing desk on the market (2022)](https://twitter.com/jamesm/status/1574378764959879168)
 - [Sitting setup to avoid posture problems and crippling long-term injuries](https://twitter.com/ItsKieranDrew/status/1576190456689577984)
 - [You Can’t Fix Your Posture (Here’s Why) (2021)](https://www.youtube.com/watch?v=yUSyMqDUkv8)
+- [The Art of the Desk Setup (2021)](https://arun.is/blog/desk-setup/)

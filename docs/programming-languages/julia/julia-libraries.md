@@ -123,6 +123,7 @@
 - [Sophon](https://github.com/YichengDWu/Sophon.jl) - Neural networks and neural operators for physics-informed machine learning.
 - [GenericTensorNetworks](https://github.com/QuEraComputing/GenericTensorNetworks.jl) - Generic tensor networks for solution space properties.
 - [DifferentiableFactorizations](https://github.com/mohamed82008/DifferentiableFactorizations.jl) - Differentiable matrix factorizations using ImplicitDifferentiation.jl.
+- [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) - Fast tensor operations using a convenient Einstein index notation.
 
 ## Math
 

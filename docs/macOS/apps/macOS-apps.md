@@ -161,6 +161,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Wooshy](https://wooshy.app/) - Like Alfred but for the UI. ([Docs](https://github.com/godbout/Wooshy.docs))
 - [Mist](https://github.com/ninxsoft/Mist) - Mac utility that automatically downloads macOS Firmwares / Installers.
 - [CutBox](https://cutbox.github.io/) - Makes your macOS pasteboard awesome. ([Code](https://github.com/cutbox/CutBox))
+- [Kyan Bar](https://github.com/kyan/kyan_bar) - Demo SwiftUI status bar app for macOS.
 
 ## Other interesting apps
 

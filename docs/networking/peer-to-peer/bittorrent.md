@@ -143,3 +143,4 @@ title: BitTorrent
 - [bt-fetch](https://github.com/RangerMauve/bt-fetch) - Interact with Bittorrent the same way you would websites via fetch.
 - [LinuxServer.io qBittorrent](https://github.com/linuxserver/docker-qbittorrent)
 - [Ask HN: I've Built a DHT Torrent Sniffer and Search Engine. Should I Release? (2022)](https://news.ycombinator.com/item?id=33305671)
+- [we-get](https://github.com/rachmadaniHaryono/we-get) - Command-line tool for searching torrents.

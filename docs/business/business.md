@@ -160,3 +160,4 @@ Learning to build [startups](startups/startups.md).
 - [Ask HN: What are examples of companies dying due to many people quitting? (2022)](https://news.ycombinator.com/item?id=32831701)
 - [Ask HN: Companies of one, how do you ensure business continuity? (2022)](https://news.ycombinator.com/item?id=32960255)
 - [How to best start a Personal Holding Company (PHC) (2022)](https://twitter.com/mikekarnj/status/1584619808850513921)
+- [Robinhood lists](https://bigballi.com/blog/robinhood-lists)

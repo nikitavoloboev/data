@@ -585,7 +585,7 @@ if *boolArgPtr != false {
 - [Things Go needs more than generics (2021)](https://ryanc118.medium.com/three-things-go-needs-right-now-more-than-generics-a6225d62f76b) ([HN](https://news.ycombinator.com/item?id=28742509))
 - [The fanciest way of releasing Go binaries with GoReleaser (2021)](https://medium.com/trendyol-tech/the-fanciest-way-of-releasing-go-binaries-with-goreleaser-dbbd3d44c7fb)
 - [Type-Safe HTTP Servers in Go via Generics (2021)](https://hypirion.com/musings/type-safe-http-servers-in-go-via-generics)
-- [Hey linker, can you spare a meg? (2021)](https://tailscale.com/blog/go-linker/) ([Lobsters](https://lobste.rs/s/hynaq9/hey_linker_can_you_spare_meg))
+- [Hey linker, can you spare a meg? (2021)](https://tailscale.com/blog/go-linker/) ([Lobsters](https://lobste.rs/s/hynaq9/hey_linker_can_you_spare_meg)) ([HN](https://news.ycombinator.com/item?id=33388978))
 - [An Optimisation Story: Building a Code Scanner for Large Go Apps (2021)](https://blog.shiftleft.io/an-optimisation-story-building-a-code-scanner-for-large-golang-apps-efabd17258ea)
 - [asciicheck](https://github.com/tdakkota/asciicheck) - Simple linter to check that your code does not contain non-ASCII identifiers.
 - [Interfaces and Nil in Go, or, Don't Lie to Computers (2021)](http://www.jerf.org/iri/post/2957)

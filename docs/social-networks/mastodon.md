@@ -44,3 +44,6 @@ title: Mastodon
 - [Sengi](https://github.com/NicolasConstant/sengi) - Mastodon & Pleroma Multi-account Desktop Client.
 - [Mastodon.technology Shutdown (2022)](https://ashfurrow.com/blog/mastodon-technology-shutdown/) ([HN](https://news.ycombinator.com/item?id=33120136)) ([Tweet](https://twitter.com/simonw/status/1578445374372528129))
 - [Migrating a Mastodon Account (2022)](https://codingitwrong.com/2022/10/10/migrating-a-mastodon-account.html)
+- [Twitodon](https://twitodon.com/) - Find your Twitter friends on Mastodon. ([Code](https://github.com/diddledani/twitodon))
+- [Moa](https://moa.party/) - Cross post between Mastodon, Twitter, and Instagram. ([Code](https://gitlab.com/fedstoa/moa))
+- [10 quick Mastodon tips (2022)](https://axbom.com/mastodon-tips/)

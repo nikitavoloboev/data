@@ -90,3 +90,4 @@ title: Reddit
 - [expanse](https://github.com/jc9108/expanse) - Fully self hosted multi-user web app for externally storing Reddit items.
 - [Related Subreddits By User/Redditor Overlap](https://subredditstats.com/subreddit-user-overlaps)
 - [Programming language subreddits and their choice of words](https://github.com/Dobiasd/programming-language-subreddits-and-their-choice-of-words)
+- [RedditLattice](https://redditlattice.netlify.app/) - Reddit viewer for image based subreddits. Lays out the images in a tight lattice. ([Code](https://github.com/vanillacode314/redditlattice))

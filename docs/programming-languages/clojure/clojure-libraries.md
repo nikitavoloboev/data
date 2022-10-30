@@ -256,6 +256,7 @@
 - [Clojupedia](https://github.com/clojupedia/main) - Community maintained hub for Clojure libraries and tools, powered by Logseq.
 - [Proletarian](https://github.com/msolli/proletarian) - Durable job queuing and worker system for Clojure backed by PostgreSQL.
 - [backtick](https://github.com/brandonbloom/backtick) - Clojure's syntax-quote reader macro as a normal macro.
+- [thrempl](https://github.com/liquidz/thrempl) - Simple template engine using threading macros.
 
 ## Links
 

@@ -291,3 +291,4 @@
 - [Learn enough C to survive (2022)](https://codeofhonor.substack.com/p/learn-enough-c-to-survive) ([HN](https://news.ycombinator.com/item?id=33229162))
 - [Debugging C with Cosmopolitan Libc (2022)](https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/) ([HN](https://news.ycombinator.com/item?id=33312012))
 - [Bringing a dynamic environment to C: My linker project (2022)](https://macoy.me/blog/programming/LinkerLoaderIntro) ([Lobsters](https://lobste.rs/s/rtwvka/bringing_dynamic_environment_c_my_linker)) ([HN](https://news.ycombinator.com/item?id=33368991))
+- [FluenC](https://github.com/Znurre/dz) - Modern, functional-first, C inspired language, with a focus on simplicity.

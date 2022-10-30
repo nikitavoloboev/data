@@ -225,3 +225,4 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [Twitter Stream](https://github.com/tesaguri/twitter-stream-rs) - Rust library for listening on Twitter Streaming API.
 - [Pipitor](https://github.com/tesaguri/pipitor) - Twitter bot that listens on WebSub/Twitter streams and (re)Tweet the updates in real time.
 - [Elon Musk Has Taken Twitter: Day Zero (2022)](https://www.piratewires.com/p/elon-musk-has-taken-twitter-day-zero)
+- [Twitter is moving its tech stack to Bluesky to run as a protocol not a company](https://twitter.com/davetroy/status/1586166535592509440)

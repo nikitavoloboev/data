@@ -240,3 +240,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Juhani Halkomäki](https://www.instagram.com/juhani.halkomaki/) ([Twitter](https://twitter.com/JuhaniHalkomaki))
 - [Jeff Palmer](https://jpalmer.dev/) ([IG](https://www.instagram.com/jwpalmer6/))
 - [Jerry-Lee Bosmans](https://www.byjer.com/) ([IG](https://www.instagram.com/jerbosmans/))
+- [Visual Morphology of Vowels](https://github.com/soundshader/soundshader.github.io/blob/master/acf-v2/README.md) ([HN](https://news.ycombinator.com/item?id=33380380))

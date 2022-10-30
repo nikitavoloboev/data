@@ -202,6 +202,7 @@
 - [TweetNaCl.js](https://github.com/dchest/tweetnacl-js) - Port of TweetNaCl cryptographic library to JavaScript.
 - [Tiny WebCrypto](https://github.com/fabiospampinato/tiny-webcrypto) - Tiny isomorphic WebCrypto object, it just gives you the native one the current platform provides.
 - [hypercore-crypto](https://github.com/mafintosh/hypercore-crypto) - Crypto primitives used in hypercore, extracted into a separate module.
+- [SHA-3 for JavaScript](https://github.com/phusion/node-sha3)
 
 ## Other
 
@@ -1038,6 +1039,7 @@
 - [Blaze Slider](https://github.com/blaze-slider/blaze-slider) - High-performance JavaScript UI library for creating sliders. ([Web](https://blaze-slider.dev/))
 - [hapi/iron](https://github.com/hapijs/iron) - Encapsulated tokens (encrypted and mac'ed objects).
 - [slug](https://github.com/Trott/slug) - Slugifies strings, even when they contain Unicode.
+- [is-executable](https://github.com/sindresorhus/is-executable) - Check whether a file can be executed.
 
 ## Links
 

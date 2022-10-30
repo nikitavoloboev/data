@@ -469,3 +469,4 @@
 - [std::find() and memchr() Optimizations (2016)](https://gms.tf/stdfind-and-memchr-optimizations.html)
 - [How to Use C++20 Modules with Bazel and Clang (2022)](https://buildingblock.ai/cpp20-modules-bazel)
 - [C++ Template Project (with vcpkg support)](https://github.com/mod-cpp/cpp-template-project-vcpkg)
+- [sokol-tools](https://github.com/floooh/sokol-tools) - Command line tools for use with sokol headers.

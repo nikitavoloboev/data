@@ -145,3 +145,5 @@ title: Racket
 - [Macro-Embedding Compiler Intermediate Languages in Racket (2022)](https://williamjbowman.com/resources/wjb2022-hashlang-x64.pdf)
 - [Argo](https://github.com/jessealama/argo) - JSON Schema validator for Racket.
 - [gann](https://github.com/massung/gann) - Genetic Algorithm based Neural Networks for Racket.
+- [Corpse Reviver](https://github.com/camoy/corpse-reviver) - Sound and efficient gradual typing via contract verification.
+- [Redex Parameters](https://github.com/camoy/redex-parameter) - Parameters for extensions in Redex.

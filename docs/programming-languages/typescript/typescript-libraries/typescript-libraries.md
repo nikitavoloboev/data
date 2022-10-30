@@ -651,6 +651,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Type-Knit](https://github.com/cleaton/type-knit) - Typesafe APIs over Fetch & Streams API standard.
 - [Embedded TypeScript](https://github.com/tatethurston/embedded-typescript) - Type safe embedded TypeScript templates.
 - [FP-TS Data](https://github.com/fp-ts/data)
+- [hkt Toolbet](https://github.com/poteat/hkt-toolbelt) - Functional and composable type utilities.
 
 ## Links
 

@@ -205,3 +205,4 @@ title: Genomics
 - [RNA Sequencing - Building your own pipeline from scratch (2022)](https://www.youtube.com/watch?v=PlqDQBl22DI)
 - [SPALN](https://github.com/ogotoh/spaln) - Genome mapping and spliced alignment of cDNA or amino acid sequences.
 - [Resistance Gene Identifier (RGI)](https://github.com/arpcard/rgi) - Software to predict resistomes from protein or nucleotide data, including metagenomics data, based on homology and SNP models.
+- [Genes Can Leap from Snakes to Frogs in Madagascar (2022)](https://www.quantamagazine.org/how-genes-can-leap-from-snakes-to-frogs-20221027/)

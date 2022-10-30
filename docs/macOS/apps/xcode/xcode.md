@@ -132,3 +132,4 @@ title: Xcode
 - [IBLinter](https://github.com/IBDecodable/IBLinter) - Linter tool for Interface Builder.
 - [Tuist Example](https://github.com/AlexRoar/TuistExample) - Example for using Tuist with modular app architecture.
 - [xcresultparser](https://github.com/a7ex/xcresultparser) - Parse the binary xcresult bundle from Xcode builds and test runs.
+- [Xcode2Rust](https://github.com/markusmoenig/Xcode2Rust) - Makes applications and games written in Rust accessible and deployable in Xcode.

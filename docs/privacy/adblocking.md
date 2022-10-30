@@ -52,3 +52,4 @@ Use [Wipr](https://giorgiocalderolla.com/wipr.html) on [iOS](../operating-system
 - [1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced DNS filter-/blocklists.
 - [donutdns](https://github.com/shoenig/donutdns) - Block online ads by intercepting DNS queries. Simple alternative to Pi-hole.
 - [DNS based ad/abuse domain blocking](https://github.com/openwrt/packages/blob/master/net/adblock/files/README.md)
+- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads and trackers blocking DNS server. ([HN](https://news.ycombinator.com/item?id=33387678))

@@ -1285,6 +1285,7 @@
 - [SundialKit](https://github.com/brightdigit/SundialKit) - Reactive communications library across Apple platforms.
 - [Screenshots](https://github.com/blackbeltlabs/Screenshots) - Swift framework for taking screenshots.
 - [swift-index-store](https://github.com/lyft/swift-index-store) - Library to read from Swift / clang source code indexes.
+- [ULID.swift](https://github.com/yaslab/ULID.swift) - Universally Unique Lexicographically Sortable Identifier (ULID) in Swift.
 
 ## Other (not lib)
 
