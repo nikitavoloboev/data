@@ -757,6 +757,7 @@
 - [SetupIterator.jl](https://github.com/MasonProtter/SetupIterator.jl)
 - [BayesHistogram.jl](https://github.com/francescoalemanno/BayesHistogram.jl) - Optimal histogram binning based on piecewise constant model.
 - [ShortStrings](https://github.com/JuliaString/ShortStrings.jl) - Fast implementation of short strings of fixed size. Great for sorting and group-by operations.
+- [PkgCacheInspector](https://github.com/timholy/PkgCacheInspector.jl) - Inspect the contents of Julia package cache files.
 
 ## Links
 

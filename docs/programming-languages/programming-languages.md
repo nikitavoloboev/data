@@ -450,3 +450,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [System level language considerations (2022)](https://twitter.com/rsms/status/1586735989514326016)
 - [Mica](https://github.com/mica-lang/mica) - Simple, human-friendly, embeddable scripting language.
 - [Om](http://www.om-language.org/) - Novel, maximally-simple concatenative language. ([HN](https://news.ycombinator.com/item?id=33382397))
+- [Jakt](https://github.com/SerenityOS/jakt) - Memory-safe systems programming language.

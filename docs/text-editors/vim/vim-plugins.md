@@ -65,6 +65,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - No nonsense floating terminal written in lua.
 - [modes.nvim](https://github.com/mvllow/modes.nvim) - Highlight UI elements based on current mode.
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - Completion plugin for neovim coded in Lua.
+- [nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context.
 - [LSP-format.nvim](https://github.com/lukas-reineke/lsp-format.nvim) - Wrapper around Neovims native LSP formatting.
 - [ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for neovim/Vim8.
 - [nvim-comment](https://github.com/terrortylor/nvim-comment) - Comment toggler for Neovim, written in Lua.
@@ -160,6 +161,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress.
 - [Rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
 - [vimspector](https://github.com/puremourning/vimspector) - Multi-language debugging system for Vim.
+- [tabout.nvim](https://github.com/abecodes/tabout.nvim) - Supercharge your workflow and start tabbing out from parentheses, quotes, and similar contexts today.
 - [Completor](https://github.com/maralla/completor.vim) - Async completion framework made ease.
 - [File Explorer](https://github.com/kyazdani42/nvim-tree.lua) - Simple tree for neovim written in lua.
 - [Defx](https://github.com/Shougo/defx.nvim) - Dark powered file explorer implementation.

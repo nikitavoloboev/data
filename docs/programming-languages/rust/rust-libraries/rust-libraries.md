@@ -355,6 +355,7 @@
 - [zerocopy](https://github.com/google/zerocopy) - Safe zero-copy parsing and serialization.
 - [leveldb-rs](https://github.com/dermesser/leveldb-rs) - Fully compatible implementation of LevelDB in Rust.
 - [TDengine connector for Rust](https://github.com/taosdata/taos-connector-rust)
+- [Hug SQLx](https://github.com/mbuczko/hugsqlx) - Derive macro turning SQL queries into plain Rust functions.
 
 ## Video
 
@@ -744,6 +745,7 @@
 - [Rust NEAT](https://github.com/TLmaK0/rustneat) - NeuroEvolution of Augmenting Topologies.
 - [egobox](https://github.com/relf/egobox) - Rust toolbox about surrogate-based adaptative optimization.
 - [Safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors.
+- [Disco Rust](https://github.com/ankane/disco-rust) - Recommendations for Rust using collaborative filtering.
 
 ## macOS
 
@@ -2537,3 +2539,4 @@
 - [Is there a website like Haskell's Hoogle for rust?](https://www.reddit.com/r/rust/comments/y8sbid/is_there_a_website_like_haskells_hoogle_for_rust/)
 - [Reactix](https://github.com/erayerdin/reactix) - Starter template for Actix + React Typescript.
 - [Rust Web Framework Comparison](https://github.com/flosse/rust-web-framework-comparison) ([HN](https://news.ycombinator.com/item?id=33385148))
+- [Rust Template](https://github.com/paulrberg/rust-template) - Template for developing Rust projects, with sensible defaults.

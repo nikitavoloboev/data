@@ -20,3 +20,4 @@ title: Crystal
 - [Crystal's Interpreter (2021)](https://crystal-lang.org/2021/12/29/crystal-i.html)
 - [HN: Crystal (2022)](https://news.ycombinator.com/item?id=32683473)
 - [Marten](https://github.com/martenframework/marten) - Pragmatic web framework. ([Web](https://martenframework.com/))
+- [Lucky](https://github.com/luckyframework/lucky) - Full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that lasts.

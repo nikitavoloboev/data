@@ -198,6 +198,7 @@ Below is a list of extensions I use.
 - [Linked Data](https://marketplace.visualstudio.com/items?itemName=Elsevier.linked-data) - Shortcuts for standard Linked Data operations, format conversions, validation, querying and a graph visualization. ([Code](https://github.com/elsevierlabs-os/linked-data))
 - [Toggle VS Code](https://github.com/rebornix/vscode-toggle) - Toggle any VS Code setting by your favorite keybindings.
 - [Sequential Input Sequence](https://marketplace.visualstudio.com/items?itemName=tomoki1207.vscode-input-sequence) ([Code](https://github.com/tomoki1207/vscode-input-sequence))
+- [VS Code Makefile Tools](https://github.com/microsoft/vscode-makefile-tools)
 
 ## Shell
 

@@ -29,3 +29,4 @@ title: Grafana
 - [JSON API data source for Grafana](https://github.com/marcusolsson/grafana-json-datasource)
 - [Autograf](https://github.com/FUSAKLA/autograf) - Dynamically generate Grafana dashboard based on Prometheus metrics.
 - [Terraform Provider for Grafana](https://github.com/grafana/terraform-provider-grafana)
+- [Dynamic Text Panel plugin for Grafana](https://github.com/VolkovLabs/volkovlabs-dynamictext-panel)

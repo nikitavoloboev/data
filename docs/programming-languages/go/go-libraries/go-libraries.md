@@ -562,6 +562,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [approx-lru](https://github.com/bpowers/approx-lru) - Go LRU cache.
 - [ScyllaDB Go Driver](https://github.com/scylladb/scylla-go-driver) ([Article](https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/)) ([HN](https://news.ycombinator.com/item?id=33187677))
 - [libschema](https://github.com/muir/libschema) - Way for Go libraries to manage their own database migrations.
+- [redis](https://github.com/cristalhq/redis) - Redis client for Go.
 
 ## ML
 

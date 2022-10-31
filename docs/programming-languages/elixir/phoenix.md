@@ -121,3 +121,4 @@ title: Phoenix framework
 - [LiveInspect](https://github.com/schrockwell/live_inspect) - Inspect LiveView assigns directly in the browser.
 - [LiveEvent](https://github.com/schrockwell/live_event) - Standardized events for LiveView.
 - [LiveAssign](https://github.com/schrockwell/live_assign) - State management conventions for LiveView.
+- [Phoenix Diff](https://github.com/navinpeiris/phoenix-diff) - See the changes needed when upgrading an Elixir Phoenix application.

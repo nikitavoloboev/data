@@ -183,3 +183,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Rust Serverless Runtime](https://github.com/tbillington/rust_serverless_runtime) - Serverless runtime in 200 lines on top of Deno and SQLite.
 - [Firectl](https://github.com/firecracker-microvm/firectl) - Command-line tool to run Firecracker microVMs.
 - [Noslate](https://github.com/noslate-project/noslate) - Elegant, modern and fully customizable serverless runtime.
+- [Brewing Microservices | Serverless Redux: Halloween Edition (2022)](https://filibuster.transistor.fm/episodes/serverless-redux-halloween-edition)

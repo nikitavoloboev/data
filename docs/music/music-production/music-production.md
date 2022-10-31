@@ -440,3 +440,6 @@
 - [Who's building DALL-E for music? (2022)](https://twitter.com/rrhoover/status/1584171219578146817)
 - [Jerrica](https://github.com/trevorjay/Jerrica) - 100% scheduled, Web Audio native, MOD player for JavaScript. ([HN](https://news.ycombinator.com/item?id=33359211))
 - [Pypianoroll](https://github.com/salu133445/pypianoroll) - Toolkit for working with piano rolls.
+- [Muted.io](https://muted.io/) - Collection of interactive music theory tools and visual refs to learn music.
+- [GenM](https://github.com/hlandman/GEN-M) - Electronic Music Generation.
+- [MIDI-Emotion](https://github.com/serkansulun/midi-emotion) - Generates multi-instrument symbolic music (MIDI), based on user-provided emotions from valence-arousal plane.

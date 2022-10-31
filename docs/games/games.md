@@ -180,6 +180,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Unvanquished](https://github.com/Unvanquished/Unvanquished) - FPS/RTS hybrid game powered by the Daemon engine.
 - [Thyme](https://github.com/TheAssemblyArmada/Thyme) - Open source re-implementation of Generals : Zero Hour written in C++.
 - [Fallout 2 Community Edition](https://github.com/alexbatalov/fallout2-ce)
+- [Industry Idle](https://github.com/fishpondstudio/IndustryIdle) - Idle game that combines factory building, resource management and market trading.
 
 ## Awesome games (other)
 

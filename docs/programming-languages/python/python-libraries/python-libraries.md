@@ -1025,6 +1025,7 @@
 - [STUMPY](https://github.com/TDAmeritrade/stumpy) - Powerful and scalable Python library for modern time series analysis.
 - [aenum](https://github.com/ethanfurman/aenum) - Advanced Enumerations for Python.
 - [blist](https://github.com/DanielStutzbach/blist) - List-like type with better asymptotic performance and similar performance on small lists.
+- [dbt-databend](https://github.com/silentsokolov/dbt-databend) - Databend plugin for dbt (data build tool).
 
 ## Notes
 
