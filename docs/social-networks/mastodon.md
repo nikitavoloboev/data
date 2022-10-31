@@ -50,3 +50,4 @@ title: Mastodon
 - [Find Fediverse accounts of your Twitter followings](https://fedifinder.glitch.me/)
 - [Twitter features Mastodon is better for not having (2022)](https://scott.mn/2022/10/29/twitter_features_mastodon_is_better_without/) ([HN](https://news.ycombinator.com/item?id=33398776))
 - [Mastofeed](https://www.mastofeed.com/) - Embeddable Mastodon feeds. ([Code](https://github.com/fenwick67/mastofeed))
+- [MastodonAgain](https://github.com/schwa/MastodonAgain) - Swift macOS app.

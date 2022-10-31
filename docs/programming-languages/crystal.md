@@ -10,7 +10,7 @@ title: Crystal
 - [Ruby vs Crystal Performance (2020)](https://ptimofeev.com/ruby-vs-crystal-performance/) ([HN](https://news.ycombinator.com/item?id=23431941))
 - [Switch from Ruby to Crystal (2020)](https://blog.logrocket.com/why-you-should-switch-from-ruby-to-crystal/) ([HN](https://news.ycombinator.com/item?id=25005780))
 - [Interview with Crystal language creators (2020)](https://www.youtube.com/watch?v=i9_6IfiPtOI)
-- [Kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework.
+- [Kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. ([Web](https://kemalcr.com/))
 - [Crystal 1.0 – What to expect (2021)](https://crystal-lang.org/2021/03/22/crystal-1.0-what-to-expect.html) ([HN](https://news.ycombinator.com/item?id=26545082))
 - [Crystal 1.2.0 (2021)](https://crystal-lang.org/2021/10/14/1.2.0-released.html) ([HN](https://news.ycombinator.com/item?id=28872769))
 - [Ask HN: The Crystal programming language – what are your impressions? (2022)](https://news.ycombinator.com/item?id=31192826)

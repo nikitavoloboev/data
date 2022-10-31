@@ -840,3 +840,7 @@ title: Kubernetes
 - [KubeShare](https://github.com/NTHU-LSALAB/KubeShare) - Share GPU between Pods in Kubernetes.
 - [Murre](https://github.com/groundcover-com/murre) - On-demand, scaleable source of container resource metrics for K8s.
 - [Helm Dashboard](https://github.com/komodorio/helm-dashboard) - Simplified way of working with Helm.
+- [Multi cluster kubectl Client](https://github.com/jonnylangefeld/kubectl-mc) - Run kubectl commands against multiple clusters at once. ([Intro](https://jonnylangefeld.com/blog/introducing-kubectl-mc))
+- [Tips and Tricks Developing a Kubernetes Controller (2022)](https://jonnylangefeld.com/blog/tips-and-tricks-developing-a-kubernetes-controller)
+- [Herd Your Clusters Like Cattle: How We Automated our Clusters (2022)](https://jonnylangefeld.com/blog/herd-your-clusters-like-cattle)
+- [The Kubernetes Discovery Cache: Blessing and Curse (2022)](https://jonnylangefeld.com/blog/the-kubernetes-discovery-cache-blessing-and-curse)

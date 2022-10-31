@@ -147,3 +147,4 @@
 - [Binary Refinery](https://github.com/binref/refinery) - High Octane Triage Analysis.
 - [Dissecting the GZIP format](http://www.infinitepartitions.com/art001.html)
 - [Better than JPEG? Researcher discovers that Stable Diffusion can compress images (2022)](https://arstechnica.com/information-technology/2022/09/better-than-jpeg-researcher-discovers-that-stable-diffusion-can-compress-images/)
+- [Using AI to compress audio files for quick and easy sharing (2022)](https://ai.facebook.com/blog/ai-powered-audio-compression-technique/) ([HN](https://news.ycombinator.com/item?id=33402131))

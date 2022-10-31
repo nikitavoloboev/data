@@ -155,3 +155,4 @@ title: Zig
 - [Ziglibc: Sweeping out the rug from underneath C - Jonathan Marler (2022)](https://www.youtube.com/watch?v=1N85yU6RMcY)
 - [Zig's I/O and Concurrency Story - King Protty (2022)](https://www.youtube.com/watch?v=Ul8OO4vQMTw)
 - [Distributed Zig with Elixir and Zigler - Riccardo Binetti (2022)](https://www.youtube.com/watch?v=l75KLCJaGxw)
+- [A minimal RocksDB example with Zig (2022)](https://notes.eatonphil.com/zigrocks.html)

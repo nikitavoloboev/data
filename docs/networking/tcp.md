@@ -104,3 +104,4 @@ title: TCP
 - [mixctl](https://github.com/inlets/mixctl) - Tiny TCP load balancer.
 - [p0f](https://lcamtuf.coredump.cx/p0f3/) - TCP Packet Fingerprinting. ([HN](https://news.ycombinator.com/item?id=32879551))
 - [Linux Kernel MultiPath TCP Project](https://www.multipath-tcp.org/) ([HN](https://news.ycombinator.com/item?id=33220975))
+- [We need a replacement for TCP in the data center (2022)](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf) ([HN](https://news.ycombinator.com/item?id=33401480))

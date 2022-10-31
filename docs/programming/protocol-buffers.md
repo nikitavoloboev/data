@@ -77,7 +77,7 @@ title: Protocol buffers
 - [ts-proto-common-types](https://github.com/paralin/ts-proto-common-types) - TypeScript generated with ts-proto for the google/protobuf types.
 - [ProtoScript](https://github.com/tatethurston/ProtoScript) - Protobuf runtime and code generation tool for JavaScript and TypeScript.
 - [as-proto](https://github.com/piotr-oles/as-proto) - Protobuf implementation in AssemblyScript.
-- [Protobuf-ES](https://github.com/bufbuild/protobuf-es) - Complete implementation of Protocol Buffers in TypeScript, suitable for web browsers and Node.js.
+- [Protobuf-ES](https://github.com/bufbuild/protobuf-es) - Complete implementation of Protocol Buffers in TypeScript, suitable for web browsers and Node.js. ([Article](https://buf.build/blog/protobuf-es-the-protocol-buffers-typescript-javascript-runtime-we-all-deserve)) ([HN](https://news.ycombinator.com/item?id=33381571))
 - [Protoscope](https://github.com/protocolbuffers/protoscope) - Simple, human-editable language for representing and emitting the Protobuf wire format.
 - [Faster Protocol Buffers (2019)](https://blog.najaryan.net/posts/partial-protobuf-encoding/)
 - [Protocol Buffers Language Details](https://github.com/bufbuild/protobuf.com)
