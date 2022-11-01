@@ -36,4 +36,4 @@ title: Planetscale
 - [Type-Safe Database Access at the Edge with Next 13 & PlanetScale (2022)](https://davidparks.dev/blog/type-safe-database-access-at-the-edge-with-next-and-planetscale/)
 - [Pedal to the Metal with PlanetScale and Rust (2022)](https://bend.green/blog/pedal-to-the-metal-with-planetscale-and-rust)
 - [Using tokio and sqlx to connect to the PlanetScale database](https://www.rustadventure.dev/uploading-pokemon-data-from-a-csv-into-a-planetscale-sql-database/using-tokio-and-sqlx-to-connect-to-the-planetscale-database)
-- [Planetscale: One million connections (2022)](https://planetscale.com/blog/one-million-connections)
+- [Planetscale: One million connections (2022)](https://planetscale.com/blog/one-million-connections) ([HN](https://news.ycombinator.com/item?id=33423102))

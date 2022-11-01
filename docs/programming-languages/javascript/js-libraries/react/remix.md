@@ -177,3 +177,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Remix PWA](https://github.com/ShafSpecs/remix-pwa) - PWA integration & support for Remix.
 - [Remix compared to Next 13](https://twitter.com/ryanflorence/status/1586820806625046529)
 - [Roadmap • Hydrogen: Shopify’s headless commerce framework](https://hydrogen.shopify.dev/roadmap)
+- [Remix web framework aquired by Shopify (2022)](https://remix.run/blog/remixing-shopify) ([HN](https://news.ycombinator.com/item?id=33405997))

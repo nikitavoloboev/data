@@ -49,3 +49,4 @@ In short, it can be summed down to this:
 - [Ask HN: Where do you go to ask questions that don't fit stackexchange.com? (2022)](https://news.ycombinator.com/item?id=31491826)
 - [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) ([Code](https://github.com/selfteaching/How-To-Ask-Questions-The-Smart-Way))
 - [You will ask many, many questions (2022)](https://letterstoanewdeveloper.com/2022/01/17/you-will-ask-many-many-questions/)
+- [Testing The "Impossible": 17 Questions That Changed My Life (2016)](https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life/)

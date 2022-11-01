@@ -10,6 +10,7 @@ title: Mastodon
 - [Chaos Social](https://chaos.social/about) - Fediverse instance for & by the Chaos community.
 - [Scholar Social](https://scholar.social/about) - Federated microblogging for academics.
 - [botsin.space](https://botsin.space/about) - Mastodon instance for bots and bot allies.
+- [crimew.gay](https://crimew.gay/about)
 
 ## Links
 
@@ -51,3 +52,5 @@ title: Mastodon
 - [Twitter features Mastodon is better for not having (2022)](https://scott.mn/2022/10/29/twitter_features_mastodon_is_better_without/) ([HN](https://news.ycombinator.com/item?id=33398776))
 - [Mastofeed](https://www.mastofeed.com/) - Embeddable Mastodon feeds. ([Code](https://github.com/fenwick67/mastofeed))
 - [MastodonAgain](https://github.com/schwa/MastodonAgain) - Swift macOS app.
+- [A futuristic Mastodon introduction for 2021](https://wordsmith.social/elilla/a-futuristic-mastodon-introduction-for-2021)
+- [Explore - Mastodon](https://mastodon.social/explore)

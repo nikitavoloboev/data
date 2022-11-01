@@ -228,3 +228,4 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [Twitter is moving its tech stack to Bluesky to run as a protocol not a company](https://twitter.com/davetroy/status/1586166535592509440)
 - [Ask HN: What social media site could replace Twitter? (2022)](https://news.ycombinator.com/item?id=33416498)
 - [Ask HN: How would you design an alternative Twitter (2022)](https://news.ycombinator.com/item?id=33419574)
+- [Tell HN: The issues of Twitter are not a technical problem to solve (2022)](https://news.ycombinator.com/item?id=33421489)

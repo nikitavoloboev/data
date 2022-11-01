@@ -844,3 +844,4 @@ title: Kubernetes
 - [Tips and Tricks Developing a Kubernetes Controller (2022)](https://jonnylangefeld.com/blog/tips-and-tricks-developing-a-kubernetes-controller)
 - [Herd Your Clusters Like Cattle: How We Automated our Clusters (2022)](https://jonnylangefeld.com/blog/herd-your-clusters-like-cattle)
 - [The Kubernetes Discovery Cache: Blessing and Curse (2022)](https://jonnylangefeld.com/blog/the-kubernetes-discovery-cache-blessing-and-curse)
+- [My Simple Kubernetes Setup for Side Projects (2022)](https://bas.codes/posts/simple-kubernetes)

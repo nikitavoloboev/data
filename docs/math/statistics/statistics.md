@@ -169,3 +169,4 @@
 - [Monte Carlo Geometry Processing (2022)](https://www.youtube.com/watch?v=bZbuKOxH71o)
 - [Veri](https://github.com/bgokden/veri) - Distributed Feature Store optimized for Search and Recommendation tasks.
 - [Transport Elliptical Slice Sampling (2022)](https://arxiv.org/abs/2210.10644) ([Code](https://github.com/albcab/TESS))
+- [Making sense of principal component analysis, eigenvectors & eigenvalues](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)

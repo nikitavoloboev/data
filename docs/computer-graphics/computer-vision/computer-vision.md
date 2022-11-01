@@ -976,3 +976,4 @@
 - [Exploring Long-Sequence Masked Autoencoders (2022)](https://arxiv.org/abs/2210.07224) ([Code](https://github.com/facebookresearch/long_seq_mae))
 - [Awesome 3D-aware Image Synthesis – Papers, Codes and Datasets](https://github.com/weihaox/awesome-3D-aware-synthesis)
 - [An Improved One millisecond Mobile Backbone (2021)](https://arxiv.org/abs/2206.04040) ([Code](https://github.com/apple/ml-mobileone))
+- [Fuzzy Metaballs: Approximate Differentiable Rendering with Algebraic Surfaces (2022)](https://leonidk.github.io/fuzzy-metaballs/) ([Code](https://github.com/leonidk/fuzzy-metaballs))

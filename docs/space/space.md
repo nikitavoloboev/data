@@ -182,3 +182,4 @@
 - [SpaceX exploring mission to boost Hubble (2022)](https://orbitalindex.com/archive/2022-10-05-Issue-188/) ([HN](https://news.ycombinator.com/item?id=33097235))
 - [Starlink Coverage Tracker](https://starlink.sx/) ([Modeling Starlink capacity](https://mikepuchol.com/modeling-starlink-capacity-843b2387f501)) ([HN](https://news.ycombinator.com/item?id=33136554))
 - [NASA’s Webb takes star-filled portrait of Pillars of Creation (2022)](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-takes-star-filled-portrait-of-pillars-of-creation) ([HN](https://news.ycombinator.com/item?id=33265949))
+- [Grabby Aliens: A Resolution to the Fermi Paradox](https://grabbyaliens.com/) ([HN](https://news.ycombinator.com/item?id=33402628))

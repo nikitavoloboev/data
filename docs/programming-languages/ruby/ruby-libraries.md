@@ -9,7 +9,7 @@
 
 ## DB
 
-- [Sequel](https://github.com/jeremyevans/sequel) - Database Toolkit for Ruby.
+- [Sequel](https://github.com/jeremyevans/sequel) - Database Toolkit for Ruby. ([Web](https://sequel.jeremyevans.net/))
 - [BatchLoader](https://github.com/exAspArk/batch-loader) - Powerful tool for avoiding N+1 DB or HTTP queries.
 - [GitHub::DS](https://github.com/github/github-ds) - Collection of Ruby libraries for working with SQL on top of ActiveRecord's connection.
 - [Extralite](https://github.com/digital-fabric/extralite) - Fast Ruby gem for working with SQLite3 databases. ([Article](https://noteflakes.com/articles/2021-12-15-extralite))

@@ -20,7 +20,7 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - Information Security Reference That Doesn't Suck.
 - [Messaging Layer Security (MLS)](https://messaginglayersecurity.rocks/) - Security layer for encrypting messages in groups of size two to many.
 - [Molasses](https://github.com/trailofbits/molasses) - Rust implementation of the Message Layer Security group messaging protocol.
-- [mkcert](https://github.com/FiloSottile/mkcert) - Simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [mkcert](https://github.com/FiloSottile/mkcert) - Simple zero-config tool to make locally trusted development certificates with any names you'd like. ([HN](https://news.ycombinator.com/item?id=33383095))
 - [Boulder](https://github.com/letsencrypt/boulder) - ACME-based CA, written in Go.
 - [If you were tasked to conduct a security audit on a server/database-backed web app, where would you start? (2019)](https://dev.to/ben/if-you-were-tasked-to-conduct-a-security-audit-on-a-server-database-backed-web-app-where-would-you-start-573o)
 - [Resilience engineering papers](https://github.com/lorin/resilience-engineering)

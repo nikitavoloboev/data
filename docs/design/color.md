@@ -151,7 +151,7 @@
 - [Chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
 - [Colour](https://github.com/colour-science/colour) - Python package providing a comprehensive number of algorithms and datasets for color science.
 - [A detailed guide to colors in data vis style guides (2022)](https://blog.datawrapper.de/colors-for-data-vis-style-guides/)
-- [Nord Palette](https://www.nordtheme.com/) - Arctic, north-bluish color palette. ([Code](https://github.com/arcticicestudio/nord))
+- [Nord Palette](https://www.nordtheme.com/) - Arctic, north-bluish color palette. ([Code](https://github.com/arcticicestudio/nord)) ([HN](https://news.ycombinator.com/item?id=33406069))
 - [uiGradients](https://uigradients.com/) - Beautiful colored gradients. ([Code](https://github.com/ghosh/uiGradients))
 - [Stripe Gradient Effect](https://stripe-gradient.vercel.app/) ([Code](https://github.com/febriliankr/stripe-gradient))
 - [Pigmnts](https://github.com/blenderskool/pigmnts) - Color palette generator from an image using WebAssesmbly and Rust.

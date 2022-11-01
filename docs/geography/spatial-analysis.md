@@ -272,3 +272,4 @@ title: Spatial analysis
 - [spatialmerge](https://github.com/chrispahm/spatialmerge) - Fast library for spatial joining and merging data in JavaScript.
 - [Topi Tjukanov](https://tjukanov.org/) - Experiments with points, lines & polygons.
 - [Maps with Blender](https://tjukanov.org/blender-maps)
+- [YAOM - Yet Another Open Map](https://yaom.org/) - Curated collection of authoritative and non-authoritative datasets in a OpenStreetMap-compatible format and data model.

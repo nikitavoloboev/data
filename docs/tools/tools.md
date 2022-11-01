@@ -132,6 +132,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Instatus](https://instatus.com/) - Get your status page.
 - [Gravatar](https://en.gravatar.com/) - Attach an image to an email and websites supporting Gravatar will simply pick up the image you specified.
 - [Calendly](https://calendly.com/) - Schedule meetings.
+- [Softr](https://www.softr.io/) - Build website, web app & portals on Airtable without code.
 - [Parabol](https://www.parabol.co/) - Free Agile Meeting Tool for Remote Teams. ([Code](https://github.com/ParabolInc/parabol))
 - [Mighty Cal](https://mightycal.com/) - Smart Scheduling Assistant.
 - [Bit](https://bit.dev/) - The shared component cloud. ([Docs](https://docs.bit.dev/docs/quick-start)) ([Docs Code](https://github.com/teambit/docs))
@@ -285,6 +286,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Buildanevent.com](https://buildanevent.com/) - Simple, fast, modular event builder. ([Article](https://www.timcchang.com/posts/buildanevent))
 - [Lustre](https://lustre.ai/) - Find the best product for your budget.
 - [linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service.
+- [Namelix](https://namelix.com/) - Business Name Generator. Free AI-powered naming tool.
 - [FocusTask](https://focustask.app/) - Organize your life.
 - [Decipad](https://www.decipad.com/) - Like Notion with problem-solving capabilities. ([HN](https://news.ycombinator.com/item?id=32925760))
 - [prettierd](https://github.com/fsouza/prettierd) - Prettier, as a daemon, for ludicrous formatting speed.

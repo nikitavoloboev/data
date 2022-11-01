@@ -61,3 +61,4 @@ title: Tor Project
 - [Tor is fighting and beating Russian censorship (2022)](https://www.wired.com/story/tor-browser-russia-blocks/) ([HN](https://news.ycombinator.com/item?id=32288058))
 - [Onion Server](https://github.com/noot/onion-server) - Serve a static website as a .onion hidden service.
 - [Lightarti-rest](https://github.com/c4dt/lightarti-rest) - Arti-wrapper to use REST over Tor.
+- [iCepa](https://github.com/iCepa/iCepa) - iOS system-wide VPN based Tor client.
