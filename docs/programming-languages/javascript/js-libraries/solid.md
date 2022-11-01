@@ -141,3 +141,5 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [SolidStart, Server Functions, and the future of Islands (2022)](https://viteconf.org/2022/replay/solid)
 - [Building SolidJS v1.6 (2022)](https://www.youtube.com/watch?v=adXqweWZcNA)
 - [Workaround for the '100vh' issue in mobile browsers in Solid](https://github.com/TiagoCavalcante/solidjs-div-100vh)
+- [Reactivity with SolidJS course](https://github.com/ryansolid/solid-course)
+- [Reatom-Solid](https://github.com/skrylnikov/reatom-solid) - Solid bindings package for Reatom store.

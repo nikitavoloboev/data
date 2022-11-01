@@ -25,3 +25,4 @@ title: Tailscale
 - [Taildrop](https://tailscale.com/kb/1106/taildrop/) ([HN](https://news.ycombinator.com/item?id=33186523))
 - [Use Mullvad VPN along with Tailscale](https://github.com/r3nor/mullvad-tailscale)
 - [Headscale-UI](https://github.com/gurucomputing/headscale-ui) - Web frontend for the headscale Tailscale-compatible coordination server.
+- [connecti](https://github.com/jaxxstorm/connecti) - Command line tool to quickly connect you to cloud infrastructure via Tailscale.

@@ -269,3 +269,4 @@ Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432
 - [Layerfiles](https://github.com/webappio/layerfiles) - Single binary that lets you build microvms using a syntax that looks like a Dockerfile. ([Web](https://layerfile.com/))
 - [Introducing the Docker+Wasm Technical Preview (2022)](https://www.docker.com/blog/docker-wasm-technical-preview/)
 - [docker-host](https://github.com/qoomon/docker-host) - Docker sidecar container to forward all traffic to local docker host or any other host.
+- [Docker in the browser using x86-to-WASM recompilation](http://copy.sh/v86/?profile=archlinux&c=cat%20docker.sh;./docker.sh) ([HN](https://news.ycombinator.com/item?id=33424299))

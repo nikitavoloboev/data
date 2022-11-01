@@ -886,3 +886,4 @@ if *boolArgPtr != false {
 - [Goat](https://github.com/goatlang/goat) - Extended flavor of the Go programming language, aiming for increased value safety and maintainability.
 - [Using Go's runtime/cgo to pass values between C and Go (2022)](https://www.arsenm.dev/blog/runtime-cgo/)
 - [Golang Aha! Moments: Generics (2022)](https://openziti.io/golang-aha-moments-generics)
+- [Size visualization of Go executables using D3](https://github.com/knz/go-binsize-viz)

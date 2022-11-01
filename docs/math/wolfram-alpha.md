@@ -13,3 +13,5 @@ title: Wolfram Alpha
 - [Wolfram Application Server](https://www.wolfram.com/application-server/) - Scalable Deployment of Wolfram-Powered Web Applications.
 - [Ask HN: Whatever happened to Wolfram Alpha? (2021)](https://news.ycombinator.com/item?id=29131931)
 - [It’s Time to Launch the Wolfram Institute (2022)](https://writings.stephenwolfram.com/2022/04/weve-got-a-science-opportunity-overload-its-time-to-launch-the-wolfram-institute/) ([HN](https://news.ycombinator.com/item?id=30940813))
+- [wstp](https://github.com/WolframResearch/wstp-rs) - Rust bindings to the Wolfram Symbolic Transport Protocol (WSTP).
+- [md2nb](https://github.com/ConnorGray/md2nb) - Markdown to Wolfram Notebook converter.

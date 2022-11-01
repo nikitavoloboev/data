@@ -170,3 +170,4 @@ title: Tailwind CSS
 - [TailwindCSS-Fluid-Type](https://github.com/davidhellmann/tailwindcss-fluid-type) - Plugin that makes the use of Fluid Type a breeze.
 - [TailwindCSS Container Queries](https://github.com/tailwindlabs/tailwindcss-container-queries)
 - [Tru Narla: Building a design system in Next.js with Tailwind (2022)](https://www.youtube.com/watch?v=T-Zv73yZ_QI)
+- [JIT Browser TailwindCSS](https://github.com/mhsdesign/jit-browser-tailwindcss)

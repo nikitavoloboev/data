@@ -173,3 +173,4 @@
 - [SVG sprites: old-school, modern, unknown, and forgotten (2022)](https://pepelsbey.dev/articles/svg-sprites/)
 - [GIOSVG](https://github.com/inkeliz/giosvg) - SVG in Go.
 - [SVG text layout for Krita (2022)](https://wolthera.info/2022/10/svg-text-layout-for-krita/)
+- [occult](https://github.com/LoicGoulefert/occult) - vpype plug-in to remove occulted lines in SVG files.

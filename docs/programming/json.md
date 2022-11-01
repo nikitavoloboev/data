@@ -166,3 +166,4 @@ title: JSON
 - [JSON Schema](https://json-schema.org/) - Vocabulary that allows you to annotate and validate JSON documents. ([Web Code](https://github.com/json-schema-org/json-schema-org.github.io))
 - [alterschema](https://github.com/sourcemeta/alterschema) - Convert between JSON Schema specification versions.
 - [More Untappd data explorations with jq - my top ranking beer types (part 1) (2022)](<https://qmacro.org/blog/posts/2022/10/30/more-untappd-data-explorations-with-jq-my-top-ranking-beer-types-(part-1)/>) ([Lobsters](https://lobste.rs/s/9xyxjh/more_untappd_data_explorations_with_jq_my))
+- [OVER](https://github.com/m-cat/over) - Data format similar to JSON with features such as variables, includes, and type safety.

@@ -242,3 +242,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [2022 Photomicrography Competition | Nikon’s Small World](https://www.nikonsmallworld.com/galleries/2022-photomicrography-competition)
 - [Photopea](https://www.photopea.com/) - Online Photo Editor. ([HN](https://news.ycombinator.com/item?id=33334521))
 - [Classic 50mm “Normal” Lens (2022)](https://www.garyvoth.com/the-forgotten-lens/) ([HN](https://news.ycombinator.com/item?id=33394891))
+- [iPhone 14 Pro Camera Review: A Small Step, a Leap (2022)](https://lux.camera/iphone-14-pro-camera-review-a-small-step-a-huge-leap/) ([HN](https://news.ycombinator.com/item?id=33425182))

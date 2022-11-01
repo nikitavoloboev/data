@@ -97,3 +97,4 @@
 - [Ask HN: Why is everything a SaaS product? (2022)](https://news.ycombinator.com/item?id=32856779)
 - [Stripe Subscription Upsells Docs](https://stripe.com/docs/payments/checkout/upsells) ([Tweet](https://twitter.com/monicalent/status/1573225232948928512))
 - [Rules for SaaS Pricing (2022)](https://earlygtm.substack.com/p/rules-for-saas-pricing)
+- [Ask HN: “Contact Us” Pricing (2022)](https://news.ycombinator.com/item?id=33425443)

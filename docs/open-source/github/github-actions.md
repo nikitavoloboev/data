@@ -265,6 +265,7 @@ title: GitHub actions
 - [Vault Plugin Secrets](https://github.com/martinbaillie/vault-plugin-secrets-github) - Create ephemeral, finely-scoped GitHub access tokens using Hashicorp Vault.
 - [Release GitHub Actions](https://github.com/technote-space/release-github-actions) - Automate the release of GitHub Actions.
 - [Validate JSON or YAML against a schema](https://github.com/cardinalby/schema-validator-action)
+- [Markdown Autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - GitHub Action that automatically generates & updates markdown content from external or remote files.
 
 ## Go
 

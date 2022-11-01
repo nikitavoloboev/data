@@ -4,6 +4,7 @@
 
 - [Aimovig & Ajovi can help remove migraines](https://twitter.com/olgaserhi/status/1453765604217790470)
 - [LASIK Eye Surgery is great](https://shubhamjain.co/2022/06/23/lasik-eye-surgery-experience/)
+- [Vermox](https://www.medicines.org.uk/emc/product/975/smpc) is effective against worms.
 
 ## Links
 

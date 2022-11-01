@@ -67,6 +67,7 @@
 ## Web
 
 - [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server)) ([Tutorial For Beginners](https://github.com/programatik29/axum-tutorial)) ([Rust + Axum + Prisma template](https://github.com/aaronleopold/axum-graphql-prisma)) ([Axum, Tokio, Tower, Hyper, Serde template](https://github.com/joelparkerhenderson/demo-rust-axum)) ([Axum_database_Sessions](https://github.com/AscendingCreations/AxumSessions)) ([Minimalist Guide to Axum](https://tech.marksblogg.com/axum-rust-web-framework.html)) ([Lobsters](https://lobste.rs/s/p4f2a8/minimalist_guide_axum)) ([David Pedersen on Axum (2022)](https://www.youtube.com/watch?v=ETdmhh7OQpA)) ([axum-sessions](https://github.com/maxcountryman/axum-sessions)) ([axum-login](https://github.com/maxcountryman/axum-login)) ([axum-tracing-opentelemetry](https://github.com/davidB/axum-tracing-opentelemetry))
+- [h3](https://github.com/hyperium/h3) - Async HTTP/3 implementation.
 - [Graphul](https://github.com/graphul-rs/graphul) - Express inspired web framework using a powerful extractor system. ([HN](https://news.ycombinator.com/item?id=33220606))
 - [Leptos](https://github.com/gbj/leptos) - Full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces.
 - [tonic-rpc](https://github.com/adamrk/tonic-rpc) - Build RPCs on top of the tonic gRPC library by defining your types in Rust instead of proto.
@@ -519,6 +520,8 @@
 - [Turmoil](https://github.com/tokio-rs/turmoil) - Add hardship to your tests.
 - [testdata-rs](https://github.com/qnighy/testdata-rs) - Macros and helper functions for file-based testing.
 - [partial-io](https://github.com/sunshowers-code/partial-io) - Rust library that provides helpers for testing resilience of I/O operations.
+- [stubr](https://github.com/beltram/stubr) - Rust implementation of Wiremock.
+- [asserhttp](https://github.com/beltram/asserhttp) - Fluent HTTP response assertions.
 
 ## Error
 
@@ -892,6 +895,11 @@
 - [cglinalg](https://github.com/lambdaxymox/cglinalg) - Low-dimensional linear algebra library for real-time computer graphics.
 - [kmeans-colors](https://github.com/okaneco/kmeans-colors) - k-means clustering library and binary to find dominant colors in images.
 - [roots](https://github.com/vorot/roots) - Library of well known algorithms for numerical root finding.
+- [Astro-float](https://github.com/stencillogic/astro-float) - Arbitrary precision floating point numbers library.
+
+## CSS
+
+- [css-inline](https://github.com/Stranger6667/css-inline) - Inline CSS into style attributes.
 
 ## Other
 
@@ -2275,6 +2283,9 @@
 - [async-backtrace](https://github.com/tokio-rs/async-backtrace) - Efficient, logical 'stack' traces of async functions. ([Announcement](https://tokio.rs/blog/2022-10-announcing-async-backtrace))
 - [packed-encoder](https://github.com/Narasimha1997/packed-encoder) - Tiny rust crate that can be used to encode data of different types into a packed byte array which can be passed over network, system calls or FFI.
 - [hy-rs](https://github.com/StephanvanSchaik/hy-rs) - Unified and portable interface to the hypervisor APIs provided by various platforms.
+- [tachyonix](https://github.com/asynchronics/tachyonix) - Asynchronous, multi-producer, single-consumer (MPSC) bounded channel that operates at tachyonic speeds.
+- [Asynchronix](https://github.com/asynchronics/asynchronix) - High-performance asynchronous computation framework for system simulation.
+- [graphlib2](https://github.com/adriangb/graphlib2) - Rust port of Python stdlib's graphlib.
 
 ## Cargo Plugins
 
@@ -2377,6 +2388,7 @@
 - [cargo-cranky](https://github.com/ericseppanen/cargo-cranky) - Easy to configure wrapper for Rust's clippy.
 - [Cargo Sort](https://github.com/DevinR528/cargo-sort) - Tool to check that your Cargo.toml dependencies are sorted alphabetically.
 - [targo](https://github.com/sunshowers/targo) - Wraps cargo to move target directories to a central location.
+- [cargo-deps](https://github.com/m-cat/cargo-deps) - Cargo subcommand for building dependency graphs of Rust projects.
 
 ## Notes
 
@@ -2543,3 +2555,4 @@
 - [Reactix](https://github.com/erayerdin/reactix) - Starter template for Actix + React Typescript.
 - [Rust Web Framework Comparison](https://github.com/flosse/rust-web-framework-comparison) ([HN](https://news.ycombinator.com/item?id=33385148))
 - [Rust Template](https://github.com/paulrberg/rust-template) - Template for developing Rust projects, with sensible defaults.
+- [Rust Template by OKP4](https://github.com/okp4/template-rust)

@@ -578,6 +578,7 @@
 - [BobTheBuilder](https://github.com/roblack/BobTheBuilder) - Package with various build/creation helpers for SwiftUI.
 - [EasyMenu](https://github.com/hdehghan/EasyMenu) - SwiftUI Menu but not only button. You can create custom Menu.
 - [SwiftUI Dynamic Island Animations](https://github.com/amosgyamfi/dynamic-island-animations)
+- [TagExtractor](https://github.com/GeorgeElsham/TagExtractor) - Extract tag value from SwiftUI views.
 
 ## Test
 
@@ -620,6 +621,7 @@
 - [DL4S](https://github.com/palle-k/DL4S) - Provides a high-level API for many accelerated operations common in neural networks and deep learning.
 - [Neuron](https://github.com/wvabrinskas/Neuron) - Neural network library for Swift.
 - [Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
+- [Carlo](https://github.com/maxhumber/Carlo) - Monte Carlo Tree Search Library.
 
 ## DB
 

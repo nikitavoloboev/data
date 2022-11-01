@@ -203,3 +203,4 @@ title: Vue.js
 - [Vue TermUI](https://github.com/vue-terminal/vue-termui) - Modern Terminal UI Framework.
 - [Nuxt Web Bundle](https://github.com/danielroe/nuxt-web-bundle) - Generate web bundles with Nuxt 3.
 - [Flowbite Vue 3](https://flowbite-vue.com/) - Official Vue 3 components built for Flowbite and Tailwind CSS. ([Code](https://github.com/themesberg/flowbite-vue))
+- [V-Mapkit.js](https://github.com/geoql/v-mapkit.js) - Vue 3 + MapKit JS.

@@ -270,7 +270,7 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [Lupyne](https://github.com/coady/lupyne) - Pythonic search engine based on PyLucene.
 - [Building advanced SQL search from a user text input by Gajus Kuizinas (2022)](https://contra.com/p/WobOBob7-building-advanced-sql-search-from-a-user-text-input)
 - [μFuzzy](https://github.com/leeoniya/uFuzzy) - Tiny, efficient fuzzy search that doesn't suck. ([HN](https://news.ycombinator.com/item?id=33035580))
-- [Rewind](https://www.rewind.ai/) - Search engine for your life.
+- [Rewind](https://www.rewind.ai/) - Search engine for your life. ([HN](https://news.ycombinator.com/item?id=33421751))
 - [codequestion](https://github.com/neuml/codequestion) - Semantic search for developers.
 - [Reverse Image Search Using Perceptual Hashes and DynamoDB (2022)](https://canvatechblog.com/simple-fast-and-scalable-reverse-image-search-using-perceptual-hashes-and-dynamodb-df3007d19934)
 - [Swurl](https://swurl.com/) - Search engine with nice column UX. ([HN](https://news.ycombinator.com/item?id=33251954))

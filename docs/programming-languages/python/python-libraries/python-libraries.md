@@ -213,6 +213,7 @@
 - [sql-metadata](https://github.com/macbre/sql-metadata) - Uses tokenized query returned by python-sqlparse and generates query metadata.
 - [redis-pydict](https://github.com/Narasimha1997/redis-pydict) - Python dictionary that uses Redis as in-memory storage backend to facilitate distributed computing applications development.
 - [Redis OM](https://github.com/redis/redis-om-python) - Objecting mapping, and more, for Redis and Python.
+- [Inline SQL](https://github.com/ekzhang/inline-sql) - Inline SQL in any Python program.
 
 ## GUI
 
@@ -270,6 +271,8 @@
 - [solid_dmft](https://github.com/TRIQS/solid_dmft) - Versatile python wrapper to perform DFT+DMFT calculations utilizing the TRIQS software library.
 - [scikit-ued](https://github.com/LaurentRDC/scikit-ued) - Collection of algorithms and routines for (ultrafast) electron diffraction and scattering.
 - [crystals](https://github.com/LaurentRDC/crystals) - Data structures, algorithms, and parsing for crystallography.
+- [PyCBC](https://github.com/gwastro/pycbc) - Software package used to explore astrophysical sources of gravitational waves.
+- [MPmorph](https://github.com/materialsproject/mpmorph) - Collection of tools to run and analyze ab-initio molecular dynamics (AIMD) calculations run with VASP.
 
 ## Linux
 
@@ -1029,6 +1032,8 @@
 - [filetype.py](https://github.com/h2non/filetype.py) - Small, dependency-free, fast Python package to infer binary file types checking the magic numbers signature.
 - [Sonora](https://github.com/public/sonora) - gRPC-Web implementation for Python.
 - [aiochan](https://github.com/zh217/aiochan) - CSP-style concurrency for Python.
+- [TLViz](https://github.com/tensorly/viz) - Easy visualization and evaluation of matrix and tensor factorization models.
+- [MatCoupLy](https://github.com/MarieRoald/matcouply) - Learning coupled matrix factorizations in Python.
 
 ## Notes
 

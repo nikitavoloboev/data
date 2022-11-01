@@ -204,3 +204,4 @@ title: Terraform
 - [Terraform OpenStack Provider](https://github.com/terraform-provider-openstack/terraform-provider-openstack)
 - [Terraform Provider Scaffolding](https://github.com/hashicorp/terraform-provider-scaffolding-framework)
 - [Sato](https://github.com/JamesWoolfenden/sato) - Converts CFN into Terraform. In Go.
+- [Akamai Provider for Terraform](https://github.com/akamai/terraform-provider-akamai)

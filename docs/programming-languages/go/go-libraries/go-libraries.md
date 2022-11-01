@@ -85,6 +85,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [subcommands](https://github.com/maruel/subcommands) - Permits a Go application to implement subcommands support similar to what is supported by the 'go' tool.
 - [tablewriter](https://github.com/caarlos0/tablewriter) - Simple table using lipgloss and text/tabwriter.
 - [nfigure](https://github.com/muir/nfigure) - Go struct-tag based configfile and flag parsing.
+- [go-tty](https://github.com/mattn/go-tty) - Simple tty utility.
 
 ## Test
 
@@ -1862,6 +1863,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Atomizer](https://github.com/devnw/atomizer) - Massively Parallel Distributed Computing.
 - [messagediff](https://github.com/d4l3k/messagediff) - Library for doing diffs of arbitrary Go structs.
 - [Threads Helper](https://github.com/BlackpointCyber/threads) - Helper library for handling groups of threads easily.
+- [Jet](https://github.com/CloudyKit/jet) - Template engine developed to be easy to use, powerful, dynamic, yet secure and very fast.
 
 ## Links
 

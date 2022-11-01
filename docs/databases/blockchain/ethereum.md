@@ -704,3 +704,4 @@ Ethereum is a virtual machine built using a blockchain (spread around many clien
 - [solc-typed-ast](https://github.com/ConsenSys/solc-typed-ast) - TypeScript package providing a normalized typed Solidity AST along with the utilities necessary to generate the AST (from Solc) and traverse/manipulate it.
 - [solstat](https://github.com/0xKitsune/solstat) - Solidity static analyzer to identify contract vulnerabilities and gas efficiencies.
 - [Optimizor Club SQRT challenge](https://github.com/OptimizorClub/sqrt_foundry_template) - Foundry template for the Optimizor Club SQRT challenge.
+- [Awesome wagmi](https://github.com/wagmi-dev/awesome-wagmi)

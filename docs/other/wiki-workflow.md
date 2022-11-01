@@ -536,3 +536,4 @@ I want to:
 - [I am endlessly fascinated with content tagging systems](https://twitter.com/hillelogram/status/1534301374166474752) ([HN](https://news.ycombinator.com/item?id=33248391))
 - [Silver Bullet](https://github.com/silverbulletmd/silverbullet) - Extensible, open source personal knowledge platform.
 - [cobalt](https://co.wukko.me/) - Best way to save content you love. ([Code](https://github.com/wukko/cobalt))
+- [Recall](https://www.recall-app.com/) - Helps you remember things you're interested in. ([HN](https://news.ycombinator.com/item?id=33425947))

@@ -164,7 +164,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Space-time tradeoffs of lenses and optics via higher category theory (2022)](https://arxiv.org/abs/2209.09351)
 - [Playing with Category Theory in Lean 4](https://github.com/forked-from-1kasper/lean4-categories)
 - [What A General Diagonal Argument Looks Like (Category Theory) (2022)](https://www.youtube.com/watch?v=dwNxVpbEVcc)
-- [Applied Category Theory in Chemistry, Computing, and Social Networks (2022)](https://www.ams.org/journals/notices/202202/rnoti-p292.pdf)
+- [Applied Category Theory in Chemistry, Computing, and Social Networks (2022)](https://www.ams.org/journals/notices/202202/rnoti-p292.pdf) ([HN](https://news.ycombinator.com/item?id=33423474))
 
 ## Images
 

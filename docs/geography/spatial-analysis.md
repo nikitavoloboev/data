@@ -273,3 +273,4 @@ title: Spatial analysis
 - [Topi Tjukanov](https://tjukanov.org/) - Experiments with points, lines & polygons.
 - [Maps with Blender](https://tjukanov.org/blender-maps)
 - [YAOM - Yet Another Open Map](https://yaom.org/) - Curated collection of authoritative and non-authoritative datasets in a OpenStreetMap-compatible format and data model.
+- [Pangeo](https://pangeo.io/) - Community platform for Big Data geoscience. ([Web Code](https://github.com/pangeo-data/pangeo))

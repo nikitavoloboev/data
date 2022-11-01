@@ -199,3 +199,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [lnproxy](https://github.com/lnproxy/lnproxy) - Takes a bolt 11 invoice and generates a “wrapped” invoice that can be settled if and only if the original invoice is settled.
 - [BOLT: Basis of Lightning Technology (Lightning Network Specifications)](https://github.com/lightning/bolts)
 - [Spiral](https://spiral.xyz/) - Making bitcoin more than an investment.
+- [Rust RPC client for Bitcoin Core JSON-RPC](https://github.com/rust-bitcoin/rust-bitcoincore-rpc)

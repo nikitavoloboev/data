@@ -38,3 +38,4 @@ title: Reactive programming
 - [reactive-box](https://github.com/re-js/reactive-box) - Minimalistic, fast, and highly efficient reactivity.
 - [Flimsy](https://github.com/fabiospampinato/flimsy) - Single-file <1kb min+gzip simplified implementation of the reactive core of Solid, optimized for clean code.
 - [S.js](https://github.com/adamhaile/S) - Simple, Clean, Fast Reactive Programming in JavaScript.
+- [Kefir](https://github.com/kefirjs/kefir) - Reactive Programming library for JavaScript.

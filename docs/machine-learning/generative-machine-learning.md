@@ -131,3 +131,6 @@
 - [Banana Serverless](https://github.com/bananaml/serverless-template-stable-diffusion) - Basic framework for serving Stable Diffusion in production using simple HTTP servers.
 - [Sketch Diffusion – Live Painting with Stable Diffusion on Meta Quest Pro](https://www.t-da.io/labs)
 - [List of Stable Diffusion resources](https://rentry.co/sdupdates) ([HN](https://news.ycombinator.com/item?id=33416632))
+- [Invasive Diffusion: one unwilling illustrator found her turned into an AI model (2022)](https://waxy.org/2022/11/invasive-diffusion-how-one-unwilling-illustrator-found-herself-turned-into-an-ai-model/) ([HN](https://news.ycombinator.com/item?id=33422990))
+- [AI Horde](https://github.com/db0/AI-Horde) - Crowdsourced distributed cluster for AI art and text generation.
+- [Distributed Diffusion](https://github.com/chavinlo/distributed-diffusion) - Train a Stable Diffusion model over the internet with Hivemind.

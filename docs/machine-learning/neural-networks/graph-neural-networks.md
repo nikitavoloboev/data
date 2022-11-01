@@ -1,5 +1,7 @@
 # Graph neural networks
 
+[DIG](https://github.com/divelab/DIG) library is neat.
+
 ## Links
 
 - [A practical introduction to GNNs (2021)](https://danielegrattarola.github.io/posts/2021-03-03/gnn-lecture-part-1.html)
@@ -133,3 +135,4 @@
 - [Tree Mover's Distance for Graphs: Bridging Graph Metrics and Stability of Graph Neural Networks (2022)](https://github.com/chingyaoc/TMD)
 - [SuperGlue: Learning Feature Matching with Graph Neural Networks (2020)](https://arxiv.org/abs/1911.11763) ([Code](https://github.com/magicleap/SuperGluePretrainedNetwork))
 - [Variational Graph Normalized Auto-Encoders (2021)](https://arxiv.org/abs/2108.08046) ([Code](https://github.com/SeongJinAhn/VGNAE))
+- [GOOD: A Graph Out-of-Distribution Benchmark (2022)](https://github.com/divelab/GOOD)

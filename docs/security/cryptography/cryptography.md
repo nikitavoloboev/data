@@ -188,3 +188,4 @@
 - [Elliptic Curves for Security (2016)](https://www.rfc-editor.org/rfc/rfc7748)
 - [lemmeknow](https://github.com/swanandx/lemmeknow) - Can be used for identifying mysterious text or to analyze hard-coded strings from captured network packets, malwares, or just about anything.
 - [Public Randomness and Randomness Beacons (2022)](https://a16zcrypto.com/public-randomness-and-randomness-beacons/) ([Tweet](https://twitter.com/lera_banda/status/1582435432247091200))
+- [jsteg](https://github.com/lukechampine/jsteg) - Package for hiding data inside jpeg files, a technique known as steganography.

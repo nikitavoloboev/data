@@ -300,6 +300,7 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [TinySource](https://github.com/tinysource/tinysource) - Completely free TypeScript one-file source code snippets with tests, which can be copied to avoid extra dependencies.
 - [Intermediate to Advanced TypeScript (2022)](https://tigerabrodi.blog/intermediate-to-advanced-typescript)
 - [stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker.
+- [transformer-query](https://github.com/SieR-VR/transformer-query) - Next-generation typescript transformer.
 
 ## Images
 

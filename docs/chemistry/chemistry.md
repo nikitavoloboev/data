@@ -104,3 +104,5 @@ title: Chemistry
 - [Nobel Prize in Chemistry Awarded to Bertozzi, Meldal, and Sharpless (2022)](https://www.nobelprize.org/prizes/chemistry/2022/summary/) ([HN](https://news.ycombinator.com/item?id=33093278))
 - [Electron states, light, and mitochondria (2022)](https://www.multiflora-herbs.com/blogs/news/electron-states-light-and-mitochondria)
 - [Water: the liquid of life (2021)](https://www.multiflora-herbs.com/blogs/news/water)
+- [libcint](https://github.com/sunqm/libcint) - General GTO integrals for quantum chemistry.
+- [BAGEL](https://github.com/qsimulate-open/bagel) - Brilliantly Advanced General Electronic-structure Library.

@@ -443,3 +443,5 @@
 - [Muted.io](https://muted.io/) - Collection of interactive music theory tools and visual refs to learn music.
 - [GenM](https://github.com/hlandman/GEN-M) - Electronic Music Generation.
 - [MIDI-Emotion](https://github.com/serkansulun/midi-emotion) - Generates multi-instrument symbolic music (MIDI), based on user-provided emotions from valence-arousal plane.
+- [Audio-Plugin-Development-Resources](https://github.com/jareddrayton/Audio-Plugin-Development-Resources)
+- [Hyperstep](https://a-sumo.github.io/hyperstep/) - Volumetric audio visualizer. ([HN](https://news.ycombinator.com/item?id=33425159))

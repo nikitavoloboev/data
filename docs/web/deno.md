@@ -323,3 +323,5 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [deno-sudo](https://github.com/hugojosefson/deno-sudo) - Easy-to-use sudo for Deno CLI apps.
 - [Deno Storage Area](https://github.com/worker-tools/deno-kv-storage) - Implementation of the StorageArea interface for Deno.
 - [Deno v1.27 (2022)](https://deno.com/blog/v1.27) ([HN](https://news.ycombinator.com/item?id=33361450))
+- [pydeno](https://github.com/federico-terzi/pydeno) - Python bindings for the Deno JS runtime.
+- [Deno Window Manager](https://github.com/DjDeveloperr/dwm) - Cross-platform window creation and management for Deno.

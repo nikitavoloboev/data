@@ -18,6 +18,7 @@
 - [guardrail](https://github.com/guardrail-dev/guardrail) - Principled code generation from OpenAPI specifications.
 - [Cask](https://github.com/com-lihaoyi/cask) - Scala HTTP micro-framework.
 - [http4s-curl](https://github.com/http4s/http4s-curl) - Experimental client for http4s on Scala Native, backed by libcurl.
+- [fs2-dom](https://github.com/armanbilge/fs2-dom) - Idiomatic Cats Effect + FS2 integrations for Web APIs.
 
 ## CLI
 
@@ -201,6 +202,7 @@
 - [Glass](https://github.com/tofu-tf/glass) - Modern optic library.
 - [Morphling](https://github.com/danslapman/morphling) - Cats-based Scala library for free applicative schemas.
 - [Kalix Java and Scala SDK](https://github.com/lightbend/kalix-jvm-sdk)
+- [Scala Standard Parser Combinator](https://github.com/scala/scala-parser-combinators) - Parsing for Scala.
 
 ## Links
 

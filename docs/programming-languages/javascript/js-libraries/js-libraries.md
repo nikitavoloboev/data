@@ -113,6 +113,8 @@
 - [Handle-CLI-Error](https://github.com/ehmicky/handle-cli-error) - Error handler for CLI applications.
 - [meow](https://github.com/sindresorhus/meow) - CLI app helper.
 - [termynal](https://github.com/ines/termynal) - Lightweight and modern terminal animations using async/await.
+- [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
+- [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 
 ## ML
 

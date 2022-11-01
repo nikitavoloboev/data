@@ -293,3 +293,4 @@ Hi<div>oh no break</div>
 - [Templating in HTML (2022)](https://kittygiraudel.com/2022/09/30/templating-in-html/) ([HN](https://news.ycombinator.com/item?id=33085976))
 - [Learn HTML](https://web.dev/learn/html/)
 - [Understanding HTML with Large Language Models (2022)](https://arxiv.org/abs/2210.03945) ([HN](https://news.ycombinator.com/item?id=33168043))
+- [domhandler](https://github.com/fb55/domhandler) - DOM handler creates a tree containing all nodes of a page.

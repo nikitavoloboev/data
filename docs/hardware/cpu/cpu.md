@@ -177,3 +177,4 @@
 - [Skylake: Intel’s Longest Serving Architecture (2022)](https://chipsandcheese.com/2022/10/14/skylake-intels-longest-serving-architecture/) ([HN](https://news.ycombinator.com/item?id=33212404))
 - [X86 CPU topics overview for developers, oriented towards performance](https://github.com/akhin/microarchitecture-cheatsheet)
 - [AMD Hypervisor written written in Rust](https://github.com/not-matthias/amd_hypervisor)
+- [Description of Apple's LEAP ISA](https://github.com/povik/leap-isa)

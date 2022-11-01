@@ -206,3 +206,8 @@ title: Genomics
 - [SPALN](https://github.com/ogotoh/spaln) - Genome mapping and spliced alignment of cDNA or amino acid sequences.
 - [Resistance Gene Identifier (RGI)](https://github.com/arpcard/rgi) - Software to predict resistomes from protein or nucleotide data, including metagenomics data, based on homology and SNP models.
 - [Genes Can Leap from Snakes to Frogs in Madagascar (2022)](https://www.quantamagazine.org/how-genes-can-leap-from-snakes-to-frogs-20221027/)
+- [StringTie](https://github.com/gpertea/stringtie) - Transcript assembly and quantification for RNA-Seq.
+- [GffRead](https://github.com/gpertea/gffread) - GFF/GTF utility providing format conversions, filtering, FASTA sequence extraction and more.
+- [GffCompare](https://github.com/gpertea/gffcompare) - Classify, merge, tracking and annotation of GFF files by comparing to a reference annotation GFF.
+- [GCLib](https://github.com/gpertea/gclib) - Genomic C++ Library.
+- [rust-alignbench](https://github.com/rchikhi/rust-alignbench) - Pairwise nucleotide alignment benchmark of Rust bindings.
