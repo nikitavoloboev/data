@@ -2,6 +2,8 @@
 
 I share a list of my favorite [actors](https://www.imdb.com/list/ls099077697/) & [actresses](https://www.imdb.com/list/ls098138063/).
 
+Loved an [interview of Ben Mendelsohn](https://www.youtube.com/watch?v=65HymY-KJes) as he describes [his approach and experience with acting](https://youtu.be/65HymY-KJes?t=1377).
+
 ## Notes
 
 - [Be a joiner. If you sit around waiting for things to happen, they never will. Strange as it seems, acting begets opportunities to act. So, we have to get out there and act!](https://www.reddit.com/r/acting/comments/jot9qu/read_jenna_fischers_book_on_acting/)
@@ -41,3 +43,4 @@ I share a list of my favorite [actors](https://www.imdb.com/list/ls099077697/) &
 - [Rowan Atkinson visual comedy (1992)](https://www.youtube.com/watch?v=LeuiFa9pI7c) ([HN](https://news.ycombinator.com/item?id=32131396))
 - [Favorite Male Actors (2022)](https://www.reddit.com/r/Letterboxd/comments/wbeyla/favorite_male_actors/)
 - [Movies in which an actor's performance completely astonished you? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/xl1159/movies_in_which_an_actors_performance_completely/)
+- [Mississippi Grind, Ben Mendelsohn](https://www.youtube.com/watch?v=65HymY-KJes)

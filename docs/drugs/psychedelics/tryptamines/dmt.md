@@ -4,7 +4,7 @@ title: DMT
 
 # [DMT](https://psychonautwiki.org/w/index.php?title=DMT)
 
-I love all [tryptamines](tryptamines.md) but am yet to breakthrough on DMT. [Many say it's life changing](https://www.reddit.com/r/RationalPsychonaut/comments/u8la4o/why_is_dmt_treated_like_some_kind_of_special/).
+I love all [tryptamines](tryptamines.md) but am yet to breakthrough on DMT. [Many say it's life changing](https://www.reddit.com/r/RationalPsychonaut/comments/u8la4o/why_is_dmt_treated_like_some_kind_of_special/). [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.me/Q21Q21%27s_Vinegar/Lime_A/B_Extraction_Tek) seems nice.
 
 ## Notes
 
@@ -105,3 +105,4 @@ I love all [tryptamines](tryptamines.md) but am yet to breakthrough on DMT. [Man
 - [What are DMT 'secrets'?](https://www.reddit.com/r/DMT/comments/wlxtoh/wait_so_probably_almost_all_of_you_who_were_on/)
 - [Do you think DMT is just a drug or there's way more to it?](https://www.reddit.com/r/DMT/comments/xbionw/do_you_guys_think_dmt_is_just_a_drug_or_theres/)
 - [Does anyone have a theory of what DMT actually is?](https://www.reddit.com/r/DMT/comments/xezoyq/does_anyone_have_a_theory_of_what_dmt_actually_is/)
+- [Vinegar/Lime A/B Extraction Tek for DMT](https://wiki.dmt-nexus.me/Q21Q21%27s_Vinegar/Lime_A/B_Extraction_Tek)

@@ -429,3 +429,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [The windy path to fast, pain-free, reproducible developer environments (2022)](https://www.youtube.com/watch?v=Mx3yiE_CJOY)
 - [Nix Flakes: first steps (2022)](https://blog.kubukoz.com/flakes-first-steps/)
 - [Do you use Nix or equivalent to manage projects and/or systems? (2022)](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects)
+- [Streamline your GitHub Actions dependencies using Nix (2022)](https://determinate.systems/posts/nix-github-actions)
