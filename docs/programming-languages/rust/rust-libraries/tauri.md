@@ -4,6 +4,8 @@ title: Tauri
 
 # [Tauri](https://tauri.studio/)
 
+[Dropcode](https://github.com/egoist/dropcode) is great OSS app built with Tauri and [Solid](../../javascript/js-libraries/solid.md).
+
 ## OSS Tauri apps
 
 - [Stable Diffussion Buddy](https://github.com/breadthe/sd-buddy) - Companion desktop app for the self-hosted M1 Mac version of Stable Diffusion.
@@ -33,3 +35,4 @@ title: Tauri
 - [Generate Color Themes with Tauri (2022)](https://www.youtube.com/watch?v=zawhqLA7N9Y)
 - [Build a cross platform app with Tauri (2022)](https://ghostdev.xyz/posts/build-a-cross-platform-app-with-tauri/)
 - [tauri-egui](https://github.com/tauri-apps/tauri-egui) - Tauri plugin for using the egui library in a Tauri application.
+- [tauri-sys](https://github.com/JonasKruckenberg/tauri-sys) - Raw bindings to the Tauri API for projects using wasm-bindgen.

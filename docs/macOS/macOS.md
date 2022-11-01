@@ -2,6 +2,8 @@
 
 [macOS is incredible as a personal OS](https://github.com/nikitavoloboev/my-mac-os). Would love to join Apple and contribute to the OS at some point. [Karabiner](apps/karabiner/karabiner.md) is life changing.
 
+[Quill](https://github.com/anchore/quill) is great for signing binaries for macOS.
+
 ## Clean install
 
 You can clean install by going to Recovery mode (restart with `cmd+r` pressed). Then Disk Utility > Select disk > Erase (Format it) > Close Disk Utility > Select option Reinstall MacOS (Choose macOS ver. to install).
@@ -299,3 +301,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Booting an M1 Mac from hardware to kexts (2022)](https://eclecticlight.co/2022/01/04/booting-an-m1-mac-from-hardware-to-kexts-1-hardware/)
 - [Running Intel Binaries in Linux VMs with Rosetta](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta) ([HN](https://news.ycombinator.com/item?id=33338739))
 - [Quill](https://github.com/anchore/quill) - Simple mac binary signing from any platform.
+- [A tale of a simple Apple kernel bug (2022)](https://pwning.systems/posts/easy-apple-kernel-bug/)

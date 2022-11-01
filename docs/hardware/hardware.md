@@ -4,7 +4,7 @@
 
 [teenage engineering](https://teenage.engineering/) & [Apple](https://www.apple.com/) make gorgeous and functional devices.
 
-[Chisel](https://www.chisel-lang.org/) seems like an amazing framework for hardware designs.
+[Chisel](https://www.chisel-lang.org/) seems like an amazing framework for hardware designs. So as [Flux](https://www.flux.ai/p) & [Diode](https://www.withdiode.com/)
 
 ## Notes
 
@@ -365,3 +365,5 @@
 - [What's Different About Next-Gen Transistors (2022)](https://semiengineering.com/whats-different-about-next-gen-transistors/)
 - [SBC-Bench](https://github.com/ThomasKaiser/sbc-bench) - Simple benchmark for single board computers. ([HN](https://news.ycombinator.com/item?id=33301589))
 - [PYNQ](https://github.com/Xilinx/PYNQ) - Open-source project from Xilinx that makes it easy to design embedded systems with Zynq All Programmable Systems on Chips (APSoCs).
+- [Wii U Architecture | A Practical Analysis (2022)](https://www.copetti.org/writings/consoles/wiiu/)
+- [Flux](https://www.flux.ai/p) - Better way to make electronic hardware. ([Twitter](https://twitter.com/BuildWithFlux))

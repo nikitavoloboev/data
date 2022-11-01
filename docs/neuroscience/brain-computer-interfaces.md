@@ -60,3 +60,4 @@ title: Brain Computer Interfaces
 - [NeuroTechEDU's Awesome List of BCI-related Resources](https://github.com/NeuroTechX/awesome-bci)
 - [EEGLearn](https://github.com/pbashivan/EEGLearn) - Set of functions for supervised feature learning/classification of mental states from EEG based on "EEG images" idea.
 - [Completely Locked-In Patients Can Communicate, Thanks to a Brain Implant (BCI) (2022)](https://www.technologynetworks.com/neuroscience/news/for-the-first-time-a-completely-locked-in-patient-can-communicate-thanks-to-brain-implant-359819) ([HN](https://news.ycombinator.com/item?id=30773013))
+- [Neuralink Discord](https://discord.gg/reKh3Bwbz8)

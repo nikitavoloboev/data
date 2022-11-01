@@ -172,3 +172,5 @@ Love [Italic](https://italic.com/)'s store UX.
 - [The Smartest Website You Haven't Heard of (2022)](https://www.bedelstein.com/post/mcmaster-carr)
 - [BSMNT Commerce Toolkit](https://github.com/basementstudio/commerce-toolkit) - Help you ship better storefronts, faster, and with more confidence.
 - [Svelsa](https://github.com/Hetarth02/medusa-svelsa) - Starter storefront template in SvelteKit.
+- [parcelLab](https://parcellab.com/) - Solve your Post-Purchase Experience.
+- [Metapack](https://www.metapack.com/) - Ecommerce Delivery Management Software.

@@ -2,7 +2,7 @@
 
 [Linear](https://linear.app/) & [Height](https://height.app/) are nice project management tools. I use GitHub issues for all my project management tasks. Want to build a nice desktop client app for GitHub similar to [Ship](https://www.realartists.com/blog/ship-20.html).
 
-[Basecamp Employee Handbook](https://basecamp.com/handbook) has nice ideas.
+[Basecamp Employee Handbook](https://basecamp.com/handbook) & [Engineering Management for the Rest of Us](https://www.engmanagement.dev/) have nice ideas.
 
 ## Notes
 

@@ -287,3 +287,4 @@
 - [Building Distributed Systems With Stateright](https://www.stateright.rs/)
 - [Papers on Distributed Systems](https://github.com/ycd/distributed-systems-papers)
 - ["Workflows, a new abstraction for distributed systems" by Dominik Tornow (2022)](https://www.youtube.com/watch?v=V_5WeVmyhzg)
+- [Timestamp-based Algorithms for Concurrency Control in Distributed Database Systems (2022)](https://muratbuffalo.blogspot.com/2022/11/timestamp-based-algorithms-for.html)

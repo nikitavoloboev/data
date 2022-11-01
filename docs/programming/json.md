@@ -165,3 +165,4 @@ title: JSON
 - [Jq Internals: Backtracking (2017)](https://github.com/stedolan/jq/wiki/Internals:-backtracking) ([HN](https://news.ycombinator.com/item?id=33101867))
 - [JSON Schema](https://json-schema.org/) - Vocabulary that allows you to annotate and validate JSON documents. ([Web Code](https://github.com/json-schema-org/json-schema-org.github.io))
 - [alterschema](https://github.com/sourcemeta/alterschema) - Convert between JSON Schema specification versions.
+- [More Untappd data explorations with jq - my top ranking beer types (part 1) (2022)](<https://qmacro.org/blog/posts/2022/10/30/more-untappd-data-explorations-with-jq-my-top-ranking-beer-types-(part-1)/>) ([Lobsters](https://lobste.rs/s/9xyxjh/more_untappd_data_explorations_with_jq_my))

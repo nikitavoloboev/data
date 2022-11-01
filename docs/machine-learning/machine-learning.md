@@ -967,3 +967,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Machine Learning Specialization by Andrew Ng notes (2022)](https://dair-ai.notion.site/Course-1-Supervised-Machine-Learning-3a200719f58145dc8a701a2545bdf9f4)
 - [Deep Generalized Schrödinger Bridge (2022)](https://arxiv.org/abs/2209.09893) ([Code](https://github.com/ghliu/DeepGSB))
 - [Awesome Full Stack Machine Learning Engineering Courses](https://github.com/leehanchung/awesome-full-stack-machine-courses)
+- [Monolith: Real Time Recommendation System With Collisionless Embedding Table (2022)](https://arxiv.org/abs/2209.07663) ([Tweet](https://twitter.com/xamat/status/1587124786487906304))

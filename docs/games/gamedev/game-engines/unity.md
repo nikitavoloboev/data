@@ -42,3 +42,4 @@ title: Unity
 - [Reverse Engineering a Unity Game (2022)](https://jf.id.au/blog/reverse-engineering-a-unity-game)
 - [C++ Rendering Plugin example for Unity](https://github.com/Unity-Technologies/NativeRenderingPlugin)
 - [Runity](https://github.com/TanTanDev/runity) - Highly experimental Rust implementation for Unity.
+- [Enemies – State-of-the-art digital humans | Unity Demo](https://unity.com/demos/enemies)

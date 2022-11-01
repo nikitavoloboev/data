@@ -276,3 +276,4 @@
 - [Idemeum](https://idemeum.com/) - Passwordless access to apps and infrastructure. ([HN](https://news.ycombinator.com/item?id=33346183))
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/) ([Code](https://github.com/fedidcg/FedCM))
 - [Ballerine](https://github.com/ballerine-io/ballerine) - Open-source user onboarding and KYC flow made with Svelte. ([HN](https://news.ycombinator.com/item?id=33396982))
+- [Topaz](https://www.topaz.sh/) - Cloud-native authorization for modern applications and APIs. ([Code](https://github.com/aserto-dev/topaz))

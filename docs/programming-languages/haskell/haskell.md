@@ -469,3 +469,4 @@ title: Haskell
 - [A nub in the haystack (2022)](https://www.tweag.io/blog/2022-10-27-bytecode-performance-regression/)
 - [Haskell Error Index](https://errors.haskell.org/) - Community-driven web site for improving the documentation of Haskell tooling. ([Announce](https://discourse.haskell.org/t/announcing-the-haskell-error-index/5195))
 - [ghc-nix](https://github.com/matthewbauer/ghc-nix) - Exploring the options for incremental Haskell builds using Nix.
+- [Data validation in Haskell with newtypes, smart constructors, and aeson (2022)](https://www.dylanamartin.com/2022/10/31/use-newtypes-for-typesafe-data-validation-with-aeson.html)

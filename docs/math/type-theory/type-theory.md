@@ -220,3 +220,4 @@ title: Type Theory
 - [Trebor](https://github.com/Guest0x0/trebor) - Implementation of Observational Type Theory (OTT) and more.
 - [MLstruct: Principal Type Inference in a Boolean Algebra of Structural Types (2022)](https://lptk.github.io/files/[v6.1]%20mlstruct.pdf)
 - [Erasable coercions: a unified approach to type systems (2014)](http://phd.ia0.fr/)
+- [Curry–Howard by example (2021)](https://cjquines.com/files/curryhoward.pdf)

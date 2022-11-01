@@ -1861,6 +1861,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [alog](https://github.com/devnw/alog) - Fully concurrent, non-IO blocking Logger for Go.
 - [Atomizer](https://github.com/devnw/atomizer) - Massively Parallel Distributed Computing.
 - [messagediff](https://github.com/d4l3k/messagediff) - Library for doing diffs of arbitrary Go structs.
+- [Threads Helper](https://github.com/BlackpointCyber/threads) - Helper library for handling groups of threads easily.
 
 ## Links
 

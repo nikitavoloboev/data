@@ -75,3 +75,4 @@
 - ["AVIF: Creating a new image format in the open" by Jon Bauman (2022)](https://www.youtube.com/watch?v=BUkRlfkv2D8)
 - [Awesome Unique ID](https://github.com/grantcarthew/awesome-unique-id)
 - [Google explains why it's removing JPEG XL from the Chromium code base (2022)](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84) ([Lobsters](https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl)) ([HN](https://news.ycombinator.com/item?id=33399940))
+- [Elements Of a Great Markup Language (2022)](https://matklad.github.io/2022/10/28/elements-of-a-great-markup-language.html) ([HN](https://news.ycombinator.com/item?id=33381373)) ([Lobsters](https://lobste.rs/s/cx7wl2/elements_great_markup_language))
