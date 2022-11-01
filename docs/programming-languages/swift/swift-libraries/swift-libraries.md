@@ -1287,6 +1287,7 @@
 - [Screenshots](https://github.com/blackbeltlabs/Screenshots) - Swift framework for taking screenshots.
 - [swift-index-store](https://github.com/lyft/swift-index-store) - Library to read from Swift / clang source code indexes.
 - [ULID.swift](https://github.com/yaslab/ULID.swift) - Universally Unique Lexicographically Sortable Identifier (ULID) in Swift.
+- [LongPressButton](https://github.com/danielctull-playground/LongPressButton)
 
 ## Other (not lib)
 

@@ -966,3 +966,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [What Makes Convolutional Models Great on Long Sequence Modeling? (2022)](https://arxiv.org/abs/2210.09298) ([Code](https://github.com/ctlllll/SGConv))
 - [Machine Learning Specialization by Andrew Ng notes (2022)](https://dair-ai.notion.site/Course-1-Supervised-Machine-Learning-3a200719f58145dc8a701a2545bdf9f4)
 - [Deep Generalized Schrödinger Bridge (2022)](https://arxiv.org/abs/2209.09893) ([Code](https://github.com/ghliu/DeepGSB))
+- [Awesome Full Stack Machine Learning Engineering Courses](https://github.com/leehanchung/awesome-full-stack-machine-courses)

@@ -753,3 +753,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Counterfact](https://github.com/pmcelhaney/counterfact) - OpenAPI / Swagger to TypeScript generator and mock server.
 - [Knip](https://github.com/webpro/knip) - Find unused files, dependencies and exports in your JS/TS project.
 - [Template for TypeScript backend server](https://github.com/samchon/backend)
+- [TypeScript code generator via OpenAPI scheme](https://github.com/Himenon/openapi-typescript-code-generator)

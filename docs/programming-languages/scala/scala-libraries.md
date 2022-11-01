@@ -200,6 +200,7 @@
 - [scala-uri](https://github.com/lemonlabsuk/scala-uri) - Simple scala library for building and parsing URIs.
 - [Glass](https://github.com/tofu-tf/glass) - Modern optic library.
 - [Morphling](https://github.com/danslapman/morphling) - Cats-based Scala library for free applicative schemas.
+- [Kalix Java and Scala SDK](https://github.com/lightbend/kalix-jvm-sdk)
 
 ## Links
 
@@ -234,3 +235,4 @@
 - [Acyclic](https://github.com/com-lihaoyi/acyclic) - Scala compiler plugin to let you prohibit circular dependencies between files.
 - [Scala 3 Metaprogramming Examples](https://github.com/lampepfl/dotty-macro-examples)
 - [Sbtix](https://github.com/natural-transformation/sbtix) - Generates a Nix definition that represents your SBT project's dependencies.
+- [Dotty-patched and Eval](https://github.com/DmytroMitin/dotty-patched) - Evaluating source code and trees at compile time hacking multi-staging programming.

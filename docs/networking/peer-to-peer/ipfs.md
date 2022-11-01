@@ -118,3 +118,4 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS Camp 2022](https://2022.ipfs.camp/) ([Code](https://github.com/pathfindertools/ipfs-camp-2022))
 - [Iroh](https://iroh.computer/) - New Implementation of IPFS. ([HN](https://news.ycombinator.com/item?id=33376205)) ([Code](https://github.com/n0-computer/iroh))
 - [VerkleIPFS](https://github.com/Giulio2002/verkleipfs) - Verkle Tree stored on IPFS.
+- [IPFS-Utils](https://github.com/neume-network/ipfs-uri-utils) - Utilities for working with IPFS links.

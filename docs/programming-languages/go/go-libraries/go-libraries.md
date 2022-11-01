@@ -1860,6 +1860,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Stream](https://github.com/devnw/stream) - Generic implementation for concurrency communication patterns.
 - [alog](https://github.com/devnw/alog) - Fully concurrent, non-IO blocking Logger for Go.
 - [Atomizer](https://github.com/devnw/atomizer) - Massively Parallel Distributed Computing.
+- [messagediff](https://github.com/d4l3k/messagediff) - Library for doing diffs of arbitrary Go structs.
 
 ## Links
 

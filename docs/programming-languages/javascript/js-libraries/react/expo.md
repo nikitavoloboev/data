@@ -58,3 +58,4 @@ title: Expo
 - [Expo Router Preview](https://github.com/expo/router) - Preview of the new router for React Native apps.
 - [File-system Routing no React Native (c/ Expo Router) (2022)](https://www.youtube.com/watch?v=DtFnUvm3xeU)
 - [Expo Modules Docs](https://docs.expo.dev/modules/overview/) ([Tweet](https://twitter.com/compose/tweet))
+- [Expo Community Flipper](https://github.com/jakobo/expo-community-flipper) - Flipper Support for Expo Apps in React Native.

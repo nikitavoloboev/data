@@ -400,3 +400,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [Managing resource permissions with AWS SAM connectors](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/managing-permissions-connectors.html) ([Tweet](https://twitter.com/alexwwood/status/1578436134522474496))
 - [AWS MWAA Local Runner](https://github.com/aws/aws-mwaa-local-runner) - Replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.
 - [The State of AWS Security](https://www.datadoghq.com/state-of-aws-security/) ([HN](https://news.ycombinator.com/item?id=33174046))
+- [aws4fetch](https://github.com/mhart/aws4fetch) - Compact AWS client for modern JS environments.

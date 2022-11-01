@@ -74,3 +74,4 @@
 - [VRS](https://github.com/facebookresearch/vrs) - File format optimized to record & playback streams of sensor data, such as images, audio samples, and any other discrete sensors (IMU, temperature, etc), stored in per-device streams of timestamped records.
 - ["AVIF: Creating a new image format in the open" by Jon Bauman (2022)](https://www.youtube.com/watch?v=BUkRlfkv2D8)
 - [Awesome Unique ID](https://github.com/grantcarthew/awesome-unique-id)
+- [Google explains why it's removing JPEG XL from the Chromium code base (2022)](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84) ([Lobsters](https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl)) ([HN](https://news.ycombinator.com/item?id=33399940))

@@ -262,6 +262,7 @@
 ## Chemistry
 
 - [ChemistryFeaturization.jl](https://github.com/Chemellia/ChemistryFeaturization.jl) - Interface for modular, flexible, invertible featurization of atomic structures for machine learning purposes.
+- [Xtal.jl](https://github.com/brainandforce/Xtal.jl) - Julia library for working with crystal structures and associated data with the goal of making theory development easier.
 
 ## Graphics
 
@@ -758,6 +759,8 @@
 - [BayesHistogram.jl](https://github.com/francescoalemanno/BayesHistogram.jl) - Optimal histogram binning based on piecewise constant model.
 - [ShortStrings](https://github.com/JuliaString/ShortStrings.jl) - Fast implementation of short strings of fixed size. Great for sorting and group-by operations.
 - [PkgCacheInspector](https://github.com/timholy/PkgCacheInspector.jl) - Inspect the contents of Julia package cache files.
+- [Ümlaut](https://github.com/dfdx/Umlaut.jl) - Code tracer for Julia. Trace the function execution, recording all primitive operations onto a linearized tape.
+- [Spark.jl](https://github.com/dfdx/Spark.jl) - Julia interface to Apache Spark.
 
 ## Links
 

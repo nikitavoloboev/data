@@ -195,6 +195,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Loris Cro](https://kristoff.it/)
 - [Alex Bespoyasov](https://bespoyasov.me/blog/)
 - [Lei Zhang](https://www.lei.chat/posts/)
+- [Gergo Erdi](https://gergo.erdi.hu/)
 
 ## Notes
 

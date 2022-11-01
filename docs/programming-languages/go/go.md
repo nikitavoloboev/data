@@ -884,3 +884,5 @@ if *boolArgPtr != false {
 - [No safe efficient ways to do three-way string comparisons in Go (2022)](https://go101.org/blog/2022-10-01-three-way-string-comparison.html) ([HN](https://news.ycombinator.com/item?id=33316402))
 - [Russ Cox - Compatibility: How Go Programs Keep Working (2022)](https://www.youtube.com/watch?v=v24wrd3RwGo)
 - [Goat](https://github.com/goatlang/goat) - Extended flavor of the Go programming language, aiming for increased value safety and maintainability.
+- [Using Go's runtime/cgo to pass values between C and Go (2022)](https://www.arsenm.dev/blog/runtime-cgo/)
+- [Golang Aha! Moments: Generics (2022)](https://openziti.io/golang-aha-moments-generics)

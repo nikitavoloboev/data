@@ -270,3 +270,5 @@ title: Spatial analysis
 - [On digital maps & consumerist city (2022)](https://eugenekudashev.com/blog/untitled-map-app)
 - [Some common geographic mental misplacements](https://storymaps.arcgis.com/stories/1e7f582d478a4b99bd0c70fffeac4c8b) ([HN](https://news.ycombinator.com/item?id=33387469))
 - [spatialmerge](https://github.com/chrispahm/spatialmerge) - Fast library for spatial joining and merging data in JavaScript.
+- [Topi Tjukanov](https://tjukanov.org/) - Experiments with points, lines & polygons.
+- [Maps with Blender](https://tjukanov.org/blender-maps)

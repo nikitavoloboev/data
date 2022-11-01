@@ -395,3 +395,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Synit](https://synit.org/book/introduction.html) - Applying pervasive reactivity and object capabilities to the System Layer of an operating system for personal computers.
 - [Multi-Kernel Drifting (2022)](https://luqman.ca/blog/multi-kernel-drifting/) ([HN](https://news.ycombinator.com/item?id=33337086))
 - [Things a modern OS should have](https://twitter.com/kocienda/status/1586828713492041728)
+- [AMD Hypervisor with Rust - Matthias Heiden (2022)](https://www.youtube.com/watch?v=7igpsgCZJY4)

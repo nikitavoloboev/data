@@ -463,3 +463,5 @@ title: PyTorch
 - [torch-scan](https://github.com/frgfm/torch-scan) - Seamless analysis of your PyTorch models (RAM usage, FLOPs, MACs, receptive field, etc.).
 - [Kernl](https://github.com/ELS-RD/kernl) - Lets you run PyTorch transformer models several times faster on GPU with a single line of code, and is designed to be easily hackable.
 - [Open MatSci ML Toolkit](https://github.com/IntelLabs/matsciml) - Single framework for prototyping and scaling out deep learning models for materials discovery, built on top of OpenCatalyst, PyTorch Lightning, and the Deep Graph Library.
+- [Torch-DCT](https://github.com/zh217/torch-dct) - DCT (discrete cosine transform) functions for PyTorch.
+- [MultiPy](https://github.com/pytorch/multipy) - C++ library that enables you to run eager mode PyTorch models in production without any modifications to your model to support tracing.

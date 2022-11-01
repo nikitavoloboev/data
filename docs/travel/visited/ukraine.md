@@ -176,3 +176,4 @@ On bright side, it does appear that Russia [fully lost out on its objectives in 
 - [I Visited Bucha Today (2022)](https://www.amazonredshiftresearchproject.org/slblog/index.html#butcha) ([HN](https://news.ycombinator.com/item?id=33028381))
 - [How does the Russo-Ukrainian War end? (2022)](https://snyder.substack.com/p/how-does-the-russo-ukrainian-war)
 - [Abandoned Russian base holds secrets of retreat in Ukraine (2022)](https://www.reuters.com/investigates/special-report/ukraine-crisis-russia-base/) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/ydwbpd/comment/itun2qu/?utm_source=reddit&utm_medium=web2x&context=3))
+- [Kyiv was the most magical city in Europe … and then the Russians bombed it (2022)](https://www.dailymaverick.co.za/article/2022-10-30-kyiv-was-the-most-magical-city-in-europe-and-then-the-russians-bombed-it/)

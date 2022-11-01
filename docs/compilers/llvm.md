@@ -140,3 +140,4 @@ title: LLVM
 - [LLVM Passes for Security: A Brief Introduction](https://elmanto.github.io/posts/llvm_for_security_1_4) ([Lobsters](https://lobste.rs/s/ijzsm1/llvm_passes_for_security_brief))
 - [Smaller debug info with constructor type homing (2021)](https://blog.llvm.org/posts/2021-04-05-constructor-homing-for-debug-info/)
 - [m2lang](https://github.com/redstar/m2lang) - LLVM-based Modula-2 compiler.
+- [O-MVLL](https://github.com/open-obfuscator/o-mvll) - LLVM-based obfuscator for native code (Android & iOS).

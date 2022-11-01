@@ -41,3 +41,4 @@ title: ActivityPub
 - [Presenting Activitypub-Rust crate from Lemmy](https://lemmy.ml/post/341718)
 - [openEngiadina: From ActivityPub to XMPP (2021)](https://inqlab.net/2021-11-12-openengiadina-from-activitypub-to-xmpp.html)
 - [General Python ActivityPub library](https://github.com/dsblank/activitypub)
+- [ActivityPub JS/TS models](https://github.com/activitypub-js/activitypub-models)

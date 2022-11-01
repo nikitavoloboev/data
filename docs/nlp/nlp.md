@@ -676,3 +676,5 @@
 - [Large Language Models Can Self-Improve (2022)](https://arxiv.org/abs/2210.11610)
 - [Everyprompt](https://www.everyprompt.com/) - Playground for GPT-3. ([Tweet](https://twitter.com/evanjconrad/status/1583538660489588737))
 - [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing (2021)](https://arxiv.org/abs/2107.13586) ([Tweet](https://twitter.com/DynamicWebPaige/status/1586745834787348480))
+- [Composable Text Controls in Latent Space with ODEs (2022)](https://arxiv.org/abs/2208.00638) ([Code](https://github.com/guangyliu/LatentOps))
+- [flashgeotext](https://github.com/iwpnd/flashgeotext) - Extract city and country mentions from Text like GeoText without regex, but FlashText, a Aho-Corasick implementation.

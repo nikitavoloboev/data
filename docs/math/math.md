@@ -411,3 +411,4 @@
 - [Algebra, Topology, Differential Calculus, and Optimization Theory](https://www.cis.upenn.edu/~jean/math-deep.pdf) ([HN](https://news.ycombinator.com/item?id=33256388))
 - [What is your favorite powerful result with a surprisingly simple proof? (2022)](https://www.reddit.com/r/math/comments/yatlyp/what_is_your_favorite_powerful_result_with_a/)
 - [Programming for Mathematicians 2022](https://www.youtube.com/playlist?list=PL7RZyOlq_XnyUAmcuMgmPTJTUc5NPKYK6)
+- [What is a math “fact” that is completely unintuitive to the average person?](https://www.reddit.com/r/math/comments/yictte/what_is_a_math_fact_that_is_completely/)

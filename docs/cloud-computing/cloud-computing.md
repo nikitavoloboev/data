@@ -138,3 +138,4 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Why we're leaving the cloud (2022)](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0) ([HN](https://news.ycombinator.com/item?id=33260061)) ([Lobsters](https://lobste.rs/s/9b0y0f/why_we_re_leaving_cloud)) ([Tweet](https://twitter.com/swardley/status/1583814169656459265))
 - [Leaving the Cloud (2022)](https://www.rework.fm/leaving-the-cloud/) ([HN](https://news.ycombinator.com/item?id=33301078))
 - [Heroku Free Alternatives](https://github.com/Engagespot/heroku-free-alternatives) ([HN](https://news.ycombinator.com/item?id=33300053))
+- [Approaches in Cloud Development Ergonomics (2022)](https://metalbear.co/blog/approaches-in-cloud-development-ergonomics/)

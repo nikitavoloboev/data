@@ -528,3 +528,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Hiding app name under notch for screenshots](https://twitter.com/emrecandesign/status/1580470144144244738)
 - [Storages](https://github.com/naru-jpn/Storages) - Browse local storages of your applications.
 - [Azule](https://github.com/Al4ise/Azule) - CLI tool used to inject iOS jailbreak tweaks into jailed iOS apps.
+- [Journey in iOS App Obfuscation (2022)](https://www.romainthomas.fr/post/22-08-ios-obfuscation/)

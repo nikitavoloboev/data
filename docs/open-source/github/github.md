@@ -48,7 +48,6 @@ I like to [make private contributions private on my profile](https://i.imgur.com
 
 ## Notes
 
-- Can append `#readme` to GitHub repo URL to jump to README of the repo.
 - Selecting some text in a GitHub comment and pressing `r` will make a reply of that text.
 - [GitHub jump](https://github.com/lox/alfred-github-jump) workflow is one of the best things you can install to navigate GitHub like a God.
   - I [slightly modified it](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to jump to different parts of the repo with modifiers like going to issues, releases, opening new issue or even cloning the repo instantly.
@@ -64,6 +63,8 @@ I like to [make private contributions private on my profile](https://i.imgur.com
 - [Pull request habit: Provide before and after screenshots in the pull request description](https://twitter.com/housecor/status/1463132466202488836)
 - [Replace github.com with github.dev in the URL to enjoy a much better PR reviewing experience](https://twitter.com/felixge/status/1468155086648061952)
 - [Before copy-pasting a GitHub source code link, especially one that links to a line or line range, hit `y` to make the URL include the current commit hash. That way the link will keep working even if the file is later changed or moved/deleted](https://twitter.com/jonhoo/status/1579177477628313600)
+- Can append `#readme` to GitHub repo URL to jump to README of the repo.
+- [Most efficient way of getting to know the language is using GitHub code search. Just type a function name with suffix `lang:go/zig` and you get real world usage.](https://news.ycombinator.com/item?id=33413714)
 
 ## Code
 

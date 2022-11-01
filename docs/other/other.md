@@ -687,3 +687,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [crowd.dev](https://www.crowd.dev/) - Community-led Growth Platform for Developer Tools. ([Code](https://github.com/CrowdDotDev/crowd.dev))
 - [Meme Time Machine](https://meme-time-machine.vercel.app/) ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/yg1d5f/i_made_a_website_that_lets_you_browse_memes/))
 - [Catppuccin Wallpapers](https://github.com/catppuccin/wallpapers) - Wallpapers to match your Catppuccin setups.
+- [Ayaka](https://github.com/Uni-Gal/Ayaka) - Visual novel engine written by Rust.

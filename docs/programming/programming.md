@@ -607,3 +607,4 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [Programming as play (2022)](https://austinhenley.com/blog/programmingasplay.html)
 - [On Coordinated Omission (2022)](https://resources.scylladb.com/scylladb-engineering/on-coordinated-omission)
 - [Refactor Like a Superhero Book (2022)](https://github.com/bespoyasov/refactor-like-a-superhero-online-book)
+- [Ask HN: What piece of code/codebase blew your mind when you saw it? (2022)](https://news.ycombinator.com/item?id=33413124)

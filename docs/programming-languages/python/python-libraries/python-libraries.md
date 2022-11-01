@@ -1027,6 +1027,8 @@
 - [blist](https://github.com/DanielStutzbach/blist) - List-like type with better asymptotic performance and similar performance on small lists.
 - [dbt-databend](https://github.com/silentsokolov/dbt-databend) - Databend plugin for dbt (data build tool).
 - [filetype.py](https://github.com/h2non/filetype.py) - Small, dependency-free, fast Python package to infer binary file types checking the magic numbers signature.
+- [Sonora](https://github.com/public/sonora) - gRPC-Web implementation for Python.
+- [aiochan](https://github.com/zh217/aiochan) - CSP-style concurrency for Python.
 
 ## Notes
 

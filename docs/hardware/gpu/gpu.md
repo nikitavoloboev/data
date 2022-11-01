@@ -126,6 +126,7 @@ title: GPU
 - [GeForce RTX 40 Series](https://www.nvidia.com/es-es/geforce/graphics-cards/40-series/) ([HN](https://news.ycombinator.com/item?id=32912953))
 - [Nvidia GPU exporter for Prometheus](https://github.com/utkuozdemir/nvidia_gpu_exporter)
 - [CoreWeave](https://coreweave.com/) - GPU Cloud.
-- [Banana](https://www.banana.dev/) - Machine Learning Model Deployment on Serverless GPUs. ([Twitter](https://twitter.com/BananaDev_))
+- [Banana](https://www.banana.dev/) - Machine Learning Model Deployment on Serverless GPUs. ([Twitter](https://twitter.com/BananaDev_)) ([GitHub](https://github.com/bananaml))
 - [Reverse Engineering a GPU from 2009 (2022)](https://garnet.codeberg.page/posts/gpu-reversing/)
 - [Crusoe Cloud GPU Pricing](https://crusoecloud.com/pricing/) ([Tweet](https://twitter.com/YousifAstar/status/1580657205308583936))
+- [LibVF.IO](https://github.com/Arc-Compute/LibVF.IO) - Vendor neutral GPU multiplexing tool driven by YAML & VFIO.

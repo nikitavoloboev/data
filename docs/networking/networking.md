@@ -536,3 +536,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [How to hide your IP address (2022)](https://educatedguesswork.org/posts/traffic-relaying/)
 - [CloudFront vs. Cloudflare, and how to reduce response times for both by ~35%+ (2022)](https://www.foxy.io/blog/cloudfront-vs-cloudflare-and-how-to-reduce-response-times-for-both-by-35/) ([HN](https://news.ycombinator.com/item?id=33275500))
 - [Wiring my home with fiber (2022)](https://sschueller.github.io/posts/wiring-a-home-with-fiber/) ([HN](https://news.ycombinator.com/item?id=33393540))
+- [hyperglass](https://hyperglass.dev/) - Network looking glass that tries to make the internet better. ([Code](https://github.com/thatmattlove/hyperglass))

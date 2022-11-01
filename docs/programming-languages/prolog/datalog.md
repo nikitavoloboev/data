@@ -38,3 +38,4 @@ title: Datalog
 - [Datalog in JavaScript (2022)](https://www.instantdb.dev/essays/datalogjs) ([HN](https://news.ycombinator.com/item?id=31154039))
 - [datalogJS](https://github.com/stopachka/datalogJS) - Simple Datalog query engine, implemented in 100 lines of JS.
 - [treeedb](https://github.com/langston-barrett/treeedb) - Generate Soufflé Datalog types, relations, and facts that represent ASTs from a variety of programming languages.
+- [cozo](https://github.com/cozodb/cozo) - General-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms.

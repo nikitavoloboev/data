@@ -4,6 +4,8 @@ title: Jupyter Notebooks
 
 # [Jupyter Notebooks](https://jupyter.org/)
 
+[Nebari](https://github.com/nebari-dev/nebari) is great.
+
 ## Extensions
 
 - [jupyter-scribe](https://github.com/jupytercalpoly/jupyterlab-richtext-mode) - Extension that transforms Markdown cells into rich text-editing cells, powered by ProseMirror.
@@ -227,3 +229,5 @@ title: Jupyter Notebooks
 - [Jupyter-KeepAlive](https://github.com/minrk/jupyter-keepalive) - Keep Jupyter servers alive.
 - [Jupyter Ascending](https://github.com/untitled-ai/jupyter_ascending) - Sync Jupyter Notebooks from any editor.
 - [Geometric Kernels](https://github.com/GPflow/GeometricKernels) - Geometric kernels on manifolds, meshes and graphs.
+- [Nebari](https://github.com/nebari-dev/nebari) - Automated data science platform. From JupyterHub to Cloud environments with Dask Gateway. ([Docs](https://www.nebari.dev/docs/welcome/))
+- [ipyobservable](https://github.com/davidbrochart/ipyobservable) - Jupyter widget for Observable.

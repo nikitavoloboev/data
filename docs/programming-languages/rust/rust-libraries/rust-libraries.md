@@ -2272,7 +2272,9 @@
 - [Chrono-TZ](https://github.com/chronotope/chrono-tz) - TimeZone implementations for rust-chrono from the IANA database.
 - [Jomini](https://github.com/rakaly/jomini) - Low level, performance oriented parser for save and game files from EU4, CK3, HOI4, Imperator, and other PDS titles.
 - [vsr-rs](https://github.com/penberg/vsr-rs) - Viewstamped Replication for Rust.
-- [async-backtrace](https://github.com/tokio-rs/async-backtrace) - Efficient, logical 'stack' traces of async functions.
+- [async-backtrace](https://github.com/tokio-rs/async-backtrace) - Efficient, logical 'stack' traces of async functions. ([Announcement](https://tokio.rs/blog/2022-10-announcing-async-backtrace))
+- [packed-encoder](https://github.com/Narasimha1997/packed-encoder) - Tiny rust crate that can be used to encode data of different types into a packed byte array which can be passed over network, system calls or FFI.
+- [hy-rs](https://github.com/StephanvanSchaik/hy-rs) - Unified and portable interface to the hypervisor APIs provided by various platforms.
 
 ## Cargo Plugins
 

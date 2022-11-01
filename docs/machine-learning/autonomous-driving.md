@@ -83,3 +83,6 @@
 - [Tesla Vision Update: Replacing Ultrasonic Sensors with Tesla Vision (2022)](https://www.tesla.com/support/transitioning-tesla-vision) ([HN](https://news.ycombinator.com/item?id=33086768))
 - [Towards End-to-End Lane Detection: an Instance Segmentation Approach (2022)](https://arxiv.org/abs/1802.05591) ([Code](https://github.com/MaybeShewill-CV/lanenet-lane-detection))
 - [Andrej Karpathy: Why Tesla Removed Radar and Ultrasonic Sensors (2022)](https://www.youtube.com/watch?v=_W1JBAfV4Io) ([HN](https://news.ycombinator.com/item?id=33397093))
+- [ACSC](https://github.com/HViktorTsoi/ACSC) - Automatic Calibration for Non-repetitive Scanning Solid-State LiDAR and Camera Systems.
+- [SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration) - Multi-sensor Calibration Toolbox for Autonomous Driving.
+- [Single-Shot is Enough: Panoramic Infrastructure Based Calibration of Multiple Cameras and 3D LiDARs](https://github.com/alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration)

@@ -80,3 +80,4 @@ title: DNA
 - [Quantum tunneling makes DNA more unstable (2022)](https://www.scientificamerican.com/article/quantum-tunneling-makes-dna-more-unstable/) ([HN](https://news.ycombinator.com/item?id=32925950))
 - [DHA: nature's favorite semiconductor (2020)](https://www.multiflora-herbs.com/blogs/news/dha-a-molecular-miracle)
 - [Quickdna](https://github.com/SecureDNA/quickdna) - Fast DNA manipulation for Rust and Python.
+- [RNA Sequencing - Your own pipeline from scratch (2022)](https://www.youtube.com/playlist?list=PLhR2Go-lh6X63hnyBzwWNvsaw1R79ESPI)

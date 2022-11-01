@@ -413,3 +413,4 @@ title: ML Libraries
 - [WTTE-RNN](https://github.com/ragulpr/wtte-rnn) - Framework for churn and time to event prediction.
 - [ONE](https://github.com/Samsung/ONE) - High-performance, on-device neural network inference framework.
 - [Neograd](https://github.com/pranftw/neograd) - Deep learning framework created from scratch with Python and NumPy.
+- [MMEval](https://github.com/open-mmlab/mmeval) - Unified and open cross-framework evaluation library.

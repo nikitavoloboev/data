@@ -218,3 +218,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [YuzukiLOHCC PRO](https://github.com/YuzukiHD/YuzukiLOHCC-PRO) - Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 & MS9332.
 - [Rust on Espressif chips (2022)](https://mabez.dev/blog/posts/esp-rust-17-10-2022/) ([HN](https://news.ycombinator.com/item?id=33311316))
 - [EspUp](https://github.com/esp-rs/espup) - Tool for installing and maintaining the required toolchains for developing applications in Rust for Espressif SoC's.
+- [Ledcat](https://github.com/polyfloyd/ledcat) - Simple utility that aims to provide a standard interface for driving LED-strips and such.

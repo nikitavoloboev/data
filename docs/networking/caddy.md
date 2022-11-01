@@ -70,3 +70,4 @@ title: Caddy
 - [Caddy Community](https://caddy.community/)
 - [Caddy Distribution Resources](https://github.com/caddyserver/dist) - Resources for packaging and distributing Caddy.
 - [Get HTTPS locally with Caddy](https://twitter.com/divyenduz/status/1580620290345693184)
+- [Tailscale Caddy plugin](https://github.com/tailscale/caddy-tailscale)

@@ -331,3 +331,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Inside the Proton (2022)](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/) ([HN](https://news.ycombinator.com/item?id=33262637))
 - [Protons and Charm Quarks: A Lesson From Virtual Particles (2022)](https://profmattstrassler.com/2022/09/09/protons-and-charm-quarks-a-lesson-from-virtual-particles/)
 - [Why is symmetry so important in particle physics? (2022)](https://mfaizan.github.io/2022/10/02/symmetry.html) ([HN](https://news.ycombinator.com/item?id=33400726))
+- [Modern day physicists are likely going to be in the history books 50 or 100 years from now (2022)](https://www.reddit.com/r/Physics/comments/yhvgow/what_modern_day_physicists_are_likely_going_to_be/)

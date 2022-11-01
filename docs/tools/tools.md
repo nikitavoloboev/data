@@ -256,6 +256,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Pace](https://pace.dev/) - Minimalist project management tool.
 - [QRImage](https://hughchen.github.io/qr_image/) - Web app to generate QR codes with images. ([Code](https://github.com/HughChen/qr_image)) ([HN](https://news.ycombinator.com/item?id=30162233))
 - [MUI Toolpad](https://github.com/mui/mui-toolpad) - Open source, Low-code internal tool builder.
+- [Pastebin in Rust](https://pb.mgt.moe/) ([Code](https://github.com/Enter-tainer/rspb))
 - [Pika](https://pika.rishimohan.me/) - Create beautiful screenshots quickly. ([Code](https://github.com/rishimohan/pika)) ([HN](https://news.ycombinator.com/item?id=30611657))
 - [Legend](https://legendapp.com/) ([HN](https://news.ycombinator.com/item?id=28447499))
 - [Meta Meme](https://metameme.app/) - Video and Image Meme Maker. ([HN](https://news.ycombinator.com/item?id=28329444))

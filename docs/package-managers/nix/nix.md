@@ -428,3 +428,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [How to correctly cache build-time dependencies using Nix (2022)](https://www.haskellforall.com/2022/10/how-to-correctly-cache-build-time.html)
 - [The windy path to fast, pain-free, reproducible developer environments (2022)](https://www.youtube.com/watch?v=Mx3yiE_CJOY)
 - [Nix Flakes: first steps (2022)](https://blog.kubukoz.com/flakes-first-steps/)
+- [Do you use Nix or equivalent to manage projects and/or systems? (2022)](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects)

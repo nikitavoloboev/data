@@ -252,7 +252,7 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Starcoin](https://github.com/starcoinorg/starcoin) - Layered Cryptocurrency and Decentralized Blockchain System.
 - [AirSwap](https://preview.airswap.io/#/) - Open developer community focused on decentralized trading systems. ([Code](https://github.com/airswap/airswap-web))
 - [Interchain Standards (ICS) for the Cosmos network & interchain ecosystem](https://github.com/cosmos/ibc)
-- [Nervos Network](https://www.nervos.org/) - Universal Passport to Blockchain. ([Twitter](https://twitter.com/NervosNetwork)) ([GitHub](https://github.com/nervosnetwork))
+- [Nervos Network](https://www.nervos.org/) - Universal Passport to Blockchain. ([Twitter](https://twitter.com/NervosNetwork)) ([GitHub](https://github.com/nervosnetwork)) ([Common Knowledge Base](https://github.com/nervosnetwork/ckb))
 - [Neuron](https://github.com/nervosnetwork/neuron) - Nervos CKB Full-Node Desktop Wallet.
 - [Optics](https://github.com/celo-org/optics-monorepo) - Cross-chain communication system. Handles passing raw buffers between blockchains cheaply, and with minimal fuss.
 - [DappTools Resources](https://github.com/rajivpo/awesome-dapptools)

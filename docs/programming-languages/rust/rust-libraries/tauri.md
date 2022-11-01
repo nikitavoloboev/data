@@ -12,6 +12,7 @@ title: Tauri
 - [SnipSnap](https://github.com/FarazPatankar/snip-snap) - Simple but powerful tool to make your screenshots prettier.
 - [Tauri Solid Example with Vite](https://github.com/lukethacoder/tauri-solid-example)
 - [Tauri + Vanilla](https://github.com/joepio/tauri-launcher)
+- [Tauri + ReScript + React](https://github.com/JonasKruckenberg/tauri-rescript-template)
 
 ## Links
 

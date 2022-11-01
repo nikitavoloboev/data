@@ -309,3 +309,4 @@ title: Svelte
 - [Lucia](https://github.com/pilcrowOnPaper/lucia-sveltekit) ([Reddit](https://www.reddit.com/r/sveltejs/comments/y3slnp/lucia_the_authentication_library_for_sveltekit/))
 - [Svelte-TailwindCSS UI](https://stwui.vercel.app/) - Opinionated yet customizable Svelte-TailwindCSS component library. ([Code](https://github.com/N00nDay/stwui))
 - [svelte-navlink-action](https://github.com/kwhitley/svelte-navlink-action) - Minimalist Svelte action to inject .active class in route-matched links.
+- [SvelteKit Cookie Manager](https://github.com/boxfish-studio/sveltekit-cookie-manager) - Easy-use Svelte package to help control the visitor's cookie consent.

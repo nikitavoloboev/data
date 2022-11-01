@@ -804,7 +804,7 @@
 - [Awesome Prompting Papers in Computer Vision](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision)
 - [EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation (2022)](https://arxiv.org/abs/2203.13254) ([Code](https://github.com/tjiiv-cprg/EPro-PnP))
 - [GenDR: A Generalized Differentiable Renderer (2022)](https://arxiv.org/abs/2204.13845) ([Code](https://github.com/Felix-Petersen/gendr))
-- [Elucidating the Design Space of Diffusion-Based Generative Models (2022)](https://arxiv.org/abs/2206.00364) ([Code](https://github.com/crowsonkb/k-diffusion))
+- [Elucidating the Design Space of Diffusion-Based Generative Models (2022)](https://arxiv.org/abs/2206.00364) ([Code](https://github.com/crowsonkb/k-diffusion)) ([Code](https://github.com/NVlabs/edm))
 - [IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images (2022)](https://kai-46.github.io/IRON-website/) ([Code](https://github.com/Kai-46/IRON))
 - [Omnivore: A Single Model for Many Visual Modalities (2022)](https://arxiv.org/abs/2201.08377) ([Code](https://github.com/facebookresearch/omnivore))
 - [Benchmarking and Analyzing Point Cloud Classification under Corruptions (2022)](https://arxiv.org/abs/2202.03377) ([Code](https://github.com/ldkong1205/PointCloud-C))
@@ -975,3 +975,4 @@
 - [Subspace Regularizers for Few-Shot Class Incremental Learning (2022)](https://arxiv.org/abs/2110.07059) ([Code](https://github.com/feyzaakyurek/subspace-reg))
 - [Exploring Long-Sequence Masked Autoencoders (2022)](https://arxiv.org/abs/2210.07224) ([Code](https://github.com/facebookresearch/long_seq_mae))
 - [Awesome 3D-aware Image Synthesis – Papers, Codes and Datasets](https://github.com/weihaox/awesome-3D-aware-synthesis)
+- [An Improved One millisecond Mobile Backbone (2021)](https://arxiv.org/abs/2206.04040) ([Code](https://github.com/apple/ml-mobileone))

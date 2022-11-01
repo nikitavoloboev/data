@@ -47,3 +47,4 @@ title: Unreal Engine
 - [Wonder Interactive's The Immersive Web will play Unreal 4 games on the web (2022)](https://venturebeat.com/games/wonder-interactives-the-immersive-web-will-play-unreal-4-games-on-the-web/)
 - [WONDER](https://www.theimmersiveweb.com/) - Building an all-in-one ecosystem for bringing your Unreal Engine apps to HTML5.
 - [Pixel Streaming Cloud Guide](https://github.com/TensorWorks/PixelStreamingCloudGuide)
+- [UE5 plugin with stable diffusion integration](https://github.com/albertotrunk/ue-stable-diffusion)
