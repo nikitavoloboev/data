@@ -591,3 +591,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [The Perfect Commit (2022)](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) ([Lobsters](https://lobste.rs/s/tgen6r/perfect_commit)) ([HN](https://news.ycombinator.com/item?id=33387855))
 - [git-ratchet](https://github.com/iangrunert/git-ratchet) - Tool for building ratcheted builds. Ratcheted builds are builds that go red when a given measure increases.
 - [DataLad](https://github.com/datalad/datalad) - Keep code, data, containers under control with git and git-annex.
+- [auto-commit](https://github.com/m1guelpf/auto-commit) - CLI tool that automatically writes commit messages for you. ([Tweet](https://twitter.com/m1guelpf/status/1587127315317723136))
