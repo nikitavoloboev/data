@@ -127,7 +127,7 @@ title: Erlang
 - [A Tour of Curve25519 in Erlang (2020)](https://research.nccgroup.com/wp-content/uploads/2020/02/A_Tour_of_Curve25519_in_Erlang-1.pdf) ([HN](https://news.ycombinator.com/item?id=29591882))
 - [Ram](https://github.com/ostinelli/ram) - In-memory distributed KV store for Erlang and Elixir.
 - [Thoas](https://github.com/lpil/thoas) - Blazing fast JSON parser and generator in pure Erlang.
-- [Why I Program in Erlang (2012)](https://www.evanmiller.org/why-i-program-in-erlang.html)
+- [Why I Program in Erlang (2012)](https://www.evanmiller.org/why-i-program-in-erlang.html) ([HN](https://news.ycombinator.com/item?id=33426041))
 - [Erlang/OTP profiling: fprof (2022)](https://medium.com/erlang-battleground/erlang-otp-profiling-fprof-b3a1b92e43e3)
 - [Erlang Patterns of Concurrency](https://github.com/duomark/epocxy)
 - [Beam Bloggers Webring](https://beambloggers.com/) - Webring for bloggers in the BEAM Ecosystem (Erlang, Elixir, Gleam, LFE, etc). ([Code](https://github.com/lawik/beambloggers))
@@ -169,3 +169,4 @@ title: Erlang
 - [Tree-sitter Grammar for Erlang](https://github.com/AbstractMachinesLab/tree-sitter-erlang)
 - [Hello, Erlang! Podcast](https://anchor.fm/helloerlang/)
 - [Zotonic with Marc Worrell](https://anchor.fm/helloerlang/episodes/Zotonic-with-Marc-Worrell-e1po1sj/a-a8ocvji)
+- [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)

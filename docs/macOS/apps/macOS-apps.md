@@ -21,7 +21,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Seashore](https://github.com/robaho/seashore) - Easy to use mac osx image editing application, gimp light.
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - MacOS/iOS apps to treat ideas as links of concepts.
 - [HotKey](https://github.com/soffes/HotKey) - Simple global shortcuts in macOS.
-- [Latest](https://github.com/mangerlahn/Latest) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+- [Latest](https://github.com/mangerlahn/Latest) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use. ([Web](https://max.codes/latest/))
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Ultra-light MacOS utility that helps hide menu bar icons. ([HN](https://news.ycombinator.com/item?id=21794858))
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [macos-key-cast](https://github.com/karaggeorge/macos-key-cast) - Log keys pressed on macOS. Useful for screen recordings and presentations.
@@ -163,6 +163,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [CutBox](https://cutbox.github.io/) - Makes your macOS pasteboard awesome. ([Code](https://github.com/cutbox/CutBox))
 - [Kyan Bar](https://github.com/kyan/kyan_bar) - Demo SwiftUI status bar app for macOS.
 - [UI Browser 4](https://github.com/alldritt/UIBrowser4) - Ultimate assistant for Apple’s Accessibility and AppleScript GUI Scripting technologies.
+- [Reminders Menu Bar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 
 ## Other interesting apps
 

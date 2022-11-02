@@ -137,3 +137,5 @@
 - [Linux NILFS file system: automatic continuous snapshots (2022)](https://dataswamp.org/~solene/2022-10-05-linux-nilfs-filesystem.html) ([HN](https://news.ycombinator.com/item?id=33162259))
 - [filesystem-rs](https://github.com/iredelmeier/filesystem-rs) - Real, fake, and mock implementations of file system operations.
 - [WebNative FileSystem (WNFS)](https://github.com/wnfs-wg/rs-wnfs) - Versioned content-addressable distributed filesystem with private and public sub systems.
+- [Webnative SDK](https://github.com/fission-codes/webnative) - SDK for building apps with decentralized identity and storage.
+- [Fission](https://fission.codes/) - Build the future of web apps at the edge.

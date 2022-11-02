@@ -1044,6 +1044,7 @@
 - [is-executable](https://github.com/sindresorhus/is-executable) - Check whether a file can be executed.
 - [uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences.
 - [JSON-URL](https://github.com/masotime/json-url) - Compress JSON into compact base64 URI-friendly notation.
+- [JSON-API-Serializer](https://github.com/danivek/json-api-serializer) - Node.js/browser framework agnostic library for serializing your data to JSON API compliant responses.
 
 ## Links
 

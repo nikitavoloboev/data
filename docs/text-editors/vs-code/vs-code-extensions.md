@@ -578,3 +578,4 @@ Below is a list of extensions I use.
 - [VSCode WASI](https://github.com/microsoft/vscode-wasi) - WASI implementation that uses VS Code's extension host as the implementing API.
 - [Complete Guide to VS Code Extension Testing (2022)](https://www.stateful.com/blog/a-complete-guide-to-vs-code-extension-testing)
 - [Modal Keybindings in VS Code](https://github.com/haberdashPI/vscode-modal-keys) - Extension for defining modal keybindings in VSCode.
+- [How to add Rust WASM to a VSCode web extension](https://github.com/SonOfLilit/vscode-web-wasm-rust)

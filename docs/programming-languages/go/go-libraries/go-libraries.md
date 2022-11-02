@@ -1864,6 +1864,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [messagediff](https://github.com/d4l3k/messagediff) - Library for doing diffs of arbitrary Go structs.
 - [Threads Helper](https://github.com/BlackpointCyber/threads) - Helper library for handling groups of threads easily.
 - [Jet](https://github.com/CloudyKit/jet) - Template engine developed to be easy to use, powerful, dynamic, yet secure and very fast.
+- [atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access.
 
 ## Links
 

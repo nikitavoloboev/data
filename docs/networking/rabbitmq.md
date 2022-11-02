@@ -40,3 +40,4 @@ title: RabbitMQ
 - [What I wish someone would have told me about using RabbitMQ (2020)](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/) ([HN](https://news.ycombinator.com/item?id=32091550))
 - [RabbitMQ in 100 Seconds](https://www.youtube.com/watch?v=NQ3fZtyXji0)
 - [How we built a multi-product SSO system with asynchronous messages using RabbitMQ (2022)](https://medium.com/wttj-tech/how-we-built-a-multi-product-sso-system-with-asynchronous-messages-using-rabbitmq-889fefba02b1)
+- [Go, RabbitMQ and gRPC Clean Architecture microservice](https://github.com/AleksK1NG/Go-gRPC-RabbitMQ-microservice)

@@ -279,6 +279,7 @@
 - [Yokoso](https://github.com/toshi0383/Yokoso) - Simple spotlight instruction framework for UIKit iOS.
 - [Parchment](https://github.com/k-kohey/Parchment-swift) - Event logger implemented in Swift.
 - [EZCustomNavigation](https://github.com/Enricoza/EZCustomNavigation) - Easy Custom Navigation Controller that allows popping view controllers with pan gesture from center too and UnPop them back in.
+- [ImageViewer.swift](https://github.com/michaelhenry/ImageViewer.swift) - Easy to use Image Viewer that is inspired by Facebook.
 
 ## macOS
 
@@ -1290,6 +1291,8 @@
 - [swift-index-store](https://github.com/lyft/swift-index-store) - Library to read from Swift / clang source code indexes.
 - [ULID.swift](https://github.com/yaslab/ULID.swift) - Universally Unique Lexicographically Sortable Identifier (ULID) in Swift.
 - [LongPressButton](https://github.com/danielctull-playground/LongPressButton)
+- [XConfigs](https://github.com/michaelhenry/XConfigs) - Quick, simple and stylish solution for your remote and dev configurations.
+- [Advanced ScrollView](https://github.com/dmytro-anokhin/advanced-scrollview) - Build advanced interactions with UIScrollView and NSScrollView in SwiftUI.
 
 ## Other (not lib)
 

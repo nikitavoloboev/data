@@ -1219,3 +1219,4 @@
 - [Musings on Python Type Hints (2022)](https://samgeo.codes/blog/python-types/)
 - [How to set up Python in 2022](https://gist.github.com/eyeseast/548fddcfd0df24e589375af6a926ef7e)
 - [nox-poetry](https://github.com/cjolowicz/nox-poetry) - Use Poetry inside Nox sessions.
+- [conda-store](https://github.com/Quansight/conda-store) - Serve identical conda environments in as many ways as possible to users and services.

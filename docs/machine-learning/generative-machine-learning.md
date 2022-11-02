@@ -134,3 +134,5 @@
 - [Invasive Diffusion: one unwilling illustrator found her turned into an AI model (2022)](https://waxy.org/2022/11/invasive-diffusion-how-one-unwilling-illustrator-found-herself-turned-into-an-ai-model/) ([HN](https://news.ycombinator.com/item?id=33422990))
 - [AI Horde](https://github.com/db0/AI-Horde) - Crowdsourced distributed cluster for AI art and text generation.
 - [Distributed Diffusion](https://github.com/chavinlo/distributed-diffusion) - Train a Stable Diffusion model over the internet with Hivemind.
+- [Unprompted for Stable Diffusion](https://github.com/ThereforeGames/unprompted) - Text generator written for Stable Diffusion workflows.
+- [Rise of generative AI will be comparable to the rise of CGI in the early 90s (2022)](https://sarharibhakti.substack.com/p/rise-of-generative-ai-will-be-comparable) ([HN](https://news.ycombinator.com/item?id=33429608))

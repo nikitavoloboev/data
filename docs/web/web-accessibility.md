@@ -114,3 +114,4 @@
 - [A details element as a burger menu is not accessible (2022)](https://cloudfour.com/thinks/a-details-element-as-a-burger-menu-is-not-accessible/)
 - [A Horizontal Scroll List and Custom Keyboard Navigation (2021)](https://ryanmulligan.dev/blog/project-keyboard-navigation/)
 - [Learn Accessibility](https://web.dev/learn/accessibility/)
+- [Aria-label is a code smell](https://ericwbailey.website/published/aria-label-is-a-code-smell/) ([HN](https://news.ycombinator.com/item?id=33409501))

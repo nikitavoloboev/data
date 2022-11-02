@@ -197,6 +197,7 @@
 - [TinyRoute](https://github.com/togglebyte/tinyroute) - Small networked message passing library.
 - [Async UI](https://github.com/wishawa/async_ui) - Lifetime-Friendly, Component-Based, Retained-Mode UI Powered by Async Rust. ([Article](https://wishawa.github.io/posts/async-ui-intro/)) ([HN](https://news.ycombinator.com/item?id=33089131))
 - [CustomElement](https://github.com/gbj/custom-elements) - Framework-agnostic CustomElement trait to create Rust/WASM Web Components/Custom Elements easily without writing any JavaScript.
+- [har-rs](https://github.com/mandrean/har-rs) - HTTP Archive format (HAR) serialization & deserialization library, written in Rust.
 
 ## Auth
 
@@ -448,6 +449,7 @@
 - [Frui](https://github.com/fruiframework/frui) - Developer-friendly UI framework that makes building user interfaces easy and productive. It's inspired by Flutter architecture and is written in Rust.
 - [Embedded Graphics Web Simulator](https://github.com/rahul-thakoor/embedded-graphics-web-simulator)
 - [Adaptive SPH](https://github.com/kaegi/adaptive-sph) - Fluid simulation with adaptive particle sizes.
+- [smaa-rs](https://github.com/fintelia/smaa-rs) - Post-process antialiasing for wgpu-rs, relying on the SMAA reference implementation.
 
 ## Games
 
@@ -2286,6 +2288,7 @@
 - [tachyonix](https://github.com/asynchronics/tachyonix) - Asynchronous, multi-producer, single-consumer (MPSC) bounded channel that operates at tachyonic speeds.
 - [Asynchronix](https://github.com/asynchronics/asynchronix) - High-performance asynchronous computation framework for system simulation.
 - [graphlib2](https://github.com/adriangb/graphlib2) - Rust port of Python stdlib's graphlib.
+- [ftlog](https://github.com/nonconvextech/ftlog) - Asynchronous logging library for high performance.
 
 ## Cargo Plugins
 
@@ -2556,3 +2559,4 @@
 - [Rust Web Framework Comparison](https://github.com/flosse/rust-web-framework-comparison) ([HN](https://news.ycombinator.com/item?id=33385148))
 - [Rust Template](https://github.com/paulrberg/rust-template) - Template for developing Rust projects, with sensible defaults.
 - [Rust Template by OKP4](https://github.com/okp4/template-rust)
+- [Workshop Repo: Microservice with Tokio and Rust](https://github.com/ddprrt/microservice-rust-workshop)

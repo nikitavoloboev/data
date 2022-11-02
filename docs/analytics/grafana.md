@@ -30,3 +30,5 @@ title: Grafana
 - [Autograf](https://github.com/FUSAKLA/autograf) - Dynamically generate Grafana dashboard based on Prometheus metrics.
 - [Terraform Provider for Grafana](https://github.com/grafana/terraform-provider-grafana)
 - [Dynamic Text Panel plugin for Grafana](https://github.com/VolkovLabs/volkovlabs-dynamictext-panel)
+- [Grafana Faro Web SDK](https://github.com/grafana/faro-web-sdk) - Instrument frontend JavaScript applications to collect telemetry and forward it to the Grafana Agent.
+- [Grafana Phlare](https://github.com/grafana/phlare) - Horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system.

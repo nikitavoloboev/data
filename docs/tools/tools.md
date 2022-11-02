@@ -555,7 +555,6 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [FullStory](https://www.fullstory.com/) - Intuitive digital experience analytics.
 - [Air](https://air.inc/) - Bring your team and content together in a space designed for visual work.
 - [Repren](https://github.com/jlevy/repren) - Simple but flexible command-line tool for rewriting file contents according to a set of regular expression patterns.
-- [SILE](https://github.com/sile-typesetter/sile) - Typesetting system; its job is to produce beautiful printed documents.
 - [CozyCal](https://www.cozycal.com) - Delightfully Simple Scheduling.
 - [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for pretty much anything.
 - [kache](https://github.com/kasvith/kache) - Simple in memory cache written using go.
@@ -774,3 +773,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Commsor](https://www.commsor.com/) - Complete platform for Community-Led companies. ([Twitter](https://twitter.com/Commsor))
 - [Low-code tools to build internal-facing tools](https://twitter.com/GergelyOrosz/status/1582133778478080000)
 - [Framestack](https://www.framestack.net/) - Discover tools & libraries to build your projects. ([Code](https://github.com/swve/framestack))
+- [Starling Developer Resources](https://github.com/starlingbank/developer-resources)

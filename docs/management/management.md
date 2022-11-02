@@ -218,3 +218,4 @@
 - [Valve Employee Handbook (2012)](https://cdn.cloudflare.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf) ([HN](https://news.ycombinator.com/item?id=33170988))
 - [Questions to ask before deciding to be a manager](https://twitter.com/clairejlew/status/1585689438922866707)
 - [Preparing technical feedback for Individual Contributors (2022)](https://terrty.net/2022/preparing-technical-feedback/)
+- [Annual Performance Reviews Ruin Everything (2022)](https://medium.com/@ElizAyer/annual-performance-reviews-ruin-everything-7464e07dff3a)

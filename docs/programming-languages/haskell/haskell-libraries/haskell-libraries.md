@@ -381,6 +381,7 @@
 - [mld](https://github.com/plt-amy/mld) - Experiment in compositional typings.
 - [tomland](https://github.com/kowainik/tomland) - Bidirectional TOML serialization.
 - [pqueue](https://github.com/lspitzner/pqueue) - Haskell priority queue package.
+- [Benign](https://github.com/aspiwack/haskell-benign) - Library for benign effects in Haskell.
 
 ## Notes
 

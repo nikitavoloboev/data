@@ -230,3 +230,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Music Player Daemon](https://www.musicpd.org/) - Daemon for playing music of various formats. ([Code](https://github.com/MusicPlayerDaemon/MPD))
 - [Bandsnatch](https://github.com/Ovyerus/bandsnatch) - CLI batch downloader for your Bandcamp collection.
 - [riffs](https://www.riffs.run/) - Search for a song and select start/end times to create a riff.
+- [Moe](https://github.com/MoeMusic/Moe) - Ultimate tool for managing your music.

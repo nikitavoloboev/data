@@ -978,3 +978,4 @@
 - [An Improved One millisecond Mobile Backbone (2021)](https://arxiv.org/abs/2206.04040) ([Code](https://github.com/apple/ml-mobileone))
 - [Fuzzy Metaballs: Approximate Differentiable Rendering with Algebraic Surfaces (2022)](https://leonidk.github.io/fuzzy-metaballs/) ([Code](https://github.com/leonidk/fuzzy-metaballs))
 - [Focal Modulation Networks (2022)](https://github.com/microsoft/FocalNet)
+- [Monocular Dynamic View Synthesis: A Reality Check (2022)](https://arxiv.org/abs/2210.13445) ([Code](https://github.com/KAIR-BAIR/dycheck))

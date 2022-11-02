@@ -54,3 +54,4 @@ title: Mastodon
 - [MastodonAgain](https://github.com/schwa/MastodonAgain) - Swift macOS app.
 - [A futuristic Mastodon introduction for 2021](https://wordsmith.social/elilla/a-futuristic-mastodon-introduction-for-2021)
 - [Explore - Mastodon](https://mastodon.social/explore)
+- [Taking a Look at Mastodon (2022)](https://evertpot.com/hello-mastodon/) ([HN](https://news.ycombinator.com/item?id=33426897))

@@ -9,7 +9,8 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 ## Example sites
 
 - [Taxonomy](https://github.com/shadcn/taxonomy) - Open source application built using the new router, server components and everything new in Next.js 13.
-- [NextJS + tRPC + TailwindCSS + TS + Prisma + NextAuth](https://github.com/t3-oss/create-t3-app)
+- [Create T3 App](https://github.com/t3-oss/create-t3-app) - NextJS + tRPC + TailwindCSS + TS + Prisma + NextAuth.
+- [Next 13 Pocketbase Demo](https://github.com/fireship-io/next13-pocketbase-demo)
 - [Dub](https://dub.sh/) - Open-Source Bitly Alternative. ([Code](https://github.com/steven-tey/dub)) ([HN](https://news.ycombinator.com/item?id=32939407)) ([Tweet](https://twitter.com/steventey/status/1572958186667233282))
 - [Next.js on Compute@Edge](https://github.com/fastly/next-compute-js)
 - [NextJS, Tailwind, TRPC, Prisma, and NextAuth Starter](https://github.com/copleykj/NextJS-Ultimate-Starter)

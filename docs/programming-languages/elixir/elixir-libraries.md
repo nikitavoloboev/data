@@ -116,6 +116,8 @@
 - [GQL](https://github.com/balexand/gql) - Simple GraphQL client for Elixir.
 - [Absinthe ErrorPayload](https://github.com/mirego/absinthe_error_payload) - Bridges the gap between Ecto and Absinthe for mutation payload.
 - [AbsintheClient](https://github.com/CargoSense/absinthe_client) - GraphQL client designed for Elixir Absinthe.
+- [AshGraphql](https://github.com/ash-project/ash_graphql) - Absinthe backed graphql API extension for the Ash Framework.
+- [AshThrift](https://github.com/arisechurch/ash_thrift) - Thrift extension for the Ash framework.
 
 ## Other
 

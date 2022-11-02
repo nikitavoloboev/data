@@ -151,3 +151,4 @@ title: Formal verification
 - ["Formal Modeling and Analysis of Distributed Systems" by Ankush Desai (2022)](https://www.youtube.com/watch?v=5YjsSDDWFDY)
 - [Keynote: Formal Methods at Microsoft - Nikolaj Bjørner (2022)](https://www.youtube.com/watch?v=GEsvGGp0jyQ)
 - [Obtaining Statistical Properties by Simulating Specs with TLC - Jack Vanlightly and Markus A. Kuppe (2022)](https://www.youtube.com/watch?v=cYenTPD7740&t=4s)
+- [Verifying GCC optimizations using an SMT solver (2022)](https://kristerw.github.io/2022/11/01/verifying-optimizations/)

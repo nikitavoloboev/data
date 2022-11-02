@@ -294,3 +294,4 @@ Hi<div>oh no break</div>
 - [Learn HTML](https://web.dev/learn/html/)
 - [Understanding HTML with Large Language Models (2022)](https://arxiv.org/abs/2210.03945) ([HN](https://news.ycombinator.com/item?id=33168043))
 - [domhandler](https://github.com/fb55/domhandler) - DOM handler creates a tree containing all nodes of a page.
+- [Satori HTML](https://github.com/natemoo-re/satori-html) - HTML adapter for Vercel's Satori.

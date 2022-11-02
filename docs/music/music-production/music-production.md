@@ -445,3 +445,6 @@
 - [MIDI-Emotion](https://github.com/serkansulun/midi-emotion) - Generates multi-instrument symbolic music (MIDI), based on user-provided emotions from valence-arousal plane.
 - [Audio-Plugin-Development-Resources](https://github.com/jareddrayton/Audio-Plugin-Development-Resources)
 - [Hyperstep](https://a-sumo.github.io/hyperstep/) - Volumetric audio visualizer. ([HN](https://news.ycombinator.com/item?id=33425159))
+- [My First Piano (2022)](https://www.jeromeleroy.com/complog-content/2022/10/31/my-first-piano-a-story-of-hurt-healing-and-joy) ([HN](https://news.ycombinator.com/item?id=33426879))
+- [MidiEditor](https://github.com/markusschwenk/midieditor) - Provides an interface to edit, record, and play Midi data.
+- [Automatic music mixing with deep learning and out-of-domain data (2022)](https://arxiv.org/abs/2208.11428) ([Code](https://github.com/sony/FxNorm-automix))

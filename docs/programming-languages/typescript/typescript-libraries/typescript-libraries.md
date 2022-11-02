@@ -656,6 +656,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [hkt Toolbet](https://github.com/poteat/hkt-toolbelt) - Functional and composable type utilities.
 - [Derive](https://github.com/shoooe/derive) - Library to derive a TypeScript type from another.
 - [uniorg](https://github.com/rasendubi/uniorg) - Accurate Org-mode parser.
+- [PushIn.js](https://github.com/nateplusplus/pushin) - Lightweight parallax effect, built with JavaScript, that simulates an interactive dolly-in or push-in animation on a webpage.
 
 ## Links
 

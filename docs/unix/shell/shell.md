@@ -255,3 +255,4 @@ All active variables can be seen by running `env`.
 - [Shell Script Best Practices, from a decade of scripting things (2022)](https://sharats.me/posts/shell-script-best-practices/) ([HN](https://news.ycombinator.com/item?id=33354286)) ([Lobsters](https://lobste.rs/s/knvmr1/shell_script_best_practices))
 - [Keyboard Shortcuts every Command Line Hacker should know about GNU Readline](https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline)
 - [Toy Shell](https://github.com/TaKO8Ki/toy-shell)
+- [hiSHtory](https://github.com/ddworken/hishtory) - Your shell history in context, synced, and queryable. ([HN](https://news.ycombinator.com/item?id=33428726))

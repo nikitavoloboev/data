@@ -307,7 +307,7 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Yet another explanation of C/C++ pointers (2022)](https://yurichev.com/news/20220212_C_ptrs/) ([Lobsters](https://lobste.rs/s/zf4umu/yet_another_explanation_c_c_pointers))
 - [Command Line Flags in C++ (2022)](https://blog.nickelp.ro/posts/min-guide-to-cli/)
 - [cpp_starter_project](https://github.com/cpp-best-practices/cpp_starter_project) - Template CMake project to get you started with C++ and tooling.
-- [Cache Associativity](https://en.algorithmica.org/hpc/cpu-cache/associativity/)
+- [Cache Associativity](https://en.algorithmica.org/hpc/cpu-cache/associativity/) ([HN](https://news.ycombinator.com/item?id=33427349))
 - [cgen](https://github.com/inducer/cgen) - C/C++ source generation from an AST.
 - [C++ Cheat Sheets](https://hackingcpp.com/cpp/cheat_sheets.html) ([HN](https://news.ycombinator.com/item?id=30579884))
 - [Current hardware trends make C++ exceptions harder to justify (2022)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2544r0.html) ([HN](https://news.ycombinator.com/item?id=30430784)) ([Lobsters](https://lobste.rs/s/lz7do9/p2544r0_c_exceptions_are_becoming_more))

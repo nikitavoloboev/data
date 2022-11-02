@@ -60,3 +60,4 @@ title: QUIC
 - [A look at QUIC use (2022)](https://blog.apnic.net/2022/07/11/a-look-at-quic-use/)
 - [XQUIC](https://github.com/alibaba/xquic) - Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.
 - [QUIC Is Not a TCP Replacement (2022)](https://systemsapproach.substack.com/p/quic-is-not-a-tcp-replacement)
+- [Comparing TCP and QUIC (2022)](https://www.potaroo.net/ispcol/2022-11/quicvtcp.html)

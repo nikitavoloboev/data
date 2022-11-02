@@ -196,6 +196,7 @@
 - [Application-as-a-Function Thinking (2022)](https://doridori.github.io/Architecture-Application-as-a-Function/) ([HN](https://news.ycombinator.com/item?id=33221780))
 - [Encapsulation in Functional Programming (2022)](https://blog.ploeh.dk/2022/10/24/encapsulation-in-functional-programming/) ([Lobsters](https://lobste.rs/s/bsd0ys/encapsulation_functional_programming))
 - [fp](https://github.com/japiirainen/fp) - Programming language inspired by the `fp` language described in the 1977 Turing Award lecture by John Backus. ([HN](https://news.ycombinator.com/item?id=33407830))
+- [Functional Programming Should Be the Future of Software Development (2022)](https://spectrum.ieee.org/functional-programming) ([HN](https://news.ycombinator.com/item?id=33433783))
 
 ## Images
 

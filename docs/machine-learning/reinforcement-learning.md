@@ -397,3 +397,4 @@ title: Reinforcement learning
 - [Hyperbolic Deep Reinforcement Learning (2022)](https://arxiv.org/abs/2210.01542) ([Code](https://github.com/twitter-research/hyperbolic-rl))
 - [Distributed training of language models with Reinforcement Learning via Human Feedback](https://github.com/CarperAI/trlx)
 - [Memory Maze](https://github.com/jurgisp/memory-maze) - Environment for evaluating long-term memory of RL agents.
+- [Awesome Reinforcement Learning Library](https://github.com/wwxFromTju/awesome-reinforcement-learning-lib)

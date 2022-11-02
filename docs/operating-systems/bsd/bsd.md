@@ -112,3 +112,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [OpenBSD Minimalist Desktop (2022)](https://nechtan.io/articles/openbsd_minimalist_desktop.html) ([HN](https://news.ycombinator.com/item?id=33231986))
 - [FreeBSD/Firecracker platform (2022)](https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html) ([HN](https://news.ycombinator.com/item?id=33243529))
 - [OpenBSD 7.2 (2022)](https://www.openbsd.org/72.html) ([HN](https://news.ycombinator.com/item?id=33274679))
+- [A few of my favourite things about the OpenBSD Packet Filter tools (2022)](https://blog.apnic.net/2022/11/02/openbsd-packet-filter-tools/)
