@@ -448,3 +448,4 @@
 - [My First Piano (2022)](https://www.jeromeleroy.com/complog-content/2022/10/31/my-first-piano-a-story-of-hurt-healing-and-joy) ([HN](https://news.ycombinator.com/item?id=33426879))
 - [MidiEditor](https://github.com/markusschwenk/midieditor) - Provides an interface to edit, record, and play Midi data.
 - [Automatic music mixing with deep learning and out-of-domain data (2022)](https://arxiv.org/abs/2208.11428) ([Code](https://github.com/sony/FxNorm-automix))
+- [Samples used in SuperDirt and the TidalCycles tutorials](https://github.com/tidalcycles/Dirt-Samples)

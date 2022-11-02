@@ -63,3 +63,5 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [What is the most immersive board game you know?](https://www.reddit.com/r/boardgames/comments/y4vu1m/what_is_the_most_immersive_boardgame_you_know/)
 - [Games you'd love to play, but probably never will (2022)](https://www.reddit.com/r/boardgames/comments/ya1fd3/games_youd_love_to_play_but_probably_never_will/)
 - [Picking your first board game (2022)](https://www.reddit.com/r/boardgames/comments/ygyloo/want_to_pick_my_first_boardgame_and_feeling/)
+- [CoOp games for two without much setup time (2022)](https://www.reddit.com/r/boardgames/comments/yk2ie4/coop_games_for_two_without_much_setup_time/)
+- [What game have you played for years, but every time you play it feels like a completely different experience? (2022)](https://www.reddit.com/r/boardgames/comments/yjlwpn/what_game_have_you_played_for_years_but_every/)

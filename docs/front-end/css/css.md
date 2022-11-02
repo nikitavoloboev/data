@@ -571,3 +571,4 @@ all: unset
 - [Let's Make One of Those Fancy Scrolling Animations Used on Apple Product Pages (2020)](https://css-tricks.com/lets-make-one-of-those-fancy-scrolling-animations-used-on-apple-product-pages/) ([Reddit](https://www.reddit.com/r/webdev/comments/y6b0av/how_is_this_animated_scrolling_behavior_made_what/))
 - [CSS reset for 2022 and beyond](https://github.com/mayank99/reset.css) ([Tweet](https://twitter.com/hi__mayank/status/1583948221587390464))
 - [CSS checkbox examples](https://getcssscan.com/css-checkboxes-examples) ([HN](https://news.ycombinator.com/item?id=33418445))
+- [typed-scss-modules](https://github.com/skovy/typed-scss-modules) - Generate type definitions (.d.ts) for CSS Modules using SCSS.

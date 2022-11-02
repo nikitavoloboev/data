@@ -31,3 +31,4 @@ title: Temporal
 - [Linking your Microservices with Workflows (2022)](https://www.youtube.com/watch?v=mAlkxjfeWYk)
 - [Temporal Go Project Template](https://github.com/temporalio/money-transfer-project-template-go)
 - [Temporal running on Render example](https://github.com/render-examples/temporal)
+- [Maru](https://github.com/temporalio/maru) - Temporal Load Simulator.

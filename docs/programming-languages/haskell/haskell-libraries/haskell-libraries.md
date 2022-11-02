@@ -95,6 +95,7 @@
 - [Easytensor](https://github.com/achirkin/easytensor) - Many-dimensional type-safe numeric ops.
 - [HLearn](https://github.com/mikeizbicki/HLearn) - Homomorphic machine learning.
 - [Vehicle](https://github.com/vehicle-lang/vehicle) - Toolkit for enforcing logical specifications on neural networks.
+- [Tensor Safe](https://github.com/leopiney/tensor-safe) - Haskell framework to define valid deep learning models and export them to other frameworks like TensorFlow JS or Keras.
 
 ## Math
 

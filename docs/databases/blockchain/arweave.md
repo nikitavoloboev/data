@@ -55,3 +55,4 @@ title: Arweave
 - [Arweave.news](https://arweave.news/)
 - [Full stack development with Arweave, Warp, and Next.js](https://github.com/dabit3/full-stack-warp-arweave) ([Article](https://dev.to/dabit3/building-full-stack-applications-with-arweave-and-nextjs-28hg))
 - [Arg8](https://github.com/textury/arg8) - Light incentivized gateway for the Arweave ecosystem.
+- [Arweave Lisbon (2022)](https://www.youtube.com/watch?v=LnUqh8NTOS4)

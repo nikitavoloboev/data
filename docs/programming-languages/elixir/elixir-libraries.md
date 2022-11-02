@@ -86,6 +86,7 @@
 - [Axon](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks. ([HN](https://news.ycombinator.com/item?id=26737956))
 - [Scholar](https://github.com/elixir-nx/scholar) - Machine learning tools built on top of Nx.
 - [Tensor](https://github.com/Qqwy/elixir-tensor) - Adds support for Vectors, Matrixes and higher-dimension Tensors to Elixir.
+- [Evision](https://github.com/cocoa-xu/evision) - OpenCV-Erlang/Elixir binding.
 
 ## CLI
 

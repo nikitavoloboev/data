@@ -71,3 +71,4 @@ title: WebGPU
 - [Perfecting WebGPU/Dawn native graphics for Zig (2022)](https://devlog.hexops.com/2022/perfecting-webgpu-native/) ([HN](https://news.ycombinator.com/item?id=32802302))
 - [Blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU.
 - [Typescript Type Definitions for WebGPU](https://github.com/gpuweb/types)
+- [FF GPU](https://github.com/framefactory/ff-gpu) - WebGPU tools and utilities in TS.

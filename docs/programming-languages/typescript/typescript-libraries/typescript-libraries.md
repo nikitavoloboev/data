@@ -90,11 +90,13 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Mastak](https://github.com/araekiel/mastak) - Automated, in-memory caching package for APIs.
 - [Inclusive Sort](https://github.com/tobyzerner/inclusive-sort) - Drag and drop sorting that just works – for everyone.
 - [itty-fetcher](https://github.com/kwhitley/itty-fetcher) - Even simpler wrapper around native Fetch to strip boilerplate from your fetching code.
+- [H0](https://github.com/noamr/h0) - Minimalistic Model-View library.
 
 ## GraphQL
 
 - [GraphQL Query Builder](https://github.com/atulmy/gql-query-builder) - Simple helper function to generate GraphQL queries using plain JavaScript Objects (JSON).
 - [Typed GraphQL Builder](https://github.com/typed-graphql-builder/typed-graphql-builder) - GraphQL query builder that replaces gql query strings or .graphql files in your code with pure TypeScript.
+- [dataloader-factory](https://github.com/txstate-etc/dataloader-factory) - DataLoader classes to make it easier to write complex GraphQL resolvers.
 
 ## Test
 

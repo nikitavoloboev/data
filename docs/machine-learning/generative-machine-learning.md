@@ -136,3 +136,4 @@
 - [Distributed Diffusion](https://github.com/chavinlo/distributed-diffusion) - Train a Stable Diffusion model over the internet with Hivemind.
 - [Unprompted for Stable Diffusion](https://github.com/ThereforeGames/unprompted) - Text generator written for Stable Diffusion workflows.
 - [Rise of generative AI will be comparable to the rise of CGI in the early 90s (2022)](https://sarharibhakti.substack.com/p/rise-of-generative-ai-will-be-comparable) ([HN](https://news.ycombinator.com/item?id=33429608))
+- [DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps (2022)](https://arxiv.org/abs/2206.00927) ([Code](https://github.com/LuChengTHU/dpm-solver))

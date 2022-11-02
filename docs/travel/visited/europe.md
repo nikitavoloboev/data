@@ -91,3 +91,4 @@ So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](unit
 - [Europe in Crisis with Lyn Alden (2022)](https://www.youtube.com/watch?v=2Vy7b98yqkQ)
 - [Where’s Europe’s Delaware? (2021)](https://europeanstraits.substack.com/p/wheres-europes-delaware)
 - [The Best European Corporate and Personal Tax Structures in 2022](https://jeangalea.com/low-tax-europe/)
+- [The Real Reason Europe Took Over the World (2022)](https://www.youtube.com/watch?v=9XECUXXbjhU)

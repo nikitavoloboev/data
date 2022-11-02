@@ -6,7 +6,7 @@ I try to not waste time and even block pages like Insights Traffic pane on GitHu
 
 Well implemented analytics together with proper logging/tracing should let you let you view user journeys of your app, which parts of the app are barely used and see how you can improve.
 
-[PostHog](https://github.com/PostHog/posthog) & [umami](https://umami.is/) seem nice for analytics. [Product Analytics from Scratch](https://tmfarrell.github.io/writing/2022/04/26/product_analytics_from_scratch/) is a nice read. [Databend](https://github.com/datafuselabs/databend) seems great for more serious data processing needs.
+[GoatCounter](https://www.goatcounter.com/), [PostHog](https://github.com/PostHog/posthog) & [umami](https://umami.is/) seem nice for analytics. [Product Analytics from Scratch](https://tmfarrell.github.io/writing/2022/04/26/product_analytics_from_scratch/) is a nice read. [Databend](https://github.com/datafuselabs/databend) seems great for more serious data processing needs.
 
 ## Notes
 
@@ -25,7 +25,7 @@ Well implemented analytics together with proper logging/tracing should let you l
 - [Metabase](https://www.metabase.com/) - Easy, open source way for everyone in your company to ask questions and learn from data. ([Code](https://github.com/metabase/metabase)) ([Binary deployment](https://github.com/metabase/metabase-deploy))
 - [OmniSci](https://www.omnisci.com/) - Interactively query, visualize, and power data science workflows over billions of records. ([1.1 Billion Taxi Rides using OmniSciDB and a MacBook Pro](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html))
 - [Freshlytics](https://github.com/sheshbabu/freshlytics) - Open source privacy-friendly analytics software. It aims to be reliable, friendly to use and easy to deploy.
-- [GoatCounter](https://www.goatcounter.com/) - Simple web statistics. No tracking of personal data. ([Code](https://github.com/zgoat/goatcounter))
+- [GoatCounter](https://www.goatcounter.com/) - Simple web statistics. No tracking of personal data. ([Code](https://github.com/arp242/goatcounter))
 - [MixPanel](https://mixpanel.com/) - Analyze user behavior across your sites and apps. Then send messages and run experiments from what you learned–all in Mixpanel.
 - [What is your preferred web traffic analytics platform? (2020)](https://lobste.rs/s/gzkue1/what_is_your_preferred_web_traffic)
 - [blackrock](https://github.com/rekki/blackrock) - Events & Analytics.

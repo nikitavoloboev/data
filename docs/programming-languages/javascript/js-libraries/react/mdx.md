@@ -45,3 +45,4 @@ title: MDX
 - [MDX Conf Discord](https://discord.gg/CYsM78ECQJ)
 - [Mint](https://github.com/mintlify/mint) - Build blazing fast, beautiful, and easy to maintain documentation with MDX.
 - [Intelligent TypeScript Code Blocks with MDX and Shiki Twoslash](https://www.with-heart.xyz/shiki-twoslash)
+- [Nextjs Image with mdx-bundler (2022)](https://www.skovy.dev/blog/nextjs-image-with-mdx-bundler?seed=8je45a)

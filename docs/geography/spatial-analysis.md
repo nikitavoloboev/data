@@ -274,3 +274,5 @@ title: Spatial analysis
 - [Maps with Blender](https://tjukanov.org/blender-maps)
 - [YAOM - Yet Another Open Map](https://yaom.org/) - Curated collection of authoritative and non-authoritative datasets in a OpenStreetMap-compatible format and data model.
 - [Pangeo](https://pangeo.io/) - Community platform for Big Data geoscience. ([Web Code](https://github.com/pangeo-data/pangeo))
+- [Machine Learning Aware Spatial Data Re-partitioning Framework for Spatial Datasets](https://github.com/kanchanchy/spatial-repartitioning-ml)
+- [GeoTorch](https://github.com/DataSystemsLab/GeoTorch) - Spatiotemporal Deep Learning Framework.

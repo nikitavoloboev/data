@@ -230,3 +230,4 @@ title: Generative adversarial networks
 - [Improving GAN Equilibrium by Raising Spatial Awareness (2022)](https://arxiv.org/abs/2112.00718) ([Code](https://github.com/genforce/eqgan-sa))
 - [ReSeFa: Region-Based Semantic Factorization in GANs (2022)](https://zhujiapeng.github.io/resefa/) ([Code](https://github.com/zhujiapeng/resefa))
 - [Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance (2022)](https://arxiv.org/abs/2210.05559) ([Code](https://github.com/ChenWu98/unified-generative-zoo))
+- [Drop the GAN: In Defense of Patches Nearest Neighbors as Single Image Generative Models (2021)](https://arxiv.org/abs/2103.15545v1) ([Code](https://github.com/iyttor/GPNN))

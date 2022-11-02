@@ -257,6 +257,7 @@
 - [Proletarian](https://github.com/msolli/proletarian) - Durable job queuing and worker system for Clojure backed by PostgreSQL.
 - [backtick](https://github.com/brandonbloom/backtick) - Clojure's syntax-quote reader macro as a normal macro.
 - [thrempl](https://github.com/liquidz/thrempl) - Simple template engine using threading macros.
+- [TOML](https://github.com/ilevd/toml) - Clojure TOML wrapper.
 
 ## Links
 

@@ -86,3 +86,4 @@ title: Protocol buffers
 - [cloudstd](https://github.com/slavovojacek/cloudstd) - Generate Protobuf service definitions conforming to popular design guides.
 - [pb-to-typescript](https://github.com/brandonxiang/pb-to-typescript) - Converter to transform from Protobuf to Typescript definition files.
 - [Blackbox Protobuf](https://github.com/nccgroup/blackboxprotobuf) - Tools for working with encoded Protocol Buffers (protobuf) without the matching protobuf definition.
+- [Buf Schema Registry Plugins](https://github.com/bufbuild/plugins)

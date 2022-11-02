@@ -724,6 +724,7 @@
 - [acid_io](https://github.com/dataphract/acid_io) - Rust I/O for no_std.
 - [esp-idf-hal](https://github.com/esp-rs/esp-idf-hal) - Embedded-hal implementation for Rust on ESP32 and ESP-IDF.
 - [rust_gpiozero](https://github.com/rahul-thakoor/rust_gpiozero) - Library inspired by gpiozero written in Rust.
+- [Birdcage](https://github.com/phylum-dev/birdcage) - Cross-platform embeddable sandboxing library allowing restrictions to Filesystem and Network operations using native operating system APIs.
 
 ## ML
 
@@ -2289,6 +2290,7 @@
 - [Asynchronix](https://github.com/asynchronics/asynchronix) - High-performance asynchronous computation framework for system simulation.
 - [graphlib2](https://github.com/adriangb/graphlib2) - Rust port of Python stdlib's graphlib.
 - [ftlog](https://github.com/nonconvextech/ftlog) - Asynchronous logging library for high performance.
+- [json_plus](https://github.com/rust-playground/json-plus) - JSON helper functions beyond Serialization & Deserialization such as diff, merge, ....
 
 ## Cargo Plugins
 

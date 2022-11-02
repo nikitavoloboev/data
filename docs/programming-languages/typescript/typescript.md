@@ -301,6 +301,7 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [Intermediate to Advanced TypeScript (2022)](https://tigerabrodi.blog/intermediate-to-advanced-typescript)
 - [stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker.
 - [transformer-query](https://github.com/SieR-VR/transformer-query) - Next-generation typescript transformer.
+- [TypeScript compiler PR to be implemented internally with modules](https://github.com/microsoft/TypeScript/pull/51387) ([HN](https://news.ycombinator.com/item?id=33440030))
 
 ## Images
 

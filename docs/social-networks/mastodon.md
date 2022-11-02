@@ -55,3 +55,5 @@ title: Mastodon
 - [A futuristic Mastodon introduction for 2021](https://wordsmith.social/elilla/a-futuristic-mastodon-introduction-for-2021)
 - [Explore - Mastodon](https://mastodon.social/explore)
 - [Taking a Look at Mastodon (2022)](https://evertpot.com/hello-mastodon/) ([HN](https://news.ycombinator.com/item?id=33426897))
+- [MastodonClient](https://github.com/Swiftodon/Mastodon.swift) - Swift / RxSwift / Moya / Gloss based API client for Mastodon instances.
+- [Leviathan](https://github.com/Swiftodon/Leviathan) - iOS and macOS client application for the Mastodon social network.

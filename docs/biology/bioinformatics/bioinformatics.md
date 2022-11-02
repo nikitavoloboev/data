@@ -248,3 +248,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [MICAN](https://github.com/ShintaroMinami/mican) - Non-sequential structural alignment program for protein structure.
 - [Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures (2022)](https://www.biorxiv.org/content/10.1101/2022.07.10.499510v5.abstract) ([Code](https://github.com/luost26/diffab))
 - [List of papers about Proteins Design using Deep Learning](https://github.com/Peldom/papers_for_protein_design_using_DL)
+- [ManyFold](https://github.com/instadeepai/manyfold) - Efficient and flexible library for training and validating protein folding models.

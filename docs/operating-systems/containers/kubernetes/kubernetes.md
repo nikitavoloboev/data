@@ -845,3 +845,4 @@ title: Kubernetes
 - [Herd Your Clusters Like Cattle: How We Automated our Clusters (2022)](https://jonnylangefeld.com/blog/herd-your-clusters-like-cattle)
 - [The Kubernetes Discovery Cache: Blessing and Curse (2022)](https://jonnylangefeld.com/blog/the-kubernetes-discovery-cache-blessing-and-curse)
 - [My Simple Kubernetes Setup for Side Projects (2022)](https://bas.codes/posts/simple-kubernetes)
+- [KubeTunnel](https://github.com/we-dcode/kubetunnel) - Develop locally while being connected to Kubernetes.

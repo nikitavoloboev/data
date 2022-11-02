@@ -6,6 +6,10 @@ title: Reactive programming
 
 [Hands-on Introduction to Fine-Grained Reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf) is great read.
 
+## Notes
+
+- [Event streams (like plain observables) emits values. Signals (and behavior subjects) have values. Queues (channels and some buffered and published observables) hold/store values. For example seminal paper on functional reactive programming defines two primitives- event streams and behaviors. They have different laws and this different capabilities. Queues are even more powerful but provide less guarantees.](https://www.reddit.com/r/reactjs/comments/yk6iy3/react_vdom_vs_preact_signal_performance_flame/)
+
 ## Links
 
 - [Introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)

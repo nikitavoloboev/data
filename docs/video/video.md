@@ -421,3 +421,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [imagorvideo](https://github.com/cshum/imagorvideo) - Video thumbnail server using RMSE in Go and ffmpeg C bindings.
 - [Screen Studio](https://www.screen.studio/) - Beautiful screen recordings in minutes.
 - [EVA](https://github.com/georgia-tech-db/eva) - Exploratory Video Analytics System.
+- [Booth](https://booth.video/) - Metadata-Secure Video Conferencing.

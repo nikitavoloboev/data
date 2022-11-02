@@ -396,3 +396,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Multi-Kernel Drifting (2022)](https://luqman.ca/blog/multi-kernel-drifting/) ([HN](https://news.ycombinator.com/item?id=33337086))
 - [Things a modern OS should have](https://twitter.com/kocienda/status/1586828713492041728)
 - [AMD Hypervisor with Rust - Matthias Heiden (2022)](https://www.youtube.com/watch?v=7igpsgCZJY4)
+- [Booting an Embedded OS: the Booting and U-Boot Phase (2022)](https://serhack.me/articles/os-embedded-booting-phase-uboot/)

@@ -415,3 +415,4 @@ title: ML Libraries
 - [Neograd](https://github.com/pranftw/neograd) - Deep learning framework created from scratch with Python and NumPy.
 - [MMEval](https://github.com/open-mmlab/mmeval) - Unified and open cross-framework evaluation library.
 - [cuda-convnet](https://github.com/mbrukman/cuda-convnet) - High-performance C++/CUDA implementation of abstract convolutional neural networks.
+- [Vectory](https://github.com/pentoai/vectory) - Collection of tools to track and compare embedding versions.

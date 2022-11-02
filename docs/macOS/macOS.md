@@ -302,3 +302,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Running Intel Binaries in Linux VMs with Rosetta](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta) ([HN](https://news.ycombinator.com/item?id=33338739))
 - [Quill](https://github.com/anchore/quill) - Simple mac binary signing from any platform.
 - [A tale of a simple Apple kernel bug (2022)](https://pwning.systems/posts/easy-apple-kernel-bug/)
+- [macOS notes](https://github.com/slavaim/mac-notes)

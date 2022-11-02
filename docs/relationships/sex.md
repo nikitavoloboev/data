@@ -129,3 +129,4 @@
 - [How in vitro fertilization (IVF) works](https://www.youtube.com/watch?v=P27waC05Hdk)
 - [Vasectomy Reversal vs Frozen - Feedback](https://www.reddit.com/r/Vasectomy/comments/xqe6lh/vasectomy_reversal_vs_frozen_feedback/)
 - [Ideas on foreplay hours before sex](https://www.reddit.com/r/sexover30/comments/y89snd/ideas_on_foreplay_hours_before_sex/)
+- [Vasectomies Wiki](https://www.reddit.com/r/sexover30/wiki/sexual_health/vasectomies/)

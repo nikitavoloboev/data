@@ -928,3 +928,4 @@ title: Rust
 - [Boxes, Heaps, and Stacks - Tim McNamara - Rust Linz (2022)](https://www.youtube.com/watch?v=DEE1GKMbtgw)
 - [MacroKata](https://tfpk.github.io/macrokata/) - Set of exercises which you can use to learn how to write macros in Rust. ([Code](https://github.com/tfpk/macrokata))
 - [Ownership as explained in the Rust book](https://www.reddit.com/r/rust/comments/yibdpi/ownership_as_explained_in_the_rust_book/)
+- [Rust Debugging Extensions](https://github.com/rust-lang/rust-dbg-ext)

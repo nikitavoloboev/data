@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Zdog](https://zzz.dog/) - Flat, round, designer-friendly pseudo-3D engine.
+- [Zdog](https://zzz.dog/) - Flat, round, designer-friendly pseudo-3D engine. ([React bindings](https://github.com/drcmda/react-zdog))
 - [Rough.js](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance. ([Web](https://roughjs.com/))
 - [SVG illustrations as React Components](https://blog.prototypr.io/svg-illustrations-as-react-components-f0e7be304eb6)
 - [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg) ([Lobsters](https://lobste.rs/s/luuqzc/svg_is_telescope_into_another_world))
@@ -174,3 +174,4 @@
 - [GIOSVG](https://github.com/inkeliz/giosvg) - SVG in Go.
 - [SVG text layout for Krita (2022)](https://wolthera.info/2022/10/svg-text-layout-for-krita/)
 - [occult](https://github.com/LoicGoulefert/occult) - vpype plug-in to remove occulted lines in SVG files.
+- [rasterize-svg](https://github.com/pmkroeker/rasterize-svg) - Rasterize SVG Elements for Download as PNG.

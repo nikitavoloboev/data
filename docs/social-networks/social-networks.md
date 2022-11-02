@@ -178,3 +178,4 @@ I think what Twitter is doing with [Bluesky](https://twitter.com/bluesky) is pre
 - [Due to social media people no longer want to go through the stages of life](https://twitter.com/NonhleBeryl/status/1579571242914713600)
 - [The AT Protocol - Bluesky](https://atproto.com/) - Networking technology created by Bluesky to power the next generation of social applications. ([Tweet](https://twitter.com/bluesky/status/1582437529969917953)) ([Article](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)) ([HN](https://news.ycombinator.com/item?id=33252108))
 - [Facebook was not originally created to be a company](https://twitter.com/amasad/status/1586757362114625538)
+- [Meower: Social Network for Cats](https://github.com/tinrab/meower) - Code for the Building a Microservices Application in Go Following the CQRS Pattern article.

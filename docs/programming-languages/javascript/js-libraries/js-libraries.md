@@ -1138,3 +1138,4 @@
 - [jsDelivr](https://www.jsdelivr.com/) - Free, fast, and reliable Open Source CDN for npm, GitHub, JavaScript, and ESM. ([Code](https://github.com/jsdelivr/jsdelivr))
 - [Prettier plugin sort imports](https://github.com/IanVS/prettier-plugin-sort-imports)
 - [clean-modules](https://github.com/duniul/clean-modules) - Clean up/prune unnecessary files and reduce the size of your node_modules directory.
+- [npmfs](https://github.com/g-harel/npmfs) - JS package inspector.

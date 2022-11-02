@@ -979,3 +979,6 @@
 - [Fuzzy Metaballs: Approximate Differentiable Rendering with Algebraic Surfaces (2022)](https://leonidk.github.io/fuzzy-metaballs/) ([Code](https://github.com/leonidk/fuzzy-metaballs))
 - [Focal Modulation Networks (2022)](https://github.com/microsoft/FocalNet)
 - [Monocular Dynamic View Synthesis: A Reality Check (2022)](https://arxiv.org/abs/2210.13445) ([Code](https://github.com/KAIR-BAIR/dycheck))
+- [Pose Recognition With Cascade Transformers (2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Pose_Recognition_With_Cascade_Transformers_CVPR_2021_paper.html) ([Code](https://github.com/mlpc-ucsd/PRTR))
+- [Terran](https://github.com/terran-project/terran) - Human perception library.
+- [Pento](https://www.pento.ai/) - Boost your business with computer vision. ([GitHub](https://github.com/pentoai))

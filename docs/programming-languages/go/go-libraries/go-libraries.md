@@ -1865,6 +1865,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Threads Helper](https://github.com/BlackpointCyber/threads) - Helper library for handling groups of threads easily.
 - [Jet](https://github.com/CloudyKit/jet) - Template engine developed to be easy to use, powerful, dynamic, yet secure and very fast.
 - [atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access.
+- [check](https://github.com/junk1tm/check) - Convenience helpers to perform validations of any kind.
+- [TOML](https://github.com/BurntSushi/toml) - TOML parser for Go with reflection.
 
 ## Links
 
@@ -2020,3 +2022,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [ORM vs SQL Builder in Go (2022)](https://www.reddit.com/r/golang/comments/y5obc7/orm_vs_sql_builder_in_go/)
 - [oa3](https://github.com/aarondl/oa3) - Generates HTTP endpoint stubs and supporting models from OpenAPI 3 specs.
 - [Top Go ORMs](https://github.com/d-tsuji/awesome-go-orms) - Most starred on GitHub.
+- [Go Vulnerability Management](https://github.com/golang/vuln)

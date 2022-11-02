@@ -596,3 +596,5 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Push-based outbox pattern with Postgres logical replication (2022)](https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/) ([HN](https://news.ycombinator.com/item?id=33370649))
 - [Building full-text-search over multiple tables in Postgres (2022)](https://twitter.com/kevcodez/status/1586681213242462208)
 - [Forcing Sequential Scans on PostgreSQL Using Large Integers (2022)](https://code.jeremyevans.net/2022-11-01-forcing-sequential-scans-on-postgresql.html)
+- [Data Loading in Postgres for Newbies (2022)](https://www.crunchydata.com/blog/data-loading-in-postgres-for-newbies)
+- [Postgres Databases and Schemas (2022)](https://www.crunchydata.com/blog/postgres-databases-and-schemas)

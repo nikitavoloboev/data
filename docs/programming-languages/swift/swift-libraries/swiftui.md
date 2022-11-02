@@ -260,3 +260,4 @@ title: SwiftUI
 - [Embracing Core Data In Swiftui (2022)](https://azamsharp.com/2022/10/11/embracing-core-data-in-swiftui.html)
 - [SwiftUI PropertyWrapper Talk](https://github.com/donnywals/SwiftUIPropertyWrapperTalk)
 - [UIKit Custom Annotation with Callout in SwiftUI (2022)](https://www.devtechie.com/community/public/posts/153857-uikit-custom-annotation-with-callout-in-swiftui)
+- [tundsdev - YouTube](https://www.youtube.com/c/tundsdev/videos) ([Code](https://github.com/tunds/YouTubeResources))

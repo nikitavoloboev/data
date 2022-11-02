@@ -26,6 +26,7 @@
 - [Apia](https://github.com/krystal/apia) - API framework for building a self-documenting HTTP API in any Ruby application (including Rails).
 - [Secure Headers](https://github.com/github/secure_headers) - Manages application of security headers with many safe defaults.
 - [Rack](https://github.com/rack/rack) - Modular Ruby web server interface.
+- [Phlex](https://github.com/joeldrapper/phlex) - Framework for building object-oriented views in Ruby.
 
 ## macOS
 

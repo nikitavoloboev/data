@@ -679,3 +679,4 @@
 - [Composable Text Controls in Latent Space with ODEs (2022)](https://arxiv.org/abs/2208.00638) ([Code](https://github.com/guangyliu/LatentOps))
 - [flashgeotext](https://github.com/iwpnd/flashgeotext) - Extract city and country mentions from Text like GeoText without regex, but FlashText, a Aho-Corasick implementation.
 - [lm-scorer](https://github.com/simonepri/lm-scorer) - Language Model based sentences scoring library.
+- [CodeT: Code Generation with Generated Tests](https://github.com/microsoft/CodeT)

@@ -122,7 +122,7 @@ title: Haskell
 - [Solutions to the Haskell Book exercises](https://github.com/kutyel/haskell-book) ([Solutions 2](https://github.com/yingw787/thehaskellbook))
 - [Runtime Support for Multicore Haskell](https://simonmar.github.io/bib/papers/multicore-ghc.pdf)
 - [GHC exercises](https://github.com/i-am-tom/haskell-exercises) - Little course to learn about some of the more obscure GHC extensions.
-- [Typing the technical interview (2017)](https://aphyr.com/posts/342-typing-the-technical-interview)
+- [Typing the technical interview (2017)](https://aphyr.com/posts/342-typing-the-technical-interview) ([HN](https://news.ycombinator.com/item?id=33438726))
 - [Aelve Guide | Haskell](https://guide.aelve.com/haskell) - Wiki-like guide to Haskell ecosystem and community.
 - [rien](https://github.com/mrkgnao/rien) - Predictable Haskell development environments with Cabal and Nix.
 - [Confessions of a Used Programming Language Salesman Getting the Masses Hooked on Haskell](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.868&rep=rep1&type=pdf)
