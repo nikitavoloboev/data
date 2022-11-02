@@ -2562,3 +2562,4 @@
 - [Rust Template](https://github.com/paulrberg/rust-template) - Template for developing Rust projects, with sensible defaults.
 - [Rust Template by OKP4](https://github.com/okp4/template-rust)
 - [Workshop Repo: Microservice with Tokio and Rust](https://github.com/ddprrt/microservice-rust-workshop)
+- [Using Rust as my Backend (2022)](https://www.reddit.com/r/rust/comments/yk9br7/using_rust_as_my_backend/)

@@ -249,3 +249,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures (2022)](https://www.biorxiv.org/content/10.1101/2022.07.10.499510v5.abstract) ([Code](https://github.com/luost26/diffab))
 - [List of papers about Proteins Design using Deep Learning](https://github.com/Peldom/papers_for_protein_design_using_DL)
 - [ManyFold](https://github.com/instadeepai/manyfold) - Efficient and flexible library for training and validating protein folding models.
+- [AlphaFold’s new rival? Meta AI predicts shape of 600M proteins (2022)](https://www.nature.com/articles/d41586-022-03539-1) ([HN](https://news.ycombinator.com/item?id=33433583))

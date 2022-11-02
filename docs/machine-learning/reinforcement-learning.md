@@ -398,3 +398,4 @@ title: Reinforcement learning
 - [Distributed training of language models with Reinforcement Learning via Human Feedback](https://github.com/CarperAI/trlx)
 - [Memory Maze](https://github.com/jurgisp/memory-maze) - Environment for evaluating long-term memory of RL agents.
 - [Awesome Reinforcement Learning Library](https://github.com/wwxFromTju/awesome-reinforcement-learning-lib)
+- [Reinforcement Learning Fundamentals - YouTube](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr) ([Tweet](https://twitter.com/DuaneJRich/status/1587452234127724545))
