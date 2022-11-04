@@ -229,3 +229,5 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [Ask HN: What social media site could replace Twitter? (2022)](https://news.ycombinator.com/item?id=33416498)
 - [Ask HN: How would you design an alternative Twitter (2022)](https://news.ycombinator.com/item?id=33419574)
 - [Tell HN: The issues of Twitter are not a technical problem to solve (2022)](https://news.ycombinator.com/item?id=33421489)
+- [From Google to Twitter (initial thoughts) (2022)](https://ma.nu/blog/from-google-to-twitter)
+- [Twittoons](https://twittoons.com/) - Cartoons about life at Twitter.

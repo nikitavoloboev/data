@@ -219,3 +219,4 @@
 - [Questions to ask before deciding to be a manager](https://twitter.com/clairejlew/status/1585689438922866707)
 - [Preparing technical feedback for Individual Contributors (2022)](https://terrty.net/2022/preparing-technical-feedback/)
 - [Annual Performance Reviews Ruin Everything (2022)](https://medium.com/@ElizAyer/annual-performance-reviews-ruin-everything-7464e07dff3a)
+- [Workday](https://www.workday.com/) - Global HR Management System.
