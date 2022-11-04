@@ -367,6 +367,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-http](https://github.com/openziti-test-kitchen/go-http) - Go HTTP Clients/Servers and Alternative Networking.
 - [gofetch](https://github.com/sidwebworks/gofetch-client) - Lightweight and productive http client for Go.
 - [TTL](https://github.com/devnw/ttl) - Time To Live Cache Implementation for Go.
+- [azugo](https://github.com/azugo/azugo) - Opinionated Go web framework based on fasthttp and inspired by go-chi.
 
 ## GraphQL
 

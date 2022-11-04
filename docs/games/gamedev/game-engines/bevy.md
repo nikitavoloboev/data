@@ -12,6 +12,8 @@ title: Bevy Engine
 - [Gardum](https://github.com/gardum-game/gardum) - Battle arena made with Bevy.
 - [Snake Game in Bevy](https://github.com/marcusbuffett/bevy_snake)
 - [Digital Extinction](https://github.com/DigitalExtinction/Game) - 3D RTS game implemented in Rust.
+- [Logic Voxels](https://github.com/mwbryant/logic_voxels) - Personal game project created with Bevy.
+- [Bevy Tower Defense Tutorial Game](https://github.com/mwbryant/bevy-tower-defense-tutorial)
 
 ## Links
 
