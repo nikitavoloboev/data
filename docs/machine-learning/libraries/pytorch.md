@@ -161,7 +161,7 @@ title: PyTorch
 - [PyTorch Loss Functions: Guide (2020)](https://neptune.ai/blog/pytorch-loss-functions)
 - [David's Tips on How to Read PyTorch](https://github.com/davidbau/how-to-read-pytorch)
 - [MeshCNN in PyTorch](https://github.com/ranahanocka/MeshCNN) - General-purpose deep neural network for 3D triangular meshes, which can be used for tasks such as 3D shape classification or segmentation.
-- [tinygrad](https://github.com/geohot/tinygrad) - Something in between a PyTorch and a karpathy/micrograd. ([tinygrad: tiny efficientnet is recognize cat?](https://www.youtube.com/watch?v=BFqQpBlkX74)) ([HN](https://news.ycombinator.com/item?id=30909719))
+- [Tinygrad](https://github.com/geohot/tinygrad) - Simple and powerful neural network framework. ([tinygrad: tiny efficientnet is recognize cat?](https://www.youtube.com/watch?v=BFqQpBlkX74)) ([HN](https://news.ycombinator.com/item?id=30909719)) ([Web](https://tinygrad.org/)) ([HN](https://news.ycombinator.com/item?id=33462337))
 - [Lucent](https://github.com/greentfrapp/lucent) - Lucid library adapted for PyTorch.
 - [pytorch-pfn-extras](https://github.com/pfnet/pytorch-pfn-extras) - Supplementary components to accelerate research and development in PyTorch.
 - [PyHessian](https://github.com/amirgholami/PyHessian) - PyTorch library for second-order based analysis and training of Neural Networks.
