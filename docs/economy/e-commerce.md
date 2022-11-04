@@ -175,3 +175,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [parcelLab](https://parcellab.com/) - Solve your Post-Purchase Experience.
 - [Metapack](https://www.metapack.com/) - Ecommerce Delivery Management Software.
 - [Spidey](https://github.com/tinrab/spidey) - Microservices and GraphQL based online store.
+- [Karma](https://www.karmanow.com/) - Best Coupons and Cash Rewards.

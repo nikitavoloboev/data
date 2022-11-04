@@ -1,5 +1,9 @@
 # CPU
 
+## Notes
+
+- [Math is often significantly faster than L1 cache hits, so memoization in many cases is actually a performance loss. Need to benchmark it though.](https://twitter.com/transitracer/status/1588316358303010816)
+
 ## Links
 
 - [RISC-V](https://riscv.org/) - Free and Open RISC Instruction Set Architecture.

@@ -130,3 +130,4 @@
 - [Vasectomy Reversal vs Frozen - Feedback](https://www.reddit.com/r/Vasectomy/comments/xqe6lh/vasectomy_reversal_vs_frozen_feedback/)
 - [Ideas on foreplay hours before sex](https://www.reddit.com/r/sexover30/comments/y89snd/ideas_on_foreplay_hours_before_sex/)
 - [Vasectomies Wiki](https://www.reddit.com/r/sexover30/wiki/sexual_health/vasectomies/)
+- [Why, in the last two centuries, have women become to be considered less sexual than men, if, throughout history, they were believed to have a much higher libido?](https://www.reddit.com/r/AskHistorians/comments/yl0uta/why_in_the_last_two_centuries_have_women_become/)

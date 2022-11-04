@@ -1,6 +1,6 @@
 # Game engines
 
-[Unreal Engine](unreal-engine.md), [Rapier](https://github.com/dimforge/rapier), [Ebiten](https://ebiten.org/) & [Mach](https://github.com/hexops/mach) are nice.
+[Bevy](bevy.md), [Unreal Engine](unreal-engine.md), [Rapier](https://github.com/dimforge/rapier), [Ebiten](https://ebiten.org/) & [Mach](https://github.com/hexops/mach) are nice.
 
 ## Interesting Engines
 

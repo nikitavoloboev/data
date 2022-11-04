@@ -68,3 +68,4 @@ title: Observability
 - [Open Data Discovery](https://opendatadiscovery.org/) - Open source data discovery and observability platform. ([HN](https://news.ycombinator.com/item?id=33297641))
 - [Best Practices for Observability, Metrics, Logging (2022)](https://www.reddit.com/r/ExperiencedDevs/comments/yb3cng/best_practices_for_observability_metrics_logging/)
 - [Orb](https://github.com/ns1labs/orb) - Cloud native orchestration platform for dynamic network observability. ([Web](https://orb.community/))
+- [Kosli](https://www.kosli.com/) - Track and query every change from commit through to production. ([GitHub](https://github.com/kosli-dev/)) ([CLI](https://github.com/kosli-dev/cli))

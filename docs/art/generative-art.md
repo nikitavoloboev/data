@@ -244,3 +244,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Pattern Maker AI](https://patternmakerai.com/) - Generate seamless patterns using artificial intelligence. ([Tweet](https://twitter.com/IgnasiTuduri/status/1586445167615438848))
 - [Qianqian Ye's Everyday Art Sketches](https://qianqian-ye.com/Everyday/) ([Code](https://github.com/Qianqianye/Everyday))
 - [Code as Creative Medium (2021)](https://mitpress.mit.edu/9780262542043/) ([Code](https://github.com/CodeAsCreativeMedium/exercises))
+- [genart.social](https://genart.social/about) - Home For Generative Artists.

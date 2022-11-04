@@ -210,3 +210,5 @@
 - [Memorial debate in C Eastern Europe](https://twitter.com/derJamesJackson/status/1566767599408582657)
 - [Baltic nations are not ‘former Soviet states’](https://twitter.com/BadBalticTakes/status/1567068576527355904)
 - [The Paranoia That Cost Hitler World War II | Warlords: Hitler vs Stalin | Timeline](https://www.youtube.com/watch?v=E2zrqzvtWio)
+- [The Present Past - YouTube](https://www.youtube.com/c/ThePresentPast_/videos)
+- [How Johnny Harris Rewrites History (2022)](https://www.youtube.com/watch?v=pAeoJVXrZo4)
