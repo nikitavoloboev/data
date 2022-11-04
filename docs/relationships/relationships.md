@@ -54,6 +54,8 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 
 [The grass is greener where you water it](https://www.reddit.com/r/Divorce/comments/qsdymo/the_grass_is_greener_where_you_water_it/). Say and show love to people you love. Sometimes, you have to know when to let go and quit.
 
+[The Proust Questionnaire](https://www.vanityfair.com/magazine/2000/01/proust-questionnaire) has nice questions to get to know a person.
+
 ## Notes
 
 - [All Too Well](https://www.youtube.com/watch?v=tollGa3S0o8) clip/film is a nice overview of narcissistic relationship.
@@ -290,3 +292,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [The Mono/Poly Paradox (2018)](https://www.multiamory.com/podcast/180-mono-poly)
 - [РАССТАВАНИЕ. Как решиться и как прожить боль, если меня бросили. Дружба между мужчиной и женщиной (2022)](https://www.youtube.com/watch?v=thNdT5dt4Xg)
 - [The Social Recession: By the Numbers (2022)](https://novum.substack.com/p/social-recession-by-the-numbers)
+- [Про расставания](https://www.instagram.com/tv/CkjAEM5Kk0m/)

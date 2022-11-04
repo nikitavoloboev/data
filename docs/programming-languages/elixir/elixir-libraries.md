@@ -69,6 +69,7 @@
 - [Fly Postgres](https://github.com/superfly/fly_postgres_elixir) - Library for working with local read-replica postgres databases and performing writes through RPC calls to other nodes in the primary Fly.io region.
 - [MyXQL](https://github.com/elixir-ecto/myxql) - MySQL 5.5+ driver for Elixir.
 - [Apq](https://github.com/maartenvanvliet/apq) - Support for Automatic Persisted Queries in Absinthe.
+- [Timescale](https://github.com/bitfo/timescale) - TimescaleDB made easy with Ecto.
 
 ## Test
 
@@ -274,3 +275,4 @@
 - [Safe Ecto Migrations](https://github.com/fly-apps/safe-ecto-migrations) - Non-exhaustive guide on common migration recipes and how to avoid trouble.
 - [GitHooks](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
 - [Introduction to Mix](https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
+- [Deploying Oban Pro/Web with Docker and Fly.io (2022)](https://davelucia.com/blog/deploying-oban-pro-with-docker-and-fly)

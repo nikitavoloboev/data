@@ -1867,6 +1867,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access.
 - [check](https://github.com/junk1tm/check) - Convenience helpers to perform validations of any kind.
 - [TOML](https://github.com/BurntSushi/toml) - TOML parser for Go with reflection.
+- [Sorted Set](https://github.com/wangjia184/sortedset) - Data-struct inspired by the one from Redis. It allows fast access by key or score.
 
 ## Links
 

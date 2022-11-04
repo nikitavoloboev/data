@@ -444,6 +444,7 @@
 - [tiny::optional](https://github.com/Sedeniono/tiny-optional) - Replacement for std::optional that does not unnecessarily waste memory.
 - [Terathon-Container-Library](https://github.com/EricLengyel/Terathon-Container-Library) - C++ containers for arrays, lists, maps, hash tables, trees, and graphs.
 - [STXXL](https://github.com/stxxl/stxxl) - Standard Template Library for Extra Large Data Sets.
+- [fast_log](https://github.com/nadavrot/fast_log) - Fast implementation of the natural logarithmic function.
 
 ## Links
 

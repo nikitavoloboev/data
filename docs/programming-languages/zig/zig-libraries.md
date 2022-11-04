@@ -8,6 +8,7 @@
 - [mibu](https://github.com/xyaman/mibu) - Pure Zig library for low-level terminal manipulation.
 - [zig-cli](https://github.com/sam701/zig-cli) - Simple package for building command line apps in Zig.
 - [zig-arg](https://github.com/PrajwalCH/zig-arg) - clap-rs inspired arg parser library for zig that supports both subcommand, nested subcommand and flag.
+- [ansi-term](https://github.com/ziglibs/ansi-term) - Zig library for dealing with ANSI terminals.
 
 ## Web
 

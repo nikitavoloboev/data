@@ -2563,3 +2563,4 @@
 - [Rust Template by OKP4](https://github.com/okp4/template-rust)
 - [Workshop Repo: Microservice with Tokio and Rust](https://github.com/ddprrt/microservice-rust-workshop)
 - [Using Rust as my Backend (2022)](https://www.reddit.com/r/rust/comments/yk9br7/using_rust_as_my_backend/)
+- [What crates are considered as de-facto standard? (2022)](https://www.reddit.com/r/rust/comments/ylp4nz/what_crates_are_considered_as_defacto_standard/)

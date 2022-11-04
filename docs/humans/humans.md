@@ -51,6 +51,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Donald Knuth on work habits, problem solving, and happiness (2020)](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/) ([HN](https://news.ycombinator.com/item?id=31482116))
 - [Olivia Cooke : What you don't know about me](https://www.youtube.com/watch?v=RRxEI8uucTo)
 - [Marc Andreessen on Elon Musk, how to think for yourself, good startup ideas and finding a co-founder (2022)](https://www.youtube.com/watch?v=Lp619Sl38eo)
+- [Jeremy Strong On "Armageddon Time," And What "Succession" Says About America (2022)](https://www.youtube.com/watch?v=hLfBNDyNyX4)
 
 ## Interesting bios
 

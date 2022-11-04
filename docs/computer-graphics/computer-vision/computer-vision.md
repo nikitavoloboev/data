@@ -982,3 +982,4 @@
 - [Pose Recognition With Cascade Transformers (2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Pose_Recognition_With_Cascade_Transformers_CVPR_2021_paper.html) ([Code](https://github.com/mlpc-ucsd/PRTR))
 - [Terran](https://github.com/terran-project/terran) - Human perception library.
 - [Pento](https://www.pento.ai/) - Boost your business with computer vision. ([GitHub](https://github.com/pentoai))
+- [HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields (2022)](https://arxiv.org/abs/2208.06787) ([Code](https://github.com/postech-ami/HDR-Plenoxels))

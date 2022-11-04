@@ -296,6 +296,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [The Dog Days Are Over - Florence](https://www.youtube.com/watch?v=0HuYEOO2r1g) ([Reddit](https://www.reddit.com/r/videos/comments/xfdlja/florence_and_the_machine_beautifully_serenading_a/))
 - [This is the Kit - Vitamins](https://www.youtube.com/watch?v=Ub8GecAbDEs)
 - [Lorde - Sober (Vevo x Lorde)](https://www.youtube.com/watch?v=sExX9XmTtbQ)
+- [Gruppa Skryptonite, Therr Maitz — Ты не верь слезам / LAB с Антоном Беляевым](https://www.youtube.com/watch?v=Mt03oEJ4WKw)
 
 ## Links
 

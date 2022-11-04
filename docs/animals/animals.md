@@ -5,6 +5,7 @@ I love all animals. And I am sad that some people decide to eat them and not [le
 ## Lovely animals
 
 - [Indian giant squirrel](https://twitter.com/obscure_otd/status/1520773905946136576)
+- [Hummingbirds](https://en.wikipedia.org/wiki/Hummingbird)
 - [Dogs](https://en.wikipedia.org/wiki/Dog)
 - [Cats](https://en.wikipedia.org/wiki/Cat)
   - [Ragamuffin](https://en.wikipedia.org/wiki/Ragamuffin_cat)

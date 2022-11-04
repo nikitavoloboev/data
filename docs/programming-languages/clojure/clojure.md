@@ -249,3 +249,4 @@ title: Clojure
 - [Clojure 15th Anniversary: A Retrospective (2022)](https://building.nubank.com.br/clojure-15th-anniversary-a-retrospective/) ([HN](https://news.ycombinator.com/item?id=33295217))
 - [Clojure Cheat sheets](https://jafingerhut.github.io/)
 - [Awesome Clojure](https://github.com/mbuczko/awesome-clojure)
+- [Knowledge Base - Clojure Goes Fast](http://clojure-goes-fast.com/kb/)

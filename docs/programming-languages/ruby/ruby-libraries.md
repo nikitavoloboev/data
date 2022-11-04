@@ -82,6 +82,7 @@
 - [Transactable](https://github.com/bkuhlmann/transactable) - DSL for transactional workflows built atop function composition.
 - [dry-schema](https://github.com/dry-rb/dry-schema) - Coercion and validation for data structures.
 - [oj](https://github.com/ohler55/oj) - Fast JSON parser and Object marshaller as a Ruby gem.
+- [iCalendar](https://github.com/icalendar/icalendar) - Internet calendaring, Ruby style.
 
 ## Links
 
