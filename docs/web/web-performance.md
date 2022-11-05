@@ -206,3 +206,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Cloudflare Pages gets even faster with Early Hints (2022)](https://blog.cloudflare.com/early-hints-on-cloudflare-pages/)
 - [Optimizing images with the HTML picture tag (2022)](https://jfhr.me/optimizing-images-with-the-html-picture-tag/) ([HN](https://news.ycombinator.com/item?id=33397054))
 - [Performance-Leaderboard](https://github.com/zachleat/performance-leaderboard) - Plugin to run Lighthouse against a set of urls to see which site is the fastest.
+- [When Network is Faster than Cache (2020)](https://simonhearne.com/2020/network-faster-than-cache/)
