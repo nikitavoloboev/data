@@ -92,3 +92,4 @@ Looking forward to when Apple will unveil their headset so I can start developin
 - [Wolvic](https://wolvic.org/en/) - Full-featured browser exclusively for standalone AR and VR headsets. ([Code](https://github.com/Igalia/wolvic))
 - [holovolo](https://holovolo.tv/) - Watch volumetric VR video on Quest 2 or WebVR. ([HN](https://news.ycombinator.com/item?id=33336627))
 - [Obscure technical VRChat knowledge](https://github.com/pema99/shader-knowledge)
+- [Ask HN: Working in a VR Headset? (2022)](https://news.ycombinator.com/item?id=33482215)
