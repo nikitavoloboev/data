@@ -1,15 +1,18 @@
 # Skin care
 
-Often times my skin care routine is just having a shower in morning or evening with a [moisturizer applied](https://instanatural.com/products/vitamin-c-moisturizer).
+My skin care routine is washing my face with water and [Essence Toner](https://www.koreanqueens.com/en/serums-essences/pyunkang-yul-essence-toner.html).
 
-When I go out for long times, especially when it's sunny, I apply [some sunscreen](https://instanatural.com/pages/vitamin-c-moisturizer-with-spf-30).
+When I go out, I apply [sunscreen](https://pyunkangyul.us/products/ato-mild-sun-cream-75ml).
 
-I try and never touch my face with dirty hands together with minimizing frowning. I am overall quite happy so that part is easy.
+Before sleep I apply [Moisture Ampoule](https://pyunkangyul.us/products/moisture-ampoule-100ml).
 
-- [Skin Care Addiction subreddit](https://www.reddit.com/r/SkincareAddiction/) is great to read.
+I try not to touch my face with dirty hands together with minimizing frowning and ideally sleeping on my back or side. I shower after any exercise I do.
+
+[Skin Care Addiction subreddit](https://www.reddit.com/r/SkincareAddiction/) is insightful.
 
 ## Interesting
 
+- [Toleriane Cleanser](https://www.laroche-posay.us/our-products/face/face-wash/toleriane-hydrating-gentle-facial-cleanser-tolerianehydratinggentlefacialcleanser.html)
 - [InstaNatural Vitamin C](https://www.reddit.com/r/SkincareAddiction/comments/snoem9/which_moisture_is_best_i_have_sensitive/)
 - [Aveeno Positively Radiant](https://www.reddit.com/r/SkincareAddiction/comments/snoem9/which_moisture_is_best_i_have_sensitive/)
 - [Ultra Calming Aveeno moisturizer](https://www.reddit.com/r/SkincareAddiction/comments/snoem9/which_moisture_is_best_i_have_sensitive/)
@@ -17,11 +20,14 @@ I try and never touch my face with dirty hands together with minimizing frowning
 - [Ultra Facial Overnight Hydrating Face Mask with 10.5% Squalane](https://www.kiehls.com/skincare/face-masks/ultra-facial-overnight-hydrating-face-mask-with-10.5%25-squalane/WW0187KIE.html)
 - [Kiehl's ultimate Brushless Shave Cream](https://www.amazon.co.uk/Ultimate-Brushless-Shave-Cream-Eagle/dp/B000S92RAY)
 - [Belei - Hydrating and Repairing After Sun Body Milk with Glycerin, Aloe Vera, Vitamin E and Panthenol](https://www.amazon.co.uk/dp/B08H99DDW1/ref=cm_sw_r_as_gl_api_gl_i_CS2SA52F6KSQDGQEQ455)
+- [Vitamin C Moisturizer](https://instanatural.com/products/vitamin-c-moisturizer)
 
 ## Notes
 
 - [Tanning is not good for your skin](https://www.youtube.com/watch?v=o9BqrSAHbTc).
 - [More water. More sleep. Less alcohol, less smoking, and less sugar. For most people that'd drop about ten years off of their visible age.](https://www.reddit.com/r/nutrition/comments/lksj1l/what_are_your_favorite_nutritional_tricks_for/)
+- [La roche posay toleraine cleansers are nice. If you have dry skin the hydrating one is amazing, and if you have oily skin, the purifying foaming one. If you have acne prone skin, the inkey list salicylic acid cleanser every other night will be highly effective.](https://www.reddit.com/r/SkincareAddiction/comments/um98eu/what_are_some_the_top_products_recommended_by/)
+- [Research has shown that order of application doesn’t matter as much as people think, except for sunscreen usage. Sun screen should be applied about 10 minutes before sun exposure. That includes prolonged exposure by windows, which most of the time do not filter UVA rays. The 10 minute window allows the sunscreen to set on your skin and create a protective barrier, even though the active ingredients are functional upon application. It should also be the last thing you apply before makeup if applicable, to disturb the barrier as little as possible.](https://www.reddit.com/r/SkincareAddiction/comments/ebhfgg/product_question_pyunkang_yul_moisture_ampoule/)
 
 ## Links
 
@@ -49,3 +55,7 @@ I try and never touch my face with dirty hands together with minimizing frowning
 - [Ask HN: Are You Wearing Sunscreen? (2022)](https://news.ycombinator.com/item?id=32378059)
 - [Sun screen is important](https://www.reddit.com/r/SkincareAddiction/comments/wmkq4l/will_sunscreen_really_make_much_of_a_difference/)
 - [Vitamin C + gentle exfoliation skin care routine](https://www.reddit.com/r/SkincareAddiction/comments/x56e7t/before_after_2_months_application_of_vitamin_c/)
+- [What moisturizer has helped your very dry skin? (2022)](https://www.reddit.com/r/SkincareAddiction/comments/xg4h7x/product_request_what_moisturizer_has_helped_your/)
+- [Is Pyunkang Yul Asian Fountain Of Youth?](https://www.youtube.com/watch?v=lgtuhzn4DVE)
+- [Pyunkang Yul: Ahead of the Trends?](https://www.youtube.com/watch?v=gA_V4UURTDA)
+- [Best and Worst of Pyunkang Yul?](https://www.reddit.com/r/AsianBeauty/comments/udh56t/discussion_best_and_worst_of_pyunkang_yul/)

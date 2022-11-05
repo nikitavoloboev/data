@@ -320,3 +320,4 @@
 - [Attention Is All You Need Paper Explained](https://www.explainpaper.com/papers/attention) ([Tweet](https://twitter.com/amanjha__/status/1579996516739010560))
 - [Neural Networks are Decision Trees (2022)](https://arxiv.org/abs/2210.05189) ([Tweet](https://twitter.com/mayfer/status/1580471657319518210))
 - [What Makes Convolutional Models Great on Long Sequence Modeling?](https://twitter.com/davisblalock/status/1586274303565189121)
+- [A Step by Step Backpropagation Example (2015)](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)

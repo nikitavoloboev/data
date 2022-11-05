@@ -62,3 +62,4 @@ title: Mastodon
 - [MastodonClient](https://github.com/Swiftodon/Mastodon.swift) - Swift / RxSwift / Moya / Gloss based API client for Mastodon instances.
 - [Leviathan](https://github.com/Swiftodon/Leviathan) - iOS and macOS client application for the Mastodon social network.
 - [It looks like I’m moving to Mastodon (2022)](https://simonwillison.net/2022/Nov/5/mastodon/) ([HN](https://news.ycombinator.com/item?id=33478570))
+- [Searchable List of Mastodon Servers](https://instances.social/) ([HN](https://news.ycombinator.com/item?id=33482976))

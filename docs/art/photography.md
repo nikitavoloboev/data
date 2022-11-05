@@ -243,3 +243,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Photopea](https://www.photopea.com/) - Online Photo Editor. ([HN](https://news.ycombinator.com/item?id=33334521))
 - [Classic 50mm “Normal” Lens (2022)](https://www.garyvoth.com/the-forgotten-lens/) ([HN](https://news.ycombinator.com/item?id=33394891))
 - [iPhone 14 Pro Camera Review: A Small Step, a Leap (2022)](https://lux.camera/iphone-14-pro-camera-review-a-small-step-a-huge-leap/) ([HN](https://news.ycombinator.com/item?id=33425182))
+- [What was the best move you made for your photography? (2022)](https://www.reddit.com/r/photography/comments/ymbafu/what_was_the_best_move_you_made_for_your/)
