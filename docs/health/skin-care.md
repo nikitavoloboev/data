@@ -1,12 +1,14 @@
 # Skin care
 
-My skin care routine is washing my face with water and [Essence Toner](https://pyunkangyul.us/products/essence-toner?_pos=1&_psq=essense&_ss=e&_v=1.0).
+My skin care routine is washing my face with water and [Essence Toner](https://pyunkangyul.us/products/essence-toner) in morning.
 
-When I go out, I apply [sunscreen](https://pyunkangyul.us/products/ato-mild-sun-cream-75ml).
+When I go out, I apply [sun cream](https://pyunkangyul.us/products/ato-mild-sun-cream-75ml).
 
 Before sleep I apply [Moisture Ampoule](https://pyunkangyul.us/products/moisture-ampoule-100ml).
 
 I try not to touch my face with dirty hands together with minimizing frowning and ideally sleeping on my back or side. I shower after any exercise I do.
+
+Occasionally applying [Nutrition cream](https://pyunkangyul.us/products/nutrition-cream-100ml) is supposedly useful too although doubt it's that useful if I am already doing above routine.
 
 [Skin Care Addiction subreddit](https://www.reddit.com/r/SkincareAddiction/) is insightful.
 

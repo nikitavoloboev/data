@@ -91,7 +91,7 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [FBPCS (Facebook Private Computation Service)](https://github.com/facebookresearch/FBPCS)
 - [Phantom Analyzer](https://usephantom.com/) - Simple, real-time website scanner to see trackers that collect info about you.
 - [PrivacyTools](https://www.privacytools.io/) - Encryption Against Global Mass Surveillance. ([Code](https://github.com/privacytools/privacytools.io))
-- [Safing](https://safing.io/) - Monitor All Network Activity. Block Mass Surveillance. ([Code](https://github.com/safing/portmaster))
+- [Safing](https://safing.io/) - Monitor All Network Activity. Block Mass Surveillance. ([Code](https://github.com/safing/portmaster)) ([HN](https://news.ycombinator.com/item?id=33481518))
 - [Getting more useful results with differential privacy (2021)](https://desfontain.es/privacy/more-useful-results-dp.html)
 - [Moving away from Google services, 8 years in (2021)](https://maximevaillancourt.com/blog/moving-away-from-google-services-8-years-in)
 - [Thinking about “traceability” (2021)](https://blog.cryptographyengineering.com/2021/08/01/thinking-about-traceability/) ([HN](https://news.ycombinator.com/item?id=28032523))

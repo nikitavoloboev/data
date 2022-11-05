@@ -197,6 +197,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Lei Zhang](https://www.lei.chat/posts/)
 - [Gergo Erdi](https://gergo.erdi.hu/)
 - [Max Bernstein](https://bernsteinbear.com/blog/)
+- [Stargirl Flowers](https://blog.thea.codes/)
 
 ## Notes
 

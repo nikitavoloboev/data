@@ -129,3 +129,4 @@ title: Electrical engineering
 - [TinyTapeout](https://mailchi.mp/574276e3c9d7/tinytapeout) - Educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip.
 - [Soldering Wires - Here's a Different Way : 6 Steps (with Pictures) (2022)](https://www.instructables.com/Soldering-Wires-Heres-a-Better-Way/)
 - [Schemdraw](https://github.com/RonSheely/schemdraw) - Python package for producing high-quality electrical circuit schematic diagrams.
+- [Using Python to vectorize artwork for PCBs (2022)](https://blog.thea.codes/raster-vectorization-with-python/)

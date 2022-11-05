@@ -134,3 +134,4 @@ title: Raspberry Pi
 - [Go-Pico](https://github.com/djthorpe/go-pico) - Raspberry Pi RP2040 Pico SDK for Go.
 - [The Raspberry Pi 400 in My Bedroom (2022)](https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html) ([HN](https://news.ycombinator.com/item?id=33302748))
 - [I finally found a use case for my Raspberry Pi Model B+ (2022)](https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/) ([HN](https://news.ycombinator.com/item?id=33416894))
+- [Creating a pick and place control board with the RP2040 (2022)](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040/) ([HN](https://news.ycombinator.com/item?id=33483141))
