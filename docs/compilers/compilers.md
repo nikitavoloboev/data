@@ -256,3 +256,4 @@
 - [A look across the pond: a comparison between GHC and Racket compilation models (2022)](https://www.youtube.com/watch?v=H0ATppFmt2o)
 - [Allocation Removal in the Toy Optimizer (2022)](https://www.pypy.org/posts/2022/10/toy-optimizer-allocation-removal.html)
 - [Compilers and IRs: LLVM IR, SPIR-V, and MLIR (2021)](https://www.lei.chat/posts/compilers-and-irs-llvm-ir-spirv-and-mlir/) ([HN](https://news.ycombinator.com/item?id=33387149))
+- [Writing a symbolizer for the Cinder JIT (2022)](https://bernsteinbear.com/blog/cinder-jit-symbolizer/)

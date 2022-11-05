@@ -470,3 +470,5 @@ title: Haskell
 - [Haskell Error Index](https://errors.haskell.org/) - Community-driven web site for improving the documentation of Haskell tooling. ([Announce](https://discourse.haskell.org/t/announcing-the-haskell-error-index/5195))
 - [ghc-nix](https://github.com/matthewbauer/ghc-nix) - Exploring the options for incremental Haskell builds using Nix.
 - [Data validation in Haskell with newtypes, smart constructors, and aeson (2022)](https://www.dylanamartin.com/2022/10/31/use-newtypes-for-typesafe-data-validation-with-aeson.html)
+- [Binary Packet Parsing (2022)](https://mmhaskell.com/blog/2022/10/31/binary-packet-parsing)
+- [Monday Morning Haskell](https://mmhaskell.com/) ([YouTube](https://www.youtube.com/channel/UChXjh9JgFQMQQPf4u5hFgiA/videos))

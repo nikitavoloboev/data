@@ -572,3 +572,4 @@ all: unset
 - [CSS reset for 2022 and beyond](https://github.com/mayank99/reset.css) ([Tweet](https://twitter.com/hi__mayank/status/1583948221587390464))
 - [CSS checkbox examples](https://getcssscan.com/css-checkboxes-examples) ([HN](https://news.ycombinator.com/item?id=33418445))
 - [typed-scss-modules](https://github.com/skovy/typed-scss-modules) - Generate type definitions (.d.ts) for CSS Modules using SCSS.
+- [The New CSS Media Query Range Syntax (2022)](https://css-tricks.com/the-new-css-media-query-range-syntax/)

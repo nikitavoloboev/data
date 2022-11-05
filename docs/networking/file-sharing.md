@@ -130,3 +130,4 @@
 - [Quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
 - [mscp](https://github.com/upa/mscp) - Variant of scp, copies files over multiple ssh (sftp) sessions.
 - [Teleporter](https://github.com/genonullfree/teleporter) - Small utility in the vein of netcat to send files quickly from point A to point B.
+- [How do you sync code between personal machines? (2022)](https://lobste.rs/s/ookgy7/how_do_you_sync_code_between_personal)

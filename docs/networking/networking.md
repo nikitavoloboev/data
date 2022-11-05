@@ -539,3 +539,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [hyperglass](https://hyperglass.dev/) - Network looking glass that tries to make the internet better. ([Code](https://github.com/thatmattlove/hyperglass))
 - [Blip](https://github.com/apenwarr/blip) - Tool for seeing your internet latency. ([HN](https://news.ycombinator.com/item?id=33445178))
 - [IP2Location Node.js Module](https://github.com/ip2location/ip2location-nodejs) - Knowing where your visitors from.
+- [Submarine Cable Map](https://www.submarinecablemap.com/)

@@ -599,3 +599,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Data Loading in Postgres for Newbies (2022)](https://www.crunchydata.com/blog/data-loading-in-postgres-for-newbies)
 - [Postgres Databases and Schemas (2022)](https://www.crunchydata.com/blog/postgres-databases-and-schemas)
 - [pisk](https://github.com/patrkris/pisk) - PostgreSQL Sessions in Vim. ([HN](https://news.ycombinator.com/item?id=33449475))
+- [Things I learned at PGConf.EU 2022](https://domm.plix.at/perl/2022_10_things_i_learned_at_pgconfeu.html)

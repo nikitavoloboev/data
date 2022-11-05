@@ -433,3 +433,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Collection of meeting notes for the Nixpkgs Architecture Team](https://github.com/nixpkgs-architecture/meetings)
 - [Use cases for Nix (2022)](https://blog.mads-hartmann.com/2022/10/18/use-cases-for-nix.html)
 - [Why Nix is interesting (2022)](https://blog.mads-hartmann.com/2022/11/02/why-nix-is-interesting.html)
+- [Nix (on Nix and Docker and build and packaging systems) (2022)](https://whynowtech.substack.com/p/nix)

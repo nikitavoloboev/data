@@ -930,3 +930,6 @@ title: Rust
 - [Ownership as explained in the Rust book](https://www.reddit.com/r/rust/comments/yibdpi/ownership_as_explained_in_the_rust_book/)
 - [Rust Debugging Extensions](https://github.com/rust-lang/rust-dbg-ext)
 - [Rust language book interactive](https://rust-book.cs.brown.edu/)
+- [Rust 1.65.0 (2022)](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html) ([HN](https://news.ycombinator.com/item?id=33451359)) ([Lobsters](https://lobste.rs/s/qojcz4/announcing_rust_1_65_0))
+- [New diagram-based explanation of Rust/C++20 atomic orderings](https://sabrinajewson.org/rust-nomicon/atomics/atomics.html)
+- [Scoped threads in Rust, and why its async counterpart would be unsound (2022)](https://wishawa.github.io/posts/thread-scoped-async/)
