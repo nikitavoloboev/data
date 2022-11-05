@@ -2291,6 +2291,7 @@
 - [graphlib2](https://github.com/adriangb/graphlib2) - Rust port of Python stdlib's graphlib.
 - [ftlog](https://github.com/nonconvextech/ftlog) - Asynchronous logging library for high performance.
 - [json_plus](https://github.com/rust-playground/json-plus) - JSON helper functions beyond Serialization & Deserialization such as diff, merge, ....
+- [sitemap](https://github.com/svmk/rust-sitemap) - Sitemap library for Rust.
 
 ## Cargo Plugins
 

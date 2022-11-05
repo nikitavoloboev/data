@@ -706,3 +706,4 @@ Ethereum is a virtual machine built using a blockchain (spread around many clien
 - [Optimizor Club SQRT challenge](https://github.com/OptimizorClub/sqrt_foundry_template) - Foundry template for the Optimizor Club SQRT challenge.
 - [Awesome wagmi](https://github.com/wagmi-dev/awesome-wagmi)
 - [DAI Teleport](https://github.com/makerdao/dss-teleport) - Facility allows users to fast teleport DAI between "domains", i.e. different chains that have a settlement mechanism with Ethereum L1.
+- [Super Liquidator](https://github.com/jtriley-eth/super-liquidator)

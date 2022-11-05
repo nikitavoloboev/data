@@ -627,3 +627,4 @@ title: Linux
 - [Writing systemd units that stop gracefully before shutdown (2022)](https://www.psdn.io/posts/systemd-shutdown-unit/) ([HN](https://news.ycombinator.com/item?id=33345867))
 - [LURE](https://github.com/Arsen6331/lure) - Intended to bring the AUR to all distros.
 - [Flexo](https://github.com/nroi/flexo) - Caching proxy for pacman, the package manager of Arch Linux.
+- [Ultimate list of Linux bash commands](https://github.com/trinib/Linux-Bash-Commands)

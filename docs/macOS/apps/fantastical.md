@@ -10,7 +10,7 @@ I always view my events from `Week` view & have 7 days in view with 18 hours sho
 
 I often switch between `Week` and `Month` views.
 
-[Amie](https://www.amie.so/) is nice too.
+[Cron](https://cron.com/) & [Amie](https://www.amie.so/) are nice too.
 
 ## Notes
 
