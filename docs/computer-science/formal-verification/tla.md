@@ -61,3 +61,4 @@ title: TLA+
 - [Using TLA+ to understand Xen vchan (2019)](http://roscidus.com/blog/blog/2019/01/01/using-tla-plus-to-understand-xen-vchan/) ([Code](https://github.com/talex5/spec-vchan))
 - [VSCode TLA+](https://github.com/tlaplus/vscode-tlaplus)
 - [Tree-sitter grammar for TLA+](https://github.com/tlaplus-community/tree-sitter-tlaplus)
+- [ewd998](https://github.com/tlaplus-workshops/ewd998) - Distributed termination detection on a ring, due to Shmuel Safra.

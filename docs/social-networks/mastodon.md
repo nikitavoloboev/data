@@ -12,6 +12,10 @@ title: Mastodon
 - [botsin.space](https://botsin.space/about) - Mastodon instance for bots and bot allies.
 - [crimew.gay](https://crimew.gay/about)
 
+## Notes
+
+- [Every Mastodon profile is an RSS feed if you add .rss to the end of it.](https://twitter.com/simonw/status/1588772203742769152)
+
 ## Links
 
 - [don](https://github.com/deoxxa/don) - Less than half of mastodon.
@@ -57,3 +61,4 @@ title: Mastodon
 - [Taking a Look at Mastodon (2022)](https://evertpot.com/hello-mastodon/) ([HN](https://news.ycombinator.com/item?id=33426897))
 - [MastodonClient](https://github.com/Swiftodon/Mastodon.swift) - Swift / RxSwift / Moya / Gloss based API client for Mastodon instances.
 - [Leviathan](https://github.com/Swiftodon/Leviathan) - iOS and macOS client application for the Mastodon social network.
+- [It looks like I’m moving to Mastodon (2022)](https://simonwillison.net/2022/Nov/5/mastodon/) ([HN](https://news.ycombinator.com/item?id=33478570))

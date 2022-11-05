@@ -1,5 +1,7 @@
 # Pricing
 
+Like tools that [let you try the app without being forced to pay first](https://twitter.com/ben_issen/status/1588842302919045121).
+
 ## Nice pricing pages
 
 - [Fathom](https://app.usefathom.com/register)

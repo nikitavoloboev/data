@@ -439,7 +439,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: What Lived Up to the Hype? (2020)](https://news.ycombinator.com/item?id=25525457)
 - [Inside the Whale: An Interview with an Anonymous Amazonian (2020)](https://logicmag.io/commons/inside-the-whale-an-interview-with-an-anonymous-amazonian/)
 - [Looking Glass Factory](https://lookingglassfactory.com/) - World's Leading Holographic Display.
-- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) ([HN](https://news.ycombinator.com/item?id=25550685))
+- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) ([HN](https://news.ycombinator.com/item?id=25550685)) ([Tweet](https://twitter.com/emollick/status/1588691459741745153))
 - [Dark Mountain Manifesto](https://dark-mountain.net/)
 - [10 significant lies you're told about the world: On startups, writing, and your career (2021)](https://twitter.com/Julian/status/1348001394104537089)
 - [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS.
@@ -688,3 +688,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Meme Time Machine](https://meme-time-machine.vercel.app/) ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/yg1d5f/i_made_a_website_that_lets_you_browse_memes/))
 - [Catppuccin Wallpapers](https://github.com/catppuccin/wallpapers) - Wallpapers to match your Catppuccin setups.
 - [Ayaka](https://github.com/Uni-Gal/Ayaka) - Visual novel engine written by Rust.
+- [Moco Museum](https://mocomuseum.com/)

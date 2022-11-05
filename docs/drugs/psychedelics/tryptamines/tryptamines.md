@@ -52,3 +52,4 @@ This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/
 - [Psilocybin induces rapid and persistent growth of dendritic spines in frontal cortex in vivo (2021)](https://www.biorxiv.org/content/10.1101/2021.02.17.431629v1)
 - [Differences between 4-AcO-DMT and psilocybin (2021)](https://www.reddit.com/r/AskDrugNerds/comments/ofwtnd/differences_between_4acodmt_and_psilocybin/)
 - [A personal story of treating social anxiety with 5-MeO-DMT (2016)](https://psychedelictimes.com/nuclear-option-personal-story-of-treating-social-anxiety-with-5-meo-dmt/) ([HN](https://news.ycombinator.com/item?id=27804513))
+- [Psilomethoxin: molecular hybrid of psilocin and 5-MeO-DMT](https://twitter.com/alieninsect/status/1588773778171244544)

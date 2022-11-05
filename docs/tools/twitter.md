@@ -232,3 +232,4 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [From Google to Twitter (2022)](https://ma.nu/blog/from-google-to-twitter) ([HN](https://news.ycombinator.com/item?id=33473249))
 - [Twittoons](https://twittoons.com/) - Cartoons about life at Twitter.
 - [Publish Twitter Archive Site](https://github.com/siakaramalegos/pesos-tweets-11ty)
+- [Janky Twitter replacement](https://github.com/diracdeltas/tweets) ([Tweet](https://twitter.com/bcrypt/status/1588416861552582657))

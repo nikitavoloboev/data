@@ -31,7 +31,7 @@
 - [Seam-aware Decimater](https://github.com/songrun/SeamAwareDecimater) - Mesh simplification with UV's boundary preserved.
 - [dechroma (2020)](https://flak.tedunangst.com/post/dechroma)
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
-- [BlurHash](https://blurha.sh/) - Compact representation of a placeholder for an image. ([Code](https://github.com/woltapp/blurhash))
+- [BlurHash](https://blurha.sh/) - Compact representation of a placeholder for an image. ([Code](https://github.com/woltapp/blurhash)) ([HN](https://news.ycombinator.com/item?id=33460670))
 - [imgproxy](https://imgproxy.net/) - Fast and secure on-the-fly image processing. ([[Code](https://github.com/imgproxy/imgproxy)])
 - [GPR (General Purpose Raw image format)](https://github.com/gopro/gpr) - 12-bit raw image coding format that is based on Adobe DNG standard.
 - [photon](https://github.com/silvia-odwyer/photon) - Rust/WebAssembly image processing library.

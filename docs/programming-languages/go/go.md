@@ -888,3 +888,4 @@ if *boolArgPtr != false {
 - [Golang Aha! Moments: Generics (2022)](https://openziti.io/golang-aha-moments-generics)
 - [Size visualization of Go executables using D3](https://github.com/knz/go-binsize-viz)
 - [The Problem with Go (2022)](https://vanitynotes.com/posts/20221101-the-real-problem-with-go) ([HN](https://news.ycombinator.com/item?id=33439021))
+- [Thread-Local State in Go (2022)](https://puzpuzpuz.dev/thread-local-state-in-go-huh)

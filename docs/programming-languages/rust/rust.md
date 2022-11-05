@@ -929,3 +929,4 @@ title: Rust
 - [MacroKata](https://tfpk.github.io/macrokata/) - Set of exercises which you can use to learn how to write macros in Rust. ([Code](https://github.com/tfpk/macrokata))
 - [Ownership as explained in the Rust book](https://www.reddit.com/r/rust/comments/yibdpi/ownership_as_explained_in_the_rust_book/)
 - [Rust Debugging Extensions](https://github.com/rust-lang/rust-dbg-ext)
+- [Rust language book interactive](https://rust-book.cs.brown.edu/)

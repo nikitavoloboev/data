@@ -165,3 +165,4 @@
 - [Where can I live on $300 a week? (2022)](https://www.reddit.com/r/digitalnomad/comments/y1iqxy/where_can_i_live_on_300_a_week/)
 - [How to do async communication well](https://twitter.com/amix3k/status/1580108423378919425)
 - [Ask HN: Why don't I see gold at the end of the remote working rainbow? (2022)](https://news.ycombinator.com/item?id=33259351)
+- [Making remote company culture more lively](https://twitter.com/ShaanVP/status/1588589924072443904)

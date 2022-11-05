@@ -40,3 +40,4 @@
 - [Ask HN: Contractors, what is your hourly rate? (2022)](https://news.ycombinator.com/item?id=32606348)
 - [Poll: Contractors, what is your hourly rate (2022)](https://news.ycombinator.com/item?id=32606904)
 - [Ask HN: Where are the good platforms for contract work? (2022)](https://news.ycombinator.com/item?id=32837800)
+- [instaprice](https://instaprice.app/) - Freelance quotes calculator.

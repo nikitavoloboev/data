@@ -846,3 +846,4 @@ title: Kubernetes
 - [The Kubernetes Discovery Cache: Blessing and Curse (2022)](https://jonnylangefeld.com/blog/the-kubernetes-discovery-cache-blessing-and-curse)
 - [My Simple Kubernetes Setup for Side Projects (2022)](https://bas.codes/posts/simple-kubernetes)
 - [KubeTunnel](https://github.com/we-dcode/kubetunnel) - Develop locally while being connected to Kubernetes.
+- [Solving common problems with Kubernetes (2022)](https://blog.adamchalmers.com/kubernetes-problems/) ([HN](https://blog.adamchalmers.com/kubernetes-problems/))

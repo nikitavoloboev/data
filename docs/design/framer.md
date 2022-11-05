@@ -34,3 +34,4 @@ title: Framer
 - [Rebuilding Linear's website with Framer (2022)](https://www.youtube.com/watch?v=DDcabIxHmhM)
 - [Framer Tutorial: CMS Filtering](https://www.youtube.com/watch?v=Gpl-CqJ8k_Q)
 - [Craft cutting-edge UIs with Framer Motion](https://samselikoff.com/framer-motion-course)
+- [Proof](https://visual.systems/proof) - Minimal portfolio website template made for Framer.

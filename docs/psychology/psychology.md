@@ -52,3 +52,4 @@
 - [Людмила Петрановская: «Это история про отрезание обратных связей» (2022)](https://www.youtube.com/watch?v=UN529dZLQE8)
 - [Statistical "Which Character" Personality Quiz](https://openpsychometrics.org/tests/characters/) ([Tweet](https://twitter.com/dan_abramov/status/1523104608973103104)) ([Tweet](https://twitter.com/CaseyLucas/status/1522453652882874368))
 - [Narcissism is rampant, so how do we address it?](https://integritytalk.substack.com/p/the-eternal-battle-for-social-influence?s=r) ([HN](https://news.ycombinator.com/item?id=31440284))
+- [10 инсайтов после года личной терапии](https://twitter.com/sheremyova/status/1588842429171773441)

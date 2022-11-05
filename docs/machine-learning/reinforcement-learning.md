@@ -399,3 +399,4 @@ title: Reinforcement learning
 - [Memory Maze](https://github.com/jurgisp/memory-maze) - Environment for evaluating long-term memory of RL agents.
 - [Awesome Reinforcement Learning Library](https://github.com/wwxFromTju/awesome-reinforcement-learning-lib)
 - [Reinforcement Learning Fundamentals - YouTube](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr) ([Tweet](https://twitter.com/DuaneJRich/status/1587452234127724545))
+- [AI Learns to Play CS:Go via Large-Scale Behavioural Cloning (2021)](https://arxiv.org/abs/2104.04258) ([HN](https://news.ycombinator.com/item?id=33466255))

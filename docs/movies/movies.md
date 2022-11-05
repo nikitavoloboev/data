@@ -147,3 +147,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Your top 3 favorite movies of all time](https://www.reddit.com/r/MovieSuggestions/comments/y7e4c3/your_top_3_favorite_movies_of_all_time_go/)
 - [Movies that entirely f\*ck your brain in the end (2022)](https://www.reddit.com/r/MovieSuggestions/comments/y8b2bc/movies_that_entirely_fck_your_brain_in_the_end/)
 - [Movies that are interesting as well as difficult to understand (2022)](https://www.reddit.com/r/MovieSuggestions/comments/yhc07l/movies_that_are_interesting_as_well_as_difficult/)
+- [Ask HN: HN-like forum for literature and cinema? (2022)](https://news.ycombinator.com/item?id=33468314)

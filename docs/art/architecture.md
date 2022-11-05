@@ -14,6 +14,7 @@
 
 ## Nice places
 
+- [Hundred year-old cabin](https://twitter.com/linear_magazine/status/1588605562874306560)
 - [Richard Campbell's fancy Portland house](https://twitter.com/yatirkaaren/status/1532424881358491650)
 - [Williamsburg open place](https://twitter.com/madelinebilis/status/1327380099147165697)
 - [Living Lab House / JC Architecture](https://www.archdaily.com/923076/living-lab-house-jc-architecture)

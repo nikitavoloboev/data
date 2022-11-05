@@ -251,3 +251,4 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [Ask HN: How to find what I am really good at? (2022)](https://news.ycombinator.com/item?id=33077489)
 - [Ask HN: 10k hours rule to master anything. Could I switch career when I am 43? (2022)](https://news.ycombinator.com/item?id=33119347)
 - [Variability, not repetition, is the key to mastery (2022)](https://www.scotthyoung.com/blog/2022/10/26/variable-mastery/) ([HN](https://news.ycombinator.com/item?id=33354355))
+- [Limnology](https://limnology.co/) - Top 70000 educational YouTube channels in 20 languages by category. ([HN](https://news.ycombinator.com/item?id=33470066))

@@ -216,3 +216,4 @@
 - [They Called It LISP for a Reason: List Processing (2005)](https://gigamonkeys.com/book/they-called-it-lisp-for-a-reason-list-processing.html) ([HN](https://news.ycombinator.com/item?id=33162318))
 - [Text Generation LispE with a Grammar](https://github.com/naver/lispe/wiki/6.14-Text-Generation-LispE-with-a-Grammar)
 - [Lisp implementation of Lurk](https://github.com/lurk-lang/lurk)
+- [Why Lisp?](https://github.com/naver/lispe/wiki/6.16-Why-Lisp) ([HN](https://news.ycombinator.com/item?id=33462454))
