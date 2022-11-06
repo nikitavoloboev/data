@@ -143,3 +143,5 @@
 - [Common Lisp names all sixteen binary logic gates](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000) ([HN](https://news.ycombinator.com/item?id=32802308))
 - [RE](https://github.com/massung/re) - Lua-style Pattern Matching for Common Lisp.
 - [sbcl-librarian](https://github.com/quil-lang/sbcl-librarian) - Opinionated interface for creating C- and Python-compatible shared libraries in Common Lisp with SBCL.
+- [OpenRPC for Common Lisp](https://github.com/40ants/openrpc)
+- [Ultralisp](https://ultralisp.org/) - Fast Common Lisp Repository. ([Code](https://github.com/ultralisp/ultralisp))

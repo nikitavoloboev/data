@@ -429,3 +429,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [NodeConf EU 2022](https://nodeconf22.vercel.app/) ([Videos](https://www.youtube.com/playlist?list=PL0CdgOSSGlBaULAdbribJiENfXxPW0aLQ)) ([Notes](https://github.com/lmammino/nodeconfeu2022-notes))
 - [jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [Making Fetch Happen - Ethan Arrowood (2022)](https://www.youtube.com/watch?v=Koy8XkDSf30)
+- [Learning WebAssembly, Rust, and Node.js](https://github.com/second-state/wasm-learning)

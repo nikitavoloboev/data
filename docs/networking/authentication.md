@@ -278,3 +278,4 @@
 - [Ballerine](https://github.com/ballerine-io/ballerine) - Open-source user onboarding and KYC flow made with Svelte. ([HN](https://news.ycombinator.com/item?id=33396982))
 - [Topaz](https://www.topaz.sh/) - Cloud-native authorization for modern applications and APIs. ([Code](https://github.com/aserto-dev/topaz))
 - [Auth0 Verifiable Credentials](https://verifiablecredentials.dev/) ([HN](https://news.ycombinator.com/item?id=33427503))
+- [Basic WebAuthn client and server in go](https://github.com/hbolimovsky/webauthn-example)

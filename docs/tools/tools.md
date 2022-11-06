@@ -774,3 +774,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Low-code tools to build internal-facing tools](https://twitter.com/GergelyOrosz/status/1582133778478080000)
 - [Framestack](https://www.framestack.net/) - Discover tools & libraries to build your projects. ([Code](https://github.com/swve/framestack))
 - [Starling Developer Resources](https://github.com/starlingbank/developer-resources)
+- [Fast QR](https://fast-qr.com/) - Ultra fast QRCode generation. ([Code](https://github.com/erwanvivien/fast_qr))

@@ -230,6 +230,7 @@
 - [wasm-instrument](https://github.com/paritytech/wasm-instrument) - Instrument and transform wasm modules.
 - [wasm_thread](https://github.com/chemicstry/wasm_thread) - Rust `std::thread` replacement for wasm32 target.
 - [idb](https://github.com/devashishdxt/idb) - Futures based crate for interacting with IndexedDB on browsers using WebAssembly.
+- [WasmEdge WASI Socket](https://github.com/second-state/wasmedge_wasi_socket) - Rust SDK for network socket functions available in the WasmEdge Runtime.
 
 ## GUI
 
@@ -358,6 +359,7 @@
 - [leveldb-rs](https://github.com/dermesser/leveldb-rs) - Fully compatible implementation of LevelDB in Rust.
 - [TDengine connector for Rust](https://github.com/taosdata/taos-connector-rust)
 - [Hug SQLx](https://github.com/mbuczko/hugsqlx) - Derive macro turning SQL queries into plain Rust functions.
+- [mysql_async](https://github.com/blackbeam/mysql_async) - Asyncronous Rust Mysql driver based on Tokio.
 
 ## Video
 

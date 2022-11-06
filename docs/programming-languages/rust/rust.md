@@ -933,3 +933,4 @@ title: Rust
 - [Rust 1.65.0 (2022)](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html) ([HN](https://news.ycombinator.com/item?id=33451359)) ([Lobsters](https://lobste.rs/s/qojcz4/announcing_rust_1_65_0))
 - [New diagram-based explanation of Rust/C++20 atomic orderings](https://sabrinajewson.org/rust-nomicon/atomics/atomics.html)
 - [Scoped threads in Rust, and why its async counterpart would be unsound (2022)](https://wishawa.github.io/posts/thread-scoped-async/)
+- [2 years of fiddling with Rust (2022)](https://n-eq.github.io/blog/2022/11/01/rust-fiddling-2-years) ([HN](https://news.ycombinator.com/item?id=33497051))

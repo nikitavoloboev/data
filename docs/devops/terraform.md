@@ -206,3 +206,4 @@ title: Terraform
 - [Sato](https://github.com/JamesWoolfenden/sato) - Converts CFN into Terraform. In Go.
 - [Akamai Provider for Terraform](https://github.com/akamai/terraform-provider-akamai)
 - [Terraform mock Provider](https://github.com/hashicorp/terraform-provider-mock) - Used to configure and test Terraform configuration edge cases and output.
+- [Terraform Provider for MinIO](https://github.com/aminueza/terraform-provider-minio)

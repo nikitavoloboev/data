@@ -34,3 +34,4 @@ title: WebKit
 - [Using :has() as a CSS Parent Selector and much more (2022)](https://webkit.org/blog/13096/css-has-pseudo-class/)
 - [WebKit on GitHub (2022)](https://webkit.org/blog/13140/webkit-on-github/) ([HN](https://news.ycombinator.com/item?id=32667619))
 - [WebKit Quirks.cpp](https://github.com/WebKit/WebKit/blob/main/Source/WebCore/page/Quirks.cpp) ([HN](https://news.ycombinator.com/item?id=33207685))
+- [Rust-Darwin-WebKit](https://github.com/yamadapc/rust-darwin-webkit) - Bindings to some of the WebKit's API on MacOS for Rust.

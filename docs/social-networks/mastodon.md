@@ -70,3 +70,4 @@ title: Mastodon
 - [Debirdify](https://pruvisto.org/debirdify/) - Search the people you follow on Twitter for possible Mastodon/Fediverse accounts.
 - [Fedi.Tips](https://fedi.tips/) - Unofficial Guide to Mastodon and the Fediverse.
 - [rtoot](https://github.com/schochastics/rtoot) - R package to interact with the mastodon API.
+- [Trunk](https://communitywiki.org/trunk/) - Allows you to mass-follow a bunch of people in order to get started with Mastodon or any other platform on the Fediverse.

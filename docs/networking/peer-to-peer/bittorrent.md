@@ -36,7 +36,7 @@ title: BitTorrent
 - [confluence](https://github.com/anacrolix/confluence) - Torrent client as a HTTP service.
 - [/r/trackers](https://www.reddit.com/r/trackers/) - Great subreddit.
 - [BTFS](https://www.bittorrent.com/btfs/) - Mount any .torrent file or magnet link as directory. ([HN](https://news.ycombinator.com/item?id=23576063))
-- [Building a BitTorrent client from the ground up in Go (2020)](https://blog.jse.li/posts/torrent/) ([HN](https://news.ycombinator.com/item?id=21958359)) ([Code](https://github.com/veggiedefender/torrent-client))
+- [Building a BitTorrent client from the ground up in Go (2020)](https://blog.jse.li/posts/torrent/) ([HN](https://news.ycombinator.com/item?id=21958359)) ([Code](https://github.com/veggiedefender/torrent-client)) ([HN](https://news.ycombinator.com/item?id=33495328))
 - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)
 - [DHT](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
 - [Intermodal](https://rodarmor.com/blog/intermodal) - New command-line BitTorrent metainfo utility. ([Code](https://github.com/casey/intermodal))

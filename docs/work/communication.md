@@ -213,3 +213,4 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [Ask HN: How do I learn to communicate effectively? (2022)](https://news.ycombinator.com/item?id=33091972)
 - [There are three types of meetings](https://camdaigle.com/posts/three-types-of-meetings/)
 - [How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/) ([HN](https://news.ycombinator.com/item?id=33370870))
+- [Effective Sync Meetings (2022)](https://blog.jonm.dev/posts/effective-sync-meetings/)
