@@ -199,6 +199,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Max Bernstein](https://bernsteinbear.com/blog/)
 - [Stargirl Flowers](https://blog.thea.codes/)
 - [Simon Hearne](https://simonhearne.com/posts/)
+- [Lux](https://lux.camera/)
 
 ## Notes
 

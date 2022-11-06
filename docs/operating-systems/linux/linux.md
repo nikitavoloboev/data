@@ -628,3 +628,4 @@ title: Linux
 - [LURE](https://github.com/Arsen6331/lure) - Intended to bring the AUR to all distros.
 - [Flexo](https://github.com/nroi/flexo) - Caching proxy for pacman, the package manager of Arch Linux.
 - [Ultimate list of Linux bash commands](https://github.com/trinib/Linux-Bash-Commands)
+- [eBPF – Adding functionality to OS at runtime](https://ebpf.io/what-is-ebpf/) ([HN](https://news.ycombinator.com/item?id=33489935))

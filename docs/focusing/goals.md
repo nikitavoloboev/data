@@ -1,6 +1,14 @@
 # Goals
 
-Goal plan is in [Notion](https://www.notion.so/e462537d8f3d40c095ea67091ca91f45?v=1006717e984a4243b198bcad5bf05198).
+I now operate my life's priorities through [Height](https://height.app/). Until I build my own tool for this.
+
+![](https://i.imgur.com/VmexYSy.png)
+
+ > sensitive items blurred
+
+Previously I tried [Notion](../tools/notion.md) but it lacks ability to track progress on tasks/ideas.
+
+Below is somewhat general gist of where I am trying to lead my life towards. 
 
 ## Action
 
