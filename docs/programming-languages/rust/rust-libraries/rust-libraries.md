@@ -752,6 +752,7 @@
 - [egobox](https://github.com/relf/egobox) - Rust toolbox about surrogate-based adaptative optimization.
 - [Safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors.
 - [Disco Rust](https://github.com/ankane/disco-rust) - Recommendations for Rust using collaborative filtering.
+- [Burn](https://github.com/burn-rs/burn) - Deep learning framework with extreme flexibility written in Rust.
 
 ## macOS
 

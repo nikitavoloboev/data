@@ -36,3 +36,4 @@ title: Tauri
 - [Build a cross platform app with Tauri (2022)](https://ghostdev.xyz/posts/build-a-cross-platform-app-with-tauri/)
 - [tauri-egui](https://github.com/tauri-apps/tauri-egui) - Tauri plugin for using the egui library in a Tauri application.
 - [tauri-sys](https://github.com/JonasKruckenberg/tauri-sys) - Raw bindings to the Tauri API for projects using wasm-bindgen.
+- [Tauri Specta](https://github.com/oscartbeaumont/tauri-specta) - Completely type safe Tauri commands.
