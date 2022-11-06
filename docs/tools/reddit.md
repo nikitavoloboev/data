@@ -91,3 +91,4 @@ title: Reddit
 - [Related Subreddits By User/Redditor Overlap](https://subredditstats.com/subreddit-user-overlaps)
 - [Programming language subreddits and their choice of words](https://github.com/Dobiasd/programming-language-subreddits-and-their-choice-of-words)
 - [RedditLattice](https://redditlattice.netlify.app/) - Reddit viewer for image based subreddits. Lays out the images in a tight lattice. ([Code](https://github.com/vanillacode314/redditlattice))
+- [Hide some app banners on Reddit (2022)](https://underpassapp.com/news/2022-11-4.html)

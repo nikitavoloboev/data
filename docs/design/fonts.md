@@ -422,4 +422,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [ttf-properties-changer](https://github.com/kalashnikovisme/ttf-properties-changer) - Change properties of ttf-fonts.
 - [Tokotype](https://twitter.com/tokotype) - Indonesian company that specializes in digital typeface. ([GitHub](https://github.com/tokotype/PlusJakartaSans))
 - [A few of my favorite typefaces (2021)](https://blog.thea.codes/typefaces-i-love/)
-- [Substitute web fonts with StopTheMadness (2022)](https://underpassapp.com/news/2022-11-3.html)
+- [Substitute web fonts with StopTheMadness (2022)](https://underpassapp.com/news/2022-11-3.html) ([HN](https://news.ycombinator.com/item?id=33493540))

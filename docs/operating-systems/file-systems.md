@@ -139,3 +139,4 @@
 - [WebNative FileSystem (WNFS)](https://github.com/wnfs-wg/rs-wnfs) - Versioned content-addressable distributed filesystem with private and public sub systems.
 - [Webnative SDK](https://github.com/fission-codes/webnative) - SDK for building apps with decentralized identity and storage.
 - [Fission](https://fission.codes/) - Build the future of web apps at the edge.
+- [dutree](https://github.com/nachoparker/dutree) - Tool to analyze file system usage written in Rust.
