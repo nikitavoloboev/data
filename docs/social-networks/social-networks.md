@@ -2,7 +2,7 @@
 
 [How to run a small social network site for your friends](https://runyourown.social/) is a neat guide.
 
-Many companies put business over human values but [Meta seems to the worst of it all](https://twitter.com/Erfan_khosravi/status/1572837240367370240). It's hard to really appreciate just how much power centralizing communication on a whim of some individual or group of people is. It has to be [[decentralized](../networking/decentralization.md)] and be more akin to [Mastodon](mastodon.md) where each instance has its own rules and pays for its own compute. You can [federate](../networking/activitypub.md) with any server you like and can't be blocked out of a service with all the history deleted just on a whim.
+Many companies put business over human values but [Meta seems to the worst of it all](https://twitter.com/Erfan_khosravi/status/1572837240367370240). It's hard to really appreciate just how much power centralizing communication on a whim of some individual or group of people is. It has to be [decentralized](../networking/decentralization.md) and be more akin to [Mastodon](mastodon.md) where each instance has its own rules and pays for its own compute. You can [federate](../networking/activitypub.md) with any server you like and can't be blocked out of a service with all the history deleted just on a whim.
 
 With [Twitter](../tools/twitter.md) being bought out, it's even more imperative this shift happens sooner than later even though I do enjoy Twitter as a service for its UX and the people using it.
 

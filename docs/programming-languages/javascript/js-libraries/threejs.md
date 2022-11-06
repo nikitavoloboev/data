@@ -144,3 +144,4 @@ title: Three.js
 - [Awesome ThreeJS](https://github.com/0xAxiome/awesome-threejs)
 - [Shadow Mapping In Three.js (2022)](https://mofu-dev.com/en/blog/threejs-shadow-map/)
 - [Stable Fluids with three.js (2022)](https://mofu-dev.com/en/blog/stable-fluids)
+- [Geo-Three](https://github.com/tentone/geo-three) - Based geographic world map visualization library for ThreeJS.
