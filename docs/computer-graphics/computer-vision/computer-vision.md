@@ -983,3 +983,4 @@
 - [Terran](https://github.com/terran-project/terran) - Human perception library.
 - [Pento](https://www.pento.ai/) - Boost your business with computer vision. ([GitHub](https://github.com/pentoai))
 - [HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields (2022)](https://arxiv.org/abs/2208.06787) ([Code](https://github.com/postech-ami/HDR-Plenoxels))
+- [FastestDet](https://github.com/dog-qiuqiu/FastestDet) - Newly designed ultra lightweight anchor free target detection algorithm.

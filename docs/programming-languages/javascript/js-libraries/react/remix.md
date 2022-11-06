@@ -65,6 +65,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Remix Deno JIT](https://github.com/jacob-ebey/remix-deno-jit)
 - [Remix infinite scroll example](https://github.com/jacob-ebey/remix-deferred-infinite-scroll)
 - [A Colorful Thing](https://github.com/lachlanjc/a-colorful-thing) - Simple collaborative drawing app built with Liveblocks & Remix.
+- [Remix-Vite](https://github.com/sudomf/remix-vite) - Serve Remix apps locally using Vite.
 
 ## Plugins
 

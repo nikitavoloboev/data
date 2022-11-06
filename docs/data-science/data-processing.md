@@ -130,3 +130,4 @@
 - [Kuma-san's toolbox for data analysis](https://github.com/analokmaus/kuma_utils)
 - [Byzer](https://github.com/byzer-org/byzer-lang) - Low-code, open-sourced and distributed programming language for data pipeline, analytics and AI in cloud native way. ([Web](https://www.byzer.org/home))
 - [Data Analysis at the Command Line (2022)](https://lucytalksdata.com/data-analysis-at-the-command-line/)
+- [Data Pipeline in Rust](https://github.com/DataPsycho/data-pipelines-in-rust) - Data pipeline example written in Rust with Polars and DataFusion DataFrame package.

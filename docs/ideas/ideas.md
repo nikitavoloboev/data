@@ -24,6 +24,7 @@ I try to give my full attention to any ideas I am working on.
 - [More people should make "1% products". Tiny little gems that have 1% of the functionality, but are obsessively polished and perfect.](https://twitter.com/palm_beach_m/status/1507220620328808449)
 - [My best advice for people trying to figure out what’s next is figure out what they want to do after the next thing—the next next thing—and do the thing next that will increase the success of that next next thing (which may just be skipping straight to the next next thing).](https://twitter.com/dwr/status/1519900289855152129)
 - [Good idea generator: 1: Have any idea. 2: Pursue it. 3: Build something that makes it easier to achieve. 4: #3 is your good idea.](https://twitter.com/mattwensing/status/1552136584224509954)
+- [Build things for yourself. It's much more motivating and fun to build for yourself. You know precisely what you want.](https://twitter.com/thomaspaulmann/status/1589238572296859652)
 
 ## Links
 

@@ -7,6 +7,7 @@ I share some [recipes I like](recipes.md).
 - [It's best to use coconut oil for high temperature cooking (i.e. frying) because of it's higher smoke point.](https://blog.fitbit.com/fat-face-off-olive-oil-vs-coconut-oil/)
 - [We organize everything around cooking, instead of trying to fit cooking between two other things.](https://merveilles.town/web/statuses/106389298578607938)
 - [Cooking reduces the bacterial load by killing bacteria. Cooking also destroys most toxins produced by bacteria, with a few notable exceptions.](https://www.reddit.com/r/AskHistorians/comments/oobrus/modern_meat_is_full_of_preservatives_and_still/)
+- [Put a wooden spoon over boiling pot and pasta wont boil over.](https://twitter.com/MikeIsaac/status/1589074245371703296)
 
 ## Links
 

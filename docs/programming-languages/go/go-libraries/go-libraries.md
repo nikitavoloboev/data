@@ -658,6 +658,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [GopenPGP](https://github.com/ProtonMail/gopenpgp) - High-level OpenPGP library.
 - [Go-wolfSSL](https://github.com/wolfSSL/go-wolfssl) - Go wrapper for wolfSSL lightweight TLS library and wolfCrypt cryptography library.
 - [Reed-Solomon](https://github.com/klauspost/reedsolomon) - Reed-Solomon Erasure Coding in Go.
+- [sftp](https://github.com/pkg/sftp) - SFTP support for the go.crypto/ssh package.
 
 ## Linux
 

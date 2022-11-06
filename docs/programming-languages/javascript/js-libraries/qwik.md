@@ -32,3 +32,4 @@ title: Qwik
 - [Qwik… the world's first O(1) JavaScript framework? (2022)](https://www.youtube.com/watch?v=x2eF3YLiNhY)
 - [Qwik: Beta and Beyond (2022)](https://www.youtube.com/watch?v=Tfd62DiRTKc)
 - [HN: Qwik (2022)](https://news.ycombinator.com/item?id=33170842)
+- [Drastically improve resuming perf in Qwik](https://github.com/BuilderIO/qwik/pull/1991) ([Tweet](https://twitter.com/manucorporat/status/1589225367541514240))
