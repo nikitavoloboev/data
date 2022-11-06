@@ -44,3 +44,4 @@ title: ActivityPub
 - [openEngiadina: From ActivityPub to XMPP (2021)](https://inqlab.net/2021-11-12-openengiadina-from-activitypub-to-xmpp.html)
 - [General Python ActivityPub library](https://github.com/dsblank/activitypub)
 - [ActivityPub JS/TS models](https://github.com/activitypub-js/activitypub-models)
+- [Ask HN: ActivityPub or Mastodon? (2022)](https://news.ycombinator.com/item?id=33491684)
