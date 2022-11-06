@@ -2,9 +2,13 @@
 
 I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2334376869949242/) & [Pistol Whip](https://www.oculus.com/experiences/quest/2104963472963790/) on [Oculus Quest 2](https://www.oculus.com/quest-2/). Playing [Walkabout Mini Golf](https://www.oculus.com/experiences/quest/2462678267173943/) with friends is a great remote social bonding experience.
 
-I do hope another company with humane values takes over VR market as Meta has had too many mess ups with the way they handle their policies and privacy, be it [accidental or otherwise](https://twitter.com/Erfan_khosravi/status/1572837240367370240).
+I find the displays on Oculus still lacking a lot and my eyes get tired very fast of using them. Meta is investing billions into making VR/AR work and I am happy they did take this bet as new hardware will unlock things we simply couldn't do before.
 
-I trust Apple to do a better job with their VR/AR headset although it has it's mess ups too, namely forcing everyone to pay 30% rent for any transaction done on their systems. Once Apple releases their headset and assuming it's seamless to war, I want to develop some apps for it, namely a kind of life linter. I set some rules for what I shouldn't do, like buying chocolates in supermarket and it will lint me for this in real time. A true configurable [AR](../augmented-reality/augmented-reality.md) display is actually fascinating in what it can unlock.
+I do trust Apple to do a better job with their VR/AR headset and am waiting for the release of it to start developing for this new paradigm.
+
+One idea I want to make is a kind of life linter. I set some rules for what I shouldn't do, like buying chocolates in supermarket and it will lint me for this in real time. Like show a red cross next to the chocolate bar as I try pick it up. A true configurable [AR](../augmented-reality/augmented-reality.md) display is actually fascinating in what it can unlock.
+
+I am confident that the advancements in computer vision can let you write your own neural nets that can then run either on device itself or in the cloud and stream the pixels overlaid on your physical reality.
 
 ## Games
 

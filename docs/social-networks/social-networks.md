@@ -2,11 +2,17 @@
 
 [How to run a small social network site for your friends](https://runyourown.social/) is a neat guide.
 
-Many companies put business over human values but [Meta seems to the worst of it all](https://twitter.com/Erfan_khosravi/status/1572837240367370240). It's hard to really appreciate just how much power centralizing communication on a whim of some individual or group of people is. It has to be [decentralized](../networking/decentralization.md) and be more akin to [Mastodon](mastodon.md) where each instance has its own rules and pays for its own compute. You can [federate](../networking/activitypub.md) with any server you like and can't be blocked out of a service with all the history deleted just on a whim.
+It's hard to appreciate just how bad it is to centralize the common people's town square where anyone can voice their opinion is. Right now, the most popular options for such a place are all governed by a set of rules that can be changed on a whim by few people only, sometimes only one. More often, what's written in the rules is not being followed too and there is no way to argument against your account being deleted or shadow banned by the network.
 
-With [Twitter](../tools/twitter.md) being bought out, it's even more imperative this shift happens sooner than later even though I do enjoy Twitter as a service for its UX and the people using it.
+The only way you can have a social network that works for everyone is for it to be [decentralized](../networking/decentralization.md). Something akin to [Mastodon](mastodon.md) where each instance has its own rules and pays for its own compute. You can [federate](../networking/activitypub.md) with any server you like and can't be blocked out of a service with all the history deleted just on a whim.
 
-I think what Twitter is doing with [Bluesky](https://twitter.com/bluesky) is pretty neat and hope it succeeds too.
+Decentralization has [big challenges to solve](https://news.ycombinator.com/item?id=33486497) before it can compete with likes of [Twitter](../tools/twitter.md). Compute has to be paid off by users using the network. UX should abstract the notion of servers and federation so the experience is like on Twitter, create account, start creating posts. On Mastodon, you have to first choose a server and most just choose the official server for obvious reasons.
+
+I am personally trying to make Mastodon work whilst still staying on Twitter as that's where the conversation is still happening.
+
+[Farcaster](https://www.farcaster.xyz/) & [Bluesky](https://blueskyweb.xyz/) seem promising too.
+
+Whatever the new social network is, it has to be open source and be a protocol with a viable plan for moderating and customizing your experience on the network.
 
 ## Notes
 
@@ -27,6 +33,7 @@ I think what Twitter is doing with [Bluesky](https://twitter.com/bluesky) is pre
 - [Instead of asking “how will you make money?” Or with NFTs “how much money are you making right now buying and selling into the hype?”, please ask “how does this lead to deep habitual usage?”](https://twitter.com/joshelman/status/1458466576449953799)
 - [Social networks usage destroy attention span for many](https://www.youtube.com/watch?v=kw_nY-tMuHE)
 - [The greatest business you can build is one that helps people feel loved and doing so in a financially sustainable way.](https://twitter.com/nikitabier/status/1586042045826621440)
+- [WhatsApp communication being blocked in Iran as protests against oppressive regime take place.](https://twitter.com/Erfan_khosravi/status/1572837240367370240)
 
 ## Links
 
