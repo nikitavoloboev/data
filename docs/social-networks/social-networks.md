@@ -2,9 +2,11 @@
 
 [How to run a small social network site for your friends](https://runyourown.social/) is a neat guide.
 
-Many companies put business over human values but [Meta/FB is the worst of it all](https://twitter.com/Erfan_khosravi/status/1572837240367370240). It's actually sickening how bad some humans with power can get. Will never develop anything for their platforms and hope their VR experiments with Oculus get fully copied and perfected by likes of Apple or some other company with sane values.
+Many companies put business over human values but [Meta seems to the worst of it all](https://twitter.com/Erfan_khosravi/status/1572837240367370240). It's hard to really appreciate just how much power centralizing communication on a whim of some individual or group of people is. It has to be [[decentralized](../networking/decentralization.md)] and be more akin to [Mastodon](mastodon.md) where each instance has its own rules and pays for its own compute. You can [federate](../networking/activitypub.md) with any server you like and can't be blocked out of a service with all the history deleted just on a whim.
 
-I think what Twitter is doing with [Bluesky](https://twitter.com/bluesky) is pretty neat and hope it succeeds.
+With [Twitter](../tools/twitter.md) being bought out, it's even more imperative this shift happens sooner than later even though I do enjoy Twitter as a service for its UX and the people using it.
+
+I think what Twitter is doing with [Bluesky](https://twitter.com/bluesky) is pretty neat and hope it succeeds too.
 
 ## Notes
 

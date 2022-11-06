@@ -26,7 +26,9 @@ One other thing I found helped me the most in life. Is expressing myself. Expres
 
 I love to [live minimally](../minimalism/minimalism.md) and only use what I need. Think about things that matter to me. Cutting out the noise and focusing on what's important to me. I love cutting out any kind of distractions from my life. I love not keeping everything in my head and letting software and tools do the things they are good at. Storing and retrieving information. Events, todos, tasks and projects.
 
-I practice this art of minimizing and focusing on what's important to me & removing everything that is not every single day.
+I practice this art of minimizing and focusing on what's important to me & removing everything that is not every single day. 
+
+I also try very hard to simply not have the things that I cannot change, affect me in any meanigful way. I focus on love and appreciation over hate and being annoyed by things.
 
 ## Other things that help
 

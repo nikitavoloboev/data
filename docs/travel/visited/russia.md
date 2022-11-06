@@ -18,6 +18,8 @@ All of this is just my opinion and I genuinely don't know a lot. The west lies a
 
 I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220152839) I fancy and use daily. For political updates, there's many accounts I like. [Michael Kofman](https://twitter.com/KofmanMichael) & [Max Seddon](https://twitter.com/maxseddon) do nice summaries often.
 
+One other thing I hope Russia does improve on culturally, is minimize all kinds of verbal hate, annoyance and distrust that is so prevelant in most discussions. If're not willing to put in the work to improve the situation, it's better for your sanity to not let your emotions drive you all the time. This doesn't mean you shouldn't fight for your freedom if you're willing to accept the risks that come with that. 
+
 ## Notes
 
 - [The oligarchs are no longer a major powerbase. Putin is Tsar, and the FDB/State security apparatus are the new aristocracy. The military from all I have seen is shockingly low-status, and thoroughly neutered to the will of the state. The FSB + Rosvgardia can be effectively deployed across Russia's very good rail network to isolate and destroy any actual public uprisings, so I don't think any sort of mass revolt is in the cards. If there were to be a change of power in Russia, it will be from the intelligence/state security wing. Or, it could come about as the gradual disintegration of the country as oblast governors start functioning more and more autonomously in their own interests sanctions squeeze the economy tighter.](https://www.reddit.com/r/CredibleDefense/comments/xcawx5/credibledefense_daily_megathread_september_12_2022/)

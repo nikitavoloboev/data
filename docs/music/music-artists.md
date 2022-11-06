@@ -297,6 +297,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [This is the Kit - Vitamins](https://www.youtube.com/watch?v=Ub8GecAbDEs)
 - [Lorde - Sober (Vevo x Lorde)](https://www.youtube.com/watch?v=sExX9XmTtbQ)
 - [Gruppa Skryptonite, Therr Maitz — Ты не верь слезам / LAB с Антоном Беляевым](https://www.youtube.com/watch?v=Mt03oEJ4WKw)
+- [Kate Bollinger - Untitled](https://www.youtube.com/watch?v=6UAnympvxxs)
 
 ## Links
 

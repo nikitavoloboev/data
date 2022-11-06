@@ -2,9 +2,9 @@
 
 I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2334376869949242/) & [Pistol Whip](https://www.oculus.com/experiences/quest/2104963472963790/) on [Oculus Quest 2](https://www.oculus.com/quest-2/). Playing [Walkabout Mini Golf](https://www.oculus.com/experiences/quest/2462678267173943/) with friends is a great remote social bonding experience.
 
-I do hope another company with humane values takes over VR market so Meta/FB can finally go out of business. It's atrocious [what that company is doing](https://twitter.com/Erfan_khosravi/status/1572837240367370240) for the sake of extra business.
+I do hope another company with humane values takes over VR market as Meta has had too many mess ups with the way they handle their policies and privacy, be it [accidental or otherwise](https://twitter.com/Erfan_khosravi/status/1572837240367370240).
 
-Looking forward to when Apple will unveil their headset so I can start developing some apps for it.
+I trust Apple to do a better job with their VR/AR headset although it has it's mess ups too, namely forcing everyone to pay 30% rent for any transaction done on their systems. Once Apple releases their headset and assuming it's seamless to war, I want to develop some apps for it, namely a kind of life linter. I set some rules for what I shouldn't do, like buying chocolates in supermarket and it will lint me for this in real time. A true configurable [AR](../augmented-reality/augmented-reality.md) display is actually fascinating in what it can unlock.
 
 ## Games
 

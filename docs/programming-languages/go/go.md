@@ -890,3 +890,4 @@ if *boolArgPtr != false {
 - [The Problem with Go (2022)](https://vanitynotes.com/posts/20221101-the-real-problem-with-go) ([HN](https://news.ycombinator.com/item?id=33439021))
 - [Thread-Local State in Go (2022)](https://puzpuzpuz.dev/thread-local-state-in-go-huh)
 - [alphavet](https://github.com/skx/alphavet) - Go linter to detect functions not in alphabetical order. ([HN](https://news.ycombinator.com/item?id=33461952))
+- [Thoughts on the "Guard" Proposal for Go's Error Handling (2022)](https://wagslane.dev/posts/guard-keyword-error-handling-golang/) ([Reddit](https://www.reddit.com/r/golang/comments/yn3p1u/thoughts_on_the_guard_proposal_for_gos_error/))
