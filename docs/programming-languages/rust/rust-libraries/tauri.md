@@ -17,6 +17,7 @@ title: Tauri
 - [Tauri + ReScript + React](https://github.com/JonasKruckenberg/tauri-rescript-template)
 - [Tauri Tray App](https://github.com/jondot/tauri-tray-app) - Template should help get you started developing a Tauri tray app with an app window and full communication between the JS and Rust side.
 - [Taurine](https://github.com/Perfect7M/taurine) - Tauri + Node.js stater.
+- [Mediarepo](https://github.com/Trivernis/mediarepo) - Tool for managing media files.
 
 ## Links
 

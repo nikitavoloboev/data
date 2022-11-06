@@ -237,3 +237,4 @@ I also find it frustrating that Twitter iOS client doesn't have the ability to l
 - [Git as a janky Twitter replacement](https://github.com/diracdeltas/tweets) ([Tweet](https://twitter.com/bcrypt/status/1588416861552582657)) ([HN](https://news.ycombinator.com/item?id=33488996))
 - [Ask HN: Do you believe there's really an alternative to Twitter? (2022)](https://news.ycombinator.com/item?id=33490217)
 - [TwitterHD](https://github.com/DavidBuchanan314/TwitterHD) - Userscript that forces twitter to always load images and videos in full resolution.
+- [Veryfied](https://github.com/evilsocket/veryfied) - Browser extension for Twitter that will mark pre-Musk era verified accounts.

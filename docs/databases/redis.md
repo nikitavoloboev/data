@@ -170,3 +170,4 @@ title: Redis
 - [Redis Cache](https://github.com/go-redis/cache) - Cache library with Redis backend for Go.
 - [Visual and Semantic Similarity with Redis](https://github.com/RedisAI/vecsim-demo)
 - [How Gas app cut its Redis Engine CPU Utilization by 80% (2022)](https://twitter.com/daveschatz/status/1583342175005220864) ([Lobsters](https://lobste.rs/s/gzkgho/how_gas_app_cut_its_redis_engine_cpu))
+- [Redis Oxide](https://github.com/dpbriggs/redis-oxide) - Multi-threaded implementation of redis written in rust.

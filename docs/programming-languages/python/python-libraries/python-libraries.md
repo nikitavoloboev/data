@@ -68,6 +68,7 @@
 - [waiter](https://github.com/coady/waiter) - Delayed iteration for polling and retries.
 - [Clients](https://github.com/coady/clients) - High-level HTTP clients for Python.
 - [stamina](https://github.com/hynek/stamina) - Composable toolkit for handling retries.
+- [httparse](https://github.com/adriangb/httparse) - Python wrapper for Rust's httparse HTTP parser.
 
 ## ML
 

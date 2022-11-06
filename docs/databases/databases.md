@@ -710,3 +710,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Big Data Storage (2022)](https://berthub.eu/articles/posts/big-data-storage/)
 - [Rewriting a high performance vector database in Rust | Pinecone (2022)](https://www.pinecone.io/learn/rust-rewrite/)
 - [Ephemeral DB, a sacrificial database line for high-throughput data (2022)](https://brandur.org/fragments/ephemeral-db)
+- [fake2db](https://github.com/emirozer/fake2db) - Generate fake but valid data filled databases for test purposes using most popular patterns.

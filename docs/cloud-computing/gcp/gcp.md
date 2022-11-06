@@ -137,3 +137,6 @@ Looking into [Railway](https://railway.app/) & [Cloudflare](https://www.cloudfla
 - [Google Cloud tasks emulator](https://github.com/aertje/cloud-tasks-emulator)
 - [Python Client for Cloud Logging](https://github.com/googleapis/python-logging) - Writes log entries and manages your Cloud Logging configuration.
 - [Google Cloud Datastore: Node.js Client](https://github.com/googleapis/nodejs-datastore)
+- [Drone-GKE](https://github.com/nytimes/drone-gke) - Drone plugin for deploying containers to Google Kubernetes Engine.
+- [Drone-GAE](https://github.com/nytimes/drone-gae) - Drone plugin to manage deployments on Google App Engine.
+- [Drone Google Cloud Run](https://github.com/kameshsampath/drone-gcloud-run) - Drone plugin deploy and manage Google Cloud Run services.

@@ -94,3 +94,4 @@ title: Prometheus
 - [Prometheus Formatter](https://github.com/fhemberger/prometheus-formatter) - Browser extension which makes plain Prometheus/OpenMetrics output easier to read.
 - [exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sonarr, Radarr or Lidarr.
 - [Ansible Prometheus](https://github.com/cloudalchemy/ansible-prometheus) - Deploy Prometheus monitoring system.
+- [Prometheus Shell Command Runner](https://github.com/tomwilkie/prom-run) - Periodically run a command and exports its return code as a prometheus metric.

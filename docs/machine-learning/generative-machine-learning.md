@@ -141,3 +141,4 @@
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class)
 - [Ask HN: How to get into AI generation (images,text) (2022)](https://news.ycombinator.com/item?id=33479367)
 - [Stable Diffusion and AI generated art is absolutely wild in every way (2022)](https://a.wholelottanothing.org/2022/11/02/stable-diffusion-and-ai-generated-art-is-absolutely-wild-in-every-way/)
+- [diffusers-rs](https://github.com/LaurentMazare/diffusers-rs) - Diffusers API in Rust/Torch.

@@ -304,3 +304,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [A tale of a simple Apple kernel bug (2022)](https://pwning.systems/posts/easy-apple-kernel-bug/)
 - [macOS notes](https://github.com/slavaim/mac-notes)
 - [Home Truths about macOS (2022)](https://eclecticlight.co/2022/11/06/last-week-on-my-mac-home-truths-about-macos/) ([HN](https://news.ycombinator.com/item?id=33491781))
+- [crashdump](https://github.com/dmaclach/crashdump) - Utility for converting macOS crashreport files (.ips) into text output which is the same as what you would see using Console.app to open them.

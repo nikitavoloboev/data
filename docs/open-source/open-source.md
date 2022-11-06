@@ -245,3 +245,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Awesome open-source VCs](https://github.com/CrowdDotDev/awesome-oss-investors)
 - [How I make a living working on SerenityOS (2022)](https://awesomekling.github.io/How-I-make-a-living-working-on-SerenityOS/) ([HN](https://news.ycombinator.com/item?id=33386163))
 - [Becoming fasterthanlime full-time (2022)](https://fasterthanli.me/articles/becoming-fasterthanlime-full-time)
+- [Awesome Open-source Alternatives](https://github.com/diegoleme/awesome-open-source-alternatives)

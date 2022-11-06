@@ -250,3 +250,4 @@ title: Clojure
 - [Clojure Cheat sheets](https://jafingerhut.github.io/)
 - [Awesome Clojure](https://github.com/mbuczko/awesome-clojure)
 - [Knowledge Base - Clojure Goes Fast](http://clojure-goes-fast.com/kb/)
+- [clojupyter](https://github.com/clojupyter/clojupyter) - Jupyter kernel for Clojure - run Clojure code in Jupyter Lab, Notebook and Console.

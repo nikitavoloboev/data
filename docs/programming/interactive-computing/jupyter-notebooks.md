@@ -231,3 +231,4 @@ title: Jupyter Notebooks
 - [Geometric Kernels](https://github.com/GPflow/GeometricKernels) - Geometric kernels on manifolds, meshes and graphs.
 - [Nebari](https://github.com/nebari-dev/nebari) - Automated data science platform. From JupyterHub to Cloud environments with Dask Gateway. ([Docs](https://www.nebari.dev/docs/welcome/))
 - [ipyobservable](https://github.com/davidbrochart/ipyobservable) - Jupyter widget for Observable.
+- [AutoProfiler](https://github.com/cmudig/AutoProfiler) - Automatically profile dataframes in the Jupyter sidebar.

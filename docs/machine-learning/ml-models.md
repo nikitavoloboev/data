@@ -124,3 +124,4 @@
 - [Stochastic](https://www.stochastic.ai/) - AI Acceleration Platform. ([GitHub](https://github.com/stochasticai))
 - [voltaML](https://github.com/VoltaML/voltaML) - Lightweight library to convert and run your ML/DL deep learning models in high performance inference runtimes like TensorRT, TorchScript, ONNX and TVM.
 - [AWS Deep Learning Containers](https://github.com/aws/deep-learning-containers) - Docker images for training and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
+- [Spotty](https://github.com/spotty-cloud/spotty) - Training deep learning models on AWS and GCP instances.

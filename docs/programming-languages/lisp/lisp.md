@@ -217,3 +217,4 @@
 - [Text Generation LispE with a Grammar](https://github.com/naver/lispe/wiki/6.14-Text-Generation-LispE-with-a-Grammar)
 - [Lisp implementation of Lurk](https://github.com/lurk-lang/lurk)
 - [Why Lisp?](https://github.com/naver/lispe/wiki/6.16-Why-Lisp) ([HN](https://news.ycombinator.com/item?id=33462454)) ([Lobsters](https://lobste.rs/s/1nzold/why_lisp))
+- [x7](https://github.com/dpbriggs/x7) - Speedy self-documenting lisp in Rust.

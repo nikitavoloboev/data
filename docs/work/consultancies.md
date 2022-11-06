@@ -34,6 +34,7 @@
 - [Nice Photon](https://nicephoton.com/) - Make iOS apps. ([GitHub](https://github.com/nicephoton))
 - [Xmartlabs](https://xmartlabs.com/) ([GitHub](https://github.com/xmartlabs))
 - [Windmill](http://madebywindmill.com/)
+- [3 Sided Cube](https://3sidedcube.com/) ([GitHub](https://github.com/3sidedcube))
 
 ## Node
 

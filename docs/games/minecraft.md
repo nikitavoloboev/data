@@ -142,3 +142,4 @@ title: Minecraft
 - [Minetest for the Web](https://minetest.dustlabs.io/) ([HN](https://news.ycombinator.com/item?id=33207408))
 - [Mirai](https://github.com/etil2jz/Mirai) - Powerful Minecraft Server Software coming from the future.
 - [JustEnoughItems](https://github.com/mezz/JustEnoughItems) - Item and Recipe viewing mod for Minecraft.
+- [Minecraft-Data-Rs](https://github.com/Trivernis/minecraft-data-rs) - Rust library to access minecraft data.

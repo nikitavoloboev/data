@@ -847,3 +847,5 @@ title: Kubernetes
 - [My Simple Kubernetes Setup for Side Projects (2022)](https://bas.codes/posts/simple-kubernetes)
 - [KubeTunnel](https://github.com/we-dcode/kubetunnel) - Develop locally while being connected to Kubernetes.
 - [Solving common problems with Kubernetes (2022)](https://blog.adamchalmers.com/kubernetes-problems/) ([HN](https://blog.adamchalmers.com/kubernetes-problems/))
+- [Argo CD Extensions](https://github.com/argoproj-labs/argocd-extensions) - Support for extending Argo CD.
+- [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) - Retrieve secrets from Secret Management tools and inject them into Kubernetes secrets.

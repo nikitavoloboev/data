@@ -95,7 +95,7 @@ Like tools that [let you try the app without being forced to pay first](https://
 - [Superwall](https://superwall.com/) - Build the best mobile paywalls. ([Twitter](https://twitter.com/superwall))
 - [Lago](https://www.getlago.com/) - Open Source Billing API for Product-Led SaaS. ([Code](https://github.com/getlago/lago))
 - [How to offer effective free trials](https://upollo.ai/blog/effective-trials) ([HN](https://news.ycombinator.com/item?id=32658926))
-- [Lotus](https://www.uselotus.io/) - Open Source Pricing and Billing Engine for SaaS. ([Code](https://github.com/uselotus/lotus))
+- [Lotus](https://www.uselotus.io/) - Open Source Pricing and Billing Engine for SaaS. ([Code](https://github.com/uselotus/lotus)) ([HN](https://news.ycombinator.com/item?id=33494284))
 - [Ask HN: Why is everything a SaaS product? (2022)](https://news.ycombinator.com/item?id=32856779)
 - [Stripe Subscription Upsells Docs](https://stripe.com/docs/payments/checkout/upsells) ([Tweet](https://twitter.com/monicalent/status/1573225232948928512))
 - [Rules for SaaS Pricing (2022)](https://earlygtm.substack.com/p/rules-for-saas-pricing)

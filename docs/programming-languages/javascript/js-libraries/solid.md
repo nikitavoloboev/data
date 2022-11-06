@@ -145,3 +145,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Reactivity with SolidJS course](https://github.com/ryansolid/solid-course)
 - [Reatom-Solid](https://github.com/skrylnikov/reatom-solid) - Solid bindings package for Reatom store.
 - [SolidJS tRPC](https://github.com/OrJDev/solid-trpc) - tRPC Adapter For SolidJS Using Tanstack Solid Query.
+- [Solid Future Architecture: Hybrid Routing + Minimal Hydration](https://github.com/solidjs/solid-start/issues/400)

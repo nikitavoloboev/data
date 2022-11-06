@@ -211,3 +211,6 @@ title: Genomics
 - [GffCompare](https://github.com/gpertea/gffcompare) - Classify, merge, tracking and annotation of GFF files by comparing to a reference annotation GFF.
 - [GCLib](https://github.com/gpertea/gclib) - Genomic C++ Library.
 - [rust-alignbench](https://github.com/rchikhi/rust-alignbench) - Pairwise nucleotide alignment benchmark of Rust bindings.
+- [umis](https://github.com/vals/umis) - Tools for processing UMI RNA-tag data.
+- [bcbio-nextgen](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
+- [HTS](https://github.com/biogo/hts) - SAM and BAM handling for Go.

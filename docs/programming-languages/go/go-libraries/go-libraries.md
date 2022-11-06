@@ -14,6 +14,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [teacup](https://github.com/knipferrc/teacup) - Collection of bubbles and utilities for bubbletea applications.
 - [Lip Gloss](https://github.com/charmbracelet/lipgloss) - CSS-like layout library for the terminal for Go.
 - [BubbleZone](https://github.com/lrstanley/bubblezone) - Helper utility for BubbleTea, allowing easy mouse event tracking.
+- [BubbleTint](https://github.com/lrstanley/bubbletint) - Terminal tints for everyone.
 - [catwalk](https://github.com/knz/catwalk) - Unit test library for Bubbletea TUI models.
 - [Table](https://github.com/calyptia/go-bubble-table) - TUI table component for Bubble Tea applications.
 - [Stickers](https://github.com/76creates/stickers) - Collection of TUI elements, FlexBox and Table at the moment, its build for bubbletea using lipgloss.
@@ -1870,6 +1871,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [check](https://github.com/junk1tm/check) - Convenience helpers to perform validations of any kind.
 - [TOML](https://github.com/BurntSushi/toml) - TOML parser for Go with reflection.
 - [Sorted Set](https://github.com/wangjia184/sortedset) - Data-struct inspired by the one from Redis. It allows fast access by key or score.
+- [Weave Common](https://github.com/weaveworks/common) - Libraries used in multiple Weave projects.
+- [shellquote](https://github.com/kballard/go-shellquote) - Go utilities for performing shell-like word splitting/joining.
+- [Pipeline](https://github.com/deliveryhero/pipeline) - Library to help you create pipelines in Go.
 
 ## Links
 

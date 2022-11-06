@@ -305,3 +305,4 @@ title: HTTP
 - [Structured error messages for HTTP APIs (2022)](https://blog.frankel.ch/structured-errors-http-apis/) ([Reddit](https://www.reddit.com/r/programming/comments/yhlces/structured_error_messages_for_http_apis/))
 - ["A Hipster History of CORS" by Devdatta Akhawe (2022)](https://www.youtube.com/watch?v=0YJ-yhoJh2I)
 - [HTTP Workshop in 2022](https://github.com/HTTPWorkshop/workshop2022)
+- [Multihook](https://github.com/Trivernis/multihook) - Easy to configure webhook server.

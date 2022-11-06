@@ -689,3 +689,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Catppuccin Wallpapers](https://github.com/catppuccin/wallpapers) - Wallpapers to match your Catppuccin setups.
 - [Ayaka](https://github.com/Uni-Gal/Ayaka) - Visual novel engine written by Rust.
 - [Moco Museum](https://mocomuseum.com/)
+- [Argdown](https://argdown.org/) - Simple syntax for complex argumentation. ([Code](https://github.com/christianvoigt/argdown))

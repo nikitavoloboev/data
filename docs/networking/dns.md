@@ -252,4 +252,4 @@ title: DNS
 - [Automated learning of regexes for DNS discovery](https://github.com/cramppet/regulator)
 - [DNS privacy with speed? Evaluating DNS over QUIC and its impact on web performance (2022)](https://dl.acm.org/doi/10.1145/3517745.3561445)
 - [DNS Response Size (2022)](https://www.netmeister.org/blog/dns-size.html)
-- [Making a DNS query in Ruby from scratch (2022)](https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/)
+- [Making a DNS query in Ruby from scratch (2022)](https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/) ([HN](https://news.ycombinator.com/item?id=33494386))

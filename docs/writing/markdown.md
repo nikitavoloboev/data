@@ -150,3 +150,4 @@
 - [Crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB.
 - [Ask HN: Is there any beautiful Markdown editor? (2022)](https://news.ycombinator.com/item?id=32797711)
 - [remark-lint-frontmatter-schema](https://github.com/JulianCataldo/remark-lint-frontmatter-schema) - Validate your Markdown frontmatter data against a JSON schema.
+- [Snekdown](https://github.com/Trivernis/snekdown) - Extended markdown parser written in pure rust.

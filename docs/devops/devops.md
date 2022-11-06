@@ -1,6 +1,6 @@
 # DevOps
 
-I think [Railway](https://railway.app/) is amazing example of doing Devops right. [Porter](https://github.com/getporter/porter) & [Backstage](https://backstage.io/) are nice too.
+I think [Railway](https://railway.app/) is amazing example of doing Devops right. [Porter](https://github.com/getporter/porter), [Backstage](https://backstage.io/) & [Gaia](https://github.com/gaia-pipeline/gaia) are nice too.
 
 [Google SRE Book](https://sre.google/sre-book/table-of-contents/) is great. [Airplane](https://www.airplane.dev/) is nice for exposing common commands for all in team to use.
 
@@ -218,3 +218,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Bucketeer](https://bucketeer.io/) - Feature Flag Management and A/B Testing platform. ([Code](https://github.com/bucketeer-io/bucketeer))
 - [How to Build Software Like an SRE (2022)](https://www.willett.io/posts/precepts/) ([HN](https://news.ycombinator.com/item?id=33230402)) ([Lobsters](https://lobste.rs/s/gpzy80/how_build_software_like_sre))
 - [DevOps has devolved (2022)](https://blog.massdriver.cloud/devops-is-bullshit) ([HN](https://news.ycombinator.com/item?id=33274988))
+- [Gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.

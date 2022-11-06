@@ -681,3 +681,4 @@
 - [lm-scorer](https://github.com/simonepri/lm-scorer) - Language Model based sentences scoring library.
 - [CodeT: Code Generation with Generated Tests](https://github.com/microsoft/CodeT)
 - [Bloom](https://huggingface.co/bigscience/bloom) - BigScience Large Open-science Open-access Multilingual Language Model. ([Tweet](https://twitter.com/jackclarkSF/status/1588973690838188033))
+- [Prompts](https://github.com/semiosis/prompts) - Free and open-source (FOSS) curation of prompts for OpenAI’s GPT-3, EleutherAI’s GPT-j, and other LMs.

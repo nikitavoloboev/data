@@ -280,6 +280,9 @@
 - [Parchment](https://github.com/k-kohey/Parchment-swift) - Event logger implemented in Swift.
 - [EZCustomNavigation](https://github.com/Enricoza/EZCustomNavigation) - Easy Custom Navigation Controller that allows popping view controllers with pan gesture from center too and UnPop them back in.
 - [ImageViewer.swift](https://github.com/michaelhenry/ImageViewer.swift) - Easy to use Image Viewer that is inspired by Facebook.
+- [Thunder Basics](https://github.com/3sidedcube/ThunderBasics) - Collection of helpful extensions, subclasses and wrappers to make iOS app development easier.
+- [Thunder Collection](https://github.com/3sidedcube/ThunderCollection) - Wrapper around UICollectionViewController enabling a declarative API around it's delegate methods using protocols.
+- [Baymax](https://github.com/3sidedcube/Baymax) - Diagnostics framework for iOS apps.
 
 ## macOS
 
@@ -1293,6 +1296,10 @@
 - [LongPressButton](https://github.com/danielctull-playground/LongPressButton)
 - [XConfigs](https://github.com/michaelhenry/XConfigs) - Quick, simple and stylish solution for your remote and dev configurations.
 - [Advanced ScrollView](https://github.com/dmytro-anokhin/advanced-scrollview) - Build advanced interactions with UIScrollView and NSScrollView in SwiftUI.
+- [TimecodeKit](https://github.com/orchetect/TimecodeKit) - Robust and precise SMPTE timecode library supporting 20 frame rates.
+- [MIDIKit](https://github.com/orchetect/MIDIKit) - Modern multi-platform Swift CoreMIDI wrapper with MIDI 2.0 support.
+- [PListKit](https://github.com/orchetect/PListKit) - Multiplatform Swift library bringing functional methods and type safety to .plist (Property List) files.
+- [SwiftRadix](https://github.com/orchetect/SwiftRadix) - Easily convert integers to binary/hex/octal strings and back again with clean functional syntax.
 
 ## Other (not lib)
 
