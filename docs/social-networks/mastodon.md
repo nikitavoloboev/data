@@ -4,6 +4,8 @@ title: Mastodon
 
 # [Mastodon](https://joinmastodon.org/)
 
+[Trying to use Mastodon more](https://merveilles.town/web/@nikivi).
+
 ## Interesting communities
 
 - [Merveilles](https://merveilles.town/about) - Community project aimed at the establishment of new ways of speaking, seeing and organizing information. ([Code](https://github.com/merveilles/merveilles-town)) ([Resources](https://github.com/merveilles/The-Town)) ([Resources 2](https://github.com/merveilles/Resources)) ([Forum](https://forum.merveilles.town/))

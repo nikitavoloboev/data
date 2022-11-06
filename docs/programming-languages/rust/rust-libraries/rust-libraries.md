@@ -752,7 +752,7 @@
 - [egobox](https://github.com/relf/egobox) - Rust toolbox about surrogate-based adaptative optimization.
 - [Safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors.
 - [Disco Rust](https://github.com/ankane/disco-rust) - Recommendations for Rust using collaborative filtering.
-- [Burn](https://github.com/burn-rs/burn) - Deep learning framework with extreme flexibility written in Rust.
+- [Burn](https://github.com/burn-rs/burn) - Deep learning framework with extreme flexibility written in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/ynquym/announcing_burn_new_deep_learning_framework_with/))
 
 ## macOS
 
@@ -2397,6 +2397,7 @@
 - [Cargo Sort](https://github.com/DevinR528/cargo-sort) - Tool to check that your Cargo.toml dependencies are sorted alphabetically.
 - [targo](https://github.com/sunshowers/targo) - Wraps cargo to move target directories to a central location.
 - [cargo-deps](https://github.com/m-cat/cargo-deps) - Cargo subcommand for building dependency graphs of Rust projects.
+- [CycloneDX Rust (Cargo) Plugin](https://github.com/CycloneDX/cyclonedx-rust-cargo) - Creates CycloneDX Software Bill of Materials (SBOM) from Rust (Cargo) projects.
 
 ## Notes
 

@@ -18,6 +18,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [As Design tools and code are rapidly converging. Designers who can think like developers will have a leg up on everyone.](https://twitter.com/Ridderingand/status/1448680030108729348)
 - [Designing for dark mode is incredibly hard as an afterthought. If you plan to support dark mode, try designing it first and doing the light version after.](https://twitter.com/steveschoger/status/1453823790560026625)
 - [90% of design is just moving things around until it looks right](https://twitter.com/ormanclark/status/1493653136980033543)
+- [Most effective graphics are done by those who understand the product flows.](https://twitter.com/FonsMans/status/1589003208936296450)
 
 ## Links
 
