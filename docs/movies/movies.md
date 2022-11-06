@@ -148,3 +148,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Movies that entirely f\*ck your brain in the end (2022)](https://www.reddit.com/r/MovieSuggestions/comments/y8b2bc/movies_that_entirely_fck_your_brain_in_the_end/)
 - [Movies that are interesting as well as difficult to understand (2022)](https://www.reddit.com/r/MovieSuggestions/comments/yhc07l/movies_that_are_interesting_as_well_as_difficult/)
 - [Ask HN: HN-like forum for literature and cinema? (2022)](https://news.ycombinator.com/item?id=33468314)
+- [Give me a tiny detail in a film that you absolutely love, that you're pretty sure no one else notices](https://twitter.com/juliacmarchese/status/1588210453137629184)

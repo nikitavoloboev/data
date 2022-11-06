@@ -335,3 +335,4 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [What happens when a blog post goes viral? (2022)](https://www.jvt.me/posts/2022/10/14/blog-viral/)
 - [Blog with Native Content Editing](https://vercel.com/templates/next.js/blog-nextjs-sanity) ([Tweet](https://twitter.com/sanity_io/status/1584986255489925120))
 - [Get Blogging!](https://getblogging.org/) - Your easy guide to starting a new blog.
+- [What to blog about (2022)](https://simonwillison.net/2022/Nov/6/what-to-blog-about/)
