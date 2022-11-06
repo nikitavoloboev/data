@@ -416,3 +416,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Dune Client](https://github.com/cowprotocol/dune-client) - Framework for interacting with Dune Analytics' officially supported API service.
 - [Uniswap Labs Widgets](https://github.com/Uniswap/widgets)
 - [Discove](https://www.discove.xyz/)
+- [Twilight: A Differentially Private Payment Channel Network (2022)](https://www.usenix.org/conference/usenixsecurity22/presentation/dotan)

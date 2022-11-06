@@ -17,3 +17,4 @@ I also support [Archive.org](https://archive.org/donate/) & [Wikipedia](https://
 - [GiveWell](https://www.givewell.org/) - Charity Reviews and Research.
 - [Deed](https://www.joindeed.com/) - Helping companies retain employees by doing good deeds.
 - [What I learnt building a software company in volunteering (2021)](https://tycho.substack.com/p/building-a-volunteering-saas-company)
+- [Ask HN: How to give back as a software engineer? (2022)](https://news.ycombinator.com/item?id=33450538)

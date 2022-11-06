@@ -276,3 +276,4 @@ title: Spatial analysis
 - [Pangeo](https://pangeo.io/) - Community platform for Big Data geoscience. ([Web Code](https://github.com/pangeo-data/pangeo))
 - [Machine Learning Aware Spatial Data Re-partitioning Framework for Spatial Datasets](https://github.com/kanchanchy/spatial-repartitioning-ml)
 - [GeoTorch](https://github.com/DataSystemsLab/GeoTorch) - Spatiotemporal Deep Learning Framework.
+- [3D OpenStreetMap](https://demo.f4map.com/#camera.theta=0.9) ([HN](https://news.ycombinator.com/item?id=33485985))

@@ -276,3 +276,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [Swurl](https://swurl.com/) - Search engine with nice column UX. ([HN](https://news.ycombinator.com/item?id=33251954))
 - [Rust wrapper for the Meilisearch API](https://github.com/meilisearch/meilisearch-rust)
 - [Summa](https://github.com/izihawa/summa) - Full-text search server written in Rust with Python and GRPC API.
+- [CrowdView](https://crew-rho.vercel.app/) - Discussions Search Engine (stop adding “Reddit” on Google). ([HN](https://news.ycombinator.com/item?id=33438991))

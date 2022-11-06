@@ -99,6 +99,10 @@ Quick notes interlinked are amazing. But when combined with proper researched an
 
 I personally have been focusing on growing this wiki for way too long, I want to write more long term pieces, properly researched and well done. Web canvas is so powerful in the kinds of stories you can tell. Or maybe make more photographical stories like ones seen on [Exposure](https://www.exposure.co/publications).
 
+## Nice pieces of effective writing
+
+- [CEO Patrick Collison's email to Stripe employees](https://stripe.com/en-gb-es/newsroom/news/ceo-patrick-collisons-email-to-stripe-employees) ([HN](https://news.ycombinator.com/item?id=33450753))
+
 ## Notes
 
 - Most adverbs are superfluous. Most cases where you say "generally" or "usually" you're undermining your point and the use of "very", "extremely", etc. are hyperbolic and breathless and make it easier to regard what you're writing as unserious.

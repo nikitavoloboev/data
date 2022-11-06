@@ -139,3 +139,5 @@
 - [DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps (2022)](https://arxiv.org/abs/2206.00927) ([Code](https://github.com/LuChengTHU/dpm-solver))
 - [Ask CLI](https://github.com/sw-yx/ask-cli) - Deno CLI for pinging GPT-3 and iterating with chain of thought prompting.
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class)
+- [Ask HN: How to get into AI generation (images,text) (2022)](https://news.ycombinator.com/item?id=33479367)
+- [Stable Diffusion and AI generated art is absolutely wild in every way (2022)](https://a.wholelottanothing.org/2022/11/02/stable-diffusion-and-ai-generated-art-is-absolutely-wild-in-every-way/)

@@ -540,3 +540,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Blip](https://github.com/apenwarr/blip) - Tool for seeing your internet latency. ([HN](https://news.ycombinator.com/item?id=33445178))
 - [IP2Location Node.js Module](https://github.com/ip2location/ip2location-nodejs) - Knowing where your visitors from.
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
+- [Ask HN: How many of you prefer to use Ethernet? (2022)](https://news.ycombinator.com/item?id=33444078)

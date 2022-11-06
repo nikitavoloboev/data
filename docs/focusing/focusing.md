@@ -127,3 +127,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [5-step exercise for week planning](https://twitter.com/adcock_brett/status/1573719801536471041)
 - [How to plan? (2022)](https://kellanem.com/notes/how-to-plan)
 - [Day in the life of Andrej Karpathy (2022)](https://www.youtube.com/watch?v=iu3LJY8N_9s)
+- [Ask HN: How to regain focus when you feel overwhelmed? (2022)](https://news.ycombinator.com/item?id=33464989)

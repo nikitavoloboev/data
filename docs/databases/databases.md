@@ -709,3 +709,4 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [The B-Tree, LSM-Tree, and the Bw-Tree in Between (2022)](https://photondb.io/2022/08/15/bw-tree.html)
 - [Big Data Storage (2022)](https://berthub.eu/articles/posts/big-data-storage/)
 - [Rewriting a high performance vector database in Rust | Pinecone (2022)](https://www.pinecone.io/learn/rust-rewrite/)
+- [Ephemeral DB, a sacrificial database line for high-throughput data (2022)](https://brandur.org/fragments/ephemeral-db)

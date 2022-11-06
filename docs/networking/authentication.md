@@ -1,6 +1,6 @@
 # Authentication
 
-[Clerk](https://clerk.dev/), [SpiceDB](../databases/spicedb.md), [Passkeys](https://developer.apple.com/passkeys/), [Biscuit](https://www.biscuitsec.org/), [Hanko](https://www.hanko.io/) & [Logto](https://github.com/logto-io/logto) seem neat.
+[Clerk](https://clerk.dev/), [SpiceDB](../databases/spicedb.md), [Passkeys](https://developer.apple.com/passkeys/), [Biscuit](https://www.biscuitsec.org/), [Hanko](https://www.hanko.io/), [Logto](https://github.com/logto-io/logto) & [ORY Hydra](https://github.com/ory/hydra) seem neat.
 
 ## Notes
 
@@ -77,7 +77,7 @@
 - [Let's build the GitHub authorization model (2020)](https://www.osohq.com/post/building-the-github-authorization-model-using-oso)
 - [Oso](https://www.osohq.com/) - Open source policy engine for authorization that’s embedded in your application. ([Code](https://github.com/osohq/oso)) ([GitHub](https://github.com/osohq)) ([Sam Scott, co-founder and CTO of Oso](https://overcast.fm/+cV8qq9nko))
 - [I Actively Discourage Online Tooling Like Jwt.io and Online JSON Validators (2020)](https://www.jvt.me/posts/2020/09/01/against-online-tooling/) ([Lobsters](https://lobste.rs/s/jxlr73/why_i_actively_discourage_online_tooling)) ([HN](https://news.ycombinator.com/item?id=24352360))
-- [ORY Hydra](https://github.com/ory/hydra) - Hardened, OpenID Certified OAuth 2.0 Server and OpenID Connect Provider optimized for low-latency, high throughput, and low resource consumption.
+- [ORY Hydra](https://github.com/ory/hydra) - Hardened, OpenID Certified OAuth 2.0 Server and OpenID Connect Provider optimized for low-latency, high throughput, and low resource consumption. ([HN](https://news.ycombinator.com/item?id=33451181))
 - [The different kinds of authentication protocols](https://www.devever.net/~hl/auth)
 - [gologin](https://github.com/dghubble/gologin) - Go login handlers for authentication providers (OAuth1, OAuth2).
 - [What's in a JWT (Json Web Token)? (2020)](https://loige.co/whats-in-a-jwt/)
@@ -99,7 +99,7 @@
 - [SSSD](https://github.com/SSSD/sssd) - Daemon to manage identity, authentication and authorization for centrally-managed systems. ([Docs](https://sssd.io/))
 - [OAuth is Not User Authorization (2020)](https://www.scottbrady91.com/OAuth/OAuth-is-Not-User-Authorization)
 - [otplib](https://github.com/yeojz/otplib) - Time-based (TOTP) and HMAC-based (HOTP) One-Time Password library. ([Web](https://otplib.yeojz.dev/))
-- [SuperTokens](https://supertokens.io/) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito. ([Code](https://github.com/supertokens/supertokens-core))
+- [SuperTokens](https://supertokens.com/) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito. ([Code](https://github.com/supertokens/supertokens-core)) ([HN](https://news.ycombinator.com/item?id=33450860))
 - [FastAuth](https://github.com/flatfeestack/fastauth) - Simple authentication server that can also be used for local development with reasonable defaults to kickstart the local development.
 - [Web Authentication Methods Compared](https://testdriven.io/blog/web-authentication-methods/)
 - [About authentication methods (2020)](https://marlam.de/msmtp/news/about-authentication/) ([HN](https://news.ycombinator.com/item?id=25594693))

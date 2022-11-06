@@ -63,3 +63,6 @@ title: Mastodon
 - [Leviathan](https://github.com/Swiftodon/Leviathan) - iOS and macOS client application for the Mastodon social network.
 - [It looks like I’m moving to Mastodon (2022)](https://simonwillison.net/2022/Nov/5/mastodon/) ([HN](https://news.ycombinator.com/item?id=33478570))
 - [Searchable List of Mastodon Servers](https://instances.social/) ([HN](https://news.ycombinator.com/item?id=33482976))
+- [Mastodon Explained](https://mastodon.ie/@Ciaraioch/109287818715515862) ([HN](https://news.ycombinator.com/item?id=33486497))
+- [Debirdify](https://pruvisto.org/debirdify/) - Search the people you follow on Twitter for possible Mastodon/Fediverse accounts.
+- [Fedi.Tips](https://fedi.tips/) - Unofficial Guide to Mastodon and the Fediverse.
