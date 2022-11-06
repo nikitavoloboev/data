@@ -147,3 +147,4 @@ title: Racket
 - [gann](https://github.com/massung/gann) - Genetic Algorithm based Neural Networks for Racket.
 - [Corpse Reviver](https://github.com/camoy/corpse-reviver) - Sound and efficient gradual typing via contract verification.
 - [Redex Parameters](https://github.com/camoy/redex-parameter) - Parameters for extensions in Redex.
+- [Awesome Racket and Scheme](https://github.com/caocao485/awesome-racket-and-scheme)

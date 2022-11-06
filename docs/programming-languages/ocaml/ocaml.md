@@ -152,3 +152,4 @@ title: OCaml
 - [Practical OCaml, Multicore Edition (2022)](https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2)
 - [OCaml 5 is perfect prototyping language](https://twitter.com/Horusiath/status/1578991843161038853)
 - [Necro ML: Generating OCaml Interpreters (2022)](https://louis.noizet.fr/laboro/ML_ICFP_preprint.pdf)
+- [Introduction to OCaml for Program Analysis](https://github.com/mjambon/ocaml-for-pa)

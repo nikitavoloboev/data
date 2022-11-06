@@ -90,3 +90,4 @@ title: Godot
 - [Godot Egui](https://github.com/setzer22/godot-egui) - Egui backend for godot-rust.
 - [Emulating double precision on the GPU to render large worlds (2022)](https://godotengine.org/article/emulating-double-precision-gpu-render-large-worlds) ([HN](https://news.ycombinator.com/item?id=33237338))
 - [Godot Card Game Framework](https://github.com/db0/godot-card-game-framework)
+- [Rust bindings for GDExtension](https://github.com/godot-rust/gdextension)

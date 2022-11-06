@@ -466,3 +466,4 @@ title: PyTorch
 - [Torch-DCT](https://github.com/zh217/torch-dct) - DCT (discrete cosine transform) functions for PyTorch.
 - [MultiPy](https://github.com/pytorch/multipy) - C++ library that enables you to run eager mode PyTorch models in production without any modifications to your model to support tracing.
 - [Video Swin Transformer in PyTorch](https://github.com/haofanwang/video-swin-transformer-pytorch)
+- [PyTorch Fundamentals Learning Path](https://github.com/MicrosoftDocs/pytorchfundamentals)
