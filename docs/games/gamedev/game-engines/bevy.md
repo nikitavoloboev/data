@@ -68,3 +68,4 @@ title: Bevy Engine
 - [Bevy Game Jam 2022](https://github.com/DGriffin91/BevyJam2022)
 - [bevy_egui](https://github.com/mvlabat/bevy_egui) - Provides a Egui integration for the Bevy game engine.
 - [GGRS and Rapier working together in Bevy engine](https://github.com/cscorley/bevy_ggrs_rapier_example)
+- [Networking in Bevy/Rust: Bevy Renet Showcase (2022)](https://www.youtube.com/watch?v=fBHO0yptg1Y)

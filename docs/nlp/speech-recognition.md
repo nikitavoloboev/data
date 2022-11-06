@@ -148,3 +148,4 @@ title: Speech recognition
 - [Real-time speech recognition using next-gen Kaldi with ncnn](https://github.com/k2-fsa/sherpa-ncnn)
 - [Gecko](https://github.com/gong-io/gecko) - Tool for Effective Annotation of Human Conversations. ([Web](https://gong-io.github.io/gecko/))
 - [OpenAI Whisper - CPU](https://github.com/MiscellaneousStuff/openai-whisper-cpu) - Improving transcription performance of OpenAI Whisper for CPU based deployment.
+- [Whispering](https://github.com/shirayu/whispering) - Streaming transcriber with whisper.

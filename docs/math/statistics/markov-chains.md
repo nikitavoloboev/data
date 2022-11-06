@@ -29,3 +29,4 @@
 - [IOHMM](https://github.com/Mogeng/IOHMM) - Python package of Input-Output Hidden Markov Model.
 - [marc](https://github.com/maxhumber/marc) - Markov chain generator for Python and/or Swift.
 - [hmmlearn](https://github.com/hmmlearn/hmmlearn) - Hidden Markov Models in Python, with scikit-learn like API.
+- [Markovify](https://github.com/jsvine/markovify) - Simple, extensible Markov chain generator.
