@@ -385,3 +385,4 @@ title: WebAssembly
 - [CoWasm](https://github.com/sagemathinc/cowasm) - Collaborative WebAssembly for Servers and Browsers. Built using Zig. Supports Python with extension modules, including numpy. ([Web](https://cowasm.org/))
 - [Luna](https://github.com/thomscoder/luna) - Tiny WebAssembly compiler in Go.
 - [Minimal WASI Interpreter in Zig](https://github.com/andrewrk/zig-wasi)
+- [Silly WAT Linker](https://github.com/surma/silly-wat-linker) - Tool that makes writing WebAssembly Text files easier.

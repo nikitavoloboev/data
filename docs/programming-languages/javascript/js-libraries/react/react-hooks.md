@@ -28,6 +28,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [liquorstore](https://github.com/steveruizok/liquorstore) - Reactive store that is fine, really. It works with React.
 - [mage](https://github.com/barelyhuman/mage) - Stateful + logical abstraction layer for react.
 - [use-zustand](https://github.com/dai-shi/use-zustand) - Custom hook to use Zustand vanilla store.
+- [derive-zustand](https://github.com/dai-shi/derive-zustand) - Function to create a derived Zustand store from stores.
 
 ## DB
 

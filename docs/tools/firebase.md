@@ -82,3 +82,4 @@ I like the real time aspect of Firebase but not sure how well it can scale for m
 - [A Graph-Based Firebase (2022)](https://stopa.io/post/296) ([HN](https://news.ycombinator.com/item?id=32595895))
 - [Why We're Moving on from Firebase (2022)](https://koptional.com/article/why-we%E2%80%99re-moving-away-from-firebase) ([HN](https://news.ycombinator.com/item?id=33215770))
 - [Estimate Firestore collection count from a small sample of documents (2022)](https://jfhr.me/estimate-firestore-collection-count/)
+- [Full Text & Vector Search for Firestore with Weaviate (2022)](https://samos-it.com/posts/full-text-search-for-firestore-with-weaviate.html)
