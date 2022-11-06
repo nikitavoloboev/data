@@ -900,6 +900,7 @@
 - [kmeans-colors](https://github.com/okaneco/kmeans-colors) - k-means clustering library and binary to find dominant colors in images.
 - [roots](https://github.com/vorot/roots) - Library of well known algorithms for numerical root finding.
 - [Astro-float](https://github.com/stencillogic/astro-float) - Arbitrary precision floating point numbers library.
+- [wedged](https://github.com/jsmith628/wedged) - Robust and generalized library for Geometric Algebra in Rust.
 
 ## CSS
 

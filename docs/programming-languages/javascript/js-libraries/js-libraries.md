@@ -1046,6 +1046,7 @@
 - [JSON-URL](https://github.com/masotime/json-url) - Compress JSON into compact base64 URI-friendly notation.
 - [JSON-API-Serializer](https://github.com/danivek/json-api-serializer) - Node.js/browser framework agnostic library for serializing your data to JSON API compliant responses.
 - [watching-you](https://github.com/jj811208/watching-you) - JS library for building animations that watch anything on DOM. ([HN](https://news.ycombinator.com/item?id=33490456))
+- [fast-json-clone](https://github.com/rhysd/fast-json-clone) - Tiny library to clone JSON values in pure JavaScript focusing on the speed.
 
 ## Links
 
