@@ -477,3 +477,4 @@ if (
 - [The power of JS generators](https://observablehq.com/@anjana/the-power-of-js-generators)
 - [Understanding Generators in ES6 JavaScript with Examples](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5)
 - [JavaScript's promised convenience (2022)](https://www.gregroz.me/article/javascript-promised-convenience)
+- [ShadowRealms – an ECMAScript proposal for a better `eval()` (2022)](https://2ality.com/2022/04/shadow-realms.html)

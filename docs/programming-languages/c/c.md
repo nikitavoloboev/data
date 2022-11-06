@@ -294,4 +294,4 @@
 - [FluenC](https://github.com/Znurre/dz) - Modern, functional-first, C inspired language, with a focus on simplicity.
 - [Come](https://github.com/shuosc/Come) - C like language and its compiler.
 - [C Programming Language 2nd Edition - Solutions](https://github.com/ohkimur/the-c-programming-language-2nd-edition-solutions)
-- [clex](https://github.com/jafarlihi/clex) - Simple lexer generator for C.
+- [clex](https://github.com/jafarlihi/clex) - Simple lexer generator for C. ([Lobsters](https://lobste.rs/s/lasyib/github_jafarlihi_clex_clex_is_simple))

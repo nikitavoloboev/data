@@ -139,3 +139,4 @@ I try to give my full attention to any ideas I am working on.
 - [Project book](https://projectbook.code.brettchalupa.com/) - Collection of 100 project ideas for learning. ([HN](https://news.ycombinator.com/item?id=33245614))
 - [Ask HN: What not-profit-seeking project are you tinkering with this week? (2022)](https://news.ycombinator.com/item?id=33256412)
 - [Just for Fun. No, really.](https://justforfunnoreally.dev/) ([HN](https://news.ycombinator.com/item?id=33255920))
+- [Ask HN: Comment here about whatever you're passionate about at the moment (2022)](https://news.ycombinator.com/item?id=33488891)

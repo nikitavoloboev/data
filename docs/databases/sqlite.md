@@ -267,3 +267,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [SQLite in the browser with WASM/JS](https://sqlite.org/wasm/doc/tip/about.md) ([HN](https://news.ycombinator.com/item?id=33374402)) ([Tweet](https://twitter.com/maccaw/status/1586122543098134529))
 - [Soul](https://github.com/thevahidal/soul) - SQLite RESTful server. ([HN](https://news.ycombinator.com/item?id=33387162))
 - [SQLite – Partial Indexes](https://www.sqlite.org/partialindex.html) ([HN](https://news.ycombinator.com/item?id=33401404))
+- [How To Corrupt An SQLite Database File](https://www.sqlite.org/howtocorrupt.html) ([HN](https://news.ycombinator.com/item?id=22098832))

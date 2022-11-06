@@ -151,6 +151,7 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [There are people you love with all of your heart but who are also just broken people despite anything you do or can do, say or can say. And broken people will break you. Learning to accept that for what it is and find a balance to help them/be in their life and protect yourself is one of the hardest things to do and accept.](https://www.reddit.com/r/AskOldPeople/comments/x5a066/do_you_have_a_harsh_truth_that_was_hard_to_hear/)
 - [Love that wants only to get, to possess, is a monstrous thing.](https://twitter.com/UrsulaBot/status/1573530826205122561)
 - [Love isn't a measurable thing, there's no "love her more", instead it's "love her, too". No one could ever love anyone equally, instead you love them all individually. Like, just because I love the way a partner squeaks in the morning while stretching doesn't mean I love another partner any less for the way they do a little happy dance when they're about to eat - I don't love one of those things more than the other, I love both of those things about them.](https://www.reddit.com/r/polyamory/comments/y21di5/what_if_he_loves_her_more/)
+- [Toxic monogamy does exist. Thinking true love means never lusting for others, thinking jealousy is awful, thinking we own partners, thinking you don't need other friends and positive adult relationships, that you should have sex you don't want sometimes, those are all really unhealthy things that our world tends to promote. But monogamy is just knowing you want to commit and focus your relationship intimacy and resources on one person, regardless of feelings to others. Perfectly awesome.](https://www.reddit.com/r/polyamory/comments/yndeh3/do_any_of_you_believe_monogamy_is_toxic/)
 
 ## Links
 
@@ -293,3 +294,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [РАССТАВАНИЕ. Как решиться и как прожить боль, если меня бросили. Дружба между мужчиной и женщиной (2022)](https://www.youtube.com/watch?v=thNdT5dt4Xg)
 - [The Social Recession: By the Numbers (2022)](https://novum.substack.com/p/social-recession-by-the-numbers)
 - [Про расставания](https://www.instagram.com/tv/CkjAEM5Kk0m/)
+- [Men of Reddit, what do you dislike about today's dating culture?](https://www.reddit.com/r/AskMen/comments/yndzqu/men_of_reddit_what_do_you_dislike_about_todays/)

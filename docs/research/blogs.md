@@ -198,6 +198,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Gergo Erdi](https://gergo.erdi.hu/)
 - [Max Bernstein](https://bernsteinbear.com/blog/)
 - [Stargirl Flowers](https://blog.thea.codes/)
+- [Simon Hearne](https://simonhearne.com/posts/)
 
 ## Notes
 

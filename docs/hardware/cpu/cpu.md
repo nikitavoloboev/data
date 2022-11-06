@@ -182,3 +182,4 @@
 - [X86 CPU topics overview for developers, oriented towards performance](https://github.com/akhin/microarchitecture-cheatsheet)
 - [AMD Hypervisor written written in Rust](https://github.com/not-matthias/amd_hypervisor)
 - [Description of Apple's LEAP ISA](https://github.com/povik/leap-isa)
+- [Reverse Branch Target Buffer Poisoning (2022)](https://cos.ufrj.br/uploadfile/publicacao/3061.pdf)

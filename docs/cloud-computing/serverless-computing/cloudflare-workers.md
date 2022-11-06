@@ -204,3 +204,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [KV Utility](https://github.com/adaptive/kv) - Key Value storage solution for Cloudflare Workers.
 - [Workers-qb](https://github.com/G4brym/workers-qb) - Zero dependencies Query Builder for Cloudflare D1 Workers.
 - [Workers Web Experiments](https://github.com/cloudflare/workers-web-experiments)
+- [Fixing empty responses from Cloudflare Workers Sites (2022)](https://simonhearne.com/2022/empty-responses-cloudflare-workers-sites/)

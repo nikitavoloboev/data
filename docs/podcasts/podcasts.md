@@ -159,6 +159,8 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Looking for "well this took me down a rabbit hole" podcasts](https://www.reddit.com/r/podcasts/comments/xzxc8h/looking_for_well_this_took_me_down_a_rabbit_hole/)
 - [Podcasts that actually make you laugh (2022)](https://www.reddit.com/r/podcasts/comments/yd96p5/podcasts_that_actually_make_you_laugh/)
 - [Awesome Data Podcasts](https://github.com/DataTalksClub/awesome-data-podcasts)
+- [Name two podcasts that you like: One really popular one, and one unknown (2022)](https://www.reddit.com/r/podcasts/comments/yn1oyt/name_two_podcasts_that_you_like_one_really/)
+- [Best comedy podcasts (2022)](https://www.reddit.com/r/podcasts/comments/ymtk43/best_comedy_podcast/)
 
 ## Notes
 

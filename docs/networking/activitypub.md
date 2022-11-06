@@ -4,6 +4,8 @@ title: ActivityPub
 
 # [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)
 
+[Mastodon](../social-networks/mastodon.md) & [GoToSocial](https://github.com/superseriousbusiness/gotosocial) are neat.
+
 ## Links
 
 - [A highly opinionated guide to learning about ActivityPub (2019)](https://tinysubversions.com/notes/reading-activitypub/)
