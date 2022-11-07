@@ -125,3 +125,4 @@
 - [SingleStore’s Skiplist Indexes](https://www.singlestore.com/blog/what-is-skiplist-why-skiplist-index-for-memsql/)
 - [Ask HN: Books on designing disk-optimized data structures? (2022)](https://news.ycombinator.com/item?id=32965075)
 - [In defense of linked lists (2022)](http://antirez.com/news/138) ([HN](https://news.ycombinator.com/item?id=33473497)) ([Lobsters](https://lobste.rs/s/kbwb4d/defense_linked_lists))
+- [Fast Functional Lists, Hash-Lists, Deques and Variable Length Arrays](http://trout.me.uk/lisp/vlist.pdf)

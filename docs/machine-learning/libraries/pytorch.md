@@ -467,3 +467,5 @@ title: PyTorch
 - [MultiPy](https://github.com/pytorch/multipy) - C++ library that enables you to run eager mode PyTorch models in production without any modifications to your model to support tracing.
 - [Video Swin Transformer in PyTorch](https://github.com/haofanwang/video-swin-transformer-pytorch)
 - [PyTorch Fundamentals Learning Path](https://github.com/MicrosoftDocs/pytorchfundamentals)
+- [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch.
+- [Auto-Tuning Hyperparameters with Optuna and PyTorch (2020)](https://www.youtube.com/watch?v=P6NwZVl8ttc)

@@ -132,3 +132,4 @@
 - [Shake](https://github.com/ndmitchell/shake) - Tool for writing build systems - an alternative to make, Scons, Ant etc. ([Docs](https://shakebuild.com/))
 - [How Turbo bundler for web works (2022)](https://twitter.com/jaredpalmer/status/1584971637694222336)
 - [Introducing Turbopack: the Turbo-charged bundler (2022)](https://www.youtube.com/watch?v=btqdaqEHw0A)
+- [Fast builds, secure builds. Choose two. (2022)](https://stripe.com/blog/fast-secure-builds-choose-two)

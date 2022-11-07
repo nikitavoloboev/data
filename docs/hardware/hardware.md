@@ -367,3 +367,4 @@
 - [PYNQ](https://github.com/Xilinx/PYNQ) - Open-source project from Xilinx that makes it easy to design embedded systems with Zynq All Programmable Systems on Chips (APSoCs).
 - [Wii U Architecture | A Practical Analysis (2022)](https://www.copetti.org/writings/consoles/wiiu/)
 - [Flux](https://www.flux.ai/p) - Better way to make electronic hardware. ([Twitter](https://twitter.com/BuildWithFlux))
+- [The case for mapping PCIe BARs as device memory on arm64 (2022)](https://threedots.ovh/blog/2022/11/the-case-for-mapping-pcie-bars-as-device-memory-on-arm64/)

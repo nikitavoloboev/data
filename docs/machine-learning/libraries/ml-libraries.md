@@ -417,3 +417,4 @@ title: ML Libraries
 - [cuda-convnet](https://github.com/mbrukman/cuda-convnet) - High-performance C++/CUDA implementation of abstract convolutional neural networks.
 - [Vectory](https://github.com/pentoai/vectory) - Collection of tools to track and compare embedding versions.
 - [Lovely Tensors](https://github.com/xl0/lovely-tensors) - Tensors, ready for human consumption.
+- [EPyMARL](https://github.com/uoe-agents/epymarl) - Extended Python MARL framework.

@@ -81,3 +81,4 @@
 - [Many indoor air quality sensor products are a scam (2022)](https://halestrom.net/darksleep/blog/048_indoorairsensing/) ([HN](https://news.ycombinator.com/item?id=33025995))
 - [SmartThingsEdgeDrivers](https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers) - New architecture for Hub Connected devices that uses Device Drivers to execute commands locally on SmartThings Hubs.
 - [Ring Client API](https://github.com/dgreif/ring) - Unofficial API for Ring Doorbells, Cameras, Alarm System, and Smart Lighting.
+- [Circadian lighting with Home Assistant: Like f.lux, but for your house (2022)](https://tylercipriani.com/blog/2022/10/17/whole-house-circadian-lighting-with-home-assistant/) ([HN](https://news.ycombinator.com/item?id=33509282))

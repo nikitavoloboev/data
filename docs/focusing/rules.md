@@ -113,6 +113,7 @@
 - Only make promises I can keep.
 - Don't gaslight. Be empathetic and respect other's feelings.
 - Don't ignore people in conversations. Listen. Ask questions & be genuine.
+- Openly share things unless it's hurtful speech.
 
 ## News
 

@@ -106,3 +106,4 @@ title: Assembly
 - [Apple AMX instruction set (M1/M2 matrix coprocessor)](https://github.com/corsix/amx) ([HN](https://news.ycombinator.com/item?id=32722510))
 - [Stratified Synthesis: Automatically Learning the x86-64 Instruction Set (2016)](https://cs.stanford.edu/people/eschkufz/docs/pldi_16.pdf)
 - [Contrasting Intel AMX and Apple AMX (2022)](http://www.corsix.org/content/contrasting-intel-amx-and-apple-amx)
+- [Undefined Isn’t Unpredictable (2022)](http://www.os2museum.com/wp/undefined-isnt-unpredictable/)

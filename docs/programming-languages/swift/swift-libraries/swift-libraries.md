@@ -310,6 +310,7 @@
 
 ## Web
 
+- [CleanNetwork](https://github.com/alperen23230/CleanNetwork) - Lightweight URLSession wrapper for using async/await in networking.
 - [Mu](https://github.com/Nirma/Mu) - Minimalist HTTP request library via async / await.
 - [SwiftHttp](https://github.com/BinaryBirds/swift-http) - Awesome Swift HTTP library to rapidly create communication layers with API endpoints.
 - [EasyNetworking](https://github.com/onmyway133/EasyNetworking) - Easy networking with chainable type safe Future.

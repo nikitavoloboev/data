@@ -100,3 +100,4 @@ Like tools that [let you try the app without being forced to pay first](https://
 - [Stripe Subscription Upsells Docs](https://stripe.com/docs/payments/checkout/upsells) ([Tweet](https://twitter.com/monicalent/status/1573225232948928512))
 - [Rules for SaaS Pricing (2022)](https://earlygtm.substack.com/p/rules-for-saas-pricing)
 - [Ask HN: “Contact Us” Pricing (2022)](https://news.ycombinator.com/item?id=33425443)
+- [Purchasing Power Parity: fair pricing for your SaaS product (2021)](https://scastiel.dev/implement-ppp-fair-pricing-for-your-product) ([HN](https://news.ycombinator.com/item?id=33509258))

@@ -175,3 +175,4 @@
 - [SVG text layout for Krita (2022)](https://wolthera.info/2022/10/svg-text-layout-for-krita/)
 - [occult](https://github.com/LoicGoulefert/occult) - vpype plug-in to remove occulted lines in SVG files.
 - [rasterize-svg](https://github.com/pmkroeker/rasterize-svg) - Rasterize SVG Elements for Download as PNG.
+- [gkurve: simpler vector graphics - Stephen Gutekanst (2022)](https://www.youtube.com/watch?v=QTybQ-5MlrE)

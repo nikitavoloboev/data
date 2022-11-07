@@ -1,5 +1,7 @@
 # Internet of things
 
+[Matter](https://github.com/project-chip/connectedhomeip) & [Things Network](https://www.thethingsnetwork.org/) are neat.
+
 ## Links
 
 - [Stephen Marcus - Scaling companies with IoT products people want](https://www.youtube.com/watch?v=QokRyWPxE10&t=5s)
@@ -39,7 +41,7 @@
 - [Espressif IoT Development Framework](https://github.com/espressif/esp-idf)
 - [Towards Secure IoT Programming in Haskell](http://nachivpn.me/haski.pdf)
 - [Octopi](https://octopi.chalmers.se/) - Research effort for creating an environment in which secure internet-of-things can be developed.
-- [Connected Home over IP](https://github.com/project-chip/connectedhomeip) - Working Group to develop and promote the adoption of a new, royalty-free connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet. ([Web](https://www.connectedhomeip.com/))
+- [Matter](https://github.com/project-chip/connectedhomeip) - Creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance. ([Web](https://www.connectedhomeip.com/))
 - [RT-Thread](https://github.com/RT-Thread/rt-thread) - Open source IoT operating system. ([Web](https://www.rt-thread.io/))
 - [Amazon Sidewalk Privacy and Security Whitepaper](https://m.media-amazon.com/images/G/01/sidewalk/privacy_security_whitepaper_final.pdf) ([HN](https://news.ycombinator.com/item?id=24565259))
 - [Introducing Twilio Microvisor IoT Platform (2020)](https://www.twilio.com/blog/introducing-microvisor)

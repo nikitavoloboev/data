@@ -75,3 +75,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Example Expo project using the Safari Extension Config Plugin](https://github.com/andrew-levy/rn-extension-plugin-example)
 - [WebKit Features in Safari 16.0 (2022)](https://webkit.org/blog/13152/webkit-features-in-safari-16-0/) ([HN](https://news.ycombinator.com/item?id=32814573))
 - [WebTranslator](https://github.com/kishikawakatsumi/WebTranslator) - Safari web extension for DeepL translate.
+- [Best Safari extensions](https://www.reddit.com/r/macapps/comments/yoacpk/best_safari_extensions/)

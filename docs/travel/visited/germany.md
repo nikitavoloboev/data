@@ -62,3 +62,4 @@ Aside from those geopolitical failures, Germany seems like a nice place to live 
 - [Berlin Appointment Finder](https://github.com/volkan/appointment-finder-berlin) - Make an appointment online with the Berlin authorities.
 - [Berlin Bürgeramt Appointment Bot](https://github.com/similicious/berlin-buergeramt-bot) - Bot that sends a notification when a buergeramt appointment is available.
 - [Munich scripts](https://github.com/okainov/munich-scripts) - Some useful scripts simplifying bureaucracy.
+- [BibBot](https://github.com/stefanw/bibbot) - Browser extension that removes the paywall on German online news sites using your library account's access to press databases.

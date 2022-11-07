@@ -238,3 +238,6 @@ I also find it frustrating that Twitter iOS client doesn't have the ability to l
 - [Ask HN: Do you believe there's really an alternative to Twitter? (2022)](https://news.ycombinator.com/item?id=33490217)
 - [TwitterHD](https://github.com/DavidBuchanan314/TwitterHD) - Userscript that forces twitter to always load images and videos in full resolution.
 - [Veryfied](https://github.com/evilsocket/veryfied) - Browser extension for Twitter that will mark pre-Musk era verified accounts.
+- [Twitter's Birdwatch archived docs](https://github.com/twitter/new-repo)
+- [Twitter Open Source](https://opensource.twitter.dev/) - Identifying projects we've released, organizations we support, and the work we do to support open source. ([Code](https://github.com/twitter/opensource-website))
+- [TwitterOSS Metrics](https://github.com/twitter/metrics) - Generates periodic reports based on the health of Twitter Open Source projects.

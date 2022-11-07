@@ -450,3 +450,4 @@
 - [Automatic music mixing with deep learning and out-of-domain data (2022)](https://arxiv.org/abs/2208.11428) ([Code](https://github.com/sony/FxNorm-automix))
 - [Samples used in SuperDirt and the TidalCycles tutorials](https://github.com/tidalcycles/Dirt-Samples)
 - [David Addison - YouTube](https://www.youtube.com/c/DavidAddison1/videos)
+- [Modernizing my 1980s sound system (2022)](https://blog.yossarian.net/2022/11/07/Modernizing-my-1980s-sound-system) ([HN](https://news.ycombinator.com/item?id=33506765))

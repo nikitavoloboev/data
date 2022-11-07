@@ -124,6 +124,8 @@
 - [GenericTensorNetworks](https://github.com/QuEraComputing/GenericTensorNetworks.jl) - Generic tensor networks for solution space properties.
 - [DifferentiableFactorizations](https://github.com/mohamed82008/DifferentiableFactorizations.jl) - Differentiable matrix factorizations using ImplicitDifferentiation.jl.
 - [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) - Fast tensor operations using a convenient Einstein index notation.
+- [MarkovKernels.jl](https://github.com/filtron/MarkovKernels.jl) - Marginal distributions and Markov kernels that play nice with each other for the purpose of Bayesian state estimation.
+- [ProbNumDiffEq.jl](https://github.com/nathanaelbosch/ProbNumDiffEq.jl) - Probabilistic Numerical Differential Equation solvers via Bayesian filtering and smoothing.
 
 ## Math
 

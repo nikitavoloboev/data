@@ -573,3 +573,6 @@ all: unset
 - [CSS checkbox examples](https://getcssscan.com/css-checkboxes-examples) ([HN](https://news.ycombinator.com/item?id=33418445))
 - [typed-scss-modules](https://github.com/skovy/typed-scss-modules) - Generate type definitions (.d.ts) for CSS Modules using SCSS.
 - [The New CSS Media Query Range Syntax (2022)](https://css-tricks.com/the-new-css-media-query-range-syntax/)
+- [Xess 2: CSS variable edition (2022)](https://xeiaso.net/blog/xess-css-variables)
+- [Making Tables Responsive With Minimal CSS (2019)](https://bt.ht/tables/)
+- [Is there too much CSS now? (2022)](https://css-tricks.com/is-there-too-much-css-now/) ([HN](https://news.ycombinator.com/item?id=33507817))

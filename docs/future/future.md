@@ -113,3 +113,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Ask HN: What's the next big thing that few people are talking about? (2022)](https://news.ycombinator.com/item?id=32378695)
 - [Ask HN: Boring but important tech no one is working on? (2022)](https://news.ycombinator.com/item?id=32611247)
 - [The Next Century of Computing (2022)](https://bzogrammer.substack.com/p/the-next-century-of-computing)
+- [What do you believe to be the “next big thing”? (2022)](https://www.reddit.com/r/stocks/comments/yo477f/what_do_you_believe_to_be_the_next_big_thing/)

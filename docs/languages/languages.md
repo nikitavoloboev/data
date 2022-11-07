@@ -90,3 +90,4 @@
 - [Lingva Translate](https://lingva.ml/) - Alternative front-end for Google Translate. ([Code](https://github.com/thedaviddelta/lingva-translate))
 - [DeepL Translate](https://github.com/ptrstn/deepl-translate) - Python package to translate text using DeepL.
 - [Language Log](https://languagelog.ldc.upenn.edu/nll/)
+- [Against Duolingo as a language learning platform (2022)](https://xrvs.net/posts/2022-11-06-against-duolingo/) ([HN](https://news.ycombinator.com/item?id=33495256))

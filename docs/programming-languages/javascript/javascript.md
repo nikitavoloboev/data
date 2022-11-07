@@ -478,3 +478,4 @@ if (
 - [Understanding Generators in ES6 JavaScript with Examples](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5)
 - [JavaScript's promised convenience (2022)](https://www.gregroz.me/article/javascript-promised-convenience)
 - [ShadowRealms – an ECMAScript proposal for a better `eval()` (2022)](https://2ality.com/2022/04/shadow-realms.html)
+- [Why would anyone need JavaScript generator functions? (2022)](https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/) ([HN](https://news.ycombinator.com/item?id=33504700))

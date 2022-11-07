@@ -271,3 +271,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Ask HN: Solo Dev Stack of 2022?](https://news.ycombinator.com/item?id=33046696)
 - [12 Factor App Revisited (2022)](https://architecturenotes.co/12-factor-app-revisited/)
 - [YAGNI exceptions (2021)](https://lukeplant.me.uk/blog/posts/yagni-exceptions/) ([HN](https://news.ycombinator.com/item?id=33230216))
+- [Bottom-up Design - Karsten Schmidt (2022)](https://www.youtube.com/watch?v=ZSYNML-Yhxo)

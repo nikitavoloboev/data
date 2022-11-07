@@ -209,3 +209,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [When Network is Faster than Cache (2020)](https://simonhearne.com/2020/network-faster-than-cache/)
 - [Optimising Core Web Vitals on SPAs (2022)](https://simonhearne.com/2022/core-web-vitals-on-spas/)
 - [Survivorship Bias in Web Performance (2022)](https://simonhearne.com/2022/survorship-bias-in-webperf/)
+- [crux.page](https://github.com/MananTank/crux) - Get CrUX data for any webpage, origin or list of pages with ease.

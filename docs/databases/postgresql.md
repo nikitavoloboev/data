@@ -601,3 +601,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pisk](https://github.com/patrkris/pisk) - PostgreSQL Sessions in Vim. ([HN](https://news.ycombinator.com/item?id=33449475))
 - [Things I learned at PGConf.EU 2022](https://domm.plix.at/perl/2022_10_things_i_learned_at_pgconfeu.html)
 - [Postgres Insider Terminology (2022)](https://www.crunchydata.com/blog/challenging-postgres-terminology) ([HN](https://news.ycombinator.com/item?id=33462983))
+- [Opening Old Wounds - Why Uber Engineering Switched from Postgres to MySQL (2020)](https://www.youtube.com/watch?v=_E43l5EbNI4)

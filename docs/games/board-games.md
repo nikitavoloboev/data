@@ -65,3 +65,4 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [Picking your first board game (2022)](https://www.reddit.com/r/boardgames/comments/ygyloo/want_to_pick_my_first_boardgame_and_feeling/)
 - [CoOp games for two without much setup time (2022)](https://www.reddit.com/r/boardgames/comments/yk2ie4/coop_games_for_two_without_much_setup_time/)
 - [What game have you played for years, but every time you play it feels like a completely different experience? (2022)](https://www.reddit.com/r/boardgames/comments/yjlwpn/what_game_have_you_played_for_years_but_every/)
+- [Best Co-op board games? (2022)](https://www.reddit.com/r/boardgames/comments/yonn31/best_coop_games/)

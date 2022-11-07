@@ -537,3 +537,4 @@ I want to:
 - [Silver Bullet](https://github.com/silverbulletmd/silverbullet) - Extensible, open source personal knowledge platform.
 - [cobalt](https://co.wukko.me/) - Best way to save content you love. ([Code](https://github.com/wukko/cobalt))
 - [Recall](https://www.recall-app.com/) - Helps you remember things you're interested in. ([HN](https://news.ycombinator.com/item?id=33425947))
+- [Lazy](https://lazy.so/) - Capture tool for knowledge. ([Tweet](https://twitter.com/demtzu/status/1589633050107080704))

@@ -47,3 +47,4 @@ title: ActivityPub
 - [Ask HN: ActivityPub or Mastodon? (2022)](https://news.ycombinator.com/item?id=33491684)
 - [Ask HN: Which ActivityPub software to use for a personal server? (2022)](https://news.ycombinator.com/item?id=33482516)
 - [The many branches of the Fediverse (2022)](https://axbom.com/fediverse/)
+- [The Fediverse, and Custom Domains](https://aeracode.org/2022/11/01/fediverse-custom-domains/) ([HN](https://news.ycombinator.com/item?id=33503511))

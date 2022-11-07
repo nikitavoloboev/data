@@ -49,3 +49,4 @@
 - [Magic Leap 2](https://www.magicleap.com/en-us/magic-leap-2-video) - Most immersive AR platform for enterprise. ([HN](https://news.ycombinator.com/item?id=33041677))
 - [AlvaAR](https://github.com/alanross/AlvaAR) - Real time visual SLAM algorithm running as WebAssembly, in the browser.
 - [LaMAR: Benchmarking Localization and Mapping for AR (2022)](https://lamar.ethz.ch/) ([Code](https://github.com/microsoft/lamar-benchmark))
+- [Haptics with Input: Using Linear Resonant Actuators for Sensing (2022)](https://ai.googleblog.com/2020/11/haptics-with-input-using-linear.html)

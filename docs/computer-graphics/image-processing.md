@@ -212,3 +212,4 @@
 - [chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - Node-based image processing GUI aimed at making chaining image processing tasks (especially upscaling done by neural networks) easy, intuitive, and customizable.
 - [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image/video deep learning upscaling for any GPU in PyTorch. ([HN](https://news.ycombinator.com/item?id=33485830))
 - [The Case for JPEG XL (2022)](https://cloudinary.com/blog/the-case-for-jpeg-xl) ([HN](https://news.ycombinator.com/item?id=33442281))
+- [ImageWand: privacy-first image conversion experiment with Go & WASM (2022)](https://brunoluiz.net/blog/2022/aug/imagewand-privacy-first-image-conversion-experiment-with-golang-and-wasm/)

@@ -19,6 +19,9 @@
 - [Cask](https://github.com/com-lihaoyi/cask) - Scala HTTP micro-framework.
 - [http4s-curl](https://github.com/http4s/http4s-curl) - Experimental client for http4s on Scala Native, backed by libcurl.
 - [fs2-dom](https://github.com/armanbilge/fs2-dom) - Idiomatic Cats Effect + FS2 integrations for Web APIs.
+- [Scala DOM Types](https://github.com/raquo/scala-dom-types) - Scala types for your library to represent HTML tags, attributes, properties and CSS styles.
+- [Laminar](https://github.com/raquo/Laminar) - Simple, expressive, and safe UI library for Scala.js. ([Talk](https://www.youtube.com/watch?v=L_AHCkl6L-Q)) ([Web](https://laminar.dev/))
+- [Waypoint](https://github.com/raquo/Waypoint) - Efficient router for Laminar UI Library.
 
 ## CLI
 
@@ -203,6 +206,7 @@
 - [Morphling](https://github.com/danslapman/morphling) - Cats-based Scala library for free applicative schemas.
 - [Kalix Java and Scala SDK](https://github.com/lightbend/kalix-jvm-sdk)
 - [Scala Standard Parser Combinator](https://github.com/scala/scala-parser-combinators) - Parsing for Scala.
+- [Airstream](https://github.com/raquo/Airstream) - State propagation and event streams with mandatory ownership and no glitches.
 
 ## Links
 

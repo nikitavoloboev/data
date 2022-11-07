@@ -2570,3 +2570,4 @@
 - [Workshop Repo: Microservice with Tokio and Rust](https://github.com/ddprrt/microservice-rust-workshop)
 - [Using Rust as my Backend (2022)](https://www.reddit.com/r/rust/comments/yk9br7/using_rust_as_my_backend/)
 - [What crates are considered as de-facto standard? (2022)](https://www.reddit.com/r/rust/comments/ylp4nz/what_crates_are_considered_as_defacto_standard/)
+- [Blessed.rs](https://blessed.rs/crates) - Unofficial guide to the Rust ecosystem. ([Code](https://github.com/nicoburns/blessed-rs)) ([HN](https://news.ycombinator.com/item?id=33506132))

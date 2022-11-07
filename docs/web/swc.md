@@ -27,3 +27,4 @@ title: swc
 - [SWC-plugin-vanilla-extract](https://github.com/kwonoj/swc-plugin-vanilla-extract)
 - [SWC plugin for transforming import path](https://github.com/ankitchouhan1020/swc-plugin-transform-import)
 - [SWC-to-babel](https://github.com/coderaiser/swc-to-babel) - Convert SWC to Babel AST.
+- [swc-loader](https://github.com/swc-project/swc-loader) - Webpack loader for swc.

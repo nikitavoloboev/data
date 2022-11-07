@@ -18,6 +18,7 @@ title: Mastodon
 ## Notes
 
 - [Every Mastodon profile is an RSS feed if you add .rss to the end of it.](https://twitter.com/simonw/status/1588772203742769152)
+- [I'm finding Mastodon a lot easier to understand having I've realized that it's just blogs. Everyone gets a little blog, on their own server or someone else's. Following someone is pretty much subscribing to their feed. You can even roll your own implementation from scratch. Under the hood ActivityPub is more-or-less RSS/Atom Plus: it adds the ability to send replies to posts, and send and receive likes, and "boost" (aka retweet) posts - and a push-based notification system so you can see stuff faster than if everyone was polling each other. But really Mastodon is a return to personal blogging, loosely disguised as an open source Twitter clone.](https://twitter.com/simonw/status/1589644456361590785)
 
 ## Links
 
@@ -71,3 +72,6 @@ title: Mastodon
 - [Fedi.Tips](https://fedi.tips/) - Unofficial Guide to Mastodon and the Fediverse.
 - [rtoot](https://github.com/schochastics/rtoot) - R package to interact with the mastodon API.
 - [Trunk](https://communitywiki.org/trunk/) - Allows you to mass-follow a bunch of people in order to get started with Mastodon or any other platform on the Fediverse.
+- [Mastodon Is Awesome (2022)](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/) ([HN](https://news.ycombinator.com/item?id=33503028))
+- [Exploring Mastodon (2022)](https://martinfowler.com/articles/exploring-mastodon.html) ([HN](https://news.ycombinator.com/item?id=33506401))
+- [Your Organization should run its own Mastodon server (2022)](https://martinfowler.com/articles/your-org-run-mastodon.html) ([HN](https://news.ycombinator.com/item?id=33509613))

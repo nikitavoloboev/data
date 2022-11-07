@@ -142,3 +142,4 @@
 - [Ask HN: How to get into AI generation (images,text) (2022)](https://news.ycombinator.com/item?id=33479367)
 - [Stable Diffusion and AI generated art is absolutely wild in every way (2022)](https://a.wholelottanothing.org/2022/11/02/stable-diffusion-and-ai-generated-art-is-absolutely-wild-in-every-way/)
 - [diffusers-rs](https://github.com/LaurentMazare/diffusers-rs) - Diffusers API in Rust/Torch.
+- [AI Art Tools and Resources in One Place](https://www.aiartapps.com/) ([HN](https://news.ycombinator.com/item?id=33501670))

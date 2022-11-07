@@ -168,3 +168,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Bluetooth Low Energy soil moisture sensor](https://github.com/rbaron/b-parasite) ([HN](https://news.ycombinator.com/item?id=33281310))
 - [Bourdain's World Map](https://www.anthonybourdainworldmap.com/)
 - [How food powers the body's metabolism](https://www.newyorker.com/science/elements/how-food-powers-your-body-metabolism-calories) ([HN](https://news.ycombinator.com/item?id=33369896))
+- [Only 1% of Japan's Soy Sauce Is Made This Way](https://www.youtube.com/watch?v=MKbRu3_Ynpk)

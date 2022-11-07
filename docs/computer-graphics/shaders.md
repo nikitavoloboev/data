@@ -102,3 +102,4 @@ title: Shaders
 - [Shaderworlds](https://shaderworlds.com/) - Collection of VR-ready shader worlds. ([Code](https://github.com/jure/shaderworlds))
 - [Offline ShaderToy](https://github.com/tdhooper/offline-shadertoy)
 - [Shady](https://github.com/polyfloyd/shady) - CLI tool to render GLSL shaders.
+- [TextShader](https://textshader.com/) ([HN](https://news.ycombinator.com/item?id=33501177))

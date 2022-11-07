@@ -75,3 +75,4 @@ title: Automata theory
 - [Conway's Game of Life – Mathematics and Construction](https://conwaylife.com/book/conway_life_book.pdf) ([HN](https://news.ycombinator.com/item?id=31000502))
 - [convoca](https://github.com/williamgilpin/convoca) - Predict and analyze cellular automata using convolutional neural networks.
 - [CellPond](https://github.com/TodePond/CellPond) - Surreal cellular automata. ([Web](https://cellpond.cool/))
+- [Go-L](https://github.com/Jeadie/Go-L) - Game of Life with different update rules and on a bunch of different topologies (sphere, torus, klein bottle, etc.). ([HN](https://news.ycombinator.com/item?id=33503630))
