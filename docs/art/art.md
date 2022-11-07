@@ -6,6 +6,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 
 ## Favorite artists
 
+- [Guillermo Lorca](https://www.instagram.com/guillermolorcagarcia/) ([Web](https://www.guillermolorca.com/))
 - [James Jean](https://www.instagram.com/jamesjeanart/) ([Artsy](https://www.artsy.net/artist/james-jean)) ([Twitter](https://twitter.com/jamesjeanart)) ([Web](http://www.jamesjean.com/))
 - [gemi333](https://www.instagram.com/gemi333/) ([Twitter](https://twitter.com/gemi333))
 - [Darek Zabrocki](https://www.darekzabrocki.com/)

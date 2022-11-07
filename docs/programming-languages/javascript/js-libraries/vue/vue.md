@@ -206,3 +206,4 @@ title: Vue.js
 - [Flowbite Vue 3](https://flowbite-vue.com/) - Official Vue 3 components built for Flowbite and Tailwind CSS. ([Code](https://github.com/themesberg/flowbite-vue))
 - [V-Mapkit.js](https://github.com/geoql/v-mapkit.js) - Vue 3 + MapKit JS.
 - [Nuxt-Iron-Session](https://github.com/wobsoriano/nuxt-iron-session) - Add stateless session support for Nuxt apps using signed and encrypted cookies.
+- [vue-mixable](https://github.com/LinusBorg/vue-mixable) - Turn Vue Mixins into Composables with a simple helper function.

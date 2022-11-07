@@ -794,3 +794,4 @@
 - [JNumPy](https://github.com/Suzhou-Tongyuan/jnumpy) - Writing high-performance C extensions for Python in minutes. ([HN](https://news.ycombinator.com/item?id=32407451))
 - [PkgDependency](https://github.com/peng1999/PkgDependency.jl) - Show dependency tree of Julia project.
 - [PlutoSliderServer](https://github.com/JuliaPluto/PlutoSliderServer.jl) - Web server to run just the @bind parts of a Pluto.jl notebook.
+- [InteractiveCodeSearch.jl](https://github.com/tkf/InteractiveCodeSearch.jl) - Interactively search Julia code from terminal.

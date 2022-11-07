@@ -849,3 +849,4 @@ title: Kubernetes
 - [Solving common problems with Kubernetes (2022)](https://blog.adamchalmers.com/kubernetes-problems/) ([HN](https://blog.adamchalmers.com/kubernetes-problems/))
 - [Argo CD Extensions](https://github.com/argoproj-labs/argocd-extensions) - Support for extending Argo CD.
 - [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) - Retrieve secrets from Secret Management tools and inject them into Kubernetes secrets.
+- [Apply Kubernetes Manifests in Backstage](https://github.com/muvaf/kubernetes-apply)

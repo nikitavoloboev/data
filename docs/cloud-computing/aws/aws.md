@@ -402,3 +402,5 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [The State of AWS Security](https://www.datadoghq.com/state-of-aws-security/) ([HN](https://news.ycombinator.com/item?id=33174046))
 - [aws4fetch](https://github.com/mhart/aws4fetch) - Compact AWS client for modern JS environments.
 - [Does anyone else finds AWS and other Amazon services overly complicated? (2022)](https://news.ycombinator.com/item?id=33490314)
+- [AWS EC2 Instance Terraform module](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance)
+- [Terraform AWS Components](https://github.com/cloudposse/terraform-aws-components) - Opinionated, self-contained Terraform root modules that each solve one, specific problem.

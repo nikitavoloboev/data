@@ -164,3 +164,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [alt](https://github.com/dotboris/alt) - Simple version manager. Tool for switching between different versions of commands.
 - [Charm VHS](https://github.com/charmbracelet/vhs) - Write terminal GIFs as code for integration testing and demoing your CLI tools.
 - [JC](https://github.com/kellyjonbrazil/jc) - JSONifies the output of many CLI tools. ([HN](https://news.ycombinator.com/item?id=33448204))
+- [Command-line data analytics made easy (2022)](https://danielcmoura.com/blog/2022/spyql-cell-towers/)

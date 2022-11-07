@@ -49,3 +49,4 @@ This [guide](https://www.youtube.com/playlist?list=PLvWgkXBB3dd4ocSi17y1JmMmz7S5
 - [XState Ninja](https://github.com/rlaffers/xstate-ninja) - Dev tool for XState state machines.
 - [XState Async Guards](https://github.com/rlaffers/xstate-async-guards) - XState helper for using asynchronous guards.
 - [JSX State](https://github.com/marceloadsj/jsxstate) - Declarative UIs for declarative XState machines.
+- [xstate-to-gherkin](https://github.com/simplystated/xstate-to-gherkin) - Library and cli tool to generate Gherkin test scripts from an XState state chart.
