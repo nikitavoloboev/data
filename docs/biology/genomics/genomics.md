@@ -4,6 +4,8 @@ title: Genomics
 
 # [Genomics](https://en.wikipedia.org/wiki/Genomics)
 
+[Introduction to Genomics for Engineers](https://learngenomics.dev/) is nice intro.
+
 ## Links
 
 - [Seq](https://github.com/seq-lang/seq) - Programming language for high-performance computational genomics. ([Web](https://seq-lang.org/)) ([HN](https://news.ycombinator.com/item?id=28537179))
@@ -214,3 +216,4 @@ title: Genomics
 - [umis](https://github.com/vals/umis) - Tools for processing UMI RNA-tag data.
 - [bcbio-nextgen](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
 - [HTS](https://github.com/biogo/hts) - SAM and BAM handling for Go.
+- [Introduction to Genomics for Engineers](https://learngenomics.dev/)
