@@ -434,3 +434,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Use cases for Nix (2022)](https://blog.mads-hartmann.com/2022/10/18/use-cases-for-nix.html)
 - [Why Nix is interesting (2022)](https://blog.mads-hartmann.com/2022/11/02/why-nix-is-interesting.html)
 - [Nix (on Nix and Docker and build and packaging systems) (2022)](https://whynowtech.substack.com/p/nix)
+- [Scrive Nix Workshop](https://scrive.github.io/nix-workshop/index.html)
+- [Setting up a private Nix cache for fun and profit (2022)](https://www.channable.com/tech/setting-up-a-private-nix-cache-for-fun-and-profit)

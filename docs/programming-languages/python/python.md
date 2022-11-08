@@ -551,3 +551,4 @@ for i, _ in enumerate(nums):
 - [Python CLI Tricks That Don't Require Any Code Whatsoever (2022)](https://martinheinz.dev/blog/83)
 - [Python 3.11.0 (2022)](https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291) ([HN](https://news.ycombinator.com/item?id=33327896)) ([Tweet](https://twitter.com/marktenenholtz/status/1584927749168250881))
 - [Better Python code grepping with pyastgrep (2022)](https://lukeplant.me.uk/blog/posts/grep-python-syntax-using-ast-pyastgrep/)
+- [Inline caches in the Skybison Python runtime (2022)](https://bernsteinbear.com/blog/inline-caches-in-skybison/)

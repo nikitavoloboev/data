@@ -216,4 +216,4 @@ title: Genomics
 - [umis](https://github.com/vals/umis) - Tools for processing UMI RNA-tag data.
 - [bcbio-nextgen](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
 - [HTS](https://github.com/biogo/hts) - SAM and BAM handling for Go.
-- [Introduction to Genomics for Engineers](https://learngenomics.dev/)
+- [Introduction to Genomics for Engineers](https://learngenomics.dev/) ([Lobsters](https://lobste.rs/s/ykd3vh/introduction_genomics_for_engineers))

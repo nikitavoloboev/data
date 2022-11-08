@@ -1048,6 +1048,7 @@
 - [watching-you](https://github.com/jj811208/watching-you) - JS library for building animations that watch anything on DOM. ([HN](https://news.ycombinator.com/item?id=33490456))
 - [fast-json-clone](https://github.com/rhysd/fast-json-clone) - Tiny library to clone JSON values in pure JavaScript focusing on the speed.
 - [geotic](https://github.com/ddmills/geotic) - Entity Component System library for JS.
+- [Klipse](https://github.com/viebel/klipse) - JavaScript plugin for embedding interactive code snippets in tech blogs.
 
 ## Links
 

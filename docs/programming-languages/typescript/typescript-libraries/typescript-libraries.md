@@ -660,6 +660,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [uniorg](https://github.com/rasendubi/uniorg) - Accurate Org-mode parser.
 - [PushIn.js](https://github.com/nateplusplus/pushin) - Lightweight parallax effect, built with JavaScript, that simulates an interactive dolly-in or push-in animation on a webpage.
 - [zap](https://github.com/spaceteams/zap) - Validation-first schema library with a functional API.
+- [bech32](https://github.com/bitcoinjs/bech32) - Bech32 encoding / decoding.
 
 ## Links
 

@@ -892,3 +892,4 @@ if *boolArgPtr != false {
 - [alphavet](https://github.com/skx/alphavet) - Go linter to detect functions not in alphabetical order. ([HN](https://news.ycombinator.com/item?id=33461952))
 - [Thoughts on the "Guard" Proposal for Go's Error Handling (2022)](https://wagslane.dev/posts/guard-keyword-error-handling-golang/) ([Reddit](https://www.reddit.com/r/golang/comments/yn3p1u/thoughts_on_the_guard_proposal_for_gos_error/))
 - [Go Concurrency Patterns: Pipelines and cancellation (2014)](https://go.dev/blog/pipelines)
+- [How I write offline API tests in Go (2022)](https://www.youtube.com/watch?v=DjNERjqzILQ)

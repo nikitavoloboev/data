@@ -212,3 +212,4 @@
 - [The Paranoia That Cost Hitler World War II | Warlords: Hitler vs Stalin | Timeline](https://www.youtube.com/watch?v=E2zrqzvtWio)
 - [The Present Past - YouTube](https://www.youtube.com/c/ThePresentPast_/videos)
 - [How Johnny Harris Rewrites History (2022)](https://www.youtube.com/watch?v=pAeoJVXrZo4)
+- [Good movies about ancient history (2022)](https://www.reddit.com/r/MovieSuggestions/comments/ypad9s/what_are_some_good_movies_about_ancient_history/)

@@ -171,3 +171,4 @@
 - [Transport Elliptical Slice Sampling (2022)](https://arxiv.org/abs/2210.10644) ([Code](https://github.com/albcab/TESS))
 - [Making sense of principal component analysis, eigenvectors & eigenvalues](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
 - [The Exponential Family - YouTube](https://www.youtube.com/playlist?list=PLzvYlJMoZ02BCWFTETEiupwhDBpP4gw-q)
+- [Statistical Process Control: A Manager’s Guide](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html)

@@ -203,6 +203,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Francesco](https://mazzo.li/archive.html)
 - [Bruno Luiz Silva](https://brunoluiz.net/)
 - [Matt Parsons](https://www.parsonsmatt.org/)
+- [Patrick Dubroy](https://dubroy.com/blog/)
 
 ## Notes
 

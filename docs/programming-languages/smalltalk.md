@@ -65,3 +65,4 @@ title: Smalltalk
 - [A Little Smalltalk (Timothy Budd) (1987)](https://archive.org/details/ALittleSmalltalkBook) ([HN](https://news.ycombinator.com/item?id=33179414))
 - [Cuis Smalltalk](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev)
 - [Zag-Smalltalk](https://github.com/dvmason/Zag-Smalltalk) - Smalltalk VM Written in Zig with methods stored as type-annotated ASTs.
+- [The influence of Self (2022)](https://dubroy.com/blog/self/) ([Lobsters](https://lobste.rs/s/jyao6l/influence_self))

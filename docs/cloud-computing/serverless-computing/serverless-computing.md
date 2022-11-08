@@ -184,3 +184,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Firectl](https://github.com/firecracker-microvm/firectl) - Command-line tool to run Firecracker microVMs.
 - [Noslate](https://github.com/noslate-project/noslate) - Elegant, modern and fully customizable serverless runtime.
 - [Brewing Microservices | Serverless Redux (2022)](https://filibuster.transistor.fm/episodes/serverless-redux-halloween-edition)
+- [Rust runtime for Vercel Functions](https://github.com/vercel-community/rust)
