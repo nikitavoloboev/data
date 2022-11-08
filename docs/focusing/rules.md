@@ -258,6 +258,9 @@
 - Don't be afraid to express myself (without hurting someone deliberately) out of fear I will get unfollowed/blocked/mocked. It's just [their opinion/tastes](https://www.youtube.com/watch?v=Z-xI1384Ry4), I have mine. Feel free.
 - Be open to change. But never ignore my principles/rules (respect my boundaries). My personal happiness and mental well being always comes first.
 - [Share things of what I love more than what I dislike/hate.](https://twitter.com/pbrian0206/status/1458972624047026177)
+- Engage in conversations that are beneficial or at least entertaining to me. Mute or simply ignore annoying/hurtful speech. Time is valuable!
+- Just share. Don't care about metrics or who thinks what. If they don't like, it's all good. World is big. Don't cage myself!
+- Best way to learn something is to post the 'wrong thing' on the internet. Don't be afraid to ask questions and be wrong.
 
 ## Animals
 

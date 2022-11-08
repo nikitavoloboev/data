@@ -19,6 +19,7 @@ title: Mastodon
 
 - [Every Mastodon profile is an RSS feed if you add .rss to the end of it.](https://twitter.com/simonw/status/1588772203742769152)
 - [I'm finding Mastodon a lot easier to understand having I've realized that it's just blogs. Everyone gets a little blog, on their own server or someone else's. Following someone is pretty much subscribing to their feed. You can even roll your own implementation from scratch. Under the hood ActivityPub is more-or-less RSS/Atom Plus: it adds the ability to send replies to posts, and send and receive likes, and "boost" (aka retweet) posts - and a push-based notification system so you can see stuff faster than if everyone was polling each other. But really Mastodon is a return to personal blogging, loosely disguised as an open source Twitter clone.](https://twitter.com/simonw/status/1589644456361590785)
+- [Mastodon is split into instances. anyone running an instance can: See your hashed password and all user data. Read all of your DMs. Take over your account.](https://twitter.com/dystopiabreaker/status/1589739397305761792)
 
 ## Links
 
