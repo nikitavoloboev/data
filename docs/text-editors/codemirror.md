@@ -13,3 +13,4 @@ title: CodeMirror
 - [CodeMirror 6 component for SolidJS](https://github.com/nimeshnayaju/solid-codemirror)
 - [Language Server Plugin for CodeMirror 6](https://github.com/FurqanSoftware/codemirror-languageserver)
 - [CodeMirror Color Picker](https://github.com/replit/Codemirror-CSS-color-picker) - CodeMirror extension that adds a color picker input next to CSS color values.
+- [Migrating from Monaco Editor to CodeMirror (2022)](https://about.sourcegraph.com/blog/migrating-monaco-codemirror)

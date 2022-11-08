@@ -1037,6 +1037,9 @@
 - [TLViz](https://github.com/tensorly/viz) - Easy visualization and evaluation of matrix and tensor factorization models.
 - [MatCoupLy](https://github.com/MarieRoald/matcouply) - Learning coupled matrix factorizations in Python.
 - [DynaPyt](https://github.com/sola-st/DynaPyt) - Dynamic analysis framework for Python.
+- [Slice Map](https://github.com/gahaalt/slicemap) - Tiny package containing a dict-like data structure with numeric slices as keys.
+- [Discrete Optimization](https://github.com/airbus/discrete-optimization) - Python library to ease the definition and re-use of discrete optimization problems and solvers.
+- [ducks](https://github.com/manimino/ducks) - Indexes your Python objects for fast lookup by their attributes.
 
 ## Notes
 

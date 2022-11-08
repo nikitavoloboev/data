@@ -764,6 +764,7 @@
 - [Ümlaut](https://github.com/dfdx/Umlaut.jl) - Code tracer for Julia. Trace the function execution, recording all primitive operations onto a linearized tape.
 - [Spark.jl](https://github.com/dfdx/Spark.jl) - Julia interface to Apache Spark.
 - [AVRCompiler.jl](https://github.com/Seelengrab/AVRCompiler.jl) - Used for compiling Julia source code to AVR assembly.
+- [Bessels.jl](https://github.com/JuliaMath/Bessels.jl) - Numerical routines for computing Bessel, Airy, and Hankel functions for real arguments.
 
 ## Links
 

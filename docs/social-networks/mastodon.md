@@ -80,3 +80,6 @@ title: Mastodon
 - [Academics on Mastodon](https://github.com/nathanlesage/academics-on-mastodon)
 - [Metabolist](https://metabolist.org/) - Free, open-source iOS Mastodon client. ([Code](https://github.com/metabolist/metatext))
 - [Mastosearch](https://github.com/LeakIX/mastosearch) - Toolset to index the Mastodon federated network.
+- [Mastodon/ActivityPub compatible thing, in Go](https://github.com/capsulesocial/mastogon)
+- [Mastodon Is Just Blogs (2022)](https://simonwillison.net/2022/Nov/8/mastodon-is-just-blogs/) ([HN](https://news.ycombinator.com/item?id=33520382))
+- [Mastodon – Simplified Federation](https://github.com/rugk/mastodon-simplified-federation) - Simplifies following and interacting with remote users on other Mastodon instances.

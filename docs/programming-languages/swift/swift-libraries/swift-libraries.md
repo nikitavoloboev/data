@@ -669,6 +669,7 @@
 ## Crypto
 
 - [Elliptic Curve Key Pair](https://github.com/agens-no/EllipticCurveKeyPair) - Sign, verify, encrypt and decrypt using the Secure Enclave on iOS and MacOS.
+- [CBORCoding](https://github.com/SomeRandomiOSDev/CBORCoding) - Lightweight framework containing a coder pair for encoding and decoding Codable conforming types to and from CBOR document format.
 
 ## WebSocket
 

@@ -135,3 +135,4 @@ title: Java
 - [Java rules for Bazel](https://github.com/bazelbuild/rules_java)
 - [Virtual Threads: New Foundations for High-Scale Java Applications (2022)](https://www.infoq.com/articles/java-virtual-threads/) ([HN](https://news.ycombinator.com/item?id=33024748)) ([Lobsters](https://lobste.rs/s/bul8fi/virtual_threads_new_foundations_for_high))
 - [Bazel Build System Introduction for Java (2022)](https://kracekumar.com/post/bazel-build-system-intro-for-java/)
+- [Java Virtual Machine written in Rust](https://github.com/Pfarrer/rust-jvm)

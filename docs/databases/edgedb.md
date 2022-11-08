@@ -13,6 +13,7 @@ My DB of choice for all projects. Sits on top of [Postgres](postgresql.md) but h
 - [Hyperpop - EdgeDB Remix Stack](https://github.com/edgedb/remix)
 - [Remix+EdgeDB+Tailwind+Fly.io](https://github.com/jkcorrea/remix-chop-suey-stack)
 - [EdgeDB Remix starter](https://github.com/colinhacks/edgedb-remix-test-2)
+- [Create T3-EdgeDB App](https://github.com/PastelStoic/create-t3-edgedb-app)
 
 ## Links
 

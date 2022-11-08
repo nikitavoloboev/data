@@ -220,3 +220,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [EspUp](https://github.com/esp-rs/espup) - Tool for installing and maintaining the required toolchains for developing applications in Rust for Espressif SoC's.
 - [Ledcat](https://github.com/polyfloyd/ledcat) - Simple utility that aims to provide a standard interface for driving LED-strips and such.
 - [GyverPortal](https://github.com/GyverLibs/GyverPortal) - Простой конструктор веб интерфейсов для ESP8266 и ESP32.
+- [Trenchcoat](https://github.com/spookyvision/trenchcoat) - Virtual machine for rapid embedded development.

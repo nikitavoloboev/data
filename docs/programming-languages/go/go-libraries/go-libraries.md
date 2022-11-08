@@ -1880,6 +1880,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Logger](https://github.com/google/logger) - Cross platform Go logging library.
 - [go-envparse](https://github.com/hashicorp/go-envparse) - Minimal environment variable parser for Go.
 - [raggio](https://github.com/empijei/raggio) - Go channels library.
+- [Matroska](https://github.com/dwbuiten/matroska) - Full-surface Go Wrapper for Haali's Matroska Parser.
+- [FFV1 Decoder in Go](https://github.com/dwbuiten/go-ffv1)
 
 ## Links
 

@@ -663,6 +663,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [PushIn.js](https://github.com/nateplusplus/pushin) - Lightweight parallax effect, built with JavaScript, that simulates an interactive dolly-in or push-in animation on a webpage.
 - [zap](https://github.com/spaceteams/zap) - Validation-first schema library with a functional API.
 - [bech32](https://github.com/bitcoinjs/bech32) - Bech32 encoding / decoding.
+- [p-forever](https://github.com/sindresorhus/p-forever) - Run promise-returning & async functions repeatedly until you end it.
 
 ## Links
 

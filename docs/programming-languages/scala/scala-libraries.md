@@ -22,6 +22,7 @@
 - [Scala DOM Types](https://github.com/raquo/scala-dom-types) - Scala types for your library to represent HTML tags, attributes, properties and CSS styles.
 - [Laminar](https://github.com/raquo/Laminar) - Simple, expressive, and safe UI library for Scala.js. ([Talk](https://www.youtube.com/watch?v=L_AHCkl6L-Q)) ([Web](https://laminar.dev/))
 - [Waypoint](https://github.com/raquo/Waypoint) - Efficient router for Laminar UI Library.
+- [Apache Pekko](https://github.com/apache/incubator-pekko) - Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala.
 
 ## CLI
 

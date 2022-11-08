@@ -383,6 +383,7 @@
 - [tomland](https://github.com/kowainik/tomland) - Bidirectional TOML serialization.
 - [pqueue](https://github.com/lspitzner/pqueue) - Haskell priority queue package.
 - [Benign](https://github.com/aspiwack/haskell-benign) - Library for benign effects in Haskell.
+- [exceptions](https://github.com/ekmett/exceptions) - Extensible exceptions that are compatible with the monad transformer library.
 
 ## Notes
 

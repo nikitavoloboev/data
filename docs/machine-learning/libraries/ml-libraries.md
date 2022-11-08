@@ -419,3 +419,4 @@ title: ML Libraries
 - [Lovely Tensors](https://github.com/xl0/lovely-tensors) - Tensors, ready for human consumption.
 - [EPyMARL](https://github.com/uoe-agents/epymarl) - Extended Python MARL framework.
 - [Zero](https://github.com/mangaki/zero) - Mangaki's recommendation algorithms.
+- [LassoNet](https://github.com/lasso-net/lassonet) - Feature selection in neural networks.
