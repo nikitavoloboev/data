@@ -1,6 +1,6 @@
 # Pricing
 
-Like tools that [let you try the app without being forced to pay first](https://twitter.com/ben_issen/status/1588842302919045121).
+Like tools that [let you try the app without being forced to pay first](https://twitter.com/ben_issen/status/1588842302919045121). [SaaS Pricing Strategy](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf) is a good read.
 
 ## Nice pricing pages
 
@@ -101,3 +101,5 @@ Like tools that [let you try the app without being forced to pay first](https://
 - [Rules for SaaS Pricing (2022)](https://earlygtm.substack.com/p/rules-for-saas-pricing)
 - [Ask HN: “Contact Us” Pricing (2022)](https://news.ycombinator.com/item?id=33425443)
 - [Purchasing Power Parity: fair pricing for your SaaS product (2021)](https://scastiel.dev/implement-ppp-fair-pricing-for-your-product) ([HN](https://news.ycombinator.com/item?id=33509258))
+- [The Principles of Pricing](https://www.principlesofpricing.com/) ([HN](https://news.ycombinator.com/item?id=33502567))
+- [SaaS Pricing Strategy](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf)

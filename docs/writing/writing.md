@@ -305,3 +305,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Screenplays for Movies and TV Shows](https://screenplays.io/) ([HN](https://news.ycombinator.com/item?id=33228533))
 - [Moonbeam](https://www.gomoonbeam.com/) - Moonbeam's AI will give you everything you need to write killer long form content.
 - [Write Like You Talk (2015)](http://paulgraham.com/talk.html) ([HN](https://news.ycombinator.com/item?id=33308393))
+- [Just Don’t (2022)](https://www.tbray.org/ongoing/When/202x/2022/11/07/Just-Dont) ([HN](https://news.ycombinator.com/item?id=33518496))

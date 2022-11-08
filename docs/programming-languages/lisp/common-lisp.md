@@ -145,3 +145,4 @@
 - [sbcl-librarian](https://github.com/quil-lang/sbcl-librarian) - Opinionated interface for creating C- and Python-compatible shared libraries in Common Lisp with SBCL.
 - [OpenRPC for Common Lisp](https://github.com/40ants/openrpc)
 - [Ultralisp](https://ultralisp.org/) - Fast Common Lisp Repository. ([Code](https://github.com/ultralisp/ultralisp))
+- [From Common Lisp to Julia (2022)](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/index.html) ([HN](https://news.ycombinator.com/item?id=33519402))
