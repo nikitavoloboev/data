@@ -20,3 +20,4 @@ title: esbuild
 - [esbuild-internal](https://github.com/ije/esbuild-internal) - Expose amazing esbuild internal packages.
 - [Config files for esbuild](https://github.com/bpierre/esbuild-config)
 - [Bazel rules for esbuild](https://github.com/aspect-build/rules_esbuild)
+- [Esbuild plugin to load HTML modules](https://github.com/whitefusionhq/esbuild-plugin-html-modules)

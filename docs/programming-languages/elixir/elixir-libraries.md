@@ -35,6 +35,7 @@
 - [EasyHTML](https://github.com/wojtekmach/easyhtml) - Makes it easy to work with HTML in Elixir.
 - [Riptide](https://github.com/ironbay/riptide) - Elixir framework for creating real time applications.
 - [LetMe](https://github.com/woylie/let_me) - Authorization library for Elixir.
+- [RemoteIp](https://github.com/ajvondrak/remote_ip) - Plug to rewrite the Plug.Conn's remote_ip based on forwarding headers.
 
 ## DB
 

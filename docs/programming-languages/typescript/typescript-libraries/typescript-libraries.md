@@ -92,6 +92,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Inclusive Sort](https://github.com/tobyzerner/inclusive-sort) - Drag and drop sorting that just works – for everyone.
 - [itty-fetcher](https://github.com/kwhitley/itty-fetcher) - Even simpler wrapper around native Fetch to strip boilerplate from your fetching code.
 - [H0](https://github.com/noamr/h0) - Minimalistic Model-View library.
+- [Loadeer.js](https://github.com/johannschopplich/loadeer) - Tiny, performant, SEO-friendly lazy loading library.
 
 ## GraphQL
 

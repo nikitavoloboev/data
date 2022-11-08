@@ -4,6 +4,8 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 
 [How to use Light for shootings](https://www.youtube.com/watch?v=AxhWk5xelto) & [Seeing in Black and White](https://www.youtube.com/watch?v=V8Hh8S-Z68s) are nice guides. Saving up for [Leica M11](https://www.youtube.com/watch?v=RSdLAiDb8dQ). Currently shoot on [just iPhone](https://twitter.com/levelsio/status/1532178971793797120).
 
+Want to build a page [like this](https://johannschopplich.com/en/photography) for my photos.
+
 ## Interesting cameras
 
 - [Leica M11](https://leica-camera.com/en-int/photography/cameras/m/m11-black)

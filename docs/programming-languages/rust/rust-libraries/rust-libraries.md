@@ -2299,6 +2299,7 @@
 - [json_plus](https://github.com/rust-playground/json-plus) - JSON helper functions beyond Serialization & Deserialization such as diff, merge, ....
 - [sitemap](https://github.com/svmk/rust-sitemap) - Sitemap library for Rust.
 - [dot_graph](https://github.com/SelamaAshalanore/dot_graph) - Library for generating Graphviz DOT language files.
+- [Route Pattern](https://github.com/jondot/route-pattern) - Parser and matcher for route patterns in Rust.
 
 ## Cargo Plugins
 

@@ -1,6 +1,6 @@
 # Presentations
 
-[Pitch](https://pitch.com/) & [Slidev](https://sli.dev/) are great.
+[iA Presenter](https://ia.net/presenter), [Pitch](https://pitch.com/) & [Slidev](https://sli.dev/) are great.
 
 ## Nice templates
 

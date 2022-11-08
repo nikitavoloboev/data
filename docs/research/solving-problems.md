@@ -2,11 +2,11 @@
 
 [Always think from first principles](https://twitter.com/jeff_weinstein/status/1454518683653459968).
 
-1. What are you trying to solve? Define it well.
+1. What are you trying to solve? Define the problem well.
 2. Break the problem down to essential and smaller parts.
-3. Prioritize order of solving the parts + needed research.
-4. Work on solving each part one by one. Get rid of parts that are non essential.
-5. Optimize. Document.
+3. Prioritize order of solving the parts. Do necessary research.
+4. Work on solving each part one by one. No distractions. Get rid of parts that are non essential.
+5. Optimize. Document. Share solution.
 
 ## 1. Find what the problem is
 

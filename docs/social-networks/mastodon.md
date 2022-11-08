@@ -78,3 +78,5 @@ title: Mastodon
 - [Your Organization should run its own Mastodon server (2022)](https://martinfowler.com/articles/your-org-run-mastodon.html) ([HN](https://news.ycombinator.com/item?id=33509613))
 - [Mastodon User Count Bot](https://github.com/gallizoltan/usercount) - User statistics bot for Mastodon.
 - [Academics on Mastodon](https://github.com/nathanlesage/academics-on-mastodon)
+- [Metabolist](https://metabolist.org/) - Free, open-source iOS Mastodon client. ([Code](https://github.com/metabolist/metatext))
+- [Mastosearch](https://github.com/LeakIX/mastosearch) - Toolset to index the Mastodon federated network.

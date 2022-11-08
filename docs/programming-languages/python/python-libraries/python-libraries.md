@@ -69,6 +69,7 @@
 - [Clients](https://github.com/coady/clients) - High-level HTTP clients for Python.
 - [stamina](https://github.com/hynek/stamina) - Composable toolkit for handling retries.
 - [httparse](https://github.com/adriangb/httparse) - Python wrapper for Rust's httparse HTTP parser.
+- [aiosignal](https://github.com/aio-libs/aiosignal) - List of registered asynchronous callbacks.
 
 ## ML
 

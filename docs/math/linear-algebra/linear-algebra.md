@@ -77,3 +77,4 @@
 - [Efficient Simulation through Linear Algebra (2022)](https://mht.wtf/post/sparse-solves/) ([HN](https://news.ycombinator.com/item?id=32451350))
 - [Seven Sins of Numerical Linear Algebra (2022)](https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/)
 - [Numerical Linear Algebra by Lloyd N. Trefethen](https://www.goodreads.com/en/book/show/1372376)
+- [What Is an Eigenvalue? (2022)](https://nhigham.com/2022/11/08/what-is-an-eigenvalue/) ([HN](https://news.ycombinator.com/item?id=33517795))

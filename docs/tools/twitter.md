@@ -241,3 +241,4 @@ I also find it frustrating that Twitter iOS client doesn't have the ability to l
 - [Twitter's Birdwatch archived docs](https://github.com/twitter/new-repo)
 - [Twitter Open Source](https://opensource.twitter.dev/) - Identifying projects we've released, organizations we support, and the work we do to support open source. ([Code](https://github.com/twitter/opensource-website))
 - [TwitterOSS Metrics](https://github.com/twitter/metrics) - Generates periodic reports based on the health of Twitter Open Source projects.
+- [All verified users on Twitter as of Nov 1st, 2022](https://github.com/IntiDC/twitter-verified)

@@ -41,3 +41,4 @@ title: RabbitMQ
 - [RabbitMQ in 100 Seconds](https://www.youtube.com/watch?v=NQ3fZtyXji0)
 - [How we built a multi-product SSO system with asynchronous messages using RabbitMQ (2022)](https://medium.com/wttj-tech/how-we-built-a-multi-product-sso-system-with-asynchronous-messages-using-rabbitmq-889fefba02b1)
 - [Go, RabbitMQ and gRPC Clean Architecture microservice](https://github.com/AleksK1NG/Go-gRPC-RabbitMQ-microservice)
+- [Go RabbitMQ Client Library](https://github.com/rabbitmq/amqp091-go)

@@ -567,6 +567,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [libschema](https://github.com/muir/libschema) - Way for Go libraries to manage their own database migrations.
 - [redis](https://github.com/cristalhq/redis) - Redis client for Go.
 - [go-dqlite](https://github.com/canonical/go-dqlite) - Go package, containing bindings for the dqlite C library and a pure-Go client for the dqlite wire protocol.
+- [Lazycache](https://github.com/bep/lazycache) - Simple thread safe in-memory LRU cache.
 
 ## ML
 
@@ -1878,6 +1879,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Pipeline](https://github.com/deliveryhero/pipeline) - Library to help you create pipelines in Go.
 - [Logger](https://github.com/google/logger) - Cross platform Go logging library.
 - [go-envparse](https://github.com/hashicorp/go-envparse) - Minimal environment variable parser for Go.
+- [raggio](https://github.com/empijei/raggio) - Go channels library.
 
 ## Links
 

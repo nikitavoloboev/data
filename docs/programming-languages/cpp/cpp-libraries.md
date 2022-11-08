@@ -446,6 +446,7 @@
 - [STXXL](https://github.com/stxxl/stxxl) - Standard Template Library for Extra Large Data Sets.
 - [fast_log](https://github.com/nadavrot/fast_log) - Fast implementation of the natural logarithmic function.
 - [C++ Predefined Macros](https://github.com/xeerx/cpp-predefined)
+- [pika](https://github.com/pika-org/pika) - C++ library for concurrency and parallelism.
 
 ## Links
 

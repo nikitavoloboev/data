@@ -8,6 +8,8 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 
 [OCaml](ocaml/ocaml.md) seems interesting as a language to do some [type theory](../math/type-theory/type-theory.md) research in. Has fast compile types and smart inferency type system. Same for [Agda](agda.md)/[Coq](coq/coq.md)/[Idris](idris/idris.md). [Unison](unison.md) has some novel ideas to learn from too.
 
+[Effects bibliography](https://github.com/yallop/effects-bibliography) is a nice read.
+
 ## Notes
 
 - [I have a very concrete approach for creating categorical models/semantics for PLs. I express the syntax as a GADT, wrap it with a free(r) monad, then work with the resulting kleisli category.](https://twitter.com/tangled_zans/status/1441434927149420547)
@@ -455,3 +457,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Amber](https://github.com/nineties/amber) - Language for High-Level Programming with Self-Extension.
 - [Singeli](https://github.com/mlochbaum/Singeli) - Domain-specific language for building SIMD algorithms with flexible abstractions and control over every instruction emitted.
 - [Designing a programming system/language to never break backwards compatibility while allowing the system to evolve](https://twitter.com/abanduk/status/1589767455060426757)
+- [Frank](https://github.com/frank-lang/frank) - Strict functional programming language with a bidirectional effect type system designed from the ground up around a novel variant of Plotkin and Pretnar's effect handler abstraction.

@@ -93,3 +93,4 @@ Here are tools I use for streaming:
 - [Rsget](https://github.com/Erk-/rsget) - Downloader for different live stream providers.
 - [Findstream](https://findstream.dnaka91.rocks/) - Better search for Twitch streams. ([Code](https://github.com/dnaka91/findstream))
 - [StreamFX](https://github.com/Xaymar/obs-StreamFX) - Plugin for OBS Studio which adds many new effects, filters, sources, transitions and encoders.
+- [Docker NGINX RTMP](https://github.com/alfg/docker-nginx-rtmp) - Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.

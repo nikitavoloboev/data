@@ -418,3 +418,4 @@ title: ML Libraries
 - [Vectory](https://github.com/pentoai/vectory) - Collection of tools to track and compare embedding versions.
 - [Lovely Tensors](https://github.com/xl0/lovely-tensors) - Tensors, ready for human consumption.
 - [EPyMARL](https://github.com/uoe-agents/epymarl) - Extended Python MARL framework.
+- [Zero](https://github.com/mangaki/zero) - Mangaki's recommendation algorithms.

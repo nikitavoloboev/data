@@ -469,3 +469,4 @@ title: PyTorch
 - [PyTorch Fundamentals Learning Path](https://github.com/MicrosoftDocs/pytorchfundamentals)
 - [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch.
 - [Auto-Tuning Hyperparameters with Optuna and PyTorch (2020)](https://www.youtube.com/watch?v=P6NwZVl8ttc)
+- [PyTorch Symbolic](https://github.com/gahaalt/pytorch-symbolic) - Provides symbolic API for model creation in PyTorch.
