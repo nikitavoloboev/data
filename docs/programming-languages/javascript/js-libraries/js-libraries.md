@@ -148,11 +148,11 @@
 
 ## State management
 
+- [Effector](../../typescript/typescript-libraries/effector.md) - Reactive state manager.
 - [Mutik](https://github.com/jaredpalmer/mutik) - Tiny (495B) immutable state management library based on Immer.
 - [Overmind](https://github.com/cerebral/overmind) - Frictionless state management. ([Docs](https://overmindjs.org/)) ([HN](https://news.ycombinator.com/item?id=24750620))
 - [Storeon](https://github.com/ai/storeon) - Tiny event-based Redux-like state manager for React and Preact.
 - [Overstated](https://github.com/fabiospampinato/overstated) - React state management library that's delightful to use, without sacrificing performance or scalability.
-- [Effector](https://github.com/effector/effector) - Reactive state manager. ([Awesome](https://github.com/ilyalesik/awesome-effector)) ([Docs](https://effector.now.sh/docs/introduction/installation)) ([effector-storage](https://github.com/yumauri/effector-storage)) ([Пишем фичу в проекте с EffectorJS](https://www.youtube.com/watch?v=dtrWzH8O_4k)) ([The best part of Effector](https://dev.to/effector/the-best-part-of-effector-4c27)) ([Playground](https://share.effector.dev/)) ([Playground Code](https://github.com/effector/repl))
 - [Akita](https://github.com/datorama/akita) - State Management Tailored-Made for JS Applications.
 - [Observable Store](https://github.com/DanWahlin/Observable-Store) - Provides a simple way to manage state in Angular, React, Vue.js and other front-end applications.
 - [Cerebral](https://github.com/cerebral/cerebral) - Declarative state and side effects management solution for popular JavaScript frameworks.

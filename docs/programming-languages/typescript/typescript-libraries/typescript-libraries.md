@@ -39,6 +39,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ElectricSQL TS Client](https://github.com/electric-sql/typescript-client) - Local-first SQL system. It provides active-active cloud sync for embedded SQLite databases and a reactive programming model to bind components to live database queries.
 - [Supabase Cache Helpers](https://github.com/psteinroe/supabase-cache-helpers) - Collection of framework specific Cache utilities for working with Supabase.
 - [groqd](https://github.com/FormidableLabs/groqd) - Schema-unaware, runtime and type-safe query builder for GROQ.
+- [strema](https://github.com/alexharri/strema) - Schema builder using TypeScript template strings.
 
 ## Web
 

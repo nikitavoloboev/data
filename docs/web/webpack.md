@@ -64,3 +64,4 @@ title: Webpack
 - [Webpack to Vite](https://github.com/originjs/webpack-to-vite) - Convert a Webpack project to a Vite project.
 - [parcel-css-loader](https://github.com/fz6m/parcel-css-loader) - Speed up your Webpack build with parcel CSS.
 - [Migrate From Webpacker to Esbuild (2022)](https://www.fastruby.io/blog/esbuild/webpacker/javascript/migrate-from-webpacker-to-esbuild.html)
+- [GradeJS](https://github.com/gradejs/gradejs) - Analyzes production Webpack bundles without having access to the source code of a website.

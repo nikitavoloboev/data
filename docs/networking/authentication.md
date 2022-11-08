@@ -280,3 +280,4 @@
 - [Auth0 Verifiable Credentials](https://verifiablecredentials.dev/) ([HN](https://news.ycombinator.com/item?id=33427503))
 - [Basic WebAuthn client and server in go](https://github.com/hbolimovsky/webauthn-example)
 - [JSON Web Token Toolkit](https://github.com/ticarpi/jwt_tool) - Toolkit for validating, forging, scanning and tampering JWTs.
+- [Branca](https://github.com/return/branca) - Authenticated and encrypted API tokens written in Rust. A secure JWT alternative.

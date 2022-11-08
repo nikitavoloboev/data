@@ -261,3 +261,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Best way to manage multiple home manager configs for both NixOS and non-NixOS systems using flakes? (2022)](https://www.reddit.com/r/NixOS/comments/xtq2tb/best_way_to_manage_multiple_home_manager_configs/)
 - [Worry-free NixOS refactors (2022)](https://www.tweag.io/blog/2022-10-11-stable-narhashes/)
 - [Hard user separation with NixOS (2022)](https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/) ([HN](https://news.ycombinator.com/item?id=33418788))
+- [Proxy server + NixOS](https://github.com/hackclub/proxyparty)

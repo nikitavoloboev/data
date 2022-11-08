@@ -97,3 +97,4 @@ I am confident that the advancements in computer vision can let you write your o
 - [holovolo](https://holovolo.tv/) - Watch volumetric VR video on Quest 2 or WebVR. ([HN](https://news.ycombinator.com/item?id=33336627))
 - [Obscure technical VRChat knowledge](https://github.com/pema99/shader-knowledge)
 - [Ask HN: Working in a VR Headset? (2022)](https://news.ycombinator.com/item?id=33482215)
+- [Gearchy](https://github.com/devidw/gearchy) - Internet's first Goggles manager.

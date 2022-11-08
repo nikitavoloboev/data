@@ -71,3 +71,4 @@ title: ESLint
 - [eslint-plugin-array-func](https://github.com/freaktechnik/eslint-plugin-array-func) - Rules for Array functions and methods.
 - [eslint-plugin-typescript-sort-keys](https://github.com/infctr/eslint-plugin-typescript-sort-keys) - Linter plugin to require sorting interface and string enum keys.
 - [Shared JS Config by Guild](https://github.com/the-guild-org/shared-config)
+- [Official ESLint plugin for Storybook](https://github.com/storybookjs/eslint-plugin-storybook)
