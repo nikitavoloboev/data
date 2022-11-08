@@ -176,3 +176,4 @@ title: Quantum computing
 - [SQIR](https://github.com/inQWIRE/SQIR) - Small Quantum Intermediate Representation.
 - [scikit-qulacs](https://github.com/Qulacs-Osaka/scikit-qulacs) - Library for quantum neural network. This library is based on qulacs and named after scikit-learn.
 - [2022 Qiskit global summer school on quantum simulation](https://qiskit.org/learn/summer-school/quantum-simulation-summer-school-2022/)
+- [PanQEC](https://github.com/panqec/panqec) - Simulation and visualization of quantum error correcting codes.

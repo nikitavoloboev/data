@@ -127,3 +127,4 @@ title: Zero knowledge proofs
 - [How to prove you know a secret without giving it away (2022)](https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/) ([HN](https://news.ycombinator.com/item?id=33171214))
 - [OpenZL](https://github.com/openzklib/openzl) - Zero-Knowledge Cryptography Infrastructure Stack.
 - [What's the deal with zkapps? (2022)](https://www.cryptologie.net/article/575/whats-the-deal-with-zkapps/)
+- [Linear A](https://zk-ml.xyz/) - Makes it possible to run neural networks in zero-knowledge settings. ([GitHub](https://github.com/zk-ml))

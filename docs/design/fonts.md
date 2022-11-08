@@ -425,3 +425,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Substitute web fonts with StopTheMadness (2022)](https://underpassapp.com/news/2022-11-3.html) ([HN](https://news.ycombinator.com/item?id=33493540))
 - [Font Collection](https://github.com/chrisbull/font-collection)
 - [Almost monospaced: the perfect fonts for writing (2022)](https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/) ([HN](https://news.ycombinator.com/item?id=33498799))
+- [Typography for Lawyers](https://typographyforlawyers.com/) ([HN](https://news.ycombinator.com/item?id=33510827))
