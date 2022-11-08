@@ -159,3 +159,4 @@ title: Decentralization
 - [Web5](https://developer.tbd.website/projects/web5/) - Building an extra decentralized web that puts you in control of your data and identity.
 - [Do you need decentralization? Crypto, Rust, Collaboration vs Consensus (2022)](https://tably.com/blog/decentralisation)
 - [Centralization Is Inevitable (2022)](https://subconscious.substack.com/p/centralization-is-inevitable) ([HN](https://news.ycombinator.com/item?id=33422581))
+- [First Impressions of Bluesky's at Protocol (2022)](https://educatedguesswork.org/posts/atproto-firstlook/) ([HN](https://news.ycombinator.com/item?id=33515399))

@@ -60,3 +60,4 @@
 - [Ask HN: Where should I move to meet interesting tech people? (2022)](https://news.ycombinator.com/item?id=32377084)
 - [Barcelona-style “superblocks” could make cities greener and less car-centric (2022)](https://www.anthropocenemagazine.org/2022/03/barceolona-style-superblocks-a-surprising-number-of-cities-greener/) ([HN](https://news.ycombinator.com/item?id=33279811))
 - [CityAccessMap](https://www.cityaccessmap.com/) - Web application for global scale urban accessibility insights. ([Code](https://github.com/lnicoletti/city-access-map))
+- [Cities that energize you just by walking there](https://twitter.com/jackson_feder/status/1589666714517901312)

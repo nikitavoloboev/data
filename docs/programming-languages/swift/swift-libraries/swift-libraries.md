@@ -17,6 +17,7 @@
 - [Chalk](https://github.com/mxcl/Chalk) - Terminal colors using Swift 5’s string interpolation extensions.
 - [Motor](https://github.com/flintprocessor/Motor) - Swift cli spinner. Simple and fully customizable.
 - [SwiftTUI](https://github.com/rensbreur/SwiftTUI) - SwiftUI for terminal applications.
+- [Beak](https://github.com/yonaskolb/Beak) - Command line interface for your Swift scripts.
 
 ## Animation
 
@@ -1301,6 +1302,7 @@
 - [MIDIKit](https://github.com/orchetect/MIDIKit) - Modern multi-platform Swift CoreMIDI wrapper with MIDI 2.0 support.
 - [PListKit](https://github.com/orchetect/PListKit) - Multiplatform Swift library bringing functional methods and type safety to .plist (Property List) files.
 - [SwiftRadix](https://github.com/orchetect/SwiftRadix) - Easily convert integers to binary/hex/octal strings and back again with clean functional syntax.
+- [EasyBackgroundRefresh](https://github.com/yonat/EasyBackgroundRefresh) - Easy background refresh registration, scheduling, execution, and completion. BGTaskScheduler for the lazy.
 
 ## Other (not lib)
 
@@ -1386,3 +1388,4 @@
 - [Learn how to use Core Data CloudKit](https://github.com/delawaremathguy/CoreDataCloudKitShare)
 - [Swift dependency graph](https://github.com/adam-fowler/swift-dependency-graph) - Visualization of swift package dependencies.
 - [ExtensionKit](https://developer.apple.com/documentation/extensionkit) - Create executable bundles to extend the functionality of other apps by presenting a user interface. ([HN](https://news.ycombinator.com/item?id=33409558))
+- [Loco](https://github.com/konrad1977/loco) - Fast CLI linter for Localization.strings and swift files.

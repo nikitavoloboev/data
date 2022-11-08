@@ -452,3 +452,6 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Om](http://www.om-language.org/) - Novel, maximally-simple concatenative language. ([HN](https://news.ycombinator.com/item?id=33382397))
 - [Jakt](https://github.com/SerenityOS/jakt) - Memory-safe systems programming language.
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
+- [Amber](https://github.com/nineties/amber) - Language for High-Level Programming with Self-Extension.
+- [Singeli](https://github.com/mlochbaum/Singeli) - Domain-specific language for building SIMD algorithms with flexible abstractions and control over every instruction emitted.
+- [Designing a programming system/language to never break backwards compatibility while allowing the system to evolve](https://twitter.com/abanduk/status/1589767455060426757)

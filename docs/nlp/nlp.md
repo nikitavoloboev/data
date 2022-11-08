@@ -10,6 +10,7 @@
 
 - [Figuring out correctly when/what to escalate to a human would change customer service more than anything else.](https://twitter.com/_abhisheksankar/status/1441793453864620044)
 - [GPT-3 was created by mining a human-written internet that will never again exist thanks to the creation of GPT-3](https://twitter.com/alexhern/status/1455439743165124608)
+- [Creating a delightful AI assistant is not anymore a problem of getting smarter models. It is a now product problem. Better models will help but the main blocker is 100% a product problem at this point.](https://twitter.com/spolu/status/1589977540177072135)
 
 ## Links
 
@@ -683,3 +684,4 @@
 - [Bloom](https://huggingface.co/bigscience/bloom) - BigScience Large Open-science Open-access Multilingual Language Model. ([Tweet](https://twitter.com/jackclarkSF/status/1588973690838188033))
 - [Prompts](https://github.com/semiosis/prompts) - Free and open-source (FOSS) curation of prompts for OpenAI’s GPT-3, EleutherAI’s GPT-j, and other LMs.
 - [FSNER](https://github.com/sayef/fsner) - Few-shot Named Entity Recognition.
+- [Ilya Sutskever (OpenAI): What's Next for Large Language Models (LLMs) (2022)](https://www.youtube.com/watch?v=UHSkjro-VbE)

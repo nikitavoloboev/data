@@ -235,3 +235,4 @@
 - [Awesome Conteiners](https://github.com/pditommaso/awesome-containers)
 - [footloose](https://github.com/weaveworks/footloose) - Creates containers that look like virtual machines.
 - [Shimmy](https://github.com/iximiuz/shimmy) - Simplistic shim between container manager and container runtime.
+- [Containers are chroot with a Marketing Budget (2022)](https://earthly.dev/blog/chroot/) ([Lobsters](https://lobste.rs/s/zntiwp/containers_are_chroot_with_marketing))

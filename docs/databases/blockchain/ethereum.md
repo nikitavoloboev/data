@@ -10,6 +10,8 @@ Ethereum is a virtual machine built using a blockchain (spread around many clien
 
 [StarkNet](https://starkware.co/starknet/) & [Cairo](https://www.cairo-lang.org/) are interesting. [Eth2 Book](https://eth2.incessant.ink/book/00__introduction/00__foreword.html) seems nice.
 
+[Helios](https://github.com/a16z/helios) is a nice Eth client.
+
 ## Notes
 
 - [The problem is that money (paper money/currency) is not the only thing that has value which human beings transfer among each other. We share music, art, poetry, equity in companies, ideas, code, etc. What Ethereum does is take the idea of "Digital trustless money transfer" and expands it to "Digital trustless value transfer"](https://news.ycombinator.com/item?id=25264694)
@@ -707,3 +709,4 @@ Ethereum is a virtual machine built using a blockchain (spread around many clien
 - [Awesome wagmi](https://github.com/wagmi-dev/awesome-wagmi)
 - [DAI Teleport](https://github.com/makerdao/dss-teleport) - Facility allows users to fast teleport DAI between "domains", i.e. different chains that have a settlement mechanism with Ethereum L1.
 - [Super Liquidator](https://github.com/jtriley-eth/super-liquidator)
+- [Helios](https://github.com/a16z/helios) - Fast, secure, and portable light client for Ethereum.

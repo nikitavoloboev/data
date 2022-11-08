@@ -312,3 +312,4 @@ title: Swift
 - [A possible vision for macros in Swift (2022)](https://gist.github.com/DougGregor/4f3ba5f4eadac474ae62eae836328b71)
 - [Compiling Swift Generics (2022)](https://download.swift.org/docs/assets/generics.pdf) ([HN](https://news.ycombinator.com/item?id=33237002))
 - [Swift concurrency – things they don’t tell you (2022)](https://wojciechkulik.pl/ios/swift-concurrency-things-they-dont-tell-you) ([HN](https://news.ycombinator.com/item?id=33379414))
+- [Swift Source Compatibility Suite](https://github.com/apple/swift-source-compat-suite)

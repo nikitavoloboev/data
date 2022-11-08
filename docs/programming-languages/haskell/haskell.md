@@ -474,3 +474,4 @@ title: Haskell
 - [Monday Morning Haskell](https://mmhaskell.com/) ([YouTube](https://www.youtube.com/channel/UChXjh9JgFQMQQPf4u5hFgiA/videos))
 - [Break Gently with Pattern Synonyms (2022)](https://www.parsonsmatt.org/2022/11/02/break-gently-pattern-syn.html)
 - [Spooky Masks and Async Exceptions (2022)](https://www.parsonsmatt.org/2022/10/29/spooky_masks_and_async_exceptions.html)
+- [Haskell rules for Bazel](https://github.com/tweag/rules_haskell)

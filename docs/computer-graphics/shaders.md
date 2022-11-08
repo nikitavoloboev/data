@@ -103,3 +103,4 @@ title: Shaders
 - [Offline ShaderToy](https://github.com/tdhooper/offline-shadertoy)
 - [Shady](https://github.com/polyfloyd/shady) - CLI tool to render GLSL shaders.
 - [TextShader](https://textshader.com/) ([HN](https://news.ycombinator.com/item?id=33501177))
+- [Shader graph renderer](https://github.com/edeetee/render-graph)

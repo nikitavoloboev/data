@@ -755,6 +755,7 @@
 - [Safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors.
 - [Disco Rust](https://github.com/ankane/disco-rust) - Recommendations for Rust using collaborative filtering.
 - [Burn](https://github.com/burn-rs/burn) - Deep learning framework with extreme flexibility written in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/ynquym/announcing_burn_new_deep_learning_framework_with/))
+- [FFSVM-Rust](https://github.com/ralfbiedert/ffsvm-rust) - Really Fast Support Vector Machine.
 
 ## macOS
 
@@ -903,6 +904,7 @@
 - [roots](https://github.com/vorot/roots) - Library of well known algorithms for numerical root finding.
 - [Astro-float](https://github.com/stencillogic/astro-float) - Arbitrary precision floating point numbers library.
 - [wedged](https://github.com/jsmith628/wedged) - Robust and generalized library for Geometric Algebra in Rust.
+- [matrixmultiply](https://github.com/bluss/matrixmultiply) - General matrix multiplication of f32 and f64 matrices in Rust. Supports matrices with general strides.
 
 ## CSS
 
@@ -2296,6 +2298,7 @@
 - [ftlog](https://github.com/nonconvextech/ftlog) - Asynchronous logging library for high performance.
 - [json_plus](https://github.com/rust-playground/json-plus) - JSON helper functions beyond Serialization & Deserialization such as diff, merge, ....
 - [sitemap](https://github.com/svmk/rust-sitemap) - Sitemap library for Rust.
+- [dot_graph](https://github.com/SelamaAshalanore/dot_graph) - Library for generating Graphviz DOT language files.
 
 ## Cargo Plugins
 
@@ -2570,4 +2573,6 @@
 - [Workshop Repo: Microservice with Tokio and Rust](https://github.com/ddprrt/microservice-rust-workshop)
 - [Using Rust as my Backend (2022)](https://www.reddit.com/r/rust/comments/yk9br7/using_rust_as_my_backend/)
 - [What crates are considered as de-facto standard? (2022)](https://www.reddit.com/r/rust/comments/ylp4nz/what_crates_are_considered_as_defacto_standard/)
-- [Blessed.rs](https://blessed.rs/crates) - Unofficial guide to the Rust ecosystem. ([Code](https://github.com/nicoburns/blessed-rs)) ([HN](https://news.ycombinator.com/item?id=33506132))
+- [Blessed.rs](https://blessed.rs/crates) - Unofficial guide to the Rust ecosystem. ([Code](https://github.com/nicoburns/blessed-rs)) ([HN](https://news.ycombinator.com/item?id=33506132)) ([Reddit](https://www.reddit.com/r/rust/comments/yp65kq/crate_list_blessedrs/))
+- [Interoptopus](https://github.com/ralfbiedert/interoptopus) - Polyglot bindings generator for your library. Write a robust library in Rust, easily access it from your second-favorite language.
+- [Rust UML Diagram Generator](https://github.com/SelamaAshalanore/rudg) - Tools that parsing Rust code into UML diagram.

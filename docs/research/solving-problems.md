@@ -1,17 +1,12 @@
 # Solving problems
 
-Knowledge is knowing where the answers might lie. Solving problems is knowing how to apply the knowledge you have to solve a thing.
+[Always think from first principles](https://twitter.com/jeff_weinstein/status/1454518683653459968).
 
-Elon Musk has a [great 5-step engineering process to solve technical problems](https://twitter.com/jeff_weinstein/status/1454518683653459968).
-
-I like to be methodical when approaching and solving problems I have.
-
-For me solving a problem usually involves going through these four steps:
-
-1. Find what the problem I want to solve is.
-2. Break the problem down to smaller parts I can solve.
-3. Work on solving the task and nothing else.
-4. Solve the problem.
+1. What are you trying to solve? Define it well.
+2. Break the problem down to essential and smaller parts.
+3. Prioritize order of solving the parts + needed research.
+4. Work on solving each part one by one. Get rid of parts that are non essential.
+5. Optimize. Document.
 
 ## 1. Find what the problem is
 
@@ -109,3 +104,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/) ([HN](https://news.ycombinator.com/item?id=30858311))
 - [Questions for a new technology (2019)](https://kellanem.com/notes/new-tech)
 - [What “work” looks like (2022)](https://blog.jim-nielsen.com/2022/what-work-looks-like/) ([HN](https://news.ycombinator.com/item?id=33326080))
+- [Elon Musk's 5-step engineering process](https://twitter.com/jeff_weinstein/status/1454518683653459968)

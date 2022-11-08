@@ -572,7 +572,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Upgrading MySQL at Shopify (2021)](https://shopify.engineering/upgrading-mysql-shopify)
 - [DuckDB quacks Arrow: A zero-copy data integration between Apache Arrow and DuckDB (2021)](https://arrow.apache.org/blog/2021/12/03/arrow-duckdb/)
 - [Some indexing best practices (2021)](https://www.pgmustard.com/blog/indexing-best-practices-postgresql)
-- [Slashbase](https://slashbase.com/) - Open-source collaborative IDE for your databases. ([Code](https://github.com/slashbase/slashbase))
+- [Slashbase](https://slashbase.com/) - Open-source collaborative IDE for your databases. ([Code](https://github.com/slashbaseide/slashbase)) ([HN](https://news.ycombinator.com/item?id=33516533))
 - [Индексируем базу: как делать хорошо и не делать плохо](https://github.com/Envek/saintprubyconf-db-indexes-talk)
 - [Ask HN: How do you manage direct updates to databases in a production system (2021)](https://news.ycombinator.com/item?id=29563226)
 - [Databases in 2021: A Year in Review](https://ottertune.com/blog/2021-databases-retrospective/) ([HN](https://news.ycombinator.com/item?id=29731885))

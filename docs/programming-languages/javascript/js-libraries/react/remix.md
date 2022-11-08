@@ -11,6 +11,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 ## OSS Remix apps
 
 - [Remix Stripe Stack](https://github.com/dev-xo/stripe-stack) - Stripe focused Remix Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM. Deploys to Fly.io.
+- [Remix Community Examples](https://github.com/remix-run/examples)
 - [Remix + Cloudflare Workers starter with Turborepo](https://github.com/jacob-ebey/remix-chat)
 - [Remix + Deno + Rust -> Webassembly - The Air Metal Stack](https://github.com/benwis/air-metal-stack)
 - [Remix Gospel stack with Turborepo](https://github.com/PhilDL/remix-gospel-stack) - Remix template with Turborepo, TypeScript and pnpm.

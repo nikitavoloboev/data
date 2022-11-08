@@ -404,3 +404,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [Does anyone else finds AWS and other Amazon services overly complicated? (2022)](https://news.ycombinator.com/item?id=33490314)
 - [AWS EC2 Instance Terraform module](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance)
 - [Terraform AWS Components](https://github.com/cloudposse/terraform-aws-components) - Opinionated, self-contained Terraform root modules that each solve one, specific problem.
+- [Data Engineering with AWS (2021)](https://www.packtpub.com/product/data-engineering-with-aws/9781800560413) ([Code](https://github.com/PacktPublishing/Data-Engineering-with-AWS))

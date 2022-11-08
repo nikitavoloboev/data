@@ -92,3 +92,4 @@ title: Idris
 - [idris2-filepath](https://github.com/stefan-hoeck/idris2-filepath) - Unix style file paths in Idris2.
 - [Curated Package Collections for Idris2](https://github.com/stefan-hoeck/idris2-pack-db)
 - [Idris2-Pack](https://github.com/stefan-hoeck/idris2-pack) - Idris2 Package Manager with Curated Package Collections.
+- [sedris](https://github.com/kasiaMarek/sedris) - Sed implementation for Idris.

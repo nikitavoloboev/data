@@ -95,3 +95,4 @@ title: Prometheus
 - [exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sonarr, Radarr or Lidarr.
 - [Ansible Prometheus](https://github.com/cloudalchemy/ansible-prometheus) - Deploy Prometheus monitoring system.
 - [Prometheus Shell Command Runner](https://github.com/tomwilkie/prom-run) - Periodically run a command and exports its return code as a prometheus metric.
+- [promts](https://github.com/base698/promts) - TypeScript Native Prometheus Client for Deno.

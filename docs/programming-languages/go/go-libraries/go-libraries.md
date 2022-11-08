@@ -566,6 +566,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [ScyllaDB Go Driver](https://github.com/scylladb/scylla-go-driver) ([Article](https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/)) ([HN](https://news.ycombinator.com/item?id=33187677))
 - [libschema](https://github.com/muir/libschema) - Way for Go libraries to manage their own database migrations.
 - [redis](https://github.com/cristalhq/redis) - Redis client for Go.
+- [go-dqlite](https://github.com/canonical/go-dqlite) - Go package, containing bindings for the dqlite C library and a pure-Go client for the dqlite wire protocol.
 
 ## ML
 
@@ -682,6 +683,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-evdev](https://github.com/holoplot/go-evdev) - Go support for the Linux evdev interface.
 - [Go Landlock](https://github.com/landlock-lsm/go-landlock) - Go library for the Linux Landlock sandboxing feature.
 - [ZSocket](https://github.com/newtools/zsocket) - Zero-copy sockets for Linux in Go.
+- [Gonso](https://github.com/cpuguy83/gonso) - Library to do safe Linux namespace manipulation in Go.
 
 ## Apple
 
@@ -1874,6 +1876,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Weave Common](https://github.com/weaveworks/common) - Libraries used in multiple Weave projects.
 - [shellquote](https://github.com/kballard/go-shellquote) - Go utilities for performing shell-like word splitting/joining.
 - [Pipeline](https://github.com/deliveryhero/pipeline) - Library to help you create pipelines in Go.
+- [Logger](https://github.com/google/logger) - Cross platform Go logging library.
+- [go-envparse](https://github.com/hashicorp/go-envparse) - Minimal environment variable parser for Go.
 
 ## Links
 

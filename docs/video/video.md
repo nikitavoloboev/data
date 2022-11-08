@@ -424,3 +424,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Booth](https://booth.video/) - Metadata-Secure Video Conferencing.
 - [GIFs (sane) playback control using WASM and FFmpeg (2022)](https://brunoluiz.net/blog/2022/jan/gif-sane-playback-control-ffmpegwasm/)
 - [go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, MJPEG, HomeKit, FFmpeg, etc.
+- [JSMpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video & MP2 Audio Decoder in JavaScript.

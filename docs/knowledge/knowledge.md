@@ -28,6 +28,7 @@ And of course this system of knowledge indexing is very flexible and I am experi
 
 - Take whatever you’re good at and just try to push your understanding deeper.
 - [Don’t assume it’s difficult until it is](https://news.ycombinator.com/item?id=10872970).
+- For knowledge, it's enough to know where the answers might lie. And how to apply knowledge to solve any problem.
 
 ## Links
 

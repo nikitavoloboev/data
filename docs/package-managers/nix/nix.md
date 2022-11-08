@@ -436,3 +436,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix (on Nix and Docker and build and packaging systems) (2022)](https://whynowtech.substack.com/p/nix)
 - [Scrive Nix Workshop](https://scrive.github.io/nix-workshop/index.html)
 - [Setting up a private Nix cache for fun and profit (2022)](https://www.channable.com/tech/setting-up-a-private-nix-cache-for-fun-and-profit)
+- [Why isn't Nix more popular? (2022)](https://www.reddit.com/r/NixOS/comments/yozi22/why_isnt_nix_more_popular/)

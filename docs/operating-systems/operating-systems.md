@@ -348,7 +348,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [FlexSC: Flexible System Call Scheduling with Exception-Less System Calls](https://www.usenix.org/legacy/events/osdi10/tech/full_papers/Soares.pdf) ([Summary](https://catern.com/flexsc.html)) ([Lobsters](https://lobste.rs/s/ihm1l7/summary_flexsc_paper))
 - [What is a Process? (Operating Systems)](https://sequentialread.com/what-is-a-process/)
 - [dyld](https://github.com/apple-oss-distributions/dyld) - Dynamic link editor. ([Tweet](https://twitter.com/davidecci/status/1490920286086070274))
-- [Unikraft](https://unikraft.org/) - Automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. ([Code](https://github.com/unikraft/unikraft)) ([kraft - Define, configure, build, and run Unikraft unikernel applications](https://github.com/unikraft/kraft))
+- [Unikraft](https://unikraft.org/) - Automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. ([Code](https://github.com/unikraft/unikraft)) ([kraft - Define, configure, build, and run Unikraft unikernel applications](https://github.com/unikraft/kraft)) ([GitHub](https://github.com/unikraft))
 - [systemfd](https://github.com/mitsuhiko/systemfd) - Development helper utility for helping with auto reloading for projects supporting systemd socket activation.
 - [Let's write an OS which can run on RISC-V in Rust from scratch](https://github.com/rcore-os/rCore-Tutorial-v3)
 - [MilvusVisor](https://github.com/RIKEN-RCCS/MilvusVisor) - Thin-hypervisor that runs on aarch64 CPUs.
@@ -397,3 +397,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Things a modern OS should have](https://twitter.com/kocienda/status/1586828713492041728)
 - [AMD Hypervisor with Rust - Matthias Heiden (2022)](https://www.youtube.com/watch?v=7igpsgCZJY4)
 - [Booting an Embedded OS: the Booting and U-Boot Phase (2022)](https://serhack.me/articles/os-embedded-booting-phase-uboot/)
+- [KraftKit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.

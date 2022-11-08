@@ -199,6 +199,7 @@ Below is a list of extensions I use.
 - [Toggle VS Code](https://github.com/rebornix/vscode-toggle) - Toggle any VS Code setting by your favorite keybindings.
 - [Sequential Input Sequence](https://marketplace.visualstudio.com/items?itemName=tomoki1207.vscode-input-sequence) ([Code](https://github.com/tomoki1207/vscode-input-sequence))
 - [VS Code Makefile Tools](https://github.com/microsoft/vscode-makefile-tools)
+- [Direnv VSCode](https://github.com/direnv/direnv-vscode)
 
 ## Shell
 
@@ -226,6 +227,7 @@ Below is a list of extensions I use.
 - [pylens](https://marketplace.visualstudio.com/items?itemName=ninoseki.vscode-pylens) - Shows the latest version of a dependency in pyproject.toml or requirements.txt. ([Code](https://github.com/ninoseki/vscode-pylens))
 - [PyPI Assistant](https://marketplace.visualstudio.com/items?itemName=twixes.pypi-assistant) - Enables CodeLens + handy hover tooltips with PyPI package information in pip requirements. ([Code](https://github.com/Twixes/pypi-assistant))
 - [Python Web WASM](https://github.com/microsoft/vscode-python-web-wasm) - Run Python code in a Web browser using WebAssembly technology.
+- [Ruff](https://github.com/charliermarsh/vscode-ruff) - Support for the Ruff linter.
 
 ## Git
 

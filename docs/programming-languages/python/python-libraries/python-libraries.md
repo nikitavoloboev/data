@@ -1035,6 +1035,7 @@
 - [aiochan](https://github.com/zh217/aiochan) - CSP-style concurrency for Python.
 - [TLViz](https://github.com/tensorly/viz) - Easy visualization and evaluation of matrix and tensor factorization models.
 - [MatCoupLy](https://github.com/MarieRoald/matcouply) - Learning coupled matrix factorizations in Python.
+- [DynaPyt](https://github.com/sola-st/DynaPyt) - Dynamic analysis framework for Python.
 
 ## Notes
 

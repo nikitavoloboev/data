@@ -71,3 +71,4 @@ title: Observability
 - [Kosli](https://www.kosli.com/) - Track and query every change from commit through to production. ([GitHub](https://github.com/kosli-dev/)) ([CLI](https://github.com/kosli-dev/cli))
 - [Dave Lucia on Observability at Bitfo (2022)](https://share.fireside.fm/episode/IAs5ixts+87YV43bE)
 - [Elixir Observability: OpenTelemetry, Lightstep, Honeycomb (2022)](https://davelucia.com/blog/observing-elixir-with-lightstep)
+- [Glean SDK Docs](https://mozilla.github.io/glean/book/index.html) - Modern cross-platform telemetry client libraries. ([Glean Dictionary](https://github.com/mozilla/glean-dictionary))

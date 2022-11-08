@@ -8,6 +8,7 @@ title: Gatsby JS
 
 ## Nice example sites
 
+- [Valhalla Pet site](https://github.com/gatsby-inc/valhalla-examples) - Gatsby Pet Snuggles site, powered by WordPress, Contentful, Shopify, and Valhalla.
 - [Juliette's personal website](https://github.com/juliettepretot/juliette.sh)
 - [Overreacted by Dan Abramov](https://github.com/gaearon/overreacted.io)
 - [Digital Garden](https://github.com/johno/digital-garden) - Content-first project meant to make it easier to write and curate content on the web.

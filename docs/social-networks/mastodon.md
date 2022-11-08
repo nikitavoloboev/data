@@ -76,3 +76,5 @@ title: Mastodon
 - [Mastodon Is Awesome (2022)](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/) ([HN](https://news.ycombinator.com/item?id=33503028))
 - [Exploring Mastodon (2022)](https://martinfowler.com/articles/exploring-mastodon.html) ([HN](https://news.ycombinator.com/item?id=33506401))
 - [Your Organization should run its own Mastodon server (2022)](https://martinfowler.com/articles/your-org-run-mastodon.html) ([HN](https://news.ycombinator.com/item?id=33509613))
+- [Mastodon User Count Bot](https://github.com/gallizoltan/usercount) - User statistics bot for Mastodon.
+- [Academics on Mastodon](https://github.com/nathanlesage/academics-on-mastodon)

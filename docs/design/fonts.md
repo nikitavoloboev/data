@@ -426,3 +426,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Font Collection](https://github.com/chrisbull/font-collection)
 - [Almost monospaced: the perfect fonts for writing (2022)](https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/) ([HN](https://news.ycombinator.com/item?id=33498799))
 - [Typography for Lawyers](https://typographyforlawyers.com/) ([HN](https://news.ycombinator.com/item?id=33510827))
+- [Velvetyne type Foundry](https://www.velvetyne.fr/) ([Twitter](https://twitter.com/velvetype))
+- [Studio Triple](http://studiotriple.fr/) - Berlin based graphic and type design studio.

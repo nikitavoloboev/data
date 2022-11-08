@@ -62,3 +62,4 @@ title: ClojureScript
 - [ClavaScript](https://github.com/clavascript/clavascript) - ClojureScript syntax to JavaScript compiler.
 - [Tiny example project for setting up development using nREPL and shadow-cljs](https://github.com/PEZ/shadow-w-backend)
 - [Cherry](https://github.com/squint-cljs/cherry) - ClojureScript to ES6 module compiler.
+- [Conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame.

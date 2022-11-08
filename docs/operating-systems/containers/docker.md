@@ -271,3 +271,4 @@ Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432
 - [docker-host](https://github.com/qoomon/docker-host) - Docker sidecar container to forward all traffic to local docker host or any other host.
 - [Docker in the browser using x86-to-WASM recompilation](http://copy.sh/v86/?profile=archlinux&c=cat%20docker.sh;./docker.sh) ([HN](https://news.ycombinator.com/item?id=33424299))
 - [Docker WASM](https://github.com/thiskevinwang/docker-wasm) - Proof of concept of running WASM w/ Docker.
+- [Dive In](https://github.com/prakhar1989/dive-in) - Docker extension that helps you explore a docker image, layer contents, and discover ways to shrink the size of your Docker/OCI image.

@@ -186,3 +186,4 @@
 - [Write fast robotics code: transcendental footguns (2022)](https://jingnanshi.com/blog/transcendental_robotics_coding.html)
 - [Awesome LLM Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 - [Holo-Dex: Teaching Dexterity with Immersive Mixed Reality (2022)](https://arxiv.org/abs/2210.06463) ([Code](https://github.com/SridharPandian/Holo-Dex))
+- [Masked Visual Pre-training for Robotics](https://github.com/ir413/mvp)

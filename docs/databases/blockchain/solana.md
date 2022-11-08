@@ -8,7 +8,7 @@ title: Solana
 
 Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. This [article](https://lu.ma/p/3nHEa7k5DABpzE6/The-Solana-Programming-Model) & [thread](https://twitter.com/ayushmenon_/status/1476294409205526534) are nice intro guides. [Anchor](https://book.anchor-lang.com/) is best framework.
 
-I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and [stake](https://www.reddit.com/r/solana/comments/soeadc/where_are_you_staking_your_solana/) some in FTX itself.
+I buy SOL with [Binance](https://www.binance.com/en-GB) (SEPA transfer) and [stake](https://www.reddit.com/r/solana/comments/soeadc/where_are_you_staking_your_solana/) some in FTX itself.
 
 If I need to use the coins, I transfer it to to [Glow Wallet](https://glow.app/) ([Phantom Wallet](https://phantom.app/) is nice too). Staking in [Marinade](https://marinade.finance/app/staking) is also great as you can use mSOL you get back in some [mSOL liquidity pool](https://marinade.finance/app/mnde) or [Solend](https://solend.fi) (not sure how useful that is) or some other way. If I need liquidity, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out. That is if I don't use FTX staking itself (it has issue of waiting for longer time to get funds back from unstaking).
 

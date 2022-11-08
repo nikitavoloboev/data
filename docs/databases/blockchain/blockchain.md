@@ -417,3 +417,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Uniswap Labs Widgets](https://github.com/Uniswap/widgets)
 - [Discove](https://www.discove.xyz/)
 - [Twilight: A Differentially Private Payment Channel Network (2022)](https://www.usenix.org/conference/usenixsecurity22/presentation/dotan)
+- [Notes on Proposer-Builder Separation (PBS) (2022)](https://barnabe.substack.com/p/pbs)

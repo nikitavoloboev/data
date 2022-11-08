@@ -4,6 +4,8 @@ title: APL
 
 # [APL](<https://en.wikipedia.org/wiki/APL_(programming_language)>)
 
+[BQN](https://github.com/mlochbaum/BQN) is interesting.
+
 ## Links
 
 - [Try APL](https://tryapl.org/) - APL is an array-oriented programming language that will change the way you think about problems and data. ([HN](https://news.ycombinator.com/item?id=27460887))

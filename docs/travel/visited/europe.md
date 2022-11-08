@@ -94,3 +94,4 @@ So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](unit
 - [The Real Reason Europe Took Over the World (2022)](https://www.youtube.com/watch?v=9XECUXXbjhU)
 - [Taxes & Working Remotely in Europe as a Freelancer or Business Owner (2022)](https://www.supportadventure.com/taxes-working-remotely-in-europe-as-a-freelancer-or-business-owner/)
 - [Visualization of European history (1500-2022)](https://twitter.com/xruiztru/status/1589622943122075650)
+- [How Most European Cities Are Insanely Well Located (2022)](https://www.youtube.com/watch?v=3uwVZJx1oyA)

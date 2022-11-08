@@ -204,6 +204,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Bruno Luiz Silva](https://brunoluiz.net/)
 - [Matt Parsons](https://www.parsonsmatt.org/)
 - [Patrick Dubroy](https://dubroy.com/blog/)
+- [Maxime Heckel](https://blog.maximeheckel.com/)
 
 ## Notes
 

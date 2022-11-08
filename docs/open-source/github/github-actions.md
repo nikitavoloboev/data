@@ -266,6 +266,7 @@ title: GitHub actions
 - [Release GitHub Actions](https://github.com/technote-space/release-github-actions) - Automate the release of GitHub Actions.
 - [Validate JSON or YAML against a schema](https://github.com/cardinalby/schema-validator-action)
 - [Markdown Autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - GitHub Action that automatically generates & updates markdown content from external or remote files.
+- [AutoUpdate](https://github.com/chinthakagodawita/autoupdate) - GitHub Action that auto-updates pull requests branches, whenever changes are pushed to their destination branch.
 
 ## Go
 

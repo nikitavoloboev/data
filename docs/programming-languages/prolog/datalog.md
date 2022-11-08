@@ -9,7 +9,7 @@ title: Datalog
 - [Learn Datalog Today](http://www.learndatalogtoday.org/) - Interactive Datalog Tutorial. ([Code](https://github.com/jonase/learndatalogtoday))
 - [Programmable View Update Strategies on Relations (2020)](https://arxiv.org/pdf/1911.05921.pdf)
 - [Turning the IDE Inside Out with Datalog (2020)](https://petevilter.me/post/datalog-typechecking/) ([Lobsters](https://lobste.rs/s/mox1k6/turning_ide_inside_out_with_datalog)) ([HN](https://news.ycombinator.com/item?id=23869592))
-- [DDlog](https://github.com/vmware/differential-datalog) - Programming language for incremental computation. It is well suited for writing programs that continuously update their output in response to input changes. ([HN](https://news.ycombinator.com/item?id=26514456))
+- [DDlog](https://github.com/vmware/differential-datalog) - Programming language for incremental computation. It is well suited for writing programs that continuously update their output in response to input changes. ([HN](https://news.ycombinator.com/item?id=26514456)) ([HN](https://news.ycombinator.com/item?id=33521561))
 - [What You Always Wanted to Know About Datalog (1989)](https://personal.utdallas.edu/~gupta/courses/acl/papers/datalog-paper.pdf)
 - [Intro to DDlog (2020)](https://chasewilson.dev/blog/intro-to-ddlog/)
 - [hsdatalog](https://github.com/chessai/hsdatalog) - Compiler from Datalog to relational algebra, as well as an interpreter for relational algebra that uses binary decision diagrams (BDDs).
@@ -38,4 +38,4 @@ title: Datalog
 - [Datalog in JavaScript (2022)](https://www.instantdb.dev/essays/datalogjs) ([HN](https://news.ycombinator.com/item?id=31154039))
 - [datalogJS](https://github.com/stopachka/datalogJS) - Simple Datalog query engine, implemented in 100 lines of JS.
 - [treeedb](https://github.com/langston-barrett/treeedb) - Generate Soufflé Datalog types, relations, and facts that represent ASTs from a variety of programming languages.
-- [cozo](https://github.com/cozodb/cozo) - General-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms.
+- [Cozo](https://github.com/cozodb/cozo) - General-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms. ([HN](https://news.ycombinator.com/item?id=33518320))

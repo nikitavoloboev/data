@@ -44,6 +44,8 @@ div.CodeMirror-cursor,
 ## Plugins
 
 - [Dual](https://github.com/Psionica/dual-obsidian-client) - Skilled virtual assistant for Obsidian. ([Article](https://paulbricman.com/thoughtware/dual))
+- [Ava](https://github.com/louis030195/obsidian-ava) - AI-enhanced reflection in Obsidian.
+- [Semantic Search](https://github.com/louis030195/obsidian-search)
 - [Obsidian Sample Plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Sample plugin for Obsidian.
 - [Hover Editor](https://github.com/nothingislost/obsidian-hover-editor) - Transform the Page Preview hover into a working editor instance.
 - [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve & note aging by reviewing notes using spaced repetition on Obsidian.md.

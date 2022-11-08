@@ -4,6 +4,8 @@
 
 Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/1sgtbqVnotvY1Ir2S60J9m62yGPVkm2nRmbwrfZAoc6Y/htmlview) ([Video](https://www.youtube.com/watch?v=fyyKrMeNPBM)).
 
+[Crouton](https://crouton.app/) is nice.
+
 ## Rhonda’s micronutrient smoothie
 
 [Recipe](https://www.foundmyfitness.com/reports/micronutrient-smoothie.pdf). Very healthy. Goes over why it is healthy too.
@@ -116,3 +118,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Tacohuaco](https://tacohuaco.co/) - Favorite recipes of a Mexican-Russian couple. ([Code](https://github.com/tacohuaco/tacohuaco))
 - [The Fresh Loaf](https://www.thefreshloaf.com/) - Community of Amateur Bakers and Artisan Bread Enthusiasts.
 - [Andrew Zimmern](https://andrewzimmern.com/)
+- [Crouton](https://crouton.app/) - Meal Plan & Recipe Organiser.

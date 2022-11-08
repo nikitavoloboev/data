@@ -602,3 +602,5 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Things I learned at PGConf.EU 2022](https://domm.plix.at/perl/2022_10_things_i_learned_at_pgconfeu.html)
 - [Postgres Insider Terminology (2022)](https://www.crunchydata.com/blog/challenging-postgres-terminology) ([HN](https://news.ycombinator.com/item?id=33462983))
 - [Opening Old Wounds - Why Uber Engineering Switched from Postgres to MySQL (2020)](https://www.youtube.com/watch?v=_E43l5EbNI4)
+- [Scaling PostgresML to 1 Million Requests per Second (2022)](https://postgresml.org/blog/scaling-postgresml-to-one-million-requests-per-second/) ([HN](https://news.ycombinator.com/item?id=33518443))
+- [pg](https://github.com/ferama/pg) - Alternative CLI tool for PostgreSQL.

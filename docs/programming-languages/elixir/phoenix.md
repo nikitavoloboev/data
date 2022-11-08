@@ -122,3 +122,4 @@ title: Phoenix framework
 - [LiveEvent](https://github.com/schrockwell/live_event) - Standardized events for LiveView.
 - [LiveAssign](https://github.com/schrockwell/live_assign) - State management conventions for LiveView.
 - [Phoenix Diff](https://github.com/navinpeiris/phoenix-diff) - See the changes needed when upgrading an Elixir Phoenix application.
+- [Phoenix 1.7-rc released: Built-in Tailwind, Verified Routes, and more (2022)](https://phoenixframework.org/blog/phoenix-1.7-released) ([Reddit](https://www.reddit.com/r/elixir/comments/ypf585/phoenix_17rc_released_builtin_tailwind_verified/))

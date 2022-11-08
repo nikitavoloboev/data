@@ -51,3 +51,4 @@ title: Nim
 - [Nim grammar for tree-sitter](https://github.com/monaqa/tree-sitter-nim)
 - [Andreas Rumpf: Nim 2 (2022)](https://www.youtube.com/watch?v=aDi50K_Id_k) ([Lobsters](https://lobste.rs/s/dyh8fw/nim_2_nimconf_2022))
 - [NimConf 2022](https://nim-lang.org/blog/2022/10/21/nim-conference.html) ([HN](https://news.ycombinator.com/item?id=33286369))
+- [How to write performant Nim (2022)](https://www.reddit.com/r/nim/comments/yor0ue/how_to_write_performant_nim/)

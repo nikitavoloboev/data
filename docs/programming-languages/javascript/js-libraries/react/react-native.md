@@ -312,3 +312,4 @@ title: React Native
 - [Preact-Native](https://github.com/barelyhuman/preact-native) - Experimental renderer for preact to work with react-native.
 - [Rive React Native](https://github.com/rive-app/rive-react-native) - React Native runtime library for Rive.
 - [Rust + React Native](https://github.com/osdnk/react-native-jsi-meets-rust)
+- [Open Native](https://github.com/OpenNative/open-native) - Vendor-unlock React Native. Use React Native native modules with other cross-platform frameworks.

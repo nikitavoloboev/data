@@ -29,3 +29,4 @@
 - [Nothing makes sense in deep learning, except in the light of evolution (2022)](https://arxiv.org/abs/2205.10320)
 - [Life Ascending: The Ten Great Inventions of Evolution by Nick Lane](https://www.goodreads.com/book/show/6429264-life-ascending)
 - [The Selfish Gene by Richard Dawkins](https://www.goodreads.com/book/show/61535.The_Selfish_Gene)
+- [ESTool](https://github.com/hardmaru/estool) - Evolution Strategies Tool.

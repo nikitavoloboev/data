@@ -2,13 +2,15 @@
 
 [Abletone Learning Synth](https://learningsynths.ableton.com/) is nice intro. [Never Before Heard Sounds](https://heardsounds.com/) is working on some [neat tech](https://twitter.com/yotammann/status/1532446436314402817).
 
+Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ableton.com/en/).
+
 ## Tools
 
 - [Ableton Live](https://www.ableton.com/en/) - Digital audio workstation. ([GitHub](https://github.com/Ableton))
 - [GLICOL](https://github.com/chaosprint/glicol) - Graph-oriented live coding language written in Rust. Make music with code. ([Web](https://glicol.org/)) ([HN](https://news.ycombinator.com/item?id=30746299)) ([HN](https://news.ycombinator.com/item?id=30942074))
 - [Klangmeister](http://ctford.github.io/klangmeister/about)
 - [Helio Workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, both desktop and mobile. ([Web](https://helio.fm/)) ([HN](https://news.ycombinator.com/item?id=28382873))
-- [Sonic Pi](https://sonic-pi.net/) - Code-based music creation and performance tool. ([Code](https://github.com/sonic-pi-net/sonic-pi)) ([Sonic Pi Tool](https://github.com/lpil/sonic-pi-tool)) ([Sonic Pi Challenge](https://github.com/github/sonic-pi-challenge)) ([Sonic Pi Tool (Python)](https://github.com/emlyn/sonic-pi-tool)) ([HN](https://news.ycombinator.com/item?id=28274069))
+- [Sonic Pi](https://sonic-pi.net/) - Code-based music creation and performance tool. ([Code](https://github.com/sonic-pi-net/sonic-pi)) ([Sonic Pi Tool](https://github.com/lpil/sonic-pi-tool)) ([Sonic Pi Challenge](https://github.com/github/sonic-pi-challenge)) ([Sonic Pi Tool (Python)](https://github.com/emlyn/sonic-pi-tool)) ([HN](https://news.ycombinator.com/item?id=28274069)) ([HN](https://news.ycombinator.com/item?id=33516405))
 - [FlowKey](https://www.flowkey.com) - Learn Piano with songs you love.
 - [Orca](https://github.com/hundredrabbits/Orca) - Live Programming Environment. Each letter of the alphabet is an operation. ([C rewrite](https://github.com/hundredrabbits/Orca-c)) ([Web](https://hundredrabbits.github.io/Orca/)) ([HN](https://news.ycombinator.com/item?id=23118139)) ([Interview with creator](https://overcast.fm/+Jrqagk3h0)) ([Forum discussion](https://llllllll.co/t/orca-livecoding-tool/17689)) ([Intro](https://www.youtube.com/watch?v=RaI_TuISSJE)) ([Videos](https://www.youtube.com/playlist?list=PLb1uDATFJPcEEG3w715GzbD4AE232Pdcu)) ([HN](https://news.ycombinator.com/item?id=29122218))
 - [Glitch](https://github.com/naivesound/glitch) - Minimal algorithmic music composer and synthesizer. ([Code](https://github.com/vincentriemer/io-808))
@@ -451,3 +453,4 @@
 - [Samples used in SuperDirt and the TidalCycles tutorials](https://github.com/tidalcycles/Dirt-Samples)
 - [David Addison - YouTube](https://www.youtube.com/c/DavidAddison1/videos)
 - [Modernizing my 1980s sound system (2022)](https://blog.yossarian.net/2022/11/07/Modernizing-my-1980s-sound-system) ([HN](https://news.ycombinator.com/item?id=33506765))
+- [What's your lyric/writing "process"? (2022)](https://www.reddit.com/r/WeAreTheMusicMakers/comments/yorylw/whats_your_lyricwriting_process/)
