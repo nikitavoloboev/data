@@ -26,3 +26,4 @@
 - [A helicopter will try to catch a rocket booster mid-air (2022)](https://spectrum.ieee.org/rocket-booster-rocket-lab) ([HN](https://news.ycombinator.com/item?id=31075075))
 - [How do you power a rocket engine? (2022)](https://everydayastronaut.com/rocket-engine-cycles/) ([HN](https://news.ycombinator.com/item?id=31215149))
 - [Ignition: An Informal History of Liquid Rocket Propellants (1972)](https://library.sciencemadness.org/library/books/ignition.pdf)
+- [The Quest for a Fusion Drive (2022)](https://orbitalindex.com/archive/2022-11-09-Issue-193/)
