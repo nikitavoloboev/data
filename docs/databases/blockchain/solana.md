@@ -8,13 +8,19 @@ title: Solana
 
 Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. This [article](https://lu.ma/p/3nHEa7k5DABpzE6/The-Solana-Programming-Model) & [thread](https://twitter.com/ayushmenon_/status/1476294409205526534) are nice intro guides. [Anchor](https://book.anchor-lang.com/) is best framework.
 
-I buy SOL with [Binance](https://www.binance.com/en-GB) (SEPA transfer) and [stake](https://www.reddit.com/r/solana/comments/soeadc/where_are_you_staking_your_solana/) some in FTX itself.
+I buy SOL with [Binance](https://www.binance.com/en-GB) (SEPA transfer). You can then [stake](https://www.reddit.com/r/solana/comments/soeadc/where_are_you_staking_your_solana/) SOL in many ways including Binance or [Marinade](https://marinade.finance/app/staking). Marinade is neat because from staked SOL, you get mSOL token which can act like SOL but you still get staked rewards. Or you can put mSOL into [liquidity pool](https://marinade.finance/app/mnde) or use it with [Solend](https://solend.fi) or similar services. I don't find them useful though.
 
-If I need to use the coins, I transfer it to to [Glow Wallet](https://glow.app/) ([Phantom Wallet](https://phantom.app/) is nice too). Staking in [Marinade](https://marinade.finance/app/staking) is also great as you can use mSOL you get back in some [mSOL liquidity pool](https://marinade.finance/app/mnde) or [Solend](https://solend.fi) (not sure how useful that is) or some other way. If I need liquidity, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out. That is if I don't use FTX staking itself (it has issue of waiting for longer time to get funds back from unstaking).
+For me the value of SOL token is Solana blockchain itself. The fact that I can transact fast and cheap. And run some programs that in theory can't be stopped or blocked as easily. I am still exploring what useful things can come out from this aside from ['doing crime online'](https://twitter.com/gbrl_dick/status/1590248219250167813).
 
-Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solana/comments/r2e6pj/hello_this_is_my_first_post_here_as_i_recently/hm4ebiy/), [Render Network](https://rendertoken.com/) is interesting too. [Raydium](https://beta.raydium.io/) looks like a great DeFi platform. [NFToken](https://nftoken.so/) is [nice for minting NFTs](https://twitter.com/VictorPontis/status/1538982084080979969).
+I also wish I could transact SOL coins without any trace similar to [Monero](../../cryptocurrencies/monero.md) (dislike it using [POW](https://en.wikipedia.org/wiki/Proof_of_work)) or [Tornado Cash](https://en.wikipedia.org/wiki/Tornado_Cash).
 
-I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md) including SOL as I am still trying to understand how truly useful this technology is. Thus far I see a clear use case for [Monero](../../cryptocurrencies/monero.md) to buy things safely that [government does not allow for whatever archaic reasons](../../drugs/psychedelics/psychedelics.md). I think this space moves very fast though so maybe something truly groundbreaking comes along. Perhaps it's [micro transactions](https://news.ycombinator.com/item?id=31386483) (currently not possible due to Mastercard/Visa monopoly on online transactions and their 3% fees).
+I use SOL from [Glow Wallet](https://glow.app/) as it has best integrations including nice Safari plugin and iOS app. Converting SOL to FIAT is seamless too which is great unless you are staking, in which case you'd have to [wait a little](https://www.reddit.com/r/solana/comments/p1p1h1/comment/h8eukyd/).
+
+[NFToken](https://nftoken.so/) is [nice for minting NFTs](https://twitter.com/VictorPontis/status/1538982084080979969). For all the criticism that NFTs got, I think it can have some merit, if only as a way of supporting creators in more interesting ways.
+
+Out of all [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md) I know of, to me Solana and [Monero](../../cryptocurrencies/monero.md) hold most usefulness. Each currency being used for a purpose and never as some investment vehicle.
+
+I also think solving [micro transactions](https://news.ycombinator.com/item?id=31386483) (currently not possible due to Mastercard/Visa monopoly on online transactions and their 3% fees) has a nice future as far as cryptocurrencies go.
 
 ## Apps
 
@@ -33,6 +39,7 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Arweave is just another historical copy. Consensus doesn't care about any history that is older than the epoch, so there is no liveness dependency on AR.](https://twitter.com/aeyakovenko/status/1466535989963223041)
 - [solana-py does websockets](https://twitter.com/dj_d_sol/status/1466417431409213450)
 - You need to keep 0.02 SOL minimum to make a transaction. Best to keep ~ 0.1 SOL on the wallet.
+- Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solana/comments/r2e6pj/hello_this_is_my_first_post_here_as_i_recently/hm4ebiy/), [Render Network](https://rendertoken.com/) is interesting. [Raydium](https://beta.raydium.io/) looks like a great DeFi platform.
 
 ## Links
 
@@ -133,6 +140,7 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [What do you do with your stables on Solana? (2021)](https://twitter.com/Melt_Dem/status/1453127401848774658)
 - [Solana dev tips (2021)](https://twitter.com/exploresolands/status/1453155153343696896)
 - [Solend](https://solend.fi/) - Lend and borrow on Solana. ([GitHub](https://github.com/solendprotocol)) ([Explained](https://www.youtube.com/watch?v=qiOUgh7b8ng)) ([TS SDK](https://github.com/solendprotocol/solend-sdk))
+- [mSOL liquidity pool](https://marinade.finance/app/mnde)
 - [Squads](https://sqds.io/) - One app for all your DAO needs. ([Twitter](https://twitter.com/squads_dapp))
 - [Program deploys in Solana](https://jstarry.notion.site/Program-deploys-29780c48794c47308d5f138074dd9838)
 - [Solana Staking (2021)](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/)
@@ -296,3 +304,5 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Multisig](https://github.com/coral-xyz/multisig) - Example of a multisig to execute arbitrary Solana transactions.
 - [Solana Security Audits](https://github.com/solana-labs/security-audits)
 - [Porting the Solana eBPF JIT compiler to ARM64 (2022)](https://blog.trailofbits.com/2022/10/12/solana-jit-compiler-ebpf-arm64/) ([Code](https://github.com/solana-labs/rbpf))
+- [Phantom](https://phantom.app/) - Friendly Solana wallet built for DeFi & NFTs.
+- [Staking SOL with Marinade and unstaking slowly](https://www.reddit.com/r/solana/comments/p1p1h1/comment/h8eukyd/)

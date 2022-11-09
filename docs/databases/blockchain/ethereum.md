@@ -4,7 +4,7 @@ title: Ethereum
 
 # [Ethereum](https://www.ethereum.org)
 
-Ethereum is a virtual machine built using a blockchain (spread around many clients) that lets you create and run smart contracts (arbitrary code) that then run in perpetuity.
+Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread around many clients) that lets you create and run smart contracts (arbitrary code) that then run in perpetuity.
 
 [Solidity](https://soliditylang.org) is nice prototype language. You can also use [Solang](https://solang.readthedocs.io/en/latest/) to compile Solidity code for [Solana](solana.md) chain.
 

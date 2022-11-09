@@ -99,3 +99,4 @@ Is logical theory of computable functions.
 - [A simple and efficient implementation of strong call by need by an abstract machine (2022)](https://dl.acm.org/doi/10.1145/3549822) ([Code](https://gist.github.com/AndrasKovacs/0e1bc2532e071cef5974ca582f8090ad))
 - [Encodings for numbers in lambda calculus (2022)](https://xtao.org/blog/lambda-numbers.html)
 - [RankNTypes via Lambda Calculus (2021)](https://www.parsonsmatt.org/2021/11/30/rank_n_types_via_lambda_calculus.html)
+- [Binary Lambda Calculus](https://tromp.github.io/cl/Binary_lambda_calculus.html)

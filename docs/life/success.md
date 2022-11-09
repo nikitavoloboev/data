@@ -152,3 +152,4 @@ Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523
 - [That Mountain You’ve Been Climbing Doesn’t Exist (2022)](https://www.schlaf.co/mountain/) ([Tweet](https://twitter.com/schlaf/status/1514940437123022850))
 - [Feeling like a victim is a perfectly disastrous way to go through life](https://newsletter.butwhatfor.com/p/takeaway-tuesday-facing-adversity-charlie-munger) ([HN](https://news.ycombinator.com/item?id=31539571))
 - [Optimism Shapes Reality (2022)](https://alexw.substack.com/p/optimism-shapes-reality?s=r) ([Tweet](https://twitter.com/alexandr_wang/status/1531307982473994240))
+- [Hitting the High Notes (2005)](https://www.joelonsoftware.com/2005/07/25/hitting-the-high-notes/)
