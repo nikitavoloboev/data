@@ -236,3 +236,4 @@
 - [footloose](https://github.com/weaveworks/footloose) - Creates containers that look like virtual machines.
 - [Shimmy](https://github.com/iximiuz/shimmy) - Simplistic shim between container manager and container runtime.
 - [Let’s build a container runtime using only the chroot system call (2022)](https://earthly.dev/blog/chroot/) ([Lobsters](https://lobste.rs/s/zntiwp/containers_are_chroot_with_marketing)) ([HN](https://news.ycombinator.com/item?id=33526668))
+- [CDI (Container Device Interface)](https://github.com/container-orchestrated-devices/container-device-interface) - Specification, for container runtimes, to support third party devices.

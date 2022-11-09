@@ -197,6 +197,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers.
 - [Noice](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - Fast and asynchronous auto-completion plugin for Neovim, focused on LSP.
+- [inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim) - Neovim support for LSP Inlay Hints.
 
 ## Looks
 

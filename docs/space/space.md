@@ -2,6 +2,8 @@
 
 [SEA](https://www.youtube.com/c/SEAmedia/videos) does lots of fascinating videos on space. [The End of Everything Book](https://www.astrokatie.com/book) is great.
 
+[Orbital Index](https://orbitalindex.com/) is nice way to stay up to date on all things space.
+
 ## Notes
 
 - [Two points of space are considered the same point when the distance between them is zero.](https://www.reddit.com/r/askscience/comments/5sdyes/by_guessing_the_rate_of_the_expansion_of_the/ddedjcw/)

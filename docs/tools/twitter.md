@@ -8,6 +8,8 @@ title: Twitter
 
 I also find it [frustrating that Twitter iOS client doesn't have the ability to long press `like` icon to bookmark](https://twitter.com/nikitavoloboev/status/1590403314264334338).
 
+[Mastodon](../social-networks/mastodon.md) is pretty nice too.
+
 ## Interesting hash tags
 
 - [#WomensArt](https://twitter.com/hashtag/WomensArt)

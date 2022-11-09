@@ -471,3 +471,4 @@ title: PyTorch
 - [Auto-Tuning Hyperparameters with Optuna and PyTorch (2020)](https://www.youtube.com/watch?v=P6NwZVl8ttc)
 - [PyTorch Symbolic](https://github.com/gahaalt/pytorch-symbolic) - Provides symbolic API for model creation in PyTorch.
 - [PyTorch 3D U-Net Convolution Neural Network (CNN) designed for medical image segmentation](https://github.com/ellisdg/3DUnetCNN)
+- [torchnnprofiler](https://github.com/kshitij12345/torchnnprofiler) - Context Manager to profile the forward and backward times of PyTorch's nn.Module.
