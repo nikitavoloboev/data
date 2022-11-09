@@ -420,3 +420,4 @@ title: ML Libraries
 - [EPyMARL](https://github.com/uoe-agents/epymarl) - Extended Python MARL framework.
 - [Zero](https://github.com/mangaki/zero) - Mangaki's recommendation algorithms.
 - [LassoNet](https://github.com/lasso-net/lassonet) - Feature selection in neural networks.
+- [AutoOED](https://github.com/yunshengtian/AutoOED) - Automated Optimal Experimental Design Platform.

@@ -2300,6 +2300,7 @@
 - [sitemap](https://github.com/svmk/rust-sitemap) - Sitemap library for Rust.
 - [dot_graph](https://github.com/SelamaAshalanore/dot_graph) - Library for generating Graphviz DOT language files.
 - [Route Pattern](https://github.com/jondot/route-pattern) - Parser and matcher for route patterns in Rust.
+- [uchan](https://github.com/kprotty/uchan) - Small, scalable, unbounded, mpsc channel.
 
 ## Cargo Plugins
 

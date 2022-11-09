@@ -25,3 +25,4 @@
 - ["О поэтах и поэзии" - Дмитрий Быков (2022)](https://www.labirint.ru/books/831923/)
 - [Favorite poet of the 20th century?](https://www.reddit.com/r/AskARussian/comments/rzx9qy/favorite_poet_of_the_20th_century/)
 - [Robots are writing poetry, and many people can’t tell the difference (2022)](https://thewalrus.ca/ai-poetry/) ([HN](https://news.ycombinator.com/item?id=31298899))
+- [Versepad](https://versepad.com/) - Text editor for poets.

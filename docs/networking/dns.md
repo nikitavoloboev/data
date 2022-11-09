@@ -253,3 +253,4 @@ title: DNS
 - [DNS privacy with speed? Evaluating DNS over QUIC and its impact on web performance (2022)](https://dl.acm.org/doi/10.1145/3517745.3561445)
 - [DNS Response Size (2022)](https://www.netmeister.org/blog/dns-size.html)
 - [Making a DNS query in Ruby from scratch (2022)](https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/) ([HN](https://news.ycombinator.com/item?id=33494386))
+- [Stop using low DNS TTLs (2019)](https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/) ([HN](https://news.ycombinator.com/item?id=33527642))

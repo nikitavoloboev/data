@@ -147,3 +147,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [SolidJS tRPC](https://github.com/OrJDev/solid-trpc) - tRPC Adapter For SolidJS Using Tanstack Solid Query.
 - [Solid Future Architecture: Hybrid Routing + Minimal Hydration](https://github.com/solidjs/solid-start/issues/400)
 - [Client-side Routing without the JavaScript (2022)](https://dev.to/this-is-learning/client-side-routing-without-the-javascript-3k1i)
+- [Solid-Stripe](https://github.com/wobsoriano/solid-stripe)

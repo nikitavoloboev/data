@@ -127,3 +127,4 @@
 - [Pretending to suicide guy](https://www.youtube.com/shorts/LHZIc3B4kfE)
 - [Videos that never ceases to make you laugh](https://twitter.com/callmehuie/status/1558986395481407494)
 - [Cunk on Britain - YouTube](https://www.youtube.com/playlist?list=PLCcT_pWlhyK3EVCA62_YZUFnYvIkxUwVq)
+- [Когда твой друг работает в айти и пытается тебя зарекомендовать](https://twitter.com/nyuukke/status/1589745963463102464)

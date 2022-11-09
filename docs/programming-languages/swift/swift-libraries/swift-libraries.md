@@ -1304,6 +1304,7 @@
 - [PListKit](https://github.com/orchetect/PListKit) - Multiplatform Swift library bringing functional methods and type safety to .plist (Property List) files.
 - [SwiftRadix](https://github.com/orchetect/SwiftRadix) - Easily convert integers to binary/hex/octal strings and back again with clean functional syntax.
 - [EasyBackgroundRefresh](https://github.com/yonat/EasyBackgroundRefresh) - Easy background refresh registration, scheduling, execution, and completion. BGTaskScheduler for the lazy.
+- [ReflectionMirror](https://github.com/philipturner/swift-reflection-mirror)
 
 ## Other (not lib)
 
