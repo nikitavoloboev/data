@@ -19,6 +19,10 @@ title: Tauri
 - [Taurine](https://github.com/Perfect7M/taurine) - Tauri + Node.js stater.
 - [Mediarepo](https://github.com/Trivernis/mediarepo) - Tool for managing media files.
 
+## Notes
+
+- [You can make use of Go or any other language by making HTTP server in them. Then deploying the Tauri app with local server running. Latency into calling HTTP server is negligible. Even faster than built-in ipc.](https://discord.com/channels/616186924390023171/731495028677148753/1040040229626716230)
+
 ## Links
 
 - [Create a Simple Desktop App Using Vite, React, and Tauri.js (2022)](https://www.agallio.xyz/post/simple-desktop-app-tauri/) ([Code](https://github.com/agallio/simple-desktop-app-tauri))

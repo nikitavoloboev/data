@@ -71,6 +71,7 @@
 - [httparse](https://github.com/adriangb/httparse) - Python wrapper for Rust's httparse HTTP parser.
 - [aiosignal](https://github.com/aio-libs/aiosignal) - List of registered asynchronous callbacks.
 - [HTTPretty](https://github.com/gabrielfalcao/HTTPretty) - Intercept HTTP requests at the Python socket level. Fakes the whole socket module.
+- [nTorque](https://github.com/thruflo/ntorque) - Web hook task queue.
 
 ## ML
 
