@@ -6,8 +6,6 @@ title: Twitter
 
 [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) is great. I like using [official Twitter TS SDK](https://github.com/twitterdev/twitter-api-typescript-sdk) for working with Twitter.
 
-One thing I worry a bit about is how social networks can start [start collaborating with oppressive governments in the name of 'free speech'](https://twitter.com/zei_squirrel/status/1523735617732980736).
-
 I also find it [frustrating that Twitter iOS client doesn't have the ability to long press `like` icon to bookmark](https://twitter.com/nikitavoloboev/status/1590403314264334338).
 
 ## Interesting hash tags

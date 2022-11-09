@@ -84,3 +84,4 @@ title: Mastodon
 - [Mastodon Is Just Blogs (2022)](https://simonwillison.net/2022/Nov/8/mastodon-is-just-blogs/) ([HN](https://news.ycombinator.com/item?id=33520382))
 - [Mastodon – Simplified Federation](https://github.com/rugk/mastodon-simplified-federation) - Simplifies following and interacting with remote users on other Mastodon instances.
 - [Mastodon on your own domain without hosting a server (2022)](https://blog.maartenballiauw.be/post/2022/11/05/mastodon-own-donain-without-hosting-server.html)
+- [Masto.host](https://masto.host/) - Fully Managed Mastodon Hosting.

@@ -6,6 +6,8 @@ title: ActivityPub
 
 [Mastodon](../social-networks/mastodon.md) & [GoToSocial](https://github.com/superseriousbusiness/gotosocial) are neat.
 
+[This guide](https://tinysubversions.com/notes/reading-activitypub/) is nice intro.
+
 ## Links
 
 - [A highly opinionated guide to learning about ActivityPub (2019)](https://tinysubversions.com/notes/reading-activitypub/)
@@ -49,3 +51,4 @@ title: ActivityPub
 - [The many branches of the Fediverse (2022)](https://axbom.com/fediverse/)
 - [The Fediverse, and Custom Domains](https://aeracode.org/2022/11/01/fediverse-custom-domains/) ([HN](https://news.ycombinator.com/item?id=33503511))
 - [ActivityPub Spec](https://www.w3.org/TR/activitypub/) ([HN](https://news.ycombinator.com/item?id=33513421))
+- [Highly opinionated guide to learning about ActivityPub (2019)](https://tinysubversions.com/notes/reading-activitypub/)
