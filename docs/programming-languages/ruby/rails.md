@@ -184,3 +184,5 @@ title: Rails
 - [ViewComponent in the Wild: building modern Rails front ends (2022)](https://evilmartians.com/chronicles/viewcomponent-in-the-wild-building-modern-rails-frontends)
 - [RouteTranslator](https://github.com/enriclluelles/route_translator) - Gem to allow you to manage the translations of your app routes with a simple dictionary format.
 - [Crunchy Bridge's Ruby Back End: Sorbet, Tapioca, and Parlour (2022)](https://www.crunchydata.com/blog/crunchy-bridges-ruby-backend-sorbet-tapioca-and-parlour-generated-type-stubs) ([HN](https://news.ycombinator.com/item?id=33440005))
+- [Vanilla Rails is plenty (2022)](https://dev.37signals.com/vanilla-rails-is-plenty)
+- [How Effective are Classic Lookup Optimizations for Rails Apps? (2022)](https://stefan-marr.de/2022/11/how-effective-are-classic-lookup-optimizations-for-rails-apps/)

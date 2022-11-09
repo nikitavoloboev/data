@@ -183,3 +183,4 @@
 - [AMD Hypervisor written written in Rust](https://github.com/not-matthias/amd_hypervisor)
 - [Description of Apple's LEAP ISA](https://github.com/povik/leap-isa)
 - [Reverse Branch Target Buffer Poisoning (2022)](https://cos.ufrj.br/uploadfile/publicacao/3061.pdf)
+- [Why is Rosetta 2 fast? (2022)](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/) ([HN](https://news.ycombinator.com/item?id=33533132))

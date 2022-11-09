@@ -398,3 +398,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [AMD Hypervisor with Rust - Matthias Heiden (2022)](https://www.youtube.com/watch?v=7igpsgCZJY4)
 - [Booting an Embedded OS: the Booting and U-Boot Phase (2022)](https://serhack.me/articles/os-embedded-booting-phase-uboot/)
 - [KraftKit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
+- [Programmer's Guide | C64 OS](https://c64os.com/c64os/programmersguide/introduction)

@@ -75,3 +75,4 @@
 - [Systematically Improving Espresso (2020)](<https://www.cell.com/matter/pdf/S2590-2385(19)30410-2.pdf>) ([HN](https://news.ycombinator.com/item?id=32992128))
 - [Coffee & Muslim culture](https://twitter.com/BaytAlFann/status/1576145854515146753)
 - [The Science of Coffee — Examining extraction](https://tylercipriani.com/coffee-extract/)
+- [James Hoffmann Answers Coffee Questions From Twitter (2022)](https://www.youtube.com/watch?v=pjJqOgFyCxI)

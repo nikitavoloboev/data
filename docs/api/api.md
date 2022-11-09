@@ -431,3 +431,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [How we built the Tinder API Gateway (2022)](https://medium.com/tinder/how-we-built-the-tinder-api-gateway-831c6ca5ceca)
 - [Step CI](https://github.com/stepci/stepci) - Automated API Testing and Monitoring.
 - [API Hero](https://github.com/apihero-run/apihero) - Make every API you use faster and more reliable with one line of code.
+- [Metlo](https://github.com/metlo-labs/metlo) - Open-source API security platform. ([Web](https://www.metlo.com/)) ([HN](https://news.ycombinator.com/item?id=33534856))

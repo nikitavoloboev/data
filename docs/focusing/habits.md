@@ -1,6 +1,6 @@
 # Habits
 
-I use [Streaks](https://streaksapp.com) iOS app to ensure I complete my 6 daily habits I try to follow to live a [happy life](../life/happiness.md). The habits are chosen with great care and are a subset of my life [rules](rules.md) .
+I use [Streaks](https://streaksapp.com) iOS app to ensure I complete my 6 daily habits I try to follow to live a [happy life](../life/happiness.md). The habits are chosen with great care and are a subset of my life [rules](rules.md).
 
 ![](https://i.imgur.com/yEVoYit.png)
 

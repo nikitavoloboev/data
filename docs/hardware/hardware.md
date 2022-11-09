@@ -368,3 +368,4 @@
 - [Wii U Architecture | A Practical Analysis (2022)](https://www.copetti.org/writings/consoles/wiiu/)
 - [Flux](https://www.flux.ai/p) - Better way to make electronic hardware. ([Twitter](https://twitter.com/BuildWithFlux))
 - [The case for mapping PCIe BARs as device memory on arm64 (2022)](https://threedots.ovh/blog/2022/11/the-case-for-mapping-pcie-bars-as-device-memory-on-arm64/)
+- [Dissecting Reolink RLC-810A Hardware: A Detailed View (2022)](https://serhack.me/articles/dissecting-reolink-rlc810a-hardware-detailed-view/)

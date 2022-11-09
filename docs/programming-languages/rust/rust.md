@@ -937,3 +937,4 @@ title: Rust
 - [Explain the GATs like I was 5 (2022)](https://www.reddit.com/r/rust/comments/ynvm8a/could_someone_explain_the_gats_like_i_was_5/) ([HN](https://news.ycombinator.com/item?id=33504650))
 - [promote-release](https://github.com/rust-lang/promote-release) - Tool used by the Rust project to publish new releases of the Rust toolchain.
 - [Creating a priority queue with a custom sort order using a binary heap in Rust (2022)](https://dev.to/timclicks/creating-a-priority-queue-with-a-custom-sort-order-using-a-binary-heap-in-rust-3oab)
+- [Guide to Error Handling in Rust](https://nrc.github.io/error-docs/) ([HN](https://news.ycombinator.com/item?id=33529147))

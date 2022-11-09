@@ -51,6 +51,7 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 - [It’s difficult for me to see a future where poorly regulated technology with built-in perverse financial incentives will magically result in fairer, more accessible systems.](https://twitter.com/Carnage4Life/status/1524512164240797696)
 - [Focus on: Public goods funding. Social recovery / multisig wallets. Reputation systems (could help a lot to fight scams!). PoS (solves energy issues). Scaling (reduces fees, makes non-financial apps viable).](https://twitter.com/VitalikButerin/status/1532369277000437761)
 - [If your project is using token incentives, you should probably try removing them and see what happens. If your response is "but we're worried users wouldn't stick around"... then you should DEFINITELY try removing them.](https://twitter.com/danrobinson/status/1577448127514103809)
+- [NFTs & airdrops are a distraction from the true, holy purpose of crypto — the ability to Do Crime online. If you're not evading authoritarian surveillance, dipping sanctions, avoiding property seizure etc, just trade stocks.](https://twitter.com/gbrl_dick/status/1590248219250167813)
 
 ## Links
 

@@ -72,3 +72,5 @@ title: Observability
 - [Dave Lucia on Observability at Bitfo (2022)](https://share.fireside.fm/episode/IAs5ixts+87YV43bE)
 - [Elixir Observability: OpenTelemetry, Lightstep, Honeycomb (2022)](https://davelucia.com/blog/observing-elixir-with-lightstep)
 - [Glean SDK Docs](https://mozilla.github.io/glean/book/index.html) - Modern cross-platform telemetry client libraries. ([Glean Dictionary](https://github.com/mozilla/glean-dictionary))
+- [Cito](https://www.citodata.com/) - Snowflake Observability Software.
+- [A beginner’s guide to OpenTelemetry (2022)](https://faun.pub/opentelemetry-d71d369c83d7)

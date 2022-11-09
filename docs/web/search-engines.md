@@ -278,4 +278,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [Summa](https://github.com/izihawa/summa) - Full-text search server written in Rust with Python and GRPC API.
 - [CrowdView](https://crew-rho.vercel.app/) - Discussions Search Engine (stop adding “Reddit” on Google). ([HN](https://news.ycombinator.com/item?id=33438991))
 - [Feep! search](https://search.feep.dev/) - Web search engine for programmers. ([HN](https://news.ycombinator.com/item?id=33494221))
-- [How to build a Semantic Search Engine in Rust (2022)](https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9)
+- [How to build a Semantic Search Engine in Rust (2022)](https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9) ([HN](https://news.ycombinator.com/item?id=33532158))

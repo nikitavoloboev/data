@@ -2,7 +2,7 @@
 
 [Exercism Elixir exercises](https://github.com/exercism/elixir) & [DockYard's guide](https://github.com/DockYard-Academy/beta_curriculum) are nice intros.
 
-[Gleam](../gleam.md) is nice typed Elixir.  
+[Gleam](../gleam.md) is nice typed Elixir.
 
 ## Links
 
@@ -185,3 +185,4 @@
 - [RustlerElixirFun](https://github.com/Qqwy/elixir-rustler_elixir_fun) - Calling Elixir or Erlang functions from native code written in Rust.
 - [Parser Combinators in Elixir: Taming Semi-Structured Text (2022)](https://blog.appsignal.com/2022/10/18/parser-combinators-in-elixir-taming-semi-structured-text.html)
 - [Composable Collectable in Elixir (2021)](https://akash-akya.github.io/post/composable-collectable/)
+- [An Animated Introduction to Elixir](https://markm208.github.io/exbook/) ([HN](https://news.ycombinator.com/item?id=33503306))

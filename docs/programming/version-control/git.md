@@ -594,3 +594,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [auto-commit](https://github.com/m1guelpf/auto-commit) - CLI tool that automatically writes commit messages for you. ([Tweet](https://twitter.com/m1guelpf/status/1587127315317723136))
 - [GitStoryKit](https://github.com/swve/gitstorykit) - Rich git projects history discovery apps with ease, used by GitStory.
 - [GitStory](https://gitstory.app/) - Internet's Git Time machine. ([Code](https://github.com/swve/gitstory))
+- [Idiot Proof Git (2022)](https://softwaredoug.com/blog/2022/11/09/idiot-proof-git-aliases.html) ([HN](https://news.ycombinator.com/item?id=33532062))

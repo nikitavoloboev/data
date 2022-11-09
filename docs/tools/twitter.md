@@ -8,7 +8,7 @@ title: Twitter
 
 One thing I worry a bit about is how social networks can start [start collaborating with oppressive governments in the name of 'free speech'](https://twitter.com/zei_squirrel/status/1523735617732980736).
 
-I also find it frustrating that Twitter iOS client doesn't have the ability to long press `like` icon to bookmark.
+I also find it [frustrating that Twitter iOS client doesn't have the ability to long press `like` icon to bookmark](https://twitter.com/nikitavoloboev/status/1590403314264334338).
 
 ## Interesting hash tags
 
@@ -242,3 +242,4 @@ I also find it frustrating that Twitter iOS client doesn't have the ability to l
 - [Twitter Open Source](https://opensource.twitter.dev/) - Identifying projects we've released, organizations we support, and the work we do to support open source. ([Code](https://github.com/twitter/opensource-website))
 - [TwitterOSS Metrics](https://github.com/twitter/metrics) - Generates periodic reports based on the health of Twitter Open Source projects.
 - [All verified users on Twitter as of Nov 1st, 2022](https://github.com/IntiDC/twitter-verified)
+- [Elon asking for what Twitter users find annoying on Twitter now (2022)](https://twitter.com/elonmusk/status/1590383937284870145)

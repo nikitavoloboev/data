@@ -25,3 +25,5 @@
 - [The Zen of Weight Lifting](https://www.nytimes.com/2019/11/22/well/move/the-zen-of-weight-lifting.html) ([HN](https://news.ycombinator.com/item?id=29065846))
 - [Arena](https://goarena.co/) - Train Smarter, Anywhere.
 - [How To Train Like A Minimalist (More Gains In Less Time)](https://www.youtube.com/watch?v=xc4OtzAnVMI)
+- [Leon Thorley - YouTube](https://www.youtube.com/c/CALIGLOBE/videos)
+- [Paul Twyman - YouTube](https://www.youtube.com/c/PaulTwyman/videos)

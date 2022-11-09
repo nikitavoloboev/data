@@ -10,6 +10,8 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 
 [Ditto](https://www.ditto.live/), [Replicache](https://replicache.dev/) & [Tuple Database](https://github.com/ccorcos/tuple-database) are fascinating tools for for [syncing local state for fast network bound operations](https://twitter.com/maccaw/status/1528848433968209923) using [CRDTs](../distributed-systems/crdt.md) and other tools. [PlanetScale](planetscale.md) seems awesome too.
 
+Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek features](https://news.ycombinator.com/item?id=33518320).
+
 ## Interesting
 
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming SQL Database powered by Timely Dataflow. ([Web](https://materialize.io/))

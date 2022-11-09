@@ -297,3 +297,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [The Social Recession: By the Numbers (2022)](https://novum.substack.com/p/social-recession-by-the-numbers)
 - [Про расставания](https://www.instagram.com/tv/CkjAEM5Kk0m/)
 - [Men of Reddit, what do you dislike about today's dating culture?](https://www.reddit.com/r/AskMen/comments/yndzqu/men_of_reddit_what_do_you_dislike_about_todays/)
+- [Books, preferably written my women, that teach men how to be better lovers (2022)](https://www.reddit.com/r/suggestmeabook/comments/ypowj9/books_preferably_written_my_women_that_teach_men/)

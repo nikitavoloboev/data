@@ -893,3 +893,4 @@ if *boolArgPtr != false {
 - [Thoughts on the "Guard" Proposal for Go's Error Handling (2022)](https://wagslane.dev/posts/guard-keyword-error-handling-golang/) ([Reddit](https://www.reddit.com/r/golang/comments/yn3p1u/thoughts_on_the_guard_proposal_for_gos_error/))
 - [Go Concurrency Patterns: Pipelines and cancellation (2014)](https://go.dev/blog/pipelines)
 - [How I write offline API tests in Go (2022)](https://www.youtube.com/watch?v=DjNERjqzILQ)
+- [A GC-Friendly Go Interning Cache (2022)](https://words.filippo.io/dispatches/certificate-interning/)

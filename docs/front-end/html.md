@@ -297,3 +297,4 @@ Hi<div>oh no break</div>
 - [Satori HTML](https://github.com/natemoo-re/satori-html) - HTML adapter for Vercel's Satori.
 - [og-img](https://github.com/sozonome/og-img) - Edge service to generate embeddable dynamic OpenGraph image.
 - [HTML Fragments Demo](https://github.com/dgp1130/html-fragments-demo) - Demo for using HTML document fragments as a transfer format between client and server.
+- [Browsers, JSON, and FormData (2022)](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)

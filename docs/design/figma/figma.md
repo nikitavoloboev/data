@@ -113,3 +113,4 @@ title: Figma
 - [Design system Figma doc](https://twitter.com/dwr/status/1584244428289417218)
 - [Figma: Making multiplayer more reliable (2022)](https://www.figma.com/blog/making-multiplayer-more-reliable/)
 - [Nice Figma thumbnails](https://twitter.com/Davallree/status/1587150962015186944)
+- [Auto Layout Tutorial in Figma (2022)](https://www.youtube.com/watch?v=OAHOqtWwek0)

@@ -149,3 +149,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Movies that are interesting as well as difficult to understand (2022)](https://www.reddit.com/r/MovieSuggestions/comments/yhc07l/movies_that_are_interesting_as_well_as_difficult/)
 - [Ask HN: HN-like forum for literature and cinema? (2022)](https://news.ycombinator.com/item?id=33468314)
 - [Give me a tiny detail in a film that you absolutely love, that you're pretty sure no one else notices](https://twitter.com/juliacmarchese/status/1588210453137629184)
+- [What is the best film from 2022 (So far) in your opinion?](https://www.reddit.com/r/Letterboxd/comments/ypzb4g/what_is_the_best_film_from_2022_so_far_in_your/)
