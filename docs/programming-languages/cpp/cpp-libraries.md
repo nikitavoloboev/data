@@ -88,6 +88,7 @@
 - [rocksdb](https://github.com/Level/rocksdb) - Pure C++ Node.js RocksDB binding. An abstract-leveldown compliant store.
 - [KVDK](https://github.com/pmem/kvdk) - Key-value store library implemented in C++ language.
 - [silicondb](https://github.com/solidstatedb/silicondb) - Concurrent key-value store, column-oriented database and more.
+- [Speedb](https://github.com/speedb-io/speedb) - Library that provides an embedded, persistent key-value store.
 
 ## Crypto
 

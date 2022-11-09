@@ -710,3 +710,4 @@ Ethereum is a virtual machine built using a blockchain (spread around many clien
 - [DAI Teleport](https://github.com/makerdao/dss-teleport) - Facility allows users to fast teleport DAI between "domains", i.e. different chains that have a settlement mechanism with Ethereum L1.
 - [Super Liquidator](https://github.com/jtriley-eth/super-liquidator)
 - [Helios](https://github.com/a16z/helios) - Fast, secure, and portable light client for Ethereum.
+- [Amarna](https://github.com/crytic/amarna) - Static-analyzer and linter for the Cairo programming language.

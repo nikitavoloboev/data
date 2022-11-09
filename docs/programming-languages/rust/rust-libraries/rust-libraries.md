@@ -2,6 +2,8 @@
 
 [axum](https://github.com/tokio-rs/axum) seems nice as a web framework ([neat template](https://github.com/joelparkerhenderson/demo-rust-axum)). [Idiomatic Rust](https://github.com/mre/idiomatic-rust) is a nice collection. Looking to try [Crane](https://ipetkov.dev/blog/introducing-crane/) for building/caching rust compiles.
 
+[shuttle](https://github.com/awslabs/shuttle) is nice for testing concurrent code.
+
 ## CLI
 
 - [argi](https://github.com/Owez/argi) - Argument parsing for the future.
@@ -2301,6 +2303,7 @@
 - [dot_graph](https://github.com/SelamaAshalanore/dot_graph) - Library for generating Graphviz DOT language files.
 - [Route Pattern](https://github.com/jondot/route-pattern) - Parser and matcher for route patterns in Rust.
 - [uchan](https://github.com/kprotty/uchan) - Small, scalable, unbounded, mpsc channel.
+- [env_logger](https://github.com/rust-cli/env_logger) - Logger that can be configured via environment variables.
 
 ## Cargo Plugins
 

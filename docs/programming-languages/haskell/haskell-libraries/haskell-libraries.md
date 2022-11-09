@@ -384,6 +384,7 @@
 - [pqueue](https://github.com/lspitzner/pqueue) - Haskell priority queue package.
 - [Benign](https://github.com/aspiwack/haskell-benign) - Library for benign effects in Haskell.
 - [exceptions](https://github.com/ekmett/exceptions) - Extensible exceptions that are compatible with the monad transformer library.
+- [resource-pool](https://github.com/scrive/pool) - High-performance striped resource pooling implementation for Haskell.
 
 ## Notes
 

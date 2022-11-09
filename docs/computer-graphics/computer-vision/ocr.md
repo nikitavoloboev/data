@@ -44,3 +44,4 @@ title: Optical character recognition
 - [Building an OCR solution for document analysis with AWS Textract and AWS StepFunctions](https://github.com/gabrieltorreswm/poc-pdf-textract)
 - [Donut](https://github.com/clovaai/donut) - Document Understanding Transformer.
 - [ocrpy](https://github.com/maxent-ai/ocrpy) - OCR, Archive, Index and Search: Implementation agnostic OCR framework.
+- [Tesseract server (OCR over HTTP)](https://github.com/hertzg/tesseract-server) - Small lightweight HTTP server that converts photos, images and scanned documents to text using optical character recognition by utilizing the power of Google Tesseract.

@@ -219,3 +219,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [How to Build Software Like an SRE (2022)](https://www.willett.io/posts/precepts/) ([HN](https://news.ycombinator.com/item?id=33230402)) ([Lobsters](https://lobste.rs/s/gpzy80/how_build_software_like_sre))
 - [DevOps has devolved (2022)](https://blog.massdriver.cloud/devops-is-bullshit) ([HN](https://news.ycombinator.com/item?id=33274988))
 - [Gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
+- [Damon](https://github.com/hashicorp/damon) - Terminal Dashboard for HashiCorp Nomad.

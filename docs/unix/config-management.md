@@ -77,3 +77,4 @@
 - [Configs should be typed](https://twitter.com/satnam6502/status/1586398234326446080)
 - [rset](https://scriptedconfiguration.org/) - Configure systems using any scripting language.
 - [Pets](https://github.com/ema/pets) - Configuration management system for Pets, not Cattle. ([Lobsters](https://lobste.rs/s/jc2oru/configuration_management_system_for)) ([HN](https://news.ycombinator.com/item?id=33414338))
+- [CUE For Network Configurations](https://github.com/networkop/cue-networking)

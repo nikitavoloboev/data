@@ -13,6 +13,7 @@
 - [rescript-chakra](https://github.com/ri7nz/rescript-chakra) - ReScript bindings for Chakra-UI.
 - [Routes](https://github.com/anuragsoni/routes) - Typed bidirectional router for OCaml/ReasonML web applications.
 - [ReForm](https://github.com/rescriptbr/reform) - Reasonably making forms sound good.
+- [Rescript-TEA](https://github.com/darklang/rescript-tea) - Elm Architecture for Rescript. ([Article](https://blog.darklang.com/rescript-tea/))
 
 ## Test
 

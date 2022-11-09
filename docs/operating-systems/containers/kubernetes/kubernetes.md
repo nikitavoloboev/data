@@ -851,3 +851,4 @@ title: Kubernetes
 - [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) - Retrieve secrets from Secret Management tools and inject them into Kubernetes secrets.
 - [Apply Kubernetes Manifests in Backstage](https://github.com/muvaf/kubernetes-apply)
 - [Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo (2022)](https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale)
+- [NooBaa Operator](https://github.com/noobaa/noobaa-operator) - Object data service for hybrid and multi cloud environments.
