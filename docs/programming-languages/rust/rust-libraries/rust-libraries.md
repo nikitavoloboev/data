@@ -233,6 +233,7 @@
 - [wasm_thread](https://github.com/chemicstry/wasm_thread) - Rust `std::thread` replacement for wasm32 target.
 - [idb](https://github.com/devashishdxt/idb) - Futures based crate for interacting with IndexedDB on browsers using WebAssembly.
 - [WasmEdge WASI Socket](https://github.com/second-state/wasmedge_wasi_socket) - Rust SDK for network socket functions available in the WasmEdge Runtime.
+- [prokio](https://github.com/yewstack/prokio) - Asynchronous runtime compatible with WebAssembly and non-WebAssembly targets.
 
 ## GUI
 
@@ -2306,6 +2307,7 @@
 - [uchan](https://github.com/kprotty/uchan) - Small, scalable, unbounded, mpsc channel.
 - [env_logger](https://github.com/rust-cli/env_logger) - Logger that can be configured via environment variables.
 - [hex](https://github.com/KokaKiwi/rust-hex) - Encoding and decoding data into/from hexadecimal representation.
+- [unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation) - Iterators which split strings on Grapheme Cluster or Word boundaries.
 
 ## Cargo Plugins
 

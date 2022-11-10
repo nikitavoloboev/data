@@ -1307,6 +1307,8 @@
 - [EasyBackgroundRefresh](https://github.com/yonat/EasyBackgroundRefresh) - Easy background refresh registration, scheduling, execution, and completion. BGTaskScheduler for the lazy.
 - [ReflectionMirror](https://github.com/philipturner/swift-reflection-mirror)
 - [SerializedSwift](https://github.com/dejanskledar/SerializedSwift) - Significant enhancement to the current Codable protocol for better and easier Serializing and Deserializing of JSON.
+- [TaskQueue](https://github.com/icanzilb/TaskQueue) - Task Queue Class developed in Swift.
+- [ASN1Parser](https://github.com/DominikHorn/ASN1Parser) - Minimalistic Swift parser for ASN.1 data. Currently supports DER and therefore also BER binary format.
 
 ## Other (not lib)
 

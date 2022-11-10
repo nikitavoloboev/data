@@ -214,3 +214,4 @@
 - [The Case for JPEG XL (2022)](https://cloudinary.com/blog/the-case-for-jpeg-xl) ([HN](https://news.ycombinator.com/item?id=33442281))
 - [ImageWand: privacy-first image conversion experiment with Go & WASM (2022)](https://brunoluiz.net/blog/2022/aug/imagewand-privacy-first-image-conversion-experiment-with-golang-and-wasm/)
 - [Cactus Image Viewer](https://github.com/Wassimulator/CactusViewer) - Small handmade image viewer written in C/C++.
+- [Fast PNG Encoder](https://github.com/veluca93/fpnge) - Fast PNG encoder that uses AVX2 and a special Huffman table to encode images faster.

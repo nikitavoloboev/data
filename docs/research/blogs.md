@@ -10,7 +10,7 @@ I separate blogs I follow by quality into `1.` & `2.` folders accordingly.
 
 I share my [XML subscription feed of blogs I follow](https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689). I also follow some people on [Substack](https://substack.com/profile/4702201-nikita), [Medium](https://medium.com/@nikitavoloboev/following).
 
-I found a wiki to be a superior approach to sharing knowledge than articles that quickly become outdated thus I [stopped blogging in 2018](../sharing/my-articles.md). 
+I found [a wiki](../other/wiki-workflow.md) to be a superior approach to sharing knowledge than articles that quickly become outdated thus I [stopped blogging in 2018](../sharing/my-articles.md). 
 
 I may start writing long form content again, high quality and also as part of this wiki. 
 

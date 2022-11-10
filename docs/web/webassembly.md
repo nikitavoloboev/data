@@ -386,3 +386,4 @@ title: WebAssembly
 - [Luna](https://github.com/thomscoder/luna) - Tiny WebAssembly compiler in Go.
 - [Minimal WASI Interpreter in Zig](https://github.com/andrewrk/zig-wasi)
 - [Silly WAT Linker](https://github.com/surma/silly-wat-linker) - Tool that makes writing WebAssembly Text files easier.
+- [WebAssembly Component Builder](https://wasmbuilder.app/) - Website for building WebAssembly components. ([Code](https://github.com/peterhuene/wasmbuilder.app))

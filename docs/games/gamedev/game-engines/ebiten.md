@@ -19,3 +19,4 @@ title: Ebiten
 - [etxt](https://github.com/tinne26/etxt) - Font management and text rendering for Ebitengine.
 - [Ebitengine TPS vs FPS](https://github.com/tinne26/tps-vs-fps)
 - [gmath](https://github.com/quasilyte/gmath) - Godot-inspired math library for Ebintengine and other Go game engines.
+- [Ebitengine input library](https://github.com/quasilyte/ebitengine-input) - Godot-inspired action input handling system for Ebitengine.
