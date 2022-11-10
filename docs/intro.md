@@ -66,6 +66,7 @@ I tried to write it as both a reference you can skim to get the best info on how
 
 There's 1,000+ pages in here and lots of them I think are interesting. But these few can be nice starts for a read:
 
+- [Solving Problems](research/solving-problems.md) describes my approach to find problems to solve and solving them effectively. 
 - [Karabiner](macOS/apps/karabiner/karabiner.md) as it describes a genuinely life changing tool that makes updating this wiki and operating my mac at fast speeds possible
 - [VSCode](text-editors/vs-code/vs-code.md) & [Sublime Text](text-editors/sublime-text/sublime-text.md) for similar reason as Karabiner, life changing tools. I use Sublime Text for [editing this wiki](other/wiki-workflow.md) and VSCode for writing [code](programming/programming.md). Mostly [TypeScript](programming-languages/typescript/typescript.md) and [Go](programming-languages/go/go.md) now.
 - [Happiness](life/happiness.md) includes my lessons I learned for how to live a happier life

@@ -68,7 +68,7 @@ For research, I do Google searches. Search [Reddit](../tools/reddit.md), [HN](ht
 
 If there are no viable solutions already for the problem. Do the work to solve it!
 
-Each subtask, one by one. No distractions during work focus sessions.
+Each subtask, one by one. No distractions during work [focus sessions](../focusing/focusing.md).
 
 I use [great tools](../sharing/my-workflow.md) to make the process of solving tasks as smooth/fast as possible.
 
