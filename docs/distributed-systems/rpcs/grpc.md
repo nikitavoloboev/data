@@ -6,6 +6,8 @@ title: gRPC
 
 [Connect](https://github.com/bufbuild/connect-go), [gRPC UI](https://github.com/fullstorydev/grpcui), [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway) & [Wombat](https://github.com/rogchap/wombat) are useful. [gRPC-Go](https://github.com/grpc/grpc-go) & [gRPC-TS](https://github.com/whisklabs/grpc-ts) are great too.
 
+[Evans](https://github.com/ktr0731/evans) is nice gRPC Go client.
+
 ## Links
 
 - [Go gRPC Middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Interceptor chaining, auth, logging, retries and more.
