@@ -36,7 +36,19 @@ Most important part in this step is just to make sure that subtasks are all acti
 
 I like breaking things down more visually in [Excalidraw](https://excalidraw.com/) or [MindNode](../macOS/apps/mindnode.md).
 
-Often times I don't need to go deep into sketching everything out. And just working in the code editor and outlining the task in Height/GitHub is enough. Or [2Do](../macOS/apps/2do.md) (as note).
+![](https://i.imgur.com/0HFwEZy.png)
+
+> Can look like this. Here LA and epictools are two tasks/projects with subtasks.
+
+![](https://i.imgur.com/uzauKKU.png)
+
+> MindNode lets you focus in on one of the nodes for better focus.
+
+![](https://i.imgur.com/L5ueCNB.png)
+
+> Can also use arrows with descriptions for more high level views. Above is example of [one brainstorming session](https://youtu.be/sB0DWq3PTDk).
+
+Often times I don't need to go this deep into sketching everything out. And just working in the code editor and outlining the task in Height/GitHub is enough. Or [2Do](../macOS/apps/2do.md) (as note).
 
 [FigJam](https://www.figma.com/figjam/) and [Excalidraw](https://excalidraw.com/) are amazing as they allow you to collaborate on brainstorming together.
 
