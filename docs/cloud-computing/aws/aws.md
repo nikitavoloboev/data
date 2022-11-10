@@ -405,3 +405,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [AWS EC2 Instance Terraform module](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance)
 - [Terraform AWS Components](https://github.com/cloudposse/terraform-aws-components) - Opinionated, self-contained Terraform root modules that each solve one, specific problem.
 - [Data Engineering with AWS (2021)](https://www.packtpub.com/product/data-engineering-with-aws/9781800560413) ([Code](https://github.com/PacktPublishing/Data-Engineering-with-AWS))
+- [alterNAT](https://github.com/1debit/alternat) - High availability implementation of AWS NAT instances.

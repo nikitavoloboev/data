@@ -1882,6 +1882,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [raggio](https://github.com/empijei/raggio) - Go channels library.
 - [Matroska](https://github.com/dwbuiten/matroska) - Full-surface Go Wrapper for Haali's Matroska Parser.
 - [FFV1 Decoder in Go](https://github.com/dwbuiten/go-ffv1)
+- [rxgo](https://github.com/empijei/rxgo) - Reactive programming in Go.
+- [Terraform Cloud/Enterprise Go Client](https://github.com/hashicorp/go-tfe)
 
 ## Links
 

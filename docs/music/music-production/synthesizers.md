@@ -4,7 +4,7 @@ title: Synthesizers
 
 # [Synthesizers](https://en.wikipedia.org/wiki/Synthesizer)
 
-[MiniFreak](https://www.arturia.com/products/hardware-synths/minifreak/details) seems nice.
+[MiniFreak](https://www.arturia.com/products/hardware-synths/minifreak/details) seems nice. [Language for Making Languages for Making Synthesizers](https://www.youtube.com/watch?v=haEyHWokMuQ) is great talk.
 
 ## Interesting
 
@@ -103,3 +103,4 @@ title: Synthesizers
 - ["The Social Network" synth sounds (2022)](https://reverbmachine.com/blog/trent-reznor-social-network-synth-sounds/) ([HN](https://news.ycombinator.com/item?id=33220238))
 - [MiniFreak](https://www.arturia.com/products/hardware-synths/minifreak/details) - Spontaneous algorithmic synthesizer.
 - [Polykit X1 Semi Modular Synthesizer](https://github.com/polykit/polykit-x-monosynth)
+- [A Language for Making Languages for Making Synthesizers - Stevie Hryciw (2022)](https://www.youtube.com/watch?v=haEyHWokMuQ)

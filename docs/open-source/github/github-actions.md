@@ -327,6 +327,10 @@ title: GitHub actions
 - [optic-release-automation-action](https://github.com/nearform/optic-release-automation-action) - Automate the release process of your npm modules, apps and actions.
 - [pNPM Setup](https://github.com/DerYeger/pnpm-setup-action) - GitHub Action for setting up a pNPM environment. Caches dependencies for reduced execution times.
 
+## Zig
+
+- [Setup Zig](https://github.com/korandoru/setup-zig) - Set up your GitHub Actions workflow with a specific version of Zig.
+
 ## Web
 
 - [Cloudflare Pages GitHub Action](https://github.com/cloudflare/pages-action) - GitHub Action for creating Cloudflare Pages deployments.

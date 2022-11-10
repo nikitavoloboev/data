@@ -251,3 +251,5 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [ManyFold](https://github.com/instadeepai/manyfold) - Efficient and flexible library for training and validating protein folding models.
 - [AlphaFold’s new rival? Meta AI predicts shape of 600M proteins (2022)](https://www.nature.com/articles/d41586-022-03539-1) ([HN](https://news.ycombinator.com/item?id=33433583))
 - [biogo](https://github.com/biogo/biogo) - Bioinformatics library for Go. ([Examples](https://github.com/biogo/examples))
+- [Rust-Bio-Tools](https://github.com/rust-bio/rust-bio-tools) - Set of ultra fast and robust command line utilities for bioinformatics tasks based on Rust-Bio.
+- [fastqc-rs](https://github.com/fastqc-rs/fastqc-rs) - Quality control tool for FASTQ files written in rust.

@@ -1230,3 +1230,4 @@
 - [How to set up Python in 2022](https://gist.github.com/eyeseast/548fddcfd0df24e589375af6a926ef7e)
 - [nox-poetry](https://github.com/cjolowicz/nox-poetry) - Use Poetry inside Nox sessions.
 - [conda-store](https://github.com/Quansight/conda-store) - Serve identical conda environments in as many ways as possible to users and services.
+- [Devpy](https://github.com/scientific-python/devpy) - Developer tool for scientific Python libraries.

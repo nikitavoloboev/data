@@ -543,3 +543,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Ask HN: How many of you prefer to use Ethernet? (2022)](https://news.ycombinator.com/item?id=33444078)
 - [Apex](https://github.com/redhat-et/apex) - Provide connectivity between nodes deployed across heterogeneous environments.
 - [Higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway.
+- [Sabakan](https://github.com/cybozu-go/sabakan) - Versatile network boot server designed for large on-premise data centers.

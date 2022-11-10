@@ -121,6 +121,7 @@
 - [CS 168: The Modern Algorithmic Toolbox, Spring 2022](https://web.stanford.edu/class/cs168/index.html) ([HN](https://news.ycombinator.com/item?id=32788475))
 - [Graph Algorithms Cheat Sheet For Coding Interviews](https://memgraph.com/blog/graph-algorithms-cheat-sheet-for-coding-interviews)
 - [Lockfree Algorithms (2010)](https://www.1024cores.net/home/lock-free-algorithms) ([HN](https://news.ycombinator.com/item?id=32918043))
+- [Algorithmic Resources](https://github.com/hkirat/Algorithmic-Resources) - Curated list of Topic wise Theory and Questions to Get You Started On Competitive Coding.
 
 ## Images
 

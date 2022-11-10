@@ -65,3 +65,4 @@ title: Metal
 - [MetalPlayer](https://github.com/unixzii/MetalPlayer) - Sample project to demonstrate how to play videos with filters using Metal and AVFoundation.
 - [hwoa-rang-metal](https://github.com/gnikoloff/hwoa-rang-metal) - Minimum Apple Metal rendering library.
 - [MetalSupport](https://github.com/schwa/MetalSupport) - Micro-package to make working with Metal somewhat nicer.
+- [Palico Engine](https://github.com/forkercat/PalicoEngine) - Metal-Based Game Engine in Swift.

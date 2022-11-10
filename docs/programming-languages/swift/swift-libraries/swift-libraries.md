@@ -284,6 +284,7 @@
 - [Thunder Basics](https://github.com/3sidedcube/ThunderBasics) - Collection of helpful extensions, subclasses and wrappers to make iOS app development easier.
 - [Thunder Collection](https://github.com/3sidedcube/ThunderCollection) - Wrapper around UICollectionViewController enabling a declarative API around it's delegate methods using protocols.
 - [Baymax](https://github.com/3sidedcube/Baymax) - Diagnostics framework for iOS apps.
+- [Pastel](https://github.com/cruisediary/Pastel) - Gradient animation effect like Instagram.
 
 ## macOS
 
@@ -586,6 +587,7 @@
 - [EasyMenu](https://github.com/hdehghan/EasyMenu) - SwiftUI Menu but not only button. You can create custom Menu.
 - [SwiftUI Dynamic Island Animations](https://github.com/amosgyamfi/dynamic-island-animations)
 - [TagExtractor](https://github.com/GeorgeElsham/TagExtractor) - Extract tag value from SwiftUI views.
+- [HypeUI](https://github.com/hyperconnect/HypeUI) - Implementation of Apple's SwiftUI DSL style based on UIKit.
 
 ## Test
 
@@ -1309,6 +1311,7 @@
 - [SerializedSwift](https://github.com/dejanskledar/SerializedSwift) - Significant enhancement to the current Codable protocol for better and easier Serializing and Deserializing of JSON.
 - [TaskQueue](https://github.com/icanzilb/TaskQueue) - Task Queue Class developed in Swift.
 - [ASN1Parser](https://github.com/DominikHorn/ASN1Parser) - Minimalistic Swift parser for ASN.1 data. Currently supports DER and therefore also BER binary format.
+- [MothECS](https://github.com/forkercat/MothECS) - Simple Entity Component System in Swift.
 
 ## Other (not lib)
 

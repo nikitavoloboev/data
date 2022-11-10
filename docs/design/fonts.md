@@ -430,3 +430,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Typography for Lawyers](https://typographyforlawyers.com/) ([HN](https://news.ycombinator.com/item?id=33510827))
 - [Velvetyne type Foundry](https://www.velvetyne.fr/) ([Twitter](https://twitter.com/velvetype))
 - [Studio Triple](http://studiotriple.fr/) - Berlin based graphic and type design studio.
+- [Norad](https://github.com/linebender/norad) - Rust crate for working with Unified Font Object files.

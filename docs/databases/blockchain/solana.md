@@ -306,3 +306,4 @@ I also think solving [micro transactions](https://news.ycombinator.com/item?id=3
 - [Porting the Solana eBPF JIT compiler to ARM64 (2022)](https://blog.trailofbits.com/2022/10/12/solana-jit-compiler-ebpf-arm64/) ([Code](https://github.com/solana-labs/rbpf))
 - [Phantom](https://phantom.app/) - Friendly Solana wallet built for DeFi & NFTs.
 - [Staking SOL with Marinade and unstaking slowly](https://www.reddit.com/r/solana/comments/p1p1h1/comment/h8eukyd/)
+- [Backpack](https://www.backpack.app/) - Home for your xNFTs. ([Code](https://github.com/coral-xyz/backpack))

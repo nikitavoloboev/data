@@ -181,6 +181,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Thyme](https://github.com/TheAssemblyArmada/Thyme) - Open source re-implementation of Generals : Zero Hour written in C++.
 - [Fallout 2 Community Edition](https://github.com/alexbatalov/fallout2-ce)
 - [Industry Idle](https://github.com/fishpondstudio/IndustryIdle) - Idle game that combines factory building, resource management and market trading.
+- [Counter-Strike JS](https://github.com/VadimDez/Counter-Strike-JS) - Counter-Strike 1.6 implementation in TypeScript utilizing state of the art browser APIs.
 
 ## Awesome games (other)
 
