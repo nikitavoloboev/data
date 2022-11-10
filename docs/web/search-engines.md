@@ -280,3 +280,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [Feep! search](https://search.feep.dev/) - Web search engine for programmers. ([HN](https://news.ycombinator.com/item?id=33494221))
 - [How to build a Semantic Search Engine in Rust (2022)](https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9) ([HN](https://news.ycombinator.com/item?id=33532158)) ([Code](https://github.com/sachaarbonel/semantic-search))
 - [The Age of PageRank Is Over (2022)](https://blog.kagi.com/age-pagerank-over) ([HN](https://news.ycombinator.com/item?id=33537513))
+- [Fuzzy Substring Matching: On-device Fuzzy Friend Search at Snapchat (2022)](https://arxiv.org/abs/2211.02767) ([HN](https://news.ycombinator.com/item?id=33521571))
