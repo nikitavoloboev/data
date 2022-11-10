@@ -22,25 +22,21 @@ Just try to be clear of what you're solving and why!
 
 ## 2. Break the problem down to essential and smaller parts.
 
-As mentioned, I use Height for this now and its subtasks feature is lovely. Want to build a Height like app that sits on top of GitHub issues soon as that would be even better. 
+As mentioned, I use Height for this now and its subtasks feature is lovely. Want to build a Height like app that sits on top of GitHub issues soon as that would be even better.
+
+![](https://i.imgur.com/wxCZaKV.png)
+
+> Example task with subtasks
+
+![](https://i.imgur.com/JYyXXqA.png)
+
+> Month view of things to do for a project
 
 Most important part in this step is just to make sure that subtasks are all actionable. Sort by priority and then go at it, one by one.
 
-I like breaking things down more visually in [MindNode](../macOS/apps/mindnode.md) or [Excalidraw](https://excalidraw.com/). 
+I like breaking things down more visually in [Excalidraw](https://excalidraw.com/) or [MindNode](../macOS/apps/mindnode.md).
 
-![](https://i.imgur.com/0HFwEZy.png)
-
-> Can look like this. Here LA and epictools are two tasks/projects with subtasks.
-
-![](https://i.imgur.com/uzauKKU.png)
-
-> MindNode lets you focus in on one of the nodes for better focus.
-
-![](https://i.imgur.com/L5ueCNB.png)
-
-> Can also use arrows with descriptions for more high level views. Above is example of [one brainstorming session](https://youtu.be/sB0DWq3PTDk).
-
-Often times I don't need to go this deep into sketching everything out. And just working in the code editor and outlining the task in Height/GitHub is enough. Or [2Do](../macOS/apps/2do.md) (as note).
+Often times I don't need to go deep into sketching everything out. And just working in the code editor and outlining the task in Height/GitHub is enough. Or [2Do](../macOS/apps/2do.md) (as note).
 
 [FigJam](https://www.figma.com/figjam/) and [Excalidraw](https://excalidraw.com/) are amazing as they allow you to collaborate on brainstorming together.
 
@@ -52,7 +48,7 @@ Minimal viable working thing first!
 
 ## 3. Prioritize order of solving the parts. Do necessary research.
 
-In this part, assuming you have things in order and well defined (as much as possible). And you did necessary [research](research.md), is this problem already solved by someone? Can we just use it or integrate? 
+In this part, assuming you have things in order and well defined (as much as possible). And you did necessary [research](research.md), is this problem already solved by someone? Can we just use it or integrate?
 
 For research, I do Google searches. Search [Reddit](../tools/reddit.md), [HN](https://hn.algolia.com/), [Twitter](../tools/twitter.md) for convos around the topic/problem. Note things.
 
@@ -68,7 +64,7 @@ Know [how to effectively ask questions](asking-questions.md) so as to respect ot
 
 ## 5. Optimize. Document. Share solution.
 
-Once you have your first working solution that solves the thing. You can start optimizing the solution, if you actually need the optimization! 
+Once you have your first working solution that solves the thing. You can start optimizing the solution, if you actually need the optimization!
 
 Then document everything related to it, hopefully you also documented the process of building too. Especially why certain key decisions were made in certain parts of design/solution.
 
@@ -76,7 +72,7 @@ And share it! Most fun part as you can then get even more feedback. Can also sta
 
 --
 
-As far as knowing how to prioritize on what to work on. [Minimizing regret](https://www.youtube.com/watch?v=jwG_qR6XmDQ) is always a good mental model for choosing problems to solve. Will I still be worried about this a year from now? If so, it's probably important and worth worrying about and solving. If not, let it go and move on. Better side on [making decisions](../psychology/decision-making.md) and reversing in light of new knowledge than falling victim to fear or risk.   
+As far as knowing how to prioritize on what to work on. [Minimizing regret](https://www.youtube.com/watch?v=jwG_qR6XmDQ) is always a good mental model for choosing problems to solve. Will I still be worried about this a year from now? If so, it's probably important and worth worrying about and solving. If not, let it go and move on. Better side on [making decisions](../psychology/decision-making.md) and reversing in light of new knowledge than falling victim to fear or risk.
 
 ## Notes
 
