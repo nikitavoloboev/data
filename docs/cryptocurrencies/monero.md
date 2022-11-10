@@ -4,7 +4,7 @@ title: Monero
 
 # [Monero](https://www.getmonero.org/)
 
-Monero is great for buying things safely that [government does not allow for whatever archaic reasons](../../drugs/psychedelics/psychedelics.md).
+Monero is great for buying things safely that [government does not allow for whatever archaic reasons](../drugs/psychedelics/psychedelics.md).
 
 The fact that most/all blockchains have public ledger where each transaction is logged and everyone knows who sent coins to who makes it impossible to use as actual money. If decentralized global currency can be a thing in its own right. Right now as all blockchains are public and fully decentralized peer to peer exchanges are not a popular thing yet, [this will happen](https://twitter.com/maxseddon/status/1517543882120212482).
 

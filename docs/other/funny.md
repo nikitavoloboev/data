@@ -1,5 +1,11 @@
 # Funny
 
+Like a few [standup artists](standup.md).
+
+One thing I observed about more funnier people is that they are more observant of the environment they are in and aren't afraid of using emotions to point light at certain parts of what's happening around them and sharing it.
+
+I try to get better at it and learning as I go. Noting funny moments that happened to you in your Notes app is always a good idea. Many standup routines started as a seed in one of these notes.  
+
 ## Reactions
 
 - [crabs dancing](https://twitter.com/TaylorLorenz/status/1347693967446429698) ([Full Clip](https://www.youtube.com/watch?v=LDU_Txk06tM))

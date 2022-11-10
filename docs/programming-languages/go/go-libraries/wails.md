@@ -6,6 +6,8 @@ title: Wails
 
 > Build desktop applications using Go & Web Technologies.
 
+Exploring using [Tauri](../../rust/rust-libraries/tauri.md) as alternative now. But Wails is great.
+
 ## OSS Wails apps
 
 - [EmailIt](https://github.com/raguay/EmailIt) - Using Svelte.

@@ -1,5 +1,7 @@
 # Standup
 
+Quite like [Bill Burr](https://billburr.com/).
+
 ## Interesting
 
 - [Andrew Schulz](https://www.youtube.com/user/TheAndrewSchulz)
