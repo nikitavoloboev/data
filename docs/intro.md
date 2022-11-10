@@ -38,11 +38,11 @@ The way I structure each page often looks the same and follows a structure. The 
 
 ![](https://i.imgur.com/wBj77ch.png)
 
-Take [React Hooks](programming-languages/javascript/js-libraries/react/react-hooks.md) page.
+Take [SolidJS](programming-languages/javascript/js-libraries/solid.md) page.
 
-![](https://i.imgur.com/epRiB3A.png)
+![](https://i.imgur.com/2DdQKxl.png)
 
-As you can see, React Hooks is part of [React](programming-languages/javascript/js-libraries/react/react.md) which is part of [JS libraries](programming-languages/javascript/js-libraries/js-libraries.md) (big file) which is part of [JavaScript](programming-languages/javascript/javascript.md) and JavaScript as a language is part of top level [programming languages](programming-languages/programming-languages.md) I mentioned above. There are tons more folders like this. The way I include what's part of what is subject to my interpretation so it might be confusing to some.
+As you can see, SolidJS is part of [JS libraries](programming-languages/javascript/js-libraries/js-libraries.md) (big file) which is part of [JavaScript](programming-languages/javascript/javascript.md) and JavaScript as a language is part of top level [programming languages](programming-languages/programming-languages.md) I mentioned above. There are tons more folders like this. The way I include what's part of what is subject to my interpretation so it might be confusing to some.
 
 What I would suggest if this is the first time you came across this wiki and genuinely want to learn something new is to scroll the sidebar on the left or search for something, more likely then not, I wrote something about it.
 

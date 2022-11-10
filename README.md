@@ -33,11 +33,11 @@ The way I structure each page often looks the same and follows a structure. The 
 
 ![](https://i.imgur.com/wBj77ch.png)
 
-Take [React Hooks](https://wiki.nikiv.dev/programming-languages/javascript/js-libraries/react/react-hooks) page.
+Take [SolidJS](https://wiki.nikiv.dev/programming-languages/javascript/js-libraries/solid) page.
 
-![](https://i.imgur.com/epRiB3A.png)
+![](https://i.imgur.com/2DdQKxl.png)
 
-As you can see, React Hooks is part of [React](https://wiki.nikiv.dev/programming-languages/javascript/js-libraries/react/) which is part of [JS libraries](https://wiki.nikiv.dev/programming-languages/javascript/js-libraries/) (big file) which is part of [JavaScript](https://wiki.nikiv.dev/programming-languages/javascript/) and JavaScript as a language is part of top level [programming languages](https://wiki.nikiv.dev/programming-languages/) I mentioned above. There are tons more folders like this. The way I include what's part of what is subject to my interpretation so it might be confusing to some.
+As you can see, SolidJS is part of [JS libraries](https://wiki.nikiv.dev/programming-languages/javascript/js-libraries/) (big file) which is part of [JavaScript](https://wiki.nikiv.dev/programming-languages/javascript/) and JavaScript as a language is part of top level [programming languages](https://wiki.nikiv.dev/programming-languages/) I mentioned above. There are tons more folders like this. The way I include what's part of what is subject to my interpretation so it might be confusing to some.
 
 What I would suggest if this is the first time you came across this wiki and genuinely want to learn something new is to scroll the sidebar on the left or search for something, more likely then not, I wrote something about it.
 
