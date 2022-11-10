@@ -60,7 +60,7 @@ Minimal viable working thing first!
 
 ## 3. Prioritize order of solving the parts. Do necessary research.
 
-In this part, assuming you have things in order and well defined (as much as possible). And you did necessary [research](research.md), is this problem already solved by someone? Can we just use it or integrate?
+In this part, assuming you have things in order and well defined (as much as possible). Do necessary [research](research.md). Is this problem already solved by someone? Can we just use it or integrate?
 
 For research, I do Google searches. Search [Reddit](../tools/reddit.md), [HN](https://hn.algolia.com/), [Twitter](../tools/twitter.md) for convos around the topic/problem. Note things.
 
