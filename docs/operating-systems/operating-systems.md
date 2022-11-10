@@ -399,3 +399,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Booting an Embedded OS: the Booting and U-Boot Phase (2022)](https://serhack.me/articles/os-embedded-booting-phase-uboot/)
 - [KraftKit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
 - [Programmer's Guide | C64 OS](https://c64os.com/c64os/programmersguide/introduction)
+- [grace](https://github.com/liamg/grace) - Tool for monitoring and annotating syscalls for a given process.

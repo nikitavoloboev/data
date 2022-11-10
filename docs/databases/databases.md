@@ -12,6 +12,8 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 
 Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek features](https://news.ycombinator.com/item?id=33518320).
 
+[trustfall](https://github.com/obi1kenobi/trustfall) is a great query engine for all kinds of data sources.
+
 ## Interesting
 
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming SQL Database powered by Timely Dataflow. ([Web](https://materialize.io/))
