@@ -2413,6 +2413,7 @@
 - [targo](https://github.com/sunshowers/targo) - Wraps cargo to move target directories to a central location.
 - [cargo-deps](https://github.com/m-cat/cargo-deps) - Cargo subcommand for building dependency graphs of Rust projects.
 - [CycloneDX Rust (Cargo) Plugin](https://github.com/CycloneDX/cyclonedx-rust-cargo) - Creates CycloneDX Software Bill of Materials (SBOM) from Rust (Cargo) projects.
+- [cargo-guppy](https://github.com/guppy-rs/guppy) - Track and query Cargo dependency graphs.
 
 ## Notes
 
