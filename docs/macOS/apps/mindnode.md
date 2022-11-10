@@ -14,6 +14,20 @@ I visualize topics and their relations as an [interactive mind map](https://my.m
 
 More recently I am using [Excalidraw & Obsidian](https://www.zsolt.blog/2021/09/mind-mapping-with-excalidraw-in-obsidian.html) for making mind maps.
 
+At some point, I used MindNode as a way to break down problems into smaller parts.
+
+![](https://i.imgur.com/0HFwEZy.png)
+
+> Can look like this. Here LA and epictools are two tasks/projects with subtasks.
+
+![](https://i.imgur.com/uzauKKU.png)
+
+> MindNode lets you focus in on one of the nodes for better focus.
+
+![](https://i.imgur.com/L5ueCNB.png)
+
+> Can also use arrows with descriptions for more high level views. Above is example of [one brainstorming session](https://youtu.be/sB0DWq3PTDk).
+
 ## Notes
 
 - ⌥ + delete will delete currently selected node only unlike delete which will delete the entire branch.
