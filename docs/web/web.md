@@ -467,3 +467,4 @@
 - [Cloudflare Pages: Best server tech since CGI-bin? (2022)](https://taras.glek.net/post/cloudflare-pages-kind-of-amazing/) ([HN](https://news.ycombinator.com/item?id=33307950))
 - [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites.
 - [Nocode Templates & Components by Nocoloco](https://www.nocodetemplates.page/)
+- [File API](https://w3c.github.io/FileAPI/) ([Code](https://github.com/w3c/FileAPI))

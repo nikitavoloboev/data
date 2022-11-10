@@ -10,7 +10,9 @@ I use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/mas
 
 ![](https://i.imgur.com/9pHae4J.png)
 
-I add `[` to contacts that are top/favorite. I also add `del` as part of the name contacts that are temporary. I then cleanup these contacts when they are no longer needed. i.e. You need to add person to Contacts just to send someone a WhatsApp message. Or agency contact for a place I rent.
+I add `[` to contacts that are of greater importance. And `[[` for top/favorite. I also add `del` at end of the name for contacts I know are temporary. I then cleanup these contacts when they are no longer needed. i.e. You need to add person to Contacts just to send someone a WhatsApp message. Or agency contact for a place I rent.
+
+I add memorable notes for certain contacts too. In future I want Contacts to be something that's handled by [LA](../../ideas/learn-anything.md) as it can do an even better job and export details into Contacts.app too.
 
 ## Notes
 

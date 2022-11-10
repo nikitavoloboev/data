@@ -6,8 +6,9 @@
 
 ## CLI
 
-- [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser. ([Reddit](https://www.reddit.com/r/rust/comments/rt3fyr/clap_30_a_rust_cli_argument_parser/)) ([step towards 4.0](https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/)) ([Reddit](https://www.reddit.com/r/rust/comments/su2h4v/clap_31_a_step_towards_40/))
+- [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
+- [bpaf](https://github.com/pacak/bpaf) - Parse command line arguments by composing a parser from the components optimized for flexibility and compilation time. ([Reddit](https://www.reddit.com/r/rust/comments/u0f57x/yet_another_command_line_argument_parser_bpaf_040/))
 - [argi](https://github.com/Owez/argi) - Argument parsing for the future.
 - [slap](https://github.com/agnipau/slap) - Painless shell argument parsing and dependency check.
 - [Wena](https://github.com/wena-cli/wena) - Micro-framework that provides an elegant starting point for your console application.
@@ -50,7 +51,6 @@
 - [spinach](https://github.com/etienne-napoleone/spinach) - Practical spinner for Rust.
 - [zi](https://github.com/mcobzarenco/zi) - Incremental, declarative library for building terminal user interfaces in Rust.
 - [Modern Terminal](https://github.com/kamadorueda/modern-terminal) - Rust library for rich text and beautiful formatting.
-- [bpaf](https://github.com/pacak/bpaf) - Parse command line arguments by composing a parser from the components optimized for flexibility and compilation time. ([Reddit](https://www.reddit.com/r/rust/comments/u0f57x/yet_another_command_line_argument_parser_bpaf_040/))
 - [Canopy](https://github.com/cortesi/canopy) - Terminal UI library for Rust.
 - [Rustea](https://github.com/lazops/rustea) - Easy-to-use TUI crate for Rust, based off of the Elm architecture.
 - [promptio](https://github.com/ynqa/promptio) - Toolkit for building your own interactive command-line tools in Rust.
