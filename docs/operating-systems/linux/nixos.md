@@ -80,6 +80,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Ben Wolsieffer](https://github.com/lopsided98/nixos-config)
 - [Sam Horvath-Hunt](https://github.com/samhh/dotfiles)
 - [Cabia Rangris](https://github.com/cab404/home)
+- [Aaron Bieber](https://github.com/qbit/xin)
 
 ## Nix configs (macOS)
 

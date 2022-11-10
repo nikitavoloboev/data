@@ -311,6 +311,7 @@
 
 ## Web
 
+- [SwiftHttp](https://github.com/BinaryBirds/swift-http) - Swift HTTP library to rapidly create communication layers with API endpoints.
 - [CleanNetwork](https://github.com/alperen23230/CleanNetwork) - Lightweight URLSession wrapper for using async/await in networking.
 - [Mu](https://github.com/Nirma/Mu) - Minimalist HTTP request library via async / await.
 - [SwiftHttp](https://github.com/BinaryBirds/swift-http) - Awesome Swift HTTP library to rapidly create communication layers with API endpoints.
@@ -1305,6 +1306,7 @@
 - [SwiftRadix](https://github.com/orchetect/SwiftRadix) - Easily convert integers to binary/hex/octal strings and back again with clean functional syntax.
 - [EasyBackgroundRefresh](https://github.com/yonat/EasyBackgroundRefresh) - Easy background refresh registration, scheduling, execution, and completion. BGTaskScheduler for the lazy.
 - [ReflectionMirror](https://github.com/philipturner/swift-reflection-mirror)
+- [SerializedSwift](https://github.com/dejanskledar/SerializedSwift) - Significant enhancement to the current Codable protocol for better and easier Serializing and Deserializing of JSON.
 
 ## Other (not lib)
 

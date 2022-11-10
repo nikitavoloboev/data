@@ -136,3 +136,4 @@
 - [SuperGlue: Learning Feature Matching with Graph Neural Networks (2020)](https://arxiv.org/abs/1911.11763) ([Code](https://github.com/magicleap/SuperGluePretrainedNetwork))
 - [Variational Graph Normalized Auto-Encoders (2021)](https://arxiv.org/abs/2108.08046) ([Code](https://github.com/SeongJinAhn/VGNAE))
 - [GOOD: A Graph Out-of-Distribution Benchmark (2022)](https://github.com/divelab/GOOD)
+- [Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries (2022)](https://arxiv.org/abs/2206.11140) ([Code](https://github.com/beabevi/SUN))

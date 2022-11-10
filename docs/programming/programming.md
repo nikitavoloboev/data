@@ -610,3 +610,4 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [Ask HN: What piece of code/codebase blew your mind when you saw it? (2022)](https://news.ycombinator.com/item?id=33413124)
 - [Ask HN: What are the reasons behind your success as a self-taught programmer? (2022)](https://news.ycombinator.com/item?id=33501929)
 - [Hussein Nasser - YouTube](https://www.youtube.com/c/HusseinNasser-software-engineering)
+- [Tuple's Pair Programming Guide](https://tuple.app/pair-programming-guide/) ([Code](https://github.com/tupleapp/pair-programming-guide))

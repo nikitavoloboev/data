@@ -167,7 +167,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 
 ## Other interesting apps
 
-- [Tuple](https://tuple.app/) - Pair Programming Tool for macOS. ([HN](https://news.ycombinator.com/item?id=29641907))
+- [Tuple](https://tuple.app/) - Pair Programming Tool for macOS. ([HN](https://news.ycombinator.com/item?id=29641907)) ([GitHub](https://github.com/tupleapp))
 - [Finicky](https://github.com/johnste/finicky) - MacOS app for customizing which browser to start.
 - [OpenQuickly](https://github.com/lukakerr/OpenQuickly) - Custom 'open quickly' window that imitates macOS' Spotlight.
 - [Flotato](https://flotato.com/) - Turn any web page into a Mac app.

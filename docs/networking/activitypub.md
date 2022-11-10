@@ -52,3 +52,4 @@ title: ActivityPub
 - [The Fediverse, and Custom Domains](https://aeracode.org/2022/11/01/fediverse-custom-domains/) ([HN](https://news.ycombinator.com/item?id=33503511))
 - [ActivityPub Spec](https://www.w3.org/TR/activitypub/) ([HN](https://news.ycombinator.com/item?id=33513421))
 - [Highly opinionated guide to learning about ActivityPub (2019)](https://tinysubversions.com/notes/reading-activitypub/)
+- [RustyPub](https://github.com/hachyserve/rustypub) - ActivityPub in Rust.

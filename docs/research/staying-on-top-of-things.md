@@ -276,3 +276,4 @@ And these Discord servers:
 - [One App](https://reader.one/) - Read HN/Reddit/.. in one website.
 - [A List Of Text-Only News Sites](https://greycoder.com/a-list-of-text-only-new-sites/)
 - [Ask HN: Where do you escape for non-clickbait thoughtful/informational content? (2022)](https://news.ycombinator.com/item?id=33212499)
+- [News Homepages](https://palewi.re/docs/news-homepages/) - Open-source archive that gathers, saves, shares and analyzes news homepages. ([Code](https://github.com/palewire/news-homepages/)) ([Runner](https://github.com/palewire/news-homepages-runner))

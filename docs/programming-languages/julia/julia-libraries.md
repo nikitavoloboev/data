@@ -126,6 +126,7 @@
 - [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) - Fast tensor operations using a convenient Einstein index notation.
 - [MarkovKernels.jl](https://github.com/filtron/MarkovKernels.jl) - Marginal distributions and Markov kernels that play nice with each other for the purpose of Bayesian state estimation.
 - [ProbNumDiffEq.jl](https://github.com/nathanaelbosch/ProbNumDiffEq.jl) - Probabilistic Numerical Differential Equation solvers via Bayesian filtering and smoothing.
+- [Conductor.jl](https://github.com/wsphillips/Conductor.jl) - Platform for quickly and flexibly building high-performance, multi-scale neuronal network models in Julia.
 
 ## Math
 
@@ -765,6 +766,7 @@
 - [Spark.jl](https://github.com/dfdx/Spark.jl) - Julia interface to Apache Spark.
 - [AVRCompiler.jl](https://github.com/Seelengrab/AVRCompiler.jl) - Used for compiling Julia source code to AVR assembly.
 - [Bessels.jl](https://github.com/JuliaMath/Bessels.jl) - Numerical routines for computing Bessel, Airy, and Hankel functions for real arguments.
+- [ImPlot.jl](https://github.com/wsphillips/ImPlot.jl) - Plotting extension library for CImGui.jl.
 
 ## Links
 

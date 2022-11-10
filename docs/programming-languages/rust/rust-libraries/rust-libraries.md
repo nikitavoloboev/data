@@ -681,6 +681,7 @@
 - [SELinux](https://github.com/koutheir/selinux) - Flexible Mandatory Access Control for Linux.
 - [penguincrab](https://github.com/docfate111/penguincrab) - Unsafe wrapper for Linux Kernel Library in Rust.
 - [sysfs_gpio](https://github.com/rust-embedded/rust-sysfs-gpio) - Rust Interface to the Linux sysfs GPIO interface.
+- [Wayland rust](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
 
 ## Embedded
 
@@ -2304,6 +2305,7 @@
 - [Route Pattern](https://github.com/jondot/route-pattern) - Parser and matcher for route patterns in Rust.
 - [uchan](https://github.com/kprotty/uchan) - Small, scalable, unbounded, mpsc channel.
 - [env_logger](https://github.com/rust-cli/env_logger) - Logger that can be configured via environment variables.
+- [hex](https://github.com/KokaKiwi/rust-hex) - Encoding and decoding data into/from hexadecimal representation.
 
 ## Cargo Plugins
 

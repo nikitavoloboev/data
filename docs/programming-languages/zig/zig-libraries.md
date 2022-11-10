@@ -22,6 +22,7 @@
 - [zfetch](https://github.com/truemedian/zfetch) - HTTP request library for Zig with HTTPS support.
 - [HTTP](https://github.com/ducdetronquito/http) - HTTP core types for Zig.
 - [Zelda](https://github.com/haze/zelda) - Simple HTTP client library for Zig.
+- [ziget](https://github.com/marler8997/ziget) - Zig library/tool to request network assets.
 
 ## DB
 

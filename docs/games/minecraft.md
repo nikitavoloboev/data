@@ -143,3 +143,4 @@ title: Minecraft
 - [Mirai](https://github.com/etil2jz/Mirai) - Powerful Minecraft Server Software coming from the future.
 - [JustEnoughItems](https://github.com/mezz/JustEnoughItems) - Item and Recipe viewing mod for Minecraft.
 - [Minecraft-Data-Rs](https://github.com/Trivernis/minecraft-data-rs) - Rust library to access minecraft data.
+- [SwiftUICraft](https://github.com/aheze/SwiftUICraft) - Minecraft but made with SwiftUI.
