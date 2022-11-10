@@ -107,3 +107,4 @@ Well implemented analytics together with proper logging/tracing should let you l
 - [Serverless Realtime Analytics for Next.js with Vercel Edge, Upstash Kafka and Tinybird (2022)](https://upstash.com/blog/kafka-tinybird-vercel-edge)
 - [Minimal-Analytics](https://github.com/jahilldev/minimal-analytics) - Minimal versions of popular analytics libraries. Reduce the impact of third-party scripts on your application.
 - [universal-analytics](https://github.com/peaksandpies/universal-analytics) - Node module for Google's Universal Analytics and Measurement Protocol.
+- [Vercel Analytics](https://github.com/vercel/analytics) - Privacy-friendly, real-time traffic insights.

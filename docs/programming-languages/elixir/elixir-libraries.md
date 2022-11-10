@@ -71,6 +71,8 @@
 - [MyXQL](https://github.com/elixir-ecto/myxql) - MySQL 5.5+ driver for Elixir.
 - [Apq](https://github.com/maartenvanvliet/apq) - Support for Automatic Persisted Queries in Absinthe.
 - [Timescale](https://github.com/bitfo/timescale) - TimescaleDB made easy with Ecto.
+- [AshPostgres](https://github.com/ash-project/ash_postgres) - PostgreSQL data layer for the Ash Framework.
+- [DataLoader](https://github.com/absinthe-graphql/dataloader) - Easy way efficiently load data in batches.
 
 ## Test
 
@@ -261,6 +263,7 @@
 - [ExCmd](https://github.com/akash-akya/ex_cmd) - Elixir library to run external programs and to communicate with back pressure.
 - [Exile](https://github.com/akash-akya/exile) - Alternative to ports for running external programs. It provides back-pressure, non-blocking io, and tries to fix ports issues.
 - [Exq Scheduler](https://github.com/activesphere/exq-scheduler) - Cron like job scheduler for Exq, it's also compatible with Sidekiq and Resque.
+- [Make](https://github.com/elixir-lang/elixir_make) - Make compiler for Mix.
 
 ## Links
 

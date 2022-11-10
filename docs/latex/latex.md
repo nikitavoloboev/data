@@ -156,3 +156,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Lambda Operator in LaTeX (2022)](https://commutative.xyz/~miguelmurca/blog/x/lambda.html) ([HN](https://news.ycombinator.com/item?id=33259630))
 - [LaPreprint](https://github.com/roaldarbol/LaPreprint) - Nicely formatted LaTeX preprint template.
 - [SILE](https://sile-typesetter.org/) - Modern rewrite of TeX. Typesetting system; its job is to produce beautiful printed documents. ([Code](https://github.com/sile-typesetter/sile)) ([Lobsters](https://lobste.rs/s/95ammp/sile_modern_rewrite_tex))
+- [tt-weave](https://github.com/tectonic-typesetting/tt-weave) - WEAVE-like program targeting Tectonic HTML output.

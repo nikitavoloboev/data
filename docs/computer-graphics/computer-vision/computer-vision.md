@@ -986,3 +986,4 @@
 - [FastestDet](https://github.com/dog-qiuqiu/FastestDet) - Newly designed ultra lightweight anchor free target detection algorithm.
 - [Computer Vision, From 3D Reconstruction to Recognition Notes](https://web.stanford.edu/class/cs231a/course_notes.html)
 - [Stanford University: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) ([Notes](https://cs231n.github.io/))
+- [TAP-Vid: A Benchmark for Tracking Any Point in a Video (2022)](https://arxiv.org/abs/2211.03726) ([Code](https://github.com/deepmind/tapnet))
