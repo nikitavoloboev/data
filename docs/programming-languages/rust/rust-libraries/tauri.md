@@ -4,7 +4,9 @@ title: Tauri
 
 # [Tauri](https://tauri.studio/)
 
-[Dropcode](https://github.com/egoist/dropcode) is great OSS app built with Tauri and [Solid](../../javascript/js-libraries/solid.md).
+[Dropcode](https://github.com/egoist/dropcode) is great OSS app built with Tauri and [Solid](../../javascript/js-libraries/solid.md). Perfect stack in my eyes.
+
+[Wails](../../go/go-libraries/wails.md) is nice alternative to Tauri that uses [Go](../../go/go.md) instead of [Rust](../rust.md).
 
 ## OSS Tauri apps
 

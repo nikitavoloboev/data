@@ -6,14 +6,14 @@
 
 ## CLI
 
+- [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
+- [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser. ([Reddit](https://www.reddit.com/r/rust/comments/rt3fyr/clap_30_a_rust_cli_argument_parser/)) ([step towards 4.0](https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/)) ([Reddit](https://www.reddit.com/r/rust/comments/su2h4v/clap_31_a_step_towards_40/))
 - [argi](https://github.com/Owez/argi) - Argument parsing for the future.
 - [slap](https://github.com/agnipau/slap) - Painless shell argument parsing and dependency check.
 - [Wena](https://github.com/wena-cli/wena) - Micro-framework that provides an elegant starting point for your console application.
-- [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser. ([Reddit](https://www.reddit.com/r/rust/comments/rt3fyr/clap_30_a_rust_cli_argument_parser/)) ([step towards 4.0](https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/)) ([Reddit](https://www.reddit.com/r/rust/comments/su2h4v/clap_31_a_step_towards_40/))
 - [fncmd](https://github.com/yuhr/fncmd) - Opinionated command line parser frontend that wraps around clap.
 - [dialoguer](https://github.com/mitsuhiko/dialoguer) - Rust utility library for nice command line prompts and similar things.
 - [Abscissa](https://github.com/iqlusioninc/abscissa) - Microframework for building Rust applications (either CLI tools or network/web services).
-- [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
 - [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust.
 - [StructOpt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
 - [pico-args](https://github.com/RazrFalcon/pico-args) - Ultra simple CLI arguments parser.
@@ -890,6 +890,7 @@
 - [autobox](https://github.com/insanitybit/autobox) - Compile time analysis for runtime sandboxing.
 - [Inter-Struct](https://github.com/Nukesor/inter-struct) - Automatically generated traits for operations between arbitrary structs.
 - [structmap](https://github.com/ex0dus-0x/structmap) - Procedural macro crate for conversion between Rust structs and associative containers.
+- [mixin](https://github.com/DenisKolodin/mixin) - Macros that combine fields and implementations of different structs.
 
 ## Math
 

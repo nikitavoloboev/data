@@ -36,6 +36,8 @@ Having said all of above, I think the most effective approach is having a great 
 6. Smell nice. Look after yourself.
 7. Be interested and fascinated by your partner genuinely. Be happier together.
 
+Few other small but important things are to show your romantic interest [through actions and not words](https://www.reddit.com/r/seduction/comments/yo8w7s/im_a_24_year_old_virgin_girls_are_attracted_to_me/ivfeigw/). If you see the vibe is not mutual, [cut your losses early and move on](https://www.reddit.com/r/seduction/comments/yolc53/the_brutal_selection_process_that_all_men_have_to/).
+
 ## Notes
 
 - [Play to win, not to lose. That is focus on the wins, disregard/learn from the losses. Commit to it. Let go and do it for yourself above all. Don't focus on results, focus on having fun. Set your goals and enjoy the process. Fully let go.](https://www.youtube.com/watch?v=9WHNU520SvU)
