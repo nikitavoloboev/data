@@ -6,6 +6,8 @@ It also taught me about importance of independence in all aspects. Your feelings
 
 Being honest with your intentions together with awareness that the worst cases that can happen will often have no affect on your life at the end of the day brings confidence. Confidence in knowing that everything is a learning opportunity and that life is a matter of [maximizing future positive outcomes](https://twitter.com/waitbutwhy/status/1367871165319049221).
 
+People like you if you make them feel better. If things are progressing nicely in conversation, you can show your interest romantically. [Through actions. Not words.](https://www.reddit.com/r/seduction/comments/yo8w7s/im_a_24_year_old_virgin_girls_are_attracted_to_me/ivfeigw/). If you see the vibe is not mutual, [cut your losses early and stop romantic pursuits for the person](https://www.reddit.com/r/seduction/comments/yolc53/the_brutal_selection_process_that_all_men_have_to/). Don't get fixated on any single person despite how you feel about them in the moment. Emotions are powerful thing and only time and [mindfulness](../mindfulness/mindfulness.md) solves it. So give it time and still connect with any person you find interesting. 
+
 That is the mental side of this at least. If you have this covered and [look and feel great](https://www.youtube.com/watch?v=eamhOiWmUro) (look after yourself by [eating well](../health/nutrition/nutrition.md) (whole foods, no sugar), [exercising](fitness/fitness.md), look after your [skin](../health/skin-care.md)). There are more practical things you can do to get better. The most important thing is making new approaches (respectful and understanding of the setting) and learning from each experience. And that doesn't mean flirting with everyone. It's simply getting to know everyone and showing your interest if there is one.
 
 Nowadays most everyone meets online. This makes cold approaches such as approaching a man/woman on the street to say you find them interesting/cute more effective as most/everyone will be surprised and most often pleasantly so unless they are very busy or in some bad mood and thus will be annoyed. And in such worst case, they will let you know this quickly so cut the communication and apologize if need be.
@@ -35,8 +37,6 @@ Having said all of above, I think the most effective approach is having a great 
 5. Show love.
 6. Smell nice. Look after yourself.
 7. Be interested and fascinated by your partner genuinely. Be happier together.
-
-Few other small but important things are to show your romantic interest [through actions and not words](https://www.reddit.com/r/seduction/comments/yo8w7s/im_a_24_year_old_virgin_girls_are_attracted_to_me/ivfeigw/). If you see the vibe is not mutual, [cut your losses early and move on](https://www.reddit.com/r/seduction/comments/yolc53/the_brutal_selection_process_that_all_men_have_to/).
 
 ## Notes
 

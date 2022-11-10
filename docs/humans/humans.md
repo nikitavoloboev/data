@@ -6,6 +6,8 @@ I have many interests and I find studying and looking into people who have spent
 
 I maintain a list of [awesome humans](https://github.com/learn-anything/humans) across different disciplines.
 
+I am trying to meet as many people I find interesting as possible to get to know them more. I find what many [podcasters](../podcasts/podcasts.md) are doing with publishing open interviews like the famoux [Lex Friedman](https://www.youtube.com/c/lexfridman/videos) fascinating. Reaching out cold to people you admire is nearly always a good idea especially if you have something actionable in mind, like advice or opportunity to discuss. And if you don't, a simple compliment goes a long way. In the end of the day, [people will never forget how you made them feel](https://www.compass-usa.com/how-you-made-them-feel/).
+
 ## Interesting interviews
 
 - [Tools & Craft Podcast: Andy Matuschak](https://www.youtube.com/watch?v=bcrcaTuvpBk)

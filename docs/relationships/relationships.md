@@ -52,7 +52,7 @@ With respect to talking to new people and continuing and maintaining interest in
 
 I also share [my thoughts on finding romantic partners](seduction.md). One fun thing to do with your partner is to do a [fictional character test and guess who got who for a show](https://twitter.com/dan_abramov/status/1523104608973103104).
 
-[The grass is greener where you water it](https://www.reddit.com/r/Divorce/comments/qsdymo/the_grass_is_greener_where_you_water_it/). Say and show love to people you love. Sometimes, you have to know when to let go and quit.
+[The grass is greener where you water it](https://www.reddit.com/r/Divorce/comments/qsdymo/the_grass_is_greener_where_you_water_it/). Say and show love to people you love. However if you don't feel amazing when spending time with your partner and/or you fight for same reasons, it's time to move on. People and interests change. It will be better for both of you in the end. Let past go. No such thing as wasted time, just [lessons learned](../focusing/rules.md#life). Just never burn your bridges! Try leave on good terms, as much as possible.
 
 [The Proust Questionnaire](https://www.vanityfair.com/magazine/2000/01/proust-questionnaire) has nice questions to get to know a person.
 
