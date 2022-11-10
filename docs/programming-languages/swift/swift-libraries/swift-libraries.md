@@ -1395,3 +1395,4 @@
 - [Swift dependency graph](https://github.com/adam-fowler/swift-dependency-graph) - Visualization of swift package dependencies.
 - [ExtensionKit](https://developer.apple.com/documentation/extensionkit) - Create executable bundles to extend the functionality of other apps by presenting a user interface. ([HN](https://news.ycombinator.com/item?id=33409558))
 - [Loco](https://github.com/konrad1977/loco) - Fast CLI linter for Localization.strings and swift files.
+- [Swift CI](https://github.com/BinaryBirds/CI) - Swift + Continuous Integration service.

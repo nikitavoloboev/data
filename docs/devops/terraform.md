@@ -207,3 +207,4 @@ title: Terraform
 - [Akamai Provider for Terraform](https://github.com/akamai/terraform-provider-akamai)
 - [Terraform mock Provider](https://github.com/hashicorp/terraform-provider-mock) - Used to configure and test Terraform configuration edge cases and output.
 - [Terraform Provider for MinIO](https://github.com/aminueza/terraform-provider-minio)
+- [Terraform-diff](https://github.com/contentful-labs/terraform-diff) - Detect what Terraform projects have changed when changes are made to Terraform modules.

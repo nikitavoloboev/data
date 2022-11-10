@@ -2,7 +2,7 @@
 
 [Limassol](https://en.wikipedia.org/wiki/Limassol) is an amazing city. I especially love the sea food there. [Ocean Baskets](https://cyprus.oceanbasket.com/) has many nice chains with great food. Many Russians in Limassol too.
 
-Being a Cypriot citizen, I hope Cyprus joins US Visa Waiver program finally.
+Being a Cypriot citizen, I hope Cyprus joins [US Visa Waiver](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html) program finally.
 
 ## Notes
 

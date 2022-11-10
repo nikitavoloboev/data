@@ -96,6 +96,7 @@
 - [Kotlin-Kafka](https://github.com/nomisRev/kotlin-kafka) - Kafka bindings for Kotlin `suspend`, and Kafka streaming operators for KotlinX Flow.
 - [Kotlin Wrappers](https://github.com/JetBrains/kotlin-wrappers) - Kotlin wrappers for popular JavaScript libraries.
 - [OPENRNDR](https://github.com/openrndr/openrndr) - Kotlin/JVM library for creative coding, real-time and interactive graphics.
+- [Polyhedra Explorer](https://github.com/elizarov/PolyhedraExplorer) - Interactive polyhedra explorer with animated transformations.
 
 ## Links
 

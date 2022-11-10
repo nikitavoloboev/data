@@ -1,14 +1,18 @@
 # Fitness
 
-I try to do some daily bodyweight exercises in form of sit-ups & pushups and cardio usually by [cycling](../travel/transportation/cycling.md).
+I try to do some daily [bodyweight exercises](strength-training.md) in form of squats, pushups, pull ups, dips and sit-ups. I also do cardio usually by [cycling](../travel/transportation/cycling.md) or prolonged walking and sometimes [running](running.md).
 
 I listen to [podcasts](../podcasts/podcasts.md) during any kind of exercise. Unless I am playing with someone. My favorite sports are Tennis and Football. And skiing/snowboarding when season is right.
 
-I try to not sit for prolonged times (by using a standing desk or taking breaks). Going on walks or cycling for a bit always resets my mind.
+I try to [not sit for prolonged times](../health/ergonomics.md) (by using a standing desk or taking breaks). Going on walks or cycling for a bit always resets my mind.
 
 [Sergey Kharkow](https://www.instagram.com/sergeykharkow/) has the ideal body type in my eyes but it's a lot of effort to get/maintain it. [Fitness Wiki](https://thefitness.wiki/) is a [great read](https://www.reddit.com/r/leangains/comments/uwqhu1/how_do_i_go_from_skinny_fat_to_a_lean_build/).
 
 [Andy Galpin's interview](https://www.youtube.com/watch?v=IAnhFUUCq6c&t=500s) is insightful. [Huberman's fitness program](https://twitter.com/hubermanlab/status/1584198119083810816) is great.
+
+The biggest thing to keep in mind when doing workouts is to train until muscle exhaustion and doing it in good form (so as to not get injuries or imbalances of muscle groups trained). That's why I prefer [calisthenics](https://en.wikipedia.org/wiki/Calisthenics) over any kind of exercise as full body weight exercises train many parts of your body at once.
+
+Most importantly I try to keep my back muscles in shape as due to nature of my work, I do sit for prolonged times even when I try to minimize it. Better back muscles means less slouching.
 
 ## Notes
 

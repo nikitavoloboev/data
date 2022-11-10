@@ -476,3 +476,4 @@ Awesome List
 - [GitHub Scraper](https://github.com/nelsonic/github-scraper) - Crawl GitHub web pages for insights we can't GET from the API.
 - [GitHub WebSocket API](https://github.com/Hacksore/github-websocket-api) - Reverse engineering the GitHub WebSocket API.
 - [GitHub code search](https://github.com/features/code-search) ([Tweet](https://twitter.com/MaximeDeGreve/status/1590415616921698305))
+- [Hub Next | Hey, GitHub!](https://githubnext.com/projects/hey-github/) - Use your voice to code with GitHub Copilot. ([HN](https://news.ycombinator.com/item?id=33543946))

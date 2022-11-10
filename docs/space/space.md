@@ -2,7 +2,7 @@
 
 [SEA](https://www.youtube.com/c/SEAmedia/videos) does lots of fascinating videos on space. [The End of Everything Book](https://www.astrokatie.com/book) is great.
 
-[Orbital Index](https://orbitalindex.com/) is nice way to stay up to date on all things space.
+[Orbital Index](https://orbitalindex.com/) is nice way to stay up to date on all things space. Fascinated by what [SpaceX](https://www.spacex.com/) and their [Starlink](https://www.starlink.com/) project are doing.
 
 ## Notes
 

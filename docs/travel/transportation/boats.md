@@ -1,5 +1,9 @@
 # Boats
 
+Would love to try live on a boat one day. [100 Rabbits](https://100r.co/site/home.html) are inspirational in that they do [live on a boat and still manage to make some amazing software and art](https://www.youtube.com/watch?v=BW32yUEymvU).
+
+Only issue is that I can't imagine going without internet for long periods of time so something like [Starlink Maritime](https://www.starlink.com/maritime) would be ideal to get fast internet still wherever my boat stays. Only issue is that it's very expensive for personal use.
+
 ## Notes
 
 - [Catamaran are much more livable (more space) than other boats.](https://twitter.com/maccaw/status/1550160798411919361)

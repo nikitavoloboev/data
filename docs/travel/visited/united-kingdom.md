@@ -1,5 +1,7 @@
 # United Kingdom
 
+London and Edinburgh are few of my favorite cities I've been in. Might move to UK again at some point and work towards getting a UK passport.
+
 ## London
 
 - [Psychedelic Society London coworking space](https://psychedelicsociety.org.uk/coworking)

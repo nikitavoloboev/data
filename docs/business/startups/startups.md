@@ -6,6 +6,8 @@
 
 [YC Startup Directory](https://www.ycombinator.com/companies) is a nice thing to go over to get inspired for things to build. Need to [be bold with trying all kinds of ideas](https://twitter.com/FoundersPodcast/status/1581803172879749121).
 
+[Try many ideas. Many will fail, some will succeed. The goal is to find the right mix of successful changes to ensure the long-term health and growth of the business.](https://twitter.com/esthercrawford/status/1590386711179464705)
+
 ## Notes
 
 - [Put a price on it](https://www.youtube.com/watch?v=0CDXJ6bMkMY). And sell.

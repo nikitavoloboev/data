@@ -1,10 +1,10 @@
 # United States
 
-Would love to live/move to US one day but [they don't make it easy](https://twitter.com/Noahpinion/status/1520132242672029696). Most great companies like Apple, Tesla or Google mostly hire in US only and there is just too many great people that operate solely from US.
+Would love to visit or maybe live in US one day but [they don't make it easy](https://www.youtube.com/watch?v=Uksw7zrFr4A) due to [odd politics choices](https://twitter.com/Noahpinion/status/1520132242672029696). 
+
+Most great companies like Apple, Tesla or Google mostly hire in US only and there are just too many great people that operate solely from US. This is changing however as more companies embrace the benefits of whole company being [remote and async communication first](../../work/remote-work.md) so there are less and less reasons to actually immigrate to US if you have a passport that lets you stay there visa free for multiple months. You get all the benefits of meeting anyone you want within US, seeing places and everything but more importantly won't have the burden of having a US passport with which you will be [taxed globally no matter what country you stay in](https://www.youtube.com/watch?v=PSJEwxV2QQ8).
 
 I try to avoid pointless politics as much as possible but do like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mearsheimer), [George Friedman](https://twitter.com/george_friedman) & [Squirrel](https://twitter.com/zei_squirrel)'s analysis in regards to US foreign policy.
-
-Getting US passport does sound great in theory but the fact that you have to then pay US tax no matter the country you live is kind of insane as clearly presented by [Nomad Capitalist](https://www.youtube.com/c/nomadcapitalist/videos).
 
 ## Notes
 
@@ -18,7 +18,7 @@ Getting US passport does sound great in theory but the fact that you have to the
 - [One of the things that boggles my mind about living in the US is how deeply individualism permeates every aspect of life. there’s no sense of community or a relational identity, really. It’s just every person onto their own at the end of the day. It’s very sad.](https://twitter.com/most_opppressed/status/1516802246087950338)
 - ["Democracy" in America is and has always been "government by capital". The original idea was that private wealth should drive government rather than family nobility. That's why only landowners voted, that's why the 3/5 compromise, etc.](https://twitter.com/izs/status/1521467530098864128)
 - [Majority of our food in the US is terrible for you](https://twitter.com/Austen/status/1566172574236565504)
-- With [EB-5 visa](https://www.uscis.gov/working-in-the-united-states/permanent-workers/eb-5-immigrant-investor-program), I can either do either [passive or active investment](https://www.youtube.com/watch?v=orVtSuGpuu8). Active is 1 million US dollars invested in my own startup in US with promise of creating 10 jobs within 2 years after approval of green card.
+- With [EB-5 visa](https://www.uscis.gov/working-in-the-united-states/permanent-workers/eb-5-immigrant-investor-program), I can either do either [passive or active investment](https://www.youtube.com/watch?v=orVtSuGpuu8). Active is ~ 1 million US dollars invested in my own startup in US with promise of creating 10 jobs within 2 years after approval of green card.
 
 ## Links
 
@@ -172,3 +172,4 @@ Getting US passport does sound great in theory but the fact that you have to the
 - [America – Road Trip Simulator](https://4m3ric4.com/) ([HN](https://news.ycombinator.com/item?id=33217395))
 - [4 ways to immigrate from EU to USA (2022)](https://www.youtube.com/watch?v=orVtSuGpuu8)
 - [What happened to the U.S. economy since the end of World War II (2021)](https://collabfund.com/blog/how-this-all-happened/)
+- [O-1 Visa USA vs UK Global Talent Visa: What’s better (2022)](https://www.youtube.com/watch?v=Uksw7zrFr4A)

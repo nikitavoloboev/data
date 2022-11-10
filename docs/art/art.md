@@ -316,6 +316,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 
 ## Photography
 
+- [Mariam Sitchinava](https://www.instagram.com/mariamsitchinava/)
 - [Emilio Morenatti](https://www.instagram.com/emilio_morenatti/) ([Twitter](https://twitter.com/EmilioMorenatti))
 - [Koleso Sobaki](https://www.instagram.com/koleso_sobaki/)
 - [Bruce Weber](https://www.instagram.com/bruce_weber/)

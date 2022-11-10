@@ -152,3 +152,4 @@ title: Formal verification
 - [Keynote: Formal Methods at Microsoft - Nikolaj Bjørner (2022)](https://www.youtube.com/watch?v=GEsvGGp0jyQ)
 - [Obtaining Statistical Properties by Simulating Specs with TLC - Jack Vanlightly and Markus A. Kuppe (2022)](https://www.youtube.com/watch?v=cYenTPD7740&t=4s)
 - [Verifying GCC optimizations using an SMT solver (2022)](https://kristerw.github.io/2022/11/01/verifying-optimizations/) ([HN](https://news.ycombinator.com/item?id=33433918))
+- [Tamarin](https://github.com/tamarin-prover/tamarin-prover) - Security protocol verification tool that supports both falsification and unbounded verification in the symbolic model. ([Web](https://tamarin-prover.github.io/))

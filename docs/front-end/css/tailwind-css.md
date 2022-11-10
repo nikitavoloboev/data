@@ -171,3 +171,4 @@ title: Tailwind CSS
 - [TailwindCSS Container Queries](https://github.com/tailwindlabs/tailwindcss-container-queries)
 - [Tru Narla: Building a design system in Next.js with Tailwind (2022)](https://www.youtube.com/watch?v=T-Zv73yZ_QI)
 - [JIT Browser TailwindCSS](https://github.com/mhsdesign/jit-browser-tailwindcss)
+- [Tailwind Components Gradient Generator](https://github.com/tailwindcomponents/gradient-generator)
