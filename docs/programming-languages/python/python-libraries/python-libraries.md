@@ -1043,6 +1043,7 @@
 - [Discrete Optimization](https://github.com/airbus/discrete-optimization) - Python library to ease the definition and re-use of discrete optimization problems and solvers.
 - [ducks](https://github.com/manimino/ducks) - Indexes your Python objects for fast lookup by their attributes.
 - [bistring](https://github.com/microsoft/bistring) - Bidirectionally transformed strings.
+- [stqdm](https://github.com/Wirg/stqdm) - Simplest way to handle a progress bar in streamlit app.
 
 ## Notes
 

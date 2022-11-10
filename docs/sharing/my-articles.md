@@ -1,5 +1,9 @@
 # My articles
 
+I stopped writing articles in 2018 as I focused heavily on [updating this wiki](../other/wiki-workflow.md) instead. It's hard to make a compelling argument to write an article over an entry in a wiki as wiki is a constantly evolving corpus of knowledge but article often quickly becomes outdated as you learn new things and change your approach.
+
+Articles are wrote are listed below, I may move them from Medium at some point as it's hard to check for dead links, make changes to them now.
+
 ## Tools
 
 - [Karabiner God Mode (2018)](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6) - Use Karabiner to take your use of mac to the next level.
