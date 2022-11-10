@@ -16,9 +16,11 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 - [Sublime Text](../text-editors/sublime-text/sublime-text.md) - Edit markdown (wiki, articles).
 - [Vim](../text-editors/vim/vim.md) - Edit my [Karabiner](../macOS/apps/karabiner/karabiner.md) config with it.
 - [Xcode](../macOS/apps/xcode/xcode.md) - Swift/SwiftUI.
+- [Dash](https://kapeli.com/dash) to search docs.
 
 ## Tasks
 
+- [Height](https://height.app) - Project tasks. Personal [goals](../focusing/goals.md)/ideas tracking.
 - [2Do](../macOS/apps/2do.md) - Personal tasks. Every task is actionable, tagged appropriately and sorted by priority.
 - [GitHub](../open-source/github/github.md) - Issues/PRs for projects I care about.
 
@@ -30,6 +32,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 ## Chat
 
 - [Telegram](../tools/telegram.md) - Best native messenger with great stickers.
+- [Discord](../tools/discord.md) - Bigger communities.
 
 ## Video
 
@@ -41,6 +44,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 - [Articles](my-articles.md) - Long form writing.
 - [Curated lists](https://github.com/learn-anything/curated-lists)
 - [Looking back](../looking-back/looking-back.md) - Public log of things I made & thought about. Reflect on the past to grow.
+- [Dictionary macOS app](https://support.apple.com/en-gb/guide/dictionary/welcome/mac) - Search wiki fast.
 
 ## Search
 
@@ -107,11 +111,11 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 - [Excalidraw](https://excalidraw.com/) - Quick sketches, thinking things through.
 - [Luma](https://lu.ma/) - Organizing online & IRL events. Sending newsletter updates for events.
 
-## React
+## Solid
 
-- State - useState (local data updates), [XState](../tools/xstate.md) for more complex state.
-- Queries - [React Query](https://react-query.tanstack.com/)
-- GraphQL - [Urql](https://github.com/FormidableLabs/urql)
+- State - [createSignal](https://www.solidjs.com/docs/latest/api) & [Effector](../programming-languages/typescript/typescript-libraries/effector.md) for complex state.
+- Queries - [Solid Query](https://tanstack.com/query/v4/docs/adapters/solid-query)
+- GraphQL - [Urql](https://github.com/tqwewe/solid-urql)
 
 ## Web
 

@@ -1,6 +1,8 @@
 # Funding
 
-[Party Round](https://partyround.com/) is nice.
+I believe crowd funding to be best way to raise money for something. As compared to raising [venture capital](venture-capital.md) even though VC can open many doors through connections. Nowadays if product is good and you sell the vision well, you can crowd fund enough to keep you going and not be on whim of absurd growth numbers. 
+
+[Party Round](https://partyround.com/) is a nice tool for crowd funding.
 
 ## [VC](venture-capital.md)
 

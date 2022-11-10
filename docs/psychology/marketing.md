@@ -6,6 +6,8 @@ Think [Poolsuite](https://poolsuite.net/) does marketing incredibly well. All th
 
 One way to do launches with possible virality is rewarding people who retweet with potential to win some amazing reward [like life time subscription](https://twitter.com/thekitze/status/1144147293786005504).
 
+Best way to do marketing is simply [launching features often and sharing updates through multiple channels](https://www.producthunt.com/discussions/i-m-alex-maccaw-founder-of-clearbit-and-reflect-ask-me-anything) (Twitter/Email are most effective). As well as making teaching content via nicely readable shareable docs or videos.
+
 ## Nice ads
 
 - [Kyrö Distillery: Presented by a naked man](https://www.youtube.com/watch?v=6Q35akNanEs)

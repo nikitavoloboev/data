@@ -8,19 +8,29 @@
 4. Work on solving each part one by one. No distractions. Get rid of parts that are non essential.
 5. Optimize. Document. Share solution.
 
-## 1. Find what the problem is
+## 1. What are you trying to solve? Define the problem well.
 
-Most often the difficulty of solving some task is simply due to it not being clearly expressed for me. I get the majority the tasks I work on from my task manager [2Do](../macOS/apps/2do.md), GitHub issues and `TODO:`'s in the code. And I make sure that I understand fully well what the problem actually is before solving it.
+I use [Height](https://height.app) for all my project and personal tasks/ideas I work on.
 
-## 2. Break the problem down to smaller parts
+In there I clearly define the subtasks and all the necessary information. Just lay it all out. If something is not yet clear, think it through alone or with like minded friends in [Excalidraw](https://excalidraw.com/). High level diagrams.
 
-Once I found and understand what it is I want to solve. I look into it more and see if I can try to break down the problem into smaller parts I can work on. Often times this might not be necessary and I can start working on the task immediately but in times when the task I need to solve is either hard or stated too vaguely, I break it down further into parts that I can pick up and work on individually.
+For personal tasks and keeping my brain fresh of memorizing things, I use [2Do](../macOS/apps/2do.md), GitHub issues and `TODO:`'s in the code. Write anything that comes to mind that's of value, always! Don't keep non directly actionable things in your brain RAM. Only thing you should keep in your brain RAM is the actual problem or subtask of the big problem you are solving.
 
-Usually I break things down using [MindNode](../macOS/apps/mindnode.md). I break down a problem into series of steps I can approach solving and then go through each of the steps to solve what I originally wanted to solve, modifying and adjusting things in light of newly found insights.
+Going on walks or having naps and even relaxing with friends whilst still having the problem at back of your mind is super useful as your brain is actually [processing the problem in background and can give you novel insights](https://www.youtube.com/watch?v=f84n5oFoZBc).
+
+Just try to be clear of what you're solving and why!
+
+## 2. Break the problem down to essential and smaller parts.
+
+As mentioned, I use Height for this now and its subtasks feature is lovely. Want to build a Height like app that sits on top of GitHub issues soon as that would be even better. 
+
+Most important part in this step is just to make sure that subtasks are all actionable. Sort by priority and then go at it, one by one.
+
+I like breaking things down more visually in [MindNode](../macOS/apps/mindnode.md) or [Excalidraw](https://excalidraw.com/). 
 
 ![](https://i.imgur.com/0HFwEZy.png)
 
-> It often looks like this. Where LA and epictools are two tasks/projects with subtasks.
+> Can look like this. Here LA and epictools are two tasks/projects with subtasks.
 
 ![](https://i.imgur.com/uzauKKU.png)
 
@@ -30,27 +40,43 @@ Usually I break things down using [MindNode](../macOS/apps/mindnode.md). I break
 
 > Can also use arrows with descriptions for more high level views. Above is example of [one brainstorming session](https://youtu.be/sB0DWq3PTDk).
 
-Often times I do the decoupling of the task inside the app I am working in itself, be it a code editor (as comments) or [2Do](../macOS/apps/2do.md) (as note).
+Often times I don't need to go this deep into sketching everything out. And just working in the code editor and outlining the task in Height/GitHub is enough. Or [2Do](../macOS/apps/2do.md) (as note).
 
-Other times I sketch problems out in [FigJam](https://www.figma.com/figjam/) or [Excalidraw](https://excalidraw.com/) collaboratively with others.
+[FigJam](https://www.figma.com/figjam/) and [Excalidraw](https://excalidraw.com/) are amazing as they allow you to collaborate on brainstorming together.
 
-Sometimes I doodle things on iPad with [Procreate](https://procreate.art/) or Notes apps.
+Sometimes I doodle small things on [iPad](../operating-systems/ios/ipad.md) with Notes apps.
 
-Most importantly, once you know what the actual problem you are trying to solve is, you have to make sure to remove any unneeded dependencies. If you don't truly need it, remove it! [Why Tesla removed Radar and Ultrasonic sensors](https://www.youtube.com/watch?v=_W1JBAfV4Io) is nice overview of this in action.
+If through this process, you find some part of solving the task, not useful or unneeded, remove it! [Why Tesla removed Radar and Ultrasonic sensors](https://www.youtube.com/watch?v=_W1JBAfV4Io) is nice overview of this in action.
 
-## 3. Work on solving the task and nothing else
+Minimal viable working thing first!
 
-I make sure to do the one task I have at hand with no distractions.
+## 3. Prioritize order of solving the parts. Do necessary research.
 
-## 4. Solve the problem
+In this part, assuming you have things in order and well defined (as much as possible). And you did necessary [research](research.md), is this problem already solved by someone? Can we just use it or integrate? 
 
-As mentioned in [research](research.md), I mostly use Google for searching mixed in with DuckDuckGo. I heavily use Dash for documentation and Dictionary for searching the wiki. I also use IRC and various forums specific to the problem I am solving.
+For research, I do Google searches. Search [Reddit](../tools/reddit.md), [HN](https://hn.algolia.com/), [Twitter](../tools/twitter.md) for convos around the topic/problem. Note things.
 
-I often remind myself of [how to effectively ask questions](asking-questions.md) so as to respect other people's time and maximize chances of getting a good answer.
+## 4. Work on solving each part one by one. No distractions. Get rid of parts that are non essential.
 
-Sometimes I already know the answer given my past experience without conducting help outside and the only thing left is to apply the solution I have.
+If there are no viable solutions already for the problem. Do the work to solve it!
 
-In some cases, a problem may be complex enough that it needs time thinking more about it. Researching various possible solutions and things you could use. And playing with possible solutions and ideas in your head until you reach something worthwhile you can spend time implementing. [This talk](https://www.youtube.com/watch?v=f84n5oFoZBc) by Rich Hickey covers this point quite well.
+Each subtask, one by one. No distractions during work focus sessions.
+
+I use [great tools](../sharing/my-workflow.md) to make the process of solving tasks as smooth/fast as possible.
+
+Know [how to effectively ask questions](asking-questions.md) so as to respect other people's time and maximize chances of getting a good answer.
+
+## 5. Optimize. Document. Share solution.
+
+Once you have your first working solution that solves the thing. You can start optimizing the solution, if you actually need the optimization! 
+
+Then document everything related to it, hopefully you also documented the process of building too. Especially why certain key decisions were made in certain parts of design/solution.
+
+And share it! Most fun part as you can then get even more feedback. Can also start sharing early to get early feedback or help with the research part of solution seeking.
+
+--
+
+As far as knowing how to prioritize on what to work on. [Minimizing regret](https://www.youtube.com/watch?v=jwG_qR6XmDQ) is always a good mental model for choosing problems to solve. Will I still be worried about this a year from now? If so, it's probably important and worth worrying about and solving. If not, let it go and move on. Better side on [making decisions](../psychology/decision-making.md) and reversing in light of new knowledge than falling victim to fear or risk.   
 
 ## Notes
 

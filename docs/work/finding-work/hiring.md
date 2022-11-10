@@ -1,5 +1,9 @@
 # Hiring
 
+Best and easiest hires are ones you know do good work in field you working on. Usually through seeing their OSS work. You can start working immediately and after first month, you should know if you can work together or not. Make onboarding and work processes as smooth as possible. Async communication and lots of good docs for common questions with well defined tasks or vision.
+
+It's good idea to fund people who work on tools/libraries you use in your startup. Can fund consultant help from them or even hire them on longer term basis too.
+
 ## Recruitment tests
 
 - [Frontier's full stack take home](https://github.com/BeFrontier/fullstack-takehome)

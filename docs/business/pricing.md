@@ -2,6 +2,8 @@
 
 Like tools that [let you try the app without being forced to pay first](https://twitter.com/ben_issen/status/1588842302919045121). [SaaS Pricing Strategy](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf) is a good read.
 
+Don't be afraid to charge more for good products as they get better. Especially if there is not much competition for what you provide of quality. Just [sell the features ](../psychology/marketing.md) and future vision well. 
+
 ## Nice pricing pages
 
 - [Fathom](https://app.usefathom.com/register)

@@ -97,3 +97,4 @@
 - [Bad idea to document lives of your young kids on their behalf on social media](https://twitter.com/LuizaJarovsky/status/1586428167647948800)
 - [What's up with fertility? (2022)](https://twitter.com/Willyintheworld/status/1587243198707023872)
 - [Ask HN: I will become a father tomorrow, what advice could you share with me? (2022)](https://news.ycombinator.com/item?id=33490250)
+- [What's you approach to figuring out if you're on the same page about kids?](https://www.reddit.com/r/datingoverthirty/comments/yqrvzt/whats_you_approach_to_figuring_out_if_youre_on/)
