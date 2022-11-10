@@ -16,6 +16,8 @@ Go promotes composition over inheritance.
 
 Only thing I dislike about Go is it's verbosity especially with respect to errors. But that decision was made so all programmers are forced to not only consider the happy paths of their code & write proper error logging.
 
+That said, I am exploring writing more code in [Rust](../rust/rust.md) specifically because of [Tauri](../rust/rust-libraries/tauri.md).
+
 ## Commenting Go code
 
 - Comments documenting declarations should be full sentences.
