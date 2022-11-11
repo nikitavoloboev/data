@@ -91,3 +91,4 @@ title: Mastodon
 - [Awesome Mastodon](https://github.com/tleb/awesome-mastodon)
 - [Toot](https://github.com/ihabunek/toot) - Mastodon CLI client.
 - [How Mastodon Search Works: Why Can You Only Use Hashtags? (2022)](https://midrange.tedium.co/issues/how-mastodon-search-works/)
+- [Prometheus Exporter for Mastodon](https://github.com/systemli/prometheus-mastodon-exporter)

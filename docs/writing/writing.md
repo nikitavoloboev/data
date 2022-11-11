@@ -4,7 +4,7 @@ I love writing. It is incredibly empowering. The sheer fact that I can actually 
 
 Paul Graham wrote a wonderful article titled [_Write like you talk_](http://www.paulgraham.com/talk.html) and I agree with it wholeheartedly. In my opinion these are the main pillars on which I try to build my writing skills upon.
 
-Tools like [Lex](https://lex.page/) or [Careful Words](https://carefulwords.com/) are great.
+Tools like [Lex](https://lex.page/) or [Careful Words](https://carefulwords.com/) are great. I love writing of [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine).
 
 ## Honesty
 
@@ -306,3 +306,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Moonbeam](https://www.gomoonbeam.com/) - Moonbeam's AI will give you everything you need to write killer long form content.
 - [Write Like You Talk (2015)](http://paulgraham.com/talk.html) ([HN](https://news.ycombinator.com/item?id=33308393))
 - [Just Don’t (2022)](https://www.tbray.org/ongoing/When/202x/2022/11/07/Just-Dont) ([HN](https://news.ycombinator.com/item?id=33518496))
+- [Dev Writer's Workshop](https://github.com/Nutlope/devwriting)

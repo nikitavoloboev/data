@@ -423,3 +423,4 @@ title: ML Libraries
 - [AutoOED](https://github.com/yunshengtian/AutoOED) - Automated Optimal Experimental Design Platform.
 - [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) - Tool for predicting the accuracy of Deep Neural Networks.
 - [Web Neural Network API samples](https://github.com/webmachinelearning/webnn-samples)
+- [SparseTIR](https://github.com/uwsampl/sparsetir) - Sparse Tensor Compiler for Deep Learning.

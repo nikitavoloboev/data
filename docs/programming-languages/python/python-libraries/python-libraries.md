@@ -1047,6 +1047,7 @@
 - [bistring](https://github.com/microsoft/bistring) - Bidirectionally transformed strings.
 - [stqdm](https://github.com/Wirg/stqdm) - Simplest way to handle a progress bar in streamlit app.
 - [mundipy](https://github.com/BuntingLabs/mundipy) - Python framework for spatial data manipulation.
+- [Slicerator](https://github.com/soft-matter/slicerator) - Lazy-loading, fancy-slicable iterable.
 
 ## Notes
 

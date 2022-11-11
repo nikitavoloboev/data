@@ -24,7 +24,7 @@ title: Tauri
 ## Notes
 
 - [You can make use of Go or any other language by making HTTP server in them. Then deploying the Tauri app with local server running. Latency into calling HTTP server is negligible. Even faster than built-in ipc.](https://discord.com/channels/616186924390023171/731495028677148753/1040040229626716230)
-- [Setting up WebSocket connection of Tauri <> Front End is valid option for faster frontend to backend communication than the current IPC allows when you use commands.](https://discord.com/channels/616186924390023171/731495028677148753/1040752725719253032)
+- [Setting up WebSocket connection between Tauri & Front End is valid option for faster frontend to backend communication than the current IPC allows when you use commands.](https://discord.com/channels/616186924390023171/731495028677148753/1040752725719253032)
 
 ## Links
 

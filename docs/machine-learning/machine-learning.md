@@ -973,3 +973,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Broken Neural Scaling Laws (2022)](https://arxiv.org/abs/2210.14891) ([Code](https://github.com/ethancaballero/broken_neural_scaling_laws))
 - [Failed Machine Learning](https://github.com/kennethleungty/Failed-ML) - Compilation of high-profile real-world examples of failed machine learning projects.
 - [Thoughts on my first machine learning project (2022)](https://www.holovaty.com/writing/machine-learning-thoughts/)
+- [Are You A Cat? ML learning project](https://github.com/MarinaWyss/are-you-a-cat)

@@ -989,3 +989,4 @@
 - [TAP-Vid: A Benchmark for Tracking Any Point in a Video (2022)](https://arxiv.org/abs/2211.03726) ([Code](https://github.com/deepmind/tapnet))
 - [StyleNAT: Giving Each Head a New Perspective (2022)](https://arxiv.org/abs/2211.05770) ([Code](https://github.com/SHI-Labs/StyleNAT))
 - [InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions (2022)](https://arxiv.org/abs/2211.05778) ([Code](https://github.com/OpenGVLab/InternImage))
+- [Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models (2022)](https://arxiv.org/abs/2211.05105) ([Code](https://github.com/ml-research/safe-latent-diffusion))

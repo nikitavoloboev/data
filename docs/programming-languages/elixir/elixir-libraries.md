@@ -73,6 +73,8 @@
 - [Timescale](https://github.com/bitfo/timescale) - TimescaleDB made easy with Ecto.
 - [AshPostgres](https://github.com/ash-project/ash_postgres) - PostgreSQL data layer for the Ash Framework.
 - [DataLoader](https://github.com/absinthe-graphql/dataloader) - Easy way efficiently load data in batches.
+- [Ecto.DevLogger](https://github.com/fuelen/ecto_dev_logger) - Alternative logger for Ecto queries.
+- [Ecto.ERD](https://github.com/fuelen/ecto_erd) - Mix task for generating Entity Relationship Diagram from Ecto schemas available in your project.
 
 ## Test
 

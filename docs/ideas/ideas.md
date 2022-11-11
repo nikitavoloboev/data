@@ -4,7 +4,7 @@ I share all ideas of things I want to build in [Notion](../sharing/my-notion.md)
 
 Currently I am focusing my time on building [Learn Anything](learn-anything.md).
 
-I try to give my full attention to any ideas I am working on.
+I try to give my full attention to any ideas I am working on. As well as [trying many things](https://twitter.com/levelsio/status/1457315274466594817). Everything I try build benefits me in some way.
 
 ![](https://i.imgur.com/CXLG4IY.jpg)
 
