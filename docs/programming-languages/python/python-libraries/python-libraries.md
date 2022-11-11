@@ -72,6 +72,7 @@
 - [aiosignal](https://github.com/aio-libs/aiosignal) - List of registered asynchronous callbacks.
 - [HTTPretty](https://github.com/gabrielfalcao/HTTPretty) - Intercept HTTP requests at the Python socket level. Fakes the whole socket module.
 - [nTorque](https://github.com/thruflo/ntorque) - Web hook task queue.
+- [HStream](https://github.com/conradbez/hstream) - Quick Python web apps. Streamlit alternative using htmx. ([HN](https://news.ycombinator.com/item?id=33547813))
 
 ## ML
 

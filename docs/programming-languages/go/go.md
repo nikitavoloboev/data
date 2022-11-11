@@ -898,3 +898,4 @@ if *boolArgPtr != false {
 - [Go Concurrency Patterns: Pipelines and cancellation (2014)](https://go.dev/blog/pipelines)
 - [How I write offline API tests in Go (2022)](https://www.youtube.com/watch?v=DjNERjqzILQ)
 - [A GC-Friendly Go Interning Cache (2022)](https://words.filippo.io/dispatches/certificate-interning/)
+- [Thirteen Years of Go (2022)](https://go.dev/blog/13years) ([HN](https://news.ycombinator.com/item?id=33557611))

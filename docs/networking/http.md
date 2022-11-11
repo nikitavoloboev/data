@@ -307,3 +307,4 @@ title: HTTP
 - [HTTP Workshop in 2022](https://github.com/HTTPWorkshop/workshop2022)
 - [Multihook](https://github.com/Trivernis/multihook) - Easy to configure webhook server.
 - [Eleven](https://github.com/eleven-sh/cli) - CLI to create code sandboxes with automatic HTTPS in your cloud provider account.
+- [Append data to the url query (2022)](https://daniel.haxx.se/blog/2022/11/10/append-data-to-the-url-query/) ([HN](https://news.ycombinator.com/item?id=33545786))

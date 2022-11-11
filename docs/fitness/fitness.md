@@ -12,7 +12,7 @@ I try to [not sit for prolonged times](../health/ergonomics.md) (by using a stan
 
 The biggest thing to keep in mind when doing workouts is to train until muscle exhaustion and doing it in good form (so as to not get injuries or imbalances of muscle groups trained). That's why I prefer [calisthenics](https://en.wikipedia.org/wiki/Calisthenics) over any kind of exercise as full body weight exercises train many parts of your body at once.
 
-Most importantly I try to keep my back muscles in shape as due to nature of my work, I do sit for prolonged times even when I try to minimize it. Better back muscles means less slouching.
+Most importantly I try to keep my back muscles in shape as due to nature of my work, I do sit for prolonged times even when I try to minimize it. Better back muscles means less slouching. [Yoga](yoga.md) is great for making back muscles stronger too. 
 
 ## Notes
 
