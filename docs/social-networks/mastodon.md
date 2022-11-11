@@ -87,3 +87,7 @@ title: Mastodon
 - [Masto.host](https://masto.host/) - Fully Managed Mastodon Hosting.
 - [Go-Mastodon](https://github.com/mattn/go-mastodon) - Mastodon client for Go.
 - [Scaling Mastodon in the Face of an Exodus (2022)](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/) ([HN](https://news.ycombinator.com/item?id=33562163))
+- [Rustodon](https://github.com/rustodon/rustodon) - Mastodon-compatible, ActivityPub-speaking server in Rust.
+- [Awesome Mastodon](https://github.com/tleb/awesome-mastodon)
+- [Toot](https://github.com/ihabunek/toot) - Mastodon CLI client.
+- [How Mastodon Search Works: Why Can You Only Use Hashtags? (2022)](https://midrange.tedium.co/issues/how-mastodon-search-works/)

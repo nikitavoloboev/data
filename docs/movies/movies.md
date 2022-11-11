@@ -152,3 +152,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [What is the best film from 2022 (So far) in your opinion?](https://www.reddit.com/r/Letterboxd/comments/ypzb4g/what_is_the_best_film_from_2022_so_far_in_your/)
 - [Movies that you messed up in the way that it makes you feel strange (2022)](https://www.reddit.com/r/MovieSuggestions/comments/yr2ue4/looking_for_a_movie_that_is_messed_up_in_the_way/)
 - [High art movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/yry0kz/looking_for_a_film_that_makes_you_say_wow_this_is/)
+- [Why Great Movies use the 60-30-10 Percent Color Rule](https://www.youtube.com/watch?v=CYRyaY-9F_g)

@@ -44,3 +44,4 @@ title: Differential equations
 - [Solving partial differential equations in parallel on GPUs (2021)](https://github.com/eth-vaw-glaciology/course-101-0250-00)
 - [The Lazy Way to Solve Differential Equations (2022)](https://iagoleal.com/posts/calculus-symbolic-ode/) ([HN](https://news.ycombinator.com/item?id=32191372))
 - [Linear Algebra & Differential Equations course (2022)](https://github.com/lin-lin/MATH54)
+- [PINO: Physics-informed Neural Operator for Learning Partial Differential Equation](https://github.com/devzhk/PINO)

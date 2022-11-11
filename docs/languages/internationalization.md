@@ -49,3 +49,4 @@
 - [mtranslate](https://github.com/mouuff/mtranslate) - Fully working Google Translate API for python.
 - [Texterify](https://texterify.com/) - Translation and Localization Tool. ([Code](https://github.com/texterify/texterify))
 - [Nice services for localizing apps](https://twitter.com/ChristianSelig/status/1584947296008949778)
+- [Inlang](https://github.com/inlang/inlang) - Git-based localization infrastructure for software.

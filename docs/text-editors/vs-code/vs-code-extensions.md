@@ -228,6 +228,7 @@ Below is a list of extensions I use.
 - [PyPI Assistant](https://marketplace.visualstudio.com/items?itemName=twixes.pypi-assistant) - Enables CodeLens + handy hover tooltips with PyPI package information in pip requirements. ([Code](https://github.com/Twixes/pypi-assistant))
 - [Python Web WASM](https://github.com/microsoft/vscode-python-web-wasm) - Run Python code in a Web browser using WebAssembly technology.
 - [Ruff](https://github.com/charliermarsh/vscode-ruff) - Support for the Ruff linter.
+- [PyScript extension](https://github.com/Hardeepsingh980/pyscript) - Beautiful syntax and scoped snippets for PyScript.
 
 ## Git
 

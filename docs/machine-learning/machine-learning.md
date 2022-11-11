@@ -840,7 +840,7 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [envd](https://github.com/tensorchord/envd) - Development environment for machine learning.
 - [Awesome Open Source MLOps](https://github.com/gaocegege/awesome-open-source-mlops)
 - [Generalised Implicit Neural Representations (2022)](https://arxiv.org/abs/2205.15674) ([Code](https://github.com/danielegrattarola/GINR))
-- [Diffusers](https://github.com/huggingface/diffusers) - Provides pretrained diffusion models across multiple modalities, such as vision and audio, and serves as a modular toolbox for inference and training of diffusion models.
+- [Diffusers](https://github.com/huggingface/diffusers) - Provides pretrained diffusion models across multiple modalities, such as vision and audio, and serves as a modular toolbox for inference and training of diffusion models. ([Fork](https://github.com/ShivamShrirao/diffusers))
 - [Lightning AI](https://lightning.ai/) - Use Lightning Apps to build everything from production-ready, multi-cloud ML systems to simple research demos.
 - [Latent World Models For Intrinsically Motivated Exploration (2020)](https://arxiv.org/abs/2010.02302) ([Code](https://github.com/htdt/lwm))
 - [Prioritized Training on Points that are Learnable, Worth Learning, and Not Yet Learnt (2022)](https://arxiv.org/abs/2206.07137) ([Code](https://github.com/OATML/RHO-Loss))

@@ -151,3 +151,4 @@ title: Racket
 - [lens](https://github.com/jackfirth/lens) - Racket package for creating and composing pure functional lenses.
 - [Fractalide](https://github.com/fractalide/fractalide) - Reusable Reproducible Composable Software.
 - [R-cade](https://github.com/massung/r-cade) - Retro Game Engine for Racket.
+- [raco-run](https://github.com/samdphillips/raco-run) - Easier running Racket submodules on the command line.

@@ -149,3 +149,4 @@ title: Speech recognition
 - [Gecko](https://github.com/gong-io/gecko) - Tool for Effective Annotation of Human Conversations. ([Web](https://gong-io.github.io/gecko/))
 - [OpenAI Whisper - CPU](https://github.com/MiscellaneousStuff/openai-whisper-cpu) - Improving transcription performance of OpenAI Whisper for CPU based deployment.
 - [Whispering](https://github.com/shirayu/whispering) - Streaming transcriber with whisper.
+- [Buzz](https://github.com/chidiwilliams/buzz) - Transcribe and translate audio offline on your personal computer. Powered by OpenAI's Whisper.

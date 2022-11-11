@@ -172,3 +172,4 @@ title: Tailwind CSS
 - [Tru Narla: Building a design system in Next.js with Tailwind (2022)](https://www.youtube.com/watch?v=T-Zv73yZ_QI)
 - [JIT Browser TailwindCSS](https://github.com/mhsdesign/jit-browser-tailwindcss)
 - [Tailwind Components Gradient Generator](https://github.com/tailwindcomponents/gradient-generator)
+- [TailwindCSS Radix UI](https://github.com/Idered/tailwindcss-radix-ui) - Style Radix UI components with TailwindCSS.
