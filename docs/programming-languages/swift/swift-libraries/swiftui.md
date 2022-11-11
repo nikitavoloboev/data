@@ -261,3 +261,4 @@ title: SwiftUI
 - [SwiftUI PropertyWrapper Talk](https://github.com/donnywals/SwiftUIPropertyWrapperTalk)
 - [UIKit Custom Annotation with Callout in SwiftUI (2022)](https://www.devtechie.com/community/public/posts/153857-uikit-custom-annotation-with-callout-in-swiftui)
 - [tundsdev - YouTube](https://www.youtube.com/c/tundsdev/videos) ([Code](https://github.com/tunds/YouTubeResources))
+- [Pin a view to the bottom of safe area in SwiftUI (2022)](https://nilcoalescing.com/blog/PinAViewToTheBottomOfSafeArea/)

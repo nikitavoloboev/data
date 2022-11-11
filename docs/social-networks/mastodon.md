@@ -86,3 +86,4 @@ title: Mastodon
 - [Mastodon on your own domain without hosting a server (2022)](https://blog.maartenballiauw.be/post/2022/11/05/mastodon-own-donain-without-hosting-server.html)
 - [Masto.host](https://masto.host/) - Fully Managed Mastodon Hosting.
 - [Go-Mastodon](https://github.com/mattn/go-mastodon) - Mastodon client for Go.
+- [Scaling Mastodon in the Face of an Exodus (2022)](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)

@@ -177,3 +177,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Spidey](https://github.com/tinrab/spidey) - Microservices and GraphQL based online store.
 - [Karma](https://www.karmanow.com/) - Best Coupons and Cash Rewards.
 - [Hydrogen UI](https://github.com/Shopify/hydrogen-ui) - Reusable components and utilities for building Shopify-powered custom storefronts.
+- [Nice options to sell digital art](https://twitter.com/Shpigford/status/1591085661481623553)

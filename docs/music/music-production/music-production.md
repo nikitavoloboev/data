@@ -455,3 +455,5 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [Modernizing my 1980s sound system (2022)](https://blog.yossarian.net/2022/11/07/Modernizing-my-1980s-sound-system) ([HN](https://news.ycombinator.com/item?id=33506765))
 - [What's your lyric/writing "process"? (2022)](https://www.reddit.com/r/WeAreTheMusicMakers/comments/yorylw/whats_your_lyricwriting_process/)
 - [Tame Impala's Kevin Parker Breaks Down His Favorite Drum Sounds](https://www.youtube.com/watch?v=BWv4TgvSPjM)
+- [A tale of two clocks (2013)](https://web.dev/audio-scheduling/)
+- [Advanced techniques: Creating and sequencing audio - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Advanced_techniques)

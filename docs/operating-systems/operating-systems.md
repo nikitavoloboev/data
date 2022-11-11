@@ -2,7 +2,7 @@
 
 I love using [macOS](../macOS/macOS.md) as my personal OS.
 
-And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-managers/nix/nix.md).
+And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-managers/nix/nix.md). [illumos](https://illumos.org/) is interesting too.
 
 [MIT OS Engineering](https://pdos.csail.mit.edu/6.S081/2020/schedule.html) (with [code](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)) & [Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com) courses are great. Many more nice resources can be [found here](https://twitter.com/bradfitz/status/1495066999587627011).
 
@@ -401,3 +401,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [KraftKit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
 - [Programmer's Guide | C64 OS](https://c64os.com/c64os/programmersguide/introduction)
 - [grace](https://github.com/liamg/grace) - Tool for monitoring and annotating syscalls for a given process.
+- [The Programmable Data Plane and the OS (2022)](https://ry.goodwu.net/architecture/the-programmable-data-plane-and-the-os/)

@@ -544,3 +544,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Apex](https://github.com/redhat-et/apex) - Provide connectivity between nodes deployed across heterogeneous environments.
 - [Higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway.
 - [Sabakan](https://github.com/cybozu-go/sabakan) - Versatile network boot server designed for large on-premise data centers.
+- [A Day in the Life of an IPv6 Packet on illumos (2022)](https://ry.goodwu.net/tinkering/day-in-the-life-of-a-v6-packet-on-illumos/)

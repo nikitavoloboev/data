@@ -39,6 +39,7 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Ruy Lopez](https://www.reddit.com/r/chess/comments/r8qdqq/can_someone_explain_why_the_ruy_lopez_is_so/)
 - [Danish Gambit](https://en.wikipedia.org/wiki/Danish_Gambit)
 - [Anna Cramling Asks The Candidates ”What Is The Most Fun Chess Opening”](https://www.youtube.com/watch?v=cTMnKiA5BTs)
+- [Sveshnikov Sicilian](https://chesspathways.com/chess-openings/sveshnikov-sicilian/) ([In action](https://youtu.be/37KQuu3P4pw?t=952))
 
 ## Notes
 
@@ -248,3 +249,4 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Levitov Chess - YouTube](https://www.youtube.com/c/LevitovChess/videos)
 - [Hikaru Nakamura: Chess, Magnus, Kasparov, and the Psychology of Greatness (2022)](https://www.youtube.com/watch?v=oJNvxYEcVAY)
 - [Lichess Mobile Code](https://github.com/lichess-org/mobile)
+- [Do any GMs exclusively play one specific opening?](https://www.reddit.com/r/chess/comments/n9wusq/do_any_gms_exclusively_play_one_specific_opening/)

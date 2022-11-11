@@ -149,3 +149,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Client-side Routing without the JavaScript (2022)](https://dev.to/this-is-learning/client-side-routing-without-the-javascript-3k1i)
 - [Solid-Stripe](https://github.com/wobsoriano/solid-stripe)
 - [Solid URQL](https://github.com/tqwewe/solid-urql)
+- [Finally, the start of something solid? (2022)](https://www.youtube.com/watch?v=DVWu2b7mvFg)

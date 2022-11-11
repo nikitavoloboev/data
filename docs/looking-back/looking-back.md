@@ -18,6 +18,7 @@ I [share](../sharing/sharing.md) most things on [Twitter](https://twitter.com/ni
 - [August](2022/2022-august.md)
 - [September](2022/2022-september.md)
 - [October](2022/2022-october.md)
+- [November](2022/2022-november.md)
 
 ## [2021](2021/2021.md)
 
