@@ -711,3 +711,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Super Liquidator](https://github.com/jtriley-eth/super-liquidator)
 - [Helios](https://github.com/a16z/helios) - Fast, secure, and portable light client for Ethereum.
 - [Amarna](https://github.com/crytic/amarna) - Static-analyzer and linter for the Cairo programming language.
+- [Murph](https://github.com/iFrostizz/murph) - Transpile EVM bytecode into huff.

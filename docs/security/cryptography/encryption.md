@@ -96,3 +96,4 @@
 - [age and Authenticated Encryption (2022)](https://words.filippo.io/dispatches/age-authentication/) ([Lobsters](https://lobste.rs/s/rg8chp/age_authenticated_encryption))
 - [Dexios](https://github.com/brxken128/dexios) - Secure file encryption utility, written in Rust.
 - [Image Steganography Tool](https://github.com/7thSamurai/steganography) - Encrypt and hide files inside images. ([HN](https://news.ycombinator.com/item?id=33336920))
+- [yage](https://github.com/sylr/yage) - age with YAML support.

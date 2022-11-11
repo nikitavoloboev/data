@@ -438,3 +438,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Setting up a private Nix cache for fun and profit (2022)](https://www.channable.com/tech/setting-up-a-private-nix-cache-for-fun-and-profit)
 - [Why isn't Nix more popular? (2022)](https://www.reddit.com/r/NixOS/comments/yozi22/why_isnt_nix_more_popular/)
 - [ml-pkgs](https://github.com/nixvital/ml-pkgs) - Extra package for nix on machine learning and data science.
+- [devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments. ([Web](https://devenv.sh/))
