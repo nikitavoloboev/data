@@ -166,3 +166,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [JC](https://github.com/kellyjonbrazil/jc) - JSONifies the output of many CLI tools. ([HN](https://news.ycombinator.com/item?id=33448204))
 - [Command-line data analytics made easy (2022)](https://danielcmoura.com/blog/2022/spyql-cell-towers/)
 - [CLI Tools Are Not Inherently User-Hostile - Mindy Preston (2022)](https://www.youtube.com/watch?v=IcV9TVb-vF4)
+- [How stdbuf works (2022)](https://hmarr.com/blog/how-stdbuf-works/) ([HN](https://news.ycombinator.com/item?id=33561319))

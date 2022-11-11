@@ -4,7 +4,7 @@
 
 Knowing this, I eat [whole food, plant based diet](foods.md) & [supplementing](supplements.md) where necessary.
 
-I try drink only water/tea with occasional coffee. No added sugar in food/drinks. I love exploring [new and interesting vegan recipes](recipes.md).
+I try drink only water/tea with occasional coffee. No added sugar in food/drinks. I love exploring [new and interesting pescatarian recipes](recipes.md).
 
 [Rhonda Patrick's interview](https://www.youtube.com/watch?v=XcvhERcZpWw&t=582s) is insightful.
 

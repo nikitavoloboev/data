@@ -1,6 +1,6 @@
 # Foods
 
-I eat a whole food, plant based diet and experiment by trying out new [vegan recipes](recipes.md). I exclude all unhealthy food.
+I eat a whole food, plant based diet and experiment by trying out new [pescatarian recipes](recipes.md). I exclude all unhealthy food.
 
 Most of my diet consists of eating raw foods like various nuts (almonds, walnuts), blueberries, bananas and avocados. I love Indian, Japanese & Georgian cuisine the most. Can eat ramen, sushi or hummus all day.
 
