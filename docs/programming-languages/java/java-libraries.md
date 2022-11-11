@@ -8,6 +8,7 @@
 - [Spring Framework](https://spring.io/projects/spring-framework) ([Code](https://github.com/spring-projects/spring-framework))
 - [Caffeine](https://github.com/ben-manes/caffeine) - High performance, near optimal caching library.
 - [Feign](https://github.com/OpenFeign/feign) - Java to HTTP client binder.
+- [FusionAuth HTTP](https://github.com/FusionAuth/java-http) - Full featured, stand-alone, high-performance HTTP server and client written entirely in plain Java.
 
 ## GUI
 
