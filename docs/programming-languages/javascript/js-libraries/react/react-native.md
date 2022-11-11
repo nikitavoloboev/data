@@ -314,3 +314,4 @@ title: React Native
 - [Rust + React Native](https://github.com/osdnk/react-native-jsi-meets-rust)
 - [Open Native](https://github.com/OpenNative/open-native) - Vendor-unlock React Native. Use React Native native modules with other cross-platform frameworks.
 - [React Native Three Column Layout](https://github.com/craftzdog/react-native-three-column-layout)
+- [ReactNative Purchases](https://github.com/RevenueCat/react-native-purchases) - In-App Subscriptions Made Easy.

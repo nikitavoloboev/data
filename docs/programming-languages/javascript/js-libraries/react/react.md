@@ -356,3 +356,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [React UI Kits](https://github.com/lucianomlima/react-ui-kits)
 - [Creating a VDOM-less Renderer with Preact Signals (2022)](https://www.youtube.com/watch?v=Fp9duJd6Txc)
 - [A love letter to React (2022)](https://fly.io/blog/love-letter-react/)
+- [Vite React Inspector](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser automatically.

@@ -7,6 +7,7 @@
 - [Rosencrantz](https://github.com/andreaferretti/rosencrantz) - DSL to write web servers.
 - [nim-libp2p](https://github.com/status-im/nim-libp2p) - libp2p implementation in Nim.
 - [Basolato](https://github.com/itsumura-h/nim-basolato) - Asynchronous full stack web framework for Nim.
+- [Karax](https://github.com/karaxnim/karax) - Single page applications for Nim.
 
 ## Math
 

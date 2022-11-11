@@ -109,3 +109,4 @@ title: TLS
 - [platform-tls](https://github.com/1Password/platform-tls) - Certificate verification library for rustls that uses the operating system's verifier.
 - [TLS 1.3 in Zig](https://github.com/shiguredo/tls13-zig)
 - [BearSSL](https://bearssl.org/) - Smaller SSL/TLS library. ([HN](https://news.ycombinator.com/item?id=33381920))
+- [sslkeylog](https://github.com/segevfiner/sslkeylog) - Log SSL/TLS keys for decrypting SSL/TLS connections made in Python.

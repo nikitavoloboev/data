@@ -168,3 +168,4 @@ title: JSON
 - [More Untappd data explorations with jq - my top ranking beer types (part 1) (2022)](<https://qmacro.org/blog/posts/2022/10/30/more-untappd-data-explorations-with-jq-my-top-ranking-beer-types-(part-1)/>) ([Lobsters](https://lobste.rs/s/9xyxjh/more_untappd_data_explorations_with_jq_my))
 - [OVER](https://github.com/m-cat/over) - Data format similar to JSON with features such as variables, includes, and type safety.
 - [Biniou](https://github.com/ocaml-community/biniou) - Extensible binary data format, like JSON but faster.
+- [Flatterer](https://github.com/kindly/flatterer) - Opinionated JSON to CSV/XLSX/SQLITE/PARQUET converter. Flattens JSON fast.
