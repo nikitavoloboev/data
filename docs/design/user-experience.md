@@ -210,3 +210,4 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [Classic HCI demos](https://jackrusher.com/classic-ux/)
 - [Resolving the Great Undo-Redo Quandary](https://github.com/zaboople/klonk/blob/master/TheGURQ.md) ([HN](https://news.ycombinator.com/item?id=33560275))
 - [Why everything looks the same (2022)](https://medium.com/knowable/why-everything-looks-the-same-bad80133dd6e) ([HN](https://news.ycombinator.com/item?id=33520414))
+- [Tray background color to indicate what action a user is taking](https://twitter.com/benjitaylor/status/1390410175236902913) ([In Safari](https://twitter.com/pacocoursey/status/1591151080628682752))

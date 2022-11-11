@@ -73,3 +73,4 @@
 - [Notes on Philosophy](https://www.desolhar-philo.com/)
 - [Why does anything exist? (2021)](https://alwaysasking.com/why-does-anything-exist/) ([HN](https://news.ycombinator.com/item?id=32416003))
 - [100 Rules — Personal Philosophy](https://druriley.com/100-rules-2020/)
+- [Contra Resident Contrarian On Unfalsifiable Internal States (2022)](https://astralcodexten.substack.com/p/contra-resident-contrarian-on-unfalsifiable)

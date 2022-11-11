@@ -306,3 +306,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Home Truths about macOS (2022)](https://eclecticlight.co/2022/11/06/last-week-on-my-mac-home-truths-about-macos/) ([HN](https://news.ycombinator.com/item?id=33491781))
 - [crashdump](https://github.com/dmaclach/crashdump) - Utility for converting macOS crashreport files (.ips) into text output which is the same as what you would see using Console.app to open them.
 - [Does Apple maintain APFS in older macOS? (2022)](https://eclecticlight.co/2022/11/08/does-apple-maintain-apfs-in-older-macos/) ([HN](https://news.ycombinator.com/item?id=33517567))
+- [Rosetta-enabled virtual machine based on Apple Sample Code](https://github.com/diddledani/macOS-Linux-VM-with-Rosetta)

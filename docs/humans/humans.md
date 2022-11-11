@@ -107,3 +107,4 @@ I am trying to meet as many people I find interesting as possible to get to know
 - [Biographics - YouTube](https://www.youtube.com/c/Biographics/videos)
 - [Map with the most famous people from every city](https://tjukanovt.github.io/notable-people) ([HN](https://news.ycombinator.com/item?id=32274077))
 - [The Steve Jobs Archive](https://stevejobsarchive.com/) ([HN](https://news.ycombinator.com/item?id=32760695))
+- [The World Is Run By People No Smarter Than You (2022)](https://www.swyx.io/no-smarter/) ([HN](https://news.ycombinator.com/item?id=33562204)) ([Tweet](https://twitter.com/jeanqasaur/status/1591171248825909248))
