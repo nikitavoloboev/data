@@ -4,9 +4,9 @@ title: React
 
 # [React](https://reactjs.org)
 
-[Official React docs](https://beta.reactjs.org/) are great. [LocatorJS extension](https://www.locatorjs.com/) is useful. [fresh](https://github.com/lucacasonato/fresh) & [Plasmic](https://www.plasmic.app/) look interesting.
+[Official React docs](https://beta.reactjs.org/) are great. [LocatorJS extension](https://www.locatorjs.com/) is useful. [Preact](https://preactjs.com/), [fresh](https://github.com/lucacasonato/fresh) & [Plasmic](https://www.plasmic.app/) look interesting.
 
-Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for all my web apps and static sites as it has [better performance](../../../../web/web-performance.md). [VDOM diffing is wasteful](https://twitter.com/naqvitalha/status/1586396390808510464).
+Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my web apps and static sites as it has [better performance](../../../../web/web-performance.md). [VDOM diffing is wasteful](https://twitter.com/naqvitalha/status/1586396390808510464).
 
 ## OSS React apps
 

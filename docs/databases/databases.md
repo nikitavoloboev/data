@@ -716,3 +716,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Ephemeral DB, a sacrificial database line for high-throughput data (2022)](https://brandur.org/fragments/ephemeral-db)
 - [fake2db](https://github.com/emirozer/fake2db) - Generate fake but valid data filled databases for test purposes using most popular patterns.
 - [Serverless ETL runtime for cloud databases](https://github.com/second-state/MEGA)
+- [Databases: 2021 in Review and Predictions for 2022](https://www.bytebase.com/blog/database-review-2021) ([HN](https://news.ycombinator.com/item?id=33558509))

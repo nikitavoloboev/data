@@ -306,3 +306,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Gorilla Terminal](https://gorillaterminal.com/) - Bloomberg Terminal for Individuals. ([HN](https://news.ycombinator.com/item?id=33212546))
 - ["I’m going to learn about investing" journey (2022)](https://twitter.com/netcapgirl/status/1582388935862648833)
 - [Nice Portfolio management software](https://twitter.com/HarryStebbings/status/1589656895383818240)
+- [No, You Aren’t Going to Get Rich by Options Trading (2022)](https://jacobin.com/2022/11/options-trading-stock-market-inequality) ([HN](https://news.ycombinator.com/item?id=33547658))

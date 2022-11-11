@@ -249,6 +249,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Do you know any good programming games? (2022)](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games)
 - [What is a game you were told was bad/boring/awful but ended up enjoying when you played it? (2022)](https://www.reddit.com/r/patientgamers/comments/ybovs1/what_is_a_game_you_were_told_was_badboringawful/)
 - [Nice cooperative games on PS5 (2022)](https://twitter.com/TkDodo/status/1586636367597027329)
+- [Which game nails both the gameplay and the story? (2022)](https://www.reddit.com/r/patientgamers/comments/yrngnm/which_game_nails_both_the_gameplay_and_the_story/)
 
 ## Links
 
@@ -371,3 +372,4 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Modmapper: Putting every Skyrim mod on a map with Rust (2022)](https://www.hallada.net/2022/10/05/modmapper-putting-every-skyrim-mod-on-a-map-with-rust.html)
 - [I solved the Dandelions paper-and-pencil game (2022)](https://nullprogram.com/blog/2022/10/12/)
 - [Medal.tv](https://medal.tv/) - Clip, edit & share the memories you create while gaming.
+- [Unexpected games which are making ton of money (2022)](https://www.reddit.com/r/gamedev/comments/yrhj79/unexpected_games_which_are_making_ton_of_money/)

@@ -226,4 +226,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [sico](https://github.com/andygrunwald/sico) - Sitemap comparison tool.
 - [Scalpel](https://github.com/fimad/scalpel) - High level web scraping library for Haskell.
 - [Unfurl](https://github.com/jacktuck/unfurl) - Metadata scraper with support for oEmbed, Twitter Cards and Open Graph Protocol for Node.js.
-- [Katana](https://github.com/projectdiscovery/katana) - Next-generation crawling and spidering framework in Go.
+- [Katana](https://github.com/projectdiscovery/katana) - Crawling and spidering framework. ([HN](https://news.ycombinator.com/item?id=33523546))

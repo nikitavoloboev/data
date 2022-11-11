@@ -128,3 +128,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [How to plan? (2022)](https://kellanem.com/notes/how-to-plan)
 - [Day in the life of Andrej Karpathy (2022)](https://www.youtube.com/watch?v=iu3LJY8N_9s)
 - [Ask HN: How to regain focus when you feel overwhelmed? (2022)](https://news.ycombinator.com/item?id=33464989)
+- [Ask HN: How do you focus on work for long periods of time? (2022)](https://news.ycombinator.com/item?id=33557338)

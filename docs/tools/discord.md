@@ -69,6 +69,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Alertmanager Discord Webhook](https://github.com/masgustavos/alertmanager-discord) - Customizable Discord Webhook for Alertmanager.
 - [Shanghai](https://github.com/harubaru/discord-stable-diffusion) - Discord bot to run Stable Diffusion locally.
 - [OKP4's Discord Bot](https://github.com/okp4/discord-bot)
+- [Rust Cloudflare Workers Bot in Rust](https://github.com/mcdallas/rust-discord-bot)
 
 ## Libraries
 

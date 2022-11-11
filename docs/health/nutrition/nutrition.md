@@ -108,3 +108,4 @@ I try drink only water/tea with occasional coffee. No added sugar in food/drinks
 - [A Chemical Hunger – Part I: Mysteries (2021)](https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/) ([Tweet](https://twitter.com/bigmagicdao/status/1583729984304164864))
 - [How do gland problems stop people from losing weight?](https://www.reddit.com/r/askscience/comments/ydyk2l/how_do_gland_problems_stop_people_from_losing/)
 - [Good podcasts about nutrition (2022)](https://www.reddit.com/r/nutrition/comments/yinixv/any_good_podcasts_about_nutrition/)
+- [Food for hair growth and bear growth](https://www.youtube.com/watch?v=YDN_w08jIDY)

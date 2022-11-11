@@ -42,3 +42,4 @@ Michael Levin's [thoughts on cancer suppression](https://www.youtube.com/watch?v
 - [Chemo therapy is barbaric and we need alternatives](https://twitter.com/StevenGlinert/status/1538982767160987648)
 - [Cancer breakthrough is a ‘wake-up’ call on danger of air pollution (2022)](https://news.ycombinator.com/item?id=32809457)
 - [A Universal Cancer Treatment? (2022)](https://nautil.us/a-universal-cancer-treatment-241231/) ([HN](https://news.ycombinator.com/item?id=33109633))
+- [CRISPR cancer trial success paves the way for personalized treatments (2022)](https://www.nature.com/articles/d41586-022-03676-7) ([HN](https://news.ycombinator.com/item?id=33554141))

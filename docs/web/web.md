@@ -468,3 +468,4 @@
 - [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites.
 - [Nocode Templates & Components by Nocoloco](https://www.nocodetemplates.page/)
 - [File API](https://w3c.github.io/FileAPI/) ([Code](https://github.com/w3c/FileAPI))
+- [Map of the Internet](https://ipv4.dev.sarl/@zoom=0) ([HN](https://news.ycombinator.com/item?id=33556454))

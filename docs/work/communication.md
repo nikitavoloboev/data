@@ -214,3 +214,4 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [There are three types of meetings](https://camdaigle.com/posts/three-types-of-meetings/)
 - [How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/) ([HN](https://news.ycombinator.com/item?id=33370870))
 - [Effective Sync Meetings (2022)](https://blog.jonm.dev/posts/effective-sync-meetings/)
+- [Record and transcribe your meetings + more tips (2022)](https://twitter.com/berman66/status/1590769320766099456)

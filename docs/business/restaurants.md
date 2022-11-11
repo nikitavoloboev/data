@@ -1,6 +1,6 @@
 # Restaurants
 
-[Ocean Basket](https://www.oceanbasket.com/) is my favorite restaurant chain.
+[Ocean Basket](https://www.oceanbasket.com/) is my favorite restaurant chain. [Rekki](https://rekki.com/) is a nice tool for restaurants.
 
 ## Notes
 

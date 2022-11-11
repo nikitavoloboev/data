@@ -552,3 +552,5 @@ for i, _ in enumerate(nums):
 - [Python 3.11.0 (2022)](https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291) ([HN](https://news.ycombinator.com/item?id=33327896)) ([Tweet](https://twitter.com/marktenenholtz/status/1584927749168250881))
 - [Better Python code grepping with pyastgrep (2022)](https://lukeplant.me.uk/blog/posts/grep-python-syntax-using-ast-pyastgrep/)
 - [Inline caches in the Skybison Python runtime (2022)](https://bernsteinbear.com/blog/inline-caches-in-skybison/)
+- [Python Asyncio: The Complete Guide (2022)](https://superfastpython.com/python-asyncio/) ([HN](https://news.ycombinator.com/item?id=33547323))
+- [Trie in Python (2022)](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/) ([Lobsters](https://lobste.rs/s/cb4oqs/trie_python))

@@ -234,6 +234,7 @@ Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage)
 ## Products
 
 - [Muse](https://museapp.com/)
+- [Coffee](https://trycoffee.co/)
 - [Notion](https://www.notion.so)
 - [Proxyman](https://proxyman.io/)
 - [Sleeve](https://replay.software/sleeve)

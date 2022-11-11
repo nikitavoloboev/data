@@ -46,6 +46,7 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 ## Vegetables (other)
 
 - Arugula
+- Tarragon
 
 ## Fruits (other)
 

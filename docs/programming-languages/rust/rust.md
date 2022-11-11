@@ -942,3 +942,4 @@ I use Rust to build desktop apps with [Tauri](rust-libraries/tauri.md). But try 
 - [promote-release](https://github.com/rust-lang/promote-release) - Tool used by the Rust project to publish new releases of the Rust toolchain.
 - [Creating a priority queue with a custom sort order using a binary heap in Rust (2022)](https://dev.to/timclicks/creating-a-priority-queue-with-a-custom-sort-order-using-a-binary-heap-in-rust-3oab)
 - [Guide to Error Handling in Rust](https://nrc.github.io/error-docs/) ([HN](https://news.ycombinator.com/item?id=33529147))
+- [Property-Based Testing in Rust with Arbitrary (2021)](https://www.greyblake.com/blog/property-based-testing-in-rust-with-arbitrary/) ([HN](https://news.ycombinator.com/item?id=33552816))

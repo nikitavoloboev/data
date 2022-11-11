@@ -164,6 +164,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Kyan Bar](https://github.com/kyan/kyan_bar) - Demo SwiftUI status bar app for macOS.
 - [UI Browser 4](https://github.com/alldritt/UIBrowser4) - Ultimate assistant for Apple’s Accessibility and AppleScript GUI Scripting technologies.
 - [Reminders Menu Bar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
+- [Coffee](https://trycoffee.co/) - Tiny time tracker for your next big project.
 
 ## Other interesting apps
 

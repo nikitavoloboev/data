@@ -776,3 +776,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Framestack](https://www.framestack.net/) - Discover tools & libraries to build your projects. ([Code](https://github.com/swve/framestack))
 - [Starling Developer Resources](https://github.com/starlingbank/developer-resources)
 - [Fast QR](https://fast-qr.com/) - Ultra fast QRCode generation. ([Code](https://github.com/erwanvivien/fast_qr))
+- [Pinboard vs. Raindrop (2022)](https://dsalo.info/pinboard-vs-raindrop-two-bookmark-apps-enter/) ([HN](https://news.ycombinator.com/item?id=33537531))

@@ -93,3 +93,4 @@ title: Reddit
 - [RedditLattice](https://redditlattice.netlify.app/) - Reddit viewer for image based subreddits. Lays out the images in a tight lattice. ([Code](https://github.com/vanillacode314/redditlattice))
 - [Hide some app banners on Reddit (2022)](https://underpassapp.com/news/2022-11-4.html)
 - [Metadocs](https://metadocs8.com/) - Kinda like Reddit, but built into every documentation. ([HN](https://news.ycombinator.com/item?id=33518828))
+- [Gert](https://github.com/mcdallas/gert) - Command line tool to download media from Reddit.

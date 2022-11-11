@@ -233,3 +233,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Adyen](https://www.adyen.com/) - End-to-end payments, data, and financial management in a single solution.
 - [tick-rs](https://github.com/tarkah/tickrs) - Real time ticker data in your terminal. Built with Rust. Data sourced from Yahoo! Finance.
 - [Algo-Trader](https://github.com/idanya/algo-trader) - Trading bot with support for real time trading, backtesting, custom strategies and much more.
+- [Wallstreet](https://github.com/mcdallas/wallstreet) - Real time Stock and Option tools.
