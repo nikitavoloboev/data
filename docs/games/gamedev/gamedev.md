@@ -1,6 +1,6 @@
 # Game development
 
-[3D Math Primer for Graphics and Game Development](https://gamemath.com/) is great.
+[3D Math Primer for Graphics and Game Development](https://gamemath.com/) is great. [Nano](https://github.com/lonng/nano) is great for building networked game servers.
 
 ## Studios
 

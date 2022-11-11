@@ -18,6 +18,8 @@ Only thing I dislike about Go is it's verbosity especially with respect to error
 
 That said, I am exploring writing more code in [Rust](../rust/rust.md) specifically because of [Tauri](../rust/rust-libraries/tauri.md).
 
+It's useful to setup linters like [GolangCI-Lint](https://github.com/golangci/golangci-lint).
+
 ## Commenting Go code
 
 - Comments documenting declarations should be full sentences.

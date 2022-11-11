@@ -971,3 +971,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [GENIE: Higher-Order Denoising Diffusion Solvers (2022)](https://arxiv.org/abs/2210.05475) ([Web](https://nv-tlabs.github.io/GENIE/))
 - [PDEBENCH: An Extensive Benchmark for Scientific Machine Learning (2022)](https://arxiv.org/abs/2210.07182) ([Code](https://github.com/pdebench/PDEBench))
 - [Broken Neural Scaling Laws (2022)](https://arxiv.org/abs/2210.14891) ([Code](https://github.com/ethancaballero/broken_neural_scaling_laws))
+- [Failed Machine Learning](https://github.com/kennethleungty/Failed-ML) - Compilation of high-profile real-world examples of failed machine learning projects.

@@ -132,3 +132,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [GDPR for Developers by Example (2022)](https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/) ([HN](https://news.ycombinator.com/item?id=32328837))
 - [mCaptcha](https://github.com/mCaptcha/mCaptcha) - No-nonsense CAPTCHA system with seamless UX. ([HN](https://news.ycombinator.com/item?id=32340305))
 - [Instagram can track anything you do on any website in their in-app browser (2022)](https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser) ([HN](https://news.ycombinator.com/item?id=32415470)) ([Lobsters](https://lobste.rs/s/oducds/instagram_facebook_can_track_anything))
+- [Ask HN: What do you do for online privacy? (2022)](https://news.ycombinator.com/item?id=33558737)
