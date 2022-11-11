@@ -2,6 +2,8 @@
 
 Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [Toolhunt](https://www.toolhunt.dev/) has a nice tools list. [Uses This](https://usesthis.com/) does nice interviews on tools people use.
 
+One of my favorite things in life is building little tools for solving even the tiniest of frictions I experience in life.
+
 ## Other
 
 - [Ultra](https://ultra.tf/) - Multi-media smart canvas for your mind. ([Tweet](https://twitter.com/raunofreiberg/status/1457710330495356929))

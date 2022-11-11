@@ -8,6 +8,8 @@ I love the [lifestyle that Simon Sarris has](https://twitter.com/simonsarris/sta
 
 I try to spend as much [time with family and loved ones](https://ourworldindata.org/time-with-others-lifetime) as I can. I live a life focused on positivity and [happiness](happiness.md) over complaining and glooming over the future. I try to work on things that give me energy instead of draining it away. [Life is short](http://paulgraham.com/vb.html). Let past go. No such thing as wasted time, just [lessons learned](../focusing/rules.md#life).
 
+The hardest part in staying happy I find is forgiving yourself for mistakes you made, learning from every mistake/conversation/event you experience and making concrete plans for the future given what you know. If your plan doesn't workout, change the plan, not the goal.
+
 ## Notes
 
 - [There is basically 4 ways people go about life: 1: hedonist: maximizes pleasure. 2: ascetic: maximizes inner peace. 3: nihilist: maximizes comfort. 4: creativist: makes things.](https://twitter.com/amasad/status/1524262567627042816)
