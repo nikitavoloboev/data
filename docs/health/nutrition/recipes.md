@@ -4,14 +4,16 @@
 
 Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/1sgtbqVnotvY1Ir2S60J9m62yGPVkm2nRmbwrfZAoc6Y/htmlview) ([Video](https://www.youtube.com/watch?v=fyyKrMeNPBM)).
 
-[Crouton](https://crouton.app/) is nice.
+[Crouton](https://crouton.app/) is nice for organizing recipes.
 
-## Rhonda’s micronutrient smoothie
+## Favorite
 
-[Recipe](https://www.foundmyfitness.com/reports/micronutrient-smoothie.pdf). Very healthy. Goes over why it is healthy too.
+- Greek yogurt with frozen berries
+- Sushi of all kinds
 
 ## Interesting
 
+- [Rhonda’s micronutrient smoothie](https://www.foundmyfitness.com/reports/micronutrient-smoothie.pdf). Very healthy. Goes over why it is healthy too.
 - [Curried Butternut Squash Soup](https://minimalistbaker.com/curried-butternut-squash-soup/#wprm-recipe-container-35467)
 - [Garlic bread](https://www.simplyrecipes.com/recipes/garlic_bread/)
 - [Bhel Puri](https://www.vegrecipesofindia.com/bhel-puri-mumbai-bhel-puri/)
