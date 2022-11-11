@@ -768,6 +768,7 @@
 - [Bessels.jl](https://github.com/JuliaMath/Bessels.jl) - Numerical routines for computing Bessel, Airy, and Hankel functions for real arguments.
 - [ImPlot.jl](https://github.com/wsphillips/ImPlot.jl) - Plotting extension library for CImGui.jl.
 - [Bumper.jl](https://github.com/MasonProtter/Bumper.jl) - Make working with bump allocators easy and safe-ish.
+- [Classes.jl](https://github.com/rjplevin/Classes.jl) - Simple, Julian approach to inheritance of structure and methods.
 
 ## Links
 

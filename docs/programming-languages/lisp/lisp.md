@@ -219,3 +219,4 @@
 - [Why Lisp?](https://github.com/naver/lispe/wiki/6.16-Why-Lisp) ([HN](https://news.ycombinator.com/item?id=33462454)) ([Lobsters](https://lobste.rs/s/1nzold/why_lisp))
 - [x7](https://github.com/dpbriggs/x7) - Speedy self-documenting lisp in Rust.
 - [Lisp as the Maxwell’s Equations of Software (2012)](https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/) ([HN](https://news.ycombinator.com/item?id=33516422))
+- [The one about Lisp interactivity (2022)](http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/) ([HN](https://news.ycombinator.com/item?id=33559198))
