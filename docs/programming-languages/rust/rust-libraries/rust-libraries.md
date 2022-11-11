@@ -65,6 +65,7 @@
 - [yansi](https://github.com/SergioBenitez/yansi) - Dead simple ANSI terminal color painting library for Rust.
 - [inquire](https://github.com/mikaelmello/inquire) - Rust library for building interactive prompts.
 - [prodash](https://github.com/Byron/prodash) - Report progress of concurrent applications and display it in various ways.
+- [minus](https://github.com/arijit79/minus) - Asynchronous terminal paging library.
 
 ## Web
 
@@ -2311,6 +2312,7 @@
 - [unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation) - Iterators which split strings on Grapheme Cluster or Word boundaries.
 - [Banyan](https://github.com/Actyx/banyan)
 - [xtaskops](https://github.com/jondot/xtaskops) - Goodies for working with the xtask concept in Rust.
+- [JavaScriptCore API for Rust](https://github.com/penberg/rusty_jsc)
 
 ## Cargo Plugins
 

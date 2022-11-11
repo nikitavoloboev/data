@@ -690,3 +690,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ayaka](https://github.com/Uni-Gal/Ayaka) - Visual novel engine written by Rust.
 - [Moco Museum](https://mocomuseum.com/)
 - [Argdown](https://argdown.org/) - Simple syntax for complex argumentation. ([Code](https://github.com/christianvoigt/argdown))
+- [Bubbles](https://oimo.io/works/bubbles/) ([HN](https://news.ycombinator.com/item?id=33566924))

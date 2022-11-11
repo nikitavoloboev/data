@@ -387,3 +387,4 @@ title: WebAssembly
 - [Minimal WASI Interpreter in Zig](https://github.com/andrewrk/zig-wasi)
 - [Silly WAT Linker](https://github.com/surma/silly-wat-linker) - Tool that makes writing WebAssembly Text files easier.
 - [WebAssembly Component Builder](https://wasmbuilder.app/) - Website for building WebAssembly components. ([Code](https://github.com/peterhuene/wasmbuilder.app))
+- [Root Scanning WASM Spec](https://github.com/WebAssembly/root-scanning) - Spec proposal for scanning/marking of linear memory GC roots.

@@ -457,3 +457,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [Tame Impala's Kevin Parker Breaks Down His Favorite Drum Sounds](https://www.youtube.com/watch?v=BWv4TgvSPjM)
 - [A tale of two clocks (2013)](https://web.dev/audio-scheduling/)
 - [Advanced techniques: Creating and sequencing audio - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Advanced_techniques)
+- [What is the best way to make friends in music? (2022)](https://www.reddit.com/r/WeAreTheMusicMakers/comments/yrti6q/what_is_the_best_way_to_make_friends_in_music/)

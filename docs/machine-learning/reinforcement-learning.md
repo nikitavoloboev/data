@@ -404,3 +404,4 @@ title: Reinforcement learning
 - [Beyond Tabula Rasa: Reincarnating Reinforcement Learning (2022)](https://ai.googleblog.com/2022/11/beyond-tabula-rasa-reincarnating.html)
 - [Scikit-decide](https://github.com/airbus/scikit-decide) - AI framework for Reinforcement Learning, Automated Planning and Scheduling.
 - [Recent Advances in Multi-Agent Reinforcement Learning (MARL)](https://github.com/chrisyrniu/Recent-Advances-in-Multi-Agent-Reinforcement-Learning)
+- [Awesome MARL](https://github.com/instadeepai/awesome-marl) - Categorized list of Multi-Agent Reinforcement Learning (MARL) papers.
