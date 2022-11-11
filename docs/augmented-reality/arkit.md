@@ -31,3 +31,4 @@ title: ARKit
 - [Capturinator](https://github.com/BertanT/Capturinator) - Powered by RealityKit, Capturinator is a Mac app that turns photos of an object taken at multiple angles into 3D USDZ models.
 - [AR Simple GeoLocation](https://github.com/ynagatomo/ARSimpleGeoLocation) - Minimal iOS AR app that displays virtual objects at specific geographical locations, in an AR scene.
 - [SceneKitVideoRecorder](https://github.com/svhawks/SceneKitVideoRecorder) - Record your SceneKit and ARKit scenes easily.
+- [RealityKit Asset Loading](https://github.com/Reality-Dev/RealityKit-Asset-Loading) - Enables easy, convenient asynchronous asset loading in RealityKit for many different kinds of assets.

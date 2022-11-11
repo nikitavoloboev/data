@@ -39,3 +39,4 @@ title: Program synthesis
 - [CrossBeam: Learning to Search in Bottom-Up Program Synthesis (2021)](https://openreview.net/forum?id=qhC8mr2LEKq) ([Code](https://github.com/google-research/crossbeam))
 - [Minimalist guide to program synthesis](https://evanthebouncy.github.io/program-synthesis-minimal/) - Bare minimum introduction to modern program synthesis. ([HN](https://news.ycombinator.com/item?id=33203970))
 - [DeepSynth](https://github.com/nathanael-fijalkow/DeepSynth) - General-purpose program synthesiser.
+- [DreamCoder](https://github.com/ellisk42/ec) - Wake-sleep algorithm that finds programs to solve a given set of tasks in a particular domain.

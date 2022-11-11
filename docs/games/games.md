@@ -373,3 +373,4 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [I solved the Dandelions paper-and-pencil game (2022)](https://nullprogram.com/blog/2022/10/12/)
 - [Medal.tv](https://medal.tv/) - Clip, edit & share the memories you create while gaming.
 - [Unexpected games which are making ton of money (2022)](https://www.reddit.com/r/gamedev/comments/yrhj79/unexpected_games_which_are_making_ton_of_money/)
+- [Rare](https://github.com/Dummerle/Rare) - GUI for legendary. An Epic Games Launcher open source alternative.

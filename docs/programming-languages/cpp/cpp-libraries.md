@@ -449,6 +449,7 @@
 - [C++ Predefined Macros](https://github.com/xeerx/cpp-predefined)
 - [pika](https://github.com/pika-org/pika) - C++ library for concurrency and parallelism.
 - [Benchmark](https://github.com/google/benchmark) - Microbenchmark support library.
+- [BzTree](https://github.com/sfu-dis/bztree) - Open-source BzTree implementation.
 
 ## Links
 

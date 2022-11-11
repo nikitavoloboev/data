@@ -988,3 +988,4 @@
 - [Stanford University: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) ([Notes](https://cs231n.github.io/))
 - [TAP-Vid: A Benchmark for Tracking Any Point in a Video (2022)](https://arxiv.org/abs/2211.03726) ([Code](https://github.com/deepmind/tapnet))
 - [StyleNAT: Giving Each Head a New Perspective (2022)](https://arxiv.org/abs/2211.05770) ([Code](https://github.com/SHI-Labs/StyleNAT))
+- [InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions (2022)](https://arxiv.org/abs/2211.05778) ([Code](https://github.com/OpenGVLab/InternImage))

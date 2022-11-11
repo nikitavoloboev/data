@@ -2310,6 +2310,7 @@
 - [hex](https://github.com/KokaKiwi/rust-hex) - Encoding and decoding data into/from hexadecimal representation.
 - [unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation) - Iterators which split strings on Grapheme Cluster or Word boundaries.
 - [Banyan](https://github.com/Actyx/banyan)
+- [xtaskops](https://github.com/jondot/xtaskops) - Goodies for working with the xtask concept in Rust.
 
 ## Cargo Plugins
 

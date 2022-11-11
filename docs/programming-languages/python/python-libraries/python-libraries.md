@@ -219,6 +219,7 @@
 - [redis-pydict](https://github.com/Narasimha1997/redis-pydict) - Python dictionary that uses Redis as in-memory storage backend to facilitate distributed computing applications development.
 - [Redis OM](https://github.com/redis/redis-om-python) - Objecting mapping, and more, for Redis and Python.
 - [Inline SQL](https://github.com/ekzhang/inline-sql) - Inline SQL in any Python program.
+- [μSQLite](https://github.com/spatialdude/usqlite) - SQLite module for MicroPython.
 
 ## GUI
 

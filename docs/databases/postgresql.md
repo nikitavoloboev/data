@@ -604,3 +604,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Opening Old Wounds - Why Uber Engineering Switched from Postgres to MySQL (2020)](https://www.youtube.com/watch?v=_E43l5EbNI4)
 - [Scaling PostgresML to 1 Million Requests per Second (2022)](https://postgresml.org/blog/scaling-postgresml-to-one-million-requests-per-second/) ([HN](https://news.ycombinator.com/item?id=33518443))
 - [pg](https://github.com/ferama/pg) - Alternative CLI tool for PostgreSQL.
+- [Decile](https://decile.app/) - Simple, open-source analytics tool for any Postgres database. ([Code](https://github.com/decileapp/decile))

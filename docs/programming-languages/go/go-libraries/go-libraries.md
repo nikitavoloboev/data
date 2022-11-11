@@ -2041,3 +2041,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [oa3](https://github.com/aarondl/oa3) - Generates HTTP endpoint stubs and supporting models from OpenAPI 3 specs.
 - [Top Go ORMs](https://github.com/d-tsuji/awesome-go-orms) - Most starred on GitHub.
 - [Go Vulnerability Management](https://github.com/golang/vuln)
+- [A consistent logging format for Go (2022)](https://www.youtube.com/watch?v=gd_Vyb5vEw0)
