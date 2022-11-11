@@ -403,3 +403,4 @@ title: Reinforcement learning
 - [Reincarnating Reinforcement Learning: Reusing Prior Computation to Accelerate Progress (2022)](https://github.com/google-research/reincarnating_rl)
 - [Beyond Tabula Rasa: Reincarnating Reinforcement Learning (2022)](https://ai.googleblog.com/2022/11/beyond-tabula-rasa-reincarnating.html)
 - [Scikit-decide](https://github.com/airbus/scikit-decide) - AI framework for Reinforcement Learning, Automated Planning and Scheduling.
+- [Recent Advances in Multi-Agent Reinforcement Learning (MARL)](https://github.com/chrisyrniu/Recent-Advances-in-Multi-Agent-Reinforcement-Learning)

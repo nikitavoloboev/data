@@ -856,3 +856,4 @@ title: Kubernetes
 - [Kubernetes API definition](https://github.com/kubernetes/api)
 - [Cybozu Kubernetes Engine](https://github.com/cybozu-go/cke) - Distributed service that automates Kubernetes cluster management.
 - [MOCO](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes.
+- [Kubernetes Gateway API bindings in Rust](https://github.com/shaneutt/gateway-api-rs)

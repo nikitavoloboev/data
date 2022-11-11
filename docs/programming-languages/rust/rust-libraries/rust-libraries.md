@@ -2309,6 +2309,7 @@
 - [env_logger](https://github.com/rust-cli/env_logger) - Logger that can be configured via environment variables.
 - [hex](https://github.com/KokaKiwi/rust-hex) - Encoding and decoding data into/from hexadecimal representation.
 - [unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation) - Iterators which split strings on Grapheme Cluster or Word boundaries.
+- [Banyan](https://github.com/Actyx/banyan)
 
 ## Cargo Plugins
 

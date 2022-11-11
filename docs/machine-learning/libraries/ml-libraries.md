@@ -422,3 +422,4 @@ title: ML Libraries
 - [LassoNet](https://github.com/lasso-net/lassonet) - Feature selection in neural networks.
 - [AutoOED](https://github.com/yunshengtian/AutoOED) - Automated Optimal Experimental Design Platform.
 - [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) - Tool for predicting the accuracy of Deep Neural Networks.
+- [Web Neural Network API samples](https://github.com/webmachinelearning/webnn-samples)

@@ -665,6 +665,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [zap](https://github.com/spaceteams/zap) - Validation-first schema library with a functional API.
 - [bech32](https://github.com/bitcoinjs/bech32) - Bech32 encoding / decoding.
 - [p-forever](https://github.com/sindresorhus/p-forever) - Run promise-returning & async functions repeatedly until you end it.
+- [bhttp-js](https://github.com/dajiaji/bhttp-js) - BHTTP (Binary Representation of HTTP Messages) Encoder and Decoder.
 
 ## Links
 

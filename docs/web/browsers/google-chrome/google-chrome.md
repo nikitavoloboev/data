@@ -99,3 +99,4 @@ And here are Chrome extensions I use:
 - [chrome-types](https://github.com/GoogleChrome/chrome-types) - Code to parse Chrome's internal extension type definitions.
 - [Chrome Extension Boilerplate with SolidJS + Vite + TypeScript + Manifest V3 + HMR](https://github.com/munron/mv3-solid-chrome-extension-template)
 - [Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals (2022)](https://jhalon.github.io/chrome-browser-exploitation-1/)
+- [jest-chrome](https://github.com/extend-chrome/jest-chrome) - Complete mock of the Chrome API for Chrome extensions for use with Jest.

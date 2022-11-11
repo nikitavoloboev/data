@@ -1045,6 +1045,7 @@
 - [ducks](https://github.com/manimino/ducks) - Indexes your Python objects for fast lookup by their attributes.
 - [bistring](https://github.com/microsoft/bistring) - Bidirectionally transformed strings.
 - [stqdm](https://github.com/Wirg/stqdm) - Simplest way to handle a progress bar in streamlit app.
+- [mundipy](https://github.com/BuntingLabs/mundipy) - Python framework for spatial data manipulation.
 
 ## Notes
 
@@ -1232,3 +1233,4 @@
 - [nox-poetry](https://github.com/cjolowicz/nox-poetry) - Use Poetry inside Nox sessions.
 - [conda-store](https://github.com/Quansight/conda-store) - Serve identical conda environments in as many ways as possible to users and services.
 - [Devpy](https://github.com/scientific-python/devpy) - Developer tool for scientific Python libraries.
+- [Typing Extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python.

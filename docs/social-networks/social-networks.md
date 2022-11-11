@@ -59,7 +59,7 @@ All valuable data posted on any of the networks is ultimately transferred and li
 - [Planetary](https://planetary.social/) - Building an open and humane alternative to Facebook.
 - [Twitterverse](https://twitterverse.net/) - Interactively explore visualizations of Twitter networks. ([Tweet](https://twitter.com/MenanderSoter/status/1234650368182771717))
 - [Opportunities in consumer social (2020)](https://twitter.com/eriktorenberg/status/1236860724430790659)
-- [Pleroma](https://pleroma.social/) - Free, federated social networking server built on open protocols. ([Article](https://pleroma.social/blog/2020/03/08/releasing-pleroma-2-0-0/)) ([HN](https://news.ycombinator.com/item?id=22519209)) ([Lobsters](https://lobste.rs/s/ukg62c/releasing_pleroma_2_1_0)) ([Deploy a Pleroma Server](https://10minutepleroma.com/))
+- [Pleroma](https://pleroma.social/) - Free, federated social networking server built on open protocols. ([Article](https://pleroma.social/blog/2020/03/08/releasing-pleroma-2-0-0/)) ([HN](https://news.ycombinator.com/item?id=22519209)) ([Lobsters](https://lobste.rs/s/ukg62c/releasing_pleroma_2_1_0)) ([Deploy a Pleroma Server](https://10minutepleroma.com/)) ([Docker Code](https://github.com/angristan/docker-pleroma))
 - [Moa](https://github.com/foozmeat/moa) - Mastodon, Twitter, and Instagram Cross-poster.
 - [Lessons I've Learned After Gaining 100,000 Twitter Followers (2020)](https://compiled.blog/blog/lessons-ive-learned-after-gaining-100000-twitter-followers)
 - [Bridgy](https://github.com/snarfed/bridgy) - Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more.

@@ -140,3 +140,4 @@ Looking into [Railway](https://railway.app/) & [Cloudflare](https://www.cloudfla
 - [Drone-GKE](https://github.com/nytimes/drone-gke) - Drone plugin for deploying containers to Google Kubernetes Engine.
 - [Drone-GAE](https://github.com/nytimes/drone-gae) - Drone plugin to manage deployments on Google App Engine.
 - [Drone Google Cloud Run](https://github.com/kameshsampath/drone-gcloud-run) - Drone plugin deploy and manage Google Cloud Run services.
+- [googapis](https://github.com/mechiru/googapis) - Rust library generated from Google API using tonic-build.

@@ -68,3 +68,4 @@ title: Astro
 - [Awesome Astro](https://github.com/one-aalam/awesome-astro)
 - [Server-Side Rendering with Astro (2022)](https://astro.build/blog/experimental-server-side-rendering/)
 - [astro.new](https://github.com/withastro/astro.new) - Instantly generate a new Astro project on StackBlitz or CodeSandbox.
+- [Is Astro This Good? (2022)](https://www.youtube.com/watch?v=Sqp5VSqbQOY)
