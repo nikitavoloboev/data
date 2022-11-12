@@ -54,3 +54,4 @@
 - [Mathematicians discover the Fibonacci numbers hiding in strange spaces (2022)](https://www.quantamagazine.org/mathematicians-surprised-by-hidden-fibonacci-numbers-20221017/) ([HN](https://news.ycombinator.com/item?id=33245701))
 - [Discrete mean estimates and the Landau-Siegel zero (2022)](https://arxiv.org/abs/2211.02515) ([HN](https://news.ycombinator.com/item?id=33512338))
 - [Algebraic Number Theory in Python](https://github.com/louisabraham/algnuth)
+- [Mathematician who solved prime-number riddle claims new breakthrough (2022)](https://www.nature.com/articles/d41586-022-03689-2) ([HN](https://news.ycombinator.com/item?id=33569029))

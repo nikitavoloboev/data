@@ -1312,6 +1312,8 @@
 - [TaskQueue](https://github.com/icanzilb/TaskQueue) - Task Queue Class developed in Swift.
 - [ASN1Parser](https://github.com/DominikHorn/ASN1Parser) - Minimalistic Swift parser for ASN.1 data. Currently supports DER and therefore also BER binary format.
 - [MothECS](https://github.com/forkercat/MothECS) - Simple Entity Component System in Swift.
+- [Inject](https://github.com/MaximBazarov/Inject) - Effortless modular dependency injection for Swift.
+- [Decide](https://github.com/MaximBazarov/Decide) - Modular state and side-effects system for your swift application.
 
 ## Other (not lib)
 

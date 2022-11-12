@@ -133,3 +133,4 @@ title: gRPC
 - [Effective gRPC (2018)](https://john-millikin.com/effective-grpc)
 - [Filtering gRPC Messages using Envoy](https://github.com/salrashid123/envoy_grpc_decode)
 - [protoc-gen-grpc-gateway-ts](https://github.com/grpc-ecosystem/protoc-gen-grpc-gateway-ts) - TypeScript client generator for the grpc-gateway project.
+- [gRPC Long-lived Streaming](https://github.com/omri86/longlived-grpc)

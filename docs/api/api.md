@@ -67,6 +67,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Cloudflare Node](https://github.com/cloudflare/node-cloudflare)
 - [YouTube Search Python](https://github.com/alexmercerind/youtube-search-python) - Search for YouTube videos, channels & playlists. Get video & playlist information using link. Get search suggestions.
 - [YouTube Transcript/Subtitle API](https://github.com/jdepoix/youtube-transcript-api) - Python API which allows you to get the transcript/subtitles for a given YouTube video.
+- [YouTube Music Node](https://github.com/baptisteArno/node-youtube-music)
 - [GIPHY SDKs](https://github.com/Giphy/giphy-js)
 - [OpenAI JS](https://github.com/Njerschow/openai-api) - Tiny client module for the openAI API.
 - [Notion JS](https://github.com/dragonman225/notionapi-agent) - Unofficial Node.js API client for Notion.

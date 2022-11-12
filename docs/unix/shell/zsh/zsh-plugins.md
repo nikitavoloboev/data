@@ -69,3 +69,4 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 - [Zsh modules written in rust](https://github.com/mgattozzi/zsh-module-poc) ([Tweet](https://twitter.com/mgattozzi/status/1404598945389633538))
 - [Fig Plugins](https://github.com/withfig/plugins) - Plugin store for zsh, bash & fish.
 - [zcomet](https://github.com/agkozak/zcomet) - Fast, Simple Zsh Plugin Manager.
+- [Contextual Abbreviations for ZSH](https://github.com/langston-barrett/zsh-contextual-abbrevs) - Supercharged context-dependent aliases for ZSH that save you keystrokes.
