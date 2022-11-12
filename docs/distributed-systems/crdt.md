@@ -97,3 +97,4 @@ title: Conflict-free replicated data type
 - [How to build a todo list app using state-based CRDTs](https://twitter.com/JungleSilicon/status/1576015894618451968)
 - [Evolu](https://github.com/evoluhq/evolu) - React Hooks library for local-first software with end-to-end encrypted backup and sync using SQLite and CRDT. ([Twitter](https://twitter.com/evoluhq))
 - [Katara](https://github.com/hydro-project/katara) - Synthesize CRDTs from classic data types with verified lifting.
+- [Otto Test](https://github.com/tablyinc/otto-test) - Unified approach to CRDTs and OT.

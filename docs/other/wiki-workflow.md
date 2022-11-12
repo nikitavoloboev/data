@@ -189,6 +189,7 @@ I want to:
 - [Kormyen's Memex](https://kormyen.github.io/memex/)
 - [Chotrin's Wiki](https://chotrin.tilde.institute/)
 - [Ten Digits](https://tendigits.space/site/index.html)
+- [Fenil Jain](https://github.com/feniljain/knowledge-base)
 - [Sridhar Ratnakumar](https://notes.srid.ca/) ([Code](https://github.com/srid/notes.srid.ca))
 - [Uzay-G's Wiki](https://knowledge.uzpg.me/)
 - [Clinton Boys's Garden](http://mtsolitary.com/)

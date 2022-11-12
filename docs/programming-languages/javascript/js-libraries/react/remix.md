@@ -182,3 +182,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Roadmap • Hydrogen: Shopify’s headless commerce framework](https://hydrogen.shopify.dev/roadmap)
 - [Remix web framework aquired by Shopify (2022)](https://remix.run/blog/remixing-shopify) ([HN](https://news.ycombinator.com/item?id=33405997))
 - [Remix-stubs](https://github.com/jrestall/remix-stubs) - Example Remix unit testing stubs implementation and Storybook integration.
+- [Zodix](https://github.com/rileytomasek/zodix) - Zod utilities for Remix loaders and actions.

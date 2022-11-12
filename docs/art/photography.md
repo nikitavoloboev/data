@@ -8,6 +8,7 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 
 ## Interesting cameras
 
+- [Fujifilm X100V](https://fujifilm-x.com/en-us/products/cameras/x100v/) ([Review](https://www.youtube.com/watch?v=b_Smp1bEXlY))
 - [Leica M11](https://leica-camera.com/en-int/photography/cameras/m/m11-black)
 - [Leica Q2](https://leica-camera.com/en-US/photography/cameras/q/q2-black) ([Review](https://www.youtube.com/watch?v=Mm2N8tOJSx0))
 - [Sony Alpha 1](https://alphauniverse.com/stories/sony-announces-the-alpha-1/)
@@ -246,3 +247,4 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [Classic 50mm “Normal” Lens (2022)](https://www.garyvoth.com/the-forgotten-lens/) ([HN](https://news.ycombinator.com/item?id=33394891))
 - [iPhone 14 Pro Camera Review: A Small Step, a Leap (2022)](https://lux.camera/iphone-14-pro-camera-review-a-small-step-a-huge-leap/) ([HN](https://news.ycombinator.com/item?id=33425182))
 - [What was the best move you made for your photography? (2022)](https://www.reddit.com/r/photography/comments/ymbafu/what_was_the_best_move_you_made_for_your/)
+- [GxAce - YouTube](https://www.youtube.com/c/GxAce/videos)

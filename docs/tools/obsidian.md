@@ -202,6 +202,7 @@ div.CodeMirror-cursor,
 - [Text Generator Plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
 - [Grammarly Plugin](https://github.com/simonpacis/obsidian-grammarly-plugin) - Add Grammarly spellchecking to Obsidian.
 - [Daily Notes Editor](https://github.com/Quorafind/Obsidian-Daily-Notes-Editor) - Plugin for you to edit a bunch of daily notes in one page(inline), which works similar to Roam Research's default daily note view.
+- [Custom Sort](https://github.com/SebastianMC/obsidian-custom-sort) - Take full control over the order and sorting of folders and notes in File Explorer in Obsidian.
 
 ## Themes
 

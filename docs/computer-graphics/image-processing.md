@@ -215,3 +215,5 @@
 - [ImageWand: privacy-first image conversion experiment with Go & WASM (2022)](https://brunoluiz.net/blog/2022/aug/imagewand-privacy-first-image-conversion-experiment-with-golang-and-wasm/)
 - [Cactus Image Viewer](https://github.com/Wassimulator/CactusViewer) - Small handmade image viewer written in C/C++.
 - [Fast PNG Encoder](https://github.com/veluca93/fpnge) - Fast PNG encoder that uses AVX2 and a special Huffman table to encode images faster.
+- [image-compare](https://github.com/ChrisRega/image-compare) - Simple image comparison in rust based on the image crate.
+- [imageinfo-rs](https://github.com/xiaozhuai/imageinfo-rs) - Rust library to get image size and format without loading/decoding.

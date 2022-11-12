@@ -315,3 +315,4 @@ title: React Native
 - [Open Native](https://github.com/OpenNative/open-native) - Vendor-unlock React Native. Use React Native native modules with other cross-platform frameworks.
 - [React Native Three Column Layout](https://github.com/craftzdog/react-native-three-column-layout)
 - [ReactNative Purchases](https://github.com/RevenueCat/react-native-purchases) - In-App Subscriptions Made Easy.
+- [Portalize](https://github.com/jeremybarbet/react-native-portalize) - Simplest way to render anything on top of the rest.

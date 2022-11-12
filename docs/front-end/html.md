@@ -300,4 +300,4 @@ Hi<div>oh no break</div>
 - [Browsers, JSON, and FormData (2022)](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
 - [HTMX Components](https://github.com/reggi/htmx-components)
 - [Bromb](https://github.com/samuelstroschein/bromb) - Feedback widget designed to be simple and customizable.
-- [xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor.
+- [xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor. ([HN](https://news.ycombinator.com/item?id=33573157))

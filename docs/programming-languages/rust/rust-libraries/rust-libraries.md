@@ -364,6 +364,7 @@
 - [TDengine connector for Rust](https://github.com/taosdata/taos-connector-rust)
 - [Hug SQLx](https://github.com/mbuczko/hugsqlx) - Derive macro turning SQL queries into plain Rust functions.
 - [mysql_async](https://github.com/blackbeam/mysql_async) - Asyncronous Rust Mysql driver based on Tokio.
+- [concurrent-map](https://github.com/komora-io/concurrent-map) - Lock-free linearizable map.
 
 ## Video
 
@@ -892,6 +893,7 @@
 - [Inter-Struct](https://github.com/Nukesor/inter-struct) - Automatically generated traits for operations between arbitrary structs.
 - [structmap](https://github.com/ex0dus-0x/structmap) - Procedural macro crate for conversion between Rust structs and associative containers.
 - [mixin](https://github.com/DenisKolodin/mixin) - Macros that combine fields and implementations of different structs.
+- [Rust Embed for Web](https://github.com/SeriousBug/rust-embed-for-web) - Rust Macro which embeds files into your executableFork of rust-embed with a focus on usage in web servers..
 
 ## Math
 
@@ -2594,3 +2596,4 @@
 - [Interoptopus](https://github.com/ralfbiedert/interoptopus) - Polyglot bindings generator for your library. Write a robust library in Rust, easily access it from your second-favorite language.
 - [Rust UML Diagram Generator](https://github.com/SelamaAshalanore/rudg) - Tools that parsing Rust code into UML diagram.
 - [Typebinder](https://github.com/impero-com/typebinder) - Exports TS definitions from Rust module.
+- [conc-map-bench](https://github.com/xacrimon/conc-map-bench) - Uses the bustle benchmarking harness.

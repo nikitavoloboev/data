@@ -143,3 +143,4 @@
 - [Fission](https://fission.codes/) - Build the future of web apps at the edge.
 - [dutree](https://github.com/nachoparker/dutree) - Tool to analyze file system usage written in Rust.
 - [shinydir](https://github.com/Unoqwy/shinydir) - CLI tool to enforce clean directories by setting rules.
+- [Shufflecake](https://shufflecake.net/) - Tool for Linux that allows to create multiple hidden volumes on a storage device.

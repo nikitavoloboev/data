@@ -19,3 +19,4 @@ title: Futhark
 - [neptune-triton](https://github.com/filecoin-project/neptune-triton) - Futhark implementation of the Poseidon hash function, targeting OpenCL for execution on GPU.
 - [futhark-bindgen](https://github.com/zshipko/futhark-bindgen) - Futhark binding generator.
 - [Genfut](https://github.com/Erk-/genfut) - Tool to generate a Rust library to interact with exported functions from a Futhark file.
+- [Array short-circuiting (2022)](https://futhark-lang.org/blog/2022-11-03-short-circuiting.html)

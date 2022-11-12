@@ -4,6 +4,8 @@
 
 Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [classes.wtf](https://github.com/ekzhang/classes.wtf) is great implementation of fast search.
 
+[Spyglass](https://github.com/a5huynh/spyglass) is nice too for crawling & indexing various web services.
+
 ## Notes
 
 - [If you’re implementing search please understand that using quotes means “find this literal text”.](https://twitter.com/davidfowl/status/1574138778129944576)

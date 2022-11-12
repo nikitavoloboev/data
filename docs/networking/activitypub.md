@@ -54,3 +54,4 @@ title: ActivityPub
 - [Highly opinionated guide to learning about ActivityPub (2019)](https://tinysubversions.com/notes/reading-activitypub/)
 - [RustyPub](https://github.com/hachyserve/rustypub) - ActivityPub in Rust.
 - [The Fediverse is inefficient but that's a good trade-off (2022)](https://berk.es/2022/11/08/fediverse-inefficiencies/) ([HN](https://news.ycombinator.com/item?id=33543376))
+- [RSS to ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub)
