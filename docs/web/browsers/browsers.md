@@ -261,3 +261,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [Time to Stable](https://time-to-stable.deno.dev/) - For a given set of browsers, what APIs are in all of them and how many days it take for the API to land in the first browser to the last.
 - [Shortkeys](https://www.shortkeys.app/) - Custom keyboard shortcuts for your browser. ([Code](https://github.com/crittermike/shortkeys))
 - [Thoughts on Arc Browser (2022)](https://chrishannah.me/arc-browser/) ([HN](https://news.ycombinator.com/item?id=33539549))
+- [Building a Web Browser With SDL in C++](https://devtails.xyz/@adam/building-a-web-browser-with-sdl-in-c++)

@@ -1048,6 +1048,7 @@
 - [stqdm](https://github.com/Wirg/stqdm) - Simplest way to handle a progress bar in streamlit app.
 - [mundipy](https://github.com/BuntingLabs/mundipy) - Python framework for spatial data manipulation.
 - [Slicerator](https://github.com/soft-matter/slicerator) - Lazy-loading, fancy-slicable iterable.
+- [jschon](https://github.com/marksparkza/jschon) - Pythonic, extensible JSON Schema implementation.
 
 ## Notes
 
