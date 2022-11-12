@@ -8,6 +8,8 @@ Use [Warp](https://www.warp.dev/) as my terminal & [Zsh](zsh/zsh.md) as my shell
 
 [ShellCheck](https://github.com/koalaman/shellcheck) is great for linting scripts. [How Warp works](https://www.warp.dev/blog/how-warp-works) is a great read. [sh](https://github.com/mvdan/sh) is nice Go lib to parse Shell code.
 
+[rc](https://manpages.ubuntu.com/manpages/bionic/man1/rc.1.html) shell from [Plan 9 OS](https://9p.io/plan9/) is interesting too.
+
 ## Variables
 
 All active variables can be seen by running `env`.

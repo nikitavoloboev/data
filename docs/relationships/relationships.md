@@ -56,6 +56,15 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 
 [The Proust Questionnaire](https://www.vanityfair.com/magazine/2000/01/proust-questionnaire) has nice questions to get to know a person.
 
+For long time relationships I think key things to look for are:
+
+1. Actually living together.
+2. See how they handle setbacks/failure.
+3. How attentive they are especially long distance.
+4. How you feel together and how you feel separate. Good relationship should make you feel better.
+
+There’s many more points like how they treat others [including animals](../environment/veganism.md) but I think that’s more ‘good/bad person’ qualities rather than can you vibe together.
+
 ## Notes
 
 - [All Too Well](https://www.youtube.com/watch?v=tollGa3S0o8) clip/film is a nice overview of narcissistic relationship.
@@ -154,6 +163,7 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [Toxic monogamy does exist. Thinking true love means never lusting for others, thinking jealousy is awful, thinking we own partners, thinking you don't need other friends and positive adult relationships, that you should have sex you don't want sometimes, those are all really unhealthy things that our world tends to promote. But monogamy is just knowing you want to commit and focus your relationship intimacy and resources on one person, regardless of feelings to others. Perfectly awesome.](https://www.reddit.com/r/polyamory/comments/yndeh3/do_any_of_you_believe_monogamy_is_toxic/)
 - [A spark is the thing you say is missing when you want to end things.](https://www.reddit.com/r/datingoverthirty/comments/yoxmii/what_is_a_spark_to_you/)
 - [I’ve always thought of the spark as an internal experience. Some people make you feel like the best version of yourself, when you’re around them you feel smarter, funnier, more energetic etc and that’s the spark. The goal is to leave a date feeling good about yourself in addition to feeling good about the other person.](https://www.reddit.com/r/datingoverthirty/comments/yoxmii/what_is_a_spark_to_you/)
+- [Just broke up with my boyfriend on really mutual terms and this is such a weird experience lmaoo this is my first time not having a really toxic and messy breakup, we’re still gonna be besties.](https://twitter.com/fayemikah/status/1591285147856703488)
 
 ## Links
 

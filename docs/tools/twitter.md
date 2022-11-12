@@ -244,3 +244,4 @@ I also find it [frustrating that Twitter iOS client doesn't have the ability to 
 - [All verified users on Twitter as of Nov 1st, 2022](https://github.com/IntiDC/twitter-verified)
 - [Elon asking for what Twitter users find annoying on Twitter now (2022)](https://twitter.com/elonmusk/status/1590383937284870145)
 - [Python code to parse a Twitter archive and output in various ways](https://github.com/timhutton/twitter-archive-parser)
+- [Eight Dollars](https://github.com/wseagar/eight-dollars) - Browser extension that shows twitter blue vs real verified users.

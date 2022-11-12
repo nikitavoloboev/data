@@ -172,3 +172,4 @@ It's good idea to fund people who work on tools/libraries you use in your startu
 - [Ask HN: Firing an employee under a month before vest? (2022)](https://news.ycombinator.com/item?id=33186789)
 - [Normalising Layoffs/Firing (2022)](https://news.ycombinator.com/item?id=33200261)
 - [Ask HN: Who’s been laid off and what’s your strategy for seeking new employment (2022)](https://news.ycombinator.com/item?id=33242807)
+- [Layoffs.fyi](https://layoffs.fyi/) - Tech Layoff Tracker and Startup Layoff Lists.

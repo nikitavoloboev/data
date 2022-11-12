@@ -4,7 +4,9 @@ My current favorite font for programming is [JetBrains Mono](https://www.jetbrai
 
 I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I love the default San Francisco Apple font for use in everything else.
 
-[Variable Fonts](https://v-fonts.com/) are neat. [Glyphs app](https://glyphsapp.com/) is [great for designing fonts](https://twitter.com/joeltalksdesign/status/1531296706792415234).
+[Variable Fonts](https://v-fonts.com/) are neat. Like [Mona Sans & Hubot Sans](https://github.com/mona-sans) by GitHub.
+
+[Glyphs app](https://glyphsapp.com/) is [great for designing fonts](https://twitter.com/joeltalksdesign/status/1531296706792415234).
 
 ## Interesting fonts
 
