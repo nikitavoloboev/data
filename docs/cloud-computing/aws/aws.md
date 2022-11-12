@@ -406,3 +406,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [Terraform AWS Components](https://github.com/cloudposse/terraform-aws-components) - Opinionated, self-contained Terraform root modules that each solve one, specific problem.
 - [Data Engineering with AWS (2021)](https://www.packtpub.com/product/data-engineering-with-aws/9781800560413) ([Code](https://github.com/PacktPublishing/Data-Engineering-with-AWS))
 - [alterNAT](https://github.com/1debit/alternat) - High availability implementation of AWS NAT instances.
+- [AWS IAM Roles, a tale of unnecessary complexity (2022)](https://infosec.rodeo/posts/thoughts-on-aws-iam/) ([HN](https://news.ycombinator.com/item?id=33566419))

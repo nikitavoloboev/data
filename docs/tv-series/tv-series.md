@@ -61,3 +61,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [I need a show for to help me cope with depression (2022)](https://www.reddit.com/r/NetflixBestOf/comments/xl8ybg/request_i_need_a_show_for_to_help_me_cope_with/)
 - [mnamer](https://github.com/jkwill87/mnamer) - Media file renamer and organizion tool.
 - [Ask HN: Any legal place to buy offline TV movie downloads? (2022)](https://news.ycombinator.com/item?id=33140295)
+- [TV shows similar to (Black Mirror), (Love, Death, and Robots) or, (Mr. Robot)? (2022)](https://www.reddit.com/r/televisionsuggestions/comments/ysdg61/what_tv_shows_are_similar_to_black_mirror_love/)

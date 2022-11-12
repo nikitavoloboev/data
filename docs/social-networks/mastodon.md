@@ -92,3 +92,5 @@ title: Mastodon
 - [Toot](https://github.com/ihabunek/toot) - Mastodon CLI client.
 - [How Mastodon Search Works: Why Can You Only Use Hashtags? (2022)](https://midrange.tedium.co/issues/how-mastodon-search-works/)
 - [Prometheus Exporter for Mastodon](https://github.com/systemli/prometheus-mastodon-exporter)
+- [Surviving and thriving through the 2022-11-05 meltdown (2022)](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/) ([Lobsters](https://lobste.rs/s/czknru/surviving_thriving_through_2022_11_05))
+- [Mastodon migration survival guide](https://twitter.com/bodil/status/1591148693599752206)

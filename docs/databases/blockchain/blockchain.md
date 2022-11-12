@@ -370,7 +370,6 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Sui](https://github.com/MystenLabs/sui) - Smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
 - [Веб 3.0 (2022)](https://vas3k.ru/blog/web3/)
 - [Aptos](https://aptoslabs.com/) - Building the safest and most scalable Layer 1 blockchain. ([Code](https://github.com/aptos-labs/aptos-core))
-- [tea](https://tea.xyz/) - Toolkit that builds the Internet.
 - [A Comparison of Heterogeneous Blockchain Networks (2022)](https://medium.com/@arikan/a-comparison-of-heterogeneous-blockchain-networks-4bf7ff2fe279) ([Tweet](https://twitter.com/el33th4xor/status/1507686380658429957))
 - [Matchstick](https://github.com/LimeChain/matchstick) - Unit testing framework for The Graph protocol.
 - [0Chain](https://0chain.net/) - Decentralized blockchain-based storage platform with built-in privacy and security compliance. It provides high performance, enforceable SLAs, choice of providers for all enterprise grade applications. ([Code](https://github.com/0chain/0chain))

@@ -325,3 +325,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Deno v1.27 (2022)](https://deno.com/blog/v1.27) ([HN](https://news.ycombinator.com/item?id=33361450))
 - [pydeno](https://github.com/federico-terzi/pydeno) - Python bindings for the Deno JS runtime.
 - [Deno Window Manager](https://github.com/DjDeveloperr/dwm) - Cross-platform window creation and management for Deno.
+- [Denonomicon](https://github.com/aapoalas/denonomicon) - Dark Arts of Deno Foreign Function Interface Programming.

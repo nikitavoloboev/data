@@ -299,3 +299,4 @@
 - [What are some underrated tools every game developer should know? (2022)](https://www.reddit.com/r/gamedev/comments/yely22/what_are_some_underrated_tools_every_game/)
 - [Books to read for game dev](https://twitter.com/FreyaHolmer/status/1586737169619623938)
 - [Hack Club Sprig](https://github.com/hackclub/sprig) - Learn to code by making games in a JavaScript web-based game editor.
+- [Code Poetry: Easing Tutorial & Optimizations](https://github.com/Michaelangel007/easing)

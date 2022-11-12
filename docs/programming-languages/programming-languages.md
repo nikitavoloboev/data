@@ -461,3 +461,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Malbolge](https://github.com/return/malbolge) - Self-modifying programming language that is made to be deliberately difficult to program in and close to impossible to read.
 - [P4 Compiler](https://github.com/oxidecomputer/p4)
 - [Elvish](https://github.com/elves/elvish) - Expressive Programming Language + Versatile Interactive Shell.
+- [The Cost of Exception Handling (2022)](https://grenouillebouillie.wordpress.com/2022/05/09/the-hidden-cost-of-exception-handling/) ([HN](https://news.ycombinator.com/item?id=33557022))

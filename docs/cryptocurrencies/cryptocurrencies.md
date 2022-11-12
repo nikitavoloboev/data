@@ -303,3 +303,5 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 - [Cairo implementation of Gradual Dutch Auctions](https://github.com/cartridge-gg/cairo-gda)
 - [a16z crypto](https://a16zcrypto.com/) - Venture capital fund that invests in crypto and web3 startups.
 - [The Only Crypto Story You Need, by Matt Levine (2022)](https://www.bloomberg.com/features/2022-the-crypto-story/)
+- [FTX filing Chapter 11 in US explained (2022)](https://twitter.com/wassielawyer/status/1591099947461799936)
+- [97.7% of tokens launched on Uniswap were scams and rug pulls (2022)](https://arxiv.org/abs/2201.07220) ([HN](https://news.ycombinator.com/item?id=33572361))

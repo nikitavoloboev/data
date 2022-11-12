@@ -106,3 +106,4 @@ title: TCP
 - [Linux Kernel MultiPath TCP Project](https://www.multipath-tcp.org/) ([HN](https://news.ycombinator.com/item?id=33220975))
 - [We need a replacement for TCP in the data center (2022)](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf) ([HN](https://news.ycombinator.com/item?id=33401480))
 - [Moving past TCP in the data center (2022)]](https://lwn.net/SubscriberLink/913260/8819c42491a70e9b/)
+- [wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - HTTP Tunneling through WhatsApp. ([HN](https://news.ycombinator.com/item?id=33568994))
