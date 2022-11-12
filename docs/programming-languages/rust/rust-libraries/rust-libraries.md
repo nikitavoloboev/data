@@ -2313,6 +2313,7 @@
 - [Banyan](https://github.com/Actyx/banyan)
 - [xtaskops](https://github.com/jondot/xtaskops) - Goodies for working with the xtask concept in Rust.
 - [JavaScriptCore API for Rust](https://github.com/penberg/rusty_jsc)
+- [ijson](https://github.com/Diggsey/ijson) - Offers a replacement for serde-json's Value type, which is significantly more memory efficient.
 
 ## Cargo Plugins
 

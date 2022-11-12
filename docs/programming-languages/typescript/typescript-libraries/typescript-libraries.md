@@ -666,6 +666,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [bech32](https://github.com/bitcoinjs/bech32) - Bech32 encoding / decoding.
 - [p-forever](https://github.com/sindresorhus/p-forever) - Run promise-returning & async functions repeatedly until you end it.
 - [bhttp-js](https://github.com/dajiaji/bhttp-js) - BHTTP (Binary Representation of HTTP Messages) Encoder and Decoder.
+- [unhead](https://github.com/harlan-zw/unhead) - Universal document tag manager. Tiny, adaptable and full featured.
+- [Externality](https://github.com/unjs/externality) - Utilities for handling identifying whether a given package or path should be considered an external package that can be imported at runtime.
 
 ## Links
 

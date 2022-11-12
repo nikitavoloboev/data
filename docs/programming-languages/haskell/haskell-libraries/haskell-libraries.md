@@ -386,6 +386,7 @@
 - [exceptions](https://github.com/ekmett/exceptions) - Extensible exceptions that are compatible with the monad transformer library.
 - [resource-pool](https://github.com/scrive/pool) - High-performance striped resource pooling implementation for Haskell.
 - [Open Games](https://github.com/jules-hedges/open-games-hs) - Mathematical structure allowing you to describe game-theoretical games.
+- [incremental-parser](https://github.com/blamario/incremental-parser) - Haskell parsing combinator liibrary that can be fed the input and emit the parsed output incrementally.
 
 ## Notes
 

@@ -554,3 +554,4 @@ for i, _ in enumerate(nums):
 - [Inline caches in the Skybison Python runtime (2022)](https://bernsteinbear.com/blog/inline-caches-in-skybison/)
 - [Python Asyncio: The Complete Guide (2022)](https://superfastpython.com/python-asyncio/) ([HN](https://news.ycombinator.com/item?id=33547323))
 - [Trie in Python (2022)](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/) ([Lobsters](https://lobste.rs/s/cb4oqs/trie_python))
+- [shira](https://github.com/darrenburns/shira) - Python inspector.

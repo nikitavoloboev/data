@@ -1887,6 +1887,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [rxgo](https://github.com/empijei/rxgo) - Reactive programming in Go.
 - [Terraform Cloud/Enterprise Go Client](https://github.com/hashicorp/go-tfe)
 - [Datadog Go](https://github.com/DataDog/datadog-go) - Library that provides a DogStatsD client in Go.
+- [Rgeo](https://github.com/sams96/rgeo) - Go package for basic, fast, local reverse geocoding.
 
 ## Links
 

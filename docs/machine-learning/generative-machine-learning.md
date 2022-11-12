@@ -144,3 +144,4 @@
 - [diffusers-rs](https://github.com/LaurentMazare/diffusers-rs) - Diffusers API in Rust/Torch.
 - [AI Art Tools and Resources in One Place](https://www.aiartapps.com/) ([HN](https://news.ycombinator.com/item?id=33501670))
 - [Stretch iPhone to its limit: 2GiB Stable Diffusion model runs locally on device (2022)](https://liuliu.me/eyes/stretch-iphone-to-its-limit-a-2gib-model-that-can-draw-everything-in-your-pocket/) ([HN](https://news.ycombinator.com/item?id=33539192))
+- [Generative AI: A Creative New World (2022)](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/)

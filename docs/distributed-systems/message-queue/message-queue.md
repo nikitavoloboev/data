@@ -47,3 +47,4 @@ title: Message queue
 - [BullMQ with BullBoard](https://github.com/railwayapp-templates/fastify-bullmq) - Template repository to deploy a robust queueing system on Railway using BullMQ and Redis.
 - [pgmq](https://github.com/adriangb/pgmq) - Message queue built on top of Postgres.
 - [laminarmq](https://github.com/arindas/laminarmq) - Scalable, distributed message queue powered by a segmented, partitioned, replicated and immutable log.
+- [sqlxmq](https://github.com/Diggsey/sqlxmq) - Message queue implemented on top of PostgreSQL.

@@ -612,3 +612,4 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [Ask HN: What are the reasons behind your success as a self-taught programmer? (2022)](https://news.ycombinator.com/item?id=33501929)
 - [Hussein Nasser - YouTube](https://www.youtube.com/c/HusseinNasser-software-engineering)
 - [Tuple's Pair Programming Guide](https://tuple.app/pair-programming-guide/) ([Code](https://github.com/tupleapp/pair-programming-guide))
+- [Programming Cheat Sheets](https://github.com/ThibaultJanBeyer/cheatsheets)
