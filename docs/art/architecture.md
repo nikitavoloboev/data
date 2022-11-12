@@ -115,3 +115,4 @@
 - [Automatic Construction](https://automatic-construction.com/) - Inexpensive concrete buildings. ([Builds Houses by Pumping Concrete Into Inflatable Forms](https://singularityhub.com/2022/10/06/this-startup-builds-houses-by-pumping-concrete-into-inflatable-forms/)) ([HN](https://news.ycombinator.com/item?id=33117180))
 - [Why the world is full of box-shaped buildings with square windows, plain walls, and no ornamentation](https://twitter.com/culturaltutor/status/1584935464590790656)
 - [Things you'd love in a kitchen](https://twitter.com/jlongster/status/1586805696523370496)
+- [An overview of concrete forming technology (2022)](https://constructionphysics.substack.com/p/an-overview-of-concrete-forming-technology) ([HN](https://news.ycombinator.com/item?id=33562660))

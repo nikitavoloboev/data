@@ -18,6 +18,12 @@ I use Rust to build desktop apps with [Tauri](rust-libraries/tauri.md). But try 
 
 - [emojied](https://github.com/sekunho/emojied) - Fast URL shortener that uses emojis, only emojis. ([What I learned](https://blog.sekun.dev/posts/what-i-learned-from-building-a-rust-emoji-url-shortener/))
 
+## Code
+
+```shell
+cargo watch -q -x "run -q" # watch for Rust files and run on changes
+```
+
 ## Notes
 
 - [Note that `cargo check` is faster than doing a full compile. Also I use the `rust-analyzer` language server for IDE integration to catch errors as I write them. Between the two, my workflow usually avoids the need for actually compiling a binary until I'm ready to run tests.](https://news.ycombinator.com/item?id=21759255)

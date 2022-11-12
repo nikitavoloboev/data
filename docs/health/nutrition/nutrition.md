@@ -109,4 +109,4 @@ I try drink only water/tea with occasional coffee. No added sugar in food/drinks
 - [How do gland problems stop people from losing weight?](https://www.reddit.com/r/askscience/comments/ydyk2l/how_do_gland_problems_stop_people_from_losing/)
 - [Good podcasts about nutrition (2022)](https://www.reddit.com/r/nutrition/comments/yinixv/any_good_podcasts_about_nutrition/)
 - [Food for hair growth and bear growth](https://www.youtube.com/watch?v=YDN_w08jIDY)
-- [Is it time to start eating algae? (2022)](https://www.nationalgeographic.com/environment/article/is-it-time-to-start-eating-algae) ([HN](https://news.ycombinator.com/item?id=33562614))
+- [Is algae the new kale? (2022)](https://www.nationalgeographic.com/environment/article/is-it-time-to-start-eating-algae) ([HN](https://news.ycombinator.com/item?id=33562614))

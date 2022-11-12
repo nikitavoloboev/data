@@ -152,3 +152,4 @@
 - [remark-lint-frontmatter-schema](https://github.com/JulianCataldo/remark-lint-frontmatter-schema) - Validate your Markdown frontmatter data against a JSON schema.
 - [Snekdown](https://github.com/Trivernis/snekdown) - Extended markdown parser written in pure rust.
 - [TOC](https://github.com/samoht/toc) - Automatically generate table of contents for Markdown files.
+- [md](https://pkg.go.dev/src.elv.sh/pkg/md@master) - Markdown parser in Go.

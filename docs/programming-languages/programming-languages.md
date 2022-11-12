@@ -460,3 +460,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Frank](https://github.com/frank-lang/frank) - Strict functional programming language with a bidirectional effect type system designed from the ground up around a novel variant of Plotkin and Pretnar's effect handler abstraction.
 - [Malbolge](https://github.com/return/malbolge) - Self-modifying programming language that is made to be deliberately difficult to program in and close to impossible to read.
 - [P4 Compiler](https://github.com/oxidecomputer/p4)
+- [Elvish](https://github.com/elves/elvish) - Expressive Programming Language + Versatile Interactive Shell.

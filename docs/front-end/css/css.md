@@ -577,3 +577,4 @@ all: unset
 - [Making Tables Responsive With Minimal CSS (2019)](https://bt.ht/tables/)
 - [Is there too much CSS now? (2022)](https://css-tricks.com/is-there-too-much-css-now/) ([HN](https://news.ycombinator.com/item?id=33507817))
 - [SpinKit](https://tobiasahlin.com/spinkit/) - Simple CSS Spinners. ([Code](https://github.com/tobiasahlin/SpinKit))
+- [The evolution of scalable CSS (2022)](https://frontendmastery.com/posts/the-evolution-of-scalable-css/) ([HN](https://news.ycombinator.com/item?id=33572264))
