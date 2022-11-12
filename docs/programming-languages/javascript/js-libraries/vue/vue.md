@@ -208,3 +208,4 @@ title: Vue.js
 - [Nuxt-Iron-Session](https://github.com/wobsoriano/nuxt-iron-session) - Add stateless session support for Nuxt apps using signed and encrypted cookies.
 - [vue-mixable](https://github.com/LinusBorg/vue-mixable) - Turn Vue Mixins into Composables with a simple helper function.
 - [Nuxt Plausible](https://github.com/johannschopplich/nuxt-plausible) - Nuxt 3 module to natively integrate Plausible analytics.
+- [Vue Data Picker](https://github.com/Vuepic/vue-datepicker)

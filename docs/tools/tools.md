@@ -578,6 +578,7 @@ One of my favorite things in life is building little tools for solving even the 
 - [Curabase](https://www.curabase.com/) - Modern browser bookmarking tool for teams, research, or just yourself.
 - [Mix](https://mix.com/) - Personalized discovery platform that unlocks more of the internet you care about.
 - [QR Menu Creator](https://qrmenucreator.com/) - Make Your Restaurant or Bar Menu in a QR Code. ([Tweet](https://twitter.com/levelsio/status/1318890523743182851))
+- [CometChat](https://www.cometchat.com/) - Add Real-Time Text, Voice, & Video Chat to your Application. ([GitHub](https://github.com/cometchat-pro))
 - [TravelTime Maps](https://app.traveltimeplatform.com/) - Put your work postcode in, then the max time you want to travel, and it will show you area's within that travel time.
 - [Sheety](https://sheety.co/) - Turn your Google Sheet into an API.
 - [Tokens for Mac](http://usetokens.com/) - Makes it remarkably easy to generate, share, and track promo codes for your iOS and Mac apps.

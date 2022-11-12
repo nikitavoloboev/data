@@ -146,3 +146,4 @@
 - [OpenRPC for Common Lisp](https://github.com/40ants/openrpc)
 - [Ultralisp](https://ultralisp.org/) - Fast Common Lisp Repository. ([Code](https://github.com/ultralisp/ultralisp))
 - [From Common Lisp to Julia (2022)](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/index.html) ([HN](https://news.ycombinator.com/item?id=33519402))
+- [Brief interview with Common Lisp co-creator Dr. Scott Fahlman (2022)](https://pldb.com/posts/scottFalhmanInterview.html) ([HN](https://news.ycombinator.com/item?id=33574311)) ([Reddit](https://www.reddit.com/r/lisp/comments/ystf9s/a_brief_interview_with_common_lisp_creator_dr/))

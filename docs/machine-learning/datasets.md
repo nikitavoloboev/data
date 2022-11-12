@@ -210,3 +210,5 @@
 - [What should I do if a dataset is too large to store in my local computer? (2022)](https://www.reddit.com/r/learnmachinelearning/comments/y5ijth/what_should_i_do_if_a_dataset_is_too_large_to/)
 - [Recommendations thread: Your favorite sources of raw data (of any type) | Lobsters (2022)](https://lobste.rs/s/5guoty/recommendations_thread_your_favorite)
 - [Open Source Data Annotation & Labeling Tools](https://github.com/zenml-io/awesome-open-data-annotation)
+- [Waste datasets review](https://github.com/AgaMiko/waste-datasets-review) - List of image datasets with any kind of litter, garbage, waste and trash.
+- [TACO](https://github.com/pedropro/TACO) - Trash Annotations in Context Dataset Toolkit.

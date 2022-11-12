@@ -147,3 +147,4 @@ title: Three.js
 - [Geo-Three](https://github.com/tentone/geo-three) - Based geographic world map visualization library for ThreeJS.
 - [The magical world of Particles with React Three Fiber and Shaders (2022)](https://blog.maximeheckel.com/posts/the-magical-world-of-particles-with-react-three-fiber-and-shaders/) ([Tweet](https://twitter.com/MaximeHeckel/status/1590015287633453057))
 - [Linear Vaporwave Three.js scene](https://github.com/MaximeHeckel/linear-vaporwave-react-three-fiber)
+- [Creating mirrors in react-three-fiber & ThreeJS](https://github.com/emmelleppi/codrops-r3f-mirrors)

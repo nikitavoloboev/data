@@ -428,3 +428,5 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [FFmpeg Commander](https://alfg.dev/ffmpeg-commander/) - FFmpeg Command Generator Web UI. ([Code](https://github.com/alfg/ffmpeg-commander))
 - [openencoder](https://github.com/alfg/openencoder) - Open Source Cloud Encoder for FFmpeg.
 - [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm) - Web-based FFProbe. Powered by FFmpeg, Vue and Web Assembly.
+- [OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) - Open Source API and interchange format for editorial timeline information.
+- [OpenTimelineIO YouTube example](https://github.com/OpenTimelineIO/otio-youtube-example)

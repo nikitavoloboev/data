@@ -1889,6 +1889,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Datadog Go](https://github.com/DataDog/datadog-go) - Library that provides a DogStatsD client in Go.
 - [Rgeo](https://github.com/sams96/rgeo) - Go package for basic, fast, local reverse geocoding.
 - [Go interface values](https://github.com/akutz/go-interface-values) - When storing a value in a Go interface allocates memory on the heap.
+- [Notify](https://github.com/projectdiscovery/notify) - Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.
 
 ## Links
 

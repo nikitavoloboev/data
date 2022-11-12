@@ -38,6 +38,7 @@ All valuable data posted on any of the networks is ultimately transferred and li
 - [Social networks usage destroy attention span for many](https://www.youtube.com/watch?v=kw_nY-tMuHE)
 - [The greatest business you can build is one that helps people feel loved and doing so in a financially sustainable way.](https://twitter.com/nikitabier/status/1586042045826621440)
 - [WhatsApp communication being blocked in Iran as protests against oppressive regime take place.](https://twitter.com/Erfan_khosravi/status/1572837240367370240)
+- [The key to the internet is to fully own what you love, regardless of what it is, and share it without shame.](https://twitter.com/nibrasibn/status/1591364149703237634)
 
 ## Links
 
