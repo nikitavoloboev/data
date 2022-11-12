@@ -144,6 +144,7 @@
 - [Zig-LibreSSL](https://github.com/haze/zig-libressl) - LibreSSL stream wrappers for Zig.
 - [zigmkv](https://github.com/vi/zigmkv) - Matroska/webm (mkv) parser in Zig.
 - [protobruh](https://github.com/zigtools/protobruh) - Protobuf for Zig.
+- [ziguid](https://github.com/goto-bus-stop/ziguid) - GUIDs for Zig.
 
 ## Links
 

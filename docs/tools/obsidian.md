@@ -201,6 +201,7 @@ div.CodeMirror-cursor,
 - [Strange New Worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Discover the connections of thought in your Obsidian vault.
 - [Text Generator Plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
 - [Grammarly Plugin](https://github.com/simonpacis/obsidian-grammarly-plugin) - Add Grammarly spellchecking to Obsidian.
+- [Daily Notes Editor](https://github.com/Quorafind/Obsidian-Daily-Notes-Editor) - Plugin for you to edit a bunch of daily notes in one page(inline), which works similar to Roam Research's default daily note view.
 
 ## Themes
 
