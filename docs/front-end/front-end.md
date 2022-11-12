@@ -1,6 +1,6 @@
 # Front End
 
-[Open UI](https://open-ui.org/) & [React Aria](https://react-spectrum.adobe.com/react-aria/) are nice.
+[Open UI](https://open-ui.org/) & [React Aria](https://react-spectrum.adobe.com/react-aria/) are nice. [Histoire](https://github.com/histoire-dev/histoire) is nice to test out components.
 
 ## Notes
 

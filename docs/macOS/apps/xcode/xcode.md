@@ -134,3 +134,4 @@ title: Xcode
 - [xcresultparser](https://github.com/a7ex/xcresultparser) - Parse the binary xcresult bundle from Xcode builds and test runs.
 - [Xcode2Rust](https://github.com/markusmoenig/Xcode2Rust) - Makes applications and games written in Rust accessible and deployable in Xcode.
 - [Scipio](https://github.com/giginet/Scipio) - Build tool to generate XCFramework.
+- [Managing Xcode Downloads (2022)](https://furbo.org/2022/11/09/managing-xcode-downloads/)

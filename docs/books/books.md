@@ -8,7 +8,7 @@ I also have bookshelves of books I [liked](https://www.goodreads.com/review/list
 
 Below are books I read (or listened) sorted by year I read them in. The books with links attached will lead to notes I made when reading the book. Books with 🌟 are my favorite.
 
-More books should be interactive and web first like [these notes](https://thebeginningofinfinity.xyz/).
+More books should be interactive and web first like [these notes](https://thebeginningofinfinity.xyz/). Love [Ted Chiang](https://www.goodreads.com/author/show/130698.Ted_Chiang)'s writing a lot.
 
 ### 2019
 
@@ -596,3 +596,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Cheap Books](https://www.pagesonpages.com/) - Finds the cheapest place to buy a book. ([HN](https://news.ycombinator.com/item?id=33147079))
 - [Where Is All the Book Data? (2022)](https://www.publicbooks.org/where-is-all-the-book-data/)
 - [Nice fiction authors](https://twitter.com/ankurnagpal/status/1586761840821997571)
+- [BookWyrm](https://joinbookwyrm.com/) - Social Reading and Reviewing.

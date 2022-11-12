@@ -69,3 +69,4 @@ title: Bevy Engine
 - [bevy_egui](https://github.com/mvlabat/bevy_egui) - Provides a Egui integration for the Bevy game engine.
 - [GGRS and Rapier working together in Bevy engine](https://github.com/cscorley/bevy_ggrs_rapier_example)
 - [Networking in Bevy/Rust: Bevy Renet Showcase (2022)](https://www.youtube.com/watch?v=fBHO0yptg1Y)
+- [Bevy 0.9 (2022)](https://bevyengine.org/news/bevy-0-9/) ([HN](https://news.ycombinator.com/item?id=33577284)) ([Reddit](https://www.reddit.com/r/rust/comments/ytiv2a/bevy_09/))

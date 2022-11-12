@@ -439,3 +439,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Why isn't Nix more popular? (2022)](https://www.reddit.com/r/NixOS/comments/yozi22/why_isnt_nix_more_popular/)
 - [ml-pkgs](https://github.com/nixvital/ml-pkgs) - Extra package for nix on machine learning and data science.
 - [devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments. ([Web](https://devenv.sh/))
+- [Global registry of Nix flakes](https://github.com/NixOS/flake-registry)
