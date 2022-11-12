@@ -134,3 +134,4 @@ title: Apache Kafka
 - [Postgres: a better message queue than Kafka? (2022)](https://dagster.io/blog/skip-kafka-use-postgres-message-queue) ([Lobsters](https://lobste.rs/s/syv1il/postgres_better_message_queue_than_kafka))
 - [Kafka Worker](https://github.com/maxwellpeterson/kafka-worker) - Kafka broker implementation on top of Cloudflare Workers. ([HN](https://news.ycombinator.com/item?id=33094720))
 - [Kafka Streams with Serverless Kafka (2022)](https://medium.com/cloudnesil/kafka-streams-with-serverless-kafka-44311350185a)
+- [Zilla](https://github.com/aklivity/zilla) - Event-driven API gateway that can extend Apache Kafka to the edge.
