@@ -20,7 +20,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Tasks
 
-- [Height](https://height.app) - Project tasks. Personal [goals](../focusing/goals.md)/ideas tracking.
+- [Height](https://height.app) - Project tasks. Personal [goals](../focusing/goals.md)/[ideas](../ideas/ideas.md) tracking.
 - [2Do](../macOS/apps/2do.md) - Personal tasks. Every task is actionable, tagged appropriately and sorted by priority.
 - [GitHub](../open-source/github/github.md) - Issues/PRs for projects I care about.
 
@@ -28,7 +28,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 - [Fantastical](../macOS/apps/fantastical.md) - Plan meetings & events.
 - [Calendly](https://calendly.com/) - Sharing my availability for efficient event arrangement.
-
+- [Luma](https://lu.ma) - Organizing online & IRL events. Sending newsletter updates for events.
 ## Chat
 
 - [Telegram](../tools/telegram.md) - Best native messenger with great stickers.
@@ -103,13 +103,13 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Cloud Compute
 
-- [Fly](https://fly.io/) is my favorite. [Railway](https://railway.app/) too.
-- [AWS](../cloud-computing/aws/aws.md)/[GCP](../cloud-computing/gcp/gcp.md) has many niche useful services too.
+- [Cloudflare Workers](https://workers.cloudflare.com/) preferred for APIs. [Fly](https://fly.io/) & [Railway](https://railway.app/) are nice too.
+- For serving websites, [Vercel](https://vercel.com), [Netlify](https://www.netlify.com/) are great. I try use [Cloudflare Pages](https://pages.cloudflare.com/) as my API is on Cloudflare Workers already.
+- [AWS](../cloud-computing/aws/aws.md)/[GCP](../cloud-computing/gcp/gcp.md) have some niche useful services I use too.
 
 ## Utility
 
 - [Excalidraw](https://excalidraw.com/) - Quick sketches, thinking things through.
-- [Luma](https://lu.ma/) - Organizing online & IRL events. Sending newsletter updates for events.
 
 ## Solid
 

@@ -255,3 +255,4 @@
 - [Metaballs (2017)](https://varun.ca/metaballs/) ([Lobsters](https://lobste.rs/s/flinr6/metaballs))
 - [LuisaCompute](https://github.com/LuisaGroup/LuisaCompute) - High-performance cross-platform computing framework for graphics and beyond.
 - [Sparse Voxel Octrees](https://github.com/tunabrain/sparse-voxel-octrees) - CPU Sparse Voxel Octree Implementation.
+- [Rust Sloth](https://github.com/ecumene/rust-sloth) - 3D software rasterizer for the terminal.

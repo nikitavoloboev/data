@@ -459,3 +459,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [Advanced techniques: Creating and sequencing audio - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Advanced_techniques)
 - [What is the best way to make friends in music? (2022)](https://www.reddit.com/r/WeAreTheMusicMakers/comments/yrti6q/what_is_the_best_way_to_make_friends_in_music/)
 - [Turning music into a chore is how I became a musician (2022)](https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/) ([HN](https://news.ycombinator.com/item?id=33545349))
+- [MIDI-to-Keypress](https://github.com/xobs/midi-to-keypress) - Takes MIDI input and turns it into keypresses.
