@@ -2046,3 +2046,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Top Go ORMs](https://github.com/d-tsuji/awesome-go-orms) - Most starred on GitHub.
 - [Go Vulnerability Management](https://github.com/golang/vuln)
 - [A consistent logging format for Go (2022)](https://www.youtube.com/watch?v=gd_Vyb5vEw0)
+- [Top Go Web Frameworks, most starred on GitHub](https://github.com/mingrammer/go-web-framework-stars)
+- [goimports-reviser](https://github.com/incu6us/goimports-reviser) - Right imports sorting & code formatting tool (goimports alternative).

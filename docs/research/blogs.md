@@ -346,3 +346,4 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Blog with Native Content Editing](https://vercel.com/templates/next.js/blog-nextjs-sanity) ([Tweet](https://twitter.com/sanity_io/status/1584986255489925120))
 - [Get Blogging!](https://getblogging.org/) - Your easy guide to starting a new blog.
 - [What to blog about (2022)](https://simonwillison.net/2022/Nov/6/what-to-blog-about/) ([HN](https://news.ycombinator.com/item?id=33495295))
+- [Sonic](https://github.com/go-sonic/sonic) - Go Blogging Platform. Simple and Powerful.
