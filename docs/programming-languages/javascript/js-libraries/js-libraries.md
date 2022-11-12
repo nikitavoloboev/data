@@ -1049,6 +1049,7 @@
 - [fast-json-clone](https://github.com/rhysd/fast-json-clone) - Tiny library to clone JSON values in pure JavaScript focusing on the speed.
 - [geotic](https://github.com/ddmills/geotic) - Entity Component System library for JS.
 - [Klipse](https://github.com/viebel/klipse) - JavaScript plugin for embedding interactive code snippets in tech blogs.
+- [hastscript](https://github.com/syntax-tree/hastscript) - Utility to create hast trees.
 
 ## Links
 

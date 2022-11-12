@@ -18,7 +18,7 @@ Only thing I dislike about Go is it's verbosity especially with respect to error
 
 That said, I am exploring writing more code in [Rust](../rust/rust.md) specifically because of [Tauri](../rust/rust-libraries/tauri.md).
 
-It's useful to setup linters like [GolangCI-Lint](https://github.com/golangci/golangci-lint).
+It's useful to setup linters like [GolangCI-Lint](https://github.com/golangci/golangci-lint) or commands from [Go Recipes](https://github.com/nikolaydubina/go-recipes).
 
 ## Commenting Go code
 
@@ -535,7 +535,7 @@ if *boolArgPtr != false {
 - [Useful bootstrap checklist for Go Projects](https://boyter.org/posts/useful-bootstrap-for-go-projects/)
 - [Building a Hotwired web app with Go and Templ (2021)](https://adrianhesketh.com/2021/06/04/hotwired-go-with-templ/)
 - [Go 1.17 is deprecating the traditional use of 'go get' (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet) ([HN](https://news.ycombinator.com/item?id=27630625)) ([Reddit](https://www.reddit.com/r/golang/comments/o7ejdv/go_117_is_deprecating_the_traditional_use_of_go/)) ([Lobsters](https://lobste.rs/s/jb9mho/go_1_17_is_deprecating_traditional_use_go))
-- [Go recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects.
+- [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects.
 - [Deploy a Go app with Dokku (HTTPS and auto-deployment) (2021)](https://shellbear.me/blog/go-dokku-deployment)
 - [Go Concurrency - Worker Pool Pattern](https://github.com/godoylucase/workers-pool)
 - [Awesome Go Workshops](https://github.com/amit-davidson/awesome-golang-workshops)
