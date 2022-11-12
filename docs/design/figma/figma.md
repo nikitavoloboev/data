@@ -114,3 +114,4 @@ title: Figma
 - [Figma: Making multiplayer more reliable (2022)](https://www.figma.com/blog/making-multiplayer-more-reliable/)
 - [Nice Figma thumbnails](https://twitter.com/Davallree/status/1587150962015186944)
 - [Auto Layout Tutorial in Figma (2022)](https://www.youtube.com/watch?v=OAHOqtWwek0)
+- [What should Figma focus on next? (2022)](https://twitter.com/skuwamoto/status/1591453629437050880)
