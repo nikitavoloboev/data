@@ -669,6 +669,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [unhead](https://github.com/harlan-zw/unhead) - Universal document tag manager. Tiny, adaptable and full featured.
 - [Externality](https://github.com/unjs/externality) - Utilities for handling identifying whether a given package or path should be considered an external package that can be imported at runtime.
 - [Pixi3D](https://github.com/jnsmalm/pixi3d) - 3D renderer for PixiJS. Seamless integration with 2D applications.
+- [MakeTypes](https://github.com/jvilk/MakeTypes) - Generate TypeScript types and proxy classes from example JSON objects. Type check JSON objects at runtime.
 
 ## Links
 

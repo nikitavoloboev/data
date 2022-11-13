@@ -450,6 +450,8 @@
 - [pika](https://github.com/pika-org/pika) - C++ library for concurrency and parallelism.
 - [Benchmark](https://github.com/google/benchmark) - Microbenchmark support library.
 - [BzTree](https://github.com/sfu-dis/bztree) - Open-source BzTree implementation.
+- [function2](https://github.com/Naios/function2) - Improved and configurable drop-in replacement to std::function that supports move only types, multiple overloads and more.
+- [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
 
 ## Links
 

@@ -2,9 +2,9 @@
 
 [Flexport](https://www.flexport.com/) is a great logistics company.
 
-Personally would love to own [Porsche](https://www.porsche.com/) one day. They make truly [gorgeous cars](https://www.youtube.com/watch?v=mmzn77xOCe0). [Carrera S](https://www.reddit.com/r/Porsche/comments/ob8jjs/992_carrera_s/) or [992 GT3](https://www.youtube.com/watch?v=da5x-__kvGY) seem nice.
+Personally would love to own [Porsche](https://www.porsche.com/) one day, probably [Taycan 4S](https://www.porsche.com/spain/models/taycan/taycan-models/taycan-4s/). They make truly [gorgeous cars](https://www.youtube.com/watch?v=mmzn77xOCe0). [Carrera S](https://www.reddit.com/r/Porsche/comments/ob8jjs/992_carrera_s/) or [992 GT3](https://www.youtube.com/watch?v=da5x-__kvGY) are pretty too. But not electric and it's silly to buy combustion cars at this point.
 
-I wish there were more electric superchargers in EU.
+I wish there were more electric superchargers in EU. Tesla cars seem nice too. Curious when [autonomy](../../machine-learning/autonomous-driving.md) will be solved.
 
 ## Interesting cars
 

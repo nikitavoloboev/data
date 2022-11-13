@@ -479,3 +479,4 @@ Awesome List
 - [Hub Next | Hey, GitHub!](https://githubnext.com/projects/hey-github/) - Use your voice to code with GitHub Copilot. ([HN](https://news.ycombinator.com/item?id=33543946))
 - [GitHub Blocks](https://blocks.githubnext.com/) - Extend your codebase with custom, interactive blocks. ([Tweet](https://twitter.com/Wattenberger/status/1590763294775988229))
 - [GitHub Next | Visualizing a Codebase](https://githubnext.com/projects/repo-visualization/)
+- [Credit](https://github.com/fosskers/credit) - Fast tool for measuring GitHub repository contributions.

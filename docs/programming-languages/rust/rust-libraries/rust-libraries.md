@@ -66,6 +66,7 @@
 - [inquire](https://github.com/mikaelmello/inquire) - Rust library for building interactive prompts.
 - [prodash](https://github.com/Byron/prodash) - Report progress of concurrent applications and display it in various ways.
 - [minus](https://github.com/arijit79/minus) - Asynchronous terminal paging library.
+- [linya](https://github.com/fosskers/linya) - Simple concurrent progress bars.
 
 ## Web
 
@@ -2318,6 +2319,8 @@
 - [JavaScriptCore API for Rust](https://github.com/penberg/rusty_jsc)
 - [ijson](https://github.com/Diggsey/ijson) - Offers a replacement for serde-json's Value type, which is significantly more memory efficient.
 - [Acto](https://github.com/rkuhn/acto) - Actor library for Rust.
+- [Versions](https://github.com/fosskers/rs-versions) - Library for parsing and comparing software version numbers.
+- [validated](https://github.com/fosskers/validated) - Cumulative sibling of `Result` and `Either`.
 
 ## Cargo Plugins
 

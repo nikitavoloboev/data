@@ -85,3 +85,4 @@ Only 'hard' drugs I partake in are [psychedelics](psychedelics/psychedelics.md).
 - [Drugs that feel new and unique](https://www.reddit.com/r/researchchemicals/comments/y6h7cf/drugs_that_feel_new_and_unique/)
 - [Most people on antidepressants don’t need them (2022)](https://www.economist.com/leaders/2022/10/19/most-people-on-antidepressants-dont-need-them) ([HN](https://news.ycombinator.com/item?id=33272760))
 - [DiffSBDD: Structure-based Drug Design with Equivariant Diffusion Models](https://github.com/arneschneuing/DiffSBDD)
+- [Any good chem forums besides Bluelight or Erowid? (2022)](https://www.reddit.com/r/researchchemicals/comments/ytih0i/any_good_chem_forums_besides_bluelight_or_erowid/)

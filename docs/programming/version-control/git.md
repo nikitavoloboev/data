@@ -595,3 +595,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [GitStoryKit](https://github.com/swve/gitstorykit) - Rich git projects history discovery apps with ease, used by GitStory.
 - [GitStory](https://gitstory.app/) - Internet's Git Time machine. ([Code](https://github.com/swve/gitstory))
 - [Idiot Proof Git (2022)](https://softwaredoug.com/blog/2022/11/09/idiot-proof-git-aliases.html) ([HN](https://news.ycombinator.com/item?id=33532062))
+- [gfh](https://github.com/Ovyerus/gfh) - Git FIDO Helper - Sign your Git commits with multiple resident SSH keys.

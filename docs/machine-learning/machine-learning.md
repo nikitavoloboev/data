@@ -976,3 +976,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Are You A Cat? ML learning project](https://github.com/MarinaWyss/are-you-a-cat)
 - [The gap between theory and practice in function approximation with deep neural networks (2020)](https://arxiv.org/abs/2001.07523) ([Code](https://github.com/ndexter/MLFA))
 - [Bayesian neural network papers](https://github.com/ssydasheng/Bayesian_neural_network_papers)
+- [Understanding Bayesian Deep Learning](https://github.com/sjchoi86/bayes-nn)

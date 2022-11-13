@@ -8,3 +8,4 @@
 
 - [What is your favorite creed scent?](https://www.reddit.com/r/fragrance/comments/wikh80/what_is_your_favourite_creed_scent/)
 - [Girls, what perfume of yours gets you the most compliments?](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/yrgzut/girls_what_perfume_of_yours_gets_you_the_most/)
+- [Mr Tom Ford’s Three Rules Of Fragrance](https://www.youtube.com/watch?v=E8M1x3SLD-c)

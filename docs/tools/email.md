@@ -284,3 +284,5 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [MailPace](https://mailpace.com/) - Transactional Email Provider and API. ([GitHub](https://github.com/mailpace))
 - [MailPace Email Templates](https://github.com/mailpace/templates) - Gorgeous Transactional HTML Email Templates built on TailwindCSS.
 - [go-notify](https://github.com/Harry-027/go-notify) - Email automation solution written in Go. It facilitate users to register, send & schedule custom HTML mails for their clients.
+- [MOSINT](https://github.com/alpkeskin/mosint) - Automated e-mail OSINT tool.
+- [letterman](https://github.com/gzbakku/letterman) - Rust mail server.

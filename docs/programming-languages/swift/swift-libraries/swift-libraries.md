@@ -309,6 +309,7 @@
 - [MenuBuilder](https://github.com/j-f1/MenuBuilder) - Swift Function Builder for creating NSMenuItems.
 - [LoginItemKit](https://github.com/chrenn/LoginItemKit) - Add non-sandboxed macOS applications to user login items.
 - [DSFMenuBuilder](https://github.com/dagronf/DSFMenuBuilder) - SwiftUI-style DSL for generating `NSMenu` instances for AppKit.
+- [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin-Modern) - Add “Launch at Login” functionality to your macOS app in seconds.
 
 ## Web
 
