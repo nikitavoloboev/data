@@ -211,6 +211,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Maxime Heckel](https://blog.maximeheckel.com/)
 - [Sergey Potapov](https://www.greyblake.com/)
 - [Anantha Kumaran](https://ananthakumaran.in/)
+- [Kyle Hovey](https://kylehovey.github.io/blog/)
 
 ## Notes
 

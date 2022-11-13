@@ -413,3 +413,4 @@
 - [Programming for Mathematicians 2022](https://www.youtube.com/playlist?list=PL7RZyOlq_XnyUAmcuMgmPTJTUc5NPKYK6)
 - [What is a math “fact” that is completely unintuitive to the average person?](https://www.reddit.com/r/math/comments/yictte/what_is_a_math_fact_that_is_completely/)
 - [If you could re-do all math nomenclature, how would you rename things to make them more clear or more intuitive? (2022)](https://www.reddit.com/r/math/comments/ysbtnr/if_you_could_redo_all_math_nomenclature_how_would/)
+- [Mathematical Blind Spots](https://kylehovey.github.io/blog/mathematical-blind-spots)

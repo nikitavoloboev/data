@@ -84,7 +84,7 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust: A unique perspective (2019)](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html)
 - [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
 - [Rust Programming Tipz](https://github.com/spacejam/elements-of-rust)
-- [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code. ([Solutions](https://github.com/alexxroche/rustlings-idiomatic-solutions))
+- [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code. ([Solutions](https://github.com/alexxroche/rustlings-idiomatic-solutions)) ([Solutions](https://github.com/wh5a/rustlings-solutions))
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html) ([Lobsters](https://lobste.rs/s/td0qze/learning_rust_with_entirely_too_many)) ([HN](https://news.ycombinator.com/item?id=30326130))
 - [cargo audit](https://github.com/RustSec/cargo-audit) - Audit Cargo.lock files for crates with security vulnerabilities.
 - [Changelog generator for Rust projects](https://github.com/yoshuawuyts/changelog)
