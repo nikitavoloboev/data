@@ -96,3 +96,4 @@ title: Mastodon
 - [Mastodon migration survival guide](https://twitter.com/bodil/status/1591148693599752206)
 - [Tools for Mastodon Instance Blocklist Management](https://github.com/Anthchirp/mastodon-defederate) - Aiding small Mastodon instance admins by tracking larger instances' server blocklists.
 - [Mastodon Near Me](https://github.com/jazmichaelking/mastodon-near-me) - Directory of Mastodon and related servers that operate primarily in or are targeted to a locality or region.
+- [End-to-End Encryption for Mastodon](https://github.com/soatok/mastodon-e2ee-specification)

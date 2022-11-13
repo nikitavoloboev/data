@@ -781,3 +781,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Starling Developer Resources](https://github.com/starlingbank/developer-resources)
 - [Fast QR](https://fast-qr.com/) - Ultra fast QRCode generation. ([Code](https://github.com/erwanvivien/fast_qr))
 - [Pinboard vs. Raindrop (2022)](https://dsalo.info/pinboard-vs-raindrop-two-bookmark-apps-enter/) ([HN](https://news.ycombinator.com/item?id=33537531))
+- [Desk](https://github.com/frappe/desk) - Easy setup, clean user interface, and automation tools to resolve customer issues efficiently.

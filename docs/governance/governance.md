@@ -134,3 +134,4 @@ It's hard to care about politics when [so much of it is empty words and empty di
 - [Why Do Authoritarian Regimes Allow Citizens to Voice Opinions Publicly?](https://www.journals.uchicago.edu/doi/abs/10.1086/690303)
 - [PolicyKit](https://policykit.org/) - Toolkit for building governance in your online community. ([Code](https://github.com/policykit/policykit))
 - [What Happens When Society Collapses? (2021)](https://readysquirrel.com/what-happens-when-society-collapses/)
+- [Verifiably Secure Elections](https://github.com/cjdelisle/VerifiablySecureElections)

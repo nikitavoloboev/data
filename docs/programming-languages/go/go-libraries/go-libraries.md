@@ -1891,6 +1891,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Rgeo](https://github.com/sams96/rgeo) - Go package for basic, fast, local reverse geocoding.
 - [Go interface values](https://github.com/akutz/go-interface-values) - When storing a value in a Go interface allocates memory on the heap.
 - [Notify](https://github.com/projectdiscovery/notify) - Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.
+- [Goja-Node](https://github.com/dop251/goja_nodejs) - Collection of Goja modules that provide Node compatibility.
+- [Go-NAT-PMP](https://github.com/jackpal/go-nat-pmp) - Go language client for the NAT-PMP internet protocol for port mapping and discovering the external IP address of a firewall.
+- [GoUPnP](https://github.com/huin/goupnp) - UPnP client library for Go.
 
 ## Links
 

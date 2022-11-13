@@ -187,3 +187,4 @@
 - [Composable Collectable in Elixir (2021)](https://akash-akya.github.io/post/composable-collectable/)
 - [An Animated Introduction to Elixir](https://markm208.github.io/exbook/) ([HN](https://news.ycombinator.com/item?id=33503306))
 - [On Caching Elixir Beam files (2022)](https://ananthakumaran.in/2022/08/26/elixir-ci-cache.html)
+- [ElixirConf 2022 - Onorio Catenacci - Searching Your Elixir Code](https://www.youtube.com/watch?v=am9NSuTjOhA&list=PLqj39LCvnOWbmaPrkGCAzFMC_FYZUkmSr)

@@ -1402,3 +1402,4 @@
 - [Loco](https://github.com/konrad1977/loco) - Fast CLI linter for Localization.strings and swift files.
 - [Swift CI](https://github.com/BinaryBirds/CI) - Swift + Continuous Integration service.
 - [Jungle](https://github.com/xing/jungle) - Swift CLI tool that generates complexity metrics information from a Cocoapods Xcode project or a SwiftPM package.
+- [Build DocC documentation for your Xcode project / Swift Package](https://github.com/lukepistrol/xcodebuild-docc-action)

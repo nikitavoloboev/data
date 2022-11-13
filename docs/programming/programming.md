@@ -615,3 +615,4 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [Programming Cheat Sheets](https://github.com/ThibaultJanBeyer/cheatsheets)
 - [Conbench](https://github.com/conbench/conbench) - Language-independent Continuous Benchmarking (CB) Framework.
 - [ReBenchDB](https://github.com/smarr/ReBenchDB) - Records benchmark results and provides customizable reporting to track and analyze run-time performance of software programs.
+- [16x Engineer](https://16x.engineer/) - Career progression and personal growth for software engineers.

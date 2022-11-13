@@ -154,3 +154,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [High art movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/yry0kz/looking_for_a_film_that_makes_you_say_wow_this_is/)
 - [Why Great Movies use the 60-30-10 Percent Color Rule](https://www.youtube.com/watch?v=CYRyaY-9F_g)
 - [What's your favorite book to movie adaptation? (2022)](https://www.reddit.com/r/suggestmeabook/comments/yswi61/whats_your_favorite_book_to_movie_adaptation/)
+- [Looking for a WW2 movie (2022)](https://www.reddit.com/r/MovieSuggestions/comments/ythzpc/looking_for_a_ww2_movie/)
