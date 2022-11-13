@@ -152,3 +152,4 @@ title: Racket
 - [Fractalide](https://github.com/fractalide/fractalide) - Reusable Reproducible Composable Software.
 - [R-cade](https://github.com/massung/r-cade) - Retro Game Engine for Racket.
 - [raco-run](https://github.com/samdphillips/raco-run) - Easier running Racket submodules on the command line.
+- [Racket Static Web](https://github.com/samdphillips/raco-static-web) - Little raco command to serve some files on the web.

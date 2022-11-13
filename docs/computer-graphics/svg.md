@@ -178,3 +178,4 @@
 - [gkurve: simpler vector graphics - Stephen Gutekanst (2022)](https://www.youtube.com/watch?v=QTybQ-5MlrE)
 - [svg-halftone](https://halftone.vestera.as/) - Tool for converting raster images to SVG halftone patterns. ([Code](https://github.com/evestera/svg-halftone))
 - [html2svg](https://github.com/fathyb/html2svg) - Convert HTML and canvas to SVG using Chromium. ([Forking Chrome to turn HTML into SVG](https://fathy.fr/html2svg)) ([HN](https://news.ycombinator.com/item?id=33584941))
+- [SSVG: Scalable Scalable Vector Graphics](https://github.com/michaschwab/ssvg) - Library to speed up interactive svg-based data visualizations by transforming them into canvases.

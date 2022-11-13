@@ -246,3 +246,4 @@ I also find it [frustrating that Twitter iOS client doesn't have the ability to 
 - [Python code to parse a Twitter archive and output in various ways](https://github.com/timhutton/twitter-archive-parser)
 - [Eight Dollars](https://github.com/wseagar/eight-dollars) - Browser extension that shows twitter blue vs real verified users.
 - [twdl](https://github.com/dogancelik/twdl) - Tool for downloading media of individual tweets.
+- [Tracking the far right on Twitter](https://github.com/travisbrown/twitter-watch)

@@ -405,3 +405,4 @@ title: Reinforcement learning
 - [Scikit-decide](https://github.com/airbus/scikit-decide) - AI framework for Reinforcement Learning, Automated Planning and Scheduling.
 - [Recent Advances in Multi-Agent Reinforcement Learning (MARL)](https://github.com/chrisyrniu/Recent-Advances-in-Multi-Agent-Reinforcement-Learning)
 - [Awesome MARL](https://github.com/instadeepai/awesome-marl) - Categorized list of Multi-Agent Reinforcement Learning (MARL) papers.
+- [Lux Design 2022](https://github.com/Lux-AI-Challenge/Lux-Design-2022)
