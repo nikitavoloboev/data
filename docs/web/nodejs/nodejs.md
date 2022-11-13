@@ -432,3 +432,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [Learning WebAssembly, Rust, and Node.js](https://github.com/second-state/wasm-learning)
 - [TS-Evaluator](https://github.com/wessberg/ts-evaluator) - Interpreter for Typescript that can evaluate an arbitrary Node within a Typescript AST.
 - [flamebearer](https://github.com/mapbox/flamebearer) - Blazing fast flame graph tool for Node and V8.
+- [Walker](https://github.com/JackThomson2/walker) - Node HTTP server with a rust backend.

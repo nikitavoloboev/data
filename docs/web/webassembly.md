@@ -10,6 +10,8 @@ title: WebAssembly
 
 [Fermyon](https://www.fermyon.dev/)'s [Spin framework](https://spin.fermyon.dev/) is great way to run WASM on servers. [Enarx](https://enarx.dev/) is great too.
 
+[Luna](https://github.com/thomscoder/luna) is nice code to study to understand WASM.
+
 ## Links
 
 - [WebAssemblyLanguages](https://github.com/AppCypher/WebAssemblyLanguages)
@@ -392,3 +394,4 @@ title: WebAssembly
 - [WebAssembly and Docker - Better Together](https://github.com/collabnix/wasm-docker-better-together)
 - [Web Assembly (on the server) (2022)](https://www.slideshare.net/mreferre/web-assembly-on-the-server)
 - [Introducing SpiderLightning - A Cloud System Interface with WebAssembly (2022)](https://deislabs.io/posts/introducing-spiderlightning-and-slight/)
+- [Aeon](https://github.com/thomscoder/aeon) - Extremely tiny WebAssembly runtime for demonstration and educational purposes.

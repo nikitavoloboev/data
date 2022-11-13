@@ -243,7 +243,7 @@ One of my favorite things in life is building little tools for solving even the 
 - [OneModel](https://www.onemodel.app/) - Diagramming Tool for Software Engineers.
 - [Formspree](https://formspree.io/) - Custom Forms with No Server Code.
 - [Find discussions around the web](https://discussions.xojoc.pw/)
-- [Acapela](https://acapela.com/) - All work notifications in one inbox. ([Twitter](https://twitter.com/tryacapela))
+- [Acapela](https://acapela.com/) - All work notifications in one inbox. ([Twitter](https://twitter.com/tryacapela)) ([Code](https://github.com/acapela/monorepo))
 - [Tailon](https://github.com/gvalkov/tailon) - Web app for looking at and searching through files and streams.
 - [GoAlert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert. ([Web](https://goalert.me/))
 - [Imperial](https://imperialb.in/) - Code/text sharing site with the user experience in mind, it has feautures such as editing, encryption and integration with github gists and discord. ([Code](https://github.com/imperialbin/imperial))

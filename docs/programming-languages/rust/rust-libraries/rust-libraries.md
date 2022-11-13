@@ -2321,6 +2321,7 @@
 - [Acto](https://github.com/rkuhn/acto) - Actor library for Rust.
 - [Versions](https://github.com/fosskers/rs-versions) - Library for parsing and comparing software version numbers.
 - [validated](https://github.com/fosskers/validated) - Cumulative sibling of `Result` and `Either`.
+- [Scroll](https://github.com/m4b/scroll) - Traits for read/writing generic containers (byte buffers are currently implemented by default).
 
 ## Cargo Plugins
 

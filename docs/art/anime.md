@@ -42,3 +42,4 @@
 - [Anime List](https://github.com/An3sha/Anime-List) - Includes anime series and movies of all genres.
 - [Mangal](https://github.com/metafates/mangal) - Manga Browser & Downloader.
 - [Awesome Anime Research](https://github.com/SerialLain3170/AwesomeAnimeResearch)
+- [animdl](https://github.com/justfoolingaround/animdl) - Highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
