@@ -209,3 +209,4 @@ title: Vue.js
 - [vue-mixable](https://github.com/LinusBorg/vue-mixable) - Turn Vue Mixins into Composables with a simple helper function.
 - [Nuxt Plausible](https://github.com/johannschopplich/nuxt-plausible) - Nuxt 3 module to natively integrate Plausible analytics.
 - [Vue Data Picker](https://github.com/Vuepic/vue-datepicker)
+- [Advent Of Vue](https://adventofvue.com/) ([In SvelteKit](https://github.com/geoffrich/advent-of-sveltekit-2022))

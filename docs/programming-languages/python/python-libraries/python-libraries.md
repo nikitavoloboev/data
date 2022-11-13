@@ -1243,3 +1243,4 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [conda-store](https://github.com/Quansight/conda-store) - Serve identical conda environments in as many ways as possible to users and services.
 - [Devpy](https://github.com/scientific-python/devpy) - Developer tool for scientific Python libraries.
 - [Typing Extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python.
+- [rustimport](https://github.com/mityax/rustimport) - Import Rust source files directly from Python.
