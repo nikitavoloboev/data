@@ -213,6 +213,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Anantha Kumaran](https://ananthakumaran.in/)
 - [Kyle Hovey](https://kylehovey.github.io/blog/)
 - [Colin Woodbury](https://www.fosskers.ca/en/blog)
+- [Vlad Moldovean](https://vmoldo.com/blog/)
 
 ## Notes
 

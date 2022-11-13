@@ -1,6 +1,10 @@
 # Tea
 
-I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me focus crashes and disrupt sleep.
+I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me focus crashes and disrupt sleep. [white2tea](https://white2tea.com/) is great place to get tea from.
+
+[Sheng Puerh Tea](https://www.thespruceeats.com/shou-vs-sheng-766448) is great. Brewing it "gong fu" style, drinking it for the whole day. Filling my clay teapot or a gaiwan with tea at the morning and then brew it until the evening without emptying/refilling.
+
+[Meta Mate](https://metamate.cc/) is great for getting yerba mate tea which gives a lot of energy.
 
 ## Interesting
 
@@ -9,10 +13,12 @@ I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me fo
 - [Pu'er](https://en.wikipedia.org/wiki/Pu%27er_tea)
 - [Lapsang souchong](https://www.teashop.com/black-tea-formosa-tarry-lapsang-souchong)
 - [Lord Bergamot, Earl Grey Black Tea](https://www.smithtea.com/products/lord-bergamot)
+- [Puer tea blend mini cakes](https://white2tea.com/products/2022-941-mini-longzhu-dragon-pearl-raw-puer)
 
 ## Notes
 
 - You need a special tea knife to cut the tea cakes.
+- If pure coffee-like stimulation is what you're after, look into yerba mate.
 
 ## Links
 
@@ -28,3 +34,6 @@ I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me fo
 - [Steven Smith Teamaker](https://www.smithtea.com/)
 - [How to make good matcha](https://twitter.com/Melt_Dem/status/1554131559233589248)
 - [Great thread on tea](https://twitter.com/BaytAlFann/status/1581233915557457921)
+- [Gong Fu Tea|chA Season 1](https://www.youtube.com/playlist?list=PLgnB2QJGjqNqTfmcP4X57GUuWyB4NSDLO) ([Season 2](https://www.youtube.com/playlist?list=PLgnB2QJGjqNrlOpA9acl_ZQPPQDBr5_e0))
+- [white2tea](https://white2tea.com/) - Raw Puer Tea for Passionate Puer Devotees.
+- [Meta Mate](https://metamate.cc/)

@@ -194,3 +194,4 @@ All valuable data posted on any of the networks is ultimately transferred and li
 - [Facebook was not originally created to be a company](https://twitter.com/amasad/status/1586757362114625538)
 - [Meower: Social Network for Cats](https://github.com/tinrab/meower) - Code for the Building a Microservices Application in Go Following the CQRS Pattern article.
 - [Moderation is different from censorship (2022)](https://astralcodexten.substack.com/p/moderation-is-different-from-censorship) ([HN](https://news.ycombinator.com/item?id=33446064))
+- [CommunityRule](https://communityrule.info/) - Governance toolkit for great communities. ([HN](https://news.ycombinator.com/item?id=33584360))

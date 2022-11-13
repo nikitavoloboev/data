@@ -48,3 +48,4 @@
 - [Snapmaker Luban](https://snapmaker.com/snapmaker-luban) - Intuitive and Powerful 3D Printing Software. ([Code](https://github.com/Snapmaker/Luban))
 - [Voron Zero 3D Printer](https://github.com/VoronDesign/Voron-0)
 - [On CAD (2022)](https://1299651405.com/cad/) ([HN](https://news.ycombinator.com/item?id=33569222))
+- [Prototyping - Metal 3D Printing (2019)](https://www.youtube.com/watch?v=nyYcomX7Lus)

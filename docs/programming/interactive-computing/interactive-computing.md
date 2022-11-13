@@ -60,3 +60,4 @@
 - [The state of Flow-based Programming (2022)](https://blog.kodigy.com/post/state-of-flow-based-programming/)
 - [Programming Portals (2022)](https://maggieappleton.com/programming-portals) ([Tweet](https://twitter.com/Mappletons/status/1584239896520056833))
 - [Potluck: Dynamic documents as personal software (2022)](https://www.inkandswitch.com/potluck/) ([HN](https://news.ycombinator.com/item?id=33423706))
+- [Works - oimo.io](https://oimo.io/works)

@@ -1,6 +1,6 @@
 # Natural language processing
 
-[spaCy](https://spacy.io/) & [Fairseq](https://github.com/pytorch/fairseq) are interesting libraries. [Natural Language Processing with Transformers Book](https://transformersbook.com/) is nice book. [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) is probably the best NLP intro out there.
+[spaCy](https://spacy.io/) (with their [NLP course](https://github.com/explosion/spacy-course)) & [Fairseq](https://github.com/pytorch/fairseq) are interesting libraries. [Natural Language Processing with Transformers Book](https://transformersbook.com/) is nice book. [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) is probably the best NLP intro out there.
 
 [DALL·E 2](https://openai.com/dall-e-2/) is fascinating. Trying to understand [DALL-E in PyTorch](https://github.com/lucidrains/DALLE-pytorch) implementation.
 

@@ -1,6 +1,6 @@
 # SVG
 
-[SVGator](https://www.svgator.com/) is nice.
+[SVGator](https://www.svgator.com/) & [HTML 2 SVG](https://github.com/fathyb/html2svg) are nice.
 
 ## Links
 

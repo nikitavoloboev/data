@@ -248,3 +248,6 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [iPhone 14 Pro Camera Review: A Small Step, a Leap (2022)](https://lux.camera/iphone-14-pro-camera-review-a-small-step-a-huge-leap/) ([HN](https://news.ycombinator.com/item?id=33425182))
 - [What was the best move you made for your photography? (2022)](https://www.reddit.com/r/photography/comments/ymbafu/what_was_the_best_move_you_made_for_your/)
 - [GxAce - YouTube](https://www.youtube.com/c/GxAce/videos)
+- [The rabbit hole of adding grain to digital photos is deeper than you think (2022)](https://vmoldo.com/grain-deepdive/)
+- [A better way to use presets in Lightroom (2022)](https://vmoldo.com/a-better-way-to-use-presets-in-lightroom/)
+- [What makes a photo cinematic? (2022)](https://vmoldo.com/what-makes-a-photo-cinematic/)

@@ -325,3 +325,4 @@ zz
 - [Ask HN: How to become good at Emacs/Vim? (2022)](https://news.ycombinator.com/item?id=33211369)
 - [Interactive Vim tutorial](https://www.openvim.com/) ([HN](https://news.ycombinator.com/item?id=33306778))
 - [50 Useful Vim Commands](https://vimtricks.com/p/50-useful-vim-commands/)
+- [Neovim Conf](https://www.neovimconf.live/)

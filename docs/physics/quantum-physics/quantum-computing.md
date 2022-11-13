@@ -178,3 +178,4 @@ title: Quantum computing
 - [2022 Qiskit global summer school on quantum simulation](https://qiskit.org/learn/summer-school/quantum-simulation-summer-school-2022/)
 - [PanQEC](https://github.com/panqec/panqec) - Simulation and visualization of quantum error correcting codes.
 - [Covalent](https://github.com/AgnostiqHQ/covalent) - Pythonic tool for running data-science/high performance/quantum-computing workflows in heterogenous environments.
+- [Open source quantum development with Codespaces](https://github.com/crazy4pi314/universe-qir-demo)

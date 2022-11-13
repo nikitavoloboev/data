@@ -88,3 +88,4 @@ title: Protocol buffers
 - [Blackbox Protobuf](https://github.com/nccgroup/blackboxprotobuf) - Tools for working with encoded Protocol Buffers (protobuf) without the matching protobuf definition.
 - [Buf Schema Registry Plugins](https://github.com/bufbuild/plugins)
 - [JS Protocol Buffers](https://github.com/protocolbuffers/protobuf-javascript)
+- [protofmt](https://github.com/pabloariasal/protofmt) - Formatter for Protocol Buffer Files.
