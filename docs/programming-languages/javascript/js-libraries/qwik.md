@@ -35,3 +35,4 @@ title: Qwik
 - [Drastically improve resuming perf in Qwik](https://github.com/BuilderIO/qwik/pull/1991) ([Tweet](https://twitter.com/manucorporat/status/1589225367541514240))
 - [Qwik Styled Vanilla-Extract](https://github.com/wmertens/qwik-styled-ve) - 0-runtime styled-components-like API for Qwik using vanilla-extract.
 - [Qwik City + Next Auth](https://github.com/wmalarski/qwik-next-auth-example)
+- [i18n demo for Qwik](https://github.com/mhevery/qwik-i18n)

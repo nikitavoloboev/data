@@ -1145,3 +1145,4 @@
 - [Prettier plugin sort imports](https://github.com/IanVS/prettier-plugin-sort-imports)
 - [clean-modules](https://github.com/duniul/clean-modules) - Clean up/prune unnecessary files and reduce the size of your node_modules directory.
 - [npmfs](https://github.com/g-harel/npmfs) - JS package inspector.
+- [vtui-npm](https://github.com/webfansplz/vtui-npm) - Interactive CLI for npm - search and install JavaScript package.
