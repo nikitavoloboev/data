@@ -170,3 +170,4 @@ title: JSON
 - [Biniou](https://github.com/ocaml-community/biniou) - Extensible binary data format, like JSON but faster.
 - [Flatterer](https://github.com/kindly/flatterer) - Opinionated JSON to CSV/XLSX/SQLITE/PARQUET converter. Flattens JSON fast.
 - [What is Modern JSON Schema? (2022)](https://modern-json-schema.com/what-is-modern-json-schema)
+- [JSON Schema is a constraint system (not an object-oriented language) (2022)](https://modern-json-schema.com/json-schema-is-a-constraint-system)

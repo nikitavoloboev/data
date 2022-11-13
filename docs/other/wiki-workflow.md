@@ -543,3 +543,4 @@ I want to:
 - [Recall](https://www.recall-app.com/) - Helps you remember things you're interested in. ([HN](https://news.ycombinator.com/item?id=33425947))
 - [Lazy](https://lazy.so/) - Capture tool for knowledge. ([Tweet](https://twitter.com/demtzu/status/1589633050107080704))
 - [Potluck](https://potluck-sheets.vercel.app/) ([Code](https://github.com/inkandswitch/potluck))
+- [The Archive](https://zettelkasten.de/the-archive/) - Zettelkasten Method macOS app.

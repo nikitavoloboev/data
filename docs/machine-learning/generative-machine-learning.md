@@ -146,3 +146,4 @@
 - [Stretch iPhone to its limit: 2GiB Stable Diffusion model runs locally on device (2022)](https://liuliu.me/eyes/stretch-iphone-to-its-limit-a-2gib-model-that-can-draw-everything-in-your-pocket/) ([HN](https://news.ycombinator.com/item?id=33539192))
 - [Generative AI: A Creative New World (2022)](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/)
 - [Stable Diffusion with Colossal-AI](https://github.com/hpcaitech/ColossalAI/tree/main/examples/images/diffusion)
+- [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models (2022)](https://arxiv.org/abs/2210.08933) ([Code](https://github.com/Shark-NLP/DiffuSeq))

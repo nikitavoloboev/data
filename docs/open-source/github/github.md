@@ -480,3 +480,4 @@ Awesome List
 - [GitHub Blocks](https://blocks.githubnext.com/) - Extend your codebase with custom, interactive blocks. ([Tweet](https://twitter.com/Wattenberger/status/1590763294775988229))
 - [GitHub Next | Visualizing a Codebase](https://githubnext.com/projects/repo-visualization/)
 - [Credit](https://github.com/fosskers/credit) - Fast tool for measuring GitHub repository contributions.
+- [GitHub Next | AI for Pull Requests](https://githubnext.com/projects/ai-for-pull-requests/) ([Tweet](https://twitter.com/dmvaldman/status/1590901866493530112))
