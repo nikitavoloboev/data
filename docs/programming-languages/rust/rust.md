@@ -950,3 +950,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Guide to Error Handling in Rust](https://nrc.github.io/error-docs/) ([HN](https://news.ycombinator.com/item?id=33529147))
 - [Property-Based Testing in Rust with Arbitrary (2021)](https://www.greyblake.com/blog/property-based-testing-in-rust-with-arbitrary/) ([HN](https://news.ycombinator.com/item?id=33552816))
 - [Debugging a Core Dump with MDB (2022)](https://ry.goodwu.net/tinkering/debugging-a-core-dump-with-mdb/)
+- [Stop writing Rust linked list libraries (2022)](https://diziet.dreamwidth.org/13476.html)

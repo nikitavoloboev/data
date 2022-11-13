@@ -186,3 +186,4 @@
 - [Parser Combinators in Elixir: Taming Semi-Structured Text (2022)](https://blog.appsignal.com/2022/10/18/parser-combinators-in-elixir-taming-semi-structured-text.html)
 - [Composable Collectable in Elixir (2021)](https://akash-akya.github.io/post/composable-collectable/)
 - [An Animated Introduction to Elixir](https://markm208.github.io/exbook/) ([HN](https://news.ycombinator.com/item?id=33503306))
+- [On Caching Elixir Beam files (2022)](https://ananthakumaran.in/2022/08/26/elixir-ci-cache.html)

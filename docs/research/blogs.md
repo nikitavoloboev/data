@@ -210,6 +210,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Patrick Dubroy](https://dubroy.com/blog/)
 - [Maxime Heckel](https://blog.maximeheckel.com/)
 - [Sergey Potapov](https://www.greyblake.com/)
+- [Anantha Kumaran](https://ananthakumaran.in/)
 
 ## Notes
 

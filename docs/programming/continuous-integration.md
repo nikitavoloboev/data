@@ -101,3 +101,4 @@
 - [Scribe](https://github.com/grafana/scribe) - Framework to write flexible CI pipelines in Go that have consistent behavior when ran locally or in a CI server.
 - [Ask HN: CI in 2022](https://news.ycombinator.com/item?id=31911923)
 - [Actuated](https://github.com/self-actuated/actuated) - Brings blazingly fast, secure builds to self-hosted CI runners.
+- [Bencher](https://github.com/epompeii/bencher) - Continuous benchmarking tools designed to help catch performance regressions in CI.

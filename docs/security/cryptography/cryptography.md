@@ -189,3 +189,4 @@
 - [lemmeknow](https://github.com/swanandx/lemmeknow) - Can be used for identifying mysterious text or to analyze hard-coded strings from captured network packets, malwares, or just about anything.
 - [Public Randomness and Randomness Beacons (2022)](https://a16zcrypto.com/public-randomness-and-randomness-beacons/) ([Tweet](https://twitter.com/lera_banda/status/1582435432247091200))
 - [jsteg](https://github.com/lukechampine/jsteg) - Package for hiding data inside jpeg files, a technique known as steganography.
+- [Cryptography’s Future Will Be Quantum-Safe. Here’s How It Will Work. (2022)](https://www.quantamagazine.org/cryptographys-future-will-be-quantum-safe-heres-how-it-will-work-20221109/)

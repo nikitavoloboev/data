@@ -18,7 +18,7 @@ All of this is just my opinion and I genuinely don't know a lot. The west lies a
 
 I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220152839) I fancy and use daily. For political updates, there's many accounts I like. [Michael Kofman](https://twitter.com/KofmanMichael) & [Max Seddon](https://twitter.com/maxseddon) do nice summaries often.
 
-One other thing I hope Russia does improve on culturally, is minimize all kinds of verbal hate, annoyance and distrust that is so prevelant in most discussions. If're not willing to put in the work to improve the situation, it's better for your sanity to not let your emotions drive you all the time. This doesn't mean you shouldn't fight for your freedom if you're willing to accept the risks that come with that. 
+One other thing I hope Russia does improve on culturally, is minimize all kinds of verbal hate, annoyance and distrust that is so prevelant in most discussions. If're not willing to put in the work to improve the situation, it's better for your sanity to not let your emotions drive you all the time. This doesn't mean you shouldn't fight for your freedom if you're willing to accept the risks that come with that.
 
 ## Notes
 
@@ -619,3 +619,4 @@ One other thing I hope Russia does improve on culturally, is minimize all kinds 
 - [After Putin: 12 people ready to ruin Russia next (2022)](https://www.politico.eu/article/after-putin-12-people-ready-ruin-russia-next/)
 - [DOXA](https://doxa.team/) - Медиа против войны, диктатуры и неравенства.
 - [FSB insider analysis on Putin's psychology (2022)](https://twitter.com/igorsushko/status/1501763583117389827)
+- [Money Transfers to Russia (2022)](https://www.profee.com/news/money-transfers-to-russia-update)
