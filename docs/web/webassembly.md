@@ -385,7 +385,7 @@ title: WebAssembly
 - [Wasm Workers Server](https://github.com/vmware-labs/wasm-workers-server) - HTTP server that runs applications with WebAssembly.
 - [How We Built an In-Browser Language Server Using WASM (2022)](https://www.hiro.so/blog/write-clarity-smart-contracts-with-zero-installations-how-we-built-an-in-browser-language-server-using-wasm)
 - [CoWasm](https://github.com/sagemathinc/cowasm) - Collaborative WebAssembly for Servers and Browsers. Built using Zig. Supports Python with extension modules, including numpy. ([Web](https://cowasm.org/))
-- [Luna](https://github.com/thomscoder/luna) - Tiny WebAssembly compiler in Go.
+- [Luna](https://github.com/thomscoder/luna) - Tiny WebAssembly compiler in Go. ([Demo](https://luna-demo.vercel.app/)) ([HN](https://news.ycombinator.com/item?id=33584337))
 - [Minimal WASI Interpreter in Zig](https://github.com/andrewrk/zig-wasi)
 - [Silly WAT Linker](https://github.com/surma/silly-wat-linker) - Tool that makes writing WebAssembly Text files easier.
 - [WebAssembly Component Builder](https://wasmbuilder.app/) - Website for building WebAssembly components. ([Code](https://github.com/peterhuene/wasmbuilder.app))
