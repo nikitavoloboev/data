@@ -59,3 +59,4 @@ title: MQTT
 - [RMQTT Broker](https://github.com/rmqtt/rmqtt) - MQTT Server/MQTT Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era.
 - [RmqttRaft](https://github.com/rmqtt/rmqtt-raft) - Raft framework, for regular people.
 - [Oidbs: An Open Source MQTT Driven Benchmark Suite for IoT Data (2022)](https://joinbase.io/blog/intro-oidbs/) ([HN](https://news.ycombinator.com/item?id=33304677))
+- [Awesome MQTT](https://github.com/hobbyquaker/awesome-mqtt)

@@ -97,3 +97,5 @@ title: Mastodon
 - [Tools for Mastodon Instance Blocklist Management](https://github.com/Anthchirp/mastodon-defederate) - Aiding small Mastodon instance admins by tracking larger instances' server blocklists.
 - [Mastodon Near Me](https://github.com/jazmichaelking/mastodon-near-me) - Directory of Mastodon and related servers that operate primarily in or are targeted to a locality or region.
 - [End-to-End Encryption for Mastodon](https://github.com/soatok/mastodon-e2ee-specification)
+- [On Running a Mastodon Instance (2021)](https://rixx.de/blog/on-running-a-mastodon-instance/)
+- [Twitter alternative: how Mastodon is designed to be “antiviral” (2022)](https://uxdesign.cc/mastodon-is-antiviral-design-42f090ab8d51)

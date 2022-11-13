@@ -1894,6 +1894,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Goja-Node](https://github.com/dop251/goja_nodejs) - Collection of Goja modules that provide Node compatibility.
 - [Go-NAT-PMP](https://github.com/jackpal/go-nat-pmp) - Go language client for the NAT-PMP internet protocol for port mapping and discovering the external IP address of a firewall.
 - [GoUPnP](https://github.com/huin/goupnp) - UPnP client library for Go.
+- [Hooks](https://github.com/mikestefanello/hooks) - Simple, type-safe hook system to enable easier modularization of your Go code.
 
 ## Links
 

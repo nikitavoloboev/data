@@ -302,3 +302,4 @@ Hi<div>oh no break</div>
 - [Bromb](https://github.com/samuelstroschein/bromb) - Feedback widget designed to be simple and customizable.
 - [xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor. ([HN](https://news.ycombinator.com/item?id=33573157))
 - [HTML grammar for the lezer parser system](https://github.com/lezer-parser/html)
+- [Dialogs, modality and popovers seem similar. How are they different? (2022)](https://hidde.blog/dialog-modal-popover-differences/)

@@ -137,3 +137,4 @@
 - [Variational Graph Normalized Auto-Encoders (2021)](https://arxiv.org/abs/2108.08046) ([Code](https://github.com/SeongJinAhn/VGNAE))
 - [GOOD: A Graph Out-of-Distribution Benchmark (2022)](https://github.com/divelab/GOOD)
 - [Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries (2022)](https://arxiv.org/abs/2206.11140) ([Code](https://github.com/beabevi/SUN))
+- [Graph machine learning with missing node features (2022)](https://blog.twitter.com/engineering/en_us/topics/insights/2022/graph-machine-learning-with-missing-node-features)

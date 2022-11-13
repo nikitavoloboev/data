@@ -169,3 +169,4 @@ title: JSON
 - [OVER](https://github.com/m-cat/over) - Data format similar to JSON with features such as variables, includes, and type safety.
 - [Biniou](https://github.com/ocaml-community/biniou) - Extensible binary data format, like JSON but faster.
 - [Flatterer](https://github.com/kindly/flatterer) - Opinionated JSON to CSV/XLSX/SQLITE/PARQUET converter. Flattens JSON fast.
+- [What is Modern JSON Schema? (2022)](https://modern-json-schema.com/what-is-modern-json-schema)

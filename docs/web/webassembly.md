@@ -390,3 +390,5 @@ title: WebAssembly
 - [Root Scanning WASM Spec](https://github.com/WebAssembly/root-scanning) - Spec proposal for scanning/marking of linear memory GC roots.
 - [uvwasi](https://github.com/nodejs/uvwasi) - WASI syscall API built atop libuv.
 - [WebAssembly and Docker - Better Together](https://github.com/collabnix/wasm-docker-better-together)
+- [Web Assembly (on the server) (2022)](https://www.slideshare.net/mreferre/web-assembly-on-the-server)
+- [Introducing SpiderLightning - A Cloud System Interface with WebAssembly (2022)](https://deislabs.io/posts/introducing-spiderlightning-and-slight/)

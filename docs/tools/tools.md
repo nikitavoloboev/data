@@ -192,6 +192,7 @@ One of my favorite things in life is building little tools for solving even the 
 - [Increment.me](https://www.increment.me/) - Easily get anonymous feedback on anything. ([HN](https://news.ycombinator.com/item?id=25029904))
 - [CommandBar](https://www.commandbar.com/) - Searchbar, with one big difference. Its results include commands.
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
+- [Upbase](https://upbase.io/) - Project Management and Team Collaboration Tool. ([HN](https://news.ycombinator.com/item?id=33582264))
 - [Remark42](https://github.com/umputun/remark42) - Self-hosted, lightweight and simple (yet functional) comment engine, which doesn't spy on users. ([Web](https://remark42.com/))
 - [Repeat.dev](https://dash.repeat.dev/) - TypeScript programmable webhooks/cronjobs.
 - [Deprank](https://github.com/codemix/deprank) - Use PageRank to find the most important files in your codebase.

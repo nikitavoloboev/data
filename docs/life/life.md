@@ -148,3 +148,4 @@ For me personally the end goal and purpose is ultimate freedom. Doing what I lov
 - [Ask HN: How can I come to peace with the years I wasted on pointless things? (2022)](https://news.ycombinator.com/item?id=32618163)
 - ["Harsh truth" that was hard to hear at the time but you eventually had to accept (2022)](https://www.reddit.com/r/AskOldPeople/comments/x5a066/do_you_have_a_harsh_truth_that_was_hard_to_hear/)
 - [Ask HN: What's Your Biggest Regret? (2022)](https://news.ycombinator.com/item?id=33118584)
+- [Ask HN: What kind of life do you dream about? (2022)](https://news.ycombinator.com/item?id=33573907)

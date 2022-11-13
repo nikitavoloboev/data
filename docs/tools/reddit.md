@@ -94,3 +94,4 @@ title: Reddit
 - [Hide some app banners on Reddit (2022)](https://underpassapp.com/news/2022-11-4.html)
 - [Metadocs](https://metadocs8.com/) - Kinda like Reddit, but built into every documentation. ([HN](https://news.ycombinator.com/item?id=33518828))
 - [Gert](https://github.com/mcdallas/gert) - Command line tool to download media from Reddit.
+- [Reddit Monitoring with Python (2022)](https://segue.co/blog/reddit-monitoring-python/)

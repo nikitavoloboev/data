@@ -153,3 +153,4 @@ title: OCaml
 - [OCaml 5 is perfect prototyping language](https://twitter.com/Horusiath/status/1578991843161038853)
 - [Necro ML: Generating OCaml Interpreters (2022)](https://louis.noizet.fr/laboro/ML_ICFP_preprint.pdf)
 - [Introduction to OCaml for Program Analysis](https://github.com/mjambon/ocaml-for-pa)
+- [OCaml: What's Your Development Workflow? (2022)](https://discuss.ocaml.org/t/whats-your-development-workflow/10358)
