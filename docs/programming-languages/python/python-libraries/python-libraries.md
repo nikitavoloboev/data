@@ -2,6 +2,8 @@
 
 [atoti](https://github.com/atoti/project-template), [Cookiecutter Poetry](https://github.com/fpgmaas/cookiecutter-poetry) & [AllenAI](https://github.com/allenai/python-package-template) templates seem nice. [Robyn](https://github.com/sansyrox/robyn) seems like a nice web library.
 
+Like idea of using Python as glue language for compiled modules like [Rust](https://github.com/sansyrox/robyn) or [Zig](https://github.com/adamserafini/zaml).
+
 ## Web
 
 - [Quart](https://github.com/pallets/quart) - Async Python micro framework for building web applications.
@@ -73,6 +75,7 @@
 - [HTTPretty](https://github.com/gabrielfalcao/HTTPretty) - Intercept HTTP requests at the Python socket level. Fakes the whole socket module.
 - [nTorque](https://github.com/thruflo/ntorque) - Web hook task queue.
 - [HStream](https://github.com/conradbez/hstream) - Quick Python web apps. Streamlit alternative using htmx. ([HN](https://news.ycombinator.com/item?id=33547813))
+- [pyxl4](https://github.com/pyxl4/pyxl4) - Extend Python syntax with HTML.
 
 ## ML
 
@@ -1051,6 +1054,7 @@
 - [jschon](https://github.com/marksparkza/jschon) - Pythonic, extensible JSON Schema implementation.
 - [Taskiq](https://github.com/taskiq-python/taskiq) - Asynchronous distributed task queue for python. ([Docs](https://taskiq-python.github.io/guide/getting-started.html))
 - [aspectlib](https://github.com/ionelmc/python-aspectlib) - Aspect-oriented programming, monkey-patch and decorators library.
+- [zaml](https://github.com/adamserafini/zaml) - Fast YAML 1.2 parsing library for Python 3. Written in Zig.
 
 ## Notes
 
