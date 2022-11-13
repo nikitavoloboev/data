@@ -256,3 +256,4 @@ title: DNS
 - [Stop using low DNS TTLs (2019)](https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/) ([HN](https://news.ycombinator.com/item?id=33527642))
 - [macOS DNS resolving change in Go 1.20 (2022)](https://danp.net/posts/macos-dns-change-in-go-1-20/)
 - [Zig-DNS](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in Zig.
+- [DNS over Ping](https://github.com/jamespwilliams/dns-over-ping)

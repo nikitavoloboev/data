@@ -1,5 +1,7 @@
 # Coffee
 
+Love [tea](tea.md) a lot too.
+
 ## Interesting
 
 - [Raf Coffee](https://www.baristainstitute.com/blog/oksana-shaposhnikova/september-2020/raf-coffee-what-it-and-how-make-it)

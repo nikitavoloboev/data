@@ -314,3 +314,4 @@ title: Swift
 - [Swift concurrency – things they don’t tell you (2022)](https://wojciechkulik.pl/ios/swift-concurrency-things-they-dont-tell-you) ([HN](https://news.ycombinator.com/item?id=33379414))
 - [Swift Source Compatibility Suite](https://github.com/apple/swift-source-compat-suite)
 - [An Informal Introduction to Move-Only Types (2022)](https://forums.swift.org/t/an-informal-introduction-to-move-only-types/61358)
+- [CloudKit 101 (2020)](https://rambo.codes/posts/2020-02-25-cloudkit-101) ([Code](https://github.com/insidegui/CloudKitchenSink20))

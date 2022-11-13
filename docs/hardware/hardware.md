@@ -370,3 +370,4 @@
 - [The case for mapping PCIe BARs as device memory on arm64 (2022)](https://threedots.ovh/blog/2022/11/the-case-for-mapping-pcie-bars-as-device-memory-on-arm64/)
 - [Dissecting Reolink RLC-810A Hardware: A Detailed View (2022)](https://serhack.me/articles/dissecting-reolink-rlc810a-hardware-detailed-view/)
 - [Seeing through hardware counters: A journey to 3x performance increase (2022)](https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822) ([HN](https://news.ycombinator.com/item?id=33540091))
+- [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds.
