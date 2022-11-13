@@ -27,6 +27,7 @@ title: Android
 - [WhatsApp clone app built with Jetpack Compose](https://github.com/GetStream/whatsApp-clone-compose) - And Stream Chat SDK for Compose.
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [Url Forwarder](https://github.com/daverix/urlforwarder) - Enables you to use bookmarklets on Android.
+- [Jelu](https://github.com/bayang/jelu) - Self hosted read and to-read list book tracker.
 
 ## Links
 

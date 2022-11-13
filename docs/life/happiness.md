@@ -117,3 +117,4 @@ I also try very hard to simply not have the things that I cannot change, affect 
 - [Ask HN: Has anyone managed to find enjoyment in their work after burnout? (2022)](https://news.ycombinator.com/item?id=33260525)
 - [Ask HN: What mindset change made the biggest positive change for you? (2022)](https://news.ycombinator.com/item?id=33385750)
 - [Ask HN: How did you find joy in life? (2022)](https://news.ycombinator.com/item?id=33398063)
+- [Self-care tips that helped restore my confidence](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/ytr3dn/tip_selfcare_tips_that_helped_restore_my/)

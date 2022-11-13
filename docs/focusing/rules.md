@@ -12,7 +12,7 @@
 - Think from first principles. Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think deeply. Move in right direction. [Move fast](https://news.ycombinator.com/item?id=27691586). No regrets.
 - Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md). Don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
-- [Don't compare myself to other people. Never be jealous. Don't obsess over anyone](https://twitter.com/_Pammy_DS_/status/1387212857016786948). Learn from every human I admire/like. Use it to improve my life.
+- [Don't compare myself to other people. Never be jealous. Don't obsess over anyone](https://twitter.com/_Pammy_DS_/status/1387212857016786948). Don't stalk. Learn from every human I admire/like. Use it to improve my life.
 - [Don't listen to haters and nonconstructive feedback. Pay attention to genuine feedback and learn from it](https://twitter.com/EricRWeinstein/status/1387219408645361665).
 - Surround myself with people who inspire me & I can trust to do good. Be my true self. Inspire others. Do things that bring joy and energize me.
 - Create art. Meet people (friendly reach out). See places. Be inspired. Reuse work & ideas. Do what I love. Value myself, my work and freedom to create anything I truly care about from anywhere on Earth.

@@ -92,3 +92,4 @@ title: Godot
 - [Godot Card Game Framework](https://github.com/db0/godot-card-game-framework)
 - [Rust bindings for GDExtension](https://github.com/godot-rust/gdextension)
 - [Godot Aseprite Wizard](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Godot plugin to help import Aseprite animations to AnimationPlayers, AnimatedSprites and SpriteFrames.
+- [Rust Comes to Godot 4 (2022)](https://www.youtube.com/watch?v=d-hZv5ztr34)

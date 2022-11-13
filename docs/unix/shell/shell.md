@@ -258,3 +258,4 @@ All active variables can be seen by running `env`.
 - [Keyboard Shortcuts every Command Line Hacker should know about GNU Readline](https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline)
 - [Toy Shell](https://github.com/TaKO8Ki/toy-shell)
 - [hiSHtory](https://github.com/ddworken/hishtory) - Your shell history in context, synced, and queryable. ([HN](https://news.ycombinator.com/item?id=33428726))
+- [Building a simple shell in C (2022)](https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-1)

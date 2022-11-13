@@ -130,3 +130,4 @@ Might give it a go sometime.
 - [Emacs-like editors written in Common Lisp](https://www.cliki.net/cl-emacs)
 - [Difftastic diffing with Magit (2022)](https://tsdh.org/posts/2022-08-01-difftastic-diffing-with-magit.html)
 - [A Potpourri of Emacs Tweaks (2022)](https://tony-zorman.com/posts/2022-10-22-emacs-potpourri.html)
+- [Emacs.ch](https://emacs.ch/) - Mastodon instance for Emacs enthusiasts.

@@ -49,6 +49,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua.
 - [Goto Preview](https://github.com/rmagatti/goto-preview) - Small Neovim plugin for previewing definitions using floating windows.
 - [Zen Mode](https://github.com/folke/zen-mode.nvim) - Distraction-free coding for Neovim.
+- [ssr.nvim](https://github.com/cshuaimin/ssr.nvim) - Structural search and replace for Neovim.
 - [Trouble](https://github.com/folke/trouble.nvim) - Pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [nvim-surround](https://github.com/kylechui/nvim-surround) - Surround selections, stylishly.
 - [mapx.lua](https://github.com/b0o/mapx.lua) - Neovim lua plugin to make mapping more manageable.

@@ -72,3 +72,4 @@ title: WebGPU
 - [Blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU.
 - [Typescript Type Definitions for WebGPU](https://github.com/gpuweb/types)
 - [FF GPU](https://github.com/framefactory/ff-gpu) - WebGPU tools and utilities in TS.
+- [wgslsmith](https://github.com/wgslsmith/wgslsmith) - Toolkit for randomized testing of WGSL compilers.

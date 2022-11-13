@@ -339,6 +339,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Ask HN: What are some of the best books you have read in 2022?](https://news.ycombinator.com/item?id=33381791)
 - [Interesting books on culture and society](https://twitter.com/pmarca/status/1577365972469489665)
 - [Books with a very escapist immersive world. Like Harry Potter or LOTR (2022)](https://www.reddit.com/r/suggestmeabook/comments/yntrmc/a_book_with_a_very_escapist_immersive_world_like/)
+- [Must read book series of all time (2022)](https://www.reddit.com/r/suggestmeabook/comments/ytmass/must_read_book_series_of_all_time/)
 
 ## Interesting Prose Books
 

@@ -182,6 +182,7 @@ I want to:
 - [Hugo Cisneros](https://hugocisneros.com/notes/)
 - [McCoy R. Becker](https://femtomc.github.io/)
 - [Rosano Garden](https://rosano.hmm.garden/)
+- [Christian's "Cheat-Sheets"](https://github.com/ChristianLempa/cheat-sheets)
 - [Louis Beaumont](https://brain.louis030195.com/README)
 - [Matt Titmus TIL](https://github.com/clockworksoul/today-i-learned)
 - [Scott Spence's Garden](https://scottspence.com/garden)

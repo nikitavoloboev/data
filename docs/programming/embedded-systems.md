@@ -221,3 +221,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [Ledcat](https://github.com/polyfloyd/ledcat) - Simple utility that aims to provide a standard interface for driving LED-strips and such.
 - [GyverPortal](https://github.com/GyverLibs/GyverPortal) - Простой конструктор веб интерфейсов для ESP8266 и ESP32.
 - [Trenchcoat](https://github.com/spookyvision/trenchcoat) - Virtual machine for rapid embedded development.
+- [ESP Thread Boarder Router SDK](https://github.com/espressif/esp-thread-br)
