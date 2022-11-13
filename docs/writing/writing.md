@@ -307,3 +307,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Write Like You Talk (2015)](http://paulgraham.com/talk.html) ([HN](https://news.ycombinator.com/item?id=33308393))
 - [Just Don’t (2022)](https://www.tbray.org/ongoing/When/202x/2022/11/07/Just-Dont) ([HN](https://news.ycombinator.com/item?id=33518496))
 - [Dev Writer's Workshop](https://github.com/Nutlope/devwriting)
+- [Lesson writing structure. Write music.](https://twitter.com/nathanbaugh27/status/1591442834053529601)

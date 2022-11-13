@@ -390,3 +390,4 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Placeholder components](https://cards.jordanscales.com/placeholders)
 - [reforest](https://github.com/souporserious/reforest) - Collect and compute React props seamlessly across the server and client.
 - [react-benchmark](https://github.com/Rowno/react-benchmark) - Tool for benchmarking the render performance of React components.
+- [(Lazy) Components Maps (2022)](https://julesblom.com/writing/lazy-component-maps)

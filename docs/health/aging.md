@@ -115,3 +115,4 @@ One way to solve aging sooner is to work on getting closer to [AGI](../machine-l
 - [What are best things you can start in your 30's to promote health and longevity? (2022)](https://www.reddit.com/r/AskMenOver30/comments/xbefta/what_are_best_things_you_can_start_in_your_30s_to/)
 - [Aging programmer (2022)](https://world.hey.com/jorge/aging-programmer-d448bdec) ([HN](https://news.ycombinator.com/item?id=32961933))
 - [Small molecule cognitive enhancer reverses age-related memory decline in mice (2022)](https://pubmed.ncbi.nlm.nih.gov/33258451/) ([HN](https://news.ycombinator.com/item?id=33215597))
+- [Data on how we spend our time as we age](https://twitter.com/SahilBloom/status/1591424548280610816)

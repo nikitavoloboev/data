@@ -685,6 +685,7 @@
 - [penguincrab](https://github.com/docfate111/penguincrab) - Unsafe wrapper for Linux Kernel Library in Rust.
 - [sysfs_gpio](https://github.com/rust-embedded/rust-sysfs-gpio) - Rust Interface to the Linux sysfs GPIO interface.
 - [Wayland rust](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
+- [Penrose](https://github.com/sminez/penrose) - Library for writing an X11 tiling window manager.
 
 ## Embedded
 

@@ -321,3 +321,4 @@ useEffect(() => {
 - [Getting Started with React Query (2022)](https://dev.to/nischal_dutt/getting-started-with-react-query-30g7)
 - [React's `use` hook](https://twitter.com/housecor/status/1582358326075043841)
 - [Making React Context FAST (2022)](https://www.youtube.com/watch?v=ZKlXqrcBx88) ([Tweet](https://twitter.com/dai_shi/status/1583014180730175488))
+- [Timeline of a React Component With Hooks (2022)](https://julesblom.com/writing/react-hook-component-timeline) ([Tweet](https://twitter.com/Mega_Jules/status/1591466399536480259))
