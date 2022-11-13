@@ -133,3 +133,4 @@
 - [Why, in the last two centuries, have women become to be considered less sexual than men, if, throughout history, they were believed to have a much higher libido?](https://www.reddit.com/r/AskHistorians/comments/yl0uta/why_in_the_last_two_centuries_have_women_become/)
 - [The guide on how to give girls great oral sex](https://www.reddit.com/r/sexover30/comments/ylh26w/the_guide_on_how_to_give_girls_great_oral_sex/)
 - [Top sex positions for women's orgasms](https://www.youtube.com/watch?v=94xGVsYSdDk)
+- [Recommendations for "Books About Sex" + Erotica (2022)](https://www.reddit.com/r/sexover30/comments/ytki4g/metathread_recommendations_for_books_about_sex/)

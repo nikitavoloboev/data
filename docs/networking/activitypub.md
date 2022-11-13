@@ -55,3 +55,4 @@ title: ActivityPub
 - [RustyPub](https://github.com/hachyserve/rustypub) - ActivityPub in Rust.
 - [The Fediverse is inefficient but that's a good trade-off (2022)](https://berk.es/2022/11/08/fediverse-inefficiencies/) ([HN](https://news.ycombinator.com/item?id=33543376))
 - [RSS to ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub)
+- [Sorted list of ActivityPub relays for Mastodon or Pleroma](https://github.com/brodi1/activitypub-relays)

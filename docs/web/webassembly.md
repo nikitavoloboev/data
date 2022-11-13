@@ -389,3 +389,4 @@ title: WebAssembly
 - [WebAssembly Component Builder](https://wasmbuilder.app/) - Website for building WebAssembly components. ([Code](https://github.com/peterhuene/wasmbuilder.app))
 - [Root Scanning WASM Spec](https://github.com/WebAssembly/root-scanning) - Spec proposal for scanning/marking of linear memory GC roots.
 - [uvwasi](https://github.com/nodejs/uvwasi) - WASI syscall API built atop libuv.
+- [WebAssembly and Docker - Better Together](https://github.com/collabnix/wasm-docker-better-together)

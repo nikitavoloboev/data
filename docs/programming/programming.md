@@ -613,3 +613,5 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [Hussein Nasser - YouTube](https://www.youtube.com/c/HusseinNasser-software-engineering)
 - [Tuple's Pair Programming Guide](https://tuple.app/pair-programming-guide/) ([Code](https://github.com/tupleapp/pair-programming-guide))
 - [Programming Cheat Sheets](https://github.com/ThibaultJanBeyer/cheatsheets)
+- [Conbench](https://github.com/conbench/conbench) - Language-independent Continuous Benchmarking (CB) Framework.
+- [ReBenchDB](https://github.com/smarr/ReBenchDB) - Records benchmark results and provides customizable reporting to track and analyze run-time performance of software programs.

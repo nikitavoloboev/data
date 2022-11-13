@@ -209,6 +209,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Gorsk](https://github.com/ribice/gorsk) - Idiomatic Golang Restful Starter Kit.
 - [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp. ([Examples](https://github.com/gofiber/recipes)) ([Awesome](https://github.com/gofiber/awesome-fiber)) ([Fiber Boilerplate](https://github.com/sujit-baniya/fiber-boilerplate)) ([Building microservices in Go with Fiber (2022)](https://blog.logrocket.com/building-microservices-go-fiber/)) ([Docs](https://docs.gofiber.io/)) ([Docs Code](https://github.com/gofiber/docs)) ([Fiber OpenTelemetry](https://github.com/psmarcin/fiber-opentelemetry)) ([GoFiber Docker Boilerplate](https://github.com/gofiber/boilerplate)) ([Storage](https://github.com/gofiber/storage))
 - [Fiber Swagger](https://github.com/arsmn/fiber-swagger) - Fiber middleware to automatically generate RESTful API documentation with Swagger 2.0.
+- [Fiber Swagger](https://github.com/gofiber/swagger) - Fiber middleware to automatically generate RESTful API documentation with Swagger.
 - [REST Layer](https://github.com/rs/rest-layer) - API framework heavily inspired by the excellent Python Eve.
 - [Manners](https://github.com/braintree/manners) - Polite Go HTTP server that shuts down gracefully.
 - [httpretty](https://github.com/henvic/httpretty) - Package httpretty prints the HTTP requests you make with Go pretty on your terminal.

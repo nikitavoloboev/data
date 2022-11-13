@@ -198,3 +198,4 @@ title: RISC-V
 - [TordBoyau](https://github.com/BrunoLevy/TordBoyau) - Pipelined RISC-V processor.
 - [The RISC Deprogrammer (2022)](https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html) ([HN](https://news.ycombinator.com/item?id=33326858))
 - [Minimax](https://github.com/gsmecher/minimax) - Compressed-First, Microcoded RISC-V CPU. ([HN](https://news.ycombinator.com/item?id=33422717))
+- [RISC-V Vector Autometic Tests Generator](https://github.com/hushenwei2000/rvv-atg)

@@ -126,3 +126,4 @@
 - [AWS Deep Learning Containers](https://github.com/aws/deep-learning-containers) - Docker images for training and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
 - [Spotty](https://github.com/spotty-cloud/spotty) - Training deep learning models on AWS and GCP instances.
 - [FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - Accessible and efficient deployment Development Toolkit.
+- [explainerdashboard](https://github.com/oegedijk/explainerdashboard) - Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.

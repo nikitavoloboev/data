@@ -119,3 +119,4 @@
 - [RK-Boot](https://github.com/rookie-ninja/rk-boot) - Build microservice with rk-boot and let the team take over clean and tidy code.
 - [Serverless Micro Services | M3O](https://m3o.com/) ([Code](https://github.com/micro/services)) ([HN](https://news.ycombinator.com/item?id=32994937))
 - [What do we really mean by microservice configuration? (2022)](https://encore.dev/blog/designing-a-config-api)
+- [Sentinel](https://github.com/alibaba/sentinel-golang) - Sentinel of Your Microservices.

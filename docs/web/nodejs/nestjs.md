@@ -49,3 +49,4 @@ title: NestJS
 - [Prisma NestJS GraphQL](https://github.com/unlight/prisma-nestjs-graphql) - Generate object types, inputs, args, etc. from prisma schema file for usage with @nestjs/graphql module.
 - [Example of a GraphQL API built with NestJS, Prisma and TypeScript](https://github.com/H-Richard/backend-2022)
 - [Nest framework TypeScript starter](https://github.com/mwanago/nestjs-typescript)
+- [NestJS Temporal](https://github.com/KurtzL/nestjs-temporal)

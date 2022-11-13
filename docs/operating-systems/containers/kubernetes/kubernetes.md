@@ -858,3 +858,5 @@ title: Kubernetes
 - [MOCO](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes.
 - [Kubernetes Gateway API bindings in Rust](https://github.com/shaneutt/gateway-api-rs)
 - [Cloud Foundry on Kubernetes](https://github.com/cloudfoundry/korifi)
+- [Mini-Kube-Scheduler](https://github.com/sanposhiho/mini-kube-scheduler) - Scheduler for learning Kubernetes Scheduler.
+- [Hierarchical Namespace Controller (HNC)](https://github.com/kubernetes-sigs/hierarchical-namespaces) - Adds hierarchical policies and delegated creation to Kubernetes namespaces for improved in-cluster multitenancy. ([User Guide](https://github.com/kubernetes-sigs/hierarchical-namespaces))

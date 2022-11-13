@@ -268,6 +268,7 @@ title: GitHub actions
 - [Markdown Autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - GitHub Action that automatically generates & updates markdown content from external or remote files.
 - [AutoUpdate](https://github.com/chinthakagodawita/autoupdate) - GitHub Action that auto-updates pull requests branches, whenever changes are pushed to their destination branch.
 - [Schedule regularly occurring meetings via GitHub Issue](https://github.com/pkgjs/meet)
+- [Delete Deployments](https://github.com/int128/delete-deployments-action) - Action to clean up outdated GitHub Deployments.
 
 ## Go
 

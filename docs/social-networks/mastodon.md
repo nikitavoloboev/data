@@ -95,3 +95,4 @@ title: Mastodon
 - [Surviving and thriving through the 2022-11-05 meltdown (2022)](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/) ([Lobsters](https://lobste.rs/s/czknru/surviving_thriving_through_2022_11_05))
 - [Mastodon migration survival guide](https://twitter.com/bodil/status/1591148693599752206)
 - [Tools for Mastodon Instance Blocklist Management](https://github.com/Anthchirp/mastodon-defederate) - Aiding small Mastodon instance admins by tracking larger instances' server blocklists.
+- [Mastodon Near Me](https://github.com/jazmichaelking/mastodon-near-me) - Directory of Mastodon and related servers that operate primarily in or are targeted to a locality or region.

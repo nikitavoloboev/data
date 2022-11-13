@@ -473,3 +473,4 @@ title: PyTorch
 - [PyTorch 3D U-Net Convolution Neural Network (CNN) designed for medical image segmentation](https://github.com/ellisdg/3DUnetCNN)
 - [torchnnprofiler](https://github.com/kshitij12345/torchnnprofiler) - Context Manager to profile the forward and backward times of PyTorch's nn.Module.
 - [Minimal IK PyTorch](https://github.com/windingwind/minimal-IK-pytorch)
+- [Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP (2022)](https://arxiv.org/abs/2210.04150) ([Code](https://github.com/facebookresearch/ov-seg))

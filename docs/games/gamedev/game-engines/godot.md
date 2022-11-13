@@ -91,3 +91,4 @@ title: Godot
 - [Emulating double precision on the GPU to render large worlds (2022)](https://godotengine.org/article/emulating-double-precision-gpu-render-large-worlds) ([HN](https://news.ycombinator.com/item?id=33237338))
 - [Godot Card Game Framework](https://github.com/db0/godot-card-game-framework)
 - [Rust bindings for GDExtension](https://github.com/godot-rust/gdextension)
+- [Godot Aseprite Wizard](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Godot plugin to help import Aseprite animations to AnimationPlayers, AnimatedSprites and SpriteFrames.

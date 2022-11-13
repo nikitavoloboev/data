@@ -128,3 +128,4 @@ title: Zero knowledge proofs
 - [OpenZL](https://github.com/openzklib/openzl) - Zero-Knowledge Cryptography Infrastructure Stack.
 - [What's the deal with zkapps? (2022)](https://www.cryptologie.net/article/575/whats-the-deal-with-zkapps/)
 - [Linear A](https://zk-ml.xyz/) - Makes it possible to run neural networks in zero-knowledge settings. ([GitHub](https://github.com/zk-ml))
+- [Noname](https://github.com/mimoo/noname) - Programming language to write zkapps.

@@ -2599,3 +2599,4 @@
 - [Rust UML Diagram Generator](https://github.com/SelamaAshalanore/rudg) - Tools that parsing Rust code into UML diagram.
 - [Typebinder](https://github.com/impero-com/typebinder) - Exports TS definitions from Rust module.
 - [conc-map-bench](https://github.com/xacrimon/conc-map-bench) - Uses the bustle benchmarking harness.
+- [Symbolicator](https://github.com/getsentry/symbolicator) - Symbolication service for native stacktraces and minidumps with symbol server support.
