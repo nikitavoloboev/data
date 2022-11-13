@@ -220,3 +220,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [DevOps has devolved (2022)](https://blog.massdriver.cloud/devops-is-bullshit) ([HN](https://news.ycombinator.com/item?id=33274988))
 - [Gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [Damon](https://github.com/hashicorp/damon) - Terminal Dashboard for HashiCorp Nomad.
+- [Waterwheel](https://github.com/sphenlee/waterwheel) - Job scheduler similar to Airflow but with a very different design.

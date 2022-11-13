@@ -1,6 +1,8 @@
 # Coffee
 
-Love [tea](tea.md) a lot too.
+Drink coffee on occasions, try not to do it daily as to get actual effects from the caffeine. Also make sure to not drink past afternoon so as to not disrupt my sleep.
+
+[Tea](tea.md) is my daily drink of choice and I try to always have it by my side.
 
 ## Interesting
 
