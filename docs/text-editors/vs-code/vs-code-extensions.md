@@ -584,3 +584,4 @@ Below is a list of extensions I use.
 - [How to add Rust WASM to a VSCode web extension](https://github.com/SonOfLilit/vscode-web-wasm-rust)
 - [Running a private VS Code Extension Marketplace (2022)](https://coder.com/blog/running-a-private-vs-code-extension-marketplace)
 - [VSCode Textmate grammar test](https://github.com/PanAeon/vscode-tmgrammar-test)
+- [VS Code Notebook APIs](https://code.visualstudio.com/api/extension-guides/notebook)

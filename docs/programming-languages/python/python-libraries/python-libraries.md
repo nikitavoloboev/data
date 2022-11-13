@@ -1049,6 +1049,7 @@
 - [mundipy](https://github.com/BuntingLabs/mundipy) - Python framework for spatial data manipulation.
 - [Slicerator](https://github.com/soft-matter/slicerator) - Lazy-loading, fancy-slicable iterable.
 - [jschon](https://github.com/marksparkza/jschon) - Pythonic, extensible JSON Schema implementation.
+- [Taskiq](https://github.com/taskiq-python/taskiq) - Asynchronous distributed task queue for python. ([Docs](https://taskiq-python.github.io/guide/getting-started.html))
 
 ## Notes
 

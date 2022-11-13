@@ -70,3 +70,6 @@ title: Bevy Engine
 - [GGRS and Rapier working together in Bevy engine](https://github.com/cscorley/bevy_ggrs_rapier_example)
 - [Networking in Bevy/Rust: Bevy Renet Showcase (2022)](https://www.youtube.com/watch?v=fBHO0yptg1Y)
 - [Bevy 0.9 (2022)](https://bevyengine.org/news/bevy-0-9/) ([HN](https://news.ycombinator.com/item?id=33577284)) ([Reddit](https://www.reddit.com/r/rust/comments/ytiv2a/bevy_09/))
+- [Bevy Smud](https://github.com/johanhelsing/bevy_smud) - Sdf 2d shape renderer for Bevy.
+- [Extreme Bevy](https://github.com/johanhelsing/extreme_bevy) - Low-latency multiplayer action game, showcasing how to implement p2p connections and rollback networking in a web browser.
+- [Bevy Web Asset](https://github.com/johanhelsing/bevy_web_asset) - Bevy asset loader that transparently supports loading over http(s).

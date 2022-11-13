@@ -132,3 +132,4 @@
 - [Data Analysis at the Command Line (2022)](https://lucytalksdata.com/data-analysis-at-the-command-line/)
 - [Data Pipeline in Rust](https://github.com/DataPsycho/data-pipelines-in-rust) - Data pipeline example written in Rust with Polars and DataFusion DataFrame package.
 - [Memphis](https://github.com/memphisdev/memphis-broker) - Real-Time Data Processing Platform. ([Web](https://memphis.dev/))
+- [dedup](https://github.com/deepinthebuild/dedup) - Command-line tool for deduplicating entries in a file or stream.

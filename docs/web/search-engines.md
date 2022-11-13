@@ -285,3 +285,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [Fuzzy Substring Matching: On-device Fuzzy Friend Search at Snapchat (2022)](https://arxiv.org/abs/2211.02767) ([HN](https://news.ycombinator.com/item?id=33521571))
 - [Metaphor](https://metaphor.systems/) - Search engine based on generative AI. ([Tweet](https://twitter.com/sharifshameem/status/1590771354483437571)) ([HN](https://news.ycombinator.com/item?id=33551131))
 - [Similarity search and deduplication at scale (2022)](https://dsalaj.com/2022/10/25/similarity-search-and-deduplication.html) ([HN](https://news.ycombinator.com/item?id=33567123))
+- [ImgOps](https://github.com/dogancelik/imgops) - CLI tool for reverse searching images through ImgOps website. It supports files and URLs.

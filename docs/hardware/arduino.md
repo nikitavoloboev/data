@@ -53,3 +53,4 @@
 - [Riscduino](https://github.com/dineshannayya/riscduino) - Arduino compatible Risc-V Based SOC.
 - [Arduino with Vim & Rust (2022)](https://www.youtube.com/watch?v=igSfCLuA_Sk)
 - [Arduino IDE 2.0 (2022)](https://blog.arduino.cc/2022/09/14/its-here-please-welcome-arduino-ide-2-0/) ([HN](https://news.ycombinator.com/item?id=33013572))
+- [LiquidCrystal Library for Arduino](https://github.com/arduino-libraries/LiquidCrystal)
