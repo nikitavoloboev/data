@@ -222,3 +222,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [GyverPortal](https://github.com/GyverLibs/GyverPortal) - Простой конструктор веб интерфейсов для ESP8266 и ESP32.
 - [Trenchcoat](https://github.com/spookyvision/trenchcoat) - Virtual machine for rapid embedded development.
 - [ESP Thread Boarder Router SDK](https://github.com/espressif/esp-thread-br)
+- [Picolibc](https://github.com/picolibc/picolibc) - C library designed for embedded 32- and 64- bit systems.

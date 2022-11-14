@@ -100,3 +100,4 @@ I use [Herman Miller Embody](https://store.hermanmiller.com/gaming-chairs/embody
 - [You Can’t Fix Your Posture (Here’s Why) (2021)](https://www.youtube.com/watch?v=yUSyMqDUkv8)
 - [The Art of the Desk Setup (2021)](https://arun.is/blog/desk-setup/)
 - [Hacker Stations](https://hackerstations.com/)
+- [Favorite computer chair recommendations (2022)](https://twitter.com/jamesm/status/1591892465036185600)

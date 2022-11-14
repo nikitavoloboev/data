@@ -455,6 +455,7 @@ One of my favorite things in life is building little tools for solving even the 
 - [Budibase](https://www.budibase.com/) - Build internal tools on your own infrastructure. ([Code](https://github.com/Budibase/budibase)) ([HN](https://news.ycombinator.com/item?id=29242466))
 - [mrm](https://github.com/sapegin/mrm) - Command line tool to help you keep configuration (package.json, .gitignore, .eslintrc, etc.) of your open source projects in sync.
 - [Dark](https://darklang.com/) - Holistic programming language, structured editor, and infrastructure, for building backend web services. ([Code](https://github.com/darklang/dark))
+- [Openblocks](https://github.com/openblocks-dev/openblocks) - Open-Source Alternative to Retool. ([HN](https://news.ycombinator.com/item?id=33592990))
 - [Flick](https://www.flick.tech/) - Find, manage and analyze Instagram hashtags.
 - [Slite](https://slite.com/) - Bring clarity to your team.
 - [MoonHome](https://moonhome.io/) - Remote Development Environments. ([HN](https://news.ycombinator.com/item?id=28846074))

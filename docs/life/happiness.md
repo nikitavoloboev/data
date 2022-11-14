@@ -46,6 +46,7 @@ I also try very hard to simply not have the things that I cannot change, affect 
 
 ## Notes
 
+- [If you have a safe place to live, food on the table and someone that loves you, you have it all. Easy to forget.](https://twitter.com/NWischoff/status/1591889687861403649)
 - [I agree with you that happiness is peace. And it is a state of mind irregardless of what you experience, you can be in this peaceful state detached from emotions and feelings, only attaching yourself to things that matter to you. Mindfully observing your experience.](https://www.reddit.com/r/Psychonaut/comments/8f52lr/my_thoughts_on_happiness/)
   - As for its relation to neurochemistry, I most certainly agree that it plays a major role. That's why things like exercise, proper nutrition and plentiful sleep plays such a huge role in achieving and maintaining this state of happiness. Without those three things, or in other words, without you taking care of your body, reaching these states of being is simply much harder if not impossible.
 - Happiness is the absence of striving for happiness.
@@ -118,3 +119,4 @@ I also try very hard to simply not have the things that I cannot change, affect 
 - [Ask HN: What mindset change made the biggest positive change for you? (2022)](https://news.ycombinator.com/item?id=33385750)
 - [Ask HN: How did you find joy in life? (2022)](https://news.ycombinator.com/item?id=33398063)
 - [Self-care tips that helped restore my confidence](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/ytr3dn/tip_selfcare_tips_that_helped_restore_my/)
+- [Science-Based Tools for Increasing Happiness - Huberman (2022)](https://hubermanlab.com/science-based-tools-for-increasing-happiness/)

@@ -14,6 +14,7 @@
 - [Always satisfy your partner first before finishing yourself.](https://www.reddit.com/r/sex/comments/x70vpz/my_boyfriend_doesnt_satisfy_me_after_he_finishes/)
 - [You don’t have to deposit to a sperm bank for IVF. If a person wanted to do IVF after a vasectomy they can extract the sperm from your testicles and do it that way.](https://www.reddit.com/r/sexover30/comments/y1ck83/disagreement_on_vasectomy/)
 - [Move sideways, not up and down](https://www.tiktok.com/@msjessicagarner/video/7143072375746202885)
+- [Prone bone or missionary with a pillow are top positions that can hit the g spot](https://www.reddit.com/r/sexover30/comments/yudhu1/positions_to_hit_the_g_spot/)
 
 ## Links
 
@@ -134,3 +135,5 @@
 - [The guide on how to give girls great oral sex](https://www.reddit.com/r/sexover30/comments/ylh26w/the_guide_on_how_to_give_girls_great_oral_sex/)
 - [Top sex positions for women's orgasms](https://www.youtube.com/watch?v=94xGVsYSdDk)
 - [Recommendations for "Books About Sex" + Erotica (2022)](https://www.reddit.com/r/sexover30/comments/ytki4g/metathread_recommendations_for_books_about_sex/)
+- [Positions to hit the g spot](https://www.reddit.com/r/sexover30/comments/yudhu1/positions_to_hit_the_g_spot/)
+- [Sex Positions - AskMen](https://www.askmen.com/sex/sex_positions/)

@@ -1,6 +1,6 @@
 # Skin care
 
-My skin care routine is washing my face with water and [Essence Toner](https://pyunkangyul.us/products/essence-toner) in morning.
+My [skin care routine](https://www.reddit.com/r/SkincareAddiction/comments/yva1il/routine_help_pyunkang_yul_essence_toner_ato_mild/) is washing my face with water and [Essence Toner](https://pyunkangyul.us/products/essence-toner) in morning.
 
 When I go out, I apply [sun cream](https://pyunkangyul.us/products/ato-mild-sun-cream-75ml).
 
@@ -71,3 +71,5 @@ Also looking into trying [Retinol Serum](https://www.kiehls.com/skincare/face-se
 - [At-Home Microneedling vs In-Office Microneedling | What's the difference?](https://www.youtube.com/watch?v=4TuNuBPRxH4)
 - [Why I Quit Skincare Videos (Dermatologist) (2022)](https://www.youtube.com/watch?v=k3aIeABbNvY)
 - [How to use Retinol like a Dermatologist | Dr Davin Lim (2022)](https://www.youtube.com/watch?v=tEB5qSTcHck)
+- [What It Takes To Achieve Clear Skin with Dr. Usama Syed (2022)](https://www.youtube.com/watch?v=xv0ISHGGw1A)
+- [[Routine Help] Pyunkang Yul Essence Toner + ATO Mild Sun Cream + Kiehls Retinol Serum (2022)](https://www.reddit.com/r/SkincareAddiction/comments/yva1il/routine_help_pyunkang_yul_essence_toner_ato_mild/)

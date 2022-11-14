@@ -4,6 +4,8 @@ Best and easiest hires are ones you know do good work in field you working on. U
 
 It's good idea to fund people who work on tools/libraries you use in your startup. Can fund consultant help from them or even hire them on longer term basis too.
 
+[Small well aligned teams always work best](https://twitter.com/SawyerMerritt/status/1592023564693417984).
+
 ## Recruitment tests
 
 - [Frontier's full stack take home](https://github.com/BeFrontier/fullstack-takehome)

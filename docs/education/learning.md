@@ -254,3 +254,4 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [Limnology](https://limnology.co/) - Top 70000 educational YouTube channels in 20 languages by category. ([HN](https://news.ycombinator.com/item?id=33470066))
 - [Approach for creating docs/video content by making information DAG](https://twitter.com/mattpocockuk/status/1590313564992339969)
 - [Buildspace](https://buildspace.so/) - Explore promising domains and ship meaningful products. ([Twitter](https://twitter.com/_buildspace)) ([Tweet](https://twitter.com/FarzaTV/status/1591131253410918400))
+- [Ask HN: Do you recall any book or course that made a topic finally click? (2022)](https://news.ycombinator.com/item?id=33593631)

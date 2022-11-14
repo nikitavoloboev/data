@@ -68,3 +68,5 @@ Walked a lot with Rachel. She is so cute. Love her a lot.
 Only that part won't actually get published but as I look at my notes I will still have it. Big big issue right now that no software actually solves. I mean few apps even tackle the concept of journalling well. Obsidian is quite nice but it's not purpose built for this and not sure above use case can even be solved via plugins either at least not to the quality that I want. So yes, back to coding. 😼
 
 One thing I am happy I did is make a [code](https://github.com/nikitavoloboev/code) repo which I use to share reproduction or general pieces of code. Maybe I will sync certain files or folders to GitHub Gists with some kind of bidrectional sync. Don't want to manage separate gists as I want to avoid having to go to UI to edit gists once they are published. Code should always be source of truth especially when it's on my file system because I can write scripts etc. for it to automate various things easily.
+
+

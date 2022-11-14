@@ -559,7 +559,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Useful Books](https://www.usefulbooks.com/) - Community, process, and tools to help you write great nonfiction, from first idea to first edition.
 - [Indie bookshelves](https://macwright.com/2022/02/24/indie-bookshelves.html)
 - [SQL-Powered Reading List (2022)](https://charlieharrington.com/sql-powered-reading-list/)
-- [Audio Book Shelf](https://www.audiobookshelf.org/) - Self-hosted Audiobook Server. ([Code](https://github.com/advplyr/audiobookshelf)) ([HN](https://news.ycombinator.com/item?id=31727114))
+- [Audio Book Shelf](https://www.audiobookshelf.org/) - Self-hosted Audiobook Server. ([Code](https://github.com/advplyr/audiobookshelf)) ([HN](https://news.ycombinator.com/item?id=31727114)) ([Mobile Code](https://github.com/advplyr/audiobookshelf-app))
 - [A Good Used Book](https://agoodusedbook.com/)
 - [ZLibrary Books](https://b-ok.xyz/)
 - [Litnerd](https://litnerd.com/) - Bringing Books to Life.

@@ -327,3 +327,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Deno Window Manager](https://github.com/DjDeveloperr/dwm) - Cross-platform window creation and management for Deno.
 - [Denonomicon](https://github.com/aapoalas/denonomicon) - Dark Arts of Deno Foreign Function Interface Programming.
 - [libclang-deno](https://github.com/aapoalas/libclang-deno) - Deno FFI bindings for libclang.
+- [Deno 1.28: Featuring 1.3 Million New Modules (2022)](https://deno.com/blog/v1.28) ([HN](https://news.ycombinator.com/item?id=33593668))

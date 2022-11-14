@@ -956,7 +956,7 @@
 - [cookie-rs](https://github.com/alexcrichton/cookie-rs) - HTTP cookie parsing and cookie jar management for rust.
 - [yoga-rs](https://github.com/bschwind/yoga-rs) - Rust Wrapper of Facebook's Yoga, a Flexbox layout engine.
 - [redux-rs](https://github.com/redux-rs/redux-rs) - Rust implementation of Redux. ([Fork](https://github.com/tezedge/redux-rs))
-- [Datafrog](https://github.com/rust-lang-nursery/datafrog) - Lightweight Datalog engine intended to be embedded in other Rust programs.
+- [Datafrog](https://github.com/rust-lang/datafrog) - Lightweight Datalog engine intended to be embedded in other Rust programs.
 - [kubernetes-rs](https://github.com/anguslees/kubernetes-rs) - Kubernetes API client library for Rust.
 - [jemallocator](https://github.com/gnzlbg/jemallocator) - Rust allocator using jemalloc as a backend.
 - [tikv-jemallocator](https://github.com/tikv/jemallocator) - Simplified fork of jemallocator focus on server.

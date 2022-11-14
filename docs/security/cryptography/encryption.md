@@ -97,3 +97,4 @@
 - [Dexios](https://github.com/brxken128/dexios) - Secure file encryption utility, written in Rust.
 - [Image Steganography Tool](https://github.com/7thSamurai/steganography) - Encrypt and hide files inside images. ([HN](https://news.ycombinator.com/item?id=33336920))
 - [yage](https://github.com/sylr/yage) - age with YAML support.
+- [Multi-ciphertext security degradation for lattices (2022)](https://cr.yp.to/papers/lprrr-20221114.pdf)

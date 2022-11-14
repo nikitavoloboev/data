@@ -161,3 +161,4 @@
 - [Running 1000 tests in 1s (2022)](https://marvinh.dev/blog/running-1000-test-in-1s/)
 - [XCheck at Meta: Why it exists and how it works (2022)](https://blog.nindalf.com/posts/xcheck/) ([HN](https://news.ycombinator.com/item?id=33224347))
 - [Brewing Microservices | Property-Based Testing (2022)](https://filibuster.transistor.fm/episodes/property-based-testing)
+- ["How do I test X" is almost always answered with "by controlling X" (2022)](https://berk.es/2022/09/19/test-x-by-controlling-x/)

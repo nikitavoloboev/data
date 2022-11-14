@@ -333,3 +333,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Why is symmetry so important in particle physics? (2022)](https://mfaizan.github.io/2022/10/02/symmetry.html) ([HN](https://news.ycombinator.com/item?id=33400726))
 - [Modern day physicists are likely going to be in the history books 50 or 100 years from now (2022)](https://www.reddit.com/r/Physics/comments/yhvgow/what_modern_day_physicists_are_likely_going_to_be/)
 - [Behavior of spin glasses (2022)](https://phys.org/news/2022-11-mathematics-dont-behavior-glasses.html) ([HN](https://news.ycombinator.com/item?id=33573555))
+- [How to Think About Relativity’s Concept of Space-Time (2022)](https://www.quantamagazine.org/how-to-think-about-relativitys-concept-of-space-time-20221114/)

@@ -46,3 +46,4 @@ Loved an [interview of Ben Mendelsohn](https://www.youtube.com/watch?v=65HymY-KJ
 - [Mississippi Grind, Ben Mendelsohn](https://www.youtube.com/watch?v=65HymY-KJes)
 - [Leonardo DiCaprio on The Wolf of Wall Street](https://www.youtube.com/watch?v=hkWIIRvqgvA)
 - [Most underrated actor and their best film? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/ypj6qa/most_underrated_actor_and_their_best_film/)
+- [How Timothee Chalamet Fooled Hollywood (Video Essay)](https://www.youtube.com/watch?v=jk1pM5JbBiw)

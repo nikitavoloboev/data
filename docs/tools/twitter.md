@@ -247,3 +247,4 @@ I also find it [frustrating that Twitter iOS client doesn't have the ability to 
 - [Eight Dollars](https://github.com/wseagar/eight-dollars) - Browser extension that shows twitter blue vs real verified users.
 - [twdl](https://github.com/dogancelik/twdl) - Tool for downloading media of individual tweets.
 - [Tracking the far right on Twitter](https://github.com/travisbrown/twitter-watch)
+- [How to Search Your Entire Twitter Archive With One Line of jq (2022)](https://www.ianwootten.co.uk/2022/11/14/how-to-search-your-entire-twitter-archive-with-one-line-of-jq/)

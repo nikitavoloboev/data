@@ -150,3 +150,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Solid-Stripe](https://github.com/wobsoriano/solid-stripe)
 - [Solid URQL](https://github.com/tqwewe/solid-urql)
 - [Finally, the start of something solid? (2022)](https://www.youtube.com/watch?v=DVWu2b7mvFg)
+- [Made in Solid](https://github.com/solidjs-community/made-in-solid) - What have people built with it?
