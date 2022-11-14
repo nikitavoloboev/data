@@ -145,3 +145,4 @@
 - [shinydir](https://github.com/Unoqwy/shinydir) - CLI tool to enforce clean directories by setting rules.
 - [Shufflecake](https://shufflecake.net/) - Tool for Linux that allows to create multiple hidden volumes on a storage device.
 - [Alist](https://github.com/alist-org/alist) - File list program that supports multiple storage, powered by Gin and SolidJS.
+- [scaffdog](https://github.com/scaffdog/scaffdog) - Markdown driven scaffolding tool.
