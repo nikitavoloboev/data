@@ -1,20 +1,26 @@
 # Skin care
 
-My [skin care routine](https://www.reddit.com/r/SkincareAddiction/comments/yva1il/routine_help_pyunkang_yul_essence_toner_ato_mild/) is washing my face with water and [Essence Toner](https://pyunkangyul.us/products/essence-toner) in morning.
+Based of [this interview](https://www.youtube.com/watch?v=xv0ISHGGw1A), it said there are 3 proven ways to improve skin care:
 
-When I go out, I apply [sun cream](https://pyunkangyul.us/products/ato-mild-sun-cream-75ml).
+1. Moisturizer (morning & night)
+2. Sun screen (going out or applied in morning)
+3. [Retinol product](https://www.youtube.com/watch?v=tEB5qSTcHck)
 
-Before sleep I apply [Moisture Ampoule](https://pyunkangyul.us/products/moisture-ampoule-100ml).
+Thus, my [skin care routine](https://www.reddit.com/r/SkincareAddiction/comments/yva1il/routine_help_pyunkang_yul_essence_toner_ato_mild/) is washing my face with water and [Essence Toner](https://pyunkangyul.us/products/essence-toner) in morning.
+
+Before I go out, I apply [sun cream](https://pyunkangyul.us/products/ato-mild-sun-cream-75ml).
+
+Before sleep I apply [Moisture Ampoule](https://pyunkangyul.us/products/moisture-ampoule-100ml) and [Retinol Serum](https://www.kiehls.com/skincare/face-serums/micro-dose-anti-aging-retinol-serum-with-ceramides-and-peptide/WW0154KIE.html).
 
 I try not to touch my face with dirty hands together with minimizing frowning and ideally sleeping on my back or side. I shower after any exercise I do.
 
-Occasionally applying [Nutrition cream](https://pyunkangyul.us/products/nutrition-cream-100ml) could be useful too but is [certainly not necessary](https://www.youtube.com/watch?v=k3aIeABbNvY).
+Occasionally I apply [Nutrition cream](https://pyunkangyul.us/products/nutrition-cream-100ml) but it's [certainly not necessary](https://www.youtube.com/watch?v=k3aIeABbNvY) and has marginal benefits if I do above routinely.
 
 [Skin Care Addiction subreddit](https://www.reddit.com/r/SkincareAddiction/) is insightful.
 
-I sadly have a bunch of scars I got from having severe acne when I was young. Trying to fix it up with [microneedling](https://www.youtube.com/watch?v=JPWycy8cwN8).
+I sadly have a bunch of deep scars I got from having severe acne when I was young. Trying to fix it up with [microneedling](https://www.youtube.com/watch?v=JPWycy8cwN8).
 
-Also looking into trying [Retinol Serum](https://www.kiehls.com/skincare/face-serums/micro-dose-anti-aging-retinol-serum-with-ceramides-and-peptide/WW0154KIE.html) as it has [some benefits](https://www.youtube.com/watch?v=tEB5qSTcHck).
+Found [exercising](../fitness/exercises.md) often and, good [sleep](../sleep/sleep.md) and clean [wholefoods plant based diet](nutrition/nutrition.md) to have noticable effect on the skin too. Especially given it a nice healthy glowy color.
 
 ## Interesting
 
