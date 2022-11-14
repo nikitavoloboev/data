@@ -1,5 +1,7 @@
 # Effective altruism
 
+Effective altruism to me essentially means thinking about how I can maximize the good value of my work. On high level, I just try to build [ideas](../ideas/ideas.md) that impact my life directly and hope it resonates to many others. 
+
 ## Notes
 
 - [Effective Altruism is basically just the idea that we subject to rigor any ideas we have about how to make the world a better place, and then invest our time and money in those things that have actually demonstrated efficacy in proportion to the amount of good we can do with it.](https://www.reddit.com/r/philosophy/comments/9xyjee/effective_altruism_is_the_nerdy_social_movement/)

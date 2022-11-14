@@ -452,6 +452,7 @@
 - [BzTree](https://github.com/sfu-dis/bztree) - Open-source BzTree implementation.
 - [function2](https://github.com/Naios/function2) - Improved and configurable drop-in replacement to std::function that supports move only types, multiple overloads and more.
 - [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
+- [libhal](https://github.com/libhal/libhal) - Collection of interfaces and abstractions for embedded peripherals and devices using modern C++.
 
 ## Links
 
