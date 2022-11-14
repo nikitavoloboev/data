@@ -2,28 +2,41 @@
 
 Based of [this interview](https://www.youtube.com/watch?v=xv0ISHGGw1A), it said there are 3 proven ways to improve your skin:
 
-1. Moisturizer (morning & night)
-2. Sun screen (going out or applied in morning)
+1. Moisturizer
+2. Sun screen
 3. [Retinol product](https://www.youtube.com/watch?v=tEB5qSTcHck)
 
-Thus, my [skin care routine](https://www.reddit.com/r/SkincareAddiction/comments/yva1il/routine_help_pyunkang_yul_essence_toner_ato_mild/) is washing my face with water and [Essence Toner](https://pyunkangyul.us/products/essence-toner) in morning.
+Thus, my skin care routine is, in morning:
 
-Before I go out, I apply [sun cream](https://pyunkangyul.us/products/ato-mild-sun-cream-75ml).
+1. [Prep] Wash my face with water.
+2. [Moisturizer] Apply [Pyunkang Yul Nutrition Cream](https://pyunkangyul.us/products/nutrition-cream-100ml). Let it absorb.
+3. [Sun screen] Apply [Isntree Hyaluronic Acid Watery Sun Gel](https://koreanskincare.nl/products/hyaluronic-acid-watery-sun-gel-spf50-pa). Let it absorb.
 
-Before sleep I apply [Moisture Ampoule](https://pyunkangyul.us/products/moisture-ampoule-100ml) and [Retinol Serum](https://www.kiehls.com/skincare/face-serums/micro-dose-anti-aging-retinol-serum-with-ceramides-and-peptide/WW0154KIE.html).
+In evening, before sleep:
 
-I try not to touch my face with dirty hands together with minimizing frowning and ideally sleeping on my back or side. I shower after any exercise I do.
+1. [Prep] Wash my face with water.
+2. [Retinol] Apply [Retinol Serum](https://www.kiehls.com/skincare/face-serums/micro-dose-anti-aging-retinol-serum-with-ceramides-and-peptide/WW0154KIE.html). Let it absorb.
+3. Go to sleep, always use fresh sheets especially on the pillows.
 
-Occasionally I apply [Nutrition cream](https://pyunkangyul.us/products/nutrition-cream-100ml) but it's [certainly not necessary](https://www.youtube.com/watch?v=k3aIeABbNvY) and has marginal benefits if I do above routinely.
+During the day, I try not to touch my face with dirty hands. I also try be as relaxed as I can be no matter the situation. Relaxed face without any frowning.
 
-[Skin Care Addiction subreddit](https://www.reddit.com/r/SkincareAddiction/) is insightful.
+At night, I try to sleep [either my back or side](https://www.sleepfoundation.org/sleeping-positions). Although I do fall as asleep fastest when sleeping on my stomach. Unfortunately, sleeping on your stomach, can cause wrinkles to form.
+
+I shower after any exercise I do. And do shower at least once a day, usually in mornings.
+
+Sometimes I apply [Nutrition cream](https://pyunkangyul.us/products/nutrition-cream-100ml) but it's [not necessary](https://www.youtube.com/watch?v=k3aIeABbNvY) given routine I have above.
 
 I sadly have a bunch of deep scars I got from having severe acne when I was young. Trying to fix it up with [microneedling](https://www.youtube.com/watch?v=JPWycy8cwN8).
 
 Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.md) and clean [wholefoods plant based diet](nutrition/nutrition.md) to have noticeable effect on the skin too, especially its healthy color.
 
+[Skin Care Addiction subreddit](https://www.reddit.com/r/SkincareAddiction/) is insightful.
+
 ## Interesting
 
+- [Pyunkang Yul Essence Toner](https://pyunkangyul.us/products/essence-toner)
+- [Pyunkang Yul ATO Mild Sun Cream](https://pyunkangyul.us/products/ato-mild-sun-cream-75ml)
+- [Pyunkang Yul Moisture Ampoule](https://pyunkangyul.us/products/moisture-ampoule-100ml)
 - [Toleriane Cleanser](https://www.laroche-posay.us/our-products/face/face-wash/toleriane-hydrating-gentle-facial-cleanser-tolerianehydratinggentlefacialcleanser.html)
 - [InstaNatural Vitamin C](https://www.reddit.com/r/SkincareAddiction/comments/snoem9/which_moisture_is_best_i_have_sensitive/)
 - [Aveeno Positively Radiant](https://www.reddit.com/r/SkincareAddiction/comments/snoem9/which_moisture_is_best_i_have_sensitive/)
