@@ -12,10 +12,10 @@ If I ever feel down, I can just start writing and just release all these negativ
 
 I love reading these journals:
 
+- [Artem Tyurin](https://agentcooper.io/)
 - [Fabian's retrospectives](https://capnfabs.net/tags/retrospective/)
 - [Brandur's small notes on all things](https://brandur.org/fragments)
 - [Matous's journals](https://dzx.cz/tags/journal/)
-- [Artem Tyurin](https://agentcooper.io/)
 
 ## Day One Journals
 
