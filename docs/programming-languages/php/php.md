@@ -48,3 +48,4 @@ title: PHP
 - [FrankenPHP](https://github.com/dunglas/frankenphp) - Modern App Server for PHP. ([HN](https://news.ycombinator.com/item?id=33205282))
 - [Relay](https://github.com/cachewerk/relay) - Next-generation caching layer for PHP.
 - [PHP, Symfony and Svelte boilerplate](https://github.com/Pierstoval/php-js-boilerplate)
+- [ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.

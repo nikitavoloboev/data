@@ -4,6 +4,8 @@ title: Bevy Engine
 
 # [Bevy Engine](https://bevyengine.org/)
 
+Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
+
 ## OSS Bevy apps
 
 - [Country Slice](https://github.com/anopara/country-slice) - Toy project, written in Rust language with Bevy's ECS and OpenGL (gl-rs and glutin).
@@ -14,6 +16,7 @@ title: Bevy Engine
 - [Digital Extinction](https://github.com/DigitalExtinction/Game) - 3D RTS game implemented in Rust.
 - [Logic Voxels](https://github.com/mwbryant/logic_voxels) - Personal game project created with Bevy.
 - [Bevy Tower Defense Tutorial Game](https://github.com/mwbryant/bevy-tower-defense-tutorial)
+- [Oicana](https://github.com/NiklasEi/oicana) - Tower defence game with some puzzling.
 
 ## Links
 
@@ -73,3 +76,7 @@ title: Bevy Engine
 - [Bevy Smud](https://github.com/johanhelsing/bevy_smud) - Sdf 2d shape renderer for Bevy.
 - [Extreme Bevy](https://github.com/johanhelsing/extreme_bevy) - Low-latency multiplayer action game, showcasing how to implement p2p connections and rollback networking in a web browser.
 - [Bevy Web Asset](https://github.com/johanhelsing/bevy_web_asset) - Bevy asset loader that transparently supports loading over http(s).
+- [Bevy asset loader](https://github.com/NiklasEi/bevy_asset_loader) - Bevy plugin helping with asset loading and organization.
+- [Bevy game template](https://github.com/NiklasEi/bevy_game_template)
+- [Bevy Kira audio](https://github.com/NiklasEi/bevy_kira_audio) - Bevy plugin to use Kira for game audio.
+- [Bevy common assets](https://github.com/NiklasEi/bevy_common_assets) - Collection of asset loaders for common file formats.

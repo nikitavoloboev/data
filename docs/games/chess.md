@@ -40,6 +40,7 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Danish Gambit](https://en.wikipedia.org/wiki/Danish_Gambit)
 - [Anna Cramling Asks The Candidates ”What Is The Most Fun Chess Opening”](https://www.youtube.com/watch?v=cTMnKiA5BTs)
 - [Sveshnikov Sicilian](https://chesspathways.com/chess-openings/sveshnikov-sicilian/) ([In action](https://youtu.be/37KQuu3P4pw?t=952))
+- [Trompowsky Attack](https://www.chess.com/openings/Trompowsky-Attack) ([In action](https://www.youtube.com/watch?v=VSK3XWFkZGk))
 
 ## Notes
 

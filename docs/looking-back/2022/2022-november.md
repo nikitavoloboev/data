@@ -28,3 +28,44 @@ There's few people whose work I follow a lot of and just get so excited when the
 - [EGOIST](https://github.com/egoist) - As mentioned, he made [Dropcode](https://github.com/egoist/dropcode) which pushed me to Tauri for building LA. And he is prolific in terms of [number of useful things he publishes](https://github.com/egoist?tab=repositories) in TS/web space.
 
 Now that I started writing this list, I realize I can go for a long long time. One of the things I want to do as part of LA is a proper contacts handling. You can add contacts and share privately or publicly your notes on certain people, what you love about them. I think it can be nice.
+
+-- 14
+
+Sometimes I do look back on my life and think just how much of my life I wasted. I'm still young though so one thing that does calm me down is that failure is not inherently bad. Each failure I was met with, I tried to distill as part of my [rules](../../focusing/rules.md) for life. I do need to do something about making it easier to follow rules I set for myself. Like with exercise, I still kind of dread it as it is hard. And I am still so weak. Slowly trying to do more and more though.
+
+Certain things though, I reached a kind of blissful scenario where tools start workign for me so nicely. On both [mac](../../macOS/macOS.md) & [iOS](../../operating-systems/ios/ios.md). [Karabiner](../../macOS/apps/karabiner/karabiner.md) is so sleek and still no one even knows about the tool and just how powrful it is. It's my 'secret' sauce. Well until I do proper course on it which I hope to do on top of [LA](../../ideas/learn-anything.md) learning platform. Speaking of it, had this come up to me when I showered:
+
+[](https://i.imgur.com/2PUTNnF.png)
+
+A topic connector for topics learned. Basically want [tldraw](https://www.tldraw.com/) like graph editor where you can drag topics from left side and connect with arrows in the editor. But until that, I need to build the infra for just adding links, [Pinboard](https://pinboard.in/)/[Raindrop](https://raindrop.io/) style. Rust will take time to learn, like even a simple Rust CLI with [clap](https://docs.rs/clap/latest/clap/) has so much complex code to get. `derive` and all. I have [rustlings](https://github.com/rust-lang/rustlings) open in my tab with [solutions](https://github.com/wh5a/rustlings-solutions). Will go through it all.
+
+Also I got my archives from Twitter and Instagram. Will do other services later. Twitter one I'll try run through [this parser](https://github.com/timhutton/twitter-archive-parser) someone shared and IG will have to write my own. I want to be able to ingest all kinds of data into LA for actual organization. [Pixave](http://pixave.softwar.io/) is great but sucks I can't see the code for it and edit. I want something I can control, perhaps image management will be part of LA, perhaps its a separate app but I need to start working on this asap. Because right now being able to reference some tweet I saw even yesterday is ulimate pain. LA should solve this.
+
+Also [spyglass](https://github.com/a5huynh/spyglass) is pretty neat project. Can be handy. 
+
+![](https://i.imgur.com/0Yo6QQh.png)
+
+> stuff I need to do asap
+
+I mean even images. I still am using Imgur for hosting images because I have an alfred workflow for uploading an image and getting a link. I need images running on my infra probably with Cloudflare. So much to build.
+
+It's nice to be able to write things more freely here. A nice little space where I can say what I feel. What I am doing. What I am planning to do. The beauty is that only ones who truly **care** what I am up to will read this and can stop any time. On twitter, any little thing I say gets funneled to all my followers and I have some followers that I don't want to miss. This has already happened few times and it did hurt. Although rationally speaking, I should really note care. Should use Twitter a lot more often and start building/releasing things at faster pace.
+
+btw I might revise this later but my vision for a perfect look back software. Is basically what I have now in Obsidian where I just write things to a file. Only it will separate things by day, kind of similar to how [Reflect](https://reflect.app/) creates a day note daily. But more improtantly, for a given month, the actual UI, both to what I write to and one that's published will have a chronological feed of my online activity for the day. All the tweets I made. All the images I posted on Instagram if any. All my reddit comments and posts, not like there is anything to hide there, my account is public anyway and I do have an alt for truly private questions/answers. All that chronologically in one UI. Would be dreamy.
+
+It's mind blowing this doesn't yet exist but so as many many ideas yet to be built. Maybe one day with AI, the time it takes to go from idea to useful publication will shorten. It's already getting there with generative images and GitHub Copilot autocompleting more and more of your code. Super excited where that goes. On my part I want to build a global digital brain for ideas. First class ideas. Will be my task manager and once again part of LA. This tool will be insane once I learn enough Rust to actually get the desktop app more editable. One thing I asked around in Tauri discord, was that I can actually use Go still with Tauri. I just need to make the Go server, run it locally and have Rust call into local server and it can then act as a proxy to send stuff to front end via its commands. All should be fairly fast but that begs the question of maybe its worth trying [Wails](https://wails.io/) after all. It's tricky because [Dropcode](https://github.com/egoist/dropcode) is basically the perfect stack of what I want and the dev cycle is actually nice because [egoist](https://github.com/egoist) is much better dev than me. So yea will see. Eventually I think it will have to all be rust as far running code on the client OS. Compile times are not too bad too especially incremental ones.
+
+Also it's tough being poor, I need to visit a doctor but I am still so broke I can barely afford a doctor visit. It's bizzare. It's actually fascinating how broke I've been for most of my life and I manage to somehow get by. Like now I have 0.80 euro on my account as I wait for my salary that comes in 12 days. Fortunately I have some leftover food and water so I should get by. Only solution to this is to work harder and smarter and actually charge for things I make in my own time. Like thus far, everything I released is fully OSS and free and it's all nice but my god does no one will actually pay for it if they are not forced to. I do have some [kind sponsors](https://github.com/sponsors/nikitavoloboev) though already so not all hope is lost.
+
+Anyway, had all this on my mind so good to have it in writing and see what will change next month, maybe I get enough money and visit a doctor and fix some health issues I have that distract me from properly coding / doing things.
+
+Oh yea I forgot about one thing with regards to perfect look backs. It would be amazing to be able to specify a block of text as private so it won't get published but still be inline with your public notes. Like ones I am wring now. So as example I can add this as I write.
+
+```
+Walked a lot with Rachel. She is so cute. Love her a lot.
+```
+
+Only that part won't actually get published but as I look at my notes I will still have it. Big big issue right now that no software actually solves. I mean few apps even tackle the concept of journalling well. Obsidian is quite nice but it's not purpose built for this and not sure above use case can even be solved via plugins either at least not to the quality that I want. So yes, back to coding. 😼
+
+
+

@@ -2,15 +2,15 @@
 
 Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography). [Andre Josselin](https://www.instagram.com/josselin/), [Jake Wangner](https://www.instagram.com/jakewangner/), [Polina Washington](https://www.instagram.com/polina.washington/), [Kseniia Vaschenko](https://www.instagram.com/kseniyavashchenko/), [Bruce Weber](https://www.instagram.com/bruce_weber/) & [Mariam Sitchinava](https://www.instagram.com/mariamsitchinava/) are inspiring [amongst others](art.md#photography).
 
-[How to use Light for shootings](https://www.youtube.com/watch?v=AxhWk5xelto) & [Seeing in Black and White](https://www.youtube.com/watch?v=V8Hh8S-Z68s) are nice guides. Saving up for [Leica M11](https://www.youtube.com/watch?v=RSdLAiDb8dQ). Currently shoot on [just iPhone](https://twitter.com/levelsio/status/1532178971793797120).
+[How to use Light for shootings](https://www.youtube.com/watch?v=AxhWk5xelto) & [Seeing in Black and White](https://www.youtube.com/watch?v=V8Hh8S-Z68s) are nice guides. Saving up for [Leica Q2](https://leica-camera.com/en-int/photography/cameras/q/q2-black). Currently shoot on [just iPhone](https://twitter.com/levelsio/status/1532178971793797120).
 
 Want to build a page [like this](https://johannschopplich.com/en/photography) for my photos.
 
 ## Interesting cameras
 
+- [Leica Q2](https://leica-camera.com/en-US/photography/cameras/q/q2-black) ([Review](https://www.youtube.com/watch?v=Mm2N8tOJSx0)) ([Leica Q2 VS Fuji X100V](https://www.youtube.com/watch?v=O_Go5wc-s74)) ([4.0 update](https://www.youtube.com/watch?v=WqI6Q-qLknw))
 - [Fujifilm X100V](https://fujifilm-x.com/en-us/products/cameras/x100v/) ([Review](https://www.youtube.com/watch?v=b_Smp1bEXlY))
-- [Leica M11](https://leica-camera.com/en-int/photography/cameras/m/m11-black)
-- [Leica Q2](https://leica-camera.com/en-US/photography/cameras/q/q2-black) ([Review](https://www.youtube.com/watch?v=Mm2N8tOJSx0))
+- [Leica M11](https://leica-camera.com/en-int/photography/cameras/m/m11-black) ([Review](https://www.youtube.com/watch?v=RSdLAiDb8dQ))
 - [Sony Alpha 1](https://alphauniverse.com/stories/sony-announces-the-alpha-1/)
 - [Canon EOS 5D Mark IV](https://www.canon.com.cy/cameras/eos-5d-mark-iv/)
 - [Pentax 67](https://www.reddit.com/search?q=Pentax%2067&sort=relevance&t=all)

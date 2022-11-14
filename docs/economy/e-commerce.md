@@ -180,3 +180,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Nice options to sell digital art](https://twitter.com/Shpigford/status/1591085661481623553)
 - [Tom Ford](https://www.tomford.com/)
 - [Gear In Stock Tracker](https://www.gearinstock.com/)
+- [Saucony](https://www.saucony.com/en/home) - Running Shoes, Clothing, & Accessories.

@@ -10,6 +10,8 @@ title: Rust
 
 I use Rust to build desktop apps with [Tauri](rust-libraries/tauri.md). But try to use it for more things. I also like [Go](../go/go.md) & [TS](../typescript/typescript.md) for scripting / browser code.
 
+[David Tolnay](https://github.com/dtolnay) writes nice Rust code.
+
 ## Templates
 
 - [Rust Service Template](https://github.com/sambacha/rust-service-template)

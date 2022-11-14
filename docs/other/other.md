@@ -692,3 +692,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Argdown](https://argdown.org/) - Simple syntax for complex argumentation. ([Code](https://github.com/christianvoigt/argdown))
 - [Bubbles](https://oimo.io/works/bubbles/) ([HN](https://news.ycombinator.com/item?id=33566924))
 - [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes)
+- [Building an E-Ink weather display for our home (2022)](https://kimmo.blog/posts/7-building-eink-weather-display-for-our-home/) ([HN](https://news.ycombinator.com/item?id=33583326))

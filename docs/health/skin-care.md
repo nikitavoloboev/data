@@ -12,6 +12,8 @@ Occasionally applying [Nutrition cream](https://pyunkangyul.us/products/nutritio
 
 [Skin Care Addiction subreddit](https://www.reddit.com/r/SkincareAddiction/) is insightful.
 
+I sadly have a bunch of scars I got from having severe acne when I was young. Trying to fix it up with [microneedling](https://www.youtube.com/watch?v=JPWycy8cwN8).
+
 ## Interesting
 
 - [Toleriane Cleanser](https://www.laroche-posay.us/our-products/face/face-wash/toleriane-hydrating-gentle-facial-cleanser-tolerianehydratinggentlefacialcleanser.html)
@@ -62,3 +64,5 @@ Occasionally applying [Nutrition cream](https://pyunkangyul.us/products/nutritio
 - [Pyunkang Yul: Ahead of the Trends?](https://www.youtube.com/watch?v=gA_V4UURTDA)
 - [Best and Worst of Pyunkang Yul?](https://www.reddit.com/r/AsianBeauty/comments/udh56t/discussion_best_and_worst_of_pyunkang_yul/)
 - [Pyunkang Yul](https://pyunkangyul.us/)
+- [Is microneedling worth the hype? (2022)](https://www.youtube.com/watch?v=JPWycy8cwN8)
+- [Doctorly - YouTube](https://www.youtube.com/c/Doctorly/videos)
