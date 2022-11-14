@@ -860,3 +860,4 @@ title: Kubernetes
 - [Cloud Foundry on Kubernetes](https://github.com/cloudfoundry/korifi)
 - [Mini-Kube-Scheduler](https://github.com/sanposhiho/mini-kube-scheduler) - Scheduler for learning Kubernetes Scheduler.
 - [Hierarchical Namespace Controller (HNC)](https://github.com/kubernetes-sigs/hierarchical-namespaces) - Adds hierarchical policies and delegated creation to Kubernetes namespaces for improved in-cluster multitenancy. ([User Guide](https://github.com/kubernetes-sigs/hierarchical-namespaces))
+- [kevent](https://github.com/TwiN/kevent) - Simple library for creating Kubernetes events.
