@@ -8,7 +8,7 @@ Before sleep I apply [Moisture Ampoule](https://pyunkangyul.us/products/moisture
 
 I try not to touch my face with dirty hands together with minimizing frowning and ideally sleeping on my back or side. I shower after any exercise I do.
 
-Occasionally applying [Nutrition cream](https://pyunkangyul.us/products/nutrition-cream-100ml) is supposedly useful too although doubt it's that useful if I am already doing above routine.
+Occasionally applying [Nutrition cream](https://pyunkangyul.us/products/nutrition-cream-100ml) could be useful too but is [certainly not necessary](https://www.youtube.com/watch?v=k3aIeABbNvY).
 
 [Skin Care Addiction subreddit](https://www.reddit.com/r/SkincareAddiction/) is insightful.
 
@@ -66,3 +66,6 @@ I sadly have a bunch of scars I got from having severe acne when I was young. Tr
 - [Pyunkang Yul](https://pyunkangyul.us/)
 - [Is microneedling worth the hype? (2022)](https://www.youtube.com/watch?v=JPWycy8cwN8)
 - [Doctorly - YouTube](https://www.youtube.com/c/Doctorly/videos)
+- [At-Home Microneedling vs In-Office Microneedling | What's the difference?](https://www.youtube.com/watch?v=4TuNuBPRxH4)
+- [Why I Quit Skincare Videos (Dermatologist) (2022)](https://www.youtube.com/watch?v=k3aIeABbNvY)
+- [How to use Retinol like a Dermatologist | Dr Davin Lim (2022)](https://www.youtube.com/watch?v=tEB5qSTcHck)

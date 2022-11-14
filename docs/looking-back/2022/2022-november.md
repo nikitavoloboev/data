@@ -33,9 +33,9 @@ Now that I started writing this list, I realize I can go for a long long time. O
 
 Sometimes I do look back on my life and think just how much of my life I wasted. I'm still young though so one thing that does calm me down is that failure is not inherently bad. Each failure I was met with, I tried to distill as part of my [rules](../../focusing/rules.md) for life. I do need to do something about making it easier to follow rules I set for myself. Like with exercise, I still kind of dread it as it is hard. And I am still so weak. Slowly trying to do more and more though.
 
-Certain things though, I reached a kind of blissful scenario where tools start workign for me so nicely. On both [mac](../../macOS/macOS.md) & [iOS](../../operating-systems/ios/ios.md). [Karabiner](../../macOS/apps/karabiner/karabiner.md) is so sleek and still no one even knows about the tool and just how powrful it is. It's my 'secret' sauce. Well until I do proper course on it which I hope to do on top of [LA](../../ideas/learn-anything.md) learning platform. Speaking of it, had this come up to me when I showered:
+Certain things, I reached a kind of blissful workflow where tools start working for me so nicely. On both [mac](../../macOS/macOS.md) & [iOS](../../operating-systems/ios/ios.md). [Karabiner](../../macOS/apps/karabiner/karabiner.md) is so sleek and still no one even knows about the tool and just how powerful it is. It's my 'secret' sauce. Well until I do proper course on it which I hope to do on top of [LA](../../ideas/learn-anything.md) learning platform. Speaking of it, had this come up to me when I showered:
 
-[](https://i.imgur.com/2PUTNnF.png)
+![](https://i.imgur.com/2PUTNnF.png)
 
 A topic connector for topics learned. Basically want [tldraw](https://www.tldraw.com/) like graph editor where you can drag topics from left side and connect with arrows in the editor. But until that, I need to build the infra for just adding links, [Pinboard](https://pinboard.in/)/[Raindrop](https://raindrop.io/) style. Rust will take time to learn, like even a simple Rust CLI with [clap](https://docs.rs/clap/latest/clap/) has so much complex code to get. `derive` and all. I have [rustlings](https://github.com/rust-lang/rustlings) open in my tab with [solutions](https://github.com/wh5a/rustlings-solutions). Will go through it all.
 
@@ -49,7 +49,7 @@ Also [spyglass](https://github.com/a5huynh/spyglass) is pretty neat project. Can
 
 I mean even images. I still am using Imgur for hosting images because I have an alfred workflow for uploading an image and getting a link. I need images running on my infra probably with Cloudflare. So much to build.
 
-It's nice to be able to write things more freely here. A nice little space where I can say what I feel. What I am doing. What I am planning to do. The beauty is that only ones who truly **care** what I am up to will read this and can stop any time. On twitter, any little thing I say gets funneled to all my followers and I have some followers that I don't want to miss. This has already happened few times and it did hurt. Although rationally speaking, I should really note care. Should use Twitter a lot more often and start building/releasing things at faster pace.
+It's nice to be able to write things more freely here. A nice little space where I can say what I feel. What I am doing. What I am planning to do. The beauty is that only ones who truly **care** what I am up to will read this and can stop any time. On twitter, any little thing I say gets funneled to all my followers and I have some followers that I don't want to unfollow me. This has already happened few times and it did hurt. Although rationally speaking, I should really not care. Should use Twitter a lot more often and start building/releasing things at faster pace.
 
 btw I might revise this later but my vision for a perfect look back software. Is basically what I have now in Obsidian where I just write things to a file. Only it will separate things by day, kind of similar to how [Reflect](https://reflect.app/) creates a day note daily. But more improtantly, for a given month, the actual UI, both to what I write to and one that's published will have a chronological feed of my online activity for the day. All the tweets I made. All the images I posted on Instagram if any. All my reddit comments and posts, not like there is anything to hide there, my account is public anyway and I do have an alt for truly private questions/answers. All that chronologically in one UI. Would be dreamy.
 
@@ -59,7 +59,7 @@ Also it's tough being poor, I need to visit a doctor but I am still so broke I c
 
 Anyway, had all this on my mind so good to have it in writing and see what will change next month, maybe I get enough money and visit a doctor and fix some health issues I have that distract me from properly coding / doing things.
 
-Oh yea I forgot about one thing with regards to perfect look backs. It would be amazing to be able to specify a block of text as private so it won't get published but still be inline with your public notes. Like ones I am wring now. So as example I can add this as I write.
+Oh yea I forgot about one thing with regards to perfect look backs. It would be amazing to be able to specify a block of text as private so it won't get published but still be inline with your public notes. Like ones I am writing now. So as example I can add this as I write.
 
 ```
 Walked a lot with Rachel. She is so cute. Love her a lot.

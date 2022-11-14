@@ -954,3 +954,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Debugging a Core Dump with MDB (2022)](https://ry.goodwu.net/tinkering/debugging-a-core-dump-with-mdb/)
 - [Stop writing Rust linked list libraries (2022)](https://diziet.dreamwidth.org/13476.html)
 - [Carefully exploring Rust as a Python developer (2022)](https://karimjedda.com/carefully-exploring-rust/) ([HN](https://news.ycombinator.com/item?id=33581901))
+- [Tell HN: Rust Is Complex (2022)](https://news.ycombinator.com/item?id=33587473)
