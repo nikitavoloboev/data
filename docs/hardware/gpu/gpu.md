@@ -131,3 +131,4 @@ title: GPU
 - [Crusoe Cloud GPU Pricing](https://crusoecloud.com/pricing/) ([Tweet](https://twitter.com/YousifAstar/status/1580657205308583936))
 - [LibVF.IO](https://github.com/Arc-Compute/LibVF.IO) - Vendor neutral GPU multiplexing tool driven by YAML & VFIO.
 - [NVIDIA PhysX SDK](https://github.com/NVIDIA-Omniverse/PhysX) ([HN](https://news.ycombinator.com/item?id=33519414))
+- [Beyond GPU unified memory: fully unified address spaces (2022)](https://threedots.ovh/blog/2022/11/beyond-gpu-unified-memory-fully-unified-address-spaces/)

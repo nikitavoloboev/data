@@ -771,3 +771,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TypeScript code generator via OpenAPI scheme](https://github.com/Himenon/openapi-typescript-code-generator)
 - [What TS libs are missing? (2022)](https://twitter.com/mattpocockuk/status/1588217486498996225)
 - [undefined](https://github.com/ThePrimeagen/undefined) - Project to turn a file of JSON responses into TypeScript types.
+- [p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions.

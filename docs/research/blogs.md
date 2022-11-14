@@ -214,6 +214,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Kyle Hovey](https://kylehovey.github.io/blog/)
 - [Colin Woodbury](https://www.fosskers.ca/en/blog)
 - [Vlad Moldovean](https://vmoldo.com/blog/)
+- [Longhorn](https://threedots.ovh/blog/)
 
 ## Notes
 

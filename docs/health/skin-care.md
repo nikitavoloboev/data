@@ -14,6 +14,8 @@ Occasionally applying [Nutrition cream](https://pyunkangyul.us/products/nutritio
 
 I sadly have a bunch of scars I got from having severe acne when I was young. Trying to fix it up with [microneedling](https://www.youtube.com/watch?v=JPWycy8cwN8).
 
+Also looking into trying [Retinol Serum](https://www.kiehls.com/skincare/face-serums/micro-dose-anti-aging-retinol-serum-with-ceramides-and-peptide/WW0154KIE.html) as it has [some benefits](https://www.youtube.com/watch?v=tEB5qSTcHck).
+
 ## Interesting
 
 - [Toleriane Cleanser](https://www.laroche-posay.us/our-products/face/face-wash/toleriane-hydrating-gentle-facial-cleanser-tolerianehydratinggentlefacialcleanser.html)
