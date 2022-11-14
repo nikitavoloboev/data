@@ -440,3 +440,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [ml-pkgs](https://github.com/nixvital/ml-pkgs) - Extra package for nix on machine learning and data science.
 - [devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments. ([Web](https://devenv.sh/))
 - [Global registry of Nix flakes](https://github.com/NixOS/flake-registry)
+- [Taking off with Nix at FlightAware (2022)](https://flightaware.engineering/taking-off-with-nix-at-flightaware/)
