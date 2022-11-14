@@ -278,3 +278,4 @@ title: Spatial analysis
 - [GeoTorch](https://github.com/DataSystemsLab/GeoTorch) - Spatiotemporal Deep Learning Framework.
 - [3D OpenStreetMap](https://demo.f4map.com/#camera.theta=0.9) ([HN](https://news.ycombinator.com/item?id=33485985))
 - [Deepness](https://github.com/PUTvision/qgis-plugin-deepness) - Plugin for neural network inference in QGIS: segmentation, regression and detection.
+- [osmar](https://github.com/codesoap/osmar) - Simple command line tool to explore osm data.
