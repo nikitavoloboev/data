@@ -16,11 +16,11 @@ In evening, before sleep:
 
 1. [Prep] Wash my face with water.
 2. [Retinol] Apply [Retinol Serum](https://www.kiehls.com/skincare/face-serums/micro-dose-anti-aging-retinol-serum-with-ceramides-and-peptide/WW0154KIE.html). Let it absorb.
-3. Go to sleep, always use fresh sheets especially on the pillows.
+3. Go to sleep. Always use fresh sheets especially on the pillows.
 
 During the day, I try not to touch my face with dirty hands. I also try be as relaxed as I can be no matter the situation. Relaxed face without any frowning.
 
-At night, I try to sleep [either my back or side](https://www.sleepfoundation.org/sleeping-positions). Although I do fall as asleep fastest when sleeping on my stomach. Unfortunately, sleeping on your stomach, can cause wrinkles to form.
+At night, I try to sleep [either on my back or side](https://www.sleepfoundation.org/sleeping-positions). Although I do fall as asleep fastest when sleeping on my stomach. Unfortunately, sleeping on your stomach, can cause wrinkles to form.
 
 I shower after any exercise I do. And do shower at least once a day, usually in mornings.
 
