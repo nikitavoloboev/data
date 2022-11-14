@@ -1,6 +1,6 @@
 # Skin care
 
-Based of [this interview](https://www.youtube.com/watch?v=xv0ISHGGw1A), it said there are 3 proven ways to improve skin care:
+Based of [this interview](https://www.youtube.com/watch?v=xv0ISHGGw1A), it said there are 3 proven ways to improve your skin:
 
 1. Moisturizer (morning & night)
 2. Sun screen (going out or applied in morning)
@@ -20,7 +20,7 @@ Occasionally I apply [Nutrition cream](https://pyunkangyul.us/products/nutrition
 
 I sadly have a bunch of deep scars I got from having severe acne when I was young. Trying to fix it up with [microneedling](https://www.youtube.com/watch?v=JPWycy8cwN8).
 
-Found [exercising](../fitness/exercises.md) often and, good [sleep](../sleep/sleep.md) and clean [wholefoods plant based diet](nutrition/nutrition.md) to have noticable effect on the skin too. Especially given it a nice healthy glowy color.
+Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.md) and clean [wholefoods plant based diet](nutrition/nutrition.md) to have noticeable effect on the skin too, especially its healthy color.
 
 ## Interesting
 

@@ -70,6 +70,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Shanghai](https://github.com/harubaru/discord-stable-diffusion) - Discord bot to run Stable Diffusion locally.
 - [OKP4's Discord Bot](https://github.com/okp4/discord-bot)
 - [Rust Cloudflare Workers Bot in Rust](https://github.com/mcdallas/rust-discord-bot)
+- [GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Simple Discord bot to get the active developer badge.
 
 ## Libraries
 
