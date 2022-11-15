@@ -53,3 +53,4 @@ title: Probabilistic programming
 - [PPL Bench](https://github.com/facebookresearch/pplbench) - Evaluation Framework for Probabilistic Programming Languages. ([Docs](https://pplbench.org/docs/introduction))
 - [On Fast Sampling of Diffusion Probabilistic Models (2021)(https://arxiv.org/abs/2106.00132) ([Code](https://github.com/FengNiMa/FastDPM_pytorch))
 - [pgmpy](https://github.com/pgmpy/pgmpy) - Python library for working with Probabilistic Graphical Models.
+- [Hakaru](https://github.com/hakaru-dev/hakaru) - Probabilistic programming language.

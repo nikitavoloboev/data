@@ -246,3 +246,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [How I make a living working on SerenityOS (2022)](https://awesomekling.github.io/How-I-make-a-living-working-on-SerenityOS/) ([HN](https://news.ycombinator.com/item?id=33386163))
 - [Becoming fasterthanlime full-time (2022)](https://fasterthanli.me/articles/becoming-fasterthanlime-full-time)
 - [Awesome Open-source Alternatives](https://github.com/diegoleme/awesome-open-source-alternatives)
+- [Mold linker may not switch to a source-available license (2022)](https://bluewhalesystems.blogspot.com/2022/11/mold-linker-may-not-switch-to-source.html)

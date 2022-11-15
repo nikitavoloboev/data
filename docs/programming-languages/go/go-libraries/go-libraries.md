@@ -665,6 +665,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go-wolfSSL](https://github.com/wolfSSL/go-wolfssl) - Go wrapper for wolfSSL lightweight TLS library and wolfCrypt cryptography library.
 - [Reed-Solomon](https://github.com/klauspost/reedsolomon) - Reed-Solomon Erasure Coding in Go.
 - [sftp](https://github.com/pkg/sftp) - SFTP support for the go.crypto/ssh package.
+- [libsignalgo](https://github.com/sumnerevans/libsignalgo) - Go wrapper for the libsignal library.
 
 ## Linux
 
@@ -1896,6 +1897,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [GoUPnP](https://github.com/huin/goupnp) - UPnP client library for Go.
 - [Hooks](https://github.com/mikestefanello/hooks) - Simple, type-safe hook system to enable easier modularization of your Go code.
 - [Noise](https://github.com/flynn/noise) - Go implementation of the Noise Protocol Framework.
+- [Bsimp](https://github.com/akrylysov/bsimp) - Minimalistic S3-backed audio library.
 
 ## Links
 

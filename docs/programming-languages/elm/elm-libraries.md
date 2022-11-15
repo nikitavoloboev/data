@@ -16,6 +16,10 @@
 - [elm-css](https://github.com/rtfeldman/elm-css) - Typed CSS in Elm.
 - [Elm UI](https://github.com/mdgriffith/elm-ui) - What if you never had to write CSS again. ([Elm UI Cookbook](https://github.com/rofrol/elm-ui-cookbook))
 
+## GraphQL
+
+- [Write GQL, get Elm](https://github.com/vendrinc/elm-gql)
+
 ## Other
 
 - [HTML](https://github.com/elm/html) - Quickly render HTML in Elm.

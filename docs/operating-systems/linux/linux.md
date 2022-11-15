@@ -631,3 +631,4 @@ title: Linux
 - [eBPF – Adding functionality to OS at runtime](https://ebpf.io/what-is-ebpf/) ([HN](https://news.ycombinator.com/item?id=33489935))
 - [Hermit](https://github.com/facebookexperimental/hermit) - Reproducible Linux container.
 - [State of Intel SGX in Linux - Jarkko Sakkinen & Roman Volosatovs, Profian Inc (2022)](https://www.youtube.com/watch?v=VeD_eSPFxV0)
+- [Ask HN: How ready for daily driving is Asahi Linux? (2022)](https://news.ycombinator.com/item?id=33607994)

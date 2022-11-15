@@ -148,3 +148,4 @@
 - [Stable Diffusion with Colossal-AI](https://github.com/hpcaitech/ColossalAI/tree/main/examples/images/diffusion)
 - [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models (2022)](https://arxiv.org/abs/2210.08933) ([Code](https://github.com/Shark-NLP/DiffuSeq))
 - [Stable-Diffusion + Fused CUDA kernels](https://github.com/tfernd/sd-fused)
+- [Dall-E 2 AI Image Generator](https://dalle-2.vercel.app/) - Using Upstash for message queue + Redis. ([Code](https://github.com/domeccleston/dalle-2))

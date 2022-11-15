@@ -12,6 +12,8 @@ I use Rust to build desktop apps with [Tauri](rust-libraries/tauri.md). But try 
 
 [David Tolnay](https://github.com/dtolnay) writes nice Rust code.
 
+[Xilem: an architecture for UI in Rust](https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html) is nice read for [making UI in Rust](https://www.reddit.com/r/rust/comments/yuxb8a/serenityos_author_rust_is_a_neat_language_but/).
+
 ## Templates
 
 - [Rust Service Template](https://github.com/sambacha/rust-service-template)
