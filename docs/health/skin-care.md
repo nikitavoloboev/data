@@ -4,36 +4,48 @@ Based of [this interview](https://www.youtube.com/watch?v=xv0ISHGGw1A), it said 
 
 1. Moisturizer
 2. Sun screen
-3. [Retinol product](https://www.youtube.com/watch?v=tEB5qSTcHck)
+3. [Retinoid product](https://www.youtube.com/watch?v=tEB5qSTcHck)
 
-Thus, my skin care routine is, in morning:
+My goals are to have a healthy skin with minimal wrinkles in future, ideally with some glow.
 
-1. [Prep] Wash my face with water.
-2. [Moisturizer] Apply [Pyunkang Yul Nutrition Cream](https://pyunkangyul.us/products/nutrition-cream-100ml). Let it absorb.
-3. [Sun screen] Apply [Isntree Hyaluronic Acid Watery Sun Gel](https://koreanskincare.nl/products/hyaluronic-acid-watery-sun-gel-spf50-pa). Let it absorb.
+My skin care routine is essentially [Clear Days Kit](https://geekandgorgeous.com/collections/kits/products/clear-days-kit) (has instructions in link too).
 
-In evening, before sleep:
+### Morning
 
-1. [Prep] Wash my face with water.
-2. [Retinol] Apply [Retinol Serum](https://www.kiehls.com/skincare/face-serums/micro-dose-anti-aging-retinol-serum-with-ceramides-and-peptide/WW0154KIE.html). Let it absorb.
-3. Go to sleep. Always use fresh sheets especially on the pillows.
+1. [Cleanse] Wet face, squeeze [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker) into palm and gently, but thoroughly massage over face and eye area. Rinse well with tepid water and pat dry.
+2. [Toner] Close eyes and spray [Liquid Hydration](https://geekandgorgeous.com/collections/101-serums/products/liquid-hydration) all over your face from about 20-25 cm away. Let it sink in.
+3. [Niacinamide] Apply few drops of [B-Bomb](https://geekandgorgeous.com/collections/101-serums/products/b-bomb) to the face. Wait until it is absorbed, I brush teeth in the mean time.
+4. [Sun screen] Apply [Isntree Hyaluronic Acid Watery Sun Gel](https://koreanskincare.nl/products/hyaluronic-acid-watery-sun-gel-spf50-pa). Let it absorb.
 
 During the day, I try not to touch my face with dirty hands. I also try be as relaxed as I can be no matter the situation. Relaxed face without any frowning.
 
+I shower after any exercise I do. And do shower at least once a day, usually in mornings before doing above routine.
+
+### Evening
+
+Before going to sleep:
+
+1. [Cleanse] Rinse with water & [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker).
+2. [Toner] Apply [Cheer Up](https://geekandgorgeous.com/collections/exfoliants/products/cheer-up), either with a cotton pad or pour it into your hands and pat it on as men do with after-shave. Avoid the area around the eyes. Wait until it is absorbed, I brush teeth in the mean time.
+3. [Niacinamide] Apply [B-Bomb](https://geekandgorgeous.com/collections/101-serums/products/b-bomb). Apply a few drops to the face. Wait until it is absorbed, I brush teeth in the mean time.
+4. [Retinal] Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) to the face. Use every night or every other night, depending on your skin's tolerance, when starting out: alternate with Cheer Up for two weeks.
+5. [Moisturizer] Apply [Happier Barrier](https://geekandgorgeous.com/collections/101-serums/products/happier-barrier). Use as much or as little as your skin needs.
+6. Go to sleep. Always use fresh sheets especially on the pillows.
+
 At night, I try to sleep [either on my back or side](https://www.sleepfoundation.org/sleeping-positions). Although I do fall asleep fastest when sleeping on my stomach. Unfortunately, sleeping on your stomach, can [cause wrinkles to form](https://www.allure.com/story/side-stomach-sleeping-causes-lines-wrinkles).
 
-I shower after any exercise I do. And do shower at least once a day, usually in mornings.
-
-Sometimes I apply [Nutrition cream](https://pyunkangyul.us/products/nutrition-cream-100ml) but it's [not necessary](https://www.youtube.com/watch?v=k3aIeABbNvY) given routine I have above.
+### Other tips
 
 I sadly have a bunch of deep scars I got from having severe acne when I was young. Trying to fix it up with [microneedling](https://www.youtube.com/watch?v=JPWycy8cwN8).
 
-Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.md) and clean [wholefoods plant based diet](nutrition/nutrition.md) to have noticeable effect on the skin too, especially its healthy color.
+Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.md) and clean [wholefoods plant based diet](nutrition/nutrition.md) with lots of water/[tea](nutrition/drinks/tea.md) to have noticeable effect on the skin too, especially its healthy color.
 
 [Skin Care Addiction subreddit](https://www.reddit.com/r/SkincareAddiction/) is insightful.
 
 ## Interesting
 
+- [Geek & Gorgeous Happier Barrier](https://geekandgorgeous.com/collections/101-serums/products/happier-barrier)
+- [Pyunkang Yul Nutrition Cream](https://pyunkangyul.us/products/nutrition-cream-100ml)
 - [Pyunkang Yul Essence Toner](https://pyunkangyul.us/products/essence-toner)
 - [Pyunkang Yul ATO Mild Sun Cream](https://pyunkangyul.us/products/ato-mild-sun-cream-75ml)
 - [Pyunkang Yul Moisture Ampoule](https://pyunkangyul.us/products/moisture-ampoule-100ml)
@@ -46,6 +58,7 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [Kiehl's ultimate Brushless Shave Cream](https://www.amazon.co.uk/Ultimate-Brushless-Shave-Cream-Eagle/dp/B000S92RAY)
 - [Belei - Hydrating and Repairing After Sun Body Milk with Glycerin, Aloe Vera, Vitamin E and Panthenol](https://www.amazon.co.uk/dp/B08H99DDW1/ref=cm_sw_r_as_gl_api_gl_i_CS2SA52F6KSQDGQEQ455)
 - [Vitamin C Moisturizer](https://instanatural.com/products/vitamin-c-moisturizer)
+- [Kiehl Micro-Dose Anti-Aging Retinol Serum with Ceramides and Peptide](https://www.kiehls.com/skincare/face-serums/micro-dose-anti-aging-retinol-serum-with-ceramides-and-peptide/WW0154KIE.html)
 
 ## Notes
 
@@ -53,6 +66,7 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [More water. More sleep. Less alcohol, less smoking, and less sugar. For most people that'd drop about ten years off of their visible age.](https://www.reddit.com/r/nutrition/comments/lksj1l/what_are_your_favorite_nutritional_tricks_for/)
 - [La roche posay toleraine cleansers are nice. If you have dry skin the hydrating one is amazing, and if you have oily skin, the purifying foaming one. If you have acne prone skin, the inkey list salicylic acid cleanser every other night will be highly effective.](https://www.reddit.com/r/SkincareAddiction/comments/um98eu/what_are_some_the_top_products_recommended_by/)
 - [Research has shown that order of application doesn’t matter as much as people think, except for sunscreen usage. Sun screen should be applied about 10 minutes before sun exposure. That includes prolonged exposure by windows, which most of the time do not filter UVA rays. The 10 minute window allows the sunscreen to set on your skin and create a protective barrier, even though the active ingredients are functional upon application. It should also be the last thing you apply before makeup if applicable, to disturb the barrier as little as possible.](https://www.reddit.com/r/SkincareAddiction/comments/ebhfgg/product_question_pyunkang_yul_moisture_ampoule/)
+- [Retinol should be applied to skin after cleansing and toning and prior to moisturizers, night creams, eye creams, and treatment oils. Avoid using additional active ingredients at the same time as retinol to avoid skin sensitization. You should always use a daily SPF to help protect the skin from UV exposure. If dryness, sensitivity, or peeling occurs, use a skin moisture barrier replenishing product either all over or simply as a targeted spot treatment.](https://www.reddit.com/user/Kiehls_Official/comments/w7yvwr/reduce_the_appearance_of_%EF%AC%81ne_lines_in_%EF%AC%81ve_days/)
 
 ## Links
 
@@ -92,3 +106,7 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [How to use Retinol like a Dermatologist | Dr Davin Lim (2022)](https://www.youtube.com/watch?v=tEB5qSTcHck)
 - [What It Takes To Achieve Clear Skin with Dr. Usama Syed (2022)](https://www.youtube.com/watch?v=xv0ISHGGw1A)
 - [[Routine Help] Pyunkang Yul Essence Toner + ATO Mild Sun Cream + Kiehls Retinol Serum (2022)](https://www.reddit.com/r/SkincareAddiction/comments/yva1il/routine_help_pyunkang_yul_essence_toner_ato_mild/)
+- [Why You Need To Use A Retinoid For Your Skin (Dermatologist) (2021)](https://www.youtube.com/watch?v=Xxb6EIKpS3s)
+- [What do I need to know about Differin (0.1%) gel?](https://www.reddit.com/r/SkincareAddiction/comments/2r6oz6/what_do_i_need_to_know_about_differin_01_gel/)
+- [Geek & Gorgeous](https://geekandgorgeous.com/)
+- [[Review] Geek & Gorgeous brand review - 1,5 years of consistent use](https://www.reddit.com/r/EuroSkincare/comments/s5fkgn/review_geek_gorgeous_brand_review_15_years_of/)

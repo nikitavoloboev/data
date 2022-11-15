@@ -139,3 +139,5 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [How to Travel - On the cheap, like a local, and without a lot of luggage (2022)](https://walkingtheworld.substack.com/p/how-to-travel) ([HN](https://news.ycombinator.com/item?id=33202753))
 - [Villagers](https://villagersapp.com/) - Group travel app. ([HN](https://news.ycombinator.com/item?id=33344734))
 - [51 Coolest Neighbourhoods in the World Right Now (2022)](https://www.timeout.com/travel/coolest-neighbourhoods-in-the-world)
+- [The Earth Awaits](https://www.theearthawaits.com/) - Find Cities in Your Budget.
+- [Cheaper countries to live in (2022)](https://www.reddit.com/r/digitalnomad/comments/yvma1g/cheaper_countries/)
