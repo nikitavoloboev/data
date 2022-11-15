@@ -1,5 +1,7 @@
 # Recipes
 
+Use [Mela](https://mela.recipes/) to store my recipes.
+
 ## Regular Breakfast smoothie
 
 Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/1sgtbqVnotvY1Ir2S60J9m62yGPVkm2nRmbwrfZAoc6Y/htmlview) ([Video](https://www.youtube.com/watch?v=fyyKrMeNPBM)).
@@ -10,6 +12,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 
 - Greek yogurt with frozen berries
 - Sushi of all kinds
+- [Garlic soup](https://themodernproper.com/garlic-soup)
 
 ## Interesting
 

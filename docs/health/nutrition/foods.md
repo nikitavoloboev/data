@@ -1,16 +1,19 @@
 # Foods
 
-I eat a whole food, plant based diet and experiment by trying out new [pescatarian recipes](recipes.md). I exclude all unhealthy food.
+I eat a whole food, [plant based diet](../../environment/veganism.md) and experiment by trying out new [pescatarian recipes](recipes.md). I try exclude all unhealthy food. Specifically sugar. And dairy.
 
 Most of my diet consists of eating raw foods like various nuts (almonds, walnuts), blueberries, bananas and avocados. I love Indian, Japanese & Georgian cuisine the most. Can eat ramen, sushi or hummus all day.
 
-I try to cover my micro & macro nutrient needs by consuming nutritious food & [supplementing](supplements.md) where necessary. I sometimes make little smoothies.
+I try to cover my micro & macro nutrient needs by consuming nutritious food & taking few [essential supplementing](supplements.md). I sometimes make 
+nutritious smoothies.
 
-I nearly always keep nuts & fruits at hand as they make for healthy quick snacks.
+I sometimes skip breakfast and eat at afternoon. I am not a fan of [fasting](fasting.md) for longer than 1 day as I do feel bad during and after it for making it worth it.
 
-I use [Paprika app](https://www.paprikaapp.com/) to store recipes of foods I love eating. I love finding new recipes and foods through traveling.
+I try to always keep nuts & fruits at home as they make for healthy quick snacks.
 
-My goto recipe is a simple omelette with tomatoes and Greek salad.
+I use [Mela](https://mela.recipes/) & [Paprika](https://www.paprikaapp.com/) apps to store recipes of foods I love eating. I love finding new recipes and foods through traveling.
+
+My goto recipe is a simple omelette with tomatoes and Greek salad. I mention common foods I eat [here](nutrition.md).
 
 Here is a list of various plant based foods that I use to experiment and cook with. It helps to sometimes pick some ingredients and search recipes you can make with them.
 
