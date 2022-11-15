@@ -6,6 +6,8 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 
 ## Web
 
+- [Granian](https://github.com/emmett-framework/granian) - Rust HTTP server for Python applications.
+- [Emmett](https://github.com/emmett-framework/emmett) - Full-stack Python web framework designed with simplicity in mind.
 - [Quart](https://github.com/pallets/quart) - Async Python micro framework for building web applications.
 - [Robyn](https://github.com/sansyrox/robyn) - Async python web server written in rust.
 - [Xpresso](https://github.com/adriangb/xpresso) - Composable Python ASGI web framework.
