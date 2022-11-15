@@ -46,3 +46,4 @@ title: Optical character recognition
 - [ocrpy](https://github.com/maxent-ai/ocrpy) - OCR, Archive, Index and Search: Implementation agnostic OCR framework.
 - [Tesseract server (OCR over HTTP)](https://github.com/hertzg/tesseract-server) - Small lightweight HTTP server that converts photos, images and scanned documents to text using optical character recognition by utilizing the power of Google Tesseract.
 - [Technical Report on Web-based Visual Corpus Construction for Visual Document Understanding (2022)](https://arxiv.org/abs/2211.03256) ([Code](https://github.com/clovaai/webvicob))
+- [Text Finder](https://github.com/egoist/text-finder) - Image-to-text (OCR) app that works offline. Powered by tesseract.js.
