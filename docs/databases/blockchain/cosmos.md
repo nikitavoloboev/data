@@ -38,3 +38,4 @@ title: Cosmos
 - [Cosmos-Kit](https://github.com/cosmology-tech/cosmos-kit) - Wallet connector for the Cosmos.
 - [CosmWasm SDK](https://github.com/steak-enjoyers/cw-sdk) - State machine engine based on CosmWasm.
 - [Canine](https://github.com/JackalLabs/canine-chain) - Blockchain built using Cosmos SDK and Tendermint and created with Starport.
+- [Beaker](https://github.com/osmosis-labs/beaker) - Helps simplify CosmWasm development workflow.

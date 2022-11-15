@@ -2,6 +2,8 @@
 
 [Sex for over 30](https://www.reddit.com/r/sexover30/) & [HLCommunity](https://www.reddit.com/r/HLCommunity/) are fun subs to read. [David Buss's interview on Sex, Dating, Relationships, and Sex Differences](https://www.youtube.com/watch?v=sndW9hzX-wA) was fascinating.
 
+[Come as You Are](https://www.goodreads.com/en/book/show/22609341) is great book.
+
 ## Notes
 
 - [Don't have PIV sex immediately as it can be painful and unpleasant. Foreplay is important. Be gentle. Can give her an orgasm without any PIV involved easily.](https://www.reddit.com/r/AskMen/comments/mehb1d/why_is_there_this_weird_perception_that_the_sex/)

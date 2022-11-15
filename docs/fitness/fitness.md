@@ -1,10 +1,24 @@
 # Fitness
 
-I try to do some daily [bodyweight exercises](strength-training.md) in form of squats, pushups, pull ups, dips and sit-ups. Dips being my favorite. I also do cardio usually by [cycling](../travel/transportation/cycling.md) or prolonged walking and sometimes [running](running.md).
+I try to do some daily [bodyweight exercises](strength-training.md) in form of squats, pushups, pull ups, dips, leg raises and sit-ups. Dips, leg raises and pull ups being my favorite. I also do cardio usually by [cycling](../travel/transportation/cycling.md) or prolonged walking and sometimes [running](running.md).
 
 I listen to [podcasts](../podcasts/podcasts.md) during any kind of exercise. Unless I am playing with someone. My favorite sports are Tennis and Football. And skiing/snowboarding when season is right.
 
-I try to [not sit for prolonged times](../health/ergonomics.md) (by using a standing desk or taking breaks). Going on walks or cycling for a bit always resets my mind.
+I try to [not sit for prolonged times](../health/ergonomics.md) (by using a standing desk and taking physical breaks). Going on walks or cycling for a bit always [resets my mind](https://twitter.com/emollick/status/1590785568929382401).
+
+### Daily routine
+
+I use [Strong app](https://www.strong.app/) to track workouts/progress. [Fitbod](https://fitbod.me/) is nice too as it generates workouts for you based on muscle areas you want to target.
+
+I currently don't go to the gym so do workouts at home without any special gear but do plan to change it. My current daily routine I repeat 2-3 times daily. Everything done until exhaustion. And with proper form.
+
+1. [Push ups](https://www.youtube.com/watch?v=IODxDxX7oi4)
+2. [Deep squats](https://www.youtube.com/watch?v=gsNoPYwWXeM)
+3. [Downward dog to cobra pose](https://www.youtube.com/shorts/ZH7HFPIWILk)
+
+Mostly taken as inspiration from this [morning routine video](https://www.youtube.com/watch?v=pc2xlLuCp4Y).
+
+### Other tips
 
 [Sergey Kharkow](https://www.instagram.com/sergeykharkow/) has the ideal body type in my eyes but it's a lot of effort to get/maintain it. [Fitness Wiki](https://thefitness.wiki/) is a [great read](https://www.reddit.com/r/leangains/comments/uwqhu1/how_do_i_go_from_skinny_fat_to_a_lean_build/).
 
@@ -12,7 +26,7 @@ I try to [not sit for prolonged times](../health/ergonomics.md) (by using a stan
 
 The biggest thing to keep in mind when doing workouts is to train until muscle exhaustion and doing it in good form (so as to not get injuries or imbalances of muscle groups trained). That's why I prefer [calisthenics](https://en.wikipedia.org/wiki/Calisthenics) over any kind of exercise as full body weight exercises train many parts of your body at once.
 
-Most importantly I try to keep my back muscles in shape as due to nature of my work, I do sit for prolonged times even when I try to minimize it. Better back muscles means less slouching. [Yoga](yoga.md) is great for making back muscles stronger too. 
+Most importantly I try to keep my back muscles in shape as due to nature of my work, I do sit for prolonged times even when I try to minimize it. Better back muscles means less slouching. [Yoga](yoga.md) is great for making back muscles stronger too.
 
 ## Notes
 
@@ -84,3 +98,5 @@ Most importantly I try to keep my back muscles in shape as due to nature of my w
 - [Fitness tips](https://twitter.com/chrisboettcher9/status/1579804058461753344)
 - [Fitness Toolkit: Protocol & Tools to Optimize Physical Health](https://hubermanlab.com/fitness-toolkit-protocol-and-tools-to-optimize-physical-health/) ([Tweet](https://twitter.com/hubermanlab/status/1584198119083810816))
 - [Ask HN: Stay fit as a time-poor remote worker (2022)](https://news.ycombinator.com/item?id=33528976)
+- [Calisthenicmovement - YouTube](https://www.youtube.com/user/Calisthenicmovement/videos)
+- [Do These 3 Things Every Morning!](https://www.youtube.com/watch?v=pc2xlLuCp4Y)
