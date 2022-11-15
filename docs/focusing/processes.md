@@ -1,15 +1,15 @@
 # Processes
 
-Good processes are essential for any kind of repeated [success](../life/success.md). Below are some personal processes I try follow for myself when doing certain things. 
+Good processes are essential for any kind of repeated [success](../life/success.md). Below are some personal processes I try follow for myself when doing certain things.
 
 I think of my [rules](rules.md) as boundaries within I try to operate my life. And processes are series of steps I should take when doing certain things. Some are vaguer than others. If I do them enough times, they become part of my [habits](habits.md).
 
 ## Morning
 
-1. Wake up. Go take shower. 
+1. Wake up. Go take shower.
 2. Do [morning skin care routine](../health/skin-care.md).
 3. Morning [exercise](../fitness/exercises.md). Until exhaustion: push ups, deep squats & downward dog to cobra pose. Do exercise outside as I walk my dog, when I am around her. Listen to [podcast](../podcasts/podcasts.md) during it.
-4. No [news](../research/staying-on-top-of-things.md) (Twitter/HN/..) until I do sabove.
+4. No [news](../research/staying-on-top-of-things.md) (Twitter/HN/..) until I do the above.
 5. Start day by checking my task manager for the day. Have timed 40 min to check Twitter/HN, reply to messages etc.
 6. Start work.
 

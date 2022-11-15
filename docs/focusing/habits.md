@@ -4,7 +4,7 @@ I use [Streaks](https://streaksapp.com) iOS app to ensure I complete my 6 daily 
 
 ![](https://i.imgur.com/yEVoYit.png)
 
-I get a notification every day at 20:00 on my phone to complete the habits. I do plan to build an app of my own to replace Streaks as I want the evening habit check to include a [look back](../looking-back/looking-back.md) on the day too. And be more customizable and faster to use.
+I get a notification every day at 19:00 on my phone to complete the habits. I do plan to build an app of my own to replace Streaks as I want the evening habit check to include a [look back](../looking-back/looking-back.md) on the day too. And be more customizable and faster to use.
 
 I go through morning and evening routines I do in [processes](processes.md).
 

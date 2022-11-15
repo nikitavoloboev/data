@@ -10,9 +10,11 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 
 ## Favorite
 
-- Greek yogurt with frozen berries
+- Greek yogurt with frozen blueberries
 - Sushi of all kinds
 - [Garlic soup](https://themodernproper.com/garlic-soup)
+- [Fish cakes](https://www.bbcgoodfood.com/recipes/ultimate-fish-cakes)
+- [Carrot Cutlets](https://www.bawarchi.com/recipe/carrot-cutlet-oetuBkeechece.html)
 
 ## Interesting
 
