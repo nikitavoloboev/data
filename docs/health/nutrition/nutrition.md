@@ -2,11 +2,21 @@
 
 [This book](https://www.goodreads.com/book/show/25663961-how-not-to-die) contains all the evidence needed to prove that a whole food, plant based diet is the best thing you can do to mitigate diseases and living a healthy life. The author also has a [website](https://nutritionfacts.org) where he blogs about various things nutrition and health.
 
-Knowing this, I eat [whole food, plant based diet](foods.md) & [supplementing](supplements.md) where necessary.
+Knowing this, I eat [whole food, plant based diet](foods.md) & take [few supplementing](supplements.md).
 
-I try drink only water/tea with occasional coffee. No added sugar in food/drinks. I love exploring [new and interesting pescatarian recipes](recipes.md).
+I try drink only water/[tea](drinks/tea.md) with occasional [coffee](drinks/coffee.md). No added sugar in food/drinks. I love exploring [new and interesting pescatarian recipes](recipes.md).
 
 [Rhonda Patrick's interview](https://www.youtube.com/watch?v=XcvhERcZpWw&t=582s) is insightful.
+
+### Common foods
+
+I try to eat a lot of protein rich foods as I do daily [exercises](../../fitness/exercises.md) and generally try to live an active life style without sitting too much.
+
+Foods I try to eat a lot of and make recipes from:
+
+- Avocados (eat with eggs and/or some [whole grain bread](https://www.healthline.com/nutrition/healthiest-bread))
+- Greek yugurt (with frozen blueberries often)
+- Eggs (omelettes, sometimes boiled too)
 
 ## Notes
 
