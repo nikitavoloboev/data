@@ -2,7 +2,7 @@
 
 [This book](https://www.goodreads.com/book/show/25663961-how-not-to-die) contains all the evidence needed to prove that a whole food, [plant based diet](../../environment/veganism.md) is the best thing you can do to mitigate diseases and living a healthy life. The author also has a [website](https://nutritionfacts.org) where he blogs about various things nutrition and [health](../health.md).
 
-Knowing this, I eat [whole food, plant based diet](foods.md) & take [few supplementing](supplements.md).
+Knowing this, I eat [whole food, plant based diet](foods.md) & take [few supplements](supplements.md).
 
 I try drink only water/[tea](drinks/tea.md) with occasional [coffee](drinks/coffee.md). No added sugar in food/drinks. No dairy too. I love exploring [new and interesting pescatarian recipes](recipes.md).
 

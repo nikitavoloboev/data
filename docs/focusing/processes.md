@@ -24,7 +24,7 @@ I think of my [rules](rules.md) as boundaries within I try to operate my life. A
 ## End of week Plan/Review (Sunday)
 
 1. Write in [look back](../looking-back/looking-back.md), taking general view of what happened in a week.
-2. Make plans for next week. Arrange ideas in focus. Long term focuses.
+2. Make plans for next week. Arrange [ideas](../ideas/ideas.md) in focus. Long term focuses.
 
 ## Learn
 
