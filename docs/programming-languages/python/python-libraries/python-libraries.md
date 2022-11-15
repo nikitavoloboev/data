@@ -1244,3 +1244,4 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Devpy](https://github.com/scientific-python/devpy) - Developer tool for scientific Python libraries.
 - [Typing Extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python.
 - [rustimport](https://github.com/mityax/rustimport) - Import Rust source files directly from Python.
+- [ABI compatibility in Python: How hard could it be? (2022)](https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/)

@@ -36,3 +36,4 @@ title: Qwik
 - [Qwik Styled Vanilla-Extract](https://github.com/wmertens/qwik-styled-ve) - 0-runtime styled-components-like API for Qwik using vanilla-extract.
 - [Qwik City + Next Auth](https://github.com/wmalarski/qwik-next-auth-example)
 - [i18n demo for Qwik](https://github.com/mhevery/qwik-i18n)
+- [Qwik Sites Showcase](https://qwik.builder.io/showcase/)

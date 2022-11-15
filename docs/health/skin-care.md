@@ -20,7 +20,7 @@ In evening, before sleep:
 
 During the day, I try not to touch my face with dirty hands. I also try be as relaxed as I can be no matter the situation. Relaxed face without any frowning.
 
-At night, I try to sleep [either on my back or side](https://www.sleepfoundation.org/sleeping-positions). Although I do fall as asleep fastest when sleeping on my stomach. Unfortunately, sleeping on your stomach, can cause wrinkles to form.
+At night, I try to sleep [either on my back or side](https://www.sleepfoundation.org/sleeping-positions). Although I do fall asleep fastest when sleeping on my stomach. Unfortunately, sleeping on your stomach, can [cause wrinkles to form](https://www.allure.com/story/side-stomach-sleeping-causes-lines-wrinkles).
 
 I shower after any exercise I do. And do shower at least once a day, usually in mornings.
 

@@ -316,3 +316,4 @@ title: React Native
 - [React Native Three Column Layout](https://github.com/craftzdog/react-native-three-column-layout)
 - [ReactNative Purchases](https://github.com/RevenueCat/react-native-purchases) - In-App Subscriptions Made Easy.
 - [Portalize](https://github.com/jeremybarbet/react-native-portalize) - Simplest way to render anything on top of the rest.
+- [React Native made me give up a project today (2022)](https://news.ycombinator.com/item?id=33609943)

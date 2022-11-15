@@ -957,3 +957,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Stop writing Rust linked list libraries (2022)](https://diziet.dreamwidth.org/13476.html)
 - [Carefully exploring Rust as a Python developer (2022)](https://karimjedda.com/carefully-exploring-rust/) ([HN](https://news.ycombinator.com/item?id=33581901))
 - [Tell HN: Rust Is Complex (2022)](https://news.ycombinator.com/item?id=33587473)
+- [Introduction to Rust Programming Language (2022)](https://www.youtube.com/watch?v=QY62Ms0aI78)

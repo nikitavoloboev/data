@@ -57,3 +57,4 @@ title: CSS Grid
 - [Walk-through of how to build a layout using CSS Grid](https://sandrok.com/blog/post/7/)
 - [Learn CSS Subgrid (2022)](https://ishadeed.com/article/learn-css-subgrid/)
 - [Layout Breakouts with CSS Grid (2022)](https://ryanmulligan.dev/blog/layout-breakouts/) ([HN](https://news.ycombinator.com/item?id=33165485))
+- [CSS Grid and Custom Shapes (2022)](https://css-tricks.com/css-grid-and-custom-shapes-part-1/)
