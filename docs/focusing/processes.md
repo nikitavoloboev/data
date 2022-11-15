@@ -19,7 +19,7 @@ I think of my [rules](rules.md) as boundaries within I try to operate my life. A
 2. Evening [exercise](../fitness/exercises.md). Until exhaustion: push ups, deep squats & downward dog to cobra pose. Listen to some soothing music and think of plans for tomorrow or podcast.
 3. Write in [look back](../looking-back/looking-back.md) & review of habits + check on [plans](goals.md).
 4. Some light [news](../research/staying-on-top-of-things.md) or book reading (book preferred).
-5. Sleep. I try to not expose myself to blue light during evening and be thoroughly exhausted at this point from good day's work.
+5. Sleep. I try to not expose myself to blue light during evening and be thoroughly exhausted at this point from good day's work so falling asleep is fast.
 
 ## End of week Plan/Review (Sunday)
 
