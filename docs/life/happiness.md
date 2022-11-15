@@ -1,6 +1,6 @@
 # Happiness
 
-Happiness is an emotional state of no anxiety and fear. A feeling of satisfaction that what I am doing now is what I want to be doing. 
+Happiness is an emotional state of no anxiety and fear. A feeling of satisfaction that what I am doing now is what I want to be doing.
 
 [Mindfulness](../mindfulness/mindfulness.md) is the best tool I have in staying happy no matter what the circumstance is. Life is suffering and it's best to acknowledge that. In that you cannot avoid pain and hurt. Even if you try hard. You will get hurt. You will mess up and you will feel regret. It is logical then to accept these feelings as they are. No matter how bad they may feel in the moment. The key to happiness is detachment. The ability to mindfully observe the feelings and thoughts you have and _choose_ what you think is the right thing to do in the moment. The thoughts you have and feelings you feel are your body's reaction to the environment it is in.
 
@@ -30,7 +30,9 @@ I practice this art of minimizing and focusing on what's important to me & remov
 
 I also try very hard to simply not have the things that I cannot change, affect me in any meaningful way. I focus on love (giving and receiving) and appreciation (being grateful for things I have now) over hate (arguing) and being annoyed by things (not being in the moment).
 
-It's harder to be [truly happy in modern online society](https://twitter.com/startingfromnix/status/1592212465747922945) as no one can go at their own pace and feel settled/good about it because there are too many avenues for comparison. There are too many people doing better, performing more, with more visibility. 
+It's harder to be [truly happy in modern online society](https://twitter.com/startingfromnix/status/1592212465747922945) as no one can go at their own pace and feel settled/good about it because there are too many avenues for comparison. There are too many people doing better, performing more, with more visibility.
+
+Just because you're going at your own pace, don't be led to think you're "under performing".
 
 [Huberman](https://hubermanlab.com/) did a [nice episode on science behind happiness](https://hubermanlab.com/science-based-tools-for-increasing-happiness/). Loved the part about synthetic happiness.
 

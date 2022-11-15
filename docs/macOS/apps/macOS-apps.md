@@ -288,3 +288,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [What's new in AppKit (2022)](https://mackuba.eu/notes/wwdc22/whats-new-in-appkit/)
 - [Planning your macOS app - Apple Developer](https://developer.apple.com/macos/planning/)
 - [Apple Cloud Notes Parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser)
+- [Nice UX from Things mac app (2022)](https://twitter.com/rafahari/status/1592545990829277185)

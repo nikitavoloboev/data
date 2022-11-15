@@ -129,3 +129,4 @@ title: Zero knowledge proofs
 - [What's the deal with zkapps? (2022)](https://www.cryptologie.net/article/575/whats-the-deal-with-zkapps/)
 - [Linear A](https://zk-ml.xyz/) - Makes it possible to run neural networks in zero-knowledge settings. ([GitHub](https://github.com/zk-ml))
 - [Noname](https://github.com/mimoo/noname) - Programming language to write zkapps.
+- [Intro to Zero-knowledge & Building zkApps w/Mina Protocol (2022)](https://eda.hashnode.dev/zero-knowledge-building-zkapps-mina-protocol)
