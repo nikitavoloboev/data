@@ -53,3 +53,4 @@ title: Perl
 - [What Happened to Perl 7? (2022)](http://blogs.perl.org/users/perl_steering_council/2022/05/what-happened-to-perl-7.html) ([HN](https://news.ycombinator.com/item?id=31515787))
 - [This is not your grandfather's Perl (2022)](https://stackoverflow.blog/2022/09/08/this-is-not-your-grandfathers-perl/)
 - [What's wrong with Perl](https://www.garshol.priv.no/download/text/perl.html)
+- [Perl is Actually Portable (2022)](https://computoid.com/posts/Perl-is-Actually-Portable.html)
