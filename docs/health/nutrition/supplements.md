@@ -6,7 +6,7 @@ Supplements I try take daily are inspired by [Rhonda Patrick](https://fastlifeha
 - [Vitamin D3 + K2](https://www.amazon.com/Bronson-Vitamin-Supplement-Support-Capsules/dp/B0792Z6434) (1 capsule)
 - [Magnesium](https://nootropicsdepot.com/magtein-magnesium-l-threonate-capsules/) (1 capsule)
 
-I also take a portion of [Athletic Greens](https://athleticgreens.com/en) every morning with water.
+I also take a portion of [Athletic Greens](https://athleticgreens.com/en) every other day as part of my morning shake.
 
 I try to minimize the number of things my body has to process to bare essentials. I maximize the quality of food I eat by eating [natural whole food pescatarian food](foods.md). I also fast but not routinely, usually by just skipping breakfast.
 
@@ -14,15 +14,12 @@ And I enjoy taking [psychedelics](../../drugs/psychedelics/psychedelics.md) once
 
 ## Interesting
 
-Some maybe interesting supplements I don't take routinely but tried.
+Some maybe interesting supplements. Some I tried but stopped.
 
 - [Multivitamin](https://www.amazon.co.uk/Multivitamins-Multivitamin-Vegetarians-Nu-Nutrition/dp/B01IFGDNVS) (1 capsule)
 - [Sulforaphane](https://www.amazon.co.uk/Jarrow-Formulas-Broccomax-Vcaps-Capsules/dp/B01D15LMCK) (1 capsule)
 - [Vegan Omega 3 DHA & EPA](https://www.amazon.com/VEGAN-OMEGA-Supplement-Cardiovascular-Supplements/dp/B01MYE95BQ) (1 capsule)
 - [Lions Mane](https://oriveda.co.uk/lions-mane.php) (1 capsule)
-
-## Didn't try but have interesting nutrients
-
 - [Daily Thyroid Care Supplement](https://www.palomahealth.com/product/thyroid-supplements)
 
 ## Notes
@@ -75,3 +72,5 @@ Some maybe interesting supplements I don't take routinely but tried.
 - [Nootropics Depot](https://nootropicsdepot.com/)
 - [Best magnesium supplement](https://www.reddit.com/r/Supplements/comments/v6yqpc/best_magnesium_supplement/)
 - [Best D3 supplement](https://www.reddit.com/r/Supplements/comments/px6a1u/everyone_please_list_which_brand_of_vitamin_d3/)
+- [Athletic Greens](https://athleticgreens.com/en)
+- [Why You Should Avoid Athletic Greens (AG1)](https://www.youtube.com/watch?v=ecy8JrM5KFI)

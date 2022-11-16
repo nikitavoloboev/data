@@ -100,3 +100,4 @@ And here are Chrome extensions I use:
 - [Chrome Extension Boilerplate with SolidJS + Vite + TypeScript + Manifest V3 + HMR](https://github.com/munron/mv3-solid-chrome-extension-template)
 - [Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals (2022)](https://jhalon.github.io/chrome-browser-exploitation-1/)
 - [jest-chrome](https://github.com/extend-chrome/jest-chrome) - Complete mock of the Chrome API for Chrome extensions for use with Jest.
+- [Chromium: Same Origin Policy bypass within a single site a.k.a. "Google Roulette" (2022)](https://www.bentkowski.info/2022/11/google-roulette/)

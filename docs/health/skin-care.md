@@ -22,7 +22,7 @@ I first do my morning [exercise routine](../fitness/fitness.md) and shower. Then
 2. [[Vitamin C](https://www.youtube.com/watch?v=i-Mlbf_oOPg)] Apply few drops of [C-Glow](https://geekandgorgeous.com/collections/101-serums/products/c-glow) to the face. Put a drop directly onto your face and quickly pat it on with your other hand. Pat any excess product onto the top of your hands or neck. Let it absorb. I brush my teeth as I wait. Takes ~ 2 minutes.
 3. [Beta-Glucan] Apply few drops of [Stress Less](https://geekandgorgeous.com/collections/101-serums/products/stress-less) to the face. Let it absorb. ~ 1 minute.
 4. [[Moisturizer](https://www.youtube.com/watch?v=bLNbN0YMBWk)] Apply [Hydration Station](https://geekandgorgeous.com/collections/101-serums/products/hydration-station) on already slightly wet skin. Use as much or as little as your skin needs.
-5. [[Sun screen](https://www.youtube.com/watch?v=7rAOLvHX_-8)] Apply [Isntree Hyaluronic Acid Watery Sun Gel](https://koreanskincare.nl/products/hyaluronic-acid-watery-sun-gel-spf50-pa) to both face, neck and back of the hand. Let it absorb.
+5. [[Sun screen](https://www.youtube.com/watch?v=7rAOLvHX_-8)] Apply [Relief Sun](https://beautyofjoseon.com/products/relief-sun-rice-probiotics) to both face, neck and back of the hand. Let it absorb.
 
 During the day, I drink a lot of water/[tea](nutrition/drinks/tea.md). I try not touch my face with dirty hands and [trim my nails](https://www.youtube.com/watch?v=GF6smAEFbNE). I also try be as relaxed as I can be no matter the situation. Relaxed face without any frowning.
 
@@ -143,3 +143,4 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [Wall-Aging Morning Skincare Routine (2022)](https://www.youtube.com/watch?v=8eScT7hr3r8)
 - [Top 10 sun screens](https://www.youtube.com/watch?v=pacXVsMk9iM)
 - [Best winter moisturizer for use with harsh topicals? (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/yw4r6o/31f_best_winter_moisturizer_for_use_with_harsh/)
+- [K-Beauty Sunscreen Wars: Isntree vs. Beauty of Joseon (2022)](https://www.youtube.com/watch?v=xWeM4qVHvWA)
