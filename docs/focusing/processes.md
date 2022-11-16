@@ -8,7 +8,7 @@ I think of my [rules](rules.md) as boundaries within I try to operate my life. A
 
 1. Wake up. Go take shower.
 2. Do [morning skin care routine](../health/skin-care.md).
-3. Morning [exercise](../fitness/exercises.md). Until exhaustion: push ups, deep squats & downward dog to cobra pose. Do exercise outside as I walk my dog, when I am around her. Listen to [podcast](../podcasts/podcasts.md) during it.
+3. Morning [exercise](../fitness/exercises.md). Until failure: push ups, deep squats & downward dog to cobra pose. Do exercise outside as I walk my dog, when I am around her. Listen to [podcast](../podcasts/podcasts.md) during it.
 4. No [news](../research/staying-on-top-of-things.md) (Twitter/HN/..) until I do the above.
 5. Start day by checking my task manager for the day. Have timed 40 min to check Twitter/HN, reply to messages etc.
 6. Start work.
@@ -16,7 +16,7 @@ I think of my [rules](rules.md) as boundaries within I try to operate my life. A
 ## Evening
 
 1. Do [evening skin care routine](../health/skin-care.md).
-2. Evening [exercise](../fitness/exercises.md). Until exhaustion: push ups, deep squats & downward dog to cobra pose. Listen to some soothing music and think of plans for tomorrow or podcast.
+2. Evening [exercise](../fitness/exercises.md). Until failure: push ups, deep squats & downward dog to cobra pose. Listen to some soothing music and think of plans for tomorrow or podcast.
 3. Write in [look back](../looking-back/looking-back.md) & review of habits + check on [plans](goals.md).
 4. Some light [news](../research/staying-on-top-of-things.md) or book reading (book preferred).
 5. Sleep. I try to not expose myself to blue light during evening and be thoroughly exhausted at this point from good day's work so falling asleep is fast.

@@ -10,13 +10,13 @@ I try to [not sit for prolonged times](../health/ergonomics.md) (by using a stan
 
 I use [Strong app](https://www.strong.app/) to track workouts/progress. [Fitbod](https://fitbod.me/) is nice too as it generates workouts for you based on muscle areas you want to target.
 
-I currently don't go to the gym so do workouts at home without any special gear but do plan to change it. My current daily routine I repeat 2-3 times daily. Everything done until exhaustion. And with proper form.
+I currently don't go to the gym so do workouts at home without any special gear but do plan to change it. My current daily routine I repeat 2-3 times daily. Everything done until failure. And with [proper strict form](https://youtu.be/5Jth37OywOE?t=522).
 
-1. [Push ups](https://www.youtube.com/watch?v=IODxDxX7oi4)
-2. [Deep squats](https://www.youtube.com/watch?v=gsNoPYwWXeM)
-3. [Downward dog to cobra pose](https://www.youtube.com/shorts/ZH7HFPIWILk)
+1. [Push ups](https://www.youtube.com/watch?v=IODxDxX7oi4) (2 reps maxing out each rep)
+2. [Deep squats](https://www.youtube.com/watch?v=gsNoPYwWXeM) (2 reps maxing out each rep)
+3. [Downward dog to cobra pose](https://www.youtube.com/shorts/ZH7HFPIWILk) (2 reps maxing out each rep)
 
-Mostly taken as inspiration from this [morning routine](https://www.youtube.com/watch?v=pc2xlLuCp4Y) video.
+Mostly taken as inspiration from this [daily home training routine](https://www.youtube.com/watch?v=5Jth37OywOE) & [morning routine](https://www.youtube.com/watch?v=pc2xlLuCp4Y) videos. The way [Joe](https://www.youtube.com/user/JoeDelaneyy/videos) lays out the [plan with reps](https://youtu.be/5Jth37OywOE?t=571) is interesting, I currently try to just push each rep until failure.
 
 This video on [essential exercises](https://www.youtube.com/watch?v=s0fA0gXqREQ) is a must watch. Sadly most of the exercises on the list require some gear. I will update the routine once I get into position where I have access to such gear.
 
@@ -26,7 +26,7 @@ This video on [essential exercises](https://www.youtube.com/watch?v=s0fA0gXqREQ)
 
 [Andy Galpin's interview](https://www.youtube.com/watch?v=IAnhFUUCq6c&t=500s) is insightful. [Huberman's fitness program](https://twitter.com/hubermanlab/status/1584198119083810816) is great. And I love [Joe Delaney](https://www.youtube.com/user/JoeDelaneyy/videos)'s videos.
 
-The biggest thing to keep in mind when doing workouts is to train until muscle exhaustion and doing it in good form (so as to not get injuries or imbalances of muscle groups trained). That's why I prefer [calisthenics](https://en.wikipedia.org/wiki/Calisthenics) over any kind of exercise as full body weight exercises train many parts of your body at once.
+The biggest thing to keep in mind when doing workouts is to train until muscle failure and doing it in good form (so as to not get injuries or imbalances of muscle groups trained). That's why I prefer [calisthenics](https://en.wikipedia.org/wiki/Calisthenics) over any kind of exercise as full body weight exercises train many parts of your body at once.
 
 Most importantly I try to keep my back muscles in shape as due to nature of my work, I do sit for prolonged times even when I try to minimize it. Better back muscles means less slouching. [Yoga](yoga.md) is great for making back muscles stronger too.
 

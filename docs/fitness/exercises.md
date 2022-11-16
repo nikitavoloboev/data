@@ -23,3 +23,5 @@ I mention exercises I do [here](fitness.md).
 - [‘Anti-hunger’ molecule forms after exercise, scientists discover (2022)](https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html) ([HN](https://news.ycombinator.com/item?id=31858063))
 - [#1 Most Overlooked Muscle: Key to a Shredded Core, Back & Healthy Shoulders (2022)](https://www.youtube.com/watch?v=xHdqJvAxY3Y)
 - [Must Do Exercises for a Complete Physique](https://www.youtube.com/watch?v=s0fA0gXqREQ)
+- [The Exercises That Built My Physique (Top 6 That Made a Difference)](https://www.youtube.com/watch?v=qsd3z3xUWhw)
+- [Daily Stuck at Home Training Routine (2020)](https://www.youtube.com/watch?v=5Jth37OywOE)
