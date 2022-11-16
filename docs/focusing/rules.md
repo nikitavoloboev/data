@@ -31,7 +31,7 @@
 ## Health
 
 - [Exercise](../fitness/fitness.md). Start every morning with a workout & shower. 40+ min cardio/weights daily.
-- Eat [whole food plant based nutritious diet](../health/nutrition/nutrition.md).
+- Eat [whole food pescatarian nutritious diet](../health/nutrition/nutrition.md).
 - Drink lots of water & [tea](../health/nutrition/drinks/tea.md). Limit [coffee](../health/nutrition/drinks/coffee.md). No sugar.
 - Reach optimal micro & macro nutrient goals, [supplement](../health/nutrition/supplements.md) where needed.
 - Go on walks or do exercise throughout the day when possible as breaks.
@@ -160,7 +160,7 @@
 - [Don't waste time on maintaining one sided relationships.](https://www.reddit.com/r/datingoverthirty/comments/od3aeb/do_you_ever_feel_like_you_date_the_project_but/h3ydwgi/)
 - Don't burn bridges unnecessarily. Try be remembered as a good friend.
 - Set your own [boundaries for what make you feel well](https://twitter.com/titsay/status/1458749929686384647) and have everyone you interact respect them or cut ties with them.
-- If you like/love someone romantically but it's not mutual. Cut it off instantly. Respect your boundaries and move on. Don't emotionally invest in anything that's of no benefit to you. 
+- If you like/love someone romantically but it's not mutual. Cut it off instantly. Respect your boundaries and move on. Don't emotionally invest in anything that's of no benefit to you.
 - Unhealthy obsession is destructive. Fill your time with things you love doing as you get over unrequited love. [It will pass](https://www.youtube.com/watch?v=7K3ffDrignk).
 
 ## Communication

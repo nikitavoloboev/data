@@ -43,7 +43,7 @@ At night, I try to sleep [either on my back or side](https://www.sleepfoundation
 
 I sadly have a bunch of deep scars I got from having severe acne when I was young. Trying to fix it up with [microneedling](https://www.youtube.com/watch?v=JPWycy8cwN8).
 
-Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.md) and clean [wholefoods plant based diet](nutrition/nutrition.md) with lots of water/[tea](nutrition/drinks/tea.md) to have noticeable effect on the skin, especially its healthy color.
+Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.md) and clean [wholefoods pescatarian diet](nutrition/nutrition.md) with lots of water/[tea](nutrition/drinks/tea.md) to have noticeable effect on the skin, especially its healthy color.
 
 [Skin Care Addiction subreddit](https://www.reddit.com/r/SkincareAddiction/) is insightful.
 

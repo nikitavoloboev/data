@@ -2,12 +2,12 @@
 
 I try to maximize my [happiness](../life/happiness.md) and quality of life through proper [nutrition](nutrition/nutrition.md), [exercise](../fitness/fitness.md) and stress free outlook on life with [mindfulness](../mindfulness/mindfulness.md).
 
-- [Nutrition](nutrition/nutrition.md) - Eat whole food plant based nutritious diet. Optionally [supplementing](nutrition/supplements.md) when necessary.
-- [Mindfulness](../mindfulness/mindfulness.md) - Stress [shortens telomeres](https://www.ncbi.nlm.nih.gov/pubmed/12114022) & accelerates aging. Practice [mindfulness](../mindfulness/mindfulness.md) & be calm.
-- [Proper sleep](../sleep/sleep.md) - I go to sleep ~ 11/12 pm and wake up without alarm getting as much sleep as my body needs.
+- [Nutrition](nutrition/nutrition.md) - Eat whole food pescatarian nutritious diet. With [essential supplements](nutrition/supplements.md).
+- [Mindfulness](../mindfulness/mindfulness.md) - Stress [shortens telomeres](https://www.ncbi.nlm.nih.gov/pubmed/12114022) & accelerates aging. Practice being in moment, being stoic & calm.
+- [Proper sleep](../sleep/sleep.md) - I go to sleep ~ 11/12 pm ideally and wake up without alarm getting as much sleep as my body needs.
 - [Exercise](../fitness/fitness.md) - Start every morning with some exercise. Go on walks or do exercise throughout the day when possible.
 - Dental care - Brush my teeth daily with occasional flossing.
-- [Skin care](skin-care.md) - Clean & moisturize my skin every morning/evening. Apply occasional deep pore cleansing face masks. Apply sunscreen when going out for long time.
+- [Skin care](skin-care.md) - Cleanse, moisturize and apply serums to my skin every morning/evening. Together with applying sunscreen in mornings.
 - [Ergonomics](ergonomics.md) - Sit properly or stand, keeping good posture throughout the day. Never slouch my back and sit for long times. Take breaks. Use good chair & desk.
 
 These health focuses are part of my [life rules](../focusing/rules.md).
