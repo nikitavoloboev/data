@@ -2,13 +2,13 @@
 
 Based of [this interview](https://www.youtube.com/watch?v=xv0ISHGGw1A), it said there are 3 proven ways to improve your skin:
 
-1. Moisturizer
-2. Sun screen
-3. [Retinoid product](https://www.youtube.com/watch?v=tEB5qSTcHck)
+1. [Moisturizer](https://www.youtube.com/watch?v=mAfck1vmlHI)
+2. [Sun screen](https://www.youtube.com/watch?v=6LF0Mkn-pOM)
+3. [Retinoid](https://www.youtube.com/watch?v=grxmyM7EuDk)
 
-My goals are to have a healthy skin with minimal wrinkles in future, ideally with some glow.
+My goals are to have a healthy skin with minimal wrinkles in future, ideally with some healthy skin glow.
 
-My skin care routine is variation of [Geek & Gorgeous Age Smart Kit](https://geekandgorgeous.com/collections/kits/products/age-smart-kit). It's good to know difference between [cleanser/toner/serums/moisturizer](https://www.dermstore.com/blog/in-what-order-do-i-apply-my-skin-care-products-infographic/) & [how to apply each one](https://www.youtube.com/watch?v=vM9rX3SqB34).
+My skin care routine is variation of [Geek & Gorgeous Age Smart Kit](https://geekandgorgeous.com/collections/kits/products/age-smart-kit). It's good to know difference between [cleanser/toner/serums/moisturizer](https://www.dermstore.com/blog/in-what-order-do-i-apply-my-skin-care-products-infographic/) & [how to apply each one](https://www.youtube.com/watch?v=vM9rX3SqB34). And use [proven to work ingredients](https://www.youtube.com/watch?v=GpfuksjS7LA).
 
 I keep all products I use at my sink, except [vitamin c serum](https://geekandgorgeous.com/collections/101-serums/products/c-glow) which I keep at the fridge to prolong it.
 
@@ -21,10 +21,10 @@ I first do my morning [exercise routine](../fitness/fitness.md) and shower. Then
 1. [[Cleanse](https://youtu.be/h05frUE9dkE?t=765)] Wet face, squeeze [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker) into palm and gently, but thoroughly massage over face and eye area. ~ 1 minute. Rinse well with warm water and pat dry. Important to dry as vitamin C should be applied on dry skin ideally.
 2. [[Vitamin C](https://www.youtube.com/watch?v=i-Mlbf_oOPg)] Apply few drops of [C-Glow](https://geekandgorgeous.com/collections/101-serums/products/c-glow) to the face. Put a drop directly onto your face and quickly pat it on with your other hand. Pat any excess product onto the top of your hands or neck. Let it absorb. I brush my teeth as I wait. Takes ~ 2 minutes.
 3. [Beta-Glucan] Apply few drops of [Stress Less](https://geekandgorgeous.com/collections/101-serums/products/stress-less) to the face. Let it absorb. ~ 1 minute.
-4. [[Moisturizer](https://www.philosophiabotanica.com/the-right-way-to-apply-moisturizer)] Apply [Hydration Station](https://geekandgorgeous.com/collections/101-serums/products/hydration-station) on already slightly wet skin. Use as much or as little as your skin needs.
+4. [[Moisturizer](https://www.youtube.com/watch?v=bLNbN0YMBWk)] Apply [Hydration Station](https://geekandgorgeous.com/collections/101-serums/products/hydration-station) on already slightly wet skin. Use as much or as little as your skin needs.
 5. [[Sun screen](https://www.youtube.com/watch?v=7rAOLvHX_-8)] Apply [Isntree Hyaluronic Acid Watery Sun Gel](https://koreanskincare.nl/products/hyaluronic-acid-watery-sun-gel-spf50-pa). Let it absorb.
 
-During the day, I drink a lot of water/[tea](nutrition/drinks/tea.md). I try not touch my face with dirty hands. I also try be as relaxed as I can be no matter the situation. Relaxed face without any frowning.
+During the day, I drink a lot of water/[tea](nutrition/drinks/tea.md). I try not touch my face with dirty hands and [trim my nails](https://www.youtube.com/watch?v=GF6smAEFbNE). I also try be as relaxed as I can be no matter the situation. Relaxed face without any frowning.
 
 ### Evening
 
@@ -34,7 +34,7 @@ Before going to sleep, I do another exercise routine and quick shower. Then:
 2. [[Exfoliant](https://www.youtube.com/watch?v=h05frUE9dkE)] Every third day. Apply [Calm Down](https://geekandgorgeous.com/collections/exfoliants/products/calm-down) either with a cotton pad or pour it into your hands and pat it on as men do with after-shave. Avoid the area around the eyes. Let it absorb. ~ 1 minute.
 3. [[Azelaic acid](https://www.youtube.com/watch?v=8dxEW9P6C3c)] Every other day. Apply few drops of [aPAD](https://geekandgorgeous.com/collections/101-serums/products/gg-101-apad) to the face. Let it absorb. ~ 1 minute.
 4. [[Retinal](https://www.youtube.com/watch?v=nGxBxp3av-Y)] Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) to the face. Let it absorb. ~ 2 minutes. (start every other day and move up to daily after 2 weeks)
-5. [Moisturizer] Apply [Hydration Station](https://geekandgorgeous.com/collections/101-serums/products/hydration-station). Use as much or as little as your skin needs.
+5. [[Moisturizer](https://www.youtube.com/watch?v=bLNbN0YMBWk)] Apply [Hydration Station](https://geekandgorgeous.com/collections/101-serums/products/hydration-station) on already slightly wet skin. Use as much or as little as your skin needs.
 6. Go to sleep. Always use fresh sheets especially on the pillows.
 
 At night, I try to sleep [either on my back or side](https://www.sleepfoundation.org/sleeping-positions). Although I do fall asleep fastest when sleeping on my stomach. Unfortunately, sleeping on your stomach, can [cause wrinkles to form](https://www.allure.com/story/side-stomach-sleeping-causes-lines-wrinkles).
@@ -134,3 +134,7 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [What is Dry Washing or Dry Cleansing?](https://www.makeupandbeautyforever.com/what-is-dry-washing-or-dry-cleansing-the-best-method-of-face-washing-ever/)
 - [Dr Sam Bunting - YouTube](https://www.youtube.com/@DrSamBunting/videos)
 - [Every Geek and Gorgeous product ranked (2022)](https://www.youtube.com/watch?v=6HPjd5BDNC8)
+- [Right way to apply Moisturizer](https://www.philosophiabotanica.com/the-right-way-to-apply-moisturizer)
+- [Don't Touch My Skin](https://dtmskin.com/)
+- [How to Use a Retinoid like a Dermatologist (2021)](https://www.youtube.com/watch?v=grxmyM7EuDk)
+- [Dermatologists Debunk Sunscreen Myths (2021)](https://www.youtube.com/watch?v=6LF0Mkn-pOM)

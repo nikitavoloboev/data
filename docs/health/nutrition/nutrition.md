@@ -6,7 +6,7 @@ Knowing this, I eat [whole food, plant based diet](foods.md) & take [few supplem
 
 I try drink only water/[tea](drinks/tea.md) with occasional [coffee](drinks/coffee.md). No added sugar in food/drinks. No dairy too. I love exploring [new and interesting pescatarian recipes](recipes.md).
 
-[Rhonda Patrick's interview](https://www.youtube.com/watch?v=XcvhERcZpWw&t=582s) is insightful.
+[Rhonda Patrick's interview](https://www.youtube.com/watch?v=XcvhERcZpWw&t=582s) & [Diet Habits that Built my Physique](https://www.youtube.com/watch?v=iasekg57V3Y) are insightful videos.
 
 ### Common foods
 
@@ -122,3 +122,4 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - [Good podcasts about nutrition (2022)](https://www.reddit.com/r/nutrition/comments/yinixv/any_good_podcasts_about_nutrition/)
 - [Food for hair growth and bear growth](https://www.youtube.com/watch?v=YDN_w08jIDY)
 - [Is algae the new kale? (2022)](https://www.nationalgeographic.com/environment/article/is-it-time-to-start-eating-algae) ([HN](https://news.ycombinator.com/item?id=33562614))
+- [The Diet Habits that Built my Physique (Do's and Don'ts) (2022)](https://www.youtube.com/watch?v=iasekg57V3Y)

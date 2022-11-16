@@ -160,6 +160,8 @@
 - [Don't waste time on maintaining one sided relationships.](https://www.reddit.com/r/datingoverthirty/comments/od3aeb/do_you_ever_feel_like_you_date_the_project_but/h3ydwgi/)
 - Don't burn bridges unnecessarily. Try be remembered as a good friend.
 - Set your own [boundaries for what make you feel well](https://twitter.com/titsay/status/1458749929686384647) and have everyone you interact respect them or cut ties with them.
+- If you like/love someone romantically but it's not mutual. Cut it off instantly. Respect your boundaries and move on. Don't emotionally invest in anything that's of no benefit to you. 
+- Unhealthy obsession is destructive. Fill your time with things you love doing as you get over unrequited love. [It will pass](https://www.youtube.com/watch?v=7K3ffDrignk).
 
 ## Communication
 
@@ -263,6 +265,7 @@
 - Engage in conversations that are beneficial or at least entertaining to me. Mute or simply ignore annoying/hurtful speech. Time is valuable!
 - Just share. Don't care about metrics or who thinks what. If they don't like, it's all good. World is big. Don't cage myself!
 - Best way to learn something is to post the 'wrong thing' on the internet. Don't be afraid to ask questions and be wrong.
+- During meetings, always take notes. And action points. Make meetings as short as possible and have an agenda in mind!
 
 ## Animals
 

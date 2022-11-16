@@ -371,3 +371,4 @@
 - [Dissecting Reolink RLC-810A Hardware: A Detailed View (2022)](https://serhack.me/articles/dissecting-reolink-rlc810a-hardware-detailed-view/)
 - [Seeing through hardware counters: A journey to 3x performance increase (2022)](https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822) ([HN](https://news.ycombinator.com/item?id=33540091))
 - [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds.
+- [Google's Open Source Hardware Dreams (2022)](https://www.youtube.com/watch?v=tR7HuqZXQ3I)

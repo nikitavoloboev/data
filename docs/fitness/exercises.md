@@ -21,3 +21,5 @@ I mention exercises I do [here](fitness.md).
 - [6 Best Mobility Exercises for Longevity](https://www.wellandgood.com/best-mobility-exercises-for-longevity/)
 - [Is there a book about how exercise is awesome without diet culture references? (2022)](https://www.reddit.com/r/suggestmeabook/comments/vfi50j/is_there_a_book_about_how_exercise_is_awesome/)
 - [‘Anti-hunger’ molecule forms after exercise, scientists discover (2022)](https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html) ([HN](https://news.ycombinator.com/item?id=31858063))
+- [#1 Most Overlooked Muscle: Key to a Shredded Core, Back & Healthy Shoulders (2022)](https://www.youtube.com/watch?v=xHdqJvAxY3Y)
+- [Must Do Exercises for a Complete Physique](https://www.youtube.com/watch?v=s0fA0gXqREQ)

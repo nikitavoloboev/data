@@ -154,3 +154,4 @@ title: Formal verification
 - [Verifying GCC optimizations using an SMT solver (2022)](https://kristerw.github.io/2022/11/01/verifying-optimizations/) ([HN](https://news.ycombinator.com/item?id=33433918))
 - [Tamarin](https://github.com/tamarin-prover/tamarin-prover) - Security protocol verification tool that supports both falsification and unbounded verification in the symbolic model. ([Web](https://tamarin-prover.github.io/))
 - [OSS CAD Suite](https://github.com/YosysHQ/oss-cad-suite-build) - Multi-platform nightly builds of open source digital design and verification tools.
+- [Let's Prove Leftpad (2022)](https://www.hillelwayne.com/post/lpl/)

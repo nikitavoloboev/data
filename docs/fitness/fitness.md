@@ -16,13 +16,15 @@ I currently don't go to the gym so do workouts at home without any special gear 
 2. [Deep squats](https://www.youtube.com/watch?v=gsNoPYwWXeM)
 3. [Downward dog to cobra pose](https://www.youtube.com/shorts/ZH7HFPIWILk)
 
-Mostly taken as inspiration from this [morning routine video](https://www.youtube.com/watch?v=pc2xlLuCp4Y).
+Mostly taken as inspiration from this [morning routine](https://www.youtube.com/watch?v=pc2xlLuCp4Y) video.
+
+This video on [essential exercises](https://www.youtube.com/watch?v=s0fA0gXqREQ) is a must watch. Sadly most of the exercises on the list require some gear. I will update the routine once I get into position where I have access to such gear.
 
 ### Other tips
 
-[Sergey Kharkow](https://www.instagram.com/sergeykharkow/) has the ideal body type in my eyes but it's a lot of effort to get/maintain it. [Fitness Wiki](https://thefitness.wiki/) is a [great read](https://www.reddit.com/r/leangains/comments/uwqhu1/how_do_i_go_from_skinny_fat_to_a_lean_build/).
+[Sergey Kharkow](https://www.instagram.com/sergeykharkow/) & [Joe Delaney](https://www.instagram.com/shredbundy/) have ideal body types in my eyes but it's a lot of effort to get/maintain it. [Fitness Wiki](https://thefitness.wiki/) is a [great read](https://www.reddit.com/r/leangains/comments/uwqhu1/how_do_i_go_from_skinny_fat_to_a_lean_build/).
 
-[Andy Galpin's interview](https://www.youtube.com/watch?v=IAnhFUUCq6c&t=500s) is insightful. [Huberman's fitness program](https://twitter.com/hubermanlab/status/1584198119083810816) is great.
+[Andy Galpin's interview](https://www.youtube.com/watch?v=IAnhFUUCq6c&t=500s) is insightful. [Huberman's fitness program](https://twitter.com/hubermanlab/status/1584198119083810816) is great. And I love [Joe Delaney](https://www.youtube.com/user/JoeDelaneyy/videos)'s videos.
 
 The biggest thing to keep in mind when doing workouts is to train until muscle exhaustion and doing it in good form (so as to not get injuries or imbalances of muscle groups trained). That's why I prefer [calisthenics](https://en.wikipedia.org/wiki/Calisthenics) over any kind of exercise as full body weight exercises train many parts of your body at once.
 
@@ -45,7 +47,7 @@ Most importantly I try to keep my back muscles in shape as due to nature of my w
 - [Hiking is a great brain workout. Your brain needs blood and lots of it, so a healthy cardiovascular system (especially clean carotid arteries) is vital to brain health. In addition the act of navigating uneven terrain forces your smaller stabilizing muscles and your brain to work harder, planning for and reacting to what's under your feet and what's coming up. there are also mental benefits to being out in nature and to navigating unfamiliar terrain.](https://www.reddit.com/r/askscience/comments/w9ba6y/why_is_the_brain_not_damaged_by_impact_from/)
 - [Accountability coach for health and fitness stuff can be very useful](https://twitter.com/adamwathan/status/1527695253595103233)
 - [In a new paper in Nature, scientists looked at candidates for reversing dysregulated gene expression in Alzheimer's disease and guess what outperformed all tested drugs? Exercise.](https://twitter.com/maxlugavere/status/1581338154736328704)
-- [You need more calories than you think when trying to gain muscle. Best to count it to be sure. Have proper routine with structure, optimized for muscle growth. Take proper rest days.](https://www.youtube.com/watch?v=f5x8igkdiYk)
+- [You need more calories than you think when trying to gain muscle. Best to count so you have some understanding of how many calories are in foods you eat. Then have proper routine with structure, optimized for muscle growth. Take proper rest days.](https://www.youtube.com/watch?v=f5x8igkdiYk)
 
 ## Links
 
@@ -101,3 +103,5 @@ Most importantly I try to keep my back muscles in shape as due to nature of my w
 - [Ask HN: Stay fit as a time-poor remote worker (2022)](https://news.ycombinator.com/item?id=33528976)
 - [Calisthenicmovement - YouTube](https://www.youtube.com/user/Calisthenicmovement/videos)
 - [Do These 3 Things Every Morning!](https://www.youtube.com/watch?v=pc2xlLuCp4Y)
+- [Dr. Gains - YouTube](https://www.youtube.com/c/DrGains/videos)
+- [Joe Delaney - YouTube](https://www.youtube.com/user/JoeDelaneyy/videos)

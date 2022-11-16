@@ -127,3 +127,4 @@ Use it for projects as a wiki of docs & notes for teams. I [share most boards in
 - [Notion CMS](https://github.com/n6g7/notion-cms)
 - [Building a Notion-like system with Socket.io And React (2022)](https://dev.to/novu/building-a-notion-like-system-with-socketio-and-react-1hjg)
 - [draw.io Notion Embed](https://github.com/ivankahl/drawio-notion-embed) - Embed draw.io diagrams directly into Notion.
+- [Notion AI](https://www.notion.so/product/ai)
