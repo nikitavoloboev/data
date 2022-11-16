@@ -403,3 +403,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [grace](https://github.com/liamg/grace) - Tool for monitoring and annotating syscalls for a given process.
 - [The Programmable Data Plane and the OS (2022)](https://ry.goodwu.net/architecture/the-programmable-data-plane-and-the-os/)
 - [In Praise of Plan 9 (2022)](https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html) ([HN](https://news.ycombinator.com/item?id=33571953))
+- [Good books to review operating systems and computer architecture (2022)](https://www.reddit.com/r/computerscience/comments/yw6akh/what_are_good_books_to_review_operating_systems/)

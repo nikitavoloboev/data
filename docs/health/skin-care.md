@@ -117,7 +117,7 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [[Routine Help] Pyunkang Yul Essence Toner + ATO Mild Sun Cream + Kiehls Retinol Serum (2022)](https://www.reddit.com/r/SkincareAddiction/comments/yva1il/routine_help_pyunkang_yul_essence_toner_ato_mild/)
 - [Why You Need To Use A Retinoid For Your Skin (Dermatologist) (2021)](https://www.youtube.com/watch?v=Xxb6EIKpS3s)
 - [What do I need to know about Differin (0.1%) gel?](https://www.reddit.com/r/SkincareAddiction/comments/2r6oz6/what_do_i_need_to_know_about_differin_01_gel/)
-- [Geek & Gorgeous](https://geekandgorgeous.com/)
+- [Geek & Gorgeous](https://geekandgorgeous.com/) ([FAQ](https://geekandgorgeous.com/pages/_geek-faq))
 - [[Review] Geek & Gorgeous brand review - 1,5 years of consistent use](https://www.reddit.com/r/EuroSkincare/comments/s5fkgn/review_geek_gorgeous_brand_review_15_years_of/)
 - [Geek and Gorgeous brand review | Dr Dray (2021)](https://www.youtube.com/watch?v=EoV7HeDr4ko)
 - [Dr Dray - YouTube](https://www.youtube.com/c/DrDrayzday/videos)
@@ -142,3 +142,4 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [Retinaldehyde for anti-aging. Do you need it in your skincare routine?](https://www.youtube.com/watch?v=CxvtzM3bHhE)
 - [Wall-Aging Morning Skincare Routine (2022)](https://www.youtube.com/watch?v=8eScT7hr3r8)
 - [Top 10 sun screens](https://www.youtube.com/watch?v=pacXVsMk9iM)
+- [Best winter moisturizer for use with harsh topicals? (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/yw4r6o/31f_best_winter_moisturizer_for_use_with_harsh/)
