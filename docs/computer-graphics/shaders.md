@@ -105,3 +105,4 @@ title: Shaders
 - [TextShader](https://textshader.com/) ([HN](https://news.ycombinator.com/item?id=33501177))
 - [Shader graph renderer](https://github.com/edeetee/render-graph)
 - [GLSL Sandbox Gallery](https://glslsandbox.com/) ([Code](https://github.com/mrdoob/glsl-sandbox))
+- [SPIR-T](https://github.com/EmbarkStudios/spirt) - Shader-focused IR to target, transform and translate from Rust.
