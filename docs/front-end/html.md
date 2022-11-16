@@ -303,3 +303,4 @@ Hi<div>oh no break</div>
 - [xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor. ([HN](https://news.ycombinator.com/item?id=33573157))
 - [HTML grammar for the lezer parser system](https://github.com/lezer-parser/html)
 - [Dialogs, modality and popovers seem similar. How are they different? (2022)](https://hidde.blog/dialog-modal-popover-differences/)
+- [What native HTML elements do you wish existed? (2022)](https://www.reddit.com/r/webdev/comments/ywahn3/what_native_html_elements_do_you_wish_existed/)

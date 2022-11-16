@@ -16,9 +16,10 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 
 ## Interesting
 
+- [PlanetScale](planetscale.md) - Database for Developers. ([HN](https://news.ycombinator.com/item?id=27197873)) ([Release Article](https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers))
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming SQL Database powered by Timely Dataflow. ([Web](https://materialize.io/))
-- [PlanetScale](https://www.planetscale.com/) - Database for Developers. ([HN](https://news.ycombinator.com/item?id=27197873)) ([Release Article](https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers))
 - [Tuple Database](https://github.com/ccorcos/tuple-database) - Local-first, "end-user database" database. Embedded FoundationDB. Reactive indexable graph database. ([Tweet](https://twitter.com/ccorcos/status/1532185301438738433))
+- [GreptimeDB](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, distributed time-series database. ([Web](https://greptime.com/)) ([Article](https://www.greptime.com/blogs/2022-11-15-this-time-for-real))
 - [LMDB Store](https://github.com/DoctorEvidence/lmdb-store) - Simple, efficient, ultra-fast, scalable data store wrapper for LMDB.
 - [Mentat](https://github.com/mozilla/mentat) - Persistent, relational store inspired by Datomic and DataScript.
 - [RocksDB](https://github.com/facebook/rocksdb) - Persistent Key-Value Store for Flash and RAM Storage. ([Rocksplicator - RocksDB Replication](https://github.com/pinterest/rocksplicator))

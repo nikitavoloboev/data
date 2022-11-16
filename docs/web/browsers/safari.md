@@ -77,3 +77,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [WebTranslator](https://github.com/kishikawakatsumi/WebTranslator) - Safari web extension for DeepL translate.
 - [Best Safari extensions](https://www.reddit.com/r/macapps/comments/yoacpk/best_safari_extensions/)
 - [StopTheMadness](https://underpassapp.com/StopTheMadness/) - Browser extension that stops web sites from making your browser harder to use.
+- [Vimlike](https://apps.apple.com/us/app/vimlike/id1584519802) - Browse the web by keyboard shortcuts like a vim-editor.
