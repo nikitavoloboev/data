@@ -46,4 +46,4 @@
 - [Version Locking for Notebook Imports / Observable](https://observablehq.com/@observablehq/version-locking-for-notebook-imports)
 - [Setaceous Versioning (SetVer)](https://github.com/RocketRace/setver) - Versioning scheme designed to revolutionize the world of software development.
 - [Stacked PRs: Code changes as narrative](https://blog.aviator.co/stacked-prs-code-changes-as-narrative/) ([Lobsters](https://lobste.rs/s/iyhrkb/stacked_prs_code_changes_as_narrative))
-- [Sapling](https://github.com/facebook/sapling) - Scalable, User-Friendly Source Control System. ([Docs](https://sapling-scm.com/docs/introduction/getting-started/)) ([Article](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/))
+- [Sapling](https://github.com/facebook/sapling) - Scalable, User-Friendly Source Control System. ([Docs](https://sapling-scm.com/docs/introduction/getting-started/)) ([Article](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)) ([HN](https://news.ycombinator.com/item?id=33612410))

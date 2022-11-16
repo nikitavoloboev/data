@@ -1,6 +1,6 @@
 # Architecture
 
-[Cover](https://buildcover.com/) is an awesome project.
+[Cover](https://buildcover.com/) & [Samara](https://www.samara.com/) are amazing projects.
 
 ## Interesting architects
 

@@ -8,20 +8,21 @@ Based of [this interview](https://www.youtube.com/watch?v=xv0ISHGGw1A), it said 
 
 My goals are to have a healthy skin with minimal wrinkles in future, ideally with some glow.
 
-My skin care routine is mostly [Geek & Gorgeous products](https://geekandgorgeous.com/). [This](https://www.youtube.com/watch?v=EoV7HeDr4ko) and [this](https://www.reddit.com/r/EuroSkincare/comments/q6sg1x/geek_gorgeous_reviews/) have some nice reviews of their products. And [this](https://www.youtube.com/watch?v=vM9rX3SqB34) is a nice video that goes over difference between cleanser/toner/serums/moisturizer & how to apply each one.
+My skin care routine is variation of [Geek & Gorgeous Age Smart Kit](https://geekandgorgeous.com/collections/kits/products/age-smart-kit). It's good to know difference between [cleanser/toner/serums/moisturizer](https://www.dermstore.com/blog/in-what-order-do-i-apply-my-skin-care-products-infographic/) & [how to apply each one](https://www.youtube.com/watch?v=vM9rX3SqB34).
 
-I keep all products below at my sink, except [vitamin c serum](https://geekandgorgeous.com/collections/101-serums/products/c-glow) which I keep at the fridge to prolong it.
+I keep all products I use at my sink, except [vitamin c serum](https://geekandgorgeous.com/collections/101-serums/products/c-glow) which I keep at the fridge to prolong it.
+
+[It’s best to let each product dry and absorb before the next one is applied](https://www.verishop.com/blog/beauty/skincare/how-much-time-between-skincare-products/).
 
 ### Morning
 
 I first do my morning [exercise routine](../fitness/fitness.md) and shower. Then:
 
-1. [Cleanse] Wet face, squeeze [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker) into palm and gently, but thoroughly massage over face and eye area. Rinse well with warm water and pat dry.
-2. [Vitamin C] Apply a few drops of [C-Glow](https://geekandgorgeous.com/collections/101-serums/products/c-glow) to the face. Put a drop directly onto your face and quickly pat it on with your other hand. Pat any excess product onto the top of your hands or neck. I start brushing my teeth at this point as I need to wait few minutes for it to soak into the skin.
-3. [Beta-Glucan] Apply a few drops of [Stress Less](https://geekandgorgeous.com/collections/101-serums/products/stress-less) to the face. Let it absorb. I start brushing my teeth at this point as I need to wait few minutes for it to soak into the skin.
-4. [Exfoliant] Apply [Smooth Out](https://geekandgorgeous.com/collections/exfoliants/products/smooth-out) either with a cotton pad or pour it into your hands and pat it on as men do with after-shave. Avoid the area around the eyes. Wait until it is absorbed.
-5. [Moisturizer] Apply [Happier Barrier](https://geekandgorgeous.com/collections/101-serums/products/happier-barrier). Use as much or as little as your skin needs.
-6. [Sun screen] Apply [Isntree Hyaluronic Acid Watery Sun Gel](https://koreanskincare.nl/products/hyaluronic-acid-watery-sun-gel-spf50-pa). Let it absorb.
+1. [[Cleanse](https://youtu.be/h05frUE9dkE?t=765)] Wet face, squeeze [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker) into palm and gently, but thoroughly massage over face and eye area. ~ 1 minute. Rinse well with warm water and pat dry. Important to dry as vitamin C should be applied on dry skin ideally.
+2. [[Vitamin C](https://www.youtube.com/watch?v=i-Mlbf_oOPg)] Apply few drops of [C-Glow](https://geekandgorgeous.com/collections/101-serums/products/c-glow) to the face. Put a drop directly onto your face and quickly pat it on with your other hand. Pat any excess product onto the top of your hands or neck. Let it absorb. I brush my teeth as I wait. Takes ~ 2 minutes.
+3. [Beta-Glucan] Apply few drops of [Stress Less](https://geekandgorgeous.com/collections/101-serums/products/stress-less) to the face. Let it absorb. ~ 1 minute.
+4. [[Moisturizer](https://www.philosophiabotanica.com/the-right-way-to-apply-moisturizer)] Apply [Hydration Station](https://geekandgorgeous.com/collections/101-serums/products/hydration-station) on already slightly wet skin. Use as much or as little as your skin needs.
+5. [[Sun screen](https://www.youtube.com/watch?v=7rAOLvHX_-8)] Apply [Isntree Hyaluronic Acid Watery Sun Gel](https://koreanskincare.nl/products/hyaluronic-acid-watery-sun-gel-spf50-pa). Let it absorb.
 
 During the day, I drink a lot of water/[tea](nutrition/drinks/tea.md). I try not touch my face with dirty hands. I also try be as relaxed as I can be no matter the situation. Relaxed face without any frowning.
 
@@ -29,11 +30,11 @@ During the day, I drink a lot of water/[tea](nutrition/drinks/tea.md). I try not
 
 Before going to sleep, I do another exercise routine and quick shower. Then:
 
-1. [Cleanse] Wet face, squeeze [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker) into palm and gently, but thoroughly massage over face and eye area. Rinse well with warm water and pat dry.
-2. [Niacinamide] Every other night. Apply few drops of [B-Bomb](https://geekandgorgeous.com/collections/101-serums/products/b-bomb) to the face. Wait until it is absorbed.
-3. [Salicylic acid] Apply a few drops of [Porefectly Clear](https://geekandgorgeous.com/collections/101-serums/products/porefectly-clear) to the face. Let it absorb.
-4. [Retinal] Every other night. Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) to the face.
-5. [Moisturizer] Apply [Happier Barrier](https://geekandgorgeous.com/collections/101-serums/products/happier-barrier). Use as much or as little as your skin needs.
+1. [[Cleanse](https://youtu.be/h05frUE9dkE?t=765)] Wet face, squeeze [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker) into palm and gently, but thoroughly massage over face and eye area. ~ 1 minute. Rinse well with warm water and pat dry.
+2. [[Exfoliant](https://www.youtube.com/watch?v=h05frUE9dkE)] Every third day. Apply [Calm Down](https://geekandgorgeous.com/collections/exfoliants/products/calm-down) either with a cotton pad or pour it into your hands and pat it on as men do with after-shave. Avoid the area around the eyes. Let it absorb. ~ 1 minute.
+3. [[Azelaic acid](https://www.youtube.com/watch?v=8dxEW9P6C3c)] Every other day. Apply few drops of [aPAD](https://geekandgorgeous.com/collections/101-serums/products/gg-101-apad) to the face. Let it absorb. ~ 1 minute.
+4. [[Retinal](https://www.youtube.com/watch?v=nGxBxp3av-Y)] Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) to the face. Let it absorb. ~ 2 minutes. (start every other day and move up to daily after 2 weeks)
+5. [Moisturizer] Apply [Hydration Station](https://geekandgorgeous.com/collections/101-serums/products/hydration-station). Use as much or as little as your skin needs.
 6. Go to sleep. Always use fresh sheets especially on the pillows.
 
 At night, I try to sleep [either on my back or side](https://www.sleepfoundation.org/sleeping-positions). Although I do fall asleep fastest when sleeping on my stomach. Unfortunately, sleeping on your stomach, can [cause wrinkles to form](https://www.allure.com/story/side-stomach-sleeping-causes-lines-wrinkles).
@@ -42,7 +43,7 @@ At night, I try to sleep [either on my back or side](https://www.sleepfoundation
 
 I sadly have a bunch of deep scars I got from having severe acne when I was young. Trying to fix it up with [microneedling](https://www.youtube.com/watch?v=JPWycy8cwN8).
 
-Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.md) and clean [wholefoods plant based diet](nutrition/nutrition.md) with lots of water/[tea](nutrition/drinks/tea.md) to have noticeable effect on the skin too, especially its healthy color.
+Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.md) and clean [wholefoods plant based diet](nutrition/nutrition.md) with lots of water/[tea](nutrition/drinks/tea.md) to have noticeable effect on the skin, especially its healthy color.
 
 [Skin Care Addiction subreddit](https://www.reddit.com/r/SkincareAddiction/) is insightful.
 
@@ -128,3 +129,8 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [[Review] Geek & Gorgeous brand review - 1,5 years of consistent use](https://www.reddit.com/r/SkincareAddiction/comments/s5ensj/review_geek_gorgeous_brand_review_15_years_of/)
 - [The right order: retinol or retinoid before or after moisturizer?](https://www.dearbrightly.com/blog/retinol-before-or-after-moisturizer/)
 - [Do you really need to reapply sunscreen every 2 hours?](https://www.reddit.com/r/SkincareAddictionUK/comments/v181ny/do_you_really_need_to_reapply_sunscreen_every_2/)
+- [How Long To Leave Between Each Step Of Your Skincare Routine](https://www.glamourmagazine.co.uk/article/how-long-leave-skincare-products-routine-timing)
+- [Geek & Gorgeous 101 Skincare Review](https://www.youtube.com/watch?v=NLw2HX1Ehcs)
+- [What is Dry Washing or Dry Cleansing?](https://www.makeupandbeautyforever.com/what-is-dry-washing-or-dry-cleansing-the-best-method-of-face-washing-ever/)
+- [Dr Sam Bunting - YouTube](https://www.youtube.com/@DrSamBunting/videos)
+- [Every Geek and Gorgeous product ranked (2022)](https://www.youtube.com/watch?v=6HPjd5BDNC8)

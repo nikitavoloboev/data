@@ -13,6 +13,7 @@ Here are tools I use for streaming:
 
 - To see Twitch chats in IRC, first [connect to Twitch via IRC](https://help.twitch.tv/customer/portal/articles/1302780-twitch-irc), then join the channel of stream you want (i.e. `/join #nikitavoloboev`).
 - [99.925% of streamers aren't making a meaningful income. It goes all the way to the top streamers on the platform. 25% of the top 0.1% don't even make minimum wage.](https://twitter.com/JoshFabian/status/1445866254284189702)
+- [You can play music whilst streaming, just do it on separate audio track via OBS. You can avoid the talking from being muted on VODs because there would be no music on the VOD.](https://twitter.com/_francislavoie/status/1592608589666869248)
 
 ## Links
 

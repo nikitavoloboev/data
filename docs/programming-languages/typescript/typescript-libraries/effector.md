@@ -19,3 +19,4 @@ title: Effector
 - [Пишем фичу в проекте с EffectorJS](https://www.youtube.com/watch?v=dtrWzH8O_4k)
 - [The best part of Effector](https://dev.to/effector/the-best-part-of-effector-4c27)
 - [Effector Playground](https://share.effector.dev/) ([Code](https://github.com/effector/repl))
+- [Effector localStorage](https://github.com/ilyalesik/effector-localstorage)

@@ -139,3 +139,4 @@
 - [Recommendations for "Books About Sex" + Erotica (2022)](https://www.reddit.com/r/sexover30/comments/ytki4g/metathread_recommendations_for_books_about_sex/)
 - [Positions to hit the g spot](https://www.reddit.com/r/sexover30/comments/yudhu1/positions_to_hit_the_g_spot/)
 - [Sex Positions - AskMen](https://www.askmen.com/sex/sex_positions/)
+- [Some thoughts on sex and intimacy](https://twitter.com/liminal_warmth/status/1592542553668481025)
