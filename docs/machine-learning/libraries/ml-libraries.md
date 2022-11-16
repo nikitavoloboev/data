@@ -425,3 +425,4 @@ title: ML Libraries
 - [Web Neural Network API samples](https://github.com/webmachinelearning/webnn-samples)
 - [SparseTIR](https://github.com/uwsampl/sparsetir) - Sparse Tensor Compiler for Deep Learning.
 - [Embetter](https://github.com/koaning/embetter) - Scikit-learn compatible embeddings for computer vision and text.
+- [FlowMC](https://github.com/kazewong/flowMC) - Normalizing-flow enhanced sampling package for probabilistic inference.

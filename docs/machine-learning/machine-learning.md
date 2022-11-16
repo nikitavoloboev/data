@@ -126,7 +126,7 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Part 2: Deep Learning from the Foundations](https://course.fast.ai/part2)
 - [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
-- [Papers with Code](https://paperswithcode.com/) - The latest in machine learning. ([HN](https://news.ycombinator.com/item?id=29688214))
+- [Papers with Code](https://paperswithcode.com/) - The latest in machine learning. ([HN](https://news.ycombinator.com/item?id=29688214)) ([GitHub](https://github.com/paperswithcode))
 - [Gradient Descent Derivation (2014)](https://mccormickml.com/2014/03/04/gradient-descent-derivation/)
 - [Best of Machine Learning Newsletter](https://bestofml.com/)
 - [TASO](https://github.com/jiazhihao/taso) - Tensor Algebra SuperOptimizer for Deep Learning.

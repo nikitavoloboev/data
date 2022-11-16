@@ -141,3 +141,4 @@ Looking into [Railway](https://railway.app/) & [Cloudflare](https://www.cloudfla
 - [Drone-GAE](https://github.com/nytimes/drone-gae) - Drone plugin to manage deployments on Google App Engine.
 - [Drone Google Cloud Run](https://github.com/kameshsampath/drone-gcloud-run) - Drone plugin deploy and manage Google Cloud Run services.
 - [googapis](https://github.com/mechiru/googapis) - Rust library generated from Google API using tonic-build.
+- [Emblem Giving](https://github.com/GoogleCloudPlatform/emblem) - Sample application that demonstrates a serverless architecture with continuous delivery, and trouble recovery.

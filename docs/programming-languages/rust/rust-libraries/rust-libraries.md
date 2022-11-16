@@ -788,6 +788,7 @@
 - [vmnet](https://github.com/edigaryev/vmnet) - Apple's vmnet.framework bindings for Rust.
 - [apple-platform-rs](https://github.com/indygreg/apple-platform-rs) - Rust crates supporting Apple platform development.
 - [coreaudio-rs](https://github.com/RustAudio/coreaudio-rs) - Friendly rust interface to Apple's Core Audio API.
+- [Applevisor](https://github.com/Impalabs/applevisor) - Rust bindings for the Apple Silicon Hypervisor.framework.
 
 ## Macros
 

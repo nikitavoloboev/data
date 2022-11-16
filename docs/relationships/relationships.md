@@ -65,6 +65,8 @@ For long time relationships I think key things to look for are:
 
 There’s many more points like how they treat others [including animals](../environment/veganism.md) but I think that’s more ‘good/bad person’ qualities rather than can you vibe together.
 
+Once in a relationship, it's important to have some kind of [date nights once a week where you spend time together with the goal of doing nothing but enjoying time in each other’s company](https://www.reddit.com/r/sex/comments/yw0jl5/women_and_sex_in_longterm_relationships/).
+
 ## Notes
 
 - [All Too Well](https://www.youtube.com/watch?v=tollGa3S0o8) clip/film is a nice overview of narcissistic relationship.

@@ -100,3 +100,4 @@ title: Fuzzing
 - [Curl-Fuzzer](https://github.com/curl/curl-fuzzer) - Quality assurance testing for the curl project.
 - [How Fuzzy are Your Fuzzers? (2022)](https://fitzgeraldnick.com/2022/10/24/how-fuzzy-are-your-fuzzers.html)
 - [From Fuzzing to Proof: Using Kani with the Bolero Property-Testing Framework (2022)](https://model-checking.github.io/kani-verifier-blog/2022/10/27/using-kani-with-the-bolero-property-testing-framework.html) ([Lobsters](https://lobste.rs/s/6n01dm/from_fuzzing_proof_using_kani_with_bolero))
+- [Hyperpom](https://github.com/Impalabs/hyperpom) - Coverage-guided mutation-based fuzzing framework built on top of the Apple Silicon Hypervisor.

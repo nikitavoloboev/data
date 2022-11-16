@@ -259,3 +259,4 @@ All active variables can be seen by running `env`.
 - [Toy Shell](https://github.com/TaKO8Ki/toy-shell)
 - [hiSHtory](https://github.com/ddworken/hishtory) - Your shell history in context, synced, and queryable. ([HN](https://news.ycombinator.com/item?id=33428726))
 - [Building a simple shell in C (2022)](https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-1)
+- [Codex CLI](https://github.com/microsoft/Codex-CLI) - Natural Language Command Line Interface.

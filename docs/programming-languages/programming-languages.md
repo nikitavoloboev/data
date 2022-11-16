@@ -463,3 +463,4 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Elvish](https://github.com/elves/elvish) - Expressive Programming Language + Versatile Interactive Shell.
 - [The Cost of Exception Handling (2022)](https://grenouillebouillie.wordpress.com/2022/05/09/the-hidden-cost-of-exception-handling/) ([HN](https://news.ycombinator.com/item?id=33557022))
 - [go.vm](https://github.com/skx/go.vm) - Simple virtual machine - compiler & interpreter - written in Go.
+- [Millet](https://github.com/matijapretnar/millet) - ML-like pure functional language that can be used as a template for creating your own language.

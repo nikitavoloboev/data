@@ -589,6 +589,7 @@
 - [SwiftUI Dynamic Island Animations](https://github.com/amosgyamfi/dynamic-island-animations)
 - [TagExtractor](https://github.com/GeorgeElsham/TagExtractor) - Extract tag value from SwiftUI views.
 - [HypeUI](https://github.com/hyperconnect/HypeUI) - Implementation of Apple's SwiftUI DSL style based on UIKit.
+- [SimpleToast](https://github.com/sanzaru/SimpleToast) - Simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI.
 
 ## Test
 

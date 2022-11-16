@@ -992,3 +992,4 @@
 - [Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models (2022)](https://arxiv.org/abs/2211.05105) ([Code](https://github.com/ml-research/safe-latent-diffusion))
 - [SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery (2022)](https://sustainlab-group.github.io/SatMAE/) ([Code](https://github.com/sustainlab-group/SatMAE))
 - [OpenSeeFace](https://github.com/emilianavt/OpenSeeFace) - Robust real time face and facial landmark tracking on CPU with Unity integration.
+- [GIT: A Generative Image-to-text Transformer for Vision and Language (2022)](https://arxiv.org/abs/2205.14100) ([Code](https://github.com/microsoft/GenerativeImage2Text))

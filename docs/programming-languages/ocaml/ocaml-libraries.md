@@ -21,6 +21,7 @@ title: OCaml libraries
 - [Pollinate](https://github.com/marigold-dev/pollinate) - Platform agnostic OCaml library for P2P communications using UDP and Bin_prot.
 - [Bonsai](https://github.com/janestreet/bonsai) - Library for building interactive browser-based UI. ([Web](https://bonsai.red/)) ([Setting up Bonsai](https://ceramichacker.com/blog/30-4x-setting-up-bonsai))
 - [ocaml-dispatch](https://github.com/inhabitedtype/ocaml-dispatch) - Path-based dispatching for client- and server-side applications.
+- [eehs](https://github.com/bikallem/eehs) - Effects Epoll HTTP Server.
 
 ## Test
 
@@ -228,6 +229,7 @@ title: OCaml libraries
 - [stramon](https://github.com/darrenldl/stramon) - Strace based program behavior monitor/analyzer.
 - [pixeldrift](https://github.com/dbuenzli/pixeldrift) - Find perceptible pixel differences with OCaml.
 - [Parmap](https://github.com/rdicosmo/parmap) - Minimalistic library allowing to exploit multicore architecture for OCaml programs with minimal modifications.
+- [serde.ml](https://github.com/ostera/serde.ml) - Serialization framework for OCaml.
 
 ## Links
 

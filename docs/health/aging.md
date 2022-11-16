@@ -116,3 +116,4 @@ One way to solve aging sooner is to work on getting closer to [AGI](../machine-l
 - [Aging programmer (2022)](https://world.hey.com/jorge/aging-programmer-d448bdec) ([HN](https://news.ycombinator.com/item?id=32961933))
 - [Small molecule cognitive enhancer reverses age-related memory decline in mice (2022)](https://pubmed.ncbi.nlm.nih.gov/33258451/) ([HN](https://news.ycombinator.com/item?id=33215597))
 - [Data on how we spend our time as we age](https://twitter.com/SahilBloom/status/1591424548280610816)
+- [Collin Ewald | Aging & The Extracellular Matrix (2022)](https://www.youtube.com/watch?v=ohd3bwjySlU) ([Web](https://foresight.org/summary/collin-ewald-aging-the-extracellular-matrix/)G)

@@ -51,3 +51,4 @@ This [guide](https://www.youtube.com/playlist?list=PLvWgkXBB3dd4ocSi17y1JmMmz7S5
 - [JSX State](https://github.com/marceloadsj/jsxstate) - Declarative UIs for declarative XState machines.
 - [xstate-to-gherkin](https://github.com/simplystated/xstate-to-gherkin) - Library and cli tool to generate Gherkin test scripts from an XState state chart.
 - [f-of-xstate](https://github.com/simplystated/f-of-xstate) - Tools for operating on XState state machines as data.
+- [Jotai-XState](https://github.com/jotai-labs/jotai-xstate) - Jotai integration library for XState.

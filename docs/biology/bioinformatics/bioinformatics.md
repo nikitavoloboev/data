@@ -254,3 +254,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Rust-Bio-Tools](https://github.com/rust-bio/rust-bio-tools) - Set of ultra fast and robust command line utilities for bioinformatics tasks based on Rust-Bio.
 - [fastqc-rs](https://github.com/fastqc-rs/fastqc-rs) - Quality control tool for FASTQ files written in rust.
 - [This is biology's century. We're not ready for it (2022)](https://www.statnews.com/2022/11/03/why-were-not-prepared-for-next-wave-of-biotech-innovation/)
+- [Foresight Institute](https://foresight.org/) - Catalyzing Transformative Technologies. ([Twitter](https://twitter.com/foresightinst))

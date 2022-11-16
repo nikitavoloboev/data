@@ -8,27 +8,31 @@ Based of [this interview](https://www.youtube.com/watch?v=xv0ISHGGw1A), it said 
 
 My goals are to have a healthy skin with minimal wrinkles in future, ideally with some glow.
 
-My skin care routine is essentially [Clear Days Kit](https://geekandgorgeous.com/collections/kits/products/clear-days-kit) (has instructions in link too).
+My skin care routine is variation of [Clear Days Kit](https://geekandgorgeous.com/collections/kits/products/clear-days-kit) (has instructions in link too). [This](https://www.youtube.com/watch?v=EoV7HeDr4ko) and [this](https://www.reddit.com/r/EuroSkincare/comments/q6sg1x/geek_gorgeous_reviews/) have some nice reviews of their products. And [this](https://www.youtube.com/watch?v=vM9rX3SqB34) is a nice video that goes over difference between cleanser/toner/serums/moisturizer & how to apply each one.
+
+I keep all products below at my sink, except [vitamin c serum](https://geekandgorgeous.com/collections/101-serums/products/c-glow) which I keep at the fridge to prolong it.
 
 ### Morning
 
-1. [Cleanse] Wet face, squeeze [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker) into palm and gently, but thoroughly massage over face and eye area. Rinse well with tepid water and pat dry.
-2. [Toner] Close eyes and spray [Liquid Hydration](https://geekandgorgeous.com/collections/101-serums/products/liquid-hydration) all over your face from about 20-25 cm away. Let it sink in.
-3. [Niacinamide] Apply few drops of [B-Bomb](https://geekandgorgeous.com/collections/101-serums/products/b-bomb) to the face. Wait until it is absorbed, I brush teeth in the mean time.
-4. [Sun screen] Apply [Isntree Hyaluronic Acid Watery Sun Gel](https://koreanskincare.nl/products/hyaluronic-acid-watery-sun-gel-spf50-pa). Let it absorb.
+I first do my morning [exercise routine](../fitness/fitness.md) and shower. Then: 
 
-During the day, I try not to touch my face with dirty hands. I also try be as relaxed as I can be no matter the situation. Relaxed face without any frowning.
+1. [Cleanse] Wet face, squeeze [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker) into palm and gently, but thoroughly massage over face and eye area. Rinse well with warm water and pat dry.
+2. [Vitamin C] Apply a few drops of [C-Glow](https://geekandgorgeous.com/collections/101-serums/products/c-glow) to the face. Put a drop directly onto your face and quickly pat it on with your other hand. Pat any excess product onto the top of your hands or neck. I start brushing my teeth at this point as I need to wait few minutes for it to soak into the skin.
+3. [Beta-Glucan] Apply a few drops of [Stress Less](https://geekandgorgeous.com/collections/101-serums/products/stress-less) to the face. Let it absorb. I start brushing my teeth at this point as I need to wait few minutes for it to soak into the skin.
+4. [Toner] Apply [Cheer Up](https://geekandgorgeous.com/collections/exfoliants/products/cheer-up) either with a cotton pad or pour it into your hands and pat it on as men do with after-shave. Avoid the area around the eyes. Wait until it is absorbed.
+5. [Moisturizer] Apply [Happier Barrier](https://geekandgorgeous.com/collections/101-serums/products/happier-barrier). Use as much or as little as your skin needs.
+6. [Sun screen] Apply [Isntree Hyaluronic Acid Watery Sun Gel](https://koreanskincare.nl/products/hyaluronic-acid-watery-sun-gel-spf50-pa). Let it absorb.
 
-I shower after any exercise I do. And do shower at least once a day, usually in mornings before doing above routine.
+During the day, I drink a lot of water/[tea](nutrition/drinks/tea.md). I try not touch my face with dirty hands. I also try be as relaxed as I can be no matter the situation. Relaxed face without any frowning.
 
 ### Evening
 
-Before going to sleep:
+Before going to sleep, I do another exercise routine and quick shower. Then:
 
-1. [Cleanse] Rinse with water & [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker).
-2. [Toner] Apply [Cheer Up](https://geekandgorgeous.com/collections/exfoliants/products/cheer-up), either with a cotton pad or pour it into your hands and pat it on as men do with after-shave. Avoid the area around the eyes. Wait until it is absorbed, I brush teeth in the mean time.
-3. [Niacinamide] Apply [B-Bomb](https://geekandgorgeous.com/collections/101-serums/products/b-bomb). Apply a few drops to the face. Wait until it is absorbed, I brush teeth in the mean time.
-4. [Retinal] Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) to the face. Use every night or every other night, depending on your skin's tolerance, when starting out: alternate with Cheer Up for two weeks.
+1. [Cleanse] Wet face, squeeze [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker) into palm and gently, but thoroughly massage over face and eye area. Rinse well with warm water and pat dry.
+2. [Niacinamide] 3 times a week. Apply few drops of [B-Bomb](https://geekandgorgeous.com/collections/101-serums/products/b-bomb) to the face. Wait until it is absorbed.
+3. [Salicylic acid] Apply a few drops of [Porefectly Clear](https://geekandgorgeous.com/collections/101-serums/products/porefectly-clear) to the face. Let it absorb.
+4. [Retinal] 3 times a week. Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) to the face. Use every night or every other night, depending on your skin's tolerance, when starting out: alternate with Cheer Up for two weeks.
 5. [Moisturizer] Apply [Happier Barrier](https://geekandgorgeous.com/collections/101-serums/products/happier-barrier). Use as much or as little as your skin needs.
 6. Go to sleep. Always use fresh sheets especially on the pillows.
 
@@ -44,7 +48,9 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 
 ## Interesting
 
+- [Skin Perfecting 2% BHA Liquid - Paula's Choice](https://www.international-cosmetic.com/en/tienda-online-cosmetica/exfoliantes/skin-perfecting-2-bha-liquid/)
 - [Geek & Gorgeous Happier Barrier](https://geekandgorgeous.com/collections/101-serums/products/happier-barrier)
+- [Geek & Gorgeous Liquid Hydration](https://geekandgorgeous.com/collections/101-serums/products/liquid-hydration)
 - [Pyunkang Yul Nutrition Cream](https://pyunkangyul.us/products/nutrition-cream-100ml)
 - [Pyunkang Yul Essence Toner](https://pyunkangyul.us/products/essence-toner)
 - [Pyunkang Yul ATO Mild Sun Cream](https://pyunkangyul.us/products/ato-mild-sun-cream-75ml)
@@ -67,6 +73,8 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [La roche posay toleraine cleansers are nice. If you have dry skin the hydrating one is amazing, and if you have oily skin, the purifying foaming one. If you have acne prone skin, the inkey list salicylic acid cleanser every other night will be highly effective.](https://www.reddit.com/r/SkincareAddiction/comments/um98eu/what_are_some_the_top_products_recommended_by/)
 - [Research has shown that order of application doesn’t matter as much as people think, except for sunscreen usage. Sun screen should be applied about 10 minutes before sun exposure. That includes prolonged exposure by windows, which most of the time do not filter UVA rays. The 10 minute window allows the sunscreen to set on your skin and create a protective barrier, even though the active ingredients are functional upon application. It should also be the last thing you apply before makeup if applicable, to disturb the barrier as little as possible.](https://www.reddit.com/r/SkincareAddiction/comments/ebhfgg/product_question_pyunkang_yul_moisture_ampoule/)
 - [Retinol should be applied to skin after cleansing and toning and prior to moisturizers, night creams, eye creams, and treatment oils. Avoid using additional active ingredients at the same time as retinol to avoid skin sensitization. You should always use a daily SPF to help protect the skin from UV exposure. If dryness, sensitivity, or peeling occurs, use a skin moisture barrier replenishing product either all over or simply as a targeted spot treatment.](https://www.reddit.com/user/Kiehls_Official/comments/w7yvwr/reduce_the_appearance_of_%EF%AC%81ne_lines_in_%EF%AC%81ve_days/)
+- [Toners are light water based solutions which are used to clean your pores. Generally it is used after a cleanser. Serums - they have concentrated forms of ingredients to target your specific skin issues. Moisturizer - as name suggests it is used to keep your skin moist. It is generally applied after cleansing and toning your face. There are different moisturizers for different skin types from which we can choose one for our skin type.](https://www.quora.com/What-are-the-differences-between-toners-serums-and-moisturizers)
+- [Thinnest to thickest is good rule for skin care products. It is about the order in which you apply products with high water content and those with higher oil content. We all know oil and water repel each other and never mix, so you can imagine what happens when you apply a product with more oil above the product with more water content.](https://millbrookmall.com/2021/06/11/the-real-reasons-we-layer-skincare-products-from-thinnest-to-thickest/)
 
 ## Links
 
@@ -110,3 +118,12 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [What do I need to know about Differin (0.1%) gel?](https://www.reddit.com/r/SkincareAddiction/comments/2r6oz6/what_do_i_need_to_know_about_differin_01_gel/)
 - [Geek & Gorgeous](https://geekandgorgeous.com/)
 - [[Review] Geek & Gorgeous brand review - 1,5 years of consistent use](https://www.reddit.com/r/EuroSkincare/comments/s5fkgn/review_geek_gorgeous_brand_review_15_years_of/)
+- [Geek and Gorgeous brand review | Dr Dray (2021)](https://www.youtube.com/watch?v=EoV7HeDr4ko)
+- [Dr Dray - YouTube](https://www.youtube.com/c/DrDrayzday/videos)
+- [How to Use Cleanser, Toner, Essence, Serum and Moisturizer](https://www.youtube.com/watch?v=vM9rX3SqB34)
+- [Overrated or Underrated: Skincare Ingredients](https://www.youtube.com/watch?v=GpfuksjS7LA)
+- [How to double cleanse| Common Mistakes](https://www.youtube.com/watch?v=XorjsNX8SLE)
+- [Geek & Gorgeous Reviews](https://www.reddit.com/r/EuroSkincare/comments/q6sg1x/geek_gorgeous_reviews/)
+- [The Difference Between Toners and Lotions in Skincare](https://uzzaskincare.com/blogs/uzzacares/difference-toners-lotions-in-skincare)
+- [[Review] Geek & Gorgeous brand review - 1,5 years of consistent use](https://www.reddit.com/r/SkincareAddiction/comments/s5ensj/review_geek_gorgeous_brand_review_15_years_of/)
+- [The right order: retinol or retinoid before or after moisturizer?](https://www.dearbrightly.com/blog/retinol-before-or-after-moisturizer/)

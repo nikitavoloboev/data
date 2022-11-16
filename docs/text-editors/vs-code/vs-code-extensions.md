@@ -200,6 +200,7 @@ Below is a list of extensions I use.
 - [Sequential Input Sequence](https://marketplace.visualstudio.com/items?itemName=tomoki1207.vscode-input-sequence) ([Code](https://github.com/tomoki1207/vscode-input-sequence))
 - [VS Code Makefile Tools](https://github.com/microsoft/vscode-makefile-tools)
 - [Direnv VSCode](https://github.com/direnv/direnv-vscode)
+- [AWK Language Server](https://github.com/Beaglefoot/awk-language-server)
 
 ## Shell
 
@@ -266,6 +267,7 @@ Below is a list of extensions I use.
 - [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support. ([Code](https://github.com/microsoft/vscode-typescript-next))
 - [Twoslash-Queries](https://github.com/orta/vscode-twoslash-queries) - VS Code extension which adds support for twoslash queries into typescript projects.
 - [TS QuickFixes](https://marketplace.visualstudio.com/items?itemName=tamj0rd2.ts-quickfixes-extension) ([Code](https://github.com/tamj0rd2/ts-quickfixes)) ([Tweet](https://twitter.com/wesbos/status/1582803702225989637))
+- [EffectTS LSP](https://github.com/Effect-TS/language-service)
 
 ## DB
 
