@@ -571,6 +571,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Lazycache](https://github.com/bep/lazycache) - Simple thread safe in-memory LRU cache.
 - [YaDAL](https://github.com/senrok/yadal) - Accessing S3, POSIX in the same way. Deeply inspired by Databend's OpenDAL.
 - [Ghostly](https://github.com/Dominic-Wassef/ghostly) - Simple, lightweight, and fast full-stack framework for Go. ([HN](https://news.ycombinator.com/item?id=33570575))
+- [go-sqlite](https://github.com/glebarez/go-sqlite) - Pure-Go SQLite driver for Go (SQLite embedded).
 
 ## ML
 

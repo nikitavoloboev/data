@@ -8,7 +8,7 @@ Based of [this interview](https://www.youtube.com/watch?v=xv0ISHGGw1A), it said 
 
 My goals are to have a healthy skin with minimal wrinkles in future, ideally with some glow.
 
-My skin care routine is variation of [Clear Days Kit](https://geekandgorgeous.com/collections/kits/products/clear-days-kit) (has instructions in link too). [This](https://www.youtube.com/watch?v=EoV7HeDr4ko) and [this](https://www.reddit.com/r/EuroSkincare/comments/q6sg1x/geek_gorgeous_reviews/) have some nice reviews of their products. And [this](https://www.youtube.com/watch?v=vM9rX3SqB34) is a nice video that goes over difference between cleanser/toner/serums/moisturizer & how to apply each one.
+My skin care routine is mostly [Geek & Gorgeous products](https://geekandgorgeous.com/). [This](https://www.youtube.com/watch?v=EoV7HeDr4ko) and [this](https://www.reddit.com/r/EuroSkincare/comments/q6sg1x/geek_gorgeous_reviews/) have some nice reviews of their products. And [this](https://www.youtube.com/watch?v=vM9rX3SqB34) is a nice video that goes over difference between cleanser/toner/serums/moisturizer & how to apply each one.
 
 I keep all products below at my sink, except [vitamin c serum](https://geekandgorgeous.com/collections/101-serums/products/c-glow) which I keep at the fridge to prolong it.
 
