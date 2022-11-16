@@ -198,6 +198,7 @@
 - [fp](https://github.com/japiirainen/fp) - Programming language inspired by the `fp` language described in the 1977 Turing Award lecture by John Backus. ([HN](https://news.ycombinator.com/item?id=33407830))
 - [Functional Programming Should Be the Future of Software Development (2022)](https://spectrum.ieee.org/functional-programming) ([HN](https://news.ycombinator.com/item?id=33433783))
 - [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
+- [What’s so great about functional programming anyway? (2022)](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/) ([HN](https://news.ycombinator.com/item?id=33620439))
 
 ## Images
 

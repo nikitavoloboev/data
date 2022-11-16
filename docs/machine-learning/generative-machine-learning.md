@@ -149,3 +149,4 @@
 - [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models (2022)](https://arxiv.org/abs/2210.08933) ([Code](https://github.com/Shark-NLP/DiffuSeq))
 - [Stable-Diffusion + Fused CUDA kernels](https://github.com/tfernd/sd-fused)
 - [Dall-E 2 AI Image Generator](https://dalle-2.vercel.app/) - Using Upstash for message queue + Redis. ([Code](https://github.com/domeccleston/dalle-2))
+- [Versatile Diffusion: Text, Images and Variations All in One Diffusion Model (2022)](https://arxiv.org/abs/2211.08332) ([Code](https://github.com/SHI-Labs/Versatile-Diffusion))
