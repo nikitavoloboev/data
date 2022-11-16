@@ -285,6 +285,7 @@
 - [Thunder Collection](https://github.com/3sidedcube/ThunderCollection) - Wrapper around UICollectionViewController enabling a declarative API around it's delegate methods using protocols.
 - [Baymax](https://github.com/3sidedcube/Baymax) - Diagnostics framework for iOS apps.
 - [Pastel](https://github.com/cruisediary/Pastel) - Gradient animation effect like Instagram.
+- [Lurker](https://github.com/Sam-Spencer/Lurker) - Abstraction over the iOS BackgroundTask API to make background tasks easy to isolate, maintain and schedule.
 
 ## macOS
 

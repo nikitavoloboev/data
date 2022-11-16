@@ -14,12 +14,12 @@ I keep all products below at my sink, except [vitamin c serum](https://geekandgo
 
 ### Morning
 
-I first do my morning [exercise routine](../fitness/fitness.md) and shower. Then: 
+I first do my morning [exercise routine](../fitness/fitness.md) and shower. Then:
 
 1. [Cleanse] Wet face, squeeze [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker) into palm and gently, but thoroughly massage over face and eye area. Rinse well with warm water and pat dry.
 2. [Vitamin C] Apply a few drops of [C-Glow](https://geekandgorgeous.com/collections/101-serums/products/c-glow) to the face. Put a drop directly onto your face and quickly pat it on with your other hand. Pat any excess product onto the top of your hands or neck. I start brushing my teeth at this point as I need to wait few minutes for it to soak into the skin.
 3. [Beta-Glucan] Apply a few drops of [Stress Less](https://geekandgorgeous.com/collections/101-serums/products/stress-less) to the face. Let it absorb. I start brushing my teeth at this point as I need to wait few minutes for it to soak into the skin.
-4. [Toner] Apply [Cheer Up](https://geekandgorgeous.com/collections/exfoliants/products/cheer-up) either with a cotton pad or pour it into your hands and pat it on as men do with after-shave. Avoid the area around the eyes. Wait until it is absorbed.
+4. [Exfoliant] Apply [Smooth Out](https://geekandgorgeous.com/collections/exfoliants/products/smooth-out) either with a cotton pad or pour it into your hands and pat it on as men do with after-shave. Avoid the area around the eyes. Wait until it is absorbed.
 5. [Moisturizer] Apply [Happier Barrier](https://geekandgorgeous.com/collections/101-serums/products/happier-barrier). Use as much or as little as your skin needs.
 6. [Sun screen] Apply [Isntree Hyaluronic Acid Watery Sun Gel](https://koreanskincare.nl/products/hyaluronic-acid-watery-sun-gel-spf50-pa). Let it absorb.
 
@@ -30,9 +30,9 @@ During the day, I drink a lot of water/[tea](nutrition/drinks/tea.md). I try not
 Before going to sleep, I do another exercise routine and quick shower. Then:
 
 1. [Cleanse] Wet face, squeeze [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker) into palm and gently, but thoroughly massage over face and eye area. Rinse well with warm water and pat dry.
-2. [Niacinamide] 3 times a week. Apply few drops of [B-Bomb](https://geekandgorgeous.com/collections/101-serums/products/b-bomb) to the face. Wait until it is absorbed.
+2. [Niacinamide] Every other night. Apply few drops of [B-Bomb](https://geekandgorgeous.com/collections/101-serums/products/b-bomb) to the face. Wait until it is absorbed.
 3. [Salicylic acid] Apply a few drops of [Porefectly Clear](https://geekandgorgeous.com/collections/101-serums/products/porefectly-clear) to the face. Let it absorb.
-4. [Retinal] 3 times a week. Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) to the face. Use every night or every other night, depending on your skin's tolerance, when starting out: alternate with Cheer Up for two weeks.
+4. [Retinal] Every other night. Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) to the face.
 5. [Moisturizer] Apply [Happier Barrier](https://geekandgorgeous.com/collections/101-serums/products/happier-barrier). Use as much or as little as your skin needs.
 6. Go to sleep. Always use fresh sheets especially on the pillows.
 
@@ -127,3 +127,4 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [The Difference Between Toners and Lotions in Skincare](https://uzzaskincare.com/blogs/uzzacares/difference-toners-lotions-in-skincare)
 - [[Review] Geek & Gorgeous brand review - 1,5 years of consistent use](https://www.reddit.com/r/SkincareAddiction/comments/s5ensj/review_geek_gorgeous_brand_review_15_years_of/)
 - [The right order: retinol or retinoid before or after moisturizer?](https://www.dearbrightly.com/blog/retinol-before-or-after-moisturizer/)
+- [Do you really need to reapply sunscreen every 2 hours?](https://www.reddit.com/r/SkincareAddictionUK/comments/v181ny/do_you_really_need_to_reapply_sunscreen_every_2/)
