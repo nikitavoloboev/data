@@ -718,3 +718,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [fake2db](https://github.com/emirozer/fake2db) - Generate fake but valid data filled databases for test purposes using most popular patterns.
 - [Serverless ETL runtime for cloud databases](https://github.com/second-state/MEGA)
 - [Database Review 2021](https://www.bytebase.com/blog/database-review-2021) ([HN](https://news.ycombinator.com/item?id=33558509))
+- [Ask HN: What do you use for a personal database? (2022)](https://news.ycombinator.com/item?id=33627988)
