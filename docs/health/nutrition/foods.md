@@ -173,3 +173,4 @@ Here is a list of various pescatarian foods that I use to experiment and cook wi
 - [Bourdain's World Map](https://www.anthonybourdainworldmap.com/)
 - [How food powers the body's metabolism](https://www.newyorker.com/science/elements/how-food-powers-your-body-metabolism-calories) ([HN](https://news.ycombinator.com/item?id=33369896))
 - [Only 1% of Japan's Soy Sauce Is Made This Way](https://www.youtube.com/watch?v=MKbRu3_Ynpk)
+- [Robot treats 500k plants per hour with 95% less chemicals (2022)](https://www.youtube.com/watch?v=sV0cR_Nhac0) ([HN](https://news.ycombinator.com/item?id=33630179))
