@@ -1,6 +1,6 @@
 # Effective altruism
 
-Effective altruism to me essentially means thinking about how I can maximize the good value of my work. On high level, I just try to build [ideas](../ideas/ideas.md) that impact my life directly and hope it resonates to many others. 
+Effective altruism to me essentially means thinking about how I can maximize the good value of my work. On high level, I just try to build [ideas](../ideas/ideas.md) that impact my life directly and hope it resonates to many others.
 
 ## Notes
 
@@ -34,3 +34,4 @@ Effective altruism to me essentially means thinking about how I can maximize the
 - [Effective Altruism](https://www.effectivealtruism.org/) - Using reason and evidence to do the most good.
 - [Do things with direct impact. There are many opportunities!](https://twitter.com/ben_j_todd/status/1491038776159657986)
 - [Notes on Effective Altruism (2022)](https://michaelnotebook.com/eanotes/) ([Tweet](https://twitter.com/michael_nielsen/status/1532537180525973505)) ([HN](https://news.ycombinator.com/item?id=31609325))
+- [Effective Altruism and Its Future (2022)](https://eigenrobot.substack.com/p/effective-altruism-and-its-future) ([HN](https://news.ycombinator.com/item?id=33633818))

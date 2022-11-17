@@ -587,3 +587,4 @@ Below is a list of extensions I use.
 - [Running a private VS Code Extension Marketplace (2022)](https://coder.com/blog/running-a-private-vs-code-extension-marketplace)
 - [VSCode Textmate grammar test](https://github.com/PanAeon/vscode-tmgrammar-test)
 - [VS Code Notebook APIs](https://code.visualstudio.com/api/extension-guides/notebook)
+- [VSCode Extension Tester](https://github.com/redhat-developer/vscode-extension-tester) - Framework for simulating user interactions with VS Code and its extensions via Webdriver.
