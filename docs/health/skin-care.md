@@ -173,3 +173,4 @@ The skin in your eye area is still skin so you can cleanse and moisturize the ar
 - [Нормально о косметике by Маша Ворслав (2019)](https://www.goodreads.com/book/show/44501379)
 - [Мой уход за кожей, макияж и укладка (2022)](https://www.youtube.com/watch?v=TNAeZ9GxQkc)
 - [Все об уходе за кожей тела (сухость, кератоз, прыщи на спине)](https://www.youtube.com/watch?v=LXKOFZch3LE)
+- [Azelaic Acid | Dermatologist Reviews](https://www.youtube.com/watch?v=xlq3cn6Yj6U)

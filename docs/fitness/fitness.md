@@ -18,7 +18,7 @@ I currently don't go to the gym so do workouts at home without any special gear 
 
 Mostly taken as inspiration from this [daily home training routine](https://www.youtube.com/watch?v=5Jth37OywOE) & [morning routine](https://www.youtube.com/watch?v=pc2xlLuCp4Y) videos. The way [Joe](https://www.youtube.com/user/JoeDelaneyy/videos) lays out the [plan with reps](https://youtu.be/5Jth37OywOE?t=571) is interesting, I currently try to just push each rep until failure.
 
-Videos on [essential exercises](https://www.youtube.com/watch?v=s0fA0gXqREQ), [golden rules to build muscle](https://www.youtube.com/watch?v=ti7j2yyVF6E) & [beginner mistakes to avoid](https://www.youtube.com/watch?v=thV6p47dhaU) are a must watch. Sadly most of the exercises on the list require some gear. I will update the routine once I get into position where I have access to such gear.
+Videos on [6 Things I Do Every Day to Stay in Shape](https://www.youtube.com/watch?v=T5reu3R55kM), [essential exercises](https://www.youtube.com/watch?v=s0fA0gXqREQ), [golden rules to build muscle](https://www.youtube.com/watch?v=ti7j2yyVF6E) & [beginner mistakes to avoid](https://www.youtube.com/watch?v=thV6p47dhaU) are a must watch. Sadly most of the exercises on the list require some gear. I will update the routine once I get into position where I have access to such gear.
 
 ### Other tips
 
@@ -113,3 +113,4 @@ Most importantly I try to keep my back muscles in shape as due to nature of my w
 - [The Best Science-Based Minimalist Workout (Under 45 Mins) (2022)](https://www.youtube.com/watch?v=eMjyvIQbn9M)
 - [The Smartest Push Pull Legs Routine 2022 (Fully Explained)](https://www.youtube.com/watch?v=qVek72z3F1U)
 - [A Very Typical Day in my Life... (Eat/Train/Work)](https://www.youtube.com/watch?v=cR9G6H7GrG0)
+- [6 Things I Do Every Day to Stay in Shape](https://www.youtube.com/watch?v=T5reu3R55kM)

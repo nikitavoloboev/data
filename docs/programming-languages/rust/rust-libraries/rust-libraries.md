@@ -67,6 +67,7 @@
 - [prodash](https://github.com/Byron/prodash) - Report progress of concurrent applications and display it in various ways.
 - [minus](https://github.com/arijit79/minus) - Asynchronous terminal paging library.
 - [linya](https://github.com/fosskers/linya) - Simple concurrent progress bars.
+- [makeup](https://github.com/queer/makeup) - Stylish CLIs/TUIs for Rust.
 
 ## Web
 

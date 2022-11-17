@@ -73,3 +73,4 @@ title: ESLint
 - [Shared JS Config by Guild](https://github.com/the-guild-org/shared-config)
 - [Official ESLint plugin for Storybook](https://github.com/storybookjs/eslint-plugin-storybook)
 - [FeatureSliced ESLint config](https://github.com/feature-sliced/eslint-config)
+- [Zod linting rules for ESLint](https://github.com/gajus/eslint-plugin-zod)

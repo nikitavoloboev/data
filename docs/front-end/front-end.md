@@ -123,3 +123,4 @@
 - [Фронтенд — это не больно](https://bespoyasov.ru/front-not-pain/) - Пособие для разработчиков и сочувствующих. ([Code](https://github.com/bespoyasov/front-not-pain))
 - [Composition Comparison](https://github.com/TyOverby/composition-comparison) - Collection of UI-framework compsition challenges.
 - [Modern FrontEnds Live](https://www.modernfrontends.live/) ([Twitter](https://twitter.com/ModernFrontends))
+- [Awesome Node-Based UIs](https://github.com/wbkd/awesome-node-based-uis)

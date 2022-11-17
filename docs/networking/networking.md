@@ -547,3 +547,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [A Day in the Life of an IPv6 Packet on illumos (2022)](https://ry.goodwu.net/tinkering/day-in-the-life-of-a-v6-packet-on-illumos/)
 - [F-Stack](https://github.com/F-Stack/f-stack) - User space network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API. ([Web](http://www.f-stack.org/))
 - [The Effectiveness of Checksums for Embedded Control Networks (2009)](https://users.ece.cmu.edu/~koopman/pubs/maxino09_checksums.pdf)
+- [mighty-snitch](https://github.com/nathants/mighty-snitch) - Noticing and preventing network requests should be easy.
