@@ -1,7 +1,5 @@
 # Supplements
 
-Supplements I try take daily are inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/).
-
 Every [morning](../../focusing/processes.md#morning), after I do my [morning exercise](../../fitness/fitness.md), I do my [morning smoothie](https://www.youtube.com/watch?v=OUGQBV5B2S4). I mix:
 
 - 2 scoops of [Clean Lean Protein (Just Natural taste)](https://www.nuzest.co.uk/products/clean-lean-protein) (~ 25g)
@@ -13,7 +11,7 @@ Every [morning](../../focusing/processes.md#morning), after I do my [morning exe
 - [Alpro Unsweetened Almond Milk](https://www.alpro.com/uk/products/drinks/almond-drinks/almond-roasted-no-sugars/) (fill the blender glass)
 - some chia, hemp and flax seeds (not much)
 
-After drinking the smoothie, I also take:
+After drinking the smoothie, I also take these supplements, inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/):
 
 - [Vegan Omega 3 DHA & EPA via Algal oil](https://www.uganutraceuticals.com/product/omegor-veg) (1 capsule)
 - [Vitamin D3 + K2](https://www.amazon.com/Bronson-Vitamin-Supplement-Support-Capsules/dp/B0792Z6434) (1 capsule)
@@ -21,9 +19,9 @@ After drinking the smoothie, I also take:
 
 That's often enough to get me going until afternoon at which point, I will either make some cooked food or eat out (healthy).
 
-I don't try to manage my eating of generally healthy natural whole food pescatarian food. Especially as I try to lead a more active lifestyle already. 
+I don't try to manage my eating of generally healthy natural whole food pescatarian food. Especially as I try to lead a more active lifestyle already.
 
-I generally avoid sugary foods, snacks and drinks strictly. Makes me appreciate the finer tastes of non processed foods and ways you can cook them. I try to experiment with various [pescatarian recipes](recipes.md) often too.
+I generally strictly avoid sugary foods, snacks and drinks. Makes me appreciate the finer tastes of non processed foods and ways you can cook them. I try to experiment with various [pescatarian recipes](recipes.md) often too.
 
 I sometimes don't eat during evenings so as to [fast](fasting.md) just a little before I take my morning smoothie on following day.
 
