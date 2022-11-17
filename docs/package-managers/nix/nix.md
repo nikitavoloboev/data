@@ -441,3 +441,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments. ([Web](https://devenv.sh/))
 - [Global registry of Nix flakes](https://github.com/NixOS/flake-registry)
 - [Taking off with Nix at FlightAware (2022)](https://flightaware.engineering/taking-off-with-nix-at-flightaware/)
+- [Nix binary cache garbage collector](https://github.com/lheckemann/cache-gc)

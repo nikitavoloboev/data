@@ -257,3 +257,4 @@ title: DNS
 - [macOS DNS resolving change in Go 1.20 (2022)](https://danp.net/posts/macos-dns-change-in-go-1-20/)
 - [Zig-DNS](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in Zig.
 - [DNS over Ping](https://github.com/jamespwilliams/dns-over-ping)
+- [Faster DNS name decompression (2022)](https://dotat.at/@/2022-11-17-dns-decompress.html)

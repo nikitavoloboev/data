@@ -960,3 +960,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Introduction to Rust Programming Language (2022)](https://www.youtube.com/watch?v=QY62Ms0aI78)
 - [Is Rust Stack-Efficient Yet?](https://arewestackefficientyet.com/) ([HN](https://news.ycombinator.com/item?id=33637092))
 - [What are Rust’s biggest weaknesses? (2022)](https://www.reddit.com/r/rust/comments/yxtjdc/what_are_rusts_biggest_weaknesses/)
+- [Stable MIR Librarification Project Group](https://github.com/rust-lang/project-stable-mir)

@@ -203,3 +203,4 @@
 - [OKLCH in CSS: why we moved from RGB and HSL (2022)](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 - [glasbey](https://github.com/taketwo/glasbey) - Generate maximally distinct sets of colors.
 - [Whimsical Watercolors](https://brushify.art/) ([HN](https://news.ycombinator.com/item?id=33561232))
+- [Glasbey Categorical Color Palette Tools](https://github.com/lmcinnes/glasbey)

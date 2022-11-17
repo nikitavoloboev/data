@@ -442,7 +442,7 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Ying-Yang](https://github.com/exp-table/ying-yang) - Pay on Ethereum, mint on Starknet.
 - [Aegis](https://github.com/Chainstride-Capital/aegis) - Ethereum smart contracts to shield you from bad actors and mempool snipers when listing a new token on a decentralized exchange.
 - [ethereal](https://github.com/wealdtech/ethereal) - Command-line tool for managing common tasks in Ethereum.
-- [wagmi](https://github.com/tmm/wagmi) - React Hooks library for Ethereum, built on ethers.js.
+- [wagmi](https://github.com/wagmi-dev/wagmi) - React Hooks for Ethereum. ([Docs](https://wagmi.sh/))
 - [ZRNT CLI](https://github.com/protolambda/zcli) - Eth2 CLI debugging tool.
 - [NFT Swap SDK](https://github.com/trader-xyz/nft-swap-sdk) - Ethereum's missing p2p NFT and token swap library for web3 developers. Written in TypeScript. Powered by 0x.
 - [token-list](https://github.com/telcoin/token-list) - Ethereum token list standard.

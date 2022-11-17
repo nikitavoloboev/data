@@ -1,5 +1,7 @@
 # Robots
 
+[Stanford Introduction to Robotics](https://see.stanford.edu/course/cs223a) is nice.
+
 ## Links
 
 - [Can A Thousand Tiny Swarming Robots Outsmart Nature?](https://www.youtube.com/watch?v=dDsmbwOrHJs)
@@ -188,3 +190,4 @@
 - [Holo-Dex: Teaching Dexterity with Immersive Mixed Reality (2022)](https://arxiv.org/abs/2210.06463) ([Code](https://github.com/SridharPandian/Holo-Dex))
 - [Masked Visual Pre-training for Robotics](https://github.com/ir413/mvp)
 - [Neural Grasp Distance Fields for Robot Manipulation (2022)](https://arxiv.org/abs/2211.02647) ([Code](https://github.com/facebookresearch/NGDF))
+- [Stanford Introduction to Robotics (2022)](https://see.stanford.edu/course/cs223a)

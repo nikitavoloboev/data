@@ -12,7 +12,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 
 Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek features](https://news.ycombinator.com/item?id=33518320).
 
-[trustfall](https://github.com/obi1kenobi/trustfall) is a great query engine for all kinds of data sources.
+[trustfall](https://github.com/obi1kenobi/trustfall) is a great query engine for all kinds of data sources. [Atlas](https://github.com/ariga/atlas) is nice DB tool.
 
 ## Interesting
 

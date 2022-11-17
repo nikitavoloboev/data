@@ -40,3 +40,4 @@ title: Cosmos
 - [Canine](https://github.com/JackalLabs/canine-chain) - Blockchain built using Cosmos SDK and Tendermint and created with Starport.
 - [Beaker](https://github.com/osmosis-labs/beaker) - Helps simplify CosmWasm development workflow.
 - [ibctest](https://github.com/strangelove-ventures/ibctest) - Orchestrates Go tests that utilize Docker containers for multiple IBC-compatible blockchains.
+- [ibc-rs](https://github.com/cosmos/ibc-rs) - Rust implementation of the Inter-Blockchain Communication (IBC) protocol.

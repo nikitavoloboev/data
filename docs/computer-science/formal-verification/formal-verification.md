@@ -155,3 +155,4 @@ title: Formal verification
 - [Tamarin](https://github.com/tamarin-prover/tamarin-prover) - Security protocol verification tool that supports both falsification and unbounded verification in the symbolic model. ([Web](https://tamarin-prover.github.io/))
 - [OSS CAD Suite](https://github.com/YosysHQ/oss-cad-suite-build) - Multi-platform nightly builds of open source digital design and verification tools.
 - [Let's Prove Leftpad (2022)](https://www.hillelwayne.com/post/lpl/)
+- [ProofNet](https://github.com/zhangir-azerbayev/ProofNet) - Benchmark for undergraduate-level formal mathematics.

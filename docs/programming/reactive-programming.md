@@ -43,3 +43,4 @@ title: Reactive programming
 - [Flimsy](https://github.com/fabiospampinato/flimsy) - Single-file <1kb min+gzip simplified implementation of the reactive core of Solid, optimized for clean code.
 - [S.js](https://github.com/adamhaile/S) - Simple, Clean, Fast Reactive Programming in JavaScript.
 - [Kefir](https://github.com/kefirjs/kefir) - Reactive Programming library for JavaScript.
+- [ArrowJS](https://github.com/justin-schroeder/arrow-js) - Reactivity without the framework. ([Tweet](https://twitter.com/jpschroeder/status/1593326779179073537))
