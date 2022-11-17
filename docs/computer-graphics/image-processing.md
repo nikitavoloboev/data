@@ -218,3 +218,4 @@
 - [image-compare](https://github.com/ChrisRega/image-compare) - Simple image comparison in rust based on the image crate.
 - [imageinfo-rs](https://github.com/xiaozhuai/imageinfo-rs) - Rust library to get image size and format without loading/decoding.
 - [Jimp Compact](https://github.com/unjs/jimp-compact) - Lightweight version of Jimp compiled with vercel/ncc.
+- [Photo2Pixel](https://github.com/Jzou44/photo2pixel) - Algorithm converting photo into pixel art.

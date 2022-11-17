@@ -2326,6 +2326,7 @@
 - [Scroll](https://github.com/m4b/scroll) - Traits for read/writing generic containers (byte buffers are currently implemented by default).
 - [StateLock](https://github.com/Xudong-Huang/state_lock) - Sync primitive that can be used to wait for a state to be ready.
 - [usdt](https://github.com/oxidecomputer/usdt) - Dust your Rust with USDT probes.
+- [Parcom](https://github.com/strtok/parcom) - Trait + closure based parser combinator library loosely following the Parsec Paper.
 
 ## Cargo Plugins
 

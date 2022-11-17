@@ -205,3 +205,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Your posts should be on arXiv (2022)](https://www.lesswrong.com/posts/TYTEJxzeK3jBMq2TZ/your-posts-should-be-on-arxiv)
 - [Explainpaper](https://www.explainpaper.com/) - Better way to read academic papers.
 - [Pubmed Parser](https://github.com/titipata/pubmed_parser) - Python Parser for PubMed Open-Access XML Subset and MEDLINE XML Dataset.
+- [Zotero 7 for Developers](https://www.zotero.org/support/dev/zotero_7_for_developers)

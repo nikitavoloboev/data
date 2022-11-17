@@ -2,6 +2,8 @@
 
 [Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) is [good read](https://news.ycombinator.com/item?id=33084205).
 
+Progress in models like [Midjourney](https://www.midjourney.com/) is getting [insanely good](https://twitter.com/euboid/status/1593174650262986754).
+
 ## Notes
 
 - [The net effect of the last 18 mo has been to slightly lubricate human imagination, making it easier for individuals to visualize possible worlds/scenes/moods. It’s only a medium-big deal—unless this is a foretaste of similar acceleration in music, code, and text.](https://twitter.com/Ted_Underwood/status/1566787680872157185)

@@ -170,3 +170,4 @@ Here is a list of various pescatarian foods that I use to experiment and cook wi
 - [Only 1% of Japan's Soy Sauce Is Made This Way](https://www.youtube.com/watch?v=MKbRu3_Ynpk)
 - [Robot treats 500k plants per hour with 95% less chemicals (2022)](https://www.youtube.com/watch?v=sV0cR_Nhac0) ([HN](https://news.ycombinator.com/item?id=33630179))
 - [Nutrition Tier Lists: Nuts](https://www.youtube.com/watch?v=K8HuhaKObZs)
+- [Apple Rankings](https://applerankings.com/) ([HN](https://news.ycombinator.com/item?id=33639206))

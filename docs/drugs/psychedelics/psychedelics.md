@@ -26,6 +26,8 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
 
 Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md) taught me a lot about [life](../../life/life.md) and [death](../../life/death.md) and how to always find my [happiness](../../life/happiness.md) amidst all the universe's chaos.
 
+I like listening to my [Trip playlist of songs](https://open.spotify.com/playlist/2FiHv3aqoyPNojdSYrHa5A) when I trip.
+
 [Realchems](https://realchems.net/) is great vendor.
 
 It's good to be aware that [set and setting](https://www.reddit.com/r/LSD/comments/bc7l6l/guide_to_taking_psychedelics_set_setting/) are important to get right before taking psychedelics. Otherwise you risk getting a [bad trip](https://www.reddit.com/r/Psychonaut/comments/yx9c8v/how_bad_does_a_bad_trip_feel/).

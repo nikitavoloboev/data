@@ -78,6 +78,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [nTorque](https://github.com/thruflo/ntorque) - Web hook task queue.
 - [HStream](https://github.com/conradbez/hstream) - Quick Python web apps. Streamlit alternative using htmx. ([HN](https://news.ycombinator.com/item?id=33547813))
 - [pyxl4](https://github.com/pyxl4/pyxl4) - Extend Python syntax with HTML.
+- [terminado](https://github.com/jupyter/terminado) - Tornado websocket backend for the Xterm.js JavaScript terminal emulator library.
 
 ## ML
 
@@ -1143,7 +1144,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Python Project Setup – Virtual Environments and Package Management (2022)](https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry)
 - [Python on Nix](https://github.com/on-nix/python) - Extensive collection of Python projects from PyPI, for Nix.
 - [Python template for nix flakes](https://github.com/Quoteme/mach-nix-template) - Simple and straight-forward way to create python environments using PyPi in nix. ([Reddit](https://www.reddit.com/r/NixOS/comments/szm4nh/i_created_a_super_simple_flakenix_template_so_you/))
-- [Sphinx](https://www.sphinx-doc.org/en/master/) - Python Documentation Generator.
+- [Sphinx](https://www.sphinx-doc.org/en/master/) - Python Documentation Generator. ([Code](https://github.com/sphinx-doc/sphinx))
 - [Python Context Managers in 10 Minutes — using the ‘with’ keyword (2022)](https://towardsdatascience.com/python-context-managers-in-10-minutes-using-the-with-keyword-51eb254c1b89)
 - [Sphinx, MyST, and Python Docs in 2022](https://talkpython.fm/episodes/show/354/sphinx-myst-and-python-docs-in-2022)
 - [Quetz](https://github.com/mamba-org/quetz) - Open-Source Server for Conda Packages.

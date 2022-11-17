@@ -461,3 +461,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [Turning music into a chore is how I became a musician (2022)](https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/) ([HN](https://news.ycombinator.com/item?id=33545349))
 - [MIDI-to-Keypress](https://github.com/xobs/midi-to-keypress) - Takes MIDI input and turns it into keypresses.
 - [musthe](https://github.com/gciruelos/musthe) - Music theory implemented in Python. Notes, scales and chords.
+- [Resources for microtonal music](https://sevish.com/music-resources/) ([HN](https://news.ycombinator.com/item?id=33639132))

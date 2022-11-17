@@ -94,6 +94,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [itty-fetcher](https://github.com/kwhitley/itty-fetcher) - Even simpler wrapper around native Fetch to strip boilerplate from your fetching code.
 - [H0](https://github.com/noamr/h0) - Minimalistic Model-View library.
 - [Loadeer.js](https://github.com/johannschopplich/loadeer) - Tiny, performant, SEO-friendly lazy loading library.
+- [Hyperstack](https://github.com/hyperstackjs/hyperstack) - Modern Node.js web framework for the pragmatic programmer.
 
 ## GraphQL
 
@@ -143,6 +144,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Clii](https://github.com/sigoden/clii) - Write some functions, JSDoc it, clii automatically turns it into a cli.
 - [molt](https://github.com/jasonkuhrt/molt) - CLI building blocks & framework for the TypeScript era.
 - [Zors](https://github.com/sidwebworks/zors) - Next-gen framework for building modern, type-safe command-line applications.
+- [Xterm.js Readline](https://github.com/strtok/xterm-readline) - Library for building command-line interfaces with XtermJS.
 
 ## Crypto
 

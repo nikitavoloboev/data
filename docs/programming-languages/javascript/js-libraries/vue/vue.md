@@ -6,6 +6,8 @@ title: Vue.js
 
 [Vitesome](https://github.com/alvarosabu/vitesome) is a nice template. [Villus](https://github.com/logaretm/villus) is nice Vue GraphQL client. [tRPC-Nuxt](https://github.com/wobsoriano/trpc-nuxt) seems pretty great too.
 
+[Nuxt](https://github.com/nuxt/framework) seems nice.
+
 ## Built with Vue
 
 - [Nuxt 3 + Vuetify 3 Starter](https://github.com/BayBreezy/nuxt3-vuetify3-starter)
@@ -211,3 +213,4 @@ title: Vue.js
 - [Vue Data Picker](https://github.com/Vuepic/vue-datepicker)
 - [Advent Of Vue](https://adventofvue.com/) ([In SvelteKit](https://github.com/geoffrich/advent-of-sveltekit-2022))
 - [v-satori](https://github.com/wobsoriano/v-satori) - Generate a satori-friendly VDOM from a Vue component.
+- [Vue Auth UI](https://github.com/ndrbrt/vue-auth-ui) - Pre-built Vue component for authenticating users.

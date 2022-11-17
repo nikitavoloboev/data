@@ -179,3 +179,4 @@ title: Quantum computing
 - [PanQEC](https://github.com/panqec/panqec) - Simulation and visualization of quantum error correcting codes.
 - [Covalent](https://github.com/AgnostiqHQ/covalent) - Pythonic tool for running data-science/high performance/quantum-computing workflows in heterogenous environments.
 - [Open source quantum development with Codespaces](https://github.com/crazy4pi314/universe-qir-demo)
+- [Formalizing quantum circuit an a bit of kindergarten quantum mechanics in Coq/mathcomp](https://github.com/t6s/qecc)

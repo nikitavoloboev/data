@@ -435,3 +435,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Norad](https://github.com/linebender/norad) - Rust crate for working with Unified Font Object files.
 - [Mona Sans & Hubot Sans GitHub variable fonts](https://github.com/mona-sans) ([HN](https://news.ycombinator.com/item?id=33553659))
 - [Fontpie](https://github.com/pixel-point/fontpie) - Get your layout shifts optimized with a CLI-generated piece of CSS.
+- [My fav typefaces for UI design](https://twitter.com/jordanphughes/status/1593107714364018688)

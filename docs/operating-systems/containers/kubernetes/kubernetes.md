@@ -861,3 +861,6 @@ title: Kubernetes
 - [Mini-Kube-Scheduler](https://github.com/sanposhiho/mini-kube-scheduler) - Scheduler for learning Kubernetes Scheduler.
 - [Hierarchical Namespace Controller (HNC)](https://github.com/kubernetes-sigs/hierarchical-namespaces) - Adds hierarchical policies and delegated creation to Kubernetes namespaces for improved in-cluster multitenancy. ([User Guide](https://github.com/kubernetes-sigs/hierarchical-namespaces))
 - [kevent](https://github.com/TwiN/kevent) - Simple library for creating Kubernetes events.
+- [CRDs Catalog](https://github.com/datreeio/CRDs-catalog) - Over 100 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
+- [Kubernetes CRDs](https://crd.directory/)
+- [What are Kubernetes CRDs, and should you be bothered about them? (2022)](https://www.cohesive.so/blog/what-are-kubernetes-crds-and-should-you-be-bothered-about-them)

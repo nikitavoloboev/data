@@ -6,6 +6,8 @@ title: Scheme
 
 [The Little Typer](https://thelittletyper.com/) is a [nice book](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/). [Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html) is nice summary.
 
+[Marwood](https://github.com/strtok/marwood) is nice Scheme implementation.
+
 ## Links
 
 - [The Scheme Programming Language book](https://www.scheme.com/tspl4/)
@@ -107,3 +109,4 @@ title: Scheme
 - [Unlock Lisp / Scheme's magic: beginner to Scheme-in-Scheme in one hour](https://www.youtube.com/watch?v=DDROSL-gGOo)
 - [An opinionated guide to scheme implementations (2013)](https://wingolog.org/archives/2013/01/07/an-opinionated-guide-to-scheme-implementations) ([HN](https://news.ycombinator.com/item?id=32700027))
 - [Scsh](https://scsh.net/) - Open-source Unix shell embedded within Scheme.
+- [Marwood](https://github.com/strtok/marwood) - Embeddable Scheme R7 Compiler & Runtime written in Rust.

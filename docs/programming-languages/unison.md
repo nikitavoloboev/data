@@ -25,3 +25,4 @@ title: Unison
 - [unison-fsmonitor](https://github.com/autozimu/unison-fsmonitor) - Unison-fsmonitor implementation.
 - [Unison Share](https://share.unison-lang.org/)
 - [Practical Example - Modeling a Birthday Message Service (2021)](https://www.unison-lang.org/blog/birthday-kata/)
+- [HN: Unison (2022)](https://news.ycombinator.com/item?id=33638045)

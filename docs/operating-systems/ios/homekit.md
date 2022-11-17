@@ -4,6 +4,8 @@ title: HomeKit
 
 # [HomeKit](https://www.apple.com/uk/ios/home/)
 
+[HAP-rs](https://github.com/ewilken/hap-rs) is nice Rust crate for HomeKit.
+
 ## Links
 
 - [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) - Node.js implementation of HomeKit Accessory Server.

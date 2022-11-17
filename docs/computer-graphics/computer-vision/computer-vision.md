@@ -993,3 +993,4 @@
 - [SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery (2022)](https://sustainlab-group.github.io/SatMAE/) ([Code](https://github.com/sustainlab-group/SatMAE))
 - [OpenSeeFace](https://github.com/emilianavt/OpenSeeFace) - Robust real time face and facial landmark tracking on CPU with Unity integration.
 - [GIT: A Generative Image-to-text Transformer for Vision and Language (2022)](https://arxiv.org/abs/2205.14100) ([Code](https://github.com/microsoft/GenerativeImage2Text))
+- [MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis (2022)](https://arxiv.org/abs/2211.09117) ([Code](https://github.com/LTH14/mage))
