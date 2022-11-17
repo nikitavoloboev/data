@@ -195,6 +195,7 @@ Best way to do marketing is simply [launching features often and sharing updates
 - [Ask HN: How to Learn to Sell? (2022)](https://news.ycombinator.com/item?id=33224240)
 - [Companies that are best at telling their story](https://twitter.com/packyM/status/1582018462574346240)
 - [Spending 0$ on traditional paid marketing but still acquiring customers (2022)](https://twitter.com/ankurnagpal/status/1593026491058917377)
+- [Narratives (2022)](https://stratechery.com/2022/narratives/)
 
 ## Images
 

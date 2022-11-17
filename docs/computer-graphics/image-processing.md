@@ -217,3 +217,4 @@
 - [Fast PNG Encoder](https://github.com/veluca93/fpnge) - Fast PNG encoder that uses AVX2 and a special Huffman table to encode images faster.
 - [image-compare](https://github.com/ChrisRega/image-compare) - Simple image comparison in rust based on the image crate.
 - [imageinfo-rs](https://github.com/xiaozhuai/imageinfo-rs) - Rust library to get image size and format without loading/decoding.
+- [Jimp Compact](https://github.com/unjs/jimp-compact) - Lightweight version of Jimp compiled with vercel/ncc.

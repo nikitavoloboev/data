@@ -108,3 +108,8 @@ Most importantly I try to keep my back muscles in shape as due to nature of my w
 - [The 5 Golden rules for Building Muscle! (95% of your gains come from these) (2021)](https://www.youtube.com/watch?v=ti7j2yyVF6E)
 - [How Long Until You Can See Your Abs? (If You Start Now) (2022)](https://www.youtube.com/watch?v=8JxTK_3rEII)
 - [How I'd Train if I Started Over with Zero Gains - mistakes to avoid (2022)](https://www.youtube.com/watch?v=thV6p47dhaU)
+- [The Perfect Mobility Routine (Based On Your Body)](https://www.youtube.com/watch?v=TSIbzfcnv_8)
+- [Calisthenics Bodyweight Workout Pull Push Squat Hinge No Equipment (2022)](https://www.youtube.com/watch?v=QTAQuceq5bU)
+- [The Best Science-Based Minimalist Workout (Under 45 Mins) (2022)](https://www.youtube.com/watch?v=eMjyvIQbn9M)
+- [The Smartest Push Pull Legs Routine 2022 (Fully Explained)](https://www.youtube.com/watch?v=qVek72z3F1U)
+- [A Very Typical Day in my Life... (Eat/Train/Work)](https://www.youtube.com/watch?v=cR9G6H7GrG0)

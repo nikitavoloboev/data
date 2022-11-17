@@ -1,5 +1,7 @@
 # Design systems
 
+[Design System Guide](https://thedesignsystem.guide/) is nice intro.
+
 [Primer](https://primer.style/), [Vercel](https://vercel.com/design), [Radix Primitives](https://www.radix-ui.com/), [Polaris](https://polaris.shopify.com/) & [Mantine](https://mantine.dev/) are my favorite. [Brand Site Design](https://www.brandsite.design/) has a nice list. [Utopia](https://utopia.fyi/) is nice guideline for responsive design. [Reshaped](https://reshaped.so/) is great too.
 
 [Component Gallery](https://component.gallery/) is great overview of different components.
@@ -211,3 +213,4 @@
 - [Design system interviews](https://formaat.design/interviews)
 - [The “dark yellow problem” in design system color palettes](https://medium.com/user-experience-design-1/the-dark-yellow-problem-in-design-system-color-palettes-a0db1eedc99d) ([HN](https://news.ycombinator.com/item?id=33246700))
 - [Open design systems from the Figma Community](https://www.designsystems.com/open-design-systems/)
+- [Design System Guide](https://thedesignsystem.guide/)

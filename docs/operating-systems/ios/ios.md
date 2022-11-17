@@ -536,3 +536,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [What does your iPhone home screen look like? (2022)](https://twitter.com/UltraLinx/status/1590659660356669440)
 - [Design tips to master iOS Design](https://twitter.com/uiuxadrian/status/1591105280175128582)
 - [YMatterType](https://github.com/yml-org/YMatterType) - Opinionated take on Design System Typography for iOS and tvOS.
+- [What was the bad practice that you did not know you were committing until later? (2022)](https://www.reddit.com/r/iOSProgramming/comments/yx7iza/what_was_the_bad_practice_that_you_did_not_know/)

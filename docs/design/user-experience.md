@@ -2,7 +2,7 @@
 
 [Brian Lovin's design critiques](https://twitter.com/brian_lovin/status/1487903450528882690) are great. [Refactoring UI](https://www.refactoringui.com/) & [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/) are good reads.
 
-Love [command palettes](https://twitter.com/pacocoursey/status/1556635574051667969).
+Love [command palettes](https://twitter.com/pacocoursey/status/1556635574051667969). [This](https://maggieappleton.com/command-bar) is nice overview of well designed search palettes.
 
 ## Notes
 
@@ -212,3 +212,4 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [Why everything looks the same (2022)](https://medium.com/knowable/why-everything-looks-the-same-bad80133dd6e) ([HN](https://news.ycombinator.com/item?id=33520414))
 - [Tray background color to indicate what action a user is taking](https://twitter.com/benjitaylor/status/1390410175236902913) ([In Safari](https://twitter.com/pacocoursey/status/1591151080628682752))
 - [Command K Bars (2022)](https://maggieappleton.com/command-bar)
+- [Craft — Thoughts on elevating product quality (2022)](https://paulstamatiou.com/craft/)

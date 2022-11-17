@@ -28,6 +28,8 @@ Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md)
 
 [Realchems](https://realchems.net/) is great vendor.
 
+It's good to be aware that [set and setting](https://www.reddit.com/r/LSD/comments/bc7l6l/guide_to_taking_psychedelics_set_setting/) are important to get right before taking psychedelics. Otherwise you risk getting a [bad trip](https://www.reddit.com/r/Psychonaut/comments/yx9c8v/how_bad_does_a_bad_trip_feel/).
+
 ## Notes
 
 - [I believe that everything is the creator. People and animals are the creator looking through different eyes.](https://www.reddit.com/r/Psychonaut/comments/7811jc/have_psychedelic_experiences_changed_your_view_of/doq5ia1/)
@@ -180,3 +182,4 @@ Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md)
 - [Borax Reddit](https://www.reddit.com/r/Borax/)
 - [Trial of Psilocybin versus Escitalopram for Depression (2021)](https://www.nejm.org/doi/full/10.1056/NEJMoa2032994) ([Tweet](https://twitter.com/RCarhartHarris/status/1586757459888201732))
 - [Psychedelics: A Personal Take (2021)](https://ava.substack.com/p/psychedelics-a-personal-take) ([HN](https://news.ycombinator.com/item?id=33435140))
+- [Guide to Taking Psychedelics: Set & Setting](https://www.reddit.com/r/LSD/comments/bc7l6l/guide_to_taking_psychedelics_set_setting/)

@@ -333,6 +333,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Pytest-parametrized](https://github.com/coady/pytest-parametrized) - Pytest decorator for parametrizing tests with default iterables.
 - [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
 - [HypoFuzz](https://github.com/Zac-HD/hypofuzz) - Adaptive fuzzing of Hypothesis tests.
+- [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - Mutation testing for Python.
 
 ## Error
 

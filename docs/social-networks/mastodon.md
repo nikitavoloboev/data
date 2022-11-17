@@ -101,3 +101,4 @@ title: Mastodon
 - [On Running a Mastodon Instance (2021)](https://rixx.de/blog/on-running-a-mastodon-instance/)
 - [Twitter alternative: how Mastodon is designed to be “antiviral” (2022)](https://uxdesign.cc/mastodon-is-antiviral-design-42f090ab8d51)
 - [Scaling Mastodon Is Impossible (2022)](https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/) ([HN](https://news.ycombinator.com/item?id=33594961))
+- [Elefren](https://github.com/DeeUnderscore/elefren) - Wrapper for Mastodon API in Rust.

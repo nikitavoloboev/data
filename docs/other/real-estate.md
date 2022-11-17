@@ -1,5 +1,9 @@
 # Real estate
 
+## Notes
+
+- [Small apartment far away from where you actually live is more of a burden than an asset, to be honest. Either you have to commute a lot for all kinds of stuff, or you need a management company to take care of it, and that's eating into your returns.](https://www.reddit.com/r/ExpatFIRE/comments/yx9tyb/etf_or_real_estate/)
+
 ## Links
 
 - [Awesome Real Estate](https://github.com/etewiah/awesome-real-estate) - Curated list of awesome real estate resources and projects.

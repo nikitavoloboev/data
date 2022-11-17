@@ -261,3 +261,4 @@ All active variables can be seen by running `env`.
 - [Building a simple shell in C (2022)](https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-1)
 - [Codex CLI](https://github.com/microsoft/Codex-CLI) - Natural Language Command Line Interface.
 - [Why is the terminal input so weird? | Warp (2022)](https://www.warp.dev/blog/why-is-the-terminal-input-so-weird) ([HN](https://news.ycombinator.com/item?id=33628205))
+- [We Built Syntax Highlighting for the Terminal Input Editor (2022)](https://www.warp.dev/blog/how-built-syntax-highlighting-terminal-input-editor) ([HN](https://news.ycombinator.com/item?id=33642513))

@@ -1,6 +1,8 @@
 # Version control
 
-[changesets](https://github.com/changesets/changesets) is neat tool. [Graphite](https://graphite.dev/) looks useful.
+I use [Git](git.md) for all my version control.
+
+[changesets](https://github.com/changesets/changesets) is neat tool. [Graphite](https://graphite.dev/) & [Sapling](https://github.com/facebook/sapling) look useful. 
 
 ## Links
 

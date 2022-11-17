@@ -49,3 +49,4 @@
 - [BotMate](https://github.com/botmate/botmate) - Modern platform to build and deploy messaging chat bots.
 - [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) - App where people can learn about, experience, and give feedback on Google’s emerging AI technology.
 - [Laudspeaker](https://github.com/laudspeaker/laudspeaker) - Open Source alternative to Braze / Iterable / One Signal / Customer Io. Easily Create Messaging Workflows.
+- [Dots](https://www.dots.community/) - Bot Builder for Discord/Slack. ([HN](https://news.ycombinator.com/item?id=33641655))

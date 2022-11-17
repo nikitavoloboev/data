@@ -2,7 +2,7 @@
 
 I believe crowd funding to be best way to raise money for something. As compared to raising [venture capital](venture-capital.md) even though VC can open many doors through connections. Nowadays if product is good and you sell the vision well, you can crowd fund enough to keep you going and not be on whim of absurd growth numbers.
 
-[Party Round](https://partyround.com/) is a nice tool for crowd funding.
+[Fundraising Lore](https://www.lore.vc/) is great read. [Party Round](https://partyround.com/) is nice tool for crowd funding.
 
 ## Nice Funding pitches
 
@@ -173,3 +173,4 @@ I believe crowd funding to be best way to raise money for something. As compared
 - [Everything I wish I had known about raising a seed round (2022)](https://blog.startupstash.com/everything-i-wish-i-had-known-about-raising-a-seed-round-a615f8f7740b) ([HN](https://news.ycombinator.com/item?id=33159680))
 - [Ask HN: Learning about fundraising as first-time tech founders (2022)](https://news.ycombinator.com/item?id=33354858)
 - [13 investor databases for seed stage Founders looking to raise money](https://twitter.com/alexfmac/status/1426588999532126212)
+- [Fundraising Lore](https://www.lore.vc/) - Guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors. ([Code](https://github.com/dvitanov/lorevc))

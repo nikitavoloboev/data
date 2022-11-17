@@ -6,8 +6,15 @@ title: MDMA
 
 [Guide on how to reduce MDMA neurotoxicity](https://www.reddit.com/r/Borax/comments/w5c1x/a_stepbystep_guide_to_reducing_mdma_neurotoxicity/) is a must read. [Borax Combo](https://www.reddit.com/r/Borax/comments/tufa3t/is_there_an_updated_version_of_the_mix/) is a nice mix with similar effects.
 
+I personally like to take small amount of clean well tested MDMA or [5-MAPB combo](https://realchems.net/blue-bliss-pellets-2-fma-5-meo-mipt-5-mapb) on truly special occasions. Usually as a therapeutic session with my partner. No more than once a year. Even if your relationship is already open to all kind of communication, MDMA helps bring all barriers down and all issues can be discussed freely if there are any or you can simply enjoy each other's company and listen to great music together or play games.
+
+I make sure to take [5-HTP](https://drbvitamins.com/products/doctor-s-best-5-htp-enhanced-with-vitamins-b6-c-120-veggie-caps-8) on the night of the trip before I go to sleep. And following 3-4 days. I also drink a lot of [tea](../health/nutrition/drinks/tea.md) as it helps with recovery too. I usually do it as a habit already. And I continue on with my already rather [healthy diet](../health/nutrition/nutrition.md), [supplements](../health/nutrition/supplements.md) and [daily exercise](../fitness/fitness.md).
+
+That keeps MDMA neorotoxicity to its minimum and more importantly having one year breaks between doses makes each experience very special too without ever losing its magic. It's sometimes nice to mix it up with [psychedelics](psychedelics/psychedelics.md), either [psilocybin mushrooms](psychedelics/tryptamines/tryptamines.md) or [LSD](psychedelics/lysergamides/lsd.md) but don't overdo on the doses.
+
 ## Notes
 
+- [It is good to take 5-HTP and EGCG the night after your experience (assuming you've fully come down) and for 3-7 days after the experience.](https://www.reddit.com/r/MDMA/comments/ng8dsk/how_long_before_taking_mdma_should_i_stop_taking/)
 - For proper mixing LSD & MDMA, take MDMA 3 hours after LSD. They synergize & potentiate each other so don't take a lot of each.
 - [If you decide to dose both, I recommend dosing the Molly 3 to 3.5 hours after you dose Lucy. I like to ride the Lucy peak then on the come down the Molly kicks in and creates an altered trip. But if it is your first Lucy trip I'd say stick to only that and become familiar with the effects. Completely up to you though, both experiences are incredible.](https://www.reddit.com/r/LSD/comments/bntg7c/_/en8y59a/?context=1)
 - [Experts advise to wait at least 3-5 weeks between taking MDMA, and recommend 3 months.](https://www.reddit.com/r/MDMA/comments/ohdx5u/doing_mdma_every_day/)
@@ -42,3 +49,5 @@ title: MDMA
 - [Making MDMA from scratch](https://www.reddit.com/r/Borax/comments/r738jn/making_mdma_from_scratch/)
 - [Current understanding of 5-MAPB toxicity and harm reduction strategies](https://www.reddit.com/r/Borax/comments/s9e1ma/current_understanding_of_5mapb_toxicity_and_harm/)
 - [M&M Clips: Is MDMA Neurotoxic?](https://www.youtube.com/watch?v=8JZ0Q0kjyDw)
+- [Neurotoxicity of ecstasy (MDMA): an overview](https://pubmed.ncbi.nlm.nih.gov/20420572/)
+- [What you need to know before taking MDMA](https://www.reddit.com/r/electricdaisycarnival/comments/36onfb/be_safe_guys_heres_what_you_need_to_know_about/)

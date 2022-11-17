@@ -11,6 +11,7 @@ Love [Italic](https://italic.com/) & [Beauty of Joseon](https://beautyofjoseon.c
 - [Misc. Goods Co.](https://misc-goods-co.com/) - Custom Playing Cards | Natural Deodorant | Etc. ([Twitter](https://twitter.com/Misc_Goods_Co))
 - [Joom](https://www.joom.com/en) ([GitHub](https://github.com/joomcode))
 - [Baby Shop](https://www.babyshop.com/)
+- [Don't Touch My Skin](https://dtmskin.com/)
 
 ## Links
 
@@ -181,3 +182,4 @@ Love [Italic](https://italic.com/) & [Beauty of Joseon](https://beautyofjoseon.c
 - [Tom Ford](https://www.tomford.com/)
 - [Gear In Stock Tracker](https://www.gearinstock.com/)
 - [Saucony](https://www.saucony.com/en/home) - Running Shoes, Clothing, & Accessories.
+- [Cult Beauty](https://www.cultbeauty.com/) - Shop The World's Best Beauty Buys.

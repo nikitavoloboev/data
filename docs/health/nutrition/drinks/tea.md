@@ -37,3 +37,4 @@ I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me fo
 - [Gong Fu Tea|chA Season 1](https://www.youtube.com/playlist?list=PLgnB2QJGjqNqTfmcP4X57GUuWyB4NSDLO) ([Season 2](https://www.youtube.com/playlist?list=PLgnB2QJGjqNrlOpA9acl_ZQPPQDBr5_e0))
 - [white2tea](https://white2tea.com/) - Raw Puer Tea for Passionate Puer Devotees.
 - [Meta Mate](https://metamate.cc/)
+- [Caffeinated teas that state good black](https://www.reddit.com/r/tea/comments/yxt1fr/can_anyone_recommend_a_caffinated_tea_thats/)

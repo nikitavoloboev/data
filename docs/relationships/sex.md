@@ -143,3 +143,5 @@
 - [Some thoughts on sex and intimacy](https://twitter.com/liminal_warmth/status/1592542553668481025)
 - [At what point do you stop wearing condoms?](https://www.reddit.com/r/AskMen/comments/yw8mea/at_what_point_do_you_stop_wearing_condoms/)
 - [What's something that's not supposed to be sexual that turns you on?](https://www.reddit.com/r/sex/comments/ywc22i/whats_something_thats_not_supposed_to_be_sexual/)
+- [NuvaRing](https://www.nuvaring.com/) - Small, flexible vaginal ring used to prevent pregnancy. ([Review](https://www.youtube.com/watch?v=NS0tXmdQv5g&t=285s))
+- [Birth Control Reddit](https://www.reddit.com/r/birthcontrol/)

@@ -60,3 +60,4 @@ title: MQTT
 - [RmqttRaft](https://github.com/rmqtt/rmqtt-raft) - Raft framework, for regular people.
 - [Oidbs: An Open Source MQTT Driven Benchmark Suite for IoT Data (2022)](https://joinbase.io/blog/intro-oidbs/) ([HN](https://news.ycombinator.com/item?id=33304677))
 - [Awesome MQTT](https://github.com/hobbyquaker/awesome-mqtt)
+- [VolantMQ](https://github.com/VolantMQ/volantmq) - High-Performance MQTT Server.

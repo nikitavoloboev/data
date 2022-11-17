@@ -1,6 +1,6 @@
 # Effective altruism
 
-Effective altruism to me essentially means thinking about how I can maximize the good value of my work. On high level, I just try to build [ideas](../ideas/ideas.md) that impact my life directly and hope it resonates to many others.
+Effective altruism to me essentially means thinking about how I can maximize the good value of my work & [assets I own](../economy/investing.md). On high level, I just try to build [ideas](../ideas/ideas.md) that impact my life directly and hope it resonates to many others.
 
 ## Notes
 

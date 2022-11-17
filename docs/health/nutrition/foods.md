@@ -4,7 +4,7 @@ I eat a whole food, [pescatarian diet](../../environment/veganism.md) and experi
 
 I start every morning with some [exercise](../../fitness/fitness.md) and a [morning smoothie](supplements.md) to cover all my micro & macro nutrient needs and get enough protein to grow/maintain muscle. After the smoothie, I usually don't eat for a while.
 
-I love Indian, Japanese & Georgian cuisine the most. Can eat ramen, sushi or hummus all day. I also like eating various nuts (almonds, walnuts), blueberries, bananas and avocados when I am too lazy or want a quick snack. 
+I love Indian, Japanese & Georgian cuisine the most. Can eat ramen, sushi or hummus all day. I also like eating various nuts ([almonds, walnuts](https://www.youtube.com/watch?v=K8HuhaKObZs)), blueberries, bananas and avocados when I am too lazy or want a quick snack.
 
 I use [Mela](https://mela.recipes/) & [Paprika](https://www.paprikaapp.com/) apps to store recipes of foods I love eating. I love finding new recipes and foods through traveling.
 
@@ -169,3 +169,4 @@ Here is a list of various pescatarian foods that I use to experiment and cook wi
 - [How food powers the body's metabolism](https://www.newyorker.com/science/elements/how-food-powers-your-body-metabolism-calories) ([HN](https://news.ycombinator.com/item?id=33369896))
 - [Only 1% of Japan's Soy Sauce Is Made This Way](https://www.youtube.com/watch?v=MKbRu3_Ynpk)
 - [Robot treats 500k plants per hour with 95% less chemicals (2022)](https://www.youtube.com/watch?v=sV0cR_Nhac0) ([HN](https://news.ycombinator.com/item?id=33630179))
+- [Nutrition Tier Lists: Nuts](https://www.youtube.com/watch?v=K8HuhaKObZs)

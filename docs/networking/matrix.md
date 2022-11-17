@@ -121,3 +121,5 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [trinity](https://github.com/bnjbvr/trinity) - Matrix bots in Rust and WebAssembly.
 - [mjolnir](https://github.com/matrix-org/mjolnir) - Moderation tool for Matrix.
 - [Matrix Cookbook (2012)](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+- [Matrix Specification](https://spec.matrix.org/latest/)
+- [Matrix 1.5 release](https://matrix.org/blog/2022/11/17/matrix-v-1-5-release)

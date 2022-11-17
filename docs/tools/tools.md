@@ -173,6 +173,7 @@ One of my favorite things in life is building little tools for solving even the 
 - [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together. ([Verify your Paddle.com Webhooks](https://github.com/daveagill/verify-paddle-webhook))
 - [Omnivore](https://github.com/omnivore-app/omnivore) - Complete, open source read-it-later solution for people who like text. ([Web](https://omnivore.app/))
 - [Online Spirograph Tool](https://nathanfriend.io/inspiral-web/) ([HN](https://news.ycombinator.com/item?id=31526908))
+- [Pomodoro with Friends](https://pomochat.com/) ([HN](https://news.ycombinator.com/item?id=33628831))
 - [LogSnag](https://logsnag.com/) - Real-time feed of events for your projects.
 - [Git.io](https://git.io/) - URL shortener by GitHub.
 - [Miter Meeting Tools](https://miter.co/)

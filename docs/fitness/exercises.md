@@ -26,3 +26,5 @@ I mention exercises I do [here](fitness.md).
 - [The Exercises That Built My Physique (Top 6 That Made a Difference)](https://www.youtube.com/watch?v=qsd3z3xUWhw)
 - [Daily Stuck at Home Training Routine (2020)](https://www.youtube.com/watch?v=5Jth37OywOE)
 - [Wider Shoulders: 4 Mistakes Keeping You Small](https://www.youtube.com/watch?v=TChfFQC0eHs)
+- [Back Exercises Ranked (Best to Worst)](https://www.youtube.com/watch?v=w4vU3tzVM70)
+- [Why I Stopped Squatting and Deadlifting](https://www.youtube.com/watch?v=gso8KF6DiJM)

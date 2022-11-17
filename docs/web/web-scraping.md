@@ -227,3 +227,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Scalpel](https://github.com/fimad/scalpel) - High level web scraping library for Haskell.
 - [Unfurl](https://github.com/jacktuck/unfurl) - Metadata scraper with support for oEmbed, Twitter Cards and Open Graph Protocol for Node.js.
 - [Katana](https://github.com/projectdiscovery/katana) - Crawling and spidering framework. ([HN](https://news.ycombinator.com/item?id=33523546))
+- [PyWebCopy](https://github.com/rajatomar788/pywebcopy) - Locally saves webpages to your hard disk with images, CSS, JS & links as is.

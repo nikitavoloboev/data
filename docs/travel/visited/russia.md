@@ -621,3 +621,5 @@ One other thing I hope Russia does improve on culturally, is minimize all kinds 
 - [FSB insider analysis on Putin's psychology (2022)](https://twitter.com/igorsushko/status/1501763583117389827)
 - [Money Transfers to Russia (2022)](https://www.profee.com/news/money-transfers-to-russia-update)
 - [What's the most beautiful small town or city in Russia? (2022)](https://www.reddit.com/r/AskARussian/comments/yw3r17/whats_the_most_beautiful_small_town_or_city_in/)
+- [Organic Kitchen](https://okindia.com/)
+- [Russia’s Road to Economic Ruin (2022)](https://www.foreignaffairs.com/russian-federation/russias-road-economic-ruin)

@@ -597,3 +597,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Idiot Proof Git (2022)](https://softwaredoug.com/blog/2022/11/09/idiot-proof-git-aliases.html) ([HN](https://news.ycombinator.com/item?id=33532062))
 - [gfh](https://github.com/Ovyerus/gfh) - Git FIDO Helper - Sign your Git commits with multiple resident SSH keys.
 - [What makes Git so hard to use? (2022)](https://www.highflux.io/blog/what-makes-git-hard-to-use) ([HN](https://news.ycombinator.com/item?id=33626284))
+- [Bringing revsets to Git (2022)](https://blog.waleedkhan.name/bringing-revsets-to-git/)

@@ -166,6 +166,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [router](https://github.com/gowww/router) - Lightning fast HTTP router.
 - [Nitric](https://github.com/nitrictech/nitric) - Framework for cloud and serverless apps.
 - [Minima](https://github.com/gominima/minima) - Simple and minimal backend framework for go made to scale.
+- [GoSession](https://github.com/Kwynto/gosession) - Quick session for net/http in Go.
 - [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance. ([Lightning fast and self contained: How to build a Web App with Gin and SQLite](https://www.allhandsontech.com/programming/golang/web-app-sqlite-go/)) ([Lobsters](https://lobste.rs/s/hc6w2b/lightning_fast_self_contained_how_build)) ([Boilerplate](https://github.com/Massad/gin-boilerplate)) ([Examples](https://github.com/gin-gonic/examples))
 - [Gin-OAuth2](https://github.com/zalando/gin-oauth2) - Middleware for Gin Framework users who also want to use OAuth2.
 - [gin-gonic/contrib](https://github.com/gin-gonic/contrib) - Collection of middlewares created by the community.
@@ -2058,3 +2059,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [A consistent logging format for Go (2022)](https://www.youtube.com/watch?v=gd_Vyb5vEw0)
 - [Top Go Web Frameworks, most starred on GitHub](https://github.com/mingrammer/go-web-framework-stars)
 - [goimports-reviser](https://github.com/incu6us/goimports-reviser) - Right imports sorting & code formatting tool (goimports alternative).
+- [GoReleaser-Cross](https://github.com/goreleaser/goreleaser-cross) - Docker image for Go cross-compiling with CGO.
+- [nabaz](https://github.com/nabaz-io/nabaz) - Test runner for the easily distracted.

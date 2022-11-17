@@ -8,6 +8,7 @@ I love all [tryptamines](tryptamines.md) but am yet to breakthrough on DMT. [Man
 
 ## Notes
 
+- [There's one study that implies that the brain releases endogenous DMT while it's in hypoxia, to prevent neuronal death. They confirmed that brain neurons resisted hypoxia much better when they administered DMT (in vitro). This isn't conclusive evidence, but it may explain why some Near Death Experiences resemble DMT experiences, as many Near Death situations imply brain hypoxia.](https://www.reddit.com/r/DMT/comments/yx4qcy/dmt_death/)
 - [Yocan evolve plus is good breakthrough device.](https://www.reddit.com/r/DMT/comments/ydwlt2/will_this_work_for_breakthrough_yocan_evolve_plus/)
 - [High dose of DMT. It'll be the closest thing to death without actually dying. What you realize is, on the other side of that threshold, a core piece of you will persist. Death is an illusion, consciousness exists forever/outside of time.](https://www.reddit.com/r/Psychonaut/comments/7sec24/does_any_psychedelic_allow_you_to_make_peace_with/)
   - I think, to your point, all entheogens will help you (if you're ready for them), but a full fledged high blast of DMT, to quote Terrance McKenna, "is the farthest out one can go and still come back."

@@ -224,3 +224,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [ESP Thread Boarder Router SDK](https://github.com/espressif/esp-thread-br)
 - [Picolibc](https://github.com/picolibc/picolibc) - C library designed for embedded 32- and 64- bit systems.
 - [Understanding the UBI File System in Embedded Devices (2022)](https://serhack.me/articles/understanding-ubi-file-system-embedded-devices-reolink/)
+- [swSIM](https://github.com/tomasz-lisowski/swsim) - SIM card simulator which does not rely on any SIM hardware to work.

@@ -617,3 +617,4 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [ReBenchDB](https://github.com/smarr/ReBenchDB) - Records benchmark results and provides customizable reporting to track and analyze run-time performance of software programs.
 - [16x Engineer](https://16x.engineer/) - Career progression and personal growth for software engineers.
 - [Tips for large-scale codemods (2022)](https://blog.jez.io/codemods-tips/)
+- [QuickRef](https://quickref.me/) - Share quick reference cheat sheet for developers. ([Code](https://github.com/Fechin/reference))

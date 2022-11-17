@@ -302,6 +302,7 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker.
 - [transformer-query](https://github.com/SieR-VR/transformer-query) - Next-generation typescript transformer.
 - [TypeScript compiler PR to be implemented internally with modules](https://github.com/microsoft/TypeScript/pull/51387) ([HN](https://news.ycombinator.com/item?id=33440030))
+- [Assembly interpreter inside of TypeScript's type system (2022)](https://judehunter.dev/blog/assembly-interpreter-in-typescripts-type-system) ([Code](https://github.com/judehunter/ts-asm))
 
 ## Images
 

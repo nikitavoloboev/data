@@ -426,3 +426,4 @@ title: ML Libraries
 - [SparseTIR](https://github.com/uwsampl/sparsetir) - Sparse Tensor Compiler for Deep Learning.
 - [Embetter](https://github.com/koaning/embetter) - Scikit-learn compatible embeddings for computer vision and text.
 - [FlowMC](https://github.com/kazewong/flowMC) - Normalizing-flow enhanced sampling package for probabilistic inference.
+- [PyImpetus](https://github.com/atif-hassan/PyImpetus) - Markov Blanket based feature subset selection algorithm that considers features both separately and together as a group in order to provide not just the best set of features but also the best combination of features.

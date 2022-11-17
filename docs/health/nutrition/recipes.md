@@ -127,3 +127,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [The Fresh Loaf](https://www.thefreshloaf.com/) - Community of Amateur Bakers and Artisan Bread Enthusiasts.
 - [Andrew Zimmern](https://andrewzimmern.com/)
 - [Crouton](https://crouton.app/) - Meal Plan & Recipe Organiser.
+- [Felu - Fit by cooking - YouTube](https://www.youtube.com/c/FeluFitbycooking/videos)

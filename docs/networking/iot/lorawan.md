@@ -4,7 +4,7 @@ title: LoRaWAN
 
 # [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/)
 
-[The Things Network](https://www.thethingsnetwork.org/) is nice project together with their [Things Stack server](https://github.com/TheThingsNetwork/lorawan-stack).
+[The Things Network](https://www.thethingsnetwork.org/) is nice project together with their [Things Stack server](https://github.com/TheThingsNetwork/lorawan-stack). [Building a private LoRa network](https://os.mbed.com/docs/mbed-os/v6.15/apis/LoRa-tutorial.html) is nice guide.
 
 ## Notes
 
@@ -109,3 +109,4 @@ title: LoRaWAN
 - [LMIC-node](https://github.com/lnlp/LMIC-node) - Example LoRaWAN application for a node for The Things Network.
 - [Pico-LoRaWAN](https://github.com/ArmDeveloperEcosystem/lorawan-library-for-pico) - Enable LoRaWAN communications on your Raspberry Pi Pico or any RP2040 based board.
 - [TinyGS](https://github.com/G4lile0/tinyGS) - Open network of Ground Stations distributed around the world to receive and operate LoRa satellites.
+- [Building a private LoRa network](https://os.mbed.com/docs/mbed-os/v6.15/apis/LoRa-tutorial.html)

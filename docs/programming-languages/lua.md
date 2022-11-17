@@ -145,3 +145,4 @@ title: Lua
 - [Selene](https://github.com/Kampfkarren/selene) - Blazing-fast modern Lua linter written in Rust.
 - [Lua Scripts for Roblox](https://github.com/Kampfkarren/Roblox)
 - [Racket-Lua](https://github.com/Bogdanp/racket-lua) - Implementation of Lua 5.4 for Racket. ([Article](https://defn.io/2022/11/12/ann-racket-lua/)) ([HN](https://news.ycombinator.com/item?id=33577089))
+- [Lua Standard Library](https://github.com/shawnjb/lua-standard-library) - Implement popular data structures & algorithms into your Lua applications.

@@ -160,8 +160,9 @@
 - [Don't waste time on maintaining one sided relationships.](https://www.reddit.com/r/datingoverthirty/comments/od3aeb/do_you_ever_feel_like_you_date_the_project_but/h3ydwgi/)
 - Don't burn bridges unnecessarily. Try be remembered as a good friend.
 - Set your own [boundaries for what make you feel well](https://twitter.com/titsay/status/1458749929686384647) and have everyone you interact respect them or cut ties with them.
-- If you like/love someone romantically but it's not mutual. Cut it off instantly. Respect your boundaries and move on. Don't emotionally invest in anything that's of no benefit to you.
-- Unhealthy obsession is destructive. Fill your time with things you love doing as you get over unrequited love. [It will pass](https://www.youtube.com/watch?v=7K3ffDrignk).
+- If you like/love someone romantically but it's not mutual. Cut it off instantly. Respect your boundaries and move on. Don't emotionally invest in anyone/anything that's of no benefit to you.
+- Unhealthy obsession is destructive. Free your mind. Fill your time and fully focus on [things you love doing](../ideas/ideas.md) as you get over unrequited love. [It will pass](https://www.youtube.com/watch?v=7K3ffDrignk).
+- You don't need anyone, including a partner to live a [happy and fulfilling life](../life/happiness.md). Just be your best, happy self. Whatever happens, happens. Be assertive with your actions/intentions but don't force anything if there is any conflict/resistance. One message is enough.
 
 ## Communication
 

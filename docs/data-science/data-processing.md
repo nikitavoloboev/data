@@ -133,3 +133,4 @@
 - [Data Pipeline in Rust](https://github.com/DataPsycho/data-pipelines-in-rust) - Data pipeline example written in Rust with Polars and DataFusion DataFrame package.
 - [Memphis](https://github.com/memphisdev/memphis-broker) - Real-Time Data Processing Platform. ([Web](https://memphis.dev/))
 - [dedup](https://github.com/deepinthebuild/dedup) - Command-line tool for deduplicating entries in a file or stream.
+- [parquet-tools](https://github.com/ktrueda/parquet-tools) - Easy install parquet-tools.

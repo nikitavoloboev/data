@@ -474,3 +474,4 @@ title: PyTorch
 - [torchnnprofiler](https://github.com/kshitij12345/torchnnprofiler) - Context Manager to profile the forward and backward times of PyTorch's nn.Module.
 - [Minimal IK PyTorch](https://github.com/windingwind/minimal-IK-pytorch)
 - [Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP (2022)](https://arxiv.org/abs/2210.04150) ([Code](https://github.com/facebookresearch/ov-seg))
+- [Torchview](https://github.com/mert-kurttutan/torchview) - Visualize PyTorch models.

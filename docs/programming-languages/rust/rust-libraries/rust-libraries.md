@@ -2323,6 +2323,8 @@
 - [Versions](https://github.com/fosskers/rs-versions) - Library for parsing and comparing software version numbers.
 - [validated](https://github.com/fosskers/validated) - Cumulative sibling of `Result` and `Either`.
 - [Scroll](https://github.com/m4b/scroll) - Traits for read/writing generic containers (byte buffers are currently implemented by default).
+- [StateLock](https://github.com/Xudong-Huang/state_lock) - Sync primitive that can be used to wait for a state to be ready.
+- [usdt](https://github.com/oxidecomputer/usdt) - Dust your Rust with USDT probes.
 
 ## Cargo Plugins
 

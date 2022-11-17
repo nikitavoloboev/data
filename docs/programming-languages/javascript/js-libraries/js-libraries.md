@@ -1051,6 +1051,7 @@
 - [Klipse](https://github.com/viebel/klipse) - JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [hastscript](https://github.com/syntax-tree/hastscript) - Utility to create hast trees.
 - [capture-stack-trace](https://github.com/sindresorhus/capture-stack-trace) - Ponyfill for Error#captureStackTrace.
+- [TourGuide](https://github.com/sjmc11/tourguide-js) - JavaScript library written for creating user tours and on-boarding steps for your apps.
 
 ## Links
 

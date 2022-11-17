@@ -179,3 +179,4 @@
 - [svg-halftone](https://halftone.vestera.as/) - Tool for converting raster images to SVG halftone patterns. ([Code](https://github.com/evestera/svg-halftone))
 - [html2svg](https://github.com/fathyb/html2svg) - Convert HTML and canvas to SVG using Chromium. ([Forking Chrome to turn HTML into SVG](https://fathy.fr/html2svg)) ([HN](https://news.ycombinator.com/item?id=33584941))
 - [SSVG: Scalable Scalable Vector Graphics](https://github.com/michaschwab/ssvg) - Library to speed up interactive svg-based data visualizations by transforming them into canvases.
+- [vectormaker](https://vectormaker.co/) - Convert PNG-to-SVG Vectors. ([Code](https://github.com/btk/vectorizer))

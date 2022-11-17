@@ -1,9 +1,9 @@
 # Skin care
 
-Based of [this interview](https://www.youtube.com/watch?v=xv0ISHGGw1A), it said there are 3 proven ways to improve your skin:
+There are 3 [effective ways to improve your skin](https://www.youtube.com/watch?v=OrElyY7MFVs):
 
 1. [Sun screen](https://www.youtube.com/watch?v=6LF0Mkn-pOM)
-2. [Moisturizer](https://www.youtube.com/watch?v=mAfck1vmlHI)
+2. [Moisturizer](https://www.youtube.com/watch?v=mAfck1vmlHI) ([sun screen I use](https://beautyofjoseon.com/products/relief-sun-rice-probiotics) acts as moisturizer too)
 3. [Retinoid](https://www.youtube.com/watch?v=grxmyM7EuDk)
 
 My goals are to have a [healthy skin with minimal wrinkles in future, ideally with some healthy skin glow](https://www.youtube.com/watch?v=8eScT7hr3r8).
@@ -25,6 +25,8 @@ I first do my morning [exercise routine](../fitness/fitness.md) and shower. Then
 
 During the day, I drink a lot of water/[tea](nutrition/drinks/tea.md). I try not touch my face with dirty hands and [trim my nails](https://www.youtube.com/watch?v=GF6smAEFbNE). I also try be as relaxed as I can be no matter the situation. Relaxed face without any frowning.
 
+I also avoid sun bathing on sunny days and apply extra sun screen on exposed body parts when going surfing or playing beach volleyball or generally spending prolonged time in the sun.
+
 ### Evening
 
 Before going to sleep, I do another exercise routine and quick shower.
@@ -37,7 +39,7 @@ So first, I do:
 
 Then accordingly:
 
-2. [[Retinal](https://www.dermstore.com/blog/how-to-apply-retinol/)] Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) on dry face skin. Let it absorb.
+2. [[Retinal](https://www.dermstore.com/blog/how-to-apply-retinol/)] Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) on dry face skin & neck. Let it absorb.
 
 If I took Retinal on previous day, I take:
 
@@ -60,7 +62,7 @@ I sadly have a bunch of deep scars I got from having severe acne when I was youn
 
 Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.md) and clean [wholefoods pescatarian diet](nutrition/nutrition.md) with lots of water/[tea](nutrition/drinks/tea.md) to have noticeable effect on the skin, especially its healthy color.
 
-[Skin Care Addiction subreddit](https://www.reddit.com/r/SkincareAddiction/) is insightful.
+[Skin Care Addiction subreddit](https://www.reddit.com/r/SkincareAddiction/) is insightful. Also enjoyed [this interview](https://www.youtube.com/watch?v=xv0ISHGGw1A) & [overview of skin care essentials (in Russian)](https://www.youtube.com/watch?v=ysXauvhv2Uw) by founder of [Don't Touch My Skin](https://dtmskin.com/) (great skin care company based in Russia).
 
 ## Interesting
 
@@ -154,7 +156,7 @@ The skin in your eye area is still skin so you can cleanse and moisturize the ar
 - [Dr Sam Bunting - YouTube](https://www.youtube.com/@DrSamBunting/videos)
 - [Every Geek and Gorgeous product ranked (2022)](https://www.youtube.com/watch?v=6HPjd5BDNC8)
 - [Right way to apply Moisturizer](https://www.philosophiabotanica.com/the-right-way-to-apply-moisturizer)
-- [Don't Touch My Skin](https://dtmskin.com/) ([YouTube](https://www.youtube.com/channel/UCn5B9ftikZI6ht-XBFq1g4Q/videos))
+- [Don't Touch My Skin](https://dtmskin.com/) ([YouTube](https://www.youtube.com/channel/UCn5B9ftikZI6ht-XBFq1g4Q/videos)) ([Обзор](https://www.youtube.com/watch?v=M8O-Qot2d0A))
 - [How to Use a Retinoid like a Dermatologist (2021)](https://www.youtube.com/watch?v=grxmyM7EuDk)
 - [Dermatologists Debunk Sunscreen Myths (2021)](https://www.youtube.com/watch?v=6LF0Mkn-pOM)
 - [How to Use Geek & Gorgeous A Game 0,05% and 0,1% Retinal Serum](https://www.youtube.com/watch?v=nGxBxp3av-Y)
@@ -167,3 +169,7 @@ The skin in your eye area is still skin so you can cleanse and moisturize the ar
 - [Beauty of Joseon Relief Sun Rice + Probiotics - Really SPF 50? | Doctors Review](https://www.youtube.com/watch?v=JaOQ0nMrxPc)
 - [Активные ингредиенты: как применять, как сочетать ❘ DTMSkin (2021)](https://www.youtube.com/watch?v=E6Z9tGTH_nE)
 - [Самый простой гид по уходу за кожей | DTMSkin (2022)](https://www.youtube.com/watch?v=ysXauvhv2Uw)
+- [Don't touch my face - Telegram](https://t.me/donttouchmyface)
+- [Нормально о косметике by Маша Ворслав (2019)](https://www.goodreads.com/book/show/44501379)
+- [Мой уход за кожей, макияж и укладка (2022)](https://www.youtube.com/watch?v=TNAeZ9GxQkc)
+- [Все об уходе за кожей тела (сухость, кератоз, прыщи на спине)](https://www.youtube.com/watch?v=LXKOFZch3LE)

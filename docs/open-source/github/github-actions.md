@@ -269,6 +269,8 @@ title: GitHub actions
 - [AutoUpdate](https://github.com/chinthakagodawita/autoupdate) - GitHub Action that auto-updates pull requests branches, whenever changes are pushed to their destination branch.
 - [Schedule regularly occurring meetings via GitHub Issue](https://github.com/pkgjs/meet)
 - [Delete Deployments](https://github.com/int128/delete-deployments-action) - Action to clean up outdated GitHub Deployments.
+- [HTTP Request Action](https://github.com/fjogeleit/http-request-action) - Create HTTP Requests in GitHub Actions.
+- [YAML Update Action](https://github.com/fjogeleit/yaml-update-action) - Update YAML property with dynamic values.
 
 ## Go
 
@@ -285,6 +287,7 @@ title: GitHub actions
 - [x](https://github.com/go-faster/x) - Go faster reusable workflows.
 - [coverage-badge-go](https://github.com/tj-actions/coverage-badge-go) - Generate coverage badge for go modules.
 - [actions-goveralls](https://github.com/shogo82148/actions-goveralls) - Coveralls GitHub Action with Go integration powered by mattn/goveralls.
+- [ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - GitHub Action for xgo, Go CGO cross compiler.
 
 ## Rust
 

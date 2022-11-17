@@ -298,3 +298,4 @@
 - [C Isn't a Programming Language Anymore (2022)](https://faultlore.com/blah/c-isnt-a-language/) ([HN](https://news.ycombinator.com/item?id=33509223))
 - [What tool do you use to document your code in C language? (2022)](https://www.reddit.com/r/embedded/comments/ypktfv/what_tool_do_you_use_to_document_your_code_in_c/)
 - [cparse](https://github.com/jafarlihi/cparse) - LR parser generator for C.
+- [Considering C99 for curl (2022)](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/)

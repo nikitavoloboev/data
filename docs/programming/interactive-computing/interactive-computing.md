@@ -1,6 +1,8 @@
 # Interactive computing
 
-[Observable Notebooks](https://observablehq.com/) are amazing.
+[Observable Notebooks](https://observablehq.com/) are amazing for playing with data & visualizing it nicely.
+
+[Inventing on Principle](https://www.youtube.com/watch?v=EGqwXt90ZqA) & [Simply Make Interactive Diagrams](https://www.youtube.com/watch?v=gT9Xu-ctNqI) are great talks.
 
 ## Links
 
@@ -61,3 +63,4 @@
 - [Programming Portals (2022)](https://maggieappleton.com/programming-portals) ([Tweet](https://twitter.com/Mappletons/status/1584239896520056833))
 - [Potluck: Dynamic documents as personal software (2022)](https://www.inkandswitch.com/potluck/) ([HN](https://news.ycombinator.com/item?id=33423706))
 - [Works - oimo.io](https://oimo.io/works)
+- ["Diagrammar: Simply Make Interactive Diagrams" by Pontus Granström (2022)](https://www.youtube.com/watch?v=gT9Xu-ctNqI)

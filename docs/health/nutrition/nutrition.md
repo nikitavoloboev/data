@@ -127,3 +127,5 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - [The Diet Habits that Built my Physique (Do's and Don'ts) (2022)](https://www.youtube.com/watch?v=iasekg57V3Y)
 - [Athletic Greens](https://athleticgreens.com/en)
 - [Good Green Vitality](https://www.nuzest.co.uk/products/good-green-vitality) ([Guide to Using](https://www.nuzest.co.uk/blogs/nutrition/a-guide-to-using-good-green-vitality))
+- [What to do if You're SKINNY FAT (BULK vs CUT vs RECOMP)](https://www.youtube.com/watch?v=7d5LfASoVf8)
+- [What Joe Delaney eats in a day](https://www.youtube.com/watch?v=-CbcVcc8Mfs)

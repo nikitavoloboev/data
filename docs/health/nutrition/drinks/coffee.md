@@ -81,3 +81,4 @@ Drink coffee on occasions, try not to do it daily as to get actual effects from 
 - [The Science of Coffee — Examining extraction](https://tylercipriani.com/coffee-extract/)
 - [James Hoffmann Answers Coffee Questions From Twitter (2022)](https://www.youtube.com/watch?v=pjJqOgFyCxI)
 - [I don't like coffee. Can James Hoffmann change that? (2021)](https://www.youtube.com/watch?v=Z-iNAyu-ejo)
+- [Beanconqueror](https://github.com/graphefruit/Beanconqueror) - Open source project for coffee enthusiasts.
