@@ -18,6 +18,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 
 ## Interesting
 
+- [Lemon and Blueberry Plant-based Protein Pancakes](https://www.nuzest.co.uk/blogs/recipes/lemon-and-blueberry-protein-pancakes)
 - [Rhonda’s micronutrient smoothie](https://www.foundmyfitness.com/reports/micronutrient-smoothie.pdf). Very healthy. Goes over why it is healthy too.
 - [Curried Butternut Squash Soup](https://minimalistbaker.com/curried-butternut-squash-soup/#wprm-recipe-container-35467)
 - [Garlic bread](https://www.simplyrecipes.com/recipes/garlic_bread/)

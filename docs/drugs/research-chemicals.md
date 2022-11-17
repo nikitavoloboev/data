@@ -4,6 +4,10 @@ title: Research chemicals
 
 # [Research chemicals](https://psychonautwiki.org/w/index.php?title=Research_chemicals)
 
+Mostly only do occasional trips on [tryptamines](psychedelics/tryptamines/tryptamines.md) and [lysergamides](psychedelics/lysergamides/lysergamides.md). Usually with 2+ month breaks in between.
+
+[Realchems](https://realchems.net/) is great vendor.
+
 ## Interesting
 
 - [3-HO-PCP](https://psychonautwiki.org/wiki/3-HO-PCP)

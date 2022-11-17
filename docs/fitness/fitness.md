@@ -106,3 +106,4 @@ Most importantly I try to keep my back muscles in shape as due to nature of my w
 - [Dr. Gains - YouTube](https://www.youtube.com/c/DrGains/videos)
 - [Joe Delaney - YouTube](https://www.youtube.com/user/JoeDelaneyy/videos)
 - [The 5 Golden rules for Building Muscle! (95% of your gains come from these) (2021)](https://www.youtube.com/watch?v=ti7j2yyVF6E)
+- [How Long Until You Can See Your Abs? (If You Start Now) (2022)](https://www.youtube.com/watch?v=8JxTK_3rEII)

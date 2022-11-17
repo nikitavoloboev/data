@@ -36,6 +36,7 @@
 - [Corner House designed by Archier](https://twitter.com/ugmonk/status/1526208540674768898)
 - [Lakeside Theatre / Hexia Architects + MADAM](https://www.archdaily.com/988443/lakeside-theatre-hexia-architects-plus-madam)
 - [Inside Sienna Miller's Secluded Country Cottage](https://www.youtube.com/watch?v=w4HmK4JCN2U)
+- [Romee Strijd's new home](https://www.youtube.com/watch?v=_hP6SNX2Xps)
 
 ## Inspiring
 

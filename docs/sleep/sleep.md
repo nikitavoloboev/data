@@ -6,6 +6,8 @@ I [never limit my sleep and I try to sleep as much as my body needs](https://www
 
 I try to go to bed at the same time each day to maintain the Circadian rhythm.
 
+Heard nice things about [Eight Sleep](https://www.eightsleep.com) Pod & mattresses.
+
 ## Notes
 
 - [Consuming alcohol prior to sleep increases your avg sleeping heart rate by >10% because your liver is metabolizing alcohol and your body producing cortisol. You are forcing your heart to beat an extra 3k times during the night + getting lower sleep quality and lower recovery](https://twitter.com/m_franceschetti/status/1375867987614371840)
@@ -26,6 +28,7 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [Matthew Walker's "Why We Sleep" Is Riddled with Scientific and Factual Errors (2019)](https://guzey.com/books/why-we-sleep/) ([HN](https://news.ycombinator.com/item?id=26684519))
 - [Ask HN: Best sleep trackers? (2020)](https://news.ycombinator.com/item?id=22685537)
 - [HN: Deep Sleep May Help the Brain Clear Alzheimer's Toxins (2020)](https://news.ycombinator.com/item?id=21414565)
+- [Eight Sleep](https://www.eightsleep.com/) - Ultimate sleep fitness machine.
 - [Pod Pro](https://www.eightsleep.com/eight-pod-sleep-cool/) - Smart cooling mattress.
 - [Pod Pro Cover](https://www.eightsleep.com/product/pod-pro-cover/)
 - [The Effects on Cognition of Sleeping 4 Hours per Night for 12-14 Days (2020)](https://guzey.com/science/sleep/14-day-sleep-deprivation-self-experiment/) ([HN](https://news.ycombinator.com/item?id=23211068))

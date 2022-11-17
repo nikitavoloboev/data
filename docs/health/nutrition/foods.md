@@ -2,14 +2,9 @@
 
 I eat a whole food, [pescatarian diet](../../environment/veganism.md) and experiment by trying out new [pescatarian recipes](recipes.md). I try exclude all unhealthy food. Specifically sugar. And dairy.
 
-Most of my diet consists of eating raw foods like various nuts (almonds, walnuts), blueberries, bananas and avocados. I love Indian, Japanese & Georgian cuisine the most. Can eat ramen, sushi or hummus all day.
+I start every morning with some [exercise](../../fitness/fitness.md) and a [morning smoothie](supplements.md) to cover all my micro & macro nutrient needs and get enough protein to grow/maintain muscle. After the smoothie, I usually don't eat for a while.
 
-I try to cover my micro & macro nutrient needs by consuming nutritious food & taking few [essential supplementing](supplements.md). I sometimes make
-nutritious smoothies.
-
-I sometimes skip breakfast and eat at afternoon. I am not a fan of [fasting](fasting.md) for longer than 1 day as I do feel bad during and after it for making it worth it.
-
-I try to always keep nuts & fruits at home as they make for healthy quick snacks.
+I love Indian, Japanese & Georgian cuisine the most. Can eat ramen, sushi or hummus all day. I also like eating various nuts (almonds, walnuts), blueberries, bananas and avocados when I am too lazy or want a quick snack. 
 
 I use [Mela](https://mela.recipes/) & [Paprika](https://www.paprikaapp.com/) apps to store recipes of foods I love eating. I love finding new recipes and foods through traveling.
 

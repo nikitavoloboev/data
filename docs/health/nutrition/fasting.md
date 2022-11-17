@@ -1,8 +1,8 @@
 # Fasting
 
-I naturally do intermittent fasting whereby I fast for a majority of the day and only eat [highly nutritious whole food plant based food](foods.md).
+There's quite a few [proven benefits of fasting especially as far as cell repair goes](https://hubermanlab.com/effects-of-fasting-and-time-restricted-eating-on-fat-loss-and-health/). I don't find doing full day fasts productive for me as I do feel very bad during and after them.    
 
-I sometimes do one day fasts but not routinely. [Here](https://news.ycombinator.com/item?id=30625586) is a nice guide.
+So only fasting I actually do, if you can call it this, is skipping food in evening, before sleep. That gives my body about 12 hours or so of no food, until I take my [morning smoothie](supplements.md) on following day. 
 
 ## Notes
 

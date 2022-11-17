@@ -1,8 +1,10 @@
 # Nutrition
 
-[This book](https://www.goodreads.com/book/show/25663961-how-not-to-die) contains all the evidence needed to prove that a whole food, [plant based diet](../../environment/veganism.md) is the best thing you can do to mitigate diseases and living a healthy life. The author also has a [website](https://nutritionfacts.org) where he blogs about various things nutrition and [health](../health.md).
+[How Not to Die Book](https://nutritionfacts.org/book/how-not-to-die/) contains all the evidence needed to prove that a whole food, [plant based diet](../../environment/veganism.md) is the best thing you can do to mitigate diseases and living a healthy life. The author also has a [website](https://nutritionfacts.org) where he blogs about various things nutrition and [health](../health.md).
 
-Knowing this, I eat [whole food, pescatarian diet](foods.md) & take [few supplements](supplements.md). I do minimize the days on which I do eat fish to minimize my contributions to [overfishing which is a serious problem](https://www.worldwildlife.org/threats/overfishing).
+Knowing this, I eat [whole food, pescatarian diet](foods.md) with a daily [morning smoothie I make + supplements](supplements.md) after a [morning workout](../../fitness/exercises.md).
+
+I minimize the days on which I do eat fish to few times a month as to minimize my contributions to [overfishing which is a serious problem](https://www.worldwildlife.org/threats/overfishing).
 
 I try drink only water/[tea](drinks/tea.md) with occasional [coffee](drinks/coffee.md). No added sugar in food/drinks. No dairy too. I love exploring [new and interesting pescatarian recipes](recipes.md).
 
@@ -124,3 +126,4 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - [Is algae the new kale? (2022)](https://www.nationalgeographic.com/environment/article/is-it-time-to-start-eating-algae) ([HN](https://news.ycombinator.com/item?id=33562614))
 - [The Diet Habits that Built my Physique (Do's and Don'ts) (2022)](https://www.youtube.com/watch?v=iasekg57V3Y)
 - [Athletic Greens](https://athleticgreens.com/en)
+- [Good Green Vitality](https://www.nuzest.co.uk/products/good-green-vitality) ([Guide to Using](https://www.nuzest.co.uk/blogs/nutrition/a-guide-to-using-good-green-vitality))

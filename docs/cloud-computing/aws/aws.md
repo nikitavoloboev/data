@@ -408,3 +408,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [alterNAT](https://github.com/1debit/alternat) - High availability implementation of AWS NAT instances.
 - [AWS IAM Roles, a tale of unnecessary complexity (2022)](https://infosec.rodeo/posts/thoughts-on-aws-iam/) ([HN](https://news.ycombinator.com/item?id=33566419))
 - [Empire](https://github.com/remind101/empire) - PaaS built on top of Amazon EC2 Container Service (ECS).
+- [Now Go Build with Werner Vogels | AWS - YouTube](https://www.youtube.com/playlist?list=PLhr1KZpdzukdIpgzSSCkNsnRAwDz6Xx5B)

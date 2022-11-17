@@ -20,11 +20,13 @@ My favorite psychedelics currently are [4-AcO-DMT](https://psychonautwiki.org/wi
 
 Want to try [mescaline](https://www.reddit.com/r/mescaline/comments/uiz47o/wow/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) at some point too and actually breakthrough on DMT.
 
-I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=en&mt=8) iOS app to track all my doses. This helps me make sure I don't abuse any substance.
+I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=en&mt=8) iOS app to track all my doses. This helps me make sure I don't abuse any substance. Usually take 2+ month breaks in between.
 
 I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) one day.
 
 Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md) taught me a lot about [life](../../life/life.md) and [death](../../life/death.md) and how to always find my [happiness](../../life/happiness.md) amidst all the universe's chaos.
+
+[Realchems](https://realchems.net/) is great vendor.
 
 ## Notes
 

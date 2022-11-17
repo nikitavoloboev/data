@@ -215,6 +215,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Colin Woodbury](https://www.fosskers.ca/en/blog)
 - [Vlad Moldovean](https://vmoldo.com/blog/)
 - [Longhorn](https://threedots.ovh/blog/)
+- [All Things Distributed](https://www.allthingsdistributed.com/articles.html)
 
 ## Notes
 

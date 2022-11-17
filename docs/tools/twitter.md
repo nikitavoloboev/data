@@ -249,3 +249,4 @@ I also find it [frustrating that Twitter iOS client doesn't have the ability to 
 - [Tracking the far right on Twitter](https://github.com/travisbrown/twitter-watch)
 - [How to Search Your Entire Twitter Archive With One Line of jq (2022)](https://www.ianwootten.co.uk/2022/11/14/how-to-search-your-entire-twitter-archive-with-one-line-of-jq/)
 - [Why Dave LaMacchia stayed at Twitter for 9+ years (2022)](https://twitter.com/_dml/status/1592619959947243520)
+- [Twitter's amazing engineering work over years (2022)](https://twitter.com/danluu/status/1592774269733601281)

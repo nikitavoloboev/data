@@ -2,15 +2,32 @@
 
 Supplements I try take daily are inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/).
 
+Every [morning](../../focusing/processes.md#morning), after I do my [morning exercise](../../fitness/fitness.md), I do my [morning smoothie](https://www.youtube.com/watch?v=OUGQBV5B2S4). I mix:
+
+- 2 scoops of [Clean Lean Protein (Just Natural taste)](https://www.nuzest.co.uk/products/clean-lean-protein) (~ 25g)
+- 1 scoop of [Good Green Vitality](https://www.nuzest.co.uk/products/good-green-vitality) (~ 10g)
+- 1 raw egg
+- Spinach (for extra fiber)
+- Frozen blueberries (for better taste + healthy)
+- Plain greek yugurt (for texture)
+- [Alpro Unsweetened Almond Milk](https://www.alpro.com/uk/products/drinks/almond-drinks/almond-roasted-no-sugars/) (fill the blender glass)
+- some chia, hemp and flax seeds (not much)
+
+After drinking the smoothie, I also take:
+
 - [Vegan Omega 3 DHA & EPA via Algal oil](https://www.uganutraceuticals.com/product/omegor-veg) (1 capsule)
 - [Vitamin D3 + K2](https://www.amazon.com/Bronson-Vitamin-Supplement-Support-Capsules/dp/B0792Z6434) (1 capsule)
 - [Magnesium](https://nootropicsdepot.com/magtein-magnesium-l-threonate-capsules/) (1 capsule)
 
-I also take a portion of [Athletic Greens](https://athleticgreens.com/en) every other day as part of my morning shake.
+That's often enough to get me going until afternoon at which point, I will either make some cooked food or eat out (healthy).
 
-I try to minimize the number of things my body has to process to bare essentials. I maximize the quality of food I eat by eating [natural whole food pescatarian food](foods.md). I also fast but not routinely, usually by just skipping breakfast.
+I don't try to manage my eating of generally healthy natural whole food pescatarian food. Especially as I try to lead a more active lifestyle already. 
 
-And I enjoy taking [psychedelics](../../drugs/psychedelics/psychedelics.md) once in few months. [Tryptamines](../../drugs/psychedelics/tryptamines/tryptamines.md) being my favorite.
+I generally avoid sugary foods, snacks and drinks strictly. Makes me appreciate the finer tastes of non processed foods and ways you can cook them. I try to experiment with various [pescatarian recipes](recipes.md) often too.
+
+I sometimes don't eat during evenings so as to [fast](fasting.md) just a little before I take my morning smoothie on following day.
+
+Also whilst not strictly supplements, I enjoy taking [psychedelics](../../drugs/psychedelics/psychedelics.md) with breaks of at least 2+ months. [Tryptamines](../../drugs/psychedelics/tryptamines/tryptamines.md) being my favorite, usually consumed through actual home grown psilocybin mushrooms & not some [research chemical](../../drugs/research-chemicals.md) like [4-AcO-DMT](https://psychonautwiki.org/wiki/4-AcO-DMT).
 
 ## Interesting
 
@@ -74,3 +91,6 @@ Some maybe interesting supplements. Some I tried but stopped.
 - [Best D3 supplement](https://www.reddit.com/r/Supplements/comments/px6a1u/everyone_please_list_which_brand_of_vitamin_d3/)
 - [Athletic Greens](https://athleticgreens.com/en)
 - [Why You Should Avoid Athletic Greens (AG1)](https://www.youtube.com/watch?v=ecy8JrM5KFI)
+- [Garden of Life](https://www.gardenoflife.com/) - Clean Vitamins and Supplements.
+- [Nuzest](https://www.nuzest.co.uk/) - Premium plant based nutrition.
+- [Respect Food Recipe: Egg Smoothie](https://www.youtube.com/watch?v=nar26GBesSU)
