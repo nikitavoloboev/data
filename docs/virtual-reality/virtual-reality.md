@@ -99,3 +99,4 @@ I am confident that the advancements in computer vision can let you write your o
 - [Ask HN: Working in a VR Headset? (2022)](https://news.ycombinator.com/item?id=33482215)
 - [Gearchy](https://github.com/devidw/gearchy) - Internet's first Goggles manager.
 - [Zuckerberg's leaked email on VR strategy (2015)](https://www.scribd.com/document/399594551/2015-06-22-MARK-S-VISION) ([HN](https://news.ycombinator.com/item?id=33538742))
+- [Building a Dynamic VRChat World (2022)](https://blog.natalie.ee/posts/building-dynamic-vrchat-world/)
