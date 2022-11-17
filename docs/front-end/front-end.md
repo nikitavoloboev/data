@@ -122,3 +122,4 @@
 - [Headless UI Float](https://github.com/ycs77/headlessui-float) - Easily use Headless UI with Floating UI to position floating elements.
 - [Фронтенд — это не больно](https://bespoyasov.ru/front-not-pain/) - Пособие для разработчиков и сочувствующих. ([Code](https://github.com/bespoyasov/front-not-pain))
 - [Composition Comparison](https://github.com/TyOverby/composition-comparison) - Collection of UI-framework compsition challenges.
+- [Modern FrontEnds Live](https://www.modernfrontends.live/) ([Twitter](https://twitter.com/ModernFrontends))

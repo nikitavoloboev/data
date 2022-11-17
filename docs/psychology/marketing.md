@@ -194,6 +194,7 @@ Best way to do marketing is simply [launching features often and sharing updates
 - [Race car growth framework](https://twitter.com/lennysan/status/1579843486672556033)
 - [Ask HN: How to Learn to Sell? (2022)](https://news.ycombinator.com/item?id=33224240)
 - [Companies that are best at telling their story](https://twitter.com/packyM/status/1582018462574346240)
+- [Spending 0$ on traditional paid marketing but still acquiring customers (2022)](https://twitter.com/ankurnagpal/status/1593026491058917377)
 
 ## Images
 

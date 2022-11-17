@@ -17,6 +17,7 @@
 - [You don’t have to deposit to a sperm bank for IVF. If a person wanted to do IVF after a vasectomy they can extract the sperm from your testicles and do it that way.](https://www.reddit.com/r/sexover30/comments/y1ck83/disagreement_on_vasectomy/)
 - [Move sideways, not up and down](https://www.tiktok.com/@msjessicagarner/video/7143072375746202885)
 - [Prone bone or missionary with a pillow are top positions that can hit the g spot](https://www.reddit.com/r/sexover30/comments/yudhu1/positions_to_hit_the_g_spot/)
+- [Always use condoms before both been tested for STD's and both sides are aware of the pregnancy risks and willing to take them (if that happens) or use female contraception consistently.](https://www.reddit.com/r/AskMen/comments/yw8mea/at_what_point_do_you_stop_wearing_condoms/)
 
 ## Links
 
@@ -140,3 +141,5 @@
 - [Positions to hit the g spot](https://www.reddit.com/r/sexover30/comments/yudhu1/positions_to_hit_the_g_spot/)
 - [Sex Positions - AskMen](https://www.askmen.com/sex/sex_positions/)
 - [Some thoughts on sex and intimacy](https://twitter.com/liminal_warmth/status/1592542553668481025)
+- [At what point do you stop wearing condoms?](https://www.reddit.com/r/AskMen/comments/yw8mea/at_what_point_do_you_stop_wearing_condoms/)
+- [What's something that's not supposed to be sexual that turns you on?](https://www.reddit.com/r/sex/comments/ywc22i/whats_something_thats_not_supposed_to_be_sexual/)

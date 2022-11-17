@@ -221,3 +221,4 @@
 - [Annual Performance Reviews Ruin Everything (2022)](https://medium.com/@ElizAyer/annual-performance-reviews-ruin-everything-7464e07dff3a)
 - [Workday](https://www.workday.com/) - Global HR Management System.
 - [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview) ([Tweet](https://twitter.com/lennysan/status/1591470516178948096))
+- [Managing tech debt in teams](https://twitter.com/clairevo/status/1592561009671409664)

@@ -70,3 +70,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [4-7-8 Breathing](https://breathing.m15y.com/)
 - [Ask HN: How to Stop Caring (Professionally)? (2022)](https://news.ycombinator.com/item?id=33054652)
 - [Box Breathing Techniques and Benefits](https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900) ([HN](https://news.ycombinator.com/item?id=33586383))
+- [Science-based tools to reduce stress](https://twitter.com/hubermanlab/status/1592968635643219968)

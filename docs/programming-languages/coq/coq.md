@@ -171,3 +171,4 @@ title: Coq
 - [CoqEAL](https://github.com/coq-community/coqeal) - Coq Effective Algebra Library.
 - [IO](https://github.com/coq-io/io) - Library for effects in Coq.
 - [Bidirectional Programming with Monadic Profunctors](https://github.com/Lysxia/profunctor-monad)
+- [CoLoR](https://github.com/fblanqui/color) - Coq library on rewriting theory and termination.

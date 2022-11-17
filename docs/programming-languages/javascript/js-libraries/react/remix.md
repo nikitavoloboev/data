@@ -183,3 +183,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Remix web framework aquired by Shopify (2022)](https://remix.run/blog/remixing-shopify) ([HN](https://news.ycombinator.com/item?id=33405997))
 - [Remix-stubs](https://github.com/jrestall/remix-stubs) - Example Remix unit testing stubs implementation and Storybook integration.
 - [Zodix](https://github.com/rileytomasek/zodix) - Zod utilities for Remix loaders and actions.
+- [Auth in Remix (2022)](https://twitter.com/matt_stobbs/status/1593000487934365697)

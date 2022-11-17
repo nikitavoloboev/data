@@ -4,7 +4,7 @@ Currently I only use Apple's time machine to do backups weekly. iOS is fully bac
 
 Previously I tried using [Arq](https://www.arqbackup.com) to make scheduled (every 120 hours & after 22:00) encrypted cloud backups of macOS to [BackBlaze](https://www.backblaze.com/) but stopped using it. Might start again though.
 
-I love the fact that I can set up any new mac or phone to use my `exact` and perfect setup without any cruft in seconds. All my [dotfiles](https://github.com/nikitavoloboev/dotfiles) are online and can be setup on any new mac via few commands, thanks to [Nix](../package-managers/nix/nix.md) and some scripts I wrote. I try keep everything declarative so it's reusable by all, including me.
+I love the fact that I can set up any new mac or phone to use my exact and perfect setup without any cruft in seconds. All my [dotfiles](https://github.com/nikitavoloboev/dotfiles) are online and can be setup on any new mac via few commands, thanks to [Nix](../package-managers/nix/nix.md) and some scripts I wrote. I try keep everything declarative so it's reusable by all, including me.
 
 [Restic](https://restic.net/) & [Walrus](https://github.com/Clivern/Walrus) seem nice.
 

@@ -150,3 +150,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Tropy](https://tropy.org/) - Explore your research photos. ([Code](https://github.com/tropy/tropy))
 - [Real peer review has never been tried (2022)](https://www.worksinprogress.co/issue/real-peer-review/)
 - [How to become a pirate archivist (2022)](http://annas-blog.org/blog-how-to-become-a-pirate-archivist.html) ([HN](https://news.ycombinator.com/item?id=33240701))
+- [Unpaywall](https://unpaywall.org/) - Open database of 20 million free scholarly articles.

@@ -18,7 +18,7 @@ I currently don't go to the gym so do workouts at home without any special gear 
 
 Mostly taken as inspiration from this [daily home training routine](https://www.youtube.com/watch?v=5Jth37OywOE) & [morning routine](https://www.youtube.com/watch?v=pc2xlLuCp4Y) videos. The way [Joe](https://www.youtube.com/user/JoeDelaneyy/videos) lays out the [plan with reps](https://youtu.be/5Jth37OywOE?t=571) is interesting, I currently try to just push each rep until failure.
 
-Videos on [essential exercises](https://www.youtube.com/watch?v=s0fA0gXqREQ) & [golden rules to build muscle](https://www.youtube.com/watch?v=ti7j2yyVF6E) are a must watch. Sadly most of the exercises on the list require some gear. I will update the routine once I get into position where I have access to such gear.
+Videos on [essential exercises](https://www.youtube.com/watch?v=s0fA0gXqREQ), [golden rules to build muscle](https://www.youtube.com/watch?v=ti7j2yyVF6E) & [beginner mistakes to avoid](https://www.youtube.com/watch?v=thV6p47dhaU) are a must watch. Sadly most of the exercises on the list require some gear. I will update the routine once I get into position where I have access to such gear.
 
 ### Other tips
 
@@ -107,3 +107,4 @@ Most importantly I try to keep my back muscles in shape as due to nature of my w
 - [Joe Delaney - YouTube](https://www.youtube.com/user/JoeDelaneyy/videos)
 - [The 5 Golden rules for Building Muscle! (95% of your gains come from these) (2021)](https://www.youtube.com/watch?v=ti7j2yyVF6E)
 - [How Long Until You Can See Your Abs? (If You Start Now) (2022)](https://www.youtube.com/watch?v=8JxTK_3rEII)
+- [How I'd Train if I Started Over with Zero Gains - mistakes to avoid (2022)](https://www.youtube.com/watch?v=thV6p47dhaU)

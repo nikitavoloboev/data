@@ -93,6 +93,7 @@ Having said all of above, I think the most effective approach is having a great 
 - [Change your mentality from “sex sex sex” to “I wanna vibe with someone."](https://www.reddit.com/r/seduction/comments/wb67py/just_had_another_ons_and_im_starting_to_doubt/)
 - [Work on your verbal game. seduce her with your words. work on your sensual game; backrubs and foot massages are your friend. work on your sex talk; get her in the mood. make sure youre building intimacy. and make sure youre asking for consent before you touch her so she feels respected, and knows you have communication skills and confidence.](https://www.reddit.com/r/seduction/comments/wey617/how_can_i_make_better_moves_when_were_both_laying/)
 - [I think the hottest thing in a guy is intention. Intention with his life, with his work, with his relationships, with his dreams, with his physical body. Intention creates assertive, confident men that make you feel safe. Intention however, is insanely rare.](https://twitter.com/enlightenedcoop/status/1566238228650377216)
+- [Women are attracted to competence. How a woman determines competence can be very unique and strange. Some women get hot and bothered when their guy parallel parks. Hands and forearms are super common. Skill and precision with the fingers specifically (i.e. playing guitar, making pottery) makes you think those talents translate elsewhere. My wife gets sexually aroused anytime I fix something.](https://www.reddit.com/r/sex/comments/ywc22i/whats_something_thats_not_supposed_to_be_sexual/)
 
 ## Links
 

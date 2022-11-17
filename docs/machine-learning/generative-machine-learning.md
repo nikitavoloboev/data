@@ -150,3 +150,4 @@
 - [Stable-Diffusion + Fused CUDA kernels](https://github.com/tfernd/sd-fused)
 - [Dall-E 2 AI Image Generator](https://dalle-2.vercel.app/) - Using Upstash for message queue + Redis. ([Code](https://github.com/domeccleston/dalle-2))
 - [Versatile Diffusion: Text, Images and Variations All in One Diffusion Model (2022)](https://arxiv.org/abs/2211.08332) ([Code](https://github.com/SHI-Labs/Versatile-Diffusion))
+- [How diffusion models work](https://twitter.com/iScienceLuvr/status/1592860019057250304)

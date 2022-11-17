@@ -25,3 +25,4 @@ I mention exercises I do [here](fitness.md).
 - [Must Do Exercises for a Complete Physique](https://www.youtube.com/watch?v=s0fA0gXqREQ)
 - [The Exercises That Built My Physique (Top 6 That Made a Difference)](https://www.youtube.com/watch?v=qsd3z3xUWhw)
 - [Daily Stuck at Home Training Routine (2020)](https://www.youtube.com/watch?v=5Jth37OywOE)
+- [Wider Shoulders: 4 Mistakes Keeping You Small](https://www.youtube.com/watch?v=TChfFQC0eHs)

@@ -402,3 +402,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [The Worst of T3 Stack (2022)](https://www.youtube.com/watch?v=-R9uHm0G5m4)
 - [next-real-viewport](https://github.com/basementstudio/next-real-viewport) - No more horizontal scroll when using 100vw.
 - [Ideas from Laravel in NextJS](https://twitter.com/m1guelpf/status/1583863982380617728)
+- [Using Fonts in Next.js (Google Fonts, Local Fonts, Tailwind CSS) (2022)](https://www.youtube.com/watch?v=L8_98i_bMMA)

@@ -14,6 +14,7 @@ title: Mastodon
 - [Scholar Social](https://scholar.social/about) - Federated microblogging for academics.
 - [botsin.space](https://botsin.space/about) - Mastodon instance for bots and bot allies.
 - [crimew.gay](https://crimew.gay/about)
+- [Macaw-Social](https://macaw.social/explore) - Small server by some ex-tweeps mostly for other tweeps and friends.
 
 ## Notes
 
