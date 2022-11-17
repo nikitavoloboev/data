@@ -95,3 +95,4 @@ title: Reddit
 - [Metadocs](https://metadocs8.com/) - Kinda like Reddit, but built into every documentation. ([HN](https://news.ycombinator.com/item?id=33518828))
 - [Gert](https://github.com/mcdallas/gert) - Command line tool to download media from Reddit.
 - [Reddit Monitoring with Python (2022)](https://segue.co/blog/reddit-monitoring-python/)
+- [Reddit moderator bot](https://github.com/gc-plp/reddit-moderator-bot) - Monitor subreddits and trigger custom actions through plugins.

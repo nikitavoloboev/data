@@ -712,3 +712,5 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Helios](https://github.com/a16z/helios) - Fast, secure, and portable light client for Ethereum.
 - [Amarna](https://github.com/crytic/amarna) - Static-analyzer and linter for the Cairo programming language.
 - [Murph](https://github.com/iFrostizz/murph) - Transpile EVM bytecode into huff.
+- [Permit2](https://github.com/Uniswap/permit2) - Next generation token approvals mechanism.
+- [Universal Router](https://github.com/Uniswap/universal-router) - ERC20 and NFT swap router that allows users greater flexibility when performing trades across multiple token types.

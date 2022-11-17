@@ -20,6 +20,7 @@ Like listening to [Andrew Huberman](https://www.youtube.com/c/AndrewHubermanLab/
 - [Health and longevity in 3 bullets: 1. Sleep >8h. 2. HIIT + strength training. 3. Intermittent fasting + no glucose spikes.](https://twitter.com/m_franceschetti/status/1396540139195834374)
 - [Get a CO2 meter & improve air quality. It's important.](https://twitter.com/iamtrask/status/1443181527815364616)
 - [Get your sleep & daytime energy and mood right: Get sunlight in your eyes as early in your day as possible. Especially on cloudy days. Extra time outside if you wake up late. Sunglasses off if you safely can. Eye glasses and contacts fine. Lights bright by day, sun-off at night.](https://twitter.com/hubermanlab/status/1591837967009845248)
+- [Mental health is more impacted by the gut than the brain.](https://twitter.com/_ali_taylor/status/1592991086326460416)
 
 ## Links
 

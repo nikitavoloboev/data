@@ -979,3 +979,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Understanding Bayesian Deep Learning](https://github.com/sjchoi86/bayes-nn)
 - [Disentangled Image Colorization via Global Anchors](https://github.com/MenghanXia/DisentangledColorization)
 - [Estimating High Order Gradients of the Data Distribution by Denoising (2021)](https://arxiv.org/abs/2111.04726) ([Code](https://github.com/chenlin9/high_order_dsm))
+- [Sharpness-Aware Minimization for Efficiently Improving Generalization (2020)](https://arxiv.org/abs/2010.01412) ([Code](https://github.com/google-research/sam))

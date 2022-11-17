@@ -265,6 +265,7 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [PhotonDB](https://github.com/photondb/photondb) - Storage engine for modern hardware, built from scratch in Rust.
 - [RadonDB](https://github.com/radondb/radon) - Open source, Cloud-native MySQL database for unlimited scalability and performance.
 - [Segment](https://github.com/segment-dev/segment) - Simple and fast in-memory key-value database written in Rust.
+- [Reindexer](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface.
 
 ## Tools
 

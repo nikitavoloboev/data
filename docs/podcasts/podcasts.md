@@ -253,3 +253,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Best podcast episode you have ever listened to? (2022)](https://twitter.com/APompliano/status/1586480958081241088)
 - [Apple Podcast Connector](https://github.com/openpodcast/apple-connector) - Inofficial Connector for Apple's Podcast Data.
 - [Open Podcast](https://openpodcast.dev/#/) - Open platform for podcast analytics. ([GitHub](https://github.com/openpodcast))
+- [yt2podcast](https://github.com/gc-plp/yt2podcast) - YouTube channel to podcast server.

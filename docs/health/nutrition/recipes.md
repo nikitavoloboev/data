@@ -44,6 +44,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [World’s Best Pancake Recipe](https://kottke.org/09/10/the-worlds-best-pancake-recipe)
 - [The Best French Onion Soup](https://andrewzimmern.com/recipes/the-best-french-onion-soup/)
 - [Ajapsandali](https://nofrillskitchen.com/ajapsandali-recipe/) - Georgian Eggplant Stew.
+- [Old garlic soup in bread](https://www.youtube.com/watch?v=rSpHokFp7Js)
 
 ## Links
 
@@ -128,3 +129,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Andrew Zimmern](https://andrewzimmern.com/)
 - [Crouton](https://crouton.app/) - Meal Plan & Recipe Organiser.
 - [Felu - Fit by cooking - YouTube](https://www.youtube.com/c/FeluFitbycooking/videos)
+- [Healthy Recipes - YouTube](https://www.youtube.com/@GesundeRezepteDE/videos)

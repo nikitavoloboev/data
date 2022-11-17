@@ -314,3 +314,4 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [Books, preferably written my women, that teach men how to be better lovers (2022)](https://www.reddit.com/r/suggestmeabook/comments/ypowj9/books_preferably_written_my_women_that_teach_men/)
 - [Ask HN: How do you deal with the human ability to never take responsibility (2022)](https://news.ycombinator.com/item?id=33573118)
 - [Are the 30s the hardest age to be dating? (2022)](https://www.reddit.com/r/datingoverthirty/comments/ytpw5r/are_the_30s_the_hardest_age_to_be_dating/)
+- [Что для вас red flags (в других людях/в отношениях/где угодно)](https://twitter.com/leria1030pm/status/1593147268211019776)

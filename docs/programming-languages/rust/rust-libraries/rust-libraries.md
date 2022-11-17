@@ -2327,6 +2327,7 @@
 - [StateLock](https://github.com/Xudong-Huang/state_lock) - Sync primitive that can be used to wait for a state to be ready.
 - [usdt](https://github.com/oxidecomputer/usdt) - Dust your Rust with USDT probes.
 - [Parcom](https://github.com/strtok/parcom) - Trait + closure based parser combinator library loosely following the Parsec Paper.
+- [Versionize](https://github.com/firecracker-microvm/versionize_derive) - Framework for version tolerant serializion/deserialization of Rust data structures.
 
 ## Cargo Plugins
 
@@ -2609,3 +2610,4 @@
 - [Typebinder](https://github.com/impero-com/typebinder) - Exports TS definitions from Rust module.
 - [conc-map-bench](https://github.com/xacrimon/conc-map-bench) - Uses the bustle benchmarking harness.
 - [Symbolicator](https://github.com/getsentry/symbolicator) - Symbolication service for native stacktraces and minidumps with symbol server support.
+- [Template for a generic rust project hosted on GitHub](https://github.com/rust-github/template)

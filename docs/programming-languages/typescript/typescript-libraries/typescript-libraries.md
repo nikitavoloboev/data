@@ -49,7 +49,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [typed-rest-client](https://github.com/microsoft/typed-rest-client) - Lightweight REST and HTTP client optimized for use with TypeScript with generics and async await.
 - [Ts.ED](https://github.com/TypedProject/tsed) - Node.js and TypeScript Framework on top of Express/Koa.js.
 - [Axios-Fetch](https://github.com/lifeomic/axios-fetch) - WebAPI Fetch implementation backed by an Axios client.
-- [Voby](https://github.com/fabiospampinato/voby) - High-performance framework for writing web apps.
+- [Voby](https://github.com/vobyjs/voby) - High-performance framework for writing web apps.
 - [Candid](https://github.com/danieldietrich/candid) - Unopinionated, frameworkless JavaScript library for building web applications.
 - [Deepkit](https://github.com/deepkit/deepkit-framework) - High-Performance TypeScript Framework. ([Web](https://deepkit.io/)) ([HN](https://news.ycombinator.com/item?id=31663298)) ([Deepkit OpenAPI](https://github.com/hanayashiki/deepkit-openapi))
 - [Chemin](https://github.com/etienne-dldc/chemin) - Type-safe pattern builder & route matching library written in TypeScript.
@@ -672,6 +672,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Externality](https://github.com/unjs/externality) - Utilities for handling identifying whether a given package or path should be considered an external package that can be imported at runtime.
 - [Pixi3D](https://github.com/jnsmalm/pixi3d) - 3D renderer for PixiJS. Seamless integration with 2D applications.
 - [MakeTypes](https://github.com/jvilk/MakeTypes) - Generate TypeScript types and proxy classes from example JSON objects. Type check JSON objects at runtime.
+- [BurstValve](https://github.com/codenothing/burst-valve) - In memory queue for async processes in high concurrency code paths.
 
 ## Links
 
