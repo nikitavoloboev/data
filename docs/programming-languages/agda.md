@@ -109,3 +109,4 @@ title: Agda
 - [Total parser combinators and parsing of mixfix operators in Agda](https://github.com/nad/parser-combinators)
 - [ucat](https://github.com/elpinal/ucat) - Univalent categories, displayed categories, and fibrations.
 - [STLC-related snippets in Agda](https://github.com/gergoerdi/stlc-agda)
+- [Agda2Dedukti](https://github.com/Deducteam/Agda2Dedukti) - Agda proof assistant to an encoding of its logic in the lambda-pi calculus modulo rewriting, implemented in Dedukti and Lambdapi.
