@@ -178,3 +178,4 @@ On bright side, it does appear that Russia [fully lost out on its objectives in 
 - [Abandoned Russian base holds secrets of retreat in Ukraine (2022)](https://www.reuters.com/investigates/special-report/ukraine-crisis-russia-base/) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/ydwbpd/comment/itun2qu/?utm_source=reddit&utm_medium=web2x&context=3))
 - [Kyiv was the most magical city in Europe … and then the Russians bombed it (2022)](https://www.dailymaverick.co.za/article/2022-10-30-kyiv-was-the-most-magical-city-in-europe-and-then-the-russians-bombed-it/)
 - [Reporting from Ukraine - YouTube](https://www.youtube.com/c/ReportingfromUkraine/videos)
+- [The Russia Contingency with Michael Kofman Archives (2022)](https://warontherocks.com/episode/therussiacontingency/)

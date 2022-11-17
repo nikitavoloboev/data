@@ -1,6 +1,6 @@
 # Supplements
 
-Every [morning](../../focusing/processes.md#morning), after I do my [morning exercise](../../fitness/fitness.md), I do my [morning smoothie](https://www.youtube.com/watch?v=OUGQBV5B2S4). I mix:
+Every [morning](../../focusing/processes.md#morning), after I do a [workout](../../fitness/fitness.md), I make a [smoothie](https://www.youtube.com/watch?v=OUGQBV5B2S4). I mix:
 
 - 2 scoops of [Clean Lean Protein (Just Natural taste)](https://www.nuzest.co.uk/products/clean-lean-protein) (~ 25g)
 - 1 scoop of [Good Green Vitality](https://www.nuzest.co.uk/products/good-green-vitality) (~ 10g)

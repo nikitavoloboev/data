@@ -10,7 +10,7 @@ My goals are to have a [healthy skin with minimal wrinkles in future, ideally wi
 
 My skin care routine is variation of [Geek & Gorgeous Age Smart Kit](https://geekandgorgeous.com/collections/kits/products/age-smart-kit). It's good to know difference between [cleanser/toner/serums/moisturizer](https://www.dermstore.com/blog/in-what-order-do-i-apply-my-skin-care-products-infographic/) & [how to apply each one](https://www.youtube.com/watch?v=vM9rX3SqB34). And use [proven to work ingredients](https://www.youtube.com/watch?v=GpfuksjS7LA).
 
-I keep all products I use at my sink, except [vitamin c serum](https://geekandgorgeous.com/collections/101-serums/products/c-glow) which I keep at the fridge to prolong it.
+I keep all products I use at my sink except [vitamin c serum](https://geekandgorgeous.com/collections/101-serums/products/c-glow), which lives in the fridge to prolong it. However I move small amounts of the serum from the fridge into a [mini-bottle](https://geekandgorgeous.com/products/c-glow-mini-bottle) to keep at my sink without it going bad.
 
 [It’s best to let each product dry and absorb before the next one is applied](https://www.verishop.com/blog/beauty/skincare/how-much-time-between-skincare-products/).
 
@@ -27,14 +27,30 @@ During the day, I drink a lot of water/[tea](nutrition/drinks/tea.md). I try not
 
 ### Evening
 
-Before going to sleep, I do another exercise routine and quick shower. Then:
+Before going to sleep, I do another exercise routine and quick shower. 
+
+Whilst my morning skin routine is same products repeated. In evening, I vary betweet Exfoliant, Azelaic acid and Retinal, to make sure I don't use their active ingredients together as that can cause conflicts.
+
+So first, I do:
 
 1. [[Cleanse](https://youtu.be/h05frUE9dkE?t=765)] Wet face, squeeze [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker) into palm and gently, but thoroughly massage over face, neck and eye area. ~ 1 minute. Rinse well with warm water and pat dry.
-2. [[Exfoliant](https://www.youtube.com/watch?v=h05frUE9dkE)] Every third day. Apply [Calm Down](https://geekandgorgeous.com/collections/exfoliants/products/calm-down) either with a cotton pad or pour it into your hands and pat it on as men do with after-shave. Avoid the area around the eyes. Let it absorb. ~ 1 minute.
-3. [[Azelaic acid](https://www.youtube.com/watch?v=8dxEW9P6C3c)] Apply few drops of [aPAD](https://geekandgorgeous.com/collections/101-serums/products/gg-101-apad) to the face. Let it absorb. I brush my teeth as I wait. Takes ~ 2 minutes.
-4. [[Retinal](https://youtu.be/CxvtzM3bHhE?t=404)] Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) to the face. Let it absorb. ~ 2 minutes. (start every other day and move up to daily after 2 weeks)
-5. [[Moisturizer](https://www.youtube.com/watch?v=bLNbN0YMBWk)] Apply [Hydration Station](https://geekandgorgeous.com/collections/101-serums/products/hydration-station) on already slightly wet skin. Use as much or as little as your skin needs.
-6. Go to sleep. Always use fresh sheets especially on the pillows.
+
+Then accordingly: 
+
+2. [[Retinal](https://www.dermstore.com/blog/how-to-apply-retinol/)] Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) on dry face skin. Let it absorb.
+
+If I took Retinal on previous day, I take:
+
+2. [[Azelaic acid](https://www.youtube.com/watch?v=8dxEW9P6C3c)] Apply few drops of [aPAD](https://geekandgorgeous.com/collections/101-serums/products/gg-101-apad) on dry face skin. Let it absorb. I brush my teeth as I wait. Takes ~ 2 minutes.
+
+If I took Azelaic acid on previous day, I take:
+
+2. [[Exfoliant](https://www.youtube.com/watch?v=h05frUE9dkE)] Apply [Calm Down](https://geekandgorgeous.com/collections/exfoliants/products/calm-down) either with a cotton pad or pour it into your hands and pat it on as men do with after-shave. Avoid the area around the eyes. Let it absorb.
+
+I always brush my teeth after applying the 2nd step. I then finish it off with:
+
+3. [[Moisturizer](https://www.youtube.com/watch?v=bLNbN0YMBWk)] Apply [Hydration Station](https://geekandgorgeous.com/collections/101-serums/products/hydration-station) on already slightly wet skin. Use as much or as little as your skin needs.
+4. Go to sleep. Always use fresh sheets especially on the pillows.
 
 At night, I try to sleep [either on my back or side](https://www.sleepfoundation.org/sleeping-positions). Although I do fall asleep fastest when sleeping on my stomach. Unfortunately, sleeping on your stomach, can [cause wrinkles to form](https://www.allure.com/story/side-stomach-sleeping-causes-lines-wrinkles).
 
@@ -135,7 +151,7 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [Dr Sam Bunting - YouTube](https://www.youtube.com/@DrSamBunting/videos)
 - [Every Geek and Gorgeous product ranked (2022)](https://www.youtube.com/watch?v=6HPjd5BDNC8)
 - [Right way to apply Moisturizer](https://www.philosophiabotanica.com/the-right-way-to-apply-moisturizer)
-- [Don't Touch My Skin](https://dtmskin.com/)
+- [Don't Touch My Skin](https://dtmskin.com/) ([YouTube](https://www.youtube.com/channel/UCn5B9ftikZI6ht-XBFq1g4Q/videos))
 - [How to Use a Retinoid like a Dermatologist (2021)](https://www.youtube.com/watch?v=grxmyM7EuDk)
 - [Dermatologists Debunk Sunscreen Myths (2021)](https://www.youtube.com/watch?v=6LF0Mkn-pOM)
 - [How to Use Geek & Gorgeous A Game 0,05% and 0,1% Retinal Serum](https://www.youtube.com/watch?v=nGxBxp3av-Y)
@@ -146,3 +162,4 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [K-Beauty Sunscreen Wars: Isntree vs. Beauty of Joseon (2022)](https://www.youtube.com/watch?v=xWeM4qVHvWA)
 - [Beauty of Joseon](https://beautyofjoseon.com/)
 - [Beauty of Joseon Relief Sun Rice + Probiotics - Really SPF 50? | Doctors Review](https://www.youtube.com/watch?v=JaOQ0nMrxPc)
+- [Активные ингредиенты: как применять, как сочетать ❘ DTMSkin](https://www.youtube.com/watch?v=E6Z9tGTH_nE)
