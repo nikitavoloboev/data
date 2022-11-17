@@ -2,8 +2,8 @@
 
 Based of [this interview](https://www.youtube.com/watch?v=xv0ISHGGw1A), it said there are 3 proven ways to improve your skin:
 
-1. [Moisturizer](https://www.youtube.com/watch?v=mAfck1vmlHI)
-2. [Sun screen](https://www.youtube.com/watch?v=6LF0Mkn-pOM)
+1. [Sun screen](https://www.youtube.com/watch?v=6LF0Mkn-pOM)
+2. [Moisturizer](https://www.youtube.com/watch?v=mAfck1vmlHI)
 3. [Retinoid](https://www.youtube.com/watch?v=grxmyM7EuDk)
 
 My goals are to have a [healthy skin with minimal wrinkles in future, ideally with some healthy skin glow](https://www.youtube.com/watch?v=8eScT7hr3r8).
@@ -12,7 +12,7 @@ My skin care routine is variation of [Geek & Gorgeous Age Smart Kit](https://gee
 
 I keep all products I use at my sink except [vitamin c serum](https://geekandgorgeous.com/collections/101-serums/products/c-glow), which lives in the fridge to prolong it. However I move small amounts of the serum from the fridge into a [mini-bottle](https://geekandgorgeous.com/products/c-glow-mini-bottle) to keep at my sink without it going bad.
 
-[It’s best to let each product dry and absorb before the next one is applied](https://www.verishop.com/blog/beauty/skincare/how-much-time-between-skincare-products/).
+[It’s best to let each product dry and absorb before the next one is applied](https://www.verishop.com/blog/beauty/skincare/how-much-time-between-skincare-products/). And don't apply any active ingredients except cleanser & sun screen to eye area. And [do it gently](https://www.reddit.com/r/SkincareAddiction/comments/lltp2v/comment/gnsljzr/).
 
 ### Morning
 
@@ -20,14 +20,14 @@ I first do my morning [exercise routine](../fitness/fitness.md) and shower. Then
 
 1. [[Cleanse](https://youtu.be/h05frUE9dkE?t=765)] Wet face, squeeze [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker) into palm and gently, but thoroughly massage over face, neck and eye area. ~ 1 minute. Rinse well with warm water and pat dry. Important to dry as vitamin C should be applied on dry skin ideally.
 2. [[Vitamin C](https://www.youtube.com/watch?v=i-Mlbf_oOPg)] Apply few drops of [C-Glow](https://geekandgorgeous.com/collections/101-serums/products/c-glow) to the face. Put a drop directly onto your face and quickly pat it on with your other hand. Pat any excess product onto the top of your hands or neck. Let it absorb. I brush my teeth as I wait. Takes ~ 2 minutes.
-3. [Beta-Glucan] Apply few drops of [Stress Less](https://geekandgorgeous.com/collections/101-serums/products/stress-less) to the face. Let it absorb. ~ 1 minute.
+3. [[Beta-Glucan](https://youtu.be/1dRABL4pKmI?t=251)] Apply few drops of [Stress Less](https://geekandgorgeous.com/collections/101-serums/products/stress-less) to the face. Let it absorb. ~ 1 minute.
 4. [[Moisturizer / Sun screen](https://www.youtube.com/watch?v=7rAOLvHX_-8)] Apply [Relief Sun](https://beautyofjoseon.com/products/relief-sun-rice-probiotics) to both face, neck and back of the hand. Let it absorb.
 
 During the day, I drink a lot of water/[tea](nutrition/drinks/tea.md). I try not touch my face with dirty hands and [trim my nails](https://www.youtube.com/watch?v=GF6smAEFbNE). I also try be as relaxed as I can be no matter the situation. Relaxed face without any frowning.
 
 ### Evening
 
-Before going to sleep, I do another exercise routine and quick shower. 
+Before going to sleep, I do another exercise routine and quick shower.
 
 Whilst my morning skin routine is same products repeated. In evening, I vary betweet Exfoliant, Azelaic acid and Retinal, to make sure I don't use their active ingredients together as that can cause conflicts.
 
@@ -35,19 +35,19 @@ So first, I do:
 
 1. [[Cleanse](https://youtu.be/h05frUE9dkE?t=765)] Wet face, squeeze [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker) into palm and gently, but thoroughly massage over face, neck and eye area. ~ 1 minute. Rinse well with warm water and pat dry.
 
-Then accordingly: 
+Then accordingly:
 
 2. [[Retinal](https://www.dermstore.com/blog/how-to-apply-retinol/)] Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) on dry face skin. Let it absorb.
 
 If I took Retinal on previous day, I take:
 
-2. [[Azelaic acid](https://www.youtube.com/watch?v=8dxEW9P6C3c)] Apply few drops of [aPAD](https://geekandgorgeous.com/collections/101-serums/products/gg-101-apad) on dry face skin. Let it absorb. I brush my teeth as I wait. Takes ~ 2 minutes.
+2. [[Azelaic acid](https://www.youtube.com/watch?v=8dxEW9P6C3c)] Apply few drops of [aPAD](https://geekandgorgeous.com/collections/101-serums/products/gg-101-apad) on dry face skin. Let it absorb.
 
 If I took Azelaic acid on previous day, I take:
 
 2. [[Exfoliant](https://www.youtube.com/watch?v=h05frUE9dkE)] Apply [Calm Down](https://geekandgorgeous.com/collections/exfoliants/products/calm-down) either with a cotton pad or pour it into your hands and pat it on as men do with after-shave. Avoid the area around the eyes. Let it absorb.
 
-I always brush my teeth after applying the 2nd step. I then finish it off with:
+I always brush my teeth after applying 2nd step (~ 2 minutes). I then finish it off with:
 
 3. [[Moisturizer](https://www.youtube.com/watch?v=bLNbN0YMBWk)] Apply [Hydration Station](https://geekandgorgeous.com/collections/101-serums/products/hydration-station) on already slightly wet skin. Use as much or as little as your skin needs.
 4. Go to sleep. Always use fresh sheets especially on the pillows.
@@ -92,6 +92,9 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [Retinol should be applied to skin after cleansing and toning and prior to moisturizers, night creams, eye creams, and treatment oils. Avoid using additional active ingredients at the same time as retinol to avoid skin sensitization. You should always use a daily SPF to help protect the skin from UV exposure. If dryness, sensitivity, or peeling occurs, use a skin moisture barrier replenishing product either all over or simply as a targeted spot treatment.](https://www.reddit.com/user/Kiehls_Official/comments/w7yvwr/reduce_the_appearance_of_%EF%AC%81ne_lines_in_%EF%AC%81ve_days/)
 - [Toners are light water based solutions which are used to clean your pores. Generally it is used after a cleanser. Serums - they have concentrated forms of ingredients to target your specific skin issues. Moisturizer - as name suggests it is used to keep your skin moist. It is generally applied after cleansing and toning your face. There are different moisturizers for different skin types from which we can choose one for our skin type.](https://www.quora.com/What-are-the-differences-between-toners-serums-and-moisturizers)
 - [Thinnest to thickest is good rule for skin care products. It is about the order in which you apply products with high water content and those with higher oil content. We all know oil and water repel each other and never mix, so you can imagine what happens when you apply a product with more oil above the product with more water content.](https://millbrookmall.com/2021/06/11/the-real-reasons-we-layer-skincare-products-from-thinnest-to-thickest/)
+- [Clean your eyes. The skin is delicate but that doesn’t mean you should avoid the area. When you’re cleaning just don’t do it aggressively or tug at the skin. Also, put enough cleanser where your fingers can glide over the area easily.](https://www.reddit.com/r/SkincareAddiction/comments/lltp2v/skin_concerns_are_you_supposed_to/)
+
+The skin in your eye area is still skin so you can cleanse and moisturize the area. Just do it gently
 
 ## Links
 
@@ -162,4 +165,5 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [K-Beauty Sunscreen Wars: Isntree vs. Beauty of Joseon (2022)](https://www.youtube.com/watch?v=xWeM4qVHvWA)
 - [Beauty of Joseon](https://beautyofjoseon.com/)
 - [Beauty of Joseon Relief Sun Rice + Probiotics - Really SPF 50? | Doctors Review](https://www.youtube.com/watch?v=JaOQ0nMrxPc)
-- [Активные ингредиенты: как применять, как сочетать ❘ DTMSkin](https://www.youtube.com/watch?v=E6Z9tGTH_nE)
+- [Активные ингредиенты: как применять, как сочетать ❘ DTMSkin (2021)](https://www.youtube.com/watch?v=E6Z9tGTH_nE)
+- [Самый простой гид по уходу за кожей | DTMSkin (2022)](https://www.youtube.com/watch?v=ysXauvhv2Uw)
