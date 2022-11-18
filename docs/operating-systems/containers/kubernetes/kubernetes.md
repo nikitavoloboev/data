@@ -867,3 +867,4 @@ title: Kubernetes
 - [Launchpad](https://github.com/jetpack-io/launchpad) - Build, Publish, and Deploy to Kubernetes with a single command.
 - [Kubernetes Bootstrapper](https://github.com/hivenetes/k8s-bootstrapper) - Extendable framework to set up production grade clusters.
 - [Kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
+- [Roadmap to learn Kubernetes from scratch](https://github.com/techiescamp/kubernetes-learning-path)

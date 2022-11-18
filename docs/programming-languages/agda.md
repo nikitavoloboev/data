@@ -111,3 +111,4 @@ title: Agda
 - [STLC-related snippets in Agda](https://github.com/gergoerdi/stlc-agda)
 - [Agda2Dedukti](https://github.com/Deducteam/Agda2Dedukti) - Agda proof assistant to an encoding of its logic in the lambda-pi calculus modulo rewriting, implemented in Dedukti and Lambdapi.
 - [Experiments with preordered set models of (directed) type theories](https://github.com/AndrasKovacs/preordertt)
+- [Formalization of Regular Languages in Agda](https://github.com/desi-ivanov/agda-regexp-automata)
