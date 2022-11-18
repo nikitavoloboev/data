@@ -901,3 +901,5 @@ if *boolArgPtr != false {
 - [Thirteen Years of Go (2022)](https://go.dev/blog/13years) ([HN](https://news.ycombinator.com/item?id=33557611))
 - [go-mutesting](https://github.com/avito-tech/go-mutesting) - Framework for performing mutation testing on Go source code.
 - [Making a Go program 70% faster with a one character change (2022)](https://hmarr.com/blog/go-allocation-hunting/) ([HN](https://news.ycombinator.com/item?id=33594676))
+- [Google’s Go Style Guide](https://google.github.io/styleguide/go/) ([HN](https://news.ycombinator.com/item?id=33652343))
+- [Google Go Style Best Practices](https://google.github.io/styleguide/go/best-practices)
