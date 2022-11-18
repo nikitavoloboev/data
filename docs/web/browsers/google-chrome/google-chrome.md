@@ -101,3 +101,4 @@ And here are Chrome extensions I use:
 - [Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals (2022)](https://jhalon.github.io/chrome-browser-exploitation-1/)
 - [jest-chrome](https://github.com/extend-chrome/jest-chrome) - Complete mock of the Chrome API for Chrome extensions for use with Jest.
 - [Chromium: Same Origin Policy bypass within a single site a.k.a. "Google Roulette" (2022)](https://www.bentkowski.info/2022/11/google-roulette/)
+- [tracing-chrome](https://github.com/thoren-d/tracing-chrome) - Library for generating chrome://tracing traces in Rust.

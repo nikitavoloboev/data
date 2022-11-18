@@ -4,6 +4,8 @@ title: Data-Driven Documents
 
 # [Data-Driven Documents](https://d3js.org/)
 
+[D3 in Depth](https://www.d3indepth.com/) is great.
+
 ## Links
 
 - [Why you should use D3 (2018)](https://medium.com/@mbostock/why-you-should-use-d3-ae63c276e958)

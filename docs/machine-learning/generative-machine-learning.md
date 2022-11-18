@@ -159,3 +159,5 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [DiffusionDet: Diffusion Model for Object Detection (2022)](https://arxiv.org/abs/2211.09788) ([Code](https://github.com/ShoufaChen/DiffusionDet))
 - [Some notes on the Stable Diffusion safety filter (2022)](https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/) ([HN](https://news.ycombinator.com/item?id=33656785))
 - [Lightning Diffusion](https://github.com/Lightning-AI/lightning-diffusion) - Provides components to finetune and serve diffusion model on lightning.ai.
+- [Deforum Stable Diffusion](https://github.com/deforum-art/deforum-stable-diffusion)
+- [Deforum](https://deforum.github.io/) - Community of AI image synthesis developers, enthusiasts, and artists. ([GitHub](https://github.com/deforum-art))

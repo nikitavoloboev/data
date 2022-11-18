@@ -89,3 +89,4 @@ I mention what I think happens after we die [here](../environment/veganism.md).
 - [Books about Death (2022)](https://www.reddit.com/r/suggestmeabook/comments/y54p5s/books_about_death/)
 - [Technology that lets us speak to our dead relatives has arrived. Are we ready? (2022)](https://www.technologyreview.com/2022/10/18/1061320/digital-clones-of-dead-people/)
 - [People who've lost a parent suddenly, what are things you wish you'd done before your parent passed?](https://twitter.com/Aella_Girl/status/1585133949105238016)
+- [Posterity](https://posterity.life/) - Create a legally binding plan for the event something happens to you, and share it with your loved ones. ([HN](https://news.ycombinator.com/item?id=33655747))

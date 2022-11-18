@@ -463,3 +463,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [musthe](https://github.com/gciruelos/musthe) - Music theory implemented in Python. Notes, scales and chords.
 - [Resources for microtonal music](https://sevish.com/music-resources/) ([HN](https://news.ycombinator.com/item?id=33639132))
 - [Sean Corbett's Studio Kit](https://kit.co/SScience/studio-kit)
+- [RNBO Webpage Example](https://github.com/MrChico/rnbostuff) - Shows you how to add dynamic audio to a webpage, using the JavaScript source code export feature of RNBO.

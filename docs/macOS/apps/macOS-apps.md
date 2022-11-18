@@ -137,7 +137,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [ManDrake](https://github.com/sveinbjornt/ManDrake) - Native Mac man page editor with syntax coloring, mandoc syntax checking & live preview.
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Free, open-source code editor for macOS. ([HN](https://news.ycombinator.com/item?id=30747211)) ([Interview with Austin Condiff](https://www.youtube.com/watch?v=mO65s-FRNJY)) ([Web](https://www.codeedit.app/))
 - [Nimble](https://github.com/scade-platform/Nimble) - Lightweight native macOS editor based on everything we love about our favorite editors and IDEs.
-- [Doughnut](https://github.com/dyerc/Doughnut) - Podcast app. For Mac.
+- [Doughnut](https://github.com/dyerc/Doughnut) - Podcast App for macOS.
 - [Collected App](https://github.com/RoyalIcing/CollectedApp)
 - [NativeYoutube](https://github.com/Aayush9029/NativeYoutube) - Personal App that turned into "alpha released app".
 - [Schemes](https://github.com/helje5/Schemes) - List apps with their registered schemes in macOS Launch Services.

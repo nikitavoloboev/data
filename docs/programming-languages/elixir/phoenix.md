@@ -126,3 +126,4 @@ title: Phoenix framework
 - [Kaffy](https://github.com/aesmail/kaffy) - Powerfully simple admin package for phoenix applications.
 - [Phoenix.View](https://github.com/phoenixframework/phoenix_view) - View abstraction for Phoenix.
 - [Submillisecond LiveView](https://github.com/lunatic-solutions/submillisecond-live-view) - LiveView implementation for the submillisecond web framework built with lunatic in Rust.
+- [LiveView Native Core](https://github.com/liveviewnative/liveview-native-core) - Provides core language-agnostic functionality for LiveView Native across platforms.

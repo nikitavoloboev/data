@@ -1059,6 +1059,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Taskiq](https://github.com/taskiq-python/taskiq) - Asynchronous distributed task queue for python. ([Docs](https://taskiq-python.github.io/guide/getting-started.html))
 - [aspectlib](https://github.com/ionelmc/python-aspectlib) - Aspect-oriented programming, monkey-patch and decorators library.
 - [zaml](https://github.com/adamserafini/zaml) - Fast YAML 1.2 parsing library for Python 3. Written in Zig.
+- [Madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library.
 
 ## Notes
 
@@ -1249,3 +1250,4 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Typing Extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python.
 - [rustimport](https://github.com/mityax/rustimport) - Import Rust source files directly from Python.
 - [ABI compatibility in Python: How hard could it be? (2022)](https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/)
+- [PyCAPI](https://github.com/brandtbucher/pycapi) - Over 600 fast Python bindings to the CPython C API.

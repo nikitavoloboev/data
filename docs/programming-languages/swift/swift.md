@@ -316,4 +316,4 @@ title: Swift
 - [An Informal Introduction to Move-Only Types (2022)](https://forums.swift.org/t/an-informal-introduction-to-move-only-types/61358)
 - [CloudKit 101 (2020)](https://rambo.codes/posts/2020-02-25-cloudkit-101) ([Code](https://github.com/insidegui/CloudKitchenSink20))
 - [Ask HN: What is the future of Swift on the server-side? (2022)](https://news.ycombinator.com/item?id=33608804)
-- [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/)
+- [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/) ([HN](https://news.ycombinator.com/item?id=33658376))

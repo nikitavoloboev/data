@@ -1901,6 +1901,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Noise](https://github.com/flynn/noise) - Go implementation of the Noise Protocol Framework.
 - [Bsimp](https://github.com/akrylysov/bsimp) - Minimalistic S3-backed audio library.
 - [Go-EXIF](https://github.com/dsoprea/go-exif) - Complete, highly tested, standards-driven (but customizable) EXIF reader/writer lovingly written in Go.
+- [pool](https://github.com/silenceper/pool) - Go universal network connection pool.
 
 ## Links
 

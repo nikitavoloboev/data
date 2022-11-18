@@ -130,3 +130,4 @@ title: Zero knowledge proofs
 - [Linear A](https://zk-ml.xyz/) - Makes it possible to run neural networks in zero-knowledge settings. ([GitHub](https://github.com/zk-ml))
 - [Noname](https://github.com/mimoo/noname) - Programming language to write zkapps.
 - [Intro to Zero-knowledge & Building zkApps w/Mina Protocol (2022)](https://eda.hashnode.dev/zero-knowledge-building-zkapps-mina-protocol)
+- [miniSTARK](https://github.com/andrewmilson/ministark) - GPU accelerated STARK prover and verifier.

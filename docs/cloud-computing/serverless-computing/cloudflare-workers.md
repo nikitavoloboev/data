@@ -206,3 +206,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Workers Web Experiments](https://github.com/cloudflare/workers-web-experiments)
 - [Fixing empty responses from Cloudflare Workers Sites (2022)](https://simonhearne.com/2022/empty-responses-cloudflare-workers-sites/)
 - [do-taskmanager](https://github.com/evanderkoogh/do-taskmanager) - TaskManager for Durable Objects, simplifying the use of Alarms.
+- [Building Micro-Frontends with Cloudflare Workers (2022)](https://blog.cloudflare.com/better-micro-frontends/)

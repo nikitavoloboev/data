@@ -715,3 +715,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Murph](https://github.com/iFrostizz/murph) - Transpile EVM bytecode into huff.
 - [Permit2](https://github.com/Uniswap/permit2) - Next generation token approvals mechanism.
 - [Universal Router](https://github.com/Uniswap/universal-router) - ERC20 and NFT swap router that allows users greater flexibility when performing trades across multiple token types.
+- [Flashbots Builder API](https://github.com/flashbots/builder) - Run on your favorite network, including Mainnet, Goerli, Sepolia and local devnet.

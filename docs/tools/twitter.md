@@ -255,3 +255,5 @@ I also find it [frustrating that Twitter iOS client doesn't have the ability to 
 - [George Hotz | Programming | so how does twitter work? | API | GraphQL | requests | Backend | Scala (2022)](https://www.youtube.com/watch?v=z6xslDMimME) ([Tweet](https://twitter.com/realGeorgeHotz/status/1593109753579786240))
 - [The Infrastructure Behind Twitter: Scale (2017)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale)
 - [Twitter Favorites(Likes) Archive](https://github.com/15cm/twitter-favorites-archive) - Series of scripts to archive metadata and medias of your Twitter Favorites(Likes).
+- [stweet](https://github.com/markowanga/stweet) - Advanced python library to scrap Twitter (tweets, users) from unofficial API.
+- [Backup Twitter data now](https://www.reddit.com/r/DataHoarder/comments/yy7tig/backup_twitter_now_multiple_critical_infra_teams/)
