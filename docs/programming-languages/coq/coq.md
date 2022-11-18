@@ -172,3 +172,4 @@ title: Coq
 - [IO](https://github.com/coq-io/io) - Library for effects in Coq.
 - [Bidirectional Programming with Monadic Profunctors](https://github.com/Lysxia/profunctor-monad)
 - [CoLoR](https://github.com/fblanqui/color) - Coq library on rewriting theory and termination.
+- [Choice Trees: Representing Nondeterministic, Recursive, and Impure Programs in Coq (2022)](https://arxiv.org/abs/2211.06863)

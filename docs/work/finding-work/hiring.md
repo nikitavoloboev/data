@@ -49,6 +49,7 @@ It's good idea to fund people who work on tools/libraries you use in your startu
 
 ## Notes
 
+- [You can tell so much about the culture of a startup by how fast the founder suggests hopping on a call after the first introduction. Urgency is either a part of company culture or not. This has historically proven to be a very reliable tell](https://twitter.com/ankurnagpal/status/1593316808169295874?s=46&t=t4i4Lgir02Q0foEZ6bEB4A)
 - [We’ve made an incredible innovation in hiring: Pay someone to do the work they would be doing if they get the job. If they are able to do it, they get the job.](https://twitter.com/shl/status/1260196779905052678)
 - [Do pilot projects for hiring instead of traditional interview with questions](https://overcast.fm/+Y-HUXijTI).
 - [Your job post should be an expression of your culture and values. If you value transparency, your job post should be as transparent as possible.](https://twitter.com/davidvfurlong/status/1354088604826558465)

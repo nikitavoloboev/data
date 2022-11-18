@@ -7,6 +7,7 @@
 - [Parenting practices seem to have little or no impact on children's personalities, contrary to some of the best-known theories in psychology.](https://twitter.com/SteveStuWill/status/1461639134297079809)
 - [It's nice to sometimes print physical books of stories your child tells you.](https://twitter.com/paulg/status/1467461297210105857)
 - [Teach your kids to get comfortable changing their mind in the face of compelling reasoning. It’s a rare superpower.](https://twitter.com/anafabrega11/status/1547973564124389377)
+- [Having a two-year old is like living with a little gnome from a folk tale that you have to trick into doing things because if you ask it directly it will curse you.](https://twitter.com/buttpraxis/status/1593041717917515779)
 
 ## Links
 

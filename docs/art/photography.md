@@ -8,7 +8,7 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 
 ## Interesting cameras
 
-- [Leica Q2](https://leica-camera.com/en-US/photography/cameras/q/q2-black) ([Review](https://www.youtube.com/watch?v=Mm2N8tOJSx0)) ([Leica Q2 VS Fuji X100V](https://www.youtube.com/watch?v=O_Go5wc-s74)) ([4.0 update](https://www.youtube.com/watch?v=WqI6Q-qLknw))
+- [Leica Q2](https://leica-camera.com/en-US/photography/cameras/q/q2-black) ([Review](https://www.youtube.com/watch?v=Mm2N8tOJSx0)) ([Leica Q2 VS Fuji X100V](https://www.youtube.com/watch?v=O_Go5wc-s74)) ([4.0 update](https://www.youtube.com/watch?v=WqI6Q-qLknw)) ([Review](https://www.youtube.com/watch?v=GDIEy1CIlxg))
 - [Fujifilm X100V](https://fujifilm-x.com/en-us/products/cameras/x100v/) ([Review](https://www.youtube.com/watch?v=b_Smp1bEXlY))
 - [Leica M11](https://leica-camera.com/en-int/photography/cameras/m/m11-black) ([Review](https://www.youtube.com/watch?v=RSdLAiDb8dQ))
 - [Sony Alpha 1](https://alphauniverse.com/stories/sony-announces-the-alpha-1/)
@@ -251,3 +251,5 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [The rabbit hole of adding grain to digital photos is deeper than you think (2022)](https://vmoldo.com/grain-deepdive/)
 - [A better way to use presets in Lightroom (2022)](https://vmoldo.com/a-better-way-to-use-presets-in-lightroom/)
 - [What makes a photo cinematic? (2022)](https://vmoldo.com/what-makes-a-photo-cinematic/)
+- [A Photographer's Favorite Workstation and YouTube Gear (2022)](https://www.youtube.com/watch?v=YnWm8t6MyY4)
+- [Simple but tough advice for all photographers (2022)](https://www.youtube.com/watch?v=8ESkefZOrM0)

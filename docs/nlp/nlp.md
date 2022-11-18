@@ -686,5 +686,5 @@
 - [Prompts](https://github.com/semiosis/prompts) - Free and open-source (FOSS) curation of prompts for OpenAI’s GPT-3, EleutherAI’s GPT-j, and other LMs.
 - [FSNER](https://github.com/sayef/fsner) - Few-shot Named Entity Recognition.
 - [Ilya Sutskever (OpenAI): What's Next for Large Language Models (LLMs) (2022)](https://www.youtube.com/watch?v=UHSkjro-VbE)
-- [Galactica](https://galactica.org/) - General-purpose scientific language model. It is trained on a large corpus of scientific text and data. ([Code](https://github.com/paperswithcode/galai))
+- [Galactica](https://galactica.org/) - General-purpose scientific language model. It is trained on a large corpus of scientific text and data. ([Code](https://github.com/paperswithcode/galai)) ([Tweet](https://twitter.com/Michael_J_Black/status/1593133722316189696))
 - [Three-level Hierarchical Transformer Networks for Long-sequence and Multiple Clinical Documents Classification (2021)](https://arxiv.org/abs/2104.08444) ([Code](https://github.com/nbroad1881/strideformer))

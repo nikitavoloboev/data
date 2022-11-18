@@ -21,6 +21,7 @@
 - [The eight hour work day and two day weekend is obsolete. We should expect at most a six hour work day and at least three days off for every four days of work.](https://twitter.com/stevanzetti/status/1520974703820742658)
 - [Quickest way to increase workplace culture in remote world. 1: Quickest way to increase workplace culture in remote world. 2. Each person at some point in the day, has to send their "Highlight of the Day" as a picture. 3. Creates bonding, jokes, affinity.](https://twitter.com/HarryStebbings/status/1566828649394982913)
 - [Ideal commute is a 15-30 minute walk, not rolling out of bed to the computer. This is possible to intentionally build while WFH but I don’t think most people are sufficiently intentional.](https://twitter.com/morgantepell/status/1583874905937891328)
+- [You have no idea how depressing and fatiguing it is to live in the same house where you work.](https://twitter.com/zebulgar/status/1593263444408549377)
 
 ## Links
 

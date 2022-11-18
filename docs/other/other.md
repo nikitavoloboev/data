@@ -23,6 +23,10 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Mujuice - Время](https://www.youtube.com/watch?v=Ly04np1yOYE)
 - [Ólafur Arnalds, Josin - The Bottom Line](https://www.youtube.com/watch?v=2uPnDp-O6pI)
 
+## Hot men
+
+- [Louis Garrel](https://www.youtube.com/watch?v=c2Xf_iXTjXg)
+
 ## Notes
 
 - Specify a pick point for delivery if I won't be home during the delivery time.

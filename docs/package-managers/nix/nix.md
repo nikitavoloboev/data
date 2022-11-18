@@ -442,3 +442,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Global registry of Nix flakes](https://github.com/NixOS/flake-registry)
 - [Taking off with Nix at FlightAware (2022)](https://flightaware.engineering/taking-off-with-nix-at-flightaware/)
 - [Nix binary cache garbage collector](https://github.com/lheckemann/cache-gc)
+- [Nixt](https://github.com/nix-community/nixt) - Simple unit-testing for Nix.
+- [Nix community projects](https://nix-community.org/) ([GitHub](https://github.com/nix-community))

@@ -1,6 +1,6 @@
 # Functional programming
 
-[Eff](https://github.com/matijapretnar/eff) & [Effekt](https://github.com/effekt-lang/effekt) seems like neat functional languages. [High-order Virtual Machine in Rust](https://github.com/Kindelia/HVM) is neat too.
+[Haskell](../../programming-languages/haskell/haskell.md), [Eff](https://github.com/matijapretnar/eff), [Effekt](https://github.com/effekt-lang/effekt) & [Kind2](https://github.com/Kindelia/Kind2) seem like neat functional languages. [High-order Virtual Machine in Rust](https://github.com/Kindelia/HVM) is neat too.
 
 [The Dao of Functional Programming](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf) is a nice read.
 

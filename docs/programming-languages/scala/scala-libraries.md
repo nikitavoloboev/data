@@ -47,6 +47,7 @@
 - [SQLite4S](https://github.com/david-bouyssie/sqlite4s) - Scala Native wrapper of the SQLite C library.
 - [Scalding](https://github.com/twitter/scalding) - Scala library that makes it easy to specify Hadoop MapReduce jobs.
 - [ProtoQuill](https://github.com/zio/zio-protoquill) - Compile-time Language Integrated Queries for Scala.
+- [SPL-to-PySpark transpiler](https://github.com/databrickslabs/transpiler)
 
 ## Math
 

@@ -864,3 +864,4 @@ title: Kubernetes
 - [CRDs Catalog](https://github.com/datreeio/CRDs-catalog) - Over 100 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
 - [Kubernetes CRDs](https://crd.directory/)
 - [What are Kubernetes CRDs, and should you be bothered about them? (2022)](https://www.cohesive.so/blog/what-are-kubernetes-crds-and-should-you-be-bothered-about-them)
+- [Launchpad](https://github.com/jetpack-io/launchpad) - Build, Publish, and Deploy to Kubernetes with a single command.

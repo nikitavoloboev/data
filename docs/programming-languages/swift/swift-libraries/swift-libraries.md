@@ -1317,6 +1317,7 @@
 - [MothECS](https://github.com/forkercat/MothECS) - Simple Entity Component System in Swift.
 - [Inject](https://github.com/MaximBazarov/Inject) - Effortless modular dependency injection for Swift.
 - [Decide](https://github.com/MaximBazarov/Decide) - Modular state and side-effects system for your swift application.
+- [Frostflake](https://github.com/ordo-one/package-frostflake) - High performance unique ID generator inspired by Snowflake.
 
 ## Other (not lib)
 

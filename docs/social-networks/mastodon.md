@@ -102,3 +102,4 @@ title: Mastodon
 - [Twitter alternative: how Mastodon is designed to be “antiviral” (2022)](https://uxdesign.cc/mastodon-is-antiviral-design-42f090ab8d51)
 - [Scaling Mastodon Is Impossible (2022)](https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/) ([HN](https://news.ycombinator.com/item?id=33594961))
 - [Elefren](https://github.com/DeeUnderscore/elefren) - Wrapper for Mastodon API in Rust.
+- [Resize a video with FFmpeg for Mastodon (2022)](https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/)
