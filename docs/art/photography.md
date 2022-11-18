@@ -10,8 +10,9 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 
 - [Leica Q2](https://leica-camera.com/en-US/photography/cameras/q/q2-black) ([Review](https://www.youtube.com/watch?v=Mm2N8tOJSx0)) ([Leica Q2 VS Fuji X100V](https://www.youtube.com/watch?v=O_Go5wc-s74)) ([4.0 update](https://www.youtube.com/watch?v=WqI6Q-qLknw)) ([Review](https://www.youtube.com/watch?v=GDIEy1CIlxg))
 - [Fujifilm X100V](https://fujifilm-x.com/en-us/products/cameras/x100v/) ([Review](https://www.youtube.com/watch?v=b_Smp1bEXlY))
-- [Leica M11](https://leica-camera.com/en-int/photography/cameras/m/m11-black) ([Review](https://www.youtube.com/watch?v=RSdLAiDb8dQ))
+- [Sony Alpha 7 III](https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7m3-b)
 - [Sony Alpha 1](https://alphauniverse.com/stories/sony-announces-the-alpha-1/)
+- [Leica M11](https://leica-camera.com/en-int/photography/cameras/m/m11-black) ([Review](https://www.youtube.com/watch?v=RSdLAiDb8dQ))
 - [Canon EOS 5D Mark IV](https://www.canon.com.cy/cameras/eos-5d-mark-iv/)
 - [Pentax 67](https://www.reddit.com/search?q=Pentax%2067&sort=relevance&t=all)
 

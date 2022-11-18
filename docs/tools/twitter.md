@@ -257,3 +257,4 @@ I also find it [frustrating that Twitter iOS client doesn't have the ability to 
 - [Twitter Favorites(Likes) Archive](https://github.com/15cm/twitter-favorites-archive) - Series of scripts to archive metadata and medias of your Twitter Favorites(Likes).
 - [stweet](https://github.com/markowanga/stweet) - Advanced python library to scrap Twitter (tweets, users) from unofficial API.
 - [Backup Twitter data now](https://www.reddit.com/r/DataHoarder/comments/yy7tig/backup_twitter_now_multiple_critical_infra_teams/)
+- [Converting Your Twitter Archive to Markdown (2022)](https://matthiasott.com/notes/converting-your-twitter-archive-to-markdown)

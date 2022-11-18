@@ -1,10 +1,8 @@
 # Writing
 
-I love writing. It is incredibly empowering. The sheer fact that I can actually put my thoughts onto paper in a way that other people can read and understand is amazing.
+I love [simple](https://twitter.com/jasoncwarner/status/1593677724027326464), effective writing. It is incredibly empowering. It's the best way aside of video to snapshot knowledge in time for others to learn.
 
 Paul Graham wrote a wonderful article titled [_Write like you talk_](http://www.paulgraham.com/talk.html) and I agree with it wholeheartedly. In my opinion these are the main pillars on which I try to build my writing skills upon.
-
-Tools like [Lex](https://lex.page/) or [Careful Words](https://carefulwords.com/) are great. I love writing of [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine).
 
 ## Honesty
 
@@ -99,7 +97,11 @@ Quick notes interlinked are amazing. But when combined with proper researched an
 
 I personally have been focusing on growing this wiki for way too long, I want to write more long term pieces, properly researched and well done. Web canvas is so powerful in the kinds of stories you can tell. Or maybe make more photographical stories like ones seen on [Exposure](https://www.exposure.co/publications).
 
+Tools like [Lex](https://lex.page/) or [Careful Words](https://carefulwords.com/) are great.
+
 ## Nice pieces of effective writing
+
+I love writing of [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine). Also:
 
 - [CEO Patrick Collison's email to Stripe employees](https://stripe.com/en-gb-es/newsroom/news/ceo-patrick-collisons-email-to-stripe-employees) ([HN](https://news.ycombinator.com/item?id=33450753))
 
@@ -308,3 +310,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Just Don’t (2022)](https://www.tbray.org/ongoing/When/202x/2022/11/07/Just-Dont) ([HN](https://news.ycombinator.com/item?id=33518496))
 - [Dev Writer's Workshop](https://github.com/Nutlope/devwriting)
 - [Lesson writing structure. Write music.](https://twitter.com/nathanbaugh27/status/1591442834053529601)
+- [Prefer simpler language](https://twitter.com/jasoncwarner/status/1593677724027326464)

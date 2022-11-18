@@ -133,3 +133,5 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - [Protein intake: low or high for health and longevity?](https://www.reddit.com/r/nutrition/comments/yxzqia/protein_intake_low_or_high_for_health_and/)
 - [Prebiotics & probiotics](https://www.youtube.com/watch?v=0z47wLZ4-O4)
 - [10 Foods Filled With Probiotics](https://www.youtube.com/watch?v=Z-DfrsyAMTw)
+- [Nutrition Library - YouTube](https://www.youtube.com/c/NutritionLibrary/videos)
+- [Almost Everyone Is Dehydrated | How To Stay Properly Hydrated (2022)](https://www.youtube.com/watch?v=_RRqmF0kRYQ)
