@@ -673,6 +673,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Pixi3D](https://github.com/jnsmalm/pixi3d) - 3D renderer for PixiJS. Seamless integration with 2D applications.
 - [MakeTypes](https://github.com/jvilk/MakeTypes) - Generate TypeScript types and proxy classes from example JSON objects. Type check JSON objects at runtime.
 - [BurstValve](https://github.com/codenothing/burst-valve) - In memory queue for async processes in high concurrency code paths.
+- [JavaScript Stringify](https://github.com/blakeembrey/javascript-stringify) - Stringify is to eval as JSON.stringify is to JSON.parse.
 
 ## Links
 

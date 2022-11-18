@@ -239,3 +239,4 @@
 - [CDI (Container Device Interface)](https://github.com/container-orchestrated-devices/container-device-interface) - Specification, for container runtimes, to support third party devices.
 - [cdebug](https://github.com/iximiuz/cdebug) - Handy way to troubleshoot containers lacking a shell and/or debugging tools (e.g, scratch, slim, or distroless).
 - [Development Containers](https://github.com/devcontainers/spec) - Use a container as a full-featured development environment.
+- [Score](https://github.com/score-spec/spec) - Open source, platform-agnostic, container-based workload specification.

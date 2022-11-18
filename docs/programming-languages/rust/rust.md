@@ -961,3 +961,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Is Rust Stack-Efficient Yet?](https://arewestackefficientyet.com/) ([HN](https://news.ycombinator.com/item?id=33637092))
 - [What are Rust’s biggest weaknesses? (2022)](https://www.reddit.com/r/rust/comments/yxtjdc/what_are_rusts_biggest_weaknesses/)
 - [Stable MIR Librarification Project Group](https://github.com/rust-lang/project-stable-mir)
+- [Patterns for not fighting Rust burrow checker](https://twitter.com/jntrnr/status/1593312432851542016)

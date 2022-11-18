@@ -643,6 +643,7 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [The Franchiser](https://uniswaplabs.notion.site/uniswaplabs/The-Franchiser-768dd0e188eb4323957c6e919c09491b) - Smart contract design which would allow large holders of Compound-style voting tokens to selectively delegate portions of their voting power to third parties. ([Code](https://github.com/NoahZinsmeister/franchiser))
 - [Interesting Eth Smart Contracts](https://github.com/fiveoutofnine/cool-contracts/) ([Tweet](https://twitter.com/fiveoutofnine/status/1543289800123420674))
 - [Seaport](https://github.com/ProjectOpenSea/seaport) - Marketplace protocol for safely and efficiently buying and selling NFTs.
+- [Seaport Gossip](https://github.com/ProjectOpenSea/seaport-gossip) - Peer-to-peer network for sharing Seaport orders.
 - [Gas Optimizations in Solidity](https://github.com/kadenzipfel/gas-optimizations)
 - [Turbo ETH](https://github.com/turbo-eth/turbo-eth) - Ethereum dApp Build System; with a suite of tools to start building production ready dApps today.
 - [Ethereum Proof-of-Stake (2022)](https://0xfoobar.substack.com/p/ethereum-proof-of-stake) ([HN](https://news.ycombinator.com/item?id=32012352))
