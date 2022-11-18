@@ -4,11 +4,13 @@ title: Nootropics
 
 # [Nootropics](http://en.wikipedia.org/wiki/Nootropic)
 
-[Sleep](../sleep/sleep.md), [exercise](../fitness/fitness.md) & and proper [nutrition](../health/nutrition/nutrition.md) are the most important things you can do for ultimate mental performance combined with focused [mindfulness](../mindfulness/mindfulness.md). 
+[Sleep](../sleep/sleep.md), [exercise](../fitness/fitness.md) & and proper [nutrition](../health/nutrition/nutrition.md) are the most important things you can do for ultimate mental performance combined with focused [mindfulness](../mindfulness/mindfulness.md).
 
-As I try to get all needed nutrients from healthy [food](../health/nutrition/foods.md), I only take few important [supplements](../health/nutrition/supplements.md) for the extra things that are hard to come by with my diet.
+I try to get most needed nutrients from healthy [food](../health/nutrition/foods.md) but I also take few important [supplements](../health/nutrition/supplements.md) for extra things that are hard to come by with my diet.
 
-There are [few nootropics you can take that in some way boost your mental ability and focus](https://www.reddit.com/r/Nootropics/comments/ub5i2d/what_is_the_most_interesting_nootropic_or_most/). Some infrequent doses of [psychedelics](psychedelics/psychedelics.md) fall into this category for me.
+There are also [few nootropics you can take that in some way boost your mental ability and focus](https://www.reddit.com/r/Nootropics/comments/ub5i2d/what_is_the_most_interesting_nootropic_or_most/). Some infrequent doses of [psychedelics](psychedelics/psychedelics.md) fall into this category for me.
+
+[Nootropics Depot](https://nootropicsdepot.com/) is great vendor of quality supplements. [Mushrooms 4 Life](https://mushrooms4life.com/) is great vendor of mushrooms.
 
 ## Interesting
 
@@ -43,3 +45,4 @@ There are [few nootropics you can take that in some way boost your mental abilit
 - [What are some methods shown to increase IQ? (2022)](https://www.reddit.com/r/Nootropics/comments/vqh9z7/what_are_some_methods_shown_to_increase_iq/)
 - [Are there drugs that can make your ability tro learn things to similar to a child's brain?](https://www.reddit.com/r/Nootropics/comments/vrjti6/are_there_drugs_that_can_make_your_ability_tro/)
 - [I've given up on nootropics.. (2022)](https://www.reddit.com/r/Nootropics/comments/wlugd2/ive_given_up_on_nootropics/)
+- [Nootropics Depot](https://nootropicsdepot.com/) ([YouTube](https://www.youtube.com/@NootropicsDepot/videos))

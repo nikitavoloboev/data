@@ -13,9 +13,11 @@ Every [morning](../../focusing/processes.md#morning), after I do a [workout](../
 
 After drinking the smoothie, I also take these supplements, inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/):
 
-- [Vegan Omega 3 DHA & EPA via Algal oil](https://www.uganutraceuticals.com/product/omegor-veg) (1 capsule)
-- [Vitamin D3 + K2](https://www.amazon.com/Bronson-Vitamin-Supplement-Support-Capsules/dp/B0792Z6434) (1 capsule)
-- [Magnesium](https://nootropicsdepot.com/magtein-magnesium-l-threonate-capsules/) (1 capsule)
+- [Vegan Omega 3 DHA & EPA via Algal oil](https://www.uganutraceuticals.com/product/omegor-veg) (2 capsules)
+- [Vitamin D3 + K2 + C](https://nootropicsdepot.com/vitamin-d3-k2-c-supplement/) (1 capsule)
+- [Magnesium](https://nootropicsdepot.com/magtein-magnesium-l-threonate-capsules/) (1 capsule morning & 1 before sleep)
+- [B12 Sublingual](https://nootropicsdepot.com/super-b12-sublingual-solution/)
+- [Organic MyComplex Mushroom](https://mushrooms4life.com/shop/mycomplex-capsules-60/) (2 capsules)
 
 That's often enough to get me going until afternoon at which point, I will either make some cooked food or eat out (healthy).
 
@@ -26,6 +28,8 @@ I generally strictly avoid sugary foods, snacks and drinks. Makes me appreciate 
 I sometimes don't eat during evenings so as to [fast](fasting.md) just a little before I take my morning smoothie on following day.
 
 Also whilst not strictly supplements, I enjoy taking [psychedelics](../../drugs/psychedelics/psychedelics.md) with breaks of at least 2+ months. [Tryptamines](../../drugs/psychedelics/tryptamines/tryptamines.md) being my favorite, usually consumed through actual home grown psilocybin mushrooms & not some [research chemical](../../drugs/research-chemicals.md) like [4-AcO-DMT](https://psychonautwiki.org/wiki/4-AcO-DMT).
+
+[Nootropics Depot](https://nootropicsdepot.com/) is great vendor of quality supplements. [Mushrooms 4 Life](https://mushrooms4life.com/) is great vendor of mushrooms.
 
 ## Interesting
 
@@ -92,3 +96,4 @@ Some maybe interesting supplements. Some I tried but stopped.
 - [Garden of Life](https://www.gardenoflife.com/) - Clean Vitamins and Supplements.
 - [Nuzest](https://www.nuzest.co.uk/) - Premium plant based nutrition.
 - [Respect Food Recipe: Egg Smoothie](https://www.youtube.com/watch?v=nar26GBesSU)
+- [What do you supplement as a vegan? (2022)](https://www.reddit.com/r/vegan/comments/yympis/do_you_supplement_or_do_you_get_everything_you/)

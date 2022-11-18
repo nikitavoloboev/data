@@ -131,3 +131,5 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - [What Joe Delaney eats in a day](https://www.youtube.com/watch?v=-CbcVcc8Mfs)
 - [What I Eat in a Week (All Meals Shown)](https://www.youtube.com/watch?v=rwhUYaWbVUM)
 - [Protein intake: low or high for health and longevity?](https://www.reddit.com/r/nutrition/comments/yxzqia/protein_intake_low_or_high_for_health_and/)
+- [Prebiotics & probiotics](https://www.youtube.com/watch?v=0z47wLZ4-O4)
+- [10 Foods Filled With Probiotics](https://www.youtube.com/watch?v=Z-DfrsyAMTw)

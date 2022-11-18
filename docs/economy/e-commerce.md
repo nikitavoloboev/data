@@ -184,3 +184,6 @@ Love [Italic](https://italic.com/) & [Beauty of Joseon](https://beautyofjoseon.c
 - [Saucony](https://www.saucony.com/en/home) - Running Shoes, Clothing, & Accessories.
 - [Cult Beauty](https://www.cultbeauty.com/) - Shop The World's Best Beauty Buys.
 - [Kit](https://kit.co/) - Community of creators sharing the products they swear by.
+- [Acne Studios](https://www.acnestudios.com/eu/en/home)
+- [The Row](https://www.therow.com/)
+- [Jacquemus](https://www.jacquemus.com/en_fr)

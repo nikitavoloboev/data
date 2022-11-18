@@ -2,6 +2,8 @@
 
 [Mycelium](https://www.micropia.nl/en/discover/microbiology/mycelium/) is fascinating.
 
+I personally love [psilocybin mushrooms](https://en.wikipedia.org/wiki/Psilocybin_mushroom) and take them [occasionaly](../drugs/psychedelics/psychedelics.md). I also take some mushrooms daily as part of my [supplement](../health/nutrition/supplements.md).
+
 ## Notes
 
 - [We think of mushrooms as being "the fungus" but really a mushroom is just a temporary structure that the fungus, which a network of hyphae buried in the substrate, builds to disperse its spores. They're like a protrusion from an unseen world into ours.](https://twitter.com/NotBrunoAgain/status/1520055622997270534)
@@ -28,3 +30,6 @@
 - [Spore Traders Reddit](https://www.reddit.com/r/sporetraders/)
 - [How To Never Get Nauseous On Magic Mushrooms?](https://www.youtube.com/watch?v=ExJ_v-ErGS0)
 - [How to grow magic mushrooms: the ultimate guide (2022)](https://realchems.net/blog/post/how-to-grow-magic-mushrooms-the-ultimate-guide)
+- [Mushrooms 4 Life](https://mushrooms4life.com/) - 100% Organic Mushroom Supplements in UK.
+- [Essential Mushroom Books](https://mushrooms4life.com/shop/cat/mushroom-books/)
+- [Cordyceps Mushroom | Benefits + How Cordyceps Works (2020)](https://www.youtube.com/watch?v=Y3GcIlcGCsQ)

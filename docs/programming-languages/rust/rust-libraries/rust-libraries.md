@@ -2330,6 +2330,7 @@
 - [Parcom](https://github.com/strtok/parcom) - Trait + closure based parser combinator library loosely following the Parsec Paper.
 - [Versionize](https://github.com/firecracker-microvm/versionize_derive) - Framework for version tolerant serializion/deserialization of Rust data structures.
 - [compress-tools](https://github.com/OSSystems/compress-tools-rs) - Swiss Army Knife for handling compressed data in Rust.
+- [timbre](https://github.com/thoren-d/timbre) - Rust audio library designed for composing real-time effects.
 
 ## Cargo Plugins
 

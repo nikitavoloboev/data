@@ -157,3 +157,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Looking for a WW2 movie (2022)](https://www.reddit.com/r/MovieSuggestions/comments/ythzpc/looking_for_a_ww2_movie/)
 - [What is the most romantic movie you've ever seen?](https://twitter.com/davidcinema/status/1591448237868580865)
 - [Movies as "hard to watch" as Requiem for a Dream?](https://www.reddit.com/r/MovieSuggestions/comments/yx3yci/movies_as_hard_to_watch_as_requiem_for_a_dream/)
+- [Actually romantic movies where couple care for each other (2022)](https://twitter.com/dan_abramov/status/1593710976284737537)

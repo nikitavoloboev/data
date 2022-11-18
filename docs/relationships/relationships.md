@@ -1,8 +1,8 @@
 # Relationships
 
-Below is what I think is a nice overview of my thoughts on what I think makes for successful and happy relationships of any kind but especially romantic.
+Below is what I think it takes to have successful and happy relationships of any kind but especially romantic.
 
-I am 27 now so I have a lot to learn still but I genuinely just want to be a nice person and maximize the amount of fun and novel experiences I get to live through in this life. Below list I think maximizes that goal in some broad strokes systematic way. I have some [other rules](../focusing/rules.md) I note down too that help me a lot.
+I am 27 now so I have a lot to learn still and I genuinely just want to be a nice person and maximize the amount of fun and novel experiences I get to live through in this life. Below list I think maximizes that goal in some broad strokes systematic way. I have some [other rules](../focusing/rules.md) I note down too that help me a lot.
 
 > At the end of the day people won't remember what you said or did, they will remember how you made them feel.
 
