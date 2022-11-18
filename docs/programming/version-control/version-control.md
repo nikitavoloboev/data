@@ -2,7 +2,7 @@
 
 I use [Git](git.md) for all my version control.
 
-[changesets](https://github.com/changesets/changesets) is neat tool. [Graphite](https://graphite.dev/) & [Sapling](https://github.com/facebook/sapling) look useful. 
+[changesets](https://github.com/changesets/changesets) is neat tool. [Graphite](https://graphite.dev/) & [Sapling](https://github.com/facebook/sapling) look useful.
 
 ## Links
 
@@ -49,3 +49,4 @@ I use [Git](git.md) for all my version control.
 - [Setaceous Versioning (SetVer)](https://github.com/RocketRace/setver) - Versioning scheme designed to revolutionize the world of software development.
 - [Stacked PRs: Code changes as narrative](https://blog.aviator.co/stacked-prs-code-changes-as-narrative/) ([Lobsters](https://lobste.rs/s/iyhrkb/stacked_prs_code_changes_as_narrative))
 - [Sapling](https://github.com/facebook/sapling) - Scalable, User-Friendly Source Control System. ([Docs](https://sapling-scm.com/docs/introduction/getting-started/)) ([Article](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)) ([HN](https://news.ycombinator.com/item?id=33612410)) ([Lobsters](https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly))
+- [Improving code review time (2022)](https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/) ([HN](https://news.ycombinator.com/item?id=33646504))

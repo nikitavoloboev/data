@@ -156,3 +156,5 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [Implementation of Paint-with-words with Stable Diffusion](https://github.com/cloneofsimo/paint-with-words-sd)
 - [Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding (2022)](https://mind-vis.github.io/) ([Code](https://github.com/zjc062/mind-vis)) ([HN](https://news.ycombinator.com/item?id=33632337))
 - [PALBERT: Teaching ALBERT to Ponder (2022)](https://arxiv.org/abs/2204.03276) ([Code](https://github.com/tinkoff-ai/palbert))
+- [DiffusionDet: Diffusion Model for Object Detection (2022)](https://arxiv.org/abs/2211.09788) ([Code](https://github.com/ShoufaChen/DiffusionDet))
+- [Some notes on the Stable Diffusion safety filter (2022)](https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/) ([HN](https://news.ycombinator.com/item?id=33656785))

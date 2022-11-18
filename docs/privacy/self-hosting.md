@@ -49,3 +49,4 @@
 - [Indieweb and self-hosting my own space (2022)](https://axbom.com/indieweb/)
 - [HamsterBase](https://hamsterbase.com/) - Self-hosted, local-first web archive application. ([Code](https://github.com/hamsterbase/hamsterbase))
 - [From Plex to Jellyfin Media Server (2021)](https://www.ctrl.blog/entry/jellyfin-vs-plex.html) ([HN](https://news.ycombinator.com/item?id=33579209))
+- [Ask HN: What services/apps are you self-hosting? (2022)](https://news.ycombinator.com/item?id=33657947)

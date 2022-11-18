@@ -18,7 +18,7 @@ I currently don't go to the gym so do workouts at home without any special gear 
 
 Mostly taken as inspiration from this [daily home training routine](https://www.youtube.com/watch?v=5Jth37OywOE) & [morning routine](https://www.youtube.com/watch?v=pc2xlLuCp4Y) videos. The way [Joe](https://www.youtube.com/user/JoeDelaneyy/videos) lays out the [plan with reps](https://youtu.be/5Jth37OywOE?t=571) is interesting, I currently try to just push each rep until failure.
 
-Videos on [6 Things I Do Every Day to Stay in Shape](https://www.youtube.com/watch?v=T5reu3R55kM), [essential exercises](https://www.youtube.com/watch?v=s0fA0gXqREQ), [golden rules to build muscle](https://www.youtube.com/watch?v=ti7j2yyVF6E), [beginner mistakes to avoid](https://www.youtube.com/watch?v=thV6p47dhaU) & [how to setup the perfect bulk up](https://www.youtube.com/watch?v=kE2XioeBDGI) are a must watch. Sadly most of the exercises on the list require some gear. I will update the routine once I get into position where I have access to such gear.
+Videos on [6 things i do every day to stay in shape](https://www.youtube.com/watch?v=T5reu3R55kM), [essential exercises](https://www.youtube.com/watch?v=s0fA0gXqREQ), [golden rules to build muscle](https://www.youtube.com/watch?v=ti7j2yyVF6E), [beginner mistakes to avoid](https://www.youtube.com/watch?v=thV6p47dhaU) & [how to setup the perfect bulk up](https://www.youtube.com/watch?v=kE2XioeBDGI) are a must watch. Sadly most of the exercises on the list require some gear. I will update the routine once I get into position where I have access to such gear.
 
 ### Other tips
 

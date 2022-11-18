@@ -633,3 +633,5 @@ title: Linux
 - [State of Intel SGX in Linux - Jarkko Sakkinen & Roman Volosatovs, Profian Inc (2022)](https://www.youtube.com/watch?v=VeD_eSPFxV0)
 - [Ask HN: How ready for daily driving is Asahi Linux? (2022)](https://news.ycombinator.com/item?id=33607994)
 - [How the Linux kernel runs a program](https://0xax.gitbooks.io/linux-insides/content/SysCall/linux-syscall-4.html)
+- [Nix flake for Linux kernel module development](https://github.com/jordanisaacs/kernel-module-flake)
+- [Rust in the 6.2 kernel (2022)](https://lwn.net/SubscriberLink/914458/a6d5816bad1890e4/) ([HN](https://news.ycombinator.com/item?id=33653409))

@@ -28,3 +28,4 @@ title: Fortran
 - [LFortran](https://github.com/lfortran/lfortran) - Fortran compiler built on top of LLVM.
 - [A modern Fortran scientific programming ecosystem (2022)](https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html) ([HN](https://news.ycombinator.com/item?id=33194773))
 - [Waiwera](https://github.com/waiwera/waiwera) - Parallel, open-source geothermal flow simulator.
+- [Languages Pre-Fortran (2022)](https://craftofcoding.wordpress.com/2022/11/04/languages-pre-fortran/) ([HN](https://news.ycombinator.com/item?id=33647064))

@@ -477,3 +477,4 @@ title: Haskell
 - [Haskell rules for Bazel](https://github.com/tweag/rules_haskell)
 - [Improving the experience of JSON in Haskell with autodocodec and bifunctors (2022)](https://www.dylanamartin.com/2022/11/08/improving-the-aeson-experience.html)
 - [Staged programming with typeclasses (2022)](https://www.tweag.io/blog/2022-11-15-unrolling-with-typeclasses/)
+- [Haskell Notebooks with HLS and VS Code](https://github.com/tittoassini/notebook)

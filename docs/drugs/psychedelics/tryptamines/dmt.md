@@ -107,3 +107,4 @@ I love all [tryptamines](tryptamines.md) but am yet to breakthrough on DMT. [Man
 - [Do you think DMT is just a drug or there's way more to it?](https://www.reddit.com/r/DMT/comments/xbionw/do_you_guys_think_dmt_is_just_a_drug_or_theres/)
 - [Does anyone have a theory of what DMT actually is?](https://www.reddit.com/r/DMT/comments/xezoyq/does_anyone_have_a_theory_of_what_dmt_actually_is/)
 - [Vinegar/Lime A/B Extraction Tek for DMT](https://wiki.dmt-nexus.me/Q21Q21%27s_Vinegar/Lime_A/B_Extraction_Tek)
+- [How safe is ayahuasca? Large-scale study explores (2022)](https://www.technologynetworks.com/biopharma/news/how-safe-is-ayahuasca-large-scale-study-explores-367665) ([HN](https://news.ycombinator.com/item?id=33648818))

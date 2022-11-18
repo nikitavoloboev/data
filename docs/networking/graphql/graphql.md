@@ -358,3 +358,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [WunderBase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma. ([Article](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma))
 - [GraphQL Modules](https://github.com/Urigo/graphql-modules) - Enterprise Grade Tooling For Your GraphQL Server.
 - [Kensa](https://github.com/oslabs-beta/Kensa) - Open-source GraphQL monitoring and testing tool.
+- [GraphQXL](https://github.com/gabotechs/graphqxl) - Language built on top of the GraphQL syntax that extends the original language with some additional features useful for creating scalable and big server side schemas.

@@ -102,3 +102,4 @@
 - [Ask HN: CI in 2022](https://news.ycombinator.com/item?id=31911923)
 - [Actuated](https://github.com/self-actuated/actuated) - Brings blazingly fast, secure builds to self-hosted CI runners.
 - [Bencher](https://github.com/epompeii/bencher) - Continuous benchmarking tools designed to help catch performance regressions in CI.
+- [Blazing fast CI with MicroVMs (2022)](https://blog.alexellis.io/blazing-fast-ci-with-microvms/) ([HN](https://news.ycombinator.com/item?id=33656767))

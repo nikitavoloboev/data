@@ -865,3 +865,4 @@ title: Kubernetes
 - [Kubernetes CRDs](https://crd.directory/)
 - [What are Kubernetes CRDs, and should you be bothered about them? (2022)](https://www.cohesive.so/blog/what-are-kubernetes-crds-and-should-you-be-bothered-about-them)
 - [Launchpad](https://github.com/jetpack-io/launchpad) - Build, Publish, and Deploy to Kubernetes with a single command.
+- [Kubernetes Bootstrapper](https://github.com/hivenetes/k8s-bootstrapper) - Extendable framework to set up production grade clusters.

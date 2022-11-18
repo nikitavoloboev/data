@@ -65,3 +65,5 @@
 - [Logarithmic Map of the Entire Observable Universe](https://twitter.com/johncoogan/status/1546921877586604032)
 - [We don't know how the universe began, and we will never know (2022)](http://backreaction.blogspot.com/2022/08/we-dont-know-how-universe-began-and-we.html) ([HN](https://news.ycombinator.com/item?id=32618719))
 - [The Universe Is Not Locally Real, and the Physics Nobel Prize Winners Proved It (2022)](https://www.scientificamerican.com/article/the-universe-is-not-locally-real-and-the-physics-nobel-prize-winners-proved-it/)
+- [Why Does The Universe Look Like This? (2022)](https://www.youtube.com/watch?v=iDqQ9qgTWmg)
+- [Map of the Universe](https://mapoftheuniverse.net/) ([HN](https://news.ycombinator.com/item?id=33655503))

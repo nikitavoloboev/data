@@ -444,3 +444,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix binary cache garbage collector](https://github.com/lheckemann/cache-gc)
 - [Nixt](https://github.com/nix-community/nixt) - Simple unit-testing for Nix.
 - [Nix community projects](https://nix-community.org/) ([GitHub](https://github.com/nix-community))
+- [Phenix](https://github.com/imsofi/phenix) - Infrastructure as code for Phenix, my personal infrastructue.
+- [Harmonic](https://github.com/DeterminateSystems/harmonic) - Opinionated, experimental Nix installer.

@@ -251,3 +251,4 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Hikaru Nakamura: Chess, Magnus, Kasparov, and the Psychology of Greatness (2022)](https://www.youtube.com/watch?v=oJNvxYEcVAY)
 - [Lichess Mobile Code](https://github.com/lichess-org/mobile)
 - [Do any GMs exclusively play one specific opening?](https://www.reddit.com/r/chess/comments/n9wusq/do_any_gms_exclusively_play_one_specific_opening/)
+- [Rust rewrite of the sunfish simple chess engine](https://github.com/Recursing/sunfish_rs)

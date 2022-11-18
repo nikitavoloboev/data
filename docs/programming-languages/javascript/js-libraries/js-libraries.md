@@ -189,6 +189,7 @@
 - [HashQL](https://github.com/HashQL/HashQL) - Access DB from UI.
 - [heapify](https://github.com/luciopaiva/heapify) - Fastest JavaScript priority queue out there. Zero dependencies.
 - [Databricks SQL Driver for NodeJS](https://github.com/databricks/databricks-sql-nodejs)
+- [doubledb](https://github.com/markwylde/doubledb) - On disk database that indexes everything for fast querying.
 
 ## React
 
@@ -1052,6 +1053,7 @@
 - [hastscript](https://github.com/syntax-tree/hastscript) - Utility to create hast trees.
 - [capture-stack-trace](https://github.com/sindresorhus/capture-stack-trace) - Ponyfill for Error#captureStackTrace.
 - [TourGuide](https://github.com/sjmc11/tourguide-js) - JavaScript library written for creating user tours and on-boarding steps for your apps.
+- [Scroll Based Animation](https://github.com/lmgonzalves/scroll-based-animation)
 
 ## Links
 

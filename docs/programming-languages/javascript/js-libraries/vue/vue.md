@@ -214,3 +214,4 @@ title: Vue.js
 - [Advent Of Vue](https://adventofvue.com/) ([In SvelteKit](https://github.com/geoffrich/advent-of-sveltekit-2022))
 - [v-satori](https://github.com/wobsoriano/v-satori) - Generate a satori-friendly VDOM from a Vue component.
 - [Vue Auth UI](https://github.com/ndrbrt/vue-auth-ui) - Pre-built Vue component for authenticating users.
+- [Nuxt Lazy Hydrate](https://github.com/Baroshem/nuxt-lazy-hydrate)
