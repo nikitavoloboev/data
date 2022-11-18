@@ -10,7 +10,7 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 
 [StarkNet](https://starkware.co/starknet/) & [Cairo](https://www.cairo-lang.org/) are interesting. [Eth2 Book](https://eth2.incessant.ink/book/00__introduction/00__foreword.html) seems nice.
 
-[Helios](https://github.com/a16z/helios) is a nice Eth client.
+[Helios](https://github.com/a16z/helios) is a nice Eth client. [Kakarot](https://github.com/sayajin-labs/kakarot) is interesting.
 
 ## Notes
 
@@ -716,3 +716,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Permit2](https://github.com/Uniswap/permit2) - Next generation token approvals mechanism.
 - [Universal Router](https://github.com/Uniswap/universal-router) - ERC20 and NFT swap router that allows users greater flexibility when performing trades across multiple token types.
 - [Flashbots Builder API](https://github.com/flashbots/builder) - Run on your favorite network, including Mainnet, Goerli, Sepolia and local devnet.
+- [Kakarot](https://github.com/sayajin-labs/kakarot) - Ethereum Virtual Machine written in Cairo.

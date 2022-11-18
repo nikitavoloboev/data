@@ -16,7 +16,7 @@ After drinking the smoothie, I also take these supplements, inspired by [Rhonda 
 - [Vegan Omega 3 DHA & EPA via Algal oil](https://www.uganutraceuticals.com/product/omegor-veg) (2 capsules)
 - [Vitamin D3 + K2 + C](https://nootropicsdepot.com/vitamin-d3-k2-c-supplement/) (1 capsule)
 - [Magnesium](https://nootropicsdepot.com/magtein-magnesium-l-threonate-capsules/) (1 capsule morning & 1 before sleep)
-- [B12 Sublingual](https://nootropicsdepot.com/super-b12-sublingual-solution/)
+- [B12 Sublingual](https://nootropicsdepot.com/super-b12-sublingual-solution/) (1 capsule)
 - [Organic MyComplex Mushroom](https://mushrooms4life.com/shop/mycomplex-capsules-60/) (2 capsules)
 
 That's often enough to get me going until afternoon at which point, I will either make some cooked food or eat out (healthy).

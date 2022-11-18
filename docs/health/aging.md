@@ -2,9 +2,11 @@
 
 Aging is a disease and thus can potentially be cured. For example, [Turritopsis dohrnii](http://en.wikipedia.org/wiki/Turritopsis_dohrnii) jelly fish ages backwards.
 
-I personally don't plan to live for long once my body starts truly breaking down of age. I maximize the quality of my life experience through proper [sleep](../sleep/sleep.md), [exercise](../fitness/exercises.md) and having [no stress](../mindfulness/mindfulness.md) optimistic outlook. I don't have any negative thoughts about [death](../life/death.md) as all things end, including [our universe](https://www.youtube.com/watch?v=uD4izuDMUQA). Only thing that's annoying is pain especially chronic so best try avoid that (that includes prisons, diseases..).
+I personally don't plan to live for long once my body starts truly breaking down of age. I maximize the quality of my [life](../life/life.md) experience through proper [sleep](../sleep/sleep.md), [exercise](../fitness/exercises.md) and having [no stress](../mindfulness/mindfulness.md) optimistic outlook. I don't have any negative thoughts about [death](../life/death.md) as all things end, including [our universe](https://www.youtube.com/watch?v=uD4izuDMUQA). Only thing that's annoying is pain. Especially chronic. So best try avoid that (that includes prisons, [diseases](../medicine/diseases/diseases.md)..).
 
 One way to solve aging sooner is to work on getting closer to [AGI](../machine-learning/artificial-intelligence.md) and have it solve it.
+
+Like the advice of: [try everything, figure out what you do best, make money from it. Stop caring what people think about you early](https://www.tiktok.com/@_notesformen/video/7167063418308971781). I try define these kind of [rules and more for myself](../focusing/rules.md).
 
 ## Notes
 
