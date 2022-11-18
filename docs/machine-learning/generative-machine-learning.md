@@ -161,3 +161,4 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [Lightning Diffusion](https://github.com/Lightning-AI/lightning-diffusion) - Provides components to finetune and serve diffusion model on lightning.ai.
 - [Deforum Stable Diffusion](https://github.com/deforum-art/deforum-stable-diffusion)
 - [Deforum](https://deforum.github.io/) - Community of AI image synthesis developers, enthusiasts, and artists. ([GitHub](https://github.com/deforum-art))
+- [Shift-Attention](https://github.com/yownas/shift-attention) - In stable diffusion, generate a sequence of images shifting attention in the prompt.

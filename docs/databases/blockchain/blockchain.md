@@ -12,6 +12,8 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 
 [Dark Forest](https://zkga.me/) is a [unique game built on top of blockchain](https://twitter.com/larsiusprime/status/1537181872572485632).
 
+[Thirdweb](https://thirdweb.com/) seems like a nice dev framework.
+
 ## Consensus algorithms
 
 - PoW: The more hashing power the more trust worthy.
@@ -418,3 +420,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Twilight: A Differentially Private Payment Channel Network (2022)](https://www.usenix.org/conference/usenixsecurity22/presentation/dotan)
 - [Notes on Proposer-Builder Separation (PBS) (2022)](https://barnabe.substack.com/p/pbs)
 - [Validity Language](https://github.com/Tempest-Protocol/validity) - Next-generation, deduction-based language for formally verified, context-aware, autonomous & reactive smart contracts.
+- [Thirdweb](https://thirdweb.com/) - Complete web3 development framework. ([Dashboard code](https://github.com/thirdweb-dev/dashboard)) ([GitHub](https://github.com/thirdweb-dev))

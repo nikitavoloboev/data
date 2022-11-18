@@ -717,3 +717,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Universal Router](https://github.com/Uniswap/universal-router) - ERC20 and NFT swap router that allows users greater flexibility when performing trades across multiple token types.
 - [Flashbots Builder API](https://github.com/flashbots/builder) - Run on your favorite network, including Mainnet, Goerli, Sepolia and local devnet.
 - [Kakarot](https://github.com/sayajin-labs/kakarot) - Ethereum Virtual Machine written in Cairo.
+- [React Native Helios](https://github.com/cawfree/react-native-helios) - Fast, secure, and portable light client for Ethereum dApps.
