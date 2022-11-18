@@ -275,3 +275,4 @@ Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432
 - [Podman Desktop](https://podman-desktop.io/) - Free OSS Alternative to Docker Desktop. ([HN](https://news.ycombinator.com/item?id=33536978))
 - [Deterministic source-based docker image checksum](https://github.com/dpc/docker-source-checksum)
 - [Beefs with Docker (2019)](https://morepablo.com/2019/08/beefs-with-docker.html)
+- [Depot](https://depot.dev/) - Build Docker images fast, in the cloud. ([CLI](https://github.com/depot/cli))

@@ -24,3 +24,4 @@ Go over how I use my iPad [here](https://github.com/nikitavoloboev/my-ios#ipad).
 - [Concepts App](https://concepts.app/en/) - Infinite, Flexible Sketching.
 - [Defter Notes](https://defternotes.com/) - iPad app for deft handwritten notes & spatial organizing.
 - [Traditional Graphite For Procreate](https://fatimamandouh.gumroad.com/l/ncnbns)
+- [IDE for iPadOS](https://github.com/dsa28s/iDE)
