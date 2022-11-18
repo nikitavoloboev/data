@@ -47,3 +47,4 @@ Loved an [interview of Ben Mendelsohn](https://www.youtube.com/watch?v=65HymY-KJ
 - [Leonardo DiCaprio on The Wolf of Wall Street](https://www.youtube.com/watch?v=hkWIIRvqgvA)
 - [Most underrated actor and their best film? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/ypj6qa/most_underrated_actor_and_their_best_film/)
 - [How Timothee Chalamet Fooled Hollywood (Video Essay)](https://www.youtube.com/watch?v=jk1pM5JbBiw)
+- [Who’s your “never misses” actor? (2022)](https://www.reddit.com/r/Letterboxd/comments/yy55vc/whos_your_never_misses_actor/)

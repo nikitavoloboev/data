@@ -446,3 +446,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix community projects](https://nix-community.org/) ([GitHub](https://github.com/nix-community))
 - [Phenix](https://github.com/imsofi/phenix) - Infrastructure as code for Phenix, my personal infrastructue.
 - [Harmonic](https://github.com/DeterminateSystems/harmonic) - Opinionated, experimental Nix installer.
+- [Mini merge DSL for data overlays](https://github.com/divnix/data-merge)

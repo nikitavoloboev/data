@@ -158,3 +158,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [What is the most romantic movie you've ever seen?](https://twitter.com/davidcinema/status/1591448237868580865)
 - [Movies as "hard to watch" as Requiem for a Dream?](https://www.reddit.com/r/MovieSuggestions/comments/yx3yci/movies_as_hard_to_watch_as_requiem_for_a_dream/)
 - [Actually romantic movies where couple care for each other (2022)](https://twitter.com/dan_abramov/status/1593710976284737537)
+- [Horror movies so great you wish you could forget and watch again (2022)](https://www.reddit.com/r/MovieSuggestions/comments/yygyfq/whats_a_horror_thriller_so_good_you_wish_u_could/)
