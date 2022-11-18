@@ -116,3 +116,4 @@ title: Figma
 - [Auto Layout Tutorial in Figma (2022)](https://www.youtube.com/watch?v=OAHOqtWwek0)
 - [What should Figma focus on next? (2022)](https://twitter.com/skuwamoto/status/1591453629437050880)
 - [Figma Squircle](https://github.com/tienphaw/figma-squircle) - Figma-flavored squircles for everyone.
+- [Figma Platformer Engine](https://github.com/alyssaxuu/figma-platformer-engine) - Build a platformer straight from Figma without code.

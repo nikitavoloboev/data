@@ -268,6 +268,7 @@ Below is a list of extensions I use.
 - [Twoslash-Queries](https://github.com/orta/vscode-twoslash-queries) - VS Code extension which adds support for twoslash queries into typescript projects.
 - [TS QuickFixes](https://marketplace.visualstudio.com/items?itemName=tamj0rd2.ts-quickfixes-extension) ([Code](https://github.com/tamj0rd2/ts-quickfixes)) ([Tweet](https://twitter.com/wesbos/status/1582803702225989637))
 - [EffectTS LSP](https://github.com/Effect-TS/language-service)
+- [TS Extract Interface](https://github.com/luthfianto/ts-extract-interface) - VSCode extension to extract an interface from a TypeScript class.
 
 ## DB
 

@@ -32,3 +32,4 @@
 - [How to get better at poker | Daniel Negreanu (2022)](https://www.youtube.com/watch?v=c7V0A4aG-4U)
 - [Deep mind poker bot for pokerstars, partypoker and GGPoker](https://github.com/dickreuter/Poker)
 - [Deuces](https://github.com/worldveil/deuces) - Pure Python poker hand evaluation library.
+- [Favorite poker movies](https://www.reddit.com/r/poker/comments/yy0e0u/favorite_poker_movies/)

@@ -95,3 +95,4 @@ So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](unit
 - [Taxes & Working Remotely in Europe as a Freelancer or Business Owner (2022)](https://www.supportadventure.com/taxes-working-remotely-in-europe-as-a-freelancer-or-business-owner/)
 - [Visualization of European history (1500-2022)](https://twitter.com/xruiztru/status/1589622943122075650)
 - [How Most European Cities Are Insanely Well Located (2022)](https://www.youtube.com/watch?v=3uwVZJx1oyA)
+- [Where would you live in Europe for the best quality of life? (2022)](https://www.reddit.com/r/eupersonalfinance/comments/yyir5x/where_would_you_live_in_europe_for_the_best/)

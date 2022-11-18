@@ -183,3 +183,4 @@ Love [Italic](https://italic.com/) & [Beauty of Joseon](https://beautyofjoseon.c
 - [Gear In Stock Tracker](https://www.gearinstock.com/)
 - [Saucony](https://www.saucony.com/en/home) - Running Shoes, Clothing, & Accessories.
 - [Cult Beauty](https://www.cultbeauty.com/) - Shop The World's Best Beauty Buys.
+- [Kit](https://kit.co/) - Community of creators sharing the products they swear by.

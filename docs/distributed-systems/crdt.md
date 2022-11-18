@@ -99,3 +99,4 @@ title: Conflict-free replicated data type
 - [Katara](https://github.com/hydro-project/katara) - Synthesize CRDTs from classic data types with verified lifting.
 - [Otto Test](https://github.com/tablyinc/otto-test) - Unified approach to CRDTs and OT.
 - [Crsql](https://github.com/vlcn-io/cr-sqlite) - Multi-writer and CRDT support for SQLite. ([HN](https://news.ycombinator.com/item?id=33606311))
+- [Fundamentals of CRDTs](https://github.com/siliconjungle/crdt-tutorials)

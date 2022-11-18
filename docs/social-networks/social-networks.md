@@ -18,6 +18,8 @@ Whatever the new social network is, it has to be open source and be a protocol w
 
 All valuable data posted on any of the networks is ultimately transferred and linked in [my knowledge base](../other/wiki-workflow.md).
 
+Starting social networks is hard. I liked steps [Gas](https://gasapp.co/) app took too [reach virality](https://twitter.com/lukesophinos/status/1593268198064824320).
+
 ## Notes
 
 - [Facebook has recruited one of the world’s top AI teams, led by Yann LeCun. Their work and Google's are the equivalent of tobacco companies engineering cigarettes to ensure that nicotine hits a smoker's brain more quickly. Facebook and other social networks are the cigarette companies of the mind. Cigarettes blackened our lungs with tar, and social media blacken our brains with distraction, alienation, envy, and loneliness.](https://news.ycombinator.com/item?id=15421704)

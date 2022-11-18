@@ -253,3 +253,6 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [What makes a photo cinematic? (2022)](https://vmoldo.com/what-makes-a-photo-cinematic/)
 - [A Photographer's Favorite Workstation and YouTube Gear (2022)](https://www.youtube.com/watch?v=YnWm8t6MyY4)
 - [Simple but tough advice for all photographers (2022)](https://www.youtube.com/watch?v=8ESkefZOrM0)
+- [Don't Waste Your Money On This Gear (2022)](https://www.youtube.com/watch?v=48AU0echwPc)
+- [Just Mott's favorite photography gear](https://www.justinmott.com/my-photography-gear)
+- [Tips on How to Pose Men](https://www.youtube.com/watch?v=g7fIhkFY_jo)

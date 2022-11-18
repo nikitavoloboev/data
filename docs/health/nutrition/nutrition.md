@@ -8,7 +8,7 @@ I minimize the days on which I do eat fish to few times a month as to minimize m
 
 I try drink only water/[tea](drinks/tea.md) with occasional [coffee](drinks/coffee.md). No added sugar in food/drinks. No dairy too. I love exploring [new and interesting pescatarian recipes](recipes.md).
 
-[Rhonda Patrick's interview](https://www.youtube.com/watch?v=XcvhERcZpWw&t=582s) & [Diet Habits that Built my Physique](https://www.youtube.com/watch?v=iasekg57V3Y) are insightful videos.
+[Rhonda Patrick's interview](https://www.youtube.com/watch?v=XcvhERcZpWw&t=582s), [Diet Habits that Built my Physique](https://www.youtube.com/watch?v=iasekg57V3Y) & [What I Eat in a Week](https://youtu.be/rwhUYaWbVUM?t=100) are insightful videos.
 
 ### Common foods
 
@@ -129,3 +129,4 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - [Good Green Vitality](https://www.nuzest.co.uk/products/good-green-vitality) ([Guide to Using](https://www.nuzest.co.uk/blogs/nutrition/a-guide-to-using-good-green-vitality))
 - [What to do if You're SKINNY FAT (BULK vs CUT vs RECOMP)](https://www.youtube.com/watch?v=7d5LfASoVf8)
 - [What Joe Delaney eats in a day](https://www.youtube.com/watch?v=-CbcVcc8Mfs)
+- [What I Eat in a Week (All Meals Shown)](https://www.youtube.com/watch?v=rwhUYaWbVUM)

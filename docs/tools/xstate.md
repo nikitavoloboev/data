@@ -52,3 +52,4 @@ This [guide](https://www.youtube.com/playlist?list=PLvWgkXBB3dd4ocSi17y1JmMmz7S5
 - [xstate-to-gherkin](https://github.com/simplystated/xstate-to-gherkin) - Library and cli tool to generate Gherkin test scripts from an XState state chart.
 - [f-of-xstate](https://github.com/simplystated/f-of-xstate) - Tools for operating on XState state machines as data.
 - [Jotai-XState](https://github.com/jotai-labs/jotai-xstate) - Jotai integration library for XState.
+- [Visualize your state management with XState (2022)](https://slides.com/mayashavin/visualize-your-state-management-with-xstate-verona/fullscreen)

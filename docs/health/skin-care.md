@@ -39,7 +39,7 @@ So first, I do:
 
 Then accordingly:
 
-2. [[Retinal](https://www.dermstore.com/blog/how-to-apply-retinol/)] Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) on dry face skin & neck. Let it absorb.
+2. [[Retinal](https://www.dermstore.com/blog/how-to-apply-retinol/)] Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) on dry face skin & neck, avoid eye area. Let it absorb.
 
 If I took Retinal on previous day, I take:
 
@@ -95,8 +95,8 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [Toners are light water based solutions which are used to clean your pores. Generally it is used after a cleanser. Serums - they have concentrated forms of ingredients to target your specific skin issues. Moisturizer - as name suggests it is used to keep your skin moist. It is generally applied after cleansing and toning your face. There are different moisturizers for different skin types from which we can choose one for our skin type.](https://www.quora.com/What-are-the-differences-between-toners-serums-and-moisturizers)
 - [Thinnest to thickest is good rule for skin care products. It is about the order in which you apply products with high water content and those with higher oil content. We all know oil and water repel each other and never mix, so you can imagine what happens when you apply a product with more oil above the product with more water content.](https://millbrookmall.com/2021/06/11/the-real-reasons-we-layer-skincare-products-from-thinnest-to-thickest/)
 - [Clean your eyes. The skin is delicate but that doesn’t mean you should avoid the area. When you’re cleaning just don’t do it aggressively or tug at the skin. Also, put enough cleanser where your fingers can glide over the area easily.](https://www.reddit.com/r/SkincareAddiction/comments/lltp2v/skin_concerns_are_you_supposed_to/)
-
-The skin in your eye area is still skin so you can cleanse and moisturize the area. Just do it gently
+- The skin in your eye area is still skin so you can cleanse and moisturize the area. Just do it gently
+- [The skin is thinner around your eyes so the main discouragement for using retinol around the eyes is skin sensitivity/sensitizing. Until your skin is accustomed to retinol, you should put a layer of moisturizer or eye cream as a buffer around your eyes, and let it settle before applying retinol there. It can be drying and your eye area is pretty delicate. And as long as you’re using retinol around your eyes, your eye skin will be more sensitized and susceptible to sun damage which could negatively impact what you’re trying to address. A good eye cream/moisturizer and diligent spf use to protect it should be enough, but it is a thing to be mindful of. When I use retinol around my eyes - I don’t do it every time I use it on my face - I’ll put SPF on in two stages the morning after. First stage is just the eyelid and undereye/concern areas, and then the second is everywhere else including my eyes again. A sunscreen that doesn’t sting is pretty important for this.](https://www.reddit.com/r/AusSkincare/comments/ur9tda/best_way_to_use_retinol_around_eyes/)
 
 ## Links
 
@@ -174,3 +174,4 @@ The skin in your eye area is still skin so you can cleanse and moisturize the ar
 - [Мой уход за кожей, макияж и укладка (2022)](https://www.youtube.com/watch?v=TNAeZ9GxQkc)
 - [Все об уходе за кожей тела (сухость, кератоз, прыщи на спине)](https://www.youtube.com/watch?v=LXKOFZch3LE)
 - [Azelaic Acid | Dermatologist Reviews](https://www.youtube.com/watch?v=xlq3cn6Yj6U)
+- [Retinol Eye Creams Are Everywhere These Days—Here’s Why Derms Love Them](https://www.wellandgood.com/can-you-use-retinol-under-eyes/)

@@ -115,3 +115,4 @@
 - [How Physicists Proved The Universe Isn't Real - Nobel Prize in Physics 2022](https://www.youtube.com/watch?v=txlCvCSefYQ)
 - [Why Did Quantum Entanglement Win the Nobel Prize in Physics? (2022)](https://www.youtube.com/watch?v=US7fEkBsy4A)
 - [I did the double slit experiment at home (2022)](https://www.youtube.com/watch?v=v_uBaBuarEM)
+- [Quantum Fields: The Most Beautiful Theory in Physics (2022)](https://www.youtube.com/watch?v=eoStndCzFhg)

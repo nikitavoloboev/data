@@ -471,3 +471,4 @@
 - [Map of the Internet](https://ipv4.dev.sarl/@zoom=0) ([HN](https://news.ycombinator.com/item?id=33556454))
 - [Let's make the web personal again (2022)](https://blog.nymhq.com/writing/long-live-personal-websites) ([HN](https://news.ycombinator.com/item?id=33583495))
 - [Ask HN: Good resource on writing web app with plain JavaScript/HTML/CSS (2022)](https://news.ycombinator.com/item?id=33635218)
+- [Jamstack Community Survey Results 2022](https://jamstack.org/survey/2022/) ([Summary](https://www.youtube.com/watch?v=bMy9g0USMd8))

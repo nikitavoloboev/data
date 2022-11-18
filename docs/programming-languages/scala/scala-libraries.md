@@ -209,6 +209,7 @@
 - [Kalix Java and Scala SDK](https://github.com/lightbend/kalix-jvm-sdk)
 - [Scala Standard Parser Combinator](https://github.com/scala/scala-parser-combinators) - Parsing for Scala.
 - [Airstream](https://github.com/raquo/Airstream) - State propagation and event streams with mandatory ownership and no glitches.
+- [Scala Debug Adapter](https://github.com/scalacenter/scala-debug-adapter) - Implementation of the Debug Adapter Protocol for Scala.
 
 ## Links
 

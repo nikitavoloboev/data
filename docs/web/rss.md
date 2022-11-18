@@ -187,3 +187,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [Use RSS for privacy and efficiency (2021)](https://rsapkf.org/weblog/q2z) ([HN](https://news.ycombinator.com/item?id=33469271))
 - [NewsBlur](https://www.newsblur.com/) - Personal news reader that brings people together to talk about the world. ([Code](https://github.com/samuelclay/NewsBlur))
 - [Medium Feed](https://github.com/haydenbleasel/medium-feed) - Handy RSS to JSON parser for Medium.
+- [Feedle](https://feedle.world/) - Search engine for blogs and podcasts with RSS.

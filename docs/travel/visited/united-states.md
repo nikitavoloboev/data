@@ -1,6 +1,6 @@
 # United States
 
-Would love to visit or maybe live in US one day but [they don't make it easy](https://www.youtube.com/watch?v=Uksw7zrFr4A) due to [odd politics choices](https://twitter.com/Noahpinion/status/1520132242672029696). 
+Would love to visit or maybe live in US one day but [they don't make it easy](https://www.youtube.com/watch?v=Uksw7zrFr4A) due to [odd politics choices](https://twitter.com/Noahpinion/status/1520132242672029696).
 
 Most great companies like Apple, Tesla or Google mostly hire in US only and there are just too many great people that operate solely from US. This is changing however as more companies embrace the benefits of whole company being [remote and async communication first](../../work/remote-work.md) so there are less and less reasons to actually immigrate to US if you have a passport that lets you stay there visa free for multiple months. You get all the benefits of meeting anyone you want within US, seeing places and everything but more importantly won't have the burden of having a US passport with which you will be [taxed globally no matter what country you stay in](https://www.youtube.com/watch?v=PSJEwxV2QQ8).
 
@@ -173,3 +173,4 @@ I try to avoid pointless politics as much as possible but do like [John Mearshei
 - [4 ways to immigrate from EU to USA (2022)](https://www.youtube.com/watch?v=orVtSuGpuu8)
 - [What happened to the U.S. economy since the end of World War II (2021)](https://collabfund.com/blog/how-this-all-happened/)
 - [O-1 Visa USA vs UK Global Talent Visa: What’s better (2022)](https://www.youtube.com/watch?v=Uksw7zrFr4A)
+- [10 things underrated about America (2022)](https://twitter.com/zachtratar/status/1593401522792046592)

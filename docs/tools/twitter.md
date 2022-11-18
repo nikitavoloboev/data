@@ -10,7 +10,7 @@ I also find it [frustrating that Twitter iOS client doesn't have the ability to 
 
 [Mastodon](../social-networks/mastodon.md) is pretty nice too.
 
-[How does twitter work](https://www.youtube.com/watch?v=z6xslDMimME) is nice overview of [Twitter tech](https://twitter.com/_dml/status/1592619959947243520).
+[How does Twitter work](https://www.youtube.com/watch?v=z6xslDMimME) is nice overview of [Twitter tech](https://twitter.com/_dml/status/1592619959947243520).
 
 ## Interesting hash tags
 
@@ -253,3 +253,4 @@ I also find it [frustrating that Twitter iOS client doesn't have the ability to 
 - [Why Dave LaMacchia stayed at Twitter for 9+ years (2022)](https://twitter.com/_dml/status/1592619959947243520)
 - [Twitter's amazing engineering work over years (2022)](https://twitter.com/danluu/status/1592774269733601281)
 - [George Hotz | Programming | so how does twitter work? | API | GraphQL | requests | Backend | Scala (2022)](https://www.youtube.com/watch?v=z6xslDMimME) ([Tweet](https://twitter.com/realGeorgeHotz/status/1593109753579786240))
+- [The Infrastructure Behind Twitter: Scale (2017)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale)

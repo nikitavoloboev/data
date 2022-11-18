@@ -103,3 +103,4 @@ title: Mastodon
 - [Scaling Mastodon Is Impossible (2022)](https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/) ([HN](https://news.ycombinator.com/item?id=33594961))
 - [Elefren](https://github.com/DeeUnderscore/elefren) - Wrapper for Mastodon API in Rust.
 - [Resize a video with FFmpeg for Mastodon (2022)](https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/)
+- [PressCheck.org](https://www.presscheck.org/) - Find verified journalists on Mastodon. ([Tweet](https://twitter.com/DaveLeeFT/status/1593421042239709184))

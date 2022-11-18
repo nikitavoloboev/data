@@ -453,6 +453,7 @@
 - [function2](https://github.com/Naios/function2) - Improved and configurable drop-in replacement to std::function that supports move only types, multiple overloads and more.
 - [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
 - [libhal](https://github.com/libhal/libhal) - Collection of interfaces and abstractions for embedded peripherals and devices using modern C++.
+- [GeoArrow](https://github.com/geoarrow/geoarrow-cpp) - Experimental C and C++ implementation of the GeoArrow specification.
 
 ## Links
 

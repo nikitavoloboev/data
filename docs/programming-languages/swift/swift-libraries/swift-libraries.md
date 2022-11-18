@@ -686,6 +686,7 @@
 - [Matft](https://github.com/jjjkkkjjj/Matft) - Numpy-like library in Swift. Function name and usage is similar to Numpy.
 - [NumberKit](https://github.com/objecthub/swift-numberkit) - Advanced numeric data types for Swift 5, including BigInt, Rational, and Complex numbers.
 - [FirebladeMath](https://github.com/fireblade-engine/math) - Dependency free, lightweight, fast math library for 2D and 3D vectors, quaternions and matrices in Swift with (optional) SIMD support.
+- [Euler](https://github.com/arguiot/Euler) - Computational framework written in Swift.
 
 ## Other
 
