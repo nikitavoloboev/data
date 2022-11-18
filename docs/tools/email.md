@@ -286,3 +286,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [go-notify](https://github.com/Harry-027/go-notify) - Email automation solution written in Go. It facilitate users to register, send & schedule custom HTML mails for their clients.
 - [MOSINT](https://github.com/alpkeskin/mosint) - Automated e-mail OSINT tool.
 - [letterman](https://github.com/gzbakku/letterman) - Rust mail server.
+- [email-verifier](https://github.com/AfterShip/email-verifier) - Go library for email verification without sending any emails.

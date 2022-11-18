@@ -289,3 +289,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Planning your macOS app - Apple Developer](https://developer.apple.com/macos/planning/)
 - [Apple Cloud Notes Parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser)
 - [Nice UX from Things mac app (2022)](https://twitter.com/rafahari/status/1592545990829277185)
+- [AirMessage Server](https://github.com/airmessage/airmessage-server) - Lets people use iMessage on the devices they like.

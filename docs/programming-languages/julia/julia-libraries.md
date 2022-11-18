@@ -770,6 +770,7 @@
 - [Bumper.jl](https://github.com/MasonProtter/Bumper.jl) - Make working with bump allocators easy and safe-ish.
 - [Classes.jl](https://github.com/rjplevin/Classes.jl) - Simple, Julian approach to inheritance of structure and methods.
 - [PProf.jl](https://github.com/JuliaPerf/PProf.jl) - Export Julia profiles to the pprof format.
+- [FourierFlows.jl](https://github.com/FourierFlows/FourierFlows.jl) - Tools for building fast, hackable, pseudospectral partial differential equation solvers on periodic domains.
 
 ## Links
 

@@ -718,3 +718,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Flashbots Builder API](https://github.com/flashbots/builder) - Run on your favorite network, including Mainnet, Goerli, Sepolia and local devnet.
 - [Kakarot](https://github.com/sayajin-labs/kakarot) - Ethereum Virtual Machine written in Cairo.
 - [React Native Helios](https://github.com/cawfree/react-native-helios) - Fast, secure, and portable light client for Ethereum dApps.
+- [Full stack Hackathon Starter Kit](https://github.com/schmidsi/hackathon-starterkit) - Minimalistic boilerplate to quickly get started with fullstack dapp development with Hardhat and The Graph.

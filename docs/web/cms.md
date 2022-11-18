@@ -1,6 +1,6 @@
 # Content management systems
 
-[Sanity](https://www.sanity.io/), [Keystone](https://keystonejs.com/), [Payload](https://payloadcms.com/), [Contentlayer](https://www.contentlayer.dev/) & [Bartholomew](https://github.com/fermyon/bartholomew) seem great.
+[Sanity](../tools/sanity.md), [Keystone](https://keystonejs.com/), [Payload](https://payloadcms.com/), [Contentlayer](https://www.contentlayer.dev/) & [Bartholomew](https://github.com/fermyon/bartholomew) seem great.
 
 ## Links
 
@@ -13,7 +13,6 @@
 - [How to Build a Forum App with NextJs and Strapi CMS](https://strapi.io/blog/how-to-build-a-forum-app-with-next-js-and-strapi-cms)
 - [Recommendations for headless CMS (2020)](https://twitter.com/jorilallo/status/1273374053852753921)
 - [Agility CMS](https://agilitycms.com/) - The Fastest Headless CMS. ([Tweet](https://twitter.com/rauchg/status/1274418537126219776))
-- [Sanity](https://www.sanity.io/) - Build with Structured Content. ([Sanity powered landing page builder in Next.js](https://github.com/sanity-io/sanity-template-nextjs-landing-pages)) ([Code](https://github.com/sanity-io/sanity)) ([Sanity Codegen](https://github.com/ricokahler/sanity-codegen)) ([Tweet](https://twitter.com/kmelve/status/1447674577732186114)) ([JS client](https://github.com/sanity-io/client)) ([Plugin Utils](https://github.com/SimeonGriggs/sanity-plugin-utils))
 - [Spina CMS](https://github.com/SpinaCMS/Spina) - Easy to use CMS that features a clean interface without distractions.
 - [Contentful](https://www.contentful.com/) - API-first content platform to build digital experiences. ([contentful-migration](https://github.com/contentful/contentful-migration))
 - [Build and Deploy a Next.js Blog with Cosmic and Vercel (2020)](https://vercel.com/guides/deploying-next-and-cosmic-with-vercel)
@@ -41,3 +40,4 @@
 - [Payload CMS](https://payloadcms.com/) - Node & React TypeScript Headless CMS. ([Code](https://github.com/payloadcms/payload)) ([Reddit](https://www.reddit.com/r/javascript/comments/tgcm1n/payload_a_headless_typescript_cms_just_shipped_20/))
 - [Wagtail CMS](https://wagtail.org/) - Django Content Management System. ([Code](https://github.com/wagtail/wagtail))
 - [Outstatic](https://github.com/avitorio/outstatic) - Static CMS for Next.js. ([Web](https://outstatic.com/))
+- [Front Matter](https://github.com/estruyf/vscode-front-matter) - CMS running straight in Visual Studio Code.
