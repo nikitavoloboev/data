@@ -46,3 +46,4 @@ I share some [recipes I like](recipes.md).
 - [Ultimate list of Japanese Vegetable Cutting Techniques](https://thechefdojo.com/japanese-vegetable-cutting-techniques/)
 - [How to Cook Mushrooms](https://kateray.substack.com/p/how-to-cook-mushrooms)
 - [Rice maker recs](https://merveilles.town/web/@calutron/109339742888620221)
+- [50 Cooking Tips With Gordon Ramsay](https://www.youtube.com/watch?v=BHcyuzXRqLs)
