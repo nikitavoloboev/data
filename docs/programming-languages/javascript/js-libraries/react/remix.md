@@ -186,3 +186,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Auth in Remix (2022)](https://twitter.com/matt_stobbs/status/1593000487934365697)
 - [Remix Conf Europe](https://remixconf.eu/)
 - [How we built it: the technology behind Cloudflare Radar 2.0 (2022)](https://blog.cloudflare.com/technology-behind-radar2/)
+- [Magically Create Forms + Actions with Remix Forms (2022)](https://www.youtube.com/watch?v=IN-TElTkVmU)
