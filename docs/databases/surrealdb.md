@@ -11,3 +11,4 @@ title: SurrealDB
 - [SurrealDB.wasm](https://github.com/surrealdb/surrealdb.wasm) - SurrealDB driver for WebAssembly.
 - [SurrealDB JS](https://github.com/surrealdb/surrealdb.js) - Official SurrealDB library for JavaScript.
 - [SurrealDB Go](https://github.com/surrealdb/surrealdb.go) - Official SurrealDB library for Go.
+- [SurrealDB Rust](https://github.com/surrealdb/surrealdb.rs)

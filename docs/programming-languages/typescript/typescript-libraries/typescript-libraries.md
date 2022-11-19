@@ -679,6 +679,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Polymorphic](https://github.com/chakra-ui/polymorphic) - Create polymorphic React/SolidJS components with a customizable styled function.
 - [iter-ops](https://github.com/vitaly-t/iter-ops) - Basic operations on iterables.
 - [parse-favicon](https://github.com/BlackGlory/parse-favicon) - Parse HTML to get icon information.
+- [Beet](https://github.com/metaplex-foundation/beet) - Borsh compatible De/Serializer.
 
 ## Links
 

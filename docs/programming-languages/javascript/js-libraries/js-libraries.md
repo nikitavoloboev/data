@@ -1055,6 +1055,7 @@
 - [TourGuide](https://github.com/sjmc11/tourguide-js) - JavaScript library written for creating user tours and on-boarding steps for your apps.
 - [Scroll Based Animation](https://github.com/lmgonzalves/scroll-based-animation)
 - [fsxx](https://github.com/antfu/fsxx) - File system in zx style.
+- [WorkerBox](https://github.com/markwylde/workerbox) - Run unsafe user generated JavaScript in the browser. ([HN](https://news.ycombinator.com/item?id=33673047))
 
 ## Links
 

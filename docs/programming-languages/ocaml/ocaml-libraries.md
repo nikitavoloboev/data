@@ -248,3 +248,4 @@ title: OCaml libraries
 - [metaquot](https://github.com/thierry-martinez/metaquot) - OCaml syntax extension for quoting code.
 - [Effectful OCaml with Objects and Variants](https://github.com/polytypic/rea-ml)
 - [Sherlodoc](https://doc.sherlocode.com/) - Fuzzy search in OCaml's documentation for almost all opam packages. ([Code](https://github.com/art-w/sherlodoc))
+- [Nomad](https://github.com/shonfeder/nomad) - Tiny, minimally-functional project management tool for OCaml.

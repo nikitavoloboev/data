@@ -1322,6 +1322,7 @@
 - [Decide](https://github.com/MaximBazarov/Decide) - Modular state and side-effects system for your swift application.
 - [Frostflake](https://github.com/ordo-one/package-frostflake) - High performance unique ID generator inspired by Snowflake.
 - [ProcessService](https://github.com/ChimeHQ/ProcessService) - System to host an executable within an XPC service.
+- [MessagePack.swift](https://github.com/a2/MessagePack.swift) - Fast, zero-dependency MessagePack implementation.
 
 ## Other (not lib)
 

@@ -690,3 +690,4 @@
 - [Three-level Hierarchical Transformer Networks for Long-sequence and Multiple Clinical Documents Classification (2021)](https://arxiv.org/abs/2104.08444) ([Code](https://github.com/nbroad1881/strideformer))
 - [WECHSEL: Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models (2022)](https://arxiv.org/abs/2112.06598) ([Code](https://github.com/CPJKU/wechsel))
 - [Convenient Text-to-Text Training for Transformers](https://github.com/tlkh/t2t-tuner)
+- [Homophone Reveals the Truth: A Reality Check for Speech2Vec (2022)](https://arxiv.org/abs/2209.10791) ([Code](https://github.com/my-yy/s2v_rc))

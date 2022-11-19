@@ -406,3 +406,5 @@ title: Reinforcement learning
 - [Recent Advances in Multi-Agent Reinforcement Learning (MARL)](https://github.com/chrisyrniu/Recent-Advances-in-Multi-Agent-Reinforcement-Learning)
 - [Awesome MARL](https://github.com/instadeepai/awesome-marl) - Categorized list of Multi-Agent Reinforcement Learning (MARL) papers.
 - [Lux Design 2022](https://github.com/Lux-AI-Challenge/Lux-Design-2022)
+- [In-context Reinforcement Learning with Algorithm Distillation (2022)](https://arxiv.org/abs/2210.14215) ([Overview](https://www.youtube.com/watch?v=fG__j5phdgY))
+- [Delta Academy](https://joindeltaacademy.com/) - Learn RL online by building game AIs.

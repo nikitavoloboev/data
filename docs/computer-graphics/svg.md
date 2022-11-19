@@ -180,3 +180,4 @@
 - [html2svg](https://github.com/fathyb/html2svg) - Convert HTML and canvas to SVG using Chromium. ([Forking Chrome to turn HTML into SVG](https://fathy.fr/html2svg)) ([HN](https://news.ycombinator.com/item?id=33584941))
 - [SSVG: Scalable Scalable Vector Graphics](https://github.com/michaschwab/ssvg) - Library to speed up interactive svg-based data visualizations by transforming them into canvases.
 - [vectormaker](https://vectormaker.co/) - Convert PNG-to-SVG Vectors. ([Code](https://github.com/btk/vectorizer))
+- [SVG text to path](https://github.com/paulzi/svg-text-to-path) - Convert SVG nodes to vector font-free elements.

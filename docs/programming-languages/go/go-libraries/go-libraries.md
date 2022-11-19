@@ -1906,6 +1906,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [pool](https://github.com/silenceper/pool) - Go universal network connection pool.
 - [gopkg](https://github.com/bytedance/gopkg) - Universal utility collection for Go, it complements offerings such as Boost, Better std, Cloud tools.
 - [artifex](https://github.com/mborders/artifex) - Simple in-memory job queue for Go using worker-based dispatching.
+- [Tag](https://github.com/frolovo22/tag) - Parsing/editing tags ID3, MP4, FLAC.
 
 ## Links
 

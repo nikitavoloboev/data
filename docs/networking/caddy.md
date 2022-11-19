@@ -72,3 +72,4 @@ title: Caddy
 - [Get HTTPS locally with Caddy](https://twitter.com/divyenduz/status/1580620290345693184)
 - [Tailscale Caddy plugin](https://github.com/tailscale/caddy-tailscale)
 - [Caddy HTTP Rate Limit Module](https://github.com/mholt/caddy-ratelimit)
+- [Caddy Git](https://github.com/greenpau/caddy-git) - Git Plugin for Caddy v2.

@@ -64,3 +64,4 @@
 - [Potluck: Dynamic documents as personal software (2022)](https://www.inkandswitch.com/potluck/) ([HN](https://news.ycombinator.com/item?id=33423706))
 - [Works - oimo.io](https://oimo.io/works)
 - ["Diagrammar: Simply Make Interactive Diagrams" by Pontus Granström (2022)](https://www.youtube.com/watch?v=gT9Xu-ctNqI)
+- [Prototype implementation of 2022 mnemonic medium design](https://github.com/andymatuschak/orbit-summer-2022-demo)

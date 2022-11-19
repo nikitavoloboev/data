@@ -602,3 +602,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Nice fiction authors](https://twitter.com/ankurnagpal/status/1586761840821997571)
 - [BookWyrm](https://joinbookwyrm.com/) - Social Reading and Reviewing.
 - [Awesome Bookmarking](https://github.com/dogancelik/awesome-bookmarking)
+- [Videobook](https://github.com/danielgross/videobook)

@@ -163,3 +163,4 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [Deforum](https://deforum.github.io/) - Community of AI image synthesis developers, enthusiasts, and artists. ([GitHub](https://github.com/deforum-art))
 - [Shift-Attention](https://github.com/yownas/shift-attention) - In stable diffusion, generate a sequence of images shifting attention in the prompt.
 - [London, 1910 by Midjourney](https://www.reddit.com/r/midjourney/comments/yyom8a/london_1910/)
+- [GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation (2022)](https://arxiv.org/abs/2203.02923) ([Code](https://github.com/MinkaiXu/GeoDiff))

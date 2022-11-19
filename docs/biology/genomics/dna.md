@@ -81,3 +81,4 @@ title: DNA
 - [DHA: nature's favorite semiconductor (2020)](https://www.multiflora-herbs.com/blogs/news/dha-a-molecular-miracle)
 - [Quickdna](https://github.com/SecureDNA/quickdna) - Fast DNA manipulation for Rust and Python.
 - [RNA Sequencing - Your own pipeline from scratch (2022)](https://www.youtube.com/playlist?list=PLhR2Go-lh6X63hnyBzwWNvsaw1R79ESPI)
+- [Understanding the code of life: generative models of regulatory DNA sequences based on diffusion models](https://github.com/pinellolab/DNA-Diffusion)
