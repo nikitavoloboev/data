@@ -289,3 +289,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [MOSINT](https://github.com/alpkeskin/mosint) - Automated e-mail OSINT tool.
 - [letterman](https://github.com/gzbakku/letterman) - Rust mail server.
 - [email-verifier](https://github.com/AfterShip/email-verifier) - Go library for email verification without sending any emails.
+- [Use a custom domain to send emails with Gmail using Cloudflare email routing (2022)](https://jay.gooby.org/2022/05/06/use-a-basic-gmail-account-to-send-mail-as-with-a-domain-that-uses-cloudflare-email-routing) ([HN](https://news.ycombinator.com/item?id=33660185))

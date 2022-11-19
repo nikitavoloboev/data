@@ -69,7 +69,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Cosmos](https://github.com/CosmosOS/Cosmos) - Operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more. ([Web](https://www.gocosmos.org/))
 - [MollenOS](https://github.com/Meulengracht/MollenOS) - Modern operating system that is built with focus on abstraction and a modular design.
 - [Azure RTOS ThreadX](https://github.com/azure-rtos/threadx) - Advanced real-time operating system (RTOS) is designed specifically for deeply embedded applications.
-- [HelenOS](https://github.com/HelenOS/helenos) - Portable microkernel-based multiserver operating system written from scratch. ([Web](http://www.helenos.org/))
+- [HelenOS](https://github.com/HelenOS/helenos) - Portable microkernel-based multiserver operating system written from scratch. ([Web](http://www.helenos.org/)) ([HN](https://news.ycombinator.com/item?id=33670177))
 - [Pure Rust x86_64 bootloader and kernel](https://github.com/gamozolabs/chocolate_milk)
 - [bootloader](https://github.com/rust-osdev/bootloader) - Experimental x86 bootloader written in Rust and inline assembly.
 - [Cyjon](https://github.com/Blackend/Cyjon) - Simple, clean, multi-tasking operating system written in pure assembly language for 64-bit processors from the AMD64 family.
