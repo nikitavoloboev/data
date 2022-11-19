@@ -10,6 +10,8 @@ Use [Warp](https://www.warp.dev/) as my terminal & [Zsh](zsh/zsh.md) as my shell
 
 [rc](https://manpages.ubuntu.com/manpages/bionic/man1/rc.1.html) shell from [Plan 9 OS](https://9p.io/plan9/) is interesting too.
 
+[fzf](https://github.com/junegunn/fzf) & [Atuin](https://github.com/ellie/atuin) are great additions to the shell.
+
 ## Variables
 
 All active variables can be seen by running `env`.

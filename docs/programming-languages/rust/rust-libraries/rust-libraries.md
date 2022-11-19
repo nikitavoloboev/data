@@ -376,6 +376,7 @@
 - [retina](https://github.com/scottlamb/retina) - High-level RTSP multimedia streaming library, in Rust.
 - [h264-reader](https://github.com/dholroyd/h264-reader) - Rust reader for H264 bitsream syntax.
 - [libv4l-rs](https://github.com/raymanfx/libv4l-rs) - Safe bindings to the Video for Linux (V4L) stack.
+- [OpenH264 Rust](https://github.com/ralfbiedert/openh264-rust) - Idiomatic and low-level bindings for OpenH264.
 
 ## Graphics
 
