@@ -145,3 +145,4 @@
 - [What's something that's not supposed to be sexual that turns you on?](https://www.reddit.com/r/sex/comments/ywc22i/whats_something_thats_not_supposed_to_be_sexual/)
 - [NuvaRing](https://www.nuvaring.com/) - Small, flexible vaginal ring used to prevent pregnancy. ([Review](https://www.youtube.com/watch?v=NS0tXmdQv5g&t=285s))
 - [Birth Control Reddit](https://www.reddit.com/r/birthcontrol/)
+- [О контрацепции с гинекологом Кариной Бондаренко (2021)](https://www.youtube.com/watch?v=9ngpK8qWTJc)

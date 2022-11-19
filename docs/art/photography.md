@@ -257,3 +257,4 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [Don't Waste Your Money On This Gear (2022)](https://www.youtube.com/watch?v=48AU0echwPc)
 - [Just Mott's favorite photography gear](https://www.justinmott.com/my-photography-gear)
 - [Tips on How to Pose Men](https://www.youtube.com/watch?v=g7fIhkFY_jo)
+- [Is Leica Worth The $$$$ (2021)](https://www.youtube.com/watch?v=rkPmLlow3O4)

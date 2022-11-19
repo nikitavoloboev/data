@@ -237,6 +237,7 @@
 - [idb](https://github.com/devashishdxt/idb) - Futures based crate for interacting with IndexedDB on browsers using WebAssembly.
 - [WasmEdge WASI Socket](https://github.com/second-state/wasmedge_wasi_socket) - Rust SDK for network socket functions available in the WasmEdge Runtime.
 - [prokio](https://github.com/yewstack/prokio) - Asynchronous runtime compatible with WebAssembly and non-WebAssembly targets.
+- [edom](https://github.com/adamritter/edom) - Immediate mode web frontend library written in Rust.
 
 ## GUI
 
@@ -2331,6 +2332,7 @@
 - [Versionize](https://github.com/firecracker-microvm/versionize_derive) - Framework for version tolerant serializion/deserialization of Rust data structures.
 - [compress-tools](https://github.com/OSSystems/compress-tools-rs) - Swiss Army Knife for handling compressed data in Rust.
 - [timbre](https://github.com/thoren-d/timbre) - Rust audio library designed for composing real-time effects.
+- [zalgo codec](https://github.com/JSorngard/zalgo_codec) - Crate for converting an ASCII text string or file to a single unicode character.
 
 ## Cargo Plugins
 

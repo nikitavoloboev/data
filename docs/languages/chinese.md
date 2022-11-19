@@ -9,3 +9,4 @@
 - [WenetSpeech](https://github.com/wenet-e2e/WenetSpeech) - 10000+ Hours Multi-domain Chinese Corpus for Speech Recognition.
 - [Learning Chinese Character style with conditional GAN](https://github.com/kaonashi-tyc/zi2zi)
 - [AutoCorrect](https://github.com/huacnlee/autocorrect) - Linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
+- [Open Chinese Convert](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese.
