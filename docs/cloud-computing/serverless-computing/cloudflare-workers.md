@@ -6,7 +6,7 @@ title: Cloudflare workers
 
 Can build and release websites fully on [Cloudflare stack](https://twitter.com/pbteja1998/status/1496147994533679105). [Wrangler](https://github.com/cloudflare/wrangler2) & [Miniflare](https://github.com/cloudflare/miniflare) are useful ([nice template for it](https://github.com/mrbbot/miniflare-typescript-esbuild-jest)).
 
-[Hono](https://github.com/honojs/hono) ([nice starter template](https://github.com/honojs/compute-starter-kit)), [Worktop](https://github.com/lukeed/worktop) & [workers Go lib](https://github.com/syumai/workers) seem like nice web frameworks built on top of Cloudflare workers.
+[Hono](https://github.com/honojs/hono) ([nice starter template](https://github.com/honojs/compute-starter-kit)), [Worktop](https://github.com/lukeed/worktop) & [workers Go lib](https://github.com/syumai/workers) ([template](https://github.com/syumai/worker-template-go)) seem like nice web frameworks built on top of Cloudflare workers.
 
 Exploring building fast web apps with [Solid](../../programming-languages/javascript/js-libraries/solid.md), [Hono](https://github.com/honojs/hono) and [D1](https://news.ycombinator.com/item?id=31339299) (replicated [SQLite](../../databases/sqlite.md)) as data store with lots of smart caching.
 
@@ -170,7 +170,7 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Route to Workers, automate your email processing (2022)](https://blog.cloudflare.com/announcing-route-to-workers/)
 - [R2 API](https://github.com/proselog/r2-api) - Cloudflare worker based REST API for your R2 bucket.
 - [Cloudflare Worker to make your R2 bucket public](https://github.com/cmackenzie1/r2-public-worker)
-- [workers](https://github.com/syumai/workers) - Go package to run an HTTP server on Cloudflare Workers.
+- [workers](https://github.com/syumai/workers) - Go package to run an HTTP server on Cloudflare Workers. ([Template](https://github.com/syumai/worker-template-go))
 - [Render](https://github.com/kotx/render) - Cloudflare Worker to proxy and cache requests to R2.
 - [Denoflare ♥️ R2](https://denoflare.dev/r2/)
 - [HyperDurable](https://github.com/ticket-bridge/hyper-durable) - Simple and useful Durable Object abstraction.

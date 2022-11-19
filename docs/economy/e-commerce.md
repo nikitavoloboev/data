@@ -187,3 +187,4 @@ Love [Italic](https://italic.com/) & [Beauty of Joseon](https://beautyofjoseon.c
 - [Acne Studios](https://www.acnestudios.com/eu/en/home)
 - [The Row](https://www.therow.com/)
 - [Jacquemus](https://www.jacquemus.com/en_fr)
+- [Basket](https://www.trybasket.com/) - Save products from anywhere online and get price drop alerts.
