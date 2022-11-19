@@ -700,6 +700,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 ## Error
 
 - [Simplerr](https://github.com/lobocv/simplerr) - Advanced Go error handling, made simple.
+- [Emperror](https://github.com/emperror/emperror) - Takes care of all errors personally.
 - [Errors](https://github.com/ainsleyclark/errors) - Drop-in replacement for Go errors, with some added sugar! Error handling in Go made easy with codes, messages and more.
 - [Errors](https://github.com/bnkamalesh/errors) - Drop-in replacement for Go errors, with some added sugar! Unwrap user-friendly messages, HTTP status code, easy wrapping with multiple error types.
 - [errors](https://github.com/juju/errors) - Provides an easy way to annotate errors without losing the original error context.

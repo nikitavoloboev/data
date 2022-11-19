@@ -79,6 +79,7 @@ It includes:
 - [The Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 - [Business Breakdowns](https://overcast.fm/itunes1559120677/business-breakdowns) - Series of conversations with investors and operators diving deep into a single business.
 - [Build Your SaaS](https://saas.transistor.fm/)
+- [Syntax.fm](https://syntax.fm/) - Tasty Treats Podcast for Web Developers.
 - [Junior to Senior with David Guttman](https://juniortosenior.io/)
 - [Serial](https://serialpodcast.org/) - Tells one story — a true story — over the course of a season.
 - [Behind the Bastards](https://www.iheart.com/podcast/105-behind-the-bastards-29236323/)

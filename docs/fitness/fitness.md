@@ -116,3 +116,4 @@ Most importantly I try to keep my back muscles in shape as due to nature of my w
 - [6 Things I Do Every Day to Stay in Shape](https://www.youtube.com/watch?v=T5reu3R55kM)
 - [Insane Garage Gym Transformation 2022 | Complete Build](https://www.youtube.com/watch?v=3-3aJEnn3Aw)
 - [How to setup the perfect bulk up (step by step) (2019)](https://www.youtube.com/watch?v=kE2XioeBDGI)
+- [Fix Bad Posture in 22 Days](https://www.youtube.com/watch?v=XxSgdX7lX6E)

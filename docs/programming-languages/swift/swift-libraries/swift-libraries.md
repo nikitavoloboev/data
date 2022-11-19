@@ -650,6 +650,7 @@
 - [RSocket Swift](https://github.com/rsocket/rsocket-swift) - Client and Server implementation of the RSocket (Reactive Socket) network protocol on top of SwiftNIO.
 - [MySQLKit](https://github.com/vapor/mysql-kit) - Non-blocking, event-driven Swift client for MySQL.
 - [MySQLNio](https://github.com/vapor/mysql-nio) - Non-blocking, event-driven Swift client for MySQL built on SwiftNIO.
+- [OHMySQL](https://github.com/oleghnidets/OHMySQL) - Swift + MySQL.
 - [Cirrus](https://github.com/jayhickey/Cirrus) - Simple CloudKit sync for Codable Swift models.
 - [Swift ORM](https://github.com/prisma-ai/Sworm) - CoreData based Swift ORM.
 - [RapidLMDB](https://github.com/tannerdsilva/RapidLMDB) - Fast and efficient LMDB wrapper for Swift.

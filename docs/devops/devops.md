@@ -223,3 +223,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Waterwheel](https://github.com/sphenlee/waterwheel) - Job scheduler similar to Airflow but with a very different design.
 - [Retool Workflows: Cron, but Better (2022)](https://retool.com/blog/introducing-retool-workflows/) ([HN](https://news.ycombinator.com/item?id=33610962))
 - [Hadmean](https://github.com/hadmean/hadmean) - Generate powerful, fully functional, ready-to-be-deployed admin apps in seconds. ([Web](https://hadmean.com/))
+- [Sidekiq Server](https://github.com/pganalyze/sidekiq_server.rs) - Sidekiq server implemented in Rust.
