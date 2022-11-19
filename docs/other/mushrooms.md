@@ -4,6 +4,10 @@
 
 I personally love [psilocybin mushrooms](https://en.wikipedia.org/wiki/Psilocybin_mushroom) and take them [occasionaly](../drugs/psychedelics/psychedelics.md). I also take some mushrooms daily as part of my [supplement](../health/nutrition/supplements.md).
 
+## Interesting
+
+- [Master Blend Mushroom Extracts](https://vibemushrooms.ca/products/master-blend)
+
 ## Notes
 
 - [We think of mushrooms as being "the fungus" but really a mushroom is just a temporary structure that the fungus, which a network of hyphae buried in the substrate, builds to disperse its spores. They're like a protrusion from an unseen world into ours.](https://twitter.com/NotBrunoAgain/status/1520055622997270534)
@@ -33,3 +37,14 @@ I personally love [psilocybin mushrooms](https://en.wikipedia.org/wiki/Psilocybi
 - [Mushrooms 4 Life](https://mushrooms4life.com/) - 100% Organic Mushroom Supplements in UK.
 - [Essential Mushroom Books](https://mushrooms4life.com/shop/cat/mushroom-books/)
 - [Cordyceps Mushroom | Benefits + How Cordyceps Works (2020)](https://www.youtube.com/watch?v=Y3GcIlcGCsQ)
+- [Real Mushrooms](https://www.realmushrooms.com/) - Organic Mushroom Extract Powders and Capsules.
+- [Vibe Mushrooms](https://vibemushrooms.ca/)
+- [Oriveda Mushroom Extracts](https://www.oriveda.store/) ([YouTube](https://www.youtube.com/channel/UCU5Vg4aCbLPb7hIUliSFAdw/videos))
+- [Choosing a Medicinal Mushroom Extract](https://www.youtube.com/watch?v=0oN97ltqt0E)
+- [Best books on medicinal mushrooms](https://www.reddit.com/r/MushroomSupplements/comments/wbxltr/if_you_could_recommend_one_book_on_medicinal/)
+- [Orevida Lion’s Mane Regimen](https://www.reddit.com/r/MushroomSupplements/comments/urno8y/orevida_lions_mane_regimen/)
+- [Host Defense Mushrooms](https://hostdefense.com/)
+- [Common sense guide to buying mushroom supplements and how to avoid being tricked](https://www.reddit.com/r/MushroomSupplements/comments/a3cf7b/common_sense_guide_to_buying_mushroom_supplements/)
+- [Pure Mushrooms](https://www.puremushrooms.com.au/)
+- [Ryan Moss AMA](https://www.reddit.com/r/IAmA/comments/o4d2d0/i_am_ryan_moss_i_legally_research_cultivate/) - Legally research, cultivate, extract, and analyze magic mushrooms.
+- [Mushrooms/nootropics are a rabbit hole (2022)](https://www.reddit.com/r/Nootropics/comments/ycvxtc/this_mushroomsnootropics_thing_is_a_freaking/)

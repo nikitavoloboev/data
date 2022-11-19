@@ -30,16 +30,19 @@ Replace words like `really like` with `love` or other more appropriate words tha
 
 ## My writing process
 
-I start writing all my articles by jotting down notes as dashed points below the title. Here is how that looks:
+I stopped writing articles after starting [this wiki](../other/wiki-workflow.md).  For reasons I mention [here](../sharing/my-articles.md).
+
+When I did write articles, I started writing all my articles by jotting down notes/ideas as dashed points below the title. Here is how that looks:
 
 ![](https://i.imgur.com/Tl92zCL.png)
 
-I then start writing the article and try to touch on one or all of these points as I write the article. I add/remove points as I write the article.
+I then started writing the article and try to touch on one or all of these points as I write the article. I add/remove points as I write the article.
 
-I write all my articles, docs & notes in [Sublime Text](../text-editors/sublime-text/sublime-text.md) app and use an [Alfred workflow](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to search through this wiki & my blog.
+I wrote all my articles, docs & notes in [Sublime Text](../text-editors/sublime-text/sublime-text.md) app and used an [Alfred workflow](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to search through this wiki & my blog.
 
 ![](https://i.imgur.com/J7vMVjA.png)
 
+Nowadays I mostly use [Obsidan](../tools/obsidian.md) for everything. 
 ## [Focus. Format. Framing.](https://www.youtube.com/watch?v=_mQNwL8HkS0)
 
 - Focus

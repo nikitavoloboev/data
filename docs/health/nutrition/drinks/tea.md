@@ -38,3 +38,4 @@ I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me fo
 - [white2tea](https://white2tea.com/) - Raw Puer Tea for Passionate Puer Devotees.
 - [Meta Mate](https://metamate.cc/)
 - [Caffeinated teas that state good black](https://www.reddit.com/r/tea/comments/yxt1fr/can_anyone_recommend_a_caffinated_tea_thats/)
+- [Yerba mate is amazing](https://www.reddit.com/r/Nootropics/comments/yu19ze/yerba_mate_is_god_sent/)

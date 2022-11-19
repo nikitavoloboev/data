@@ -10,8 +10,6 @@ I try to get most needed nutrients from healthy [food](../health/nutrition/foods
 
 There are also [few nootropics you can take that in some way boost your mental ability and focus](https://www.reddit.com/r/Nootropics/comments/ub5i2d/what_is_the_most_interesting_nootropic_or_most/). Some infrequent doses of [psychedelics](psychedelics/psychedelics.md) fall into this category for me.
 
-[Nootropics Depot](https://nootropicsdepot.com/) is great vendor of quality supplements. [Mushrooms 4 Life](https://mushrooms4life.com/) is great vendor of mushrooms.
-
 ## Interesting
 
 - [Adrafinil](https://psychonautwiki.org/wiki/Adrafinil)
@@ -46,3 +44,4 @@ There are also [few nootropics you can take that in some way boost your mental a
 - [Are there drugs that can make your ability tro learn things to similar to a child's brain?](https://www.reddit.com/r/Nootropics/comments/vrjti6/are_there_drugs_that_can_make_your_ability_tro/)
 - [I've given up on nootropics.. (2022)](https://www.reddit.com/r/Nootropics/comments/wlugd2/ive_given_up_on_nootropics/)
 - [Nootropics Depot](https://nootropicsdepot.com/) ([YouTube](https://www.youtube.com/@NootropicsDepot/videos))
+- [Supplements which have a benefit in developing brains](https://www.reddit.com/r/Nootropics/comments/yo3bae/supplements_which_have_a_benefit_in_developing/)

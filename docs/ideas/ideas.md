@@ -149,3 +149,4 @@ Few things that inspire new ideas are [travelling](../travel/travel.md) to new p
 - [Give Your Ideas Some Legs: The Positive Effect of Walking on Creative Thinking](https://www.apa.org/pubs/journals/releases/xlm-a0036577.pdf) ([Tweet](https://twitter.com/emollick/status/1590785568929382401)) ([HN](https://news.ycombinator.com/item?id=33620716))
 - [What software do you dream about, but do not have time to code yourself? (2022)](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not)
 - [Ask HN: Alternative ways to make money with coding and system skills? (2022)](https://news.ycombinator.com/item?id=33619650)
+- [Ask HN: What is the most impactful thing you've built? (2022)](https://news.ycombinator.com/item?id=33659852)
