@@ -129,3 +129,4 @@ title: Ray tracing
 - [Ray Tracing In Vulkan](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 - [A pure-meson ray tracer (2022)](https://mochiro.moe/posts/09-meson-raytracer/)
 - [Radeon Ray tracing Analyzer](https://github.com/GPUOpen-Tools/radeon_raytracing_analyzer) - Tool to visualize and inspect Bounding Volume Hierarchies (BVH) for ray tracing applications.
+- [Aurora](https://github.com/Autodesk/Aurora) - Real-time path tracing renderer that leverages GPU hardware ray tracing.
