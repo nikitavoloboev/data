@@ -15,6 +15,7 @@ title: Godot
 - [Star Engine](https://github.com/mr-pedro-braga/star-engine-core) - Multi-level API for developing RPG-like games in Godot.
 - [ROTA](https://github.com/HarmonyHoney/ROTA) - Made with Godot 3.5 / Gravity Bending Puzzle Platformer.
 - [Builder 2D game](https://github.com/GDQuest/godot-2d-builder) - Simulation game demo made in Godot and inspired by Factorio.
+- [GDTLancer](https://github.com/roalyr/GDTLancer) - Performance-friendly 3D space game inspired by Freelancer, Orbiter and EVE.
 
 ## Links
 

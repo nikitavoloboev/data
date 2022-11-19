@@ -996,3 +996,4 @@
 - [MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis (2022)](https://arxiv.org/abs/2211.09117) ([Code](https://github.com/LTH14/mage))
 - [Paddle Detection](https://github.com/PaddlePaddle/PaddleDetection/blob/release/2.5/README_en.md) - High-Efficient Development Toolkit for Object Detection based on PaddlePaddle.
 - [Instant Neural Surface Reconstruction](https://github.com/bennyguo/instant-nsr-pl)
+- [All are Worth Words: A ViT Backbone for Diffusion Models (2022)](https://arxiv.org/abs/2209.12152) ([Code](https://github.com/baofff/U-ViT))

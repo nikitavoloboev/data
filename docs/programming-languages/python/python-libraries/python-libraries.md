@@ -1060,6 +1060,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [aspectlib](https://github.com/ionelmc/python-aspectlib) - Aspect-oriented programming, monkey-patch and decorators library.
 - [zaml](https://github.com/adamserafini/zaml) - Fast YAML 1.2 parsing library for Python 3. Written in Zig.
 - [Madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library.
+- [ormsgpack](https://github.com/aviramha/ormsgpack) - Msgpack serialization/deserialization library for Python, written in Rust using PyO3 and rust-msgpack.
 
 ## Notes
 

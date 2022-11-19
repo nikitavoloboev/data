@@ -580,3 +580,4 @@ all: unset
 - [The evolution of scalable CSS (2022)](https://frontendmastery.com/posts/the-evolution-of-scalable-css/) ([HN](https://news.ycombinator.com/item?id=33572264))
 - [BlurHash to CSS](https://github.com/JamieMason/blurhash-to-css) - Converts a BlurHash to a CSS Object using TypeScript, Rust, and WebAssembly.
 - [Styling form states without JS](https://webkit.org/blog/13096/css-has-pseudo-class/#styling-form-states-without-js)
+- [Tree views in CSS](https://iamkate.com/code/tree-views/) ([HN](https://news.ycombinator.com/item?id=33667270))

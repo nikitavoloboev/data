@@ -313,3 +313,4 @@ title: Svelte
 - [svelte-table](https://github.com/dasDaniel/svelte-table) - Minimal table component. Allows sorting and filtering based on column values, and row selection/expanding.
 - [SvelteKit-Search-Params](https://github.com/paoloricciuti/sveltekit-search-params) - Fastest way to read and write from query search params.
 - [Svelte Meet](https://svelte-meet.herokuapp.com/) - Video calling web app build with SvelteKit and SocketIO.
+- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization for Svelte.

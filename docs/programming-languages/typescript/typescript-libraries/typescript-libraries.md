@@ -156,6 +156,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Web Crypto Tools](https://github.com/willgm/web-crypto-tools) - Set of tools to facilitate and give good defaults for use of the native Web Crypto API.
 - [zkp-ecdsa](https://github.com/cloudflare/zkp-ecdsa) - Proves knowledge of an ECDSA-P256 signature under one of many public keys that are stored in a list.
 - [hpke-js](https://github.com/dajiaji/hpke-js) - Hybrid Public Key Encryption (HPKE) module built on top of Web Cryptography API.
+- [iron-webcrypto](https://github.com/brc-dd/iron-webcrypto) - Encapsulated tokens (encrypted and mac'ed objects).
 
 ## Error
 
@@ -676,6 +677,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [JavaScript Stringify](https://github.com/blakeembrey/javascript-stringify) - Stringify is to eval as JSON.stringify is to JSON.parse.
 - [Polymorphic](https://github.com/chakra-ui/polymorphic) - Create polymorphic React/SolidJS components with a customizable styled function.
 - [iter-ops](https://github.com/vitaly-t/iter-ops) - Basic operations on iterables.
+- [parse-favicon](https://github.com/BlackGlory/parse-favicon) - Parse HTML to get icon information.
 
 ## Links
 

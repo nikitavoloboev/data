@@ -587,6 +587,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-face](https://github.com/Kagami/go-face) - Face recognition with Go.
 - [Nune](https://github.com/vorduin/nune) - Tensor based numerical engine.
 - [Cybertron](https://github.com/nlpodyssey/cybertron) - Go package that provides a simple and easy-to-use interface for cutting-edge NLP.
+- [CNNs](https://github.com/LdDl/cnns) - Convolutional Neural Networks in Go.
 
 ## Graphics
 

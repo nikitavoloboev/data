@@ -152,3 +152,4 @@ title: Speech recognition
 - [Buzz](https://github.com/chidiwilliams/buzz) - Transcribe and translate audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [FastWhisper](https://github.com/FamousDirector/FastWhisper) - Optimized implementation of OpenAI's Whisper for multilingual transcription.
 - [I record myself on audio 24x7 and use an AI to process the information (2022)](https://roberdam.com/en/wisper.html) ([HN](https://news.ycombinator.com/item?id=33608437))
+- [Transcribe File](https://freesubtitles.ai/) - Free transcription service powered by Whisper AI. ([HN](https://news.ycombinator.com/item?id=33663486))

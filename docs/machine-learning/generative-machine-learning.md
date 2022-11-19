@@ -1,6 +1,6 @@
 # Generative Machine Learning
 
-[Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) is [good read](https://news.ycombinator.com/item?id=33084205).
+[Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) & [How diffusion models work](https://twitter.com/iScienceLuvr/status/1592860019057250304) are [great reads](https://news.ycombinator.com/item?id=33084205).
 
 Progress in models like [Midjourney](https://www.midjourney.com/) is getting [insanely good](https://twitter.com/euboid/status/1593174650262986754).
 

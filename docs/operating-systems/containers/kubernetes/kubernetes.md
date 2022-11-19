@@ -868,3 +868,5 @@ title: Kubernetes
 - [Kubernetes Bootstrapper](https://github.com/hivenetes/k8s-bootstrapper) - Extendable framework to set up production grade clusters.
 - [Kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
 - [Roadmap to learn Kubernetes from scratch](https://github.com/techiescamp/kubernetes-learning-path)
+- [k8spacket](https://github.com/k8spacket/k8spacket) - Packets traffic visualization for Kubernetes.
+- [Kubernetes Gateway API bindings in Rust](https://github.com/kube-rs/gateway-api-rs)

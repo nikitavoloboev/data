@@ -14,6 +14,8 @@ Using Solid for all my web apps and static sites. Love how it takes all the best
 
 My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](https://github.com/learn-anything/learn-anything/) are OSS & built with Solid.
 
+[Solid Dev Tools](https://github.com/thetarnav/solid-devtools) are useful.
+
 ## OSS apps
 
 - [Solid Hacker News](https://github.com/solidjs/solid-hackernews)

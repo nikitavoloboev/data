@@ -61,3 +61,4 @@
 - [Slow Roads](https://slowroads.io/) - Chill driving game with procedurally generate scenic landscapes. ([HN](https://news.ycombinator.com/item?id=33305234)) ([Article](https://anslo.medium.com/slow-roads-tl-dr-a664ac6bce40))
 - [Go Generators](https://github.com/Flokey82/go_gens) - Various small attempts at procedural generation, AI, simulation and whatnot.
 - [Dendry: A Procedural Model for Dendritic Patterns](https://github.com/mgaillard/Noise)
+- [pGLOWrpg](https://github.com/roalyr/pglowrpg) - Procedurally Generated Living Open World RPG.

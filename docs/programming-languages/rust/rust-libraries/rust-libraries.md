@@ -900,6 +900,7 @@
 - [structmap](https://github.com/ex0dus-0x/structmap) - Procedural macro crate for conversion between Rust structs and associative containers.
 - [mixin](https://github.com/DenisKolodin/mixin) - Macros that combine fields and implementations of different structs.
 - [Rust Embed for Web](https://github.com/SeriousBug/rust-embed-for-web) - Rust Macro which embeds files into your executableFork of rust-embed with a focus on usage in web servers..
+- [OptionalStruct](https://github.com/lesurp/OptionalStruct) - Macro copying a struct with Option fields. Useful for config initialization.
 
 ## Math
 
@@ -2333,6 +2334,7 @@
 - [compress-tools](https://github.com/OSSystems/compress-tools-rs) - Swiss Army Knife for handling compressed data in Rust.
 - [timbre](https://github.com/thoren-d/timbre) - Rust audio library designed for composing real-time effects.
 - [zalgo codec](https://github.com/JSorngard/zalgo_codec) - Crate for converting an ASCII text string or file to a single unicode character.
+- [bigdecimal-rs](https://github.com/akubera/bigdecimal-rs) - Arbitrary precision decimal crate for Rust.
 
 ## Cargo Plugins
 
