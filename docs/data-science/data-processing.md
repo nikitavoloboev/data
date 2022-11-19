@@ -134,3 +134,4 @@
 - [Memphis](https://github.com/memphisdev/memphis-broker) - Real-Time Data Processing Platform. ([Web](https://memphis.dev/))
 - [dedup](https://github.com/deepinthebuild/dedup) - Command-line tool for deduplicating entries in a file or stream.
 - [parquet-tools](https://github.com/ktrueda/parquet-tools) - Easy install parquet-tools.
+- [BitSail](https://github.com/bytedance/bitsail) - ByteDance's open source data integration engine which is based on distributed architecture and provides high performance.

@@ -127,3 +127,4 @@
 - [Spotty](https://github.com/spotty-cloud/spotty) - Training deep learning models on AWS and GCP instances.
 - [FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - Accessible and efficient deployment Development Toolkit.
 - [explainerdashboard](https://github.com/oegedijk/explainerdashboard) - Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.
+- [MatxScript](https://github.com/bytedance/matxscript) - Model pre- and post-processing framework.

@@ -473,6 +473,7 @@
 - [Flax](https://github.com/ten3roberts/flax) - Fully featured and easy to use ECS library for rust.
 - [yakui](https://github.com/LPGhatguy/yakui) - Declarative Rust UI library for games.
 - [Polyanya](https://github.com/vleue/polyanya) - Compromise-free Pathfinding on a Navigation Mesh.
+- [me3](https://github.com/garyttierney/me3) - Framework for modding and instrumenting games.
 
 ## GraphQL
 
