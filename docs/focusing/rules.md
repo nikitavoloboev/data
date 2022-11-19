@@ -172,7 +172,8 @@
 
 ## Finance
 
-- Mindfully spend money. Don't support practices I don't agree with.
+- Mindfully spend money. Always cut costs on things I no longer use.
+- Don't support practices I don't agree with.
 - When paying online, check that payments go through.
 - Include personal or company VAT in all business expenses (tech, bigger purchases) to get tax write offs on quarterly tax payments.
 
@@ -323,6 +324,10 @@
 ## Video
 
 - Add time stamps to videos released on YouTube.
+
+## Hiring
+
+- Hire best people and give them freedom to create. Within bounds of the general company vision.
 
 ## Trello
 

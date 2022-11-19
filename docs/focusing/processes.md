@@ -27,6 +27,12 @@ I think of my [rules](rules.md) as boundaries within I try to operate my life. A
 1. Write in [look back](../looking-back/looking-back.md), taking general view of what happened in a week.
 2. Make plans for next week. Arrange [ideas](../ideas/ideas.md) in focus. Long term focuses.
 
+## End of month Plan/Review (1st day of month)
+
+1. Summarize [look back](../looking-back/looking-back.md).
+2. Review finances & investments. Cut out non needed expenses. Reinvest if necessary.
+3. Make/check general plans for next month.
+
 ## Learn
 
 1. Read about the topic/concept. Wiki/Google.
