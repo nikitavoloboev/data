@@ -53,6 +53,7 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - The main reason for all three high blood pressure , diabetes and obesity seems to be excess glucose intake in our food. Millets seem to work wonders in solving this problem for society at large and also moving towards high fiber vegetables diet plan incontrolling blood pressure and diabetes.
 - [Sugar doesn't make you fat, excess calories do. Honeycomb has a low glycemic index. Glycemic index matters a lot in any discussion about insulin.](https://twitter.com/tautologer/status/1521719972401016832)
 - [Lost weight is exhaled primarily as carbon dioxide and water vapor](https://www.reddit.com/r/NoStupidQuestions/comments/wij32s/i_lost_55_lbs_but_where_is_it/)
+- [Eat eggs, salami, yogurt, butter, fish eggs, sardines, cheeses, the highest quality you can afford. Remove excess folate (folic acid) supplementation from diet.](https://twitter.com/simonsarris/status/1593977228567666690)
 
 ## Links
 

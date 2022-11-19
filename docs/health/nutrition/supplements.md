@@ -99,3 +99,4 @@ Some maybe interesting supplements. Some I tried but stopped.
 - [Supplements that worked amazingly for you (2022)](https://www.reddit.com/r/Nootropics/comments/ypc66w/is_there_any_supplements_that_work_amazingly_for/)
 - [Omega-3's beneficial effects](https://www.foundmyfitness.com/topics/omega-3) ([Reddit](https://www.reddit.com/r/Nootropics/comments/yijz07/omega3_has_beneficial_effects_on_cognitive/))
 - [B12 was the missing link I've been looking for](https://www.reddit.com/r/Nootropics/comments/yblu6q/b12_was_the_missing_link_for_what_ive_been/)
+- [B12 supplement is crucial](https://twitter.com/simonsarris/status/1593973699241205760)

@@ -174,3 +174,4 @@ I believe crowd funding to be best way to raise money for something. As compared
 - [Ask HN: Learning about fundraising as first-time tech founders (2022)](https://news.ycombinator.com/item?id=33354858)
 - [13 investor databases for seed stage Founders looking to raise money](https://twitter.com/alexfmac/status/1426588999532126212)
 - [Fundraising Lore](https://www.lore.vc/) - Guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors. ([Code](https://github.com/dvitanov/lorevc))
+- [Fundraising with Capital app](https://twitter.com/brianarmstrong/status/1593702126743535617)
