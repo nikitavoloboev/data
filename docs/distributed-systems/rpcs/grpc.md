@@ -135,3 +135,5 @@ title: gRPC
 - [protoc-gen-grpc-gateway-ts](https://github.com/grpc-ecosystem/protoc-gen-grpc-gateway-ts) - TypeScript client generator for the grpc-gateway project.
 - [gRPC Long-lived Streaming](https://github.com/omri86/longlived-grpc)
 - [ProtoClient](https://github.com/codenothing/proto-client) - Typed gRPC Client with static code generation.
+- [gRPC & protocol buffers with Askhay Shah (2022)](https://changelog.com/gotime/256)
+- [gRPC Demystified](https://github.com/akshayjshah/grpc-demystified) - Build a gRPC server in 7 minutes - using just the Go standard library.

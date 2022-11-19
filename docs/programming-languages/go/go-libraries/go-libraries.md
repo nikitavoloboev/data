@@ -2067,3 +2067,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [goimports-reviser](https://github.com/incu6us/goimports-reviser) - Right imports sorting & code formatting tool (goimports alternative).
 - [GoReleaser-Cross](https://github.com/goreleaser/goreleaser-cross) - Docker image for Go cross-compiling with CGO.
 - [nabaz](https://github.com/nabaz-io/nabaz) - Test runner for the easily distracted.
+- [coredumpctl, delve and debug packages for Go (2022)](https://linderud.dev/blog/coredumpctl-delve-and-debug-packages-for-go/)

@@ -415,3 +415,4 @@
 - [If you could re-do all math nomenclature, how would you rename things to make them more clear or more intuitive? (2022)](https://www.reddit.com/r/math/comments/ysbtnr/if_you_could_redo_all_math_nomenclature_how_would/)
 - [Mathematical Blind Spots](https://kylehovey.github.io/blog/mathematical-blind-spots)
 - [Wavelets: A mathematical microscope](https://www.youtube.com/watch?v=jnxqHcObNK4) ([HN](https://news.ycombinator.com/item?id=33583114))
+- [What are the most influential math books ever written? (2022)](https://www.reddit.com/r/math/comments/yz8px3/what_are_the_most_influential_maths_books_ever/)
