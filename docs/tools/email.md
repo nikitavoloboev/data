@@ -10,6 +10,8 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 
 I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/status/1528861135717683201) is an example of a good one.
 
+[Listmonk](https://listmonk.app/) is great self-hosted newsletter and mailing list manager.
+
 ## Notes
 
 - [All archive does is remove the Inbox label (in Gmail).](https://productforums.google.com/forum/#!msg/gmail/2xUYO5ifCCY/95_y02y2IgAJ)

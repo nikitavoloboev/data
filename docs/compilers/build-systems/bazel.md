@@ -65,3 +65,4 @@ title: Bazel
 - [When to use Bazel?](https://earthly.dev/blog/bazel-build/)
 - [focus](https://github.com/twitter/focus) - Tool to manage Git sparse checkouts derived from the Bazel build graph.
 - [BazelCon 2022](https://opensourcelive.withgoogle.com/events/bazelcon2022)
+- [Bazel clang-tidy](https://github.com/erenon/bazel_clang_tidy) - Run clang-tidy on Bazel C++ targets directly, efficiently, with caching enabled.
