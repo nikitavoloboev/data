@@ -373,3 +373,5 @@
 - [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds.
 - [Google's Open Source Hardware Dreams (2022)](https://www.youtube.com/watch?v=tR7HuqZXQ3I)
 - [Board-DB](https://hackerboards.com/) - Single Board Computer Database.
+- [The Chip Letter](https://thechipletter.substack.com/) - Byte sized stories about the history of computing.
+- [Chip Letter Links No. 9 : RISC-V, Tank Simulation, Unix History, IBM Research, Fred Brooks and more. (2022)](https://thechipletter.substack.com/p/chip-letter-links-no-9-risc-v-tank)

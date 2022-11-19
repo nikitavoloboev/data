@@ -15,7 +15,7 @@ Every [morning](../../focusing/processes.md#morning), after I do a [workout](../
 
 After drinking the smoothie, I also take these supplements, inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/):
 
-- [Vegan Omega 3 DHA & EPA via Algal oil](https://www.uganutraceuticals.com/product/omegor-veg) (4 capsules)
+- [Vegan Omega 3 DHA & EPA via Algal oil](https://www.uganutraceuticals.com/product/omegor-veg) (3 capsules)
 - [Vitamin D3 + K2 + C](https://nootropicsdepot.com/vitamin-d3-k2-c-supplement/) (1 capsule)
 - [Magnesium](https://nootropicsdepot.com/magtein-magnesium-l-threonate-capsules/) (1 capsule morning & 2 before sleep)
 - [B12 Sublingual](https://nootropicsdepot.com/super-b12-sublingual-solution/) (0.5mL drop)

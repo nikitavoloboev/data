@@ -20,7 +20,11 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 
 It's a matter of time that death can be avoided. Fastest way to get to this future is getting to [AGI](../machine-learning/artificial-intelligence.md).
 
-I mention what I think happens after we die [here](../environment/veganism.md).
+I do think, when you die. That's that. You maybe will have some interesting [DMT](../drugs/psychedelics/tryptamines/dmt.md) like experience as you go but then you and all your memories will cease to exist.
+
+But as far as there are living beings in the universe, life and thus ability to experience things will never stop until at least [heat death of the universe](https://en.wikipedia.org/wiki/Heat_death_of_the_universe) arrives. There will always be an observer to the experience and most likely 'you' will be born again into some living being, statistically likely some insect. Thus I find it so important to [treat others including animals with care and love](../environment/veganism.md). Not eat them. Make their existance as pleasant as possible, not just for them but even egoistically for your future 'you'.  
+
+At least I try to live my life believing this. It kind of grounds me and gives me purpose too. Find out all there is to find out about how the [universe](../space/universe.md) works. And make every living being existence as nice as possible. 
 
 ## Notes
 
