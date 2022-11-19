@@ -6,6 +6,8 @@
 
 [Chisel](https://www.chisel-lang.org/) seems like an amazing framework for hardware designs. So as [Flux](https://www.flux.ai/p) & [Diode](https://www.withdiode.com/)
 
+[Computer Architecture: Quantitative Approach](https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1) is great book.
+
 ## Notes
 
 - [The next 20 years in semiconductors will be dominated by insanely large SIMD processors with massive stacked memory and network bandwidth.](https://twitter.com/aeyakovenko/status/1497462132400553989)
@@ -375,3 +377,5 @@
 - [Board-DB](https://hackerboards.com/) - Single Board Computer Database.
 - [The Chip Letter](https://thechipletter.substack.com/) - Byte sized stories about the history of computing.
 - [Chip Letter Links No. 9 : RISC-V, Tank Simulation, Unix History, IBM Research, Fred Brooks and more. (2022)](https://thechipletter.substack.com/p/chip-letter-links-no-9-risc-v-tank)
+- [Nice resources to learn state of art hardware architectures (2022)](https://news.ycombinator.com/item?id=33667485)
+- [Processor Design: An Introduction (1998)](http://www.gamezero.com/team-0/articles/math_magic/micro/) ([HN](https://news.ycombinator.com/item?id=33636724))

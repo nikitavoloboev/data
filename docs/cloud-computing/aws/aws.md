@@ -410,3 +410,4 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [Empire](https://github.com/remind101/empire) - PaaS built on top of Amazon EC2 Container Service (ECS).
 - [Now Go Build with Werner Vogels | AWS - YouTube](https://www.youtube.com/playlist?list=PLhr1KZpdzukdIpgzSSCkNsnRAwDz6Xx5B)
 - [AWS Policy Simulator](https://github.com/tonygoold/awspolicy) - Offline tool for parsing and evaluating AWS IAM policies.
+- [RioFS](https://github.com/skoobe/riofs) - Userspace filesystem for Amazon S3 buckets for servers that run on Linux and macOS.

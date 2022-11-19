@@ -468,3 +468,4 @@ I do write Rust, but tried out [Zig](zig/zig.md) when I want to write embedded c
 - [Millet](https://github.com/matijapretnar/millet) - ML-like pure functional language that can be used as a template for creating your own language.
 - [Certified Interpreter for ML with Structural Polymorphism](https://github.com/garrigue/certint)
 - [Tamarin](https://github.com/cloudcmds/tamarin) - Fun and pragmatic scripting language written in Go. May be used as a CLI or embedded as a library.
+- [Plunder](https://github.com/plundering/plunder-reference) - Programming model that makes it possible to have programs that "run forever", eliminating the need for a separate storage abstraction.

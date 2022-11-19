@@ -4,6 +4,8 @@ title: RISC-V
 
 # [RISC-V](https://en.wikipedia.org/wiki/RISC-V)
 
+[Digital Design and Computer Architecture, RISC-V Edition](https://www.elsevier.com/books/digital-design-and-computer-architecture-risc-v-edition/harris/978-0-12-820064-3) is nice book.
+
 ## Links
 
 - [RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual)
@@ -199,3 +201,5 @@ title: RISC-V
 - [The RISC Deprogrammer (2022)](https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html) ([HN](https://news.ycombinator.com/item?id=33326858))
 - [Minimax](https://github.com/gsmecher/minimax) - Compressed-First, Microcoded RISC-V CPU. ([HN](https://news.ycombinator.com/item?id=33422717))
 - [RISC-V Vector Autometic Tests Generator](https://github.com/hushenwei2000/rvv-atg)
+- [Computer Organization and Design RISC-V Edition (2017)](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-812275-4)
+- [Digital Design and Computer Architecture, RISC-V Edition (2021)](https://www.elsevier.com/books/digital-design-and-computer-architecture-risc-v-edition/harris/978-0-12-820064-3)

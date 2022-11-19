@@ -219,3 +219,4 @@
 - [imageinfo-rs](https://github.com/xiaozhuai/imageinfo-rs) - Rust library to get image size and format without loading/decoding.
 - [Jimp Compact](https://github.com/unjs/jimp-compact) - Lightweight version of Jimp compiled with vercel/ncc.
 - [Photo2Pixel](https://github.com/Jzou44/photo2pixel) - Algorithm converting photo into pixel art.
+- [TransformImgs](https://github.com/Pixboost/transformimgs) - Open Source Image CDN that provides image transformation API and supports the latest image formats, such as WebP, AVIF and network client hints.

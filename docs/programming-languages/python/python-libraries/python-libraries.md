@@ -1061,6 +1061,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [zaml](https://github.com/adamserafini/zaml) - Fast YAML 1.2 parsing library for Python 3. Written in Zig.
 - [Madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library.
 - [ormsgpack](https://github.com/aviramha/ormsgpack) - Msgpack serialization/deserialization library for Python, written in Rust using PyO3 and rust-msgpack.
+- [FFX](https://github.com/natekupp/ffx) - Fast Function Extraction.
 
 ## Notes
 

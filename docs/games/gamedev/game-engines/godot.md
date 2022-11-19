@@ -95,3 +95,4 @@ title: Godot
 - [Godot Aseprite Wizard](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Godot plugin to help import Aseprite animations to AnimationPlayers, AnimatedSprites and SpriteFrames.
 - [Rust Comes to Godot 4 (2022)](https://www.youtube.com/watch?v=d-hZv5ztr34)
 - [Movie Maker mode in Godot 4.0 (2022)](https://godotengine.org/article/movie-maker-mode-arrives-in-godot-4) ([HN](https://news.ycombinator.com/item?id=33598256))
+- [V-Sekai](https://github.com/V-Sekai/v-sekai-game) - Open source project aiming to bring social VR/VRSNS/metaverse components to the Godot Engine.

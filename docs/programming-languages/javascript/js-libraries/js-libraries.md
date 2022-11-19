@@ -1054,6 +1054,7 @@
 - [capture-stack-trace](https://github.com/sindresorhus/capture-stack-trace) - Ponyfill for Error#captureStackTrace.
 - [TourGuide](https://github.com/sjmc11/tourguide-js) - JavaScript library written for creating user tours and on-boarding steps for your apps.
 - [Scroll Based Animation](https://github.com/lmgonzalves/scroll-based-animation)
+- [fsxx](https://github.com/antfu/fsxx) - File system in zx style.
 
 ## Links
 

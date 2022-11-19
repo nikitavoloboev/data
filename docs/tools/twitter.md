@@ -259,3 +259,5 @@ I also find it [frustrating that Twitter iOS client doesn't have the ability to 
 - [Backup Twitter data now](https://www.reddit.com/r/DataHoarder/comments/yy7tig/backup_twitter_now_multiple_critical_infra_teams/)
 - [Converting Your Twitter Archive to Markdown (2022)](https://matthiasott.com/notes/converting-your-twitter-archive-to-markdown)
 - [How Twitter might play out, the ramifications, and what Elon’s calculus might be](https://twitter.com/LBacaj/status/1593705261939802112)
+- [unflwrs](https://github.com/Syfaro/unflwrs) - Tool to track Twitter followers.
+- [Twitter Architecture 2022 vs 2012](https://twitter.com/alexxubyte/status/1594008281340530688)

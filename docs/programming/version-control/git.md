@@ -599,3 +599,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [What makes Git so hard to use? (2022)](https://www.highflux.io/blog/what-makes-git-hard-to-use) ([HN](https://news.ycombinator.com/item?id=33626284))
 - [Bringing revsets to Git (2022)](https://blog.waleedkhan.name/bringing-revsets-to-git/)
 - [Ask HN: What made you finally grok Git? (2022)](https://news.ycombinator.com/item?id=33653212)
+- [ggman](https://github.com/tkw1536/ggman) - Manage all your local git repositories.

@@ -409,6 +409,7 @@ title: GitHub actions
 - [HLint action](https://github.com/tfausak/hlint-action) - Checks that Haskell files are linted with HLint.
 - [Edit Cabal Version](https://github.com/nikita-volkov/edit-cabal-version.github-action) - GitHub Action for bumping and retrieving the package version in .cabal files for Haskell projects.
 - [Automate Haskell releases](https://github.com/cachix/haskell-release-action)
+- [get-tested](https://github.com/Kleidukos/get-tested) - CLI tool that retrieves the tested-with stanza of a cabal file and formats it in such a way that GitHub Actions can use it.
 
 ## LLVM
 

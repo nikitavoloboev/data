@@ -40,6 +40,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Supabase Cache Helpers](https://github.com/psteinroe/supabase-cache-helpers) - Collection of framework specific Cache utilities for working with Supabase.
 - [groqd](https://github.com/FormidableLabs/groqd) - Schema-unaware, runtime and type-safe query builder for GROQ.
 - [strema](https://github.com/alexharri/strema) - Schema builder using TypeScript template strings.
+- [onetyped](https://github.com/sachinraja/onetyped) - Universal way to describe data.
 
 ## Web
 
