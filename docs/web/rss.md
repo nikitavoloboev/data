@@ -188,3 +188,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [NewsBlur](https://www.newsblur.com/) - Personal news reader that brings people together to talk about the world. ([Code](https://github.com/samuelclay/NewsBlur))
 - [Medium Feed](https://github.com/haydenbleasel/medium-feed) - Handy RSS to JSON parser for Medium.
 - [Feedle](https://feedle.world/) - Search engine for blogs and podcasts with RSS.
+- [RSS Nix](https://github.com/jafarlihi/rssnix) - Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader.

@@ -624,3 +624,4 @@ One other thing I hope Russia does improve on culturally, is minimize all kinds 
 - [Organic Kitchen](https://okindia.com/)
 - [Russia’s Road to Economic Ruin (2022)](https://www.foreignaffairs.com/russian-federation/russias-road-economic-ruin)
 - [MY812](https://my812.ru/)
+- [Страна, которую мы не представляем. Наталья Зубаревич о выживании, бедности и адаптации к худшему (2022)](https://www.youtube.com/watch?v=dkEMcHJJhKY)

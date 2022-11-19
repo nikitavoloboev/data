@@ -467,3 +467,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [Reactronica](https://github.com/unkleho/reactronica) - React audio components for making music in the browser. ([Web](https://reactronica.com/))
 - [Jukebox Web UI](https://github.com/vzakharov/jukebox-webui) - Google Colab-backed Web UI for creating music with OpenAI Jukebox.
 - [dysentery](https://github.com/Deep-Symmetry/dysentery) - Exploring ways to participate in a Pioneer Pro DJ Link network.
+- [uifx](https://github.com/wle8300/uifx) - Audio library designed for UI sound effects.

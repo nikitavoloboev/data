@@ -199,6 +199,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Noice](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - Fast and asynchronous auto-completion plugin for Neovim, focused on LSP.
 - [inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim) - Neovim support for LSP Inlay Hints.
+- [hover.nvim](https://github.com/lewis6991/hover.nvim) - Hover plugin framework for Neovim.
 
 ## Looks
 

@@ -6,7 +6,7 @@ title: gRPC
 
 [Connect](https://github.com/bufbuild/connect-go), [gRPC UI](https://github.com/fullstorydev/grpcui), [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway) & [Wombat](https://github.com/rogchap/wombat) are useful. [gRPC-Go](https://github.com/grpc/grpc-go) & [gRPC-TS](https://github.com/whisklabs/grpc-ts) are great too.
 
-[Evans](https://github.com/ktr0731/evans) is nice gRPC Go client.
+[Evans](https://github.com/ktr0731/evans) is nice gRPC Go client. [DRPC](https://github.com/storj/drpc) is interesting alternative to gRPC.
 
 ## Links
 

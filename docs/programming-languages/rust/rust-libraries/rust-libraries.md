@@ -2339,6 +2339,7 @@
 - [timbre](https://github.com/thoren-d/timbre) - Rust audio library designed for composing real-time effects.
 - [zalgo codec](https://github.com/JSorngard/zalgo_codec) - Crate for converting an ASCII text string or file to a single unicode character.
 - [bigdecimal-rs](https://github.com/akubera/bigdecimal-rs) - Arbitrary precision decimal crate for Rust.
+- [diff.rs](https://github.com/utkarshkukreti/diff.rs) - LCS based slice and string diffing implementation.
 
 ## Cargo Plugins
 

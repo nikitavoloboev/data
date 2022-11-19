@@ -407,3 +407,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [In Praise of Plan 9 (2022)](https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html) ([HN](https://news.ycombinator.com/item?id=33571953))
 - [Good books to review operating systems and computer architecture (2022)](https://www.reddit.com/r/computerscience/comments/yw6akh/what_are_good_books_to_review_operating_systems/)
 - [inspect](https://github.com/square/inspect) - Collection of metrics gathering, analysis utilities for various subsystems of Linux, MySQL and Postgres.
+- [TinyBIOS](https://github.com/pwk4m1/TinyBIOS) - Minimalist open source BIOS project for fun.
