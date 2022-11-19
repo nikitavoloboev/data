@@ -2,7 +2,7 @@
 
 I love Git and version control. And I use version control over any project I do. I follow a [series of rules](../../focusing/rules.md#git) when dealing with Git. [Josh](https://github.com/josh-project/josh) seems neat. [Think Like Git](https://tacaswell.github.io/think-like-git.html) & [What made you finally grok Git?](https://news.ycombinator.com/item?id=33653212) are great reads.
 
-[git-branchless](https://github.com/arxanas/git-branchless) is neat.
+[git-branchless](https://github.com/arxanas/git-branchless) & [git absorb](https://github.com/tummychow/git-absorb) are neat.
 
 ## Notes
 

@@ -57,3 +57,4 @@ title: ActivityPub
 - [RSS to ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub)
 - [Sorted list of ActivityPub relays for Mastodon or Pleroma](https://github.com/brodi1/activitypub-relays)
 - [API server for rustypub](https://github.com/hachyserve/actiserve)
+- [Epicyon](https://github.com/bashrc2/epicyon) - ActivityPub server without JavaScript, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.

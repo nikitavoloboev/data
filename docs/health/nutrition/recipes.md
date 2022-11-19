@@ -45,6 +45,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [The Best French Onion Soup](https://andrewzimmern.com/recipes/the-best-french-onion-soup/)
 - [Ajapsandali](https://nofrillskitchen.com/ajapsandali-recipe/) - Georgian Eggplant Stew.
 - [Old garlic soup in bread](https://www.youtube.com/watch?v=rSpHokFp7Js)
+- [Vegetable salad](https://www.reddit.com/r/PlantBasedDiet/comments/yyp19l/where_did_our_lunch_go/)
 
 ## Links
 

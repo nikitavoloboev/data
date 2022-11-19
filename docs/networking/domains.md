@@ -32,3 +32,4 @@ Prefer to use Google Domains over everything. I like to subdomain over my person
 - [Ask HN: How do I secure the domain for my business? (2022)](https://news.ycombinator.com/item?id=30818950)
 - [Find a good available .com domain](https://sive.rs/com) ([HN](https://news.ycombinator.com/item?id=31664440))
 - [Favorite tld tier list](https://twitter.com/t3dotgg/status/1584039578779799552)
+- [Hardening unused (sub)domains (2022)](https://www.mailhardener.com/kb/hardening-unused-domains)

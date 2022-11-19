@@ -2618,3 +2618,4 @@
 - [conc-map-bench](https://github.com/xacrimon/conc-map-bench) - Uses the bustle benchmarking harness.
 - [Symbolicator](https://github.com/getsentry/symbolicator) - Symbolication service for native stacktraces and minidumps with symbol server support.
 - [Template for a generic rust project hosted on GitHub](https://github.com/rust-github/template)
+- [What is your favorite standard library function? (2022)](https://www.reddit.com/r/rust/comments/yz3xul/what_is_your_favorite_standard_library_function/)

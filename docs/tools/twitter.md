@@ -258,3 +258,4 @@ I also find it [frustrating that Twitter iOS client doesn't have the ability to 
 - [stweet](https://github.com/markowanga/stweet) - Advanced python library to scrap Twitter (tweets, users) from unofficial API.
 - [Backup Twitter data now](https://www.reddit.com/r/DataHoarder/comments/yy7tig/backup_twitter_now_multiple_critical_infra_teams/)
 - [Converting Your Twitter Archive to Markdown (2022)](https://matthiasott.com/notes/converting-your-twitter-archive-to-markdown)
+- [How Twitter might play out, the ramifications, and what Elon’s calculus might be](https://twitter.com/LBacaj/status/1593705261939802112)
