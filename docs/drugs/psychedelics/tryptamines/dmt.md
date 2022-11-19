@@ -6,6 +6,8 @@ title: DMT
 
 I love all [tryptamines](tryptamines.md) but am yet to breakthrough on DMT. [Many say it's life changing](https://www.reddit.com/r/RationalPsychonaut/comments/u8la4o/why_is_dmt_treated_like_some_kind_of_special/). [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.me/Q21Q21%27s_Vinegar/Lime_A/B_Extraction_Tek) seems nice.
 
+[Ayahuasca](https://en.wikipedia.org/wiki/Ayahuasca) is pretty great too.
+
 ## Notes
 
 - [There's one study that implies that the brain releases endogenous DMT while it's in hypoxia, to prevent neuronal death. They confirmed that brain neurons resisted hypoxia much better when they administered DMT (in vitro). This isn't conclusive evidence, but it may explain why some Near Death Experiences resemble DMT experiences, as many Near Death situations imply brain hypoxia.](https://www.reddit.com/r/DMT/comments/yx4qcy/dmt_death/)
@@ -108,3 +110,4 @@ I love all [tryptamines](tryptamines.md) but am yet to breakthrough on DMT. [Man
 - [Does anyone have a theory of what DMT actually is?](https://www.reddit.com/r/DMT/comments/xezoyq/does_anyone_have_a_theory_of_what_dmt_actually_is/)
 - [Vinegar/Lime A/B Extraction Tek for DMT](https://wiki.dmt-nexus.me/Q21Q21%27s_Vinegar/Lime_A/B_Extraction_Tek)
 - [How safe is ayahuasca? Large-scale study explores (2022)](https://www.technologynetworks.com/biopharma/news/how-safe-is-ayahuasca-large-scale-study-explores-367665) ([HN](https://news.ycombinator.com/item?id=33648818))
+- [DMT/syrian rue pharmahuasca dosage](https://drugs-forum.com/threads/dmt-syrian-rue-pharmahuasca-dosage-inquiry.24187/) ([Reddit](https://www.reddit.com/r/DMT/comments/yz44i3/pharmahuasca/))

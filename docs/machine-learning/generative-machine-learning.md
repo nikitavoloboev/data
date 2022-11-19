@@ -2,7 +2,7 @@
 
 [Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) & [How diffusion models work](https://twitter.com/iScienceLuvr/status/1592860019057250304) are [great reads](https://news.ycombinator.com/item?id=33084205).
 
-Progress in models like [Midjourney](https://www.midjourney.com/) is getting [insanely good](https://twitter.com/euboid/status/1593174650262986754).
+Progress in models like [Midjourney](https://www.midjourney.com/) is getting [insanely good](https://www.reddit.com/r/midjourney/comments/yyom8a/london_1910/). Can even generate [nice header images](https://twitter.com/euboid/status/1593174650262986754) or [logos](https://twitter.com/sindresorhus/status/1590640203781533696).
 
 ## Notes
 
@@ -162,3 +162,4 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [Deforum Stable Diffusion](https://github.com/deforum-art/deforum-stable-diffusion)
 - [Deforum](https://deforum.github.io/) - Community of AI image synthesis developers, enthusiasts, and artists. ([GitHub](https://github.com/deforum-art))
 - [Shift-Attention](https://github.com/yownas/shift-attention) - In stable diffusion, generate a sequence of images shifting attention in the prompt.
+- [London, 1910 by Midjourney](https://www.reddit.com/r/midjourney/comments/yyom8a/london_1910/)

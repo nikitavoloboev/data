@@ -1,5 +1,9 @@
 # Logos
 
+[Generating logos](https://twitter.com/sindresorhus/status/1590640203781533696) with [Midjourney](https://www.midjourney.com/) is pretty great.
+
+Learning to make [icons](icons.md) of all kinds.
+
 ## Notes
 
 - [The thing they don’t want you to know about logo design is that you just write the word in a shitload of fonts until something cool happens and then you’re in business.](https://twitter.com/kevintwohy/status/1543300070535077888)
