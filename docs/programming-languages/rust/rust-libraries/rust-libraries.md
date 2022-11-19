@@ -476,6 +476,7 @@
 - [yakui](https://github.com/LPGhatguy/yakui) - Declarative Rust UI library for games.
 - [Polyanya](https://github.com/vleue/polyanya) - Compromise-free Pathfinding on a Navigation Mesh.
 - [me3](https://github.com/garyttierney/me3) - Framework for modding and instrumenting games.
+- [Backroll](https://github.com/HouraiTeahouse/backroll-rs) - Pure Rust implementation of GGPO rollback networking library.
 
 ## GraphQL
 
