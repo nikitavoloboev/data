@@ -171,6 +171,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [octox](https://github.com/o8vm/octox) - Unix-like operating system inspired by xv6-riscv.
 - [KotOS](https://github.com/kot-org/Kot) - 64-bit x86 operating system written in C/C++.
 - [elsOS](https://github.com/elsOS-dev/elsOS) - Functional italo-alsatian toy-kernel in rust, for x86.
+- [Glazier](https://github.com/linebender/glazier) - Operating system integration layer infrastructure layer intended for high quality GUI toolkits in Rust.
 
 ## Notes
 

@@ -37,3 +37,4 @@
 - [Swinging the Pendulum principle](https://twitter.com/BrandonMChu/status/1502312471461249030)
 - [Levels of Technical Leadership (2022)](https://dr-knz.net/levels-of-technical-leadership.html)
 - [Awesome Data Leadership](https://github.com/ronikobrosly/awesome-data-leadership)
+- [Strategy 101: An Introduction to Power](https://tasshin.com/blog/strategy-101/)

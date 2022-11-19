@@ -466,3 +466,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [RNBO Webpage Example](https://github.com/MrChico/rnbostuff) - Shows you how to add dynamic audio to a webpage, using the JavaScript source code export feature of RNBO.
 - [Reactronica](https://github.com/unkleho/reactronica) - React audio components for making music in the browser. ([Web](https://reactronica.com/))
 - [Jukebox Web UI](https://github.com/vzakharov/jukebox-webui) - Google Colab-backed Web UI for creating music with OpenAI Jukebox.
+- [dysentery](https://github.com/Deep-Symmetry/dysentery) - Exploring ways to participate in a Pioneer Pro DJ Link network.

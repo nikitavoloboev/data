@@ -77,3 +77,4 @@
 - [Google explains why it's removing JPEG XL from the Chromium code base (2022)](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84) ([Lobsters](https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl)) ([HN](https://news.ycombinator.com/item?id=33399940))
 - [Elements Of a Great Markup Language (2022)](https://matklad.github.io/2022/10/28/elements-of-a-great-markup-language.html) ([HN](https://news.ycombinator.com/item?id=33381373)) ([Lobsters](https://lobste.rs/s/cx7wl2/elements_great_markup_language))
 - [The essence of Reed-Solomon coding (2022)](https://mazzo.li/posts/reed-solomon.html) ([HN](https://news.ycombinator.com/item?id=33492716)) ([Lobsters](https://lobste.rs/s/hvqgl9/essence_reed_solomon_coding))
+- [msgpack-tools](https://github.com/ludocode/msgpack-tools) - Command-line tools for converting between MessagePack and JSON.

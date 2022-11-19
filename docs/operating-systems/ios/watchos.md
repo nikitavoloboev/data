@@ -10,3 +10,4 @@
 - [Continuous Glucose Monitoring on the Apple Watch (2022)](https://hturan.com/writing/apple-watch-continuous-glucose-monitoring)
 - [Quake 1 ported to the Apple Watch](https://github.com/MyOwnClone/quake_watch) ([HN](https://news.ycombinator.com/item?id=32747067))
 - [Analysis of Apple Watch running data (2022)](https://applewatchrunner.substack.com/p/apple-watch-running-review) ([HN](https://news.ycombinator.com/item?id=32971085))
+- [Quake 1 port for Apple Watch](https://github.com/ByteOverlord/Watch_Quake) ([HN](https://news.ycombinator.com/item?id=33667199))
