@@ -29,3 +29,4 @@ I mention exercises I do [here](fitness.md).
 - [Back Exercises Ranked (Best to Worst)](https://www.youtube.com/watch?v=w4vU3tzVM70)
 - [Why I Stopped Squatting and Deadlifting](https://www.youtube.com/watch?v=gso8KF6DiJM)
 - [How far can you go with only isometrics?](https://www.reddit.com/r/bodyweightfitness/comments/yyf4n9/how_far_can_you_go_with_only_isometrics/)
+- [How Many Sets Should You Do for Each Muscle? Beginner vs Advanced](https://www.youtube.com/watch?v=zcyv9-ifjWo)

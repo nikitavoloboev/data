@@ -275,3 +275,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [System Design Questions](https://github.com/arpitbbhayani/system-design-questions)
 - [Build the Modular Monolith First (2022)](https://www.fearofoblivion.com/build-a-modular-monolith-first) ([HN](https://news.ycombinator.com/item?id=33585104))
 - [arc42](https://github.com/arc42/arc42-template) - Template for effective, practical and pragmatic software architecture documentation and communication. ([Web](https://arc42.org/))
+- [Backend cheats](https://github.com/cheatsnake/backend-cheats)

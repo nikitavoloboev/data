@@ -28,7 +28,7 @@ Videos on [6 things i do every day to stay in shape](https://www.youtube.com/wat
 
 The biggest thing to keep in mind when doing workouts is to train until muscle failure and doing it in good form (so as to not get injuries or imbalances of muscle groups trained). That's why I prefer [calisthenics](https://en.wikipedia.org/wiki/Calisthenics) over any kind of exercise as full body weight exercises train many parts of your body at once.
 
-Most importantly I try to keep my back muscles in shape as due to nature of my work, I do sit for prolonged times even when I try to minimize it. Better back muscles means less slouching. [Yoga](yoga.md) is great for making back muscles stronger too.
+Most importantly I try to keep my [back muscles](https://www.youtube.com/watch?v=XxSgdX7lX6E) in shape as due to nature of my work, I do sit for prolonged times even when I try to minimize it. Better back muscles means less slouching. [Yoga](yoga.md) is great for making back muscles stronger too.
 
 ## Notes
 

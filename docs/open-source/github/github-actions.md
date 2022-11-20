@@ -363,6 +363,10 @@ title: GitHub actions
 
 - [setup-clojure](https://github.com/DeLaGuardo/setup-clojure) - Sets up Clojure tools environment for using in GitHub Actions.
 
+## ML
+
+- [FastAI Composite Actions workflows](https://github.com/fastai/workflows)
+
 ## C++
 
 - [run-cmake](https://github.com/lukka/run-cmake) - GitHub Action to build C++ applications with CMake.

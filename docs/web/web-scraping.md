@@ -229,3 +229,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Katana](https://github.com/projectdiscovery/katana) - Crawling and spidering framework. ([HN](https://news.ycombinator.com/item?id=33523546))
 - [PyWebCopy](https://github.com/rajatomar788/pywebcopy) - Locally saves webpages to your hard disk with images, CSS, JS & links as is.
 - [Unfurl](https://github.com/obsidianforensics/unfurl) - Extract and Visualize Data from URLs.
+- [Indieweb site crawler and MF2 data collection tool](https://github.com/bear/indie-stats)
