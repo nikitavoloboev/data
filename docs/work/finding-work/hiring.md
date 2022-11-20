@@ -6,6 +6,8 @@ It's good idea to fund people who work on tools/libraries you use in your startu
 
 [Small well aligned teams always work best](https://twitter.com/SawyerMerritt/status/1592023564693417984).
 
+I like [Tesla's simple hiring page](https://www.tesla.com/AI) with just one question of `What exceptional work have you done in ..`, link to CV and the name.
+
 ## Recruitment tests
 
 - [Frontier's full stack take home](https://github.com/BeFrontier/fullstack-takehome)

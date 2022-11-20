@@ -316,3 +316,4 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [Are the 30s the hardest age to be dating? (2022)](https://www.reddit.com/r/datingoverthirty/comments/ytpw5r/are_the_30s_the_hardest_age_to_be_dating/)
 - [Что для вас red flags (в других людях/в отношениях/где угодно)](https://twitter.com/leria1030pm/status/1593147268211019776)
 - [Don’t ask, don’t tell non monogamous relationship rules](https://www.reddit.com/r/nonmonogamy/comments/yzmoyx/couples_who_have_a_dont_ask_dont_tell_policy_with/)
+- [‘Why am I talking to 10 guys?’ The rise and fall of dating apps (2022)](https://www.theguardian.com/lifeandstyle/2022/nov/20/the-rise-and-fall-of-dating-apps) ([HN](https://news.ycombinator.com/item?id=33679643))

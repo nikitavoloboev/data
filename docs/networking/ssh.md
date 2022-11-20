@@ -132,3 +132,4 @@
 - [ssh-key-sync](https://github.com/shoenig/ssh-key-sync) - Tool for managing ssh authorized_key files on servers.
 - [RustCrypto: SSH](https://github.com/RustCrypto/SSH) - Pure Rust implementation of components of the Secure Shell (SSH) protocol.
 - [Making an SSH client the hard way (2022)](https://tailscale.com/blog/ssh-console/) ([Tweet](https://twitter.com/NathanMcNulty/status/1585693326854221824)) ([HN](https://news.ycombinator.com/item?id=33360776))
+- [SSH port forwarding with Go (2022)](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
