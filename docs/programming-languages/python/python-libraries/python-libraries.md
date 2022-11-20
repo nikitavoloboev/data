@@ -1062,6 +1062,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library.
 - [ormsgpack](https://github.com/aviramha/ormsgpack) - Msgpack serialization/deserialization library for Python, written in Rust using PyO3 and rust-msgpack.
 - [FFX](https://github.com/natekupp/ffx) - Fast Function Extraction.
+- [StaticFrame](https://github.com/static-frame/static-frame) - Immutable and grow-only Pandas-like DataFrames with a more explicit and consistent interface.
 
 ## Notes
 
@@ -1253,3 +1254,4 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [rustimport](https://github.com/mityax/rustimport) - Import Rust source files directly from Python.
 - [ABI compatibility in Python: How hard could it be? (2022)](https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/)
 - [PyCAPI](https://github.com/brandtbucher/pycapi) - Over 600 fast Python bindings to the CPython C API.
+- [optpy](https://github.com/kenkoooo/optpy) - Transpiler to generate a Rust file from a Python file.

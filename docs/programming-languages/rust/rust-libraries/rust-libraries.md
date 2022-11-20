@@ -2343,6 +2343,7 @@
 - [bigdecimal-rs](https://github.com/akubera/bigdecimal-rs) - Arbitrary precision decimal crate for Rust.
 - [diff.rs](https://github.com/utkarshkukreti/diff.rs) - LCS based slice and string diffing implementation.
 - [buffer-unordered-weighted](https://github.com/nextest-rs/buffer-unordered-weighted) - Rust Stream::buffer_unordered where each future can have a different weight.
+- [enve](https://github.com/pleshevskiy/enve) - Work with environment variables and convert it to any type using only type annotations.
 
 ## Cargo Plugins
 

@@ -604,3 +604,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Awesome Bookmarking](https://github.com/dogancelik/awesome-bookmarking)
 - [Videobook](https://github.com/danielgross/videobook)
 - [Putting Z-Library on IPFS (2022)](http://annas-blog.org/putting-5,998,794-books-on-ipfs.html) ([HN](https://news.ycombinator.com/item?id=33675224))
+- [Flow](https://www.flowoss.com/) - Online EPUB reader. ([Code](https://github.com/pacexy/flow))

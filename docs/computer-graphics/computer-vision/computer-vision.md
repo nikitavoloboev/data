@@ -998,3 +998,4 @@
 - [Instant Neural Surface Reconstruction](https://github.com/bennyguo/instant-nsr-pl)
 - [All are Worth Words: A ViT Backbone for Diffusion Models (2022)](https://arxiv.org/abs/2209.12152) ([Code](https://github.com/baofff/U-ViT))
 - [OneFormer: One Transformer to Rule Universal Image Segmentation (2022)](https://arxiv.org/abs/2211.06220) ([Code](https://github.com/SHI-Labs/OneFormer))
+- [Visual Object Tracking](https://github.com/DavidZhangdw/Visual-Tracking-Development)

@@ -61,3 +61,6 @@ title: ActivityPub
 - [Twitter, ActivityPub and The Future (2022)](https://aeracode.org/2022/11/15/twitter-activitypub-future/)
 - [Takahe](https://github.com/andrewgodwin/takahe) - ActivityPub/Fediverse server.
 - [Self-hosting GoToSocial on NixOS (2022)](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos) ([Lobsters](https://lobste.rs/s/lfyi9e/self_hosting_gotosocial_on_nixos))
+- [Pubgate](https://github.com/autogestion/pubgate) - Asyncronous Lightweight ActivityPub API / CMS.
+- [FedBOX](https://github.com/go-ap/fedbox) - Reference implementation of ActivityPub service.
+- [Go Littr](https://github.com/mariusor/go-littr) - Link aggregator inspired by (old)reddit using ActivityPub federation.

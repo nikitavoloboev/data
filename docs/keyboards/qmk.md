@@ -14,3 +14,4 @@
 - [Measure and reduce keyboard input latency with QMK on the Kinesis Advantage (2021)](https://michael.stapelberg.ch/posts/2021-05-08-keyboard-input-latency-qmk-kinesis/)
 - [QMK Discord](https://discord.com/invite/mthbPUc)
 - [kanata](https://github.com/jtroo/kanata) - Bring the customizability of a QMK board to any keyboard near you.
+- [Quantum Mechanical Keyboard Firmware](https://github.com/vial-kb/vial-qmk)

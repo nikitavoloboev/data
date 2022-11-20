@@ -94,3 +94,4 @@
 - [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/) ([HN](https://news.ycombinator.com/item?id=33039203))
 - [Ask HN: Best free text-to-speech plugins for browsers? (2022)](https://news.ycombinator.com/item?id=33163751)
 - [Neural Speech Synthesis Tutorial (2022)](https://github.com/tts-tutorial/interspeech2022)
+- [PhaseAug: Differentiable Augmentation for Speech Synthesis to Simulate One-to-Many Mapping (2022)](https://github.com/mindslab-ai/phaseaug)

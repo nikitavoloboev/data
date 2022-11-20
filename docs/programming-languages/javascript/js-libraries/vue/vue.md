@@ -23,6 +23,7 @@ title: Vue.js
 - [VueTube](https://github.com/Frontesque/VueTube) - Open source YouTube client.
 - [VuePress Home Page](https://github.com/imfing/vuepress-homepage) - Elegant & friendly homepage (bio, tech portfolio, resume, doc...) template with Markdown and VuePress.
 - [Nuxt 3 + Medium (n3dium)](https://github.com/danielroe/n3dium)
+- [Avantage](https://github.com/jurassicjs/avantage) - Accelerate building full stack node applications with Nuxt 3.
 
 ## Notes
 

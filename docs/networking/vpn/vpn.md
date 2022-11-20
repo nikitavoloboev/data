@@ -73,3 +73,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Gluetun VPN client](https://github.com/qdm12/gluetun) - Lightweight swiss-knife-like VPN client to multiple VPN service providers.
 - [Pritunl](https://github.com/pritunl/pritunl) - Distributed enterprise vpn server built using the OpenVPN protocol.
 - [The M247/DataPacket Problem with Mullvad VPN (2022)](https://worldofmatthew.com/technology/mullvad-m247/) ([HN](https://news.ycombinator.com/item?id=33274031))
+- [Cunicu](https://github.com/stv0g/cunicu) - User-space daemon managing WireGuard interfaces to establish a mesh of peer-to-peer VPN connections in harsh network environments.

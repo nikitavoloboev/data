@@ -375,3 +375,4 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Unexpected games which are making ton of money (2022)](https://www.reddit.com/r/gamedev/comments/yrhj79/unexpected_games_which_are_making_ton_of_money/)
 - [Rare](https://github.com/Dummerle/Rare) - GUI for legendary. An Epic Games Launcher open source alternative.
 - [Dark Souls 3 - Reverse Engineering](https://github.com/garyttierney/ds3-open-re)
+- [BOIII](https://github.com/momo5502/boiii) - Reverse engineering and analysis of Call of Duty: Black Ops III.

@@ -306,3 +306,4 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 - [FTX filing Chapter 11 in US explained (2022)](https://twitter.com/wassielawyer/status/1591099947461799936)
 - [97.7% of tokens launched on Uniswap were scams and rug pulls (2022)](https://arxiv.org/abs/2201.07220) ([HN](https://news.ycombinator.com/item?id=33572361))
 - [What Happened at Alameda Research (2022)](https://milkyeggs.com/?p=175) ([HN](https://news.ycombinator.com/item?id=33606740))
+- [Go HFT Order Book](https://github.com/alexey-ernest/go-hft-orderbook) - Go implementation of a Limit Order Book (LOB) for high frequency trading in crypto exchanges.

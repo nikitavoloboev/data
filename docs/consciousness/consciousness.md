@@ -2,7 +2,7 @@
 
 Consciousness is fascinating. [Joscha Bach](https://www.youtube.com/results?search_query=joscha+bach+consciousness) & [Stanislav Grof](https://www.youtube.com/results?search_query=Stanislav+Grof+) had some interesting things to say about it.
 
-I practice self reflection (via journaling) & meditation (walks in nature) to get a deeper awareness of myself and my surroundings.
+I practice self reflection (via [journaling](../life/journaling.md)) & [meditation](../mindfulness/meditation.md) (walks in nature) to get a deeper awareness of myself and my surroundings.
 
 ## Notes
 
