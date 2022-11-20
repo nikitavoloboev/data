@@ -57,6 +57,7 @@
 - [Tiny Automations](https://tinyautomations.com/) ([Twitter](https://twitter.com/TinyAutomations))
 - [Assemble Them All: Physics-Based Planning for Generalizable Assembly by Disassembly (2022)](http://assembly.csail.mit.edu/) ([Code](https://github.com/yunshengtian/Assemble-Them-All))
 - [Automatisch](https://automatisch.io/) - Open Source Zapier Alternative. ([Code](https://github.com/automatisch/automatisch))
+- [arx](https://github.com/norskeld/arx) - Simple CLI for scaffolding projects from templates in a touch.
 
 ## Images
 

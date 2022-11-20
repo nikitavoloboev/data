@@ -343,6 +343,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [reablocks](https://github.com/reaviz/reablocks) - Low Level Component Library for React.
 - [Remotion Animated](https://github.com/stefanwittwer/remotion-animated) - Delightful way to animate objects in Remotion.
 - [ILLA Design](https://github.com/illacloud/illa-design) - Fully responsive UI Library for React.
+- [React/NextJS Audio Player](https://github.com/madzadev/audio-player)
 
 ## Links
 

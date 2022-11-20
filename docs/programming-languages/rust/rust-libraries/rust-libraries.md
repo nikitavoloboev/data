@@ -238,6 +238,7 @@
 - [WasmEdge WASI Socket](https://github.com/second-state/wasmedge_wasi_socket) - Rust SDK for network socket functions available in the WasmEdge Runtime.
 - [prokio](https://github.com/yewstack/prokio) - Asynchronous runtime compatible with WebAssembly and non-WebAssembly targets.
 - [edom](https://github.com/adamritter/edom) - Immediate mode web frontend library written in Rust.
+- [spidermonkey-wasm-rs](https://github.com/bytecodealliance/spidermonkey-wasm-rs) - Rust bindings and generic builtins for SpiderMonkey for the wasm32-wasi target.
 
 ## GUI
 
@@ -2341,6 +2342,7 @@
 - [zalgo codec](https://github.com/JSorngard/zalgo_codec) - Crate for converting an ASCII text string or file to a single unicode character.
 - [bigdecimal-rs](https://github.com/akubera/bigdecimal-rs) - Arbitrary precision decimal crate for Rust.
 - [diff.rs](https://github.com/utkarshkukreti/diff.rs) - LCS based slice and string diffing implementation.
+- [buffer-unordered-weighted](https://github.com/nextest-rs/buffer-unordered-weighted) - Rust Stream::buffer_unordered where each future can have a different weight.
 
 ## Cargo Plugins
 

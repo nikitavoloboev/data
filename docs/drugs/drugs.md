@@ -6,6 +6,8 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 
 Only 'hard' drugs I partake in are [psychedelics](psychedelics/psychedelics.md). [Borax](https://www.reddit.com/user/Borax/) is a fun user to follow on Reddit.
 
+Always [know your substance, have good set (mindset) and setting (environment)](https://www.reddit.com/r/DMT/comments/yzxhlv/comment/ix38i6o/) before consuming any drug.
+
 ## Notes
 
 - [The drug isn't the issue its our relationship with them.](https://www.reddit.com/r/Psychedelics/comments/mpmmse/this_needs_to_stop/)

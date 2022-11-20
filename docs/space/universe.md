@@ -8,6 +8,7 @@
 - [A human is 25 orders of magnitude smaller than the whole universe, but 35 orders of magnitude bigger than a Planck length. We're bigger than average.](https://www.reddit.com/r/quantum/comments/n27xx8/question_in_the_scheme_of_the_size_of_the_known/)
 - [Universe & Neurons projections look very similar.](https://www.reddit.com/r/researchchemicals/comments/rcpgze/i_had_a_crazy_realisation_on_lsd/)
 - [In the beginning the Universe was created. This had made many people very angry and has been widely regarded as a bad move.](https://www.goodreads.com/quotes/1-the-story-so-far-in-the-beginning-the-universe-was)
+- [The game of the universe is to appear as strange to itself as it possibly can - Alan Watts](https://www.reddit.com/r/DMT/comments/z05lvy/the_cosmic_joke/)
 
 ## Links
 

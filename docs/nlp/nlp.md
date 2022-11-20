@@ -693,3 +693,4 @@
 - [Homophone Reveals the Truth: A Reality Check for Speech2Vec (2022)](https://arxiv.org/abs/2209.10791) ([Code](https://github.com/my-yy/s2v_rc))
 - [RetroMAE: Pre-Training Retrieval-oriented Language Models Via Masked Auto-Encoder (2022)](https://arxiv.org/abs/2205.12035) ([Code](https://github.com/staoxiao/RetroMAE))
 - [Generate conversation starters given two personalities using AI](https://github.com/langa-me/chat-example)
+- [MetaICL: Learning to Learn In Context (2021)](https://arxiv.org/abs/2110.15943) ([Code](https://github.com/facebookresearch/MetaICL))

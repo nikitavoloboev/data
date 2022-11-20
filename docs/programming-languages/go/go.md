@@ -903,3 +903,4 @@ if *boolArgPtr != false {
 - [Making a Go program 70% faster with a one character change (2022)](https://hmarr.com/blog/go-allocation-hunting/) ([HN](https://news.ycombinator.com/item?id=33594676))
 - [Google’s Go Style Guide](https://google.github.io/styleguide/go/) ([HN](https://news.ycombinator.com/item?id=33652343)) ([Reddit](https://www.reddit.com/r/golang/comments/yy8edb/googles_internal_go_style_guide/)) ([Lobsters](https://lobste.rs/s/vhxxjj/google_s_go_styleguide))
 - [Google Go Style Best Practices](https://google.github.io/styleguide/go/best-practices)
+- [Most modern Go books (2022)](https://www.reddit.com/r/golang/comments/z03gvg/most_modern_go_book/)

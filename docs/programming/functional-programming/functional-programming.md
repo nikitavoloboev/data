@@ -201,6 +201,7 @@
 - [Functional Programming Should Be the Future of Software Development (2022)](https://spectrum.ieee.org/functional-programming) ([HN](https://news.ycombinator.com/item?id=33433783))
 - [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
 - [What’s so great about functional programming anyway? (2022)](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/) ([HN](https://news.ycombinator.com/item?id=33620439)) ([Lobsters](https://lobste.rs/s/dvi2gq/what_s_so_great_about_functional))
+- [Demystifying monads (2021)](https://vm.codes/blog/demystifying-monads)
 
 ## Images
 

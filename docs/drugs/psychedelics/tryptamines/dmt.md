@@ -111,3 +111,4 @@ I love all [tryptamines](tryptamines.md) but am yet to breakthrough on DMT. [Man
 - [Vinegar/Lime A/B Extraction Tek for DMT](https://wiki.dmt-nexus.me/Q21Q21%27s_Vinegar/Lime_A/B_Extraction_Tek)
 - [How safe is ayahuasca? Large-scale study explores (2022)](https://www.technologynetworks.com/biopharma/news/how-safe-is-ayahuasca-large-scale-study-explores-367665) ([HN](https://news.ycombinator.com/item?id=33648818))
 - [DMT/syrian rue pharmahuasca dosage](https://drugs-forum.com/threads/dmt-syrian-rue-pharmahuasca-dosage-inquiry.24187/) ([Reddit](https://www.reddit.com/r/DMT/comments/yz44i3/pharmahuasca/))
+- [The ‘cosmic joke’](https://www.reddit.com/r/DMT/comments/z05lvy/the_cosmic_joke/)

@@ -110,3 +110,4 @@ title: Mastodon
 - [MastodonKit](https://github.com/MastodonKit/MastodonKit) - Swift Framework that wraps Mastodon's API.
 - [Mastodon on fly.io](https://github.com/indirect/flyapp-mastodon)
 - [Tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys.
+- [SwiftUI Mastodon client](https://github.com/Dimillian/IceCubesApp)

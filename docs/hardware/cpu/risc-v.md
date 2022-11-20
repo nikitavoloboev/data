@@ -203,3 +203,4 @@ title: RISC-V
 - [RISC-V Vector Autometic Tests Generator](https://github.com/hushenwei2000/rvv-atg)
 - [Computer Organization and Design RISC-V Edition (2017)](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-812275-4)
 - [Digital Design and Computer Architecture, RISC-V Edition (2021)](https://www.elsevier.com/books/digital-design-and-computer-architecture-risc-v-edition/harris/978-0-12-820064-3)
+- [Welcome to the First RISC-V Site](http://riscv.jghuff.com/) ([HN](https://news.ycombinator.com/item?id=33683571))

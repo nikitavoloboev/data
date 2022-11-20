@@ -213,3 +213,4 @@
 - [Waste datasets review](https://github.com/AgaMiko/waste-datasets-review) - List of image datasets with any kind of litter, garbage, waste and trash.
 - [TACO](https://github.com/pedropro/TACO) - Trash Annotations in Context Dataset Toolkit.
 - [Kangas](https://github.com/comet-ml/kangas) - Explore multimedia datasets at scale.
+- [FIB Benchmark](https://github.com/r-three/fib)
