@@ -60,3 +60,4 @@ title: ActivityPub
 - [Epicyon](https://github.com/bashrc2/epicyon) - ActivityPub server without JavaScript, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
 - [Twitter, ActivityPub and The Future (2022)](https://aeracode.org/2022/11/15/twitter-activitypub-future/)
 - [Takahe](https://github.com/andrewgodwin/takahe) - ActivityPub/Fediverse server.
+- [Self-hosting GoToSocial on NixOS (2022)](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos) ([Lobsters](https://lobste.rs/s/lfyi9e/self_hosting_gotosocial_on_nixos))

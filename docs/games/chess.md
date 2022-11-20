@@ -252,3 +252,4 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Lichess Mobile Code](https://github.com/lichess-org/mobile)
 - [Do any GMs exclusively play one specific opening?](https://www.reddit.com/r/chess/comments/n9wusq/do_any_gms_exclusively_play_one_specific_opening/)
 - [Rust rewrite of the sunfish simple chess engine](https://github.com/Recursing/sunfish_rs)
+- [Acquisition of Chess Knowledge in AlphaZero (2022)](https://www.pnas.org/doi/10.1073/pnas.2206625119) ([HN](https://news.ycombinator.com/item?id=33681795))
