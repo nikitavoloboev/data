@@ -214,3 +214,4 @@
 - [The “dark yellow problem” in design system color palettes](https://medium.com/user-experience-design-1/the-dark-yellow-problem-in-design-system-color-palettes-a0db1eedc99d) ([HN](https://news.ycombinator.com/item?id=33246700))
 - [Open design systems from the Figma Community](https://www.designsystems.com/open-design-systems/)
 - [Design System Guide](https://thedesignsystem.guide/)
+- [Layout & Grid in Design Systems (2022)](https://bradfrost.com/blog/post/layout-grid-in-design-systems/)
