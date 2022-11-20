@@ -458,7 +458,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [BookDark](https://bookdark.com/) - Read over 56000 Free Books Online.
 - [Books Search with Typesense](https://books-search.typesense.org/) - Instantly search 28M books from OpenLibrary (by Internet Archive). ([HN](https://news.ycombinator.com/item?id=25414389)) ([Code](https://github.com/typesense/showcase-books-search))
 - [A Book Like Foo](https://abooklikefoo.com/escape/) - Powerful Book Recommendations. ([HN](https://news.ycombinator.com/item?id=25405259))
-- [Open Library](https://openlibrary.org/) - Open, editable library catalog, building towards a web page for every book ever published. ([Code](https://github.com/internetarchive/openlibrary)) ([Open Library Data Dumps](https://openlibrary.org/developers/dumps))
+- [Open Library](https://openlibrary.org/) - Open, editable library catalog, building towards a web page for every book ever published. ([Code](https://github.com/internetarchive/openlibrary)) ([Open Library Data Dumps](https://openlibrary.org/developers/dumps)) ([HN](https://news.ycombinator.com/item?id=33655429))
 - [Packt](https://www.packtpub.com/) - Programming Books, eBooks & Videos for Developers. ([GitHub](https://github.com/PacktPublishing))
 - [Paged.js](https://github.com/pagedjs/pagedjs) - Open-source library to display paginated content in the browser and to generate print books using web technology.
 - [Verso Books](https://www.versobooks.com/) - Largest independent, radical publishing house in the English-speaking world, publishing one hundred books a year.

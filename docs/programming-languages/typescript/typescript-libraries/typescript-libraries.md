@@ -680,6 +680,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [iter-ops](https://github.com/vitaly-t/iter-ops) - Basic operations on iterables.
 - [parse-favicon](https://github.com/BlackGlory/parse-favicon) - Parse HTML to get icon information.
 - [Beet](https://github.com/metaplex-foundation/beet) - Borsh compatible De/Serializer.
+- [msgpack-ts](https://github.com/samclaus/msgpack-ts) - Fastest TypeScript MessagePack implementation.
 
 ## Links
 

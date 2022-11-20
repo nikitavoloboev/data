@@ -6,7 +6,7 @@ I try to maximize my [happiness](../life/happiness.md) and quality of life throu
 - [Mindfulness](../mindfulness/mindfulness.md) - Stress [shortens telomeres](https://www.ncbi.nlm.nih.gov/pubmed/12114022) & accelerates aging. Practice being in moment, being stoic & calm.
 - [Proper sleep](../sleep/sleep.md) - I go to sleep ~ 11/12 pm ideally and wake up without alarm getting as much sleep as my body needs.
 - [Exercise](../fitness/fitness.md) - Start every morning with some exercise. Go on walks or do exercise throughout the day when possible.
-- Dental care - Brush my teeth daily with occasional flossing.
+- [Dental care](teeth.md) - Brush my teeth daily with occasional flossing.
 - [Skin care](skin-care.md) - Cleanse, moisturize and apply serums to my skin every morning/evening. Together with applying sunscreen in mornings.
 - [Ergonomics](ergonomics.md) - Sit properly or stand, keeping good posture throughout the day. Never slouch my back and sit for long times. Take breaks. Use good chair & desk.
 

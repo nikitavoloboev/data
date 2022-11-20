@@ -131,3 +131,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Crouton](https://crouton.app/) - Meal Plan & Recipe Organiser.
 - [Felu - Fit by cooking - YouTube](https://www.youtube.com/c/FeluFitbycooking/videos)
 - [Healthy Recipes - YouTube](https://www.youtube.com/@GesundeRezepteDE/videos)
+- [My Go-To High Protein Meals for Winter Bulking](https://www.youtube.com/watch?v=9S1p0BWXEJI)

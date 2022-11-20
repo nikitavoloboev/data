@@ -23,3 +23,4 @@ Salvia is the only drug I tried thus far that gave me a true [ego death experien
 - [Experimenting with synthetic, highly potent and highly selective K-Opioid agonists](https://www.reddit.com/r/researchchemicals/comments/tqgf3f/experimenting_with_synthetic_highly_potent_and/)
 - [Dysdelics Reddit](https://www.reddit.com/r/dysdelics/)
 - [Salvia: never again](https://www.reddit.com/r/Psychonaut/comments/y5uax9/salvia_never_fucking_again/)
+- [What do you think of Salvia?](https://www.reddit.com/r/RationalPsychonaut/comments/yzhvbq/what_do_you_guys_think_of_salvia/)

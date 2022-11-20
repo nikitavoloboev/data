@@ -230,6 +230,7 @@ title: OCaml libraries
 - [pixeldrift](https://github.com/dbuenzli/pixeldrift) - Find perceptible pixel differences with OCaml.
 - [Parmap](https://github.com/rdicosmo/parmap) - Minimalistic library allowing to exploit multicore architecture for OCaml programs with minimal modifications.
 - [serde.ml](https://github.com/ostera/serde.ml) - Serialization framework for OCaml.
+- [Confero](https://github.com/paurkedal/confero) - Unicode collation library for OCaml.
 
 ## Links
 

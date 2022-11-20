@@ -480,3 +480,4 @@ if (
 - [ShadowRealms – an ECMAScript proposal for a better `eval()` (2022)](https://2ality.com/2022/04/shadow-realms.html)
 - [Why would anyone need JavaScript generator functions? (2022)](https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/) ([HN](https://news.ycombinator.com/item?id=33504700))
 - [Number.range & BigInt.range JS Proposal](https://github.com/tc39/proposal-Number.range)
+- [QuickJS Running in WebAssembly](https://github.com/justjake/quickjs-emscripten) ([HN](https://news.ycombinator.com/item?id=33678641))
