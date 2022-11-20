@@ -206,3 +206,4 @@
 - [Glasbey Categorical Color Palette Tools](https://github.com/lmcinnes/glasbey)
 - [A 900-Page Pre-Pantone Guide to Color from 1692: A Complete Digital Scan](https://www.openculture.com/2019/10/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-digital-scan.html)
 - [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/) ([HN](https://news.ycombinator.com/item?id=33651724))
+- [271 years before Pantone, every color imaginable in an 800-page book (2014)](https://www.thisiscolossal.com/2014/05/color-book/) ([HN](https://news.ycombinator.com/item?id=33675579))

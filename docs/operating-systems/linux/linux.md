@@ -635,3 +635,4 @@ title: Linux
 - [How the Linux kernel runs a program](https://0xax.gitbooks.io/linux-insides/content/SysCall/linux-syscall-4.html)
 - [Nix flake for Linux kernel module development](https://github.com/jordanisaacs/kernel-module-flake)
 - [Rust in the 6.2 kernel (2022)](https://lwn.net/SubscriberLink/914458/a6d5816bad1890e4/) ([HN](https://news.ycombinator.com/item?id=33653409))
+- [Tiniest x86-64-Linux emulator](https://github.com/jart/blink) ([HN](https://news.ycombinator.com/item?id=33675462))

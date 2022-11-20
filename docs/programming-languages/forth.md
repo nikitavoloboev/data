@@ -19,7 +19,7 @@
 - [Forth SoC Written in VHDL](https://github.com/howerj/forth-cpu) ([HN](https://news.ycombinator.com/item?id=26182925))
 - [Squad: Forth on Chip-8](https://internet-janitor.itch.io/squad)
 - [MiniForth](https://github.com/davidjade/MiniForth) - Minimal Forth Interpreter.
-- [Starting Forth](https://www.forth.com/starting-forth/) - Introduction to the Forth Programming Language. ([HN](https://news.ycombinator.com/item?id=26677630))
+- [Starting Forth (1981)](https://www.forth.com/starting-forth/) - Introduction to the Forth Programming Language. ([HN](https://news.ycombinator.com/item?id=26677630)) ([HN](https://news.ycombinator.com/item?id=33674486))
 - [Lisp in Forth](https://github.com/schani/forthlisp) ([HN](https://news.ycombinator.com/item?id=26882117))
 - [The Evolution of Forth](https://www.forth.com/resources/forth-programming-language/) ([HN](https://news.ycombinator.com/item?id=26924304))
 - [Tails](https://github.com/snej/tails) - Fast C++ Forth Core.
