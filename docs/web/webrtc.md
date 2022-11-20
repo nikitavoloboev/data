@@ -118,3 +118,4 @@ title: WebRTC
 - [Cloudflare Calls: Build real-time video and audio apps on the world’s most interconnected network (2022)](https://blog.cloudflare.com/announcing-cloudflare-calls/) ([HN](https://news.ycombinator.com/item?id=32994757))
 - [WebRTC-streamer](https://github.com/mpromonet/webrtc-streamer) - WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture.
 - [WebRTC stress test](https://github.com/vpalmisano/webrtc-stress-test) - Tool for running concurrent WebRTC sessions using chromium web browser in headless mode.
+- [Establish WebRTC connection without a signaling server using nothing but Web Push (2021)](https://jimmy.warting.se/2021/02/16/p2p-signal-with-webpush.html)
