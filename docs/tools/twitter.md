@@ -261,3 +261,4 @@ I also find it [frustrating that Twitter iOS client doesn't have the ability to 
 - [How Twitter might play out, the ramifications, and what Elon’s calculus might be](https://twitter.com/LBacaj/status/1593705261939802112)
 - [unflwrs](https://github.com/Syfaro/unflwrs) - Tool to track Twitter followers.
 - [Twitter Architecture 2022 vs 2012](https://twitter.com/alexxubyte/status/1594008281340530688)
+- [Things Twitter should improve](https://twitter.com/growing_daniel/status/1594365574850654210)

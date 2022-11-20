@@ -6,6 +6,8 @@ title: Expo
 
 [EAS monorepo example](https://github.com/byCedric/eas-monorepo-example) seems like a useful start.
 
+Like how you can [embed Swift code into Expo](https://twitter.com/Baconbrix/status/1594311305099444225).
+
 ## Example OSS apps
 
 - [Create-T3-Turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native.
@@ -60,3 +62,4 @@ title: Expo
 - [Expo Modules Docs](https://docs.expo.dev/modules/overview/) ([Tweet](https://twitter.com/compose/tweet))
 - [Expo Community Flipper](https://github.com/jakobo/expo-community-flipper) - Flipper Support for Expo Apps in React Native.
 - [What is the disadvantage of using expo instead of React Native CLI (2022)](https://www.reddit.com/r/reactnative/comments/yzybgj/what_is_the_disadvantage_of_using_expo_instead_of/)
+- [Expo Modules API allows first class Swift embedding](https://twitter.com/Baconbrix/status/1594311305099444225)
