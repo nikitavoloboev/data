@@ -84,3 +84,4 @@ Still exploring different kinds of clothing styles. But for now, I can say [SAXX
 - [Good cold weather gear](https://twitter.com/sweatystartup/status/1579119398727856129)
 - [How to find great clothes (2022)](https://twitter.com/marty/status/1585251432999321600)
 - [Tom Ford Gives a 29-Year-Old a Makeover](https://www.youtube.com/watch?v=bP4Jz2kUpes)
+- [Hoss Intropia](https://hossintropia.com/)
