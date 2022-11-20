@@ -612,3 +612,4 @@ title: GitHub actions
 - [gha-trigger](https://github.com/gha-trigger/gha-trigger) - Webhook Server for Secure GitHub Actions.
 - [Terraform Google GitHub Action Runners](https://github.com/terraform-google-modules/terraform-google-github-actions-runners) - Module to create self-hosted GitHub Actions Runners on GCP.
 - [An easier way to install tools for GitHub Actions (2022)](https://blog.alexellis.io/easy-install-tools-github-actions/)
+- [Docker Manifest Create Action](https://github.com/int128/docker-manifest-create-action) - Create a multi-architecture Docker image in GitHub Actions.

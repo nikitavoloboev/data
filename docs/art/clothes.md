@@ -4,6 +4,8 @@ Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/
 
 In general, I love [Christian Sieber](https://www.instagram.com/christiansieber/)'s style, although maybe a bit more casual than that. [Alex Rivière](https://www.instagram.com/ariviere/)'s style is great too so as her [clothing line's IG photos](https://www.instagram.com/alexrivierestudio/).
 
+Still exploring different kinds of clothing styles. But for now, I can say [SAXX underwear](https://www.saxxunderwear.com/) is great.
+
 ## Interesting
 
 - [Cat Cardigan](https://www.etsy.com/listing/855368476/cat-cardigan-vintage-christine-foley)
