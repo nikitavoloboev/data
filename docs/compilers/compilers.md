@@ -261,3 +261,4 @@
 - [Lady Deirdre](https://github.com/Eliah-Lakhin/lady-deirdre) - Compiler front-end foundation technology.
 - [cexpl](https://github.com/xfgusta/cexpl) - Command-line tool to interact with Compiler Explorer.
 - [crossbuild](https://github.com/multiarch/crossbuild) - Multiarch cross compiling environments.
+- [Lightning Creations Compiler Collection](https://github.com/LightningCreations/lccc) - Compiler framework written in pure rust, that is intended to eventually be fully usable in place of existing toolchains.

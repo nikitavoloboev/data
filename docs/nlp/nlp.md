@@ -692,3 +692,4 @@
 - [Convenient Text-to-Text Training for Transformers](https://github.com/tlkh/t2t-tuner)
 - [Homophone Reveals the Truth: A Reality Check for Speech2Vec (2022)](https://arxiv.org/abs/2209.10791) ([Code](https://github.com/my-yy/s2v_rc))
 - [RetroMAE: Pre-Training Retrieval-oriented Language Models Via Masked Auto-Encoder (2022)](https://arxiv.org/abs/2205.12035) ([Code](https://github.com/staoxiao/RetroMAE))
+- [Generate conversation starters given two personalities using AI](https://github.com/langa-me/chat-example)

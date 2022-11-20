@@ -219,3 +219,4 @@ title: Genomics
 - [Introduction to Genomics for Engineers](https://learngenomics.dev/) ([Lobsters](https://lobste.rs/s/ykd3vh/introduction_genomics_for_engineers))
 - [Consider working on genomics (2022)](https://claymcleod.dev/blog/2022-11-19-consider-working-on-genomics.html) ([HN](https://news.ycombinator.com/item?id=33671264))
 - [Pinello Lab](https://main.pinellolab.partners.org/) - Massachusetts General Hospital/ Harvard Medical School. ([GitHub](https://github.com/pinellolab))
+- [scvi-tools](https://github.com/scverse/scvi-tools) - Deep probabilistic analysis of single-cell omics data.

@@ -102,3 +102,4 @@ And here are Chrome extensions I use:
 - [jest-chrome](https://github.com/extend-chrome/jest-chrome) - Complete mock of the Chrome API for Chrome extensions for use with Jest.
 - [Chromium: Same Origin Policy bypass within a single site a.k.a. "Google Roulette" (2022)](https://www.bentkowski.info/2022/11/google-roulette/)
 - [tracing-chrome](https://github.com/thoren-d/tracing-chrome) - Library for generating chrome://tracing traces in Rust.
+- [Chrome Extension Upload](https://github.com/mnao305/chrome-extension-upload) - Automatically upload and publish browser extensions to the Chrome web store.

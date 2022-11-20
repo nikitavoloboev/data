@@ -376,6 +376,7 @@
 - [SafeURL](https://github.com/baguio/SwiftSafeURL) - Compile-time-checked URLs.
 - [JWT](https://github.com/vapor/jwt) - Vapor JWT provider.
 - [RxNetworks](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
+- [Vapor OAuth](https://github.com/brokenhandsio/vapor-oauth) - OAuth2 Provider Library for Vapor.
 
 ## GraphQL
 
@@ -1323,6 +1324,7 @@
 - [Frostflake](https://github.com/ordo-one/package-frostflake) - High performance unique ID generator inspired by Snowflake.
 - [ProcessService](https://github.com/ChimeHQ/ProcessService) - System to host an executable within an XPC service.
 - [MessagePack.swift](https://github.com/a2/MessagePack.swift) - Fast, zero-dependency MessagePack implementation.
+- [NearbyActorSystem](https://github.com/antigp/NearbyActorSystem) - Easy to use implementation of a DistributedActorSystem Swift 5.7 language feature based on MultiPeer Connectivity framework.
 
 ## Other (not lib)
 

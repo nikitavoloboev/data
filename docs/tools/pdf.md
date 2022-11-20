@@ -83,3 +83,4 @@
 - [go-audio](https://github.com/Harry-027/go-audio) - Offline solution to convert PDFs into audiobooks.
 - [bagme](https://github.com/speedata/bagme) - PDF rendering library for Go using boxes and glue.
 - [PDFSyntax](https://github.com/desgeeko/pdfsyntax) - Python PDF parsing library and tool built on top to browse the internal structure of a PDF file. ([HN](https://news.ycombinator.com/item?id=33646951))
+- [PDF storage with global search](https://github.com/ire4ever1190/tsuil)

@@ -8,6 +8,7 @@
 - [nim-libp2p](https://github.com/status-im/nim-libp2p) - libp2p implementation in Nim.
 - [Basolato](https://github.com/itsumura-h/nim-basolato) - Asynchronous full stack web framework for Nim.
 - [Karax](https://github.com/karaxnim/karax) - Single page applications for Nim.
+- [mike](https://github.com/ire4ever1190/mike) - Improved mikero web framework.
 
 ## Math
 
@@ -64,6 +65,7 @@
 - [stew](https://github.com/status-im/nim-stew) - Collection of utilities, std library extensions and budding libraries that are frequently used at Status.
 - [QRgen](https://github.com/aruZeta/QRgen) - QR code generation library.
 - [strunicode](https://github.com/nitely/nim-strunicode) - Swift-like unicode string handling.
+- [Taskman](https://github.com/ire4ever1190/taskman) - Simple and lightweight async/sync scheduling library for running tasks at certain times.
 
 ## Links
 

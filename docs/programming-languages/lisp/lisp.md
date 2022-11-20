@@ -221,3 +221,4 @@
 - [Lisp as the Maxwell’s Equations of Software (2012)](https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/) ([HN](https://news.ycombinator.com/item?id=33516422))
 - [The one about Lisp interactivity (2022)](http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/) ([HN](https://news.ycombinator.com/item?id=33559198))
 - [The German School of Lisp (2011)](http://blog.fogus.me/2011/05/03/the-german-school-of-lisp-2/)
+- [Lisp written in Nix](https://github.com/utdemir/nixlisp)

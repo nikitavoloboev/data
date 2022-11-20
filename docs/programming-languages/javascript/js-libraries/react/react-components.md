@@ -342,6 +342,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [React-Disable](https://github.com/kitze/react-disable) - React component for disabling a section of an app.
 - [reablocks](https://github.com/reaviz/reablocks) - Low Level Component Library for React.
 - [Remotion Animated](https://github.com/stefanwittwer/remotion-animated) - Delightful way to animate objects in Remotion.
+- [ILLA Design](https://github.com/illacloud/illa-design) - Fully responsive UI Library for React.
 
 ## Links
 

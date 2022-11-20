@@ -149,3 +149,4 @@
 - [Better than JPEG? Researcher discovers that Stable Diffusion can compress images (2022)](https://arstechnica.com/information-technology/2022/09/better-than-jpeg-researcher-discovers-that-stable-diffusion-can-compress-images/)
 - [Using AI to compress audio files for quick and easy sharing (2022)](https://ai.facebook.com/blog/ai-powered-audio-compression-technique/) ([HN](https://news.ycombinator.com/item?id=33402131))
 - [EnCodec: High Fidelity Neural Audio Compression](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
+- [Ratarmount](https://github.com/mxmlnkn/ratarmount) - Random Access Tar Mount.

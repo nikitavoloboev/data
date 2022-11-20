@@ -106,3 +106,7 @@ title: Mastodon
 - [Resize a video with FFmpeg for Mastodon (2022)](https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/)
 - [PressCheck.org](https://www.presscheck.org/) - Find verified journalists on Mastodon. ([Tweet](https://twitter.com/DaveLeeFT/status/1593421042239709184))
 - [Tracking Mastodon user numbers over time with a bucket of tricks (2022)](https://simonwillison.net/2022/Nov/20/tracking-mastodon/)
+- [Soapbox](https://github.com/soapbox-pub/soapbox) - Frontend for Mastodon and Pleroma with a focus on custom branding and ease of use.
+- [MastodonKit](https://github.com/MastodonKit/MastodonKit) - Swift Framework that wraps Mastodon's API.
+- [Mastodon on fly.io](https://github.com/indirect/flyapp-mastodon)
+- [Tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys.

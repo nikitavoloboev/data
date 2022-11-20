@@ -963,3 +963,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Stable MIR Librarification Project Group](https://github.com/rust-lang/project-stable-mir)
 - [Patterns for not fighting Rust burrow checker](https://twitter.com/jntrnr/status/1593312432851542016)
 - [If a Tree Falls in a Forest, Does It Overflow the Stack? (2022)](https://matklad.github.io/2022/11/18/if-a-tree-falls-in-a-forest-does-it-overflow-the-stack.html)
+- [How to read complicated Rust types](https://www.youtube.com/watch?v=uh9i3be2wIE)

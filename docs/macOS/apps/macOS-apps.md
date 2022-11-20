@@ -166,6 +166,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Reminders Menu Bar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 - [Coffee](https://trycoffee.co/) - Tiny time tracker for your next big project.
 - [Assembl](https://assembl.app/) - Effortless window manager for macOS. ([Code](https://github.com/rossmoody/Assembl))
+- [TrueWidget](https://github.com/pqrs-org/TrueWidget) - Displays macOS version, CPU usage and local time at the left bottom of the screen.
 
 ## Other interesting apps
 

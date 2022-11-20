@@ -275,6 +275,7 @@ Below is a list of extensions I use.
 - [VS Code SQL Notebook](https://github.com/cmoog/vscode-sql-notebook) - Open SQL files in the VS Code Notebook interface. Execute query blocks and view output interactively.
 - [SQLTools](https://github.com/mtxr/vscode-sqltools) - Database management done right. Connection explorer, query runner, intellisense, bookmarks, query history..
 - [Wingmate](https://marketplace.visualstudio.com/items?itemName=chrismwendt.wingmate) - SQL syntax highlighting and syntax error detection within strings in Go code. ([Code](https://github.com/chrismwendt/wingmate))
+- [SQL tagged template literals](https://marketplace.visualstudio.com/items?itemName=frigus02.vscode-sql-tagged-template-literals) ([Code](https://github.com/frigus02/vscode-sql-tagged-template-literals))
 
 ## React
 

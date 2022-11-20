@@ -6,6 +6,8 @@ title: Swift
 
 [Point-Free](https://www.pointfree.co/) together with [their blog](https://www.pointfree.co/blog) are great. [Advanced Swift Book](https://www.objc.io/books/advanced-swift/) together with [other books by objc.io](https://www.objc.io/books/) are amazing too. [Lickability Swift Best Practices Guide](https://github.com/Lickability/swift-best-practices) is a nice read.
 
+[SwiftLint](https://github.com/realm/SwiftLint) is great.
+
 ## OSS Swift CLI tools
 
 - [timeui](https://github.com/icanzilb/timeui) - Command line profiling tool with stopwatch, cpu and memory usage.

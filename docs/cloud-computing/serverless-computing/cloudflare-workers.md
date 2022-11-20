@@ -21,6 +21,7 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [End-to-end encrypted chat demo using Cloudflare Workers and Durable Objects](https://github.com/zmxv/cf-e2eechat)
 - [Pastebin Worker](https://github.com/SharzyL/pastebin-worker) - Pastebin based on Cloudflare worker, with friendly CLI usage and rich features. ([Web](https://shz.al/))
 - [Loction Worker](https://github.com/umgefahren/worker-location) - Small cloudflare worker build in Rust to extract the location of the requesting user.
+- [Spotify Currently Playing Cloudflare Worker](https://github.com/djedlajn/spotify-worker)
 
 ## Notes
 
@@ -207,3 +208,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Fixing empty responses from Cloudflare Workers Sites (2022)](https://simonhearne.com/2022/empty-responses-cloudflare-workers-sites/)
 - [do-taskmanager](https://github.com/evanderkoogh/do-taskmanager) - TaskManager for Durable Objects, simplifying the use of Alarms.
 - [Building Micro-Frontends with Cloudflare Workers (2022)](https://blog.cloudflare.com/better-micro-frontends/)
+- [do-proxy](https://github.com/fisherdarling/do-proxy) - Library for writing type-safe Durable Objects in Rust.

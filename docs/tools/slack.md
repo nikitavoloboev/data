@@ -99,3 +99,4 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [GitHub Board Slack notifications](https://github.com/nearform/github-board-slack-notifications) - Send notifications to a Slack channel for any changes that are performed in a GitHub board.
 - [Unthread](https://unthread.io/home) - Prioritized inbox for Slack. ([HN](https://news.ycombinator.com/item?id=33593456))
 - [Workflow Buddy](https://github.com/happybara-io/WorkflowBuddy) - Missing pieces of Slack Workflow Builder.
+- [Deno Slack Runtime](https://github.com/slackapi/deno-slack-runtime) - Helper library for running a Run on Slack Deno function.

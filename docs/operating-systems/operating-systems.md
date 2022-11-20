@@ -408,4 +408,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Good books to review operating systems and computer architecture (2022)](https://www.reddit.com/r/computerscience/comments/yw6akh/what_are_good_books_to_review_operating_systems/)
 - [inspect](https://github.com/square/inspect) - Collection of metrics gathering, analysis utilities for various subsystems of Linux, MySQL and Postgres.
 - [TinyBIOS](https://github.com/pwk4m1/TinyBIOS) - Minimalist open source BIOS project for fun.
-- [Kernel (OS Kernel Book)](https://539kernel.com/)
+- [Kernel (OS Kernel Book)](https://539kernel.com/) ([Code](https://github.com/MaaSTaaR/539kernel))
