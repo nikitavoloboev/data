@@ -114,3 +114,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Ask HN: Boring but important tech no one is working on? (2022)](https://news.ycombinator.com/item?id=32611247)
 - [The Next Century of Computing (2022)](https://bzogrammer.substack.com/p/the-next-century-of-computing)
 - [What do you believe to be the “next big thing”? (2022)](https://www.reddit.com/r/stocks/comments/yo477f/what_do_you_believe_to_be_the_next_big_thing/)
+- [10 things to do to get started building the future](https://twitter.com/p_millerd/status/1594717470862213120)

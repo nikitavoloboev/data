@@ -154,3 +154,4 @@
 - [TOC](https://github.com/samoht/toc) - Automatically generate table of contents for Markdown files.
 - [md](https://pkg.go.dev/src.elv.sh/pkg/md@master) - Markdown parser in Go.
 - [Convert Markdown to HTML](https://github.com/jaywcjlove/markdown-to-html)
+- [markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions.

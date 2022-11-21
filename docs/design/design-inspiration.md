@@ -1077,3 +1077,4 @@ Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage)
 - [Personal portfolio websites](https://twitter.com/jesslynnrose/status/1580121441084706816)
 - [DarkModes](https://darkmodes.com/) - Best dark mode implementations on the Internet.
 - [Visual Systems](https://visual.systems/) - Premium digital goods. ([Twitter](https://twitter.com/visualsystem))
+- [Scroll on Leica's M11 landing page](https://twitter.com/filipistyping/status/1594375926208405506)
