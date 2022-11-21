@@ -218,6 +218,8 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [All Things Distributed](https://www.allthingsdistributed.com/articles.html)
 - [Rain](https://sunshowers.io/)
 - [Dave Pagurek](https://www.davepagurek.com/blog/)
+- [Coding XR](https://codingxr.com/)
+- [Determinate Systems](https://determinate.systems/posts)
 
 ## Notes
 

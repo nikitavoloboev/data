@@ -171,7 +171,7 @@
 - [CPU Benchmarks Set](https://github.com/EntityFX/anybench)
 - [Intel’s Meteor Lake Chiplets, Compared to AMD’s (2022)](https://chipsandcheese.com/2022/09/10/hot-chips-34-intels-meteor-lake-chiplets-compared-to-amds/) ([HN](https://news.ycombinator.com/item?id=32811088))
 - [Ask HN: What'd be possible with 1000x faster CPUs? (2022)](https://news.ycombinator.com/item?id=32931041)
-- [A history of ARM, part 1: Building the first chip (2022)](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/) ([HN](https://news.ycombinator.com/item?id=32953980))
+- [A history of ARM, part 1: Building the first chip (2022)](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/) ([HN](https://news.ycombinator.com/item?id=32953980)) ([Part 2](https://arstechnica.com/gadgets/2022/11/a-history-of-arm-part-2-everything-starts-to-come-together/))
 - [High-NA may be the end of the line for lithography (2022)](https://twitter.com/dnystedt/status/1573986529416204288)
 - [Zen4's AVX512 Teardown (2022)](https://www.mersenneforum.org/showthread.php?p=614191) ([HN](https://news.ycombinator.com/item?id=32983406))
 - [ASML's Secret: A view from inside the global semiconductor giant (2022)](https://www.youtube.com/watch?v=zQu_TMgHO98) ([HN](https://news.ycombinator.com/item?id=33066452))

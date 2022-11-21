@@ -871,3 +871,4 @@ title: Kubernetes
 - [k8spacket](https://github.com/k8spacket/k8spacket) - Packets traffic visualization for Kubernetes.
 - [Kubernetes Gateway API bindings in Rust](https://github.com/kube-rs/gateway-api-rs)
 - [cnquery](https://github.com/mondoohq/cnquery) - Cloud-native tool for querying your entire fleet. It answers thousands of questions about your infrastructure, and integrates with over 300 resources across cloud accounts, Kubernetes, containers, services, VMs, APIs, and more.
+- [Deploying Nix-built containers to Kubernetes (2022)](https://determinate.systems/posts/nix-to-kubernetes)
