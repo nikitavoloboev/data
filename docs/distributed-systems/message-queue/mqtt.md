@@ -6,6 +6,8 @@ title: MQTT
 
 > Transport layer protocol between embedded devices and services.
 
+[MQTT X](https://github.com/emqx/MQTTX) is great.
+
 ## Links
 
 - [Sol - An MQTT broker from scratch](https://codepr.github.io/posts/sol-mqtt-broker/)
@@ -61,3 +63,4 @@ title: MQTT
 - [Oidbs: An Open Source MQTT Driven Benchmark Suite for IoT Data (2022)](https://joinbase.io/blog/intro-oidbs/) ([HN](https://news.ycombinator.com/item?id=33304677))
 - [Awesome MQTT](https://github.com/hobbyquaker/awesome-mqtt)
 - [VolantMQ](https://github.com/VolantMQ/volantmq) - High-Performance MQTT Server.
+- [MQTT X](https://github.com/emqx/MQTTX) - Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools. ([Web](https://mqttx.app/))

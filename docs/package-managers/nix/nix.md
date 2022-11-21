@@ -449,3 +449,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Mini merge DSL for data overlays](https://github.com/divnix/data-merge)
 - [Nix-Lisp](https://github.com/utdemir/nixlisp) - Lisp implementation written in Nix. ([HN](https://news.ycombinator.com/item?id=33670943))
 - [DENOG Routing Guide](https://github.com/denog/routing-guide) - Reference for best practices in Internet backbone routing.
+- [Urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning.
+- [Pluggable contexts in Tvix](https://docs.google.com/document/d/1pz2tRTX5kkS_1wfrZfeHg7MBCSgR1BAktZA2dc42ABk/edit)

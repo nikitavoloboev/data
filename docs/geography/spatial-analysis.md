@@ -280,3 +280,4 @@ title: Spatial analysis
 - [Deepness](https://github.com/PUTvision/qgis-plugin-deepness) - Plugin for neural network inference in QGIS: segmentation, regression and detection.
 - [osmar](https://github.com/codesoap/osmar) - Simple command line tool to explore osm data.
 - [TerraDraw](https://github.com/JamesLMilner/terra-draw) - Cross provider map drawing library, supporting Mapbox, Google Maps and Leaflet out the box.
+- [OSM Community Index](https://openstreetmap.community/) - Index of community resources for OpenStreetMap. ([Code](https://github.com/osmlab/osm-community-index))

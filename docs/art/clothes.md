@@ -85,3 +85,4 @@ Still exploring different kinds of clothing styles. But for now, I can say [SAXX
 - [How to find great clothes (2022)](https://twitter.com/marty/status/1585251432999321600)
 - [Tom Ford Gives a 29-Year-Old a Makeover](https://www.youtube.com/watch?v=bP4Jz2kUpes)
 - [Hoss Intropia](https://hossintropia.com/)
+- [Diemme Footwear](https://diemme.com/)

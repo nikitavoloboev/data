@@ -129,3 +129,4 @@ Having said all of above, I think the most effective approach is having a great 
 - [What are the common traits guys who get laid regularly show? (2022)](https://www.reddit.com/r/seduction/comments/wf46u9/what_are_the_common_traits_guys_who_get_laid/)
 - [What are some good plausible deniability ideas (excuses) to bring a girl home? (2022)](https://www.reddit.com/r/seduction/comments/waqi3y/what_are_some_good_plausible_deniability_ideas/)
 - [На что первым делом обращаете внимание при знакомстве?](https://twitter.com/tomnaya_satana/status/1587021582794358785)
+- [What makes you want to sleep with a man?](https://www.reddit.com/r/nonmonogamy/comments/z0d6kk/what_makes_you_want_to_sleep_with_a_man/)

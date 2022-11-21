@@ -319,3 +319,4 @@ title: Swift
 - [CloudKit 101 (2020)](https://rambo.codes/posts/2020-02-25-cloudkit-101) ([Code](https://github.com/insidegui/CloudKitchenSink20))
 - [Ask HN: What is the future of Swift on the server-side? (2022)](https://news.ycombinator.com/item?id=33608804)
 - [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/) ([HN](https://news.ycombinator.com/item?id=33658376))
+- [Modern Concurrency on Apple Platforms - Using async/await with Swift (2022)](https://link.springer.com/book/10.1007/978-1-4842-8695-1?sap-outbound-id=40D2BBEF5833C4436B139778F496A0F535B4D5EC)

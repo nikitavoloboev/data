@@ -468,3 +468,5 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [Jukebox Web UI](https://github.com/vzakharov/jukebox-webui) - Google Colab-backed Web UI for creating music with OpenAI Jukebox.
 - [dysentery](https://github.com/Deep-Symmetry/dysentery) - Exploring ways to participate in a Pioneer Pro DJ Link network.
 - [uifx](https://github.com/wle8300/uifx) - Audio library designed for UI sound effects.
+- [Music Mouse](https://teropa.info/musicmouse/) - Intelligent Instrument Emulation.
+- [Haxophone](https://github.com/jcard0na/haxo-hw) - Electronic musical instrument that resembles a saxophone. ([HN](https://news.ycombinator.com/item?id=33682813))

@@ -38,3 +38,4 @@ title: Azure
 - [Demo of using the Nutter for testing of Databricks notebooks in the CI/CD pipeline](https://github.com/alexott/databricks-nutter-repos-demo)
 - [Extensions for Azure CLI 2.0](https://github.com/Azure/azure-cli-extensions)
 - [Azure SDK for Python](https://github.com/Azure/azure-sdk-for-python)
+- [Durable Functions Monitor](https://github.com/microsoft/DurableFunctionsMonitor) - Monitoring/debugging UI tool for Azure Durable Functions.

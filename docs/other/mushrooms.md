@@ -49,3 +49,4 @@ I personally love [psilocybin mushrooms](https://en.wikipedia.org/wiki/Psilocybi
 - [Ryan Moss AMA](https://www.reddit.com/r/IAmA/comments/o4d2d0/i_am_ryan_moss_i_legally_research_cultivate/) - Legally research, cultivate, extract, and analyze magic mushrooms.
 - [Mushrooms/nootropics are a rabbit hole (2022)](https://www.reddit.com/r/Nootropics/comments/ycvxtc/this_mushroomsnootropics_thing_is_a_freaking/)
 - [Lion's Mane. Best supplements.](https://www.reddit.com/r/MushroomSupplements/comments/ssb1yf/updated_repost_2022_lions_mane_best_supplements/)
+- [mycolog](https://github.com/codesoap/mycolog) - Keep track of your mushroom cultivation projects.

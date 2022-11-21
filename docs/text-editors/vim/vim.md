@@ -327,3 +327,4 @@ zz
 - [50 Useful Vim Commands](https://vimtricks.com/p/50-useful-vim-commands/)
 - [Neovim Conf](https://www.neovimconf.live/)
 - [Demo: How I use Neovim to contribute to open source (2022)](https://www.youtube.com/watch?v=YEVL3-5n8LI)
+- [What is one key map you use that you don't understand how other Vim users live without? (2022)](https://www.reddit.com/r/vim/comments/z051al/what_is_one_key_map_you_use_that_you_dont/)

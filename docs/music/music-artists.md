@@ -300,6 +300,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Gruppa Skryptonite, Therr Maitz — Ты не верь слезам / LAB с Антоном Беляевым](https://www.youtube.com/watch?v=Mt03oEJ4WKw)
 - [Kate Bollinger - Untitled](https://www.youtube.com/watch?v=6UAnympvxxs)
 - [Hermanos Gutiérrez - El Jardin](https://www.youtube.com/watch?v=k-tTxtLTpfk)
+- [Kate Bollinger at Paste Studio NYC](https://www.youtube.com/watch?v=h_stkULYf_4)
 
 ## Links
 

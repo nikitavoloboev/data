@@ -173,3 +173,4 @@ title: Scala
 - [http4s-laminar-stack](https://github.com/keynmol/http4s-laminar-stack) - Complete example of a full stack Scala application, using http4s on the backend and Laminar and Scala.js on the frontend.
 - [Smithy4s full stack (2022)](https://blog.indoorvivants.com/2022-06-10-smithy4s-fullstack-part-1)
 - [Scala Improvement Proposals](https://github.com/scala/improvement-proposals)
+- [Scala 3 is not production ready (2022)](https://gvolpe.com/blog/scala3-is-not-prod-ready/) ([HN](https://news.ycombinator.com/item?id=33687179))

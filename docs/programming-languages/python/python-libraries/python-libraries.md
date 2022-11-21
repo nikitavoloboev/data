@@ -289,6 +289,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 ## Linux
 
 - [packet](https://github.com/mdlayher/packet) - Provides access to Linux packet sockets (AF_PACKET).
+- [rsyscall](https://github.com/catern/rsyscall) - Process-independent interface to Linux system calls.
 
 ## Test
 
@@ -1063,6 +1064,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [ormsgpack](https://github.com/aviramha/ormsgpack) - Msgpack serialization/deserialization library for Python, written in Rust using PyO3 and rust-msgpack.
 - [FFX](https://github.com/natekupp/ffx) - Fast Function Extraction.
 - [StaticFrame](https://github.com/static-frame/static-frame) - Immutable and grow-only Pandas-like DataFrames with a more explicit and consistent interface.
+- [langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python.
 
 ## Notes
 

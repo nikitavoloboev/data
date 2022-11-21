@@ -999,3 +999,6 @@
 - [All are Worth Words: A ViT Backbone for Diffusion Models (2022)](https://arxiv.org/abs/2209.12152) ([Code](https://github.com/baofff/U-ViT))
 - [OneFormer: One Transformer to Rule Universal Image Segmentation (2022)](https://arxiv.org/abs/2211.06220) ([Code](https://github.com/SHI-Labs/OneFormer))
 - [Visual Object Tracking](https://github.com/DavidZhangdw/Visual-Tracking-Development)
+- [DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification (2021)](https://arxiv.org/abs/2106.02034) ([Code](https://github.com/raoyongming/DynamicViT))
+- [Exploring CLIP for Assessing the Look and Feel of Images (2022)](https://arxiv.org/abs/2207.12396) ([Code](https://github.com/IceClear/CLIP-IQA))
+- [RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation (2022)](https://arxiv.org/abs/2211.09869) ([Code](https://github.com/Anciukevicius/RenderDiffusion))

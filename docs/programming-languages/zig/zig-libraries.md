@@ -145,6 +145,9 @@
 - [zigmkv](https://github.com/vi/zigmkv) - Matroska/webm (mkv) parser in Zig.
 - [protobruh](https://github.com/zigtools/protobruh) - Protobuf for Zig.
 - [ziguid](https://github.com/goto-bus-stop/ziguid) - GUIDs for Zig.
+- [BYOL](https://github.com/hmusgrave/byol) - Bring Your Own Loop -- A memory-efficient, straggler-avoiding, cache-friendly scheduler.
+- [zcirc](https://github.com/hmusgrave/zcirc) - Dynamic circular buffer allocator for zig.
+- [poolalloc](https://github.com/hmusgrave/poolalloc) - Arena allocator with object re-use.
 
 ## Links
 

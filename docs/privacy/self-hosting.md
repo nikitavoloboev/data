@@ -50,3 +50,4 @@
 - [HamsterBase](https://hamsterbase.com/) - Self-hosted, local-first web archive application. ([Code](https://github.com/hamsterbase/hamsterbase))
 - [From Plex to Jellyfin Media Server (2021)](https://www.ctrl.blog/entry/jellyfin-vs-plex.html) ([HN](https://news.ycombinator.com/item?id=33579209))
 - [Ask HN: What services/apps are you self-hosting? (2022)](https://news.ycombinator.com/item?id=33657947)
+- [Serve self hosted media efficiently (2022)](https://www.reddit.com/r/selfhosted/comments/z0hq5w/im_using_cloudflare_tunnels_and_love_them_now_i/)

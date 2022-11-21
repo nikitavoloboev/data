@@ -482,3 +482,4 @@ Awesome List
 - [Credit](https://github.com/fosskers/credit) - Fast tool for measuring GitHub repository contributions.
 - [GitHub Next | AI for Pull Requests](https://githubnext.com/projects/ai-for-pull-requests/) ([Tweet](https://twitter.com/dmvaldman/status/1590901866493530112))
 - [UNGH](https://github.com/unjs/ungh) - Unlimited access to GitHub API.
+- [How GitHub builds GitHub (2022)](https://www.youtube.com/watch?v=R6iRccrJ_jg)

@@ -267,6 +267,7 @@
 - [Exq Scheduler](https://github.com/activesphere/exq-scheduler) - Cron like job scheduler for Exq, it's also compatible with Sidekiq and Resque.
 - [Make](https://github.com/elixir-lang/elixir_make) - Make compiler for Mix.
 - [Benchee](https://github.com/bencheeorg/benchee) - Easy and extensible benchmarking in Elixir providing you with lots of statistics.
+- [Zigler](https://github.com/ityonemo/zigler) - Inline NIF support for Zig.
 
 ## Links
 

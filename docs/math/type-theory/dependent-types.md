@@ -6,6 +6,8 @@ title: Dependent types
 
 [Magmide](https://github.com/magmide/magmide) & [TeenyTT](https://github.com/TOTBWF/teenytt) look interesting.
 
+[Elaboration Zoo](https://github.com/AndrasKovacs/elaboration-zoo) has great dependent type checker implementations.
+
 ## Links
 
 - [Cubical Adventures](https://www.youtube.com/watch?v=W5-ulP_JzNc)

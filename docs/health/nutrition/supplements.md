@@ -20,7 +20,7 @@ After drinking the smoothie, I also take these supplements, inspired by [Rhonda 
 - [Magnesium](https://nootropicsdepot.com/magtein-magnesium-l-threonate-capsules/) (1 capsule morning & 2 before sleep)
 - [B12 Sublingual](https://nootropicsdepot.com/super-b12-sublingual-solution/) (0.5mL drop)
 
-That's often enough to get me going until afternoon at which point, I will either make some cooked food or eat out (healthy).
+That's often enough to get me going until afternoon at which point, I will either make some cooked food or eat out ([healthy](nutrition.md)).
 
 I don't try to manage my eating of generally healthy natural whole food pescatarian food. Especially as I try to lead a more active lifestyle already.
 
@@ -100,3 +100,4 @@ Some maybe interesting supplements. Some I tried but stopped.
 - [Omega-3's beneficial effects](https://www.foundmyfitness.com/topics/omega-3) ([Reddit](https://www.reddit.com/r/Nootropics/comments/yijz07/omega3_has_beneficial_effects_on_cognitive/))
 - [B12 was the missing link I've been looking for](https://www.reddit.com/r/Nootropics/comments/yblu6q/b12_was_the_missing_link_for_what_ive_been/)
 - [B12 supplement is crucial](https://twitter.com/simonsarris/status/1593973699241205760)
+- [The FDA Has Banned NMN Supplements (2022)](https://www.youtube.com/watch?v=aalylAdIxS4)

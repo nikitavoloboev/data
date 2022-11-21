@@ -100,3 +100,4 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [Unthread](https://unthread.io/home) - Prioritized inbox for Slack. ([HN](https://news.ycombinator.com/item?id=33593456))
 - [Workflow Buddy](https://github.com/happybara-io/WorkflowBuddy) - Missing pieces of Slack Workflow Builder.
 - [Deno Slack Runtime](https://github.com/slackapi/deno-slack-runtime) - Helper library for running a Run on Slack Deno function.
+- [Slack Morphism](https://github.com/abdolence/slack-morphism-rust) - Modern Rust client library for Slack Web/Events API/Socket Mode and Block Kit.

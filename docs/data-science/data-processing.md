@@ -136,3 +136,4 @@
 - [parquet-tools](https://github.com/ktrueda/parquet-tools) - Easy install parquet-tools.
 - [BitSail](https://github.com/bytedance/bitsail) - ByteDance's open source data integration engine which is based on distributed architecture and provides high performance.
 - [thisthat](https://github.com/timClicks/thisthat) - Data format conversion utility.
+- [Boring Data Tool (bdt)](https://github.com/andygrove/bdt) - Command-line tool for viewing, querying, and converting between various file formats. Powered by DataFusion.

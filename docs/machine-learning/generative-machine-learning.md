@@ -164,3 +164,5 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [Shift-Attention](https://github.com/yownas/shift-attention) - In stable diffusion, generate a sequence of images shifting attention in the prompt.
 - [London, 1910 by Midjourney](https://www.reddit.com/r/midjourney/comments/yyom8a/london_1910/)
 - [GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation (2022)](https://arxiv.org/abs/2203.02923) ([Code](https://github.com/MinkaiXu/GeoDiff))
+- [Magic3D: High-Resolution Text-to-3D Content Creation (2022)](https://deepimagination.cc/Magic3D/) ([HN](https://news.ycombinator.com/item?id=33689096))
+- [Stable Diffusion with Nix](https://github.com/collinarnett/stable-diffusion-nix) - Quickly get up and running using Stable Diffusion with Nix flakes.

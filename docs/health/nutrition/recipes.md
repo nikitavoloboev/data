@@ -132,3 +132,5 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Felu - Fit by cooking - YouTube](https://www.youtube.com/c/FeluFitbycooking/videos)
 - [Healthy Recipes - YouTube](https://www.youtube.com/@GesundeRezepteDE/videos)
 - [My Go-To High Protein Meals for Winter Bulking](https://www.youtube.com/watch?v=9S1p0BWXEJI)
+- [My Simple Go-To High Protein Meals (for building muscle)](https://www.youtube.com/watch?v=jvvAP7UVxIs)
+- [4 Simple High Protein Breakfast Ideas for building muscle](https://www.youtube.com/watch?v=ZcYM6Dfh4oY)
