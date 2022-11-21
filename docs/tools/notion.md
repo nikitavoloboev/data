@@ -128,3 +128,4 @@ Use it for projects as a wiki of docs & notes for teams. I [share most boards in
 - [Building a Notion-like system with Socket.io And React (2022)](https://dev.to/novu/building-a-notion-like-system-with-socketio-and-react-1hjg)
 - [draw.io Notion Embed](https://github.com/ivankahl/drawio-notion-embed) - Embed draw.io diagrams directly into Notion.
 - [Notion AI](https://www.notion.so/product/ai) ([HN](https://news.ycombinator.com/item?id=33623201))
+- [lilNotion](https://github.com/brandonfang/lilnotion) - Full stack Notion clone built with React, Redux, Ruby on Rails, and PostgreSQL.

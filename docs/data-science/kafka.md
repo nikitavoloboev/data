@@ -136,3 +136,4 @@ title: Apache Kafka
 - [Kafka Streams with Serverless Kafka (2022)](https://medium.com/cloudnesil/kafka-streams-with-serverless-kafka-44311350185a)
 - [Zilla](https://github.com/aklivity/zilla) - Event-driven API gateway that can extend Apache Kafka to the edge.
 - [Franz](https://franz.defn.io/) - macOS Client for Apache Kafka. ([Article](https://defn.io/2022/11/20/ann-franz/)) ([HN](https://news.ycombinator.com/item?id=33684666))
+- [ZIO Kafka](https://github.com/zio/zio-kafka) - Kafka client for ZIO and ZIO Streams in Scala.

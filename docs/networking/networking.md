@@ -549,3 +549,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [The Effectiveness of Checksums for Embedded Control Networks (2009)](https://users.ece.cmu.edu/~koopman/pubs/maxino09_checksums.pdf)
 - [mighty-snitch](https://github.com/nathants/mighty-snitch) - Noticing and preventing network requests should be easy.
 - [mapCIDR](https://github.com/projectdiscovery/mapcidr) - Small utility program to perform multiple operations for a given subnet/CIDR ranges.
+- [SocketHub](https://github.com/sockethub/sockethub) - Multi-protocol gateway for the Web using ActivityStream messages.

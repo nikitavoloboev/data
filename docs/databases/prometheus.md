@@ -4,6 +4,8 @@ title: Prometheus
 
 # [Prometheus](https://prometheus.io/)
 
+[Sloth](https://github.com/slok/sloth) is useful.
+
 ## Links
 
 - [Thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.

@@ -720,5 +720,6 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [React Native Helios](https://github.com/cawfree/react-native-helios) - Fast, secure, and portable light client for Ethereum dApps.
 - [Full stack Hackathon Starter Kit](https://github.com/schmidsi/hackathon-starterkit) - Minimalistic boilerplate to quickly get started with fullstack dapp development with Hardhat and The Graph.
 - [slang](https://github.com/NomicFoundation/slang) - Solidity compiler.
-- [Dove Protocol](https://github.com/whitenois3/dove-protocol) - Provide liquidity on L1, trade on L2.
+- [Dove Protocol](https://github.com/whitenois3/dove-protocol) - Provide liquidity on L1, trade on L2. ([Interface](https://github.com/whitenois3/dove-interface))
 - [Beerus](https://github.com/starknet-exploration/beerus) - Trustless StarkNet Light Client.
+- [Arbiter](https://github.com/primitivefinance/arbiter) - Simple price data monitoring tool for uniswap V3 Pools written in Rust.

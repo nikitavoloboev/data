@@ -170,3 +170,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [keyb](https://github.com/kencx/keyb) - Create and view your custom hotkey cheat sheet with TUI.
 - [GPT3 Powered CLI](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal.
 - [Nap](https://github.com/maaslalani/nap) - Code snippets in your terminal.
+- [chimp](https://github.com/xolvio/chimp) - Tooling that helps you do quality, faster.

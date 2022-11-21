@@ -152,6 +152,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Monaco Collaborative Extensions](https://github.com/convergencelabs/monaco-collab-ext) - Adds collaborative editing capabilities to the Monaco Editor.
 - [Dante](https://github.com/michelson/Dante) - Medium clone built on top of ProseMirror's / TipTap.
 - [monaco-unified](https://github.com/remcohaszing/monaco-unified) - Get warnings and error messages in monaco editor based on a unified processor.
+- [notitap](https://github.com/sereneinserenade/notitap) - Pro version of Notion like editor built on top of Tiptap.
 
 ## Notes
 

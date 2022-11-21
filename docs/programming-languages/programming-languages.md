@@ -8,7 +8,7 @@ I dislike languages with semicolons which is why I prefer [Swift](swift/swift.md
 
 I do write Rust, but tried out [Zig](zig/zig.md) when I want to write embedded code without GC or target [WASM](../web/webassembly.md). Although even there, [TinyGo](https://tinygo.org/) can be enough I think. [Julia](julia/julia.md) looks nice for any kind of heavy data processing code / ML.
 
-[OCaml](ocaml/ocaml.md) seems interesting as a language to do some [type theory](../math/type-theory/type-theory.md) research in. Has fast compile types and smart inferency type system. Same for [Agda](agda.md)/[Coq](coq/coq.md)/[Idris](idris/idris.md). [Unison](unison.md) has some novel ideas to learn from too. [Vale](vale.md) does novel research in [memory management](../programming/memory-management/memory-management.md).
+[OCaml](ocaml/ocaml.md) seems interesting as a language to do some [type theory](../math/type-theory/type-theory.md) research in. Has fast compile types and smart inferency type system. Same for [Agda](agda.md)/[Coq](coq/coq.md)/[Idris](idris/idris.md). [Unison](unison.md) has some novel ideas to learn from too. [Vale](vale.md) does novel research in [memory management](../programming/memory-management/memory-management.md). [Gluon](https://github.com/gluon-lang/gluon) is nice embedded functional language.
 
 [Effects bibliography](https://github.com/yallop/effects-bibliography) is a nice read.
 
