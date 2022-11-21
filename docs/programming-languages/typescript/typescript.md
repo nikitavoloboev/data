@@ -10,6 +10,8 @@ title: TypeScript
 
 Run/bundle TS with [Bun](../javascript/bun.md).
 
+[stc](https://github.com/dudykr/stc)'s TS type checker in Rust is exciting.
+
 ## Notes
 
 - TypeScript can figure the return type out by looking at the return statements, so we can also optionally leave this off in many cases

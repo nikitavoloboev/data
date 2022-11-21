@@ -24,6 +24,7 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [Love the dot on top to show which part of website you are.](https://benadam.me/thoughts/)
 - [Focus on: Layout. Hierarchy. Feature discoverability. Seeding content. In the shortest time possible, do whatever you can to: 1. Get users to the Aha Moment (i.e., "Oh that's what this app is for". 2. Activated (e.g., reach minimum friend count).](https://twitter.com/nikitabier/status/1499105551938031616)
 - [Successful product starts with a great onboarding.](https://twitter.com/KilianPoulinTW/status/1497573920181927943)
+- [If you have a real, engaged customer base, you'll never go wrong by focusing on things that smooth out their workflows. Speed and stability are usually high on that list. Make it easier to centralize on the tool as well.](https://twitter.com/bkono101010/status/1594593294147014656)
 
 ## Links
 
