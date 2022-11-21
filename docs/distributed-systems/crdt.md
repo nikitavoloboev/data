@@ -101,3 +101,4 @@ title: Conflict-free replicated data type
 - [Crsql](https://github.com/vlcn-io/cr-sqlite) - Multi-writer and CRDT support for SQLite. ([HN](https://news.ycombinator.com/item?id=33606311))
 - [Fundamentals of CRDTs](https://github.com/siliconjungle/crdt-tutorials)
 - [Byzantine Fault Tolerant CRDTs in Rust](https://github.com/jackyzha0/bft-json-crdt) - JSON-like Byzantine Fault Tolerant CRDT in Rust.
+- [Building a BFT JSON CRDT (2022)](https://jzhao.xyz/posts/bft-json-crdt/)

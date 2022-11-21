@@ -2,6 +2,8 @@
 
 I am learning to draw on my iPad with [Procreate](https://procreate.art) app. [Excalidraw](https://excalidraw.com/) & [FigJam](https://www.figma.com/figjam/) are incredible for sketching things together.
 
+Love [0010](https://www.instagram.com/dhjs_0010/)'s [art](art.md).
+
 ## Links
 
 - [Draw a Box](https://drawabox.com/) - One of the best free drawing courses.

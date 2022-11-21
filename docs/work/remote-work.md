@@ -167,3 +167,4 @@
 - [How to do async communication well](https://twitter.com/amix3k/status/1580108423378919425)
 - [Ask HN: Why don't I see gold at the end of the remote working rainbow? (2022)](https://news.ycombinator.com/item?id=33259351)
 - [Making remote company culture more lively](https://twitter.com/ShaanVP/status/1588589924072443904)
+- [Ask HN: Why isn't remote work advertised as a pro environment initiative? (2022)](https://news.ycombinator.com/item?id=33690719)

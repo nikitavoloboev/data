@@ -69,4 +69,12 @@ Only that part won't actually get published but as I look at my notes I will sti
 
 One thing I am happy I did is make a [code](https://github.com/nikitavoloboev/code) repo which I use to share reproduction or general pieces of code. Maybe I will sync certain files or folders to GitHub Gists with some kind of bidrectional sync. Don't want to manage separate gists as I want to avoid having to go to UI to edit gists once they are published. Code should always be source of truth especially when it's on my file system because I can write scripts etc. for it to automate various things easily.
 
+-- 21 
 
+2022 for me has been described best for me by [Louis CK's standup](https://www.youtube.com/watch?v=Y_-1l_SlA7c).
+
+Trying to get to first release of [LA](../../ideas/learn-anything.md) soon.
+
+One thing that helps me not lose hope is that I am actually lucky. I am not mobilized for any war. I am not in prison. My home is not being bombed by anyone. I even have some food to eat.
+
+So yes. Can't be sad. Back to working. 😾

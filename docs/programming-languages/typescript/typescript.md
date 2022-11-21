@@ -10,7 +10,7 @@ title: TypeScript
 
 Run/bundle TS with [Bun](../javascript/bun.md).
 
-[stc](https://github.com/dudykr/stc)'s TS type checker in Rust is exciting.
+[stc](https://github.com/dudykr/stc)'s TS type checker in [Rust](../rust/rust.md) is exciting.
 
 ## Notes
 

@@ -142,3 +142,4 @@ title: LLVM
 - [m2lang](https://github.com/redstar/m2lang) - LLVM-based Modula-2 compiler.
 - [O-MVLL](https://github.com/open-obfuscator/o-mvll) - LLVM-based obfuscator for native code (Android & iOS).
 - [MDL: A Micro-Architecture Description Language for LLVM (2022)](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409)
+- [LLVM based Practical compiler](https://github.com/Practical/practicomp)

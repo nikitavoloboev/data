@@ -41,3 +41,5 @@ title: p5.js
 - [p5.js website code](https://github.com/processing/p5.js-website)
 - [p5LearnableProgramming](https://github.com/v3ga/p5LearnableProgramming) ([Tweet](https://twitter.com/v3ga/status/1590748497820938241))
 - [OSC for p5.js with examples](https://github.com/genekogan/p5js-osc)
+- [p5.buildGeometry](https://github.com/davepagurek/p5.buildGeometry) - Create a reusable p5.Geometry using the 3D primitives you're familiar with from p5.
+- [p5.Framebuffer](https://github.com/davepagurek/p5.Framebuffer) - Library for efficiently drawing to a texture in p5 WebGL mode.

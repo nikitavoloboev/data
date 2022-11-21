@@ -217,6 +217,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Longhorn](https://threedots.ovh/blog/)
 - [All Things Distributed](https://www.allthingsdistributed.com/articles.html)
 - [Rain](https://sunshowers.io/)
+- [Dave Pagurek](https://www.davepagurek.com/blog/)
 
 ## Notes
 

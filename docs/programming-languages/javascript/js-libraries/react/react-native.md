@@ -319,3 +319,4 @@ title: React Native
 - [React Native made me give up a project today (2022)](https://news.ycombinator.com/item?id=33609943)
 - [React Native Use File Upload](https://github.com/rossmartin/react-native-use-file-upload) - Hook for uploading files using multipart form data with React Native.
 - [Burnt](https://github.com/nandorojo/burnt) - Cross-platform toasts for React Native, powered by native elements.
+- [React Native Releases Working Group](https://github.com/reactwg/react-native-releases)
