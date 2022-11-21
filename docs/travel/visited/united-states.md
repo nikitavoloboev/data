@@ -174,3 +174,4 @@ I try to avoid pointless politics as much as possible but do like [John Mearshei
 - [What happened to the U.S. economy since the end of World War II (2021)](https://collabfund.com/blog/how-this-all-happened/)
 - [O-1 Visa USA vs UK Global Talent Visa: What’s better (2022)](https://www.youtube.com/watch?v=Uksw7zrFr4A)
 - [10 things underrated about America (2022)](https://twitter.com/zachtratar/status/1593401522792046592)
+- [The H-1b visa has problems, but it's not hurting U.S. workers (2022)](https://noahpinion.substack.com/p/the-h-1b-visa-has-problems-but-its)

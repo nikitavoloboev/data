@@ -32,3 +32,4 @@ title: ARKit
 - [AR Simple GeoLocation](https://github.com/ynagatomo/ARSimpleGeoLocation) - Minimal iOS AR app that displays virtual objects at specific geographical locations, in an AR scene.
 - [SceneKitVideoRecorder](https://github.com/svhawks/SceneKitVideoRecorder) - Record your SceneKit and ARKit scenes easily.
 - [RealityKit Asset Loading](https://github.com/Reality-Dev/RealityKit-Asset-Loading) - Enables easy, convenient asynchronous asset loading in RealityKit for many different kinds of assets.
+- [Shadows & Lights in RealityKit (2022)](https://codingxr.com/articles/shadows-lights-in-realitykit/)
