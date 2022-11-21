@@ -287,3 +287,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [Similarity search and deduplication at scale (2022)](https://dsalaj.com/2022/10/25/similarity-search-and-deduplication.html) ([HN](https://news.ycombinator.com/item?id=33567123))
 - [ImgOps](https://github.com/dogancelik/imgops) - CLI tool for reverse searching images through ImgOps website. It supports files and URLs.
 - [Semantic Code Search](https://github.com/sturdy-dev/semantic-code-search) - Search your codebase with natural language • CLI • No data leaves your computer.
+- [txtai](https://github.com/neuml/txtai) - Build AI-powered semantic search applications. ([Docs](https://neuml.github.io/txtai/)) ([HN](https://news.ycombinator.com/item?id=33692546))
