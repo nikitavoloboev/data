@@ -2346,6 +2346,7 @@
 - [enve](https://github.com/pleshevskiy/enve) - Work with environment variables and convert it to any type using only type annotations.
 - [archive](https://github.com/patr0nus/rust-archive) - Safe bindings for libarchive with minimum overhead.
 - [JS Source Scopes](https://github.com/getsentry/js-source-scopes) - Extracting and processing scope information from JavaScript source files, and resolving that scope via SourceMaps.
+- [faer](https://github.com/sarah-ek/faer-rs) - Low level linear algebra routines in pure Rust.
 
 ## Cargo Plugins
 

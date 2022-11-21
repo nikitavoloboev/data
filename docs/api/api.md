@@ -192,6 +192,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [PyTrends](https://github.com/GeneralMills/pytrends) - Unofficial API for Google Trends.
 - [Azure Python](https://github.com/Azure/azure-rest-api-specs)
 - [Typeform JS SDK](https://github.com/Typeform/js-api-client)
+- [Twitch TS](https://github.com/twurple/twurple) - Interact with Twitch's API, chat and subscribe to events via PubSub and EventSub.
 - [Twitch GraphQL](https://github.com/ColeWalker/twitch-graphql)
 - [Twitch Rust](https://github.com/Emilgardis/twitch_api2)
 - [Finage](https://docs.finage.co.uk/#/) - Stock,Currency and Crypto Real-Time API.

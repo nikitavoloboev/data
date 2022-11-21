@@ -270,4 +270,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [SQLite – Partial Indexes](https://www.sqlite.org/partialindex.html) ([HN](https://news.ycombinator.com/item?id=33401404))
 - [How To Corrupt An SQLite Database File](https://www.sqlite.org/howtocorrupt.html) ([HN](https://news.ycombinator.com/item?id=22098832))
 - [Who needs MLflow when you have SQLite? (2022)](https://ploomber.io/blog/experiment-tracking/) ([HN](https://news.ycombinator.com/item?id=33624018))
-- [SQLite Release 3.40.0 (2022)](https://www.sqlite.org/releaselog/3_40_0.html) ([HN](https://news.ycombinator.com/item?id=33628136))
+- [SQLite Release 3.40.0 (2022)](https://www.sqlite.org/releaselog/3_40_0.html) ([HN](https://news.ycombinator.com/item?id=33628136)) ([HN](https://news.ycombinator.com/item?id=33696837))

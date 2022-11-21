@@ -203,6 +203,7 @@ div.CodeMirror-cursor,
 - [Grammarly Plugin](https://github.com/simonpacis/obsidian-grammarly-plugin) - Add Grammarly spellchecking to Obsidian.
 - [Daily Notes Editor](https://github.com/Quorafind/Obsidian-Daily-Notes-Editor) - Plugin for you to edit a bunch of daily notes in one page(inline), which works similar to Roam Research's default daily note view.
 - [Custom Sort](https://github.com/SebastianMC/obsidian-custom-sort) - Take full control over the order and sorting of folders and notes in File Explorer in Obsidian.
+- [LanguageTool Plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - Integrates LanguageTool to provide advanced Grammar and Spell Checking.
 
 ## Themes
 

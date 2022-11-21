@@ -429,3 +429,4 @@ title: ML Libraries
 - [PyImpetus](https://github.com/atif-hassan/PyImpetus) - Markov Blanket based feature subset selection algorithm that considers features both separately and together as a group in order to provide not just the best set of features but also the best combination of features.
 - [TPU Care](https://github.com/ClashLuke/tpucare) - Automatically take good care of your preemptible TPUs.
 - [Merlin Dataloader](https://github.com/NVIDIA-Merlin/dataloader) - Lets you rapidly load tabular data for training deep leaning models with TensorFlow, PyTorch or JAX.
+- [SISH](https://github.com/mahmoodlab/SISH) - Fast and scalable search of whole-slide images via self-supervised deep learning.

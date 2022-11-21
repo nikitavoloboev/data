@@ -421,3 +421,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Notes on Proposer-Builder Separation (PBS) (2022)](https://barnabe.substack.com/p/pbs)
 - [Validity Language](https://github.com/Tempest-Protocol/validity) - Next-generation, deduction-based language for formally verified, context-aware, autonomous & reactive smart contracts.
 - [Thirdweb](https://thirdweb.com/) - Complete web3 development framework. ([Dashboard code](https://github.com/thirdweb-dev/dashboard)) ([GitHub](https://github.com/thirdweb-dev))
+- [SSX](https://github.com/spruceid/ssx) - Self-Sovereign Anything.

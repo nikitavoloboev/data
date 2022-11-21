@@ -1327,6 +1327,7 @@
 - [MessagePack.swift](https://github.com/a2/MessagePack.swift) - Fast, zero-dependency MessagePack implementation.
 - [NearbyActorSystem](https://github.com/antigp/NearbyActorSystem) - Easy to use implementation of a DistributedActorSystem Swift 5.7 language feature based on MultiPeer Connectivity framework.
 - [Compilertron](https://github.com/johnno1962/Compilertron) - InjectionIII for the Swift compiler.
+- [BlueSwift](https://github.com/netguru/BlueSwift) - Swift framework for easy connection with Bluetooth peripherals.
 
 ## Other (not lib)
 
