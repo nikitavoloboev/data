@@ -29,7 +29,7 @@ There's few people whose work I follow a lot of and just get so excited when the
 
 Now that I started writing this list, I realize I can go for a long long time. One of the things I want to do as part of LA is a proper contacts handling. You can add contacts and share privately or publicly your notes on certain people, what you love about them. I think it can be nice.
 
--- 14
+## 14
 
 Sometimes I do look back on my life and think just how much of my life I wasted. I'm still young though so one thing that does calm me down is that failure is not inherently bad. Each failure I was met with, I tried to distill as part of my [rules](../../focusing/rules.md) for life. I do need to do something about making it easier to follow rules I set for myself. Like with exercise, I still kind of dread it as it is hard. And I am still so weak. Slowly trying to do more and more though.
 
@@ -41,7 +41,7 @@ A topic connector for topics learned. Basically want [tldraw](https://www.tldraw
 
 Also I got my archives from Twitter and Instagram. Will do other services later. Twitter one I'll try run through [this parser](https://github.com/timhutton/twitter-archive-parser) someone shared and IG will have to write my own. I want to be able to ingest all kinds of data into LA for actual organization. [Pixave](http://pixave.softwar.io/) is great but sucks I can't see the code for it and edit. I want something I can control, perhaps image management will be part of LA, perhaps its a separate app but I need to start working on this asap. Because right now being able to reference some tweet I saw last week is ultimate pain (no proper search even, no tagged linking). LA should solve this.
 
-Also [spyglass](https://github.com/a5huynh/spyglass) is pretty neat project. Can be handy. 
+Also [spyglass](https://github.com/a5huynh/spyglass) is pretty neat project. Can be handy.
 
 ![](https://i.imgur.com/0Yo6QQh.png)
 
@@ -69,9 +69,9 @@ Only that part won't actually get published but as I look at my notes I will sti
 
 One thing I am happy I did is make a [code](https://github.com/nikitavoloboev/code) repo which I use to share reproduction or general pieces of code. Maybe I will sync certain files or folders to GitHub Gists with some kind of bidrectional sync. Don't want to manage separate gists as I want to avoid having to go to UI to edit gists once they are published. Code should always be source of truth especially when it's on my file system because I can write scripts etc. for it to automate various things easily.
 
--- 21 
+## 21
 
-2022 for me has been described best for me by [Louis CK's standup](https://www.youtube.com/watch?v=Y_-1l_SlA7c).
+2022 has been described best for me by [Louis CK's standup](https://www.youtube.com/watch?v=Y_-1l_SlA7c).
 
 Trying to get to first release of [LA](../../ideas/learn-anything.md) soon.
 

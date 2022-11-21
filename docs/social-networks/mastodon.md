@@ -111,3 +111,4 @@ title: Mastodon
 - [Mastodon on fly.io](https://github.com/indirect/flyapp-mastodon)
 - [Tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys.
 - [SwiftUI Mastodon client](https://github.com/Dimillian/IceCubesApp)
+- [Mastodon Bridge](https://mastodon-bridge.vercel.app/) - Help you find your Tweeple on Mastodon.
