@@ -101,3 +101,4 @@
 - [Apache Mynewt](https://github.com/apache/mynewt-core) - OS to build, deploy and securely manage billions of devices.
 - [JoinBase](https://joinbase.io/) - End-to-end IoT database, freely to run on cloud or on edge as you like. ([GitHub](https://github.com/open-joinbase))
 - [Thread is taking over IoT: How IP will change the game (2022)](https://blog.whn.se/posts/thread-is-taking-over-iot-how-ip-will-change-the-game)
+- [Shifu](https://github.com/Edgenesis/shifu) - Kubernetes native IoT software development framework.

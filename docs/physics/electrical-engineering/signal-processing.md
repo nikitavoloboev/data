@@ -64,3 +64,4 @@ title: Signal processing
 - [HiFiScan](https://github.com/erdewit/HiFiScan) - Help equalize an audio system to get the best possible audio quality from it. ([HN](https://news.ycombinator.com/item?id=32798891))
 - [DRC: Digital Room Correction](http://drc-fir.sourceforge.net/)
 - [How to date a recording using background electrical noise (2022)](https://robertheaton.com/enf/)
+- [cuSignal](https://github.com/rapidsai/cusignal) - RAPIDS Signal Processing Library.

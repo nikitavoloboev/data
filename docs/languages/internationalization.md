@@ -50,3 +50,4 @@
 - [Texterify](https://texterify.com/) - Translation and Localization Tool. ([Code](https://github.com/texterify/texterify))
 - [Nice services for localizing apps](https://twitter.com/ChristianSelig/status/1584947296008949778)
 - [Inlang](https://github.com/inlang/inlang) - Git-based localization infrastructure for software.
+- [i18next-scanner](https://github.com/i18next/i18next-scanner) - Scan your code, extract translation keys/values, and merge them into i18n resource files.

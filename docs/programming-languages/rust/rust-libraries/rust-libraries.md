@@ -2629,3 +2629,4 @@
 - [Template for a generic rust project hosted on GitHub](https://github.com/rust-github/template)
 - [What is your favorite standard library function? (2022)](https://www.reddit.com/r/rust/comments/yz3xul/what_is_your_favorite_standard_library_function/)
 - [Cargo Scan](https://github.com/PLSysSec/cargo-scan) - Scan and analyze Rust dependencies.
+- [Rust MySQL microservice](https://github.com/second-state/microservice-rust-mysql) - Template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.

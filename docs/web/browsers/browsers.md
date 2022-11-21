@@ -264,3 +264,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [Building a Web Browser With SDL in C++](https://devtails.xyz/@adam/building-a-web-browser-with-sdl-in-c++)
 - [Horse Browser](https://browser.horse/) - Browser for research.
 - [Browser History and Bookmarks Search](https://github.com/Acidham/chromium-hist-bookmarks)
+- [WebExtension Toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for creating cross-browser WebExtensions.
