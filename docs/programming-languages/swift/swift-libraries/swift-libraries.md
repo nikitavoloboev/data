@@ -1326,6 +1326,7 @@
 - [ProcessService](https://github.com/ChimeHQ/ProcessService) - System to host an executable within an XPC service.
 - [MessagePack.swift](https://github.com/a2/MessagePack.swift) - Fast, zero-dependency MessagePack implementation.
 - [NearbyActorSystem](https://github.com/antigp/NearbyActorSystem) - Easy to use implementation of a DistributedActorSystem Swift 5.7 language feature based on MultiPeer Connectivity framework.
+- [Compilertron](https://github.com/johnno1962/Compilertron) - InjectionIII for the Swift compiler.
 
 ## Other (not lib)
 

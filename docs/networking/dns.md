@@ -258,3 +258,4 @@ title: DNS
 - [Zig-DNS](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in Zig.
 - [DNS over Ping](https://github.com/jamespwilliams/dns-over-ping)
 - [Faster DNS name decompression (2022)](https://dotat.at/@/2022-11-17-dns-decompress.html)
+- [Subdomain Sleuth](https://github.com/yahoo/SubdomainSleuth) - Scanner to identify dangling DNS records and subdomain takeovers.

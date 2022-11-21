@@ -113,3 +113,4 @@ title: Agda
 - [Experiments with preordered set models of (directed) type theories](https://github.com/AndrasKovacs/preordertt)
 - [Formalization of Regular Languages in Agda](https://github.com/desi-ivanov/agda-regexp-automata)
 - [Improving Agda Interaction](https://github.com/phijor/agda-mode-ng)
+- [Formalization of 2LTT in Agda](https://github.com/UnivalencePrinciple/2LTT-Agda)

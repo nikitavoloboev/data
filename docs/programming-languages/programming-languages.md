@@ -469,5 +469,5 @@ I do write Rust, but tried out [Zig](zig/zig.md) when I want to write embedded c
 - [Certified Interpreter for ML with Structural Polymorphism](https://github.com/garrigue/certint)
 - [Tamarin](https://github.com/cloudcmds/tamarin) - Fun and pragmatic scripting language written in Go. May be used as a CLI or embedded as a library.
 - [Plunder](https://github.com/plundering/plunder-reference) - Programming model that makes it possible to have programs that "run forever", eliminating the need for a separate storage abstraction.
-- [Buzz](https://github.com/buzz-language/buzz) - Strongly typed scripting language written in Zig.
+- [Buzz](https://github.com/buzz-language/buzz) - Strongly typed scripting language written in Zig. ([HN](https://news.ycombinator.com/item?id=33690989))
 - [Little Languages Are The Future Of Programming (2022)](https://chreke.com/little-languages.html) ([Lobsters](https://lobste.rs/s/tsh7jd/little_languages_are_future_programming))

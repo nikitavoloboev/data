@@ -320,3 +320,4 @@ title: React Native
 - [React Native Use File Upload](https://github.com/rossmartin/react-native-use-file-upload) - Hook for uploading files using multipart form data with React Native.
 - [Burnt](https://github.com/nandorojo/burnt) - Cross-platform toasts for React Native, powered by native elements.
 - [React Native Releases Working Group](https://github.com/reactwg/react-native-releases)
+- [React Native Payments](https://github.com/ExodusMovement/react-native-payments) - Accept Payments with Apple Pay and Android Pay using the Payment Request API.

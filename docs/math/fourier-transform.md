@@ -55,3 +55,4 @@ title: Fourier transform
 - [Faster than Fast Fourier Transform (ft. Michael Kapralov) (2017)](https://www.youtube.com/watch?v=6qdNfMMUD3Y)
 - [The Most Important Algorithm Of All Time (2022)](https://www.youtube.com/watch?v=nmgFG7PUHfo)
 - [Demystifying Fourier analysis](https://dsego.github.io/demystifying-fourier/) ([HN](https://news.ycombinator.com/item?id=33636639))
+- [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/~jos/mdft/) ([HN](https://news.ycombinator.com/item?id=33668004))

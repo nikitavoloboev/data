@@ -112,3 +112,4 @@ title: Mastodon
 - [Tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys.
 - [SwiftUI Mastodon client](https://github.com/Dimillian/IceCubesApp)
 - [Mastodon Bridge](https://mastodon-bridge.vercel.app/) - Help you find your Tweeple on Mastodon.
+- [Mastodon instances](https://instances.social/) - Let me help you choose an instance. ([Code](https://github.com/TheKinrar/instances))

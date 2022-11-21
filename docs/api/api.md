@@ -186,6 +186,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Wayback Machine Python](https://github.com/edgi-govdata-archiving/wayback)
 - [Medium API](https://github.com/Medium/medium-api-docs)
 - [Backblaze Go](https://github.com/kurin/blazer)
+- [Epic Games Python API](https://github.com/SD4RK/epicstore_api)
 - [Paddle Go](https://github.com/Fakerr/go-paddle)
 - [Paddle TS](https://github.com/devoxa/paddle-sdk) - SDK to interface with the API and web hooks from Paddle.
 - [PyTrends](https://github.com/GeneralMills/pytrends) - Unofficial API for Google Trends.

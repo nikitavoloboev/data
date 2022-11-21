@@ -473,3 +473,7 @@
 - [Ask HN: Good resource on writing web app with plain JavaScript/HTML/CSS (2022)](https://news.ycombinator.com/item?id=33635218)
 - [Jamstack Community Survey Results 2022](https://jamstack.org/survey/2022/) ([Summary](https://www.youtube.com/watch?v=bMy9g0USMd8))
 - [Web technology optimism hour (2022)](https://macwright.com/2022/11/18/optimism-updates.html)
+- [Go and Command-Line Interface to Archive.is](https://github.com/wabarc/archive.is)
+- [Wayback](https://github.com/wabarc/wayback) - Self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems.
+- [Cairn](https://github.com/wabarc/cairn) - NPM package and CLI tool for saving webpages.
+- [Wayback Archiver](https://wabarc.eu.org/) - Makes it easy and fast to Wayback webpage. ([GitHub](https://github.com/wabarc))

@@ -694,3 +694,4 @@
 - [RetroMAE: Pre-Training Retrieval-oriented Language Models Via Masked Auto-Encoder (2022)](https://arxiv.org/abs/2205.12035) ([Code](https://github.com/staoxiao/RetroMAE))
 - [Generate conversation starters given two personalities using AI](https://github.com/langa-me/chat-example)
 - [MetaICL: Learning to Learn In Context (2021)](https://arxiv.org/abs/2110.15943) ([Code](https://github.com/facebookresearch/MetaICL))
+- [PAL: Program-aided Language Models (2022)](https://arxiv.org/abs/2211.10435) ([Code](https://github.com/reasoning-machines/pal))

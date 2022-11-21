@@ -47,3 +47,4 @@ title: Tauri
 - [tauri-egui](https://github.com/tauri-apps/tauri-egui) - Tauri plugin for using the egui library in a Tauri application.
 - [tauri-sys](https://github.com/JonasKruckenberg/tauri-sys) - Raw bindings to the Tauri API for projects using wasm-bindgen.
 - [Tauri Specta](https://github.com/oscartbeaumont/tauri-specta) - Completely type safe Tauri commands.
+- [tauri-bindgen](https://github.com/JonasKruckenberg/tauri-bindgen) - Typesafe language bindings generator for the Tauri IPC bridge.

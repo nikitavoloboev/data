@@ -209,3 +209,4 @@ title: Terraform
 - [Terraform Provider for MinIO](https://github.com/aminueza/terraform-provider-minio)
 - [Terraform-diff](https://github.com/contentful-labs/terraform-diff) - Detect what Terraform projects have changed when changes are made to Terraform modules.
 - [Cloudflare uses Terraform to manage Cloudflare (2022)](https://blog.cloudflare.com/terraforming-cloudflare-at-cloudflare/)
+- [Terraform tree](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.

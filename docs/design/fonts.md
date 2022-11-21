@@ -437,3 +437,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Fontpie](https://github.com/pixel-point/fontpie) - Get your layout shifts optimized with a CLI-generated piece of CSS.
 - [My fav typefaces for UI design](https://twitter.com/jordanphughes/status/1593107714364018688)
 - [UTIF.js](https://github.com/photopea/UTIF.js) - Fast and advanced TIFF decoder.
+- [Glyphance](https://github.com/cupcakearmy/glyphance) - CLI tool for generating font subsets based on unicode ranges.
