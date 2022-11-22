@@ -210,3 +210,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [What The Diff](https://whatthediff.ai/) - AI powered changelog generation. ([Tweet](https://twitter.com/marcelpociot/status/1584499521949949952))
 - [Markdown, Asciidoc, or reStructuredText – a tale of docs-as-code (2022)](https://www.dewanahmed.com/markdown-asciidoc-restructuredtext/) ([HN](https://news.ycombinator.com/item?id=33468213))
 - [roc](https://github.com/sminez/roc) - Rust command line documentation searching.
+- [High-documentation, low-meeting work culture (2022)](https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture) ([HN](https://news.ycombinator.com/item?id=33707022))

@@ -4,7 +4,7 @@ title: CSS Flexbox
 
 # [CSS Flexbox](https://www.google.com/search?q=flexbox&hl=en&safe=off)
 
-[Flexbox Froggy](https://flexboxfroggy.com/) is great.
+[Interactive Guide to Flexbox in CSS](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) & [Flexbox Froggy](https://flexboxfroggy.com/) are great.
 
 ## Links
 
@@ -36,3 +36,4 @@ title: CSS Flexbox
 - [CSS Flexbox gap property](https://css-tricks.com/almanac/properties/g/gap/)
 - [Thoughts on flex-direction: column on body (2022)](https://twitter.com/antfu7/status/1497667664822812672)
 - [Equal Columns With Flexbox: It’s More Complicated Than You Might Think (2021)](https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/)
+- [An Interactive Guide to Flexbox in CSS](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
