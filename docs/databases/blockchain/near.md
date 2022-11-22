@@ -30,3 +30,4 @@ title: NEAR Protocol
 - [NEAR Lands](https://github.com/vgrichina/near-lands) - Decentralized 2D multiverse project in development using NEAR protocol.
 - [stats.gallery](https://stats.gallery/) - Big & fun NEAR account analytics. ([Code](https://github.com/NEAR-Edu/stats.gallery))
 - [NEAR Contract Tools](https://github.com/encody/near-contract-tools) - Helpful functions and macros for developing smart contracts on NEAR Protocol.
+- [Here](https://herewallet.app/) - NEAR Wallet.

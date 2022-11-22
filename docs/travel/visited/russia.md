@@ -626,3 +626,4 @@ One other thing I hope Russia does improve on culturally, is minimize all kinds 
 - [MY812](https://my812.ru/)
 - [Страна, которую мы не представляем. Наталья Зубаревич о выживании, бедности и адаптации к худшему (2022)](https://www.youtube.com/watch?v=dkEMcHJJhKY)
 - [Долин: Дружба с Ургантом, потеря Роднянского и Абрамовича, конец кино эпохи Путина (2022)](https://www.youtube.com/watch?v=3VZCr5BSJiQ)
+- [Закрыть ИП в России инструкция](https://twitter.com/wouldntfix/status/1595052153416073224)

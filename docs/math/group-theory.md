@@ -4,6 +4,10 @@ title: Group theory
 
 # [Group theory](https://en.wikipedia.org/wiki/Group_theory)
 
+## Notes
+
+- [To fully understand finite group theory, understand that every action moves things around repeating circles. Solutions don’t depend on dimension, they depend on how many circles you have, how they are coupled, and where they touch.](https://twitter.com/JasonHise64/status/1594947398291591168)
+
 ## Links
 
 - [Group theory and why I love the monster group (2020)](https://www.youtube.com/watch?v=mH0oCDa74tE)

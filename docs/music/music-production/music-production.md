@@ -473,3 +473,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [Dittytoy](https://dittytoy.net/) - Create your generative music online using a simple JavaScript API.
 - [PulseQueue](https://valent-in.github.io/pulseq/) - Minimalistic web-app for creating electronic music. ([Code](https://github.com/Valent-in/pulseq))
 - [Magenta Note-SEQ](https://github.com/magenta/note-seq) - Serializable note sequence representation and utilities.
+- [Endlesss](https://discover.endlesss.fm/) - New way to create, publish and collect music together, powered by Web3.

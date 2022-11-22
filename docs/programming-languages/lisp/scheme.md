@@ -110,3 +110,4 @@ title: Scheme
 - [An opinionated guide to scheme implementations (2013)](https://wingolog.org/archives/2013/01/07/an-opinionated-guide-to-scheme-implementations) ([HN](https://news.ycombinator.com/item?id=32700027))
 - [Scsh](https://scsh.net/) - Open-source Unix shell embedded within Scheme.
 - [Marwood](https://github.com/strtok/marwood) - Embeddable Scheme R7 Compiler & Runtime written in Rust.
+- [Catbird: An experimental game engine for Scheme programmers (2022)](https://dthompson.us/catbird-an-experimental-game-engine-for-scheme-programmers.html)

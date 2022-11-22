@@ -33,6 +33,7 @@
 - [Performance will always fall to the minimum acceptable level](https://twitter.com/austen/status/1543260128727539712)
 - [Weekly standing 1:1's with every direct report are largely a waste of time and create bricked out calendar hell as organizations scale](https://twitter.com/jessegenet/status/1567546179369730050)
 - [Drive home the mission and importance to civilization. Require super high commitment from the team. Be willing to fail publicly and punch back at naysayers.](https://twitter.com/reinpk/status/1594577162702651392)
+- [Still convinced OKRs are the ultimate google psyops to slow down startups](https://twitter.com/CharleyMa/status/1594912857002762243)
 
 ## Links
 

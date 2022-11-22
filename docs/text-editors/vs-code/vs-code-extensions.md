@@ -165,7 +165,7 @@ Below is a list of extensions I use.
 - [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform.
 - [Smart Clicks](https://github.com/antfu/vscode-smart-clicks) - Smart selection with double clicks for VS Code.
 - [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
-- [VS Code Neovim Integration](https://github.com/asvetliakov/vscode-neovim)
+- [VS Code Neovim Integration](https://github.com/vscode-neovim/vscode-neovim) ([HN](https://news.ycombinator.com/item?id=33709013))
 - [Snipsnap](https://github.com/snipsnapdev/snipsnap) - Ultimate snippets collection for VS Code.
 - [VSpaceCode](https://marketplace.visualstudio.com/items?itemName=VSpaceCode.vspacecode) - Spacemacs' like keybindings. ([Code](https://github.com/VSpaceCode/VSpacecode))
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support, with built-in Kubernetes syntax support. ([Code](https://github.com/redhat-developer/vscode-yaml))

@@ -188,3 +188,4 @@ Love [Italic](https://italic.com/) & [Beauty of Joseon](https://beautyofjoseon.c
 - [The Row](https://www.therow.com/)
 - [Jacquemus](https://www.jacquemus.com/en_fr)
 - [Basket](https://www.trybasket.com/) - Save products from anywhere online and get price drop alerts.
+- [Miahcombat](https://miahcombat.com/) - Fun cat related products.
