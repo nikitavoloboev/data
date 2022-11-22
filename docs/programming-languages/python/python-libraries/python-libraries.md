@@ -228,6 +228,10 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Inline SQL](https://github.com/ekzhang/inline-sql) - Inline SQL in any Python program.
 - [μSQLite](https://github.com/spatialdude/usqlite) - SQLite module for MicroPython.
 
+## WebSocket
+
+- [httpx-ws](https://github.com/frankie567/httpx-ws) - WebSockets support for HTTPX.
+
 ## GUI
 
 - [Toga](https://github.com/beeware/toga) - Python native, OS native GUI toolkit.

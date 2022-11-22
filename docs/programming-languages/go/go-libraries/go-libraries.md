@@ -603,6 +603,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [bimg](https://github.com/h2non/bimg) - Go package for fast high-level image processing powered by libvips C library.
 - [twodeeparticles](https://github.com/blizzy78/twodeeparticles) - Engine-agnostic 2D particle system simulator for Go.
 - [polyred](https://github.com/polyred/polyred) - 3D Graphics in Go.
+- [Resolv](https://github.com/SolarLune/resolv) - Simple 2D Go collision detection and resolution library for games.
 
 ## WASM
 
@@ -1908,6 +1909,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [artifex](https://github.com/mborders/artifex) - Simple in-memory job queue for Go using worker-based dispatching.
 - [Tag](https://github.com/frolovo22/tag) - Parsing/editing tags ID3, MP4, FLAC.
 - [go-iprtb](https://github.com/moznion/go-iprtb) - Go implementation of the IP routing table.
+- [Unleash Go](https://github.com/Unleash/unleash-client-go)
 
 ## Links
 

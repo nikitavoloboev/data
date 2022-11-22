@@ -50,3 +50,4 @@
 - [AlvaAR](https://github.com/alanross/AlvaAR) - Real time visual SLAM algorithm running as WebAssembly, in the browser.
 - [LaMAR: Benchmarking Localization and Mapping for AR (2022)](https://lamar.ethz.ch/) ([Code](https://github.com/microsoft/lamar-benchmark))
 - [Haptics with Input: Using Linear Resonant Actuators for Sensing (2022)](https://ai.googleblog.com/2020/11/haptics-with-input-using-linear.html)
+- [Immersive Web Developer](https://immersiveweb.dev/) ([Code](https://github.com/immersive-web/immersiveweb.dev))
