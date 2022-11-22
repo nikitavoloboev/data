@@ -35,6 +35,7 @@ title: OpenGL
 - [OOGL](https://github.com/Overv/OOGL) - Object-oriented C++ wrapper for OpenGL.
 - [Glow](https://github.com/go-gl/glow) - Go binding generator for OpenGL.
 - [NixGL](https://github.com/guibou/nixGL) - Wrapper tool for nix OpenGL application.
+- [TinyGL](https://bellard.org/TinyGL/) - Small, Free and Fast Subset of OpenGL. ([HN](https://news.ycombinator.com/item?id=33701826))
 - [TinyGL-RS](https://github.com/RoastVeg/tinygl-rs) - Bindings to TinyGL, a Small, Free and Fast Subset of OpenGL.
 - [GLyphy](https://github.com/behdad/glyphy) - Signed-distance-field (SDF) text renderer using OpenGL ES2 shading language.
 - [OpenGL/Vulkan Interop](https://github.com/nvpro-samples/gl_vk_simple_interop) - Display an image created by Vulkan compute shader, with OpenGL.

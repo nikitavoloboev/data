@@ -682,6 +682,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Beet](https://github.com/metaplex-foundation/beet) - Borsh compatible De/Serializer.
 - [msgpack-ts](https://github.com/samclaus/msgpack-ts) - Fastest TypeScript MessagePack implementation.
 - [IT FSM](https://github.com/pleshevskiy/it-fsm) - Simple full-featured finite state machine for your project.
+- [Magic bytes](https://github.com/LarsKoelpin/magic-bytes) - Library for detecting file types.
 
 ## Links
 
@@ -786,3 +787,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions.
 - [libyear](https://github.com/jdanil/libyear) - Simple measure of software dependency freshness.
 - [Documen.ts](https://github.com/d-fischer/documen.ts) - TypeScript documentation generator.
+- [dets](https://github.com/FlorianRappl/dets) - Generate a single declaration file for your TypeScript project.

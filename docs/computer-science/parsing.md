@@ -129,3 +129,4 @@
 - [Practical Parsing in Rust with nom (2022)](https://naiveai.hashnode.dev/practical-parsing-nom) ([Lobsters](https://lobste.rs/s/mj8smd/practical_parsing_rust_with_nom))
 - [lexgen](https://github.com/osa1/lexgen) - Fully-featured lexer generator, implemented as a proc macro.
 - [parol](https://github.com/jsinger67/parol) - LL(k) parser generator for Rust.
+- [Parsing Programming Languages with FParsec (2020)](https://rosalogia.me/posts/functional-parsing/)

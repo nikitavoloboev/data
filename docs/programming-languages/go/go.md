@@ -904,3 +904,4 @@ if *boolArgPtr != false {
 - [Google’s Go Style Guide](https://google.github.io/styleguide/go/) ([HN](https://news.ycombinator.com/item?id=33652343)) ([Reddit](https://www.reddit.com/r/golang/comments/yy8edb/googles_internal_go_style_guide/)) ([Lobsters](https://lobste.rs/s/vhxxjj/google_s_go_styleguide))
 - [Google Go Style Best Practices](https://google.github.io/styleguide/go/best-practices)
 - [Most modern Go books (2022)](https://www.reddit.com/r/golang/comments/z03gvg/most_modern_go_book/)
+- [Why is Go's Garbage Collection so criticized? (2022)](https://www.reddit.com/r/golang/comments/z1o2oe/why_is_gos_garbage_collection_so_criticized/)

@@ -1,6 +1,6 @@
 # Computer graphics
 
-[Vulkan](vulkan.md) and [Metal](https://developer.apple.com/metal/) seem great.
+[Vulkan](vulkan.md) and [Metal](metal.md) seem great.
 
 ## Notes
 

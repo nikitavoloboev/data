@@ -281,3 +281,6 @@ title: Spatial analysis
 - [osmar](https://github.com/codesoap/osmar) - Simple command line tool to explore osm data.
 - [TerraDraw](https://github.com/JamesLMilner/terra-draw) - Cross provider map drawing library, supporting Mapbox, Google Maps and Leaflet out the box.
 - [OSM Community Index](https://openstreetmap.community/) - Index of community resources for OpenStreetMap. ([Code](https://github.com/osmlab/osm-community-index))
+- [Self Hosting a Google Maps Alternative with OpenStreetMap (2022)](https://wcedmisten.fyi/post/self-hosting-osm/)
+- [Measuring Walkability with Openstreetmap and Isochrone Maps (2022)](https://wcedmisten.fyi/post/isochrone-walkability/)
+- [Exploratory Spatial Data Analysis in PySAL](https://github.com/pysal/esda)

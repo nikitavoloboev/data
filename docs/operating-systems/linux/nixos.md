@@ -265,3 +265,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Worry-free NixOS refactors (2022)](https://www.tweag.io/blog/2022-10-11-stable-narhashes/)
 - [Hard user separation with NixOS (2022)](https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/) ([HN](https://news.ycombinator.com/item?id=33418788))
 - [Proxy server + NixOS](https://github.com/hackclub/proxyparty)
+- [Lollypops](https://github.com/pinpox/lollypops) - NixOS Deployment Tool.

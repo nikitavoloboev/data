@@ -184,6 +184,7 @@ And these Discord servers:
 - [Offscreen Magazine](https://www.offscreenmag.com/) - Independent print magazine that explores critical perspectives on technology through earnest conversations.
 - [viborc.com](https://viborc.com/) - Data-driven stories for bright minds.
 - [Foreign Affairs](https://www.foreignaffairs.com/) - American magazine of international relations and U.S. foreign policy.
+- [Asterisk](https://asteriskmag.com/)
 
 ### Other
 

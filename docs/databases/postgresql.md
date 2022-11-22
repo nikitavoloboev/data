@@ -607,3 +607,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Decile](https://decile.app/) - Simple, open-source analytics tool for any Postgres database. ([Code](https://github.com/decileapp/decile))
 - [Reducing replication lag with IO concurrency in Postgres 15 (2022)](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/reducing-replication-lag-with-io-concurrency-in-postgres-15/ba-p/3673169)
 - [pg_hexedit](https://github.com/petergeoghegan/pg_hexedit) - Open PostgreSQL relation files in a hex editor with tags and annotations.
+- [PostgreSQL ERROR: permission denied for schema public (2022)](https://www.cybertec-postgresql.com/en/error-permission-denied-schema-public/)

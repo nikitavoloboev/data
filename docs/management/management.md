@@ -32,6 +32,7 @@
 - [I'm consistently surprised by how the single act of doing this as an eng manager or product manager makes incredible waves: Send an email explaining what your team did the past 1-2 weeks, what your plans are for the next period, blockers & lessons learned.](https://twitter.com/GergelyOrosz/status/1515394850224549898)
 - [Performance will always fall to the minimum acceptable level](https://twitter.com/austen/status/1543260128727539712)
 - [Weekly standing 1:1's with every direct report are largely a waste of time and create bricked out calendar hell as organizations scale](https://twitter.com/jessegenet/status/1567546179369730050)
+- [Drive home the mission and importance to civilization. Require super high commitment from the team. Be willing to fail publicly and punch back at naysayers.](https://twitter.com/reinpk/status/1594577162702651392)
 
 ## Links
 

@@ -220,3 +220,4 @@ title: Genomics
 - [Consider working on genomics (2022)](https://claymcleod.dev/blog/2022-11-19-consider-working-on-genomics.html) ([HN](https://news.ycombinator.com/item?id=33671264))
 - [Pinello Lab](https://main.pinellolab.partners.org/) - Massachusetts General Hospital/ Harvard Medical School. ([GitHub](https://github.com/pinellolab))
 - [scvi-tools](https://github.com/scverse/scvi-tools) - Deep probabilistic analysis of single-cell omics data.
+- [gggenomes](https://github.com/thackl/gggenomes) - Grammar of graphics for comparative genomics.

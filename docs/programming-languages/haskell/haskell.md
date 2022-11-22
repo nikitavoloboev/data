@@ -478,3 +478,5 @@ title: Haskell
 - [Improving the experience of JSON in Haskell with autodocodec and bifunctors (2022)](https://www.dylanamartin.com/2022/11/08/improving-the-aeson-experience.html)
 - [Staged programming with typeclasses (2022)](https://www.tweag.io/blog/2022-11-15-unrolling-with-typeclasses/)
 - [Haskell Notebooks with HLS and VS Code](https://github.com/tittoassini/notebook)
+- [FizzBuzz in Haskell (2014)](https://themonadreader.files.wordpress.com/2014/04/fizzbuzz.pdf) ([HN](https://news.ycombinator.com/item?id=33697905))
+- [WebAssembly backend merged into GHC (2022)](https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/)

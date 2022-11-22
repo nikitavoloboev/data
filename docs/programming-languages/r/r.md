@@ -191,3 +191,4 @@
 - [Run R CMD check from R and Capture Results](https://github.com/r-lib/rcmdcheck)
 - [Regex in R](https://r4ds.hadley.nz/regexps.html)
 - [tmap](https://github.com/r-tmap/tmap) - Thematic maps in R.
+- [faux](https://github.com/debruine/faux) - R functions for simulating factorial datasets.

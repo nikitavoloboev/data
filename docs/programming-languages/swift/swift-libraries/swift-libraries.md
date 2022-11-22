@@ -1328,6 +1328,8 @@
 - [NearbyActorSystem](https://github.com/antigp/NearbyActorSystem) - Easy to use implementation of a DistributedActorSystem Swift 5.7 language feature based on MultiPeer Connectivity framework.
 - [Compilertron](https://github.com/johnno1962/Compilertron) - InjectionIII for the Swift compiler.
 - [BlueSwift](https://github.com/netguru/BlueSwift) - Swift framework for easy connection with Bluetooth peripherals.
+- [SwiftTypeReader](https://github.com/omochi/SwiftTypeReader) - Gather type definitions from Swift source code.
+- [FineJSON](https://github.com/omochi/FineJSON) - More useful JSONEncoder, Decoder.
 
 ## Other (not lib)
 

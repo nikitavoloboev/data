@@ -66,3 +66,4 @@ title: ActivityPub
 - [Go Littr](https://github.com/mariusor/go-littr) - Link aggregator inspired by (old)reddit using ActivityPub federation.
 - [ActivityPub Four Years Later: The Good, the Bad, and the Fedi (2022)](https://www.youtube.com/watch?v=vnciCz83t70)
 - [Some thoughts about ActivityPub](https://gist.github.com/jdarcy/60107fe4e653819138396257df302eef)
+- [Towards End-to-End Encryption for Direct Messages in the Fediverse (2022)](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/)

@@ -7,6 +7,7 @@ Being a Cypriot citizen, I hope Cyprus joins [US Visa Waiver](https://travel.sta
 ## Notes
 
 - May need to double check with lawyer: You can open business in Cyprus but operate/live in any country. Cyprus income tax is 15%. Cyprus capital gains tax is 0%. So you don't pay tax on money made from holding/selling shares. So if you open a business in Cyprus, you only pay the 15% on income unless you redistribute balance sheet so you don't have an income and reinvest money (like what Amazon/Apple/.. do). If you want to receive actual money from what business makes, you can pay it as part of dividends. This money is then have to be taxed by where you are a tax resident of. So if you are in UK, you pay UK tax. You can however put many expenses as 'business expense' like flight tickets or hardware buys etc. and those you don't have to pay tax for.
+- [Cyprus is great for wealth accumulation. Stay only 60 days per year. No dividend tax. No capital gains tax.](https://www.reddit.com/r/EuropeFIRE/comments/z1mcov/best_european_country_for_fire_optimizing_for_low/)
 
 ## Links
 

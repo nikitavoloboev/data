@@ -41,3 +41,4 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - [If you could give 200 million dollars to any director to make a film with complete creative control, Who would you pick? (2022)](https://www.reddit.com/r/criterion/comments/xnxna8/if_you_could_give_200_million_dollars_to_any/)
 - [What is your least favorite movie from your favorite director? (2022)](https://www.reddit.com/r/Letterboxd/comments/yrr27v/what_is_your_least_favorite_movie_from_your/)
 - [Sculpting in Time by Andrei Tarkovsky](https://www.goodreads.com/book/show/28495.Sculpting_in_Time)
+- [Who are your favorite Asian directors? (2022)](https://www.reddit.com/r/criterion/comments/z1p249/who_are_your_favorite_asian_directors/)

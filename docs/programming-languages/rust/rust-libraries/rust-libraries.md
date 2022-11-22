@@ -68,6 +68,7 @@
 - [minus](https://github.com/arijit79/minus) - Asynchronous terminal paging library.
 - [linya](https://github.com/fosskers/linya) - Simple concurrent progress bars.
 - [makeup](https://github.com/queer/makeup) - Stylish CLIs/TUIs for Rust.
+- [is-terminal](https://github.com/sunfishcode/is-terminal) - Test whether a given stream is a terminal.
 
 ## Web
 
@@ -214,7 +215,7 @@
 
 - [Smithy](https://github.com/rbalicki2/smithy) - Framework for building WebAssembly apps in Rust.
 - [Walrus](https://github.com/rustwasm/walrus) - WebAssembly transformation library.
-- [Yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly. ([Write a Frontend app with Rust and Yew](https://www.youtube.com/watch?v=Xcdb0ydIXVg)) ([axum and yew starter](https://github.com/rksm/axum-yew-setup)) ([Yew Hooks](https://github.com/jetli/yew-hooks))
+- [Yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly. ([Write a Frontend app with Rust and Yew](https://www.youtube.com/watch?v=Xcdb0ydIXVg)) ([axum and yew starter](https://github.com/rksm/axum-yew-setup)) ([Yew Hooks](https://github.com/jetli/yew-hooks)) ([Awesome](https://github.com/jetli/awesome-yew))
 - [Bounce](https://github.com/futursolo/bounce) - State management library for Yew.
 - [Percy](https://github.com/chinedufn/percy) - Modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 - [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
@@ -2346,7 +2347,7 @@
 - [enve](https://github.com/pleshevskiy/enve) - Work with environment variables and convert it to any type using only type annotations.
 - [archive](https://github.com/patr0nus/rust-archive) - Safe bindings for libarchive with minimum overhead.
 - [JS Source Scopes](https://github.com/getsentry/js-source-scopes) - Extracting and processing scope information from JavaScript source files, and resolving that scope via SourceMaps.
-- [faer](https://github.com/sarah-ek/faer-rs) - Low level linear algebra routines in pure Rust.
+- [faer](https://github.com/sarah-ek/faer-rs) - Low level linear algebra routines in pure Rust. ([Reddit](https://www.reddit.com/r/rust/comments/z17l0g/introducing_faer_a_linear_algebra_library_in_rust/))
 
 ## Cargo Plugins
 
@@ -2453,6 +2454,7 @@
 - [CycloneDX Rust (Cargo) Plugin](https://github.com/CycloneDX/cyclonedx-rust-cargo) - Creates CycloneDX Software Bill of Materials (SBOM) from Rust (Cargo) projects.
 - [cargo-guppy](https://github.com/guppy-rs/guppy) - Track and query Cargo dependency graphs.
 - [allocative](https://github.com/facebookexperimental/allocative) - Library and proc macro to analyze memory usage of data structures in rust.
+- [Typeshare](https://github.com/1Password/typeshare) - Ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI. ([Reddit](https://www.reddit.com/r/rust/comments/z1qc6n/1password_releases_typeshare_the_ultimate_tool/))
 
 ## Notes
 
@@ -2633,3 +2635,5 @@
 - [What is your favorite standard library function? (2022)](https://www.reddit.com/r/rust/comments/yz3xul/what_is_your_favorite_standard_library_function/)
 - [Cargo Scan](https://github.com/PLSysSec/cargo-scan) - Scan and analyze Rust dependencies.
 - [Rust MySQL microservice](https://github.com/second-state/microservice-rust-mysql) - Template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.
+- [Flux: Refinement Types for Rust (2022)](https://liquid-rust.github.io/2022/11/14/introducing-flux/)
+- [Rust enum-match code generation (2022)](https://www.eventhelix.com/rust/rust-to-assembly-enum-match/)

@@ -96,3 +96,4 @@ So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](unit
 - [Visualization of European history (1500-2022)](https://twitter.com/xruiztru/status/1589622943122075650)
 - [How Most European Cities Are Insanely Well Located (2022)](https://www.youtube.com/watch?v=3uwVZJx1oyA)
 - [Where would you live in Europe for the best quality of life? (2022)](https://www.reddit.com/r/eupersonalfinance/comments/yyir5x/where_would_you_live_in_europe_for_the_best/)
+- [Moving to a third country from EU, what to do with my pension? (2022)](https://www.reddit.com/r/eupersonalfinance/comments/z1b8bp/moving_to_a_third_country_what_to_do_with_my/)

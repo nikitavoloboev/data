@@ -29,32 +29,17 @@ I also avoid sun bathing on sunny days and apply extra sun screen on exposed bod
 
 ### Evening
 
-Before going to sleep, I do another exercise routine and quick shower.
-
-Whilst my morning skin routine is same products repeated. In evening, I vary betweet Exfoliant, Azelaic acid and Retinal, to make sure I don't use their active ingredients together as that can cause conflicts.
-
-So first, I do:
+Before going to sleep, I do another exercise routine and quick shower. Then I do:
 
 1. [[Cleanse](https://youtu.be/h05frUE9dkE?t=765)] Wet face, squeeze [Jelly Joker cleanser](https://geekandgorgeous.com/collections/101-serums/products/jelly-joker) into palm and gently, but thoroughly massage over face, neck and eye area. ~ 1 minute. Rinse well with warm water and pat dry.
-
-Then accordingly:
-
-2. [[Retinal](https://www.dermstore.com/blog/how-to-apply-retinol/)] Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) on dry face skin & neck, avoid eye area. Let it absorb.
-
-If I took Retinal on previous day, I take:
-
-2. [[Azelaic acid](https://www.youtube.com/watch?v=8dxEW9P6C3c)] Apply few drops of [aPAD](https://geekandgorgeous.com/collections/101-serums/products/gg-101-apad) on dry face skin. Let it absorb.
-
-If I took Azelaic acid on previous day, I take:
-
-2. [[Exfoliant](https://www.youtube.com/watch?v=h05frUE9dkE)] Apply [Calm Down](https://geekandgorgeous.com/collections/exfoliants/products/calm-down) either with a cotton pad or pour it into your hands and pat it on as men do with after-shave. Avoid the area around the eyes. Let it absorb.
-
-I always brush my teeth after applying 2nd step (~ 2 minutes). I then finish it off with:
-
-3. [[Moisturizer](https://www.youtube.com/watch?v=bLNbN0YMBWk)] Apply [Hydration Station](https://geekandgorgeous.com/collections/101-serums/products/hydration-station) on already slightly wet skin. Use as much or as little as your skin needs.
-4. Go to sleep. Always use fresh sheets especially on the pillows.
+2. [[Exfoliant](https://www.youtube.com/watch?v=4KqPDKKGxcs)] Apply [Cheer Up](https://geekandgorgeous.com/collections/exfoliants/products/cheer-up) with your hands and pat it on as men do with after-shave. Avoid the area around the eyes. Let it absorb. I brush my teeth as I wait.
+3. [[Retinal](https://www.dermstore.com/blog/how-to-apply-retinol/)] Apply pea sized amount of [A-Game 5](https://geekandgorgeous.com/collections/101-serums/products/a-game-5) on dry face skin & neck, avoid eye area. Let it absorb.
+4. [[Moisturizer](https://www.youtube.com/watch?v=bLNbN0YMBWk)] Apply [Hydration Station](https://geekandgorgeous.com/collections/101-serums/products/hydration-station) on already slightly wet skin. Use as much or as little as your skin needs.
+5. Go to sleep. Always use fresh sheets especially on the pillows.
 
 At night, I try to sleep [either on my back or side](https://www.sleepfoundation.org/sleeping-positions). Although I do fall asleep fastest when sleeping on my stomach. Unfortunately, sleeping on your stomach, can [cause wrinkles to form](https://www.allure.com/story/side-stomach-sleeping-causes-lines-wrinkles).
+
+When I first started above evening routine, I didn't apply Exfoliant and Retinal on same day for first 2-3 weeks to get my skin to adjust to active ingredients. So I did one day Exfoliant and next day Retinal. Now I can do both on same day with no problems but that may vary for you.
 
 ### Other tips
 
@@ -177,3 +162,6 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [Retinol Eye Creams Are Everywhere These Days—Here’s Why Derms Love Them](https://www.wellandgood.com/can-you-use-retinol-under-eyes/)
 - [Вечерний уход за кожей (2020)](https://www.youtube.com/watch?v=BIfpI-ZsINA)
 - [Утренний уход за кожей (2020)](https://www.youtube.com/watch?v=TwUh3Jn1vQ8)
+- [Acne Scar Treatments Guide](https://www.acne.org/acne-scar-treatment.html)
+- [Korean skincare & K-beauty](https://koreanskincare.nl/)
+- [Facial exercises](https://www.reddit.com/r/30PlusSkinCare/comments/z11ta1/facial_excercise/)

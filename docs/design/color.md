@@ -2,7 +2,7 @@
 
 [Gradients](https://meshy.uxie.io/), [Hypercolor](https://hypercolor.dev/), [Huetone](https://huetone.ardov.me/) & [Prism](https://primer.style/prism/) are useful.
 
-[Color and Contrast](https://colorandcontrast.com/#/) is a good read.
+[Color and Contrast](https://colorandcontrast.com/#/) is a good read. [Mixbox](https://github.com/scrtwpns/mixbox) is nice library for color mixing.
 
 ## Nice gradients
 
@@ -208,3 +208,4 @@
 - [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/) ([HN](https://news.ycombinator.com/item?id=33651724))
 - [271 years before Pantone, every color imaginable in an 800-page book (2014)](https://www.thisiscolossal.com/2014/05/color-book/) ([HN](https://news.ycombinator.com/item?id=33675579))
 - [Named Colors Wheel](https://arantius.github.io/web-color-wheel/) ([HN](https://news.ycombinator.com/item?id=33693411))
+- [Mixbox](https://github.com/scrtwpns/mixbox) - Library for natural color mixing based on real pigments.

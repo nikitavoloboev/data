@@ -69,6 +69,7 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 
 ## Notes
 
+- [You can't love someone into loving you.](https://www.reddit.com/r/datingoverthirty/comments/z1igzj/he_had_a_stronger_connection_with_someone_else/)
 - [All Too Well](https://www.youtube.com/watch?v=tollGa3S0o8) clip/film is a nice overview of narcissistic relationship.
 - [The best way to make relationships is to do work together. All kinds of relationships, all kinds of work.](https://twitter.com/simonsarris/status/1525893480601604097)
 - [Dr. Ramani is amazing](https://www.reddit.com/r/NarcissisticAbuse/comments/svuagm/i_strongly_advise_all_of_you_to_watch_dr_ramani/)
@@ -317,3 +318,4 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [Что для вас red flags (в других людях/в отношениях/где угодно)](https://twitter.com/leria1030pm/status/1593147268211019776)
 - [Don’t ask, don’t tell non monogamous relationship rules](https://www.reddit.com/r/nonmonogamy/comments/yzmoyx/couples_who_have_a_dont_ask_dont_tell_policy_with/)
 - [‘Why am I talking to 10 guys?’ The rise and fall of dating apps (2022)](https://www.theguardian.com/lifeandstyle/2022/nov/20/the-rise-and-fall-of-dating-apps) ([HN](https://news.ycombinator.com/item?id=33679643))
+- [Измена - чему она меня научила (2022)](https://www.youtube.com/watch?v=qSweC0eKeqM)

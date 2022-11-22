@@ -315,3 +315,4 @@ title: Svelte
 - [Svelte Meet](https://svelte-meet.herokuapp.com/) - Video calling web app build with SvelteKit and SocketIO.
 - [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization for Svelte.
 - [Svelte Headless-UI](https://github.com/CaptainCodeman/svelte-headlessui)
+- [Svelte Simple Data tables](https://github.com/vincjo/svelte-simple-datatables) - Datatable component for Svelte.

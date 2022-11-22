@@ -291,3 +291,4 @@
 - [Paxos, Raft, EPaxos: How Has Distributed Consensus Technology Evolved? (2021)](https://www.alibabacloud.com/blog/paxos-raft-epaxos-how-has-distributed-consensus-technology-evolved_597127)
 - [The Distributed Computing Manifesto (2022)](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
 - [Planet-Scale Leaderless Consensus (2022)](https://vitorenes.org/publication/phd-thesis/)
+- [Moving Away from UUIDs (2018)](https://neilmadden.blog/2018/08/30/moving-away-from-uuids/) ([HN](https://news.ycombinator.com/item?id=33699298))

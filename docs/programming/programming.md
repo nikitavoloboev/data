@@ -618,3 +618,5 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [16x Engineer](https://16x.engineer/) - Career progression and personal growth for software engineers.
 - [Tips for large-scale codemods (2022)](https://blog.jez.io/codemods-tips/)
 - [QuickRef](https://quickref.me/) - Share quick reference cheat sheet for developers. ([Code](https://github.com/Fechin/reference))
+- [The Principal Engineer's Handbook (2022)](https://ilya.grigorik.com/the-principal-engineers-handbook/)
+- [KAIST CS220: Programming Principles in Rust](https://github.com/kaist-cp/cs220)

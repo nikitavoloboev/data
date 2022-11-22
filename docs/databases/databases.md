@@ -14,6 +14,8 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 
 [trustfall](https://github.com/obi1kenobi/trustfall) is a great query engine for all kinds of data sources. [Atlas](https://github.com/ariga/atlas) is nice DB tool.
 
+[toyDB](https://github.com/erikgrinaker/toydb) has nice code to study.
+
 ## Interesting
 
 - [PlanetScale](planetscale.md) - Database for Developers. ([HN](https://news.ycombinator.com/item?id=27197873)) ([Release Article](https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers))

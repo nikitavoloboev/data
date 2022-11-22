@@ -104,3 +104,5 @@ title: Synthesizers
 - [MiniFreak](https://www.arturia.com/products/hardware-synths/minifreak/details) - Spontaneous algorithmic synthesizer.
 - [Polykit X1 Semi Modular Synthesizer](https://github.com/polykit/polykit-x-monosynth)
 - [A Language for Making Languages for Making Synthesizers - Stevie Hryciw (2022)](https://www.youtube.com/watch?v=haEyHWokMuQ)
+- [Live Coding Video Synth](https://hydra.ojack.xyz/) ([HN](https://news.ycombinator.com/item?id=33668198))
+- [Video Synthesis - MOD WIGGLER](https://modwiggler.com/forum/viewforum.php?f=48)

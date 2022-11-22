@@ -136,3 +136,4 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - [10 Foods Filled With Probiotics](https://www.youtube.com/watch?v=Z-DfrsyAMTw)
 - [Nutrition Library - YouTube](https://www.youtube.com/c/NutritionLibrary/videos)
 - [Almost Everyone Is Dehydrated | How To Stay Properly Hydrated (2022)](https://www.youtube.com/watch?v=_RRqmF0kRYQ)
+- [Dr. Chris Palmer: Diet & Nutrition for Mental Health (2022)](https://hubermanlab.com/dr-chris-palmer-diet-nutrition-for-mental-health/)

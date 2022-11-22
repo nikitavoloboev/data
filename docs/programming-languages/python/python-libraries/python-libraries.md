@@ -145,6 +145,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 
 ## CLI
 
+- [Cleo](https://github.com/python-poetry/cleo) - Create beautiful and testable command-line interfaces.
 - [tyro](https://github.com/brentyi/tyro) - Strongly typed, zero-effort CLI interfaces & config objects.
 - [Tap](https://github.com/swansonk14/typed-argument-parser) - Typed modernization of Python's argparse library.
 - [Appeal](https://github.com/larryhastings/appeal) - Command-line parsing library for Python 3.

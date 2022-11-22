@@ -216,3 +216,4 @@ title: Vue.js
 - [v-satori](https://github.com/wobsoriano/v-satori) - Generate a satori-friendly VDOM from a Vue component.
 - [Vue Auth UI](https://github.com/ndrbrt/vue-auth-ui) - Pre-built Vue component for authenticating users.
 - [Nuxt Lazy Hydrate](https://github.com/Baroshem/nuxt-lazy-hydrate)
+- [Nuxt Typography](https://github.com/nuxt-themes/typography) - Nuxt theme to get a beautiful and customisable typography with Nuxt Content.

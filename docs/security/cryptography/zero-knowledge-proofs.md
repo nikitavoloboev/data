@@ -131,3 +131,4 @@ title: Zero knowledge proofs
 - [Noname](https://github.com/mimoo/noname) - Programming language to write zkapps.
 - [Intro to Zero-knowledge & Building zkApps w/Mina Protocol (2022)](https://eda.hashnode.dev/zero-knowledge-building-zkapps-mina-protocol)
 - [miniSTARK](https://github.com/andrewmilson/ministark) - GPU accelerated STARK prover and verifier.
+- [RISC Zero](https://www.risczero.com/) - General-Purpose Verifiable Computing.

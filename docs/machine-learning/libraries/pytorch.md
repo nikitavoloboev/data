@@ -477,3 +477,4 @@ title: PyTorch
 - [Torchview](https://github.com/mert-kurttutan/torchview) - Visualize PyTorch models.
 - [LAMPE](https://github.com/francois-rozet/lampe) - Likelihood-free AMortized Posterior Estimation with PyTorch.
 - [Plan2Vec: Unsupervised Representation Learning by Latent Plans in PyTorch](https://github.com/geyang/plan2vec)
+- [BackPACK](https://github.com/f-dangel/backpack) - Backpropagation package built on top of PyTorch which efficiently computes quantities other than the gradient.

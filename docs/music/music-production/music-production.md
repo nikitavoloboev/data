@@ -472,3 +472,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [Haxophone](https://github.com/jcard0na/haxo-hw) - Electronic musical instrument that resembles a saxophone. ([HN](https://news.ycombinator.com/item?id=33682813))
 - [Dittytoy](https://dittytoy.net/) - Create your generative music online using a simple JavaScript API.
 - [PulseQueue](https://valent-in.github.io/pulseq/) - Minimalistic web-app for creating electronic music. ([Code](https://github.com/Valent-in/pulseq))
+- [Magenta Note-SEQ](https://github.com/magenta/note-seq) - Serializable note sequence representation and utilities.

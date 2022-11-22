@@ -397,6 +397,7 @@
 - [Being on a board as an employee (2022)](https://paulosman.me/2022/10/17/being-on-a-board/) ([HN](https://news.ycombinator.com/item?id=33234884))
 - [Product Market Fit](https://www.kevinslin.com/notes/htchyy536bb169mzu47ksb6/) ([HN](https://news.ycombinator.com/item?id=33308135))
 - [The Cadence: How to Operate a SaaS Startup (2020)](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
+- [Ask HN: How do you start a startup in your 30s when you have wife/kids/mortgage? (2022)](https://news.ycombinator.com/item?id=33707889)
 
 ## Images
 

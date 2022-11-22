@@ -136,3 +136,4 @@ title: Raspberry Pi
 - [I finally found a use case for my Raspberry Pi Model B+ (2022)](https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/) ([HN](https://news.ycombinator.com/item?id=33416894))
 - [Creating a pick and place control board with the RP2040 (2022)](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040/) ([HN](https://news.ycombinator.com/item?id=33483141))
 - [Continuity](https://github.com/Continuity-KVM/continuity) - Experimental hybrid (software & hardware) KVM, written in Rust.
+- [picolua](https://github.com/kevinboone/luapico) - Programming environment for Lua for the Raspberry Pi Pico microcontroller.

@@ -226,3 +226,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [Understanding the UBI File System in Embedded Devices (2022)](https://serhack.me/articles/understanding-ubi-file-system-embedded-devices-reolink/)
 - [swSIM](https://github.com/tomasz-lisowski/swsim) - SIM card simulator which does not rely on any SIM hardware to work.
 - [USB Cable Tester](https://github.com/alvarop/usb_c_cable_tester) - Simple board to test various USB cables.
+- [TinyLLama](https://github.com/eivindbohler/tinyllama) - Tiny x86 Retrocomputer. ([HN](https://news.ycombinator.com/item?id=33703096))

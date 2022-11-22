@@ -981,3 +981,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Estimating High Order Gradients of the Data Distribution by Denoising (2021)](https://arxiv.org/abs/2111.04726) ([Code](https://github.com/chenlin9/high_order_dsm))
 - [Sharpness-Aware Minimization for Efficiently Improving Generalization (2020)](https://arxiv.org/abs/2010.01412) ([Code](https://github.com/google-research/sam))
 - [Closed-form Continuous-time Neural Models (2021)](https://arxiv.org/abs/2106.13898) ([Code](https://github.com/raminmh/CfC))
+- [Creative AI](https://github.com/sony/creativeai)

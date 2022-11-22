@@ -89,3 +89,4 @@ I practice self reflection (via [journaling](../life/journaling.md)) & [meditati
 - [What is it like to have a brain? Ways of looking at consciousness (2022)](https://lareviewofbooks.org/article/what-is-it-like-to-have-a-brain-on-patrick-houses-nineteen-ways-of-looking-at-consciousness/) ([HN](https://news.ycombinator.com/item?id=33169040))
 - [The "Hard Problem" of Consciousness with David Chalmers](https://www.youtube.com/watch?v=xy2vzhwdkpM)
 - [Some people who appear to be in a coma may be conscious](https://www.scientificamerican.com/article/some-people-who-appear-to-be-in-a-coma-may-actually-be-conscious/) ([HN](https://news.ycombinator.com/item?id=33299419))
+- [Roger Penrose: "Consciousness must be beyond computable physics." (2022)](https://www.youtube.com/watch?v=TfouEFuB-co)

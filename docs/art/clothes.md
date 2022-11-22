@@ -4,7 +4,7 @@ Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/
 
 In general, I love [Christian Sieber](https://www.instagram.com/christiansieber/)'s style, although maybe a bit more casual than that. [Alex Rivière](https://www.instagram.com/ariviere/)'s style is great too so as her [clothing line's IG photos](https://www.instagram.com/alexrivierestudio/).
 
-Still exploring different kinds of clothing styles. But for now, I can say [SAXX underwear](https://www.saxxunderwear.com/) is great.
+Still exploring different kinds of clothing styles. But for now, I can say [Björn Borg](https://www.bjornborg.com/en/) has great underwear.
 
 ## Interesting
 
@@ -87,3 +87,5 @@ Still exploring different kinds of clothing styles. But for now, I can say [SAXX
 - [Hoss Intropia](https://hossintropia.com/)
 - [Diemme Footwear](https://diemme.com/)
 - [BN3TH](https://www.bn3th.com/) - Mens Performance Underwear with Pouch.
+- [My Favorite Men's Underwear](https://www.youtube.com/watch?v=PRj3dSyIgxg)
+- [Björn Borg](https://www.bjornborg.com/en/) - Underwear and training clothes.

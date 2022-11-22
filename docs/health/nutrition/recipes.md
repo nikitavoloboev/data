@@ -134,3 +134,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [My Go-To High Protein Meals for Winter Bulking](https://www.youtube.com/watch?v=9S1p0BWXEJI)
 - [My Simple Go-To High Protein Meals (for building muscle)](https://www.youtube.com/watch?v=jvvAP7UVxIs)
 - [4 Simple High Protein Breakfast Ideas for building muscle](https://www.youtube.com/watch?v=ZcYM6Dfh4oY)
+- [Analyzing All Recipes (2022)](https://wcedmisten.fyi/post/analyzing-all-recipes/)

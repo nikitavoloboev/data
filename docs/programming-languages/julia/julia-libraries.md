@@ -772,6 +772,7 @@
 - [PProf.jl](https://github.com/JuliaPerf/PProf.jl) - Export Julia profiles to the pprof format.
 - [FourierFlows.jl](https://github.com/FourierFlows/FourierFlows.jl) - Tools for building fast, hackable, pseudospectral partial differential equation solvers on periodic domains.
 - [Preferences](https://github.com/JuliaPackaging/Preferences.jl) - Convenient, integrated way for packages to store configuration switches to persistent TOML files.
+- [StructHelpers](https://github.com/jw3126/StructHelpers.jl) - Automate common struct definition boilerplate.
 
 ## Links
 

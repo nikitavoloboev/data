@@ -140,6 +140,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Plus Jakarta Sans](https://github.com/tokotype/PlusJakartaSans) - Font family that takes geometric sans serif styles, designed by Gumpita Rahayu from Tokotype.
 - [Hubot Sans](https://github.com/github/hubot-sans) - Variable font from GitHub.
 - [Mona Sans](https://github.com/github/mona-sans) - Variable font from GitHub.
+- [Sofia Sans](https://github.com/lettersoup/Sofia-Sans)
 
 ## Notes
 
@@ -438,3 +439,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [My fav typefaces for UI design](https://twitter.com/jordanphughes/status/1593107714364018688)
 - [UTIF.js](https://github.com/photopea/UTIF.js) - Fast and advanced TIFF decoder.
 - [Glyphance](https://github.com/cupcakearmy/glyphance) - CLI tool for generating font subsets based on unicode ranges.
+- [Lettersoup](https://www.lettersoup.de/) - Retail Fonts.
