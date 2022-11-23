@@ -268,3 +268,4 @@ I also find it [frustrating that Twitter iOS client doesn't have the ability to 
 - [Save Your Threads](https://github.com/harvard-lil/archive.social) - High-fidelity capture of Twitter threads as sealed PDFs.
 - [Improving Twitter Search ideas](https://twitter.com/realGeorgeHotz/status/1594790788168294404)
 - [Tool to backup your twitter likes](https://yodapunk.gumroad.com/l/twitter-backup) ([Tweet](https://twitter.com/YodaPunk/status/1595418496762105856))
+- [dewey](https://getdewey.co/) - Organize & Share Twitter Bookmarks.

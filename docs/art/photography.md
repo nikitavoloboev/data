@@ -258,3 +258,4 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [Just Mott's favorite photography gear](https://www.justinmott.com/my-photography-gear)
 - [Tips on How to Pose Men](https://www.youtube.com/watch?v=g7fIhkFY_jo)
 - [Is Leica Worth The $$$$ (2021)](https://www.youtube.com/watch?v=rkPmLlow3O4)
+- [Digital Leica users! What’s everyone’s ‘go-to’ for settings? (2022)](https://www.reddit.com/r/Leica/comments/z2fvpp/digital_leica_users_whats_everyones_goto_for/)

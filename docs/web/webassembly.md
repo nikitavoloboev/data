@@ -395,3 +395,4 @@ title: WebAssembly
 - [Web Assembly (on the server) (2022)](https://www.slideshare.net/mreferre/web-assembly-on-the-server)
 - [Introducing SpiderLightning - A Cloud System Interface with WebAssembly (2022)](https://deislabs.io/posts/introducing-spiderlightning-and-slight/)
 - [Aeon](https://github.com/thomscoder/aeon) - Extremely tiny WebAssembly runtime for demonstration and educational purposes.
+- [History of WebAssembly (2022)](https://evacchi.github.io/wasm/compilers/history/2022/11/23/a-history-of-webassembly.html)

@@ -2,6 +2,8 @@
 
 [SICP](http://sarabander.github.io/sicp/html/index.xhtml) and [Practical Common Lisp](http://www.gigamonkeys.com/book/) are great books. [Intuition for Lisp Syntax](https://stopa.io/post/265) is a nice read too.
 
+[bass](https://bass-lang.org/) is interesting.
+
 ## Notes
 
 - [What did Alan Kay mean by, "Lisp is the greatest single programming language ever designed"?](https://www.quora.com/What-did-Alan-Kay-mean-by-Lisp-is-the-greatest-single-programming-language-ever-designed/answer/Alan-Kay-11)

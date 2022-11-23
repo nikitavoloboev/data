@@ -480,3 +480,4 @@ title: Haskell
 - [Haskell Notebooks with HLS and VS Code](https://github.com/tittoassini/notebook)
 - [FizzBuzz in Haskell (2014)](https://themonadreader.files.wordpress.com/2014/04/fizzbuzz.pdf) ([HN](https://news.ycombinator.com/item?id=33697905))
 - [WebAssembly backend merged into GHC (2022)](https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/)
+- [Blog: Haskell in Production](https://serokell.io/blog/haskell-in-production)

@@ -167,3 +167,4 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [Magic3D: High-Resolution Text-to-3D Content Creation (2022)](https://deepimagination.cc/Magic3D/) ([HN](https://news.ycombinator.com/item?id=33689096))
 - [Stable Diffusion with Nix](https://github.com/collinarnett/stable-diffusion-nix) - Quickly get up and running using Stable Diffusion with Nix flakes.
 - [Minimal text diffusion](https://github.com/madaan/minimal-text-diffusion) - Minimal implementation of diffusion models for text generation.
+- [VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models (2022)](https://ajayj.com/vectorfusion)
