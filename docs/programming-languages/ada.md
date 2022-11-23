@@ -4,6 +4,8 @@ title: Ada
 
 # [Ada](https://www.adacore.com/about-ada)
 
+[This intro](https://learn.adacore.com/courses/intro-to-embedded-sys-prog/index.html) is great.
+
 ## Links
 
 - [Awesome Ada](https://github.com/ohenley/awesome-ada)
@@ -40,3 +42,4 @@ title: Ada
 - [Writing Ada Bindings for C Libraries (2012)](https://flyx.org/ada-bindings/)
 - [What's New in Ada 2022](https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html) ([HN](https://news.ycombinator.com/item?id=31804843))
 - [Adding Ada to Rust (2022)](https://blog.adacore.com/adding-ada-to-rust)
+- [Introduction to Embedded Systems Programming (Ada)](https://learn.adacore.com/courses/intro-to-embedded-sys-prog/index.html) ([HN](https://news.ycombinator.com/item?id=33691635))

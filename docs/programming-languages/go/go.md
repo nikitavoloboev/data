@@ -906,4 +906,4 @@ if *boolArgPtr != false {
 - [Most modern Go books (2022)](https://www.reddit.com/r/golang/comments/z03gvg/most_modern_go_book/)
 - [Why is Go's Garbage Collection so criticized? (2022)](https://www.reddit.com/r/golang/comments/z1o2oe/why_is_gos_garbage_collection_so_criticized/)
 - [From Service to Platform: A Ranking System in Go (2022)](https://www.reddit.com/r/RedditEng/comments/z137m3/from_service_to_platform_a_ranking_system_in_go/)
-- [The carcinization of Go programs (2022)](https://xeiaso.net/blog/carcinization-golang) ([Lobsters](https://lobste.rs/s/oeinpb/carcinization_go_programs))
+- [The Carcinization of Go Programs (2022)](https://xeiaso.net/blog/carcinization-golang) ([Lobsters](https://lobste.rs/s/oeinpb/carcinization_go_programs)) ([HN](https://news.ycombinator.com/item?id=33713717))

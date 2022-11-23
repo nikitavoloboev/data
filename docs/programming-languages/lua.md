@@ -146,4 +146,4 @@ title: Lua
 - [Lua Scripts for Roblox](https://github.com/Kampfkarren/Roblox)
 - [Racket-Lua](https://github.com/Bogdanp/racket-lua) - Implementation of Lua 5.4 for Racket. ([Article](https://defn.io/2022/11/12/ann-racket-lua/)) ([HN](https://news.ycombinator.com/item?id=33577089))
 - [Lua Standard Library](https://github.com/shawnjb/lua-standard-library) - Implement popular data structures & algorithms into your Lua applications.
-- [Building the fastest Lua interpreter.. automatically (2022)](https://sillycross.github.io/2022/11/22/2022-11-22/index.html)
+- [Building the fastest Lua interpreter automatically (2022)](https://sillycross.github.io/2022/11/22/2022-11-22/index.html) ([HN](https://news.ycombinator.com/item?id=33711583))

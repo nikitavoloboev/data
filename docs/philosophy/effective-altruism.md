@@ -35,3 +35,4 @@ Effective altruism to me essentially means thinking about how I can maximize the
 - [Do things with direct impact. There are many opportunities!](https://twitter.com/ben_j_todd/status/1491038776159657986)
 - [Notes on Effective Altruism (2022)](https://michaelnotebook.com/eanotes/) ([Tweet](https://twitter.com/michael_nielsen/status/1532537180525973505)) ([HN](https://news.ycombinator.com/item?id=31609325))
 - [Effective Altruism and Its Future (2022)](https://eigenrobot.substack.com/p/effective-altruism-and-its-future) ([HN](https://news.ycombinator.com/item?id=33633818))
+- [Effective Altruism Is about Getting Rich with a Clean Conscience (2022)](https://www.nileshonly.com/effective-altruism-is-about-getting-rich-with-a-clean-conscience) ([HN](https://news.ycombinator.com/item?id=33708575))

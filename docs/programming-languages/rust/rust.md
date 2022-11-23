@@ -967,3 +967,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Slice patterns in Rust (2022)](https://vm.codes/blog/slice-patterns-in-rust)
 - [Using Rust at a startup: A cautionary tale (2022)](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454) ([HN](https://news.ycombinator.com/item?id=33714007)) ([Reddit](https://www.reddit.com/r/rust/comments/z2c7pq/using_rust_at_a_startup_a_cautionary_tale/)) ([Reddit](https://www.reddit.com/r/programming/comments/z2i2wn/using_rust_at_a_startup_a_cautionary_tale/))
 - [A Better Way to Borrow in Rust: Stack Tokens (2022)](https://lucumr.pocoo.org/2022/11/23/stack-tokens/) ([Reddit](https://www.reddit.com/r/rust/comments/z2jk23/a_better_way_to_borrow_in_rust_stack_tokens/))
+- [Safely writing code that isn't thread-safe (2022)](http://cliffle.com/blog/not-thread-safe/) ([HN](https://news.ycombinator.com/item?id=33713612))
