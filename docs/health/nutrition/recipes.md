@@ -1,12 +1,6 @@
 # Recipes
 
-Use [Mela](https://mela.recipes/) to store my recipes.
-
-## Regular Breakfast smoothie
-
-Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/1sgtbqVnotvY1Ir2S60J9m62yGPVkm2nRmbwrfZAoc6Y/htmlview) ([Video](https://www.youtube.com/watch?v=fyyKrMeNPBM)).
-
-[Crouton](https://crouton.app/) is nice for organizing recipes.
+Use [Mela](https://mela.recipes/) to store my recipes. [Crouton](https://crouton.app/) is nice too.
 
 ## Favorite
 
@@ -15,6 +9,10 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Garlic soup](https://themodernproper.com/garlic-soup)
 - [Fish cakes](https://www.bbcgoodfood.com/recipes/ultimate-fish-cakes)
 - [Carrot Cutlets](https://www.bawarchi.com/recipe/carrot-cutlet-oetuBkeechece.html)
+
+## Smoothies
+
+- [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/1sgtbqVnotvY1Ir2S60J9m62yGPVkm2nRmbwrfZAoc6Y/htmlview) ([Video](https://www.youtube.com/watch?v=fyyKrMeNPBM))
 
 ## Interesting
 

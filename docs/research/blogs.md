@@ -23,7 +23,8 @@ My personal site is currently written with [Solid](../programming-languages/java
 ## Favorite blogs
 
 - [Brandur](https://brandur.org/articles) ([Code](https://github.com/brandur/sorg))
-- [Overreacted by Dan Abramov](https://overreacted.io) ([Code](https://github.com/gaearon/overreacted.io))
+- [Armin Ronacher](https://lucumr.pocoo.org/)
+- [Dan Abramov](https://overreacted.io) ([Code](https://github.com/gaearon/overreacted.io))
 - [Nicolas Moutschen](https://n14n.dev/)
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html)
 - [Anthony Fu](https://antfu.me/posts)
@@ -357,3 +358,4 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Get Blogging!](https://getblogging.org/) - Your easy guide to starting a new blog.
 - [What to blog about (2022)](https://simonwillison.net/2022/Nov/6/what-to-blog-about/) ([HN](https://news.ycombinator.com/item?id=33495295))
 - [Sonic](https://github.com/go-sonic/sonic) - Go Blogging Platform. Simple and Powerful.
+- [ooh.directory](https://ooh.directory/) - Collection of 852 blogs about every topic. ([HN](https://news.ycombinator.com/item?id=33719983))

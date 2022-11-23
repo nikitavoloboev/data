@@ -30,3 +30,8 @@ I mention exercises I do [here](fitness.md).
 - [Why I Stopped Squatting and Deadlifting](https://www.youtube.com/watch?v=gso8KF6DiJM)
 - [How far can you go with only isometrics?](https://www.reddit.com/r/bodyweightfitness/comments/yyf4n9/how_far_can_you_go_with_only_isometrics/)
 - [How Many Sets Should You Do for Each Muscle? Beginner vs Advanced](https://www.youtube.com/watch?v=zcyv9-ifjWo)
+- [20 min intense ab workout](https://www.youtube.com/watch?v=S1_C11ovtZc)
+- [Joe Delaney's daily routine (2022)](https://www.youtube.com/watch?v=eTKH5LspM3o)
+- [Bodyweight exercises for back](https://www.reddit.com/r/bodyweightfitness/comments/z237y5/question_about_working_back_with_just_bodyweight/)
+- [14 Calisthenics Exercises on Gymnastics Rings - for every Level](https://www.gornation.com/blogs/news/exercises-gymnastics-rings)
+- [GORNATION](https://www.gornation.com/) - Equipment & Clothing for Calisthenics & Street Workout.

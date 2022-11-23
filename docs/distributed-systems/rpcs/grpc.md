@@ -137,3 +137,5 @@ title: gRPC
 - [ProtoClient](https://github.com/codenothing/proto-client) - Typed gRPC Client with static code generation.
 - [gRPC & protocol buffers with Askhay Shah (2022)](https://changelog.com/gotime/256)
 - [gRPC Demystified](https://github.com/akshayjshah/grpc-demystified) - Build a gRPC server in 7 minutes - using just the Go standard library.
+- [Learn to Build Production-Grade Microservices with gRPC and Go (2022)](https://medium.com/codex/learn-to-build-production-grade-microservices-with-grpc-and-go-b665243a59a8)
+- [gRPC Microservices in Go (2022)](https://www.manning.com/books/grpc-microservices-in-go)

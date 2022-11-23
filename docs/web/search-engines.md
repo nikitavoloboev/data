@@ -288,3 +288,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [ImgOps](https://github.com/dogancelik/imgops) - CLI tool for reverse searching images through ImgOps website. It supports files and URLs.
 - [Semantic Code Search](https://github.com/sturdy-dev/semantic-code-search) - Search your codebase with natural language • CLI • No data leaves your computer.
 - [txtai](https://github.com/neuml/txtai) - Build AI-powered semantic search applications. ([Docs](https://neuml.github.io/txtai/)) ([HN](https://news.ycombinator.com/item?id=33692546))
+- [Building a custom code search index in Go for searchcode.com (2022)](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/)

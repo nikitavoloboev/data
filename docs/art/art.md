@@ -123,6 +123,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [lauren myers](https://www.instagram.com/laurenjmyers/)
 - [Miguel Membreno](https://www.artstation.com/miguelmembre)
 - [Sylvain Sarrailh](https://www.artstation.com/tohad)
+- [Syd Mead](https://sydmead.com/)
 - [Simen Johan](https://www.artsy.net/artist/simen-johan)
 - [Elvin Aliyev](https://www.behance.net/surferdude)
 - [Ben Nicholas](https://www.artstation.com/belgianboolean)

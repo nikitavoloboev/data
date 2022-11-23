@@ -2,7 +2,7 @@
 
 [axum](https://github.com/tokio-rs/axum) seems nice as a web framework ([neat template](https://github.com/joelparkerhenderson/demo-rust-axum)). [Idiomatic Rust](https://github.com/mre/idiomatic-rust) is a nice collection. Looking to try [Crane](https://ipetkov.dev/blog/introducing-crane/) for building/caching rust compiles.
 
-[shuttle](https://github.com/awslabs/shuttle) is nice for testing concurrent code. [Burn](https://github.com/burn-rs/burn) looks nice as ML library.
+[shuttle](https://github.com/awslabs/shuttle) is nice for testing concurrent code. [Burn](https://github.com/burn-rs/burn) looks nice as ML library. [Typeshare](https://github.com/1Password/typeshare) is nice for type sharing between languages.
 
 ## CLI
 
@@ -2454,7 +2454,7 @@
 - [CycloneDX Rust (Cargo) Plugin](https://github.com/CycloneDX/cyclonedx-rust-cargo) - Creates CycloneDX Software Bill of Materials (SBOM) from Rust (Cargo) projects.
 - [cargo-guppy](https://github.com/guppy-rs/guppy) - Track and query Cargo dependency graphs.
 - [allocative](https://github.com/facebookexperimental/allocative) - Library and proc macro to analyze memory usage of data structures in rust.
-- [Typeshare](https://github.com/1Password/typeshare) - Ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI. ([Reddit](https://www.reddit.com/r/rust/comments/z1qc6n/1password_releases_typeshare_the_ultimate_tool/))
+- [Typeshare](https://github.com/1Password/typeshare) - Ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI. ([Reddit](https://www.reddit.com/r/rust/comments/z1qc6n/1password_releases_typeshare_the_ultimate_tool/)) ([Article](https://blog.1password.com/typeshare-for-rust/))
 
 ## Notes
 
@@ -2637,3 +2637,4 @@
 - [Rust MySQL microservice](https://github.com/second-state/microservice-rust-mysql) - Template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.
 - [Flux: Refinement Types for Rust (2022)](https://liquid-rust.github.io/2022/11/14/introducing-flux/)
 - [Rust enum-match code generation (2022)](https://www.eventhelix.com/rust/rust-to-assembly-enum-match/)
+- [Migrating from warp to axum (2022)](https://fasterthanli.me/series/updating-fasterthanli-me-for-2022/part-2) ([HN](https://news.ycombinator.com/item?id=33718765))

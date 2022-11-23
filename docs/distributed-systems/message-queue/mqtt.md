@@ -6,7 +6,7 @@ title: MQTT
 
 > Transport layer protocol between embedded devices and services.
 
-[MQTT X](https://github.com/emqx/MQTTX) is great.
+[MQTT X](https://github.com/emqx/MQTTX) & [rumqtt](https://github.com/bytebeamio/rumqtt) are great.
 
 ## Links
 

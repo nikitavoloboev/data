@@ -30,6 +30,8 @@ The biggest thing to keep in mind when doing workouts is to train until muscle f
 
 Most importantly I try to keep my [back muscles](https://www.youtube.com/watch?v=XxSgdX7lX6E) in shape as due to nature of my work, I do sit for prolonged times even when I try to minimize it. Better back muscles means less slouching. [Yoga](yoga.md) is great for making back muscles stronger too.
 
+When I get a chance, I will setup [gymnastics rings](https://www.gornation.com/blogs/news/exercises-gymnastics-rings) in my home gym. Don't yet own a place for this.
+
 ## Notes
 
 - Exercise helps make better use of the foods you are eating and produces the hormones you need to think clearly.

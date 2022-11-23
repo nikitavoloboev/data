@@ -82,6 +82,7 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [Clean your eyes. The skin is delicate but that doesn’t mean you should avoid the area. When you’re cleaning just don’t do it aggressively or tug at the skin. Also, put enough cleanser where your fingers can glide over the area easily.](https://www.reddit.com/r/SkincareAddiction/comments/lltp2v/skin_concerns_are_you_supposed_to/)
 - The skin in your eye area is still skin so you can cleanse and moisturize the area. Just do it gently
 - [The skin is thinner around your eyes so the main discouragement for using retinol around the eyes is skin sensitivity/sensitizing. Until your skin is accustomed to retinol, you should put a layer of moisturizer or eye cream as a buffer around your eyes, and let it settle before applying retinol there. It can be drying and your eye area is pretty delicate. And as long as you’re using retinol around your eyes, your eye skin will be more sensitized and susceptible to sun damage which could negatively impact what you’re trying to address. A good eye cream/moisturizer and diligent spf use to protect it should be enough, but it is a thing to be mindful of. When I use retinol around my eyes - I don’t do it every time I use it on my face - I’ll put SPF on in two stages the morning after. First stage is just the eyelid and undereye/concern areas, and then the second is everywhere else including my eyes again. A sunscreen that doesn’t sting is pretty important for this.](https://www.reddit.com/r/AusSkincare/comments/ur9tda/best_way_to_use_retinol_around_eyes/)
+- [Changing my outlook from “what skincare product looks cool and good for my skin” to “what specific issues are happening with my skin, which one do I want to fix first, and which ingredients are scientifically proven to treat it”. Halved the length of my skincare routine, saving time and money, and I’m targeting issues with laser focus rather than doing a bit of everything, meaning I have much better results.](https://www.reddit.com/r/SkincareAddiction/comments/z262yq/misc_what_small_thing_has_made_a_big_difference/)
 
 ## Links
 
@@ -165,3 +166,6 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [Acne Scar Treatments Guide](https://www.acne.org/acne-scar-treatment.html)
 - [Korean skincare & K-beauty](https://koreanskincare.nl/)
 - [Facial exercises](https://www.reddit.com/r/30PlusSkinCare/comments/z11ta1/facial_excercise/)
+- [What small thing has made a big difference for your skin? (2022)](https://www.reddit.com/r/SkincareAddiction/comments/z262yq/misc_what_small_thing_has_made_a_big_difference/)
+- [Your Skin Care if $$ was no object (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/z1whp2/if_was_no_object/)
+- [Lasers thread (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/z2m5hu/lasers_thread/)

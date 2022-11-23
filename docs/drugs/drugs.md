@@ -89,3 +89,4 @@ Always [know your substance, have good set (mindset) and setting (environment)](
 - [DiffSBDD: Structure-based Drug Design with Equivariant Diffusion Models](https://github.com/arneschneuing/DiffSBDD)
 - [Any good chem forums besides Bluelight or Erowid? (2022)](https://www.reddit.com/r/researchchemicals/comments/ytih0i/any_good_chem_forums_besides_bluelight_or_erowid/)
 - [Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design (2022)](https://arxiv.org/abs/2210.05274) ([Code](https://github.com/igashov/DiffLinker))
+- [r/Drugs Official Discord](https://discord.com/invite/rdrugs-official)

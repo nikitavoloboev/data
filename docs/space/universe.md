@@ -69,3 +69,4 @@
 - [Why Does The Universe Look Like This? (2022)](https://www.youtube.com/watch?v=iDqQ9qgTWmg)
 - [Map of the Universe](https://mapoftheuniverse.net/) ([HN](https://news.ycombinator.com/item?id=33655503))
 - [Why this universe? New calculation suggests our cosmos is typical (2022)](https://www.quantamagazine.org/why-this-universe-new-calculation-suggests-our-cosmos-is-typical-20221117/) ([HN](https://news.ycombinator.com/item?id=33653890))
+- [Roger Penrose - "Big Bang was not the beginning"](https://www.youtube.com/watch?v=HFbFat-UhaA)

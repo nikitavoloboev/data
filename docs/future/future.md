@@ -36,7 +36,7 @@ I try to get to this future as soon as possible by setting and completing my own
 - [The Web We Lost, and What Comes Next](https://github.com/pzwang/lostweb)
 - [Ask HN: What up and coming technology has you most excited? (2018)](https://news.ycombinator.com/item?id=16820795)
 - [Table of Disruptive Technologies](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/enterprise-office/public/Table-of-Disruptive-Technologies.pdf)
-- [The Humane Representation of Thought (2014)](https://vimeo.com/115154289)
+- [The Humane Representation of Thought - Bret Victor (2014)](https://www.youtube.com/watch?v=agOdP2Bmieg)
 - [Rutger Bregman - “Utopia for Realists” and Big Ideas for an Equitable Economy (2019)](https://www.youtube.com/watch?v=QbTWxFwuQtM)
 - [Mark Zuckerberg & Yuval Noah Harari in Conversation (2019)](https://www.youtube.com/watch?v=Boj9eD0Wug8)
 - [Bill Gates on Startups, Investing and Solving The World's Hardest Problems (2019)](https://www.youtube.com/watch?v=W5g4sPi1wd4) ([HN](https://news.ycombinator.com/item?id=20251642))

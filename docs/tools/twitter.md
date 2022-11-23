@@ -263,6 +263,8 @@ I also find it [frustrating that Twitter iOS client doesn't have the ability to 
 - [Twitter Architecture 2022 vs 2012](https://twitter.com/alexxubyte/status/1594008281340530688)
 - [Things Twitter should improve](https://twitter.com/growing_daniel/status/1594365574850654210)
 - [tweetback Twitter Archive](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data.
-- [Why Twitter Didn’t Go Down: From a Real Twitter SRE (2022)](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a) ([HN](https://news.ycombinator.com/item?id=33701371))
+- [Why Twitter Didn’t Go Down: From a Real Twitter SRE (2022)](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a) ([HN](https://news.ycombinator.com/item?id=33701371)) ([Lobsters](https://lobste.rs/s/4mupjz/why_twitter_didn_t_go_down_from_real)) ([Reddit](https://www.reddit.com/r/programming/comments/z24gya/why_twitter_didnt_go_down_from_a_real_twitter_sre/))
 - [Twitter Clone in Vue](https://github.com/madebyfabian/twitter-clone)
 - [Save Your Threads](https://github.com/harvard-lil/archive.social) - High-fidelity capture of Twitter threads as sealed PDFs.
+- [Improving Twitter Search ideas](https://twitter.com/realGeorgeHotz/status/1594790788168294404)
+- [Tool to backup your twitter likes](https://yodapunk.gumroad.com/l/twitter-backup) ([Tweet](https://twitter.com/YodaPunk/status/1595418496762105856))
