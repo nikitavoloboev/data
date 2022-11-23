@@ -22,7 +22,7 @@ title: WebAssembly
 - [WebAssembly Demystified](http://floooh.github.io/2017/06/09/webassembly-demystified.html)
 - [Life](https://github.com/perlin-network/life) - Secure WebAssembly VM catered for decentralized applications.
 - [Calls between JavaScript and WebAssembly are finally fast](https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/)
-- [Wasmer](https://github.com/WAFoundation/wasmer) - High-Performance WebAssembly JIT interpreter. ([Wasmer 1.0](https://medium.com/wasmer/wasmer-1-0-3f86ca18c043)) ([HN](https://news.ycombinator.com/item?id=25649476))
+- [Wasmer](https://github.com/WAFoundation/wasmer) - High-Performance WebAssembly JIT interpreter. ([Wasmer 1.0](https://medium.com/wasmer/wasmer-1-0-3f86ca18c043)) ([HN](https://news.ycombinator.com/item?id=25649476)) ([3.0](https://wasmer.io/posts/announcing-wasmer-3.0)) ([HN](https://news.ycombinator.com/item?id=33721685))
 - [wac](https://github.com/kanaka/wac) - WebAssembly in C.
 - [Wasmjit](https://github.com/rianhunter/wasmjit) - Kernel Mode WebAssembly Runtime for Linux.
 - [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) - TypeScript to WebAssembly compiler. ([Web](https://www.assemblyscript.org/))

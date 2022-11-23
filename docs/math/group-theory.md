@@ -24,3 +24,4 @@ title: Group theory
 - [Lecture notes on Introduction to Galois Theory by Ekaterina Amerik](https://github.com/ivanmurashko/courseragalois/blob/master/galois.pdf)
 - [Morse Theory for Complexes of Groups (2022)](https://arxiv.org/abs/2203.00539)
 - [Group Theory — Introduction to Higher Mathematics (2022)](https://www.youtube.com/watch?v=KufsL2VgELo)
+- [2D Rubik’s Cube solution visualization](https://twitter.com/jagarikin/status/1593771091738374144) ([HN](https://news.ycombinator.com/item?id=33716796))

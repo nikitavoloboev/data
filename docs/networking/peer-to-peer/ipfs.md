@@ -120,3 +120,4 @@ I especially like the distinction of distributing content over distributing link
 - [VerkleIPFS](https://github.com/Giulio2002/verkleipfs) - Verkle Tree stored on IPFS.
 - [IPFS-Utils](https://github.com/neume-network/ipfs-uri-utils) - Utilities for working with IPFS links.
 - [Design and Evaluation of IPFS: A Storage Layer for the Decentralized Web (2022)](https://www.micahlerner.com/2022/10/31/design-and-evaluation-of-ipfs-a-storage-layer-for-the-decentralized-web.html) ([HN](https://news.ycombinator.com/item?id=33419680))
+- [Help seed Z-Library on IPFS (2022)](http://annas-blog.org/help-seed-zlibrary-on-ipfs.html) ([HN](https://news.ycombinator.com/item?id=33716560))

@@ -40,4 +40,4 @@ title: D
 - [Your next C compiler is a D compiler (2022)](https://briancallahan.net/blog/20220704.html)
 - [Introduction to D language (2022)](https://www.youtube.com/watch?v=0JL9uT_XGZE) ([HN](https://news.ycombinator.com/item?id=33136914))
 - [Why is D's garbage collection slower than Go's?](https://forum.dlang.org/thread/nxddojjplojxdafrkkev@forum.dlang.org?page=5#post-tjib6h:242pp6:241:40digitalmars.com) ([HN](https://news.ycombinator.com/item?id=33381285))
-- [Porting 58000 lines of D and C++ to jai, Part 0: Why and How (2022)](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/)
+- [Porting 58000 lines of D and C++ to jai, Part 0: Why and How (2022)](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/) ([HN](https://news.ycombinator.com/item?id=33720330))

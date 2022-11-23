@@ -102,7 +102,7 @@
 - [actix-web-lab](https://github.com/robjtede/actix-web-lab) - Experimental extractors, middleware, and other extras for possible inclusion in Actix Web.
 - [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.
 - [Seed](https://github.com/seed-rs/seed) - Rust framework for creating web apps. ([HN](https://news.ycombinator.com/item?id=28567714)) ([Web](https://seed-rs.org/)) ([Awesome](https://github.com/seed-rs/awesome-seed-rs))
-- [Tide](https://github.com/rust-net-web/tide) - Modular web framework.
+- [Tide](https://github.com/rust-net-web/tide) - Modular web framework. ([Designing Tide - Yoshua Wuyts](https://www.youtube.com/watch?v=laJA4QCjmxk))
 - [Tide WebSockets](https://github.com/http-rs/tide-websockets) - Experimental websockets handler for tide based on async-tungstenite.
 - [websocket-lite](https://github.com/1tgr/rust-websocket-lite) - Fast, low-overhead WebSocket client.
 - [Gloo](https://github.com/rustwasm/gloo) - Toolkit for building fast, reliable Web applications and libraries with Rust and Wasm.

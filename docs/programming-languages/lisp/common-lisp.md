@@ -149,3 +149,4 @@
 - [Brief interview with Common Lisp co-creator Dr. Scott Fahlman (2022)](https://pldb.com/posts/scottFalhmanInterview.html) ([HN](https://news.ycombinator.com/item?id=33574311)) ([Reddit](https://www.reddit.com/r/lisp/comments/ystf9s/a_brief_interview_with_common_lisp_creator_dr/))
 - [easy-macros](https://github.com/tdrhq/easy-macros) - Library to define less error-prone macros, faster.
 - [Imago](https://github.com/tokenrove/imago) - Image manipulation library for Common Lisp.
+- [Common Lisp Object System (CLOS)](https://hescaide.me/clos/) ([HN](https://news.ycombinator.com/item?id=33718011))

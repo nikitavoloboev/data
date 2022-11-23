@@ -181,6 +181,7 @@ One of my favorite things in life is building little tools for solving even the 
 - [Kukkee](https://www.kukkee.com/) - Open source Doodle alternative. ([Code](https://github.com/Kukkee/Kukkee)
 - [FormSG](https://github.com/opengovsg/FormSG) - Form builder for the Singapore Government.
 - [SkyOffice](https://sky-office.co/) - Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus. ([Code](https://github.com/kevinshen56714/SkyOffice))
+- [Unclutter](https://unclutter.it/) - Reader Mode for Chrome & Firefox. ([HN](https://news.ycombinator.com/item?id=33718850))
 - [OpenReplay](https://openreplay.com/) - Open-Source Session Replay. ([Code](https://github.com/openreplay/openreplay))
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and intelligence, self-hosted and scalable. ([Web](https://about.sourcegraph.com/)) ([CLI](https://github.com/sourcegraph/src-cli)) ([Article](https://dev.to/sourcegraph/sourcegraph-code-search-the-developers-treasure-trove-3ach))
 - [ImageKit.io](https://imagekit.io/) - Image & Video CDN | Dynamic Optimizations, Transformations & DAM. ([Rust Client](https://github.com/EstebanBorai/imagekit))

@@ -186,3 +186,4 @@ title: Rails
 - [Crunchy Bridge's Ruby Back End: Sorbet, Tapioca, and Parlour (2022)](https://www.crunchydata.com/blog/crunchy-bridges-ruby-backend-sorbet-tapioca-and-parlour-generated-type-stubs) ([HN](https://news.ycombinator.com/item?id=33440005))
 - [Vanilla Rails is plenty (2022)](https://dev.37signals.com/vanilla-rails-is-plenty)
 - [How Effective are Classic Lookup Optimizations for Rails Apps? (2022)](https://stefan-marr.de/2022/11/how-effective-are-classic-lookup-optimizations-for-rails-apps/)
+- [Ruby concurrency is hard: how I became a Ruby on Rails contributor (2022)](https://mensfeld.pl/2022/11/ruby-concurrency-is-hard-how-i-became-a-ruby-on-rails-contributor/)

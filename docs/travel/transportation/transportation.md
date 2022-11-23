@@ -66,3 +66,4 @@ I wish there were more electric superchargers in EU. Tesla cars seem nice too. C
 - [Students break acceleration world record (2022)](https://www.uni-stuttgart.de/en/university/news/all/Students-break-acceleration-world-record/) ([HN](https://news.ycombinator.com/item?id=33181112))
 - [Porsche Taycan Production in Germany (2022)](https://www.youtube.com/watch?v=rR9It4tYcH8)
 - [Вастрик.Бус :: Год второй. Внешка и оффроуд (2022)](https://vas3k.ru/blog/bus_2022/)
+- [Map with all the electric vehicle chargers](https://map.electromaps.com/en/)

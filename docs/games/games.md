@@ -66,6 +66,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Kittens Game](https://kittensgame.com/web/) - Dark Souls of incremental gaming.
 - [Wikipedia Speedruns](https://wikispeedruns.com/) - Go from one wiki article to another as fast as possible.
 - [Elevator Saga](https://play.elevatorsaga.com/) - Elevator programming game. ([Lobsters](https://lobste.rs/s/w1dac5/elevator_saga_elevator_programming_game))
+- [Rotaboxes](https://rotaboxes.com/) - Daily image puzzle game. ([HN](https://news.ycombinator.com/item?id=33718124))
 
 ## Awesome OSS games
 
@@ -377,3 +378,4 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Rare](https://github.com/Dummerle/Rare) - GUI for legendary. An Epic Games Launcher open source alternative.
 - [Dark Souls 3 - Reverse Engineering](https://github.com/garyttierney/ds3-open-re)
 - [BOIII](https://github.com/momo5502/boiii) - Reverse engineering and analysis of Call of Duty: Black Ops III.
+- [Valve Introduces Proton Next (2022)](https://linuxgamingcentral.com/posts/valve-introduces-proton-next/) ([HN](https://news.ycombinator.com/item?id=33722282))

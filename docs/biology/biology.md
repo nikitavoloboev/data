@@ -138,3 +138,6 @@
 - [From Wound Healing to Regeneration](https://www.uni-heidelberg.de/en/newsroom/from-wound-healing-to-regeneration)
 - [Michael Levin: Biology, Life, Aliens, Evolution, Embryogenesis & Xenobots (2022)](https://www.youtube.com/watch?v=p3lsYlod5OU)
 - [iNaturalist](https://www.inaturalist.org/) - Community for Naturalists. ([Code](https://github.com/inaturalist/inaturalist))
+- [How Not To Think About Cells (2022)](https://www.subanima.org/veritasium/) ([HN](https://news.ycombinator.com/item?id=33719519))
+- [Why Biology BREAKS Physics (2022)](https://www.subanima.org/biology-breaks-physics/)
+- [How A Single Metaphor Transformed Biology (2022)](https://www.subanima.org/machine-metaphor/)

@@ -874,3 +874,4 @@ title: Kubernetes
 - [Deploying Nix-built containers to Kubernetes (2022)](https://determinate.systems/posts/nix-to-kubernetes)
 - [Kubernetes Cordon: How It Works and When to Use It (2022)](https://cast.ai/blog/kubernetes-cordon-how-it-works-and-when-to-use-it/) ([HN](https://news.ycombinator.com/item?id=33690916))
 - [Kubeshark](https://github.com/kubeshark/kubeshark) - API Traffic Viewer for Kubernetes. ([HN](https://news.ycombinator.com/item?id=33698314))
+- [Learn Kubernetes with Google](https://learnkubernetes.withgoogle.com/) ([HN](https://news.ycombinator.com/item?id=33718496))
