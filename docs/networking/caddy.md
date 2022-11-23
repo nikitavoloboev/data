@@ -73,3 +73,4 @@ title: Caddy
 - [Tailscale Caddy plugin](https://github.com/tailscale/caddy-tailscale)
 - [Caddy HTTP Rate Limit Module](https://github.com/mholt/caddy-ratelimit)
 - [Caddy Git](https://github.com/greenpau/caddy-git) - Git Plugin for Caddy v2.
+- [HTTPS Reverse Proxy: Caddy Outperforms Nginx 4x (2022)](https://manishrjain.com/reverse-proxy-caddy-nginx) ([HN](https://news.ycombinator.com/item?id=33725154))

@@ -200,3 +200,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [BOLT: Basis of Lightning Technology (Lightning Network Specifications)](https://github.com/lightning/bolts)
 - [Spiral](https://spiral.xyz/) - Making bitcoin more than an investment.
 - [Rust RPC client for Bitcoin Core JSON-RPC](https://github.com/rust-bitcoin/rust-bitcoincore-rpc)
+- [Alby](https://github.com/getAlby/lightning-browser-extension) - Bitcoin Lightning Browser extension that connects to different wallet interfaces and brings deep lightning integration to the web.

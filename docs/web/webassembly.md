@@ -396,3 +396,5 @@ title: WebAssembly
 - [Introducing SpiderLightning - A Cloud System Interface with WebAssembly (2022)](https://deislabs.io/posts/introducing-spiderlightning-and-slight/)
 - [Aeon](https://github.com/thomscoder/aeon) - Extremely tiny WebAssembly runtime for demonstration and educational purposes.
 - [History of WebAssembly (2022)](https://evacchi.github.io/wasm/compilers/history/2022/11/23/a-history-of-webassembly.html)
+- [Coredump Format for WebAssembly](https://github.com/xtuc/wasm-coredump-format)
+- [WasmEdge Hyper Demo](https://github.com/WasmEdge/wasmedge_hyper_demo)

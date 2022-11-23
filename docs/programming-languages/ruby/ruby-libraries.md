@@ -84,6 +84,7 @@
 - [dry-schema](https://github.com/dry-rb/dry-schema) - Coercion and validation for data structures.
 - [oj](https://github.com/ohler55/oj) - Fast JSON parser and Object marshaller as a Ruby gem.
 - [iCalendar](https://github.com/icalendar/icalendar) - Internet calendaring, Ruby style.
+- [Polars Ruby](https://github.com/ankane/polars-ruby) - Blazingly fast DataFrames for Ruby.
 
 ## Links
 

@@ -127,6 +127,7 @@
 - [MarkovKernels.jl](https://github.com/filtron/MarkovKernels.jl) - Marginal distributions and Markov kernels that play nice with each other for the purpose of Bayesian state estimation.
 - [ProbNumDiffEq.jl](https://github.com/nathanaelbosch/ProbNumDiffEq.jl) - Probabilistic Numerical Differential Equation solvers via Bayesian filtering and smoothing.
 - [Conductor.jl](https://github.com/wsphillips/Conductor.jl) - Platform for quickly and flexibly building high-performance, multi-scale neuronal network models in Julia.
+- [Fluxperimental.jl](https://github.com/FluxML/Fluxperimental.jl) - Experimental features for Flux.jl.
 
 ## Math
 

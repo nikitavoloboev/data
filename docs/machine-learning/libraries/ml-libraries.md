@@ -430,3 +430,4 @@ title: ML Libraries
 - [TPU Care](https://github.com/ClashLuke/tpucare) - Automatically take good care of your preemptible TPUs.
 - [Merlin Dataloader](https://github.com/NVIDIA-Merlin/dataloader) - Lets you rapidly load tabular data for training deep leaning models with TensorFlow, PyTorch or JAX.
 - [SISH](https://github.com/mahmoodlab/SISH) - Fast and scalable search of whole-slide images via self-supervised deep learning.
+- [TuneTA](https://github.com/jmrichardson/tuneta) - Intelligently optimizes technical indicators and optionally selects the least intercorrelated for use in machine learning models.

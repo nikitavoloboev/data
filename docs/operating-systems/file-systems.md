@@ -148,3 +148,4 @@
 - [scaffdog](https://github.com/scaffdog/scaffdog) - Markdown driven scaffolding tool.
 - [s3-sync](https://github.com/mflatt/s3-sync) - Sync a local filesystem with a S3 bucket.
 - [MemProcFS](https://github.com/ufrisk/MemProcFS) - Memory Process File System.
+- [ntfs Rust crate](https://github.com/ColinFinck/ntfs) - Low-level NTFS filesystem library implemented in Rust.

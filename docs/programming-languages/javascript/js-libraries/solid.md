@@ -153,3 +153,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Solid URQL](https://github.com/tqwewe/solid-urql)
 - [Finally, the start of something solid? (2022)](https://www.youtube.com/watch?v=DVWu2b7mvFg)
 - [Made in Solid](https://github.com/solidjs-community/made-in-solid) - What have people built with it?
+- [Solid Start Auth](https://github.com/schweden1997/solid-auth) - Extensible library to support different authentication methods.

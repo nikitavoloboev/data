@@ -241,3 +241,4 @@
 - [Development Containers](https://github.com/devcontainers/spec) - Use a container as a full-featured development environment.
 - [Score](https://github.com/score-spec/spec) - Open source, platform-agnostic, container-based workload specification.
 - [zot](https://github.com/project-zot/zot) - Production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification).
+- [Finch](https://github.com/runfinch/finch) - Open source client for container development.

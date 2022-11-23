@@ -69,6 +69,7 @@
 - [linya](https://github.com/fosskers/linya) - Simple concurrent progress bars.
 - [makeup](https://github.com/queer/makeup) - Stylish CLIs/TUIs for Rust.
 - [is-terminal](https://github.com/sunfishcode/is-terminal) - Test whether a given stream is a terminal.
+- [supports-color](https://github.com/zkat/supports-color) - Detects whether a terminal supports color, and gives details about that support.
 
 ## Web
 
@@ -657,6 +658,7 @@
 
 ## Linux
 
+- [Reverie](https://github.com/facebookexperimental/reverie) - Ergonomic and safe syscall interception framework for Linux.
 - [procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem.
 - [libkrun](https://github.com/containers/libkrun) - Dynamic library providing KVM-based process isolation capabilities.
 - [io-uring](https://github.com/tokio-rs/io-uring) - Linux IO Uring.
@@ -697,6 +699,7 @@
 - [Wayland rust](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
 - [Penrose](https://github.com/sminez/penrose) - Library for writing an X11 tiling window manager.
 - [syscalls](https://github.com/jasonwhite/syscalls) - Raw Linux system calls for Rust.
+- [ALSA-rs](https://github.com/diwic/alsa-rs) - Safe wrappers for ALSA, most common API for accessing audio devices on Linux.
 
 ## Embedded
 
@@ -2348,6 +2351,9 @@
 - [archive](https://github.com/patr0nus/rust-archive) - Safe bindings for libarchive with minimum overhead.
 - [JS Source Scopes](https://github.com/getsentry/js-source-scopes) - Extracting and processing scope information from JavaScript source files, and resolving that scope via SourceMaps.
 - [faer](https://github.com/sarah-ek/faer-rs) - Low level linear algebra routines in pure Rust. ([Reddit](https://www.reddit.com/r/rust/comments/z17l0g/introducing_faer_a_linear_algebra_library_in_rust/))
+- [Gifed](https://github.com/gennyble/gifed) - GIF encoding and decoding library.
+- [envsubst](https://github.com/lucab/envsubst-rs) - Simple Rust library for variables substitution.
+- [nom-supreme](https://github.com/Lucretiel/nom-supreme) - Collection of utilities for a superior nom experience.
 
 ## Cargo Plugins
 

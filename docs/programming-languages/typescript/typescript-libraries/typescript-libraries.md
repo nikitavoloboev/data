@@ -683,6 +683,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [msgpack-ts](https://github.com/samclaus/msgpack-ts) - Fastest TypeScript MessagePack implementation.
 - [IT FSM](https://github.com/pleshevskiy/it-fsm) - Simple full-featured finite state machine for your project.
 - [Magic bytes](https://github.com/LarsKoelpin/magic-bytes) - Library for detecting file types.
+- [Downpour](https://github.com/markmals/downpour-js) - Get TV & Movie info from downloaded file names.
+- [Mela Decoder](https://github.com/markmals/mela-decoder-js) - Parse recipe files exported from the iOS app Mela.
+- [Unplugin-AST](https://github.com/sxzz/unplugin-ast) - Manipulate the AST to transform your code.
 
 ## Links
 

@@ -4,7 +4,7 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 
 [cheat.sh](http://cheat.sh/) & [eg](https://github.com/srsudar/eg) are useful. [Command Line Interface Guidelines](https://clig.dev/) are great.
 
-[circumflex](https://github.com/bensadeh/circumflex) is a nicely made CLI written in [Go](../programming-languages/go/go.md) & [Bubble Tea](https://github.com/charmbracelet/bubbletea).
+[nap](https://github.com/maaslalani/nap) & [circumflex](https://github.com/bensadeh/circumflex) are nicely made CLIs written in [Go](../programming-languages/go/go.md) & [Bubble Tea](https://github.com/charmbracelet/bubbletea) (my preferred CLI stack).
 
 ## Favorite
 

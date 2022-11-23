@@ -6,6 +6,8 @@ title: Python
 
 [Memray](https://github.com/bloomberg/memray) is useful python memory profiler. [Minimum Viable Python](https://snarky.ca/mvpy-minimum-viable-python/) is a good overview.
 
+[Ruff](https://github.com/charliermarsh/ruff) is nice linter.
+
 ## Notes
 
 - [Global interpreter lock (or GIL) is a mutex that protects access to Python objects, preventing multiple threads from executing Python bytecodes at once.](https://wiki.python.org/moin/GlobalInterpreterLock)

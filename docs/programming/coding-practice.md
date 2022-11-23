@@ -129,3 +129,4 @@
 - [Leetcode Company-wise Problem Lists](https://github.com/hxu296/leetcode-company-wise-problems-2022) - Lists of company wise questions available on leetcode premium.
 - [Leetcode Anki card generator](https://github.com/prius/leetcode-anki)
 - [LeetCode The Hard Way](https://wingkwong.github.io/leetcode-the-hard-way/) ([Code](https://github.com/wingkwong/leetcode-the-hard-way))
+- [Coding interview blog archive (in Russian)](https://github.com/vitkarpov/coding-interviews-blog-archive/tree/main/posts)

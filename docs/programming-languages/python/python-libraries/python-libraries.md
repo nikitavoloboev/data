@@ -818,7 +818,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
 - [Pebble](https://github.com/noxdafox/pebble) - Provides a neat API to manage threads and processes within an application.
 - [unsync](https://github.com/alex-sherman/unsync) - Unsynchronize asyncio by using an ambient event loop, or executing in separate threads or processes.
-- [ctparse](https://github.com/comtravo/ctparse) - Parse natural language time expressions in python.
+- [quickadd](https://github.com/Acreom/quickadd) - Natural language date & time parser written in python.
 - [madbg](https://github.com/kmaork/madbg) - Fully-featured remote debugger for python.
 - [Class Resolver](https://github.com/cthoyt/class-resolver) - Lookup classes and instantiate them with style.
 - [Notifiers](https://github.com/liiight/notifiers) - Easy way to send notifications.
@@ -1070,6 +1070,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [FFX](https://github.com/natekupp/ffx) - Fast Function Extraction.
 - [StaticFrame](https://github.com/static-frame/static-frame) - Immutable and grow-only Pandas-like DataFrames with a more explicit and consistent interface.
 - [langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python.
+- [PyAV](https://github.com/PyAV-Org/PyAV) - Pythonic bindings for FFmpeg's libraries.
 
 ## Notes
 

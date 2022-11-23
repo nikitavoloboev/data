@@ -1,6 +1,6 @@
 # Parsing
 
-[Tree-sitter](https://tree-sitter.github.io/tree-sitter/) is neat. [participle](https://github.com/alecthomas/participle) is great go lib I use for parsing. [combine](https://github.com/Marwes/combine) is great too but for rust.
+[Tree-sitter](https://tree-sitter.github.io/tree-sitter/) is neat. [participle](https://github.com/alecthomas/participle) is great [Go](../programming-languages/go/go.md) lib I use for parsing. [nom](https://github.com/Geal/nom) & [combine](https://github.com/Marwes/combine) are great for parsing in [Rust](../programming-languages/rust/rust.md).
 
 [Intro to Parsing with Parsec in Haskell](https://github.com/JakeWheat/intro_to_parsing) is nice read.
 

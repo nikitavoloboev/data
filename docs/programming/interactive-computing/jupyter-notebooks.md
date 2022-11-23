@@ -232,3 +232,4 @@ title: Jupyter Notebooks
 - [Nebari](https://github.com/nebari-dev/nebari) - Automated data science platform. From JupyterHub to Cloud environments with Dask Gateway. ([Docs](https://www.nebari.dev/docs/welcome/))
 - [ipyobservable](https://github.com/davidbrochart/ipyobservable) - Jupyter widget for Observable.
 - [AutoProfiler](https://github.com/cmudig/AutoProfiler) - Automatically profile dataframes in the Jupyter sidebar.
+- [nbval](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.

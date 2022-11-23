@@ -159,6 +159,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [golden](https://github.com/tenntenn/golden) - Utilities for golden file tests.
 - [Snapshot](https://github.com/kodiiing/snapshot) - Simple utility to do snapshot testing in Go.
 - [assert](https://github.com/junk1tm/assert) - Common assertions to use with the standard testing package.
+- [golden](https://github.com/nao1215/golden) - Golden file testing for Go.
 
 ## Web
 
@@ -1910,6 +1911,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Tag](https://github.com/frolovo22/tag) - Parsing/editing tags ID3, MP4, FLAC.
 - [go-iprtb](https://github.com/moznion/go-iprtb) - Go implementation of the IP routing table.
 - [Unleash Go](https://github.com/Unleash/unleash-client-go)
+- [Frida-Go](https://github.com/frida/frida-go) - Go bindings for Frida.
+- [RocketMQ Client Go](https://github.com/apache/rocketmq-client-go)
 
 ## Links
 

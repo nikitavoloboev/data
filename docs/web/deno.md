@@ -329,3 +329,5 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [libclang-deno](https://github.com/aapoalas/libclang-deno) - Deno FFI bindings for libclang.
 - [Deno 1.28: Featuring 1.3 Million New Modules (2022)](https://deno.com/blog/v1.28) ([HN](https://news.ycombinator.com/item?id=33593668))
 - [Ryan Dahl talks about Deno and JavaScript in general (2022)](https://syntax.fm/show/538/supper-club-ryan-dahl-and-deno)
+- [Gazelle Router](https://github.com/khwalkowicz/gazelle) - Small and incredibly fast Radix tree-based router for Deno.
+- [Deno Vulkan](https://github.com/deno-windowing/vulkan) - Vulkan API bindings for Deno.

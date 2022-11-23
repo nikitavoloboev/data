@@ -272,3 +272,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [getdoc](https://github.com/gotd/getdoc) - Telegram documentation parser.
 - [telegram-banhammer](https://github.com/paskal/telegram-banhammer) - Program which uses MTProto Telegram API to ban spammers from a group.
 - [TL](https://github.com/xelaj/tl) - Serialization format, created by Telegram and TON devs.
+- [Telestatic](https://github.com/spelsinx/telestatic) - Telegram MTProto framework for NodeJS.

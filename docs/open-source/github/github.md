@@ -485,3 +485,5 @@ Awesome List
 - [How GitHub builds GitHub (2022)](https://www.youtube.com/watch?v=R6iRccrJ_jg)
 - [Awesome GitHub Wikis](https://github.com/MyHoneyBadger/awesome-github-wiki)
 - [GitHub Deploy Track](https://github.com/numtide/github-deploy) - Track deployments on GitHub PRs.
+- [GitHub Blocks Template](https://github.com/mattrothenberg/duckb-browser-block)
+- [GitCLI](https://github.com/ldakhoa/GitCLI-Swift) - GitHub CLI written in Swift.

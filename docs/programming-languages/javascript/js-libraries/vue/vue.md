@@ -11,6 +11,7 @@ title: Vue.js
 ## Built with Vue
 
 - [Nuxt 3 + Vuetify 3 Starter](https://github.com/BayBreezy/nuxt3-vuetify3-starter)
+- [Content Wind](https://github.com/Atinux/content-wind) - Lightweight Nuxt theme to build a Markdown driven website. Powered by Nuxt Content, TailwindCSS and Iconify.
 - [Nuxt 3 Minimal Starter](https://github.com/Dawntraoz-Storyblok/storyblok-nuxt-jamstack-blog)
 - [Nuxt 3 PWA](https://github.com/kevinmarrec/nuxt-pwa-module) - Zero config PWA solution for Nuxt 3.
 - [Nuxt 3 Minimal Starter with ESLint](https://github.com/Diizzayy/n3-starter)
@@ -217,3 +218,4 @@ title: Vue.js
 - [Vue Auth UI](https://github.com/ndrbrt/vue-auth-ui) - Pre-built Vue component for authenticating users.
 - [Nuxt Lazy Hydrate](https://github.com/Baroshem/nuxt-lazy-hydrate)
 - [Nuxt Typography](https://github.com/nuxt-themes/typography) - Nuxt theme to get a beautiful and customisable typography with Nuxt Content.
+- [Vue-Sprinkles](https://github.com/wobsoriano/vue-sprinkles) - Composable to create a component from your vanilla-extract + sprinkles tokens.

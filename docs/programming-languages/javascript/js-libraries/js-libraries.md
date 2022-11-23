@@ -1057,6 +1057,7 @@
 - [fsxx](https://github.com/antfu/fsxx) - File system in zx style.
 - [WorkerBox](https://github.com/markwylde/workerbox) - Run unsafe user generated JavaScript in the browser. ([HN](https://news.ycombinator.com/item?id=33673047))
 - [glsl-autodiff](https://github.com/davepagurek/glsl-autodiff) - Get normals in your vertex shader.
+- [devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can't.
 
 ## Links
 

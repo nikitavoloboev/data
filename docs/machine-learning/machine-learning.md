@@ -982,3 +982,7 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Sharpness-Aware Minimization for Efficiently Improving Generalization (2020)](https://arxiv.org/abs/2010.01412) ([Code](https://github.com/google-research/sam))
 - [Closed-form Continuous-time Neural Models (2021)](https://arxiv.org/abs/2106.13898) ([Code](https://github.com/raminmh/CfC))
 - [Creative AI](https://github.com/sony/creativeai)
+- [ZenBytes](https://github.com/zenml-io/zenbytes) - Simple guide to MLOps through ZenML and its various integrations.
+- [Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting (2022)](https://arxiv.org/abs/2205.14415) ([Code](https://github.com/thuml/Nonstationary_Transformers))
+- [Deep Image Processing](https://github.com/t-kuha/deep-image-processing)
+- [Uni-Perceiver models](https://github.com/fundamentalvision/Uni-Perceiver)

@@ -4,6 +4,13 @@
 
 [The Managers Handbook](https://themanagershandbook.com/), [Basecamp Employee Handbook](https://basecamp.com/handbook), [Engineering Management for the Rest of Us](https://www.engmanagement.dev/) & [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview) have nice ideas.
 
+Top things that I think are [must have for productive working environment](https://news.ycombinator.com/item?id=33725516):
+
+1. Psychological safety and trust in engineering to lead.
+2. Coworkers that intrinsically care about their work.
+3. Coworkers that are fantastic people.
+4. Meaningful work.
+
 ## Notes
 
 - [As a CTO, my default loop is 'First, cycle through all my employees and make sure that I have equipped them to be happy and productive in their jobs. Second, find something to do. If possible, delegate it; if not, do it. Repeat.](https://news.ycombinator.com/item?id=16802530)

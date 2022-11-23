@@ -221,3 +221,4 @@
 - [Photo2Pixel](https://github.com/Jzou44/photo2pixel) - Algorithm converting photo into pixel art.
 - [TransformImgs](https://github.com/Pixboost/transformimgs) - Open Source Image CDN that provides image transformation API and supports the latest image formats, such as WebP, AVIF and network client hints.
 - [JXL.js](https://github.com/niutech/jxl.js) - JPEG XL decoder in JavaScript using WebAssembly (WASM). ([HN](https://news.ycombinator.com/item?id=33705087))
+- [easyraw](https://github.com/gennyble/easyraw) - User friendly raw image processing program.

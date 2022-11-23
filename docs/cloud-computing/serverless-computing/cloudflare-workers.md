@@ -209,3 +209,6 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [do-taskmanager](https://github.com/evanderkoogh/do-taskmanager) - TaskManager for Durable Objects, simplifying the use of Alarms.
 - [Building Micro-Frontends with Cloudflare Workers (2022)](https://blog.cloudflare.com/better-micro-frontends/)
 - [do-proxy](https://github.com/fisherdarling/do-proxy) - Library for writing type-safe Durable Objects in Rust.
+- [Running Esbuild on the Edge (2022)](https://blog.interactions.rest/blog/esbuild-on-the-edge/) ([Code](https://github.com/Interactions-as-a-Service/esbuild-worker-demo))
+- [D1-ORM](https://github.com/Interactions-as-a-Service/d1-orm) - Simple, strictly typed ORM, to assist you in using Cloudflare's D1 product.
+- [Bootstrapping your D1 Database With D1-ORM (2022)](https://blog.interactions.rest/blog/bootstrapping-d1/)

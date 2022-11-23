@@ -259,6 +259,7 @@
 - [backtick](https://github.com/brandonbloom/backtick) - Clojure's syntax-quote reader macro as a normal macro.
 - [thrempl](https://github.com/liquidz/thrempl) - Simple template engine using threading macros.
 - [TOML](https://github.com/ilevd/toml) - Clojure TOML wrapper.
+- [Mundaneum](https://github.com/jackrusher/mundaneum) - Clojure wrapper around WikiData.
 
 ## Links
 

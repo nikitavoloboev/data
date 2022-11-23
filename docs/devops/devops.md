@@ -224,3 +224,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Retool Workflows: Cron, but Better (2022)](https://retool.com/blog/introducing-retool-workflows/) ([HN](https://news.ycombinator.com/item?id=33610962))
 - [Hadmean](https://github.com/hadmean/hadmean) - Generate powerful, fully functional, ready-to-be-deployed admin apps in seconds. ([Web](https://hadmean.com/))
 - [Sidekiq Server](https://github.com/pganalyze/sidekiq_server.rs) - Sidekiq server implemented in Rust.
+- [Eventline](https://eventline.net/) - Job scheduling and execution platform. ([Code](https://github.com/exograd/eventline))

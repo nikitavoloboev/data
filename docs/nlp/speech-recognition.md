@@ -154,3 +154,4 @@ title: Speech recognition
 - [I record myself on audio 24x7 and use an AI to process the information (2022)](https://roberdam.com/en/wisper.html) ([HN](https://news.ycombinator.com/item?id=33608437))
 - [Transcribe File](https://freesubtitles.ai/) - Free transcription service powered by Whisper AI. ([HN](https://news.ycombinator.com/item?id=33663486))
 - [SpeechRecognition](https://github.com/Uberi/speech_recognition) - Speech recognition module for Python, supporting several engines and APIs, online and offline.
+- [TransFusion: Transcribing Speech with Multinomial Diffusion](https://github.com/RF5/transfusion-asr)

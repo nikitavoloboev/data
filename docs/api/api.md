@@ -6,6 +6,8 @@
 
 Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://github.com/Kapeli/Dash-Alfred-Workflow) on macOS for searching docs.
 
+[Mock Service Worker](https://github.com/mswjs/msw) is great for mocking APIs.
+
 ## Other
 
 - [OpenAI API](https://openai.com/api/) ([Go lib](https://github.com/sausheong/openai)) ([Node](https://github.com/openai/openai-node))

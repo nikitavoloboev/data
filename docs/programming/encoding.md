@@ -79,3 +79,4 @@
 - [The essence of Reed-Solomon coding (2022)](https://mazzo.li/posts/reed-solomon.html) ([HN](https://news.ycombinator.com/item?id=33492716)) ([Lobsters](https://lobste.rs/s/hvqgl9/essence_reed_solomon_coding))
 - [msgpack-tools](https://github.com/ludocode/msgpack-tools) - Command-line tools for converting between MessagePack and JSON.
 - [ADBC: Arrow Database Connectivity](https://github.com/apache/arrow-adbc)
+- [hext](https://github.com/gennyble/hext) - Binary File Markup Language.

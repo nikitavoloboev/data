@@ -458,6 +458,7 @@
 - [Outcome](https://github.com/ned14/outcome) - Lightweight outcome\<T\> and result\<T\> (non-Boost edition).
 - [Realtime Math](https://github.com/nfrechette/rtm) - Geared towards real time applications that require their math to be as fast as possible.
 - [Animation Compression Library](https://github.com/nfrechette/acl) - Animation compression is a fundamental aspect of modern video game engines.
+- [mz::type_list](https://github.com/marzer/type_list) - Compiler-friendly variadic type list for C++.
 
 ## Links
 

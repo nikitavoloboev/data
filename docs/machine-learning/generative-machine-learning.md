@@ -168,3 +168,6 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [Stable Diffusion with Nix](https://github.com/collinarnett/stable-diffusion-nix) - Quickly get up and running using Stable Diffusion with Nix flakes.
 - [Minimal text diffusion](https://github.com/madaan/minimal-text-diffusion) - Minimal implementation of diffusion models for text generation.
 - [VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models (2022)](https://ajayj.com/vectorfusion)
+- [RAD-NeRF: Real-time Neural Talking Portrait Synthesis](https://github.com/ashawkey/RAD-NeRF)
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
+- [Dispict](https://github.com/ekzhang/dispict) - Design a growing artistic exhibit of your own making, with semantic search powered by OpenAI CLIP.

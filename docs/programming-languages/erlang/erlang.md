@@ -170,3 +170,4 @@ title: Erlang
 - [Hello, Erlang! Podcast](https://anchor.fm/helloerlang/)
 - [Zotonic with Marc Worrell](https://anchor.fm/helloerlang/episodes/Zotonic-with-Marc-Worrell-e1po1sj/a-a8ocvji)
 - [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
+- [Ra](https://github.com/rabbitmq/ra) - Raft Implementation for Erlang and Elixir.
