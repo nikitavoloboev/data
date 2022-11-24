@@ -272,3 +272,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [Who needs MLflow when you have SQLite? (2022)](https://ploomber.io/blog/experiment-tracking/) ([HN](https://news.ycombinator.com/item?id=33624018))
 - [SQLite Release 3.40.0 (2022)](https://www.sqlite.org/releaselog/3_40_0.html) ([HN](https://news.ycombinator.com/item?id=33628136)) ([HN](https://news.ycombinator.com/item?id=33696837))
 - [How LiteFS Works](https://fly.io/docs/litefs/how-it-works/) ([HN](https://news.ycombinator.com/item?id=33675439))
+- [SQLite WASM Vite](https://github.com/overtone-app/sqlite-wasm-esm)
