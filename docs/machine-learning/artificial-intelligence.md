@@ -158,3 +158,4 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 - [Neurosymbolic Programming for Science (2022)](https://arxiv.org/abs/2210.05050)
 - [The near future of AI is action-driven (2022)](https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven) ([HN](https://news.ycombinator.com/item?id=33634570))
 - [Futurepedia](https://www.futurepedia.io/) - Largest AI Tools Directory.
+- [Diplomacy Cicero and Diplodocus](https://github.com/facebookresearch/diplomacy_cicero) - Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation.

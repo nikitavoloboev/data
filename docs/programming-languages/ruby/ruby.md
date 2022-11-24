@@ -150,3 +150,4 @@
 - [Ruby program that generates itself through a 128-language quine loop](https://github.com/mame/quine-relay/blob/master/QR.rb) ([HN](https://news.ycombinator.com/item?id=33105706))
 - [Programming Ruby 3.2 (5th Edition) (2022)](https://pragprog.com/titles/ruby5/programming-ruby-3-2-5th-edition/)
 - [Extending Ruby with Rust (2022)](https://github.hausgold.de/extending-ruby-with-rust)
+- [rbperf](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby (CRuby) which runs in BPF.

@@ -49,3 +49,4 @@
 - [Learn a language by writing too many Forths](https://zserge.com/posts/too-many-forths/) ([Lobsters](https://lobste.rs/s/hp55ph/learn_language_by_writing_too_many_forths))
 - [JIT Compiler for Forth](https://twitter.com/typeswitch/status/1553168358215917568) ([HN](https://news.ycombinator.com/item?id=32324588))
 - [Forth: A New Way to Program a Mini Computer (1974)](https://articles.adsabs.harvard.edu/pdf/1974A%26AS...15..497M) ([HN](https://news.ycombinator.com/item?id=33134663))
+- [rtForth](https://github.com/chengchangwu/rtforth) - Forth implemented in Rust for real time application.
