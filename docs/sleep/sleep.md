@@ -67,3 +67,4 @@ Heard nice things about [Eight Sleep](https://www.eightsleep.com) Pod & mattress
 - [The effects of sleep debt (2022)](https://www.nytimes.com/2022/06/24/health/sleep-debt-health.html) ([HN](https://news.ycombinator.com/item?id=32089964))
 - [Ask HN: What helped you sleep better? (2022)](https://news.ycombinator.com/item?id=32376839)
 - [SONU Sleep System](https://sonusleep.com/) - Mattress For Side Sleepers. ([Tweet](https://twitter.com/ugmonk/status/1567166988660662273))
+- [6 Key Ways to Improve Your Sleep (2021)](https://www.youtube.com/watch?v=ToiHJlX3Ils)

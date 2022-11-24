@@ -42,3 +42,4 @@
 - [howdy](https://github.com/mikeyjones/howdy) - Simple API on top of the Mist web server.
 - [nibble](https://github.com/hayleigh-dot-dev/gleam-nibble) - String parsing library heavily inspired by elm/parser.
 - [emel](https://github.com/mrdimosthenis/emel) - Simple and functional machine learning library for the Erlang ecosystem.
+- [Gleam v0.25 - Introducing use expressions (2022)](https://gleam.run/news/v0.25-introducing-use-expressions/)

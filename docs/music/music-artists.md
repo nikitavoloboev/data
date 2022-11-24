@@ -301,6 +301,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Kate Bollinger - Untitled](https://www.youtube.com/watch?v=6UAnympvxxs)
 - [Hermanos Gutiérrez - El Jardin](https://www.youtube.com/watch?v=k-tTxtLTpfk)
 - [Kate Bollinger at Paste Studio NYC](https://www.youtube.com/watch?v=h_stkULYf_4)
+- [Мальчик ты снег (cover by Лера Яскевич)](https://www.youtube.com/watch?v=zBnmFG-oEZA)
 
 ## Links
 

@@ -34,10 +34,11 @@ Also whilst not strictly supplements, I enjoy taking [psychedelics](../../drugs/
 
 Some maybe interesting supplements. Some I tried but stopped.
 
-- [Multivitamin](https://www.amazon.co.uk/Multivitamins-Multivitamin-Vegetarians-Nu-Nutrition/dp/B01IFGDNVS) (1 capsule)
-- [Sulforaphane](https://www.amazon.co.uk/Jarrow-Formulas-Broccomax-Vcaps-Capsules/dp/B01D15LMCK) (1 capsule)
-- [Vegan Omega 3 DHA & EPA](https://www.amazon.com/VEGAN-OMEGA-Supplement-Cardiovascular-Supplements/dp/B01MYE95BQ) (1 capsule)
-- [Lions Mane](https://oriveda.co.uk/lions-mane.php) (1 capsule)
+- [AvailOm High DHA Algae Powder](https://nootropicsdepot.com/availom-high-dha-powder-algae-vegan/) - Vegan Friendly Fish Oil.
+- [Multivitamin](https://www.amazon.co.uk/Multivitamins-Multivitamin-Vegetarians-Nu-Nutrition/dp/B01IFGDNVS)
+- [Sulforaphane](https://www.amazon.co.uk/Jarrow-Formulas-Broccomax-Vcaps-Capsules/dp/B01D15LMCK)
+- [Vegan Omega 3 DHA & EPA](https://www.amazon.com/VEGAN-OMEGA-Supplement-Cardiovascular-Supplements/dp/B01MYE95BQ)
+- [Lions Mane](https://oriveda.co.uk/lions-mane.php)
 - [Daily Thyroid Care Supplement](https://www.palomahealth.com/product/thyroid-supplements)
 
 ## Notes

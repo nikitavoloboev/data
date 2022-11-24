@@ -161,3 +161,5 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Horror movies so great you wish you could forget and watch again (2022)](https://www.reddit.com/r/MovieSuggestions/comments/yygyfq/whats_a_horror_thriller_so_good_you_wish_u_could/)
 - [How to find great films to watch (2022)](https://psyche.co/guides/how-to-find-great-films-to-watch-and-have-fun-along-the-way)
 - [Искусство кино](https://kinoart.ru/)
+- [A24](https://a24films.com/) - American independent entertainment company.
+- [What is the most profound movie you've ever seen? (2022)](https://twitter.com/davidcinema/status/1595434504444956672)

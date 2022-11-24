@@ -40,3 +40,4 @@ title: HomeKit
 - [HomeKit Python](https://github.com/jlusiardi/homekit_python) - Python implementation to work as both HomeKit controller and accessory.
 - [HomeConMenu](https://github.com/sonsongithub/HomeConMenu) - App to control HomeKit Devices from macOS system.
 - [Homebridge Govee](https://github.com/bwp91/homebridge-govee) - Homebridge plugin to integrate Govee devices into HomeKit.
+- [Black Friday-Cyber Monday HomeKit Deals](https://shanewhatley.com/2022-black-friday/)

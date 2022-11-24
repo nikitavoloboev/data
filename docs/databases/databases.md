@@ -723,3 +723,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Database Review 2021](https://www.bytebase.com/blog/database-review-2021) ([HN](https://news.ycombinator.com/item?id=33558509))
 - [Ask HN: What do you use for a personal database? (2022)](https://news.ycombinator.com/item?id=33627988)
 - ["The Evolution of a Planetary-scale Distributed Database" by Kevin Scaldeferri (2022)](https://www.youtube.com/watch?v=dmCr5Al_ptM)
+- [Database optimization, analytics and burnout (2022)](https://blog.zm.is/database-optimisation-analytics-burnout/)

@@ -35,3 +35,4 @@ Only issue is that I can't imagine going without internet for long periods of ti
 - [Lürssen Yachts](https://www.lurssen.com/en/)
 - [Starlink Maritime](https://www.starlink.com/maritime) - High-speed, low-latency internet with up to 350 Mbps download while at sea. ([HN](https://news.ycombinator.com/item?id=32018218))
 - [The Long Way: Sheridan House Maritime Classic](https://www.goodreads.com/en/book/show/404437)
+- [How One Woman Pulled Anchor and Set Sail in a Solar-Powered Tiny Home](https://www.dwell.com/article/solar-design-tiny-home-on-the-water-crossboundaries-floating-tiny-home75ed6890-14b512c6)

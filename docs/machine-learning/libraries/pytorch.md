@@ -6,6 +6,8 @@ title: PyTorch
 
 [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) & [Lightning Hydra Template](https://github.com/ashleve/lightning-hydra-template) are neat. [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles) is great intro.
 
+[TorchScale](https://github.com/microsoft/torchscale) is nice library for making [Transformers](https://arxiv.org/abs/1706.03762) efficiently.
+
 ## Notes
 
 - [torch.fx allows you to write composable transformations in Python that take in PyTorch code and output PyTorch code](https://twitter.com/cHHillee/status/1367621538791317504)
@@ -480,3 +482,4 @@ title: PyTorch
 - [BackPACK](https://github.com/f-dangel/backpack) - Backpropagation package built on top of PyTorch which efficiently computes quantities other than the gradient.
 - [TrueGrad](https://github.com/ClashLuke/TrueGrad) - PyTorch interface for TrueGrad-AdamW.
 - [torchplate](https://github.com/rosikand/torchplate) - Minimal Experiment Workflows in PyTorch.
+- [TorchScale](https://github.com/microsoft/torchscale) - PyTorch library that allows researchers and developers to scale up Transformers efficiently and effectively.

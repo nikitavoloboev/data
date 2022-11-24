@@ -335,3 +335,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Behavior of spin glasses (2022)](https://phys.org/news/2022-11-mathematics-dont-behavior-glasses.html) ([HN](https://news.ycombinator.com/item?id=33573555))
 - [How to Think About Relativity’s Concept of Space-Time (2022)](https://www.quantamagazine.org/how-to-think-about-relativitys-concept-of-space-time-20221114/)
 - [MadMiner: Machine learning-based inference for particle physics (2020)](https://arxiv.org/abs/1907.10621) ([Code](https://github.com/madminer-tool/madminer))
+- [Is there a good book for learning intro to electricity and magnetism? (2022)](https://www.reddit.com/r/Physics/comments/z361db/is_there_a_good_book_for_learning_intro_to/)

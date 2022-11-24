@@ -41,6 +41,8 @@ At night, I try to sleep [either on my back or side](https://www.sleepfoundation
 
 When I first started above evening routine, I didn't apply Exfoliant and Retinal on same day for first 2-3 weeks to get my skin to adjust to active ingredients. So I did one day Exfoliant and next day Retinal. Now I can do both on same day with no problems but that may vary for you.
 
+When showering, I use [Cafferonic Body Wash](https://koreanskincare.nl/products/snp-prep-cafferonic-body-wash).
+
 ### Other tips
 
 I sadly have a bunch of deep scars I got from having severe acne when I was young. Trying to fix it up with [microneedling](https://www.youtube.com/watch?v=JPWycy8cwN8).
@@ -169,3 +171,4 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [What small thing has made a big difference for your skin? (2022)](https://www.reddit.com/r/SkincareAddiction/comments/z262yq/misc_what_small_thing_has_made_a_big_difference/)
 - [Your Skin Care if $$ was no object (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/z1whp2/if_was_no_object/)
 - [Lasers thread (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/z2m5hu/lasers_thread/)
+- [Вся правда о ботоксе и диспорте](https://www.youtube.com/watch?v=yOkGwa42LA0)

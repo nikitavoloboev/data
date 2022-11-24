@@ -702,3 +702,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [How to sell tickets fairly (2022)](https://barnabas.me/blog/2022/11/selling-tickets-fairly/) ([HN](https://news.ycombinator.com/item?id=33666013))
 - [Ask HN: What is the thing you've built that you regret the most? (2022)](https://news.ycombinator.com/item?id=33675112)
 - [Literature Clock](https://literature-clock.jenevoldsen.com/) - Clock using time quotes from the literature, based on the work of Jaap Meijers. ([Code](https://github.com/JohannesNE/literature-clock))
+- [Palm Report Issues 001 — 012](https://www.are.na/share/aRCNPLv)
+- [Awesome Black Friday / Cyber Monday Deals - 2022](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)

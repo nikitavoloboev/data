@@ -264,3 +264,4 @@ title: SwiftUI
 - [Pin a view to the bottom of safe area in SwiftUI (2022)](https://nilcoalescing.com/blog/PinAViewToTheBottomOfSafeArea/)
 - [SwiftUI Layout Inspector](https://github.com/ole/SwiftUI-LayoutInspector) - Tool for learning how the SwiftUI layout system works, and for debugging your own layout code.
 - [SwiftUI Animations by Tutorials (2022)](https://www.kodeco.com/books/swiftui-animations-by-tutorials)
+- [My Real Challenge with SwiftUI (2022)](https://www.swiftjectivec.com/the-real-challenge-with-swiftui/)

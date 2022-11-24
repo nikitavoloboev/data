@@ -986,3 +986,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting (2022)](https://arxiv.org/abs/2205.14415) ([Code](https://github.com/thuml/Nonstationary_Transformers))
 - [Deep Image Processing](https://github.com/t-kuha/deep-image-processing)
 - [Uni-Perceiver models](https://github.com/fundamentalvision/Uni-Perceiver)
+- [Compiler Provenance Recovery for Multi-CPU Architectures Using a Centrifuge Mechanism (2022)](https://arxiv.org/abs/2211.13110)

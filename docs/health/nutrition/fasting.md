@@ -1,8 +1,10 @@
 # Fasting
 
-There's quite a few [proven benefits of fasting especially as far as cell repair goes](https://hubermanlab.com/effects-of-fasting-and-time-restricted-eating-on-fat-loss-and-health/). I don't find doing full day fasts productive for me as I do feel very bad during and after them.    
+There's quite a few [proven benefits of fasting especially as far as cell repair goes](https://hubermanlab.com/effects-of-fasting-and-time-restricted-eating-on-fat-loss-and-health/). I don't find doing full day fasts productive for me as I do feel very bad during and after them.
 
-So only fasting I actually do, if you can call it this, is skipping food in evening, before sleep. That gives my body about 12 hours or so of no food, until I take my [morning smoothie](supplements.md) on following day. 
+So only fasting I actually do, if you can call it this, is skipping food in evening, before sleep. That gives my body about 12 hours or so of no food, until I take my [morning smoothie](supplements.md) on following day.
+
+I might try look into fasting again as [Chris Palmer had many nice things to say about it](https://hubermanlab.com/dr-chris-palmer-diet-nutrition-for-mental-health/), specifically in how it [boosts mitochondria production](https://www.youtube.com/watch?v=xjEFo3a1AnI&t=3370s).
 
 ## Notes
 

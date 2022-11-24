@@ -185,6 +185,7 @@ And these Discord servers:
 - [viborc.com](https://viborc.com/) - Data-driven stories for bright minds.
 - [Foreign Affairs](https://www.foreignaffairs.com/) - American magazine of international relations and U.S. foreign policy.
 - [Asterisk](https://asteriskmag.com/)
+- [Dwell](https://www.dwell.com/) - Modern living, home design ideas, inspiration, and advice.
 
 ### Other
 

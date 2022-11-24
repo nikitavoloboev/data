@@ -538,3 +538,5 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [YMatterType](https://github.com/yml-org/YMatterType) - Opinionated take on Design System Typography for iOS and tvOS.
 - [What was the bad practice that you did not know you were committing until later? (2022)](https://www.reddit.com/r/iOSProgramming/comments/yx7iza/what_was_the_bad_practice_that_you_did_not_know/)
 - [How to master UIKit? (2022)](https://www.reddit.com/r/iOSProgramming/comments/z1e1o2/ic_6_ios_eng_here_how_can_i_master_uikit_my_lack/)
+- [Golang-iDevice](https://github.com/electricbubble/gidevice) - Communicate with iOS devices implemented with Go.
+- [Golang-WDA](https://github.com/electricbubble/gwda) - WebDriverAgent ( iOS ) Client Library in Go.

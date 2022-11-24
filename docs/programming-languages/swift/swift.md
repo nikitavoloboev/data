@@ -320,3 +320,4 @@ title: Swift
 - [Ask HN: What is the future of Swift on the server-side? (2022)](https://news.ycombinator.com/item?id=33608804)
 - [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/) ([HN](https://news.ycombinator.com/item?id=33658376))
 - [Modern Concurrency on Apple Platforms - Using async/await with Swift (2022)](https://link.springer.com/book/10.1007/978-1-4842-8695-1?sap-outbound-id=40D2BBEF5833C4436B139778F496A0F535B4D5EC)
+- [Swift concurrency: Behind the scenes (2021)](https://developer.apple.com/videos/play/wwdc2021/10254/)
