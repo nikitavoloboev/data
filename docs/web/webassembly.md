@@ -399,3 +399,4 @@ title: WebAssembly
 - [Coredump Format for WebAssembly](https://github.com/xtuc/wasm-coredump-format)
 - [WasmEdge Hyper Demo](https://github.com/WasmEdge/wasmedge_hyper_demo)
 - [cjwasm](https://github.com/jeaiii/cjwasm) - Fast, zero dependency, single-header WebAssembly interpreter.
+- [WASM Registry Prototype](https://github.com/bytecodealliance/registry)

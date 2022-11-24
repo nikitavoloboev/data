@@ -263,3 +263,4 @@ title: SwiftUI
 - [tundsdev - YouTube](https://www.youtube.com/c/tundsdev/videos) ([Code](https://github.com/tunds/YouTubeResources))
 - [Pin a view to the bottom of safe area in SwiftUI (2022)](https://nilcoalescing.com/blog/PinAViewToTheBottomOfSafeArea/)
 - [SwiftUI Layout Inspector](https://github.com/ole/SwiftUI-LayoutInspector) - Tool for learning how the SwiftUI layout system works, and for debugging your own layout code.
+- [SwiftUI Animations by Tutorials (2022)](https://www.kodeco.com/books/swiftui-animations-by-tutorials)

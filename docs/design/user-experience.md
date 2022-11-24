@@ -214,3 +214,4 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [Tray background color to indicate what action a user is taking](https://twitter.com/benjitaylor/status/1390410175236902913) ([In Safari](https://twitter.com/pacocoursey/status/1591151080628682752))
 - [Command K Bars (2022)](https://maggieappleton.com/command-bar)
 - [Craft — Thoughts on elevating product quality (2022)](https://paulstamatiou.com/craft/)
+- [Button styles](https://twitter.com/AdhamDannaway/status/1595425255027269634)

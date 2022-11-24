@@ -8,9 +8,9 @@ title: Twitter
 
 I also find it [frustrating that Twitter iOS client doesn't have the ability to long press `like` icon to bookmark](https://twitter.com/nikitavoloboev/status/1590403314264334338).
 
-[Mastodon](../social-networks/mastodon.md) is pretty nice too.
-
 [How does Twitter work](https://www.youtube.com/watch?v=z6xslDMimME) is nice overview of [Twitter tech](https://twitter.com/_dml/status/1592619959947243520).
+
+I am honestly not happy with Twitter being ruled by one person who can [ban accounts on a whim](https://twitter.com/dmoren/status/1595490311513509900). Trying to get [Mastodon](../social-networks/mastodon.md) working smoother with better onboarding. But also partly trying to build a Twitter alternative with [LA](../ideas/learn-anything.md). The key thing is that it will be open source. I can't imagine Twitter competing when an alternative with all same features and ability to scale to millions of users but also open source with non dictatorial ruling policy. In case of LA, I plan to tackle overtaking Twitter in some ways by making a tool that is an extension of your knowledge base where you can partly share parts of your thoughts/notes/ideas. And not the current model of just typing into a box where it goes into append only profile of tweets. It's nice and simple but makes 'building on' knowledge impossible. 
 
 ## Interesting hash tags
 
