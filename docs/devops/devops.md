@@ -225,3 +225,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Hadmean](https://github.com/hadmean/hadmean) - Generate powerful, fully functional, ready-to-be-deployed admin apps in seconds. ([Web](https://hadmean.com/))
 - [Sidekiq Server](https://github.com/pganalyze/sidekiq_server.rs) - Sidekiq server implemented in Rust.
 - [Eventline](https://eventline.net/) - Job scheduling and execution platform. ([Code](https://github.com/exograd/eventline))
+- [Infisical](https://infisical.com/) - Open-source, E2EE tool to sync environment variables across your team and infrastructure. ([Code](https://github.com/Infisical/infisical))

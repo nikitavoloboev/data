@@ -33,7 +33,7 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Terminals Are Sexy](https://terminalsare.sexy/) - Curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [Inconsolation](https://inconsolation.wordpress.com/) - Adventures with lightweight and minimalist software for Linux.
 - [Arabesque](https://sanctum.geek.nz/arabesque/) - Systems, Tools, and Terminal Science.
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ([HN](https://news.ycombinator.com/item?id=33726831))
 - [cheat](https://github.com/cheat/cheat) - Allows you to create and view interactive cheatsheets on the command-line. ([HN](https://news.ycombinator.com/item?id=24195122))
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
 - [An Illustrated Guide to Useful Command Line Tools (2019)](https://www.wezm.net/technical/2019/10/useful-command-line-tools/) ([Lobsters](https://lobste.rs/s/pven1z/illustrated_guide_some_useful_command)) ([HN](https://news.ycombinator.com/item?id=21363121))

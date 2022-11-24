@@ -410,3 +410,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [inspect](https://github.com/square/inspect) - Collection of metrics gathering, analysis utilities for various subsystems of Linux, MySQL and Postgres.
 - [TinyBIOS](https://github.com/pwk4m1/TinyBIOS) - Minimalist open source BIOS project for fun.
 - [Kernel (OS Kernel Book)](https://539kernel.com/) ([Code](https://github.com/MaaSTaaR/539kernel))
+- [Ask HN: Why aren't there DSLs for Operating Systems? (2022)](https://news.ycombinator.com/item?id=33734299)

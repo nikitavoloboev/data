@@ -476,3 +476,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [Endlesss](https://discover.endlesss.fm/) - New way to create, publish and collect music together, powered by Web3.
 - [alda-clj](https://github.com/daveyarwood/alda-clj) - Clojure library for live-coding music with Alda.
 - [MNX](https://github.com/w3c/mnx) - Music Notation CG next-generation music markup proposal.
+- [AI Music Generator](https://soundraw.io/) ([HN](https://news.ycombinator.com/item?id=33727550))

@@ -172,3 +172,4 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [Dispict](https://github.com/ekzhang/dispict) - Design a growing artistic exhibit of your own making, with semantic search powered by OpenAI CLIP.
 - [Stable Diffusion 2.0 (2022)](https://stability.ai/blog/stable-diffusion-v2-release) ([HN](https://news.ycombinator.com/item?id=33726816)) ([Reddit](https://www.reddit.com/r/StableDiffusion/comments/z36mm2/stable_diffusion_20_announcement/))
+- [Generate photo-realistic images from text using Stable Diffusion](https://getimg.ai/text-to-image)

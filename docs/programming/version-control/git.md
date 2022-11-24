@@ -187,7 +187,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Hercules](https://github.com/src-d/hercules) - Fast, insightful and highly customizable Git history analysis.
 - [Git Tower Guides](https://www.git-tower.com/learn/)
 - [git-stashout](https://github.com/aviaviavi/git-stashout) - Custom git checkout command to automatically manage a per-branch stash.
-- [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git.
+- [Git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git. ([HN](https://news.ycombinator.com/item?id=33730417))
 - [Git Standards (2018)](https://blog.carlmjohnson.net/post/2018/git-gud/)
 - [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
 - [gitstatus](https://github.com/romkatv/gitstatus) - 10x faster implementation of `git status` command.

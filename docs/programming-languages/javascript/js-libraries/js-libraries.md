@@ -1059,6 +1059,7 @@
 - [glsl-autodiff](https://github.com/davepagurek/glsl-autodiff) - Get normals in your vertex shader.
 - [devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can't.
 - [Try to Catch](https://github.com/coderaiser/try-to-catch) - Functional try-catch wrapper for promises.
+- [idle-task](https://github.com/hiroki0525/idle-task) - Improve your website performance by executing JavaScript during a browser's idle periods. ([HN](https://news.ycombinator.com/item?id=33730760))
 
 ## Links
 

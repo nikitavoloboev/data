@@ -61,3 +61,4 @@ title: Satisfiability modulo theories
 - [CaDiCaL Simplified Satisfiability Solver](https://github.com/arminbiere/cadical)
 - [MSAT](https://github.com/Gbury/mSAT) - OCaml library that features a modular SAT-solver and some extensions (including SMT), derived from Alt-Ergo Zero.
 - [Pono](https://github.com/upscale-project/pono) - Performant, adaptable, and extensible SMT-based model checker implemented in C++.
+- [Go-Z3](https://github.com/mitchellh/go-z3) - Go Bindings to the Z3 Theorem Prover.

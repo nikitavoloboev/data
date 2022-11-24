@@ -36,3 +36,4 @@
 - [Best practices to ensure robust investigation of circular RNAs: pitfalls and tips (2021)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246952)
 - [TraCeR](https://github.com/Teichlab/tracer) - Reconstruction of T cell receptor sequences from single-cell RNAseq data.
 - [Why Does Allergy Immunotherapy Work? (2021)](https://the-lagrangian.github.io/2021/06/14/why-does-allergy-immunotherapy-work.html)
+- [Cancer vaccines: the next immunotherapy frontier (2022)](https://www.nature.com/articles/s43018-022-00418-6)

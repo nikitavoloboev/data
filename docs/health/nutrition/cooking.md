@@ -47,3 +47,4 @@ I share some [recipes I like](recipes.md).
 - [How to Cook Mushrooms](https://kateray.substack.com/p/how-to-cook-mushrooms)
 - [Rice maker recs](https://merveilles.town/web/@calutron/109339742888620221)
 - [50 Cooking Tips With Gordon Ramsay](https://www.youtube.com/watch?v=BHcyuzXRqLs)
+- [Life in the slow lane: how the slow cooker changed the world (2022)](https://longreads.com/2022/11/17/life-in-the-slow-lane/) ([HN](https://news.ycombinator.com/item?id=33716353))

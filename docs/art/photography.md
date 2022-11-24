@@ -259,3 +259,4 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [Tips on How to Pose Men](https://www.youtube.com/watch?v=g7fIhkFY_jo)
 - [Is Leica Worth The $$$$ (2021)](https://www.youtube.com/watch?v=rkPmLlow3O4)
 - [Digital Leica users! What’s everyone’s ‘go-to’ for settings? (2022)](https://www.reddit.com/r/Leica/comments/z2fvpp/digital_leica_users_whats_everyones_goto_for/)
+- [On the Usefulness of Photography (2020)](https://simonsarris.substack.com/p/on-the-usefulness-of-photography) ([HN](https://news.ycombinator.com/item?id=33731430))
