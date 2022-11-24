@@ -482,3 +482,4 @@ if (
 - [Number.range & BigInt.range JS Proposal](https://github.com/tc39/proposal-Number.range)
 - [QuickJS Running in WebAssembly](https://github.com/justjake/quickjs-emscripten) ([HN](https://news.ycombinator.com/item?id=33678641))
 - [Jitar](https://github.com/MaskingTechnology/jitar) - Full-stack JavaScript runtime for small to large web applications.
+- [This Month in JavaScript (2022)](https://www.youtube.com/watch?v=ijKULkvSaAU)

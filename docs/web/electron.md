@@ -77,3 +77,4 @@ I prefer to build things natively with [SwiftUI](../programming-languages/swift/
 - [secure-electron-store](https://github.com/reZach/secure-electron-store) - Secure electron-store that uses ipcMain/ipcRenderer.
 - [Electron Build Tools for Visual Studio Code](https://github.com/dsanders11/vscode-electron-build-tools) - Collection of useful VS Code helpers for working with the Electron codebase.
 - [Electron App Patcher](https://github.com/karlhorky/electron-app-patcher) - Patch an Electron app after an update to apply a change.
+- [electron/universal](https://github.com/electron/universal) - Create universal macOS Electron applications.

@@ -221,3 +221,4 @@ title: Genomics
 - [Pinello Lab](https://main.pinellolab.partners.org/) - Massachusetts General Hospital/ Harvard Medical School. ([GitHub](https://github.com/pinellolab))
 - [scvi-tools](https://github.com/scverse/scvi-tools) - Deep probabilistic analysis of single-cell omics data.
 - [gggenomes](https://github.com/thackl/gggenomes) - Grammar of graphics for comparative genomics.
+- [sgdemux](https://github.com/Singular-Genomics/singular-demux) - Singular Genomics Demultiplexing Tool.

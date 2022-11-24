@@ -1071,6 +1071,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [StaticFrame](https://github.com/static-frame/static-frame) - Immutable and grow-only Pandas-like DataFrames with a more explicit and consistent interface.
 - [langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python.
 - [PyAV](https://github.com/PyAV-Org/PyAV) - Pythonic bindings for FFmpeg's libraries.
+- [PEX](https://github.com/pantsbuild/pex) - Library and tool for generating .pex (Python EXecutable) files.
 
 ## Notes
 

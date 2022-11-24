@@ -175,3 +175,4 @@ title: Tailwind CSS
 - [TailwindCSS Radix UI](https://github.com/Idered/tailwindcss-radix-ui) - Style Radix UI components with TailwindCSS.
 - [Advanced TypeScript: The ultimate Tailwind typings (2022)](https://kimmo.blog/posts/6-advanced-typescript-the-ultimate-tailwind-typings/)
 - [Railwind](https://github.com/pintariching/railwind) - Tailwind compiler rewritten in rust.
+- [TwClassed](https://tw-classed.vercel.app/) - Make your Tailwind components re-usable. ([Code](https://github.com/sannajammeh/tw-classed))

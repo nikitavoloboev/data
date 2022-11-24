@@ -725,3 +725,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Arbiter](https://github.com/primitivefinance/arbiter) - Simple price data monitoring tool for uniswap V3 Pools written in Rust.
 - [Upgrading Ethereum](https://eth2book.info/) - Technical handbook on Ethereum's move to proof of stake and beyond. ([Code](https://github.com/benjaminion/upgrading-ethereum-book))
 - [Starkli](https://github.com/xJonathanLEI/starkli) - Blazing fast CLI tool for StarkNet.
+- [Solidify](https://github.com/proofxyz/solidify) - Go + solidity library aimed to make storing arbitrary data on EVM blockchains as easy and efficient as possible.

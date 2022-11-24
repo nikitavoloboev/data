@@ -4,7 +4,7 @@ title: Zero knowledge proofs
 
 # [Zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 
-[RISC Zero](https://github.com/risc0/risc0) looks neat.
+[RISC Zero](https://github.com/risc0/risc0) looks neat. [Zero Knowledge on Ramp](https://github.com/SupremeSingh/Awesome-ZK) is nice intro.
 
 ## Notes
 
@@ -132,3 +132,4 @@ title: Zero knowledge proofs
 - [Intro to Zero-knowledge & Building zkApps w/Mina Protocol (2022)](https://eda.hashnode.dev/zero-knowledge-building-zkapps-mina-protocol)
 - [miniSTARK](https://github.com/andrewmilson/ministark) - GPU accelerated STARK prover and verifier.
 - [RISC Zero](https://www.risczero.com/) - General-Purpose Verifiable Computing.
+- [Zero Knowledge on Ramp](https://github.com/SupremeSingh/Awesome-ZK)

@@ -246,3 +246,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Code as Creative Medium (2021)](https://mitpress.mit.edu/9780262542043/) ([Code](https://github.com/CodeAsCreativeMedium/exercises))
 - [genart.social](https://genart.social/about) - Home For Generative Artists.
 - [Generative Artists](https://github.com/KristinHenry/GenerativeArtists)
+- [Daily creative coding sketches for Genuary 2022](https://github.com/ronikaufman/genuary2022)

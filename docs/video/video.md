@@ -432,3 +432,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [OpenTimelineIO YouTube example](https://github.com/OpenTimelineIO/otio-youtube-example)
 - [Video Intelligence](https://ramanlabs.in/static/videointel.html) - Semantic Video Search. ([HN](https://news.ycombinator.com/item?id=33607401))
 - [Cinematic](https://github.com/Simonwep/cinematic) - Ultra tiny library to add cinematics to your HTML5 videos.
+- [YouTube Upload](https://github.com/tokland/youtube-upload) - Upload videos to YouTube from the command line.

@@ -398,3 +398,4 @@ title: WebAssembly
 - [History of WebAssembly (2022)](https://evacchi.github.io/wasm/compilers/history/2022/11/23/a-history-of-webassembly.html)
 - [Coredump Format for WebAssembly](https://github.com/xtuc/wasm-coredump-format)
 - [WasmEdge Hyper Demo](https://github.com/WasmEdge/wasmedge_hyper_demo)
+- [cjwasm](https://github.com/jeaiii/cjwasm) - Fast, zero dependency, single-header WebAssembly interpreter.

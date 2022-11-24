@@ -477,3 +477,4 @@
 - [Wayback](https://github.com/wabarc/wayback) - Self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems.
 - [Cairn](https://github.com/wabarc/cairn) - NPM package and CLI tool for saving webpages.
 - [Wayback Archiver](https://wabarc.eu.org/) - Makes it easy and fast to Wayback webpage. ([GitHub](https://github.com/wabarc))
+- [Pointer Events](https://w3c.github.io/pointerevents/) ([Code](https://github.com/w3c/pointerevents))

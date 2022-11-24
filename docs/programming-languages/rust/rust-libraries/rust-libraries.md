@@ -208,6 +208,7 @@
 
 ## Auth
 
+- [Rust-JWT-Simple](https://github.com/jedisct1/rust-jwt-simple) - Secure, standard-conformant, easy to use JWT implementation for Rust.
 - [Dacquiri](https://github.com/resyncgg/dacquiri) - Strong, compile-time enforced authorization framework for rust applications. ([Tweet](https://twitter.com/InsanityBit/status/1545157199311187968))
 - [Frank JWT](https://github.com/GildedHonour/frank_jwt) - JSON Web Token implementation in Rust.
 - [oauth1-request](https://github.com/tesaguri/oauth1-request-rs) - OAuth 1.0 client library for Rust.

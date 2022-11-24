@@ -694,6 +694,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go Landlock](https://github.com/landlock-lsm/go-landlock) - Go library for the Linux Landlock sandboxing feature.
 - [ZSocket](https://github.com/newtools/zsocket) - Zero-copy sockets for Linux in Go.
 - [Gonso](https://github.com/cpuguy83/gonso) - Library to do safe Linux namespace manipulation in Go.
+- [go-perf](https://github.com/aclements/go-perf) - Go packages and tools for Linux perf.
 
 ## Apple
 
@@ -1913,6 +1914,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Unleash Go](https://github.com/Unleash/unleash-client-go)
 - [Frida-Go](https://github.com/frida/frida-go) - Go bindings for Frida.
 - [RocketMQ Client Go](https://github.com/apache/rocketmq-client-go)
+- [Units](https://github.com/smyrman/units) - Go library that makes it easy to work with physical types, e.g. distances, velocities and angles.
 
 ## Links
 

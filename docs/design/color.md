@@ -209,3 +209,4 @@
 - [271 years before Pantone, every color imaginable in an 800-page book (2014)](https://www.thisiscolossal.com/2014/05/color-book/) ([HN](https://news.ycombinator.com/item?id=33675579))
 - [Named Colors Wheel](https://arantius.github.io/web-color-wheel/) ([HN](https://news.ycombinator.com/item?id=33693411))
 - [Mixbox](https://github.com/scrtwpns/mixbox) - Library for natural color mixing based on real pigments.
+- [Color Pals](https://ronikaufman.github.io/color_pals/) - Collection of curated color palettes. ([Code](https://github.com/ronikaufman/color_pals))

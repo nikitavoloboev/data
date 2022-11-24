@@ -582,3 +582,4 @@ all: unset
 - [Styling form states without JS](https://webkit.org/blog/13096/css-has-pseudo-class/#styling-form-states-without-js)
 - [Tree views in CSS](https://iamkate.com/code/tree-views/) ([HN](https://news.ycombinator.com/item?id=33667270))
 - [Terminal CSS](https://terminalcss.xyz/) - Modern and minimal CSS framework for terminal lovers. ([Code](https://github.com/Gioni06/terminal.css))
+- [CSS Analyzer](https://github.com/projectwallace/css-analyzer) - Goes through your CSS to find all kinds of relevant statistics.

@@ -475,3 +475,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [Magenta Note-SEQ](https://github.com/magenta/note-seq) - Serializable note sequence representation and utilities.
 - [Endlesss](https://discover.endlesss.fm/) - New way to create, publish and collect music together, powered by Web3.
 - [alda-clj](https://github.com/daveyarwood/alda-clj) - Clojure library for live-coding music with Alda.
+- [MNX](https://github.com/w3c/mnx) - Music Notation CG next-generation music markup proposal.

@@ -59,3 +59,4 @@ title: Data-Driven Documents
 - [Data Visualization with D3 and Svelte (2021)](https://www.youtube.com/watch?v=3n0vU9YtDsg)
 - [Navio](https://github.com/john-guerra/navio) - D3 visualization widget to help summarizing, exploring and navigating large network visualizations.
 - [d3-hierarchy](https://github.com/d3/d3-hierarchy) - 2D layout algorithms for visualizing hierarchical data.
+- [D3.js graph gallery](https://github.com/holtzy/D3-graph-gallery)

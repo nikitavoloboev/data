@@ -119,3 +119,5 @@ title: Lean
 - [Proofs written in Lean4 for the core katydid validation algorithm](https://github.com/katydid/proofs)
 - [Theorem Proving in Lean 4](https://github.com/leanprover/theorem_proving_in_lean4)
 - [Tests around generalized rewriting in Lean 4](https://github.com/lephe/lean4-rewriting)
+- [WASM Lean](https://github.com/yatima-inc/Wasm.lean) - WebAssembly tools for Lean.
+- [Lean 4 Poseidon implementation](https://github.com/yatima-inc/Poseidon.lean)

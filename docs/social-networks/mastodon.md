@@ -115,3 +115,4 @@ title: Mastodon
 - [Mastodon instances](https://instances.social/) - Let me help you choose an instance. ([Code](https://github.com/TheKinrar/instances))
 - [Debirdify](https://debirdify.pruvisto.org/) - Allows you to search the people you follow on Twitter for possible Mastodon/Fediverse accounts.
 - [tooot app for Mastodon](https://github.com/tooot-app/app)
+- [Mastodon Profile Redirect](https://github.com/bramus/mastodon-profile-redirect) - View Mastodon profiles on your Mastodon instance.

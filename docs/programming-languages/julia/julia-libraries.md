@@ -774,6 +774,7 @@
 - [FourierFlows.jl](https://github.com/FourierFlows/FourierFlows.jl) - Tools for building fast, hackable, pseudospectral partial differential equation solvers on periodic domains.
 - [Preferences](https://github.com/JuliaPackaging/Preferences.jl) - Convenient, integrated way for packages to store configuration switches to persistent TOML files.
 - [StructHelpers](https://github.com/jw3126/StructHelpers.jl) - Automate common struct definition boilerplate.
+- [AdvancedHMC.jl](https://github.com/TuringLang/AdvancedHMC.jl) - Robust, modular and efficient implementation of advanced Hamiltonian Monte Carlo algorithms.
 
 ## Links
 

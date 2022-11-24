@@ -1003,3 +1003,5 @@
 - [Exploring CLIP for Assessing the Look and Feel of Images (2022)](https://arxiv.org/abs/2207.12396) ([Code](https://github.com/IceClear/CLIP-IQA))
 - [RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation (2022)](https://arxiv.org/abs/2211.09869) ([Code](https://github.com/Anciukevicius/RenderDiffusion))
 - [Tracking without bells and whistles (2019)](https://arxiv.org/abs/1903.05625) ([Code](https://github.com/phil-bergmann/tracking_wo_bnw))
+- [LaTr: Layout-Aware Transformer for Scene-Text VQA (2021)](https://arxiv.org/abs/2112.12494) ([Code](https://github.com/uakarsh/latr))
+- [ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers (2022)](https://github.com/jkulhanek/viewformer)

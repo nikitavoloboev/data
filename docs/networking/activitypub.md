@@ -68,3 +68,4 @@ title: ActivityPub
 - [Some thoughts about ActivityPub](https://gist.github.com/jdarcy/60107fe4e653819138396257df302eef)
 - [Towards End-to-End Encryption for Direct Messages in the Fediverse (2022)](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/) ([Lobsters](https://lobste.rs/s/9uvaqs/towards_end_end_encryption_for_direct))
 - [Big List of ActivityPub Projects](https://github.com/shleeable/Big-List-of-ActivityPub)
+- [Bridgy Fed](https://github.com/snarfed/bridgy-fed) - Connects the IndieWeb with federated social networks using ActivityPub and OStatus.

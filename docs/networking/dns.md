@@ -259,3 +259,4 @@ title: DNS
 - [DNS over Ping](https://github.com/jamespwilliams/dns-over-ping)
 - [Faster DNS name decompression (2022)](https://dotat.at/@/2022-11-17-dns-decompress.html)
 - [Subdomain Sleuth](https://github.com/yahoo/SubdomainSleuth) - Scanner to identify dangling DNS records and subdomain takeovers.
+- [acme-dns](https://github.com/joohoi/acme-dns) - Simplified DNS server with a RESTful HTTP API to provide a simple way to automate ACME DNS challenges.

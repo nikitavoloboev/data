@@ -15,3 +15,4 @@ title: Cubical type theory
 - [cooltt](https://github.com/RedPRL/cooltt) - A cool implementation of normalization by evaluation (nbe) & elaboration for Cartesian cubical type theory.
 - [Cubical 1Lab](https://1lab.dev/) - Formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory. ([Code](https://github.com/isovector/blagda))
 - [Textbook on Cubical Methods](https://github.com/plt-amy/cubical-methods)
+- [cubeval](https://github.com/AndrasKovacs/cubeval) - Small implementation of a cartesian cubical type theory, designed from group-up with performance in mind.
