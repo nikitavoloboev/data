@@ -141,3 +141,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [51 Coolest Neighbourhoods in the World Right Now (2022)](https://www.timeout.com/travel/coolest-neighbourhoods-in-the-world)
 - [The Earth Awaits](https://www.theearthawaits.com/) - Find Cities in Your Budget.
 - [Cheaper countries to live in (2022)](https://www.reddit.com/r/digitalnomad/comments/yvma1g/cheaper_countries/)
+- [What is the one thing or traveling "hack" you won't leave home without (2022)](https://www.reddit.com/r/solotravel/comments/z4420f/what_is_the_one_thing_or_traveling_hack_you_wont/)

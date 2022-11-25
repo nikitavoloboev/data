@@ -8,6 +8,8 @@ title: SwiftUI
 
 [Atomic Architecture](https://github.com/ra1028/swiftui-atomic-architecture) lib is neat. [SwiftUI Sample Apps](https://developer.apple.com/tutorials/sample-apps), [Swiftcord](https://github.com/SwiftcordApp/Swiftcord), [CodeEdit](https://github.com/CodeEditApp/CodeEdit) & [Food Truck](https://github.com/apple/sample-food-truck) are nice SwiftUI apps to study. [Jordan's apps](https://github.com/jordansinger?tab=repositories&q=SwiftUI) are nice to study too as they are quite small.
 
+[SwiftUI for Designers](https://swiftui.design/) & [Point-Free](https://www.pointfree.co/) are great resources.
+
 ## Notes
 
 - [Setting a random background color is a great way to detect an accidental SwiftUI loop.](https://twitter.com/steipete/status/1379483193708052480)
@@ -129,6 +131,7 @@ title: SwiftUI
 - [SwiftUI Discussions](https://github.com/sindresorhus/swiftui/discussions) - Place to discuss SwiftUI things.
 - [iOS App Dev with SwiftUI Tutorials](https://developer.apple.com/tutorials/app-dev-training) ([HN](https://news.ycombinator.com/item?id=25424126)) ([Code](https://github.com/atrinh0/scrumdinger))
 - [The Strategic SwiftUI Data Flow Guide](https://matteomanferdini.com/swiftui-data-flow/)
+- [SwiftUI for Designers](https://swiftui.design/)
 - [A Designer’s Guide to SwiftUI](https://swiftui.design/guide) ([Code](https://github.com/philipcdavis/swiftuifordesigners.github.io)) ([Tweet](https://twitter.com/philipcdavis/status/1346141422039281664))
 - [SwiftUI + GraphQL (2021)](https://quintero.io/blog/Graphaello/)
 - [SwiftUI Animation Examples](https://github.com/Inncoder/SwiftUI-Animations)
@@ -265,3 +268,4 @@ title: SwiftUI
 - [SwiftUI Layout Inspector](https://github.com/ole/SwiftUI-LayoutInspector) - Tool for learning how the SwiftUI layout system works, and for debugging your own layout code.
 - [SwiftUI Animations by Tutorials (2022)](https://www.kodeco.com/books/swiftui-animations-by-tutorials)
 - [My Real Challenge with SwiftUI (2022)](https://www.swiftjectivec.com/the-real-challenge-with-swiftui/)
+- [Custom Shape in SwiftUI (2022)](https://www.devtechie.com/community/public/posts/149917-custom-shape-in-swiftui)

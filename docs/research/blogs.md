@@ -222,6 +222,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Coding XR](https://codingxr.com/)
 - [Determinate Systems](https://determinate.systems/posts)
 - [Cliff Biffle](http://cliffle.com/blog/)
+- [Wasim Lorgat](https://wasimlorgat.com/)
 
 ## Notes
 
