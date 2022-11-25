@@ -172,3 +172,4 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [Your Skin Care if $$ was no object (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/z1whp2/if_was_no_object/)
 - [Lasers thread (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/z2m5hu/lasers_thread/)
 - [Вся правда о ботоксе и диспорте](https://www.youtube.com/watch?v=yOkGwa42LA0)
+- [Базовый уход для начинающих | Совсем-совсем начинающих (2020)](https://www.youtube.com/watch?v=6znFbpkuIOE)

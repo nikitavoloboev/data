@@ -143,3 +143,4 @@ Looking into [Railway](https://railway.app/) & [Cloudflare](https://www.cloudfla
 - [googapis](https://github.com/mechiru/googapis) - Rust library generated from Google API using tonic-build.
 - [Emblem Giving](https://github.com/GoogleCloudPlatform/emblem) - Sample application that demonstrates a serverless architecture with continuous delivery, and trouble recovery.
 - [Google Cloud Build community images](https://github.com/GoogleCloudPlatform/cloud-builders-community)
+- [Terraform Examples and Modules for Google Cloud](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)

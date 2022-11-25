@@ -704,3 +704,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Literature Clock](https://literature-clock.jenevoldsen.com/) - Clock using time quotes from the literature, based on the work of Jaap Meijers. ([Code](https://github.com/JohannesNE/literature-clock))
 - [Palm Report Issues 001 — 012](https://www.are.na/share/aRCNPLv)
 - [Awesome Black Friday / Cyber Monday Deals - 2022](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+- [Various tools, trinkets and experiments](https://github.com/Xe/x)

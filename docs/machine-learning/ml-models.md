@@ -128,3 +128,4 @@
 - [FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - Accessible and efficient deployment Development Toolkit.
 - [explainerdashboard](https://github.com/oegedijk/explainerdashboard) - Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.
 - [MatxScript](https://github.com/bytedance/matxscript) - Model pre- and post-processing framework.
+- [Zoltar](https://github.com/spotify/zoltar) - Common library for serving TensorFlow, XGBoost and scikit-learn models in production.

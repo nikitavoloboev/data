@@ -181,3 +181,4 @@
 - [SSVG: Scalable Scalable Vector Graphics](https://github.com/michaschwab/ssvg) - Library to speed up interactive svg-based data visualizations by transforming them into canvases.
 - [vectormaker](https://vectormaker.co/) - Convert PNG-to-SVG Vectors. ([Code](https://github.com/btk/vectorizer))
 - [SVG text to path](https://github.com/paulzi/svg-text-to-path) - Convert SVG nodes to vector font-free elements.
+- [Svgl](https://svgl.vercel.app/) - Beautiful library with SVG logos. ([Code](https://github.com/pheralb/svgl))

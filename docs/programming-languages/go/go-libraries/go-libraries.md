@@ -1915,6 +1915,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Frida-Go](https://github.com/frida/frida-go) - Go bindings for Frida.
 - [RocketMQ Client Go](https://github.com/apache/rocketmq-client-go)
 - [Units](https://github.com/smyrman/units) - Go library that makes it easy to work with physical types, e.g. distances, velocities and angles.
+- [JSON Schema structures for Go](https://github.com/swaggest/jsonschema-go) - Go structures to marshal/unmarshal and reflect JSON Schema documents.
 
 ## Links
 

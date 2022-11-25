@@ -344,6 +344,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Remotion Animated](https://github.com/stefanwittwer/remotion-animated) - Delightful way to animate objects in Remotion.
 - [ILLA Design](https://github.com/illacloud/illa-design) - Fully responsive UI Library for React.
 - [React/NextJS Audio Player](https://github.com/madzadev/audio-player)
+- [React-Symbols](https://github.com/pheralb/react-symbols) - Library for React with the icons of the VSCode theme "Symbols".
 
 ## Links
 

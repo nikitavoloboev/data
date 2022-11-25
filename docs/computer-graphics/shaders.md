@@ -111,3 +111,4 @@ title: Shaders
 - [Shaderfrog GLSL Compiler](https://github.com/ShaderFrog/glsl-parser) - GLSL ES 1.0 and 3.0 parser that can preserve whitespace and comments.
 - [ShaderFrog](https://shaderfrog.com/app) - WebGL shader editor that lets you design shaders without writing code.
 - [Shader Gradient](https://github.com/ruucm/shadergradient) - Curated and customizable 3d gradient package, in modern design tools and React.
+- [ShaderDev](https://github.com/ttddee/ShaderDev) - Desktop application for developing GLSL compute shaders for the purpose of image processing.

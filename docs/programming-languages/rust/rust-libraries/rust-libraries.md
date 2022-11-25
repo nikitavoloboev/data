@@ -2355,6 +2355,7 @@
 - [Gifed](https://github.com/gennyble/gifed) - GIF encoding and decoding library.
 - [envsubst](https://github.com/lucab/envsubst-rs) - Simple Rust library for variables substitution.
 - [nom-supreme](https://github.com/Lucretiel/nom-supreme) - Collection of utilities for a superior nom experience.
+- [arena](https://github.com/ChevyRay/arena) - Compact generational arena data structure for Rust.
 
 ## Cargo Plugins
 

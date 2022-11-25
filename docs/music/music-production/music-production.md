@@ -25,7 +25,7 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [tonal](https://github.com/tonaljs/tonal) - Functional music theory library for JavaScript.
 - [Renoise](https://www.renoise.com/) - Digital Audio Workstation with a unique top-down approach.
 - [Overtone](https://overtone.github.io/) - Open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming. ([HN](https://news.ycombinator.com/item?id=30752148)) ([Basic Setup](https://savo.rocks/posts/overtone-basic-setup/)) ([Starting your Computer Music Journey with Clojure and Overtone in Emacs](https://savo.rocks/posts/starting-your-computer-music-journey-with-clojure-and-overtone-in-emacs/))
-- [Tidal Cycles](https://tidalcycles.org/) - Live coding music with Algorithmic patterns. ([Code](https://github.com/tidalcycles/Tidal))
+- [Tidal Cycles](https://tidalcycles.org/) - Live coding music with Algorithmic patterns. ([Code](https://github.com/tidalcycles/Tidal)) ([Samples](https://github.com/tidalcycles/Clean-Samples))
 - [Music Grid](https://music-grid.surge.sh/) - Simple music grid web app in which you can tap on cells to create music. ([HN](https://news.ycombinator.com/item?id=23512297)) ([Code](https://github.com/irshadshalu/music-grid))
 - [mosh](https://github.com/jamesb93/mosh) - Small command-line application written in Nim for 'moshing' data into audio.
 - [OCellator](http://kevinmahoney.co.uk/ocellator/) - Lispy synth language with structural editor. ([Lobsters](https://lobste.rs/s/td8ddx/ocellator_lispy_synth_language_with))

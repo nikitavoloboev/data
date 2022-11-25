@@ -176,3 +176,4 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [Upscayl](https://upscayl.github.io/) - AI Image Upscaler.
 - [Kandinsky 2.0](https://github.com/ai-forever/Kandinsky-2.0) - Multilingual text2image latent diffusion model.
 - [Dreambooth Extension for Stable-Diffusion-WebUI](https://github.com/d8ahazard/sd_dreambooth_extension)
+- [Dream Bench](https://github.com/nousr/dream-bench) - Tool for benchmarking image generation models.

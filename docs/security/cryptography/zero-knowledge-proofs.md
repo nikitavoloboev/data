@@ -133,3 +133,4 @@ title: Zero knowledge proofs
 - [miniSTARK](https://github.com/andrewmilson/ministark) - GPU accelerated STARK prover and verifier.
 - [RISC Zero](https://www.risczero.com/) - General-Purpose Verifiable Computing.
 - [Zero Knowledge on Ramp](https://github.com/SupremeSingh/Awesome-ZK)
+- [Cairo](https://github.com/starkware-libs/cairo) - Fast compiler for Cairo, written in Rust.

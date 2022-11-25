@@ -473,3 +473,4 @@ I do write Rust, but tried out [Zig](zig/zig.md) when I want to write embedded c
 - [Little Languages Are The Future Of Programming (2022)](https://chreke.com/little-languages.html) ([Lobsters](https://lobste.rs/s/tsh7jd/little_languages_are_future_programming)) ([HN](https://news.ycombinator.com/item?id=33693472))
 - [AutoTransform](https://github.com/nathro/AutoTransform) - Framework for large-scale, automated code modification in a production environment.
 - [(Re)writing an interpreter in Rust (2022)](https://www.dannyvankooten.com/blog/2022-12-rewriting-interpreter-rust/) ([HN](https://news.ycombinator.com/item?id=33704206))
+- [languagetool-code-comments](https://github.com/dustinblackman/languagetool-code-comments) - Integrates the LanguageTool API to parse, spell check, and correct the grammar of your code comments.

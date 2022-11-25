@@ -197,3 +197,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [Datasets, models, interactives, and commentary on carbon removal](https://github.com/carbonplan/research)
 - [How to bury carbon? Let plants do the dirty work](https://worldsensorium.com/how-to-bury-carbon-let-plants-do-the-dirty-work/) ([HN](https://news.ycombinator.com/item?id=32794424))
 - [Prospects for carbon-negative biomanufacturing: Trends in Biotechnology (2022)](<https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(22)00238-4>)
+- [Lobelia](https://www.lobelia.earth/) - Earth Observation to address the climate emergency.

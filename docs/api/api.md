@@ -440,3 +440,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [API Hero](https://github.com/apihero-run/apihero) - Make every API you use faster and more reliable with one line of code.
 - [Metlo](https://github.com/metlo-labs/metlo) - Open-source API security platform. ([Web](https://www.metlo.com/)) ([HN](https://news.ycombinator.com/item?id=33534856))
 - [Nango](https://github.com/NangoHQ/nango) - Easiest way to sync data from external APIs.
+- [spego](https://github.com/kevinswiber/spego) - Set of policies for Open Policy Agent to validate OpenAPI definitions.

@@ -124,3 +124,4 @@ title: TensorFlow
 - [Use GPU with TensorFlow on M1 macs (2022)](https://twitter.com/svpino/status/1578354467572838402)
 - [Building the Future of TensorFlow (2022)](https://blog.tensorflow.org/2022/10/building-the-future-of-tensorflow.html) ([HN](https://news.ycombinator.com/item?id=33286281))
 - [TensorFlow Decision Forests](https://github.com/tensorflow/decision-forests) - Collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras.
+- [tfreader](https://github.com/spotify/tfreader) - TensorFlow TFRecord reader CLI tool.

@@ -71,3 +71,4 @@ title: ActivityPub
 - [Bridgy Fed](https://github.com/snarfed/bridgy-fed) - Connects the IndieWeb with federated social networks using ActivityPub and OStatus.
 - [Takahē](https://jointakahe.org/) - Efficient ActivityPub Server, for small installs with multiple domains. ([HN](https://news.ycombinator.com/item?id=33731739))
 - [Go-Fed](https://go-fed.org/) - ActivityPub in Go. ([HN](https://news.ycombinator.com/item?id=33735101))
+- [Chatter Net](https://github.com/chatternet/chatternet-client-http) - Decentralized semantic web built atop Activity Pub.

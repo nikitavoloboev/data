@@ -210,6 +210,9 @@
 - [Scala Standard Parser Combinator](https://github.com/scala/scala-parser-combinators) - Parsing for Scala.
 - [Airstream](https://github.com/raquo/Airstream) - State propagation and event streams with mandatory ownership and no glitches.
 - [Scala Debug Adapter](https://github.com/scalacenter/scala-debug-adapter) - Implementation of the Debug Adapter Protocol for Scala.
+- [Featran](https://github.com/spotify/featran) - Scala feature transformation library for data science and machine learning.
+- [cats-parse](https://github.com/typelevel/cats-parse) - Parsing library for the cats ecosystem.
+- [avocADO](https://github.com/VirtusLab/avocADO) - Safe compile-time parallelization of for-comprehensions for Scala 3.
 
 ## Links
 
