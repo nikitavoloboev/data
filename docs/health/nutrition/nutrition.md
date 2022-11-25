@@ -10,6 +10,8 @@ I try drink only water/[tea](drinks/tea.md) with occasional [coffee](drinks/coff
 
 [Rhonda Patrick's interview](https://www.youtube.com/watch?v=XcvhERcZpWw&t=582s), [Diet Habits that Built my Physique](https://www.youtube.com/watch?v=iasekg57V3Y) & [What I Eat in a Week](https://youtu.be/rwhUYaWbVUM?t=100) are insightful videos.
 
+I try to include a lot of vegetables and nuts in my diet.
+
 ### Common foods
 
 I try to eat a lot of protein rich [foods](foods.md) as I do daily [exercises](../../fitness/exercises.md) and generally try to live an active life style without sitting too much.

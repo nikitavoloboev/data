@@ -689,6 +689,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [dto](https://github.com/tamj0rd2/dto) - Util type that can turn another type into one that can be transferred over the wire.
 - [JSON-to-Runtypes](https://github.com/runeh/json-to-runtypes) - Convert JSON into runtypes capable of parsing the same JSON shape.
 - [ts-typedefs](https://github.com/Veetaha/ts-typedefs) - Handy collection of TypeScript plain and generic type definitions and interfaces.
+- [optic](https://github.com/fp-ts/optic) - Unified Representation Of Optics.
+- [Schema](https://github.com/fp-ts/schema) - Schema validation with static type inference.
 
 ## Links
 

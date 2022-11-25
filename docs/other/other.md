@@ -705,3 +705,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Palm Report Issues 001 — 012](https://www.are.na/share/aRCNPLv)
 - [Awesome Black Friday / Cyber Monday Deals - 2022](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 - [Various tools, trinkets and experiments](https://github.com/Xe/x)
+- [Dealster](https://dealster.io/)

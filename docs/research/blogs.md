@@ -59,7 +59,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Benjamin Congdon](https://benjamincongdon.me/blog)
 - [Emmanuel Goossaert](http://codecapsule.com/)
 - [Raph Levien](https://raphlinus.github.io/) ([Code](https://github.com/raphlinus/raphlinus.github.io))
-- [Lilian Weng](https://lilianweng.github.io/lil-log/) ([Code](https://github.com/lilianweng/lil-log/tree/gh-pages))
+- [Lilian Weng](https://lilianweng.github.io/) ([Code](https://github.com/lilianweng/lil-log/tree/gh-pages))
 - [Frank McSherry](https://github.com/frankmcsherry/blog)
 - [Serge Zaitsev](https://zserge.com/)
 - [Alastair Reid](https://alastairreid.github.io/)
@@ -223,6 +223,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Determinate Systems](https://determinate.systems/posts)
 - [Cliff Biffle](http://cliffle.com/blog/)
 - [Wasim Lorgat](https://wasimlorgat.com/)
+- [BIT-101](https://www.bit-101.com/blog/)
 
 ## Notes
 
@@ -361,3 +362,4 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [What to blog about (2022)](https://simonwillison.net/2022/Nov/6/what-to-blog-about/) ([HN](https://news.ycombinator.com/item?id=33495295))
 - [Sonic](https://github.com/go-sonic/sonic) - Go Blogging Platform. Simple and Powerful.
 - [Ooh.directory](https://ooh.directory/) - Collection of 852 blogs about every topic. ([HN](https://news.ycombinator.com/item?id=33719983)) ([Tweet](https://twitter.com/philgyford/status/1595429826206253057))
+- [Great engineering long form writing](https://twitter.com/GergelyOrosz/status/1596073995044278272)

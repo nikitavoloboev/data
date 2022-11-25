@@ -1,10 +1,14 @@
 # Natural language processing
 
+Find [generative ML](../machine-learning/generative-machine-learning.md) like [# Stable Diffusion](https://github.com/Stability-AI/stablediffusion) fascinating.
+
 [spaCy](https://spacy.io/) (with their [NLP course](https://github.com/explosion/spacy-course)) & [Fairseq](https://github.com/pytorch/fairseq) are interesting libraries. [Natural Language Processing with Transformers Book](https://transformersbook.com/) is nice book. [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) is probably the best NLP intro out there.
 
-[DALL·E 2](https://openai.com/dall-e-2/) is fascinating. Trying to understand [DALL-E in PyTorch](https://github.com/lucidrains/DALLE-pytorch) implementation.
+[DALL·E 2](https://openai.com/dall-e-2/) is fascinating too. Trying to understand [DALL-E in PyTorch](https://github.com/lucidrains/DALLE-pytorch) implementation.
 
 [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/) is a nice intro.
+
+[LangChain](https://github.com/hwchase17/langchain/) is interesting.
 
 ## Notes
 
@@ -699,3 +703,4 @@
 - [CogIE](https://github.com/jinzhuoran/CogIE) - Information Extraction Toolkit for Bridging Text and CogNet.
 - [T-NER](https://github.com/asahi417/tner) - All-Round Python Library for Transformer-based Named Entity Recognition.
 - [mGPT: Multilingual Generative Pretrained Transformer](https://github.com/ai-forever/mgpt)
+- [LangChain](https://github.com/hwchase17/langchain/) - Building applications with LLMs through composability.

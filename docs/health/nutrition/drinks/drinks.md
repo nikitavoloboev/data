@@ -1,6 +1,6 @@
 # Drinks
 
-I avoid drinking sugary drinks and try drink well brewed [tea](tea.md) where possible. Water otherwise.
+I avoid drinking sugary drinks and try drink well brewed [tea](tea.md) where possible. Water otherwise. I always keep water or tea near me inside my [metal bottle](https://corkcicle.com/products/classic-canteen).
 
 I also drink an occasional [coffee](coffee.md) although I try avoid it as it disrupts my sleep more often than not and gives me focus crashes.
 

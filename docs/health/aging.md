@@ -2,7 +2,7 @@
 
 Aging is a disease and thus can potentially be cured. For example, [Turritopsis dohrnii](http://en.wikipedia.org/wiki/Turritopsis_dohrnii) jelly fish ages backwards.
 
-I personally don't plan to live for long once my body starts truly breaking down of age. I maximize the quality of my [life](../life/life.md) experience through proper [sleep](../sleep/sleep.md), [exercise](../fitness/exercises.md) and having [no stress](../mindfulness/mindfulness.md) optimistic outlook. I don't have any negative thoughts about [death](../life/death.md) as all things end, including [our universe](https://www.youtube.com/watch?v=uD4izuDMUQA). Only thing that's annoying is pain. Especially chronic. So best try avoid that (that includes prisons, [diseases](../medicine/diseases/diseases.md)..).
+I personally don't plan to live for long once my body starts truly breaking down of age. I maximize the quality of my [life](../life/life.md) experience through proper [sleep](../sleep/sleep.md), [exercise](../fitness/exercises.md) and having [no stress](../mindfulness/mindfulness.md) optimistic outlook. I don't have any negative thoughts about [death](../life/death.md) as all things end, including [our universe](https://www.youtube.com/watch?v=uD4izuDMUQA). Only thing that's annoying is pain. Especially chronic. So best [try avoid that](https://twitter.com/statto/status/1595398429018312705) (that includes prisons, [diseases](../medicine/diseases/diseases.md)..).
 
 One way to solve aging sooner is to work on getting closer to [AGI](../machine-learning/artificial-intelligence.md) and have it solve it.
 
@@ -119,5 +119,5 @@ Like the advice of: [try everything, figure out what you do best, make money fro
 - [Small molecule cognitive enhancer reverses age-related memory decline in mice (2022)](https://pubmed.ncbi.nlm.nih.gov/33258451/) ([HN](https://news.ycombinator.com/item?id=33215597))
 - [Data on how we spend our time as we age](https://twitter.com/SahilBloom/status/1591424548280610816)
 - [Collin Ewald | Aging & The Extracellular Matrix (2022)](https://www.youtube.com/watch?v=ohd3bwjySlU) ([Web](https://foresight.org/summary/collin-ewald-aging-the-extracellular-matrix/)G)
-- [Bryan Johnson's anti aging routine](https://twitter.com/maxhertan/status/1595213398358171649)
+- [Bryan Johnson's anti aging routine](https://twitter.com/maxhertan/status/1595213398358171649) ([Does it work](https://twitter.com/statto/status/1595398429018312705))
 - [Women over 30, how do you deal with the effects of aging? (2022)](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/z35yct/women_over_30_how_do_you_deal_with_the_effects_of/)

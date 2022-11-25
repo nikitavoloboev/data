@@ -117,3 +117,4 @@ title: Figma
 - [What should Figma focus on next? (2022)](https://twitter.com/skuwamoto/status/1591453629437050880)
 - [Figma Squircle](https://github.com/tienphaw/figma-squircle) - Figma-flavored squircles for everyone.
 - [Figma Platformer Engine](https://github.com/alyssaxuu/figma-platformer-engine) - Build a platformer straight from Figma without code.
+- [How to prepare prototype with button component that highlights while hovering in Figma](https://twitter.com/thalion_pb/status/1596134736056836096)

@@ -218,3 +218,4 @@ One thing I learned is to always be proactive with cold approaching people, just
 - [Effective Sync Meetings (2022)](https://blog.jonm.dev/posts/effective-sync-meetings/)
 - [Record and transcribe your meetings + more tips (2022)](https://twitter.com/berman66/status/1590769320766099456)
 - [Ask HN: Why do some people not communicate clearly? (2022)](https://news.ycombinator.com/item?id=33656909)
+- [Many meetings during the day affect you negatively](https://twitter.com/bunopus/status/1596036735024128004)

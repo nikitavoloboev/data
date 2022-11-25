@@ -35,3 +35,5 @@ I mention exercises I do [here](fitness.md).
 - [Bodyweight exercises for back](https://www.reddit.com/r/bodyweightfitness/comments/z237y5/question_about_working_back_with_just_bodyweight/)
 - [14 Calisthenics Exercises on Gymnastics Rings - for every Level](https://www.gornation.com/blogs/news/exercises-gymnastics-rings)
 - [GORNATION](https://www.gornation.com/) - Equipment & Clothing for Calisthenics & Street Workout.
+- [The Best Butt Exercises For Men (the Only 4 You Need)](https://www.youtube.com/watch?v=YHTJusT51Zs)
+- [How To Unlock Your Mobility in 5 Minutes (daily stretch)](https://www.youtube.com/watch?v=sOuKeVuej9E)

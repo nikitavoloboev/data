@@ -80,3 +80,4 @@
 - [msgpack-tools](https://github.com/ludocode/msgpack-tools) - Command-line tools for converting between MessagePack and JSON.
 - [ADBC: Arrow Database Connectivity](https://github.com/apache/arrow-adbc)
 - [hext](https://github.com/gennyble/hext) - Binary File Markup Language.
+- [MP4 file encoding explained visually](https://twitter.com/angealbertini/status/1595845629510647808)

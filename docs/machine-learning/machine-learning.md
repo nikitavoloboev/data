@@ -4,6 +4,8 @@
 
 Looking into using [envd](https://github.com/tensorchord/envd) together with [PyTorch Lightning](https://www.pytorchlightning.ai/) for my ML experiments.
 
+[Lilian's Blog](https://lilianweng.github.io/) is superb.
+
 ## Notes
 
 - A big part of the utility of math (especially in ML) is having breadth rather than depth. The strategy of picking out specific things you don't know from papers and looking them up is only effective if you have the breadth in your background to understand the answers you find.
@@ -988,3 +990,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Uni-Perceiver models](https://github.com/fundamentalvision/Uni-Perceiver)
 - [Compiler Provenance Recovery for Multi-CPU Architectures Using a Centrifuge Mechanism (2022)](https://arxiv.org/abs/2211.13110)
 - [Efficient AI Backbones](https://github.com/huawei-noah/Efficient-AI-Backbones) - Including GhostNet, TNT (Transformer in Transformer), AugViT, WaveMLP and ViG developed by Huawei Noah's Ark Lab.
+- [Some Math behind Neural Tangent Kernel (2022)](https://lilianweng.github.io/posts/2022-09-08-ntk/)

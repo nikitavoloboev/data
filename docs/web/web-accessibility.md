@@ -1,6 +1,6 @@
 # Web accessibility
 
-[Learn Accessibility](https://web.dev/learn/accessibility/) is great intro.
+[Learn Accessibility](https://web.dev/learn/accessibility/) & [Build Accessible Web Apps](https://testingaccessibility.com/) are great intros.
 
 ## Notes
 

@@ -14,7 +14,7 @@ Go promotes composition over inheritance.
 
 [GoReleaser](https://github.com/goreleaser/goreleaser) is useful for publishing. [revive](https://github.com/mgechev/revive) & [Staticcheck](https://github.com/dominikh/go-tools) are great linters.
 
-Only thing I dislike about Go is it's verbosity especially with respect to errors. But that decision was made so all programmers are forced to not only consider the happy paths of their code & write proper error logging.
+Only thing I dislike about Go is it's verbosity especially with respect to [errors](https://www.youtube.com/watch?v=raJGZaIPhOc). But that decision was made so all programmers are forced to not only consider the happy paths of their code & write proper error logging.
 
 That said, I am exploring writing more code in [Rust](../rust/rust.md) specifically because of [Tauri](../rust/rust-libraries/tauri.md).
 

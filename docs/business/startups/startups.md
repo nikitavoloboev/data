@@ -83,6 +83,7 @@
 - [Entrepreneurship isn’t about having the right idea. It’s about having an idea and not running out of money until you figure out what makes it right.](https://twitter.com/_shahedk/status/1536727913629773826)
 - [Once you’ve found product market fit, delegating almost everything to people way smarter than you should be your main goal as a startup founder.](https://twitter.com/agazdecki/status/1571987984580513793)
 - [Be bold and do many experiments.](https://twitter.com/FoundersPodcast/status/1581803172879749121)
+- [Winner-take-all effects are a lot rarer and more ephemeral than people thought. Not just gig companies either -- Facebook, Netflix, and many others didn't have invincible network effects.](https://twitter.com/Noahpinion/status/1596223249075298304)
 
 ## Links
 

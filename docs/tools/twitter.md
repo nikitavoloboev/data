@@ -10,7 +10,7 @@ I also find it [frustrating that Twitter iOS client doesn't have the ability to 
 
 [How does Twitter work](https://www.youtube.com/watch?v=z6xslDMimME) is nice overview of [Twitter tech](https://twitter.com/_dml/status/1592619959947243520).
 
-I am honestly not happy with Twitter being ruled by one person who can [ban accounts on a whim](https://twitter.com/dmoren/status/1595490311513509900). Trying to get [Mastodon](../social-networks/mastodon.md) working smoother with better onboarding. But also partly trying to build a Twitter alternative with [LA](../ideas/learn-anything.md). The key thing is that it will be open source.
+I am honestly not happy with Twitter being ruled by [one person](https://twitter.com/carterforva/status/1596136798941503492) who can [ban accounts on a whim](https://twitter.com/dmoren/status/1595490311513509900). Trying to get [Mastodon](../social-networks/mastodon.md) working smoother with better onboarding. But also partly trying to build a Twitter alternative with [LA](../ideas/learn-anything.md). The key thing is that it will be open source.
 
 I can't imagine Twitter competing when an alternative with all same features (+ more) and ability to scale to millions of users but most importantly is open source and with non dictatorial ruling policy. In case of LA, I plan to tackle overtaking Twitter in some ways by making a tool that is an extension of your knowledge base where you can partly share parts of your thoughts/notes/ideas and stream it to feeds of your followers. The followers can then be able to filter out for kinds of things they want to see too, only ideas or only notes or general thoughts or photos.
 

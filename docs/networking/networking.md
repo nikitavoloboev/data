@@ -553,3 +553,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Exploiting Protocols for Fun (2022)](https://matt-rickard.com/exploiting-protocols-for-fun)
 - [User-space network protocol stack written in Rust](https://github.com/ykskb/rust-user-net)
 - [MPIS](https://github.com/apernet/mpis) - Multiprotocol IP Switching.
+- [A Theory of Composing Protocols (2022)](https://programming-journal.org/2023/7/6/)
+- [Cloudflare servers don't own IPs anymore so how do they connect to the internet? (2022)](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/) ([HN](https://news.ycombinator.com/item?id=33742563))

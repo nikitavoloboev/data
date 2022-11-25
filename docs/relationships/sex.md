@@ -4,6 +4,8 @@
 
 [Come as You Are](https://www.goodreads.com/en/book/show/22609341) is great book.
 
+[SKYN Ultra Thin](https://skynfeel.com/collections/elite) make nice condoms. Although it's best to get tested and use other birth controls like [NuvaRing](https://www.nuvaring.com/) once you find a [stable partner](relationships.md).
+
 ## Notes
 
 - [Don't have PIV sex immediately as it can be painful and unpleasant. Foreplay is important. Be gentle. Can give her an orgasm without any PIV involved easily.](https://www.reddit.com/r/AskMen/comments/mehb1d/why_is_there_this_weird_perception_that_the_sex/)
@@ -146,3 +148,4 @@
 - [NuvaRing](https://www.nuvaring.com/) - Small, flexible vaginal ring used to prevent pregnancy. ([Review](https://www.youtube.com/watch?v=NS0tXmdQv5g&t=285s))
 - [Birth Control Reddit](https://www.reddit.com/r/birthcontrol/)
 - [О контрацепции с гинекологом Кариной Бондаренко (2021)](https://www.youtube.com/watch?v=9ngpK8qWTJc)
+- [FC2 Female Condom](https://fc2.us.com/)

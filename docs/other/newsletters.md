@@ -4,6 +4,7 @@
 
 ## Interesting
 
+- [Neural Network Newsletter - Huberman Lab](https://hubermanlab.com/neural-network/)
 - [The Pragmatic Engineer](https://www.pragmaticengineer.com/)
 - [A Byte of Coding](https://abyteofcoding.com/)
 - [Dense Discovery](https://www.densediscovery.com/) - Weekly newsletter on tech, design, culture & sustainability.
