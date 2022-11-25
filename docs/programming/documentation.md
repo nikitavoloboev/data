@@ -212,3 +212,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [roc](https://github.com/sminez/roc) - Rust command line documentation searching.
 - [High-documentation, low-meeting work culture (2022)](https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture) ([HN](https://news.ycombinator.com/item?id=33707022))
 - [Diátaxis](https://diataxis.fr/) - Systematic framework for technical documentation authoring. ([HN](https://news.ycombinator.com/item?id=33721314))
+- [Writing docs well: why should a software engineer care? (2022)](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/)

@@ -2356,6 +2356,7 @@
 - [envsubst](https://github.com/lucab/envsubst-rs) - Simple Rust library for variables substitution.
 - [nom-supreme](https://github.com/Lucretiel/nom-supreme) - Collection of utilities for a superior nom experience.
 - [arena](https://github.com/ChevyRay/arena) - Compact generational arena data structure for Rust.
+- [os_pipe.rs](https://github.com/oconnor663/os_pipe.rs) - Cross-platform library for opening OS pipes in Rust.
 
 ## Cargo Plugins
 
