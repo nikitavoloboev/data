@@ -154,6 +154,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [uniborg](https://github.com/udf/uniborg) - Pluggable asyncio Telegram userbot based on Telethon.
 - [Notion Help Bot](https://github.com/reycn/notion-help-bot) - Notion-backend Telegram bot.
 - [Reputation telegram bot](https://github.com/skrylnikov/Vsratometr-tg-bot)
+- [Telegram Channel Comments Helper](https://github.com/Rongronggg9/comments-helper-bot)
 
 ## Notes
 

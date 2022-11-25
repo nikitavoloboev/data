@@ -687,6 +687,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Mela Decoder](https://github.com/markmals/mela-decoder-js) - Parse recipe files exported from the iOS app Mela.
 - [Unplugin-AST](https://github.com/sxzz/unplugin-ast) - Manipulate the AST to transform your code.
 - [dto](https://github.com/tamj0rd2/dto) - Util type that can turn another type into one that can be transferred over the wire.
+- [JSON-to-Runtypes](https://github.com/runeh/json-to-runtypes) - Convert JSON into runtypes capable of parsing the same JSON shape.
 
 ## Links
 

@@ -695,3 +695,7 @@
 - [Generate conversation starters given two personalities using AI](https://github.com/langa-me/chat-example)
 - [MetaICL: Learning to Learn In Context (2021)](https://arxiv.org/abs/2110.15943) ([Code](https://github.com/facebookresearch/MetaICL))
 - [PAL: Program-aided Language Models (2022)](https://arxiv.org/abs/2211.10435) ([Code](https://github.com/reasoning-machines/pal))
+- [ReAct: Synergizing Reasoning and Acting in Language Models (2022)](https://arxiv.org/abs/2210.03629) ([Code](https://github.com/ysymyth/ReAct))
+- [CogIE](https://github.com/jinzhuoran/CogIE) - Information Extraction Toolkit for Bridging Text and CogNet.
+- [T-NER](https://github.com/asahi417/tner) - All-Round Python Library for Transformer-based Named Entity Recognition.
+- [mGPT: Multilingual Generative Pretrained Transformer](https://github.com/ai-forever/mgpt)

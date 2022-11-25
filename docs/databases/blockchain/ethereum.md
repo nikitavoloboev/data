@@ -726,3 +726,5 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Upgrading Ethereum](https://eth2book.info/) - Technical handbook on Ethereum's move to proof of stake and beyond. ([Code](https://github.com/benjaminion/upgrading-ethereum-book))
 - [Starkli](https://github.com/xJonathanLEI/starkli) - Blazing fast CLI tool for StarkNet.
 - [Solidify](https://github.com/proofxyz/solidify) - Go + solidity library aimed to make storing arbitrary data on EVM blockchains as easy and efficient as possible.
+- [StarkNet React](https://github.com/apibara/starknet-react) - Collection of React providers and hooks for StarkNet.
+- [Apibara](https://github.com/apibara/apibara) - Composable streams of web3 data.

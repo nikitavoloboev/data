@@ -116,3 +116,4 @@
 - [How we Eliminated 99% of gVisor Networking Memory Allocations with Enhanced Buffer Pooling (2022)](https://gvisor.dev/blog/2022/10/24/buffer-pooling/)
 - [Memory safety in C++, Zig, & Rust (2022)](https://www.youtube.com/watch?v=qeiRGbYCD-0)
 - [samsara](https://github.com/chc4/samsara) - Reference-counting cycle collection library in rust.
+- [xv6: How exactly is memory addressed? (2020)](https://yohei.codes/post/xv6-memory-1/)

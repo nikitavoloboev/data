@@ -126,3 +126,4 @@
 - [Awesome Node-Based UIs](https://github.com/wbkd/awesome-node-based-uis)
 - [CodyHouse](https://codyhouse.co/) - Lightweight front-end framework for building accessible, bespoke interfaces. ([Code](https://github.com/CodyHouse/codyhouse-framework))
 - [OSS Is Out to End the Framework Wars: Jamstack Conf 2022 Opening Keynote](https://www.youtube.com/watch?v=bPTZmUR7z90)
+- [Zoid](https://github.com/krakenjs/zoid) - Cross-domain component toolkit.

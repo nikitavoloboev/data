@@ -140,3 +140,4 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Heroku Free Alternatives](https://github.com/Engagespot/heroku-free-alternatives) ([HN](https://news.ycombinator.com/item?id=33300053))
 - [Approaches in Cloud Development Ergonomics (2022)](https://metalbear.co/blog/approaches-in-cloud-development-ergonomics/)
 - [Leapp](https://www.leapp.cloud/) - DevTool to access your cloud. ([Code](https://github.com/Noovolari/leapp))
+- [OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO).

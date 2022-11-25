@@ -174,3 +174,5 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [Stable Diffusion 2.0 (2022)](https://stability.ai/blog/stable-diffusion-v2-release) ([HN](https://news.ycombinator.com/item?id=33726816)) ([Reddit](https://www.reddit.com/r/StableDiffusion/comments/z36mm2/stable_diffusion_20_announcement/)) ([Code](https://github.com/Stability-AI/stablediffusion))
 - [Generate photo-realistic images from text using Stable Diffusion](https://getimg.ai/text-to-image)
 - [Upscayl](https://upscayl.github.io/) - AI Image Upscaler.
+- [Kandinsky 2.0](https://github.com/ai-forever/Kandinsky-2.0) - Multilingual text2image latent diffusion model.
+- [Dreambooth Extension for Stable-Diffusion-WebUI](https://github.com/d8ahazard/sd_dreambooth_extension)

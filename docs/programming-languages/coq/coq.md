@@ -4,6 +4,8 @@ title: Coq
 
 # [Coq](https://coq.inria.fr/)
 
+[Tricks in Coq](https://github.com/tchajed/coq-tricks) is nice read.
+
 ## Links
 
 - [Coq Docs](https://coq.inria.fr/distrib/current/refman/index.html)
@@ -173,3 +175,5 @@ title: Coq
 - [Bidirectional Programming with Monadic Profunctors](https://github.com/Lysxia/profunctor-monad)
 - [CoLoR](https://github.com/fblanqui/color) - Coq library on rewriting theory and termination.
 - [Choice Trees: Representing Nondeterministic, Recursive, and Impure Programs in Coq (2022)](https://arxiv.org/abs/2211.06863)
+- [Goose](https://github.com/tchajed/goose) - Converts a small subset of Go to Coq.
+- [simp_lang](https://github.com/tchajed/iris-simp-lang) - Simple programming language that we instantiate Iris with.

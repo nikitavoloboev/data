@@ -6,6 +6,8 @@ title: RSS
 
 Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. Previously used [Inoreader](https://www.inoreader.com/) but it was too expensive.
 
+[RSSHub](https://github.com/DIYgod/RSSHub) is useful.
+
 ## Notes
 
 - Can subscribe to Pinboard via RSS.
@@ -189,3 +191,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [Medium Feed](https://github.com/haydenbleasel/medium-feed) - Handy RSS to JSON parser for Medium.
 - [Feedle](https://feedle.world/) - Search engine for blogs and podcasts with RSS.
 - [RSS Nix](https://github.com/jafarlihi/rssnix) - Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader. ([HN](https://news.ycombinator.com/item?id=33675361))
+- [RSS to Telegram Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - Telegram RSS bot that cares about your reading experience.

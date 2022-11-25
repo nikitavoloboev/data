@@ -609,3 +609,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pg_hexedit](https://github.com/petergeoghegan/pg_hexedit) - Open PostgreSQL relation files in a hex editor with tags and annotations.
 - [PostgreSQL ERROR: permission denied for schema public (2022)](https://www.cybertec-postgresql.com/en/error-permission-denied-schema-public/)
 - [Gonymizer](https://github.com/smithoss/gonymizer) - Tool to Anonymize Sensitive PostgreSQL Data Tables for Use in QA and Testing.
+- [semver](https://github.com/theory/pg-semver) - Semantic version data type for PostgreSQL.

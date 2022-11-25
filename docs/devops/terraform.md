@@ -210,3 +210,4 @@ title: Terraform
 - [Terraform-diff](https://github.com/contentful-labs/terraform-diff) - Detect what Terraform projects have changed when changes are made to Terraform modules.
 - [Cloudflare uses Terraform to manage Cloudflare (2022)](https://blog.cloudflare.com/terraforming-cloudflare-at-cloudflare/)
 - [Terraform tree](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
+- [protoc-gen-terraform](https://github.com/gravitational/protoc-gen-terraform) - Generates Terraform provider schemas and unmarshallers from protobuf definitions.

@@ -987,3 +987,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Deep Image Processing](https://github.com/t-kuha/deep-image-processing)
 - [Uni-Perceiver models](https://github.com/fundamentalvision/Uni-Perceiver)
 - [Compiler Provenance Recovery for Multi-CPU Architectures Using a Centrifuge Mechanism (2022)](https://arxiv.org/abs/2211.13110)
+- [Efficient AI Backbones](https://github.com/huawei-noah/Efficient-AI-Backbones) - Including GhostNet, TNT (Transformer in Transformer), AugViT, WaveMLP and ViG developed by Huawei Noah's Ark Lab.

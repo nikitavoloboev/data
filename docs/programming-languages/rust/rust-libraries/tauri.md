@@ -10,6 +10,8 @@ title: Tauri
 
 ## OSS Tauri apps
 
+- [Dropcode](https://github.com/egoist/dropcode)
+- [Twidge](https://github.com/twidgeapp/twidge) - Productivity app which is an extension to your mind.
 - [Stable Diffussion Buddy](https://github.com/breadthe/sd-buddy) - Companion desktop app for the self-hosted M1 Mac version of Stable Diffusion.
 - [TaurApp](https://github.com/erayerdin/taurapp) - WhatsApp desktop client powered by Tauri and Rust.
 - [Emberry](https://github.com/emberry-org/emberry) - P2P Chat powered by Tauri and Svelte.

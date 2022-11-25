@@ -76,6 +76,7 @@
 - [OpenMfx](https://github.com/eliemichel/OpenMfx) - Low-overhead mesh-processing plug-in API for cross-software procedural effects.
 - [Mesh2SDF](https://github.com/wang-ps/mesh2sdf) - Converts an input mesh to a signed distance field (SDF).
 - [GTSAM](https://github.com/borglab/gtsam) - C++ library that implements smoothing and mapping (SAM) in robotics and vision, using Factor Graphs and Bayes Networks.
+- [VERA](https://github.com/patriciogonzalezvivo/vera) - C++/WASM Graphic Framework.
 
 ## DB
 
