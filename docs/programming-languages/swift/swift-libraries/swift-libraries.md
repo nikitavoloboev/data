@@ -1331,6 +1331,7 @@
 - [BlueSwift](https://github.com/netguru/BlueSwift) - Swift framework for easy connection with Bluetooth peripherals.
 - [SwiftTypeReader](https://github.com/omochi/SwiftTypeReader) - Gather type definitions from Swift source code.
 - [FineJSON](https://github.com/omochi/FineJSON) - More useful JSONEncoder, Decoder.
+- [Swime](https://github.com/sendyhalim/Swime) - Swift MIME type checking based on magic bytes.
 
 ## Other (not lib)
 

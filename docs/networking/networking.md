@@ -552,3 +552,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [SocketHub](https://github.com/sockethub/sockethub) - Multi-protocol gateway for the Web using ActivityStream messages.
 - [Exploiting Protocols for Fun (2022)](https://matt-rickard.com/exploiting-protocols-for-fun)
 - [User-space network protocol stack written in Rust](https://github.com/ykskb/rust-user-net)
+- [MPIS](https://github.com/apernet/mpis) - Multiprotocol IP Switching.

@@ -7,6 +7,8 @@ I personally love [psilocybin mushrooms](https://en.wikipedia.org/wiki/Psilocybi
 ## Interesting
 
 - [Master Blend Mushroom Extracts](https://vibemushrooms.ca/products/master-blend)
+- [Organic Lion’s Mane Mushroom Powder](https://mushrooms4life.com/shop/lions-mane-mushroom-powder-60g/)
+- [Organic MyComplex Mushroom Powder](https://mushrooms4life.com/shop/mushroom-complex-powder-60g/)
 
 ## Notes
 

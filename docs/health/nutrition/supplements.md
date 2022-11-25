@@ -4,8 +4,8 @@ Every [morning](../../focusing/processes.md#morning), after I do a [workout](../
 
 - 2 scoops of [Clean Lean Protein (Just Natural taste)](https://www.nuzest.co.uk/products/clean-lean-protein) (~ 25g)
 - 1 scoop of [Good Green Vitality](https://www.nuzest.co.uk/products/good-green-vitality) (~ 10g)
-- 1 table spoon of [Organic MyComplex Mushroom Powder](https://mushrooms4life.com/shop/mushroom-complex-powder-60g/)
-- 1 table spoon of [Organic Lion’s Mane Mushroom Powder](https://mushrooms4life.com/shop/lions-mane-mushroom-powder-60g/)
+- 1 table spoon of [Cordyceps Mushroom Powder](https://nootropicsdepot.com/cordyceps-militaris-10-1-whole-fruiting-body-medicinal-mushroom-extract-powder/)
+- 1 table spoon of [Lion's Mane Mushroom Powder](https://nootropicsdepot.com/lions-mane-mushroom-powder-8-1-extract/)
 - 2 raw eggs
 - Spinach (for extra fiber)
 - Frozen blueberries (for better taste + healthy)

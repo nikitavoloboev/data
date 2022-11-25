@@ -4,7 +4,7 @@ Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/
 
 In general, I love [Christian Sieber](https://www.instagram.com/christiansieber/)'s style, although maybe a bit more casual than that. [Alex Rivière](https://www.instagram.com/ariviere/)'s style is great too so as her [clothing line's IG photos](https://www.instagram.com/alexrivierestudio/). Also [Casatlantic](https://www.casatlantic.com/) is [great](https://twitter.com/dieworkwear/status/1595696287726243842).
 
-Still exploring different kinds of clothing styles. But for now, I can say [Björn Borg](https://www.bjornborg.com/en/) has great underwear.
+Still exploring different kinds of clothing styles. I currently mostly use [Björn Borg](https://www.bjornborg.com/en/)'s underwear/shirts/trousers/socks/shoes. Love their quality and minimal style.
 
 ## Interesting
 

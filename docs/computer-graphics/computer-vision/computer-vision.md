@@ -1006,3 +1006,4 @@
 - [LaTr: Layout-Aware Transformer for Scene-Text VQA (2021)](https://arxiv.org/abs/2112.12494) ([Code](https://github.com/uakarsh/latr))
 - [ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers (2022)](https://github.com/jkulhanek/viewformer)
 - [SinDiffusion: Learning a Diffusion Model from a Single Natural Image (2022)](https://arxiv.org/abs/2211.12445) ([Code](https://github.com/WeilunWang/SinDiffusion))
+- [CLIP4Cir](https://github.com/ABaldrati/CLIP4Cir) - CLIP for Conditioned image retrieval training code.

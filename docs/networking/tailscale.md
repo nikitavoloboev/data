@@ -28,3 +28,4 @@ title: Tailscale
 - [connecti](https://github.com/jaxxstorm/connecti) - Command line tool to quickly connect you to cloud infrastructure via Tailscale.
 - [golink](https://github.com/tailscale/golink) - Private shortlink service for your tailnet. It lets you create short, memorable links for the websites you and your team use most.
 - [Tailscale Funnel (2022)](https://tailscale.com/blog/introducing-tailscale-funnel/) ([HN](https://news.ycombinator.com/item?id=33648341))
+- [HashiCorp Vault plugin for managing Tailscale authentication keys](https://github.com/davidsbond/vault-plugin-tailscale)
