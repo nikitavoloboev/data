@@ -220,3 +220,4 @@ title: Vue.js
 - [Nuxt Typography](https://github.com/nuxt-themes/typography) - Nuxt theme to get a beautiful and customisable typography with Nuxt Content.
 - [Vue-Sprinkles](https://github.com/wobsoriano/vue-sprinkles) - Composable to create a component from your vanilla-extract + sprinkles tokens.
 - [SWC Plugin for Vue JSX](https://github.com/g-plane/swc-plugin-vue-jsx)
+- [Numix](https://github.com/wobsoriano/numix) - Write your server code inside Vue SFC's and handle forms easily.
