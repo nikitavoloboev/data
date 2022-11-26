@@ -274,3 +274,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [How LiteFS Works](https://fly.io/docs/litefs/how-it-works/) ([HN](https://news.ycombinator.com/item?id=33675439))
 - [SQLite WASM Vite](https://github.com/overtone-app/sqlite-wasm-esm)
 - [SQLite3MultipleCiphers](https://github.com/utelle/SQLite3MultipleCiphers) - SQLite3 encryption extension with support for multiple ciphers.
+- [Fast SQLite Inserts](https://github.com/avinassh/fast-sqlite3-inserts) - Test scripts to generate a SQLite DB with 1B rows in fastest possible way. ([Lobsters](https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck#c_4az0a6))

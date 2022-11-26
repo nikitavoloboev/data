@@ -434,3 +434,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Cinematic](https://github.com/Simonwep/cinematic) - Ultra tiny library to add cinematics to your HTML5 videos.
 - [YouTube Upload](https://github.com/tokland/youtube-upload) - Upload videos to YouTube from the command line.
 - [How to Film Your First YouTube Video | A Technical Guide](https://www.youtube.com/watch?v=cdaHx2AdiDE)
+- [Insta360 Link](https://www.insta360.com/product/insta360-link) - AI-powered 4K webcam. ([Review](https://twitter.com/ilyamiskov/status/1596491089149841409))

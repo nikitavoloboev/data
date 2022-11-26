@@ -197,3 +197,4 @@ Starting social networks is hard. I liked steps [Gas](https://gasapp.co/) app to
 - [Meower: Social Network for Cats](https://github.com/tinrab/meower) - Code for the Building a Microservices Application in Go Following the CQRS Pattern article.
 - [Moderation is different from censorship (2022)](https://astralcodexten.substack.com/p/moderation-is-different-from-censorship) ([HN](https://news.ycombinator.com/item?id=33446064))
 - [CommunityRule](https://communityrule.info/) - Governance toolkit for great communities. ([HN](https://news.ycombinator.com/item?id=33584360))
+- [instadiff-cli](https://github.com/obalunenko/instadiff-cli) - Command line tool for managing Instagram account followers and followings.

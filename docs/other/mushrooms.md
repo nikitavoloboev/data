@@ -9,6 +9,8 @@ I personally love [psilocybin mushrooms](https://en.wikipedia.org/wiki/Psilocybi
 - [Master Blend Mushroom Extracts](https://vibemushrooms.ca/products/master-blend)
 - [Organic Lion’s Mane Mushroom Powder](https://mushrooms4life.com/shop/lions-mane-mushroom-powder-60g/)
 - [Organic MyComplex Mushroom Powder](https://mushrooms4life.com/shop/mushroom-complex-powder-60g/)
+- [NootropicsDepot Cordyceps Mushroom Powder](https://nootropicsdepot.com/cordyceps-militaris-10-1-whole-fruiting-body-medicinal-mushroom-extract-powder/)
+- [NootropicsDepot Lion's Mane Mushroom Powder](https://nootropicsdepot.com/lions-mane-mushroom-powder-8-1-extract/)
 
 ## Notes
 
