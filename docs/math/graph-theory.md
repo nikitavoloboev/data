@@ -4,6 +4,8 @@ title: Graph theory
 
 # [Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
 
+Love what [Andrei](https://github.com/anvaka) is doing with graphs.
+
 ## Links
 
 - [Graphs (2019)](https://blog.yoshuawuyts.com/graphs/)

@@ -175,3 +175,4 @@ I try to avoid pointless politics as much as possible but do like [John Mearshei
 - [O-1 Visa USA vs UK Global Talent Visa: What’s better (2022)](https://www.youtube.com/watch?v=Uksw7zrFr4A)
 - [10 things underrated about America (2022)](https://twitter.com/zachtratar/status/1593401522792046592)
 - [The H-1b visa has problems, but it's not hurting U.S. workers (2022)](https://noahpinion.substack.com/p/the-h-1b-visa-has-problems-but-its)
+- [The Bedrock Geology of North America](https://www.reddit.com/r/dataisbeautiful/comments/z4u9yr/oc_the_bedrock_geology_of_north_america/)

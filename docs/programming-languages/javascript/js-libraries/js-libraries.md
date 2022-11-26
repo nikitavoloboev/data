@@ -1156,3 +1156,4 @@
 - [npmfs](https://github.com/g-harel/npmfs) - JS package inspector.
 - [vtui-npm](https://github.com/webfansplz/vtui-npm) - Interactive CLI for npm - search and install JavaScript package.
 - [rsx](https://github.com/norskeld/rsx) - Micro CLI for interactive execution of npm & yarn scripts.
+- [Sourcemapper](https://github.com/denandz/sourcemapper) - Extract JavaScript source trees from Sourcemap files.
