@@ -969,3 +969,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [A Better Way to Borrow in Rust: Stack Tokens (2022)](https://lucumr.pocoo.org/2022/11/23/stack-tokens/) ([Reddit](https://www.reddit.com/r/rust/comments/z2jk23/a_better_way_to_borrow_in_rust_stack_tokens/)) ([Code](https://github.com/mitsuhiko/stack-tokens))
 - [Safely writing code that isn't thread-safe (2022)](http://cliffle.com/blog/not-thread-safe/) ([HN](https://news.ycombinator.com/item?id=33713612))
 - [Threads and messages with Rust and WebAssembly (2022)](https://www.tweag.io/blog/2022-11-24-wasm-threads-and-messages/)
+- [Rust Docker Cheatsheet](https://github.com/tbillington/rust-docker-cheatsheet) - Notes on building and running Rust binaries in Docker.

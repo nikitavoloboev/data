@@ -728,3 +728,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Solidify](https://github.com/proofxyz/solidify) - Go + solidity library aimed to make storing arbitrary data on EVM blockchains as easy and efficient as possible.
 - [StarkNet React](https://github.com/apibara/starknet-react) - Collection of React providers and hooks for StarkNet.
 - [Apibara](https://github.com/apibara/apibara) - Composable streams of web3 data.
+- [Uniswap-Rs](https://github.com/DaniPopes/uniswap-rs) - Unofficial Rust SDK library for Uniswap smart contracts.

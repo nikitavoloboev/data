@@ -101,3 +101,4 @@
 - [Reed-Solomon Error Correcting Codes from the Bottom Up (2022)](https://tomverbeure.github.io/2022/08/07/Reed-Solomon.html)
 - [Spiral’s Homomorphic Encryption – Is This the Future of Privacy? (2022)](https://www.21analytics.ch/blog/spirals-homomorphic-encryption-is-this-the-future-of-privacy/) ([HN](https://news.ycombinator.com/item?id=33690736))
 - [Sunscreen](https://github.com/Sunscreen-tech/Sunscreen) - Compiler for the BFV fully homomorphic encryption scheme.
+- [Crypto helper](https://crypto.qkation.com/) - Web app that can hash, encrypt, and sign the data on the client side. ([Code](https://github.com/TheBestTvarynka/crypto-helper))

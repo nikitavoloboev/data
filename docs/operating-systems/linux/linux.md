@@ -638,3 +638,4 @@ title: Linux
 - [Tiniest x86-64-Linux emulator](https://github.com/jart/blink) ([HN](https://news.ycombinator.com/item?id=33675462))
 - [Deterministic Linux for controlled testing and software bug-finding (2022)](https://developers.facebook.com/blog/post/2022/11/22/hermit-deterministic-linux-testing/) ([HN](https://news.ycombinator.com/item?id=33708867))
 - [A Programmer-Friendly I/O Abstraction Over io_uring and kqueue (2022)](https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/) ([HN](https://news.ycombinator.com/item?id=33721075))
+- [Longhorn Engine](https://github.com/longhorn/longhorn-engine) - Lightweight block device storage controller capable of storing the data in a number of replicas. It functions like a network RAID controller.

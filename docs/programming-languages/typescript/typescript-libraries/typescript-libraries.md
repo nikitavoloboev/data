@@ -678,6 +678,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [JavaScript Stringify](https://github.com/blakeembrey/javascript-stringify) - Stringify is to eval as JSON.stringify is to JSON.parse.
 - [Polymorphic](https://github.com/chakra-ui/polymorphic) - Create polymorphic React/SolidJS components with a customizable styled function.
 - [iter-ops](https://github.com/vitaly-t/iter-ops) - Basic operations on iterables.
+- [iter-ops-extras](https://github.com/vitaly-t/iter-ops-extras) - Collection of custom operators for iter-ops.
 - [parse-favicon](https://github.com/BlackGlory/parse-favicon) - Parse HTML to get icon information.
 - [Beet](https://github.com/metaplex-foundation/beet) - Borsh compatible De/Serializer.
 - [msgpack-ts](https://github.com/samclaus/msgpack-ts) - Fastest TypeScript MessagePack implementation.

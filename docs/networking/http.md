@@ -310,3 +310,4 @@ title: HTTP
 - [Append data to the url query (2022)](https://daniel.haxx.se/blog/2022/11/10/append-data-to-the-url-query/) ([HN](https://news.ycombinator.com/item?id=33545786))
 - [Tracing HTTP Requests with tcpflow (2022)](https://ananthakumaran.in/2022/11/12/trace-http-requests.html) ([HN](https://news.ycombinator.com/item?id=33570334))
 - [CurliPie](https://github.com/hongquan/CurliPie) - Convert cURL command to HTTPie.
+- [httpYac](https://github.com/AnWeber/httpyac) - Quickly and easily send REST, SOAP, GraphQL and gRPC requests. ([Docs](https://httpyac.github.io/)) ([Docs Code](https://github.com/httpyac/httpyac.github.io)) ([VSCode Extension](https://github.com/AnWeber/vscode-httpyac))

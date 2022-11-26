@@ -40,3 +40,4 @@ title: Datalog
 - [treeedb](https://github.com/langston-barrett/treeedb) - Generate Soufflé Datalog types, relations, and facts that represent ASTs from a variety of programming languages.
 - [Cozo](https://github.com/cozodb/cozo) - General-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms. ([HN](https://news.ycombinator.com/item?id=33518320))
 - [cl-grph](https://github.com/inconvergent/cl-grph) - In-Memory Immutable Graph Structure with Datalog Query Language.
+- [Mangle](https://github.com/google/mangle) - Programming language for deductive database programming. It is an extension of Datalog, with various extensions like aggregation, function calls and optional type-checking.
