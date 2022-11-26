@@ -130,3 +130,4 @@
 - [Deep Bidirectional Language-Knowledge Graph Pretraining (2022)](https://arxiv.org/abs/2210.09338) ([Code](https://github.com/michiyasunaga/dragon))
 - [Mintter](https://mintter.com/) - Decentralized knowledge collaboration application for open communities powered by a knowledge graph. ([Code](https://github.com/mintterteam/mintter))
 - [Inductive Logical Query Answering in Knowledge Graphs (2022)](https://arxiv.org/abs/2210.08008) ([Code](https://github.com/DeepGraphLearning/InductiveQE))
+- [Noosphere, a protocol for thought (2022)](https://subconscious.substack.com/p/noosphere-a-protocol-for-thought)

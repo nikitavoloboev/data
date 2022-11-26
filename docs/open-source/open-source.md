@@ -247,3 +247,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Becoming fasterthanlime full-time (2022)](https://fasterthanli.me/articles/becoming-fasterthanlime-full-time)
 - [Awesome Open-source Alternatives](https://github.com/diegoleme/awesome-open-source-alternatives)
 - [Mold linker may not switch to a source-available license (2022)](https://bluewhalesystems.blogspot.com/2022/11/mold-linker-may-not-switch-to-source.html)
+- [How to make volunteer-driven open source projects successful (2022)](https://www.kooslooijesteijn.net/blog/make-volunteer-driven-open-source-projects-successful)

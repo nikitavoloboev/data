@@ -622,3 +622,4 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [KAIST CS220: Programming Principles in Rust](https://github.com/kaist-cp/cs220)
 - [Code Explainers](https://codeexplainers.com/) - Community of designers and developers building interactive programming content. ([Code](https://github.com/pomber/code-explainers))
 - [Kodeco](https://www.kodeco.com/) - High quality programming tutorials.
+- [Where Did My Variable Go? Poking Holes in Incomplete Debug Information (2022)](https://arxiv.org/abs/2211.09568)

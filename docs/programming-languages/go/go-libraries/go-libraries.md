@@ -372,6 +372,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gofetch](https://github.com/sidwebworks/gofetch-client) - Lightweight and productive http client for Go.
 - [TTL](https://github.com/devnw/ttl) - Time To Live Cache Implementation for Go.
 - [azugo](https://github.com/azugo/azugo) - Opinionated Go web framework based on fasthttp and inspired by go-chi.
+- [go-vhost](https://github.com/inconshreveable/go-vhost) - HTTP/TLS hostname multiplexing library for Go.
 
 ## GraphQL
 

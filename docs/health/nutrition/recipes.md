@@ -133,3 +133,4 @@ Use [Mela](https://mela.recipes/) to store my recipes. [Crouton](https://crouton
 - [My Simple Go-To High Protein Meals (for building muscle)](https://www.youtube.com/watch?v=jvvAP7UVxIs)
 - [4 Simple High Protein Breakfast Ideas for building muscle](https://www.youtube.com/watch?v=ZcYM6Dfh4oY)
 - [Analyzing All Recipes (2022)](https://wcedmisten.fyi/post/analyzing-all-recipes/)
+- [Easy High-Protein Salad Recipes building muscle](https://www.youtube.com/watch?v=3SwWdS-tnIk)

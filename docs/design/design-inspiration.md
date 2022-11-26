@@ -202,6 +202,7 @@ Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage)
 
 - [Darkroom](https://darkroom.co/blog)
 - [Martian Chronicles](https://evilmartians.com/chronicles)
+- [Koos Looijesteijn](https://www.kooslooijesteijn.net/)
 - [Majid](https://swiftwithmajid.com/) ([Code](https://github.com/mecid/mecid.github.io))
 - [Kyle Mathews](https://www.bricolage.io/blog/)
 - [Actual Budget](https://actualbudget.com/blog/)

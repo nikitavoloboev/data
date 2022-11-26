@@ -343,6 +343,8 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [What's a good dystopian read? (2022)](https://www.reddit.com/r/suggestmeabook/comments/yulsn4/whats_a_good_dystopian_read/)
 - [Creepy unsettling sci-fi books (2022)](https://www.reddit.com/r/suggestmeabook/comments/yw5xs2/creepy_unsettling_scifi_books/)
 - [Ask HN: Are there any books that changed your life during college or school? (2022)](https://news.ycombinator.com/item?id=33670126)
+- [Without spoiling, suggest me a book you'd consider "one-of-a-kind" (2022)](https://www.reddit.com/r/suggestmeabook/comments/z46guu/without_spoiling_suggest_me_a_book_youd_consider/)
+- [Short book recommendations (2022)](https://www.reddit.com/r/suggestmeabook/comments/z41xt7/i_need_some_short_book_recommendations/)
 
 ## Interesting Prose Books
 
