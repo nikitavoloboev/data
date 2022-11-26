@@ -545,3 +545,4 @@ I want to:
 - [Potluck](https://potluck-sheets.vercel.app/) ([Code](https://github.com/inkandswitch/potluck))
 - [The Archive](https://zettelkasten.de/the-archive/) - Zettelkasten Method macOS app.
 - [acreom](https://acreom.com/) - Capture notes, break down issues, track your progress, create a knowledge base.
+- [Outlining and Bike (2022)](https://leancrew.com/all-this/2022/11/outlining-and-bike/)

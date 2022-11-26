@@ -190,3 +190,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [How we built it: the technology behind Cloudflare Radar 2.0 (2022)](https://blog.cloudflare.com/technology-behind-radar2/)
 - [Magically Create Forms + Actions with Remix Forms (2022)](https://www.youtube.com/watch?v=IN-TElTkVmU)
 - [Remix Single: Newsletter Signup Form (2022)](https://www.youtube.com/watch?v=jd_bin5HPrw)
+- [Remix Page Blocks](https://remix-page-blocks.vercel.app/) - Open-Source Page Block Builder with Remix and Tailwind CSS. ([HN](https://news.ycombinator.com/item?id=33747554))
