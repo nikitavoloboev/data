@@ -400,3 +400,4 @@ title: WebAssembly
 - [WasmEdge Hyper Demo](https://github.com/WasmEdge/wasmedge_hyper_demo)
 - [cjwasm](https://github.com/jeaiii/cjwasm) - Fast, zero dependency, single-header WebAssembly interpreter.
 - [WASM Registry Prototype](https://github.com/bytecodealliance/registry)
+- [js-wasm-tools](https://github.com/d3lm/js-wasm-tools) - Low level tooling for WebAssembly in JavaScript using wasm-tools.
