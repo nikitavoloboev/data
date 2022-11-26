@@ -558,3 +558,4 @@ for i, _ in enumerate(nums):
 - [Trie in Python (2022)](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/) ([Lobsters](https://lobste.rs/s/cb4oqs/trie_python))
 - [shira](https://github.com/darrenburns/shira) - Python inspector.
 - [Python Type Hints: case study on parsy (2022)](https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/)
+- [The Origins of Python (2022)](https://inference-review.com/article/the-origins-of-python) ([HN](https://news.ycombinator.com/item?id=33750819))

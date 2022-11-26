@@ -4,7 +4,7 @@ title: JSON
 
 # [JSON](https://www.json.org)
 
-[Quicktype](https://quicktype.io/) is nice tool for building models from JSON.
+[Quicktype](https://quicktype.io/) is nice tool for building models from JSON. [JSON Hero](https://jsonhero.io/) is nice JSON viewer.
 
 ## Notes
 

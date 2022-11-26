@@ -6,6 +6,8 @@ title: TLS
 
 [Illustrated TLS Connection](https://tls.ulfheim.net/) & [Implementing a toy version of TLS 1.3](https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/) are useful.
 
+[TLSNotary](https://tlsnotary.org/) is interesting.
+
 ## Links
 
 - [duraconf](https://github.com/ioerror/duraconf) - Collection of hardened configuration files for SSL/TLS services.
@@ -110,3 +112,4 @@ title: TLS
 - [TLS 1.3 in Zig](https://github.com/shiguredo/tls13-zig)
 - [BearSSL](https://bearssl.org/) - Smaller SSL/TLS library. ([HN](https://news.ycombinator.com/item?id=33381920))
 - [sslkeylog](https://github.com/segevfiner/sslkeylog) - Log SSL/TLS keys for decrypting SSL/TLS connections made in Python.
+- [TLSNotary](https://tlsnotary.org/) - Proof of data authenticity. ([Rust code](https://github.com/tlsnotary/tlsn))

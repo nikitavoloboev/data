@@ -12,3 +12,4 @@ Portugal is [great](https://twitter.com/tomazstolfa/status/1454441367359430663).
 - [Who to meet in Lisbon](https://twitter.com/frankdilo/status/1521417284090314753)
 - [Devouring the Heart of Portugal (2022)](https://www.damninteresting.com/devouring-the-heart-of-portugal/) ([HN](https://news.ycombinator.com/item?id=31277743))
 - [Lisbon is poorly designed city (2022)](https://twitter.com/MaxRovensky/status/1530481185285095429)
+- [Portugal good place to live? (2022)](https://www.reddit.com/r/cscareerquestionsEU/comments/z4jvoi/portugal_good_place_to_live/)
