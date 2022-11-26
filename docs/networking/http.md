@@ -6,7 +6,7 @@ title: HTTP
 
 [HTTP crash course](https://www.reddit.com/r/rust/comments/y9b8us/the_http_crash_course_nobody_asked_for_by/) is great overview.
 
-[Caddy](https://caddyserver.com/) is amazing for self hosting servers. [HTTPie](https://github.com/httpie/httpie) & [HTTP Toolkit](https://httptoolkit.tech/) are useful. [HTTP Docs](https://httpwg.org/specs/) has nice overview.
+[Caddy](https://caddyserver.com/) is amazing for self hosting servers. [HTTPie](https://github.com/httpie/httpie), [HTTP Toolkit](https://httptoolkit.tech/) & [Hurl](https://hurl.dev/) are useful. [HTTP Docs](https://httpwg.org/specs/) has nice overview.
 
 [Status code summary](https://twitter.com/tlakomy/status/1528499152472129536) ([as cats](https://http.cat/)) is fun summary.
 
@@ -121,7 +121,7 @@ title: HTTP
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working http and https servers.
 - [Piping Server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over HTTP/HTTPS.
 - [devserver](https://github.com/kettle11/devserver) - Simple HTTPS server for local development. Implemented in Rust. ([Building devserver: An Ultra-Tiny Rust Server](https://ianjk.com/devserver/))
-- [Hurl](https://github.com/Orange-OpenSource/hurl) - Run and test HTTP requests with plain text, curl and Rust. ([Docs](https://hurl.dev/)) ([HN](https://news.ycombinator.com/item?id=28758226))
+- [Hurl](https://github.com/Orange-OpenSource/hurl) - Run and test HTTP requests with plain text, curl and Rust. ([Docs](https://hurl.dev/)) ([HN](https://news.ycombinator.com/item?id=28758226)) ([HN](https://news.ycombinator.com/item?id=33744106))
 - [GoReplay](https://github.com/buger/goreplay) - Capture your existing users activity and re-use it for testing your application. With GoReplay you can perform shadowing, load testing, or detailed analysis and monitoring. ([Web](https://goreplay.org/))
 - [ht](https://github.com/ducaale/ht) - Yet another HTTPie clone in Rust. ([HN](https://news.ycombinator.com/item?id=26042463))
 - [How to use HTTPS for local development (2021)](https://web.dev/how-to-use-local-https/)

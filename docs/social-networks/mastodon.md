@@ -117,3 +117,5 @@ title: Mastodon
 - [tooot app for Mastodon](https://github.com/tooot-app/app)
 - [Mastodon Profile Redirect](https://github.com/bramus/mastodon-profile-redirect) - View Mastodon profiles on your Mastodon instance.
 - [Movetodon](https://movetodon.org/) - Find your Twitter Friends on Mastodon.
+- [From Ubuntu to NixOS the story of a mastodon migration (2022)](https://gianarb.it/blog/from-ubuntu-to-nixos-history-of-a-mastodon-migration) ([Lobsters](https://lobste.rs/s/wynvf6/from_ubuntu_nixos_story_mastodon))
+- [Experimenting with Federation and Migrating Accounts (2022)](https://medium.com/@kris-nova/experimenting-with-federation-and-migrating-accounts-eae61a688c3c)

@@ -178,3 +178,4 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [Dreambooth Extension for Stable-Diffusion-WebUI](https://github.com/d8ahazard/sd_dreambooth_extension)
 - [Dream Bench](https://github.com/nousr/dream-bench) - Tool for benchmarking image generation models.
 - [Math of diffusion (2022)](https://wasimlorgat.com/posts/math-of-diffusion.html)
+- [AI Art Panic (2022)](https://opguides.info/posts/aiartpanic/)
