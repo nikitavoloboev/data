@@ -6,7 +6,9 @@ title: MDMA
 
 [Guide on how to reduce MDMA neurotoxicity](https://www.reddit.com/r/Borax/comments/w5c1x/a_stepbystep_guide_to_reducing_mdma_neurotoxicity/) is a must read. [Borax Combo](https://www.reddit.com/r/Borax/comments/tufa3t/is_there_an_updated_version_of_the_mix/) is a nice mix with similar effects.
 
-I personally like to take small amount of clean well tested MDMA or [5-MAPB combo](https://realchems.net/blue-bliss-pellets-2-fma-5-meo-mipt-5-mapb) on truly special occasions. Usually as a therapeutic session with my partner. No more than once a year. Even if your relationship is already open to all kind of communication, MDMA helps bring all barriers down and all issues can be discussed freely if there are any or you can simply enjoy each other's company and listen to great music together or play games.
+I personally like to take small amount of clean well tested MDMA or [5-MAPB combo](https://realchems.net/blue-bliss-pellets-2-fma-5-meo-mipt-5-mapb) on truly special occasions. Usually as a therapeutic session with my partner. No more than once a year. Even if your relationship is already open to all kind of communication, MDMA helps bring all barriers down and all issues can be discussed freely if there are any or you can simply enjoy each other's company and listen to [great music](https://open.spotify.com/playlist/2FiHv3aqoyPNojdSYrHa5A) together or play games.
+
+Using a chewing gum for duration of the trip is useful as you can easily bite off parts of mouth's skin. As well as drinking lots of water.
 
 After taking MDMA, I make sure to recover well. I drink a lot more [tea](../health/nutrition/drinks/tea.md), [eat well](../health/nutrition/nutrition.md), [exercise](../fitness/fitness.md) and take my other [daily supplements](../health/nutrition/supplements.md) as [usual](../focusing/habits.md) as it all helps with recovery. Also find taking [Green Tea Extract](https://nootropicsdepot.com/green-tea-extract-tablets-egcg/) & [5-HTP](https://drbvitamins.com/products/doctor-s-best-5-htp-enhanced-with-vitamins-b6-c-120-veggie-caps-8) on the night of taking MDMA helps.
 

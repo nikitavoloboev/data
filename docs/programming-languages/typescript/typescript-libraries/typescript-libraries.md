@@ -693,6 +693,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [optic](https://github.com/fp-ts/optic) - Unified Representation Of Optics.
 - [Schema](https://github.com/fp-ts/schema) - Schema validation with static type inference.
 - [expect-type](https://github.com/mmkal/expect-type) - Compile-time tests for types. Useful to make sure types don't regress into being overly-permissive as changes go in over time.
+- [fp-ts-graph](https://github.com/no-day/fp-ts-graph) - Immutable, functional, highly performant graph data structure for fp-ts.
 
 ## Links
 
