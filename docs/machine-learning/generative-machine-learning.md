@@ -179,3 +179,4 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [Dream Bench](https://github.com/nousr/dream-bench) - Tool for benchmarking image generation models.
 - [Math of diffusion (2022)](https://wasimlorgat.com/posts/math-of-diffusion.html)
 - [AI Art Panic (2022)](https://opguides.info/posts/aiartpanic/)
+- [Some notes on the Stable Diffusion safety filter (2022)](https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/)
