@@ -19,6 +19,7 @@ I try to avoid pointless politics as much as possible but do like [John Mearshei
 - ["Democracy" in America is and has always been "government by capital". The original idea was that private wealth should drive government rather than family nobility. That's why only landowners voted, that's why the 3/5 compromise, etc.](https://twitter.com/izs/status/1521467530098864128)
 - [Majority of our food in the US is terrible for you](https://twitter.com/Austen/status/1566172574236565504)
 - With [EB-5 visa](https://www.uscis.gov/working-in-the-united-states/permanent-workers/eb-5-immigrant-investor-program), I can either do either [passive or active investment](https://www.youtube.com/watch?v=orVtSuGpuu8). Active is ~ 1 million US dollars invested in my own startup in US with promise of creating 10 jobs within 2 years after approval of green card.
+- [San Francisco, Oakland, Santa Cruz, Monterey, Bodega Bay are nice US visits](https://twitter.com/isosteph/status/1596920968387399681)
 
 ## Links
 

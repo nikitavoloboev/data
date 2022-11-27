@@ -8,6 +8,7 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 
 ## Notes
 
+- [You can become top 10% in any skill within 3-6 months by obsessively studying online. Enough so that you are perceived as an authority, and can make a living from it (without investing more than a few hundred dollars, if any).](https://twitter.com/thedankoe/status/1596162565008138240)
 - [The internet provides access to an education that the aristocracy of old couldn't have imagined. It also provides the perfect attack vector for marketers to exploit cognitive vulnerabilities and dominate your attention. A world-class education is free for the undistractable.](https://twitter.com/TheStoicEmperor/status/1086118829661376512)
 - [I can't imagine building intuition without the experience of writing your own stuff, reading a book isn't going to give you that, especially when it comes to just structuring code in general, if you really want to know how something works you have to write it](https://twitter.com/tjholowaychuk/status/1256189125134336005)
 - [Learning in public creates unpredictable but exceptional outcomes. Best way to LIP is to choose a creative container: a constrained format for sharing one’s learnings, released on a consistent schedule.](https://twitter.com/patrick_oshag/status/1292259847711477761)

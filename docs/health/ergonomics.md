@@ -57,6 +57,7 @@ I use [Herman Miller Embody](https://store.hermanmiller.com/gaming-chairs/embody
 ## Notes
 
 - [When you’re using your phone, stop using your pinky as an anchor. It’s destroying your wrist and aggravating your ulnar nerve.](https://twitter.com/MrsBundrige/status/1450103066250911745)
+- [Hanging from a pull up bar for 5 minutes total a day has by far been the best improvement to wrist health after a proper ergonomic keyboard.](https://twitter.com/ThePrimeagen/status/1596914331362660353)
 
 ## Links
 
