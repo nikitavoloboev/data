@@ -11,3 +11,4 @@ title: Self
 - [Adaptive optimization for SELF: reconciling high performance with exploratory programming (1994)](http://i.stanford.edu/pub/cstr/reports/cs/tr/94/1520/CS-TR-94-1520.pdf)
 - [A tour of Self](https://sin-ack.github.io/posts/a-tour-of-self/)
 - [Self Transporter: how to share your Self code](https://sin-ack.github.io/posts/self-transporter/) ([Lobsters](https://lobste.rs/s/fbv7hi/self_transporter_how_share_your_self_code))
+- [zigSelf](https://github.com/sin-ack/zigself) - Implementation of the Self programming language in Zig. ([Inner workings](https://sin-ack.github.io/posts/zigself-actor/))

@@ -131,3 +131,4 @@ title: Electrical engineering
 - [Schemdraw](https://github.com/RonSheely/schemdraw) - Python package for producing high-quality electrical circuit schematic diagrams.
 - [Using Python to vectorize artwork for PCBs (2022)](https://blog.thea.codes/raster-vectorization-with-python/)
 - [altium.js](https://github.com/gsuberland/altium_js) - JavaScript library for parsing and rendering Altium schematic (SchDoc) files in the browser.
+- [Taking a good picture of a PCB (2022)](https://blog.brixit.nl/taking-a-good-picture-from-a-pcb/)
