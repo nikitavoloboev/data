@@ -63,3 +63,4 @@
 - [Svelte Slides](https://github.com/AlexandreKempf/svelte-slides)
 - [rety](https://rety.verou.me/) - Record typing on one or more editors and replay it at will, to simulate live coding. ([Code](https://github.com/leaverou/rety))
 - [iA Presenter](https://ia.net/presenter) - Fast and fun way to create and hold presentations. ([Twitter](https://twitter.com/iAPresenter))
+- [Impress.js](https://github.com/impress/impress.js/) - Inspired by prezi.com, powered by CSS3 transforms and transitions.
