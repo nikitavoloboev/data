@@ -12,13 +12,13 @@ From the [psychedelic](../drugs/psychedelics/psychedelics.md) experiences I had 
 
 The other neat thing about psychedelics is their ability to [induce ego death by shutting off default mode network](https://psychonautwiki.org/wiki/Talk:Psilocybin_and_the_Default_Mode_Network). Having your short term memories suppressed so much that you forget that you even took the drug or that you were/are a human being is crazy experience. I had this on [Salvia](../drugs/psychedelics/salvia.md) and life is never really the same after this. Even if it's all just a drug.
 
-With all that said, there is only one real conclusion to draw knowing all this. Have fun. Be nice. And don't worry about what might happen or what has already happened. In the end, it seems even the [universe will eventually go dark and 'die'](https://www.youtube.com/watch?v=uD4izuDMUQA). Probably to eventually be reborn again.
+With all that said, there is only one real conclusion to draw knowing all this. Have fun. Be nice. And don't worry about what might happen or what has already happened. In the end, it seems even the [universe will eventually go dark and 'die'](https://www.youtube.com/watch?v=uD4izuDMUQA). Probably to eventually be [reborn again](https://www.youtube.com/watch?v=HFbFat-UhaA).
 
 > [Your parents miss you and wish you'd call. Later you'll miss them and wish you could.](https://twitter.com/paulg/status/1106946093701455872)
 
 Spend more time with ones you care about. Be [aware of your ego](../consciousness/ego.md) and be a [kind and loving person](../environment/veganism.md).
 
-It's a matter of time that death can be avoided. Fastest way to get to this future is getting to [AGI](../machine-learning/artificial-intelligence.md).
+It's a matter of time that [death can be avoided](https://en.wikipedia.org/wiki/Turritopsis_dohrnii). Fastest way to get to this future is getting to [AGI](../machine-learning/artificial-intelligence.md).
 
 I do think, when you die. That's that. You maybe will have some interesting [DMT](../drugs/psychedelics/tryptamines/dmt.md) like experience as you go but then you and all your memories will cease to exist.
 

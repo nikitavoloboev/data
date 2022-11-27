@@ -18,7 +18,7 @@ But as will all things, _moderation is key_. Or as in the case of psychedelics, 
 
 My favorite psychedelics currently are [4-AcO-DMT](https://psychonautwiki.org/wiki/4-AcO-DMT), [4-HO-MiPT](https://psychonautwiki.org/wiki/4-HO-MiPT), [5-MeO-DMT](https://psychonautwiki.org/wiki/5-MeO-DMT), [Changa](https://psychonautwiki.org/wiki/Changa) & [LSD](https://psychonautwiki.org/wiki/LSD) ([or 1cP-LSD](https://www.reddit.com/r/researchchemicals/comments/mx45nw/differences_between_1blsd_1plsd_1cplsd/)) (~ 150-200 ug).
 
-Want to try [mescaline](https://www.reddit.com/r/mescaline/comments/uiz47o/wow/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) at some point too and actually breakthrough on DMT.
+Want to try [mescaline](https://www.reddit.com/r/mescaline/comments/uiz47o/wow/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) at some point too and actually breakthrough on [DMT](tryptamines/dmt.md).
 
 I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=en&mt=8) iOS app to track all my doses. This helps me make sure I don't abuse any substance. Usually take 2+ month breaks in between.
 
