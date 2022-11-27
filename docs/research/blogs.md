@@ -224,6 +224,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Cliff Biffle](http://cliffle.com/blog/)
 - [Wasim Lorgat](https://wasimlorgat.com/)
 - [BIT-101](https://www.bit-101.com/blog/)
+- [Ayaz Hafiz](https://ayazhafiz.com/cc)
 
 ## Notes
 

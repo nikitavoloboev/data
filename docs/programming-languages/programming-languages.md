@@ -475,3 +475,4 @@ I do write Rust, but tried out [Zig](zig/zig.md) when I want to write embedded c
 - [(Re)writing an interpreter in Rust (2022)](https://www.dannyvankooten.com/blog/2022-12-rewriting-interpreter-rust/) ([HN](https://news.ycombinator.com/item?id=33704206))
 - [languagetool-code-comments](https://github.com/dustinblackman/languagetool-code-comments) - Integrates the LanguageTool API to parse, spell check, and correct the grammar of your code comments.
 - [Eclipse OMR](https://github.com/eclipse/omr) - Cross platform components for building reliable, high performance language runtimes.
+- [Simple Refinement of Anonymous Sum Types in Pattern Matches (2022)](https://ayazhafiz.com/articles/22/simple-flow-refinement-of-anonymous-sum-types)

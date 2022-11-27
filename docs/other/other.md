@@ -707,3 +707,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Various tools, trinkets and experiments](https://github.com/Xe/x)
 - [Dealster](https://dealster.io/)
 - [Hacker News Stylometry Analysis](https://stylometry.net/) - Using stylometry to find HN users with alternate accounts. ([HN](https://news.ycombinator.com/item?id=33755016))
+- [Turn any Wikipedia article into a video, automatically (2020)](https://ailef.tech/2020/04/29/turn-any-wikipedia-article-into-a-video-automatically/)

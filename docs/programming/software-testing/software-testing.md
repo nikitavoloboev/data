@@ -162,3 +162,4 @@
 - [XCheck at Meta: Why it exists and how it works (2022)](https://blog.nindalf.com/posts/xcheck/) ([HN](https://news.ycombinator.com/item?id=33224347))
 - [Brewing Microservices | Property-Based Testing (2022)](https://filibuster.transistor.fm/episodes/property-based-testing)
 - ["How do I test X" is almost always answered with "by controlling X" (2022)](https://berk.es/2022/09/19/test-x-by-controlling-x/)
+- [Massively increase your productivity on personal projects with comprehensive documentation and automated tests (2022)](https://simonwillison.net/2022/Nov/26/productivity/) ([Lobsters](https://lobste.rs/s/7fiajr/coping_strategies_for_serial_project))

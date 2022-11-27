@@ -184,3 +184,4 @@
 - [Description of Apple's LEAP ISA](https://github.com/povik/leap-isa)
 - [Reverse Branch Target Buffer Poisoning (2022)](https://cos.ufrj.br/uploadfile/publicacao/3061.pdf)
 - [Why is Rosetta 2 fast? (2022)](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/) ([HN](https://news.ycombinator.com/item?id=33533132)) ([Reddit](https://www.reddit.com/r/programming/comments/yr8fah/why_is_rosetta_2_fast/))
+- [A bug fix in the 8086 microprocessor, revealed in the die's silicon (2022)](http://www.righto.com/2022/11/a-bug-fix-in-8086-microprocessor.html)
