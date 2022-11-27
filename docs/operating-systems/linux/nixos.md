@@ -267,3 +267,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Hard user separation with NixOS (2022)](https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/) ([HN](https://news.ycombinator.com/item?id=33418788))
 - [Proxy server + NixOS](https://github.com/hackclub/proxyparty)
 - [Lollypops](https://github.com/pinpox/lollypops) - NixOS Deployment Tool.
+- [Lanzaboote](https://github.com/blitz/lanzaboote) - Secure Boot for NixOS.
