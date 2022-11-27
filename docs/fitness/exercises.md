@@ -37,3 +37,4 @@ I mention exercises I do [here](fitness.md).
 - [GORNATION](https://www.gornation.com/) - Equipment & Clothing for Calisthenics & Street Workout.
 - [The Best Butt Exercises For Men (the Only 4 You Need)](https://www.youtube.com/watch?v=YHTJusT51Zs)
 - [How To Unlock Your Mobility in 5 Minutes (daily stretch)](https://www.youtube.com/watch?v=sOuKeVuej9E)
+- [Top 5 Worst Gym Mistakes Even Experienced Lifters Make](https://www.youtube.com/watch?v=6vavUJwqqEE)

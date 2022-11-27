@@ -104,3 +104,4 @@ title: Conflict-free replicated data type
 - [Fundamentals of CRDTs](https://github.com/siliconjungle/crdt-tutorials)
 - [Byzantine Fault Tolerant CRDTs in Rust](https://github.com/jackyzha0/bft-json-crdt) - JSON-like Byzantine Fault Tolerant CRDT in Rust.
 - [Building a BFT JSON CRDT (2022)](https://jzhao.xyz/posts/bft-json-crdt/) ([HN](https://news.ycombinator.com/item?id=33694568)) ([Tweet](https://twitter.com/_jzhao/status/1594732151400189953))
+- [CRDT: Fractional Indexing (2022)](https://madebyevan.com/algos/crdt-fractional-indexing/) ([HN](https://news.ycombinator.com/item?id=33764449))
