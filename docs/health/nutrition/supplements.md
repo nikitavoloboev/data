@@ -39,6 +39,8 @@ Some maybe interesting supplements. Some I tried but stopped.
 - [Vegan Omega 3 DHA & EPA](https://www.amazon.com/VEGAN-OMEGA-Supplement-Cardiovascular-Supplements/dp/B01MYE95BQ)
 - [Lions Mane](https://oriveda.co.uk/lions-mane.php)
 - [Daily Thyroid Care Supplement](https://www.palomahealth.com/product/thyroid-supplements)
+- [5-HTP](https://drbvitamins.com/products/doctor-s-best-5-htp-enhanced-with-vitamins-b6-c-120-veggie-caps-8)
+- [Phosphate](https://nootropicsdepot.com/pyridoxal-5-phosphate-capsules/)
 
 ## Notes
 

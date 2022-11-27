@@ -970,3 +970,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Safely writing code that isn't thread-safe (2022)](http://cliffle.com/blog/not-thread-safe/) ([HN](https://news.ycombinator.com/item?id=33713612))
 - [Threads and messages with Rust and WebAssembly (2022)](https://www.tweag.io/blog/2022-11-24-wasm-threads-and-messages/)
 - [Rust Docker Cheatsheet](https://github.com/tbillington/rust-docker-cheatsheet) - Notes on building and running Rust binaries in Docker.
+- [Rust to assembly: Arrays, Tuples, Box, and Option handling (2022)](https://www.eventhelix.com/rust/rust-to-assembly-arrays-option-box/)
