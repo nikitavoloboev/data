@@ -1073,6 +1073,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [PyAV](https://github.com/PyAV-Org/PyAV) - Pythonic bindings for FFmpeg's libraries.
 - [PEX](https://github.com/pantsbuild/pex) - Library and tool for generating .pex (Python EXecutable) files.
 - [pretty_midi](https://github.com/craffel/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
+- [matplotlib-pyodide](https://github.com/pyodide/matplotlib-pyodide) - HTML5 backends for Matplotlib compatible with Pyodide.
 
 ## Notes
 

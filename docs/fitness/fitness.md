@@ -20,6 +20,8 @@ Mostly taken as inspiration from this [daily home training routine](https://www.
 
 Videos on [6 things i do every day to stay in shape](https://www.youtube.com/watch?v=T5reu3R55kM), [essential exercises](https://www.youtube.com/watch?v=s0fA0gXqREQ), [golden rules to build muscle](https://www.youtube.com/watch?v=ti7j2yyVF6E), [beginner mistakes to avoid](https://www.youtube.com/watch?v=thV6p47dhaU) & [how to setup the perfect bulk up](https://www.youtube.com/watch?v=kE2XioeBDGI) are a must watch. Sadly most of the exercises on the list require some gear. I will update the routine once I get into position where I have access to such gear.
 
+[Foundational Fitness Protocol](https://hubermanlab.com/foundational-fitness-protocol/) from [Huberman](https://hubermanlab.com/) is interesting too.
+
 ### Other tips
 
 [Sergey Kharkow](https://www.instagram.com/sergeykharkow/) & [Joe Delaney](https://www.instagram.com/shredbundy/) have ideal body types in my eyes but it's a lot of effort to get/maintain it. [Fitness Wiki](https://thefitness.wiki/) is a [great read](https://www.reddit.com/r/leangains/comments/uwqhu1/how_do_i_go_from_skinny_fat_to_a_lean_build/).
@@ -120,3 +122,4 @@ When I get a chance, I will setup [gymnastics rings](https://www.gornation.com/b
 - [How to setup the perfect bulk up (step by step) (2019)](https://www.youtube.com/watch?v=kE2XioeBDGI)
 - [Fix Bad Posture in 22 Days](https://www.youtube.com/watch?v=XxSgdX7lX6E)
 - [The Cheapest Way to Build Muscle & Lose Fat](https://www.youtube.com/watch?v=B-RpGm77loI)
+- [Foundational Fitness Protocol](https://hubermanlab.com/foundational-fitness-protocol/)
