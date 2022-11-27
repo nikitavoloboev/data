@@ -877,3 +877,4 @@ title: Kubernetes
 - [Learn Kubernetes with Google](https://learnkubernetes.withgoogle.com/) ([HN](https://news.ycombinator.com/item?id=33718496))
 - [kubectl foreach](https://github.com/ahmetb/kubectl-foreach) - Run kubectl commands in all/some contexts in parallel.
 - [KubeBrain](https://github.com/kubewharf/kubebrain) - High Performance Metadata System for Kubernetes.
+- [Trivy-Operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit.

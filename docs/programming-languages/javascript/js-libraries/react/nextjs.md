@@ -169,6 +169,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Connected Next Router](https://github.com/danielr18/connected-next-router) - Redux binding for Next.js Router compatible with Next.js.
 - [next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js.
 - [NextJS Google Analytics](https://github.com/MauricioRobayo/nextjs-google-analytics)
+- [Next Last Path Hook](https://github.com/lifespikes/next-last-path) - React Hook containing the last path from a Next.js route + some goodies.
 
 ## Notes
 

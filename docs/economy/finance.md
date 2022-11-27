@@ -235,3 +235,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Algo-Trader](https://github.com/idanya/algo-trader) - Trading bot with support for real time trading, backtesting, custom strategies and much more.
 - [Wallstreet](https://github.com/mcdallas/wallstreet) - Real time Stock and Option tools.
 - [Demystifying Financial Leverage (2022)](https://bam.kalzumeus.com/archive/demystifying-financial-leverage/) ([HN](https://news.ycombinator.com/item?id=33563555))
+- [Puffin](https://github.com/siddhantac/puffin) - Simple Go TUI to manage personal finances (using hledger).

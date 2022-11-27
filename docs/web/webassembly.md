@@ -401,3 +401,4 @@ title: WebAssembly
 - [cjwasm](https://github.com/jeaiii/cjwasm) - Fast, zero dependency, single-header WebAssembly interpreter.
 - [WASM Registry Prototype](https://github.com/bytecodealliance/registry)
 - [js-wasm-tools](https://github.com/d3lm/js-wasm-tools) - Low level tooling for WebAssembly in JavaScript using wasm-tools.
+- [WebAssembly: TinyGo vs. Rust vs. AssemblyScript (2022)](https://ecostack.dev/posts/wasm-tinygo-vs-rust-vs-assemblyscript/) ([HN](https://news.ycombinator.com/item?id=33761756))

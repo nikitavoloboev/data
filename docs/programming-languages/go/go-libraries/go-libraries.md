@@ -944,7 +944,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go.rice](https://github.com/GeertJohan/go.rice) - Go package that makes working with resources such as html,js,css,images,templates, etc very easy.
 - [slug](https://github.com/gosimple/slug) - URL-friendly slugify with multiple languages support.
 - [CurlyQ](https://github.com/mcmathja/curlyq) - Provides a simple, easy-to-use interface for performing background processing in Go.
-- [Olric](https://github.com/buraksezer/olric) - Distributed, eventually consistent, in-memory key/value data store and cache. ([HN](https://news.ycombinator.com/item?id=22297507))
+- [Olric](https://github.com/buraksezer/olric) - Distributed, eventually consistent, in-memory key/value data store and cache. ([HN](https://news.ycombinator.com/item?id=22297507)) ([HN](https://news.ycombinator.com/item?id=33762099))
 - [licensecheck](https://github.com/google/licensecheck) - Classifies license files and heuristically determines how well they correspond to known open source licenses.
 - [Cloud Run helpers](https://github.com/kelseyhightower/run) - Provides a set of Cloud Run helper functions.
 - [go-ws-transport](https://github.com/libp2p/go-ws-transport) - WebSocket implementation of a go-libp2p transport.

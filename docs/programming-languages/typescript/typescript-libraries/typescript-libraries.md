@@ -694,6 +694,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Schema](https://github.com/fp-ts/schema) - Schema validation with static type inference.
 - [expect-type](https://github.com/mmkal/expect-type) - Compile-time tests for types. Useful to make sure types don't regress into being overly-permissive as changes go in over time.
 - [fp-ts-graph](https://github.com/no-day/fp-ts-graph) - Immutable, functional, highly performant graph data structure for fp-ts.
+- [Squishy Cookies](https://github.com/omar2205/squishy_cookies) - Easily sign and verify cookies.
+- [audic](https://github.com/Richienb/audic) - Play some audio.
 
 ## Links
 

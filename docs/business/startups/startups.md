@@ -400,6 +400,7 @@
 - [The Cadence: How to Operate a SaaS Startup (2020)](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
 - [Ask HN: How do you start a startup in your 30s when you have wife/kids/mortgage? (2022)](https://news.ycombinator.com/item?id=33707889)
 - [Startups are an act of desperation (2022)](https://blog.eladgil.com/p/startups-are-an-act-of-desperation)
+- [Startup Restructuring 101 (2022)](https://cyrilgrislain.substack.com/p/startup-restructuring-101) ([HN](https://news.ycombinator.com/item?id=33758849))
 
 ## Images
 

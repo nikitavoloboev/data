@@ -192,3 +192,4 @@
 - [Regex in R](https://r4ds.hadley.nz/regexps.html)
 - [tmap](https://github.com/r-tmap/tmap) - Thematic maps in R.
 - [faux](https://github.com/debruine/faux) - R functions for simulating factorial datasets.
+- [Doctests in R](https://hughjonesd.github.io/doctest/) ([HN](https://news.ycombinator.com/item?id=33757766))

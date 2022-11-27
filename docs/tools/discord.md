@@ -118,6 +118,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Megane](https://github.com/brussell98/megane) - Framework for large multi-process Discord bots.
 - [Swiftcord](https://github.com/SketchMaster2001/Swiftcord) - Discord Library for Swift.
 - [lacord](https://github.com/Mehgugs/lacord) - Low level, lightweight discord API library.
+- [aoi.js](https://github.com/AkaruiDevelopment/aoi.js) - Advanced string-based package to create a Discord Bot fast and powerful.
 
 ## Interesting servers
 

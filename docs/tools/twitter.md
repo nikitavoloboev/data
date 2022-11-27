@@ -276,3 +276,5 @@ This in my mind is much nicer than the current model of just typing into a box. 
 - [Tweet Admin](https://tweetadmin.com/) - Do more with Twitter.
 - [Twitter, when the wall came down (2022)](http://dtrace.org/blogs/bmc/2022/11/05/twitter-when-the-wall-came-down/)
 - [TwitterSearchTokenTest](https://github.com/T-Ev/TwitterSearchTokenTest)
+- [Stork](https://github.com/robertoszek/pleroma-bot) - Mirror your favorite Twitter accounts in the Fediverse, so you can follow their updates from the comfort of your favorite instance.
+- [Trendagram](https://github.com/advaithhl/Trendagram) - Telegram bot for scheduled Twitter trends.

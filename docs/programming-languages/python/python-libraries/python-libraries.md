@@ -341,6 +341,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
 - [HypoFuzz](https://github.com/Zac-HD/hypofuzz) - Adaptive fuzzing of Hypothesis tests.
 - [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - Mutation testing for Python.
+- [time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
 
 ## Error
 
@@ -1074,6 +1075,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [PEX](https://github.com/pantsbuild/pex) - Library and tool for generating .pex (Python EXecutable) files.
 - [pretty_midi](https://github.com/craffel/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
 - [matplotlib-pyodide](https://github.com/pyodide/matplotlib-pyodide) - HTML5 backends for Matplotlib compatible with Pyodide.
+- [TrueCase](https://github.com/daltonfury42/truecase) - Language independent, statistical, language modeling based tool in Python that restores case information for text.
 
 ## Notes
 
@@ -1266,3 +1268,5 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [ABI compatibility in Python: How hard could it be? (2022)](https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/)
 - [PyCAPI](https://github.com/brandtbucher/pycapi) - Over 600 fast Python bindings to the CPython C API.
 - [optpy](https://github.com/kenkoooo/optpy) - Transpiler to generate a Rust file from a Python file.
+- [template.py](https://github.com/alunduil/template.py) - Create new Python template with Poetry, VSCode DevContainers setup.
+- [Rusty docs](https://github.com/patrick91/rusty-docs) - Simple documentation generator for Python code.

@@ -411,3 +411,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [TinyBIOS](https://github.com/pwk4m1/TinyBIOS) - Minimalist open source BIOS project for fun.
 - [Kernel (OS Kernel Book)](https://539kernel.com/) ([Code](https://github.com/MaaSTaaR/539kernel))
 - [Ask HN: Why aren't there DSLs for Operating Systems? (2022)](https://news.ycombinator.com/item?id=33734299)
+- [Running a Unix-like OS on a home-built CPU with a home-built C compiler (2020)](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/) ([HN](https://news.ycombinator.com/item?id=33761419))

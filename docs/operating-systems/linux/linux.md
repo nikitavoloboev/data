@@ -640,3 +640,4 @@ title: Linux
 - [A Programmer-Friendly I/O Abstraction Over io_uring and kqueue (2022)](https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/) ([HN](https://news.ycombinator.com/item?id=33721075))
 - [Longhorn Engine](https://github.com/longhorn/longhorn-engine) - Lightweight block device storage controller capable of storing the data in a number of replicas. It functions like a network RAID controller.
 - [Ask HN: Why the Linux Kernel doesn't have unit tests? (2022)](https://news.ycombinator.com/item?id=33742130)
+- [Linux Notification Center](https://github.com/phuhl/linux_notification_center) - Notification daemon/center for linux.
