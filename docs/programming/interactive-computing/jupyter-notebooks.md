@@ -233,3 +233,4 @@ title: Jupyter Notebooks
 - [ipyobservable](https://github.com/davidbrochart/ipyobservable) - Jupyter widget for Observable.
 - [AutoProfiler](https://github.com/cmudig/AutoProfiler) - Automatically profile dataframes in the Jupyter sidebar.
 - [nbval](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
+- [pytest-jupyter](https://github.com/jupyter-server/pytest-jupyter) - Pytest plugin for testing Jupyter core libraries and extensions.

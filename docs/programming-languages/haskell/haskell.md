@@ -8,6 +8,8 @@ title: Haskell
 
 [Haskell for Working Programmers](https://github.com/liftM/haskell-for-working-programmers) is a nice intro.
 
+[Production Haskell](https://leanpub.com/production-haskell) seems like a nice advanced Haskell book.
+
 ## OSS Haskell Tools
 
 - [Wordle.hs](https://github.com/jakesco/wordle-hs) - Play Wordle on the command line.
@@ -481,3 +483,4 @@ title: Haskell
 - [FizzBuzz in Haskell (2014)](https://themonadreader.files.wordpress.com/2014/04/fizzbuzz.pdf) ([HN](https://news.ycombinator.com/item?id=33697905))
 - [WebAssembly backend merged into GHC (2022)](https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/)
 - [Blog: Haskell in Production](https://serokell.io/blog/haskell-in-production)
+- [Production Haskell: Succeeding in Industry with Haskell (2022)](https://leanpub.com/production-haskell)

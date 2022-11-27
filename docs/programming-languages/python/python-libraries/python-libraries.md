@@ -1072,6 +1072,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python.
 - [PyAV](https://github.com/PyAV-Org/PyAV) - Pythonic bindings for FFmpeg's libraries.
 - [PEX](https://github.com/pantsbuild/pex) - Library and tool for generating .pex (Python EXecutable) files.
+- [pretty_midi](https://github.com/craffel/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
 
 ## Notes
 

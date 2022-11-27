@@ -692,6 +692,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-typedefs](https://github.com/Veetaha/ts-typedefs) - Handy collection of TypeScript plain and generic type definitions and interfaces.
 - [optic](https://github.com/fp-ts/optic) - Unified Representation Of Optics.
 - [Schema](https://github.com/fp-ts/schema) - Schema validation with static type inference.
+- [expect-type](https://github.com/mmkal/expect-type) - Compile-time tests for types. Useful to make sure types don't regress into being overly-permissive as changes go in over time.
 
 ## Links
 

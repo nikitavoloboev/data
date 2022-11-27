@@ -160,3 +160,4 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 - [Futurepedia](https://www.futurepedia.io/) - Largest AI Tools Directory.
 - [Diplomacy Cicero and Diplodocus](https://github.com/facebookresearch/diplomacy_cicero) - Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation.
 - [LAION](https://laion.ai/) - Aiming to make large-scale machine learning models, datasets and related code available to the general public. ([GitHub](https://github.com/LAION-AI/))
+- [Powderworld](https://github.com/kvfrans/powderworld) - Lightweight simulation environment for understanding AI generalization.

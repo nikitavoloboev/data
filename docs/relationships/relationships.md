@@ -322,3 +322,4 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [Измена - чему она меня научила (2022)](https://www.youtube.com/watch?v=qSweC0eKeqM)
 - [Best break-up films (2022)](https://www.reddit.com/r/Letterboxd/comments/z1u13r/going_through_a_seperation_best_breakup_films/)
 - [Suggest me a book that will heal my broken relationship with my boyfriend (2022)](https://www.reddit.com/r/suggestmeabook/comments/z4bmxo/suggest_me_a_book_that_will_heal_my_broken/)
+- [Ethical polyamory explained](https://twitter.com/Tasumori/status/1596340074870112256)

@@ -706,3 +706,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Awesome Black Friday / Cyber Monday Deals - 2022](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 - [Various tools, trinkets and experiments](https://github.com/Xe/x)
 - [Dealster](https://dealster.io/)
+- [Hacker News Stylometry Analysis](https://stylometry.net/) - Using stylometry to find HN users with alternate accounts. ([HN](https://news.ycombinator.com/item?id=33755016))
