@@ -309,3 +309,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Rosetta-enabled virtual machine based on Apple Sample Code](https://github.com/diddledani/macOS-Linux-VM-with-Rosetta)
 - [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Running and unlocking features in macOS on supported and unsupported Macs.
 - [All of the sounds in macOS Big Sur](https://github.com/ThisIsNoahEvans/BigSurSounds)
+- [Lightweight Alpine VMs on macOS](https://beringresearch.github.io/macpine/) ([HN](https://news.ycombinator.com/item?id=33769274)) ([Code](https://github.com/beringresearch/macpine))
