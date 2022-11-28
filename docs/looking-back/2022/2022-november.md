@@ -78,3 +78,17 @@ Trying to get to first release of [LA](../../ideas/learn-anything.md) soon.
 One thing that helps me not lose hope is that I am actually lucky. I am not mobilized for any war. I am not in prison. My home is not being bombed by anyone. I even have some food to eat.
 
 So yes. Can't be sad. Back to working. 😾
+
+## 28
+
+Going to Netherlands to spend some time there. Very happy with my [Repeat song playlist](https://open.spotify.com/playlist/5mPU9S2dTxIBJVy0Qifyxo). Amazing for working. It's funny, I have 3 playlists for 'focus' playlists ranging from [general focus music](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5) to [music I get less tired of](https://open.spotify.com/playlist/5fIL0WiQ79QtgsP4Y4L20V). To then finally the [Repeat playlist](https://open.spotify.com/playlist/5mPU9S2dTxIBJVy0Qifyxo). Listening to [Shimmer by Nils](https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt) as I write this.
+
+I also did take [MDMA analogue](https://realchems.net/blue-bliss-pellets-2-fma-5-meo-mipt-5-mapb) with dad, supposedly a less neurotoxic version of [MDMA](../../drugs/mdma.md). Talked a lot together and had a great time. It's a nice little drug if you take it once a year with a purpose of getting to know people even more. Plus music is truly amazing on it. I didn't take any psychedelics for more than a year before this as I try to lead a more [healthy](../../health/health.md) lifestyle.
+
+Speaking of healthy lifestyle, I am very excited to start my new [skin care](../../health/skin-care.md) routine with my new [morning shakes and supplements](../../health/nutrition/supplements.md) and generally super healthy diet. But more importantly [exercising](../../fitness/exercises.md) every day. Got all the routines outlined and all, just need to push myself to actually go through the pain that is exercising until muscle exhaustion. 
+
+Other than that, all's well. December next month, then new year. I think I have a good thing going as far as my planning workflow is going. Some things I do want to build still to streamline my workflow but I've been saying this for years now, really need to just release small actually working things, even if they maybe a bit 'ugly' at first. Iterate. Iterate. Release.
+
+One thing I am truly happy I learned well through the actual years of writing this wiki. Is that I genuinely note down everything I found interesting in this wiki. I collect [contacts](../../macOS/apps/contacts.md) of people I find interesting. Collect [ideas](../../ideas/ideas.md). Collect genuinely everything and try to make sense of it all in making my own life better.
+
+My network of people I know is quite small but then I didn't really actively try to grow it. I haven't been on any events in quite a while for financial/time reasons. Maybe in future I will. Would be nice to have close friends. There's many people I admire, too many to list. Should reach out more to people and make my current connections with people stronger. 🌈

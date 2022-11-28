@@ -16,6 +16,8 @@ I also wrote a [comment that goes in more detail over the ways I update the wiki
 
 I use [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) to search for wiki entry to open/share. I plan to improve this system a lot going forward.
 
+For private notes, I use Apple Notes app and [Telegram](../tools/telegram.md) saved messages.
+
 ## Editing on iOS
 
 I open the [docs part of the GitHub repo](https://github.com/nikitavoloboev/knowledge/tree/main/docs) folder in [Obsidian Mobile](https://obsidian.md/mobile). This lets me edit the wiki on the go. Most times I write messages to myself on Telegram and transfer it later to my wiki on mac.
