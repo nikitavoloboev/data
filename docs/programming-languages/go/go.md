@@ -909,3 +909,4 @@ if *boolArgPtr != false {
 - [The Carcinization of Go Programs (2022)](https://xeiaso.net/blog/carcinization-golang) ([Lobsters](https://lobste.rs/s/oeinpb/carcinization_go_programs)) ([HN](https://news.ycombinator.com/item?id=33713717))
 - [musttag](https://github.com/junk1tm/musttag) - Go linter that enforces field tags in (un)marshaled structs.
 - [Ask HN: What do you like/dislike about Go? (2022)](https://news.ycombinator.com/item?id=33757306)
+- [Building CloudQuery: High Performance Data Integration Framework in Go (2022)](https://www.cloudquery.io/blog/building-cloudquery)
