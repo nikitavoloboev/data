@@ -300,3 +300,4 @@
 - [cparse](https://github.com/jafarlihi/cparse) - LR parser generator for C.
 - [Considering C99 for curl (2022)](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/) ([HN](https://news.ycombinator.com/item?id=33704054))
 - [C compiler written in Swift](https://github.com/mattjbird/clanger)
+- [GCC undefined behaviors are getting wild (2022)](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)

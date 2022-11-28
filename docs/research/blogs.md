@@ -227,6 +227,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Ayaz Hafiz](https://ayazhafiz.com/cc)
 - [Brian Kihoon Lee](https://www.moderndescartes.com/essays/)
 - [Vicki Boykis](https://vickiboykis.com/)
+- [Simon Eskildsen](https://sirupsen.com/)
 
 ## Notes
 

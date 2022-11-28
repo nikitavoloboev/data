@@ -4,6 +4,8 @@ Love [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh)'s musi
 
 Most if not all songs in my [Focus](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5)/[Inspired](https://open.spotify.com/track/4luihFQ22pn73BCwIGfPlv) playlists are ambient. I also use [Endel](https://endel.io/) sometimes. Some special songs go into my [Repeat](https://open.spotify.com/playlist/5mPU9S2dTxIBJVy0Qifyxo) playlist.
 
+Recently love listening to [Shimmer by Nils](https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt).
+
 ## Links
 
 - [Ambient Chaos](https://neal.fun/ambient-chaos/) ([HN](https://news.ycombinator.com/item?id=28566705))

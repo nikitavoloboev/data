@@ -14,3 +14,4 @@ I also try floss daily before sleep.
 - [Почему я решила делать зубы (2022)](https://www.youtube.com/watch?v=phNzJy22OXE)
 - [Dentistry Reddit](https://www.reddit.com/r/Dentistry/)
 - [Marvis ](https://www.marvis.com/)
+- [Правильная чистка зубов](https://twitter.com/kobranna/status/1596872812232601604)

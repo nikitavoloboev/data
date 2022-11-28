@@ -87,7 +87,7 @@ I also did take [MDMA analogue](https://realchems.net/blue-bliss-pellets-2-fma-5
 
 Speaking of healthy lifestyle, I am very excited to start my new [skin care](../../health/skin-care.md) routine with my new [morning shakes and supplements](../../health/nutrition/supplements.md) and generally super healthy diet. But more importantly [exercising](../../fitness/exercises.md) every day. Got all the routines outlined and all, just need to push myself to actually go through the pain that is exercising until muscle exhaustion. 
 
-Other than that, all's well. December next month, then new year. I think I have a good thing going as far as my planning workflow is going. Some things I do want to build still to streamline my workflow but I've been saying this for years now, really need to just release small actually working things, even if they maybe a bit 'ugly' at first. Iterate. Iterate. Release.
+Other than that, all's well. December next month, then new year. I think I have a good thing going as far as my planning workflow is concerned. Some things I do want to build still to streamline my workflow but I've been saying this for years now, really need to just release small actually working things, even if they maybe a bit 'ugly' at first. Iterate. Iterate. Release.
 
 One thing I am truly happy I learned well through the actual years of writing this wiki. Is that I genuinely note down everything I found interesting in this wiki. I collect [contacts](../../macOS/apps/contacts.md) of people I find interesting. Collect [ideas](../../ideas/ideas.md). Collect genuinely everything and try to make sense of it all in making my own life better.
 

@@ -117,3 +117,4 @@
 - [Memory safety in C++, Zig, & Rust (2022)](https://www.youtube.com/watch?v=qeiRGbYCD-0)
 - [samsara](https://github.com/chc4/samsara) - Reference-counting cycle collection library in rust.
 - [xv6: How exactly is memory addressed? (2020)](https://yohei.codes/post/xv6-memory-1/)
+- [Using rr to quickly debug memory corruption (2022)](https://zig.news/david_vanderson/using-rr-to-quickly-debug-memory-corruption-2539)

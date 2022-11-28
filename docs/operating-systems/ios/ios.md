@@ -541,3 +541,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [How to master UIKit? (2022)](https://www.reddit.com/r/iOSProgramming/comments/z1e1o2/ic_6_ios_eng_here_how_can_i_master_uikit_my_lack/)
 - [Golang-iDevice](https://github.com/electricbubble/gidevice) - Communicate with iOS devices implemented with Go.
 - [Golang-WDA](https://github.com/electricbubble/gwda) - WebDriverAgent ( iOS ) Client Library in Go.
+- [How I write this blog on my iPhone, from a train (2022)](https://notes.alinpanaitiu.com/How%20I%20write%20this%20blog%20on%20my%20iPhone%20in%20a%20train)

@@ -239,7 +239,7 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [PiGallery2](https://github.com/bpatrik/pigallery2) - Fast directory-first photo gallery website, with rich UI, optimized for running on low resource servers.
 - [Rendering Natural Camera Bokeh Effect with Deep Learning](https://github.com/aiff22/PyNET-Bokeh)
 - [iPhone 14 Pro Camera Review: Scotland (2022)](https://www.austinmann.com/trek/iphone-14-pro-camera-review-scotland) ([HN](https://news.ycombinator.com/item?id=32843892))
-- [Photography for geeks](https://lcamtuf.coredump.cx/photo_basics/)
+- [Photography for geeks](https://lcamtuf.coredump.cx/photo_basics/) ([HN](https://news.ycombinator.com/item?id=33767935))
 - [iPhone 14 Pro Camera Preview: The Hardware Changes (2022)](https://lux.camera/iphone-14-pro-camera-preview-the-hardware-changes/)
 - [Questions I have been asked about photography](https://gist.github.com/tef/9f515f36d6fc5f0b1aa0adc5f4d730be)
 - [Alternatives to Lightroom](https://twitter.com/rsms/status/1573711186847145985)
