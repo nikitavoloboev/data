@@ -1,6 +1,6 @@
 # Domains
 
-Prefer to use Google Domains over everything. I like to subdomain over my personal site in order to not pay the domain cost for nearly all personal projects I work on. Saves on cost.
+Prefer to use [Google Domains](https://domains.google/) over everything. I like to subdomain over my personal site in order to not pay the domain cost for nearly all personal projects I work on. Saves on cost.
 
 ## Links
 
@@ -33,3 +33,4 @@ Prefer to use Google Domains over everything. I like to subdomain over my person
 - [Find a good available .com domain](https://sive.rs/com) ([HN](https://news.ycombinator.com/item?id=31664440))
 - [Favorite tld tier list](https://twitter.com/t3dotgg/status/1584039578779799552)
 - [Hardening unused (sub)domains (2022)](https://www.mailhardener.com/kb/hardening-unused-domains)
+- [One Word Domains](https://oneword.domains/) - Database of available and brandable one-word domains. ([Tweet](https://twitter.com/steventey/status/1597293104276869122))

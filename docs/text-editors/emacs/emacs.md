@@ -133,3 +133,4 @@ Might give it a go sometime.
 - [Emacs.ch](https://emacs.ch/) - Mastodon instance for Emacs enthusiasts.
 - [An Interview with Mickey Petersen, author of Mastering Emacs (2022)](https://syntopikon.substack.com/p/an-interview-with-mickey-petersen)
 - [Pattern Matching and Tail Recursion in Emacs Lisp (2022)](https://arnesonium.com/2022/11/pattern-matching-tail-recursion-emacs-lisp) ([HN](https://news.ycombinator.com/item?id=33717831))
+- [Emacs 29 (2022)](https://blog.phundrak.com/emacs-29-what-can-we-expect/) ([HN](https://news.ycombinator.com/item?id=33788208))

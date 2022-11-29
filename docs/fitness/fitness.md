@@ -15,6 +15,7 @@ I currently don't go to the gym so do workouts at home without any special gear 
 1. [Push ups](https://www.youtube.com/watch?v=IODxDxX7oi4) (2 reps maxing out each rep)
 2. [Deep squats](https://www.youtube.com/watch?v=gsNoPYwWXeM) (2 reps maxing out each rep)
 3. [Downward dog to cobra pose](https://www.youtube.com/shorts/ZH7HFPIWILk) (2 reps maxing out each rep)
+4. [Jump squads](https://www.youtube.com/watch?v=A-cFYWvaHr0) (2 reps maxing out each rep)
 
 Mostly taken as inspiration from this [daily home training routine](https://www.youtube.com/watch?v=5Jth37OywOE) & [morning routine](https://www.youtube.com/watch?v=pc2xlLuCp4Y) videos. The way [Joe](https://www.youtube.com/user/JoeDelaneyy/videos) lays out the [plan with reps](https://youtu.be/5Jth37OywOE?t=571) is interesting, I currently try to just push each rep until failure.
 

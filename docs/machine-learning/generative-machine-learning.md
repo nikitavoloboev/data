@@ -180,3 +180,4 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [Math of diffusion (2022)](https://wasimlorgat.com/posts/math-of-diffusion.html)
 - [AI Art Panic (2022)](https://opguides.info/posts/aiartpanic/)
 - [Some notes on the Stable Diffusion safety filter (2022)](https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/)
+- [Stable Diffusion 2.0 and the Importance of Negative Prompts for Good Results (2022)](https://minimaxir.com/2022/11/stable-diffusion-negative-prompt/) ([HN](https://news.ycombinator.com/item?id=33780543))

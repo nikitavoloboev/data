@@ -39,3 +39,4 @@ I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me fo
 - [Meta Mate](https://metamate.cc/)
 - [Caffeinated teas that state good black](https://www.reddit.com/r/tea/comments/yxt1fr/can_anyone_recommend_a_caffinated_tea_thats/)
 - [Yerba mate is amazing](https://www.reddit.com/r/Nootropics/comments/yu19ze/yerba_mate_is_god_sent/)
+- [What kind of tea is proven to be good for you?](https://www.reddit.com/r/nutrition/comments/z7miml/what_kind_of_tea_is_proven_to_be_good_for_you/)

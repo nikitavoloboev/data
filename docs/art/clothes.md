@@ -90,3 +90,4 @@ Still exploring different kinds of clothing styles. I currently mostly use [Bjö
 - [My Favorite Men's Underwear](https://www.youtube.com/watch?v=PRj3dSyIgxg)
 - [Björn Borg](https://www.bjornborg.com/en/) - Underwear and training clothes.
 - [Casatlantic](https://www.casatlantic.com/) - Ready to Wear | Made in Casablanca.
+- [How to buy a good cashmere sweater](https://twitter.com/dieworkwear/status/1597339373900824576)

@@ -270,3 +270,4 @@
 - [CNext Instructions](https://github.com/cnextio/cnext) - Data-centric workspace for DS and AI.
 - [In what situations would a Bayesian model work better than frequentist model? (2022)](https://www.reddit.com/r/datascience/comments/y4obe5/in_what_situations_would_a_bayesian_model_work/)
 - [Ask HN: Data Scientists, what libraries do you use for timeseries forecasting? (2022)](https://news.ycombinator.com/item?id=33447976)
+- [Goodbye, Data Science (2022)](https://ryxcommar.com/2022/11/27/goodbye-data-science/) ([HN](https://news.ycombinator.com/item?id=33787270))
