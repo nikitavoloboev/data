@@ -301,3 +301,4 @@
 - [Considering C99 for curl (2022)](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/) ([HN](https://news.ycombinator.com/item?id=33704054))
 - [C compiler written in Swift](https://github.com/mattjbird/clanger)
 - [GCC undefined behaviors are getting wild (2022)](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
+- [Everything I wish I knew when learning C (2022)](https://tmewett.com/c-tips/) ([HN](https://news.ycombinator.com/item?id=33773043))

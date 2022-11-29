@@ -269,4 +269,4 @@ title: SwiftUI
 - [SwiftUI Animations by Tutorials (2022)](https://www.kodeco.com/books/swiftui-animations-by-tutorials)
 - [My Real Challenge with SwiftUI (2022)](https://www.swiftjectivec.com/the-real-challenge-with-swiftui/)
 - [Custom Shape in SwiftUI (2022)](https://www.devtechie.com/community/public/posts/149917-custom-shape-in-swiftui)
-- [SwiftUI is convenient, but slow (2022)](https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow)
+- [SwiftUI is convenient, but slow (2022)](https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow) ([HN](https://news.ycombinator.com/item?id=33772876))
