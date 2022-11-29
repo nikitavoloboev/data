@@ -34,3 +34,4 @@ title: Service workers
 - [make-asynchronous](https://github.com/sindresorhus/make-asynchronous) - Make a synchronous function asynchronous by running it in a worker.
 - [Speed Up Your Site with Workers (2022)](https://www.youtube.com/watch?v=yEtT0C4vsRM)
 - [Service Workers Spec](https://w3c.github.io/ServiceWorker/) ([Code](https://github.com/w3c/ServiceWorker))
+- [Hijacking service workers via DOM Clobbering (2022)](https://portswigger.net/research/hijacking-service-workers-via-dom-clobbering)

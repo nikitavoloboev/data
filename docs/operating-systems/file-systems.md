@@ -150,3 +150,4 @@
 - [MemProcFS](https://github.com/ufrisk/MemProcFS) - Memory Process File System.
 - [ntfs Rust crate](https://github.com/ColinFinck/ntfs) - Low-level NTFS filesystem library implemented in Rust.
 - [lfs](https://github.com/Canop/lfs) - Linux utility to get information on filesystems, like df but better.
+- [Dirdiff](https://github.com/OCamlPro/dirdiff) - Efficiently compute the differences between two directories.

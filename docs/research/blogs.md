@@ -229,6 +229,9 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Vicki Boykis](https://vickiboykis.com/)
 - [Simon Eskildsen](https://sirupsen.com/)
 - [Max Woolf](https://minimaxir.com/)
+- [Jake Lazaroff](https://jakelazaroff.com/)
+- [Predrag](https://predr.ag/blog/)
+- [Arthur Carcano](https://ngr.yt/blog/)
 
 ## Notes
 

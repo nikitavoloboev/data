@@ -292,3 +292,4 @@
 - [The Distributed Computing Manifesto (2022)](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
 - [Planet-Scale Leaderless Consensus (2022)](https://vitorenes.org/publication/phd-thesis/)
 - [Moving Away from UUIDs (2018)](https://neilmadden.blog/2018/08/30/moving-away-from-uuids/) ([HN](https://news.ycombinator.com/item?id=33699298))
+- [How Paxos and Two-Phase Commit Differ (2021)](https://predr.ag/blog/paxos-vs-2pc/)

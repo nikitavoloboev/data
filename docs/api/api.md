@@ -441,3 +441,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Metlo](https://github.com/metlo-labs/metlo) - Open-source API security platform. ([Web](https://www.metlo.com/)) ([HN](https://news.ycombinator.com/item?id=33534856))
 - [Nango](https://github.com/NangoHQ/nango) - Easiest way to sync data from external APIs.
 - [spego](https://github.com/kevinswiber/spego) - Set of policies for Open Policy Agent to validate OpenAPI definitions.
+- [To infinity and beyond: enabling the future of GitHub's REST API with API versioning (2022)](https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/) ([Lobsters](https://lobste.rs/s/4xdx12/infinity_beyond_enabling_future_github_s))

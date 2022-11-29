@@ -478,3 +478,4 @@ I do write Rust, but tried out [Zig](zig/zig.md) when I want to write embedded c
 - [Simple Refinement of Anonymous Sum Types in Pattern Matches (2022)](https://ayazhafiz.com/articles/22/simple-flow-refinement-of-anonymous-sum-types)
 - [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html) ([HN](https://news.ycombinator.com/item?id=33758578))
 - [Rune](https://github.com/google/rune) - Programming language developed to test ideas for improving security and efficiency. ([HN](https://news.ycombinator.com/item?id=33761193))
+- [A review of elementary data types : numbers and strings (2022)](https://lemire.me/blog/2022/09/30/a-review-of-elementary-data-types-numbers-and-strings/)
