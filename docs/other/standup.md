@@ -60,3 +60,4 @@ Quite like [Bill Burr](https://billburr.com/).
 - [Seven Things I Learnt Doing Stand-Up Comedy (2022)](https://michaelgv.uk/posts/2022/08/seven-things-i-learnt-doing-stand-up-comedy/) ([HN](https://news.ycombinator.com/item?id=32424228))
 - [Stand-up/comedy podcast recommendations (2022)](https://www.reddit.com/r/podcasts/comments/xnqe2g/standupcomedy_podcast_recommendations/)
 - [Top 5 Stand up specials of the past 10 years? (2022)](https://www.reddit.com/r/Standup/comments/xt3buw/top_5_stand_up_specials_of_the_past_10_years/)
+- [Who is currently the most popular standup comedian in US ? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/z7cwm6/who_is_currently_the_most_popular_standup/)

@@ -613,6 +613,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [vert](https://github.com/norunners/vert) - WebAssembly interop between Go and JS values.
 - [WASM-Fetch](https://github.com/marwan-at-work/wasm-fetch) - Web Assembly fetch wrapper that avoids importing net/http.
 - [wasmexec](https://github.com/prep/wasmexec) - Runtime-agnostic implementation of Go's wasm_exec.js in Go.
+- [Waggy](https://github.com/syke99/waggy) - Dead simple, easy-to-use library for writing WAGI (Web Assembly Gateway Interface) API handlers in Go.
 
 ## GUI
 

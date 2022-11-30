@@ -137,7 +137,7 @@ title: Jupyter Notebooks
 - [Jupyter Widget Tutorial](https://github.com/jupyter-widgets/tutorial)
 - [Improvements to Jupyter Notebooks (2021)](https://twitter.com/isosteph/status/1376563122605944832)
 - [Voila](https://github.com/voila-dashboards/voila) - Turns Jupyter notebooks into standalone web applications.
-- [JupyterLite](https://jupyterlite.vercel.app/doc/workspaces) - WASM powered Jupyter running in the browser. ([Code](https://github.com/jtpio/jupyterlite)) ([HN](https://news.ycombinator.com/item?id=27323548))
+- [JupyterLite](https://github.com/jupyterlite/jupyterlite) - WASM powered Jupyter running in the browser. ([HN](https://news.ycombinator.com/item?id=27323548)) ([HN](https://news.ycombinator.com/item?id=33782010))
 - [JupyterLite Demo](https://github.com/jtpio/jupyterlite-demo) - JupyterLite demo deployed to GitHub Pages.
 - [JupyterLite: Jupyter WebAssembly Python (2021)](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
 - [Jupyter Kernel Gateway](https://github.com/jupyter/kernel_gateway) - Web server that provides headless access to Jupyter kernels.

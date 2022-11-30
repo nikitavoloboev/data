@@ -146,3 +146,4 @@ title: BitTorrent
 - [we-get](https://github.com/rachmadaniHaryono/we-get) - Command-line tool for searching torrents.
 - [Gopeed](https://github.com/monkeyWie/gopeed) - High speed downloader that supports all platforms.
 - [Planktos](https://github.com/xuset/planktos) - Serving websites over BitTorrent.
+- [WebTorrent FAQ](https://webtorrent.io/faq) ([HN](https://news.ycombinator.com/item?id=33790186))

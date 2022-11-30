@@ -2648,3 +2648,4 @@
 - [Rust enum-match code generation (2022)](https://www.eventhelix.com/rust/rust-to-assembly-enum-match/)
 - [Migrating from warp to axum (2022)](https://fasterthanli.me/series/updating-fasterthanli-me-for-2022/part-2) ([HN](https://news.ycombinator.com/item?id=33718765))
 - [Dandiya](https://github.com/abonkoski/dandiya) - API description tool designed to ensure ABI stability.
+- [TheBook](https://github.com/0xhiro/thebook) - Search and read 'The Rust Book' from the terminal. ([Reddit](https://www.reddit.com/r/rust/comments/z7j0yx/i_turned_the_rust_book_into_a_crate/))

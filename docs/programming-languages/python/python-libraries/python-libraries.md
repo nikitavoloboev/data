@@ -1076,6 +1076,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [pretty_midi](https://github.com/craffel/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
 - [matplotlib-pyodide](https://github.com/pyodide/matplotlib-pyodide) - HTML5 backends for Matplotlib compatible with Pyodide.
 - [TrueCase](https://github.com/daltonfury42/truecase) - Language independent, statistical, language modeling based tool in Python that restores case information for text.
+- [Graph Force](https://github.com/H4kor/graph-force) - Python library for embedding large graphs (Written in Rust). ([HN](https://news.ycombinator.com/item?id=33784271))
 
 ## Notes
 
