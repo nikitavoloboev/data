@@ -182,3 +182,4 @@
 - [vectormaker](https://vectormaker.co/) - Convert PNG-to-SVG Vectors. ([Code](https://github.com/btk/vectorizer))
 - [SVG text to path](https://github.com/paulzi/svg-text-to-path) - Convert SVG nodes to vector font-free elements.
 - [Svgl](https://svgl.vercel.app/) - Beautiful library with SVG logos. ([Code](https://github.com/pheralb/svgl))
+- [Online SVG Animation Creator](https://bestsnip.com/svg_animation/) ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/z87md3/online_svg_animation_creator/))

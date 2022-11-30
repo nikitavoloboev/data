@@ -198,3 +198,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [How to bury carbon? Let plants do the dirty work](https://worldsensorium.com/how-to-bury-carbon-let-plants-do-the-dirty-work/) ([HN](https://news.ycombinator.com/item?id=32794424))
 - [Prospects for carbon-negative biomanufacturing: Trends in Biotechnology (2022)](<https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(22)00238-4>)
 - [Lobelia](https://www.lobelia.earth/) - Earth Observation to address the climate emergency.
+- [Ask HN: How innovative is the hydrogen industry? (2022)](https://news.ycombinator.com/item?id=33789397)

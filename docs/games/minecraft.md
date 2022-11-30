@@ -144,3 +144,4 @@ title: Minecraft
 - [JustEnoughItems](https://github.com/mezz/JustEnoughItems) - Item and Recipe viewing mod for Minecraft.
 - [Minecraft-Data-Rs](https://github.com/Trivernis/minecraft-data-rs) - Rust library to access minecraft data.
 - [SwiftUICraft](https://github.com/aheze/SwiftUICraft) - Minecraft but made with SwiftUI.
+- [Convert SimCity 2000 cities into Minecraft worlds](https://github.com/jgosar/mine-city-2000) ([HN](https://news.ycombinator.com/item?id=33799526))

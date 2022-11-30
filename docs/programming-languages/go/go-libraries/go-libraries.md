@@ -87,6 +87,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [tablewriter](https://github.com/caarlos0/tablewriter) - Simple table using lipgloss and text/tabwriter.
 - [nfigure](https://github.com/muir/nfigure) - Go struct-tag based configfile and flag parsing.
 - [go-tty](https://github.com/mattn/go-tty) - Simple tty utility.
+- [shellescape](https://github.com/alessio/shellescape) - Escape arbitrary strings for use as command line arguments.
 
 ## Test
 
@@ -1919,6 +1920,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Units](https://github.com/smyrman/units) - Go library that makes it easy to work with physical types, e.g. distances, velocities and angles.
 - [JSON Schema structures for Go](https://github.com/swaggest/jsonschema-go) - Go structures to marshal/unmarshal and reflect JSON Schema documents.
 - [getenv](https://github.com/obalunenko/getenv) - Loading environment variables and parse them into go builtin types.
+- [VarInt](https://github.com/1pkg/varint) - Fast & memory efficient arbitrary bit width integers in Go.
+- [Gogu](https://github.com/esimov/gogu) - Comprehensive, reusable and efficient concurrent-safe utility functions and data structures library.
+- [Go FTP Server library](https://github.com/fclairamb/ftpserverlib)
 
 ## Links
 

@@ -23,7 +23,7 @@ Love [Italic](https://italic.com/) & [Beauty of Joseon](https://beautyofjoseon.c
 - [The Anti-Amazon Alliance (2020)](https://stratechery.com/2020/the-anti-amazon-alliance/) ([HN](https://news.ycombinator.com/item?id=23007365))
 - [Thoughts on Ecommerce: The Status Quo (2020)](https://julian.digital/2020/05/17/thoughts-on-ecommerce-the-status-quo-shopify-shop-amazon/) ([HN](https://news.ycombinator.com/item?id=23238347))
 - [GoCommerce](https://github.com/netlify/gocommerce) - Small go based API for static e-commerce sites.
-- [Saleor Commerce](https://saleor.io/) - Modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React. ([Code](https://github.com/saleor/saleor)) ([Twitter](https://twitter.com/getsaleor)) ([GitHub](https://github.com/saleor))
+- [Saleor Commerce](https://saleor.io/) - Modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React. ([Code](https://github.com/saleor/saleor)) ([Twitter](https://twitter.com/getsaleor)) ([GitHub](https://github.com/saleor)) ([Saleor Dashboard](https://github.com/saleor/saleor-dashboard)) ([Docs Code](https://github.com/saleor/saleor-docs)) ([SDK](https://github.com/saleor/saleor-app-sdk))
 - [Amplemarket](https://amplemarket.com/) - Next Generation Sales Intelligence.
 - [Faire](https://www.faire.com/) - Online Wholesale Marketplace & Store. ([Tweet](https://twitter.com/ryan_caldbeck/status/1462127018196230152))
 - [JAMstack ECommerce Professional](https://github.com/jamstack-cms/jamstack-ecommerce) - Provides a way to quickly get up and running with a fully configurable JAMstack E Commerce site.

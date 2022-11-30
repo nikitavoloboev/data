@@ -282,3 +282,4 @@ And these Discord servers:
 - [News Homepages](https://palewi.re/docs/news-homepages/) - Open-source archive that gathers, saves, shares and analyzes news homepages. ([Code](https://github.com/palewire/news-homepages/)) ([Runner](https://github.com/palewire/news-homepages-runner))
 - [HN Ratio](https://github.com/paradite/hn-ratio) - Hacker News top 50 stories ranked by Comment/Score ratio.
 - [Как победить информационный шум](https://www.youtube.com/watch?v=cTz_jUwgxZY)
+- [Ask HN: Alternatives to The Economist? (2022)](https://news.ycombinator.com/item?id=33799353)

@@ -285,3 +285,4 @@ title: Spatial analysis
 - [Measuring Walkability with Openstreetmap and Isochrone Maps (2022)](https://wcedmisten.fyi/post/isochrone-walkability/)
 - [Exploratory Spatial Data Analysis in PySAL](https://github.com/pysal/esda)
 - [Geoscan](https://github.com/databrickslabs/geoscan) - Geospatial clustering at massive scale.
+- [Location History Format](https://github.com/CarlosBergillos/LocationHistoryFormat) - Collaborative format definition and documentation for Google Location History files.

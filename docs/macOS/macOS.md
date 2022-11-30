@@ -311,3 +311,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [All of the sounds in macOS Big Sur](https://github.com/ThisIsNoahEvans/BigSurSounds)
 - [Lightweight Alpine VMs on macOS](https://beringresearch.github.io/macpine/) ([HN](https://news.ycombinator.com/item?id=33769274)) ([Code](https://github.com/beringresearch/macpine))
 - [The Impossible Port: MacOS (2022)](https://blog.ryujinx.org/the-impossible-port-macos/) ([Lobsters](https://lobste.rs/s/acbp3c/impossible_port_macos))
+- [Cilicon](https://github.com/traderepublic/Cilicon) - Self-Hosted macOS CI on Apple Silicon.

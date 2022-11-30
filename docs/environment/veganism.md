@@ -4,11 +4,11 @@ I think it's [mind numbing how animals can be treated by people](https://www.red
 
 Watching [Earthlings](https://letterboxd.com/film/earthlings/) made me go [pescatarian](https://en.wikipedia.org/wiki/Pescetarianism) instantly after watching. I limit number of fish I eat too. Think Earthlings or [Dominion](https://www.youtube.com/watch?v=ny6aqdFy9SI) should be a mandatory watch for everyone. As it should be enough to at least make you reconsider what food you eat. Thankfully whole food plant based diet is [genuinely a healthier diet](../health/nutrition/nutrition.md) too and there's so many fruits, vegetables and beans that you can choose to eat whilst making it tasty too. I often [love eating blueberries, avocados, walnuts and almonds raw](../health/nutrition/foods.md) and making [delicious smoothies](../health/nutrition/recipes.md). But love making various recipes too and generally love exploring non meat cuisine around the globe as I travel.
 
-I hope more people wake up to this issue and it changes soon. Because animals should not be treated like that and [especially at such scales](https://twitter.com/peterwildeford/status/1520984767549878273). It's sad. 
+I hope more people wake up to this issue and it changes soon. Because animals should not be treated like that and [especially at such scales](https://twitter.com/peterwildeford/status/1520984767549878273). It's sad.
 
-I personally believe the idea of [reincarnation](https://en.wikipedia.org/wiki/Reincarnation), only your memory does get wiped after you [die](../life/death.md). Existence never stops though and you will continue to exist as some other conscious being. And I truly want to minimize my chances of being born into a pig that lives it's entire life in a slaughterhouse, just counting its days until the end.   
+I personally believe the idea of [reincarnation](https://en.wikipedia.org/wiki/Reincarnation), only your memory does get wiped after you [die](../life/death.md). Existence never stops though and you will continue to exist as some other conscious being. And I truly want to minimize my chances of being born into a pig that lives it's entire life in a slaughterhouse, just counting its days until the end.
 
-That's why it's so essential everyone acts nicely to each other. Because in some way, everyone is [actually you too](http://www.galactanet.com/oneoff/theegg_mod.html). To me this is the most plausible scenario of what happens when you die.  
+That's why it's so essential everyone acts nicely to each other. Because in some way, everyone is [actually you too](http://www.galactanet.com/oneoff/theegg_mod.html). To me this is the most plausible scenario of what happens when you die.
 
 ## Notes
 
@@ -71,3 +71,4 @@ That's why it's so essential everyone acts nicely to each other. Because in some
 - [Ethical animal farming of any type does not exist](https://www.reddit.com/r/vegan/comments/uoaa0b/had_to_say_i_tried/)
 - [Your unpopular vegan opinion?](https://www.reddit.com/r/vegan/comments/x51iue/your_unpopular_vegan_opinion/)
 - [How sustainable are fake meats? (2022)](https://knowablemagazine.org/article/food-environment/2022/how-sustainable-are-fake-meats)
+- [Beyond Meat is struggling, and the plant-based meat industry worries (2022)](https://www.nytimes.com/2022/11/21/business/beyond-meat-industry.html) ([HN](https://news.ycombinator.com/item?id=33773135))

@@ -193,3 +193,5 @@
 - [Applications of Quantum Annealing in Cryptography (2022)](https://arxiv.org/abs/2211.10076)
 - [jq255 Elliptic Curve Specification, and a Retrospective (2022)](https://research.nccgroup.com/2022/11/21/a-jq255-elliptic-curve-specification-and-a-retrospective/)
 - [Emerging Biometric Modalities and their Use: Loopholes in the Terminology of the GDPR and Resulting Privacy Risks (2022)](https://arxiv.org/abs/2211.12899)
+- [Tandem](https://github.com/sine-fdn/tandem) - Cryptographic Engine for Secure Multi-Party Computation using Garbled Circuits.
+- [SINE Foundation](https://sine.foundation/) ([GitHub](https://github.com/sine-fdn))

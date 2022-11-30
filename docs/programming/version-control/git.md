@@ -604,3 +604,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [git-theta](https://github.com/r-three/git-theta) - Git extension for {collaborative, communal, continual} model development.
 - [Extremely Linear Git History (2022)](https://westling.dev/b/extremely-linear-git) ([HN](https://news.ycombinator.com/item?id=33704297)) ([Lobsters](https://lobste.rs/s/ydy5vs/extremely_linear_git_history))
 - [git2 Extensions](https://github.com/gitext-rs/git2-ext)
+- [popb](https://github.com/pwoolcoc/pushb) - Like pushd, but for git branches.

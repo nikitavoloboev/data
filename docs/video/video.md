@@ -160,7 +160,7 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [youtube-dl](https://youtube-dl.org/) - Command-line program to download videos from YouTube.com and a few more sites. ([Code](https://github.com/ytdl-org/youtube-dl)) ([Download YouTube Video in Go](https://github.com/kkdai/youtube)) ([Origins of the youtube-dl project](https://rg3.name/202011071352.html)) ([HN](https://news.ycombinator.com/item?id=25047818))
 - [LiveGo](https://github.com/gwuhaolin/livego) - Simple and efficient live broadcast server in Go.
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in JavaScript.
-- [FFmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly. ([Web](https://ffmpegwasm.github.io/)) ([HN](https://news.ycombinator.com/item?id=28251801))
+- [FFmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly. ([Web](https://ffmpegwasm.github.io/)) ([HN](https://news.ycombinator.com/item?id=28251801)) ([HN](https://news.ycombinator.com/item?id=33794122))
 - [Frame.io](https://frame.io/) - Video Review and Collaboration Software.
 - [stream.new](https://stream.new/) - Add a video. Get a shareable link to stream it. ([Code](https://github.com/muxinc/stream.new))
 - [Video.js](https://github.com/videojs/video.js) - HTML5 Video Player.

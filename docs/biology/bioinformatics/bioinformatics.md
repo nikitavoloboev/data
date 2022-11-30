@@ -256,3 +256,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [This is biology's century. We're not ready for it (2022)](https://www.statnews.com/2022/11/03/why-were-not-prepared-for-next-wave-of-biotech-innovation/)
 - [Foresight Institute](https://foresight.org/) - Catalyzing Transformative Technologies. ([Twitter](https://twitter.com/foresightinst))
 - [Why use Rust for bioinformatics? Defining the problem space. (2022)](https://combine-lab.github.io/blog/2022/11/25/rust-for-bioinformatics-part-1.html) ([Reddit](https://www.reddit.com/r/rust/comments/z54uoy/why_use_rust_for_bioinformatics_defining_the/))
+- [Progres](https://github.com/jgreener64/progres) - Protein Graph Embedding Search.

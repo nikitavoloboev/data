@@ -178,7 +178,7 @@ title: WebAssembly
 - [Rust WebAssembly React Template](https://github.com/Fallenstedt/wasm-react-webpack-template)
 - [Defense in depth: stopping a Wasm compiler bug before it became a problem (2021)](https://www.fastly.com/blog/defense-in-depth-stopping-a-wasm-compiler-bug-before-it-became-a-problem)
 - [WebAssembly Tour](https://github.com/thangchung/webassembly-tour)
-- [WasmEdge](https://github.com/WasmEdge/WasmEdge) - High-performance, extensible, and hardware optimized WebAssembly Virtual Machine for cloud, AI, and blockchain applications. ([Web](https://wasmedge.org/))
+- [WasmEdge](https://github.com/WasmEdge/WasmEdge) - High-performance, extensible, and hardware optimized WebAssembly Virtual Machine for cloud, AI, and blockchain applications. ([Web](https://wasmedge.org/)) ([HN](https://news.ycombinator.com/item?id=33792322))
 - [webassemblyjs](https://github.com/xtuc/webassemblyjs) - Toolchain for WebAssembly.
 - [wasm-lsp-server](https://github.com/wasm-lsp/wasm-lsp-server) - Language server implementation for WebAssembly.
 - [Making JavaScript run fast on WebAssembly (2021)](https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly) ([HN](https://news.ycombinator.com/item?id=27370138))

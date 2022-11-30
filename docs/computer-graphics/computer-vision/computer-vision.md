@@ -2,6 +2,8 @@
 
 [LiT (Locked-image Tuning)](https://twitter.com/giffmana/status/1508400604082806785) paper is neat. Trying to understand [Vision Transformers](https://github.com/lucidrains/vit-pytorch). [Kornia](https://github.com/kornia/kornia) seems like a great library. [Imagen](https://github.com/lucidrains/imagen-pytorch) is fascinating.
 
+[Embedding Methods for Image Search](https://www.pinecone.io/learn/image-search/) is a nice read.
+
 ## Links
 
 - [OpenCV](https://github.com/opencv/opencv) - Open Source Computer Vision Library. ([Web](https://opencv.org/)) ([OpenCV Course](https://www.youtube.com/watch?v=oXlwWbU8l2o))
@@ -1009,3 +1011,9 @@
 - [CLIP4Cir](https://github.com/ABaldrati/CLIP4Cir) - CLIP for Conditioned image retrieval training code.
 - [Physics-based Character Controllers Using Conditional VAEs (2022)](https://research.facebook.com/publications/physics-based-character-controllers-using-conditional-vaes/) ([Code](https://github.com/facebookresearch/PhysicsVAE))
 - [Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition (2021)](https://arxiv.org/abs/2107.09249) ([Code](https://github.com/Vanint/SADE-AgnosticLT))
+- [Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention (2022)](https://arxiv.org/abs/2210.09071) ([Code](https://github.com/ashutosh1807/PixelFormer))
+- [VLDet: Learning Object-Language Alignments for Open-Vocabulary Object Detection (2022)](https://github.com/clin1223/VLDet)
+- [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views (2022)](https://arxiv.org/abs/2211.16431) ([Code](https://github.com/VITA-Group/NeuralLift-360))
+- [Vision Transformers (ViT) Explained (2022)](https://www.pinecone.io/learn/vision-transformers/) ([HN](https://news.ycombinator.com/item?id=33786773))
+- [Embedding Methods for Image Search | Pinecone](https://www.pinecone.io/learn/image-search/)
+- [Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion (2022)](https://arxiv.org/abs/2211.11674) ([Code](https://github.com/google-research/nerf-from-image))

@@ -213,3 +213,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [D1-ORM](https://github.com/Interactions-as-a-Service/d1-orm) - Simple, strictly typed ORM, to assist you in using Cloudflare's D1 product.
 - [Bootstrapping your D1 Database With D1-ORM (2022)](https://blog.interactions.rest/blog/bootstrapping-d1/)
 - [Kysely-D1](https://github.com/aidenwallis/kysely-d1) - Kysely adapter for Cloudflare D1.
+- [Cloudflare Worker Project Template](https://github.com/drivly/worker.templates.do)

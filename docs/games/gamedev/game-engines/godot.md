@@ -99,4 +99,4 @@ title: Godot
 - [V-Sekai](https://github.com/V-Sekai/v-sekai-game) - Open source project aiming to bring social VR/VRSNS/metaverse components to the Godot Engine.
 - [Replicating quake movement in Godot](https://github.com/axel37/godot-quake-movement)
 - [GdUnit4](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Test Framework.
-- [Godot Engine Release Management: 4.0 and beyond (2022)](https://godotengine.org/article/release-management-4-0-and-beyond) ([HN](https://news.ycombinator.com/item?id=33793281))
+- [Godot Engine Release Management: 4.0 and beyond (2022)](https://godotengine.org/article/release-management-4-0-and-beyond) ([HN](https://news.ycombinator.com/item?id=33793281)) ([Reddit](https://www.reddit.com/r/godot/comments/z801lr/release_management_40_and_beyond/))

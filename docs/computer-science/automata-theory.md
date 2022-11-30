@@ -77,3 +77,4 @@ title: Automata theory
 - [CellPond](https://github.com/TodePond/CellPond) - Surreal cellular automata. ([Web](https://cellpond.cool/))
 - [Go-L](https://github.com/Jeadie/Go-L) - Game of Life with different update rules and on a bunch of different topologies (sphere, torus, klein bottle, etc.). ([HN](https://news.ycombinator.com/item?id=33503630))
 - [Digital astronomy with cellular automata](https://kylehovey.github.io/blog/automata-nebula) ([HN](https://news.ycombinator.com/item?id=33578376))
+- [Building arbitrary Life patterns in 15 gliders (2022)](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/) ([HN](https://news.ycombinator.com/item?id=33797799))

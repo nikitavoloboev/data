@@ -22,6 +22,7 @@ title: Tauri
 - [Tauri Tray App](https://github.com/jondot/tauri-tray-app) - Template should help get you started developing a Tauri tray app with an app window and full communication between the JS and Rust side.
 - [Taurine](https://github.com/Perfect7M/taurine) - Tauri + Node.js stater.
 - [Mediarepo](https://github.com/Trivernis/mediarepo) - Tool for managing media files.
+- [Upscale-rs](https://github.com/OLoKo64/upscale-rs) - Tauri based GUI app that upscale images using Real-ESRGAN model.
 
 ## Notes
 

@@ -708,3 +708,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Dealster](https://dealster.io/)
 - [Hacker News Stylometry Analysis](https://stylometry.net/) - Using stylometry to find HN users with alternate accounts. ([HN](https://news.ycombinator.com/item?id=33755016))
 - [Turn any Wikipedia article into a video, automatically (2020)](https://ailef.tech/2020/04/29/turn-any-wikipedia-article-into-a-video-automatically/)
+- [Where does all the cardboard come from?](https://www.nytimes.com/2022/11/28/magazine/cardboard-international-paper.html) ([HN](https://news.ycombinator.com/item?id=33781403))
+- [Trading cards made with e-ink displays](https://www.wyldcard.io/blog/introducing-wyldcard) ([HN](https://news.ycombinator.com/item?id=33795296))
+- [Photo to Anime](https://h5.tu.qq.com/web/ai-2d/cartoon/index)
+- [Some nice < 500$ Christmas things to buy (2022)](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/z88wjj/boss_giving_me_500_for_christmas_what_indulgent/)

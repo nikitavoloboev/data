@@ -16,3 +16,4 @@
 - [Which Indian famous personalities you find extremely charismatic and likable? And what make them that according to you? (2022)](https://www.reddit.com/r/india/comments/we40n4/which_indian_famous_personalities_you_find/)
 - [Catalog of resources for Indian language NLP](https://github.com/AI4Bharat/indicnlp_catalog)
 - [India Compliance](https://github.com/resilient-tech/india-compliance) - Simple, yet powerful compliance solutions for Indian businesses.
+- [What to expect coming to India after 10 years away (2022)](https://www.reddit.com/r/india/comments/z8gbg5/planning_to_move_back_dink_couple_from_canada/)

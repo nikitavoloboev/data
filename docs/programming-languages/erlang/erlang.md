@@ -4,6 +4,8 @@ title: Erlang
 
 # [Erlang](https://www.erlang.org/)
 
+[Lunatic](https://lunatic.solutions/) is interesting.
+
 ## Notes
 
 - [Actors do not an Erlang make. What makes an Erlang: Isolation. A crash in an actor cannot bring down other actors. Cannot bring down the runtime. In Go `panic` crashes the program. In Erlang "panic" crashes an actor, and... that's it. Monitoring. The above makes an important property of the system: a process can be monitored, and when it dies you can be guaranteed to receive a message that it died, and why. This lets you build things like supervision trees that are impossible/hard/ineffecient(chose two) in other languages.](https://news.ycombinator.com/item?id=28015016)
@@ -171,3 +173,4 @@ title: Erlang
 - [Zotonic with Marc Worrell](https://anchor.fm/helloerlang/episodes/Zotonic-with-Marc-Worrell-e1po1sj/a-a8ocvji)
 - [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
 - [Ra](https://github.com/rabbitmq/ra) - Raft Implementation for Erlang and Elixir.
+- [Lunatic](https://lunatic.solutions/) - Erlang-inspired runtime for WebAssembly. ([HN](https://news.ycombinator.com/item?id=33799784))

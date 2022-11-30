@@ -6,7 +6,7 @@ title: AWS
 
 AWS has a [nice free tier](https://aws.amazon.com/free/). [AWS CDK](https://github.com/aws/aws-cdk), [Digger](https://digger.dev/) & [ts2asl](https://github.com/Stedi/ts2asl) are nice. [SLIC Starter](https://github.com/fourTheorem/slic-starter) seems great as AWS serverless starter.
 
-Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thing I learned is that settting up billing alerts is a must have so as to not overpay for compute. Also ideally you use services you truly need from these cloud providers, because the pricing does get a bit crazy at times. 
+Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thing I learned is that settting up billing alerts is a must have so as to not overpay for compute. Also ideally you use services you truly need from these cloud providers, because the pricing does get a bit crazy at times.
 
 ## Interesting
 
@@ -411,3 +411,6 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [Now Go Build with Werner Vogels | AWS - YouTube](https://www.youtube.com/playlist?list=PLhr1KZpdzukdIpgzSSCkNsnRAwDz6Xx5B)
 - [AWS Policy Simulator](https://github.com/tonygoold/awspolicy) - Offline tool for parsing and evaluating AWS IAM policies.
 - [RioFS](https://github.com/skoobe/riofs) - Userspace filesystem for Amazon S3 buckets for servers that run on Linux and macOS.
+- [Amazon S3 User Guide](https://github.com/awsdocs/amazon-s3-userguide)
+- [AWS Security Workshops](https://github.com/aws-samples/aws-security-workshops) ([Web](https://awssecworkshops.com/))
+- [Awesome AWS Security](https://github.com/jassics/awesome-aws-security)

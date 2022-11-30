@@ -205,3 +205,4 @@ title: RISC-V
 - [Digital Design and Computer Architecture, RISC-V Edition (2021)](https://www.elsevier.com/books/digital-design-and-computer-architecture-risc-v-edition/harris/978-0-12-820064-3)
 - [Welcome to the First RISC-V Site](http://riscv.jghuff.com/) ([HN](https://news.ycombinator.com/item?id=33683571))
 - [Libriscv](https://github.com/fwsGonzo/libriscv) - RISC-V userspace emulator library. ([HN](https://news.ycombinator.com/item?id=33652117))
+- [Tiny C header-only RISC-V emulator](https://github.com/cnlohr/mini-rv32ima) ([HN](https://news.ycombinator.com/item?id=33792974)) ([Explained](https://www.youtube.com/watch?v=YT5vB3UqU_E))

@@ -2358,6 +2358,10 @@
 - [nom-supreme](https://github.com/Lucretiel/nom-supreme) - Collection of utilities for a superior nom experience.
 - [arena](https://github.com/ChevyRay/arena) - Compact generational arena data structure for Rust.
 - [os_pipe.rs](https://github.com/oconnor663/os_pipe.rs) - Cross-platform library for opening OS pipes in Rust.
+- [Framehop](https://github.com/mstange/framehop) - Stack unwinding library in Rust.
+- [Arrow generated IPC format](https://github.com/DataEngineeringLabs/arrow-format) - Generated Rust of Apache Arrow spec.
+- [dose](https://github.com/noostech/dose) - Your daily dose of structs and functions.
+- [hax](https://github.com/hax-rs/hax) - Versatile and intuitive memory hacking library.
 
 ## Cargo Plugins
 

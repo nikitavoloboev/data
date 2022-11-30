@@ -141,3 +141,4 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - [Dr. Chris Palmer: Diet & Nutrition for Mental Health (2022)](https://hubermanlab.com/dr-chris-palmer-diet-nutrition-for-mental-health/)
 - [The Smartest Way To Use Protein To Build Muscle (Science Explained)](https://www.youtube.com/watch?v=Pok0Jg2JAkE)
 - [The "Perfect Diet" Myth (2022)](https://www.youtube.com/watch?v=DKYXI6pDQSo)
+- [Being fatter than Homer Simpson](https://nicky.bearblog.dev/fatter-than-homer/) ([HN](https://news.ycombinator.com/item?id=33797143))

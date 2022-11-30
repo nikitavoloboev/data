@@ -14,3 +14,4 @@ title: Fly.io
 - [Fly.io makes infrastructure easy for developers (2022)](https://blog.chiselstrike.com/fly-io-makes-infrastructure-easy-for-us-developers-63081d4d0476) ([HN](https://news.ycombinator.com/item?id=32951363))
 - [fade](https://github.com/nebulatgs/fade) - Ephemeral virtual machines, leveraging Fly.io.
 - [How Fly.io and Tailscale Saved Notado (2022)](https://notado.substack.com/p/how-flyio-and-tailscale-saved-notado) ([HN](https://news.ycombinator.com/item?id=33235042))
+- [Fly-Log-Shipper](https://github.com/superfly/fly-log-shipper) - Ship logs from fly to other providers using NATS and Vector.

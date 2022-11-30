@@ -140,3 +140,4 @@ As far as knowing how to prioritize on what to work on. [Minimizing regret](http
 - [What “work” looks like (2022)](https://blog.jim-nielsen.com/2022/what-work-looks-like/) ([HN](https://news.ycombinator.com/item?id=33326080))
 - [Elon Musk's 5-step engineering process](https://twitter.com/jeff_weinstein/status/1454518683653459968)
 - [Only Solve One New Problem At A Time (2022)](https://www.bennadel.com/blog/4352-only-solve-one-new-problem-at-a-time.htm)
+- [Ask HN: Which books have made you a better thinker and problem solver? (2022)](https://news.ycombinator.com/item?id=33797862)

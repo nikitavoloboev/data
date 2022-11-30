@@ -242,3 +242,4 @@
 - [Score](https://github.com/score-spec/spec) - Open source, platform-agnostic, container-based workload specification.
 - [zot](https://github.com/project-zot/zot) - Production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification).
 - [Finch](https://github.com/runfinch/finch) - Open source client for container development. ([Article](https://aws.amazon.com/blogs/opensource/introducing-finch-an-open-source-client-for-container-development/)) ([HN](https://news.ycombinator.com/item?id=33745815))
+- [What Actually Happens When You Publish a Container Port (2022)](https://iximiuz.com/en/posts/docker-publish-container-ports/)

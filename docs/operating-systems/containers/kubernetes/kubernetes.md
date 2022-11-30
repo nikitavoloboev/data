@@ -878,3 +878,7 @@ title: Kubernetes
 - [kubectl foreach](https://github.com/ahmetb/kubectl-foreach) - Run kubectl commands in all/some contexts in parallel.
 - [KubeBrain](https://github.com/kubewharf/kubebrain) - High Performance Metadata System for Kubernetes.
 - [Trivy-Operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit.
+- [Helm-Controller](https://github.com/fluxcd/helm-controller) - GitOps Toolkit Helm reconciler, for declarative Helming.
+- [scuttle](https://github.com/poseidon/scuttle) - Kubelet graceful node drain/delete and spot termination watcher.
+- [mindthegap](https://github.com/mesosphere/mindthegap) - Easily create and use bundles for air-gapped environments.
+- [Barco Streams](https://github.com/barcostreams/barco) - Lightweight & elastic kubernetes-native event streaming system.

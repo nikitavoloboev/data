@@ -6,6 +6,8 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 
 Want to build a page [like this](https://johannschopplich.com/en/photography) for my photos.
 
+[Photography for geeks](https://lcamtuf.coredump.cx/photo_basics/) is a [fun read](https://news.ycombinator.com/item?id=33767935).
+
 ## Interesting cameras
 
 - [Leica Q2](https://leica-camera.com/en-US/photography/cameras/q/q2-black) ([Review](https://www.youtube.com/watch?v=Mm2N8tOJSx0)) ([Leica Q2 VS Fuji X100V](https://www.youtube.com/watch?v=O_Go5wc-s74)) ([4.0 update](https://www.youtube.com/watch?v=WqI6Q-qLknw)) ([Review](https://www.youtube.com/watch?v=GDIEy1CIlxg))
@@ -22,6 +24,7 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [Rebecca Lily's Lightroom presets](https://www.rebeccalily.com/products)
 - [Renaissance Preset Pack - Kai Böttcher](https://www.kai-boettcher.com/shop/renaissance)
 - [Lightroom Presets Collection 02 - Oliur](https://oliur.com/lightroom-presets-collection-02/) ([Tweet](https://twitter.com/UltraLinx/status/1452326258403168261))
+- [Tyron Shi's Lightroom Presets](https://www.etsy.com/shop/TyronShiPhoto)
 
 ## Edits
 

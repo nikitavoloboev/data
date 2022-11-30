@@ -1332,6 +1332,7 @@
 - [SwiftTypeReader](https://github.com/omochi/SwiftTypeReader) - Gather type definitions from Swift source code.
 - [FineJSON](https://github.com/omochi/FineJSON) - More useful JSONEncoder, Decoder.
 - [Swime](https://github.com/sendyhalim/Swime) - Swift MIME type checking based on magic bytes.
+- [InstantSearch](https://github.com/algolia/instantsearch-ios) - Library of widgets and helpers to build instant-search applications on iOS.
 
 ## Other (not lib)
 

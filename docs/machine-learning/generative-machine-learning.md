@@ -181,3 +181,5 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [AI Art Panic (2022)](https://opguides.info/posts/aiartpanic/)
 - [Some notes on the Stable Diffusion safety filter (2022)](https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/)
 - [Stable Diffusion 2.0 and the Importance of Negative Prompts for Good Results (2022)](https://minimaxir.com/2022/11/stable-diffusion-negative-prompt/) ([HN](https://news.ycombinator.com/item?id=33780543))
+- [Ten Years of Image Synthesis (2022)](https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis) ([HN](https://news.ycombinator.com/item?id=33784361))
+- [Diffusion Models Live Event (2022)](https://www.youtube.com/watch?v=5gPS_Tn9rlg)

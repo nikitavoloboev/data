@@ -379,3 +379,5 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Dark Souls 3 - Reverse Engineering](https://github.com/garyttierney/ds3-open-re)
 - [BOIII](https://github.com/momo5502/boiii) - Reverse engineering and analysis of Call of Duty: Black Ops III.
 - [Valve Introduces Proton Next (2022)](https://linuxgamingcentral.com/posts/valve-introduces-proton-next/) ([HN](https://news.ycombinator.com/item?id=33722282))
+- [Steam Prices](https://github.com/OLoKo64/steam-game-prices) - Crawler to get prices from Steam and output them to a CSV file.
+- [Behind the Pretty Frames: Death Stranding (2022)](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)

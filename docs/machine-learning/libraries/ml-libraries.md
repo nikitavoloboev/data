@@ -432,3 +432,4 @@ title: ML Libraries
 - [SISH](https://github.com/mahmoodlab/SISH) - Fast and scalable search of whole-slide images via self-supervised deep learning.
 - [TuneTA](https://github.com/jmrichardson/tuneta) - Intelligently optimizes technical indicators and optionally selects the least intercorrelated for use in machine learning models.
 - [PyTensor](https://github.com/pymc-devs/pytensor) - Python library for defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays.
+- [SIATune](https://github.com/SIAnalytics/siatune) - Hyperparameter Tuning Toolbox for OpenMMLab Frameworks, especially for Remote Sensing Tasks.

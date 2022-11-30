@@ -290,3 +290,5 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [txtai](https://github.com/neuml/txtai) - Build AI-powered semantic search applications. ([Docs](https://neuml.github.io/txtai/)) ([HN](https://news.ycombinator.com/item?id=33692546))
 - [Building a custom code search index in Go (2022)](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/) ([HN](https://news.ycombinator.com/item?id=33717323))
 - [Ask HN: Books about full text search? (2022)](https://news.ycombinator.com/item?id=33734259)
+- [Ask HN: Is Google becoming useless as a search engine, or is it just me? (2022)](https://news.ycombinator.com/item?id=33799767)
+- [Parsedoc Plugin](https://github.com/LyraSearch/plugin-parsedoc) - Plugin to parse HTML and Markdown files into Lyra indexes.

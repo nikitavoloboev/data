@@ -487,3 +487,4 @@ Awesome List
 - [GitHub Deploy Track](https://github.com/numtide/github-deploy) - Track deployments on GitHub PRs.
 - [GitHub Blocks Template](https://github.com/mattrothenberg/duckb-browser-block)
 - [GitCLI](https://github.com/ldakhoa/GitCLI-Swift) - GitHub CLI written in Swift.
+- [FAQtory](https://github.com/willmcgugan/faqtory) - Tool to generate GitHub flavoured FAQ.md documents.

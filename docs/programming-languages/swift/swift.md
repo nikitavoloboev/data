@@ -321,3 +321,4 @@ title: Swift
 - [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/) ([HN](https://news.ycombinator.com/item?id=33658376))
 - [Modern Concurrency on Apple Platforms - Using async/await with Swift (2022)](https://link.springer.com/book/10.1007/978-1-4842-8695-1?sap-outbound-id=40D2BBEF5833C4436B139778F496A0F535B4D5EC)
 - [Swift concurrency: Behind the scenes (2021)](https://developer.apple.com/videos/play/wwdc2021/10254/)
+- [The Ultimate Domain Language: Declarative Swift (2022)](https://betterprogramming.pub/the-ultimate-domain-language-declarative-swift-37b0a04e4e32)

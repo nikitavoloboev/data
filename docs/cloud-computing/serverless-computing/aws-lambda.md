@@ -150,3 +150,4 @@ title: AWS Lambda
 - [AWS Lambda Terraform module](https://github.com/terraform-aws-modules/terraform-aws-lambda)
 - [Lambda Builders](https://github.com/aws/aws-lambda-builders) - Python library to compile, build & package AWS Lambda functions for several runtimes & framework.
 - [AWS Lambda storage options (2022)](https://dev.to/aws-heroes/aws-lambda-storage-options-o5p) ([Tweet](https://twitter.com/MarcJBrooker/status/1572970442725666816))
+- [AWS Lambda Powertools TypeScript Logger example](https://github.com/ChristianRich/lambda-powertools-logger-typescript)

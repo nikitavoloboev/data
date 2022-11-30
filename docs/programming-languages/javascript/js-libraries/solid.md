@@ -156,3 +156,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Solid Start Auth](https://github.com/schweden1997/solid-auth) - Extensible library to support different authentication methods.
 - [First look at Solid Start](https://dev.to/ajcwebdev/a-first-look-at-solidstart-2hm7)
 - [Simplifying reactivity with solidJS - Dan Jutan (2022)](https://www.youtube.com/watch?v=qB5jK-KeXOs)
+- [Kobalte](https://github.com/fabien-ml/kobalte) - UI toolkit for building accessible web apps and design systems with SolidJS.

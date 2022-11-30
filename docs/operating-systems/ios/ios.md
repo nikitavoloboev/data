@@ -145,6 +145,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [OpenFind](https://open.getfind.app/) - Text Search for Images. ([Code](https://github.com/aheze/OpenFind))
 - [Amazon IVS Player iOS SDK Sample Apps](https://github.com/aws-samples/amazon-ivs-player-ios-sample)
 - [QuizList](https://github.com/below/QuizList) - Simple project to memorise Lists.
+- [SwiftUI WeChat](https://github.com/wxxsw/SwiftUI-WeChat)
 
 ## Other
 

@@ -293,3 +293,4 @@
 - [Planet-Scale Leaderless Consensus (2022)](https://vitorenes.org/publication/phd-thesis/)
 - [Moving Away from UUIDs (2018)](https://neilmadden.blog/2018/08/30/moving-away-from-uuids/) ([HN](https://news.ycombinator.com/item?id=33699298))
 - [How Paxos and Two-Phase Commit Differ (2021)](https://predr.ag/blog/paxos-vs-2pc/)
+- [Raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine.

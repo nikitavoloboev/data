@@ -16,6 +16,8 @@ In more detail a Category consists of:
 
 Anything that can be represented by the above list can be analyzed as a category, that is why it is considered so abstract.
 
+[Category Theory lectures by Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) are nice intro.
+
 ## Notes
 
 - The Curry Howard isomorphism. The idea that logic and programming are just two sides of the same coin: types are propositions and programs are proofs.
@@ -167,6 +169,8 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Applied Category Theory in Chemistry, Computing, and Social Networks (2022)](https://www.ams.org/journals/notices/202202/rnoti-p292.pdf) ([HN](https://news.ycombinator.com/item?id=33423474))
 - [CategoricalTowers](https://github.com/homalg-project/CategoricalTowers) - Towers of category constructors.
 - [The Joy of Abstraction: An Exploration of Math, Category Theory, and Life](https://www.cambridge.org/core/books/joy-of-abstraction/00D9AFD3046A406CB85D1AFF5450E657) ([HN](https://news.ycombinator.com/item?id=33740089))
+- [Why I am learning category theory (2022)](https://the.scapegoat.dev/why-i-am-learning-category-theory-1/)
+- [Category Theory - Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 
 ## Images
 

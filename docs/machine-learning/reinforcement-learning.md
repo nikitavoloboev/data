@@ -4,7 +4,7 @@ title: Reinforcement learning
 
 # [Reinforcement learning](http://en.wikipedia.org/wiki/Reinforcement_learning)
 
-[Acme](https://github.com/deepmind/acme), [TorchRL](https://github.com/facebookresearch/rl) & [Ray](https://github.com/ray-project/ray) seem nice. [Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class) is great intro.
+[Acme](https://github.com/deepmind/acme), [TorchRL](https://github.com/facebookresearch/rl), [Ray](https://github.com/ray-project/ray) & [DIAMBRA Arena](https://github.com/diambra/arena) seem nice. [Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class) is great intro.
 
 [Reinforcement Learning with Neural Radiance Fields](https://dannydriess.github.io/nerf-rl/) is fascinating.
 
@@ -408,3 +408,5 @@ title: Reinforcement learning
 - [Lux Design 2022](https://github.com/Lux-AI-Challenge/Lux-Design-2022)
 - [In-context Reinforcement Learning with Algorithm Distillation (2022)](https://arxiv.org/abs/2210.14215) ([Overview](https://www.youtube.com/watch?v=fG__j5phdgY))
 - [Delta Academy](https://joindeltaacademy.com/) - Learn RL online by building game AIs.
+- [DIAMBRA Arena](https://github.com/diambra/arena) - Reinforcement Learning Platform for Research and Experimentation.
+- [RLogist](https://github.com/tencent-ailab/RLogist) - Fast Observation Strategy on Whole-slide Images with Deep Reinforcement Learning.

@@ -49,3 +49,4 @@ javascript: ((b) =>
 - [Cherry](https://github.com/kidonng/cherry) - Collection of handcrafted resources.
 - [Scriptbar Snippets](https://scriptbar-snippets.tryapp.us/) - Handy and easy to understand snippets to keep in your browser. ([Code](https://github.com/datduyng/scriptbar-snippets))
 - [userscript.zone](https://www.userscript.zone/) - Search for userscripts by URL, domain or search term. ([HN](https://news.ycombinator.com/item?id=31566061))
+- [HN Anti Paywall](https://github.com/MostlyEmre/hn-anti-paywall) - Userscript that adds archive URLs below the paywalled HN submissions. ([HN](https://news.ycombinator.com/item?id=33794672))

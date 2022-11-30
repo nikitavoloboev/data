@@ -1060,6 +1060,7 @@
 - [devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can't.
 - [Try to Catch](https://github.com/coderaiser/try-to-catch) - Functional try-catch wrapper for promises.
 - [idle-task](https://github.com/hiroki0525/idle-task) - Improve your website performance by executing JavaScript during a browser's idle periods. ([HN](https://news.ycombinator.com/item?id=33730760))
+- [wildcard-match](https://github.com/axtgr/wildcard-match) - Tiny and extremely fast JavaScript library for compiling and matching basic glob patterns.
 
 ## Links
 
@@ -1157,4 +1158,4 @@
 - [vtui-npm](https://github.com/webfansplz/vtui-npm) - Interactive CLI for npm - search and install JavaScript package.
 - [rsx](https://github.com/norskeld/rsx) - Micro CLI for interactive execution of npm & yarn scripts.
 - [Sourcemapper](https://github.com/denandz/sourcemapper) - Extract JavaScript source trees from Sourcemap files.
-- [Speeding up the JavaScript ecosystem, one library at a time (2022)](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/) ([HN](https://news.ycombinator.com/item?id=33793570))
+- [Speeding up the JavaScript ecosystem, one library at a time (2022)](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/) ([HN](https://news.ycombinator.com/item?id=33793570)) ([Lobsters](https://lobste.rs/s/ayszgp/speeding_up_javascript_ecosystem_one))

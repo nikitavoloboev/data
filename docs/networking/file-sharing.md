@@ -132,3 +132,4 @@
 - [Teleporter](https://github.com/genonullfree/teleporter) - Small utility in the vein of netcat to send files quickly from point A to point B.
 - [How do you sync code between personal machines? (2022)](https://lobste.rs/s/ookgy7/how_do_you_sync_code_between_personal)
 - [Bob](https://github.com/dinosaure/bob) - Simple, secure and universal program for transmitting a file or a folder from one person to another in OCaml.
+- [Transfer.sh helper Rusted](https://github.com/OLoKo64/transfer-sh-helper-rusted) - Store your transfer.sh links, so you can remember them later and know when they will expire, but now written in Rust.

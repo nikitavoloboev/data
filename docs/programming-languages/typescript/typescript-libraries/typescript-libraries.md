@@ -161,6 +161,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 ## Error
 
+- [exceptionally](https://github.com/ivanhofer/exceptionally) - Fully type-safe and lightweight way of using exceptions instead of throwing errors.
 - [ts-pojo-error](https://github.com/skarab42/ts-pojo-error) - Type safe pojo error will help you to easily create typed and serializable error.
 - [retry-ts](https://github.com/gcanti/retry-ts) - Retry combinators for monadic actions that may fail.
 - [Erreur](https://github.com/etienne-dldc/erreur) - Type safe custom errors.
@@ -696,6 +697,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [fp-ts-graph](https://github.com/no-day/fp-ts-graph) - Immutable, functional, highly performant graph data structure for fp-ts.
 - [Squishy Cookies](https://github.com/omar2205/squishy_cookies) - Easily sign and verify cookies.
 - [audic](https://github.com/Richienb/audic) - Play some audio.
+- [streamparser/json](https://github.com/juanjoDiaz/streamparser-json) - Streaming JSON parser in JavaScript for Node.js and the browser.
 
 ## Links
 

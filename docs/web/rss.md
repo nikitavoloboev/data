@@ -192,3 +192,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [Feedle](https://feedle.world/) - Search engine for blogs and podcasts with RSS.
 - [RSS Nix](https://github.com/jafarlihi/rssnix) - Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader. ([HN](https://news.ycombinator.com/item?id=33675361))
 - [RSS to Telegram Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - Telegram RSS bot that cares about your reading experience.
+- [feeder](https://github.com/p1ass/feeder) - RSS, Atom and JSON feed generator from multiple RSS, Atom, and any entries you want.
