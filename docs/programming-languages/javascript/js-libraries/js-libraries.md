@@ -1157,3 +1157,4 @@
 - [vtui-npm](https://github.com/webfansplz/vtui-npm) - Interactive CLI for npm - search and install JavaScript package.
 - [rsx](https://github.com/norskeld/rsx) - Micro CLI for interactive execution of npm & yarn scripts.
 - [Sourcemapper](https://github.com/denandz/sourcemapper) - Extract JavaScript source trees from Sourcemap files.
+- [Speeding up the JavaScript ecosystem, one library at a time (2022)](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/) ([HN](https://news.ycombinator.com/item?id=33793570))

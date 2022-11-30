@@ -264,3 +264,4 @@
 - [Lightning Creations Compiler Collection](https://github.com/LightningCreations/lccc) - Compiler framework written in pure rust, that is intended to eventually be fully usable in place of existing toolchains.
 - [The downsides of compile time evaluation (2022)](https://c3.handmade.network/blog/p/8590-the_downsides_of_compile_time_evaluation) ([Lobsters](https://www.reddit.com/r/ProgrammingLanguages/comments/z0bhn3/the_downsides_of_compile_time_evaluation/))
 - [Course Webpage for Compilers (2020)](https://github.com/IUCompilerCourse/IU-P423-P523-E313-E513-Fall-2020)
+- [Just In Time (JIT) Compilers - Computerphile (2022)](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
