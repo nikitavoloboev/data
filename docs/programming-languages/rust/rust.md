@@ -972,3 +972,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust Docker Cheatsheet](https://github.com/tbillington/rust-docker-cheatsheet) - Notes on building and running Rust binaries in Docker.
 - [Rust to assembly: Arrays, Tuples, Box, and Option handling (2022)](https://www.eventhelix.com/rust/rust-to-assembly-arrays-option-box/)
 - [Rusty ownership and the lifecycle’s stone (2022)](https://blogs.harvard.edu/kapolos/rusty-ownership-and-the-lifecycles-stone/49/) ([HN](https://news.ycombinator.com/item?id=33762444))
+- [How much does Rust's bounds checking actually cost? (2022)](https://blog.readyset.io/bounds-checks/)
