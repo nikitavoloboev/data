@@ -81,7 +81,8 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Purplet](https://github.com/CRBT-Team/Purplet) - Simple framework to build modern Discord apps.
 - [Harmony](https://github.com/harmonyland/harmony) - Easy to use Discord API Library for Deno.
 - [Songbird](https://github.com/serenity-rs/songbird) - Async Rust library for the Discord voice API.
-- [Discord Rust](https://github.com/twilight-rs/twilight)
+- [Twilight: Discord Rust](https://github.com/twilight-rs/twilight)
+- [Twilight interactions](https://github.com/baptiste0928/twilight-interactions) - Macros and utilities to work with Discord Interactions using twilight.
 - [Discord Rust 2](https://github.com/serenity-rs/serenity)
 - [Discord Rust 3](https://github.com/passcod/accord)
 - [Discord Rust 4](https://github.com/AregevDev/rustcord) - Safe wrapper around the Discord Rich Presence API.

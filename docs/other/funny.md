@@ -135,3 +135,4 @@ I try to get better at it and learning as I go. Noting funny moments that happen
 - [Cunk on Britain - YouTube](https://www.youtube.com/playlist?list=PLCcT_pWlhyK3EVCA62_YZUFnYvIkxUwVq)
 - [Когда твой друг работает в айти и пытается тебя зарекомендовать](https://twitter.com/nyuukke/status/1589745963463102464)
 - [Мопс Мойша умный](https://www.youtube.com/watch?v=Y_6fqQDYTJk)
+- [When my grandkids ask what the bull market of the 2010s to early 2020s was like, I’ll just show them this video](https://twitter.com/Carnage4Life/status/1597778543110676480)

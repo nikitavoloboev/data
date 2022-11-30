@@ -993,3 +993,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Some Math behind Neural Tangent Kernel (2022)](https://lilianweng.github.io/posts/2022-09-08-ntk/)
 - [Evolution through Large Models (2022)](https://arxiv.org/abs/2206.08896) ([Code](https://github.com/CarperAI/OpenELM))
 - [Causal Confounds in Sequential Decision Making (2022)](https://blog.ml.cmu.edu/2022/11/28/causal-confounds-in-sequential-decision-making/)
+- [MIP Workshop 2023 Computational Competition](https://github.com/ambros-gleixner/MIPcc23)

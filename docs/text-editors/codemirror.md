@@ -4,6 +4,10 @@ title: CodeMirror
 
 # [CodeMirror](https://codemirror.net/)
 
+## Nice extensions
+
+- [CodeMirror Svelte Mode](https://github.com/replit/codemirror-lang-svelte)
+
 ## Links
 
 - [HN: CodeMirror 6.0 Stable Release](https://news.ycombinator.com/item?id=31666186)

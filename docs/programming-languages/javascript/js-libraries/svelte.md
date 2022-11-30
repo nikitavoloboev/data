@@ -316,3 +316,4 @@ title: Svelte
 - [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization for Svelte.
 - [Svelte Headless-UI](https://github.com/CaptainCodeman/svelte-headlessui)
 - [Svelte Simple Data tables](https://github.com/vincjo/svelte-simple-datatables) - Datatable component for Svelte.
+- [CodeMirror Svelte Mode](https://github.com/replit/codemirror-lang-svelte) - CodeMirror 6 extension that adds support for Svelte.

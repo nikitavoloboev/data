@@ -372,6 +372,7 @@
 - [Hug SQLx](https://github.com/mbuczko/hugsqlx) - Derive macro turning SQL queries into plain Rust functions.
 - [mysql_async](https://github.com/blackbeam/mysql_async) - Asyncronous Rust Mysql driver based on Tokio.
 - [concurrent-map](https://github.com/komora-io/concurrent-map) - Lock-free linearizable map.
+- [odht](https://github.com/rust-lang/odht) - Hash tables that can be mapped from disk into memory without the need for up-front decoding.
 
 ## Video
 

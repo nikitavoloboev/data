@@ -1008,3 +1008,4 @@
 - [SinDiffusion: Learning a Diffusion Model from a Single Natural Image (2022)](https://arxiv.org/abs/2211.12445) ([Code](https://github.com/WeilunWang/SinDiffusion))
 - [CLIP4Cir](https://github.com/ABaldrati/CLIP4Cir) - CLIP for Conditioned image retrieval training code.
 - [Physics-based Character Controllers Using Conditional VAEs (2022)](https://research.facebook.com/publications/physics-based-character-controllers-using-conditional-vaes/) ([Code](https://github.com/facebookresearch/PhysicsVAE))
+- [Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition (2021)](https://arxiv.org/abs/2107.09249) ([Code](https://github.com/Vanint/SADE-AgnosticLT))

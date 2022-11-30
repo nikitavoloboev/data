@@ -1,6 +1,8 @@
 # ML Models
 
-[Tangram](https://www.tangram.dev/), [PostgresML](https://github.com/postgresml/postgresml), [ZenML](https://zenml.io/home) & [Merlin](https://github.com/gojek/merlin) seem neat. Using [Cog](https://github.com/replicate/cog) to package ML models.
+[Tangram](https://www.tangram.dev/), [PostgresML](https://github.com/postgresml/postgresml), [ZenML](https://zenml.io/home) & [Merlin](https://github.com/gojek/merlin) seem neat. Looking into using [Cog](https://github.com/replicate/cog) to package ML models.
+
+Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [generative](generative-machine-learning.md)) with their [HTTP template](https://github.com/bananaml/serverless-template).
 
 ## Links
 
@@ -130,3 +132,4 @@
 - [MatxScript](https://github.com/bytedance/matxscript) - Model pre- and post-processing framework.
 - [Zoltar](https://github.com/spotify/zoltar) - Common library for serving TensorFlow, XGBoost and scikit-learn models in production.
 - [Robust Intelligence](https://www.robustintelligence.com/) - Machine learning models fail. Prevent bad outcomes with the only end-to-end solution.
+- [Banana Serverless](https://github.com/bananaml/serverless-template) - Framework to serve ML models in production using simple HTTP servers.

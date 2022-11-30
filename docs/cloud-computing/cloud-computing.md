@@ -1,9 +1,12 @@
 # Cloud computing
 
-Like using [fly.io](https://fly.io/) for serverless workloads. For personal servers I use [Hetzner](https://www.hetzner.com/) with [unlimited traffic and gigabit uplink](https://news.ycombinator.com/item?id=30055054). [OVHcloud](https://www.ovhcloud.com/en-ie/) is nice too. Had horrendous experience with [GCP](gcp/gcp.md)/[AWS](aws/aws.md) so avoid using it.
+Like using [Cloud Run](https://cloud.google.com/run) or [fly.io](https://fly.io/) for serverless workloads. For personal (mostly [self hosting](../privacy/self-hosting.md)) servers I use [Hetzner](https://www.hetzner.com/) with [unlimited traffic and gigabit uplink](https://news.ycombinator.com/item?id=30055054). 
+
+[OVHcloud](https://www.ovhcloud.com/en-ie/) is nice too. Had bad experience with [GCP](gcp/gcp.md)/[AWS](aws/aws.md) billing so try to use it smartly now.
 
 ## ML
 
+- [Banana](https://www.banana.dev/)
 - [JarvisLabs.ai](https://cloud.jarvislabs.ai/) - One of the best pricing for renting compute. ([Tweet](https://twitter.com/bhutanisanyam1/status/1448971253654556674))
 - [Paperspace](https://www.paperspace.com/) - Effortless infrastructure for Machine Learning and Data Science.
 - [Google Cloud](https://cloud.google.com/) - Has generous [free tier](https://cloud.google.com/free/).
@@ -49,6 +52,7 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Yandex Cloud](https://cloud.yandex.com/en/) ([GitHub](https://github.com/yandex-cloud))
 - [Akash Network](https://akash.network/) - Secure, transparent, and peer-to-peer cloud computing network. ([Code](https://github.com/ovrclk/akash)) ([GitHub](https://github.com/ovrclk)) ([Awesome](https://github.com/ovrclk/awesome-akash))
 - [SetOps](https://www.setops.co/) - Cloud Deployment made for Developers.
+- [UCloud](https://www.ucloud.cn/en/) ([GitHub](https://github.com/ucloud)) ([CLI](https://github.com/ucloud/ucloud-cli))
 
 ## Notes
 

@@ -705,3 +705,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [mGPT: Multilingual Generative Pretrained Transformer](https://github.com/ai-forever/mgpt)
 - [LangChain](https://github.com/hwchase17/langchain/) - Building applications with LLMs through composability.
 - [HN Summary](https://github.com/jiggy-ai/hn_summary) - Summarizes top stories from Hacker News using a large language model and posts them to a Telegram channel. ([HN](https://news.ycombinator.com/item?id=33748363))
+- [OpenAI Model index for researchers](https://beta.openai.com/docs/model-index-for-researchers)

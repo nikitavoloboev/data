@@ -174,3 +174,4 @@ title: Scala
 - [Smithy4s full stack (2022)](https://blog.indoorvivants.com/2022-06-10-smithy4s-fullstack-part-1)
 - [Scala Improvement Proposals](https://github.com/scala/improvement-proposals)
 - [Scala 3 is not production ready (2022)](https://gvolpe.com/blog/scala3-is-not-prod-ready/) ([HN](https://news.ycombinator.com/item?id=33687179))
+- [Scala 3 Macros Deep Dive](https://github.com/Lumintorious/Scala-3-Macros-Deep-Dive)
