@@ -480,3 +480,4 @@ I do write Rust, but tried out [Zig](zig/zig.md) when I want to write embedded c
 - [Rune](https://github.com/google/rune) - Programming language developed to test ideas for improving security and efficiency. ([HN](https://news.ycombinator.com/item?id=33761193))
 - [A review of elementary data types : numbers and strings (2022)](https://lemire.me/blog/2022/09/30/a-review-of-elementary-data-types-numbers-and-strings/)
 - [Need for speed: static analysis version (2022)](https://r2c.dev/blog/2022/static-analysis-speed/)
+- [Higher-orderness is first-order interaction (2022)](https://www.tweag.io/blog/2022-12-01-higherorderness-is-interaction/)

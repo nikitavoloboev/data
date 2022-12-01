@@ -252,6 +252,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Nice cooperative games on PS5 (2022)](https://twitter.com/TkDodo/status/1586636367597027329)
 - [Which game nails both the gameplay and the story? (2022)](https://www.reddit.com/r/patientgamers/comments/yrngnm/which_game_nails_both_the_gameplay_and_the_story/)
 - [Whats your favorite PS5 game currently on sale? (2022)](https://www.reddit.com/r/PS5/comments/z16brw/whats_your_favorite_ps5_game_thats_currently_on/)
+- [Инди Игр тред](https://twitter.com/mikhmat_/status/1597932127332749314)
 
 ## Links
 

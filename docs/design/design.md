@@ -251,3 +251,5 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Every homepage ever](https://twitter.com/nbashaw/status/1544418640501411840) ([Examples](https://twitter.com/flaviocopes/status/1587384199912501249))
 - [Vercel Design](https://vercel.com/design)
 - [BLKMARKET](https://beta.blkmarket.com/) - On-demand textures and digital assets for graphic design. ([Twitter](https://twitter.com/blkmarketco))
+- [Books to learn environment design](https://twitter.com/andrewpprice/status/1598201720160808961)
+- [Holographik](https://twitter.com/Holographikco) - Creative studio specialized in design and motion. ([Blog](https://medium.holographik.co/))

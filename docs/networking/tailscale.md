@@ -26,6 +26,6 @@ title: Tailscale
 - [Use Mullvad VPN along with Tailscale](https://github.com/r3nor/mullvad-tailscale)
 - [Headscale-UI](https://github.com/gurucomputing/headscale-ui) - Web frontend for the headscale Tailscale-compatible coordination server.
 - [connecti](https://github.com/jaxxstorm/connecti) - Command line tool to quickly connect you to cloud infrastructure via Tailscale.
-- [golink](https://github.com/tailscale/golink) - Private shortlink service for your tailnet. It lets you create short, memorable links for the websites you and your team use most.
+- [golink](https://github.com/tailscale/golink) - Private shortlink service for your tailnet. It lets you create short, memorable links for the websites you and your team use most. ([Article](https://tailscale.com/blog/golink/))
 - [Tailscale Funnel (2022)](https://tailscale.com/blog/introducing-tailscale-funnel/) ([HN](https://news.ycombinator.com/item?id=33648341))
 - [HashiCorp Vault plugin for managing Tailscale authentication keys](https://github.com/davidsbond/vault-plugin-tailscale)

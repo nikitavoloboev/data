@@ -96,6 +96,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [H0](https://github.com/noamr/h0) - Minimalistic Model-View library.
 - [Loadeer.js](https://github.com/johannschopplich/loadeer) - Tiny, performant, SEO-friendly lazy loading library.
 - [Hyperstack](https://github.com/hyperstackjs/hyperstack) - Modern Node.js web framework for the pragmatic programmer.
+- [TanStack Router](https://github.com/tanstack/router) - Type-safe router w/ built-in caching & URL state management. ([Web](https://tanstack.com/router/)) ([Talk](https://www.youtube.com/watch?v=qUZm3gbMOeo))
 
 ## GraphQL
 

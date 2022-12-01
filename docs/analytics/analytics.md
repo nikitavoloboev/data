@@ -108,3 +108,4 @@ Well implemented analytics together with proper logging/tracing should let you l
 - [Minimal-Analytics](https://github.com/jahilldev/minimal-analytics) - Minimal versions of popular analytics libraries. Reduce the impact of third-party scripts on your application.
 - [universal-analytics](https://github.com/peaksandpies/universal-analytics) - Node module for Google's Universal Analytics and Measurement Protocol.
 - [Vercel Analytics](https://github.com/vercel/analytics) - Privacy-friendly, real-time traffic insights.
+- [Counting unique visitors without using cookies, UIDs or fingerprinting (2022)](https://notes.normally.com/cookieless-unique-visitor-counts/)

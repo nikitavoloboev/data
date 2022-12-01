@@ -292,3 +292,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [Ask HN: Books about full text search? (2022)](https://news.ycombinator.com/item?id=33734259)
 - [Ask HN: Is Google becoming useless as a search engine, or is it just me? (2022)](https://news.ycombinator.com/item?id=33799767)
 - [Parsedoc Plugin](https://github.com/LyraSearch/plugin-parsedoc) - Plugin to parse HTML and Markdown files into Lyra indexes.
+- [ChatGPT is better than Google for some queries](https://twitter.com/jdjkelly/status/1598021488795586561)
