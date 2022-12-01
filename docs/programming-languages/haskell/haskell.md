@@ -484,3 +484,4 @@ title: Haskell
 - [WebAssembly backend merged into GHC (2022)](https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/)
 - [Blog: Haskell in Production](https://serokell.io/blog/haskell-in-production)
 - [Production Haskell: Succeeding in Industry with Haskell (2022)](https://leanpub.com/production-haskell)
+- [3 ways to reduce sharing in Haskell (2022)](https://yairchu.github.io/posts/reduce-sharing-in-haskell)

@@ -233,6 +233,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Predrag](https://predr.ag/blog/)
 - [Arthur Carcano](https://ngr.yt/blog/)
 - [Fabian Offert](https://zentralwerkstatt.org/blog)
+- [Yair Chuchem](https://yairchu.github.io/)
 
 ## Notes
 
