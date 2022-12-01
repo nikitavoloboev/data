@@ -166,6 +166,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-pojo-error](https://github.com/skarab42/ts-pojo-error) - Type safe pojo error will help you to easily create typed and serializable error.
 - [retry-ts](https://github.com/gcanti/retry-ts) - Retry combinators for monadic actions that may fail.
 - [Erreur](https://github.com/etienne-dldc/erreur) - Type safe custom errors.
+- [Modern-Errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way.
 
 ## Other
 

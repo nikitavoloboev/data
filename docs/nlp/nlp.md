@@ -707,3 +707,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [HN Summary](https://github.com/jiggy-ai/hn_summary) - Summarizes top stories from Hacker News using a large language model and posts them to a Telegram channel. ([HN](https://news.ycombinator.com/item?id=33748363))
 - [OpenAI Model index for researchers](https://beta.openai.com/docs/model-index-for-researchers)
 - [ChatGPT](https://chat.openai.com/)
+- [Adventures in generating music via ChatGPT text prompts (2022)](https://www.holovaty.com/writing/chatgpt-music-generation/)
