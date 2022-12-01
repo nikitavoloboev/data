@@ -292,3 +292,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Use a custom domain to send emails with Gmail using Cloudflare email routing (2022)](https://jay.gooby.org/2022/05/06/use-a-basic-gmail-account-to-send-mail-as-with-a-domain-that-uses-cloudflare-email-routing) ([HN](https://news.ycombinator.com/item?id=33660185))
 - [Nanomail](https://github.com/alexwennerberg/nanomail) - Ultra-lightwight internet mail protocol, inspired by email. Unlike email, it is designed to be radically simple and easy to host yourself.
 - [sail](https://github.com/mademast/sail) - Strictly standards compliant SMTP server in Rust.
+- [Perfect format for cold emails](https://twitter.com/twentyminutevc/status/1598053199784673306)

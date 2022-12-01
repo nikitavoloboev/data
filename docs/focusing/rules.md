@@ -175,6 +175,7 @@
 - Mindfully spend money. Always cut costs on things I no longer use.
 - Read Reddit/online reviews on things you buy, before buying anything sizeable.
 - Refund items early if unhappy with purchase and return policy allows.
+- Setup systems to alert on products I want to get when they're on sale.
 - Don't support practices I don't agree with.
 - When paying online, check that payments go through.
 - Include personal or company VAT in all business expenses (tech, bigger purchases) to get tax write offs on quarterly tax payments.

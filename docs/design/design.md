@@ -253,3 +253,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [BLKMARKET](https://beta.blkmarket.com/) - On-demand textures and digital assets for graphic design. ([Twitter](https://twitter.com/blkmarketco))
 - [Books to learn environment design](https://twitter.com/andrewpprice/status/1598201720160808961)
 - [Holographik](https://twitter.com/Holographikco) - Creative studio specialized in design and motion. ([Blog](https://medium.holographik.co/))
+- [24 Days of Design Gifts](https://design.gifts/)

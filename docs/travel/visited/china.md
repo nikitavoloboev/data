@@ -111,3 +111,4 @@ Truthfully though, I need to actually try live in China and speak to people ther
 - [How the Chinese Communist Party Works (2022)](https://www.youtube.com/watch?v=vre_yhZXPVU)
 - [Analysis on China's army capabilities (2022)](https://www.reddit.com/r/CredibleDefense/comments/yhck4z/comment/iudrd9z/)
 - [The end of the system of the world (2022)](https://noahpinion.substack.com/p/the-end-of-the-system-of-the-world)
+- [Far & Near](https://farandnear.substack.com/) - Highlighting visual storytelling from China, through Chinese eyes.
