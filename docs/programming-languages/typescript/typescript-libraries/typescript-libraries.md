@@ -805,3 +805,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [libyear](https://github.com/jdanil/libyear) - Simple measure of software dependency freshness.
 - [Documen.ts](https://github.com/d-fischer/documen.ts) - TypeScript documentation generator.
 - [dets](https://github.com/FlorianRappl/dets) - Generate a single declaration file for your TypeScript project.
+- [How to build, test, and publish a TypeScript npm package in 2022](https://www.strictmode.io/articles/build-test-and-publish-npm-package-2022)

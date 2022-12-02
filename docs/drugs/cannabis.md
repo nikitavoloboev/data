@@ -10,7 +10,7 @@ Mostly I can't see any noticeable difference between any strains I vape. I prefe
 
 I actually came to get interested in psychedelics after 2nd time I smoked weed (purple haze). And for first time in my life had my reality warp like I never saw before. Read about all kinds of [drugs](drugs.md) and effects after that 2nd time.
 
-Mostly now I don't get much psychedelic effect (things moving) now but do get enjoyable high with interesting thought patterns.
+Mostly now I don't get much psychedelic effect (things moving) but do get enjoyable high with interesting thought patterns.
 
 ## Favorite strains
 

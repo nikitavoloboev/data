@@ -128,3 +128,4 @@ Just because you're going at your own pace, don't be led to think you're "under 
 - [Self-care tips that helped restore my confidence](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/ytr3dn/tip_selfcare_tips_that_helped_restore_my/)
 - [Science-Based Tools for Increasing Happiness - Huberman (2022)](https://hubermanlab.com/science-based-tools-for-increasing-happiness/)
 - [Chasing The Natural High: An Experiment](https://www.youtube.com/watch?v=O2Fwz1QYwFk)
+- [If you had to try and 10x your life satisfaction in a year, what would you do?](https://twitter.com/nickcammarata/status/1598443632465530881)

@@ -187,3 +187,4 @@ Using [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion) t
 - [Diffusion Models Live Event (2022)](https://www.youtube.com/watch?v=5gPS_Tn9rlg)
 - [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion) - Run Stable Diffusion on Apple Silicon with Core ML. ([Stable Diffusion with Core ML on Apple Silicon](https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon)) ([HN](https://news.ycombinator.com/item?id=33822157))
 - [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation (2022)](https://arxiv.org/abs/2212.00774) ([Code](https://github.com/pals-ttic/sjc))
+- [Generative AI: autocomplete for everything (2022)](https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything) ([Tweet](https://twitter.com/Noahpinion/status/1598346194559778822))

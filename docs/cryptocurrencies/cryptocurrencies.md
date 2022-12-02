@@ -310,3 +310,4 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 - [Proof of solvency and beyond (2022)](https://vitalik.ca/general/2022/11/19/proof_of_solvency.html) ([HN](https://news.ycombinator.com/item?id=33689411))
 - [An embeddable and customizable fiat-to-crypto onramp (2022)](https://stripe.com/en-gb-nl/blog/crypto-onramp) ([HN](https://news.ycombinator.com/item?id=33819923))
 - [Self custody and smart contracts protect consumers in a way that regulators can’t](https://twitter.com/NTmoney/status/1598387039933956096)
+- [FTX stealing customer funds with made up tokens explained (2022)](https://twitter.com/compound248/status/1598446656634191872)

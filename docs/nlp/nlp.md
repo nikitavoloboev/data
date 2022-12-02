@@ -709,3 +709,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [ChatGPT](https://chat.openai.com/)
 - [Adventures in generating music via ChatGPT text prompts (2022)](https://www.holovaty.com/writing/chatgpt-music-generation/)
 - [All the best examples of ChatGPT, from OpenAI](https://twitter.com/bentossell/status/1598269692082151424)
+- [ChatGPT nice examples](https://twitter.com/sytelus/status/1598523136177508356)

@@ -88,3 +88,4 @@
 - [Single-Shot is Enough: Panoramic Infrastructure Based Calibration of Multiple Cameras and 3D LiDARs](https://github.com/alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration)
 - [PytorchAutoDrive: Framework for self-driving perception](https://github.com/voldemortX/pytorch-auto-drive)
 - [LAStools](https://github.com/LAStools/LAStools) - Efficient tools for LiDAR processing.
+- [Self-Driving Cars — Andreas Geiger](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
