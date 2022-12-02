@@ -2086,3 +2086,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [nabaz](https://github.com/nabaz-io/nabaz) - Test runner for the easily distracted.
 - [coredumpctl, delve and debug packages for Go (2022)](https://linderud.dev/blog/coredumpctl-delve-and-debug-packages-for-go/)
 - [All about the Go errors package (2022)](https://www.youtube.com/watch?v=5DUuyWxXnC0)
+- [Go Web App Anti-Patterns](https://github.com/ThreeDotsLabs/go-web-app-antipatterns)

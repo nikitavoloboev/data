@@ -139,3 +139,4 @@
 - [Boring Data Tool (bdt)](https://github.com/andygrove/bdt) - Command-line tool for viewing, querying, and converting between various file formats. Powered by DataFusion.
 - [Dabbling with Dagster (2022)](https://davidsj.substack.com/p/dabbling-with-dagster-part-1)
 - [Report: Databricks vs Snowflake (2022)](https://research.contrary.com/reports/databrick-vs-snowflake)
+- [DataFusion-tui](https://github.com/datafusion-contrib/datafusion-tui) - Terminal based, extensible, interactive data analysis tool using SQL.

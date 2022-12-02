@@ -151,3 +151,4 @@
 - [FC2 Female Condom](https://fc2.us.com/)
 - [What are some cunnilingus tips every guy should know? (2022)](https://www.reddit.com/r/sex/comments/z7vba8/what_are_some_cunnilingus_tips_every_guy_should/)
 - [Temporal trends in sperm count (2022)](https://academic.oup.com/humupd/advance-article/doi/10.1093/humupd/dmac035/6824414?login=false) ([Tweet](https://twitter.com/BenWilsonTweets/status/1598091125658914819))
+- [У кого какие эрогенные зоны?](https://twitter.com/lyasheva/status/1598540434497626113)

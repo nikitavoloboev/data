@@ -234,6 +234,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Arthur Carcano](https://ngr.yt/blog/)
 - [Fabian Offert](https://zentralwerkstatt.org/blog)
 - [Yair Chuchem](https://yairchu.github.io/)
+- [Tania Rascia](https://www.taniarascia.com/blog)
 
 ## Notes
 

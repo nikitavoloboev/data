@@ -48,3 +48,4 @@ Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reacti
 - [ArrowJS](https://github.com/justin-schroeder/arrow-js) - Reactivity without the framework. ([Tweet](https://twitter.com/jpschroeder/status/1593326779179073537)) ([Docs](https://www.arrow-js.com/))
 - [Spred](https://github.com/art-bazhin/spred) - Simple and fast JavaScript reactive programming library.
 - [Super Charging Fine-Grained Reactive Performance (2022)](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph)
+- [Reactively](https://github.com/modderme123/reactively) - Library for fine grained reactive programming.

@@ -66,6 +66,7 @@
 
 ## Advent of Code solutions
 
+- [2022 solutions in OCaml](https://github.com/DrearyLisper/aoc-2022)
 - [AOC Rust 2021](https://github.com/aldanor/aoc-2021)
 - [Rust](https://github.com/kitten/advent-of-code-2019)
 - [Rust 2](https://github.com/m-rutter/advent-of-code)

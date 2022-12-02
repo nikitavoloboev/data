@@ -71,3 +71,4 @@ title: Astro
 - [Is Astro This Good? (2022)](https://www.youtube.com/watch?v=Sqp5VSqbQOY)
 - [tw](https://github.com/norskeld/tw) - Helpers for working with Tailwind in Astro.
 - [Smooth Page Transitions with Astro & the Shared Element Transition API](https://github.com/Charca/astro-view-transitions) ([Tweet](https://twitter.com/charca/status/1594725772148752391))
+- [Radix Icons for Astro](https://github.com/astro-community/icons)

@@ -248,3 +248,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Generative Artists](https://github.com/KristinHenry/GenerativeArtists)
 - [Daily creative coding sketches for Genuary 2022](https://github.com/ronikaufman/genuary2022)
 - [Experiment with Penrose Tilings and other patterns](https://aatishb.com/patterncollider/) ([HN](https://news.ycombinator.com/item?id=33818693))
+- [Pattern Collider](https://github.com/aatishb/patterncollider) - Tool for generating and exploring quasiperiodic tiling patterns.

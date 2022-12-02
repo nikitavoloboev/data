@@ -607,3 +607,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [popb](https://github.com/pwoolcoc/pushb) - Like pushd, but for git branches.
 - [Git's coolest, most unloved feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 - [A Plumber’s Guide to Git (2018)](https://alexwlchan.net/a-plumbers-guide-to-git/)
+- [The Git Parable: a different approach to understanding Git (2022)](https://www.youtube.com/watch?v=ANNboouhNHE)

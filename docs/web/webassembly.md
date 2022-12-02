@@ -12,6 +12,8 @@ title: WebAssembly
 
 [Luna](https://github.com/thomscoder/luna) is nice code to study to understand WASM.
 
+[Extism](https://github.com/extism/extism) looks nice for extending native code.
+
 ## Links
 
 - [WebAssemblyLanguages](https://github.com/AppCypher/WebAssemblyLanguages)
@@ -403,3 +405,4 @@ title: WebAssembly
 - [js-wasm-tools](https://github.com/d3lm/js-wasm-tools) - Low level tooling for WebAssembly in JavaScript using wasm-tools.
 - [WebAssembly: TinyGo vs. Rust vs. AssemblyScript (2022)](https://ecostack.dev/posts/wasm-tinygo-vs-rust-vs-assemblyscript/) ([HN](https://news.ycombinator.com/item?id=33761756))
 - [Wasm Labs at VMware](https://wasmlabs.dev/)
+- [WASI-Kernel](https://github.com/corwin-of-amber/wasi-kernel) - Simple process management for WASM modules running in workers, based on WASI.

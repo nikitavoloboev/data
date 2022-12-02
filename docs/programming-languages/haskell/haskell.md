@@ -95,7 +95,7 @@ title: Haskell
 - [Haskell Fan Site](http://www-cs-students.stanford.edu/~blynn/haskell/) ([HN](https://news.ycombinator.com/item?id=20255694))
 - [An opinionated beginner's guide to Haskell in mid 2019](https://github.com/theindigamer/not-a-blog/blob/master/opinionated-haskell-guide-2019.md)
 - [Why I (as of June 22 2019) think Haskell is the best general purpose language](http://www.philipzucker.com/why-i-as-of-june-22-2019-think-haskell-is-the-best-general-purpose-language-as-of-june-22-2019/)
-- [Ormolu](https://github.com/tweag/ormolu) - Formatter for Haskell source code. ([Announcement article](https://www.tweag.io/posts/2019-10-11-ormolu-first-release.html))
+- [Ormolu](https://github.com/tweag/ormolu) - Formatter for Haskell source code. ([Announcement article](https://www.tweag.io/posts/2019-10-11-ormolu-first-release.html)) ([Ormolu WASM](https://ormolu-wasm.netlify.app/))
 - [Fourmolu](https://github.com/fourmolu/fourmolu) - Formatter for Haskell source code. Fork of Ormolu, with the intention to continue to merge upstream improvements.
 - [Koka](https://github.com/koka-lang/koka) - Function-oriented language with effect inference.
 - [Write You a Haskell](http://dev.stephendiehl.com/fun/) - Building a modern functional compiler from first principles.
@@ -487,3 +487,4 @@ title: Haskell
 - [3 ways to reduce sharing in Haskell (2022)](https://yairchu.github.io/posts/reduce-sharing-in-haskell)
 - [Tutorial: `forall` in Haskell (2021)](https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial) ([Lobsters](https://lobste.rs/s/tousvy/tutorial_forall_haskell))
 - [A\* Algorithm in Haskell (2022)](https://notes.abhinavsarkar.net/2022/astar)
+- [Profiling Memory Usage With eventlog2html and ghc-debug](https://github.com/well-typed/memory-profiling-webinar)

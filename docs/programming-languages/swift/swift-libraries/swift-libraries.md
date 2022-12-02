@@ -287,6 +287,7 @@
 - [Pastel](https://github.com/cruisediary/Pastel) - Gradient animation effect like Instagram.
 - [Lurker](https://github.com/Sam-Spencer/Lurker) - Abstraction over the iOS BackgroundTask API to make background tasks easy to isolate, maintain and schedule.
 - [SDCALayer](https://github.com/p-x9/SDCALayer) - Server-Driven CALayer.
+- [AppContainer](https://github.com/p-x9/AppContainer) - Create and manage multiple environments with a single application, just as if you were swapping containers.
 
 ## macOS
 
@@ -1333,6 +1334,7 @@
 - [FineJSON](https://github.com/omochi/FineJSON) - More useful JSONEncoder, Decoder.
 - [Swime](https://github.com/sendyhalim/Swime) - Swift MIME type checking based on magic bytes.
 - [InstantSearch](https://github.com/algolia/instantsearch-ios) - Library of widgets and helpers to build instant-search applications on iOS.
+- [KeyPathValue](https://github.com/p-x9/KeyPathValue) - Structure for assigning values using keypath.
 
 ## Other (not lib)
 

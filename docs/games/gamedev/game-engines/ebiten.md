@@ -6,6 +6,7 @@ title: Ebiten
 
 ## OSS games
 
+- [Airplanes](https://github.com/m110/airplanes) - 2D shoot 'em up game made with Go, Ebitengine, and donburi. Featuring ECS (Entity Component System).
 - [Bindless](https://github.com/tinne26/bindless) - Magnetic world for Ebitengine's first game jam.
 
 ## Links

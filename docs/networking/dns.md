@@ -33,7 +33,7 @@ title: DNS
 - [dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server.
 - [Nslookup.io](https://www.nslookup.io/) - Find DNS records. ([Article](https://www.nslookup.io/blog/i-quit-my-job/)) ([HN](https://news.ycombinator.com/item?id=30357192))
 - [c-ares](https://github.com/c-ares/c-ares) - C library for asynchronous DNS requests.
-- [DNS over Wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page. ([HN](https://news.ycombinator.com/item?id=22790425)) ([HN 2](https://news.ycombinator.com/item?id=22808121))
+- [DNS over Wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page. ([HN](https://news.ycombinator.com/item?id=22790425)) ([HN](https://news.ycombinator.com/item?id=22808121)) ([HN](https://news.ycombinator.com/item?id=33830759))
 - [dns-proxy-server](https://github.com/mageddo/dns-proxy-server) - Solve your DNS hosts from your docker containers, then from your local configuration, then from internet.
 - [NextDNS](https://nextdns.io/) - Block ads, trackers and malicious websites on all your devices. ([Article](https://angristan.xyz/2020/04/nextdns/)) ([HN](https://news.ycombinator.com/item?id=22854209)) ([Metadata](https://github.com/nextdns/metadata))
 - [NextDNS CLI Client (DoH Proxy)](https://github.com/nextdns/nextdns)

@@ -9,6 +9,7 @@ title: Qwik
 ## OSS sites
 
 - [Vendure Qwik Storefront Starter️](https://github.com/vendure-ecommerce/storefront-qwik-starter) - E-commerce storefront for Vendure built with Qwik & Qwik City.
+- [Qwind](https://github.com/onwidget/qwind) - Template to make your website using Qwik + Tailwind CSS.
 
 ## Notes
 

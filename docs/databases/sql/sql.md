@@ -225,3 +225,4 @@ title: SQL
 - [TAPEX: Table Pre-training via Learning a Neural SQL Executor (2022)](https://table-pretraining.github.io/) ([Code](https://github.com/microsoft/Table-Pretraining))
 - [SQL Format](https://github.com/shssoichiro/sqlformat-rs) - SQL Formatter written in Rust.
 - [SQL Teaching](https://www.sqlteaching.com/) - Easiest tutorial to learn SQL.
+- [SQL grammar for BigQuery](https://github.com/takegue/tree-sitter-sql-bigquery)

@@ -6,6 +6,8 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 
 Using [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion) to generate prompts.
 
+Trying to use more of these technologies in my day to life. Specifically [ChatGPT](https://chat.openai.com/) seems incredible. [Generates nice code](https://twitter.com/onybose/status/1598534390833098753) too. Need to [be wary](https://twitter.com/johnolilly/status/1598517624031555584) though as they don't do [much novelty yet](https://twitter.com/Noahpinion/status/1598499746263732224).
+
 ## Notes
 
 - [The net effect of the last 18 mo has been to slightly lubricate human imagination, making it easier for individuals to visualize possible worlds/scenes/moods. It’s only a medium-big deal—unless this is a foretaste of similar acceleration in music, code, and text.](https://twitter.com/Ted_Underwood/status/1566787680872157185)

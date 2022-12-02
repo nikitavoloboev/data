@@ -190,3 +190,4 @@
 - [ElixirConf 2022 - Onorio Catenacci - Searching Your Elixir Code](https://www.youtube.com/watch?v=am9NSuTjOhA&list=PLqj39LCvnOWbmaPrkGCAzFMC_FYZUkmSr)
 - [Functional Imperative Programming With Elixir (2018)](http://bitwalker.org/posts/2018-03-18-functional-imperative-programming-with-elixir/)
 - [The Complete Guide to Full-text Search with Postgres and Ecto (2022)](https://www.peterullrich.com/complete-guide-to-full-text-search-with-postgres-and-ecto)
+- [Awesome Elixir Books](https://github.com/sger/ElixirBooks)

@@ -913,6 +913,7 @@
 - [mixin](https://github.com/DenisKolodin/mixin) - Macros that combine fields and implementations of different structs.
 - [Rust Embed for Web](https://github.com/SeriousBug/rust-embed-for-web) - Rust Macro which embeds files into your executableFork of rust-embed with a focus on usage in web servers..
 - [OptionalStruct](https://github.com/lesurp/OptionalStruct) - Macro copying a struct with Option fields. Useful for config initialization.
+- [Respan](https://github.com/dtolnay/respan) - Macros to erase scope information from tokens.
 
 ## Math
 
