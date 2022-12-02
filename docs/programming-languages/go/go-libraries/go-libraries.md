@@ -1923,6 +1923,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [VarInt](https://github.com/1pkg/varint) - Fast & memory efficient arbitrary bit width integers in Go.
 - [Gogu](https://github.com/esimov/gogu) - Comprehensive, reusable and efficient concurrent-safe utility functions and data structures library.
 - [Go FTP Server library](https://github.com/fclairamb/ftpserverlib)
+- [Transport](https://github.com/vmware/transport-go) - Full stack, simple, fast, expandable application event bus.
 
 ## Links
 

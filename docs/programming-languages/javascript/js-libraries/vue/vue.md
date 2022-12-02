@@ -221,3 +221,4 @@ title: Vue.js
 - [Vue-Sprinkles](https://github.com/wobsoriano/vue-sprinkles) - Composable to create a component from your vanilla-extract + sprinkles tokens.
 - [SWC Plugin for Vue JSX](https://github.com/g-plane/swc-plugin-vue-jsx)
 - [Numix](https://github.com/wobsoriano/numix) - Write your server code inside Vue SFC's and handle forms easily.
+- [Vunix](https://github.com/gaetansenn/vunix) - UI library built on top of Vue and TailwindCSS.

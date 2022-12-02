@@ -451,3 +451,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [DENOG Routing Guide](https://github.com/denog/routing-guide) - Reference for best practices in Internet backbone routing.
 - [Urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning.
 - [Pluggable contexts in Tvix](https://docs.google.com/document/d/1pz2tRTX5kkS_1wfrZfeHg7MBCSgR1BAktZA2dc42ABk/edit)
+- [Collection of all the content from NixCon Paris 2022](https://github.com/nixcon/NixConContent)

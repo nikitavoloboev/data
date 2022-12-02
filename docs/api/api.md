@@ -442,3 +442,5 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Nango](https://github.com/NangoHQ/nango) - Easiest way to sync data from external APIs.
 - [spego](https://github.com/kevinswiber/spego) - Set of policies for Open Policy Agent to validate OpenAPI definitions.
 - [To infinity and beyond: enabling the future of GitHub's REST API with API versioning (2022)](https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/) ([Lobsters](https://lobste.rs/s/4xdx12/infinity_beyond_enabling_future_github_s))
+- [Vacuum](https://github.com/daveshanley/vacuum) - Ultra-super-fast, lightweight OpenAPI linter and quality checking tool, written in Go and inspired by Spectral.
+- [libopenapi](https://github.com/pb33f/libopenapi) - Fully featured, high performance, enterprise grade OpenAPI 3.1, 3.0 and Swagger 2.0 parser, library and toolkit for Go applications.

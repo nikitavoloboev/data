@@ -484,3 +484,4 @@ if (
 - [Jitar](https://github.com/MaskingTechnology/jitar) - Full-stack JavaScript runtime for small to large web applications.
 - [This Month in JavaScript (2022)](https://www.youtube.com/watch?v=ijKULkvSaAU)
 - [Introduce await.all / await.race / await.allSettled / await.any to simplify the usage of Promises](https://github.com/tc39/proposal-await.ops)
+- [Proposal for new Set methods in JS](https://github.com/tc39/proposal-set-methods)

@@ -23,6 +23,7 @@ title: Tauri
 - [Taurine](https://github.com/Perfect7M/taurine) - Tauri + Node.js stater.
 - [Mediarepo](https://github.com/Trivernis/mediarepo) - Tool for managing media files.
 - [Upscale-rs](https://github.com/OLoKo64/upscale-rs) - Tauri based GUI app that upscale images using Real-ESRGAN model.
+- [Tauri and Leptos example](https://github.com/michalvavra/tauri-leptos-example)
 
 ## Notes
 

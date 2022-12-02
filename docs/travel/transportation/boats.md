@@ -4,6 +4,10 @@ Would love to try live on a boat one day. [100 Rabbits](https://100r.co/site/hom
 
 Only issue is that I can't imagine going without internet for long periods of time so something like [Starlink Maritime](https://www.starlink.com/maritime) would be ideal to get fast internet wherever my boat stays. Only issue is that it's very expensive for personal use.
 
+## Interesting
+
+- [Jeff Bezos' Y721 yacht](https://www.boatinternational.com/yachts/the-superyacht-directory/y721--98581)
+
 ## Notes
 
 - [Catamaran are much more livable (more space) than other boats.](https://twitter.com/maccaw/status/1550160798411919361)
@@ -36,3 +40,4 @@ Only issue is that I can't imagine going without internet for long periods of ti
 - [Starlink Maritime](https://www.starlink.com/maritime) - High-speed, low-latency internet with up to 350 Mbps download while at sea. ([HN](https://news.ycombinator.com/item?id=32018218))
 - [The Long Way: Sheridan House Maritime Classic](https://www.goodreads.com/en/book/show/404437)
 - [How One Woman Pulled Anchor and Set Sail in a Solar-Powered Tiny Home](https://www.dwell.com/article/solar-design-tiny-home-on-the-water-crossboundaries-floating-tiny-home75ed6890-14b512c6)
+- [Boat International](https://www.boatinternational.com/) - Superyacht and Luxury Yacht Guide.

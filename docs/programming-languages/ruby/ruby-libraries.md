@@ -85,6 +85,7 @@
 - [oj](https://github.com/ohler55/oj) - Fast JSON parser and Object marshaller as a Ruby gem.
 - [iCalendar](https://github.com/icalendar/icalendar) - Internet calendaring, Ruby style.
 - [Polars Ruby](https://github.com/ankane/polars-ruby) - Blazingly fast DataFrames for Ruby.
+- [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) - Single-process Ruby asynchronous processing library.
 
 ## Links
 

@@ -118,3 +118,4 @@ title: WebSocket
 - [wschannel](https://github.com/creachadair/wschannel) - Implementation of the jrpc2 Channel over WebSocket.
 - [WebSocket close codes](https://github.com/Luka967/websocket-close-codes) - Table of predefined WebSocket close codes/ranges.
 - [socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing WebSockets, Http/Https High Peformance servers for PyPy3 and Python3.
+- [AsyncAPI Tutorials](https://github.com/daveshanley/asyncapi-tutorials)

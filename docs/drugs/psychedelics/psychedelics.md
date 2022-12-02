@@ -185,3 +185,4 @@ It's good to be aware that [set and setting](https://www.reddit.com/r/LSD/commen
 - [Trial of Psilocybin versus Escitalopram for Depression (2021)](https://www.nejm.org/doi/full/10.1056/NEJMoa2032994) ([Tweet](https://twitter.com/RCarhartHarris/status/1586757459888201732))
 - [Psychedelics: A Personal Take (2021)](https://ava.substack.com/p/psychedelics-a-personal-take) ([HN](https://news.ycombinator.com/item?id=33435140))
 - [Guide to Taking Psychedelics: Set & Setting](https://www.reddit.com/r/LSD/comments/bc7l6l/guide_to_taking_psychedelics_set_setting/)
+- [Movies to watch on Shrooms (2022)](https://www.reddit.com/r/MovieSuggestions/comments/z9v7ng/movies_to_watch_on_shrooms/)

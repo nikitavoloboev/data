@@ -6,6 +6,8 @@ title: Notion
 
 Use it for projects as a wiki of docs & notes for teams. I [share most boards in public](../sharing/my-notion.md). [Super](https://super.so/) is neat tool.
 
+[Notion API Worker](https://github.com/splitbee/notion-api-worker) is nice too.
+
 ## Notes
 
 - To open Notion page directly in macOS app. Get the share link. Will look like `https://www.notion.so/nikiv/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332`. Then use it but with `notion://` prefix like `open notion://nikiv/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332`.

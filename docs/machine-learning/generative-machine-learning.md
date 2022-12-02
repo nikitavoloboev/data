@@ -190,3 +190,6 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion) - Run Stable Diffusion on Apple Silicon with Core ML. ([Stable Diffusion with Core ML on Apple Silicon](https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon)) ([HN](https://news.ycombinator.com/item?id=33822157))
 - [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation (2022)](https://arxiv.org/abs/2212.00774) ([Code](https://github.com/pals-ttic/sjc))
 - [Generative AI: autocomplete for everything (2022)](https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything) ([Tweet](https://twitter.com/Noahpinion/status/1598346194559778822))
+- [Basic Dreambooth Guide](https://github.com/nitrosocke/dreambooth-training-guide) - Short guide on the process of collecting a dataset and basic dreambooth settings.
+- [People tricking ChatGPT “like watching an Asimov novel come to life”](https://twitter.com/carnage4life/status/1598332648723976193) ([HN](https://news.ycombinator.com/item?id=33832358))
+- [ChatGPT Assistant](https://github.com/pdparchitect/ChatGPT-Assistant) - Extension that enhances your browsing experience on the ChatGPT website, with features like page fetching and more.
