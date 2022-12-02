@@ -86,3 +86,4 @@ Drink coffee on occasions, try not to do it daily as to get actual effects from 
 - [Fellow](https://fellowproducts.com/) - Brew Ridiculously Good Coffee.
 - [Moccamaster](https://www.moccamaster.eu/)
 - [AnzaCoffee](https://www.anzacoffee.com/)
+- [Wilfa](https://wilfa.co.uk/) - Coffee Equipment and Kitchen Appliances.

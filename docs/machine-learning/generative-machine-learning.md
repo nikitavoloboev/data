@@ -4,6 +4,8 @@
 
 Progress in models like [Midjourney](https://www.midjourney.com/) is getting [insanely good](https://www.reddit.com/r/midjourney/comments/yyom8a/london_1910/). Can even generate [nice header images](https://twitter.com/euboid/status/1593174650262986754) or [logos](https://twitter.com/sindresorhus/status/1590640203781533696).
 
+Using [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion) to generate prompts.
+
 ## Notes
 
 - [The net effect of the last 18 mo has been to slightly lubricate human imagination, making it easier for individuals to visualize possible worlds/scenes/moods. It’s only a medium-big deal—unless this is a foretaste of similar acceleration in music, code, and text.](https://twitter.com/Ted_Underwood/status/1566787680872157185)
@@ -183,3 +185,4 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 - [Stable Diffusion 2.0 and the Importance of Negative Prompts for Good Results (2022)](https://minimaxir.com/2022/11/stable-diffusion-negative-prompt/) ([HN](https://news.ycombinator.com/item?id=33780543))
 - [Ten Years of Image Synthesis (2022)](https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis) ([HN](https://news.ycombinator.com/item?id=33784361))
 - [Diffusion Models Live Event (2022)](https://www.youtube.com/watch?v=5gPS_Tn9rlg)
+- [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion) - Run Stable Diffusion on Apple Silicon with Core ML. ([Stable Diffusion with Core ML on Apple Silicon](https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon)) ([HN](https://news.ycombinator.com/item?id=33822157))

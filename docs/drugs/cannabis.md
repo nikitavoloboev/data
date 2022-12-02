@@ -4,7 +4,17 @@ title: Cannabis
 
 # [Cannabis](https://psychonautwiki.org/wiki/Cannabis)
 
-Use [Mighty+](https://www.storz-bickel.com/en-us/mighty-plus) when I occasionally use weed, goes especially well with [psychedelics](psychedelics/psychedelics.md). I start vape at 190-200C and end sessions at 210-220C. Huberman did nice [episode on effects of cannabis](https://hubermanlab.com/the-effects-of-cannabis-marijuana-on-the-brain-and-body/).
+Use [Mighty+](https://www.storz-bickel.com/en-us/mighty-plus) when I occasionally use weed, goes especially well with [psychedelics](psychedelics/psychedelics.md). I start vape at 180. After few minutes, I gradually increase it 200 and end sessions at 210-220C until no smoke comes out. Huberman did nice [episode on effects of cannabis](https://hubermanlab.com/the-effects-of-cannabis-marijuana-on-the-brain-and-body/).
+
+Mostly I can't see any noticeable difference between any strains I vape. I prefer more [psychedelic](psychedelics/psychedelics.md) effect. And only way to get it is to grow your own strains or get some from [Boerejongens](https://www.boerejongens.com/) if you're in [NL](../travel/visited/netherlands.md) as most/all coffee shops there sell overpriced bad weed due to silly laws. Heard that's different in [US](../travel/visited/united-states.md).
+
+I actually came to get interested in psychedelics after 2nd time I smoked weed (purple haze). And for first time in my life had my reality warp like I never saw before. Read about all kinds of [drugs](drugs.md) and effects after that 2nd time.
+
+Mostly now I don't get much psychedelic effect (things moving) now but do get enjoyable high with interesting thought patterns.
+
+## Favorite strains
+
+- [Heavens Choco Haze HGB](https://www.zamnesia.com/3315-zamnesia-seeds-choco-haze-feminized.html)
 
 ## Notes
 

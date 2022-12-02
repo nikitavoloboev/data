@@ -382,7 +382,7 @@ title: WebAssembly
 - [Rust TODO WASM app](https://github.com/romainbellande/rust-todo-wasm)
 - [HTMX, WebAssembly, Rust, ServiceWorkers](https://github.com/richardanaya/wasm-service) ([HN](https://news.ycombinator.com/item?id=33228891))
 - [The Go WebAssembly ABI at a Low Level (2022)](https://xeiaso.net/talks/wasm-abi)
-- [Wasm Workers Server](https://github.com/vmware-labs/wasm-workers-server) - HTTP server that runs applications with WebAssembly.
+- [Wasm Workers Server](https://github.com/vmware-labs/wasm-workers-server) - HTTP server that runs applications with WebAssembly. ([0.6 release](https://wasmlabs.dev/articles/whats-new-wasm-workers-server-0.6.0/))
 - [How We Built an In-Browser Language Server Using WASM (2022)](https://www.hiro.so/blog/write-clarity-smart-contracts-with-zero-installations-how-we-built-an-in-browser-language-server-using-wasm)
 - [CoWasm](https://github.com/sagemathinc/cowasm) - Collaborative WebAssembly for Servers and Browsers. Built using Zig. Supports Python with extension modules, including numpy. ([Web](https://cowasm.org/))
 - [Luna](https://github.com/thomscoder/luna) - Tiny WebAssembly compiler in Go. ([Demo](https://luna-demo.vercel.app/)) ([HN](https://news.ycombinator.com/item?id=33584337))
@@ -402,3 +402,4 @@ title: WebAssembly
 - [WASM Registry Prototype](https://github.com/bytecodealliance/registry)
 - [js-wasm-tools](https://github.com/d3lm/js-wasm-tools) - Low level tooling for WebAssembly in JavaScript using wasm-tools.
 - [WebAssembly: TinyGo vs. Rust vs. AssemblyScript (2022)](https://ecostack.dev/posts/wasm-tinygo-vs-rust-vs-assemblyscript/) ([HN](https://news.ycombinator.com/item?id=33761756))
+- [Wasm Labs at VMware](https://wasmlabs.dev/)

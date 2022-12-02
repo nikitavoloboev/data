@@ -485,3 +485,5 @@ title: Haskell
 - [Blog: Haskell in Production](https://serokell.io/blog/haskell-in-production)
 - [Production Haskell: Succeeding in Industry with Haskell (2022)](https://leanpub.com/production-haskell)
 - [3 ways to reduce sharing in Haskell (2022)](https://yairchu.github.io/posts/reduce-sharing-in-haskell)
+- [Tutorial: `forall` in Haskell (2021)](https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial) ([Lobsters](https://lobste.rs/s/tousvy/tutorial_forall_haskell))
+- [A\* Algorithm in Haskell (2022)](https://notes.abhinavsarkar.net/2022/astar)

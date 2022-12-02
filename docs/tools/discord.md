@@ -203,3 +203,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Building a Discord bot in Rust (2022)](https://www.shuttle.rs/blog/2022/09/14/serentity-discord-bot) ([HN](https://news.ycombinator.com/item?id=33019573))
 - [Vencord](https://github.com/Vendicated/Vencord) - Discord Desktop Clientmod.
 - [Nice alternatives to Discord](https://twitter.com/jerodsanto/status/1580200810449096704)
+- [Discord Creator Portal](https://discord.com/creators) ([HN](https://news.ycombinator.com/item?id=33820947))

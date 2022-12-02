@@ -2,7 +2,7 @@
 title: Wild Rift
 ---
 
-# Wild Rift
+# [Wild Rift](https://wildrift.leagueoflegends.com/en-gb/)
 
 ## Links
 

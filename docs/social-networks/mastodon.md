@@ -119,3 +119,7 @@ title: Mastodon
 - [Movetodon](https://movetodon.org/) - Find your Twitter Friends on Mastodon.
 - [From Ubuntu to NixOS the story of a mastodon migration (2022)](https://gianarb.it/blog/from-ubuntu-to-nixos-history-of-a-mastodon-migration) ([Lobsters](https://lobste.rs/s/wynvf6/from_ubuntu_nixos_story_mastodon))
 - [Experimenting with Federation and Migrating Accounts (2022)](https://medium.com/@kris-nova/experimenting-with-federation-and-migrating-accounts-eae61a688c3c)
+- [Masto-Redirect, a Mastodon Shortcut to Redirect Profiles and Posts to Your Own Instance (2022)](https://www.macstories.net/ios/masto-redirect-a-mastodon-shortcut-to-redirect-profiles-and-posts-to-your-own-instance/)
+- [Scaling Mastodon: The Compendium](https://hazelweakly.me/blog/scaling-mastodon/)
+- [Movetodon](https://www.movetodon.org/) - Find your Twitter Friends on Mastodon.
+- [I Was Wrong About Mastodon (2022)](https://escapingtech.com/tech/opinions/i-was-wrong-about-mastodon-moderation.html)

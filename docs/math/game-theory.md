@@ -16,3 +16,4 @@
 - [Game Gym](https://github.com/gavento/gamegym) - Game theory framework with examples and algorithms.
 - [Learning Mixed Strategies in Trajectory Games (2022)](https://arxiv.org/abs/2205.00291) ([Code](https://github.com/lassepe/LiftedTrajectoryGames.jl))
 - [TensorGames.jl](https://github.com/4estlaine/TensorGames.jl) - Computing mixed-strategy Nash Equilibria for games involving multiple players.
+- [The game theory of John von Neumann transformed the 20th century (2022)](https://www.thenation.com/article/society/john-von-neumann/) ([HN](https://news.ycombinator.com/item?id=33804783))

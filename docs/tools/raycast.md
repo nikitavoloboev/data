@@ -33,3 +33,4 @@ Looking into building plugins for Raycast to compare it to [Alfred](../macOS/app
 - [Raycast New Grid API (2022)](https://www.youtube.com/watch?v=oSZ4ovsWxmU)
 - [Building Raycast extensions with Thomas Paul Mann (2022)](https://www.youtube.com/watch?v=dgyuttjX1oo)
 - [Sunbeam](https://github.com/pomdtr/sunbeam) - Raycast inspired launcher for the command line.
+- [VSCode Raycast extension](https://marketplace.visualstudio.com/items?itemName=tonka3000.raycast) ([Code](https://github.com/tonka3000/vscode-raycast))

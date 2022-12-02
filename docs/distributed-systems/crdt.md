@@ -106,3 +106,4 @@ title: Conflict-free replicated data type
 - [Building a BFT JSON CRDT (2022)](https://jzhao.xyz/posts/bft-json-crdt/) ([HN](https://news.ycombinator.com/item?id=33694568)) ([Tweet](https://twitter.com/_jzhao/status/1594732151400189953))
 - [CRDT: Fractional Indexing (2022)](https://madebyevan.com/algos/crdt-fractional-indexing/) ([HN](https://news.ycombinator.com/item?id=33764449))
 - [Data Laced with History: Causal Trees & Operational CRDTs (2018)](http://archagon.net/blog/2018/03/24/data-laced-with-history/) ([Code](https://github.com/archagon/crdt-playground))
+- [CRDTs make multiplayer text editing part of Zed's DNA (2022)](https://zed.dev/blog/crdts) ([HN](https://news.ycombinator.com/item?id=33820975))

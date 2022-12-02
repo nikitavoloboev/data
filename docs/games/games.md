@@ -4,7 +4,9 @@ I keep a list of [games I want to play](https://www.grouvee.com/user/nikivi/shel
 
 I also keep a list of [all games I have played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) with a [list of my favorite games](https://www.grouvee.com/user/nikivi/shelves/53363-favorite/?num=25) I've played. I also [share thoughts on some games I played](https://www.grouvee.com/user/nikivi/reviews/).
 
-Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildrift.leagueoflegends.com/en-gb/) on iPad or various games on PS5. If I ever make a small game, [itch.io](https://itch.io/) seems like a nice marketplace.
+Recently I mostly play either [chess](chess.md) on iPhone or [Wild Rift](wild-rift.md) on [iPad](../operating-systems/ios/ipad.md) or various games on [PS5](playstation.md). If I ever make a small game, [itch.io](https://itch.io/) seems like a nice marketplace.
+
+I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://letterboxd.com/). [Grouvee](https://www.grouvee.com/) is closest I found that lets you share lists and things on the web but has bad UI. [GameTrack](https://apps.apple.com/us/app/gametrack/id1136800740) has nicer UX and mobile app but no website and ability to share things. Perhaps one built this already.
 
 ## Awesome Online games
 

@@ -273,7 +273,7 @@ zz
 - [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - Light-weight lsp plugin based on neovim built-in lsp with highly performance UI.
 - [nlua.nvim](https://github.com/tjdevries/nlua.nvim) - Lua Development for Neovim.
 - [Configuring Neovim using Lua (2021)](https://icyphox.sh/blog/nvim-lua/)
-- [A Vim Guide for Advanced Users (2021)](https://thevaluable.dev/vim-advanced/) ([HN](https://news.ycombinator.com/item?id=26284618)) ([Reddit](https://www.reddit.com/r/programming/comments/ltm4vh/a_vim_guide_for_advanced_users/))
+- [Vim Guide for Advanced Users (2021)](https://thevaluable.dev/vim-advanced/) ([HN](https://news.ycombinator.com/item?id=26284618)) ([Reddit](https://www.reddit.com/r/programming/comments/ltm4vh/a_vim_guide_for_advanced_users/)) ([HN](https://news.ycombinator.com/item?id=33811705))
 - [Extreme Vim Macros for Traditionalist Catholics (2021)](https://www.youtube.com/watch?v=FXCitlsA7eQ) ([Reddit](https://www.reddit.com/r/vim/comments/lw71ax/extreme_vim_macros_for_traditionalist_catholics/))
 - [Vim is Turing-Complete (2021)](https://buttondown.email/hillelwayne/archive/vim-is-turing-complete/)
 - [nvcode](https://github.com/ChristianChiarulli/nvcode) - Ultimate Neovim Config NVCode.

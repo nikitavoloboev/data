@@ -84,3 +84,4 @@
 - [Circadian lighting with Home Assistant: Like f.lux, but for your house (2022)](https://tylercipriani.com/blog/2022/10/17/whole-house-circadian-lighting-with-home-assistant/) ([HN](https://news.ycombinator.com/item?id=33509282))
 - [Home Assistant Configuration](https://github.com/lukevink/hass-config-lajv)
 - [Tink](https://www.tink.de/) - Home automation items.
+- [Дом-дурачок. 3 года спустя (2022)](https://vas3k.ru/notes/homelab_2022/)

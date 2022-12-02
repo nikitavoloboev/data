@@ -218,3 +218,4 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [Button styles](https://twitter.com/AdhamDannaway/status/1595425255027269634)
 - [Putting content in containers makes the structure of the layout easier to understand](https://twitter.com/hobdaydesign/status/1596120988428533760)
 - [Rico: Mobile App Dataset for Building Data-Driven Design Applications](https://interactionmining.org/rico) ([Code](https://github.com/luileito/enrico))
+- [Dashboard Design Patterns](https://dashboarddesignpatterns.github.io/patterns.html)

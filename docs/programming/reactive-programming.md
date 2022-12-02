@@ -4,7 +4,7 @@ title: Reactive programming
 
 # [Reactive programming](https://en.wikipedia.org/wiki/Reactive_programming)
 
-[Hands-on Introduction to Fine-Grained Reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf) is great read.
+[Super Charging Fine-Grained Reactive Performance](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph) & [Hands-on Introduction to Fine-Grained Reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf) are great reads.
 
 Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reactivity model. [Voby](https://github.com/vobyjs/voby) is interesting too.
 
@@ -47,3 +47,4 @@ Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reacti
 - [Kefir](https://github.com/kefirjs/kefir) - Reactive Programming library for JavaScript.
 - [ArrowJS](https://github.com/justin-schroeder/arrow-js) - Reactivity without the framework. ([Tweet](https://twitter.com/jpschroeder/status/1593326779179073537)) ([Docs](https://www.arrow-js.com/))
 - [Spred](https://github.com/art-bazhin/spred) - Simple and fast JavaScript reactive programming library.
+- [Super Charging Fine-Grained Reactive Performance (2022)](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph)

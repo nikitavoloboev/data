@@ -91,3 +91,4 @@
 - [The Rise And Fall Of Japan (2022)](https://www.youtube.com/watch?v=12ddOpt7Hio)
 - [Life in Japan AMA (2022)](https://www.youtube.com/watch?v=Ok4-HQAHysk)
 - [Guide to Industrial Tourism in Japan](https://www.jetro.go.jp/en/eccj/ind_tourism/) ([HN](https://news.ycombinator.com/item?id=33680460))
+- [Nihongo Lessons](https://lessons.nihongo-app.com/) - Learn Japanese more efficiently than ever. ([HN](https://news.ycombinator.com/item?id=33822950))

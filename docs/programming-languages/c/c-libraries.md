@@ -124,7 +124,7 @@
 - [Minicoro](https://github.com/edubart/minicoro) - Single-file library for using asymmetric coroutines in C.
 - [utf8.h](https://github.com/sheredom/utf8.h) - Simple one header solution to supporting utf8 strings in C and C++.
 - [C-Blosc2](https://github.com/Blosc/c-blosc2) - Fast, compressed and persistent data store library for C.
-- [Blitsort](https://github.com/scandum/blitsort) - Rotate merge sort based on quadsort.
+- [Blitsort](https://github.com/scandum/blitsort) - Rotate merge sort based on quadsort. ([HN](https://news.ycombinator.com/item?id=33810539))
 - [Stricks](https://github.com/alcover/stricks) - Managed C strings library.
 - [Zpoline](https://github.com/yasukata/zpoline) - Efficient and versatile system call hook mechanism.
 - [STC](https://github.com/tylov/STC) - Modern, user friendly, generic, type-safe and fast C99 container library.

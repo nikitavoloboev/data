@@ -605,3 +605,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Extremely Linear Git History (2022)](https://westling.dev/b/extremely-linear-git) ([HN](https://news.ycombinator.com/item?id=33704297)) ([Lobsters](https://lobste.rs/s/ydy5vs/extremely_linear_git_history))
 - [git2 Extensions](https://github.com/gitext-rs/git2-ext)
 - [popb](https://github.com/pwoolcoc/pushb) - Like pushd, but for git branches.
+- [Git's coolest, most unloved feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
+- [A Plumber’s Guide to Git (2018)](https://alexwlchan.net/a-plumbers-guide-to-git/)

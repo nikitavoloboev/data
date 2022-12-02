@@ -708,3 +708,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [OpenAI Model index for researchers](https://beta.openai.com/docs/model-index-for-researchers)
 - [ChatGPT](https://chat.openai.com/)
 - [Adventures in generating music via ChatGPT text prompts (2022)](https://www.holovaty.com/writing/chatgpt-music-generation/)
+- [All the best examples of ChatGPT, from OpenAI](https://twitter.com/bentossell/status/1598269692082151424)

@@ -122,6 +122,7 @@
 - [Graph Algorithms Cheat Sheet For Coding Interviews](https://memgraph.com/blog/graph-algorithms-cheat-sheet-for-coding-interviews)
 - [Lockfree Algorithms (2010)](https://www.1024cores.net/home/lock-free-algorithms) ([HN](https://news.ycombinator.com/item?id=32918043))
 - [Algorithmic Resources](https://github.com/hkirat/Algorithmic-Resources) - Curated list of Topic wise Theory and Questions to Get You Started On Competitive Coding.
+- [Collection of array rotation algorithms](https://github.com/scandum/rotate)
 
 ## Images
 

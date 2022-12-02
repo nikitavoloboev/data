@@ -441,3 +441,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Glyphance](https://github.com/cupcakearmy/glyphance) - CLI tool for generating font subsets based on unicode ranges.
 - [Lettersoup](https://www.lettersoup.de/) - Retail Fonts.
 - [Fonts and text layout for Go](https://github.com/benoitkugler/textlayout)
+- [Creating a handwritten TrueType font in Linux (2018)](https://gordonlesti.com/creating-a-handwritten-truetype-font-in-linux/)

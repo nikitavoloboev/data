@@ -255,3 +255,4 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [Rust rewrite of the sunfish simple chess engine](https://github.com/Recursing/sunfish_rs)
 - [Acquisition of Chess Knowledge in AlphaZero (2022)](https://www.pnas.org/doi/10.1073/pnas.2206625119) ([HN](https://news.ycombinator.com/item?id=33681795))
 - [Noctie](https://noctie.ai/rate-me) - Chess AI that predicts your rating. ([HN](https://news.ycombinator.com/item?id=33718600))
+- [Human Chess](https://humanchess.abcd.party/) - Chess variant where playing the top engine move is forbidden. ([HN](https://news.ycombinator.com/item?id=33814653))

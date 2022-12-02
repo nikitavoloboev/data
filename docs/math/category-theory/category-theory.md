@@ -171,6 +171,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [The Joy of Abstraction: An Exploration of Math, Category Theory, and Life](https://www.cambridge.org/core/books/joy-of-abstraction/00D9AFD3046A406CB85D1AFF5450E657) ([HN](https://news.ycombinator.com/item?id=33740089))
 - [Why I am learning category theory (2022)](https://the.scapegoat.dev/why-i-am-learning-category-theory-1/)
 - [Category Theory - Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+- [List of initial algebras and final coalgebras of functors](https://github.com/bgavran/-Co-AlgebraCheatSheet) ([Tweet](https://twitter.com/bgavran3/status/1597944771481604096))
 
 ## Images
 

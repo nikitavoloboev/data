@@ -410,3 +410,4 @@ title: Reinforcement learning
 - [Delta Academy](https://joindeltaacademy.com/) - Learn RL online by building game AIs.
 - [DIAMBRA Arena](https://github.com/diambra/arena) - Reinforcement Learning Platform for Research and Experimentation.
 - [RLogist](https://github.com/tencent-ailab/RLogist) - Fast Observation Strategy on Whole-slide Images with Deep Reinforcement Learning.
+- [Mastering Stratego, the classic game of imperfect information (2022)](https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information) ([HN](https://news.ycombinator.com/item?id=33822145))
