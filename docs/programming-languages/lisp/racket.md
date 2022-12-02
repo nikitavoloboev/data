@@ -156,3 +156,4 @@ title: Racket
 - [disassemble](https://github.com/samth/disassemble) - Disassembler for Racket.
 - [fancy-app](https://github.com/samth/fancy-app) - Scala-style magic function application form.
 - [Pict3D](https://github.com/jeapostrophe/pict3d) - 3D engine with a purely functional API.
+- [Resyntax](https://github.com/jackfirth/resyntax) - Racket refactoring engine.

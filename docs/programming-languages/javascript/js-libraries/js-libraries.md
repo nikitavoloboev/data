@@ -1061,6 +1061,7 @@
 - [Try to Catch](https://github.com/coderaiser/try-to-catch) - Functional try-catch wrapper for promises.
 - [idle-task](https://github.com/hiroki0525/idle-task) - Improve your website performance by executing JavaScript during a browser's idle periods. ([HN](https://news.ycombinator.com/item?id=33730760))
 - [wildcard-match](https://github.com/axtgr/wildcard-match) - Tiny and extremely fast JavaScript library for compiling and matching basic glob patterns.
+- [ESX as Template Literal Tag](https://github.com/ungap/esx) - Template literal based ESX proposal.
 
 ## Links
 
