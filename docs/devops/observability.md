@@ -76,3 +76,4 @@ title: Observability
 - [A beginner’s guide to OpenTelemetry (2022)](https://faun.pub/opentelemetry-d71d369c83d7)
 - [The Modern Observability Problem](https://failingfast.io/opentelemetry-observability/) ([HN](https://news.ycombinator.com/item?id=33684045))
 - [StatsHouse](https://github.com/VKCOM/statshouse) - Highly-available, scalable, multi-tenant monitoring system.
+- [Vast](https://github.com/tenzir/vast) - Visibility Across Space and Time – The network telemetry engine for data-driven security investigations. ([Docs](https://vast.io/docs/about))

@@ -1274,3 +1274,4 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [template.py](https://github.com/alunduil/template.py) - Create new Python template with Poetry, VSCode DevContainers setup.
 - [Rusty docs](https://github.com/patrick91/rusty-docs) - Simple documentation generator for Python code.
 - [infer-types](https://github.com/orsinium-labs/infer-types) - CLI tool to automatically add type annotations into Python code.
+- [Dynamic versioning plugin for Poetry](https://github.com/mtkennerly/poetry-dynamic-versioning)
