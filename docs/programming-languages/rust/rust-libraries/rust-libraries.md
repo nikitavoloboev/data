@@ -2470,7 +2470,7 @@
 - [cargo-guppy](https://github.com/guppy-rs/guppy) - Track and query Cargo dependency graphs.
 - [allocative](https://github.com/facebookexperimental/allocative) - Library and proc macro to analyze memory usage of data structures in rust.
 - [Typeshare](https://github.com/1Password/typeshare) - Ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI. ([Reddit](https://www.reddit.com/r/rust/comments/z1qc6n/1password_releases_typeshare_the_ultimate_tool/)) ([Article](https://blog.1password.com/typeshare-for-rust/))
-- [ddt](https://github.com/dudykr/ddt) - Clean dead git branches & Remove outdated cargo artifacts.
+- [ddt](https://github.com/dudykr/ddt) - Clean dead git branches & Remove outdated cargo artifacts. ([Reddit](https://www.reddit.com/r/rust/comments/zah8ly/i_made_a_cli_tool_to_remove_only_outdated_cargo/))
 
 ## Notes
 
@@ -2656,3 +2656,4 @@
 - [Migrating from warp to axum (2022)](https://fasterthanli.me/series/updating-fasterthanli-me-for-2022/part-2) ([HN](https://news.ycombinator.com/item?id=33718765))
 - [Dandiya](https://github.com/abonkoski/dandiya) - API description tool designed to ensure ABI stability.
 - [TheBook](https://github.com/0xhiro/thebook) - Search and read 'The Rust Book' from the terminal. ([Reddit](https://www.reddit.com/r/rust/comments/z7j0yx/i_turned_the_rust_book_into_a_crate/))
+- [Building Web UI's in Rust w/ Greg Johnston (2022)](https://www.youtube.com/watch?v=zgY7ql1xwW4)

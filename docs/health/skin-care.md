@@ -74,6 +74,7 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 
 ## Notes
 
+- [SPF is absolutely crucial - every day, whatever the weather! Most skin ageing is due to small amounts of sun exposure over time. Retinol is the anti-aging ingredient with the most scientific and dermatologist backing, so you could introduce a retinol serum. The Ordinary, The Inkey List, and Face Theory all have very good, affordable options. You could also use an eye cream that targets fine lines and dark circles, but your regular moisturiser round the eyes is probably fine unless it says otherwise on the packaging. Also, make sure you are doing all of your skincare on your neck too, that's where ageing shows first and we often neglect it.](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/zalmi2/what_skincare_staples_should_those_of_us_pushing/)
 - [Tanning is not good for your skin](https://www.youtube.com/watch?v=o9BqrSAHbTc).
 - [More water. More sleep. Less alcohol, less smoking, and less sugar. For most people that'd drop about ten years off of their visible age.](https://www.reddit.com/r/nutrition/comments/lksj1l/what_are_your_favorite_nutritional_tricks_for/)
 - [La roche posay toleraine cleansers are nice. If you have dry skin the hydrating one is amazing, and if you have oily skin, the purifying foaming one. If you have acne prone skin, the inkey list salicylic acid cleanser every other night will be highly effective.](https://www.reddit.com/r/SkincareAddiction/comments/um98eu/what_are_some_the_top_products_recommended_by/)
@@ -174,3 +175,4 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [Lasers thread (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/z2m5hu/lasers_thread/)
 - [Вся правда о ботоксе и диспорте](https://www.youtube.com/watch?v=yOkGwa42LA0)
 - [Базовый уход для начинающих | Совсем-совсем начинающих (2020)](https://www.youtube.com/watch?v=6znFbpkuIOE)
+- [What skincare staples should those of us pushing 30 be using?](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/zalmi2/what_skincare_staples_should_those_of_us_pushing/)
