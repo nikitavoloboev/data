@@ -113,3 +113,4 @@ title: TLS
 - [BearSSL](https://bearssl.org/) - Smaller SSL/TLS library. ([HN](https://news.ycombinator.com/item?id=33381920))
 - [sslkeylog](https://github.com/segevfiner/sslkeylog) - Log SSL/TLS keys for decrypting SSL/TLS connections made in Python.
 - [TLSNotary](https://tlsnotary.org/) - Proof of data authenticity. ([Rust code](https://github.com/tlsnotary/tlsn))
+- [subtls](https://github.com/jawj/subtls) - TypeScript TLS 1.3 client with limited scope.

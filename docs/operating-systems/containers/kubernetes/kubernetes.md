@@ -882,3 +882,4 @@ title: Kubernetes
 - [scuttle](https://github.com/poseidon/scuttle) - Kubelet graceful node drain/delete and spot termination watcher.
 - [mindthegap](https://github.com/mesosphere/mindthegap) - Easily create and use bundles for air-gapped environments.
 - [Barco Streams](https://github.com/barcostreams/barco) - Lightweight & elastic kubernetes-native event streaming system.
+- [Kubermatic KubeOne](https://github.com/kubermatic/kubeone) - Automate cluster operations on all your cloud, on-prem, edge, and IoT environments.

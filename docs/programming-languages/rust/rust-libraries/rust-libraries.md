@@ -2469,6 +2469,7 @@
 - [cargo-guppy](https://github.com/guppy-rs/guppy) - Track and query Cargo dependency graphs.
 - [allocative](https://github.com/facebookexperimental/allocative) - Library and proc macro to analyze memory usage of data structures in rust.
 - [Typeshare](https://github.com/1Password/typeshare) - Ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI. ([Reddit](https://www.reddit.com/r/rust/comments/z1qc6n/1password_releases_typeshare_the_ultimate_tool/)) ([Article](https://blog.1password.com/typeshare-for-rust/))
+- [ddt](https://github.com/dudykr/ddt) - Clean dead git branches & Remove outdated cargo artifacts.
 
 ## Notes
 

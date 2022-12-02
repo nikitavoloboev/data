@@ -255,3 +255,4 @@ title: Clojure
 - [Clojure at the REPL: Data Visualization](https://clojure.org/guides/repl/data_visualization_at_the_repl#_graphical_and_web_based_visualizations) ([HN](https://news.ycombinator.com/item?id=33751589))
 - [Babashka Clojure nREPL as a system interface (2022)](https://yogthos.net/posts/2022-11-26-nREPL-system-interaction.html) ([HN](https://news.ycombinator.com/item?id=33761877))
 - [Why your REPL experience sucks](https://srasu.srht.site/var-evaluation.html)
+- [Opinionated list of excellent Clojure learning materials](https://gist.github.com/ssrihari/0bf159afb781eef7cc552a1a0b17786f)

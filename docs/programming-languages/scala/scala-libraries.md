@@ -213,6 +213,7 @@
 - [Featran](https://github.com/spotify/featran) - Scala feature transformation library for data science and machine learning.
 - [cats-parse](https://github.com/typelevel/cats-parse) - Parsing library for the cats ecosystem.
 - [avocADO](https://github.com/VirtusLab/avocADO) - Safe compile-time parallelization of for-comprehensions for Scala 3.
+- [Kyo](https://github.com/fwbrasil/kyo) - High-performance composable effects for Scala 3.
 
 ## Links
 
