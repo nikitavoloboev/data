@@ -226,3 +226,4 @@ title: SQL
 - [SQL Format](https://github.com/shssoichiro/sqlformat-rs) - SQL Formatter written in Rust.
 - [SQL Teaching](https://www.sqlteaching.com/) - Easiest tutorial to learn SQL.
 - [SQL grammar for BigQuery](https://github.com/takegue/tree-sitter-sql-bigquery)
+- [SQLforDevs](https://sqlfordevs.com/ebook) - Next-Level Database Techniques for Developers Ebook. ([HN](https://news.ycombinator.com/item?id=33833836))

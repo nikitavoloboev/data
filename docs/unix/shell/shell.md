@@ -266,3 +266,4 @@ All active variables can be seen by running `env`.
 - [We Built Syntax Highlighting for the Terminal Input Editor (2022)](https://www.warp.dev/blog/how-built-syntax-highlighting-terminal-input-editor) ([HN](https://news.ycombinator.com/item?id=33642513))
 - [tesh](https://github.com/OceanSprint/tesh) - TEstable SHell sessions in Markdown. ([Lobsters](https://lobste.rs/s/kf6xqi/testable_shell_sessions_markdown))
 - [A pragmatic approach to shell completion (2022)](https://dev.to/rsteube/a-pragmatic-approach-to-shell-completion-4gp0)
+- [Drag and Drop from Terminal (2022)](https://blog.meain.io/2022/terminal-drag-and-drop/) ([HN](https://news.ycombinator.com/item?id=33836308))

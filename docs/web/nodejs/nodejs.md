@@ -434,3 +434,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [flamebearer](https://github.com/mapbox/flamebearer) - Blazing fast flame graph tool for Node and V8.
 - [Walker](https://github.com/JackThomson2/walker) - Node HTTP server with a rust backend.
 - [httpx/exception](https://github.com/belgattitude/httpx) - Delightful http exceptions for node, edge & browser. Serialization/SSR and logging in mind.
+- [Exploring competitive features in Node.js v18 and v19 (2022)](https://blog.logrocket.com/exploring-competitive-features-node-js-v18-v19/)
