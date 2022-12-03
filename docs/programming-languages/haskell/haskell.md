@@ -488,3 +488,4 @@ title: Haskell
 - [Tutorial: `forall` in Haskell (2021)](https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial) ([Lobsters](https://lobste.rs/s/tousvy/tutorial_forall_haskell))
 - [A\* Algorithm in Haskell (2022)](https://notes.abhinavsarkar.net/2022/astar)
 - [Profiling Memory Usage With eventlog2html and ghc-debug](https://github.com/well-typed/memory-profiling-webinar)
+- [Haskell-Lexer](https://github.com/yav/haskell-lexer) - Fully compliant Haskell 98 lexer.

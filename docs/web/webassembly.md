@@ -406,3 +406,4 @@ title: WebAssembly
 - [WebAssembly: TinyGo vs. Rust vs. AssemblyScript (2022)](https://ecostack.dev/posts/wasm-tinygo-vs-rust-vs-assemblyscript/) ([HN](https://news.ycombinator.com/item?id=33761756))
 - [Wasm Labs at VMware](https://wasmlabs.dev/)
 - [WASI-Kernel](https://github.com/corwin-of-amber/wasi-kernel) - Simple process management for WASM modules running in workers, based on WASI.
+- [Wasmer takes WebAssembly libraries mainstream with WAI (2022)](https://wasmer.io/posts/wasmer-takes-webassembly-libraries-manistream-with-wai) ([HN](https://news.ycombinator.com/item?id=33833826))
