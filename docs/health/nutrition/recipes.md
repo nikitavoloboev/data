@@ -6,6 +6,7 @@ Use [Mela](https://mela.recipes/) to store my recipes. [Crouton](https://crouton
 
 - Greek yogurt with frozen blueberries
 - Sushi of all kinds
+- [Salmon and Greens](https://youtu.be/jeLtlAh0ZgY?t=479)
 - [Garlic soup](https://themodernproper.com/garlic-soup)
 - [Fish cakes](https://www.bbcgoodfood.com/recipes/ultimate-fish-cakes)
 - [Carrot Cutlets](https://www.bawarchi.com/recipe/carrot-cutlet-oetuBkeechece.html)

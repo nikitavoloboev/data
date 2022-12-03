@@ -28,3 +28,5 @@
 - [How to grow ergot](https://www.youtube.com/watch?v=BrKfF-G_Cug)
 - [Favorite trees](https://twitter.com/Tjdriii/status/1528788277511213057)
 - [Why are plants green? To reduce the noise in photosynthesis](https://worldsensorium.com/why-are-plants-green/) ([HN](https://news.ycombinator.com/item?id=33049277))
+- [4 Beginner Mistakes to Avoid When Growing San Pedro Cacti](https://www.youtube.com/watch?v=lhuMsL8m5zE)
+- [Growing San Pedro Cactus: A Complete How-To](https://thethirdwave.co/growing-san-pedro-cactus/)

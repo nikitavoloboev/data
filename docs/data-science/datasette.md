@@ -19,4 +19,4 @@ title: Datasette
 - [Shot-scraper: Automating screenshots for documentation](https://simonwillison.net/2022/Oct/14/automating-screenshots/) ([Lobsters](https://lobste.rs/s/xn0fg5/automating_screenshots_for_datasette)) ([HN](https://news.ycombinator.com/item?id=33216789))
 - [datasette-geojson-map](https://github.com/eyeseast/datasette-geojson-map) - Render a map for any query with a geometry column.
 - [Measuring traffic during the Half Moon Bay Pumpkin Festival (2022)](https://simonwillison.net/2022/Oct/19/measuring-traffic/)
-- [Datasette’s new JSON write API (2022)](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
+- [Datasette’s new JSON write API (2022)](https://simonwillison.net/2022/Dec/2/datasette-write-api/) ([HN](https://news.ycombinator.com/item?id=33838341))

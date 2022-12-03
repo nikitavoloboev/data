@@ -712,3 +712,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Trading cards made with e-ink displays](https://www.wyldcard.io/blog/introducing-wyldcard) ([HN](https://news.ycombinator.com/item?id=33795296))
 - [Photo to Anime](https://h5.tu.qq.com/web/ai-2d/cartoon/index)
 - [Some nice < 500$ Christmas things to buy (2022)](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/z88wjj/boss_giving_me_500_for_christmas_what_indulgent/)
+- [Wikipedia Analysis Tool](http://wikiwho.ailef.tech/) - Explore Wikipedia edits made by institutions, companies and governments. ([HN](https://news.ycombinator.com/item?id=33842406))

@@ -28,6 +28,7 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [macOS has network quality command: networkQuality](https://twitter.com/justsitandgrin/status/1460286405578563595) ([Reddit](https://www.reddit.com/r/MacOS/comments/qxa933/builtin_network_bandwidth_test_tool_on_macos/))
 - [Just because a root certificate is in the built-in iOS/macOS trust store doesn't mean that it is trusted. Apple applies additional constraints via configuration updates to maintain a high-level of security.](https://twitter.com/BasileBailey/status/1494801237694300161)
 - [Things I immediately do when setting up a new Mac: 1. Turn off all system notifications. 2. Turn off autocorrect. 3. Set ⌘-V to "Paste and Match Style" to remove formatting.](https://twitter.com/davidhoang/status/1572591216470130694)
+- [For MacOS, you need to disable AirPlay to make 5000 available. System Preference > Sharing > uncheck AirPlay Receiver.](https://github.com/thangchung/go-coffeeshop/issues/16)
 
 ## Code
 

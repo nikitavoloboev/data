@@ -436,3 +436,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [How to Film Your First YouTube Video | A Technical Guide](https://www.youtube.com/watch?v=cdaHx2AdiDE)
 - [Insta360 Link](https://www.insta360.com/product/insta360-link) - AI-powered 4K webcam. ([Review](https://twitter.com/ilyamiskov/status/1596491089149841409))
 - [The Ultimate Guide to FFmpeg](https://img.ly/blog/ultimate-guide-to-ffmpeg/) ([HN](https://news.ycombinator.com/item?id=33771445))
+- [Streaming lossless VNC to a web browser with Quite OK image format](https://kasmweb.com/docs/latest/how_to/lossless.html) ([HN](https://news.ycombinator.com/item?id=33839326))
