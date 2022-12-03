@@ -11,6 +11,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 ## Interesting fonts
 
 - [Inter](https://github.com/rsms/inter) - Typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens. ([Web](https://rsms.me/inter/)) ([The story behind Inter](https://overcast.fm/+HZUeSpUyE)) ([HN](https://news.ycombinator.com/item?id=28009042))
+- [Satoshi](https://www.fontshare.com/fonts/satoshi)
 - [Anchor](https://processtypefoundry.com/fonts/anchor/) - Informal family of round display gothics, with a serious side. ([Anchor in use: Charm](https://processtypefoundry.com/blog/2021/10/anchor-in-use-charm/))
 - [Braun](https://www.iconwerk.com/braun-font.html) - New corporate typeface. ([Tweet](https://twitter.com/iconwerk/status/1574395155032981505))
 - [Albra](https://www.myfonts.com/fonts/bum-bum-type/albra/)

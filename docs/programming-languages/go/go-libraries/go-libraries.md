@@ -2089,3 +2089,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [All about the Go errors package (2022)](https://www.youtube.com/watch?v=5DUuyWxXnC0)
 - [Go Web App Anti-Patterns](https://github.com/ThreeDotsLabs/go-web-app-antipatterns)
 - [Go-Coffee-Shop](https://github.com/thangchung/go-coffeeshop) - Practical event-driven microservices demo built with Go. Nomad, Consul Connect, Vault, and Terraform for deployment.
+- [Go Workspaces Explained in 5 Minutes](https://www.youtube.com/watch?v=RLtIeZQfrxY)
