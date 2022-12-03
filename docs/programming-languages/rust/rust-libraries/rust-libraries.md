@@ -2363,6 +2363,7 @@
 - [Arrow generated IPC format](https://github.com/DataEngineeringLabs/arrow-format) - Generated Rust of Apache Arrow spec.
 - [dose](https://github.com/noostech/dose) - Your daily dose of structs and functions.
 - [hax](https://github.com/hax-rs/hax) - Versatile and intuitive memory hacking library.
+- [ordered-stream](https://github.com/danieldg/ordered-stream) - Streams that produce elements with an associated ordering.
 
 ## Cargo Plugins
 
