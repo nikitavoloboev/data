@@ -2090,3 +2090,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go Web App Anti-Patterns](https://github.com/ThreeDotsLabs/go-web-app-antipatterns)
 - [Go-Coffee-Shop](https://github.com/thangchung/go-coffeeshop) - Practical event-driven microservices demo built with Go. Nomad, Consul Connect, Vault, and Terraform for deployment.
 - [Go Workspaces Explained in 5 Minutes](https://www.youtube.com/watch?v=RLtIeZQfrxY)
+- [Golang Standard Library Mind Map](https://nicetomap.com/golang-1.19-standard-library)
+- [typex](https://github.com/dtgorski/typex) - Examine Go types and their transitive dependencies. Export results as TypeScript value objects (or types) declaration.

@@ -437,3 +437,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Insta360 Link](https://www.insta360.com/product/insta360-link) - AI-powered 4K webcam. ([Review](https://twitter.com/ilyamiskov/status/1596491089149841409))
 - [The Ultimate Guide to FFmpeg](https://img.ly/blog/ultimate-guide-to-ffmpeg/) ([HN](https://news.ycombinator.com/item?id=33771445))
 - [Streaming lossless VNC to a web browser with Quite OK image format](https://kasmweb.com/docs/latest/how_to/lossless.html) ([HN](https://news.ycombinator.com/item?id=33839326))
+- [Video Encoding from Scratch in Go](https://github.com/kevmo314/codec-from-scratch)

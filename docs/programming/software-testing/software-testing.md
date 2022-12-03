@@ -1,5 +1,7 @@
 # Software testing
 
+[To TDD or not to TDD](https://changelog.com/gotime/258) was great episode on value of testing.
+
 ## Notes
 
 - [My advice is never to start with unit tests. Start with integration tests and work your way backwards until it stops being worth your time.](https://twitter.com/buildsghost/status/1274240189485862912)
@@ -163,3 +165,4 @@
 - [Brewing Microservices | Property-Based Testing (2022)](https://filibuster.transistor.fm/episodes/property-based-testing)
 - ["How do I test X" is almost always answered with "by controlling X" (2022)](https://berk.es/2022/09/19/test-x-by-controlling-x/)
 - [Massively increase your productivity on personal projects with comprehensive documentation and automated tests (2022)](https://simonwillison.net/2022/Nov/26/productivity/) ([Lobsters](https://lobste.rs/s/7fiajr/coping_strategies_for_serial_project))
+- [To TDD or not to TDD with Bill Kennedy & Chris James (2022)](https://changelog.com/gotime/258)

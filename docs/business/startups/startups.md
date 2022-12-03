@@ -84,6 +84,7 @@
 - [Once you’ve found product market fit, delegating almost everything to people way smarter than you should be your main goal as a startup founder.](https://twitter.com/agazdecki/status/1571987984580513793)
 - [Be bold and do many experiments.](https://twitter.com/FoundersPodcast/status/1581803172879749121)
 - [Winner-take-all effects are a lot rarer and more ephemeral than people thought. Not just gig companies either -- Facebook, Netflix, and many others didn't have invincible network effects.](https://twitter.com/Noahpinion/status/1596223249075298304)
+- [Job of a CEO is: 1. Setting company direction. 2. Hiring and retention. 3. Making sure the company doesn't run out of money.](https://twitter.com/Carnage4Life/status/1598760642294722561)
 
 ## Links
 

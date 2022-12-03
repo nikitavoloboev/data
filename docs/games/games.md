@@ -210,6 +210,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Polytopia](https://polytopia.io/)
 - [Oxygen Not Included](https://store.steampowered.com/app/457140/Oxygen_Not_Included/) - Space-colony simulation game. ([Fully Automated Drecko Ranching](https://steamcommunity.com/sharedfiles/filedetails/?id=2685094605))
 - [Odd Giants](https://oddgiants.com/)
+- [Elixir/LiveView game written entirely by ChatGPT](https://thetinycto.com/gpt-game) ([HN](https://news.ycombinator.com/item?id=33844537))
 
 ## Recommendations
 
@@ -384,3 +385,4 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Valve Introduces Proton Next (2022)](https://linuxgamingcentral.com/posts/valve-introduces-proton-next/) ([HN](https://news.ycombinator.com/item?id=33722282))
 - [Steam Prices](https://github.com/OLoKo64/steam-game-prices) - Crawler to get prices from Steam and output them to a CSV file.
 - [Behind the Pretty Frames: Death Stranding (2022)](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
+- [Steam Video Game Database](https://github.com/leinstay/steamdb) - JSON file of all games available on Steam with prices and additional data.

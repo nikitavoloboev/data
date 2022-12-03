@@ -204,3 +204,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Vencord](https://github.com/Vendicated/Vencord) - Discord Desktop Clientmod.
 - [Nice alternatives to Discord](https://twitter.com/jerodsanto/status/1580200810449096704)
 - [Discord Creator Portal](https://discord.com/creators) ([HN](https://news.ycombinator.com/item?id=33820947))
+- [Ben Awad Discord](https://discord.com/invite/Vehs99V)
