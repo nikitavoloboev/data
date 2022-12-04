@@ -20,6 +20,7 @@
 - [Move sideways, not up and down](https://www.tiktok.com/@msjessicagarner/video/7143072375746202885)
 - [Prone bone or missionary with a pillow are top positions that can hit the g spot](https://www.reddit.com/r/sexover30/comments/yudhu1/positions_to_hit_the_g_spot/)
 - [Always use condoms before both been tested for STD's and both sides are aware of the pregnancy risks and willing to take them (if that happens) or use female contraception consistently.](https://www.reddit.com/r/AskMen/comments/yw8mea/at_what_point_do_you_stop_wearing_condoms/)
+- [When you orgasm, make sure she knows it, either vocally (moans, heavy breaths, etc) or physically (ie: your whole body clenches up and you drive in as deep as you can, kinda obvious). The point is to make sure she knows how great she's making you feel.](https://www.reddit.com/r/sex/comments/zb9nz5/is_there_a_way_to_make_a_creampie_fell_better_for/)
 
 ## Links
 

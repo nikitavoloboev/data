@@ -6,8 +6,11 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 
 [Andrej Karpathy](https://github.com/karpathy) does amazing work in ML. His [interview with Lex](https://www.youtube.com/watch?v=cdiD-9MMpb0) was insightful. Transformer ML models as described in [Attention Is All You Need](https://arxiv.org/abs/1706.03762) are very useful.
 
+[Midjourney](https://www.midjourney.com/) & [ChatGPT](https://chat.openai.com/chat#) are my favorite uses of AI right now.
+
 ## Notes
 
+- [We will all soon stop emphasizing something was created using AI and we will just focus on creating.](https://twitter.com/c_valenzuelab/status/1599158969771393024)
 - [Best part of I, Robot is how it consistently presents robots doing undesirable things not as AI “gone evil” or “run amok” but implications of their programming that humans did not anticipate, which must be understood and fixed like any other engineering problem.](https://twitter.com/lexi_lambda/status/1464269135169339393)
 - [It’s not neurons, CPUs or Chinese Room inhabitants who understand, it’s the causal structure implemented by them.](https://twitter.com/Plinz/status/1536249438154330115)
 
@@ -163,3 +166,5 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 - [Powderworld](https://github.com/kvfrans/powderworld) - Lightweight simulation environment for understanding AI generalization.
 - [How should we evaluate progress in AI?](https://metarationality.com/artificial-intelligence-progress)
 - [Ask HN: Getting into AI? (2022)](https://news.ycombinator.com/item?id=33840860)
+- [Building A Virtual Machine inside ChatGPT (2022)](https://www.engraved.blog/building-a-virtual-machine-inside/) ([Tweet](https://twitter.com/317070/status/1599152176344928256)) ([HN](https://news.ycombinator.com/item?id=33847479))
+- [Linus Lee Is Living With AI (2022)](https://every.to/superorganizers/linus-lee-is-living-with-ai)

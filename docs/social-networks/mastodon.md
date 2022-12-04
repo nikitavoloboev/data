@@ -16,6 +16,7 @@ title: Mastodon
 - [crimew.gay](https://crimew.gay/about)
 - [Macaw-Social](https://macaw.social/explore) - Small server by some ex-tweeps mostly for other tweeps and friends.
 - [Hachyderm.io](https://hachyderm.io/about) - Curated network of respectful professionals in the tech industry around the globe. ([Community Resources](https://github.com/hachyderm/community))
+- [Sigmoid Social](https://sigmoid.social/explore)
 
 ## Notes
 

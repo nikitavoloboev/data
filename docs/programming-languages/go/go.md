@@ -57,6 +57,7 @@ It's useful to setup linters like [GolangCI-Lint](https://github.com/golangci/go
 - [gotip allows you to use Go from the tip. It’s much easier than building Go from source code](https://twitter.com/rakyll/status/1458915856134520874)
 - [Keep everything private until something outside the package needs to access it.](https://www.reddit.com/r/golang/comments/spt0wv/what_is_the_correct_way_to_organize_privacy_in_go/)
 - [Go 1.18 workspaces seem awesome. One file in the root for your workspaces definitions + dependency overrides (http://go.work) and then a specfile (go.mod) and lockfile (go.sum) in each package—bigger diffs, but exactly what you want for Docker, PaaS, and sparse checkout](https://twitter.com/jaredpalmer/status/1504061246630416384)
+- `go install golang.org/x/tools/cmd/godoc@latest` will install latest Go tools including Godoc.
 
 ## Code
 
@@ -910,3 +911,4 @@ if *boolArgPtr != false {
 - [musttag](https://github.com/junk1tm/musttag) - Go linter that enforces field tags in (un)marshaled structs.
 - [Ask HN: What do you like/dislike about Go? (2022)](https://news.ycombinator.com/item?id=33757306)
 - [Building CloudQuery: High Performance Data Integration Framework in Go (2022)](https://www.cloudquery.io/blog/building-cloudquery)
+- [Make Go usable in Shell on Fish or Zsh](https://gist.github.com/nikitavoloboev/87eb5721fb513b038cf12a1046d3d970)
