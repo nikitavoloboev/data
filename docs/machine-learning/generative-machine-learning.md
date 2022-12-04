@@ -195,3 +195,6 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [ChatGPT Assistant](https://github.com/pdparchitect/ChatGPT-Assistant) - Extension that enhances your browsing experience on the ChatGPT website, with features like page fetching and more.
 - [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode) - VSCode extension that allows you to use ChatGPT.
 - [Placing #1 in Advent of Code with GPT-3](https://github.com/max-sixty/aoc-gpt) ([HN](https://news.ycombinator.com/item?id=33850999))
+- [ChatGPT API](https://github.com/transitive-bullshit/chatgpt-api) - Node.js wrapper around ChatGPT. Uses headless Chrome until the official API is released.
+- [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) - Go CLI to fuels a Telegram bot that lets you interact with ChatGPT.
+- [ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.

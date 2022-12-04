@@ -148,6 +148,7 @@
 - [BYOL](https://github.com/hmusgrave/byol) - Bring Your Own Loop -- A memory-efficient, straggler-avoiding, cache-friendly scheduler.
 - [zcirc](https://github.com/hmusgrave/zcirc) - Dynamic circular buffer allocator for zig.
 - [poolalloc](https://github.com/hmusgrave/poolalloc) - Arena allocator with object re-use.
+- [zig-js](https://github.com/mitchellh/zig-js) - Access the JS host environment from Zig compiled to WebAssembly.
 
 ## Links
 

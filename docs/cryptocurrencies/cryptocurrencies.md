@@ -12,6 +12,8 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 
 [Dune Analytics](https://dune.com/) is great at analyzing public blockchain data. [Matt Levine's overview of crypto](https://www.bloomberg.com/features/2022-the-crypto-story/) is nice.
 
+I use [hardware wallets](https://www.reddit.com/r/ethereum/comments/zc6qva/for_gods_sake_buy_a_hardware_wallet_already/) whenever I have need to use cryptocurrencies.
+
 ## Interesting
 
 - [Monero](monero.md) - Secure, private, untraceable cryptocurrency.

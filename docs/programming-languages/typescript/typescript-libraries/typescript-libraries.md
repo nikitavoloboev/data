@@ -701,6 +701,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Squishy Cookies](https://github.com/omar2205/squishy_cookies) - Easily sign and verify cookies.
 - [audic](https://github.com/Richienb/audic) - Play some audio.
 - [streamparser/json](https://github.com/juanjoDiaz/streamparser-json) - Streaming JSON parser in JavaScript for Node.js and the browser.
+- [RC9](https://github.com/unjs/rc9) - Read/Write config couldn't be easier.
 
 ## Links
 

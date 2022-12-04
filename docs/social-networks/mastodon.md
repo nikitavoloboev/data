@@ -124,3 +124,4 @@ title: Mastodon
 - [Scaling Mastodon: The Compendium](https://hazelweakly.me/blog/scaling-mastodon/)
 - [Movetodon](https://www.movetodon.org/) - Find your Twitter Friends on Mastodon.
 - [I Was Wrong About Mastodon (2022)](https://escapingtech.com/tech/opinions/i-was-wrong-about-mastodon-moderation.html)
+- [Toot-Relay](https://github.com/DagAgren/toot-relay) - Relay that forwards web push notifications to APNs, built for Toot!.app but usable for anyone.

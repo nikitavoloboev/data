@@ -2364,6 +2364,7 @@
 - [dose](https://github.com/noostech/dose) - Your daily dose of structs and functions.
 - [hax](https://github.com/hax-rs/hax) - Versatile and intuitive memory hacking library.
 - [ordered-stream](https://github.com/danieldg/ordered-stream) - Streams that produce elements with an associated ordering.
+- [TunTap](https://github.com/vorner/tuntap) - TUN/TAP wrapper for Rust.
 
 ## Cargo Plugins
 

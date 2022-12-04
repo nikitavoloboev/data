@@ -13,6 +13,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Bubble-table](https://github.com/Evertras/bubble-table) - Table component for the Bubble Tea framework.
 - [teacup](https://github.com/knipferrc/teacup) - Collection of bubbles and utilities for bubbletea applications.
 - [Lip Gloss](https://github.com/charmbracelet/lipgloss) - CSS-like layout library for the terminal for Go.
+- [bubbleboxer](https://github.com/treilik/bubbleboxer) - Way to compose multiple bubbles into one layout.
 - [BubbleZone](https://github.com/lrstanley/bubblezone) - Helper utility for BubbleTea, allowing easy mouse event tracking.
 - [BubbleTint](https://github.com/lrstanley/bubbletint) - Terminal tints for everyone.
 - [catwalk](https://github.com/knz/catwalk) - Unit test library for Bubbletea TUI models.

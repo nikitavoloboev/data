@@ -89,3 +89,4 @@
 - [PytorchAutoDrive: Framework for self-driving perception](https://github.com/voldemortX/pytorch-auto-drive)
 - [LAStools](https://github.com/LAStools/LAStools) - Efficient tools for LiDAR processing.
 - [Self-Driving Cars — Andreas Geiger](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
+- [TPVFormer: Academic alternative to Tesla's Occupancy Network](https://github.com/wzzheng/TPVFormer)

@@ -72,6 +72,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 
 ## Awesome OSS games
 
+- [Doome](https://github.com/Patryk27/doome) - Doom built with Rust.
 - [Portal 2D](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games with the Godot-Engine.
 - [Overgrowth](https://github.com/WolfireGames/overgrowth) - Open Source codebase of the game Overgrowth by Wolfire Games. ([HN](https://news.ycombinator.com/item?id=31164287))
 - [ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) - Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020). ([Article](https://www.tomlooman.com/action-roguelike-cpp-ue4/)) ([HN](https://news.ycombinator.com/item?id=25800771))

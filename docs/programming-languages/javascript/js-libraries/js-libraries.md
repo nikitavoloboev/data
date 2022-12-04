@@ -1062,6 +1062,7 @@
 - [idle-task](https://github.com/hiroki0525/idle-task) - Improve your website performance by executing JavaScript during a browser's idle periods. ([HN](https://news.ycombinator.com/item?id=33730760))
 - [wildcard-match](https://github.com/axtgr/wildcard-match) - Tiny and extremely fast JavaScript library for compiling and matching basic glob patterns.
 - [ESX as Template Literal Tag](https://github.com/ungap/esx) - Template literal based ESX proposal.
+- [meta-png](https://github.com/lucach/meta-png) - JavaScript library to store and retrieve metadata in PNG files.
 
 ## Links
 
@@ -1160,3 +1161,4 @@
 - [rsx](https://github.com/norskeld/rsx) - Micro CLI for interactive execution of npm & yarn scripts.
 - [Sourcemapper](https://github.com/denandz/sourcemapper) - Extract JavaScript source trees from Sourcemap files.
 - [Speeding up the JavaScript ecosystem, one library at a time (2022)](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/) ([HN](https://news.ycombinator.com/item?id=33793570)) ([Lobsters](https://lobste.rs/s/ayszgp/speeding_up_javascript_ecosystem_one))
+- [npmhub](https://github.com/npmhub/npmhub) - Browser extension to explore npm dependencies on GitHub repos.

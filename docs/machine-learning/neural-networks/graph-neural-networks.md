@@ -139,3 +139,4 @@
 - [Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries (2022)](https://arxiv.org/abs/2206.11140) ([Code](https://github.com/beabevi/SUN))
 - [Graph machine learning with missing node features (2022)](https://blog.twitter.com/engineering/en_us/topics/insights/2022/graph-machine-learning-with-missing-node-features)
 - [PolyWorld: Polygonal Building Extraction with Graph Neural Networks in Satellite Images (2021)](https://arxiv.org/abs/2111.15491) ([Code](https://github.com/zorzi-s/PolyWorldPretrainedNetwork))
+- [Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs (2022)](https://arxiv.org/abs/2206.11990) ([Code](https://github.com/lucidrains/equiformer-pytorch))

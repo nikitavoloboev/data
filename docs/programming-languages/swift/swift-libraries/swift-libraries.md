@@ -642,6 +642,7 @@
 
 ## DB
 
+- [Blackbird](https://github.com/marcoarment/Blackbird) - Small, fast, lightweight SQLite database wrapper and model layer, based on modern Swift concurrency and Codable, with no other dependencies.
 - [Lighter](https://github.com/Lighter-swift/Lighter) - Swift APIs for SQLite: Type-safe down to the schema. Very, very, fast. Dependency free.
 - [SwiftSQL](https://github.com/kean/SwiftSQL) - Swift API for SQLite.
 - [ActiveSQLite](https://github.com/KevinZhouRafael/ActiveSQLite) - Helper of SQLite.Swift. It can let you use SQLite.swift easily.
