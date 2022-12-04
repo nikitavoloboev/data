@@ -24,6 +24,7 @@ title: Tauri
 - [Mediarepo](https://github.com/Trivernis/mediarepo) - Tool for managing media files.
 - [Upscale-rs](https://github.com/OLoKo64/upscale-rs) - Tauri based GUI app that upscale images using Real-ESRGAN model.
 - [Tauri and Leptos example](https://github.com/michalvavra/tauri-leptos-example)
+- [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop)
 
 ## Notes
 

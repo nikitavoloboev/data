@@ -5,6 +5,7 @@
 - [Aimovig & Ajovi can help remove migraines](https://twitter.com/olgaserhi/status/1453765604217790470)
 - [LASIK Eye Surgery is great](https://shubhamjain.co/2022/06/23/lasik-eye-surgery-experience/)
 - [Vermox](https://www.medicines.org.uk/emc/product/975/smpc) is effective against worms.
+- [Dutch doctors have a reputation of being a bit more reluctant to hand out heavy medicine. Which is a good thing from the “do no harm” principle and in the case if antibiotics to not lose it’s effect due to resistant bacteria. If they don’t know it’s bacterial antibiotics are useless anyway.](https://www.reddit.com/r/Netherlands/comments/zc69hk/disappointing_gp_system/)
 
 ## Links
 

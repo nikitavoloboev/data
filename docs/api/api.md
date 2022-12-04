@@ -24,7 +24,8 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [GitHub Swift](https://github.com/mdiep/Tentacle) - Swift framework for the GitHub API.
 - [GitHub Swift 2](https://github.com/serhii-londar/GithubAPI)
 - [GitHub Swift 3](https://github.com/nerdishbynature/octokit.swift) - Swift API Client for GitHub and GitHub Enterprise.
-- [GitHub Python](https://github.com/PyGithub/PyGithub)
+- [GitHub Python](https://github.com/ludeeus/aiogithubapi)
+- [GitHub Python 2](https://github.com/PyGithub/PyGithub)
 - [GitHub Julia](https://github.com/JuliaWeb/GitHub.jl)
 - [GitHub OCaml](https://github.com/tmcgilchrist/ocaml-gitlab)
 - [GitHub Haskell](https://github.com/phadej/github)

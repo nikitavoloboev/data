@@ -309,7 +309,7 @@
 
 ## Licensing
 
-- License everything (code) on GitHub under [0BSD](https://choosealicense.com/licenses/0bsd/). No need for full license file (unless its Go project). Can just include in end of readme.
+- License everything on GitHub under [0BSD](https://choosealicense.com/licenses/0bsd/).
 - Use [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) license for my other works, images/video/.. Everything in public domain. No legal need for attribution.
 
 ## macOS/iOS

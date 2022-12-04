@@ -327,3 +327,4 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [Ethical polyamory explained](https://twitter.com/Tasumori/status/1596340074870112256)
 - [What's the big deal about commitment if things are going good? (2022)](https://www.reddit.com/r/datingoverthirty/comments/z84y91/whats_the_big_deal_about_commitment_if_things_are/)
 - [What is your unpopular turn-off when dating? (2022)](https://www.reddit.com/r/datingoverthirty/comments/z8eqpw/what_is_your_unpopular_turnoff_when_dating/)
+- [Rules that are "made to be broken" in non monogamous relationships](https://www.reddit.com/r/nonmonogamy/comments/zc0iyc/rules_that_are_made_to_be_broken/)
