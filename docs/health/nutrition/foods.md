@@ -172,3 +172,4 @@ Here is a list of various pescatarian foods that I use to experiment and cook wi
 - [Nutrition Tier Lists: Nuts](https://www.youtube.com/watch?v=K8HuhaKObZs)
 - [Apple Rankings](https://applerankings.com/) ([HN](https://news.ycombinator.com/item?id=33639206))
 - [At which point is a food considered processed?](https://www.reddit.com/r/nutrition/comments/z21csd/at_which_point_is_a_food_considered_processed/)
+- [Should You Be Eating Your Greens? - Nutrition Tier Lists: Vegetables](https://www.youtube.com/watch?v=fD07raxrJVo)

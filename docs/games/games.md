@@ -84,7 +84,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine.
 - [AIDungeon2](https://github.com/AIDungeon/AIDungeon) - Infinite adventures await.
 - [VVVVVV](https://github.com/TerryCavanagh/vvvvvv)
-- [Julius](https://github.com/bvschaik/julius) - Open source re-implementation of Caesar III.
+- [Julius](https://github.com/bvschaik/julius) - Open source re-implementation of Caesar III. ([HN](https://news.ycombinator.com/item?id=33828262))
 - [Quake 2](https://github.com/id-Software/Quake-2)
 - [QuakeJS](http://www.quakejs.com/) - Quake Port to JavaScript with Emscripten. ([HN](https://news.ycombinator.com/item?id=22797060))
 - [vkQuake](https://github.com/Novum/vkQuake) - Quake 1 port using Vulkan instead of OpenGL for rendering.

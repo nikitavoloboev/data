@@ -1,6 +1,6 @@
 # File systems
 
-[Spacedrive](https://github.com/spacedriveapp/spacedrive) looks neat.
+[SeaweedFS](https://github.com/seaweedfs/seaweedfs) & [Spacedrive](https://github.com/spacedriveapp/spacedrive) look nice.
 
 ## Links
 

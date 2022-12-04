@@ -305,3 +305,4 @@ Hi<div>oh no break</div>
 - [Dialogs, modality and popovers seem similar. How are they different? (2022)](https://hidde.blog/dialog-modal-popover-differences/)
 - [What native HTML elements do you wish existed? (2022)](https://www.reddit.com/r/webdev/comments/ywahn3/what_native_html_elements_do_you_wish_existed/)
 - [HTML is all you need to make a website (2022)](https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/) ([HN](https://news.ycombinator.com/item?id=33642490))
+- [hq](https://github.com/orf/hq) - jq, but for HTML.

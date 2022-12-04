@@ -194,3 +194,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [People tricking ChatGPT “like watching an Asimov novel come to life”](https://twitter.com/carnage4life/status/1598332648723976193) ([HN](https://news.ycombinator.com/item?id=33832358))
 - [ChatGPT Assistant](https://github.com/pdparchitect/ChatGPT-Assistant) - Extension that enhances your browsing experience on the ChatGPT website, with features like page fetching and more.
 - [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode) - VSCode extension that allows you to use ChatGPT.
+- [Placing #1 in Advent of Code with GPT-3](https://github.com/max-sixty/aoc-gpt) ([HN](https://news.ycombinator.com/item?id=33850999))
