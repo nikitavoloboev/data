@@ -482,3 +482,4 @@ I do write Rust, but tried out [Zig](zig/zig.md) when I want to write embedded c
 - [Need for speed: static analysis version (2022)](https://r2c.dev/blog/2022/static-analysis-speed/)
 - [Higher-orderness is first-order interaction (2022)](https://www.tweag.io/blog/2022-12-01-higherorderness-is-interaction/)
 - [Building an interpreter for my programming language with ChatGPT (2022)](https://6502.is-a.dev/posts/aoc-2022/) ([HN](https://news.ycombinator.com/item?id=33851586))
+- [Create a programming language in ChatGPT](https://github.com/forrestchang/gptlang)

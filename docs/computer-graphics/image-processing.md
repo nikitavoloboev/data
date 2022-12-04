@@ -224,3 +224,4 @@
 - [easyraw](https://github.com/gennyble/easyraw) - User friendly raw image processing program.
 - [mergi](https://github.com/noelyahan/mergi) - Go library for image programming (merge, crop, resize, watermark, animate, ease, transit).
 - [Mort](https://github.com/aldor007/mort) - Storage and image processing server written in Go.
+- [JPEG Decoder in Rust](https://github.com/wangrunji0408/jpeg)

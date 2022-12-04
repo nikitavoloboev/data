@@ -1336,6 +1336,7 @@
 - [Swime](https://github.com/sendyhalim/Swime) - Swift MIME type checking based on magic bytes.
 - [InstantSearch](https://github.com/algolia/instantsearch-ios) - Library of widgets and helpers to build instant-search applications on iOS.
 - [KeyPathValue](https://github.com/p-x9/KeyPathValue) - Structure for assigning values using keypath.
+- [ElleKit](https://github.com/evelyneee/ellekit) - Elegant Low Level Elements.
 
 ## Other (not lib)
 
