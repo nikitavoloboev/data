@@ -585,3 +585,4 @@ all: unset
 - [CSS Analyzer](https://github.com/projectwallace/css-analyzer) - Goes through your CSS to find all kinds of relevant statistics.
 - [Color Formats in CSS (2022)](https://www.joshwcomeau.com/css/color-formats/)
 - [The large, small, and dynamic viewport units (2022)](https://web.dev/viewport-units/)
+- [CSS Infinite and Circular Rotating Image Slider (2022)](https://css-tricks.com/css-only-infinite-and-circular-image-slider/)

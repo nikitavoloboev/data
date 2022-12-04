@@ -116,3 +116,4 @@
 - [Learn Accessibility](https://web.dev/learn/accessibility/)
 - [Aria-label is a code smell](https://ericwbailey.website/published/aria-label-is-a-code-smell/) ([HN](https://news.ycombinator.com/item?id=33409501))
 - [A Guide To Keyboard Accessibility: HTML And CSS (2022)](https://www.smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/)
+- [Setting up a screen reader testing environment on your computer (2022)](https://www.sarasoueidan.com/blog/testing-environment-setup/)

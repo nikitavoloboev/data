@@ -698,6 +698,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [ZSocket](https://github.com/newtools/zsocket) - Zero-copy sockets for Linux in Go.
 - [Gonso](https://github.com/cpuguy83/gonso) - Library to do safe Linux namespace manipulation in Go.
 - [go-perf](https://github.com/aclements/go-perf) - Go packages and tools for Linux perf.
+- [debpkg](https://github.com/xor-gate/debpkg) - Go library to create Debian Linux packages.
 
 ## Apple
 

@@ -151,3 +151,4 @@ Few things that inspire new ideas are [travelling](../travel/travel.md) to new p
 - [Ask HN: Alternative ways to make money with coding and system skills? (2022)](https://news.ycombinator.com/item?id=33619650)
 - [Ask HN: What is the most impactful thing you've built? (2022)](https://news.ycombinator.com/item?id=33659852)
 - [Ask HN: What are 100K dollar ideas but not million dollar ideas? (2022)](https://news.ycombinator.com/item?id=33729424)
+- [How to draw ideas](https://ralphammer.com/how-to-draw-ideas/)

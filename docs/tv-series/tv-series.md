@@ -64,3 +64,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [TV shows similar to (Black Mirror), (Love, Death, and Robots) or, (Mr. Robot)? (2022)](https://www.reddit.com/r/televisionsuggestions/comments/ysdg61/what_tv_shows_are_similar_to_black_mirror_love/)
 - [Traktarr](https://github.com/l3uddz/traktarr) - Uses Trakt.tv to find shows and movies to add in to Sonarr and Radarr, respectively.
 - [What TV show never had a decline in quality?](https://www.reddit.com/r/AskReddit/comments/z5neg5/what_tv_show_never_had_a_decline_in_quality/)
+- [Best TV Shows 2022](https://www.nytimes.com/2022/12/01/arts/television/best-tv-shows.html)
