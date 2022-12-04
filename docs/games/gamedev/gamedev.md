@@ -302,3 +302,4 @@
 - [Code Poetry: Easing Tutorial & Optimizations](https://github.com/Michaelangel007/easing)
 - [Lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS.
 - [Isometric Pixel Art (2022)](https://www.slynyrd.com/blog/2022/11/28/pixelblog-41-isometric-pixel-art) ([HN](https://news.ycombinator.com/item?id=33814573))
+- [Game Engine Black Book: Doom](https://fabiensanglard.net/b/gebbdoom.pdf) ([HN](https://news.ycombinator.com/item?id=33829832))
