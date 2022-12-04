@@ -61,3 +61,4 @@
 - [OpenVAF](https://github.com/pascalkuthe/OpenVAF) - Verilog-A compiler that can compile Verilog-A files for use in circuit simulator.
 - [bsg_manycore](https://github.com/bespoke-silicon-group/bsg_manycore) - Tile based architecture designed for computing efficiency, scalability and generality.
 - [Verilog-Perl](https://github.com/veripool/verilog-perl) - Verilog parser, preprocessor, and related tools.
+- [TinyTapeout](https://github.com/TinyTapeout/tinytapeout-02) - Educational project that makes it easier and cheaper than ever to get your digital designs manufactured on a real chip.

@@ -1017,3 +1017,4 @@
 - [Vision Transformers (ViT) Explained (2022)](https://www.pinecone.io/learn/vision-transformers/) ([HN](https://news.ycombinator.com/item?id=33786773))
 - [Embedding Methods for Image Search | Pinecone](https://www.pinecone.io/learn/image-search/)
 - [Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion (2022)](https://arxiv.org/abs/2211.11674) ([Code](https://github.com/google-research/nerf-from-image))
+- [Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild (2022)](https://arxiv.org/abs/2207.10660) ([Code](https://github.com/facebookresearch/omni3d))

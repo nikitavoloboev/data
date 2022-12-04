@@ -22,6 +22,7 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Pastebin Worker](https://github.com/SharzyL/pastebin-worker) - Pastebin based on Cloudflare worker, with friendly CLI usage and rich features. ([Web](https://shz.al/))
 - [Loction Worker](https://github.com/umgefahren/worker-location) - Small cloudflare worker build in Rust to extract the location of the requesting user.
 - [Spotify Currently Playing Cloudflare Worker](https://github.com/djedlajn/spotify-worker)
+- [OCI Registry on Cloudflare Workers](https://github.com/chainguard-dev/crow-registry)
 
 ## Notes
 

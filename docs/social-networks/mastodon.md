@@ -125,3 +125,4 @@ title: Mastodon
 - [Movetodon](https://www.movetodon.org/) - Find your Twitter Friends on Mastodon.
 - [I Was Wrong About Mastodon (2022)](https://escapingtech.com/tech/opinions/i-was-wrong-about-mastodon-moderation.html)
 - [Toot-Relay](https://github.com/DagAgren/toot-relay) - Relay that forwards web push notifications to APNs, built for Toot!.app but usable for anyone.
+- [Mastodon Digest](https://github.com/hodgesmr/mastodon_digest) - Python script that aggregates recent popular tweets from your Mastodon timeline.
