@@ -157,3 +157,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [First look at Solid Start](https://dev.to/ajcwebdev/a-first-look-at-solidstart-2hm7)
 - [Simplifying reactivity with solidJS - Dan Jutan (2022)](https://www.youtube.com/watch?v=qB5jK-KeXOs)
 - [Kobalte](https://github.com/fabien-ml/kobalte) - UI toolkit for building accessible web apps and design systems with SolidJS.
+- [Modular Forms](https://github.com/fabian-hiller/modular-forms) - Modular form library for SolidJS.

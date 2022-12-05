@@ -37,6 +37,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 - [Hop](https://github.com/phaazon/hop.nvim) - Neovim motions on speed.
 - [LunarVim](https://github.com/LunarVim/LunarVim) - Opinionated, extensible, and fast IDE layer for Neovim. ([Docs](https://www.lunarvim.org/))
+- [RubberDuck GPT3](https://github.com/gakonst/rubberduck-gpt3.vim) - Simulate rubber duck programming by using the chatGPT API to generate code suggestions and natural language explanations.
 - [kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
 - [legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - Legend for your keymaps and commands, with which-key.nvim integration.
 - [Indent Blankline](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides for Neovim.
