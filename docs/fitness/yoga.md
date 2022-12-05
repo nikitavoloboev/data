@@ -15,3 +15,4 @@
 - [Down Dog](https://www.downdogapp.com/) - Great Yoga Anywhere.
 - [What is something you wish your yoga studio had?](https://www.reddit.com/r/yoga/comments/vvyita/what_is_something_you_wish_your_yoga_studio_had/)
 - [Starting with yoga](https://twitter.com/ankurnagpal/status/1574065133579816960)
+- [Nice Yoga apps](https://www.reddit.com/r/yoga/comments/zbryqx/yoga_app/)

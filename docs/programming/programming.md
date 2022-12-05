@@ -624,3 +624,4 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [Kodeco](https://www.kodeco.com/) - High quality programming tutorials.
 - [Where Did My Variable Go? Poking Holes in Incomplete Debug Information (2022)](https://arxiv.org/abs/2211.09568)
 - [Cache invalidation really is one of the hardest problems in computer science (2022)](https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/) ([HN](https://news.ycombinator.com/item?id=33749677)) ([Reddit](https://www.reddit.com/r/compsci/comments/z5xx0f/cache_invalidation_really_is_one_of_the_hardest/))
+- [Ask HN: Reading material on how to be a better software engineer? (2022)](https://news.ycombinator.com/item?id=33854815)

@@ -711,3 +711,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [All the best examples of ChatGPT, from OpenAI](https://twitter.com/bentossell/status/1598269692082151424)
 - [ChatGPT nice examples](https://twitter.com/sytelus/status/1598523136177508356)
 - [WhatsApp-GPT](https://github.com/danielgross/whatsapp-gpt)
+- [What ChatGPT features/improvements do you want?](https://twitter.com/sama/status/1599457816494092289)

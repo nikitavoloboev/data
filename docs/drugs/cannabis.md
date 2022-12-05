@@ -14,6 +14,7 @@ Mostly now I don't get much psychedelic effect (things moving) but do get enjoya
 
 ## Favorite strains
 
+- [Watermelon](https://www.tatanka.nl/product/watermelon/)
 - [Heavens Choco Haze HGB](https://www.zamnesia.com/3315-zamnesia-seeds-choco-haze-feminized.html)
 
 ## Notes
@@ -39,6 +40,7 @@ Mostly now I don't get much psychedelic effect (things moving) but do get enjoya
 - [The Evolution of THC Vape Cartridges (2022)](https://gentlemantoker.com/blogs/liquid-gold-evolution-thc-vape-cartridges) ([HN](https://news.ycombinator.com/item?id=31840587))
 - [Prenatal cannabis exposure associated with mental disorders in children (2022)](https://www.nih.gov/news-events/news-releases/prenatal-cannabis-exposure-associated-mental-disorders-children-persist-into-early-adolescence) ([HN](https://news.ycombinator.com/item?id=32817466))
 - [The Effects of Cannabis (Marijuana) on the Brain & Body - Huberman (2022)](https://hubermanlab.com/the-effects-of-cannabis-marijuana-on-the-brain-and-body/)
+- [Tatanka](https://www.tatanka.nl/) - NL smart shop selling cannabis/mushroom seeds/spores.
 
 ## Images
 

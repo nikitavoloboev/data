@@ -13,6 +13,7 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 - [We will all soon stop emphasizing something was created using AI and we will just focus on creating.](https://twitter.com/c_valenzuelab/status/1599158969771393024)
 - [Best part of I, Robot is how it consistently presents robots doing undesirable things not as AI “gone evil” or “run amok” but implications of their programming that humans did not anticipate, which must be understood and fixed like any other engineering problem.](https://twitter.com/lexi_lambda/status/1464269135169339393)
 - [It’s not neurons, CPUs or Chinese Room inhabitants who understand, it’s the causal structure implemented by them.](https://twitter.com/Plinz/status/1536249438154330115)
+- [LLMs won’t replace junior coders by doing 100% of their jobs, it’ll replace them by making top-1% coders 50x more productive. You’re not “safe” because you can do things no LLM can. Your competition isn’t the machine gun of bullshit, it’s the person holding it.](https://twitter.com/goodside/status/1599464340679114753)
 
 ## Links
 
@@ -168,3 +169,4 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 - [Ask HN: Getting into AI? (2022)](https://news.ycombinator.com/item?id=33840860)
 - [Building A Virtual Machine inside ChatGPT (2022)](https://www.engraved.blog/building-a-virtual-machine-inside/) ([Tweet](https://twitter.com/317070/status/1599152176344928256)) ([HN](https://news.ycombinator.com/item?id=33847479))
 - [Linus Lee Is Living With AI (2022)](https://every.to/superorganizers/linus-lee-is-living-with-ai)
+- [Ask HN: What field in computer science will be AI proof (2022)](https://news.ycombinator.com/item?id=33854393)

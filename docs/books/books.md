@@ -347,6 +347,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Short book recommendations (2022)](https://www.reddit.com/r/suggestmeabook/comments/z41xt7/i_need_some_short_book_recommendations/)
 - [Nice audio book recommendations (2022)](https://www.reddit.com/r/suggestmeabook/comments/za3pmq/ive_listened_to_423_hours_of_audiobooks_since_the/)
 - [Ask HN: Best books read in 2022?](https://news.ycombinator.com/item?id=33849267)
+- [Book that, when you learn someone else has read it, creates instant solidarity between you two?](https://twitter.com/tasshinfogleman/status/1599432230169821184)
 
 ## Interesting Prose Books
 

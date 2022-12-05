@@ -337,3 +337,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [MadMiner: Machine learning-based inference for particle physics (2020)](https://arxiv.org/abs/1907.10621) ([Code](https://github.com/madminer-tool/madminer))
 - [Is there a good book for learning intro to electricity and magnetism? (2022)](https://www.reddit.com/r/Physics/comments/z361db/is_there_a_good_book_for_learning_intro_to/)
 - [Packmol](https://github.com/m3g/packmol) - Creates Initial Configurations for Molecular Dynamics Simulations.
+- [Mysteries of Fundamental Physics (2022)](https://www.youtube.com/watch?v=pyP59YPtiIo)

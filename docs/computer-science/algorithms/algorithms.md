@@ -124,6 +124,7 @@
 - [Algorithmic Resources](https://github.com/hkirat/Algorithmic-Resources) - Curated list of Topic wise Theory and Questions to Get You Started On Competitive Coding.
 - [Collection of array rotation algorithms](https://github.com/scandum/rotate)
 - [ICPC Archives](https://icpcarchive.github.io/) - Collection of problems and solutions of final and regional ICPC contests.
+- [The Wavefunction Collapse Algorithm explained very clearly (2018)](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 
 ## Images
 
