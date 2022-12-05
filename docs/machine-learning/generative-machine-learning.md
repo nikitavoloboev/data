@@ -13,6 +13,7 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [The net effect of the last 18 mo has been to slightly lubricate human imagination, making it easier for individuals to visualize possible worlds/scenes/moods. It’s only a medium-big deal—unless this is a foretaste of similar acceleration in music, code, and text.](https://twitter.com/Ted_Underwood/status/1566787680872157185)
 - [Greatest impact of "generative ML" will not be on art/creation, but by bringing technology leverage to billions of hours of boring data entry/manipulation jobs.](https://twitter.com/WillManidis/status/1584900092615528448)
 - [Diffusion is just an easy-to-optimize way to give neural networks adaptive computation time. Makes sense then that diffusion models beat GANs, which only get one forward pass to generate an image. Have to wonder what other ways there are to integrate for loops into NNs.](https://twitter.com/jxmnop/status/1586000934248792065)
+- [The fact that LLMs seem to give you more accurate results if you prompt them with "think step by step" is absolutely fascinating. An analogy might be intuitive vs logical thinking.](https://twitter.com/maccaw/status/1599507362142121984)
 
 ## Links
 
@@ -201,3 +202,11 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [ChatGPT for Google](https://github.com/wong2/chat-gpt-google-extension) - Chrome extension to show ChatGPT response in Google search results. ([HN](https://news.ycombinator.com/item?id=33853773))
 - [A new AI game: Give me ideas for crimes to do (2022)](https://simonwillison.net/2022/Dec/4/give-me-ideas-for-crimes-to-do/)
 - [Ask HN: How would you build a ChatGPT detector? (2022)](https://news.ycombinator.com/item?id=33857356)
+- [GPT Index](https://github.com/jerryjliu/gpt_index) - Index created by GPT to organize external information and answer queries.
+- [ChatGPT export to PNG / PDF / HTML](https://github.com/liady/ChatGPT-pdf) - Chrome extension for downloading your ChatGPT history to PNG, PDF or creating a sharable link.
+- [Stable Diffusion v 2.0 web UI](https://github.com/qunash/stable-diffusion-2-gui)
+- [GPT-3 Prompter](https://github.com/qunash/gpt-3_chrome_extension) - Use OpenAI's GPT-3 API prompter on any website.
+- [iOS app that generates images using Stable Diffusion v2](https://github.com/ynagatomo/ImgGenSD2)
+- [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a) ([HN](https://news.ycombinator.com/item?id=33858844))
+- [ChatGPT can reply like a specific Reddit or HN user, including you](https://news.ycombinator.com/item?id=33860562)
+- [Using ChatGPT as a Co-Founder (2022)](https://www.atomic14.com/2022/12/05/using-chatgpt-as-a-co-founder.html) ([HN](https://news.ycombinator.com/item?id=33863563))

@@ -2365,6 +2365,8 @@
 - [hax](https://github.com/hax-rs/hax) - Versatile and intuitive memory hacking library.
 - [ordered-stream](https://github.com/danieldg/ordered-stream) - Streams that produce elements with an associated ordering.
 - [TunTap](https://github.com/vorner/tuntap) - TUN/TAP wrapper for Rust.
+- [Rust-ConfigParser](https://github.com/Basicprogrammer10/Rust-ConfigParser) - Simple config parsing lib for rust.
+- [metastruct](https://github.com/sigp/metastruct) - Abstractions for iterating and mapping over struct fields.
 
 ## Cargo Plugins
 

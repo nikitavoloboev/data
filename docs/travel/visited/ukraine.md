@@ -179,3 +179,4 @@ On bright side, it does appear that Russia [fully lost out on its objectives in 
 - [Kyiv was the most magical city in Europe … and then the Russians bombed it (2022)](https://www.dailymaverick.co.za/article/2022-10-30-kyiv-was-the-most-magical-city-in-europe-and-then-the-russians-bombed-it/)
 - [Reporting from Ukraine - YouTube](https://www.youtube.com/c/ReportingfromUkraine/videos)
 - [The Russia Contingency with Michael Kofman Archives (2022)](https://warontherocks.com/episode/therussiacontingency/)
+- [Ukraine Taxes CLI](https://github.com/mxmCherry/taxes) - Quarterly tax calculator for simplified Ukrainian taxation system.

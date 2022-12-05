@@ -29,3 +29,4 @@ Don't use it any more as I don't write Java/Kotlin and love VS Code.
 - [JetBrains Space](https://www.jetbrains.com/space/) - Complete Software Development Platform. ([HN](https://news.ycombinator.com/item?id=32700615)) ([Video](https://www.youtube.com/watch?v=utW0-mMYUL4))
 - [Minimalistic IntelliJ setup for Full Stack Web Development (2022)](https://www.youtube.com/watch?v=mPRLCgvbvMk)
 - [Fleet is on its way by Vitaly Bragilevsky (2022)](https://www.youtube.com/watch?v=_ZjuZ15LiYY)
+- [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)

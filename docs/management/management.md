@@ -232,3 +232,4 @@ Top things that I think are [must have for productive working environment](https
 - [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview) ([Tweet](https://twitter.com/lennysan/status/1591470516178948096))
 - [Managing tech debt in teams](https://twitter.com/clairevo/status/1592561009671409664)
 - [Scrum Report](https://github.com/obalunenko/scrum-report) - Daily stand up meeting scrum report generator in markdown format for slack.
+- [Engineering Management Resources](https://github.com/charlax/engineering-management)

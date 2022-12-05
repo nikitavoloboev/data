@@ -136,6 +136,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Vinegar](https://github.com/tpope/vim-vinegar) - Enhances netrw.
 - [Dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces.
 - [command_center.nvim](https://github.com/FeiyouG/command_center.nvim) - Create and manage keybindings and commands in a more organized manner, and search them quickly through Telescope.
+- [chatgpt.vim](https://github.com/terror/chatgpt.nvim) - Query ChatGPT in Neovim.
 - [Dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer.
 - [Startup Time](https://github.com/tweekmonster/startuptime.vim) - Profile startup time.
 - [Sneak](https://github.com/justinmk/vim-sneak) - Jump to any location specified by two characters.

@@ -142,3 +142,4 @@
 - [Why Biology BREAKS Physics (2022)](https://www.subanima.org/biology-breaks-physics/)
 - [How A Single Metaphor Transformed Biology (2022)](https://www.subanima.org/machine-metaphor/)
 - [Why is progress in biology so slow? (2022)](https://www.sam-rodriques.com/post/why-is-progress-in-biology-so-slow) ([Tweet](https://twitter.com/SGRodriques/status/1599401423439269890))
+- [Biology for computer scientists and AI engineers](https://github.com/AstraZeneca/biology-for-ai)

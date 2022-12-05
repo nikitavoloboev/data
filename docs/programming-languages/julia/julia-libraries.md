@@ -776,6 +776,7 @@
 - [StructHelpers](https://github.com/jw3126/StructHelpers.jl) - Automate common struct definition boilerplate.
 - [AdvancedHMC.jl](https://github.com/TuringLang/AdvancedHMC.jl) - Robust, modular and efficient implementation of advanced Hamiltonian Monte Carlo algorithms.
 - [PlotlyLight](https://github.com/JuliaComputing/PlotlyLight.jl) - Plotly.js via Julia made easy.
+- [Tally](https://github.com/thofma/Tally.jl)
 
 ## Links
 

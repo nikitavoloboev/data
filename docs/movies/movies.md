@@ -6,6 +6,8 @@ I have a [Watchlist of movies I want to watch](https://letterboxd.com/nikitavolo
 
 And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [films](https://letterboxd.com/nikitavoloboev/likes/films/) and [reviews](https://letterboxd.com/nikitavoloboev/likes/reviews/) I liked.
 
+I try to review/rank a movie/series/game first thing after consuming the content without seeing what others scored it on as that makes my score not truly honest. I try to rank things based firstly on my enjoyment of the content and only after, the actual quality of the acting/cinematography and the rest.
+
 ## Notes
 
 - [Some film critics to follow](https://www.reddit.com/r/flicks/comments/7lgwp1/having_a_hard_time_finding_quality_critics_on/)

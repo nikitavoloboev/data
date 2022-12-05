@@ -137,3 +137,4 @@ title: Raspberry Pi
 - [Creating a pick and place control board with the RP2040 (2022)](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040/) ([HN](https://news.ycombinator.com/item?id=33483141))
 - [Continuity](https://github.com/Continuity-KVM/continuity) - Experimental hybrid (software & hardware) KVM, written in Rust.
 - [picolua](https://github.com/kevinboone/luapico) - Programming environment for Lua for the Raspberry Pi Pico microcontroller.
+- [The Great Pi Zero Showdown (2022)](https://bret.dk/pi-zero-showdown/) ([HN](https://news.ycombinator.com/item?id=33862810))

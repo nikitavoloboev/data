@@ -288,6 +288,7 @@
 - [Lurker](https://github.com/Sam-Spencer/Lurker) - Abstraction over the iOS BackgroundTask API to make background tasks easy to isolate, maintain and schedule.
 - [SDCALayer](https://github.com/p-x9/SDCALayer) - Server-Driven CALayer.
 - [AppContainer](https://github.com/p-x9/AppContainer) - Create and manage multiple environments with a single application, just as if you were swapping containers.
+- [ShimmerView](https://github.com/mercari/ShimmerView) - Collection of APIs to construct Skelton View + Shimmering Effect type loading indicator on UIKit and SwiftUI.
 
 ## macOS
 

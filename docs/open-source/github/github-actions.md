@@ -288,6 +288,7 @@ title: GitHub actions
 - [coverage-badge-go](https://github.com/tj-actions/coverage-badge-go) - Generate coverage badge for go modules.
 - [actions-goveralls](https://github.com/shogo82148/actions-goveralls) - Coveralls GitHub Action with Go integration powered by mattn/goveralls.
 - [ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - GitHub Action for xgo, Go CGO cross compiler.
+- [Setup TinyGo](https://github.com/acifani/setup-tinygo) - Sets up a TinyGo environment for GitHub Actions.
 
 ## Rust
 
@@ -618,3 +619,4 @@ title: GitHub actions
 - [An easier way to install tools for GitHub Actions (2022)](https://blog.alexellis.io/easy-install-tools-github-actions/)
 - [Docker Manifest Create Action](https://github.com/int128/docker-manifest-create-action) - Create a multi-architecture Docker image in GitHub Actions.
 - [GitHub Actions Dhall](https://github.com/regadas/github-actions-dhall) - Typecheck, template and modularize your Github Action definitions with Dhall.
+- [Information and tips regarding GitHub Actions](https://github.com/TomasHubelbauer/github-actions)

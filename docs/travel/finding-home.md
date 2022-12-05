@@ -85,4 +85,4 @@ One day it would be nice to own a house with a lot of windows for light like [th
 - [I Need to Find an Apartment (2022)](https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html) ([HN](https://news.ycombinator.com/item?id=30968721))
 - [Buying a House thread (2021)](https://elijahcaine.me/buying-a-house-01-lets-go-shopping/)
 - [Samara](https://www.samara.com/) - Building tiny backyard homes. ([Tweet](https://twitter.com/jgebbia/status/1592609795584163840))
-- [Lessons learned after living in an InForest off-grid rental (2022)](https://www.theverge.com/23487709/inforest-off-grid-solar-cabin-review)
+- [Lessons learned after living in an InForest off-grid rental (2022)](https://www.theverge.com/23487709/inforest-off-grid-solar-cabin-review) ([HN](https://news.ycombinator.com/item?id=33848148))

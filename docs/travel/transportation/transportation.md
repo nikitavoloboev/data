@@ -67,3 +67,4 @@ I wish there were more electric superchargers in EU. Tesla cars seem nice too. C
 - [Porsche Taycan Production in Germany (2022)](https://www.youtube.com/watch?v=rR9It4tYcH8)
 - [Вастрик.Бус :: Год второй. Внешка и оффроуд (2022)](https://vas3k.ru/blog/bus_2022/)
 - [Map with all the electric vehicle chargers](https://map.electromaps.com/en/)
+- [Tesla Semi, a Deep Dive](https://www.evuniverse.io/newsletter/semi) ([HN](https://news.ycombinator.com/item?id=33861574))

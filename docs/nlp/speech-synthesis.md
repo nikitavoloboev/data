@@ -96,3 +96,4 @@
 - [Neural Speech Synthesis Tutorial (2022)](https://github.com/tts-tutorial/interspeech2022)
 - [PhaseAug: Differentiable Augmentation for Speech Synthesis to Simulate One-to-Many Mapping (2022)](https://github.com/mindslab-ai/phaseaug)
 - [VIC-20 text-to-speech synthesizer using the iconic voice of SAM (2021)](https://www.youtube.com/watch?v=_YioAfmzkQc) ([Article](https://janderogee.com/projects/SerialSpeechSynthesisSAM/SerialSpeechSynthesisSAM.htm))
+- [PyTorch implementation of the Perceptual Evaluation of Speech Quality](https://github.com/audiolabs/torch-pesq)

@@ -48,6 +48,7 @@
 - [Scalding](https://github.com/twitter/scalding) - Scala library that makes it easy to specify Hadoop MapReduce jobs.
 - [ProtoQuill](https://github.com/zio/zio-protoquill) - Compile-time Language Integrated Queries for Scala.
 - [SPL-to-PySpark transpiler](https://github.com/databrickslabs/transpiler)
+- [ZIO-Schema](https://github.com/zio/zio-schema) - Compositional, type-safe schema definitions, which enable auto-derivation of codecs and migrations.
 
 ## Math
 

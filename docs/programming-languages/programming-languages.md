@@ -12,6 +12,8 @@ I do write Rust, but tried out [Zig](zig/zig.md) when I want to write embedded c
 
 [Effects bibliography](https://github.com/yallop/effects-bibliography) is a nice read.
 
+[Lady Deirdre](https://github.com/Eliah-Lakhin/lady-deirdre) is interesting for making IDE for your language.
+
 ## Notes
 
 - [I have a very concrete approach for creating categorical models/semantics for PLs. I express the syntax as a GADT, wrap it with a free(r) monad, then work with the resulting kleisli category.](https://twitter.com/tangled_zans/status/1441434927149420547)
@@ -483,3 +485,4 @@ I do write Rust, but tried out [Zig](zig/zig.md) when I want to write embedded c
 - [Higher-orderness is first-order interaction (2022)](https://www.tweag.io/blog/2022-12-01-higherorderness-is-interaction/)
 - [Building an interpreter for my programming language with ChatGPT (2022)](https://6502.is-a.dev/posts/aoc-2022/) ([HN](https://news.ycombinator.com/item?id=33851586))
 - [Create a programming language in ChatGPT](https://github.com/forrestchang/gptlang)
+- [DreamBerd](https://github.com/TodePond/DreamBerd) - Perfect programming language.

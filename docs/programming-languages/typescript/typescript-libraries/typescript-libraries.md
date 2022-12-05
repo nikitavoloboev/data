@@ -702,6 +702,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [audic](https://github.com/Richienb/audic) - Play some audio.
 - [streamparser/json](https://github.com/juanjoDiaz/streamparser-json) - Streaming JSON parser in JavaScript for Node.js and the browser.
 - [RC9](https://github.com/unjs/rc9) - Read/Write config couldn't be easier.
+- [Machi](https://github.com/josephluck/machi) - Data-driven state machines.
+- [HTML5-QRCode](https://github.com/mebjas/html5-qrcode) - Cross platform HTML5 QR code reader.
 
 ## Links
 

@@ -116,3 +116,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [FreeBSD optimizations used by Netflix to serve video at 800Gb/s from a single server (2022)](https://people.freebsd.org/~gallatin/talks/euro2022.pdf) ([Lobsters](https://lobste.rs/s/eeg8zk/freebsd_optimizations_used_by_netflix))
 - [OpenBSD for Linux Users](https://www.openbsdhandbook.com/openbsd_for_linux_users/) ([HN](https://news.ycombinator.com/item?id=33731772))
 - [FreeBSD Presentations and Papers](https://papers.freebsd.org/) ([Code](https://github.com/freebsd/freebsd-papers))
+- [FreeBSD on the Raspberry Pi](https://cromwell-intl.com/open-source/samba-active-directory/freebsd-raspberry-pi.html) ([HN](https://news.ycombinator.com/item?id=33863269))

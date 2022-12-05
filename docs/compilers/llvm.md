@@ -144,3 +144,4 @@ title: LLVM
 - [MDL: A Micro-Architecture Description Language for LLVM (2022)](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409)
 - [LLVM based Practical compiler](https://github.com/Practical/practicomp)
 - [LLVM’s New Pass Manager (2022)](https://blog.llvm.org/posts/2021-03-26-the-new-pass-manager/)
+- [llparse](https://github.com/nodejs/llparse) - Generating parsers in LLVM IR.
