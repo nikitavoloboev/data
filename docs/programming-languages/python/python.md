@@ -560,3 +560,4 @@ for i, _ in enumerate(nums):
 - [Python Type Hints: case study on parsy (2022)](https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/)
 - [The Origins of Python (2022)](https://inference-review.com/article/the-origins-of-python) ([HN](https://news.ycombinator.com/item?id=33750819))
 - [Data-oriented Programming in Python (2022)](https://www.moderndescartes.com/essays/data_oriented_python/)
+- [What would you add to Python 4.0 (2022)](https://www.reddit.com/r/Python/comments/zcr6o0/if_theres_gonna_be_a_python_40_one_day_whats_a/)

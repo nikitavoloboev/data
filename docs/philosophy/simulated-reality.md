@@ -24,3 +24,4 @@ In any way, these are just hypothesis and are quite hard to test and see if they
 - [Harry Mack Freestyles About "Simulation Theory"](https://www.youtube.com/watch?v=mWqaoIW11yk)
 - [Simulation Save State (2021)](https://jeremykhawaja.com/post/simulation-save-state/)
 - [Simulation / Creation (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/ogfksv/simulation_creation/)
+- [ChatGPT explaining why simulation hypothesis is untrue](https://twitter.com/pmarca/status/1599676060903538690)

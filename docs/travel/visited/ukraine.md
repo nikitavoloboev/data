@@ -1,12 +1,16 @@
 # Ukraine
 
-It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders [miscalculated decisions](https://overcast.fm/+bbjkhwBVQ) to [perhaps](https://www.reddit.com/r/CredibleDefense/comments/xxx9a3/comment/irfouqw/?utm_source=reddit&utm_medium=web2x&context=3) try and maintain a [stronghold on oil/gas exports](https://www.youtube.com/watch?v=Eo6w5R6Uo8Y) in EU. Instead of [wasting lives](https://twitter.com/MaximEristavi/status/1513576913431941135) on [waging war](https://www.youtube.com/watch?v=DBah5HNknLM) on both its neighbors and its own citizens, it would be great if everyone focused on improving the well being of the population.
+It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/).
 
-[CredibleDefense](https://www.reddit.com/r/CredibleDefense/) has nice daily discussion threads on status of the war. And [here](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/?context=3) is a nice comment with more resources. I collect many links I found of interest in [Links section](#links) too.
+Instead of [wasting lives](https://ukraine.bellingcat.com/) & [destroying cities](https://twitter.com/MaximEristavi/status/1513576913431941135) of its neighbors and oppressing it's own citizens, I hope one day a sane government comes where such a disastrous decision will be impossible to enact.
 
-I hope Russia stops [unlawfully occupying and harassing Ukraine](https://twitter.com/mdmitri91/status/1534316819481300997) and pays for the damage it inflicted on the country. Ukraine should be fully integrated into Europe and be rebuilt. I wish more people in politics had the charisma and effectiveness to lead as Zelensky.
+[CredibleDefense](https://www.reddit.com/r/CredibleDefense/) has nice daily discussion threads on status of the war.
 
-On bright side, it does appear that Russia [fully lost out on its objectives in this war](https://www.reddit.com/r/CredibleDefense/comments/vpq9ab/credibledefense_daily_megathread_july_02_2022/iem8scz/?utm_source=reddit&utm_medium=web2x&context=3) which hopefully deters further offensive actions against other peaceful countries like Taiwan. It's still bizarre to me how ineffective dictatorships are still so common. I am trying my best to try and give everyone the tools to get the financial ability to leave these oppressive countries and contribute their skills meaningfully in places that actually respect them as human beings with rights. For all its warts, [EU](europe.md) to me appears to be this place.
+It's hard to stay truly informed on what's going on due unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/).
+
+I hope the war ends soon and Russia gives back the territories it unlawfully gained through war (Donetsk/Luhansk/..) or non vetted referendum (Crimea). And pays for the damages it inflicted to the people of Ukraine. Otherwise the war is most likely to [repeat again in future](https://twitter.com/mdmitri91/status/1534316819481300997).
+
+One silver lining in all this is that due to Russia fully [losing out on its objectives of the war](https://www.reddit.com/r/CredibleDefense/comments/vpq9ab/credibledefense_daily_megathread_july_02_2022/iem8scz/). It might stop wars of this nature from happening again in future. Such as [China](china.md)'s threats of taking Taiwan against the will of Taiwanese people.
 
 ## Notes
 
