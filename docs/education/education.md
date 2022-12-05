@@ -1,10 +1,12 @@
 # Education
 
-Due to [my unpleasant time in university](university.md), I am building [Learn Anything](../ideas/learn-anything.md) to improve learning and using knowledge gained to build great things. One big thing I took away from my time with official education is it's never worth stressing over it.
+I think [universities](university.md) are terribly inefficient & overpriced. I am building [Learn Anything](../ideas/learn-anything.md) to fully streamline gaining new knowledge and using it to build exciting [ideas](../ideas/ideas.md).
 
-There is [more and more homeschoolers](https://twitter.com/fatherhoodninja/status/1507112802879737864) for good reason. There should be more tools built for them. Tools like [Primer](https://primer.com/), [Khan Academy](https://www.khanacademy.org/), [Learney](https://www.learney.me) & [Synthesis](https://www.synthesis.is/).
+University in my experience was way too stressful experience. Even now simply [asking questions to ChatGPT](https://twitter.com/pwang/status/1599520310466080771) with [Khan Academy](https://www.khanacademy.org) can cover majority of the school program. 
 
-What's wild to me is just how few people can write code. Some say it's [~ 30M](https://twitter.com/Ruchin_Kulkarni/status/1522063234378780672). Trying my best to push this number up. Being able to code is not only for the job of becoming a programmer, it's a skill that you can apply in the world of atoms too. Lots of things to be automated still.
+There is [more and more homeschoolers](https://twitter.com/fatherhoodninja/status/1507112802879737864) and for good reason. There should be more tools built for them. Tools like [Primer](https://primer.com/), [Learney](https://www.learney.me) & [Synthesis](https://www.synthesis.is/).
+
+What's wild to me is just how [few people can write code](https://twitter.com/Ruchin_Kulkarni/status/1522063234378780672) still. I hope this number grows as it's incredibly empowering being able to automate parts of your life to focus on more fun and exciting things in life. 
 
 ## Notes
 

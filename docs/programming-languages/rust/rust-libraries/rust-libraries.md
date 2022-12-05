@@ -2367,6 +2367,7 @@
 - [TunTap](https://github.com/vorner/tuntap) - TUN/TAP wrapper for Rust.
 - [Rust-ConfigParser](https://github.com/Basicprogrammer10/Rust-ConfigParser) - Simple config parsing lib for rust.
 - [metastruct](https://github.com/sigp/metastruct) - Abstractions for iterating and mapping over struct fields.
+- [llq](https://github.com/glowcoil/llq) - Wait-free single-producer single-consumer linked-list queue with individually reusable nodes. ([Article](https://glowcoil.com/posts/llq/))
 
 ## Cargo Plugins
 
@@ -2661,3 +2662,4 @@
 - [Dandiya](https://github.com/abonkoski/dandiya) - API description tool designed to ensure ABI stability.
 - [TheBook](https://github.com/0xhiro/thebook) - Search and read 'The Rust Book' from the terminal. ([Reddit](https://www.reddit.com/r/rust/comments/z7j0yx/i_turned_the_rust_book_into_a_crate/))
 - [Building Web UI's in Rust w/ Greg Johnston (2022)](https://www.youtube.com/watch?v=zgY7ql1xwW4)
+- [Augmenting Existing Struct APIs with Rust Traits (2022)](http://rtpg.co/2022/12/05/rust-trait-object-apis.html)

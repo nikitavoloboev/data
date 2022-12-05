@@ -53,6 +53,7 @@ When I get a chance, I will setup [gymnastics rings](https://www.gornation.com/b
 - [Accountability coach for health and fitness stuff can be very useful](https://twitter.com/adamwathan/status/1527695253595103233)
 - [In a new paper in Nature, scientists looked at candidates for reversing dysregulated gene expression in Alzheimer's disease and guess what outperformed all tested drugs? Exercise.](https://twitter.com/maxlugavere/status/1581338154736328704)
 - [You need more calories than you think when trying to gain muscle. Best to count so you have some understanding of how many calories are in foods you eat. Then have proper routine with structure, optimized for muscle growth. Take proper rest days.](https://www.youtube.com/watch?v=f5x8igkdiYk)
+- [The hardest part of getting in shape is managing your psychology.](https://twitter.com/FitFounder/status/1599462607592857602)
 
 ## Links
 

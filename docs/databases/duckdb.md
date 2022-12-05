@@ -22,3 +22,4 @@ title: DuckDB
 - [Modern Data Stack in a Box with DuckDB (2022)](https://duckdb.org/2022/10/12/modern-data-stack-in-a-box.html)
 - [Lightweight Compression in DuckDB (2022)](https://duckdb.org/2022/10/28/lightweight-compression.html)
 - [Go SQL driver for DuckDB](https://github.com/marcboeker/go-duckdb)
+- [Using Polars on results from DuckDB's Arrow interface in Rust (2022)](https://vikramoberoi.com/using-polars-on-results-from-duckdbs-arrow-interface-in-rust/)

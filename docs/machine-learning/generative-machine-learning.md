@@ -210,3 +210,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a) ([HN](https://news.ycombinator.com/item?id=33858844))
 - [ChatGPT can reply like a specific Reddit or HN user, including you](https://news.ycombinator.com/item?id=33860562)
 - [Using ChatGPT as a Co-Founder (2022)](https://www.atomic14.com/2022/12/05/using-chatgpt-as-a-co-founder.html) ([HN](https://news.ycombinator.com/item?id=33863563))
+- [Discuss HN: Software Careers Post ChatGPT+ (2022)](https://news.ycombinator.com/item?id=33863749)

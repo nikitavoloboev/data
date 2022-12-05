@@ -149,3 +149,4 @@
 - [Avatar](https://github.com/tobiaslins/avatar) - Generates beautiful gradient avatars.
 - [Burger King new logo considerations](https://twitter.com/Aweiland/status/1593574513060581377)
 - [Circum Icons](https://github.com/Klarr-Agency/Circum-Icons) - Open source icon library following Google Material Design principles.
+- [Icon speedruns: Fountain pen and fingerprint (2022)](https://www.youtube.com/watch?v=GXh2tWvEK1Y)

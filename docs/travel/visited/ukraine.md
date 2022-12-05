@@ -6,7 +6,7 @@ Instead of [wasting lives](https://ukraine.bellingcat.com/) & [destroying cities
 
 [CredibleDefense](https://www.reddit.com/r/CredibleDefense/) has nice daily discussion threads on status of the war.
 
-It's hard to stay truly informed on what's going on due unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/).
+It's hard to stay truly informed on what's going on unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/).
 
 I hope the war ends soon and Russia gives back the territories it unlawfully gained through war (Donetsk/Luhansk/..) or non vetted referendum (Crimea). And pays for the damages it inflicted to the people of Ukraine. Otherwise the war is most likely to [repeat again in future](https://twitter.com/mdmitri91/status/1534316819481300997).
 
