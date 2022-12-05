@@ -155,3 +155,4 @@ title: Julia
 - [Julia grammar for Tree-sitter](https://github.com/tree-sitter/tree-sitter-julia)
 - [Intro to Julia workshop (2022)](https://github.com/mfherbst/2022-sustech-julia-workshop)
 - [ModelingToolkit and JuliaSim Workshop (2022)](https://figshare.com/articles/conference_contribution/ModelingToolkit_and_JuliaSim_Workshop/21432588) ([Code](https://github.com/JuliaComputing/ModelingToolkitWorkshop))
+- [Improvements in package precompilation (2022)](https://www.youtube.com/watch?v=GnsONc9DYg0) ([Code](https://github.com/timholy/JuliaCon2022_Precompilation))
