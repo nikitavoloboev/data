@@ -151,3 +151,4 @@
 - [Programming Ruby 3.2 (5th Edition) (2022)](https://pragprog.com/titles/ruby5/programming-ruby-3-2-5th-edition/)
 - [Extending Ruby with Rust (2022)](https://github.hausgold.de/extending-ruby-with-rust)
 - [rbperf](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby (CRuby) which runs in BPF.
+- [ChatGPT Generate Ruby Code to Check User Exists in GitHub (2022)](https://kracekumar.com/post/chatgpt-gh-profile-lookup/)

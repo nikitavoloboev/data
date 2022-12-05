@@ -224,3 +224,4 @@
 - [The one about Lisp interactivity (2022)](http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/) ([HN](https://news.ycombinator.com/item?id=33559198))
 - [The German School of Lisp (2011)](http://blog.fogus.me/2011/05/03/the-german-school-of-lisp-2/)
 - [Lisp written in Nix](https://github.com/utdemir/nixlisp)
+- [Conceptual Introduction to Spritely Goblins (2022)](https://garbados.github.io/my-blog/conceptual-intro-to-spritely-goblins.html)

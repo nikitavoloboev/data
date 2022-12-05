@@ -486,3 +486,4 @@ I do write Rust, but tried out [Zig](zig/zig.md) when I want to write embedded c
 - [Building an interpreter for my programming language with ChatGPT (2022)](https://6502.is-a.dev/posts/aoc-2022/) ([HN](https://news.ycombinator.com/item?id=33851586))
 - [Create a programming language in ChatGPT](https://github.com/forrestchang/gptlang)
 - [DreamBerd](https://github.com/TodePond/DreamBerd) - Perfect programming language.
+- [Right and wrong: ten choices in language design (2022)](https://arxiv.org/abs/2211.16597) ([Lobsters](https://lobste.rs/s/6eh9oh/right_wrong_ten_choices_language_design))

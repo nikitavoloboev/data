@@ -118,3 +118,4 @@
 - [samsara](https://github.com/chc4/samsara) - Reference-counting cycle collection library in rust.
 - [xv6: How exactly is memory addressed? (2020)](https://yohei.codes/post/xv6-memory-1/)
 - [Using rr to quickly debug memory corruption (2022)](https://zig.news/david_vanderson/using-rr-to-quickly-debug-memory-corruption-2539)
+- [I Want a Memory Diagram Generator (2022)](https://third-bit.com/2022/12/04/i-want-a-memory-diagram-generator/) ([Lobsters](https://lobste.rs/s/160e8z/i_want_memory_diagram_generator))
