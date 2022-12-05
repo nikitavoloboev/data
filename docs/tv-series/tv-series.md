@@ -65,3 +65,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Traktarr](https://github.com/l3uddz/traktarr) - Uses Trakt.tv to find shows and movies to add in to Sonarr and Radarr, respectively.
 - [What TV show never had a decline in quality?](https://www.reddit.com/r/AskReddit/comments/z5neg5/what_tv_show_never_had_a_decline_in_quality/)
 - [Best TV Shows 2022](https://www.nytimes.com/2022/12/01/arts/television/best-tv-shows.html)
+- [Series similar to Succession](https://www.reddit.com/r/SuccessionTV/comments/z5mizk/now_that_im_through_with_successionwhat_the_hell/)

@@ -2,11 +2,11 @@
 
 I think [universities](university.md) are terribly inefficient & overpriced. I am building [Learn Anything](../ideas/learn-anything.md) to fully streamline gaining new knowledge and using it to build exciting [ideas](../ideas/ideas.md).
 
-University in my experience was way too stressful experience. Even now simply [asking questions to ChatGPT](https://twitter.com/pwang/status/1599520310466080771) with [Khan Academy](https://www.khanacademy.org) can cover majority of the school program. 
+University in my experience was way too stressful. Even now simply [asking questions to ChatGPT](https://twitter.com/pwang/status/1599520310466080771) with [Khan Academy](https://www.khanacademy.org) can cover majority of school/university programs.
 
 There is [more and more homeschoolers](https://twitter.com/fatherhoodninja/status/1507112802879737864) and for good reason. There should be more tools built for them. Tools like [Primer](https://primer.com/), [Learney](https://www.learney.me) & [Synthesis](https://www.synthesis.is/).
 
-What's wild to me is just how [few people can write code](https://twitter.com/Ruchin_Kulkarni/status/1522063234378780672) still. I hope this number grows as it's incredibly empowering being able to automate parts of your life to focus on more fun and exciting things in life. 
+What's wild to me is just how [few people can write code](https://twitter.com/Ruchin_Kulkarni/status/1522063234378780672) still. I hope this number grows as it's incredibly empowering being able to automate parts of your life to focus on more fun and exciting things in life.
 
 ## Notes
 

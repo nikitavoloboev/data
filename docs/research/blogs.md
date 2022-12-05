@@ -237,6 +237,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Tania Rascia](https://www.taniarascia.com/blog)
 - [Engraved](https://www.engraved.blog/)
 - [Robert Heaton](https://robertheaton.com/)
+- [Nigel Tao](https://nigeltao.github.io/)
 
 ## Notes
 
