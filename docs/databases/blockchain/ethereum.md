@@ -729,3 +729,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [StarkNet React](https://github.com/apibara/starknet-react) - Collection of React providers and hooks for StarkNet.
 - [Apibara](https://github.com/apibara/apibara) - Composable streams of web3 data.
 - [Uniswap-Rs](https://github.com/DaniPopes/uniswap-rs) - Unofficial Rust SDK library for Uniswap smart contracts.
+- [What in the Ethereum application ecosystem excites me (2022)](https://vitalik.ca/general/2022/12/05/excited.html) ([HN](https://news.ycombinator.com/item?id=33878216))

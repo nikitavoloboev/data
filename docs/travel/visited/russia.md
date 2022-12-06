@@ -14,7 +14,7 @@ It hurts to see this happen to a country with millions of people. I personally d
 
 From places I've been in Russia, I truly loved Saint Petersburg and Moscow. The services are often superb. Many food options. Easy ability to travel with metro/bus. Interesting architecture that you won't find anywhere else. Filled with mostly friendly and welcoming people.
 
-I don't know when and if ever the situation will change positively for Russia. But I hope for the best. It's painful to see so many people driven by hate, especially when hate is generalized to a whole country of people. I hope love wins and better systems finally get built to prevent messes like this from happening again.
+I don't know when and if ever the situation will change positively for Russia. But I hope for the best. It's painful to see so many people driven by hate, especially when hate is [generalized to a whole country of people](https://www.youtube.com/watch?v=6I5I56uVvLw&t=1397s). I hope love wins and better systems finally get built to prevent messes like this from happening again.
 
 I also hope non violent speech will never be silenced in Russia as it's [crucial for a healthy society](https://twitter.com/birbigs/status/1520626883616030720). And ideally saner laws with respect to [psychedelics](../../drugs/psychedelics/psychedelics.md) get passed. I think alcohol and cigarettes as the main drug of choice for majority of the population plays a role in why things are the way they are. Some [MDMA](../../drugs/mdma.md) therapies can be very helpful for all.
 

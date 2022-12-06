@@ -489,3 +489,4 @@ title: Haskell
 - [A\* Algorithm in Haskell (2022)](https://notes.abhinavsarkar.net/2022/astar)
 - [Profiling Memory Usage With eventlog2html and ghc-debug](https://github.com/well-typed/memory-profiling-webinar)
 - [Haskell-Lexer](https://github.com/yav/haskell-lexer) - Fully compliant Haskell 98 lexer.
+- [Haskell Lens Tutorial by Exercises (2019)](https://williamyaoh.com/posts/2019-04-25-lens-exercises.html)

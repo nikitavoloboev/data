@@ -19,3 +19,4 @@ title: String theory
 - [String theory - Just because something is mathematically proven, does it mean that it necessarily exists? (2021)](https://www.reddit.com/r/AskPhysics/comments/lswlh2/string_theory_just_because_something_is/)
 - [String Theory for Undergraduates (2021)](http://www.mit.edu/~lindrew/8.251.pdf)
 - [Did string theory poison physics | Eric Weinstein and Brian Greene clash over theories of everything (2022)](https://www.youtube.com/watch?v=hyFMB1xfePw)
+- [Physicists Discover String Theory and Extra Dimensions in a Laboratory (2022)](https://profmattstrassler.com/2022/12/05/physicists-discover-string-theory-and-extra-dimensions-in-a-laboratory/)

@@ -358,3 +358,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [A love letter to React (2022)](https://fly.io/blog/love-letter-react/)
 - [Vite React Inspector](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser automatically.
 - [Medium Reducers in React (2022)](https://julesblom.com/writing/medium-reducers)
+- [The Beginner's Guide to React Testing](https://maxrozen.com/beginners-guide-to-react-testing)
