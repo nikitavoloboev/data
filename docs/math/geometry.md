@@ -74,3 +74,4 @@
 - [Illuminating Hyperbolic Geometry (2015)](https://www.youtube.com/watch?v=eGEQ_UuQtYs) ([HN](https://news.ycombinator.com/item?id=33128972))
 - [Non-Euclidean geometry and games (2019)](https://zenorogue.scribe.rip/non-euclidean-geometry-and-games-fb46989320d4)
 - [The Geometry Junkyard](https://www.ics.uci.edu/~eppstein/junkyard/)
+- [Why Penrose Tiles Never Repeat](https://www.youtube.com/watch?v=-eqdj63nEr4)

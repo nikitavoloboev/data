@@ -279,3 +279,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [TALA](https://github.com/terrastruct/TALA) - Diagram layout engine designed specifically for software architecture diagrams.
 - [Text to diagram comparisons](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text. ([Web](https://text-to-diagram.com/))
 - [Emerging Reference Architectural Patterns](https://github.com/wso2/reference-architecture) - Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model.
+- [Ask HN: Software architects – what’s your typical day look like? (2022)](https://news.ycombinator.com/item?id=33879083)

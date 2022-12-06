@@ -2,7 +2,9 @@
 
 [This](https://www.susanrigetti.com/physics) & [this Reddit thread](https://www.reddit.com/r/AskPhysics/comments/sxrg4q/how_can_i_learn_physics_on_my_own/) are nice places to start learning physics. I like reading [AskPhysics subreddit](https://www.reddit.com/r/AskPhysics/).
 
-I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s work most fascinating.
+I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s work interesting.
+
+[Unzicker's Real Physics](https://www.youtube.com/@TheMachian/videos) is great.
 
 ## Notes
 
@@ -338,3 +340,5 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Is there a good book for learning intro to electricity and magnetism? (2022)](https://www.reddit.com/r/Physics/comments/z361db/is_there_a_good_book_for_learning_intro_to/)
 - [Packmol](https://github.com/m3g/packmol) - Creates Initial Configurations for Molecular Dynamics Simulations.
 - [Mysteries of Fundamental Physics (2022)](https://www.youtube.com/watch?v=pyP59YPtiIo)
+- [Great Physicists: Paul A.M. Dirac - The Taciturn Genius (2020)](https://www.youtube.com/watch?v=aswWUQQxDhU)
+- [Great Physicists: Niels Bohr, the Father of Atomic Physics (2020)](https://www.youtube.com/watch?v=vEFCXoITrLA)

@@ -212,3 +212,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Using ChatGPT as a Co-Founder (2022)](https://www.atomic14.com/2022/12/05/using-chatgpt-as-a-co-founder.html) ([HN](https://news.ycombinator.com/item?id=33863563))
 - [Discuss HN: Software Careers Post ChatGPT+ (2022)](https://news.ycombinator.com/item?id=33863749)
 - [ChatGPT vs. a Cryptic Crossword (2022)](https://jameswillia.ms/posts/chatgpt-cryptics.html) ([HN](https://news.ycombinator.com/item?id=33873502))
+- [ShareGPT](https://sharegpt.com/) - Share your wildest ChatGPT conversations with one click. ([Tweet](https://twitter.com/steventey/status/1599816553490366464))
