@@ -246,3 +246,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Template for Catppuccin ports](https://github.com/catppuccin/template)
 - [Catppuccin Palettes](https://github.com/catppuccin/palette) - Soothing pastel theme to use within your projects.
 - [Bike: Innovative Rich Text Editing (2022)](https://www.hogbaysoftware.com/posts/bike-rich-text/) ([HN](https://news.ycombinator.com/item?id=33489123))
+- [Codux](https://www.codux.com/) - Visual IDE for React.

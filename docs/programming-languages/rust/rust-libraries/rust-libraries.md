@@ -2368,6 +2368,7 @@
 - [Rust-ConfigParser](https://github.com/Basicprogrammer10/Rust-ConfigParser) - Simple config parsing lib for rust.
 - [metastruct](https://github.com/sigp/metastruct) - Abstractions for iterating and mapping over struct fields.
 - [llq](https://github.com/glowcoil/llq) - Wait-free single-producer single-consumer linked-list queue with individually reusable nodes. ([Article](https://glowcoil.com/posts/llq/))
+- [Fragile](https://github.com/mitsuhiko/fragile) - Utility wrapper to send non send types to other threads safely.
 
 ## Cargo Plugins
 

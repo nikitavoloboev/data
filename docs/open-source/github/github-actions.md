@@ -620,3 +620,4 @@ title: GitHub actions
 - [Docker Manifest Create Action](https://github.com/int128/docker-manifest-create-action) - Create a multi-architecture Docker image in GitHub Actions.
 - [GitHub Actions Dhall](https://github.com/regadas/github-actions-dhall) - Typecheck, template and modularize your Github Action definitions with Dhall.
 - [Information and tips regarding GitHub Actions](https://github.com/TomasHubelbauer/github-actions)
+- [Using larger GitHub runners](https://docs.github.com/en/actions/using-github-hosted-runners/using-larger-runners)

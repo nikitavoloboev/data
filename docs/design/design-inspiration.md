@@ -10,6 +10,7 @@ Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage)
 
 - [Column](https://column.com/)
 - [Glass](https://glass.photo/)
+- [Codux](https://www.codux.com/)
 - [Amie](https://amie.so/)
 - [Dona](https://dona.ai/)
 - [Dask](https://www.dask.org/)

@@ -121,3 +121,4 @@ title: WebRTC
 - [Establish WebRTC connection without a signaling server using nothing but Web Push (2021)](https://jimmy.warting.se/2021/02/16/p2p-signal-with-webpush.html)
 - [WASM-Peers](https://github.com/wasm-peers/wasm-peers) - Easy-to-use wrapper for WebRTC DataChannels peer-to-peer connections written in Rust and compiling to WASM.
 - [WebRTC Binaries for iOS and macOS](https://github.com/stasel/WebRTC)
+- [Emerging standards in WebRTC live streaming (2022)](https://cloudflare.tv/event/PZ5wXGv2)

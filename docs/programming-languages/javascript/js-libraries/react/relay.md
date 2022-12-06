@@ -6,7 +6,7 @@ title: Relay
 
 > Production-ready GraphQL client for React
 
-Looking into using [Relay with Next.js](https://github.com/RevereCRE/relay-nextjs).
+[Relay with NextJS + server components example](https://github.com/relayjs/relay-examples/tree/main/issue-tracker-next-v13) & [Relay + NextJS](https://github.com/RevereCRE/relay-nextjs) are interesting.
 
 ## Notes
 
@@ -31,7 +31,7 @@ Looking into using [Relay with Next.js](https://github.com/RevereCRE/relay-nextj
 - [relay-compiler-language-typescript](https://github.com/relay-tools/relay-compiler-language-typescript) - Language plugin for Relay that adds TypeScript support, including emitting type definitions.
 - [vscode-apollo-relay](https://github.com/relay-tools/vscode-apollo-relay) - Simple configuration of vscode-apollo for Relay projects.
 - [Relay.swift](https://github.com/relay-tools/Relay.swift) - Relay GraphQL framework, ported to Swift and SwiftUI. ([Docs](https://www.notion.so/Relay-swift-e6e1c35b170a4149940ff9c18c0b6875))
-- [relay-nextjs](https://github.com/RevereCRE/relay-nextjs) - Wraps page components, a GraphQL query, and some helper methods to automatically hook up data fetching using Relay.
+- [Relay + NextJS](https://github.com/RevereCRE/relay-nextjs) - Wraps page components, a GraphQL query, and some helper methods to automatically hook up data fetching using Relay.
 - [Awesome Relay](https://github.com/expede/awesome-relay)
 - [fgs](https://github.com/maraisr/fgs) - Fetch GraphQL Schema from a GraphQL HTTP Endpoint from grphql-config that is Relay (rust) aware.
 - [Relay Library for GraphQL.js](https://github.com/graphql/graphql-relay-js)
@@ -47,3 +47,4 @@ Looking into using [Relay with Next.js](https://github.com/RevereCRE/relay-nextj
 - [VSCode ReScript Relay](https://github.com/zth/vscode-rescript-relay) - Improve quality-of-life of using RescriptRelay with VSCode.
 - [Next.js + Relay + Streaming](https://github.com/wvanrensselaer/nextjs-relay-streaming)
 - [Create-Relay-App](https://github.com/tobias-tengler/create-relay-app) - Relay setup automation for CRA, Next.js and Vite.
+- [Simple Issue Tracker Relay Example (with Next.js 13)](https://github.com/relayjs/relay-examples/tree/main/issue-tracker-next-v13)
