@@ -19,7 +19,7 @@
 - [Animation worklet: the 4 missing features (2020)](https://inventingwithmonster.io/20200203-animationworklet-the-missing-pieces/)
 - [The ultimate guide to proper use of animation in UX (2018)](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 - [Pose](https://galshir.com/pose/) - Simple web app for character posing.
-- [Lottie](http://airbnb.io/lottie/#/) - Use after effects animations in web and native apps. ([Code](https://github.com/airbnb/lottie)) ([Lottie for iOS, macOS](https://github.com/airbnb/lottie-ios)) ([HN](https://news.ycombinator.com/item?id=29634114))
+- [Lottie](http://airbnb.io/lottie/#/) - Use after effects animations in web and native apps. ([Code](https://github.com/airbnb/lottie)) ([Lottie for iOS, macOS](https://github.com/airbnb/lottie-ios)) ([HN](https://news.ycombinator.com/item?id=29634114)) ([Lottie 4.0 for iOS](https://medium.com/airbnb-engineering/announcing-lottie-4-0-for-ios-d4d226862a54)) ([HN](https://news.ycombinator.com/item?id=33886673))
 - [Ke-Sen Huang's research on animation synthesis, animation summarization, and motion retrieval](https://kesen.realtimerendering.com/)
 - [Rive](https://rive.app/) - Bring your apps and games to life with real-time animation. ([Beta](https://beta.rive.app/)) ([Discord](https://discord.com/invite/FGjmaTr))
 - [Hashflag Gallery Animations](https://hashflaggallery.com/)

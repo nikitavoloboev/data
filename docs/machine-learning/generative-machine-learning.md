@@ -213,3 +213,5 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Discuss HN: Software Careers Post ChatGPT+ (2022)](https://news.ycombinator.com/item?id=33863749)
 - [ChatGPT vs. a Cryptic Crossword (2022)](https://jameswillia.ms/posts/chatgpt-cryptics.html) ([HN](https://news.ycombinator.com/item?id=33873502))
 - [ShareGPT](https://sharegpt.com/) - Share your wildest ChatGPT conversations with one click. ([Tweet](https://twitter.com/steventey/status/1599816553490366464))
+- [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)
+- [I Taught ChatGPT to Invent a Language (2022)](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language) ([HN](https://news.ycombinator.com/item?id=33885153))

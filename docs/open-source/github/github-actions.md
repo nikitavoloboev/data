@@ -271,6 +271,7 @@ title: GitHub actions
 - [Delete Deployments](https://github.com/int128/delete-deployments-action) - Action to clean up outdated GitHub Deployments.
 - [HTTP Request Action](https://github.com/fjogeleit/http-request-action) - Create HTTP Requests in GitHub Actions.
 - [YAML Update Action](https://github.com/fjogeleit/yaml-update-action) - Update YAML property with dynamic values.
+- [Wait-For-Secrets](https://github.com/step-security/wait-for-secrets) - Publish from GitHub Actions using multi-factor authentication. ([HN](https://news.ycombinator.com/item?id=33884424))
 
 ## Go
 

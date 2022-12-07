@@ -271,3 +271,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Lanzaboote](https://github.com/blitz/lanzaboote) - Secure Boot for NixOS.
 - [MyNixOS](https://mynixos.com/) - Create and share Nix and NixOS configurations. ([HN](https://news.ycombinator.com/item?id=33762743))
 - [NixOS: On Raspberry Pi 3B (2022)](https://myme.no/posts/2022-12-01-nixos-on-raspberrypi.html)
+- [Automagically assimilating NixOS machines into your Tailnet with Terraform (2022)](https://xeiaso.net/blog/nix-flakes-terraform)

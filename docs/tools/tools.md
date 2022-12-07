@@ -789,3 +789,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Desk](https://github.com/frappe/desk) - Easy setup, clean user interface, and automation tools to resolve customer issues efficiently.
 - [Tools for thought as cultural practices, not computational objects](https://maggieappleton.com/tools-for-thought) ([HN](https://news.ycombinator.com/item?id=33666160))
 - [CalmCode](https://calmcode.io/) - Video tutorials for modern ideas and open source tools.
+- [Codeium](https://www.codeium.com/) - Free, fast AI codegen extension. ([HN](https://news.ycombinator.com/item?id=33885676))
