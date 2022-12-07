@@ -1,12 +1,12 @@
 # Regex
 
-I use [regex101](https://regex101.com) every time I want write a new regex.
+[Regex Primer](https://marcocetica.com/posts/regex_tutorial/) is great read.
 
-Small tip, [regex101](https://regex101.com) has night mode.
+I use [regex101](https://regex101.com) every time I want write a new regex.
 
 ![](https://i.imgur.com/ZVm6HVX.png)
 
-[Rulex](https://rulex-rs.github.io/) is nice.
+[Rulex](https://rulex-rs.github.io/) is nice too.
 
 ## Notes
 
@@ -116,3 +116,4 @@ Match all that don't have notes or twitter in input
 - [What if regular exercise is the best cognitive exercise? (2022)](https://blog.vslira.net/2022/11/what-if-regular-exercise-is-best.html) ([HN](https://news.ycombinator.com/item?id=33573246))
 - [How Regexes Work](https://perl.plover.com/Regex/article.html) ([HN](https://news.ycombinator.com/item?id=33568887))
 - [qgrep](https://github.com/zeux/qgrep) - Fast regular expression grep for source code with incremental index updates.
+- [A Regex Primer (2022)](https://marcocetica.com/posts/regex_tutorial/)

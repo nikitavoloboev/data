@@ -1063,6 +1063,7 @@
 - [wildcard-match](https://github.com/axtgr/wildcard-match) - Tiny and extremely fast JavaScript library for compiling and matching basic glob patterns.
 - [ESX as Template Literal Tag](https://github.com/ungap/esx) - Template literal based ESX proposal.
 - [meta-png](https://github.com/lucach/meta-png) - JavaScript library to store and retrieve metadata in PNG files.
+- [request-compose](https://github.com/simov/request-compose) - Composable HTTP Client.
 
 ## Links
 

@@ -243,3 +243,5 @@
 - [zot](https://github.com/project-zot/zot) - Production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification).
 - [Finch](https://github.com/runfinch/finch) - Open source client for container development. ([Article](https://aws.amazon.com/blogs/opensource/introducing-finch-an-open-source-client-for-container-development/)) ([HN](https://news.ycombinator.com/item?id=33745815))
 - [What Actually Happens When You Publish a Container Port (2022)](https://iximiuz.com/en/posts/docker-publish-container-ports/)
+- [bootc](https://github.com/containers/bootc) - Transactional, in-place operating system updates using OCI/Docker container images.
+- [Possibility of OCI Container Runtime with Rust (2022)](https://speakerdeck.com/utam0k/possibility-of-oci-container-runtime-with-rust)

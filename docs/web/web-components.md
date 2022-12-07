@@ -116,3 +116,4 @@ title: Web Components
 - [Ponys](https://jhuddle.github.io/ponys/) - Declarative creation of browser-native web components.
 - [lit-labs/context](https://www.npmjs.com/package/@lit-labs/context) - Defines an implementation of controllers and decorators for using the Context Protocol as defined by the Web Components Community Group.
 - [img-victor](https://github.com/9am/img-victor) - Web component converting \<img\> to SVG \<path\> with a drawing effect.
+- [Stencil Component Starter](https://github.com/1024pix/pix-webcomponents) - Starter project for building a standalone Web Component using Stencil.

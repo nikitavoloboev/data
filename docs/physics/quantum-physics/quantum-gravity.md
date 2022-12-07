@@ -4,6 +4,8 @@ title: Quantum gravity
 
 # [Quantum gravity](https://en.wikipedia.org/wiki/Quantum_gravity)
 
+[Dirac's Way to Quantum Gravity](https://www.youtube.com/watch?v=cwUFUr24R-k) is great explanation.
+
 ## Links
 
 - [Loop Quantum Gravity Explained (2019)](https://www.youtube.com/watch?v=L2suMPiuog4)
@@ -17,3 +19,4 @@ title: Quantum gravity
 - [Mathematicians Prove 2D Version of Quantum Gravity Really Works (2021)](https://www.quantamagazine.org/mathematicians-prove-2d-version-of-quantum-gravity-really-works-20210617/) ([Reddit](https://www.reddit.com/r/Physics/comments/o1zso1/mathematicians_prove_2d_version_of_quantum/))
 - [From maximum force to physics in 9 lines -- and implications for quantum gravity (2022)](https://arxiv.org/abs/2208.01038) ([HN](https://news.ycombinator.com/item?id=32367085))
 - [Physicists Create a Wormhole Using a Quantum Computer (2022)](https://www.quantamagazine.org/physicists-create-a-wormhole-using-a-quantum-computer-20221130/) ([Article](https://ai.googleblog.com/2022/11/making-traversable-wormhole-with.html))
+- [Dirac's Way to Quantum Gravity (2020)](https://www.youtube.com/watch?v=cwUFUr24R-k)

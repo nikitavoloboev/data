@@ -379,3 +379,4 @@
 - [Chip Letter Links No. 9 : RISC-V, Tank Simulation, Unix History, IBM Research, Fred Brooks and more. (2022)](https://thechipletter.substack.com/p/chip-letter-links-no-9-risc-v-tank)
 - [Nice resources to learn state of art hardware architectures (2022)](https://news.ycombinator.com/item?id=33667485)
 - [Processor Design: An Introduction (1998)](http://www.gamezero.com/team-0/articles/math_magic/micro/) ([HN](https://news.ycombinator.com/item?id=33636724))
+- [Build List](https://buildlist.org/) - Directory of on-demand manufacturers for your creative projects. ([HN](https://news.ycombinator.com/item?id=33869796))

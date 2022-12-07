@@ -289,6 +289,7 @@
 - [SDCALayer](https://github.com/p-x9/SDCALayer) - Server-Driven CALayer.
 - [AppContainer](https://github.com/p-x9/AppContainer) - Create and manage multiple environments with a single application, just as if you were swapping containers.
 - [ShimmerView](https://github.com/mercari/ShimmerView) - Collection of APIs to construct Skelton View + Shimmering Effect type loading indicator on UIKit and SwiftUI.
+- [EJKit](https://github.com/Upstarts/editor.js-kit-ios) - iOS Framework for Editor.js - block styled editor.
 
 ## macOS
 

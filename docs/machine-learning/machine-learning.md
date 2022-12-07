@@ -995,3 +995,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Causal Confounds in Sequential Decision Making (2022)](https://blog.ml.cmu.edu/2022/11/28/causal-confounds-in-sequential-decision-making/)
 - [MIP Workshop 2023 Computational Competition](https://github.com/ambros-gleixner/MIPcc23)
 - [Statistical vs. Deep Learning forecasting methods](https://github.com/Nixtla/statsforecast/tree/main/experiments/m3) ([HN](https://news.ycombinator.com/item?id=33818531))
+- [USB: A Unified Semi-supervised Learning Benchmark for Classification (2022)](https://arxiv.org/abs/2208.07204) ([Code](https://github.com/microsoft/Semi-supervised-learning))
+- [Walk with fastai - the missing pieces for success](https://thezachmueller.gumroad.com/l/walkwithfastai) ([Code](https://github.com/muellerzr/Walk-with-fastai-revisited))

@@ -34,3 +34,4 @@ Prefer to use [Google Domains](https://domains.google/) over everything. I like 
 - [Favorite tld tier list](https://twitter.com/t3dotgg/status/1584039578779799552)
 - [Hardening unused (sub)domains (2022)](https://www.mailhardener.com/kb/hardening-unused-domains)
 - [One Word Domains](https://oneword.domains/) - Database of available and brandable one-word domains. ([Tweet](https://twitter.com/steventey/status/1597293104276869122))
+- [SmartyNames](https://smartynames.com/) - Domain Name Search with AI. ([HN](https://news.ycombinator.com/item?id=33882497))

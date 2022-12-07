@@ -220,3 +220,4 @@ One thing I learned is to always be proactive with cold approaching people, just
 - [Ask HN: Why do some people not communicate clearly? (2022)](https://news.ycombinator.com/item?id=33656909)
 - [Many meetings during the day affect you negatively](https://twitter.com/bunopus/status/1596036735024128004)
 - [Impact of meetings on our brains](https://twitter.com/SahilBloom/status/1599392123065098240)
+- [Ask HN: How to work with people who push back forcefully? (2022)](https://news.ycombinator.com/item?id=33856788)

@@ -713,3 +713,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [WhatsApp-GPT](https://github.com/danielgross/whatsapp-gpt)
 - [What ChatGPT features/improvements do you want?](https://twitter.com/sama/status/1599457816494092289)
 - [Summarize-Webpage](https://github.com/akashp1712/summarize-webpage) - Small NLP SAAS project that summarize a webpage.
+- [Nonparametric Masked Language Modeling (2022)](https://arxiv.org/abs/2212.01349)

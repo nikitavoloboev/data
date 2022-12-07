@@ -23,6 +23,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 ## Favorite blogs
 
 - [Brandur](https://brandur.org/articles) ([Code](https://github.com/brandur/sorg))
+- [Not a Number](https://www.nan.fyi/)
 - [Armin Ronacher](https://lucumr.pocoo.org/)
 - [Dan Abramov](https://overreacted.io) ([Code](https://github.com/gaearon/overreacted.io))
 - [Nicolas Moutschen](https://n14n.dev/)
@@ -238,6 +239,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Engraved](https://www.engraved.blog/)
 - [Robert Heaton](https://robertheaton.com/)
 - [Nigel Tao](https://nigeltao.github.io/)
+- [Marco Cetica](https://marcocetica.com/)
 
 ## Notes
 

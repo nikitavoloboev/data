@@ -210,3 +210,4 @@
 - [Named Colors Wheel](https://arantius.github.io/web-color-wheel/) ([HN](https://news.ycombinator.com/item?id=33693411))
 - [Mixbox](https://github.com/scrtwpns/mixbox) - Library for natural color mixing based on real pigments.
 - [Color Pals](https://ronikaufman.github.io/color_pals/) - Collection of curated color palettes. ([Code](https://github.com/ronikaufman/color_pals))
+- [Turn a text description into a color](https://text-to-color.vercel.app/) ([Code](https://github.com/masonyekta/nextjs-openai-text-to-color))

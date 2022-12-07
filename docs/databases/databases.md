@@ -269,6 +269,7 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Segment](https://github.com/segment-dev/segment) - Simple and fast in-memory key-value database written in Rust.
 - [Reindexer](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface.
 - [AssemblageDB](https://github.com/fkettelhoit/assemblagedb) - Distributed Document/Graph DB for Connected Pages & Documents.
+- [Apache ORC](https://orc.apache.org/) - High-Performance Columnar Storage for Hadoop. ([Code](https://github.com/apache/orc))
 
 ## Tools
 
@@ -726,3 +727,5 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - ["The Evolution of a Planetary-scale Distributed Database" by Kevin Scaldeferri (2022)](https://www.youtube.com/watch?v=dmCr5Al_ptM)
 - [Database optimization, analytics and burnout (2022)](https://blog.zm.is/database-optimisation-analytics-burnout/)
 - [Index Merges vs Composite Indexes in Postgres and MySQL (2022)](https://sirupsen.com/index-merges) ([Lobsters](https://lobste.rs/s/n0nfeu/index_merges_vs_composite_indexes))
+- [Modern data modeling: Start with the end? (2022)](https://www.adventofdata.com/modern-data-modeling-start-with-the-end/) ([HN](https://news.ycombinator.com/item?id=33846087))
+- [Get Rid of Your Old Database Migrations (2022)](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)

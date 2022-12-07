@@ -114,3 +114,4 @@ title: Agda
 - [Formalization of Regular Languages in Agda](https://github.com/desi-ivanov/agda-regexp-automata)
 - [Improving Agda Interaction](https://github.com/phijor/agda-mode-ng)
 - [Formalization of 2LTT in Agda](https://github.com/UnivalencePrinciple/2LTT-Agda)
+- [Semi-Simplicial Types in Agda](https://github.com/FrozenWinters/SSTs)

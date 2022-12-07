@@ -714,3 +714,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Some nice < 500$ Christmas things to buy (2022)](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/z88wjj/boss_giving_me_500_for_christmas_what_indulgent/)
 - [Wikipedia Analysis Tool](http://wikiwho.ailef.tech/) - Explore Wikipedia edits made by institutions, companies and governments. ([HN](https://news.ycombinator.com/item?id=33842406))
 - [What things did you purchase that enhanced the quality of your life in 2022?](https://news.ycombinator.com/item?id=33877774)
+- [Amie - Calendar](https://amie.so/calendar)

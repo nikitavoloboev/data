@@ -31,6 +31,7 @@ Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage)
 - [Remix](https://remix.run/)
 - [Leave Me Alone](https://leavemealone.app/)
 - [Replit](https://replit.com/)
+- [Memorisely](https://www.memorisely.com/)
 - [Luma](https://lu.ma/)
 - [Pipe](https://www.pipe.com/)
 - [Glide](https://www.glideapps.com/)
@@ -202,6 +203,7 @@ Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage)
 
 ## Blogs
 
+- [Not a Number](https://www.nan.fyi/)
 - [Darkroom](https://darkroom.co/blog)
 - [Martian Chronicles](https://evilmartians.com/chronicles)
 - [Koos Looijesteijn](https://www.kooslooijesteijn.net/)

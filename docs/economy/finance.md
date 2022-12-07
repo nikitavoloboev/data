@@ -238,3 +238,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Demystifying Financial Leverage (2022)](https://bam.kalzumeus.com/archive/demystifying-financial-leverage/) ([HN](https://news.ycombinator.com/item?id=33563555))
 - [Puffin](https://github.com/siddhantac/puffin) - Simple Go TUI to manage personal finances (using hledger).
 - [The Short-Term Predictability of Returns in Order Book Markets: a Deep Learning Perspective (2022)](https://arxiv.org/abs/2211.13777) ([Code](https://github.com/lorenzolucchese/deepOBs))
+- [Expensify](https://www.expensify.com/) - Financial collaboration, centered around chat. ([Code](https://github.com/Expensify/App))

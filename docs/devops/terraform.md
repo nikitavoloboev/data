@@ -211,3 +211,4 @@ title: Terraform
 - [Cloudflare uses Terraform to manage Cloudflare (2022)](https://blog.cloudflare.com/terraforming-cloudflare-at-cloudflare/)
 - [Terraform tree](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
 - [protoc-gen-terraform](https://github.com/gravitational/protoc-gen-terraform) - Generates Terraform provider schemas and unmarshallers from protobuf definitions.
+- [Terraform Module: Hashicorp Vault GitHub OIDC](https://github.com/digitalocean/terraform-vault-github-oidc)

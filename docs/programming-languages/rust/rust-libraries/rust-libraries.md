@@ -2371,6 +2371,7 @@
 - [llq](https://github.com/glowcoil/llq) - Wait-free single-producer single-consumer linked-list queue with individually reusable nodes. ([Article](https://glowcoil.com/posts/llq/))
 - [Fragile](https://github.com/mitsuhiko/fragile) - Utility wrapper to send non send types to other threads safely.
 - [regress](https://github.com/ridiculousfish/regress) - REGex in Rust with EcmaScript Syntax.
+- [bittle](https://github.com/udoprog/bittle) - Zero-cost bitsets over native Rust types.
 
 ## Cargo Plugins
 

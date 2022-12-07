@@ -8,7 +8,7 @@ Emacs is an interesting editor that I haven't checked out still.
 
 [This](https://www.reddit.com/r/emacs/comments/74hetz/emacs_everywhere/) paints a pretty interesting picture of what Emacs really is. It is a programmable user interface with which you can do many things. One of these things is editing text.
 
-Might give it a go sometime.
+Might give it a go sometime. Right now I love [VSCode](../vs-code/vs-code.md) and find it plenty extendable.
 
 ## Interesting configs
 
@@ -134,3 +134,4 @@ Might give it a go sometime.
 - [An Interview with Mickey Petersen, author of Mastering Emacs (2022)](https://syntopikon.substack.com/p/an-interview-with-mickey-petersen)
 - [Pattern Matching and Tail Recursion in Emacs Lisp (2022)](https://arnesonium.com/2022/11/pattern-matching-tail-recursion-emacs-lisp) ([HN](https://news.ycombinator.com/item?id=33717831))
 - [Emacs 29 (2022)](https://blog.phundrak.com/emacs-29-what-can-we-expect/) ([HN](https://news.ycombinator.com/item?id=33788208))
+- [What I'd like to see in Emacs (2022)](https://emacsconf.org/2022/talks/rms/) ([HN](https://news.ycombinator.com/item?id=33888981))

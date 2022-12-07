@@ -105,3 +105,4 @@ And here are Chrome extensions I use:
 - [Chrome Extension Upload](https://github.com/mnao305/chrome-extension-upload) - Automatically upload and publish browser extensions to the Chrome web store.
 - [Pointer compression in Oilpan · V8 (2022)](https://v8.dev/blog/oilpan-pointer-compression)
 - [Prerender pages in Chrome for instant page navigations (2022)](https://developer.chrome.com/blog/prerender-pages/)
+- [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium)

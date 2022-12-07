@@ -479,3 +479,5 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [AI Music Generator](https://soundraw.io/) ([HN](https://news.ycombinator.com/item?id=33727550))
 - [Fumen](https://github.com/hbjpn/fumen) - Music sheet rendering engine specialized for Chord and Rhythm chart.
 - [Sketching the Expression: Flexible Rendering of Expressive Piano Performance with Self-Supervised Learning (2022)](https://arxiv.org/abs/2208.14867) ([Code](https://github.com/rsy1026/sketching_piano_expression))
+- [ChatGPT composed music in Sonic Pi](https://twitter.com/rycpt/status/1600253905404715011)
+- [MusCaps: Generating Captions for Music Audio (2021)](https://arxiv.org/abs/2104.11984) ([Code](https://github.com/ilaria-manco/muscaps))

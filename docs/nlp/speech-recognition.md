@@ -4,7 +4,7 @@ title: Speech recognition
 
 # [Speech recognition](https://github.com/daanzu/kaldi-active-grammar)
 
-[OpenAI Whisper](https://github.com/openai/whisper) & [ocotillo](https://github.com/neonbjb/ocotillo) are nice.
+[OpenAI Whisper](https://github.com/openai/whisper) (has [nice C++ port](https://github.com/ggerganov/whisper.cpp)) & [ocotillo](https://github.com/neonbjb/ocotillo) are nice.
 
 ## Notes
 
@@ -144,7 +144,7 @@ title: Speech recognition
 - [Whisper ASR Web service](https://github.com/ahmetoner/whisper-asr-webservice)
 - [React-Speech-Recognition](https://github.com/JamesBrill/react-speech-recognition) - Speech recognition for your React app.
 - [Stage-Whisper](https://github.com/Stage-Whisper/Stage-Whisper) - Easy to use AI transcriber, powered by OpenAI's Whisper.
-- [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
+- [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model. ([HN](https://news.ycombinator.com/item?id=33877893))
 - [Real-time speech recognition using next-gen Kaldi with ncnn](https://github.com/k2-fsa/sherpa-ncnn)
 - [Gecko](https://github.com/gong-io/gecko) - Tool for Effective Annotation of Human Conversations. ([Web](https://gong-io.github.io/gecko/))
 - [OpenAI Whisper - CPU](https://github.com/MiscellaneousStuff/openai-whisper-cpu) - Improving transcription performance of OpenAI Whisper for CPU based deployment.

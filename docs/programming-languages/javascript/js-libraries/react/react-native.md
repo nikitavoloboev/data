@@ -324,3 +324,5 @@ title: React Native
 - [React Native Payments](https://github.com/ExodusMovement/react-native-payments) - Accept Payments with Apple Pay and Android Pay using the Payment Request API.
 - [React Native Database · RxDB](https://rxdb.info/react-native-database.html)
 - [React Native Simple Toast](https://github.com/vonovak/react-native-simple-toast)
+- [State of React Native survey](https://github.com/software-mansion/state-of-react-native)
+- [React Native Anchor Point](https://github.com/sueLan/react-native-anchor-point) - Achieve better 3D transform animation.

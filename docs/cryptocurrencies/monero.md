@@ -12,6 +12,8 @@ I am curious what society where everyone agreed to use only anonymous currencies
 
 [TradeOgre](https://tradeogre.com/markets) is [great](https://www.reddit.com/r/Monero/comments/xeppo0/purchasing_monero_with_other_crypto/) for purchasing Monero.
 
+[ETH-XMR Atomic Swaps](https://github.com/AthanorLabs/atomic-swap) is great.
+
 ## Notes
 
 - [Can buy Monero on Kraken/KuCoin/TradeOgre and transfer it out (to Exodus/Cake wallet).](https://www.reddit.com/r/CryptoCurrency/comments/qrwwpw/what_cryptocurrencies_have_you_personally_found/)

@@ -1,6 +1,12 @@
 # Go libraries
 
-Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too. [Bun](https://github.com/uptrace/bun) & [sqlingo](https://github.com/lqs/sqlingo) seem like a nice ORMs. [Ristretto](https://github.com/outcaste-io/ristretto) & [FreeCache](https://github.com/coocood/freecache) are great cache libs. [genqlient](https://github.com/Khan/genqlient) is nice GraphQL client. [ZenQ](https://github.com/alphadose/ZenQ) is a nice queue lib.
+Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too.
+
+[Bun](https://github.com/uptrace/bun) & [sqlingo](https://github.com/lqs/sqlingo) seem like a nice ORMs.
+
+[Ristretto](https://github.com/outcaste-io/ristretto) & [FreeCache](https://github.com/coocood/freecache) are great cache libs.
+
+[genqlient](https://github.com/Khan/genqlient) is nice GraphQL client. [ZenQ](https://github.com/alphadose/ZenQ) is a nice queue lib.
 
 [Tutorial on creating go module](https://go.dev/doc/tutorial/create-module) is great intro. [depu](https://github.com/kevwan/depu) is nice for updating dependencies.
 
@@ -165,6 +171,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## Web
 
+- [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [Flamego](https://github.com/flamego/flamego) - Fantastic modular Go web framework with a slim core but limitless extensibility. ([Docs](https://flamego.dev/))
 - [router](https://github.com/gowww/router) - Lightning fast HTTP router.
 - [Nitric](https://github.com/nitrictech/nitric) - Framework for cloud and serverless apps.
@@ -187,7 +194,6 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-fastapi](https://github.com/sashabaranov/go-fastapi) - Library to quickly build APIs.
 - [Gin Swagger](https://github.com/mikkeloscar/gin-swagger) - DRY templates for go-swagger.
 - [Gin-Metrics](https://github.com/penglongli/gin-metrics) - Metrics exporter for Prometheus.
-- [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [chizap](https://github.com/moul/chizap) - Simple zap logging middleware for go-chi.
 - [Bunrouter](https://github.com/uptrace/bunrouter) - Fast and flexible HTTP router for Go. ([Web](https://bunrouter.uptrace.dev/))
 - [go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. ([Article](https://blogtitle.github.io/go-safe-html/))
@@ -577,6 +583,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [YaDAL](https://github.com/senrok/yadal) - Accessing S3, POSIX in the same way. Deeply inspired by Databend's OpenDAL.
 - [Ghostly](https://github.com/Dominic-Wassef/ghostly) - Simple, lightweight, and fast full-stack framework for Go. ([HN](https://news.ycombinator.com/item?id=33570575))
 - [go-sqlite](https://github.com/glebarez/go-sqlite) - Pure-Go SQLite driver for Go (SQLite embedded).
+- [dblens](https://github.com/maragudk/dblens) - HTTP handler for database browsing.
 
 ## ML
 
@@ -2094,3 +2101,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go Workspaces Explained in 5 Minutes](https://www.youtube.com/watch?v=RLtIeZQfrxY)
 - [Golang Standard Library Mind Map](https://nicetomap.com/golang-1.19-standard-library)
 - [typex](https://github.com/dtgorski/typex) - Examine Go types and their transitive dependencies. Export results as TypeScript value objects (or types) declaration.
+- [Tutorial: Developing a RESTful API with Go, JSON Schema validation and OpenAPI docs (2022)](https://dev.to/vearutop/tutorial-developing-a-restful-api-with-go-json-schema-validation-and-openapi-docs-2490)

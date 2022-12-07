@@ -66,3 +66,4 @@
 - ["Diagrammar: Simply Make Interactive Diagrams" by Pontus Granström (2022)](https://www.youtube.com/watch?v=gT9Xu-ctNqI)
 - [Prototype implementation of 2022 mnemonic medium design](https://github.com/andymatuschak/orbit-summer-2022-demo)
 - [Inkbase: Programmable Ink (2022)](https://www.inkandswitch.com/inkbase/) ([HN](https://news.ycombinator.com/item?id=33799512))
+- [Desk](https://github.com/Hihaheho/Desk) - Application platform for your cyberpunk desk.

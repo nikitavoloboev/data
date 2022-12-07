@@ -279,3 +279,4 @@ This in my mind is much nicer than the current model of just typing into a box. 
 - [Stork](https://github.com/robertoszek/pleroma-bot) - Mirror your favorite Twitter accounts in the Fediverse, so you can follow their updates from the comfort of your favorite instance.
 - [Trendagram](https://github.com/advaithhl/Trendagram) - Telegram bot for scheduled Twitter trends.
 - [George Hotz | Exploring Twitter Open Source Code | Scala (2022)](https://www.youtube.com/watch?v=nvtoOxNfDQo)
+- [TwitVault](https://github.com/terhechte/twitvault) - Easily Archive and Search Your Twitter Data with our Syncable Desktop App. ([Web](https://terhechte.github.io/twitvault/))

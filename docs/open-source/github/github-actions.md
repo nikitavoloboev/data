@@ -272,6 +272,7 @@ title: GitHub actions
 - [HTTP Request Action](https://github.com/fjogeleit/http-request-action) - Create HTTP Requests in GitHub Actions.
 - [YAML Update Action](https://github.com/fjogeleit/yaml-update-action) - Update YAML property with dynamic values.
 - [Wait-For-Secrets](https://github.com/step-security/wait-for-secrets) - Publish from GitHub Actions using multi-factor authentication. ([HN](https://news.ycombinator.com/item?id=33884424))
+- [sccache-action](https://github.com/metalbear-co/sccache-action)
 
 ## Go
 

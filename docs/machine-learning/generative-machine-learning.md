@@ -217,3 +217,10 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [I Taught ChatGPT to Invent a Language (2022)](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language) ([HN](https://news.ycombinator.com/item?id=33885153))
 - [Ask HN: What's in for ChatGPT, Stable Diffusion, etc. after dust settles? (2022)](https://news.ycombinator.com/item?id=33892028)
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [The Human's Guide to Competing with GPT (2022)](https://philipkiely.com/essays/compete_with_gpt.html)
+- [Talk = GPT-2 and Whisper and WASM](https://github.com/ggerganov/whisper.cpp/discussions/167) ([HN](https://news.ycombinator.com/item?id=33892087))
+- [Ask HN: How do you cope with existential threat regarding career? (2022)](https://news.ycombinator.com/item?id=33884202)
+- [ChatGPT Raycast extension](https://github.com/abielzulio/chatgpt-raycast)
+- [Prompts for games and world building in ChatGPT (2022)](https://www.carolynzhang.com/chatgpt)
+- [showGPT](https://showgpt.co/) - Guide to unlocking the power of AI and chatGPT.
+- [How to use ChatGPT as founder](https://twitter.com/JamesIvings/status/1600389697418956800)

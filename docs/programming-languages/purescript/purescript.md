@@ -70,3 +70,4 @@ title: PureScript
 - [purescript-codec](https://github.com/garyb/purescript-codec) - General purpose bi-directional codecs.
 - [PureScript and Halogen is better at almost everything (2022)](https://twitter.com/christopherdone/status/1572329195858018307)
 - [PureScript Survey (2022)](https://github.com/purescript/survey)
+- [Payload](https://github.com/hoodunit/purescript-payload) - HTTP server and client library for PureScript.

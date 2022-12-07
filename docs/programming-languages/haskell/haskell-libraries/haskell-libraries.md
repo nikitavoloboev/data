@@ -390,6 +390,7 @@
 - [Open Games](https://github.com/jules-hedges/open-games-hs) - Mathematical structure allowing you to describe game-theoretical games.
 - [incremental-parser](https://github.com/blamario/incremental-parser) - Haskell parsing combinator liibrary that can be fed the input and emit the parsed output incrementally.
 - [Validators](https://github.com/luc-tielen/validators) - Composable validations for your Haskell data types.
+- [harg](https://github.com/alexpeits/harg) - Haskell program configuration using higher kinded data.
 
 ## Notes
 

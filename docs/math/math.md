@@ -418,3 +418,4 @@
 - [What are the most influential math books ever written? (2022)](https://www.reddit.com/r/math/comments/yz8px3/what_are_the_most_influential_maths_books_ever/)
 - [Coding Curves (2022)](https://www.bit-101.com/blog/2022/11/coding-curves/) ([HN](https://news.ycombinator.com/item?id=33743945))
 - [Why is the state of mathematics education so abstract and uninspiring? (2022)](https://news.ycombinator.com/item?id=33751099)
+- [Ask HN: Can you recommend me a book to (re)learn math? (2022)](https://news.ycombinator.com/item?id=33859823)

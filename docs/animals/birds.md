@@ -30,3 +30,4 @@
 - [What Birds Listen for in Birdsong](https://www.scientificamerican.com/article/what-birds-really-listen-for-in-birdsong-its-not-what-you-think/) ([HN](https://news.ycombinator.com/item?id=31233473))
 - [A bird that’s breaking the tree of life (2022)](https://www.newyorker.com/science/elements/the-bizarre-bird-thats-breaking-the-tree-of-life) ([HN](https://news.ycombinator.com/item?id=32191236))
 - [Earbirding – How to Visualize Sounds](http://earbirding.com/blog/specs) ([HN](https://news.ycombinator.com/item?id=32376943))
+- [Magpies – Smart, witty birds](https://www.ouraynews.com/feature-coverage/magpies-smart-witty-birds) ([HN](https://news.ycombinator.com/item?id=33840417))

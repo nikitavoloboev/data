@@ -884,3 +884,4 @@ title: Kubernetes
 - [Barco Streams](https://github.com/barcostreams/barco) - Lightweight & elastic kubernetes-native event streaming system.
 - [Kubermatic KubeOne](https://github.com/kubermatic/kubeone) - Automate cluster operations on all your cloud, on-prem, edge, and IoT environments.
 - [Claudie](https://github.com/Berops/claudie) - Cloud-agnostic managed Kubernetes.
+- [Enclaver](https://github.com/edgebitio/enclaver) - Open source toolkit created to enable easy adoption of software enclaves.

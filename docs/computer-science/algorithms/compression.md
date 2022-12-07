@@ -153,3 +153,4 @@
 - [Brotli-G](https://gpuopen.com/brotli-g-sdk-announce/) - GPU compression/decompression standard for digital assets.
 - [Conflux](https://github.com/transcend-io/conflux) - Zip/unzip files of any size in the browser using streams.
 - [QOIR lossless image file format was explained (2022)](https://nigeltao.github.io/blog/2022/qoir.html)
+- [ripunzip](https://github.com/google/ripunzip) - Tool to unzip files in parallel.

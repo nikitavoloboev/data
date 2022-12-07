@@ -287,3 +287,4 @@
 - [Clojure needs a Rails (2022)](https://blog.janetacarr.com/clojure-needs-a-rails/) ([HN](https://news.ycombinator.com/item?id=32288291))
 - [New Clojure project quick start (2022)](https://blog.michielborkent.nl/new-clojure-project-quickstart.html) ([HN](https://news.ycombinator.com/item?id=32295666))
 - [Morpheus](https://github.com/benedekfazekas/morpheus) - Generate dependency graphs for variables in Clojure(Script) namespaces.
+- [Loopr: A Loop/Reduction Macro for Clojure (2022)](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure) ([HN](https://news.ycombinator.com/item?id=33887813))

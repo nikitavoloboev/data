@@ -87,4 +87,4 @@ Drink coffee on occasions, try not to do it daily as to get actual effects from 
 - [Moccamaster](https://www.moccamaster.eu/)
 - [AnzaCoffee](https://www.anzacoffee.com/)
 - [Wilfa](https://wilfa.co.uk/) - Coffee Equipment and Kitchen Appliances.
-- [Hacking Bluetooth to Brew Coffee from GitHub Actions (2022)](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/) ([Code](https://github.com/mmastrac/brew-a-coffee-demo)) ([Reddit](https://www.reddit.com/r/rust/comments/zchu2c/show_rrust_i_reverseengineered_my_coffeemakers/))
+- [Hacking Bluetooth to Brew Coffee from GitHub Actions (2022)](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/) ([Code](https://github.com/mmastrac/brew-a-coffee-demo)) ([Reddit](https://www.reddit.com/r/rust/comments/zchu2c/show_rrust_i_reverseengineered_my_coffeemakers/)) ([HN](https://news.ycombinator.com/item?id=33855453))

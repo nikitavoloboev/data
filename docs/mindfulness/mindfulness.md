@@ -72,3 +72,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Box Breathing Techniques and Benefits](https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900) ([HN](https://news.ycombinator.com/item?id=33586383))
 - [Science-based tools to reduce stress](https://twitter.com/hubermanlab/status/1592968635643219968)
 - [Box Breathing Technique](https://lassebomh.github.io/box-breathing/) - Visual animation to help with calmness, mindfulness, stress and anxiety. ([HN](https://news.ycombinator.com/item?id=33653540))
+- [Ask HN: How to overcome stage fear / social anxiety (2022)](https://news.ycombinator.com/item?id=33876690)

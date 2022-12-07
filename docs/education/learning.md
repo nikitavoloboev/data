@@ -257,3 +257,4 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [Buildspace](https://buildspace.so/) - Explore promising domains and ship meaningful products. ([Twitter](https://twitter.com/_buildspace)) ([Tweet](https://twitter.com/FarzaTV/status/1591131253410918400))
 - [Ask HN: Do you recall any book or course that made a topic finally click? (2022)](https://news.ycombinator.com/item?id=33593631)
 - [Ask HN: What are your favorite books/courses of 2022? Why?](https://news.ycombinator.com/item?id=33688207)
+- [Memorisely](https://www.memorisely.com/) - Live UX/UI Bootcamps & Video Classes.

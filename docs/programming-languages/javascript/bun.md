@@ -4,6 +4,8 @@ title: Bun
 
 # [Bun](https://bun.sh/)
 
+[Elysia](https://github.com/elysiajs/elysia) is nice web framework.
+
 ## Links
 
 - [HN: Bun](https://news.ycombinator.com/item?id=31993429) ([Tweet](https://twitter.com/jarredsumner/status/1544460933753229312)) ([Lobsters](https://lobste.rs/s/5ebzbq/bun_is_fast_all_one_javascript_runtime))
@@ -33,3 +35,4 @@ title: Bun
 - [Bun AWS Lambda](https://github.com/Jarred-Sumner/bun-aws-lambda)
 - [bkg](https://github.com/TheSeyan/bkg) - Package Bun apps into a single executable.
 - [Bun Tea](https://github.com/one-aalam/bun-tea) - Fast, Bun-powered, and Bun-only(for now) Web API framework with full Typescript support.
+- [Elysia](https://github.com/elysiajs/elysia) - Fast and friendly Bun web framework.

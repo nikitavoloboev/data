@@ -142,7 +142,7 @@
 - [goldmark-mermaid](https://github.com/abhinav/goldmark-mermaid) - Extension for the goldmark Markdown parser that adds support for Mermaid diagrams.
 - [cbfmt](https://github.com/lukas-reineke/cbfmt) - Tool to format codeblocks inside markdown and org documents.
 - [CommonMark](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript.
-- [Djot](https://djot.net/) - Light markup syntax. It derives most of its features from commonmark, but it fixes a few things. ([Code](https://github.com/jgm/djot))
+- [Djot](https://djot.net/) - Light markup syntax. It derives most of its features from commonmark, but it fixes a few things. ([Code](https://github.com/jgm/djot)) ([HN](https://news.ycombinator.com/item?id=33867636))
 - [VS Code Markdown Language Service](https://github.com/microsoft/vscode-markdown-languageservice)
 - [mdast-util-to-markdown](https://github.com/syntax-tree/mdast-util-to-markdown) - mdast utility that turns a syntax tree into markdown.
 - [Introducing the Markdown Language Server](https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server) ([Lobsters](https://lobste.rs/s/xvmr72/introducing_markdown_language_server))

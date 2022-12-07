@@ -158,3 +158,4 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Simplifying reactivity with solidJS - Dan Jutan (2022)](https://www.youtube.com/watch?v=qB5jK-KeXOs)
 - [Kobalte](https://github.com/fabien-ml/kobalte) - UI toolkit for building accessible web apps and design systems with SolidJS.
 - [Modular Forms](https://github.com/fabian-hiller/modular-forms) - Modular form library for SolidJS.
+- [Babel Plugin Solid Undestructure](https://github.com/orenelbaum/babel-plugin-solid-undestructure) - Babel plugin allows you to destructure your props in your Solid components without losing reactivity.

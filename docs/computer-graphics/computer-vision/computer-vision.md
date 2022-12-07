@@ -1021,3 +1021,4 @@
 - [ODaM](https://github.com/LdDl/odam) - Object detection and Monitoring.
 - [Token Merging: Your ViT But Faster (2022)](https://arxiv.org/abs/2210.09461) ([Code](https://github.com/facebookresearch/ToMe))
 - [NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies (2022)](https://www.xxlong.site/NeuralUDF/) ([Code](https://github.com/xxlong0/NeuralUDF))
+- [Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars (2022)](https://mrtornado24.github.io/Next3D/) ([Code](https://github.com/MrTornado24/Next3D))

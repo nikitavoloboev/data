@@ -730,3 +730,5 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Apibara](https://github.com/apibara/apibara) - Composable streams of web3 data.
 - [Uniswap-Rs](https://github.com/DaniPopes/uniswap-rs) - Unofficial Rust SDK library for Uniswap smart contracts.
 - [What in the Ethereum application ecosystem excites me (2022)](https://vitalik.ca/general/2022/12/05/excited.html) ([HN](https://news.ycombinator.com/item?id=33878216))
+- [ETH-XMR Atomic Swaps](https://github.com/AthanorLabs/atomic-swap)
+- [Tornado Cash Alternatives (2022)](https://www.reddit.com/r/ethereum/comments/zebzbd/has_anyone_tried_tornado_cash_alternatives/)

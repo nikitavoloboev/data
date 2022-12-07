@@ -8,6 +8,8 @@
 
 [Try many ideas. Many will fail, some will succeed. The goal is to find the right mix of successful changes to ensure the long-term health and growth of the business.](https://twitter.com/esthercrawford/status/1590386711179464705)
 
+Wish more startups did calendar timelines with big events [like Amie](https://amie.so/calendar).
+
 ## Notes
 
 - [Put a price on it](https://www.youtube.com/watch?v=0CDXJ6bMkMY). And sell.

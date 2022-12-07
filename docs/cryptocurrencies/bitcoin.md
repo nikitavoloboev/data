@@ -201,3 +201,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Spiral](https://spiral.xyz/) - Making bitcoin more than an investment.
 - [Rust RPC client for Bitcoin Core JSON-RPC](https://github.com/rust-bitcoin/rust-bitcoincore-rpc)
 - [Alby](https://github.com/getAlby/lightning-browser-extension) - Bitcoin Lightning Browser extension that connects to different wallet interfaces and brings deep lightning integration to the web.
+- [Open Bitcoin Wallet](https://github.com/nbd-wtf/obw) - Android Bitcoin and Lightning wallet.

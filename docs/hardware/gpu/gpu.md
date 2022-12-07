@@ -134,3 +134,4 @@ title: GPU
 - [Beyond GPU unified memory: fully unified address spaces (2022)](https://threedots.ovh/blog/2022/11/beyond-gpu-unified-memory-fully-unified-address-spaces/)
 - [Tales of the M1 GPU (2022)](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/) ([HN](https://news.ycombinator.com/item?id=33789940)) ([Reddit](https://www.reddit.com/r/rust/comments/z80mn6/tales_of_the_m1_gpu/))
 - [GPU-IO](https://github.com/amandaghassaei/gpu-io) - GPU-accelerated computing library for physics simulations and other mathematical calculations. ([Examples](https://apps.amandaghassaei.com/gpu-io/examples/))
+- [Apple GPU drivers now in Asahi Linux (2022)](https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/) ([HN](https://news.ycombinator.com/item?id=33891197))

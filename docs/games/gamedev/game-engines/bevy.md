@@ -81,3 +81,4 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [Bevy Kira audio](https://github.com/NiklasEi/bevy_kira_audio) - Bevy plugin to use Kira for game audio.
 - [Bevy common assets](https://github.com/NiklasEi/bevy_common_assets) - Collection of asset loaders for common file formats.
 - [Bevy Magic Light 2D](https://github.com/zaycev/bevy-magic-light-2d) - Experimental dynamic 2D global illumination system.
+- [Bevy Quickmenu](https://github.com/terhechte/bevy_quickmenu) - Simple-to-use menu system for Bevy which supports gamepad, keyboard or mouse navigation.

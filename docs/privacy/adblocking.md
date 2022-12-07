@@ -56,3 +56,4 @@ Use [Wipr](https://giorgiocalderolla.com/wipr.html) on [iOS](../operating-system
 - [SponsorBlock Server](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion).
 - [Spotify Ad Block](https://github.com/abba23/spotify-adblock)
 - [An extensive tutorial on how to setup a Pi-Hole (2022)](https://www.crosstalksolutions.com/the-worlds-greatest-pi-hole-and-unbound-tutorial-2023/) ([HN](https://news.ycombinator.com/item?id=33787505))
+- [How To Setup a Wireguard VPN Server with PiHole (2022)](https://marcocetica.com/posts/wireguard_pihole/)

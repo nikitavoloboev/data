@@ -225,3 +225,4 @@
 - [mergi](https://github.com/noelyahan/mergi) - Go library for image programming (merge, crop, resize, watermark, animate, ease, transit).
 - [Mort](https://github.com/aldor007/mort) - Storage and image processing server written in Go.
 - [JPEG Decoder in Rust](https://github.com/wangrunji0408/jpeg)
+- [Octavia noise](https://github.com/lorenSchmidt/fractal_cell_noise) - Fractal noise algorithm most closely related to cellular noise algorithms such as worley noise.
