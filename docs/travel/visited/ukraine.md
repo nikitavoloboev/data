@@ -184,3 +184,4 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 - [Reporting from Ukraine - YouTube](https://www.youtube.com/c/ReportingfromUkraine/videos)
 - [The Russia Contingency with Michael Kofman Archives (2022)](https://warontherocks.com/episode/therussiacontingency/)
 - [Ukraine Taxes CLI](https://github.com/mxmCherry/taxes) - Quarterly tax calculator for simplified Ukrainian taxation system.
+- [Volodymyr Zelensky Is TIME's 2022 Person of the Year](https://time.com/person-of-the-year-2022-volodymyr-zelensky/)

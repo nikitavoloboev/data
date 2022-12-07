@@ -113,3 +113,4 @@ title: Shaders
 - [Shader Gradient](https://github.com/ruucm/shadergradient) - Curated and customizable 3d gradient package, in modern design tools and React.
 - [ShaderDev](https://github.com/ttddee/ShaderDev) - Desktop application for developing GLSL compute shaders for the purpose of image processing.
 - [Fast transformer inference with Metal Performance Shaders (2022)](https://explosion.ai/blog/metal-performance-shaders)
+- [Spherical Harmonics](https://stevejtrettel.site/code/2022/spherical-harmonics/) ([Tweet](https://twitter.com/stevejtrettel/status/1600211863966429185))

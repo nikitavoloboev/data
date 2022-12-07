@@ -4,7 +4,7 @@ title: SQL
 
 # [SQL](http://en.wikipedia.org/wiki/SQL)
 
-[SQL Teaching](https://www.sqlteaching.com/) is great SQL intro.
+[SQLBolt](https://sqlbolt.com/) & [SQL Teaching](https://www.sqlteaching.com/) are nice SQL intros.
 
 [dsq](https://github.com/multiprocessio/dsq) is neat. [SQL Indexing and Tuning book](https://use-the-index-luke.com/) has many tips. [PRQL](https://prql-lang.org/) & [GlueSQL](https://github.com/gluesql/gluesql) seem nice too.
 

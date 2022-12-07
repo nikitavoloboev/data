@@ -104,3 +104,4 @@ title: Blender
 - [CharacterDriven-BlenderAddon](https://github.com/yanchxx/CDBA) - Blender addon uses ROMP to extract human's 3D poses from image, video or webcam and drive your own 3D character.
 - [Blender Apps (2022)](https://code.blender.org/2022/11/blender-apps/)
 - [Blender Graphics: Lenses and Optics](https://arachnoid.com/blender_graphics/index.html)
+- [Blender 3.4](https://wiki.blender.org/wiki/Reference/Release_Notes/3.4) ([HN](https://news.ycombinator.com/item?id=33894926))
