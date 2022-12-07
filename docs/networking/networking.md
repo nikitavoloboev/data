@@ -556,3 +556,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [A Theory of Composing Protocols (2022)](https://programming-journal.org/2023/7/6/)
 - [Cloudflare servers don't own IPs anymore so how do they connect to the internet? (2022)](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/) ([HN](https://news.ycombinator.com/item?id=33742563)) ([Tweet](https://twitter.com/majek04/status/1596175679317372928))
 - [NFStream](https://github.com/nfstream/nfstream) - Flexible Network Data Analysis Framework.
+- [dora](https://github.com/bluecatengineering/dora) - DHCP server written in Rust using tokio.
