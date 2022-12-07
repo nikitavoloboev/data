@@ -779,6 +779,7 @@
 - [Disco Rust](https://github.com/ankane/disco-rust) - Recommendations for Rust using collaborative filtering.
 - [Burn](https://github.com/burn-rs/burn) - Deep learning framework with extreme flexibility written in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/ynquym/announcing_burn_new_deep_learning_framework_with/))
 - [FFSVM-Rust](https://github.com/ralfbiedert/ffsvm-rust) - Really Fast Support Vector Machine.
+- [rusTy](https://github.com/dluman/rusTy) - Rust bindings for the spaCy library.
 
 ## macOS
 
@@ -2369,6 +2370,7 @@
 - [metastruct](https://github.com/sigp/metastruct) - Abstractions for iterating and mapping over struct fields.
 - [llq](https://github.com/glowcoil/llq) - Wait-free single-producer single-consumer linked-list queue with individually reusable nodes. ([Article](https://glowcoil.com/posts/llq/))
 - [Fragile](https://github.com/mitsuhiko/fragile) - Utility wrapper to send non send types to other threads safely.
+- [regress](https://github.com/ridiculousfish/regress) - REGex in Rust with EcmaScript Syntax.
 
 ## Cargo Plugins
 

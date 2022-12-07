@@ -1,6 +1,6 @@
 # Newsletters
 
-[listmonk](https://listmonk.app/) is great.
+[Loops](https://loops.so/) & [listmonk](https://listmonk.app/) are great.
 
 ## Interesting
 

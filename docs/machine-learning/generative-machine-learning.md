@@ -215,3 +215,5 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [ShareGPT](https://sharegpt.com/) - Share your wildest ChatGPT conversations with one click. ([Tweet](https://twitter.com/steventey/status/1599816553490366464))
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)
 - [I Taught ChatGPT to Invent a Language (2022)](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language) ([HN](https://news.ycombinator.com/item?id=33885153))
+- [Ask HN: What's in for ChatGPT, Stable Diffusion, etc. after dust settles? (2022)](https://news.ycombinator.com/item?id=33892028)
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)

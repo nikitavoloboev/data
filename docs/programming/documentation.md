@@ -1,6 +1,6 @@
 # Documentation
 
-Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to write. [Markdoc](https://markdoc.io/) & [nbdoc](https://twitter.com/HamelHusain/status/1507383929774305282) look nice too.
+Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to write. [Mint](https://github.com/mintlify/mint), [Markdoc](https://markdoc.io/) & [nbdoc](https://twitter.com/HamelHusain/status/1507383929774305282) look nice too.
 
 [React Docs](https://beta.reactjs.org/) is a great example of what great docs are. I love their illustrations.
 

@@ -1020,3 +1020,4 @@
 - [Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild (2022)](https://arxiv.org/abs/2207.10660) ([Code](https://github.com/facebookresearch/omni3d))
 - [ODaM](https://github.com/LdDl/odam) - Object detection and Monitoring.
 - [Token Merging: Your ViT But Faster (2022)](https://arxiv.org/abs/2210.09461) ([Code](https://github.com/facebookresearch/ToMe))
+- [NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies (2022)](https://www.xxlong.site/NeuralUDF/) ([Code](https://github.com/xxlong0/NeuralUDF))

@@ -312,3 +312,4 @@ title: HTTP
 - [CurliPie](https://github.com/hongquan/CurliPie) - Convert cURL command to HTTPie.
 - [httpYac](https://github.com/AnWeber/httpyac) - Quickly and easily send REST, SOAP, GraphQL and gRPC requests. ([Docs](https://httpyac.github.io/)) ([Docs Code](https://github.com/httpyac/httpyac.github.io)) ([VSCode Extension](https://github.com/AnWeber/vscode-httpyac))
 - [Checking if a Certificate is Revoked: How Hard Can It Be? (2022)](https://www.agwa.name/blog/post/checking_if_a_certificate_is_revoked_how_hard_can_it_be)
+- [WebDAV Server in Rust](https://github.com/miquels/webdav-server-rs)

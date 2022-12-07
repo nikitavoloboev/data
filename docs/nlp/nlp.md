@@ -712,3 +712,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [ChatGPT nice examples](https://twitter.com/sytelus/status/1598523136177508356)
 - [WhatsApp-GPT](https://github.com/danielgross/whatsapp-gpt)
 - [What ChatGPT features/improvements do you want?](https://twitter.com/sama/status/1599457816494092289)
+- [Summarize-Webpage](https://github.com/akashp1712/summarize-webpage) - Small NLP SAAS project that summarize a webpage.

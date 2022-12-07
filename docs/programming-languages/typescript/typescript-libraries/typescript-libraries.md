@@ -42,6 +42,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [groqd](https://github.com/FormidableLabs/groqd) - Schema-unaware, runtime and type-safe query builder for GROQ.
 - [strema](https://github.com/alexharri/strema) - Schema builder using TypeScript template strings.
 - [onetyped](https://github.com/sachinraja/onetyped) - Universal way to describe data.
+- [ts-sql-query](https://github.com/juanluispaz/ts-sql-query) - Type-safe query builder that provides a way to build dynamic SQL queries in a type-safe way.
 
 ## Web
 
@@ -810,3 +811,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Documen.ts](https://github.com/d-fischer/documen.ts) - TypeScript documentation generator.
 - [dets](https://github.com/FlorianRappl/dets) - Generate a single declaration file for your TypeScript project.
 - [How to build, test, and publish a TypeScript npm package in 2022](https://www.strictmode.io/articles/build-test-and-publish-npm-package-2022)
+- [pnpm-deduplicate](https://github.com/ocavue/pnpm-deduplicate) - Remove duplicate dependencies from pnpm-lock.yaml.

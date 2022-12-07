@@ -1,6 +1,6 @@
 # Bash
 
-It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any shell code you write.
+It's useful to use [ShellCheck](https://www.shellcheck.net) to check any shell code you write.
 
 ## Notes
 
@@ -151,3 +151,4 @@ source script
 -   [Beautysh](https://github.com/lovesegfault/beautysh) - Bash beautifier for the masses.
 -   [Bash 5.2 released](https://lwn.net/Articles/909596/) ([Lobsters](https://lobste.rs/s/dceccl/bash_5_2_released))
 -   [Why doesn't Bash's `set -e` do what I expected?](http://mywiki.wooledge.org/BashFAQ/105) ([HN](https://news.ycombinator.com/item?id=33116310))
+-   [Bash Style Guide](https://github.com/bahamas10/bash-style-guide)
