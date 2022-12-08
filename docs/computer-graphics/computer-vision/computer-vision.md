@@ -4,6 +4,8 @@
 
 [Embedding Methods for Image Search](https://www.pinecone.io/learn/image-search/) is a nice read.
 
+[Rerun](https://www.rerun.io/) is great CV visualization tool.
+
 ## Links
 
 - [OpenCV](https://github.com/opencv/opencv) - Open Source Computer Vision Library. ([Web](https://opencv.org/)) ([OpenCV Course](https://www.youtube.com/watch?v=oXlwWbU8l2o))
@@ -1025,3 +1027,4 @@
 - [PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to 6 DoF Tracking (2022)](https://arxiv.org/abs/2209.07589) ([Code](https://github.com/nv-nguyen/pizza))
 - [Diffusion Models for Medical Image Analysis: A Comprehensive Survey (2022)](https://arxiv.org/abs/2211.07804) ([Code](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging))
 - [RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data (2022)](https://arxiv.org/abs/2210.12634) ([Code](https://github.com/ZhanYang-nwpu/RSVG-pytorch))
+- [Rerun](https://www.rerun.io/) - Open source visualization infrastructure for computer vision and robotics.

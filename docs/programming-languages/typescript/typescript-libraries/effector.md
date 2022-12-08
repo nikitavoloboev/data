@@ -20,3 +20,4 @@ title: Effector
 - [The best part of Effector](https://dev.to/effector/the-best-part-of-effector-4c27)
 - [Effector Playground](https://share.effector.dev/) ([Code](https://github.com/effector/repl))
 - [Effector localStorage](https://github.com/ilyalesik/effector-localstorage)
+- [Effector Factorio](https://github.com/Kelin2025/effector-factorio) - Simplest way to write re-usable features with React + Effector.

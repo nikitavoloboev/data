@@ -72,6 +72,7 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [If you want to learn programming better, don't immediately go and search for solution. Try and solve problem yourself given what you know. Then search and compare solutions.](https://www.youtube.com/watch?v=cgXfWo42gig)
 - [Errors compound. Composing 6 such parts into a bigger system results in a system that is broken 50% of the time. Neglecting the error path scales poorly.](https://twitter.com/tomas_mikula/status/1580114997656825856)
 - [Developers are drawn to complexity like moths to a flame, often with the same outcome.](https://twitter.com/nsilnitsky/status/1590633873993388033)
+- [Don't freak out about your code being too slow until you've actually measured it to see if it's a hot path.](https://twitter.com/pcwalton/status/1600561023013961728)
 
 ## Links
 

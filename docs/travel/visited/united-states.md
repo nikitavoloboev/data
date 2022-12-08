@@ -179,3 +179,4 @@ I try to avoid pointless politics as much as possible but do like [John Mearshei
 - [The Bedrock Geology of North America](https://www.reddit.com/r/dataisbeautiful/comments/z4u9yr/oc_the_bedrock_geology_of_north_america/)
 - [Why 80% of Americans Live East of This Line](https://www.youtube.com/watch?v=wwJABxjcvUc)
 - [Citation](https://uslaw.link/) - Fast, stand-alone legal citation extractor. ([Code](https://github.com/unitedstates/citation))
+- [How did Delaware end up the de facto arbiter of US corporate law, historically? (2022)](https://www.reddit.com/r/AskEconomics/comments/zfjg84/how_did_delaware_end_up_the_de_facto_arbiter_of/)

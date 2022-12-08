@@ -999,3 +999,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Walk with fastai - the missing pieces for success](https://thezachmueller.gumroad.com/l/walkwithfastai) ([Code](https://github.com/muellerzr/Walk-with-fastai-revisited))
 - [Awesome NVIDIA Isaac Gym](https://github.com/wangcongrobot/awesome-isaac-gym) - Curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources.
 - [Deep Learning Fundamentals - Lightning AI](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
+- [Transformers for software engineers (2022)](https://blog.nelhage.com/post/transformers-for-software-engineers/)

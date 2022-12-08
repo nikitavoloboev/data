@@ -227,3 +227,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [showGPT](https://showgpt.co/) - Guide to unlocking the power of AI and chatGPT.
 - [How to use ChatGPT as founder](https://twitter.com/JamesIvings/status/1600389697418956800)
 - [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
+- [Pair Programming with AI: Writing a Distributed, Fault-Tolerant Redis Client using ChatGPT (2022)](https://medium.com/@saileshmukil/pair-programming-with-ai-writing-a-distributed-fault-tolerant-redis-client-using-chatgpt-239dc0a90550)

@@ -2376,6 +2376,7 @@
 - [ssh-rev-exec](https://github.com/KOBA789/ssh-rev-exec) - Enables the remote host to run command in the local host via SSH agent socket.
 - [JumpRope](https://github.com/josephg/jumprope-rs) - Data structure for efficiently editing large strings, or for processing editing traces.
 - [polling](https://github.com/smol-rs/polling) - Portable interface to epoll, kqueue, event ports, and wepoll.
+- [tree_magic](https://github.com/aahancoc/tree_magic) - Determines the MIME type of a file by traversing a file type tree.
 
 ## Cargo Plugins
 

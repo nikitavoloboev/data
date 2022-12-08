@@ -9,6 +9,7 @@ Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage)
 ## Websites
 
 - [Column](https://column.com/)
+- [Rerun](https://www.rerun.io/)
 - [Glass](https://glass.photo/)
 - [Codux](https://www.codux.com/)
 - [Amie](https://amie.so/)
