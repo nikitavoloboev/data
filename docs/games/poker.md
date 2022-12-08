@@ -1,5 +1,7 @@
 # Poker
 
+[Noam Brown](https://www.cs.cmu.edu/~noamb/) does interesting research on [solving poker](https://www.youtube.com/watch?v=2oHH4aClJQs).
+
 ## Links
 
 - [Liv Boeree | The Science Behind Poker (2016)](https://www.youtube.com/watch?v=iw2PcomuYGU)
@@ -33,3 +35,4 @@
 - [Deep mind poker bot for pokerstars, partypoker and GGPoker](https://github.com/dickreuter/Poker)
 - [Deuces](https://github.com/worldveil/deuces) - Pure Python poker hand evaluation library.
 - [Favorite poker movies](https://www.reddit.com/r/poker/comments/yy0e0u/favorite_poker_movies/)
+- [Noam Brown: AI vs Humans in Poker and Games of Strategic Negotiation (2022)](https://www.youtube.com/watch?v=2oHH4aClJQs)

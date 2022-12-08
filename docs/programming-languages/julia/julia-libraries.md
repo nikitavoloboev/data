@@ -779,6 +779,7 @@
 - [AdvancedHMC.jl](https://github.com/TuringLang/AdvancedHMC.jl) - Robust, modular and efficient implementation of advanced Hamiltonian Monte Carlo algorithms.
 - [PlotlyLight](https://github.com/JuliaComputing/PlotlyLight.jl) - Plotly.js via Julia made easy.
 - [Tally](https://github.com/thofma/Tally.jl)
+- [Sylvia](https://github.com/dalum/Sylvia.jl) - Simple symbolic library.
 
 ## Links
 

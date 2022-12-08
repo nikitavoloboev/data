@@ -489,3 +489,4 @@ I do write Rust, but tried out [Zig](zig/zig.md) when I want to write embedded c
 - [Right and wrong: ten choices in language design (2022)](https://arxiv.org/abs/2211.16597) ([Lobsters](https://lobste.rs/s/6eh9oh/right_wrong_ten_choices_language_design))
 - [noulith](https://github.com/betaveros/noulith) - Practice writing small programming languages.
 - [CSpell](https://github.com/streetsidesoftware/cspell) - Spell Checker for Code.
+- [gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.

@@ -221,3 +221,4 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [Dashboard Design Patterns](https://dashboarddesignpatterns.github.io/patterns.html)
 - [10 Interface Ideas for Chat Applications](https://prabros.com/chat-ui-ideas/)
 - [You don't need live chat on your website (2022)](https://timharek.no/blog/you-dont-need-chat-on-your-site/) ([HN](https://news.ycombinator.com/item?id=33904017))
+- [Ask HN: Are things getting more convenient but less satisfying? (2022)](https://news.ycombinator.com/item?id=33907357)
