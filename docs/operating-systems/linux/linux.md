@@ -643,3 +643,4 @@ title: Linux
 - [Linux Notification Center](https://github.com/phuhl/linux_notification_center) - Notification daemon/center for linux.
 - [Create an embedded Linux system using Buildroot (2019)](https://marcocetica.com/posts/buildroot-tutorial/)
 - [How to use the Linux AIO feature](https://github.com/littledan/linux-aio)
+- [Adventures in Creating a Minimal Alpine Linux Installer (2022)](https://bt.ht/alpine/)

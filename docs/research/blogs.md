@@ -27,7 +27,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Armin Ronacher](https://lucumr.pocoo.org/)
 - [Dan Abramov](https://overreacted.io) ([Code](https://github.com/gaearon/overreacted.io))
 - [Nicolas Moutschen](https://n14n.dev/)
-- [Paul Graham Essays](http://www.paulgraham.com/articles.html)
+- [Paul Graham Essays](http://www.paulgraham.com/articles.html) ([Prettier](https://prettygraham.com/))
 - [Anthony Fu](https://antfu.me/posts)
 - [Ryan Dahl](https://tinyclouds.org/)
 - [Danny Gratzer](https://jozefg.bitbucket.io/about.html)
@@ -240,6 +240,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Robert Heaton](https://robertheaton.com/)
 - [Nigel Tao](https://nigeltao.github.io/)
 - [Marco Cetica](https://marcocetica.com/)
+- [Bradley Taunt](https://bt.ht/)
 
 ## Notes
 

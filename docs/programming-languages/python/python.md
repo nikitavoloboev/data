@@ -562,3 +562,4 @@ for i, _ in enumerate(nums):
 - [Data-oriented Programming in Python (2022)](https://www.moderndescartes.com/essays/data_oriented_python/)
 - [What would you add to Python 4.0 (2022)](https://www.reddit.com/r/Python/comments/zcr6o0/if_theres_gonna_be_a_python_40_one_day_whats_a/)
 - [posy](https://github.com/njsmith/posy) - Project-oriented Python workflow manager.
+- [Codon](https://github.com/exaloop/codon) - High-performance Python compiler using LLVM. ([HN](https://news.ycombinator.com/item?id=33908576))
