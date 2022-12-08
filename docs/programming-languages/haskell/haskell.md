@@ -491,3 +491,5 @@ title: Haskell
 - [Haskell-Lexer](https://github.com/yav/haskell-lexer) - Fully compliant Haskell 98 lexer.
 - [Haskell Lens Tutorial by Exercises (2019)](https://williamyaoh.com/posts/2019-04-25-lens-exercises.html)
 - [Looping Through Functional Loops (2022)](https://hackmd.io/@CJO5VbycTsyzjGBytbwezQ/S1b1j0vNs#/)
+- [Building terminal application in Haskell](https://github.com/rebeccaskinner/presentations/tree/master/building-a-terminal-application-in-haskell)
+- [Rebecca Skinner's presentations](https://github.com/rebeccaskinner/presentations)

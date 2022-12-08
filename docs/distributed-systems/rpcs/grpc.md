@@ -8,6 +8,8 @@ title: gRPC
 
 [Evans](https://github.com/ktr0731/evans) is nice gRPC Go client. [DRPC](https://github.com/storj/drpc) is interesting alternative to gRPC.
 
+[Ezy](https://www.getezy.dev/) seems nice too.
+
 ## Links
 
 - [Go gRPC Middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Interceptor chaining, auth, logging, retries and more.
@@ -139,3 +141,4 @@ title: gRPC
 - [gRPC Demystified](https://github.com/akshayjshah/grpc-demystified) - Build a gRPC server in 7 minutes - using just the Go standard library.
 - [Learn to Build Production-Grade Microservices with gRPC and Go (2022)](https://medium.com/codex/learn-to-build-production-grade-microservices-with-grpc-and-go-b665243a59a8)
 - [gRPC Microservices in Go (2022)](https://www.manning.com/books/grpc-microservices-in-go)
+- [Ezy](https://www.getezy.dev/) - Fully-featured desktop gRPC/gRPC-Web client. ([Code](https://github.com/getezy/ezy)) ([HN](https://news.ycombinator.com/item?id=33906520))

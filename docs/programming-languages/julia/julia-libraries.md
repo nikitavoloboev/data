@@ -128,6 +128,7 @@
 - [ProbNumDiffEq.jl](https://github.com/nathanaelbosch/ProbNumDiffEq.jl) - Probabilistic Numerical Differential Equation solvers via Bayesian filtering and smoothing.
 - [Conductor.jl](https://github.com/wsphillips/Conductor.jl) - Platform for quickly and flexibly building high-performance, multi-scale neuronal network models in Julia.
 - [Fluxperimental.jl](https://github.com/FluxML/Fluxperimental.jl) - Experimental features for Flux.jl.
+- [MadDiff.jl](https://github.com/sshin23/MadDiff.jl) - Automatic differentiation and algebraic modeling package.
 
 ## Math
 

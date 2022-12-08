@@ -6,7 +6,7 @@ I [share](../sharing/sharing.md) most things on [Twitter](https://twitter.com/ni
 
 <!-- I do monthly reflections on life here. Comes as part of [my newsletter](https://buttondown.email/nikitavoloboev). -->
 
-## 2022
+## [2022](2022/2022.md)
 
 - [January](2022/2022-january.md)
 - [February](2022/2022-february.md)

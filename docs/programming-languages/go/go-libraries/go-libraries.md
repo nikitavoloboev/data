@@ -381,6 +381,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [TTL](https://github.com/devnw/ttl) - Time To Live Cache Implementation for Go.
 - [azugo](https://github.com/azugo/azugo) - Opinionated Go web framework based on fasthttp and inspired by go-chi.
 - [go-vhost](https://github.com/inconshreveable/go-vhost) - HTTP/TLS hostname multiplexing library for Go.
+- [getty](https://github.com/AlexStocks/getty) - Netty like asynchronous network I/O library based on tcp/udp/websocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on zookeeper/etcd.
 
 ## GraphQL
 
@@ -1933,6 +1934,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Gogu](https://github.com/esimov/gogu) - Comprehensive, reusable and efficient concurrent-safe utility functions and data structures library.
 - [Go FTP Server library](https://github.com/fclairamb/ftpserverlib)
 - [Transport](https://github.com/vmware/transport-go) - Full stack, simple, fast, expandable application event bus.
+- [FSS3](https://github.com/aymanbagabas/fss3) - S3 filesystem abstraction layer for Go.
 
 ## Links
 

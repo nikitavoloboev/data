@@ -254,3 +254,4 @@
 - [Immutable Collections should be Your Default (2022)](https://alexn.org/blog/2022/10/27/immutable-collections-your-default/)
 - [ScalaZ and Cats](https://github.com/fosskers/scalaz-and-cats) - Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).
 - [Peeking inside the engine of ZIO SQL (2022)](https://www.slideshare.net/JaroslavRegec1/peeking-inside-the-engine-of-zio-sqlpdf)
+- [Smithy Translate](https://github.com/disneystreaming/smithy-translate) - Tooling that enables converting to and from Smithy. ([Reddit](https://www.reddit.com/r/scala/comments/zftfwf/smithytranslate_a_cli_tool_to_turn_openapi_specs/))

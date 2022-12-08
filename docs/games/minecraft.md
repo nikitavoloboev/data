@@ -145,3 +145,4 @@ title: Minecraft
 - [Minecraft-Data-Rs](https://github.com/Trivernis/minecraft-data-rs) - Rust library to access minecraft data.
 - [SwiftUICraft](https://github.com/aheze/SwiftUICraft) - Minecraft but made with SwiftUI.
 - [Convert SimCity 2000 cities into Minecraft worlds](https://github.com/jgosar/mine-city-2000) ([HN](https://news.ycombinator.com/item?id=33799526))
+- [I liberate the ending to Minecraft from Microsoft and give it to you (2022)](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend) ([HN](https://news.ycombinator.com/item?id=33904251))

@@ -4,6 +4,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 [tsup](https://tsup.egoist.sh/) is great too for bundling TS libs.
 
+[Kysely](https://github.com/koskimas/kysely) is nice for doing DB queries.
+
 ## DB
 
 - [cachified](https://github.com/Xiphe/cachified) - Wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support.

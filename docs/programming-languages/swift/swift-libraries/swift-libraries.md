@@ -598,6 +598,7 @@
 - [SimpleToast](https://github.com/sanzaru/SimpleToast) - Simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI.
 - [Engine](https://github.com/nathantannar4/Engine) - Performance driven framework for developing SwiftUI frameworks and apps.
 - [UIToolz](https://github.com/flowtoolz/UIToolz) - Programmatic UI in Swift.
+- [SwiftUI Overlay Container](https://github.com/fatbobman/SwiftUIOverlayContainer) - Highly customizable view container components for SwiftUI.
 
 ## Test
 

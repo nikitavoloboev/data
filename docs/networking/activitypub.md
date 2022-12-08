@@ -72,3 +72,5 @@ title: ActivityPub
 - [Takahē](https://jointakahe.org/) - Efficient ActivityPub Server, for small installs with multiple domains. ([HN](https://news.ycombinator.com/item?id=33731739))
 - [Go-Fed](https://go-fed.org/) - ActivityPub in Go. ([HN](https://news.ycombinator.com/item?id=33735101))
 - [Chatter Net](https://github.com/chatternet/chatternet-client-http) - Decentralized semantic web built atop Activity Pub.
+- [Tranquility](https://github.com/aumetra/tranquility) - Small ActivityPub server written in Rust.
+- [Understanding A Protocol (2022)](https://www.aeracode.org/2022/12/05/understanding-a-protocol/)

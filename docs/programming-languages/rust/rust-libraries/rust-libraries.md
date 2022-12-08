@@ -482,6 +482,7 @@
 - [Polyanya](https://github.com/vleue/polyanya) - Compromise-free Pathfinding on a Navigation Mesh.
 - [me3](https://github.com/garyttierney/me3) - Framework for modding and instrumenting games.
 - [Backroll](https://github.com/HouraiTeahouse/backroll-rs) - Pure Rust implementation of GGPO rollback networking library.
+- [durian](https://github.com/spoorn/durian) - Client-server networking library built on top of the QUIC protocol. ([Reddit](https://www.reddit.com/r/rust/comments/zfseve/durian_a_highlevel_general_purpose_clientserver/))
 
 ## GraphQL
 
@@ -2372,6 +2373,9 @@
 - [Fragile](https://github.com/mitsuhiko/fragile) - Utility wrapper to send non send types to other threads safely.
 - [regress](https://github.com/ridiculousfish/regress) - REGex in Rust with EcmaScript Syntax.
 - [bittle](https://github.com/udoprog/bittle) - Zero-cost bitsets over native Rust types.
+- [ssh-rev-exec](https://github.com/KOBA789/ssh-rev-exec) - Enables the remote host to run command in the local host via SSH agent socket.
+- [JumpRope](https://github.com/josephg/jumprope-rs) - Data structure for efficiently editing large strings, or for processing editing traces.
+- [polling](https://github.com/smol-rs/polling) - Portable interface to epoll, kqueue, event ports, and wepoll.
 
 ## Cargo Plugins
 

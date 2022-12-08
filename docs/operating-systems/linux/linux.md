@@ -642,3 +642,4 @@ title: Linux
 - [Ask HN: Why the Linux Kernel doesn't have unit tests? (2022)](https://news.ycombinator.com/item?id=33742130)
 - [Linux Notification Center](https://github.com/phuhl/linux_notification_center) - Notification daemon/center for linux.
 - [Create an embedded Linux system using Buildroot (2019)](https://marcocetica.com/posts/buildroot-tutorial/)
+- [How to use the Linux AIO feature](https://github.com/littledan/linux-aio)

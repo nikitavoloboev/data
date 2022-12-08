@@ -12,7 +12,7 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 
 [Dune Analytics](https://dune.com/) is great at analyzing public blockchain data. [Matt Levine's overview of crypto](https://www.bloomberg.com/features/2022-the-crypto-story/) is nice.
 
-I use [hardware wallets](https://www.reddit.com/r/ethereum/comments/zc6qva/for_gods_sake_buy_a_hardware_wallet_already/) whenever I have need to use cryptocurrencies.
+I use [hardware wallets](https://www.reddit.com/r/ethereum/comments/zc6qva/for_gods_sake_buy_a_hardware_wallet_already/) whenever I have need to use cryptocurrencies. [Ledger](https://www.ledger.com/) is nice.
 
 ## Interesting
 
@@ -313,3 +313,4 @@ I use [hardware wallets](https://www.reddit.com/r/ethereum/comments/zc6qva/for_g
 - [An embeddable and customizable fiat-to-crypto onramp (2022)](https://stripe.com/en-gb-nl/blog/crypto-onramp) ([HN](https://news.ycombinator.com/item?id=33819923))
 - [Self custody and smart contracts protect consumers in a way that regulators can’t](https://twitter.com/NTmoney/status/1598387039933956096)
 - [FTX stealing customer funds with made up tokens explained (2022)](https://twitter.com/compound248/status/1598446656634191872)
+- [Ledger](https://www.ledger.com/) - Hardware wallet. ([Interview with team](https://www.wired.com/story/tony-fadell-is-trying-to-build-the-ipod-of-crypto-ledger-stax/))

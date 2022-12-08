@@ -64,3 +64,4 @@
 - [pGLOWrpg](https://github.com/roalyr/pglowrpg) - Procedurally Generated Living Open World RPG.
 - [Procedural Tiled Map Generator](https://github.com/Thurinum/procedural-map-gen)
 - [Calder](https://github.com/calder-gl/calder) - Controlling procedural modelling interactively with guiding curves.
+- [Wave Function Collapse in Rust](https://github.com/AustinHellerRepo/WaveFunctionCollapse)

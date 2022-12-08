@@ -714,3 +714,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [What ChatGPT features/improvements do you want?](https://twitter.com/sama/status/1599457816494092289)
 - [Summarize-Webpage](https://github.com/akashp1712/summarize-webpage) - Small NLP SAAS project that summarize a webpage.
 - [Nonparametric Masked Language Modeling (2022)](https://arxiv.org/abs/2212.01349)
+- [Holistic Evaluation of Language Models](https://github.com/stanford-crfm/helm) - Framework to increase the transparency of language models. ([Paper](https://arxiv.org/abs/2211.09110))

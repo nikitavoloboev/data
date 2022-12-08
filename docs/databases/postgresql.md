@@ -613,3 +613,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [How We Built Fly Postgres · Fly (2022)](https://fly.io/blog/how-we-built-fly-postgres/) ([HN](https://news.ycombinator.com/item?id=33798523))
 - [Postgres Tips and Tricks](https://www.crunchydata.com/postgres-tips) ([HN](https://news.ycombinator.com/item?id=33886800))
 - [Faceting large result sets in PostgreSQL (2022)](https://www.cybertec-postgresql.com/en/faceting-large-result-sets/) ([HN](https://news.ycombinator.com/item?id=33886709))
+- [Time travel in Postgres. Bisect to the last valid transaction (2022)](https://neon.tech/blog/time-travel-with-postgres/) ([HN](https://news.ycombinator.com/item?id=33897790))

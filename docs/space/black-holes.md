@@ -51,3 +51,4 @@
 - [Black holes finally proven mathematically stable (2022)](https://www.quantamagazine.org/black-holes-finally-proven-mathematically-stable-20220804/) ([HN](https://news.ycombinator.com/item?id=32343370))
 - [WebGL Black Hole](https://webgl-black-hole.vercel.app/) ([Code](https://github.com/brunosimon/webgl-black-hole))
 - [Quantum Signatures of Black Hole Mass Superpositions (2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.181301)
+- [Ask HN: Is it black holes all the way up? (2022)](https://news.ycombinator.com/item?id=33901624)

@@ -1,5 +1,5 @@
 # 2022 December
 
-## 2 
+## 2
 
-Doing [Advent of Code](https://adventofcode.com/) with my brother in JS. It's fun.
+Did a bit of [Advent of Code](https://adventofcode.com/) with my brother in JS.

@@ -343,3 +343,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Great Physicists: Paul A.M. Dirac - The Taciturn Genius (2020)](https://www.youtube.com/watch?v=aswWUQQxDhU)
 - [Great Physicists: Niels Bohr, the Father of Atomic Physics (2020)](https://www.youtube.com/watch?v=vEFCXoITrLA)
 - [Why Space and Time Are an Illusion - The Mathematical Reality (2020)](https://www.youtube.com/watch?v=zxAV_Re4OWA)
+- [Awesome Physics](https://github.com/wbierbower/awesome-physics)

@@ -4,6 +4,10 @@ title: Framer
 
 # [Framer](https://www.framer.com/)
 
+## Templates
+
+- [Designer portfolio template](https://bentobox.framer.website/)
+
 ## Links
 
 - [Framer ES6 / React Guide](https://paper.dropbox.com/doc/Framer-ES6-React-Guide--AeKsL4azG3qn5fp5b8cQ_t~0Ag-Th7joG9fFSSiyZgOFYqj6)

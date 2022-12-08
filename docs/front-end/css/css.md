@@ -587,3 +587,4 @@ all: unset
 - [The large, small, and dynamic viewport units (2022)](https://web.dev/viewport-units/)
 - [CSS Infinite and Circular Rotating Image Slider (2022)](https://css-tricks.com/css-only-infinite-and-circular-image-slider/)
 - [PostCSS-Lit](https://github.com/43081j/postcss-lit) - PostCSS syntax for extracting CSS from template literals inside JS/TS files.
+- [Super Useful CSS Resources (2022)](https://dev.to/lissy93/super-useful-css-resources-1ba3)

@@ -258,3 +258,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Why use Rust for bioinformatics? Defining the problem space. (2022)](https://combine-lab.github.io/blog/2022/11/25/rust-for-bioinformatics-part-1.html) ([Reddit](https://www.reddit.com/r/rust/comments/z54uoy/why_use_rust_for_bioinformatics_defining_the/))
 - [Progres](https://github.com/jgreener64/progres) - Protein Graph Embedding Search.
 - [Mega-scale experimental analysis of protein folding stability in biology and protein design (2022)](https://www.biorxiv.org/content/10.1101/2022.12.06.519132v1) ([Tweet](https://twitter.com/KotaroTsuboyama/status/1600498005668466700))
+- [Representation Learning on Biomolecular Structures using Equivariant Graph Attention (2022)](https://github.com/Bayer-Group/eqgat)

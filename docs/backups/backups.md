@@ -98,3 +98,4 @@ I love the fact that I can set up any new mac or phone to use my exact and perfe
 - [Advice needed for backing up and hosting large amount of files (2022)](https://news.ycombinator.com/item?id=31996612)
 - [Restic Backup Docker Container](https://github.com/lobaro/restic-backup-docker)
 - [Extremely low cost backup to S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup) ([HN](https://news.ycombinator.com/item?id=32864052))
+- [Apple introduces end-to-end encryption for backups (2022)](https://www.apple.com/newsroom/2022/12/apple-advances-user-security-with-powerful-new-data-protections/) ([HN](https://news.ycombinator.com/item?id=33897793))

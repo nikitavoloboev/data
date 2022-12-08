@@ -1022,3 +1022,6 @@
 - [Token Merging: Your ViT But Faster (2022)](https://arxiv.org/abs/2210.09461) ([Code](https://github.com/facebookresearch/ToMe))
 - [NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies (2022)](https://www.xxlong.site/NeuralUDF/) ([Code](https://github.com/xxlong0/NeuralUDF))
 - [Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars (2022)](https://mrtornado24.github.io/Next3D/) ([Code](https://github.com/MrTornado24/Next3D))
+- [PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to 6 DoF Tracking (2022)](https://arxiv.org/abs/2209.07589) ([Code](https://github.com/nv-nguyen/pizza))
+- [Diffusion Models for Medical Image Analysis: A Comprehensive Survey (2022)](https://arxiv.org/abs/2211.07804) ([Code](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging))
+- [RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data (2022)](https://arxiv.org/abs/2210.12634) ([Code](https://github.com/ZhanYang-nwpu/RSVG-pytorch))

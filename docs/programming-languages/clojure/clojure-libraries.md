@@ -260,6 +260,7 @@
 - [thrempl](https://github.com/liquidz/thrempl) - Simple template engine using threading macros.
 - [TOML](https://github.com/ilevd/toml) - Clojure TOML wrapper.
 - [Mundaneum](https://github.com/jackrusher/mundaneum) - Clojure wrapper around WikiData.
+- [tilakone](https://github.com/metosin/tilakone) - Minimalistic finite state machine (FSM) in Clojure.
 
 ## Links
 

@@ -168,3 +168,6 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [What is your favorite movie? (2022)](https://www.reddit.com/r/Letterboxd/comments/z3nlhe/what_is_your_favorite_movie/)
 - [Fylm](https://github.com/brandonscript/fylm) - Wonderful automated command line app for organizing your film media. Built for Plex and SABnzbd.
 - [Runway AI Film Festival](https://aiff.runwayml.com/)
+- [Mind fuck thought provoking films (2022)](https://www.reddit.com/r/MovieSuggestions/comments/zfdbgr/i_want_the_most_gut_wrenching_pretentious_mind/)
+- [The Greatest Films of All Time](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
+- [BFI](https://www.bfi.org.uk/)

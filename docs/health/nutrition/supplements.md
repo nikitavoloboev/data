@@ -27,7 +27,7 @@ I generally strictly avoid sugary foods, snacks and drinks. Makes me appreciate 
 
 I sometimes don't eat during evenings so as to [fast](fasting.md) just a little before I take my morning smoothie on following day.
 
-Also whilst not strictly supplements, I enjoy taking [psychedelics](../../drugs/psychedelics/psychedelics.md) with breaks of at least 2+ months. [Tryptamines](../../drugs/psychedelics/tryptamines/tryptamines.md) being my favorite, usually consumed through actual home grown psilocybin mushrooms & not some [research chemical](../../drugs/research-chemicals.md) like [4-AcO-DMT](https://psychonautwiki.org/wiki/4-AcO-DMT).
+Also whilst not strictly supplements, I enjoy taking [psychedelics](../../drugs/psychedelics/psychedelics.md) with breaks of at least 2+ months. [Tryptamines](../../drugs/psychedelics/tryptamines/tryptamines.md) being my favorite, usually consumed through actual home grown [psilocybin mushrooms](../../other/mushrooms.md) & not some [research chemical](../../drugs/research-chemicals.md) like [4-AcO-DMT](https://psychonautwiki.org/wiki/4-AcO-DMT).
 
 ## Interesting
 

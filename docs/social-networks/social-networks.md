@@ -201,3 +201,4 @@ Starting social networks is hard. I liked steps [Gas](https://gasapp.co/) app to
 - [Homebrew social networking (2022)](http://dtrace.org/blogs/bmc/2022/11/27/homebrew-social-networking/)
 - [What is Good Within Social Networks (2022)](https://simonsarris.substack.com/p/what-is-good-within-social-networks) ([Tweet](https://twitter.com/simonsarris/status/1598668532677386240)) ([Notes](https://twitter.com/generativist/status/1599181447726010369))
 - [Instagram Is Over (2022)](https://www.theatlantic.com/technology/archive/2022/11/instagram-tiktok-twitter-social-media-competition/672305/) ([HN](https://news.ycombinator.com/item?id=33844302))
+- [A community isn’t a garden, it’s a bar. (2022)](https://powazek.com/posts/3571)

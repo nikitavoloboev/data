@@ -4,7 +4,7 @@ title: Julia
 
 # [Julia](https://julialang.org/)
 
-[Introduction to Julia Workshop](https://github.com/storopoli/Julia-Workshop) is great intro.
+[Introduction to Julia Workshop](https://github.com/storopoli/Julia-Workshop) is great intro. [What's great about Julia?](https://viralinstruction.com/posts/goodjulia/) is [fun read](https://news.ycombinator.com/item?id=33900122).
 
 ## Notes
 
@@ -156,3 +156,4 @@ title: Julia
 - [Intro to Julia workshop (2022)](https://github.com/mfherbst/2022-sustech-julia-workshop)
 - [ModelingToolkit and JuliaSim Workshop (2022)](https://figshare.com/articles/conference_contribution/ModelingToolkit_and_JuliaSim_Workshop/21432588) ([Code](https://github.com/JuliaComputing/ModelingToolkitWorkshop))
 - [Improvements in package precompilation (2022)](https://www.youtube.com/watch?v=GnsONc9DYg0) ([Code](https://github.com/timholy/JuliaCon2022_Precompilation))
+- [What's great about Julia? (2022)](https://viralinstruction.com/posts/goodjulia/) ([HN](https://news.ycombinator.com/item?id=33900122))

@@ -77,3 +77,5 @@ title: APL
 - [Random walk in 2 lines of J (2022)](https://asindu.xyz/2022/10/08/random-walk-in-2-lines-of-j/) ([HN](https://news.ycombinator.com/item?id=33212026))
 - [ngn/k tutorial](https://github.com/razetime/ngn-k-tutorial)
 - [APL deserves its renaissance too (2018)](https://wordsandbuttons.online/apl_deserves_its_renaissance_too.html) ([HN](https://news.ycombinator.com/item?id=33638069))
+- [Advent of q 2022](https://github.com/qbists/studyq/tree/main/aoc/2022)
+- [Awesome Q](https://github.com/qbists/awesome-q)

@@ -4,6 +4,8 @@
 
 I personally love [psilocybin mushrooms](https://en.wikipedia.org/wiki/Psilocybin_mushroom) and take them [occasionaly](../drugs/psychedelics/psychedelics.md). I also take some mushrooms daily as part of my [supplement](../health/nutrition/supplements.md).
 
+Get my spores to grow [here](https://www.tatanka.nl/shroomshop/). Using [Uncle Ben Tek](https://www.reddit.com/r/shrooms/comments/dbzy8e/uncle_ben_tek_aka_spiderman_tek_full_instructions/), I put spores in rice composture. Then do [this method](https://www.shroomery.org/forums/showflat.php/Number/25274461/fpart/all/vc/1).
+
 ## Interesting
 
 - [Master Blend Mushroom Extracts](https://vibemushrooms.ca/products/master-blend)
@@ -54,3 +56,5 @@ I personally love [psilocybin mushrooms](https://en.wikipedia.org/wiki/Psilocybi
 - [Mushrooms/nootropics are a rabbit hole (2022)](https://www.reddit.com/r/Nootropics/comments/ycvxtc/this_mushroomsnootropics_thing_is_a_freaking/)
 - [Lion's Mane. Best supplements.](https://www.reddit.com/r/MushroomSupplements/comments/ssb1yf/updated_repost_2022_lions_mane_best_supplements/)
 - [mycolog](https://github.com/codesoap/mycolog) - Keep track of your mushroom cultivation projects.
+- [Uncle Ben Tek - Getting spawn from liquid culture](https://www.reddit.com/r/shrooms/comments/dbzy8e/uncle_ben_tek_aka_spiderman_tek_full_instructions/)
+- [Bod's Easy AF Mushroom Cultivation](https://www.shroomery.org/forums/showflat.php/Number/25274461/fpart/all/vc/1)

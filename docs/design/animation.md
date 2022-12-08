@@ -4,6 +4,8 @@
 
 [Rational Animations](https://www.youtube.com/c/RationalAnimations/videos) does cute educational animations.
 
+Like using [Rive](rive.md) for making animations.
+
 ## Links
 
 - [Alexander Perrin](https://alexanderperrin.com.au/) - Has a passion for meticulous dynamics, detailed digital rendering techniques and cats.
@@ -96,3 +98,4 @@
 - [Rive Web](https://github.com/rive-app/rive-wasm) - WASM/JS runtime for Rive.
 - [Rive as a Lottie alternative (2022)](https://rive.app/blog/rive-as-a-lottie-alternative) ([Tweet](https://twitter.com/guidorosso/status/1582086637328031745))
 - [Awesome Manim](https://github.com/ManimCommunity/awesome-manim)
+- [School of Motion](https://www.schoolofmotion.com/) ([YouTube](https://www.youtube.com/@schoolofmotion/videos))

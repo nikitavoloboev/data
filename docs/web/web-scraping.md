@@ -231,3 +231,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Unfurl](https://github.com/obsidianforensics/unfurl) - Extract and Visualize Data from URLs.
 - [Indieweb site crawler and MF2 data collection tool](https://github.com/bear/indie-stats)
 - [Evaluating Mechanical Keyboard Delivery Estimates with Python Web Scraping (2022)](https://wcedmisten.fyi/post/analyzing-keycap-estimates/)
+- [LinkedIn Scraper](https://github.com/EatonChips/yalis)

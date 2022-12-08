@@ -414,3 +414,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [Amazon S3 User Guide](https://github.com/awsdocs/amazon-s3-userguide)
 - [AWS Security Workshops](https://github.com/aws-samples/aws-security-workshops) ([Web](https://awssecworkshops.com/))
 - [Awesome AWS Security](https://github.com/jassics/awesome-aws-security)
+- [coldsnap](https://github.com/awslabs/coldsnap) - Command line interface for Amazon EBS snapshots.

@@ -732,3 +732,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [What in the Ethereum application ecosystem excites me (2022)](https://vitalik.ca/general/2022/12/05/excited.html) ([HN](https://news.ycombinator.com/item?id=33878216))
 - [ETH-XMR Atomic Swaps](https://github.com/AthanorLabs/atomic-swap)
 - [Tornado Cash Alternatives (2022)](https://www.reddit.com/r/ethereum/comments/zebzbd/has_anyone_tried_tornado_cash_alternatives/)
+- [Solidity codegen tool for efficient ABI encoding/decoding](https://github.com/d1ll0n/abi-lity)

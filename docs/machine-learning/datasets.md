@@ -215,3 +215,4 @@
 - [Kangas](https://github.com/comet-ml/kangas) - Explore multimedia datasets at scale.
 - [FIB Benchmark](https://github.com/r-three/fib)
 - [cc2dataset](https://github.com/rom1504/cc2dataset) - Easily convert common crawl to a dataset of caption and document. Image/text Audio/text Video/text.
+- [VideoCC](https://github.com/google-research-datasets/videoCC-data) - Dataset containing (video-URL, caption) pairs for training video-text machine learning models.

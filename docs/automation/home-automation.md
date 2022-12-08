@@ -85,3 +85,4 @@
 - [Home Assistant Configuration](https://github.com/lukevink/hass-config-lajv)
 - [Tink](https://www.tink.de/) - Home automation items.
 - [Дом-дурачок. 3 года спустя (2022)](https://vas3k.ru/notes/homelab_2022/)
+- [My building has replaced our keys with an app (2022)](https://www.nytimes.com/2022/12/03/realestate/my-building-has-replaced-our-keys-with-an-app-is-that-legal.html) ([HN](https://news.ycombinator.com/item?id=33875670))

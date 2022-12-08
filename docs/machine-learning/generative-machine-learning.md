@@ -8,6 +8,8 @@ Using [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion) t
 
 Trying to use more of these technologies in my day to life. Specifically [ChatGPT](https://chat.openai.com/) seems incredible. [Generates nice code](https://twitter.com/onybose/status/1598534390833098753) too. Need to [be wary](https://twitter.com/johnolilly/status/1598517624031555584) though as they don't do [much novelty yet](https://twitter.com/Noahpinion/status/1598499746263732224).
 
+[Fast Stable Diffusion Colab Notebooks](https://github.com/TheLastBen/fast-stable-diffusion) is great.
+
 ## Notes
 
 - [The net effect of the last 18 mo has been to slightly lubricate human imagination, making it easier for individuals to visualize possible worlds/scenes/moods. It’s only a medium-big deal—unless this is a foretaste of similar acceleration in music, code, and text.](https://twitter.com/Ted_Underwood/status/1566787680872157185)
@@ -81,7 +83,7 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [ImaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
 - [UnstableFusion](https://github.com/ahrm/UnstableFusion) - Stable Diffusion desktop frontend with inpainting, img2img and more.
 - [Dreamfields-3D](https://github.com/shengyu-meng/dreamfields-3D) - Colab friendly toolkit to generate 3D mesh model / video / nerf instance / multiview images of colourful 3D objects by text and image prompts input, based on dreamfields.
-- [fast-stable-diffusion colabs](https://github.com/TheLastBen/fast-stable-diffusion) - 25% speed increase + memory efficient. ([Colab](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb))
+- [Fast Stable Diffusion Colab Notebooks](https://github.com/TheLastBen/fast-stable-diffusion) - 25% speed increase + memory efficient. ([Colab](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb))
 - [High-performance image generation using Stable Diffusion in KerasCV](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/) ([HN](https://news.ycombinator.com/item?id=33005585))
 - [Video Killed The Radio Star](https://github.com/dmarx/video-killed-the-radio-star) - Notebook and tools for end-to-end automation of music video production with generative AI.
 - [Custom scripts for the stable diffusion web UI](https://github.com/Pfaeff/sd-web-ui-scripts)
@@ -224,3 +226,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Prompts for games and world building in ChatGPT (2022)](https://www.carolynzhang.com/chatgpt)
 - [showGPT](https://showgpt.co/) - Guide to unlocking the power of AI and chatGPT.
 - [How to use ChatGPT as founder](https://twitter.com/JamesIvings/status/1600389697418956800)
+- [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.

@@ -226,3 +226,5 @@
 - [Mort](https://github.com/aldor007/mort) - Storage and image processing server written in Go.
 - [JPEG Decoder in Rust](https://github.com/wangrunji0408/jpeg)
 - [Octavia noise](https://github.com/lorenSchmidt/fractal_cell_noise) - Fractal noise algorithm most closely related to cellular noise algorithms such as worley noise.
+- [Alt Image Generator](https://github.com/Nutlope/alt-text-generator) - Flask API that generates a description for any image.
+- [Simple image transform service for use by other workers through service bindings](https://github.com/jacob-ebey/cf-image-service)

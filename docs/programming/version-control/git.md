@@ -4,6 +4,8 @@ I love Git and version control. And I use version control over any project I do.
 
 [git-branchless](https://github.com/arxanas/git-branchless), [git absorb](https://github.com/tummychow/git-absorb) & [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) are useful.
 
+[gh pr checkout is useful](https://twitter.com/dan_abramov/status/1600653294375870465).
+
 ## Notes
 
 - Commit as often as you can. Ideally after each micro-iteration, when something new is working.

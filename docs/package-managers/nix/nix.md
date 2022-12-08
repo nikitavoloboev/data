@@ -12,6 +12,8 @@ I used [Nix time](https://alexfedoseev.com/blog/post/nix-time) article to instal
 
 [Evolution of Nix](https://www.youtube.com/watch?v=h8hWX_aGGDc&list=PLt4-_lkyRrOMWyp5G-m_d1wtTcbBaOxZk&index=1) is a nice historical talk on Nix.
 
+[Noogle](https://noogle.dev/) is great Nix API search engine.
+
 ## Notes
 
 - Nix never uses host dependencies, it always builds with exactly precise dependencies every time, and will always refer to them from then on.
@@ -452,3 +454,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning.
 - [Pluggable contexts in Tvix](https://docs.google.com/document/d/1pz2tRTX5kkS_1wfrZfeHg7MBCSgR1BAktZA2dc42ABk/edit)
 - [Collection of all the content from NixCon Paris 2022](https://github.com/nixcon/NixConContent)
+- [Noogle](https://noogle.dev/) - Nix API search engine. ([Code](https://github.com/hsjobeki/noogle))

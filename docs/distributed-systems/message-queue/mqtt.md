@@ -65,3 +65,4 @@ title: MQTT
 - [VolantMQ](https://github.com/VolantMQ/volantmq) - High-Performance MQTT Server.
 - [MQTT X](https://github.com/emqx/MQTTX) - Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools. ([Web](https://mqttx.app/))
 - [TinyGo MQTT](https://github.com/waj334/tinygo-mqtt)
+- [MQTT encoder & decoder, written in Go](https://github.com/huin/mqtt)

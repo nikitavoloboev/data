@@ -117,3 +117,4 @@
 - [I did the double slit experiment at home (2022)](https://www.youtube.com/watch?v=v_uBaBuarEM)
 - [Quantum Fields: The Most Beautiful Theory in Physics (2022)](https://www.youtube.com/watch?v=eoStndCzFhg)
 - [Michael Nielsen (Postdoc '98-'00), Quantum Physicist, Author, and Open Science Advocate (2022)](https://heritageproject.caltech.edu/interviews-updates/michael-nielsen)
+- [Libint](https://github.com/evaleev/libint) - High-performance library for computing Gaussian integrals in quantum mechanics.

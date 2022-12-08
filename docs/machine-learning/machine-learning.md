@@ -997,3 +997,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Statistical vs. Deep Learning forecasting methods](https://github.com/Nixtla/statsforecast/tree/main/experiments/m3) ([HN](https://news.ycombinator.com/item?id=33818531))
 - [USB: A Unified Semi-supervised Learning Benchmark for Classification (2022)](https://arxiv.org/abs/2208.07204) ([Code](https://github.com/microsoft/Semi-supervised-learning))
 - [Walk with fastai - the missing pieces for success](https://thezachmueller.gumroad.com/l/walkwithfastai) ([Code](https://github.com/muellerzr/Walk-with-fastai-revisited))
+- [Awesome NVIDIA Isaac Gym](https://github.com/wangcongrobot/awesome-isaac-gym) - Curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources.
+- [Deep Learning Fundamentals - Lightning AI](https://lightning.ai/pages/courses/deep-learning-fundamentals/)

@@ -30,7 +30,7 @@
 - [kubectl-kubesec](https://github.com/controlplaneio/kubectl-kubesec) - Security risk analysis for Kubernetes resources.
 - [kubectl janitor](https://github.com/dastergon/kubectl-janitor) - List Kubernetes objects in a problematic state.
 - [Argo CD Operator](https://github.com/argoproj-labs/argocd-operator) - Kubernetes operator for managing Argo CD clusters.
-- [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) - Kubernetes controller and tool for one-way encrypted Secrets.
+- [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) - Kubernetes controller and tool for one-way encrypted Secrets. ([Web interface](https://github.com/bakito/sealed-secrets-web))
 - [kubectl-iexec](https://github.com/gabeduke/kubectl-iexec) - Kubectl plugin to interactively exec into a pod.
 - [Coil](https://github.com/cybozu-go/coil) - CNI plugin for Kubernetes designed for scalability and extensibility.
 - [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Policy Controller for Kubernetes.

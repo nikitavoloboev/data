@@ -199,3 +199,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [Prospects for carbon-negative biomanufacturing: Trends in Biotechnology (2022)](<https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(22)00238-4>)
 - [Lobelia](https://www.lobelia.earth/) - Earth Observation to address the climate emergency.
 - [Ask HN: How innovative is the hydrogen industry? (2022)](https://news.ycombinator.com/item?id=33789397)
+- [‘It was like an apocalyptic movie’: 20 climate photographs that changed the world (2022)](https://www.theguardian.com/environment/2022/nov/05/20-climate-photographs-that-changed-the-world)

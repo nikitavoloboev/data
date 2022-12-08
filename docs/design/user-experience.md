@@ -220,3 +220,4 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [Rico: Mobile App Dataset for Building Data-Driven Design Applications](https://interactionmining.org/rico) ([Code](https://github.com/luileito/enrico))
 - [Dashboard Design Patterns](https://dashboarddesignpatterns.github.io/patterns.html)
 - [10 Interface Ideas for Chat Applications](https://prabros.com/chat-ui-ideas/)
+- [You don't need live chat on your website (2022)](https://timharek.no/blog/you-dont-need-chat-on-your-site/) ([HN](https://news.ycombinator.com/item?id=33904017))

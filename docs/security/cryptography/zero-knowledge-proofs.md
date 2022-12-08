@@ -134,3 +134,4 @@ title: Zero knowledge proofs
 - [RISC Zero](https://www.risczero.com/) - General-Purpose Verifiable Computing.
 - [Zero Knowledge on Ramp](https://github.com/SupremeSingh/Awesome-ZK)
 - [Cairo](https://github.com/starkware-libs/cairo) - Fast compiler for Cairo, written in Rust.
+- [xJsnark](https://github.com/akosba/xjsnark) - High-level framework for developing efficient zk-SNARK circuits.

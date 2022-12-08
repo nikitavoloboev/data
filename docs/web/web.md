@@ -479,3 +479,4 @@
 - [Wayback Archiver](https://wabarc.eu.org/) - Makes it easy and fast to Wayback webpage. ([GitHub](https://github.com/wabarc))
 - [Pointer Events](https://w3c.github.io/pointerevents/) ([Code](https://github.com/w3c/pointerevents))
 - [Tired of Web Dev](https://github.com/kitze/tired-of-webdev/)
+- [Fully Typed Web Apps (2022)](https://www.epicweb.dev/fully-typed-web-apps)

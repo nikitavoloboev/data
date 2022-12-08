@@ -286,3 +286,4 @@ title: Spatial analysis
 - [Exploratory Spatial Data Analysis in PySAL](https://github.com/pysal/esda)
 - [Geoscan](https://github.com/databrickslabs/geoscan) - Geospatial clustering at massive scale.
 - [Location History Format](https://github.com/CarlosBergillos/LocationHistoryFormat) - Collaborative format definition and documentation for Google Location History files.
+- [Mapbox GL Directions](https://github.com/mapbox/mapbox-gl-directions) - Directions plugin for mapbox-gl-js using Mapbox Directions API.

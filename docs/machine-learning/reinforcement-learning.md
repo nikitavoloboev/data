@@ -412,3 +412,4 @@ title: Reinforcement learning
 - [RLogist](https://github.com/tencent-ailab/RLogist) - Fast Observation Strategy on Whole-slide Images with Deep Reinforcement Learning.
 - [Mastering Stratego, the classic game of imperfect information (2022)](https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information) ([HN](https://news.ycombinator.com/item?id=33822145))
 - [Foundations of Reinforcement Learning | ETH Zürich (2021)](https://video.ethz.ch/lectures/d-infk/2021/autumn/263-5255-00L/27f58ff4-81a4-4a84-9c67-e4c73dbeb920.html)
+- [Precise atom manipulation through deep reinforcement learning (2022)](https://www.nature.com/articles/s41467-022-35149-w) ([HN](https://news.ycombinator.com/item?id=33902363))
