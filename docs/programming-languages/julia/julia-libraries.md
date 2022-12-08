@@ -252,6 +252,7 @@
 - [GeneDrive.jl](https://github.com/vnvasquez/GeneDrive.jl) - Julia package designed for simulating biological dynamics and control.
 - [ViennaRNA](https://github.com/marcom/ViennaRNA.jl) - Julia interface to the ViennaRNA library for RNA secondary structure prediction and analysis.
 - [DifferentiableMetabolism.jl](https://github.com/stelmo/DifferentiableMetabolism.jl) - Differentiable constraint-based metabolic models.
+- [Mendeleev.jl](https://github.com/Eben60/Mendeleev.jl) - Julia package for accessing chemical elements data.
 
 ## Computer Vision
 

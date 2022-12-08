@@ -1935,6 +1935,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Go FTP Server library](https://github.com/fclairamb/ftpserverlib)
 - [Transport](https://github.com/vmware/transport-go) - Full stack, simple, fast, expandable application event bus.
 - [FSS3](https://github.com/aymanbagabas/fss3) - S3 filesystem abstraction layer for Go.
+- [Go-TypeScript](https://github.com/clarkmcc/go-typescript) - Compile and run Typescript code natively in Go.
 
 ## Links
 

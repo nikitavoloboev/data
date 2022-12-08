@@ -733,3 +733,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [ETH-XMR Atomic Swaps](https://github.com/AthanorLabs/atomic-swap)
 - [Tornado Cash Alternatives (2022)](https://www.reddit.com/r/ethereum/comments/zebzbd/has_anyone_tried_tornado_cash_alternatives/)
 - [Solidity codegen tool for efficient ABI encoding/decoding](https://github.com/d1ll0n/abi-lity)
+- [reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust.
