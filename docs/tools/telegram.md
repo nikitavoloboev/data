@@ -275,3 +275,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [telegram-banhammer](https://github.com/paskal/telegram-banhammer) - Program which uses MTProto Telegram API to ban spammers from a group.
 - [TL](https://github.com/xelaj/tl) - Serialization format, created by Telegram and TON devs.
 - [Telestatic](https://github.com/spelsinx/telestatic) - Telegram MTProto framework for NodeJS.
+- [Telegram: No-SIM Signup, Auto-Delete All Chats, Topics 2.0 and More (2022)](https://telegram.org/blog/ultimate-privacy-topics-2-0) ([HN](https://news.ycombinator.com/item?id=33891807)) ([Reddit](https://www.reddit.com/r/Telegram/comments/zee5qc/nosim_signup_global_autodelete_timer_topics_20/))

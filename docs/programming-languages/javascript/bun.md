@@ -36,3 +36,4 @@ title: Bun
 - [bkg](https://github.com/TheSeyan/bkg) - Package Bun apps into a single executable.
 - [Bun Tea](https://github.com/one-aalam/bun-tea) - Fast, Bun-powered, and Bun-only(for now) Web API framework with full Typescript support.
 - [Elysia](https://github.com/elysiajs/elysia) - Fast and friendly Bun web framework.
+- [Bun v0.3.0 (2022)](https://bun.sh/blog/bun-v0.3.0) ([HN](https://news.ycombinator.com/item?id=33894702)) ([Tweet](https://twitter.com/jarredsumner/status/1600531361768833024))

@@ -38,3 +38,4 @@ title: Planetscale
 - [Using tokio and sqlx to connect to the PlanetScale database](https://www.rustadventure.dev/uploading-pokemon-data-from-a-csv-into-a-planetscale-sql-database/using-tokio-and-sqlx-to-connect-to-the-planetscale-database)
 - [Planetscale: One million connections (2022)](https://planetscale.com/blog/one-million-connections) ([HN](https://news.ycombinator.com/item?id=33423102))
 - [How PlanetScale Boost serves your SQL queries instantly (2022)](https://planetscale.com/blog/introducing-planetscale-boost) ([HN](https://news.ycombinator.com/item?id=33610996))
+- [PlanetScale Go](https://github.com/planetscale/planetscale-go)

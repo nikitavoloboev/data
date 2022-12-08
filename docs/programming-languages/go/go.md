@@ -913,3 +913,4 @@ if *boolArgPtr != false {
 - [Building CloudQuery: High Performance Data Integration Framework in Go (2022)](https://www.cloudquery.io/blog/building-cloudquery)
 - [Make Go usable in Shell on Fish or Zsh](https://gist.github.com/nikitavoloboev/87eb5721fb513b038cf12a1046d3d970)
 - [Donia Chaiehloudj - TinyGo: Getting the Upper Hen (2022)](https://www.youtube.com/watch?v=D46NzhBoQC0)
+- [Production Ready Go Concurrency (2022)](https://www.storj.io/blog/production-concurrency) ([Talk](https://www.youtube.com/watch?v=qq3gu0JQ0yU))

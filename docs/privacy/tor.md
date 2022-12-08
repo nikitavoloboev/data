@@ -62,3 +62,4 @@ title: Tor Project
 - [Onion Server](https://github.com/noot/onion-server) - Serve a static website as a .onion hidden service.
 - [Lightarti-rest](https://github.com/c4dt/lightarti-rest) - Arti-wrapper to use REST over Tor.
 - [iCepa](https://github.com/iCepa/iCepa) - iOS system-wide VPN based Tor client.
+- [Tor Browser 12.0 (2022)](https://blog.torproject.org/new-release-tor-browser-120/) ([HN](https://news.ycombinator.com/item?id=33896890))

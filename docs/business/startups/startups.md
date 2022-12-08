@@ -405,6 +405,7 @@ Wish more startups did calendar timelines with big events [like Amie](https://am
 - [Startups are an act of desperation (2022)](https://blog.eladgil.com/p/startups-are-an-act-of-desperation)
 - [Startup Restructuring 101 (2022)](https://cyrilgrislain.substack.com/p/startup-restructuring-101) ([HN](https://news.ycombinator.com/item?id=33758849))
 - [The Marketplace Library (2021)](https://alexfmac.substack.com/p/the-marketplace-library-)
+- [Europe's Youngest Billionaire (2022)](https://www.youtube.com/watch?v=FCP_KbpA3jI)
 
 ## Images
 
