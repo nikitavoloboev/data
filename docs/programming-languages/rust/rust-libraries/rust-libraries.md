@@ -2380,6 +2380,7 @@
 - [polling](https://github.com/smol-rs/polling) - Portable interface to epoll, kqueue, event ports, and wepoll.
 - [tree_magic](https://github.com/aahancoc/tree_magic) - Determines the MIME type of a file by traversing a file type tree.
 - [state](https://github.com/SergioBenitez/state) - Rust library for safe and effortless global and thread-local state management.
+- [vm-virtio](https://github.com/rust-vmm/vm-virtio) - Virtio abstractions and implementation for the virtio queue and devices.
 
 ## Cargo Plugins
 

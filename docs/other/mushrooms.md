@@ -71,3 +71,4 @@ Get my spores to grow [here](https://orangutantradingco.com/). Grow them using [
 - [Fresh Mushrooms 'Golden Teacher'](https://www.zamnesia.com/3722-fresh-mushrooms-golden-teacher.html)
 - [Mushroom Growers Reddit](https://www.reddit.com/r/MushroomGrowers/)
 - [What is Mushroom Mycelium?](https://www.youtube.com/watch?v=vnRDzotcQ9U)
+- [Cubensis greenhouse grow for cold weather](https://www.reddit.com/r/druggardening/comments/ohbu4o/cubensis_greenhouse_grow_for_cold_weather_in/)

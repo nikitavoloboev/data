@@ -380,3 +380,4 @@
 - [Nice resources to learn state of art hardware architectures (2022)](https://news.ycombinator.com/item?id=33667485)
 - [Processor Design: An Introduction (1998)](http://www.gamezero.com/team-0/articles/math_magic/micro/) ([HN](https://news.ycombinator.com/item?id=33636724))
 - [Build List](https://buildlist.org/) - Directory of on-demand manufacturers for your creative projects. ([HN](https://news.ycombinator.com/item?id=33869796))
+- [LiteICLink](https://github.com/enjoy-digital/liteiclink) - Small footprint and configurable Inter-Chip communication cores.
