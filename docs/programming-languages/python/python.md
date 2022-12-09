@@ -563,3 +563,4 @@ for i, _ in enumerate(nums):
 - [What would you add to Python 4.0 (2022)](https://www.reddit.com/r/Python/comments/zcr6o0/if_theres_gonna_be_a_python_40_one_day_whats_a/)
 - [posy](https://github.com/njsmith/posy) - Project-oriented Python workflow manager.
 - [Codon](https://github.com/exaloop/codon) - High-performance Python compiler using LLVM. ([HN](https://news.ycombinator.com/item?id=33908576))
+- [Every modeler is supposed to be a great Python programmer (2022)](https://statmodeling.stat.columbia.edu/2022/12/08/the-cleantech-job-market-every-modeler-is-supposed-to-be-a-great-python-programmer/) ([HN](https://news.ycombinator.com/item?id=33914426))

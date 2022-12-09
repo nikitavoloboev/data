@@ -12,3 +12,4 @@ title: Babashka
 - [bb-clis](https://github.com/cldwalker/bb-clis) - Babashka CLIs.
 - [awyeah-api](https://github.com/grzm/awyeah-api) - Cognitect's aws-api and babashka.
 - [Babashka Web](https://babashka.org/)
+- [Babashka is a fast-starting scripting environment for Clojure (2022)](https://medium.com/graalvm/babashka-how-graalvm-helped-create-a-fast-starting-scripting-environment-for-clojure-b0fcc38b0746) ([HN](https://news.ycombinator.com/item?id=33909241))

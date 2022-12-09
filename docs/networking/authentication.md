@@ -283,3 +283,4 @@
 - [Branca](https://github.com/return/branca) - Authenticated and encrypted API tokens written in Rust. A secure JWT alternative.
 - [Generic Low Overhead Message Exchange (GLOME)](https://github.com/google/glome) - Protocol providing secure authentication and authorization for low dependency environments.
 - [1Password Shell Plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
+- [Google Zanzibar Through Our Eyes (2022)](https://authzed.com/blog/annotated-zanzibar-launch/) ([HN](https://news.ycombinator.com/item?id=33910685))

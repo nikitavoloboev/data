@@ -1001,3 +1001,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Deep Learning Fundamentals - Lightning AI](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 - [Transformers for software engineers (2022)](https://blog.nelhage.com/post/transformers-for-software-engineers/)
 - [A Generalist Neural Algorithmic Learner (2022)](https://arxiv.org/abs/2209.11142)
+- [AlphaCode Attention Visualization](https://alphacode.deepmind.com/) ([HN](https://news.ycombinator.com/item?id=33914122))

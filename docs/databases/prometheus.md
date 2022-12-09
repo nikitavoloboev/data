@@ -99,3 +99,4 @@ title: Prometheus
 - [Prometheus Shell Command Runner](https://github.com/tomwilkie/prom-run) - Periodically run a command and exports its return code as a prometheus metric.
 - [promts](https://github.com/base698/promts) - TypeScript Native Prometheus Client for Deno.
 - [PromLens](https://github.com/prometheus/promlens) - Web-based PromQL query builder, analyzer, and visualizer.
+- [Monitoring Microservices with Prometheus and Grafana (2022)](https://navendu.me/posts/introduction-to-monitoring-microservices/) ([HN](https://news.ycombinator.com/item?id=33918044))

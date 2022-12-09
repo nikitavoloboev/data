@@ -256,7 +256,7 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [Similari](https://github.com/insight-platform/Similari) - In-memory similarity search engine with parallellized data processing.
 - [SearXNG](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. ([Docs](https://docs.searxng.org/))
 - [Build your own Search Engine (2022)](http://wiby.me/about/guide.html) ([Code](https://github.com/wibyweb/wiby)) ([HN](https://news.ycombinator.com/item?id=32027177))
-- [Hello](https://beta.sayhello.so/) - Conversational Search.
+- [Hello](https://beta.sayhello.so/) - Web search using a ChatGPT-like model that can cite its sources. ([HN](https://news.ycombinator.com/item?id=33910863))
 - [SearchHut](https://searchhut.org/) - Curated free software search engine. ([Code](https://sr.ht/~sircmpwn/searchhut/)) ([HN](https://news.ycombinator.com/item?id=32104609))
 - [Mood Board Search](https://github.com/google-research/mood-board-search) - Train a computer to recognize visual concepts using mood boards and machine learning.
 - [Pagefind](https://github.com/CloudCannon/pagefind) - Fully static search library that aims to perform well on large sites, while using as little of your users' bandwidth as possible. ([Docs](https://pagefind.app/)) ([Lobsters](https://lobste.rs/s/pvkg80/static_low_bandwidth_search_at_scale))

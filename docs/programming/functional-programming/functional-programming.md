@@ -203,6 +203,7 @@
 - [What’s so great about functional programming anyway? (2022)](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/) ([HN](https://news.ycombinator.com/item?id=33620439)) ([Lobsters](https://lobste.rs/s/dvi2gq/what_s_so_great_about_functional))
 - [Demystifying monads (2021)](https://vm.codes/blog/demystifying-monads)
 - [Lumina](https://github.com/luminalang/lumina) - High-Level Compiled Functional Programming Language.
+- [Not a monad tutorial (2022)](https://johnazariah.github.io/2022/12/06/this-is-not-a-monad-tutorial.html) ([HN](https://news.ycombinator.com/item?id=33911278))
 
 ## Images
 

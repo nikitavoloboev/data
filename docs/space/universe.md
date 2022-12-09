@@ -2,6 +2,8 @@
 
 [Short History of Nearly Everything Book](https://www.goodreads.com/en/book/show/21) is great.
 
+Liked this video on [why cosmic inflation doesn't make much sense](https://www.youtube.com/watch?v=ADuiIcBwMmI).
+
 ## Notes
 
 - [Cosmological red-shift (caused by the expansion of the universe) does not conserve energy. Expanding universe is not time translation invariant, so energy is not strictly conserved.](https://www.youtube.com/watch?v=ZYM6HMLgIKA)
@@ -70,3 +72,4 @@
 - [Map of the Universe](https://mapoftheuniverse.net/) ([HN](https://news.ycombinator.com/item?id=33655503))
 - [Why this universe? New calculation suggests our cosmos is typical (2022)](https://www.quantamagazine.org/why-this-universe-new-calculation-suggests-our-cosmos-is-typical-20221117/) ([HN](https://news.ycombinator.com/item?id=33653890))
 - [Roger Penrose - "Big Bang was not the beginning"](https://www.youtube.com/watch?v=HFbFat-UhaA)
+- [Useless Fantasies: Cosmic Inflation (2022)](https://www.youtube.com/watch?v=ADuiIcBwMmI)

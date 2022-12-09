@@ -39,3 +39,4 @@ title: Planetscale
 - [Planetscale: One million connections (2022)](https://planetscale.com/blog/one-million-connections) ([HN](https://news.ycombinator.com/item?id=33423102))
 - [How PlanetScale Boost serves your SQL queries instantly (2022)](https://planetscale.com/blog/introducing-planetscale-boost) ([HN](https://news.ycombinator.com/item?id=33610996))
 - [PlanetScale Go](https://github.com/planetscale/planetscale-go)
+- [Using ent. with PlanetScale (2022)](https://nitric.io/blog/ent-planetscale)

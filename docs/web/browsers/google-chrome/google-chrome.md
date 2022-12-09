@@ -106,3 +106,5 @@ And here are Chrome extensions I use:
 - [Pointer compression in Oilpan · V8 (2022)](https://v8.dev/blog/oilpan-pointer-compression)
 - [Prerender pages in Chrome for instant page navigations (2022)](https://developer.chrome.com/blog/prerender-pages/)
 - [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium)
+- [Introducing passkeys in Chrome (2022)](https://blog.chromium.org/2022/12/introducing-passkeys-in-chrome.html) ([HN](https://news.ycombinator.com/item?id=33917070))
+- [Chrome, 10 Years Later (2022)](https://neugierig.org/software/blog/2022/12/chrome.html) ([HN](https://news.ycombinator.com/item?id=33917157))

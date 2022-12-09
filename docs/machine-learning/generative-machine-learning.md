@@ -228,3 +228,5 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [How to use ChatGPT as founder](https://twitter.com/JamesIvings/status/1600389697418956800)
 - [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [Pair Programming with AI: Writing a Distributed, Fault-Tolerant Redis Client using ChatGPT (2022)](https://medium.com/@saileshmukil/pair-programming-with-ai-writing-a-distributed-fault-tolerant-redis-client-using-chatgpt-239dc0a90550)
+- [Bumblebee: GPT2, Stable Diffusion, and More in Elixir (2022)](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O) ([HN](https://news.ycombinator.com/item?id=33913161))
+- [ChatGPT, Rot13, and Daniel Kahneman (2022)](https://jameswillia.ms/posts/chatgpt-rot13.html) ([HN](https://news.ycombinator.com/item?id=33913845))
