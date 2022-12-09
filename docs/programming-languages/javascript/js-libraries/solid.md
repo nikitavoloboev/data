@@ -159,3 +159,5 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Kobalte](https://github.com/fabien-ml/kobalte) - UI toolkit for building accessible web apps and design systems with SolidJS.
 - [Modular Forms](https://github.com/fabian-hiller/modular-forms) - Modular form library for SolidJS.
 - [Babel Plugin Solid Undestructure](https://github.com/orenelbaum/babel-plugin-solid-undestructure) - Babel plugin allows you to destructure your props in your Solid components without losing reactivity.
+- [Solid Icons](https://github.com/x64Bits/solid-icons) - Modern solution for use icons on SolidJS.
+- [Storeon Solid](https://github.com/storeon/solidjs)
