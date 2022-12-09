@@ -120,3 +120,4 @@ title: Vite
 - [Is Turbopack 10x Faster than Vite?](https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8) ([HN](https://news.ycombinator.com/item?id=33416989)) ([Code](https://github.com/yyx990803/vite-vs-next-turbo-hmr))
 - [vite-plugin-dynamic-import](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import.
 - [Nice Vite Plugins](https://github.com/fengxinming/vite-plugins)
+- [Vite 4.0 (2022)](https://vitejs.dev/blog/announcing-vite4.html) ([HN](https://news.ycombinator.com/item?id=33923537))
