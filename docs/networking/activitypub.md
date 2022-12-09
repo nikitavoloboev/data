@@ -6,7 +6,7 @@ title: ActivityPub
 
 [Mastodon](../social-networks/mastodon.md) & [GoToSocial](https://github.com/superseriousbusiness/gotosocial) are neat.
 
-[This guide](https://tinysubversions.com/notes/reading-activitypub/) is nice intro.
+[Playing with ActivityPub](https://macwright.com/2022/12/09/activitypub.html) & [Reading ActivityPub](https://tinysubversions.com/notes/reading-activitypub/) are great intros.
 
 ## Links
 
@@ -74,3 +74,4 @@ title: ActivityPub
 - [Chatter Net](https://github.com/chatternet/chatternet-client-http) - Decentralized semantic web built atop Activity Pub.
 - [Tranquility](https://github.com/aumetra/tranquility) - Small ActivityPub server written in Rust.
 - [Understanding A Protocol (2022)](https://www.aeracode.org/2022/12/05/understanding-a-protocol/)
+- [Playing with ActivityPub (2022)](https://macwright.com/2022/12/09/activitypub.html)

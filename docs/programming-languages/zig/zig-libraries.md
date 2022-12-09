@@ -2,6 +2,7 @@
 
 ## CLI
 
+- [SimArgs](https://github.com/jiacai2050/simargs) - Simple, opinionated, struct-based argument parser in Zig.
 - [parg](https://github.com/judofyr/parg) - Lightweight argument parser for Zig.
 - [zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library.
 - [Zig Argument Parser](https://github.com/MasterQ32/zig-args) - Simple-to-use argument parser with struct-based config.

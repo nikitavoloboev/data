@@ -494,3 +494,4 @@ title: Haskell
 - [Building terminal application in Haskell](https://github.com/rebeccaskinner/presentations/tree/master/building-a-terminal-application-in-haskell)
 - [Rebecca Skinner's presentations](https://github.com/rebeccaskinner/presentations)
 - [Creating a Delta Lake in Haskell with Sparkle (2022)](https://www.tweag.io/blog/2022-12-08-creating-a-Delta-Lake-in-Haskell-with-Sparkle/)
+- [Abhinav’s Haskell articles](https://notes.abhinavsarkar.net/tags/haskell)
