@@ -323,7 +323,7 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Neural Extractive Search (2021)](https://arxiv.org/abs/2106.04612) ([Demo](https://spike.neural-sim.apps.allenai.org/datasets))
 - [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) ([Code](https://github.com/huggingface/course))
 - [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
-- [LoRA: Low-Rank Adaptation of Large Language Models (2021)](https://arxiv.org/abs/2106.09685) ([Code](https://github.com/microsoft/LoRA))
+- [LoRA: Low-Rank Adaptation of Large Language Models (2021)](https://arxiv.org/abs/2106.09685) ([Code](https://github.com/microsoft/LoRA)) ([Code](https://github.com/cloneofsimo/lora))
 - [PromptPapers](https://github.com/thunlp/PromptPapers) - Must-read papers on prompt-based tuning for pre-trained language models.
 - [Obsei](https://github.com/obsei/obsei) - Automation tool for text analysis need.
 - [Evaluating Large Language Models Trained on Code (2021)](https://arxiv.org/abs/2107.03374) ([Code](https://github.com/openai/human-eval))

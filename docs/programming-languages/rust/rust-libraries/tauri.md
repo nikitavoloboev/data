@@ -53,3 +53,4 @@ title: Tauri
 - [tauri-sys](https://github.com/JonasKruckenberg/tauri-sys) - Raw bindings to the Tauri API for projects using wasm-bindgen.
 - [Tauri Specta](https://github.com/oscartbeaumont/tauri-specta) - Completely type safe Tauri commands.
 - [tauri-bindgen](https://github.com/JonasKruckenberg/tauri-bindgen) - Typesafe language bindings generator for the Tauri IPC bridge.
+- [Try Tauri with Solid (2022)](https://philidor.dev/blog/tauri-solidjs-macos/) ([Lobsters](https://lobste.rs/s/qdginb/try_tauri))
