@@ -2,9 +2,9 @@
 
 [This](https://www.susanrigetti.com/physics) & [this Reddit thread](https://www.reddit.com/r/AskPhysics/comments/sxrg4q/how_can_i_learn_physics_on_my_own/) are nice places to start learning physics. I like reading [AskPhysics subreddit](https://www.reddit.com/r/AskPhysics/).
 
-I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s work interesting.
+[Unzicker's Real Physics](https://www.youtube.com/@TheMachian/videos) & [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html) are great.
 
-[Unzicker's Real Physics](https://www.youtube.com/@TheMachian/videos) is great.
+I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s work interesting.
 
 ## Notes
 
@@ -347,3 +347,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Great Physicists: Ernst Mach, the man who understood gravity (2022)](https://www.youtube.com/watch?v=V_GYOdQfn44)
 - [Unsolved Mysteries: Spin - and a Tentative Explanation](https://www.youtube.com/watch?v=yEJicBTTabE)
 - [Are Maxwell's Equations Correct? - Variable Speed of Light (2022)](https://www.youtube.com/watch?v=GYA31AKZfbs)
+- [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html) ([HN](https://news.ycombinator.com/item?id=33925047))

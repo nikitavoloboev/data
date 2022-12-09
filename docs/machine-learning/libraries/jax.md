@@ -85,3 +85,4 @@ title: JAX
 - [DYNAMAX](https://github.com/probml/dynamax) - State Space Models library in JAX.
 - [Myriad](https://github.com/nikihowe/myriad) - Real-world testbed that aims to bridge trajectory optimization and deep learning.
 - [JaQMC](https://github.com/bytedance/jaqmc) - JAX accelerated Quantum Monte Carlo.
+- [Rieoptax](https://github.com/SaitejaUtpala/rieoptax) - Riemannian Optimization Using JAX.

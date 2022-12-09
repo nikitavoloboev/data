@@ -143,3 +143,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Cheaper countries to live in (2022)](https://www.reddit.com/r/digitalnomad/comments/yvma1g/cheaper_countries/)
 - [What is the one thing or traveling "hack" you won't leave home without (2022)](https://www.reddit.com/r/solotravel/comments/z4420f/what_is_the_one_thing_or_traveling_hack_you_wont/)
 - [(1) Which of your hobbies have you traveled specifically for or that you enjoy doing while you travel?](https://www.reddit.com/r/solotravel/comments/zarw96/which_of_your_hobbies_have_you_traveled/)
+- [The Maddening Mess of Airport Codes](https://www.youtube.com/watch?v=jfOUVYQnuhw)

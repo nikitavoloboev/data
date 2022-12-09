@@ -152,3 +152,4 @@ title: Three.js
 - [Three Orbit Controls Gizmo](https://github.com/Fennec-hub/ThreeOrbitControlsGizmo) - Blender like orientation gizmo for Three.js OrbitControls.
 - [Three Wboit](https://github.com/stevinz/three-wboit) - Weighted, Blended Order Independent Transparency.
 - [Offscreen Canvas Polyfill](https://github.com/ai/offscreen-canvas) - Polyfill for OffscreenCanvas to move Three.js/WebGL/2D canvas to Web Worker.
+- [React Three Editor](https://github.com/pmndrs/react-three-editor) - Scene editor that writes changes back into your code.

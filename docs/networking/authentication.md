@@ -286,4 +286,4 @@
 - [Generic Low Overhead Message Exchange (GLOME)](https://github.com/google/glome) - Protocol providing secure authentication and authorization for low dependency environments.
 - [1Password Shell Plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
 - [Google Zanzibar Through Our Eyes (2022)](https://authzed.com/blog/annotated-zanzibar-launch/) ([HN](https://news.ycombinator.com/item?id=33910685))
-- [oauth2c](https://github.com/cloudentity/oauth2c) - User-friendly CLI for OAuth2.
+- [CLI for OAuth](https://github.com/cloudentity/oauth2c) ([HN](https://news.ycombinator.com/item?id=33920885))

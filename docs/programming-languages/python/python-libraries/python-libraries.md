@@ -79,6 +79,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [HStream](https://github.com/conradbez/hstream) - Quick Python web apps. Streamlit alternative using htmx. ([HN](https://news.ycombinator.com/item?id=33547813))
 - [pyxl4](https://github.com/pyxl4/pyxl4) - Extend Python syntax with HTML.
 - [terminado](https://github.com/jupyter/terminado) - Tornado websocket backend for the Xterm.js JavaScript terminal emulator library.
+- [Pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python. ([HN](https://news.ycombinator.com/item?id=33922754))
 
 ## ML
 

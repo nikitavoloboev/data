@@ -12,8 +12,11 @@ I actually came to get interested in psychedelics after 2nd time I smoked weed (
 
 Mostly now I don't get much psychedelic effect (things moving) but do get enjoyable high with interesting thought patterns.
 
+[Sensi Seeds](https://sensiseeds.com/en/) has great seeds.
+
 ## Favorite strains
 
+- [Screwdriver OG Feminized Seeds](https://sensiseeds.com/en/research/screwdriver-og-feminized)
 - [Watermelon](https://www.tatanka.nl/product/watermelon/)
 - [Heavens Choco Haze HGB](https://www.zamnesia.com/3315-zamnesia-seeds-choco-haze-feminized.html)
 
@@ -41,6 +44,8 @@ Mostly now I don't get much psychedelic effect (things moving) but do get enjoya
 - [Prenatal cannabis exposure associated with mental disorders in children (2022)](https://www.nih.gov/news-events/news-releases/prenatal-cannabis-exposure-associated-mental-disorders-children-persist-into-early-adolescence) ([HN](https://news.ycombinator.com/item?id=32817466))
 - [The Effects of Cannabis (Marijuana) on the Brain & Body - Huberman (2022)](https://hubermanlab.com/the-effects-of-cannabis-marijuana-on-the-brain-and-body/)
 - [Tatanka](https://www.tatanka.nl/) - NL smart shop selling cannabis/mushroom seeds/spores.
+- [Where can I find the best cannabis seeds? (2022)](https://www.reddit.com/r/AmsterdamEnts/comments/zfe81r/where_can_i_find_the_best_seeds_any/)
+- [Sensi Seeds](https://sensiseeds.com/en/)
 
 ## Images
 

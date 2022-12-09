@@ -4,7 +4,11 @@
 
 I personally love [psilocybin mushrooms](https://en.wikipedia.org/wiki/Psilocybin_mushroom) and take them [occasionaly](../drugs/psychedelics/psychedelics.md). I also take some mushrooms daily as part of my [supplement](../health/nutrition/supplements.md).
 
-Get my spores to grow [here](https://www.tatanka.nl/shroomshop/). Using [Uncle Ben Tek](https://www.reddit.com/r/shrooms/comments/dbzy8e/uncle_ben_tek_aka_spiderman_tek_full_instructions/), I put spores in rice composture. Then do [this method](https://www.shroomery.org/forums/showflat.php/Number/25274461/fpart/all/vc/1).
+Get my spores to grow [here](https://orangutantradingco.com/). Grow them using [Grow Kit](https://mycopunks.com/products/beginner-fruit-in-the-bag-mushroom-grow-kit)
+
+[Uncle Ben Tek](https://www.reddit.com/r/shrooms/comments/dbzy8e/uncle_ben_tek_aka_spiderman_tek_full_instructions/) combined with [this method](https://www.shroomery.org/forums/showflat.php/Number/25274461/fpart/all/vc/1) is nice too.
+
+[Mushroom Growers](https://www.reddit.com/r/MushroomGrowers/) is great sub to read.
 
 ## Interesting
 
@@ -57,4 +61,13 @@ Get my spores to grow [here](https://www.tatanka.nl/shroomshop/). Using [Uncle B
 - [Lion's Mane. Best supplements.](https://www.reddit.com/r/MushroomSupplements/comments/ssb1yf/updated_repost_2022_lions_mane_best_supplements/)
 - [mycolog](https://github.com/codesoap/mycolog) - Keep track of your mushroom cultivation projects.
 - [Uncle Ben Tek - Getting spawn from liquid culture](https://www.reddit.com/r/shrooms/comments/dbzy8e/uncle_ben_tek_aka_spiderman_tek_full_instructions/)
+- [Tatanka Shroom Shop](https://www.tatanka.nl/shroomshop/)
 - [Bod's Easy AF Mushroom Cultivation](https://www.shroomery.org/forums/showflat.php/Number/25274461/fpart/all/vc/1)
+- [MycoPunks](https://mycopunks.com/) - Mycology and Cultivation Supplies in the UK.
+- [Orangutan Trading](https://orangutantradingco.com/) - Premium Quality UK Spore Supplier.
+- [European Spore Hub](https://www.reddit.com/r/EUSporeHub/)
+- [Kosmic Kitchen Smart shop](https://www.kosmickitchen.eu/)
+- [Wholecelium](https://www.wholecelium.com/) - Microdosing, Magic Truffles & Mushroom Grow Kits.
+- [Fresh Mushrooms 'Golden Teacher'](https://www.zamnesia.com/3722-fresh-mushrooms-golden-teacher.html)
+- [Mushroom Growers Reddit](https://www.reddit.com/r/MushroomGrowers/)
+- [What is Mushroom Mycelium?](https://www.youtube.com/watch?v=vnRDzotcQ9U)

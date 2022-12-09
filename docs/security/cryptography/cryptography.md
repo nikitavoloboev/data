@@ -59,7 +59,7 @@
 - [How Not to Learn Cryptography (2014)](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/) ([HN](https://news.ycombinator.com/item?id=23384227))
 - [Encrypted Systems Lab](http://esl.cs.brown.edu/) - Research lab in the Computer Science Department at Brown University.
 - [Snow](https://github.com/mcginty/snow) - Rust implementation of the Noise Protocol Framework.
-- [Real-World Cryptography book (2020)](https://www.manning.com/books/real-world-cryptography) ([Why I’m Writing A Book On Cryptography](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)) ([HN](https://news.ycombinator.com/item?id=23743218))
+- [Real-World Cryptography Book (2021)](https://www.manning.com/books/real-world-cryptography) ([Why I’m Writing A Book On Cryptography](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)) ([HN](https://news.ycombinator.com/item?id=23743218))
 - [How To Learn Cryptography as a Programmer (2020)](https://soatok.blog/2020/06/10/how-to-learn-cryptography-as-a-programmer/)
 - [Cifra](https://github.com/ctz/cifra) - Collection of cryptographic primitives targeted at embedded use.
 - [sjcl](http://bitwiseshiftleft.github.io/sjcl/) - Stanford Javascript Crypto Library. ([Web](http://bitwiseshiftleft.github.io/sjcl/)) ([HN](https://news.ycombinator.com/item?id=23524662))

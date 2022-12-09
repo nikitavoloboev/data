@@ -274,6 +274,7 @@ title: GitHub actions
 - [Wait-For-Secrets](https://github.com/step-security/wait-for-secrets) - Publish from GitHub Actions using multi-factor authentication. ([HN](https://news.ycombinator.com/item?id=33884424))
 - [sccache-action](https://github.com/metalbear-co/sccache-action)
 - [Changelog Parser](https://github.com/coditory/changelog-parser)
+- [Get previous tag](https://github.com/WyriHaximus/github-action-get-previous-tag) - GitHub Action that gets the latest tag from Git.
 
 ## Go
 
