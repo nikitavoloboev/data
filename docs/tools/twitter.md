@@ -282,3 +282,4 @@ This in my mind is much nicer than the current model of just typing into a box. 
 - [Trendagram](https://github.com/advaithhl/Trendagram) - Telegram bot for scheduled Twitter trends.
 - [George Hotz | Exploring Twitter Open Source Code | Scala (2022)](https://www.youtube.com/watch?v=nvtoOxNfDQo)
 - [TwitVault](https://github.com/terhechte/twitvault) - Easily Archive and Search Your Twitter Data with our Syncable Desktop App. ([Web](https://terhechte.github.io/twitvault/))
+- [Download Twitter Video](https://github.com/egoist/download-twitter-video) - Easiest way to download any Twitter video.

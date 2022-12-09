@@ -564,3 +564,4 @@ for i, _ in enumerate(nums):
 - [posy](https://github.com/njsmith/posy) - Project-oriented Python workflow manager.
 - [Codon](https://github.com/exaloop/codon) - High-performance Python compiler using LLVM. ([HN](https://news.ycombinator.com/item?id=33908576))
 - [Every modeler is supposed to be a great Python programmer (2022)](https://statmodeling.stat.columbia.edu/2022/12/08/the-cleantech-job-market-every-modeler-is-supposed-to-be-a-great-python-programmer/) ([HN](https://news.ycombinator.com/item?id=33914426))
+- [Shed Skin](https://github.com/shedskin/shedskin) - Python to C++ compiler.

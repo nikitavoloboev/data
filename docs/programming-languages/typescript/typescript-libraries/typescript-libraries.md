@@ -708,6 +708,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Machi](https://github.com/josephluck/machi) - Data-driven state machines.
 - [HTML5-QRCode](https://github.com/mebjas/html5-qrcode) - Cross platform HTML5 QR code reader.
 - [ts-consts](https://github.com/jfet97/ts-consts) - Manage constants with full TypeScript support, nominal typing included.
+- [ogr2ogr](https://github.com/wavded/ogr2ogr) - Wraps the ogr2ogr GDAL tool to enable file conversion and re-projection of spatial data in simplified friendly API.
 
 ## Links
 

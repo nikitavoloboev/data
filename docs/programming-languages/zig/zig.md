@@ -6,6 +6,10 @@ title: Zig
 
 [Ziglings](https://github.com/ratfactor/ziglings) is nice for learning.
 
+## OSS Zig GUI apps
+
+- [Pixi](https://github.com/foxnne/pixi) - Cross-platform open-source pixel art editor and animation editor.
+
 ## Notes
 
 - [Zig compiler pipeline is: tokenize -> parse -> astgen -> sema -> codegen](https://twitter.com/andy_kelley/status/1388268643075563520)

@@ -222,3 +222,4 @@ title: Genomics
 - [scvi-tools](https://github.com/scverse/scvi-tools) - Deep probabilistic analysis of single-cell omics data.
 - [gggenomes](https://github.com/thackl/gggenomes) - Grammar of graphics for comparative genomics.
 - [sgdemux](https://github.com/Singular-Genomics/singular-demux) - Singular Genomics Demultiplexing Tool.
+- [snp-dists](https://github.com/tseemann/snp-dists) - Pairwise SNP distance matrix from a FASTA sequence alignment.

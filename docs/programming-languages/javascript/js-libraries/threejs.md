@@ -151,3 +151,4 @@ title: Three.js
 - [Sketchy Pencil Effect with Three.js Post-Processing (2022)](https://tympanus.net/codrops/2022/11/29/sketchy-pencil-effect-with-three-js-post-processing/)
 - [Three Orbit Controls Gizmo](https://github.com/Fennec-hub/ThreeOrbitControlsGizmo) - Blender like orientation gizmo for Three.js OrbitControls.
 - [Three Wboit](https://github.com/stevinz/three-wboit) - Weighted, Blended Order Independent Transparency.
+- [Offscreen Canvas Polyfill](https://github.com/ai/offscreen-canvas) - Polyfill for OffscreenCanvas to move Three.js/WebGL/2D canvas to Web Worker.

@@ -441,3 +441,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Video Editor in React](https://github.com/vjeux/video-editor) ([Tweet](https://twitter.com/Vjeux/status/1599278587789840385))
 - [Tasmania](https://tasmania.sievedata.com/) - Better YouTube Video Search. ([Tweet](https://twitter.com/mokshith_v/status/1597639001967509504))
 - [Streamff](https://streamff.com/) - Easy video sharing.
+- [Media Player](https://github.com/Collaborne/media-player) - React video player with controls and functionality.

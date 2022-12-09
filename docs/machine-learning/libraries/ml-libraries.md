@@ -435,3 +435,4 @@ title: ML Libraries
 - [SIATune](https://github.com/SIAnalytics/siatune) - Hyperparameter Tuning Toolbox for OpenMMLab Frameworks, especially for Remote Sensing Tasks.
 - [ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning in C.
 - [ONNXRuntime-Extensions](https://github.com/microsoft/onnxruntime-extensions) - Pre- and post processing library for ONNX Runtime.
+- [McTorch Lib](https://github.com/mctorch/mctorch) - Manifold optimization functionality for PyTorch.

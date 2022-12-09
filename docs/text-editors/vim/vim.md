@@ -330,3 +330,4 @@ zz
 - [What is one key map you use that you don't understand how other Vim users live without? (2022)](https://www.reddit.com/r/vim/comments/z051al/what_is_one_key_map_you_use_that_you_dont/)
 - [Vim Tips for the Intermediate Vim User (2020)](https://jemma.dev/blog/intermediate-vim-tips)
 - [Bob](https://github.com/MordechaiHadad/bob) - Version manager for neovim.
+- [VimR](https://github.com/qvacua/vimr) - Neovim GUI for macOS.

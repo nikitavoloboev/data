@@ -161,3 +161,11 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Babel Plugin Solid Undestructure](https://github.com/orenelbaum/babel-plugin-solid-undestructure) - Babel plugin allows you to destructure your props in your Solid components without losing reactivity.
 - [Solid Icons](https://github.com/x64Bits/solid-icons) - Modern solution for use icons on SolidJS.
 - [Storeon Solid](https://github.com/storeon/solidjs)
+- [Solid-Popper](https://github.com/lxsmnsyc/solid-popper)
+- [Solid-Simple-Table](https://github.com/aminya/solid-simple-table) - Blazing fast reactive table component that gives you freedom.
+- [Solid-Markdown](https://github.com/andi23rosca/solid-markdown) - Render Markdown as Solid components.
+- [Doom Reactive State](https://github.com/AlessioCoser/doom-reactive-state) - Super simple reactive state management with fine-grained reactive DOM elements.
+- [Jundao Design](https://github.com/jundaoapp/design) - Enterprise-class fast and modern SolidJS UI library.
+- [Sofine UI Solid design library](https://github.com/sofine-ui/sofine-ui)
+- [Solid-NanoStores](https://github.com/ctx-core/solid-nanostores)
+- [Solid Jotai](https://github.com/wobsoriano/solid-jotai) - Primitive and flexible state management for Solid based on Jotai.

@@ -193,3 +193,4 @@
 - [tmap](https://github.com/r-tmap/tmap) - Thematic maps in R.
 - [faux](https://github.com/debruine/faux) - R functions for simulating factorial datasets.
 - [Doctests in R](https://hughjonesd.github.io/doctest/) ([HN](https://news.ycombinator.com/item?id=33757766))
+- [ggpubr](https://github.com/kassambara/ggpubr) - ggplot2 Based Publication Ready Plots.

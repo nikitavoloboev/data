@@ -227,3 +227,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Eventline](https://eventline.net/) - Job scheduling and execution platform. ([Code](https://github.com/exograd/eventline))
 - [Infisical](https://infisical.com/) - Open-source, E2EE tool to sync environment variables across your team and infrastructure. ([Code](https://github.com/Infisical/infisical))
 - [Apex](https://apexlang.io/) - Interface definition language (IDL) for modeling software. Generate source code, documentation, integration, everything automatically. ([GitHub](https://github.com/apexlang))
+- [Flipt](https://www.flipt.io/) - Open source, self-hosted feature flag solution. ([Code](https://github.com/flipt-io/flipt))

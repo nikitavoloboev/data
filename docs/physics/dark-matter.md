@@ -16,3 +16,4 @@
 - [Current state of dark matter research (2022)](https://news.ycombinator.com/item?id=32415590)
 - [Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter (2022)](https://nautil.us/brightest-ever-space-explosion-reveals-possible-hints-of-dark-matter-244346/) ([HN](https://news.ycombinator.com/item?id=33370944))
 - [No Need for Dark Energy - Variable Speed of Light (2022)](https://www.youtube.com/watch?v=D8CaJsgMwOM)
+- [Misleading Concepts: Dark Energy (2022)](https://www.youtube.com/watch?v=uat8JXQ4nxA)

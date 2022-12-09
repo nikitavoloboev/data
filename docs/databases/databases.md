@@ -729,3 +729,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Index Merges vs Composite Indexes in Postgres and MySQL (2022)](https://sirupsen.com/index-merges) ([Lobsters](https://lobste.rs/s/n0nfeu/index_merges_vs_composite_indexes))
 - [Modern data modeling: Start with the end? (2022)](https://www.adventofdata.com/modern-data-modeling-start-with-the-end/) ([HN](https://news.ycombinator.com/item?id=33846087))
 - [Get Rid of Your Old Database Migrations (2022)](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
+- [Ariga](https://ariga.io/) - New way to manage database schemas.

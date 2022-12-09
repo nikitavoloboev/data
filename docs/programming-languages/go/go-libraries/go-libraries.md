@@ -653,6 +653,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [rand](https://github.com/flyingmutant/rand) - Fast, high quality alternative to math/rand and golang.org/x/exp/rand.
 - [Maths](https://github.com/theriault/maths) - Includes mathematical functions not defined in the standard Go math package.
 - [ease](https://github.com/fogleman/ease) - Easing Functions in Go.
+- [percent](https://github.com/dariubs/percent) - Simple library for calculate percentages.
 
 ## Biology
 
@@ -1937,6 +1938,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Transport](https://github.com/vmware/transport-go) - Full stack, simple, fast, expandable application event bus.
 - [FSS3](https://github.com/aymanbagabas/fss3) - S3 filesystem abstraction layer for Go.
 - [Go-TypeScript](https://github.com/clarkmcc/go-typescript) - Compile and run Typescript code natively in Go.
+- [intintmap](https://github.com/brentp/intintmap) - Fast int64 -> int64 hash.
 
 ## Links
 

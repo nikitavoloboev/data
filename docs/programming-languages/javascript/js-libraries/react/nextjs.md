@@ -407,3 +407,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Using Fonts in Next.js (Google Fonts, Local Fonts, Tailwind CSS) (2022)](https://www.youtube.com/watch?v=L8_98i_bMMA)
 - [Next.js 13: App Directory Playground](https://app-dir.vercel.app/) ([Code](https://github.com/vercel/app-playground))
 - [OpenNext](https://github.com/serverless-stack/open-next) - Open source Next.js serverless adapter.
+- [i18n with Next.js 13 and app directory (an i18next guide)](https://locize.com/blog/next-13-app-dir-i18n/)

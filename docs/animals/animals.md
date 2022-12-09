@@ -152,3 +152,4 @@ I love all animals. And I am sad that some people decide to eat them and not [le
 - [Cat tries some ice-cream](https://twitter.com/____B_S____/status/1588884846579159040)
 - [Woofz](https://www.woofz.com/) - Dog Training App.
 - [The Collapse of Insects](https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/INSECT-APOCALYPSE/egpbykdxjvq/index.html) ([Reddit](https://www.reddit.com/r/Futurology/comments/zeq6e3/the_collapse_of_insects/))
+- [Good cat food](https://twitter.com/6171241/status/1600831857804951552) ([Tweet](https://twitter.com/k_rumlow/status/1600862096652017665))

@@ -4,9 +4,13 @@ title: DMT
 
 # [DMT](https://psychonautwiki.org/w/index.php?title=DMT)
 
-I love all [tryptamines](tryptamines.md) but am yet to breakthrough on DMT. [Many say it's life changing](https://www.reddit.com/r/RationalPsychonaut/comments/u8la4o/why_is_dmt_treated_like_some_kind_of_special/). [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.me/Q21Q21%27s_Vinegar/Lime_A/B_Extraction_Tek) seems nice.
+I love all [tryptamines](tryptamines.md) including DMT. [Many say it's life changing](https://www.reddit.com/r/RationalPsychonaut/comments/u8la4o/why_is_dmt_treated_like_some_kind_of_special/). I haven't yet breakthrough on it though.
 
-[Ayahuasca](https://en.wikipedia.org/wiki/Ayahuasca) is pretty great too.
+I enjoy [Ayahuasca](https://en.wikipedia.org/wiki/Ayahuasca) & smoking [Changa](<https://en.wikipedia.org/wiki/Changa_(drug)>) too.
+
+[Mimosa Root](https://www.mimosaroot.com/) sells quality [Mimosa Hostilis](https://www.mimosaroot.com/product/mimosa-hostilis-inner-root-bark-mhrb-powder/).
+
+Which I then use with [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.me/Q21Q21%27s_Vinegar/Lime_A/B_Extraction_Tek) to extract DMT.
 
 ## Notes
 

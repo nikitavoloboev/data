@@ -91,7 +91,7 @@ Don't be afraid to charge more for good products as they get better. Especially 
 - [Can automate sales](https://twitter.com/levelsio/status/1509504268914794502)
 - [Successful companies who only ever have a single transaction per customer (2022)](https://twitter.com/adamwathan/status/1511128528342953984)
 - [Apphud](https://apphud.com/) - More than analytics for iOS and Android in-app subscriptions. ([SDK Code](https://github.com/apphud/ApphudSDK))
-- [Billing systems are a nightmare for engineers (2022)](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers) ([HN](https://news.ycombinator.com/item?id=31424450))
+- [Billing systems are a nightmare for engineers (2022)](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers) ([HN](https://news.ycombinator.com/item?id=31424450)) ([Lago API](https://github.com/getlago/lago-api))
 - [Best resources (books, articles, etc) on pricing and packaging products (2022)](https://twitter.com/patrick_oshag/status/1538890809742876674)
 - [Designing a better pricing page (2022)](https://www.smashingmagazine.com/2022/07/designing-better-pricing-page/) ([HN](https://news.ycombinator.com/item?id=32012175))
 - [Superwall](https://superwall.com/) - Build the best mobile paywalls. ([Twitter](https://twitter.com/superwall))

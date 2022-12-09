@@ -58,6 +58,8 @@
 ## Games
 
 - [Cupcake](https://github.com/bootradev/cupcake) - App framework for making small and delicious games.
+- [zig-flecs](https://github.com/foxnne/zig-flecs) - Zig wrapper over fast entity component system library.
+- [jok](https://github.com/Jack-Ji/jok) - Minimal 2d/3d game framework.
 
 ## macOS
 

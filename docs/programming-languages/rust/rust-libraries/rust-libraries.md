@@ -751,6 +751,7 @@
 - [esp-idf-hal](https://github.com/esp-rs/esp-idf-hal) - Embedded-hal implementation for Rust on ESP32 and ESP-IDF.
 - [rust_gpiozero](https://github.com/rahul-thakoor/rust_gpiozero) - Library inspired by gpiozero written in Rust.
 - [Birdcage](https://github.com/phylum-dev/birdcage) - Cross-platform embeddable sandboxing library allowing restrictions to Filesystem and Network operations using native operating system APIs.
+- [noline](https://github.com/rustne-kretser/noline) - IO-agnostic line editor for embedded systems.
 
 ## ML
 
@@ -2487,6 +2488,7 @@
 - [allocative](https://github.com/facebookexperimental/allocative) - Library and proc macro to analyze memory usage of data structures in rust.
 - [Typeshare](https://github.com/1Password/typeshare) - Ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI. ([Reddit](https://www.reddit.com/r/rust/comments/z1qc6n/1password_releases_typeshare_the_ultimate_tool/)) ([Article](https://blog.1password.com/typeshare-for-rust/))
 - [ddt](https://github.com/dudykr/ddt) - Clean dead git branches & Remove outdated cargo artifacts. ([Reddit](https://www.reddit.com/r/rust/comments/zah8ly/i_made_a_cli_tool_to_remove_only_outdated_cargo/))
+- [cargo-single](https://github.com/inejge/cargo-single) - Cargo subcommand for handling single-source Rust programs with dependencies.
 
 ## Notes
 
@@ -2674,3 +2676,4 @@
 - [TheBook](https://github.com/0xhiro/thebook) - Search and read 'The Rust Book' from the terminal. ([Reddit](https://www.reddit.com/r/rust/comments/z7j0yx/i_turned_the_rust_book_into_a_crate/))
 - [Building Web UI's in Rust w/ Greg Johnston (2022)](https://www.youtube.com/watch?v=zgY7ql1xwW4)
 - [Augmenting Existing Struct APIs with Rust Traits (2022)](http://rtpg.co/2022/12/05/rust-trait-object-apis.html)
+- [crates-io-api](https://github.com/theduke/crates-io-api) - API client for crates.io, the Rust crate registry.
