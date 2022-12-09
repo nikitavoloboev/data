@@ -162,4 +162,4 @@ title: Zig
 - [Zig 0.10.0 Release Notes](https://ziglang.org/download/0.10.0/release-notes.html) ([HN](https://news.ycombinator.com/item?id=33413263)) ([Lobsters](https://lobste.rs/s/gsizcf/zig_0_10_0_release_notes))
 - [Simple Scalable Unbounded Queue (2022)](https://zig.news/kprotty/simple-scalable-unbounded-queue-34c2)
 - [Easy Interfaces with Zig 0.10.0 (2022)](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5) ([HN](https://news.ycombinator.com/item?id=33635341))
-- [Goodbye to the C++ Implementation of Zig (2022)](https://ziglang.org/news/goodbye-cpp/) ([HN](https://news.ycombinator.com/item?id=33913231))
+- [Goodbye to the C++ Implementation of Zig (2022)](https://ziglang.org/news/goodbye-cpp/) ([HN](https://news.ycombinator.com/item?id=33913231)) ([Lobsters](https://lobste.rs/s/g55iso/goodbye_c_implementation_zig))

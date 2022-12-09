@@ -4,9 +4,9 @@ title: DMT
 
 # [DMT](https://psychonautwiki.org/w/index.php?title=DMT)
 
-I love all [tryptamines](tryptamines.md) including DMT. [Many say it's life changing](https://www.reddit.com/r/RationalPsychonaut/comments/u8la4o/why_is_dmt_treated_like_some_kind_of_special/). I haven't yet breakthrough on it though.
+I love all [tryptamines](tryptamines.md) including DMT. [Many say it's life changing](https://www.reddit.com/r/RationalPsychonaut/comments/u8la4o/why_is_dmt_treated_like_some_kind_of_special/). I didn't breakthrough on it yet though.
 
-I enjoy [Ayahuasca](https://en.wikipedia.org/wiki/Ayahuasca) & smoking [Changa](<https://en.wikipedia.org/wiki/Changa_(drug)>) too.
+[Ayahuasca](https://en.wikipedia.org/wiki/Ayahuasca) & smoking [Changa](<https://en.wikipedia.org/wiki/Changa_(drug)>) is nice too.
 
 [Mimosa Root](https://www.mimosaroot.com/) sells quality [Mimosa Hostilis](https://www.mimosaroot.com/product/mimosa-hostilis-inner-root-bark-mhrb-powder/).
 

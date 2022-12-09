@@ -978,3 +978,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Learning Rust with ChatGPT, Copilot and Advent of Code (2022)](https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/) ([HN](https://news.ycombinator.com/item?id=33872369))
 - [Rust for JS devs : Borrow Checker (2022)](https://www.youtube.com/watch?v=ZNFdkTIzdXM)
 - [Data-driven performance optimization with Rust and Miri (2022)](https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35)
+- [How I got involved in the Rust community (2022)](https://ochagavia.nl/blog/how-i-got-involved-in-the-rust-community/)
