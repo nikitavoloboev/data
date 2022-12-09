@@ -23,3 +23,4 @@ title: Cassandra DB
 - [Cassandra at Apple: 1000s of Clusters, 300k Nodes, 100 PB (2022)](https://twitter.com/erickramirezau/status/1578063811495477248) ([HN](https://news.ycombinator.com/item?id=33124631))
 - [GoCQL](https://github.com/gocql/gocql) - Fast and robust Cassandra client for Go. ([Article](https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/))
 - [myko](https://github.com/rakyll/myko) - Simple attribution engine. Currently only supports Cassandra and Cassandra-compatible datastores.
+- [Swift Cassandra Client](https://github.com/apple/swift-cassandra-client)

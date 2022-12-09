@@ -152,7 +152,7 @@ title: Kubernetes
 - [Crash Course in Kubernetes: blog series (2020)](https://blog.tilt.dev/2019/10/16/crash-course-kubernetes-overview.html)
 - [Fabio](https://github.com/fabiolb/fabio) - Fast, modern, zero-conf load balancing HTTP(S) and TCP router for deploying applications managed by consul.
 - [Rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes.
-- [Solo](https://www.solo.io/) - Next generation API gateway to connect, secure and control traffic to any application on any infrastructure.
+- [Solo](https://www.solo.io/) - Next generation API gateway to connect, secure and control traffic to any application on any infrastructure. ([GitHub](https://github.com/solo-io)) ([Workshops](https://github.com/solo-io/workshops))
 - [Gloo](https://github.com/solo-io/gloo) - Envoy-Powered API Gateway.
 - [Keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates. ([Web](https://keel.sh/))
 - [GLBC](https://github.com/kubernetes/ingress-gce) - Ingress controller for Google Cloud.

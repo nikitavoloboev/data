@@ -115,3 +115,4 @@ title: Agda
 - [Improving Agda Interaction](https://github.com/phijor/agda-mode-ng)
 - [Formalization of 2LTT in Agda](https://github.com/UnivalencePrinciple/2LTT-Agda)
 - [Semi-Simplicial Types in Agda](https://github.com/FrozenWinters/SSTs)
+- [Agda Cubical Experiments](https://github.com/ncfavier/cubical-experiments)

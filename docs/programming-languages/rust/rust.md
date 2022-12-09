@@ -977,3 +977,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [How much does Rust's bounds checking actually cost? (2022)](https://blog.readyset.io/bounds-checks/) ([Lobsters](https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking)) ([HN](https://news.ycombinator.com/item?id=33805419)) ([Reddit](https://www.reddit.com/r/rust/comments/z92vid/measuring_how_much_rusts_bounds_checking_actually/))
 - [Learning Rust with ChatGPT, Copilot and Advent of Code (2022)](https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/) ([HN](https://news.ycombinator.com/item?id=33872369))
 - [Rust for JS devs : Borrow Checker (2022)](https://www.youtube.com/watch?v=ZNFdkTIzdXM)
+- [Data-driven performance optimization with Rust and Miri (2022)](https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35)

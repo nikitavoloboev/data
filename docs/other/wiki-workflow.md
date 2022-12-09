@@ -354,7 +354,7 @@ I want to:
 - [Relanote](https://relanote.com/) - Connect your notes into a knowledge graph.
 - [Milanote](https://milanote.com/) - Tool for organizing creative projects.
 - [mymind](https://mymind.com/) - Extension for your mind.
-- [Foam](https://github.com/foambubble/foam) - Personal knowledge management and sharing system for VSCode. ([Foam Workspace](https://mathieudutour.github.io/foam-gatsby-template/)) ([Lobsters](https://lobste.rs/s/xufl8d/foam_personal_knowledge_management)) ([Web](https://foambubble.github.io/foam/)) ([HN](https://news.ycombinator.com/item?id=23666950)) ([HN 2](https://news.ycombinator.com/item?id=25760066))
+- [Foam](https://github.com/foambubble/foam) - Personal knowledge management and sharing system for VSCode. ([Foam Workspace](https://mathieudutour.github.io/foam-gatsby-template/)) ([Lobsters](https://lobste.rs/s/xufl8d/foam_personal_knowledge_management)) ([Web](https://foambubble.github.io/foam/)) ([HN](https://news.ycombinator.com/item?id=23666950)) ([HN](https://news.ycombinator.com/item?id=25760066)) ([Discord](https://discord.com/invite/HV2tn2FpEk))
 - [Supernotes](https://supernotes.app/) - Collaborative note-taking app. ([HN](https://news.ycombinator.com/item?id=25790365)) ([HN](https://news.ycombinator.com/item?id=30440275))
 - [Gthnk](http://www.gthnk.com/) - Personal Journal.
 - [Growing the Evergreens (2020)](https://maggieappleton.com/evergreens)

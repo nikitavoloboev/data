@@ -14,7 +14,7 @@ I share photos and stories from my life there. I also curate a small page of [be
 
 ## Knowledge in [wiki](../intro.md)
 
-I share [everything I know](everything-I-know.md) in form of this wiki & [articles I wrote](my-articles.md). Can query everything using search on top or with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
+I share [everything I know](everything-I-know.md) in this wiki. Can query everything using search on top or with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 
 ## Music on [Spotify](https://open.spotify.com/user/nikitavoloboev)
 

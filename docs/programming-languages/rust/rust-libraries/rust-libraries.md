@@ -916,6 +916,7 @@
 - [Rust Embed for Web](https://github.com/SeriousBug/rust-embed-for-web) - Rust Macro which embeds files into your executableFork of rust-embed with a focus on usage in web servers..
 - [OptionalStruct](https://github.com/lesurp/OptionalStruct) - Macro copying a struct with Option fields. Useful for config initialization.
 - [Respan](https://github.com/dtolnay/respan) - Macros to erase scope information from tokens.
+- [lazy_format](https://github.com/Lucretiel/lazy_format) - Lazy formatting utility macro.
 
 ## Math
 
@@ -2377,6 +2378,7 @@
 - [JumpRope](https://github.com/josephg/jumprope-rs) - Data structure for efficiently editing large strings, or for processing editing traces.
 - [polling](https://github.com/smol-rs/polling) - Portable interface to epoll, kqueue, event ports, and wepoll.
 - [tree_magic](https://github.com/aahancoc/tree_magic) - Determines the MIME type of a file by traversing a file type tree.
+- [state](https://github.com/SergioBenitez/state) - Rust library for safe and effortless global and thread-local state management.
 
 ## Cargo Plugins
 

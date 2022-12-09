@@ -156,3 +156,4 @@ title: Speech recognition
 - [SpeechRecognition](https://github.com/Uberi/speech_recognition) - Speech recognition module for Python, supporting several engines and APIs, online and offline.
 - [TransFusion: Transcribing Speech with Multinomial Diffusion](https://github.com/RF5/transfusion-asr)
 - [Convmelspec: Melspectrograms for On-Device Audio Machine Learning (2022)](https://github.com/adobe-research/convmelspec)
+- [Lightning Echo](https://github.com/Lightning-AI/echo) - Production-ready audio and video transcription app that can run on your laptop or in the cloud.
