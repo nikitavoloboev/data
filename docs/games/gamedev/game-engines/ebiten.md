@@ -21,3 +21,4 @@ title: Ebiten
 - [Ebitengine TPS vs FPS](https://github.com/tinne26/tps-vs-fps)
 - [gmath](https://github.com/quasilyte/gmath) - Godot-inspired math library for Ebintengine and other Go game engines.
 - [Ebitengine input library](https://github.com/quasilyte/ebitengine-input) - Godot-inspired action input handling system for Ebitengine.
+- [ganim8](https://github.com/yohamta/ganim8) - Sprite Animation library for Ebitengine inspired by anim8.

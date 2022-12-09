@@ -58,6 +58,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Owen D. Pomery](https://owenpomery.com/work)
 - [Cheryl Young](https://cysketch.com/)
 - [Jo Rioux](https://www.instagram.com/joriouxdraws/)
+- [Kruger Ono](https://twitter.com/KrugerOno)
 - [Shusei Nagaoka](https://twitter.com/UrbanFoxxxx/status/1217915945882202112)
 - [Doug John Miller](https://www.instagram.com/dougjohnmiller/)
 - [Lee kyutae](https://www.instagram.com/kokooma_/)

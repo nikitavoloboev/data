@@ -174,3 +174,5 @@
 - [Statistical Process Control: A Manager’s Guide](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html)
 - [ICLR 2023 Statistics](https://guoqiangwei.xyz/iclr2023_stats/iclr2023_submissions.html) ([Code](https://github.com/weigq/iclr2023_stats))
 - [Understanding Convolutions in Probability (2022)](https://www.countbayesie.com/blog/2022/11/30/understanding-convolutions-in-probability-a-mad-science-perspective) ([HN](https://news.ycombinator.com/item?id=33819952))
+- [Mean (μ) and median (m) are within a std deviation (σ)](https://twitter.com/docmilanfar/status/1600709918973399040)
+- [Statistical Rethinking Course (2023)](https://github.com/rmcelreath/stat_rethinking_2023)

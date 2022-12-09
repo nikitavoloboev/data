@@ -178,3 +178,4 @@ title: Coq
 - [Goose](https://github.com/tchajed/goose) - Converts a small subset of Go to Coq.
 - [simp_lang](https://github.com/tchajed/iris-simp-lang) - Simple programming language that we instantiate Iris with.
 - [PUMPKIN Pi](https://github.com/uwplse/pumpkin-pi) - Plugin for automatic discovery of and lifting across equivalences between types in Coq.
+- [SerAPI](https://github.com/ejgallego/coq-serapi) - Machine-Friendly, Data-Centric Serialization for Coq.

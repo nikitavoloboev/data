@@ -10,6 +10,8 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 
 [Fast Stable Diffusion Colab Notebooks](https://github.com/TheLastBen/fast-stable-diffusion) is great.
 
+[Why does ChatGPT work so well](https://twitter.com/DrJimFan/status/1600884299435167745) is nice read to understand how ChatGPT works.
+
 ## Notes
 
 - [The net effect of the last 18 mo has been to slightly lubricate human imagination, making it easier for individuals to visualize possible worlds/scenes/moods. It’s only a medium-big deal—unless this is a foretaste of similar acceleration in music, code, and text.](https://twitter.com/Ted_Underwood/status/1566787680872157185)
@@ -228,5 +230,10 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [How to use ChatGPT as founder](https://twitter.com/JamesIvings/status/1600389697418956800)
 - [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [Pair Programming with AI: Writing a Distributed, Fault-Tolerant Redis Client using ChatGPT (2022)](https://medium.com/@saileshmukil/pair-programming-with-ai-writing-a-distributed-fault-tolerant-redis-client-using-chatgpt-239dc0a90550)
-- [Bumblebee: GPT2, Stable Diffusion, and More in Elixir (2022)](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O) ([HN](https://news.ycombinator.com/item?id=33913161))
+- [Bumblebee](https://github.com/elixir-nx/bumblebee) - GPT2, Stable Diffusion, and More in Elixir. ([HN](https://news.ycombinator.com/item?id=33913161)) ([Article](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O))
 - [ChatGPT, Rot13, and Daniel Kahneman (2022)](https://jameswillia.ms/posts/chatgpt-rot13.html) ([HN](https://news.ycombinator.com/item?id=33913845))
+- [Why does ChatGPT work so well?](https://twitter.com/DrJimFan/status/1600884299435167745)
+- [Ask HN: Can ChatGPT generate fully functional code? (2022)](https://news.ycombinator.com/item?id=33919451)
+- [Stable Diffusion 2.0 Negative Prompting](https://github.com/minimaxir/stable-diffusion-negative-prompt)
+- [GPT-2 Output Detector](https://huggingface.co/openai-detector)
+- [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced) - Browser extension that augments your ChatGPT prompts with web results.

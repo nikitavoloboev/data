@@ -45,3 +45,4 @@ title: Differential equations
 - [The Lazy Way to Solve Differential Equations (2022)](https://iagoleal.com/posts/calculus-symbolic-ode/) ([HN](https://news.ycombinator.com/item?id=32191372))
 - [Linear Algebra & Differential Equations course (2022)](https://github.com/lin-lin/MATH54)
 - [PINO: Physics-informed Neural Operator for Learning Partial Differential Equation](https://github.com/devzhk/PINO)
+- [Numerical Simulation of Ordinary Differential Equations: Integrating ODEs (2022)](https://www.youtube.com/watch?v=QBeNXHrAYns&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&index=40)

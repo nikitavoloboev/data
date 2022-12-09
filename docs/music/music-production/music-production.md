@@ -482,3 +482,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [ChatGPT composed music in Sonic Pi](https://twitter.com/rycpt/status/1600253905404715011)
 - [MusCaps: Generating Captions for Music Audio (2021)](https://arxiv.org/abs/2104.11984) ([Code](https://github.com/ilaria-manco/muscaps))
 - [Sheet Sage](https://github.com/chrisdonahue/sheetsage) - Transcribe music into lead sheets.
+- [Textless Speech-to-Music Retrieval Using Emotion Similarity (2022)](https://github.com/SeungHeonDoh/speech-to-music)

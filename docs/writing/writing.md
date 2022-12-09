@@ -30,7 +30,7 @@ Replace words like `really like` with `love` or other more appropriate words tha
 
 ## My writing process
 
-I stopped writing articles after starting [this wiki](../other/wiki-workflow.md).  For reasons I mention [here](../sharing/my-articles.md).
+I stopped writing articles after starting [this wiki](../other/wiki-workflow.md). For reasons I mention [here](../sharing/my-articles.md).
 
 When I did write articles, I started writing all my articles by jotting down notes/ideas as dashed points below the title. Here is how that looks:
 
@@ -42,7 +42,8 @@ I wrote all my articles, docs & notes in [Sublime Text](../text-editors/sublime-
 
 ![](https://i.imgur.com/J7vMVjA.png)
 
-Nowadays I mostly use [Obsidan](../tools/obsidian.md) for everything. 
+Nowadays I mostly use [Obsidan](../tools/obsidian.md) for everything.
+
 ## [Focus. Format. Framing.](https://www.youtube.com/watch?v=_mQNwL8HkS0)
 
 - Focus
@@ -314,3 +315,4 @@ I love writing of [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQl
 - [Dev Writer's Workshop](https://github.com/Nutlope/devwriting)
 - [Lesson writing structure. Write music.](https://twitter.com/nathanbaugh27/status/1591442834053529601)
 - [Prefer simpler language](https://twitter.com/jasoncwarner/status/1593677724027326464)
+- [Ian Fleming Explains How to Write a Thriller](https://lithub.com/ian-fleming-explains-how-to-write-a-thriller/)

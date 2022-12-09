@@ -1,5 +1,7 @@
 # CPU
 
+Would love to work at [TSMC](https://www.tsmc.com/english) one day.
+
 ## Notes
 
 - [Math is often significantly faster than L1 cache hits, so memoization in many cases is actually a performance loss. Need to benchmark it though.](https://twitter.com/transitracer/status/1588316358303010816)

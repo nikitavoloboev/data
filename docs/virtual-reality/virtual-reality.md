@@ -4,7 +4,7 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 
 I find the displays on Oculus still lacking a lot and my eyes get tired very fast of using them. Meta is investing billions into making VR/AR work and I am happy they did take this bet as new hardware will unlock things we simply couldn't do before.
 
-I do trust Apple to do a better job with their VR/AR headset and am waiting for the release of it to start developing for this new paradigm.
+I trust Apple to do a better job with their VR/AR headset and am waiting for the release of it to start developing for this new paradigm.
 
 One idea I want to make is a kind of life linter. I set some rules for what I shouldn't do, like buying chocolates in supermarket and it will lint me for this in real time. Like show a red cross next to the chocolate bar as I try pick it up. A true configurable [AR](../augmented-reality/augmented-reality.md) display is actually fascinating in what it can unlock.
 

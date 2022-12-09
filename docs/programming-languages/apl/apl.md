@@ -79,3 +79,4 @@ title: APL
 - [APL deserves its renaissance too (2018)](https://wordsandbuttons.online/apl_deserves_its_renaissance_too.html) ([HN](https://news.ycombinator.com/item?id=33638069))
 - [Advent of q 2022](https://github.com/qbists/studyq/tree/main/aoc/2022)
 - [Awesome Q](https://github.com/qbists/awesome-q)
+- [Solutions to Advent of Code 2022 in APL & BQN](https://github.com/codereport/Advent-of-Code-2022)

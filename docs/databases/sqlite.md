@@ -277,3 +277,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [Fast SQLite Inserts](https://github.com/avinassh/fast-sqlite3-inserts) - Test scripts to generate a SQLite DB with 1B rows in fastest possible way. ([Lobsters](https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck#c_4az0a6))
 - [Pocketbase Auth Library](https://github.com/kennethklee/pb-auth)
 - [Go and SQLite in the Cloud (2022)](https://www.golang.dk/articles/go-and-sqlite-in-the-cloud) ([HN](https://news.ycombinator.com/item?id=33894995))
+- [sqlite-loadable-rs](https://github.com/asg017/sqlite-loadable-rs) - Framework for writing fast and performant SQLite extensions in Rust.

@@ -158,3 +158,4 @@ title: OCaml
 - [Reverse-mode algorithmic differentiation using effect handlers in OCaml 5](https://github.com/ocaml-multicore/effects-examples/blob/master/algorithmic_differentiation.ml) ([HN](https://news.ycombinator.com/item?id=33666694))
 - [OCaml behind the scenes: exceptions (2022)](https://github.com/fabbing/obts_exn)
 - [Computations that differentiate, debug, and document themselves (2022)](https://blog.janestreet.com/computations-that-differentiate-debug-and-document-themselves/)
+- [OCaml Jupyter](https://github.com/akabe/ocaml-jupyter) - OCaml kernel for Jupyter (IPython) notebook.

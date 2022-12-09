@@ -543,3 +543,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Golang-iDevice](https://github.com/electricbubble/gidevice) - Communicate with iOS devices implemented with Go.
 - [Golang-WDA](https://github.com/electricbubble/gwda) - WebDriverAgent ( iOS ) Client Library in Go.
 - [How I write this blog on my iPhone, from a train (2022)](https://notes.alinpanaitiu.com/How%20I%20write%20this%20blog%20on%20my%20iPhone%20in%20a%20train)
+- [Motion Engineering at Scale (2022)](https://medium.com/airbnb-engineering/motion-engineering-at-scale-5ffabfc878)

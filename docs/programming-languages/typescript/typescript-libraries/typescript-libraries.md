@@ -707,6 +707,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [RC9](https://github.com/unjs/rc9) - Read/Write config couldn't be easier.
 - [Machi](https://github.com/josephluck/machi) - Data-driven state machines.
 - [HTML5-QRCode](https://github.com/mebjas/html5-qrcode) - Cross platform HTML5 QR code reader.
+- [ts-consts](https://github.com/jfet97/ts-consts) - Manage constants with full TypeScript support, nominal typing included.
 
 ## Links
 

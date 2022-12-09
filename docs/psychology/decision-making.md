@@ -10,6 +10,7 @@ Like using [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 - [Don't make decisions purely on instinct.](https://www.reddit.com/r/CrazyFuckingVideos/comments/uiafyb/dude_tries_to_save_a_suicidal_man/)
 - [The main killer of productivity at most companies is everyone talking in circles waiting for someone—anyone—to make a decision. And we tend to exaggerate the importance of being correct the first time. Usually if it's the wrong decision it can be reversed almost instantly.](https://twitter.com/Austen/status/1586830390953594880)
 - [I often think of Andy Grove's observation that everyone wishes they'd made most of their big decisions 6 mos earlier — job changes, breakups, firings… The natural conclusion is that you should make the big changes extremely fast — shortly after you first think of them.](https://twitter.com/Altimor/status/1588670697534287872)
+- [When faced with a decision: Know that lack of action is a decision. Decide to decide. Make room for error. Create contingency plans based on input, not fear. See your decisions as points on a data line, not as absolutes. Minimize undue blame and regret.](https://twitter.com/Kpaxs/status/1334374396333580288)
 
 ## Links
 

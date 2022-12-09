@@ -328,3 +328,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [We sign code now (2022)](https://blog.trailofbits.com/2022/11/08/sigstore-code-signing-verification-software-supply-chain/)
 - [Awesome Software Supply Chain Security](https://github.com/bureado/awesome-software-supply-chain-security)
 - [InfoSec Black Friday Deals](https://github.com/0x90n/InfoSec-Black-Friday)
+- [Nosey Parker](https://github.com/praetorian-inc/noseyparker) - Command-line program that finds secrets and sensitive information in textual data.

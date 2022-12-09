@@ -248,6 +248,7 @@
 - [Charlie Tango](https://www.charlietango.dk/) ([GitHub](https://github.com/charlie-tango))
 - [Collabora](https://www.collabora.com/) - Open Source Software Consulting.
 - [Spaceteams](https://www.spaceteams.de/) ([GitHub](https://github.com/spaceteams))
+- [0No Co](https://0no.co/)
 
 ## Notes
 
