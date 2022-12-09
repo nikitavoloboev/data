@@ -1002,3 +1002,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Transformers for software engineers (2022)](https://blog.nelhage.com/post/transformers-for-software-engineers/)
 - [A Generalist Neural Algorithmic Learner (2022)](https://arxiv.org/abs/2209.11142)
 - [AlphaCode Attention Visualization](https://alphacode.deepmind.com/) ([HN](https://news.ycombinator.com/item?id=33914122))
+- [The Illustrated Transformer (2018)](https://jalammar.github.io/illustrated-transformer/)

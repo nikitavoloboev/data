@@ -241,6 +241,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Nigel Tao](https://nigeltao.github.io/)
 - [Marco Cetica](https://marcocetica.com/)
 - [Bradley Taunt](https://bt.ht/)
+- [Jay Alammar](https://jalammar.github.io/)
 
 ## Notes
 
