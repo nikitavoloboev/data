@@ -4,7 +4,7 @@
 
 I personally love [psilocybin mushrooms](https://en.wikipedia.org/wiki/Psilocybin_mushroom) and take them [occasionaly](../drugs/psychedelics/psychedelics.md). I also take some mushrooms daily as part of my [supplement](../health/nutrition/supplements.md).
 
-Get my spores to grow [here](https://orangutantradingco.com/). Grow them using [Grow Kit](https://mycopunks.com/products/beginner-fruit-in-the-bag-mushroom-grow-kit)
+Get my spores to grow [here](https://orangutantradingco.com/). Grow them using [Grow Kit](https://mycopunks.com/products/beginner-fruit-in-the-bag-mushroom-grow-kit).
 
 [Uncle Ben Tek](https://www.reddit.com/r/shrooms/comments/dbzy8e/uncle_ben_tek_aka_spiderman_tek_full_instructions/) combined with [this method](https://www.shroomery.org/forums/showflat.php/Number/25274461/fpart/all/vc/1) is nice too.
 
@@ -72,3 +72,8 @@ Get my spores to grow [here](https://orangutantradingco.com/). Grow them using [
 - [Mushroom Growers Reddit](https://www.reddit.com/r/MushroomGrowers/)
 - [What is Mushroom Mycelium?](https://www.youtube.com/watch?v=vnRDzotcQ9U)
 - [Cubensis greenhouse grow for cold weather](https://www.reddit.com/r/druggardening/comments/ohbu4o/cubensis_greenhouse_grow_for_cold_weather_in/)
+- [The Psilocybin Chef Cookbook (2022)](https://www.scribd.com/document/524693925/The-Psilocybin-Chef-Cookbook)
+- [Growing Gourmet and Medicinal Mushrooms (1993)](https://library.uniteddiversity.coop/Permaculture/Growing_Gourmet_and_Medicinal_Mushrooms.pdf)
+- [Mycocultural Revolution Book (2022)](https://microcosmpublishing.com/catalog/books/8525)
+- [The Fungal Pharmacy Book](https://www.kobo.com/ww/en/ebook/the-fungal-pharmacy)
+- [Radical Mycology](https://www.radicalmycology.com/)

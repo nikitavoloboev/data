@@ -628,3 +628,4 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [Ask HN: Reading material on how to be a better software engineer? (2022)](https://news.ycombinator.com/item?id=33854815)
 - [The cloudy layers of modern-day programming (2022)](https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/) ([HN](https://news.ycombinator.com/item?id=33877838))
 - [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
+- [Consider Using CSV](https://jfhr.me/consider-using-csv/) ([HN](https://news.ycombinator.com/item?id=33934060))

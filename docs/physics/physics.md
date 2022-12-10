@@ -2,9 +2,9 @@
 
 [This](https://www.susanrigetti.com/physics) & [this Reddit thread](https://www.reddit.com/r/AskPhysics/comments/sxrg4q/how_can_i_learn_physics_on_my_own/) are nice places to start learning physics. I like reading [AskPhysics subreddit](https://www.reddit.com/r/AskPhysics/).
 
-[Unzicker's Real Physics](https://www.youtube.com/@TheMachian/videos) & [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html) are great.
+[Unzicker's Real Physics](https://www.youtube.com/@TheMachian/videos) ([need to double check his content](https://www.math.columbia.edu/~woit/wordpress/?p=6156)) & [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html) are interesting.
 
-I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s work interesting.
+I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s work mind opening.
 
 ## Notes
 
@@ -348,3 +348,6 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Unsolved Mysteries: Spin - and a Tentative Explanation](https://www.youtube.com/watch?v=yEJicBTTabE)
 - [Are Maxwell's Equations Correct? - Variable Speed of Light (2022)](https://www.youtube.com/watch?v=GYA31AKZfbs)
 - [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html) ([HN](https://news.ycombinator.com/item?id=33925047))
+- [Unsolved Mysteries: Beta Decay and the Struggle Between Pauli and Bohr](https://www.youtube.com/watch?v=9ukdBHFRjpM)
+- [Misleading Concepts: The Planck Length](https://www.youtube.com/watch?v=IEp3QdqSE0s)
+- [Let's talk Pseudoscience](https://www.reddit.com/r/Physics/comments/h7qblq/lets_talk_pseudoscience/)

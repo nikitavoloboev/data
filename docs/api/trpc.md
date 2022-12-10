@@ -30,3 +30,4 @@ title: tRPC
 - [tRPC Remix](https://github.com/ggrandi/trpc-remix) - Connect tRPC router to remix.
 - [Clerk TRPC Minimal Starter](https://github.com/perkinsjr/clerk-trpc-minimal) - TRPC + Clerk with minimal styling.
 - [tRPC v10 is great](https://www.youtube.com/watch?v=uu57PhChTOE)
+- [tRPC.panel](https://github.com/iway1/trpc-panel) - Build a testing UI for your tRPC endpoints.
