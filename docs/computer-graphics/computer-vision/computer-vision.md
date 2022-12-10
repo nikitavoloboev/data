@@ -1030,3 +1030,4 @@
 - [Rerun](https://www.rerun.io/) - Open source visualization infrastructure for computer vision and robotics.
 - [ECON: Explicit Clothed humans Obtained from Normals (2022)](https://xiuyuliang.cn/econ/) ([Code](https://github.com/YuliangXiu/ECON))
 - [Monocular, One-stage, Regression of Multiple 3D People](https://github.com/Arthur151/ROMP)
+- [Paint by Example: Exemplar-based Image Editing with Diffusion Models (2022)](https://arxiv.org/abs/2211.13227) ([Code](https://github.com/Fantasy-Studio/Paint-by-Example))

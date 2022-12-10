@@ -616,3 +616,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Time travel in Postgres. Bisect to the last valid transaction (2022)](https://neon.tech/blog/time-travel-with-postgres/) ([HN](https://news.ycombinator.com/item?id=33897790))
 - [Edge-compatible Serverless Driver for Postgres (2022)](https://neon.tech/blog/serverless-driver-for-postgres/) ([HN](https://news.ycombinator.com/item?id=33909616))
 - [pg_hint_plan](https://github.com/ossc-db/pg_hint_plan) - Give PostgreSQL ability to manually force some decisions in execution plans.
+- [How I used Supabase and n8n for my background tasks (2022)](https://mathias.rocks/blog/2022-12-06-how-I-used-supabase/)

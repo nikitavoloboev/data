@@ -86,3 +86,4 @@ title: JAX
 - [Myriad](https://github.com/nikihowe/myriad) - Real-world testbed that aims to bridge trajectory optimization and deep learning.
 - [JaQMC](https://github.com/bytedance/jaqmc) - JAX accelerated Quantum Monte Carlo.
 - [Rieoptax](https://github.com/SaitejaUtpala/rieoptax) - Riemannian Optimization Using JAX.
+- [Jax 0.4.0](https://twitter.com/cgarciae88/status/1601315046503567360)

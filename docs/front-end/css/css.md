@@ -589,3 +589,4 @@ all: unset
 - [PostCSS-Lit](https://github.com/43081j/postcss-lit) - PostCSS syntax for extracting CSS from template literals inside JS/TS files.
 - [Super Useful CSS Resources (2022)](https://dev.to/lissy93/super-useful-css-resources-1ba3)
 - [Practical Guide to CSS Media Queries (2022)](https://stackdiary.com/css-media-queries/)
+- [Animated Background Stripes That Transition on Hover (2022)](https://css-tricks.com/animated-background-stripes-transition-hover/)

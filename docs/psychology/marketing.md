@@ -199,6 +199,7 @@ Best way to do marketing is simply [launching features often and sharing updates
 - [Senja](https://senja.io/) - Collect, Manage and Share Testimonials. ([Demo](https://love.senja.io/))
 - [Product Hunt Launch Checklist](https://phlaunchchecklist.com/)
 - [ChatGPT will change marketing](https://twitter.com/heykahn/status/1599749880515244034)
+- [How to be a writer on a marketing team without sounding like a jerk](https://a.wholelottanothing.org/2022/12/07/how-to-be-a-writer-on-a-marketing-team-without-sounding-like-a-jerk/)
 
 ## Images
 

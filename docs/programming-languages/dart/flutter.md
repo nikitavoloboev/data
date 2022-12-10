@@ -108,3 +108,4 @@ title: Flutter
 - [Honey](https://github.com/clickup/honey) - End-to-end test framework for Flutter apps.
 - [Flutter/MX](https://github.com/kennytilton/flutter-mx) - Programming Google Flutter with Clojure. ([HN](https://news.ycombinator.com/item?id=33820608))
 - [Flutter Discord](https://discord.com/invite/N7Yshp4)
+- [Flutter Supabase Functional Programming with fpdart (2022)](https://www.sandromaglione.com/techblog/flutter-dart-functional-programming-fpdart-supabase-app)

@@ -242,3 +242,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [I am frustrated with Stable Diffusion (2022)](https://novalis.org/blog/2022-12-05-i-am-frustrated-with-stable-diffusion.html) ([HN](https://news.ycombinator.com/item?id=33902248))
 - [Make ChatGPT yourself](https://twitter.com/sjwhitmore/status/1601254826947784705)
 - [ChatGPT Mac Menu Bar](https://github.com/KittenYang/ChatGPT-Mac-MenuBar) - Chat with OpenAI's ChatGPT in mac menu bar.
+- [Stableboost](https://stableboost.ai/) - Create personalized images with AI.

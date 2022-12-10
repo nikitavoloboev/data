@@ -414,3 +414,4 @@ title: Reinforcement learning
 - [Foundations of Reinforcement Learning | ETH Zürich (2021)](https://video.ethz.ch/lectures/d-infk/2021/autumn/263-5255-00L/27f58ff4-81a4-4a84-9c67-e4c73dbeb920.html)
 - [Precise atom manipulation through deep reinforcement learning (2022)](https://www.nature.com/articles/s41467-022-35149-w) ([HN](https://news.ycombinator.com/item?id=33902363))
 - [Causal-MBRL](https://github.com/polixir/causal-mbrl) - Toolkit of Causal Model-based Reinforcement Learning.
+- [Illustrating Reinforcement Learning from Human Feedback (RLHF) (2022)](https://huggingface.co/blog/rlhf)
