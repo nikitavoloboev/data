@@ -121,3 +121,4 @@ title: Vite
 - [vite-plugin-dynamic-import](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import.
 - [Nice Vite Plugins](https://github.com/fengxinming/vite-plugins)
 - [Vite 4.0 (2022)](https://vitejs.dev/blog/announcing-vite4.html) ([HN](https://news.ycombinator.com/item?id=33923537))
+- [Vituum](https://github.com/vituum/vituum) - Fast prototyping with template engines and integrated frontend tools.

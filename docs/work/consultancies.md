@@ -1,45 +1,5 @@
 # Consultancies
 
-## React Native
-
-- [CallStack](https://callstack.com/) - React Native community-trusted, extremely skilled Javascript developers.
-- [Galois](https://galois.com/) - Develops technology to guarantee the trustworthiness of systems where failure is unacceptable. ([GitHub](https://github.com/GaloisInc/))
-- [Akveo](https://www.akveo.com/) - Delivering Web & Mobile Solutions.
-- [Spaceship Studio](https://spaceship.studio/) - Web & mobile development, strategy, and training.
-- [Margelo](https://margelo.io/) - Elite App Development and Contracting Agency - aka the "React Native Avengers". ([Twitter](https://twitter.com/margelo_io)) ([GitHub](https://github.com/margelo))
-
-## React
-
-- [Formidable](https://formidable.com/) - JavaScript consultancy built for the modern web.
-- [Component Driven](https://component-driven.io/)
-
-## Rust
-
-- [Asquera](https://asquera.de/) - Specialise on the things below the covers: databases, queues, caches, APIs and the tiny details that make them all work together.
-- [Lyken Software Solutions](https://lyken.rs/) ([GitHub](https://github.com/LykenSol))
-
-## Data Science
-
-- [Quansight](https://www.quansight.com/consulting)
-- [QuantumBlack](https://www.quantumblack.com/) - Use data, analytics and design to help our clients be the best they can be.
-- [Data Revenue](https://datarevenue.com/) - Custom machine learning solutions for real-life problems.
-
-## iOS
-
-- [Oak Snow Consulting](http://oaksnow.com/) - Based in Vermont, builds iOS and Web apps for early stage startups and small businesses.
-- [Exyte](https://exyte.com/) - Mobile, Blockchain, AR/VR development services.
-- [M Cubed Software](https://www.mcubedsw.com/)
-- [Breakpoint Studio](https://breakpointstudio.com/) - Mobile Strategy, Design, Development.
-- [Elegant Chaos](https://elegantchaos.com/) - Mac and iOS software development, consultancy, debugging, and contracting.
-- [Nice Photon](https://nicephoton.com/) - Make iOS apps. ([GitHub](https://github.com/nicephoton))
-- [Xmartlabs](https://xmartlabs.com/) ([GitHub](https://github.com/xmartlabs))
-- [Windmill](http://madebywindmill.com/)
-- [3 Sided Cube](https://3sidedcube.com/) ([GitHub](https://github.com/3sidedcube))
-
-## Node
-
-- [Custom Node.js Module Development](http://cryto.net/~joepie91/custom-module-development.html)
-
 ## Design
 
 - [Oak Studios](https://oak.is/)
@@ -94,6 +54,47 @@
 - [basement.studio](https://basement.studio/) - Digital studio making cool shit that performs. ([GitHub](https://github.com/basementstudio)) ([Twitter](https://twitter.com/basementstudio))
 - [Bakken & Bæck](https://bakkenbaeck.com/) ([Twitter](https://twitter.com/bakkenbaeck))
 - [Bureau Cool](https://bureau.cool/) ([Twitter](https://twitter.com/BureauCool))
+- [Studio Essence](https://www.studioessence.design/) ([Twitter](https://twitter.com/ikergnz))
+
+## React Native
+
+- [CallStack](https://callstack.com/) - React Native community-trusted, extremely skilled Javascript developers.
+- [Galois](https://galois.com/) - Develops technology to guarantee the trustworthiness of systems where failure is unacceptable. ([GitHub](https://github.com/GaloisInc/))
+- [Akveo](https://www.akveo.com/) - Delivering Web & Mobile Solutions.
+- [Spaceship Studio](https://spaceship.studio/) - Web & mobile development, strategy, and training.
+- [Margelo](https://margelo.io/) - Elite App Development and Contracting Agency - aka the "React Native Avengers". ([Twitter](https://twitter.com/margelo_io)) ([GitHub](https://github.com/margelo))
+
+## React
+
+- [Formidable](https://formidable.com/) - JavaScript consultancy built for the modern web.
+- [Component Driven](https://component-driven.io/)
+
+## Rust
+
+- [Asquera](https://asquera.de/) - Specialise on the things below the covers: databases, queues, caches, APIs and the tiny details that make them all work together.
+- [Lyken Software Solutions](https://lyken.rs/) ([GitHub](https://github.com/LykenSol))
+
+## Data Science
+
+- [Quansight](https://www.quansight.com/consulting)
+- [QuantumBlack](https://www.quantumblack.com/) - Use data, analytics and design to help our clients be the best they can be.
+- [Data Revenue](https://datarevenue.com/) - Custom machine learning solutions for real-life problems.
+
+## iOS
+
+- [Oak Snow Consulting](http://oaksnow.com/) - Based in Vermont, builds iOS and Web apps for early stage startups and small businesses.
+- [Exyte](https://exyte.com/) - Mobile, Blockchain, AR/VR development services.
+- [M Cubed Software](https://www.mcubedsw.com/)
+- [Breakpoint Studio](https://breakpointstudio.com/) - Mobile Strategy, Design, Development.
+- [Elegant Chaos](https://elegantchaos.com/) - Mac and iOS software development, consultancy, debugging, and contracting.
+- [Nice Photon](https://nicephoton.com/) - Make iOS apps. ([GitHub](https://github.com/nicephoton))
+- [Xmartlabs](https://xmartlabs.com/) ([GitHub](https://github.com/xmartlabs))
+- [Windmill](http://madebywindmill.com/)
+- [3 Sided Cube](https://3sidedcube.com/) ([GitHub](https://github.com/3sidedcube))
+
+## Node
+
+- [Custom Node.js Module Development](http://cryto.net/~joepie91/custom-module-development.html)
 
 ## DB
 

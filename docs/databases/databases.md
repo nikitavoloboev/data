@@ -270,6 +270,7 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Reindexer](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface.
 - [AssemblageDB](https://github.com/fkettelhoit/assemblagedb) - Distributed Document/Graph DB for Connected Pages & Documents.
 - [Apache ORC](https://orc.apache.org/) - High-Performance Columnar Storage for Hadoop. ([Code](https://github.com/apache/orc))
+- [SolomonDB](https://github.com/nomadiz/solomon-db) - Embedded Gremlin-compatible graph database written in Rust.
 
 ## Tools
 
@@ -730,3 +731,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Modern data modeling: Start with the end? (2022)](https://www.adventofdata.com/modern-data-modeling-start-with-the-end/) ([HN](https://news.ycombinator.com/item?id=33846087))
 - [Get Rid of Your Old Database Migrations (2022)](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 - [Ariga](https://ariga.io/) - New way to manage database schemas.
+- [EDMA](https://github.com/nomadiz/edma) - Interactive embedded database management system.

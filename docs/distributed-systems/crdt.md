@@ -110,3 +110,4 @@ title: Conflict-free replicated data type
 - [Data Laced with History: Causal Trees & Operational CRDTs (2018)](http://archagon.net/blog/2018/03/24/data-laced-with-history/) ([Code](https://github.com/archagon/crdt-playground))
 - [CRDTs make multiplayer text editing part of Zed's DNA (2022)](https://zed.dev/blog/crdts) ([HN](https://news.ycombinator.com/item?id=33820975))
 - [You might not need a CRDT (2022)](https://driftingin.space/posts/you-might-not-need-a-crdt) ([HN](https://news.ycombinator.com/item?id=33865672))
+- [pg_crdt - an experimental CRDT extension for Postgres (2022)](https://supabase.com/blog/postgres-crdt) ([HN](https://news.ycombinator.com/item?id=33931971)) ([Code](https://github.com/supabase/pg_crdt))

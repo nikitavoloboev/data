@@ -31,6 +31,7 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Give a roadmap whenever you start speaking. Signpost every argument. Explicitly state the implications of your arguments. Good debaters talk about facts, great ones talk about framing.](https://twitter.com/david_perell/status/1307493332285825024)
 - [My number one tip for giving conference talks: you're telling a story. Don't just read bullet points from slides!](https://twitter.com/ASpittel/status/1420731057851281417)
 - [The most effective presentation skill is backchanneling, which is where you shop your idea to each stakeholder well ahead of time and get verbal buy-in. Presenting then becomes a cake walk because it'll essentially be a formality.](https://twitter.com/lilykonings/status/1479546213573685248)
+- [I've found that it's very useful to speech-to-text a stream of consciousness style overview of what I want to talk about, then ask chatGPT to summarize it. Then, I ask it to re-expand to three or four paragraphs. Like an autoencoder.](https://twitter.com/stephenbalaban/status/1601352749043503104)
 
 ## Links
 

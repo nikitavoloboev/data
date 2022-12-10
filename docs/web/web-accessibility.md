@@ -118,3 +118,4 @@
 - [A Guide To Keyboard Accessibility: HTML And CSS (2022)](https://www.smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/)
 - [Setting up a screen reader testing environment on your computer (2022)](https://www.sarasoueidan.com/blog/testing-environment-setup/)
 - [Accessible Front-End Patterns For Responsive Tables (2022)](https://www.smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/)
+- [Better accessible names (2022)](https://hidde.blog/better-accessible-names/)
