@@ -21,7 +21,7 @@
 - [Caasy](https://caasy.io/) - Headless CMS with a focus on efficient collaboration and maximum flexibility.
 - [Best CMS with nice PR based workflows (2020)](https://twitter.com/rauchg/status/1323053624688173056)
 - [Feather CMS](https://github.com/BinaryBirds/feather) - Modern Swift-based content management system powered by Vapor 4.
-- [Directus](https://directus.io/) - Open-Source Headless CMS & API. ([Code](https://github.com/directus/directus))
+- [Directus](https://directus.io/) - Instant no-code App and dynamic API for any SQL database. ([Code](https://github.com/directus/directus)) ([GitHub](https://github.com/directus)) ([TS SDK](https://github.com/directus/sdk))
 - [rwtxt](https://github.com/schollz/rwtxt) - CMS for absolute minimalists. ([Web](https://rwtxt.com/public)) ([Lobsters](https://lobste.rs/s/xrqaxh/schollz_rwtxt_cms_for_absolute))
 - [Tensei](https://tenseijs.com/) - Open source Node.js Headless CMS. ([Code](https://github.com/tenseijs/tensei))
 - [Netlify CMS](https://www.netlifycms.org/) - Open-Source Content Management System. ([Code](https://github.com/netlify/netlify-cms)) ([Is this project dead?](https://answers.netlify.com/t/is-this-project-dead/70988))
