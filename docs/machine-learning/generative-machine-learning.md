@@ -239,3 +239,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced) - Browser extension that augments your ChatGPT prompts with web results.
 - [Diffusion Chat](https://github.com/KAJdev/diffusion-chat) - Chat-like interface for Stable Diffusion.
 - [StackExplain](https://github.com/shobrook/stackexplain) - Explain your error message in plain English using ChatGPT.
+- [I am frustrated with Stable Diffusion (2022)](https://novalis.org/blog/2022-12-05-i-am-frustrated-with-stable-diffusion.html) ([HN](https://news.ycombinator.com/item?id=33902248))

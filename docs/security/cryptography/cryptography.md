@@ -195,4 +195,4 @@
 - [Emerging Biometric Modalities and their Use: Loopholes in the Terminology of the GDPR and Resulting Privacy Risks (2022)](https://arxiv.org/abs/2211.12899)
 - [Tandem](https://github.com/sine-fdn/tandem) - Cryptographic Engine for Secure Multi-Party Computation using Garbled Circuits.
 - [SINE Foundation](https://sine.foundation/) ([GitHub](https://github.com/sine-fdn))
-- [End-to-end encrypted messages need more than libsignal (2022)](https://mjg59.dreamwidth.org/62598.html)
+- [End-to-end encrypted messages need more than libsignal (2022)](https://mjg59.dreamwidth.org/62598.html) ([HN](https://news.ycombinator.com/item?id=33929620))

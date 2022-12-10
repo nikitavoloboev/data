@@ -9,3 +9,4 @@
 - [Taxes for Self-employed or Freelancers in Spain & How to Pay](https://balcellsgroup.com/freelance-taxes-in-spain/)
 - [Bogleheads Spain Guide](https://bogleheads.es/guia)
 - [Investing in Spain (2022)](https://www.reddit.com/r/eupersonalfinance/comments/yzxwn2/12k_saved_living_in_spain_where_to_start_investing/)
+- [Can Duolingo actually teach you Spanish?](https://www.bloomberg.com/news/features/2022-12-02/duolingo-plus-gave-fans-of-free-app-a-cost-worth-paying) ([HN](https://news.ycombinator.com/item?id=33910439))

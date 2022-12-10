@@ -480,3 +480,4 @@
 - [Pointer Events](https://w3c.github.io/pointerevents/) ([Code](https://github.com/w3c/pointerevents))
 - [Tired of Web Dev](https://github.com/kitze/tired-of-webdev/)
 - [Fully Typed Web Apps (2022)](https://www.epicweb.dev/fully-typed-web-apps)
+- [Fireship.io](https://fireship.io/) - Build and ship your app faster (courses). ([Code](https://github.com/fireship-io/fireship.io)) ([HN](https://news.ycombinator.com/item?id=33925197))

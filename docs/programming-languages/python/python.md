@@ -565,3 +565,6 @@ for i, _ in enumerate(nums):
 - [Codon](https://github.com/exaloop/codon) - High-performance Python compiler using LLVM. ([HN](https://news.ycombinator.com/item?id=33908576))
 - [Every modeler is supposed to be a great Python programmer (2022)](https://statmodeling.stat.columbia.edu/2022/12/08/the-cleantech-job-market-every-modeler-is-supposed-to-be-a-great-python-programmer/) ([HN](https://news.ycombinator.com/item?id=33914426))
 - [Shed Skin](https://github.com/shedskin/shedskin) - Python to C++ compiler.
+- [A crash course in Python “comprehensions” and “generators” (2022)](https://medium.com/@petefison/a-crash-course-in-python-comprehensions-and-generators-f069c8f8ca38) ([HN](https://news.ycombinator.com/item?id=33892017))
+- [Practical Python Programming Course](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
+- [Python Distilled Book (2021)](https://www.oreilly.com/library/view/python-distilled/9780134173399/)

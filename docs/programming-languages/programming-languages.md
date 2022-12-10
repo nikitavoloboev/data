@@ -490,4 +490,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [noulith](https://github.com/betaveros/noulith) - Practice writing small programming languages.
 - [CSpell](https://github.com/streetsidesoftware/cspell) - Spell Checker for Code.
 - [gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
-- [Programming Languages: Application and Interpretation](https://www.plai.org/)
+- [Programming Languages: Application and Interpretation](https://www.plai.org/) ([HN](https://news.ycombinator.com/item?id=33927021))
