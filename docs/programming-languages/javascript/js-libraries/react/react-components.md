@@ -345,6 +345,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [ILLA Design](https://github.com/illacloud/illa-design) - Fully responsive UI Library for React.
 - [React/NextJS Audio Player](https://github.com/madzadev/audio-player)
 - [React-Symbols](https://github.com/pheralb/react-symbols) - Library for React with the icons of the VSCode theme "Symbols".
+- [Superkey](https://github.com/pheralb/superkey) - Beautiful command palette built with Tailwind CSS and Headless UI. ([Docs](https://superkey.vercel.app/docs/getting-started))
 
 ## Links
 
