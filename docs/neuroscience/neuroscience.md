@@ -161,6 +161,8 @@ The way our brains take input from different senses (eyes, touch) and then decid
 - [Book Review: Rhythms of the Brain (2022)](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain) ([HN](https://news.ycombinator.com/item?id=33556747))
 - [The Gut Microbiome Helps Social Skills Develop in the Brain (2022)](https://www.quantamagazine.org/the-gut-microbiome-helps-social-skills-develop-in-the-brain-20221115/) ([HN](https://news.ycombinator.com/item?id=33610078))
 - [Speed of learning depends on turning (2022)](https://www.nature.com/articles/d41586-022-03681-w)
+- [What was the most impactful Neuroscience article, discovery, or content of the year? (2022)](https://www.reddit.com/r/neuroscience/comments/zh7yae/what_was_the_most_impactful_neuroscience_article/)
+- [Longitudinal analysis reveals high prevalence of Epstein-Barr virus associated with multiple sclerosis (2022)](https://www.science.org/doi/10.1126/science.abj8222)
 
 ## Images
 
