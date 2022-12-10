@@ -6,7 +6,7 @@ There is a [great article](https://briansteffens.github.io/2017/02/20/from-math-
 
 I dislike languages with semicolons which is why I prefer [Swift](swift/swift.md) (native GUI) / [Go](go/go.md) (servers/CLI) / [TS](typescript/typescript.md) (browsers/scripting) over any other language right now. Exploring using [Rust](rust/rust.md) more too. I find Go/Swift plenty fast when I need speed although wish Go was less boilerplaity, especially with its error handling.
 
-I do write Rust, but tried out [Zig](zig/zig.md) when I want to write embedded code without GC or target [WASM](../web/webassembly.md). Although even there, [TinyGo](https://tinygo.org/) can be enough I think. [Julia](julia/julia.md) looks nice for any kind of heavy data processing code / ML.
+I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded code without GC or target [WASM](../web/webassembly.md). Although even there, [TinyGo](https://tinygo.org/) can be enough I think. [Julia](julia/julia.md) looks nice for any kind of heavy data processing code / ML.
 
 [OCaml](ocaml/ocaml.md) seems interesting as a language to do some [type theory](../math/type-theory/type-theory.md) research in. Has fast compile types and smart inferency type system. Same for [Agda](agda.md)/[Coq](coq/coq.md)/[Idris](idris/idris.md). [Unison](unison.md) has some novel ideas to learn from too. [Vale](vale.md) does novel research in [memory management](../programming/memory-management/memory-management.md). [Gluon](https://github.com/gluon-lang/gluon) is nice embedded functional language.
 

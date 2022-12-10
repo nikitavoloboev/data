@@ -268,3 +268,4 @@ All active variables can be seen by running `env`.
 - [A pragmatic approach to shell completion (2022)](https://dev.to/rsteube/a-pragmatic-approach-to-shell-completion-4gp0)
 - [Drag and Drop from Terminal (2022)](https://blog.meain.io/2022/terminal-drag-and-drop/) ([HN](https://news.ycombinator.com/item?id=33836308))
 - [shcopy](https://github.com/aymanbagabas/shcopy) - Shell Copy. Simple utility that copies text to the clipboard from anywhere using ANSI OSC52 sequence.
+- [patsh](https://github.com/nix-community/patsh) - Command-line tool for patching shell scripts inspired by resholve.

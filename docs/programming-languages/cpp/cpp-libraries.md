@@ -460,6 +460,7 @@
 - [Realtime Math](https://github.com/nfrechette/rtm) - Geared towards real time applications that require their math to be as fast as possible.
 - [Animation Compression Library](https://github.com/nfrechette/acl) - Animation compression is a fundamental aspect of modern video game engines.
 - [mz::type_list](https://github.com/marzer/type_list) - Compiler-friendly variadic type list for C++.
+- [json.h](https://github.com/sheredom/json.h) - Simple single header solution to parsing JSON in C and C++.
 
 ## Links
 

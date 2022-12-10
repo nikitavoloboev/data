@@ -96,3 +96,4 @@ title: Reddit
 - [Gert](https://github.com/mcdallas/gert) - Command line tool to download media from Reddit.
 - [Reddit Monitoring with Python (2022)](https://segue.co/blog/reddit-monitoring-python/)
 - [Reddit moderator bot](https://github.com/gc-plp/reddit-moderator-bot) - Monitor subreddits and trigger custom actions through plugins.
+- [Reddit SSD Bot](https://github.com/ocmarin/ssd-bot) - Looks up SSDs posted within a subreddit and provides useful insight on the model found within the submission's title.

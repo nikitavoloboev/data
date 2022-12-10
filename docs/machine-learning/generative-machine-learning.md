@@ -237,3 +237,5 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Stable Diffusion 2.0 Negative Prompting](https://github.com/minimaxir/stable-diffusion-negative-prompt)
 - [GPT-2 Output Detector](https://huggingface.co/openai-detector)
 - [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced) - Browser extension that augments your ChatGPT prompts with web results.
+- [Diffusion Chat](https://github.com/KAJdev/diffusion-chat) - Chat-like interface for Stable Diffusion.
+- [StackExplain](https://github.com/shobrook/stackexplain) - Explain your error message in plain English using ChatGPT.

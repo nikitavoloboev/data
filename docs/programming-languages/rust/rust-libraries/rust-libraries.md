@@ -545,6 +545,7 @@
 - [partial-io](https://github.com/sunshowers-code/partial-io) - Rust library that provides helpers for testing resilience of I/O operations.
 - [stubr](https://github.com/beltram/stubr) - Rust implementation of Wiremock.
 - [asserhttp](https://github.com/beltram/asserhttp) - Fluent HTTP response assertions.
+- [Google Rust testing library](https://github.com/google/googletest-rust)
 
 ## Error
 
@@ -658,6 +659,7 @@
 - [sss-rs](https://github.com/dsprenkels/sss-rs) - Rust bindings for my Shamir secret sharing library.
 - [RustCrypto: signatures](https://github.com/RustCrypto/signatures) - Cryptographic signature algorithms: DSA, ECDSA, Ed25519.
 - [Multi-party ECDSA](https://github.com/ZenGo-X/multi-party-ecdsa) - Rust implementation of {t,n}-threshold ECDSA (elliptic curve digital signature algorithm).
+- [Poseidon](https://github.com/penumbra-zone/poseidon377) - Instantiation of the Poseidon hash for use with decaf377.
 
 ## Linux
 

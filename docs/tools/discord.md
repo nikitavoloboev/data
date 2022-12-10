@@ -10,6 +10,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 
 ## Bots
 
+- [ChatGPT Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
 - [TSCord](https://github.com/barthofu/tscord) - Fully-featured discord bot template written in Typescript, intended to provide a framework that's easy to use, extend and modify.
 - [GearBot](https://gearbot.rocks/) - Moderation for your Discord, easily managed. ([Code](https://github.com/gearbot/GearBot))
 - [Channel Archiver](https://github.com/Sciencentistguy/discord-channel-archiver) - Small discord bot to archive the messages in a discord text channel.

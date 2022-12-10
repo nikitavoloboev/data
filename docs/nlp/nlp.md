@@ -715,4 +715,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Summarize-Webpage](https://github.com/akashp1712/summarize-webpage) - Small NLP SAAS project that summarize a webpage.
 - [Nonparametric Masked Language Modeling (2022)](https://arxiv.org/abs/2212.01349)
 - [Holistic Evaluation of Language Models](https://github.com/stanford-crfm/helm) - Framework to increase the transparency of language models. ([Paper](https://arxiv.org/abs/2211.09110))
-- [Dramatron](https://github.com/deepmind/dramatron) - Uses large language models to generate long, coherent text and could be useful for authors for co-writing theatre scripts and screenplays.
+- [Dramatron](https://github.com/deepmind/dramatron) - Uses large language models to generate long, coherent text and could be useful for authors for co-writing theatre scripts and screenplays. ([HN](https://news.ycombinator.com/item?id=33922744))
