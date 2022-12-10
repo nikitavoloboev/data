@@ -244,3 +244,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [ChatGPT Mac Menu Bar](https://github.com/KittenYang/ChatGPT-Mac-MenuBar) - Chat with OpenAI's ChatGPT in mac menu bar.
 - [Stableboost](https://stableboost.ai/) - Create personalized images with AI.
 - [ChatGPT can create cool images using TikZ (2022)](https://linus.space/posts/2022-12-10-chatgpt-tikz.html)
+- [Stable Diffusion in Docker](https://github.com/fboulnois/stable-diffusion-docker)
