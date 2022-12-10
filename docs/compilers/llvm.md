@@ -145,3 +145,5 @@ title: LLVM
 - [LLVM based Practical compiler](https://github.com/Practical/practicomp)
 - [LLVM’s New Pass Manager (2022)](https://blog.llvm.org/posts/2021-03-26-the-new-pass-manager/)
 - [llparse](https://github.com/nodejs/llparse) - Generating parsers in LLVM IR.
+- [LLD-rs](https://github.com/mun-lang/lld-rs) - Wrapper around LLVM's LLD.
+- [RuSTy](https://github.com/PLC-lang/rusty) - Structured Text Parser and LLVM Frontend.

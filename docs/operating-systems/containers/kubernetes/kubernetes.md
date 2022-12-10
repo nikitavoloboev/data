@@ -887,3 +887,5 @@ title: Kubernetes
 - [Enclaver](https://github.com/edgebitio/enclaver) - Open source toolkit created to enable easy adoption of software enclaves.
 - [Open-Local](https://github.com/alibaba/open-local) - Local disk management system composed of multiple components.
 - [Lagoon](https://github.com/uselagoon/lagoon) - Developer-focused application delivery platform.
+- [Self Node Remediation](https://github.com/medik8s/self-node-remediation) - Automatic repair for unhealthy Kubernetes nodes.
+- [K8s Node Health Check Operator](https://github.com/medik8s/node-healthcheck-operator)

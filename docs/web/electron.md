@@ -79,3 +79,4 @@ I prefer to build things natively with [SwiftUI](../programming-languages/swift/
 - [Electron App Patcher](https://github.com/karlhorky/electron-app-patcher) - Patch an Electron app after an update to apply a change.
 - [electron/universal](https://github.com/electron/universal) - Create universal macOS Electron applications.
 - [Electron ASAR](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing.
+- [Debugtron](https://github.com/pd4d10/debugtron) - Debug in-production Electron based app.

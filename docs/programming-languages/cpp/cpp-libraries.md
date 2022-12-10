@@ -461,6 +461,7 @@
 - [Animation Compression Library](https://github.com/nfrechette/acl) - Animation compression is a fundamental aspect of modern video game engines.
 - [mz::type_list](https://github.com/marzer/type_list) - Compiler-friendly variadic type list for C++.
 - [json.h](https://github.com/sheredom/json.h) - Simple single header solution to parsing JSON in C and C++.
+- [header-parser](https://github.com/baszalmstra/header-parser) - Extracts information from an annotated C++ header and outputs it as JSON for use in code generation tools.
 
 ## Links
 

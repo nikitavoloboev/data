@@ -63,3 +63,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [Cotton](https://github.com/danielhuang/cotton) - Package manager for JavaScript projects.
 - [Is my package reproducible yet?](https://ismypackagereproducibleyet.org/) ([HN](https://news.ycombinator.com/item?id=33416898))
 - [tea](https://tea.xyz/) - Unified package manager. ([CLI](https://github.com/teaxyz/cli)) ([GitHub](https://github.com/teaxyz))
+- [prefix.dev](https://prefix.dev/)
