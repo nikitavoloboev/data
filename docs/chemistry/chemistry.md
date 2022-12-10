@@ -106,3 +106,4 @@ title: Chemistry
 - [Water: the liquid of life (2021)](https://www.multiflora-herbs.com/blogs/news/water)
 - [libcint](https://github.com/sunqm/libcint) - General GTO integrals for quantum chemistry.
 - [BAGEL](https://github.com/qsimulate-open/bagel) - Brilliantly Advanced General Electronic-structure Library.
+- [gauche](https://github.com/leojklarner/gauche) - Library for Gaussian Processes in Chemistry.

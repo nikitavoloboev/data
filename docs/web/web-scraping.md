@@ -233,3 +233,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Evaluating Mechanical Keyboard Delivery Estimates with Python Web Scraping (2022)](https://wcedmisten.fyi/post/analyzing-keycap-estimates/)
 - [LinkedIn Scraper](https://github.com/EatonChips/yalis)
 - [Google Image Scraper](https://github.com/ohyicong/Google-Image-Scraper) - Library to scrape google images.
+- [CLI google crawler written in go](https://github.com/jerlendds/serp-search)

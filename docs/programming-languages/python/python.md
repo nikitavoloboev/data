@@ -568,3 +568,4 @@ for i, _ in enumerate(nums):
 - [A crash course in Python “comprehensions” and “generators” (2022)](https://medium.com/@petefison/a-crash-course-in-python-comprehensions-and-generators-f069c8f8ca38) ([HN](https://news.ycombinator.com/item?id=33892017))
 - [Practical Python Programming Course](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 - [Python Distilled Book (2021)](https://www.oreilly.com/library/view/python-distilled/9780134173399/)
+- [Pyccel](https://github.com/pyccel/pyccel) - Python extension language using accelerators.

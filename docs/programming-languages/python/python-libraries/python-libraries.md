@@ -1082,6 +1082,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Random Graph Generator](https://github.com/sepandhaghighi/pyrgg)
 - [AutoFaiss](https://github.com/criteo/autofaiss) - Automatically create Faiss knn indices with the most optimal similarity search parameters.
 - [Laplace](https://github.com/AlexImmer/Laplace) - Laplace approximations for Deep Learning.
+- [PSYDAC](https://github.com/pyccel/psydac) - Python Library for isogeometric analysis.
 
 ## Notes
 

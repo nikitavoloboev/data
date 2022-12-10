@@ -136,3 +136,4 @@ Might give it a go sometime. Right now I love [VSCode](../vs-code/vs-code.md) an
 - [Emacs 29 (2022)](https://blog.phundrak.com/emacs-29-what-can-we-expect/) ([HN](https://news.ycombinator.com/item?id=33788208))
 - [What I'd like to see in Emacs (2022)](https://emacsconf.org/2022/talks/rms/) ([HN](https://news.ycombinator.com/item?id=33888981))
 - [Navigating config files using tree-sitter (2022)](https://blog.meain.io/2022/navigating-config-files-using-tree-sitter/)
+- [Modern Emacs: Redux (2022)](https://batsov.com/articles/2022/06/09/modern-emacs-redux/)

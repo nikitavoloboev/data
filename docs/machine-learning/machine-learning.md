@@ -6,6 +6,8 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 
 [Lilian's Blog](https://lilianweng.github.io/) is superb.
 
+[Practical Deep Learning for Coders](https://course.fast.ai/) is nice intro course.
+
 ## Notes
 
 - A big part of the utility of math (especially in ML) is having breadth rather than depth. The strategy of picking out specific things you don't know from papers and looking them up is only effective if you have the breadth in your background to understand the answers you find.
