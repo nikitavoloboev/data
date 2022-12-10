@@ -287,3 +287,4 @@
 - [1Password Shell Plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
 - [Google Zanzibar Through Our Eyes (2022)](https://authzed.com/blog/annotated-zanzibar-launch/) ([HN](https://news.ycombinator.com/item?id=33910685))
 - [CLI for OAuth](https://github.com/cloudentity/oauth2c) ([HN](https://news.ycombinator.com/item?id=33920885))
+- [Micro TOTP](https://github.com/placemark/micro-totp) - Small, modern library for TOTP.

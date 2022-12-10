@@ -109,3 +109,4 @@ title: TCP
 - [wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - HTTP Tunneling through WhatsApp. ([HN](https://news.ycombinator.com/item?id=33568994))
 - [rtun](https://github.com/snsinfu/reverse-tunnel) - Tool for exposing TCP and UDP ports to the Internet via a public gateway server.
 - [Fuzzotron](https://github.com/denandz/fuzzotron) - TCP/UDP based network daemon fuzzer.
+- [Tuntox](https://github.com/gjedeer/tuntox) - Forwards TCP connections over the Tox protocol. This allows low-latency access to distant machines behind a NAT you can't control or with a dynamic IP address.

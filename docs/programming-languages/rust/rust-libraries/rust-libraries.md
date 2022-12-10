@@ -468,6 +468,7 @@
 - [smaa-rs](https://github.com/fintelia/smaa-rs) - Post-process antialiasing for wgpu-rs, relying on the SMAA reference implementation.
 - [Pax](https://github.com/pax-lang/pax) - Cross-platform rendering engine & Rust framework for interactive graphics, animations, and GUIs.
 - [xilem](https://github.com/linebender/xilem) - Experimental Rust native UI framework.
+- [rough-rs](https://github.com/orhanbalci/rough-rs) - Draw handy sketches from your rust applications.
 
 ## Games
 

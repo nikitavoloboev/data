@@ -416,6 +416,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [KissSQL](https://github.com/VinGarcia/ksql) - Simple and Powerful Go SQL Library.
 - [Kvass](https://github.com/maxmunzel/kvass) - Personal key-value store. ([HN](https://news.ycombinator.com/item?id=32212235))
 - [BetterCache](https://github.com/realTristan/bettercache) - Modern Caching System with Lightning Fast Full Text Search. ([Reddit](https://www.reddit.com/r/golang/comments/x4b7yu/bettercache_20_has_full_text_searchremove_etc/))
+- [sql](https://github.com/rqlite/sql) - Pure Go SQL parser.
 - [Bob](https://github.com/stephenafamo/bob) - SQL Query Builder for Go.
 - [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - Flexible and powerful SQL string builder library plus a zero-config ORM.
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go.

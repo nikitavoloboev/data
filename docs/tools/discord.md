@@ -75,6 +75,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 
 ## Libraries
 
+- [Disgo](https://github.com/switchupcb/disgo) - Create a Discord Bot in Go using this Discord API Wrapper.
 - [Poise](https://github.com/kangalioo/poise) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing.
 - [Cordless](https://github.com/TomerRon/cordless) - Declarative Discord bot framework. Build your first bot in 5 minutes with 3 lines of code.
 - [Discordeno](https://github.com/discordeno/discordeno) - Discord API library for Deno.

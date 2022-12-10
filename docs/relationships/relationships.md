@@ -172,6 +172,7 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [We should forgive each other for stupid things we've said in the past.](https://twitter.com/lexfridman/status/1595454065802108930)
 - [You should have agreements as to what is okay and not okay in a relationship. If you do something not okay, that’s cheating.](https://www.reddit.com/r/nonmonogamy/comments/z7l7aj/what_do_you_consider_cheating_in_a_non_monogamous/)
 - [Dating is as much about being your best, most available self as it is about blind luck.](https://www.reddit.com/r/datingoverthirty/comments/zabz7o/am_i_too_fat_to_find_love/)
+- [Hedonistic, nurturing (to me personally), wise, direct, cuts through the bullshit, has sporadic uncontrollable fits of laughter, can find exactly what i need by a vague description, open-minded, deeply grounded and secure.](https://twitter.com/dan_abramov/status/1601415441528020992)
 
 ## Links
 
@@ -329,3 +330,4 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [What is your unpopular turn-off when dating? (2022)](https://www.reddit.com/r/datingoverthirty/comments/z8eqpw/what_is_your_unpopular_turnoff_when_dating/)
 - [Rules that are "made to be broken" in non monogamous relationships](https://www.reddit.com/r/nonmonogamy/comments/zc0iyc/rules_that_are_made_to_be_broken/)
 - [What has improved your dating life? Or what do you do that makes your dating life successful?](https://www.reddit.com/r/datingoverthirty/comments/zgy6fn/what_has_improved_your_dating_life_or_what_do_you/)
+- [What is wife material to you; no physical attributes allowed](https://twitter.com/eurydicelives/status/1601318792595841024)

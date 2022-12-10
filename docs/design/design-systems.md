@@ -9,9 +9,10 @@
 ## Interesting design systems
 
 - [Tailwind UI](https://tailwindui.com/) - Beautiful UI components, crafted by the creators of Tailwind CSS. ([HN](https://news.ycombinator.com/item?id=22422873)) ([HN 2](https://news.ycombinator.com/item?id=22463769))
-- [Mantine UI](https://ui.mantine.dev/) - Set of more than 120 responsive components built with Mantine. ([Code](https://github.com/mantinedev/ui.mantine.dev)) ([Reddit](https://www.reddit.com/r/reactjs/comments/tauog2/mantine_40_is_out_120_hooks_and_components_with/))
 - [Radix](https://radix.modulz.app/docs/getting-started/) - Design System and Component Library for Modulz. ([Code](https://github.com/modulz/radix)) ([Radix Primitives Cheat Sheet](https://radix-primitives-cheatsheet.tone-row.com/#/Collapsible)) ([Primitives Cheat Sheet Code](https://github.com/tone-row/radix-primitives-cheatsheet))
+- [Mantine UI](https://ui.mantine.dev/) - Set of more than 120 responsive components built with Mantine. ([Code](https://github.com/mantinedev/ui.mantine.dev)) ([Reddit](https://www.reddit.com/r/reactjs/comments/tauog2/mantine_40_is_out_120_hooks_and_components_with/))
 - [GOV.UK](https://design-system.service.gov.uk/) - Design your service using GOV.UK styles, components and patterns. ([Article](https://gds.blog.gov.uk/2022/03/31/the-gov-uk-design-system-is-now-live/)) ([HN](https://news.ycombinator.com/item?id=30877049)) ([GOV.UK in React](https://github.com/govuk-react/govuk-react))
+- [Hummingbot Design System](https://hbui.netlify.app/) ([Code](https://github.com/CoinAlpha/hbui))
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications. ([HN](https://news.ycombinator.com/item?id=23511811)) ([Docs](https://next.chakra-ui.com/docs/getting-started)) ([Web](https://next.chakra-ui.com/)) ([The road to Chakra 1.0 and all about Chakra UI](https://www.youtube.com/watch?v=eeODp2pdRdo)) ([Awesome Chakra UI](https://github.com/chakra-ui/awesome-chakra-ui)) ([Chakra UI For Beginners](https://www.chakrauiforbeginners.com/))
 - [Blade](https://github.com/razorpay/blade) - Design System that powers Razorpay.
 - [Basis](https://basis.vercel.app/) ([Code](https://github.com/LatitudeFinancialOSS/basis))
