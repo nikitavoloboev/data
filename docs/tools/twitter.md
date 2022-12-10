@@ -4,19 +4,27 @@ title: Twitter
 
 # [Twitter](https://twitter.com/)
 
-[Simplified Twitter](https://github.com/brunolemos/simplified-twitter) is great. I like using [official Twitter TS SDK](https://github.com/twitterdev/twitter-api-typescript-sdk) for working with Twitter.
+Use [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) extension when I browse Twitter on [Safari](../web/browsers/safari.md). 
 
-I also find it [frustrating that Twitter iOS client doesn't have the ability to long press `like` icon to bookmark](https://twitter.com/nikitavoloboev/status/1590403314264334338).
+I love Twitter as it's currently the best place to stream your thoughts to public and have others interact with it in real time. Nothing yet comes close to the network and UX of Twitter for doing this.
+
+However, the fact that Twitter is a private company now owned by a person who has a tendency to [lie in public](https://twitter.com/carterforva/status/1596136798941503492), still be able to [ban accounts on a whim](https://twitter.com/trickytaipei/status/1597762741108117505) without ways to fight back is worrying. 
+
+I love the idea of freedom of speech, but not freedom of reach whereby anyone can have a voice but the platform won't boost hurtful or perhaps verifiably incorrect rhetoric. Twitter's [Community Notes](https://twitter.com/CommunityNotes) is great in that regard. Will see how Twitter fares at making this work.
+
+[Mastodon](../social-networks/mastodon.md) is interesting alternative but needs smoother onboarding, client UX and ability to have 'public likes' for it to ever make me want to use it more. I get a lot of my content from seeing likes of people I admire. 
+
+I am trying to build my own [app with a network of people that's based on sharing your learnings and ideas](../ideas/learn-anything.md). You would be able to share notes, ideas in similar way I do here in this wiki but more streamlined and everything is [open source](https://github.com/learn-anything/learn-anything).
+
+One thing I dislike about Twitter is that it gives you no tools to actually build some kind of knowledge system off your own or other's tweets. A dream Twitter like networking in my eyes would treat knowledge as first class thing, from which you can share parts or all of your knowledge with all or 'publish/tweet' parts of it out to your followers. But also have a place to catalogue, share and callaborate on ideas together. 
+
+Twitter will always have a special place and it will be hard to beat it at what it does best despite the fact that it's not transparent and not open source. But will see. TikTok showed that it's possible to disrupt even such giant networks if you position/market your product well.
+
+One example where Twitter not being open source is horrible is that I find it [frustrating that Twitter iOS client doesn't have the ability to long press `like` icon to bookmark](https://twitter.com/nikitavoloboev/status/1590403314264334338). If the code was open source, I would have gladly made PR for this already. And for some reason non official Twitter clients have worse UX feed content.
+
+I like using [official Twitter TS SDK](https://github.com/twitterdev/twitter-api-typescript-sdk) for building things on top of Twitter.
 
 [How does Twitter work](https://www.youtube.com/watch?v=z6xslDMimME) is nice overview of [Twitter tech](https://twitter.com/_dml/status/1592619959947243520).
-
-I am not thrilled with Twitter being ruled by one person (who [lies in public](https://twitter.com/carterforva/status/1596136798941503492), has potentially [selfishly destructive goals](https://twitter.com/asadotzler/status/1599318406276485121), can [ban accounts on a whim](https://twitter.com/trickytaipei/status/1597762741108117505) and can also potentially still [read DMs](https://twitter.com/alexstamos/status/1601038512219770880)). Maybe that will change in future but until then TikTok showed that it's possible to disrupt even such giant networks if you position/market your product well.
-
-I will continue to use Twitter as that's where everyone still is. And trying to get [Mastodon](../social-networks/mastodon.md) working smoother with better onboarding and client UX. But more seriously I am trying to create my own Twitter alternative with [LA](../ideas/learn-anything.md). The key thing is that it will be open source and be a true knowledge base over just discourse.
-
-I can't imagine Twitter competing when an alternative with all same features (+ more) and ability to scale to millions of users but most importantly is open source and with non dictatorial ruling policy. In case of LA, I plan to tackle overtaking Twitter in some ways by making a tool that is an extension of your knowledge base where you can partly share parts of your thoughts/notes/ideas and stream it to feeds of your followers. The followers can then be able to filter out for kinds of things they want to see too, only ideas or only notes or general thoughts or photos.
-
-This in my mind is much nicer than the current model of just typing into a box. Contents of which then get appended chronologically as part of your profile. This model is nice and simple but makes 'building on' knowledge impossible. If you want to build a digital global brain, it firstly **must** be open source. But also **must** be an extension of your digital brain. Your entire knowledge corpus online with ability to interact on any piece of information. With the ability of having a chatter like one we get on Twitter/Mastodon now.
 
 ## Interesting hash tags
 
