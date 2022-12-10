@@ -117,3 +117,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [OpenBSD for Linux Users](https://www.openbsdhandbook.com/openbsd_for_linux_users/) ([HN](https://news.ycombinator.com/item?id=33731772))
 - [FreeBSD Presentations and Papers](https://papers.freebsd.org/) ([Code](https://github.com/freebsd/freebsd-papers))
 - [FreeBSD on the Raspberry Pi](https://cromwell-intl.com/open-source/samba-active-directory/freebsd-raspberry-pi.html) ([HN](https://news.ycombinator.com/item?id=33863269))
+- [Run Your Own Instant Messaging Service on FreeBSD](https://xn--gckvb8fzb.com/run-your-own-instant-messaging-service-on-freebsd/)

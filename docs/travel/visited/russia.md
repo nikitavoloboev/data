@@ -631,3 +631,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Страна, которую мы не представляем. Наталья Зубаревич о выживании, бедности и адаптации к худшему (2022)](https://www.youtube.com/watch?v=dkEMcHJJhKY)
 - [Долин: Дружба с Ургантом, потеря Роднянского и Абрамовича, конец кино эпохи Путина (2022)](https://www.youtube.com/watch?v=3VZCr5BSJiQ)
 - [Закрыть ИП в России инструкция](https://twitter.com/wouldntfix/status/1595052153416073224)
+- [Тред про Омск](https://twitter.com/le_miserable/status/1600883479062847489)
