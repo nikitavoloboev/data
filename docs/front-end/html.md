@@ -307,3 +307,4 @@ Hi<div>oh no break</div>
 - [HTML is all you need to make a website (2022)](https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/) ([HN](https://news.ycombinator.com/item?id=33642490))
 - [hq](https://github.com/orf/hq) - jq, but for HTML.
 - [HTML-Entities](https://github.com/mdevils/html-entities) - Fastest HTML entities encode/decode library.
+- [Daath AI Parser](https://github.com/kagermanov27/daath-ai-parser) - Open-Source AI Parser for HTML Elements. ([HN](https://news.ycombinator.com/item?id=33920458))

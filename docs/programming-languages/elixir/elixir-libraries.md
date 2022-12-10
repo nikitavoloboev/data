@@ -284,3 +284,4 @@
 - [GitHooks](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
 - [Introduction to Mix](https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 - [Deploying Oban Pro/Web with Docker and Fly.io (2022)](https://davelucia.com/blog/deploying-oban-pro-with-docker-and-fly)
+- [Rustler Precompiled](https://github.com/philss/rustler_precompiled) - Use precompiled NIFs from trusted sources in your Elixir code.
