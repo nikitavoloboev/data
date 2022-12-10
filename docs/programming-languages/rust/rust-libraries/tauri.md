@@ -54,4 +54,4 @@ title: Tauri
 - [Tauri Specta](https://github.com/oscartbeaumont/tauri-specta) - Completely type safe Tauri commands.
 - [tauri-bindgen](https://github.com/JonasKruckenberg/tauri-bindgen) - Typesafe language bindings generator for the Tauri IPC bridge.
 - [Try Tauri with Solid (2022)](https://philidor.dev/blog/tauri-solidjs-macos/) ([Lobsters](https://lobste.rs/s/qdginb/try_tauri))
-- [Tauri Mobile Alpha Release](https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/)
+- [Tauri Mobile Alpha Release](https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/) ([HN](https://news.ycombinator.com/item?id=33931458))

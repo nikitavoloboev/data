@@ -4,8 +4,21 @@ title: Diseases
 
 # [Diseases](https://en.wikipedia.org/wiki/Disease)
 
-## Interesting diseases
+Once I solve most of annoyances with software/productivity, I want to study [biology](../../biology/biology.md) & [bioinformatics](../../biology/bioinformatics/bioinformatics.md) to find solutions for diseases. 
 
+Specifically want to try apply [ML](../../machine-learning/machine-learning.md) to find definitive cures for diseases.  
+
+Currently interested in finding cure for [Hashimoto's Thyroiditis](https://en.wikipedia.org/wiki/Hashimoto%27s_thyroiditis) as someone I love struggles with it. 
+
+I am trying to learn a lot from any health degradation I get by noting things doctors operating me say and what I read myself. So as to make sure the disease is not likely to come back.
+
+Some diseases are sadly unavoidable it seems even when you follow a [healthy diet](../../health/nutrition/nutrition.md), [exercise](../../fitness/fitness.md) and [sleep](../../sleep/sleep.md) well.
+
+## Notable
+
+- [Hypothyroidism](https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/) - Underactive thyroid.
+- [Hashimoto's Thyroiditis](https://healthmatch.io/hashimotos-disease/hashimotos-thyroiditis-cure)
+- [Anal fissure](https://www.mayoclinic.org/diseases-conditions/anal-fissure/symptoms-causes/syc-20351424)
 - [Leukemia](https://en.wikipedia.org/wiki/Leukemia) ([Reddit](https://www.reddit.com/r/leukemia/))
 - [Graft-versus-host disease](https://en.wikipedia.org/wiki/Graft-versus-host_disease) ([Reddit](https://www.reddit.com/r/gvhd/))
 - [Prion Diseases](https://www.hopkinsmedicine.org/health/conditions-and-diseases/prion-diseases)

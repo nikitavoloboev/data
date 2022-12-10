@@ -242,6 +242,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Marco Cetica](https://marcocetica.com/)
 - [Bradley Taunt](https://bt.ht/)
 - [Jay Alammar](https://jalammar.github.io/)
+- [Nick Olinger](https://www.nickolinger.com/blog/)
 
 ## Notes
 

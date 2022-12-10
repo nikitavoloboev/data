@@ -1340,6 +1340,7 @@
 - [InstantSearch](https://github.com/algolia/instantsearch-ios) - Library of widgets and helpers to build instant-search applications on iOS.
 - [KeyPathValue](https://github.com/p-x9/KeyPathValue) - Structure for assigning values using keypath.
 - [ElleKit](https://github.com/evelyneee/ellekit) - Elegant Low Level Elements.
+- [swift-async-queue](https://github.com/dfed/swift-async-queue) - Queue that enables sending FIFO-ordered tasks from synchronous to asynchronous contexts.
 
 ## Other (not lib)
 

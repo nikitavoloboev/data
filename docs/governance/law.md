@@ -56,3 +56,4 @@ I put most everything I create under public domain. So either [CC0](https://crea
 - [International Legal Dictionary](https://www.public.law/dictionary) ([HN](https://news.ycombinator.com/item?id=32301534))
 - [Public.Law](https://www.public.law/) - Online law library.
 - [The Law You Won't Be Told](https://www.youtube.com/watch?v=uqH_Y1TupoQ)
+- [Ask HN: Why isn't there something like Let's Encrypt for document signing? (2022)](https://news.ycombinator.com/item?id=33921115)
