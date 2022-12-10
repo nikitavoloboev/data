@@ -173,6 +173,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Category Theory - Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 - [List of initial algebras and final coalgebras of functors](https://github.com/bgavran/-Co-AlgebraCheatSheet) ([Tweet](https://twitter.com/bgavran3/status/1597944771481604096))
 - [Petar Veličković (Deepmind) - Categories, Graphs, Reasoning (2022)](https://www.youtube.com/watch?v=1lkdWduuN14)
+- [The Adjoint School](https://adjointschool.com/index.html) - Annual research school in applied category theory.
 
 ## Images
 
