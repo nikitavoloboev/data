@@ -1,8 +1,8 @@
 ---
-title:
+title: Spin
 ---
 
-## [Spin](https://github.com/fermyon/spin)
+# [Spin](https://github.com/fermyon/spin)
 
 ## Links
 
