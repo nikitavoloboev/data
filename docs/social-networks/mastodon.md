@@ -4,7 +4,7 @@ title: Mastodon
 
 # [Mastodon](https://joinmastodon.org/)
 
-[Trying to use Mastodon more](https://merveilles.town/web/@nikivi).
+Love [being part](https://merveilles.town/web/@nikivi) of [Merveilles](https://merveilles.town/about) Mastodon server.
 
 ## Interesting communities
 

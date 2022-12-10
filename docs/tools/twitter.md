@@ -4,23 +4,23 @@ title: Twitter
 
 # [Twitter](https://twitter.com/)
 
-Use [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) extension when I browse Twitter on [Safari](../web/browsers/safari.md). 
+Use [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) extension when I browse Twitter on [Safari](../web/browsers/safari.md). And official app on iOS.
 
 I love Twitter as it's currently the best place to stream your thoughts to public and have others interact with it in real time. Nothing yet comes close to the network and UX of Twitter for doing this.
 
-However, the fact that Twitter is a private company now owned by a person who has a tendency to [lie in public](https://twitter.com/carterforva/status/1596136798941503492), still be able to [ban accounts on a whim](https://twitter.com/trickytaipei/status/1597762741108117505) without ways to fight back is worrying. 
+However, the fact that Twitter is a private company now owned by a person who has a tendency to [lie in public](https://twitter.com/carterforva/status/1596136798941503492) and still be able to [ban accounts on a whim](https://twitter.com/trickytaipei/status/1597762741108117505) without ways to fight back is worrying.
 
 I love the idea of freedom of speech, but not freedom of reach whereby anyone can have a voice but the platform won't boost hurtful or perhaps verifiably incorrect rhetoric. Twitter's [Community Notes](https://twitter.com/CommunityNotes) is great in that regard. Will see how Twitter fares at making this work.
 
-[Mastodon](../social-networks/mastodon.md) is interesting alternative but needs smoother onboarding, client UX and ability to have 'public likes' for it to ever make me want to use it more. I get a lot of my content from seeing likes of people I admire. 
+[Mastodon](../social-networks/mastodon.md) is interesting alternative but needs smoother onboarding, client UX and ability to have 'public likes' for it to ever make me want to use it more. I get a lot of my content from seeing likes of people I admire.
 
-I am trying to build my own [app with a network of people that's based on sharing your learnings and ideas](../ideas/learn-anything.md). You would be able to share notes, ideas in similar way I do here in this wiki but more streamlined and everything is [open source](https://github.com/learn-anything/learn-anything).
+I am trying to build my own [app with a network of people that's based on sharing your learnings and ideas](../ideas/learn-anything.md). You would be able to share notes, ideas in similar way I do here in this wiki but more streamlined. With everything being [open source](https://github.com/learn-anything/learn-anything).
 
-One thing I dislike about Twitter is that it gives you no tools to actually build some kind of knowledge system off your own or other's tweets. A dream Twitter like networking in my eyes would treat knowledge as first class thing, from which you can share parts or all of your knowledge with all or 'publish/tweet' parts of it out to your followers. But also have a place to catalogue, share and callaborate on ideas together. 
+One thing I dislike about Twitter is that it gives you no tools to actually build some kind of knowledge system off your own or other's tweets. A dream Twitter like network in my eyes would treat knowledge as first class thing, from which you can share parts or all of your knowledge with all or 'publish/tweet' parts of it out to your followers. But also have a place to catalogue, share and callaborate on ideas together.
 
 Twitter will always have a special place and it will be hard to beat it at what it does best despite the fact that it's not transparent and not open source. But will see. TikTok showed that it's possible to disrupt even such giant networks if you position/market your product well.
 
-One example where Twitter not being open source is horrible is that I find it [frustrating that Twitter iOS client doesn't have the ability to long press `like` icon to bookmark](https://twitter.com/nikitavoloboev/status/1590403314264334338). If the code was open source, I would have gladly made PR for this already. And for some reason non official Twitter clients have worse UX feed content.
+One example where Twitter not being open source is horrible is that I find it [frustrating that Twitter iOS client doesn't have the ability to long press `like` icon to bookmark](https://twitter.com/nikitavoloboev/status/1590403314264334338). If the code was open source, I would have gladly made PR for this already. For some reason non official Twitter clients have worse UX feed content so moving from official clients is a non solution for me.
 
 I like using [official Twitter TS SDK](https://github.com/twitterdev/twitter-api-typescript-sdk) for building things on top of Twitter.
 

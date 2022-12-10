@@ -172,3 +172,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Nap](https://github.com/maaslalani/nap) - Code snippets in your terminal.
 - [chimp](https://github.com/xolvio/chimp) - Tooling that helps you do quality, faster.
 - [llama](https://github.com/antonmedv/llama) - Terminal file manager.
+- [moar](https://github.com/walles/moar) - Pager. It reads and displays UTF-8 encoded text from files or pipelines.
