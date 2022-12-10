@@ -1006,3 +1006,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [AlphaCode Attention Visualization](https://alphacode.deepmind.com/) ([HN](https://news.ycombinator.com/item?id=33914122))
 - [The Illustrated Transformer (2018)](https://jalammar.github.io/illustrated-transformer/)
 - [Ask HN: How to get back into AI? (2022)](https://news.ycombinator.com/item?id=33932594)
+- [Semi-Discrete Normalizing Flows through Differentiable Tessellation (2022)](https://arxiv.org/abs/2203.06832) ([Code](https://github.com/facebookresearch/semi-discrete-flow))

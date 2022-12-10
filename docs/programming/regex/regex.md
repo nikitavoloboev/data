@@ -117,3 +117,4 @@ Match all that don't have notes or twitter in input
 - [How Regexes Work](https://perl.plover.com/Regex/article.html) ([HN](https://news.ycombinator.com/item?id=33568887))
 - [qgrep](https://github.com/zeux/qgrep) - Fast regular expression grep for source code with incremental index updates.
 - [A Regex Primer (2022)](https://marcocetica.com/posts/regex_tutorial/)
+- [nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regular expression under the cursor.

@@ -2385,6 +2385,7 @@
 - [state](https://github.com/SergioBenitez/state) - Rust library for safe and effortless global and thread-local state management.
 - [vm-virtio](https://github.com/rust-vmm/vm-virtio) - Virtio abstractions and implementation for the virtio queue and devices.
 - [titlecase](https://github.com/wezm/titlecase) - Tool and Rust crate for transforming text into Title Case.
+- [addr2line](https://github.com/gimli-rs/addr2line) - Cross-platform library for retrieving per-address debug information from files with DWARF debug information.
 
 ## Cargo Plugins
 

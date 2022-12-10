@@ -246,3 +246,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [ChatGPT can create cool images using TikZ (2022)](https://linus.space/posts/2022-12-10-chatgpt-tikz.html)
 - [Stable Diffusion in Docker](https://github.com/fboulnois/stable-diffusion-docker)
 - [OpenAI (ChatGPT) API Client for Go](https://github.com/otiai10/openaigo)
+- [Summarize](https://github.com/clmnin/summarize.site) - Summarize web pages using OpenAI ChatGPT.
