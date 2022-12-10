@@ -717,3 +717,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Amie - Calendar](https://amie.so/calendar)
 - [I don’t want to be an internet person (2022)](https://www.palladiummag.com/2022/11/04/i-do-not-want-to-be-an-internet-person/) ([HN](https://news.ycombinator.com/item?id=33892718))
 - [This to That](https://www.thistothat.com/) ([HN](https://news.ycombinator.com/item?id=33930706))
+- [Hot Open Sauced](https://hot.opensauced.pizza/) - Recommends the hottest projects on GitHub. ([Code](https://github.com/open-sauced/hot))
