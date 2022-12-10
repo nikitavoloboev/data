@@ -4,6 +4,8 @@ title: Search Engine Optimization
 
 # [Search Engine Optimization](http://en.wikipedia.org/wiki/Search_engine_optimization)
 
+[Improving SEO without knowing where to start](https://www.htmhell.dev/adventcalendar/2022/8/) is great read.
+
 ## Notes
 
 - [Make sure Google can crawl and index all your pages and content easily, and that you're not using any tech, awkward (or missing) internal link structures, or content practices (e.g. video/animations with no parse-able text, interactive content w/ no parse-able text, etc) that stops Googlebot from accessing your work.](https://www.indiehackers.com/forum/what-is-the-80-20-for-seo-easy-wins-for-a-new-bootstrapped-startup-8f71a484d1)
@@ -78,3 +80,4 @@ title: Search Engine Optimization
 - [MarketRank: Anti-SEO Ranking Algorithm (2022)](https://dkb.io/post/market-rank) ([HN](https://news.ycombinator.com/item?id=30642387))
 - [Search Candy](https://www.searchcandy.uk/) - E-commerce SEO Consultancy.
 - [Almost all searches on my independent search engine are now from SEO spam bots (2022)](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/) ([HN](https://news.ycombinator.com/item?id=31395231))
+- [Improving SEO without knowing where to start (2022)](https://www.htmhell.dev/adventcalendar/2022/8/)

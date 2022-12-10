@@ -243,6 +243,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Bradley Taunt](https://bt.ht/)
 - [Jay Alammar](https://jalammar.github.io/)
 - [Nick Olinger](https://www.nickolinger.com/blog/)
+- [Manuel Matuzovic](https://www.matuzo.at/)
 
 ## Notes
 

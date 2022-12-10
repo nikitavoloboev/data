@@ -119,3 +119,4 @@
 - [Setting up a screen reader testing environment on your computer (2022)](https://www.sarasoueidan.com/blog/testing-environment-setup/)
 - [Accessible Front-End Patterns For Responsive Tables (2022)](https://www.smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/)
 - [Better accessible names (2022)](https://hidde.blog/better-accessible-names/)
+- [Meaningful labels using ARIA – or not. (2022)](https://www.htmhell.dev/adventcalendar/2022/7/)
