@@ -256,3 +256,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Open Podcast](https://openpodcast.dev/#/) - Open platform for podcast analytics. ([GitHub](https://github.com/openpodcast))
 - [yt2podcast](https://github.com/gc-plp/yt2podcast) - YouTube channel to podcast server.
 - [Doughnut](https://doughnutapp.com/) - Podcast App for macOS. ([Code](https://github.com/dyerc/Doughnut))
+- [Google Podcasts](https://podcasts.google.com/)
