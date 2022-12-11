@@ -10,6 +10,8 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 
 [Simple-Graph](https://github.com/dpapathanasiou/simple-graph) seems like a nice graph db plugin for SQLite. [sqlite-zstd](https://github.com/phiresky/sqlite-zstd) is amazing for compression.
 
+[Go SQLite database/sql tutorial](https://earthly.dev/blog/golang-sqlite/) is great.
+
 ## Notes
 
 - [SQLite can import CSV data directly. Start sqlite, then: .mode csv .import some_data_file.csv your_table_name](https://lobste.rs/s/nydkgn/how_hot_does_it_get_inside_car_during_heat#c_0kknsc)
@@ -278,3 +280,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [Pocketbase Auth Library](https://github.com/kennethklee/pb-auth)
 - [Go and SQLite in the Cloud (2022)](https://www.golang.dk/articles/go-and-sqlite-in-the-cloud) ([HN](https://news.ycombinator.com/item?id=33894995))
 - [sqlite-loadable-rs](https://github.com/asg017/sqlite-loadable-rs) - Framework for writing fast and performant SQLite extensions in Rust.
+- [How I found a bug in SQLite (2022)](https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/)
