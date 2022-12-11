@@ -72,3 +72,4 @@ That's why it's so essential everyone acts nicely to each other. Because in some
 - [Your unpopular vegan opinion?](https://www.reddit.com/r/vegan/comments/x51iue/your_unpopular_vegan_opinion/)
 - [How sustainable are fake meats? (2022)](https://knowablemagazine.org/article/food-environment/2022/how-sustainable-are-fake-meats)
 - [Beyond Meat is struggling, and the plant-based meat industry worries (2022)](https://www.nytimes.com/2022/11/21/business/beyond-meat-industry.html) ([HN](https://news.ycombinator.com/item?id=33773135))
+- [Growing muscles on vegan diet](https://www.reddit.com/r/veganfitness/comments/zhrfr6/im_beginning_my_vegan_lifestyle_ive_always/)

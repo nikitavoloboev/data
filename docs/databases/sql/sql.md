@@ -227,3 +227,4 @@ title: SQL
 - [SQL Teaching](https://www.sqlteaching.com/) - Easiest tutorial to learn SQL.
 - [SQL grammar for BigQuery](https://github.com/takegue/tree-sitter-sql-bigquery)
 - [SQLforDevs](https://sqlfordevs.com/ebook) - Next-Level Database Techniques for Developers Ebook. ([HN](https://news.ycombinator.com/item?id=33833836))
+- [SELECT solution FROM aoc WHERE year = 2022](https://fnordig.de/2022/12/09/select-solution-from-aoc-where-year-2022/)
