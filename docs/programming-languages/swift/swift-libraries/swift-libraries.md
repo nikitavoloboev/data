@@ -629,6 +629,7 @@
 - [Shock](https://github.com/justeat/Shock) - HTTP mocking framework written in Swift.
 - [XCTAsync](https://github.com/mochidev/XCTAsync) - Swift library to more easily test async code.
 - [UITestingPlus](https://github.com/ChimeHQ/UITestingPlus) - Utilities for working with XCUI testing.
+- [BDDSwift](https://github.com/KaneCheshire/BDDSwift) - Type-safe, compiler-enforced way of writing BDD steps and scenarios in Swift for XCTest.
 
 ## API
 

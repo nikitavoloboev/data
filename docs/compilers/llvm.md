@@ -147,3 +147,4 @@ title: LLVM
 - [llparse](https://github.com/nodejs/llparse) - Generating parsers in LLVM IR.
 - [LLD-rs](https://github.com/mun-lang/lld-rs) - Wrapper around LLVM's LLD.
 - [RuSTy](https://github.com/PLC-lang/rusty) - Structured Text Parser and LLVM Frontend.
+- [Kaleidoscope: Implementing a Language with LLVM](https://github.com/ghaiklor/llvm-kaleidoscope)

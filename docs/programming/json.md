@@ -173,3 +173,4 @@ title: JSON
 - [JSON Schema is a constraint system (not an object-oriented language) (2022)](https://modern-json-schema.com/json-schema-is-a-constraint-system)
 - [JSON Formatter](https://github.com/callumlocke/json-formatter) - Chrome extension for printing JSON and JSONP nicely when you visit it 'directly' in a browser tab.
 - [jqjq](https://github.com/wader/jqjq) - Jq Implementation of Jq. ([HN](https://news.ycombinator.com/item?id=33741688))
+- [JSON BinPack](https://github.com/sourcemeta/jsonbinpack) - Open-source binary JSON serialization format with a strong focus on space efficiency.
