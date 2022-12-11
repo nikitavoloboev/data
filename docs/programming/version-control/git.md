@@ -612,3 +612,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [The Git Parable: a different approach to understanding Git (2022)](https://www.youtube.com/watch?v=ANNboouhNHE)
 - [CommitGPT](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT.
 - [tree-sitter-diff](https://github.com/the-mikedavis/tree-sitter-diff) - Tree-sitter grammar for diffs.
+- [GPT Commit Summarizer](https://github.com/KanHarI/gpt-commit-summarizer) - GPT based tool that writes the commit message for you. ([HN](https://news.ycombinator.com/item?id=33947087))

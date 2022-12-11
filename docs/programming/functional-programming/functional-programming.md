@@ -209,6 +209,7 @@
 - [Linear Types Lectures](https://www.cs.cornell.edu/courses/cs4110/2018fa/lectures/lecture29.pdf)
 - [Linear Regions Are All You Need](https://www.cs.cornell.edu/people/fluet/research/substruct-regions/ESOP06/esop06.pdf)
 - [Retrofitting Linear Types (2017)](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/haskell-linear-submitted.pdf)
+- [Beyond Functional Programming: The Verse Programming Language (2022)](https://simon.peytonjones.org/assets/pdfs/haskell-exchange-22.pdf)
 
 ## Images
 
