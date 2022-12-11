@@ -1008,3 +1008,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Ask HN: How to get back into AI? (2022)](https://news.ycombinator.com/item?id=33932594)
 - [Semi-Discrete Normalizing Flows through Differentiable Tessellation (2022)](https://arxiv.org/abs/2203.06832) ([Code](https://github.com/facebookresearch/semi-discrete-flow))
 - [Learning the Travelling Salesperson Problem Requires Rethinking Generalization (2021)](https://arxiv.org/abs/2006.07054) ([Code](https://github.com/chaitjo/learning-tsp))
+- [Learn Machine Learning in 3 Months (PyTorch Curriculum)](https://github.com/llSourcell/LearnML)

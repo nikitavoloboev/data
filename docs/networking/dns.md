@@ -261,3 +261,4 @@ title: DNS
 - [Subdomain Sleuth](https://github.com/yahoo/SubdomainSleuth) - Scanner to identify dangling DNS records and subdomain takeovers.
 - [acme-dns](https://github.com/joohoi/acme-dns) - Simplified DNS server with a RESTful HTTP API to provide a simple way to automate ACME DNS challenges.
 - [Agnos](https://github.com/krtab/agnos) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
+- [NSD](https://github.com/NLnetLabs/nsd) - Authoritative DNS name server.

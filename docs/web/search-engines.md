@@ -295,3 +295,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [ChatGPT is better than Google for some queries](https://twitter.com/jdjkelly/status/1598021488795586561) ([HN](https://news.ycombinator.com/item?id=33817682))
 - [Recoll](https://www.lesbonscomptes.com/recoll/pages/index-recoll.html) - Full-text search for your desktop.
 - [Nikhil's Search Engine (Memex)](https://github.com/nt92/memex)
+- [Bloop](https://github.com/BloopAI/bloop) - Fast code search engine written in Rust.

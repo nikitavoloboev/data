@@ -302,3 +302,4 @@
 - [C compiler written in Swift](https://github.com/mattjbird/clanger)
 - [GCC undefined behaviors are getting wild (2022)](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
 - [Everything I wish I knew when learning C (2022)](https://tmewett.com/c-tips/) ([HN](https://news.ycombinator.com/item?id=33773043))
+- [XCC](https://github.com/tyfkda/xcc) - Toy C compiler for x86-64/aarch64/wasm.

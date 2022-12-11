@@ -110,3 +110,4 @@ title: Flutter
 - [Flutter/MX](https://github.com/kennytilton/flutter-mx) - Programming Google Flutter with Clojure. ([HN](https://news.ycombinator.com/item?id=33820608))
 - [Flutter Discord](https://discord.com/invite/N7Yshp4)
 - [Flutter Supabase Functional Programming with fpdart (2022)](https://www.sandromaglione.com/techblog/flutter-dart-functional-programming-fpdart-supabase-app)
+- [Flet](https://github.com/flet-dev/flet) - Framework that enables you to easily build real time web, mobile and desktop apps in Python.

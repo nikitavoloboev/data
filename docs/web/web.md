@@ -481,3 +481,4 @@
 - [Tired of Web Dev](https://github.com/kitze/tired-of-webdev/)
 - [Fully Typed Web Apps (2022)](https://www.epicweb.dev/fully-typed-web-apps)
 - [Fireship.io](https://fireship.io/) - Build and ship your app faster (courses). ([Code](https://github.com/fireship-io/fireship.io)) ([HN](https://news.ycombinator.com/item?id=33925197))
+- [Web Actions API](https://github.com/actiontray/web-actions-api) - Proposal specification standard for fetching details of actionable items with their state available under given Internet domain.
