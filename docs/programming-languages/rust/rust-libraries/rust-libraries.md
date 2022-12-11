@@ -2386,6 +2386,8 @@
 - [vm-virtio](https://github.com/rust-vmm/vm-virtio) - Virtio abstractions and implementation for the virtio queue and devices.
 - [titlecase](https://github.com/wezm/titlecase) - Tool and Rust crate for transforming text into Title Case.
 - [addr2line](https://github.com/gimli-rs/addr2line) - Cross-platform library for retrieving per-address debug information from files with DWARF debug information.
+- [clang-ast](https://github.com/dtolnay/clang-ast) - Deserialization logic for efficiently processing Clang's -ast-dump=json format from Rust.
+- [buf-list](https://github.com/sunshowers-code/buf-list) - List of Rust buffers that implements the bytes::Buf trait.
 
 ## Cargo Plugins
 

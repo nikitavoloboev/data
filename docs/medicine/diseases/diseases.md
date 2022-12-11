@@ -4,11 +4,11 @@ title: Diseases
 
 # [Diseases](https://en.wikipedia.org/wiki/Disease)
 
-Once I solve most of annoyances with software/productivity, I want to study [biology](../../biology/biology.md) & [bioinformatics](../../biology/bioinformatics/bioinformatics.md) to find solutions for diseases. 
+Once I solve most of annoyances with software/productivity, I want to study [biology](../../biology/biology.md) & [bioinformatics](../../biology/bioinformatics/bioinformatics.md) to find solutions for diseases.
 
-Specifically want to try apply [ML](../../machine-learning/machine-learning.md) to find definitive cures for diseases.  
+Specifically want to try apply [ML](../../machine-learning/machine-learning.md) to find definitive cures for diseases.
 
-Currently interested in finding cure for [Hashimoto's Thyroiditis](https://en.wikipedia.org/wiki/Hashimoto%27s_thyroiditis) as someone I love struggles with it. 
+Currently interested in finding cure for [Hashimoto's Thyroiditis](https://en.wikipedia.org/wiki/Hashimoto%27s_thyroiditis) as someone I love struggles with it.
 
 I am trying to learn a lot from any health degradation I get by noting things doctors operating me say and what I read myself. So as to make sure the disease is not likely to come back.
 
@@ -44,3 +44,4 @@ Some diseases are sadly unavoidable it seems even when you follow a [healthy die
 - [An ALS Protein, Revealed (2022)](https://www.science.org/content/blog-post/als-protein-revealed) ([HN](https://news.ycombinator.com/item?id=30558785))
 - [A new science of mental disorders: Using personalised, transdiagnostic, dynamical systems to understand, model, diagnose and treat psychopathology (2022)](https://www.sciencedirect.com/science/article/pii/S0005796722000675)
 - [What causes the "mental/brain fog" during a flu or a cold and why?](https://www.reddit.com/r/askscience/comments/ywq1pb/what_causes_the_mentalbrain_fog_during_a_flu_or_a/)
+- [What causes Alzheimer's? Scientists are rethinking the answer (2022)](https://www.quantamagazine.org/what-causes-alzheimers-scientists-are-rethinking-the-answer-20221208/) ([HN](https://news.ycombinator.com/item?id=33934228))

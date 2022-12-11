@@ -173,6 +173,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [elsOS](https://github.com/elsOS-dev/elsOS) - Functional italo-alsatian toy-kernel in rust, for x86.
 - [Glazier](https://github.com/linebender/glazier) - Operating system integration layer infrastructure layer intended for high quality GUI toolkits in Rust.
 - [EuraliOS](https://github.com/bendudson/EuraliOS) - Hobby x86-64 operating system written in Rust.
+- [LakeOS](https://github.com/vincenthouyi/LakeOS) - L4-like micro-kernel OS written in Rust.
 
 ## Notes
 

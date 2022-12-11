@@ -485,3 +485,4 @@ title: PyTorch
 - [TorchScale](https://github.com/microsoft/torchscale) - PyTorch library that allows researchers and developers to scale up Transformers efficiently and effectively.
 - [PyTorch 2.0](https://pytorch.org/get-started/pytorch-2.0/) ([HN](https://news.ycombinator.com/item?id=33832511))
 - [Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation](https://github.com/mohammadpz/pytorch_forward_forward)
+- [Transformer encoder in PyTorch](https://github.com/guocheng2018/Transformer-Encoder)

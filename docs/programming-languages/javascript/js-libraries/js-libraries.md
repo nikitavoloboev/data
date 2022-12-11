@@ -1067,6 +1067,7 @@
 - [meta-png](https://github.com/lucach/meta-png) - JavaScript library to store and retrieve metadata in PNG files.
 - [request-compose](https://github.com/simov/request-compose) - Composable HTTP Client.
 - [esm-env](https://github.com/benmccann/esm-env) - Uses export conditions to return environment information in a way that works with major bundlers and runtimes.
+- [import.meta.env](https://github.com/iendeavor/import-meta-env) - Startup/Runtime environment variable solution for JavaScript.
 
 ## Links
 

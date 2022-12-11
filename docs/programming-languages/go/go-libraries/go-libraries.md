@@ -1942,6 +1942,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Go-TypeScript](https://github.com/clarkmcc/go-typescript) - Compile and run Typescript code natively in Go.
 - [intintmap](https://github.com/brentp/intintmap) - Fast int64 -> int64 hash.
 - [fluent-logger-go](https://github.com/fluent/fluent-logger-golang) - Structured logger for Fluentd.
+- [deepCopy](https://github.com/mohae/deepcopy) - Makes deep copies of things: unexported field values are not copied.
 
 ## Links
 

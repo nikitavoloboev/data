@@ -63,3 +63,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [The Diminishing Returns of Calendar Culture (2022)](https://annehelen.substack.com/p/the-diminishing-returns-of-calendar?publication_id=2450&post_id=77587582&isFreemail=false)
 - [TimezoneDB](https://github.com/SynapseTech/TimezoneDB) - Easy, cross-platform method of keeping track of other people's timezones.
 - [Unix time is bad and needs replacement, not UTC (2022)](https://z.vandillen.dev/2022/11/21/unix-time-bad/) ([HN](https://news.ycombinator.com/item?id=33716613))
+- [On Time, Time Zones, and Software (2021)](https://lukasz.medium.com/on-time-time-zones-and-software-6617a4c22d05)

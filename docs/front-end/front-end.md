@@ -127,3 +127,4 @@
 - [CodyHouse](https://codyhouse.co/) - Lightweight front-end framework for building accessible, bespoke interfaces. ([Code](https://github.com/CodyHouse/codyhouse-framework))
 - [OSS Is Out to End the Framework Wars: Jamstack Conf 2022 Opening Keynote](https://www.youtube.com/watch?v=bPTZmUR7z90)
 - [Zoid](https://github.com/krakenjs/zoid) - Cross-domain component toolkit.
+- [Breaking up with JavaScript front ends (2022)](http://triskweline.de/unpoly-rugb/#/) ([HN](https://news.ycombinator.com/item?id=33934580))

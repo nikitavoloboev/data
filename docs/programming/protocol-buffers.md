@@ -6,6 +6,8 @@ title: Protocol buffers
 
 [pbkit](https://pbkit.dev/) & [buf](https://github.com/bufbuild/buf) are nice.
 
+Liked [this talk](https://www.youtube.com/watch?v=5jUQZFnmiPo) as an intro.
+
 ## Links
 
 - [prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers.
@@ -89,3 +91,4 @@ title: Protocol buffers
 - [Buf Schema Registry Plugins](https://github.com/bufbuild/plugins)
 - [JS Protocol Buffers](https://github.com/protocolbuffers/protobuf-javascript)
 - [protofmt](https://github.com/pabloariasal/protofmt) - Formatter for Protocol Buffer Files.
+- [Protocol Buffers- A Banked Journey - Christopher Reeves (2022)](https://www.youtube.com/watch?v=5jUQZFnmiPo)

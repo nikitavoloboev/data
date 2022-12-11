@@ -437,3 +437,4 @@ title: ML Libraries
 - [ONNXRuntime-Extensions](https://github.com/microsoft/onnxruntime-extensions) - Pre- and post processing library for ONNX Runtime.
 - [McTorch Lib](https://github.com/mctorch/mctorch) - Manifold optimization functionality for PyTorch.
 - [Torchhd](https://github.com/hyperdimensional-computing/torchhd) - Python library for Hyperdimensional Computing.
+- [DeeProb-kit](https://github.com/deeprob-org/deeprob-kit) - Python Library for Deep Probabilistic Modeling.

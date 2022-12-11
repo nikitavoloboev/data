@@ -6,7 +6,7 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 
 Using [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion) to generate prompts.
 
-Trying to use more of these technologies in my day to life. Specifically [ChatGPT](https://chat.openai.com/) seems incredible. [Generates nice code](https://twitter.com/onybose/status/1598534390833098753) too. Need to [be wary](https://twitter.com/johnolilly/status/1598517624031555584) though as they don't do [much novelty yet](https://twitter.com/Noahpinion/status/1598499746263732224).
+Trying to use more of these technologies in my day to life. Specifically [ChatGPT](https://chat.openai.com/) seems [incredible](https://news.ycombinator.com/item?id=33940303). [Generates nice code](https://twitter.com/onybose/status/1598534390833098753) too. Need to [be wary](https://twitter.com/johnolilly/status/1598517624031555584) though as they don't do [much novelty yet](https://twitter.com/Noahpinion/status/1598499746263732224).
 
 [Fast Stable Diffusion Colab Notebooks](https://github.com/TheLastBen/fast-stable-diffusion) is great.
 
@@ -247,3 +247,5 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Stable Diffusion in Docker](https://github.com/fboulnois/stable-diffusion-docker)
 - [OpenAI (ChatGPT) API Client for Go](https://github.com/otiai10/openaigo)
 - [Summarize](https://github.com/clmnin/summarize.site) - Summarize web pages using OpenAI ChatGPT.
+- [Ask HN: How does ChatGPT work? (2022)](https://news.ycombinator.com/item?id=33939805)
+- [Disputing a Parking Fine with ChatGPT (2022)](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html) ([HN](https://news.ycombinator.com/item?id=33937753))

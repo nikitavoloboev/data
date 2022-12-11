@@ -359,3 +359,4 @@ title: GraphQL
 - [GraphQL Modules](https://github.com/Urigo/graphql-modules) - Enterprise Grade Tooling For Your GraphQL Server.
 - [Kensa](https://github.com/oslabs-beta/Kensa) - Open-source GraphQL monitoring and testing tool.
 - [GraphQXL](https://github.com/gabotechs/graphqxl) - Language built on top of the GraphQL syntax that extends the original language with some additional features useful for creating scalable and big server side schemas.
+- [ProtoNexus](https://github.com/proto-graphql/proto-graphql-js) - Protobuf-First GraphQL Schemas with GraphQL Nexus.
