@@ -387,7 +387,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [react-worker-components-plugin](https://github.com/Aslemammad/react-worker-components-plugin) - Plugin that renders components in web workers and not in the main thread.
 - [React Fast Accordion](https://github.com/ShivamJoker/React-fast-accordion) - Dynamic, fast & zero dependency accordions for React. ([Reddit](https://www.reddit.com/r/reactjs/comments/sxnuli/my_new_library_is_now_out_reactfastaccordion_zero/))
 - [LocatorJS](https://www.locatorjs.com/) - Click on any component to go to code. ([Code](https://github.com/infi-pc/locatorjs))
-- [Ladle](https://github.com/tajo/ladle) - Environment to develop, test and share your React components faster. ([Web](https://www.ladle.dev/)) ([Intro](https://www.ladle.dev/blog/introducing-ladle/))
+- [Ladle](https://github.com/tajo/ladle) - Environment to develop, test and share your React components faster. ([Web](https://www.ladle.dev/)) ([Intro](https://www.ladle.dev/blog/introducing-ladle/)) ([Discord](https://discord.gg/H6FSHjyW7e))
 - [How to use Props in React (2022)](https://www.robinwieruch.de/react-pass-props-to-component/)
 - [From Rust to TypeScript: Lifetime Analysis for React Component Architecture (2022)](https://valand.dev/blog/post/from-rust-to-typescript-lifetime-analysis) ([Tweet](https://twitter.com/acemarke/status/1486359294127792131))
 - [How to Detect Long Press Gestures in JavaScript Events in React (2022)](https://spacejelly.dev/posts/how-to-detect-long-press-gestures-in-javascript-events-in-react/)

@@ -266,3 +266,4 @@
 - [Course Webpage for Compilers (2020)](https://github.com/IUCompilerCourse/IU-P423-P523-E313-E513-Fall-2020)
 - [Just In Time (JIT) Compilers - Computerphile (2022)](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
 - [How to JIT - an introduction (2013)](https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction)
+- [How to Think About Compiling (2022)](https://uptointerpretation.com/posts/how-to-think-about-compiling/)
