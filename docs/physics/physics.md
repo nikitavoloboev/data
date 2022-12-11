@@ -2,7 +2,7 @@
 
 [This](https://www.susanrigetti.com/physics) & [this Reddit thread](https://www.reddit.com/r/AskPhysics/comments/sxrg4q/how_can_i_learn_physics_on_my_own/) are nice places to start learning physics. I like reading [AskPhysics subreddit](https://www.reddit.com/r/AskPhysics/).
 
-[Unzicker's Real Physics](https://www.youtube.com/@TheMachian/videos) ([need to double check his content](https://www.math.columbia.edu/~woit/wordpress/?p=6156)) & [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html) are interesting.
+[PBS Space Time](https://www.youtube.com/@pbsspacetime/videos), [Unzicker's Real Physics](https://www.youtube.com/@TheMachian/videos) ([need to double check his content](https://www.math.columbia.edu/~woit/wordpress/?p=6156)) & [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html) are interesting.
 
 I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s work mind opening.
 
@@ -351,3 +351,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Unsolved Mysteries: Beta Decay and the Struggle Between Pauli and Bohr](https://www.youtube.com/watch?v=9ukdBHFRjpM)
 - [Misleading Concepts: The Planck Length](https://www.youtube.com/watch?v=IEp3QdqSE0s)
 - [Let's talk Pseudoscience](https://www.reddit.com/r/Physics/comments/h7qblq/lets_talk_pseudoscience/)
+- [Large Hadron Collider Beauty releases first set of data to the public (2022)](https://home.cern/news/news/knowledge-sharing/lhcb-releases-first-set-data-public)

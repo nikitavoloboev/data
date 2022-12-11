@@ -163,6 +163,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Name two podcasts that you like: One really popular one, and one unknown (2022)](https://www.reddit.com/r/podcasts/comments/yn1oyt/name_two_podcasts_that_you_like_one_really/)
 - [Best comedy podcasts (2022)](https://www.reddit.com/r/podcasts/comments/ymtk43/best_comedy_podcast/)
 - [Podcast recommendations from women (2022)](https://www.reddit.com/r/podcasts/comments/yrulph/i_would_love_to_hear_some_recommendations_from/)
+- [What are some of the best podcasts for developers? (2022)](https://news.ycombinator.com/item?id=33943707)
 
 ## Notes
 

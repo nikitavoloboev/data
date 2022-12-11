@@ -15,6 +15,7 @@ So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](unit
 - [Czech has low income taxes. Base rate is 15 and 22 % is high rate. But you also add social and health insurance. We also have small business licenses where you can significantly reduce social so no retirement fund but a lot of cash on hand.](https://www.reddit.com/r/eupersonalfinance/comments/we1pod/about_7000_to_15000_income_per_month_how_to_invest/)
 - [After 3 weeks of living in Europe I would like to admit I was wrong. Cities arent spiritually bankrupt wastelands, I only ever lived in North American ones and did not expect how incredible it is to live in cities that cater to the human experience.](https://twitter.com/lilbabygandhi/status/1573683284416102402)
 - [As of 2022, I believe the best tax setup for most working individuals and families to be comprised of Malta for the corporate setup and Portugal for personal residence.](https://jeangalea.com/low-tax-europe/)
+- [There is a significant division between the Northern and Southern economies. The north have benefited from the Euro with collective purchasing power, while the South got a stable currency. However the Southern economies would benefit from a cheaper currency in so many ways. Germany has resisted true Eurozone bonds which are a logical part of the single currency proposition (the ECB got around it with QE) but sooner or later it needs to happen.](https://www.reddit.com/r/Economics/comments/ziluzx/the_fall_of_the_euro/)
 
 ## Links
 
@@ -98,3 +99,4 @@ So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](unit
 - [Where would you live in Europe for the best quality of life? (2022)](https://www.reddit.com/r/eupersonalfinance/comments/yyir5x/where_would_you_live_in_europe_for_the_best/)
 - [Moving to a third country from EU, what to do with my pension? (2022)](https://www.reddit.com/r/eupersonalfinance/comments/z1b8bp/moving_to_a_third_country_what_to_do_with_my/)
 - [European pension systems are the biggest scam ever existed (2022)](https://www.reddit.com/r/EuropeFIRE/comments/ze1tkn/european_pension_systems_are_the_biggest_scam/)
+- [Top 100 Places To Visit in Europe (2022)](https://www.youtube.com/watch?v=IQzfprW0Yl0)

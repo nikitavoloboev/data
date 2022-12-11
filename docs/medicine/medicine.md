@@ -47,3 +47,4 @@
 - [MedPerf](https://github.com/mlcommons/medperf) - Open benchmarking platform for medical artificial intelligence using Federated Evaluation.
 - [Biophysicist Andrew Pelling uses Fruits and vegetables to repair human tissues](https://www.reddit.com/r/nextfuckinglevel/comments/z4jw9t/biophysicist_andrew_pelling_uses_fruits_and/)
 - [Open-source hospital price transparency (2022)](https://www.dolthub.com/blog/2022-12-02-open-source-hospital-price-transparency/) ([HN](https://news.ycombinator.com/item?id=33882506))
+- [Books on modern medicine or public health](https://twitter.com/salonium/status/1601612776958754816)

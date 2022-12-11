@@ -173,3 +173,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [chimp](https://github.com/xolvio/chimp) - Tooling that helps you do quality, faster.
 - [llama](https://github.com/antonmedv/llama) - Terminal file manager.
 - [moar](https://github.com/walles/moar) - Pager. It reads and displays UTF-8 encoded text from files or pipelines.
+- [Terminal CoPilot](https://github.com/Methexis-Inc/terminal-copilot) - Smart terminal assistant that helps you find the right command.
