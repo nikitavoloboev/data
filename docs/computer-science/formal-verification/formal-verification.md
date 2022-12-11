@@ -156,3 +156,4 @@ title: Formal verification
 - [OSS CAD Suite](https://github.com/YosysHQ/oss-cad-suite-build) - Multi-platform nightly builds of open source digital design and verification tools.
 - [Let's Prove Leftpad (2022)](https://www.hillelwayne.com/post/lpl/)
 - [ProofNet](https://github.com/zhangir-azerbayev/ProofNet) - Benchmark for undergraduate-level formal mathematics.
+- [Formal verification tools](https://github.com/johnyf/tool_lists)
