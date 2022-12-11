@@ -265,3 +265,5 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [Horse Browser](https://browser.horse/) - Browser for research.
 - [Browser History and Bookmarks Search](https://github.com/Acidham/chromium-hist-bookmarks)
 - [WebExtension Toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for creating cross-browser WebExtensions.
+- [Pandora](https://github.com/thomscoder/pandora) - Toy browser engine written in Go and compiled in WASI.
+- [Browser Gopher](https://github.com/iansinnott/browser-gopher) - Search, aggregate, backup your browsing history from the command line.
