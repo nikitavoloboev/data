@@ -915,3 +915,4 @@ if *boolArgPtr != false {
 - [Donia Chaiehloudj - TinyGo: Getting the Upper Hen (2022)](https://www.youtube.com/watch?v=D46NzhBoQC0)
 - [Production Ready Go Concurrency (2022)](https://www.storj.io/blog/production-concurrency) ([Talk](https://www.youtube.com/watch?v=qq3gu0JQ0yU))
 - [Functional table-driven tests in Go (2022)](https://arslan.io/2022/12/04/functional-table-driven-tests-in-go/)
+- [New in Go 1.20: wrapping multiple errors (2022)](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)

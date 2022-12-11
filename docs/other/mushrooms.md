@@ -77,3 +77,4 @@ Get my spores to grow [here](https://orangutantradingco.com/). Grow them using [
 - [Mycocultural Revolution Book (2022)](https://microcosmpublishing.com/catalog/books/8525)
 - [The Fungal Pharmacy Book](https://www.kobo.com/ww/en/ebook/the-fungal-pharmacy)
 - [Radical Mycology](https://www.radicalmycology.com/)
+- [Грибы книга](https://www.mann-ivanov-ferber.ru/books/griby/)

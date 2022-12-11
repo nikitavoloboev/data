@@ -74,3 +74,4 @@
 - [Faster hash table probing (2022)](https://outerproduct.net/trivial/2022-10-06_hash.html)
 - [Consistent Hashing (2022)](https://www.youtube.com/watch?v=UF9Iqmg94tk)
 - [Hash-based digital signatures (almost) from scratch (2022)](https://medium.com/@georgwiese/hash-based-digital-signatures-almost-from-scratch-da57e54dd774)
+- [Hashing Apples, Bananas and Cherries (2022)](https://crypto.junod.info/posts/recursive-hash/)

@@ -791,3 +791,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [CalmCode](https://calmcode.io/) - Video tutorials for modern ideas and open source tools.
 - [Codeium](https://www.codeium.com/) - Free, fast AI codegen extension. ([HN](https://news.ycombinator.com/item?id=33885676))
 - [paste](https://topaz.github.io/paste/) - No-datastore, client-side paste service. ([Code](https://github.com/topaz/paste))
+- [Noor](https://noor.to/) - Voice, screen-share and chat for teams that love focus. ([Tweet](https://twitter.com/morajabi/status/1601561242535006208))

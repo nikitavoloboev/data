@@ -253,7 +253,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Chris Skinner](https://www.instagram.com/skinnercreative/)
 - [Liam Cobb](https://liamcobb.tumblr.com/)
 - [Nicolas Miller](https://www.instagram.com/nickmillers/)
-- [Deborah Lee](https://www.instagram.com/jdebbiel/)
+- [Deborah Lee](https://www.instagram.com/jdebbiel/) ([Twitter](https://twitter.com/jdebbiel))
 - [Mara Lookabaugh](https://maralookabaugh.com/)
 - [Bee Grandinetti](http://www.beegrandinetti.com/)
 - [Miena A.R.](https://mienar.com/original-artworks)
