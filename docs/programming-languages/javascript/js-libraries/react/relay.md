@@ -49,3 +49,5 @@ title: Relay
 - [Create-Relay-App](https://github.com/tobias-tengler/create-relay-app) - Relay setup automation for CRA, Next.js and Vite.
 - [Simple Issue Tracker Relay Example (with Next.js 13)](https://github.com/relayjs/relay-examples/tree/main/issue-tracker-next-v13)
 - [Re-introducing Relay (2021)](https://www.youtube.com/watch?v=lhVGdErZuN4)
+- [Relay Digest: Managing client state](https://twitter.com/___zth___/status/1601958848042074114) ([Eventual goal](https://twitter.com/alunyov/status/1601968127600103425))
+- [Relay Live Resolvers Example](https://github.com/alunyov/relay-resolvers-example)

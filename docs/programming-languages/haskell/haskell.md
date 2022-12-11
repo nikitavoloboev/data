@@ -8,7 +8,7 @@ title: Haskell
 
 [Haskell for Working Programmers](https://github.com/liftM/haskell-for-working-programmers) is a nice intro.
 
-[Production Haskell](https://leanpub.com/production-haskell) seems like a nice advanced Haskell book.
+[Production Haskell](https://leanpub.com/production-haskell) seems like a nice advanced Haskell book. It'd be interesting to have a language like [Haskell](haskell.md) but [without gc](https://www.reddit.com/r/haskell/comments/zis59t/why_the_gc/).
 
 ## OSS Haskell Tools
 

@@ -4,6 +4,8 @@
 
 [The Dao of Functional Programming](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf) is a nice read.
 
+[Retrofitting Linear Types](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/haskell-linear-submitted.pdf), [Linear Regions Are All You Need](https://www.cs.cornell.edu/people/fluet/research/substruct-regions/ESOP06/esop06.pdf) and [Linear Types Lecture](https://www.cs.cornell.edu/courses/cs4110/2018fa/lectures/lecture29.pdf) are great reads.
+
 ## Notes
 
 - [A monad is an abstraction that can be used to parametrize code with the way how computations are sequenced. A monad can also be seen as design pattern, that sometimes makes your code more readable (and, more often, less readable).](https://binaryanalysisplatform.github.io/bap/api/master/Monads.Std.html)
@@ -204,6 +206,9 @@
 - [Demystifying monads (2021)](https://vm.codes/blog/demystifying-monads)
 - [Lumina](https://github.com/luminalang/lumina) - High-Level Compiled Functional Programming Language.
 - [Not a monad tutorial (2022)](https://johnazariah.github.io/2022/12/06/this-is-not-a-monad-tutorial.html) ([HN](https://news.ycombinator.com/item?id=33911278))
+- [Linear Types Lectures](https://www.cs.cornell.edu/courses/cs4110/2018fa/lectures/lecture29.pdf)
+- [Linear Regions Are All You Need](https://www.cs.cornell.edu/people/fluet/research/substruct-regions/ESOP06/esop06.pdf)
+- [Retrofitting Linear Types (2017)](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/haskell-linear-submitted.pdf)
 
 ## Images
 

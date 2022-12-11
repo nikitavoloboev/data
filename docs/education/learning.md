@@ -258,3 +258,4 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [Ask HN: Do you recall any book or course that made a topic finally click? (2022)](https://news.ycombinator.com/item?id=33593631)
 - [Ask HN: What are your favorite books/courses of 2022? Why?](https://news.ycombinator.com/item?id=33688207)
 - [Memorisely](https://www.memorisely.com/) - Live UX/UI Bootcamps & Video Classes.
+- [Buildspace Projects](https://github.com/buildspace/buildspace-projects)
