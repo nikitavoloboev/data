@@ -245,6 +245,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Nick Olinger](https://www.nickolinger.com/blog/)
 - [Manuel Matuzovic](https://www.matuzo.at/)
 - [Jan-Erik Rediger](https://fnordig.de/)
+- [Igor Kulman](https://blog.kulman.sk/)
 
 ## Notes
 

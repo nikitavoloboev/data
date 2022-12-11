@@ -1431,3 +1431,4 @@
 - [Jungle](https://github.com/xing/jungle) - Swift CLI tool that generates complexity metrics information from a Cocoapods Xcode project or a SwiftPM package.
 - [Build DocC documentation for your Xcode project / Swift Package](https://github.com/lukepistrol/xcodebuild-docc-action)
 - [Generate and test RESTful APIs in Swift (2022)](https://blog.eidinger.info/generate-and-test-restful-apis-in-swift)
+- [Correctly playing audio in iOS applications (2022)](https://blog.kulman.sk/correctly-playing-audio-in-ios-apps/)
