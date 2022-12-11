@@ -444,3 +444,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Fonts and text layout for Go](https://github.com/benoitkugler/textlayout)
 - [Creating a handwritten TrueType font in Linux (2018)](https://gordonlesti.com/creating-a-handwritten-truetype-font-in-linux/)
 - [Google Fonts Checker](https://fontsplugin.com/google-fonts-checker/) - Scan your website and discover where your font files are hosted. ([HN](https://news.ycombinator.com/item?id=33830237))
+- [libschrift](https://github.com/tomolt/libschrift) - Lightweight TrueType font rendering library.

@@ -280,4 +280,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [Pocketbase Auth Library](https://github.com/kennethklee/pb-auth)
 - [Go and SQLite in the Cloud (2022)](https://www.golang.dk/articles/go-and-sqlite-in-the-cloud) ([HN](https://news.ycombinator.com/item?id=33894995))
 - [sqlite-loadable-rs](https://github.com/asg017/sqlite-loadable-rs) - Framework for writing fast and performant SQLite extensions in Rust.
-- [How I found a bug in SQLite (2022)](https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/)
+- [How I found a bug in SQLite (2022)](https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/) ([HN](https://news.ycombinator.com/item?id=33945115))

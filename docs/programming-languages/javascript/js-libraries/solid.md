@@ -16,6 +16,8 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 
 [Solid Dev Tools](https://github.com/thetarnav/solid-devtools) are useful.
 
+Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../networking/graphql/graphql.md) client.
+
 ## OSS apps
 
 - [Solid Hacker News](https://github.com/solidjs/solid-hackernews)

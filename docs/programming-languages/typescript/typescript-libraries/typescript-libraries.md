@@ -712,6 +712,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ogr2ogr](https://github.com/wavded/ogr2ogr) - Wraps the ogr2ogr GDAL tool to enable file conversion and re-projection of spatial data in simplified friendly API.
 - [schema-org-graph-js](https://github.com/harlan-zw/schema-org-graph) - Build Schema.org graphs for JavaScript Runtimes (Browser, Node, etc). Improve your sites SEO with quick and easy Rich Results.
 - [zoxy](https://github.com/skarab42/zoxy) - Small type-safe object proxy around Zod to help you stay safe after your data is loaded.
+- [ReactiveFile](https://github.com/judehunter/reactivefile) - Lightweight library for creating a reactive binding between a JS object and a file.
 
 ## Links
 

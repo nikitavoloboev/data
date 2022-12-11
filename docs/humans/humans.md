@@ -109,3 +109,4 @@ I am trying to meet as many people I find interesting as possible to get to know
 - [The Steve Jobs Archive](https://stevejobsarchive.com/) ([HN](https://news.ycombinator.com/item?id=32760695))
 - [The World Is Run By People No Smarter Than You (2022)](https://www.swyx.io/no-smarter/) ([HN](https://news.ycombinator.com/item?id=33562204)) ([Tweet](https://twitter.com/jeanqasaur/status/1591171248825909248))
 - [Elon Musk has lied for 27 years about his credentials](https://twitter.com/capitolhunters/status/1593307541932474368)
+- [Be wary of imitating high-status people who can afford to countersignal (2022)](https://robkhenderson.substack.com/p/the-perils-of-imitating-high-status) ([HN](https://news.ycombinator.com/item?id=33942670))
