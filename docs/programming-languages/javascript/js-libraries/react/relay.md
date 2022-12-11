@@ -48,3 +48,4 @@ title: Relay
 - [Next.js + Relay + Streaming](https://github.com/wvanrensselaer/nextjs-relay-streaming)
 - [Create-Relay-App](https://github.com/tobias-tengler/create-relay-app) - Relay setup automation for CRA, Next.js and Vite.
 - [Simple Issue Tracker Relay Example (with Next.js 13)](https://github.com/relayjs/relay-examples/tree/main/issue-tracker-next-v13)
+- [Re-introducing Relay (2021)](https://www.youtube.com/watch?v=lhVGdErZuN4)
