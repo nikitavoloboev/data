@@ -259,3 +259,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Progres](https://github.com/jgreener64/progres) - Protein Graph Embedding Search.
 - [Mega-scale experimental analysis of protein folding stability in biology and protein design (2022)](https://www.biorxiv.org/content/10.1101/2022.12.06.519132v1) ([Tweet](https://twitter.com/KotaroTsuboyama/status/1600498005668466700))
 - [Representation Learning on Biomolecular Structures using Equivariant Graph Attention (2022)](https://github.com/Bayer-Group/eqgat)
+- [On-chip on-demand delivery of K+ for in vitro bioelectronics (2022)](https://aip.scitation.org/doi/full/10.1063/5.0129134)

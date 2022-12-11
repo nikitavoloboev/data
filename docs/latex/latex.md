@@ -160,3 +160,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Fast Typesetting with Incremental Compilation (2022)](https://www.user.tu-berlin.de/mhaug/fast-typesetting-incremental-compilation.pdf) ([HN](https://news.ycombinator.com/item?id=33662534))
 - [Go-LaTeX](https://github.com/go-latex/latex) - Go package for LaTeX.
 - [Pretty-Print LaTeX](https://github.com/stefanhepp/pplatex)
+- [Compositor](https://compositorapp.com/) - WYSIWYG LaTeX Editor for Mac. ([Issues](https://github.com/ktraunmueller/Compositor))

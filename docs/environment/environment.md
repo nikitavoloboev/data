@@ -14,6 +14,7 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [If we actually lived in a democracy, we'd halt climate breakdown.](https://twitter.com/ClimateHuman/status/1458272108266418176)
 - [The world dumps a jaw-dropping 17.6 billion pounds (8 billion kilograms) of new plastic into the oceans each year.](https://gizmodo.com/why-trying-to-clean-up-all-the-ocean-plastic-is-pointle-1848111529)
 - [Study detects a 60% drop in flying insect populations in 20 years! Halting & reversing this is going to require a huge effort on many levels. Reconnecting & expanding habitat will be a vital part of it.](https://twitter.com/TonyJuniper/status/1522094235365052416)
+- [Most climate problems disappear if energy is cheap and abundant. viable electric steel production. cheap electric cars. cheap bioreactors, cheap lighting for hydroponics, etc etc.](https://twitter.com/tszzl/status/1601734001013968896)
 
 ## Links
 
