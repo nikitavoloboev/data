@@ -21,7 +21,7 @@ title: JAX
 - [Pipelined Swarm Training](https://github.com/kingoflolz/swarm-jax) - Swarm training framework using Haiku + JAX + Ray for layer parallel transformer language models on unreliable, heterogeneous nodes.
 - [JAX MuZero](https://github.com/Hwhitetooth/jax_muzero) - JAX implementation of the MuZero agent.
 - [Jax Influence](https://github.com/google-research/jax-influence) - Scalable implementation of Influence Functions in JaX.
-- [BlackJAX](https://github.com/blackjax-devs/blackjax) - Library of samplers for JAX that works on CPU as well as GPU. ([Twitter](https://twitter.com/blackjax_mcmc))
+- [BlackJAX](https://github.com/blackjax-devs/blackjax) - Library of samplers for JAX that works on CPU as well as GPU. ([Twitter](https://twitter.com/blackjax_mcmc)) ([Contribute](https://github.com/blackjax-devs/blackjax/issues/154))
 - [GPax](https://github.com/google-research/gpax) - Jax/Flax codebase for Gaussian processes including meta and multi-task Gaussian processes.
 - [jax-fenics-adjoint](https://github.com/IvanYashchuk/jax-fenics-adjoint) - Differentiable interface to FEniCS/Firedrake for JAX using dolfin-adjoint/pyadjoint.
 - [jax-ekf](https://github.com/brentyi/jax-ekf) - Generic EKF, with support for non-Euclidean manifolds.

@@ -22,6 +22,7 @@ title: Flutter
 - [Flyer Chat](https://github.com/flyerhq/flutter_firebase_chat_core) - Actively maintained, community-driven Firebase BaaS for chat applications with an optional chat UI.
 - [Flutter Instagram Clone](https://github.com/GetStream/flutter-instagram-clone) - Instagram clone using Flutter and Stream Feeds.
 - [Immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+- [JellyBook](https://github.com/Kara-Zor-El/JellyBook) - Nice way to read books and comics from Jellyfin.
 
 ## Links
 
