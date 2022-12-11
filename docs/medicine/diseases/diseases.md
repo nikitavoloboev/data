@@ -14,7 +14,7 @@ I am trying to learn a lot from any health degradation I get by noting things do
 
 Some diseases are sadly unavoidable it seems even when you follow a [healthy diet](../../health/nutrition/nutrition.md), [exercise](../../fitness/fitness.md) and [sleep](../../sleep/sleep.md) well.
 
-## Notable
+## Notable diseases
 
 - [Hypothyroidism](https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/) - Underactive thyroid.
 - [Hashimoto's Thyroiditis](https://healthmatch.io/hashimotos-disease/hashimotos-thyroiditis-cure)
@@ -22,6 +22,11 @@ Some diseases are sadly unavoidable it seems even when you follow a [healthy die
 - [Leukemia](https://en.wikipedia.org/wiki/Leukemia) ([Reddit](https://www.reddit.com/r/leukemia/))
 - [Graft-versus-host disease](https://en.wikipedia.org/wiki/Graft-versus-host_disease) ([Reddit](https://www.reddit.com/r/gvhd/))
 - [Prion Diseases](https://www.hopkinsmedicine.org/health/conditions-and-diseases/prion-diseases)
+- [Crohn's disease](https://www.mayoclinic.org/diseases-conditions/crohns-disease/symptoms-causes/syc-20353304)
+
+## Notable surgeries
+
+- [Colectomy (Colon Resection Surgery)](https://my.clevelandclinic.org/health/treatments/4671-colectomy-bowel-resection-surgery)
 
 ## Links
 
@@ -45,3 +50,4 @@ Some diseases are sadly unavoidable it seems even when you follow a [healthy die
 - [A new science of mental disorders: Using personalised, transdiagnostic, dynamical systems to understand, model, diagnose and treat psychopathology (2022)](https://www.sciencedirect.com/science/article/pii/S0005796722000675)
 - [What causes the "mental/brain fog" during a flu or a cold and why?](https://www.reddit.com/r/askscience/comments/ywq1pb/what_causes_the_mentalbrain_fog_during_a_flu_or_a/)
 - [What causes Alzheimer's? Scientists are rethinking the answer (2022)](https://www.quantamagazine.org/what-causes-alzheimers-scientists-are-rethinking-the-answer-20221208/) ([HN](https://news.ycombinator.com/item?id=33934228))
+- [Colon Resection](https://www.youtube.com/watch?v=b0msKgqTjDU)

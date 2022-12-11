@@ -14,6 +14,7 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 - [Best part of I, Robot is how it consistently presents robots doing undesirable things not as AI “gone evil” or “run amok” but implications of their programming that humans did not anticipate, which must be understood and fixed like any other engineering problem.](https://twitter.com/lexi_lambda/status/1464269135169339393)
 - [It’s not neurons, CPUs or Chinese Room inhabitants who understand, it’s the causal structure implemented by them.](https://twitter.com/Plinz/status/1536249438154330115)
 - [LLMs won’t replace junior coders by doing 100% of their jobs, it’ll replace them by making top-1% coders 50x more productive. You’re not “safe” because you can do things no LLM can. Your competition isn’t the machine gun of bullshit, it’s the person holding it.](https://twitter.com/goodside/status/1599464340679114753)
+- [Real opportunity in AI for most people will not be in AI but in building a front end around it.](https://twitter.com/levelsio/status/1601618182875533314)
 
 ## Links
 
