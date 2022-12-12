@@ -157,3 +157,4 @@ title: Formal verification
 - [Let's Prove Leftpad (2022)](https://www.hillelwayne.com/post/lpl/)
 - [ProofNet](https://github.com/zhangir-azerbayev/ProofNet) - Benchmark for undergraduate-level formal mathematics.
 - [Formal verification tools](https://github.com/johnyf/tool_lists)
+- [The Case for Models (2022)](https://concerningquality.com/models/)
