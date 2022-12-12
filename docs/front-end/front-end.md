@@ -128,3 +128,4 @@
 - [OSS Is Out to End the Framework Wars: Jamstack Conf 2022 Opening Keynote](https://www.youtube.com/watch?v=bPTZmUR7z90)
 - [Zoid](https://github.com/krakenjs/zoid) - Cross-domain component toolkit.
 - [Breaking up with JavaScript front ends (2022)](http://triskweline.de/unpoly-rugb/#/) ([HN](https://news.ycombinator.com/item?id=33934580))
+- [Framework.dev](https://framework.dev/) - Knowledge base for different front end frameworks. ([Code](https://github.com/thisdot/framework.dev))

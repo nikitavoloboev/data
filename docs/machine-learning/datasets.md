@@ -217,4 +217,4 @@
 - [cc2dataset](https://github.com/rom1504/cc2dataset) - Easily convert common crawl to a dataset of caption and document. Image/text Audio/text Video/text.
 - [VideoCC](https://github.com/google-research-datasets/videoCC-data) - Dataset containing (video-URL, caption) pairs for training video-text machine learning models.
 - [MIR dataset papers presented at ISMIR 2022](https://github.com/otnemrasordep/ismir2022-datasets)
-- [Laion-5B: A New Era of Open Large-Scale Multi-Modal Datasets (2022)](https://laion.ai/blog/laion-5b/)
+- [Laion-5B: A New Era of Open Large-Scale Multi-Modal Datasets (2022)](https://laion.ai/blog/laion-5b/) ([HN](https://news.ycombinator.com/item?id=33953891))

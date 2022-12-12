@@ -14,6 +14,8 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 
 Like listening to [Andrew Huberman](https://www.youtube.com/c/AndrewHubermanLab/videos) & [Rhonda Patrick](https://www.youtube.com/c/FoundMyFitness/videos) for health tips.
 
+[Tools for Hormone Optimization](https://hubermanlab.com/dr-kyle-gillett-tools-for-hormone-optimization-in-males/) is nice episode.
+
 ## Notes
 
 - [Great comment on staying healthy](https://www.reddit.com/r/longevity/comments/7hwgo7/for_people_in_their_young_or_middle_ages_now_who/).
@@ -87,3 +89,4 @@ Like listening to [Andrew Huberman](https://www.youtube.com/c/AndrewHubermanLab/
 - [Sauna use as a lifestyle practice to extend healthspan (2022)](https://www.sciencedirect.com/science/article/pii/S0531556521002916) ([HN](https://news.ycombinator.com/item?id=33056743))
 - [Medplum](https://www.medplum.com/) - Open-Source Firebase for Healthcare. ([HN](https://news.ycombinator.com/item?id=33521560))
 - [Ask HN: Do you measure and/or mitigate CO2 in your living space? (2022)](https://news.ycombinator.com/item?id=33864195)
+- [Dr. Kyle Gillett: Tools for Hormone Optimization in Males (2022)](https://hubermanlab.com/dr-kyle-gillett-tools-for-hormone-optimization-in-males/)
