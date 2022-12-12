@@ -644,3 +644,4 @@ title: Linux
 - [Create an embedded Linux system using Buildroot (2019)](https://marcocetica.com/posts/buildroot-tutorial/)
 - [How to use the Linux AIO feature](https://github.com/littledan/linux-aio)
 - [Adventures in Creating a Minimal Alpine Linux Installer (2022)](https://bt.ht/alpine/)
+- [Linux Desktop Environments System Usage (2022)](https://itvision.altervista.org/linux-desktop-environments-system-usage.html) ([HN](https://news.ycombinator.com/item?id=33951719))
