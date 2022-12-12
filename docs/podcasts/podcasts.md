@@ -104,6 +104,7 @@ It includes:
 - [SmartLess](https://www.smartless.com/) - Comedy podcast hosted by Sean Hayes, Jason Bateman & Will Arnett. ([Twitter](https://twitter.com/SmartLess?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor))
 - [Up Only](https://uponly.tv/) - Crypto podcast with Cobie & Ledger. ([Twitter](https://twitter.com/uponlytv))
 - [Huberman Lab](https://hubermanlab.com/)
+- [Two's Complement](https://www.twoscomplement.org/)
 - [Geopolitics Decanted by Silverado](https://geopolitics-decanted.simplecast.com/)
 - [Oxide and Friends](https://podbay.fm/p/oxide-and-friends)
 

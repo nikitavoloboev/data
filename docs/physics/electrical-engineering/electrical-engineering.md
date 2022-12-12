@@ -135,3 +135,4 @@ title: Electrical engineering
 - [altium.js](https://github.com/gsuberland/altium_js) - JavaScript library for parsing and rendering Altium schematic (SchDoc) files in the browser.
 - [Taking a good picture of a PCB (2022)](https://blog.brixit.nl/taking-a-good-picture-from-a-pcb/)
 - [Ask HN: Can you recommend a book to learn basic electrical concepts/engineering? (2022)](https://news.ycombinator.com/item?id=33869277)
+- [Logic Primitive Transformations with Yosys Techmap (2022)](https://blog.yosyshq.com/p/logic-primitive-transformations-with-yosys-techmap/)

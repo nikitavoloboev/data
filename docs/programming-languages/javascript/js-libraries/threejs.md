@@ -153,3 +153,4 @@ title: Three.js
 - [Three Wboit](https://github.com/stevinz/three-wboit) - Weighted, Blended Order Independent Transparency.
 - [Offscreen Canvas Polyfill](https://github.com/ai/offscreen-canvas) - Polyfill for OffscreenCanvas to move Three.js/WebGL/2D canvas to Web Worker.
 - [React Three Editor](https://github.com/pmndrs/react-three-editor) - Scene editor that writes changes back into your code.
+- [four](https://github.com/CodyJasonBennett/four) - Minimal three.js alternative in 4KB.

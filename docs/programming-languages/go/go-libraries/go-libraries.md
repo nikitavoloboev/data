@@ -173,6 +173,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 ## Web
 
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
+- [Chi CORS](https://github.com/go-chi/cors)
 - [Flamego](https://github.com/flamego/flamego) - Fantastic modular Go web framework with a slim core but limitless extensibility. ([Docs](https://flamego.dev/))
 - [router](https://github.com/gowww/router) - Lightning fast HTTP router.
 - [Nitric](https://github.com/nitrictech/nitric) - Framework for cloud and serverless apps.
