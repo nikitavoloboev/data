@@ -254,3 +254,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Books to learn environment design](https://twitter.com/andrewpprice/status/1598201720160808961)
 - [Holographik](https://twitter.com/Holographikco) - Creative studio specialized in design and motion. ([Blog](https://medium.holographik.co/))
 - [24 Days of Design Gifts](https://design.gifts/)
+- [Generating designs with Midjourney (2022)](https://twitter.com/Davistaylorbro/status/1601983354416795649)

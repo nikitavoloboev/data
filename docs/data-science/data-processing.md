@@ -2,6 +2,8 @@
 
 [Ibis](https://github.com/ibis-project/ibis), [Orchest](https://github.com/orchest/orchest) & [Mage](https://github.com/mage-ai/mage-ai) are nice. [Greptime](https://www.greptime.com/) is interesting OSS DB for time series data processing.
 
+[Polars](https://github.com/pola-rs/polars) is nice DataFrames library implementation.
+
 ## Notes
 
 - [A simple use of array of JSON to store tabular data seems nice. [{row1}, {row2}, {row3}].](https://news.ycombinator.com/item?id=31220841)

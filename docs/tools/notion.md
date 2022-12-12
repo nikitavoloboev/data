@@ -131,3 +131,4 @@ Use it for projects as a wiki of docs & notes for teams. I [share most boards in
 - [draw.io Notion Embed](https://github.com/ivankahl/drawio-notion-embed) - Embed draw.io diagrams directly into Notion.
 - [Notion AI](https://www.notion.so/product/ai) ([HN](https://news.ycombinator.com/item?id=33623201))
 - [lilNotion](https://github.com/brandonfang/lilnotion) - Full stack Notion clone built with React, Redux, Ruby on Rails, and PostgreSQL.
+- [How Notion leveraged community to build a $10B business (2022)](https://www.youtube.com/watch?v=bY5KC9Gguz8)

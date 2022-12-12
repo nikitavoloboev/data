@@ -251,3 +251,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Disputing a Parking Fine with ChatGPT (2022)](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html) ([HN](https://news.ycombinator.com/item?id=33937753))
 - [GPT3 Writer in code](https://github.com/buildspace/buildspace-projects/tree/main/GPT3_Writer/en)
 - [ChatGPT Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - Access OpenAI's ChatGPT from anywhere on the web.
+- [Ask HN: Is the weaponisation of ChatGPT now inevitable? (2022)](https://news.ycombinator.com/item?id=33952087)

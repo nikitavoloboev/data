@@ -11,6 +11,7 @@ Nuclear energy [gets a bad reputation but its the future of renewable energy](ht
 - [If elemental power aka nuclear was discovered last week we would be going insane with joy we just solved the climate crisis.](https://twitter.com/wolfejosh/status/1448797519073484807)
 - [Energy can be converted to mass, and vice-versa. This is how nuclear power works: when a heavy nucleus breaks up into smaller parts, the sum of the parts is less massive than the original nucleus. That lost mass is actually contained in the kinetic energy of the particles, or in photons depending on the type of decay.](https://www.reddit.com/r/askscience/comments/b6g96g/do_black_holes_destroy_energy/)
 - [The more I study nuclear technology the more I think that every problem of today's nuclear tech has a potential solution that has already been identified. They just haven't been brought to market, because the market is sclerotic.](https://twitter.com/jasoncrawford/status/1397649744726413317)
+- [I’m optimistic fusion projects like Commonwealth, Helion, and whoever is working on stellerators.](https://twitter.com/VictorPontis/status/1602189221711994881)
 
 ## Links
 

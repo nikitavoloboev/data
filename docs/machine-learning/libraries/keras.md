@@ -36,3 +36,4 @@ title: Keras
 - [Keras API Docs](https://keras.io/api/) ([Code](https://github.com/keras-team/keras-io))
 - [frugally-deep](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras (TensorFlow) models in C++.
 - [Rust Keras Like](https://github.com/AhmedBoin/Rust-Keras-Like) - Pure Rust implementation for deep learning library like Keras.
+- [R Interface to Keras](https://github.com/rstudio/keras)

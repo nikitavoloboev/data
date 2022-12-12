@@ -121,3 +121,4 @@ title: Lean
 - [Tests around generalized rewriting in Lean 4](https://github.com/lephe/lean4-rewriting)
 - [WASM Lean](https://github.com/yatima-inc/Wasm.lean) - WebAssembly tools for Lean.
 - [Lean 4 Poseidon implementation](https://github.com/yatima-inc/Poseidon.lean)
+- [Zulip Chat Archive](https://leanprover-community.github.io/archive/)

@@ -4,7 +4,7 @@ title: Twitter
 
 # [Twitter](https://twitter.com/)
 
-Use [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) extension when I browse Twitter on [Safari](../web/browsers/safari.md) (with `jk` [keyboard binds](https://help.twitter.com/en/using-twitter/how-to-tweet) to move between tweets, `l` to like, `b` to bookmark, `r` to reply). And official app on iOS.
+Use [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) extension when I browse Twitter on [Safari](../web/browsers/safari.md) in [separate window](https://twitter.com/nikitavoloboev/status/1601959862648582145) (with `jk` [keyboard binds](https://help.twitter.com/en/using-twitter/how-to-tweet) to move between tweets, `l` to like, `b` to bookmark, `r` to reply). And official app on iOS.
 
 I love Twitter as it's currently the best place to stream your thoughts to public and have others interact with it in real time. Nothing yet comes close to the network and UX of Twitter for doing this.
 

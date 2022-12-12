@@ -8,7 +8,7 @@ I love the [lifestyle that Simon Sarris has](https://twitter.com/simonsarris/sta
 
 I try to spend as much [time with family and loved ones](https://ourworldindata.org/time-with-others-lifetime) as I can. I live a life focused on positivity and [happiness](happiness.md) over complaining and glooming over the future. I try to work on things that give me energy instead of draining it away. [Life is short](http://paulgraham.com/vb.html). Let past go. No such thing as wasted time, just [lessons learned](../focusing/rules.md#life).
 
-The hardest part in staying happy I find is forgiving yourself for mistakes you made, learning from every mistake/conversation/event you experience and making [concrete plans](../focusing/goals.md) for the future given what you know. If your plan doesn't workout, change the plan, not the goal.
+The hardest part in staying happy I find is forgiving myself for mistakes I made, learning from every mistake/conversation/event I experience and making [concrete plans](../focusing/goals.md) for the future given what I know. If my plan doesn't workout, change the plan, not the goal.
 
 For me personally the end goal and purpose is ultimate freedom. Doing what I love without being restricted. On the side, I do truly want to [make life nicer for all](../future/future.md).
 

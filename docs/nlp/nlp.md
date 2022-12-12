@@ -8,7 +8,7 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 
 [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/) is a nice intro.
 
-[LangChain](https://github.com/hwchase17/langchain/) is interesting.
+[LangChain](https://github.com/hwchase17/langchain/) is interesting. [Lightning GPT](https://github.com/Lightning-AI/lightning-gpt) is nice minimal GPT implementation.
 
 ## Notes
 
@@ -720,3 +720,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Talking About Large Language Models (2022)](https://arxiv.org/abs/2212.03551) ([HN](https://news.ycombinator.com/item?id=33933772))
 - [The GPT-3 Architecture, on a Napkin (2022)](https://dugas.ch/artificial_curiosity/GPT_architecture.html) ([HN](https://news.ycombinator.com/item?id=33942597))
 - [Discovering Latent Knowledge in Language Models Without Supervision (2022)](https://arxiv.org/abs/2212.03827) ([HN](https://news.ycombinator.com/item?id=33950542))
+- [Lightning GPT](https://github.com/Lightning-AI/lightning-gpt)

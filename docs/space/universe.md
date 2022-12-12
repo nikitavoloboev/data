@@ -73,3 +73,4 @@ Liked this video on [why cosmic inflation doesn't make much sense](https://www.y
 - [Why this universe? New calculation suggests our cosmos is typical (2022)](https://www.quantamagazine.org/why-this-universe-new-calculation-suggests-our-cosmos-is-typical-20221117/) ([HN](https://news.ycombinator.com/item?id=33653890))
 - [Roger Penrose - "Big Bang was not the beginning"](https://www.youtube.com/watch?v=HFbFat-UhaA)
 - [Useless Fantasies: Cosmic Inflation (2022)](https://www.youtube.com/watch?v=ADuiIcBwMmI)
+- [Astronomers just confirmed the most ancient galaxies ever observed (2022)](https://singularityhub.com/2022/12/11/astronomers-just-confirmed-the-most-ancient-galaxies-ever-observed/) ([HN](https://news.ycombinator.com/item?id=33949131))

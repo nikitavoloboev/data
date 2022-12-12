@@ -2,6 +2,8 @@
 
 Go over how I use my iPad [here](https://github.com/nikitavoloboev/my-ios#ipad). [Muse](https://museapp.com/) is a nicely designed app.
 
+Love how you can [connect iPad to mac and drag drawing apps into iPad to draw on them natively with the pencil](https://twitter.com/auchenberg/status/1602158751448010754).
+
 ## Links
 
 - [Using the iPad Pro as my development machine (2019)](https://arslan.io/2019/01/07/using-the-ipad-pro-as-my-development-machine/)

@@ -156,3 +156,4 @@
 - [У кого какие эрогенные зоны?](https://twitter.com/lyasheva/status/1598540434497626113)
 - [What are your favorite movies where sex is integral to the plot? (2022)](https://www.reddit.com/r/Letterboxd/comments/zcleth/what_are_your_favorite_movies_where_sex_is/)
 - [IUD is great contraception but painful to insert](https://twitter.com/sarahclazarus/status/1599959313807597568)
+- [Top 5 sex toys (2022)](https://www.youtube.com/watch?v=tdKNQDrZqTE)

@@ -918,3 +918,4 @@ if *boolArgPtr != false {
 - [New in Go 1.20: wrapping multiple errors (2022)](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/) ([HN](https://news.ycombinator.com/item?id=33942581))
 - [Obscure Go Optimisations - Bryan Boreham (2022)](https://www.youtube.com/watch?v=rRtihWOcaLI)
 - [Coverage profiling support for integration tests](https://go.dev/testing/coverage/)
+- [7 days Go programs from scratch](https://github.com/geektutu/7days-golang)

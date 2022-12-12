@@ -85,6 +85,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Pleshevskiy's NixOS](https://git.pleshevski.ru/mynix/system)
 - [David Wood](https://github.com/davidtwco/veritas)
 - [Jakub](https://github.com/jakubgs/nixos-config)
+- [Dustin Lacewell](https://github.com/dustinlacewell/dotfiles)
 
 ## Nix configs (macOS)
 

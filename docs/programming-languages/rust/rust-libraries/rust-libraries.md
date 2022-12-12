@@ -205,6 +205,7 @@
 - [Async UI](https://github.com/wishawa/async_ui) - Lifetime-Friendly, Component-Based, Retained-Mode UI Powered by Async Rust. ([Article](https://wishawa.github.io/posts/async-ui-intro/)) ([HN](https://news.ycombinator.com/item?id=33089131))
 - [CustomElement](https://github.com/gbj/custom-elements) - Framework-agnostic CustomElement trait to create Rust/WASM Web Components/Custom Elements easily without writing any JavaScript.
 - [har-rs](https://github.com/mandrean/har-rs) - HTTP Archive format (HAR) serialization & deserialization library, written in Rust.
+- [Motore](https://github.com/cloudwego/motore) - Async middleware abstraction powered by GAT and TAIT.
 
 ## Auth
 
