@@ -4,6 +4,8 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 
 One thing I learned is to always be proactive with cold approaching people, just phrase the first message to short and actionable. Many great things came from someone sending that first message and connecting.
 
+And do [ask for help](https://twitter.com/FoundersPodcast/status/1601957896627310592) kindly, many will gladly help you or advise.
+
 ## Notes
 
 - [Never underestimate the impact of informal positive feedback on a junior, career-changer or someone new to the stack. Often people just need to know they're on the right road.](https://twitter.com/thomas_k_r/status/1296015993144332288)

@@ -310,3 +310,4 @@ Hi<div>oh no break</div>
 - [Daath AI Parser](https://github.com/kagermanov27/daath-ai-parser) - Open-Source AI Parser for HTML Elements. ([HN](https://news.ycombinator.com/item?id=33920458))
 - [HTMHell](https://www.htmhell.dev/) - Collection of bad practices in HTML, copied from real websites.
 - [Bare minimum things you need to do when serving HTML](https://twitter.com/dan_abramov/status/1601739559456616450)
+- [DOM Clobbering (2022)](https://www.htmhell.dev/adventcalendar/2022/12/)

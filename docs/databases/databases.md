@@ -732,3 +732,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Get Rid of Your Old Database Migrations (2022)](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 - [Ariga](https://ariga.io/) - New way to manage database schemas.
 - [EDMA](https://github.com/nomadiz/edma) - Interactive embedded database management system.
+- [Building a database in the 2020s](https://me.0xffff.me/build-database-in-2020s.html)

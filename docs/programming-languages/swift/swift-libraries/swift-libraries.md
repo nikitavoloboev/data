@@ -1342,6 +1342,7 @@
 - [KeyPathValue](https://github.com/p-x9/KeyPathValue) - Structure for assigning values using keypath.
 - [ElleKit](https://github.com/evelyneee/ellekit) - Elegant Low Level Elements.
 - [swift-async-queue](https://github.com/dfed/swift-async-queue) - Queue that enables sending FIFO-ordered tasks from synchronous to asynchronous contexts.
+- [CornucopiaStreams](https://github.com/Cornucopia-Swift/CornucopiaStreams) - Stream-based transport broker.
 
 ## Other (not lib)
 

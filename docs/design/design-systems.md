@@ -219,3 +219,4 @@
 - [Design System Guide](https://thedesignsystem.guide/)
 - [Layout & Grid in Design Systems (2022)](https://bradfrost.com/blog/post/layout-grid-in-design-systems/)
 - [Lighthouse](https://github.com/harbor-school/lighthouse) - Continuous design system for integrating design with development workflows.
+- [Building conscious design systems (2022)](https://amyhupe.co.uk/articles/building-conscious-design-systems/)

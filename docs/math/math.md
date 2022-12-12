@@ -419,3 +419,4 @@
 - [Coding Curves (2022)](https://www.bit-101.com/blog/2022/11/coding-curves/) ([HN](https://news.ycombinator.com/item?id=33743945))
 - [Why is the state of mathematics education so abstract and uninspiring? (2022)](https://news.ycombinator.com/item?id=33751099)
 - [Ask HN: Can you recommend me a book to (re)learn math? (2022)](https://news.ycombinator.com/item?id=33859823)
+- [List of advanced math tricks by Terence Tao](https://mathstodon.xyz/@tao/109451634735720062) ([HN](https://news.ycombinator.com/item?id=33952515))

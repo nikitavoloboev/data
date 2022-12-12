@@ -116,3 +116,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [What do you believe to be the “next big thing”? (2022)](https://www.reddit.com/r/stocks/comments/yo477f/what_do_you_believe_to_be_the_next_big_thing/)
 - [10 things to do to get started building the future](https://twitter.com/p_millerd/status/1594717470862213120)
 - [Ask HN: What are your technology trends predictions for 2023?](https://news.ycombinator.com/item?id=33919535)
+- [Techno-optimism for 2023](https://noahpinion.substack.com/p/techno-optimism-for-2023)

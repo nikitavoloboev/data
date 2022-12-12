@@ -4,6 +4,8 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 
 [Google SRE Book](https://sre.google/sre-book/table-of-contents/) is great. [Airplane](https://www.airplane.dev/) is nice for exposing common commands for all in team to use.
 
+[Devbox](https://github.com/jetpack-io/devbox) is nice for bootstrapping environments.
+
 ## Notes
 
 - [You can make your default branch `staging`, and assign it a custom domain. Using Vercel.](https://twitter.com/rauchg/status/1383072230536404996)

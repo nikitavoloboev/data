@@ -122,3 +122,4 @@ title: WebSocket
 - [WebSocket close codes](https://github.com/Luka967/websocket-close-codes) - Table of predefined WebSocket close codes/ranges.
 - [socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing WebSockets, Http/Https High Peformance servers for PyPy3 and Python3.
 - [AsyncAPI Tutorials](https://github.com/daveshanley/asyncapi-tutorials)
+- [Nice WebSocket Go libraries (2022)](https://www.reddit.com/r/golang/comments/zit5as/any_alternatives_to_gorilla_websockets/)

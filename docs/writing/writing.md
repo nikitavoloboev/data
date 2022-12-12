@@ -316,3 +316,4 @@ I love writing of [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQl
 - [Lesson writing structure. Write music.](https://twitter.com/nathanbaugh27/status/1591442834053529601)
 - [Prefer simpler language](https://twitter.com/jasoncwarner/status/1593677724027326464)
 - [Ian Fleming Explains How to Write a Thriller](https://lithub.com/ian-fleming-explains-how-to-write-a-thriller/)
+- [Writing at work (2022)](https://lcamtuf.substack.com/p/writing-at-work)
