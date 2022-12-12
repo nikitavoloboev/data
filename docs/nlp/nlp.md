@@ -719,3 +719,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [ExtremeBERT](https://github.com/extreme-bert/extreme-bert) - Toolkit that accelerates the pretraining of customized language models on customized datasets.
 - [Talking About Large Language Models (2022)](https://arxiv.org/abs/2212.03551) ([HN](https://news.ycombinator.com/item?id=33933772))
 - [The GPT-3 Architecture, on a Napkin (2022)](https://dugas.ch/artificial_curiosity/GPT_architecture.html) ([HN](https://news.ycombinator.com/item?id=33942597))
+- [Discovering Latent Knowledge in Language Models Without Supervision (2022)](https://arxiv.org/abs/2212.03827) ([HN](https://news.ycombinator.com/item?id=33950542))
