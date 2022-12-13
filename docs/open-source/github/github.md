@@ -488,3 +488,4 @@ Awesome List
 - [GitHub Blocks Template](https://github.com/mattrothenberg/duckb-browser-block)
 - [GitCLI](https://github.com/ldakhoa/GitCLI-Swift) - GitHub CLI written in Swift.
 - [FAQtory](https://github.com/willmcgugan/faqtory) - Tool to generate GitHub flavoured FAQ.md documents.
+- [GitHub Copilot Labs](https://githubnext.com/projects/copilot-labs/) - VS Code extension for experimental applications of GitHub Copilot.

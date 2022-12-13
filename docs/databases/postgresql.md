@@ -619,3 +619,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [How I used Supabase and n8n for my background tasks (2022)](https://mathias.rocks/blog/2022-12-06-how-I-used-supabase/)
 - [Understanding PostgreSQL Query Plans (aka EXPLAIN) (2022)](https://www.youtube.com/watch?v=ymVGg6woUtc)
 - [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/) ([HN](https://news.ycombinator.com/item?id=33934139))
+- [Supabase Storage v2: Image resizing and Smart CDN (2022)](https://supabase.com/blog/storage-image-resizing-smart-cdn)

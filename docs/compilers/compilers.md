@@ -1,6 +1,6 @@
 # Compilers
 
-[Compiler Explorer](https://godbolt.org) is amazing.
+[Compiler Explorer](https://godbolt.org) is amazing. [SSA-based Compiler Design](https://link.springer.com/book/10.1007/978-3-030-80515-9) seems like a nice book on state of art compiler design.
 
 ## Notes
 
@@ -267,3 +267,4 @@
 - [Just In Time (JIT) Compilers - Computerphile (2022)](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
 - [How to JIT - an introduction (2013)](https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction)
 - [How to Think About Compiling (2022)](https://uptointerpretation.com/posts/how-to-think-about-compiling/)
+- [SSA-based Compiler Design (2022)](https://link.springer.com/book/10.1007/978-3-030-80515-9)

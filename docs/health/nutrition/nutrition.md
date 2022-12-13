@@ -142,3 +142,4 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - [The Smartest Way To Use Protein To Build Muscle (Science Explained)](https://www.youtube.com/watch?v=Pok0Jg2JAkE)
 - [The "Perfect Diet" Myth (2022)](https://www.youtube.com/watch?v=DKYXI6pDQSo)
 - [Being fatter than Homer Simpson](https://nicky.bearblog.dev/fatter-than-homer/) ([HN](https://news.ycombinator.com/item?id=33797143))
+- [Why does it seem like more and more people are becoming sensitive to food these days?](https://www.reddit.com/r/nutrition/comments/zkpqgw/why_does_it_seem_like_more_and_more_people_are/)

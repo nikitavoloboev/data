@@ -2395,6 +2395,7 @@
 - [consulrs](https://github.com/jmgilman/consulrs) - Asynchronous Rust client library for the Hashicorp Consul API.
 - [unicode-normalization](https://github.com/unicode-rs/unicode-normalization) - Unicode character composition and decomposition utilities.
 - [dashu](https://github.com/cmpute/dashu) - Library set of arbitrary precision numbers (aka. big numbers).
+- [galloc](https://github.com/MaderNoob/galloc) - Linked list allocator, inspired by the dlmalloc algorithm.
 
 ## Cargo Plugins
 

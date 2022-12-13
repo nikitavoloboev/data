@@ -100,3 +100,4 @@ So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](unit
 - [Moving to a third country from EU, what to do with my pension? (2022)](https://www.reddit.com/r/eupersonalfinance/comments/z1b8bp/moving_to_a_third_country_what_to_do_with_my/)
 - [European pension systems are the biggest scam ever existed (2022)](https://www.reddit.com/r/EuropeFIRE/comments/ze1tkn/european_pension_systems_are_the_biggest_scam/)
 - [Top 100 Places To Visit in Europe (2022)](https://www.youtube.com/watch?v=IQzfprW0Yl0)
+- [Is Europe Just Not Good at Innovating? (2022)](https://berthub.eu/articles/posts/is-europe-just-not-good-at-innovating/) ([HN](https://news.ycombinator.com/item?id=33971577))

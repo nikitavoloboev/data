@@ -121,3 +121,4 @@ Like the advice of: [try everything, figure out what you do best, make money fro
 - [Collin Ewald | Aging & The Extracellular Matrix (2022)](https://www.youtube.com/watch?v=ohd3bwjySlU) ([Web](https://foresight.org/summary/collin-ewald-aging-the-extracellular-matrix/)G)
 - [Bryan Johnson's anti aging routine](https://twitter.com/maxhertan/status/1595213398358171649) ([Does it work](https://twitter.com/statto/status/1595398429018312705))
 - [Women over 30, how do you deal with the effects of aging? (2022)](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/z35yct/women_over_30_how_do_you_deal_with_the_effects_of/)
+- [What's one myth about old age that you would like to bust](https://www.reddit.com/r/AskOldPeople/comments/zl0njz/whats_one_myth_about_old_age_that_you_would_like/)

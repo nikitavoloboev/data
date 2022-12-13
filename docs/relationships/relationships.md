@@ -331,3 +331,4 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [Rules that are "made to be broken" in non monogamous relationships](https://www.reddit.com/r/nonmonogamy/comments/zc0iyc/rules_that_are_made_to_be_broken/)
 - [What has improved your dating life? Or what do you do that makes your dating life successful?](https://www.reddit.com/r/datingoverthirty/comments/zgy6fn/what_has_improved_your_dating_life_or_what_do_you/)
 - [What is wife material to you; no physical attributes allowed](https://twitter.com/eurydicelives/status/1601318792595841024)
+- [Hold Me Tight: Seven Conversations for a Lifetime of Love](https://www.goodreads.com/en/book/show/2153780)
