@@ -629,3 +629,4 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [The cloudy layers of modern-day programming (2022)](https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/) ([HN](https://news.ycombinator.com/item?id=33877838))
 - [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
 - [Consider Using CSV](https://jfhr.me/consider-using-csv/) ([HN](https://news.ycombinator.com/item?id=33934060))
+- [MIT Fast Code Seminar](http://fast-code.csail.mit.edu/) ([HN](https://news.ycombinator.com/item?id=33954314))
