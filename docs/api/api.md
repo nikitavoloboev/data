@@ -189,6 +189,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Tesla Swift](https://github.com/jonasman/TeslaSwift)
 - [Wayback Machine Python](https://github.com/edgi-govdata-archiving/wayback)
 - [Medium API](https://github.com/Medium/medium-api-docs)
+- [PayPal Rust](https://github.com/HannTechGmbH/paypal-rust)
 - [Backblaze Go](https://github.com/kurin/blazer)
 - [Epic Games Python API](https://github.com/SD4RK/epicstore_api)
 - [Paddle Go](https://github.com/Fakerr/go-paddle)

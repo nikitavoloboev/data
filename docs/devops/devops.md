@@ -231,3 +231,5 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Apex](https://apexlang.io/) - Interface definition language (IDL) for modeling software. Generate source code, documentation, integration, everything automatically. ([GitHub](https://github.com/apexlang))
 - [Flipt](https://www.flipt.io/) - Open source, self-hosted feature flag solution. ([Code](https://github.com/flipt-io/flipt))
 - [beanstalkd](https://github.com/beanstalkd/beanstalkd) - Fast general purpose work queue.
+- [aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
+- [Ask HN: How do you deploy your side-projects? (2022)](https://news.ycombinator.com/item?id=33968378)

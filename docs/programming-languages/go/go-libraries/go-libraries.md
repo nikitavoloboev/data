@@ -2113,3 +2113,5 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Golang Standard Library Mind Map](https://nicetomap.com/golang-1.19-standard-library)
 - [typex](https://github.com/dtgorski/typex) - Examine Go types and their transitive dependencies. Export results as TypeScript value objects (or types) declaration.
 - [Tutorial: Developing a RESTful API with Go, JSON Schema validation and OpenAPI docs (2022)](https://dev.to/vearutop/tutorial-developing-a-restful-api-with-go-json-schema-validation-and-openapi-docs-2490)
+- [Go HTTPS servers with TLS (2021)](https://eli.thegreenplace.net/2021/go-https-servers-with-tls/)
+- [How to Setup an HTTPS enabled client in Go (2022)](https://www.reddit.com/r/golang/comments/zjqyfm/how_to_setup_an_https_enabled_client/)

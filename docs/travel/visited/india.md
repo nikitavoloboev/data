@@ -17,3 +17,4 @@
 - [Catalog of resources for Indian language NLP](https://github.com/AI4Bharat/indicnlp_catalog)
 - [India Compliance](https://github.com/resilient-tech/india-compliance) - Simple, yet powerful compliance solutions for Indian businesses.
 - [What to expect coming to India after 10 years away (2022)](https://www.reddit.com/r/india/comments/z8gbg5/planning_to_move_back_dink_couple_from_canada/)
+- [Best Indian foods](https://twitter.com/pitdesi/status/1602323516807819265)

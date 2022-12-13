@@ -6,6 +6,8 @@ title: Android
 
 ## Nice OSS iOS Android apps
 
+- [ChatGPT Android](https://github.com/skydoves/chatgpt-android) - OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
+- [Tasky](https://github.com/realityexpander/Tasky) - Task manager similar to a lite version of Google Calendar.
 - [Pocket Casts Android app](https://github.com/Automattic/pocket-casts-android)
 - [LibreTube](https://github.com/libre-tube/LibreTube) - Alternative YouTube front end, for Android.
 - [ViMusic](https://github.com/vfsfitvnm/ViMusic) - Android application for streaming music from YouTube Music.

@@ -152,3 +152,4 @@
 - [Extending Ruby with Rust (2022)](https://github.hausgold.de/extending-ruby-with-rust)
 - [rbperf](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby (CRuby) which runs in BPF.
 - [ChatGPT Generate Ruby Code to Check User Exists in GitHub (2022)](https://kracekumar.com/post/chatgpt-gh-profile-lookup/)
+- [Building Games with DragonRuby](https://book.dragonriders.community/) ([HN](https://news.ycombinator.com/item?id=33962042))

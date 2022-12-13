@@ -24,3 +24,4 @@
 - [What album of past the 10 years do you consider a "modern classic"? (2022)](https://www.reddit.com/r/electronicmusic/comments/uskht3/what_album_of_past_the_10_years_do_you_consider_a/)
 - [Главные четыре альбома вашей жизни](https://twitter.com/MavrinBog/status/1548980109750816768)
 - [Best Albums of 2022: Beyoncé, Rosalía and More (2022)](https://www.nytimes.com/2022/11/30/arts/music/best-albums-renaissance-bad-bunny.html)
+- [Favorite album openers (2022)](https://twitter.com/dan_abramov/status/1602414528985239585)

@@ -91,3 +91,4 @@
 - [Self-Driving Cars — Andreas Geiger](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
 - [TPVFormer: Academic alternative to Tesla's Occupancy Network](https://github.com/wzzheng/TPVFormer)
 - [PODA: Prompt-driven Zero-shot Domain Adaptation (2022)](https://github.com/astra-vision/PODA)
+- [ALSO: Automotive Lidar Self-supervision by Occupancy estimation (2022)](https://github.com/valeoai/ALSO)

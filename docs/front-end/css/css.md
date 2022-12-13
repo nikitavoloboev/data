@@ -590,3 +590,4 @@ all: unset
 - [Super Useful CSS Resources (2022)](https://dev.to/lissy93/super-useful-css-resources-1ba3)
 - [Practical Guide to CSS Media Queries (2022)](https://stackdiary.com/css-media-queries/)
 - [Animated Background Stripes That Transition on Hover (2022)](https://css-tricks.com/animated-background-stripes-transition-hover/)
+- [CSS Declaration Sorter](https://github.com/Siilwyn/css-declaration-sorter) - Sort CSS declarations fast and automatically in a certain order.

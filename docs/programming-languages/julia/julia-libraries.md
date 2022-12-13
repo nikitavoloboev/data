@@ -129,6 +129,7 @@
 - [Conductor.jl](https://github.com/wsphillips/Conductor.jl) - Platform for quickly and flexibly building high-performance, multi-scale neuronal network models in Julia.
 - [Fluxperimental.jl](https://github.com/FluxML/Fluxperimental.jl) - Experimental features for Flux.jl.
 - [MadDiff.jl](https://github.com/sshin23/MadDiff.jl) - Automatic differentiation and algebraic modeling package.
+- [ScientificTypes.jl](https://github.com/JuliaAI/ScientificTypes.jl) - API for dispatching on the "scientific" type of data instead of the machine type.
 
 ## Math
 

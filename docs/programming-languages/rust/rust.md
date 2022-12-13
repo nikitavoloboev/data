@@ -979,3 +979,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust for JS devs : Borrow Checker (2022)](https://www.youtube.com/watch?v=ZNFdkTIzdXM)
 - [Data-driven performance optimization with Rust and Miri (2022)](https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35) ([HN](https://news.ycombinator.com/item?id=33921731))
 - [How I got involved in the Rust community (2022)](https://ochagavia.nl/blog/how-i-got-involved-in-the-rust-community/) ([HN](https://news.ycombinator.com/item?id=33925049))
+- [A Look at dyn\* Code Generation (2022)](https://blog.theincredibleholk.org/blog/2022/12/12/dyn-star-codegen/)

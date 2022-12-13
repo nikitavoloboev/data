@@ -331,3 +331,6 @@ zz
 - [Vim Tips for the Intermediate Vim User (2020)](https://jemma.dev/blog/intermediate-vim-tips)
 - [Bob](https://github.com/MordechaiHadad/bob) - Version manager for neovim.
 - [VimR](https://github.com/qvacua/vimr) - Neovim GUI for macOS.
+- [Ask HN: Is Vim still worth learning? (2022)](https://news.ycombinator.com/item?id=33966788)
+- [Neovim Conference 2022](https://www.youtube.com/watch?v=z9SuyhSHOWs)
+- [Vid in which Vim Saves Me Hours & Hundreds of Clicks](https://www.youtube.com/watch?v=hraHAZ1-RaM)

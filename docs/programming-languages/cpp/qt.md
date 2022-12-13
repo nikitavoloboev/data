@@ -48,3 +48,4 @@ title: Qt
 - [LeanQt](https://github.com/rochus-keller/LeanQt) - Stripped-down Qt version easy to build from source and to integrate with an application. ([HN](https://news.ycombinator.com/item?id=33572787))
 - [Runnning lambda functions on a specific thread with Qt (2022)](https://lnj.gitlab.io/post/running-lambdas-on-a-thread-with-qt/)
 - [Rust Qt Binding Generator](https://github.com/KDE/rust-qt-binding-generator) - Generate bindings to use Rust code in Qt and QML.
+- [Add moc includes to speed up Qt compilation (2022)](https://raymii.org/s/blog/Qt_add_moc_includes_to_speed_up_compilation.html)

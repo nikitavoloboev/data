@@ -10,7 +10,7 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 
 [Fast Stable Diffusion Colab Notebooks](https://github.com/TheLastBen/fast-stable-diffusion) is great.
 
-[Why does ChatGPT work so well](https://twitter.com/DrJimFan/status/1600884299435167745) is nice read to understand how ChatGPT works.
+[ChatGPT Resources](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698) & [Why does ChatGPT work so well](https://twitter.com/DrJimFan/status/1600884299435167745) are nice reads to understand how ChatGPT works.
 
 ## Notes
 
@@ -252,3 +252,7 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [GPT3 Writer in code](https://github.com/buildspace/buildspace-projects/tree/main/GPT3_Writer/en)
 - [ChatGPT Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - Access OpenAI's ChatGPT from anywhere on the web.
 - [Ask HN: Is the weaponisation of ChatGPT now inevitable? (2022)](https://news.ycombinator.com/item?id=33952087)
+- [ChatGPT Resources](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698)
+- [Photoshot](https://photoshot.app/) - AI Avatar generator. ([Code](https://github.com/shinework/photoshot))
+- [Lexica Aperture](https://z.lexica.art/aperture) - Generate realistic looking photographs. ([Tweet](https://twitter.com/sharifshameem/status/1602416016360759296))
+- [Ask HN: Self-hosted/open-source ChatGPT alternative? Like Stable Diffusion (2022)](https://news.ycombinator.com/item?id=33955125)

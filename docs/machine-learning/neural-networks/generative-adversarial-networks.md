@@ -234,3 +234,4 @@ title: Generative adversarial networks
 - [Implicit competitive regularization in GANs (2020)](http://proceedings.mlr.press/v119/schaefer20a.html) ([Code](https://github.com/devzhk/Implicit-Competitive-Regularization))
 - [Unified Source-Filter GAN with Harmonic-plus-Noise Source Excitation Generation (2022)](https://arxiv.org/abs/2205.06053) ([Code](https://github.com/chomeyama/HN-UnifiedSourceFilterGAN))
 - [JoliGAN: Image-to-Image Translation with GANs and Diffusion for Real-World Applications](https://github.com/jolibrain/joliGAN)
+- [Diffusion-GAN: Training GANs with Diffusion (2022)](https://arxiv.org/abs/2206.02262) ([Code](https://github.com/Zhendong-Wang/Diffusion-GAN))

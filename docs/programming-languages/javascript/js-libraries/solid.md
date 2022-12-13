@@ -171,3 +171,9 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [Sofine UI Solid design library](https://github.com/sofine-ui/sofine-ui)
 - [Solid-NanoStores](https://github.com/ctx-core/solid-nanostores)
 - [Solid Jotai](https://github.com/wobsoriano/solid-jotai) - Primitive and flexible state management for Solid based on Jotai.
+- [Solid Mapbox](https://github.com/modular-mapper/solid-mapbox)
+- [SolidJS Uppy](https://github.com/lxsmnsyc/solid-uppy)
+- [Solid i18n](https://github.com/SanichKotikov/solid-i18n)
+- [Solid Plyr](https://github.com/git-ced/solid-plyr) - Simple HTML5, YouTube, and Vimeo player (Plyr) for SolidJS.
+- [Solid Supabase](https://github.com/wobsoriano/solid-supabase) - Simple wrapper around Supabase.js to enable usage within Solid.
+- [Storybook Solid](https://github.com/elite174/storybook-solid-js)

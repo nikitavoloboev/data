@@ -105,3 +105,7 @@ title: Blender
 - [Blender Apps (2022)](https://code.blender.org/2022/11/blender-apps/)
 - [Blender Graphics: Lenses and Optics](https://arachnoid.com/blender_graphics/index.html)
 - [Blender 3.4](https://wiki.blender.org/wiki/Reference/Release_Notes/3.4) ([HN](https://news.ycombinator.com/item?id=33894926))
+- [Node to Python](https://github.com/BrendanParmer/NodeToPython) - Convert Blender Geometry Nodes to a Python add-on.
+- [Block-On](https://github.com/BrendanParmer/Block-On) - Blender add-on for procedural voxelization.
+- [What if OpenAI did Blender scripts? (2022)](https://www.youtube.com/watch?v=k50Y0b3g5WY)
+- [chocofur - YouTube](https://www.youtube.com/@Chocofur/videos) - Does videos on Blender.

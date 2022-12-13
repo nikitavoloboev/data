@@ -4,6 +4,8 @@ Drink coffee on occasions, try not to do it daily as to get actual effects from 
 
 [Tea](tea.md) is my daily drink of choice and I try to always have it by my side.
 
+[James Hoffmann](https://www.youtube.com/@jameshoffmann/videos) does nice videos on coffee.
+
 ## Interesting
 
 - [Raf Coffee](https://www.baristainstitute.com/blog/oksana-shaposhnikova/september-2020/raf-coffee-what-it-and-how-make-it)
@@ -88,3 +90,4 @@ Drink coffee on occasions, try not to do it daily as to get actual effects from 
 - [AnzaCoffee](https://www.anzacoffee.com/)
 - [Wilfa](https://wilfa.co.uk/) - Coffee Equipment and Kitchen Appliances.
 - [Hacking Bluetooth to Brew Coffee from GitHub Actions (2022)](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/) ([Code](https://github.com/mmastrac/brew-a-coffee-demo)) ([Reddit](https://www.reddit.com/r/rust/comments/zchu2c/show_rrust_i_reverseengineered_my_coffeemakers/)) ([HN](https://news.ycombinator.com/item?id=33855453))
+- [I Did Caffeine Analysis: Some Unexpected Results (2022)](https://www.youtube.com/watch?v=etnMr8oUSDo) ([Reddit](https://www.reddit.com/r/Coffee/comments/zka32z/i_did_caffeine_analysis_the_unexpected_truth/))

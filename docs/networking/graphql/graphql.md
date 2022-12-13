@@ -360,3 +360,4 @@ title: GraphQL
 - [Kensa](https://github.com/oslabs-beta/Kensa) - Open-source GraphQL monitoring and testing tool.
 - [GraphQXL](https://github.com/gabotechs/graphqxl) - Language built on top of the GraphQL syntax that extends the original language with some additional features useful for creating scalable and big server side schemas.
 - [ProtoNexus](https://github.com/proto-graphql/proto-graphql-js) - Protobuf-First GraphQL Schemas with GraphQL Nexus.
+- [gqlanalysis](https://github.com/gqlgo/gqlanalysis) - Develop static analysis tools for GraphQL in Go.

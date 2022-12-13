@@ -55,6 +55,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nvim-surround](https://github.com/kylechui/nvim-surround) - Surround selections, stylishly.
 - [mapx.lua](https://github.com/b0o/mapx.lua) - Neovim lua plugin to make mapping more manageable.
 - [Lightspeed](https://github.com/ggandor/lightspeed.nvim) - Making on-screen navigation as quick and efficient as possible.
+- [ai.vim](https://github.com/aduros/ai.vim) - Minimalist Neovim plugin for generating and editing text using OpenAI and GPT.
 - [nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) - Snazzy bufferline for Neovim.
 - [Which Key](https://github.com/folke/which-key.nvim) - Displays a popup with possible keybindings of the command you started typing.
 - [nvim-notify](https://github.com/rcarriga/nvim-notify) - Fancy, configurable, notification manager for NeoVim.

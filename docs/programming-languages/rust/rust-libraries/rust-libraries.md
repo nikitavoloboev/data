@@ -6,7 +6,7 @@
 
 ## CLI
 
-- [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser. ([Reddit](https://www.reddit.com/r/rust/comments/rt3fyr/clap_30_a_rust_cli_argument_parser/)) ([step towards 4.0](https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/)) ([Reddit](https://www.reddit.com/r/rust/comments/su2h4v/clap_31_a_step_towards_40/))
+- [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser. ([Reddit](https://www.reddit.com/r/rust/comments/rt3fyr/clap_30_a_rust_cli_argument_parser/)) ([step towards 4.0](https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/)) ([Reddit](https://www.reddit.com/r/rust/comments/su2h4v/clap_31_a_step_towards_40/)) ([clap-markdown](https://github.com/ConnorGray/clap-markdown))
 - [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
 - [bpaf](https://github.com/pacak/bpaf) - Parse command line arguments by composing a parser from the components optimized for flexibility and compilation time. ([Reddit](https://www.reddit.com/r/rust/comments/u0f57x/yet_another_command_line_argument_parser_bpaf_040/))
 - [argi](https://github.com/Owez/argi) - Argument parsing for the future.
@@ -206,6 +206,7 @@
 - [CustomElement](https://github.com/gbj/custom-elements) - Framework-agnostic CustomElement trait to create Rust/WASM Web Components/Custom Elements easily without writing any JavaScript.
 - [har-rs](https://github.com/mandrean/har-rs) - HTTP Archive format (HAR) serialization & deserialization library, written in Rust.
 - [Motore](https://github.com/cloudwego/motore) - Async middleware abstraction powered by GAT and TAIT.
+- [Aggligator](https://github.com/surban/aggligator) - Aggregates multiple links (TCP or similar) into one connection having their combined bandwidth and provides resiliency against failure of individual links.
 
 ## Auth
 
@@ -2390,6 +2391,10 @@
 - [clang-ast](https://github.com/dtolnay/clang-ast) - Deserialization logic for efficiently processing Clang's -ast-dump=json format from Rust.
 - [buf-list](https://github.com/sunshowers-code/buf-list) - List of Rust buffers that implements the bytes::Buf trait.
 - [Selfie](https://github.com/prokopyl/selfie) - Lightweight self-referential struct library. Macro-free, allocation-free.
+- [reedline](https://github.com/nushell/reedline) - Readline replacement written in Rust.
+- [consulrs](https://github.com/jmgilman/consulrs) - Asynchronous Rust client library for the Hashicorp Consul API.
+- [unicode-normalization](https://github.com/unicode-rs/unicode-normalization) - Unicode character composition and decomposition utilities.
+- [dashu](https://github.com/cmpute/dashu) - Library set of arbitrary precision numbers (aka. big numbers).
 
 ## Cargo Plugins
 

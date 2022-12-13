@@ -30,3 +30,4 @@ Don't use it any more as I don't write Java/Kotlin and love VS Code.
 - [Minimalistic IntelliJ setup for Full Stack Web Development (2022)](https://www.youtube.com/watch?v=mPRLCgvbvMk)
 - [Fleet is on its way by Vitaly Bragilevsky (2022)](https://www.youtube.com/watch?v=_ZjuZ15LiYY)
 - [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+- [No Tabs in IntelliJ IDEA](https://hadihariri.com/2014/06/24/no-tabs-in-intellij-idea/)

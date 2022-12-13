@@ -717,7 +717,9 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Holistic Evaluation of Language Models](https://github.com/stanford-crfm/helm) - Framework to increase the transparency of language models. ([Paper](https://arxiv.org/abs/2211.09110))
 - [Dramatron](https://github.com/deepmind/dramatron) - Uses large language models to generate long, coherent text and could be useful for authors for co-writing theatre scripts and screenplays. ([HN](https://news.ycombinator.com/item?id=33922744))
 - [ExtremeBERT](https://github.com/extreme-bert/extreme-bert) - Toolkit that accelerates the pretraining of customized language models on customized datasets.
-- [Talking About Large Language Models (2022)](https://arxiv.org/abs/2212.03551) ([HN](https://news.ycombinator.com/item?id=33933772))
+- [Talking About Large Language Models (2022)](https://arxiv.org/abs/2212.03551) ([HN](https://news.ycombinator.com/item?id=33933772)) ([Tweet](https://twitter.com/vboykis/status/1601930057076903936))
 - [The GPT-3 Architecture, on a Napkin (2022)](https://dugas.ch/artificial_curiosity/GPT_architecture.html) ([HN](https://news.ycombinator.com/item?id=33942597))
 - [Discovering Latent Knowledge in Language Models Without Supervision (2022)](https://arxiv.org/abs/2212.03827) ([HN](https://news.ycombinator.com/item?id=33950542))
 - [Lightning GPT](https://github.com/Lightning-AI/lightning-gpt)
+- [Bricks](https://github.com/code-kern-ai/bricks) - Open-source natural language enrichments at your fingertips.
+- [GPT-2 Output Detector](https://huggingface.co/openai-detector/)

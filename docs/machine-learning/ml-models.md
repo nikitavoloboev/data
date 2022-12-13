@@ -133,3 +133,4 @@ Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [gene
 - [Zoltar](https://github.com/spotify/zoltar) - Common library for serving TensorFlow, XGBoost and scikit-learn models in production.
 - [Robust Intelligence](https://www.robustintelligence.com/) - Machine learning models fail. Prevent bad outcomes with the only end-to-end solution.
 - [Banana Serverless](https://github.com/bananaml/serverless-template) - Framework to serve ML models in production using simple HTTP servers.
+- [SkyPilot](https://github.com/skypilot-org/skypilot) - Framework for easily running machine learning workloads on any cloud through a unified interface.

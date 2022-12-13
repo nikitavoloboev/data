@@ -422,3 +422,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Validity Language](https://github.com/Tempest-Protocol/validity) - Next-generation, deduction-based language for formally verified, context-aware, autonomous & reactive smart contracts.
 - [Thirdweb](https://thirdweb.com/) - Complete web3 development framework. ([Dashboard code](https://github.com/thirdweb-dev/dashboard)) ([GitHub](https://github.com/thirdweb-dev))
 - [SSX](https://github.com/spruceid/ssx) - Self-Sovereign Anything.
+- [Arbitrum Nitro](https://github.com/OffchainLabs/nitro) - Fully integrated, complete layer 2 optimistic rollup system, including fraud proofs, the sequencer, the token bridges, advanced calldata compression, and more.

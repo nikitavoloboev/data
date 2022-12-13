@@ -395,6 +395,7 @@
 
 - [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) - Library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. ([Awesome](https://github.com/antranapp/awesome-tca)) ([Tweet](https://twitter.com/pointfreeco/status/1389614299832741891)) ([Swift Composable Undo](https://github.com/aacapella/swift-composable-undo))
 - [SwiftUI Navigation](https://github.com/pointfreeco/swiftui-navigation) - Tools for making SwiftUI navigation simpler, more ergonomic and more precise.
+- [LinkNavigator](https://github.com/interactord/LinkNavigator) - Easy & Powerful navigation library in SwiftUI.
 - [Swift Composable Presentation](https://github.com/darrarski/swift-composable-presentation) - Navigation helpers for SwiftUI applications build with ComposableArchitecture.
 - [ComposableEnvironment](https://github.com/tgrapperon/swift-composable-environment) - Library to derive and compose Environment's in The Composable Architecture. ([Fork](https://github.com/CaptureContext/swift-composable-environment))
 - [TCACoordinators](https://github.com/johnpatrickmorgan/TCACoordinators) - Powerful navigation in the Composable Architecture via the coordinator pattern.
@@ -599,6 +600,7 @@
 - [Engine](https://github.com/nathantannar4/Engine) - Performance driven framework for developing SwiftUI frameworks and apps.
 - [UIToolz](https://github.com/flowtoolz/UIToolz) - Programmatic UI in Swift.
 - [SwiftUI Overlay Container](https://github.com/fatbobman/SwiftUIOverlayContainer) - Highly customizable view container components for SwiftUI.
+- [EditValueView](https://github.com/p-x9/EditValueView) - Library that makes easy to display property edit screens for SwiftUI.
 
 ## Test
 

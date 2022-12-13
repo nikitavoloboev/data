@@ -261,6 +261,8 @@
 - [TOML](https://github.com/ilevd/toml) - Clojure TOML wrapper.
 - [Mundaneum](https://github.com/jackrusher/mundaneum) - Clojure wrapper around WikiData.
 - [tilakone](https://github.com/metosin/tilakone) - Minimalistic finite state machine (FSM) in Clojure.
+- [core.matrix](https://github.com/mikera/core.matrix) - Multi-dimensional array programming API for Clojure.
+- [raphael](https://github.com/quoll/raphael) - Clojure library for parsing strings.
 
 ## Links
 
@@ -289,3 +291,4 @@
 - [New Clojure project quick start (2022)](https://blog.michielborkent.nl/new-clojure-project-quickstart.html) ([HN](https://news.ycombinator.com/item?id=32295666))
 - [Morpheus](https://github.com/benedekfazekas/morpheus) - Generate dependency graphs for variables in Clojure(Script) namespaces.
 - [Loopr: A Loop/Reduction Macro for Clojure (2022)](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure) ([HN](https://news.ycombinator.com/item?id=33887813))
+- [Babashka Babooka: Write Command-Line Clojure](https://github.com/braveclojure/babooka)

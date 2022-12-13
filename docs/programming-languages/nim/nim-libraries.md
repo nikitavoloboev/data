@@ -1,5 +1,7 @@
 # Nim libraries
 
+[This](https://github.com/treeform/nimtemplate) is a nice Nim template.
+
 ## Web
 
 - [httpbeast](https://github.com/dom96/httpbeast) - Highly performant, multi-threaded HTTP 1.1 server written in Nim.
@@ -9,6 +11,7 @@
 - [Basolato](https://github.com/itsumura-h/nim-basolato) - Asynchronous full stack web framework for Nim.
 - [Karax](https://github.com/karaxnim/karax) - Single page applications for Nim.
 - [mike](https://github.com/ire4ever1190/mike) - Improved mikero web framework.
+- [Waterpark](https://github.com/guzba/waterpark) - Thread-safe pools. Great for database connections in a multithreaded HTTP server.
 
 ## Math
 

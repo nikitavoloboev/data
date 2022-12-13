@@ -793,3 +793,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [paste](https://topaz.github.io/paste/) - No-datastore, client-side paste service. ([Code](https://github.com/topaz/paste))
 - [Noor](https://noor.to/) - Voice, screen-share and chat for teams that love focus. ([Tweet](https://twitter.com/morajabi/status/1601561242535006208))
 - [privatebin](https://github.com/gearnode/privatebin) - Simple portable command-line interface for privatebin server.
+- [ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize) - Utility for batch-normalizing audio using ffmpeg.

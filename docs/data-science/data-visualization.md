@@ -198,3 +198,5 @@
 - [webkid](https://webkid.io/) - Create data visualizations, customized tools and interactive maps that make your data easier to understand. ([GitHub](https://github.com/wbkd)) ([Twitter](https://twitter.com/webk1d))
 - [ChartFx](https://github.com/fair-acc/chart-fx) - Scientific charting library focused on performance optimized real-time data visualization at 25 Hz update rates for data sets with a few 10 thousand up to 5 million data points.
 - [Visvis](https://github.com/almarklein/visvis) - Python library for visualization of 1D to 4D data in an object oriented way.
+- [Unovis](https://github.com/f5/unovis) - Modular data visualization framework. ([Web](https://unovis.dev/)) ([HN](https://news.ycombinator.com/item?id=33959591))
+- [decksh](https://github.com/ajstarks/decksh) - Language for presentations, visualizations, and information displays.

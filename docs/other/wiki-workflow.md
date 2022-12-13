@@ -155,6 +155,7 @@ I want to:
 - [Alex's Garden](https://publish.obsidian.md/alexander/1_Home/%F0%9F%8F%A0+Home)
 - [Yang Zhang CS notes](https://github.com/yang/notes)
 - [Quinn Casey](https://quinncasey.com/projects/digital-garden/)
+- [Bharathi Joshi's Notes](https://github.com/iambrj/notes)
 - [Ten Digits](https://tendigits.space/)
 - [Alex Forencich's Wiki](http://www.alexforencich.com/wiki/en/start)
 - [Luciano Strika](https://strikingloo.github.io/wiki/)

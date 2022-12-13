@@ -189,6 +189,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Industry Idle](https://github.com/fishpondstudio/IndustryIdle) - Idle game that combines factory building, resource management and market trading.
 - [Counter-Strike JS](https://github.com/VadimDez/Counter-Strike-JS) - Counter-Strike 1.6 implementation in TypeScript utilizing state of the art browser APIs.
 - [Aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG.
+- [ET: Legacy](https://www.etlegacy.com/) - Fully compatible Wolfenstein Enemy Territory client and server. ([Code](https://github.com/etlegacy/etlegacy))
 
 ## Awesome games (other)
 
@@ -390,3 +391,4 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Steam Prices](https://github.com/OLoKo64/steam-game-prices) - Crawler to get prices from Steam and output them to a CSV file.
 - [Behind the Pretty Frames: Death Stranding (2022)](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
 - [Steam Video Game Database](https://github.com/leinstay/steamdb) - JSON file of all games available on Steam with prices and additional data.
+- [Describe your favorite video game as boring as possible](https://twitter.com/Lord_Arse/status/1423423536023154690)

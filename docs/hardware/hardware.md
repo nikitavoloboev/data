@@ -8,6 +8,8 @@
 
 [Computer Architecture: Quantitative Approach](https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1) is great book.
 
+[AI’s Hardware Problem](https://www.youtube.com/watch?v=5tmGKTNW8DQ) gives a nice glimpse on what's happening now to accelerate hardware compute.
+
 ## Notes
 
 - [The next 20 years in semiconductors will be dominated by insanely large SIMD processors with massive stacked memory and network bandwidth.](https://twitter.com/aeyakovenko/status/1497462132400553989)
@@ -381,3 +383,4 @@
 - [Processor Design: An Introduction (1998)](http://www.gamezero.com/team-0/articles/math_magic/micro/) ([HN](https://news.ycombinator.com/item?id=33636724))
 - [Build List](https://buildlist.org/) - Directory of on-demand manufacturers for your creative projects. ([HN](https://news.ycombinator.com/item?id=33869796))
 - [LiteICLink](https://github.com/enjoy-digital/liteiclink) - Small footprint and configurable Inter-Chip communication cores.
+- [AI’s Hardware Problem (2022)](https://www.youtube.com/watch?v=5tmGKTNW8DQ)

@@ -214,3 +214,4 @@
 - [How Johnny Harris Rewrites History (2022)](https://www.youtube.com/watch?v=pAeoJVXrZo4)
 - [Good movies about ancient history (2022)](https://www.reddit.com/r/MovieSuggestions/comments/ypad9s/what_are_some_good_movies_about_ancient_history/)
 - [How the Graphical User Interface Was Invented (2022)](https://spectrum.ieee.org/graphical-user-interface)
+- ['The Color Of Dreams': Museum Releases Photos Of A Vanished World](https://www.rferl.org/a/color-photos-archive-planet-albert-kahn-history/32166970.html)

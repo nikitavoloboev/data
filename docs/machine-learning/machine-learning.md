@@ -1010,3 +1010,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Learning the Travelling Salesperson Problem Requires Rethinking Generalization (2021)](https://arxiv.org/abs/2006.07054) ([Code](https://github.com/chaitjo/learning-tsp))
 - [Learn Machine Learning in 3 Months (PyTorch Curriculum)](https://github.com/llSourcell/LearnML)
 - [Transformers for software engineers (2022)](https://blog.nelhage.com/post/transformers-for-software-engineers/)
+- [Measuring Data (2022)](https://arxiv.org/abs/2212.05129) ([Tweet](https://twitter.com/mmitchell_ai/status/1602503631441272833))
+- [Learning to generate line drawings that convey geometry and semantics (2022)](https://carolineec.github.io/informative_drawings/) ([Code](https://github.com/carolineec/informative-drawings))

@@ -158,3 +158,4 @@ title: Racket
 - [Pict3D](https://github.com/jeapostrophe/pict3d) - 3D engine with a purely functional API.
 - [Resyntax](https://github.com/jackfirth/resyntax) - Racket refactoring engine.
 - [Shallow Typed Racket (2020)](https://cs.brown.edu/people/bgreenma/resources/talks/g-rcon-2020.pdf)
+- [Intermediate Student with Lambda (ISL+) Enhanced with Specification support via Quickcheck](https://github.com/dbp/isl-spec)

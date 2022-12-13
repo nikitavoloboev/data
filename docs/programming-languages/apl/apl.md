@@ -80,3 +80,4 @@ title: APL
 - [Advent of q 2022](https://github.com/qbists/studyq/tree/main/aoc/2022)
 - [Awesome Q](https://github.com/qbists/awesome-q)
 - [Solutions to Advent of Code 2022 in APL & BQN](https://github.com/codereport/Advent-of-Code-2022)
+- [Solving Advent of Code with jq](https://github.com/odnoletkov/advent-of-code-jq) ([HN](https://news.ycombinator.com/item?id=33963383))

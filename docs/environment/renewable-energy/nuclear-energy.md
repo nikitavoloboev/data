@@ -83,3 +83,6 @@ Nuclear energy [gets a bad reputation but its the future of renewable energy](ht
 - [BYU profs create new nuclear reactor to produce nuclear energy more safely (2022)](https://news.byu.edu/byu-profs-create-safer-system-to-produce-nuclear-energy) ([HN](https://news.ycombinator.com/item?id=33114284))
 - [France looks into increasing uranium enrichment capacity (2022)](https://www.world-nuclear-news.org/Articles/France-looks-into-increasing-uranium-enrichment-ca) ([HN](https://news.ycombinator.com/item?id=33164284))
 - [A primer to nuclear fusion and First Light Fusion (2022)](https://startuppirate.substack.com/p/the-holy-grail-of-energy-generation) ([HN](https://news.ycombinator.com/item?id=33217767))
+- [Thoughts on nuclear fusion advances (2022)](https://twitter.com/IBJIYONGI/status/1602150952223608833)
+- [Fusion energy breakthrough by Livermore Lab (2022)](https://news.ycombinator.com/item?id=33945863)
+- [Expert reaction to reports of advance in nuclear fusion from the Lawrence Livermore National Laboratory (2022)](https://www.sciencemediacentre.org/expert-reaction-to-fusion-announcement-from-the-lawrence-livermore-national-laboratory/)

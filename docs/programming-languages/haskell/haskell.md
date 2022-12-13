@@ -497,3 +497,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Rebecca Skinner's presentations](https://github.com/rebeccaskinner/presentations)
 - [Creating a Delta Lake in Haskell with Sparkle (2022)](https://www.tweag.io/blog/2022-12-08-creating-a-Delta-Lake-in-Haskell-with-Sparkle/)
 - [Abhinav’s Haskell articles](https://notes.abhinavsarkar.net/tags/haskell)
+- [What do Haskellers think about Rust? (2022)](https://www.reddit.com/r/haskell/comments/zk2u6k/what_do_haskellers_think_about_rust/)

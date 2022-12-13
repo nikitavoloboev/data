@@ -303,3 +303,4 @@
 - [GCC undefined behaviors are getting wild (2022)](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
 - [Everything I wish I knew when learning C (2022)](https://tmewett.com/c-tips/) ([HN](https://news.ycombinator.com/item?id=33773043))
 - [XCC](https://github.com/tyfkda/xcc) - Toy C compiler for x86-64/aarch64/wasm.
+- [Simple semi-space collector (2022)](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)

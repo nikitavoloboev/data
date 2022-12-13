@@ -1,5 +1,9 @@
 # Strength training
 
+[Pull up bars with rubber resistance band are great items to have](https://www.reddit.com/r/bodyweightfitness/comments/zk5wv1/weight_training_at_home/). No need for a gym.
+
+I go over my fitness routine [here](fitness.md).
+
 ## Notes
 
 - [Lift weights. An increase in muscle will pull the skin tighter. Without any muscle size you'll just be 'skinny fat.'](https://www.reddit.com/r/bodyweightfitness/comments/ncpysn/how_can_i_lose_this_last_bit_of_fat_and_just_have/)
@@ -27,3 +31,4 @@
 - [How To Train Like A Minimalist (More Gains In Less Time)](https://www.youtube.com/watch?v=xc4OtzAnVMI)
 - [Leon Thorley - YouTube](https://www.youtube.com/c/CALIGLOBE/videos)
 - [Paul Twyman - YouTube](https://www.youtube.com/c/PaulTwyman/videos)
+- [Weight training at home](https://www.reddit.com/r/bodyweightfitness/comments/zk5wv1/weight_training_at_home/)

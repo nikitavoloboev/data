@@ -51,3 +51,4 @@ title: Relay
 - [Re-introducing Relay (2021)](https://www.youtube.com/watch?v=lhVGdErZuN4)
 - [Relay Digest: Managing client state](https://twitter.com/___zth___/status/1601958848042074114) ([Eventual goal](https://twitter.com/alunyov/status/1601968127600103425))
 - [Relay Live Resolvers Example](https://github.com/alunyov/relay-resolvers-example)
+- [Injecting a store in Relay](https://twitter.com/alunyov/status/1602097114154237955)

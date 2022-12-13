@@ -77,6 +77,7 @@ title: OCaml libraries
 - [ocaml-orx](https://github.com/orx/ocaml-orx) - OCaml bindings to the Orx game library.
 - [chapgame](https://github.com/prekel/chapgame) - Physics engine based on a priori collision detection approach.
 - [Phantom-algebra](https://github.com/Octachron/phantom_algebra) - Small tensor library a la GLSL.
+- [OCaml Canvas](https://github.com/OCamlPro/ocaml-canvas) - Portable Canvas framework for OCaml. ([Web](https://ocamlpro.github.io/ocaml-canvas/)) ([HN](https://news.ycombinator.com/item?id=33954958))
 
 ## Linux
 

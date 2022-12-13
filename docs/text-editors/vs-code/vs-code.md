@@ -85,3 +85,5 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [Developing on Remote Machines using SSH and Visual Studio Code](https://code.visualstudio.com/docs/remote/ssh) ([Lobsters](https://lobste.rs/s/x1vu8l/developing_on_remote_machines_using_ssh))
 - [Ask HN: Why do you like Visual Studio Code? (2022)](https://news.ycombinator.com/item?id=33694356)
 - [VS Code Sandboxing (2022)](https://code.visualstudio.com/blogs/2022/11/28/vscode-sandbox)
+- [Making Remote Development Even Better (2022)](https://code.visualstudio.com/blogs/2022/12/07/remote-even-better)
+- [VS Code's schemas](https://github.com/wraith13/vscode-schemas)

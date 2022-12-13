@@ -329,3 +329,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Awesome Software Supply Chain Security](https://github.com/bureado/awesome-software-supply-chain-security)
 - [InfoSec Black Friday Deals](https://github.com/0x90n/InfoSec-Black-Friday)
 - [Nosey Parker](https://github.com/praetorian-inc/noseyparker) - Command-line program that finds secrets and sensitive information in textual data.
+- [Krill](https://github.com/NLnetLabs/krill) - Resource Public Key Infrastructure (RPKI) daemon, featuring a Certificate Authority (CA) and publication server, written in Rust.

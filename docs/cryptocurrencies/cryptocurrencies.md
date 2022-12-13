@@ -314,3 +314,4 @@ I use [hardware wallets](https://www.reddit.com/r/ethereum/comments/zc6qva/for_g
 - [Self custody and smart contracts protect consumers in a way that regulators can’t](https://twitter.com/NTmoney/status/1598387039933956096)
 - [FTX stealing customer funds with made up tokens explained (2022)](https://twitter.com/compound248/status/1598446656634191872)
 - [Ledger](https://www.ledger.com/) - Hardware wallet. ([Interview with team](https://www.wired.com/story/tony-fadell-is-trying-to-build-the-ipod-of-crypto-ledger-stax/))
+- [SealVault](https://github.com/sealvault/sealvault) - Web3 key manager app with automated transaction approval.

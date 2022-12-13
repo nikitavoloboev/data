@@ -275,6 +275,7 @@ title: GitHub actions
 - [sccache-action](https://github.com/metalbear-co/sccache-action)
 - [Changelog Parser](https://github.com/coditory/changelog-parser)
 - [Get previous tag](https://github.com/WyriHaximus/github-action-get-previous-tag) - GitHub Action that gets the latest tag from Git.
+- [Find Pull Request action](https://github.com/juliangruber/find-pull-request-action) - GitHub Action for finding pull requests.
 
 ## Go
 

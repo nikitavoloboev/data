@@ -13,3 +13,4 @@ title: Terra
 - [How to make a >800 million dollars in crypto attacking the once 3rd largest stablecoin, Soros style](https://twitter.com/OnChainWizard/status/1524123935570382851)
 - [Terra Core](https://github.com/terra-money/core) - Go implementation of the Terra 2.0 Protocol.
 - [Terra.js](https://github.com/terra-money/terra.js) - JavaScript SDK for Terra.
+- [Terra Finder](https://github.com/terra-money/finder) - Tool to search through blocks, transactions, and accounts on the Terra blockchain.

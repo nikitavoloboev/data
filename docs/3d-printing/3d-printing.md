@@ -50,3 +50,4 @@
 - [On CAD (2022)](https://1299651405.com/cad/) ([HN](https://news.ycombinator.com/item?id=33569222))
 - [Prototyping - Metal 3D Printing (2019)](https://www.youtube.com/watch?v=nyYcomX7Lus)
 - [Algorithm for 3D printer with new kinematics](https://github.com/RotBotSlicer/Transform)
+- [Arc Overhang](https://github.com/stmcculloch/arc-overhang) - 3D printer slicing algorithm that lets you print 90° overhangs without support material.
