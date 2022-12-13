@@ -442,3 +442,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Tasmania](https://tasmania.sievedata.com/) - Better YouTube Video Search. ([Tweet](https://twitter.com/mokshith_v/status/1597639001967509504))
 - [Streamff](https://streamff.com/) - Easy video sharing.
 - [Media Player](https://github.com/Collaborne/media-player) - React video player with controls and functionality.
+- [LosslessCut](https://mifi.no/losslesscut/) - Swiss Army Knife of Lossless Video/Audio Editing.
