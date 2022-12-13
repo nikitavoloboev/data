@@ -68,6 +68,7 @@
 - [Caliban](https://github.com/ghostdogpr/caliban) - Purely functional library for building GraphQL servers and clients in Scala. ([Docs](https://ghostdogpr.github.io/caliban/docs/))
 - [Sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL implementation.
 - [Sangria Relay](https://github.com/sangria-graphql/sangria-relay) - Sangria Relay Support.
+- [Grackle](https://github.com/gemini-hlsw/gsp-graphql) - GraphQL server implementation for Scala.
 
 ## Graphics
 
