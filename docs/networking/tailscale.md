@@ -29,3 +29,4 @@ title: Tailscale
 - [golink](https://github.com/tailscale/golink) - Private shortlink service for your tailnet. It lets you create short, memorable links for the websites you and your team use most. ([Article](https://tailscale.com/blog/golink/))
 - [Tailscale Funnel (2022)](https://tailscale.com/blog/introducing-tailscale-funnel/) ([HN](https://news.ycombinator.com/item?id=33648341))
 - [HashiCorp Vault plugin for managing Tailscale authentication keys](https://github.com/davidsbond/vault-plugin-tailscale)
+- [Tailscale Talent Lock (2022)](https://tailscale.com/blog/tailnet-lock/)

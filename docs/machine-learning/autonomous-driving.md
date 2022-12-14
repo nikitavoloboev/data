@@ -92,3 +92,4 @@
 - [TPVFormer: Academic alternative to Tesla's Occupancy Network](https://github.com/wzzheng/TPVFormer)
 - [PODA: Prompt-driven Zero-shot Domain Adaptation (2022)](https://github.com/astra-vision/PODA)
 - [ALSO: Automotive Lidar Self-supervision by Occupancy estimation (2022)](https://github.com/valeoai/ALSO)
+- [Tesla Full Self-Driving data looks awful (2022)](https://news.ycombinator.com/item?id=33984922)

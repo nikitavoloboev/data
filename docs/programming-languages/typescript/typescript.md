@@ -307,7 +307,7 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [Assembly interpreter inside of TypeScript's type system (2022)](https://judehunter.dev/blog/assembly-interpreter-in-typescripts-type-system) ([Code](https://github.com/judehunter/ts-asm))
 - [Discriminated Unions in Typescript (2022)](https://marcocetica.com/posts/discriminated_unions/)
 - [Collection of patterns for TypeScript 4.9](https://github.com/adamshaylor/cooking-with-typescript)
-- [Rewriting TypeScript in Rust? You'd have to be... (2022)](https://www.totaltypescript.com/rewriting-typescript-in-rust)
+- [Rewriting TypeScript in Rust? You'd have to be... (2022)](https://www.totaltypescript.com/rewriting-typescript-in-rust) ([HN](https://news.ycombinator.com/item?id=33982347))
 
 ## Images
 

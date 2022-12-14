@@ -319,3 +319,4 @@ title: Svelte
 - [CodeMirror Svelte Mode](https://github.com/replit/codemirror-lang-svelte) - CodeMirror 6 extension that adds support for Svelte.
 - [Migrating from Vue 2 to Svelte (2022)](https://escape.tech/blog/from-vue2-to-svelte/) ([HN](https://news.ycombinator.com/item?id=33827075))
 - [Bad practices commonly done in Svelte applications (2022)](https://www.reddit.com/r/sveltejs/comments/zg2qkx/what_are_some_of_bad_practices_commonly_done_in/)
+- [SvelteKit 1.0 (2022)](https://svelte.dev/blog/announcing-sveltekit-1.0) ([HN](https://news.ycombinator.com/item?id=33986555))
