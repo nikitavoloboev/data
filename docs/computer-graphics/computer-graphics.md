@@ -92,7 +92,7 @@
 - [Introduction to Computer Graphics (2018)](http://math.hws.edu/graphicsbook/index.html) ([HN](https://news.ycombinator.com/item?id=24526845))
 - [Ray Marching Soft Shadows in 2D (2020)](https://www.rykap.com/2020/09/23/distance-fields/) ([HN](https://news.ycombinator.com/item?id=24569542))
 - [The polygons of DOOM: PSX (2020)](https://fabiensanglard.net/doom_psx/)
-- [A trip through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+- [A trip through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/) ([HN](https://news.ycombinator.com/item?id=33968888))
 - [Fooling Around with Foveated Rendering (2020)](https://www.peterstefek.me/focused-render.html) ([HN](https://news.ycombinator.com/item?id=24695275))
 - ["Panini projection", probably used by the Baroque painters, allows us to render images with wide field-of-vision (here 170°) more nicely than the usual perspective](https://twitter.com/ZenoRogue/status/1314573353353609216)
 - [HDRI Haven](https://hdrihaven.com/) - 100% Free High Quality HDRIs for Everyone.

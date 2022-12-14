@@ -228,3 +228,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [USB Cable Tester](https://github.com/alvarop/usb_c_cable_tester) - Simple board to test various USB cables.
 - [TinyLLama](https://github.com/eivindbohler/tinyllama) - Tiny x86 Retrocomputer. ([HN](https://news.ycombinator.com/item?id=33703096))
 - [Bare metal programming guide on STM32 microcontroller](https://github.com/cpq/bare-metal-programming-guide)
+- [From Zero to main(): Demystifying Firmware Linker Scripts (2019)](https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware)

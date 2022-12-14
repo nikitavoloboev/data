@@ -2120,3 +2120,4 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Go HTTPS servers with TLS (2021)](https://eli.thegreenplace.net/2021/go-https-servers-with-tls/)
 - [How to Setup an HTTPS enabled client in Go (2022)](https://www.reddit.com/r/golang/comments/zjqyfm/how_to_setup_an_https_enabled_client/)
 - [OSV-Scanner](https://github.com/google/osv-scanner) - Find existing vulnerabilities affecting your project's dependencies.
+- [Connecting to a PostgreSQL database with Go's database/sql package](https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/)

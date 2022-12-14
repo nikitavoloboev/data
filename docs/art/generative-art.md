@@ -4,7 +4,7 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 
 [Josef Pelz](https://twitter.com/JosefPelz) is great.
 
-[Alma](https://www.alma.sh/) is interesting.
+[Samila](https://github.com/sepandhaghighi/samila) & [Alma](https://www.alma.sh/) are interesting.
 
 ## Links
 
