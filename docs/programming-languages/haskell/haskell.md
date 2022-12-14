@@ -499,4 +499,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Abhinav’s Haskell articles](https://notes.abhinavsarkar.net/tags/haskell)
 - [What do Haskellers think about Rust? (2022)](https://www.reddit.com/r/haskell/comments/zk2u6k/what_do_haskellers_think_about_rust/)
 - [Beginner-friendly introduction to Free Monads (2022)](https://notes.softinio.com/p/beginner-friendly-introduction-to)
-- [JavaScript backend merged into GHC (2022)](https://engineering.iog.io/2022-12-13-ghc-js-backend-merged/)
+- [JavaScript backend merged into GHC (2022)](https://engineering.iog.io/2022-12-13-ghc-js-backend-merged/) ([Code](https://github.com/haskell/ghcup-hs))
