@@ -67,3 +67,4 @@
 - [Prototype implementation of 2022 mnemonic medium design](https://github.com/andymatuschak/orbit-summer-2022-demo)
 - [Inkbase: Programmable Ink (2022)](https://www.inkandswitch.com/inkbase/) ([HN](https://news.ycombinator.com/item?id=33799512))
 - [Desk](https://github.com/Hihaheho/Desk) - Application platform for your cyberpunk desk.
+- [Nutshell](https://github.com/ncase/nutshell) - Make expandable explanations. ([Web](https://ncase.me/nutshell/))
