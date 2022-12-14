@@ -919,3 +919,4 @@ if *boolArgPtr != false {
 - [Obscure Go Optimisations - Bryan Boreham (2022)](https://www.youtube.com/watch?v=rRtihWOcaLI)
 - [Coverage profiling support for integration tests](https://go.dev/testing/coverage/)
 - [7 days Go programs from scratch](https://github.com/geektutu/7days-golang)
+- [Go 2 Draft Designs](https://go.googlesource.com/proposal/+/master/design/go2draft.md)

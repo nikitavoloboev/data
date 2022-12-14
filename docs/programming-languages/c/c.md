@@ -304,3 +304,4 @@
 - [Everything I wish I knew when learning C (2022)](https://tmewett.com/c-tips/) ([HN](https://news.ycombinator.com/item?id=33773043))
 - [XCC](https://github.com/tyfkda/xcc) - Toy C compiler for x86-64/aarch64/wasm.
 - [Simple semi-space collector (2022)](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)
+- [Conformance Should Mean Something - fputc, and Freestanding (2022)](https://thephd.dev/conformance-should-mean-something-fputc-and-freestanding)

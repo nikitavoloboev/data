@@ -601,6 +601,7 @@
 - [UIToolz](https://github.com/flowtoolz/UIToolz) - Programmatic UI in Swift.
 - [SwiftUI Overlay Container](https://github.com/fatbobman/SwiftUIOverlayContainer) - Highly customizable view container components for SwiftUI.
 - [EditValueView](https://github.com/p-x9/EditValueView) - Library that makes easy to display property edit screens for SwiftUI.
+- [SwiftUIGraphs](https://github.com/DominikButz/SwiftUIGraphs) - Replacement for SwiftUI Charts.
 
 ## Test
 
@@ -1345,6 +1346,7 @@
 - [ElleKit](https://github.com/evelyneee/ellekit) - Elegant Low Level Elements.
 - [swift-async-queue](https://github.com/dfed/swift-async-queue) - Queue that enables sending FIFO-ordered tasks from synchronous to asynchronous contexts.
 - [CornucopiaStreams](https://github.com/Cornucopia-Swift/CornucopiaStreams) - Stream-based transport broker.
+- [DictionaryCoder](https://github.com/almazrafi/DictionaryCoder) - Fast dictionary encoder / decoder for Swift Codable types.
 
 ## Other (not lib)
 

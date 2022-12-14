@@ -134,3 +134,5 @@
 - [Making an SSH client the hard way (2022)](https://tailscale.com/blog/ssh-console/) ([Tweet](https://twitter.com/NathanMcNulty/status/1585693326854221824)) ([HN](https://news.ycombinator.com/item?id=33360776))
 - [SSH port forwarding with Go (2022)](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
 - [Parallel-SSH](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH Python client library.
+- [Citadel](https://github.com/orlandos-nl/Citadel) - SSH Client & Server in Swift.
+- [SSH server hardening (2022)](https://ittavern.com/ssh-server-hardening/) ([Lobsters](https://lobste.rs/s/eslfxr/ssh_server_hardening))

@@ -589,6 +589,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [go-sqlite](https://github.com/glebarez/go-sqlite) - Pure-Go SQLite driver for Go (SQLite embedded).
 - [dblens](https://github.com/maragudk/dblens) - HTTP handler for database browsing.
 - [expirable-cache](https://github.com/go-pkgz/expirable-cache) - Expirable Go LRC\LRU cache without goroutines.
+- [Proteus](https://github.com/jonbodner/proteus) - Simple tool for generating an application's data access layer.
 
 ## ML
 

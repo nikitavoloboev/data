@@ -193,3 +193,4 @@
 - [Stanford Introduction to Robotics (2022)](https://see.stanford.edu/course/cs223a) ([Videos](https://www.youtube.com/playlist?list=PL65CC0384A1798ADF))
 - [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation (2022)](https://arxiv.org/abs/2209.05451) ([Code](https://github.com/peract/peract))
 - [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies)
+- [Robotics Transformer](https://github.com/google-research/robotics_transformer)

@@ -174,3 +174,4 @@ title: Erlang
 - [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
 - [Ra](https://github.com/rabbitmq/ra) - Raft Implementation for Erlang and Elixir.
 - [Lunatic](https://lunatic.solutions/) - Erlang-inspired runtime for WebAssembly. ([HN](https://news.ycombinator.com/item?id=33799784))
+- [Fuse](https://github.com/jlouis/fuse) - Circuit Breaker for Erlang.

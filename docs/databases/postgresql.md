@@ -620,3 +620,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Understanding PostgreSQL Query Plans (aka EXPLAIN) (2022)](https://www.youtube.com/watch?v=ymVGg6woUtc)
 - [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/) ([HN](https://news.ycombinator.com/item?id=33934139))
 - [Supabase Storage v2: Image resizing and Smart CDN (2022)](https://supabase.com/blog/storage-image-resizing-smart-cdn)
+- [Supabase Storage Middleware](https://github.com/supabase/storage-api) - S3 compatible object storage service that stores metadata in Postgres.

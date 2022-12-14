@@ -487,7 +487,7 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Create a programming language in ChatGPT](https://github.com/forrestchang/gptlang)
 - [DreamBerd](https://github.com/TodePond/DreamBerd) - Perfect programming language.
 - [Right and wrong: ten choices in language design (2022)](https://arxiv.org/abs/2211.16597) ([Lobsters](https://lobste.rs/s/6eh9oh/right_wrong_ten_choices_language_design))
-- [Noulith](https://github.com/betaveros/noulith) - Pareto-optimal choice for quick-and-dirty scripts. ([HN](https://news.ycombinator.com/item?id=33975556))
+- [Noulith](https://github.com/betaveros/noulith) - Pareto-optimal choice for quick-and-dirty scripts. ([HN](https://news.ycombinator.com/item?id=33975556)) ([Lobsters](https://lobste.rs/s/h1bm09/noulith_new_programming_language))
 - [CSpell](https://github.com/streetsidesoftware/cspell) - Spell Checker for Code.
 - [gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
 - [Programming Languages: Application and Interpretation](https://www.plai.org/) ([HN](https://news.ycombinator.com/item?id=33927021))

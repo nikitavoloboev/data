@@ -262,3 +262,4 @@ title: DNS
 - [acme-dns](https://github.com/joohoi/acme-dns) - Simplified DNS server with a RESTful HTTP API to provide a simple way to automate ACME DNS challenges.
 - [Agnos](https://github.com/krtab/agnos) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
 - [NSD](https://github.com/NLnetLabs/nsd) - Authoritative DNS name server.
+- [ctrld](https://github.com/Control-D-Inc/ctrld) - Highly configurable, multi-protocol DNS forwarding proxy.

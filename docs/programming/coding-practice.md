@@ -52,6 +52,7 @@
 
 ## Project Euler solutions
 
+- [ChatGPT vs Project Euler](https://github.com/terror/chatgpt-euler)
 - [Rust](https://github.com/gifnksm/ProjectEulerRust)
 - [Fast Project Euler Solutions in Rust](https://github.com/dhbradshaw/ProjectEulerFastRust)
 - [Polyglot Euler](https://github.com/FrankKair/polyglot-euler) - Solutions in different programming languages.

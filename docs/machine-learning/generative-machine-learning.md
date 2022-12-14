@@ -257,3 +257,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Lexica Aperture](https://z.lexica.art/aperture) - Generate realistic looking photographs. ([Tweet](https://twitter.com/sharifshameem/status/1602416016360759296))
 - [Ask HN: Self-hosted/open-source ChatGPT alternative? Like Stable Diffusion (2022)](https://news.ycombinator.com/item?id=33955125)
 - [GPT-3 Visual Studio Code Extension](https://github.com/Arrendy/gpt3-vscode-extension) - Use GPT-3 to generate documentation and get help debugging your code.
+- [Swift app demonstrating Core ML Stable Diffusion](https://github.com/huggingface/swift-coreml-diffusers)

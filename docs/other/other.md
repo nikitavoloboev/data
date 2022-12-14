@@ -723,3 +723,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [MiracleCast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification.
 - [The best things and stuff of 2022](http://blog.fogus.me/2022/12/13/the-best-things-and-stuff-of-2022/) ([HN](https://news.ycombinator.com/item?id=33969300))
 - [Where did software go wrong? (2022)](https://blog.jse.li/posts/software/) ([HN](https://news.ycombinator.com/item?id=33961251))
+- [Lexicon](https://github.com/screensailor/Lexicon) - Recurrent Mind Maps, Vocabularies, Ontologies and Naming Systems.
+- [MindFlare](https://github.com/thousandyears/MindFlare) - Lexicon editor.

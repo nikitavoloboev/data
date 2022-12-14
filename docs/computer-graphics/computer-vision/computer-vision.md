@@ -1037,3 +1037,4 @@
 - [CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet (2022)](https://arxiv.org/abs/2212.06138) ([Code](https://github.com/LightDXY/FT-CLIP))
 - [RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs (2022)](https://github.com/wzhouxiff/RestoreFormer)
 - [Vision-and-Language Navigation Resources](https://github.com/YicongHong/Thinking-VLN)
+- [HNeRV: A Hybrid Neural Representation for Videos (2022)](https://haochen-rye.github.io/HNeRV/) ([Code](https://github.com/haochen-rye/HNeRV))
