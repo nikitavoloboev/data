@@ -33,3 +33,4 @@
 - [Ascent](https://github.com/s-arash/ascent) - Logic programming language (similar to Datalog) embedded in Rust via macros.
 - [miniKanren with a first-order representation of the search space](https://github.com/gregr/first-order-miniKanren)
 - [Whereabouts](https://github.com/cicada-lang/whereabouts) - Logic programming with JSON.
+- [Culog](https://github.com/eashanhatti/culog) - Declarative metalanguage.

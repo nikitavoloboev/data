@@ -352,3 +352,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Misleading Concepts: The Planck Length](https://www.youtube.com/watch?v=IEp3QdqSE0s)
 - [Let's talk Pseudoscience](https://www.reddit.com/r/Physics/comments/h7qblq/lets_talk_pseudoscience/)
 - [Large Hadron Collider Beauty releases first set of data to the public (2022)](https://home.cern/news/news/knowledge-sharing/lhcb-releases-first-set-data-public)
+- [Electromagnetic wave simulation](https://cemsim.com/) ([Code](https://github.com/RobinKa/maxwell-simulation))

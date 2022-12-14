@@ -547,3 +547,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Motion Engineering at Scale (2022)](https://medium.com/airbnb-engineering/motion-engineering-at-scale-5ffabfc878)
 - [Allowing parallel iOS UI tests runs in CI (2021)](https://blog.kulman.sk/parallel-ui-test-runs/)
 - [Context SDK](https://contextsdk.com/) - Upsell when the moment is right.
+- [Frida iOS hook](https://github.com/noobpk/frida-ios-hook) - Tool that helps you easy trace classes, functions, and modify the return values of methods on iOS platform.

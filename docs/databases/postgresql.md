@@ -569,7 +569,7 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [TiDB for PostgreSQL](https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL) - PgSQL compatible on distributed database TiDB.
 - [pg_netstat](https://github.com/supabase/pg_netstat) - PostgreSQL extension to monitor database network traffic. ([HN](https://news.ycombinator.com/item?id=32823589))
 - [Supabase Examples](https://github.com/supabase/examples) - Supabase examples to help you get started.
-- [Hydra](https://github.com/HydrasCo/hydra) - Open source Snowflake alternative. 100% Postgres.
+- [Hydra](https://hydra.so/) - Open source Snowflake alternative. ([Code](https://github.com/HydrasDB/hydra)) ([How we built it](https://hydras.io/blog/2022-12-13-how-we-built-fastest-postgres-db-for-analytics)) ([HN](https://news.ycombinator.com/item?id=33974161))
 - [Postgres Data Flow (2022)](https://www.crunchydata.com/blog/postgres-data-flow)
 - [Postgres database functions are your next favorite feature (2022)](https://mirror.xyz/0x7D15080A13c8128dBAf90a2c2326058b5c1D5eac/MaiOq5m1xSa9QfMuiLYq4bJdA0owWoTpOZNlQv76_so)
 - [Fun With Postgres Functions (2022)](https://www.crunchydata.com/blog/fun-with-postgres-functions)

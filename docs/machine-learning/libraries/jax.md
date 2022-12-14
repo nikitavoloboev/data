@@ -87,3 +87,4 @@ title: JAX
 - [JaQMC](https://github.com/bytedance/jaqmc) - JAX accelerated Quantum Monte Carlo.
 - [Rieoptax](https://github.com/SaitejaUtpala/rieoptax) - Riemannian Optimization Using JAX.
 - [Jax 0.4.0](https://twitter.com/cgarciae88/status/1601315046503567360)
+- [JAXGA](https://github.com/RobinKa/jaxga) - JAX Geometric Algebra. ([HN](https://news.ycombinator.com/item?id=33948008))

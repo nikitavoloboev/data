@@ -193,3 +193,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [RSS Nix](https://github.com/jafarlihi/rssnix) - Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader. ([HN](https://news.ycombinator.com/item?id=33675361))
 - [RSS to Telegram Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - Telegram RSS bot that cares about your reading experience.
 - [feeder](https://github.com/p1ass/feeder) - RSS, Atom and JSON feed generator from multiple RSS, Atom, and any entries you want.
+- [How to rebuild social media on top of RSS (2022)](https://tfos.co/p/rebuild-social-media/) ([HN](https://news.ycombinator.com/item?id=33975082))

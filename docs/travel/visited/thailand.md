@@ -11,3 +11,4 @@
 - [Thailand Tourism Reddit](https://www.reddit.com/r/ThailandTourism/)
 - [Thailand DAO](https://t.me/thailanddao) - Чат о Таиланде в поддержку новой волны эмиграции.
 - [What $590K buys you in Bali, a 4BR mansion](https://twitter.com/BackpackerFI/status/1586639835430899712)
+- [Thai Talk with Paddy - YouTube](https://www.youtube.com/@ThaiTalkwithPaddy/videos)

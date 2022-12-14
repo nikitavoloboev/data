@@ -158,3 +158,5 @@ In perfect world, it should not be this easy to buy dead animal's meat in superm
 - [The Collapse of Insects](https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/INSECT-APOCALYPSE/egpbykdxjvq/index.html) ([Reddit](https://www.reddit.com/r/Futurology/comments/zeq6e3/the_collapse_of_insects/))
 - [Good cat food](https://twitter.com/6171241/status/1600831857804951552) ([Tweet](https://twitter.com/k_rumlow/status/1600862096652017665))
 - [Can the world save a million species from extinction? (2022)](https://www.nature.com/articles/d41586-022-04370-4)
+- [The Spruce Pets](https://www.thesprucepets.com/) - Make a Happy Home for Your Pets.
+- [I built a wildlife pond (2022)](https://www.youtube.com/watch?v=4LvaX748pVI) ([HN](https://news.ycombinator.com/item?id=33952437))

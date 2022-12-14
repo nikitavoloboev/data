@@ -4,7 +4,7 @@ I use [AirBnb](https://www.airbnb.com) & [Booking](https://www.booking.com) for 
 
 I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.facebook.com/marketplace) for finding/selling places to stay in.
 
-One day it would be nice to own a house with a lot of windows for light like [this one](https://twitter.com/nikstep/status/1443874686333603863).
+One day it would be nice to own a house with a lot of windows for light like [this one](https://twitter.com/nikstep/status/1443874686333603863). With my own [pond](https://www.youtube.com/watch?v=4LvaX748pVI) and [garden](../other/gardening.md). Something similar in style and vibe to [Simon Sarris](https://simonsarris.medium.com/designing-a-new-old-home-part-1-cf298b58ed41).
 
 ### UK
 

@@ -2,6 +2,8 @@
 
 [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) & [Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) are [great reads](https://www.reddit.com/r/datascience/comments/v6sv06/what_is_the_bible_of_data_science/).
 
+[High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html) is nice read too.
+
 ## Links
 
 - [The Probability and Statistics Cookbook](http://statistics.zone/) ([HN](https://news.ycombinator.com/item?id=31640229))
@@ -176,3 +178,4 @@
 - [Understanding Convolutions in Probability (2022)](https://www.countbayesie.com/blog/2022/11/30/understanding-convolutions-in-probability-a-mad-science-perspective) ([HN](https://news.ycombinator.com/item?id=33819952))
 - [Mean (μ) and median (m) are within a std deviation (σ)](https://twitter.com/docmilanfar/status/1600709918973399040)
 - [Statistical Rethinking Course (2023)](https://github.com/rmcelreath/stat_rethinking_2023)
+- [High-Dimensional Probability and Applications in Data Science](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)

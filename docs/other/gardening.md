@@ -1,5 +1,7 @@
 # Gardening
 
+Have a greenhouse in which I grow some vegetables and [mushrooms](mushrooms.md). Still learning how it all works.
+
 ## Links
 
 - [Flowers That Were Clearly Birds in a Former Life](https://twitter.com/ferrisjabr/status/1291455210989080581)

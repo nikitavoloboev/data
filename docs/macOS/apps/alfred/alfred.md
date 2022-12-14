@@ -154,3 +154,4 @@ fi
 - [go-alfred](https://github.com/jason0x43/go-alfred) - Alfred Workflow utility library for Go. Useful CLI too.
 - [powerpack](https://github.com/rossmacarthur/powerpack) - Supercharge your Alfred workflows by building them in Rust.
 - [Alfred Automation Tasks](https://github.com/alfredapp/automation-tasks)
+- [Alfred Gallery](https://alfred.app/)
