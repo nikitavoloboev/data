@@ -166,3 +166,4 @@
 - ["How do I test X" is almost always answered with "by controlling X" (2022)](https://berk.es/2022/09/19/test-x-by-controlling-x/)
 - [Massively increase your productivity on personal projects with comprehensive documentation and automated tests (2022)](https://simonwillison.net/2022/Nov/26/productivity/) ([Lobsters](https://lobste.rs/s/7fiajr/coping_strategies_for_serial_project))
 - [To TDD or not to TDD with Bill Kennedy & Chris James (2022)](https://changelog.com/gotime/258)
+- [Tracetest](https://github.com/kubeshop/tracetest) - OpenTelemetry based tool that helps you develop and test your distributed applications.

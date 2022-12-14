@@ -240,3 +240,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [The Short-Term Predictability of Returns in Order Book Markets: a Deep Learning Perspective (2022)](https://arxiv.org/abs/2211.13777) ([Code](https://github.com/lorenzolucchese/deepOBs))
 - [Expensify](https://www.expensify.com/) - Financial collaboration, centered around chat. ([Code](https://github.com/Expensify/App))
 - [Stripe’s Pricing Breakdown](https://github.com/getlago/lago/wiki/Stripe%27s-real-pricing:-a-primer) ([HN](https://news.ycombinator.com/item?id=33920019))
+- [Formance](https://www.formance.com/) - Modular developer platform to build and operate complex money flows of any size and shape. ([Code](https://github.com/formancehq/stack))

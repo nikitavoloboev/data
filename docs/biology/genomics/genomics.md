@@ -226,3 +226,4 @@ title: Genomics
 - [T2T-Polish](https://github.com/arangrhie/T2T-Polish) - Evaluation and polishing workflows for T2T genome assemblies.
 - [GraffiTE](https://github.com/cgroza/GraffiTE) - Pipeline that finds polymorphic transposable elements in genome assemblies and genotypes the discovered polymorphisms in read sets using a pangenomic approach.
 - [PyEnsembl](https://github.com/openvax/pyensembl) - Python interface to access reference genome features (such as genes, transcripts, and exons) from Ensembl.
+- [Inseq](https://github.com/inseq-team/inseq) - Intepretability for Sequence Generation Models.

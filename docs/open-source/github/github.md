@@ -489,3 +489,4 @@ Awesome List
 - [GitCLI](https://github.com/ldakhoa/GitCLI-Swift) - GitHub CLI written in Swift.
 - [FAQtory](https://github.com/willmcgugan/faqtory) - Tool to generate GitHub flavoured FAQ.md documents.
 - [GitHub Copilot Labs](https://githubnext.com/projects/copilot-labs/) - VS Code extension for experimental applications of GitHub Copilot.
+- [GitHub Research Runner](https://github.com/schosterbarak/ghrr) - Utility to collect data from github stargazers, subscribers and contributors of a selected project.

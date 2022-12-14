@@ -1083,6 +1083,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [AutoFaiss](https://github.com/criteo/autofaiss) - Automatically create Faiss knn indices with the most optimal similarity search parameters.
 - [Laplace](https://github.com/AlexImmer/Laplace) - Laplace approximations for Deep Learning.
 - [PSYDAC](https://github.com/pyccel/psydac) - Python Library for isogeometric analysis.
+- [CommonRegex Improved](https://github.com/brootware/commonregex-improved) - Faster and expanded implementation of common regular expressions library in Python.
 
 ## Notes
 
