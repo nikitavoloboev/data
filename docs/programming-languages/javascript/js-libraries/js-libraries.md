@@ -1069,6 +1069,7 @@
 - [esm-env](https://github.com/benmccann/esm-env) - Uses export conditions to return environment information in a way that works with major bundlers and runtimes.
 - [import.meta.env](https://github.com/iendeavor/import-meta-env) - Startup/Runtime environment variable solution for JavaScript.
 - [Socket Config](https://github.com/SocketDev/socket-config-js) - Reader/parser/validator tool for Socket.dev's socket.yml configuration files.
+- [Twitter Regexp](https://github.com/silentroach/twitter-regexps) - Twitter precompiled regular expressions.
 
 ## Links
 
@@ -1168,3 +1169,4 @@
 - [Sourcemapper](https://github.com/denandz/sourcemapper) - Extract JavaScript source trees from Sourcemap files.
 - [Speeding up the JavaScript ecosystem, one library at a time (2022)](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/) ([HN](https://news.ycombinator.com/item?id=33793570)) ([Lobsters](https://lobste.rs/s/ayszgp/speeding_up_javascript_ecosystem_one))
 - [npmhub](https://github.com/npmhub/npmhub) - Browser extension to explore npm dependencies on GitHub repos.
+- [URL manipulation cheat sheet for JavaScript](https://github.com/azu/url-cheatsheet)

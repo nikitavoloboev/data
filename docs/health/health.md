@@ -90,3 +90,4 @@ Like listening to [Andrew Huberman](https://www.youtube.com/c/AndrewHubermanLab/
 - [Medplum](https://www.medplum.com/) - Open-Source Firebase for Healthcare. ([HN](https://news.ycombinator.com/item?id=33521560))
 - [Ask HN: Do you measure and/or mitigate CO2 in your living space? (2022)](https://news.ycombinator.com/item?id=33864195)
 - [Dr. Kyle Gillett: Tools for Hormone Optimization in Males (2022)](https://hubermanlab.com/dr-kyle-gillett-tools-for-hormone-optimization-in-males/)
+- [Is anyone else getting cold/sick much more often these days? (2022)](https://news.ycombinator.com/item?id=33982006)

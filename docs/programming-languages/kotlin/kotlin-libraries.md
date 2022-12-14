@@ -99,6 +99,7 @@
 - [OPENRNDR](https://github.com/openrndr/openrndr) - Kotlin/JVM library for creative coding, real-time and interactive graphics.
 - [Polyhedra Explorer](https://github.com/elizarov/PolyhedraExplorer) - Interactive polyhedra explorer with animated transformations.
 - [Lets-Plot](https://github.com/JetBrains/lets-plot) - Open-source plotting library for statistical data.
+- [Kopykat](https://github.com/kopykat-kt/kopykat) - Utilities for more pleasant immutable data in Kotlin.
 
 ## Links
 

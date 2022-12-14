@@ -59,3 +59,5 @@
 - [How Wine works 101 (2022)](https://werat.dev/blog/how-wine-works-101/) ([HN](https://news.ycombinator.com/item?id=33156727))
 - [ahkpm](https://github.com/joshuacc/ahkpm) - AutoHotKey Package Manager.
 - [The End of Windows Software (2022)](https://hardcoresoftware.learningbyshipping.com/p/103-end-of-windows-software) ([Tweet](https://twitter.com/stevesi/status/1584226645149638656))
+- [WinSafe](https://github.com/rodrigocfd/winsafe) - Windows API and GUI in safe, idiomatic Rust.
+- [Windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go.

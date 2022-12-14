@@ -16,3 +16,4 @@ title: MirageOS
 - [MirageOS unikernel to test networking setup](https://github.com/rand00/conntest)
 - [Paf le chien](https://github.com/dinosaure/paf-le-chien) - MirageOS compatible layer for HTTP/AF and H2.
 - [dnsvizor](https://github.com/roburio/dnsvizor) - DNSmasq-like MirageOS unikernel.
+- [Hillingar](https://github.com/RyanGibb/hillingar) - Build MirageOS unikernel with Nix. ([Article](https://ryan.freumh.org/blog/hillingar/))

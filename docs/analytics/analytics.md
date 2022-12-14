@@ -110,3 +110,4 @@ Well implemented analytics together with proper logging/tracing should let you l
 - [Vercel Analytics](https://github.com/vercel/analytics) - Privacy-friendly, real-time traffic insights.
 - [Counting unique visitors without using cookies, UIDs or fingerprinting (2022)](https://notes.normally.com/cookieless-unique-visitor-counts/)
 - [Decile](https://decile.app/) - Open-source analytics. Powered by AI. Engineered for simplicity.
+- [Quibbler](https://github.com/Technion-Kishony-lab/quibbler) - Interactive, reproducible and efficient data analytics.

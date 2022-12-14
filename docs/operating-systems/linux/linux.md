@@ -647,3 +647,4 @@ title: Linux
 - [Linux Desktop Environments System Usage (2022)](https://itvision.altervista.org/linux-desktop-environments-system-usage.html) ([HN](https://news.ycombinator.com/item?id=33951719))
 - [Userspace isn't slow, some kernel interfaces are (2022)](https://tailscale.com/blog/throughput-improvements/) ([HN](https://news.ycombinator.com/item?id=33972221))
 - [Ask HN: Are Any of You Tired from macOS and Want to Go Back to Linux? (2022)](https://news.ycombinator.com/item?id=33969026)
+- [pcstat](https://github.com/tobert/pcstat) - Get page cache stats for files on Linux.

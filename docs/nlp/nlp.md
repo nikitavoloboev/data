@@ -723,3 +723,5 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Lightning GPT](https://github.com/Lightning-AI/lightning-gpt)
 - [Bricks](https://github.com/code-kern-ai/bricks) - Open-source natural language enrichments at your fingertips.
 - [GPT-2 Output Detector](https://huggingface.co/openai-detector/)
+- [Language Model Operationalization](https://github.com/microsoft/LMOps)
+- [NLQuery](https://github.com/ayoungprogrammer/nlquery) - Natural language query engine on WikiData.

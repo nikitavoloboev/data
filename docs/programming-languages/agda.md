@@ -116,3 +116,4 @@ title: Agda
 - [Formalization of 2LTT in Agda](https://github.com/UnivalencePrinciple/2LTT-Agda)
 - [Semi-Simplicial Types in Agda](https://github.com/FrozenWinters/SSTs)
 - [Agda Cubical Experiments](https://github.com/ncfavier/cubical-experiments)
+- [Komachi](https://github.com/Lysxia/komachi) - Parser library in Agda, with coinductive machines and automatic differentiation.

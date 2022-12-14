@@ -153,3 +153,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Unpaywall](https://unpaywall.org/) - Open database of 20 million free scholarly articles.
 - [Decentralized Science explained](https://twitter.com/dvdkll/status/1597978031817035776)
 - [The Death of Quanta Magazine (2022)](https://mateusaraujo.info/2022/12/01/the-death-of-quanta-magazine/) ([HN](https://news.ycombinator.com/item?id=33828602))
+- [Causaly](https://www.causaly.com/) - Biomedical search platform. ([GitHub](https://github.com/causaly))

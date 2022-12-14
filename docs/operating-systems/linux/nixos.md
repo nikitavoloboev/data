@@ -86,6 +86,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [David Wood](https://github.com/davidtwco/veritas)
 - [Jakub](https://github.com/jakubgs/nixos-config)
 - [Dustin Lacewell](https://github.com/dustinlacewell/dotfiles)
+- [Ryan Gibb](https://github.com/RyanGibb/nixos)
 
 ## Nix configs (macOS)
 
@@ -274,3 +275,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS: On Raspberry Pi 3B (2022)](https://myme.no/posts/2022-12-01-nixos-on-raspberrypi.html)
 - [Automagically assimilating NixOS machines into your Tailnet with Terraform (2022)](https://xeiaso.net/blog/nix-flakes-terraform)
 - [How can I boot NixOS? Let me count the ways (2022)](https://linus.schreibt.jetzt/posts/booting-nixos.html)
+- [Nix App Image](https://github.com/ralismark/nix-appimage) - Convert a NixOS derivation into a self-contained binary.

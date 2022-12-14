@@ -480,6 +480,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Litestream as Library](https://github.com/benbjohnson/litestream-library-example) - Example repository for embedding Litestream in a Go application.
 - [go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3.
 - [go-sqlite3](https://github.com/mattn/go-sqlite3) - SQLite driver for go using database/sql. ([Article](https://foxcpp.dev/articles/the-right-way-to-use-go-sqlite3))
+- [go-sqlite3-stdlib](https://github.com/multiprocessio/go-sqlite3-stdlib) - Standard library for mattn/go-sqlite3 including best-effort date parsing, url parsing, math/string functions, and stats aggregation functions.
 - [tpg](https://github.com/tidwall/tpg) - Insanely tiny Postgres library for Go.
 - [dburl](https://github.com/xo/dburl) - Provides a standard, URL style mechanism for parsing and opening SQL database connection strings for Go.
 - [Loukoum](https://github.com/ulule/loukoum) - Simple SQL Query Builder.
@@ -1945,6 +1946,8 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [intintmap](https://github.com/brentp/intintmap) - Fast int64 -> int64 hash.
 - [fluent-logger-go](https://github.com/fluent/fluent-logger-golang) - Structured logger for Fluentd.
 - [deepCopy](https://github.com/mohae/deepcopy) - Makes deep copies of things: unexported field values are not copied.
+- [mergo](https://github.com/imdario/mergo) - Merging Go structs and maps.
+- [Fn](https://github.com/kamstrup/fn) - Functional programming in Go.
 
 ## Links
 
@@ -2116,3 +2119,4 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Tutorial: Developing a RESTful API with Go, JSON Schema validation and OpenAPI docs (2022)](https://dev.to/vearutop/tutorial-developing-a-restful-api-with-go-json-schema-validation-and-openapi-docs-2490)
 - [Go HTTPS servers with TLS (2021)](https://eli.thegreenplace.net/2021/go-https-servers-with-tls/)
 - [How to Setup an HTTPS enabled client in Go (2022)](https://www.reddit.com/r/golang/comments/zjqyfm/how_to_setup_an_https_enabled_client/)
+- [OSV-Scanner](https://github.com/google/osv-scanner) - Find existing vulnerabilities affecting your project's dependencies.

@@ -8,7 +8,7 @@ I define a set of [rules](rules.md) (with [6 daily habits](habits.md)), [process
 
 ## Focusing on what's important
 
-I use [2Do](../macOS/apps/2do.md) as my personal task manager. I [schedule events](../macOS/apps/fantastical.md) in my calendar and plan the day/week in context of my tasks & priorities.
+I use [2Do](../macOS/apps/2do.md) as my personal task manager and [Height](https://height.app) as way to prioritize life and other projects . I [schedule events](../macOS/apps/fantastical.md) in calendar and plan the day/week in context of my tasks & priorities.
 
 I work on [ideas](../ideas/ideas.md) I find valuable to me most & make things.
 

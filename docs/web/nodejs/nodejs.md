@@ -437,3 +437,4 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [Exploring competitive features in Node.js v18 and v19 (2022)](https://blog.logrocket.com/exploring-competitive-features-node-js-v18-v19/) ([HN](https://news.ycombinator.com/item?id=33830674))
 - [nleak](https://github.com/nleak/nleak) - Automatic memory leak detection and diagnosis tool for NodeJS.
 - [lookpath](https://github.com/otiai10/lookpath) - Minimum and most straightforward way to check if command exists and where the executable is, without spawning child_process.
+- [nypm](https://github.com/unjs/nypm) - Unified Package Manager for Node.js.

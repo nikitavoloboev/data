@@ -206,3 +206,4 @@ title: RISC-V
 - [Welcome to the First RISC-V Site](http://riscv.jghuff.com/) ([HN](https://news.ycombinator.com/item?id=33683571))
 - [Libriscv](https://github.com/fwsGonzo/libriscv) - RISC-V userspace emulator library. ([HN](https://news.ycombinator.com/item?id=33652117))
 - [Tiny C header-only RISC-V emulator](https://github.com/cnlohr/mini-rv32ima) ([HN](https://news.ycombinator.com/item?id=33792974)) ([Explained](https://www.youtube.com/watch?v=YT5vB3UqU_E))
+- [Olympia](https://github.com/riscv-software-src/riscv-perf-model) - Example RISC-V Out-of-Order/Superscalar Processor Performance Core and MSS Model.

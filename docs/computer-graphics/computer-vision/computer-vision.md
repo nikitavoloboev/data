@@ -1038,3 +1038,8 @@
 - [RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs (2022)](https://github.com/wzhouxiff/RestoreFormer)
 - [Vision-and-Language Navigation Resources](https://github.com/YicongHong/Thinking-VLN)
 - [HNeRV: A Hybrid Neural Representation for Videos (2022)](https://haochen-rye.github.io/HNeRV/) ([Code](https://github.com/haochen-rye/HNeRV))
+- [GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation (2022)](https://arxiv.org/abs/2212.06795) ([Code](https://github.com/ChenhongyiYang/GPViT))
+- [Zero Shot Image Restoration Using Denoising Diffusion Null-Space Model (2022)](https://wyhuai.github.io/ddnm.io/) ([Code](https://github.com/wyhuai/DDNM))
+- [DifFace: Blind Face Restoration with Diffused Error Contraction](https://github.com/zsyOAOA/DifFace)
+- [What do Vision Transformers Learn? A Visual Exploration](https://github.com/hamidkazemi22/vit-visualization)
+- [Images Speak in Images: A Generalist Painter for In-Context Visual Learning (2022)](https://arxiv.org/abs/2212.02499) ([Code](https://github.com/baaivision/Painter))

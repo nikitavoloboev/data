@@ -443,3 +443,5 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Streamff](https://streamff.com/) - Easy video sharing.
 - [Media Player](https://github.com/Collaborne/media-player) - React video player with controls and functionality.
 - [LosslessCut](https://mifi.no/losslesscut/) - Swiss Army Knife of Lossless Video/Audio Editing. ([HN](https://news.ycombinator.com/item?id=33969490))
+- [YouTube Transcript](https://github.com/Kakulukian/youtube-transcript) - Fetch transcript from a YouTube video.
+- [VidCutter](https://github.com/ozmartian/vidcutter) - Modern yet simple multi-platform video cutter and joiner.

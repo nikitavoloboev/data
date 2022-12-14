@@ -258,3 +258,5 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Ask HN: Self-hosted/open-source ChatGPT alternative? Like Stable Diffusion (2022)](https://news.ycombinator.com/item?id=33955125)
 - [GPT-3 Visual Studio Code Extension](https://github.com/Arrendy/gpt3-vscode-extension) - Use GPT-3 to generate documentation and get help debugging your code.
 - [Swift app demonstrating Core ML Stable Diffusion](https://github.com/huggingface/swift-coreml-diffusers)
+- [StructuredDiffusion: Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis (2022)](https://weixi-feng.github.io/structure-diffusion-guidance/) ([Code](https://github.com/weixi-feng/Structured-Diffusion-Guidance))
+- [All the ways to get around ChatGPT's safeguards](https://twitter.com/davisblalock/status/1602600453555961856) ([HN](https://news.ycombinator.com/item?id=33982683))

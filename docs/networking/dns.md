@@ -263,3 +263,4 @@ title: DNS
 - [Agnos](https://github.com/krtab/agnos) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
 - [NSD](https://github.com/NLnetLabs/nsd) - Authoritative DNS name server.
 - [ctrld](https://github.com/Control-D-Inc/ctrld) - Highly configurable, multi-protocol DNS forwarding proxy.
+- [DNS LOC (2022)](https://ryan.freumh.org/blog/dns_loc_rr/)

@@ -14,6 +14,7 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [Zenra Bot for Slack](https://github.com/yusukebe/slack-zenra-bot) - Using new Slack platform in Deno.
 - [Chat bot for Slack](https://github.com/scrapinghub/slackbot)
 - [Anonymous Feedback Bot](https://charmbracelet.slack.com/apps/AH64TE3NC-anonymous-feedback-bot-by-opensay)
+- [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 
 ## Notes
 

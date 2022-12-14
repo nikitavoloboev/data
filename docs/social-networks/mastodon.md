@@ -128,3 +128,4 @@ Love [being part](https://merveilles.town/web/@nikivi) of [Merveilles](https://m
 - [Mastodon Digest](https://github.com/hodgesmr/mastodon_digest) - Python script that aggregates recent popular tweets from your Mastodon timeline.
 - [microstatus](https://github.com/Arkanosis/microstatus) - Lightweight Mastodon- and GNU social-compatible ActivityPub and OStatus server implementation.
 - [Phanpy](https://github.com/cheeaun/phanpy) - Minimalistic opinionated Mastodon web client.
+- [FediAct](https://github.com/Lartsch/FediAct) - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.

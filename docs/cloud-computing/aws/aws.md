@@ -417,3 +417,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [coldsnap](https://github.com/awslabs/coldsnap) - Command line interface for Amazon EBS snapshots.
 - [AWS Step Functions examples](https://github.com/aws-samples/aws-stepfunctions-examples)
 - [eks-node-viewer](https://github.com/awslabs/eks-node-viewer) - Tool for visualizing dynamic node usage within a cluster.
+- [IAM Legend](https://github.com/TastefulElk/iam-legend) - AWS IAM actions autocomplete, documentation and wildcard resolution for Visual Studio Code.

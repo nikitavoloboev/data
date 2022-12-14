@@ -487,3 +487,5 @@ title: PyTorch
 - [Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation](https://github.com/mohammadpz/pytorch_forward_forward)
 - [Transformer encoder in PyTorch](https://github.com/guocheng2018/Transformer-Encoder)
 - [PiPPy](https://github.com/pytorch/tau) - Pipeline Parallelism for PyTorch.
+- [Forward Forward algorithm (by Geoffrey Hinton) implemented with PyTorch](https://github.com/madcato/forward-forward-pytorch)
+- [TencentPretrain: Tencent Pre-training Framework](https://github.com/Tencent/TencentPretrain)

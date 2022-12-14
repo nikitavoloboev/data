@@ -145,3 +145,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [(1) Which of your hobbies have you traveled specifically for or that you enjoy doing while you travel?](https://www.reddit.com/r/solotravel/comments/zarw96/which_of_your_hobbies_have_you_traveled/)
 - [The Maddening Mess of Airport Codes (2022)](https://www.youtube.com/watch?v=jfOUVYQnuhw) ([HN](https://news.ycombinator.com/item?id=33948915))
 - [Working Efficiently as a Digital Nomad (2022)](https://theari.dev/blog/working-efficiently-as-a-digital-nomad/)
+- [Airport Codes](https://airportcod.es/) - Making sense of those three-letter airport codes. ([Code](https://github.com/lynnandtonic/airport-codes))

@@ -621,3 +621,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/) ([HN](https://news.ycombinator.com/item?id=33934139))
 - [Supabase Storage v2: Image resizing and Smart CDN (2022)](https://supabase.com/blog/storage-image-resizing-smart-cdn)
 - [Supabase Storage Middleware](https://github.com/supabase/storage-api) - S3 compatible object storage service that stores metadata in Postgres.
+- [pg-pubsub](https://github.com/imqueue/pg-pubsub) - Reliable PostgreSQL LISTEN/NOTIFY with inter-process lock support.

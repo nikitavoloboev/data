@@ -168,6 +168,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Assembl](https://assembl.app/) - Effortless window manager for macOS. ([Code](https://github.com/rossmoody/Assembl))
 - [TrueWidget](https://github.com/pqrs-org/TrueWidget) - Displays macOS version, CPU usage and local time at the left bottom of the screen.
 - [IOBrowser](https://github.com/macmade/IOBrowser) - macOS application for browsing the IOKit registry.
+- [GoXLR for Mac](https://github.com/Adelenade/GoXlr-Macos) - MacOS application to manage GoXLR without virtual machine.
 
 ## Other interesting apps
 

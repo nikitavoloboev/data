@@ -415,3 +415,4 @@ title: Reinforcement learning
 - [Precise atom manipulation through deep reinforcement learning (2022)](https://www.nature.com/articles/s41467-022-35149-w) ([HN](https://news.ycombinator.com/item?id=33902363))
 - [Causal-MBRL](https://github.com/polixir/causal-mbrl) - Toolkit of Causal Model-based Reinforcement Learning.
 - [Illustrating Reinforcement Learning from Human Feedback (RLHF) (2022)](https://huggingface.co/blog/rlhf)
+- [Alpha Zero General](https://github.com/suragnair/alpha-zero-general) - Simplified, highly flexible, commented and (hopefully) easy to understand implementation of self-play based reinforcement learning based on the AlphaGo Zero paper.

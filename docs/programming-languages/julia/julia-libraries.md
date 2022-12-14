@@ -781,6 +781,7 @@
 - [PlotlyLight](https://github.com/JuliaComputing/PlotlyLight.jl) - Plotly.js via Julia made easy.
 - [Tally](https://github.com/thofma/Tally.jl)
 - [Sylvia](https://github.com/dalum/Sylvia.jl) - Simple symbolic library.
+- [Leaflet](https://github.com/JuliaGeo/Leaflet.jl) - LeafletJS maps for Julia.
 
 ## Links
 

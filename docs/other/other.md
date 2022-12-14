@@ -725,3 +725,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Where did software go wrong? (2022)](https://blog.jse.li/posts/software/) ([HN](https://news.ycombinator.com/item?id=33961251))
 - [Lexicon](https://github.com/screensailor/Lexicon) - Recurrent Mind Maps, Vocabularies, Ontologies and Naming Systems.
 - [MindFlare](https://github.com/thousandyears/MindFlare) - Lexicon editor.
+- [Protocols As Practice Projects: Or, Why RFCs aren't (that) scary (2022)](https://naiveai.hashnode.dev/protocols-as-practice-projects)

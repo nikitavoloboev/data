@@ -485,3 +485,5 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [Textless Speech-to-Music Retrieval Using Emotion Similarity (2022)](https://github.com/SeungHeonDoh/speech-to-music)
 - [FreePats-Tools](https://github.com/freepats/freepats-tools) - Tools to manage, create and convert sound fonts.
 - [FreePats](https://freepats.zenvoid.org/) - Free and open collection of digital instruments for music production. ([GitHub](https://github.com/freepats))
+- [Musicaiz](https://github.com/carlosholivan/musicaiz) - Python framework for symbolic music generation, evaluation and analysis.
+- [otopoiesis](https://github.com/tomoyanonymous/otopoiesis) - Constructive audio programming environment with timeline-based view.

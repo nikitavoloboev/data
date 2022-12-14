@@ -409,7 +409,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Cleaning Up Git History (2021)](https://blog.sulami.xyz/posts/cleaning-up-git-history/) ([Lobsters](https://lobste.rs/s/kl0aso/cleaning_up_git_history))
 - [Think Like (a) Git](http://think-like-a-git.net/)
 - [Different ways to solve git merge conflicts (2021)](https://twitter.com/kyleve/status/1419854124246470661)
-- [Cocogitto](https://github.com/oknozor/cocogitto) - Set of cli tool for the conventional commit and semver specifications.
+- [Cocogitto](https://github.com/cocogitto/cocogitto) - Conventional Commits toolbox.
 - [New in Git: switch and restore (2021)](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/) ([HN](https://news.ycombinator.com/item?id=28024972)) ([Lobsters](https://lobste.rs/s/aph2fn/new_git_switch_restore))
 - [git-cc](https://github.com/SKalt/git-cc) - Git extension to help write conventional commits.
 - [Advanced Git In-Depth](https://frontendmasters.com/courses/git-in-depth/) ([Code](https://github.com/nnja/advanced-git))

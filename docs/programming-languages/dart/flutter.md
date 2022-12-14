@@ -6,6 +6,7 @@ title: Flutter
 
 ## Nice Flutter apps
 
+- [Wonderous](https://github.com/gskinnerTeam/flutter-wonderous-app) - Showcase app for the Flutter SDK.
 - [Lichess Mobile](https://github.com/lichess-org/mobile)
 - [I/O Pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase.
 - [Hacki](https://github.com/Livinglist/Hacki) - Simple Hacker News reader made with Flutter.
@@ -111,3 +112,4 @@ title: Flutter
 - [Flutter Discord](https://discord.com/invite/N7Yshp4)
 - [Flutter Supabase Functional Programming with fpdart (2022)](https://www.sandromaglione.com/techblog/flutter-dart-functional-programming-fpdart-supabase-app)
 - [Flet](https://github.com/flet-dev/flet) - Framework that enables you to easily build real time web, mobile and desktop apps in Python.
+- [Dart/Flutter Lint](https://github.com/passsy/dart-lint)

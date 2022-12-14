@@ -76,3 +76,5 @@ title: ActivityPub
 - [Understanding A Protocol (2022)](https://www.aeracode.org/2022/12/05/understanding-a-protocol/)
 - [Playing with ActivityPub (2022)](https://macwright.com/2022/12/09/activitypub.html)
 - [Deploying GoToSocial on fly.io (2022)](https://fnordig.de/2022/11/21/gotosocial-on-fly-io/)
+- [ActivityPub Core](https://github.com/michaelcpuckett/activitypub-core) - Spec-compliant ActivityPub core library.
+- [chirp.social](https://github.com/michaelcpuckett/ap-groups) - Client application that creates Group accounts on the fediverse. ([Web](https://chirp.social/))

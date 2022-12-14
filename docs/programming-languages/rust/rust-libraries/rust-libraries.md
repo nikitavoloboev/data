@@ -6,6 +6,7 @@
 
 ## CLI
 
+- [xflags](https://github.com/matklad/xflags) - Moderately simple command line arguments parsing.
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser. ([Reddit](https://www.reddit.com/r/rust/comments/rt3fyr/clap_30_a_rust_cli_argument_parser/)) ([step towards 4.0](https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/)) ([Reddit](https://www.reddit.com/r/rust/comments/su2h4v/clap_31_a_step_towards_40/)) ([clap-markdown](https://github.com/ConnorGray/clap-markdown))
 - [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
 - [bpaf](https://github.com/pacak/bpaf) - Parse command line arguments by composing a parser from the components optimized for flexibility and compilation time. ([Reddit](https://www.reddit.com/r/rust/comments/u0f57x/yet_another_command_line_argument_parser_bpaf_040/))
@@ -207,6 +208,7 @@
 - [har-rs](https://github.com/mandrean/har-rs) - HTTP Archive format (HAR) serialization & deserialization library, written in Rust.
 - [Motore](https://github.com/cloudwego/motore) - Async middleware abstraction powered by GAT and TAIT.
 - [Aggligator](https://github.com/surban/aggligator) - Aggregates multiple links (TCP or similar) into one connection having their combined bandwidth and provides resiliency against failure of individual links.
+- [rust-multiaddr](https://github.com/multiformats/rust-multiaddr) - Composable and future-proof network addresses.
 
 ## Auth
 
@@ -244,6 +246,7 @@
 - [prokio](https://github.com/yewstack/prokio) - Asynchronous runtime compatible with WebAssembly and non-WebAssembly targets.
 - [edom](https://github.com/adamritter/edom) - Immediate mode web frontend library written in Rust.
 - [spidermonkey-wasm-rs](https://github.com/bytecodealliance/spidermonkey-wasm-rs) - Rust bindings and generic builtins for SpiderMonkey for the wasm32-wasi target.
+- [cargo wasi](https://github.com/bytecodealliance/cargo-wasi) - Lightweight Cargo subcommand to build Rust code for the `wasm32-wasi` target.
 
 ## GUI
 
@@ -471,6 +474,7 @@
 - [Pax](https://github.com/pax-lang/pax) - Cross-platform rendering engine & Rust framework for interactive graphics, animations, and GUIs.
 - [xilem](https://github.com/linebender/xilem) - Experimental Rust native UI framework.
 - [rough-rs](https://github.com/orhanbalci/rough-rs) - Draw handy sketches from your rust applications.
+- [Contrast Renderer](https://github.com/Lichtso/contrast_renderer) - Web-gpu based 2D render engine written in Rust.
 
 ## Games
 
@@ -663,6 +667,7 @@
 - [RustCrypto: signatures](https://github.com/RustCrypto/signatures) - Cryptographic signature algorithms: DSA, ECDSA, Ed25519.
 - [Multi-party ECDSA](https://github.com/ZenGo-X/multi-party-ecdsa) - Rust implementation of {t,n}-threshold ECDSA (elliptic curve digital signature algorithm).
 - [Poseidon](https://github.com/penumbra-zone/poseidon377) - Instantiation of the Poseidon hash for use with decaf377.
+- [Miden Crypto](https://github.com/0xPolygonMiden/crypto) - Cryptographic primitives used in Polygon Miden.
 
 ## Linux
 
@@ -2396,6 +2401,7 @@
 - [unicode-normalization](https://github.com/unicode-rs/unicode-normalization) - Unicode character composition and decomposition utilities.
 - [dashu](https://github.com/cmpute/dashu) - Library set of arbitrary precision numbers (aka. big numbers).
 - [galloc](https://github.com/MaderNoob/galloc) - Linked list allocator, inspired by the dlmalloc algorithm.
+- [tokio-retry](https://github.com/srijs/rust-tokio-retry) - Extensible, asynchronous retry behaviors for futures/tokio.
 
 ## Cargo Plugins
 
@@ -2693,3 +2699,4 @@
 - [Building Web UI's in Rust w/ Greg Johnston (2022)](https://www.youtube.com/watch?v=zgY7ql1xwW4)
 - [Augmenting Existing Struct APIs with Rust Traits (2022)](http://rtpg.co/2022/12/05/rust-trait-object-apis.html)
 - [crates-io-api](https://github.com/theduke/crates-io-api) - API client for crates.io, the Rust crate registry.
+- [Rust: State of GUI, December 2022](https://kas-gui.github.io/blog/state-of-GUI-2022.html) ([HN](https://news.ycombinator.com/item?id=33979637))

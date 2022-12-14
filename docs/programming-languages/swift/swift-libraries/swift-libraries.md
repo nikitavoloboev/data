@@ -290,6 +290,7 @@
 - [AppContainer](https://github.com/p-x9/AppContainer) - Create and manage multiple environments with a single application, just as if you were swapping containers.
 - [ShimmerView](https://github.com/mercari/ShimmerView) - Collection of APIs to construct Skelton View + Shimmering Effect type loading indicator on UIKit and SwiftUI.
 - [EJKit](https://github.com/Upstarts/editor.js-kit-ios) - iOS Framework for Editor.js - block styled editor.
+- [UDF](https://github.com/inDriver/UDF) - Unidirectional Data Flow Framework.
 
 ## macOS
 
@@ -633,6 +634,7 @@
 - [XCTAsync](https://github.com/mochidev/XCTAsync) - Swift library to more easily test async code.
 - [UITestingPlus](https://github.com/ChimeHQ/UITestingPlus) - Utilities for working with XCUI testing.
 - [BDDSwift](https://github.com/KaneCheshire/BDDSwift) - Type-safe, compiler-enforced way of writing BDD steps and scenarios in Swift for XCTest.
+- [Distribute XCFramework with mixed implementation only and exported dependencies](https://github.com/DrAma999/XCFramework-with-dep-example)
 
 ## API
 
@@ -1347,6 +1349,7 @@
 - [swift-async-queue](https://github.com/dfed/swift-async-queue) - Queue that enables sending FIFO-ordered tasks from synchronous to asynchronous contexts.
 - [CornucopiaStreams](https://github.com/Cornucopia-Swift/CornucopiaStreams) - Stream-based transport broker.
 - [DictionaryCoder](https://github.com/almazrafi/DictionaryCoder) - Fast dictionary encoder / decoder for Swift Codable types.
+- [CallStackParser](https://github.com/GDXRepo/CallStackParser) - Utility class for parsing the current call stack in scope.
 
 ## Other (not lib)
 

@@ -715,6 +715,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [zoxy](https://github.com/skarab42/zoxy) - Small type-safe object proxy around Zod to help you stay safe after your data is loaded.
 - [ReactiveFile](https://github.com/judehunter/reactivefile) - Lightweight library for creating a reactive binding between a JS object and a file.
 - [pasta-sourcemaps](https://github.com/bloomberg/pasta-sourcemaps) - Pretty (and) Accurate Stack Trace Analysis is an extension to the JavaScript source map format that allows for accurate function name decoding.
+- [Zod Validation Error](https://github.com/causaly/zod-validation-error) - Wrap zod validation errors in user-friendly readable messages.
+- [Data-Forge](https://github.com/data-forge/data-forge-ts) - JavaScript data transformation and analysis toolkit inspired by Pandas and LINQ.
 
 ## Links
 

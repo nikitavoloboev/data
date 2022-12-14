@@ -737,3 +737,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Verifying a Token Contract (2022)](https://whileydave.com/2022/09/15/formal-verification-of-a-token-contract/)
 - [Botcaster](https://github.com/BigWhaleLabs/botcaster) - Farcaster bot framework.
 - [Slush SDK](https://github.com/slushsdk/slush) - Allows you to spin up L3s on Starknet.
+- [Ethereum token lists](https://tokenlists.org/) ([Spec](https://github.com/Uniswap/token-lists)) ([Bridge Utils](https://github.com/Uniswap/token-list-bridge-utils))

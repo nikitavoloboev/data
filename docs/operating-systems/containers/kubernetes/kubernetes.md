@@ -890,3 +890,4 @@ title: Kubernetes
 - [Self Node Remediation](https://github.com/medik8s/self-node-remediation) - Automatic repair for unhealthy Kubernetes nodes.
 - [K8s Node Health Check Operator](https://github.com/medik8s/node-healthcheck-operator)
 - [Worker Pod Autoscaler](https://github.com/practo/k8s-worker-pod-autoscaler) - Kubernetes autoscaler for the workers. Resource is called WPA. Queues Supported: SQS, Beanstalkd.
+- [K8S Objects Generator](https://github.com/kubewarden/k8s-objects-generator) - CLI tool that generates Kubernetes Go types that can be used with TinyGo starting from the official OpenAPI spec.

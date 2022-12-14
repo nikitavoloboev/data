@@ -491,3 +491,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [CSpell](https://github.com/streetsidesoftware/cspell) - Spell Checker for Code.
 - [gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
 - [Programming Languages: Application and Interpretation](https://www.plai.org/) ([HN](https://news.ycombinator.com/item?id=33927021))
+- [Vyxal](https://github.com/Vyxal/Vyxal) - Golfing language that has aspects of traditional programming languages - terse, elegant, readable.

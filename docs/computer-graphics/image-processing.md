@@ -228,3 +228,5 @@
 - [Octavia noise](https://github.com/lorenSchmidt/fractal_cell_noise) - Fractal noise algorithm most closely related to cellular noise algorithms such as worley noise.
 - [Alt Image Generator](https://github.com/Nutlope/alt-text-generator) - Flask API that generates a description for any image.
 - [Simple image transform service for use by other workers through service bindings](https://github.com/jacob-ebey/cf-image-service)
+- [Preventing loss dot JPEG (2022)](https://computer.rip/2022-07-21-preventing-loss-dot-jpeg.html)
+- [instafilter](https://github.com/thoppe/instafilter) - Instagram-like filters with deep learning.

@@ -48,3 +48,5 @@ title: Message queue
 - [pgmq](https://github.com/adriangb/pgmq) - Message queue built on top of Postgres.
 - [laminarmq](https://github.com/arindas/laminarmq) - Scalable, distributed message queue powered by a segmented, partitioned, replicated and immutable log.
 - [sqlxmq](https://github.com/Diggsey/sqlxmq) - Message queue implemented on top of PostgreSQL.
+- [Message Queue](https://github.com/imqueue/core) - Simple JSON-based messaging queue for inter service communication.
+- [Message Queue RPC](https://github.com/imqueue/rpc) - RPC-like client-service implementation over messaging queue.

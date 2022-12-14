@@ -228,6 +228,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Redis OM](https://github.com/redis/redis-om-python) - Objecting mapping, and more, for Redis and Python.
 - [Inline SQL](https://github.com/ekzhang/inline-sql) - Inline SQL in any Python program.
 - [μSQLite](https://github.com/spatialdude/usqlite) - SQLite module for MicroPython.
+- [mincePy](https://github.com/muhrin/mincepy) - Object storage with versioning made simple.
 
 ## WebSocket
 
@@ -1084,6 +1085,8 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Laplace](https://github.com/AlexImmer/Laplace) - Laplace approximations for Deep Learning.
 - [PSYDAC](https://github.com/pyccel/psydac) - Python Library for isogeometric analysis.
 - [CommonRegex Improved](https://github.com/brootware/commonregex-improved) - Faster and expanded implementation of common regular expressions library in Python.
+- [pixelhouse](https://github.com/thoppe/pixelhouse) - Minimalist drawing library for making beautiful animations.
+- [MPyC](https://github.com/lschoe/mpyc) - Multiparty Computation in Python.
 
 ## Notes
 
