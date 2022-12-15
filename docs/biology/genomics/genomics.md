@@ -227,3 +227,5 @@ title: Genomics
 - [GraffiTE](https://github.com/cgroza/GraffiTE) - Pipeline that finds polymorphic transposable elements in genome assemblies and genotypes the discovered polymorphisms in read sets using a pangenomic approach.
 - [PyEnsembl](https://github.com/openvax/pyensembl) - Python interface to access reference genome features (such as genes, transcripts, and exons) from Ensembl.
 - [Inseq](https://github.com/inseq-team/inseq) - Intepretability for Sequence Generation Models.
+- [fqgrep](https://github.com/fulcrumgenomics/fqgrep) - Grep for FASTQ files.
+- [Fulcrum Genomics](https://fulcrumgenomics.com/) ([GitHub](https://github.com/fulcrumgenomics)) ([Twitter](https://twitter.com/fulcrumgenomics))

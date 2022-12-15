@@ -35,3 +35,4 @@
 - [Electric vehicle battery capable of 98% charge in less than ten minutes (2022)](https://pv-magazine-usa.com/2022/06/13/electric-vehicle-battery-capable-of-98-charge-in-less-than-ten-minutes/) ([HN](https://news.ycombinator.com/item?id=31734296))
 - [Picking up free lithium cells off the street and making them safe for use (2022)](https://www.atomic14.com/2022/07/16/free-lithium-cells.html) ([HN](https://news.ycombinator.com/item?id=32129478))
 - [PETLION](https://github.com/MarcBerliner/PETLION.jl) - High-performance simulations of the Porous Electrode Theory for Li-ion batteries.
+- [Na-S Battery: Low-cost with four times the capacity of lithium (2022)](https://www.sydney.edu.au/news-opinion/news/2022/12/07/low-cost-battery-built-with-four-times-the-capacity-of-lithium.html) ([HN](https://news.ycombinator.com/item?id=33998271))
