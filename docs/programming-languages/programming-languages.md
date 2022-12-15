@@ -492,3 +492,5 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
 - [Programming Languages: Application and Interpretation](https://www.plai.org/) ([HN](https://news.ycombinator.com/item?id=33927021))
 - [Vyxal](https://github.com/Vyxal/Vyxal) - Golfing language that has aspects of traditional programming languages - terse, elegant, readable.
+- [Garnet: The Generics Problem](https://man.sr.ht/~icefox/garnet/generics.md) ([Lobsters](https://lobste.rs/s/hot5by/garnet_generics_problem))
+- [Coroutines As Threads (2018)](https://dmitrykandalov.com/coroutines-as-threads)

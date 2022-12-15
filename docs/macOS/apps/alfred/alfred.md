@@ -155,3 +155,4 @@ fi
 - [powerpack](https://github.com/rossmacarthur/powerpack) - Supercharge your Alfred workflows by building them in Rust.
 - [Alfred Automation Tasks](https://github.com/alfredapp/automation-tasks)
 - [Alfred Gallery](https://alfred.app/)
+- [Submitting Workflows for the Alfred Gallery](https://www.alfredforum.com/topic/19058-submitting-workflows-for-the-alfred-gallery/)

@@ -490,3 +490,4 @@ Awesome List
 - [FAQtory](https://github.com/willmcgugan/faqtory) - Tool to generate GitHub flavoured FAQ.md documents.
 - [GitHub Copilot Labs](https://githubnext.com/projects/copilot-labs/) - VS Code extension for experimental applications of GitHub Copilot.
 - [GitHub Research Runner](https://github.com/schosterbarak/ghrr) - Utility to collect data from github stargazers, subscribers and contributors of a selected project.
+- [GitHub fetch](https://github.com/gruntwork-io/fetch) - Download files, folders, and release assets from a specific git commit, branch, or tag of public and private GitHub repos.

@@ -981,3 +981,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [How I got involved in the Rust community (2022)](https://ochagavia.nl/blog/how-i-got-involved-in-the-rust-community/) ([HN](https://news.ycombinator.com/item?id=33925049))
 - [A Look at dyn\* Code Generation (2022)](https://blog.theincredibleholk.org/blog/2022/12/12/dyn-star-codegen/)
 - [A neat XOR trick (2022)](https://www.mattkeeter.com/blog/2022-12-10-xor/) ([HN](https://news.ycombinator.com/item?id=33948060))
+- [When types lie - a rust themed whodunnit (2022)](https://www.craft.do/s/Sn32pevFn2XYHO)

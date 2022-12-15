@@ -1087,6 +1087,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [CommonRegex Improved](https://github.com/brootware/commonregex-improved) - Faster and expanded implementation of common regular expressions library in Python.
 - [pixelhouse](https://github.com/thoppe/pixelhouse) - Minimalist drawing library for making beautiful animations.
 - [MPyC](https://github.com/lschoe/mpyc) - Multiparty Computation in Python.
+- [Dapr SDK for Python](https://github.com/dapr/python-sdk)
 
 ## Notes
 

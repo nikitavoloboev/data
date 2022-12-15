@@ -93,3 +93,4 @@
 - [PODA: Prompt-driven Zero-shot Domain Adaptation (2022)](https://github.com/astra-vision/PODA)
 - [ALSO: Automotive Lidar Self-supervision by Occupancy estimation (2022)](https://github.com/valeoai/ALSO)
 - [Tesla Full Self-Driving data looks awful (2022)](https://news.ycombinator.com/item?id=33984922)
+- [Tesla FSD promises are lies](https://twitter.com/danluu/status/1603133843170820097)

@@ -268,3 +268,4 @@
 - [How to JIT - an introduction (2013)](https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction)
 - [How to Think About Compiling (2022)](https://uptointerpretation.com/posts/how-to-think-about-compiling/)
 - [SSA-based Compiler Design (2022)](https://link.springer.com/book/10.1007/978-3-030-80515-9)
+- [Compiler Tricks to Avoid ABI-Induced Crashes (2022)](https://randomascii.wordpress.com/2022/12/14/compiler-tricks-to-avoid-abi-induced-crashes/)

@@ -385,3 +385,4 @@
 - [LiteICLink](https://github.com/enjoy-digital/liteiclink) - Small footprint and configurable Inter-Chip communication cores.
 - [AI’s Hardware Problem (2022)](https://www.youtube.com/watch?v=5tmGKTNW8DQ)
 - [Hidden tech of the Nest Thermostat](https://www.scanofthemonth.com/scans/nest-thermostat-evolution) ([HN](https://news.ycombinator.com/item?id=33987952))
+- [Accelerating Network Functions using Reconfigurable Hardware (2022)](https://tuprints.ulb.tu-darmstadt.de/22023/3/2022-09-07_Kundel_Ralf.pdf)

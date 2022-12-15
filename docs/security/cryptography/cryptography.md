@@ -196,3 +196,4 @@
 - [Tandem](https://github.com/sine-fdn/tandem) - Cryptographic Engine for Secure Multi-Party Computation using Garbled Circuits.
 - [SINE Foundation](https://sine.foundation/) ([GitHub](https://github.com/sine-fdn))
 - [End-to-end encrypted messages need more than libsignal (2022)](https://mjg59.dreamwidth.org/62598.html) ([HN](https://news.ycombinator.com/item?id=33929620))
+- [Generic Tagging for RISC-V Binaries (2022)](https://arxiv.org/abs/2212.05614)

@@ -56,3 +56,4 @@
 - [Algebraic Number Theory in Python](https://github.com/louisabraham/algnuth)
 - [Mathematician who solved prime-number riddle claims new breakthrough (2022)](https://www.nature.com/articles/d41586-022-03689-2) ([HN](https://news.ycombinator.com/item?id=33569029))
 - [What do numbers look like?](https://johnhw.github.io/umap_primes/index.md.html) ([HN](https://news.ycombinator.com/item?id=33580136))
+- [Our Trip to Prime Number Theorem (2021)](https://susam.net/club/trip-to-prime-number-theorem.html)

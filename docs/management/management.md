@@ -41,6 +41,7 @@ Top things that I think are [must have for productive working environment](https
 - [Weekly standing 1:1's with every direct report are largely a waste of time and create bricked out calendar hell as organizations scale](https://twitter.com/jessegenet/status/1567546179369730050)
 - [Drive home the mission and importance to civilization. Require super high commitment from the team. Be willing to fail publicly and punch back at naysayers.](https://twitter.com/reinpk/status/1594577162702651392)
 - [Still convinced OKRs are the ultimate google psyops to slow down startups](https://twitter.com/CharleyMa/status/1594912857002762243)
+- [One thing I'm really starting to believe about running a small team (< 10 people) is that we should always just work on one thing at a time instead of trying to push three projects forward at once.](https://twitter.com/adamwathan/status/1603067674195644419)
 
 ## Links
 

@@ -164,3 +164,4 @@ title: Zig
 - [Easy Interfaces with Zig 0.10.0 (2022)](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5) ([HN](https://news.ycombinator.com/item?id=33635341))
 - [Goodbye to the C++ Implementation of Zig (2022)](https://ziglang.org/news/goodbye-cpp/) ([HN](https://news.ycombinator.com/item?id=33913231)) ([Lobsters](https://lobste.rs/s/g55iso/goodbye_c_implementation_zig))
 - [Using Zig for Advent of Code (2022)](https://www.huy.rocks/everyday/12-11-2022-zig-using-zig-for-advent-of-code)
+- [What I learn by implementing argparser in Zig (2022)](https://en.liujiacai.net/2022/12/14/argparser-in-zig/)
