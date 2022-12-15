@@ -245,3 +245,4 @@
 - [What Actually Happens When You Publish a Container Port (2022)](https://iximiuz.com/en/posts/docker-publish-container-ports/)
 - [bootc](https://github.com/containers/bootc) - Transactional, in-place operating system updates using OCI/Docker container images.
 - [Possibility of OCI Container Runtime with Rust (2022)](https://speakerdeck.com/utam0k/possibility-of-oci-container-runtime-with-rust)
+- [Verrazzano](https://github.com/verrazzano/verrazzano) - Enterprise Container Platform for deploying cloud-native and traditional applications in multi-cloud and hybrid environments.

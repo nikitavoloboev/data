@@ -129,3 +129,4 @@
 - [Zoid](https://github.com/krakenjs/zoid) - Cross-domain component toolkit.
 - [Breaking up with JavaScript front ends (2022)](http://triskweline.de/unpoly-rugb/#/) ([HN](https://news.ycombinator.com/item?id=33934580))
 - [Framework.dev](https://framework.dev/) - Knowledge base for different front end frameworks. ([Code](https://github.com/thisdot/framework.dev))
+- [Full Stack Components (2022)](https://www.epicweb.dev/full-stack-components)
