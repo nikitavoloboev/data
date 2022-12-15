@@ -455,3 +455,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Pluggable contexts in Tvix](https://docs.google.com/document/d/1pz2tRTX5kkS_1wfrZfeHg7MBCSgR1BAktZA2dc42ABk/edit)
 - [Collection of all the content from NixCon Paris 2022](https://github.com/nixcon/NixConContent)
 - [Noogle](https://noogle.dev/) - Nix API search engine. ([Code](https://github.com/hsjobeki/noogle))
+- [Darwin build box for Nix community](https://github.com/winterqt/darwin-build-box)

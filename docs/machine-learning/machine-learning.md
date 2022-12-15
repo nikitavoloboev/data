@@ -1014,3 +1014,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Learning to generate line drawings that convey geometry and semantics (2022)](https://carolineec.github.io/informative_drawings/) ([Code](https://github.com/carolineec/informative-drawings))
 - [Data2vec 2.0: Highly efficient self-supervised learning for vision, speech and text (2022)](https://ai.facebook.com/blog/ai-self-supervised-learning-data2vec/)
 - [X-modaler](https://github.com/YehLi/xmodaler) - Versatile and high-performance codebase for cross-modal analytics.
+- [Normconf](https://normconf.com/) - Tech conference about all the stuff that matters in data and machine learning. ([Awesome](https://github.com/normconf/awesome-normconf))

@@ -63,7 +63,6 @@
 - [Awesome Newsletter Tools](https://github.com/marcelkooi/awesome-newsletter-tools)
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - Find the best newsletters for your taste.
 - [Substack Rhymes With Medium (2020)](https://napkinmath.substack.com/p/substack-rhymes-with-medium)
-- [Revue](https://www.getrevue.co/) - Editorial newsletter tool for writers and publishers.
 - [Substack Became Milquetoast (2020)](https://nintil.com/substack-milquetoast) ([HN](https://news.ycombinator.com/item?id=24812887))
 - [Learn By Building An Email Newsletter (2020)](https://www.lpalmieri.com/posts/2020-06-21-zero-to-production-2-learn-by-building-an-email-newsletter/)
 - [Newsletter Spy](https://newsletterspy.io/) - Database of 20,000+ Substack newsletters.

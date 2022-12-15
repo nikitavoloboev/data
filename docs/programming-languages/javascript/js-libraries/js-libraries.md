@@ -1070,6 +1070,7 @@
 - [import.meta.env](https://github.com/iendeavor/import-meta-env) - Startup/Runtime environment variable solution for JavaScript.
 - [Socket Config](https://github.com/SocketDev/socket-config-js) - Reader/parser/validator tool for Socket.dev's socket.yml configuration files.
 - [Twitter Regexp](https://github.com/silentroach/twitter-regexps) - Twitter precompiled regular expressions.
+- [EventEmitter3](https://github.com/primus/eventemitter3) - High performance EventEmitter.
 
 ## Links
 

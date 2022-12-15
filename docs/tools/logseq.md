@@ -45,3 +45,4 @@ title: Logseq
 - [Logseq Plugin Template React](https://github.com/pengx17/logseq-plugin-template-react)
 - [Athens exporter](https://github.com/bshepherdson/athens-export) - Standalone tool that converts an Athens Research database into a logseq directory.
 - [HN: Logseq (2022)](https://news.ycombinator.com/item?id=33218561)
+- [How to use Logseq for learning (2022)](https://twitter.com/rroudt/status/1603375788077686784)

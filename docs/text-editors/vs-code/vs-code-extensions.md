@@ -247,6 +247,7 @@ Below is a list of extensions I use.
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code. ([Code](https://github.com/microsoft/vscode-eslint))
 - [React Native](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) - Debugging and integrated commands for React Native. ([Code](https://github.com/microsoft/vscode-react-native))
+- [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja) - JavaScript console.log output and runtime errors right next to your code. ([Web](https://console-ninja.com/)) ([Issues](https://github.com/wallabyjs/console-ninja))
 - [ast-query](https://marketplace.visualstudio.com/items?itemName=nikaspran.ast-query) - Search and highlight JavaScript and TypeScript via Abstract Syntax Tree queries. ([Code](https://github.com/nikaspran/vscode-ast-query))
 - [Deoptigate](https://github.com/rbuckton/deoptigate-vscode) - Visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e. NodeJS, Chrome, etc.).
 - [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search the node_modules folder.

@@ -1,6 +1,6 @@
 # Mushrooms
 
-[Mycelium](https://www.micropia.nl/en/discover/microbiology/mycelium/) is fascinating.
+[Mycelium](https://www.micropia.nl/en/discover/microbiology/mycelium/) is [fascinating](https://www.youtube.com/watch?v=Pm1FgFFzQd4).
 
 I personally love [psilocybin mushrooms](https://en.wikipedia.org/wiki/Psilocybin_mushroom) and take them [occasionaly](../drugs/psychedelics/psychedelics.md). I also take some mushrooms daily as part of my [supplement](../health/nutrition/supplements.md).
 
@@ -78,3 +78,5 @@ Get my spores to grow [here](https://orangutantradingco.com/). Grow them using [
 - [The Fungal Pharmacy Book](https://www.kobo.com/ww/en/ebook/the-fungal-pharmacy)
 - [Radical Mycology](https://www.radicalmycology.com/)
 - [Грибы книга](https://www.mann-ivanov-ferber.ru/books/griby/)
+- [How to Grow Mushrooms from Start to Finish in a Monotub (2021)](https://www.youtube.com/watch?v=Pm1FgFFzQd4)
+- [Boomer Shroomer - YouTube](https://www.youtube.com/@BoomerShroomer/videos)
