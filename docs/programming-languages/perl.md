@@ -54,3 +54,4 @@ title: Perl
 - [This is not your grandfather's Perl (2022)](https://stackoverflow.blog/2022/09/08/this-is-not-your-grandfathers-perl/)
 - [What's wrong with Perl](https://www.garshol.priv.no/download/text/perl.html)
 - [Perl is Actually Portable (2022)](https://computoid.com/posts/Perl-is-Actually-Portable.html)
+- [Actually Portable Perl](https://computoid.com/APPerl/) ([HN](https://news.ycombinator.com/item?id=33966755))

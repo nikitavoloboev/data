@@ -164,3 +164,4 @@ title: Decentralization
 - [Centralization Is Inevitable (2022)](https://subconscious.substack.com/p/centralization-is-inevitable) ([HN](https://news.ycombinator.com/item?id=33422581))
 - [First Impressions of Bluesky's at Protocol (2022)](https://educatedguesswork.org/posts/atproto-firstlook/) ([HN](https://news.ycombinator.com/item?id=33515399))
 - [How much decentralization is too much? (2022)](https://shkspr.mobi/blog/2022/12/how-much-decentralisation-is-too-much/) ([HN](https://news.ycombinator.com/item?id=33951939))
+- [Radicle Heartwood Protocol & Stack](https://github.com/radicle-dev/heartwood)

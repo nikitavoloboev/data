@@ -16,6 +16,8 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 
 [toyDB](https://github.com/erikgrinaker/toydb) has nice code to study.
 
+[Slashbase](https://slashbase.com/) is nice GUI app to talk with databases.
+
 ## Interesting
 
 - [PlanetScale](planetscale.md) - Database for Developers. ([HN](https://news.ycombinator.com/item?id=27197873)) ([Release Article](https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers))
