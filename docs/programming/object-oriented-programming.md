@@ -6,6 +6,8 @@ title: Object-oriented programming
 
 I prefer more [data oriented programming](https://www.reddit.com/r/Zig/comments/r0l3uz/a_practical_guide_to_applying_dataoriented_design/) than [OO](https://twitter.com/ChevyRay/status/1506406647291293697).
 
+[Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM) is nice summary of issues of OO paradigm.
+
 ## Notes
 
 - [DI frameworks seem to encourage a degenerate style of OO design where every class has an interface and every interface has exactly one implementation.](https://twitter.com/einarwh/status/1376814194184585218)
@@ -56,3 +58,4 @@ I prefer more [data oriented programming](https://www.reddit.com/r/Zig/comments/
 - [Is OOP Evil? (2022)](https://www.youtube.com/watch?v=YpJufWdZFB8)
 - [What does OO do well? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/yzrhir/what_does_oo_do_well/)
 - [An argument against inheritance (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/zi03k9/an_argument_against_inheritance/)
+- [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)

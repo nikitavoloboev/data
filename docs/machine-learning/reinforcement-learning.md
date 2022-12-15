@@ -395,7 +395,7 @@ title: Reinforcement learning
 - [Reinforcement Learning Benchmarks for Traffic Signal Control](https://github.com/Pi-Star-Lab/RESCO)
 - [Discovering novel algorithms with AlphaTensor (2022)](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor)
 - [Hyperbolic Deep Reinforcement Learning (2022)](https://arxiv.org/abs/2210.01542) ([Code](https://github.com/twitter-research/hyperbolic-rl))
-- [Distributed training of language models with Reinforcement Learning via Human Feedback](https://github.com/CarperAI/trlx)
+- [Distributed training of language models with Reinforcement Learning via Human Feedback](https://github.com/CarperAI/trlx) ([How to use](https://twitter.com/carperai/status/1603240017719164930))
 - [Memory Maze](https://github.com/jurgisp/memory-maze) - Environment for evaluating long-term memory of RL agents.
 - [Awesome Reinforcement Learning Library](https://github.com/wwxFromTju/awesome-reinforcement-learning-lib)
 - [Reinforcement Learning Fundamentals - YouTube](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr) ([Tweet](https://twitter.com/DuaneJRich/status/1587452234127724545))

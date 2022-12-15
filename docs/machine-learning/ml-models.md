@@ -135,3 +135,4 @@ Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [gene
 - [Banana Serverless](https://github.com/bananaml/serverless-template) - Framework to serve ML models in production using simple HTTP servers.
 - [SkyPilot](https://github.com/skypilot-org/skypilot) - Framework for easily running machine learning workloads on any cloud through a unified interface.
 - [m2cgen (Model 2 Code Generator)](https://github.com/BayesWitnesses/m2cgen) - Lightweight library which provides an easy way to transpile trained statistical models into a native code.
+- [Models - Hugging Face](https://huggingface.co/models)

@@ -8,6 +8,8 @@ One way to do launches with possible virality is rewarding people who retweet wi
 
 Best way to do marketing is simply [launching features often and sharing updates through multiple channels](https://www.producthunt.com/discussions/i-m-alex-maccaw-founder-of-clearbit-and-reflect-ask-me-anything) (Twitter/Email are most effective). As well as making teaching content via nicely readable shareable docs or videos.
 
+[Landing Page Copywriting](https://www.julian.com/guide/startup/landing-pages) is great read.
+
 ## Nice ads
 
 - [Kyrö Distillery: Presented by a naked man](https://www.youtube.com/watch?v=6Q35akNanEs)
@@ -200,6 +202,8 @@ Best way to do marketing is simply [launching features often and sharing updates
 - [Product Hunt Launch Checklist](https://phlaunchchecklist.com/)
 - [ChatGPT will change marketing](https://twitter.com/heykahn/status/1599749880515244034)
 - [How to be a writer on a marketing team without sounding like a jerk](https://a.wholelottanothing.org/2022/12/07/how-to-be-a-writer-on-a-marketing-team-without-sounding-like-a-jerk/)
+- [Startup Handbook: Landing Page Copywriting](https://www.julian.com/guide/startup/landing-pages)
+- [Landing Page Copywriting Advice](https://twitter.com/dan_abramov/status/1603395450006126594)
 
 ## Images
 

@@ -690,6 +690,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Reed-Solomon](https://github.com/klauspost/reedsolomon) - Reed-Solomon Erasure Coding in Go.
 - [sftp](https://github.com/pkg/sftp) - SFTP support for the go.crypto/ssh package.
 - [libsignalgo](https://github.com/sumnerevans/libsignalgo) - Go wrapper for the libsignal library.
+- [encrypted-stream](https://github.com/nknorg/encrypted-stream) - Go library that transforms any net.Conn or io.ReadWriter stream to an encrypted and/or authenticated stream.
 
 ## Linux
 

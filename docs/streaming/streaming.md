@@ -96,3 +96,4 @@ Here are tools I use for streaming:
 - [StreamFX](https://github.com/Xaymar/obs-StreamFX) - Plugin for OBS Studio which adds many new effects, filters, sources, transitions and encoders.
 - [Docker NGINX RTMP](https://github.com/alfg/docker-nginx-rtmp) - Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.
 - [On Twitch, you can never log off (2022)](https://every.to/cybernaut/on-twitch-you-can-never-log-off) ([HN](https://news.ycombinator.com/item?id=33962987))
+- [Making videos with Resolve fast](https://twitter.com/mattpocockuk/status/1603408007534198786)

@@ -103,3 +103,4 @@ Some maybe interesting supplements. Some I tried but stopped.
 - [B12 was the missing link I've been looking for](https://www.reddit.com/r/Nootropics/comments/yblu6q/b12_was_the_missing_link_for_what_ive_been/)
 - [B12 supplement is crucial](https://twitter.com/simonsarris/status/1593973699241205760)
 - [The FDA Has Banned NMN Supplements (2022)](https://www.youtube.com/watch?v=aalylAdIxS4)
+- [5g creatine daily helps muscle recovery/growth](https://twitter.com/damccormick13/status/1603154251789787136)

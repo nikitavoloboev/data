@@ -446,6 +446,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 
 - [Hitofude Ryuu = the art of painting a dragon with a single stroke](https://www.youtube.com/watch?v=2z8n1UiWQ6c)
 - [Stop thinking about art works as objects, and start thinking about them as triggers for experiences.](https://twitter.com/dark_shark/status/1380725473869635585)
+- [My art learning advice is that you’re more likely to keep playing the guitar if you start trying to learn slayer riffs right away rather than following any sort guide, you’ll be bad but you’ll have fun and it’s the same for drawing and painting.](https://twitter.com/outhwaitegeorge/status/1603109133313622019)
 
 ## Links
 

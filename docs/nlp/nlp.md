@@ -725,3 +725,5 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [GPT-2 Output Detector](https://huggingface.co/openai-detector/)
 - [Language Model Operationalization](https://github.com/microsoft/LMOps)
 - [NLQuery](https://github.com/ayoungprogrammer/nlquery) - Natural language query engine on WikiData.
+- [Categorical Tools for Natural Language Processing (2022)](https://arxiv.org/abs/2212.06636)
+- [Historical analogies for large language models (2022)](https://dynomight.substack.com/p/llms) ([Tweet](https://twitter.com/s8mb/status/1602989578750754817))

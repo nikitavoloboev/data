@@ -438,3 +438,4 @@ title: ML Libraries
 - [McTorch Lib](https://github.com/mctorch/mctorch) - Manifold optimization functionality for PyTorch.
 - [Torchhd](https://github.com/hyperdimensional-computing/torchhd) - Python library for Hyperdimensional Computing.
 - [DeeProb-kit](https://github.com/deeprob-org/deeprob-kit) - Python Library for Deep Probabilistic Modeling.
+- [Allegro](https://github.com/mir-group/allegro) - Building highly scalable and accurate equivariant deep learning interatomic potentials.

@@ -28,3 +28,4 @@ title: swc
 - [SWC plugin for transforming import path](https://github.com/ankitchouhan1020/swc-plugin-transform-import)
 - [SWC-to-babel](https://github.com/coderaiser/swc-to-babel) - Convert SWC to Babel AST.
 - [swc-loader](https://github.com/swc-project/swc-loader) - Webpack loader for swc.
+- [Verifying swc minifier using dbg-swc (2022)](https://kdy1.dev/posts/2022/12/swc-reducer)

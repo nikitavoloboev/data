@@ -592,3 +592,4 @@ all: unset
 - [Animated Background Stripes That Transition on Hover (2022)](https://css-tricks.com/animated-background-stripes-transition-hover/)
 - [CSS Declaration Sorter](https://github.com/Siilwyn/css-declaration-sorter) - Sort CSS declarations fast and automatically in a certain order.
 - [A Few Times Container Size Queries Would Have Helped Me Out (2022)](https://css-tricks.com/a-few-times-container-size-queries-would-have-helped-me-out/#aa-case-1-card-grid)
+- [Logical Border Radius (2022)](https://css-irl.info/logical-border-radius/)

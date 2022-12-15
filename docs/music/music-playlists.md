@@ -32,3 +32,4 @@ I share music I liked on SoundCloud on [my profile](https://soundcloud.com/nikit
 - [Spotify Playlist Lookup](https://playlists.dags.dev/) - Lets users find playlists by songs they contain. ([HN](https://news.ycombinator.com/item?id=33150086))
 - [Recycle your old Spotify playlists into new ones](https://www.playlistrecycle.com/) ([HN](https://news.ycombinator.com/item?id=33742014))
 - [Natural Language Playlist](https://www.naturallanguageplaylist.com/) - AI generated mixtapes.
+- [Favorite coding playlists](https://twitter.com/cpojer/status/1603215063401521152)

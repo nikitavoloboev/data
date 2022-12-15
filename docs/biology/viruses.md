@@ -106,3 +106,4 @@
 - [Masks for COVID: Updating the evidence (2022)](https://www.fast.ai/2022/07/04/updated-masks-evidence/)
 - [The Huanan Seafood Wholesale Market in Wuhan was the early epicenter of the COVID-19 pandemic (2022)](https://www.science.org/doi/10.1126/science.abp8715)
 - [Covid: Summary of lab-origin hypothesis (2022)](https://twitter.com/R_H_Ebright/status/1566826229931524096) ([HN](https://news.ycombinator.com/item?id=32727859))
+- [Deep learning models for predicting RNA degradation via dual crowdsourcing (2022)](https://github.com/eternagame/KaggleOpenVaccine) ([Tweet](https://twitter.com/tunguz/status/1603389524117278725))

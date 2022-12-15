@@ -21,6 +21,7 @@ title: Search Engine Optimization
   2. Find existing keywords with some volume, where that topic can be substituted in to make a new keyword with no volume (but also no competition).
   3. Wait for the new keyword to grow.
   4. Profit.
+- [Lots of blog posts (no links) and see what sticks is the wrong game for SEO. Be deliberate: you prioritize (not algo), bottom up, promote/get links, design structure.](https://twitter.com/earthlingworks/status/1603096215696322560)
 
 ## Links
 

@@ -158,3 +158,4 @@
 - [What are your favorite movies where sex is integral to the plot? (2022)](https://www.reddit.com/r/Letterboxd/comments/zcleth/what_are_your_favorite_movies_where_sex_is/)
 - [IUD is great contraception but painful to insert](https://twitter.com/sarahclazarus/status/1599959313807597568)
 - [Top 5 sex toys (2022)](https://www.youtube.com/watch?v=tdKNQDrZqTE)
+- [Natality: Toward a Philosophy of Birth](https://www.amazon.com/Natality-Toward-Philosophy-Jennifer-Banks/dp/1324006390)

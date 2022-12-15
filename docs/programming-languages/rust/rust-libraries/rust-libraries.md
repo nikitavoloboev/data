@@ -2701,3 +2701,4 @@
 - [Augmenting Existing Struct APIs with Rust Traits (2022)](http://rtpg.co/2022/12/05/rust-trait-object-apis.html)
 - [crates-io-api](https://github.com/theduke/crates-io-api) - API client for crates.io, the Rust crate registry.
 - [Rust: State of GUI, December 2022](https://kas-gui.github.io/blog/state-of-GUI-2022.html) ([HN](https://news.ycombinator.com/item?id=33979637))
+- [Native Reflection in Rust (2022)](https://jack.wrenn.fyi/blog/deflect/)

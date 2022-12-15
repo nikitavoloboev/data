@@ -16,6 +16,8 @@ I like to [make private contributions private on my profile](https://i.imgur.com
 
 [gh-poi](https://github.com/seachicken/gh-poi) is useful for cleaning up already merged git branches.
 
+[Probot](https://github.com/probot/probot) is nice for writing GitHub automations.
+
 ## Interesting GitHub Bios
 
 - [Carlos Becker](https://github.com/caarlos0) - Auto updated list of activities + sponsors.

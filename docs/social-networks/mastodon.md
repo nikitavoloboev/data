@@ -129,3 +129,4 @@ Love [being part](https://merveilles.town/web/@nikivi) of [Merveilles](https://m
 - [microstatus](https://github.com/Arkanosis/microstatus) - Lightweight Mastodon- and GNU social-compatible ActivityPub and OStatus server implementation.
 - [Phanpy](https://github.com/cheeaun/phanpy) - Minimalistic opinionated Mastodon web client.
 - [FediAct](https://github.com/Lartsch/FediAct) - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.
+- [Mastodon Desktop client written with Rust and Tauri](https://github.com/matthiasbeyer/deskodon)

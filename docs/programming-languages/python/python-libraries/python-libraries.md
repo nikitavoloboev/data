@@ -1088,6 +1088,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [pixelhouse](https://github.com/thoppe/pixelhouse) - Minimalist drawing library for making beautiful animations.
 - [MPyC](https://github.com/lschoe/mpyc) - Multiparty Computation in Python.
 - [Dapr SDK for Python](https://github.com/dapr/python-sdk)
+- [Subgrounds](https://github.com/Protean-Labs/subgrounds) - Pythonic data access layer for applications querying data from The Graph Network.
 
 ## Notes
 
@@ -1285,3 +1286,4 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [infer-types](https://github.com/orsinium-labs/infer-types) - CLI tool to automatically add type annotations into Python code.
 - [Dynamic versioning plugin for Poetry](https://github.com/mtkennerly/poetry-dynamic-versioning)
 - [Jedi Language Server](https://github.com/pappasam/jedi-language-server)
+- [Python Magic Methods You Haven't Heard About (2022)](https://martinheinz.dev/blog/87)
