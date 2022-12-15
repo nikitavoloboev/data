@@ -486,3 +486,4 @@ if (
 - [Introduce await.all / await.race / await.allSettled / await.any to simplify the usage of Promises](https://github.com/tc39/proposal-await.ops)
 - [Proposal for new Set methods in JS](https://github.com/tc39/proposal-set-methods)
 - [A Simple Explanation of JavaScript Closures (2022)](https://dmitripavlutin.com/simple-explanation-of-javascript-closures/)
+- [Lesser-known JavaScript APIs (2022)](https://www.smashingmagazine.com/2022/09/javascript-api-guide/) ([HN](https://news.ycombinator.com/item?id=33965677))

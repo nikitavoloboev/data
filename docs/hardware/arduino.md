@@ -54,3 +54,4 @@
 - [Arduino with Vim & Rust (2022)](https://www.youtube.com/watch?v=igSfCLuA_Sk)
 - [Arduino IDE 2.0 (2022)](https://blog.arduino.cc/2022/09/14/its-here-please-welcome-arduino-ide-2-0/) ([HN](https://news.ycombinator.com/item?id=33013572))
 - [LiquidCrystal Library for Arduino](https://github.com/arduino-libraries/LiquidCrystal)
+- [Arduino LED Toggler](https://www.withdiode.com/projects/62716731-5e1e-4622-86af-90d8e6b5123b) - Circuit simulator that doesn't look like it was made in 2003. ([HN](https://news.ycombinator.com/item?id=33991007))

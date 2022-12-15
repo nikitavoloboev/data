@@ -69,3 +69,4 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [What's a game that you love, but you never get to play because no one in your friend group likes it?](https://www.reddit.com/r/boardgames/comments/ytf0e0/whats_a_game_that_you_love_but_you_never_get_to/)
 - [The 4 Best Strategy Board Games of 2022](https://www.nytimes.com/wirecutter/reviews/best-strategy-board-games/)
 - [Best heavy-weight 2 player board game - with long run time (2022)](https://www.reddit.com/r/boardgames/comments/zgwam5/best_heavyweight_2_player_board_game_with_long/)
+- [Ask HN: Best board games of 2022?](https://news.ycombinator.com/item?id=33990944)

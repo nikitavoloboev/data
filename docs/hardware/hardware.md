@@ -384,3 +384,4 @@
 - [Build List](https://buildlist.org/) - Directory of on-demand manufacturers for your creative projects. ([HN](https://news.ycombinator.com/item?id=33869796))
 - [LiteICLink](https://github.com/enjoy-digital/liteiclink) - Small footprint and configurable Inter-Chip communication cores.
 - [AI’s Hardware Problem (2022)](https://www.youtube.com/watch?v=5tmGKTNW8DQ)
+- [Hidden tech of the Nest Thermostat](https://www.scanofthemonth.com/scans/nest-thermostat-evolution) ([HN](https://news.ycombinator.com/item?id=33987952))

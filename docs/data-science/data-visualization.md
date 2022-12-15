@@ -2,6 +2,8 @@
 
 [Vega](https://vega.github.io/) is great. [Hands-On Data Visualization Book](https://handsondataviz.org/) & [Common Plots](https://aeturrell.github.io/coding-for-economists/vis-common-plots.html) are nice intros.
 
+[Observable Plot](https://github.com/observablehq/plot) is great.
+
 ## Nice examples
 
 - [America’s Highest Earners And Their Taxes Revealed](https://projects.propublica.org/americas-highest-incomes-and-taxes-revealed/)
@@ -107,7 +109,7 @@
 - [Battle of the Python Dashboarding Giants: Streamlit vs. Dash vs. Voilà vs. Panel (2021)](https://medium.datadriveninvestor.com/streamlit-vs-dash-vs-voil%C3%A0-vs-panel-battle-of-the-python-dashboarding-giants-177c40b9ea57) ([HN](https://news.ycombinator.com/item?id=26842510))
 - [Semiotic](https://github.com/nteract/semiotic) - Data visualization framework combining React & D3. ([Web](https://semiotic.nteract.io/))
 - [Grafar](https://github.com/thoughtspile/grafar) - JavaScript library for reactive, 3D mathematical visualization. ([Web](https://thoughtspile.github.io/grafar/#/))
-- [Observable Plot](https://github.com/observablehq/plot) - JavaScript library for exploratory data visualization. ([Web](https://observablehq.com/@observablehq/plot)) ([HN](https://news.ycombinator.com/item?id=27036768)) ([Tweet](https://twitter.com/FrankElavsky/status/1389961152545890308)) ([Tweet](https://twitter.com/simonw/status/1389615048880914437))
+- [Observable Plot](https://github.com/observablehq/plot) - JavaScript library for exploratory data visualization. ([Web](https://observablehq.com/@observablehq/plot)) ([HN](https://news.ycombinator.com/item?id=27036768)) ([Tweet](https://twitter.com/FrankElavsky/status/1389961152545890308)) ([Tweet](https://twitter.com/simonw/status/1389615048880914437)) ([HN](https://news.ycombinator.com/item?id=33966057))
 - [Dataflow](https://github.com/asg017/dataflow) - Self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more. ([Web](https://alexgarcia.xyz/dataflow/)) ([Demo](https://observablehq.com/@asg017/introducing-dataflow)) ([HN](https://news.ycombinator.com/item?id=27145515))
 - [VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit.
 - [Creating Data: Deep scatterplots](http://creatingdata.us/techne/deep_scatterplots/#)

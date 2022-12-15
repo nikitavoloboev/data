@@ -260,3 +260,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Swift app demonstrating Core ML Stable Diffusion](https://github.com/huggingface/swift-coreml-diffusers)
 - [StructuredDiffusion: Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis (2022)](https://weixi-feng.github.io/structure-diffusion-guidance/) ([Code](https://github.com/weixi-feng/Structured-Diffusion-Guidance))
 - [All the ways to get around ChatGPT's safeguards](https://twitter.com/davisblalock/status/1602600453555961856) ([HN](https://news.ycombinator.com/item?id=33982683))
+- [How does GPT obtain its ability? Tracing emergent abilities of language models (2022)](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) ([HN](https://news.ycombinator.com/item?id=33990567))

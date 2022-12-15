@@ -20,7 +20,7 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 
 It's a matter of time that [death can be avoided](https://en.wikipedia.org/wiki/Turritopsis_dohrnii). Fastest way to get to this future is getting to [AGI](../machine-learning/artificial-intelligence.md).
 
-I do think, when you die. That's that. You maybe will have some interesting [DMT](../drugs/psychedelics/tryptamines/dmt.md) like experience as you go but then you and all your memories will cease to exist.
+I do think, when you die. That's that. You maybe will have some interesting [DMT](../drugs/psychedelics/tryptamines/dmt.md) like experience as you go but then you and all your memories will cease to exist. Liked [this conversation](https://www.samharris.org/podcasts/making-sense-episodes/306-psychedelics-mortality) that talks about this topic.
 
 But as far as there are living beings in the universe, life and thus ability to experience things will never stop until at least [heat death of the universe](https://en.wikipedia.org/wiki/Heat_death_of_the_universe) arrives. There will always be an observer to the experience and most likely 'you' will be born again into some living being, statistically likely some insect. Thus I find it so important to [treat others including animals with care and love](../environment/veganism.md). Not eat them. Make their existance as pleasant as possible, not just for them but even egoistically for your future 'you'.
 
@@ -101,3 +101,4 @@ Having said the above, [anesthesia](https://en.wikipedia.org/wiki/Anesthesia) ha
 - [People who've lost a parent suddenly, what are things you wish you'd done before your parent passed?](https://twitter.com/Aella_Girl/status/1585133949105238016)
 - [Posterity](https://posterity.life/) - Create a legally binding plan for the event something happens to you, and share it with your loved ones. ([HN](https://news.ycombinator.com/item?id=33655747))
 - [How does it feel to die?](https://www.youtube.com/watch?v=GcOckvgSK8o)
+- [Sam Harris & Roland Griffiths - Psychedelics & Mortality (2022)](https://www.samharris.org/podcasts/making-sense-episodes/306-psychedelics-mortality)
