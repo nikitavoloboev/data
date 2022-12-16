@@ -487,4 +487,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [FreePats](https://freepats.zenvoid.org/) - Free and open collection of digital instruments for music production. ([GitHub](https://github.com/freepats))
 - [Musicaiz](https://github.com/carlosholivan/musicaiz) - Python framework for symbolic music generation, evaluation and analysis.
 - [otopoiesis](https://github.com/tomoyanonymous/otopoiesis) - Constructive audio programming environment with timeline-based view.
-- [Riffusion Inference Server](https://github.com/hmartiro/riffusion-inference) - Stable diffusion for real-time music generation.
+- [Riffusion](https://github.com/hmartiro/riffusion-inference) - Stable diffusion for real-time music generation. ([Code](https://github.com/hmartiro/riffusion-app))

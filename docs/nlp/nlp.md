@@ -727,3 +727,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [NLQuery](https://github.com/ayoungprogrammer/nlquery) - Natural language query engine on WikiData.
 - [Categorical Tools for Natural Language Processing (2022)](https://arxiv.org/abs/2212.06636)
 - [Historical analogies for large language models (2022)](https://dynomight.substack.com/p/llms) ([Tweet](https://twitter.com/s8mb/status/1602989578750754817))
+- [CMU Advanced NLP Assignment: End-to-end NLP System Building](https://github.com/neubig/nlp-from-scratch-assignment-2022)
