@@ -6,9 +6,9 @@ title: Twitter
 
 Use [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) extension when I browse Twitter on [Safari](../web/browsers/safari.md) in [separate window](https://twitter.com/nikitavoloboev/status/1601959862648582145) (with `jk` [keyboard binds](https://help.twitter.com/en/using-twitter/how-to-tweet) to move between tweets, `l` to like, `b` to bookmark, `r` to reply). And official app on iOS.
 
-I love Twitter as it's currently the best place to stream your thoughts to public and have others interact with it in real time. Nothing yet comes close to the network and UX of Twitter for doing this.
+I like Twitter as it's currently sadly still the best place to stream your thoughts to public and have others interact with it in real time. Nothing yet comes close to the network and UX of Twitter for doing this.
 
-However, the fact that Twitter is a private company now owned by a person who has a tendency to [go back on what he says](https://twitter.com/mmasnick/status/1601720403268816896), [lies in public](https://twitter.com/carterforva/status/1596136798941503492) and is able to [ban accounts on a whim](https://twitter.com/trickytaipei/status/1597762741108117505) without ways to fight back is [worrying](https://twitter.com/Dereklowe/status/1602307503752187906). I hope Twitter takes steps to change this as [trust lost](https://twitter.com/PhilipJoubert/status/1603266596067319808) takes long time to fix.
+However, the fact that Twitter is a private company now owned by a person who has a tendency to [go back on what he says](https://twitter.com/rickstrom/status/1603562716123189248), [lies in public](https://twitter.com/carterforva/status/1596136798941503492), [bans accounts of competitors](https://news.ycombinator.com/item?id=34010112) or [those who criticize him publicly](https://news.ycombinator.com/item?id=34008383) without ways to fight back is [worrying](https://twitter.com/Dereklowe/status/1602307503752187906). I hope Twitter takes steps to change this as [trust lost](https://twitter.com/PhilipJoubert/status/1603266596067319808) takes long time to fix.
 
 I love the idea of freedom of speech, but not freedom of reach whereby anyone can have a voice but the platform won't boost hurtful or perhaps verifiably incorrect rhetoric. Twitter's [Community Notes](https://twitter.com/CommunityNotes) is great in that regard. Will see how Twitter fares at making this work.
 
@@ -22,7 +22,9 @@ Twitter will always have a special place and it will be hard to beat it at what 
 
 One example where Twitter not being open source is horrible is that I find it [frustrating that Twitter iOS client doesn't have the ability to long press `like` icon to bookmark](https://twitter.com/nikitavoloboev/status/1590403314264334338). If the code was open source, I would have gladly made PR for this already. For some reason non official Twitter clients have worse UX feed content so moving from official clients is a non solution for me.
 
-I like using [official Twitter TS SDK](https://github.com/twitterdev/twitter-api-typescript-sdk) for building things on top of Twitter.
+In many ways it's a matter of time that Twitter gets replaced with an open source transparent protocol that mimics all the UX features of Twitter. Innovate or die.
+
+[Official Twitter TS SDK](https://github.com/twitterdev/twitter-api-typescript-sdk) is nice for building things on top of Twitter.
 
 [How does Twitter work](https://www.youtube.com/watch?v=z6xslDMimME) is nice overview of [Twitter tech](https://twitter.com/_dml/status/1592619959947243520).
 

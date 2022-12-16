@@ -795,3 +795,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [privatebin](https://github.com/gearnode/privatebin) - Simple portable command-line interface for privatebin server.
 - [ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize) - Utility for batch-normalizing audio using ffmpeg.
 - [Alternatives to TeamViewer (2022)](https://twitter.com/levelsio/status/1603410120104448007)
+- [Readwise Reader](https://readwise.io/read) - All-in-one reading app. ([HN](https://news.ycombinator.com/item?id=34006202))

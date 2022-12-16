@@ -79,3 +79,4 @@ title: Elasticsearch
 - [Elasticsearch](https://github.com/danielberkompas/elasticsearch-elixir) - No-nonsense Elasticsearch library for Elixir.
 - [apm-data](https://github.com/elastic/apm-data) - Definitions and code for manipulating Elastic APM data.
 - [Building An Elastic Query Engine on Disaggregated Storage (2020)](https://www.usenix.org/conference/nsdi20/presentation/vuppalapati)
+- [Semantic Search with Phoenix, Axon, and Elastic (2022)](https://dockyard.com/blog/2022/09/28/semantic-search-with-phoenix-axon-and-elastic)

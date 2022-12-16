@@ -623,3 +623,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Supabase Storage Middleware](https://github.com/supabase/storage-api) - S3 compatible object storage service that stores metadata in Postgres.
 - [pg-pubsub](https://github.com/imqueue/pg-pubsub) - Reliable PostgreSQL LISTEN/NOTIFY with inter-process lock support.
 - [Wrappers](https://github.com/supabase/wrappers) - Postgres Foreign Data Wrapper development framework in Rust.
+- [IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open-source Oracle-compatible PostgreSQL. ([HN](https://news.ycombinator.com/item?id=34007403))

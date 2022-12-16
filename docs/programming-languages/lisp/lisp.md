@@ -225,3 +225,4 @@
 - [The German School of Lisp (2011)](http://blog.fogus.me/2011/05/03/the-german-school-of-lisp-2/)
 - [Lisp written in Nix](https://github.com/utdemir/nixlisp)
 - [Conceptual Introduction to Spritely Goblins (2022)](https://garbados.github.io/my-blog/conceptual-intro-to-spritely-goblins.html)
+- [Kilo LISP](http://t3x.org/klisp/index.html) - Kilo Byte-Sized Lisp System. ([HN](https://news.ycombinator.com/item?id=34011770))

@@ -159,3 +159,4 @@
 - [IUD is great contraception but painful to insert](https://twitter.com/sarahclazarus/status/1599959313807597568)
 - [Top 5 sex toys (2022)](https://www.youtube.com/watch?v=tdKNQDrZqTE)
 - [Natality: Toward a Philosophy of Birth](https://www.amazon.com/Natality-Toward-Philosophy-Jennifer-Banks/dp/1324006390)
+- [How do I stay STD safe?](https://www.reddit.com/r/nonmonogamy/comments/zmmk4j/how_do_i_stay_std_safe/)

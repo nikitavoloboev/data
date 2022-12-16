@@ -40,3 +40,4 @@ I mention exercises I do [here](fitness.md).
 - [Top 5 Worst Gym Mistakes Even Experienced Lifters Make](https://www.youtube.com/watch?v=6vavUJwqqEE)
 - [Good leg exercises for explosive power + aesthetics](https://www.reddit.com/r/bodyweightfitness/comments/z7cywu/good_leg_exercises_for_explosive_power_aesthetics/)
 - [A comprehensive guide to the new science of treating lower back pain](https://www.vox.com/science-and-health/2017/8/4/15929484/chronic-back-pain-treatment-mainstream-vs-alternative)
+- [How I Built Muscle At Home (Without Weights)](https://www.youtube.com/watch?v=ho8fvPH_Ro0)

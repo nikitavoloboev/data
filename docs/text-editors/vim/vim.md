@@ -6,7 +6,7 @@ title: Vim
 
 The best text editing experience you will ever get. It is worth learning it as you will start thinking about text editing differently.
 
-I use some kind of vim bindings in any app I use and if there is a vim plugin for the app, I often use it. I use vim editor often when connecting to remote sessions and when I need a console editor.
+I use [VSCode](../vs-code/vs-code.md) with [vim bindings](https://github.com/VSCodeVim/Vim) as my main code editor. I also use vim bindings for any apps that deals with texts like [Obsidan](../../tools/obsidian.md) or [Sublime Text](../sublime-text/sublime-text.md). Vim bindings often mean modal bindings, i.e. I use [Vimari](https://github.com/televator-apps/vimari) to move inside [Safari](../../web/browsers/safari.md) browser faster.
 
 I use [Neovim](https://github.com/neovim/neovim) instead of vim and my vimrc can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). And [here](vim-plugins.md) are all the plugins I use with it.
 
@@ -21,6 +21,8 @@ I switch between Ayu Light and Ayu Mirage themes as I change between macOS appea
 > Ayu Mirage
 
 I also use a little trick where I change the cursor from thin block in insert mode to underline when in normal mode. This lets me quickly know which mode I am in.
+
+[This](https://www.youtube.com/watch?v=w7i4amO_zaE) is a nice overview of how you can build your vimrc from scratch.
 
 ## Notes
 
@@ -334,3 +336,4 @@ zz
 - [Ask HN: Is Vim still worth learning? (2022)](https://news.ycombinator.com/item?id=33966788)
 - [Neovim Conference 2022](https://www.youtube.com/watch?v=z9SuyhSHOWs)
 - [Vid in which Vim Saves Me Hours & Hundreds of Clicks](https://www.youtube.com/watch?v=hraHAZ1-RaM)
+- [0 to LSP : Neovim RC From Scratch (2022)](https://www.youtube.com/watch?v=w7i4amO_zaE)

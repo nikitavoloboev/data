@@ -223,6 +223,7 @@ I want to:
 - [masayume](https://github.com/masayume/DigitalGarden)
 - [Kate Bowie](https://katebowies-garden.netlify.app/)
 - [Ben Steadman's notes](https://github.com/SteadBytes/study)
+- [Muhammad Muhajir's Notes](https://www.muhajir.dev/#notes)
 - [Binny's garden](https://notes.binnyva.com/)
 - [David Winterbottom's TIL](https://til.codeinthehole.com/)
 - [Alex Schroeder: Diary](https://alexschroeder.ch/)

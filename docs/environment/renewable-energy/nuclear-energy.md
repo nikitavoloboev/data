@@ -88,3 +88,4 @@ Nuclear energy [gets a bad reputation but its the future of renewable energy](ht
 - [Expert reaction to reports of advance in nuclear fusion from the Lawrence Livermore National Laboratory (2022)](https://www.sciencemediacentre.org/expert-reaction-to-fusion-announcement-from-the-lawrence-livermore-national-laboratory/)
 - [US Department of Energy: Fusion Ignition Achieved (2022)](https://news.ycombinator.com/item?id=33971377)
 - [Nuclear-fusion lab achieves ‘ignition’: what does it mean? (2022)](https://news.ycombinator.com/item?id=33971953)
+- [Nuclear power is too slow (2022)](https://jackdevanney.substack.com/p/nuclear-power-is-too-slow) ([HN](https://news.ycombinator.com/item?id=34015330))

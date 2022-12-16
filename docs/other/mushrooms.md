@@ -80,3 +80,5 @@ Get my spores to grow [here](https://orangutantradingco.com/). Grow them using [
 - [Грибы книга](https://www.mann-ivanov-ferber.ru/books/griby/)
 - [How to Grow Mushrooms from Start to Finish in a Monotub (2021)](https://www.youtube.com/watch?v=Pm1FgFFzQd4)
 - [Boomer Shroomer - YouTube](https://www.youtube.com/@BoomerShroomer/videos)
+- [Foraging Psilocybe Mushrooms with Alan Rockefeller](https://www.youtube.com/watch?v=Bv826PwqF58)
+- [Mushroom Wonderland - YouTube](https://www.youtube.com/@mushroomwonderland1/videos)

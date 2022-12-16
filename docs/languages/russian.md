@@ -12,6 +12,11 @@
 
 - [Скороговорка «Лигурия»](http://mnemo.ua/blog/skorogovorka-liguriya-slozhno-zapomnit.html)
 
+## Notes
+
+- [Russian is a synthetic language, which means that by taking the root and adding two prefixes, three suffixes and endings to it, you get a new word with any necessary semantic and emotional connotation. English does not know how to do this, so it has a lot of auxiliary words. In addition, the method of counting words is different based on the characteristics of a particular language.](https://www.reddit.com/r/AskARussian/comments/zmq4ns/how_do_you_feel_about_the_russian_language_having/)
+- [There are more words in English, just because it's a damn analytical language (one of the most analytical languages in the world. The most analytical language is Vietnamese): words change slightly, and auxiliary words are always needed to formulate at least a phrase. Russian, like all Slavic languages, except Bulgarian and Macedonian, which is close to it, is a synthetic language, so there are fewer auxiliary words needed.](https://www.reddit.com/r/AskARussian/comments/zmq4ns/how_do_you_feel_about_the_russian_language_having/)
+
 ## Links
 
 - [Балабоба](https://yandex.ru/lab/yalm)

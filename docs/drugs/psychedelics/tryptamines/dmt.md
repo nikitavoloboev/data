@@ -10,7 +10,7 @@ I love all [tryptamines](tryptamines.md) including DMT. [Many say it's life chan
 
 [Mimosa Root](https://www.mimosaroot.com/) sells quality [Mimosa Hostilis](https://www.mimosaroot.com/product/mimosa-hostilis-inner-root-bark-mhrb-powder/).
 
-Which I then use with [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.me/Q21Q21%27s_Vinegar/Lime_A/B_Extraction_Tek) to extract DMT.
+Which I then use with [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.me/Q21Q21%27s_Vinegar/Lime_A/B_Extraction_Tek) to [extract DMT](https://wiki.dmt-nexus.me/Category:Extraction_Tek). [STB Extraction Teks](https://wiki.dmt-nexus.me/Category:Extraction_Tek#STB) are great too.
 
 ## Notes
 
@@ -119,3 +119,5 @@ Which I then use with [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.m
 - [DMT/syrian rue pharmahuasca dosage](https://drugs-forum.com/threads/dmt-syrian-rue-pharmahuasca-dosage-inquiry.24187/) ([Reddit](https://www.reddit.com/r/DMT/comments/yz44i3/pharmahuasca/))
 - [The ‘cosmic joke’](https://www.reddit.com/r/DMT/comments/z05lvy/the_cosmic_joke/)
 - [Vaporizer for DMT & Salvia](https://www.reddit.com/r/vaporents/comments/tv5ll5/vaporizer_for_dmt_salvia/)
+- [DMT Extraction Teks](https://wiki.dmt-nexus.me/Category:Extraction_Tek)
+- [DMT STB Extraction Teks](https://wiki.dmt-nexus.me/Category:Extraction_Tek#STB)
