@@ -290,3 +290,4 @@
 - [Ask HN: How to get clients for a new, small software agency? (2022)](https://news.ycombinator.com/item?id=30691266)
 - [Ask HN: Why aren't more software engineers contractors? tax savings? (2022)](https://news.ycombinator.com/item?id=32942774)
 - [Ask HN: Examples of high-value specialized consulting? (2022)](https://news.ycombinator.com/item?id=33013329)
+- [Ask HN: What are good self hosted time tracking software for consultants? (2022)](https://news.ycombinator.com/item?id=34013754)

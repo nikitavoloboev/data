@@ -322,3 +322,4 @@ title: Svelte
 - [SvelteKit 1.0 (2022)](https://svelte.dev/blog/announcing-sveltekit-1.0) ([HN](https://news.ycombinator.com/item?id=33986555))
 - [Learn SvelteKit course](https://levelup.video/tutorials/sveltekit)
 - [Using SvelteKit 1.0 on Vercel (2022)](https://vercel.com/blog/using-sveltekit-1-0-on-vercel)
+- [SvelteKit is my mistress (2022)](https://www.youtube.com/watch?v=uEJ-Rnm2yOE)

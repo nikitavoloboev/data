@@ -74,3 +74,4 @@ That's why it's so essential everyone acts nicely to each other. Because in some
 - [Beyond Meat is struggling, and the plant-based meat industry worries (2022)](https://www.nytimes.com/2022/11/21/business/beyond-meat-industry.html) ([HN](https://news.ycombinator.com/item?id=33773135))
 - [Growing muscles on vegan diet](https://www.reddit.com/r/veganfitness/comments/zhrfr6/im_beginning_my_vegan_lifestyle_ive_always/)
 - [Plant Protein vs Animal Protein](https://www.reddit.com/r/nutrition/comments/zl66tk/plant_protein_vs_animal_protein/)
+- [My kid doesn't want to be vegan any more](https://www.reddit.com/r/vegan/comments/zmrxcm/im_devastated_my_kid_doesnt_want_to_be_vegan/)

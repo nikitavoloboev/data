@@ -159,3 +159,4 @@ title: OCaml
 - [OCaml behind the scenes: exceptions (2022)](https://github.com/fabbing/obts_exn)
 - [Computations that differentiate, debug, and document themselves (2022)](https://blog.janestreet.com/computations-that-differentiate-debug-and-document-themselves/)
 - [OCaml Jupyter](https://github.com/akabe/ocaml-jupyter) - OCaml kernel for Jupyter (IPython) notebook.
+- [OCaml 5.0 Multicore is out](https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974) ([HN](https://news.ycombinator.com/item?id=34014073)) ([HN](https://news.ycombinator.com/item?id=34013767))
