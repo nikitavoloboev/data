@@ -448,3 +448,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [How Type Influences Readability (2022)](https://fonts.google.com/knowledge/readability_and_accessibility/how_type_influences_readability)
 - [Fontations](https://github.com/googlefonts/fontations) - Reading and writing font files.
 - [Typography in Severance](https://severance.wiki/typography)
+- [What are your favorite fonts?](https://twitter.com/uiuxadrian/status/1603822021611343872)
