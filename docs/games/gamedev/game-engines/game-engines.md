@@ -165,3 +165,4 @@
 - [A Game Engine in the Elm Style (2020)](https://vsyncronicity.com/2020/03/01/a-game-engine-in-the-elm-style/)
 - [Creating a 2D physics engine from scratch in JavaScript (2022)](https://ailef.tech/2022/11/12/creating-a-2d-physics-engine-from-scratch-in-javascript/)
 - [Awesome Game Engine Development](https://github.com/stevinz/awesome-game-engine-dev)
+- [The Coming Game Engine Inflection Point (2022)](https://members.newdesigncongress.org/the-coming-game-engine-inflection-point/) ([HN](https://news.ycombinator.com/item?id=34008635))

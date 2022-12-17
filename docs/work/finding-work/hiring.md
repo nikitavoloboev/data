@@ -178,3 +178,4 @@ I like [Tesla's simple hiring page](https://www.tesla.com/AI) with just one ques
 - [Normalising Layoffs/Firing (2022)](https://news.ycombinator.com/item?id=33200261)
 - [Ask HN: Who’s been laid off and what’s your strategy for seeking new employment (2022)](https://news.ycombinator.com/item?id=33242807)
 - [Layoffs.fyi](https://layoffs.fyi/) - Tech Layoff Tracker and Startup Layoff Lists.
+- [Ask HN: What prevents a company from hiring remote employees internationally? (2022)](https://news.ycombinator.com/item?id=33996871)

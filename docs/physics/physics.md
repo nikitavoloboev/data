@@ -354,3 +354,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Large Hadron Collider Beauty releases first set of data to the public (2022)](https://home.cern/news/news/knowledge-sharing/lhcb-releases-first-set-data-public)
 - [Electromagnetic wave simulation](https://cemsim.com/) ([Code](https://github.com/RobinKa/maxwell-simulation))
 - [Irrelevant Topics In Physics](https://github.com/thoppe/Presentation_Irrelevant_Topics_In_Physics)
+- [ViSNet: a scalable and accurate geometric deep learning potential for molecular dynamics simulation (2022)](https://arxiv.org/abs/2210.16518) ([Code](https://github.com/microsoft/ViSNet))

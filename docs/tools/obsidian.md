@@ -44,6 +44,7 @@ div.CodeMirror-cursor,
 ## Plugins
 
 - [Dual](https://github.com/Psionica/dual-obsidian-client) - Skilled virtual assistant for Obsidian. ([Article](https://paulbricman.com/thoughtware/dual))
+- [Make.md](https://www.make.md/) - Features to focus on writing in Obsidian. ([Reddit](https://www.reddit.com/r/ObsidianMD/comments/zn6088/makemd_now_available_as_obsidian_plugin/))
 - [Ava](https://github.com/louis030195/obsidian-ava) - AI-enhanced reflection in Obsidian.
 - [Semantic Search](https://github.com/louis030195/obsidian-search)
 - [Obsidian Sample Plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Sample plugin for Obsidian.

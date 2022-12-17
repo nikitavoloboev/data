@@ -648,3 +648,4 @@ title: Linux
 - [Userspace isn't slow, some kernel interfaces are (2022)](https://tailscale.com/blog/throughput-improvements/) ([HN](https://news.ycombinator.com/item?id=33972221))
 - [Ask HN: Are Any of You Tired from macOS and Want to Go Back to Linux? (2022)](https://news.ycombinator.com/item?id=33969026)
 - [pcstat](https://github.com/tobert/pcstat) - Get page cache stats for files on Linux.
+- [A Linux Evening (2022)](https://fabiensanglard.net/a_linux_evening/index.html) ([HN](https://news.ycombinator.com/item?id=34013195))

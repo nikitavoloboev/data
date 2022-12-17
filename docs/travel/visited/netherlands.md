@@ -9,6 +9,7 @@ Amsterdam is my favorite city I've lived in thus far. I love how every city in N
   - Dal Vrij (unlimited weekend + unlimited off peak hours) is great if you travel very often (i.e. work in one city and live in another).
 - Heath insurance is mandatory. I used [Unive](https://www.unive.nl/) and [cz.nl](https://www.cz.nl) cheapest plans they had. There might be even [cheaper ones available](https://www.zilverenkruis.nl/English/insurances/national-healthcare-insurance/Paginas/default.aspx).
 - UWV (unemployment) benefits. [werk.nl](https://www.werk.nl/werk_nl/werknemer/home). [uwv.nl](https://www.uwv.nl/particulieren/). Need to work certain number of hours in a year to be qualified for the benefits. Submit income statement first of every month on [uwv.nl](https://www.uwv.nl/particulieren/formulieren/invullen-inkomstenopgave.aspx). Need to show applications to 5 jobs every 4 weeks ([Uw sollicitatieactiviteiten doorgeven](https://digid.werk.nl/werk_nl/werknemer/mijn_werkmap/doorgeven/taken)). Can always arrange meeting or message for help on werk.nl website.
+- NL has no capital gains tax.
 
 ## Links
 
@@ -58,3 +59,4 @@ Amsterdam is my favorite city I've lived in thus far. I love how every city in N
 - [What would you change about Amsterdam? (2022)](https://www.reddit.com/r/Amsterdam/comments/yrco2i/what_would_you_change_about_amsterdam/)
 - [Sirius Smart Shop](https://www.sirius.nl/en/)
 - [Louwman Museum](https://www.louwmanmuseum.nl/)
+- [Dutch FIRE Reddit](https://www.reddit.com/r/DutchFIRE/)

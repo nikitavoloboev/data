@@ -624,3 +624,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pg-pubsub](https://github.com/imqueue/pg-pubsub) - Reliable PostgreSQL LISTEN/NOTIFY with inter-process lock support.
 - [Wrappers](https://github.com/supabase/wrappers) - Postgres Foreign Data Wrapper development framework in Rust.
 - [IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open-source Oracle-compatible PostgreSQL. ([HN](https://news.ycombinator.com/item?id=34007403))
+- [Supabase Vault is now in Beta (2022)](https://supabase.com/blog/vault-now-in-beta) ([HN](https://news.ycombinator.com/item?id=34015167))

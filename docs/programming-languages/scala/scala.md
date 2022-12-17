@@ -176,3 +176,4 @@ title: Scala
 - [Scala 3 is not production ready (2022)](https://gvolpe.com/blog/scala3-is-not-prod-ready/) ([HN](https://news.ycombinator.com/item?id=33687179))
 - [Scala 3 Macros Deep Dive](https://github.com/Lumintorious/Scala-3-Macros-Deep-Dive)
 - [Working With Thrift Unions in Scala (2021)](https://jsatk.us/posts/working-with-thrift-unions-in-scala/)
+- [Lichess gets a big upgrade. It doesn't go as planned (2022)](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX) ([HN](https://news.ycombinator.com/item?id=34002526))

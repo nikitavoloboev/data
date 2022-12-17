@@ -630,3 +630,4 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
 - [Consider Using CSV](https://jfhr.me/consider-using-csv/) ([HN](https://news.ycombinator.com/item?id=33934060))
 - [MIT Fast Code Seminar](http://fast-code.csail.mit.edu/) ([HN](https://news.ycombinator.com/item?id=33954314))
+- [Tiny Code Christmas](https://tcc.lovebyte.party/)

@@ -122,3 +122,4 @@ title: WebRTC
 - [WASM-Peers](https://github.com/wasm-peers/wasm-peers) - Easy-to-use wrapper for WebRTC DataChannels peer-to-peer connections written in Rust and compiling to WASM.
 - [WebRTC Binaries for iOS and macOS](https://github.com/stasel/WebRTC)
 - [Emerging standards in WebRTC live streaming (2022)](https://cloudflare.tv/event/PZ5wXGv2)
+- [Adding WebRTC support to OBS using Rust](https://github.com/obsproject/obs-studio/pull/7926) ([HN](https://news.ycombinator.com/item?id=34000330)) ([HN](https://news.ycombinator.com/item?id=33989206))

@@ -233,3 +233,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [beanstalkd](https://github.com/beanstalkd/beanstalkd) - Fast general purpose work queue.
 - [aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [Ask HN: How do you deploy your side-projects? (2022)](https://news.ycombinator.com/item?id=33968378)
+- [Things I want from Devs as SRE/DevOps (2022)](https://oschvr.com/posts/what-id-like-as-sre/) ([HN](https://news.ycombinator.com/item?id=34006463))

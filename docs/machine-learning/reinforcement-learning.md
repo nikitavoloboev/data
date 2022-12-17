@@ -416,3 +416,4 @@ title: Reinforcement learning
 - [Causal-MBRL](https://github.com/polixir/causal-mbrl) - Toolkit of Causal Model-based Reinforcement Learning.
 - [Illustrating Reinforcement Learning from Human Feedback (RLHF) (2022)](https://huggingface.co/blog/rlhf)
 - [Alpha Zero General](https://github.com/suragnair/alpha-zero-general) - Simplified, highly flexible, commented and (hopefully) easy to understand implementation of self-play based reinforcement learning based on the AlphaGo Zero paper.
+- [Peter Norvig critically reviews AlphaCode’s code quality](https://github.com/norvig/pytudes/blob/main/ipynb/AlphaCode.ipynb) ([HN](https://news.ycombinator.com/item?id=34020025))

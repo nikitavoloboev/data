@@ -982,3 +982,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [A Look at dyn\* Code Generation (2022)](https://blog.theincredibleholk.org/blog/2022/12/12/dyn-star-codegen/)
 - [A neat XOR trick (2022)](https://www.mattkeeter.com/blog/2022-12-10-xor/) ([HN](https://news.ycombinator.com/item?id=33948060))
 - [When types lie - a rust themed whodunnit (2022)](https://www.craft.do/s/Sn32pevFn2XYHO)
+- [Cranelift Progress in 2022](https://bytecodealliance.org/articles/cranelift-progress-2022) ([Reddit](https://www.reddit.com/r/rust/comments/zmqj0g/cranelift_progress_in_2022/))

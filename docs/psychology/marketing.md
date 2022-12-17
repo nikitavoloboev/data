@@ -204,6 +204,7 @@ Best way to do marketing is simply [launching features often and sharing updates
 - [How to be a writer on a marketing team without sounding like a jerk](https://a.wholelottanothing.org/2022/12/07/how-to-be-a-writer-on-a-marketing-team-without-sounding-like-a-jerk/)
 - [Startup Handbook: Landing Page Copywriting](https://www.julian.com/guide/startup/landing-pages)
 - [Landing Page Copywriting Advice](https://twitter.com/dan_abramov/status/1603395450006126594)
+- [Vintage Apple advertisements](https://www.printmag.com/advertising/making-the-mac-20-vintage-apple-ads/) ([HN](https://news.ycombinator.com/item?id=34007654))
 
 ## Images
 

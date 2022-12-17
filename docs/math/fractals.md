@@ -73,3 +73,4 @@
 - [3D fractal explorer](https://github.com/sjoerd-code/mandelbulb)
 - [Fractal Garden](https://www.fractal.garden/) - Exhibition of Mathematical Beauty. ([HN](https://news.ycombinator.com/item?id=33144556)) ([Code](https://github.com/trebeljahr/fractal-garden))
 - [Crouching Trig, Hidden Fractal](https://kylehovey.github.io/blog/crouching-trig-hidden-fractal)
+- [Vintage-Style Map of the Mandelbrot Set (2022)](https://kottke.org/22/12/vintage-map-mandelbrot-set) ([HN](https://news.ycombinator.com/item?id=34004927))
