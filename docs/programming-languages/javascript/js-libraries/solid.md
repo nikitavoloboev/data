@@ -178,3 +178,4 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [Solid Plyr](https://github.com/git-ced/solid-plyr) - Simple HTML5, YouTube, and Vimeo player (Plyr) for SolidJS.
 - [Solid Supabase](https://github.com/wobsoriano/solid-supabase) - Simple wrapper around Supabase.js to enable usage within Solid.
 - [Storybook Solid](https://github.com/elite174/storybook-solid-js)
+- [SolidStart implementation of NextAuth](https://github.com/OrJDev/auth-solid)

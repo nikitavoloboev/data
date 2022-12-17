@@ -126,3 +126,4 @@ title: TensorFlow
 - [TensorFlow Decision Forests](https://github.com/tensorflow/decision-forests) - Collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras.
 - [tfreader](https://github.com/spotify/tfreader) - TensorFlow TFRecord reader CLI tool.
 - [TFTS (TensorFlow Time Series)](https://github.com/LongxingTan/Time-series-prediction) - Easy-to-use python package for time series, supporting the classical and SOTA deep learning methods in TensorFlow or Keras.
+- [Realbook](https://github.com/spotify/realbook) - Easier audio-based machine learning with TensorFlow.

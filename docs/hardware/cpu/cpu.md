@@ -189,3 +189,4 @@ Curious how [TSMC](https://www.tsmc.com/english) manages to squeeze so much perf
 - [A bug fix in the 8086 microprocessor, revealed in the die's silicon (2022)](http://www.righto.com/2022/11/a-bug-fix-in-8086-microprocessor.html)
 - [ARM1 Gate-level Simulation](http://visual6502.org/sim/varm/armgl.html) ([HN](https://news.ycombinator.com/item?id=33761102))
 - [Knight’s Landing: Atom with AVX-512 (2022)](https://chipsandcheese.com/2022/12/08/knights-landing-atom-with-avx-512/)
+- [TSMC: Semiconductors and Borders of Light (2022)](https://twitter.com/mariogabriele/status/1602019346339045376)
