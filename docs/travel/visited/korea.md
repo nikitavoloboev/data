@@ -9,3 +9,4 @@
 - [How North Korea Became So Insanely Poor (2022)](https://www.youtube.com/watch?v=CJKNwhhOTV8)
 - [Open-Korean-Text](https://github.com/open-korean-text/open-korean-text) - Open-source Korean Text Processor.
 - [The REAL Reason North Korea Hates the USA (2022)](https://www.youtube.com/watch?v=Jt7hE12n11s)
+- [South Korea is in a Hidden Crisis (2022)](https://www.youtube.com/watch?v=kEDPsOEQbl0)

@@ -308,6 +308,7 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [Discriminated Unions in Typescript (2022)](https://marcocetica.com/posts/discriminated_unions/)
 - [Collection of patterns for TypeScript 4.9](https://github.com/adamshaylor/cooking-with-typescript)
 - [Rewriting TypeScript in Rust? (2022)](https://www.totaltypescript.com/rewriting-typescript-in-rust) ([HN](https://news.ycombinator.com/item?id=33982347))
+- [TS Enums considered harmful (2022)](https://www.youtube.com/watch?v=jjMbPt_H3RQ)
 
 ## Images
 

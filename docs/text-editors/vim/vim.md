@@ -8,9 +8,9 @@ The best text editing experience you will ever get. It is worth learning it as y
 
 I use [VSCode](../vs-code/vs-code.md) with [vim bindings](https://github.com/VSCodeVim/Vim) as my main code editor. I also use vim bindings for any apps that deals with texts like [Obsidan](../../tools/obsidian.md) or [Sublime Text](../sublime-text/sublime-text.md). Vim bindings often mean modal bindings, i.e. I use [Vimari](https://github.com/televator-apps/vimari) to move inside [Safari](../../web/browsers/safari.md) browser faster.
 
-I use [Neovim](https://github.com/neovim/neovim) instead of vim and my vimrc can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). And [here](vim-plugins.md) are all the plugins I use with it.
+[Neovim](https://github.com/neovim/neovim) is modern version of vim and my vimrc can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). And [here](vim-plugins.md) are all the plugins I have setup with it.
 
-I switch between Ayu Light and Ayu Mirage themes as I change between macOS appearances.
+It switches between Ayu Light and Ayu Mirage themes as I change between macOS appearances.
 
 ![](https://i.imgur.com/LKSOmms.png)
 
@@ -20,9 +20,9 @@ I switch between Ayu Light and Ayu Mirage themes as I change between macOS appea
 
 > Ayu Mirage
 
-I also use a little trick where I change the cursor from thin block in insert mode to underline when in normal mode. This lets me quickly know which mode I am in.
+I also use a little trick where I change the cursor from thin block in insert mode to underline when in normal mode. This lets me quickly know which mode I am in. I do same in VSCode as that's my main editor to write code in. I do look into new vim plugins for inspiration for plugins to build in VSCode.
 
-[This](https://www.youtube.com/watch?v=w7i4amO_zaE) is a nice overview of how you can build your vimrc from scratch.
+[This](https://www.youtube.com/watch?v=w7i4amO_zaE) & [this](https://www.youtube.com/watch?v=stqUbv-5u2s) are nice overviews of how you can build your vimrc from scratch.
 
 ## Notes
 
@@ -337,3 +337,4 @@ zz
 - [Neovim Conference 2022](https://www.youtube.com/watch?v=z9SuyhSHOWs)
 - [Vid in which Vim Saves Me Hours & Hundreds of Clicks](https://www.youtube.com/watch?v=hraHAZ1-RaM)
 - [0 to LSP : Neovim RC From Scratch (2022)](https://www.youtube.com/watch?v=w7i4amO_zaE)
+- [Effective Neovim: Instant IDE (2022)](https://www.youtube.com/watch?v=stqUbv-5u2s)

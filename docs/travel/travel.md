@@ -146,3 +146,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [The Maddening Mess of Airport Codes (2022)](https://www.youtube.com/watch?v=jfOUVYQnuhw) ([HN](https://news.ycombinator.com/item?id=33948915))
 - [Working Efficiently as a Digital Nomad (2022)](https://theari.dev/blog/working-efficiently-as-a-digital-nomad/)
 - [Airport Codes](https://airportcod.es/) - Making sense of those three-letter airport codes. ([Code](https://github.com/lynnandtonic/airport-codes))
+- [Luxury Escapes](https://luxuryescapes.com/) - Handpicked Escapes.
