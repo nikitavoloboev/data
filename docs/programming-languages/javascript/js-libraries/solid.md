@@ -20,6 +20,7 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 
 ## OSS apps
 
+- [CodeImage](https://github.com/riccardoperra/codeimage)
 - [Solid Hacker News](https://github.com/solidjs/solid-hackernews)
 - [Solid Storefront](https://github.com/zaiste/solid-storefront) - Open-source e-commerce storefront in Solid.js with TypeScript, GraphQL, URQL & Tailwind CSS.
 - [Chrome Extension Boilerplate with SolidJS + Vite + TypeScript](https://github.com/fuyutarow/solid-chrome-extension-template)

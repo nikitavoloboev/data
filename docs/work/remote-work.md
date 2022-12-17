@@ -168,3 +168,4 @@
 - [Ask HN: Why don't I see gold at the end of the remote working rainbow? (2022)](https://news.ycombinator.com/item?id=33259351)
 - [Making remote company culture more lively](https://twitter.com/ShaanVP/status/1588589924072443904)
 - [Ask HN: Why isn't remote work advertised as a pro environment initiative? (2022)](https://news.ycombinator.com/item?id=33690719)
+- [What I learned at GitLab that I don't want to forget (2022)](https://boleary.dev/what-i-learned-at-gitlab-that-i-dont-want-to-forget/) ([HN](https://news.ycombinator.com/item?id=33963614))

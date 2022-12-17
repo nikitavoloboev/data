@@ -8,7 +8,7 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 
 [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/) is a nice intro.
 
-[LangChain](https://github.com/hwchase17/langchain/) is interesting. [Lightning GPT](https://github.com/Lightning-AI/lightning-gpt) is nice minimal GPT implementation.
+[LangChain](https://github.com/hwchase17/langchain/) & [Petals](https://petals.ml/) are interesting. [Lightning GPT](https://github.com/Lightning-AI/lightning-gpt) is nice minimal GPT implementation.
 
 ## Notes
 
@@ -650,7 +650,7 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Phraser](https://phraser.tech/) - Better way to generate prompts.
 - [Seminar on Large Language Models (2022)](https://github.com/craffel/llm-seminar)
 - [DocQuery](https://github.com/impira/docquery) - Document Query Engine Powered by NLP. ([Article](https://www.impira.com/blog/hey-machine-whats-my-invoice-total)) ([Tweet](https://twitter.com/ankrgyl/status/1565437042032402433))
-- [Petals](https://github.com/bigscience-workshop/petals) - Decentralized platform for running 100B+ language models.
+- [Petals](https://github.com/bigscience-workshop/petals) - Decentralized platform for running 100B+ language models. ([Web](https://petals.ml/))
 - [LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding (2022)](https://arxiv.org/abs/2202.13669) ([Code](https://github.com/jpWang/LiLT))
 - [ekphrasis](https://github.com/cbaziotis/ekphrasis) - Text processing tool, geared towards text from social networks.
 - [ALToolbox](https://github.com/AIRI-Institute/al_toolbox) - Framework for practical active learning in NLP.

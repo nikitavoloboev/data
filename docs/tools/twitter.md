@@ -297,3 +297,4 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [Twitter Media](https://media.okikio.dev/) - Enter a Tweet URL to download the video/image in it. ([Code](https://github.com/okikio/twitter-media))
 - [Render tweet into beautiful markdown](https://github.com/silentroach/tweet.md)
 - [The Fifth Estate (2022)](https://www.piratewires.com/p/the-fifth-estate)
+- [The Twitter Files, Part Six (2022)](https://twitter.com/mtaibbi/status/1603857534737072128) ([HN](https://news.ycombinator.com/item?id=34020654))

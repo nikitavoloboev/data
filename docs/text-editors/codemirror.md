@@ -21,3 +21,4 @@ title: CodeMirror
 - [CodeMirror Interact](https://github.com/replit/codemirror-interact) - CodeMirror extension that lets you interact with different values (clicking, dragging, etc).
 - [CodeMirror HTML support](https://github.com/codemirror/lang-html)
 - [CodeMirror Lint](https://github.com/codemirror/lint) - Linting support for the CodeMirror code editor.
+- [Solid CoreMirror](https://github.com/riccardoperra/solid-codemirror)

@@ -68,3 +68,4 @@
 - [Inkbase: Programmable Ink (2022)](https://www.inkandswitch.com/inkbase/) ([HN](https://news.ycombinator.com/item?id=33799512))
 - [Desk](https://github.com/Hihaheho/Desk) - Application platform for your cyberpunk desk.
 - [Nutshell](https://github.com/ncase/nutshell) - Make expandable explanations. ([Web](https://ncase.me/nutshell/))
+- [Weathering Software Winter (2022)](https://www.youtube.com/watch?v=9TJuOwy4aGA)

@@ -113,3 +113,4 @@ title: Elm
 - [Elm tree sitter](https://github.com/elm-tooling/tree-sitter-elm)
 - [Introducing Elm as a frontend contender (2022)](https://nais.io/blog/posts/elm/) ([Lobsters](https://lobste.rs/s/rkgbnt/introducing_elm_as_frontend_contender))
 - [SVGs as Elm Code (2022)](https://blog.noredink.com/post/699829728548372480/svgs-as-elm-code) ([HN](https://news.ycombinator.com/item?id=33444832))
+- [Gaining insight into your codebase with elm-review (2022)](https://jfmengels.net/elm-review-insights/)

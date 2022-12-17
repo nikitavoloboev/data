@@ -891,3 +891,4 @@ title: Kubernetes
 - [K8s Node Health Check Operator](https://github.com/medik8s/node-healthcheck-operator)
 - [Worker Pod Autoscaler](https://github.com/practo/k8s-worker-pod-autoscaler) - Kubernetes autoscaler for the workers. Resource is called WPA. Queues Supported: SQS, Beanstalkd.
 - [K8S Objects Generator](https://github.com/kubewarden/k8s-objects-generator) - CLI tool that generates Kubernetes Go types that can be used with TinyGo starting from the official OpenAPI spec.
+- [How to onboard an existing Helm application in ArgoCD (2022)](https://www.aviator.co/blog/how-to-onboard-an-existing-helm-application-in-argocd/)

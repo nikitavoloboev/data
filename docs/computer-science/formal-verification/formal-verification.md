@@ -159,3 +159,4 @@ title: Formal verification
 - [Formal verification tools](https://github.com/johnyf/tool_lists)
 - [The Case for Models (2022)](https://concerningquality.com/models/)
 - [Combining Model Checking and Testing (2016)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main-24.pdf) ([Lobsters](https://lobste.rs/s/gd5gka/combining_model_checking_testing))
+- [Proofs about programs - interactive tutorial](https://busy-beavers.tigyog.app/proofs-about-programs) ([Lobsters](https://lobste.rs/s/yequwk/proofs_about_programs_interactive))

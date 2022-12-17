@@ -6,6 +6,10 @@ title: Blender
 
 > Free and open source 3D creation suite.
 
+[Dream Textures](https://github.com/carson-katri/dream-textures) is neat.
+
+## Links
+
 - [Blender code](https://github.com/blender/blender)
 - [Maps Models Importer](https://github.com/eliemichel/MapsModelsImporter) - Blender add-on to import models from google maps.
 - [Awesome Blender](https://github.com/agmmnn/awesome-blender)

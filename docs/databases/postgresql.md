@@ -622,6 +622,6 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Supabase Storage v2: Image resizing and Smart CDN (2022)](https://supabase.com/blog/storage-image-resizing-smart-cdn)
 - [Supabase Storage Middleware](https://github.com/supabase/storage-api) - S3 compatible object storage service that stores metadata in Postgres.
 - [pg-pubsub](https://github.com/imqueue/pg-pubsub) - Reliable PostgreSQL LISTEN/NOTIFY with inter-process lock support.
-- [Wrappers](https://github.com/supabase/wrappers) - Postgres Foreign Data Wrapper development framework in Rust.
+- [Supabase Wrappers](https://github.com/supabase/wrappers) - Postgres Foreign Data Wrapper development framework in Rust. ([Article](https://supabase.com/blog/postgres-foreign-data-wrappers-rust)) ([HN](https://news.ycombinator.com/item?id=34001493))
 - [IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open-source Oracle-compatible PostgreSQL. ([HN](https://news.ycombinator.com/item?id=34007403))
 - [Supabase Vault is now in Beta (2022)](https://supabase.com/blog/vault-now-in-beta) ([HN](https://news.ycombinator.com/item?id=34015167))

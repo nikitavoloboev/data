@@ -921,3 +921,4 @@ if *boolArgPtr != false {
 - [7 days Go programs from scratch](https://github.com/geektutu/7days-golang)
 - [Go 2 Draft Designs](https://go.googlesource.com/proposal/+/master/design/go2draft.md)
 - [Building Go programs with Nix Flakes (2022)](https://xeiaso.net/blog/nix-flakes-go-programs) ([HN](https://news.ycombinator.com/item?id=33984072))
+- [Rubbing control theory on the Go scheduler (2022)](https://www.cockroachlabs.com/blog/rubbing-control-theory/)

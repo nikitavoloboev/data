@@ -12,3 +12,4 @@ title: Ember.js
 - [Ember RFCs](https://emberjs.github.io/rfcs/)
 - [Introducing @use (2020)](https://www.pzuraq.com/blog/introducing-use)
 - [Glint](https://github.com/typed-ember/glint) - TypeScript-powered tooling for Glimmer templates.
+- [Wacky Tricks We Use in Publishing TypeScript Types (for Ember.js) (2022)](https://www.youtube.com/watch?v=VuF3GY-Ho-s)

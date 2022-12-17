@@ -387,3 +387,4 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Sonic](https://github.com/go-sonic/sonic) - Go Blogging Platform. Simple and Powerful.
 - [Ooh.directory](https://ooh.directory/) - Collection of 852 blogs about every topic. ([HN](https://news.ycombinator.com/item?id=33719983)) ([Tweet](https://twitter.com/philgyford/status/1595429826206253057))
 - [Great engineering long form writing](https://twitter.com/GergelyOrosz/status/1596073995044278272)
+- [Devblogs](https://devblogs.co/) - Feed of engineering blogs from top tech companies. ([HN](https://news.ycombinator.com/item?id=33991432))

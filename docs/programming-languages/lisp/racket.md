@@ -159,3 +159,4 @@ title: Racket
 - [Resyntax](https://github.com/jackfirth/resyntax) - Racket refactoring engine.
 - [Shallow Typed Racket (2020)](https://cs.brown.edu/people/bgreenma/resources/talks/g-rcon-2020.pdf)
 - [Intermediate Student with Lambda (ISL+) Enhanced with Specification support via Quickcheck](https://github.com/dbp/isl-spec)
+- [Introduction to Racket with Pictures](https://docs.racket-lang.org/quick/)

@@ -727,3 +727,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [MindFlare](https://github.com/thousandyears/MindFlare) - Lexicon editor.
 - [Protocols As Practice Projects: Or, Why RFCs aren't (that) scary (2022)](https://naiveai.hashnode.dev/protocols-as-practice-projects)
 - [Ventusky](https://www.ventusky.com/) - Wind, Rain and Temperature Maps.
+- [I Asked ChatGPT to Explain Some Jokes to Me](https://susam.net/maze/chatgpt-explains-jokes.html) ([HN](https://news.ycombinator.com/item?id=34027318))

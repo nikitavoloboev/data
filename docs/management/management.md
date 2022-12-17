@@ -234,3 +234,4 @@ Top things that I think are [must have for productive working environment](https
 - [Managing tech debt in teams](https://twitter.com/clairevo/status/1592561009671409664)
 - [Scrum Report](https://github.com/obalunenko/scrum-report) - Daily stand up meeting scrum report generator in markdown format for slack.
 - [Engineering Management Resources](https://github.com/charlax/engineering-management)
+- [Writing good performance self reviews](https://andrewhuth.substack.com/p/writing-good-performance-self-reviews) ([HN](https://news.ycombinator.com/item?id=34019693))

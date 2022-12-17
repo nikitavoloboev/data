@@ -359,7 +359,7 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [PL Papers You Might Love Newsletter](https://newsletter.papersyoumightlove.pl/)
 - [ogma](https://github.com/kdr-aus/ogma) - Scripting language focused on processing tabular data.
 - [massCode](https://github.com/massCodeIO/massCode) - Free and open source code snippets manager for developers. ([Web](https://masscode.io/))
-- [CodeImage](https://codeimage.dev/) - Create elegant screenshots of your source code. ([Code](https://github.com/riccardoperra/codeimage))
+- [CodeImage](https://codeimage.dev/) - Create elegant screenshots of your source code. ([Code](https://github.com/riccardoperra/codeimage)) ([Tweet](https://twitter.com/riccardoperra0/status/1603412081054810112))
 - [Course on Metaprogramming](https://github.com/namin/metaprogramming)
 - [Germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code.
 - [10 papers that all PhD students in programming languages ought to know](https://github.com/nuprl/10PL)

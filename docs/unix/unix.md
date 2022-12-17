@@ -96,3 +96,4 @@ title: Unix
 - [Time is an illusion, Unix time doubly so (2022)](https://www.netmeister.org/blog/epoch.html) ([HN](https://news.ycombinator.com/item?id=33341652))
 - [Is Everything Is A File? (2022)](https://blog.sunfishcode.online/is-everything-is-a-file/) ([Lobsters](https://lobste.rs/s/artq99/is_everything_is_file))
 - [Qnixx](https://github.com/Qnixx/src) - New Unix standard.
+- [Ask HN: Anyone using proprietary Unix at work? (2022)](https://news.ycombinator.com/item?id=34017934)

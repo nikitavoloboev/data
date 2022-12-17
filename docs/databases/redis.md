@@ -172,3 +172,4 @@ title: Redis
 - [How Gas app cut its Redis Engine CPU Utilization by 80% (2022)](https://twitter.com/daveschatz/status/1583342175005220864) ([Lobsters](https://lobste.rs/s/gzkgho/how_gas_app_cut_its_redis_engine_cpu))
 - [Redis Oxide](https://github.com/dpbriggs/redis-oxide) - Multi-threaded implementation of redis written in rust.
 - [Dice](https://github.com/DiceDB/dice) - Extremely simple Go-based in-memory KV store that speaks the Redis dialect.
+- [Launching Redis by Upstash (2022)](https://fly.io/blog/launching-redis-by-upstash/) ([HN](https://news.ycombinator.com/item?id=34005991))

@@ -616,3 +616,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Flow](https://www.flowoss.com/) - Online EPUB reader. ([Code](https://github.com/pacexy/flow))
 - [Write & Publish a Book on the Side [Short Course]](https://hassano.gumroad.com/l/write-a-book-on-the-side/only1v2)
 - [What book and author did you read that made you go "I need all of their books."?](https://www.reddit.com/r/books/comments/zbfic4/what_book_and_author_did_you_read_that_made_you/)
+- [Ask HN: Similar books to “Ray tracing in one Weekend”? (2022)](https://news.ycombinator.com/item?id=34019549)

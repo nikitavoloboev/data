@@ -41,3 +41,4 @@ title: Planetscale
 - [PlanetScale Go](https://github.com/planetscale/planetscale-go)
 - [Using ent. with PlanetScale (2022)](https://nitric.io/blog/ent-planetscale)
 - [MySQL for Developers, presented by PlanetScale](https://planetscale.com/mysql-for-developers)
+- [What Is a Query Planner? (2022)](https://planetscale.com/blog/what-is-a-query-planner) ([HN](https://news.ycombinator.com/item?id=34003797))

@@ -4,6 +4,8 @@
 
 Most useful thing to know when trying to solve problems especially related to programming is to [stop thinking about shortcuts and abstractions early](https://twitter.com/rossipedia/status/1580639227313676288). [Do the simplest thing that solves the problem. Then make pretty (add docs, nice designs, ..). Then make fast.](https://twitter.com/nvs/status/1405240039299117057)
 
+[Weathering Software Winter](https://www.youtube.com/watch?v=9TJuOwy4aGA) is inspiring talk in building things for yourself.
+
 ## Notes
 
 - [How to write fast code: reduce memory access. All of these tips stem from that: 1. Reduce the size of your data structures so more can fit in CPU cache. 2. Replace strings with numbers. 3. Make use of bit flags. Don’t waste space on booleans. 4. Access memory linearly. 5. Make judicious use of the heap. Inline the most commonly accessed values, move large or less common ones to the heap. 6. Model data like a database. Normalize commonly used structures and pass ids rather than copying them around. 7. Consider using a struct of arrays rather than an array of structs. For example, if you have two types of value, store them in separate arrays instead of a single one with a type field. This reduces memory usage and makes iterating by type linear.](https://twitter.com/devongovett/status/1504476131818237967)
@@ -631,3 +633,4 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [Consider Using CSV](https://jfhr.me/consider-using-csv/) ([HN](https://news.ycombinator.com/item?id=33934060))
 - [MIT Fast Code Seminar](http://fast-code.csail.mit.edu/) ([HN](https://news.ycombinator.com/item?id=33954314))
 - [Tiny Code Christmas](https://tcc.lovebyte.party/)
+- [More challenging projects every programmer should try (2022)](https://austinhenley.com/blog/morechallengingprojects.html) ([Lobsters](https://lobste.rs/s/hmayss/more_challenging_projects_every))

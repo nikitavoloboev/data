@@ -25,3 +25,4 @@
 - [Stump](https://github.com/aaronleopold/stump) - Free and open source comics server with OPDS support.
 - [Browse Marvel Unlimited by release year](https://marvel.geoffrich.net/) ([Code](https://github.com/geoffrich/marvel-by-year))
 - [Goomics](https://goomics.net/) - Comics about life at Google.
+- [Black Cats sad comic](https://twitter.com/JennyJinya/status/1603462510107332609)

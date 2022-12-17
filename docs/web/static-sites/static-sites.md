@@ -134,3 +134,4 @@ I liked [this article](https://sabrinajewson.org/blog/building-this-site) on bui
 - [Serving a high-performance blog website from memory only, using Rust (2022)](https://xeiaso.net/talks/how-my-website-works) ([HN](https://news.ycombinator.com/item?id=32809239)) ([Lobsters](https://lobste.rs/s/5lcybg/my_blog_is_hilariously_overengineered))
 - [Booklit](https://booklit.page/) - Tool for building static websites from semantic documents. ([Code](https://github.com/vito/booklit))
 - [Adventures in making this website: static site generation (2022)](https://prefetch.eu/blog/2022/website-adventures-generators/)
+- [Writing a Static Site Generator Using Shake (2022)](https://abhinavsarkar.net/posts/static-site-generator-using-shake/)

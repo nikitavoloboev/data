@@ -1287,3 +1287,4 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Dynamic versioning plugin for Poetry](https://github.com/mtkennerly/poetry-dynamic-versioning)
 - [Jedi Language Server](https://github.com/pappasam/jedi-language-server)
 - [Python Magic Methods You Haven't Heard About (2022)](https://martinheinz.dev/blog/87)
+- [Why I moved away from Poetry for Python (2022)](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/) ([HN](https://news.ycombinator.com/item?id=34005203)) ([Lobsters](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python))
