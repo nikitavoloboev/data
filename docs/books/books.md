@@ -350,6 +350,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Book that, when you learn someone else has read it, creates instant solidarity between you two?](https://twitter.com/tasshinfogleman/status/1599432230169821184)
 - [Ask HN: What Books helped you sharpen your brains? (2022)](https://news.ycombinator.com/item?id=33904654)
 - [The Best Books of 2022](https://kottke.org/22/12/the-best-books-of-2022)
+- [The Single Best Book You Have Ever Read (2022)](https://www.reddit.com/r/suggestmeabook/comments/znmij8/the_single_best_book_you_have_ever_read/)
 
 ## Interesting Prose Books
 

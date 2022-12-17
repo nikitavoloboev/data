@@ -222,3 +222,4 @@ title: Type Theory
 - [Erasable coercions: a unified approach to type systems (2014)](http://phd.ia0.fr/)
 - [Curry–Howard by example (2021)](https://cjquines.com/files/curryhoward.pdf)
 - [Various attempts to model version control systems in Homotopy Type Theory](https://github.com/Aqissiaq/hpt-experiments)
+- [Hindley-Milner type inference (in Rust)](https://reasoning.page/compilers/hindley-milner-rust/) ([Lobsters](https://lobste.rs/s/nshprk/hindley_milner_type_inference_rust))
