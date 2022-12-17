@@ -51,3 +51,4 @@ Some diseases are sadly unavoidable it seems even when you follow a [healthy die
 - [What causes the "mental/brain fog" during a flu or a cold and why?](https://www.reddit.com/r/askscience/comments/ywq1pb/what_causes_the_mentalbrain_fog_during_a_flu_or_a/)
 - [What causes Alzheimer's? Scientists are rethinking the answer (2022)](https://www.quantamagazine.org/what-causes-alzheimers-scientists-are-rethinking-the-answer-20221208/) ([HN](https://news.ycombinator.com/item?id=33934228))
 - [Colon Resection](https://www.youtube.com/watch?v=b0msKgqTjDU)
+- [Schizophrenia: The new etiological synthesis (2022)](https://www.sciencedirect.com/science/article/pii/S0149763422003839) ([HN](https://news.ycombinator.com/item?id=34021789))

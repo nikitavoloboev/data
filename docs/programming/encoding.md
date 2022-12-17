@@ -81,3 +81,4 @@
 - [ADBC: Arrow Database Connectivity](https://github.com/apache/arrow-adbc)
 - [hext](https://github.com/gennyble/hext) - Binary File Markup Language.
 - [MP4 file encoding explained visually](https://twitter.com/angealbertini/status/1595845629510647808) ([HN](https://news.ycombinator.com/item?id=33741701))
+- [GraphAr](https://github.com/alibaba/GraphAr) - Open source, standard data file format for graph data storage and retrieval.

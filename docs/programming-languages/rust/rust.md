@@ -16,6 +16,8 @@ I use Rust to build desktop apps with [Tauri](rust-libraries/tauri.md). But try 
 
 Enjoyed [Building Web UI's in Rust w/ Greg Johnston](https://www.youtube.com/watch?v=zgY7ql1xwW4) episode on writing Rust code for Web UIs.
 
+[Rust Atomics and Locks: Low-Level Concurrency in Practice](https://marabos.nl/atomics/) is great book.
+
 ## Templates
 
 - [Rust Service Template](https://github.com/sambacha/rust-service-template)
@@ -930,7 +932,7 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Hard Mode Rust (2022)](https://matklad.github.io/2022/10/06/hard-mode-rust.html) ([Reddit](https://www.reddit.com/r/rust/comments/xx7xci/blog_post_hard_mode_rust/)) ([Lobsters](https://lobste.rs/s/gmxvun/hard_mode_rust))
 - [You can't "turn off the borrow checker" in Rust (2018)](https://steveklabnik.com/writing/you-can-t-turn-off-the-borrow-checker-in-rust)
 - [EuroRust](https://eurorust.eu/) ([Twitter](https://twitter.com/euro_rust))
-- [Rust Atomics and Locks: Low-Level Concurrency in Practice (2022)](https://www.oreilly.com/library/view/rust-atomics-and/9781098119430/)
+- [Rust Atomics and Locks: Low-Level Concurrency in Practice (2022)](https://marabos.nl/atomics/) ([Code](https://github.com/m-ou-se/rust-atomics-and-locks))
 - [Building a modern web app with Rust, Bazel, Yew and Axum (2022)](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust)
 - [Concurrency programming via Rust Book](https://github.com/smallnest/concurrency-programming-via-rust)
 - [Why Rust? (2022)](https://www.rerun.io/blog/why-rust) ([HN](https://news.ycombinator.com/item?id=33244756)) ([Reddit](https://www.reddit.com/r/rust/comments/y71s57/why_rust/))

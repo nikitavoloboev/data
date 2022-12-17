@@ -634,3 +634,4 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [MIT Fast Code Seminar](http://fast-code.csail.mit.edu/) ([HN](https://news.ycombinator.com/item?id=33954314))
 - [Tiny Code Christmas](https://tcc.lovebyte.party/)
 - [More challenging projects every programmer should try (2022)](https://austinhenley.com/blog/morechallengingprojects.html) ([Lobsters](https://lobste.rs/s/hmayss/more_challenging_projects_every))
+- [Beautiful Software: Christopher Alexander's research initiative on computing](https://beautiful.software/) ([HN](https://news.ycombinator.com/item?id=34011469))
