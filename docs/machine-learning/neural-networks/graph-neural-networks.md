@@ -141,3 +141,4 @@
 - [PolyWorld: Polygonal Building Extraction with Graph Neural Networks in Satellite Images (2021)](https://arxiv.org/abs/2111.15491) ([Code](https://github.com/zorzi-s/PolyWorldPretrainedNetwork))
 - [Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs (2022)](https://arxiv.org/abs/2206.11990) ([Code](https://github.com/lucidrains/equiformer-pytorch))
 - [Universal Graph Transformer Self-Attention Networks (2022)](https://github.com/daiquocnguyen/Graph-Transformer)
+- [Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals](https://github.com/materialsvirtuallab/megnet)

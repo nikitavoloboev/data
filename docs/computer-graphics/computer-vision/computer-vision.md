@@ -1043,3 +1043,4 @@
 - [DifFace: Blind Face Restoration with Diffused Error Contraction](https://github.com/zsyOAOA/DifFace)
 - [What do Vision Transformers Learn? A Visual Exploration](https://github.com/hamidkazemi22/vit-visualization)
 - [Images Speak in Images: A Generalist Painter for In-Context Visual Learning (2022)](https://arxiv.org/abs/2212.02499) ([Code](https://github.com/baaivision/Painter))
+- [ShuffleMixer: An Efficient ConvNet for Image Super-Resolution](https://github.com/sunny2109/ShuffleMixer)

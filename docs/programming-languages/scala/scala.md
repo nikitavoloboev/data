@@ -6,6 +6,8 @@ title: Scala
 
 [Lichess](https://github.com/lichess-org/lila) is amazing Chess service that's built with Scala. [Scala Bootcamp](https://github.com/evolution-gaming/scala-bootcamp) & [Rock the JVM](https://rockthejvm.com/) courses are nice.
 
+[Learn Scala 3 The Fast Way](https://alvinalexander.gumroad.com/l/learn-scala3-fast) is nice book.
+
 ## Notes
 
 - [Scala enables abstractions which aren’t possible and/or not nearly as elegantly expressed in Kotlin due to for example the lack of native higher-kinded type (HKT), typeclasses, structural intersection/union type lattice, operator overloading, path dependent types and robust pattern matching in Kotlin (and probably many other nuances such a value types which are ostensibly useful for example for efficiently emulating new type system features)](https://www.reddit.com/r/scala/comments/ixjjmf/dotty_becomes_scala_3/)
@@ -177,3 +179,4 @@ title: Scala
 - [Scala 3 Macros Deep Dive](https://github.com/Lumintorious/Scala-3-Macros-Deep-Dive)
 - [Working With Thrift Unions in Scala (2021)](https://jsatk.us/posts/working-with-thrift-unions-in-scala/)
 - [Lichess gets a big upgrade. It doesn't go as planned (2022)](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX) ([HN](https://news.ycombinator.com/item?id=34002526))
+- [Learn Scala 3 The Fast Way (2022)](https://alvinalexander.gumroad.com/l/learn-scala3-fast)

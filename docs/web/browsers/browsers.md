@@ -268,3 +268,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [Pandora](https://github.com/thomscoder/pandora) - Toy browser engine written in Go and compiled in WASI.
 - [Browser Gopher](https://github.com/iansinnott/browser-gopher) - Search, aggregate, backup your browsing history from the command line.
 - [Test 8,000 URL length](https://test-length.vercel.app/) ([Code](https://github.com/Kikobeats/test-length))
+- [Dust - XP1](https://xp1.dust.tt/) - GPT-based Assistant with access to your Tabs.
