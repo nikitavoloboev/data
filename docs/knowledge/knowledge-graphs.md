@@ -1,5 +1,7 @@
 # Knowledge graphs
 
+[kglab](https://github.com/DerwenAI/kglab) is nice for building knowledge graphs.
+
 ## Links
 
 - [Beam](https://github.com/eBay/beam) - Distributed knowledge graph store.

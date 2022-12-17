@@ -150,3 +150,4 @@
 - [easy-macros](https://github.com/tdrhq/easy-macros) - Library to define less error-prone macros, faster.
 - [Imago](https://github.com/tokenrove/imago) - Image manipulation library for Common Lisp.
 - [Common Lisp Object System (CLOS)](https://hescaide.me/clos/) ([HN](https://news.ycombinator.com/item?id=33718011))
+- [The empty list (2022)](https://www.tfeb.org/fragments/2022/12/16/the-empty-list/)
