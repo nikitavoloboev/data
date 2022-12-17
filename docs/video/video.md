@@ -445,3 +445,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [LosslessCut](https://mifi.no/losslesscut/) - Swiss Army Knife of Lossless Video/Audio Editing. ([HN](https://news.ycombinator.com/item?id=33969490))
 - [YouTube Transcript](https://github.com/Kakulukian/youtube-transcript) - Fetch transcript from a YouTube video.
 - [VidCutter](https://github.com/ozmartian/vidcutter) - Modern yet simple multi-platform video cutter and joiner.
+- [Detail](https://detail.co/) - Record, remix and share inspiring video in minutes, using the superpowers of your Mac. ([Twitter](https://twitter.com/detailapp))

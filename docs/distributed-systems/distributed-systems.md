@@ -294,3 +294,4 @@
 - [Moving Away from UUIDs (2018)](https://neilmadden.blog/2018/08/30/moving-away-from-uuids/) ([HN](https://news.ycombinator.com/item?id=33699298))
 - [How Paxos and Two-Phase Commit Differ (2021)](https://predr.ag/blog/paxos-vs-2pc/)
 - [Raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine.
+- [Distributed Transactional Systems Cannot Be Fast (2019)](https://arxiv.org/abs/1903.09106) ([Tweet](https://twitter.com/penberg/status/1604011981782093852))

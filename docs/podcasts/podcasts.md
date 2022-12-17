@@ -259,3 +259,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [yt2podcast](https://github.com/gc-plp/yt2podcast) - YouTube channel to podcast server.
 - [Doughnut](https://doughnutapp.com/) - Podcast App for macOS. ([Code](https://github.com/dyerc/Doughnut))
 - [Google Podcasts](https://podcasts.google.com/)
+- [I Built an AI Chatbot Based On My Favorite Podcast (2022)](https://every.to/superorganizers/i-trained-a-gpt-3-chatbot-on-every-episode-of-my-favorite-podcast) ([Tweet](https://twitter.com/danshipper/status/1603793582120488961))
