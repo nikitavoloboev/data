@@ -488,3 +488,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [Musicaiz](https://github.com/carlosholivan/musicaiz) - Python framework for symbolic music generation, evaluation and analysis.
 - [otopoiesis](https://github.com/tomoyanonymous/otopoiesis) - Constructive audio programming environment with timeline-based view.
 - [Riffusion](https://github.com/hmartiro/riffusion-inference) - Stable diffusion for real-time music generation. ([Code](https://github.com/hmartiro/riffusion-app))
+- [Equipboard](https://equipboard.com/) - Encyclopedia of Music Gear.

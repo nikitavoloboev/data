@@ -6,6 +6,8 @@ title: Synthesizers
 
 [MiniFreak](https://www.arturia.com/products/hardware-synths/minifreak/details) seems nice. [Language for Making Languages for Making Synthesizers](https://www.youtube.com/watch?v=haEyHWokMuQ) is great talk.
 
+Love [Nils Frahm](https://www.nilsfrahm.com/)'s [synthesizers setup](https://equipboard.com/pros/nils-frahm).
+
 ## Interesting
 
 - [Behringer RD-9 Rhythm Designer](https://www.behringer.com/product.html)
