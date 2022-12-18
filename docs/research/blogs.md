@@ -250,6 +250,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Ryan Gibb](https://ryan.freumh.org/)
 - [Ivan](https://imihajlov.tk/blog/)
 - [Chris Wellons](https://nullprogram.com/)
+- [Remi Louf](https://www.thetypicalset.com/blog/index.html)
 
 ## Notes
 

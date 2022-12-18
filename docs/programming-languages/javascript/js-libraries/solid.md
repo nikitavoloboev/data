@@ -18,6 +18,8 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 
 Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../networking/graphql/graphql.md) client.
 
+[Solid Native](https://github.com/tjjfvi/solid-native) is exciting.
+
 ## OSS apps
 
 - [CodeImage](https://github.com/riccardoperra/codeimage)

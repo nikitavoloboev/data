@@ -102,3 +102,4 @@
 - [Can you predict what partners will be good parents? (2022)](https://www.reddit.com/r/datingoverthirty/comments/z2n5jt/can_you_predict_what_partners_will_be_good_parents/)
 - [No one wants to have kids anymore (2022)](https://torturechambersmalltalk.substack.com/p/safe-sex-the-consequences) ([HN](https://news.ycombinator.com/item?id=33878951))
 - [Ask HN: How do you protect your children from internet addiction? (2022)](https://news.ycombinator.com/item?id=34019486)
+- [Advice on fatherhood](https://twitter.com/simonsarris/status/1604300716700585985)

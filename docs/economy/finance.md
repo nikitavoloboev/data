@@ -10,7 +10,7 @@ It's a lightweight variation of [YNAB methodology](https://www.youneedabudget.co
 
 It would also be nice to automate moving money from main account to good ETFs. FIAT [tends to deprecate quickly](https://twitter.com/levelsio/status/1471046183141265409) so it's good idea to own hard assets ([good ETFs](investing.md#Interesting-ETFs) being the safest investment).
 
-[Mercury](https://mercury.com/) & [Column](https://news.ycombinator.com/item?id=31109170) are great company banks. [Paddle](https://www.paddle.com/) is [nice for processing payments](https://news.ycombinator.com/item?id=31522127).
+[Mercury](https://mercury.com/) & [Column](https://news.ycombinator.com/item?id=31109170) are great company banks. [Lemon Squeezy](https://www.lemonsqueezy.com/) or [Paddle](https://www.paddle.com/) are [nice for processing payments](https://news.ycombinator.com/item?id=31522127).
 
 ## Ongoing subscriptions
 

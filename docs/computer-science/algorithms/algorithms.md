@@ -125,6 +125,7 @@
 - [Collection of array rotation algorithms](https://github.com/scandum/rotate)
 - [ICPC Archives](https://icpcarchive.github.io/) - Collection of problems and solutions of final and regional ICPC contests.
 - [The Wavefunction Collapse Algorithm explained very clearly (2018)](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
+- [Notes on Algorithms](https://liuzhenglaichn.gitbook.io/algorithm/) ([Code](https://github.com/lzl124631x/algorithm))
 
 ## Images
 

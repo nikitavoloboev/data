@@ -457,3 +457,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Noogle](https://noogle.dev/) - Nix API search engine. ([Code](https://github.com/hsjobeki/noogle))
 - [Darwin build box for Nix community](https://github.com/winterqt/darwin-build-box)
 - [mission-control](https://github.com/Platonic-Systems/mission-control) - Flake-parts module for your Nix devshell scripts.
+- [Lockfile trick: Package an npm project with Nix in 20 lines (2022)](https://www.nmattia.com/posts/2022-12-18-lockfile-trick-package-npm-project-with-nix.html)

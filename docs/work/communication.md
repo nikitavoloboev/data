@@ -2,7 +2,7 @@
 
 I like asking people [what they are excited about](https://twitter.com/HelloShreyas/status/1507219196781871113).
 
-One thing I learned is to always be proactive with cold approaching people, just phrase the first message to short and actionable. Many great things came from someone sending that first message and connecting.
+One thing I learned is to always be proactive with reaching out to people. Just phrase the first message to short and actionable. Many great things came from someone sending that first message and connecting. Often times Twitter or email are best entry points.
 
 And do [ask for help](https://twitter.com/FoundersPodcast/status/1601957896627310592) kindly, many will gladly help you or advise.
 

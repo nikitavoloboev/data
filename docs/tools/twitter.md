@@ -20,7 +20,7 @@ One thing I dislike about Twitter is that it gives you no tools to actually buil
 
 Twitter will always have a special place and it will be hard to beat it at what it does best despite the fact that it's not transparent and not open source. But will see. TikTok showed that it's possible to disrupt even such giant networks if you position/market your product well.
 
-One example where Twitter not being open source is horrible is that I find it [frustrating that Twitter iOS client doesn't have the ability to long press `like` icon to bookmark](https://twitter.com/nikitavoloboev/status/1590403314264334338). If the code was open source, I would have gladly made PR for this already. For some reason non official Twitter clients have worse UX feed content so moving from official clients is a non solution for me.
+One example where Twitter not being open source is horrible is that I find it [frustrating that Twitter iOS client doesn't have the ability to long press `like` icon to bookmark](https://twitter.com/nikitavoloboev/status/1590403314264334338). If the code was open source, I would have gladly made PR for this already. For some reason non official Twitter clients have worse UX feed content so moving from official clients is a non solution for me. It'd also be great if when you visit Twitter profile, it would tell you instantly if that person is added to a list of yours.
 
 In many ways it's a matter of time that Twitter gets replaced with an open source transparent protocol that mimics all the UX features of Twitter. Innovate or die.
 

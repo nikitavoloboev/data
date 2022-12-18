@@ -451,3 +451,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [libopenapi](https://github.com/pb33f/libopenapi) - Fully featured, high performance, enterprise grade OpenAPI 3.1, 3.0 and Swagger 2.0 parser, library and toolkit for Go applications.
 - [How to Measure API Latency (2022)](https://www.nickolinger.com/blog/2022-12-05-performance-toolbox-measuring/)
 - [Ask HN: Which is your most favorite API? (2022)](https://news.ycombinator.com/item?id=33997301)
+- [Stripe API errors give links as responses for how to fix errors](https://twitter.com/siddhantgoel/status/1604147820721733633)

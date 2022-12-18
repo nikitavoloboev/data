@@ -1046,3 +1046,5 @@
 - [ShuffleMixer: An Efficient ConvNet for Image Super-Resolution](https://github.com/sunny2109/ShuffleMixer)
 - [SDFStudio: Unified Framework for Surface Reconstruction](https://autonomousvision.github.io/sdfstudio/) ([Code](https://github.com/autonomousvision/sdfstudio))
 - [SegViT: Semantic Segmentation with Plain Vision Transformers (2022)](https://arxiv.org/abs/2210.05844) ([Code](https://github.com/zbwxp/SegVit))
+- [MMEngine](https://github.com/open-mmlab/mmengine) - Foundational library for training deep learning models based on PyTorch.
+- [SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields (2022)](https://arxiv.org/abs/2212.02501) ([Code](https://github.com/astra-vision/SceneRF))
