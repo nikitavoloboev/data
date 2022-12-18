@@ -1017,3 +1017,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Normconf](https://normconf.com/) - Tech conference about all the stuff that matters in data and machine learning. ([Awesome](https://github.com/normconf/awesome-normconf)) ([Twitter](https://twitter.com/normconf)) ([Videos](https://www.youtube.com/@normconf/videos))
 - [Machine Learning for Engineers Course - YouTube (2022)](https://www.youtube.com/playlist?list=PLUrb9ObKDCj-zuzSYKpFONf3JE4W7NHLE)
 - [Uncertain: Modern Topics in Uncertainty Quantification](https://www.cis.upenn.edu/~aaroth/uncertain.html)
+- [Learn ML yourself - resources (2020)](https://dauparas.github.io/post/learning/)

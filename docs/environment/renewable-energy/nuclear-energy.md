@@ -6,6 +6,8 @@ title: Nuclear energy
 
 Nuclear energy [gets a bad reputation but its the future of renewable energy](https://twitter.com/Austen/status/1516932518288629760). High chance [fusion is likely and will be achieved by 2040](https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion).
 
+Liked the [overview of Helion's Nuclear Fusion process](https://www.youtube.com/watch?v=_bDXXWQxK38).
+
 ## Notes
 
 - [If elemental power aka nuclear was discovered last week we would be going insane with joy we just solved the climate crisis.](https://twitter.com/wolfejosh/status/1448797519073484807)

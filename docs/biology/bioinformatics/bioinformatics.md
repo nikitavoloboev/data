@@ -263,3 +263,5 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Nanoscale Instruments for Visualizing Small Proteins (2022)](https://www.youtube.com/watch?v=_gXiVOmaVSo)
 - [Latch SDK](https://github.com/latchbio/latch) - Framework to build and deploy bioinformatics workflows.
 - [LatchBio](https://latch.bio/) - End-to-end biocomputing in the browser. ([GitHub](https://github.com/latchbio)) ([Twitter](https://twitter.com/latchbio)) ([Hiring](http://kenbw.com/call.html))
+- [Robust deep learning based protein sequence design using ProteinMPNN (2022)](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1) ([Code](https://github.com/dauparas/ProteinMPNN))
+- [AlphaFold 2 & Equivariance (2020)](https://dauparas.github.io/post/af2/)
