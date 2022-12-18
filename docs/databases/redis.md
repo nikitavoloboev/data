@@ -6,6 +6,8 @@ title: Redis
 
 [Hosting Redis on Fly](https://github.com/fly-apps/redis) is nice. [node-resque](https://github.com/actionhero/node-resque) is great for background jobs. [Redcon](https://github.com/tidwall/redcon) is nice Redis based server.
 
+I use [Upstash](https://upstash.com/) as a [serverless Redis](https://www.youtube.com/watch?v=AkIGEvjsWTg).
+
 ## Notes
 
 - [Redis is great for shared memory across service instances. Solves the 'how can I make every instance of this app aware of something' problem. Examples: Session store backed by redis. Cache layer backed by redis. Async atomic Job queue.](https://twitter.com/bcomnes/status/1515000087163781120)

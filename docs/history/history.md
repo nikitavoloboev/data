@@ -216,3 +216,4 @@
 - [How the Graphical User Interface Was Invented (2022)](https://spectrum.ieee.org/graphical-user-interface)
 - ['The Color Of Dreams': Museum Releases Photos Of A Vanished World](https://www.rferl.org/a/color-photos-archive-planet-albert-kahn-history/32166970.html)
 - [“Security in the Void”: Rereading Ernst Jünger](https://www.theparisreview.org/blog/2022/12/14/security-in-the-void-rereading-ernst-junger/)
+- [What's your favorite autocratic regime?](https://twitter.com/JoePostingg/status/1604140102347018240)

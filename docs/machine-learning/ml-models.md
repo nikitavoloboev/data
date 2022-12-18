@@ -136,3 +136,4 @@ Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [gene
 - [SkyPilot](https://github.com/skypilot-org/skypilot) - Framework for easily running machine learning workloads on any cloud through a unified interface.
 - [m2cgen (Model 2 Code Generator)](https://github.com/BayesWitnesses/m2cgen) - Lightweight library which provides an easy way to transpile trained statistical models into a native code.
 - [Models - Hugging Face](https://huggingface.co/models)
+- [Training One Million Machine Learning Models in Record Time with Ray (2022)](https://www.anyscale.com/blog/training-one-million-machine-learning-models-in-record-time-with-ray) ([Tweet](https://twitter.com/robertnishihara/status/1604282355396460544))

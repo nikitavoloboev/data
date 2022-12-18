@@ -75,3 +75,4 @@
 - [Consistent Hashing (2022)](https://www.youtube.com/watch?v=UF9Iqmg94tk)
 - [Hash-based digital signatures (almost) from scratch (2022)](https://medium.com/@georgwiese/hash-based-digital-signatures-almost-from-scratch-da57e54dd774)
 - [Hashing Apples, Bananas and Cherries (2022)](https://crypto.junod.info/posts/recursive-hash/)
+- [Homomorphic hashing for secure update propagation (2019)](https://engineering.fb.com/2019/03/01/security/homomorphic-hashing/)

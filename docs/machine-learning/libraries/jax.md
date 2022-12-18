@@ -8,6 +8,8 @@ title: JAX
 
 [Robert Lange](https://github.com/RobertTLange) has nice JAX repos.
 
+Learning to use [BlackJAX](https://github.com/blackjax-devs/blackjax) to do Bayesian inference on models.
+
 ## Notes
 
 - [JAX is more like NumPy with Autograd, Jit, and TPU/GPU support](https://twitter.com/rasbt/status/1538903583365681152)

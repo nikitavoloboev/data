@@ -1048,3 +1048,4 @@
 - [SegViT: Semantic Segmentation with Plain Vision Transformers (2022)](https://arxiv.org/abs/2210.05844) ([Code](https://github.com/zbwxp/SegVit))
 - [MMEngine](https://github.com/open-mmlab/mmengine) - Foundational library for training deep learning models based on PyTorch.
 - [SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields (2022)](https://arxiv.org/abs/2212.02501) ([Code](https://github.com/astra-vision/SceneRF))
+- [Great Computer Vision startups (2022)](https://twitter.com/ai__pub/status/1604251023182163968)
