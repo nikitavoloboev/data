@@ -82,3 +82,5 @@
 - [hext](https://github.com/gennyble/hext) - Binary File Markup Language.
 - [MP4 file encoding explained visually](https://twitter.com/angealbertini/status/1595845629510647808) ([HN](https://news.ycombinator.com/item?id=33741701))
 - [GraphAr](https://github.com/alibaba/GraphAr) - Open source, standard data file format for graph data storage and retrieval.
+- [Quite OK Image is now my favorite asset format (2022)](https://nullprogram.com/blog/2022/12/18/) ([HN](https://news.ycombinator.com/item?id=34035024))
+- [PA](https://github.com/sundy-li/pa) - Native storage format based on arrow.

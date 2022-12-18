@@ -64,3 +64,4 @@ London and Edinburgh are few of my favorite cities I've been in. Might move to U
 - [Ask HN: What Is Happening in the UK? (2022)](https://news.ycombinator.com/item?id=33018142)
 - [CLI tool to query & submit UK VAT returns](https://github.com/alexheretic/mtd-vat-cli)
 - [UK Sucession (2022)](https://www.youtube.com/watch?v=wp88srtB5LE)
+- [The strange case of Britain’s demise (2022)](https://www.economist.com/britain/2022/12/12/the-strange-case-of-britains-demise) ([HN](https://news.ycombinator.com/item?id=34027930))

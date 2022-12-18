@@ -731,3 +731,5 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [New and Improved Embedding Model for OpenAI (2022)](https://openai.com/blog/new-and-improved-embedding-model/) ([HN](https://news.ycombinator.com/item?id=34003394))
 - [GPT-NeoX](https://huggingface.co/docs/transformers/model_doc/gpt_neox) ([HN](https://news.ycombinator.com/item?id=33983086))
 - [OpenAI Question Answering using Embeddings](https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb)
+- [GreaseLM: Graph REASoning Enhanced Language Models for Question Answering (2022)](https://arxiv.org/abs/2201.08860) ([Code](https://github.com/snap-stanford/GreaseLM))
+- [Rank-One Model Editing (ROME)](https://github.com/kmeng01/rome) - Locating and editing factual associations in GPT.

@@ -10,7 +10,7 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 
 [Simple-Graph](https://github.com/dpapathanasiou/simple-graph) seems like a nice graph db plugin for SQLite. [sqlite-zstd](https://github.com/phiresky/sqlite-zstd) is amazing for compression.
 
-[Go SQLite database/sql tutorial](https://earthly.dev/blog/golang-sqlite/) is great.
+[Go SQLite database/sql tutorial](https://earthly.dev/blog/golang-sqlite/) is nice. [SQLite Internals](https://www.compileralchemy.com/books/sqlite-internals/) is great read.
 
 ## Notes
 
@@ -282,4 +282,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [SQLite-loadable-rs](https://github.com/asg017/sqlite-loadable-rs) - Framework for writing fast and performant SQLite extensions in Rust. ([Intro](https://observablehq.com/@asg017/introducing-sqlite-loadable-rs)) ([HN](https://news.ycombinator.com/item?id=33973888))
 - [How I found a bug in SQLite (2022)](https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/) ([HN](https://news.ycombinator.com/item?id=33945115))
 - [sqlite3_ext](https://github.com/CGamesPlay/sqlite3_ext) - Build loadable extensions for SQLite using Rust.
-- [SQLite Internals: How The World's Most Used Database Works](https://www.compileralchemy.com/books/sqlite-internals/)
+- [SQLite Internals: How The World's Most Used Database Works](https://www.compileralchemy.com/books/sqlite-internals/) ([HN](https://news.ycombinator.com/item?id=34032990))

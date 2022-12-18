@@ -355,3 +355,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Electromagnetic wave simulation](https://cemsim.com/) ([Code](https://github.com/RobinKa/maxwell-simulation))
 - [Irrelevant Topics In Physics](https://github.com/thoppe/Presentation_Irrelevant_Topics_In_Physics)
 - [ViSNet: a scalable and accurate geometric deep learning potential for molecular dynamics simulation (2022)](https://arxiv.org/abs/2210.16518) ([Code](https://github.com/microsoft/ViSNet))
+- [Weaving paper strips for designing of general curved surface with geometrical elasticity (2022)](https://arxiv.org/abs/2211.06372) ([Code](https://github.com/hyrodium/ElasticSurfaceEmbedding.jl))

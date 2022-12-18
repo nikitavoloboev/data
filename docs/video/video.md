@@ -6,6 +6,8 @@ I share [all the YouTube channels I follow](https://gist.github.com/nikitavolobo
 
 Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok videos](https://www.tiktok.com/@nikitavoloboev).
 
+[Video Encoding from Scratch](https://github.com/kevmo314/codec-from-scratch) is great for learning video codecs.
+
 ## Inspiring editing
 
 - [Watchtower of Turkey](https://www.youtube.com/watch?v=z7yqtW4Isec) - Incredible. By Leonardo Dalessandri.
@@ -446,3 +448,5 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [YouTube Transcript](https://github.com/Kakulukian/youtube-transcript) - Fetch transcript from a YouTube video.
 - [VidCutter](https://github.com/ozmartian/vidcutter) - Modern yet simple multi-platform video cutter and joiner.
 - [Detail](https://detail.co/) - Record, remix and share inspiring video in minutes, using the superpowers of your Mac. ([Twitter](https://twitter.com/detailapp))
+- [Open source USB C camera with C mount lens, MIPI Sensor, Lattice FPGA, USB 3.0 (2022)](https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html) ([HN](https://news.ycombinator.com/item?id=34022797))
+- [Vidstack](https://www.vidstack.io/) - Media tools for frontend developers. ([GitHub](https://github.com/vidstack))

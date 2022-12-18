@@ -130,6 +130,7 @@
 - [Fluxperimental.jl](https://github.com/FluxML/Fluxperimental.jl) - Experimental features for Flux.jl.
 - [MadDiff.jl](https://github.com/sshin23/MadDiff.jl) - Automatic differentiation and algebraic modeling package.
 - [ScientificTypes.jl](https://github.com/JuliaAI/ScientificTypes.jl) - API for dispatching on the "scientific" type of data instead of the machine type.
+- [DataAugmentation.jl](https://github.com/lorenzoh/DataAugmentation.jl) - Flexible data augmentation library for machine and deep learning.
 
 ## Math
 
@@ -343,6 +344,7 @@
 ## Quantum
 
 - [QuantumInformation](https://github.com/iitis/QuantumInformation.jl) - Julia package for numerical computation in quantum information theory.
+- [ACFlow](https://github.com/huangli712/ACFlow) - Full-Fledged Analytical Continuation Toolkit in Julia.
 
 ## LaTeX
 

@@ -4,6 +4,8 @@
 
 [Modern Errors](https://github.com/ehmicky/modern-errors) is nice for error handling.
 
+[patch-package](https://github.com/ds300/patch-package) is great for patching broken libraries.
+
 ## Web Dev frameworks
 
 - [Solid](https://www.solidjs.com/) - Declarative, efficient, and flexible JavaScript library for building user interfaces. ([Code](https://github.com/solidjs/solid)) ([Website Code](https://github.com/solidjs/solid-site)) ([Awesome](https://github.com/one-aalam/awesome-solid-js)) ([HN](https://news.ycombinator.com/item?id=29388296))

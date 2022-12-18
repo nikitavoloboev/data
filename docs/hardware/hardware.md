@@ -4,7 +4,7 @@
 
 [teenage engineering](https://teenage.engineering/) & [Apple](https://www.apple.com/) make gorgeous and functional devices.
 
-[Chisel](https://www.chisel-lang.org/) seems like an amazing framework for hardware designs. So as [Flux](https://www.flux.ai/p) & [Diode](https://www.withdiode.com/)
+[Chisel](https://www.chisel-lang.org/) seems like an amazing framework for hardware designs. So as [Flux](https://www.flux.ai/p), [Diode](https://www.withdiode.com/) & [Hardcaml](https://github.com/janestreet/hardcaml).
 
 [Computer Architecture: Quantitative Approach](https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1) is great book.
 
@@ -386,3 +386,4 @@
 - [AI’s Hardware Problem (2022)](https://www.youtube.com/watch?v=5tmGKTNW8DQ)
 - [Hidden tech of the Nest Thermostat](https://www.scanofthemonth.com/scans/nest-thermostat-evolution) ([HN](https://news.ycombinator.com/item?id=33987952))
 - [Accelerating Network Functions using Reconfigurable Hardware (2022)](https://tuprints.ulb.tu-darmstadt.de/22023/3/2022-09-07_Kundel_Ralf.pdf)
+- [Making Ethernet transceiver from logic gates (2022)](https://imihajlov.tk/blog/posts/eth-to-spi/) ([HN](https://news.ycombinator.com/item?id=34035628))

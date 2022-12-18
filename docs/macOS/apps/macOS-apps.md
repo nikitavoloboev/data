@@ -295,3 +295,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Nice UX from Things mac app (2022)](https://twitter.com/rafahari/status/1592545990829277185)
 - [AirMessage Server](https://github.com/airmessage/airmessage-server) - Lets people use iMessage on the devices they like.
 - [CatalystCustomSavePanels](https://github.com/steventroughtonsmith/CatalystCustomSavePanels) - Mac Catalyst example showcases a way to use NSSavePanel through an AppKit bridge.
+- [printents](https://github.com/SerenaKit/printents) - CommandLine tool that prints the entitlements of an .app bundle or any executable on device.

@@ -271,3 +271,4 @@ div.CodeMirror-cursor,
 - [Obsidian for Raycast](https://github.com/marcjulianschwarz/obsidian-raycast) - Raycast extension with commands for the note taking app Obsidian.
 - [HN: Obsidian 1.0 (2022)](https://news.ycombinator.com/item?id=33190433)
 - [Writing down what I do – in Obsidian](https://v5.chriskrycho.com/journal/writing-down-what-i-do-in-obsidian/) ([HN](https://news.ycombinator.com/item?id=33527296))
+- [Highly opinionated, fully functional Obsidian vault](https://github.com/bramses/bramses-highly-opinionated-vault-2023) ([HN](https://news.ycombinator.com/item?id=34034414))

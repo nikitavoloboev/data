@@ -987,3 +987,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Cranelift Progress in 2022](https://bytecodealliance.org/articles/cranelift-progress-2022) ([Reddit](https://www.reddit.com/r/rust/comments/zmqj0g/cranelift_progress_in_2022/)) ([Lobsters](https://lobste.rs/s/yzb2nf/cranelift_progress_2022))
 - [Rust 1.66.0 (2022)](https://hachyderm.io/@Mara/109518823144798759)
 - [Gene Michaels](https://github.com/andrewbaxter/genemichaels) - Alternative Rust code formatter. ([Reddit](https://www.reddit.com/r/rust/comments/zo54gj/gene_michaels_alternative_rust_code_formatter/))
+- [Sorting with SIMD (2022)](https://tweedegolf.nl/en/blog/79/sorting-with-simd) ([HN](https://news.ycombinator.com/item?id=34029603))

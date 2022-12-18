@@ -137,3 +137,4 @@ title: Zero knowledge proofs
 - [xJsnark](https://github.com/akosba/xjsnark) - High-level framework for developing efficient zk-SNARK circuits.
 - [Sandstorm](https://github.com/andrewmilson/sandstorm) - Cairo prover powered by miniSTARK.
 - [eigen-zkvm](https://github.com/0xEigenLabs/eigen-zkvm) - zkVM on hybrid proof system, allowing the developers to write Zero-knowledge applications.
+- [ZK Hunt](https://github.com/FlynnSC/zk-hunt) - Onchain game which explores different ZK game mechanics and information asymmetry.

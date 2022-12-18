@@ -259,3 +259,5 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [Ask HN: What are your favorite books/courses of 2022? Why?](https://news.ycombinator.com/item?id=33688207)
 - [Memorisely](https://www.memorisely.com/) - Live UX/UI Bootcamps & Video Classes.
 - [Buildspace Projects](https://github.com/buildspace/buildspace-projects)
+- [What if? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions](https://xkcd.com/what-if-2/)
+- [Ask HN: What is the best advice you received in 2022?](https://news.ycombinator.com/item?id=34029801)

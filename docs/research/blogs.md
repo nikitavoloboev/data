@@ -248,6 +248,8 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Igor Kulman](https://blog.kulman.sk/)
 - [Ed Huang](https://me.0xffff.me/index.html)
 - [Ryan Gibb](https://ryan.freumh.org/)
+- [Ivan](https://imihajlov.tk/blog/)
+- [Chris Wellons](https://nullprogram.com/)
 
 ## Notes
 

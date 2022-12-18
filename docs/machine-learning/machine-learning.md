@@ -1018,3 +1018,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Machine Learning for Engineers Course - YouTube (2022)](https://www.youtube.com/playlist?list=PLUrb9ObKDCj-zuzSYKpFONf3JE4W7NHLE)
 - [Uncertain: Modern Topics in Uncertainty Quantification](https://www.cis.upenn.edu/~aaroth/uncertain.html)
 - [Learn ML yourself - resources (2020)](https://dauparas.github.io/post/learning/)
+- [MEMIT: Mass-Editing Memory in a Transformer](https://github.com/kmeng01/memit) - Editing thousands of facts into a transformer memory at once.

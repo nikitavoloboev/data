@@ -593,3 +593,4 @@ Below is a list of extensions I use.
 - [VSCode Textmate grammar test](https://github.com/PanAeon/vscode-tmgrammar-test)
 - [VS Code Notebook APIs](https://code.visualstudio.com/api/extension-guides/notebook)
 - [VSCode Extension Tester](https://github.com/redhat-developer/vscode-extension-tester) - Framework for simulating user interactions with VS Code and its extensions via Webdriver.
+- [Template for VS Code python tools extensions](https://github.com/microsoft/vscode-python-tools-extension-template)

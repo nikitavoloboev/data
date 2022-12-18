@@ -122,3 +122,6 @@ I prefer using [EdgeDB](edgedb.md) for all my DB needs, it has a [better way to 
 - [Prisma 4.7 Introduces Client Extensions (2022)](https://javascript.plainenglish.io/prisma-4-7-introduces-client-extensions-ce8030c155f1)
 - [Rust Prisma Example](https://github.com/coffee-cup/rust-prisma)
 - [Prisma Axiom](https://github.com/axiomhq/prisma-axiom) - Axiom observability for Prisma.
+- [Prisma Import](https://github.com/ajmnz/prisma-import) - Bringing import statements to Prisma schemas.
+- [Prisma Exclude](https://github.com/ajmnz/prisma-exclude) - Exclude fields from your Prisma queries.
+- [Prisma Zod Generator](https://github.com/omar-dulaimi/prisma-zod-generator) - Automatically generate Zod schemas from your Prisma Schema, and use them to validate your API endpoints.

@@ -11,6 +11,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 ## Other
 
 - [OpenAI API](https://openai.com/api/) ([Go lib](https://github.com/sausheong/openai)) ([Node](https://github.com/openai/openai-node)) ([Python](https://github.com/peterdemin/openai-cli))
+- [OpenAI Fetch](https://github.com/rileytomasek/openai-fetch) - Minimal and opinionated OpenAI client powered by fetch.
 - [Google Drive](https://github.com/prasmussen/gdrive)
 - [GitHub](https://developer.github.com/v3/)
 - [GitHub Go](https://github.com/shurcooL/githubv4) - Client library for accessing GitHub GraphQL API.

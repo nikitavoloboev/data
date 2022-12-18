@@ -51,3 +51,4 @@
 - [LaMAR: Benchmarking Localization and Mapping for AR (2022)](https://lamar.ethz.ch/) ([Code](https://github.com/microsoft/lamar-benchmark))
 - [Haptics with Input: Using Linear Resonant Actuators for Sensing (2022)](https://ai.googleblog.com/2020/11/haptics-with-input-using-linear.html)
 - [Immersive Web Developer](https://immersiveweb.dev/) ([Code](https://github.com/immersive-web/immersiveweb.dev))
+- [Real-Time Neural Light Field on Mobile Devices (2022)](https://arxiv.org/abs/2212.08057) ([Code](https://github.com/snap-research/MobileR2L))

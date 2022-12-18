@@ -84,3 +84,4 @@ I like the real time aspect of Firebase but not sure how well it can scale for m
 - [Full Text & Vector Search for Firestore with Weaviate (2022)](https://samos-it.com/posts/full-text-search-for-firestore-with-weaviate.html)
 - [Firebase SQLite](https://github.com/rodydavis/firestore_sqlite) - Inspired by PocketBase provide client side SQLite database, schema generator and admin UI.
 - [Flarebase Auth](https://github.com/Marplex/flarebase-auth) - Firebase/Admin Auth JavaScript Library for Cloudflare Workers.
+- [Setup Firebase Tools GitHub Action](https://github.com/ssssota/setup-firebase-tools)

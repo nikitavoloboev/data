@@ -161,3 +161,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Go-LaTeX](https://github.com/go-latex/latex) - Go package for LaTeX.
 - [Pretty-Print LaTeX](https://github.com/stefanhepp/pplatex)
 - [Compositor](https://compositorapp.com/) - WYSIWYG LaTeX Editor for Mac. ([Issues](https://github.com/ktraunmueller/Compositor))
+- [Converting my PhD thesis into HTML (2021)](https://desfontain.es/privacy/latex-to-html.html)

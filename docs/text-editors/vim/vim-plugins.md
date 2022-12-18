@@ -60,6 +60,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Which Key](https://github.com/folke/which-key.nvim) - Displays a popup with possible keybindings of the command you started typing.
 - [nvim-notify](https://github.com/rcarriga/nvim-notify) - Fancy, configurable, notification manager for NeoVim.
 - [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - UI for nvim-dap which provides a good out of the box configuration.
+- [far.vim](https://github.com/brooth/far.vim) - Find And Replace.
 - [LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
 - [marks.nvim](https://github.com/chentau/marks.nvim) - Better user experience for interacting with and manipulating Vim marks.
 - [nvim-magic](https://github.com/jameshiew/nvim-magic) - Pluggable framework for using AI code assistance in Neovim.
@@ -361,3 +362,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Maddison's Neovim configuration](https://github.com/b0o/nvim-conf)
 - [LVIM IDE](https://github.com/lvim-tech/lvim) - Modular Neovim configuration written in Lua with full customization.
 - [ThePrimeagen's init.lua](https://github.com/ThePrimeagen/init.lua)
+- [Nice starting point for Neovim](https://github.com/nvim-lua/kickstart.nvim)

@@ -2,6 +2,8 @@
 
 I love listening to podcasts with [Overcast](https://overcast.fm) especially when commuting or traveling somewhere.
 
+Wish all podcasts had a page like [this](https://huberman.rile.yt/) where you can do textual searches on all the content produced.
+
 I have `Top` and `Other` smart playlists in Overcast. The `Top` includes my favorite podcasts I want to listen to.
 
 ![](https://i.imgur.com/TDTruDk.jpg)

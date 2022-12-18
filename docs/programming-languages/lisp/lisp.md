@@ -2,7 +2,7 @@
 
 [SICP](http://sarabander.github.io/sicp/html/index.xhtml) and [Practical Common Lisp](http://www.gigamonkeys.com/book/) are great books. [Intuition for Lisp Syntax](https://stopa.io/post/265) is a nice read too.
 
-[bass](https://bass-lang.org/) is interesting.
+[Carp](https://github.com/carp-lang/Carp) & [Bass](https://bass-lang.org/) are interesting.
 
 ## Notes
 
@@ -13,7 +13,7 @@
 - [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 - [SICP](http://sarabander.github.io/sicp/html/index.xhtml)
 - [Lisp-like DSL for Rust language](https://github.com/JunSuzukiJapan/macro-lisp)
-- [Carp](https://github.com/carp-lang/Carp) - Statically typed lisp, without a GC, for real-time applications. ([HN](https://news.ycombinator.com/item?id=28875051))
+- [Carp](https://github.com/carp-lang/Carp) - Statically typed lisp, without a GC, for real-time applications. ([HN](https://news.ycombinator.com/item?id=28875051)) ([HN](https://news.ycombinator.com/item?id=34026414))
 - [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html) ([HN](https://news.ycombinator.com/item?id=18225870)) ([HN 2](https://news.ycombinator.com/item?id=23163596))
 - [ELS 2018 Keynote: This Old Lisp](https://www.youtube.com/watch?v=MgVuqPgKJQc)
 - [Parinfer](https://github.com/shaunlebron/parinfer) - Let's simplify the way we write Lisp. ([Web](https://shaunlebron.github.io/parinfer/)) ([Lobsters](https://lobste.rs/s/2iusnv/parinfer_simpler_lisp_editing))
@@ -226,3 +226,4 @@
 - [Lisp written in Nix](https://github.com/utdemir/nixlisp)
 - [Conceptual Introduction to Spritely Goblins (2022)](https://garbados.github.io/my-blog/conceptual-intro-to-spritely-goblins.html)
 - [Kilo LISP](http://t3x.org/klisp/index.html) - Kilo Byte-Sized Lisp System. ([HN](https://news.ycombinator.com/item?id=34011770))
+- [Open Closures: Disclosing lambda’s inner monomaniac object](https://www.iro.umontreal.ca/~monnier/oclosure.pdf)

@@ -112,3 +112,4 @@
 - [KDoctor](https://github.com/Kotlin/kdoctor) - Command-line tool that helps to set up the environment for Kotlin Multiplatform Mobile app development.
 - [Template project you can clone and use as a basis for your own Kotlin based microservices](https://github.com/sksamuel/samstack)
 - [Ktor Arrow Real World Example](https://github.com/nomisRev/ktor-arrow-example) - Written in Kotlin, with Ktor, Arrow, SqlDelight, KotlinX Serialization, etc.
+- [dukat](https://github.com/Kotlin/dukat) - Converter of any kind of declarations to Kotlin external declarations.

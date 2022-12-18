@@ -31,3 +31,4 @@ title: Tailscale
 - [HashiCorp Vault plugin for managing Tailscale authentication keys](https://github.com/davidsbond/vault-plugin-tailscale)
 - [Tailscale Talent Lock (2022)](https://tailscale.com/blog/tailnet-lock/)
 - [Tailnet lock white paper](https://tailscale.com/kb/1230/tailnet-lock-whitepaper/) ([Lobsters](https://lobste.rs/s/fiinse/tailnet_lock_white_paper))
+- [Bonk](https://github.com/DeterminateSystems/bonk) - Erase macOS machines over Tailscale.

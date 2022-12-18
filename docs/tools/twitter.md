@@ -28,6 +28,8 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 
 [How does Twitter work](https://www.youtube.com/watch?v=z6xslDMimME) is nice overview of [Twitter tech](https://twitter.com/_dml/status/1592619959947243520).
 
+[Bird SQL](https://www.perplexity.ai/sql) is nice way to search Twitter.
+
 ## Interesting hash tags
 
 - [#WomensArt](https://twitter.com/hashtag/WomensArt)
@@ -299,5 +301,6 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [The Fifth Estate (2022)](https://www.piratewires.com/p/the-fifth-estate)
 - [The Twitter Files, Part Six (2022)](https://twitter.com/mtaibbi/status/1603857534737072128) ([HN](https://news.ycombinator.com/item?id=34020654))
 - [Add empty space to links banned by Twitter to get around the ban](https://twitter.com/molly0xFFF/status/1603837343093428237)
-- [Twitter's anti-Mastodon filter evasion](https://infosec.exchange/@postmodern/109523637731779949)
+- [Twitter's anti-Mastodon filter evasion](https://infosec.exchange/@postmodern/109523637731779949) ([HN](https://news.ycombinator.com/item?id=34036265))
 - [tweetback/canonical](https://github.com/tweetback/tweetback-canonical) - Package to resolve twitter URLs to new canonically hosted twitter backups.
+- [Bird SQL](https://www.perplexity.ai/sql) - Twitter search interface translates natural language into SQL. ([Tweet](https://twitter.com/perplexity_ai/status/1603441221753372673))

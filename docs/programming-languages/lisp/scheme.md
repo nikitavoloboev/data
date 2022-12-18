@@ -111,3 +111,4 @@ title: Scheme
 - [Scsh](https://scsh.net/) - Open-source Unix shell embedded within Scheme.
 - [Marwood](https://github.com/strtok/marwood) - Embeddable Scheme R7 Compiler & Runtime written in Rust.
 - [Catbird: An experimental game engine for Scheme programmers (2022)](https://dthompson.us/catbird-an-experimental-game-engine-for-scheme-programmers.html)
+- [Growing a Networked Garden with Spritely Goblins (2022)](https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html)

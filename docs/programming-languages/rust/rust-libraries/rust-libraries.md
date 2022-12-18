@@ -71,6 +71,7 @@
 - [makeup](https://github.com/queer/makeup) - Stylish CLIs/TUIs for Rust.
 - [is-terminal](https://github.com/sunfishcode/is-terminal) - Test whether a given stream is a terminal.
 - [supports-color](https://github.com/zkat/supports-color) - Detects whether a terminal supports color, and gives details about that support.
+- [TUI-Input](https://github.com/sayanarijit/tui-input) - TUI input library supporting multiple backends and tui-rs.
 
 ## Web
 

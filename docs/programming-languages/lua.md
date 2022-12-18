@@ -149,3 +149,4 @@ title: Lua
 - [Building the fastest Lua interpreter automatically (2022)](https://sillycross.github.io/2022/11/22/2022-11-22/index.html) ([HN](https://news.ycombinator.com/item?id=33711583))
 - [LuaJIT Remake](https://github.com/luajit-remake/luajit-remake) - Implement a multi-tier method-JIT for Lua.
 - [Xeus Lua](https://github.com/jupyter-xeus/xeus-lua) - Jupyter kernel for Lua based on the native implementation of the Jupyter protocol xeus.
+- [HsLua](https://github.com/hslua/hslua) - Haskell bindings to Lua, an embeddable scripting language.

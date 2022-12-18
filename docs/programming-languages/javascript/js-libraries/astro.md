@@ -11,6 +11,8 @@ title: Astro
 - [Astro app with the Netlify adapter using Edge Functions](https://github.com/sarahetter/astro-netlify-edge-starter)
 - [Astro - Ink](https://github.com/one-aalam/astro-ink) - Crisp, minimal, personal blog theme for Astro.
 - [Astro Music](https://astro-music.netlify.app/) - Demo ssing Astro and the Shared Element Transition API. ([Code](https://github.com/Charca/astro-music))
+- [AstroPaper](https://github.com/satnaing/astro-paper) - Minimal, accessible and SEO-friendly Astro blog theme.
+- [Astro Theme Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Simple opinionated Astro theme. Use it to create your blog or website.
 
 ## Links
 

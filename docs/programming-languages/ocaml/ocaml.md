@@ -160,3 +160,4 @@ title: OCaml
 - [Computations that differentiate, debug, and document themselves (2022)](https://blog.janestreet.com/computations-that-differentiate-debug-and-document-themselves/)
 - [OCaml Jupyter](https://github.com/akabe/ocaml-jupyter) - OCaml kernel for Jupyter (IPython) notebook.
 - [OCaml 5.0.0 (with multicore and effects) is out (2022)](https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974) ([HN](https://news.ycombinator.com/item?id=34014073)) ([HN](https://news.ycombinator.com/item?id=34013767)) ([Lobsters](https://lobste.rs/s/dpp19k/ocaml_5_0_0_with_multicore_effects_is_out))
+- [Experimenting with OCaml 5.0](https://github.com/yminsky/experiment-with-ocaml-5)

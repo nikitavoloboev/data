@@ -1044,3 +1044,5 @@
 - [What do Vision Transformers Learn? A Visual Exploration](https://github.com/hamidkazemi22/vit-visualization)
 - [Images Speak in Images: A Generalist Painter for In-Context Visual Learning (2022)](https://arxiv.org/abs/2212.02499) ([Code](https://github.com/baaivision/Painter))
 - [ShuffleMixer: An Efficient ConvNet for Image Super-Resolution](https://github.com/sunny2109/ShuffleMixer)
+- [SDFStudio: Unified Framework for Surface Reconstruction](https://autonomousvision.github.io/sdfstudio/) ([Code](https://github.com/autonomousvision/sdfstudio))
+- [SegViT: Semantic Segmentation with Plain Vision Transformers (2022)](https://arxiv.org/abs/2210.05844) ([Code](https://github.com/zbwxp/SegVit))

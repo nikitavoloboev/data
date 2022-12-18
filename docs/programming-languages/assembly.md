@@ -108,3 +108,4 @@ title: Assembly
 - [Contrasting Intel AMX and Apple AMX (2022)](http://www.corsix.org/content/contrasting-intel-amx-and-apple-amx)
 - [Undefined Isn’t Unpredictable (2022)](http://www.os2museum.com/wp/undefined-isnt-unpredictable/)
 - [Inverting a binary tree using x64 assembly (2022)](https://sanket.tech/posts/invert_binary_tree_assembly/) ([HN](https://news.ycombinator.com/item?id=33732071))
+- [asmcfg](https://github.com/badlogic/asmcfg) - Assembly control flow graph/basic block visualizer for the web.

@@ -494,3 +494,4 @@ Awesome List
 - [GitHub Research Runner](https://github.com/schosterbarak/ghrr) - Utility to collect data from github stargazers, subscribers and contributors of a selected project.
 - [GitHub fetch](https://github.com/gruntwork-io/fetch) - Download files, folders, and release assets from a specific git commit, branch, or tag of public and private GitHub repos.
 - [GitHub Wiki SEE](https://github-wiki-see.page/) - 400,000+ Wikis, now indexable. ([Code](https://github.com/nelsonjchen/github-wiki-see-rs))
+- [Copilot-Explorer](https://github.com/thakkarparth007/copilot-explorer) - See what the Copilot extension sends to the server.

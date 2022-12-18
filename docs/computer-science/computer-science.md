@@ -41,7 +41,7 @@ I loved reading [Code: The Hidden Language](https://www.codehiddenlanguage.com/)
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com/) ([Code](https://github.com/ianw/bottomupcs)) ([HN](https://news.ycombinator.com/item?id=26981668))
 - [Foundational knowledge for programmers](https://github.com/err0r500/foundational-knowledge-for-programmers)
 - [Computer Science Ontology (CSO)](http://cso.kmi.open.ac.uk/home) - Large-scale ontology of research areas that was automatically generated using the Klink-2 algorithm.
-- [Surprisingly Turing-Complete (2012)](https://www.gwern.net/Turing-complete) ([HN](https://news.ycombinator.com/item?id=22839035))
+- [Surprisingly Turing-Complete (2012)](https://www.gwern.net/Turing-complete) ([HN](https://news.ycombinator.com/item?id=22839035)) ([HN](https://news.ycombinator.com/item?id=34014830))
 - [Harnessing vision for computation (2008)](https://www.gwern.net/docs/www/www.changizi.com/82e766ee9a407241bcbcfd5b9e2c69d1083ecba1.pdf)
 - [The Morning Paper](https://blog.acolyer.org/) - Short summary every weekday of an important, influential, topical or otherwise interesting paper in the field of computer science.
 - [List of recommended CS readings](https://github.com/amilajack/reading)

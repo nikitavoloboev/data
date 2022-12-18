@@ -147,3 +147,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Working Efficiently as a Digital Nomad (2022)](https://theari.dev/blog/working-efficiently-as-a-digital-nomad/)
 - [Airport Codes](https://airportcod.es/) - Making sense of those three-letter airport codes. ([Code](https://github.com/lynnandtonic/airport-codes))
 - [Luxury Escapes](https://luxuryescapes.com/) - Handpicked Escapes.
+- [Is there anything you do to avoid getting sick while you travel?](https://www.reddit.com/r/solotravel/comments/zoizep/is_there_anything_you_do_to_avoid_getting_sick/)

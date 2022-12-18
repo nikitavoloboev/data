@@ -1090,6 +1090,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [MPyC](https://github.com/lschoe/mpyc) - Multiparty Computation in Python.
 - [Dapr SDK for Python](https://github.com/dapr/python-sdk)
 - [Subgrounds](https://github.com/Protean-Labs/subgrounds) - Pythonic data access layer for applications querying data from The Graph Network.
+- [PyExcelerate](https://github.com/kz26/PyExcelerate) - Accelerated Excel XLSX Writing Library for Python.
 
 ## Notes
 
@@ -1289,3 +1290,4 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Jedi Language Server](https://github.com/pappasam/jedi-language-server)
 - [Python Magic Methods You Haven't Heard About (2022)](https://martinheinz.dev/blog/87)
 - [Why I moved away from Poetry for Python (2022)](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/) ([HN](https://news.ycombinator.com/item?id=34005203)) ([Lobsters](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python))
+- [Boring Python: dependency management (2022)](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/)
