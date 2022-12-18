@@ -170,6 +170,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js.
 - [NextJS Google Analytics](https://github.com/MauricioRobayo/nextjs-google-analytics)
 - [Next Last Path Hook](https://github.com/lifespikes/next-last-path) - React Hook containing the last path from a Next.js route + some goodies.
+- [Next-Axiom](https://github.com/axiomhq/next-axiom) - Unlocks observability at any scale.
 
 ## Notes
 

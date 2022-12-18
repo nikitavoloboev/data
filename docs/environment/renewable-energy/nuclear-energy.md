@@ -89,3 +89,4 @@ Nuclear energy [gets a bad reputation but its the future of renewable energy](ht
 - [US Department of Energy: Fusion Ignition Achieved (2022)](https://news.ycombinator.com/item?id=33971377)
 - [Nuclear-fusion lab achieves ‘ignition’: what does it mean? (2022)](https://news.ycombinator.com/item?id=33971953)
 - [Nuclear power is too slow (2022)](https://jackdevanney.substack.com/p/nuclear-power-is-too-slow) ([HN](https://news.ycombinator.com/item?id=34015330))
+- [A New Way to Achieve Nuclear Fusion: Helion (2022)](https://www.youtube.com/watch?v=_bDXXWQxK38)

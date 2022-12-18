@@ -261,3 +261,5 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Representation Learning on Biomolecular Structures using Equivariant Graph Attention (2022)](https://github.com/Bayer-Group/eqgat)
 - [On-chip on-demand delivery of K+ for in vitro bioelectronics (2022)](https://aip.scitation.org/doi/full/10.1063/5.0129134)
 - [Nanoscale Instruments for Visualizing Small Proteins (2022)](https://www.youtube.com/watch?v=_gXiVOmaVSo)
+- [Latch SDK](https://github.com/latchbio/latch) - Framework to build and deploy bioinformatics workflows.
+- [LatchBio](https://latch.bio/) - End-to-end biocomputing in the browser. ([GitHub](https://github.com/latchbio)) ([Twitter](https://twitter.com/latchbio)) ([Hiring](http://kenbw.com/call.html))
