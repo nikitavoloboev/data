@@ -6,6 +6,8 @@ One thing I learned is to always be proactive with cold approaching people, just
 
 And do [ask for help](https://twitter.com/FoundersPodcast/status/1601957896627310592) kindly, many will gladly help you or advise.
 
+I try to be thoughtful with my responses and communication. [Steve Jobs is great example of what that means](https://www.youtube.com/watch?v=oeqPrUmVz-o). Even so far as [taking 10 seconds to craft a thoughtful response](https://news.ycombinator.com/item?id=34033281).
+
 ## Notes
 
 - [Never underestimate the impact of informal positive feedback on a junior, career-changer or someone new to the stack. Often people just need to know they're on the right road.](https://twitter.com/thomas_k_r/status/1296015993144332288)
@@ -224,3 +226,4 @@ And do [ask for help](https://twitter.com/FoundersPodcast/status/160195789662731
 - [Impact of meetings on our brains](https://twitter.com/SahilBloom/status/1599392123065098240)
 - [Ask HN: How to work with people who push back forcefully? (2022)](https://news.ycombinator.com/item?id=33856788)
 - [Ask HN: Strategies for Being More Eloquent? (2022)](https://news.ycombinator.com/item?id=33924206)
+- [Steve Jobs Insult Response](https://www.youtube.com/watch?v=oeqPrUmVz-o) ([HN](https://news.ycombinator.com/item?id=34032672))

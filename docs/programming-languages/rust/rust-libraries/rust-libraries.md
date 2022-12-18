@@ -2404,6 +2404,7 @@
 - [galloc](https://github.com/MaderNoob/galloc) - Linked list allocator, inspired by the dlmalloc algorithm.
 - [tokio-retry](https://github.com/srijs/rust-tokio-retry) - Extensible, asynchronous retry behaviors for futures/tokio.
 - [protobuf-build](https://github.com/tikv/protobuf-build) - Utility functions for generating Rust code from protobuf specifications.
+- [structre](https://github.com/andrewbaxter/structre) - Statically-checked regex parsing into structs.
 
 ## Cargo Plugins
 

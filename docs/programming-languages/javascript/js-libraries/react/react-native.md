@@ -329,3 +329,4 @@ title: React Native
 - [How to create a truly native experience for your React-Native app (2022)](https://alexmngn.medium.com/how-to-create-a-truly-native-experience-for-your-react-native-app-6818953f08f7)
 - [React Native Lens UI Kit](https://github.com/lens-protocol/react-native-lens-ui-kit)
 - [Create React Native Module](https://github.com/brodybits/create-react-native-module)
+- [React Native Fiesta](https://github.com/mateoguzmana/react-native-fiesta) - Set of animations ideal for celebration and user engagement.

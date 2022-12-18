@@ -456,3 +456,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Collection of all the content from NixCon Paris 2022](https://github.com/nixcon/NixConContent)
 - [Noogle](https://noogle.dev/) - Nix API search engine. ([Code](https://github.com/hsjobeki/noogle))
 - [Darwin build box for Nix community](https://github.com/winterqt/darwin-build-box)
+- [mission-control](https://github.com/Platonic-Systems/mission-control) - Flake-parts module for your Nix devshell scripts.

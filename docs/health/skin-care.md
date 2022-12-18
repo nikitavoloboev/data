@@ -181,3 +181,4 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [Is high end skincare worth it? (2022)](https://www.reddit.com/r/SkincareAddiction/comments/zf3tlo/misc_is_high_end_skincare_worth_it/)
 - [How to improve your skin from the inside out](https://www.reddit.com/r/30PlusSkinCare/comments/zg14z5/how_to_improve_your_skin_from_the_inside_out/)
 - [Как я вылечела акне](https://twitter.com/muss_es_sein_/status/1602298433079234561)
+- [Overhyped or disappointed products used (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/znv9zp/overhyped_or_disappointed_products_used/)

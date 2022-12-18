@@ -117,3 +117,4 @@
 - [Why the world is full of box-shaped buildings with square windows, plain walls, and no ornamentation](https://twitter.com/culturaltutor/status/1584935464590790656)
 - [Things you'd love in a kitchen](https://twitter.com/jlongster/status/1586805696523370496)
 - [An overview of concrete forming technology (2022)](https://constructionphysics.substack.com/p/an-overview-of-concrete-forming-technology) ([HN](https://news.ycombinator.com/item?id=33562660))
+- [50 Фотографий беседок, в которых хочется жить](https://make-self.net/masterskaya/item/besedka-photo.html)

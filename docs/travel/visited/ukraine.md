@@ -186,3 +186,4 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 - [Ukraine Taxes CLI](https://github.com/mxmCherry/taxes) - Quarterly tax calculator for simplified Ukrainian taxation system.
 - [Volodymyr Zelensky Is TIME's 2022 Person of the Year](https://time.com/person-of-the-year-2022-volodymyr-zelensky/)
 - [How Putin’s War in Ukraine Became a Catastrophe for Russia (2022)](https://www.nytimes.com/interactive/2022/12/16/world/europe/russia-putin-war-failures-ukraine.html)
+- [Perun - YouTube](https://www.youtube.com/@PerunAU/videos)

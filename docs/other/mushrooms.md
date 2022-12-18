@@ -82,3 +82,4 @@ Get my spores to grow [here](https://orangutantradingco.com/). Grow them using [
 - [Boomer Shroomer - YouTube](https://www.youtube.com/@BoomerShroomer/videos)
 - [Foraging Psilocybe Mushrooms with Alan Rockefeller](https://www.youtube.com/watch?v=Bv826PwqF58)
 - [Mushroom Wonderland - YouTube](https://www.youtube.com/@mushroomwonderland1/videos)
+- [The 7 Basic Steps Of Mushroom Cultivation (How Most Mushrooms Are Grown)](https://www.youtube.com/watch?v=CDjuk07E6rI)
