@@ -180,3 +180,4 @@ I try to avoid pointless politics as much as possible but do like [John Mearshei
 - [Why 80% of Americans Live East of This Line](https://www.youtube.com/watch?v=wwJABxjcvUc)
 - [Citation](https://uslaw.link/) - Fast, stand-alone legal citation extractor. ([Code](https://github.com/unitedstates/citation))
 - [How did Delaware end up the de facto arbiter of US corporate law, historically? (2022)](https://www.reddit.com/r/AskEconomics/comments/zfjg84/how_did_delaware_end_up_the_de_facto_arbiter_of/)
+- [What do “American sections” of foreign stores actually need to stock (2022)](https://www.reddit.com/r/AskAnAmerican/comments/zogqtj/my_fellow_americans_what_do_american_sections_of/)

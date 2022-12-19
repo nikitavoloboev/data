@@ -6,7 +6,7 @@ title: Nuclear energy
 
 Nuclear energy gets a bad reputation but its the [future of renewable energy](https://twitter.com/Austen/status/1516932518288629760). High chance [fusion is likely and will be achieved by 2040](https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion).
 
-Liked the [overview of Helion's Nuclear Fusion process](https://www.youtube.com/watch?v=_bDXXWQxK38). Also this was [great overview of latest innovations of fusion](https://youtu.be/RDdjA4yJy88?t=1245).
+Liked [overview of Helion's Nuclear Fusion process](https://www.youtube.com/watch?v=_bDXXWQxK38) together with [great overview of latest innovations of fusion](https://youtu.be/RDdjA4yJy88?t=1245).
 
 ## Notes
 

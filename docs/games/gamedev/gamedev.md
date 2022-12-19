@@ -5,6 +5,7 @@
 ## Studios
 
 - [Bungie](https://www.bungie.net/) - Developer of Destiny, Halo and more.
+- [Annapurna Pictures](https://annapurna.pictures/)
 - [FromSoftware](https://www.fromsoftware.jp/ww/) - Japanese video game development company.
 - [The Glory Society](http://theglorysociety.com/) - Worker cooperative that makes video games.
 - [Goldborough Studio](https://www.goldboroughstudio.com/)
