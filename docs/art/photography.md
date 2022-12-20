@@ -266,3 +266,4 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [Four Amazing Alternatives to the Fujifilm X100V (2022)](https://www.youtube.com/watch?v=-f4fQXGm2HY)
 - [FUJIFILM](https://fujifilm-x.com/en-us/) - Digital Cameras.
 - [Moment](https://www.shopmoment.com/) - Marketplace for Photographers and Filmmakers. ([Twitter](https://twitter.com/moment))
+- [CINEMATIC Film Photography in Japan [Kodak Vision3, XPan] (2022)](https://www.youtube.com/watch?v=ZZ8tSxi2YrY)

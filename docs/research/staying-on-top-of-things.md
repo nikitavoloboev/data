@@ -186,6 +186,7 @@ And these Discord servers:
 - [Foreign Affairs](https://www.foreignaffairs.com/) - American magazine of international relations and U.S. foreign policy.
 - [Asterisk](https://asteriskmag.com/)
 - [Dwell](https://www.dwell.com/) - Modern living, home design ideas, inspiration, and advice.
+- [n+1](https://www.nplusonemag.com/) - Print and digital magazine of literature, culture, and politics.
 
 ### Other
 
@@ -283,3 +284,4 @@ And these Discord servers:
 - [HN Ratio](https://github.com/paradite/hn-ratio) - Hacker News top 50 stories ranked by Comment/Score ratio.
 - [Как победить информационный шум](https://www.youtube.com/watch?v=cTz_jUwgxZY)
 - [Ask HN: Alternatives to The Economist? (2022)](https://news.ycombinator.com/item?id=33799353)
+- [daily.dev](https://app.daily.dev/) - Homepage Developers Deserve. ([Code](https://github.com/dailydotdev/apps))

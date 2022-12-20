@@ -123,7 +123,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [FOSDEM video recordings](https://video.fosdem.org/2020/) - Recordings for other years available too.
 - [tart](https://github.com/jtdaugherty/tart) - Draw ASCII art in the terminal with your mouse.
 - [Shiki](https://github.com/octref/shiki) - Beautiful Syntax Highlighter.
-- [Spotifyd](https://github.com/Spotifyd/spotifyd) - Open source Spotify client running as a UNIX daemon.
+- [Spotifyd](https://github.com/Spotifyd/spotifyd) - Open source Spotify client running as a UNIX daemon. ([HN](https://news.ycombinator.com/item?id=34056067))
 - [Kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [butler-cli](https://github.com/benawad/butler-cli) - Prettier for File Structures.
@@ -730,3 +730,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [I Asked ChatGPT to Explain Some Jokes to Me](https://susam.net/maze/chatgpt-explains-jokes.html) ([HN](https://news.ycombinator.com/item?id=34027318))
 - [Cheaper Gumroad alternatives that handle European VAT for you (2022)](https://nts.strzibny.name/gumroad-alternatives-eu-uk-vat/)
 - [Sales and marketing SaaS platforms (2022)](https://brainfisheatfishbrain.com/post/sales-and-marketing-saas/)
+- [Awesome Demoscene](https://github.com/psykon/awesome-demoscene)

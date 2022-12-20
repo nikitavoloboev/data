@@ -1,6 +1,6 @@
 # Icons
 
-[App Icon Book](https://www.appiconbook.com/) is a nice read.
+[App Icon Book](https://www.appiconbook.com/) is a nice read. [Iconic](https://iconic.app/) & [Feather](https://feathericons.com/) have nice icons.
 
 ## Nice icons
 

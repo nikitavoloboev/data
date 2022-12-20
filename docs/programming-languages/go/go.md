@@ -10,7 +10,7 @@ I love the tooling around it like [VS Code](../../text-editors/vs-code/vs-code.m
 
 Go promotes composition over inheritance.
 
-[Tour of Go](https://go.dev/tour/welcome/1) & [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) are great places to [learn Go](https://www.reddit.com/r/golang/comments/t8owza/best_go_tutorials_in_town/).
+[Tour of Go](https://go.dev/tour/welcome/1) & [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) are great places to [learn Go](https://www.reddit.com/r/golang/comments/t8owza/best_go_tutorials_in_town/). [Go Internals](https://cmc.gitbook.io/go-internals/) is nice for more in depth look.
 
 [GoReleaser](https://github.com/goreleaser/goreleaser) is useful for publishing. [revive](https://github.com/mgechev/revive) & [Staticcheck](https://github.com/dominikh/go-tools) are great linters.
 
@@ -81,7 +81,7 @@ if *boolArgPtr != false {
 - [Effective Go](https://go.dev/doc/effective_go) ([HN](https://news.ycombinator.com/item?id=28735620)) ([HN](https://news.ycombinator.com/item?id=31167935))
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [Go proverbs](https://go-proverbs.github.io/)
-- [Go internals](https://github.com/teh-cmc/go-internals)
+- [Go Internals](https://cmc.gitbook.io/go-internals/) ([Code](https://github.com/teh-cmc/go-internals))
 - [Go 101](https://go101.org/article/101.html) - Book focusing on Go syntax/semantics and all kinds of runtime related things.
 - [Notes on Go](https://brandur.org/go)
 - [Avoiding complexity in Go](https://bradgignac.com/2014/09/24/avoiding-complexity-with-go.html)

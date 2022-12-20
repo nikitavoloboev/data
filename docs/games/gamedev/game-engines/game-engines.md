@@ -130,6 +130,7 @@
 - [Tiny physics engine](https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master) - Minimalist 3D C99 single-header physics engine. ([HN](https://news.ycombinator.com/item?id=33181029))
 - [Esoterica](https://github.com/BobbyAnguelov/Esoterica) - Prototype Game Engine.
 - [Chipmunk](https://github.com/slembcke/Chipmunk2D) - Fast and lightweight 2D game physics library.
+- [Jolt Physics JS](https://github.com/jrouwe/JoltPhysics.js)
 
 ## Physics engines
 

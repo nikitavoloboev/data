@@ -191,3 +191,4 @@ title: Rails
 - [Database Performance Optimization and Scaling in Rails (2022)](https://blog.appsignal.com/2022/12/07/database-performance-optimization-and-scaling-in-rails.html)
 - [Quick intro to ReflexBehaviors (2022)](https://www.youtube.com/watch?v=WERDPzOz1sA)
 - [The Basics of Receiving Webhooks in Rails (2022)](https://www.hookheroes.com/blog/basics-of-receiving-webhooks-in-rails)
+- [HTML5 Canvas on Rails](https://fogel.dev/software/canvas_on_rails_1/)

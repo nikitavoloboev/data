@@ -20,9 +20,9 @@ I list all the [tools](../tools/tools.md) and my [approaches to life](../focusin
 
 ## Learning now
 
-What I'm learning now can be found in [Notion Goals board](https://www.notion.so/e462537d8f3d40c095ea67091ca91f45?v=1006717e984a4243b198bcad5bf05198).
+Currently track in [Height](https://height.app/) as part of [goals](../focusing/goals.md). In future this will move to [LA](../ideas/learn-anything.md).
 
-Choosing what to learn is ideally due to making some [idea](ideas/ideas.md) I am excited about come alive.
+I try to learn things in service of [ideas](ideas/ideas.md) I am building.
 
 Or I am curious about something and want to explore. Lately it's been:
 

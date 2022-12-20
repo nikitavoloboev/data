@@ -4,7 +4,7 @@ title: JavaScript
 
 # [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
 
-[Modern JavaScript Tutorial](https://javascript.info/) is great.
+[Modern JavaScript Tutorial](https://javascript.info/) & [Just JavaScript](https://justjavascript.com/) are great intros.
 
 ## Notes
 

@@ -259,3 +259,4 @@
 - [Irradiance Caching – Part 1](http://www.ludicon.com/castano/blog/articles/irradiance-caching-part-1/)
 - [more.graphics](https://more.graphics/) - Your Unique and Free Generator Tools in One Place.
 - [The Continuity of Splines (2022)](https://www.youtube.com/watch?v=jvPPXbo87ds) ([HN](https://news.ycombinator.com/item?id=34014308))
+- [Tool to create videos of particles or waves in different 2D domains](https://github.com/nilsberglund-orleans/YouTube-simulations)

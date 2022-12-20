@@ -122,3 +122,5 @@ title: Lean
 - [WASM Lean](https://github.com/yatima-inc/Wasm.lean) - WebAssembly tools for Lean.
 - [Lean 4 Poseidon implementation](https://github.com/yatima-inc/Poseidon.lean)
 - [Zulip Chat Archive](https://leanprover-community.github.io/archive/)
+- [FFI.lean](https://github.com/yatima-inc/FFI.lean) - Template for calling Rust functions in Lean using C/C++ FFI and the CXX crate.
+- [LSpec](https://github.com/yatima-inc/LSpec) - Testing framework for Lean 4, inspired by Haskell's Hspec package.

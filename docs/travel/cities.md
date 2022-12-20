@@ -7,6 +7,7 @@
 - [Mixed-use (housing on top of stores) is good.](https://twitter.com/jake_gotta/status/1466189950135640065)
 - [Big parks are good for long walks/runs/bikes. I think if I built a city I would make a connected network of linear parks covering the whole city (plus some big ones), and enforce a rule that every single point in the city must be within 500m of the network.](https://twitter.com/VitalikButerin/status/1539341115232493575)
 - [Cities need more cozy enchanting late night cafes to work & read from til 1am.](https://twitter.com/marty/status/1574434836105895936)
+- [I got way happier when I stopped analyzing my city choice and started knowing and loving the place that I’ve chosen and the people who are here](https://twitter.com/annarmitchell/status/1604652341399113729)
 
 ## Links
 

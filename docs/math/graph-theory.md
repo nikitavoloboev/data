@@ -76,3 +76,4 @@ Love what [Andrei](https://github.com/anvaka) is doing with graphs.
 - [graph](https://github.com/s1ck/graph) - Library of high-performant graph algorithms in Rust.
 - [Pathfinding Visualizer](https://pathfinding-visualizer-nu.vercel.app/) ([Code](https://github.com/eoin-barr/pathfinding-visualizer)) ([HN](https://news.ycombinator.com/item?id=33486633))
 - [Ask HN: Has anyone tried to model the entire business world as a graph? (2022)](https://news.ycombinator.com/item?id=33707708)
+- [Workflow Graph Component (DAG)](https://github.com/google/workflow-graph)

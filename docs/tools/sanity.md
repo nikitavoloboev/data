@@ -15,3 +15,4 @@ title: Sanity
 - [Why Sanity is best CMS](https://twitter.com/kmelve/status/1447674577732186114)
 - [Sanity JS client](https://github.com/sanity-io/client)
 - [Sanity Plugin Utils](https://github.com/SimeonGriggs/sanity-plugin-utils)
+- [Sanity Preview Kit](https://github.com/sanity-io/preview-kit) - Toolkit for building live-as-you-type content preview experiences.

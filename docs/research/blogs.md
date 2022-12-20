@@ -25,6 +25,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Brandur](https://brandur.org/articles) ([Code](https://github.com/brandur/sorg))
 - [Not a Number](https://www.nan.fyi/)
 - [Armin Ronacher](https://lucumr.pocoo.org/)
+- [Niki Tonsky](https://tonsky.me/)
 - [Dan Abramov](https://overreacted.io) ([Code](https://github.com/gaearon/overreacted.io))
 - [Nicolas Moutschen](https://n14n.dev/)
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html) ([Prettier](https://prettygraham.com/))
@@ -251,6 +252,9 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Ivan](https://imihajlov.tk/blog/)
 - [Chris Wellons](https://nullprogram.com/)
 - [Remi Louf](https://www.thetypicalset.com/blog/index.html)
+- [Machine Logic](https://lawrencecpaulson.github.io/)
+- [Denny Britz](https://dennybritz.com/)
+- [Darius Kazemi](https://tinysubversions.com/notes/)
 
 ## Notes
 

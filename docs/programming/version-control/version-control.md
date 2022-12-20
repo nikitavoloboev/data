@@ -4,6 +4,8 @@ I use [Git](git.md) for all my version control.
 
 [changesets](https://github.com/changesets/changesets) is neat tool. [Graphite](https://graphite.dev/) & [Sapling](https://github.com/facebook/sapling) look useful.
 
+I love the idea of big monorepos with great tooling to support making changes and releasing code. [TVL](https://tvl.fyi/) is a nice example of such code, made by few ex and current Googlers. Never worked at Google but did hear/read that they famously run all their code in one millions of line of code monorepo where most libraries are nearly always kept at the latest version with tooling to refactor/search code easily.
+
 ## Links
 
 - [Pijul](https://nest.pijul.com/pijul_org/pijul) - Version control system based on patches. Its fundamental promise is that two patches producible in parallel always commute. ([HN](https://news.ycombinator.com/item?id=22021309)) ([Article](https://initialcommit.com/blog/pijul-version-control-system)) ([Lobsters](https://lobste.rs/s/sikahv/pijul_mathematically_sound_version)) ([Lobsters](https://lobste.rs/s/ya58ns/pijul_patch_based_distributed_version)) ([HN](https://news.ycombinator.com/item?id=29991417))

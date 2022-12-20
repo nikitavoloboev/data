@@ -18,6 +18,8 @@ Anything that can be represented by the above list can be analyzed as a category
 
 [Category Theory lectures by Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) are nice intro.
 
+[Bruno Gavranovic](https://github.com/Velocidex/velociraptor) posts nice things about category theory.
+
 ## Notes
 
 - The Curry Howard isomorphism. The idea that logic and programming are just two sides of the same coin: types are propositions and programs are proofs.

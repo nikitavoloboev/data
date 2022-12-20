@@ -261,3 +261,4 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [Buildspace Projects](https://github.com/buildspace/buildspace-projects)
 - [What if? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions](https://xkcd.com/what-if-2/)
 - [Ask HN: What is the best advice you received in 2022?](https://news.ycombinator.com/item?id=34029801)
+- [Ask HN: Top Skills to Learn for 2023?](https://news.ycombinator.com/item?id=34054170)

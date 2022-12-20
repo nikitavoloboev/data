@@ -153,3 +153,4 @@ For me personally the end goal and purpose is ultimate freedom. Doing what I lov
 - [Ask HN: What kind of life do you dream about? (2022)](https://news.ycombinator.com/item?id=33573907)
 - [Advice to maximize your life in 20's](https://www.reddit.com/r/AskMen/comments/zehymh/men_in_their_30s_what_is_your_advice_for_25_year/)
 - [Ask HN: What's You Life's Work? (2022)](https://news.ycombinator.com/item?id=33983826)
+- [Ask HN: Has anyone here turned around their life in their 40s? (2022)](https://news.ycombinator.com/item?id=34052201)

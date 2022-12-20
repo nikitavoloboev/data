@@ -167,6 +167,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Best comedy podcasts (2022)](https://www.reddit.com/r/podcasts/comments/ymtk43/best_comedy_podcast/)
 - [Podcast recommendations from women (2022)](https://www.reddit.com/r/podcasts/comments/yrulph/i_would_love_to_hear_some_recommendations_from/)
 - [What are some of the best podcasts for developers? (2022)](https://news.ycombinator.com/item?id=33943707)
+- [Ask HN: What is the best podcast you listened to in 2022?](https://news.ycombinator.com/item?id=34056715)
 
 ## Notes
 
@@ -262,3 +263,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Doughnut](https://doughnutapp.com/) - Podcast App for macOS. ([Code](https://github.com/dyerc/Doughnut))
 - [Google Podcasts](https://podcasts.google.com/)
 - [I Built an AI Chatbot Based On My Favorite Podcast (2022)](https://every.to/superorganizers/i-trained-a-gpt-3-chatbot-on-every-episode-of-my-favorite-podcast) ([Tweet](https://twitter.com/danshipper/status/1603793582120488961))
+- [Podalize](https://github.com/mave5/podalize) - Podcast Transcription and Analysis.

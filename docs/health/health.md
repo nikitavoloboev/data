@@ -92,3 +92,4 @@ Like listening to [Andrew Huberman](https://www.youtube.com/c/AndrewHubermanLab/
 - [Dr. Kyle Gillett: Tools for Hormone Optimization in Males (2022)](https://hubermanlab.com/dr-kyle-gillett-tools-for-hormone-optimization-in-males/)
 - [Is anyone else getting cold/sick much more often these days? (2022)](https://news.ycombinator.com/item?id=33982006)
 - [Huberman AI](https://huberman.rile.yt/) - Factual AI Q&A – Answers based on Huberman Lab transcripts. ([HN](https://news.ycombinator.com/item?id=34030389))
+- [Биосеминары](https://bioseminars.wordpress.com/)

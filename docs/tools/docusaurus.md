@@ -19,3 +19,4 @@ I want to try build a [SolidJS](../programming-languages/javascript/js-libraries
 - [Docusaurus 2.0 (2022)](https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0) ([HN](https://news.ycombinator.com/item?id=32303052))
 - [Awesome Docusaurus](https://github.com/webbertakken/awesome-docusaurus)
 - [Docusaurus Site Showcase](https://docusaurus.io/showcase)
+- [Docusaurus Lyra Search Plugin](https://github.com/LyraSearch/plugin-docusaurus)

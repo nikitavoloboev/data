@@ -85,3 +85,4 @@
 - [PDFSyntax](https://github.com/desgeeko/pdfsyntax) - Python PDF parsing library and tool built on top to browse the internal structure of a PDF file. ([HN](https://news.ycombinator.com/item?id=33646951))
 - [PDF storage with global search](https://github.com/ire4ever1190/tsuil)
 - [Hammer PDF](https://pdf.hammerscholar.net/) - Smart Scientific Reader. ([Code](https://github.com/HammerPDF/Smart-Scientific-Reader))
+- [Open PDF Sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your command line. ([HN](https://news.ycombinator.com/item?id=34051652))

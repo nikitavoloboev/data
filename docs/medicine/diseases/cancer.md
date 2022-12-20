@@ -2,6 +2,10 @@
 
 Michael Levin's [thoughts on cancer suppression](https://www.youtube.com/watch?v=p3lsYlod5OU&t=8653s) is insightful.
 
+## Notes
+
+- [Things only got done when you actively threaten people and force them take action. Doctor doesn't want to properly follow up on a stage-iv foot ulcer and home wound care misses scheduled appointments? Ok, we're going to the ER and telling them that the doctor doesn't respond to his service and home care didn't show up. Had to do that several times but eventually doctors and home care got tired of getting yelled at (by me and by whomever at the hospital system they reported too, because, ER staff was unhappy) that home care and doctors visits were much more regular.](https://news.ycombinator.com/item?id=34038601)
+
 ## Links
 
 - [GRAIL](https://grail.com/) - GRAIL’s mission is to detect cancer early, when it can be cured.
@@ -44,3 +48,4 @@ Michael Levin's [thoughts on cancer suppression](https://www.youtube.com/watch?v
 - [A Universal Cancer Treatment? (2022)](https://nautil.us/a-universal-cancer-treatment-241231/) ([HN](https://news.ycombinator.com/item?id=33109633))
 - [CRISPR cancer trial success paves the way for personalized treatments (2022)](https://www.nature.com/articles/d41586-022-03676-7) ([HN](https://news.ycombinator.com/item?id=33554141))
 - [Base editing: Revolutionary therapy clears girl's incurable cancer (2022)](https://news.ycombinator.com/item?id=33939491)
+- [I’ve been battling cancer last 2 years, but now only have a few days left](https://news.ycombinator.com/item?id=34038601)

@@ -421,3 +421,4 @@
 - [Ask HN: Can you recommend me a book to (re)learn math? (2022)](https://news.ycombinator.com/item?id=33859823)
 - [List of advanced math tricks by Terence Tao](https://mathstodon.xyz/@tao/109451634735720062) ([HN](https://news.ycombinator.com/item?id=33952515))
 - [I quiz ChatGPT about math (2022)](https://billwadge.com/2022/12/15/just-how-smart-are-you-chatgpt-i-quiz-chatgpt-about-math/) ([HN](https://news.ycombinator.com/item?id=34007544))
+- [Math problem generator](https://github.com/lukew3/mathgenerator) ([HN](https://news.ycombinator.com/item?id=34047076))

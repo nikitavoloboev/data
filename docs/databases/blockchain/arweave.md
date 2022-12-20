@@ -57,3 +57,5 @@ title: Arweave
 - [Arg8](https://github.com/textury/arg8) - Light incentivized gateway for the Arweave ecosystem.
 - [Arweave Lisbon (2022)](https://www.youtube.com/watch?v=LnUqh8NTOS4)
 - [Chowder](https://github.com/turja-c/chowder) - Storage solution that lets you store images & text on Arweave then view all the past content you've uploaded.
+- [Arweave Ecosystem Landscape](https://twitter.com/warp_contracts/status/1604810600869425152)
+- [Warp](https://warp.cc/) - Smart contracts on Arweave. ([Twitter](https://twitter.com/warp_contracts))

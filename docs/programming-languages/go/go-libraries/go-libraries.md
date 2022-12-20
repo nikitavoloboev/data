@@ -208,7 +208,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [HTTP2](https://github.com/fasthttp/http2) - HTTP/2 implementation for fasthttp.
 - [fastjsonrpc](https://github.com/serjvanilla/fastjsonrpc) - Fast JSON-RPC 2.0 implementation for fasthttp server.
 - [Macaron](https://github.com/go-macaron/macaron) - High productive and modular web framework in Go.
-- [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework. ([HN](https://news.ycombinator.com/item?id=32466326))
+- [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework. ([HN](https://news.ycombinator.com/item?id=32466326)) ([Starter](https://github.com/nixsolutions/golang-echo-boilerplate))
 - [Buffalo](https://gobuffalo.io/docs/overview)
 - [Gramework](https://github.com/gramework/gramework) - Fast and Reliable Golang Web Framework.
 - [Vugu](https://github.com/vugu/vugu) - Modern UI library for Go+WebAssembly (experimental).
@@ -592,6 +592,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [dblens](https://github.com/maragudk/dblens) - HTTP handler for database browsing.
 - [expirable-cache](https://github.com/go-pkgz/expirable-cache) - Expirable Go LRC\LRU cache without goroutines.
 - [Proteus](https://github.com/jonbodner/proteus) - Simple tool for generating an application's data access layer.
+- [pgeo](https://github.com/saulortega/pgeo) - Geometric Types for Postgres.
 
 ## ML
 
@@ -1950,6 +1951,9 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [deepCopy](https://github.com/mohae/deepcopy) - Makes deep copies of things: unexported field values are not copied.
 - [mergo](https://github.com/imdario/mergo) - Merging Go structs and maps.
 - [Fn](https://github.com/kamstrup/fn) - Functional programming in Go.
+- [channel](https://github.com/goware/channel) - Easy to use non-blocking unbounded buffered channel.
+- [QFrame](https://github.com/tobgu/qframe) - Immutable data frame that support filtering, aggregation and data manipulation.
+- [util-go](https://github.com/terrastruct/util-go) - Terrastruct's general purpose go libraries.
 
 ## Links
 
@@ -2121,5 +2125,6 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Tutorial: Developing a RESTful API with Go, JSON Schema validation and OpenAPI docs (2022)](https://dev.to/vearutop/tutorial-developing-a-restful-api-with-go-json-schema-validation-and-openapi-docs-2490)
 - [Go HTTPS servers with TLS (2021)](https://eli.thegreenplace.net/2021/go-https-servers-with-tls/)
 - [How to Setup an HTTPS enabled client in Go (2022)](https://www.reddit.com/r/golang/comments/zjqyfm/how_to_setup_an_https_enabled_client/)
-- [OSV-Scanner](https://github.com/google/osv-scanner) - Find existing vulnerabilities affecting your project's dependencies.
+- [OSV-Scanner](https://github.com/google/osv-scanner) - Find existing vulnerabilities affecting your project's dependencies. ([HN](https://news.ycombinator.com/item?id=34016188))
 - [Connecting to a PostgreSQL database with Go's database/sql package](https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/)
+- [Best Go ORM that uses GraphQL and Postgres (2022)](https://www.reddit.com/r/golang/comments/zoy5hu/best_orm_that_uses_graphql_and_postgres/)

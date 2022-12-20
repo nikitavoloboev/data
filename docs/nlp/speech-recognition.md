@@ -158,3 +158,4 @@ title: Speech recognition
 - [Convmelspec: Melspectrograms for On-Device Audio Machine Learning (2022)](https://github.com/adobe-research/convmelspec)
 - [Lightning Echo](https://github.com/Lightning-AI/echo) - Production-ready audio and video transcription app that can run on your laptop or in the cloud.
 - [Best way to transcribe audio snippets (2022)](https://entgo.io/docs/tutorial-todo-gql)
+- [Whisper's transcription plus Pyannote's Diarization](https://github.com/Majdoddin/nlp)

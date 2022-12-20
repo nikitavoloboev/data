@@ -9,6 +9,8 @@ Here are tools I use for streaming:
 1. [OBS](https://obsproject.com) for recording my laptop, audio and sometimes the camera.
 2. [iShowU](https://shinywhitebox.com/ishowu) for installing the audio driver so the stream actually captures the sound from my headphones.
 
+Liked [this audio/streaming setup](https://matthewrocklin.com/writing/audio-visual/).
+
 ## Notes
 
 - To see Twitch chats in IRC, first [connect to Twitch via IRC](https://help.twitch.tv/customer/portal/articles/1302780-twitch-irc), then join the channel of stream you want (i.e. `/join #nikitavoloboev`).
@@ -97,3 +99,5 @@ Here are tools I use for streaming:
 - [Docker NGINX RTMP](https://github.com/alfg/docker-nginx-rtmp) - Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.
 - [On Twitch, you can never log off (2022)](https://every.to/cybernaut/on-twitch-you-can-never-log-off) ([HN](https://news.ycombinator.com/item?id=33962987))
 - [Making videos with Resolve fast](https://twitter.com/mattpocockuk/status/1603408007534198786)
+- [GStreamer](https://github.com/GStreamer/gstreamer) - Open-source multimedia framework.
+- [Audio-Visual Setup — Matthew Rocklin](https://matthewrocklin.com/writing/audio-visual/)

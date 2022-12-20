@@ -1,6 +1,6 @@
 # Continuous Integration
 
-[Dagger](https://dagger.io/) seems nice.
+[Dagger](https://dagger.io/) & [Agola](https://github.com/agola-io/agola) seem nice.
 
 ## Notes
 
@@ -104,3 +104,4 @@
 - [Bencher](https://github.com/epompeii/bencher) - Continuous benchmarking tools designed to help catch performance regressions in CI.
 - [Blazing fast CI with MicroVMs (2022)](https://blog.alexellis.io/blazing-fast-ci-with-microvms/) ([HN](https://news.ycombinator.com/item?id=33656767))
 - [Run separate Buildkite pipelines for each folder in your monorepo](https://github.com/monebag/monorepo-diff-buildkite-plugin)
+- [Agola](https://github.com/agola-io/agola) - CI/CD Redefined. ([Docs](https://agola.io/))

@@ -232,3 +232,4 @@
 - [Simple image transform service for use by other workers through service bindings](https://github.com/jacob-ebey/cf-image-service)
 - [Preventing loss dot JPEG (2022)](https://computer.rip/2022-07-21-preventing-loss-dot-jpeg.html)
 - [instafilter](https://github.com/thoppe/instafilter) - Instagram-like filters with deep learning.
+- [Pixel Accurate Atkinson Dithering for Images in HTML (2022)](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)

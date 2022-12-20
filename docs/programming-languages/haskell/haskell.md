@@ -4,9 +4,9 @@ title: Haskell
 
 # [Haskell](https://www.haskell.org)
 
-[This](https://www.scs.stanford.edu/16wi-cs240h/) is a nice course. [Haskell Weekly](https://haskellweekly.news/) is nice newsletter to stay up to date. [Introduction to Haskell IO](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html) is a good entry to show what Haskell is about.
+[This video](https://www.youtube.com/watch?v=tYH5UsahYQU) and [course](https://www.scs.stanford.edu/16wi-cs240h/) are nice intros. [Haskell Weekly](https://haskellweekly.news/) is nice newsletter to stay up to date. [Introduction to Haskell IO](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html) is a good entry to show what Haskell is about.
 
-[Haskell for Working Programmers](https://github.com/liftM/haskell-for-working-programmers) is a nice intro.
+[Haskell for Working Programmers](https://github.com/liftM/haskell-for-working-programmers) is great read.
 
 [Production Haskell](https://leanpub.com/production-haskell) seems like a nice advanced Haskell book.
 
@@ -500,3 +500,5 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [What do Haskellers think about Rust? (2022)](https://www.reddit.com/r/haskell/comments/zk2u6k/what_do_haskellers_think_about_rust/)
 - [Beginner-friendly introduction to Free Monads (2022)](https://notes.softinio.com/p/beginner-friendly-introduction-to)
 - [JavaScript backend merged into GHC (2022)](https://engineering.iog.io/2022-12-13-ghc-js-backend-merged/) ([Code](https://github.com/haskell/ghcup-hs))
+- [An Introduction to Haskell (Andres Löh) (2022)](https://www.youtube.com/watch?v=tYH5UsahYQU)
+- [Probability Monads from scratch in 100 lines of Haskell (2022)](https://dennybritz.com/posts/probability-monads-from-scratch/)

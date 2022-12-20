@@ -594,3 +594,4 @@ all: unset
 - [A Few Times Container Size Queries Would Have Helped Me Out (2022)](https://css-tricks.com/a-few-times-container-size-queries-would-have-helped-me-out/#aa-case-1-card-grid)
 - [Logical Border Radius (2022)](https://css-irl.info/logical-border-radius/)
 - [Help choose the syntax for CSS Nesting (2022)](https://webkit.org/blog/13607/help-choose-from-options-for-css-nesting-syntax/) ([HN](https://news.ycombinator.com/item?id=34006622))
+- [iPhone 14 Pro with dynamic island, on the web](https://github.com/junhoyeo/iphone)

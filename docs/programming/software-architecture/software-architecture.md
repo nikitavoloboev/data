@@ -281,5 +281,5 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Emerging Reference Architectural Patterns](https://github.com/wso2/reference-architecture) - Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model.
 - [Ask HN: Software architects – what’s your typical day look like? (2022)](https://news.ycombinator.com/item?id=33879083)
 - [Using Server Sent Events to Simplify Real-time Streaming at Scale (2022)](https://shopify.engineering/server-sent-events-data-streaming)
-- [Reinventing Backend Subsetting at Google (2022)](https://queue.acm.org/detail.cfm?id=3570937) - Designing an algorithm with reduced connection churn that could replace deterministic subsetting.
+- [Reinventing Backend Subsetting at Google (2022)](https://queue.acm.org/detail.cfm?id=3570937) - Designing an algorithm with reduced connection churn that could replace deterministic subsetting. ([HN](https://news.ycombinator.com/item?id=34035755))
 - [Does YOUR Tech Scale? (2022)](https://www.youtube.com/watch?v=ZNpOMPE9lBc)

@@ -100,3 +100,4 @@
 - [Lightweight and High-Fidelity End-to-End Text-to-Speech with Multi-Band Generation and Inverse Short-Time Fourier Transform (2022)](https://github.com/MasayaKawamura/MB-iSTFT-VITS)
 - [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech (2022)](https://arxiv.org/abs/2205.07211) ([Code](https://github.com/Rongjiehuang/GenerSpeech))
 - [AERO](https://github.com/m-mandel/aero) - Audio Super Resolution in the Spectral Domain.
+- [Enhance Speech from Adobe](https://podcast.adobe.com/enhance) - Free AI filter for cleaning up spoken audio. ([HN](https://news.ycombinator.com/item?id=34047976))

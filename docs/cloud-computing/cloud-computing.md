@@ -1,8 +1,8 @@
 # Cloud computing
 
-Like using [Cloud Run](https://cloud.google.com/run) or [fly.io](https://fly.io/) for serverless workloads. For personal (mostly [self hosting](../privacy/self-hosting.md)) servers I use [Hetzner](https://www.hetzner.com/) with [unlimited traffic and gigabit uplink](https://news.ycombinator.com/item?id=30055054). 
+Like using [Cloud Run](https://cloud.google.com/run) or [fly.io](https://fly.io/) for serverless workloads. For personal (mostly [self hosting](../privacy/self-hosting.md)) servers I use [Hetzner](https://www.hetzner.com/) with [unlimited traffic and gigabit uplink](https://news.ycombinator.com/item?id=30055054).
 
-[OVHcloud](https://www.ovhcloud.com/en-ie/) is nice too. Had bad experience with [GCP](gcp/gcp.md)/[AWS](aws/aws.md) billing so try to use it smartly now.
+[OVHcloud](https://www.ovhcloud.com/en-ie/) (with [Terraform OVH Provider](https://github.com/ovh/terraform-provider-ovh)) is nice too. Had bad experience with [GCP](gcp/gcp.md)/[AWS](aws/aws.md) billing so try to use it smartly now.
 
 ## ML
 
@@ -145,3 +145,4 @@ Like using [Cloud Run](https://cloud.google.com/run) or [fly.io](https://fly.io/
 - [Approaches in Cloud Development Ergonomics (2022)](https://metalbear.co/blog/approaches-in-cloud-development-ergonomics/)
 - [Leapp](https://www.leapp.cloud/) - DevTool to access your cloud. ([Code](https://github.com/Noovolari/leapp))
 - [OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO).
+- [Wing](https://www.winglang.io/) - Cloud-oriented programming language. ([HN](https://news.ycombinator.com/item?id=34051325))

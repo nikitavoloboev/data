@@ -4,7 +4,7 @@ title: React Hooks
 
 # [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 
-Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for more complex state handling. [React Query](https://react-query.tanstack.com/) is great for web requests & caching. [ahooks](https://ahooks.js.org/) has many useful hooks too. [Tilg](https://github.com/shuding/tilg) is nice for debugging components.
+Like [Jotai](https://jotai.org/) (with [signals](https://github.com/jotai-labs/jotai-signal)) or [Valtio](https://github.com/pmndrs/valtio) for more complex state handling. [React Query](https://react-query.tanstack.com/) is great for web requests & caching. [ahooks](https://ahooks.js.org/) has many useful hooks too. [Tilg](https://github.com/shuding/tilg) is nice for debugging components.
 
 I now am using [Solid](../../js-libraries/solid.md) for all my web apps and static sites, so trying to port many useful hooks from here for Solid.
 

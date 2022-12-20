@@ -138,3 +138,4 @@ Might give it a go sometime. Right now I love [VSCode](../vs-code/vs-code.md) an
 - [Navigating config files using tree-sitter (2022)](https://blog.meain.io/2022/navigating-config-files-using-tree-sitter/)
 - [Modern Emacs: Redux (2022)](https://batsov.com/articles/2022/06/09/modern-emacs-redux/)
 - [My IDE is too heavy so I moved to Emacs (2022)](https://renato.athaydes.com/posts/switching-from-heavyweight-ides-to-emacs.html) ([HN](https://news.ycombinator.com/item?id=33951866))
+- [Emacs: ffmpeg and macOS aliasing commands (2022)](https://xenodium.com/emacs-ffmpeg-and-macos-alias-commands/)

@@ -269,3 +269,4 @@ All active variables can be seen by running `env`.
 - [Drag and Drop from Terminal (2022)](https://blog.meain.io/2022/terminal-drag-and-drop/) ([HN](https://news.ycombinator.com/item?id=33836308))
 - [shcopy](https://github.com/aymanbagabas/shcopy) - Shell Copy. Simple utility that copies text to the clipboard from anywhere using ANSI OSC52 sequence.
 - [patsh](https://github.com/nix-community/patsh) - Command-line tool for patching shell scripts inspired by resholve.
+- [GNU/Linux shell related internals](https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/)

@@ -304,3 +304,4 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [Twitter's anti-Mastodon filter evasion](https://infosec.exchange/@postmodern/109523637731779949) ([HN](https://news.ycombinator.com/item?id=34036265))
 - [tweetback/canonical](https://github.com/tweetback/tweetback-canonical) - Package to resolve twitter URLs to new canonically hosted twitter backups.
 - [Bird SQL](https://www.perplexity.ai/sql) - Twitter search interface translates natural language into SQL. ([Tweet](https://twitter.com/perplexity_ai/status/1603441221753372673))
+- [Make your own simple, public, searchable Twitter archive](https://tinysubversions.com/twitter-archive/make-your-own/) ([Code](https://github.com/dariusk/twitter-archiver)) ([Tweet](https://twitter.com/tinysubversions/status/1604552603630649344)) ([HN](https://news.ycombinator.com/item?id=34056378))

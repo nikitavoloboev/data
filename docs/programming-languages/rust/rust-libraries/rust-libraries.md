@@ -210,6 +210,7 @@
 - [Motore](https://github.com/cloudwego/motore) - Async middleware abstraction powered by GAT and TAIT.
 - [Aggligator](https://github.com/surban/aggligator) - Aggregates multiple links (TCP or similar) into one connection having their combined bandwidth and provides resiliency against failure of individual links.
 - [rust-multiaddr](https://github.com/multiformats/rust-multiaddr) - Composable and future-proof network addresses.
+- [axohtml](https://github.com/axodotdev/axohtml) - Type checked JSX for Rust.
 
 ## Auth
 
@@ -2515,6 +2516,7 @@
 - [Typeshare](https://github.com/1Password/typeshare) - Ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI. ([Reddit](https://www.reddit.com/r/rust/comments/z1qc6n/1password_releases_typeshare_the_ultimate_tool/)) ([Article](https://blog.1password.com/typeshare-for-rust/))
 - [ddt](https://github.com/dudykr/ddt) - Clean dead git branches & Remove outdated cargo artifacts. ([Reddit](https://www.reddit.com/r/rust/comments/zah8ly/i_made_a_cli_tool_to_remove_only_outdated_cargo/))
 - [cargo-single](https://github.com/inejge/cargo-single) - Cargo subcommand for handling single-source Rust programs with dependencies.
+- [cargo-mommy](https://github.com/Gankra/cargo-mommy) - Support you when running cargo.
 
 ## Notes
 

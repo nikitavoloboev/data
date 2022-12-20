@@ -4,7 +4,7 @@ title: TypeScript
 
 # [TypeScript](https://www.typescriptlang.org/)
 
-[TS Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) & [Effective Typescript Book](https://effectivetypescript.com/) are great intros. So as [Execute Program](https://www.executeprogram.com/) & [Total TypeScript](https://www.totaltypescript.com/) courses too. [Type Challenges](https://github.com/type-challenges/type-challenges) is a nice test for TS knowledge.
+[TS Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) & [Effective Typescript Book](https://effectivetypescript.com/) are great intros. So as [Execute Program](https://www.executeprogram.com/), [Type-Level TypeScript](https://type-level-typescript.com/) or [Total TypeScript](https://www.totaltypescript.com/) courses. [Type Challenges](https://github.com/type-challenges/type-challenges) is a nice test for TS knowledge.
 
 [TypeScript Error Translator](https://github.com/mattpocock/ts-error-translator) is nice.
 

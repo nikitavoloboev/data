@@ -68,3 +68,4 @@ title: Bazel
 - [Bazel clang-tidy](https://github.com/erenon/bazel_clang_tidy) - Run clang-tidy on Bazel C++ targets directly, efficiently, with caching enabled.
 - [OpenAPI rules for Bazel](https://github.com/meetup/rules_openapi)
 - [Compilation database with Bazel](https://github.com/grailbio/bazel-compilation-database) - Tool to generate compile_commands.json from the Bazel build system.
+- [What's New in Bazel 6.0 (2022)](https://www.buildbuddy.io/blog/whats-new-in-bazel-6-0/) ([HN](https://news.ycombinator.com/item?id=34055006))

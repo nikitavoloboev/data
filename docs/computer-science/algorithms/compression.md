@@ -2,6 +2,8 @@
 
 [compress](https://github.com/klauspost/compress) & [L4](https://github.com/pierrec/lz4) are nice Go packages for compression. [Brotli](http://brotli.org/) is amazing.
 
+[Zstandard](https://github.com/facebook/zstd) is [great](https://news.ycombinator.com/item?id=34058711).
+
 ## Notes
 
 - [Can compress PNG images well with pngquant.](https://twitter.com/michaelvillar/status/1445079263208787969)
@@ -9,7 +11,7 @@
 
 ## Links
 
-- [Zstandard](https://github.com/facebook/zstd) - Fast real-time compression algorithm. ([HN](https://news.ycombinator.com/item?id=24714854)) ([HN](https://news.ycombinator.com/item?id=25455314)) ([HN](https://news.ycombinator.com/item?id=32715933))
+- [Zstandard](https://github.com/facebook/zstd) - Fast real-time compression algorithm. ([HN](https://news.ycombinator.com/item?id=24714854)) ([HN](https://news.ycombinator.com/item?id=25455314)) ([HN](https://news.ycombinator.com/item?id=32715933)) ([HN](https://news.ycombinator.com/item?id=34058711))
 - [Orz](https://github.com/richox/orz) - General purpose data compressor written in rust.
 - [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - New Generation Entropy coders.
 - [Snappy](https://github.com/google/snappy) - Fast compressor/decompressor.

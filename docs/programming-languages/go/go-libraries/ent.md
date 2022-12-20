@@ -8,6 +8,10 @@ My preferred ORM for [Go](../go.md).
 
 Doing [tutorial](https://entgo.io/docs/tutorial-setup) as it shows how to write [the code](https://github.com/a8m/ent-graphql-example) for setting up a [GraphQL](../../../networking/graphql/graphql.md) instance is great intro.
 
+## Notes
+
+- [Read Ent docs. Start playing around with using it. Try to define some schemas and run generation. Look at what is generated with different schemas and then try using the generated code like their examples in the docs.](https://www.reddit.com/r/golang/comments/zpau6s/ent_learning_resources/)
+
 ## Links
 
 - [Ent Contrib](https://github.com/ent/contrib) - Collection of extensions and tools for ent.

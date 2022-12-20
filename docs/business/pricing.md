@@ -107,3 +107,4 @@ Don't be afraid to charge more for good products as they get better. Especially 
 - [SaaS Pricing Strategy](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf)
 - [Ask HN: What's a good business model for selling standalone software (2022)](https://news.ycombinator.com/item?id=33645489)
 - [Alternatives to doing discounts for software](https://twitter.com/ankurnagpal/status/1594719317081444354)
+- [Ask HN: Anyone tired of everything being a subscription now? (2022)](https://news.ycombinator.com/item?id=34041962)

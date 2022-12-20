@@ -1,6 +1,8 @@
 # E-commerce
 
-Love [Italic](https://italic.com/) & [Beauty of Joseon](https://beautyofjoseon.com/)'s store UX. [Medusa](https://github.com/medusajs/medusa) seems nice alternative to [Shopify](https://www.shopify.com/).
+Love [Italic](https://italic.com/), [Zalando](https://www.zalando.com/) & [Beauty of Joseon](https://beautyofjoseon.com/)'s store UX.
+
+[Medusa](https://github.com/medusajs/medusa) seems nice alternative to [Shopify](https://www.shopify.com/).
 
 ## Nice shops
 

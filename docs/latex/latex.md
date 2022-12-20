@@ -8,7 +8,7 @@ LaTeX is a nice typesetting language that I mostly use to markup various mathema
 
 For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text.md) and [LateXTools](https://github.com/SublimeText/LaTeXTools) plugin.
 
-[SILE](https://sile-typesetter.org/) seems like a nice alternative to LaTeX.
+[SILE](https://sile-typesetter.org/) seems like a nice alternative to LaTeX. [Digestif](https://github.com/astoff/digestif) is great [LSP](../programming-languages/language-server-protocol.md) for LaTeX.
 
 ## Links
 
@@ -162,3 +162,5 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Pretty-Print LaTeX](https://github.com/stefanhepp/pplatex)
 - [Compositor](https://compositorapp.com/) - WYSIWYG LaTeX Editor for Mac. ([Issues](https://github.com/ktraunmueller/Compositor))
 - [Converting my PhD thesis into HTML (2021)](https://desfontain.es/privacy/latex-to-html.html)
+- [Digestif](https://github.com/astoff/digestif) - Language server for TeX and friends.
+- [Commutative diagrams with TikZ](https://github.com/astoff/tikz-cd)

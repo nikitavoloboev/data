@@ -4,7 +4,7 @@ title: Jest
 
 # [Jest](https://jestjs.io)
 
-[uvu](https://github.com/lukeed/uvu) seems like a nice alternative.
+[uvu](https://github.com/lukeed/uvu) seems like a nice alternative. Also if you do run UI tests, it's best to [run them in real browsers](https://twitter.com/passle_/status/1604567827867996161). With something like [Playwright](https://playwright.dev/).
 
 ## Notes
 

@@ -264,3 +264,6 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [How Might Generative AI Change Programming? (2022)](https://tratt.net/laurie/blog/2022/how_might_generative_ai_change_programming.html)
 - [Stable Tuner](https://github.com/devilismyfriend/StableTuner) - Finetuning SD in style.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion](https://github.com/adobe-research/custom-diffusion) ([Web](https://www.cs.cmu.edu/~custom-diffusion/))
+- [Learn Prompting](https://learnprompting.org/docs/intro) ([Code](https://github.com/trigaten/Learn_Prompting))
+- [GPT‑3/LLM prompts are assembly code, not a human interface](https://twitter.com/goodside/status/1604769046641213441)

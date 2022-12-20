@@ -393,3 +393,4 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Steam Video Game Database](https://github.com/leinstay/steamdb) - JSON file of all games available on Steam with prices and additional data.
 - [Describe your favorite video game as boring as possible](https://twitter.com/Lord_Arse/status/1423423536023154690)
 - [Qwantify](https://github.com/wanjohiryan/qwantify) - Play games, with your friends right from the browser. No installation needed. ([Web](https://qwantify.vercel.app/))
+- [Going into 2023 as a Patient Gamer](https://www.reddit.com/r/patientgamers/comments/zppu40/going_into_2023_as_a_patient_gamer/)

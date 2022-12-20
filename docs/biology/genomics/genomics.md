@@ -229,3 +229,4 @@ title: Genomics
 - [Inseq](https://github.com/inseq-team/inseq) - Intepretability for Sequence Generation Models.
 - [fqgrep](https://github.com/fulcrumgenomics/fqgrep) - Grep for FASTQ files.
 - [Fulcrum Genomics](https://fulcrumgenomics.com/) ([GitHub](https://github.com/fulcrumgenomics)) ([Twitter](https://twitter.com/fulcrumgenomics))
+- [You can’t take it with you: straight talk about epigenetics (2022)](https://razib.substack.com/p/you-cant-take-it-with-you-straight)

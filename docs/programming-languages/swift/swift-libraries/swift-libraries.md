@@ -1350,6 +1350,9 @@
 - [CornucopiaStreams](https://github.com/Cornucopia-Swift/CornucopiaStreams) - Stream-based transport broker.
 - [DictionaryCoder](https://github.com/almazrafi/DictionaryCoder) - Fast dictionary encoder / decoder for Swift Codable types.
 - [CallStackParser](https://github.com/GDXRepo/CallStackParser) - Utility class for parsing the current call stack in scope.
+- [Autolayout](https://github.com/swifweb/autolayout) - Incredible AutoLayout on direct power of CSS3.
+- [Apache OpenWhisk runtimes for Swift](https://github.com/apache/openwhisk-runtime-swift)
+- [CodeEditKit](https://github.com/CodeEditApp/CodeEditKit) - Interface between CodeEdit and extensions.
 
 ## Other (not lib)
 

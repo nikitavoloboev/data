@@ -8,6 +8,8 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 
 [Video Encoding from Scratch](https://github.com/kevmo314/codec-from-scratch) is great for learning video codecs.
 
+[Vidstack Player](https://github.com/vidstack/player) is nice browser player.
+
 ## Inspiring editing
 
 - [Watchtower of Turkey](https://www.youtube.com/watch?v=z7yqtW4Isec) - Incredible. By Leonardo Dalessandri.
@@ -128,7 +130,7 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Moving from YouTube to PeerTube (2020)](https://battlepenguin.com/tech/moving-from-youtube-to-peertube/) ([HN](https://news.ycombinator.com/item?id=24222661))
 - [RedditVids](https://redditvids.com/) - Discover shared videos and live broadcasts from Reddit.
 - [FFmpeg: Step-by-Step Retro Video Filter (2020)](https://www.gariany.com/2020/08/ffmpeg-step-by-step-retro-video-filter/)
-- [YouTube Transcript](https://youtubetranscript.com/) - Read YouTube videos.
+- [YouTube Transcript](https://youtubetranscript.com/) - Read YouTube videos. ([HN](https://news.ycombinator.com/item?id=34039362))
 - [Got Your Back](https://www.gotyourback.space/) - Collection of virtual backdrops for use in video call apps.
 - [Eulerian Video Magnification](https://people.csail.mit.edu/mrub/evm/) ([HN](https://news.ycombinator.com/item?id=24362525))
 - [Create a Golang Video Streaming Server Using HLS (2020)](https://qvault.io/2020/09/04/golang-video-stream-server/)
@@ -450,3 +452,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Detail](https://detail.co/) - Record, remix and share inspiring video in minutes, using the superpowers of your Mac. ([Twitter](https://twitter.com/detailapp))
 - [Open source USB C camera with C mount lens, MIPI Sensor, Lattice FPGA, USB 3.0 (2022)](https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html) ([HN](https://news.ycombinator.com/item?id=34022797))
 - [Vidstack](https://www.vidstack.io/) - Media tools for frontend developers. ([GitHub](https://github.com/vidstack))
+- [Video Codec in 100 lines of Rust (2021)](https://blog.tempus-ex.com/hello-video-codec/)

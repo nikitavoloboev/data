@@ -147,6 +147,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [QuizList](https://github.com/below/QuizList) - Simple project to memorise Lists.
 - [SwiftUI WeChat](https://github.com/wxxsw/SwiftUI-WeChat)
 - [Glucose Direct](https://github.com/creepymonster/GlucoseDirect) - App programmed in Swift/SwiftUI for using Libre blood glucose sensors.
+- [Cards](https://github.com/Rminsh/Cards) - Simple flash cards app for iOS and macOS.
 
 ## Other
 

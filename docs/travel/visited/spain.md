@@ -1,5 +1,7 @@
 # Spain
 
+[Barcelona](https://en.wikipedia.org/wiki/Barcelona) is great city. I spend a lot of time in north of Spain near [Santander](https://en.wikipedia.org/wiki/Santander,_Spain).
+
 ## Links
 
 - [Андрей Ситник - Барселона, активизм и антимонархизм (2021)](https://overcast.fm/+QPQmOrRj0)
@@ -10,3 +12,4 @@
 - [Bogleheads Spain Guide](https://bogleheads.es/guia)
 - [Investing in Spain (2022)](https://www.reddit.com/r/eupersonalfinance/comments/yzxwn2/12k_saved_living_in_spain_where_to_start_investing/)
 - [Can Duolingo actually teach you Spanish?](https://www.bloomberg.com/news/features/2022-12-02/duolingo-plus-gave-fans-of-free-app-a-cost-worth-paying) ([HN](https://news.ycombinator.com/item?id=33910439))
+- [Investing from Spain - Bogleheads](https://www.bogleheads.org/wiki/Investing_from_Spain)

@@ -213,3 +213,4 @@
 - [Turn a text description into a color](https://text-to-color.vercel.app/) ([Code](https://github.com/masonyekta/nextjs-openai-text-to-color))
 - [Tailwind CSS 10-color Palette Generator and API](https://www.tints.dev/) ([Code](https://github.com/SimeonGriggs/tints.dev))
 - [Quick tip on creating gradients](https://twitter.com/disco_lu/status/1599786152164106240)
+- [iro.js](https://iro.js.org/) - Modular, design-conscious color picker widget for JavaScript. ([Code](https://github.com/jaames/iro.js))

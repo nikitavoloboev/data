@@ -440,3 +440,4 @@ title: ML Libraries
 - [DeeProb-kit](https://github.com/deeprob-org/deeprob-kit) - Python Library for Deep Probabilistic Modeling.
 - [Allegro](https://github.com/mir-group/allegro) - Building highly scalable and accurate equivariant deep learning interatomic potentials.
 - [Tiktoken](https://github.com/openai/tiktoken) - Fast tokenizer by OpenAI. ([HN](https://news.ycombinator.com/item?id=34008839))
+- [Fortuna](https://github.com/awslabs/fortuna) - Library for Uncertainty Quantification.

@@ -1,5 +1,7 @@
 # Remote work
 
+Like [Axo's company remote values](https://www.axo.dev/team).
+
 ## Notes
 
 - [Remote work tip: Leave a Zoom open that anyone on the team can drop by during some predictable hours. No specific agenda.](https://twitter.com/dksf/status/1308799667153432576)

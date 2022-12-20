@@ -1091,6 +1091,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Dapr SDK for Python](https://github.com/dapr/python-sdk)
 - [Subgrounds](https://github.com/Protean-Labs/subgrounds) - Pythonic data access layer for applications querying data from The Graph Network.
 - [PyExcelerate](https://github.com/kz26/PyExcelerate) - Accelerated Excel XLSX Writing Library for Python.
+- [Pyrsistent](https://github.com/tobgu/pyrsistent) - Persistent/Immutable/Functional data structures for Python.
 
 ## Notes
 

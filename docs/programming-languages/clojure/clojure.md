@@ -257,3 +257,4 @@ title: Clojure
 - [Why your REPL experience sucks](https://srasu.srht.site/var-evaluation.html)
 - [Opinionated list of excellent Clojure learning materials](https://gist.github.com/ssrihari/0bf159afb781eef7cc552a1a0b17786f)
 - [Clojure is a trinity of language, REPL, and structural editor (2022)](https://blog.jakubholy.net/2022/trinity-of-clojure/) ([HN](https://news.ycombinator.com/item?id=33962090))
+- [Structuring Clojure Applications (2022)](https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html)

@@ -1,6 +1,6 @@
 # Belarus
 
-The [scale of repressions](https://twitter.com/belamova/status/1544265582643642368) in the country is truly tragic.
+The [scale of repressions](https://twitter.com/belamova/status/1544265582643642368) in the country is truly [tragic](https://twitter.com/navosha/status/1604760956906545152).
 
 ## Links
 

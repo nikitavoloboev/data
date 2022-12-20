@@ -6,6 +6,8 @@ Most great companies mostly hire in US only and there are just too many great pe
 
 I try to avoid pointless politics as much as possible but do like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mearsheimer), [George Friedman](https://twitter.com/george_friedman) & [Squirrel](https://twitter.com/zei_squirrel)'s analysis in regards to US foreign policy.
 
+[Ask Americans](https://www.reddit.com/r/AskAnAmerican/) is fun subreddit.
+
 ## Notes
 
 - [Quality of food in most of US is not great. Easy to gain weight due to portion size and added sugar.](https://twitter.com/bigmagicdao/status/1583729984304164864)
@@ -181,3 +183,4 @@ I try to avoid pointless politics as much as possible but do like [John Mearshei
 - [Citation](https://uslaw.link/) - Fast, stand-alone legal citation extractor. ([Code](https://github.com/unitedstates/citation))
 - [How did Delaware end up the de facto arbiter of US corporate law, historically? (2022)](https://www.reddit.com/r/AskEconomics/comments/zfjg84/how_did_delaware_end_up_the_de_facto_arbiter_of/)
 - [What do “American sections” of foreign stores actually need to stock (2022)](https://www.reddit.com/r/AskAnAmerican/comments/zogqtj/my_fellow_americans_what_do_american_sections_of/)
+- [What is the least American looking city in the US? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/zpfgxc/what_is_the_least_american_looking_city_in_the_us/)

@@ -14,6 +14,7 @@ Looking into building plugins for Raycast to compare it to [Alfred](../macOS/app
 - [Personal Notion Raycast Extension](https://github.com/jclem/raycast-notion)
 - [1Password extension for Raycast](https://github.com/dteare/raycast-1password-extension)
 - [Sourcegraph for Raycast](https://github.com/bobheadxi/raycast-sourcegraph) - Search code, browse Notebooks, and manage Batch Changes.
+- [Supabase Raycast](https://github.com/Rychillie/raycast-supabase/) - Raycast extension to manage your Supabase project.
 
 ## Notes
 

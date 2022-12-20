@@ -33,6 +33,7 @@ title: Svelte
 - [Coffee at Saigon](https://github.com/monodyle/saigon-coffee)
 - [Video Call App Built with 100ms and Svelte](https://github.com/100mslive/svelte-100ms)
 - [Svelte Starter](https://github.com/the-pudding/svelte-starter) - Starter template aims to quickly scaffold a SvelteKit project, designed around data-driven, visual stories at The Pudding.
+- [Tablog](https://github.com/lemmon/tablog-svelte) - Minimalistic blog theme built with SvelteKit.
 
 ## Notes
 

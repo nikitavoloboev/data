@@ -270,3 +270,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [Test 8,000 URL length](https://test-length.vercel.app/) ([Code](https://github.com/Kikobeats/test-length))
 - [Dust - XP1](https://xp1.dust.tt/) - GPT-based Assistant with access to your Tabs.
 - [Self-updating list of the most current useragents](https://www.useragents.me/) ([HN](https://news.ycombinator.com/item?id=34032605))
+- [Productivity Blocker](https://www.productivityblocker.com/) - Blocks Over 80 Sites. ([HN](https://news.ycombinator.com/item?id=34029045))

@@ -797,3 +797,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Alternatives to TeamViewer (2022)](https://twitter.com/levelsio/status/1603410120104448007)
 - [Readwise Reader](https://readwise.io/read) - All-in-one reading app. ([HN](https://news.ycombinator.com/item?id=34006202))
 - [Auto-qualify your sign-ups](https://qualify.june.so/) ([HN](https://news.ycombinator.com/item?id=34001017))
+- [Langame](https://langa.me/) - New mediums of human conversation. ([GitHub](https://github.com/langa-me))

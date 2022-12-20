@@ -295,3 +295,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Perfect format for cold emails](https://twitter.com/twentyminutevc/status/1598053199784673306)
 - [Ask HN: What email service should I use instead of Gmail? (2022)](https://news.ycombinator.com/item?id=33905137)
 - [Ellie](https://ellieai.com/) - Your AI Email Assistant. ([HN](https://news.ycombinator.com/item?id=34001656))
+- [Treating Email More Like a Password Manager (2022)](https://dmitryfrank.com/articles/treating_email_more_like_a_password_manager)

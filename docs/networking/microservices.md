@@ -120,3 +120,4 @@
 - [Serverless Micro Services | M3O](https://m3o.com/) ([Code](https://github.com/micro/services)) ([HN](https://news.ycombinator.com/item?id=32994937))
 - [What do we really mean by microservice configuration? (2022)](https://encore.dev/blog/designing-a-config-api)
 - [Sentinel](https://github.com/alibaba/sentinel-golang) - Sentinel of Your Microservices.
+- [Moduliths: because we need to scale, but we also cannot afford microservices (2022)](https://blog.kronis.dev/articles/modulith-because-we-need-to-scale-but-we-also-cannot-afford-micro-services)

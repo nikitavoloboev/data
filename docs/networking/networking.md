@@ -564,4 +564,6 @@
 - [KasmVNC](https://github.com/kasmtech/KasmVNC) - Remote web-based access to a Desktop or application.
 - [Everything I know about networking (2022)](https://tomaka.medium.com/everything-i-know-about-networking-8796e4f5846d)
 - [IPv6 Internet is broken](https://adminhacks.com/broken-IPv6.html) ([HN](https://news.ycombinator.com/item?id=33941324))
-- [Getting started with nmap (2022)](https://ittavern.com/getting-started-with-nmap/)
+- [Getting started with nmap (2022)](https://ittavern.com/getting-started-with-nmap/) ([HN](https://news.ycombinator.com/item?id=34026517))
+- [Comprehensive MPI Tutorial Resource](https://mpitutorial.com/) ([Code](https://github.com/mpitutorial/mpitutorial))
+- [How Many Computers Are In Your Computer?](https://www.gwern.net/Computers)

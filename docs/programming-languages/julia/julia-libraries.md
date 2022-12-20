@@ -784,6 +784,7 @@
 - [Tally](https://github.com/thofma/Tally.jl)
 - [Sylvia](https://github.com/dalum/Sylvia.jl) - Simple symbolic library.
 - [Leaflet](https://github.com/JuliaGeo/Leaflet.jl) - LeafletJS maps for Julia.
+- [ReadStatTables.jl](https://github.com/junyuan-chen/ReadStatTables.jl) - Read data files from Stata, SAS and SPSS into Julia tables.
 
 ## Links
 

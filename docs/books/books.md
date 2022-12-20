@@ -353,6 +353,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [The Single Best Book You Have Ever Read (2022)](https://www.reddit.com/r/suggestmeabook/comments/znmij8/the_single_best_book_you_have_ever_read/)
 - [Your favorite timeless "technical books"? (2022)](https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books)
 - [Name three books you read in 2022 which you'd recommend](https://twitter.com/algo_luca/status/1604083465456058368)
+- [Ask HN: What is the best thing you read in 2022?](https://news.ycombinator.com/item?id=34055123)
 
 ## Interesting Prose Books
 

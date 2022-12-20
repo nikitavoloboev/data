@@ -465,6 +465,7 @@
 - [header-parser](https://github.com/baszalmstra/header-parser) - Extracts information from an annotated C++ header and outputs it as JSON for use in code generation tools.
 - [CDT](https://github.com/artem-ogre/CDT) - C++ library for generating constraint or conforming Delaunay triangulations.
 - [JSBSim](https://github.com/JSBSim-Team/jsbsim) - Open source flight dynamics & control software library.
+- [fastgltf](https://github.com/spnda/fastgltf) - Superfast SIMD powered glTF 2.0 parser written in C++17 with minimal dependencies.
 
 ## Links
 

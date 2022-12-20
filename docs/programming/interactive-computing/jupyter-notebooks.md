@@ -236,3 +236,4 @@ title: Jupyter Notebooks
 - [pytest-jupyter](https://github.com/jupyter-server/pytest-jupyter) - Pytest plugin for testing Jupyter core libraries and extensions.
 - [Strip metadata from jupyter notebooks](https://github.com/deshaw/nbstripout-fast)
 - [Jupyter Enhancement Proposals](https://github.com/jupyter/enhancement-proposals)
+- [ipyannotations](https://github.com/janfreyberg/ipyannotations) - Data annotations in python using jupyter notebooks.

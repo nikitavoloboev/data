@@ -148,6 +148,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Unimpaired](https://github.com/tpope/vim-unimpaired) - Pairs of handy bracket mappings.
 - [Multiple cursors](https://github.com/terryma/vim-multiple-cursors) - Sublime Text style multiple selections.
 - [Table mode](https://github.com/dhruvasagar/vim-table-mode) - Instant table creation.
+- [Neovim Treesitter Playground](https://github.com/nvim-treesitter/playground) - View treesitter information directly in Neovim.
 - [Abolish](https://github.com/tpope/vim-abolish) - Search for, substitute, and abbreviate multiple variants of a word.
 - [Gutentags](https://github.com/ludovicchabant/vim-gutentags) - Manages your tag files.
 - [Vimtex](https://github.com/lervag/vimtex) - LaTeX support.
@@ -158,6 +159,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Ultisnips](https://github.com/SirVer/ultisnips) - Ultimate snippet solution for Vim.
 - [Incsearch & Easymotion](https://github.com/haya14busa/incsearch-easymotion.vim) - Incsearch & easymotion integration.
 - [Last place](https://github.com/farmergreg/vim-lastplace) - Intelligently reopen files at your last edit position.
+- [No Neck Pain](https://github.com/shortcuts/no-neck-pain.nvim) - Simple plugin to center the currently focused buffer to the middle of the screen.
 - [Sleuth](https://github.com/tpope/vim-sleuth) - Heuristically set buffer options.
 - [Obsession](https://github.com/tpope/vim-obsession) - Continuously updated session files.
 - [Wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager.

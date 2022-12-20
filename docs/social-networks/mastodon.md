@@ -6,6 +6,8 @@ title: Mastodon
 
 Love [being part](https://merveilles.town/web/@nikivi) of [Merveilles](https://merveilles.town/about) Mastodon server.
 
+Used [Movetodon](https://www.movetodon.org/) to move my follow graph of [Twitter](../tools/twitter.md).
+
 ## Interesting communities
 
 - [Merveilles](https://merveilles.town/about) - Community project aimed at the establishment of new ways of speaking, seeing and organizing information. ([Code](https://github.com/merveilles/merveilles-town)) ([Resources](https://github.com/merveilles/The-Town)) ([Resources 2](https://github.com/merveilles/Resources)) ([Forum](https://forum.merveilles.town/))
@@ -130,3 +132,4 @@ Love [being part](https://merveilles.town/web/@nikivi) of [Merveilles](https://m
 - [Phanpy](https://github.com/cheeaun/phanpy) - Minimalistic opinionated Mastodon web client.
 - [FediAct](https://github.com/Lartsch/FediAct) - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.
 - [Mastodon Desktop client written with Rust and Tauri](https://github.com/matthiasbeyer/deskodon)
+- [Mastodon Users Count](https://bitcoinhackers.org/@mastodonusercount)
