@@ -192,3 +192,4 @@ title: Rails
 - [Quick intro to ReflexBehaviors (2022)](https://www.youtube.com/watch?v=WERDPzOz1sA)
 - [The Basics of Receiving Webhooks in Rails (2022)](https://www.hookheroes.com/blog/basics-of-receiving-webhooks-in-rails)
 - [HTML5 Canvas on Rails](https://fogel.dev/software/canvas_on_rails_1/)
+- [An Overview Of Upcoming Ruby on Rails 7.1 Features (2022)](https://manny.codes/this-week-in-rails-wrapped-an-overview-of-rails-7-1-features-part-i/) ([HN](https://news.ycombinator.com/item?id=34066795))

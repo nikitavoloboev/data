@@ -272,3 +272,4 @@ div.CodeMirror-cursor,
 - [HN: Obsidian 1.0 (2022)](https://news.ycombinator.com/item?id=33190433)
 - [Writing down what I do – in Obsidian](https://v5.chriskrycho.com/journal/writing-down-what-i-do-in-obsidian/) ([HN](https://news.ycombinator.com/item?id=33527296))
 - [Highly opinionated, fully functional Obsidian vault](https://github.com/bramses/bramses-highly-opinionated-vault-2023) ([HN](https://news.ycombinator.com/item?id=34034414))
+- [Obsidian Canvas](https://obsidian.md/canvas) - Infinite space for your ideas. ([HN](https://news.ycombinator.com/item?id=34066824))
