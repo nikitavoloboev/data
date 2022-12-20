@@ -1,6 +1,8 @@
 # Vim plugins
 
-Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim#L6).
+Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim).
+
+[lazy.nvim](https://github.com/folke/lazy.nvim) is great plugin manager.
 
 ## Utility
 
@@ -365,3 +367,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [LVIM IDE](https://github.com/lvim-tech/lvim) - Modular Neovim configuration written in Lua with full customization.
 - [ThePrimeagen's init.lua](https://github.com/ThePrimeagen/init.lua)
 - [Nice starting point for Neovim](https://github.com/nvim-lua/kickstart.nvim)
+- [lazy.nvim](https://github.com/folke/lazy.nvim) - Modern plugin manager for Neovim.

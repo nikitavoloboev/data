@@ -341,7 +341,7 @@ One of my favorite things in life is building little tools for solving even the 
 - [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.
 - [FlowForge](https://flowforge.com/) - Open source low-code development platform. ([Twitter](https://twitter.com/FlowForgeInc))
 - [Shove](https://github.com/pennersr/shove) - Asynchronous & persistent push notification service.
-- [Athens](https://github.com/athensresearch/athens) - Open-Source Roam Research. ([HN](https://news.ycombinator.com/item?id=26316793)) ([Web](https://athensresearch.github.io/athens/))
+- [Athens](https://github.com/athensresearch/athens) - Open-Source Roam Research. ([HN](https://news.ycombinator.com/item?id=26316793)) ([Web](https://athensresearch.github.io/athens/)) ([Discord](https://discord.gg/as9h8yHNfD))
 - [RustDesk](https://rustdesk.com/) - Remote desktop software, an open source TeamViewer alternative. ([Code](https://github.com/rustdesk/rustdesk)) ([HN](https://news.ycombinator.com/item?id=31456007)) ([HN](https://news.ycombinator.com/item?id=32239025))
 - [Hightouch](https://www.hightouch.io/) - Sync your customer data to business tools. ([HN](https://news.ycombinator.com/item?id=29188544))
 - [Spore](https://spore.build/) - Free, all-in-one tool for creators to build websites to truly own, grow, & monetize their relationship with fans. ([Tweet](https://twitter.com/JoshConstine/status/1408116841554219011))

@@ -181,7 +181,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [morphic-ts](https://github.com/sledorze/morphic-ts) - Adresses the pain of writing and maintaining derived code for business logic.
 - [ts-results](https://github.com/vultix/ts-results) - TypeScript implementation of Rust's Result object.
 - [TSDataStructure](https://github.com/Slashmsu/TSDataStructure) - Collection of data structures(LinkedList, DoubleLinkedList, Stack, Queue, Dictionary and etc...) for TypeScript.
-- [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript. ([Functional TypeScript With fp-ts](https://functional.christmas/2020/12)) ([eslint-plugin-fp-ts](https://github.com/buildo/eslint-plugin-fp-ts)) ([Cheat Sheet](https://github.com/inato/fp-ts-cheatsheet)) ([Learn fp-ts](https://github.com/zanza00/learn-fp-ts))
+- [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript. ([Functional TypeScript With fp-ts](https://functional.christmas/2020/12)) ([eslint-plugin-fp-ts](https://github.com/buildo/eslint-plugin-fp-ts)) ([Cheat Sheet](https://github.com/inato/fp-ts-cheatsheet)) ([Learn fp-ts](https://github.com/zanza00/learn-fp-ts)) ([Recipes](https://github.com/grossbart/fp-ts-recipes))
 - [fp-ts-contrib](https://github.com/gcanti/fp-ts-contrib) - Community driven utility package for fp-ts.
 - [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding. ([Web](https://gcanti.github.io/io-ts/))
 - [typescript-utilities-guide](https://github.com/typescript-cheatsheets/typescript-utilities-cheatsheet) - List of typescript helper libraries.
@@ -717,6 +717,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [pasta-sourcemaps](https://github.com/bloomberg/pasta-sourcemaps) - Pretty (and) Accurate Stack Trace Analysis is an extension to the JavaScript source map format that allows for accurate function name decoding.
 - [Zod Validation Error](https://github.com/causaly/zod-validation-error) - Wrap zod validation errors in user-friendly readable messages.
 - [Data-Forge](https://github.com/data-forge/data-forge-ts) - JavaScript data transformation and analysis toolkit inspired by Pandas and LINQ.
+- [Vercel Edge Config](https://github.com/vercel/edge-config) - Ultra-low latency data at the edge.
 
 ## Links
 

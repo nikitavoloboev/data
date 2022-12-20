@@ -4,7 +4,7 @@
 
 [Come as You Are](https://www.goodreads.com/en/book/show/22609341) is great book.
 
-[SKYN Ultra Thin](https://skynfeel.com/collections/elite) are least bad condoms I found. It's best to get tested though and use other birth controls like [NuvaRing](https://www.nuvaring.com/) once you find a [stable partner](relationships.md). Or get a [vasectomy](https://www.nhs.uk/conditions/contraception/vasectomy-male-sterilisation/) once you're certain you don't want any more kids.
+[SKYN Ultra Thin](https://skynfeel.com/collections/elite) are least bad condoms I found. It's best to [get tested](https://www.youtube.com/watch?v=yEQclXsXhYk) though and use other birth controls like [NuvaRing](https://www.nuvaring.com/) once you find a [stable partner](relationships.md). Or get a [vasectomy](https://www.nhs.uk/conditions/contraception/vasectomy-male-sterilisation/) once you're certain you don't want any more kids.
 
 ## Notes
 
@@ -161,3 +161,4 @@
 - [Natality: Toward a Philosophy of Birth](https://www.amazon.com/Natality-Toward-Philosophy-Jennifer-Banks/dp/1324006390)
 - [How do I stay STD safe?](https://www.reddit.com/r/nonmonogamy/comments/zmmk4j/how_do_i_stay_std_safe/)
 - [Pompoir](https://www.reddit.com/r/pompoir/) ([Reddit](https://www.reddit.com/r/sex/comments/zpytt4/do_girls_do_this_in_general/))
+- [You Are This Likely To Get An STD](https://www.youtube.com/watch?v=yEQclXsXhYk)
