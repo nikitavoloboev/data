@@ -4,7 +4,7 @@
 
 Russian culture and history is [fascinating](https://www.youtube.com/watch?v=9Lx0dGvE4LI) but full of tragedies and unlearned lessons.
 
-It's tragic what [Ukraine](ukraine.md) has to deal through due to Russia's leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) to try [prevent Ukraine getting access to its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3).
+It's tragic what [Ukraine](ukraine.md) has to deal through due to Russia's leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) to try [prevent Ukraine from getting access to its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3).
 
 I personally have a hard time imagining that many people truly support this aggression towards Ukranian people. Most people in Russia, in my opinion, are [depressed due to how powerless they feel](https://www.youtube.com/watch?v=hjh7j6kPYFM) to what is happening to their lives and are just trying to make best of it.
 

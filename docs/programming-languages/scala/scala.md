@@ -181,3 +181,4 @@ title: Scala
 - [Lichess gets a big upgrade. It doesn't go as planned (2022)](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX) ([HN](https://news.ycombinator.com/item?id=34002526))
 - [Learn Scala 3 The Fast Way (2022)](https://alvinalexander.gumroad.com/l/learn-scala3-fast)
 - [Simply Scala - Martin Odersky (2022)](https://www.youtube.com/watch?v=QRcD9Zc7eq4)
+- [Say goodbye to implicits contextual abstractions in Scala 3 - Magda Stożek (2022)](https://www.youtube.com/watch?v=WZBuelv_cxQ)

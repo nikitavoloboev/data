@@ -164,3 +164,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Converting my PhD thesis into HTML (2021)](https://desfontain.es/privacy/latex-to-html.html)
 - [Digestif](https://github.com/astoff/digestif) - Language server for TeX and friends.
 - [Commutative diagrams with TikZ](https://github.com/astoff/tikz-cd)
+- [SVG to TikZ converter](https://github.com/johnsbrew/svg2tikz)
