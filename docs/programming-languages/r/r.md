@@ -195,3 +195,4 @@
 - [Doctests in R](https://hughjonesd.github.io/doctest/) ([HN](https://news.ycombinator.com/item?id=33757766))
 - [ggpubr](https://github.com/kassambara/ggpubr) - ggplot2 Based Publication Ready Plots.
 - [poorman](https://github.com/nathaneastwood/poorman) - Dependency free grammar of data manipulation.
+- [sjPlot](https://github.com/strengejacke/sjPlot) - Data Visualization for Statistics in Social Science.

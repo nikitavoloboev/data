@@ -6,6 +6,7 @@
 - [MLJ](https://github.com/alan-turing-institute/MLJ.jl) - Julia machine learning framework. ([Tutorial](https://alan-turing-institute.github.io/MLJTutorials/)) ([HN](https://news.ycombinator.com/item?id=26774590))
 - [MLJTime](https://github.com/alan-turing-institute/MLJTime.jl) - MLJ compatible Julia toolbox for learning with time series.
 - [MLJTuning](https://github.com/JuliaAI/MLJTuning.jl) - Hyperparameter optimization for MLJ machine learning models.
+- [DynamicExpressions.jl](https://github.com/SymbolicML/DynamicExpressions.jl) - Ridiculously fast dynamic expressions.
 - [Knet](https://github.com/denizyuret/Knet.jl) - Deep learning framework implemented in Julia by Deniz Yuret and collaborators.
 - [TensorCast.jl](https://github.com/mcabbott/TensorCast.jl) - Lets you work with many-dimensional arrays in index notation, by defining a few macros.
 - [SDDP.jl](https://github.com/odow/SDDP.jl) - Stochastic Dual Dynamic Programming in Julia.

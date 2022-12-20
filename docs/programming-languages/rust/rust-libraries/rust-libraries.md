@@ -211,6 +211,7 @@
 - [Aggligator](https://github.com/surban/aggligator) - Aggregates multiple links (TCP or similar) into one connection having their combined bandwidth and provides resiliency against failure of individual links.
 - [rust-multiaddr](https://github.com/multiformats/rust-multiaddr) - Composable and future-proof network addresses.
 - [axohtml](https://github.com/axodotdev/axohtml) - Type checked JSX for Rust.
+- [str0m](https://github.com/algesten/str0m) - Sync sans I/O WebRTC implementation in Rust.
 
 ## Auth
 

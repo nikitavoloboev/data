@@ -194,3 +194,4 @@ Love [Italic](https://italic.com/), [Zalando](https://www.zalando.com/) & [Beaut
 - [Miahcombat](https://miahcombat.com/) - Fun cat related products.
 - [ARKET](https://www.arket.com/)
 - [Best ecommerce UX practices from mcmaster.com (2022)](https://medusajs.com/blog/9-best-ecommerce-ux-practices-with-examples) ([HN](https://news.ycombinator.com/item?id=34000502))
+- [WooNuxt](https://github.com/scottyzen/woonuxt) - Headless eCommerce powered by WooCommerce and Nuxt.

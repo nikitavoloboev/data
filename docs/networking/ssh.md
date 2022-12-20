@@ -136,3 +136,4 @@
 - [Parallel-SSH](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH Python client library.
 - [Citadel](https://github.com/orlandos-nl/Citadel) - SSH Client & Server in Swift.
 - [SSH server hardening (2022)](https://ittavern.com/ssh-server-hardening/) ([Lobsters](https://lobste.rs/s/eslfxr/ssh_server_hardening))
+- [AsyncSSH](https://github.com/ronf/asyncssh) - Asynchronous SSH for Python.

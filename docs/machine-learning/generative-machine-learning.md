@@ -4,7 +4,7 @@
 
 Progress in models like [Midjourney](https://www.midjourney.com/) is getting [insanely good](https://www.reddit.com/r/midjourney/comments/yyom8a/london_1910/). Can even generate [nice header images](https://twitter.com/euboid/status/1593174650262986754) or [logos](https://twitter.com/sindresorhus/status/1590640203781533696).
 
-Using [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion) to generate prompts.
+Using [Mochi Diffusion](https://github.com/godly-devotion/mochi-diffusion) (built on [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion)) to generate prompts.
 
 Trying to use more of these technologies in my day to life. Specifically [ChatGPT](https://chat.openai.com/) seems [incredible](https://news.ycombinator.com/item?id=33940303). [Generates nice code](https://twitter.com/onybose/status/1598534390833098753) too. Need to [be wary](https://twitter.com/johnolilly/status/1598517624031555584) though as they don't do [much novelty yet](https://twitter.com/Noahpinion/status/1598499746263732224).
 
@@ -267,3 +267,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion](https://github.com/adobe-research/custom-diffusion) ([Web](https://www.cs.cmu.edu/~custom-diffusion/))
 - [Learn Prompting](https://learnprompting.org/docs/intro) ([Code](https://github.com/trigaten/Learn_Prompting))
 - [GPT‑3/LLM prompts are assembly code, not a human interface](https://twitter.com/goodside/status/1604769046641213441)
+- [Mochi Diffusion](https://github.com/godly-devotion/mochi-diffusion) - Run Stable Diffusion on Apple Silicon Macs natively.

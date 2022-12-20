@@ -824,3 +824,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [dets](https://github.com/FlorianRappl/dets) - Generate a single declaration file for your TypeScript project.
 - [How to build, test, and publish a TypeScript npm package in 2022](https://www.strictmode.io/articles/build-test-and-publish-npm-package-2022)
 - [pnpm-deduplicate](https://github.com/ocavue/pnpm-deduplicate) - Remove duplicate dependencies from pnpm-lock.yaml.
+- [pnpm monorepo](https://github.com/alvarosabu/pnpm-monorepo)

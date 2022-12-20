@@ -309,3 +309,4 @@ I also think solving [micro transactions](https://news.ycombinator.com/item?id=3
 - [Backpack](https://www.backpack.app/) - Home for your xNFTs. ([Code](https://github.com/coral-xyz/backpack))
 - [Solana RPC Crash-course](https://twitter.com/heliuslabs/status/1593758795024449536)
 - [Openbook](https://github.com/openbook-dex/program) - Dex solana program.
+- [Solana Tools](https://github.com/cryptoloutre/solana-tools) - Bunch of tools to help people in the Solana ecosystem.

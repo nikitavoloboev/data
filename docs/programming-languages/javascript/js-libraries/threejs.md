@@ -156,3 +156,4 @@ title: Three.js
 - [four](https://github.com/CodyJasonBennett/four) - Minimal three.js alternative in 4KB.
 - [MeshLine](https://github.com/pmndrs/meshline) - Mesh replacement for THREE.Line.
 - [A-Frame](https://github.com/lojjic/aframe-troika-text) - A-Frame component for rendering 3D text using troika-three-text.
+- [Three Stdlib](https://github.com/pmndrs/three-stdlib) - Stand-alone library of threejs examples designed to run without transpilation in node & browser.

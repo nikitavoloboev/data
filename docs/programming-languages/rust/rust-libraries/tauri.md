@@ -26,6 +26,7 @@ title: Tauri
 - [Tauri and Leptos example](https://github.com/michalvavra/tauri-leptos-example)
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop)
 - [ChatGPT Desktop App](https://github.com/lencx/ChatGPT)
+- [Elk Desktop](https://github.com/elk-zone/elk-desktop) - Mastodon web client.
 
 ## Notes
 

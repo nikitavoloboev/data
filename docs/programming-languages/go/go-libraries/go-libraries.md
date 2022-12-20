@@ -593,6 +593,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [expirable-cache](https://github.com/go-pkgz/expirable-cache) - Expirable Go LRC\LRU cache without goroutines.
 - [Proteus](https://github.com/jonbodner/proteus) - Simple tool for generating an application's data access layer.
 - [pgeo](https://github.com/saulortega/pgeo) - Geometric Types for Postgres.
+- [BarrelDB](https://github.com/mr-karan/barreldb) - Disk based key-value store based on Bitcask.
 
 ## ML
 

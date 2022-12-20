@@ -265,3 +265,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [LatchBio](https://latch.bio/) - End-to-end biocomputing in the browser. ([GitHub](https://github.com/latchbio)) ([Twitter](https://twitter.com/latchbio)) ([Hiring](http://kenbw.com/call.html))
 - [Robust deep learning based protein sequence design using ProteinMPNN (2022)](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1) ([Code](https://github.com/dauparas/ProteinMPNN))
 - [AlphaFold 2 & Equivariance (2020)](https://dauparas.github.io/post/af2/)
+- [Vascularization, Survival, and Functionality of Tissue-Engineered Constructs](https://www.sciencedirect.com/science/article/pii/B9780124201453000146)

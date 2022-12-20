@@ -736,3 +736,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - Give everyone access to a great chat based large language model.
 - [Characterizing Emergent Phenomena in Large Language Models (2022)](https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html)
 - [SBERT studies Meaning Representations: Decomposing Sentence Embeddings into Explainable Semantic Features (2022)](https://arxiv.org/abs/2206.07023) ([Code](https://github.com/flipz357/S3BERT))
+- [Blob](https://github.com/minskylab/blob) - Powerful tool that uses language large models (LLMs) to assist in the creation and maintenance of software projects.
