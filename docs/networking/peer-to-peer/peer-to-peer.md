@@ -132,3 +132,4 @@
 - [Noosphere](https://github.com/subconsciousnetwork/noosphere) - Foundational protocol that the Subconscious app builds upon to enable an open-ended, permissionless multiplayer experience.
 - [Fluence](https://fluence.dev/docs/learn/overview) - Peer-to-peer application platform which allows the creation of applications free of proprietary cloud providers or centralized APIs. ([GitHub](https://github.com/fluencelabs)) ([Examples](https://github.com/fluencelabs/examples))
 - [hypershell](https://github.com/holepunchto/hypershell) - CLI to create and connect to P2P E2E encrypted shells.
+- [Sendstr](https://sendstr.com/) - E2E encrypted shared clipboard web app powered by Nostr. ([Code](https://github.com/vilm3r/sendstr-web))

@@ -1,5 +1,7 @@
 # Parenting
 
+Not parent yet but did like this [advice on fatherhood](https://twitter.com/simonsarris/status/1604300716700585985).
+
 ## Notes
 
 - [One of the most striking things you learn from having kids is how much you took your parents for granted.](https://twitter.com/paulg/status/1400058832596967425)

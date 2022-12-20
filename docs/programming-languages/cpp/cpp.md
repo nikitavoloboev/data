@@ -398,3 +398,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [The Art of Writing Efficient Programs (2021)](https://github.com/PacktPublishing/The-Art-of-Writing-Efficient-Programs)
 - [Book: A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms)
 - [Does it inline?](https://bolinlang.com/does-it-inline) ([HN](https://news.ycombinator.com/item?id=34033557))
+- [Object Introspection](https://github.com/facebookexperimental/object-introspection) - Enables on-demand, hierarchical profiling of objects in arbitrary C/C++ programs with no recompilation.

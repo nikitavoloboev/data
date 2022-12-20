@@ -113,6 +113,10 @@
 - [haskell-crypto](https://github.com/serokell/haskell-crypto) - High-level cryptography for Haskell.
 - [hage](https://github.com/hercules-ci/hage) - Simple, modern and secure file encryption tool, format, and library.
 
+## Auth
+
+- [jose-jwt](https://github.com/tekul/jose-jwt) - Haskell implementation of JOSE/JWT standards.
+
 ## Other
 
 - [generic-lens](https://github.com/kcsongor/generic-lens) - Generically derive traversals, lenses, and prisms.

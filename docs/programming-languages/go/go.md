@@ -923,4 +923,4 @@ if *boolArgPtr != false {
 - [Building Go programs with Nix Flakes (2022)](https://xeiaso.net/blog/nix-flakes-go-programs) ([HN](https://news.ycombinator.com/item?id=33984072))
 - [Rubbing control theory on the Go scheduler (2022)](https://www.cockroachlabs.com/blog/rubbing-control-theory/)
 - [Go CPU Utilization](https://github.com/felixge/go-cpu-utilization) - Attempt at measuring the CPU utilization of a Go program.
-- [Faster Go code by being mindful of memory (2022)](https://f4t.dev/software/go-performance-memory/)
+- [Faster Go code by being mindful of memory (2022)](https://f4t.dev/software/go-performance-memory/) ([Lobsters](https://lobste.rs/s/onnjzg/faster_go_code_by_being_mindful_memory))

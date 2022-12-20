@@ -10,6 +10,7 @@ Use [Mela](https://mela.recipes/) to store my recipes. [Crouton](https://crouton
 - [Garlic soup](https://themodernproper.com/garlic-soup)
 - [Fish cakes](https://www.bbcgoodfood.com/recipes/ultimate-fish-cakes)
 - [Carrot Cutlets](https://www.bawarchi.com/recipe/carrot-cutlet-oetuBkeechece.html)
+- [Salsa sauce](https://www.reddit.com/r/SalsaSnobs/comments/zqadld/the_best_batch_ive_made_recently/)
 
 ## Smoothies
 

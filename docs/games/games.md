@@ -261,6 +261,8 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Which game nails both the gameplay and the story? (2022)](https://www.reddit.com/r/patientgamers/comments/yrngnm/which_game_nails_both_the_gameplay_and_the_story/)
 - [Whats your favorite PS5 game currently on sale? (2022)](https://www.reddit.com/r/PS5/comments/z16brw/whats_your_favorite_ps5_game_thats_currently_on/)
 - [Инди Игр тред](https://twitter.com/mikhmat_/status/1597932127332749314)
+- [Best Open Word Game You Have Ever Experienced (2022)](https://www.reddit.com/r/patientgamers/comments/zqkmo9/best_open_word_game_you_have_ever_experienced/)
+- [What are your top 5 games of 2022 on PS5?](https://www.reddit.com/r/PS5/comments/zpt26u/what_are_your_top_5_games_of_2022/)
 
 ## Links
 
@@ -394,3 +396,4 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Describe your favorite video game as boring as possible](https://twitter.com/Lord_Arse/status/1423423536023154690)
 - [Qwantify](https://github.com/wanjohiryan/qwantify) - Play games, with your friends right from the browser. No installation needed. ([Web](https://qwantify.vercel.app/))
 - [Going into 2023 as a Patient Gamer](https://www.reddit.com/r/patientgamers/comments/zppu40/going_into_2023_as_a_patient_gamer/)
+- [What part of modern game design do you feel has removed fun?](https://www.reddit.com/r/patientgamers/comments/zq7d6v/what_part_of_modern_game_design_do_you_feel_has/)

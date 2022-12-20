@@ -131,6 +131,7 @@
 - [Esoterica](https://github.com/BobbyAnguelov/Esoterica) - Prototype Game Engine.
 - [Chipmunk](https://github.com/slembcke/Chipmunk2D) - Fast and lightweight 2D game physics library.
 - [Jolt Physics JS](https://github.com/jrouwe/JoltPhysics.js)
+- [melonJS](https://github.com/melonjs/melonJS) - Fresh and lightweight JavaScript game engine. ([Web](https://melonjs.org/))
 
 ## Physics engines
 
