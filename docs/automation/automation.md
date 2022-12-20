@@ -18,7 +18,7 @@
 - [Atbswp](https://github.com/rmpr/atbswp) - Minimalist keyboard macro and mouse recording and playback tool.
 - [The Art of Automation (2020)](https://blog.jessfraz.com/post/the-art-of-automation/) ([HN](https://news.ycombinator.com/item?id=24598281))
 - [ElectroNeek](https://electroneek.com/) - Easy Robotic Process Automation. ([HN](https://news.ycombinator.com/item?id=23770214))
-- [Automatoes](https://automatoes.com/) ([Code](https://github.com/johnlindquist/automatoes.com))
+- [Automatoes](https://automatoes.com/) ([Code](https://github.com/johnlindquist/automatoes.com)) ([Discord](https://discord.com/invite/swmH3HS))
 - [Huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.
 - [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications. ([Code](https://github.com/node-red/node-red)) ([HN](https://news.ycombinator.com/item?id=28985268)) ([Awesome](https://github.com/naimo84/awesome-nodered))
 - [n8n](https://github.com/n8n-io/n8n) - Workflow Automation Tool. ([Web](https://n8n.io/))

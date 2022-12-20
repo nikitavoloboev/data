@@ -9,6 +9,10 @@ title: ReasonML
 - [v3.ocaml.org](https://github.com/ocaml/v3.ocaml.org) - Next implementation of ocaml.org, built on OCaml, ReScript, NextJS, and Tailwind.
 - [alexfedoseev.com](https://github.com/alexfedoseev/alexfedoseev.com)
 
+## Notes
+
+- [ReScript lovely tip: I highly recommend having a module called Std.res (or similar) to maintain a small standard library inside your codebase with all the Belt/JS/webapi functions there. Feel free to `-open Std` in bsc-flags to have it globally available](https://twitter.com/davesnx/status/1604884310607073280)
+
 ## Links
 
 - [Exploring ReasonML](http://reasonmlhub.com/exploring-reasonml/toc.html)

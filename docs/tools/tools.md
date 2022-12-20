@@ -799,3 +799,5 @@ One of my favorite things in life is building little tools for solving even the 
 - [Auto-qualify your sign-ups](https://qualify.june.so/) ([HN](https://news.ycombinator.com/item?id=34001017))
 - [Langame](https://langa.me/) - New mediums of human conversation. ([GitHub](https://github.com/langa-me))
 - [simpler](https://simplerlist.com/) - AI productivity assistant.
+- [Ask HN: Programs that saved you 100 hours? (2022)](https://news.ycombinator.com/item?id=34069106)
+- [Easy to learn NoCode tool for beginners (2022)](https://twitter.com/LuissMears/status/1604854202873815040)

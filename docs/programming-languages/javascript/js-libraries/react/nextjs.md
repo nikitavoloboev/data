@@ -413,3 +413,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Exploring the App Directory in Next 13 (2022)](https://www.youtube.com/watch?v=qyQNFstxlzY)
 - [Optimizing Web Fonts in Next.js 13 (2022)](https://www.lydiahallie.io/blog/optimizing-webfonts-in-nextjs-13)
 - [Adding CRONs to NextJS to Build A Meme Stealing Bot - TypeScript, Vercel, Upstash & more (2022)](https://www.youtube.com/watch?v=zdV_fXjoB-Q)
+- [Ideas and thoughts on Next 13 (2022)](https://twitter.com/jeffrafter/status/1604891027508236304)

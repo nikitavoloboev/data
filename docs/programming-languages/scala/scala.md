@@ -182,3 +182,4 @@ title: Scala
 - [Learn Scala 3 The Fast Way (2022)](https://alvinalexander.gumroad.com/l/learn-scala3-fast)
 - [Simply Scala - Martin Odersky (2022)](https://www.youtube.com/watch?v=QRcD9Zc7eq4)
 - [Say goodbye to implicits contextual abstractions in Scala 3 - Magda Stożek (2022)](https://www.youtube.com/watch?v=WZBuelv_cxQ)
+- [Scala with batteries included - Krzysztof Romanowski (2022)](https://www.youtube.com/watch?v=uS0BW3iuPFg)

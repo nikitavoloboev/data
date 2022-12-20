@@ -12,6 +12,8 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 
 [Wren](https://github.com/zaiste/wren) is interesting HTTP lib.
 
+I dislike semicolons, so I use [dprint](https://dprint.dev/) to format TS/JS files as Deno doesn't support removing semicolons even as config setting.
+
 ## OSS Deno apps
 
 - [Deno Chat](https://github.com/denoland/showcase_chat) - Minimal chat platform template. It uses Fresh + Supabase + twind + BroadcastChannel API on Deno Deploy.
