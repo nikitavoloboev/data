@@ -184,3 +184,4 @@ I try to avoid pointless politics as much as possible but do like [John Mearshei
 - [How did Delaware end up the de facto arbiter of US corporate law, historically? (2022)](https://www.reddit.com/r/AskEconomics/comments/zfjg84/how_did_delaware_end_up_the_de_facto_arbiter_of/)
 - [What do “American sections” of foreign stores actually need to stock (2022)](https://www.reddit.com/r/AskAnAmerican/comments/zogqtj/my_fellow_americans_what_do_american_sections_of/)
 - [What is the least American looking city in the US? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/zpfgxc/what_is_the_least_american_looking_city_in_the_us/)
+- [Green Card application form went from 4 pages in 2003 to 20 pages in 2022](https://twitter.com/david_j_bier/status/1604924286342496268)
