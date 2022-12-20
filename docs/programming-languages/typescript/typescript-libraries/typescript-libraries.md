@@ -103,6 +103,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Hyperstack](https://github.com/hyperstackjs/hyperstack) - Modern Node.js web framework for the pragmatic programmer.
 - [TanStack Router](https://github.com/tanstack/router) - Type-safe router w/ built-in caching & URL state management. ([Web](https://tanstack.com/router/)) ([Talk](https://www.youtube.com/watch?v=qUZm3gbMOeo))
 - [Maska](https://github.com/beholdr/maska) - Simple zero-dependency input mask for Vue.js and vanilla JS.
+- [Navigation](https://github.com/virtualstate/navigation) - Native JavaScript navigation implementation.
 
 ## GraphQL
 
