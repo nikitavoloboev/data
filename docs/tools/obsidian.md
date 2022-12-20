@@ -208,6 +208,7 @@ div.CodeMirror-cursor,
 - [PlantUML Support](https://github.com/joethei/obsidian-plantuml) - Render PlantUML Diagrams in Obsidian.
 - [Graphviz](https://github.com/QAMichaelPeng/obsidian-graphviz) - Render Graphviz Diagrams in Obsidian.
 - [D2](https://github.com/terrastruct/d2-obsidian) - Modern diagram scripting language that turns text to diagrams.
+- [Google Photos for Obsidian](https://github.com/alangrainger/obsidian-google-photos) - Connect to Google Photos from Obsidian.
 
 ## Themes
 

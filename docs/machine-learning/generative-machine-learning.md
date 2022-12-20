@@ -268,3 +268,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Learn Prompting](https://learnprompting.org/docs/intro) ([Code](https://github.com/trigaten/Learn_Prompting))
 - [GPT‑3/LLM prompts are assembly code, not a human interface](https://twitter.com/goodside/status/1604769046641213441)
 - [Mochi Diffusion](https://github.com/godly-devotion/mochi-diffusion) - Run Stable Diffusion on Apple Silicon Macs natively.
+- [Scalable Diffusion Models with Transformers (2022)](https://arxiv.org/abs/2212.09748) ([Code](https://github.com/facebookresearch/DiT))

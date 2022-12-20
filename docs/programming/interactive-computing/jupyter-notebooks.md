@@ -237,3 +237,4 @@ title: Jupyter Notebooks
 - [Strip metadata from jupyter notebooks](https://github.com/deshaw/nbstripout-fast)
 - [Jupyter Enhancement Proposals](https://github.com/jupyter/enhancement-proposals)
 - [ipyannotations](https://github.com/janfreyberg/ipyannotations) - Data annotations in python using jupyter notebooks.
+- [jupytee](https://github.com/fperez/jupytee) - Use OpenAI's GPT-3 models inside Jupyter environments.

@@ -382,6 +382,7 @@
 - [JWT](https://github.com/vapor/jwt) - Vapor JWT provider.
 - [RxNetworks](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
 - [Vapor OAuth](https://github.com/brokenhandsio/vapor-oauth) - OAuth2 Provider Library for Vapor.
+- [APIRouter](https://github.com/devyhan/APIRouter) - Easy way to manage multiple RESTful API endpoints in Swift.
 
 ## GraphQL
 

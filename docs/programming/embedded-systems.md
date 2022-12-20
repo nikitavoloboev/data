@@ -4,6 +4,8 @@
 
 Also looking into [Embassy](https://embassy.dev/).
 
+[Rust on ESP-IDF "Hello, World" template](https://github.com/esp-rs/esp-idf-template) is great starter code.
+
 ## Interesting chips
 
 - [ESP32](https://en.wikipedia.org/wiki/ESP32)
@@ -230,3 +232,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [Bare metal programming guide on STM32 microcontroller](https://github.com/cpq/bare-metal-programming-guide)
 - [From Zero to main(): Demystifying Firmware Linker Scripts (2019)](https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware)
 - [Bootlin](https://bootlin.com/) - Embedded Linux and kernel engineering. ([GitHub](https://github.com/bootlin))
+- [Rust on ESP-IDF "Hello, World" template](https://github.com/esp-rs/esp-idf-template)

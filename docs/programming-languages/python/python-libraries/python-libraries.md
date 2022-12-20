@@ -1292,3 +1292,4 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Python Magic Methods You Haven't Heard About (2022)](https://martinheinz.dev/blog/87)
 - [Why I moved away from Poetry for Python (2022)](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/) ([HN](https://news.ycombinator.com/item?id=34005203)) ([Lobsters](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python))
 - [Boring Python: dependency management (2022)](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/)
+- [Bazel rules for creating Python virtual environments](https://github.com/cedarai/rules_pyvenv)

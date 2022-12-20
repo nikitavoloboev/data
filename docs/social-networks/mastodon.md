@@ -135,3 +135,4 @@ Used [Movetodon](https://www.movetodon.org/) to move my follow graph of [Twitter
 - [Mastodon Users Count](https://bitcoinhackers.org/@mastodonusercount)
 - [Encode for Mastodon](https://github.com/insidegui/encodeformastodon) - Command-line tool for macOS that encodes videos in a format suitable for publishing to Mastodon.
 - [Elk Mastodon Desktop app](https://github.com/elk-zone/elk-native) ([Web Code](https://github.com/elk-zone/elk))
+- [Masto Guide](https://github.com/jippi/masto-guide)

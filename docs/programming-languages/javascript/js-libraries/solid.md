@@ -181,3 +181,4 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [Solid Supabase](https://github.com/wobsoriano/solid-supabase) - Simple wrapper around Supabase.js to enable usage within Solid.
 - [Storybook Solid](https://github.com/elite174/storybook-solid-js)
 - [SolidStart implementation of NextAuth](https://github.com/OrJDev/auth-solid)
+- [Fine-grained reactivity - Deep dive into SolidJS](https://github.com/everweij/solidjs-fine-grained-reactivity)

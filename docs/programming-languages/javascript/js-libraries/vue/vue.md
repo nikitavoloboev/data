@@ -226,3 +226,4 @@ title: Vue.js
 - [Nuxt Headless UI](https://github.com/P4sca1/nuxt-headlessui) - Headless UI integration for Nuxt. Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [Nuxt SEO Kit](https://github.com/harlan-zw/nuxt-seo-kit) - Supercharge your Nuxt app with the all-in-one SEO layer.
 - [Nuxt.new](https://nuxt.new/) - Create a new Nuxt project from your address bar. ([Code](https://github.com/nuxt/nuxt.new))
+- [PrimeVUE](https://www.primefaces.org/primevue/) - Next Generation Vue UI Component Library. ([Code](https://github.com/primefaces/primevue))
