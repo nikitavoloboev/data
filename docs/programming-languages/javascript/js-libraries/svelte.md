@@ -324,3 +324,4 @@ title: Svelte
 - [Learn SvelteKit course](https://levelup.video/tutorials/sveltekit)
 - [Using SvelteKit 1.0 on Vercel (2022)](https://vercel.com/blog/using-sveltekit-1-0-on-vercel)
 - [SvelteKit is my mistress (2022)](https://www.youtube.com/watch?v=uEJ-Rnm2yOE)
+- [Atomic Svelte](https://github.com/atomicdata-dev/atomic-svelte) - Implementation of Atomic Data for Svelte.

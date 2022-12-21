@@ -180,3 +180,4 @@ title: Tailwind CSS
 - [What working with Tailwind CSS every day for 2 years looks like (2022)](https://www.themosaad.com/blog/two-years-of-tailwind-css) ([HN](https://news.ycombinator.com/item?id=33787719))
 - [Tailwind is a Leaky Abstraction (2022)](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
 - [Easy Tailwind](https://github.com/Noriller/easy-tailwind) - Easier way of writing Tailwind classes.
+- [Tailwind Current Hue Plugin](https://github.com/AndrewIngram/tailwind-current-hue)

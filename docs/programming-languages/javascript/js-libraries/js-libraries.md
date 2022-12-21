@@ -1074,6 +1074,7 @@
 - [Twitter Regexp](https://github.com/silentroach/twitter-regexps) - Twitter precompiled regular expressions.
 - [EventEmitter3](https://github.com/primus/eventemitter3) - High performance EventEmitter.
 - [Fuzzyset](https://github.com/Glench/fuzzyset.js) - Fuzzy string set for JS.
+- [ffjavascript](https://github.com/iden3/ffjavascript) - Finite Field Library in JavaScript.
 
 ## Links
 

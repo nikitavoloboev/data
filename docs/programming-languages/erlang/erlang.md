@@ -175,3 +175,4 @@ title: Erlang
 - [Ra](https://github.com/rabbitmq/ra) - Raft Implementation for Erlang and Elixir.
 - [Lunatic](https://lunatic.solutions/) - Erlang-inspired runtime for WebAssembly. ([HN](https://news.ycombinator.com/item?id=33799784))
 - [Fuse](https://github.com/jlouis/fuse) - Circuit Breaker for Erlang.
+- [Mnesia RocksDB](https://github.com/aeternity/mnesia_rocksdb) - RocksDB backend plugin for Mnesia.

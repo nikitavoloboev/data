@@ -227,3 +227,4 @@ title: Vue.js
 - [Nuxt SEO Kit](https://github.com/harlan-zw/nuxt-seo-kit) - Supercharge your Nuxt app with the all-in-one SEO layer.
 - [Nuxt.new](https://nuxt.new/) - Create a new Nuxt project from your address bar. ([Code](https://github.com/nuxt/nuxt.new))
 - [PrimeVUE](https://www.primefaces.org/primevue/) - Next Generation Vue UI Component Library. ([Code](https://github.com/primefaces/primevue))
+- [Vitest Environment Nuxt](https://github.com/danielroe/vitest-environment-nuxt) - Vitest environment for testing code that needs a Nuxt runtime environment.

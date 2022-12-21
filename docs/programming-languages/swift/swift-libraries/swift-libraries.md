@@ -1356,6 +1356,7 @@
 - [Autolayout](https://github.com/swifweb/autolayout) - Incredible AutoLayout on direct power of CSS3.
 - [Apache OpenWhisk runtimes for Swift](https://github.com/apache/openwhisk-runtime-swift)
 - [CodeEditKit](https://github.com/CodeEditApp/CodeEditKit) - Interface between CodeEdit and extensions.
+- [Compute](https://github.com/swift-cloud/Compute) - Swift runtime for Fastly Compute@Edge.
 
 ## Other (not lib)
 

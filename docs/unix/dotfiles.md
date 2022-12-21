@@ -55,6 +55,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [Folke Lemaitre](https://github.com/folke/dot)
 - [Dmitry Zherebko](https://github.com/zmitry/.dotfiles)
 - [Stefan Judis](https://github.com/stefanjudis/dotfiles)
+- [Maxim Baz](https://github.com/maximbaz/dotfiles)
 
 ## Links
 

@@ -23,6 +23,7 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Loction Worker](https://github.com/umgefahren/worker-location) - Small cloudflare worker build in Rust to extract the location of the requesting user.
 - [Spotify Currently Playing Cloudflare Worker](https://github.com/djedlajn/spotify-worker)
 - [OCI Registry on Cloudflare Workers](https://github.com/chainguard-dev/crow-registry)
+- [FlareDrive](https://github.com/longern/FlareDrive) - CloudFlare R2 storage manager with Pages and Workers.
 
 ## Notes
 

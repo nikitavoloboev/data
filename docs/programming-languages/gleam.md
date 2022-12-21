@@ -45,3 +45,4 @@
 - [Gleam v0.25 - Introducing use expressions (2022)](https://gleam.run/news/v0.25-introducing-use-expressions/)
 - [Rad](https://github.com/tynanbe/rad) - Flexible task runner companion for the Gleam build manager.
 - [shellout](https://github.com/tynanbe/shellout) - Gleam library for cross-platform shell operations.
+- [Gleam Cowboy](https://github.com/gleam-lang/cowboy) - Gleam HTTP service adapter for the Cowboy web server.

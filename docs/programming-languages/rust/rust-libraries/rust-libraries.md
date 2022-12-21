@@ -2408,6 +2408,8 @@
 - [tokio-retry](https://github.com/srijs/rust-tokio-retry) - Extensible, asynchronous retry behaviors for futures/tokio.
 - [protobuf-build](https://github.com/tikv/protobuf-build) - Utility functions for generating Rust code from protobuf specifications.
 - [structre](https://github.com/andrewbaxter/structre) - Statically-checked regex parsing into structs.
+- [serde_closure](https://github.com/alecmocatta/serde_closure) - Serializable closures for Rust.
+- [Prse](https://github.com/miam-miam100/prse) - Tiny string parsing utility.
 
 ## Cargo Plugins
 
