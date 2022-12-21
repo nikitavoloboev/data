@@ -269,3 +269,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [GPT‑3/LLM prompts are assembly code, not a human interface](https://twitter.com/goodside/status/1604769046641213441)
 - [Mochi Diffusion](https://github.com/godly-devotion/mochi-diffusion) - Run Stable Diffusion on Apple Silicon Macs natively.
 - [Scalable Diffusion Models with Transformers (2022)](https://arxiv.org/abs/2212.09748) ([Code](https://github.com/facebookresearch/DiT))
+- [Stable Diffusion 2 Depth Guided model: architecture photos from dollhouse (2022)](https://twitter.com/justlv/status/1605276764598665217) ([HN](https://news.ycombinator.com/item?id=34076077))

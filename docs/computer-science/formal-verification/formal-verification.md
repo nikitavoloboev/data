@@ -161,3 +161,5 @@ title: Formal verification
 - [Combining Model Checking and Testing (2016)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main-24.pdf) ([Lobsters](https://lobste.rs/s/gd5gka/combining_model_checking_testing))
 - [Proofs about programs - interactive tutorial](https://busy-beavers.tigyog.app/proofs-about-programs) ([Lobsters](https://lobste.rs/s/yequwk/proofs_about_programs_interactive))
 - [Thoughts on user interfaces for theorem provers (2022)](https://lawrencecpaulson.github.io//2022/12/14/User_interfaces.html)
+- [Logical Verification 2022–2023](https://lean-forward.github.io/logical-verification/2022/index.html)
+- [The Hitchhiker’s Guide to Logical Verification (2022)](https://raw.githubusercontent.com/blanchette/logical_verification_2022/master/hitchhikers_guide.pdf)

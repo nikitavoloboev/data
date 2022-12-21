@@ -155,7 +155,7 @@
 - [prolens](https://github.com/kowainik/prolens) - Profunctor based lightweight implementation of Lenses.
 - [stm](https://github.com/haskell/stm) - Software Transactional Memory.
 - [stm-incremental](https://github.com/SamuelSchlesinger/stm-incremental) - Exposes an interface for incremental computation using software transactional memory in Haskell.
-- [Reanimate](https://github.com/reanimate/reanimate) - Haskell library for building declarative animations based on SVG graphics.
+- [Reanimate](https://github.com/reanimate/reanimate) - Haskell library for building declarative animations based on SVG graphics. ([Docs](https://reanimate.github.io/)) ([HN](https://news.ycombinator.com/item?id=34074380))
 - [Streamly](https://github.com/composewell/streamly) - Beautiful Streaming, Concurrent and Reactive Composition.
 - [poly](https://github.com/Bodigrim/poly) - Fast polynomial arithmetic in Haskell.
 - [jsonifier](https://github.com/nikita-volkov/jsonifier) - Fast and simple JSON encoding toolkit.

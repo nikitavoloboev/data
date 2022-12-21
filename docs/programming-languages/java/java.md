@@ -138,3 +138,4 @@ title: Java
 - [Java Virtual Machine written in Rust](https://github.com/Pfarrer/rust-jvm)
 - [Ask HN: Why do startups avoid Java? (2022)](https://news.ycombinator.com/item?id=33545788)
 - [Structured concurrency in Java with Loom (2022)](https://www.davidvlijmincx.com/posts/loom/java_structured_concurrency/)
+- [Why we picked Java (2022)](https://blog.picnic.nl/why-picnic-picked-java-e53fafe0df1b) ([HN](https://news.ycombinator.com/item?id=34064310))

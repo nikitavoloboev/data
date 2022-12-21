@@ -151,3 +151,4 @@
 - [Imago](https://github.com/tokenrove/imago) - Image manipulation library for Common Lisp.
 - [Common Lisp Object System (CLOS)](https://hescaide.me/clos/) ([HN](https://news.ycombinator.com/item?id=33718011))
 - [The empty list (2022)](https://www.tfeb.org/fragments/2022/12/16/the-empty-list/)
+- [Astronomical Calculations for Hard SF in Common Lisp (2022)](https://borretti.me/article/astronomical-calculations-for-hard-sf-common-lisp) ([HN](https://news.ycombinator.com/item?id=34058658))

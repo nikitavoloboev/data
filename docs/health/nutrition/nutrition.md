@@ -10,7 +10,9 @@ I try drink only water/[tea](drinks/tea.md) with occasional [coffee](drinks/coff
 
 [Rhonda Patrick's interview](https://www.youtube.com/watch?v=XcvhERcZpWw&t=582s), [Diet Habits that Built my Physique](https://www.youtube.com/watch?v=iasekg57V3Y) & [What I Eat in a Week](https://youtu.be/rwhUYaWbVUM?t=100) are insightful videos.
 
-I try to include a lot of vegetables, nuts and eggs in my diet.
+I try to include a lot of vegetables, nuts and eggs in my diet. [Foods rich in probiotics](https://www.healthline.com/nutrition/11-super-healthy-probiotic-foods) are great for healthy gut microbiome.
+
+Avoid empty calories like flour and sugar. Fruit sugar is okay as it does come with some vitamins and fiber.
 
 ### Common foods
 
@@ -144,3 +146,4 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - [Being fatter than Homer Simpson](https://nicky.bearblog.dev/fatter-than-homer/) ([HN](https://news.ycombinator.com/item?id=33797143))
 - [Why does it seem like more and more people are becoming sensitive to food these days?](https://www.reddit.com/r/nutrition/comments/zkpqgw/why_does_it_seem_like_more_and_more_people_are/)
 - [Пищевая психиатрия: как питание и метаболизм влияют на ментальное здоровье (2022)](https://bioseminars.wordpress.com/2022/12/09/nutritional-psychiatry/)
+- [11 Probiotic Foods That Are Super Healthy](https://www.healthline.com/nutrition/11-super-healthy-probiotic-foods)

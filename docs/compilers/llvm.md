@@ -148,4 +148,5 @@ title: LLVM
 - [LLD-rs](https://github.com/mun-lang/lld-rs) - Wrapper around LLVM's LLD.
 - [RuSTy](https://github.com/PLC-lang/rusty) - Structured Text Parser and LLVM Frontend.
 - [Kaleidoscope: Implementing a Language with LLVM](https://github.com/ghaiklor/llvm-kaleidoscope)
-- [How to contribute to LLVM (2022)](https://developers.redhat.com/articles/2022/12/20/how-contribute-llvm#)
+- [How to contribute to LLVM (2022)](https://developers.redhat.com/articles/2022/12/20/how-contribute-llvm#) ([Reddit](https://www.reddit.com/r/rust/comments/zqta8k/how_to_contribute_to_llvm_by_nikita_popov/))
+- [This year in LLVM (2022)](https://www.npopov.com/2022/12/20/This-year-in-LLVM-2022.html)

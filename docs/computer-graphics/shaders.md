@@ -116,3 +116,4 @@ title: Shaders
 - [Spherical Harmonics](https://stevejtrettel.site/code/2022/spherical-harmonics/) ([Tweet](https://twitter.com/stevejtrettel/status/1600211863966429185))
 - [Shaders explained](https://twitter.com/DanHollick/status/1603370500306018304)
 - [GM Shaders](https://gmshaders.com/) - Shader tutorials.
+- [NodeToy](https://nodetoy.co/) - Create and share shader graphs with the world. ([Twitter](https://twitter.com/nodetoy))

@@ -295,3 +295,4 @@
 - [How Paxos and Two-Phase Commit Differ (2021)](https://predr.ag/blog/paxos-vs-2pc/)
 - [Raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine.
 - [Distributed Transactional Systems Cannot Be Fast (2019)](https://arxiv.org/abs/1903.09106) ([Tweet](https://twitter.com/penberg/status/1604011981782093852))
+- [Paper: VR Revisited - View changes - Questions (2022)](https://jack-vanlightly.com/analyses/2022/12/20/paper-vr-revisited-view-change-questions-part1)

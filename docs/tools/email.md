@@ -297,3 +297,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Ellie](https://ellieai.com/) - Your AI Email Assistant. ([HN](https://news.ycombinator.com/item?id=34001656))
 - [Treating Email More Like a Password Manager (2022)](https://dmitryfrank.com/articles/treating_email_more_like_a_password_manager)
 - [Mailpit](https://github.com/axllent/mailpit) - Multi-platform email testing tool for developers. Acts as both an SMTP server, and provides a web interface to view all captured emails.
+- [Svelte Emails](https://github.com/GauBen/svelte-emails) - Create emails with Svelte and Vite.

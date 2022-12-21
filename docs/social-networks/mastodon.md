@@ -8,6 +8,8 @@ Love [being part](https://merveilles.town/web/@nikivi) of [Merveilles](https://m
 
 Used [Movetodon](https://www.movetodon.org/) to move my follow graph of [Twitter](../tools/twitter.md).
 
+Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
+
 ## Interesting communities
 
 - [Merveilles](https://merveilles.town/about) - Community project aimed at the establishment of new ways of speaking, seeing and organizing information. ([Code](https://github.com/merveilles/merveilles-town)) ([Resources](https://github.com/merveilles/The-Town)) ([Resources 2](https://github.com/merveilles/Resources)) ([Forum](https://forum.merveilles.town/))
@@ -136,3 +138,4 @@ Used [Movetodon](https://www.movetodon.org/) to move my follow graph of [Twitter
 - [Encode for Mastodon](https://github.com/insidegui/encodeformastodon) - Command-line tool for macOS that encodes videos in a format suitable for publishing to Mastodon.
 - [Elk Mastodon Desktop app](https://github.com/elk-zone/elk-native) ([Web Code](https://github.com/elk-zone/elk))
 - [Masto Guide](https://github.com/jippi/masto-guide)
+- [Use your own user @ domain for Mastodon discoverability with the WebFinger Protocol without hosting a server (2022)](https://www.hanselman.com/blog/use-your-own-user-domain-for-mastodon-discoverability-with-the-webfinger-protocol-without-hosting-a-server)

@@ -1,6 +1,6 @@
 # Icons
 
-[App Icon Book](https://www.appiconbook.com/) is a nice read. [Iconic](https://iconic.app/) & [Feather](https://feathericons.com/) have nice icons.
+[App Icon Book](https://www.appiconbook.com/) is a nice read. [Iconic](https://iconic.app/), [Feather](https://feathericons.com/) & [Atlas Icons](https://atlasicons.vectopus.com/) have nice icons.
 
 ## Nice icons
 
@@ -150,3 +150,4 @@
 - [Burger King new logo considerations](https://twitter.com/Aweiland/status/1593574513060581377)
 - [Circum Icons](https://github.com/Klarr-Agency/Circum-Icons) - Open source icon library following Google Material Design principles.
 - [Icon speedruns: Fountain pen and fingerprint (2022)](https://www.youtube.com/watch?v=GXh2tWvEK1Y)
+- [Atlas Icons](https://atlasicons.vectopus.com/) ([Code](https://github.com/Vectopus/Atlas-icons-font))

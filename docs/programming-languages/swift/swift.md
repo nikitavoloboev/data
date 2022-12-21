@@ -323,3 +323,4 @@ title: Swift
 - [Swift concurrency: Behind the scenes (2021)](https://developer.apple.com/videos/play/wwdc2021/10254/)
 - [The Ultimate Domain Language: Declarative Swift (2022)](https://betterprogramming.pub/the-ultimate-domain-language-declarative-swift-37b0a04e4e32)
 - [The evolution of Swift, with Nick Lockwood (2022)](https://www.swiftbysundell.com/podcast/123/)
+- [A Tour through Swift Attributes (2022)](https://notes.softinio.com/p/a-tour-through-swift-attributes?sd=pf)

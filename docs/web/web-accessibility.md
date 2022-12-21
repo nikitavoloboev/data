@@ -2,6 +2,8 @@
 
 [Learn Accessibility](https://web.dev/learn/accessibility/) & [Build Accessible Web Apps](https://testingaccessibility.com/) are great intros.
 
+Liked [Lost in Translation](https://www.youtube.com/watch?v=W4SN8G0q3Vk) talk.
+
 ## Notes
 
 - [UI component libraries are using the term “accessible” too freely. Adding focus styles and copy-pasting some ARIA roles doesn't make your library accessible, neither does adding an “accessibility” page where you claim to conform to WCAG just because you ran a Lighthouse test.](https://twitter.com/mmatuzo/status/1462884917671604228)
@@ -120,3 +122,4 @@
 - [Accessible Front-End Patterns For Responsive Tables (2022)](https://www.smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/)
 - [Better accessible names (2022)](https://hidde.blog/better-accessible-names/)
 - [Meaningful labels using ARIA – or not. (2022)](https://www.htmhell.dev/adventcalendar/2022/7/)
+- [Lost in Translation with Manuel Matuzović (2022)](https://www.youtube.com/watch?v=W4SN8G0q3Vk)

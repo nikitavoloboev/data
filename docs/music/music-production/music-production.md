@@ -490,3 +490,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [Riffusion](https://github.com/hmartiro/riffusion-inference) - Stable diffusion for real-time music generation. ([Code](https://github.com/hmartiro/riffusion-app))
 - [Equipboard](https://equipboard.com/) - Encyclopedia of Music Gear.
 - [A Brief History of Computer Music - Anders Norås (2020)](https://www.youtube.com/watch?v=mKdXhjUopCA)
+- [In praise of MIDI (2022)](https://www.theregister.com/2022/12/19/in_praise_of_midi_techs/) ([HN](https://news.ycombinator.com/item?id=34063028))

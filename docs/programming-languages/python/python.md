@@ -569,3 +569,5 @@ for i, _ in enumerate(nums):
 - [Practical Python Programming Course](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 - [Python Distilled Book (2021)](https://www.oreilly.com/library/view/python-distilled/9780134173399/)
 - [Pyccel](https://github.com/pyccel/pyccel) - Python extension language using accelerators.
+- [Boring Python: Code quality (2022)](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/) ([HN](https://news.ycombinator.com/item?id=34061252))
+- [Signed distance functions in 46 lines of Python (2022)](https://vgel.me/posts/donut/) ([HN](https://news.ycombinator.com/item?id=34073298))

@@ -4,6 +4,8 @@ Like tools that [let you try the app without being forced to pay first](https://
 
 Don't be afraid to charge more for good products as they get better. Especially if there is not much competition for what you provide of quality. Just [sell the features ](../psychology/marketing.md) and future vision well.
 
+I personally like the model where you buy something and you own the copy and get updates for next x months (usually a year), then you have to update by paying. [Cleanshot](https://cleanshot.com/) or [JetBrains](https://www.jetbrains.com/) do this model well.
+
 ## Nice pricing pages
 
 - [Fathom](https://app.usefathom.com/register)

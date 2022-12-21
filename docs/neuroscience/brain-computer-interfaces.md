@@ -4,6 +4,8 @@ title: Brain Computer Interfaces
 
 # [Brain Computer Interfaces](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface)
 
+[How to build a brain-computer interface](https://justlv.medium.com/how-to-build-a-brain-interface-and-why-we-should-connect-our-minds-35003841c4b7) & [Reading your thoughts with Keras and EEG](https://justlv.medium.com/using-ai-to-read-your-thoughts-with-keras-and-an-eeg-sensor-167ace32e84a) are great reads.
+
 ## Notes
 
 - [Brain implant translates paralyzed man’s thoughts into text with 94% accuracy.](https://twitter.com/AlecStapp/status/1458831358453714955)
@@ -61,3 +63,5 @@ title: Brain Computer Interfaces
 - [EEGLearn](https://github.com/pbashivan/EEGLearn) - Set of functions for supervised feature learning/classification of mental states from EEG based on "EEG images" idea.
 - [Completely Locked-In Patients Can Communicate, Thanks to a Brain Implant (BCI) (2022)](https://www.technologynetworks.com/neuroscience/news/for-the-first-time-a-completely-locked-in-patient-can-communicate-thanks-to-brain-implant-359819) ([HN](https://news.ycombinator.com/item?id=30773013))
 - [Neuralink Discord](https://discord.gg/reKh3Bwbz8)
+- [How to build a brain-computer interface — and why (2019)](https://justlv.medium.com/how-to-build-a-brain-interface-and-why-we-should-connect-our-minds-35003841c4b7)
+- [Using deep learning to “read your thoughts” — with Keras and EEG (2019)](https://justlv.medium.com/using-ai-to-read-your-thoughts-with-keras-and-an-eeg-sensor-167ace32e84a)

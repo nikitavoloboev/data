@@ -4,7 +4,7 @@ title: HTML
 
 # [HTML](https://developer.mozilla.org/kab/docs/Web/HTML)
 
-[Learn HTML](https://web.dev/learn/html/) is good intro.
+[Learn HTML](https://web.dev/learn/html/) is good intro. [HTMHell](https://www.htmhell.dev/) is great to learn better HTML practices.
 
 ## Notes
 

@@ -113,3 +113,4 @@ title: Blender
 - [Block-On](https://github.com/BrendanParmer/Block-On) - Blender add-on for procedural voxelization.
 - [What if OpenAI did Blender scripts? (2022)](https://www.youtube.com/watch?v=k50Y0b3g5WY)
 - [chocofur - YouTube](https://www.youtube.com/@Chocofur/videos) - Does videos on Blender.
+- [Image-Generating AI Can Texture An Entire 3D Scene In Blender (2022)](https://hackaday.com/2022/12/18/image-generating-ai-can-texture-an-entire-3d-scene-in-blender/)

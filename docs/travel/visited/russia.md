@@ -636,3 +636,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Алексей Венедиктов: «Люди кричат от бессилия и боли» (2022)](https://www.youtube.com/watch?v=N5InkcVYFS4)
 - [Русскоязычные фильмы, которые сформировали вас, как личность?](https://twitter.com/tvoizagony/status/1603791128444211201)
 - [Голод | Фильм](https://www.youtube.com/watch?v=rXi3kBXMWo8)
+- [Как Кремль воюет с плохими новостями (2022)](https://www.proekt.media/guide/kremlin-telegram-meduza/)

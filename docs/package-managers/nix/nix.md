@@ -12,7 +12,7 @@ I used [Nix time](https://alexfedoseev.com/blog/post/nix-time) article to instal
 
 [Evolution of Nix](https://www.youtube.com/watch?v=h8hWX_aGGDc&list=PLt4-_lkyRrOMWyp5G-m_d1wtTcbBaOxZk&index=1) is a nice historical talk on Nix.
 
-[Noogle](https://noogle.dev/) is great Nix API search engine. [devenv](https://github.com/cachix/devenv) is great for bootstrapping dev environments.
+[Noogle](https://noogle.dev/) is great Nix API search engine. [devenv](https://github.com/cachix/devenv) or [devbox](https://github.com/jetpack-io/devbox) are great for bootstrapping dev environments.
 
 ## Notes
 
@@ -460,3 +460,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Lockfile trick: Package an npm project with Nix in 20 lines (2022)](https://www.nmattia.com/posts/2022-12-18-lockfile-trick-package-npm-project-with-nix.html)
 - [What's new in Nix 2.8.0 - 2.12.0? (2022)](https://www.youtube.com/watch?v=ypFLcMCSzNA)
 - [nix.ug](http://nix.ug/) - Nix/NixOS User Group Directory. ([Code](https://github.com/nix-how/nix.ug))
+- [Devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments. ([Docs](https://www.jetpack.io/devbox/docs/)) ([0.2.0](https://www.jetpack.io/blog/devbox-0-2-0/)) ([HN](https://news.ycombinator.com/item?id=34073950))

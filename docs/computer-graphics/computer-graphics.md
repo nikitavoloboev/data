@@ -260,3 +260,4 @@
 - [more.graphics](https://more.graphics/) - Your Unique and Free Generator Tools in One Place.
 - [The Continuity of Splines (2022)](https://www.youtube.com/watch?v=jvPPXbo87ds) ([HN](https://news.ycombinator.com/item?id=34014308))
 - [Tool to create videos of particles or waves in different 2D domains](https://github.com/nilsberglund-orleans/YouTube-simulations)
+- [How to draw ugly lines fast](https://cohost.org/tomforsyth/post/648716-how-to-draw-ugly-lin) ([HN](https://news.ycombinator.com/item?id=34050351))

@@ -255,6 +255,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Machine Logic](https://lawrencecpaulson.github.io/)
 - [Denny Britz](https://dennybritz.com/)
 - [Darius Kazemi](https://tinysubversions.com/notes/)
+- [Nikita Popov](https://www.npopov.com/)
 
 ## Notes
 

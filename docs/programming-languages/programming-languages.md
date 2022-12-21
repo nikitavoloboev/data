@@ -495,3 +495,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Garnet: The Generics Problem](https://man.sr.ht/~icefox/garnet/generics.md) ([Lobsters](https://lobste.rs/s/hot5by/garnet_generics_problem))
 - [Coroutines As Threads (2018)](https://dmitrykandalov.com/coroutines-as-threads)
 - [Ten influential programming languages (2020)](https://www.hillelwayne.com/post/influential-dead-languages/) ([HN](https://news.ycombinator.com/item?id=34040397))
+- [Jonathan Blow - Programming Language Q&A (2022)](https://www.youtube.com/watch?v=OAIqCpqszVw)

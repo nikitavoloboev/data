@@ -185,3 +185,4 @@ I try to avoid pointless politics as much as possible but do like [John Mearshei
 - [What do “American sections” of foreign stores actually need to stock (2022)](https://www.reddit.com/r/AskAnAmerican/comments/zogqtj/my_fellow_americans_what_do_american_sections_of/)
 - [What is the least American looking city in the US? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/zpfgxc/what_is_the_least_american_looking_city_in_the_us/)
 - [Green Card application form went from 4 pages in 2003 to 20 pages in 2022](https://twitter.com/david_j_bier/status/1604924286342496268)
+- [Book recommendations for a concise synopsis of the history of US Monetary policy (2022)](https://www.reddit.com/r/EconomicHistory/comments/zqu2mq/any_book_recommendations_for_a_concise_synopsis/)

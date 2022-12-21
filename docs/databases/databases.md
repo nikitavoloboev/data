@@ -736,3 +736,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [EDMA](https://github.com/nomadiz/edma) - Interactive embedded database management system.
 - [Building a database in the 2020s](https://me.0xffff.me/build-database-in-2020s.html)
 - [Database Drivers: Naughty or Nice? (2022)](https://www.prequel.co/blog/database-drivers-naughty-or-nice) ([HN](https://news.ycombinator.com/item?id=33955983))
+- [How to visualize the database using Minimal Modeling (2022)](https://minimalmodeling.substack.com/p/how-to-visualize-your-database-using)

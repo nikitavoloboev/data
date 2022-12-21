@@ -301,3 +301,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [Perplexity AI](https://www.perplexity.ai/) - Search interface that uses OpenAI GPT 3.5 and Microsoft Bing to directly answer any question you ask. ([Tweet](https://twitter.com/perplexity_ai/status/1600551871554338816)) ([Twitter](https://twitter.com/perplexity_ai))
 - [How I almost failed to search a 37 GB text file in under 1 millisecond (2022)](https://death.andgravity.com/pwned) ([Lobsters](https://lobste.rs/s/xqseeq/how_i_almost_failed_search_37_gb_text_file))
 - [CodeQue](https://github.com/codeque-co/codeque) - Supercharged structural code search and replace tool.
+- [Ask HN: Why do search functions everywhere not return what I search for? (2022)](https://news.ycombinator.com/item?id=34077266)

@@ -19,4 +19,4 @@ I'm learning to make sketches as notes similar to [this](https://twitter.com/_lr
 - [CCCCUE: Generating C4 diagrams with CUE - Unladen swallow (2022)](https://blog.owulveryck.info/2022/03/10/ccccue-generating-c4-diagrams-with-cue.html)
 - [Virtual Graph Paper](https://virtual-graph-paper.com/) - Sketch on a Grid. ([HN](https://news.ycombinator.com/item?id=31522414))
 - [Ask HN: How did you learn to draw diagrams? (2022)](https://news.ycombinator.com/item?id=33357937)
-- [D2](https://github.com/terrastruct/d2) - Modern DSL that turns text into diagrams. ([Docs](https://d2lang.com/tour/intro/)) ([HN](https://news.ycombinator.com/item?id=33704254))
+- [D2](https://github.com/terrastruct/d2) - Modern DSL that turns text into diagrams. ([Docs](https://d2lang.com/tour/intro/)) ([HN](https://news.ycombinator.com/item?id=33704254)) ([HN](https://news.ycombinator.com/item?id=34064921))

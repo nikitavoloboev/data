@@ -119,3 +119,4 @@
 - [Michael Nielsen (Postdoc '98-'00), Quantum Physicist, Author, and Open Science Advocate (2022)](https://heritageproject.caltech.edu/interviews-updates/michael-nielsen)
 - [Libint](https://github.com/evaleev/libint) - High-performance library for computing Gaussian integrals in quantum mechanics.
 - [Electrons DO NOT Spin (2021)](https://www.youtube.com/watch?v=pWlk1gLkF2Y)
+- [Universe if not locally real explained](https://www.reddit.com/r/Physics/comments/zqtq1w/comment/j11hwog/?context=3)

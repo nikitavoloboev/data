@@ -50,3 +50,4 @@ Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reacti
 - [Super Charging Fine-Grained Reactive Performance (2022)](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph)
 - [Reactively](https://github.com/modderme123/reactively) - Library for fine grained reactive programming.
 - [Reactivity & Rendering (2022)](https://www.youtube.com/watch?v=R5AcOtxIdMk)
+- [Learning Leptos: Build a fine-grained reactive system in 100 lines of code (2022)](https://www.youtube.com/watch?v=GWB3vTWeLd4)
