@@ -1956,6 +1956,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [QFrame](https://github.com/tobgu/qframe) - Immutable data frame that support filtering, aggregation and data manipulation.
 - [util-go](https://github.com/terrastruct/util-go) - Terrastruct's general purpose go libraries.
 - [maphash](https://github.com/dolthub/maphash) - Hashing Go Types with AES Instructions.
+- [Go utilities](https://github.com/JohnStarich/go)
 
 ## Links
 

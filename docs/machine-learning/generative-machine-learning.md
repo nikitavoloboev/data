@@ -273,3 +273,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Stable Diffusion on AMD RDNA3 (2022)](https://nod.ai/sd-on-rdna3/) ([HN](https://news.ycombinator.com/item?id=34078222))
 - [ChatGPT CLI](https://github.com/mattn/chatgpt)
 - [Point-E: A System for Generating 3D Point Clouds from Complex Prompts (2022)](https://arxiv.org/abs/2212.08751) ([Code](https://github.com/openai/point-e))
+- [Go GPT3](https://github.com/PullRequestInc/go-gpt3) - OpenAI GPT-3 API client enabling Go programs to interact with the GPT3 APIs.

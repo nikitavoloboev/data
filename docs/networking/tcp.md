@@ -111,3 +111,4 @@ title: TCP
 - [Fuzzotron](https://github.com/denandz/fuzzotron) - TCP/UDP based network daemon fuzzer.
 - [Tuntox](https://github.com/gjedeer/tuntox) - Forwards TCP connections over the Tox protocol. This allows low-latency access to distant machines behind a NAT you can't control or with a dynamic IP address.
 - [zstd-proxy](https://github.com/fathyb/zstd-proxy) - High-performance real-time TCP compression.
+- [teeceepee](https://github.com/jvns/teeceepee) - Mini-TCP stack in Python.

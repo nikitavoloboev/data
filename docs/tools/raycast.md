@@ -6,6 +6,8 @@ title: Raycast
 
 Looking into building plugins for Raycast to compare it to [Alfred](../macOS/apps/alfred/alfred.md) I use a lot of. [SOL](https://github.com/ospfranco/sol) & [Script Kit](https://www.scriptkit.com/) seem neat too.
 
+[Raycast Extensions](https://github.com/raycast/extensions) has great code you can use for inspiration.
+
 ## Extensions
 
 - [Airport](https://www.raycast.com/siddharthsharma94/airport) - Discover TestFlight Apps.
