@@ -266,3 +266,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Robust deep learning based protein sequence design using ProteinMPNN (2022)](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1) ([Code](https://github.com/dauparas/ProteinMPNN))
 - [AlphaFold 2 & Equivariance (2020)](https://dauparas.github.io/post/af2/)
 - [Vascularization, Survival, and Functionality of Tissue-Engineered Constructs](https://www.sciencedirect.com/science/article/pii/B9780124201453000146)
+- [OpenBioLink](https://github.com/OpenBioLink/OpenBioLink) - Resource and evaluation framework for evaluating link prediction models on heterogeneous biomedical graph data.

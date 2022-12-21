@@ -14,6 +14,8 @@ title: WebAssembly
 
 [Extism](https://github.com/extism/extism) looks nice for extending native code.
 
+[WebAssembly Tour](https://github.com/thangchung/webassembly-tour) is nice overview.
+
 ## Links
 
 - [WebAssemblyLanguages](https://github.com/AppCypher/WebAssemblyLanguages)
@@ -179,7 +181,7 @@ title: WebAssembly
 - [WebContainer Core](https://github.com/stackblitz/webcontainer-core)
 - [Rust WebAssembly React Template](https://github.com/Fallenstedt/wasm-react-webpack-template)
 - [Defense in depth: stopping a Wasm compiler bug before it became a problem (2021)](https://www.fastly.com/blog/defense-in-depth-stopping-a-wasm-compiler-bug-before-it-became-a-problem)
-- [WebAssembly Tour](https://github.com/thangchung/webassembly-tour)
+- [WebAssembly Tour](https://github.com/thangchung/webassembly-tour) - Take you through a tour of WebAssembly (WASM targets on WASI) with wasmCloud, Krustlet, WAGI, etc.
 - [WasmEdge](https://github.com/WasmEdge/WasmEdge) - High-performance, extensible, and hardware optimized WebAssembly Virtual Machine for cloud, AI, and blockchain applications. ([Web](https://wasmedge.org/)) ([HN](https://news.ycombinator.com/item?id=33792322))
 - [webassemblyjs](https://github.com/xtuc/webassemblyjs) - Toolchain for WebAssembly.
 - [wasm-lsp-server](https://github.com/wasm-lsp/wasm-lsp-server) - Language server implementation for WebAssembly.

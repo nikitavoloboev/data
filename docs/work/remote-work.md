@@ -2,6 +2,10 @@
 
 Like [Axo's company remote values](https://www.axo.dev/team).
 
+My [preferred management style](../management/management.md) is to be fully async first (written communication, well defined tasks) with scheduled focus sync ups to make sure team is going in right direction.
+
+Combined with real time meet ups in some novel places.
+
 ## Notes
 
 - [Remote work tip: Leave a Zoom open that anyone on the team can drop by during some predictable hours. No specific agenda.](https://twitter.com/dksf/status/1308799667153432576)

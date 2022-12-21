@@ -207,3 +207,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Pubmed Parser](https://github.com/titipata/pubmed_parser) - Python Parser for PubMed Open-Access XML Subset and MEDLINE XML Dataset.
 - [Zotero 7 for Developers](https://www.zotero.org/support/dev/zotero_7_for_developers)
 - [Snowball](https://github.com/shaunabanana/snowball) - Quickly find and filter through papers using the snowballing method.
+- [ArXiV-Notify](https://github.com/DavidMChan/ArXiV-Notify) - ArXiV Notification Bot which sends you an email with the latest updates.

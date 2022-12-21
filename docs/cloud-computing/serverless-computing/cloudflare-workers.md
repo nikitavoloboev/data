@@ -216,3 +216,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Kysely-D1](https://github.com/aidenwallis/kysely-d1) - Kysely adapter for Cloudflare D1.
 - [Cloudflare Worker Project Template](https://github.com/drivly/worker.templates.do)
 - [Cloudflare KV Server with JWT auth ](https://github.com/serkodev/cloudflare-kv-server)
+- [Workers-Logger](https://github.com/maraisr/workers-logger) - Fast effective logging for Cloudflare Workers.

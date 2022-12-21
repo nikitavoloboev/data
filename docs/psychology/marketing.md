@@ -41,6 +41,7 @@ Best way to do marketing is simply [launching features often and sharing updates
 - [The title should inform the reader what they'll expect when they read it.](https://news.ycombinator.com/item?id=32320466)
 - [Content marketing is how startups won in the last decade but it's becoming a commodity. The only way to stand out from AI tools and cheap writers is by adding personal experiences and strong opinions. That’s the only thing they will never be able to copy.](https://twitter.com/theandreboso/status/1574045752216748034)
 - [Until you are clearly #1: Your homepage should plainly list the 3 things you do better than the competition.](https://twitter.com/jasonlk/status/1586771201463943168)
+- [Far better it is to have a high level of engagement from a concentrated set of user than a low level engagement from a high number of users.](https://twitter.com/howard/status/1605287610121060352)
 
 ## Links
 

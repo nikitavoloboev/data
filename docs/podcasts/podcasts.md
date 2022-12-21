@@ -264,3 +264,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Google Podcasts](https://podcasts.google.com/)
 - [I Built an AI Chatbot Based On My Favorite Podcast (2022)](https://every.to/superorganizers/i-trained-a-gpt-3-chatbot-on-every-episode-of-my-favorite-podcast) ([Tweet](https://twitter.com/danshipper/status/1603793582120488961))
 - [Podalize](https://github.com/mave5/podalize) - Podcast Transcription and Analysis.
+- [All-In On AI](https://all-in-on-ai.vercel.app/) - OpenAI-powered semantic search for the All-In Podcast. ([Code](https://github.com/transitive-bullshit/yt-semantic-search))

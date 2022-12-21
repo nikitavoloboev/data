@@ -112,3 +112,4 @@ title: LoRaWAN
 - [Building a private LoRa network](https://os.mbed.com/docs/mbed-os/v6.15/apis/LoRa-tutorial.html)
 - [Go LoRaWAN Stack](https://github.com/ofauchon/go-lorawan-stack)
 - [Thing Network 2022 - TinyGo](https://github.com/ofauchon/ttn2022-tinygo)
+- [LoRa: Field Testing Antennas (2022)](https://www.sparkfun.com/news/5497) ([HN](https://news.ycombinator.com/item?id=34073834))

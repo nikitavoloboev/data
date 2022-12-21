@@ -6,7 +6,7 @@ title: Haskell
 
 [This video](https://www.youtube.com/watch?v=tYH5UsahYQU) and [course](https://www.scs.stanford.edu/16wi-cs240h/) are nice intros. [Haskell Weekly](https://haskellweekly.news/) is nice newsletter to stay up to date. [Introduction to Haskell IO](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html) is a good entry to show what Haskell is about.
 
-[Haskell for Working Programmers](https://github.com/liftM/haskell-for-working-programmers) is great read.
+[Haskell for Working Programmers](https://github.com/liftM/haskell-for-working-programmers) & [Write You a Haskell](http://dev.stephendiehl.com/fun/) are great reads.
 
 [Production Haskell](https://leanpub.com/production-haskell) seems like a nice advanced Haskell book.
 
@@ -100,7 +100,7 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Ormolu](https://github.com/tweag/ormolu) - Formatter for Haskell source code. ([Announcement article](https://www.tweag.io/posts/2019-10-11-ormolu-first-release.html)) ([Ormolu WASM](https://ormolu-wasm.netlify.app/))
 - [Fourmolu](https://github.com/fourmolu/fourmolu) - Formatter for Haskell source code. Fork of Ormolu, with the intention to continue to merge upstream improvements.
 - [Koka](https://github.com/koka-lang/koka) - Function-oriented language with effect inference.
-- [Write You a Haskell](http://dev.stephendiehl.com/fun/) - Building a modern functional compiler from first principles.
+- [Write You a Haskell](http://dev.stephendiehl.com/fun/) - Building a modern functional compiler from first principles. ([Code](https://github.com/sdiehl/write-you-a-haskell))
 - [Write You a Haskell 2](https://github.com/JKTKops/Write-You-a-Haskell-2) - Continuation of Steven Diehl's Write You a Haskell.
 - [Verification with Refinement Types](https://ranjitjhala.github.io/CAV19-tutorial/00-outline.html)
 - [Hoogle](https://github.com/ndmitchell/hoogle) - Haskell API search engine.

@@ -58,6 +58,7 @@ I made [my CV](https://nikiv.dev/cv.pdf) using [Awesome CV](https://github.com/p
 - [Andrew Carr](https://andrewnc.github.io/)
 - [Rådell.net](https://radell.net/) - Like ability to see highlights for each of the jobs.
 - [Ian Macalinao](https://macalinao.github.io/resume/resume.pdf) ([Code](https://github.com/macalinao/resume))
+- [Aiden Bai](https://www.figma.com/file/n4MkGYBP1CEc3LsXU9z1pT/Resume?node-id=0%3A1&t=XuJsj15wD7AZpAXj-0)
 
 ## Notes
 

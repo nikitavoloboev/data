@@ -51,3 +51,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [Padloc](https://padloc.app/) - Open Source, End-to-end Encrypted Password Manager. ([Code](https://github.com/padloc/padloc))
 - [Otti](https://github.com/dnaka91/otti) - One-time password manager for the terminal, with interactive and fancy TUI.
 - [Keyring-rs](https://github.com/hwchen/keyring-rs) - Cross-platform library and utility to manage passwords.
+- [ripasso](https://github.com/cortex/ripasso) - Simple password manager written in Rust.

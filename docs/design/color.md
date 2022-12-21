@@ -4,6 +4,8 @@
 
 [Color and Contrast](https://colorandcontrast.com/#/) is a good read. [Mixbox](https://github.com/scrtwpns/mixbox) is nice library for color mixing.
 
+[OKLCH](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl) is [exciting](https://slides.com/ai/oklch-css).
+
 ## Nice gradients
 
 - [1](https://components.ai/gradient/ZkZ7AP11YnaNf2SuDTt6?tab=editor)

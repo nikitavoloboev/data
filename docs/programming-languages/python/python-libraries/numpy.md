@@ -42,3 +42,4 @@ title: NumPy
 - [Numpy is absurd](https://gist.github.com/Moelf/59d6312c51c250ba251125e54bea7282) ([HN](https://news.ycombinator.com/item?id=32036712))
 - [npstreams](https://github.com/LaurentRDC/npstreams) - Streaming operations on NumPy arrays.
 - [spector](https://github.com/coady/spector) - Sparse vectors optimized for memory and NumPy integrations.
+- [NumPy 1.24](https://github.com/numpy/numpy/releases/tag/v1.24.0) ([HN](https://news.ycombinator.com/item?id=34046434))

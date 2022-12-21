@@ -567,3 +567,4 @@
 - [Getting started with nmap (2022)](https://ittavern.com/getting-started-with-nmap/) ([HN](https://news.ycombinator.com/item?id=34026517))
 - [Comprehensive MPI Tutorial Resource](https://mpitutorial.com/) ([Code](https://github.com/mpitutorial/mpitutorial))
 - [How Many Computers Are In Your Computer?](https://www.gwern.net/Computers)
+- [NATS By Example](https://github.com/ConnectEverything/nats-by-example) - Collection of reference examples using NATS.

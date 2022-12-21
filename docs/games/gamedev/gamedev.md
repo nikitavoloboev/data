@@ -307,3 +307,4 @@
 - [The Making of Dune II: The birth of the real-time strategy game](https://readonlymemory.vg/the-making-of-dune-ii/) ([HN](https://news.ycombinator.com/item?id=33869118))
 - [How and why video game studios unionize (2022)](https://www.polygon.com/23485977/video-game-unions-guide-explainer)
 - [Why Veteran Developers say "Make Small Games & Finish Them!" (2022)](https://www.youtube.com/watch?v=-K46mV38qD8)
+- [I still use Flash (2022)](https://foon.uk/how-flash-2022/) ([HN](https://news.ycombinator.com/item?id=34079543))

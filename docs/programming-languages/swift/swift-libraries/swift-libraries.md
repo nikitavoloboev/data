@@ -604,6 +604,7 @@
 - [SwiftUI Overlay Container](https://github.com/fatbobman/SwiftUIOverlayContainer) - Highly customizable view container components for SwiftUI.
 - [EditValueView](https://github.com/p-x9/EditValueView) - Library that makes easy to display property edit screens for SwiftUI.
 - [SwiftUIGraphs](https://github.com/DominikButz/SwiftUIGraphs) - Replacement for SwiftUI Charts.
+- [OutlineView](https://github.com/Sameesunkaria/OutlineView) - SwiftUI view for macOS, which allows you to display hierarchical visual layouts.
 
 ## Test
 

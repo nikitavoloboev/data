@@ -1,5 +1,7 @@
 # Datasets
 
+[Hugging Face Datasets](https://huggingface.co/datasets) & [TensorFlow Datasets](https://github.com/tensorflow/datasets) have nice collections.
+
 ## Links
 
 - [Google Dataset Search](https://datasetsearch.research.google.com/) ([HN](https://news.ycombinator.com/item?id=22130874)) ([HN](https://news.ycombinator.com/item?id=27068551))
@@ -220,3 +222,4 @@
 - [Laion-5B: A New Era of Open Large-Scale Multi-Modal Datasets (2022)](https://laion.ai/blog/laion-5b/) ([HN](https://news.ycombinator.com/item?id=33953891))
 - [GWA](https://github.com/GAMMA-UMD/GWA) - Geometric-Wave Acoustic dataset.
 - [Generalized RDF datasets for Rust](https://github.com/timothee-haudebourg/grdf)
+- [Video2Dataset](https://github.com/iejMac/video2dataset) - Easily create large video dataset from video URLs.

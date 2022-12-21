@@ -132,6 +132,7 @@
 - [MadDiff.jl](https://github.com/sshin23/MadDiff.jl) - Automatic differentiation and algebraic modeling package.
 - [ScientificTypes.jl](https://github.com/JuliaAI/ScientificTypes.jl) - API for dispatching on the "scientific" type of data instead of the machine type.
 - [DataAugmentation.jl](https://github.com/lorenzoh/DataAugmentation.jl) - Flexible data augmentation library for machine and deep learning.
+- [DiffEqParamEstim.jl](https://github.com/SciML/DiffEqParamEstim.jl) - Easy scientific machine learning (SciML) parameter estimation with pre-built loss functions.
 
 ## Math
 

@@ -1,6 +1,6 @@
 # Management
 
-[Linear](https://linear.app/) & [Height](https://height.app/) are nice project management tools. I use GitHub issues for all my project management tasks. Want to build a nice desktop client app for GitHub similar to [Ship](https://www.realartists.com/blog/ship-20.html).
+[Height](https://height.app/) & [Linear](https://linear.app/) are nice project management tools. I use GitHub issues and Height for all my project management tasks. Want to build a nice desktop client app for GitHub similar to [Ship](https://www.realartists.com/blog/ship-20.html)/Height.
 
 [The Managers Handbook](https://themanagershandbook.com/), [Basecamp Employee Handbook](https://basecamp.com/handbook), [Engineering Management for the Rest of Us](https://www.engmanagement.dev/) & [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview) have nice ideas.
 
@@ -10,6 +10,18 @@ Top things that I think are [must have for productive working environment](https
 2. Coworkers that intrinsically care about their work.
 3. Coworkers that are fantastic people.
 4. Meaningful work.
+
+I dislike daily standups and think they are a waste of time. It's better to setup environment where it's clear what is done, who works on what and unblocking happens in real time by simply writing how you're blocked and what you tried.
+
+It's great to do team overviews either weekly or monthly to make sure the focus of the team is right given team's long term goals.
+
+If all above is done well and the tasks are organized by priority. With tasks being well defined for why they were added and how to approach solving them. Specifically as it can be used later in case some decisions/features need to be reversed, there would be a clear log for why something was added. Having squashed PRs be associated to issues makes this process clear and nice for old and new developers.
+
+I also found doing estimations to be a waste of time. Things are done when they're done. However setting sometimes aspirational deadlines is great motivator.
+
+The way [VSCode manages their issues as part of monthly sprints](https://github.com/microsoft/vscode/milestones) is great example of above I find.
+
+I go over how I personally approach solving individual tasks [here](../research/solving-problems.md).
 
 ## Notes
 
@@ -235,3 +247,4 @@ Top things that I think are [must have for productive working environment](https
 - [Scrum Report](https://github.com/obalunenko/scrum-report) - Daily stand up meeting scrum report generator in markdown format for slack.
 - [Engineering Management Resources](https://github.com/charlax/engineering-management)
 - [Writing good performance self reviews](https://andrewhuth.substack.com/p/writing-good-performance-self-reviews) ([HN](https://news.ycombinator.com/item?id=34019693))
+- [Deep work. Essentialism in asynchronous culture (2022)](https://jorzel.github.io/deep-work-essentialism-in-asynchronous-culture/) ([HN](https://news.ycombinator.com/item?id=34071820))

@@ -12,6 +12,8 @@ Wish more startups did calendar timelines with big events [like Amie](https://am
 
 I personally believe that eventually all of the greatest companies will be fully open source and transparent. You can [out execute any company by being more focused](https://twitter.com/HarryStebbings/status/1604201383720521729) and building what you truly [think customers want](https://news.ycombinator.com/item?id=34033281).
 
+Great [management](../../management/management.md) makes a huge difference whether startups succeed or not.
+
 ## Notes
 
 - [Put a price on it](https://www.youtube.com/watch?v=0CDXJ6bMkMY). And sell.
