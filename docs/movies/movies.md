@@ -176,3 +176,4 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [Great Sci-Fi movies (2022)](https://twitter.com/engineers_feed/status/1604227436488663042)
 - [What's a film in the last five years that you believe a classic that'll be praised for decades to come (2022)](https://www.reddit.com/r/movies/comments/zpf93y/whats_a_film_in_the_last_five_years_that_you/)
 - [what in your opinion is the most quotable movie? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/zqnu72/what_in_your_opinion_is_the_most_quotable_movie/)
+- [Lies of Heroism – Redefining the Anti-War Film (2020)](https://www.youtube.com/watch?v=yf0G2MPBEYM)

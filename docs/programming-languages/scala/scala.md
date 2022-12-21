@@ -183,3 +183,5 @@ title: Scala
 - [Simply Scala - Martin Odersky (2022)](https://www.youtube.com/watch?v=QRcD9Zc7eq4)
 - [Say goodbye to implicits contextual abstractions in Scala 3 - Magda Stożek (2022)](https://www.youtube.com/watch?v=WZBuelv_cxQ)
 - [Scala with batteries included - Krzysztof Romanowski (2022)](https://www.youtube.com/watch?v=uS0BW3iuPFg)
+- [Boost your productivity with Scala tooling! - Meriam Lachkar (2022)](https://www.youtube.com/watch?v=lSmm4YZ2wL0)
+- [Property-Based Testing: Let Your Testing Library Work for You - Magda Stożek (2021)](https://www.youtube.com/watch?v=pO4_3kg1wMw)

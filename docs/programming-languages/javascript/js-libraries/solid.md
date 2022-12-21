@@ -182,3 +182,4 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [Storybook Solid](https://github.com/elite174/storybook-solid-js)
 - [SolidStart implementation of NextAuth](https://github.com/OrJDev/auth-solid)
 - [Fine-grained reactivity - Deep dive into SolidJS](https://github.com/everweij/solidjs-fine-grained-reactivity)
+- [Building A Modern Web App With SolidStart And tRPC (2022)](https://www.youtube.com/watch?v=NGMsQRZwB1Y)

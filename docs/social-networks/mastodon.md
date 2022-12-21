@@ -139,3 +139,4 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [Elk Mastodon Desktop app](https://github.com/elk-zone/elk-native) ([Web Code](https://github.com/elk-zone/elk))
 - [Masto Guide](https://github.com/jippi/masto-guide)
 - [Use your own user @ domain for Mastodon discoverability with the WebFinger Protocol without hosting a server (2022)](https://www.hanselman.com/blog/use-your-own-user-domain-for-mastodon-discoverability-with-the-webfinger-protocol-without-hosting-a-server)
+- [Using Mastodon to power blog comments (2022)](https://grahammacphee.com/writing/mastodon-blog-comments) ([HN](https://news.ycombinator.com/item?id=34082138))

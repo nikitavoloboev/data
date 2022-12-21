@@ -453,3 +453,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Open source USB C camera with C mount lens, MIPI Sensor, Lattice FPGA, USB 3.0 (2022)](https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html) ([HN](https://news.ycombinator.com/item?id=34022797))
 - [Vidstack](https://www.vidstack.io/) - Media tools for frontend developers. ([GitHub](https://github.com/vidstack))
 - [Video Codec in 100 lines of Rust (2021)](https://blog.tempus-ex.com/hello-video-codec/) ([HN](https://news.ycombinator.com/item?id=34055101))
+- [GopherCon 2022: Vladimir Vivien - System Programming for Real-time Video Capture in Go (2022)](https://www.youtube.com/watch?v=uiVQQi20DgM)
