@@ -64,7 +64,6 @@ One of my favorite things in life is building little tools for solving even the 
 - [Yac](https://www.yac.chat/) - Asynchronous voice collaboration for remote teams.
 - [Quill](https://quill.chat/) - Messaging for groups and teams that stay focused.
 - [Slido](https://www.sli.do/) - Audience interaction made easy.
-- [Flowkit](https://useflowkit.com/) - User flows right inside your favorite design tool.
 - [Code Hike](https://codehike.org/) - Marvellous code walkthroughs. ([Code](https://github.com/code-hike/codehike))
 - [Web Clipper](https://clipper.website/) - Open source extension. You can use it to save anything on the web to anywhere. ([Code](https://github.com/webclipper/web-clipper))
 - [Reclaim](https://reclaim.ai/) - Make time when there is none.

@@ -713,7 +713,7 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [WhatsApp-GPT](https://github.com/danielgross/whatsapp-gpt)
 - [What ChatGPT features/improvements do you want?](https://twitter.com/sama/status/1599457816494092289)
 - [Summarize-Webpage](https://github.com/akashp1712/summarize-webpage) - Small NLP SAAS project that summarize a webpage.
-- [Nonparametric Masked Language Modeling (2022)](https://arxiv.org/abs/2212.01349)
+- [Nonparametric Masked Language Modeling (2022)](https://arxiv.org/abs/2212.01349) - 500x fewer parameters than GPT-3 while outperforming it on zero-shot tasks. ([Reddit](https://www.reddit.com/r/MachineLearning/comments/zr2en7/r_nonparametric_masked_language_modeling_metaai/))
 - [Holistic Evaluation of Language Models](https://github.com/stanford-crfm/helm) - Framework to increase the transparency of language models. ([Paper](https://arxiv.org/abs/2211.09110))
 - [Dramatron](https://github.com/deepmind/dramatron) - Uses large language models to generate long, coherent text and could be useful for authors for co-writing theatre scripts and screenplays. ([HN](https://news.ycombinator.com/item?id=33922744))
 - [ExtremeBERT](https://github.com/extreme-bert/extreme-bert) - Toolkit that accelerates the pretraining of customized language models on customized datasets.

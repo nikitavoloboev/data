@@ -218,3 +218,4 @@
 - [“Security in the Void”: Rereading Ernst Jünger](https://www.theparisreview.org/blog/2022/12/14/security-in-the-void-rereading-ernst-junger/)
 - [What's your favorite autocratic regime?](https://twitter.com/JoePostingg/status/1604140102347018240)
 - [A collection of Soviet control rooms (2017)](http://blog.presentandcorrect.com/27986-2) ([HN](https://news.ycombinator.com/item?id=34069213))
+- [Why Hitler declared War on the USA](https://www.youtube.com/watch?v=y6ndO6_BOK4)

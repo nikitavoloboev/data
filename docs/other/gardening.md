@@ -2,6 +2,8 @@
 
 Have a greenhouse in which I grow some vegetables and [mushrooms](mushrooms.md). Still learning how it all works.
 
+[Handbook of Plant Nutrition](http://libgen.rs/book/index.php?md5=0DE03F3742244A0FCFFD21A3C33FE812) is nice read.
+
 ## Links
 
 - [Flowers That Were Clearly Birds in a Former Life](https://twitter.com/ferrisjabr/status/1291455210989080581)
@@ -32,3 +34,4 @@ Have a greenhouse in which I grow some vegetables and [mushrooms](mushrooms.md).
 - [Why are plants green? To reduce the noise in photosynthesis](https://worldsensorium.com/why-are-plants-green/) ([HN](https://news.ycombinator.com/item?id=33049277))
 - [4 Beginner Mistakes to Avoid When Growing San Pedro Cacti](https://www.youtube.com/watch?v=lhuMsL8m5zE)
 - [Growing San Pedro Cactus: A Complete How-To](https://thethirdwave.co/growing-san-pedro-cactus/)
+- [Handbook of Plant Nutrition](http://libgen.rs/book/index.php?md5=0DE03F3742244A0FCFFD21A3C33FE812)

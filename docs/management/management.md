@@ -15,7 +15,7 @@ I dislike daily standups and think they are a waste of time. It's better to setu
 
 It's great to do team overviews either weekly or monthly to make sure the focus of the team is right given team's long term goals.
 
-If all above is done well and the tasks are organized by priority. With tasks being well defined for why they were added and how to approach solving them. Specifically as it can be used later in case some decisions/features need to be reversed, there would be a clear log for why something was added. Having squashed PRs be associated to issues makes this process clear and nice for old and new developers.
+If all above is done well and the tasks are organized by priority. With tasks being well defined for why they were added and how to approach solving them. Specifically as it can be used later in case some decisions/features need to be reversed, there would be a clear log for why something was added. Having squashed PRs be associated to issues makes this process clear and nice for current and new developers.
 
 I also found doing estimations to be a waste of time. Things are done when they're done. However setting sometimes aspirational deadlines is great motivator.
 

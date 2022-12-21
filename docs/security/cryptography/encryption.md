@@ -103,3 +103,4 @@
 - [Sunscreen](https://github.com/Sunscreen-tech/Sunscreen) - Compiler for the BFV fully homomorphic encryption scheme.
 - [Crypto helper](https://crypto.qkation.com/) - Web app that can hash, encrypt, and sign the data on the client side. ([Code](https://github.com/TheBestTvarynka/crypto-helper))
 - [Password Generator for HashiCorp Vault](https://github.com/sethvargo/vault-secrets-gen)
+- [Portable Secret](https://github.com/mprimi/portable-secret) - Send encrypted messages/images/files over insecure channels (email, messaging, …). ([Web](https://mprimi.github.io/portable-secret/)) ([HN](https://news.ycombinator.com/item?id=34083366))
