@@ -924,3 +924,4 @@ if *boolArgPtr != false {
 - [Rubbing control theory on the Go scheduler (2022)](https://www.cockroachlabs.com/blog/rubbing-control-theory/)
 - [Go CPU Utilization](https://github.com/felixge/go-cpu-utilization) - Attempt at measuring the CPU utilization of a Go program.
 - [Faster Go code by being mindful of memory (2022)](https://f4t.dev/software/go-performance-memory/) ([Lobsters](https://lobste.rs/s/onnjzg/faster_go_code_by_being_mindful_memory))
+- [Hacking Go's Runtime with Generics (2022)](https://www.dolthub.com/blog/2022-12-19-maphash/)
