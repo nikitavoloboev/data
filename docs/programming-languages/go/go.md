@@ -20,6 +20,8 @@ That said, I am exploring writing more code in [Rust](../rust/rust.md) specifica
 
 It's useful to setup linters like [GolangCI-Lint](https://github.com/golangci/golangci-lint) or commands from [Go Recipes](https://github.com/nikolaydubina/go-recipes).
 
+[Guide to Go profiling, tracing and observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md) is useful read.
+
 ## Commenting Go code
 
 - Comments documenting declarations should be full sentences.
@@ -925,3 +927,4 @@ if *boolArgPtr != false {
 - [Go CPU Utilization](https://github.com/felixge/go-cpu-utilization) - Attempt at measuring the CPU utilization of a Go program.
 - [Faster Go code by being mindful of memory (2022)](https://f4t.dev/software/go-performance-memory/) ([Lobsters](https://lobste.rs/s/onnjzg/faster_go_code_by_being_mindful_memory))
 - [Hacking Go's Runtime with Generics (2022)](https://www.dolthub.com/blog/2022-12-19-maphash/) ([HN](https://news.ycombinator.com/item?id=34068129))
+- [Guide to Go profiling, tracing and observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)

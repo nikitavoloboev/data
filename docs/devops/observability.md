@@ -35,7 +35,6 @@ title: Observability
 - [Testing vs Observability: Which is right for your data quality needs? (2021)](https://medium.com/bigeye/testing-vs-observability-which-is-right-for-your-data-quality-needs-1ceb34a12867)
 - [Observability: A New Theory Based on the Group of Invariance (2020)](https://www.maa.org/press/maa-reviews/observability-a-new-theory-based-on-the-group-of-invariance) ([HN](https://news.ycombinator.com/item?id=28285988))
 - [Unpacking Observability: The Observability Stack (2021)](https://adri-v.medium.com/unpacking-observability-the-observability-stack-93d4733e2a72)
-- [The Busy Developers's Guide to Go Profiling, Tracing and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
 - [Hydrolix](https://www.hydrolix.io/) - Elastic cloud data platform built for observability. ([1.1 Billion Taxi Rides using Hydrolix on AWS](https://tech.marksblogg.com/hydrolix-1b-taxi-rides-aws.html))
 - [Axiom](https://www.axiom.co/) - Serverless log management solution. ([GitHub](https://github.com/axiomhq)) ([Twitter](https://twitter.com/AxiomFM)) ([Axiom Elements](https://github.com/axiomhq/axiom-elements))
 - [Free Your Services From Vendor Lock-in With OpenTelemetry (2021)](https://www.youtube.com/watch?v=G-WjD2bg6co)

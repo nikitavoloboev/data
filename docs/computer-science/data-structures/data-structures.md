@@ -126,3 +126,4 @@
 - [Ask HN: Books on designing disk-optimized data structures? (2022)](https://news.ycombinator.com/item?id=32965075)
 - [In defense of linked lists (2022)](http://antirez.com/news/138) ([HN](https://news.ycombinator.com/item?id=33473497)) ([Lobsters](https://lobste.rs/s/kbwb4d/defense_linked_lists))
 - [Fast Functional Lists, Hash-Lists, Deques and Variable Length Arrays (2002)](http://trout.me.uk/lisp/vlist.pdf) ([HN](https://news.ycombinator.com/item?id=33480031))
+- [Challenging algorithms and data structures every programmer should try (2022)](https://austinhenley.com/blog/challengingalgorithms.html)

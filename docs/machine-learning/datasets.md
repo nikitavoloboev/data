@@ -12,7 +12,7 @@
 - [Introducing the CodeSearchNet challenge (2019)](https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/) ([HN](https://news.ycombinator.com/item?id=21082757))
 - [Facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets.
 - [skdata](https://github.com/jaberg/skdata) - Data sets for machine learning in Python.
-- [TensorFlow Datasets](https://github.com/tensorflow/datasets) - Collection of datasets ready to use with TensorFlow.
+- [TensorFlow Datasets](https://github.com/tensorflow/datasets) - Collection of datasets ready to use with TensorFlow. ([HN](https://news.ycombinator.com/item?id=34079690))
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Awesome Public Datasets Core](https://github.com/awesomedata/apd-core) - Next iteration of APD project.
 - [LORIS](https://github.com/aces/Loris) - Web-accessible database solution for longitudinal multi-site studies.
