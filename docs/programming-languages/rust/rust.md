@@ -991,4 +991,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Sorting with SIMD (2022)](https://tweedegolf.nl/en/blog/79/sorting-with-simd) ([HN](https://news.ycombinator.com/item?id=34029603))
 - [Rust Magazine](https://rustmagazine.github.io/) - Publication for the Rust programming language community. ([Code](https://github.com/rustmagazine/rustmagazine.github.io)) ([Reddit](https://www.reddit.com/r/rust/comments/zpvkwb/announcing_rust_magazine/))
 - [High Performance Rust UI (2022)](https://www.youtube.com/watch?v=zVUTZlNCb8U)
-- [Comprehensive Rust Guide from Google](https://google.github.io/comprehensive-rust/) ([HN](https://news.ycombinator.com/item?id=34091271))
+- [Comprehensive Rust Guide from Google](https://google.github.io/comprehensive-rust/) ([HN](https://news.ycombinator.com/item?id=34091271)) ([Reddit](https://www.reddit.com/r/rust/comments/zrs1of/new_rust_course_by_android_comprehensive_rust/))

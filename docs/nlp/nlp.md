@@ -739,3 +739,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Blob](https://github.com/minskylab/blob) - Powerful tool that uses language large models (LLMs) to assist in the creation and maintenance of software projects.
 - [Chain of Thought Prompting Elicits Reasoning in Large Language Models (2022)](https://arxiv.org/abs/2201.11903) ([Code](https://github.com/OpenBioLink/ThoughtSource))
 - [Compress-fastText](https://github.com/avidale/compress-fasttext) - Python 3 package allows to compress fastText word embedding models.
+- [Large Language Models are Zero-Shot Reasoners (2022)](https://arxiv.org/abs/2205.11916)

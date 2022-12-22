@@ -8,7 +8,7 @@ Personally excited about developments of [Foregen](https://www.foregen.org/) & a
 
 Most notes/links below I got from [Cunningham](https://www.reddit.com/user/Cunningham_Foregen/).
 
-With regards to Foregen, optimal vascularization is the biggest challenge. Without proper blood flow, regenerated construct will die.
+With regards to Foregen, optimal [vascularization](https://twitter.com/alainchedotal/status/1605855847082598400) is the biggest challenge. Without proper blood flow, regenerated construct will die.
 
 [Vascularization](https://www.taylorfrancis.com/books/edit/10.1201/b16777/vascularization-eric-brey?refId=d16e0269-5cf7-4246-8ac8-bd0a79f08091&context=ubx) is great book on the subject.
 

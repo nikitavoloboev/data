@@ -4,6 +4,8 @@
 
 [Computer Networks: A Systems Approach](https://book.systemsapproach.org/) is great for in depth study.
 
+[Sniffnet](https://github.com/GyulyVGC/sniffnet) is great way to glance into your network traffic.
+
 ## Notes
 
 - `127.0.0.1` is localhost.
