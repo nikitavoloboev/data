@@ -399,3 +399,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Book: A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms)
 - [Does it inline?](https://bolinlang.com/does-it-inline) ([HN](https://news.ycombinator.com/item?id=34033557))
 - [Object Introspection](https://github.com/facebookexperimental/object-introspection) - Enables on-demand, hierarchical profiling of objects in arbitrary C/C++ programs with no recompilation.
+- [Avoid exception throwing in performance-sensitive code (2022)](https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/) ([HN](https://news.ycombinator.com/item?id=34088370))
