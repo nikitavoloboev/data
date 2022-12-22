@@ -4,6 +4,8 @@ title: Homotopy theory
 
 # [Homotopy theory](https://ncatlab.org/nlab/show/homotopy+theory)
 
+[Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082) is great.
+
 ## Links
 
 - [Homotopy Type Theory course (2020)](http://www.cs.cmu.edu/~rwh/courses/hott/)
@@ -49,3 +51,4 @@ title: Homotopy theory
 - [HoTT notes](https://github.com/lemastero/hott-wiki)
 - [Introduction to Homotopy Type Theory (LMFI 2022)](https://github.com/herbelin/LMFI-HoTT)
 - [Timeline of “foundational” advances in homotopy theory? (2022)](https://mathoverflow.net/questions/424853/timeline-of-foundational-advances-in-homotopy-theory) ([HN](https://news.ycombinator.com/item?id=31845898))
+- [Introduction to Homotopy Type Theory (2022)](https://arxiv.org/abs/2212.11082)
