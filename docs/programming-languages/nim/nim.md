@@ -54,3 +54,4 @@ title: Nim
 - [How to write performant Nim (2022)](https://www.reddit.com/r/nim/comments/yor0ue/how_to_write_performant_nim/)
 - [A cost model for Nim (2022)](https://nim-lang.org/blog/2022/11/11/a-cost-model-for-nim.html)
 - [Choosing Nim out of a crowded market for systems programming languages (2022)](https://forum.nim-lang.org/t/9655) ([HN](https://news.ycombinator.com/item?id=33747165))
+- [Nim version 2.0 release](https://nim-lang.org/blog/2022/12/21/version-20-rc.html) ([HN](https://news.ycombinator.com/item?id=34086739))
