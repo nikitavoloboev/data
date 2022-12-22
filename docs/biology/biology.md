@@ -2,7 +2,7 @@
 
 [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/) is a [great article](https://news.ycombinator.com/item?id=32035054).
 
-[poly](https://github.com/timothystiles/poly) is a nice lib. [Michael Levin](https://twitter.com/drmichaellevin) does [fascinating research](https://www.youtube.com/watch?v=p3lsYlod5OU).
+[poly](https://github.com/timothystiles/poly) is a nice lib. [Michael Levin](https://twitter.com/drmichaellevin) does [fascinating research](https://www.youtube.com/watch?v=p3lsYlod5OU) on [regenerative medicine](regenerative-medicine.md).
 
 ## Notes
 

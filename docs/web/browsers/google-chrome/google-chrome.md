@@ -108,3 +108,4 @@ And here are Chrome extensions I use:
 - [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium)
 - [Introducing passkeys in Chrome (2022)](https://blog.chromium.org/2022/12/introducing-passkeys-in-chrome.html) ([HN](https://news.ycombinator.com/item?id=33917070))
 - [Chrome, 10 Years Later (2022)](https://neugierig.org/software/blog/2022/12/chrome.html) ([HN](https://news.ycombinator.com/item?id=33917157))
+- [All 1,400 Google Chrome CLI flags](https://peter.sh/experiments/chromium-command-line-switches/) ([HN](https://news.ycombinator.com/item?id=34087808))

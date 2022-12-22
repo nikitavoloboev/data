@@ -153,3 +153,4 @@ source script
 -   [Why doesn't Bash's `set -e` do what I expected?](http://mywiki.wooledge.org/BashFAQ/105) ([HN](https://news.ycombinator.com/item?id=33116310))
 -   [Bash Style Guide](https://github.com/bahamas10/bash-style-guide)
 -   [bashew](https://github.com/pforret/bashew) - Bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing.
+-   [Using ChatGPT to make Bash palatable (2022)](https://brev.dev/blog/ai-wont-replace-you-write-bash)

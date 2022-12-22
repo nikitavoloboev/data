@@ -4,6 +4,8 @@
 
 The way our brains take input from different senses (eyes, touch) and then decide how to act on the signals is pretty wild. You can [trick the brain easily too this way](https://twitter.com/Imposter_Edits/status/1528888787388223488).
 
+Love [Alain Chedotal](https://twitter.com/AlainChedotal)'s research.
+
 ## Notes
 
 - [Tools are interpreted by the brain as an extension of the human body.](https://twitter.com/provisionalidea/status/1392854515347513351)

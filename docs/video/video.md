@@ -10,6 +10,8 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 
 [Vidstack Player](https://github.com/vidstack/player) is nice browser player.
 
+[Screen Studio](https://www.screen.studio/) is great for doing screen recordings.
+
 ## Inspiring editing
 
 - [Watchtower of Turkey](https://www.youtube.com/watch?v=z7yqtW4Isec) - Incredible. By Leonardo Dalessandri.
@@ -423,7 +425,7 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Matroska](https://github.com/rust-av/matroska) - Matroska format support in Rust.
 - [FFmpeg.guide](https://ffmpeg.guide/) - One stop solution to all things FFmpeg. ([Tweet](https://twitter.com/zack_overflow/status/1586288992680493057)) ([HN](https://news.ycombinator.com/item?id=33383023))
 - [imagorvideo](https://github.com/cshum/imagorvideo) - Video thumbnail server using RMSE in Go and ffmpeg C bindings.
-- [Screen Studio](https://www.screen.studio/) - Beautiful screen recordings in minutes.
+- [Screen Studio](https://www.screen.studio/) - Beautiful screen recordings in minutes. ([Recorder CLI API](https://screenstudio.notion.site/Recorder-CLI-API-a0a2d69cbc7f4a5ca7e93f01e12e38e2))
 - [EVA](https://github.com/georgia-tech-db/eva) - Exploratory Video Analytics System.
 - [Booth](https://booth.video/) - Metadata-Secure Video Conferencing.
 - [GIFs (sane) playback control using WASM and FFmpeg (2022)](https://brunoluiz.net/blog/2022/jan/gif-sane-playback-control-ffmpegwasm/)

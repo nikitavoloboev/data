@@ -4,7 +4,7 @@ title: Rust
 
 # [Rust](https://www.rust-lang.org/en-US/)
 
-[Rust Book](https://doc.rust-lang.org/book/) ([interactive version](https://rust-book.cs.brown.edu/)) & [rustlings](https://github.com/rust-lang/rustlings) is best intro into Rust. Together with [rust cheat sheet](https://cheats.rs/).
+[Rust Book](https://doc.rust-lang.org/book/) ([interactive version](https://rust-book.cs.brown.edu/)), [Comprehensive Rust Guide](https://google.github.io/comprehensive-rust/) & [rustlings](https://github.com/rust-lang/rustlings) are best intros into Rust. Together with [rust cheat sheet](https://cheats.rs/).
 
 [Rust in Action](https://www.manning.com/books/rust-in-action), [Rust for JS Devs](https://rustforjs.dev) & [Zero To Prod](https://www.zero2prod.com/index.html) ([good notes](https://bitemyapp.com/blog/notes-on-zero2prod-rust/)) are nice too. You can also use [this brief starter guide](https://github.com/jondot/rust-how-do-i-start).
 
@@ -991,3 +991,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Sorting with SIMD (2022)](https://tweedegolf.nl/en/blog/79/sorting-with-simd) ([HN](https://news.ycombinator.com/item?id=34029603))
 - [Rust Magazine](https://rustmagazine.github.io/) - Publication for the Rust programming language community. ([Code](https://github.com/rustmagazine/rustmagazine.github.io)) ([Reddit](https://www.reddit.com/r/rust/comments/zpvkwb/announcing_rust_magazine/))
 - [High Performance Rust UI (2022)](https://www.youtube.com/watch?v=zVUTZlNCb8U)
+- [Comprehensive Rust Guide from Google](https://google.github.io/comprehensive-rust/) ([HN](https://news.ycombinator.com/item?id=34091271))

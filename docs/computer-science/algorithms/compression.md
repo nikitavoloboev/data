@@ -157,3 +157,4 @@
 - [QOIR lossless image file format was explained (2022)](https://nigeltao.github.io/blog/2022/qoir.html)
 - [ripunzip](https://github.com/google/ripunzip) - Tool to unzip files in parallel.
 - [Tinier](https://github.com/qdm12/tinier) - Make your videos, images and audio files tinier.
+- [Netflix: 30% bitrate saving using Film Grain Synthesis (2022)](https://waveletbeam.com/index.php/news/48-netflix-film-grain-synthesis) ([HN](https://news.ycombinator.com/item?id=34087938))
