@@ -504,3 +504,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Probability Monads from scratch in 100 lines of Haskell (2022)](https://dennybritz.com/posts/probability-monads-from-scratch/)
 - [Nixpkgs support for incremental Haskell builds (2022)](https://www.haskellforall.com/2022/12/nixpkgs-support-for-incremental-haskell.html)
 - [Haskell Docker Official Images](https://github.com/haskell/docker-haskell)
+- [Making GHC faster at emitting code (2022)](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)

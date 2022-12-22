@@ -4,7 +4,7 @@ title: Quantum gravity
 
 # [Quantum gravity](https://en.wikipedia.org/wiki/Quantum_gravity)
 
-[Dirac's Way to Quantum Gravity](https://www.youtube.com/watch?v=cwUFUr24R-k) is great explanation.
+[Dirac's Way to Quantum Gravity](https://www.youtube.com/watch?v=cwUFUr24R-k) & [Lectures on the string landscape and the Swampland](https://arxiv.org/abs/2212.06187) are great explanations.
 
 ## Links
 
@@ -20,3 +20,4 @@ title: Quantum gravity
 - [From maximum force to physics in 9 lines -- and implications for quantum gravity (2022)](https://arxiv.org/abs/2208.01038) ([HN](https://news.ycombinator.com/item?id=32367085))
 - [Physicists Create a Wormhole Using a Quantum Computer (2022)](https://www.quantamagazine.org/physicists-create-a-wormhole-using-a-quantum-computer-20221130/) ([Article](https://ai.googleblog.com/2022/11/making-traversable-wormhole-with.html))
 - [Dirac's Way to Quantum Gravity (2020)](https://www.youtube.com/watch?v=cwUFUr24R-k)
+- [Lectures on the string landscape and the Swampland (2022)](https://arxiv.org/abs/2212.06187) ([Tweet](https://twitter.com/mmanuF/status/1605556229736054784))

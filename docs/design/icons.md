@@ -151,3 +151,4 @@
 - [Circum Icons](https://github.com/Klarr-Agency/Circum-Icons) - Open source icon library following Google Material Design principles.
 - [Icon speedruns: Fountain pen and fingerprint (2022)](https://www.youtube.com/watch?v=GXh2tWvEK1Y)
 - [Atlas Icons](https://atlasicons.vectopus.com/) ([Code](https://github.com/Vectopus/Atlas-icons-font))
+- [Iconists](https://iconists.co/) ([Twitter](https://twitter.com/iconists))
