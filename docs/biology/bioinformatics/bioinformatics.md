@@ -265,3 +265,5 @@ title: Bioinformatics
 - [AlphaFold 2 & Equivariance (2020)](https://dauparas.github.io/post/af2/)
 - [Vascularization, Survival, and Functionality of Tissue-Engineered Constructs](https://www.sciencedirect.com/science/article/pii/B9780124201453000146)
 - [OpenBioLink](https://github.com/OpenBioLink/OpenBioLink) - Resource and evaluation framework for evaluating link prediction models on heterogeneous biomedical graph data.
+- [Bitesize Bio](https://bitesizebio.com/) - Biotech how-tos.
+- [Fierce Biotech](https://www.fiercebiotech.com/) - Biotech industry news.

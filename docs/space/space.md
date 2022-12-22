@@ -186,3 +186,4 @@
 - [NASA’s Webb takes star-filled portrait of Pillars of Creation (2022)](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-takes-star-filled-portrait-of-pillars-of-creation) ([HN](https://news.ycombinator.com/item?id=33265949))
 - [Grabby Aliens: A Resolution to the Fermi Paradox](https://grabbyaliens.com/) ([HN](https://news.ycombinator.com/item?id=33402628))
 - [100 Gbps achieved from space to Earth (2022)](https://news.mit.edu/2022/communications-system-achieves-fastest-laser-link-space-yet-1130) ([HN](https://news.ycombinator.com/item?id=33898075))
+- [How “See a Satellite Tonight” Works (2022)](https://james.darpinian.com/blog/how-see-a-satellite-tonight-works) ([HN](https://news.ycombinator.com/item?id=34086421))

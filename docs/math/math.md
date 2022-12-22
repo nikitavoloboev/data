@@ -423,3 +423,4 @@
 - [I quiz ChatGPT about math (2022)](https://billwadge.com/2022/12/15/just-how-smart-are-you-chatgpt-i-quiz-chatgpt-about-math/) ([HN](https://news.ycombinator.com/item?id=34007544))
 - [Math problem generator](https://github.com/lukew3/mathgenerator) ([HN](https://news.ycombinator.com/item?id=34047076))
 - [A non-constructive proof of the Four Color Theorem (2022)](https://arxiv.org/abs/2212.09835) ([HN](https://news.ycombinator.com/item?id=34082022))
+- [Concrete Mathematics, 2nd Edition](https://www.csie.ntu.edu.tw/%7Er97002/temp/Concrete%20Mathematics%202e.pdf)

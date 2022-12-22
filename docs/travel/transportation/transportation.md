@@ -71,3 +71,4 @@ I wish there were more electric superchargers in EU. Tesla cars seem nice too. C
 - [Why do new cars look like this? (2022)](https://www.blackbirdspyplane.com/p/why-do-new-cars-look-like-this)
 - [The Tesla Semi cab from the practical POV of someone who drives trucks (2022)](https://twitter.com/torynski/status/1600968583055826944) ([HN](https://news.ycombinator.com/item?id=33926564))
 - [Extensive Porsche Taycan Turbo Review (2021)](https://www.reddit.com/r/cars/comments/rmbhqh/my_extensive_porsche_taycan_turbo_review/)
+- [Automotive News](https://www.autonews.com/)

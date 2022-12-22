@@ -2,7 +2,7 @@
 
 Have a greenhouse in which I grow some vegetables and [mushrooms](mushrooms.md). Still learning how it all works.
 
-[Handbook of Plant Nutrition](http://libgen.rs/book/index.php?md5=0DE03F3742244A0FCFFD21A3C33FE812) is nice read.
+[Handbook of Plant Nutrition](http://libgen.rs/book/index.php?md5=0DE03F3742244A0FCFFD21A3C33FE812) & [How Many Plants](https://howmanyplants.com/) are nice reads.
 
 ## Links
 
