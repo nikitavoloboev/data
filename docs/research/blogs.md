@@ -256,6 +256,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Denny Britz](https://dennybritz.com/)
 - [Darius Kazemi](https://tinysubversions.com/notes/)
 - [Nikita Popov](https://www.npopov.com/)
+- [Kaarel Moppel](https://kmoppel.github.io/)
 
 ## Notes
 

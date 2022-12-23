@@ -630,3 +630,6 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [12 Days of PostgreSQL Tools and Projects (2022)](https://www.timescale.com/blog/12-days-of-postgresql-tools-and-projects/)
 - [Aggregating data for analytics using PostgreSQL, ruby and sequel (2022)](https://honeyryderchuck.gitlab.io/2022/12/19/aggregating-data-for-analytics-using-postgresql-ruby-and-sequel.html)
 - [Postgres Browser Proxy](https://github.com/yandeu/postgres-browser-proxy) - Query your Postgres Database directly from the Browser.
+- [Generating lots of test data with Postgres, fast and faster (2022)](https://kmoppel.github.io/2022-12-23-generating-lots-of-test-data-with-postgres-fast-and-faster/)
+- [The bountiful world of Postgres indexing options (2022)](https://kmoppel.github.io/2022-12-09-the-bountiful-world-of-postgres-indexing-options/)
+- [Postgres v15 - a billion transactions later (2022)](https://kmoppel.github.io/2022-11-09-postgres-v15-a-billion-transactions-later/)
