@@ -381,6 +381,7 @@
 - [mysql_async](https://github.com/blackbeam/mysql_async) - Asyncronous Rust Mysql driver based on Tokio.
 - [concurrent-map](https://github.com/komora-io/concurrent-map) - Lock-free linearizable map.
 - [odht](https://github.com/rust-lang/odht) - Hash tables that can be mapped from disk into memory without the need for up-front decoding.
+- [schnellru](https://github.com/koute/schnellru) - Fast and flexible LRU map.
 
 ## Video
 
@@ -2411,6 +2412,8 @@
 - [serde_closure](https://github.com/alecmocatta/serde_closure) - Serializable closures for Rust.
 - [Prse](https://github.com/miam-miam100/prse) - Tiny string parsing utility.
 - [mirror-mirror](https://github.com/EmbarkStudios/mirror-mirror) - Powerful reflection library for Rust.
+- [PriorityQueue](https://github.com/garro95/priority-queue) - Priority queue for Rust with efficient change function.
+- [desim](https://github.com/garro95/desim) - Discrete-time events simulation framework, written in rust, using the generator experimental feature.
 
 ## Cargo Plugins
 

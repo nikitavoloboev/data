@@ -4,6 +4,8 @@ title: Assembly
 
 # [Assembly](http://en.wikipedia.org/wiki/Assembly_language)
 
+[Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm_book) is nice.
+
 ## Links
 
 - [Assembly Language for Beginners](https://yurichev.com/writings/AL4B-EN.pdf)
@@ -109,3 +111,4 @@ title: Assembly
 - [Undefined Isn’t Unpredictable (2022)](http://www.os2museum.com/wp/undefined-isnt-unpredictable/)
 - [Inverting a binary tree using x64 assembly (2022)](https://sanket.tech/posts/invert_binary_tree_assembly/) ([HN](https://news.ycombinator.com/item?id=33732071))
 - [asmcfg](https://github.com/badlogic/asmcfg) - Assembly control flow graph/basic block visualizer for the web.
+- [Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm_book)

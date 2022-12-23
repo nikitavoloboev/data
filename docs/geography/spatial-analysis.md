@@ -288,3 +288,4 @@ title: Spatial analysis
 - [Location History Format](https://github.com/CarlosBergillos/LocationHistoryFormat) - Collaborative format definition and documentation for Google Location History files.
 - [Mapbox GL Directions](https://github.com/mapbox/mapbox-gl-directions) - Directions plugin for mapbox-gl-js using Mapbox Directions API.
 - [gpq](https://github.com/tschaub/gpq) - Utility for working with GeoParquet.
+- [Visualize Cloud Optimized GeoTIFF in browser](https://github.com/developmentseed/rio-viz)

@@ -550,3 +550,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Allowing parallel iOS UI tests runs in CI (2021)](https://blog.kulman.sk/parallel-ui-test-runs/)
 - [Context SDK](https://contextsdk.com/) - Upsell when the moment is right.
 - [Frida iOS hook](https://github.com/noobpk/frida-ios-hook) - Tool that helps you easy trace classes, functions, and modify the return values of methods on iOS platform.
+- [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (2022)](https://devos50.github.io/blog/2022/ipod-touch-qemu/)

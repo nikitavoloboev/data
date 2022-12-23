@@ -651,3 +651,4 @@ title: Linux
 - [A Linux Evening (2022)](https://fabiensanglard.net/a_linux_evening/index.html) ([HN](https://news.ycombinator.com/item?id=34013195))
 - [Elemental Toolkit](https://github.com/rancher/elemental-toolkit) - Toolkit to build, ship and maintain cloud-init driven Linux derivatives based on container images.
 - [Durdur](https://github.com/boratanrikulu/durdur) - CLI tool for Linux implementing L4 package dropping with eBPF/Go.
+- [ELF section retrieval with debuginfod (2022)](https://www.redhat.com/en/blog/elf-section-retrieval-debuginfod)

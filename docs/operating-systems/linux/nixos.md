@@ -278,3 +278,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Nix App Image](https://github.com/ralismark/nix-appimage) - Convert a NixOS derivation into a self-contained binary.
 - [organixm](https://github.com/andrewbaxter/organixm) - Framework for self-updating read-only NixOS systems.
 - [nix-dabei](https://github.com/dep-sys/nix-dabei) - Operating system generator based on NixOS.
+- [srvos](https://github.com/numtide/srvos) - Opinionated and sharable set of NixOS configurations.

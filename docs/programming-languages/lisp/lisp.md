@@ -227,3 +227,4 @@
 - [Conceptual Introduction to Spritely Goblins (2022)](https://garbados.github.io/my-blog/conceptual-intro-to-spritely-goblins.html)
 - [Kilo LISP](http://t3x.org/klisp/index.html) - Kilo Byte-Sized Lisp System. ([HN](https://news.ycombinator.com/item?id=34011770))
 - [Open Closures: Disclosing lambda’s inner monomaniac object](https://www.iro.umontreal.ca/~monnier/oclosure.pdf)
+- [Minimal GIF decoder in LISP (2022)](http://www.lispology.com/show?47N8)

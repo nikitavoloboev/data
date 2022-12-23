@@ -418,3 +418,5 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [AWS Step Functions examples](https://github.com/aws-samples/aws-stepfunctions-examples)
 - [eks-node-viewer](https://github.com/awslabs/eks-node-viewer) - Tool for visualizing dynamic node usage within a cluster.
 - [IAM Legend](https://github.com/TastefulElk/iam-legend) - AWS IAM actions autocomplete, documentation and wildcard resolution for Visual Studio Code.
+- [AWS-C-IO](https://github.com/awslabs/aws-c-io) - Module for the AWS SDK for C. It handles all IO and TLS work for application protocols.
+- [Lambda, Rust, and CDK](https://github.com/danilop/lambda-rust-and-cdk)

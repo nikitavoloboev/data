@@ -12,6 +12,8 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 
 [Go SQLite database/sql tutorial](https://earthly.dev/blog/golang-sqlite/) is nice. [SQLite Internals](https://www.compileralchemy.com/books/sqlite-internals/) is great read.
 
+[Marmot](https://github.com/maxpert/marmot) is a nice distributed SQLite replicator.
+
 ## Notes
 
 - [SQLite can import CSV data directly. Start sqlite, then: .mode csv .import some_data_file.csv your_table_name](https://lobste.rs/s/nydkgn/how_hot_does_it_get_inside_car_during_heat#c_0kknsc)

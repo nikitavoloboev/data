@@ -181,3 +181,4 @@ title: Tailwind CSS
 - [Tailwind is a Leaky Abstraction (2022)](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
 - [Easy Tailwind](https://github.com/Noriller/easy-tailwind) - Easier way of writing Tailwind classes.
 - [Tailwind Current Hue Plugin](https://github.com/AndrewIngram/tailwind-current-hue)
+- [RippleUI](https://www.ripple-ui.com/) - TailwindCSS Components. ([Code](https://github.com/Siumauricio/rippleui))

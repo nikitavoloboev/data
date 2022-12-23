@@ -94,3 +94,4 @@ Still exploring different kinds of clothing styles. I currently mostly use [Bjö
 - [Benetton](https://benetton.com/) - Italian clothes brand.
 - [End Clothing](https://www.endclothing.com/)
 - [Reformation](https://www.thereformation.com/) - Sustainable Women's Clothing and Accessories.
+- [NOBconcept](https://nobconcept.com/en/) - Online & Designer shopping.

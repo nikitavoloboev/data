@@ -928,3 +928,4 @@ if *boolArgPtr != false {
 - [Faster Go code by being mindful of memory (2022)](https://f4t.dev/software/go-performance-memory/) ([Lobsters](https://lobste.rs/s/onnjzg/faster_go_code_by_being_mindful_memory))
 - [Hacking Go's Runtime with Generics (2022)](https://www.dolthub.com/blog/2022-12-19-maphash/) ([HN](https://news.ycombinator.com/item?id=34068129))
 - [Guide to Go profiling, tracing and observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
+- [Domain-Driven Design with Go (2022)](https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450) ([Code](https://github.com/PacktPublishing/Domain-Driven-Design-with-GoLang))
