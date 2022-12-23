@@ -731,3 +731,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Cheaper Gumroad alternatives that handle European VAT for you (2022)](https://nts.strzibny.name/gumroad-alternatives-eu-uk-vat/)
 - [Sales and marketing SaaS platforms (2022)](https://brainfisheatfishbrain.com/post/sales-and-marketing-saas/)
 - [Awesome Demoscene](https://github.com/psykon/awesome-demoscene)
+- [Prediction Market FAQ (2022)](https://astralcodexten.substack.com/p/prediction-market-faq)
+- [State of the Sanderson 2022](https://www.brandonsanderson.com/state-of-the-sanderson-2022/) ([HN](https://news.ycombinator.com/item?id=34104204))

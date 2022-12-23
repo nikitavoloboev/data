@@ -76,3 +76,4 @@
 - [Hash-based digital signatures (almost) from scratch (2022)](https://medium.com/@georgwiese/hash-based-digital-signatures-almost-from-scratch-da57e54dd774)
 - [Hashing Apples, Bananas and Cherries (2022)](https://crypto.junod.info/posts/recursive-hash/)
 - [Homomorphic hashing for secure update propagation (2019)](https://engineering.fb.com/2019/03/01/security/homomorphic-hashing/)
+- [Introduction to Locality-Sensitive Hashing (2018)](https://tylerneylon.com/a/lsh1/) ([HN](https://news.ycombinator.com/item?id=34102868))

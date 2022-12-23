@@ -221,3 +221,4 @@
 - [Lighthouse](https://github.com/harbor-school/lighthouse) - Continuous design system for integrating design with development workflows.
 - [Building conscious design systems (2022)](https://amyhupe.co.uk/articles/building-conscious-design-systems/)
 - [Tips for naming design system things](https://twitter.com/danmall/status/1603815850133291013)
+- [Me in front of the Design System counsel, humbly looking for acceptance of the new border radius](https://twitter.com/hejhej_jay/status/1572522814007287812)

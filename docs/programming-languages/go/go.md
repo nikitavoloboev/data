@@ -929,3 +929,4 @@ if *boolArgPtr != false {
 - [Hacking Go's Runtime with Generics (2022)](https://www.dolthub.com/blog/2022-12-19-maphash/) ([HN](https://news.ycombinator.com/item?id=34068129))
 - [Guide to Go profiling, tracing and observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
 - [Domain-Driven Design with Go (2022)](https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450) ([Code](https://github.com/PacktPublishing/Domain-Driven-Design-with-GoLang))
+- [Go is modern PHP (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/zta49c/go_is_modern_php/)

@@ -22,6 +22,7 @@ I try to avoid pointless politics as much as possible but do like [John Mearshei
 - [Majority of our food in the US is terrible for you](https://twitter.com/Austen/status/1566172574236565504)
 - With [EB-5 visa](https://www.uscis.gov/working-in-the-united-states/permanent-workers/eb-5-immigrant-investor-program), I can either do either [passive or active investment](https://www.youtube.com/watch?v=orVtSuGpuu8). Active is ~ 1 million US dollars invested in my own startup in US with promise of creating 10 jobs within 2 years after approval of green card.
 - [San Francisco, Oakland, Santa Cruz, Monterey, Bodega Bay are nice US visits](https://twitter.com/isosteph/status/1596920968387399681)
+- [The way to solve a labour shortage is to let wages rise until they reach a level where people feel like having children is something which causes them no problems. Trying to 'solve' this with immigration is a terrible idea which has led to enormous problems, for example, here in Sweden. Immigration will furthermore increase the labour supply and thus drive down real wages. We've seen time and time again that reductions in labour supply lead to greatly increased real wages, even after very destructive events such as wars and the great plagues, and that an increase in labour supply greatly reduces wages, even when the increases were permitted by large-scale technical innovation and industrial transformation, such as at the opening of the California railroad.](https://www.reddit.com/r/Economics/comments/ztbw5c/america_needs_immigrants_to_solve_its_labor/)
 
 ## Links
 

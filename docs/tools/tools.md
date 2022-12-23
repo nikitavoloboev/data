@@ -800,3 +800,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [simpler](https://simplerlist.com/) - AI productivity assistant.
 - [Ask HN: Programs that saved you 100 hours? (2022)](https://news.ycombinator.com/item?id=34069106)
 - [Easy to learn NoCode tool for beginners (2022)](https://twitter.com/LuissMears/status/1604854202873815040)
+- [NotifyLog](https://notifylog.com/) - One stop tool for events tracking and analytics.
