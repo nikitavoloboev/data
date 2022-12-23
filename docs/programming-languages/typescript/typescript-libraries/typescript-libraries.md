@@ -719,6 +719,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Zod Validation Error](https://github.com/causaly/zod-validation-error) - Wrap zod validation errors in user-friendly readable messages.
 - [Data-Forge](https://github.com/data-forge/data-forge-ts) - JavaScript data transformation and analysis toolkit inspired by Pandas and LINQ.
 - [Vercel Edge Config](https://github.com/vercel/edge-config) - Ultra-low latency data at the edge.
+- [range_reconcile](https://github.com/earthstar-project/range-reconcile) - Efficiently sync sets with range-based set reconciliation.
 
 ## Links
 

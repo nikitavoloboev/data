@@ -24,6 +24,7 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Spotify Currently Playing Cloudflare Worker](https://github.com/djedlajn/spotify-worker)
 - [OCI Registry on Cloudflare Workers](https://github.com/chainguard-dev/crow-registry)
 - [FlareDrive](https://github.com/longern/FlareDrive) - CloudFlare R2 storage manager with Pages and Workers.
+- [Cloudflare Worker Deadman Switch](https://github.com/dep-sys/cloudflare-worker-deadman-switch) - Sends a notification if your monitor didn't send a HTTP ping for a while.
 
 ## Notes
 

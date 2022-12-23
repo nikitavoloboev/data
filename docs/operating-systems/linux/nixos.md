@@ -277,3 +277,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [How can I boot NixOS? Let me count the ways (2022)](https://linus.schreibt.jetzt/posts/booting-nixos.html)
 - [Nix App Image](https://github.com/ralismark/nix-appimage) - Convert a NixOS derivation into a self-contained binary.
 - [organixm](https://github.com/andrewbaxter/organixm) - Framework for self-updating read-only NixOS systems.
+- [nix-dabei](https://github.com/dep-sys/nix-dabei) - Operating system generator based on NixOS.
