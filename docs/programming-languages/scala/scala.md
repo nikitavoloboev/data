@@ -185,3 +185,4 @@ title: Scala
 - [Scala with batteries included - Krzysztof Romanowski (2022)](https://www.youtube.com/watch?v=uS0BW3iuPFg)
 - [Boost your productivity with Scala tooling! - Meriam Lachkar (2022)](https://www.youtube.com/watch?v=lSmm4YZ2wL0)
 - [Property-Based Testing: Let Your Testing Library Work for You - Magda Stożek (2021)](https://www.youtube.com/watch?v=pO4_3kg1wMw)
+- [Best books to learn Scala as a functional programmer (2022)](https://www.reddit.com/r/scala/comments/zsucun/best_book_to_learn_scala_as_a_functional/)

@@ -69,3 +69,4 @@
 - [Desk](https://github.com/Hihaheho/Desk) - Application platform for your cyberpunk desk.
 - [Nutshell](https://github.com/ncase/nutshell) - Make expandable explanations. ([Web](https://ncase.me/nutshell/))
 - [Weathering Software Winter (2022)](https://www.youtube.com/watch?v=9TJuOwy4aGA)
+- [A personal history of visual programming environments (2021)](https://nickarner.com/notes/a-personal-history-of-visual-programming-enviornments-november-13-2021/) ([HN](https://news.ycombinator.com/item?id=34094223))

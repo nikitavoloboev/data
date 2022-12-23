@@ -9,3 +9,4 @@
 - [How to install MySQL on macOS](https://flaviocopes.com/mysql-how-to-install/)
 - [Working with JSON columns in MySQL](https://twitter.com/aarondfrancis/status/1600568712205041664)
 - [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
+- [msql-srv-rs](https://github.com/jonhoo/msql-srv) - Bindings for writing a server that can act as MySQL/MariaDB. ([Article](https://ochagavia.nl/blog/implementing-the-mysql-server-protocol-for-fun-and-profit/))

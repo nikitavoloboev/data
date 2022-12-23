@@ -132,4 +132,4 @@
 - [Parsing Programming Languages with FParsec (2020)](https://rosalogia.me/posts/functional-parsing/)
 - [What are the advantages of pratt parsing over recursive descent parsing? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/zfnb1s/what_are_the_advantages_of_pratt_parsing_over/)
 - [Case study of building parser combinators](https://creativescala.github.io/case-study-parser/) ([Code](https://github.com/creativescala/case-study-parser))
-- [LL(1) Parser Visualization](https://www.cs.princeton.edu/courses/archive/spring20/cos320/LL1/)
+- [LL(1) Parser Visualization](https://www.cs.princeton.edu/courses/archive/spring20/cos320/LL1/) ([HN](https://news.ycombinator.com/item?id=34092352))

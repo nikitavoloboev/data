@@ -74,3 +74,6 @@ Also [Biomaterials: The Intersection of Biology and Materials Science](https://w
 - [Improved cell adhesion and proliferation on synthetic phosphonic acid-containing hydrogels (2005)](https://pubmed.ncbi.nlm.nih.gov/15621257/)
 - [Cell Adhesion - Annotated](https://cdn.discordapp.com/attachments/737747374008565803/1031472796204793896/Saltzman_-_2004_-_Cell_Adhesion-annotated.pdf)
 - [Printing a human kidney | Anthony Atala](https://www.youtube.com/watch?v=9RMx31GnNXY)
+- [Fibroblast inflammatory priming determines regenerative versus fibrotic skin repair in reindeer (2022)](<https://www.cell.com/cell/fulltext/S0092-8674(22)01414-3>) ([Article](https://ucalgary.ca/news/vet-med-scholars-publish-groundbreaking-research-skin-regeneration))
+- [New Research Challenges Long-Held Beliefs About Limb Regeneration (2022)](https://today.tamu.edu/2022/07/05/new-research-challenges-long-held-beliefs-about-limb-regeneration/)
+- [Wake Forest Institute for Regenerative Medicine](https://school.wakehealth.edu/research/institutes-and-centers/wake-forest-institute-for-regenerative-medicine)
