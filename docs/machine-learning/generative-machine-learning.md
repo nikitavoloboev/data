@@ -274,3 +274,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [ChatGPT CLI](https://github.com/mattn/chatgpt)
 - [Point-E: A System for Generating 3D Point Clouds from Complex Prompts (2022)](https://arxiv.org/abs/2212.08751) ([Code](https://github.com/openai/point-e))
 - [Go GPT3](https://github.com/PullRequestInc/go-gpt3) - OpenAI GPT-3 API client enabling Go programs to interact with the GPT3 APIs.
+- [DreamBooth](https://github.com/replicate/dreambooth) - Cog model that takes training images as input and generates custom Stable Diffusion model weights as output.

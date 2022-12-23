@@ -489,3 +489,5 @@ title: PyTorch
 - [PiPPy](https://github.com/pytorch/tau) - Pipeline Parallelism for PyTorch.
 - [Forward Forward algorithm (by Geoffrey Hinton) implemented with PyTorch](https://github.com/madcato/forward-forward-pytorch)
 - [TencentPretrain: Tencent Pre-training Framework](https://github.com/Tencent/TencentPretrain)
+- [Zuko](https://github.com/francois-rozet/zuko) - Normalizing flows in PyTorch.
+- [PIQA](https://github.com/francois-rozet/piqa) - PyTorch Image Quality Assessment.

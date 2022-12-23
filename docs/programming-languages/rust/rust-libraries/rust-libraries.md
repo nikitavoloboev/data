@@ -2410,6 +2410,7 @@
 - [structre](https://github.com/andrewbaxter/structre) - Statically-checked regex parsing into structs.
 - [serde_closure](https://github.com/alecmocatta/serde_closure) - Serializable closures for Rust.
 - [Prse](https://github.com/miam-miam100/prse) - Tiny string parsing utility.
+- [mirror-mirror](https://github.com/EmbarkStudios/mirror-mirror) - Powerful reflection library for Rust.
 
 ## Cargo Plugins
 
