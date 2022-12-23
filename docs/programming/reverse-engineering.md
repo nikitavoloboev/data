@@ -126,3 +126,4 @@
 - [Artfuscator](https://github.com/JuliaPoo/Artfuscator) - C compiler targeting an artistically pleasing nightmare for reverse engineers.
 - [MTKClient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool.
 - [Polar](https://github.com/ant4g0nist/polar) - LLDB plugin which queries OpenAI's davinci-003 language model to explain the disassembly.
+- [Reverse Engineering Tiktok's VM Obfuscation (2022)](https://nullpt.rs/reverse-engineering-tiktok-vm-1)

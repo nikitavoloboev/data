@@ -388,3 +388,4 @@
 - [Accelerating Network Functions using Reconfigurable Hardware (2022)](https://tuprints.ulb.tu-darmstadt.de/22023/3/2022-09-07_Kundel_Ralf.pdf)
 - [Making Ethernet transceiver from logic gates (2022)](https://imihajlov.tk/blog/posts/eth-to-spi/) ([HN](https://news.ycombinator.com/item?id=34035628))
 - [Veryl](https://github.com/dalance/veryl) - Modern Hardware Description Language.
+- [The Dawn and Dusk of Sun Microsystems (2022)](https://www.youtube.com/watch?v=P1TsVW4P5DI)

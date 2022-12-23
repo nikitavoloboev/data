@@ -104,3 +104,4 @@
 - [Crypto helper](https://crypto.qkation.com/) - Web app that can hash, encrypt, and sign the data on the client side. ([Code](https://github.com/TheBestTvarynka/crypto-helper))
 - [Password Generator for HashiCorp Vault](https://github.com/sethvargo/vault-secrets-gen)
 - [Portable Secret](https://github.com/mprimi/portable-secret) - How I store my secrets and communicate privately. ([Web](https://mprimi.github.io/portable-secret/)) ([HN](https://news.ycombinator.com/item?id=34083366))
+- [Fully-homomorphic encryption, zero-knowledge proofs, and multiparty computation (2022)](https://www.notamonadtutorial.com/fully-homomorphic-encryption-zero-knowledge-proofs-and-multiparty-computation/)
