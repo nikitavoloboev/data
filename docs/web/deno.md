@@ -14,6 +14,8 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 
 I dislike semicolons, so I use [dprint](https://dprint.dev/) to format TS/JS files as Deno doesn't support removing semicolons even as config setting.
 
+Share my Deno modules [here](https://github.com/nikitavoloboev/ts).
+
 ## OSS Deno apps
 
 - [Deno Chat](https://github.com/denoland/showcase_chat) - Minimal chat platform template. It uses Fresh + Supabase + twind + BroadcastChannel API on Deno Deploy.
