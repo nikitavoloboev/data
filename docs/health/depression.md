@@ -66,3 +66,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Ask HN: I'm in a rut. How did you get out of yours?](https://news.ycombinator.com/item?id=32226910)
 - [Study: Electroshock therapy more successful for depression than ketamine (2022)](https://today.uconn.edu/2022/10/electroshock-therapy-more-successful-for-depression-than-ketamine/) ([HN](https://news.ycombinator.com/item?id=33310076))
 - [Getting Out of a Rut (2022)](https://news.ycombinator.com/item?id=33297934)
+- [Depression (2022)](https://muan.co/posts/depression)

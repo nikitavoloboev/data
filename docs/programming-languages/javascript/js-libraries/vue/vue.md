@@ -228,3 +228,4 @@ title: Vue.js
 - [Nuxt.new](https://nuxt.new/) - Create a new Nuxt project from your address bar. ([Code](https://github.com/nuxt/nuxt.new))
 - [PrimeVUE](https://www.primefaces.org/primevue/) - Next Generation Vue UI Component Library. ([Code](https://github.com/primefaces/primevue))
 - [Vitest Environment Nuxt](https://github.com/danielroe/vitest-environment-nuxt) - Vitest environment for testing code that needs a Nuxt runtime environment.
+- [VueFire](https://github.com/vuejs/vuefire) - Firebase bindings for Vue.

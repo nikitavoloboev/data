@@ -128,3 +128,4 @@ title: Phoenix framework
 - [Submillisecond LiveView](https://github.com/lunatic-solutions/submillisecond-live-view) - LiveView implementation for the submillisecond web framework built with lunatic in Rust.
 - [LiveView Native Core](https://github.com/liveviewnative/liveview-native-core) - Provides core language-agnostic functionality for LiveView Native across platforms.
 - [Brief Introduction to Phoenix and LiveView (2022)](https://danieljaouendevelopment.com/2022/12/18/a-brief-introduction-to-phoenix-and-liveview-part-1/)
+- [Meta programmable functional notebooks with Livebook - José Valim (2022)](https://www.youtube.com/watch?v=EhSNXWkji6o)

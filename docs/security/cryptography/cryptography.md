@@ -1,5 +1,7 @@
 # Cryptography
 
+[Learning Cryptography in Public](https://github.com/ncitron/badcrypto) is nice.
+
 ## Notes
 
 - [The megatrend in cryptography of the 2010s was elliptic curves, pairings and general purpose ZKPs/SNARKs. The megatrend of the 2020s will be (in addition to broad adoption of the above) lattices, LWE, multilinear maps, homomorphic encryption, MPC and obfuscation.](https://twitter.com/VitalikButerin/status/1248704356758753281)
@@ -197,3 +199,4 @@
 - [SINE Foundation](https://sine.foundation/) ([GitHub](https://github.com/sine-fdn))
 - [End-to-end encrypted messages need more than libsignal (2022)](https://mjg59.dreamwidth.org/62598.html) ([HN](https://news.ycombinator.com/item?id=33929620))
 - [Generic Tagging for RISC-V Binaries (2022)](https://arxiv.org/abs/2212.05614)
+- [Learning Cryptography in Public](https://github.com/ncitron/badcrypto)

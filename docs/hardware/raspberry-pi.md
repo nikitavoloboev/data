@@ -139,3 +139,4 @@ title: Raspberry Pi
 - [picolua](https://github.com/kevinboone/luapico) - Programming environment for Lua for the Raspberry Pi Pico microcontroller.
 - [The Great Pi Zero Showdown (2022)](https://bret.dk/pi-zero-showdown/) ([HN](https://news.ycombinator.com/item?id=33862810))
 - [EsPiFF](https://github.com/MDCservice/EsPiFF) - ESP32 in the Raspberry Pi form factor. ([HN](https://news.ycombinator.com/item?id=34036011))
+- [Cats, Pi, and Machine Learning (2022)](https://blog.aawadia.dev/2022/12/20/cats-pi-and-machine-learning/)

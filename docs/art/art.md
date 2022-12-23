@@ -421,6 +421,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Om Malik](https://www.instagram.com/om/)
 - [Antonio Palmerini](https://www.artlimited.net/18637)
 - [Florian](https://www.instagram.com/analoguevibez/)
+- [Matteo Montanari](http://www.matteomontanari.co/) ([IG](https://www.instagram.com/matteomontanariphotography/?hl=en))
 - [Fritz Henle](https://www.holdenluntz.com/artists/fritz-henle/)
 - [Dima Ermuzevich](https://www.instagram.com/ermuzevichphoto/)
 - [Ivan Bideac](https://www.ivanbideac.com/)

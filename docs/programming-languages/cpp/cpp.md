@@ -400,3 +400,5 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Does it inline?](https://bolinlang.com/does-it-inline) ([HN](https://news.ycombinator.com/item?id=34033557))
 - [Object Introspection](https://github.com/facebookexperimental/object-introspection) - Enables on-demand, hierarchical profiling of objects in arbitrary C/C++ programs with no recompilation.
 - [Avoid exception throwing in performance-sensitive code (2022)](https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/) ([HN](https://news.ycombinator.com/item?id=34088370))
+- [Rust vs Common C++ Bugs (2022)](https://geo-ant.github.io/blog/2022/common-cpp-errors-vs-rust/)
+- [Compile-Time If-Expressions for Types in C++11 (2022)](https://geo-ant.github.io/blog/2022/compile-time-if-expressions-for-types-in-cpp/) ([Reddit](https://www.reddit.com/r/rust/comments/zt7lv1/can_rust_prevent_common_bugs_we_write_in_c/))

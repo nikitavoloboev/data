@@ -162,3 +162,4 @@ title: OCaml
 - [OCaml 5.0.0 (with multicore and effects) is out (2022)](https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974) ([HN](https://news.ycombinator.com/item?id=34014073)) ([HN](https://news.ycombinator.com/item?id=34013767)) ([Lobsters](https://lobste.rs/s/dpp19k/ocaml_5_0_0_with_multicore_effects_is_out))
 - [Experimenting with OCaml 5.0](https://github.com/yminsky/experiment-with-ocaml-5)
 - [What are the biggest reasons newcomers give up on OCaml?](https://discuss.ocaml.org/t/what-are-the-biggest-reasons-newcomers-give-up-on-ocaml/10958) ([Reddit](https://www.reddit.com/r/ocaml/comments/zqfoq5/what_are_the_biggest_reasons_newcomers_give_up_on/))
+- [OCaml on Microcontroller Boards](https://github.com/stevenvar/OMicroB) ([Lobsters](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could))

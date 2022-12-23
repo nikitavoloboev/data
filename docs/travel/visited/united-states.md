@@ -1,6 +1,6 @@
 # United States
 
-Would love to visit or maybe live in US one day but [they don't make it easy](https://www.youtube.com/watch?v=Uksw7zrFr4A) due to [odd political choices](https://twitter.com/Noahpinion/status/1520132242672029696).
+Would love to visit or maybe live in US one day but [they don't make it easy](https://www.youtube.com/watch?v=Uksw7zrFr4A) due to [odd political choices](https://twitter.com/Noahpinion/status/1520132242672029696). [Their loss](https://twitter.com/AlecStapp/status/1605722098239885312).
 
 Most great companies mostly hire in US only and there are just too many great people that operate solely from US. This is changing however as more companies embrace the benefits of whole company being [remote and async communication first](../../work/remote-work.md) so there are less and less reasons to actually immigrate to US if you have a passport that lets you stay there visa free for multiple months. You get all the benefits of meeting anyone you want within US, seeing places and everything but more importantly won't have the burden of having a US passport with which you will be [taxed globally no matter what country you stay in](https://www.youtube.com/watch?v=PSJEwxV2QQ8).
 

@@ -310,3 +310,4 @@ I also think solving [micro transactions](https://news.ycombinator.com/item?id=3
 - [Solana RPC Crash-course](https://twitter.com/heliuslabs/status/1593758795024449536)
 - [Openbook](https://github.com/openbook-dex/program) - Dex solana program.
 - [Solana Tools](https://github.com/cryptoloutre/solana-tools) - Bunch of tools to help people in the Solana ecosystem.
+- [Solana Pay Scaffold](https://github.com/solana-labs/solana-pay-scaffold) - Scaffolding for a dapp using Solana Pay.

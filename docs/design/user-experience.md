@@ -1,8 +1,10 @@
 # User Experience
 
-[Brian Lovin's design critiques](https://twitter.com/brian_lovin/status/1487903450528882690) are great. [Refactoring UI](https://www.refactoringui.com/) & [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/) are good reads.
+[Brian Lovin's design critiques](https://twitter.com/brian_lovin/status/1487903450528882690) are great. [Refactoring UI](https://www.refactoringui.com/), [Practical UI](https://www.practical-ui.com/) & [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/) are good reads.
 
 Love [command palettes](https://twitter.com/pacocoursey/status/1556635574051667969). [This](https://maggieappleton.com/command-bar) is nice overview of well designed search palettes. And [CMD+K](https://github.com/pacocoursey/cmdk) is nice library for making them.
+
+:f
 
 ## Notes
 
@@ -226,3 +228,4 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [I am Definitely Manipulated, Even When I am Aware of it. It s Ridiculous! -- Dark Patterns from the End-User Perspective (2021)](https://arxiv.org/abs/2104.12653)
 - [Is Dark Mode Good for Your Eyes? (2020)](https://kevquirk.com/is-dark-mode-such-a-good-idea/) ([HN](https://news.ycombinator.com/item?id=33947820))
 - [Can use live data on OpenGraph images](https://twitter.com/jullerino/status/1605204887847194625)
+- [Practical UI](https://www.practical-ui.com/) - UI design book. ([Tweet](https://twitter.com/FonsMans/status/1605955001037094912))

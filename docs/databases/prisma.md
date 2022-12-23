@@ -126,3 +126,4 @@ I prefer using [EdgeDB](edgedb.md) for all my DB needs, it has a [better way to 
 - [Prisma Exclude](https://github.com/ajmnz/prisma-exclude) - Exclude fields from your Prisma queries.
 - [Prisma Zod Generator](https://github.com/omar-dulaimi/prisma-zod-generator) - Automatically generate Zod schemas from your Prisma Schema, and use them to validate your API endpoints.
 - [How to Build a High-Performance App With Prisma and Replicache (2022)](https://blog.simplerlist.com/post/how-to-build-a-high-performance-app-with-prisma-and-replicache)
+- [The Ultimate Guide to Testing with Prisma: Mocking Prisma Client (2022)](https://www.prisma.io/blog/testing-series-1-8eRB5p0Y8o)
