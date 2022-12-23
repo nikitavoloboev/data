@@ -42,3 +42,4 @@
 - [Tigris](https://github.com/tigrisdata/tigris) - Modern, scalable backend for building real-time websites and apps. ([Web](https://www.tigrisdata.com/))
 - [The Dodgy State of Delivery Guarantees (2022)](https://www.youtube.com/watch?v=QmpBOCvY8mY) - Summarizing a decades worth of stream processing delivery guarantee misconceptions and bugs.
 - [Reducing Data Streaming cost by 90% using Benthos (2022)](https://medium.com/plarium-engineering/how-we-reduce-our-streaming-cost-by-90-using-benthos-fe04fcdffea7)
+- [Nussknacker](https://github.com/TouK/nussknacker) - Lets you design, deploy and monitor real time decision algorithms with easy to use GUI.

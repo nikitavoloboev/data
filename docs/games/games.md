@@ -397,3 +397,4 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Qwantify](https://github.com/wanjohiryan/qwantify) - Play games, with your friends right from the browser. No installation needed. ([Web](https://qwantify.vercel.app/))
 - [Going into 2023 as a Patient Gamer](https://www.reddit.com/r/patientgamers/comments/zppu40/going_into_2023_as_a_patient_gamer/)
 - [What part of modern game design do you feel has removed fun?](https://www.reddit.com/r/patientgamers/comments/zq7d6v/what_part_of_modern_game_design_do_you_feel_has/)
+- [Obscure Game Aesthetics](https://twitter.com/game_obscure)

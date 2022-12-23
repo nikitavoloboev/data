@@ -496,3 +496,4 @@ Awesome List
 - [GitHub Wiki SEE](https://github-wiki-see.page/) - 400,000+ Wikis, now indexable. ([Code](https://github.com/nelsonjchen/github-wiki-see-rs))
 - [Copilot-Explorer](https://github.com/thakkarparth007/copilot-explorer) - See what the Copilot extension sends to the server.
 - [GitHub Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html) ([HN](https://news.ycombinator.com/item?id=34032872))
+- [The Definitive Guide for Authenticating a GitHub App (2022)](https://blog.replay.io/the-definitive-guide-for-authenticating-a-github-app)

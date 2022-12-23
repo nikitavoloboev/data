@@ -630,3 +630,5 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Голод | Фильм](https://www.youtube.com/watch?v=rXi3kBXMWo8)
 - [Как Кремль воюет с плохими новостями (2022)](https://www.proekt.media/guide/kremlin-telegram-meduza/)
 - [Штабы Навального](https://shtab.navalny.com/)
+- [Ярмарка Мастеров](https://www.livemaster.ru/)
+- [Сибирская горница](http://gornitsa.ru/)

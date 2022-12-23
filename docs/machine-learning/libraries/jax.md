@@ -91,3 +91,4 @@ Learning to use [BlackJAX](https://github.com/blackjax-devs/blackjax) to do Baye
 - [Jax 0.4.0](https://twitter.com/cgarciae88/status/1601315046503567360)
 - [JAXGA](https://github.com/RobinKa/jaxga) - JAX Geometric Algebra. ([HN](https://news.ycombinator.com/item?id=33948008))
 - [PyTorch Lightning + Jax](https://github.com/ludwigwinkler/JaxLightning)
+- [Structural Time Series (STS) in JAX](https://github.com/probml/sts-jax)

@@ -2,6 +2,8 @@
 
 Amsterdam is my favorite city I've lived in thus far. I love how every city in NL is easily reachable by train and how cycling infrastructure is so well developed.
 
+Loved visiting [Maastricht](https://nl.wikipedia.org/wiki/Maastricht). It was unlike any other city in NL with its architecture.
+
 ## Notes
 
 - NS.nl [season tickets](https://www.ns.nl/en/season-tickets) are must have if you plan to travel more than a few times on the train in the month.
