@@ -2715,3 +2715,4 @@
 - [Rust: State of GUI, December 2022](https://kas-gui.github.io/blog/state-of-GUI-2022.html) ([HN](https://news.ycombinator.com/item?id=33979637))
 - [Native Reflection in Rust (2022)](https://jack.wrenn.fyi/blog/deflect/) ([HN](https://news.ycombinator.com/item?id=34001435))
 - [State of Rust for web backends (2022)](https://www.reddit.com/r/rust/comments/zqgo98/state_of_rust_for_web_backends/)
+- [Reindeer](https://github.com/facebookincubator/reindeer) - Tool which takes Rust Cargo dependencies and generates Buck build rules.
