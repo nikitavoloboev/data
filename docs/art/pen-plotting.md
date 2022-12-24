@@ -29,3 +29,4 @@
 - [BrachioGraph](https://www.brachiograph.art/index.html) - Cheapest, simplest possible pen-plotter. ([HN](https://news.ycombinator.com/item?id=31864209))
 - [3D Printable Pen Plotter Toolhead for the Creality Ender 3 3D Printer](https://github.com/AndrewSink/pltr_toolhead)
 - [Awesome Plotters](https://github.com/beardicus/awesome-plotters) - Curated list of code and resources for computer-controlled drawing machines and other visual art robots.
+- [Project: the Automatic #plotloop Machine (2022)](https://bylr.info/articles/2022/12/22/automatic-plotloop-machine/)
