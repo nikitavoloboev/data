@@ -4,6 +4,8 @@ title: Bioinformatics
 
 # [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics)
 
+[AlphaFold](https://github.com/deepmind/alphafold) is exciting.
+
 ## Links
 
 - [Rosalind](http://rosalind.info/problems/locations/) - Platform for learning bioinformatics and programming through problem solving.

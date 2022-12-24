@@ -462,3 +462,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nix.ug](http://nix.ug/) - Nix/NixOS User Group Directory. ([Code](https://github.com/nix-how/nix.ug))
 - [Devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments. ([Docs](https://www.jetpack.io/devbox/docs/)) ([0.2.0](https://www.jetpack.io/blog/devbox-0-2-0/)) ([HN](https://news.ycombinator.com/item?id=34073950))
 - [Nix on the Steam Deck (2022)](https://determinate.systems/posts/nix-on-the-steam-deck) ([HN](https://news.ycombinator.com/item?id=34102816))
+- [Generate Nix Flakes imperatively](https://github.com/DieracDelta/flake_generator)
