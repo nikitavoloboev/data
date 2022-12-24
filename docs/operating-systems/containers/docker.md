@@ -280,3 +280,4 @@ Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432
 - [Useful Docker commands cheat sheet](https://blog.devgenius.io/most-useful-docker-commands-cheat-sheet-f5115e10c047)
 - [Docker + WASM Docs](https://docs.docker.com/desktop/wasm/)
 - [ima.ge.cx](https://ima.ge.cx/) - Inspect the contents of Docker images. ([Code](https://github.com/aidansteele/ima.ge.cx))
+- [Docker on MacOS is slow and how to fix it (2022)](https://www.paolomainardi.com/posts/docker-performance-macos/) ([HN](https://news.ycombinator.com/item?id=34098367))

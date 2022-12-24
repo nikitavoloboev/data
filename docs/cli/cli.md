@@ -177,3 +177,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Copilot, for your terminal](https://github.com/m1guelpf/plz-cli) - CLI tool that generates shell scripts from a human readable description.
 - [How we improved productivity with an internal CLI (2022)](https://medium.com/qonto-way/how-we-improved-productivity-with-an-internal-cli-7466f3bf5fee)
 - [Awesome CLI](https://github.com/Kikobeats/awesome-cli) - Curated list of things related with Command Line Interfaces.
+- [DidYouMean](https://github.com/hisbaan/didyoumean) - CLI spelling corrector for when you're unsure.

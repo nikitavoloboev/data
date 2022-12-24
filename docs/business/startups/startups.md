@@ -410,6 +410,7 @@ Great [management](../../management/management.md) makes a huge difference wheth
 - [Startup Restructuring 101 (2022)](https://cyrilgrislain.substack.com/p/startup-restructuring-101) ([HN](https://news.ycombinator.com/item?id=33758849))
 - [The Marketplace Library (2021)](https://alexfmac.substack.com/p/the-marketplace-library-)
 - [Europe's Youngest Billionaire (2022)](https://www.youtube.com/watch?v=FCP_KbpA3jI)
+- [Startup Lessons from 2 Years Building Airplane.dev (2022)](https://www.airplane.dev/blog/startup-lessons-from-2-years-building-airplane-dev)
 
 ## Images
 

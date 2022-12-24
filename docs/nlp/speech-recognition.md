@@ -160,3 +160,4 @@ title: Speech recognition
 - [Best way to transcribe audio snippets (2022)](https://entgo.io/docs/tutorial-todo-gql)
 - [Whisper's transcription plus Pyannote's Diarization](https://github.com/Majdoddin/nlp)
 - [WhisperX](https://github.com/m-bain/whisperX) - Timestamp-Accurate Automatic Speech Recognition.
+- [Speech-to-text with Whisper: How I Use It & Why (2022)](https://www.harihareswara.net/posts/2022/speech-to-text-with-whisper-how-i-use-it-why/)

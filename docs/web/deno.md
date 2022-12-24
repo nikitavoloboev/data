@@ -16,6 +16,8 @@ I dislike semicolons, so I use [dprint](https://dprint.dev/) to format TS/JS fil
 
 Share my Deno modules [here](https://github.com/nikitavoloboev/ts).
 
+[Fresh](https://fresh.deno.dev/) (together with [signals](https://github.com/lucacasonato/fresh-with-signals)) is great. Although I still prefer [Solid](../programming-languages/javascript/js-libraries/solid.md). I wish I can run [Solid Start](https://github.com/solidjs/solid-start) on Deno, deployed on [Deno Deploy](https://deno.com/).
+
 ## OSS Deno apps
 
 - [Deno Chat](https://github.com/denoland/showcase_chat) - Minimal chat platform template. It uses Fresh + Supabase + twind + BroadcastChannel API on Deno Deploy.

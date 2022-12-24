@@ -2,7 +2,7 @@
 
 [IPX](https://github.com/unjs/ipx) is nice image proxy. [scikit-image](https://github.com/scikit-image/scikit-image) & [sharp](https://github.com/lovell/sharp) are nice libs for image processing.
 
-[imgproxy](https://imgproxy.net/) is great.
+[imgproxy](https://imgproxy.net/) is great. [Upscayl](https://github.com/upscayl/upscayl) is nice image upscaler.
 
 ## Links
 
