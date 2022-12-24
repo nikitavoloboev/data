@@ -22,7 +22,7 @@ Want to try [mescaline](https://www.reddit.com/r/mescaline/comments/uiz47o/wow/?
 
 I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=en&mt=8) iOS app to track all my doses. This helps me make sure I don't abuse any substance. Usually take 2+ month breaks in between.
 
-I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) one day.
+I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) one day. For now I only grow my own [mushrooms](../../other/mushrooms.md) & [cannabis](../cannabis.md). But want to try grow [Peyote](https://en.wikipedia.org/wiki/Peyote) & [Salvia](https://en.wikipedia.org/wiki/Salvia_divinorum) amongst few other things. Plants and [gardening](../../other/gardening.md) is a fun rabbit hole to study.
 
 Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md) taught me a lot about [life](../../life/life.md) and [death](../../life/death.md) and how to always find my [happiness](../../life/happiness.md) amidst all the universe's chaos.
 
