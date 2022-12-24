@@ -178,3 +178,4 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [what in your opinion is the most quotable movie? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/zqnu72/what_in_your_opinion_is_the_most_quotable_movie/)
 - [Lies of Heroism – Redefining the Anti-War Film (2020)](https://www.youtube.com/watch?v=yf0G2MPBEYM)
 - [What are some of the weirdest/ most fucked up films you’ve ever seen? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/zrt4jy/what_are_some_of_the_weirdest_most_fucked_up/)
+- [What movie has the biggest All star cast?](https://www.reddit.com/r/movies/comments/ztwxlq/what_movie_has_the_biggest_allstar_cast/)

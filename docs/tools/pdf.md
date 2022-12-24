@@ -1,5 +1,7 @@
 # PDF
 
+[pdfcpu](https://github.com/pdfcpu/pdfcpu) is great Go lib to parse PDFs.
+
 ## Notes
 
 - [If you can't copy text in PDF, it's locked. Can open it in Chrome > Print > Save. Can then copy text freely.](https://superuser.com/questions/47462/cant-copy-text-from-a-pdf-file)
@@ -86,3 +88,4 @@
 - [PDF storage with global search](https://github.com/ire4ever1190/tsuil)
 - [Hammer PDF](https://pdf.hammerscholar.net/) - Smart Scientific Reader. ([Code](https://github.com/HammerPDF/Smart-Scientific-Reader))
 - [Open PDF Sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your command line. ([HN](https://news.ycombinator.com/item?id=34051652))
+- [pdfcpu](https://github.com/pdfcpu/pdfcpu) - PDF processor written in Go. ([HN](https://news.ycombinator.com/item?id=34104946))

@@ -60,3 +60,4 @@ Many people still have bad stigma attached of people sharing nudes in public but
 - [Гайд по созданию мужских нюдсов “Как не фоткать пенис?”](https://telegra.ph/Gajd-po-sozdaniyu-muzhskih-nyudsov-Kak-ne-fotkat-penis-04-25)
 - [Nausicaa Yami by Cacique — RektMag](https://www.rektmag.net/home/2022/8/26/the-eyes-chico-they-never-lie)
 - [NSFW posts from Twitter](https://topicc.netlify.app/)
+- [Референсы для секси-фоточек если ты мужчина](https://twitter.com/rusyasurkova/status/1606615401127096321)

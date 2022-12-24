@@ -257,6 +257,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Darius Kazemi](https://tinysubversions.com/notes/)
 - [Nikita Popov](https://www.npopov.com/)
 - [Kaarel Moppel](https://kmoppel.github.io/)
+- [Rachel by the Bay](https://rachelbythebay.com/w/)
 
 ## Notes
 

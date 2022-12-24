@@ -741,3 +741,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Compress-fastText](https://github.com/avidale/compress-fasttext) - Python 3 package allows to compress fastText word embedding models.
 - [Large Language Models are Zero-Shot Reasoners (2022)](https://arxiv.org/abs/2205.11916)
 - [MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning (2022)](https://arxiv.org/abs/2212.10773)
+- [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models (2022)](https://arxiv.org/abs/2211.10438) ([Code](https://github.com/mit-han-lab/smoothquant))

@@ -166,6 +166,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [zkp-ecdsa](https://github.com/cloudflare/zkp-ecdsa) - Proves knowledge of an ECDSA-P256 signature under one of many public keys that are stored in a list.
 - [hpke-js](https://github.com/dajiaji/hpke-js) - Hybrid Public Key Encryption (HPKE) module built on top of Web Cryptography API.
 - [iron-webcrypto](https://github.com/brc-dd/iron-webcrypto) - Encapsulated tokens (encrypted and mac'ed objects).
+- [noble-curves](https://github.com/paulmillr/noble-curves) - Minimal, zero-dependency JS implementation of elliptic curve cryptography.
 
 ## Error
 
