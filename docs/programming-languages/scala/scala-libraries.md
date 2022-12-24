@@ -217,6 +217,9 @@
 - [avocADO](https://github.com/VirtusLab/avocADO) - Safe compile-time parallelization of for-comprehensions for Scala 3.
 - [Kyo](https://github.com/fwbrasil/kyo) - High-performance composable effects for Scala 3.
 - [ZIO direct](https://github.com/zio/zio-direct) - Direct-Style Programming for ZIO.
+- [Poppet](https://github.com/yakivy/poppet) - Minimal, type-safe RPC Scala library.
+- [Dupin](https://github.com/yakivy/dupin) - Minimal, idiomatic, customizable validation Scala library.
+- [Jam](https://github.com/yakivy/jam) - Incredibly simple DI Scala library.
 
 ## Links
 

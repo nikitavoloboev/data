@@ -1051,3 +1051,4 @@
 - [Great Computer Vision startups (2022)](https://twitter.com/ai__pub/status/1604251023182163968)
 - [CoVA: Context-aware Visual Attention for Webpage Information Extraction (2022)](https://github.com/kevalmorabia97/CoVA-Web-Object-Detection)
 - [Awesome 3D Object Detection](https://github.com/TianhaoFu/Awesome-3D-Object-Detection)
+- [ProposalContrast: Unsupervised Pre-training for LiDAR-based 3D Object Detection (2022)](https://arxiv.org/abs/2207.12654) ([Code](https://github.com/yinjunbo/ProposalContrast))

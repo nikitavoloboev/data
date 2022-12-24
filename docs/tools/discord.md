@@ -209,3 +209,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Ben Awad Discord](https://discord.com/invite/Vehs99V)
 - [DiscordDb](https://github.com/ConnorRigby/discord_archive_bot) - Consumes messages from the Discord API and stores them in a simple SQLite database.
 - [WidgetBot](https://widgetbot.io/) - Pixel perfect Discord widgets for your website. ([Code](https://github.com/widgetbot-io/embed))
+- [Sign into Discord on Cloudflare Access, powered by Cloudflare Workers](https://github.com/Erisa/discord-oidc-worker)
