@@ -220,3 +220,4 @@
 - [A collection of Soviet control rooms (2017)](http://blog.presentandcorrect.com/27986-2) ([HN](https://news.ycombinator.com/item?id=34069213))
 - [Why Hitler declared War on the USA](https://www.youtube.com/watch?v=y6ndO6_BOK4)
 - [A 1960s Children’s Book about Computers (2022)](https://www.pagetable.com/?p=1709)
+- [WWII Pictures](https://twitter.com/WWIIpix)

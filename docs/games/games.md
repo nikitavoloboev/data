@@ -263,6 +263,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Инди Игр тред](https://twitter.com/mikhmat_/status/1597932127332749314)
 - [Best Open Word Game You Have Ever Experienced (2022)](https://www.reddit.com/r/patientgamers/comments/zqkmo9/best_open_word_game_you_have_ever_experienced/)
 - [What are your top 5 games of 2022 on PS5?](https://www.reddit.com/r/PS5/comments/zpt26u/what_are_your_top_5_games_of_2022/)
+- [What games are you playing over Xmas on PS5?](https://www.reddit.com/r/PS5/comments/zu78n4/what_games_are_you_playing_over_xmas/)
 
 ## Links
 

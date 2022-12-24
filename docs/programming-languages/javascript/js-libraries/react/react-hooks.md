@@ -327,3 +327,4 @@ useEffect(() => {
 - [Making React Context FAST (2022)](https://www.youtube.com/watch?v=ZKlXqrcBx88) ([Tweet](https://twitter.com/dai_shi/status/1583014180730175488))
 - [Timeline of a React Component With Hooks (2022)](https://julesblom.com/writing/react-hook-component-timeline) ([Tweet](https://twitter.com/Mega_Jules/status/1591466399536480259))
 - [Working with Zustand (2022)](https://tkdodo.eu/blog/working-with-zustand) ([Tweet](https://twitter.com/TkDodo/status/1594358836147720197))
+- [When to use useStoreMap hook](https://twitter.com/_sergeysova/status/1606564476634939392)

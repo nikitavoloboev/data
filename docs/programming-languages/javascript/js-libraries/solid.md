@@ -38,6 +38,7 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [Components are rendered only once and are there pretty much to organize the code. The built-in components (Show, For) are awesome and should be used instead of following React-type patterns (multiple dynamic returns, map(), etc).](https://www.youtube.com/watch?v=Ilf34WjMBkU)
 - [createResource makes a signal out of a promise](https://discord.com/channels/722131463138705510/722131463889223772/1019343273254465566)
 - [Solid has builtin state management system with stores and context, so you don't need to install a third party state manager. Context is fine grained reactive on SolidJS, in React all the components are re-rendered on a provider update.](https://discord.com/channels/722131463138705510/722131463889223772/1037472137792991323)
+- [Solid will never "re-render" your component/function. With Solid you will never ever think about optimizing "re-renders" It will out of the box be fully optimized.](https://twitter.com/Axibord1/status/1606106151539687425)
 
 ## Links
 

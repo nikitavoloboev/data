@@ -167,3 +167,4 @@
 - [Massively increase your productivity on personal projects with comprehensive documentation and automated tests (2022)](https://simonwillison.net/2022/Nov/26/productivity/) ([Lobsters](https://lobste.rs/s/7fiajr/coping_strategies_for_serial_project))
 - [To TDD or not to TDD with Bill Kennedy & Chris James (2022)](https://changelog.com/gotime/258)
 - [Tracetest](https://github.com/kubeshop/tracetest) - OpenTelemetry based tool that helps you develop and test your distributed applications.
+- [Testing Without Mocks: A Pattern Language (2022)](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)

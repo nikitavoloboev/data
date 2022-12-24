@@ -463,3 +463,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments. ([Docs](https://www.jetpack.io/devbox/docs/)) ([0.2.0](https://www.jetpack.io/blog/devbox-0-2-0/)) ([HN](https://news.ycombinator.com/item?id=34073950))
 - [Nix on the Steam Deck (2022)](https://determinate.systems/posts/nix-on-the-steam-deck) ([HN](https://news.ycombinator.com/item?id=34102816))
 - [Generate Nix Flakes imperatively](https://github.com/DieracDelta/flake_generator)
+- [Setting up my new laptop: nix style (2022)](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
