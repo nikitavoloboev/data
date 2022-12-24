@@ -285,3 +285,4 @@ And these Discord servers:
 - [Как победить информационный шум](https://www.youtube.com/watch?v=cTz_jUwgxZY)
 - [Ask HN: Alternatives to The Economist? (2022)](https://news.ycombinator.com/item?id=33799353)
 - [daily.dev](https://app.daily.dev/) - Homepage Developers Deserve. ([Code](https://github.com/dailydotdev/apps))
+- [Ask HN: How do you keep track of all the content you encounter? (2022)](https://news.ycombinator.com/item?id=34111127)
