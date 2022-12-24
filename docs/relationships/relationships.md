@@ -336,3 +336,8 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [What has improved your dating life? Or what do you do that makes your dating life successful?](https://www.reddit.com/r/datingoverthirty/comments/zgy6fn/what_has_improved_your_dating_life_or_what_do_you/)
 - [What is wife material to you; no physical attributes allowed](https://twitter.com/eurydicelives/status/1601318792595841024)
 - [Hold Me Tight: Seven Conversations for a Lifetime of Love](https://www.goodreads.com/en/book/show/2153780)
+- [Paired](https://www.paired.com/) - App For Couples.
+- [The Skin Deep](https://shop.theskindeep.com/) - Relationship card games.
+- [The Love Prescription: Seven Days to More Intimacy, Connection, and Joy (2022)](https://www.gottman.com/product/the-love-prescription/)
+- [Eight Dates: Essential Conversations for a Lifetime of Love (2019)](https://www.goodreads.com/en/book/show/37588679)
+- [Intimacy & Desire: Awaken the Passion in Your Relationship (2009)](https://www.goodreads.com/book/show/7010183-intimacy-desire)

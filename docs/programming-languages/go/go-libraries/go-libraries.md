@@ -1957,6 +1957,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [util-go](https://github.com/terrastruct/util-go) - Terrastruct's general purpose go libraries.
 - [maphash](https://github.com/dolthub/maphash) - Hashing Go Types with AES Instructions.
 - [Go utilities](https://github.com/JohnStarich/go)
+- [low](https://github.com/openacid/low) - Low level data type and utils in Go.
 
 ## Links
 

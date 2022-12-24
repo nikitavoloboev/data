@@ -2,7 +2,7 @@
 
 [Sex for over 30](https://www.reddit.com/r/sexover30/) & [HLCommunity](https://www.reddit.com/r/HLCommunity/) are fun subs to read. [David Buss's interview on Sex, Dating, Relationships, and Sex Differences](https://www.youtube.com/watch?v=sndW9hzX-wA) was fascinating.
 
-[Come as You Are](https://www.goodreads.com/en/book/show/22609341) is great book.
+[Come as You Are](https://www.goodreads.com/en/book/show/22609341) & [She Comes First](https://www.goodreads.com/book/show/528985.She_Comes_First) are great books.
 
 [SKYN Ultra Thin](https://skynfeel.com/collections/elite) are least bad condoms I found. It's best to [get tested](https://www.youtube.com/watch?v=yEQclXsXhYk) though and use other birth controls like [NuvaRing](https://www.nuvaring.com/) once you find a [stable partner](relationships.md). Or get a [vasectomy](https://www.nhs.uk/conditions/contraception/vasectomy-male-sterilisation/) once you're certain you don't want any more kids.
 
@@ -162,3 +162,4 @@
 - [How do I stay STD safe?](https://www.reddit.com/r/nonmonogamy/comments/zmmk4j/how_do_i_stay_std_safe/)
 - [Pompoir](https://www.reddit.com/r/pompoir/) ([Reddit](https://www.reddit.com/r/sex/comments/zpytt4/do_girls_do_this_in_general/))
 - [You Are This Likely To Get An STD](https://www.youtube.com/watch?v=yEQclXsXhYk)
+- [Books for couples not having problems (2022)](https://www.reddit.com/r/sexover30/comments/x0xclv/books_for_couples_not_having_problems/)
