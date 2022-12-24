@@ -12,3 +12,4 @@ title: ChatGPT
 ## Links
 
 - [OpenAISwift](https://github.com/adamrushy/OpenAISwift) - Wrapper library around the ChatGPT and OpenAI HTTP API.
+- [OpenAI API Quick Start - Node example](https://github.com/openai/openai-quickstart-node)

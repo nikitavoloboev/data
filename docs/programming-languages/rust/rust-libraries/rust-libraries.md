@@ -718,6 +718,7 @@
 - [Penrose](https://github.com/sminez/penrose) - Library for writing an X11 tiling window manager.
 - [syscalls](https://github.com/jasonwhite/syscalls) - Raw Linux system calls for Rust.
 - [ALSA-rs](https://github.com/diwic/alsa-rs) - Safe wrappers for ALSA, most common API for accessing audio devices on Linux.
+- [Rust Landlock](https://github.com/landlock-lsm/rust-landlock) - Rust library for the Linux Landlock sandboxing feature.
 
 ## Embedded
 

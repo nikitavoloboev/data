@@ -105,3 +105,4 @@
 - [Blazing fast CI with MicroVMs (2022)](https://blog.alexellis.io/blazing-fast-ci-with-microvms/) ([HN](https://news.ycombinator.com/item?id=33656767))
 - [Run separate Buildkite pipelines for each folder in your monorepo](https://github.com/monebag/monorepo-diff-buildkite-plugin)
 - [Agola](https://github.com/agola-io/agola) - CI/CD Redefined. ([Docs](https://agola.io/))
+- [Datadog CI](https://github.com/DataDog/datadog-ci) - Use Datadog from your CI.

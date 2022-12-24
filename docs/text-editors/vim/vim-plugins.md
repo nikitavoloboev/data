@@ -215,6 +215,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 ## Looks
 
 - [GitHub theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, Kitty, and Alacritty written in Lua.
+- [Noirbuddy](https://github.com/jesseleite/nvim-noirbuddy) - Highly customizable minimalist monochromatic colorscheme for Neovim.
 - [GitHub Colors](https://github.com/cormacrelf/vim-colors-github)
 - [Embark Vim Theme](https://github.com/embark-theme/vim)
 - [Dracula](https://github.com/dracula/vim)

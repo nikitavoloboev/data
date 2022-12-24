@@ -6,6 +6,8 @@ title: Zero knowledge proofs
 
 [RISC Zero](https://github.com/risc0/risc0) looks neat. [Zero Knowledge on Ramp](https://github.com/SupremeSingh/Awesome-ZK) is nice intro.
 
+[Noir](https://github.com/noir-lang/noir) is nice DSL.
+
 ## Notes
 
 - [ZK proofs in a blockchain context are the most significant step forward since smart contracts](https://twitter.com/pseudotheos/status/1525776827574362112)
@@ -40,7 +42,7 @@ title: Zero knowledge proofs
 - [Serving up zero-knowledge proofs (2021)](https://blog.trailofbits.com/2021/02/19/serving-up-zero-knowledge-proofs/)
 - [Leo](https://github.com/AleoHQ/leo) - Functional, statically-typed programming language built for writing private applications.
 - [Aleo](https://aleo.org/) - Where Applications Become Zero-Knowledge. ([GitHub](https://github.com/AleoHQ)) ([Twitter](https://twitter.com/AleoHQ))
-- [Noir](https://github.com/noir-lang/noir) - Domain specific language for zero knowledge proofs. ([Docs](https://docs.aztec.network/developers/noir)) ([Tweet](https://twitter.com/aztecnetwork/status/1578082456212643840))
+- [Noir](https://github.com/noir-lang/noir) - Domain specific language for zero knowledge proofs. ([Docs](https://docs.aztec.network/developers/noir)) ([Tweet](https://twitter.com/aztecnetwork/status/1578082456212643840)) ([Awesome](https://github.com/noir-lang/awesome-noir)) ([Book](https://noir-lang.github.io/book/)) ([Book Code](https://github.com/noir-lang/book))
 - [snarkOS](https://github.com/AleoHQ/snarkOS) - Decentralized Operating System for Zero-Knowledge Applications.
 - [snarkVM](https://github.com/AleoHQ/snarkVM) - Virtual Machine for Zero-Knowledge Executions.
 - [Aleo SDK](https://github.com/AleoHQ/aleo) - Software Development Kit (SDK) for Zero-Knowledge Transactions.

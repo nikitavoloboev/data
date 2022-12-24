@@ -138,3 +138,4 @@ Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [gene
 - [Models - Hugging Face](https://huggingface.co/models)
 - [Training One Million Machine Learning Models in Record Time with Ray (2022)](https://www.anyscale.com/blog/training-one-million-machine-learning-models-in-record-time-with-ray) ([Tweet](https://twitter.com/robertnishihara/status/1604282355396460544))
 - [Do Simpler Machine Learning Models Exist and How Can We Find Them? (2022)](https://statmodeling.stat.columbia.edu/2022/12/22/do-simpler-machine-learning-models-exist-and-how-can-we-find-them/) ([HN](https://news.ycombinator.com/item?id=34096988))
+- [Train and deploy a DreamBooth model on Replicate (2022)](https://replicate.com/blog/dreambooth-api) ([Code](https://github.com/replicate/dreambooth-action))
