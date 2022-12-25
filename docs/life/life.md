@@ -59,7 +59,7 @@ For me personally the end goal and purpose is ultimate freedom. Doing what I lov
 - [Life as Thermodynamic Evidence of Algorithmic Structure in Nature (2012)](https://www.mdpi.com/1099-4300/14/11/2173) ([HN](https://news.ycombinator.com/item?id=23448081))
 - [Ask HN: I implemented the life I designed: perfect but I feel lost. What now? (2020)](https://news.ycombinator.com/item?id=23450110)
 - [‘Electric mud’ teems with new, mysterious bacteria (2020)](https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria) ([HN](https://news.ycombinator.com/item?id=24233544))
-- [Life is Short (2016)](http://paulgraham.com/vb.html) ([HN](https://news.ycombinator.com/item?id=24313158))
+- [Life is Short (2016)](http://paulgraham.com/vb.html) ([HN](https://news.ycombinator.com/item?id=24313158)) ([HN](https://news.ycombinator.com/item?id=34124726))
 - [On the Use of a Life (2020)](http://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html) ([HN](https://news.ycombinator.com/item?id=24537865)) ([Lobsters](https://lobste.rs/s/d8wxhi/on_use_life))
 - [Life's Small-Molecule Problem (2020)](https://www.scientificamerican.com/article/lifes-small-molecule-problem/)
 - [How to waste your career, one comfortable year at a time (2020)](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable) ([HN](https://news.ycombinator.com/item?id=24809530))

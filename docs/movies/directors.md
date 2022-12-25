@@ -43,3 +43,4 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - [Sculpting in Time by Andrei Tarkovsky](https://www.goodreads.com/book/show/28495.Sculpting_in_Time)
 - [Who are your favorite Asian directors? (2022)](https://www.reddit.com/r/criterion/comments/z1p249/who_are_your_favorite_asian_directors/)
 - ['Triangle of Sadness' Director Breaks Down a Dinner Date Scene (2022)](https://www.youtube.com/watch?v=ZDBMoCdktHY)
+- [Martin McDonagh: Things I've Learned as a Moviemaker (2022)](https://www.moviemaker.com/martin-mcdonagh-things-ive-learned-as-a-moviemaker/) ([Reddit](https://www.reddit.com/r/Filmmakers/comments/y9ftsf/martin_mcdonagh_things_hes_learned_as_a_filmmaker/))

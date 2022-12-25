@@ -279,3 +279,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [organixm](https://github.com/andrewbaxter/organixm) - Framework for self-updating read-only NixOS systems.
 - [nix-dabei](https://github.com/dep-sys/nix-dabei) - Operating system generator based on NixOS.
 - [srvos](https://github.com/numtide/srvos) - Opinionated and sharable set of NixOS configurations.
+- [Nix and NixOS, my pain points (2022)](https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html) ([HN](https://news.ycombinator.com/item?id=34115340))

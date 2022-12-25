@@ -264,6 +264,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Best Open Word Game You Have Ever Experienced (2022)](https://www.reddit.com/r/patientgamers/comments/zqkmo9/best_open_word_game_you_have_ever_experienced/)
 - [What are your top 5 games of 2022 on PS5?](https://www.reddit.com/r/PS5/comments/zpt26u/what_are_your_top_5_games_of_2022/)
 - [What games are you playing over Xmas on PS5?](https://www.reddit.com/r/PS5/comments/zu78n4/what_games_are_you_playing_over_xmas/)
+- [Patient Games I Completed This Year, Ranked Best to Worst (2022)](https://www.reddit.com/r/patientgamers/comments/zuav2v/patient_games_i_completed_this_year_ranked_best/)
 
 ## Links
 

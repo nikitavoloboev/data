@@ -22,7 +22,6 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/).
 
 [Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) or [brawler](https://github.com/hasundue/brawler) seem nice too.
 
-
 ## OSS Deno apps
 
 - [Deno Chat](https://github.com/denoland/showcase_chat) - Minimal chat platform template. It uses Fresh + Supabase + twind + BroadcastChannel API on Deno Deploy.
@@ -346,3 +345,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/).
 - [Deno Vulkan](https://github.com/deno-windowing/vulkan) - Vulkan API bindings for Deno.
 - [afr](https://github.com/mitranim/afr) - Simple and flexible file server, with optional "live reload" integration for development.
 - [Deno Gluten](https://github.com/deno-windowing/gluten) - OpenGL bindings & WebGL API implementation for Deno.
+- [Denopendabot](https://github.com/hasundue/denopendabot) - Dependabot for Deno projects.
