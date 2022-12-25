@@ -346,3 +346,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/).
 - [afr](https://github.com/mitranim/afr) - Simple and flexible file server, with optional "live reload" integration for development.
 - [Deno Gluten](https://github.com/deno-windowing/gluten) - OpenGL bindings & WebGL API implementation for Deno.
 - [Denopendabot](https://github.com/hasundue/denopendabot) - Dependabot for Deno projects.
+- [nublar](https://github.com/hasundue/nublar) - Command-line tool to manage Deno scripts installed via deno install.

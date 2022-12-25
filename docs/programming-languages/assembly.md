@@ -59,7 +59,7 @@ title: Assembly
 - [Code in ARM Assembly: Working with pointers (2021)](https://eclecticlight.co/2021/06/21/code-in-arm-assembly-working-with-pointers/)
 - [Writing ARM64 Code for Apple Platforms](https://developer.apple.com/documentation/xcode/writing-arm64-code-for-apple-platforms) ([HN](https://news.ycombinator.com/item?id=27616018))
 - [Code in ARM Assembly: Conditional Loops (2021)](https://eclecticlight.co/2021/06/29/code-in-arm-assembly-conditional-loops/)
-- [Programming with 64-Bit ARM Assembly Language (2020)](https://www.apress.com/de/book/9781484258804) ([Code](https://github.com/below/HelloSilicon))
+- [Programming with 64-Bit ARM Assembly Language (2020)](https://www.apress.com/de/book/9781484258804) ([Code](https://github.com/below/HelloSilicon)) ([HN](https://news.ycombinator.com/item?id=34128776))
 - [Down to the silicon: how the Z80's registers are implemented (2014)](http://www.righto.com/2014/10/how-z80s-registers-are-implemented-down.html)
 - [Assembly Language and Computer Architecture (2018)](https://www.youtube.com/watch?v=L1ung0wil9Y)
 - [Reversing for dummies - x86 assembly and C code (2021)](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
