@@ -50,3 +50,4 @@ I share some [recipes I like](recipes.md).
 - [Life in the slow lane: how the slow cooker changed the world (2022)](https://longreads.com/2022/11/17/life-in-the-slow-lane/) ([HN](https://news.ycombinator.com/item?id=33716353))
 - [2 dishwashers are amazing. One for dirty dishes. One for clean. No need for cupboards.](https://twitter.com/levelsio/status/1596147857748545536)
 - [What’s the best cooking oil?](https://www.reddit.com/r/nutrition/comments/zkc3ow/whats_the_best_cooking_oil/)
+- [Which oil is the healthiest to cook with and why? (2022)](https://www.reddit.com/r/nutrition/comments/zv9j3t/which_oil_is_the_healthiest_to_cook_with_and_why/)

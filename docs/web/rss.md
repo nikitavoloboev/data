@@ -195,3 +195,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [feeder](https://github.com/p1ass/feeder) - RSS, Atom and JSON feed generator from multiple RSS, Atom, and any entries you want.
 - [How to rebuild social media on top of RSS (2022)](https://tfos.co/p/rebuild-social-media/) ([HN](https://news.ycombinator.com/item?id=33975082))
 - [Add RSS Feeds to Your Website to Keep Your Core Readers Engaged (2022)](https://medium.com/samsung-internet-dev/add-rss-feeds-to-your-website-to-keep-your-core-readers-engaged-3179dca9c91e)
+- [Ask HN: What RSS Reader do you use in 2022?](https://news.ycombinator.com/item?id=34108413)

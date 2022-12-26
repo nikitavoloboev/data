@@ -117,7 +117,7 @@ I use [hardware wallets](https://www.reddit.com/r/ethereum/comments/zc6qva/for_g
 - [Binance Trading Bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot with trailing buy/sell strategy.
 - [ShapeShift](https://shapeshift.com/) - Offers global trading of a variety of digital assets.
 - [cointop](https://cointop.sh/) - Coin tracking for hackers. ([Code](https://github.com/miguelmota/cointop))
-- [FTX](https://ftx.com/en) - Cryptocurrency Derivatives Exchange. ([Sample Code](https://github.com/ftexchange/ftx)) ([API Docs](https://docs.ftx.us/#overview))
+- [FTX Sample Code](https://github.com/ftexchange/ftx)
 - [The FTX Podcast](https://www.youtube.com/playlist?list=PLLDdsQN_5infQ9Ee-KPxcH3gvMIbymZEg) - Tristan Yver looks into the stories of emerging and established cryptocurrency companies and technologies.
 - [Phantom](https://phantom.app/) - Digital wallet reimagined for DeFi & NFTs. Supports Solana and Ethereum.
 - [Blockfolio](https://blockfolio.com/) - Buy, sell & track your Bitcoin, Ethereum, & more.

@@ -309,3 +309,5 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [Make your own simple, public, searchable Twitter archive](https://tinysubversions.com/twitter-archive/make-your-own/) ([Code](https://github.com/dariusk/twitter-archiver)) ([Tweet](https://twitter.com/tinysubversions/status/1604552603630649344)) ([HN](https://news.ycombinator.com/item?id=34056378))
 - [Minimal Theme for Twitter](https://typefully.com/minimal-twitter)
 - [Nostr Protocol](https://github.com/nostr-protocol/nostr) - Truly censorship-resistant alternative to Twitter that has a chance of working.
+- [Faster Twitter Embeds (2022)](https://blog.kevmo314.com/faster-twitter.html) ([Or you can use Nitter embed](https://nitter.fly.dev/mhevery/status/1606438382561026049/embed))
+- [Twitter Graph](https://twit.deta.dev/) - Like Google Trends but for Twitter.

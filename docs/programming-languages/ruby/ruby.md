@@ -154,3 +154,4 @@
 - [ChatGPT Generate Ruby Code to Check User Exists in GitHub (2022)](https://kracekumar.com/post/chatgpt-gh-profile-lookup/)
 - [Building Games with DragonRuby](https://book.dragonriders.community/) ([HN](https://news.ycombinator.com/item?id=33962042))
 - [What not to forget when implementing a pattern-matching in Ruby for custom objects (2022)](https://zverok.space/blog/2022-12-20-pattern-matching.html)
+- [Ruby 3.2.0 (2022)](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/) ([HN](https://news.ycombinator.com/item?id=34125408))

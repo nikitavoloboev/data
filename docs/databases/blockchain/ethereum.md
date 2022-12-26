@@ -12,6 +12,8 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 
 [Helios](https://github.com/a16z/helios) is a nice Eth client. [Kakarot](https://github.com/sayajin-labs/kakarot) is interesting.
 
+[Evolution of the Ethereum proof-of-stake consensus protocol](https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md) is nice read.
+
 ## Notes
 
 - [The problem is that money (paper money/currency) is not the only thing that has value which human beings transfer among each other. We share music, art, poetry, equity in companies, ideas, code, etc. What Ethereum does is take the idea of "Digital trustless money transfer" and expands it to "Digital trustless value transfer"](https://news.ycombinator.com/item?id=25264694)
@@ -739,3 +741,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Slush SDK](https://github.com/slushsdk/slush) - Allows you to spin up L3s on Starknet.
 - [Ethereum token lists](https://tokenlists.org/) ([Spec](https://github.com/Uniswap/token-lists)) ([Bridge Utils](https://github.com/Uniswap/token-list-bridge-utils))
 - [Solarray](https://github.com/evmcheb/solarray) - Fast helper library for convenient Solidity dynamic arrays.
+- [Evolution of the Ethereum proof-of-stake consensus protocol](https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md) ([HN](https://news.ycombinator.com/item?id=34119048))

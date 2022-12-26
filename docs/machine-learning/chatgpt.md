@@ -14,3 +14,4 @@ title: ChatGPT
 - [OpenAISwift](https://github.com/adamrushy/OpenAISwift) - Wrapper library around the ChatGPT and OpenAI HTTP API.
 - [OpenAI API Quick Start - Node example](https://github.com/openai/openai-quickstart-node)
 - [Code Review GPT](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull Requests using ChatGPT.
+- [What ChatGPT can't do (2022)](https://auerstack.substack.com/p/what-chatgpt-cant-do) ([HN](https://news.ycombinator.com/item?id=34121380))

@@ -382,7 +382,7 @@
 - [concurrent-map](https://github.com/komora-io/concurrent-map) - Lock-free linearizable map.
 - [odht](https://github.com/rust-lang/odht) - Hash tables that can be mapped from disk into memory without the need for up-front decoding.
 - [schnellru](https://github.com/koute/schnellru) - Fast and flexible LRU map.
-- [Canyon-SQL](https://github.com/zerodaycode/Canyon-SQL) - Rust ORM and query builder for multiple databases.
+- [Canyon-SQL](https://github.com/zerodaycode/Canyon-SQL) - Rust ORM and query builder for multiple databases. ([Reddit](https://www.reddit.com/r/rust/comments/zv5znb/a_new_orm_and_querybuilder_for_rust/))
 
 ## Video
 

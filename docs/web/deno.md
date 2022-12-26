@@ -18,9 +18,9 @@ Share my Deno modules [here](https://github.com/nikitavoloboev/ts).
 
 [Fresh](https://fresh.deno.dev/) (together with [signals](https://github.com/lucacasonato/fresh-with-signals)) is great. Although I still prefer [Solid](../programming-languages/javascript/js-libraries/solid.md). I wish I can run [Solid Start](https://github.com/solidjs/solid-start) on Deno.
 
-I deploy all Deno code using [Deno Deploy](https://deno.com/).
+I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) or [brawler](https://github.com/hasundue/brawler) seem nice too.
 
-[Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) or [brawler](https://github.com/hasundue/brawler) seem nice too.
+I [deploy my Deno modules to Deno.land & NPM](https://deno.com/blog/dnt-oak).
 
 ## OSS Deno apps
 
@@ -348,3 +348,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/).
 - [Denopendabot](https://github.com/hasundue/denopendabot) - Dependabot for Deno projects.
 - [nublar](https://github.com/hasundue/nublar) - Command-line tool to manage Deno scripts installed via deno install.
 - [depsinfo](https://github.com/nsf/depsinfo) - Analyze dependencies and libraries of a deno script.
+- [How to publish Deno modules to NPM (2022)](https://deno.com/blog/dnt-oak)

@@ -1021,3 +1021,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [MEMIT: Mass-Editing Memory in a Transformer](https://github.com/kmeng01/memit) - Editing thousands of facts into a transformer memory at once.
 - [Lightning fast recommendation with Birdland](https://www.thetypicalset.com/blog/drafts/introducing-birdland.html)
 - [Pythia: Interpreting Autoregressive Transformers Across Time and Scale](https://github.com/EleutherAI/pythia)
+- [Thinking like Transformers](https://srush.github.io/raspy/) ([HN](https://news.ycombinator.com/item?id=27528004))

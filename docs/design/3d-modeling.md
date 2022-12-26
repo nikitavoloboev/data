@@ -40,7 +40,7 @@
 - [sdf](https://github.com/fogleman/sdf) - Generate 3D meshes based on SDFs (signed distance functions) with a dirt simple Python API.
 - [potpourri3d](https://github.com/nmwsharp/potpourri3d) - Python library of various algorithms and utilities for 3D triangle meshes and point clouds.
 - [vedo](https://github.com/marcomusy/vedo) - Python module for scientific analysis of 3D objects based on VTK. ([Web](https://vedo.embl.es/))
-- [picoCAD](https://johanpeitz.itch.io/picocad) - Program to build and texture lowpoly 3D models. ([Tweet](https://twitter.com/johanpeitz/status/1365356945708896265))
+- [PicoCAD](https://johanpeitz.itch.io/picocad) - Program to build and texture lowpoly 3D models. ([Tweet](https://twitter.com/johanpeitz/status/1365356945708896265)) ([HN](https://news.ycombinator.com/item?id=34101251))
 - [LeoCAD](https://www.leocad.org/) - CAD application for creating virtual LEGO models. ([Code](https://github.com/leozide/leocad))
 - [Meshlete](https://github.com/JarkkoPFC/meshlete) - Chop 3D objects to meshlets.
 - [Online 3D Viewer](https://3dviewer.net/) - Free and open source web solution to visualize and investigate 3D models files right in your browser. ([Code](https://github.com/kovacsv/Online3DViewer))

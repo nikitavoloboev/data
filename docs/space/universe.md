@@ -75,3 +75,4 @@ Liked this video on [why cosmic inflation doesn't make much sense](https://www.y
 - [Useless Fantasies: Cosmic Inflation (2022)](https://www.youtube.com/watch?v=ADuiIcBwMmI)
 - [Astronomers just confirmed the most ancient galaxies ever observed (2022)](https://singularityhub.com/2022/12/11/astronomers-just-confirmed-the-most-ancient-galaxies-ever-observed/) ([HN](https://news.ycombinator.com/item?id=33949131))
 - [New LHC results show that antimatter can travel to earth from thousands of light years away (2022)](https://www.reddit.com/r/Physics/comments/zk3jbm/new_lhc_results_show_that_antimatter_can_travel/)
+- [How certain are we that the universe began 13.77 billion years ago? (2022)](https://www.reddit.com/r/askscience/comments/zv5bij/how_certain_are_we_that_the_universe_began_1377/)

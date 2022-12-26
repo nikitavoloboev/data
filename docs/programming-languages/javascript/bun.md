@@ -6,6 +6,10 @@ title: Bun
 
 [Elysia](https://github.com/elysiajs/elysia) is nice web framework.
 
+Currently using [Deno](../../web/deno.md) as my primary way to write [TS](../typescript/typescript.md). 
+
+I use Bun to make sure I don't have to write [Node](../../web/nodejs/nodejs.md) as it's simply faster version of Node with lots of nice life improvements and faster development cycle.
+
 ## Links
 
 - [HN: Bun](https://news.ycombinator.com/item?id=31993429) ([Tweet](https://twitter.com/jarredsumner/status/1544460933753229312)) ([Lobsters](https://lobste.rs/s/5ebzbq/bun_is_fast_all_one_javascript_runtime))

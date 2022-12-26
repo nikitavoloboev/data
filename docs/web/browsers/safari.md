@@ -78,3 +78,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Best Safari extensions](https://www.reddit.com/r/macapps/comments/yoacpk/best_safari_extensions/)
 - [StopTheMadness](https://underpassapp.com/StopTheMadness/) - Browser extension that stops web sites from making your browser harder to use.
 - [Vimlike](https://apps.apple.com/us/app/vimlike/id1584519802) - Browse the web by keyboard shortcuts like a vim-editor.
+- [Tap Tab](https://www.taptab.dev/) - Tab switching web extension for Safari. ([HN](https://news.ycombinator.com/item?id=34112652))

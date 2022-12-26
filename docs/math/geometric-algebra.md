@@ -28,3 +28,4 @@ title: Geometric algebra
 - [GBD.jl](https://github.com/Orbots/GBD.jl) - Geometric algebra Based Dynamics.
 - [GeometricMatrixAlgebras.jl](https://github.com/MasonProtter/GeometricMatricAlgebras.jl) - Geoemtric Algebra using Julia matrices.
 - [Curves of genus 13 explained (2021)](https://arxiv.org/abs/2110.09553) ([Tweet](https://twitter.com/DaveJensenMath/status/1450809787663388679))
+- [Geometric algebra and classical mechanics (2022)](https://www.awanderingmind.blog/posts/2022-12-25-introduction-to-geometric-algebra.html)

@@ -273,3 +273,4 @@ All active variables can be seen by running `env`.
 - [How to share terminal demos as razor-sharp animated SVG (2022)](https://wasimlorgat.com/tils/how-to-share-terminal-demos-as-razor-sharp-animated-svg.html)
 - [A year of building for the terminal (2022)](https://textual.textualize.io/blog/2022/12/20/a-year-of-building-for-the-terminal/) ([HN](https://news.ycombinator.com/item?id=34093025))
 - [teetty](https://github.com/mitsuhiko/teetty) - Wrapper binary to execute a command in a pty while providing remote control facilities.
+- [Shmux](https://github.com/shikaan/shmux) - Run all your scripts from one file. ([HN](https://news.ycombinator.com/item?id=34119355))

@@ -154,3 +154,4 @@ source script
 -   [Bash Style Guide](https://github.com/bahamas10/bash-style-guide)
 -   [bashew](https://github.com/pforret/bashew) - Bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing.
 -   [Using ChatGPT to make Bash palatable (2022)](https://brev.dev/blog/ai-wont-replace-you-write-bash)
+-   [GPT-3 Powered Shell (2022)](https://musings.yasyf.com/never-write-a-bash-command-again-with-gpt-3/) ([HN](https://news.ycombinator.com/item?id=34102363))
