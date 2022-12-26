@@ -382,6 +382,7 @@
 - [concurrent-map](https://github.com/komora-io/concurrent-map) - Lock-free linearizable map.
 - [odht](https://github.com/rust-lang/odht) - Hash tables that can be mapped from disk into memory without the need for up-front decoding.
 - [schnellru](https://github.com/koute/schnellru) - Fast and flexible LRU map.
+- [Canyon-SQL](https://github.com/zerodaycode/Canyon-SQL) - Rust ORM and query builder for multiple databases.
 
 ## Video
 
@@ -934,6 +935,7 @@
 - [OptionalStruct](https://github.com/lesurp/OptionalStruct) - Macro copying a struct with Option fields. Useful for config initialization.
 - [Respan](https://github.com/dtolnay/respan) - Macros to erase scope information from tokens.
 - [lazy_format](https://github.com/Lucretiel/lazy_format) - Lazy formatting utility macro.
+- [auto_impl](https://github.com/auto-impl-rs/auto_impl) - Automatically implement traits for common smart pointers.
 
 ## Math
 
@@ -2415,6 +2417,7 @@
 - [mirror-mirror](https://github.com/EmbarkStudios/mirror-mirror) - Powerful reflection library for Rust.
 - [PriorityQueue](https://github.com/garro95/priority-queue) - Priority queue for Rust with efficient change function.
 - [desim](https://github.com/garro95/desim) - Discrete-time events simulation framework, written in rust, using the generator experimental feature.
+- [rend](https://github.com/rkyv/rend) - Endian-aware primitives.
 
 ## Cargo Plugins
 

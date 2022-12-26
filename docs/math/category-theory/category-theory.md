@@ -176,6 +176,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [List of initial algebras and final coalgebras of functors](https://github.com/bgavran/-Co-AlgebraCheatSheet) ([Tweet](https://twitter.com/bgavran3/status/1597944771481604096))
 - [Petar Veličković (Deepmind) - Categories, Graphs, Reasoning (2022)](https://www.youtube.com/watch?v=1lkdWduuN14)
 - [The Adjoint School](https://adjointschool.com/index.html) - Annual research school in applied category theory.
+- [Awesome Double Categories](https://github.com/mattecapu/awesome-double-categories)
 
 ## Images
 

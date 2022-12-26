@@ -4,7 +4,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 [tsup](https://tsup.egoist.sh/) is great too for bundling TS libs.
 
-[Kysely](https://github.com/koskimas/kysely) is nice for doing DB queries.
+[Kysely](https://github.com/koskimas/kysely) is nice for doing DB queries. [Farfetched](https://github.com/igorkamyshev/farfetched) is nice for data fetching.
 
 ## DB
 

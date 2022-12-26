@@ -200,3 +200,4 @@
 - [End-to-end encrypted messages need more than libsignal (2022)](https://mjg59.dreamwidth.org/62598.html) ([HN](https://news.ycombinator.com/item?id=33929620))
 - [Generic Tagging for RISC-V Binaries (2022)](https://arxiv.org/abs/2212.05614)
 - [Learning Cryptography in Public](https://github.com/ncitron/badcrypto)
+- [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers)

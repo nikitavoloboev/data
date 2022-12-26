@@ -12,6 +12,8 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 
 [Listmonk](https://listmonk.app/) is great self-hosted newsletter and mailing list manager.
 
+[React Email](https://github.com/zenorocha/react-email) seems nice for sending emails.
+
 ## Notes
 
 - [All archive does is remove the Inbox label (in Gmail).](https://productforums.google.com/forum/#!msg/gmail/2xUYO5ifCCY/95_y02y2IgAJ)

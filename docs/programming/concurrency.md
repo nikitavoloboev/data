@@ -52,3 +52,4 @@ Concurrency is the composition of independently executing computations. [Real-Ti
 - [Race Conditions Can Be Useful for Parallelism (2022)](https://shwestrick.github.io/2022/09/27/useful-races.html)
 - [Who controls parallelism? A disagreement that leads to slower code (2022)](https://pythonspeed.com/articles/concurrency-control/)
 - [Higher-Order Leak and Deadlock Free Locks (2022)](https://julesjacobs.com/pdf/locks.pdf)
+- [Concurrency Deep Dive: Code Strategies for High Traffic Applications (2022)](https://nathanpeck.com/concurrency-deep-dive-strategies-for-high-traffic-applications/)

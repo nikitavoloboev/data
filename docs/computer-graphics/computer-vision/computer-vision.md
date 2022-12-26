@@ -1053,3 +1053,4 @@
 - [Awesome 3D Object Detection](https://github.com/TianhaoFu/Awesome-3D-Object-Detection)
 - [ProposalContrast: Unsupervised Pre-training for LiDAR-based 3D Object Detection (2022)](https://arxiv.org/abs/2207.12654) ([Code](https://github.com/yinjunbo/ProposalContrast))
 - [DisCoScene: Spatially Disentangled Generative Radiance Fields for Controllable 3D-aware Scene Synthesis (2022)](https://arxiv.org/abs/2212.11984) ([Code](https://github.com/snap-research/discoscene))
+- [FFNeRV: Flow-Guided Frame-Wise Neural Representations for Videos (2022)](https://maincold2.github.io/ffnerv/) ([Code](https://github.com/maincold2/FFNeRV))

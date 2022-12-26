@@ -84,7 +84,7 @@ title: Julia
 - [Julia 1.6: what has changed since Julia 1.0? (2021)](https://www.oxinabox.net/2021/02/13/Julia-1.6-what-has-changed-since-1.0.html) ([HN](https://news.ycombinator.com/item?id=26132801))
 - [YASGuide](https://github.com/jrevels/YASGuide) - Yet Another Style Guide For Julia.
 - [Building a constraint programming solver in Julia (2019)](https://opensourc.es/blog/constraint-solver-1/)
-- [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
+- [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/) ([Code](https://github.com/unbalancedparentheses/data_science_in_julia_for_hackers))
 - [Julia 1.6 Highlights (2021)](https://julialang.org/blog/2021/03/julia-1.6-highlights/) ([HN](https://news.ycombinator.com/item?id=26580926))
 - [Unreasonable Effectiveness of Multiple Dispatch (2019)](https://www.youtube.com/watch?app=desktop&v=kc9HwsxE1OY)
 - [Seam carving in Julia (by 3Blue1Brown) (2020)](https://www.youtube.com/watch?v=rpB6zQNsbQU)

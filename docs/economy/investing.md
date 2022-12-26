@@ -310,3 +310,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [monkeybeat](https://github.com/mr-karan/monkeybeat) - Generate a random stock portfolio and find out if it beats the markets.
 - [Which financial instrument has the highest guaranteed rate of return? (2022)](https://www.reddit.com/r/investing/comments/z1hmit/which_financial_instrument_has_the_highest/)
 - [What are your boring taxable account investments? (2022)](https://www.reddit.com/r/investing/comments/zn5cc2/what_are_your_boring_taxable_account_investments/)
+- [Ask HN: What are your best and safest investment options? (2022)](https://news.ycombinator.com/item?id=34136401)

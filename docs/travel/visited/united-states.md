@@ -187,3 +187,4 @@ I try to avoid pointless politics as much as possible but do like [John Mearshei
 - [What is the least American looking city in the US? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/zpfgxc/what_is_the_least_american_looking_city_in_the_us/)
 - [Green Card application form went from 4 pages in 2003 to 20 pages in 2022](https://twitter.com/david_j_bier/status/1604924286342496268)
 - [Book recommendations for a concise synopsis of the history of US Monetary policy (2022)](https://www.reddit.com/r/EconomicHistory/comments/zqu2mq/any_book_recommendations_for_a_concise_synopsis/)
+- [‘Big’ US Cities with Low Income Tax or Low COL (2022)](https://www.reddit.com/r/financialindependence/comments/zv1p4p/big_us_cities_with_low_income_tax_or_low_col/)

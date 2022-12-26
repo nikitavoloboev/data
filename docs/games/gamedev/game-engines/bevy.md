@@ -84,3 +84,4 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [Bevy Quickmenu](https://github.com/terhechte/bevy_quickmenu) - Simple-to-use menu system for Bevy which supports gamepad, keyboard or mouse navigation.
 - [Bevy Scene hook](https://github.com/nicopap/bevy-scene-hook) - Ad-hoc component insertion for bevy scenes.
 - [Terrain Renderer](https://github.com/kurtkuehnert/terrain_renderer) - Large-scale real-world terrain renderer written in Rust using the Bevy game engine.
+- [bevy_ecs_tilemap](https://github.com/StarArawn/bevy_ecs_tilemap) - Tilemap rendering crate for bevy which is more ECS friendly.

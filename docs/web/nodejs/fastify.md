@@ -73,3 +73,4 @@ title: Fastify
 - [Kita](https://github.com/arthurfiorette/kita) - Semi-opinionated fastify based typescript framework. No runtime code == blazingly fast.
 - [fastify-metrics](https://github.com/SkeLLLa/fastify-metrics) - Prometheus metrics exporter for Fastify.
 - [Fastify-routes](https://github.com/fastify/fastify-routes) - Decorates fastify instance with a map of routes.
+- [Template for Fastify plugin](https://github.com/Eomm/fastify-plugin-template)

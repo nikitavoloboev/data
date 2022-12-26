@@ -8,6 +8,8 @@
 
 [Verse Calculus](https://simon.peytonjones.org/assets/pdfs/verse-conf.pdf) is fascinating.
 
+[Functional languages index](https://github.com/cblp/funlangs) is nice overview of FP languages.
+
 ## Notes
 
 - [A monad is an abstraction that can be used to parametrize code with the way how computations are sequenced. A monad can also be seen as design pattern, that sometimes makes your code more readable (and, more often, less readable).](https://binaryanalysisplatform.github.io/bap/api/master/Monads.Std.html)
@@ -214,6 +216,7 @@
 - [Beyond Functional Programming: The Verse Programming Language (2022)](https://simon.peytonjones.org/assets/pdfs/haskell-exchange-22.pdf) ([HN](https://news.ycombinator.com/item?id=33946933)) ([End goal](https://twitter.com/TimSweeneyEpic/status/1602180980252774402?s=20&t=Q9K_WkpNkl780arLd9UHBQ)) ([Talk](https://www.youtube.com/watch?v=832JF1o7Ck8))
 - [Algebraic Effects – You Can Touch This (2019)](http://jacek.zlydach.pl/blog/2019-07-24-algebraic-effects-you-can-touch-this.html)
 - [Nim (2022)](https://ryan.freumh.org/blog/nim/)
+- [Functional languages index](https://github.com/cblp/funlangs)
 
 ## Images
 

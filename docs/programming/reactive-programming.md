@@ -51,3 +51,4 @@ Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reacti
 - [Reactively](https://github.com/modderme123/reactively) - Library for fine grained reactive programming.
 - [Reactivity & Rendering (2022)](https://www.youtube.com/watch?v=R5AcOtxIdMk)
 - [Learning Leptos: Build a fine-grained reactive system in 100 lines of code (2022)](https://www.youtube.com/watch?v=GWB3vTWeLd4)
+- [Reactor.js](https://github.com/fynyky/reactor.js) - Simple reactive programming without a framework.

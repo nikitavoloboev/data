@@ -12,7 +12,7 @@ Wish more startups did calendar timelines with big events [like Amie](https://am
 
 I personally believe that eventually all of the greatest companies will be fully open source and transparent. You can [out execute any company by being more focused](https://twitter.com/HarryStebbings/status/1604201383720521729) and building what you truly [think customers want](https://news.ycombinator.com/item?id=34033281).
 
-Great [management](../../management/management.md) makes a huge difference whether startups succeed or not.
+Great [management](../../management/management.md) together with being able to [make thoughtful decisions fast](https://www.youtube.com/watch?v=HE5CTKqWEV0&t=5851s) with fast rollbacks makes a huge difference whether startups succeed or not.
 
 ## Notes
 

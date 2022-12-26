@@ -421,3 +421,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [AWS-C-IO](https://github.com/awslabs/aws-c-io) - Module for the AWS SDK for C. It handles all IO and TLS work for application protocols.
 - [Lambda, Rust, and CDK](https://github.com/danilop/lambda-rust-and-cdk)
 - [List of open geospatial datasets on AWS](https://github.com/giswqs/aws-open-data-geo)
+- [AWS re:Invent 2022 - A day in the life of a billion requests](https://www.youtube.com/watch?v=tPr1AgGkvc4)

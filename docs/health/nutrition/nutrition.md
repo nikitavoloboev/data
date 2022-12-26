@@ -147,3 +147,4 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - [Why does it seem like more and more people are becoming sensitive to food these days?](https://www.reddit.com/r/nutrition/comments/zkpqgw/why_does_it_seem_like_more_and_more_people_are/)
 - [Пищевая психиатрия: как питание и метаболизм влияют на ментальное здоровье (2022)](https://bioseminars.wordpress.com/2022/12/09/nutritional-psychiatry/)
 - [11 Probiotic Foods That Are Super Healthy](https://www.healthline.com/nutrition/11-super-healthy-probiotic-foods)
+- [Ask HN: What's your secret diet tip you can share? (2022)](https://news.ycombinator.com/item?id=34134833)

@@ -10,7 +10,7 @@ Using Solid for all my web apps and static sites. Love how it takes all the [bes
 
 [Ryan Carniato](https://twitter.com/RyanCarniato) does [great YouTube videos on web/solidJS](https://www.youtube.com/c/RyanCarniato9/videos) ([SolidJS: Past, Present, Future](https://www.youtube.com/watch?v=dOgnQ9SuKYk) is insightful, especially part about [future focus](https://www.youtube.com/watch?v=dOgnQ9SuKYk&t=7555s)).
 
-[Solid Start](https://github.com/solidjs/solid-start) or better [Create JD App](https://github.com/OrJDev/create-jd-app) is great starter template.
+[Solid Start](https://github.com/solidjs/solid-start) or better [Create JD App](https://github.com/OrJDev/create-jd-app) is great starter template. Trying to [make Solid Start work/deploy on Deno easily](https://github.com/solidjs/solid-start/tree/main/packages/start-deno).
 
 [solid-primitives/fetch](https://www.npmjs.com/package/@solid-primitives/fetch) is great alternative to [React Query](https://react-query.tanstack.com/).
 

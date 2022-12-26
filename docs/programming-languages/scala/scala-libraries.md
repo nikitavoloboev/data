@@ -221,6 +221,9 @@
 - [Poppet](https://github.com/yakivy/poppet) - Minimal, type-safe RPC Scala library.
 - [Dupin](https://github.com/yakivy/dupin) - Minimal, idiomatic, customizable validation Scala library.
 - [Jam](https://github.com/yakivy/jam) - Incredibly simple DI Scala library.
+- [ToFu](https://github.com/tofu-tf/tofu) - Functional programming toolbox.
+- [derevo](https://github.com/tofu-tf/derevo) - Multiple instance derivations inside a single macro annotation.
+- [Volga](https://github.com/manatki/volga) - Comprehensions for Arrows and Monoidal categories.
 
 ## Links
 

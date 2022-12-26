@@ -492,3 +492,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [A Brief History of Computer Music - Anders Norås (2020)](https://www.youtube.com/watch?v=mKdXhjUopCA)
 - [In praise of MIDI (2022)](https://www.theregister.com/2022/12/19/in_praise_of_midi_techs/) ([HN](https://news.ycombinator.com/item?id=34063028))
 - [Musisep](https://github.com/rgcda/Musisep) - Source Separation on Musical Instrument Sounds.
+- [kord](https://github.com/twitchax/kord) - Music theory binary and library for Rust.

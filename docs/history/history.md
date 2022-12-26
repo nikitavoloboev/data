@@ -221,3 +221,4 @@
 - [Why Hitler declared War on the USA](https://www.youtube.com/watch?v=y6ndO6_BOK4)
 - [A 1960s Children’s Book about Computers (2022)](https://www.pagetable.com/?p=1709)
 - [WWII Pictures](https://twitter.com/WWIIpix)
+- [Eastory - YouTube](https://www.youtube.com/@Eastory/videos)

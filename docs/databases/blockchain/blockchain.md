@@ -424,3 +424,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [SSX](https://github.com/spruceid/ssx) - Self-Sovereign Anything.
 - [Arbitrum Nitro](https://github.com/OffchainLabs/nitro) - Fully integrated, complete layer 2 optimistic rollup system, including fraud proofs, the sequencer, the token bridges, advanced calldata compression, and more.
 - [ICNS](https://github.com/icns-xyz/icns) - Nameservice designed from the ground up with the unique needs of a multichain IBC ecosystem in mind.
+- [Practical Cryptography and Distributed Ledgers](https://github.com/unbalancedparentheses/practical_cryptography_and_distributed_ledgers)

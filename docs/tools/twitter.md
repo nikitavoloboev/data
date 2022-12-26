@@ -6,9 +6,11 @@ title: Twitter
 
 Use [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) extension when I browse Twitter on [Safari](../web/browsers/safari.md) in [separate window](https://twitter.com/nikitavoloboev/status/1601959862648582145) (with `jk` [keyboard binds](https://help.twitter.com/en/using-twitter/how-to-tweet) to move between tweets, `l` to like, `b` to bookmark, `r` to reply). And official app on iOS.
 
-I like Twitter as it's currently sadly still the best place to stream your thoughts to public and have others interact with it in real time. Nothing yet comes close to the network and UX of Twitter for doing this.
+I like Twitter as it's currently still the best place to stream your thoughts to public and have others interact with it in real time. Nothing yet comes close to the network and UX of Twitter for doing this.
 
 However, the fact that Twitter is a private company now owned by a person who has a tendency to [go back on what he says](https://twitter.com/rickstrom/status/1603562716123189248), [lies in public](https://twitter.com/carterforva/status/1596136798941503492), [bans accounts of competitors](https://news.ycombinator.com/item?id=34010112) and [those who criticize him publicly](https://news.ycombinator.com/item?id=34008383) without ways to fight back is [worrying](https://twitter.com/Dereklowe/status/1602307503752187906). I hope Twitter takes steps to change this as [trust lost](https://twitter.com/JuddLegum/status/1603876025242378248) takes long time to fix.
+
+To be fair those cases can be one off occurrences and new Twitter management stated they will [make many mistakes, roll things back, learn and adapt](https://twitter.com/esthercrawford/status/1590386711179464705). My main concern is not even the bad behavior but lack of transparency and that the code is not open source. I'd love for something like [Nostr protocol](https://github.com/nostr-protocol/nostr) to power Twitter with all the UX niceness that Twitter has.
 
 I love the idea of freedom of speech, but not freedom of reach whereby anyone can have a voice but the platform won't boost hurtful or perhaps verifiably incorrect rhetoric. Twitter's [Community Notes](https://twitter.com/CommunityNotes) is great in that regard. Will see how Twitter fares at making this work.
 
@@ -306,3 +308,4 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [Bird SQL](https://www.perplexity.ai/sql) - Twitter search interface translates natural language into SQL. ([Tweet](https://twitter.com/perplexity_ai/status/1603441221753372673))
 - [Make your own simple, public, searchable Twitter archive](https://tinysubversions.com/twitter-archive/make-your-own/) ([Code](https://github.com/dariusk/twitter-archiver)) ([Tweet](https://twitter.com/tinysubversions/status/1604552603630649344)) ([HN](https://news.ycombinator.com/item?id=34056378))
 - [Minimal Theme for Twitter](https://typefully.com/minimal-twitter)
+- [Nostr Protocol](https://github.com/nostr-protocol/nostr) - Truly censorship-resistant alternative to Twitter that has a chance of working.

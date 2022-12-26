@@ -802,3 +802,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Easy to learn NoCode tool for beginners (2022)](https://twitter.com/LuissMears/status/1604854202873815040)
 - [NotifyLog](https://notifylog.com/) - One stop tool for events tracking and analytics.
 - [Fogbender](https://fogbender.com/) - Team messaging widget for B2B support.
+- [APITable](https://github.com/apitable/apitable) - API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. ([Web](https://apitable.com/))

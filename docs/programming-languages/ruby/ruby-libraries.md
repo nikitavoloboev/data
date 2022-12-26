@@ -109,3 +109,4 @@
 - [Hiddengems](https://gitlab.com/svdasein/hiddengems) - Better search and ranking for ruby gems.
 - [Gemdex](http://gemdex.org/) - Ruby gem explorer. ([Reddit](https://www.reddit.com/r/ruby/comments/y6dmrq/new_site_gemdexorg_helps_you_find_gems_for_your/))
 - [Ruby Delights Built Into The Language (2022)](https://technology.doximity.com/articles/ruby-delights-built-into-the-language) ([HN](https://news.ycombinator.com/item?id=34072349))
+- [Long story short: I wrote a Ruby extension in Zig (2022)](https://katafrakt.me/2022/12/25/ruby-extension-zig/) ([HN](https://news.ycombinator.com/item?id=34134866))

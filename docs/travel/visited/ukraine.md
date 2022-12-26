@@ -1,6 +1,6 @@
 # Ukraine
 
-It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) to try [prevent Ukraine from getting access to its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3).
+It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) to try [prevent Ukraine from getting access to its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3) and get land access to illegally annexed Crimea.
 
 Instead of [wasting lives](https://ukraine.bellingcat.com/) & [destroying cities](https://twitter.com/MaximEristavi/status/1513576913431941135) of its neighbors and oppressing it's own citizens, I hope one day a sane government comes where such a disastrous decision will be impossible to enact.
 
@@ -188,3 +188,4 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 - [How Putin’s War in Ukraine Became a Catastrophe for Russia (2022)](https://www.nytimes.com/interactive/2022/12/16/world/europe/russia-putin-war-failures-ukraine.html) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/zqxpag/putins_war_the_inside_story_of_a_catastrophe/))
 - [Perun - YouTube](https://www.youtube.com/@PerunAU/videos)
 - [All roads may lead to Crimea in 2023](https://twitter.com/WarintheFuture/status/1605079411048337408)
+- [Operations in East Ukraine (1943-2015)](https://www.youtube.com/watch?v=khsOXzF8ibo)

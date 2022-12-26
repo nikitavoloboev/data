@@ -8,6 +8,7 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [Articulate](https://boardgamegeek.com/boardgame/6541/articulate)
 - [Secret Hitler](https://www.secrethitler.com/)
 - [Blade Runner RPG](https://www.bladerunner-rpg.com/) ([HN](https://news.ycombinator.com/item?id=30955306))
+- [Cluedo](https://en.wikipedia.org/wiki/Cluedo)
 
 ## Links
 
