@@ -8,6 +8,8 @@ I use [regex101](https://regex101.com) every time I want write a new regex.
 
 [Rulex](https://rulex-rs.github.io/) is nice too.
 
+[Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html) & [Regular Expression Matching: the Virtual Machine Approach](https://swtch.com/~rsc/regexp/regexp2.html) are nice reads.
+
 ## Notes
 
 - `.*` = will select all occurrences
@@ -118,3 +120,5 @@ Match all that don't have notes or twitter in input
 - [qgrep](https://github.com/zeux/qgrep) - Fast regular expression grep for source code with incremental index updates.
 - [A Regex Primer (2022)](https://marcocetica.com/posts/regex_tutorial/)
 - [nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regular expression under the cursor.
+- [Regular Expression Matching Can Be Simple And Fast (2007)](https://swtch.com/~rsc/regexp/regexp1.html)
+- [Regular Expression Matching: the Virtual Machine Approach (2009)](https://swtch.com/~rsc/regexp/regexp2.html)

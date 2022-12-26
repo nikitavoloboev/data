@@ -125,3 +125,4 @@ title: Lean
 - [FFI.lean](https://github.com/yatima-inc/FFI.lean) - Template for calling Rust functions in Lean using C/C++ FFI and the CXX crate.
 - [LSpec](https://github.com/yatima-inc/LSpec) - Testing framework for Lean 4, inspired by Haskell's Hspec package.
 - [Advent of Code 2022 in Lean](https://github.com/odomontois/advent2022-lean)
+- [Infinitude of primes --- a Lean theorem prover demo (2020)](https://www.youtube.com/watch?v=b59fpAJ8Mfs)
