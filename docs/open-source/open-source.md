@@ -10,7 +10,7 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 
 ## Nice contributing pages
 
-- [Things Network](https://github.com/TheThingsNetwork/lorawan-stack/blob/develop/CONTRIBUTING.md)
+- [Things Network](https://github.com/TheThingsNetwork/lorawan-stack/blob/v3.23/CONTRIBUTING.md)
 - [Libra](https://github.com/libra/libra/blob/master/CONTRIBUTING.md)
 - [Arrow](https://github.com/apache/arrow/blob/master/docs/source/developers/contributing.rst)
 - [Texture](https://github.com/texturegroup/texture/blob/master/CONTRIBUTING.md)
