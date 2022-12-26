@@ -14,6 +14,10 @@ I try to include a lot of vegetables, nuts and eggs in my diet. [Foods rich in p
 
 Avoid empty calories like flour and sugar. Fruit sugar is okay as it does come with some vitamins and fiber.
 
+> Eat food. Not too much. Mostly plants.
+
+> Don't eat anything your great grandmother wouldn't recognize as food.
+
 ### Common foods
 
 I try to eat a lot of protein rich [foods](foods.md) as I do daily [exercises](../../fitness/exercises.md) and generally try to live an active life style without sitting too much.

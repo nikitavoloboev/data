@@ -223,3 +223,4 @@ title: Type Theory
 - [Curry–Howard by example (2021)](https://cjquines.com/files/curryhoward.pdf)
 - [Various attempts to model version control systems in Homotopy Type Theory](https://github.com/Aqissiaq/hpt-experiments)
 - [Hindley-Milner type inference (in Rust)](https://reasoning.page/compilers/hindley-milner-rust/) ([Lobsters](https://lobste.rs/s/nshprk/hindley_milner_type_inference_rust))
+- [Andrej Bauer: "The countable reals" (2022)](https://www.youtube.com/watch?v=4CBFUojXoq4)

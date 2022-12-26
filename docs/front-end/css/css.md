@@ -597,3 +597,4 @@ all: unset
 - [iPhone 14 Pro with dynamic island, on the web](https://github.com/junhoyeo/iphone)
 - [CSS Style Queries (2022)](https://ishadeed.com/article/css-container-style-queries/)
 - [Things CSS Could Still Use Heading Into 2023](https://chriscoyier.net/2022/12/21/things-css-could-still-use-heading-into-2023/) ([HN](https://news.ycombinator.com/item?id=34104682))
+- [CSS challenge: skewed highlight (2022)](https://pepelsbey.dev/articles/skewed-highlight/)

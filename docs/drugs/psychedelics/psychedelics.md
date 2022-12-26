@@ -187,3 +187,4 @@ It's good to be aware that [set and setting](https://www.reddit.com/r/LSD/commen
 - [Psychedelics: A Personal Take (2021)](https://ava.substack.com/p/psychedelics-a-personal-take) ([HN](https://news.ycombinator.com/item?id=33435140))
 - [Guide to Taking Psychedelics: Set & Setting](https://www.reddit.com/r/LSD/comments/bc7l6l/guide_to_taking_psychedelics_set_setting/)
 - [Movies to watch on Shrooms (2022)](https://www.reddit.com/r/MovieSuggestions/comments/z9v7ng/movies_to_watch_on_shrooms/)
+- [Most psychoactive book you know (any genre) (2022)](https://twitter.com/sashachapin/status/1607252417019772929)

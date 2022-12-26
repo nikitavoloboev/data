@@ -275,3 +275,4 @@ div.CodeMirror-cursor,
 - [Highly opinionated, fully functional Obsidian vault](https://github.com/bramses/bramses-highly-opinionated-vault-2023) ([HN](https://news.ycombinator.com/item?id=34034414))
 - [Obsidian Canvas](https://obsidian.md/canvas) - Infinite space for your ideas. ([HN](https://news.ycombinator.com/item?id=34066824))
 - [Obsidian Canvas Spec](https://github.com/obsidianmd/obsidian-api/blob/master/canvas.d.ts)
+- [Digital Gardening in Obsidian (2022)](https://bytes.zone/posts/digital-gardening-in-obsidian/) ([HN](https://news.ycombinator.com/item?id=34137703))
