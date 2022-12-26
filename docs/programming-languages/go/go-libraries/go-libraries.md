@@ -412,6 +412,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [verifier](https://github.com/XanderCheung/verifier) - Go JWT token verifier with storage.
 - [otp](https://github.com/creachadair/otp) - Go implementation of the HOTP and TOTP algorithms.
 - [oauth2dev](https://github.com/int128/oauth2dev) - Go package of OAuth 2.0 Device Authorization Grant.
+- [WebAuthn](https://github.com/go-webauthn/webauthn) - Webauthn/FIDO2 library in Go.
 
 ## DB
 

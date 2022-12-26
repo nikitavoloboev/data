@@ -50,3 +50,5 @@ title: PHP
 - [PHP, Symfony and Svelte boilerplate](https://github.com/Pierstoval/php-js-boilerplate)
 - [ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [PHP 8.2 (2022)](https://www.php.net/releases/8.2/en.php) ([HN](https://news.ycombinator.com/item?id=33907096))
+- [Devenv: Compose a Developer Environment Easily for PHP with Nix (2022)](https://shyim.me/blog/devenv-compose-developer-environment-for-php-with-nix/) ([HN](https://news.ycombinator.com/item?id=34130585))
+- [PHP Parser](https://github.com/php-rust-tools/parser) - Handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.

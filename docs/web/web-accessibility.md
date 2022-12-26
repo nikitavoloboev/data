@@ -123,3 +123,4 @@ Liked [Lost in Translation](https://www.youtube.com/watch?v=W4SN8G0q3Vk) talk.
 - [Better accessible names (2022)](https://hidde.blog/better-accessible-names/)
 - [Meaningful labels using ARIA – or not. (2022)](https://www.htmhell.dev/adventcalendar/2022/7/)
 - [Lost in Translation with Manuel Matuzović (2022)](https://www.youtube.com/watch?v=W4SN8G0q3Vk)
+- [Techniques for WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/)

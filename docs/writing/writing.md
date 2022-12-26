@@ -317,3 +317,4 @@ I love writing of [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQl
 - [Prefer simpler language](https://twitter.com/jasoncwarner/status/1593677724027326464)
 - [Ian Fleming Explains How to Write a Thriller](https://lithub.com/ian-fleming-explains-how-to-write-a-thriller/)
 - [Writing at work (2022)](https://lcamtuf.substack.com/p/writing-at-work)
+- [Ask HN: How to get better at writing? (2022)](https://news.ycombinator.com/item?id=34127742)

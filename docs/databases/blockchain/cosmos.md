@@ -42,3 +42,4 @@ title: Cosmos
 - [ibctest](https://github.com/strangelove-ventures/ibctest) - Orchestrates Go tests that utilize Docker containers for multiple IBC-compatible blockchains.
 - [ibc-rs](https://github.com/cosmos/ibc-rs) - Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
 - [eve](https://github.com/eve-network/eve) - Modern Cosmos-SDK blockchain intended to push forward the state of the art in Cosmos.
+- [Osmosis](https://github.com/osmosis-labs/osmosis) - AMM Laboratory.

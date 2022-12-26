@@ -571,3 +571,4 @@ for i, _ in enumerate(nums):
 - [Pyccel](https://github.com/pyccel/pyccel) - Python extension language using accelerators.
 - [Boring Python: Code quality (2022)](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/) ([HN](https://news.ycombinator.com/item?id=34061252))
 - [Signed distance functions in 46 lines of Python (2022)](https://vgel.me/posts/donut/) ([HN](https://news.ycombinator.com/item?id=34073298))
+- [pylyzer](https://github.com/mtshiba/pylyzer) - Fast static code analyzer & language server for Python.

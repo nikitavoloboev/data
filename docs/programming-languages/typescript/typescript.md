@@ -309,6 +309,7 @@ Run/bundle TS with [Bun](../javascript/bun.md).
 - [Collection of patterns for TypeScript 4.9](https://github.com/adamshaylor/cooking-with-typescript)
 - [Rewriting TypeScript in Rust? (2022)](https://www.totaltypescript.com/rewriting-typescript-in-rust) ([HN](https://news.ycombinator.com/item?id=33982347))
 - [TS Enums considered harmful (2022)](https://www.youtube.com/watch?v=jjMbPt_H3RQ)
+- [All I want for Christmas is these seven TypeScript improvements (2022)](https://effectivetypescript.com/2022/12/25/christmas/) ([HN](https://news.ycombinator.com/item?id=34132866))
 
 ## Images
 

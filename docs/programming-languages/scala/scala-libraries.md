@@ -224,6 +224,7 @@
 - [ToFu](https://github.com/tofu-tf/tofu) - Functional programming toolbox.
 - [derevo](https://github.com/tofu-tf/derevo) - Multiple instance derivations inside a single macro annotation.
 - [Volga](https://github.com/manatki/volga) - Comprehensions for Arrows and Monoidal categories.
+- [Gallia](https://github.com/galliaproject/gallia-core) - Schema-aware Scala library for data transformation.
 
 ## Links
 

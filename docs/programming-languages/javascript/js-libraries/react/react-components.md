@@ -347,6 +347,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [React-Symbols](https://github.com/pheralb/react-symbols) - Library for React with the icons of the VSCode theme "Symbols".
 - [Superkey](https://github.com/pheralb/superkey) - Beautiful command palette built with Tailwind CSS and Headless UI. ([Docs](https://superkey.vercel.app/docs/getting-started))
 - [React Wrap Balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable. ([Web](https://react-wrap-balancer.vercel.app/))
+- [React Resizable Panels](https://github.com/bvaughn/react-resizable-panels) - React components for resizable panel groups/layouts.
 
 ## Links
 

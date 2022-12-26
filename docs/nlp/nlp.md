@@ -743,3 +743,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning (2022)](https://arxiv.org/abs/2212.10773)
 - [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models (2022)](https://arxiv.org/abs/2211.10438) ([Code](https://github.com/mit-han-lab/smoothquant))
 - [Improving Language Model Behavior by Training on a Curated Dataset (2021)](https://openai.com/blog/improving-language-model-behavior/)
+- [Reasoning in Large Language Models](https://github.com/jeffhj/LM-reasoning)
