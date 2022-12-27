@@ -271,3 +271,4 @@
 - [In what situations would a Bayesian model work better than frequentist model? (2022)](https://www.reddit.com/r/datascience/comments/y4obe5/in_what_situations_would_a_bayesian_model_work/)
 - [Ask HN: Data Scientists, what libraries do you use for timeseries forecasting? (2022)](https://news.ycombinator.com/item?id=33447976)
 - [Goodbye, Data Science (2022)](https://ryxcommar.com/2022/11/27/goodbye-data-science/) ([HN](https://news.ycombinator.com/item?id=33787270))
+- [Ask HN: Upskilling as a Data Engineer (2022)](https://news.ycombinator.com/item?id=34147090)

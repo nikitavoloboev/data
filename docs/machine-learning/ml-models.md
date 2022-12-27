@@ -4,6 +4,8 @@
 
 Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [generative](generative-machine-learning.md)) with their [HTTP template](https://github.com/bananaml/serverless-template).
 
+[XManager](https://github.com/deepmind/xmanager) is nice for managing ML model experiments.
+
 ## Links
 
 - [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures](https://github.com/astorfi/lip-reading-deeplearning)

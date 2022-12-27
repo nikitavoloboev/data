@@ -134,3 +134,4 @@ Use it for projects as a wiki of docs & notes for teams. I [share most boards in
 - [How Notion leveraged community to build a $10B business (2022)](https://www.youtube.com/watch?v=bY5KC9Gguz8)
 - [Rendering a Notion page as HTML using SvelteKit](https://vega.rd.no/writing/website-for-2023)
 - [Learn Notion resources](https://twitter.com/heyeaslo/status/1607201083427852289)
+- [Notion on Next](https://github.com/williamlmao/notion-on-next) - Framework that makes it easy to develop a Next.js App using Notion as a CMS..

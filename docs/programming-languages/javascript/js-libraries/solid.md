@@ -189,3 +189,4 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [Fine-grained reactivity - Deep dive into SolidJS](https://github.com/everweij/solidjs-fine-grained-reactivity)
 - [create-t3-app gone solid: tRPC, zod, prisma, tailwindcss, unocss; based on SolidStart (2022)](https://www.youtube.com/watch?v=S_czm-Oytns)
 - [Solid Auth](https://github.com/OrJDev/solid-auth) - Authentication for Solid & SolidStart.
+- [decorock](https://github.com/ddPn08/decorock) - Styled component library for solid.

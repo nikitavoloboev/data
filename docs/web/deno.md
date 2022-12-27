@@ -4,7 +4,7 @@ title: Deno
 
 # [Deno](https://github.com/denoland/deno)
 
-[Deno by Example](https://examples.deno.land/) is good intro. [dnt](https://github.com/denoland/dnt) is nice tool to deploy to npm. [Trex](https://github.com/crewdevio/Trex) seems like a neat package manager. [Peko](https://github.com/sebringrose/peko) seems nice as a web framework.
+[Deno by Example](https://examples.deno.land/) is good intro. [dnt](https://github.com/denoland/dnt) is [nice tool to deploy to npm](https://deno.com/blog/dnt-oak). [Trex](https://github.com/crewdevio/Trex) seems like a neat package manager. [Peko](https://github.com/sebringrose/peko) seems nice as a web framework.
 
 Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](https://www.youtube.com/watch?v=SYkzk_j3yb0) is a nice overview.
 
@@ -20,7 +20,7 @@ Share my Deno modules [here](https://github.com/nikitavoloboev/ts).
 
 I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) or [brawler](https://github.com/hasundue/brawler) seem nice too.
 
-I [deploy my Deno modules to Deno.land & NPM](https://deno.com/blog/dnt-oak).
+[dax](https://github.com/dsherret/dax) is great way to call shell from Deno.
 
 ## OSS Deno apps
 
@@ -349,3 +349,5 @@ I [deploy my Deno modules to Deno.land & NPM](https://deno.com/blog/dnt-oak).
 - [nublar](https://github.com/hasundue/nublar) - Command-line tool to manage Deno scripts installed via deno install.
 - [depsinfo](https://github.com/nsf/depsinfo) - Analyze dependencies and libraries of a deno script.
 - [How to publish Deno modules to NPM (2022)](https://deno.com/blog/dnt-oak)
+- [Deno - YouTube](https://www.youtube.com/@deno_land/videos)
+- [Deno Sessions: Deno 1.28, npm specifiers, Deno lock file, and more (2022)](https://www.youtube.com/watch?v=eRs_MGdCXGU)

@@ -423,3 +423,6 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [List of open geospatial datasets on AWS](https://github.com/giswqs/aws-open-data-geo)
 - [AWS re:Invent 2022 - A day in the life of a billion requests](https://www.youtube.com/watch?v=tPr1AgGkvc4)
 - [IAM Floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface.
+- [AWS Events Playlists - YouTube](https://www.youtube.com/@AWSEventsChannel/playlists)
+- [AWS re:Invent 2022 - Practical experience with a serverless-first strategy at Capital One](https://www.youtube.com/watch?v=NZVNAEK6shc)
+- [AWS re:Invent 2022 - Designing event-driven integrations using Amazon EventBridge](https://www.youtube.com/watch?v=W3Rh70jG-LM)
