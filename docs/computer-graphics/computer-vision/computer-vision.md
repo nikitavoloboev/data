@@ -1058,3 +1058,4 @@
 - [Knowledge Condensation Distillation (2022)](https://arxiv.org/abs/2207.05409) ([Code](https://github.com/dzy3/KCD))
 - [NeuMan: Neural Human Radiance Field from a Single Video (2022)](https://arxiv.org/abs/2203.12575) ([Code](https://github.com/apple/ml-neuman))
 - [ScaleNet: Searching for the Model to Scale (2022)](https://arxiv.org/abs/2207.07267) ([Code](https://github.com/luminolx/ScaleNet))
+- [Very Recent Progress in 3D Hand Tasks](https://github.com/SeanChenxy/Hand3DResearch)
