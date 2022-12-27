@@ -1057,3 +1057,4 @@
 - [SwinFIR: Revisiting the SwinIR with Fast Fourier Convolution and Improved Training for Image Super-Resolution (2022)](https://arxiv.org/abs/2208.11247)
 - [Knowledge Condensation Distillation (2022)](https://arxiv.org/abs/2207.05409) ([Code](https://github.com/dzy3/KCD))
 - [NeuMan: Neural Human Radiance Field from a Single Video (2022)](https://arxiv.org/abs/2203.12575) ([Code](https://github.com/apple/ml-neuman))
+- [ScaleNet: Searching for the Model to Scale (2022)](https://arxiv.org/abs/2207.07267) ([Code](https://github.com/luminolx/ScaleNet))

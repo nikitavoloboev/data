@@ -1960,6 +1960,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Go utilities](https://github.com/JohnStarich/go)
 - [low](https://github.com/openacid/low) - Low level data type and utils in Go.
 - [rtreego](https://github.com/dhconnelly/rtreego) - R-Tree library for Go.
+- [ping](https://github.com/go-ping/ping) - ICMP Ping library for Go.
 
 ## Links
 

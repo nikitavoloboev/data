@@ -8,7 +8,7 @@ title: TypeScript
 
 [TypeScript Error Translator](https://github.com/mattpocock/ts-error-translator) is nice.
 
-Run/bundle TS with [Bun](../javascript/bun.md).
+Run/deploy TS with [Deno](../../web/deno.md).
 
 [stc](https://github.com/dudykr/stc)'s TS type checker in [Rust](../rust/rust.md) is exciting.
 

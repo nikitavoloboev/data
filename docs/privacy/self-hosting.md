@@ -53,3 +53,4 @@
 - [Serve self hosted media efficiently (2022)](https://www.reddit.com/r/selfhosted/comments/z0hq5w/im_using_cloudflare_tunnels_and_love_them_now_i/)
 - [Fractal Networks](https://fractalnetworks.co/) - Bringing self-hosting to the mainstream. ([GitHub](https://github.com/fractalnetworksco)) ([Self-hosted Gateway](https://github.com/fractalnetworksco/selfhosted-gateway))
 - [Ask HN: Host a website from a living room in 2022?](https://news.ycombinator.com/item?id=34065234)
+- [Most used selfhosted services in 2022?](https://www.reddit.com/r/selfhosted/comments/zwcns3/most_used_selfhosted_services_in_2022/)

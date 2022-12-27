@@ -60,3 +60,4 @@ I put most everything I create under public domain. So either [CC0](https://crea
 - [Ask HN: Why isn't there something like Let's Encrypt for document signing? (2022)](https://news.ycombinator.com/item?id=33921115)
 - [Corporate Legibility for Software Engineers (2022)](https://matt.blwt.io/post/corporate-legibility-for-engineers/)
 - [Martin Shkreli Explains Why Sam Bankman-Fried Got Lucky With His Judge (2022)](https://www.youtube.com/watch?v=9B13IUpGWqg)
+- [LegalEagle - YouTube](https://www.youtube.com/@LegalEagle/videos)

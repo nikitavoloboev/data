@@ -6,7 +6,7 @@ title: Node.js
 
 [Tao of Node](https://alexkondov.com/tao-of-node/) is useful. [Broken Promises](https://www.youtube.com/watch?v=XV-u_Ow47s0) is a great talk on JS promises.
 
-I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
+Currently prefer using [Deno](../../web/deno.md) instead of Node. Sometimes use [Bun](../../programming-languages/javascript/bun.md) too.
 
 [H3](https://github.com/unjs/h3) is nice HTTP lib. If you're not using Bun, [tsno](https://github.com/egoist/tsno) & [tsx](https://github.com/esbuild-kit/tsx) are good for running node.
 
