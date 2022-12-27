@@ -996,3 +996,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Comprehensive Rust Guide from Google](https://google.github.io/comprehensive-rust/) ([HN](https://news.ycombinator.com/item?id=34091271)) ([Reddit](https://www.reddit.com/r/rust/comments/zrs1of/new_rust_course_by_android_comprehensive_rust/)) ([Code](https://github.com/google/comprehensive-rust))
 - [Implementing Rayon's Parallel Iterators - A Tutorial (2022)](https://geo-ant.github.io/blog/2022/implementing-parallel-iterators-rayon/)
 - [AWS re:Invent 2022 - Rust is interesting, but does it really make sense for me?](https://www.youtube.com/watch?v=DHMfRFkhv-w)
+- [Experimental Rust Feature: Safer Interoperable ABI](https://github.com/rust-lang/rust/pull/105586) ([HN](https://news.ycombinator.com/item?id=34145972))

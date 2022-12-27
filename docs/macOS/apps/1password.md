@@ -52,3 +52,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [Otti](https://github.com/dnaka91/otti) - One-time password manager for the terminal, with interactive and fancy TUI.
 - [Keyring-rs](https://github.com/hwchen/keyring-rs) - Cross-platform library and utility to manage passwords.
 - [ripasso](https://github.com/cortex/ripasso) - Simple password manager written in Rust.
+- [Password Manager Comparison](https://password-manager.soft-wa.re/) ([HN](https://news.ycombinator.com/item?id=34149099))

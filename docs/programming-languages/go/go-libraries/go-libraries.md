@@ -10,6 +10,8 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 
 [Tutorial on creating go module](https://go.dev/doc/tutorial/create-module) is great intro. [depu](https://github.com/kevwan/depu) is nice for updating dependencies.
 
+[mapstructure](https://github.com/mitchellh/mapstructure) is nice decoding values from data streams like JSON.
+
 ## CLI
 
 - [Clir](https://github.com/leaanthony/clir) - Simple and Clear CLI library. Dependency free.
@@ -720,6 +722,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Gonso](https://github.com/cpuguy83/gonso) - Library to do safe Linux namespace manipulation in Go.
 - [go-perf](https://github.com/aclements/go-perf) - Go packages and tools for Linux perf.
 - [debpkg](https://github.com/xor-gate/debpkg) - Go library to create Debian Linux packages.
+- [go-iptables](https://github.com/coreos/go-iptables) - Go bindings for iptables utility.
 
 ## Apple
 

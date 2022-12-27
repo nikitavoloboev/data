@@ -290,3 +290,4 @@ title: Spatial analysis
 - [gpq](https://github.com/tschaub/gpq) - Utility for working with GeoParquet.
 - [Visualize Cloud Optimized GeoTIFF in browser](https://github.com/developmentseed/rio-viz)
 - [What does Overture Map mean for the future of OpenStreetMap? (2022)](https://blog.andygol.co.ua/en/2022/12/24/creating-overture-map-and-future-of-osm/) ([HN](https://news.ycombinator.com/item?id=34122719))
+- [ol-mapbox-style](https://github.com/openlayers/ol-mapbox-style) - Use Mapbox Style objects with OpenLayers.

@@ -4,6 +4,8 @@ title: Minecraft
 
 # [Minecraft](https://www.minecraft.net/en-us/)
 
+[Hajime](https://github.com/Slackadays/Hajime) is nice.
+
 ## Notes
 
 - [Minecraft servers can serve as great private social networks for your friends.](https://news.ycombinator.com/item?id=29470565)
@@ -103,7 +105,7 @@ title: Minecraft
 - [Grakkit](https://github.com/grakkit/grakkit) - Modern JavaScript development environment for Minecraft.
 - [Hopper](https://github.com/tebibytemedia/hopper) - Minecraft mod manager for the terminal.
 - [Evocraft-py](https://github.com/real-itu/Evocraft-py) - Python interface for Minecraft built on gRPC.
-- [Hajime](https://github.com/Slackadays/Hajime) - Ultimate Minecraft server startup script.
+- [Hajime](https://github.com/Slackadays/Hajime) - Advanced Minecraft server startup system. ([Web](https://slackadays.github.io/Hajime/))
 - [My thoughts on writing a Minecraft server from scratch in Bash](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/) ([HN](https://news.ycombinator.com/item?id=30347501)) ([Lobsters](https://lobste.rs/s/rbocxw/my_thoughts_on_writing_minecraft_server))
 - [Minecraft Modern](https://wiki.vg/Main_Page) - Reverse-engineering Minecraft.
 - [Minecraft compiled natively for  Silicon](https://github.com/raphtlw/m1necraft)

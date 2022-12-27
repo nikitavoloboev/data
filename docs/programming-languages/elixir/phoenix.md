@@ -129,3 +129,4 @@ title: Phoenix framework
 - [LiveView Native Core](https://github.com/liveviewnative/liveview-native-core) - Provides core language-agnostic functionality for LiveView Native across platforms.
 - [Brief Introduction to Phoenix and LiveView (2022)](https://danieljaouendevelopment.com/2022/12/18/a-brief-introduction-to-phoenix-and-liveview-part-1/)
 - [Meta programmable functional notebooks with Livebook - José Valim (2022)](https://www.youtube.com/watch?v=EhSNXWkji6o)
+- [ExTerm](https://github.com/E-xyza/ex_term) - Phoenix LiveView Terminal LiveComponent.

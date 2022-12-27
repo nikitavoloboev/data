@@ -23,3 +23,4 @@
 - [Awesome Digital Nomads](https://github.com/cbovis/awesome-digital-nomads)
 - [Cheapest Places to Live, with Good Quality of Life? (2022)](https://www.reddit.com/r/ExpatFIRE/comments/ws1xf1/cheapest_places_to_live_with_good_quality_of_life/)
 - [What are some of your favorite purchases you've made for your digital nomading? (2022)](https://www.reddit.com/r/digitalnomad/comments/y40vu9/im_just_getting_into_the_digital_nomad_life_what/)
+- [Best apps and tools for digital nomads (2022)](https://www.reddit.com/r/digitalnomad/comments/zvqw0m/best_apps_and_tools_for_digital_nomads/)

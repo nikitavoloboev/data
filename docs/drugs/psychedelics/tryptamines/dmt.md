@@ -121,3 +121,4 @@ Which I then use with [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.m
 - [Vaporizer for DMT & Salvia](https://www.reddit.com/r/vaporents/comments/tv5ll5/vaporizer_for_dmt_salvia/)
 - [DMT Extraction Teks](https://wiki.dmt-nexus.me/Category:Extraction_Tek)
 - [DMT STB Extraction Teks](https://wiki.dmt-nexus.me/Category:Extraction_Tek#STB)
+- [Advice for first time DMT](https://www.reddit.com/r/DMT/comments/zwfdzq/soooo_my_dmt_will_finally_be_here_today_tips/)

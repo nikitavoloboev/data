@@ -6,6 +6,8 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 
 [Devbox](https://github.com/jetpack-io/devbox) is nice for bootstrapping environments.
 
+It's interesting seeing how much internal infrastructure [Google](https://github.com/jhuangtw/xg2xg) and [FB](https://github.com/greko6/xfb2xfb) uses.
+
 ## Notes
 
 - [You can make your default branch `staging`, and assign it a custom domain. Using Vercel.](https://twitter.com/rauchg/status/1383072230536404996)

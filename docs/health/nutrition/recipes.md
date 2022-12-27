@@ -47,6 +47,7 @@ Use [Mela](https://mela.recipes/) to store my recipes. [Crouton](https://crouton
 - [Old garlic soup in bread](https://www.youtube.com/watch?v=rSpHokFp7Js)
 - [Vegetable salad](https://www.reddit.com/r/PlantBasedDiet/comments/yyp19l/where_did_our_lunch_go/)
 - [Seasoned Brown Lentils](https://www.acouplecooks.com/seasoned-brown-lentils/)
+- [Торт Мамулин](https://www.youtube.com/watch?v=Pxys9FxJQsc)
 
 ## Links
 
@@ -139,3 +140,4 @@ Use [Mela](https://mela.recipes/) to store my recipes. [Crouton](https://crouton
 - [Easy High-Protein Salad Recipes building muscle](https://www.youtube.com/watch?v=3SwWdS-tnIk)
 - [What is a yummy food that can be completely ruined by a small mistake? (2022)](https://www.reddit.com/r/Cooking/comments/z845eg/what_is_a_yummy_food_that_can_be_completely/)
 - [A Couple Cooks](https://www.acouplecooks.com/) - Healthy vegetarian, vegan, and whole food recipes.
+- [Вкусная минутка - YouTube](https://www.youtube.com/@tastyminute/videos)

@@ -61,3 +61,4 @@ Many people still have bad stigma attached of people sharing nudes in public but
 - [Nausicaa Yami by Cacique — RektMag](https://www.rektmag.net/home/2022/8/26/the-eyes-chico-they-never-lie)
 - [NSFW posts from Twitter](https://topicc.netlify.app/)
 - [Референсы для секси-фоточек если ты мужчина](https://twitter.com/rusyasurkova/status/1606615401127096321)
+- [How to take sexy pictures as an adult?](https://www.reddit.com/r/sexover30/comments/zvtag5/how_to_take_sexy_pictures_as_an_adult/)

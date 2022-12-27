@@ -2423,6 +2423,7 @@
 - [desim](https://github.com/garro95/desim) - Discrete-time events simulation framework, written in rust, using the generator experimental feature.
 - [rend](https://github.com/rkyv/rend) - Endian-aware primitives.
 - [rel](https://github.com/rkyv/rel) - Object system for Rust based on relative pointers.
+- [nnnoiseless](https://github.com/jneem/nnnoiseless) - Recurrent neural network for audio noise reduction.
 
 ## Cargo Plugins
 

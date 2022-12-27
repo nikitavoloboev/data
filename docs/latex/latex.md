@@ -165,3 +165,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Digestif](https://github.com/astoff/digestif) - Language server for TeX and friends.
 - [Commutative diagrams with TikZ](https://github.com/astoff/tikz-cd)
 - [SVG to TikZ converter](https://github.com/johnsbrew/svg2tikz)
+- [Random collection of standalone TikZ images](https://github.com/janosh/tikz)

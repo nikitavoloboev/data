@@ -1075,6 +1075,7 @@
 - [EventEmitter3](https://github.com/primus/eventemitter3) - High performance EventEmitter.
 - [Fuzzyset](https://github.com/Glench/fuzzyset.js) - Fuzzy string set for JS.
 - [ffjavascript](https://github.com/iden3/ffjavascript) - Finite Field Library in JavaScript.
+- [HR.js](https://github.com/mburakerman/hrjs) - Tiny JavaScript plugin for highlighting and replacing text in the DOM.
 
 ## Links
 

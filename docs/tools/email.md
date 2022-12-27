@@ -301,3 +301,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Mailpit](https://github.com/axllent/mailpit) - Multi-platform email testing tool for developers. Acts as both an SMTP server, and provides a web interface to view all captured emails.
 - [Svelte Emails](https://github.com/GauBen/svelte-emails) - Create emails with Svelte and Vite.
 - [Ask HN: Do You Host Your Own Email? (2022)](https://news.ycombinator.com/item?id=34117386)
+- [EmailTriager](https://www.emailtriager.com/) - Email on autopilot. ([HN](https://news.ycombinator.com/item?id=34150040))

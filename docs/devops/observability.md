@@ -79,3 +79,4 @@ title: Observability
 - [Awesome Monitoring](https://github.com/crazy-canux/awesome-monitoring)
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Endpoint visibility and collection tool.
 - [Stanza](https://github.com/observIQ/stanza) - Fast and lightweight log transport and processing agent.
+- [Using eBPF and predefined inspections to minimize “observability tax” (2022)](https://coroot.com/blog/minimizing-observability-tax) ([HN](https://news.ycombinator.com/item?id=34149804))

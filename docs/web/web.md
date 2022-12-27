@@ -482,4 +482,4 @@
 - [Fully Typed Web Apps (2022)](https://www.epicweb.dev/fully-typed-web-apps)
 - [Fireship.io](https://fireship.io/) - Build and ship your app faster (courses). ([Code](https://github.com/fireship-io/fireship.io)) ([HN](https://news.ycombinator.com/item?id=33925197))
 - [Web Actions API](https://github.com/actiontray/web-actions-api) - Proposal specification standard for fetching details of actionable items with their state available under given Internet domain.
-- [Building Hypermedia Systems](https://hypermedia.systems/) - Simpler approach to building applications on the Web and beyond with htmx and HyperView.
+- [Building Hypermedia Systems](https://hypermedia.systems/) - Simpler approach to building applications on the Web and beyond with htmx and HyperView. ([Code](https://github.com/bigskysoftware/hypermedia-systems))

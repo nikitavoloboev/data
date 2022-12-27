@@ -376,7 +376,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Teemu](https://www.instagram.com/teemu.jpeg/)
 - [Erik Witsoe](https://www.instagram.com/ewitsoe/)
 - [Christoph Zoubek](http://www.christophzoubek.com/portraits) ([Interview](https://www.sceniusgallery.com/journal/behind-the-lens-christoph-zoubek)) ([Reddit](https://www.reddit.com/user/chris_zou))
-- [TJ Holowaychuk](http://tjholowaychuk.com/)
+- [TJ Holowaychuk](https://www.tjholowaychuk.com/) ([IG](https://www.instagram.com/tjholowaychuk/))
 - [Joey MacLennan](https://www.instagram.com/joeymaclennan/)
 - [LS Martin](https://www.instagram.com/lsmartphoto/)
 - [Andy Lee](http://www.andylee.co/)

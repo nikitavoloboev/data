@@ -745,3 +745,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Improving Language Model Behavior by Training on a Curated Dataset (2021)](https://openai.com/blog/improving-language-model-behavior/)
 - [Reasoning in Large Language Models](https://github.com/jeffhj/LM-reasoning)
 - [SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization (2022)](https://arxiv.org/abs/2212.10465) ([Code](https://github.com/skywalker023/sodaverse))
+- [Happy Transformer](https://github.com/EricFillion/happy-transformer) - Package built on top of Hugging Face's transformers library that makes it easy to utilize state-of-the-art NLP models.
