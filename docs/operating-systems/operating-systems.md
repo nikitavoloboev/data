@@ -9,7 +9,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 ## Interesting OSes
 
 - [MirageOS](https://github.com/mirage/mirage) - Library operating system that constructs unikernels. ([Docs](https://docs.mirage.io/)) ([Docs code](https://github.com/mirage/docs)) ([mirage-solo5](https://github.com/mirage/mirage-solo5)) ([The road ahead for MirageOS in 2021](https://hannes.robur.coop/Posts/NGI)) ([MirageOS 4.0](https://mirage.io/blog/announcing-mirage-40)) ([HN](https://news.ycombinator.com/item?id=30840571)) ([Examples of simple MirageOS apps](https://github.com/mirage/mirage-skeleton))
-- [QubesOS](https://www.qubes-os.org/) - Reasonably secure operating system. ([Lobsters](https://lobste.rs/s/nh3vfk/qubes_os_reasonably_secure_operating))
+- [QubesOS](https://www.qubes-os.org/) - Reasonably secure operating system. ([Lobsters](https://lobste.rs/s/nh3vfk/qubes_os_reasonably_secure_operating)) ([First Impressions](https://www.youtube.com/watch?v=DmKMi_XjIqA))
 - [Plan 9](https://9p.io/plan9/) ([Plan 9 C Compiler for RISC-V](https://www.youtube.com/watch?v=LHJqdXGb0uc)) ([Talk](https://spacepub.space/w/1605f200-ea8a-49e6-a0e5-92f6bc509dbe))
 - [Fuchsia](fuchsia-os.md)
 - [DahliaOS](https://dahliaos.io/) - Modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS. ([GitHub](https://github.com/dahlia-os)) ([HN](https://news.ycombinator.com/item?id=24976732)) ([Pangolin Desktop UI](https://github.com/dahlia-os/pangolin-desktop)) ([ISO releases](https://github.com/dahliaOS/releases))

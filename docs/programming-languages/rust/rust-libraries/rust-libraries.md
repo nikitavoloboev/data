@@ -4,6 +4,8 @@
 
 [shuttle](https://github.com/awslabs/shuttle) is nice for testing concurrent code. [Burn](https://github.com/burn-rs/burn) looks nice as ML library. [Typeshare](https://github.com/1Password/typeshare) is nice for type sharing between languages.
 
+[rkyv](https://github.com/rkyv/rkyv) is great for serialization.
+
 ## CLI
 
 - [xflags](https://github.com/matklad/xflags) - Moderately simple command line arguments parsing.
@@ -154,7 +156,7 @@
 - [backoff](https://github.com/ihrwein/backoff) - Small crate which allows you to retry operations according to backoff policies.
 - [rust-jwt](https://github.com/durch/rust-jwt) - Very simple JWT generation lib.
 - [Avalanche](https://github.com/DJankauskas/avalanche) - Rust library for building performant Web apps.
-- [Dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more. ([Docs](https://dioxuslabs.com/guide/)) ([TODO App Example](https://github.com/JunichiSugiura/rust-ecs-todomvc))
+- [Dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more. ([Docs](https://dioxuslabs.com/guide/)) ([TODO App Example](https://github.com/JunichiSugiura/rust-ecs-todomvc)) ([HN](https://news.ycombinator.com/item?id=34140206))
 - [webview_rust](https://github.com/webview/webview_rust) - Rust Bindings to webview.
 - [rsass](https://github.com/kaj/rsass) - SASS reimplemented in rust with nom.
 - [connect-rs](https://github.com/sachanganesh/connect-rs) - Message-queue abstraction over async network streams.
@@ -559,6 +561,7 @@
 - [stubr](https://github.com/beltram/stubr) - Rust implementation of Wiremock.
 - [asserhttp](https://github.com/beltram/asserhttp) - Fluent HTTP response assertions.
 - [Google Rust testing library](https://github.com/google/googletest-rust)
+- [Mry](https://github.com/ryo33/mry) - Simple but powerful mocking library for structs, traits, and function.
 
 ## Error
 
@@ -2418,6 +2421,7 @@
 - [PriorityQueue](https://github.com/garro95/priority-queue) - Priority queue for Rust with efficient change function.
 - [desim](https://github.com/garro95/desim) - Discrete-time events simulation framework, written in rust, using the generator experimental feature.
 - [rend](https://github.com/rkyv/rend) - Endian-aware primitives.
+- [rel](https://github.com/rkyv/rel) - Object system for Rust based on relative pointers.
 
 ## Cargo Plugins
 

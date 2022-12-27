@@ -1055,3 +1055,5 @@
 - [DisCoScene: Spatially Disentangled Generative Radiance Fields for Controllable 3D-aware Scene Synthesis (2022)](https://arxiv.org/abs/2212.11984) ([Code](https://github.com/snap-research/discoscene))
 - [FFNeRV: Flow-Guided Frame-Wise Neural Representations for Videos (2022)](https://maincold2.github.io/ffnerv/) ([Code](https://github.com/maincold2/FFNeRV))
 - [SwinFIR: Revisiting the SwinIR with Fast Fourier Convolution and Improved Training for Image Super-Resolution (2022)](https://arxiv.org/abs/2208.11247)
+- [Knowledge Condensation Distillation (2022)](https://arxiv.org/abs/2207.05409) ([Code](https://github.com/dzy3/KCD))
+- [NeuMan: Neural Human Radiance Field from a Single Video (2022)](https://arxiv.org/abs/2203.12575) ([Code](https://github.com/apple/ml-neuman))

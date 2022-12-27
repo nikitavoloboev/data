@@ -803,3 +803,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [NotifyLog](https://notifylog.com/) - One stop tool for events tracking and analytics.
 - [Fogbender](https://fogbender.com/) - Team messaging widget for B2B support.
 - [APITable](https://github.com/apitable/apitable) - Open-source Airtable alternative. ([Web](https://apitable.com/)) ([HN](https://news.ycombinator.com/item?id=34127804))
+- [Links.dev](https://links.dev/) - Simplify your online presence with one simple link. ([Code](https://github.com/fatih-yavuz/links.dev))

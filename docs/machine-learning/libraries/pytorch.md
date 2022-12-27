@@ -491,3 +491,5 @@ title: PyTorch
 - [TencentPretrain: Tencent Pre-training Framework](https://github.com/Tencent/TencentPretrain)
 - [Zuko](https://github.com/francois-rozet/zuko) - Normalizing flows in PyTorch.
 - [PIQA](https://github.com/francois-rozet/piqa) - PyTorch Image Quality Assessment.
+- [Neural Network Force Field based on PyTorch](https://github.com/learningmatter-mit/NeuralForceField)
+- [MVTorch](https://github.com/ajhamdi/mvtorch) - Modular PyTorch library for multi-view research on 3D understanding and 3D generation.

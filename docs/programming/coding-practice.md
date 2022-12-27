@@ -67,6 +67,7 @@
 
 ## Advent of Code solutions
 
+- [Starter template for solving Advent of Code in Rust](https://github.com/fspoettel/advent-of-code-rust)
 - [2022 solutions in OCaml](https://github.com/DrearyLisper/aoc-2022)
 - [2022 Solutions in different languages](https://github.com/mattmight/advent-of-code-2022)
 - [AOC Rust 2021](https://github.com/aldanor/aoc-2021)

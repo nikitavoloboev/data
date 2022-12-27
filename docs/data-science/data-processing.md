@@ -146,4 +146,3 @@
 - [DataFusion-tui](https://github.com/datafusion-contrib/datafusion-tui) - Terminal based, extensible, interactive data analysis tool using SQL.
 - [Querying Parquet with Millisecond Latency (2022)](https://www.influxdata.com/blog/querying-parquet-millisecond-latency/)
 - [Using Commandline To Process CSV files (2022)](https://muhammadraza.me/2022/data-oneliners/)
-- [LSM in a Week](https://github.com/skyzh/mini-lsm) - Tutorial of building an LSM-Tree storage engine in a week.

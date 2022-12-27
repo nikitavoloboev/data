@@ -4,6 +4,8 @@
 
 [Lyn Alden](https://twitter.com/LynAldenContact) & [Patrick Boyle](https://www.youtube.com/c/PatrickBoyleOnFinance/videos) are great.
 
+Liked this [episode on issues with monetary policies](https://hiddenforces.io/podcasts/monetary-breakdown-jeff-snider).
+
 ## Notes
 
 - Capitalism = making money through ownership of capital rather than purely by labour.
@@ -173,3 +175,4 @@
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html) ([Code](https://github.com/aeturrell/coding-for-economists))
 - [Patrick Boyle - YouTube](https://www.youtube.com/c/PatrickBoyleOnFinance/videos)
 - [Trading Economics](https://tradingeconomics.com/) - View more than 20 million economic indicators for 196 countries.
+- [Are We Headed Towards a Monetary Breakdown? | Jeff Snider (2022)](https://hiddenforces.io/podcasts/monetary-breakdown-jeff-snider)

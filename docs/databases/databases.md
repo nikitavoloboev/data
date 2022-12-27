@@ -18,6 +18,8 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 
 [Slashbase](https://slashbase.com/) is nice GUI app to talk with databases.
 
+[LSM in a Week](https://github.com/skyzh/mini-lsm) is nice tutorial for building LSM-Tree storage engine.
+
 ## Interesting
 
 - [PlanetScale](planetscale.md) - Database for Developers. ([HN](https://news.ycombinator.com/item?id=27197873)) ([Release Article](https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers))
@@ -739,3 +741,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Database Drivers: Naughty or Nice? (2022)](https://www.prequel.co/blog/database-drivers-naughty-or-nice) ([HN](https://news.ycombinator.com/item?id=33955983))
 - [How to visualize the database using Minimal Modeling (2022)](https://minimalmodeling.substack.com/p/how-to-visualize-your-database-using)
 - [QPML](https://github.com/andygrove/qpml) - Query Plan Markup Language.
+- [LSM in a Week](https://github.com/skyzh/mini-lsm) - Tutorial of building an LSM-Tree storage engine in a week.

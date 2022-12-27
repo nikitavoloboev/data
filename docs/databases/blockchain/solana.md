@@ -312,3 +312,4 @@ I also think solving [micro transactions](https://news.ycombinator.com/item?id=3
 - [Solana Tools](https://github.com/cryptoloutre/solana-tools) - Bunch of tools to help people in the Solana ecosystem.
 - [Solana Pay Scaffold](https://github.com/solana-labs/solana-pay-scaffold) - Scaffolding for a dapp using Solana Pay.
 - [Whirlpools](https://github.com/orca-so/whirlpools) - Open source concentrated liquidity AMM contract on Solana.
+- [Golana](https://github.com/oxfeeefeee/golana) - Write on Solana in Go.

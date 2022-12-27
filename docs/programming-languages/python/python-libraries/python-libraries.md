@@ -1093,6 +1093,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [PyExcelerate](https://github.com/kz26/PyExcelerate) - Accelerated Excel XLSX Writing Library for Python.
 - [Pyrsistent](https://github.com/tobgu/pyrsistent) - Persistent/Immutable/Functional data structures for Python.
 - [bstruct](https://github.com/flxbe/bstruct) - Simple and efficient binary (de)serialization using regular type annotations.
+- [dbt utils](https://github.com/dbt-labs/dbt-utils) - Utility functions for dbt projects.
 
 ## Notes
 

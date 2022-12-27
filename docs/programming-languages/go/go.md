@@ -932,3 +932,4 @@ if *boolArgPtr != false {
 - [Go is modern PHP (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/zta49c/go_is_modern_php/)
 - [Go SSA Playground](https://golang.design/gossa) - Tool for exploring Go's SSA intermediate representation. ([Code](https://github.com/golang-design/ssaplayground))
 - [Go Proposals](https://research.swtch.com/proposals)
+- [Event-Driven Architecture in Go (2022)](https://www.packtpub.com/product/event-driven-architecture-in-golang/9781803238012) ([Code](https://github.com/PacktPublishing/Event-Driven-Architecture-in-Golang))

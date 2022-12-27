@@ -138,3 +138,5 @@ title: Xcode
 - [XSTooling](https://github.com/Alexander-Ignition/XSTooling) - Xcode + Swift toolset.
 - [Automatically merging conflicts in Xcode project files (2021)](https://blog.kulman.sk/automatically-merge-xcode-project-conflicts/)
 - [Copilot for Xcode](https://github.com/intitni/CopilotForXcode)
+- [Bazelize](https://github.com/XCodeBazelize/Bazelize) - CLI tool turn your Xcode project to Bazel.
+- [XcodeMigrate](https://github.com/XcodeMigrate/XcodeMigrate) - Generate Bazel BUILD files from Xcode projects.

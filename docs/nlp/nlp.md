@@ -744,3 +744,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models (2022)](https://arxiv.org/abs/2211.10438) ([Code](https://github.com/mit-han-lab/smoothquant))
 - [Improving Language Model Behavior by Training on a Curated Dataset (2021)](https://openai.com/blog/improving-language-model-behavior/)
 - [Reasoning in Large Language Models](https://github.com/jeffhj/LM-reasoning)
+- [SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization (2022)](https://arxiv.org/abs/2212.10465) ([Code](https://github.com/skywalker023/sodaverse))

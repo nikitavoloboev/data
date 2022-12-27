@@ -188,3 +188,4 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [SolidStart implementation of NextAuth](https://github.com/OrJDev/auth-solid)
 - [Fine-grained reactivity - Deep dive into SolidJS](https://github.com/everweij/solidjs-fine-grained-reactivity)
 - [create-t3-app gone solid: tRPC, zod, prisma, tailwindcss, unocss; based on SolidStart (2022)](https://www.youtube.com/watch?v=S_czm-Oytns)
+- [Solid Auth](https://github.com/OrJDev/solid-auth) - Authentication for Solid & SolidStart.

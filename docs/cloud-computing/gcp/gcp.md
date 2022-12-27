@@ -146,3 +146,4 @@ Also looking into [Railway](https://railway.app/) & [Cloudflare](https://www.clo
 - [Emblem Giving](https://github.com/GoogleCloudPlatform/emblem) - Sample application that demonstrates a serverless architecture with continuous delivery, and trouble recovery.
 - [Google Cloud Build community images](https://github.com/GoogleCloudPlatform/cloud-builders-community)
 - [Terraform Examples and Modules for Google Cloud](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)
+- [Builds a secure CI/CD pipeline on Google Cloud](https://github.com/GoogleCloudPlatform/terraform-google-secure-cicd)

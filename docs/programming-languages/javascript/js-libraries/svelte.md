@@ -325,3 +325,4 @@ title: Svelte
 - [Using SvelteKit 1.0 on Vercel (2022)](https://vercel.com/blog/using-sveltekit-1-0-on-vercel)
 - [SvelteKit is my mistress (2022)](https://www.youtube.com/watch?v=uEJ-Rnm2yOE)
 - [Atomic Svelte](https://github.com/atomicdata-dev/atomic-svelte) - Implementation of Atomic Data for Svelte.
+- [Svelte JSON tree](https://github.com/tanhauhau/svelte-json-tree) - JSON tree component for Svelte.

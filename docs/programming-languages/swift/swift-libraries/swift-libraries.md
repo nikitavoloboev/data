@@ -291,6 +291,7 @@
 - [ShimmerView](https://github.com/mercari/ShimmerView) - Collection of APIs to construct Skelton View + Shimmering Effect type loading indicator on UIKit and SwiftUI.
 - [EJKit](https://github.com/Upstarts/editor.js-kit-ios) - iOS Framework for Editor.js - block styled editor.
 - [UDF](https://github.com/inDriver/UDF) - Unidirectional Data Flow Framework.
+- [SwipeCell](https://github.com/EnesKaraosman/SwipeCell) - Swipe Left2Right & Right2Left, pure SwiftUI implementation.
 
 ## macOS
 

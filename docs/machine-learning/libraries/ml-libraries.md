@@ -442,3 +442,4 @@ title: ML Libraries
 - [Tiktoken](https://github.com/openai/tiktoken) - Fast tokenizer by OpenAI. ([HN](https://news.ycombinator.com/item?id=34008839))
 - [Fortuna](https://github.com/awslabs/fortuna) - Library for Uncertainty Quantification.
 - [A-UNet](https://github.com/archinetai/a-unet) - Library that provides building blocks to customize UNets, in PyTorch.
+- [Concrete-ML](https://github.com/zama-ai/concrete-ml) - Privacy-Preserving Machine Learning (PPML) open-source set of tools built on top of The Concrete Framework by Zama.

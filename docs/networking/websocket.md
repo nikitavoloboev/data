@@ -123,3 +123,5 @@ title: WebSocket
 - [socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing WebSockets, Http/Https High Peformance servers for PyPy3 and Python3.
 - [AsyncAPI Tutorials](https://github.com/daveshanley/asyncapi-tutorials)
 - [Nice WebSocket Go libraries (2022)](https://www.reddit.com/r/golang/comments/zit5as/any_alternatives_to_gorilla_websockets/)
+- [peasocket](https://github.com/soypat/peasocket) - Little WebSocket implementation in Go.
+- [WebTransport vs. WebRTC vs. WebSocket](https://github.com/Sh3B0/realtime-web) ([HN](https://news.ycombinator.com/item?id=34137974))

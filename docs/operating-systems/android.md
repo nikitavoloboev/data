@@ -90,3 +90,4 @@ title: Android
 - [Android binary file parser written in Go](https://github.com/shogo82148/androidbinary)
 - [Waylovely](https://github.com/waylovely-project/waylovely) - Run all your Linux graphical apps on Android.
 - [Apk.sh](https://github.com/ax/apk.sh) - Bash script that makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK. ([HN](https://news.ycombinator.com/item?id=34028601))
+- [Rust bindings to the Android NDK](https://github.com/rust-mobile/ndk)

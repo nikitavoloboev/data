@@ -422,3 +422,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [Lambda, Rust, and CDK](https://github.com/danilop/lambda-rust-and-cdk)
 - [List of open geospatial datasets on AWS](https://github.com/giswqs/aws-open-data-geo)
 - [AWS re:Invent 2022 - A day in the life of a billion requests](https://www.youtube.com/watch?v=tPr1AgGkvc4)
+- [IAM Floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface.

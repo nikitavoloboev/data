@@ -102,3 +102,4 @@ title: Godot
 - [Godot Engine Release Management: 4.0 and beyond (2022)](https://godotengine.org/article/release-management-4-0-and-beyond) ([HN](https://news.ycombinator.com/item?id=33793281)) ([Reddit](https://www.reddit.com/r/godot/comments/z801lr/release_management_40_and_beyond/))
 - [Procedural Planet Godot](https://github.com/athillion/ProceduralPlanetGodot)
 - [Godot 4.0 beta 9 Released (2022)](https://godotengine.org/article/dev-snapshot-godot-4-0-beta-9) ([HN](https://news.ycombinator.com/item?id=34052510))
+- [GodotSteam](https://github.com/Gramps/GodotSteam) - Open-source and fully functional Steamworks SDK / API module and plug-in for the Godot Game Engine.

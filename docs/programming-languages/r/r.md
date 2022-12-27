@@ -196,3 +196,4 @@
 - [ggpubr](https://github.com/kassambara/ggpubr) - ggplot2 Based Publication Ready Plots.
 - [poorman](https://github.com/nathaneastwood/poorman) - Dependency free grammar of data manipulation.
 - [sjPlot](https://github.com/strengejacke/sjPlot) - Data Visualization for Statistics in Social Science.
+- [R Packages Book](https://r-pkgs.org/) ([Code](https://github.com/hadley/r-pkgs))

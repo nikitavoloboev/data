@@ -328,3 +328,4 @@ useEffect(() => {
 - [Timeline of a React Component With Hooks (2022)](https://julesblom.com/writing/react-hook-component-timeline) ([Tweet](https://twitter.com/Mega_Jules/status/1591466399536480259))
 - [Working with Zustand (2022)](https://tkdodo.eu/blog/working-with-zustand) ([Tweet](https://twitter.com/TkDodo/status/1594358836147720197))
 - [When to use useStoreMap hook](https://twitter.com/_sergeysova/status/1606564476634939392)
+- [Visual Guide to React's useEffect (2021)](https://alexsidorenko.com/blog/useeffect/) ([HN](https://news.ycombinator.com/item?id=34142168))

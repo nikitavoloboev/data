@@ -78,3 +78,4 @@ title: Observability
 - [Vast](https://github.com/tenzir/vast) - Visibility Across Space and Time – The network telemetry engine for data-driven security investigations. ([Docs](https://vast.io/docs/about))
 - [Awesome Monitoring](https://github.com/crazy-canux/awesome-monitoring)
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Endpoint visibility and collection tool.
+- [Stanza](https://github.com/observIQ/stanza) - Fast and lightweight log transport and processing agent.

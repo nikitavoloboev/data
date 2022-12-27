@@ -1959,6 +1959,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [maphash](https://github.com/dolthub/maphash) - Hashing Go Types with AES Instructions.
 - [Go utilities](https://github.com/JohnStarich/go)
 - [low](https://github.com/openacid/low) - Low level data type and utils in Go.
+- [rtreego](https://github.com/dhconnelly/rtreego) - R-Tree library for Go.
 
 ## Links
 

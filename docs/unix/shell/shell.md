@@ -12,6 +12,8 @@ Use [Warp](https://www.warp.dev/) as my terminal & [Zsh](zsh/zsh.md) as my shell
 
 [fzf](https://github.com/junegunn/fzf), [Atuin](https://github.com/ellie/atuin) & [shell2http](https://github.com/msoap/shell2http) are great additions to the shell.
 
+Liked [this article](https://thevaluable.dev/guide-terminal-shell-console/) as intro to shell.
+
 ## Variables
 
 All active variables can be seen by running `env`.
@@ -274,3 +276,4 @@ All active variables can be seen by running `env`.
 - [A year of building for the terminal (2022)](https://textual.textualize.io/blog/2022/12/20/a-year-of-building-for-the-terminal/) ([HN](https://news.ycombinator.com/item?id=34093025))
 - [teetty](https://github.com/mitsuhiko/teetty) - Wrapper binary to execute a command in a pty while providing remote control facilities.
 - [Shmux](https://github.com/shikaan/shmux) - Run all your scripts from one file. ([HN](https://news.ycombinator.com/item?id=34119355))
+- [A Guide to the Terminal, Console, and Shell (2022)](https://thevaluable.dev/guide-terminal-shell-console/)

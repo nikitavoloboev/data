@@ -141,3 +141,4 @@ title: Zero knowledge proofs
 - [eigen-zkvm](https://github.com/0xEigenLabs/eigen-zkvm) - zkVM on hybrid proof system, allowing the developers to write Zero-knowledge applications.
 - [ZK Hunt](https://github.com/FlynnSC/zk-hunt) - Onchain game which explores different ZK game mechanics and information asymmetry.
 - [zkOS](https://github.com/starkoracles/zkos) - Cross-proof-system execution layer.
+- [VMtropy](https://github.com/lambdaclass/VMtropy) - ZK snark-based VM running Aleo Instructions.
