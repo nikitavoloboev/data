@@ -553,4 +553,4 @@ I want to:
 - [acreom](https://acreom.com/) - Capture notes, break down issues, track your progress, create a knowledge base.
 - [Outlining and Bike (2022)](https://leancrew.com/all-this/2022/11/outlining-and-bike/)
 - [Tending to My Digital Garden (2022)](https://www.taniarascia.com/digital-gardening/)
-- [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought)
+- [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought) ([HN](https://news.ycombinator.com/item?id=34137751))

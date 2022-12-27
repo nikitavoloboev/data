@@ -172,3 +172,4 @@
 - [peruvian_bull - Reddit](https://www.reddit.com/user/peruvian_bull/) - Does nice analysis on economy. ([Twitter](https://twitter.com/peruvian_bull))
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html) ([Code](https://github.com/aeturrell/coding-for-economists))
 - [Patrick Boyle - YouTube](https://www.youtube.com/c/PatrickBoyleOnFinance/videos)
+- [Trading Economics](https://tradingeconomics.com/) - View more than 20 million economic indicators for 196 countries.

@@ -20,6 +20,7 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Have database and app hosted off the same region as each other.](https://twitter.com/buildsghost/status/1517573869858525184)
 - [Few things will teach you more about web development than running your web app through WebPageTest, and working to fix everything that sucks.](https://twitter.com/slightlylate/status/1519690020449177600)
 - [WebPageTest can compare waterfalls from two tests](https://twitter.com/stoyanstefanov/status/1547651354050437121)
+- [Unless you're applying the ultimate list of colossal worst programming practices to your backend server, your first, biggest bottleneck is going to be the database. Optimize that. Minimize the number of roundtrips, the number of queries, the complexity of the queries. Profile. Study what your query planner tells you. Few, if any, Rust crates will help you there. It's a SQL problem. Then once you've hit the limit of what you can do there, add a caching layer or two. Learn to love Redis. Understand the nightmare of cache invalidation. Few, if any, Rust crates will help you there. It's a design problem.](https://www.reddit.com/r/rust/comments/zvt1mu/tips_on_scaling_a_monolithic_rust_web_server/)
 
 ## Links
 

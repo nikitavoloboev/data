@@ -338,3 +338,4 @@ zz
 - [Vid in which Vim Saves Me Hours & Hundreds of Clicks](https://www.youtube.com/watch?v=hraHAZ1-RaM)
 - [0 to LSP : Neovim RC From Scratch (2022)](https://www.youtube.com/watch?v=w7i4amO_zaE)
 - [Effective Neovim: Instant IDE (2022)](https://www.youtube.com/watch?v=stqUbv-5u2s)
+- [NeoVim Notebooks](https://www.maxwellrules.com/misc/nvim_jupyter.html) ([HN](https://news.ycombinator.com/item?id=34145680))

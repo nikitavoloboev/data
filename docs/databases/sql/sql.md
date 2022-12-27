@@ -8,7 +8,7 @@ title: SQL
 
 [dsq](https://github.com/multiprocessio/dsq) is neat. [SQL Indexing and Tuning book](https://use-the-index-luke.com/) has many tips. [PRQL](https://prql-lang.org/) & [GlueSQL](https://github.com/gluesql/gluesql) seem nice too.
 
-[Arctype](https://arctype.com/) is a nice tool.
+[Arctype](https://arctype.com/) is a nice tool. [ReadySet](https://github.com/readysettech/readyset) is great SQL caching engine.
 
 ## Notes
 

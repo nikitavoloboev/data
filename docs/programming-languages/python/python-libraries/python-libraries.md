@@ -1295,3 +1295,4 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Boring Python: dependency management (2022)](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/)
 - [Bazel rules for creating Python virtual environments](https://github.com/cedarai/rules_pyvenv)
 - [Five semesters of linear algebra and all I do is solve Python dependency problems - Tim Hopper (2022)](https://www.youtube.com/watch?v=6flt_3yMNb0)
+- [The hand-picked selection of the best Python libraries and tools of 2022](https://www.reddit.com/r/Python/comments/zvxb2x/the_handpicked_selection_of_the_best_python/)
