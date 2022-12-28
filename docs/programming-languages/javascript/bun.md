@@ -6,7 +6,7 @@ title: Bun
 
 [Elysia](https://github.com/elysiajs/elysia) is nice web framework.
 
-Currently using [Deno](../../web/deno.md) as my primary way to write [TS](../typescript/typescript.md). 
+Currently using [Deno](../../web/deno.md) as my primary way to write [TS](../typescript/typescript.md).
 
 I use Bun to make sure I don't have to write [Node](../../web/nodejs/nodejs.md) as it's simply faster version of Node with lots of nice life improvements and faster development cycle.
 
@@ -43,3 +43,4 @@ I use Bun to make sure I don't have to write [Node](../../web/nodejs/nodejs.md) 
 - [Bun v0.3.0 (2022)](https://bun.sh/blog/bun-v0.3.0) ([HN](https://news.ycombinator.com/item?id=33894702)) ([Tweet](https://twitter.com/jarredsumner/status/1600531361768833024))
 - [Bunview](https://github.com/theseyan/bunview) - Cross-platform library to build web-based GUIs for desktop applications.
 - [Bun HTTP Framework Benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP framework.
+- [Elysia with HMR](https://github.com/SaltyAom/elysia-hmr)

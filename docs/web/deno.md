@@ -352,3 +352,6 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [Deno - YouTube](https://www.youtube.com/@deno_land/videos)
 - [Deno Sessions: Deno 1.28, npm specifiers, Deno lock file, and more (2022)](https://www.youtube.com/watch?v=eRs_MGdCXGU)
 - [Fresh Components Beta](https://github.com/hashrock/fresh-components-beta) - Experimental Fresh Components.
+- [deno_copy_paste](https://github.com/iuioiua/deno_copy_paste) - Copy/paste functionality for Deno.
+- [Haydi](https://github.com/cyco130/haydi) - On-demand dev server (like Vite) for Deno.
+- [Deno Outdated](https://github.com/LeoDog896/deno-outdated) - Find outdated dependencies in your deno project.

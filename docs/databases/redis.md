@@ -177,3 +177,5 @@ I use [Upstash](https://upstash.com/) as a [serverless Redis](https://www.youtub
 - [Redis Oxide](https://github.com/dpbriggs/redis-oxide) - Multi-threaded implementation of redis written in rust.
 - [Dice](https://github.com/DiceDB/dice) - Extremely simple Go-based in-memory KV store that speaks the Redis dialect.
 - [Launching Redis by Upstash (2022)](https://fly.io/blog/launching-redis-by-upstash/) ([HN](https://news.ycombinator.com/item?id=34005991))
+- [r2d2](https://github.com/iuioiua/r2d2) - Fast, lightweight Redis client library for Deno.
+- [rueidis](https://github.com/rueian/rueidis) - Fast Go Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.

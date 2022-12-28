@@ -194,3 +194,4 @@ title: Rails
 - [HTML5 Canvas on Rails](https://fogel.dev/software/canvas_on_rails_1/)
 - [An Overview Of Upcoming Ruby on Rails 7.1 Features (2022)](https://manny.codes/this-week-in-rails-wrapped-an-overview-of-rails-7-1-features-part-i/) ([HN](https://news.ycombinator.com/item?id=34066795))
 - [Docked Rails CLI](https://github.com/rails/docked) - Running Rails from Docker for easy start to development.
+- [Handling Stripe Webhooks with Rails (2022)](https://www.cjav.dev/articles/handling-stripe-webhooks-with-rails)

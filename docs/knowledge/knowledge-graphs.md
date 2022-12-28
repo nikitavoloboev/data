@@ -135,3 +135,4 @@
 - [Noosphere, a protocol for thought (2022)](https://subconscious.substack.com/p/noosphere-a-protocol-for-thought)
 - [Papers on Knowledge Graph Embedding](https://github.com/xinguoxia/KGE)
 - [Papers about Logical Query on Knowledge Graphs](https://github.com/xinguoxia/KGLQ)
+- [Awesome Ontology](https://github.com/ozekik/awesome-ontology)

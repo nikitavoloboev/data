@@ -331,3 +331,4 @@ title: React Native
 - [Create React Native Module](https://github.com/brodybits/create-react-native-module)
 - [React Native Fiesta](https://github.com/mateoguzmana/react-native-fiesta) - Set of animations ideal for celebration and user engagement.
 - [Hyperview](https://hyperview.org/) - Native mobile apps, as easy as creating a website. ([HN](https://news.ycombinator.com/item?id=34137381))
+- [React Native OpenAI JSX](https://github.com/cawfree/react-native-openai-jsx) - Use OpenAI to generate functioning React Native components.

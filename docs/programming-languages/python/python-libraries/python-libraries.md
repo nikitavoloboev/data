@@ -1096,6 +1096,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [dbt utils](https://github.com/dbt-labs/dbt-utils) - Utility functions for dbt projects.
 - [UltraJSON](https://github.com/ultrajson/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings.
 - [python-benedict](https://github.com/fabiocaccamo/python-benedict) - Dict subclass with keylist/keypath support, I/O shortcuts and many utilities.
+- [Matchering](https://github.com/sergree/matchering) - Audio Matching and Mastering.
 
 ## Notes
 
@@ -1300,3 +1301,4 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Five semesters of linear algebra and all I do is solve Python dependency problems - Tim Hopper (2022)](https://www.youtube.com/watch?v=6flt_3yMNb0)
 - [The hand-picked selection of the best Python libraries and tools of 2022](https://www.reddit.com/r/Python/comments/zvxb2x/the_handpicked_selection_of_the_best_python/)
 - [How we extended the River stats module with Rust using PyO3 (2022)](https://boring-guy.sh/posts/river-rust/)
+- [mousebender](https://github.com/brettcannon/mousebender) - Produce/consume dependency lock files for Python.

@@ -229,3 +229,4 @@ title: Vue.js
 - [PrimeVUE](https://www.primefaces.org/primevue/) - Next Generation Vue UI Component Library. ([Code](https://github.com/primefaces/primevue))
 - [Vitest Environment Nuxt](https://github.com/danielroe/vitest-environment-nuxt) - Vitest environment for testing code that needs a Nuxt runtime environment.
 - [VueFire](https://github.com/vuejs/vuefire) - Firebase bindings for Vue.
+- [Responsive Video Background Player for Vue](https://github.com/avidofood/vue-responsive-video-background-player)

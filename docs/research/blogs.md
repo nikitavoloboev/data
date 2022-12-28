@@ -264,6 +264,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Emir Uz](https://emiruz.com/)
 - [Wisha W](https://wishawa.github.io/posts/)
 - [Adil Zouitine](https://boring-guy.sh/)
+- [Preetam Jinka](https://misfra.me/)
 
 ## Notes
 

@@ -10,7 +10,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 
 [Tutorial on creating go module](https://go.dev/doc/tutorial/create-module) is great intro. [depu](https://github.com/kevwan/depu) is nice for updating dependencies.
 
-[mapstructure](https://github.com/mitchellh/mapstructure) is nice decoding values from data streams like JSON.
+[mapstructure](https://github.com/mitchellh/mapstructure) is nice decoding values from data streams like JSON. [FreeCache](https://github.com/coocood/freecache) is nice caching lib.
 
 ## CLI
 
@@ -524,7 +524,6 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [squirrel](https://github.com/anacrolix/squirrel) - Cache backed by SQLite3.
 - [Morph](https://github.com/go-morph/morph) - Database migration tool that helps you to apply your migrations.
 - [gosql](https://github.com/rushteam/gosql) - Easy ORM library for Go.
-- [rueidis](https://github.com/rueian/rueidis) - Fast Go Redis RESP3 client that supports client side caching and auto pipelining.
 - [ql](https://gitlab.com/cznic/ql) - Pure Go embedded SQL database. ([HN](https://news.ycombinator.com/item?id=30130938))
 - [Tables-to-Go](https://github.com/fraenky8/tables-to-go) - Convert your database tables to structs easily.
 - [metricsql](https://github.com/VictoriaMetrics/metricsql) - Standalone PromQL and MetricsQL parser.

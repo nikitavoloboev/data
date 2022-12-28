@@ -32,3 +32,4 @@ title: Tailscale
 - [Tailscale Talent Lock (2022)](https://tailscale.com/blog/tailnet-lock/)
 - [Tailnet lock white paper](https://tailscale.com/kb/1230/tailnet-lock-whitepaper/) ([Lobsters](https://lobste.rs/s/fiinse/tailnet_lock_white_paper))
 - [Bonk](https://github.com/DeterminateSystems/bonk) - Erase macOS machines over Tailscale.
+- [Tailscale client using Wails](https://github.com/dgrr/tailscale-client)

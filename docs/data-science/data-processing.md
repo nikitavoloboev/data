@@ -146,3 +146,4 @@
 - [DataFusion-tui](https://github.com/datafusion-contrib/datafusion-tui) - Terminal based, extensible, interactive data analysis tool using SQL.
 - [Querying Parquet with Millisecond Latency (2022)](https://www.influxdata.com/blog/querying-parquet-millisecond-latency/)
 - [Using Commandline To Process CSV files (2022)](https://muhammadraza.me/2022/data-oneliners/)
+- [Apache Arrow Cookbooks](https://github.com/apache/arrow-cookbook)

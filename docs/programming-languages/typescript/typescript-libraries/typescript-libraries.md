@@ -724,6 +724,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [range_reconcile](https://github.com/earthstar-project/range-reconcile) - Efficiently sync sets with range-based set reconciliation.
 - [SuperDiff](https://github.com/DoneDeal0/superdiff) - Compares two arrays or objects and return a complete diff of their differences in a readable format.
 - [tzlocator](https://github.com/Alexandre-Fernandez/tzlocator) - Lightweight privacy respecting geolocation library with no dependencies.
+- [migrato](https://github.com/Simonwep/migrato) - Type-safe migration library to migrate data from one schema to another.
 
 ## Links
 

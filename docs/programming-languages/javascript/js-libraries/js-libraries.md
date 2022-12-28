@@ -1081,6 +1081,8 @@
 - [jsonld.js](https://github.com/digitalbazaar/jsonld.js) - JSON-LD Processor and API implementation in JavaScript.
 - [swiped-events](https://github.com/john-doherty/swiped-events) - Adds `swiped` events to the DOM in 1k of pure JavaScript.
 - [long-press-event](https://github.com/john-doherty/long-press-event) - Adds `long-press` event to the DOM in 1k of pure JavaScript.
+- [jStat](https://github.com/jstat/jstat) - JavaScript Statistical Library.
+- [NightVision](https://github.com/project-nv/night-vision) - Highly customizable charting library, created for professional traders.
 
 ## Links
 

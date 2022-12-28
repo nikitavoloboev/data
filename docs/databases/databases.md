@@ -743,3 +743,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [QPML](https://github.com/andygrove/qpml) - Query Plan Markup Language.
 - [LSM in a Week](https://github.com/skyzh/mini-lsm) - Tutorial of building an LSM-Tree storage engine in a week.
 - [Closing The Gap Between Your Users And Their Data (2022)](https://tripleodeon.com/2022/11/closing-the-gap-between-your-users-and-their-data)
+- [Awesome Data Temporality](https://github.com/daefresh/awesome-data-temporality) - Curated list to help you manage temporal data across many modalities.

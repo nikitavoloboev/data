@@ -413,3 +413,4 @@ title: WebAssembly
 - [WebAssembly: Docker Without Containers (2022)](https://wasmlabs.dev/articles/docker-without-containers/) ([HN](https://news.ycombinator.com/item?id=34078532))
 - [WASI Experimental HTTP](https://github.com/deislabs/wasi-experimental-http) - Experimental outbound HTTP support for WebAssembly and WASI.
 - [Deis Labs](https://deislabs.io/) - Simplifying and empowering container-native development. ([GitHub](https://github.com/deislabs)) ([Twitter](https://twitter.com/deislabs))
+- [wasm-snip](https://github.com/rustwasm/wasm-snip) - Replaces a WebAssembly function's body with an `unreachable`.

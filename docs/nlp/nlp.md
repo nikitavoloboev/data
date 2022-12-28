@@ -749,3 +749,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [TextBox](https://github.com/RUCAIBox/TextBox) - Text generation library with pre-trained language models.
 - [Advances in Neural Information Processing Systems 30 (NIPS 2017)](https://papers.nips.cc/paper/2017)
 - [Poincaré Embeddings for Learning Hierarchical Representations (2017)](https://arxiv.org/abs/1705.08039) ([Code](https://github.com/facebookresearch/poincare-embeddings))
+- [llm-strategy](https://github.com/BlackHC/llm-strategy) - Implementing the Strategy Pattern using LLMs.

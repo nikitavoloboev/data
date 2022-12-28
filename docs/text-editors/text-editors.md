@@ -94,6 +94,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [aretext](https://aretext.org/) - Minimalist text editor with vim-compatible key bindings. ([Code](https://github.com/aretext/aretext))
 - [Klonk](https://github.com/zaboople/klonk) - Text editor with an sort-of-unusual undo/redo algorithm.
 - [Simple code editor made with Freya](https://github.com/marc2332/freya-editor)
+- [Mininotes](https://github.com/Dimev/mininotes) - Tiny notetaking app, to explain text layout for text editors.
 
 ## Web
 

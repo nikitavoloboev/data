@@ -459,3 +459,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Twitch Downloader](https://github.com/ihabunek/twitch-dl) - CLI tool for downloading videos from Twitch.
 - [Talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [OpenShot Video Editor](https://github.com/OpenShot/openshot-qt) - Open-source video editor.
+- [trdrop](https://github.com/cirquit/trdrop) - Raw video analysis program.

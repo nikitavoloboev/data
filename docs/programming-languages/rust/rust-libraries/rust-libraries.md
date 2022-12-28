@@ -940,6 +940,7 @@
 - [lazy_format](https://github.com/Lucretiel/lazy_format) - Lazy formatting utility macro.
 - [auto_impl](https://github.com/auto-impl-rs/auto_impl) - Automatically implement traits for common smart pointers.
 - [Decurse](https://github.com/wishawa/decurse) - Rust macro to make recursive function run on the heap.
+- [Goldberg](https://github.com/frank2/goldberg) - Rust-based obfuscation macro library.
 
 ## Math
 
@@ -2429,6 +2430,8 @@
 - [effing-mad](https://github.com/rosefromthedead/effing-mad) - Algebraic effects for Rust.
 - [fsevent-stream](https://github.com/PhotonQuantum/fsevent-stream) - Stream-based FSEvents API bindings.
 - [bucu1](https://github.com/graydon/bocu1) - BOCU-1 encoder/decoder.
+- [zip-extensions-rs](https://github.com/matzefriedrich/zip-extensions-rs) - High-level functions for common ZIP tasks, such as extracting archives to a directory.
+- [Enum Ptr](https://github.com/QuarticCat/enum-ptr) - Ergonomic tagged pointer.
 
 ## Cargo Plugins
 

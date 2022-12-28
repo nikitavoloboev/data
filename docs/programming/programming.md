@@ -638,3 +638,4 @@ My current stack for writing software is described [here](https://twitter.com/ni
 - [More challenging projects every programmer should try (2022)](https://austinhenley.com/blog/morechallengingprojects.html) ([Lobsters](https://lobste.rs/s/hmayss/more_challenging_projects_every))
 - [Beautiful Software: Christopher Alexander's research initiative on computing](https://beautiful.software/) ([HN](https://news.ycombinator.com/item?id=34011469))
 - [The pocket guide to debugging](https://jvns.ca/blog/2022/12/21/new-zine--the-pocket-guide-to-debugging/) ([HN](https://news.ycombinator.com/item?id=34088398))
+- [Hard truths I learned when I got laid off from my SWE job (2022)](https://www.stevenbuccini.com/8-hard-truths-on-getting-laid-off) ([HN](https://news.ycombinator.com/item?id=34161822))
