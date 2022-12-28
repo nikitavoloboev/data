@@ -4,7 +4,9 @@ title: Racket
 
 # [Racket](https://racket-lang.org/)
 
-[Beautiful Racket](https://beautifulracket.com/) is great intro. [Racket News](https://racket-news.com/) is nice to stay up to date. [Zuo](https://github.com/racket/zuo) & [Typed Racket](https://github.com/racket/typed-racket) seem nice.
+[Beautiful Racket](https://beautifulracket.com/) & [Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/) are great intros.
+
+[Racket News](https://racket-news.com/) is nice to stay up to date. [Zuo](https://github.com/racket/zuo) & [Typed Racket](https://github.com/racket/typed-racket) seem nice.
 
 ## Links
 
@@ -160,3 +162,4 @@ title: Racket
 - [Shallow Typed Racket (2020)](https://cs.brown.edu/people/bgreenma/resources/talks/g-rcon-2020.pdf)
 - [Intermediate Student with Lambda (ISL+) Enhanced with Specification support via Quickcheck](https://github.com/dbp/isl-spec)
 - [Introduction to Racket with Pictures](https://docs.racket-lang.org/quick/)
+- [Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)

@@ -265,6 +265,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [What are your top 5 games of 2022 on PS5?](https://www.reddit.com/r/PS5/comments/zpt26u/what_are_your_top_5_games_of_2022/)
 - [What games are you playing over Xmas on PS5?](https://www.reddit.com/r/PS5/comments/zu78n4/what_games_are_you_playing_over_xmas/)
 - [Patient Games I Completed This Year, Ranked Best to Worst (2022)](https://www.reddit.com/r/patientgamers/comments/zuav2v/patient_games_i_completed_this_year_ranked_best/)
+- [What single player games can give you the highest amount of hours of playtime? most replayability, etc. (2022)](https://www.reddit.com/r/gamingsuggestions/comments/zem87o/what_single_player_games_can_give_you_the_highest/)
 
 ## Links
 
@@ -401,3 +402,4 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [What part of modern game design do you feel has removed fun?](https://www.reddit.com/r/patientgamers/comments/zq7d6v/what_part_of_modern_game_design_do_you_feel_has/)
 - [Obscure Game Aesthetics](https://twitter.com/game_obscure)
 - [Elysium Remastered](https://github.com/TitansBane/Elysium-Remastered) - Complete rebuild of the original Elysium modlist.
+- [Gaming Suggestions Reddit](https://www.reddit.com/r/gamingsuggestions/)

@@ -118,6 +118,8 @@
 - [Seed Design System](https://github.com/daangn/seed-design)
 - [Vibe Design System](https://style.monday.com/?path=/docs/welcome--page)
 - [Cal.com Components](https://ui.cal.com/)
+- [Cisco Momentum Design](https://momentum.design/) ([Code](https://github.com/momentum-design/momentum-ui))
+- [Yandex Gravity UI](https://preview.yandexcloud.dev/uikit/) ([Code](https://github.com/gravity-ui/uikit))
 
 ## Notes
 

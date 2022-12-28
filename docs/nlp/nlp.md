@@ -12,6 +12,8 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 
 [Tokenizers](https://github.com/huggingface/tokenizers) & [tiktoken](https://github.com/openai/tiktoken) are interesting tokenizers.
 
+[rust-bert](https://github.com/guillaume-be/rust-bert) is useful for making NLP pipelines.
+
 ## Notes
 
 - [Figuring out correctly when/what to escalate to a human would change customer service more than anything else.](https://twitter.com/_abhisheksankar/status/1441793453864620044)

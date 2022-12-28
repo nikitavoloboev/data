@@ -724,6 +724,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [go-perf](https://github.com/aclements/go-perf) - Go packages and tools for Linux perf.
 - [debpkg](https://github.com/xor-gate/debpkg) - Go library to create Debian Linux packages.
 - [go-iptables](https://github.com/coreos/go-iptables) - Go bindings for iptables utility.
+- [golang-evdev](https://github.com/gvalkov/golang-evdev) - Go bindings for the linux input subsystem.
 
 ## Apple
 
@@ -2140,3 +2141,4 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Connecting to a PostgreSQL database with Go's database/sql package](https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/)
 - [Best Go ORM that uses GraphQL and Postgres (2022)](https://www.reddit.com/r/golang/comments/zoy5hu/best_orm_that_uses_graphql_and_postgres/)
 - [Go: Inside sync.Map — How does sync.Map work internally? (2021)](https://sreramk.medium.com/go-inside-sync-map-how-does-sync-map-work-internally-97e87b8e6bf)
+- [Error wrapping in Go (2022)](https://bitfieldconsulting.com/golang/wrapping-errors)

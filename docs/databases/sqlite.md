@@ -286,3 +286,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [sqlite3_ext](https://github.com/CGamesPlay/sqlite3_ext) - Build loadable extensions for SQLite using Rust.
 - [SQLite Internals: How The World's Most Used Database Works](https://www.compileralchemy.com/books/sqlite-internals/) ([HN](https://news.ycombinator.com/item?id=34032990))
 - [SQLite's automatic indexes (2022)](https://misfra.me/2022/sqlite-automatic-indexes/) ([HN](https://news.ycombinator.com/item?id=34162001))
+- [Storing files in SQLite (2021)](https://misfra.me/2021/storing-files-in-sqlite/)

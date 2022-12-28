@@ -1,6 +1,6 @@
 # Data Science
 
-[Equals](https://equals.app/), [Tably](https://tably.com/), [DataStation](https://datastation.multiprocess.io/), [Datasette](https://datasette.io/) are neat. Want to learn [Numpy](../programming-languages/python/python-libraries/numpy.md) and [scikit-learn](https://scikit-learn.org/stable/) libraries more.
+[Equals](https://equals.app/), [Tably](https://tably.com/), [DataStation](https://datastation.multiprocess.io/), [Datasette](https://datasette.io/) & [Malloy](https://github.com/malloydata/malloy) are neat. Want to learn [Numpy](../programming-languages/python/python-libraries/numpy.md) and [scikit-learn](https://scikit-learn.org/stable/) libraries more.
 
 [Python for Data Analysis](https://wesmckinney.com/book/) is a good read.
 

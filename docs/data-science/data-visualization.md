@@ -163,7 +163,7 @@
 - [Scalable Vega](https://github.com/vega/scalable-vega) - Demo of scaling Vega to millions of records.
 - [gridviz](https://github.com/eurostat/gridviz) - JavaScript library for visualizing large amounts of gridded data client-side, through the power of WebGL.
 - [tmap](https://github.com/reymond-group/tmap) - Very fast visualization library for large, high-dimensional data sets.
-- [Mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown. ([Docs](https://mermaid-js.github.io/mermaid/#/)) ([HN](https://news.ycombinator.com/item?id=31273777))
+- [Mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown. ([Docs](https://mermaid-js.github.io/mermaid/#/)) ([HN](https://news.ycombinator.com/item?id=31273777)) ([CLI](https://github.com/mermaid-js/mermaid-cli))
 - [Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code Book](https://handsondataviz.org/) ([Code](https://github.com/handsondataviz/book))
 - [datatile](https://github.com/polyaxon/datatile) - Library for managing, validating, summarizing, and visualizing data.
 - [loaders.gl](https://github.com/visgl/loaders.gl) - Loaders for big data visualization.
