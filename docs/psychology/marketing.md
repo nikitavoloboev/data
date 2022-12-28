@@ -4,11 +4,15 @@
 
 Think [Poolsuite](https://poolsuite.net/) does marketing incredibly well. All the products they release evoke emotion.
 
-One way to do launches with possible virality is rewarding people who retweet with potential to win some amazing reward [like life time subscription](https://twitter.com/thekitze/status/1144147293786005504).
+One way to do launches with possible virality is rewarding people who retweet with potential to win some amazing reward [like life time subscription](https://twitter.com/thekitze/status/1144147293786005504). Just don't overdo it and do it rarely.
 
 Best way to do marketing is simply [launching features often and sharing updates through multiple channels](https://www.producthunt.com/discussions/i-m-alex-maccaw-founder-of-clearbit-and-reflect-ask-me-anything) (Twitter/Email are most effective). As well as making teaching content via nicely readable shareable docs or videos.
 
 [Landing Page Copywriting](https://www.julian.com/guide/startup/landing-pages) is great read.
+
+Building a brand that people recognize and like takes time but ultimately it's about iterating on product [thoughtful & fast](../management/management.md). Communicating releases well. And having clear feedback channels with your customers. If [user based analytics](../analytics/analytics.md) are used, they should focus on getting closer to great product. 
+
+Recently, I like how [CleanShot](https://twitter.com/cleanshot) iterates and shares updates on their product.
 
 ## Nice ads
 

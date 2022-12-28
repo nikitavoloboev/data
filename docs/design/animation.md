@@ -99,3 +99,4 @@ Like using [Rive](rive.md) for making animations.
 - [Rive as a Lottie alternative (2022)](https://rive.app/blog/rive-as-a-lottie-alternative) ([Tweet](https://twitter.com/guidorosso/status/1582086637328031745))
 - [Awesome Manim](https://github.com/ManimCommunity/awesome-manim)
 - [School of Motion](https://www.schoolofmotion.com/) ([YouTube](https://www.youtube.com/@schoolofmotion/videos))
+- [Inox2D](https://github.com/Inochi2D/inox2d) - Native Rust reimplementation of Inochi2D.

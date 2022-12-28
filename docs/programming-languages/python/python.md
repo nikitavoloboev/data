@@ -573,3 +573,4 @@ for i, _ in enumerate(nums):
 - [Signed distance functions in 46 lines of Python (2022)](https://vgel.me/posts/donut/) ([HN](https://news.ycombinator.com/item?id=34073298))
 - [pylyzer](https://github.com/mtshiba/pylyzer) - Fast static code analyzer & language server for Python.
 - [Extending Python with Rust](https://maxwellrules.com/programming/rusty-python.html) ([HN](https://news.ycombinator.com/item?id=34145691))
+- [Efficient Python for Data Scientists](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists)

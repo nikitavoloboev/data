@@ -10,6 +10,8 @@ title: Scala
 
 [Trading](https://github.com/gvolpe/trading) has nice Scala code architecture.
 
+[Scala Seed](https://github.com/DevInsideYou/scala-seed) is nice starter code.
+
 ## Notes
 
 - [Scala enables abstractions which aren’t possible and/or not nearly as elegantly expressed in Kotlin due to for example the lack of native higher-kinded type (HKT), typeclasses, structural intersection/union type lattice, operator overloading, path dependent types and robust pattern matching in Kotlin (and probably many other nuances such a value types which are ostensibly useful for example for efficiently emulating new type system features)](https://www.reddit.com/r/scala/comments/ixjjmf/dotty_becomes_scala_3/)
@@ -188,3 +190,4 @@ title: Scala
 - [Boost your productivity with Scala tooling! - Meriam Lachkar (2022)](https://www.youtube.com/watch?v=lSmm4YZ2wL0)
 - [Property-Based Testing: Let Your Testing Library Work for You - Magda Stożek (2021)](https://www.youtube.com/watch?v=pO4_3kg1wMw)
 - [Best books to learn Scala as a functional programmer (2022)](https://www.reddit.com/r/scala/comments/zsucun/best_book_to_learn_scala_as_a_functional/)
+- [Scala Seed](https://github.com/DevInsideYou/scala-seed) - Nix flake for getting started with Scala.

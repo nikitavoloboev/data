@@ -110,6 +110,7 @@ I want to:
 - [Nicola's decentralized-research](https://github.com/nicola/decentralized-research)
 - [Timothy Andrew](https://timothyandrew.net/learning/wiki/)
 - [Wayan Jimmy](https://wayanjimmy-notebook.netlify.com/)
+- [Denny Britz's Book notes](https://github.com/dennybritz/booknotes)
 - [Wesley Moore](https://linkedlist.org/)
 - [Josh Branchaud's TIL](https://github.com/jbranchaud/til)
 - [Lee Byron's TIL](https://leebyron.com/til/) ([Code](https://github.com/leebyron/til))

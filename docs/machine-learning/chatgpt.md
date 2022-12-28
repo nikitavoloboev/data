@@ -20,3 +20,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [ChatGPT Telegram Bot in Go](https://github.com/m1guelpf/chatgpt-telegram) - Go CLI to fuels a Telegram bot that lets you interact with ChatGPT.
 - [ChatGPT Telegram Bot in Python](https://github.com/altryne/chatGPT-telegram-bot)
 - [How ChatGPT actually works (2022)](https://www.assemblyai.com/blog/how-chatgpt-actually-works/)
+- [fieri](https://github.com/lbkolev/fieri) - OpenAI GPT-3 API Client in Rust.

@@ -2438,6 +2438,7 @@
 - [bucu1](https://github.com/graydon/bocu1) - BOCU-1 encoder/decoder.
 - [zip-extensions-rs](https://github.com/matzefriedrich/zip-extensions-rs) - High-level functions for common ZIP tasks, such as extracting archives to a directory.
 - [Enum Ptr](https://github.com/QuarticCat/enum-ptr) - Ergonomic tagged pointer.
+- [tracing-bunyan-formatter](https://github.com/LukeMathWalker/tracing-bunyan-formatter) - Bunyan formatting for tokio-rs/tracing.
 
 ## Cargo Plugins
 

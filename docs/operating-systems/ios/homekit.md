@@ -41,3 +41,5 @@ title: HomeKit
 - [HomeConMenu](https://github.com/sonsongithub/HomeConMenu) - App to control HomeKit Devices from macOS system.
 - [Homebridge Govee](https://github.com/bwp91/homebridge-govee) - Homebridge plugin to integrate Govee devices into HomeKit.
 - [Black Friday-Cyber Monday HomeKit Deals](https://shanewhatley.com/2022-black-friday/)
+- [HomeKit to MQTT bridge](https://github.com/hobbyquaker/homekit2mqtt)
+- [Homebridge Camera Utils](https://github.com/homebridge/camera-utils)
