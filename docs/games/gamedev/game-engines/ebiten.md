@@ -8,6 +8,7 @@ title: Ebiten
 
 - [Airplanes](https://github.com/m110/airplanes) - 2D shoot 'em up game made with Go, Ebitengine, and donburi. Featuring ECS (Entity Component System).
 - [Bindless](https://github.com/tinne26/bindless) - Magnetic world for Ebitengine's first game jam.
+- [Ezcort Mission](https://sinisterstuf.itch.io/escort-mission) - Follow a dog through a post-apocalytpic wasteland full of zombies. ([Code](https://github.com/sinisterstuf/escort-mission))
 
 ## Links
 
@@ -22,3 +23,4 @@ title: Ebiten
 - [gmath](https://github.com/quasilyte/gmath) - Godot-inspired math library for Ebintengine and other Go game engines.
 - [Ebitengine input library](https://github.com/quasilyte/ebitengine-input) - Godot-inspired action input handling system for Ebitengine.
 - [ganim8](https://github.com/yohamta/ganim8) - Sprite Animation library for Ebitengine inspired by anim8.
+- [Ebiten Game Template](https://github.com/sinisterstuf/ebiten-game-template)

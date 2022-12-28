@@ -162,3 +162,4 @@ title: Speech recognition
 - [WhisperX](https://github.com/m-bain/whisperX) - Timestamp-Accurate Automatic Speech Recognition.
 - [Speech-to-text with Whisper: How I Use It & Why (2022)](https://www.harihareswara.net/posts/2022/speech-to-text-with-whisper-how-i-use-it-why/)
 - [SPTK](https://github.com/sp-nitech/SPTK) - Speech Signal Processing Toolkit.
+- [Speechbox](https://github.com/huggingface/speechbox) - Speech processing tools, such as punctuation restoration.

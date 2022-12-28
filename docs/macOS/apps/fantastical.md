@@ -49,3 +49,4 @@ I often switch between `Week` and `Month` views.
 - [Linkal](https://github.com/JulienMalka/Linkal) - Public-calendar aggregator server. ([Lobsters](https://lobste.rs/s/4sbor7/linkal_public_calendar_aggregator))
 - [Zerocal - A Serverless Calendar App in Rust Running on shuttle.rs (2022)](https://endler.dev/2022/zerocal/) ([HN](https://news.ycombinator.com/item?id=33109513)) ([Code](https://github.com/mre/zerocal))
 - [Calendar Link](https://github.com/AnandChowdhary/calendar-link) - Calendar link generator for popular services.
+- [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface.

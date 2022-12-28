@@ -269,3 +269,4 @@ title: Bioinformatics
 - [OpenBioLink](https://github.com/OpenBioLink/OpenBioLink) - Resource and evaluation framework for evaluating link prediction models on heterogeneous biomedical graph data.
 - [Bitesize Bio](https://bitesizebio.com/) - Biotech how-tos.
 - [Fierce Biotech](https://www.fiercebiotech.com/) - Biotech industry news.
+- [Chroma PyTorch](https://github.com/lucidrains/chroma-pytorch) - Generative models of protein using DDPM and GNNs, in Pytorch.

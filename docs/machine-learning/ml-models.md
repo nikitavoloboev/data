@@ -142,3 +142,4 @@ Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [gene
 - [Do Simpler Machine Learning Models Exist and How Can We Find Them? (2022)](https://statmodeling.stat.columbia.edu/2022/12/22/do-simpler-machine-learning-models-exist-and-how-can-we-find-them/) ([HN](https://news.ycombinator.com/item?id=34096988))
 - [Train and deploy a DreamBooth model on Replicate (2022)](https://replicate.com/blog/dreambooth-api) ([Code](https://github.com/replicate/dreambooth-action))
 - [Reference models and tools for Cloud TPUs](https://github.com/tensorflow/tpu)
+- [Energon AI](https://github.com/hpcaitech/EnergonAI) - Large-scale model inference.

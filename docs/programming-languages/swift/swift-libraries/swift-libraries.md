@@ -1359,6 +1359,7 @@
 - [Apache OpenWhisk runtimes for Swift](https://github.com/apache/openwhisk-runtime-swift)
 - [CodeEditKit](https://github.com/CodeEditApp/CodeEditKit) - Interface between CodeEdit and extensions.
 - [Compute](https://github.com/swift-cloud/Compute) - Swift runtime for Fastly Compute@Edge.
+- [KeyValueCoding](https://github.com/ikhvorost/KeyValueCoding) - Access the properties of pure Swift struct or class instances indirectly by a property name or a key path.
 
 ## Other (not lib)
 

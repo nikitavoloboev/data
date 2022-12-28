@@ -8,6 +8,8 @@ title: Scala
 
 [Learn Scala 3 The Fast Way](https://alvinalexander.gumroad.com/l/learn-scala3-fast) is nice book.
 
+[Trading](https://github.com/gvolpe/trading) has nice Scala code architecture.
+
 ## Notes
 
 - [Scala enables abstractions which aren’t possible and/or not nearly as elegantly expressed in Kotlin due to for example the lack of native higher-kinded type (HKT), typeclasses, structural intersection/union type lattice, operator overloading, path dependent types and robust pattern matching in Kotlin (and probably many other nuances such a value types which are ostensibly useful for example for efficiently emulating new type system features)](https://www.reddit.com/r/scala/comments/ixjjmf/dotty_becomes_scala_3/)

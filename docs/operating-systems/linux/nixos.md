@@ -15,6 +15,8 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 
 [NixOS Weekly](https://weekly.nixos.org/) is useful newsletter. [NixOS MicroVMs](https://github.com/astro/microvm.nix) seem neat.
 
+[Managing infrastructure with Terraform, CDKTF, and NixOS](https://vincent.bernat.ch/en/blog/2022-cdktf-nixos) is great.
+
 ## Nix configs (NixOS)
 
 - [Mitchell Hashimoto](https://github.com/mitchellh/nixos-config) - Work for both Intel and Apple Silicon. ([Tweet](https://twitter.com/mitchellh/status/1452721115009191938)) ([NixOS VM on Mac Setup](https://www.youtube.com/watch?v=ubDMLoWz76U))
@@ -280,3 +282,5 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [nix-dabei](https://github.com/dep-sys/nix-dabei) - Operating system generator based on NixOS.
 - [srvos](https://github.com/numtide/srvos) - Opinionated and sharable set of NixOS configurations.
 - [Nix and NixOS, my pain points (2022)](https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html) ([HN](https://news.ycombinator.com/item?id=34115340)) ([Lobsters](https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points))
+- [nmd](https://github.com/gvolpe/nmd) - NixOS Module Documentation generator.
+- [Managing infrastructure with Terraform, CDKTF, and NixOS (2022)](https://vincent.bernat.ch/en/blog/2022-cdktf-nixos)

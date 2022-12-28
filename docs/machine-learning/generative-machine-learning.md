@@ -4,7 +4,7 @@
 
 Progress in models like [Midjourney](https://www.midjourney.com/) is getting [insanely good](https://www.reddit.com/r/midjourney/comments/yyom8a/london_1910/). Can even generate [nice header images](https://twitter.com/euboid/status/1593174650262986754) or [logos](https://twitter.com/sindresorhus/status/1590640203781533696).
 
-Using [Mochi Diffusion](https://github.com/godly-devotion/mochi-diffusion) (built on [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion)) to generate prompts.
+Using [Gauss](https://github.com/justjake/Gauss) ([Mochi Diffusion](https://github.com/godly-devotion/mochi-diffusion) is nice too) (built on [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion)) to generate prompts.
 
 Trying to use more of these technologies in my day to life. Specifically [ChatGPT](https://chat.openai.com/) seems [incredible](https://news.ycombinator.com/item?id=33940303). [Generates nice code](https://twitter.com/onybose/status/1598534390833098753) too. Need to [be wary](https://twitter.com/johnolilly/status/1598517624031555584) though as they don't do [much novelty yet](https://twitter.com/Noahpinion/status/1598499746263732224).
 
@@ -275,3 +275,5 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Point-E: A System for Generating 3D Point Clouds from Complex Prompts (2022)](https://arxiv.org/abs/2212.08751) ([Code](https://github.com/openai/point-e))
 - [Go GPT3](https://github.com/PullRequestInc/go-gpt3) - OpenAI GPT-3 API client enabling Go programs to interact with the GPT3 APIs.
 - [DreamBooth](https://github.com/replicate/dreambooth) - Cog model that takes training images as input and generates custom Stable Diffusion model weights as output.
+- [Gauss](https://github.com/justjake/Gauss) - Stable Diffusion macOS native app. ([HN](https://news.ycombinator.com/item?id=34157363))
+- [AI Art Generator](https://github.com/rbbrdckybk/ai-art-generator) - For automating the creation of large batches of AI-generated artwork locally.

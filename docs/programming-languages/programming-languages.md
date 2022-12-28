@@ -500,3 +500,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Language design: providing guarantees (Rust) vs communicating intent (Raku)](https://raku-advent.blog/2022/12/23/sigils-2/) ([Reddit](https://www.reddit.com/r/rust/comments/ztlhf4/language_design_providing_guarantees_rust_vs/))
 - [Cyber](https://github.com/fubark/cyber) - Fast, efficient, and concurrent scripting language.
 - [Compilation Speed discussed (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/zw3tn8/compilation_speed/)
+- [Vox](https://github.com/MrSmith33/vox) - Small and fast JIT/AOT compiler with zero dependencies.

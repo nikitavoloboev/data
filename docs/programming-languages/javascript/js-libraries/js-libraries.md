@@ -1076,6 +1076,8 @@
 - [Fuzzyset](https://github.com/Glench/fuzzyset.js) - Fuzzy string set for JS.
 - [ffjavascript](https://github.com/iden3/ffjavascript) - Finite Field Library in JavaScript.
 - [HR.js](https://github.com/mburakerman/hrjs) - Tiny JavaScript plugin for highlighting and replacing text in the DOM.
+- [Watcher](https://github.com/fabiospampinato/watcher) - File system watcher that strives for perfection, with no native dependencies and optional rename detection support.
+- [tiny-fs-native](https://github.com/holepunchto/tiny-fs-native) - Native FS for JavaScript.
 
 ## Links
 

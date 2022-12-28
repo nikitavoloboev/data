@@ -351,3 +351,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [How to publish Deno modules to NPM (2022)](https://deno.com/blog/dnt-oak)
 - [Deno - YouTube](https://www.youtube.com/@deno_land/videos)
 - [Deno Sessions: Deno 1.28, npm specifiers, Deno lock file, and more (2022)](https://www.youtube.com/watch?v=eRs_MGdCXGU)
+- [Fresh Components Beta](https://github.com/hashrock/fresh-components-beta) - Experimental Fresh Components.

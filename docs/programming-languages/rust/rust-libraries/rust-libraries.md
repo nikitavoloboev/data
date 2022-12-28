@@ -2424,6 +2424,7 @@
 - [rend](https://github.com/rkyv/rend) - Endian-aware primitives.
 - [rel](https://github.com/rkyv/rel) - Object system for Rust based on relative pointers.
 - [nnnoiseless](https://github.com/jneem/nnnoiseless) - Recurrent neural network for audio noise reduction.
+- [effing-mad](https://github.com/rosefromthedead/effing-mad) - Algebraic effects for Rust.
 
 ## Cargo Plugins
 

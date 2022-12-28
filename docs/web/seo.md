@@ -4,7 +4,7 @@ title: Search Engine Optimization
 
 # [Search Engine Optimization](http://en.wikipedia.org/wiki/Search_engine_optimization)
 
-[Improving SEO without knowing where to start](https://www.htmhell.dev/adventcalendar/2022/8/) is great read.
+[Improving SEO without knowing where to start](https://www.htmhell.dev/adventcalendar/2022/8/) is great read. [SerpBear](https://github.com/towfiqi/serpbear) is interesting.
 
 ## Notes
 
@@ -82,3 +82,4 @@ title: Search Engine Optimization
 - [Search Candy](https://www.searchcandy.uk/) - E-commerce SEO Consultancy.
 - [Almost all searches on my independent search engine are now from SEO spam bots (2022)](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/) ([HN](https://news.ycombinator.com/item?id=31395231))
 - [Improving SEO without knowing where to start (2022)](https://www.htmhell.dev/adventcalendar/2022/8/)
+- [SerpBear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App.
