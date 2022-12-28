@@ -18,6 +18,7 @@ Drink coffee on occasions, try not to do it daily as to get actual effects from 
 - [Coffee, done right, is delicious. High quality bean, appropriately roasted, relatively fresh, freshly ground immediately before use with a bur grinder, and then your choice of method, plenty of grinds but almost always hot water, and preferably some pressure to extract oils, finally filtered through paper. My weapon of choice is an aeropress or a manual espresso press. An Americano is arguably superior to a cup of drip. I drink it black.](https://news.ycombinator.com/item?id=26987526)
 - [Caffeine has a half-life of around 6-7 hours, but a quarter-life of around 12 hours. If you have a cup of coffee at noon, a quarter of that caffeine can still be circulating around your brain at midnight.](https://news.ycombinator.com/item?id=29413754)
 - [Moccamaster + Encore is great coffee combo.](https://twitter.com/fatih/status/1470364939965673481)
+- [Caffeine doesn't give you energy, it blocks adenosine which prevents you from feeling tired.](https://twitter.com/localghost/status/1607915775695937537)
 
 ## Links
 

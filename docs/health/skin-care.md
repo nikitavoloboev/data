@@ -184,3 +184,4 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [Overhyped or disappointed products used (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/znv9zp/overhyped_or_disappointed_products_used/)
 - [Your Holy Grail Skincare (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/zoc1jx/your_holy_grail_skincare/)
 - [Ways to prevent/reduce wrinkles](https://www.reddit.com/r/30PlusSkinCare/comments/zpv6e6/the_start_of_forehead_wrinkles_what_would_help/)
+- [“Expensive” vitamin C serums (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/zwhvum/expensive_vitamin_c_serum/)

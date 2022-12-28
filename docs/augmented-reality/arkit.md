@@ -33,3 +33,4 @@ title: ARKit
 - [SceneKitVideoRecorder](https://github.com/svhawks/SceneKitVideoRecorder) - Record your SceneKit and ARKit scenes easily.
 - [RealityKit Asset Loading](https://github.com/Reality-Dev/RealityKit-Asset-Loading) - Enables easy, convenient asynchronous asset loading in RealityKit for many different kinds of assets.
 - [Shadows & Lights in RealityKit (2022)](https://codingxr.com/articles/shadows-lights-in-realitykit/)
+- [ArtFilm](https://github.com/Halle/ArtFilm) - CMIO Camera Extension of the creative camera type, with configuration app.

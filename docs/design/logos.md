@@ -31,3 +31,4 @@ Learning to make [icons](icons.md) of all kinds.
 - [I used DALL·E 2 to generate a logo (2022)](https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/) ([HN](https://news.ycombinator.com/item?id=32320491))
 - [LogoArchive](https://www.logo-archive.org/) - Modernist logo archive, international research initiative & zine series. ([Twitter](https://twitter.com/LogoArchive))
 - [Can AI design a logo? (2022)](https://twitter.com/LinusEkenstam/status/1603276180823547904)
+- [Great books on doing logo design (2022)](https://twitter.com/kevintwohy/status/1607884379921215490)

@@ -201,3 +201,6 @@
 - [Generic Tagging for RISC-V Binaries (2022)](https://arxiv.org/abs/2212.05614)
 - [Learning Cryptography in Public](https://github.com/ncitron/badcrypto)
 - [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers)
+- [BLAKE3 specifications](https://github.com/BLAKE3-team/BLAKE3-specs)
+- [libjade](https://github.com/formosa-crypto/libjade) - Formally verified cryptographic library written in Jasmin with computer-verified proofs in EasyCrypt.
+- [20 Best Cryptography Algorithms Books of All Time (2022)](https://bookauthority.org/books/best-cryptography-algorithms-books)

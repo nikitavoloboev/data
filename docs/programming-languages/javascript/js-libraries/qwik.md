@@ -39,3 +39,4 @@ title: Qwik
 - [i18n demo for Qwik](https://github.com/mhevery/qwik-i18n)
 - [Qwik Sites Showcase](https://qwik.builder.io/showcase/)
 - [Interactive React components, without ever loading React in the browser](https://twitter.com/Steve8708/status/1601257653367209984)
+- [Qwik Translate Routes](https://github.com/Alexandre-Fernandez/qwik-translate-routes) - Generate translated routes for your qwik project.

@@ -157,6 +157,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Channel Comments Helper](https://github.com/Rongronggg9/comments-helper-bot)
 - [veebot-telegram](https://github.com/Veetaha/veebot-telegram)
 - [Summarize bot](https://t.me/summarization_bot) - Summarize what happened last 1,000 messages in Telegram group.
+- [Crates Bot](https://github.com/rust-br/crates-bot) - Telegram bot to search for Crates.
 
 ## Notes
 

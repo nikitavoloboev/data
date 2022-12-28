@@ -45,6 +45,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [strema](https://github.com/alexharri/strema) - Schema builder using TypeScript template strings.
 - [onetyped](https://github.com/sachinraja/onetyped) - Universal way to describe data.
 - [ts-sql-query](https://github.com/juanluispaz/ts-sql-query) - Type-safe query builder that provides a way to build dynamic SQL queries in a type-safe way.
+- [pgzod](https://github.com/owncoral/pgzod) - Transform PostgreSQL schemas into Zod validators and types.
 
 ## Web
 
@@ -721,6 +722,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Data-Forge](https://github.com/data-forge/data-forge-ts) - JavaScript data transformation and analysis toolkit inspired by Pandas and LINQ.
 - [Vercel Edge Config](https://github.com/vercel/edge-config) - Ultra-low latency data at the edge.
 - [range_reconcile](https://github.com/earthstar-project/range-reconcile) - Efficiently sync sets with range-based set reconciliation.
+- [SuperDiff](https://github.com/DoneDeal0/superdiff) - Compares two arrays or objects and return a complete diff of their differences in a readable format.
+- [tzlocator](https://github.com/Alexandre-Fernandez/tzlocator) - Lightweight privacy respecting geolocation library with no dependencies.
 
 ## Links
 

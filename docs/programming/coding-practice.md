@@ -135,3 +135,4 @@
 - [Leetcode Anki card generator](https://github.com/prius/leetcode-anki)
 - [LeetCode The Hard Way](https://wingkwong.github.io/leetcode-the-hard-way/) ([Code](https://github.com/wingkwong/leetcode-the-hard-way))
 - [Coding interview blog archive (in Russian)](https://github.com/vitkarpov/coding-interviews-blog-archive/tree/main/posts)
+- [Lessons Learnt From Solving AoC in One Second (2022)](https://blog.sulami.xyz/posts/aoc-in-one-second/)

@@ -62,6 +62,7 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - [Sugar doesn't make you fat, excess calories do. Honeycomb has a low glycemic index. Glycemic index matters a lot in any discussion about insulin.](https://twitter.com/tautologer/status/1521719972401016832)
 - [Lost weight is exhaled primarily as carbon dioxide and water vapor](https://www.reddit.com/r/NoStupidQuestions/comments/wij32s/i_lost_55_lbs_but_where_is_it/)
 - [Eat eggs, salami, yogurt, butter, fish eggs, sardines, cheeses, the highest quality you can afford. Remove excess folate (folic acid) supplementation from diet.](https://twitter.com/simonsarris/status/1593977228567666690)
+- [Reason we can't build muscle purely from carbohydrates is nitrogen. Although the air we are constantly breathing contains a very large amount of nitrogen, humans are only able to obtain usable nitrogen from amino acids. Human bodies are incapable of producing new amino acids - we are only able to modify amino acids that already exist. We must consume nitrogen in our diet - whether animal or plant sourced. Nitrogen is pretty much the defining characteristic of proteins, in terms of macronutrients. Neither carbs nor fats provide nitrogen in a usable form, unless there are amino acids involved.](https://www.reddit.com/r/nutrition/comments/zwyskz/why_dont_we_build_muscle_from_carbohydrates/)
 
 ## Links
 
@@ -152,3 +153,4 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - [Пищевая психиатрия: как питание и метаболизм влияют на ментальное здоровье (2022)](https://bioseminars.wordpress.com/2022/12/09/nutritional-psychiatry/)
 - [11 Probiotic Foods That Are Super Healthy](https://www.healthline.com/nutrition/11-super-healthy-probiotic-foods)
 - [Ask HN: What's your secret diet tip you can share? (2022)](https://news.ycombinator.com/item?id=34134833)
+- [Getting enough fiber with food](https://www.reddit.com/r/nutrition/comments/zwgg6f/getting_enough_fiber/)

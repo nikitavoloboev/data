@@ -653,3 +653,4 @@ title: Linux
 - [Durdur](https://github.com/boratanrikulu/durdur) - CLI tool for Linux implementing L4 package dropping with eBPF/Go.
 - [ELF section retrieval with debuginfod (2022)](https://www.redhat.com/en/blog/elf-section-retrieval-debuginfod)
 - [MinMon](https://github.com/flo-at/minmon) - Opinionated minimal monitoring and alarming tool (for Linux).
+- [Basic eBPF Load Balancer in a few lines of C](https://github.com/lizrice/lb-from-scratch)

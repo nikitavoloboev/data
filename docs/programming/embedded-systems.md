@@ -233,3 +233,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [From Zero to main(): Demystifying Firmware Linker Scripts (2019)](https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware)
 - [Bootlin](https://bootlin.com/) - Embedded Linux and kernel engineering. ([GitHub](https://github.com/bootlin))
 - [Rust on ESP-IDF "Hello, World" template](https://github.com/esp-rs/esp-idf-template)
+- [zmu](https://github.com/jjkt/zmu) - System level emulator for microcontrollers, aiming for high speed simulation of core and peripherals. Currently targets ARM Cortex MCUs.

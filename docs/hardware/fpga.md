@@ -122,4 +122,4 @@ title: Field-programmable gate array
 - [RIFFA (Reusable Integration Framework for FPGA Accelerators)](https://github.com/KastnerRG/riffa) - Simple framework for communicating data from a host CPU to a FPGA via a PCI Express bus.
 - [Retrocomputing with Clash: Haskell for FPGA Hardware Design](https://gergo.erdi.hu/retroclash/)
 - [Another World on FPGA (2022)](https://twitter.com/sylefeb/status/1606307644439875587)
-- [Accelerating ZK-SNARKs – MSM and NTT Algorithms on FPGAs with Hardcaml (2022)](https://blog.janestreet.com/zero-knowledge-fpgas-hardcaml/)
+- [Accelerating ZK-SNARKs – MSM and NTT Algorithms on FPGAs with Hardcaml (2022)](https://blog.janestreet.com/zero-knowledge-fpgas-hardcaml/) ([HN](https://news.ycombinator.com/item?id=34146794))

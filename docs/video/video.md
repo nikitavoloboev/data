@@ -458,3 +458,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [GopherCon 2022: Vladimir Vivien - System Programming for Real-time Video Capture in Go (2022)](https://www.youtube.com/watch?v=uiVQQi20DgM)
 - [Twitch Downloader](https://github.com/ihabunek/twitch-dl) - CLI tool for downloading videos from Twitch.
 - [Talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
+- [OpenShot Video Editor](https://github.com/OpenShot/openshot-qt) - Open-source video editor.

@@ -6,7 +6,7 @@ title: RSS
 
 Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. Previously used [Inoreader](https://www.inoreader.com/) but it was too expensive.
 
-[RSSHub](https://github.com/DIYgod/RSSHub) is useful.
+[RSSHub](https://github.com/DIYgod/RSSHub) & [Eleventy Activity Feed](https://github.com/11ty/eleventy-activity-feed) are useful.
 
 ## Notes
 
@@ -196,3 +196,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [How to rebuild social media on top of RSS (2022)](https://tfos.co/p/rebuild-social-media/) ([HN](https://news.ycombinator.com/item?id=33975082))
 - [Add RSS Feeds to Your Website to Keep Your Core Readers Engaged (2022)](https://medium.com/samsung-internet-dev/add-rss-feeds-to-your-website-to-keep-your-core-readers-engaged-3179dca9c91e)
 - [Ask HN: What RSS Reader do you use in 2022?](https://news.ycombinator.com/item?id=34108413)
+- [Eleventy Activity Feed](https://github.com/11ty/eleventy-activity-feed) - Create one centralized RSS feed for all of the content you create across the web (aggregates from Twitter, RSS, Atom, Mastodon, YouTube).

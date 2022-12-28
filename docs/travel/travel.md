@@ -150,3 +150,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Is there anything you do to avoid getting sick while you travel?](https://www.reddit.com/r/solotravel/comments/zoizep/is_there_anything_you_do_to_avoid_getting_sick/)
 - [Americans who have traveled abroad, which place would you not go back to? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/zp4fyo/americans_who_have_traveled_abroad_which_place/)
 - [Skiplagged](https://skiplagged.com/) - Cheap flight tickets.
+- [Beautiful Destinations - YouTube](https://www.youtube.com/@beautifuldestinations7604/videos)

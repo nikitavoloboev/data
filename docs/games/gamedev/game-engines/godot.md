@@ -17,6 +17,7 @@ title: Godot
 - [Builder 2D game](https://github.com/GDQuest/godot-2d-builder) - Simulation game demo made in Godot and inspired by Factorio.
 - [GDTLancer](https://github.com/roalyr/GDTLancer) - Performance-friendly 3D space game inspired by Freelancer, Orbiter and EVE.
 - [Tabletop Club](https://github.com/drwhut/tabletop-club) - Open-source platform for playing tabletop games in a physics-based 3D environment.
+- [Godot 2D Rhythm Game](https://github.com/GDQuest/godot-2d-rhythm)
 
 ## Links
 

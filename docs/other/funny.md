@@ -137,3 +137,5 @@ I try to get better at it and learning as I go. Noting funny moments that happen
 - [Мопс Мойша умный](https://www.youtube.com/watch?v=Y_6fqQDYTJk)
 - [When my grandkids ask what the bull market of the 2010s to early 2020s was like, I’ll just show them this video](https://twitter.com/Carnage4Life/status/1597778543110676480)
 - [Now it's your time to study statistical mechanics](https://twitter.com/lexipenia/status/1572237780104761348)
+- [ИНЖЕНЕР «каждый день»](https://www.youtube.com/watch?v=kRc3nAvyCfk)
+- [ИНЖЕНЕР "ПРО РУТИНУ"](https://www.youtube.com/watch?v=YYXbQjPAIdY)

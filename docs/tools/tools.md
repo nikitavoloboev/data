@@ -289,7 +289,7 @@ One of my favorite things in life is building little tools for solving even the 
 - [Tinysheet](https://tinysheet.com/) ([HN](https://news.ycombinator.com/item?id=28967514))
 - [Taler](https://www.taler.app/) - Social design sandbox.
 - [Carbonmade](https://carbonmade.com/) - Your online portfolio.
-- [mobile.dev](https://www.mobile.dev/) - New standard for mobile development. ([Twitter](https://twitter.com/mobile__dev))
+- [Mobile.dev](https://www.mobile.dev/) - New standard for mobile development. ([Twitter](https://twitter.com/mobile__dev)) ([Re-Building the iOS Driver](https://blog.mobile.dev/maestro-re-building-the-ios-driver-603998b012e8))
 - [Buildanevent.com](https://buildanevent.com/) - Simple, fast, modular event builder. ([Article](https://www.timcchang.com/posts/buildanevent))
 - [Lustre](https://lustre.ai/) - Find the best product for your budget.
 - [linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service.
@@ -805,3 +805,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [APITable](https://github.com/apitable/apitable) - Open-source Airtable alternative. ([Web](https://apitable.com/)) ([HN](https://news.ycombinator.com/item?id=34127804))
 - [Links.dev](https://links.dev/) - Simplify your online presence with one simple link. ([Code](https://github.com/fatih-yavuz/links.dev))
 - [Alternatives to internal FB dev tools](https://github.com/greko6/xfb2xfb)
+- [Novu](https://novu.co/) - Open-source notification infrastructure. ([Code](https://github.com/novuhq/novu))

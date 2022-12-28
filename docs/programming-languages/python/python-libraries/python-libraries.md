@@ -1095,6 +1095,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [bstruct](https://github.com/flxbe/bstruct) - Simple and efficient binary (de)serialization using regular type annotations.
 - [dbt utils](https://github.com/dbt-labs/dbt-utils) - Utility functions for dbt projects.
 - [UltraJSON](https://github.com/ultrajson/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings.
+- [python-benedict](https://github.com/fabiocaccamo/python-benedict) - Dict subclass with keylist/keypath support, I/O shortcuts and many utilities.
 
 ## Notes
 

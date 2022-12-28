@@ -18,7 +18,7 @@ Enjoyed [Building Web UI's in Rust w/ Greg Johnston](https://www.youtube.com/wat
 
 [Rust Atomics and Locks: Low-Level Concurrency in Practice](https://marabos.nl/atomics/) is great book.
 
-[MacroKata](https://github.com/tfpk/macrokata) is great for learning macros.
+[MacroKata](https://github.com/tfpk/macrokata) is great for learning macros. [Idiomatic Rust](https://github.com/mre/idiomatic-rust) is nice read to learn best practices.
 
 ## Templates
 
@@ -55,7 +55,7 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Rust Language Reference](https://doc.rust-lang.org/nightly/reference/) ([Code](https://github.com/rust-lang/reference))
 - [Rust Code](https://github.com/rust-lang/rust)
-- [Idiomatic rust](https://github.com/mre/idiomatic-rust)
+- [Idiomatic Rust](https://github.com/mre/idiomatic-rust) - Peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [Rust patterns](https://github.com/rust-unofficial/patterns)
 - [Reflections on Rust, and the Sand Castle Metaphor](https://brandur.org/fragments/rust-reflections)
 - [Building Reliable Infrastructure in Rust by Tyler Neely](https://www.youtube.com/watch?v=hMJEPWcSD8w)

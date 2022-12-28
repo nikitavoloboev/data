@@ -26,3 +26,4 @@
 - [Best Albums of 2022: Beyoncé, Rosalía and More (2022)](https://www.nytimes.com/2022/11/30/arts/music/best-albums-renaissance-bad-bunny.html)
 - [Favorite album openers (2022)](https://twitter.com/dan_abramov/status/1602414528985239585)
 - [The Top Albums Of 2022 According To Genius Data](https://genius.com/a/the-top-albums-of-2022-according-to-genius-data)
+- [Album Art](https://github.com/lacymorrow/album-art) - Fetch an album or artist image URL.

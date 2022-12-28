@@ -50,3 +50,4 @@ Loved an [interview of Ben Mendelsohn](https://www.youtube.com/watch?v=65HymY-KJ
 - [Who’s your “never misses” actor? (2022)](https://www.reddit.com/r/Letterboxd/comments/yy55vc/whos_your_never_misses_actor/)
 - [When you stop casting your actors off the street](https://www.youtube.com/watch?v=9qHHplli2q4)
 - [Actors You Can’t Stand (2022)](https://www.reddit.com/r/MovieSuggestions/comments/zp5jf2/actors_you_cant_stand/)
+- [Why Timothee Chalamet's Acting Is Different (2022)](https://www.youtube.com/watch?v=3qShrcH2mik)

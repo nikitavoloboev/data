@@ -4,6 +4,8 @@ I share different photographs and art pieces I like on [my Instagram page](https
 
 I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](https://www.reddit.com/r/glitch_art). And I like exploring [Dribble](https://dribbble.com/nikitavoloboev/likes), [Behance](https://www.behance.net/nikitavoloboev/appreciated), [ArtStation](https://www.artstation.com/nikitavoloboev/likes) & [Artsy](https://www.artsy.net/) for various art people have made.
 
+[INPRNT](https://www.inprnt.com/) is nice place to buy art pieces.
+
 ## Favorite artists
 
 - [0010](https://www.instagram.com/dhjs_0010/) ([Twitter](https://twitter.com/dhjs_0010))
@@ -574,3 +576,5 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Banchan Art](https://banchan.art/) - Platform for Online Art Commissions. ([Code](https://github.com/BanchanArt/banchan))
 - [imgs.ai](https://imgs.ai/interface) - Fast, dataset-agnostic, deep visual search engine for digital art history based on neural network embeddings. ([Code](https://github.com/zentralwerkstatt/imgs.ai))
 - [Melobytes](https://melobytes.com/en/) - AI in the service of art.
+- [Art Prints by Titsay](https://www.inprnt.com/gallery/titsay/)
+- [INPRNT](https://www.inprnt.com/) - Gallery Quality Art Prints.

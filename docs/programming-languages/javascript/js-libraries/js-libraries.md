@@ -1078,6 +1078,9 @@
 - [HR.js](https://github.com/mburakerman/hrjs) - Tiny JavaScript plugin for highlighting and replacing text in the DOM.
 - [Watcher](https://github.com/fabiospampinato/watcher) - File system watcher that strives for perfection, with no native dependencies and optional rename detection support.
 - [tiny-fs-native](https://github.com/holepunchto/tiny-fs-native) - Native FS for JavaScript.
+- [jsonld.js](https://github.com/digitalbazaar/jsonld.js) - JSON-LD Processor and API implementation in JavaScript.
+- [swiped-events](https://github.com/john-doherty/swiped-events) - Adds `swiped` events to the DOM in 1k of pure JavaScript.
+- [long-press-event](https://github.com/john-doherty/long-press-event) - Adds `long-press` event to the DOM in 1k of pure JavaScript.
 
 ## Links
 

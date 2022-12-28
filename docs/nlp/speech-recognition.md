@@ -163,3 +163,7 @@ title: Speech recognition
 - [Speech-to-text with Whisper: How I Use It & Why (2022)](https://www.harihareswara.net/posts/2022/speech-to-text-with-whisper-how-i-use-it-why/)
 - [SPTK](https://github.com/sp-nitech/SPTK) - Speech Signal Processing Toolkit.
 - [Speechbox](https://github.com/huggingface/speechbox) - Speech processing tools, such as punctuation restoration.
+- [Zero-shot Punctuation Insertion using Whisper](https://github.com/jumon/whisper-punctuator)
+- [Zero-shot Audio Classification using Whisper](https://github.com/jumon/zac)
+- [Whisper CLI, built with Rust](https://github.com/m1guelpf/whisper-cli-rs)
+- [Whisper-rs](https://github.com/tazz4843/whisper-rs) - Rust bindings to whisper.cpp.

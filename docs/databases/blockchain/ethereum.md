@@ -742,3 +742,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Ethereum token lists](https://tokenlists.org/) ([Spec](https://github.com/Uniswap/token-lists)) ([Bridge Utils](https://github.com/Uniswap/token-list-bridge-utils))
 - [Solarray](https://github.com/evmcheb/solarray) - Fast helper library for convenient Solidity dynamic arrays.
 - [Evolution of the Ethereum proof-of-stake consensus protocol](https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md) ([HN](https://news.ycombinator.com/item?id=34119048))
+- [Tour of ethers-rs](https://github.com/0xKitsune/Tour-of-ethers-rs)

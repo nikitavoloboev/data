@@ -438,3 +438,4 @@ Currently prefer using [Deno](../../web/deno.md) instead of Node. Sometimes use 
 - [nleak](https://github.com/nleak/nleak) - Automatic memory leak detection and diagnosis tool for NodeJS.
 - [lookpath](https://github.com/otiai10/lookpath) - Minimum and most straightforward way to check if command exists and where the executable is, without spawning child_process.
 - [nypm](https://github.com/unjs/nypm) - Unified Package Manager for Node.js.
+- [Implementation of the napi API for WASM](https://github.com/devongovett/napi-wasm)

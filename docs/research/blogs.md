@@ -70,7 +70,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [the morning paper](https://blog.acolyer.org/)
 - [Fabian Tamp](https://capnfabs.net/posts/)
 - [Vitalik Buterin](https://vitalik.ca/) ([Code](https://github.com/vbuterin/blog))
-- [NSHipster](https://nshipster.com/)
+- [NSHipster](https://nshipster.com/) ([Code](https://github.com/NSHipster/articles))
 - [Cloudflare Blog](https://blog.cloudflare.com/) ([Code samples](https://github.com/cloudflare/cloudflare-blog))
 - [Aleksey Kladov](https://matklad.github.io/) ([Code](https://github.com/matklad/matklad.github.io))
 - [Kirill's Rust Blog](https://github.com/pretzelhammer/rust-blog)
@@ -259,6 +259,10 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Kaarel Moppel](https://kmoppel.github.io/)
 - [Rachel by the Bay](https://rachelbythebay.com/w/)
 - [Vadim Makeev](https://pepelsbey.dev/articles/)
+- [Daniel Mangum](https://danielmangum.com/posts/)
+- [Robin Schroer](https://blog.sulami.xyz/)
+- [Emir Uz](https://emiruz.com/)
+- [Wisha W](https://wishawa.github.io/posts/)
 
 ## Notes
 

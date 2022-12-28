@@ -85,3 +85,5 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Speki](https://github.com/TBS1996/speki) - Flashcards for your terminal.
 - [Anki-English](https://github.com/wesselb/anki-english)
 - [Spaced inbox](https://github.com/riceissa/spaced-inbox) - Minimal spaced writing inbox.
+- [Anki SRS Algorithm : Spaced repetition explained with code (2022)](https://www.juliensobczak.com/inspect/2022/05/30/anki-srs.html) ([HN](https://news.ycombinator.com/item?id=34152100))
+- [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) - Modern Anki custom scheduling based on free spaced repetition scheduler algorithm.

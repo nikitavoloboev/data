@@ -45,3 +45,4 @@ title: CUDA
 - [GPU Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
 - [cudarc](https://github.com/coreylowman/cudarc) - Safe rust wrapper around CUDA toolkit.
 - [CUDAMat](https://github.com/cudamat/cudamat) - Python module for performing basic dense linear algebra computations on the GPU using CUDA.
+- [CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - Open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.

@@ -4,6 +4,8 @@ title: Program synthesis
 
 # [Program synthesis](https://en.wikipedia.org/wiki/Program_synthesis)
 
+[This](https://github.com/nadia-polikarpova/cse291-program-synthesis/wiki/Reading-List) is nice reading list, part of [course](https://github.com/nadia-polikarpova/cse291-program-synthesis/wiki).
+
 ## Links
 
 - [λ²](https://github.com/jfeser/L2) - Tool for synthesizing functional programs from input-output examples.

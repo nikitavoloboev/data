@@ -8,7 +8,7 @@ title: Haskell
 
 [Haskell for Working Programmers](https://github.com/liftM/haskell-for-working-programmers) & [Write You a Haskell](http://dev.stephendiehl.com/fun/) are great reads.
 
-[Production Haskell](https://leanpub.com/production-haskell) seems like a nice advanced Haskell book.
+[Production Haskell](https://leanpub.com/production-haskell) & [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) seem like nice advanced Haskell books.
 
 It'd be interesting to have a [functional language](../../programming/functional-programming/functional-programming.md) like Haskell but [without gc](https://www.reddit.com/r/haskell/comments/zis59t/why_the_gc/).
 

@@ -304,3 +304,4 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [Ask HN: Why do search functions everywhere not return what I search for? (2022)](https://news.ycombinator.com/item?id=34077266)
 - [Neural Search Frameworks: A Head-to-Head Comparison (2022)](https://dmitry-kan.medium.com/neural-search-frameworks-a-head-to-head-comparison-976aa6662d20)
 - [ChatGPT is a ‘code red’ for Google’s search business (2022)](https://news.ycombinator.com/item?id=34086462)
+- [Rust Search](https://github.com/ParthJadhav/rust_search) - Fast file search library built in Rust.

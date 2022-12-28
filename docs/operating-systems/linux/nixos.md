@@ -284,3 +284,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Nix and NixOS, my pain points (2022)](https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html) ([HN](https://news.ycombinator.com/item?id=34115340)) ([Lobsters](https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points))
 - [nmd](https://github.com/gvolpe/nmd) - NixOS Module Documentation generator.
 - [Managing infrastructure with Terraform, CDKTF, and NixOS (2022)](https://vincent.bernat.ch/en/blog/2022-cdktf-nixos)
+- [NixOS Remote](https://github.com/numtide/nixos-remote) - Install NixOS everywhere via ssh.

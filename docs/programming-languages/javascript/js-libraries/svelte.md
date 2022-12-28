@@ -326,3 +326,6 @@ title: Svelte
 - [SvelteKit is my mistress (2022)](https://www.youtube.com/watch?v=uEJ-Rnm2yOE)
 - [Atomic Svelte](https://github.com/atomicdata-dev/atomic-svelte) - Implementation of Atomic Data for Svelte.
 - [Svelte JSON tree](https://github.com/tanhauhau/svelte-json-tree) - JSON tree component for Svelte.
+- [Svelte AIO](https://github.com/rayriffy/svelte-aio) - Automatic image optimization for SvelteKit, inspired by NextJS.
+- [Svelidate](https://github.com/Alexandre-Fernandez/svelidate) - Simple and lightweight form validation for Svelte with no dependencies.
+- [Svelte Smooth Popover](https://github.com/AskingQuestions/svelte-smooth-popover) - Robust, unstyled popover component for Svelte with a customizable smooth/sharp caret.

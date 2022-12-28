@@ -212,3 +212,4 @@ title: Terraform
 - [Terraform tree](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
 - [protoc-gen-terraform](https://github.com/gravitational/protoc-gen-terraform) - Generates Terraform provider schemas and unmarshallers from protobuf definitions.
 - [Terraform Module: Hashicorp Vault GitHub OIDC](https://github.com/digitalocean/terraform-vault-github-oidc)
+- [Terraform Bridge Provider Boilerplate](https://github.com/pulumi/pulumi-tf-provider-boilerplate) - Boilerplate code for Terraform provider-backed Pulumi packages.

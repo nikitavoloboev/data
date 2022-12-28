@@ -97,3 +97,4 @@ title: ReasonML
 - [ReScript 10.0 (2022)](https://rescript-lang.org/blog/release-10-0-0) ([HN](https://news.ycombinator.com/item?id=32993631))
 - [Getting rid of your dead code in ReScript (2022)](https://dev.to/zth/getting-rid-of-your-dead-code-in-rescript-3mba)
 - [ReScript Tutorial](https://github.com/protoship/rescript-tutorial)
+- [Defunctionalization in Reason (2019)](https://gugahoa.github.io/reasonml/2019/06/17/defunctionalization.html)

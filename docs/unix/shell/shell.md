@@ -276,6 +276,7 @@ All active variables can be seen by running `env`.
 - [A year of building for the terminal (2022)](https://textual.textualize.io/blog/2022/12/20/a-year-of-building-for-the-terminal/) ([HN](https://news.ycombinator.com/item?id=34093025))
 - [teetty](https://github.com/mitsuhiko/teetty) - Wrapper binary to execute a command in a pty while providing remote control facilities.
 - [Shmux](https://github.com/shikaan/shmux) - Run all your scripts from one file. ([HN](https://news.ycombinator.com/item?id=34119355))
-- [A Guide to the Terminal, Console, and Shell (2022)](https://thevaluable.dev/guide-terminal-shell-console/)
+- [A Guide to the Terminal, Console, and Shell (2022)](https://thevaluable.dev/guide-terminal-shell-console/) ([HN](https://news.ycombinator.com/item?id=34146212))
 - [Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, all from the terminal. ([HN](https://news.ycombinator.com/item?id=34144707))
 - [LLM.sh](https://github.com/jayhack/llm.sh) - Copilot for your command line. Just type llm XYZ and it will generate/run a script for you that does XYZ.
+- [askai](https://github.com/maxvfischer/askai) - CLI integration with OpenAI's GPT3, enabling you to ask questions and receive the answers straight in your terminal.

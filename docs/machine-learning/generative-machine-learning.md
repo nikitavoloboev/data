@@ -201,7 +201,6 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode) - VSCode extension that allows you to use ChatGPT.
 - [Placing #1 in Advent of Code with GPT-3](https://github.com/max-sixty/aoc-gpt) ([HN](https://news.ycombinator.com/item?id=33850999))
 - [ChatGPT API](https://github.com/transitive-bullshit/chatgpt-api) - Node.js wrapper around ChatGPT. Uses headless Chrome until the official API is released.
-- [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) - Go CLI to fuels a Telegram bot that lets you interact with ChatGPT.
 - [ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 - [ChatGPT for Google](https://github.com/wong2/chat-gpt-google-extension) - Chrome extension to show ChatGPT response in Google search results. ([HN](https://news.ycombinator.com/item?id=33853773))
 - [A new AI game: Give me ideas for crimes to do (2022)](https://simonwillison.net/2022/Dec/4/give-me-ideas-for-crimes-to-do/)
@@ -277,3 +276,6 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [DreamBooth](https://github.com/replicate/dreambooth) - Cog model that takes training images as input and generates custom Stable Diffusion model weights as output.
 - [Gauss](https://github.com/justjake/Gauss) - Stable Diffusion macOS native app. ([HN](https://news.ycombinator.com/item?id=34157363))
 - [AI Art Generator](https://github.com/rbbrdckybk/ai-art-generator) - For automating the creation of large batches of AI-generated artwork locally.
+- [Run Stable Diffusion natively on your Mac](https://sindresorhus.com/amazing-ai) ([HN](https://news.ycombinator.com/item?id=34156140))
+- [Various ways of serving Stable Diffusion using Keras](https://github.com/deep-diver/keras-sd-serving)
+- [Fine-tuning Stable Diffusion using Keras](https://github.com/sayakpaul/stable-diffusion-keras-ft)

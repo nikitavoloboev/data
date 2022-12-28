@@ -14,6 +14,8 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 
 [React Email](https://github.com/zenorocha/react-email) seems nice for sending emails.
 
+[Really Good Emails](https://reallygoodemails.com/) is great overview of nice email designs.
+
 ## Notes
 
 - [All archive does is remove the Inbox label (in Gmail).](https://productforums.google.com/forum/#!msg/gmail/2xUYO5ifCCY/95_y02y2IgAJ)
@@ -97,7 +99,7 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Small Mailserver Best Current Practices (2020)](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/) ([Lobsters](https://lobste.rs/s/aqmpa8/small_mailserver_best_current_practices))
 - [A Month-and-a-Half of Self-Hosted Email (2020)](https://www.paritybit.ca/blog/a-month-and-a-half-of-self-hosted-email)
 - [Sending e-mail from Cloudflare Workers (2020)](https://guido.io/posts/sending-email-from-cloudflare-workers/)
-- [Really Good Emails](https://reallygoodemails.com/) - Curated collection of emails.
+- [Really Good Emails](https://reallygoodemails.com/) - Curated collection of emails. ([Twitter](https://twitter.com/reallygoodemail))
 - [ETHMail](https://ethmail.cc/) - Email services for Ethereum community.
 - [Mutt](http://mutt.org/) - E-Mail Client. ([HN](https://news.ycombinator.com/item?id=24173676)) ([HN 2](https://news.ycombinator.com/item?id=25019901))
 - [Implementing 'focus and reply' for Fastmail with JMAP (2020)](https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/) ([HN](https://news.ycombinator.com/item?id=24207506))

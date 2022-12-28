@@ -2,6 +2,8 @@
 
 [Hugging Face Datasets](https://huggingface.co/datasets) & [TensorFlow Datasets](https://github.com/tensorflow/datasets) have nice collections.
 
+[AutoViz](https://github.com/AutoViML/AutoViz) is nice for visualizing datasets.
+
 ## Links
 
 - [Google Dataset Search](https://datasetsearch.research.google.com/) ([HN](https://news.ycombinator.com/item?id=22130874)) ([HN](https://news.ycombinator.com/item?id=27068551))
@@ -223,3 +225,5 @@
 - [GWA](https://github.com/GAMMA-UMD/GWA) - Geometric-Wave Acoustic dataset.
 - [Generalized RDF datasets for Rust](https://github.com/timothee-haudebourg/grdf)
 - [Video2Dataset](https://github.com/iejMac/video2dataset) - Easily create large video dataset from video URLs.
+- [AutoViz](https://github.com/AutoViML/AutoViz) - Automatically Visualize any dataset, any size with a single line of code.
+- [KiloGram Tangrams dataset](https://github.com/lil-lab/kilogram)

@@ -355,6 +355,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Name three books you read in 2022 which you'd recommend](https://twitter.com/algo_luca/status/1604083465456058368)
 - [Ask HN: What is the best thing you read in 2022?](https://news.ycombinator.com/item?id=34055123)
 - [Books that take magic "seriously" (2022)](https://www.reddit.com/r/Fantasy/comments/zrfzk4/books_that_take_magic_seriously/)
+- [Ask HN: Books you read in 2022 and recommend for 2023](https://news.ycombinator.com/item?id=34160611)
 
 ## Interesting Prose Books
 

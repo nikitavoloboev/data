@@ -8,6 +8,8 @@ title: Redis
 
 I use [Upstash](https://upstash.com/) as a [serverless Redis](https://www.youtube.com/watch?v=AkIGEvjsWTg).
 
+[Mini Redis](https://github.com/tokio-rs/mini-redis) is nice code to read to understand Redis internals.
+
 ## Notes
 
 - [Redis is great for shared memory across service instances. Solves the 'how can I make every instance of this app aware of something' problem. Examples: Session store backed by redis. Cache layer backed by redis. Async atomic Job queue.](https://twitter.com/bcomnes/status/1515000087163781120)

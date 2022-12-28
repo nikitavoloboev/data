@@ -6,7 +6,7 @@ title: Vue.js
 
 [Vitesome](https://github.com/alvarosabu/vitesome) is a nice template. [Villus](https://github.com/logaretm/villus) is nice Vue GraphQL client. [tRPC-Nuxt](https://github.com/wobsoriano/trpc-nuxt) seems pretty great too.
 
-[Nuxt](https://github.com/nuxt/framework) seems nice.
+[Nuxt](https://github.com/nuxt/framework) seems nice. [Anu](https://github.com/jd-solanki/anu) is great Vue component library.
 
 ## Built with Vue
 

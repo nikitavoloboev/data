@@ -63,3 +63,4 @@
 - [Verilog-Perl](https://github.com/veripool/verilog-perl) - Verilog parser, preprocessor, and related tools.
 - [TinyTapeout](https://github.com/TinyTapeout/tinytapeout-02) - Educational project that makes it easier and cheaper than ever to get your digital designs manufactured on a real chip.
 - [NEORV32 in Verilog](https://github.com/stnolting/neorv32-verilog) - Convert the NEORV32 processor into a synthesizable plain-Verilog netlist module using GHDL.
+- [UVM Verilator](https://github.com/chipsalliance/uvm-verilator)

@@ -22,3 +22,4 @@ title: Effector
 - [Effector localStorage](https://github.com/ilyalesik/effector-localstorage)
 - [Effector Factorio](https://github.com/Kelin2025/effector-factorio) - Simplest way to write re-usable features with React + Effector.
 - [Using Effector with Electron](https://twitter.com/_sergeysova/status/1607315217041743872)
+- [Effector Hotkey](https://github.com/Kelin2025/effector-hotkey) - Hotkeys with Effector made easy.

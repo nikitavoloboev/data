@@ -1,10 +1,14 @@
 # Git
 
-I love Git and version control. And I use version control over any project I do. I follow a [series of rules](../../focusing/rules.md#git) when dealing with Git. [Josh](https://github.com/josh-project/josh) seems neat. [Think Like Git](https://tacaswell.github.io/think-like-git.html) & [What made you finally grok Git?](https://news.ycombinator.com/item?id=33653212) are great reads.
+I use [Sublime Merge](https://www.sublimemerge.com/) as my git client app. And follow a [series of rules](../../focusing/rules.md#git) when dealing with Git.
+
+[Josh](https://github.com/josh-project/josh) seems neat. [Think Like Git](https://tacaswell.github.io/think-like-git.html) & [What made you finally grok Git?](https://news.ycombinator.com/item?id=33653212) are great reads.
 
 [git-branchless](https://github.com/arxanas/git-branchless), [git absorb](https://github.com/tummychow/git-absorb) & [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) are useful.
 
-[gh pr checkout is useful](https://twitter.com/dan_abramov/status/1600653294375870465).
+[gh GitHub CLI](https://cli.github.com/) is great. Specifically [gh pr checkout is useful](https://twitter.com/dan_abramov/status/1600653294375870465). [Git Alias](https://github.com/GitAlias/gitalias) is nice overview of various git commands.
+
+[gitoxide](https://github.com/Byron/gitoxide) is nice reimplementation of Git in [Rust](../../programming-languages/rust/rust.md).
 
 ## Notes
 

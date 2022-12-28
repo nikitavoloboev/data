@@ -27,6 +27,8 @@ title: Tauri
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop)
 - [ChatGPT Desktop App](https://github.com/lencx/ChatGPT)
 - [Elk Desktop](https://github.com/elk-zone/elk-desktop) - Mastodon web client.
+- [Verve](https://github.com/ParthJadhav/verve) - Lightweight and fast launcher for accessing and opening applications, files and documents.
+- [Nasoone](https://github.com/davideaimar/nasoone) - Application that allows you to collect statistics about the traffic in your network.
 
 ## Notes
 

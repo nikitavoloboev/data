@@ -106,3 +106,4 @@
 - [Run separate Buildkite pipelines for each folder in your monorepo](https://github.com/monebag/monorepo-diff-buildkite-plugin)
 - [Agola](https://github.com/agola-io/agola) - CI/CD Redefined. ([Docs](https://agola.io/))
 - [Datadog CI](https://github.com/DataDog/datadog-ci) - Use Datadog from your CI.
+- [Continuous Benchmarking, Done Right](https://github.com/asayers/cbdr) - Run benchmarks as part of your continuous integration ⇒ automatically flag MRs which regress performance.

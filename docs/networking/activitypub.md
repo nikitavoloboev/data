@@ -79,3 +79,4 @@ title: ActivityPub
 - [ActivityPub Core](https://github.com/michaelcpuckett/activitypub-core) - Spec-compliant ActivityPub core library.
 - [chirp.social](https://github.com/michaelcpuckett/ap-groups) - Client application that creates Group accounts on the fediverse. ([Web](https://chirp.social/))
 - [Waq](https://github.com/ushitora-anqou/waq) - ActivityPub's server written in OCaml.
+- [Activity Pub for Go](https://github.com/go-ap/activitypub)

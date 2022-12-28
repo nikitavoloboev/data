@@ -4,6 +4,10 @@
 
 [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html) is nice read too.
 
+## Notes
+
+- [Lots of the important results in deep learning are built based on SDEs: stochastic gradient descent and variants; diffusion models and variants; mean-field NN theory.](https://twitter.com/dwgreyman/status/1607850298973757440)
+
 ## Links
 
 - [The Probability and Statistics Cookbook](http://statistics.zone/) ([HN](https://news.ycombinator.com/item?id=31640229))
@@ -179,3 +183,5 @@
 - [Mean (μ) and median (m) are within a std deviation (σ)](https://twitter.com/docmilanfar/status/1600709918973399040)
 - [Statistical Rethinking Course (2023)](https://github.com/rmcelreath/stat_rethinking_2023)
 - [High-Dimensional Probability and Applications in Data Science](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
+- [Applied Stochastic Differential Equations (2019)](https://users.aalto.fi/~ssarkka/pub/sde_book.pdf)
+- [Stochastic Differential Equations: Introduction with Applications](https://www.amazon.com/Stochastic-Differential-Equations-Introduction-Applications/dp/3540047581)

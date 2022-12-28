@@ -234,3 +234,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [LinkedIn Scraper](https://github.com/EatonChips/yalis)
 - [Google Image Scraper](https://github.com/ohyicong/Google-Image-Scraper) - Library to scrape google images.
 - [CLI google crawler written in go](https://github.com/jerlendds/serp-search)
+- [HTML Semantic Seg](https://github.com/dmvaldman/html_semantic_seg) - Tool to create a dataset of semantic segmentation on website screenshots from their DOM.

@@ -164,3 +164,4 @@
 - [You Are This Likely To Get An STD](https://www.youtube.com/watch?v=yEQclXsXhYk)
 - [Books for couples not having problems (2022)](https://www.reddit.com/r/sexover30/comments/x0xclv/books_for_couples_not_having_problems/)
 - [What have you done to spice up your sex life in long term relationship](https://www.reddit.com/r/sexover30/comments/zvu3i4/what_have_you_done_to_spice_up_your_sex_life_in/)
+- [Difference between clit and vagina orgasms](https://www.reddit.com/r/sex/comments/zwjwz8/so_whats_the_difference_between_clit_and_vagina/)

@@ -116,6 +116,8 @@
 - [System.css](https://sakofchit.github.io/system.css/) - Design system for building retro Apple-inspired interfaces. ([HN](https://news.ycombinator.com/item?id=32429848))
 - [JetBrains Ring UI](https://jetbrains.github.io/ring-ui/master/index.html) ([HN](https://news.ycombinator.com/item?id=33123948))
 - [Seed Design System](https://github.com/daangn/seed-design)
+- [Vibe Design System](https://style.monday.com/?path=/docs/welcome--page)
+- [Cal.com Components](https://ui.cal.com/)
 
 ## Notes
 

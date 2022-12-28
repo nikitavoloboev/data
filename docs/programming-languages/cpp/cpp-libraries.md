@@ -78,6 +78,7 @@
 - [Mesh2SDF](https://github.com/wang-ps/mesh2sdf) - Converts an input mesh to a signed distance field (SDF).
 - [GTSAM](https://github.com/borglab/gtsam) - C++ library that implements smoothing and mapping (SAM) in robotics and vision, using Factor Graphs and Bayes Networks.
 - [VERA](https://github.com/patriciogonzalezvivo/vera) - C++/WASM Graphic Framework.
+- [EmberGL](https://github.com/EmberGL-org/EmberGL) - Low-level open source graphics library, similar to OpenGL/DirectX/Vulkan, designed for real-time 2D/3D rendering on MCUs.
 
 ## DB
 

@@ -746,3 +746,6 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Reasoning in Large Language Models](https://github.com/jeffhj/LM-reasoning)
 - [SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization (2022)](https://arxiv.org/abs/2212.10465) ([Code](https://github.com/skywalker023/sodaverse))
 - [Happy Transformer](https://github.com/EricFillion/happy-transformer) - Package built on top of Hugging Face's transformers library that makes it easy to utilize state-of-the-art NLP models.
+- [TextBox](https://github.com/RUCAIBox/TextBox) - Text generation library with pre-trained language models.
+- [Advances in Neural Information Processing Systems 30 (NIPS 2017)](https://papers.nips.cc/paper/2017)
+- [Poincaré Embeddings for Learning Hierarchical Representations (2017)](https://arxiv.org/abs/1705.08039) ([Code](https://github.com/facebookresearch/poincare-embeddings))

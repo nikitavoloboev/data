@@ -22,6 +22,8 @@ It's useful to setup linters like [GolangCI-Lint](https://github.com/golangci/go
 
 [Guide to Go profiling, tracing and observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md) is useful read.
 
+[Concurrency in Go Fundamentals](https://rogerwelin.github.io/golang/go/concurrency/2018/09/04/golang-concurrency-fundamentals.html) & [Go Concurrency Patterns](https://github.com/lotusirous/go-concurrency-patterns) are great to read to understand concurrency better. [Concurrency is not Parallelism](https://www.youtube.com/watch?v=oV9rvDllKEg).
+
 ## Commenting Go code
 
 - Comments documenting declarations should be full sentences.
@@ -933,3 +935,4 @@ if *boolArgPtr != false {
 - [Go SSA Playground](https://golang.design/gossa) - Tool for exploring Go's SSA intermediate representation. ([Code](https://github.com/golang-design/ssaplayground))
 - [Go Proposals](https://research.swtch.com/proposals)
 - [Event-Driven Architecture in Go (2022)](https://www.packtpub.com/product/event-driven-architecture-in-golang/9781803238012) ([Code](https://github.com/PacktPublishing/Event-Driven-Architecture-in-Golang))
+- [Concurrency is not Parallelism by Rob Pike](https://www.youtube.com/watch?v=oV9rvDllKEg)

@@ -665,6 +665,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Maths](https://github.com/theriault/maths) - Includes mathematical functions not defined in the standard Go math package.
 - [ease](https://github.com/fogleman/ease) - Easing Functions in Go.
 - [percent](https://github.com/dariubs/percent) - Simple library for calculate percentages.
+- [vector](https://github.com/quartercastle/vector) - Better way to write vector math in Go.
 
 ## Biology
 
@@ -2138,3 +2139,4 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [OSV-Scanner](https://github.com/google/osv-scanner) - Find existing vulnerabilities affecting your project's dependencies. ([HN](https://news.ycombinator.com/item?id=34016188))
 - [Connecting to a PostgreSQL database with Go's database/sql package](https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/)
 - [Best Go ORM that uses GraphQL and Postgres (2022)](https://www.reddit.com/r/golang/comments/zoy5hu/best_orm_that_uses_graphql_and_postgres/)
+- [Go: Inside sync.Map — How does sync.Map work internally? (2021)](https://sreramk.medium.com/go-inside-sync-map-how-does-sync-map-work-internally-97e87b8e6bf)

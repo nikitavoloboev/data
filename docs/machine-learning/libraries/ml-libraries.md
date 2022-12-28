@@ -443,3 +443,5 @@ title: ML Libraries
 - [Fortuna](https://github.com/awslabs/fortuna) - Library for Uncertainty Quantification.
 - [A-UNet](https://github.com/archinetai/a-unet) - Library that provides building blocks to customize UNets, in PyTorch.
 - [Concrete-ML](https://github.com/zama-ai/concrete-ml) - Privacy-Preserving Machine Learning (PPML) open-source set of tools built on top of The Concrete Framework by Zama.
+- [Poniard](https://github.com/rxavier/poniard) - Scikit-learn companion library that streamlines the process of fitting different machine learning models and comparing them.
+- [Mango](https://github.com/ARM-software/mango) - Parallel Hyperparameter Tuning in Python.
