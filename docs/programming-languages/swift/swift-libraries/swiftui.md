@@ -272,3 +272,4 @@ title: SwiftUI
 - [SwiftUI is convenient, but slow (2022)](https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow) ([HN](https://news.ycombinator.com/item?id=33772876))
 - [Building custom layout in SwiftUI. Spacing. (2022)](https://swiftwithmajid.com/2022/12/06/building-custom-layout-in-swiftui-spacing/)
 - [SwiftUI View Lifecycle](https://github.com/ole/swiftui-view-lifecycle) - iOS and macOS app that demonstrates how different SwiftUI constructs and SwiftUI container views affect.
+- [MacPreviewUtils](https://github.com/insidegui/MacPreviewUtils) - Handy tools for SwiftUI previews on macOS.

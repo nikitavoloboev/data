@@ -15,7 +15,11 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 
 [NixOS Weekly](https://weekly.nixos.org/) is useful newsletter. [NixOS MicroVMs](https://github.com/astro/microvm.nix) seem neat.
 
+[Colmena](https://github.com/zhaofengli/colmena) is interesting.
+
 [Managing infrastructure with Terraform, CDKTF, and NixOS](https://vincent.bernat.ch/en/blog/2022-cdktf-nixos) is great.
+
+I currently don't deploy things on bare metal from some provider like [Hetzner](https://www.hetzner.com/). But I might in future for some self hosted things due to cost savings, probably using a [nix script like this](https://github.com/cachix/cachix-deploy-hetzner-dedicacted).
 
 ## Nix configs (NixOS)
 

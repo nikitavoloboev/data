@@ -292,3 +292,4 @@ title: Spatial analysis
 - [What does Overture Map mean for the future of OpenStreetMap? (2022)](https://blog.andygol.co.ua/en/2022/12/24/creating-overture-map-and-future-of-osm/) ([HN](https://news.ycombinator.com/item?id=34122719))
 - [ol-mapbox-style](https://github.com/openlayers/ol-mapbox-style) - Use Mapbox Style objects with OpenLayers.
 - [Mapeo Desktop](https://github.com/digidem/mapeo-desktop) - Offline map editing application for indigenous territory mapping in remote environments.
+- [Rust Reverse Geocoder](https://github.com/gx0r/rrgeo) - Fast, offline, reverse geocoder.

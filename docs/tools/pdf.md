@@ -90,3 +90,4 @@
 - [Open PDF Sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your command line. ([HN](https://news.ycombinator.com/item?id=34051652))
 - [pdfcpu](https://github.com/pdfcpu/pdfcpu) - PDF processor written in Go. ([HN](https://news.ycombinator.com/item?id=34104946))
 - [pdfium-render](https://github.com/ajrcarey/pdfium-render) - Idiomatic high-level Rust interface to Pdfium. Used by Google Chromium.
+- [PDF.js extract](https://github.com/ffalt/pdf.js-extract) - Extracts text from PDF files.

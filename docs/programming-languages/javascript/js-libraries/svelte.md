@@ -329,3 +329,4 @@ title: Svelte
 - [Svelte AIO](https://github.com/rayriffy/svelte-aio) - Automatic image optimization for SvelteKit, inspired by NextJS.
 - [Svelidate](https://github.com/Alexandre-Fernandez/svelidate) - Simple and lightweight form validation for Svelte with no dependencies.
 - [Svelte Smooth Popover](https://github.com/AskingQuestions/svelte-smooth-popover) - Robust, unstyled popover component for Svelte with a customizable smooth/sharp caret.
+- [Svelte Loading Spinners](https://schum123.github.io/svelte-loading-spinners/) ([Code](https://github.com/Schum123/svelte-loading-spinners))

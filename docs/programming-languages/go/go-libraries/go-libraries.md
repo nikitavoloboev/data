@@ -665,6 +665,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [ease](https://github.com/fogleman/ease) - Easing Functions in Go.
 - [percent](https://github.com/dariubs/percent) - Simple library for calculate percentages.
 - [vector](https://github.com/quartercastle/vector) - Better way to write vector math in Go.
+- [go-fraction](https://github.com/nethruster/go-fraction) - Go library for working with fractions.
 
 ## Biology
 

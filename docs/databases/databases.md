@@ -18,7 +18,7 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 
 [Slashbase](https://slashbase.com/) is nice GUI app to talk with databases.
 
-[LSM in a Week](https://github.com/skyzh/mini-lsm) is nice tutorial for building LSM-Tree storage engine.
+[LSM in a Week](https://github.com/skyzh/mini-lsm) & [TinyKV Course](https://github.com/talent-plan/tinykv) are great resources.
 
 ## Interesting
 
@@ -592,7 +592,7 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Индексируем базу: как делать хорошо и не делать плохо](https://github.com/Envek/saintprubyconf-db-indexes-talk)
 - [Ask HN: How do you manage direct updates to databases in a production system (2021)](https://news.ycombinator.com/item?id=29563226)
 - [Databases in 2021: A Year in Review](https://ottertune.com/blog/2021-databases-retrospective/) ([HN](https://news.ycombinator.com/item?id=29731885))
-- [TinyKV Course](https://github.com/tidb-incubator/tinykv) - Builds a key-value storage system with the Raft consensus algorithm.
+- [TinyKV Course](https://github.com/talent-plan/tinykv) - Course to build distributed key-value service based on TiKV model.
 - [Database Systems Resources](https://github.com/paulosman/database-systems)
 - [2021 in Database Startups: Gold Rush](https://unum.cloud/post/2021-12-31-dbms-startups/) ([HN](https://news.ycombinator.com/item?id=29749541))
 - [Databass, Part 1: Queries (2021)](https://blog.josephmorag.com/posts/databass1/)

@@ -264,6 +264,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [fastecdsa](https://github.com/AntonKueltz/fastecdsa) - Python library for fast elliptic curve crypto.
 - [PyCryptodome](https://github.com/Legrandin/pycryptodome) - Self-contained cryptographic library for Python.
 - [eciespy](https://github.com/ecies/py) - Elliptic Curve Integrated Encryption Scheme for secp256k1 in Python.
+- [pyOpenSSL](https://github.com/pyca/pyopenssl) - Python wrapper around the OpenSSL library.
 
 ## GraphQL
 

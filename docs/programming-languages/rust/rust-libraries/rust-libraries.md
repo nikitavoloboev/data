@@ -4,7 +4,9 @@
 
 [shuttle](https://github.com/awslabs/shuttle) is nice for testing concurrent code. [Burn](https://github.com/burn-rs/burn) looks nice as ML library. [Typeshare](https://github.com/1Password/typeshare) is nice for type sharing between languages.
 
-[rkyv](https://github.com/rkyv/rkyv) is great for serialization. [Moka](https://github.com/moka-rs/moka) is nice for caching.
+[rkyv](https://github.com/rkyv/rkyv) is great for serialization. [Moka](https://github.com/moka-rs/moka) or [Quick Cache](https://github.com/arthurprs/quick-cache) seem nice for caching.
+
+[Safer FFI](https://github.com/getditto/safer_ffi) is nice for writing safe rust bindings.
 
 ## CLI
 
@@ -214,6 +216,7 @@
 - [rust-multiaddr](https://github.com/multiformats/rust-multiaddr) - Composable and future-proof network addresses.
 - [axohtml](https://github.com/axodotdev/axohtml) - Type checked JSX for Rust.
 - [str0m](https://github.com/algesten/str0m) - Sync sans I/O WebRTC implementation in Rust.
+- [lil-http](https://github.com/m1guelpf/lil-http-rs) - Barebones HTTP 1.1 framework, built in Rust with no external dependencies (other than tokio).
 
 ## Auth
 
@@ -385,6 +388,7 @@
 - [odht](https://github.com/rust-lang/odht) - Hash tables that can be mapped from disk into memory without the need for up-front decoding.
 - [schnellru](https://github.com/koute/schnellru) - Fast and flexible LRU map.
 - [Canyon-SQL](https://github.com/zerodaycode/Canyon-SQL) - Rust ORM and query builder for multiple databases. ([Reddit](https://www.reddit.com/r/rust/comments/zv5znb/a_new_orm_and_querybuilder_for_rust/))
+- [Quick Cache](https://github.com/arthurprs/quick-cache) - Lightweight and high performance concurrent cache.
 
 ## Video
 

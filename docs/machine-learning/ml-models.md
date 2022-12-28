@@ -2,7 +2,7 @@
 
 [Tangram](https://www.tangram.dev/), [PostgresML](https://github.com/postgresml/postgresml), [ZenML](https://zenml.io/home) & [Merlin](https://github.com/gojek/merlin) seem neat. Looking into using [Cog](https://github.com/replicate/cog) to package ML models.
 
-Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [generative](generative-machine-learning.md)) with their [HTTP template](https://github.com/bananaml/serverless-template).
+Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [generative](generative-machine-learning.md)) with their [HTTP template](https://github.com/bananaml/serverless-template). [Replicate](https://replicate.com/) is great too.
 
 [XManager](https://github.com/deepmind/xmanager) is nice for managing ML model experiments.
 
@@ -118,7 +118,7 @@ Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [gene
 - [Prog Rock Stable](https://github.com/lowfuel/progrock-stable) - Stable Diffusion with some Proggy Enhancements.
 - [Diffusers-Interpret](https://github.com/JoaoLages/diffusers-interpret) - Model explainability tool built on top of Diffusers.
 - [Using GitHub as Artifactory for Machine Learning Model Artifacts (2022)](https://omkar.xyz/gaama/)
-- [Replicate](https://replicate.com/) - Run open-source machine learning models with a cloud API. ([Go Replicate](https://github.com/sausheong/goreplicate))
+- [Replicate](https://replicate.com/) - Run open-source machine learning models with a cloud API. ([Go Replicate](https://github.com/sausheong/goreplicate)) ([GitHub](https://github.com/replicate))
 - [dfserver](https://github.com/huo-ju/dfserver) - Distributed backend AI pipeline server.
 - [dstack](https://github.com/dstackai/dstack) - Command-line utility to provision infrastructure for ML workflows. ([Docs](https://docs.dstack.ai/))
 - [Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter) - Open-source library to audit data privacy in statistical and machine learning algorithms.

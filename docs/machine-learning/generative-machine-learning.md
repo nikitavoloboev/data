@@ -279,3 +279,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Run Stable Diffusion natively on your Mac](https://sindresorhus.com/amazing-ai) ([HN](https://news.ycombinator.com/item?id=34156140))
 - [Various ways of serving Stable Diffusion using Keras](https://github.com/deep-diver/keras-sd-serving)
 - [Fine-tuning Stable Diffusion using Keras](https://github.com/sayakpaul/stable-diffusion-keras-ft)
+- [Stable Diffusion v2 Cog model](https://github.com/replicate/cog-stable-diffusion)

@@ -239,3 +239,4 @@ title: Jupyter Notebooks
 - [ipyannotations](https://github.com/janfreyberg/ipyannotations) - Data annotations in python using jupyter notebooks.
 - [jupytee](https://github.com/fperez/jupytee) - Use OpenAI's GPT-3 models inside Jupyter environments.
 - [Create an extension for JupyterLab and Jupyter Notebook 7 (2022)](https://www.youtube.com/watch?v=mqotG1MkHa4)
+- [ipyhtmx](https://github.com/davidbrochart/ipyhtmx) - Build modern UIs in Jupyter with Python.

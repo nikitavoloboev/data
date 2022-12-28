@@ -8,6 +8,8 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 
 [Midjourney](https://www.midjourney.com/) & [ChatGPT](chatgpt.md) are my favorite uses of AI right now.
 
+[Hugging Face](https://huggingface.co/) has amazing community focused on sharing [ml models](ml-models.md) with community.
+
 ## Notes
 
 - [We will all soon stop emphasizing something was created using AI and we will just focus on creating.](https://twitter.com/c_valenzuelab/status/1599158969771393024)

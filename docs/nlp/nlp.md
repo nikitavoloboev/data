@@ -10,6 +10,8 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 
 [LangChain](https://github.com/hwchase17/langchain/) & [Petals](https://petals.ml/) are interesting. [Lightning GPT](https://github.com/Lightning-AI/lightning-gpt) is nice minimal GPT implementation.
 
+[Tokenizers](https://github.com/huggingface/tokenizers) & [tiktoken](https://github.com/openai/tiktoken) are interesting tokenizers.
+
 ## Notes
 
 - [Figuring out correctly when/what to escalate to a human would change customer service more than anything else.](https://twitter.com/_abhisheksankar/status/1441793453864620044)
@@ -750,3 +752,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Advances in Neural Information Processing Systems 30 (NIPS 2017)](https://papers.nips.cc/paper/2017)
 - [Poincaré Embeddings for Learning Hierarchical Representations (2017)](https://arxiv.org/abs/1705.08039) ([Code](https://github.com/facebookresearch/poincare-embeddings))
 - [llm-strategy](https://github.com/BlackHC/llm-strategy) - Implementing the Strategy Pattern using LLMs.
+- [Zshot](https://github.com/IBM/zshot) - Zero and Few shot named entity & relationships recognition.

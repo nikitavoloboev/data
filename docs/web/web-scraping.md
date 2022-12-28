@@ -2,7 +2,7 @@
 
 [Scraping Fish](https://scrapingfish.com/), [shot-scraper](https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) ([example](https://til.simonwillison.net/shot-scraper/readability)), [Colly](https://github.com/gocolly/colly) are neat.
 
-Currently exploring [Playwright](https://playwright.dev/) together with [AutoScraper](https://github.com/alirezamika/autoscraper) for my scraping needs.
+Currently exploring [Playwright](https://playwright.dev/) together with [AutoScraper](https://github.com/alirezamika/autoscraper) for my scraping needs. [Crawlee](https://github.com/apify/crawlee) looks great too.
 
 ## Links
 
@@ -33,7 +33,7 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Website Sitemap Parser](https://github.com/berkmancenter/mediacloud-ultimate-sitemap-parser)
 - [rget](https://github.com/merklecounty/rget) - Download URLs and verify the contents against a publicly recorded cryptographic log.
 - [yarl](https://github.com/aio-libs/yarl) - Yet another URL library.
-- [Apify](https://apify.com/) - Web Scraping, Data Extraction and Automation.
+- [Apify](https://apify.com/) - Web Scraping, Data Extraction and Automation. ([GitHub](https://github.com/apify))
 - [Gumbo](https://github.com/google/gumbo-parser) - Pure-C HTML5 parser.
 - [What is a present-day web scraping in 2020?](https://dataflowkit.com/blog/what-is-a-present-day-web-scraper/)
 - [Dataflow Kit](https://dataflowkit.com/) - Web scraping. Data extraction tools
@@ -235,3 +235,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Google Image Scraper](https://github.com/ohyicong/Google-Image-Scraper) - Library to scrape google images.
 - [CLI google crawler written in go](https://github.com/jerlendds/serp-search)
 - [HTML Semantic Seg](https://github.com/dmvaldman/html_semantic_seg) - Tool to create a dataset of semantic segmentation on website screenshots from their DOM.
+- [fingerprint-suite](https://github.com/apify/fingerprint-suite) - Browser fingerprinting tools for anonymizing your scrapers.

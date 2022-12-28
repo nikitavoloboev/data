@@ -54,3 +54,4 @@
 - [Tolgee](https://tolgee.io/) - Translation management cloud platform made for translating modern web applications. ([Code](https://github.com/tolgee/tolgee-platform))
 - [i18n.js](https://github.com/fnando/i18n) - Small library to provide the I18n translations on the JavaScript.
 - [Zod Internationalization](https://github.com/aiji42/zod-i18n) - Used to translate Zod's default error messages.
+- [Talkr](https://github.com/DoneDeal0/Talkr) - Lightest i18n provider for React applications. It supports Typescript, provides autocompletion, has 0 dependencies, and is very easy to use.

@@ -1062,3 +1062,4 @@
 - [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation (2022)](https://arxiv.org/abs/2212.11565) ([Code](https://github.com/showlab/Tune-A-Video))
 - [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields (2022)](https://github.com/ToniRV/NeRF-SLAM)
 - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures (2022)](https://arxiv.org/abs/2211.07600) ([Code](https://github.com/eladrich/latent-nerf))
+- [Deep Architectures for Content Moderation and Movie Content Rating (2022)](https://arxiv.org/abs/2212.04533) ([Code](https://github.com/fcakyon/content-moderation-deep-learning))

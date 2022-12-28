@@ -387,7 +387,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Awesome React Headless Components](https://github.com/jxom/awesome-react-headless-components)
 - [preactement](https://github.com/jhukdev/preactement) - Create a custom element from any Preact component.
 - [Advice on JSX Conditionals (2022)](https://thoughtspile.github.io/2022/01/17/jsx-conditionals/) ([HN](https://news.ycombinator.com/item?id=30596970))
-- [React Runner](https://github.com/nihgwu/react-runner) - Run your React code on the go.
+- [React Runner](https://github.com/nihgwu/react-runner) - Run your React code on the go. ([Web](https://react-runner.vercel.app/))
 - [react-extras](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React.
 - [react-worker-components-plugin](https://github.com/Aslemammad/react-worker-components-plugin) - Plugin that renders components in web workers and not in the main thread.
 - [React Fast Accordion](https://github.com/ShivamJoker/React-fast-accordion) - Dynamic, fast & zero dependency accordions for React. ([Reddit](https://www.reddit.com/r/reactjs/comments/sxnuli/my_new_library_is_now_out_reactfastaccordion_zero/))
