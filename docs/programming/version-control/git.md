@@ -2,7 +2,7 @@
 
 I use [Sublime Merge](https://www.sublimemerge.com/) as my git client app. And follow a [series of rules](../../focusing/rules.md#git) when dealing with Git.
 
-[Josh](https://github.com/josh-project/josh) seems neat. [Think Like Git](https://tacaswell.github.io/think-like-git.html) & [What made you finally grok Git?](https://news.ycombinator.com/item?id=33653212) are great reads.
+[Josh](https://github.com/josh-project/josh), [Glitter](https://github.com/Milo123459/glitter) [Lazygit](https://github.com/jesseduffield/lazygit) seem neat. [Think Like Git](https://tacaswell.github.io/think-like-git.html) & [What made you finally grok Git?](https://news.ycombinator.com/item?id=33653212) are great reads.
 
 [git-branchless](https://github.com/arxanas/git-branchless), [git absorb](https://github.com/tummychow/git-absorb) & [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) are useful.
 

@@ -108,3 +108,4 @@ Love [Nils Frahm](https://www.nilsfrahm.com/)'s [synthesizers setup](https://equ
 - [A Language for Making Languages for Making Synthesizers - Stevie Hryciw (2022)](https://www.youtube.com/watch?v=haEyHWokMuQ)
 - [Live Coding Video Synth](https://hydra.ojack.xyz/) ([HN](https://news.ycombinator.com/item?id=33668198))
 - [Video Synthesis - MOD WIGGLER](https://modwiggler.com/forum/viewforum.php?f=48)
+- [Logue SDK](https://github.com/korginc/logue-sdk) - Build custom oscillators and effects for the prologue synthesizer.

@@ -4,7 +4,7 @@
 
 [shuttle](https://github.com/awslabs/shuttle) is nice for testing concurrent code. [Burn](https://github.com/burn-rs/burn) looks nice as ML library. [Typeshare](https://github.com/1Password/typeshare) is nice for type sharing between languages.
 
-[rkyv](https://github.com/rkyv/rkyv) is great for serialization.
+[rkyv](https://github.com/rkyv/rkyv) is great for serialization. [Moka](https://github.com/moka-rs/moka) is nice for caching.
 
 ## CLI
 
@@ -959,6 +959,7 @@
 - [Astro-float](https://github.com/stencillogic/astro-float) - Arbitrary precision floating point numbers library.
 - [wedged](https://github.com/jsmith628/wedged) - Robust and generalized library for Geometric Algebra in Rust.
 - [matrixmultiply](https://github.com/bluss/matrixmultiply) - General matrix multiplication of f32 and f64 matrices in Rust. Supports matrices with general strides.
+- [watermill](https://github.com/online-ml/watermill.rs) - Fast, generic and serializable online statistics.
 
 ## CSS
 
@@ -2427,6 +2428,7 @@
 - [nnnoiseless](https://github.com/jneem/nnnoiseless) - Recurrent neural network for audio noise reduction.
 - [effing-mad](https://github.com/rosefromthedead/effing-mad) - Algebraic effects for Rust.
 - [fsevent-stream](https://github.com/PhotonQuantum/fsevent-stream) - Stream-based FSEvents API bindings.
+- [bucu1](https://github.com/graydon/bocu1) - BOCU-1 encoder/decoder.
 
 ## Cargo Plugins
 

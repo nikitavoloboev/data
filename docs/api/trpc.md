@@ -32,3 +32,4 @@ title: tRPC
 - [tRPC v10 is great](https://www.youtube.com/watch?v=uu57PhChTOE)
 - [tRPC.panel](https://github.com/iway1/trpc-panel) - Build a testing UI for your tRPC endpoints.
 - [Type safe Backend-For-Frontends for Single Page Apps (2022)](https://www.youtube.com/watch?v=ugKa7PNI2CI)
+- [Prisma + tRPC + WebSockets](https://github.com/trpc/examples-next-prisma-websockets-starter)

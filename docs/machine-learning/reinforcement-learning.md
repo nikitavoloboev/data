@@ -418,3 +418,4 @@ title: Reinforcement learning
 - [Alpha Zero General](https://github.com/suragnair/alpha-zero-general) - Simplified, highly flexible, commented and (hopefully) easy to understand implementation of self-play based reinforcement learning based on the AlphaGo Zero paper.
 - [Peter Norvig critically reviews AlphaCode’s code quality](https://github.com/norvig/pytudes/blob/main/ipynb/AlphaCode.ipynb) ([HN](https://news.ycombinator.com/item?id=34020025))
 - [PaLM + RLHF - PyTorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
+- [Masking in Deep Reinforcement Learning (2022)](https://boring-guy.sh/posts/masking-rl/)

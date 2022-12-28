@@ -263,6 +263,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Robin Schroer](https://blog.sulami.xyz/)
 - [Emir Uz](https://emiruz.com/)
 - [Wisha W](https://wishawa.github.io/posts/)
+- [Adil Zouitine](https://boring-guy.sh/)
 
 ## Notes
 
