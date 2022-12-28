@@ -6,7 +6,7 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 
 [Andrej Karpathy](https://github.com/karpathy) does amazing work in ML. His [interview with Lex](https://www.youtube.com/watch?v=cdiD-9MMpb0) was insightful. Transformer ML models as described in [Attention Is All You Need](https://arxiv.org/abs/1706.03762) are very useful.
 
-[Midjourney](https://www.midjourney.com/) & [ChatGPT](https://chat.openai.com/chat#) are my favorite uses of AI right now.
+[Midjourney](https://www.midjourney.com/) & [ChatGPT](chatgpt.md) are my favorite uses of AI right now.
 
 ## Notes
 

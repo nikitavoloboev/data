@@ -4,6 +4,8 @@
 
 I now am using [Solid](../../js-libraries/solid.md) for all my web apps and static sites, so trying to port many useful hooks from here for Solid.
 
+[React Spectrum](https://github.com/adobe/react-spectrum) has quality UI components.
+
 ## Notes
 
 - [Design System opinion: Don't make your <Link\> and <Button\> components support both link and button visuals. Do make your <Link\> and <Button\> components renders either <a\> or <button\> based on the props passed to it ("to" should render an anchor, "onClick" should render a button)](https://twitter.com/buildsghost/status/1389294014222934018)

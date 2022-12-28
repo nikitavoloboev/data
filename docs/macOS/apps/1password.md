@@ -54,3 +54,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [ripasso](https://github.com/cortex/ripasso) - Simple password manager written in Rust.
 - [Password Manager Comparison](https://password-manager.soft-wa.re/) ([HN](https://news.ycombinator.com/item?id=34149099))
 - [Pa](https://github.com/biox/pa) - Simple password manager based on age. ([Lobsters](https://lobste.rs/s/m7efzy/pa_simple_password_manager_based_on_age)) ([HN](https://news.ycombinator.com/item?id=34159631))
+- [kbs2](https://github.com/woodruffw/kbs2) - Secret manager backed by age.

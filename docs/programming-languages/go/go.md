@@ -936,3 +936,4 @@ if *boolArgPtr != false {
 - [Go Proposals](https://research.swtch.com/proposals)
 - [Event-Driven Architecture in Go (2022)](https://www.packtpub.com/product/event-driven-architecture-in-golang/9781803238012) ([Code](https://github.com/PacktPublishing/Event-Driven-Architecture-in-Golang))
 - [Concurrency is not Parallelism by Rob Pike](https://www.youtube.com/watch?v=oV9rvDllKEg)
+- [Yoda](https://github.com/thomscoder/yoda) - Get a summary of Go files to programmatically query them.

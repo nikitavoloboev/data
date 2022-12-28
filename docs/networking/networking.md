@@ -571,3 +571,4 @@
 - [How Many Computers Are In Your Computer?](https://www.gwern.net/Computers)
 - [NATS By Example](https://github.com/ConnectEverything/nats-by-example) - Collection of reference examples using NATS.
 - [Writing a Mini-CDN to Learn Nginx/Prometheus/Grafana/Lua](https://github.com/leandromoreira/cdn-up-and-running)
+- [Certificate Ripper](https://github.com/Hakky54/certificate-ripper) - CLI tool to extract server certificates.

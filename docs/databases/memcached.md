@@ -27,3 +27,4 @@ title: Memcached
 - [memcached-rs](https://github.com/zonyitoo/memcached-rs) - Memcached library in Rust.
 - [aiomcache](https://github.com/aio-libs/aiomcache) - Minimal asyncio memcached client.
 - [zcache](https://github.com/arp242/zcache) - In-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
+- [hatrie_cache](https://github.com/kokizzu/hatrie_cache) - Distributed memcache using HAT-Trie.

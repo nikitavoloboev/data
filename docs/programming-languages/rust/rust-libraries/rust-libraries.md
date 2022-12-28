@@ -483,6 +483,7 @@
 - [xilem](https://github.com/linebender/xilem) - Experimental Rust native UI framework.
 - [rough-rs](https://github.com/orhanbalci/rough-rs) - Draw handy sketches from your rust applications.
 - [Contrast Renderer](https://github.com/Lichtso/contrast_renderer) - Web-gpu based 2D render engine written in Rust.
+- [turtle](https://github.com/sunjay/turtle) - Create Animated Drawings in Rust.
 
 ## Games
 
@@ -498,6 +499,7 @@
 - [me3](https://github.com/garyttierney/me3) - Framework for modding and instrumenting games.
 - [Backroll](https://github.com/HouraiTeahouse/backroll-rs) - Pure Rust implementation of GGPO rollback networking library.
 - [durian](https://github.com/spoorn/durian) - Client-server networking library built on top of the QUIC protocol. ([Reddit](https://www.reddit.com/r/rust/comments/zfseve/durian_a_highlevel_general_purpose_clientserver/))
+- [tween](https://github.com/sanbox-irl/tween) - Std-optional tweening library, designed for use in games and animations.
 
 ## GraphQL
 

@@ -464,3 +464,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix on the Steam Deck (2022)](https://determinate.systems/posts/nix-on-the-steam-deck) ([HN](https://news.ycombinator.com/item?id=34102816))
 - [Generate Nix Flakes imperatively](https://github.com/DieracDelta/flake_generator)
 - [Setting up my new laptop: nix style (2022)](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
+- [Nix Starters](https://github.com/jacg/nix-starters) - Templates for getting started with Nix: home-manager, Rust projects, Python projects, C++ projects, etc.

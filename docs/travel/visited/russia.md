@@ -634,3 +634,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Сибирская горница](http://gornitsa.ru/)
 - [Collapse: The Fall of the Soviet Union by Vladislav M. Zubok (2021)](https://www.goodreads.com/en/book/show/57615568)
 - ["Война не отменила цинизм, она его поменяла". Мовчан о русских деньгах и России в облаке. (2022)](https://www.youtube.com/watch?v=fVNxyoIvSJA)
+- [Парфенов – что происходит с Россией (2022)](https://www.youtube.com/watch?v=1pj8LTlxLnY)
