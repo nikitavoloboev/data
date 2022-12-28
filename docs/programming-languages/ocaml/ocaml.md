@@ -163,3 +163,4 @@ title: OCaml
 - [Experimenting with OCaml 5.0](https://github.com/yminsky/experiment-with-ocaml-5)
 - [What are the biggest reasons newcomers give up on OCaml?](https://discuss.ocaml.org/t/what-are-the-biggest-reasons-newcomers-give-up-on-ocaml/10958) ([Reddit](https://www.reddit.com/r/ocaml/comments/zqfoq5/what_are_the_biggest_reasons_newcomers_give_up_on/))
 - [OCaml on Microcontroller Boards](https://github.com/stevenvar/OMicroB) ([Lobsters](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could))
+- [Programming project on automatic differentiation in OCaml](https://github.com/fpottier/mpri-2.4-projet-2022-2023)

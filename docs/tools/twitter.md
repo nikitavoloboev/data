@@ -16,7 +16,7 @@ I love the idea of freedom of speech, but not freedom of reach whereby anyone ca
 
 I am trying to build my own [app with a network of people that's based on sharing your learnings and ideas](../ideas/learn-anything.md). You would be able to share notes, ideas in similar way I do here in this wiki but more streamlined. With everything being [open source](https://github.com/learn-anything/learn-anything).
 
-One thing I dislike about Twitter is that it gives you no tools to actually build some kind of knowledge system off your own or other's tweets. A dream Twitter like network in my eyes would treat knowledge as first class thing, from which you can share parts or all of your knowledge with all or 'publish/tweet' parts of it out to your followers. But also have a place to catalogue, share and callaborate on ideas together.
+I dislike that Twitter gives you no tools to actually build some kind of knowledge system off your own or other's tweets. A dream Twitter like network in my eyes would treat knowledge as first class thing, from which you can share parts or all of your knowledge with all or 'publish/tweet' parts of it out to your followers. But also have a place to catalogue, share and callaborate on ideas together.
 
 Twitter will always have a special place and it will be hard to beat it at what it does best despite the fact that it's not transparent and not open source. But will see. TikTok showed that it's possible to disrupt even such giant networks if you position/market your product well.
 
