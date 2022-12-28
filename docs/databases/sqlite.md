@@ -4,7 +4,7 @@ title: SQLite
 
 # [SQLite](https://www.sqlite.org/index.html)
 
-[Litestream](https://github.com/benbjohnson/litestream) & [Postlite](https://github.com/benbjohnson/postlite) are neat. Like using [deno_sqlite](https://github.com/denodrivers/sqlite3) for scripts that query SQLite. [SQLite](https://github.com/stainless-steel/sqlite), [Rusqlite](https://github.com/rusqlite/rusqlite), [Rusqlite Migration](https://github.com/cljoly/rusqlite_migration) are great SQLite libs for Rust. [sqlc](https://github.com/kyleconroy/sqlc) is nice for Go. [GRDB](https://github.com/groue/GRDB.swift) is nice for Swift.
+[Litestream](https://github.com/benbjohnson/litestream), [Postlite](https://github.com/benbjohnson/postlite) & [Rqlite](https://github.com/rqlite/rqlite) are neat. Like using [deno_sqlite](https://github.com/denodrivers/sqlite3) for scripts that query SQLite. [SQLite](https://github.com/stainless-steel/sqlite), [Rusqlite](https://github.com/rusqlite/rusqlite), [Rusqlite Migration](https://github.com/cljoly/rusqlite_migration) are great SQLite libs for Rust. [sqlc](https://github.com/kyleconroy/sqlc) is nice for Go. [GRDB](https://github.com/groue/GRDB.swift) is nice for Swift.
 
 I use SQLite for whenever I need an embedded database. Local apps etc. It works great for local first architectures like [Replicache](https://replicache.dev/) & [Logux](https://logux.io/). If I don't need the embedded factor, I prefer using [EdgeDB](edgedb.md). Want to try using [ws4sqlite](https://github.com/proofrock/ws4sqlite).
 
