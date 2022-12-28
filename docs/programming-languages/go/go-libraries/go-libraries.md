@@ -759,6 +759,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Errors](https://github.com/nicolasparada/go-errs) - Create constant sentinel errors with errors.Is support.
 - [go-xerrors](https://github.com/MDobak/go-xerrors) - Idiomatic and lightweight package that provides a set of functions to make working with errors easier. ([Reddit](https://www.reddit.com/r/golang/comments/xsfgw3/mdobakgoxerrors_yet_another_error_handling_library/))
 - [Fault](https://github.com/Southclaws/fault) - Go errors but structured and composable. Fault provides an extensible yet ergonomic mechanism for wrapping errors. ([Reddit](https://www.reddit.com/r/golang/comments/yhkr8i/go_errors_but_structured_and_composable_fault/))
+- [werr](https://github.com/iand/werr) - Wraps errors with a stack trace.
 
 ## Other
 

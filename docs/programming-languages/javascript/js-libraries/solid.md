@@ -191,3 +191,4 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [Solid Auth](https://github.com/OrJDev/solid-auth) - Authentication for Solid & SolidStart.
 - [decorock](https://github.com/ddPn08/decorock) - Styled component library for solid.
 - [Solid tiptap](https://github.com/lxsmnsyc/solid-tiptap)
+- [A React Developer's First Take on Solid (2022)](https://jakelazaroff.com/words/a-react-developers-first-take-on-solid/)

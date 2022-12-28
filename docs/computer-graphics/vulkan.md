@@ -4,6 +4,12 @@ title: Vulkan API
 
 # [Vulkan API](https://www.khronos.org/vulkan/)
 
+[Vulkan Guide](https://vkguide.dev/) is great intro.
+
+## Notes
+
+- [Vulkan has a lot going for it these days, but IMO the problem with its future is that (a) it's too verbose to use without an abstraction on top and (b) vendors won't stop pushing their native APIs as a competitive advantage (Microsoft still pushing DirectX - often getting features a year or two ahead of Vulkan, Apple is pushing Metal, GNM[X] from Sony, etc.). I think this means the future of graphics APIs is software abstractions around the truly native APIs (DirectX, Metal, etc.) - things like WebGPU, sokol_gfx, SDL's new GPU abstraction, and Sebastian Aaltonen](https://news.ycombinator.com/item?id=34165295).
+
 ## Links
 
 - [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide) - One stop shop for getting started with the Vulkan API.

@@ -152,6 +152,7 @@
 - [zcirc](https://github.com/hmusgrave/zcirc) - Dynamic circular buffer allocator for zig.
 - [poolalloc](https://github.com/hmusgrave/poolalloc) - Arena allocator with object re-use.
 - [zig-js](https://github.com/mitchellh/zig-js) - Access the JS host environment from Zig compiled to WebAssembly.
+- [zble](https://github.com/ConnorRigby/zble) - Bluetooth in Zig.
 
 ## Links
 

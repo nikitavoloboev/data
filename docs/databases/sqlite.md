@@ -287,3 +287,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [SQLite Internals: How The World's Most Used Database Works](https://www.compileralchemy.com/books/sqlite-internals/) ([HN](https://news.ycombinator.com/item?id=34032990))
 - [SQLite's automatic indexes (2022)](https://misfra.me/2022/sqlite-automatic-indexes/) ([HN](https://news.ycombinator.com/item?id=34162001))
 - [Storing files in SQLite (2021)](https://misfra.me/2021/storing-files-in-sqlite/)
+- [Benchmarking SQLite Performance in Go (2022)](https://www.golang.dk/articles/benchmarking-sqlite-performance-in-go)

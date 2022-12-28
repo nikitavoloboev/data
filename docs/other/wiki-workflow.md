@@ -214,6 +214,7 @@ I want to:
 - [neeasade's notes](https://notes.neeasade.net/)
 - [Ferreira's Wiki](https://github.com/slowernews/notebook)
 - [マリウス](https://xn--gckvb8fzb.com/)
+- [Shawn Presser's wiki](https://github.com/shawwn/wiki)
 - [Kirill Gorbachyonok's Wiki](https://github.com/japanese-goblinn/knowledge-base)
 - [Zac's digital garden](https://zacjones.dev/) ([Code](https://github.com/zacjones93/zacs-digital-garden))
 - [Robb Knight's Wiki](https://intersect.rknight.me/) ([Code](https://github.com/rknightuk/intersect))

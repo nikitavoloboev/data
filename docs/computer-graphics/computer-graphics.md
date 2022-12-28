@@ -1,8 +1,6 @@
 # Computer graphics
 
-[Vulkan](vulkan.md) and [Metal](metal.md) seem great.
-
-[Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) is nice read.
+Like using [WebGPU](webgpu.md) (web/desktop via [Tauri](../programming-languages/rust/rust-libraries/tauri.md)) & [Metal](metal.md) (iOS) APIs.
 
 ## Notes
 
@@ -37,7 +35,7 @@
 - [Thoughts on software rendering (2020)](https://twitter.com/lorenschmidt/status/1226207415869243393)
 - [Notes on linear transformations (2020)](https://www.monades.dev/notes-on-linear-transformations/)
 - [Collision detection: article series (2018)](https://0fps.net/2015/01/07/collision-detection-part-1/) ([HN](https://news.ycombinator.com/item?id=22470629))
-- [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) ([Code](https://github.com/paroj/gltut))
+- [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) ([Code](https://github.com/paroj/gltut)) ([HN](https://news.ycombinator.com/item?id=34165295))
 - [light2d](https://github.com/miloyip/light2d) - Light rendering in 2D.
 - [Seamless, static, 3D mesh multi-texturer](https://github.com/rafapages/SSMVtex)
 - [Aliasing in computer graphics (2020)](https://apoorvaj.io/aliasing-in-computer-graphics/)

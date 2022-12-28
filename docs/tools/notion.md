@@ -136,4 +136,4 @@ Use it for projects as a wiki of docs & notes for teams. I [share most boards in
 - [Learn Notion resources](https://twitter.com/heyeaslo/status/1607201083427852289)
 - [Notion on Next](https://github.com/williamlmao/notion-on-next) - Framework that makes it easy to develop a Next.js App using Notion as a CMS..
 - [Feather](https://feather.so/) - Notion to blog in minutes, along with SSL, analytics, and a lot more.
-- [Reverse-engineering the source prompts of Notion AI (2022)](https://lspace.swyx.io/p/reverse-prompt-eng)
+- [Reverse-engineering the source prompts of Notion AI (2022)](https://lspace.swyx.io/p/reverse-prompt-eng) ([HN](https://news.ycombinator.com/item?id=34165522))

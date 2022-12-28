@@ -4,6 +4,10 @@ title: WebGPU
 
 # [WebGPU](https://en.wikipedia.org/wiki/WebGPU)
 
+[This article](https://surma.dev/things/webgpu/) is nice intro.
+
+[MachGPU](https://machengine.org/gpu/)'s [Zig](../programming-languages/zig/zig.md) bindings are great.
+
 ## Links
 
 - [wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API. ([Tutorials](https://github.com/mistodon/gfx-hal-tutorials)) ([Intro to gfx-hal](https://www.falseidolfactory.com/2020/03/31/intro-to-gfx-hal-preamble.html))
