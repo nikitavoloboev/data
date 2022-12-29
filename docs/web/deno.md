@@ -355,3 +355,5 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [deno_copy_paste](https://github.com/iuioiua/deno_copy_paste) - Copy/paste functionality for Deno.
 - [Haydi](https://github.com/cyco130/haydi) - On-demand dev server (like Vite) for Deno.
 - [Deno Outdated](https://github.com/LeoDog896/deno-outdated) - Find outdated dependencies in your deno project.
+- [migo](https://github.com/nberlette/migo) - Generate dynamic OpenGraph images on Deno's Edge Network.
+- [DQL](https://github.com/nberlette/dql) - Web Scraping with Deno: DOM + GraphQL.

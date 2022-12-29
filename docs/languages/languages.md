@@ -93,3 +93,4 @@
 - [Against Duolingo as a language learning platform (2022)](https://xrvs.net/posts/2022-11-06-against-duolingo/) ([HN](https://news.ycombinator.com/item?id=33495256))
 - [Semantic Search](https://txt.cohere.ai/multilingual/) - Multilingual embedding model for 100+ languages. ([Tweet](https://twitter.com/Nils_Reimers/status/1602355249297358849))
 - [Translate Shell](https://github.com/soimort/translate-shell) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+- [strans](https://github.com/sheepla/strans) - Command line SimplyTranslate client inspired by translate-shell.

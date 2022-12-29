@@ -446,3 +446,4 @@ title: ML Libraries
 - [Poniard](https://github.com/rxavier/poniard) - Scikit-learn companion library that streamlines the process of fitting different machine learning models and comparing them.
 - [Mango](https://github.com/ARM-software/mango) - Parallel Hyperparameter Tuning in Python.
 - [River](https://github.com/online-ml/river) - Online machine learning in Python.
+- [hypertune](https://github.com/polyaxon/hypertune) - Library for performing hyperparameter optimization.

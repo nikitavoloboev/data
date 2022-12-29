@@ -61,3 +61,4 @@ title: Data-Driven Documents
 - [d3-hierarchy](https://github.com/d3/d3-hierarchy) - 2D layout algorithms for visualizing hierarchical data.
 - [D3.js graph gallery](https://github.com/holtzy/D3-graph-gallery)
 - [D3 flextree plugin](https://github.com/Klortho/d3-flextree)
+- [D3-Hypertree](https://github.com/glouwa/d3-hypertree) - HTML5 SVG Hyperbolic Tree Implementation.

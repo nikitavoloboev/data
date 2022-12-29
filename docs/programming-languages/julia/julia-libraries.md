@@ -789,6 +789,8 @@
 - [Leaflet](https://github.com/JuliaGeo/Leaflet.jl) - LeafletJS maps for Julia.
 - [ReadStatTables.jl](https://github.com/junyuan-chen/ReadStatTables.jl) - Read data files from Stata, SAS and SPSS into Julia tables.
 - [Octavian](https://github.com/JuliaLinearAlgebra/Octavian.jl) - Multi-threaded BLAS-like library that provides pure Julia matrix multiplication.
+- [ChangesOfVariables.jl](https://github.com/JuliaMath/ChangesOfVariables.jl) - Interface for transformation functions in Julia.
+- [DiffResults](https://github.com/JuliaDiff/DiffResults.jl) - API for querying differentiation results at multiple orders simultaneously.
 
 ## Links
 
@@ -824,3 +826,4 @@
 - [PlutoSliderServer](https://github.com/JuliaPluto/PlutoSliderServer.jl) - Web server to run just the @bind parts of a Pluto.jl notebook.
 - [InteractiveCodeSearch.jl](https://github.com/tkf/InteractiveCodeSearch.jl) - Interactively search Julia code from terminal.
 - [PkgGraphs.jl](https://github.com/tfiers/PkgGraphs.jl) - Visualize the dependency graph of a Julia package.
+- [Julia will cache precompiled binaries of packages v1.9](https://twitter.com/vchuravy/status/1607866217259479041)

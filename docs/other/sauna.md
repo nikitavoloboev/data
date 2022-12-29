@@ -1,6 +1,6 @@
 # Sauna
 
-I love banyas as dislike the dryness that most or all saunas have.
+I love banyas more as I dislike the dryness that most or all saunas have.
 
 ## Links
 

@@ -4,7 +4,7 @@ title: WebGPU
 
 # [WebGPU](https://en.wikipedia.org/wiki/WebGPU)
 
-[This article](https://surma.dev/things/webgpu/) is nice intro.
+[This article](https://surma.dev/things/webgpu/) is nice intro. [WebGPU Samples](https://github.com/austinEng/webgpu-samples) has nice code.
 
 [MachGPU](https://machengine.org/gpu/)'s [Zig](../programming-languages/zig/zig.md) bindings are great.
 

@@ -184,3 +184,4 @@ title: Quantum computing
 - [Braket.jl](https://github.com/awslabs/Braket.jl) - Julia implementation of the Amazon Braket SDK.
 - [Qiskit Nature](https://github.com/Qiskit/qiskit-nature) - Open-source, quantum computing, framework for solving quantum mechanical natural science problems.
 - [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
+- [Automated Quantum Software Engineering: why? what? how? (2022)](https://arxiv.org/abs/2212.00619)

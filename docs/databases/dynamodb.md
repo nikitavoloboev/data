@@ -103,3 +103,4 @@ title: DynamoDB
 - [Begin Data](https://github.com/beginner-corp/begin-data) - Durable and fast key/value store for Begin built on top of DynamoDB.
 - [DynamoDB Toolbox](https://github.com/jeremydaly/dynamodb-toolbox) - Simple set of tools for working with Amazon DynamoDB and the DocumentClient.
 - [Nice DynamoDB query libs](https://twitter.com/adamdotdev/status/1566583149517099008)
+- [dynalite](https://github.com/mhart/dynalite) - Implementation of Amazon's DynamoDB built on LevelDB.

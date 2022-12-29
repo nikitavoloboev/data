@@ -266,6 +266,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [What games are you playing over Xmas on PS5?](https://www.reddit.com/r/PS5/comments/zu78n4/what_games_are_you_playing_over_xmas/)
 - [Patient Games I Completed This Year, Ranked Best to Worst (2022)](https://www.reddit.com/r/patientgamers/comments/zuav2v/patient_games_i_completed_this_year_ranked_best/)
 - [What single player games can give you the highest amount of hours of playtime? most replayability, etc. (2022)](https://www.reddit.com/r/gamingsuggestions/comments/zem87o/what_single_player_games_can_give_you_the_highest/)
+- [Your best examples of video games as high art (2022)](https://www.reddit.com/r/patientgamers/comments/zxf52s/your_best_examples_of_video_games_as_high_art/)
 
 ## Links
 
@@ -403,3 +404,4 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Obscure Game Aesthetics](https://twitter.com/game_obscure)
 - [Elysium Remastered](https://github.com/TitansBane/Elysium-Remastered) - Complete rebuild of the original Elysium modlist.
 - [Gaming Suggestions Reddit](https://www.reddit.com/r/gamingsuggestions/)
+- [Scrabble Solver](https://github.com/kamilmielnik/scrabble-solver)

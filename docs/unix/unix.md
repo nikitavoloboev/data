@@ -97,3 +97,4 @@ title: Unix
 - [Is Everything Is A File? (2022)](https://blog.sunfishcode.online/is-everything-is-a-file/) ([Lobsters](https://lobste.rs/s/artq99/is_everything_is_file))
 - [Qnixx](https://github.com/Qnixx/src) - New Unix standard.
 - [Ask HN: Anyone using proprietary Unix at work? (2022)](https://news.ycombinator.com/item?id=34017934)
+- [How fast are Unix domain sockets? (2017)](https://blog.myhro.info/2017/01/how-fast-are-unix-domain-sockets)

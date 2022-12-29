@@ -146,3 +146,4 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [relaystation](https://github.com/noqqe/relaystation) - Twitter Mastodon Forwarder using Twitter stream.
 - [Mastodon Block Tools](https://github.com/ineffyble/mastodon-block-tools)
 - [Explore the fediverse, but use block like it's a machine gun in a zombie apocalypse (2022)](https://boyter.org/posts/mastinator-activitypub-breaking-assumptions/)
+- [The Architecture of Mastodon (2022)](https://matt-rickard.com/the-architecture-of-mastodon)

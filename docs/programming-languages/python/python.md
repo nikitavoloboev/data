@@ -575,3 +575,4 @@ for i, _ in enumerate(nums):
 - [Extending Python with Rust](https://maxwellrules.com/programming/rusty-python.html) ([HN](https://news.ycombinator.com/item?id=34145691))
 - [Efficient Python for Data Scientists](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists)
 - [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com/) ([Code](https://github.com/gagolews/datawranglingpy))
+- [s-Python](https://github.com/suren-atoyan/x-python) - Complete solution for Python-in-browser.
