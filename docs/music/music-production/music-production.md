@@ -496,3 +496,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [Tarai Function Music (2013)](http://aikelab.net/tarai/)
 - [ComMU: Dataset for Combinatorial Music Generation (2022)](https://arxiv.org/abs/2211.09385) ([Code](https://github.com/POZAlabs/ComMU-code))
 - [Products | KORG](https://www.korg.com/us/products/) ([GitHub](https://github.com/korginc))
+- [SHLD Free MIDI Chord Packs](https://github.com/ldrolez/free-midi-chords) - Collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101.

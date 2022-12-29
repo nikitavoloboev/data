@@ -386,6 +386,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [azugo](https://github.com/azugo/azugo) - Opinionated Go web framework based on fasthttp and inspired by go-chi.
 - [go-vhost](https://github.com/inconshreveable/go-vhost) - HTTP/TLS hostname multiplexing library for Go.
 - [getty](https://github.com/AlexStocks/getty) - Netty like asynchronous network I/O library based on tcp/udp/websocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on zookeeper/etcd.
+- [go-syslog](https://github.com/mcuadros/go-syslog) - Syslog server library for go.
 
 ## GraphQL
 

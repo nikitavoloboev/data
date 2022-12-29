@@ -82,3 +82,5 @@ title: DNA
 - [Quickdna](https://github.com/SecureDNA/quickdna) - Fast DNA manipulation for Rust and Python.
 - [RNA Sequencing - Your own pipeline from scratch (2022)](https://www.youtube.com/playlist?list=PLhR2Go-lh6X63hnyBzwWNvsaw1R79ESPI)
 - [Understanding the code of life: generative models of regulatory DNA sequences based on diffusion models](https://github.com/pinellolab/DNA-Diffusion)
+- [Mutato](https://github.com/annalam/mutato) - Toolkit for mutation analysis using DNA sequencing data.
+- [Breakfast](https://github.com/annalam/breakfast) - Software for detecting genomic structural variants from DNA sequencing data.

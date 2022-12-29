@@ -656,3 +656,4 @@ title: Linux
 - [Basic eBPF Load Balancer in a few lines of C](https://github.com/lizrice/lb-from-scratch)
 - [Linux Kernel Sanitizers](https://github.com/google/kernel-sanitizers) - Fast bug-detectors for the Linux kernel.
 - [More developers use Linux than Mac, according to 2022 StackOverflow survey](https://news.ycombinator.com/item?id=34163874)
+- [Linux Command Line Book](https://www.linuxcommand.org/tlcl.php) ([HN](https://news.ycombinator.com/item?id=34161081))

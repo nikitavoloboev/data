@@ -1364,6 +1364,7 @@
 - [LeakDetector](https://github.com/antranapp/LeakDetector) - SPM to support finding memory leaks for Swift projects.
 - [Easing](https://github.com/manuelCarlos/Easing) - Easing functions in Swift.
 - [RateLimiters](https://github.com/manuelCarlos/RateLimiters) - Debounce and Throttle Swift implementations.
+- [CodableToTypeScript](https://github.com/omochi/CodableToTypeScript) - Generate typescript code for typing JSON from Swift Codable.
 
 ## Other (not lib)
 

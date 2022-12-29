@@ -12,6 +12,8 @@ I love all [tryptamines](tryptamines.md) including DMT. [Many say it's life chan
 
 Which I then use with [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.me/Q21Q21%27s_Vinegar/Lime_A/B_Extraction_Tek) to [extract DMT](https://wiki.dmt-nexus.me/Category:Extraction_Tek). [STB Extraction Teks](https://wiki.dmt-nexus.me/Category:Extraction_Tek#STB) are great too.
 
+[DMT-Nexus Wiki](https://wiki.dmt-nexus.me/Main_Page) & [DMT subreddit](https://www.reddit.com/r/dmt) have nice info.
+
 ## Notes
 
 - [There's one study that implies that the brain releases endogenous DMT while it's in hypoxia, to prevent neuronal death. They confirmed that brain neurons resisted hypoxia much better when they administered DMT (in vitro). This isn't conclusive evidence, but it may explain why some Near Death Experiences resemble DMT experiences, as many Near Death situations imply brain hypoxia.](https://www.reddit.com/r/DMT/comments/yx4qcy/dmt_death/)
@@ -122,3 +124,4 @@ Which I then use with [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.m
 - [DMT Extraction Teks](https://wiki.dmt-nexus.me/Category:Extraction_Tek)
 - [DMT STB Extraction Teks](https://wiki.dmt-nexus.me/Category:Extraction_Tek#STB)
 - [Advice for first time DMT](https://www.reddit.com/r/DMT/comments/zwfdzq/soooo_my_dmt_will_finally_be_here_today_tips/)
+- [DMT-Nexus Wiki](https://wiki.dmt-nexus.me/Main_Page)

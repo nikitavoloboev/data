@@ -67,3 +67,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Best TV Shows 2022](https://www.nytimes.com/2022/12/01/arts/television/best-tv-shows.html)
 - [Series similar to Succession](https://www.reddit.com/r/SuccessionTV/comments/z5mizk/now_that_im_through_with_successionwhat_the_hell/)
 - [Лучшие российские фильмы 2022 года](https://dtf.ru/cinema/1526710-luchshie-rossiyskie-filmy-2022-goda-ot-eposa-do-horrora)
+- [What are your "comfort" television shows? (2022)](https://www.reddit.com/r/television/comments/zya7d6/what_are_your_comfort_television_shows/)

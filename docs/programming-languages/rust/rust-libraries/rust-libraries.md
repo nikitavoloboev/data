@@ -217,6 +217,7 @@
 - [axohtml](https://github.com/axodotdev/axohtml) - Type checked JSX for Rust.
 - [str0m](https://github.com/algesten/str0m) - Sync sans I/O WebRTC implementation in Rust.
 - [lil-http](https://github.com/m1guelpf/lil-http-rs) - Barebones HTTP 1.1 framework, built in Rust with no external dependencies (other than tokio).
+- [Multipart](https://github.com/abonander/multipart) - Backend-agnostic extension for file uploads in HTTP libraries for Rust.
 
 ## Auth
 

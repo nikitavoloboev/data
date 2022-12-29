@@ -6,6 +6,8 @@ title: ChatGPT
 
 I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to interface with ChatGPT so I have access to it from both mac and iOS.
 
+[nanoGPT](https://github.com/karpathy/nanoGPT) is interesting.
+
 ## Interesting queries
 
 - [can you extract all the links from this code into an array with objects like {component, href, icon, children}](https://showgpt.co/s/QwdOvZon)
@@ -22,3 +24,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [How ChatGPT actually works (2022)](https://www.assemblyai.com/blog/how-chatgpt-actually-works/)
 - [fieri](https://github.com/lbkolev/fieri) - OpenAI GPT-3 API Client in Rust.
 - [GPT3Discord](https://github.com/Kav-K/GPT3Discord) - GPT3/DALL-E2 in Discord, chat like ChatGPT, generate images, and more. ([HN](https://news.ycombinator.com/item?id=34168467))
+- [nanoGPT](https://github.com/karpathy/nanoGPT) - Simplest, fastest repository for training/finetuning medium-sized GPTs.

@@ -998,3 +998,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [AWS re:Invent 2022 - Rust is interesting, but does it really make sense for me?](https://www.youtube.com/watch?v=DHMfRFkhv-w)
 - [Experimental Rust Feature: Safer Interoperable ABI](https://github.com/rust-lang/rust/pull/105586) ([HN](https://news.ycombinator.com/item?id=34145972))
 - [Rust Async History, Libs, and Patterns (Katharina Fey) (2022)](https://www.youtube.com/watch?v=pqy7a6IS5yU)
+- [Cerberus](https://github.com/h311d1n3r/Cerberus) - Python tool to unstrip Rust binaries on Linux.

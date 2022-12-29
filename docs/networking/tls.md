@@ -6,7 +6,7 @@ title: TLS
 
 [Illustrated TLS Connection](https://tls.ulfheim.net/) & [Implementing a toy version of TLS 1.3](https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/) are useful.
 
-[TLSNotary](https://tlsnotary.org/) is interesting.
+[TLSNotary](https://tlsnotary.org/) is interesting. [Rustls](https://github.com/rustls/rustls) is great library.
 
 ## Links
 

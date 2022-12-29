@@ -231,3 +231,4 @@ title: Genomics
 - [Fulcrum Genomics](https://fulcrumgenomics.com/) ([GitHub](https://github.com/fulcrumgenomics)) ([Twitter](https://twitter.com/fulcrumgenomics))
 - [You can’t take it with you: straight talk about epigenetics (2022)](https://razib.substack.com/p/you-cant-take-it-with-you-straight)
 - [VISION](https://github.com/YosefLab/VISION) - Signature Analysis and Visualization for Single-Cell RNA-seq.
+- [Seqkit](https://github.com/annalam/seqkit) - Toolkit for manipulating FASTA and SAM files.

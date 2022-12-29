@@ -238,3 +238,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Things I want from Devs as SRE/DevOps (2022)](https://oschvr.com/posts/what-id-like-as-sre/) ([HN](https://news.ycombinator.com/item?id=34006463))
 - [Getting Started with Server Health Checks](https://betterstack.com/community/guides/monitoring/health-checks/)
 - [Ask HN: What is the cheapest, easiest way to host a cronjob in 2022?](https://news.ycombinator.com/item?id=34056812)
+- [Miradors](https://github.com/benjaminch/miradors) - Simple tool allowing you to monitor is your websites are up and send you an email if not.

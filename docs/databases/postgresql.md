@@ -48,7 +48,7 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [PostgreSQL for Beginners book](https://postgrespro.com/education/books/introbook) - Intended for those who only start getting acquainted with the world of PostgreSQL.
 - [PostgreSQL Notes](https://github.com/poudel/notes/blob/master/notes/postgresql.org)
 - [pg_flame](https://github.com/mgartner/pg_flame) - Flamegraph generator for Postgres EXPLAIN ANALYZE output.
-- [PostgREST](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database. ([HN](https://news.ycombinator.com/item?id=21435195)) ([HN 2](https://news.ycombinator.com/item?id=25159097)) ([Introduction to Postgrest](https://samkhawase.com/blog/postgrest/postgrest_introduction/)) ([HN](https://news.ycombinator.com/item?id=29389576))
+- [PostgREST](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database. ([HN](https://news.ycombinator.com/item?id=21435195)) ([HN 2](https://news.ycombinator.com/item?id=25159097)) ([Introduction to Postgrest](https://samkhawase.com/blog/postgrest/postgrest_introduction/)) ([HN](https://news.ycombinator.com/item?id=29389576)) ([Docs](https://postgrest.org/en/stable/index.html)) ([HN](https://news.ycombinator.com/item?id=34172205))
 - [Postgres Explain Visualizer (pev)](https://github.com/AlexTatiyants/pev)
 - [Dexter](https://github.com/ankane/dexter) - Automatic indexer for Postgres.
 - [Hypothetical Indexes in PostgreSQL (2019)](https://www.percona.com/blog/2019/06/21/hypothetical-indexes-in-postgresql/)

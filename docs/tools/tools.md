@@ -807,3 +807,5 @@ One of my favorite things in life is building little tools for solving even the 
 - [Alternatives to internal FB dev tools](https://github.com/greko6/xfb2xfb)
 - [Novu](https://novu.co/) - Open-source notification infrastructure. ([Code](https://github.com/novuhq/novu))
 - [Audacity](https://github.com/audacity/audacity) - Easy-to-use, multi-track audio editor and recorder.
+- [ScreenshotOne](https://screenshotone.com/) - Take site screenshots via API.
+- [Ask HN: What was the best software that you used during 2022?](https://news.ycombinator.com/item?id=34174593)

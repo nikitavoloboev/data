@@ -243,6 +243,7 @@ I want to:
 - [Param Singh's Notes](https://notes.param.codes/)
 - [Matous Dzivjak](https://wiki.dzx.cz/)
 - [Lacey Henschel's TIL](https://github.com/williln/til)
+- [Evan Chan's Links](https://github.com/velvia/links)
 - [Evan's Notes](https://peppyhare.github.io/r/) ([Code](https://github.com/PeppyHare/r))
 - [Allen Lee](https://www.haskell.computer/) ([Code](https://github.com/ale0sx/brains))
 - [Keyvan Akbary's Notes](https://keyvanakbary.github.io/learning-notes/) ([Code](https://github.com/keyvanakbary/learning-notes))

@@ -204,3 +204,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Open Bitcoin Wallet](https://github.com/nbd-wtf/obw) - Android Bitcoin and Lightning wallet.
 - [Eye of Satoshi](https://github.com/talaia-labs/rust-teos) - Lightning watchtower compliant with BOLT13, written in Rust.
 - [Storm Core Library](https://github.com/Storm-WG/storm-core) - Storage and messaging layer 3 on top of bitcoin & lightning network.
+- [LNp2pBot](https://github.com/lnp2pBot/bot) - Peer-to-peer lightning network telegram bot.

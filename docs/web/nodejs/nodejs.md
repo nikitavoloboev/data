@@ -439,3 +439,4 @@ Currently prefer using [Deno](../../web/deno.md) instead of Node. Sometimes use 
 - [lookpath](https://github.com/otiai10/lookpath) - Minimum and most straightforward way to check if command exists and where the executable is, without spawning child_process.
 - [nypm](https://github.com/unjs/nypm) - Unified Package Manager for Node.js.
 - [Implementation of the napi API for WASM](https://github.com/devongovett/napi-wasm)
+- [Node.js Middleware – никогда больше! (2020)](https://www.youtube.com/watch?v=RS8x73z4csI)

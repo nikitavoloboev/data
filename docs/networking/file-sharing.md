@@ -136,3 +136,4 @@
 - [Snapsend](https://github.com/bagaswastu/snapsend) - Share photos for a limited time and a limited number of recipients.
 - [QFT](https://github.com/TudbuT/qft) - Quick Peer-To-Peer UDP file transfer.
 - [Personal File Share CLI (2022)](https://healeycodes.com/a-personal-file-share-cli)
+- [Plik](https://github.com/root-gg/plik) - Scalable & friendly temporary file upload system (Wetransfer like) in Go.

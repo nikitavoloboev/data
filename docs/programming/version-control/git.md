@@ -8,7 +8,7 @@ I use [Sublime Merge](https://www.sublimemerge.com/) as my git client app. And f
 
 [gh GitHub CLI](https://cli.github.com/) is great. Specifically [gh pr checkout is useful](https://twitter.com/dan_abramov/status/1600653294375870465). [Git Alias](https://github.com/GitAlias/gitalias) is nice overview of various git commands.
 
-[gitoxide](https://github.com/Byron/gitoxide) is nice reimplementation of Git in [Rust](../../programming-languages/rust/rust.md).
+[gitoxide](https://github.com/Byron/gitoxide) & [go-git](https://github.com/go-git/go-git) are nice reimplementations of Git.
 
 ## Notes
 
