@@ -1,6 +1,6 @@
 # Ukraine
 
-It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off misinformation to (in my view) try [prevent Ukraine from getting access to its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3), get land access to illegally annexed Crimea and distract Russian population with external threats to keep status quo political power.
+It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) to (in my view) try [prevent Ukraine from getting access to its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3), get land access to illegally annexed Crimea and distract Russian population with external threats to keep status quo political power.
 
 Instead of [wasting lives](https://ukraine.bellingcat.com/) & [destroying cities](https://twitter.com/MaximEristavi/status/1513576913431941135) of its neighbors and oppressing it's own citizens, I hope one day a sane government comes where such a disastrous decision will be impossible to enact.
 

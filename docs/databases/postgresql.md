@@ -637,3 +637,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postgres v15 - a billion transactions later (2022)](https://kmoppel.github.io/2022-11-09-postgres-v15-a-billion-transactions-later/)
 - [Ask HN: What is your distributed and fault-tolerant PostgreSQL setup? (2022)](https://news.ycombinator.com/item?id=34127974)
 - [The 10 deadly PostgreSQL sins that ruin database performance and scalability (2022)](https://www.youtube.com/watch?v=B7Yn_-Af6pM)
+- [Tree Sitter PL/pgSQL](https://github.com/chrde/tree-sitter-plpgsql)

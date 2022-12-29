@@ -213,3 +213,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [crux.page](https://github.com/MananTank/crux) - Get CrUX data for any webpage, origin or list of pages with ease.
 - [Optimizing SSR Memory Usage on wolt.com (2022)](https://blog.wolt.com/engineering/2022/11/10/optimizing-ssr-memory-usage-on-wolt-com/)
 - [Adding Complementary Performance Data to Your Site (2022)](https://www.htmhell.dev/adventcalendar/2022/6/)
+- [How to bundle images with a web app to reduce the amount of requests](https://twitter.com/cpojer/status/1608410525775572992)

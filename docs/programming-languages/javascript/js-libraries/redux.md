@@ -108,5 +108,5 @@ There are [better approaches to manage state in React now](https://twitter.com/k
 - [Writing Redux Reducers in Rust (2022)](https://fiberplane.dev/blog/writing-redux-reducers-in-rust/) ([Reddit](https://www.reddit.com/r/programming/comments/txi3py/writing_redux_reducers_in_rust/))
 - [Offline with Redux](https://www.innoq.com/en/blog/offline-with-redux/) - Different (service worker free) approach to offline web apps.
 - [Alternatives to Redux (2022)](https://www.reddit.com/r/reactjs/comments/xc156q/i_am_sick_and_tired_of_reactredux_who_has_some/)
-- [Built your front end in React, then let ChatGPT be your Redux reducer (2022)](https://spindas.dreamwidth.org/4207.html)
+- [Built your front end in React, then let ChatGPT be your Redux reducer (2022)](https://spindas.dreamwidth.org/4207.html) ([HN](https://news.ycombinator.com/item?id=34166193))
 - [Awesome Redux](https://github.com/xgrommx/awesome-redux)

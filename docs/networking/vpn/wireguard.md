@@ -90,3 +90,4 @@ title: WireGuard
 - [wg-bond](https://github.com/cab404/wg-bond) - Wireguard configuration made easy.
 - [WireGuard operator](https://github.com/jodevsa/wireguard-operator) - WireGuard operator created to easily provision a VPN in a k8s cluster.
 - [Wiretap](https://github.com/sandialabs/wiretap) - Transparent WireGuard proxy server without root. ([HN](https://news.ycombinator.com/item?id=33700136))
+- [WireGuard for the ESP32](https://github.com/ciniml/WireGuard-ESP32-Arduino) ([HN](https://news.ycombinator.com/item?id=34171406))

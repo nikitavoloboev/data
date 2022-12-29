@@ -112,3 +112,4 @@ title: Assembly
 - [Inverting a binary tree using x64 assembly (2022)](https://sanket.tech/posts/invert_binary_tree_assembly/) ([HN](https://news.ycombinator.com/item?id=33732071))
 - [asmcfg](https://github.com/badlogic/asmcfg) - Assembly control flow graph/basic block visualizer for the web.
 - [Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm_book)
+- [CEMU](https://github.com/hugsy/cemu) - Cheap EMUlator: lightweight multi-architecture assembly playground.

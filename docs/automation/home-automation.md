@@ -87,3 +87,4 @@
 - [Дом-дурачок. 3 года спустя (2022)](https://vas3k.ru/notes/homelab_2022/)
 - [My building has replaced our keys with an app (2022)](https://www.nytimes.com/2022/12/03/realestate/my-building-has-replaced-our-keys-with-an-app-is-that-legal.html) ([HN](https://news.ycombinator.com/item?id=33875670))
 - [Matt Caminiti's Home Assistant Config](https://github.com/mcaminiti/homeassistant)
+- [ESPresense](https://github.com/ESPresense/ESPresense) - ESP32 based presence detection node for use with the Home Assistant mqtt_room component for localized device presence detection.

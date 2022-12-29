@@ -254,3 +254,4 @@ title: OCaml libraries
 - [Sherlodoc](https://doc.sherlocode.com/) - Fuzzy search in OCaml's documentation for almost all opam packages. ([Code](https://github.com/art-w/sherlodoc))
 - [Nomad](https://github.com/shonfeder/nomad) - Tiny, minimally-functional project management tool for OCaml.
 - [ppx_expjs: generate transparent JavaScript from your OCaml (2022)](https://blog.skolem.com/ppx_expjs-generate-transparent-javascript-from-your-ocaml/)
+- [Love Rust? Then OCaml's New Eio Library is for You (2022)](https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you)

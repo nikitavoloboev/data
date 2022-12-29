@@ -210,6 +210,8 @@ div.CodeMirror-cursor,
 - [Graphviz](https://github.com/QAMichaelPeng/obsidian-graphviz) - Render Graphviz Diagrams in Obsidian.
 - [D2](https://github.com/terrastruct/d2-obsidian) - Modern diagram scripting language that turns text to diagrams.
 - [Google Photos for Obsidian](https://github.com/alangrainger/obsidian-google-photos) - Connect to Google Photos from Obsidian.
+- [Code Editor Shortcuts](https://github.com/timhor/obsidian-editor-shortcuts)
+- [Obsidian Projects](https://github.com/marcusolsson/obsidian-projects) - Project management for Obsidian.
 
 ## Themes
 

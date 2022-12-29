@@ -227,6 +227,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [useImageColor](https://github.com/jeffersonlicet/use-image-color) - Grab color palette from any image using this hook.
 - [useLocalStorage](https://github.com/nas5w/use-local-storage) - Flexible React Hook for using Local Storage.
 - [useShareState](https://github.com/gus3inov/use-share-state) - Share state between tabs/windows.
+- [Frontend Essentials](https://github.com/theninthsky/frontend-essentials) - Set of useful functions, components and hooks.
 
 ## Code
 

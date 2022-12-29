@@ -276,6 +276,7 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Apache ORC](https://orc.apache.org/) - High-Performance Columnar Storage for Hadoop. ([Code](https://github.com/apache/orc))
 - [SolomonDB](https://github.com/nomadiz/solomon-db) - Embedded Gremlin-compatible graph database written in Rust.
 - [Kuzu](https://github.com/kuzudb/kuzu) - In-process property graph database management system (GDBMS) built for query speed and scalability.
+- [zgraph](https://github.com/vescale/zgraph) - Embeddable graph database for large-scale vertices and edges.
 
 ## Tools
 
@@ -744,3 +745,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [LSM in a Week](https://github.com/skyzh/mini-lsm) - Tutorial of building an LSM-Tree storage engine in a week.
 - [Closing The Gap Between Your Users And Their Data (2022)](https://tripleodeon.com/2022/11/closing-the-gap-between-your-users-and-their-data)
 - [Awesome Data Temporality](https://github.com/daefresh/awesome-data-temporality) - Curated list to help you manage temporal data across many modalities.
+- [Offline-First databases/tools](https://github.com/arn4v/offline-first)

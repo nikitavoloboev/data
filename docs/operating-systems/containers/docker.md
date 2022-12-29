@@ -282,3 +282,4 @@ Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432
 - [ima.ge.cx](https://ima.ge.cx/) - Inspect the contents of Docker images. ([Code](https://github.com/aidansteele/ima.ge.cx))
 - [Docker on MacOS is slow and how to fix it (2022)](https://www.paolomainardi.com/posts/docker-performance-macos/) ([HN](https://news.ycombinator.com/item?id=34098367))
 - [Build, Share, and Run WebAssembly Apps Using Docker (2022)](https://www.docker.com/blog/build-share-run-webassembly-apps-docker/)
+- [WASM Docker Extension Example](https://github.com/cmrigney/wasm-docker-extension)

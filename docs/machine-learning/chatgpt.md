@@ -21,3 +21,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [ChatGPT Telegram Bot in Python](https://github.com/altryne/chatGPT-telegram-bot)
 - [How ChatGPT actually works (2022)](https://www.assemblyai.com/blog/how-chatgpt-actually-works/)
 - [fieri](https://github.com/lbkolev/fieri) - OpenAI GPT-3 API Client in Rust.
+- [GPT3Discord](https://github.com/Kav-K/GPT3Discord) - GPT3/DALL-E2 in Discord, chat like ChatGPT, generate images, and more. ([HN](https://news.ycombinator.com/item?id=34168467))

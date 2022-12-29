@@ -574,3 +574,4 @@ for i, _ in enumerate(nums):
 - [pylyzer](https://github.com/mtshiba/pylyzer) - Fast static code analyzer & language server for Python.
 - [Extending Python with Rust](https://maxwellrules.com/programming/rusty-python.html) ([HN](https://news.ycombinator.com/item?id=34145691))
 - [Efficient Python for Data Scientists](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists)
+- [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com/) ([Code](https://github.com/gagolews/datawranglingpy))

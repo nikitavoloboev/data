@@ -572,3 +572,5 @@
 - [NATS By Example](https://github.com/ConnectEverything/nats-by-example) - Collection of reference examples using NATS.
 - [Writing a Mini-CDN to Learn Nginx/Prometheus/Grafana/Lua](https://github.com/leandromoreira/cdn-up-and-running)
 - [Certificate Ripper](https://github.com/Hakky54/certificate-ripper) - CLI tool to extract server certificates.
+- [WhyTheFuckIsMyNetworkSoSlow](https://github.com/SophistSolutions/WhyTheFuckIsMyNetworkSoSlow) - Network performance analysis tool, making it easy to quickly examine a network and see what is wrong, and to evaluate longer term trends.
+- [Self-hosted home network monitoring with ntopng, a Fritz Box and an home server (2022)](https://davquar.it/post/self-hosting/ntopng-fritzbox-monitoring/)

@@ -1361,6 +1361,9 @@
 - [CodeEditKit](https://github.com/CodeEditApp/CodeEditKit) - Interface between CodeEdit and extensions.
 - [Compute](https://github.com/swift-cloud/Compute) - Swift runtime for Fastly Compute@Edge.
 - [KeyValueCoding](https://github.com/ikhvorost/KeyValueCoding) - Access the properties of pure Swift struct or class instances indirectly by a property name or a key path.
+- [LeakDetector](https://github.com/antranapp/LeakDetector) - SPM to support finding memory leaks for Swift projects.
+- [Easing](https://github.com/manuelCarlos/Easing) - Easing functions in Swift.
+- [RateLimiters](https://github.com/manuelCarlos/RateLimiters) - Debounce and Throttle Swift implementations.
 
 ## Other (not lib)
 
@@ -1452,3 +1455,4 @@
 - [Build DocC documentation for your Xcode project / Swift Package](https://github.com/lukepistrol/xcodebuild-docc-action)
 - [Generate and test RESTful APIs in Swift (2022)](https://blog.eidinger.info/generate-and-test-restful-apis-in-swift)
 - [Correctly playing audio in iOS applications (2022)](https://blog.kulman.sk/correctly-playing-audio-in-ios-apps/)
+- [Swift Macro Examples](https://github.com/DougGregor/swift-macro-examples)

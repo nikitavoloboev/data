@@ -727,6 +727,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [migrato](https://github.com/Simonwep/migrato) - Type-safe migration library to migrate data from one schema to another.
 - [djot.js](https://github.com/jgm/djot.js) - JavaScript implementation of djot.
 - [Unhead Schema.org](https://github.com/harlan-zw/unhead-schema-org) - Simple, universal Schema.org. Powered by Unhead.
+- [dpa](https://github.com/TomerAberbach/dpa) - Resolves promises concurrently with deterministic rejection order. Somewhere between Promise.all and Promise.allSettled.
 
 ## Links
 
@@ -835,3 +836,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [How to build, test, and publish a TypeScript npm package in 2022](https://www.strictmode.io/articles/build-test-and-publish-npm-package-2022)
 - [pnpm-deduplicate](https://github.com/ocavue/pnpm-deduplicate) - Remove duplicate dependencies from pnpm-lock.yaml.
 - [pnpm monorepo](https://github.com/alvarosabu/pnpm-monorepo)
+- [Effect TS Crash Course](https://github.com/pigoz/effect-crashcourse)

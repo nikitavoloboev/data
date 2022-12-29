@@ -806,3 +806,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Links.dev](https://links.dev/) - Simplify your online presence with one simple link. ([Code](https://github.com/fatih-yavuz/links.dev))
 - [Alternatives to internal FB dev tools](https://github.com/greko6/xfb2xfb)
 - [Novu](https://novu.co/) - Open-source notification infrastructure. ([Code](https://github.com/novuhq/novu))
+- [Audacity](https://github.com/audacity/audacity) - Easy-to-use, multi-track audio editor and recorder.

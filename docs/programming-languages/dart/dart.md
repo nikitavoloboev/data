@@ -55,3 +55,4 @@ title: Dart
 - [eventsource](https://github.com/stevenroose/dart-eventsource) - Client and server implementation of Server-Side Events.
 - [dio](https://github.com/flutterchina/dio) - Powerful HTTP client for Dart.
 - [The road to Dart 3: A fully sound, null safe language (2022)](https://medium.com/dartlang/the-road-to-dart-3-afdd580fbefa) ([HN](https://news.ycombinator.com/item?id=33908134))
+- [Crimson](https://github.com/simc/crimson) - Fast, efficient and easy-to-use JSON parser and serializer for Dart.

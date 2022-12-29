@@ -460,3 +460,6 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [OpenShot Video Editor](https://github.com/OpenShot/openshot-qt) - Open-source video editor.
 - [trdrop](https://github.com/cirquit/trdrop) - Raw video analysis program.
+- [PyLivestream](https://github.com/scivision/PyLivestream) - Pure Python FFmpeg-based live video / audio streaming to YouTube, Facebook, Periscope, Twitch, and more.
+- [video-rs](https://github.com/oddity-ai/oddity-video) - High-level video toolkit based on ffmpeg.
+- [Oddity](https://oddity.ai/) - Builds deep learning algorithms to automate video surveillance. ([GitHub](https://github.com/oddity-ai))

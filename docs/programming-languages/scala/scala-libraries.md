@@ -225,6 +225,7 @@
 - [derevo](https://github.com/tofu-tf/derevo) - Multiple instance derivations inside a single macro annotation.
 - [Volga](https://github.com/manatki/volga) - Comprehensions for Arrows and Monoidal categories.
 - [Gallia](https://github.com/galliaproject/gallia-core) - Schema-aware Scala library for data transformation.
+- [dependency](https://github.com/coursier/dependency) - Library to parse and handle Java and Scala dependencies.
 
 ## Links
 

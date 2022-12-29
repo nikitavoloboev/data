@@ -1083,6 +1083,7 @@
 - [long-press-event](https://github.com/john-doherty/long-press-event) - Adds `long-press` event to the DOM in 1k of pure JavaScript.
 - [jStat](https://github.com/jstat/jstat) - JavaScript Statistical Library.
 - [NightVision](https://github.com/project-nv/night-vision) - Highly customizable charting library, created for professional traders.
+- [Webspace Engine](https://github.com/webspace-sdk/webspace-engine) - Create 3D worlds using just HTML.
 
 ## Links
 

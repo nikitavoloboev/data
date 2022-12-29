@@ -86,3 +86,4 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [Terrain Renderer](https://github.com/kurtkuehnert/terrain_renderer) - Large-scale real-world terrain renderer written in Rust using the Bevy game engine.
 - [bevy_ecs_tilemap](https://github.com/StarArawn/bevy_ecs_tilemap) - Tilemap rendering crate for bevy which is more ECS friendly.
 - [Bevy Kajiya](https://github.com/seabassjh/bevy-kajiya) - Bevy plugin that integrates the kajiya renderer with bevy.
+- [bevy_mod_js_scripting](https://github.com/jakobhellermann/bevy_mod_js_scripting) - Scripting integration crate for writing javascript/typescript scripts and running them in bevy with full access to the ECS values like components and resources.

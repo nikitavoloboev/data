@@ -158,7 +158,7 @@
 - [backoff](https://github.com/ihrwein/backoff) - Small crate which allows you to retry operations according to backoff policies.
 - [rust-jwt](https://github.com/durch/rust-jwt) - Very simple JWT generation lib.
 - [Avalanche](https://github.com/DJankauskas/avalanche) - Rust library for building performant Web apps.
-- [Dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more. ([Docs](https://dioxuslabs.com/guide/)) ([TODO App Example](https://github.com/JunichiSugiura/rust-ecs-todomvc)) ([HN](https://news.ycombinator.com/item?id=34140206))
+- [Dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more. ([Docs](https://dioxuslabs.com/guide/)) ([TODO App Example](https://github.com/JunichiSugiura/rust-ecs-todomvc)) ([HN](https://news.ycombinator.com/item?id=34140206)) ([CLI](https://github.com/DioxusLabs/cli)) ([GitHub](https://github.com/DioxusLabs))
 - [webview_rust](https://github.com/webview/webview_rust) - Rust Bindings to webview.
 - [rsass](https://github.com/kaj/rsass) - SASS reimplemented in rust with nom.
 - [connect-rs](https://github.com/sachanganesh/connect-rs) - Message-queue abstraction over async network streams.
@@ -2439,6 +2439,10 @@
 - [zip-extensions-rs](https://github.com/matzefriedrich/zip-extensions-rs) - High-level functions for common ZIP tasks, such as extracting archives to a directory.
 - [Enum Ptr](https://github.com/QuarticCat/enum-ptr) - Ergonomic tagged pointer.
 - [tracing-bunyan-formatter](https://github.com/LukeMathWalker/tracing-bunyan-formatter) - Bunyan formatting for tokio-rs/tracing.
+- [uint](https://github.com/recmo/uint) - Rust Uint crate using const-generics.
+- [FeOs](https://github.com/feos-org/feos) - Framework for Equations of State and Classical Density Functional Theory.
+- [pitch_detection](https://github.com/alesgenova/pitch-detection) - Collection of algorithms to determine the pitch of a sound sample.
+- [serde-partial](https://github.com/raftario/serde-partial) - Serde partial serialization made easy.
 
 ## Cargo Plugins
 

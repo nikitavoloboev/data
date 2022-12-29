@@ -29,3 +29,4 @@ title: swc
 - [SWC-to-babel](https://github.com/coderaiser/swc-to-babel) - Convert SWC to Babel AST.
 - [swc-loader](https://github.com/swc-project/swc-loader) - Webpack loader for swc.
 - [Verifying swc minifier using dbg-swc (2022)](https://kdy1.dev/posts/2022/12/swc-reducer)
+- [SWC JSX Dom Expressions](https://github.com/modderme123/swc-plugin-jsx-dom-expressions)

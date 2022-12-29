@@ -36,6 +36,8 @@ Just because you're going at your own pace, don't be led to think you're "under 
 
 [Huberman](https://hubermanlab.com/) did a [nice episode on science behind happiness](https://hubermanlab.com/science-based-tools-for-increasing-happiness/). Loved the part about synthetic happiness.
 
+One important thing I always keep in my mind is that everyone has their own unique idea of what happiness is. And I can't force my happiness onto anyone. If I truly care about a person, I always try to find what that happiness for the person is and try and give it to them.
+
 ## Other things that help
 
 - Maintaining a social support network (and having a dog).

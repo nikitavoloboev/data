@@ -6,7 +6,9 @@ title: Solana
 
 > Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 
-Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. This [article](https://lu.ma/p/3nHEa7k5DABpzE6/The-Solana-Programming-Model) & [thread](https://twitter.com/ayushmenon_/status/1476294409205526534) are nice intro guides. [Anchor](https://book.anchor-lang.com/) is best framework.
+Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. This [article](https://lu.ma/p/3nHEa7k5DABpzE6/The-Solana-Programming-Model) & [thread](https://twitter.com/ayushmenon_/status/1476294409205526534) are nice intro guides. [Anchor](https://book.anchor-lang.com/) is great framework.
+
+[Proof of history: what is it good for?](https://www.shoup.net/papers/poh.pdf) is nice read too as it questions Solana's consensus mechanism.
 
 I buy SOL with [Binance](https://www.binance.com/en-GB) (SEPA transfer). You can then [stake](https://www.reddit.com/r/solana/comments/soeadc/where_are_you_staking_your_solana/) SOL in many ways including Binance or [Marinade](https://marinade.finance/app/staking). Marinade is neat because from staked SOL, you get mSOL token which can act like SOL but you still get staked rewards. Or you can put mSOL into [liquidity pool](https://marinade.finance/app/mnde) or use it with [Solend](https://solend.fi) or similar services. I don't find them useful though.
 
@@ -313,3 +315,4 @@ I also think solving [micro transactions](https://news.ycombinator.com/item?id=3
 - [Solana Pay Scaffold](https://github.com/solana-labs/solana-pay-scaffold) - Scaffolding for a dapp using Solana Pay.
 - [Whirlpools](https://github.com/orca-so/whirlpools) - Open source concentrated liquidity AMM contract on Solana.
 - [Golana](https://github.com/oxfeeefeee/golana) - Write on Solana in Go.
+- [Proof of history: what is it good for? (2022)](https://www.shoup.net/papers/poh.pdf) ([Tweet](https://twitter.com/VictorShoup/status/1523015525814894597))

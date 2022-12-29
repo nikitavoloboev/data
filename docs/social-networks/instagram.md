@@ -1,10 +1,14 @@
 # Instagram
 
+[Glass](https://glass.photo/) & [Pixelfed](https://pixelfed.org/) are interesting alternatives.
+
+Wish you could simply pay IG to never see ads.
+
 ## Interesting story folder structure
 
+- [Christian Sieber](https://www.instagram.com/christiansieber/)
 - [Rosa Lobenstein](https://www.instagram.com/rosa_vonlobenstein/)
 - [Kendall](https://www.instagram.com/kendalljenner/)
-- [Christian Sieber](https://www.instagram.com/christiansieber/)
 
 ## API
 
@@ -17,3 +21,4 @@
 - [Instagram Private Web API client](https://github.com/jlobos/instagram-web-api)
 - [InstaLooter](https://github.com/althonos/InstaLooter) - API-less Instagram pictures and videos downloader.
 - [Goofy](https://github.com/yvessavoy/goofy) - Rust bindings to the mobile Instagram API.
+- [Instagram2Fedi](https://github.com/Horhik/Instagram2Fedi) - Python script for crossposting from Instagram to Mastodon or Pixelfed.

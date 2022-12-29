@@ -465,3 +465,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Generate Nix Flakes imperatively](https://github.com/DieracDelta/flake_generator)
 - [Setting up my new laptop: nix style (2022)](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
 - [Nix Starters](https://github.com/jacg/nix-starters) - Templates for getting started with Nix: home-manager, Rust projects, Python projects, C++ projects, etc.
+- [My little and short experience with Nix (2022)](https://davidgasquez.bearblog.dev/my-little-and-short-experience-with-nix/)
+- [Dev environments for numerous languages based on Nix flakes](https://github.com/the-nix-way/dev-templates)

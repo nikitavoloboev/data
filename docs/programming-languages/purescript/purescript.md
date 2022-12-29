@@ -71,3 +71,4 @@ title: PureScript
 - [PureScript and Halogen is better at almost everything (2022)](https://twitter.com/christopherdone/status/1572329195858018307)
 - [PureScript Survey (2022)](https://github.com/purescript/survey)
 - [Payload](https://github.com/hoodunit/purescript-payload) - HTTP server and client library for PureScript.
+- [PureScript Heterogeneous](https://github.com/natefaubion/purescript-heterogeneous) - Maps and folds for heterogeneous data types.

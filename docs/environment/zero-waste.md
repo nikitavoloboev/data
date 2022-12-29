@@ -21,3 +21,4 @@ Currently my zero waste practices involve:
 ## Links
 
 - [Living a Zero Waste Lifestyle in an RV](https://www.your-rv-lifestyle.com/zero-waste-lifestyle-rv/)
+- [What’s a zero waste “hack” or idea that you came up with yourself?](https://www.reddit.com/r/ZeroWaste/comments/zxr946/whats_a_zero_waste_hack_or_idea_that_you_came_up/)

@@ -52,3 +52,4 @@
 - [Algorithm for 3D printer with new kinematics](https://github.com/RotBotSlicer/Transform)
 - [Arc Overhang](https://github.com/stmcculloch/arc-overhang) - 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [3D Printed Film Video Camera (2022)](https://joshuabird.com/blog/post/3d-printed-film-video-camera)
+- [OctoPod](https://github.com/gdombiak/OctoPod) - Free open source client for OctoPrint.

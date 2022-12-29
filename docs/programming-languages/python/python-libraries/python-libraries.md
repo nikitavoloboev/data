@@ -1099,6 +1099,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [python-benedict](https://github.com/fabiocaccamo/python-benedict) - Dict subclass with keylist/keypath support, I/O shortcuts and many utilities.
 - [Matchering](https://github.com/sergree/matchering) - Audio Matching and Mastering.
 - [python-magic](https://github.com/ahupp/python-magic) - Python wrapper for libmagic.
+- [HiPart](https://github.com/panagiotisanagnostou/HiPart) - Hierarchical divisive clustering algorithm execution, visualization and Interactive visualization.
 
 ## Notes
 

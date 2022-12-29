@@ -42,3 +42,4 @@
 - [Outstatic](https://github.com/avitorio/outstatic) - Static CMS for Next.js. ([Web](https://outstatic.com/))
 - [Front Matter](https://github.com/estruyf/vscode-front-matter) - CMS running straight in Visual Studio Code.
 - [microfeed](https://github.com/microfeed/microfeed) - Self-hosted CMS on Server-less Cloudflare for podcast/blog/img/videos. ([HN](https://news.ycombinator.com/item?id=34147825))
+- [Alinea](https://alinea.sh/) - Open source headless CMS. ([Code](https://github.com/alineacms/alinea))

@@ -1,6 +1,6 @@
 # Computer graphics
 
-Like using [WebGPU](webgpu.md) (web/desktop via [Tauri](../programming-languages/rust/rust-libraries/tauri.md)) & [Metal](metal.md) (iOS) APIs.
+Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languages/rust/rust-libraries/tauri.md)) & [Metal](metal.md) (iOS) APIs.
 
 ## Notes
 
@@ -261,3 +261,4 @@ Like using [WebGPU](webgpu.md) (web/desktop via [Tauri](../programming-languages
 - [The Continuity of Splines (2022)](https://www.youtube.com/watch?v=jvPPXbo87ds) ([HN](https://news.ycombinator.com/item?id=34014308))
 - [Tool to create videos of particles or waves in different 2D domains](https://github.com/nilsberglund-orleans/YouTube-simulations)
 - [How to draw ugly lines fast](https://cohost.org/tomforsyth/post/648716-how-to-draw-ugly-lin) ([HN](https://news.ycombinator.com/item?id=34050351))
+- [Mixture of Volumetric Primitives for Efficient Neural Rendering (2021)](https://arxiv.org/abs/2103.01954) ([Code](https://github.com/facebookresearch/mvp))

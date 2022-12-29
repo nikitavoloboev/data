@@ -41,6 +41,7 @@
 - [Krush](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin.
 - [SQLDelight](https://github.com/cashapp/sqldelight) - Generates typesafe Kotlin APIs from SQL.
 - [DBFlow](https://github.com/agrosner/DBFlow) - Fast, efficient, and feature-rich Kotlin database library built on SQLite for Android.
+- [jasync-sql](https://github.com/jasync-sql/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin.
 
 ## GraphQL
 

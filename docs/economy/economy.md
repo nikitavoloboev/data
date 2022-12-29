@@ -6,6 +6,8 @@
 
 Liked this [episode on issues with monetary policies](https://hiddenforces.io/podcasts/monetary-breakdown-jeff-snider).
 
+[Informationist Newsletter](https://jameslavish.substack.com/) is great.
+
 ## Notes
 
 - Capitalism = making money through ownership of capital rather than purely by labour.
@@ -176,3 +178,4 @@ Liked this [episode on issues with monetary policies](https://hiddenforces.io/po
 - [Patrick Boyle - YouTube](https://www.youtube.com/c/PatrickBoyleOnFinance/videos)
 - [Trading Economics](https://tradingeconomics.com/) - View more than 20 million economic indicators for 196 countries.
 - [Are We Headed Towards a Monetary Breakdown? | Jeff Snider (2022)](https://hiddenforces.io/podcasts/monetary-breakdown-jeff-snider)
+- [The Informationist Newsletter | James Lavish](https://jameslavish.substack.com/) - Takes one financial concept and simplifies it for you in super easy to understand text.

@@ -183,3 +183,4 @@ title: Quantum computing
 - [QML-Lightning](https://github.com/nickjbrowning/qml-lightning) - GPU-Accelerated Approximate Kernel Methods and Representations for Quantum Machine Learning.
 - [Braket.jl](https://github.com/awslabs/Braket.jl) - Julia implementation of the Amazon Braket SDK.
 - [Qiskit Nature](https://github.com/Qiskit/qiskit-nature) - Open-source, quantum computing, framework for solving quantum mechanical natural science problems.
+- [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.

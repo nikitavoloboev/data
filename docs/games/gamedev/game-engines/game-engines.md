@@ -132,6 +132,7 @@
 - [Chipmunk](https://github.com/slembcke/Chipmunk2D) - Fast and lightweight 2D game physics library.
 - [Jolt Physics JS](https://github.com/jrouwe/JoltPhysics.js)
 - [MelonJS](https://github.com/melonjs/melonJS) - Fresh and lightweight JavaScript game engine. ([Web](https://melonjs.org/)) ([HN](https://news.ycombinator.com/item?id=34049896))
+- [PyUnity](https://github.com/pyunity/pyunity) - Pure Python 3D Game Engine that was inspired by the structure of the Unity Game Engine.
 
 ## Physics engines
 

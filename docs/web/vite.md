@@ -124,3 +124,4 @@ title: Vite
 - [Vituum](https://github.com/vituum/vituum) - Fast prototyping with template engines and integrated frontend tools.
 - [Speed up your Vite dev server with SWC](https://github.com/vitejs/vite-plugin-react-swc)
 - [vite-plugin-iso-import](https://github.com/bluwy/vite-plugin-iso-import) - Import modules isomorphically in the client or server.
+- [Vite Plugin Squoosh](https://github.com/bituq/vite-plugin-squoosh) - Image compression plugin for Vite, using squoosh.

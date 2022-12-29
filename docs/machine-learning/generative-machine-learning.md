@@ -280,3 +280,5 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Various ways of serving Stable Diffusion using Keras](https://github.com/deep-diver/keras-sd-serving)
 - [Fine-tuning Stable Diffusion using Keras](https://github.com/sayakpaul/stable-diffusion-keras-ft)
 - [Stable Diffusion v2 Cog model](https://github.com/replicate/cog-stable-diffusion)
+- [Karlo](https://github.com/kakaobrain/karlo) - Text-conditional image generation model based on OpenAI's unCLIP architecture.
+- [High Resolution Depth Maps for Stable Diffusion WebUI](https://github.com/thygate/stable-diffusion-webui-depthmap-script)

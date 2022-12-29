@@ -449,3 +449,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Fontations](https://github.com/googlefonts/fontations) - Reading and writing font files.
 - [Typography in Severance](https://severance.wiki/typography)
 - [What are your favorite fonts?](https://twitter.com/uiuxadrian/status/1603822021611343872)
+- [Font Preview VSCode](https://github.com/AdamRaichu/vscode-font-viewer) - VS Code extension which allows you to preview fonts.

@@ -1,6 +1,10 @@
 # Compilers
 
-[Compiler Explorer](https://godbolt.org) is amazing. [SSA-based Compiler Design](https://link.springer.com/book/10.1007/978-3-030-80515-9) seems like a nice book on state of art compiler design.
+[Compiler Explorer](https://godbolt.org) is great tool.
+
+[Crafting Interpreters](https://craftinginterpreters.com/introduction.html) & [Compiler Writing Journey](https://github.com/DoctorWkt/acwj) are great intros.
+
+[SSA-based Compiler Design](https://link.springer.com/book/10.1007/978-3-030-80515-9) goes over some state of the art compiler writing techniques.
 
 ## Notes
 

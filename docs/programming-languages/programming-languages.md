@@ -501,3 +501,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Cyber](https://github.com/fubark/cyber) - Fast, efficient, and concurrent scripting language.
 - [Compilation Speed discussed (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/zw3tn8/compilation_speed/)
 - [Vox](https://github.com/MrSmith33/vox) - Small and fast JIT/AOT compiler with zero dependencies.
+- [APScript](https://github.com/sno2/apscript) - Speedy interpreter for the AP Computer Science Principles pseudocode language built in Rust.

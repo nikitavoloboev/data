@@ -133,3 +133,5 @@
 - [Fluence](https://fluence.dev/docs/learn/overview) - Peer-to-peer application platform which allows the creation of applications free of proprietary cloud providers or centralized APIs. ([GitHub](https://github.com/fluencelabs)) ([Examples](https://github.com/fluencelabs/examples))
 - [hypershell](https://github.com/holepunchto/hypershell) - CLI to create and connect to P2P E2E encrypted shells.
 - [Sendstr](https://sendstr.com/) - E2E encrypted shared clipboard web app powered by Nostr. ([Code](https://github.com/vilm3r/sendstr-web))
+- [Autobase](https://github.com/holepunchto/autobase) - Lets you write concise multiwriter data structures with Hypercore.
+- [Holepunch](https://holepunch.to/) - Build unstoppable P2P Apps. ([Twitter](https://twitter.com/holepunch_to)) ([GitHub](https://github.com/holepunchto))

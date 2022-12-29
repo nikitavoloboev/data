@@ -30,6 +30,7 @@
 ## CLI
 
 - [CLIche](https://github.com/juancarlospaco/cliche) - AutoMagic CLI argument parsing is cliche.
+- [Bossy](https://github.com/guzba/bossy) - Simpler way to work with command line arguments.
 
 ## DB
 

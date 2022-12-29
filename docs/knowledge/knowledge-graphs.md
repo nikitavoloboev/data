@@ -136,3 +136,4 @@
 - [Papers on Knowledge Graph Embedding](https://github.com/xinguoxia/KGE)
 - [Papers about Logical Query on Knowledge Graphs](https://github.com/xinguoxia/KGLQ)
 - [Awesome Ontology](https://github.com/ozekik/awesome-ontology)
+- [DBpedia Information Extraction Framework](https://github.com/dbpedia/extraction-framework) - Software used to extract structured data from Wikipedia.

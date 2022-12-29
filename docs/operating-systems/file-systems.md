@@ -153,3 +153,4 @@
 - [Dirdiff](https://github.com/OCamlPro/dirdiff) - Efficiently compute the differences between two directories.
 - [Hyperdrive](https://github.com/hypercore-protocol/hyperdrive-next) - Secure, real-time distributed file system.
 - [OpenZFS](https://github.com/openzfsonosx/openzfs) - Advanced file system and volume manager.
+- [Apple File System for Linux](https://github.com/linux-apfs/linux-apfs-rw)

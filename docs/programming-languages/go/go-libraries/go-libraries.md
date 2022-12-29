@@ -1967,6 +1967,9 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [low](https://github.com/openacid/low) - Low level data type and utils in Go.
 - [rtreego](https://github.com/dhconnelly/rtreego) - R-Tree library for Go.
 - [ping](https://github.com/go-ping/ping) - ICMP Ping library for Go.
+- [Datadog Go client](https://github.com/DataDog/datadog-api-client-go)
+- [faker](https://github.com/go-faker/faker) - Struct Data Fake Generator.
+- [goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by simply defining an interface.
 
 ## Links
 

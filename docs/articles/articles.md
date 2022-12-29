@@ -33,3 +33,4 @@ Some articles I read and liked that don't fit under any other topic inside this 
 - [Your blog post greatest hits (2022)](https://twitter.com/zachleat/status/1524763302546620417)
 - [What's your favorite essay/blog post of all time? (2022)](https://twitter.com/packyM/status/1570113307452792837)
 - [Ask HN: What are some blog posts that you have enjoyed going through? (2022)](https://news.ycombinator.com/item?id=33715396)
+- [What are the best (technical) blog posts and articles you've read this year? (2022)](https://twitter.com/t3dotgg/status/1608303858698317825)

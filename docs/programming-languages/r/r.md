@@ -199,3 +199,4 @@
 - [R Packages Book](https://r-pkgs.org/) ([Code](https://github.com/hadley/r-pkgs))
 - [R Polars](https://github.com/pola-rs/r-polars) - Use awesome polars DataFrame library from R.
 - [modelbased](https://github.com/easystats/modelbased) - Estimate effects, contrasts and means based on statistical models.
+- [Deep R Programming](https://deepr.gagolewski.com/) ([Code](https://github.com/gagolews/deepr))

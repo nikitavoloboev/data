@@ -203,3 +203,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Alby](https://github.com/getAlby/lightning-browser-extension) - Bitcoin Lightning Browser extension that connects to different wallet interfaces and brings deep lightning integration to the web.
 - [Open Bitcoin Wallet](https://github.com/nbd-wtf/obw) - Android Bitcoin and Lightning wallet.
 - [Eye of Satoshi](https://github.com/talaia-labs/rust-teos) - Lightning watchtower compliant with BOLT13, written in Rust.
+- [Storm Core Library](https://github.com/Storm-WG/storm-core) - Storage and messaging layer 3 on top of bitcoin & lightning network.

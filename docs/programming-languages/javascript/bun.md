@@ -44,3 +44,4 @@ I use Bun to make sure I don't have to write [Node](../../web/nodejs/nodejs.md) 
 - [Bunview](https://github.com/theseyan/bunview) - Cross-platform library to build web-based GUIs for desktop applications.
 - [Bun HTTP Framework Benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP framework.
 - [Elysia with HMR](https://github.com/SaltyAom/elysia-hmr)
+- [jlbun](https://github.com/lucifer1004/jlbun) - Using Julia in Bun.

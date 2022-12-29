@@ -25,7 +25,7 @@ Heard nice things about [Eight Sleep](https://www.eightsleep.com) Pod & mattress
 - [Your brain may need sleep to repair DNA 'potholes' (2019)](https://www.cbc.ca/radio/quirks/mar-9-2019-science-of-awe-blue-whales-and-sonar-chromosomes-and-sleep-and-more-1.5047142/your-brain-may-need-sleep-to-repair-dna-potholes-1.5047151)
 - [Sleep is your superpower | Matt Walker (2019)](https://www.youtube.com/watch?v=5MuIMqhT8DM)
 - [How do you sleep at night? (2019)](https://justinjackson.ca/sleep)
-- [Matthew Walker's "Why We Sleep" Is Riddled with Scientific and Factual Errors (2019)](https://guzey.com/books/why-we-sleep/) ([HN](https://news.ycombinator.com/item?id=26684519))
+- [Matthew Walker's "Why We Sleep" Is Riddled with Scientific and Factual Errors (2019)](https://guzey.com/books/why-we-sleep/) ([HN](https://news.ycombinator.com/item?id=26684519)) ([HN](https://news.ycombinator.com/item?id=34165789))
 - [Ask HN: Best sleep trackers? (2020)](https://news.ycombinator.com/item?id=22685537)
 - [HN: Deep Sleep May Help the Brain Clear Alzheimer's Toxins (2020)](https://news.ycombinator.com/item?id=21414565)
 - [Eight Sleep](https://www.eightsleep.com/) - Ultimate sleep fitness machine.

@@ -1063,3 +1063,5 @@
 - [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields (2022)](https://github.com/ToniRV/NeRF-SLAM)
 - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures (2022)](https://arxiv.org/abs/2211.07600) ([Code](https://github.com/eladrich/latent-nerf))
 - [Deep Architectures for Content Moderation and Movie Content Rating (2022)](https://arxiv.org/abs/2212.04533) ([Code](https://github.com/fcakyon/content-moderation-deep-learning))
+- [TiG-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning (2022)](https://arxiv.org/abs/2212.13979) ([Code](https://github.com/ADLab3Ds/TiG-BEV))
+- [Magic3D: High-Resolution Text-to-3D Content Creation (2022)](https://arxiv.org/abs/2211.10440) ([Code](https://github.com/lucidrains/magic3d-pytorch))

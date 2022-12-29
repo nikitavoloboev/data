@@ -137,3 +137,5 @@
 - [Citadel](https://github.com/orlandos-nl/Citadel) - SSH Client & Server in Swift.
 - [SSH server hardening (2022)](https://ittavern.com/ssh-server-hardening/) ([Lobsters](https://lobste.rs/s/eslfxr/ssh_server_hardening))
 - [AsyncSSH](https://github.com/ronf/asyncssh) - Asynchronous SSH for Python.
+- [Sharing your SSH keys with GitHub](https://davidgasquez.bearblog.dev/sharing-ssh-keys/)
+- [pbproxy](https://github.com/nikvdp/pbproxy) - Send your clipboard anywhere you can ssh to.
