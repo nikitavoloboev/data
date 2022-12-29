@@ -98,3 +98,4 @@ title: Reddit
 - [Reddit moderator bot](https://github.com/gc-plp/reddit-moderator-bot) - Monitor subreddits and trigger custom actions through plugins.
 - [Reddit SSD Bot](https://github.com/ocmarin/ssd-bot) - Looks up SSDs posted within a subreddit and provides useful insight on the model found within the submission's title.
 - [ThreadClient](https://thread.pfg.pw/#/) - Client for Reddit and Mastodon. ([Code](https://github.com/pfgithub/threadclient))
+- [Easy Reddit Post Downloader](https://github.com/josephrcox/easy-reddit-downloader) - Simple & Powerful Reddit Post Downloader.

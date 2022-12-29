@@ -235,6 +235,10 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Codelime](https://onmyway133.com/codelime/) - Powerful code snippet manager. ([Docs](https://github.com/onmyway133/Codelime))
 - [ShowMeYourHotKeys](https://showmeyourhotkeys.moxadventu.com/) - macOS app to show applications menu shortcuts.
 
+## Notes
+
+- [macOS Preview app has a built-in feature to remove image background](https://twitter.com/poorlybatched/status/1608339437754421250)
+
 ## Links
 
 - [Awesome macOS apps](https://github.com/learn-anything/macos-apps)
