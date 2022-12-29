@@ -755,3 +755,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Poincaré Embeddings for Learning Hierarchical Representations (2017)](https://arxiv.org/abs/1705.08039) ([Code](https://github.com/facebookresearch/poincare-embeddings))
 - [llm-strategy](https://github.com/BlackHC/llm-strategy) - Implementing the Strategy Pattern using LLMs.
 - [Zshot](https://github.com/IBM/zshot) - Zero and Few shot named entity & relationships recognition.
+- [Cramming: Training a Language Model on a Single GPU in One Day (2022)](https://arxiv.org/abs/2212.14034) ([Code](https://github.com/JonasGeiping/cramming))

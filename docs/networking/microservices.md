@@ -122,3 +122,4 @@
 - [Sentinel](https://github.com/alibaba/sentinel-golang) - Sentinel of Your Microservices.
 - [Moduliths: because we need to scale, but we also cannot afford microservices (2022)](https://blog.kronis.dev/articles/modulith-because-we-need-to-scale-but-we-also-cannot-afford-micro-services)
 - [Coroot](https://github.com/coroot/coroot) - Monitoring and troubleshooting tool for microservice architectures.
+- [Go Microservices Example](https://github.com/harlow/go-micro-services) - Expose a HTTP/JSON frontend and then leverages gRPC for inter-service communication.
