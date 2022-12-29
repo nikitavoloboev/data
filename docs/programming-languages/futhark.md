@@ -21,3 +21,4 @@ title: Futhark
 - [Genfut](https://github.com/Erk-/genfut) - Tool to generate a Rust library to interact with exported functions from a Futhark file.
 - [Array short-circuiting (2022)](https://futhark-lang.org/blog/2022-11-03-short-circuiting.html)
 - [Generating audio with literate Futhark (2022)](https://futhark-lang.org/blog/2022-12-22-literate-audio.html)
+- [Futhark CI](https://github.com/diku-dk/futhark-ci)

@@ -6,7 +6,7 @@
 
 [rkyv](https://github.com/rkyv/rkyv) is great for serialization. [Moka](https://github.com/moka-rs/moka) or [Quick Cache](https://github.com/arthurprs/quick-cache) seem nice for caching.
 
-[Safer FFI](https://github.com/getditto/safer_ffi) is nice for writing safe rust bindings.
+[CXX](https://github.com/dtolnay/cxx) & [Safer FFI](https://github.com/getditto/safer_ffi) are nice for writing safe rust bindings.
 
 ## CLI
 
@@ -2443,6 +2443,8 @@
 - [FeOs](https://github.com/feos-org/feos) - Framework for Equations of State and Classical Density Functional Theory.
 - [pitch_detection](https://github.com/alesgenova/pitch-detection) - Collection of algorithms to determine the pitch of a sound sample.
 - [serde-partial](https://github.com/raftario/serde-partial) - Serde partial serialization made easy.
+- [serde_starlark](https://github.com/dtolnay/serde-starlark) - Serde serializer for generating Starlark build targets.
+- [eye-rs](https://github.com/raymanfx/eye-rs) - Cross platform camera capture in Rust.
 
 ## Cargo Plugins
 

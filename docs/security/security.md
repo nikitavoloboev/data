@@ -333,3 +333,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [PCS (Private Computation Solutions)](https://github.com/facebookresearch/fbpcs) - Leverages secure multi-party computation (MPC) to output aggregated data without making unencrypted, readable data available to the other party or any third parties.
 - [Security Study Plan](https://github.com/jassics/security-study-plan)
 - [Cybersecurity Interview Questions Collections with Answers](https://github.com/jassics/cybersecurity-interview-questions)
+- [Turning Google smart speakers into wiretaps for $100k (2022)](https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html)

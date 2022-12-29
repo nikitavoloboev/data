@@ -744,3 +744,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Evolution of the Ethereum proof-of-stake consensus protocol](https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md) ([HN](https://news.ycombinator.com/item?id=34119048))
 - [Tour of ethers-rs](https://github.com/0xKitsune/Tour-of-ethers-rs)
 - [CFOX](https://github.com/DTeam-Top/cfox) - Shell for eth dapp developers.
+- [Consentry](https://github.com/chainbound/consentry) - Ethereum consensus network sentry.

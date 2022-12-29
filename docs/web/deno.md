@@ -357,3 +357,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [Deno Outdated](https://github.com/LeoDog896/deno-outdated) - Find outdated dependencies in your deno project.
 - [migo](https://github.com/nberlette/migo) - Generate dynamic OpenGraph images on Deno's Edge Network.
 - [DQL](https://github.com/nberlette/dql) - Web Scraping with Deno: DOM + GraphQL.
+- [resvg-wasm](https://github.com/kitsonk/resvg-wasm) - WASM bindings for resvg for Deno.
