@@ -102,3 +102,4 @@ title: Prometheus
 - [Monitoring Microservices with Prometheus and Grafana (2022)](https://navendu.me/posts/introduction-to-monitoring-microservices/) ([HN](https://news.ycombinator.com/item?id=33918044))
 - [Connect-Go-Prometheus](https://github.com/polarsignals/connect-go-prometheus) - Prometheus interceptor for connect-go.
 - [promg](https://github.com/onbjerg/promg) - Small CLI tool to create a plot from a Prometheus query.
+- [Prometheus Toolbox](https://github.com/pb82/prometheus-toolbox) - CLI tool to generate metrics data for Prometheus.

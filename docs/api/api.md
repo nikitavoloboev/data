@@ -454,3 +454,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Ask HN: Which is your most favorite API? (2022)](https://news.ycombinator.com/item?id=33997301)
 - [Stripe API errors give links as responses for how to fix errors](https://twitter.com/siddhantgoel/status/1604147820721733633)
 - [Nice Texting APIs (2022)](https://twitter.com/VictorPontis/status/1606010064011087872)
+- [CyberAPI](https://github.com/vicanso/cyberapi) - API tool based on tauri, it is smaller and faster.
