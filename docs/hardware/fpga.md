@@ -126,3 +126,4 @@ title: Field-programmable gate array
 - [Another World on FPGA (2022)](https://twitter.com/sylefeb/status/1606307644439875587)
 - [Accelerating ZK-SNARKs – MSM and NTT Algorithms on FPGAs with Hardcaml (2022)](https://blog.janestreet.com/zero-knowledge-fpgas-hardcaml/) ([HN](https://news.ycombinator.com/item?id=34146794))
 - [BoxLambda](https://github.com/epsilon537/boxlambda) - FPGA based microcomputer sandbox for software and RTL experimentation.
+- [F4PGA examples](https://github.com/chipsalliance/f4pga-examples) - Example designs showing different ways to use F4PGA toolchains.

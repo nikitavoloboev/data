@@ -93,3 +93,4 @@ Learning to use [BlackJAX](https://github.com/blackjax-devs/blackjax) to do Baye
 - [PyTorch Lightning + Jax](https://github.com/ludwigwinkler/JaxLightning)
 - [Structural Time Series (STS) in JAX](https://github.com/probml/sts-jax)
 - [safejax](https://github.com/alvarobartt/safejax) - Serialize JAX/Flax models with safetensors.
+- [dejax](https://github.com/hr0nix/dejax) - Accelerated replay buffers in JAX.

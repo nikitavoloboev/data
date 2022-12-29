@@ -4,7 +4,7 @@ title: Zero knowledge proofs
 
 # [Zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 
-[RISC Zero](https://github.com/risc0/risc0) looks neat. [Zero Knowledge on Ramp](https://github.com/SupremeSingh/Awesome-ZK) is nice intro.
+[RISC Zero](https://github.com/risc0/risc0) looks neat. [Zero Knowledge on Ramp](https://github.com/SupremeSingh/Awesome-ZK) & [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) are nice intros.
 
 [Noir](https://github.com/noir-lang/noir) is nice DSL.
 
@@ -142,3 +142,4 @@ title: Zero knowledge proofs
 - [ZK Hunt](https://github.com/FlynnSC/zk-hunt) - Onchain game which explores different ZK game mechanics and information asymmetry.
 - [zkOS](https://github.com/starkoracles/zkos) - Cross-proof-system execution layer.
 - [VMtropy](https://github.com/lambdaclass/VMtropy) - ZK snark-based VM running Aleo Instructions.
+- [Proofs, Arguments, and Zero-Knowledge (2022)](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)

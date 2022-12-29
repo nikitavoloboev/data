@@ -125,6 +125,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Polyglot](https://github.com/sheerun/vim-polyglot) - Solid language pack.
 - [Heirline.nvim](https://github.com/rebelot/heirline.nvim) - No-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
 - [Formatter.nvim](https://github.com/mhartington/formatter.nvim) - Format runner for neovim, written in Lua.
+- [True Zen](https://github.com/Pocco81/true-zen.nvim) - Clean and elegant distraction-free writing for NeoVim.
 - [Auto save](https://github.com/907th/vim-auto-save) - Automatically save changes to disk.
 - [Ag](https://github.com/rking/ag.vim) - Plugin for the_silver_searcher, 'ag'.
 - [Undotree](https://github.com/mbbill/undotree) - Undo history visualizer.
@@ -371,3 +372,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [ThePrimeagen's init.lua](https://github.com/ThePrimeagen/init.lua)
 - [Nice starting point for Neovim](https://github.com/nvim-lua/kickstart.nvim)
 - [lazy.nvim](https://github.com/folke/lazy.nvim) - Modern plugin manager for Neovim.
+- [Neovim plugin boilerplate](https://github.com/shortcuts/neovim-plugin-boilerplate) - Minimal Neovim plugin boilerplate with already configured CI, docs and tests.

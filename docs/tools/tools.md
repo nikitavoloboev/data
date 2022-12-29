@@ -809,3 +809,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Audacity](https://github.com/audacity/audacity) - Easy-to-use, multi-track audio editor and recorder.
 - [ScreenshotOne](https://screenshotone.com/) - Take site screenshots via API.
 - [Ask HN: What was the best software that you used during 2022?](https://news.ycombinator.com/item?id=34174593)
+- [Ask HN: Why haven't bookmarks been re-invented? (2022)](https://news.ycombinator.com/item?id=34176035)

@@ -99,3 +99,4 @@ title: Reddit
 - [Reddit SSD Bot](https://github.com/ocmarin/ssd-bot) - Looks up SSDs posted within a subreddit and provides useful insight on the model found within the submission's title.
 - [ThreadClient](https://thread.pfg.pw/#/) - Client for Reddit and Mastodon. ([Code](https://github.com/pfgithub/threadclient))
 - [Easy Reddit Post Downloader](https://github.com/josephrcox/easy-reddit-downloader) - Simple & Powerful Reddit Post Downloader.
+- [Reddit Image Fetcher](https://github.com/arifszn/reddit-image-fetcher) - JavaScript package for fetching reddit images, memes, wallpapers and more.

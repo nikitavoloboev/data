@@ -91,3 +91,4 @@ Always [know your substance, have good set (mindset) and setting (environment)](
 - [Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design (2022)](https://arxiv.org/abs/2210.05274) ([Code](https://github.com/igashov/DiffLinker))
 - [r/Drugs Official Discord](https://discord.com/invite/rdrugs-official)
 - [MolMap: An Efficient Convolutional Neural Network Based Molecular Deep Learning Tool](https://github.com/shenwanxiang/bidd-molmap)
+- [Hyperlab.info](https://hyperlab.info/inv/index.php) ([Rules](https://hyperlab.info/inv/index.php?act=ST&f=17&t=30352&lang=en))

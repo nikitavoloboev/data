@@ -2,6 +2,8 @@
 
 Curious how [TSMC](https://www.tsmc.com/english) manages to squeeze so much performance out of their CPUs.
 
+[Asianometry](https://www.youtube.com/@Asianometry/videos) does nice updates on [hardware](../hardware.md) news.
+
 ## Notes
 
 - [Math is often significantly faster than L1 cache hits, so memoization in many cases is actually a performance loss. Need to benchmark it though.](https://twitter.com/transitracer/status/1588316358303010816)
@@ -190,3 +192,4 @@ Curious how [TSMC](https://www.tsmc.com/english) manages to squeeze so much perf
 - [ARM1 Gate-level Simulation](http://visual6502.org/sim/varm/armgl.html) ([HN](https://news.ycombinator.com/item?id=33761102))
 - [Knight’s Landing: Atom with AVX-512 (2022)](https://chipsandcheese.com/2022/12/08/knights-landing-atom-with-avx-512/)
 - [TSMC: Semiconductors and Borders of Light (2022)](https://twitter.com/mariogabriele/status/1602019346339045376)
+- [The Amazing, Humble Silicon Wafer (2022)](https://www.youtube.com/watch?v=sIRfWyyOFPg)

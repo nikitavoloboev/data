@@ -230,3 +230,6 @@ title: Vue.js
 - [Vitest Environment Nuxt](https://github.com/danielroe/vitest-environment-nuxt) - Vitest environment for testing code that needs a Nuxt runtime environment.
 - [VueFire](https://github.com/vuejs/vuefire) - Firebase bindings for Vue.
 - [Responsive Video Background Player for Vue](https://github.com/avidofood/vue-responsive-video-background-player)
+- [Nuxt Simple Robots](https://github.com/harlan-zw/nuxt-simple-robots) - Simply manage the robots crawling your Nuxt v3 app.
+- [Nuxt OG Image](https://github.com/harlan-zw/nuxt-og-image) - Generate dynamic social share images for your Nuxt v3 app.
+- [Nuxt Link Checker](https://github.com/harlan-zw/nuxt-link-checker) - Improve your sites SEO by identifying and fixing link issues in your Nuxt v3 app.

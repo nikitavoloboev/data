@@ -147,3 +147,4 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [Mastodon Block Tools](https://github.com/ineffyble/mastodon-block-tools)
 - [Explore the fediverse, but use block like it's a machine gun in a zombie apocalypse (2022)](https://boyter.org/posts/mastinator-activitypub-breaking-assumptions/)
 - [The Architecture of Mastodon (2022)](https://matt-rickard.com/the-architecture-of-mastodon)
+- [Notes on importing content to Mastodon](https://github.com/lucahammer/fediporter)

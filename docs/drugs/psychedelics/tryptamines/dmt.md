@@ -125,3 +125,4 @@ Which I then use with [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.m
 - [DMT STB Extraction Teks](https://wiki.dmt-nexus.me/Category:Extraction_Tek#STB)
 - [Advice for first time DMT](https://www.reddit.com/r/DMT/comments/zwfdzq/soooo_my_dmt_will_finally_be_here_today_tips/)
 - [DMT-Nexus Wiki](https://wiki.dmt-nexus.me/Main_Page)
+- [Basic equipment required for DMT / mescaline extraction](https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=96067)
