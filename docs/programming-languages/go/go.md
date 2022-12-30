@@ -937,3 +937,4 @@ if *boolArgPtr != false {
 - [Event-Driven Architecture in Go (2022)](https://www.packtpub.com/product/event-driven-architecture-in-golang/9781803238012) ([Code](https://github.com/PacktPublishing/Event-Driven-Architecture-in-Golang))
 - [Concurrency is not Parallelism by Rob Pike](https://www.youtube.com/watch?v=oV9rvDllKEg)
 - [Yoda](https://github.com/thomscoder/yoda) - Get a summary of Go files to programmatically query them.
+- [Go disables Nagle's Algorithm by default (2022)](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/) ([Lobsters](https://lobste.rs/s/xdre9p/golang_is_evil_on_shitty_networks)) ([HN](https://news.ycombinator.com/item?id=34179426))

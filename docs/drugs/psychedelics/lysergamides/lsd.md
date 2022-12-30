@@ -47,3 +47,4 @@ title: LSD
 - [The single best thing to do while tripping on LSD](https://www.reddit.com/r/LSD/comments/sbowfl/the_single_best_thing_to_do_while_tripping_on_lsd/)
 - [Music for LSD playlist](https://open.spotify.com/playlist/4dmGzrDcSFwQIgwx882Sv0) ([Tweet](https://twitter.com/Aella_Girl/status/1570881981550034944))
 - [LSD-like molecules counter depession without the trip (2022)](https://www.ucsf.edu/news/2022/09/423891/lsd-molecules-counter-depression-without-trip) ([HN](https://news.ycombinator.com/item?id=33052550))
+- [Hyperlab.info - Синтез LSD](https://hyperlab.info/inv/index.php?s=48e93c46428953dbfb4d702f4177f79d&lang=en&act=ST&f=17&t=128)

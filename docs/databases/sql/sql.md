@@ -169,7 +169,8 @@ title: SQL
 - [Treating SQL like code (2022)](https://blog.devgenius.io/why-google-treats-sql-like-code-and-you-should-too-53f97925037e) ([HN](https://news.ycombinator.com/item?id=29921528))
 - [SQL Formatter](http://mattdziuban.com/sql-formatter/) - Polyglot SQL formatter. ([Code](https://github.com/mrdziuban/sql-formatter))
 - [Sqllogictest](https://www.sqlite.org/sqllogictest/doc/trunk/about.wiki) - Program designed to verify that an SQL database engine computes correct results by comparing the results to identical queries from other SQL database engines. ([Sqllogictest-rs](https://github.com/singularity-data/sqllogictest-rs))
-- [PRQL](https://github.com/prql/prql) - Modern language for transforming data — a simpler and more powerful SQL. ([HN](https://news.ycombinator.com/item?id=30060784)) ([HN](https://news.ycombinator.com/item?id=31897430))
+- [PRQL](https://github.com/prql/prql) - Modern language for transforming data — a simpler and more powerful SQL. ([HN](https://news.ycombinator.com/item?id=30060784)) ([HN](https://news.ycombinator.com/item?id=31897430)) ([Web](https://prql-lang.org/)) ([HN](https://news.ycombinator.com/item?id=34181319))
+- [PRQL Query](https://github.com/PRQL/prql-query) - Query and transform data with PRQL.
 - [Malloy](https://github.com/malloydata/malloy) - Experimental language for describing data relationships and transformations. ([HN](https://news.ycombinator.com/item?id=30053860)) ([Web](https://www.malloydata.dev/))
 - [SpyQL](https://github.com/dcmoura/spyql) - SQL with Python in the Middle. ([HN](https://news.ycombinator.com/item?id=30056864))
 - [Bdash](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis.

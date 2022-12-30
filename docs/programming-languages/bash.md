@@ -155,4 +155,4 @@ source script
 -   [bashew](https://github.com/pforret/bashew) - Bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing.
 -   [Using ChatGPT to make Bash palatable (2022)](https://brev.dev/blog/ai-wont-replace-you-write-bash)
 -   [GPT-3 Powered Shell (2022)](https://musings.yasyf.com/never-write-a-bash-command-again-with-gpt-3/) ([HN](https://news.ycombinator.com/item?id=34102363)) ([Code](https://github.com/yasyf/gpt-do))
--   [Bash retry function with exponential backoff](https://gist.github.com/sj26/88e1c6584397bb7c13bd11108a579746)
+-   [Bash retry function with exponential backoff](https://gist.github.com/sj26/88e1c6584397bb7c13bd11108a579746) ([HN](https://news.ycombinator.com/item?id=34161661))

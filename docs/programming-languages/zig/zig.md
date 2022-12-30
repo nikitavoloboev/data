@@ -166,3 +166,4 @@ title: Zig
 - [Using Zig for Advent of Code (2022)](https://www.huy.rocks/everyday/12-11-2022-zig-using-zig-for-advent-of-code)
 - [What I learn by implementing argparser in Zig (2022)](https://en.liujiacai.net/2022/12/14/argparser-in-zig/)
 - [Zig Aarch64 Disassembler](https://github.com/devins2518/zig-dis-aarch64)
+- [zdb](https://github.com/kubkon/zdb) - Simple debugger in Zig for Zig.

@@ -282,3 +282,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Stable Diffusion v2 Cog model](https://github.com/replicate/cog-stable-diffusion)
 - [Karlo](https://github.com/kakaobrain/karlo) - Text-conditional image generation model based on OpenAI's unCLIP architecture.
 - [High Resolution Depth Maps for Stable Diffusion WebUI](https://github.com/thygate/stable-diffusion-webui-depthmap-script)
+- [Prompt Extend](https://github.com/daspartho/prompt-extend) - Text generation model for generating suitable style cues given the main idea for a prompt.

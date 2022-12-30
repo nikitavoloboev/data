@@ -185,3 +185,4 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [Your Holy Grail Skincare (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/zoc1jx/your_holy_grail_skincare/)
 - [Ways to prevent/reduce wrinkles](https://www.reddit.com/r/30PlusSkinCare/comments/zpv6e6/the_start_of_forehead_wrinkles_what_would_help/)
 - [“Expensive” vitamin C serums (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/zwhvum/expensive_vitamin_c_serum/)
+- [How do you deal with the effects of aging?](https://www.reddit.com/r/30PlusSkinCare/comments/zydhjy/how_do_you_deal_with_the_effects_of_aging/)

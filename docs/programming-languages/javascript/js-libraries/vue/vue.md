@@ -233,3 +233,4 @@ title: Vue.js
 - [Nuxt Simple Robots](https://github.com/harlan-zw/nuxt-simple-robots) - Simply manage the robots crawling your Nuxt v3 app.
 - [Nuxt OG Image](https://github.com/harlan-zw/nuxt-og-image) - Generate dynamic social share images for your Nuxt v3 app.
 - [Nuxt Link Checker](https://github.com/harlan-zw/nuxt-link-checker) - Improve your sites SEO by identifying and fixing link issues in your Nuxt v3 app.
+- [Vue Component Library Starter](https://github.com/wobsoriano/vue-lib-starter) - Bundleless Vue component library starter.

@@ -306,3 +306,4 @@
 - [Simple semi-space collector (2022)](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)
 - [Conformance Should Mean Something - fputc, and Freestanding (2022)](https://thephd.dev/conformance-should-mean-something-fputc-and-freestanding)
 - [Ask HN: Learn C in 2023?](https://news.ycombinator.com/item?id=34105770)
+- [50 years of C, the good, the bad and the ugly (2022)](https://streaming.media.ccc.de/jev22/relive/49151)

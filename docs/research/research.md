@@ -1,6 +1,6 @@
 # Research
 
-[Good Research Code Handbook](https://goodresearch.dev/) is useful.
+[Good Research Code Handbook](https://goodresearch.dev/) is good read. [Autocomplete vs graph](https://anvaka.github.io/vs/?query=) is useful.
 
 ## How I research
 

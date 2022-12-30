@@ -8,6 +8,8 @@ Only 'hard' drugs I partake in are [psychedelics](psychedelics/psychedelics.md).
 
 Always [know your substance, have good set (mindset) and setting (environment)](https://www.reddit.com/r/DMT/comments/yzxhlv/comment/ix38i6o/) before consuming any drug.
 
+[Hive](https://www.reddit.com/r/TheeHive/) is fun subreddit to read. It's wild the kinds of things you can synthesize and from what.
+
 ## Notes
 
 - [The drug isn't the issue its our relationship with them.](https://www.reddit.com/r/Psychedelics/comments/mpmmse/this_needs_to_stop/)

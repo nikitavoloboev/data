@@ -126,3 +126,4 @@ Which I then use with [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.m
 - [Advice for first time DMT](https://www.reddit.com/r/DMT/comments/zwfdzq/soooo_my_dmt_will_finally_be_here_today_tips/)
 - [DMT-Nexus Wiki](https://wiki.dmt-nexus.me/Main_Page)
 - [Basic equipment required for DMT / mescaline extraction](https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=96067)
+- [Hyperlab.info - Триптамин и DMT](https://hyperlab.info/inv/index.php?s=48e93c46428953dbfb4d702f4177f79d&lang=en&act=ST&f=17&t=29149)

@@ -62,3 +62,4 @@ One way I found that helps me not get [addicted](../psychology/addiction.md) to 
 - [What you need to know before taking MDMA](https://www.reddit.com/r/electricdaisycarnival/comments/36onfb/be_safe_guys_heres_what_you_need_to_know_about/)
 - [Is MDMA Neurotoxic?](https://dancesafe.org/drug-information/is-mdma-neurotoxic/)
 - [Explanation of how 5-HTP works and if it's safe to use](https://www.reddit.com/r/StackAdvice/comments/8a07qd/comment/dwvg1bj/)
+- [Hyperlab.info - MDMA, вокруг да около](https://hyperlab.info/inv/index.php?s=48e93c46428953dbfb4d702f4177f79d&lang=en&act=ST&f=17&t=28749)

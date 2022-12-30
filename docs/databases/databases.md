@@ -746,3 +746,5 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Closing The Gap Between Your Users And Their Data (2022)](https://tripleodeon.com/2022/11/closing-the-gap-between-your-users-and-their-data)
 - [Awesome Data Temporality](https://github.com/daefresh/awesome-data-temporality) - Curated list to help you manage temporal data across many modalities.
 - [Offline-First databases/tools](https://github.com/arn4v/offline-first)
+- [Make your database tables smaller (2022)](https://jezenthomas.com/make-your-database-tables-smaller/) ([HN](https://news.ycombinator.com/item?id=34167839))
+- [ULIDs and Primary Keys (2022)](https://blog.daveallie.com/ulid-primary-keys) ([HN](https://news.ycombinator.com/item?id=34175639))

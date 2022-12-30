@@ -4,7 +4,7 @@ title: OCaml
 
 # [OCaml](https://ocaml.org)
 
-[What I wish I knew when learning OCaml](https://news.ycombinator.com/item?id=31219552) & [OCaml FP Programming Course](https://cs3110.github.io/textbook/cover.html) are great reads.
+[Learning OCaml in 2023](https://sancho.dev/blog/learning-ocaml), [What I wish I knew when learning OCaml](https://news.ycombinator.com/item?id=31219552) & [OCaml FP Programming Course](https://cs3110.github.io/textbook/cover.html) are great reads.
 
 ## Notes
 
@@ -164,3 +164,4 @@ title: OCaml
 - [What are the biggest reasons newcomers give up on OCaml?](https://discuss.ocaml.org/t/what-are-the-biggest-reasons-newcomers-give-up-on-ocaml/10958) ([Reddit](https://www.reddit.com/r/ocaml/comments/zqfoq5/what_are_the_biggest_reasons_newcomers_give_up_on/))
 - [OCaml on Microcontroller Boards](https://github.com/stevenvar/OMicroB) ([Lobsters](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could))
 - [Programming project on automatic differentiation in OCaml](https://github.com/fpottier/mpri-2.4-projet-2022-2023)
+- [Learning OCaml in 2023](https://sancho.dev/blog/learning-ocaml)

@@ -27,3 +27,4 @@ title: Web workers
 - [Workly](https://github.com/pshihn/workly) - Simple way to move a stand-alone function/class to a worker thread.
 - [How to stop synchronous code in a web worker? (2022)](https://yoyo-code.com/how-to-stop-synchronous-web-worker/)
 - [Typed-Worker](https://github.com/egoist/typed-worker) - Type-safe and Promisified API for Web Worker and Iframe.
+- [Framebuffer Worker](https://github.com/cedeber/framebuffer-worker) - Draw on a Canvas from a Web Worker.

@@ -264,6 +264,7 @@
 - [core.matrix](https://github.com/mikera/core.matrix) - Multi-dimensional array programming API for Clojure.
 - [raphael](https://github.com/quoll/raphael) - Clojure library for parsing strings.
 - [Datasplash](https://github.com/ngrunwald/datasplash) - Clojure API for a more dynamic Google Dataflow.
+- [Medley](https://github.com/weavejester/medley) - Lightweight library of useful Clojure functions.
 
 ## Links
 

@@ -188,3 +188,4 @@ It's good to be aware that [set and setting](https://www.reddit.com/r/LSD/commen
 - [Guide to Taking Psychedelics: Set & Setting](https://www.reddit.com/r/LSD/comments/bc7l6l/guide_to_taking_psychedelics_set_setting/)
 - [Movies to watch on Shrooms (2022)](https://www.reddit.com/r/MovieSuggestions/comments/z9v7ng/movies_to_watch_on_shrooms/)
 - [Most psychoactive book you know (any genre) (2022)](https://twitter.com/sashachapin/status/1607252417019772929)
+- [Hyperlab.info - Литература о психоактивах](https://hyperlab.info/inv/index.php?s=48e93c46428953dbfb4d702f4177f79d&lang=en&act=ST&f=17&t=28181)

@@ -267,6 +267,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Preetam Jinka](https://misfra.me/)
 - [Guillaume](https://guillaume-be.github.io/)
 - [Alexey Guzey](https://guzey.com/)
+- [David Sancho](https://sancho.dev/blog)
 
 ## Notes
 

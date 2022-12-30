@@ -1024,3 +1024,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Thinking like Transformers](https://srush.github.io/raspy/) ([HN](https://news.ycombinator.com/item?id=27528004))
 - [OLLA: Optimizing the Lifetime and Location of Arrays to Reduce the Memory Usage of Neural Networks (2022)](https://arxiv.org/abs/2210.12924) ([Code](https://github.com/facebookresearch/OLLA))
 - [Generalizing Goal-Conditioned Reinforcement Learning with Variational Causal Reasoning (2022)](https://arxiv.org/abs/2207.09081) ([Code](https://github.com/GilgameshD/GRADER))
+- [Extremely Simple Activation Shaping for Out-of-Distribution Detection (2022)](https://arxiv.org/abs/2209.09858) ([Code](https://github.com/andrijazz/ash))

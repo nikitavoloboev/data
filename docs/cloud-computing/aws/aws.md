@@ -8,6 +8,8 @@ AWS has a [nice free tier](https://aws.amazon.com/free/). [AWS CDK](https://gith
 
 Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thing I learned is that settting up billing alerts is a must have so as to not overpay for compute. Also ideally you use services you truly need from these cloud providers, because the pricing does get a bit crazy at times.
 
+[SST](https://github.com/serverless-stack/sst) seems like useful framework.
+
 ## Interesting
 
 - [AWS Aurora](https://aws.amazon.com/rds/aurora/) - MySQL and PostgreSQL-compatible relational database built for the cloud.
@@ -426,3 +428,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [AWS Events Playlists - YouTube](https://www.youtube.com/@AWSEventsChannel/playlists)
 - [AWS re:Invent 2022 - Practical experience with a serverless-first strategy at Capital One](https://www.youtube.com/watch?v=NZVNAEK6shc)
 - [AWS re:Invent 2022 - Designing event-driven integrations using Amazon EventBridge](https://www.youtube.com/watch?v=W3Rh70jG-LM)
+- [SST](https://github.com/serverless-stack/sst) - Makes it easy to build full-stack serverless applications on AWS.

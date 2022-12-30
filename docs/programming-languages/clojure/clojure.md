@@ -259,3 +259,4 @@ title: Clojure
 - [Clojure is a trinity of language, REPL, and structural editor (2022)](https://blog.jakubholy.net/2022/trinity-of-clojure/) ([HN](https://news.ycombinator.com/item?id=33962090))
 - [Structuring Clojure Applications (2022)](https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html) ([HN](https://news.ycombinator.com/item?id=34052268))
 - [zprint](https://github.com/kkinnear/zprint) - Executables, uberjar, and library to beautifully format Clojure and Clojurescript source code and s-expressions.
+- [Through the looking glass w Data Rabbit: "A System built for Seeing" (2022)](https://www.youtube.com/watch?v=bXRDfxp_4H0)

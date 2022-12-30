@@ -467,3 +467,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix Starters](https://github.com/jacg/nix-starters) - Templates for getting started with Nix: home-manager, Rust projects, Python projects, C++ projects, etc.
 - [My little and short experience with Nix (2022)](https://davidgasquez.bearblog.dev/my-little-and-short-experience-with-nix/)
 - [Dev environments for numerous languages based on Nix flakes](https://github.com/the-nix-way/dev-templates)
+- [Development environment with Nix Flakes and Direnv](https://gist.github.com/sagittaros/32dc6ffcbc423dc0fed7eef24698d5ca)

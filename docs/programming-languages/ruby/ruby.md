@@ -1,6 +1,6 @@
 # Ruby
 
-[Try Ruby](https://try.ruby-lang.org/) is nice intro.
+[Try Ruby](https://try.ruby-lang.org/) is nice intro. [Ruby Nix](https://github.com/sagittaros/ruby-nix) is nice starter code.
 
 ## Links
 

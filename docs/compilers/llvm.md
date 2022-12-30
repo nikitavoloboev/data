@@ -4,6 +4,8 @@ title: LLVM
 
 # [LLVM](https://llvm.org/)
 
+[LLVM-Go](https://github.com/llir/llvm) is nice way to interact with LLVM IR.
+
 ## Links
 
 - [Vellvm](https://www.cis.upenn.edu/~stevez/vellvm/) - Verifying the LLVM.

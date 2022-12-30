@@ -6,7 +6,7 @@ I use [Sublime Merge](https://www.sublimemerge.com/) as my git client app. And f
 
 [git-branchless](https://github.com/arxanas/git-branchless), [git absorb](https://github.com/tummychow/git-absorb) & [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) are useful.
 
-[gh GitHub CLI](https://cli.github.com/) is great. Specifically [gh pr checkout is useful](https://twitter.com/dan_abramov/status/1600653294375870465). [Git Alias](https://github.com/GitAlias/gitalias) is nice overview of various git commands.
+[gh GitHub CLI](https://cli.github.com/) is great. Specifically [gh pr checkout is useful](https://twitter.com/dan_abramov/status/1600653294375870465). [Git Alias](https://github.com/GitAlias/gitalias) is nice overview of various git commands. [gh poi](https://github.com/seachicken/gh-poi) is nice for cleaning up branches.
 
 [gitoxide](https://github.com/Byron/gitoxide) & [go-git](https://github.com/go-git/go-git) are nice reimplementations of Git.
 

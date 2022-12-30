@@ -2749,3 +2749,4 @@
 - [State of Rust for web backends (2022)](https://www.reddit.com/r/rust/comments/zqgo98/state_of_rust_for_web_backends/)
 - [Reindeer](https://github.com/facebookincubator/reindeer) - Tool which takes Rust Cargo dependencies and generates Buck build rules.
 - [Tips on scaling a monolithic Rust web server (2022)](https://www.reddit.com/r/rust/comments/zvt1mu/tips_on_scaling_a_monolithic_rust_web_server/)
+- [How (and why) nextest uses tokio (2022)](https://sunshowers.io/posts/nextest-and-tokio/)

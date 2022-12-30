@@ -131,3 +131,4 @@ I prefer using [EdgeDB](edgedb.md) for all my DB needs, it has a [better way to 
 - [The Ultimate Guide to Testing with Prisma: Mocking Prisma Client (2022)](https://www.prisma.io/blog/testing-series-1-8eRB5p0Y8o)
 - [Prisma Generator Basic TypeGraphQL](https://github.com/Luis-Domenech/prisma-generator-basic-typegraphql)
 - [Prisma generator for model factories](https://github.com/Quramy/prisma-fabbrica)
+- [Zod Prisma Types](https://github.com/chrishoermann/zod-prisma-types) - Creates zod types for your prisma models with advanced validation.

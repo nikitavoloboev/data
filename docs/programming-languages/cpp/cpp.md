@@ -404,6 +404,6 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Avoid exception throwing in performance-sensitive code (2022)](https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/) ([HN](https://news.ycombinator.com/item?id=34088370))
 - [Rust vs Common C++ Bugs (2022)](https://geo-ant.github.io/blog/2022/common-cpp-errors-vs-rust/)
 - [Compile-Time If-Expressions for Types in C++11 (2022)](https://geo-ant.github.io/blog/2022/compile-time-if-expressions-for-types-in-cpp/) ([Reddit](https://www.reddit.com/r/rust/comments/zt7lv1/can_rust_prevent_common_bugs_we_write_in_c/))
-- [SGCL](https://github.com/pebal/sgcl) - Precise pauseless concurrent Garbage Collector for C++.
+- [SGCL](https://github.com/pebal/sgcl) - Precise pauseless concurrent Garbage Collector for C++. ([HN](https://news.ycombinator.com/item?id=34181484))
 - [Collecting the best C++ practices (2022)](https://medium.com/@Code_Analysis/collecting-the-best-c-practices-4b867006849f)
 - [Remote C/C++ compilation using Ccache & Distcc (2021)](https://blog.zaleos.net/giving-ccache-distcc-a-spin/)

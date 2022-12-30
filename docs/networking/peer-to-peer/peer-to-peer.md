@@ -135,3 +135,4 @@
 - [Sendstr](https://sendstr.com/) - E2E encrypted shared clipboard web app powered by Nostr. ([Code](https://github.com/vilm3r/sendstr-web))
 - [Autobase](https://github.com/holepunchto/autobase) - Lets you write concise multiwriter data structures with Hypercore.
 - [Holepunch](https://holepunch.to/) - Build unstoppable P2P Apps. ([Twitter](https://twitter.com/holepunch_to)) ([GitHub](https://github.com/holepunchto))
+- [Pyrsia](https://github.com/pyrsia/pyrsia) - Decentralized Package Network.
