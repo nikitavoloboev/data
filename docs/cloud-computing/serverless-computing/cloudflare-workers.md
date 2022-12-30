@@ -222,3 +222,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [R2 Public Buckets (2022)](https://www.youtube.com/watch?v=buvsmqjRLrU)
 - [Cloudflare Workers - YouTube](https://www.youtube.com/@CloudflareWorkers/videos)
 - [Yjs backend for Cloudflare Workers](https://github.com/threepointone/y-workers)
+- [Hono Client](https://github.com/honojs/client) - TypeSafe HTTP Client for Hono.

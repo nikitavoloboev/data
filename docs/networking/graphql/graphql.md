@@ -362,3 +362,4 @@ title: GraphQL
 - [ProtoNexus](https://github.com/proto-graphql/proto-graphql-js) - Protobuf-First GraphQL Schemas with GraphQL Nexus.
 - [gqlanalysis](https://github.com/gqlgo/gqlanalysis) - Develop static analysis tools for GraphQL in Go.
 - [Using Fetch as your GraphQL client (2022)](https://grafbase.com/guides/using-fetch-as-your-graphql-client)
+- [Docker Altair](https://github.com/appwrite/docker-altair) - Docker image for the very popular GraphQL explorer by Altair.

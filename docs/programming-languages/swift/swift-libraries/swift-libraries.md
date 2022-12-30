@@ -1365,6 +1365,7 @@
 - [Easing](https://github.com/manuelCarlos/Easing) - Easing functions in Swift.
 - [RateLimiters](https://github.com/manuelCarlos/RateLimiters) - Debounce and Throttle Swift implementations.
 - [CodableToTypeScript](https://github.com/omochi/CodableToTypeScript) - Generate typescript code for typing JSON from Swift Codable.
+- [SmoothGradient](https://github.com/intitni/SmoothGradient) - Generate buttery smooth gradients.
 
 ## Other (not lib)
 

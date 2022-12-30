@@ -791,6 +791,7 @@
 - [Octavian](https://github.com/JuliaLinearAlgebra/Octavian.jl) - Multi-threaded BLAS-like library that provides pure Julia matrix multiplication.
 - [ChangesOfVariables.jl](https://github.com/JuliaMath/ChangesOfVariables.jl) - Interface for transformation functions in Julia.
 - [DiffResults](https://github.com/JuliaDiff/DiffResults.jl) - API for querying differentiation results at multiple orders simultaneously.
+- [PowerAnalyses.jl](https://github.com/rikhuijzer/PowerAnalyses.jl) - Statistical power analyses in Julia.
 
 ## Links
 
