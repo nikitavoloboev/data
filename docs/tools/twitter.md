@@ -8,7 +8,9 @@ Use [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) exten
 
 I like Twitter as it's currently still the best place to stream your thoughts to public and have others interact with it in real time. Nothing yet comes close to the network and UX of Twitter for doing this.
 
-I have trust Twitter will improve despite questionable past decisions as they [make mistakes, roll things back, learn and adapt](https://twitter.com/esthercrawford/status/1590386711179464705). My main concern with Twitter is not just the bad behavior but lack of transparency around decision making involving suspensions and that the code is not open source. I'd love for something like [Nostr protocol](https://github.com/nostr-protocol/nostr) to power Twitter with all the UX niceness that Twitter has.
+I have trust Twitter will improve despite questionable past decisions. They will [make mistakes, roll things back, learn and adapt](https://twitter.com/esthercrawford/status/1590386711179464705). My main concern with Twitter is the lack of transparency around decision making involving suspensions and that the code is not open source. The things I would give so that I can long press heart icon on iOS to bookmark..
+
+I'd love for something like [Nostr protocol](https://github.com/nostr-protocol/nostr) to power Twitter with all the UX niceness that Twitter has.
 
 I love the idea of freedom of speech, but not freedom of reach whereby anyone can have a voice but the platform won't boost hurtful or perhaps verifiably incorrect rhetoric. Twitter's [Community Notes](https://twitter.com/CommunityNotes) is great in that regard. Will see how Twitter fares at making this work.
 
@@ -20,7 +22,7 @@ I dislike that Twitter gives you no tools to actually build some kind of knowled
 
 Twitter will always have a special place and it will be hard to beat it at what it does best despite the fact that it's not transparent and not open source. But will see. TikTok showed that it's possible to disrupt even such giant networks if you position/market your product well.
 
-One example where Twitter not being open source is horrible is that I find it [frustrating that Twitter iOS client doesn't have the ability to long press `like` icon to bookmark](https://twitter.com/nikitavoloboev/status/1590403314264334338). If the code was open source, I would have gladly made PR for this already. For some reason non official Twitter clients have worse UX feed content so moving from official clients is a non solution for me. It'd also be great if when you visit Twitter profile, it would tell you instantly if that person is added to a list of yours.
+As mentioned before, Twitter not being open source is horrible. I find it [frustrating that Twitter iOS client doesn't have the ability to long press `like` icon to bookmark](https://twitter.com/nikitavoloboev/status/1590403314264334338). If the code was open source, I would have gladly made PR for this already. For some reason non official Twitter clients have worse UX feed content so moving from official clients is a non solution for me. It'd also be great if when you visit Twitter profile, it would tell you instantly if that person is added to a list of yours.
 
 In many ways it's a matter of time that Twitter gets replaced with an open source transparent protocol that mimics all the UX features of Twitter. Innovate or die.
 

@@ -757,3 +757,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Zshot](https://github.com/IBM/zshot) - Zero and Few shot named entity & relationships recognition.
 - [Cramming: Training a Language Model on a Single GPU in One Day (2022)](https://arxiv.org/abs/2212.14034) ([Code](https://github.com/JonasGeiping/cramming))
 - [Trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models"](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)
+- [Training language models to follow instructions with human feedback (2022)](https://arxiv.org/abs/2203.02155) ([Web](https://openai.com/blog/instruction-following/))

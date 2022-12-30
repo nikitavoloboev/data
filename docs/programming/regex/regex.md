@@ -6,7 +6,7 @@ I use [regex101](https://regex101.com) every time I want write a new regex.
 
 ![](https://i.imgur.com/ZVm6HVX.png)
 
-[Rulex](https://rulex-rs.github.io/) is nice too.
+[Pomsky](https://pomsky-lang.org/) is nice too.
 
 [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html) & [Regular Expression Matching: the Virtual Machine Approach](https://swtch.com/~rsc/regexp/regexp2.html) are nice reads.
 
@@ -93,7 +93,7 @@ Match all that don't have notes or twitter in input
 - [Alternative Regex Syntax](https://github.com/oilshell/oil/wiki/Alternative-Regex-Syntax) ([Lobsters](https://lobste.rs/s/molbhc/alternative_regex_syntax))
 - [Python support for regular expressions (2022)](https://lwn.net/SubscriberLink/885682/ebb44eea5667f358/)
 - [A regular expression to check for prime numbers (2007)](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/) ([HN](https://news.ycombinator.com/item?id=30564287))
-- [Rulex](https://github.com/rulex-rs/rulex) - New, portable, regular expression language. ([Reddit](https://www.reddit.com/r/rust/comments/tbu6s3/announcing_rulex_a_new_regular_expression_language/)) ([Web](https://rulex-rs.github.io/)) ([HN](https://news.ycombinator.com/item?id=31690878))
+- [Pomsky](https://github.com/rulex-rs/pomsky) - New, portable, regular expression language. ([Reddit](https://www.reddit.com/r/rust/comments/tbu6s3/announcing_rulex_a_new_regular_expression_language/)) ([Web](https://pomsky-lang.org/)) ([HN](https://news.ycombinator.com/item?id=31690878))
 - [rare](https://github.com/zix99/rare) - Real time regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more.
 - [Regex Vis](https://regex-vis.com/) - Regex visualizer & editor. ([Code](https://github.com/Bowen7/regex-vis)) ([HN](https://news.ycombinator.com/item?id=31307123))
 - [I-Regexp](https://github.com/cabo/iregexp) - Interoperable Regexp Format.

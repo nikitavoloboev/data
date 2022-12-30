@@ -4,6 +4,8 @@ title: MDX
 
 # [MDX](https://github.com/mdx-js/mdx)
 
+[MDX-Rs](https://github.com/wooorm/mdxjs-rs) is great for compiling MDX to JS.
+
 ## Links
 
 - [MDX Blocks](https://mdx-blocks.netlify.com/) - Write content in MDX. Build layouts with blocks. Customize with themes.

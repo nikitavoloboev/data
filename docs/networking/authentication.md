@@ -290,3 +290,4 @@
 - [Micro TOTP](https://github.com/placemark/micro-totp) - Small, modern library for TOTP.
 - [Multi-factor Authentication via Row Level Security Enforcement (2022)](https://supabase.com/blog/mfa-auth-via-rls) ([HN](https://news.ycombinator.com/item?id=33984104))
 - [Apple SignIn Auth Node](https://github.com/a-tokyo/apple-signin-auth)
+- [Ask HN: Lightweight Authentication (2022)](https://news.ycombinator.com/item?id=34177201)
