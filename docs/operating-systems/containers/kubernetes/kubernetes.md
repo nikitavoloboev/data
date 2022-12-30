@@ -894,3 +894,4 @@ title: Kubernetes
 - [How to onboard an existing Helm application in ArgoCD (2022)](https://www.aviator.co/blog/how-to-onboard-an-existing-helm-application-in-argocd/)
 - [echoperator](https://github.com/mmontes11/echoperator) - Simple Kubernetes operator built from scratch with client-go.
 - [Kubernetes Controller Sharding](https://github.com/timebertt/kubernetes-controller-sharding)
+- [Zeus](https://github.com/oslabs-beta/Zeus) - Visualize your Kubernetes clusters through a GUI and query cluster data through custom command lines in your terminal.
