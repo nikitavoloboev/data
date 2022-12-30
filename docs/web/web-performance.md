@@ -10,6 +10,8 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 
 [Qwik](../programming-languages/javascript/js-libraries/qwik.md) has nice ideas around resumability.
 
+[Web Performance Research](https://github.com/imteekay/web-performance-research) has nice links/notes.
+
 ## Notes
 
 - Don't ever underestimate the cost performance of cache misses.
@@ -214,3 +216,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Optimizing SSR Memory Usage on wolt.com (2022)](https://blog.wolt.com/engineering/2022/11/10/optimizing-ssr-memory-usage-on-wolt-com/)
 - [Adding Complementary Performance Data to Your Site (2022)](https://www.htmhell.dev/adventcalendar/2022/6/)
 - [How to bundle images with a web app to reduce the amount of requests](https://twitter.com/cpojer/status/1608410525775572992)
+- [Web performance, code splitting strategies, and a React case study (2022)](https://www.iamtk.co/web-performance-code-splitting-strategies-and-react-applications)

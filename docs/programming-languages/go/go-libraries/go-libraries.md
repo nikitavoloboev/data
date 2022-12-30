@@ -1972,6 +1972,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [faker](https://github.com/go-faker/faker) - Struct Data Fake Generator.
 - [goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by simply defining an interface.
 - [Go Type Adapters](https://github.com/googleapis/go-type-adapters) - Type adapters for common Go protobuf messages.
+- [Signals](https://github.com/maniartech/signals) - Simple, lightweight, and easy to use events library for Go.
 
 ## Links
 
