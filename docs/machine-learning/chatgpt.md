@@ -6,7 +6,7 @@ title: ChatGPT
 
 I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to interface with ChatGPT so I have access to it from both mac and iOS.
 
-[nanoGPT](https://github.com/karpathy/nanoGPT) is interesting.
+[nanoGPT](https://github.com/karpathy/nanoGPT) is interesting. Curious if I can train it with [this method](https://github.com/JonasGeiping/cramming).
 
 ## Interesting queries
 

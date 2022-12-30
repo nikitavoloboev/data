@@ -1971,6 +1971,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Datadog Go client](https://github.com/DataDog/datadog-api-client-go)
 - [faker](https://github.com/go-faker/faker) - Struct Data Fake Generator.
 - [goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by simply defining an interface.
+- [Go Type Adapters](https://github.com/googleapis/go-type-adapters) - Type adapters for common Go protobuf messages.
 
 ## Links
 
