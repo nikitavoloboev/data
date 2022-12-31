@@ -231,3 +231,4 @@ title: SQL
 - [SELECT solution FROM aoc WHERE year = 2022](https://fnordig.de/2022/12/09/select-solution-from-aoc-where-year-2022/)
 - [UNION ALL, data types and performance (2022)](https://www.cybertec-postgresql.com/en/union-all-data-types-performance/)
 - [SQL and M4 = Composable SQL (2022)](https://emiruz.com/post/2022-12-28-composable-sql/)
+- [I wrote a SQL engine in Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md) ([HN](https://news.ycombinator.com/item?id=34189422))
