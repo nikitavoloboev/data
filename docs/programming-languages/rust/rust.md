@@ -1000,3 +1000,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust Async History, Libs, and Patterns (Katharina Fey) (2022)](https://www.youtube.com/watch?v=pqy7a6IS5yU)
 - [Cerberus](https://github.com/h311d1n3r/Cerberus) - Python tool to unstrip Rust binaries on Linux.
 - [Mini Docker Rust](https://github.com/kpcyrd/mini-docker-rust)
+- [Should Small Rust Structs be Passed by-copy or by-borrow? (2022)](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/) ([HN](https://news.ycombinator.com/item?id=34196294))

@@ -237,3 +237,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [HTML Semantic Seg](https://github.com/dmvaldman/html_semantic_seg) - Tool to create a dataset of semantic segmentation on website screenshots from their DOM.
 - [fingerprint-suite](https://github.com/apify/fingerprint-suite) - Browser fingerprinting tools for anonymizing your scrapers.
 - [Linvo Linkedin Scraper](https://github.com/linvo-io/linvo-scraper)
+- [Cached Chrome Top Million Websites](https://github.com/zakird/crux-top-lists) ([HN](https://news.ycombinator.com/item?id=34196381))
