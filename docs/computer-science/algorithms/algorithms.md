@@ -127,7 +127,7 @@
 - [The Wavefunction Collapse Algorithm explained very clearly (2018)](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 - [Notes on Algorithms](https://liuzhenglaichn.gitbook.io/algorithm/) ([Code](https://github.com/lzl124631x/algorithm))
 - [An Algorithm for Routing Vectors in Sequences (2022)](https://arxiv.org/abs/2211.11754) ([Code](https://github.com/glassroom/heinsen_routing))
-- [Blog · Book Review: Algorithms to Live By - The Computer Science of Human Decisions](https://blog.galowicz.de/2022/12/28/book-review-algorithms-to-live-by/)
+- [Book Review: Algorithms to Live By - The Computer Science of Human Decisions](https://blog.galowicz.de/2022/12/28/book-review-algorithms-to-live-by/) ([HN](https://news.ycombinator.com/item?id=34161864))
 
 ## Images
 

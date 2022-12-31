@@ -155,3 +155,4 @@ Few things that inspire new ideas are [travelling](../travel/travel.md) to new p
 - [How to draw ideas](https://ralphammer.com/how-to-draw-ideas/)
 - [Ask HN: What is the best income stream you have created till date? (2022)](https://news.ycombinator.com/item?id=33923137)
 - [Ask HN: Those with money-making side projects,how did you come up with the idea? (2022)](https://news.ycombinator.com/item?id=33942558)
+- [Ask HN: How do you recall ideas/eureka you get during walks, showers, etc.? (2022)](https://news.ycombinator.com/item?id=34185635)

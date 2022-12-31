@@ -735,3 +735,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [State of the Sanderson 2022](https://www.brandonsanderson.com/state-of-the-sanderson-2022/) ([HN](https://news.ycombinator.com/item?id=34104204))
 - [Archived DILFs](https://twitter.com/archivedilfs)
 - [Ask HN: What tech advice are you giving to those around you for 2023?](https://news.ycombinator.com/item?id=34151618)
+- [Ask HN: What is your system for dirty dishes? (2022)](https://news.ycombinator.com/item?id=34184262)
