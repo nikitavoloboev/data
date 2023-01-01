@@ -315,3 +315,4 @@ title: HTTP
 - [WebDAV Server in Rust](https://github.com/miquels/webdav-server-rs)
 - [IDN is crazy (2022)](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/) ([HN](https://news.ycombinator.com/item?id=33995265))
 - [HTTP request case sensitivity (2022)](https://misfra.me/2022/http-request-case-sensitivity/)
+- [The State of HTTP in 2022](https://blog.cloudflare.com/the-state-of-http-in-2022/) ([HN](https://news.ycombinator.com/item?id=34201082))

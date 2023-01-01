@@ -272,3 +272,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [Self-updating list of the most current useragents](https://www.useragents.me/) ([HN](https://news.ycombinator.com/item?id=34032605))
 - [Productivity Blocker](https://www.productivityblocker.com/) - Blocks Over 80 Sites. ([HN](https://news.ycombinator.com/item?id=34029045))
 - [Web Extension Svelte Boilerplate](https://github.com/davidnguyen11/web-extension-svelte-boilerplate) - Boilerplate using Svelte provides a skeleton to start developing cross-browser web extensions.
+- [Puppeteer screen recorder](https://github.com/prasanaworld/puppeteer-screen-recorder) - Uses the native chrome devtool protocol for capturing video frame by frame.
