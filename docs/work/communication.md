@@ -8,6 +8,8 @@ And do [ask for help](https://twitter.com/FoundersPodcast/status/160195789662731
 
 I try to be thoughtful with my responses and communication. [Steve Jobs is great example of what that means](https://www.youtube.com/watch?v=oeqPrUmVz-o). Even so far as [taking 10 seconds to craft a thoughtful response](https://news.ycombinator.com/item?id=34033281).
 
+I find [responding to criticism with kindness](https://twitter.com/lexfridman/status/1609611808377307136) a great thing.
+
 ## Notes
 
 - [Never underestimate the impact of informal positive feedback on a junior, career-changer or someone new to the stack. Often people just need to know they're on the right road.](https://twitter.com/thomas_k_r/status/1296015993144332288)

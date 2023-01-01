@@ -12,6 +12,7 @@ If I ever feel down, I can just start writing and just release all these negativ
 
 I love reading these journals:
 
+- [100 rabbits](https://100r.co/site/log.html)
 - [Artem Tyurin](https://agentcooper.io/)
 - [Fabian's retrospectives](https://capnfabs.net/tags/retrospective/)
 - [Brandur's small notes on all things](https://brandur.org/fragments)

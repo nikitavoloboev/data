@@ -155,3 +155,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [The Death of Quanta Magazine (2022)](https://mateusaraujo.info/2022/12/01/the-death-of-quanta-magazine/) ([HN](https://news.ycombinator.com/item?id=33828602))
 - [Causaly](https://www.causaly.com/) - Biomedical search platform. ([GitHub](https://github.com/causaly))
 - [The rise and fall of peer review (2022)](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review) ([HN](https://news.ycombinator.com/item?id=33997953))
+- [Open Editors](https://github.com/andreaspacher/openeditors) - Web scraping data about editors of scientific journals.

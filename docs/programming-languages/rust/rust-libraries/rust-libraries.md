@@ -782,6 +782,7 @@
 - [rust_gpiozero](https://github.com/rahul-thakoor/rust_gpiozero) - Library inspired by gpiozero written in Rust.
 - [Birdcage](https://github.com/phylum-dev/birdcage) - Cross-platform embeddable sandboxing library allowing restrictions to Filesystem and Network operations using native operating system APIs.
 - [noline](https://github.com/rustne-kretser/noline) - IO-agnostic line editor for embedded systems.
+- [mpu9250](https://github.com/copterust/mpu9250) - No_std driver for the MPU9250 & onboard AK8963 (accelerometer + gyroscope + magnetometer IMU).
 
 ## ML
 

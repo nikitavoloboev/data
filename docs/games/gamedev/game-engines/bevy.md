@@ -87,3 +87,4 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [bevy_ecs_tilemap](https://github.com/StarArawn/bevy_ecs_tilemap) - Tilemap rendering crate for bevy which is more ECS friendly.
 - [Bevy Kajiya](https://github.com/seabassjh/bevy-kajiya) - Bevy plugin that integrates the kajiya renderer with bevy.
 - [bevy_mod_js_scripting](https://github.com/jakobhellermann/bevy_mod_js_scripting) - Scripting integration crate for writing javascript/typescript scripts and running them in bevy with full access to the ECS values like components and resources.
+- [Bevy_adventure](https://github.com/hankjordan/bevy_adventure) - Framework for building adventure games in Bevy.

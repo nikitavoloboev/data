@@ -351,6 +351,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [React Wrap Balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable. ([Web](https://react-wrap-balancer.vercel.app/))
 - [React Resizable Panels](https://github.com/bvaughn/react-resizable-panels) - React components for resizable panel groups/layouts.
 - [react-ch](https://github.com/alloc/react-ch) - Event channels for React.
+- [TypeScript Form](https://github.com/iway1/react-ts-form) - Build maintainable, typesafe forms faster.
 
 ## Links
 

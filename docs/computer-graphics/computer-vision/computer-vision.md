@@ -1066,3 +1066,4 @@
 - [TiG-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning (2022)](https://arxiv.org/abs/2212.13979) ([Code](https://github.com/ADLab3Ds/TiG-BEV))
 - [Magic3D: High-Resolution Text-to-3D Content Creation (2022)](https://arxiv.org/abs/2211.10440) ([Code](https://github.com/lucidrains/magic3d-pytorch))
 - [InternVideo: General Video Foundation Models via Generative and Discriminative Learning (2022)](https://arxiv.org/abs/2212.03191) ([Code](https://github.com/OpenGVLab/InternVideo))
+- [Exploring Cross-Image Pixel Contrast for Semantic Segmentation (2021)](https://arxiv.org/abs/2101.11939) ([Code](https://github.com/tfzhou/ContrastiveSeg))
