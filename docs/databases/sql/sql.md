@@ -232,4 +232,4 @@ title: SQL
 - [UNION ALL, data types and performance (2022)](https://www.cybertec-postgresql.com/en/union-all-data-types-performance/)
 - [SQL and M4 = Composable SQL (2022)](https://emiruz.com/post/2022-12-28-composable-sql/)
 - [I wrote a SQL engine in Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md) ([HN](https://news.ycombinator.com/item?id=34189422)) ([Lobsters](https://lobste.rs/s/s0zhoa/why_i_wrote_sql_engine_only_python))
-- [Materialized View: SQL Queries on Steroids (2022)](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/) ([Lobsters](https://lobste.rs/s/y76rvj/materialized_view_sql_queries_on))
+- [Materialized View: SQL Queries on Steroids (2022)](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/) ([Lobsters](https://lobste.rs/s/y76rvj/materialized_view_sql_queries_on)) ([HN](https://news.ycombinator.com/item?id=34186098))

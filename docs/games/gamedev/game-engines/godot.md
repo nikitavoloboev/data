@@ -104,3 +104,4 @@ title: Godot
 - [Procedural Planet Godot](https://github.com/athillion/ProceduralPlanetGodot)
 - [Godot 4.0 beta 9 Released (2022)](https://godotengine.org/article/dev-snapshot-godot-4-0-beta-9) ([HN](https://news.ycombinator.com/item?id=34052510))
 - [GodotSteam](https://github.com/Gramps/GodotSteam) - Open-source and fully functional Steamworks SDK / API module and plug-in for the Godot Game Engine.
+- [Godot Engine - 2022: A Retrospective](https://godotengine.org/article/2022-retrospective) ([HN](https://news.ycombinator.com/item?id=34197098))

@@ -198,3 +198,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [Ask HN: What RSS Reader do you use in 2022?](https://news.ycombinator.com/item?id=34108413)
 - [Eleventy Activity Feed](https://github.com/11ty/eleventy-activity-feed) - Create one centralized RSS feed for all of the content you create across the web (aggregates from Twitter, RSS, Atom, Mastodon, YouTube).
 - [nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal.
+- [Gripes with RSS after one week (2022)](https://blog.jez.io/rss-after-one-week/) ([HN](https://news.ycombinator.com/item?id=34198759))

@@ -111,7 +111,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [next-i18next](https://github.com/isaachinman/next-i18next) - Easiest way to translate your NextJs apps. ([Video](https://www.youtube.com/watch?v=SJDYCw5KC7s))
 - [Netlify Next.js cache](https://github.com/pizzafox/netlify-cache-nextjs) - Cache the Next.js build folder in your Netlify builds.
 - [next-dark-mode](https://github.com/xeoneux/next-dark-mode) - Enable dark mode for Next.js.
-- [NextAuth](https://github.com/nextauthjs/next-auth) - Authentication library for Next.js projects. ([Web](https://next-auth.js.org/)) ([Example](https://github.com/nextauthjs/next-auth-example)) ([Docs Code](https://github.com/nextauthjs/docs)) ([Tweet](https://twitter.com/nextauthjs/status/1466085197653454851))
+- [NextAuth](https://github.com/nextauthjs/next-auth) - Authentication library for Next.js projects. ([Web](https://authjs.dev/)) ([Example](https://github.com/nextauthjs/next-auth-example)) ([Docs Code](https://github.com/nextauthjs/docs)) ([Tweet](https://twitter.com/nextauthjs/status/1466085197653454851)) ([HN](https://news.ycombinator.com/item?id=34184669))
 - [next-optimized-images](https://github.com/cyrilwanner/next-optimized-images) - Automatically optimizes images used in next.js projects (jpeg, png, svg, webp and gif).
 - [next-session](https://github.com/hoangvvo/next-session) - Simple promise-based session middleware for Next.js, micro, Express, and more.
 - [next-connect](https://github.com/hoangvvo/next-connect) - Router and middleware layer for Next.js, Micro, or Node.js HTTP Server.

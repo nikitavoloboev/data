@@ -639,3 +639,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [«Представьте, что вместо России — море». Олег Тиньков о бизнесе и войне (2022)](https://www.youtube.com/watch?v=AsB3aGyl62Y)
 - [«Элита будет делать выбор между жизнью и смертью».Ходорковский о войне, Навальном и смене власти 18+ (2022)](https://www.youtube.com/watch?v=3RFMnjnvNPw)
 - [Как мы искали Европу, а нашли войну: фашистский шабаш, нерв русской культуры и Донбасс 8 лет назад (2022)](https://www.youtube.com/watch?v=GbIrByTHZVU)
+- [What are taxes like in Russia? (2022)](https://www.reddit.com/r/AskARussian/comments/1004glx/what_are_taxes_like_in_russia/)

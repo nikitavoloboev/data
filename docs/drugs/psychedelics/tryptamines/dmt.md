@@ -127,3 +127,8 @@ Which I then use with [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.m
 - [DMT-Nexus Wiki](https://wiki.dmt-nexus.me/Main_Page)
 - [Basic equipment required for DMT / mescaline extraction](https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=96067)
 - [Hyperlab.info - Триптамин и DMT](https://hyperlab.info/inv/index.php?s=48e93c46428953dbfb4d702f4177f79d&lang=en&act=ST&f=17&t=29149)
+- [Here's more or less all the information you'd need to get an understanding of how to safely extract N,N-DMT](https://www.reddit.com/r/dmtguide/comments/mwoijg/heres_more_or_less_all_the_information_youd_need/)
+- [Changa/Harmala/MAOI Danger/Safety Info (And the Difference Between Enhanced Leaf and Changa)](https://www.reddit.com/r/dmtguide/comments/mxbnvw/changaharmalamaoi_dangersafety_info_and_the/)
+- [Isolation of Freebase NMT from ACRB via Co2 Precipitation of NMT Carbamate](https://www.reddit.com/r/dmtguide/comments/nfuj0a/isolation_of_freebase_nmt_from_acrb_via_co2/)
+- [DMT Guide Reddit](https://www.reddit.com/r/dmtguide/)
+- [DMT(s) Analysis Compilation](https://www.dmt-nexus.me/forum/default.aspx?g=posts&m=950490)

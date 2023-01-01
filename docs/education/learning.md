@@ -264,3 +264,4 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [Ask HN: Top Skills to Learn for 2023?](https://news.ycombinator.com/item?id=34054170)
 - [Ask HN: How to find mentors? (2022)](https://news.ycombinator.com/item?id=34092577)
 - [Stuff I learnt in 2022](https://bollu.github.io/stuff-i-learnt-in-2022.html)
+- [Ask HN: Concepts that clicked only years after you first encountered them? (2023)](https://news.ycombinator.com/item?id=34206219)

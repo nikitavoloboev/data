@@ -506,3 +506,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Haskell Docker Official Images](https://github.com/haskell/docker-haskell)
 - [Making GHC faster at emitting code (2022)](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
 - [Why a GHC Whole Program Compiler Mode Would Be Useful (Csaba Hruska) (2022)](https://www.youtube.com/watch?v=fX-pzGmRN0Q)
+- [Competitive programming in Haskell: better binary search (2023)](https://byorgey.wordpress.com/2023/01/01/competitive-programming-in-haskell-better-binary-search/) ([HN](https://news.ycombinator.com/item?id=34204642))

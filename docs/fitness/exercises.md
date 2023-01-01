@@ -43,3 +43,4 @@ I mention exercises I do [here](fitness.md).
 - [How I Built Muscle At Home (Without Weights)](https://www.youtube.com/watch?v=ho8fvPH_Ro0)
 - [Stretch based exercises](https://www.youtube.com/watch?v=xW79HPiyidk)
 - [How To Start Calisthenics at Home for Beginners (No Equipment)](https://www.youtube.com/watch?v=hEXjX6nwDoY)
+- [Ask HN: What's a good program for calisthenics for beginners that YOU have tried (2023)](https://news.ycombinator.com/item?id=34208729)

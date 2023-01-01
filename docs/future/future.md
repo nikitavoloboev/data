@@ -119,3 +119,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Techno-optimism for 2023](https://noahpinion.substack.com/p/techno-optimism-for-2023)
 - [Ask HN: What are your predictions for 2023?](https://news.ycombinator.com/item?id=34036346)
 - [Ask HN: What are you predictions for 2023?](https://news.ycombinator.com/item?id=34125628)
+- [Ask HN: What are your predictions for the world in 2023?](https://news.ycombinator.com/item?id=34196161)

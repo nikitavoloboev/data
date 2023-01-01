@@ -23,7 +23,7 @@ title: Smalltalk
 - [Squeak by Example (2009)](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1112&context=compsci_fac)
 - [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html)
 - [Resources to learn smalltalk? (2020)](https://www.reddit.com/r/smalltalk/comments/frxp1f/resources_to_learn_smalltalk/)
-- [Crosstalk](https://github.com/michaelengel/crosstalk) - Bare metal Smalltalk-80 port to the Raspberry Pi. ([HN](https://news.ycombinator.com/item?id=23874206))
+- [Crosstalk](https://github.com/michaelengel/crosstalk) - Bare metal Smalltalk-80 port to the Raspberry Pi. ([HN](https://news.ycombinator.com/item?id=23874206)) ([HN](https://news.ycombinator.com/item?id=34208753))
 - [TruffleSqueak](https://github.com/hpi-swa/trufflesqueak) - Squeak/Smalltalk VM and Polyglot Programming Environment for the GraalVM.
 - [Why Smalltalk Has Failed](https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html?m=1) ([HN](https://news.ycombinator.com/item?id=24329485))
 - [The Early History Of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)

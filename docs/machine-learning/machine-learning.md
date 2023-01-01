@@ -1026,3 +1026,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Generalizing Goal-Conditioned Reinforcement Learning with Variational Causal Reasoning (2022)](https://arxiv.org/abs/2207.09081) ([Code](https://github.com/GilgameshD/GRADER))
 - [Extremely Simple Activation Shaping for Out-of-Distribution Detection (2022)](https://arxiv.org/abs/2209.09858) ([Code](https://github.com/andrijazz/ash))
 - [Nice personal ML/DS blogs](https://github.com/alexmolas/ml-blogs)
+- [Ask HN: Which are your favorite machine learning blogs? (2022)](https://news.ycombinator.com/item?id=34198427)

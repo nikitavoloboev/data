@@ -4,11 +4,11 @@ I now operate my life's priorities through [Height](https://height.app/). Until 
 
 ![](https://i.imgur.com/VmexYSy.png)
 
- > sensitive items blurred
+> sensitive items blurred
 
 Previously I tried [Notion](../tools/notion.md) but it lacks ability to track progress on tasks/ideas.
 
-Below is somewhat general gist of where I am trying to lead my life towards. 
+Below is somewhat general gist of where I am trying to lead my life towards.
 
 ## Action
 
@@ -61,3 +61,4 @@ Earth is for everyone, not just humans. Be kind. Be goal & [value](../business/s
 ## Links
 
 - [Happy New Year HN! What are your plans for the new year? (2021)](https://news.ycombinator.com/item?id=29746344)
+- [Ask HN: What is your new year's resolution? (2022)](https://news.ycombinator.com/item?id=34192647)

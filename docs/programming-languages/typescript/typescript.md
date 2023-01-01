@@ -310,6 +310,7 @@ Run/deploy TS with [Deno](../../web/deno.md).
 - [Rewriting TypeScript in Rust? (2022)](https://www.totaltypescript.com/rewriting-typescript-in-rust) ([HN](https://news.ycombinator.com/item?id=33982347))
 - [TS Enums considered harmful (2022)](https://www.youtube.com/watch?v=jjMbPt_H3RQ)
 - [All I want for Christmas is these seven TypeScript improvements (2022)](https://effectivetypescript.com/2022/12/25/christmas/) ([HN](https://news.ycombinator.com/item?id=34132866))
+- [Ask HN: What are the best open source TypeScript projects I can learn from? (2023)](https://news.ycombinator.com/item?id=34205294)
 
 ## Images
 

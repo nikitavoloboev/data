@@ -498,3 +498,4 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [Products | KORG](https://www.korg.com/us/products/) ([GitHub](https://github.com/korginc))
 - [SHLD Free MIDI Chord Packs](https://github.com/ldrolez/free-midi-chords) - Collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101.
 - [Multimodal Machine Learning for Music (MML4Music)](https://github.com/ilaria-manco/multimodal-ml-music) - List of academic resources on Multimodal ML for Music.
+- [Pop2Piano: Pop Audio-Based Piano Cover Generation (2022)](https://sweetcocoa.github.io/pop2piano_samples/) ([Code](https://github.com/sweetcocoa/pop2piano)) ([HN](https://news.ycombinator.com/item?id=34205996))

@@ -66,3 +66,4 @@
 - [newline](https://www.newline.co/) - Web courses.
 - [Creating a Dedicated Development Environment for Teaching (2022)](https://coder.com/blog/dedicated-development-environment-for-teaching)
 - [CMU Course Reviews](https://fanpu.io/courses/)
+- [Ask HN: What's the best free course in your area of expertise? (2022)](https://news.ycombinator.com/item?id=34190219)

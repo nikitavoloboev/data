@@ -583,7 +583,7 @@ all: unset
 - [Tree views in CSS](https://iamkate.com/code/tree-views/) ([HN](https://news.ycombinator.com/item?id=33667270))
 - [Terminal CSS](https://terminalcss.xyz/) - Modern and minimal CSS framework for terminal lovers. ([Code](https://github.com/Gioni06/terminal.css))
 - [CSS Analyzer](https://github.com/projectwallace/css-analyzer) - Goes through your CSS to find all kinds of relevant statistics.
-- [Color Formats in CSS (2022)](https://www.joshwcomeau.com/css/color-formats/)
+- [Color Formats in CSS (2022)](https://www.joshwcomeau.com/css/color-formats/) ([HN](https://news.ycombinator.com/item?id=34183663))
 - [The large, small, and dynamic viewport units (2022)](https://web.dev/viewport-units/)
 - [CSS Infinite and Circular Rotating Image Slider (2022)](https://css-tricks.com/css-only-infinite-and-circular-image-slider/)
 - [PostCSS-Lit](https://github.com/43081j/postcss-lit) - PostCSS syntax for extracting CSS from template literals inside JS/TS files.

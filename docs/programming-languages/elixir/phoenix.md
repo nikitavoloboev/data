@@ -130,7 +130,7 @@ title: Phoenix framework
 - [Brief Introduction to Phoenix and LiveView (2022)](https://danieljaouendevelopment.com/2022/12/18/a-brief-introduction-to-phoenix-and-liveview-part-1/)
 - [Meta programmable functional notebooks with Livebook - José Valim (2022)](https://www.youtube.com/watch?v=EhSNXWkji6o)
 - [ExTerm](https://github.com/E-xyza/ex_term) - Phoenix LiveView Terminal LiveComponent.
-- [Phoenix 1.7 is View-less (2022)](https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less)
+- [Phoenix 1.7 is View-less (2022)](https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less) ([HN](https://news.ycombinator.com/item?id=34188461))
 - [7 GUIs: Implementing a Circle Drawer in LiveView (2022)](https://www.germanvelasco.com/blog/seven-guis-circle-drawer)
 - [TDD Phoenix | Test-Driven Development with Phoenix](https://www.tddphoenix.com/)
 - [Testing LiveView](https://www.testingliveview.com/)

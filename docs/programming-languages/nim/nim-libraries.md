@@ -4,6 +4,7 @@
 
 ## Web
 
+- [Mummy](https://github.com/guzba/mummy) - Multi-threaded HTTP 1.1 and WebSocket server written entirely in Nim. ([HN](https://news.ycombinator.com/item?id=34193033))
 - [httpbeast](https://github.com/dom96/httpbeast) - Highly performant, multi-threaded HTTP 1.1 server written in Nim.
 - [Prologue](https://github.com/planety/prologue) - Full-Stack Web Framework which is ideal for building elegant and high performance web services. ([HN](https://news.ycombinator.com/item?id=24846828))
 - [Rosencrantz](https://github.com/andreaferretti/rosencrantz) - DSL to write web servers.

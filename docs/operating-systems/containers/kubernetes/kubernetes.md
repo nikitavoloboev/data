@@ -520,7 +520,7 @@ title: Kubernetes
 - [Hacking Kubernetes Book](https://control-plane.io/hackingkubernetes/)
 - [Argo-CD Autopilot](https://github.com/argoproj-labs/argocd-autopilot) - Tool which offers an opinionated way of installing Argo-CD and managing GitOps repositories.
 - [Teresa](https://github.com/luizalabs/teresa) - Open source tool to deploy apps to Kubernetes clusters.
-- [Install a Kubernetes cluster on Hetzner in 5 minutes (7X cheaper than AWS)](https://github.com/vitobotta/hetzner-k3s) ([Reddit](https://www.reddit.com/r/devops/comments/qwpsna/install_a_kubernetes_cluster_on_hetzner_in_5/))
+- [Install a Kubernetes cluster on Hetzner in 5 minutes (7X cheaper than AWS)](https://github.com/vitobotta/hetzner-k3s) ([Reddit](https://www.reddit.com/r/devops/comments/qwpsna/install_a_kubernetes_cluster_on_hetzner_in_5/)) ([HN](https://news.ycombinator.com/item?id=34185209))
 - [Pulumi Kubernetes Deployments](https://github.com/vitobotta/pulumi-kubernetes-deployments) - Collection of Pulumi scripts I use to automate repetitive deployments of applications and services to Kubernetes.
 - [Kubei](https://github.com/Portshift/kubei) - Vulnerabilities scanning and CIS Docker benchmark tool that allows users to get an accurate and immediate risk assessment of their kubernetes clusters.
 - [Bovine](https://github.com/nickgerace/bovine) - Manage single node Rancher clusters with a single binary.

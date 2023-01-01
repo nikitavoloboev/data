@@ -141,3 +141,4 @@ title: Raspberry Pi
 - [EsPiFF](https://github.com/MDCservice/EsPiFF) - ESP32 in the Raspberry Pi form factor. ([HN](https://news.ycombinator.com/item?id=34036011))
 - [Cats, Pi, and Machine Learning (2022)](https://blog.aawadia.dev/2022/12/20/cats-pi-and-machine-learning/)
 - [Raspberry Pi and Network Lab](https://github.com/hpreston/rpi-networklab)
+- [Raspberry Pi security alarm – the basics (2023)](https://blog.cavelab.dev/2022/12/rpi-security-alarm/) ([HN](https://news.ycombinator.com/item?id=34191749))
