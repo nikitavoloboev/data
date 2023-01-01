@@ -103,3 +103,4 @@ I use [Herman Miller Embody with standing desk](https://esgaming.hermanmiller.co
 - [The Art of the Desk Setup (2021)](https://arun.is/blog/desk-setup/)
 - [Hacker Stations](https://hackerstations.com/)
 - [Favorite computer chair recommendations (2022)](https://twitter.com/jamesm/status/1591892465036185600)
+- [Upsy Desky](https://github.com/tjhorner/upsy-desky) - Smartify your standing desk.

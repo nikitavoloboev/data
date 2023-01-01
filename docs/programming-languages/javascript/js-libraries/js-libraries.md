@@ -194,6 +194,7 @@
 - [heapify](https://github.com/luciopaiva/heapify) - Fastest JavaScript priority queue out there. Zero dependencies.
 - [Databricks SQL Driver for NodeJS](https://github.com/databricks/databricks-sql-nodejs)
 - [doubledb](https://github.com/markwylde/doubledb) - On disk database that indexes everything for fast querying.
+- [pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL interface for Node.
 
 ## React
 
@@ -1085,6 +1086,7 @@
 - [NightVision](https://github.com/project-nv/night-vision) - Highly customizable charting library, created for professional traders.
 - [Webspace Engine](https://github.com/webspace-sdk/webspace-engine) - Create 3D worlds using just HTML.
 - [Sortable](https://github.com/SortableJS/Sortable) - JavaScript library for reorderable drag-and-drop lists.
+- [active-win](https://github.com/sindresorhus/active-win) - Get metadata about the active window (title, id, bounds, owner, etc).
 
 ## Links
 

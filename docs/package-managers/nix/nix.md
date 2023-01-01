@@ -14,6 +14,8 @@ I used [Nix time](https://alexfedoseev.com/blog/post/nix-time) article to instal
 
 [Noogle](https://noogle.dev/) is great Nix API search engine. [devenv](https://github.com/cachix/devenv) or [devbox](https://github.com/jetpack-io/devbox) are great for bootstrapping dev environments.
 
+[nixify](https://github.com/rvolosatovs/nixify) is interesting. [Attic](https://github.com/zhaofengli/attic) is great self hostable nix binary cache.
+
 ## Notes
 
 - Nix never uses host dependencies, it always builds with exactly precise dependencies every time, and will always refer to them from then on.
@@ -469,3 +471,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Dev environments for numerous languages based on Nix flakes](https://github.com/the-nix-way/dev-templates)
 - [Development environment with Nix Flakes and Direnv](https://gist.github.com/sagittaros/32dc6ffcbc423dc0fed7eef24698d5ca)
 - [Nixpkgs support for Linux builders running on macOS (2023)](https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html) ([Lobsters](https://lobste.rs/s/1gsmqo/nixpkgs_support_for_linux_builders))
+- [nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
+- [Attic](https://github.com/zhaofengli/attic) - Self-hostable Nix Binary Cache server backed by an S3-compatible storage provider. It has support for global deduplication and garbage collection.

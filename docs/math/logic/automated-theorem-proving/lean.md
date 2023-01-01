@@ -126,3 +126,5 @@ title: Lean
 - [LSpec](https://github.com/yatima-inc/LSpec) - Testing framework for Lean 4, inspired by Haskell's Hspec package.
 - [Advent of Code 2022 in Lean](https://github.com/odomontois/advent2022-lean)
 - [Infinitude of primes --- a Lean theorem prover demo (2020)](https://www.youtube.com/watch?v=b59fpAJ8Mfs)
+- [mlir-lean](https://github.com/opencompl/lean-mlir) - Embedded MLIR in LEAN.
+- [Parser for ANSI C, in Lean 4](https://github.com/opencompl/C-parsing-for-Lean4)

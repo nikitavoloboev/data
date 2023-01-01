@@ -291,3 +291,4 @@
 - [Multi-factor Authentication via Row Level Security Enforcement (2022)](https://supabase.com/blog/mfa-auth-via-rls) ([HN](https://news.ycombinator.com/item?id=33984104))
 - [Apple SignIn Auth Node](https://github.com/a-tokyo/apple-signin-auth)
 - [Ask HN: Lightweight Authentication (2022)](https://news.ycombinator.com/item?id=34177201)
+- [Permit](https://github.com/ianstormtaylor/permit) - Makes it easy to add an authentication layer to any Node API.

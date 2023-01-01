@@ -6,7 +6,7 @@ title: RSS
 
 Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. Previously used [Inoreader](https://www.inoreader.com/) but it was too expensive.
 
-[RSSHub](https://github.com/DIYgod/RSSHub) & [Eleventy Activity Feed](https://github.com/11ty/eleventy-activity-feed) are useful.
+[RSSHub](https://github.com/DIYgod/RSSHub), [feedpushr](https://github.com/ncarlier/feedpushr) & [Eleventy Activity Feed](https://github.com/11ty/eleventy-activity-feed) are useful.
 
 ## Notes
 

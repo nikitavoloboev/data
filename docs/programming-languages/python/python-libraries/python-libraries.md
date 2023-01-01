@@ -4,6 +4,8 @@
 
 Like idea of using Python as glue language for compiled modules like [Rust](https://github.com/sansyrox/robyn) or [Zig](https://github.com/adamserafini/zaml).
 
+[Taichi](https://github.com/taichi-dev/taichi) is interesting for writing parallel math heavy code.
+
 ## Web
 
 - [Granian](https://github.com/emmett-framework/granian) - Rust HTTP server for Python applications.

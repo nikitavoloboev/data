@@ -28,3 +28,4 @@ title: Ansible
 - [Ansible Examples](https://github.com/ansible/ansible-examples)
 - [ansible-bender](https://github.com/ansible-community/ansible-bender) - Tool which bends containers using Ansible playbooks and turns them into container images.
 - [Using Ansible & Nomad for a homelab (2022)](https://blog.aleksic.dev/using-ansible-and-nomad-for-a-homelab-part-1) ([Part 2](https://blog.aleksic.dev/using-ansible-and-nomad-for-a-homelab-part-2))
+- [Ansible Role for Podman](https://github.com/alvistack/ansible-role-podman)

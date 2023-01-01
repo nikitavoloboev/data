@@ -20,7 +20,7 @@ I also hope non violent speech will never be silenced in Russia as it's [crucial
 
 All of this is just my opinion and I genuinely don't know a lot. The west has many issues too and lies a lot with their sophisticated propaganda machines for crafting out new 'current thing' narratives. So I just try to live my life and build great tools that hopefully accelerate the [future](../../future/future.md) where all countries are free from oppression.
 
-I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220152839) I fancy and use daily. For political updates, there's many accounts I like. [Michael Kofman](https://twitter.com/KofmanMichael) & [Max Seddon](https://twitter.com/maxseddon) do nice summaries often.
+I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220152839) I fancy and use daily. For political updates, there's many accounts I like. [Michael Kofman](https://twitter.com/KofmanMichael) & [Max Seddon](https://twitter.com/maxseddon) do nice summaries often. Like [Meduza](https://meduza.io/) publication too.
 
 ## Notes
 

@@ -4,6 +4,8 @@
 
 [Zstandard](https://github.com/facebook/zstd) is [great](https://news.ycombinator.com/item?id=34058711).
 
+Use [Squoosh](https://squoosh.app/) to compress images without losing quality.
+
 ## Notes
 
 - [Can compress PNG images well with pngquant.](https://twitter.com/michaelvillar/status/1445079263208787969)

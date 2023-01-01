@@ -83,6 +83,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegrambot](https://github.com/nickname76/telegrambot) - Telegram Bot API 6.1 in Go.
 - [OrigamiBot](https://github.com/cmd410/OrigamiBot) - Pythonic Telegram bot API library.
 - [Telegram Vapor Bot](https://github.com/nerzh/telegram-vapor-bot) - Wrapper for the Telegram Bot API written in Swift with Vapor.
+- [Telexide](https://github.com/CalliEve/telexide) - Easy-to-use async telegram bot library for Rust.
 
 ## Bots
 
@@ -279,3 +280,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [TL](https://github.com/xelaj/tl) - Serialization format, created by Telegram and TON devs.
 - [Telestatic](https://github.com/spelsinx/telestatic) - Telegram MTProto framework for NodeJS.
 - [Telegram: No-SIM Signup, Auto-Delete All Chats, Topics 2.0 and More (2022)](https://telegram.org/blog/ultimate-privacy-topics-2-0) ([HN](https://news.ycombinator.com/item?id=33891807)) ([Reddit](https://www.reddit.com/r/Telegram/comments/zee5qc/nosim_signup_global_autodelete_timer_topics_20/))
+- [TL-Schema Explorer](https://schema.horner.tj/#!/) - Search for Telegram API methods, constructors, and types. ([Code](https://github.com/tjhorner/schema.tl))

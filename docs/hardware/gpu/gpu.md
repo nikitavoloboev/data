@@ -136,3 +136,4 @@ title: GPU
 - [GPU-IO](https://github.com/amandaghassaei/gpu-io) - GPU-accelerated computing library for physics simulations and other mathematical calculations. ([Examples](https://apps.amandaghassaei.com/gpu-io/examples/))
 - [Apple GPU drivers now in Asahi Linux (2022)](https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/) ([HN](https://news.ycombinator.com/item?id=33891197))
 - [Dream Factory](https://github.com/rbbrdckybk/dream-factory) - Multi-threaded GUI manager for mass creation of AI-generated art with support for multiple GPUs.
+- [ArchProbe](https://github.com/microsoft/ArchProbe) - Profiler to disclose and quantify hardware features on GPUs.

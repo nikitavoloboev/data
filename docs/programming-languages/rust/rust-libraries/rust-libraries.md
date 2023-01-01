@@ -220,6 +220,7 @@
 - [str0m](https://github.com/algesten/str0m) - Sync sans I/O WebRTC implementation in Rust.
 - [lil-http](https://github.com/m1guelpf/lil-http-rs) - Barebones HTTP 1.1 framework, built in Rust with no external dependencies (other than tokio).
 - [Multipart](https://github.com/abonander/multipart) - Backend-agnostic extension for file uploads in HTTP libraries for Rust.
+- [minreq](https://github.com/neonmoe/minreq) - Simple, minimal-dependency HTTP client.
 
 ## Auth
 
@@ -2449,6 +2450,10 @@
 - [serde_starlark](https://github.com/dtolnay/serde-starlark) - Serde serializer for generating Starlark build targets.
 - [eye-rs](https://github.com/raymanfx/eye-rs) - Cross platform camera capture in Rust.
 - [that goes there](https://github.com/queer/that-goes-there) - Library for general planning and execution of tasks on local and remote hosts.
+- [ARPFloat](https://github.com/nadavrot/arpfloat) - Arbitrary-Precision Floating-Point Library.
+- [libvault_rs](https://github.com/abedra/libvault_rs) - Rust library for Hashicorp Vault.
+- [busan](https://github.com/JohnMurray/busan) - Actor implementation in Rust.
+- [Akt](https://github.com/akozhemiakin/akt) - Actors framework for Rust and Tokio.
 
 ## Cargo Plugins
 
@@ -2753,3 +2758,4 @@
 - [Reindeer](https://github.com/facebookincubator/reindeer) - Tool which takes Rust Cargo dependencies and generates Buck build rules.
 - [Tips on scaling a monolithic Rust web server (2022)](https://www.reddit.com/r/rust/comments/zvt1mu/tips_on_scaling_a_monolithic_rust_web_server/)
 - [How (and why) nextest uses tokio (2022)](https://sunshowers.io/posts/nextest-and-tokio/)
+- [Minimal Rust](https://github.com/xvxx/minimal-rust) - List of (mostly) zero dependency libraries for Rust.

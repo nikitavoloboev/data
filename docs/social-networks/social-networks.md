@@ -205,3 +205,5 @@ Starting social networks is hard. I liked steps [Gas](https://gasapp.co/) app to
 - [Native internet protocol for social media (2022)](https://news.ycombinator.com/item?id=33977504) ([Arguments against](https://twitter.com/raphkoster/status/1603111427161497600))
 - [Ask HN: How might HN build a social network together? (2022)](https://news.ycombinator.com/item?id=33999296)
 - [Beluga](https://beluga.social/) - Publishes your posts to a JSON/RSS feed and a simple static site on the open Web.
+- [NodeInfo](https://github.com/jhass/nodeinfo) - Standardized way to expose metadata about an installation of a distributed social network.
+- [folkvangr](https://github.com/HeavyRain266/folkvangr) - Decentralized network based on Social Graph theory.

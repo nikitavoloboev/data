@@ -1,10 +1,12 @@
 # Text editors
 
-[Vim](vim/vim.md), [Sublime Text](sublime-text/sublime-text.md) and [VS Code](vs-code/vs-code.md) are my favorite editors.
+[Vim](vim/vim.md), [Sublime Text](sublime-text/sublime-text.md) and [VS Code](vs-code/vs-code.md) are my favorite editors. [Helix](helix.md) has nice ideas.
 
 Vim for its text editing and the _vim language_ and VS code for giving me the best of both worlds. The awesome [Vim plugin](https://github.com/VSCodeVim/Vim) and the amazing IDE like features. And Sublime Text for its speed and the awesome [vim emulation](https://github.com/guillermooo/Six).
 
 [CodeMirror](codemirror.md), [Tiptap](https://tiptap.dev/) & [ProseMirror](https://prosemirror.net/) are nice web editors. [Zed](https://zed.dev/) seems promising. [Lexical](https://github.com/facebook/lexical) has many great features too.
+
+I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://github.com/YousefED/BlockNote) is nice library to make these kinds of editors.
 
 [Lezer Parser System](https://lezer.codemirror.net/) seems powerful.
 

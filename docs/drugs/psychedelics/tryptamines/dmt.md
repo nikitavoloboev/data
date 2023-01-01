@@ -12,7 +12,7 @@ I love all [tryptamines](tryptamines.md) including DMT. [Many say it's life chan
 
 Which I then use with [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.me/Q21Q21%27s_Vinegar/Lime_A/B_Extraction_Tek) to [extract DMT](https://wiki.dmt-nexus.me/Category:Extraction_Tek). [STB Extraction Teks](https://wiki.dmt-nexus.me/Category:Extraction_Tek#STB) are great too.
 
-[DMT-Nexus Wiki](https://wiki.dmt-nexus.me/Main_Page) & [DMT subreddit](https://www.reddit.com/r/dmt) have nice info.
+[DMT-Nexus Wiki](https://wiki.dmt-nexus.me/Main_Page) together with [DMT](https://www.reddit.com/r/dmt) & [DMT Guide](https://www.reddit.com/r/dmtguide/) subreddits have nice info.
 
 ## Notes
 

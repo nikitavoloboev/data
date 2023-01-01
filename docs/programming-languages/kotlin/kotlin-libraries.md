@@ -115,3 +115,4 @@
 - [Ktor Arrow Real World Example](https://github.com/nomisRev/ktor-arrow-example) - Written in Kotlin, with Ktor, Arrow, SqlDelight, KotlinX Serialization, etc.
 - [dukat](https://github.com/Kotlin/dukat) - Converter of any kind of declarations to Kotlin external declarations.
 - [Jewel](https://github.com/JetBrains/jewel) - Implementation of the IntelliJ look and feels in Compose for Desktop.
+- [Kotlin Hexagonal HTTP API Skeleton Course](https://github.com/CodelyTV/kotlin-hexagonal_http_api-course)

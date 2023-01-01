@@ -125,3 +125,4 @@ title: Vite
 - [Speed up your Vite dev server with SWC](https://github.com/vitejs/vite-plugin-react-swc)
 - [vite-plugin-iso-import](https://github.com/bluwy/vite-plugin-iso-import) - Import modules isomorphically in the client or server.
 - [Vite Plugin Squoosh](https://github.com/bituq/vite-plugin-squoosh) - Image compression plugin for Vite, using squoosh.
+- [Vite Fonts plugin](https://github.com/stafyniaksacha/vite-plugin-fonts) - Web font loader for Vite.

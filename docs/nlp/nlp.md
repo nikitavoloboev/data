@@ -759,3 +759,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models"](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)
 - [Training language models to follow instructions with human feedback (2022)](https://arxiv.org/abs/2203.02155) ([Web](https://openai.com/blog/instruction-following/))
 - [Lila: A Unified Benchmark for Mathematical Reasoning (2022)](https://arxiv.org/abs/2210.17517)
+- [LibMultiLabel](https://github.com/ASUS-AICS/LibMultiLabel) - Library for Multi-class and Multi-label Text Classification.

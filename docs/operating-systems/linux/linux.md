@@ -660,3 +660,4 @@ title: Linux
 - [Poll: What's the best laptop for Linux these days? (2022)](https://news.ycombinator.com/item?id=34180508)
 - [modreveal](https://github.com/jafarlihi/modreveal) - Utility to find hidden Linux kernel modules.
 - [Running fast and slow: experiments with BPF programs performance (2022)](https://erthalion.info/2022/12/30/bpf-performance/)
+- [TuringCell](https://github.com/turingcell/turingcell) - Run Linux over Paxos/Raft.

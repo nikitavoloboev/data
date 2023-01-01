@@ -360,3 +360,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [Medium Reducers in React (2022)](https://julesblom.com/writing/medium-reducers)
 - [The Beginner's Guide to React Testing](https://maxrozen.com/beginners-guide-to-react-testing)
 - [React Nylon](https://github.com/CodyJasonBennett/react-nylon) - React reconciler implemented in < 4KB.
+- [Reactant](https://github.com/unadlib/reactant) - Framework for building React applications.

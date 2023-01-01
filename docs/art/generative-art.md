@@ -6,6 +6,8 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 
 [Samila](https://github.com/sepandhaghighi/samila), [Alma](https://www.alma.sh/) & [Nannou](https://github.com/nannou-org/nannou) are interesting.
 
+[GPU-IO](https://observablehq.com/@esperanc/gpu-io) is interesting.
+
 ## Links
 
 - [WEIR-A](https://github.com/inconvergent/weir) - System for making generative systems.

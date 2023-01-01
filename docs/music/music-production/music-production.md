@@ -2,7 +2,9 @@
 
 [Abletone Learning Synth](https://learningsynths.ableton.com/) is nice intro. [Never Before Heard Sounds](https://heardsounds.com/) is working on some [neat tech](https://twitter.com/yotammann/status/1532446436314402817).
 
-Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ableton.com/en/).
+Sometimes use [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ableton.com/en/) to make music.
+
+As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his [synthesizer](synthesizers.md) setup. I want to get into it playing synths/pianos more.
 
 ## Tools
 
@@ -499,3 +501,8 @@ Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ablet
 - [SHLD Free MIDI Chord Packs](https://github.com/ldrolez/free-midi-chords) - Collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101.
 - [Multimodal Machine Learning for Music (MML4Music)](https://github.com/ilaria-manco/multimodal-ml-music) - List of academic resources on Multimodal ML for Music.
 - [Pop2Piano: Pop Audio-Based Piano Cover Generation (2022)](https://sweetcocoa.github.io/pop2piano_samples/) ([Code](https://github.com/sweetcocoa/pop2piano)) ([HN](https://news.ycombinator.com/item?id=34205996))
+- [PyLive](https://github.com/ideoforms/pylive) - Query and control Ableton Live from Python.
+- [SignalFlow](https://github.com/ideoforms/signalflow) - Sound synthesis framework designed for clear and concise expression of complex musical ideas.
+- [Python client for SuperCollider](https://github.com/ideoforms/python-supercollider)
+- [AbletonOSC](https://github.com/ideoforms/AbletonOSC) - MIDI remote script to control Ableton Live 11 via Open Sound Control (OSC).
+- [Friture](https://github.com/tlecomte/friture) - Real-time audio visualizations (spectrum, spectrogram, etc.).

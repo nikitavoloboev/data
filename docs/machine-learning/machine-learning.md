@@ -1027,3 +1027,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Extremely Simple Activation Shaping for Out-of-Distribution Detection (2022)](https://arxiv.org/abs/2209.09858) ([Code](https://github.com/andrijazz/ash))
 - [Nice personal ML/DS blogs](https://github.com/alexmolas/ml-blogs)
 - [Ask HN: Which are your favorite machine learning blogs? (2022)](https://news.ycombinator.com/item?id=34198427)
+- [Liquid Structural State-Space Models (2022)](https://arxiv.org/abs/2209.12951) ([Code](https://github.com/raminmh/liquid-s4))
+- [OpenXLA](https://github.com/openxla/xla) - Community-driven and modular open source compiler for ML.

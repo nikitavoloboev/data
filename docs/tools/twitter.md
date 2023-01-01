@@ -313,3 +313,4 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [Faster Twitter Embeds (2022)](https://blog.kevmo314.com/faster-twitter.html) ([Or you can use Nitter embed](https://nitter.fly.dev/mhevery/status/1606438382561026049/embed))
 - [Twitter Graph](https://twit.deta.dev/) - Like Google Trends but for Twitter.
 - [Embed Tweets on your site with minimal JS, thanks to Qwik](https://github.com/mhevery/qwik-twitter)
+- [Python Twitter Examples](https://github.com/ideoforms/python-twitter-examples) - Examples of using Python for Twitter social data mining, using the python-twitter-tools framework.

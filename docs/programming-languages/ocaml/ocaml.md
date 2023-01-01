@@ -165,3 +165,4 @@ title: OCaml
 - [OCaml on Microcontroller Boards](https://github.com/stevenvar/OMicroB) ([Lobsters](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could))
 - [Programming project on automatic differentiation in OCaml](https://github.com/fpottier/mpri-2.4-projet-2022-2023)
 - [Learning OCaml in 2023](https://sancho.dev/blog/learning-ocaml)
+- [Simplify user setup for various editors to OCaml users](https://github.com/ocaml-opam/opam-user-setup)

@@ -20,6 +20,8 @@ Enjoyed [Building Web UI's in Rust w/ Greg Johnston](https://www.youtube.com/wat
 
 [MacroKata](https://github.com/tfpk/macrokata) is great for learning macros. [Idiomatic Rust](https://github.com/mre/idiomatic-rust) is nice read to learn best practices.
 
+[Fenix](https://github.com/nix-community/fenix) is interesting.
+
 ## Templates
 
 - [Rust Service Template](https://github.com/sambacha/rust-service-template)

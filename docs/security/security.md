@@ -334,3 +334,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Security Study Plan](https://github.com/jassics/security-study-plan)
 - [Cybersecurity Interview Questions Collections with Answers](https://github.com/jassics/cybersecurity-interview-questions)
 - [Turning Google smart speakers into wiretaps for $100k (2022)](https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html)
+- [All in One Hacking tool For Hackers](https://github.com/Z4nzu/hackingtool)

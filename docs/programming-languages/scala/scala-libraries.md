@@ -226,6 +226,7 @@
 - [Volga](https://github.com/manatki/volga) - Comprehensions for Arrows and Monoidal categories.
 - [Gallia](https://github.com/galliaproject/gallia-core) - Schema-aware Scala library for data transformation.
 - [dependency](https://github.com/coursier/dependency) - Library to parse and handle Java and Scala dependencies.
+- [eff](https://github.com/atnos-org/eff) - Eff monad for cats.
 
 ## Links
 
@@ -266,3 +267,4 @@
 - [Peeking inside the engine of ZIO SQL (2022)](https://www.slideshare.net/JaroslavRegec1/peeking-inside-the-engine-of-zio-sqlpdf)
 - [Smithy Translate](https://github.com/disneystreaming/smithy-translate) - Tooling that enables converting to and from Smithy. ([Reddit](https://www.reddit.com/r/scala/comments/zftfwf/smithytranslate_a_cli_tool_to_turn_openapi_specs/))
 - [Scala Template](https://github.com/scala/hello-world.g8)
+- [Scala One](https://github.com/propensive/one) - Platform of libraries for Scala 3.

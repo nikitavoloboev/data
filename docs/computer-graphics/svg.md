@@ -184,3 +184,4 @@
 - [Svgl](https://svgl.vercel.app/) - Beautiful library with SVG logos. ([Code](https://github.com/pheralb/svgl))
 - [Online SVG Animation Creator](https://bestsnip.com/svg_animation/) ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/z87md3/online_svg_animation_creator/))
 - [Draw SVG rope using JavaScript (2022)](https://muffinman.io/blog/draw-svg-rope-using-javascript/) ([HN](https://news.ycombinator.com/item?id=34197379))
+- [usvg](https://github.com/ChengCat/usvg) - SVG simplification tool.

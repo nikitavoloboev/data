@@ -191,3 +191,4 @@ title: Scala
 - [Property-Based Testing: Let Your Testing Library Work for You - Magda Stożek (2021)](https://www.youtube.com/watch?v=pO4_3kg1wMw)
 - [Best books to learn Scala as a functional programmer (2022)](https://www.reddit.com/r/scala/comments/zsucun/best_book_to_learn_scala_as_a_functional/)
 - [Scala Seed](https://github.com/DevInsideYou/scala-seed) - Nix flake for getting started with Scala.
+- [Type level Programming in Scala - Matt Bovel (2022)](https://www.youtube.com/watch?v=B7uficxARKM)

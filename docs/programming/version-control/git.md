@@ -623,3 +623,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [legit](https://github.com/icyphox/legit) - Web frontend for git. ([Lobsters](https://lobste.rs/s/trcln1/legit_web_frontend_for_git))
 - [Commit](https://github.com/0xble/commit) - Generate commit messages using GPT3 based on your changes and commit history.
 - [gwipt](https://github.com/benwr/gwipt) - Automatically commit all edits to a WIP branch with GPT-3 commit messages.
+- [commitlint](https://github.com/conventional-changelog/commitlint) - Lint commit messages.

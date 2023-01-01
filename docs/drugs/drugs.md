@@ -94,3 +94,4 @@ Always [know your substance, have good set (mindset) and setting (environment)](
 - [r/Drugs Official Discord](https://discord.com/invite/rdrugs-official)
 - [MolMap: An Efficient Convolutional Neural Network Based Molecular Deep Learning Tool](https://github.com/shenwanxiang/bidd-molmap)
 - [Hyperlab.info](https://hyperlab.info/inv/index.php) ([Rules](https://hyperlab.info/inv/index.php?act=ST&f=17&t=30352&lang=en))
+- [Druglike](https://druglike.com/) - Drug discovery democratized.

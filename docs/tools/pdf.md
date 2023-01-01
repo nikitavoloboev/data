@@ -92,3 +92,4 @@
 - [pdfium-render](https://github.com/ajrcarey/pdfium-render) - Idiomatic high-level Rust interface to Pdfium. Used by Google Chromium.
 - [PDF.js extract](https://github.com/ffalt/pdf.js-extract) - Extracts text from PDF files.
 - [Simple PDF Embed](https://github.com/bendersej/simplepdf-embed) - Add a powerful PDF editor directly into your website or React App.
+- [PDF to Image](https://github.com/k-yle/pdf-to-img) - Converts PDFs to images in Node with no native dependencies.

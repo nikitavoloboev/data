@@ -1366,6 +1366,8 @@
 - [RateLimiters](https://github.com/manuelCarlos/RateLimiters) - Debounce and Throttle Swift implementations.
 - [CodableToTypeScript](https://github.com/omochi/CodableToTypeScript) - Generate typescript code for typing JSON from Swift Codable.
 - [SmoothGradient](https://github.com/intitni/SmoothGradient) - Generate buttery smooth gradients.
+- [SwiftMVI](https://github.com/xtro/SwiftMVI) - Lightweight MVI framework for Swift.
+- [SwiftUseCase](https://github.com/xtro/SwiftUseCase) - Library for creating independent & coverable usecases with a powerful execution API.
 
 ## Other (not lib)
 

@@ -730,6 +730,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Unhead Schema.org](https://github.com/harlan-zw/unhead-schema-org) - Simple, universal Schema.org. Powered by Unhead.
 - [dpa](https://github.com/TomerAberbach/dpa) - Resolves promises concurrently with deterministic rejection order. Somewhere between Promise.all and Promise.allSettled.
 - [polyclip-js](https://github.com/steveruizok/polyclip-js) - JavaScript implementation of the Greiner-Hormann clipping algorithm.
+- [Mutative](https://github.com/unadlib/mutative) - JavaScript library for efficient immutable updates, 10x faster than Immer by default, even faster than naive handcrafted reducer.
+- [data-transport](https://github.com/unadlib/data-transport) - Simple and responsible transport.
 
 ## Links
 

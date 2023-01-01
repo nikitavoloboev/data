@@ -104,3 +104,4 @@ title: DynamoDB
 - [DynamoDB Toolbox](https://github.com/jeremydaly/dynamodb-toolbox) - Simple set of tools for working with Amazon DynamoDB and the DocumentClient.
 - [Nice DynamoDB query libs](https://twitter.com/adamdotdev/status/1566583149517099008)
 - [dynalite](https://github.com/mhart/dynalite) - Implementation of Amazon's DynamoDB built on LevelDB.
+- [Dynamoose](https://github.com/dynamoose/dynamoose) - Modeling tool for Amazon's DynamoDB. ([Docs](https://dynamoosejs.com/getting_started/Introduction))

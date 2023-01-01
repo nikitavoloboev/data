@@ -214,3 +214,4 @@ title: Terraform
 - [Terraform Module: Hashicorp Vault GitHub OIDC](https://github.com/digitalocean/terraform-vault-github-oidc)
 - [Terraform Bridge Provider Boilerplate](https://github.com/pulumi/pulumi-tf-provider-boilerplate) - Boilerplate code for Terraform provider-backed Pulumi packages.
 - [tf-summarize](https://github.com/dineshba/tf-summarize) - Command-line utility to print the summary of the Terraform plan.
+- [Useful Terraform modules](https://github.com/in4it/terraform-modules)

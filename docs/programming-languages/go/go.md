@@ -940,3 +940,4 @@ if *boolArgPtr != false {
 - [Yoda](https://github.com/thomscoder/yoda) - Get a summary of Go files to programmatically query them.
 - [Go disables Nagle's Algorithm by default (2022)](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/) ([Lobsters](https://lobste.rs/s/xdre9p/golang_is_evil_on_shitty_networks)) ([HN](https://news.ycombinator.com/item?id=34179426))
 - [Go is Almost Perfect](https://www.lremes.com/posts/golang/) ([Reddit](https://www.reddit.com/r/golang/comments/1008rhs/luciano_remes_golang_is_%F0%9D%98%BC%F0%9D%99%A1%F0%9D%99%A2%F0%9D%99%A4%F0%9D%99%A8%F0%9D%99%A9_perfect/)) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/100724x/the_golang_design_errors/))
+- [Pre Commit Go hooks](https://github.com/dnephin/pre-commit-golang)

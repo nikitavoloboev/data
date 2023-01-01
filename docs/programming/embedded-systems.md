@@ -235,3 +235,5 @@ Also looking into [Embassy](https://embassy.dev/).
 - [Rust on ESP-IDF "Hello, World" template](https://github.com/esp-rs/esp-idf-template)
 - [zmu](https://github.com/jjkt/zmu) - System level emulator for microcontrollers, aiming for high speed simulation of core and peripherals. Currently targets ARM Cortex MCUs.
 - [Common micro controllers (2023)](https://www.reddit.com/r/embedded/comments/100fg89/common_micro_controllers/)
+- [rp-hal-boards](https://github.com/rp-rs/rp-hal-boards) - Board Support Packages for RP2040 based PCBs.
+- [Project template for rp2040-hal](https://github.com/rp-rs/rp2040-project-template)

@@ -147,3 +147,4 @@
 - [Querying Parquet with Millisecond Latency (2022)](https://www.influxdata.com/blog/querying-parquet-millisecond-latency/)
 - [Using Commandline To Process CSV files (2022)](https://muhammadraza.me/2022/data-oneliners/)
 - [Apache Arrow Cookbooks](https://github.com/apache/arrow-cookbook)
+- [parquet2json](https://github.com/jupiter/parquet2json) - Command-line tool for streaming Parquet as line-delimited JSON.

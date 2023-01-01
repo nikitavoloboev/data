@@ -66,3 +66,4 @@ title: Signal processing
 - [How to date a recording using background electrical noise (2022)](https://robertheaton.com/enf/)
 - [cuSignal](https://github.com/rapidsai/cusignal) - RAPIDS Signal Processing Library.
 - [Image Signal Processing (ISP) Guide](https://github.com/mikeroyal/ISP-Guide)
+- [Spek](https://github.com/alexkay/spek) - Acoustic spectrum analyzer.

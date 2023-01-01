@@ -123,6 +123,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Swiftcord](https://github.com/SketchMaster2001/Swiftcord) - Discord Library for Swift.
 - [lacord](https://github.com/Mehgugs/lacord) - Low level, lightweight discord API library.
 - [aoi.js](https://github.com/AkaruiDevelopment/aoi.js) - Advanced string-based package to create a Discord Bot fast and powerful.
+- [Calamity](https://github.com/simmsb/calamity) - Library for writing discord bots in Haskell.
 
 ## Interesting servers
 

@@ -27,3 +27,5 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [nanoGPT](https://github.com/karpathy/nanoGPT) - Simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [GPT Index Guide](https://twitter.com/jerryjliu0/status/1608632335695745024)
 - [Let’s try ChatGPT. Is it any good? (2022)](https://www.youtube.com/watch?v=q2A-MkGjvmI)
+- [GPT.sh](https://github.com/shorwood/gptsh) - Use GPT to translate queries into shell commands.
+- [Awesome ChatGPT](https://github.com/Kamigami55/awesome-chatgpt)

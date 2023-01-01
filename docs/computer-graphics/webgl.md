@@ -2,6 +2,8 @@
 
 [WebGL2 Fundamentals](https://webgl2fundamentals.org/) is great read.
 
+Love using [GPU-IO](https://github.com/amandaghassaei/gpu-io) library. [Here](https://observablehq.com/@esperanc/gpu-io) is nice example of it.
+
 ## Links
 
 - [Learn WebGL](http://learnwebgl.brown37.net/)
