@@ -334,3 +334,4 @@ title: React Native
 - [React Native Fiesta](https://github.com/mateoguzmana/react-native-fiesta) - Set of animations ideal for celebration and user engagement.
 - [Hyperview](https://hyperview.org/) - Native mobile apps, as easy as creating a website. ([HN](https://news.ycombinator.com/item?id=34137381))
 - [React Native OpenAI JSX](https://github.com/cawfree/react-native-openai-jsx) - Use OpenAI to generate functioning React Native components.
+- [React Native is not the future (2023)](https://blog.standardnotes.com/40921/no-react-native-is-not-the-future) ([HN](https://news.ycombinator.com/item?id=34197613))

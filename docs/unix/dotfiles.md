@@ -56,6 +56,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [Dmitry Zherebko](https://github.com/zmitry/.dotfiles)
 - [Stefan Judis](https://github.com/stefanjudis/dotfiles)
 - [Maxim Baz](https://github.com/maximbaz/dotfiles)
+- [Stefan VanBuren](https://github.com/stefanvanburen/dotfiles)
 
 ## Links
 
