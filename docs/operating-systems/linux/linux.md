@@ -658,3 +658,4 @@ title: Linux
 - [More developers use Linux than Mac, according to 2022 StackOverflow survey](https://news.ycombinator.com/item?id=34163874)
 - [Linux Command Line Book](https://www.linuxcommand.org/tlcl.php) ([HN](https://news.ycombinator.com/item?id=34161081))
 - [Poll: What's the best laptop for Linux these days? (2022)](https://news.ycombinator.com/item?id=34180508)
+- [modreveal](https://github.com/jafarlihi/modreveal) - Utility to find hidden Linux kernel modules.

@@ -168,3 +168,4 @@
 - [To TDD or not to TDD with Bill Kennedy & Chris James (2022)](https://changelog.com/gotime/258)
 - [Tracetest](https://github.com/kubeshop/tracetest) - OpenTelemetry based tool that helps you develop and test your distributed applications.
 - [Testing Without Mocks: A Pattern Language (2022)](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
+- [A short introduction to BDD (2022)](https://www.germanvelasco.com/blog/short-intro-to-bdd)

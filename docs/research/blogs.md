@@ -270,6 +270,9 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [David Sancho](https://sancho.dev/blog)
 - [TK](https://www.iamtk.co/)
 - [Stanko](https://muffinman.io/)
+- [Ben Weinstein-Raun](https://www.benwr.net/blog/)
+- [Dinesh Gowda](https://dinesh.wiki/)
+- [German Velasco](https://www.germanvelasco.com/blog)
 
 ## Notes
 

@@ -70,7 +70,7 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [aPPR](https://github.com/RoheLab/aPPR) - Approximate Personalized Page Rank.
 - [Infinity Search](https://infinitysearch.co/) - Open-source search engine. ([Code](https://gitlab.com/infinitysearch/infinity-search)) ([HN](https://news.ycombinator.com/item?id=24080444))
 - [hndex.org](https://hndex.org/) - Full-text search engine of articles submitted to HN. ([HN](https://news.ycombinator.com/item?id=24079592))
-- [Sourcegraph](https://sourcegraph.com/search) - Search public code.
+- [Sourcegraph](https://sourcegraph.com/search) - Search public code. ([Handbook](https://handbook.sourcegraph.com/)) ([Handbook Code](https://github.com/sourcegraph/handbook))
 - [Autocomplete VS graph](https://anvaka.github.io/vs/?query=) - Visualization of Google's autocomplete. ([Code](https://github.com/anvaka/vs))
 - [Dorking: the use of search engines to find very specific data (2020)](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html) ([HN](https://news.ycombinator.com/item?id=24101889))
 - [Create and use HTML full text search index (C++)](https://stackoverflow.com/questions/3073390/create-and-use-html-full-text-search-index-c)

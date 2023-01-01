@@ -246,3 +246,4 @@
 - [bootc](https://github.com/containers/bootc) - Transactional, in-place operating system updates using OCI/Docker container images.
 - [Possibility of OCI Container Runtime with Rust (2022)](https://speakerdeck.com/utam0k/possibility-of-oci-container-runtime-with-rust)
 - [Verrazzano](https://github.com/verrazzano/verrazzano) - Enterprise Container Platform for deploying cloud-native and traditional applications in multi-cloud and hybrid environments.
+- [debug-ctr](https://github.com/felipecruz91/debug-ctr) - Command line tool for interactive troubleshooting when a container has crashed or a container image doesn't include debugging utilities, such as distroless images.

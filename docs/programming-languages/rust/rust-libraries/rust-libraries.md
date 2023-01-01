@@ -8,6 +8,8 @@
 
 [CXX](https://github.com/dtolnay/cxx) & [Safer FFI](https://github.com/getditto/safer_ffi) are nice for writing safe rust bindings.
 
+[Blessed.rs](https://blessed.rs/crates) has nice list of good crates.
+
 ## CLI
 
 - [xflags](https://github.com/matklad/xflags) - Moderately simple command line arguments parsing.
@@ -87,7 +89,7 @@
 - [Rouille](https://github.com/tomaka/rouille) - Rust web micro-framework.
 - [Viz](https://github.com/viz-rs/viz) - Fast, flexible, lightweight web framework for Rust. ([Docs](https://docs.rs/viz/latest/viz/))
 - [hyper](https://github.com/hyperium/hyper) - Fast and correct HTTP implementation for Rust. ([Web](https://hyper.rs/)) ([Hyper's Vision](https://seanmonstar.com/post/678179333918097408/hypers-vision))
-- [pavex](https://github.com/LukeMathWalker/pavex) - Source code generator for building APIs and web applications with Rust. ([Tweet](https://twitter.com/algo_luca/status/1565653013380882433))
+- [pavex](https://github.com/LukeMathWalker/pavex) - Source code generator for building APIs and web applications with Rust. ([Tweet](https://twitter.com/algo_luca/status/1565653013380882433)) ([Article](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/))
 - [Typed HTTP Headers from hyper](https://github.com/hyperium/headers)
 - [attohttpc](https://github.com/sbstp/attohttpc) - Rust lightweight HTTP 1.1 client.
 - [Rocket](https://github.com/SergioBenitez/Rocket) - Async web framework for Rust with a focus on usability, security, extensibility, and speed. ([Web](https://rocket.rs/)) ([Article](https://tech.marksblogg.com/rocket-rust-web-framework.html)) ([Review](https://kevincox.ca/2022/01/01/rocket-review/)) ([Rocket is dead](https://www.reddit.com/r/rust/comments/zvvrl7/rocket_is_dead/))
@@ -2446,6 +2448,7 @@
 - [serde-partial](https://github.com/raftario/serde-partial) - Serde partial serialization made easy.
 - [serde_starlark](https://github.com/dtolnay/serde-starlark) - Serde serializer for generating Starlark build targets.
 - [eye-rs](https://github.com/raymanfx/eye-rs) - Cross platform camera capture in Rust.
+- [that goes there](https://github.com/queer/that-goes-there) - Library for general planning and execution of tasks on local and remote hosts.
 
 ## Cargo Plugins
 

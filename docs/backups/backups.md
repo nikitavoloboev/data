@@ -102,3 +102,4 @@ I love the fact that I can set up any new mac or phone to use my exact and perfe
 - [Various scripts I use to back up my home computers using SSH and rsync](https://github.com/eamonnsullivan/backup-scripts) ([HN](https://news.ycombinator.com/item?id=33922267))
 - [Why encrypted backup is so important (2022)](https://blog.cryptographyengineering.com/2022/12/07/apple-icloud-and-why-encrypted-backup-is-the-only-privacy-issue/)
 - [Best backup solution with encryption (2022)](https://www.reddit.com/r/selfhosted/comments/zv2kp0/best_backup_solution_with_encryption/)
+- [rsnapshot](https://github.com/rsnapshot/rsnapshot) - Tool for backing up your data using rsync.

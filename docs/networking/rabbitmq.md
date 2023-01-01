@@ -42,3 +42,4 @@ title: RabbitMQ
 - [How we built a multi-product SSO system with asynchronous messages using RabbitMQ (2022)](https://medium.com/wttj-tech/how-we-built-a-multi-product-sso-system-with-asynchronous-messages-using-rabbitmq-889fefba02b1)
 - [Go, RabbitMQ and gRPC Clean Architecture microservice](https://github.com/AleksK1NG/Go-gRPC-RabbitMQ-microservice)
 - [Go RabbitMQ Client Library](https://github.com/rabbitmq/amqp091-go)
+- [Eventing over SNS-SQS and RabbitMQ (2022)](https://dinesh.wiki/posts/eventing-over-sns-sqs-rabbitmq/)

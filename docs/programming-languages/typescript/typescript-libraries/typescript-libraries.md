@@ -168,6 +168,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [hpke-js](https://github.com/dajiaji/hpke-js) - Hybrid Public Key Encryption (HPKE) module built on top of Web Cryptography API.
 - [iron-webcrypto](https://github.com/brc-dd/iron-webcrypto) - Encapsulated tokens (encrypted and mac'ed objects).
 - [noble-curves](https://github.com/paulmillr/noble-curves) - Minimal, zero-dependency JS implementation of elliptic curve cryptography.
+- [Huffy](https://github.com/fabiospampinato/huffy) - Tiny compression library based on Huffman coding.
 
 ## Error
 
@@ -728,6 +729,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [djot.js](https://github.com/jgm/djot.js) - JavaScript implementation of djot.
 - [Unhead Schema.org](https://github.com/harlan-zw/unhead-schema-org) - Simple, universal Schema.org. Powered by Unhead.
 - [dpa](https://github.com/TomerAberbach/dpa) - Resolves promises concurrently with deterministic rejection order. Somewhere between Promise.all and Promise.allSettled.
+- [polyclip-js](https://github.com/steveruizok/polyclip-js) - JavaScript implementation of the Greiner-Hormann clipping algorithm.
 
 ## Links
 

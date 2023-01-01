@@ -26,3 +26,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [GPT3Discord](https://github.com/Kav-K/GPT3Discord) - GPT3/DALL-E2 in Discord, chat like ChatGPT, generate images, and more. ([HN](https://news.ycombinator.com/item?id=34168467))
 - [nanoGPT](https://github.com/karpathy/nanoGPT) - Simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [GPT Index Guide](https://twitter.com/jerryjliu0/status/1608632335695745024)
+- [Let’s try ChatGPT. Is it any good? (2022)](https://www.youtube.com/watch?v=q2A-MkGjvmI)

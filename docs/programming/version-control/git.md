@@ -10,6 +10,8 @@ I use [Sublime Merge](https://www.sublimemerge.com/) as my git client app. And f
 
 [gitoxide](https://github.com/Byron/gitoxide) & [go-git](https://github.com/go-git/go-git) are nice reimplementations of Git.
 
+Want to integrate [gwipt](https://github.com/benwr/gwipt) into my workflow with feature branches.
+
 ## Notes
 
 - Commit as often as you can. Ideally after each micro-iteration, when something new is working.

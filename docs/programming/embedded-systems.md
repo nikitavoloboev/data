@@ -234,3 +234,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [Bootlin](https://bootlin.com/) - Embedded Linux and kernel engineering. ([GitHub](https://github.com/bootlin))
 - [Rust on ESP-IDF "Hello, World" template](https://github.com/esp-rs/esp-idf-template)
 - [zmu](https://github.com/jjkt/zmu) - System level emulator for microcontrollers, aiming for high speed simulation of core and peripherals. Currently targets ARM Cortex MCUs.
+- [Common micro controllers (2023)](https://www.reddit.com/r/embedded/comments/100fg89/common_micro_controllers/)

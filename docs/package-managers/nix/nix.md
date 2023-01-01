@@ -468,3 +468,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [My little and short experience with Nix (2022)](https://davidgasquez.bearblog.dev/my-little-and-short-experience-with-nix/)
 - [Dev environments for numerous languages based on Nix flakes](https://github.com/the-nix-way/dev-templates)
 - [Development environment with Nix Flakes and Direnv](https://gist.github.com/sagittaros/32dc6ffcbc423dc0fed7eef24698d5ca)
+- [Nixpkgs support for Linux builders running on macOS (2023)](https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html) ([Lobsters](https://lobste.rs/s/1gsmqo/nixpkgs_support_for_linux_builders))

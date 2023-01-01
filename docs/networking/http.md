@@ -316,3 +316,4 @@ title: HTTP
 - [IDN is crazy (2022)](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/) ([HN](https://news.ycombinator.com/item?id=33995265))
 - [HTTP request case sensitivity (2022)](https://misfra.me/2022/http-request-case-sensitivity/)
 - [The State of HTTP in 2022](https://blog.cloudflare.com/the-state-of-http-in-2022/) ([HN](https://news.ycombinator.com/item?id=34201082))
+- [HTTP/2 performance revisited on the Wikimedia CDN (2022)](https://techblog.wikimedia.org/2022/11/04/http-2-performance-revisited/) ([Lobsters](https://lobste.rs/s/fx3988/http_2_performance_revisited_on))
