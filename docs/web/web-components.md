@@ -118,3 +118,4 @@ title: Web Components
 - [img-victor](https://github.com/9am/img-victor) - Web component converting \<img\> to SVG \<path\> with a drawing effect.
 - [Stencil Component Starter](https://github.com/1024pix/pix-webcomponents) - Starter project for building a standalone Web Component using Stencil.
 - [Web Component Libraries](https://webcomponents.today/component-libraries/)
+- [Custom Elements Locator](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page, and search the catalog for extra information.

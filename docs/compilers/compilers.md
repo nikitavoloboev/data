@@ -274,3 +274,4 @@
 - [SSA-based Compiler Design (2022)](https://link.springer.com/book/10.1007/978-3-030-80515-9)
 - [Compiler Tricks to Avoid ABI-Induced Crashes (2022)](https://randomascii.wordpress.com/2022/12/14/compiler-tricks-to-avoid-abi-induced-crashes/)
 - [Control-flow integrity (2022)](https://maskray.me/blog/2022-12-18-control-flow-integrity) ([Lobsters](https://lobste.rs/s/tkaei3/control_flow_integrity))
+- [Utah Compilers Course (2023)](https://github.com/utah-cs4470-sp23/class)

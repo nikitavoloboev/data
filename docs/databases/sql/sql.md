@@ -237,3 +237,4 @@ title: SQL
 - [Materialized View: SQL Queries on Steroids (2022)](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/) ([Lobsters](https://lobste.rs/s/y76rvj/materialized_view_sql_queries_on)) ([HN](https://news.ycombinator.com/item?id=34186098))
 - [Partial State in Dataflow-Based Materialized Views (2013)](https://jon.thesquareplanet.com/papers/phd-thesis.pdf)
 - [Easy, alternative soft deletion: `deleted_record_insert` (2022)](https://brandur.org/fragments/deleted-record-insert)
+- [Opteryx](https://github.com/mabel-dev/opteryx) - SQL Engine written in Python, designed for embedded and cloud-native environments.

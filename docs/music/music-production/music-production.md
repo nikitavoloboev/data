@@ -506,3 +506,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Python client for SuperCollider](https://github.com/ideoforms/python-supercollider)
 - [AbletonOSC](https://github.com/ideoforms/AbletonOSC) - MIDI remote script to control Ableton Live 11 via Open Sound Control (OSC).
 - [Friture](https://github.com/tlecomte/friture) - Real-time audio visualizations (spectrum, spectrogram, etc.).
+- [Midly](https://github.com/negamartin/midly) - Feature-complete MIDI parser and writer focused on speed.

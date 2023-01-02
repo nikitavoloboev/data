@@ -463,3 +463,5 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [PyLivestream](https://github.com/scivision/PyLivestream) - Pure Python FFmpeg-based live video / audio streaming to YouTube, Facebook, Periscope, Twitch, and more.
 - [video-rs](https://github.com/oddity-ai/oddity-video) - High-level video toolkit based on ffmpeg.
 - [Oddity](https://oddity.ai/) - Builds deep learning algorithms to automate video surveillance. ([GitHub](https://github.com/oddity-ai))
+- [mp4-h264-reencode](https://github.com/vjeux/mp4-h264-re-encode) - Pure re-encoding of an mp4-h264 video file with the web APIs as well as in-depth description of how it works.
+- [camera.ui](https://github.com/seydx/camera.ui) - NVR like user Interface for RTSP capable cameras.

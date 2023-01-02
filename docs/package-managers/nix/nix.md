@@ -473,3 +473,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nixpkgs support for Linux builders running on macOS (2023)](https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html) ([Lobsters](https://lobste.rs/s/1gsmqo/nixpkgs_support_for_linux_builders))
 - [nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 - [Attic](https://github.com/zhaofengli/attic) - Self-hostable Nix Binary Cache server backed by an S3-compatible storage provider. It has support for global deduplication and garbage collection.
+- [bld](https://github.com/numtide/bld) - Build nix targets based on git repository directories.

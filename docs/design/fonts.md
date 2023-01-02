@@ -142,6 +142,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Hubot Sans](https://github.com/github/hubot-sans) - Variable font from GitHub.
 - [Mona Sans](https://github.com/github/mona-sans) - Variable font from GitHub.
 - [Sofia Sans](https://github.com/lettersoup/Sofia-Sans)
+- [Playfair](https://github.com/clauseggers/Playfair) - General purpose Open Source typeface family.
 
 ## Notes
 

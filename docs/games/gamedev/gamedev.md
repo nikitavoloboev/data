@@ -310,3 +310,4 @@
 - [I still use Flash (2022)](https://foon.uk/how-flash-2022/) ([HN](https://news.ycombinator.com/item?id=34079543))
 - [multiplayer MUD server for a game in Go](https://github.com/jasonbot/mud)
 - [Remaking old computer graphics with AI image generation (2023)](https://jalammar.github.io/ai-image-generation-tools/) ([HN](https://news.ycombinator.com/item?id=34212564))
+- [The System Behind Hades' Astounding Dialogue](https://www.youtube.com/watch?v=bwdYL0KFA_U)

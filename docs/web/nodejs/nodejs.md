@@ -440,3 +440,4 @@ Currently prefer using [Deno](../../web/deno.md) instead of Node. Sometimes use 
 - [nypm](https://github.com/unjs/nypm) - Unified Package Manager for Node.js.
 - [Implementation of the napi API for WASM](https://github.com/devongovett/napi-wasm)
 - [Node.js Middleware – никогда больше! (2020)](https://www.youtube.com/watch?v=RS8x73z4csI)
+- [Scriptful](https://github.com/Playful-Systems/scriptful) - Create better package.json scripts.

@@ -92,3 +92,5 @@ Liked [this talk](https://www.youtube.com/watch?v=5jUQZFnmiPo) as an intro.
 - [JS Protocol Buffers](https://github.com/protocolbuffers/protobuf-javascript)
 - [protofmt](https://github.com/pabloariasal/protofmt) - Formatter for Protocol Buffer Files.
 - [Protocol Buffers- A Banked Journey - Christopher Reeves (2022)](https://www.youtube.com/watch?v=5jUQZFnmiPo)
+- [OpenAPI generation from Protobuf](https://github.com/technicallyjosh/protoc-gen-openapi)
+- [PGGT](https://github.com/srikrsna/protoc-gen-gotag) - Protoc plugin used to add/replace struct tags on generated protobuf messages.

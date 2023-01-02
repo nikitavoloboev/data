@@ -279,6 +279,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Swift with Vincent](https://www.swiftwithvincent.com/)
 - [Zhengdong](https://zhengdongwang.com/blog)
 - [Andy Grove](https://andygrove.io/)
+- [Jamie Ryan](https://depatterning.substack.com/)
 
 ## Notes
 

@@ -1029,3 +1029,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Liquid Structural State-Space Models (2022)](https://arxiv.org/abs/2209.12951) ([Code](https://github.com/raminmh/liquid-s4))
 - [OpenXLA](https://github.com/openxla/xla) - Community-driven and modular open source compiler for ML.
 - [Graph-based Fraud Detection Papers and Resources](https://github.com/safe-graph/graph-fraud-detection-papers)
+- [Trustworthy AI related projects](https://github.com/huawei-noah/trustworthyAI)

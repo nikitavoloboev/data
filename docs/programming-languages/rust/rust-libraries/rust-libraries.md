@@ -78,6 +78,7 @@
 - [is-terminal](https://github.com/sunfishcode/is-terminal) - Test whether a given stream is a terminal.
 - [supports-color](https://github.com/zkat/supports-color) - Detects whether a terminal supports color, and gives details about that support.
 - [TUI-Input](https://github.com/sayanarijit/tui-input) - TUI input library supporting multiple backends and tui-rs.
+- [CLI Batteries](https://github.com/recmo/cli-batteries) - Batteries included command line interfaces.
 
 ## Web
 
@@ -228,6 +229,7 @@
 - [Dacquiri](https://github.com/resyncgg/dacquiri) - Strong, compile-time enforced authorization framework for rust applications. ([Tweet](https://twitter.com/InsanityBit/status/1545157199311187968))
 - [Frank JWT](https://github.com/GildedHonour/frank_jwt) - JSON Web Token implementation in Rust.
 - [oauth1-request](https://github.com/tesaguri/oauth1-request-rs) - OAuth 1.0 client library for Rust.
+- [totp-rs](https://github.com/constantoine/totp-rs) - RFC-compliant TOTP implementation with ease of use as a goal and additionnal QoL features.
 
 ## WASM
 

@@ -368,7 +368,7 @@ title: WebAssembly
 - [Security and Correctness in Wasmtime (2022)](https://bytecodealliance.org/articles/security-and-correctness-in-wasmtime) ([HN](https://news.ycombinator.com/item?id=32825377))
 - [Wasmtime 1.0 (2022)](https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready) ([HN](https://news.ycombinator.com/item?id=32913533))
 - [Ask HN: What are the use cases of WASM outside the browser? (2022)](https://news.ycombinator.com/item?id=32942524)
-- [spall](https://github.com/colrdavidson/spall) - WASM flamegraph tracing renderer.
+- [spall](https://github.com/colrdavidson/spall) - WASM flamegraph tracing renderer. ([Web](https://gravitymoth.com/spall/)) ([HN](https://news.ycombinator.com/item?id=34217938))
 - [walloc](https://github.com/wingo/walloc) - Small malloc implementation, for use in WebAssembly.
 - [Roadmap - WebAssembly](https://webassembly.org/roadmap/)
 - [Finicky Whiskers](https://www.finickywhiskers.com/index.html) - Manual Load Generator. ([Code](https://github.com/fermyon/finicky-whiskers))

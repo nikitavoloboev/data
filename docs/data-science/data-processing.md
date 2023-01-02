@@ -149,3 +149,4 @@
 - [Apache Arrow Cookbooks](https://github.com/apache/arrow-cookbook)
 - [parquet2json](https://github.com/jupiter/parquet2json) - Command-line tool for streaming Parquet as line-delimited JSON.
 - [What I Want from DataFusion in 2023](https://andygrove.io/2023/01/what-i-want-from-datafusion-2023/)
+- [xvc](https://github.com/iesahin/xvc) - Fast and robust MLOps tool for managing data and pipelines.

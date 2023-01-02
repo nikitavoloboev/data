@@ -268,3 +268,4 @@
 - [Smithy Translate](https://github.com/disneystreaming/smithy-translate) - Tooling that enables converting to and from Smithy. ([Reddit](https://www.reddit.com/r/scala/comments/zftfwf/smithytranslate_a_cli_tool_to_turn_openapi_specs/))
 - [Scala Template](https://github.com/scala/hello-world.g8)
 - [Scala One](https://github.com/propensive/one) - Platform of libraries for Scala 3.
+- [Managing micro libraries with Scala CLI - Alexandre Archambault (2022)](https://www.youtube.com/watch?v=_wG-DZ0FMQY)

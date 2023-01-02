@@ -8,6 +8,8 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 
 [Next-Intl](https://github.com/amannn/next-intl) is nice for internalization. [Next Auth](https://next-auth.js.org/) is great for auth.
 
+[Create T3 app](https://github.com/t3-oss/create-t3-app) is nice starter.
+
 ## Example sites
 
 - [Taxonomy](https://github.com/shadcn/taxonomy) - Open source application built using the new router, server components and everything new in Next.js 13.

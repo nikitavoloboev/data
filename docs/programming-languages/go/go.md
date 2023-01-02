@@ -8,7 +8,7 @@ Prefer using Go for all code I want to run not in the browser (scripts, web serv
 
 I love the tooling around it like [VS Code](../../text-editors/vs-code/vs-code.md) and its [Go plugin](https://github.com/golang/vscode-go). The powerful `go` command line tool and the rich ecosystem of libraries and tools that people have built.
 
-Go promotes composition over inheritance.
+Go promotes [composition over inheritance](https://www.youtube.com/watch?v=hxGOiiR9ZKg).
 
 [Tour of Go](https://go.dev/tour/welcome/1) & [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) are great places to [learn Go](https://www.reddit.com/r/golang/comments/t8owza/best_go_tutorials_in_town/). [Go Internals](https://cmc.gitbook.io/go-internals/) is nice for more in depth look.
 

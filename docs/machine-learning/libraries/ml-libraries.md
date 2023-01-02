@@ -447,3 +447,4 @@ title: ML Libraries
 - [Mango](https://github.com/ARM-software/mango) - Parallel Hyperparameter Tuning in Python.
 - [River](https://github.com/online-ml/river) - Online machine learning in Python.
 - [hypertune](https://github.com/polyaxon/hypertune) - Library for performing hyperparameter optimization.
+- [CausalPy](https://github.com/pymc-labs/CausalPy) - Python package for causal inference in quasi-experimental settings.

@@ -131,6 +131,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [File generator](https://github.com/poppinss/file-generator) - Generate fake in-memory files for varying sizes.
 - [Fast-Fuzz](https://github.com/WeWatchWall/fast-fuzz) - Test Case Generator Based on Branch Coverage and Fuzzing.
 - [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
+- [Kelonio](https://github.com/mtkennerly/kelonio) - Performance testing library for Node, written in TypeScript.
 
 ## Auth
 
@@ -734,6 +735,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [data-transport](https://github.com/unadlib/data-transport) - Simple and responsible transport.
 - [Nano Stores Router](https://github.com/nanostores/router) - Tiny URL router for Nano Stores state manager.
 - [Simple Data Analysis](https://github.com/nshiab/simple-data-analysis.js) - Easy-to-use JavaScript library for most common data analysis tasks.
+- [JS Polars](https://github.com/pola-rs/js-polars) - Contains the JS <--> WASM bindings for the polars library.
 
 ## Links
 

@@ -56,3 +56,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [Pa](https://github.com/biox/pa) - Simple password manager based on age. ([Lobsters](https://lobste.rs/s/m7efzy/pa_simple_password_manager_based_on_age)) ([HN](https://news.ycombinator.com/item?id=34159631))
 - [kbs2](https://github.com/woodruffw/kbs2) - Secret manager backed by age.
 - [Ask HN: How do you manage your passwords in 2023?](https://news.ycombinator.com/item?id=34206768)
+- [Bitwarden Client Applications](https://github.com/bitwarden/clients)

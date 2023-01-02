@@ -150,3 +150,4 @@ title: BitTorrent
 - [qBittorrentKit](https://github.com/adborbas/qBittorrentKit) - Light-weight qBittorrent client for iOS and macOS.
 - [yahms](https://github.com/adborbas/yahms) - Open-source qBittorrent client for iOS.
 - [Hellish](https://github.com/vaartis/hellish) - Torrent tracker.
+- [Pieces](https://github.com/eliasson/pieces) - BitTorrent client implemented in Python 3 using asyncio.

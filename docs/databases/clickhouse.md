@@ -43,4 +43,4 @@ title: ClickHouse
 - [asynch](https://github.com/long2ice/asynch) - Asyncio ClickHouse Python Driver with native (TCP) interface support.
 - [ClickHouse Cloud is now in Public Beta (2022)](https://clickhouse.com/blog/clickhouse-cloud-public-beta) ([HN](https://news.ycombinator.com/item?id=33080631))
 - [ClickHouse Ansible](https://github.com/AlexeySetevoi/ansible-clickhouse)
-- [Querying the GitHub archive with the ClickHouse playground (2022)](https://til.simonwillison.net/clickhouse/github-explorer)
+- [Querying the GitHub archive with the ClickHouse playground (2022)](https://til.simonwillison.net/clickhouse/github-explorer) ([HN](https://news.ycombinator.com/item?id=34207883))

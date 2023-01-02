@@ -661,3 +661,4 @@ title: Linux
 - [modreveal](https://github.com/jafarlihi/modreveal) - Utility to find hidden Linux kernel modules.
 - [Running fast and slow: experiments with BPF programs performance (2022)](https://erthalion.info/2022/12/30/bpf-performance/)
 - [TuringCell](https://github.com/turingcell/turingcell) - Run Linux over Paxos/Raft.
+- [debos](https://github.com/go-debos/debos) - Debian OS builder.
