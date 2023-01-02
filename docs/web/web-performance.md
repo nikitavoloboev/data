@@ -217,3 +217,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Adding Complementary Performance Data to Your Site (2022)](https://www.htmhell.dev/adventcalendar/2022/6/)
 - [How to bundle images with a web app to reduce the amount of requests](https://twitter.com/cpojer/status/1608410525775572992)
 - [Web performance, code splitting strategies, and a React case study (2022)](https://www.iamtk.co/web-performance-code-splitting-strategies-and-react-applications)
+- [Compress An Image Before Upload With JavaScript (2023)](https://pqina.nl/blog/compress-image-before-upload/)

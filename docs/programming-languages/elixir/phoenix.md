@@ -134,3 +134,4 @@ title: Phoenix framework
 - [7 GUIs: Implementing a Circle Drawer in LiveView (2022)](https://www.germanvelasco.com/blog/seven-guis-circle-drawer)
 - [TDD Phoenix | Test-Driven Development with Phoenix](https://www.tddphoenix.com/)
 - [Testing LiveView](https://www.testingliveview.com/)
+- [Elixir, Phoenix, LiveView, Ash. (2023)](https://medium.com/@brunoripa/elixir-phoenix-liveview-ash-part-1-7f36a1e321ed)

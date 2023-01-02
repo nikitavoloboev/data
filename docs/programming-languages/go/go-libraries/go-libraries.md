@@ -171,6 +171,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [assert](https://github.com/junk1tm/assert) - Common assertions to use with the standard testing package.
 - [golden](https://github.com/nao1215/golden) - Golden file testing for Go.
 - [e2e](https://github.com/efficientgo/e2e) - Robust framework for running complex workload scenarios in isolation, using Go; for integration, e2e tests, benchmarks and more.
+- [counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) - Tool for generating self-contained, type-safe test doubles in go.
 
 ## Web
 

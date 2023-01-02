@@ -943,3 +943,4 @@ if *boolArgPtr != false {
 - [Pre Commit Go hooks](https://github.com/dnephin/pre-commit-golang)
 - [GopherCon 2022: Zach Musgrave - Performance in a High-throughput SQL Database](https://www.youtube.com/watch?v=IiPT6g2F1Kk)
 - [teler-waf](https://github.com/kitabisa/teler-waf) - Comprehensive security solution for Go-based web applications.
+- [Awesome Go with stars](https://github.com/amanbolat/awesome-go-with-stars)

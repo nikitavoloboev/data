@@ -13,3 +13,7 @@ title: Nostr
 - [Damus](https://github.com/damus-io/damus) - iOS nostr client.
 - [Rana](https://github.com/grunch/rana) - Public keys that can be used with nostr.
 - [Mostro](https://github.com/MostroP2P/mostro) - Lightning Network peer-to-peer nostr platform.
+- [Nostr Deno Client Library](https://github.com/KiPSOFT/nostr-deno)
+- [Nostros](https://github.com/KoalaSat/nostros) - NOSTR mobile client.
+- [FROSTR](https://github.com/nickfarrow/frostr) - Use frost to sign nostr events with friends.
+- [Nostr Relay Registry](https://github.com/fiatjaf/nostr-relay-registry) - Dynamic registry of nostr relays.

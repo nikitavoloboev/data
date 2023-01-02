@@ -4,7 +4,7 @@
 
 I now am using [Solid](../../js-libraries/solid.md) for all my web apps and static sites, so trying to port many useful hooks from here for Solid.
 
-[React Spectrum](https://github.com/adobe/react-spectrum) has quality UI components.
+[React Spectrum](https://github.com/adobe/react-spectrum) has quality UI components. [React TS Form](https://github.com/iway1/react-ts-form) is great for form handling.
 
 ## Notes
 

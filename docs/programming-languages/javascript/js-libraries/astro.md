@@ -75,3 +75,4 @@ title: Astro
 - [Smooth Page Transitions with Astro & the Shared Element Transition API](https://github.com/Charca/astro-view-transitions) ([Tweet](https://twitter.com/charca/status/1594725772148752391))
 - [Radix Icons for Astro](https://github.com/astro-community/icons)
 - [Astro-i18n](https://github.com/Alexandre-Fernandez/astro-i18n) - TypeScript-first internationalization library for Astro.
+- [Astro, React and SolidJS Dancing Together (2022)](https://dev.to/mbarzeev/astro-react-and-solidjs-dancing-together-56oc)

@@ -192,3 +192,9 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [decorock](https://github.com/ddPn08/decorock) - Styled component library for solid.
 - [Solid tiptap](https://github.com/lxsmnsyc/solid-tiptap)
 - [A React Developer's First Take on Solid (2022)](https://jakelazaroff.com/words/a-react-developers-first-take-on-solid/)
+- [Converting a React Component to SolidJS (2022)](https://dev.to/mbarzeev/converting-a-react-component-to-solidjs-5bgj)
+- [Testing a SolidJS Component Using Vitest (2022)](https://dev.to/mbarzeev/update-testing-a-solidjs-component-using-vitest-1pj9)
+- [Taking SolidJS Dev-Tools for a Spin (2022)](https://dev.to/mbarzeev/taking-solidjs-dev-tools-for-a-spin-44m2)
+- [Using SolidJS Dev-Tools Locator Feature (2022)](https://dev.to/mbarzeev/using-solidjs-dev-tools-locator-feature-1445)
+- [Convert Your SolidJS Component To TypeScript (2022)](https://dev.to/mbarzeev/convert-your-solidjs-component-to-typescript-1opn)
+- [SolidJS Crash Course - Building a REST API Client (2023)](https://dev.to/codewithahsan/solidjs-crash-course-building-a-rest-api-client-part-1-57ee)

@@ -414,3 +414,4 @@ title: WebAssembly
 - [WASI Experimental HTTP](https://github.com/deislabs/wasi-experimental-http) - Experimental outbound HTTP support for WebAssembly and WASI.
 - [Deis Labs](https://deislabs.io/) - Simplifying and empowering container-native development. ([GitHub](https://github.com/deislabs)) ([Twitter](https://twitter.com/deislabs))
 - [wasm-snip](https://github.com/rustwasm/wasm-snip) - Replaces a WebAssembly function's body with an `unreachable`.
+- [WASM Shared Memory](https://github.com/tristanpemble/wasm-shared-memory) - How to share memory between WASM module instantiations with Rust and Wasmtime.

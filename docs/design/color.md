@@ -216,3 +216,4 @@
 - [Tailwind CSS 10-color Palette Generator and API](https://www.tints.dev/) ([Code](https://github.com/SimeonGriggs/tints.dev))
 - [Quick tip on creating gradients](https://twitter.com/disco_lu/status/1599786152164106240)
 - [iro.js](https://iro.js.org/) - Modular, design-conscious color picker widget for JavaScript. ([Code](https://github.com/jaames/iro.js))
+- [Brute Force Colors (2022)](https://arnaud-carre.github.io/2022-12-30-amiga-ham/) ([HN](https://news.ycombinator.com/item?id=34200249))

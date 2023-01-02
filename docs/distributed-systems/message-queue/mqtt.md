@@ -66,3 +66,4 @@ title: MQTT
 - [MQTT X](https://github.com/emqx/MQTTX) - Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools. ([Web](https://mqttx.app/))
 - [TinyGo MQTT](https://github.com/waj334/tinygo-mqtt)
 - [MQTT encoder & decoder, written in Go](https://github.com/huin/mqtt)
+- [Zigbee2MQTT](https://www.zigbee2mqtt.io/) - Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges. ([Docs Code](https://github.com/Koenkk/zigbee2mqtt.io))

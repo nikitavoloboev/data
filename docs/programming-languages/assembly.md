@@ -113,3 +113,4 @@ title: Assembly
 - [asmcfg](https://github.com/badlogic/asmcfg) - Assembly control flow graph/basic block visualizer for the web.
 - [Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm_book)
 - [CEMU](https://github.com/hugsy/cemu) - Cheap EMUlator: lightweight multi-architecture assembly playground.
+- [Intro to x86 Assembly Language - YouTube](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe) ([Code](https://github.com/code-tutorials/assembly-intro))

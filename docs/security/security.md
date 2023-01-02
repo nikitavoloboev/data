@@ -337,3 +337,5 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [All in One Hacking tool For Hackers](https://github.com/Z4nzu/hackingtool)
 - [Certbot](https://github.com/certbot/certbot) - EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.
 - [Trying Out Flipper Zero (2022)](https://twitter.com/antirez/status/1609137698404700161) ([HN](https://news.ycombinator.com/item?id=34215390))
+- [ProtoView](https://github.com/antirez/protoview) - Flipper Zero app to display known and unknown signals.
+- [Ronin](https://github.com/ronin-rb/ronin) - Ruby toolkit for security research and development.

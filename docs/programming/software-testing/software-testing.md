@@ -2,6 +2,8 @@
 
 [To TDD or not to TDD](https://changelog.com/gotime/258) was great episode on value of testing.
 
+[How to Test](https://matklad.github.io/2021/05/31/how-to-test.html) is great read.
+
 ## Notes
 
 - [My advice is never to start with unit tests. Start with integration tests and work your way backwards until it stops being worth your time.](https://twitter.com/buildsghost/status/1274240189485862912)

@@ -1,5 +1,7 @@
 # Memory management
 
+[mimalloc](https://github.com/microsoft/mimalloc) is nice general purpose allocator.
+
 ## Notes
 
 - [Reference counting is a form of garbage collection](https://twitter.com/pcwalton/status/1457170874402967553)

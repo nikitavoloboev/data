@@ -236,3 +236,4 @@ title: SQL
 - [I wrote a SQL engine in Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md) ([HN](https://news.ycombinator.com/item?id=34189422)) ([Lobsters](https://lobste.rs/s/s0zhoa/why_i_wrote_sql_engine_only_python))
 - [Materialized View: SQL Queries on Steroids (2022)](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/) ([Lobsters](https://lobste.rs/s/y76rvj/materialized_view_sql_queries_on)) ([HN](https://news.ycombinator.com/item?id=34186098))
 - [Partial State in Dataflow-Based Materialized Views (2013)](https://jon.thesquareplanet.com/papers/phd-thesis.pdf)
+- [Easy, alternative soft deletion: `deleted_record_insert` (2022)](https://brandur.org/fragments/deleted-record-insert)

@@ -136,3 +136,4 @@
 - [Ask HN: What is your favorite front end state management solution? (2022)](https://news.ycombinator.com/item?id=34130767)
 - [Фронтенд - YouTube](https://www.youtube.com/@user-kd6bu2qj1v/videos) ([Events](https://github.com/Semigradsky/events))
 - [Frontend Infrastructure Notes](https://www.iamtk.co/frontend-infrastructure) ([Code](https://github.com/imteekay/frontend-infrastructure))
+- [Ask HN: Why did Frontend development explode in complexity? (2023)](https://news.ycombinator.com/item?id=34218003)

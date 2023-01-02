@@ -46,3 +46,4 @@ title: Differential equations
 - [Linear Algebra & Differential Equations course (2022)](https://github.com/lin-lin/MATH54)
 - [PINO: Physics-informed Neural Operator for Learning Partial Differential Equation](https://github.com/devzhk/PINO)
 - [Numerical Simulation of Ordinary Differential Equations: Integrating ODEs (2022)](https://www.youtube.com/watch?v=QBeNXHrAYns&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&index=40)
+- [Towards Multi-spatiotemporal-scale Generalized PDE Modeling (2022)](https://arxiv.org/abs/2209.15616) ([Code](https://github.com/microsoft/pdearena))

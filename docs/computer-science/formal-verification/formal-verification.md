@@ -163,3 +163,4 @@ title: Formal verification
 - [Thoughts on user interfaces for theorem provers (2022)](https://lawrencecpaulson.github.io//2022/12/14/User_interfaces.html)
 - [Logical Verification 2022–2023](https://lean-forward.github.io/logical-verification/2022/index.html)
 - [The Hitchhiker’s Guide to Logical Verification (2022)](https://raw.githubusercontent.com/blanchette/logical_verification_2022/master/hitchhikers_guide.pdf)
+- [Modeling Database Tables in Alloy (2023)](https://bytes.zone/posts/modeling-database-tables-in-alloy/)

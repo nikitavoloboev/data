@@ -1,6 +1,6 @@
 # SSH
 
-[Tailscale](https://tailscale.com/) replaces SSH well I think.
+[Tailscale](https://tailscale.com/) replaces SSH well I think. Liked [this visual guide to SSH](https://iximiuz.com/en/posts/ssh-tunnels/).
 
 ## Links
 
@@ -139,3 +139,5 @@
 - [AsyncSSH](https://github.com/ronf/asyncssh) - Asynchronous SSH for Python.
 - [Sharing your SSH keys with GitHub](https://davidgasquez.bearblog.dev/sharing-ssh-keys/)
 - [pbproxy](https://github.com/nikvdp/pbproxy) - Send your clipboard anywhere you can ssh to.
+- [A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding (2022)](https://iximiuz.com/en/posts/ssh-tunnels/)
+- [Hardware-based SSH/GPG/age agent](https://github.com/romanz/trezor-agent)

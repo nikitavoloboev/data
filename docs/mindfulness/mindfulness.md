@@ -73,3 +73,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Science-based tools to reduce stress](https://twitter.com/hubermanlab/status/1592968635643219968)
 - [Box Breathing Technique](https://lassebomh.github.io/box-breathing/) - Visual animation to help with calmness, mindfulness, stress and anxiety. ([HN](https://news.ycombinator.com/item?id=33653540))
 - [Ask HN: How to overcome stage fear / social anxiety (2022)](https://news.ycombinator.com/item?id=33876690)
+- [Open](https://o-p-e-n.com/) - Guided Meditation | Mindfulness | Breathwork.

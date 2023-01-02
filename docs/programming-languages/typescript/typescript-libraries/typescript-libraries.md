@@ -732,6 +732,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [polyclip-js](https://github.com/steveruizok/polyclip-js) - JavaScript implementation of the Greiner-Hormann clipping algorithm.
 - [Mutative](https://github.com/unadlib/mutative) - JavaScript library for efficient immutable updates, 10x faster than Immer by default, even faster than naive handcrafted reducer.
 - [data-transport](https://github.com/unadlib/data-transport) - Simple and responsible transport.
+- [Nano Stores Router](https://github.com/nanostores/router) - Tiny URL router for Nano Stores state manager.
 
 ## Links
 

@@ -148,3 +148,6 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [Explore the fediverse, but use block like it's a machine gun in a zombie apocalypse (2022)](https://boyter.org/posts/mastinator-activitypub-breaking-assumptions/)
 - [The Architecture of Mastodon (2022)](https://matt-rickard.com/the-architecture-of-mastodon)
 - [Notes on importing content to Mastodon](https://github.com/lucahammer/fediporter)
+- [Some Tricks To Making Mastodon Way More Useful (2022)](https://www.techdirt.com/2022/12/29/some-tricks-to-making-mastodon-way-more-useful/)
+- [Mastodon—and the pros and cons of moving beyond Big Tech gatekeepers (2022)](https://arstechnica.com/gadgets/2022/12/mastodon-highlights-pros-and-cons-of-moving-beyond-big-tech-gatekeepers/)
+- [Public Roadmap - Mastodon](https://joinmastodon.org/roadmap)

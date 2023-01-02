@@ -393,6 +393,7 @@
 - [schnellru](https://github.com/koute/schnellru) - Fast and flexible LRU map.
 - [Canyon-SQL](https://github.com/zerodaycode/Canyon-SQL) - Rust ORM and query builder for multiple databases. ([Reddit](https://www.reddit.com/r/rust/comments/zv5znb/a_new_orm_and_querybuilder_for_rust/))
 - [Quick Cache](https://github.com/arthurprs/quick-cache) - Lightweight and high performance concurrent cache.
+- [Xline](https://github.com/datenlord/Xline) - Geo-distributed KV store for metadata management.
 
 ## Video
 
@@ -2566,6 +2567,7 @@
 - [ddt](https://github.com/dudykr/ddt) - Clean dead git branches & Remove outdated cargo artifacts. ([Reddit](https://www.reddit.com/r/rust/comments/zah8ly/i_made_a_cli_tool_to_remove_only_outdated_cargo/))
 - [cargo-single](https://github.com/inejge/cargo-single) - Cargo subcommand for handling single-source Rust programs with dependencies.
 - [cargo-mommy](https://github.com/Gankra/cargo-mommy) - Support you when running cargo.
+- [cargo-fetcher](https://github.com/EmbarkStudios/cargo-fetcher) - Alternative to cargo fetch for use in CI or other "clean" environments.
 
 ## Notes
 

@@ -25,6 +25,7 @@ title: Vue.js
 - [VuePress Home Page](https://github.com/imfing/vuepress-homepage) - Elegant & friendly homepage (bio, tech portfolio, resume, doc...) template with Markdown and VuePress.
 - [Nuxt 3 + Medium (n3dium)](https://github.com/danielroe/n3dium)
 - [Avantage](https://github.com/jurassicjs/avantage) - Accelerate building full stack node applications with Nuxt 3.
+- [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board desktop application with a focus on simplicity and user experience.
 
 ## Notes
 

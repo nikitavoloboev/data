@@ -275,6 +275,9 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [German Velasco](https://www.germanvelasco.com/blog)
 - [Jake Zimmerman](https://blog.jez.io/)
 - [Thomas](https://blog.cavelab.dev/archive/)
+- [Natascha Fadeeva](https://tanaschita.com/)
+- [Swift with Vincent](https://www.swiftwithvincent.com/)
+- [Zhengdong](https://zhengdongwang.com/blog)
 
 ## Notes
 
