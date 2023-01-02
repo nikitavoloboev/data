@@ -94,3 +94,4 @@ Like listening to [Andrew Huberman](https://www.youtube.com/c/AndrewHubermanLab/
 - [Huberman AI](https://huberman.rile.yt/) - Factual AI Q&A – Answers based on Huberman Lab transcripts. ([HN](https://news.ycombinator.com/item?id=34030389))
 - [Биосеминары](https://bioseminars.wordpress.com/)
 - [Apple Health Grafana](https://github.com/k0rventen/apple-health-grafana) - Visualize your apple health export in Grafana.
+- [Ask HN: How do you work on your mental health? (2023)](https://news.ycombinator.com/item?id=34218240)

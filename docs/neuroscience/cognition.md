@@ -32,3 +32,4 @@
 - [How to control the metacognition process of programming? (2022)](https://lambdaisland.com/blog/2022-02-17-the-fg-command) ([HN](https://news.ycombinator.com/item?id=30955203))
 - [Who's doing good research on cognitive science? (2022)](https://www.reddit.com/r/cogsci/comments/uhnj6d/who_are_the_big_hitters_in_cog_sci_today/)
 - [Michael Levin: Intelligence Beyond the Brain (2022)](https://www.youtube.com/watch?v=RwEKg5cjkKQ)
+- [Mathematical Foundations for a Compositional Account of the Bayesian Brain (2022)](https://arxiv.org/abs/2212.12538)

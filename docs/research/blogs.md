@@ -278,6 +278,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Natascha Fadeeva](https://tanaschita.com/)
 - [Swift with Vincent](https://www.swiftwithvincent.com/)
 - [Zhengdong](https://zhengdongwang.com/blog)
+- [Andy Grove](https://andygrove.io/)
 
 ## Notes
 

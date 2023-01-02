@@ -59,3 +59,4 @@ title: Arweave
 - [Chowder](https://github.com/turja-c/chowder) - Storage solution that lets you store images & text on Arweave then view all the past content you've uploaded.
 - [Arweave Ecosystem Landscape](https://twitter.com/warp_contracts/status/1604810600869425152)
 - [Warp](https://warp.cc/) - Smart contracts on Arweave. ([Twitter](https://twitter.com/warp_contracts))
+- [Arweave Standards](https://github.com/ArweaveTeam/arweave-standards) - Arweave standards, specifications and best practices.

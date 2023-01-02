@@ -148,3 +148,4 @@
 - [Using Commandline To Process CSV files (2022)](https://muhammadraza.me/2022/data-oneliners/)
 - [Apache Arrow Cookbooks](https://github.com/apache/arrow-cookbook)
 - [parquet2json](https://github.com/jupiter/parquet2json) - Command-line tool for streaming Parquet as line-delimited JSON.
+- [What I Want from DataFusion in 2023](https://andygrove.io/2023/01/what-i-want-from-datafusion-2023/)

@@ -21,6 +21,7 @@
 - [Seva Tattoo](https://www.instagram.com/sevatattoo_brand/)
 - [Lera Chervotkina](https://www.instagram.com/lupokes/)
 - [Злата Зива](https://www.instagram.com/zlata_ziva/)
+- [git\_\_b](https://www.instagram.com/git__b/)
 
 ## Links
 

@@ -35,3 +35,4 @@
 - [PWA Resources](https://github.com/shareup/pwa-resources) - Curated collection of resources for learning to build Progressive Web Apps.
 - [Best PWAs out there (2022)](https://twitter.com/hankchizljaw/status/1506724902702927875)
 - [Learn PWA](https://web.dev/learn/pwa/) ([HN](https://news.ycombinator.com/item?id=32675791))
+- [Atri Framework](https://github.com/Atri-Labs/atrilabs-engine) - Full stack web development framework to build Progressive Web Apps (PWA) faster.
