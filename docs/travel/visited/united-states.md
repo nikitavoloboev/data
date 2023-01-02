@@ -189,3 +189,4 @@ I try to avoid pointless politics as much as possible but do like [John Mearshei
 - [Book recommendations for a concise synopsis of the history of US Monetary policy (2022)](https://www.reddit.com/r/EconomicHistory/comments/zqu2mq/any_book_recommendations_for_a_concise_synopsis/)
 - [‘Big’ US Cities with Low Income Tax or Low COL (2022)](https://www.reddit.com/r/financialindependence/comments/zv1p4p/big_us_cities_with_low_income_tax_or_low_col/)
 - [History of the united states, I guess (2022)](https://www.youtube.com/watch?v=JcfEaT86HSU)
+- [Is it better to be rich and on the fatFIRE path in America or Europe? (2023)](https://www.reddit.com/r/fatFIRE/comments/101bgfr/is_it_better_to_be_rich_and_on_the_fatfire_path/)

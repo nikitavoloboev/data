@@ -153,3 +153,4 @@ title: LLVM
 - [How to contribute to LLVM (2022)](https://developers.redhat.com/articles/2022/12/20/how-contribute-llvm#) ([Reddit](https://www.reddit.com/r/rust/comments/zqta8k/how_to_contribute_to_llvm_by_nikita_popov/))
 - [This year in LLVM (2022)](https://www.npopov.com/2022/12/20/This-year-in-LLVM-2022.html)
 - [Go LLVM](https://github.com/tinygo-org/go-llvm) - Go bindings to a system-installed LLVM. Used as part of TinyGo.
+- [Compile and run LLVM IR in the browser](https://soedirgo.github.io/llvm-wasm/) ([Code](https://github.com/soedirgo/llvm-wasm))

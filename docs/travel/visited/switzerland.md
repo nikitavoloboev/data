@@ -10,3 +10,4 @@
 - [Transfer times in Switzerland's train network (2022)](https://www.jokteur.com/a/integrated-timetable-switzerland/) ([HN](https://news.ycombinator.com/item?id=31807913))
 - [ch.ch](https://www.ch.ch/en/) - Swiss Authorities online.
 - [Railtrack](https://railtrack.flk.li) - Web app to track your train journeys in and around Switzerland.
+- [Things to consider relocating to Switzerland](https://www.reddit.com/r/fatFIRE/comments/101bgfr/comment/j2n2qki/?context=3)
