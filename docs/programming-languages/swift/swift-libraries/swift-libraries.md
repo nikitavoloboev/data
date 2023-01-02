@@ -608,6 +608,7 @@
 - [SwiftUIGraphs](https://github.com/DominikButz/SwiftUIGraphs) - Replacement for SwiftUI Charts.
 - [OutlineView](https://github.com/Sameesunkaria/OutlineView) - SwiftUI view for macOS, which allows you to display hierarchical visual layouts.
 - [ComputeUI](https://github.com/swift-cloud/ComputeUI) - Write SwiftUI / Tokamak apps on Fastly Compute@Edge.
+- [AnimateText](https://github.com/jasudev/AnimateText) - Library for animating text. Developed with SwiftUI.
 
 ## Test
 

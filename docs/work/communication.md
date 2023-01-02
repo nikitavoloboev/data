@@ -229,3 +229,4 @@ There's a difference between criticism and personal attacks. The latter is best 
 - [Ask HN: How to work with people who push back forcefully? (2022)](https://news.ycombinator.com/item?id=33856788)
 - [Ask HN: Strategies for Being More Eloquent? (2022)](https://news.ycombinator.com/item?id=33924206)
 - [Steve Jobs Insult Response](https://www.youtube.com/watch?v=oeqPrUmVz-o) ([HN](https://news.ycombinator.com/item?id=34032672))
+- [Conversation skills essentials](https://tynan.com/letstalk/) ([HN](https://news.ycombinator.com/item?id=34206418))

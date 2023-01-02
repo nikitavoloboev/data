@@ -128,3 +128,4 @@
 - [Polar](https://github.com/ant4g0nist/polar) - LLDB plugin which queries OpenAI's davinci-003 language model to explain the disassembly.
 - [Reverse Engineering Tiktok's VM Obfuscation (2022)](https://nullpt.rs/reverse-engineering-tiktok-vm-1)
 - [REVIDE](https://github.com/LLVMParty/REVIDE) - Next generation reverse engineering IDE.
+- [GPT-WPRE](https://github.com/moyix/gpt-wpre) - Whole-program Reverse Engineering with GPT-3.

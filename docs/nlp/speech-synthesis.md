@@ -103,3 +103,4 @@
 - [Enhance Speech from Adobe](https://podcast.adobe.com/enhance) - Free AI filter for cleaning up spoken audio. ([HN](https://news.ycombinator.com/item?id=34047976))
 - [Incorporating AutoVocoder to MB-iSTFT-VITS](https://github.com/hcy71o/MB-iSTFT-VITS-with-AutoVocoder)
 - [Automatic Prosody Annotation with Pre-Trained Text-Speech Model](https://github.com/Daisyqk/Automatic-Prosody-Annotation)
+- [Ask HN: Are there any good open source text-to-speech tools? (2023)](https://news.ycombinator.com/item?id=34211457)

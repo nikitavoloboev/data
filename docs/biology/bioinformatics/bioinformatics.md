@@ -271,3 +271,4 @@ title: Bioinformatics
 - [Fierce Biotech](https://www.fiercebiotech.com/) - Biotech industry news.
 - [Chroma PyTorch](https://github.com/lucidrains/chroma-pytorch) - Generative models of protein using DDPM and GNNs, in Pytorch.
 - [Equiformer Diffusion](https://github.com/lucidrains/equiformer-diffusion) - Implementation of Denoising Diffusion for protein design, but using the new Equiformer (successor to SE3 Transformers) with some additional improvements.
+- [BioSpaCy](https://github.com/wjbmattingly/biospacy) - SpaCy pipeline for processing biology texts.

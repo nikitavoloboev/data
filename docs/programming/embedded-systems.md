@@ -2,7 +2,7 @@
 
 [Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) & [Mastering Embedded Linux](https://www.thirtythreeforty.net/series/mastering-embedded-linux/) are useful reads. [TinyGo](https://github.com/tinygo-org/tinygo) is nice. [RTIC (Real-Time Interrupt-driven Concurrency)](https://github.com/rtic-rs/cortex-m-rtic) is fascinating.
 
-Also looking into [Embassy](https://embassy.dev/).
+Also looking into [Embassy](https://embassy.dev/) & [Toit](https://github.com/toitlang/toit).
 
 [Rust on ESP-IDF "Hello, World" template](https://github.com/esp-rs/esp-idf-template) is great starter code.
 
@@ -237,3 +237,4 @@ Also looking into [Embassy](https://embassy.dev/).
 - [Common micro controllers (2023)](https://www.reddit.com/r/embedded/comments/100fg89/common_micro_controllers/)
 - [rp-hal-boards](https://github.com/rp-rs/rp-hal-boards) - Board Support Packages for RP2040 based PCBs.
 - [Project template for rp2040-hal](https://github.com/rp-rs/rp2040-project-template)
+- [Jaguar](https://github.com/toitlang/jaguar) - Use live reloading over WiFI to turbo-charge developing for your ESP32.

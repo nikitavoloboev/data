@@ -1307,3 +1307,4 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [The hand-picked selection of the best Python libraries and tools of 2022](https://www.reddit.com/r/Python/comments/zvxb2x/the_handpicked_selection_of_the_best_python/)
 - [How we extended the River stats module with Rust using PyO3 (2022)](https://boring-guy.sh/posts/river-rust/)
 - [mousebender](https://github.com/brettcannon/mousebender) - Produce/consume dependency lock files for Python.
+- [Classifying Python virtual environment workflows (2023)](https://snarky.ca/classifying-python-virtual-environment-workflows/) ([Lobsters](https://lobste.rs/s/ebjyvt/classifying_python_virtual_environment))

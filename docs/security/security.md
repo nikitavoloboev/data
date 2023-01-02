@@ -335,3 +335,5 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Cybersecurity Interview Questions Collections with Answers](https://github.com/jassics/cybersecurity-interview-questions)
 - [Turning Google smart speakers into wiretaps for $100k (2022)](https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html)
 - [All in One Hacking tool For Hackers](https://github.com/Z4nzu/hackingtool)
+- [Certbot](https://github.com/certbot/certbot) - EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.
+- [Trying Out Flipper Zero (2022)](https://twitter.com/antirez/status/1609137698404700161) ([HN](https://news.ycombinator.com/item?id=34215390))

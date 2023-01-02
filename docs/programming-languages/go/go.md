@@ -942,3 +942,4 @@ if *boolArgPtr != false {
 - [Go is Almost Perfect](https://www.lremes.com/posts/golang/) ([Reddit](https://www.reddit.com/r/golang/comments/1008rhs/luciano_remes_golang_is_%F0%9D%98%BC%F0%9D%99%A1%F0%9D%99%A2%F0%9D%99%A4%F0%9D%99%A8%F0%9D%99%A9_perfect/)) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/100724x/the_golang_design_errors/))
 - [Pre Commit Go hooks](https://github.com/dnephin/pre-commit-golang)
 - [GopherCon 2022: Zach Musgrave - Performance in a High-throughput SQL Database](https://www.youtube.com/watch?v=IiPT6g2F1Kk)
+- [teler-waf](https://github.com/kitabisa/teler-waf) - Comprehensive security solution for Go-based web applications.

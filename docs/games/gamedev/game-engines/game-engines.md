@@ -134,6 +134,7 @@
 - [MelonJS](https://github.com/melonjs/melonJS) - Fresh and lightweight JavaScript game engine. ([Web](https://melonjs.org/)) ([HN](https://news.ycombinator.com/item?id=34049896))
 - [PyUnity](https://github.com/pyunity/pyunity) - Pure Python 3D Game Engine that was inspired by the structure of the Unity Game Engine.
 - [SwiftVVD](https://github.com/Hongtae/SwiftVVD) - Swift 3D Game Engine.
+- [Raycaster Rust](https://github.com/markusmoenig/Raycaster) - Full featured raycaster engine to produce games similar to Wolfenstein 3D.
 
 ## Physics engines
 

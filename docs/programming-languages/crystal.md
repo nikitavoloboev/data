@@ -22,3 +22,4 @@ title: Crystal
 - [Marten](https://github.com/martenframework/marten) - Pragmatic web framework. ([Web](https://martenframework.com/)) ([HN](https://news.ycombinator.com/item?id=33398253))
 - [Lucky](https://github.com/luckyframework/lucky) - Full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that lasts.
 - [Ameba](https://github.com/crystal-ameba/ameba) - Static code analysis tool for Crystal.
+- [Crest](https://github.com/mamantoha/crest) - HTTP and REST client for Crystal.

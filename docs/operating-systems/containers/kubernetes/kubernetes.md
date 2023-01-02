@@ -895,3 +895,4 @@ title: Kubernetes
 - [echoperator](https://github.com/mmontes11/echoperator) - Simple Kubernetes operator built from scratch with client-go.
 - [Kubernetes Controller Sharding](https://github.com/timebertt/kubernetes-controller-sharding)
 - [Zeus](https://github.com/oslabs-beta/Zeus) - Visualize your Kubernetes clusters through a GUI and query cluster data through custom command lines in your terminal.
+- [From Monolith to K8s](https://github.com/salaboy/from-monolith-to-k8s) - Workshop-style guide for creating Cloud-Native applications running on top of Kubernetes.

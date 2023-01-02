@@ -985,7 +985,7 @@
 - [Microserde](https://github.com/cloudhead/microserde) - Miniserde minus the dependencies.
 - [Abomonation](https://github.com/TimelyDataflow/abomonation) - Mortifying serialization library for Rust.
 - [PyO3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter. ([HN](https://news.ycombinator.com/item?id=25956502)) ([Maturin - Build and publish crates with pyo3](https://github.com/PyO3/maturin))
-- [Actix](https://github.com/actix/actix) - Actor framework for Rust. ([Examples](https://github.com/actix/examples)) ([User Guides](https://github.com/actix/book))
+- [Actix](https://github.com/actix/actix) - Actor framework for Rust. ([Examples](https://github.com/actix/examples)) ([User Guides](https://github.com/actix/book)) ([HN](https://news.ycombinator.com/item?id=34189843))
 - [Actix Governor](https://github.com/AaronErhardt/actix-governor) - Middleware for actix-web that provides rate-limiting backed by governor.
 - [Actix Extras](https://github.com/actix/actix-extras) - Collection of additional crates supporting the actix and actix-web frameworks.
 - [Tokio](https://github.com/tokio-rs/tokio) - Runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers. ([Web](https://tokio.rs/)) ([Tokio Console](https://tokio.rs/blog/2021-12-announcing-tokio-console)) ([HN](https://news.ycombinator.com/item?id=29594389))
@@ -2455,6 +2455,7 @@
 - [libvault_rs](https://github.com/abedra/libvault_rs) - Rust library for Hashicorp Vault.
 - [busan](https://github.com/JohnMurray/busan) - Actor implementation in Rust.
 - [Akt](https://github.com/akozhemiakin/akt) - Actors framework for Rust and Tokio.
+- [coredump](https://github.com/d-e-s-o/coredump) - Crate to force coredump creation on panics.
 
 ## Cargo Plugins
 

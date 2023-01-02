@@ -194,3 +194,4 @@
 - [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation (2022)](https://arxiv.org/abs/2209.05451) ([Code](https://github.com/peract/peract))
 - [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies)
 - [Robotics Transformer](https://github.com/google-research/robotics_transformer)
+- [Learning Generalizable Dexterous Manipulation from Human Grasp Affordance (2022)](https://arxiv.org/abs/2204.02320) ([Code](https://github.com/kristery/dex-affordance))

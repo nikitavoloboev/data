@@ -212,6 +212,7 @@ div.CodeMirror-cursor,
 - [Google Photos for Obsidian](https://github.com/alangrainger/obsidian-google-photos) - Connect to Google Photos from Obsidian.
 - [Code Editor Shortcuts](https://github.com/timhor/obsidian-editor-shortcuts)
 - [Obsidian Projects](https://github.com/marcusolsson/obsidian-projects) - Project management for Obsidian.
+- [Omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Imports your saved Omnivore articles and highlights into Obsidian.
 
 ## Themes
 

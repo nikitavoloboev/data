@@ -149,3 +149,4 @@ title: Minecraft
 - [Convert SimCity 2000 cities into Minecraft worlds](https://github.com/jgosar/mine-city-2000) ([HN](https://news.ycombinator.com/item?id=33799526))
 - [I liberate the ending to Minecraft from Microsoft and give it to you (2022)](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend) ([HN](https://news.ycombinator.com/item?id=33904251))
 - [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod) - Complex nuclear engineering mod for Minecraft.
+- [Shulker](https://github.com/IamBlueSlime/Shulker) - Kubernetes operator for managing complex Minecraft infrastructures, including game servers and proxies.

@@ -1973,6 +1973,8 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by simply defining an interface.
 - [Go Type Adapters](https://github.com/googleapis/go-type-adapters) - Type adapters for common Go protobuf messages.
 - [Signals](https://github.com/maniartech/signals) - Simple, lightweight, and easy to use events library for Go.
+- [libdeflate](https://github.com/4kills/go-libdeflate) - Go wrapper for the libdeflate library, supporting super fast zlib, gzip, and deflate compression, using cgo. Use case: in-memory, whole-buffered data.
+- [Transition](https://github.com/qor/transition) - Go state machine implementation.
 
 ## Links
 

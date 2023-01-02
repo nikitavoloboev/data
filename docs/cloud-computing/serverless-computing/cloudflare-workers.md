@@ -223,3 +223,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Cloudflare Workers - YouTube](https://www.youtube.com/@CloudflareWorkers/videos)
 - [Yjs backend for Cloudflare Workers](https://github.com/threepointone/y-workers)
 - [Hono Client](https://github.com/honojs/client) - TypeSafe HTTP Client for Hono.
+- [Cloudflare Worker JWT](https://github.com/tsndr/cloudflare-worker-jwt) - Lightweight JWT implementation with ZERO dependencies for Cloudflare Workers.

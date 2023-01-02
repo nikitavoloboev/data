@@ -6,6 +6,8 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 
 [MIT OS Engineering](https://pdos.csail.mit.edu/6.S081/2020/schedule.html) (with [code](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)) & [Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com) courses are great. Many more nice resources can be [found here](https://twitter.com/bradfitz/status/1495066999587627011).
 
+[xv6-riscv in Rust](https://github.com/Ko-oK-OS/xv6-rust) is nice read.
+
 ## Interesting OSes
 
 - [MirageOS](https://github.com/mirage/mirage) - Library operating system that constructs unikernels. ([Docs](https://docs.mirage.io/)) ([Docs code](https://github.com/mirage/docs)) ([mirage-solo5](https://github.com/mirage/mirage-solo5)) ([The road ahead for MirageOS in 2021](https://hannes.robur.coop/Posts/NGI)) ([MirageOS 4.0](https://mirage.io/blog/announcing-mirage-40)) ([HN](https://news.ycombinator.com/item?id=30840571)) ([Examples of simple MirageOS apps](https://github.com/mirage/mirage-skeleton))
@@ -414,3 +416,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Ask HN: Why aren't there DSLs for Operating Systems? (2022)](https://news.ycombinator.com/item?id=33734299)
 - [Running a Unix-like OS on a home-built CPU with a home-built C compiler (2020)](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/) ([HN](https://news.ycombinator.com/item?id=33761419))
 - [9th International Workshop on Plan 9](https://iwp9.org/)
+- [Re-implement xv6-riscv in Rust](https://github.com/Ko-oK-OS/xv6-rust)

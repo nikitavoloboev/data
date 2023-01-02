@@ -1087,6 +1087,8 @@
 - [Webspace Engine](https://github.com/webspace-sdk/webspace-engine) - Create 3D worlds using just HTML.
 - [Sortable](https://github.com/SortableJS/Sortable) - JavaScript library for reorderable drag-and-drop lists.
 - [active-win](https://github.com/sindresorhus/active-win) - Get metadata about the active window (title, id, bounds, owner, etc).
+- [unfetch](https://github.com/developit/unfetch) - Bare minimum 500b fetch polyfill.
+- [debounce-fn](https://github.com/sindresorhus/debounce-fn) - Debounce a function.
 
 ## Links
 

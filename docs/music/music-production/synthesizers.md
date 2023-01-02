@@ -109,3 +109,4 @@ Love [Nils Frahm](https://www.nilsfrahm.com/)'s [synthesizers setup](https://equ
 - [Live Coding Video Synth](https://hydra.ojack.xyz/) ([HN](https://news.ycombinator.com/item?id=33668198))
 - [Video Synthesis - MOD WIGGLER](https://modwiggler.com/forum/viewforum.php?f=48)
 - [Logue SDK](https://github.com/korginc/logue-sdk) - Build custom oscillators and effects for the prologue synthesizer.
+- [FM synth reverse-engineering](https://github.com/jwt27/esfm)

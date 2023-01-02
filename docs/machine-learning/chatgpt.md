@@ -29,3 +29,5 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [Let’s try ChatGPT. Is it any good? (2022)](https://www.youtube.com/watch?v=q2A-MkGjvmI)
 - [GPT.sh](https://github.com/shorwood/gptsh) - Use GPT to translate queries into shell commands.
 - [Awesome ChatGPT](https://github.com/Kamigami55/awesome-chatgpt)
+- [Talk to ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt) - Chrome extension that allows users to talk with the ChatGPT AI using their voice.
+- [ExplainThisCode](https://github.com/evyatar9/ExplainThisCode) - VSCode extension that uses the ChatGPT API to provide explanations for selected code.
