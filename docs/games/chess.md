@@ -257,3 +257,4 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [Acquisition of Chess Knowledge in AlphaZero (2022)](https://www.pnas.org/doi/10.1073/pnas.2206625119) ([HN](https://news.ycombinator.com/item?id=33681795))
 - [Noctie](https://noctie.ai/rate-me) - Chess AI that predicts your rating. ([HN](https://news.ycombinator.com/item?id=33718600))
 - [Human Chess](https://humanchess.abcd.party/) - Chess variant where playing the top engine move is forbidden. ([HN](https://news.ycombinator.com/item?id=33814653))
+- [Three very simple tips from an advanced player for improving your chess](https://www.reddit.com/r/chess/comments/100tvui/three_very_simple_tips_from_an_advanced_player/)
