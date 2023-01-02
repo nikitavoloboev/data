@@ -298,3 +298,4 @@
 - [Paper: VR Revisited - View changes - Questions (2022)](https://jack-vanlightly.com/analyses/2022/12/20/paper-vr-revisited-view-change-questions-part1)
 - [Transactions in distributed systems (2022)](https://medium.com/nerd-for-tech/transactions-in-distributed-systems-b5ceea869d7d)
 - [Ask HN: What are best patterns for events in distributed transactions? (2022)](https://news.ycombinator.com/item?id=34171751)
+- [Thinking in Distributed Systems Book](https://book.dtornow.com/)

@@ -229,3 +229,4 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [Is Dark Mode Good for Your Eyes? (2020)](https://kevquirk.com/is-dark-mode-such-a-good-idea/) ([HN](https://news.ycombinator.com/item?id=33947820))
 - [Can use live data on OpenGraph images](https://twitter.com/jullerino/status/1605204887847194625)
 - [Practical UI](https://www.practical-ui.com/) - UI design book. ([Tweet](https://twitter.com/FonsMans/status/1605955001037094912))
+- [Building Better UI Designs With Layout Grids (2017)](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/)

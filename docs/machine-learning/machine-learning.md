@@ -664,7 +664,6 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Contrastive Self-Supervised Learning (2020)](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
 - [Top AI Conference Papers with Code](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code)
 - [Awesome Deep Learning papers for industrial Search, Recommendation and Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising)
-- [JaxTon](https://github.com/vopani/jaxton) - 100 exercises to learn JAX.
 - [Deep Multi-attribute Graph Representation Learning on Protein Structures (2020)](https://arxiv.org/abs/2012.11762)
 - [Variational Diffusion Models (2021)](https://arxiv.org/abs/2107.00630) ([Code](https://github.com/yoyololicon/variational-diffwave))
 - [Cheat sheet for the "Deep Learning" course at ETH Zürich](https://github.com/andbloch/eth-dl-cheat-sheet)

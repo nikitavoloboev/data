@@ -10,7 +10,7 @@ Best way to do marketing is simply [launching features often and sharing updates
 
 [Landing Page Copywriting](https://www.julian.com/guide/startup/landing-pages) is great read.
 
-Building a brand that people recognize and like takes time but ultimately it's about iterating on product [thoughtful & fast](../management/management.md). Communicating releases well. And having clear feedback channels with your customers. If [user based analytics](../analytics/analytics.md) are used, they should focus on getting closer to great product. 
+Building a brand that people recognize and like takes time but ultimately it's about iterating on product [thoughtful & fast](../management/management.md). Communicating releases well. And having clear feedback channels with your customers. If [user based analytics](../analytics/analytics.md) are used, they should focus on getting closer to great product.
 
 Recently, I like how [CleanShot](https://twitter.com/cleanshot) iterates and shares updates on their product.
 
@@ -210,6 +210,7 @@ Recently, I like how [CleanShot](https://twitter.com/cleanshot) iterates and sha
 - [Startup Handbook: Landing Page Copywriting](https://www.julian.com/guide/startup/landing-pages)
 - [Landing Page Copywriting Advice](https://twitter.com/dan_abramov/status/1603395450006126594)
 - [Vintage Apple advertisements](https://www.printmag.com/advertising/making-the-mac-20-vintage-apple-ads/) ([HN](https://news.ycombinator.com/item?id=34007654))
+- [Underrated growth tool: playgrounds](https://twitter.com/rauchg/status/1609633615511711747)
 
 ## Images
 

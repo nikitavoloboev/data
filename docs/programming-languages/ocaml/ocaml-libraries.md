@@ -41,6 +41,7 @@ title: OCaml libraries
 
 - [zeta](https://github.com/liaopeiyuan/zeta) - Functional neural networks in ocaml. ([HN](https://news.ycombinator.com/item?id=22020287))
 - [prbnmcn-clustering](https://github.com/igarnier/prbnmcn-clustering) - Clustering with k-means, k-medoids & agglomerative clustering.
+- [OCaNNL](https://github.com/lukstafi/ocannl) - OCaml Neural Networks Library with shape inference, MetaOCaml code generation.
 
 ## DB
 

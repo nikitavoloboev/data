@@ -23,3 +23,4 @@ I saw a [few documentaries](https://letterboxd.com/nikitavoloboev/films/genre/do
 - [Ask HN: What are some of the best documentaries you've seen? (2022)](https://news.ycombinator.com/item?id=32799789)
 - [What are some of your favorite documentaries?](https://twitter.com/michael_nielsen/status/1569122080096161794)
 - [Great documentaries that aren't true crime or about pop stars](https://twitter.com/levelsio/status/1581690458664640514)
+- [The Best Documentaries of 2022](https://nonfics.com/best-documentaries-2022/)

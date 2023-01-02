@@ -154,4 +154,4 @@
 - [Hyperdrive](https://github.com/hypercore-protocol/hyperdrive-next) - Secure, real-time distributed file system.
 - [OpenZFS](https://github.com/openzfsonosx/openzfs) - Advanced file system and volume manager.
 - [Apple File System for Linux](https://github.com/linux-apfs/linux-apfs-rw)
-- [FatFs - Generic FAT Filesystem Module](http://elm-chan.org/fsw/ff/00index_e.html)
+- [FatFs - Generic FAT Filesystem Module](http://elm-chan.org/fsw/ff/00index_e.html) ([HN](https://news.ycombinator.com/item?id=34210076))

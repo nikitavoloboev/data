@@ -62,3 +62,4 @@ Earth is for everyone, not just humans. Be kind. Be goal & [value](../business/s
 
 - [Happy New Year HN! What are your plans for the new year? (2021)](https://news.ycombinator.com/item?id=29746344)
 - [Ask HN: What is your new year's resolution? (2022)](https://news.ycombinator.com/item?id=34192647)
+- [YearCompass](https://yearcompass.com/) - Booklet that helps close your year and plan the next one.

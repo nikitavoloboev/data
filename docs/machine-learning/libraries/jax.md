@@ -4,7 +4,7 @@ title: JAX
 
 # [JAX](https://github.com/google/jax)
 
-[Differential Programming with JAX course](https://ericmjl.github.io/dl-workshop/) & [JAX in Action](https://www.manning.com/books/jax-in-action) are nice. [Meta Optimal Transport](https://github.com/facebookresearch/meta-ot) is nice JAX repo to run/study.
+[Differential Programming with JAX course](https://ericmjl.github.io/dl-workshop/), [JAX in Action](https://www.manning.com/books/jax-in-action) & [JaxTon](https://github.com/vopani/jaxton) are great. [Meta Optimal Transport](https://github.com/facebookresearch/meta-ot) is nice JAX repo to run/study.
 
 [Robert Lange](https://github.com/RobertTLange) has nice JAX repos.
 
@@ -94,3 +94,4 @@ Learning to use [BlackJAX](https://github.com/blackjax-devs/blackjax) to do Baye
 - [Structural Time Series (STS) in JAX](https://github.com/probml/sts-jax)
 - [safejax](https://github.com/alvarobartt/safejax) - Serialize JAX/Flax models with safetensors.
 - [dejax](https://github.com/hr0nix/dejax) - Accelerated replay buffers in JAX.
+- [JaxTon](https://github.com/vopani/jaxton) - 100 exercises to learn JAX.
