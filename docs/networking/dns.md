@@ -264,3 +264,4 @@ title: DNS
 - [NSD](https://github.com/NLnetLabs/nsd) - Authoritative DNS name server.
 - [ctrld](https://github.com/Control-D-Inc/ctrld) - Highly configurable, multi-protocol DNS forwarding proxy.
 - [DNS LOC (2022)](https://ryan.freumh.org/blog/dns_loc_rr/)
+- [mdns-sd](https://github.com/keepsimple1/mdns-sd) - Rust library for mDNS based Service Discovery.

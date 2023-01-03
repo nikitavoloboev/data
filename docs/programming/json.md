@@ -175,3 +175,4 @@ title: JSON
 - [jqjq](https://github.com/wader/jqjq) - Jq Implementation of Jq. ([HN](https://news.ycombinator.com/item?id=33741688))
 - [JSON BinPack](https://github.com/sourcemeta/jsonbinpack) - Open-source binary JSON serialization format with a strong focus on space efficiency.
 - [AJAX without the X: The History of JSON (2022)](https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/) ([Lobsters](https://lobste.rs/s/knzxe4/ajax_without_x_history_json))
+- [Ask HN: Why isn't JSON-RPC more widely adopted? (2023)](https://news.ycombinator.com/item?id=34211796)

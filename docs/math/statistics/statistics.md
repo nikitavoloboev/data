@@ -1,6 +1,6 @@
 # Statistics
 
-[Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) & [Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) are [great reads](https://www.reddit.com/r/datascience/comments/v6sv06/what_is_the_bible_of_data_science/).
+[Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html), [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) & [Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) are [great reads](https://www.reddit.com/r/datascience/comments/v6sv06/what_is_the_bible_of_data_science/).
 
 [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html) is nice read too.
 

@@ -738,3 +738,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: What is your system for dirty dishes? (2022)](https://news.ycombinator.com/item?id=34184262)
 - [What hobbies to pursue (2022)](https://twitter.com/_ali_taylor/status/1608855000675127297)
 - [Culture Mechanics (2021)](https://depatterning.substack.com/p/culture-mechanics-i) ([Part 2](https://depatterning.substack.com/p/culture-mechanics-ii-acceleration))
+- [Ask HN: Pros and cons of thinking in public vs. in private? (2023)](https://news.ycombinator.com/item?id=34223288)

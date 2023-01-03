@@ -286,3 +286,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [How diffusion models work](https://twitter.com/iScienceLuvr/status/1592860019057250304)
 - [My Midjourney AI Art](https://chenglou.me/) ([Code](https://github.com/chenglou/chenglou.github.io))
 - [Flake for running SD on NixOS](https://github.com/gbtb/nix-stable-diffusion)
+- [Diffusion Models in Vision: A Survey (2022)](https://arxiv.org/abs/2209.04747v1) ([Code](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey))

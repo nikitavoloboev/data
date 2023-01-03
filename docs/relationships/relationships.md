@@ -341,3 +341,4 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [The Love Prescription: Seven Days to More Intimacy, Connection, and Joy (2022)](https://www.gottman.com/product/the-love-prescription/)
 - [Eight Dates: Essential Conversations for a Lifetime of Love (2019)](https://www.goodreads.com/en/book/show/37588679)
 - [Intimacy & Desire: Awaken the Passion in Your Relationship (2009)](https://www.goodreads.com/book/show/7010183-intimacy-desire)
+- [It's okay to disappoint people](https://twitter.com/Theholisticpsyc/status/1609905065602740226)

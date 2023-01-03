@@ -1977,6 +1977,8 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Signals](https://github.com/maniartech/signals) - Simple, lightweight, and easy to use events library for Go.
 - [libdeflate](https://github.com/4kills/go-libdeflate) - Go wrapper for the libdeflate library, supporting super fast zlib, gzip, and deflate compression, using cgo. Use case: in-memory, whole-buffered data.
 - [Transition](https://github.com/qor/transition) - Go state machine implementation.
+- [Event Sourcing](https://github.com/hallgren/eventsourcing) - Capture all changes to an application state as a sequence of events.
+- [QRCode](https://github.com/shogo82148/qrcode) - QR code, Micro QR code and Rectangular Micro QR Code (rMQR) encoder.
 
 ## Links
 

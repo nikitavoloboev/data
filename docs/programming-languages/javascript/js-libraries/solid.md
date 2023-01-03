@@ -22,7 +22,7 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 
 Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../networking/graphql/graphql.md) client.
 
-[Solid Native](https://github.com/tjjfvi/solid-native) is exciting.
+[Solid Native](https://github.com/tjjfvi/solid-native) is exciting. [Modular Forms](https://github.com/fabian-hiller/modular-forms) is great for forms.
 
 ## OSS apps
 

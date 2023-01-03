@@ -1069,3 +1069,4 @@
 - [Exploring Cross-Image Pixel Contrast for Semantic Segmentation (2021)](https://arxiv.org/abs/2101.11939) ([Code](https://github.com/tfzhou/ContrastiveSeg))
 - [Towards Robust Blind Face Restoration with Codebook Lookup Transformer (2022)](https://arxiv.org/abs/2206.11253) ([Code](https://github.com/sczhou/CodeFormer))
 - [Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction (2022)](https://arxiv.org/abs/2205.15848) ([Code](https://github.com/GhiXu/Geo-Neus))
+- [ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders (2023)](https://arxiv.org/abs/2301.00808) ([Code](https://github.com/facebookresearch/ConvNeXt-V2))

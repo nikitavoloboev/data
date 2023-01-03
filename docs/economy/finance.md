@@ -246,3 +246,5 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Formance](https://www.formance.com/) - Modular developer platform to build and operate complex money flows of any size and shape. ([Code](https://github.com/formancehq/stack))
 - [rust_ledger](https://github.com/ebcrowder/rust_ledger) - Rust implementation of ledger, the command line accounting tool.
 - [Most impactful book read this year (2022)](https://www.reddit.com/r/fatFIRE/comments/zp4g1f/most_impactful_book_read_this_year/)
+- [The infrastructure behind ATMs (2023)](https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/) ([HN](https://news.ycombinator.com/item?id=34221157))
+- [ISO 8583 - Wikipedia](https://en.wikipedia.org/wiki/ISO_8583)

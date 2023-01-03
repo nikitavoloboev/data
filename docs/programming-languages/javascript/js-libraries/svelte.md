@@ -11,6 +11,7 @@ title: Svelte
 ## Example sites
 
 - [Pocketbase SvelteKit Auth](https://github.com/jianyuan/pocketbase-sveltekit-auth)
+- [Go Svelte SPA](https://github.com/saas-templates/go-svelte)
 - [SvelteKit, running on the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge)
 - [SvelteKit Commerce](https://github.com/vercel/sveltekit-commerce)
 - [KitBase Starter Template](https://github.com/kevmodrome/kitbase) - Starter template geared towards quickly spinning up projects using PocketBase and Stripe.

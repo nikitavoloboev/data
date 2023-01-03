@@ -4,7 +4,7 @@
 
 Most useful thing to know when trying to solve problems especially related to programming is to [stop thinking about shortcuts and abstractions early](https://twitter.com/rossipedia/status/1580639227313676288). [Do the simplest thing that solves the problem. Then make pretty (add docs, nice designs, ..). Then make fast.](https://twitter.com/nvs/status/1405240039299117057)
 
-[Weathering Software Winter](http://100r.co/site/weathering_software_winter.html) is inspiring talk in building things for yourself.
+[Weathering Software Winter](https://100r.co/site/weathering_software_winter.html) is inspiring talk in building things for yourself.
 
 My current stack for writing software is described [here](https://twitter.com/nikitavoloboev/status/1606262383315492864).
 

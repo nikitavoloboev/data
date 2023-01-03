@@ -151,3 +151,4 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [Some Tricks To Making Mastodon Way More Useful (2022)](https://www.techdirt.com/2022/12/29/some-tricks-to-making-mastodon-way-more-useful/)
 - [Mastodon—and the pros and cons of moving beyond Big Tech gatekeepers (2022)](https://arstechnica.com/gadgets/2022/12/mastodon-highlights-pros-and-cons-of-moving-beyond-big-tech-gatekeepers/)
 - [Public Roadmap - Mastodon](https://joinmastodon.org/roadmap)
+- [Private and Public Mastodon](https://www.tbray.org/ongoing/When/202x/2022/12/30/Mastodon-Privacy-and-Search) ([HN](https://news.ycombinator.com/item?id=34221851))

@@ -170,3 +170,4 @@ I am currently using builtin MacBook keyboard and love it. I love the low key tr
 - [The best mechanical keyboards of 2022](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
 - [Build guides for different keyboards](https://github.com/keyhive/build_guides)
 - [cybertype](https://cybertype.app/) - Fast & Minimal Typing App. ([Code](https://github.com/MananTank/cybertype))
+- [Keyboard layout evaluation](https://github.com/bclnr/kb-layout-evaluation)

@@ -760,3 +760,5 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Training language models to follow instructions with human feedback (2022)](https://arxiv.org/abs/2203.02155) ([Web](https://openai.com/blog/instruction-following/))
 - [Lila: A Unified Benchmark for Mathematical Reasoning (2022)](https://arxiv.org/abs/2210.17517)
 - [LibMultiLabel](https://github.com/ASUS-AICS/LibMultiLabel) - Library for Multi-class and Multi-label Text Classification.
+- [Paper Notes on Pretrain Language Models with Factual Knowledge](https://github.com/dqxiu/PLMs-with-Knowledge)
+- [Atlas: Few-shot Learning with Retrieval Augmented Language Models (2022)](https://arxiv.org/abs/2208.03299) ([Code](https://github.com/facebookresearch/atlas))

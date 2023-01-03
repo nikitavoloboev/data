@@ -1102,6 +1102,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Matchering](https://github.com/sergree/matchering) - Audio Matching and Mastering.
 - [python-magic](https://github.com/ahupp/python-magic) - Python wrapper for libmagic.
 - [HiPart](https://github.com/panagiotisanagnostou/HiPart) - Hierarchical divisive clustering algorithm execution, visualization and Interactive visualization.
+- [audio-offset-finder](https://github.com/bbc/audio-offset-finder) - Find the offset of an audio file within another audio file.
 
 ## Notes
 

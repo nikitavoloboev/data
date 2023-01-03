@@ -499,3 +499,4 @@ Awesome List
 - [The Definitive Guide for Authenticating a GitHub App (2022)](https://blog.replay.io/the-definitive-guide-for-authenticating-a-github-app)
 - [Adding `gh` to my pull request workflow (2022)](https://www.germanvelasco.com/blog/adding-gh-to-my-workflow)
 - [Git Backup](https://github.com/amitsaha/gitbackup) - Tool to backup your GitHub repos.
+- [Toodle](https://toodle.dev/) - Track comments as GitHub issues.

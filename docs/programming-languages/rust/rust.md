@@ -1003,3 +1003,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Cerberus](https://github.com/h311d1n3r/Cerberus) - Python tool to unstrip Rust binaries on Linux.
 - [Mini Docker Rust](https://github.com/kpcyrd/mini-docker-rust)
 - [Should Small Rust Structs be Passed by-copy or by-borrow? (2019)](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/) ([HN](https://news.ycombinator.com/item?id=34196294)) ([Reddit](https://www.reddit.com/r/rust/comments/zzxz2e/should_small_rust_structs_be_passed_bycopy_or/)) ([Lobsters](https://lobste.rs/s/z3hjwp/should_small_rust_structs_be_passed_by))
+- [Rust for Professionals](https://overexact.com/rust-for-professionals/) ([HN](https://news.ycombinator.com/item?id=34223557))

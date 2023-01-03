@@ -137,3 +137,4 @@ title: Electrical engineering
 - [Ask HN: Can you recommend a book to learn basic electrical concepts/engineering? (2022)](https://news.ycombinator.com/item?id=33869277)
 - [Logic Primitive Transformations with Yosys Techmap (2022)](https://blog.yosyshq.com/p/logic-primitive-transformations-with-yosys-techmap/)
 - [Digital Logic Sim](https://sebastian.itch.io/digital-logic-sim) - Minimalistic digital logic simulator.
+- [Mechanical circuits: electronics without electricity (2022)](https://www.youtube.com/watch?v=QrkiJZKJfpY) ([HN](https://news.ycombinator.com/item?id=34218660))

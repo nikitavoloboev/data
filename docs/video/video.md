@@ -465,3 +465,5 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Oddity](https://oddity.ai/) - Builds deep learning algorithms to automate video surveillance. ([GitHub](https://github.com/oddity-ai))
 - [mp4-h264-reencode](https://github.com/vjeux/mp4-h264-re-encode) - Pure re-encoding of an mp4-h264 video file with the web APIs as well as in-depth description of how it works.
 - [camera.ui](https://github.com/seydx/camera.ui) - NVR like user Interface for RTSP capable cameras.
+- [ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Automate downloading and metadata generation with YoutubeDL.
+- [My YouTube earnings (2022)](https://brickexperimentchannel.wordpress.com/2022/11/19/my-youtube-earnings/) ([HN](https://news.ycombinator.com/item?id=34225192))

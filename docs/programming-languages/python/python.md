@@ -51,7 +51,7 @@ for i, _ in enumerate(nums):
 - [RustPython](https://github.com/RustPython/RustPython) - Python Interpreter written in Rust. ([HN](https://news.ycombinator.com/item?id=29094323))
 - [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 - [Awesome Python Security resources](https://github.com/guardrailsio/awesome-python-security)
-- [Pyright](https://github.com/Microsoft/pyright) - Static type checker for the Python language.
+- [Pyright](https://github.com/Microsoft/pyright) - Static type checker for the Python language. ([HN](https://news.ycombinator.com/item?id=34222407))
 - [cpython](https://github.com/python/cpython) - Python programming language source code.
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again.
 - [Python at Netflix (2019)](https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e)

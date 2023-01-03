@@ -307,3 +307,4 @@
 - [Conformance Should Mean Something - fputc, and Freestanding (2022)](https://thephd.dev/conformance-should-mean-something-fputc-and-freestanding)
 - [Ask HN: Learn C in 2023?](https://news.ycombinator.com/item?id=34105770)
 - [50 years of C, the good, the bad and the ugly (2022)](https://streaming.media.ccc.de/jev22/relive/49151)
+- [SOCC](https://github.com/noti0na1/socc) - Simple C Compiler in OCaml.

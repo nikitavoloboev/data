@@ -100,6 +100,7 @@
 - [stateful-check](https://github.com/czan/stateful-check) - Stateful generative testing in Clojure.
 - [facai](https://github.com/lambdaisland/facai) - Factories for fun and profit.
 - [cartestian](https://github.com/nathell/cartestian) - Test all the combinations.
+- [datapotato](https://github.com/donut-party/datapotato) - Better database fixtures for tests.
 
 ## Graphics
 

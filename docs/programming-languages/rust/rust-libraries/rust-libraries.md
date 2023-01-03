@@ -575,6 +575,7 @@
 - [asserhttp](https://github.com/beltram/asserhttp) - Fluent HTTP response assertions.
 - [Google Rust testing library](https://github.com/google/googletest-rust)
 - [Mry](https://github.com/ryo33/mry) - Simple but powerful mocking library for structs, traits, and function.
+- [cargo-is-tested](https://github.com/blyxyas/cargo-is-tested) - Assure that your tests are there, and well written.
 
 ## Error
 
@@ -2459,6 +2460,8 @@
 - [busan](https://github.com/JohnMurray/busan) - Actor implementation in Rust.
 - [Akt](https://github.com/akozhemiakin/akt) - Actors framework for Rust and Tokio.
 - [coredump](https://github.com/d-e-s-o/coredump) - Crate to force coredump creation on panics.
+- [Serde ignored](https://github.com/dtolnay/serde-ignored) - Find out about keys that are ignored when deserializing data.
+- [OkayWAL](https://github.com/khonsulabs/okaywal) - Write-ahead log (WAL) implementation for Rust.
 
 ## Cargo Plugins
 
@@ -2570,6 +2573,7 @@
 - [cargo-single](https://github.com/inejge/cargo-single) - Cargo subcommand for handling single-source Rust programs with dependencies.
 - [cargo-mommy](https://github.com/Gankra/cargo-mommy) - Support you when running cargo.
 - [cargo-fetcher](https://github.com/EmbarkStudios/cargo-fetcher) - Alternative to cargo fetch for use in CI or other "clean" environments.
+- [cargo-sandbox](https://github.com/insanitybit/cargo-sandbox/) - Drop-in replacement for cargo, with the added benefit of isolating those commands from other parts of your system. ([Lobsters](https://lobste.rs/s/owyoac/releasing_cargo_sandbox_sandboxed))
 
 ## Notes
 

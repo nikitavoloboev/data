@@ -736,6 +736,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Nano Stores Router](https://github.com/nanostores/router) - Tiny URL router for Nano Stores state manager.
 - [Simple Data Analysis](https://github.com/nshiab/simple-data-analysis.js) - Easy-to-use JavaScript library for most common data analysis tasks.
 - [JS Polars](https://github.com/pola-rs/js-polars) - Contains the JS <--> WASM bindings for the polars library.
+- [LevelTwo](https://github.com/codenothing/level-two) - Distributed in-process cache.
 
 ## Links
 

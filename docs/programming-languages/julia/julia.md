@@ -158,3 +158,4 @@ title: Julia
 - [Improvements in package precompilation (2022)](https://www.youtube.com/watch?v=GnsONc9DYg0) ([Code](https://github.com/timholy/JuliaCon2022_Precompilation))
 - [What's great about Julia? (2022)](https://viralinstruction.com/posts/goodjulia/) ([HN](https://news.ycombinator.com/item?id=33900122))
 - [SciMLWorkshop: Workshop Materials for Training in Scientific Computing and Scientific Machine Learning (SciML)](https://github.com/SciML/SciMLWorkshop.jl)
+- [Data-parallel programming in Julia](https://juliafolds.github.io/data-parallelism/) ([Code](https://github.com/JuliaFolds/data-parallelism))

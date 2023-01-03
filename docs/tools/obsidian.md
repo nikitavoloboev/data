@@ -213,6 +213,7 @@ div.CodeMirror-cursor,
 - [Code Editor Shortcuts](https://github.com/timhor/obsidian-editor-shortcuts)
 - [Obsidian Projects](https://github.com/marcusolsson/obsidian-projects) - Project management for Obsidian.
 - [Omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Imports your saved Omnivore articles and highlights into Obsidian.
+- [Reference Map](https://github.com/anoopkcn/obsidian-reference-map) - Reference and citation map for literature review and discovery.
 
 ## Themes
 

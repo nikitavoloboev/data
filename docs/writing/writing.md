@@ -318,3 +318,4 @@ I love writing of [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQl
 - [Ian Fleming Explains How to Write a Thriller](https://lithub.com/ian-fleming-explains-how-to-write-a-thriller/)
 - [Writing at work (2022)](https://lcamtuf.substack.com/p/writing-at-work)
 - [Ask HN: How to get better at writing? (2022)](https://news.ycombinator.com/item?id=34127742)
+- [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) - Browser-based front-end for AI-assisted writing with multiple local & remote AI models.

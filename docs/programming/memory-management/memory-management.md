@@ -123,3 +123,4 @@
 - [I Want a Memory Diagram Generator (2022)](https://third-bit.com/2022/12/04/i-want-a-memory-diagram-generator/) ([Lobsters](https://lobste.rs/s/160e8z/i_want_memory_diagram_generator))
 - [Implementing the Perceus reference counting GC (2022)](https://dev.to/raviqqe/implementing-the-perceus-reference-counting-gc-5662)
 - [Fast memcpy, a system design (2022)](https://www.sigarch.org/fast-memcpy-a-system-design/) ([HN](https://news.ycombinator.com/item?id=34058421))
+- [gc-arena](https://github.com/kyren/gc-arena) - Experimental system for rust garbage collection.
