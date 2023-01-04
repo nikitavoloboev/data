@@ -176,3 +176,4 @@ title: JSON
 - [JSON BinPack](https://github.com/sourcemeta/jsonbinpack) - Open-source binary JSON serialization format with a strong focus on space efficiency.
 - [AJAX without the X: The History of JSON (2022)](https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/) ([Lobsters](https://lobste.rs/s/knzxe4/ajax_without_x_history_json))
 - [Ask HN: Why isn't JSON-RPC more widely adopted? (2023)](https://news.ycombinator.com/item?id=34211796)
+- [jlq](https://github.com/hamin/jlq) - Query JSON log files quickly and efficiently with the power of SQLite.

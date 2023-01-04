@@ -147,3 +147,4 @@ Also looking into [Railway](https://railway.app/) & [Cloudflare](https://www.clo
 - [Google Cloud Build community images](https://github.com/GoogleCloudPlatform/cloud-builders-community)
 - [Terraform Examples and Modules for Google Cloud](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)
 - [Builds a secure CI/CD pipeline on Google Cloud](https://github.com/GoogleCloudPlatform/terraform-google-secure-cicd)
+- [AlloyDB Go Connector](https://github.com/GoogleCloudPlatform/alloydb-go-connector)

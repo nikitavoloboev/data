@@ -334,3 +334,4 @@ title: Svelte
 - [Svelte Loading Spinners](https://schum123.github.io/svelte-loading-spinners/) ([Code](https://github.com/Schum123/svelte-loading-spinners))
 - [Everything You Need To Know About SvelteKit Routing (2022)](https://www.youtube.com/watch?v=7hXHbGj6iE0)
 - [Svead](https://github.com/spences10/svead) - Component that allows you to set head meta information, canonical, title, Twitter and Facebook Open Graph tags.
+- [Dapper UI](https://github.com/Bastian/dapper-ui) - Sleek and modern UI component library for Svelte.

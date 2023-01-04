@@ -204,6 +204,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Twitch TS](https://github.com/twurple/twurple) - Interact with Twitch's API, chat and subscribe to events via PubSub and EventSub.
 - [Twitch GraphQL](https://github.com/ColeWalker/twitch-graphql)
 - [Twitch Rust](https://github.com/Emilgardis/twitch_api2)
+- [ConvertAPI Go](https://github.com/ConvertAPI/convertapi-go)
 - [Finage](https://docs.finage.co.uk/#/) - Stock,Currency and Crypto Real-Time API.
 - [Vonage API](https://developer.nexmo.com/) - Everything you need to build connected applications. ([Code](https://github.com/Nexmo/nexmo-developer))
 - [Bing Web Search API](https://azure.microsoft.com/en-us/services/cognitive-services/bing-web-search-api/)
