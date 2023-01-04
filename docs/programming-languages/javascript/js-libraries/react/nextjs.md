@@ -103,6 +103,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Basejump SaaS starter for Supabase](https://github.com/usebasejump/basejump)
 - [NextJS Shop demo](https://github.com/vercel/cert-demo)
+- [Next 13 on Cloudflare Pages](https://github.com/cloudflare/next-on-pages)
 
 ## NextJS plugins
 

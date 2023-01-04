@@ -266,3 +266,4 @@ title: DNS
 - [DNS LOC (2022)](https://ryan.freumh.org/blog/dns_loc_rr/)
 - [mdns-sd](https://github.com/keepsimple1/mdns-sd) - Rust library for mDNS based Service Discovery.
 - [doh](https://github.com/picatz/doh) - DNS over HTTPs command-line client.
+- [Can I takeover XYZ?](https://github.com/EdOverflow/can-i-take-over-xyz) - List of services and how to claim (sub)domains with dangling DNS records.

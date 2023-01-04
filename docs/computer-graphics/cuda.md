@@ -47,3 +47,4 @@ title: CUDA
 - [CUDAMat](https://github.com/cudamat/cudamat) - Python module for performing basic dense linear algebra computations on the GPU using CUDA.
 - [CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - Open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.
 - [Rust cuBLAS](https://github.com/autumnai/rust-cublas) - Safe CUDA cuBLAS wrapper for the Rust language.
+- [CUDA rules for Bazel](https://github.com/bazel-contrib/rules_cuda)

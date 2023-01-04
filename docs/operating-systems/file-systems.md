@@ -155,3 +155,4 @@
 - [OpenZFS](https://github.com/openzfsonosx/openzfs) - Advanced file system and volume manager.
 - [Apple File System for Linux](https://github.com/linux-apfs/linux-apfs-rw)
 - [FatFs - Generic FAT Filesystem Module](http://elm-chan.org/fsw/ff/00index_e.html) ([HN](https://news.ycombinator.com/item?id=34210076))
+- [FUSE server implementation for Rust](https://github.com/jmillikin/rust-fuse)

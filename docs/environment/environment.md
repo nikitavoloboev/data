@@ -203,3 +203,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [‘It was like an apocalyptic movie’: 20 climate photographs that changed the world (2022)](https://www.theguardian.com/environment/2022/nov/05/20-climate-photographs-that-changed-the-world)
 - [Request for Startups: Climate Tech (2022)](https://www.ycombinator.com/blog/rfs-climatetech) ([HN](https://news.ycombinator.com/item?id=34002518))
 - [Ask HN: Why aim for reducing climate change? (2022)](https://news.ycombinator.com/item?id=33999229)
+- [EcoSnap](https://github.com/alyssaxuu/ecosnap) - Recycle your plastic better with Artificial Intelligence.

@@ -1031,3 +1031,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Graph-based Fraud Detection Papers and Resources](https://github.com/safe-graph/graph-fraud-detection-papers)
 - [Trustworthy AI related projects](https://github.com/huawei-noah/trustworthyAI)
 - [Paper List for In-context Learning](https://github.com/dqxiu/ICL_PaperList)
+- [Awesome Domain Generalization](https://github.com/junkunyuan/Awesome-Domain-Generalization)

@@ -396,6 +396,7 @@
 - [Canyon-SQL](https://github.com/zerodaycode/Canyon-SQL) - Rust ORM and query builder for multiple databases. ([Reddit](https://www.reddit.com/r/rust/comments/zv5znb/a_new_orm_and_querybuilder_for_rust/))
 - [Quick Cache](https://github.com/arthurprs/quick-cache) - Lightweight and high performance concurrent cache.
 - [Xline](https://github.com/datenlord/Xline) - Geo-distributed KV store for metadata management.
+- [Butane](https://github.com/Electron100/butane) - ORM for Rust with a focus on simplicity and on writing Rust, not SQL.
 
 ## Video
 

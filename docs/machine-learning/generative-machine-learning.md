@@ -290,3 +290,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Denoising Diffusion Implicit Models (DDIM)](https://github.com/ermongroup/ddim)
 - [Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models (2022)](https://wuqiuche.github.io/DiffusionDisentanglement-project-page/) ([Code](https://github.com/UCSB-NLP-Chang/DiffusionDisentanglement))
 - [PromptToImage](https://github.com/TheMurusTeam/PromptToImage) - Stable Diffusion app for macOS based on CoreML models.
+- [Stable Diffusion Deploy](https://github.com/Lightning-AI/stable-diffusion-deploy) - Learn to serve Stable Diffusion models on cloud infrastructure at scale.

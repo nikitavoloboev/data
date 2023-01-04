@@ -350,6 +350,7 @@
 
 - [QuantumInformation](https://github.com/iitis/QuantumInformation.jl) - Julia package for numerical computation in quantum information theory.
 - [ACFlow](https://github.com/huangli712/ACFlow) - Full-Fledged Analytical Continuation Toolkit in Julia.
+- [Quantum Dynamics](https://github.com/amartyabose/QuantumDynamics) - Quantum dynamics simulation environment.
 
 ## LaTeX
 

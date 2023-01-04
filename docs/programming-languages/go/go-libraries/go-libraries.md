@@ -1984,6 +1984,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [QRCode](https://github.com/shogo82148/qrcode) - QR code, Micro QR code and Rectangular Micro QR Code (rMQR) encoder.
 - [conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go.
 - [Top-K Heavykeeper](https://github.com/migotom/heavykeeper) - Top-K elephant flows finding using HeavyKeeper accurate algorithm.
+- [godebug](https://github.com/kylelemons/godebug) - Pretty Printing for Go.
 
 ## Links
 

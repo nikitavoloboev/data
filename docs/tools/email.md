@@ -307,3 +307,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [EmailTriager](https://www.emailtriager.com/) - Email on autopilot. ([HN](https://news.ycombinator.com/item?id=34150040))
 - [Terraform Provider for Gmail Filter](https://github.com/yamamoto-febc/terraform-provider-gmailfilter)
 - [Mailbox](https://mailbox.org/en/) - Secure e-mail for private and business customers.
+- [Email Cleaner](https://github.com/destroyer22719/email-cleaner) - Prevent users from inputting email addresses that'll still send to the same account.

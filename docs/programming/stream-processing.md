@@ -43,3 +43,4 @@
 - [The Dodgy State of Delivery Guarantees (2022)](https://www.youtube.com/watch?v=QmpBOCvY8mY) - Summarizing a decades worth of stream processing delivery guarantee misconceptions and bugs.
 - [Reducing Data Streaming cost by 90% using Benthos (2022)](https://medium.com/plarium-engineering/how-we-reduce-our-streaming-cost-by-90-using-benthos-fe04fcdffea7)
 - [Nussknacker](https://github.com/TouK/nussknacker) - Lets you design, deploy and monitor real time decision algorithms with easy to use GUI.
+- [Quine](https://github.com/thatdot/quine) - Streaming graph interpreter; a server-side program that consumes data, builds it into a stateful graph structure, and runs live computation on that graph to answer questions or compute results.

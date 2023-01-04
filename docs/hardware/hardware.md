@@ -390,3 +390,4 @@
 - [Veryl](https://github.com/dalance/veryl) - Modern Hardware Description Language.
 - [The Dawn and Dusk of Sun Microsystems (2022)](https://www.youtube.com/watch?v=P1TsVW4P5DI)
 - [The 3-D Transistor Transition (2023)](https://www.youtube.com/watch?v=i3dDslo9ibw)
+- [Modular Things](https://github.com/modular-things/modular-things) - Plug and play w/ virtualized hardware.
